@@ -81,6 +81,20 @@ curl -s "$BASE/stat"
 
 ## 3. 검증 및 품질 점검
 
+### 3-0. RUN.md 워크플로우 자동 실행 (작업 후 반드시)
+
+작업이 끝날 때마다 아래 커맨드로 검증·링크 점검·빌드를 한 번에 실행한다.
+
+```bash
+# opencode 커맨드 (검증 + 링크 점검 + 빌드)
+/run
+
+# 또는 스크립트 직접 실행
+python3 scripts/run.py
+python3 scripts/run.py --skip-build   # 빌드 생략
+python3 scripts/run.py --health       # API 헬스 체크 포함
+```
+
 ### 3-1. 자동 검증 스크립트
 
 ```bash
