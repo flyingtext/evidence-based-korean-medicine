@@ -33,6 +33,37 @@ def fetch(params: dict) -> dict:
         return json.load(resp)
 
 
+def fetch_all(q: str, base_params: dict, per_page: int, target: int = 0) -> list:
+    """여러 페이지를 순회하며 최대한 많은 논문을 수집한다.
+
+    - `target`이 양수면 그 수량만큼 확보할 때까지 순회한다(최대 1000건).
+    - 같은 DOI의 논문은 하나로 병합(중복 제거)한다.
+    """
+    items = []
+    seen = set()
+    page = 1
+    while target <= 0 or len(items) < target:
+        params = dict(base_params)
+        params.update({"q": q, "per_page": per_page, "page": page})
+        data = fetch(params)
+        batch = data.get("items", [])
+        if not batch:
+            break
+        for it in batch:
+            key = it.get("doi") or it.get("pmid") or it.get("url")
+            if key and key in seen:
+                continue
+            if key:
+                seen.add(key)
+            items.append(it)
+        if page >= data.get("total_pages", page):
+            break
+        page += 1
+        if len(items) >= 1000:
+            break
+    return items
+
+
 def evidence_row(item: dict) -> str:
     doi = item.get("doi") or "-"
     pmid = item.get("pmid") or "-"
@@ -53,11 +84,13 @@ def main() -> int:
     p.add_argument("--lit", action="store_true", help="문헌 고찰만")
     p.add_argument("--analyzed", action="store_true", help="분석 완료만")
     p.add_argument("--per-page", type=int, default=20, help="페이지당 개수 (1~100)")
+    p.add_argument("--target", type=int, default=0,
+                   help="수집 목표 논문 수 (0 = 전부 순회, 최대 1000)")
     p.add_argument("--page", type=int, default=1)
     p.add_argument("--out", help="출력 파일 (없으면 stdout)")
     args = p.parse_args()
 
-    params = {"q": args.q, "per_page": args.per_page, "page": args.page}
+    params = {"per_page": args.per_page}
     if args.cat:
         params["cat"] = args.cat
     if args.km:
@@ -69,13 +102,14 @@ def main() -> int:
     if args.analyzed:
         params["analyzed"] = 1
 
-    data = fetch(params)
-    items = data.get("items", [])
+    items = fetch_all(args.q, params, args.per_page, args.target)
+    first = fetch(dict(params, q=args.q, per_page=args.per_page, page=1))
+    total = first.get("total", len(items))
 
     lines = [
         f"# 근거 표: {args.q}",
         "",
-        f"> 검색어: `{args.q}` · 총 {data.get('total', 0)}건 · 페이지 {data.get('page')}/{data.get('total_pages')}",
+        f"> 검색어: `{args.q}` · 총 {total}건 · 확보 {len(items)}건 (DOI 중복 제거 후)",
         "",
         "| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |",
         "|---|---|---|---|---|---|",
