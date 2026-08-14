@@ -33,6 +33,8 @@ plugins:
   - exclude:
       glob:
         - _template.md
+extra_javascript:
+  - assets/gtag.js
 nav:
   - 홈: README.md
   - 최근 업데이트: 최근업데이트.md
