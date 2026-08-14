@@ -86,6 +86,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
       - [전립선비대증(前立腺肥大症, BPH)](./4_임상한의학/내과/신계/전립선비대증(前立腺肥大症, Benign Prostatic Hyperplasia).md)
       - [통풍(痛風, Gout)](./4_임상한의학/내과/신계/통풍(痛風, Gout).md)
       - [신증후군(腎症候群, Nephrotic Syndrome)](./4_임상한의학/내과/신계/신증후군(腎症候群, Nephrotic Syndrome).md)
+      - [방광염(膀胱炎, Cystitis)](./4_임상한의학/내과/신계/방광염(膀胱炎, Cystitis).md)
   - [산부인과](./4_임상한의학/산부인과/README.md)
     - [월경통(月經痛, Dysmenorrhea)](./4_임상한의학/산부인과/월경통.md)
     - [갱년기증후군(更年期症候群, Menopausal Syndrome)](./4_임상한의학/산부인과/갱년기증후군.md)
