@@ -69,7 +69,9 @@ nav:
   - 기초한의학:
       - 개요: 1_기초한의학/README.md
       - 원전: 1_기초한의학/원전/README.md
-      - 진단학: 1_기초한의학/진단학/README.md
+      - 진단학:
+          - 개요: 1_기초한의학/진단학/README.md
+          - 설진(舌診, Tongue Diagnosis): 1_기초한의학/진단학/설진(舌診, Tongue Diagnosis).md
       - 한방생리학: 1_기초한의학/한방생리학/README.md
       - 한방병리학: 1_기초한의학/한방병리학/README.md
       - 경락경혈학:
