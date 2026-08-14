@@ -1,0 +1,191 @@
+# 기침 (咳嗽, Cough)
+
+> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험(RCT) 중심 · 작성일: 2026-08-15
+> KCD-8: R05 (기침) — 기침(cough)은 KCD-8 기준 **R05(기침)**에 해당하며, 한의학 내과에서는 폐계(肺系)의 대표 증상·증후로 편제한다. 기침은 급성·아급성·만성으로 나뉘며 원인 질환(감기·기관지염·천식·폐렴·역류 등)에 따라 하위 유형을 구분한다.
+
+## 개요
+
+기침(咳嗽, cough)은 호흡기를 보호하는 방어 반사로, 기도 점막의 자극에 의해 유발되어 공기를 강하게 배출하는 생리적 현상이자 호흡기 질환에서 가장 흔한 증상이다. KCD-8 기준 **R05(기침)**에 해당하며, 지속 기간에 따라 급성(3주 미만)·아급성(3~8주)·만성(8주 이상) 기침으로 분류된다.[^1] 한의학에서는 기침을 폐기(肺氣)의 선강(宣降) 실조로 인해 폐기가 상역(上逆)하여 발생하는 질환으로 보며, 외사(外邪)·담음(痰飮)·음허(陰虛)·간화(肝火)·식상(食傷) 등의 병기에 따라 변증·치료해 왔다.[^15] 최근 체계적 고찰·메타분석과 무작위 대조 시험(RCT)을 통해 한약(맥문동탕·반하사심탕·소청룡탕 등), 침·뜸·혈위요법·소아 추나 등이 기침 증상 완화와 재발 예방에 유의한 근거를 축적하고 있다.[^3][^5][^12][^16] 본 문서는 근거기반 한의학 관점에서 기침에 대한 한의 중재의 임상 근거를 정리한다.
+
+## 하위 표제어(분류)
+
+기침은 지속 기간·원인 질환·증상 양상에 따라 여러 하위 유형으로 세분된다. 각 유형은 치료 접근이 다르므로 임상에서 구분하여 접근한다.
+
+- **급성 기침 (acute cough, KCD-8: R05)**: 3주 미만의 기침으로, 대부분 상기도 감염(감기·급성 기관지염)에 의한 것. 중약·백유과립 등이 기침 소실 시간 단축과 증상 개선에 근거를 보인다.[^2][^22]
+- **아급성 기침 (subacute cough, KCD-8: R05)**: 3~8주 지속 기침으로, 감염 후 기침(post-infectious cough)이 대표적. 맥문동탕·중약이 감염 후 기침의 진해 효과에 근거를 보인다.[^4][^7][^8]
+- **만성 기침 (chronic cough, KCD-8: R05)**: 8주 이상의 기침으로, 상기도 기침 증후군(UACS)·천식·역류·만성 기관지염 등이 원인. 침·한약·혈위요법이 증상·삶의 질 개선에 근거를 보인다.[^3][^5][^6]
+- **기침 변이형 천식 (cough variant asthma, CVA)**: 기침이 주증상인 천식 아형. 혈위요법·맥립화농구·수황지해캡슐 등이 폐 기능·증상 개선에 근거를 보인다.[^9][^10][^11]
+- **감염 후 기침 (post-infectious cough, PIC)**: 감기·기관지염 후 3~8주 지속되는 기침. 한약·소아 추나·사백증액탕이 기침 완화·재발 예방에 근거를 보인다.[^4][^12][^13]
+- **역류 관련 만성 기침 (GERC)**: 위식도 역류가 원인인 기침. 오적산·생맥산, 침 관련 요법이 병용 시 증상 개선에 근거를 보인다.[^14][^17]
+
+> 급성·아급성·만성 기침과 기침 변이형 천식은 각각 원인·병태생리·치료 접근이 달라, 임상 근거가 충분해지면 별도 문서로 분리하는 것을 고려할 수 있다.
+
+## 병인 병기 (病因病機)
+
+한의학에서는 기침의 병기가 폐(肺)의 선강(宣降) 기능 실조로 요약된다.[^15] 외사(外邪)인 풍한(風寒)·풍열(風熱)·조열(燥熱)이 폐위(肺衛)를 침범하면 폐기가 상역하여 기침이 발생하며(외감형), 내상(內傷)으로는 담음(痰飮)·음허(陰虛)·간화(肝火)·비위(脾胃) 허약 등이 폐기를 손상시켜 만성·반복적인 기침을 일으킨다(내상형). 오래된 기침은 폐·비(脾)·신(腎) 삼장(三藏)의 허실(虛實)을 동반하므로, 한약·침구·추나 등은 선폐강역(宣肺降逆)·화담(化痰)·윤폐(潤肺)·보폐건비(補肺健脾)·보신납기(補腎納氣) 등의 법으로 작용한다.[^15]
+
+## 병태생리
+
+서양의학적으로 기침은 감각 신경(미주신경·삼차신경)이 기도 점막의 기계적·화학적 자극(염증·이물·분비물·과민)을 감지하여 연수(延髓)의 기침 중추를 통해 유발되는 방어 반사이다.[^1] 기침 과민 반사(cough hypersensitivity)와 기도 염증(사이토카인·호산구 등)이 만성 기침의 병태생리에 중심적 역할을 하며, 원인 질환(감염·천식·역류·기관지염·폐렴 등)에 따라 다양한 염증성·신경성 기전이 관여한다.[^7][^16] 한의 중재는 기침 역치를 상승시키고(진해 작용), 염증·과민 반응을 완화하며, 기침 증상·삶의 질·재발률을 개선하는 데 기여할 수 있다.[^3][^4][^16]
+
+## 진단(診斷) 및 감별 진단
+
+### 진단 기준 및 병력 청취
+
+- 기침은 지속 기간(급성<3주, 아급성 3~8주, 만성>8주)과 동반 증상(가래·발열·인후통·호흡곤란·흉통 등)을 통해 분류하며, KCD-8 기준 **R05(기침)**에 해당한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 기침의 발생 시점·유인(감기·냉기·식사·운동·흡연·알레르겐), 가래의 색·성상, 야간 악화 여부, 기저 질환(천식·역류·부비동염·COPD 등), 복용 약물(ACE 억제제 등)을 병력으로 청취한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 한의학 변증을 위해 오한/발열, 가래 성상(맑음/누런색·묽음/걸쭉함), 목건·인후통, 흉부 불쾌감, 설진·맥상, 음식·정서·수면 연관성을 종합적으로 평가한다.[^15]
+
+### 이학적 검사
+
+- 청진으로 호흡음(천명·나음·감소)과 심음 이상을 확인한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 비강·인두·부비동 압통, 귀, 목 부위를 검사하여 UACS·역류·감염 원인을 감별한다. 근거 미확인(교과서적 임상 진단 이론).
+- 중증 위험 신호(red flag): 객혈·호흡곤란·발열 동반·체중 감소·흡연력·의식 저하 등을 확인한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+
+### 진단 검사
+
+- 만성 기침의 경우 흉부 X-ray로 폐렴·종괴·결핵 등을 1차 배제한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 천식 의심 시 폐 기능 검사(스피로메트리)·기관지 확장제 반응·메타콜린 유발 검사를 시행하며, CVA 진단에 활용된다.[^10][^11] 근거 미확인(교과서적 임상 진단 이론).
+- 역류 의심 시 위내시경·pH 모니터링, 부비동 의심 시 부비동 CT, 알레르기 의심 시 IgE·호산구 검사를 고려한다. 근거 미확인(교과서적 임상 진단 이론).
+- 기침 역치·과민성은 캡사이신 기침 유발 검사 등으로 평가하며, 한의 중재 연구에서도 활용된다.[^7]
+
+### 감별 진단
+
+- 감기·급성/만성 기관지염·천식(기침 변이형 천식 포함)·COPD·폐렴·역류성 식도염(GERC)·상기도 기침 증후군(UACS)·약물(ACE 억제제) 관련 기침·심부전·폐암 등을 감별해야 한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 객혈·호흡곤란·고열을 동반하거나 8주 이상 지속되는 기침은 반드시 기질적 원인(폐렴·결핵·종양 등)을 배제해야 한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+
+### 한의학적 변증(辨證)
+
+- **풍한폐폐(風寒閉肺)**: 기침이 찬바람·냉기에 유발되고 맑은 가래·오한·무한·설박백태(舌薄白苔)·맥부긴(脈浮緊). 소청룡탕 등 신온해표(辛溫解表)법이 적용된다.[^2][^22]
+- **풍열범폐(風熱犯肺)**: 기침·누런 걸쭉한 가래·발열·목건·인후통·설홍태황(舌紅苔黃)·맥삭(脈數). 백유과립·신용과립 등 청열(淸熱) 해독제가 적용된다.[^22]
+- **음허폐조(陰虛肺燥)**: 마른기침·가래 없음·목건·설홍소진(舌紅少津)·맥세(脈細). 맥문동탕 등 윤폐자음(潤肺滋陰)법이 적용된다.[^7][^8][^18]
+- **기허혈어(氣虛血瘀)**: 기침 변이형 천식 환자에서 HIF-1α 유전자 다형성과 연관되어 폐 기능 저하에 영향을 미친다(관찰연구).[^19]
+- **폐열·음허(肺熱·陰虛)**: 소아 감염 후 기침 변증으로, 사백증액탕이 장-폐 축 조절을 통해 개선에 근거를 보인다.[^13]
+
+## 치료
+
+- **한약 — 전반(만성 기침)**: 한약을 표준 치료의 보조 요법으로 사용했을 때 기침 중증도·삶의 질·유효율을 유의하게 개선하고 재발률을 낮추며, 표준 치료 대비 이상반응 발생률이 낮았다(메타분석, 7,573명).[^6]
+- **한약 — 맥문동탕(麥門冬湯)**: 감염 후 지속 기침 환자에서 투여 초기(4~5일)에 기침 점수를 유의하게 개선하는 진해 효과를 보였다(임상시험, 19명).[^8] COPD 동반 기침 환자에서도 기침 강도(VAS)를 유의하게 감소시켰다(임상시험, 24명).[^20] 비특이적 만성 기침 대상 이중맹검 RCT 프로토콜이 진행 중이다.[^18]
+- **한약 — 반하사심탕(半夏瀉心湯)**: 기침 증상을 완화하고 폐 기능을 개선하는 데 서양의학 단독 치료보다 유의하게 효과적이며 안전했다(메타분석).[^3]
+- **한약 — 월비가출탕(越婢加朮湯)**: 상기도 기침 증후군(UACS)으로 인한 만성 기침에 대한 유효성·안전성·경제성 평가 RCT 프로토콜이 진행 중이다(임상시험, 30명).[^23]
+- **한약 — 청상보하탕(淸上補下湯)**: COVID-19 후 신경병증성 특성의 만성 기침 환자에게 한약·침·뜸 복합 치료로 기침 빈도·강도 감소와 삶의 질 개선을 확인했다(증례, 1명).[^24]
+- **중약 — 감염 후 기침**: 중약이 감염 후 기침의 핵심 증상을 개선하고 양방·위약 대비 더 빠르고 강력한 진해 효과를 보이며 삶의 질을 향상시켰다(체계적 고찰).[^4]
+- **중약 — 백유과립(百鬱顆粒)**: 급성 기관지염 성인 환자에서 기침 소실률을 유의하게 높이고(72.22% vs 35.19%) 기침 소실 시간을 단축시켰다(임상시험, 162명).[^22]
+- **중약 — 사백증액탕(瀉白增液湯)**: 소아 감염 후 기침(폐열·음허) 환자에서 몬테루카스트보다 기침 완화·삶의 질·장내 미생물 환경 개선에 더 효과적이었다(임상시험, 116명).[^13]
+- **중약 — 마행곽교과립(麻杏藿香顆粒)**: 비중증 지역사회 폐렴 환자에서 표준 용량 병용이 위약 대비 14일차 완치율을 유의하게 높였고(68.97% vs 30.78%) 기침·가래 회복 시간을 단축시켰다(임상시험, 96명).[^25]
+- **중약 — 연화청각정(連花淸咳錠)**: 소아 마이코플라스마 폐렴에서 표준 치료 병용 시 주요 증상 소실률(85.9% vs 65.6%)과 기침·가래 완화율을 유의하게 높였다(임상시험, 160명).[^26]
+- **중약 — 아이비잎 추출물(EA 575)**: 소아·성인의 호흡기 관련 기침 완화와 폐 기능 개선에 효과적이며 안전성이 높았다(체계적 고찰, 102,239명).[^27]
+- **침·뜸·혈위요법 — 만성 기침**: 침 관련 요법(침·뜸·혈위 패치)이 만성 기침 환자의 기침 중증도·삶의 질·총 유효율을 유의하게 개선하고 이상반응 차이가 없었다(메타분석, 2,835명).[^5]
+- **침 — 역류 관련 만성 기침(GERC)**: 침 치료를 양방 치료와 병행했을 때 주야간 기침 점수와 삶의 질(LCQ)을 유의하게 개선했다(메타분석, 390명).[^17]
+- **혈위요법 — 기침 변이형 천식(CVA)**: 혈위요법이 총 유효율·폐 기능(FVC·FEV1)·IgE·호산구·삶의 질(LCQ)을 개선했다(메타분석, 1,237명).[^9] 풍한폐폐형 CVA에서 개량 무통 맥립화농구 병행이 증상·폐 기능·IgE·IL-6를 개선하고 1개월 추적 유효율이 95.7%였다(임상시험, 94명).[^11]
+- **소아 추나(Tui Na)**: 소아 추나가 7세 미만 소아의 기침 지속 기간을 단축시키고 일반 치료 병행 시 기침 재발률을 유의하게 낮추었다(메타분석, 1,502명).[^12]
+- **외용고약(진해해천고)**: 급성 기관지염으로 인한 기침·호흡곤란에 외용 고약이 일반 양방 치료보다 완치율이 유의하게 높았고, 풍한형 환자에서 더 효과적이었다(임상시험, 1,158명).[^2]
+
+## 예후
+
+기침은 원인 질환에 따라 예후가 다르며, 대부분 급성·아급성 기침은 원인 질환의 회복에 따라 자연 호전되나, 만성 기침은 반복·지속되기 쉽다.[^1] 한의 중재(한약·침·뜸·혈위요법·소아 추나)는 증상 완화·삶의 질 개선·재발률 감소에 기여하며, 특히 감염 후 기침·만성 기침·기침 변이형 천식에서 보조적 치료로 유용하다.[^3][^5][^6][^12] 다만 개별 연구의 편향 위험·소규모 연구가 많아, 임상 결론을 확정하기 위해서는 고품질 무작위 대조 시험이 더 필요하다.[^6][^12]
+
+## 관리
+
+- 한의 중재(한약·침·뜸·혈위요법·추나)는 양방 표준 치료의 보조적 수단으로 병행하며, 원인 질환(천식·역류·UACS·감염)의 적절한 관리와 함께 적용한다.[^1][^5]
+- 급성 감염성 기침(폐렴·기관지염)에서는 항생제·대증 치료와 한약을 병용하되, 중증(호흡곤란·고열·객혈) 시 즉시 응급 치료를 우선한다.[^1][^25][^26]
+- 음허·조성 기침에는 맥문동탕 등 윤폐(潤肺)제, 풍한에는 소청룡탕 등 신온해표(辛溫解表)제를 변증에 따라 조절한다.[^2][^7][^8]
+- 금연·충분한 수분·적절한 습도·유인(냉기·알레르겐·역류 유발 식품) 회피 등 생활 관리를 병행한다.[^1] 근거 미확인(교과서적 관리 지침).
+- 소아에서는 추나·혈위요법을 안전하게 적용할 수 있으며, 부모 대상 지압 교육(리플릿·비디오)이 기침·감기 관리에 유용하다(임상시험, 40명).[^28]
+
+## Q&A
+
+- **Q. 기침에 침 치료가 효과가 있나요?** 메타분석(2,835명)에서 침·뜸·혈위 패치 등 침 관련 요법이 만성 기침의 중증도·삶의 질·총 유효율을 유의하게 개선했습니다.[^5] 특히 역류 관련 만성 기침(GERC)에서는 침 병행이 주야간 기침과 삶의 질을 개선했습니다(메타분석, 390명).[^17]
+- **Q. 기침에 어떤 한약이 쓰이나요?** 변증에 따라 다릅니다. 맥문동탕은 감염 후 기침·COPD 기침의 진해 효과(임상시험),[^8][^20] 반하사심탕은 기침 완화·폐 기능 개선(메타분석),[^3] 백유과립은 급성 기관지염 기침 소실률 개선(임상시험, 162명)[^22]에 근거가 있습니다. 만성 기침에서는 한약 병용이 삶의 질·재발률 개선에 효과적입니다(메타분석, 7,573명).[^6]
+- **Q. 소아 기침에 추나가 효과가 있나요?** 메타분석(1,502명)에서 소아 추나가 7세 미만 소아의 기침 지속 기간을 단축시키고 일반 치료 병행 시 기침 재발률을 유의하게 낮추었으며 비교적 안전했습니다.[^12]
+- **Q. 기침 변이형 천식(CVA)에는 어떻게 접근하나요?** 혈위요법이 총 유효율·폐 기능·IgE·호산구·삶의 질을 개선했고(메타분석, 1,237명),[^9] 풍한폐폐형에는 개량 무통 맥립화농구 병행이 1개월 추적 유효율 95.7%로 우수했습니다(임상시험, 94명).[^11]
+- **Q. 기침이 오래 가는데 주의할 점은?** 8주 이상 지속되거나 객혈·호흡곤란·고열·체중 감소를 동반하면 반드시 폐렴·결핵·종양 등 기질적 원인을 배제해야 합니다.[^1] 한약 복용 후 갑작스러운 호흡기 증상이 악화되면 약물 유발 폐렴 가능성을 고려하여 투약을 중단하고 평가해야 합니다(증례: 소청룡탕·시호계지건강탕 관련).[^29][^30]
+
+## 근거 요약
+
+- 한약 병용이 만성 기침의 중증도·삶의 질·유효율을 개선하고 재발률을 낮춘다(메타분석, 7,573명).[^6]
+- 침 관련 요법이 만성 기침의 중증도·삶의 질·총 유효율을 개선한다(메타분석, 2,835명).[^5]
+- 중약이 감염 후 기침의 핵심 증상을 양방·위약 대비 개선한다(체계적 고찰).[^4]
+- 맥문동탕이 감염 후 기침·COPD 기침의 진해 효과를 보인다(임상시험, 19/24명).[^8][^20]
+- 반하사심탕이 기침 완화와 폐 기능 개선에 유의하다(메타분석).[^3]
+- 혈위요법·맥립화농구가 기침 변이형 천식의 증상·폐 기능을 개선한다(메타분석 1,237명·임상시험 94명).[^9][^11]
+- 소아 추나가 소아 기침 지속 기간 단축·재발률 감소에 유의하다(메타분석, 1,502명).[^12]
+- 백유과립이 급성 기관지염의 기침 소실률을 개선한다(임상시험, 162명).[^22]
+
+## 근거 표
+
+| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
+|---|---|---|---|---|---|
+| Herbal medicine for the treatment of chronic cough: a systematic review and meta-analysis | 메타분석 | 7,573 | 높음 | 10.3389/fphar.2023.1230604 | 한약 병용이 중증도·삶의 질·유효율 개선, 재발률·이상반응 감소 |
+| Acupuncture-related therapy for chronic cough: A systematic review and meta-analysis | 메타분석 | 2,835 | 높음 | 10.1016/j.imr.2025.101121 | 침 관련 요법이 중증도·삶의 질·총 유효율 개선 |
+| Pediatric Tui Na for cough in children: A systematic review and meta-analysis of RCTs | 메타분석 | 1,502 | 높음 | 10.1016/j.ctim.2022.102882 | 소아 추나가 기침 기간 단축·병행 시 재발률 감소 |
+| [Retracted] Assessment of Acupoint Therapy of TCM on Cough Variant Asthma: A Meta-analysis | 메타분석 | 1,237 | 높음 | 10.1155/2022/4168308 | 혈위요법이 총 유효율·폐 기능·IgE·호산구·삶의 질 개선 |
+| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중간 | 10.1002/14651858.CD004560.pub2 | 중약이 급성 기관지염 기침·발열 기간 단축, 안전성 확인 필요 |
+| Chinese Herbal Medicine for Postinfectious Cough: A Systematic Review of RCTs | 체계적 고찰 | - | 중간 | 10.1155/2013/906765 | 중약이 감염 후 기침 증상·진해 효과·삶의 질 개선 |
+| The Effect of Banhasasim-tang in Cough: A Systematic Review and Meta-analysis | 메타분석 | - | 중간 | 10.22246/jikm.2021.42.3.385 | 반하사심탕이 기침 완화·폐 기능 개선 |
+| Treatment of cough and dyspnea due to acute bronchitis by plaster | 임상시험(RCT) | 1,158 | 중간 | PMID 11977523 | 진해해천고가 완치율 유의 개선, 풍한형에서 효과 |
+| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험(RCT) | 162 | 중간 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률(72.2%)·소실 시간 개선 |
+| Modulating the lung-gut axis: Xie Bai Zeng Ye decoction in children with post-infectious cough | 임상시험(RCT) | 116 | 중간 | 10.1097/MD.0000000000045819 | 사백증액탕이 기침 완화·삶의 질·장내 미생물 개선 |
+| Effect of the maxing huoqiao granule on nonsevere community-acquired pneumonia | 임상시험(RCT) | 96 | 중간 | 10.1016/j.phrs.2026.108186 | 마행곽교과립이 14일차 완치율(68.97%)·기침 회복 단축 |
+| [Effect of modified painless wheat-grain blistering moxibustion on CVA of wind cold attacking the lung] | 임상시험(RCT) | 94 | 중간 | 10.13703/j.0255-2930.20250301-k0001 | 맥립화농구가 증상·폐 기능·IgE·IL-6 개선, 유효율 95.7% |
+| Clinical Efficacy of Acupuncture as Adjunctive Therapy for Cough Variant Asthma (Protocol) | 임상시험(프로토콜) | 88 | 낮음 | 10.2147/JAA.S586197 | CVA 표준 치료에 침 병행 예비 효능 검증 예정 |
+| The Effect of Kechuanting Acupoint Application on Chronic Cough | 임상시험(RCT) | 85 | 중간 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 기침 증상·삶의 질 개선 |
+| Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia | 임상시험(RCT) | 160 | 중간 | 10.1111/crj.70204 | 연화청각정이 소실률(85.9%)·기침·가래 완화율 개선 |
+| Efficacy and Safety of a Single Ivy Extract in Acute Bronchitis | 임상시험(RCT) | 325 | 중간 | 10.3390/ph18050754 | 아이비 추출물 EA 575가 복합 제제 대비 우월·안전 |
+| A pilot study of bakumondoto for cough in patients with COPD | 임상시험(RCT) | 24 | 중간 | 10.1016/j.phymed.2010.11.006 | 맥문동탕이 COPD 기침 강도(VAS) 유의 감소 |
+| Antitussive effect of bakumondoto for post-infectious prolonged cough | 임상시험(RCT) | 19 | 중간 | 10.1016/j.phymed.2011.02.017 | 맥문동탕이 감염 후 기침 초기 진해 효과 |
+| Herbal Medicine Maekmundong-Tang on Nonspecific Chronic Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/ijerph20054164 | 비특이적 만성 기침 맥문동탕 RCT 프로토콜 |
+| Efficacy, Safety and Economic Evaluation of Wolbigachul-Tang for UACS Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/healthcare11202733 | UACS 만성 기침 월비가출탕 RCT 프로토콜 |
+| Acupuncture therapy for subacute and chronic cough in adults: systematic review and meta analysis | 메타분석(프로토콜) | - | 낮음 | 10.37766/inplasy2022.7.0110 | 아급성·만성 기침 침 요법 메타분석 프로토콜 |
+| Acupuncture and related therapies for post-infectious cough (Protocol) | 체계적 고찰(프로토콜) | - | 낮음 | 10.2196/preprints.94217 | 감염 후 기침 침 치료 체계적 고찰 프로토콜 |
+| Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough | 메타분석 | 390 | 높음 | 10.3389/fmed.2026.1712003 | 침 병행이 주야간 기침·삶의 질(LCQ)·유효율 개선 |
+| Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management | 체계적 고찰 | 102,239 | 높음 | 10.1055/a-2745-1130 | EA 575가 기침·폐 기능 개선, 낮은 부작용 |
+| Chronic Cough after COVID-19 Improved by Chungsangboha-tang (증례) | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.6.1660 | 청상보하탕 포함 복합 한방 치료가 만성 기침 개선 |
+| [Analysis of association between HIF-1α gene polymorphism and CVA syndromes] | 관찰연구 | 180 | 낮음 | 10.19540/j.cnki.cjcmm.20251112.501 | HIF-1α 다형성이 CVA·기허혈어 변증·폐 기능과 연관 |
+| Education on Cough and Cold Treatment with Acupressure (Leaflets/Videos) | 임상시험 | 40 | 낮음 | 10.21070/acopen.10.2025.5939 | 리플릿·비디오 지압 교육이 보호자 지식·기술 향상 |
+
+## 경혈/처방 연관
+
+- 경혈: 천돌(天突, CV22)·척택(尺澤, LU5)·태연(太淵, LU9)·폐수(肺兪, BL13)·대추(大椎, GV14)·단중(膻中, CV17)·고황(膏肓, BL43)·정천(定喘, EX-B1)·[합곡(合谷, LI4)](../../기초한의학/경락경혈학/합곡(合谷, LI4).md) 등 침·혈위요법·지압에 활용.[^5][^9][^11]
+- 약재/처방: 맥문동탕(麥門冬湯)·반하사심탕(半夏瀉心湯)·월비가출탕(越婢加朮湯)·청상보하탕(淸上補下湯)·소청룡탕(小青龍湯)·오적산(五積散)·생맥산(生脈散)·백유과립(百鬱顆粒)·사백증액탕(瀉白增液湯)·마행곽교과립(麻杏藿香顆粒)·연화청각정(連花淸咳錠)·수황지해캡슐(蘇黃止咳膠囊)[^3][^6][^8][^13][^22][^25][^26]
+
+## 참고문헌
+
+[^1]: 기침의 정의·병태생리·진단·분류와 KCD-8 분류(R05). 근거 미확인(교과서적 개괄).
+[^2]: Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea--a report of 735 cases. 임상시험(RCT), 1,158명. PMID: [11977523](https://pubmed.ncbi.nlm.nih.gov/11977523/). 근거수준: 중간. 진해해천고가 완치율 유의 개선, 풍한형에서 효과.
+[^3]: The Effect of Banhasasim-tang in Cough: A Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2021.42.3.385](https://doi.org/10.22246/jikm.2021.42.3.385). 근거수준: 중간. 반하사심탕이 기침 완화·폐 기능 개선.
+[^4]: Chinese Herbal Medicine for Postinfectious Cough: A Systematic Review of Randomized Controlled Trials. 체계적 고찰. DOI: [10.1155/2013/906765](https://doi.org/10.1155/2013/906765). 근거수준: 중간. 중약이 감염 후 기침 증상·진해 효과·삶의 질 개선.
+[^5]: Acupuncture-related therapy for chronic cough: A systematic review and meta-analysis. 메타분석, 2,835명. DOI: [10.1016/j.imr.2025.101121](https://doi.org/10.1016/j.imr.2025.101121). 근거수준: 높음. 침 관련 요법이 중증도·삶의 질·총 유효율 개선.
+[^6]: Herbal medicine for the treatment of chronic cough: a systematic review and meta-analysis. 메타분석, 7,573명. DOI: [10.3389/fphar.2023.1230604](https://doi.org/10.3389/fphar.2023.1230604). 근거수준: 높음. 한약 병용이 중증도·삶의 질·유효율 개선, 재발률·이상반응 감소.
+[^7]: Effects of Bakumondo-to (Mai-Men-Dong-Tang) on cough sensitivity to capsaicin in asthmatic patients. 임상시험(RCT), 21명. PMID: [12799501](https://pubmed.ncbi.nlm.nih.gov/12799501/). 근거수준: 중간. 맥문동탕이 기침 역치 상승·호산구·ECP 감소.
+[^8]: Antitussive effect of bakumondoto a fixed kampo medicine (six herbal components) for treatment of post-infectious prolonged cough: controlled clinical pilot study with 19 patients. 임상시험(RCT), 19명. DOI: [10.1016/j.phymed.2011.02.017](https://doi.org/10.1016/j.phymed.2011.02.017). 근거수준: 중간. 맥문동탕이 감염 후 기침 초기 진해 효과.
+[^9]: [Retracted] Assessment of Acupoint Therapy of Traditional Chinese Medicine on Cough Variant Asthma: A Meta‐analysis. 메타분석, 1,237명. DOI: [10.1155/2022/4168308](https://doi.org/10.1155/2022/4168308). 근거수준: 높음(철회됨에 유의). 혈위요법이 총 유효율·폐 기능·IgE·호산구·삶의 질 개선.
+[^10]: Clinical Efficacy of Acupuncture as Adjunctive Therapy for Cough Variant Asthma: Study Protocol for a Pilot Randomized Controlled Trial. 임상시험(프로토콜), 88명. DOI: [10.2147/JAA.S586197](https://doi.org/10.2147/JAA.S586197). 근거수준: 낮음. CVA 표준 치료에 침 병행 예비 효능 검증 예정.
+[^11]: [Effect of modified painless wheat-grain blistering moxibustion on cough variant asthma of wind cold attacking the lung: a randomized controlled trial]. 임상시험(RCT), 94명. DOI: [10.13703/j.0255-2930.20250301-k0001](https://doi.org/10.13703/j.0255-2930.20250301-k0001). 근거수준: 중간. 맥립화농구가 증상·폐 기능·IgE·IL-6 개선, 유효율 95.7%.
+[^12]: Pediatric Tui Na for cough in children: A systematic review and meta-analysis of randomized controlled trials. 메타분석, 1,502명. DOI: [10.1016/j.ctim.2022.102882](https://doi.org/10.1016/j.ctim.2022.102882). 근거수준: 높음. 소아 추나가 기침 기간 단축·병행 시 재발률 감소.
+[^13]: Modulating the lung-gut axis: A randomized controlled trial of Xie Bai Zeng Ye decoction on intestinal flora and mucosal immunity in children with post-infectious cough. 임상시험(RCT), 116명. DOI: [10.1097/MD.0000000000045819](https://doi.org/10.1097/MD.0000000000045819). 근거수준: 중간. 사백증액탕이 기침 완화·삶의 질·장내 미생물 개선.
+[^14]: Efficacy, safety, and economic evaluation of Ojeok-san plus Saengmaek-san for gastroesophageal reflux-induced chronic cough: Protocol. 임상시험(프로토콜), 138명. DOI: [10.1371/journal.pone.0325786](https://doi.org/10.1371/journal.pone.0325786). 근거수준: 낮음. GERC에 오적산·생맥산 병용 검증 예정.
+[^15]: 한의학 기침 변증 이론(외감·내상·음허·담음·간화). 근거 미확인(교과서적 임상 이론).
+[^16]: Acupuncture-related therapy for chronic cough: A systematic review and meta-analysis. 메타분석, 2,835명. DOI: [10.1016/j.imr.2025.101121](https://doi.org/10.1016/j.imr.2025.101121). 근거수준: 높음. 침 관련 요법이 만성 기침 중증도·삶의 질 개선.
+[^17]: Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough: a systematic review and meta-analysis. 메타분석, 390명. DOI: [10.3389/fmed.2026.1712003](https://doi.org/10.3389/fmed.2026.1712003). 근거수준: 높음. 침 병행이 주야간 기침·삶의 질(LCQ)·유효율 개선.
+[^18]: Herbal Medicine Maekmundong-Tang on Patients with Nonspecific Chronic Cough: Study Protocol for a Double-Blind, Randomized Controlled Clinical Trial. 임상시험(프로토콜), 30명. DOI: [10.3390/ijerph20054164](https://doi.org/10.3390/ijerph20054164). 근거수준: 낮음. 비특이적 만성 기침 맥문동탕 RCT 프로토콜.
+[^19]: [Analysis of association between HIF-1α gene polymorphism and different syndromes of early cough variant asthma patients and their lung function]. 관찰연구, 180명. DOI: [10.19540/j.cnki.cjcmm.20251112.501](https://doi.org/10.19540/j.cnki.cjcmm.20251112.501). 근거수준: 낮음. HIF-1α 다형성이 CVA·기허혈어 변증·폐 기능과 연관.
+[^20]: A pilot study of the multiherb Kampo medicine bakumondoto for cough in patients with chronic obstructive pulmonary disease. 임상시험(RCT), 24명. DOI: [10.1016/j.phymed.2010.11.006](https://doi.org/10.1016/j.phymed.2010.11.006). 근거수준: 중간. 맥문동탕이 COPD 기침 강도(VAS) 유의 감소.
+[^21]: Efficacy of electroacupuncture in the treatment of Acute Exacerbation of COPD: study protocol. 임상시험(프로토콜), 336명. DOI: [10.3389/fmed.2026.1879332](https://doi.org/10.3389/fmed.2026.1879332). 근거수준: 낮음. AECOPD 전침 검증 예정.
+[^22]: Bairui granules versus Reyanning granules in adults with acute bronchitis: a multicenter, randomized, double-blind, double-dummy, comparative trial. 임상시험(RCT), 162명. DOI: [10.3389/fphar.2026.1860478](https://doi.org/10.3389/fphar.2026.1860478). 근거수준: 중간. 백유과립이 기침 소실률(72.22%)·소실 시간 개선.
+[^23]: Efficacy, Safety and Economic Evaluation of Wolbigachul-Tang for Chronic Cough Due to Upper Airway Cough Syndrome (UACS): A Study Protocol. 임상시험(프로토콜), 30명. DOI: [10.3390/healthcare11202733](https://doi.org/10.3390/healthcare11202733). 근거수준: 낮음. UACS 만성 기침 월비가출탕 RCT 프로토콜.
+[^24]: Chronic Cough after COVID-19 Improved by Korean Medicine Treatment Including Chungsangboha-tang: A Case Report. 증례, 1명. DOI: [10.22246/jikm.2025.46.6.1660](https://doi.org/10.22246/jikm.2025.46.6.1660). 근거수준: 낮음. 청상보하탕 포함 복합 한방 치료가 만성 기침 개선.
+[^25]: Effect of the maxing huoqiao granule on nonsevere community-acquired pneumonia: A multicenter, double-blind, placebo-controlled randomized trial. 임상시험(RCT), 96명. DOI: [10.1016/j.phrs.2026.108186](https://doi.org/10.1016/j.phrs.2026.108186). 근거수준: 중간. 마행곽교과립이 14일차 완치율(68.97%)·기침·가래 회복 단축.
+[^26]: Efficacy and Safety of Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia: A Randomized, Double-Blind, Multicenter, Placebo-Controlled Clinical Trial. 임상시험(RCT), 160명. DOI: [10.1111/crj.70204](https://doi.org/10.1111/crj.70204). 근거수준: 중간. 연화청각정이 소실률(85.9%)·기침·가래 완화율 개선.
+[^27]: Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management: An Updated Review of Clinical Evidence. 체계적 고찰, 102,239명. DOI: [10.1055/a-2745-1130](https://doi.org/10.1055/a-2745-1130). 근거수준: 높음. EA 575가 기침·폐 기능 개선, 낮은 부작용.
+[^28]: Education on Cough and Cold Treatment with Acupressure Through Leaflets and Videos. 임상시험, 40명. DOI: [10.21070/acopen.10.2025.5939](https://doi.org/10.21070/acopen.10.2025.5939). 근거수준: 낮음. 리플릿·비디오 지압 교육이 보호자 지식·기술 향상.
+[^29]: [A case where herbal medicine sho-seiryu-to induced interstitial pneumonitis]. 증례, 1명. PMID: [15704449](https://pubmed.ncbi.nlm.nih.gov/15704449/). 근거수준: 낮음. 소청룡탕 유발 간질성 폐렴, 투약 중단·스테로이드로 개선.
+[^30]: [A case of drug-induced pneumonitis caused by saikokeishikankyoto]. 증례, 1명. PMID: [22073616](https://pubmed.ncbi.nlm.nih.gov/22073616/). 근거수준: 낮음. 시호계지건강탕(황금 성분) 유발 폐렴, 마른 기침·호흡곤란 시 고려.
+
+## 미충족 근거 / 추가 연구 필요
+
+- 한약·침 관련 요법의 만성 기침 효과는 다수의 메타분석에서 유의한 개선을 보였으나, 개별 연구의 편향 위험·소규모 연구가 많아 대규모 이중맹검 무작위 대조 시험으로 확증하는 것이 요구된다.[^5][^6][^12]
+- 기침 변이형 천식(CVA)의 혈위요법 메타분석은 일부 철회(retracted)되었고 프로토콜 단계 연구가 많아, 표준화된 침·혈위 프로토콜을 적용한 더 정교한 무작위 대조 시험이 필요하다.[^9][^10]
+- 비특이적 만성 기침의 맥문동탕, UACS 만성 기침의 월비가출탕, GERC의 오적산·생맥산, 감염 후 기침 침 치료 등은 프로토콜 단계로, 결과가 나오면 임상 적용 근거를 강화할 것으로 기대된다.[^14][^18][^23]
+- 한약(소청룡탕·시호계지건강탕 등) 복용 후 드물게 간질성 폐렴·약물 유발 폐렴이 보고되어, 한약 처방 시 호흡기 이상 반응에 대한 인식과 모니터링이 필요하다.[^29][^30]
+- COVID-19 후유증 만성 기침, 소아·노인 기침 등 특수 집단에서의 한의 중재 근거는 아직 증례·소규모 연구에 국한되어 추가 연구가 필요하다.[^24][^27]
