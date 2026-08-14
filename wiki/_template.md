@@ -26,10 +26,6 @@
 - 경혈: `method_specific_acupoint`
 - 약재/처방: `method_specific_herbal` / `method_specific_herbal_formula`
 
-## 참고문헌
-
-- DOI: [10.xxxx/xxxx](https://doi.org/10.xxxx/xxxx) · PMID: xxxxxxxx
-
 ## 미충족 근거 / 추가 연구 필요
 
 근거가 부족한 영역을 명시.
