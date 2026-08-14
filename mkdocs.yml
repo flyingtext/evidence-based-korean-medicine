@@ -33,11 +33,8 @@ plugins:
   - exclude:
       glob:
         - _template.md
-extra_javascript:
-  - assets/like.js
 nav:
   - 홈: README.md
-  - 추천 순위: 추천순위.md
   - 기초한의학:
       - 개요: 1_기초한의학/README.md
       - 원전: 1_기초한의학/원전/README.md
