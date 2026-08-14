@@ -60,7 +60,7 @@
 - **뜸(灸)**: 치핵 절제술 후 요정체 환자에게 기해(CV6)·관원(CV4)·신궐(CV8) 혈위 뜸 치료가 요정체 개선·도뇨관 제거 기간 단축에 효과적이다(관찰연구, 100명).[^10]
 - **경피적 전기 자극(TEAS)**: 족삼리(ST36) 혈위 TEAS가 NSAIDs 진통 효과를 강화하고 위장 기능 회복을 촉진한다(관찰연구, 185명).[^17]
 - **한약(처방)**: 태국 전통 처방(BRF)이 1~2도 내치핵에서 표준 치료제(MPFF)보다 치핵 단계 감소·출혈 완화에 효과적이다(임상시험, 27명).[^4] 지루순희탕(止漏循希湯)의 에모딘(emodin)이 TRPV1 억제로 수술 후 통증을 빠르게 완화한다(실험연구).[^24]
-- **외용제·좌제**: 편자황(片仔癀) 캡슐·연고 병용이 수술 후 상처 삼출물을 감소시킨다(임상시험, 240명).[^8] 보지지창(普濟痔瘡) 좌제가 PI3K-Akt 경로 억제로 항문직장 염증을 완화한다(실험연구).[^15] 주황상(珠黃霜) 외용제가 상처 하이드록시프롤린을 높여 콜라겐 합성·상처 치유를 촉진한다(임상시험, 50명).[^18]
+- **외용제·좌제**: 편자황(片仔癀) 캡슐·연고 병용이 수술 후 상처 삼출물을 감소시킨다(임상시험, 240명).[^8] 보제치창(普濟痔瘡) 좌제가 PI3K-Akt 경로 억제로 항문직장 염증을 완화한다(실험연구).[^15] 주황상(珠黃霜) 외용제가 상처 하이드록시프롤린을 높여 콜라겐 합성·상처 치유를 촉진한다(임상시험, 50명).[^18]
 - **경화요법(소지령 주사)**: 소지령(消痔靈) 주사액이 점막하 콜라겐 섬유 증식을 자극해 내치핵을 치료한다(실험연구).[^5]
 - **스냅 니들(피내침)**: 치핵 수술 후 통증(VAS)을 유의하게 감소시키고 상처 치유·통증 소실 시간을 단축한다(메타분석, 1,188명).[^16]
 
@@ -82,7 +82,7 @@
 - **Q. 수술 후 통증이 심한데 매선 요법을 써도 되나요?** 네. 혈위 매선 요법이 혼합 치핵 수술 후 통증·부종·삼출물을 감소시키고 불안 완화·수면 질 개선에 효과적입니다(임상시험·메타분석).[^7][^21][^22] 장강(GV1)·승산(BL57)·대장유(BL25)·백환유(BL30) 혈위를 활용합니다.[^7]
 - **Q. 수술 없이 한약으로 치핵을 치료할 수 있나요?** 초기(1~2도) 내치핵에서는 한약·외용제·경화요법이 유효합니다. 태국 전통 처방(BRF)이 표준 치료제(MPFF)보다 치핵 단계 감소·출혈 완화에 효과적이었습니다(임상시험, 27명).[^4] 소지령 주사액(경화요법)도 내치핵에 유효합니다(실험연구).[^5]
 - **Q. 수술 후 소변이 잘 안 나오는데 뜸이 도움이 되나요?** 네. 치핵 절제술 후 요정체 환자에게 기해(CV6)·관원(CV4)·신궐(CV8) 혈위 뜸 치료가 요정체 개선·도뇨관 제거 기간 단축에 효과적이었습니다(관찰연구, 100명).[^10]
-- **Q. 외용제나 좌제는 어떤가요?** 편자황 캡슐·연고 병용이 수술 후 상처 삼출물을 감소시켰고(임상시험, 240명),[^8] 보지지창 좌제가 항문직장 염증을 완화했습니다(실험연구).[^15] 주황상 외용제는 상처 치유를 촉진합니다(임상시험, 50명).[^18]
+- **Q. 외용제나 좌제는 어떤가요?** 편자황 캡슐·연고 병용이 수술 후 상처 삼출물을 감소시켰고(임상시험, 240명),[^8] 보제치창 좌제가 항문직장 염증을 완화했습니다(실험연구).[^15] 주황상 외용제는 상처 치유를 촉진합니다(임상시험, 50명).[^18]
 
 ## 근거 요약
 
@@ -116,7 +116,7 @@
 | Acupuncture relieves postoperative pain of mixed hemorrhoids through the P2X7/ERK axis in dorsal root ganglion | 실험연구 | 90 | 실험연구 | 10.1016/j.physbeh.2025.114806 / 39814121 | 침이 P2X7/ERK 경로 조절로 통증·염증·우울감 완화 |
 | Acupuncture alleviates postoperative hemorrhoid pain by modulating the P2X7/ERK pathway | 실험연구 | - | 실험연구 | 10.1007/s11302-025-10115-5 / 41543815 | 침이 P2X7/ERK 억제로 IL-6·TNF-α 감소 |
 | Bioactive compound emodin from clinical formula Zhi-Lou-Xun-Xi decoction exerts rapid analgesic effects by targeting TRPV1 | 실험연구 | - | 실험연구 | 10.1016/j.phymed.2026.158406 / 42275875 | 지루순희탕 에모딘이 TRPV1 억제로 수술 후 통증 완화 |
-| Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway | 실험연구 | - | 실험연구 | 10.1038/s41598-026-61558-8 / 42443290 | 보지지창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화 |
+| Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway | 실험연구 | - | 실험연구 | 10.1038/s41598-026-61558-8 / 42443290 | 보제치창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화 |
 | Mechanism of Xiaozhiling injection in the treatment of internal hemorrhoids based on changes in perianal blood flow and rectal submucosal fibers | 실험연구 | - | 실험연구 | 10.4292/wjgpt.v17.i1.113444 / 41809221 | 소지령 주사가 콜라겐 섬유 증식으로 내치핵 치료 |
 | Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids | 문헌고찰 | - | 문헌고찰 | 10.53469/jcmp.2025.07(06).22 | 수술 후 변비에 한약·외용제·침·마사지 유효 |
 | Progress of Wound Margin Edema after Mixed Hemorrhoids in Traditional Chinese and Western Medicine | 문헌고찰 | - | 문헌고찰 | 10.53469/jcmp.2024.06(07).37 | 수술 후 상처 가장자리 부종 관리에 통합 접근 필요 |
@@ -128,7 +128,7 @@
 ## 경혈/처방 연관
 
 - 경혈: 장강(GV1)·승산(BL57)·대장유(BL25)·백환유(BL30)·족삼리(ST36)·기해(CV6)·관원(CV4)·신궐(CV8)
-- 약재/처방: 지루순희탕(止漏循希湯)·편자황(片仔癀)·보지지창(普濟痔瘡) 좌제·주황상(珠黃霜)·소지령(消痔靈) 주사, 태국 전통 처방(BRF), 미모사·강황 페이스트
+- 약재/처방: 지루순희탕(止漏循希湯)·편자황(片仔癀)·보제치창(普濟痔瘡) 좌제·주황상(珠黃霜)·소지령(消痔靈) 주사, 태국 전통 처방(BRF), 미모사·강황 페이스트
 - 관련 질환: [변비(便秘, Constipation)](변비.md)는 치핵의 주요 유발·악화 요인으로, 변비 관리가 치핵 예방·재발 방지에 중요하다.
 
 [^1]: 치핵의 정의·분류·진단 기준. 교과서적 근거. (치상선 기준 내치핵·외치핵·혼합치핵, 내치핵 1~4도 분류)
@@ -145,7 +145,7 @@
 [^12]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 근거수준: 문헌고찰. 수술 후 변비에 한약·외용제·침·마사지 유효.
 [^13]: Acupuncture relieves postoperative pain of mixed hemorrhoids through the P2X7/ERK axis in dorsal root ganglion. 실험연구, 90명. DOI: [10.1016/j.physbeh.2025.114806](https://doi.org/10.1016/j.physbeh.2025.114806). 근거수준: 실험연구. 침이 P2X7/ERK 경로 조절로 통증·염증·우울감 완화.
 [^14]: Acupuncture alleviates postoperative hemorrhoid pain by modulating the P2X7/ERK pathway. 실험연구. DOI: [10.1007/s11302-025-10115-5](https://doi.org/10.1007/s11302-025-10115-5). 근거수준: 실험연구. 침이 P2X7/ERK 억제로 IL-6·TNF-α 감소.
-[^15]: Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway. 실험연구. DOI: [10.1038/s41598-026-61558-8](https://doi.org/10.1038/s41598-026-61558-8). 근거수준: 실험연구. 보지지창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화.
+[^15]: Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway. 실험연구. DOI: [10.1038/s41598-026-61558-8](https://doi.org/10.1038/s41598-026-61558-8). 근거수준: 실험연구. 보제치창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화.
 [^16]: Efficacy and Safety of Snap Needles in the Treatment of Postoperative Hemorrhoidal Pain: A Systematic Review and Meta-Analysis. 메타분석, 1,188명. DOI: [10.2147/JPR.S464176](https://doi.org/10.2147/JPR.S464176). 근거수준: 높음. 스냅 니들이 통증 감소·상처 치유·통증 소실 시간 단축.
 [^17]: Effect of transcutaneous electrical acupoint stimulation at Zusanli (ST36) on postoperative pain following mixed hemorrhoidectomy: a retrospective study. 관찰연구, 185명. DOI: [10.62347/OCJU5788](https://doi.org/10.62347/OCJU5788). 근거수준: 중간. 족삼리 TEAS가 NSAIDs 진통 강화·위장 기능 회복 촉진.
 [^18]: [Effect of zhuhuang frost on wound hydroxy-proline level after anal operation]. 임상시험, 50명. PMID: [12577355](https://pubmed.ncbi.nlm.nih.gov/12577355/). 근거수준: 중간. 주황상 외용제가 하이드록시프롤린 증가로 상처 치유 촉진.
