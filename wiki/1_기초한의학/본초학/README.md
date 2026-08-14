@@ -8,6 +8,8 @@
   - 하위 표제어: 백삼(白蔘) · 홍삼(紅蔘) · 인삼양영탕(人蔘養榮湯) · 발효 홍삼/발효 인삼
 - [황기(黃芪, Astragalus)](황기(黃芪, Astragalus).md)
   - 하위 표제어: 황기 약침/주사액 · 황기 추출물/보충제 · 황기 포함 처방(황기계지오물탕·방기황기탕 등) · 황기 유효 성분(Astragaloside)
+- [감초(甘草, Glycyrrhiza)](감초(甘草, Glycyrrhiza).md)
+  - 하위 표제어: 감초(甘草, Glycyrrhiza uralensis) · 유럽감초(Glycyrrhiza glabra) · 작약감초탕(芍藥甘草湯) · 감초산(甘草酸) 제제 · 감초 추출물·비강 세척·구강 겔
 
 ## 동음이의 분류
 
