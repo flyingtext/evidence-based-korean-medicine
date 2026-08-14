@@ -24,15 +24,15 @@ LOG_FILE = os.path.join(ROOT, "scripts", "loop.log")
 
 # 연속 실패 시 중단할 횟수
 MAX_CONSECUTIVE_FAILURES = 3
-# 세션당 API 검색 상한 (프롬프트에 명시)
-SESSION_SEARCH_LIMIT = 5
+# 세션당 API 검색 상한 (프롬프트에 명시, 제한 없음)
+SESSION_SEARCH_LIMIT = None
 
 PROMPT = (
     "RUN.md와 AGENTS.md의 규칙을 따라 위키를 증식·보강하라. "
     "1) scripts/.progress.json 체크포인트를 읽어 이미 처리한 주제를 건너뛰고, "
     "   각 폴더의 README.md 목차(동음이의 분류 포함)에서 아직 작성되지 않은 문서를 하나 골라라. "
     "2) 해당 주제로 med.symbolicinfo.com /search API(analyzed=1, km=1, human=1)에서 논문을 수집하되, "
-    f"   이번 세션의 검색은 최대 {SESSION_SEARCH_LIMIT}회로 제한하라. "
+    "   검색 횟수에 제한이 없다. 포괄적 검색어 확장(RUN.md)에 따라 충분히 검색하라. "
     "   근거 표(제목·연구유형·환자수·근거수준·DOI/PMID·AI 임상요약)를 포함한 위키 문서를 작성하라. "
     "3) 질환 문서는 KCD-8 코드를 개요 첫 문단에 명시하고, 임상한의학 각 과 밑에는 교과서적 편제로 질환을 서술하라. "
     "4) 기존 문서는 최신 논문(analyzed_at/fetched_at)과 대조해 틀린 내용·오래된 근거·누락된 근거수준 라벨을 수정·갱신하라. "
