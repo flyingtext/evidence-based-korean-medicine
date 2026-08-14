@@ -1,6 +1,6 @@
 site_name: 근거 기반 한의학 위키
 site_description: Evidence-Based Korean Medicine Wiki
-site_url: https://med.symbolicinfo.com
+site_url: https://wiki.symbolicinfo.com
 docs_dir: wiki
 theme:
   name: material
@@ -125,7 +125,9 @@ nav:
       - 침구과:
           - 개요: 4_임상한의학/침구과/README.md
           - 침치료(鍼治療, Acupuncture): 4_임상한의학/침구과/침치료(鍼治療).md
-      - 추나의학: 4_임상한의학/추나의학/README.md
+      - 추나의학:
+          - 개요: 4_임상한의학/추나의학/README.md
+          - 추나의학(推拿醫學, Chuna Manual Therapy): 4_임상한의학/추나의학/추나의학(推拿醫學).md
       - 재활의학:
           - 개요: 4_임상한의학/재활의학/README.md
           - 요통(腰痛, Low Back Pain): 4_임상한의학/재활의학/요통.md
