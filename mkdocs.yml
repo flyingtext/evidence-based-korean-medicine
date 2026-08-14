@@ -57,7 +57,6 @@ plugins:
   - print-site
 extra_javascript:
   - assets/gtag.js
-  - assets/external-links.js
 # nav는 대분류→중분류→소분류의 3단계에 얽매이지 않고,
 # 필요에 따라 4단계 이상의 하위 단계로 자유롭게 뻗어나갈 수 있다.
 # 폴더를 새로 만들면 반드시 이 nav에도 반영한다.
