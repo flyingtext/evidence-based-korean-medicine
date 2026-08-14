@@ -53,13 +53,19 @@ def log(msg: str) -> None:
 
 
 def load_checkpoint() -> dict:
+    cp = {"processed": [], "last_run": None}
     if os.path.exists(CHECKPOINT):
         try:
             with open(CHECKPOINT, encoding="utf-8") as f:
-                return json.load(f)
+                loaded = json.load(f)
+            if isinstance(loaded, dict):
+                cp.update(loaded)
+                cp.setdefault("processed", [])
+                cp.setdefault("last_run", None)
+                return cp
         except (json.JSONDecodeError, OSError):
             pass
-    return {"processed": [], "last_run": None}
+    return cp
 
 
 def save_checkpoint(cp: dict) -> None:
@@ -68,10 +74,17 @@ def save_checkpoint(cp: dict) -> None:
         json.dump(cp, f, ensure_ascii=False, indent=2)
 
 
-def run_once(opencode_cmd: list, interval: float, count: int) -> int:
+def run_once(opencode_cmd: list, prompt: str, interval: float, count: int,
+             timeout: float = 0) -> int:
     log(f"=== [{count}] opencode 실행 시작 ===")
     try:
-        rc = subprocess.call(opencode_cmd)
+        kw = {"input": prompt, "text": True, "encoding": "utf-8"}
+        if timeout > 0:
+            kw["timeout"] = timeout
+        rc = subprocess.run(opencode_cmd, **kw).returncode
+    except subprocess.TimeoutExpired:
+        log(f"=== [{count}] {timeout}초 경과 — 타임아웃으로 강제 종료 ===")
+        return 1
     except KeyboardInterrupt:
         log("중단됨.")
         return -1
@@ -91,6 +104,8 @@ def main() -> int:
     p.add_argument("--max", type=int, default=0, help="실행 횟수 (0 = 무한)")
     p.add_argument("--interval", type=float, default=2, help="실행 사이 대기(초)")
     p.add_argument("--opencode", default="opencode", help="opencode 실행 파일")
+    p.add_argument("--timeout", type=float, default=600,
+                   help="opencode 응답 없음 시 강제 종료할 시간(초), 0 = 제한 없음")
     p.add_argument("--reset", action="store_true", help="체크포인트 초기화")
     args = p.parse_args()
 
@@ -101,12 +116,12 @@ def main() -> int:
     cp = load_checkpoint()
     log(f"체크포인트: 처리 {len(cp['processed'])}건, 마지막 실행 {cp['last_run']}")
 
-    cmd = [args.opencode, PROMPT]
+    cmd = [args.opencode]
     count = 0
     consecutive_failures = 0
     while args.max == 0 or count < args.max:
         count += 1
-        rc = run_once(cmd, args.interval, count)
+        rc = run_once(cmd, PROMPT, args.interval, count, args.timeout)
         if rc == -1:
             return 0
         if rc != 0:

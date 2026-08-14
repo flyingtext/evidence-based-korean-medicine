@@ -23,6 +23,7 @@ theme:
       accent: teal
 markdown_extensions:
   - admonition
+  - footnotes
   - tables
   - toc:
       permalink: true
@@ -62,7 +63,9 @@ nav:
       - 외과: 4_임상한의학/외과/README.md
       - 산부인과: 4_임상한의학/산부인과/README.md
       - 소아과: 4_임상한의학/소아과/README.md
-      - 신경정신과: 4_임상한의학/신경정신과/README.md
+      - 신경정신과:
+          - 개요: 4_임상한의학/신경정신과/README.md
+          - 불면증(不眠症, Insomnia): 4_임상한의학/신경정신과/불면증.md
       - 안이비인후피부과: 4_임상한의학/안이비인후피부과/README.md
       - 침구과: 4_임상한의학/침구과/README.md
       - 추나의학: 4_임상한의학/추나의학/README.md
