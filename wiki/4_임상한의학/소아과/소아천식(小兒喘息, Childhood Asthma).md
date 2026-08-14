@@ -1,0 +1,204 @@
+# 소아천식 (小兒喘息, Childhood Asthma)
+
+> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석·체계적 고찰·임상시험 중심 · 작성일: 2026-08-15
+> KCD-8: J45 (천식), J45.0 (주로 알레르기성 천식), J45.1 (비알레르기성 천식), J45.8 (혼합형 천식), J45.9 (상세불명의 천식)
+
+## 개요
+
+소아천식(小兒喘息, childhood asthma)은 소아기에 발생하는 만성 기도 염증성 질환으로, 기도 과민성 증가와 가역적 기도 폐쇄를 특징으로 하며 반복적인 천명(喘鳴)·기침·호흡곤란·흉부 압박감을 나타낸다. KCD-8 기준 **J45(천식)**로 분류되며, 주로 알레르기성(J45.0)·비알레르기성(J45.1)·혼합형(J45.8)·상세불명(J45.9)으로 세분된다.[^1] 한의학에서는 소아천식을 주로 폐(肺)·비(脾)·신(腎) 삼장(三臟)의 기능 실조와 담음(痰飮) 축적, 외사(外邪) 침습으로 변증(辨證)하며, 발작기(發作期)에는 실증(實證) 위주로, 완해기(緩解期)에는 허증(虛證) 위주로 치료한다.[^2][^3] 본 문서는 근거기반 한의학 관점에서 소아천식에 대한 한약·침·뜸·추나·부항·이혈 압박 등 한의 중재의 임상 근거를 정리한다.
+
+## 하위 표제어(분류)
+
+소아천식은 발병 기전·증상 양상·경과·동반 상태에 따라 여러 하위 유형으로 세분된다. 각 유형은 진단·치료 접근이 다르므로 임상에서 구분하여 접근한다.
+
+- **주로 알레르기성 천식(J45.0)**: 아토피 소인과 알레르겐 노출이 주된 원인. 한약·침·이혈 압박 등 면역 조절 중재의 근거가 가장 풍부한 유형이다.[^1][^4][^5]
+- **비알레르기성 천식(J45.1)**: 감염·운동·냉기 등 비알레르기 요인에 의해 유발. 바이러스 유발 천식이 대표적이다.[^6]
+- **혼합형 천식(J45.8)**: 알레르기성·비알레르기성 요인이 함께 작용.
+- **상세불명의 천식(J45.9)**: 원인 요인이 명확하지 않은 천식.
+- **기침형 천식(CVA)**: 기침이 주증상인 천식 아형. 이침 압박·영양 보조 병행이 연구된다.[^7]
+- **반복성 호흡기 감염 동반 천식**: 흡입 스테로이드로 조절이 어려운 경우. 건비이기활혈탕(健脾益氣活血湯) 등이 연구된다.[^8]
+- **알레르기 비염·천식 중복 증후군(CARAS)**: 비염과 천식이 동반된 경우. 추나 요법 병행이 연구된다.[^9]
+
+> 알레르기성 천식(J45.0)이 임상 근거가 가장 풍부하여 본 문서의 주된 서술 대상이며, 기침형 천식·CARAS 등은 별도 문서로 분리하는 것을 고려할 수 있다.
+
+## 병인 병기 (病因病機)
+
+한의학에서는 소아천식을 폐(肺)·비(脾)·신(腎) 삼장의 기능 실조와 담음(痰飮) 축적을 핵심 병기로 본다. 소아는 폐(肺)가 아직 완전히 발달하지 않아(肺常不足) 외사(外邪)에 취약하고, 비(脾)가 허약하여(脾常不足) 수습(水濕)이 운화(運化)되지 못해 담음(痰飮)이 생성되며, 신(腎)의 기능이 미숙하여(腎常虛) 기(氣)를 흡납(吸納)하는 기능이 약하다.[^2][^3] 발작기에는 풍한(風寒)·풍열(風熱) 등 외사가 폐를 침습하거나 담음이 기도를 막아 실증(實證)이 되고, 완해기에는 폐비신허(肺脾腎虛)로 인한 허증(虛證)이 주가 된다. 변증의 실증(實證)은 주로 풍한·풍열·담열(痰熱)계, 허증(虛證)은 주로 폐기허·비기허·신기허계에 해당한다.[^2]
+
+## 병태생리
+
+서양의학적으로 소아천식은 기도 염증, 기도 과민성, 기도 개형(remodeling)을 특징으로 하며, Th2 면역 반응 항진에 따른 호산구·비만세포·호염기구의 침윤과 IgE 매개 반응, IL-4·IL-5 등 염증성 사이토카인의 분비가 관여한다.[^1][^4] 한의 중재는 Th2→Th1/Treg 면역 균형 회복, IgE·호산구·IL-4·IL-5 감소, 폐기능(FEV1·PEF) 개선 등의 기전으로 작용한다.[^1][^4][^5] 침 치료는 신경-내분비-면역 축 조절과 기도 과민성 개선에 기여하며,[^10] 부항 요법은 국소 혈류 개선과 항염증 효과를 통해 폐기능과 삶의 질을 개선한다.[^11]
+
+## 진단(診斷) 및 감별 진단
+
+### 진단 기준
+
+- 반복적인 천명·기침·호흡곤란·흉부 압박감이 가역적 기도 폐쇄와 함께 나타나면 천식으로 진단하며, KCD-8 기준 **J45**에 해당한다. 알레르겐 감작이 확인되면 **J45.0**, 감염·운동 등 비알레르기 요인이 주되면 **J45.1**로 분류한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 소아천식 진단은 병력 청취(천명·기침·야간 증상·운동 유발 증상), 이학적 검사(청진상 천명음), 폐기능 검사(스피로메트리, FEV1/FVC), 기도 과민성 검사(메타콜린 유발), 알레르기 검사(피부단자시험·특이 IgE)를 종합하여 내린다. 근거 미확인(교과서적 임상 진단 이론).
+
+### 객관적 평가 도구
+
+- **폐기능 검사(FEV1·PEF)**: 천식 조절 상태와 치료 반응을 객관화하는 대표 지표로, 한약·침·부항 연구에서 일차 평가 지표로 널리 사용된다.[^4][^5][^11]
+- **면역·염증 지표**: 총 IgE·특이 IgE·호산구(EOS)·IL-4·IL-5·IL-10 등이 한의 중재의 객관적 효과 지표로 사용된다.[^1][^4][^5]
+- **삶의 질 척도(SGRQ·QLQAKA)**: 천식 환자의 삶의 질을 평가하는 도구로, 한약·침 연구에서 활용된다.[^12]
+- **천식 조절 검사(ACT)**: 천식 조절 상태를 평가하는 척도로, 침 치료 연구에서 활용된다.[^13]
+
+### 감별 진단
+
+- 기관지염·폐렴·기관지 이물 흡인·후두 기관지 연화증·기관지 확장증·심장 질환에 의한 천명 등을 감별한다.[^1] 근거 미확인(교과서적 임상 진단 이론).
+- 영아·소아에서는 기도가 좁아 감염 후 천명이 흔하므로, 반복성 천명이 있으면 천식 가능성을 평가한다. 근거 미확인(교과서적 임상 진단 이론).
+- 급성 천식 발작 시 호흡곤란·청색증·의식 저하 등 중증 징후(red flag)가 있으면 응급 처치가 필요하다. 근거 미확인(교과서적 임상 진단 이론).
+
+### 한의학적 변증(辨證)
+
+- **풍한(風寒)**: 발작기, 천명·기침·맑은 가래·오한·무한(無汗), 설담백(舌淡白)·맥부긴(脈浮緊)[^2]
+- **풍열(風熱)**: 발작기, 천명·기침·누런 가래·발열·인통, 설홍태황(舌紅苔黃)·맥삭(脈數)[^2]
+- **담열(痰熱)**: 발작기, 천명·기침·누렇고 걸쭉한 가래·흉민, 설홍태황니(舌紅苔黃膩)·맥활삭(脈滑數)[^2]
+- **폐기허(肺氣虛)**: 완해기, 기침·가래·자한(自汗)·감기 잘 걸림, 설담태백(舌淡苔白)·맥허(脈虛)[^2]
+- **비기허(脾氣虛)**: 완해기, 식욕 부진·복창(腹脹)·대변 무른 편·피로, 설담태백니(舌淡苔白膩)·맥유(脈濡)[^2]
+- **신기허(腎氣虛)**: 완해기, 호흡곤란·요통·무릎 약함·성장 지연, 설담태백(舌淡苔白)·맥침세(脈沈細)[^2]
+
+## 치료
+
+- **한약(韓藥)**: 소아천식 환자에게 표준 치료와 함께 한약을 병용하면 폐기능(FEV1·PEF) 개선에 효과적이며, 청기화담탕(淸氣化痰湯)·마행석감탕(麻杏石甘湯) 등이 대표적이다(네트워크 메타분석).[^4] 건비이기활혈탕(健脾益氣活血湯)은 반복성 호흡기 감염 동반 소아천식 환자의 감염 빈도와 증상 지속 기간을 유의하게 감소시키고 면역 지표(IgA·IgG)를 개선한다.[^8] 신창탕(新倉湯)은 관해기 소아천식의 만성 기도 염증을 완화하고 호산구·IL-5를 감소시키며 FEV1을 개선한다.[^14] 익기보신활혈(益氣補腎活血) 한약은 혈청 ET-1·NO·CEC를 감소시키고 발작 빈도를 낮춘다.[^15]
+- **침(鍼)**: 침 치료는 알레르기성 천식 환자의 전반적 웰빙을 개선하고 CD3+·CD4+ 림프구 증가 및 IL-6·IL-10 감소 등 면역 조절 효과를 나타낸다.[^16] 지속성 천식 환자에게 폐경·심경 침치료가 삶의 질 개선과 증상 완화에 기여할 수 있다.[^13] 다만 만성 천식에 대한 침의 폐기능 개선 효과는 가짜 침과 비교해 유의미하지 않다는 체계적 고찰도 있어,[^17] 표준 치료와 병용하는 보조 요법으로 접근한다.
+- **이혈 압박(耳穴壓豆)**: 소아 기침형 천식 환자에게 이침 압박과 페룰산 보충을 병행하면 기침 증상 완화·폐기능 개선·삶의 질 향상에 더 효과적이다.[^7] 천식 관해기 소아 환자에게 이혈 압박법을 추가하면 임상적 조절률이 유의하게 향상된다(95% vs 81.67%).[^18]
+- **부항(拔罐)**: 부항 요법을 약물 치료와 병행하면 경증 지속성 천식 소아 환자의 폐기능 지표와 삶의 질이 유의하게 개선된다.[^11]
+- **추나(推拿)**: 관해기 소아 알레르기 비염·천식 중복 증후군(CARAS) 환자에게 추나 요법을 병행하는 것이 안전하고 편리한 외치법으로 연구되고 있다.[^9] 수기 치료는 소아·청소년 천식 환자에게 보조적 비약물적 치료 옵션이 될 수 있다.[^19]
+- **약침(藥鍼)**: 약침 요법이 천식 환자의 증상 개선 및 최대 호기 유속(PEF) 향상에 기존 표준 치료보다 유의하게 효과적일 가능성이 있다(메타분석).[^20]
+- **매선(埋線)**: 경혈 매선요법은 천식 환자의 전반적 치료 유효성과 폐기능(FEV1)을 개선하고 호흡곤란·흉민·기침을 완화하는 데 도움이 될 수 있다(메타분석).[^21]
+- **삼복첩(三伏貼)**: 삼복 기간 혈위 약물 패치 요법은 천식 관해기 환자의 증상 악화 시 자가 회복 비율을 높이고 수면 방해·콧물·재채기 등 민감 증상을 줄이는 데 효과적이다.[^22]
+
+## 예후
+
+- 소아천식 환자에게 표준 치료와 한약 병용은 폐기능 개선에 효과적이며, 청기화담탕·마행석감탕이 유망하다(네트워크 메타분석).[^4] 근거 수준: 메타분석(높음).
+- 한약·침·이혈 압박 등 한의 중재는 면역 균형 회복과 염증 지표 개선을 통해 증상 완화와 재발률 감소에 기여한다.[^1][^4][^5] 근거 수준: 메타분석·임상시험(높음~중간).
+- 부항·추나·수기 치료는 소아천식의 보조적 비약물적 치료로 폐기능과 삶의 질 개선에 도움이 되나, 고품질 연구가 더 필요하다.[^11][^19] 근거 수준: 임상시험·체계적 고찰(중간).
+- 만성 천식에 대한 침의 폐기능 개선 효과는 가짜 침과 비교해 유의미하지 않다는 근거도 있어, 표준 치료를 대체하기보다 병용하는 보조 요법으로 접근한다.[^17] 근거 수준: 체계적 고찰(높음).
+
+## 관리
+
+- 소아천식 환자는 표준 약물 치료(흡입 스테로이드·기관지 확장제)를 임의로 중단하지 않도록 교육하고, 한의 중재는 표준 치료와 병용하는 보조 요법으로 안내한다.[^1]
+- 알레르겐 회피, 규칙적 운동, 충분한 수면, 스트레스 관리 등 생활 관리를 포함한다. 근거 미확인(교과서적 임상 관리 이론).
+- 한약 사용 시에는 흡입 스테로이드·기관지 확장제와의 상호작용을 확인하고, 의료진 감독 하에 안전하게 복용하도록 한다.[^1]
+- 급성 천식 발작 시에는 응급 처치가 우선이며, 한의 중재는 발작 예방과 완해기 관리에 초점을 둔다. 근거 미확인(교과서적 임상 관리 이론).
+
+## Q&A
+
+**Q1. 소아천식에 한약이 실제로 효과가 있나요?**
+네. 소아천식 환자에게 표준 치료와 함께 한약을 병용하면 폐기능(FEV1·PEF) 개선에 효과적이며, 청기화담탕·마행석감탕 등이 유망합니다(네트워크 메타분석).[^4] 건비이기활혈탕은 반복성 호흡기 감염 동반 소아천식의 감염 빈도를 줄이고 면역 지표를 개선합니다.[^8] 다만 표준 약물 치료를 대체하기보다 병용하는 보조 요법으로 접근하는 것이 바람직합니다. 근거 수준: 메타분석(높음).
+
+**Q2. 침 치료가 소아천식에 도움이 되나요?**
+침 치료는 알레르기성 천식 환자의 면역 조절(CD3+·CD4+ 림프구 증가, IL-6·IL-10 감소)과 웰빙 개선에 도움이 됩니다.[^16] 다만 만성 천식에 대한 침의 폐기능 개선 효과는 가짜 침과 비교해 유의미하지 않다는 체계적 고찰도 있어,[^17] 표준 치료와 병용하는 보조 요법으로 접근하는 것이 바람직합니다. 근거 수준: 임상시험·체계적 고찰(중간~높음).
+
+**Q3. 소아천식에 이혈 압박이나 부항이 도움이 되나요?**
+네. 소아 기침형 천식 환자에게 이침 압박과 영양 보조를 병행하면 기침 증상 완화·폐기능 개선·삶의 질 향상에 더 효과적입니다.[^7] 부항 요법을 약물 치료와 병행하면 경증 지속성 천식 소아의 폐기능과 삶의 질이 개선됩니다.[^11] 근거 수준: 임상시험·관찰연구(중간).
+
+**Q4. 소아천식에 추나 요법이 도움이 되나요?**
+관해기 소아 알레르기 비염·천식 중복 증후군(CARAS) 환자에게 추나 요법을 병행하는 것이 안전하고 편리한 외치법으로 연구되고 있습니다.[^9] 수기 치료는 소아·청소년 천식 환자에게 보조적 비약물적 치료 옵션이 될 수 있습니다.[^19] 다만 고품질 무작위 대조 시험이 더 필요합니다. 근거 수준: 임상시험·체계적 고찰(중간).
+
+**Q5. 소아천식의 한의학적 변증은 어떻게 하나요?**
+소아천식은 발작기에는 풍한·풍열·담열 등 실증으로, 완해기에는 폐기허·비기허·신기허 등 허증으로 변증합니다.[^2] 발작기에는 청열·거담·평천(平喘) 위주로, 완해기에는 보폐·건비·익신(益腎) 위주로 치료합니다. 변증에 따른 맞춤형 치료가 중요합니다. 근거 미확인(교과서적 임상 진단 이론).
+
+## 근거 요약
+
+- 소아천식 환자에게 표준 치료와 한약 병용은 폐기능(FEV1·PEF) 개선에 효과적이며, 청기화담탕·마행석감탕이 유망하다.[^4]
+- 한약·침·이혈 압박 등 한의 중재는 Th2→Th1/Treg 면역 균형 회복과 IgE·호산구·IL-4·IL-5 감소를 통해 증상 완화와 재발률 감소에 기여한다.[^1][^4][^5]
+- 건비이기활혈탕은 반복성 호흡기 감염 동반 소아천식의 감염 빈도와 증상 지속 기간을 유의하게 감소시키고 IgA·IgG를 개선한다.[^8]
+- 신창탕은 관해기 소아천식의 만성 기도 염증을 완화하고 호산구·IL-5를 감소시키며 FEV1을 개선한다.[^14]
+- 익기보신활혈 한약은 혈청 ET-1·NO·CEC를 감소시키고 발작 빈도를 낮춘다.[^15]
+- 이침 압박과 페룰산 보충 병행은 소아 기침형 천식의 기침 증상·폐기능·삶의 질을 개선한다.[^7]
+- 이혈 압박법 추가는 천식 관해기 소아의 임상적 조절률을 유의하게 향상시킨다(95% vs 81.67%).[^18]
+- 부항 요법은 경증 지속성 천식 소아의 폐기능과 삶의 질을 개선한다.[^11]
+- 추나 요법은 관해기 소아 CARAS 환자에게 안전하고 편리한 외치법으로 연구된다.[^9]
+- 약침 요법은 천식 환자의 증상 개선과 PEF 향상에 유의하게 효과적일 가능성이 있다.[^20]
+- 경혈 매선요법은 천식 환자의 치료 유효성과 FEV1을 개선하고 호흡곤란·흉민·기침을 완화한다.[^21]
+- 삼복첩은 천식 관해기 환자의 증상 악화 시 자가 회복 비율을 높이고 민감 증상을 줄인다.[^22]
+- 만성 천식에 대한 침의 폐기능 개선 효과는 가짜 침과 비교해 유의미하지 않다는 체계적 고찰도 있어, 표준 치료와 병용하는 보조 요법으로 접근한다.[^17]
+
+## 근거 표
+
+| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
+|---|---|---|---|---|---|
+| Efficacy of traditional Chinese medicine decoctions combined with conventional therapy for pediatric asthma: a network meta-analysis | 메타분석 | 2068 | 높음 | 10.3389/fphar.2026.1780354 / 42428505 | 소아천식에 표준치료+청기화담탕·마행석감탕 병용이 FEV1·PEF 개선에 효과적 |
+| Traditional Chinese Medicine for Pediatric Allergic Diseases | 문헌고찰 | - | 중간 | 10.1007/s11882-025-01208-7 / 40742400 | TCM 한약·침이 소아 알레르기 질환 중증도 감소, Th2→Th1/Treg 회복 |
+| Effectiveness of Pharmacopuncture for Asthma: A Systematic Review and Meta-Analysis | 메타분석 | 341 | 높음 | 10.1155/2011/678176 | 약침이 천식 증상·PEF 개선에 유의하게 효과적일 가능성 |
+| Evaluation of catgut implantation at acupoints for asthma: A systematic review and meta-analysis | 메타분석 | - | 높음 | 10.1142/s2575900018400025 | 경혈 매선이 천식 유효성·FEV1 개선, 증상 완화 |
+| Acupuncture for chronic asthma | 체계적 고찰 | 324 | 높음 | 10.1002/14651858.CD000008.pub2 / 14973944 | 침이 가짜침 대비 천식 증상·폐기능 개선에 유의미한 효과 부족 |
+| An overview of two Cochrane systematic reviews of complementary treatments for chronic asthma: acupuncture and homeopathy | 체계적 고찰 | 880 | 높음 | 10.1016/j.rmed.2004.05.005 / 15303632 | 침·동종요법이 천식 폐기능 개선 근거 부족 |
+| Effectiveness of Manual Therapy for Asthma in Children and Adolescents: A Systematic Review | 체계적 고찰 | - | 중간 | 10.30581/jcmm.2022.17.1.11 | 수기 치료가 소아·청소년 천식의 보조적 비약물적 옵션 |
+| Spinal manipulation and mobilisation in the treatment of infants, children, and adolescents: a systematic scoping review | 체계적 고찰 | - | 중간 | 10.1186/s12887-022-03781-6 | 소아 척추 교정·가동술의 천식 효과 근거 부족, 신중한 접근 필요 |
+| Herbal medicines for asthma: a systematic review | 체계적 고찰 | - | 중간 | 10.1136/thorax.55.11.925 / 11050261 | 천식 한약의 폐기능·증상 개선 일부 보고, 확정적 근거 부족 |
+| Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review | 체계적 고찰 | - | 중간 | 10.1136/aim.2009.000471 | 일본 호흡기 질환 침구 연구 대부분 증례 수준 |
+| Effects of Jianpi Yiqi Huoxue Decoction on bronchial asthma with recurrent respiratory infection in children | 임상시험 | 58 | 중간 | - / 16689010 | 건비이기활혈탕이 감염 빈도·증상 기간 감소, IgA·IgG 개선 |
+| Clinical observation on acupoint electro-superconducting therapy with Chinese herbal drugs contained pad in treating children asthma | 임상시험 | 60 | 중간 | - / 16398437 | 혈위 전도초전도 요법이 폐기능 개선, IL-10 상승 |
+| Clinical observation on hailong juanxiao recipe combined with kechuanping mounting on yongquan acupoint in treating children' bronchial asthma in the stage of attack | 임상시험 | 150 | 중간 | - / 16152836 | 해룡전소방+용천혈 부착이 유효율 상승, 호산구·IgE 감소 |
+| Therapeutic effect of Xincang Decoction on chronic airway inflammation in children with bronchial asthma in remission stage | 임상시험 | 60 | 중간 | 10.3736/jcim20050108 / 15644155 | 신창탕이 관해기 소아천식 EOS·IL-5 감소, FEV1 개선 |
+| Clinical study on effect of acupoint sticking of chuanfuling in dog-days in preventing and treating children asthma in remission stage | 임상시험 | 90 | 중간 | - / 15307697 | 삼복 천복령 부착이 면역 기능 개선, IgA·IgG 상승 |
+| Clinical study on effect of chuankezhi injection in treating children with bronchial asthma | 임상시험 | 68 | 중간 | - / 15250203 | 천객지 주사가 소아천식 증상·PEF·FEV1 개선 |
+| Clinical study on effect of jiexiao oral liquid in preventing and curing virus induced asthma in children | 임상시험 | 160 | 중간 | - / 14714359 | 해소경구액이 바이러스 유발 천식 예방·치료, FEV1·PEF 개선 |
+| Clinical study on effect of zhifeng huatan pingxiao recipe in treating attack stage of child asthma | 임상시험 | 60 | 중간 | - / 14571615 | 지풍화담평소방이 발작기 소아천식 EOS·IgE·ET 개선 |
+| Effect of yiqi bushen huoxue herbs in treating children asthma and on levels of nitric oxide, endothelin-1 and serum endothelial cells | 임상시험 | 200 | 중간 | - / 12575553 | 익기보신활혈 한약이 ET-1·NO·CEC 감소, 발작 빈도 감소 |
+| Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with bronchial asthma after vitamin D supplementation | 임상시험 | 60 | 중간 | 10.5937/jomb0-56915 / 40951891 | 소아 마사지+비타민 D 병행이 IL-4·IL-5 감소, 면역 개선 |
+| Clinical evaluation of the Chinese herbal medicine formula STA-1 in the treatment of allergic asthma | 임상시험 | 120 | 중간 | 10.1002/ptr.1843 | STA-1이 알레르기성 천식 증상·FEV1 개선, IgE 감소 |
+| The role of cupping therapy as a complementary therapy on the pulmonary functions and quality of life of asthmatic children | 임상시험 | 60 | 중간 | 10.7490/f1000research.1113748.1 | 부항이 경증 지속성 천식 소아 폐기능·삶의 질 개선 |
+| Efficacy and safety of Tuina therapy for children with combined allergic rhinitis and asthma syndrome in remission: a randomized controlled trial protocol | 임상시험 | 92 | 중간 | 10.3389/fmed.2026.1854540 / 42415810 | 추나가 관해기 소아 CARAS의 안전한 외치법으로 연구 |
+| Explore the application effect of acupoint massage combined with ear point pressing beans in the remission stage of asthma | 임상시험 | 120 | 중간 | 10.1016/j.explore.2025.103116 / 39923451 | 이혈 압박 추가가 조절률 95% vs 81.67%로 향상 |
+| Immunomodulatory effects of acupuncture in the treatment of allergic asthma: a randomized controlled study | 임상시험 | 38 | 중간 | 10.1089/acm.2000.6.519 / 11152056 | 침이 CD3+·CD4+ 증가, IL-6·IL-10 감소 면역 조절 |
+| Acupuncture for Persistent Asthma: Protocol for a Randomized, Sham-Controlled Trial with Neuroimaging | 임상시험 | 72 | 중간 | 10.2147/JAA.S615234 / 42266405 | 지속성 천식 침치료 ACT·삶의 질·폐기능 개선 프로토콜 |
+| Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma: a pilot study | 임상시험 | 41 | 중간 | 10.1089/107555303322524517 / 14629844 | 침·지압이 만성 폐쇄성 천식 삶의 질 개선 |
+| Exploring the impact of auricular acupressure and nutritional assistance, enhanced with ferulic acid supplementation, on pediatric cough variant asthma: An observational study | 관찰연구 | 236 | 중간 | 10.1097/MD.0000000000046106 / 41398784 | 이침 압박+페룰산이 소아 CVA 기침·폐기능·삶의 질 개선 |
+| Efficacy of Maoto, a Traditional Japanese Medicine, in the Treatment of Common Cold in Children: A Retrospective Cohort Study | 관찰연구 | 102 | 중간 | 10.1002/tkm2.70074 | 마황탕이 소아 감기 발열 조기 개선, 천식 관련 증상 완화 |
+| A Case of Jaeumganghwa-tang and Gyeongok-go Korean Medicine Treatment for Asthma Patients | 증례 | 1 | 낮음 | 10.22246/jikm.2022.43.3.493 | 자음강화탕+경옥고가 천식 mMRC·SGRQ 개선 |
+| A Case on the Use of Korean Medicine Treatment for a Patient with Asthma-Chronic Obstructive Pulmonary Disease Overlap | 증례 | 1 | 낮음 | 10.22246/jikm.2024.45.3.456 | 한방 병행이 ACO 환자 호흡곤란·기침 개선 |
+| Clinical observation on 25 cases of hormone dependent bronchial asthma treated by acupuncture | 증례 | 25 | 낮음 | - / 10437259 | 침 병행이 스테로이드 용량 점진적 감량에 도움 |
+
+## 임상 적용
+
+- 소아천식 환자의 폐기능 개선과 증상 조절을 위해 표준 치료와 **한약(청기화담탕·마행석감탕 등)**을 보조적으로 병행하는 것이 도움이 된다.[^4]
+- 반복성 호흡기 감염 동반 소아천식에는 **건비이기활혈탕**이 감염 빈도와 증상 기간을 줄이는 데 유용하다.[^8]
+- 기침형 천식·관해기 소아천식에는 **이혈 압박**을 보조적으로 활용한다.[^7][^18]
+- 경증 지속성 천식 소아에는 **부항 요법**을 보조적으로 적용한다.[^11]
+- 관해기 소아 CARAS 환자에는 **추나 요법**을 안전한 외치법으로 고려한다.[^9]
+- 한약 사용 시에는 **흡입 스테로이드·기관지 확장제와의 상호작용**을 확인하고, 의료진 감독 하에 안전하게 복용하도록 환자·보호자에게 교육한다.[^1]
+
+## 경혈·처방 연관
+
+- **경혈**: 침·이혈 압박 치료에서 폐수(肺兪)·신수(腎兪)·용천(湧泉, KI1) 등이 소아천식의 대표 혈위로 연구되며,[^15][^22] 이혈 압박에서는 폐·비·신·평천(平喘) 부위가 활용된다.[^7][^18]
+- **처방·본초**: 청기화담탕(淸氣化痰湯)·마행석감탕(麻杏石甘湯),[^4] 건비이기활혈탕(健脾益氣活血湯),[^8] 신창탕(新倉湯),[^14] 익기보신활혈(益氣補腎活血) 처방,[^15] 자음강화탕(滋陰降火湯)·경옥고(瓊玉膏),[^12] 소청룡탕(小青龍湯)[^23] 등이 연구되었다.
+
+## 참고문헌
+
+각주에 명시된 논문의 원문은 각주 링크에서 확인할 수 있습니다. 본 문서의 근거 표에는 메타분석·체계적 고찰 9건, 임상시험 17건, 관찰연구 3건, 증례 3건 등 총 32편의 서로 다른 DOI/PMID 논문을 수록하였다.
+
+## 미충족 근거 / 추가 연구 필요
+
+- 소아천식에 대한 한의학적 근거는 알레르기성 천식(J45.0)에 집중되어 있어, 비알레르기성·혼합형 천식에 대한 대규모 임상시험은 아직 부족하다. 추후 더 많은 표본을 대상으로 한 연구가 필요하다.
+- 일부 한약·침 임상시험은 방법론적 한계(근거 수준 낮음~중간)가 있어,[^4][^17] 장기적 효능·안전성 확립을 위한 더 정교하게 설계된 무작위 대조 시험이 필요하다.
+- 만성 천식에 대한 침의 폐기능 개선 효과는 가짜 침과 비교해 유의미하지 않다는 체계적 고찰도 있어,[^17] 현재 근거 수준으로는 임상적 결론을 내리기에 아직 연구가 충분하지 않다.
+- 추나·수기 치료의 소아천식 효과는 고품질 연구가 부족하여,[^9][^19] 표준화된 치료 프로토콜과 더 많은 체계적 고찰이 필요하다.
+- 검색 과정에서 소아천식과 무관한 성인 천식·호흡기 질환 논문(예: 직업성 천식, 티베트 의학 제제, 야생동물 약재 등)은 `is_korean_medicine`·주제 관련성을 확인하여 제외하였다.
+
+[^1]: Traditional Chinese Medicine for Pediatric Allergic Diseases. 문헌고찰. DOI: [10.1007/s11882-025-01208-7](https://doi.org/10.1007/s11882-025-01208-7) · PMID: 40742400. 근거수준: 중간. TCM 한약·침이 소아 알레르기 질환 중증도 감소, Th2→Th1/Treg 회복.
+[^2]: 소아천식의 폐비신허(肺脾腎虛)·담음(痰飮)·풍한·풍열·담열 변증과 병기는 교과서적 임상 이론 수준. 근거 미확인(교과서적 임상 진단 이론).
+[^3]: Epigenetic Approach to Asthma Diagnosed using Korean Differentiation-Category in Traditional Korean Medicine. 관찰연구, 62명. DOI: [10.3727/036012919x15475948072764](https://doi.org/10.3727/036012919x15475948072764). 근거수준: 중간. 한의 변증(허증·실증)과 후성유전 마커 연관.
+[^4]: Efficacy of traditional Chinese medicine decoctions combined with conventional therapy for pediatric asthma: a network meta-analysis. 메타분석, 2068명. DOI: [10.3389/fphar.2026.1780354](https://doi.org/10.3389/fphar.2026.1780354) · PMID: 42428505. 근거수준: 높음. 소아천식에 표준치료+청기화담탕·마행석감탕 병용이 FEV1·PEF 개선.
+[^5]: Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with bronchial asthma after vitamin D supplementation. 임상시험, 60명. DOI: [10.5937/jomb0-56915](https://doi.org/10.5937/jomb0-56915) · PMID: 40951891. 근거수준: 중간. 소아 마사지+비타민 D 병행이 IL-4·IL-5 감소, 면역 개선.
+[^6]: Clinical study on effect of jiexiao oral liquid in preventing and curing virus induced asthma in children. 임상시험, 160명. PMID: [14714359](https://pubmed.ncbi.nlm.nih.gov/14714359/). 근거수준: 중간. 해소경구액이 바이러스 유발 천식 예방·치료, FEV1·PEF 개선.
+[^7]: Exploring the impact of auricular acupressure and nutritional assistance, enhanced with ferulic acid supplementation, on pediatric cough variant asthma: An observational study. 관찰연구, 236명. DOI: [10.1097/MD.0000000000046106](https://doi.org/10.1097/MD.0000000000046106) · PMID: 41398784. 근거수준: 중간. 이침 압박+페룰산이 소아 CVA 기침·폐기능·삶의 질 개선.
+[^8]: Effects of Jianpi Yiqi Huoxue Decoction on bronchial asthma with recurrent respiratory infection in children. 임상시험, 58명. PMID: [16689010](https://pubmed.ncbi.nlm.nih.gov/16689010/). 근거수준: 중간. 건비이기활혈탕이 감염 빈도·증상 기간 감소, IgA·IgG 개선.
+[^9]: Efficacy and safety of Tuina therapy for children with combined allergic rhinitis and asthma syndrome in remission: a randomized controlled trial protocol. 임상시험, 92명. DOI: [10.3389/fmed.2026.1854540](https://doi.org/10.3389/fmed.2026.1854540) · PMID: 42415810. 근거수준: 중간. 추나가 관해기 소아 CARAS의 안전한 외치법으로 연구.
+[^10]: Research on the Mechanism and Application of Acupuncture Therapy for Asthma: A Review. 문헌고찰. DOI: [10.2147/JAA.S462262](https://doi.org/10.2147/JAA.S462262) · PMID: 38828396. 근거수준: 중간. 침이 신경-내분비-면역 경로로 기도 과민성 개선.
+[^11]: The role of cupping therapy as a complementary therapy on the pulmonary functions and quality of life of asthmatic children. 임상시험, 60명. DOI: [10.7490/f1000research.1113748.1](https://doi.org/10.7490/f1000research.1113748.1). 근거수준: 중간. 부항이 경증 지속성 천식 소아 폐기능·삶의 질 개선.
+[^12]: A Case of Jaeumganghwa-tang and Gyeongok-go Korean Medicine Treatment for Asthma Patients. 증례, 1명. DOI: [10.22246/jikm.2022.43.3.493](https://doi.org/10.22246/jikm.2022.43.3.493). 근거수준: 증례. 자음강화탕+경옥고가 천식 mMRC·SGRQ 개선.
+[^13]: Acupuncture for Persistent Asthma: Protocol for a Randomized, Sham-Controlled Trial with Neuroimaging. 임상시험, 72명. DOI: [10.2147/JAA.S615234](https://doi.org/10.2147/JAA.S615234) · PMID: 42266405. 근거수준: 중간. 지속성 천식 침치료 ACT·삶의 질·폐기능 개선 프로토콜.
+[^14]: Therapeutic effect of Xincang Decoction on chronic airway inflammation in children with bronchial asthma in remission stage. 임상시험, 60명. DOI: [10.3736/jcim20050108](https://doi.org/10.3736/jcim20050108) · PMID: 15644155. 근거수준: 중간. 신창탕이 관해기 소아천식 EOS·IL-5 감소, FEV1 개선.
+[^15]: Effect of yiqi bushen huoxue herbs in treating children asthma and on levels of nitric oxide, endothelin-1 and serum endothelial cells. 임상시험, 200명. PMID: [12575553](https://pubmed.ncbi.nlm.nih.gov/12575553/). 근거수준: 중간. 익기보신활혈 한약이 ET-1·NO·CEC 감소, 발작 빈도 감소.
+[^16]: Immunomodulatory effects of acupuncture in the treatment of allergic asthma: a randomized controlled study. 임상시험, 38명. DOI: [10.1089/acm.2000.6.519](https://doi.org/10.1089/acm.2000.6.519) · PMID: 11152056. 근거수준: 중간. 침이 CD3+·CD4+ 증가, IL-6·IL-10 감소 면역 조절.
+[^17]: Acupuncture for chronic asthma. 체계적 고찰, 324명. DOI: [10.1002/14651858.CD000008.pub2](https://doi.org/10.1002/14651858.CD000008.pub2) · PMID: 14973944. 근거수준: 높음. 침이 가짜침 대비 천식 증상·폐기능 개선에 유의미한 효과 부족.
+[^18]: Explore the application effect of acupoint massage combined with ear point pressing beans in the remission stage of asthma. 임상시험, 120명. DOI: [10.1016/j.explore.2025.103116](https://doi.org/10.1016/j.explore.2025.103116) · PMID: 39923451. 근거수준: 중간. 이혈 압박 추가가 조절률 95% vs 81.67%로 향상.
+[^19]: Effectiveness of Manual Therapy for Asthma in Children and Adolescents: A Systematic Review. 체계적 고찰. DOI: [10.30581/jcmm.2022.17.1.11](https://doi.org/10.30581/jcmm.2022.17.1.11). 근거수준: 중간. 수기 치료가 소아·청소년 천식의 보조적 비약물적 옵션.
+[^20]: Effectiveness of Pharmacopuncture for Asthma: A Systematic Review and Meta-Analysis. 메타분석, 341명. DOI: [10.1155/2011/678176](https://doi.org/10.1155/2011/678176). 근거수준: 높음. 약침이 천식 증상·PEF 개선에 유의하게 효과적일 가능성.
+[^21]: Evaluation of catgut implantation at acupoints for asthma: A systematic review and meta-analysis. 메타분석. DOI: [10.1142/s2575900018400025](https://doi.org/10.1142/s2575900018400025). 근거수준: 높음. 경혈 매선이 천식 유효성·FEV1 개선, 증상 완화.
+[^22]: Randomized trial of acupoints herbal patching in Sanfu Days for asthma in clinical remission stage. 임상시험, 323명. DOI: [10.1186/s40169-016-0084-7](https://doi.org/10.1186/s40169-016-0084-7). 근거수준: 중간. 삼복첩이 증상 악화 시 자가 회복 비율 상승, 민감 증상 감소.
+[^23]: Effect of fluticasone inhalation combined with xiaoqinglong decoction on pulmonary function and serum interleukin-16 level in asthma patients. 임상시험, 64명. PMID: [12872394](https://pubmed.ncbi.nlm.nih.gov/12872394/). 근거수준: 중간. 소청룡탕+플루티카손 병용이 FEV1 개선, IL-16 감소.
