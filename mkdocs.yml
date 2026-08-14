@@ -3,24 +3,7 @@ site_description: Evidence-Based Korean Medicine Wiki
 site_url: https://wiki.symbolicinfo.com
 docs_dir: wiki
 theme:
-  name: material
-  language: ko
-  features:
-    - navigation.instant
-    - navigation.tracking
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - toc.integrate
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: teal
-      accent: teal
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: teal
-      accent: teal
+  name: windmill
 hooks:
   - hooks/canonical.py
 markdown_extensions:
