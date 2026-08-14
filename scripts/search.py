@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""근거기반 한의학 위키 — 논문 검색 API 자동화 스크립트.
+"""근거 기반 한의학 위키 — 논문 검색 API 자동화 스크립트.
 
 med.symbolicinfo.com /search API로 논문을 수집해 마크다운 근거 표를 생성한다.
 사용법:

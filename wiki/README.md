@@ -1,8 +1,8 @@
-# 근거기반 한의학 위키
+# 근거 기반 한의학 위키
 
 **Evidence-Based Korean Medicine Wiki**
 
-PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거기반 한의학 위키입니다.
+PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 한의학 위키입니다.
 
 ## 개요
 
