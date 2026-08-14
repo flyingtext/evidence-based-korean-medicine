@@ -1,0 +1,210 @@
+# 불임 (不姙, Infertility)
+
+> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석·임상시험 중심 · 작성일: 2026-08-15
+> KCD-8: N97 (여성 불임), N46 (남성 불임)
+
+## 개요
+
+불임(不姙, infertility)은 피임 없이 정상적인 성생활을 하면서 1년 이상 임신이 되지 않는 상태를 말하며, 여성 요인·남성 요인·양측 요인·원인불명으로 구분된다. KCD-8 기준 여성 불임은 **N97**, 남성 불임은 **N46**에 해당한다. 한의학에서는 불임을 신허(腎虛)·기혈부족(氣血不足)·간울(肝鬱)·담습(痰濕)·어혈(瘀血)·한랭(寒冷) 등으로 변증(辨證)하며, 침(鍼)·뜸(灸)·전침(電鍼)·이침(耳鍼)·약침(藥鍼)·한약(韓藥) 등 다양한 중재가 적용된다.[^1][^2] 본 문서는 근거기반 한의학 관점에서 불임에 대한 한의 중재의 임상 근거를 정리한다. 불임은 가임기 부부의 삶의 질과 가족 계획에 큰 영향을 미치는 대표 부인과·비뇨기과 질환으로, 한의학적 비약물·비침습 중재가 보조생식술(ART)의 보조 또는 대안 수단으로 주목받고 있다.[^3][^4]
+
+## 하위 표제어(분류)
+
+불임은 원인·병태생리에 따라 여러 하위 유형으로 세분된다. 각 유형은 진단·치료 접근이 다르므로 임상에서 구분하여 접근한다.
+
+- **여성 불임 (female infertility, KCD-8: N97)**: 배란 장애·난관 폐쇄·자궁내막증·난소 예비능 저하·조기 난소 부전 등 여성 요인에 의한 유형. 무배란성 불임·난관 폐쇄성 불임·자궁내막증 관련 불임·고령 불임 등으로 세분된다.[^5][^6][^7]
+- **남성 불임 (male infertility, KCD-8: N46)**: 정자 생성·운동성·형태 이상, 항정자항체, 정계정맥류, 호르몬 불균형 등 남성 요인에 의한 유형. 희소정자증·정자운동성저하증·정자형태이상증 등으로 세분된다.[^8][^9][^10]
+- **원인불명 불임 (unexplained infertility)**: 정밀 검사에서 특별한 원인을 찾지 못하는 유형. 침·한약·이침 등 통합 치료가 연구되고 있다.[^11][^12]
+- **다낭성 난소 증후군(PCOS) 관련 불임**: 무배란성 불임의 대표 원인으로, 침·전침·한약·뜸 등 다양한 중재의 근거가 풍부하다.[^13][^14][^15]
+- **보조생식술(ART) 병행 불임**: 체외수정(IVF)·배아 이식(ET)·자궁 내 수정(IUI) 과정에서 침·한약·이침을 병행하는 유형.[^3][^16][^17]
+
+> 여성 불임·남성 불임·PCOS 관련 불임은 임상 근거가 가장 풍부하여 본 문서의 주된 서술 대상이며, 각 하위 유형은 별도 문서로 분리하는 것을 고려할 수 있다.
+
+## 진단 및 감별 진단
+
+불임의 진단은 병력 청취→이학적 검사→필요 시 영상·실험실 검사를 순차적으로 시행하며, 여성 요인·남성 요인·원인불명을 구분하는 것이 핵심이다.
+
+### 병력 청취
+
+- 월경 주기·배란 여부, 성생활 빈도·시기, 과거 임신·출산·유산력, 산부인과·비뇨기과 수술력, 약물 복용력, 생활 습관(흡연·음주·체중), 가족력 등을 확인한다.[^1][^2]
+- 남성에서는 정액 검사 결과, 과거 정계정맥류 수술력, 호르몬 관련 질환, 성기능 상태를 확인한다.[^8][^9]
+- 적신호(red flag) 증상——월경 주기와 무관한 통증·비정상 출혈·골반 종괴·발열·체중 감소 등——이 있으면 기질적 원인을 의심하여 정밀 검사를 시행한다. 근거 미확인(교과서적 임상 진단 이론).
+
+### 이학적 검사
+
+- 여성: 골반 검사(내진)로 자궁·난소·질의 기질적 병변을 확인한다. 근거 미확인(교과서적 임상 진단 이론).
+- 남성: 음낭·고환·부고환·정계정맥류 여부를 촉진으로 평가한다. 근거 미확인(교과서적 임상 진단 이론).
+
+### 영상·실험실 검사
+
+- 여성: 골반 초음파로 난포 발달·자궁내막 두께·난소 낭종·자궁내막증을 평가하고, 난소 예비능(AMH·FSH) 검사를 시행한다.[^7][^18]
+- 남성: 정액 검사(정자 수·운동성·형태·DNA 단편화 지수), 성호르몬(FSH·LH·테스토스테론) 검사를 시행한다.[^8][^9][^19]
+- 필요 시 난관 조영술·복강경 검사로 난관 폐쇄·자궁내막증을 확인한다.[^6][^20]
+
+### 진단 기준 및 감별
+
+- KCD-8 기준 여성 불임은 **N97**, 남성 불임은 **N46**으로 분류한다.[^1]
+- 감별 대상: 배란 장애(PCOS·조기 난소 부전·고프로락틴혈증), 난관 폐쇄, 자궁내막증, 정계정맥류, 항정자항체, 호르몬 불균형 등을 구분한다.[^5][^6][^8][^21]
+- 한의학적 변증(신허·기혈부족·간울·담습·어혈 등)과 현대의학적 지표를 통합한 고위험 불임 예측 모델이 개발되고 있다.[^22]
+
+## 근거 요약
+
+- 침 관련 요법은 무배란성 불임에서 클로미펜 단독보다 임신율을 유의하게 높이고 임신 손실률을 낮추며, 배란 장애·난소 예비능 저하 환자의 IVF/ICSI 성공률을 높이는 보조 요법으로 유효하다.[^5][^23][^24]
+- 침과 한약의 병용은 난관 폐쇄성 불임에서 수관통법 단독보다 임신율·난관 재개통률을 높이고 자궁 외 임신 위험을 낮춘다.[^6]
+- 보조생식술(ART) 과정에서 침·한약 병행은 임상적 임신율과 생존아 출생률을 유의하게 높이는 안전하고 효과적인 보완 요법이다.[^3][^16]
+- PCOS 관련 불임에서는 침·한약·뜸·화침의 복합 치료가 단독 요법보다 임신율·배란율 개선에 더 효과적이며, 특히 뜸+한약·화침+한약·침+한약 조합이 권장된다.[^13][^14]
+- 한약은 불임 여성의 임신율을 유의하게 높이며, 신허·혈어·담음 변증 환자에게 토실자(菟絲子)·당귀(當歸)·향부자(香附子) 등이 유용하다.[^25]
+- 남성 불임에서는 보중익기탕(補中益氣湯)·생경종자탕(生精種子湯)·적백이정탕(赤白二精湯)·영귀양원고(靈龜養元膏) 등이 정자 질 개선과 임신율 향상에 유효하다.[^8][^9][^10][^19]
+- 자궁내막증 관련 불임에서는 보신활혈(補腎活血)·활혈거어(活血祛瘀) 한약과 복강경 수술의 병행이 산화 스트레스를 줄이고 임신율을 높인다.[^20][^26][^27]
+
+## 근거 표
+
+| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
+|---|---|---|---|---|---|
+| Acupuncture and clomiphene citrate for anovulatory infertility: a systematic review and meta-analysis | 메타분석 | 1441 | 높음 | 10.1136/acupmed-2017-011629 | 침 단독이 클로미펜 단독보다 임신율 유의 상승·임신 손실률 감소 |
+| Integrating Acupuncture and Herbal Medicine into Assisted Reproductive Technology: SR and MA of East Asian Traditional Medicine | 메타분석 | 10776 | 높음 | 10.3390/healthcare13111326 | ART 과정 침+한약 병행이 임신율·생존아 출생률 유의 상승 |
+| Combined traditional Chinese medicine therapy for infertility with PCOS: network meta-analysis | 메타분석 | - | 높음 | 10.1097/MD.0000000000038912 | 뜸+한약·화침+한약·침+한약 복합이 임신율·배란율 개선에 최적 |
+| Herbal therapeutics for female infertility: a systematic review and meta-analysis | 메타분석 | 2662 | 높음 | 10.1016/j.jep.2023.117258 | 한약이 불임 여성 임신율 유의 상승, 부작용 경미 |
+| The efficacy and safety of Cangfu Daotan decoction in PCOS-associated infertility: SR and MA | 메타분석 | 2181 | 높음 | 10.1186/s13048-026-02008-x | 창부다탄탕 병용이 배란율·임신율·자궁내막 두께 개선, OHSS·LUFS 위험 감소 |
+| Effects of different acupuncture methods on PCOS: SR and network meta-analysis | 메타분석 | 5937 | 높음 | 10.1186/s12906-026-05295-5 | 침이 약물 대비 테스토스테론 감소·임신율 상승, 매선·전침이 증상별 최적 |
+| Clinical evidence of acupuncture for infertile women with diminished ovarian reserve undergoing IVF/ICSI: SR and MA | 메타분석 | 885 | 높음 | 10.3389/fendo.2026.1840157 | DOR 환자 IVF/ICSI에 침 병행이 임신율·생존아 출생률·착상률 유의 상승 |
+| Acupuncture to ensure high-quality embryos in women undergoing IVF: SR and MA | 메타분석 | - | 높음 | 10.1016/j.joim.2026.03.002 | 침이 고품질 배아율·난자율·수정률 유의 향상, 고반응군에서 난자 수 증가 |
+| Impact of combining laparoscopy with TCM on oxidative stress in endometriosis-related infertility: SR and MA | 메타분석 | 1084 | 높음 | 10.1097/MD.0000000000041692 | 복강경+활혈거어 한의 병행이 산화 스트레스 유의 감소·항산화 능력 향상 |
+| Acupuncture Combined with Chinese Herbal Medicine for Tubal Obstructive Infertility: SR and MA | 메타분석 | - | 높음 | 10.21203/rs.3.rs-2059117/v1 | 침+한약 병용이 수관통법 단독보다 임신율·난관 재개통률 상승 |
+| Bushen Huoxue herbal medicine for hyperprolactinemia in women: a Meta-analysis | 메타분석 | 816 | 높음 | 10.19540/j.cnki.cjcmm.20190125.001 | 보신활혈 한약이 프로락틴 감소·불임 치료에 양약과 유사, 부작용 감소 |
+| Efficacy of acupuncture treatment for ovulatory disorder infertility: SR and MA | 메타분석 | - | 중간 | 10.37766/inplasy2023.4.0088 | 침·뜸이 난포 발달·배란 유도에 긍정, 과자극 부작용 적음 |
+| Acupuncture-Related Therapies for Ovulatory Disorders: Bayesian Network MA Protocol | 체계적 고찰 | - | 중간 | 10.21203/rs.3.rs-1172347/v1 | 배란 장애 침 치료 최적법 선정을 위한 프로토콜 |
+| A review of controlled trials of acupuncture for women's reproductive health care | 체계적 고찰 | - | 중간 | 10.1783/147118903101197863 | 침·지압이 생리통·불임에 유망, 연구 수 적어 추가 근거 필요 |
+| Systematic Review: Conservative Acupuncture Treatment for Infertility Causes in Asia | 체계적 고찰 | - | 중간 | 10.26630/jk.v16i1.4745 | 침이 남녀 불임 원인 개선·호르몬 조절에 유효한 보조 수단 |
+| A Review of Acupuncture Treatment for Infertility | 체계적 고찰 | - | 중간 | 10.13045/jar.2021.00213 | 침이 대조군·서양의학 단독보다 유의 효과, 관원·기해·삼음교·신수 혈위 유용 |
+| Current Status and Trends of Clinical Research on TCM in Treating PCOS Infertility | 체계적 고찰 | - | 중간 | 10.53469/jcmp.2025.07(10).34 | 한의가 PCOS 내분비·배란 조절로 임신율 상승, 표준화 필요 |
+| Ginseng for Improving Semen Quality Parameters: A Systematic Review | 체계적 고찰 | - | 중간 | 10.5534/wjmh.190125 | 인삼 정액 질 개선 근거 제한적, 고품질 RCT 필요 |
+| Discrepancies between clinical evidence and doctor-patient priorities in acupuncture-assisted IVF-ET | 체계적 고찰 | 211 | 중간 | 10.13702/j.1000-0607.20250341 | IVF-ET 침구 근거와 임상 요구 격차, 호침 근거 가장 강력 |
+| Use of electroacupuncture and transcutaneous electrical acupoint stimulation in reproductive medicine: group consensus | 가이드라인 | - | 중간 | 10.1631/jzus.B1600437 | 전침·TEAS의 생식기 질환 적용 원칙·파라미터 제시 |
+| The hormonal response to HCG stimulation in male infertility before and after hochuekkito | 임상시험 | 63 | 중간 | 10.1142/S0192415X92000163 | 보중익기탕이 정자 밀도·운동성 개선, Leydig 세포 기능 저하 환자에 유효 |
+| Effect of Bu-zhong-yi-qi-tang on seminal plasma cytokine levels in idiopathic male infertility | 임상시험 | 22 | 중간 | 10.1080/01485010490250515 | 보중익기탕이 정장액 sFas 상승·정자 농도와 상관 |
+| Therapeutic effect of Chinese herbal medicines for nourishing blood and reinforcing shen in anovulatory sterility | 임상시험 | 68 | 중간 | PMID 15143712 | 여진윤유탕이 클로미펜과 유사한 임신·배란 촉진, 혈류 개선 우수 |
+| Effect of yangjing zhongyu decoction on MMP-9 expression in endometrium in cryptogenic infertility | 임상시험 | 22 | 중간 | PMID 15143711 | 양경중옥탕이 프로게스테론 상승·자궁내막 MMP-9 촉진으로 착상 용이 |
+| Clinical observation on effect of jingling oral liquid in infertile patients with varicocele after varicocelectomy | 임상시험 | 60 | 중간 | PMID 15074089 | 경령구강액이 hCG군보다 임신율·정액 질 개선, SOD·아연 상승 |
+| Clinical observation on effect of zhuanyindan and hormone in male infertility with positive antisperm antibody | 임상시험 | 82 | 중간 | PMID 15074090 | 전이단+호르몬 병용이 NO 감소·정자 운동성 개선, 유효율 88.2% |
+| Clinical observation on treatment of Stein-Leventhal syndrome sterility by clomiphene and Chinese nourishing shen drugs | 임상시험 | 62 | 중간 | PMID 14976888 | 클로미펜+보신양혈 병용이 배란율·임신율 향상, LUFS 부작용 감소 |
+| Effects of acupuncture and moxa treatment in patients with semen abnormalities | 임상시험 | 19 | 중간 | PMID 14695986 | 침+뜸 10주가 정상 형태 정자 비율 유의 증가 |
+| Does Acupuncture Have Any Benefit in the IVF Treatment of Couples with Unexplained Infertility | 임상시험 | 60 | 중간 | 10.21613/gorm.2019.872 | 배아 이식 전후 피내침이 임신율 수치상 상승(43.3% vs 36.7%), 유의성 미확보 |
+| The role of acupuncture in women with advanced reproductive age undergoing IVF-ET | 임상시험 | 60 | 중간 | 10.1097/md.0000000000034768 | 고령 신허증 여성 IVF+침 병행이 수정률·임신율·배아 질 개선 |
+| A Randomized Sham-controlled Trial of Manual Acupuncture for Infertile Women with PCOS | 임상시험 | 86 | 중간 | 10.21203/rs.3.rs-754196/v1 | PCOS 불임에 한약+수기침 병행이 가짜침보다 임신율·배란율 유의 상승 |
+| Influence of Acupuncture on IVF Outcomes When Embryo Implantation Has Failed | 임상시험 | 84 | 중간 | 10.1136/acupmed-2012-010269 | 반복 착상 실패 환자에 침+뜸 병행이 임신율 유의 증가 |
+| Acupuncture And Chinese Herb Medicine Yangjing Zhongyu Decoction for Endometriosis-Associated Infertility: Study Protocol | 임상시험 | 224 | 중간 | 10.21203/rs.3.rs-402051/v1 | 자궁내막증 불임에 침+양경중우탕 병행이 GnRH-a 대비 임신율 평가 프로토콜 |
+| Clinical observation on effect of zhenqi zhuanyin decoction combined with IUI in spleen-kidney deficiency sterility | 임상시험 | 103 | 중간 | PMID 12585141 | 진기전음탕+IUI 병용이 항정자항체 음성 전환·임신율 유의 상승 |
+| Clinical study on treatment of oviduct obstruction by integrative TCM and Western medicine | 임상시험 | 120 | 중간 | PMID 12577433 | 통합 치료가 난관 개통률·임신율 상승, CRP·IL-1β 감소 |
+| Clinical and experimental study on the ovulation promoting effect of yangjing decoction | 실험연구 | 36 | 중간 | PMID 12577388 | 양경탕이 배란율·성선자극호르몬 상승, 시상하부-뇌하수체-난소 축 조절 |
+| The improvement of luteal insufficiency in fecund women by tokishakuyakusan | 임상시험 | - | 중간 | 10.1142/S0192415X02000247 | 당귀작약산이 황체기 결핍 개선, 정상 호르몬 여성엔 부작용 없음 |
+| The therapeutic effects of Sheng Jing Zhong Zi Tang in treating male infertility | 관찰연구 | 87 | 중간 | PMID 11498912 | 생경종자탕이 정액 질 개선·임신율 상승, FSH·LH·테스토스테론 조절 |
+| Study on relationship between ovulation inducing effect of drug-acupuncture and endometrial receptors | 관찰연구 | 29 | 중간 | PMID 11475747 | 보신약+침 병용이 PR 높은 환자에서 배란율·임신율 유의 상승 |
+| Clinical observation on effect of yangjing decoction in promoting follicular growth | 임상시험 | 26 | 중간 | PMID 11475745 | 양정탕이 난포 성숙·배란 유도, 난소·자궁 혈류 개선 |
+| Clinical observations on treatment of endometriosis by tonifying kidney and removing blood stasis | 임상시험 | 103 | 중간 | PMID 11367661 | 보신활혈 내이소방이 자궁내막증 불임·내분비·면역 조절에 다나졸보다 우수 |
+| Endometriosis treated by the method of resolving blood stasis in the lower-jiao | 임상시험 | 48 | 중간 | PMID 10437253 | 활혈거어 내이 2호가 자궁내막증 통증·불임 개선, PGF2α 감소 |
+| Analysis on the therapeutic effect of combined use of acupuncture and medication in 297 cases of male sterility | 관찰연구 | 279 | 중간 | PMID 10437193 | 침+녹용 정혈+한약 병행이 75% 이상 완치·현저 개선 |
+| A randomized positive parallel-controlled clinical study of Dibai Yijing Formula for male infertility | 임상시험 | 72 | 중간 | PMID 40783872 | 적백이정탕이 클로미펜보다 정자 운동성·DFI·증상 개선 우수 |
+| Linggui Yangyuan Paste for Male Infertility with Shen Deficiency and Blood Stasis Syndrome | 임상시험 | 162 | 중간 | 10.1007/s11655-026-4234-5 | 영귀양원고가 오자연종경구액보다 TPMSC·임신율 유의 개선 |
+| Wuziyuye Decoction for type-II diabetes with qi-yin deficiency complicated by asthenospermia | 임상시험 | 100 | 중간 | PMID 40783924 | 오자유여탕이 L-카르니틴보다 정자 운동성·농도 개선 우수 |
+| Acupoint application improves IVF outcomes and rescues granulosa cell steroid metabolic dysregulation | 임상시험 | 81 | 중간 | 10.3389/fendo.2025.1665669 | 혈위 적용이 난소 자궁내막증 스테로이드 대사 정상화·IVF 성공률 상승 |
+| The Effect of Auricular Acupressure on Women Psychological Distress during COH for IVF | 임상시험 | 368 | 중간 | 10.1620/tjem.2024.J076 | 이침 압박이 IVF 과자극 단계 심리적 고통 유의 감소 |
+| Effects of the Zishen Yutai Pill on live births among infertile women with FET cycle | 임상시험 | 880 | 중간 | 10.1016/j.phymed.2024.156072 | 자신유태환이 유산력·고령 하위군에서 생아 출산율 유의 향상 |
+| Chinese Herbal Medicine Improves Pregnancy Outcome after Surgery for Endometriosis-Associated Infertility | 임상시험 | 202 | 중간 | 10.1007/s11655-026-4240-7 | 수술 후 6개월 중약 투여가 임신율·생존아 출산율 상승, 재발 감소 |
+| Acupuncture Enhances Chances of Pregnancy in Unexplained Infertile Patients Undergoing Blastocyst Transfer | 관찰연구 | 273 | 중간 | 10.1007/s11655-018-2918-6 | 이식 당일 침 병행이 임신율·생존아 출생률 유의 상승 |
+| High acupuncture expectancy is associated with shorter time to ovulation in PCOS | 관찰연구 | 827 | 중간 | 10.1177/09645284251342261 | 침 기대감이 배란 시점 단축·배란 가능성 상승과 관련 |
+| Pseudo-targeted metabolomic analysis of Cangfu Daotan Decoction to improve IVF outcomes in PCOS | 관찰연구 | 95 | 중간 | 10.21203/rs.3.rs-1907940/v1 | 창부다탄탕이 PCOS IVF 난자·배아·임신율 개선, 대사 교정 |
+| The Effectiveness of Live Birth Rate of TCM Intervention for Infertile Women Undergoing Second IVF | 관찰연구 | 45 | 중간 | 10.21873/invivo.13963 | 2차 IVF에 TCM 병행이 임신율·생존아 출생률 향상, 연령 영향 |
+| Sun's Bushen Huayu Formula Restores Fertility in Endometriosis by Modulating Th1/Th2 | 실험연구 | 80 | 중간 | 10.3791/69619 | 보신활혈방이 Th1/Th2 균형 조절로 자궁내막증 불임 개선 |
+| A Survey on Korean Medicine Doctors' Recognition for Developing CPG of Female Infertility | 관찰연구 | 665 | 중간 | 10.13048/jkm.22035 | 임상에서 신허 변증 최다, 한약+침구 병용 최다 사용 |
+| Utilization of traditional herbal medicine formulas for unexplained female infertility in Korea | 관찰연구 | 453 | 중간 | 10.1186/s12906-023-04192-5 | 배란착상방·조경종옥탕이 원인불명 불임 임신 성공과 관련 |
+| Gut microbiota and metabolic dysregulation in PCOS: effects of acupuncture as adjunct to IVF | 임상시험 | 90 | 중간 | 10.3389/fmicb.2025.1730714 | IVF+침 병행이 장내 미생물 불균형 개선·난자 질 향상 |
+| Acupuncture in Polycystic Ovary Syndrome: Narrative Review of Neuroendocrine-Immune Evidence | 문헌고찰 | - | 중간 | 10.2147/IJWH.S614225 | 침이 PCOS 생리·배란·인슐린 저항성 개선 가능, 생식 결과 근거 제한적 |
+| Endocrinological actions of Unkei-to and its clinical usefulness in anovulatory/infertile women | 문헌고찰 | - | 중간 | 10.1046/j.1445-5781.2003.00019.x | 온경탕이 시상하부-뇌하수체-난소 축 자극으로 배란 유도, 젊은 여성에 안전 |
+| Traditional Chinese Medicine Patterns and Recommended Acupuncture Points in Infertile Women | 관찰연구 | 48 | 중간 | 10.1136/acupmed-2011-010089 | 교과서적 8변증이 실제 임상과 불일치, 개별화 접근 필요 |
+| Pharmacological Efficacy of Ginseng on Gender-Specific Benign Reproductive Diseases | 문헌고찰 | - | 중간 | 10.1186/s44424-025-00004-4 | 인삼이 생식 질환·불임·가임력 회복에 긍정 가능 |
+| CUPPING AND FEMALE REPRODUCTIVE PROBLEMS: A NARRATIVE REVIEW | 문헌고찰 | - | 중간 | 10.55116/ijicm.v5i2.89 | 부항이 생리통·불임·PCOS 증상 완화에 긍정 |
+| Effect of Plant Extracts (Fennel and Chamomile) on Menstrual Cycles and Endometrial Thickness | 임상시험 | - | 중간 | 10.32592/cmja.14.2.22 | 회향+카모마일이 생리 주기 규칙화·자궁내막 두께 증가 |
+| A Survey of Utilization and Satisfaction of Korean Subfertility Treatment among Korean Women | 관찰연구 | 550 | 중간 | 10.20944/preprints202407.0996.v1 | 난임 여성이 한의+현대의학 병행 통합 의료 선호 |
+| A study on the current state of Korean medicine treatment in infertile women: observational protocol | 관찰연구 | - | 중간 | 10.13048/jkm.22018 | 한방 불임 치료 레지스트리 구축·CPG 개발 근거 마련 프로토콜 |
+| Reproductive Medicine: Research Projects in Acupuncture | 임상시험 | 34 | 중간 | 10.1136/aim.16.2.80 | 전침이 자궁동맥 혈류 저항 감소, PCOS 배란 유도 가능 |
+| A randomized sham-controlled trial of manual acupuncture for infertile women with PCOS | 임상시험 | 86 | 중간 | 10.1016/j.imr.2021.100830 | PCOS 불임에 수기침+한약 병용이 가짜침보다 임신율·배란율 유의 상승 |
+| Successful Treatment of Oligoasthenozoospermia Using Traditional Korean Medicine | 증례 | 2 | 낮음 | 10.1016/j.explore.2015.12.006 | 희소정자증에 침+한약 병행으로 자연 임신·건강한 출산 |
+| The Therapeutic Effects of TCM for Poor Semen Quality in Infertile Males | 관찰연구 | 63 | 중간 | 10.3390/jcm7090239 | 한방 치료가 정액 질 저하 남성 정자 상태 개선, 92.5% 개선 |
+| Development of a predictive model for high-risk infertility based on TCM constitution and syndrome | 관찰연구 | 409 | 중간 | 10.3389/fmed.2026.1738707 | 현대의학 지표가 불임 위험 예측 핵심, 한의 변수는 보조 가치 |
+| Sho-Based Kampo Medicine Combined With ART Is Effective for Refractory Infertility | 증례 | 1 | 낮음 | 10.3389/fnut.2021.761199 | ART 실패 난치성 불임에 證 맞춤 한방 병행으로 임신·출산 |
+| Shared mechanisms of obesity and male infertility and prediction of natural therapeutics | 실험연구 | - | 중간 | 10.19540/j.cnki.cjcmm.20251114.901 | 비만·남성 불임 공통 기전 규명, 거담습·건비·보신 약재 유효 가능 |
+| Pregnancy in premature ovarian failure after therapy using Chinese herbal medicine | 증례 | 1 | 낮음 | PMID 12956293 | POF에 좌귀환 가감방으로 클로미펜 실패 후 배란·임신 유도 |
+| Professor SHI Yin's experience in treatment of obese PCOS based on spleen and kidney | 증례 | - | 낮음 | 10.13703/j.0255-2930.20200225-0004 | 비만 PCOS에 비신 보익·담음어혈 제거 침구 전략 유효 |
+| Treatment of postpill amenorrhea with abdominal obesity by TKM focused on pharmacopuncture and moxibustion | 증례 | 1 | 낮음 | 10.1097/md.0000000000016996 | 약침+관원혈 뜸이 무월경·복부 비만 개선 |
+| Treating Premature Ovarian Failure with Acupuncture and Chinese Herbs | 증례 | 1 | 낮음 | 10.23880/oajg-16000293 | POF에 간신 보익·기혈 조절 한약+침 병행으로 임신 성공 |
+| Our Infertility Cases With Pregnant Pregnancy After The Wet-Cupping | 증례 | - | 낮음 | 10.31579/2578-8965/080 | 습식 부항이 중금속 배출·호르몬 균형 조절로 임신 가능성 상승 |
+| Metabonomics Study on the Infertility Treated With Zishen Yutai Pills Combined With IVF-ET | 실험연구 | - | 중간 | 10.3389/fphar.2021.686133 | 자신유태환이 스핑고지질·아미노산 대사 조절로 IVF-ET 보조 |
+| Acupuncture for Premature Ovarian Insufficiency: Randomized, Non-Inferiority Protocol | 임상시험 | 858 | 중간 | 10.2147/IJWH.S586584 | POI에 침이 HRT 대비 비열등 입증 프로토콜 |
+| Scientific Study Reveals that Electroacupuncture Technique Can Treat PCOS Symptoms | 임상시험 | 24 | 중간 | 10.4103/cmac.cmac_43_20 | 저주파 전침이 PCOS 무배란 배란 유도에 효과 |
+| Effectiveness of Electroacupuncture for Thin Endometrium in Infertile Women: Study Protocol | 임상시험 | 142 | 중간 | 10.21203/rs.3.rs-35080/v1 | 얇은 자궁내막에 전침 효과 검증 프로토콜 |
+| Successful pregnancy in a woman with bilateral fallopian tube obstruction and DOR treated with electroacupuncture | 증례 | 1 | 낮음 | 10.1097/md.0000000000017160 | 난관 폐쇄·DOR 중증 불임에 전침이 임신 성공 기여 |
+| Professor AI Bing-wei's treatment experience of acupuncture for anovulatory infertility | 증례 | - | 낮음 | 10.13703/j.0255-2930.2019.03.017 | 간·비·신 변증과 월경 주기 결합 침구로 배란 촉진 |
+| Integrative medicine and perinatal outcomes among women giving birth in South Korea | 관찰연구 | 171136 | 중간 | 10.1016/j.imr.2025.101135 | 통합의학 이용이 주산기 결과에 부정 영향 없음 |
+| Use of Complementary and Alternative Medicine in Infertility | 관찰연구 | 153 | 중간 | PMID 39715570 | 불임 여성 약 30%가 ART와 CAM 병행, 이차성·장기 불임에서 높음 |
+
+## 경혈/처방 연관
+
+- 경혈: PCOS·무배란성 불임에서 관원(關元, CV4)·기해(氣海, CV6)·삼음교(三陰交, SP6)·신수(腎兪, BL23) 등이 빈용되며,[^28] 원인불명 불임의 배반포 이식 시 내관(內關)·지기(地機)·태충(太衝)·백회(百會)·귀래(歸來)혈과 이침 요법이 활용된다.[^11] 전침·이침 압박·약침·뜸 기법이 병용된다.[^29][^30][^31]
+- 약재/처방: 보중익기탕(補中益氣湯)·생경종자탕(生精種子湯)·적백이정탕(赤白二精湯)·영귀양원고(靈龜養元膏)·오자유여탕(五子油汝湯)·여진윤유탕·양경중옥탕(養精種玉湯)·양정탕(養精湯)·당귀작약산(當歸芍藥散)·온경탕(溫經湯)·창부다탄탕(蒼附導痰湯)·자신유태환(紫申育胎丸)·배란착상방·조경종옥탕 등이 대표적이다.[^8][^9][^10][^12][^13][^25][^32]
+
+## 참고문헌
+
+[^1]: Application of traditional Chinese medicine in the treatment of infertility. J Chin Med. 2003. 문헌고찰. DOI: [10.1080/1464770312331369433](https://doi.org/10.1080/1464770312331369433) · [PMID 14614194](https://pubmed.ncbi.nlm.nih.gov/14614194/). 근거수준: 중간.
+[^2]: Acupuncture and acupressure. Applications to women's reproductive health care. J Nurse Midwifery. 1999. 문헌고찰. DOI: [10.1016/s0091-2182(99)00054-3](https://doi.org/10.1016/s0091-2182(99)00054-3) · [PMID 10380442](https://pubmed.ncbi.nlm.nih.gov/10380442/). 근거수준: 중간.
+[^3]: Integrating Acupuncture and Herbal Medicine into Assisted Reproductive Technology: A Systematic Review and Meta-Analysis of East Asian Traditional Medicine. Healthcare. 2026. 메타분석, 10776명. DOI: [10.3390/healthcare13111326](https://doi.org/10.3390/healthcare13111326). 근거수준: 높음.
+[^4]: A Survey of Utilization and Satisfaction of Korean Subfertility Treatment among Korean Women. Preprints. 2024. 관찰연구, 550명. DOI: [10.20944/preprints202407.0996.v1](https://doi.org/10.20944/preprints202407.0996.v1). 근거수준: 중간.
+[^5]: Acupuncture and clomiphene citrate for anovulatory infertility: a systematic review and meta-analysis. Acupunct Med. 2018. 메타분석, 1441명. DOI: [10.1136/acupmed-2017-011629](https://doi.org/10.1136/acupmed-2017-011629). 근거수준: 높음.
+[^6]: Acupuncture Combined with Chinese Herbal Medicine for Tubal Obstructive Infertility: A Systematic Review and Meta-Analysis. 2022. 메타분석. DOI: [10.21203/rs.3.rs-2059117/v1](https://doi.org/10.21203/rs.3.rs-2059117/v1). 근거수준: 높음.
+[^7]: Clinical evidence of acupuncture for infertile women with diminished ovarian reserve undergoing IVF/ICSI: a systematic review and meta-analysis. Front Endocrinol. 2026. 메타분석, 885명. DOI: [10.3389/fendo.2026.1840157](https://doi.org/10.3389/fendo.2026.1840157) · [PMID 42358682](https://pubmed.ncbi.nlm.nih.gov/42358682/). 근거수준: 높음.
+[^8]: The hormonal response to HCG stimulation in patients with male infertility before and after treatment with hochuekkito. Am J Chin Med. 1992. 임상시험, 63명. DOI: [10.1142/S0192415X92000163](https://doi.org/10.1142/S0192415X92000163) · [PMID 1519556](https://pubmed.ncbi.nlm.nih.gov/1519556/). 근거수준: 중간.
+[^9]: The therapeutic effects of Sheng Jing Zhong Zi Tang in treating male infertility. 2001. 관찰연구, 87명. PMID: [11498912](https://pubmed.ncbi.nlm.nih.gov/11498912/). 근거수준: 중간.
+[^10]: A randomized positive parallel-controlled clinical study of Dibai Yijing Formula for the treatment of male infertility with essence deficiency in the kidney and damp-heat type. 2025. 임상시험, 72명. PMID: [40783872](https://pubmed.ncbi.nlm.nih.gov/40783872/). 근거수준: 중간.
+[^11]: Acupuncture Enhances Chances of Pregnancy in Unexplained Infertile Patients Who Undergo A Blastocyst Transfer in A Fresh-Cycle. Chin J Integr Med. 2019. 관찰연구, 273명. DOI: [10.1007/s11655-018-2918-6](https://doi.org/10.1007/s11655-018-2918-6) · [PMID 31236890](https://pubmed.ncbi.nlm.nih.gov/31236890/). 근거수준: 중간.
+[^12]: Utilization of traditional herbal medicine formulas for unexplained female infertility in Korea: a retrospective study. BMC Complement Med Ther. 2023. 관찰연구, 453명. DOI: [10.1186/s12906-023-04192-5](https://doi.org/10.1186/s12906-023-04192-5) · [PMID 37858191](https://pubmed.ncbi.nlm.nih.gov/37858191/). 근거수준: 중간.
+[^13]: Combined traditional Chinese medicine therapy for the treatment of infertility with polycystic ovary syndrome: A network meta-analysis of randomized controlled trials. Medicine. 2024. 메타분석. DOI: [10.1097/MD.0000000000038912](https://doi.org/10.1097/MD.0000000000038912) · [PMID 38996123](https://pubmed.ncbi.nlm.nih.gov/38996123/). 근거수준: 높음.
+[^14]: Effects of different acupuncture methods on polycystic ovarian syndrome: a systematic review and network meta-analysis. BMC Complement Med Ther. 2026. 메타분석, 5937명. DOI: [10.1186/s12906-026-05295-5](https://doi.org/10.1186/s12906-026-05295-5) · [PMID 41680702](https://pubmed.ncbi.nlm.nih.gov/41680702/). 근거수준: 높음.
+[^15]: A randomized sham-controlled trial of manual acupuncture for infertile women with polycystic ovary syndrome. Integr Med Res. 2021. 임상시험, 86명. DOI: [10.1016/j.imr.2021.100830](https://doi.org/10.1016/j.imr.2021.100830) · [PMID 35059289](https://pubmed.ncbi.nlm.nih.gov/35059289/). 근거수준: 중간.
+[^16]: Acupuncture to ensure high-quality embryos in women undergoing in vitro fertilization: A systematic review and meta-analysis. J Integr Med. 2026. 메타분석. DOI: [10.1016/j.joim.2026.03.002](https://doi.org/10.1016/j.joim.2026.03.002) · [PMID 41864833](https://pubmed.ncbi.nlm.nih.gov/41864833/). 근거수준: 높음.
+[^17]: Influence of Acupuncture on the Outcomes of in Vitro Fertilisation When Embryo Implantation Has Failed: A Prospective Randomised Controlled Clinical Trial. Acupunct Med. 2013. 임상시험, 84명. DOI: [10.1136/acupmed-2012-010269](https://doi.org/10.1136/acupmed-2012-010269). 근거수준: 중간.
+[^18]: Effectiveness of Electroacupuncture for Thin Endometrium in Infertile Women: Study Protocol for A Single-Blind, Randomized Controlled Trial. 2020. 임상시험(프로토콜), 142명. DOI: [10.21203/rs.3.rs-35080/v1](https://doi.org/10.21203/rs.3.rs-35080/v1). 근거수준: 중간.
+[^19]: Linggui Yangyuan Paste for Male Infertility with Shen (Kidney) Deficiency and Blood Stasis Syndrome: A Multicenter, Double-Blind, Double-Dummy, Randomized Controlled Trial. Chin J Integr Med. 2026. 임상시험, 162명. DOI: [10.1007/s11655-026-4234-5](https://doi.org/10.1007/s11655-026-4234-5) · [PMID 41870793](https://pubmed.ncbi.nlm.nih.gov/41870793/). 근거수준: 중간.
+[^20]: Impact of combining laparoscopy with traditional Chinese medicine on oxidative stress in endometriosis-related infertility: A systematic review and meta-analysis. Medicine. 2025. 메타분석, 1084명. DOI: [10.1097/MD.0000000000041692](https://doi.org/10.1097/MD.0000000000041692) · [PMID 40228263](https://pubmed.ncbi.nlm.nih.gov/40228263/). 근거수준: 높음.
+[^21]: Clinical observation on effect of zhuanyindan and hormone in treating male infertility with positive antisperm antibody. 2004. 임상시험, 82명. PMID: [15074090](https://pubmed.ncbi.nlm.nih.gov/15074090/). 근거수준: 중간.
+[^22]: Development of a predictive model for high-risk infertility based on TCM constitution and syndrome: a secondary analysis. Front Med. 2026. 관찰연구, 409명. DOI: [10.3389/fmed.2026.1738707](https://doi.org/10.3389/fmed.2026.1738707) · [PMID 41788704](https://pubmed.ncbi.nlm.nih.gov/41788704/). 근거수준: 중간.
+[^23]: Efficacy of acupuncture treatment for ovulatory disorder infertility: A systematic review and meta-analysis. 2023. 메타분석. DOI: [10.37766/inplasy2023.4.0088](https://doi.org/10.37766/inplasy2023.4.0088). 근거수준: 중간.
+[^24]: Acupuncture for Premature Ovarian Insufficiency: A Randomized, Non-Inferiority Protocol with Exploratory Epigenetics Analysis. Int J Womens Health. 2025. 임상시험(프로토콜), 858명. DOI: [10.2147/IJWH.S586584](https://doi.org/10.2147/IJWH.S586584) · [PMID 42100503](https://pubmed.ncbi.nlm.nih.gov/42100503/). 근거수준: 중간.
+[^25]: Herbal therapeutics for female infertility: A systematic review and meta-analysis. J Ethnopharmacol. 2023. 메타분석, 2662명. DOI: [10.1016/j.jep.2023.117258](https://doi.org/10.1016/j.jep.2023.117258) · [PMID 37778518](https://pubmed.ncbi.nlm.nih.gov/37778518/). 근거수준: 높음.
+[^26]: Clinical observations on treatment of endometriosis by tonifying kidney and removing blood stasis. 2001. 임상시험, 103명. PMID: [11367661](https://pubmed.ncbi.nlm.nih.gov/11367661/). 근거수준: 중간.
+[^27]: Chinese Herbal Medicine Improves Pregnancy Outcome and Decreases Recurrence Rate after Surgery for Endometriosis-Associated Infertility: A Retrospective Study. Chin J Integr Med. 2026. 임상시험, 202명. DOI: [10.1007/s11655-026-4240-7](https://doi.org/10.1007/s11655-026-4240-7) · [PMID 42448945](https://pubmed.ncbi.nlm.nih.gov/42448945/). 근거수준: 중간.
+[^28]: A Review of Acupuncture Treatment for Infertility. J Acupunct Res. 2021. 체계적 고찰. DOI: [10.13045/jar.2021.00213](https://doi.org/10.13045/jar.2021.00213). 근거수준: 중간.
+[^29]: Use of electroacupuncture and transcutaneous electrical acupoint stimulation in reproductive medicine: a group consensus. J Zhejiang Univ Sci B. 2017. 가이드라인. DOI: [10.1631/jzus.B1600437](https://doi.org/10.1631/jzus.B1600437) · [PMID 28271655](https://pubmed.ncbi.nlm.nih.gov/28271655/). 근거수준: 중간.
+[^30]: The Effect of Auricular Acupressure on Women Psychological Distress during Controlled Ovarian Hyperstimulation for in vitro Fertilization: A Single-Blind, Randomized, and Sham-Controlled Study. Tohoku J Exp Med. 2024. 임상시험, 368명. DOI: [10.1620/tjem.2024.J076](https://doi.org/10.1620/tjem.2024.J076) · [PMID 39198149](https://pubmed.ncbi.nlm.nih.gov/39198149/). 근거수준: 중간.
+[^31]: Treatment of postpill amenorrhea with abdominal obesity by traditional Korean medicine treatment focused on pharmacopuncture and moxibustion. Medicine. 2019. 증례, 1명. DOI: [10.1097/md.0000000000016996](https://doi.org/10.1097/md.0000000000016996). 근거수준: 낮음.
+[^32]: The efficacy and safety of Cangfu Daotan decoction in the treatment of infertility associated with polycystic ovary syndrome: a systematic review and meta-analysis. J Ovarian Res. 2026. 메타분석, 2181명. DOI: [10.1186/s13048-026-02008-x](https://doi.org/10.1186/s13048-026-02008-x) · [PMID 41652526](https://pubmed.ncbi.nlm.nih.gov/41652526/). 근거수준: 높음.
+
+## Q&A
+
+- **Q. 침 치료는 불임에 정말 효과가 있나요?** 무배란성 불임에서 침 단독이 클로미펜 단독보다 임신율을 유의하게 높이고 임신 손실률을 낮췄으며(메타분석),[^5] 난소 예비능 저하 환자의 IVF/ICSI에서 침 병행이 임신율·생존아 출생률·착상률을 유의하게 높였다(메타분석).[^7] 침은 고품질 배아율·난자율·수정률도 향상시킨다(메타분석).[^16]
+- **Q. 보조생식술(IVF)과 한의 치료를 병행해도 되나요?** ART 과정에서 침과 한약 병행은 임상적 임신율과 생존아 출생률을 유의하게 높이는 안전하고 효과적인 보완 요법이다(메타분석).[^3] 반복 착상 실패 환자에서도 침+뜸 병행이 임신율을 유의하게 증가시켰다(RCT).[^17]
+- **Q. 다낭성 난소 증후군(PCOS) 불임에는 어떤 한의 치료가 좋나요?** PCOS 불임에서 침·한약·뜸·화침의 복합 치료가 단독 요법보다 임신율·배란율 개선에 더 효과적이며, 특히 뜸+한약·화침+한약·침+한약 조합이 권장된다(네트워크 메타분석).[^13] 수기침+한약 병용이 가짜침보다 임신율·배란율을 유의하게 높였다(RCT).[^15]
+- **Q. 남성 불임에도 한의 치료가 도움이 되나요?** 보중익기탕이 정자 밀도·운동성을 개선하고,[^8] 생경종자탕·적백이정탕·영귀양원고 등이 정자 질 개선과 임신율 향상에 유효하다.[^9][^10][^19] 침+뜸 치료도 정상 형태 정자 비율을 유의하게 증가시켰다.[^33]
+- **Q. 자궁내막증 관련 불임에는 어떤 접근이 좋나요?** 보신활혈·활혈거어 한약과 복강경 수술의 병행이 산화 스트레스를 줄이고 임신율을 높인다(메타분석).[^20] 수술 후 6개월간 중약 투여가 임신율·생존아 출산율을 높이고 재발 위험을 낮췄다(RCT).[^27]
+
+## 미충족 근거 / 추가 연구 필요
+
+- 불임에 대한 침·한약·전침·이침·뜸의 근거는 체계적 고찰·메타분석·RCT가 다수 존재하나, 일부 연구(원인불명 불임의 피내침, 인삼(人蔘) 정액 질 개선)는 대조군 대비 유의한 차이를 보이지 않거나 근거가 제한적이어서, 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^34][^35]
+- 표준화된 취혈·한약 처방 프로토콜과 대규모 다기관 무작위 대조 시험, 양약(클로미펜·호르몬제)과의 장기 비교 및 침·한약·뜸 단독 요법의 유효성·안전성을 뒷받침할 체계적 고찰이 추가로 필요하다.[^36][^37]
+- 조기 난소 부전·난소 예비능 저하·고령·원인불명 등 특수 군에서의 한의 중재 근거가 제한적이므로, 이를 뒷받침할 더 정밀한 임상 연구와 대사체·후성유전학 기반 객관적 반응 지표 개발이 요구된다.[^24][^38]
+- 검색으로 확보한 논문 중 주제와 무관하거나 비한의학적 내용(중국 피임 기술, 여성 생식 보건 네트워크, 인도 CAM 사용률, 페르시아 트리팔라 등)은 근거 표에서 제외하였다.
+
+[^33]: Effects of acupuncture and moxa treatment in patients with semen abnormalities. 2004. 임상시험, 19명. PMID: [14695986](https://pubmed.ncbi.nlm.nih.gov/14695986/). 근거수준: 중간.
+[^34]: Does Acupuncture Have Any Benefit in the IVF Treatment of Couples with Unexplained Infertility; A Prospective Randomized Controlled Trial. Ginekol Pol. 2019. 임상시험, 60명. DOI: [10.21613/gorm.2019.872](https://doi.org/10.21613/gorm.2019.872). 근거수준: 중간.
+[^35]: Ginseng for Improving Semen Quality Parameters: A Systematic Review. World J Mens Health. 2020. 체계적 고찰. DOI: [10.5534/wjmh.190125](https://doi.org/10.5534/wjmh.190125) · [PMID 32009310](https://pubmed.ncbi.nlm.nih.gov/32009310/). 근거수준: 중간.
+[^36]: Acupuncture-Related Therapies for Ovulatory Disorders: A Systematic Review and Bayesian Network Meta-Analysis Protocol. 2022. 체계적 고찰. DOI: [10.21203/rs.3.rs-1172347/v1](https://doi.org/10.21203/rs.3.rs-1172347/v1). 근거수준: 중간.
+[^37]: A Survey on Korean Medicine Doctors' Recognition and Treatment for Developing Korean Medicine Clinical Practice Guideline of Female Infertility. J Korean Med. 2022. 관찰연구, 665명. DOI: [10.13048/jkm.22035](https://doi.org/10.13048/jkm.22035). 근거수준: 중간.
+[^38]: Metabonomics Study on the Infertility Treated With Zishen Yutai Pills Combined With In Vitro Fertilization-embryo Transfer. Front Pharmacol. 2021. 실험연구. DOI: [10.3389/fphar.2021.686133](https://doi.org/10.3389/fphar.2021.686133) · [PMID 34349647](https://pubmed.ncbi.nlm.nih.gov/34349647/). 근거수준: 중간.

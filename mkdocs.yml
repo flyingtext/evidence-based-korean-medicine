@@ -54,6 +54,7 @@ plugins:
       locale: ko
       fallback_to_build_date: true
   - glightbox
+  - open-in-new-tab
   - pdf-export:
       enabled_if_env: ENABLE_PDF_EXPORT
   - print-site
@@ -113,6 +114,7 @@ nav:
           - 개요: 4_임상한의학/산부인과/README.md
           - 월경통(月經痛, Dysmenorrhea): 4_임상한의학/산부인과/월경통.md
           - 갱년기증후군(更年期症候群, Menopausal Syndrome): 4_임상한의학/산부인과/갱년기증후군.md
+          - 불임(不姙, Infertility): 4_임상한의학/산부인과/불임(不姙, Infertility).md
       - 소아과:
           - 개요: 4_임상한의학/소아과/README.md
           - 야뇨증(夜尿症, Nocturnal Enuresis): 4_임상한의학/소아과/야뇨증.md
