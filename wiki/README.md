@@ -39,6 +39,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
     - [황기(黃芪, Astragalus)](./1_기초한의학/본초학/황기(黃芪, Astragalus).md)
     - [감초(甘草, Glycyrrhiza)](./1_기초한의학/본초학/감초(甘草, Glycyrrhiza).md)
     - [백출(白朮, Atractylodes)](./1_기초한의학/본초학/백출(白朮, Atractylodes).md)
+    - [당귀(當歸, Angelica sinensis)](./1_기초한의학/본초학/당귀(當歸, Angelica sinensis).md)
   - [방제학](./1_기초한의학/방제학/README.md)
     - [보중익기탕(補中益氣湯, Bojungikgi-tang)](./1_기초한의학/방제학/보중익기탕(補中益氣湯).md)
     - [황련해독탕(黃連解毒湯, Hwangryunhaedok-tang)](./1_기초한의학/방제학/황련해독탕(黃連解毒湯).md)
