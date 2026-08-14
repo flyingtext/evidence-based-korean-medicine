@@ -1,0 +1,184 @@
+# AGENTS.md
+
+이 프로젝트는 [https://med.symbolicinfo.com](https://med.symbolicinfo.com)의 API를 활용해 **근거기반 한의학(Evidence-Based Korean Medicine) 위키**를 만드는 프로젝트입니다.
+
+## 프로젝트 목표
+
+- 논문 검색 엔진 API를 기반으로 한의학 주제·처방·경혈·질환에 대한 위키 문서를 생성·관리
+- 모든 문서는 **출처(논문)를 명시**하고, 임상 근거의 수준을 구분하여 신뢰할 수 있는 정보를 제공
+- 위키 문서를 논문 데이터와 자동 연동
+
+## 핵심 원칙 (반드시 준수)
+
+1. **근거 우선**: 모든 임상적 주장은 반드시 검색 API로 확인 가능한 논문 근거에 기반해야 함. 근거가 없는 주장은 "근거 미확인"으로 명시.
+2. **출처 명시**: 문서의 모든 핵심 주장에는 DOI/PMID와 논문 제목을 함께 기록.
+3. **근거 수준 구분**: 연구 유형(임상시험/메타분석/체계적 고찰/관찰연구/증례 등)에 따라 근거 수준을 라벨링.
+4. **AI 생성물 명시**: AI 요약(`answer`, `clinical_summary`) 사용 시 이를 밝히고 원문과 대조 가능하도록 함.
+5. **과장 금지**: 상업적 효능 주장, 절대적 효능 표현 금지.
+
+## API 레퍼런스
+
+모든 엔드포인트는 `GET` 방식이며 JSON 반환, CORS 활성화.
+
+베이스 URL: `https://med.symbolicinfo.com`
+
+### 1. 논문 검색 — `GET /search`
+
+`articles` / `article_analysis` 테이블을 DOI 기준으로 그룹화하여 검색. 같은 논문이 PubMed·Crossref 모두에 있으면 하나로 병합.
+
+```
+GET /search?q=검색어&page=1&per_page=20&analyzed=1
+```
+
+| 파라미터 | 설명 | 기본값 |
+|---|---|---|
+| `q` | 검색어 (제목·저자·저널·DOI·PMID·PICO·임상요약 부분 일치) | 없음 |
+| `page` | 페이지 번호 | 1 |
+| `per_page` | 페이지당 개수 (1~100) | 20 |
+| `analyzed` | 분석 완료만 (`1`/`true`) | false |
+| `km` | 한의학 여부 (1/0) | 없음 |
+| `human` | 인체 연구 여부 (1/0) | 없음 |
+| `lit` | 문헌 고찰 여부 (1/0) | 없음 |
+| `cat` | 연구 유형 (`clinical_trial`, `systematic_review`, `meta_analysis`, `observational_study`, `case_report`, `experimental_study`, `review`, `guideline`, `other`) | 없음 |
+| `source` | 소스 필터: `pubmed`, `crossref`, `both`, `all` | all |
+| `ref` | 대표 행 선택: `pubmed`, `crossref`, `both`, `all` | all |
+| `pub_from` / `pub_to` | 출판일 범위 (YYYY-MM-DD) | 없음 |
+| `kw` | 키워드 필터 (콤마 구분, AND 조건) | 없음 |
+
+**응답 구조**:
+
+```
+{
+  "q", "page", "per_page", "total", "total_pages",
+  "analyzed", "km", "human", "lit", "cat", "source", "ref",
+  "items": [ { 논문 객체 }, ... ]
+}
+```
+
+**논문 객체 주요 필드**:
+
+| 필드 | 설명 |
+|---|---|
+| `title` | 논문 제목 |
+| `authors` | 저자 목록 |
+| `journal` | 저널명 |
+| `doi` | DOI |
+| `pmid` | PubMed ID |
+| `pub_date` | 출판일 |
+| `url` | 원문 링크 |
+| `source` / `in_pubmed` / `in_crossref` | 소스 정보 |
+| `research_category` | 연구 유형 (임상시험/체계적 고찰 등) |
+| `is_korean_medicine` | 한의학 여부 |
+| `is_human_study` | 인체 연구 여부 |
+| `is_literature_review` | 문헌 고찰 여부 |
+| `patient_count` | 환자 수 |
+| `question` | AI가 생성한 핵심 연구 질문 |
+| `answer` | AI 요약 답변 |
+| `clinical_summary` | 임상 요약 (실용적 함의) |
+| `pico_p` / `pico_i` / `pico_c` / `pico_o` | PICO 구성요소 |
+| `method_specific_acupoint` | 사용된 특정 경혈 |
+| `method_specific_herbal` / `method_specific_herbal_formula` | 사용된 약재/처방 |
+| `keywords` | 키워드 배열 |
+| `analyzed_at` / `fetched_at` | 분석·수집 시각 |
+
+### 2. 전체 통계 — `GET /stat`
+
+전체 논문 수, 분석 현황, 연구 유형 분포, 상위 저널, 소스별 분포, 환자 수 합계 등.
+
+### 3. 헬스 체크 — `GET /health`
+
+### 예시
+
+```bash
+curl "https://med.symbolicinfo.com/search?q=cancer&analyzed=1"
+curl "https://med.symbolicinfo.com/search?q=acupuncture&km=1&human=1&per_page=50"
+curl "https://med.symbolicinfo.com/stat"
+```
+
+## 위키 파일 구조
+
+위키는 **순수 마크다운(`.md`) 파일**로 구성한다. 문서는 주제별 폴더로 분류한다:
+
+```
+wiki/
+├── README.md            # 위키 홈/인덱스
+├── _template.md         # 문서 작성 템플릿
+├── 1_기초한의학/        # 원전 · 진단학 · 기초이론
+├── 2_약물학/            # 약재 · 처방
+├── 3_침구의학/          # 경혈 · 치료법
+├── 4_임상한의학/        # 내과(장부) · 외과 · 부인과 · 소아과 · 신경정신과 · 안이비인후과
+├── 5_수기치료/          # 추나 · 도인 · 기공
+└── 6_보건기타/          # 사상의학 · 예방한의학 · 의사학
+```
+
+**분류 체계**: 한의과대학 예과·본과 교과과정을 참고해 **대분류(학문 분야) → 중분류(과목) → 소분류(개별 문서)** 3단계로 구성한다.
+
+- **대분류** = 최상위 폴더 (기초한의학, 약물학, 침구의학, 임상한의학, 수기치료, 보건기타)
+- **중분류** = 대분류 아래 과목 폴더 (예: 약물학의 `약재`/`처방`, 임상한의학 내과의 `비계`/`폐계`/`심계`/`간계`/`신계`)
+- **소분류** = 개별 문서 파일 (예: `보중익기탕.md`, `합곡.md`, `요통.md`)
+- 각 폴더에 목차 역할의 `README.md`를 두어 하위 문서를 나열한다.
+- 문서 주제는 폴더로, 개별 항목은 파일명으로 구분한다.
+- 파일명은 한글 표준명을 사용하고, 필요 시 영문/한자 병기 (`합곡(LI4).md`).
+- **위키 각 제목(파일명/문서 제목)은 한글·영어·한자·외래어(원어)를 병기할 수 있다.** 외래어의 경우 해당 외래어의 원어를 함께 적는다. 예: `합곡(合谷, LI4)`, `보중익기탕(補中益氣湯)`.
+- **동음이의/다의어로 식별이 필요한 문서는 disambiguation을 따로 처리한다.** 파일명에 구분자를 명시(예: `인삼(人蔘)` vs `인삼(삼, Panax ginseng)`의 모호함이 있는 경우)하거나, 필요 시 별도 분류 헤딩/괄호 표기를 사용해 명확히 구분한다. 폴더 내 `README.md` 목차에서 disambiguation 항목을 명시한다.
+- **질환 문서는 KCD 코드(KCD-8, 한국표준질병사인분류 제8차 개정)에 근거하여 분류한다.** KCD 코드는 파일명이 아닌 본문(개요 첫 문단)에 명시한다.
+- **본초·경혈·처방(방제) 이름은 한의과대학 교과서적인 표준 표기를 사용한다.** (예: 경혈 `합곡(LI4)`, 처방 `보중익기탕`, 본초 `인삼`·`백출`) 지방/약어/비표준 표기를 지양하고, 최초 등장 시 한자·약리학적 표기를 병기한다.
+- 각 폴더에 목차 역할의 `README.md`를 두어 폴더 내 문서를 나열한다.
+- 파일 상단에 YAML front matter를 **넣지 않는다.** 대신 문서 첫 줄에 `# 제목` 헤딩과 함께 메타 정보(출처·근거수준·작성일)는 본문에 자연스럽게 서술한다.
+- 교차 참조는 상대 링크(`[요통](../질환/요통.md)`)로 연결한다.
+
+## 위키 문서 구조
+
+각 위키 문서는 다음 섹션을 포함하는 것을 권장:
+
+1. **개요** — 주제에 대한 정의와 개괄
+2. **근거 요약** — 핵심 근거 논문 기반 요약 (검색 API로 수집)
+3. **근거 표** — 논문 목록 (제목·연구유형·환자수·근거수준·DOI/PMID·AI 임상요약)
+4. **임상 적용** — `clinical_summary` 기반 실제 임상적 함의
+5. **경혈/처방 연관** — `method_specific_acupoint`, `method_specific_herbal*` 필드 활용
+6. **참고문헌** — DOI/PMID 및 원문 링크
+7. **미충족 근거 / 추가 연구 필요** — 근거 부족 영역 명시
+
+## 문서 생성·편집 워크플로우
+
+- 문서 주제 선정 → `GET /search`로 관련 논문 수집 (필터 조합 활용)
+- `analyzed=1`로 분석 완료된 논문만 우선 사용
+- 논문 데이터와 `answer`/`clinical_summary`를 기반으로 문서 작성
+- 근거 표에 논문 메타데이터(DOI, PMID, 연구유형, 환자수)를 반드시 포함
+- 근거 수준 라벨: 체계적 고찰/메타분석 > 임상시험 > 관찰연구 > 증례
+
+## 프로젝트 기술 스택
+
+- **콘텐츠**: 순수 마크다운(`.md`) 위키 파일 (`wiki/`)
+- **정적 사이트 생성기**: MkDocs + Material 테마 (`mkdocs.yml`)
+- **자동화**: Python 스크립트 (`scripts/`) — 논문 검색(`search.py`), 품질 검증(`validate.py`)
+- **데이터 소스**: [med.symbolicinfo.com](https://med.symbolicinfo.com) 검색 API
+
+## 명령어
+
+```bash
+# 논문 검색 → 근거 표 생성
+python3 scripts/search.py "요통" --km --human --analyzed
+
+# 문서 품질 검증 (링크·KCD·표기)
+python3 scripts/validate.py
+
+# 정적 사이트 빌드
+python3 -m mkdocs build
+
+# 로컬 미리보기
+python3 -m mkdocs serve
+```
+
+## 커밋 규칙
+
+- **작업 완료 시 자동으로 커밋한다.** 사용자가 별도로 요청하지 않아도 작업이 끝나면 변경 사항을 커밋한다.
+- 커밋 전 `git status`/`git diff`로 의도한 파일만 스테이징하고, 시크릿·불필요 파일은 제외한다.
+- 커밋 메시지는 변경 내용을 간결히 요약한다 (예: `docs: 위키 분류 체계 초기화`, `feat: 논문 검색 스크립트 추가`).
+
+## 주의사항
+
+- API에 대한 과도한 요청은 피하고, 필요한 페이지만 요청 (`per_page` 최대 100).
+- `q` 파라미터로 검색어를, `cat`/`km`/`human`/`lit`/`source`로 필터 조합하여 정확한 데이터를 얻을 것.
+- 인용은 원문 데이터를 대조 후 작성하며, AI 요약을 그대로 인용으로 취급하지 않을 것.
+- 비한의학 논문이 포함될 수 있으므로 `is_korean_medicine` 필드를 활용해 주제와 일치 여부를 확인할 것.

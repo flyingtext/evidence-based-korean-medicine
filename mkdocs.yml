@@ -1,0 +1,70 @@
+site_name: 근거기반 한의학 위키
+site_description: Evidence-Based Korean Medicine Wiki
+site_url: https://med.symbolicinfo.com
+docs_dir: wiki
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+plugins:
+  - search
+  - exclude:
+      glob:
+        - _template.md
+nav:
+  - 홈: README.md
+  - 기초한의학:
+      - 개요: 1_기초한의학/README.md
+      - 원전: 1_기초한의학/원전/README.md
+      - 진단학: 1_기초한의학/진단학/README.md
+      - 기초이론: 1_기초한의학/기초이론/README.md
+  - 약물학:
+      - 개요: 2_약물학/README.md
+      - 약재: 2_약물학/약재/README.md
+      - 처방: 2_약물학/처방/README.md
+  - 침구의학:
+      - 개요: 3_침구의학/README.md
+      - 경혈: 3_침구의학/경혈/README.md
+      - 치료법: 3_침구의학/치료법/README.md
+  - 임상한의학:
+      - 개요: 4_임상한의학/README.md
+      - 내과:
+          - 개요: 4_임상한의학/내과/README.md
+          - 비계: 4_임상한의학/내과/비계/README.md
+          - 폐계: 4_임상한의학/내과/폐계/README.md
+          - 심계: 4_임상한의학/내과/심계/README.md
+          - 간계: 4_임상한의학/내과/간계/README.md
+          - 신계: 4_임상한의학/내과/신계/README.md
+      - 외과: 4_임상한의학/외과/README.md
+      - 부인과: 4_임상한의학/부인과/README.md
+      - 소아과: 4_임상한의학/소아과/README.md
+      - 신경정신과: 4_임상한의학/신경정신과/README.md
+      - 안이비인후과: 4_임상한의학/안이비인후과/README.md
+  - 수기치료: 5_수기치료/README.md
+  - 보건·기타:
+      - 개요: 6_보건기타/README.md
+      - 사상의학: 6_보건기타/사상의학/README.md
+      - 예방한의학: 6_보건기타/예방한의학/README.md
+      - 의사학: 6_보건기타/의사학/README.md
