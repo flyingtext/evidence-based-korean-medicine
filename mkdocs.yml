@@ -3,7 +3,7 @@ site_description: Evidence-Based Korean Medicine Wiki
 site_url: https://wiki.symbolicinfo.com
 docs_dir: wiki
 theme:
-  name: bootstrap4
+  name: material
 hooks:
   - hooks/canonical.py
 markdown_extensions:
