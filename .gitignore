@@ -17,3 +17,8 @@ site/
 # Env / secrets
 .env
 .env.*
+
+# 추천 집계 DB / 진행 체크포인트 / 로그
+server/likes.db
+scripts/.progress.json
+scripts/loop.log

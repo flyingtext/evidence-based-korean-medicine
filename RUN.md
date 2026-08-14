@@ -132,6 +132,45 @@ python3 -m mkdocs build
 python3 -m mkdocs serve
 ```
 
+## 6. 위키 자동 증식·보강 (opencode 반복 실행)
+
+`scripts/loop.py`가 opencode를 호출해 RUN.md 워크플로우를 반복 실행한다.
+목차에서 미작성 문서를 골라 근거 기반으로 작성하고, 기존 문서의 오류·근거를 갱신한다.
+
+```bash
+# 무한 반복 (Ctrl+C로 중단)
+python3 scripts/loop.py
+
+# 20회만 실행
+python3 scripts/loop.py --max 20
+
+# 실행 사이 5초 대기
+python3 scripts/loop.py --interval 5
+
+# 체크포인트 초기화 (처리 이력 삭제)
+python3 scripts/loop.py --reset
+```
+
+- 진행 이력은 `scripts/.progress.json`, 로그는 `scripts/loop.log`에 기록된다.
+- 연속 3회 실패 시 자동 중단한다.
+
+## 7. 추천(좋아요) 백엔드
+
+정적 사이트의 추천 버튼이 집계 API를 호출한다. 추천 수는 SQLite(`server/likes.db`)에 저장된다.
+
+```bash
+# 백엔드 실행 (0.0.0.0:8000)
+python3 server/app.py
+
+# 포트 지정
+python3 server/app.py --port 9000
+```
+
+- 추천 버튼: 각 문서 상단에 자동 주입 (`wiki/assets/like.js`)
+- 추천 순위 페이지: `wiki/추천순위.md` (nav에 등록됨)
+- API 엔드포인트: `POST /api/like`, `GET /api/likes`, `GET /api/rank`, `GET /health`
+- 프론트엔드가 API 주소를 바꾸려면 `LIKE_API` 전역 변수로 지정한다 (기본 `http://localhost:8000`).
+
 ## 유의사항
 
 - API 과호출 방지를 위해 `per_page`는 최대 100, 필요한 페이지만 요청한다.
