@@ -21,6 +21,8 @@ theme:
       scheme: slate
       primary: teal
       accent: teal
+hooks:
+  - hooks/canonical.py
 markdown_extensions:
   - admonition
   - footnotes
