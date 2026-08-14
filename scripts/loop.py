@@ -116,7 +116,7 @@ def main() -> int:
     cp = load_checkpoint()
     log(f"체크포인트: 처리 {len(cp['processed'])}건, 마지막 실행 {cp['last_run']}")
 
-    cmd = [args.opencode]
+    cmd = [args.opencode, "run"]
     count = 0
     consecutive_failures = 0
     while args.max == 0 or count < args.max:
