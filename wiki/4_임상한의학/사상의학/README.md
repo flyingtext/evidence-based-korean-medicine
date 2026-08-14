@@ -1,8 +1,11 @@
-# 사상의학
+# 사상의학 (四象醫學, Sasang Constitutional Medicine)
+
+이제마(李濟馬)의 《동의수세보원》에서 정립된 한국 고유의 체질의학.
 
 ## 문서 목록
 
-- (작성 예정)
+- [사상의학(四象醫學, Sasang Constitutional Medicine)](사상의학(四象醫學, Sasang Constitutional Medicine).md)
+  - 하위 표제어: 태양인(太陽人) · 태음인(太陰人) · 소양인(少陽人) · 소음인(少陰人) · 체질침(體質鍼) · 사상체질 진단(SDQ·SPQ) · 체질별 한약 처방
 
 ## 동음이의 분류
 
