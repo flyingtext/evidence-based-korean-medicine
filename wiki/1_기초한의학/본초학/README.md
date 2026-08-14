@@ -10,6 +10,8 @@
   - 하위 표제어: 황기 약침/주사액 · 황기 추출물/보충제 · 황기 포함 처방(황기계지오물탕·방기황기탕 등) · 황기 유효 성분(Astragaloside)
 - [감초(甘草, Glycyrrhiza)](감초(甘草, Glycyrrhiza).md)
   - 하위 표제어: 감초(甘草, Glycyrrhiza uralensis) · 유럽감초(Glycyrrhiza glabra) · 작약감초탕(芍藥甘草湯) · 감초산(甘草酸) 제제 · 감초 추출물·비강 세척·구강 겔
+- [백출(白朮, Atractylodes)](백출(白朮, Atractylodes).md)
+  - 하위 표제어: 백출(白朮, Atractylodes macrocephala) · 창출(蒼朮, Atractylodes lancea) · 사군자탕(四君子湯) · 육군자탕(六君子湯) · 반하백출천마탕(半夏白朮天麻湯) · 삼령백출산(蔘苓白朮散) · 칠위백출산(七味白朮散)
 
 ## 동음이의 분류
 
