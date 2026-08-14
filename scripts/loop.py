@@ -14,7 +14,15 @@ import subprocess
 import sys
 import time
 
-PROMPT = "RUN.md 실행"
+PROMPT = (
+    "RUN.md와 AGENTS.md의 규칙을 따라 위키를 증식하라. "
+    "1) 각 폴더의 README.md 목차(동음이의 분류 포함)를 확인해 아직 작성되지 않은 문서를 하나 골라라. "
+    "2) 해당 주제로 med.symbolicinfo.com /search API(analyzed=1, km=1, human=1)에서 논문을 수집하고, "
+    "근거 표(제목·연구유형·환자수·근거수준·DOI/PMID·AI 임상요약)를 포함한 위키 문서를 작성하라. "
+    "3) 질환 문서는 KCD-8 코드를 개요 첫 문단에 명시하고, 임상한의학 각 과 밑에는 교과서적 편제로 질환을 서술하라. "
+    "4) 작성 후 python3 scripts/run.py로 검증·링크·빌드를 통과시키고 커밋하라. "
+    "이미 작성된 문서는 건너뛰고, 새 문서가 없으면 그 사실을 알리고 종료하라."
+)
 
 
 def run_once(opencode_cmd: list, interval: float, count: int) -> int:
