@@ -35,6 +35,7 @@ plugins:
         - _template.md
 nav:
   - 홈: README.md
+  - 최근 업데이트: 최근업데이트.md
   - 기초한의학:
       - 개요: 1_기초한의학/README.md
       - 원전: 1_기초한의학/원전/README.md
