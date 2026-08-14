@@ -34,6 +34,27 @@ plugins:
   - exclude:
       glob:
         - _template.md
+  - awesome-pages
+  - htmlproofer:
+      enabled: !ENV [CI, false]
+  - redirects:
+      redirect_maps: {}
+  - macros
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      type: date
+      locale: ko
+      fallback_to_build_date: true
+  - glightbox
+  - pdf-export:
+      enabled_if_env: ENABLE_PDF_EXPORT
+  - print-site
 extra_javascript:
   - assets/gtag.js
 nav:
@@ -55,7 +76,9 @@ nav:
       - 개요: 4_임상한의학/README.md
       - 내과:
           - 개요: 4_임상한의학/내과/README.md
-          - 비계: 4_임상한의학/내과/비계/README.md
+          - 비계:
+              - 개요: 4_임상한의학/내과/비계/README.md
+              - 소화불량(消化不良, Dyspepsia): 4_임상한의학/내과/비계/소화불량.md
           - 폐계: 4_임상한의학/내과/폐계/README.md
           - 심계: 4_임상한의학/내과/심계/README.md
           - 간계: 4_임상한의학/내과/간계/README.md
