@@ -62,6 +62,8 @@
   - 하위 표제어: 억간산(抑肝散) 원방 · 요쿠칸산(Yokukansan, TJ-54) · 억간산가진피반하(抑肝散加陳皮半夏, Yokukansankachimpihange) · 억간산 병용 요법
 - [방풍통성산(防風通聖散, Bangpungtongsung-san / Bofutsushosan)](방풍통성산(防風通聖散).md)
   - 하위 표제어: 방풍통성산(防風通聖散) 원방 · 방풍통성환(防風通聖丸) · 방풍통성산 병용 요법 · 보푸쓰쇼산(TJ-62, Bofutsushosan)
+- [옥병풍산(玉屛風散, Yupingfeng San / Jade Wind-Barrier Powder)](옥병풍산(玉屛風散, Yupingfeng San).md)
+  - 하위 표제어: 옥병풍산(玉屛風散) 원방 · 가미옥병풍산(加味玉屛風散) · 옥병풍산 제제(과립·탕액·캡슐) · 옥병풍산 병용 요법
 
 ## 동음이의 분류
 
