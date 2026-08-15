@@ -30,6 +30,8 @@
   - 하위 표제어: 반하백출천마탕 · 가감 반하백출천마탕 · 한게백출천마탕(Hangebyakujutsutemmato) · 반하백출천마탕 병용 요법 · 반하백출천마탕 유사·파생 방제
 - [소요산(逍遙散, Xiaoyao San / Kamishoyosan)](소요산(逍遙散, Xiaoyao San).md)
   - 하위 표제어: 소요산(逍遙散) · 가미소요산(加味逍遙散, Kamishoyosan TJ-24) · 단지소요산(丹梔逍遙散) · 가감소요산(加減逍遙散) · 소요환(逍遙丸) · 소요산 병용 요법
+- [가미소요산(加味逍遙散, Kamishoyosan)](가미소요산(加味逍遙散, Kamishoyosan).md)
+  - 하위 표제어: 가미소요산(加味逍遙散) · 가미쇼요산(TJ-24, Kamishoyosan) · 단지소요산(丹梔逍遙散) · 가감소요산(加減逍遙散) · 가미소요산 병용 요법
 - [오령산(五苓散, Oryeong-san / Goreisan / Wuling Powder)](오령산(五苓散, Oryeong-san).md)
   - 하위 표제어: 오령산(五苓散) · 고려산(Goreisan, TJ-17) · 오령산 합방·병용 요법 · 가감오령산(加減五苓散) · 복령오령산가반하후배탕
 - [귀비탕(歸脾湯, Guibi-tang / Kihito / Guipi Tang)](귀비탕(歸脾湯).md)
