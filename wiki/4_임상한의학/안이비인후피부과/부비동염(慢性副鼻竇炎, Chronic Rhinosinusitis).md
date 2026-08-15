@@ -61,6 +61,12 @@
 - 옥석 가동술·비마찰 부항·수동 배액 등 수기 요법은 만성 부비동염의 통증 완화와 삶의 질 개선에 안전하고 효과적이며, 특히 옥석 가동술이 6주 추적 관찰에서 더 우수한 장기적 개선 효과를 보였다.[^20]
 - 국내 건강보험심사평가원 데이터 분석(2012–2022)에서 만성 부비동염 환자의 가장 흔한 한방 치료는 침(鍼) 치료(50.5%)였고, 가장 많이 처방된 한약은 형개연교탕(荊芥連翹湯, 48.5%)이었으며, 환자의 87.0%가 양방 치료를 병행하는 통합적 관리 양상을 보였다.[^4]
 - 스테로이드 치료 후 재발이 잦은 난치성 호산구성 부비동염 환자에게 담음·어혈 변증에 기반한 패독산(敗毒散)과 계지복령환(桂枝茯苓丸) 병용으로 증상 개선과 관해 유지가 보고되었다.[^12]
+- 만성 부비동염 환자에게 척추 교정술(추나)과 침 치료를 비교한 연구에서 두 치료 모두 증상 완화에 효과적이었으며, 특히 척추 교정술이 더 높은 치료 효율을 보일 가능성이 제시되어 보완적 치료 옵션으로 고려할 수 있다.[^22]
+- 급성 상기도 감염·급성 부비동염 환자에게 물냉이·서양고추냉이 추출물(Angocin®)을 처방한 대규모 관찰연구에서, 다른 식물성 의약품·비강 약물·항생제 사용군에 비해 질환 재발률과 후속 항생제 처방률이 유의하게 낮고 병가 기간도 단축되어, 초기 단계에서 항생제 대체·보조제로 유용한 선택지가 될 수 있다.[^23]
+- 한약재의 비강 내 투여에 대한 체계적 고찰에서, 비강 내 전달은 비침습적이며 흡수율이 높고 작용 속도가 빨라 호흡기 질환 치료에 효과적인 약물 전달 경로가 될 수 있으며, 낮은 용량에서도 경구 투여보다 우수한 효과를 보이는 경우가 많다.[^24]
+- 어성초(Houttuynia cordata) 기반 한방 처방(정이방)은 알레르기 비염 환자의 코막힘·콧물·후각 저하·후비루 증상을 개선하는 데 효과적이며, IL-6 억제를 통한 항염증 작용이 기전으로 작용한다.[^25]
+- 단순 급성 비부비동염·급성 편도염 환자에게 생약 제제(Sinupret®·Imupret®)를 우선 사용하고 항생제 처방을 지연시키는 전략은 불필요한 항생제 남용을 유의하게 줄일 수 있어, 항생제 오남용 위험이 큰 소아 환자 등에 유용한 대안이 될 수 있다.[^26]
+- 항생제(레보플록사신)와 한방 처방(신이청폐탕) 병용 시 약물 유발성 폐렴이 발생한 증례가 보고되어, 항생제와 한약 병용 환자에게 호흡곤란·폐 침윤 소견이 나타나면 약물 유발성 폐렴 가능성을 고려해 원인 약물을 신속히 감별해야 한다.[^27]
 
 ## 근거 표
 
@@ -83,6 +89,12 @@
 | Improvements after dry needling for craniofacial pain in a patient with chronic rhinosinusitis: a case report | 증례 | 1 | 낮음 | 10.1080/09593985.2022.2085218 | 드라이 니들링이 두면부 통증·삶의 질·약물 사용량 개선 |
 | A case of eosinophilic sinusitis controlled by Kampo medicine | 증례 | 1 | 낮음 | 10.1002/tkm2.1266 | 패독산+계지복령환이 스테로이드 재발 환자에 관해 유지 |
 | The Ayurvedic Management of Fungal Sinusitis in Standalone Settings: A Case Report | 증례 | 1 | 낮음 | 10.1002/ccr3.70068 | 수술 거부 진균성 부비동염에 전통 의학 보존 치료가 영상 소견 소실 |
+| A comparative study of the relative effect of spinal manipulation as opposed to acupuncture treatment in the management of chronic sinusitus | 임상시험 | - | 중등도 | 10.51415/10321/2720 | 척추 교정술과 침 모두 증상 완화에 효과적, 척추 교정술이 더 높은 효율 가능성 |
+| An Epidemiological Study on the Effectiveness of Nasturtium Herb and Horseradish Root (Angocin®Anti-Infekt N) as well as Other Phytopharmaceuticals, Synthetic Products, and Antibiotics on the Course of Acute Upper Respiratory Tract Infection (aURTI) | 관찰연구 | 73524 | 낮음 | 10.3390/antibiotics15040336 | Angocin®이 재발률·후속 항생제 처방률·병가 기간 유의 감소 |
+| Intranasal delivery of herbal medicine for disease treatment: A systematic review | 체계적 고찰 | - | 중등도 | 10.1016/j.phymed.2024.155484 | 비강 내 한약 전달이 비침습·고흡수·속효, 호흡기 질환에 유용 |
+| A Houttuynia cordata–based Chinese herbal formula improved symptoms of allergic rhinitis during the COVID-19 pandemic | 임상시험 | - | 중등도 | 10.1097/jcma.0000000000000732 | 어성초 기반 정이방이 비강 증상 개선, IL-6 억제 기전 |
+| Delayed prescription of antibiotics and the capabilities of herbal medicine when used in respiratory infections | 문헌고찰 | - | 낮음 | 10.1186/s40816-023-00364-5 | 생약 제제 우선 사용·항생제 지연 처방이 항생제 남용 감소 |
+| [A case of drug-induced pneumonitis due to levofloxacin and kampo medicine] | 증례 | 1 | 낮음 | PMID 17233393 | 항생제+한약 병용 시 약물 유발성 폐렴 가능성, 원인 약물 감별 필요 |
 
 ## 임상 적용
 
@@ -91,12 +103,15 @@
 - 침 치료는 비강 증상·삶의 질 개선에 도움이 되며, 특히 수술 후 호산구성 비용종 환자의 재발 방지와 회복을 위한 보조적 치료로 활용할 수 있다.[^6][^10]
 - 비강 내 스테로이드에 반응하지 않거나 부작용으로 중단한 부비동염 동반 비염 환자에게 소청룡탕과 초음파 유도하 접형구개신경절(SPG) 침 병행이 대안이 될 수 있다.[^14]
 - 만성 부비동염 및 비용종 수술 후 회복을 돕기 위해 한방 세척액(사황·어성초)이나 드라이 니들링, 수기 요법(옥석 가동술·부항)을 보조적으로 적용할 수 있다.[^18][^19][^20][^21]
+- 만성 부비동염 환자에게 척추 교정술(추나)을 침과 병행하거나 보완적으로 활용하면 증상 완화에 도움이 될 수 있다.[^22]
+- 급성 상기도 감염·급성 부비동염 초기에는 물냉이·서양고추냉이 추출물(Angocin®)이나 생약 제제(Sinupret®·Imupret®)를 우선 사용하고 항생제 처방을 지연하는 전략이 항생제 남용을 줄이는 데 유용할 수 있다.[^23][^26]
+- 한약재의 비강 내 투여는 비침습적이고 흡수율이 높아 호흡기 질환의 약물 전달 경로로 활용될 수 있으며, 어성초 기반 처방(정이방)은 비강 증상 개선에 도움이 될 수 있다.[^24][^25]
 - 국내 임상 현장에서는 만성 부비동염 환자의 약 87%가 양방 치료를 병행하므로, 양·한방 협진과 통합적 관리 전략을 수립하는 것이 효과적이다.[^4]
 
 ## 경혈/처방 연관
 
-- 경혈/기법: 접형구개신경절(蝶形口蓋神經節, Sphenopalatine Ganglion) 침, 드라이 니들링(두면부 근육 압통점), 부항, 옥석 가동술 등이 활용된다.[^14][^20][^21]
-- 약재/처방: 형개연교탕(荊芥連翹湯)·소청룡탕(小靑龍湯)·패독산(敗毒散)·계지복령환(桂枝茯苓丸)·사황 세척액·어성초 추출액, 그리고 BNO 1016(Sinupret)·향국(香菊) 등 한약 생약 제제가 보고된 바 있다.[^4][^7][^12][^14][^18][^19]
+- 경혈/기법: 접형구개신경절(蝶形口蓋神經節, Sphenopalatine Ganglion) 침, 드라이 니들링(두면부 근육 압통점), 부항, 옥석 가동술, 척추 교정술(추나) 등이 활용된다.[^14][^20][^21][^22]
+- 약재/처방: 형개연교탕(荊芥連翹湯)·소청룡탕(小靑龍湯)·패독산(敗毒散)·계지복령환(桂枝茯苓丸)·사황 세척액·어성초 추출액·정이방, 그리고 BNO 1016(Sinupret)·향국(香菊)·Angocin® 등 한약 생약 제제가 보고된 바 있다.[^4][^7][^12][^14][^18][^19][^23][^25]
 
 ## Q&A
 
@@ -119,8 +134,10 @@
 
 - 만성 부비동염에 대한 한약의 메타분석은 포함 연구들의 방법론적 질이 낮아, 표준화된 프로토콜을 갖춘 대규모 무작위 대조 시험과 장기 추적 연구가 필요하다.[^5]
 - 호산구성 비용종(eCRSwNP)·진균성 부비동염 등 난치성 하위 유형에 대한 한의 중재의 근거는 증례·프로토콜 수준에 머물러 있어, 고품질 임상시험으로 근거를 강화할 필요가 있다.[^10][^13]
-- 침·부항·수기 요법·드라이 니들링 등 외치법의 근거 확실성이 아직 낮아, 시술자 간 변이를 줄인 표준화된 치료 접근법과의 비교 연구가 요구된다.[^17][^20][^21]
+- 침·부항·수기 요법·드라이 니들링·척추 교정술 등 외치법의 근거 확실성이 아직 낮아, 시술자 간 변이를 줄인 표준화된 치료 접근법과의 비교 연구가 요구된다.[^17][^20][^21][^22]
 - 한방 세척액(사황·어성초)의 구성·용량·시행 프로토콜에 대한 표준화와 더 넓은 인구집단에서의 안전성 검증이 필요하다.[^18][^19]
+- 비강 내 한약 전달·생약 제제(BNO 1016·Angocin®)의 장기 안전성과 항생제 지연 처방 전략의 임상적 유효성은 더 많은 대규모 연구로 확인할 필요가 있다.[^23][^24][^26]
+- 항생제와 한약 병용 시 약물 유발성 폐렴 등 부작용 가능성을 고려한 안전성 모니터링이 필요하다.[^27]
 
 [^1]: 부비동염의 정의·분류(KCD-8 J01/J32)는 교과서적 임상 이론 및 한정된 문헌 수준. 근거 미확인(교과서적 임상 진단 이론).
 [^2]: 부비동염의 한의학적 변증·경혈·한약 적용은 교과서적 임상 이론 및 한정된 문헌 수준. 근거 미확인(교과서적 임상 진단 이론).
@@ -143,3 +160,9 @@
 [^19]: [Observations of the curative effect with various liquid for post operative irrigation of ESS of treating chronic sinusitis and nasal polyps]. 임상시험, 192명. PMID: [12541860](https://pubmed.ncbi.nlm.nih.gov/12541860/). 근거수준: 중등도. 어성초 추출액 세척이 수술 후 회복률 개선.
 [^20]: Comparative Effectiveness of Jade Stone Mobilisation, Non-Abrasive Cupping, and Manual Drainage Technique in Subjects with Chronic Sinusitis: A Randomized Clinical Trial. 임상시험, 45명. DOI: [10.46743/1540-580x/2022.2209](https://doi.org/10.46743/1540-580x/2022.2209). 근거수준: 중등도. 세 수기 요법 모두 유효, 옥석 가동술이 6주 추적에서 우수.
 [^21]: Comparison between the Safety and Effectiveness of Al-Hijama (Cupping) and the Conventional Medical Therapy as Treatment for Sinusitis (II). 임상시험, 60명. DOI: [10.4197/med.27-1.7](https://doi.org/10.4197/med.27-1.7). 근거수준: 중등도. 부항이 부비동염 임상 증상·호산구 수치 개선, 안전·경제적.
+[^22]: A comparative study of the relative effect of spinal manipulation as opposed to acupuncture treatment in the management of chronic sinusitus. 임상시험. DOI: [10.51415/10321/2720](https://doi.org/10.51415/10321/2720). 근거수준: 중등도. 척추 교정술과 침 모두 증상 완화에 효과적, 척추 교정술이 더 높은 효율 가능성.
+[^23]: An Epidemiological Study on the Effectiveness of Nasturtium Herb and Horseradish Root (Angocin®Anti-Infekt N) as well as Other Phytopharmaceuticals, Synthetic Products, and Antibiotics on the Course of Acute Upper Respiratory Tract Infection (aURTI). 관찰연구, 73524명. DOI: [10.3390/antibiotics15040336](https://doi.org/10.3390/antibiotics15040336) · PMID: 42041299. 근거수준: 낮음. Angocin®이 재발률·후속 항생제 처방률·병가 기간 유의 감소.
+[^24]: Intranasal delivery of herbal medicine for disease treatment: A systematic review. 체계적 고찰. DOI: [10.1016/j.phymed.2024.155484](https://doi.org/10.1016/j.phymed.2024.155484) · PMID: 38442431. 근거수준: 중등도. 비강 내 한약 전달이 비침습·고흡수·속효, 호흡기 질환에 유용.
+[^25]: A Houttuynia cordata–based Chinese herbal formula improved symptoms of allergic rhinitis during the COVID-19 pandemic. 임상시험. DOI: [10.1097/jcma.0000000000000732](https://doi.org/10.1097/jcma.0000000000000732). 근거수준: 중등도. 어성초 기반 정이방이 비강 증상 개선, IL-6 억제 기전.
+[^26]: Delayed prescription of antibiotics and the capabilities of herbal medicine when used in respiratory infections. 문헌고찰. DOI: [10.1186/s40816-023-00364-5](https://doi.org/10.1186/s40816-023-00364-5). 근거수준: 낮음. 생약 제제 우선 사용·항생제 지연 처방이 항생제 남용 감소.
+[^27]: [A case of drug-induced pneumonitis due to levofloxacin and kampo medicine]. 증례, 1명. PMID: [17233393](https://pubmed.ncbi.nlm.nih.gov/17233393/). 근거수준: 낮음. 항생제+한약 병용 시 약물 유발성 폐렴 가능성, 원인 약물 감별 필요.
