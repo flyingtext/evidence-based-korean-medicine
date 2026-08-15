@@ -106,6 +106,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
     - [치매(癡呆, Dementia)](./4_임상한의학/신경정신과/치매.md)
     - [어지럼증(眩暈, Vertigo)](./4_임상한의학/신경정신과/어지럼증(眩暈, Vertigo).md)
     - [화병(火病, Hwa-Byung)](./4_임상한의학/신경정신과/화병(火病, Hwa-Byung).md)
+    - [파킨슨병(Parkinson's Disease)](./4_임상한의학/신경정신과/파킨슨병(Parkinson's Disease).md)
   - [안이비인후피부과](./4_임상한의학/안이비인후피부과/README.md)
     - [아토피피부염(Atopic Dermatitis)](./4_임상한의학/안이비인후피부과/아토피피부염.md)
     - [알레르기비염(Allergic Rhinitis)](./4_임상한의학/안이비인후피부과/알레르기비염.md)
