@@ -22,6 +22,8 @@
 - 곽향정기산은 과민성장증후군(IBS) 치료에서 유효한 한약 처방으로 확인되었다(체계적 고찰).[^4]
 - 가미곽향정기산 합통사요방(加味藿香正氣散合痛瀉要方)은 과민성장증후군 환자에서 증상 개선에 유효했다(관찰연구).[^3]
 - 곽향정기산은 설사 우세형 과민성장증후군(IBS-D) 치료에 적용되었다(임상시험 프로토콜).[^11]
+- 곽향을 포함한 한약 추출 과립과 프로바이오틱스 병용이 설사 우세형 과민성장증후군(IBS-D) 환자에서 유효성·안전성을 평가하는 무작위 대조 시험 프로토콜이 등록되어 있다(임상시험).[^14]
+- 곽향을 포함한 방향화습(芳香化濕) 계열 처방은 비위습열(脾胃濕熱) 변증의 소화기 질환에 적용되며, 설태 상피세포 세포자멸에 영향을 미친다(임상시험).[^15]
 
 ### 피부 질환
 
@@ -45,7 +47,7 @@
 
 ### 소화기 질환
 
-- 과민성장증후군·설사·구토·식욕부진 등 습탁(濕濁) 변증의 소화기 질환에서 곽향정기산이 유효하다.[^3][^4][^11]
+- 과민성장증후군·설사·구토·식욕부진 등 습탁(濕濁) 변증의 소화기 질환에서 곽향정기산이 유효하다.[^3][^4][^11][^14]
 
 ### 피부 질환
 
@@ -100,3 +102,5 @@
 [^11]: The Chinese herbal formula Huoxiang Zhengqi for diarrhea-predominant irritable bowel syndrome (CHAIRS): a study protocol for a double-blinded randomized controlled trial. 임상시험. DOI: [10.1186/s13063-021-05444-w](https://doi.org/10.1186/s13063-021-05444-w). 곽향정기산, IBS-D.
 [^12]: Chinese Patent Medicines in the Treatment of Coronavirus Disease 2019 (COVID-19) in China. 문헌고찰. DOI: [10.3389/fphar.2020.01066](https://doi.org/10.3389/fphar.2020.01066) · PMID: [32848729](https://pubmed.ncbi.nlm.nih.gov/32848729/). 코로나19 한약.
 [^13]: A Case Report on Managing the Side Effects of Anti-tuberculosis Drugs for Nontuberculous Mucobacteriosis (NTM) by Concurrently using Traditional Korean Medicine and Antibiotics. 증례. DOI: [10.22246/jikm.2021.42.5.1148](https://doi.org/10.22246/jikm.2021.42.5.1148). NTM 항결핵제 부작용.
+[^14]: Effect of herbal extract granules combined with probiotic mixture on irritable bowel syndrome with diarrhea: study protocol for a randomized controlled trial. 임상시험. DOI: [10.1186/1745-6215-12-219](https://doi.org/10.1186/1745-6215-12-219) · PMID: [21978382](https://pubmed.ncbi.nlm.nih.gov/21978382/). IBS-D 한약·프로바이오틱스.
+[^15]: Effect of modified huopo xialing decoction in treating pi-wei dampness-heat syndrome and its impact on the tongue epithelial cell apoptosis. 임상시험. PMID: [21425567](https://pubmed.ncbi.nlm.nih.gov/21425567/). 비위습열, 설태 상피세포.
