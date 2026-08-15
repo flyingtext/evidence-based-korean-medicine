@@ -30,6 +30,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
   - [진단학](./1_기초한의학/진단학/README.md)
     - [설진(舌診, Tongue Diagnosis)](./1_기초한의학/진단학/설진(舌診, Tongue Diagnosis).md)
   - [한방생리학](./1_기초한의학/한방생리학/README.md)
+    - [기혈(氣血, Qi and Blood)](./1_기초한의학/한방생리학/기혈(氣血, Qi and Blood).md)
   - [한방병리학](./1_기초한의학/한방병리학/README.md)
   - [경락경혈학](./1_기초한의학/경락경혈학/README.md)
     - [경락(經絡, Meridians)](./1_기초한의학/경락경혈학/경락(經絡, Meridians).md)
