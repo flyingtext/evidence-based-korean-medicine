@@ -137,16 +137,16 @@
 네. 침 치료(전침·온침·화침 포함)는 강직성 척추염 환자의 질병 활성도(BASDAI·ASDAS), 기능적 장애(BASFI), 통증(VAS) 및 염증 지표(CRP·ESR)를 유의하게 개선하며 안전한 치료 옵션입니다.[^2][^4] 근거수준: 높음(메타분석/체계적 고찰).
 
 **Q2. 뜸(灸) 치료는 어떤 경우에 도움이 되나요?**
-신허·독맥한형 강직성 척추염 환자에게 뇌화구(雷火灸)·독맥구(督灸) 등 온열 뜸 치료가 질병 활성도·기능 지수 개선과 염증 지표 감소에 효과적입니다.[^1][^15] 특히 생물학적 제제(아달리무맙)와 병용하면 통증·기능 개선 효과가 더 큽니다.[^15] 근거수준: 중간(임상시험).
+신허·독맥한형 강직성 척추염 환자에게 뇌화구(雷火灸)·독맥구(督灸) 등 온열 뜸 치료가 질병 활성도·기능 지수 개선과 염증 지표 감소에 효과적입니다.[^1][^15] 특히 생물학적 제제(아달리무맙)와 병용하면 통증·기능 개선 효과가 더 큽니다.[^15] 근거수준: 중등도(임상시험).
 
 **Q3. 부항이나 도침도 강직성 척추염에 적용할 수 있나요?**
-네. 부항요법은 양방 치료와 병행 시 기능·질병 활성도·염증 지표 개선에 효과적이며,[^17] 초음파 유도하 도침요법은 만성 척추 통증에 안전하고 효과적입니다.[^13] 중·말기 강직성 척추염에는 도침·침도 요법이 적용될 수 있습니다.[^7][^8] 근거수준: 중간(메타분석/증례).
+네. 부항요법은 양방 치료와 병행 시 기능·질병 활성도·염증 지표 개선에 효과적이며,[^17] 초음파 유도하 도침요법은 만성 척추 통증에 안전하고 효과적입니다.[^13] 중·말기 강직성 척추염에는 도침·침도 요법이 적용될 수 있습니다.[^7][^8] 근거수준: 중등도(메타분석/증례).
 
 **Q4. 강직성 척추염에 한약도 도움이 되나요?**
-네. 화담저어해독탕·구비인·황금청열초비 캡슐 등이 염증 지표 감소와 증상 개선에 효과적이며,[^21][^22][^23] 중의학·서양의학 통합 치료가 장기적 예후 개선에 도움이 됩니다.[^26] 근거수준: 중간(임상시험).
+네. 화담저어해독탕·구비인·황금청열초비 캡슐 등이 염증 지표 감소와 증상 개선에 효과적이며,[^21][^22][^23] 중의학·서양의학 통합 치료가 장기적 예후 개선에 도움이 됩니다.[^26] 근거수준: 중등도(임상시험).
 
 **Q5. 강직성 척추염 환자에게 추나(推拿)를 해도 되나요?**
-주의가 필요합니다. 급성 악화기에 무분별하게 시행된 추나(推拿) 요법이 치명적인 결과를 초래할 수 있으므로,[^10] 질환의 단계와 상태를 정확히 진단하여 급성기에는 과도한 조작을 피해야 합니다. 완화기에는 운동·심신 요법이 질병 활성도와 기능 개선에 도움이 됩니다.[^27] 근거수준: 중간(증례/문헌고찰).
+주의가 필요합니다. 급성 악화기에 무분별하게 시행된 추나(推拿) 요법이 치명적인 결과를 초래할 수 있으므로,[^10] 질환의 단계와 상태를 정확히 진단하여 급성기에는 과도한 조작을 피해야 합니다. 완화기에는 운동·심신 요법이 질병 활성도와 기능 개선에 도움이 됩니다.[^27] 근거수준: 중등도(증례/문헌고찰).
 
 ## 근거 요약
 
@@ -207,32 +207,32 @@
 - 경혈: 신수(腎兪, BL23)·대추(大椎, GV14)·협척혈(夾脊穴, EX-B2)·독맥(督脈) 혈위 등이 활용된다.[^12][^16]
 - 중재: 침·전침·온침·화침·뇌화구·독맥구·부항·도침·침도·매선·자락·이침·봉독·한약(화담저어해독탕·구비인·황금청열초비·양화탕) 등이 보고된다.[^1][^7][^12][^21][^22][^23][^24][^28][^29]
 
-[^1]: Efficacy of Thunder-Fire Moxibustion In Treating Ankylosing Spondylitis of Kidney Deficiency And Governor Meridian Cold And Its Influence On Bone Metabolism: Study Protocol For A Randomized Controlled Trial. 임상시험(프로토콜), 60명. DOI: [10.21203/rs.3.rs-559722/v1](https://doi.org/10.21203/rs.3.rs-559722/v1). 근거수준: 중간. 신허·독맥한형 AS에 뇌화구가 BASDAI·BASFI·염증·골대사 개선 기대.
+[^1]: Efficacy of Thunder-Fire Moxibustion In Treating Ankylosing Spondylitis of Kidney Deficiency And Governor Meridian Cold And Its Influence On Bone Metabolism: Study Protocol For A Randomized Controlled Trial. 임상시험(프로토콜), 60명. DOI: [10.21203/rs.3.rs-559722/v1](https://doi.org/10.21203/rs.3.rs-559722/v1). 근거수준: 중등도. 신허·독맥한형 AS에 뇌화구가 BASDAI·BASFI·염증·골대사 개선 기대.
 [^2]: Efficacy of acupuncture in the management of ankylosing spondylitis: a systematic review and meta-analysis with insights. 메타분석. DOI: [10.3389/fneur.2025.1716550](https://doi.org/10.3389/fneur.2025.1716550) · PMID: 41607836. 근거수준: 높음. 침이 BASDAI·ASDAS·BASFI·VAS·CRP·ESR 개선.
 [^3]: The Efficacy of Moxibustion and Acupuncture Therapy for Ankylosing Spondylitis: A Protocol for an Overview of Systematic Reviews and Meta-analyses. 체계적 고찰(프로토콜). DOI: [10.21203/rs.3.rs-72275/v1](https://doi.org/10.21203/rs.3.rs-72275/v1). 근거수준: 프로토콜. 침뜸 요법의 근거 수준·신뢰도 평가 프로토콜.
 [^4]: Acupuncture for ankylosing spondylitis: An updated systematic review and meta-analysis. 메타분석, 1884명. DOI: [10.1177/10538127241289339](https://doi.org/10.1177/10538127241289339) · PMID: 39973247. 근거수준: 높음. 침이 통증·척추 기능·삶의 질·CRP·ESR 개선.
-[^5]: Staged treatment for 32 cases of ankylosing spondylitis with different acupuncture methods based on jingjin theory. 임상시험, 32명. DOI: [10.13703/j.0255-2930.20240321-k0004](https://doi.org/10.13703/j.0255-2930.20240321-k0004) · PMID: 39943754. 근거수준: 중간. 경근 이론 단계별 침법이 통증·조조강직 개선.
-[^6]: Efficacy of warming needle moxibustion in the treatment of ankylosing spondylitis. 임상시험. DOI: [10.1097/md.0000000000025850](https://doi.org/10.1097/md.0000000000025850). 근거수준: 중간. 온침구가 약물 부작용 보완·기능·염증 지표 개선.
+[^5]: Staged treatment for 32 cases of ankylosing spondylitis with different acupuncture methods based on jingjin theory. 임상시험, 32명. DOI: [10.13703/j.0255-2930.20240321-k0004](https://doi.org/10.13703/j.0255-2930.20240321-k0004) · PMID: 39943754. 근거수준: 중등도. 경근 이론 단계별 침법이 통증·조조강직 개선.
+[^6]: Efficacy of warming needle moxibustion in the treatment of ankylosing spondylitis. 임상시험. DOI: [10.1097/md.0000000000025850](https://doi.org/10.1097/md.0000000000025850). 근거수준: 중등도. 온침구가 약물 부작용 보완·기능·염증 지표 개선.
 [^7]: Needle knife diagnosis and treatment for ankylosing spondylitis at middle and advanced stage based on the theory of meridian tendons. 증례. DOI: [10.13703/j.0255-2930.20240317-0001](https://doi.org/10.13703/j.0255-2930.20240317-0001) · PMID: 40229163. 근거수준: 낮음. 경근 이론 침도 요법이 중말기 AS 증상 개선.
 [^8]: Case Report: Long-term improvement after acupotomy in advanced ankylosing spondylitis with sacroiliac joint fusion. 증례, 1명. DOI: [10.3389/fsurg.2025.1727275](https://doi.org/10.3389/fsurg.2025.1727275). 근거수준: 낮음. 도침이 천장관절 융합 AS의 통증·기능 개선.
-[^9]: Traditional Chinese Medicine (TCM) collaborative care involving acupuncture for axial spondyloarthritis: 6-week exploratory results of a pragmatic randomised controlled trial. 임상시험, 139명. DOI: [10.1016/j.ero.2026.03.014](https://doi.org/10.1016/j.ero.2026.03.014) · PMID: 42540120. 근거수준: 중간. 한의 협진(침)이 6주 후 통증·BASDAI·삶의 질 개선.
+[^9]: Traditional Chinese Medicine (TCM) collaborative care involving acupuncture for axial spondyloarthritis: 6-week exploratory results of a pragmatic randomised controlled trial. 임상시험, 139명. DOI: [10.1016/j.ero.2026.03.014](https://doi.org/10.1016/j.ero.2026.03.014) · PMID: 42540120. 근거수준: 중등도. 한의 협진(침)이 6주 후 통증·BASDAI·삶의 질 개선.
 [^10]: Danger of injudicious use of tui-na therapy in ankylosing spondylitis. 증례, 1명. DOI: [10.1007/s00586-017-5002-1](https://doi.org/10.1007/s00586-017-5002-1) · PMID: 28213697. 근거수준: 낮음. 급성 악화기 추나 과용이 치명적 결과 초래 가능.
-[^11]: Multi-omics-based study on the biological characteristics of kidney renal deficiency and blood stasis in ankylosing spondylitis. 실험연구. DOI: [10.19852/j.cnki.jtcm.2026.01.017](https://doi.org/10.19852/j.cnki.jtcm.2026.01.017) · PMID: 41736434. 근거수준: 중간. 신허혈어증 바이오마커(ICAM1·CXCL8 등) 제시.
-[^12]: Clinical observation on ankylosing spondylitis treated with acupoint catgut embedding combined vessel pricking therapy. 임상시험, 86명. PMID: [21823280](https://pubmed.ncbi.nlm.nih.gov/21823280/). 근거수준: 중간. 매선+자락이 SASP 단독보다 증상·기능 개선.
+[^11]: Multi-omics-based study on the biological characteristics of kidney renal deficiency and blood stasis in ankylosing spondylitis. 실험연구. DOI: [10.19852/j.cnki.jtcm.2026.01.017](https://doi.org/10.19852/j.cnki.jtcm.2026.01.017) · PMID: 41736434. 근거수준: 중등도. 신허혈어증 바이오마커(ICAM1·CXCL8 등) 제시.
+[^12]: Clinical observation on ankylosing spondylitis treated with acupoint catgut embedding combined vessel pricking therapy. 임상시험, 86명. PMID: [21823280](https://pubmed.ncbi.nlm.nih.gov/21823280/). 근거수준: 중등도. 매선+자락이 SASP 단독보다 증상·기능 개선.
 [^13]: Efficacy and Safety of Ultrasound-Guided Acupotomy for Chronic Spinal Musculoskeletal Pain: A Systematic Review and Meta-Analysis of Randomised Controlled Trials. 메타분석, 2669명. DOI: [10.2147/JPR.S602089](https://doi.org/10.2147/JPR.S602089) · PMID: 42046797. 근거수준: 높음. 초음파 유도 도침이 만성 척추 통증·기능 개선.
-[^14]: Electroacupuncture for the relief of suboptimally managed pain in ankylosing spondylitis: A single-arm pilot study. 임상시험, 20명. DOI: [10.1177/09645284261444761](https://doi.org/10.1177/09645284261444761) · PMID: 42179340. 근거수준: 중간. 전침이 기존 치료 불충분 AS의 통증 완화.
-[^15]: Combined moxibustion/adalimumab treatment of ankylosing spondylitis, and its influence on related functional indicators. 임상시험, 90명. DOI: [10.4314/tjpr.v21i3.25](https://doi.org/10.4314/tjpr.v21i3.25). 근거수준: 중간. 독맥구+아달리무맙 병용이 통증·BASDAI·BASFI·염증 개선.
+[^14]: Electroacupuncture for the relief of suboptimally managed pain in ankylosing spondylitis: A single-arm pilot study. 임상시험, 20명. DOI: [10.1177/09645284261444761](https://doi.org/10.1177/09645284261444761) · PMID: 42179340. 근거수준: 중등도. 전침이 기존 치료 불충분 AS의 통증 완화.
+[^15]: Combined moxibustion/adalimumab treatment of ankylosing spondylitis, and its influence on related functional indicators. 임상시험, 90명. DOI: [10.4314/tjpr.v21i3.25](https://doi.org/10.4314/tjpr.v21i3.25). 근거수준: 중등도. 독맥구+아달리무맙 병용이 통증·BASDAI·BASFI·염증 개선.
 [^16]: Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis: Bayesian Network Meta-Analysis. 메타분석. DOI: [10.2147/JPR.S555916](https://doi.org/10.2147/JPR.S555916) · PMID: 41235077. 근거수준: 높음. 침도·독맥구·발관 병행이 BASFI·유효성 개선.
-[^17]: Cupping therapy for treating ankylosing spondylitis: The evidence from systematic review and meta-analysis. 메타분석. DOI: [10.1016/j.ctcp.2018.07.001](https://doi.org/10.1016/j.ctcp.2018.07.001) · PMID: 30057049. 근거수준: 중간. 부항+양방 병행이 BASFI·BASDAI·ESR·CRP 개선.
-[^18]: Clinical observation on acupuncture combined with cupping therapy for treatment of ankylosing spondylitis. 임상시험, 62명. PMID: [16309054](https://pubmed.ncbi.nlm.nih.gov/16309054/). 근거수준: 중간. 침+발관 병행이 관해율·유효율 개선, 재발률 감소.
+[^17]: Cupping therapy for treating ankylosing spondylitis: The evidence from systematic review and meta-analysis. 메타분석. DOI: [10.1016/j.ctcp.2018.07.001](https://doi.org/10.1016/j.ctcp.2018.07.001) · PMID: 30057049. 근거수준: 중등도. 부항+양방 병행이 BASFI·BASDAI·ESR·CRP 개선.
+[^18]: Clinical observation on acupuncture combined with cupping therapy for treatment of ankylosing spondylitis. 임상시험, 62명. PMID: [16309054](https://pubmed.ncbi.nlm.nih.gov/16309054/). 근거수준: 중등도. 침+발관 병행이 관해율·유효율 개선, 재발률 감소.
 [^19]: Ankylosing Spondylitis Treated with Zhang's Cupping Triple Therapy: A Retrospective Case Series Study. 증례. DOI: [10.31579/2693-4779/131](https://doi.org/10.31579/2693-4779/131). 근거수준: 낮음. 장씨 부항 삼중 요법이 보완적 치료 대안.
-[^20]: Technical operation specification for cupping therapy. 가이드라인. DOI: [10.4103/jin.jin_24_23](https://doi.org/10.4103/jin.jin_24_23). 근거수준: 중간. 부항 표준 조작·AS 적용 방법 안내.
-[^21]: Clinical observation on treatment of ankylosing spondylitis with huatan zhuyu jiedu decoction. 임상시험, 100명. PMID: [12572374](https://pubmed.ncbi.nlm.nih.gov/12572374/). 근거수준: 중간. 화담저어해독탕이 독활기생탕보다 증상·염증·X-ray 개선.
-[^22]: Clinical and experimental study on treatment of ankylosing spondylitis. 임상시험, 70명. PMID: [11783210](https://pubmed.ncbi.nlm.nih.gov/11783210/). 근거수준: 중간. 구비인이 인도메타신보다 증상·관절 기능 개선.
-[^23]: Huangqin Qingre Chubi Capsule modulates the lncRNA AP005432.1/PI3K/AKT axis and is associated with improved self-perception of patients and inflammation in ankylosing spondylitis. 실험연구, 189명. DOI: [10.1016/j.jep.2026.121662](https://doi.org/10.1016/j.jep.2026.121662) · PMID: 41956229. 근거수준: 중간. 황금청열초비가 염증·삶의 질 개선, PI3K/AKT 축 조절.
+[^20]: Technical operation specification for cupping therapy. 가이드라인. DOI: [10.4103/jin.jin_24_23](https://doi.org/10.4103/jin.jin_24_23). 근거수준: 중등도. 부항 표준 조작·AS 적용 방법 안내.
+[^21]: Clinical observation on treatment of ankylosing spondylitis with huatan zhuyu jiedu decoction. 임상시험, 100명. PMID: [12572374](https://pubmed.ncbi.nlm.nih.gov/12572374/). 근거수준: 중등도. 화담저어해독탕이 독활기생탕보다 증상·염증·X-ray 개선.
+[^22]: Clinical and experimental study on treatment of ankylosing spondylitis. 임상시험, 70명. PMID: [11783210](https://pubmed.ncbi.nlm.nih.gov/11783210/). 근거수준: 중등도. 구비인이 인도메타신보다 증상·관절 기능 개선.
+[^23]: Huangqin Qingre Chubi Capsule modulates the lncRNA AP005432.1/PI3K/AKT axis and is associated with improved self-perception of patients and inflammation in ankylosing spondylitis. 실험연구, 189명. DOI: [10.1016/j.jep.2026.121662](https://doi.org/10.1016/j.jep.2026.121662) · PMID: 41956229. 근거수준: 중등도. 황금청열초비가 염증·삶의 질 개선, PI3K/AKT 축 조절.
 [^24]: Chinese herbal medicine Yanghe decoction for ankylosing spondylitis. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000023466](https://doi.org/10.1097/md.0000000000023466). 근거수준: 프로토콜. 양화탕의 효과·안전성 평가 체계적 고찰.
 [^25]: Effectiveness and safety of Chinese herbal formula combined with western medicine for ankylosing spondylitis. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000026374](https://doi.org/10.1097/md.0000000000026374). 근거수준: 프로토콜. 중약+양약 병용 유효성·안전성 평가 프로토콜.
-[^26]: Clinical study on long-term treatment of ankylosing spondylitis with integrated Traditional Chinese and Western medicine. 임상시험, 188명. PMID: [12575568](https://pubmed.ncbi.nlm.nih.gov/12575568/). 근거수준: 중간. 중의·서양 통합 장기 치료가 단기 증상·재발률 개선.
+[^26]: Clinical study on long-term treatment of ankylosing spondylitis with integrated Traditional Chinese and Western medicine. 임상시험, 188명. PMID: [12575568](https://pubmed.ncbi.nlm.nih.gov/12575568/). 근거수준: 중등도. 중의·서양 통합 장기 치료가 단기 증상·재발률 개선.
 [^27]: Complementary medicine for axial spondyloarthritis: is there any scientific evidence? 문헌고찰. DOI: [10.1097/BOR.0000000000000513](https://doi.org/10.1097/BOR.0000000000000513) · PMID: 29634580. 근거수준: 낮음. 운동·심신 요법이 기능 개선, 추나 안전성 주의.
 [^28]: Treatment of patients with deforming polyarthritis and spondyloarthritis with bee venom. 문헌고찰. DOI: [10.17816/kazmj87243](https://doi.org/10.17816/kazmj87243). 근거수준: 낮음. 봉독 요법이 척추관절염에 유효한 대안 가능.
 [^29]: Effectiveness and safety of ear acupuncture for ankylosing spondylitis: A protocol for systematic review and meta-analysis. 체계적 고찰(프로토콜). DOI: [10.1097/MD.0000000000032310](https://doi.org/10.1097/MD.0000000000032310) · PMID: 36595840. 근거수준: 프로토콜. 이침의 유효성·안전성 평가 프로토콜.

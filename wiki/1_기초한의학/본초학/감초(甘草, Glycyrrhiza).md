@@ -187,33 +187,33 @@
 
 ## 참고문헌
 
-[^1]: Licorice: comprehensive review of its chemical composition, pharmacodynamics, and medicinal value. 문헌고찰. DOI: [10.1097/hm9.0000000000000103](https://doi.org/10.1097/hm9.0000000000000103). 근거수준: 중간. 감초의 광범위한 약리 활성 개괄.
-[^2]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. 문헌고찰. DOI: [10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7). 근거수준: 중간. 감초의 항염·장벽 강화 작용.
-[^3]: Licorice as a herbal extract in periodontal therapy. 문헌고찰. DOI: [10.33393/dti.2023.2583](https://doi.org/10.33393/dti.2023.2583). 근거수준: 중간. 감초 추출물의 치주 질환 항염·항균 효과.
+[^1]: Licorice: comprehensive review of its chemical composition, pharmacodynamics, and medicinal value. 문헌고찰. DOI: [10.1097/hm9.0000000000000103](https://doi.org/10.1097/hm9.0000000000000103). 근거수준: 중등도. 감초의 광범위한 약리 활성 개괄.
+[^2]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. 문헌고찰. DOI: [10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7). 근거수준: 중등도. 감초의 항염·장벽 강화 작용.
+[^3]: Licorice as a herbal extract in periodontal therapy. 문헌고찰. DOI: [10.33393/dti.2023.2583](https://doi.org/10.33393/dti.2023.2583). 근거수준: 중등도. 감초 추출물의 치주 질환 항염·항균 효과.
 [^4]: Immediate effect of Shakuyaku-kanzo-to on muscle cramp in hemodialysis patients. 임상시험, 71명. DOI: [10.1159/000093256](https://doi.org/10.1159/000093256). 근거수준: 높음. 투석 환자 근경련에 작약감초탕 2.5g, 평균 5.3분 내 즉각 호전.
 [^5]: Clinical assessment of usefulness, effectiveness and safety of jackyakamcho-tang on muscle spasm and pain: a case series. 증례, 81명. DOI: [10.1142/S0192415X04002247](https://doi.org/10.1142/S0192415X04002247). 근거수준: 낮음. 근육 경련·통증 완화.
 [^6]: Clinical efficacy and security of glycyrrhizic acid preparation in the treatment of anti-SARS-CoV-2 drug-induced liver injury. 체계적 고찰. DOI: [10.1136/bmjopen-2021-051484](https://doi.org/10.1136/bmjopen-2021-051484). 근거수준: 높음. 감초산 제제의 간손상 보조 치료 프로토콜.
 [^7]: Efficacy and immunomodulatory effects of licorice nasal spray in allergic rhinitis. 임상시험, 60명. DOI: [10.1016/j.explore.2026.103325](https://doi.org/10.1016/j.explore.2026.103325). 근거수준: 높음. 감초 비강 스프레이, 알레르기 비염 증상·수면 질 개선.
 [^8]: Topical Licorice for Aphthous: A Systematic Review of Clinical Trials. 체계적 고찰, 314명. DOI: [10.30476/IJMS.2022.94467.2576](https://doi.org/10.30476/IJMS.2022.94467.2576). 근거수준: 높음. 국소 감초, 구내염 통증·궤양·치유 시간 개선.
-[^9]: A Randomized Clinical Trial Evaluating Antimicrobial Effectiveness of a New Licorice Oral Gel against Salivary Streptococcus mutans. 임상시험, 30명. DOI: [10.2174/0118715265463863260604153321](https://doi.org/10.2174/0118715265463863260604153321). 근거수준: 중간. 1% 감초 겔, 타액 뮤탄스균 유의 감소.
+[^9]: A Randomized Clinical Trial Evaluating Antimicrobial Effectiveness of a New Licorice Oral Gel against Salivary Streptococcus mutans. 임상시험, 30명. DOI: [10.2174/0118715265463863260604153321](https://doi.org/10.2174/0118715265463863260604153321). 근거수준: 중등도. 1% 감초 겔, 타액 뮤탄스균 유의 감소.
 [^10]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with Lumbar Spinal Stenosis and Its Minimum Effective Dose. 임상시험, 58명. PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/). 근거수준: 높음. 요추관 협착증 근경련에 에페리손보다 우수, 필요 시 2.5g 투여 유효.
 [^11]: Preventive effect of a traditional Japanese Kampo medicine, shakuyakukanzoto, against neurotoxicity of FOLFOX plus bevacizumab. 임상시험, 41명. DOI: [10.1002/tkm2.1389](https://doi.org/10.1002/tkm2.1389). 근거수준: 높음. 작약감초탕, 옥살리플라틴 유발 신경독성 유의 감소.
-[^12]: Risk Factors for Pseudoaldosteronism with Yokukansan Use. 관찰연구. DOI: [10.1248/bpb.b20-00424](https://doi.org/10.1248/bpb.b20-00424). 근거수준: 중간. 고령·저체중·고용량 시 가성알도스테론증 위험 증가.
+[^12]: Risk Factors for Pseudoaldosteronism with Yokukansan Use. 관찰연구. DOI: [10.1248/bpb.b20-00424](https://doi.org/10.1248/bpb.b20-00424). 근거수준: 중등도. 고령·저체중·고용량 시 가성알도스테론증 위험 증가.
 [^13]: Evaluation of the association of pseudoaldosteronism with licorice-containing herbal medicine using the JADER database. 관찰연구, 961171명. DOI: [10.1016/j.jep.2026.121202](https://doi.org/10.1016/j.jep.2026.121202). 근거수준: 높음. 감초 하루 1.125g 초과 시 위험 증가.
 [^14]: Analysis of clinical factors associated with Kampo formula-induced pseudoaldosteronism. 관찰연구, 2471명. DOI: [10.1371/journal.pone.0296450](https://doi.org/10.1371/journal.pone.0296450). 근거수준: 높음. 여성·고령·저체중·이뇨제·고혈압·치매 시 위험 증가.
 [^15]: A case of tetanus treated with Kampo medicines such as Kakkonto and Shakuyakukanzoto. 증례, 1명. DOI: [10.1002/ams2.254](https://doi.org/10.1002/ams2.254). 근거수준: 낮음. 갈근탕·작약감초탕 병용, 파상풍 근경련 조절.
-[^16]: Effects of Shakuyaku-Kanzo-to on Extrapyramidal Symptoms During Antipsychotic Treatment. 임상시험, 22명. DOI: [10.1097/JCP.0000000000000312](https://doi.org/10.1097/JCP.0000000000000312). 근거수준: 중간. 작약감초탕, 항정신병 약물 근긴장 이상 완화.
-[^17]: Shaoyao Gancao decoction alleviates functional constipation. 임상시험, 20명. DOI: [10.3389/fcimb.2025.1705271](https://doi.org/10.3389/fcimb.2025.1705271). 근거수준: 중간. 작약감초탕, 장내 미생물 개선·기능성 변비 배변 개선.
-[^18]: Efficacy of Glycicumarin and Isoliquiritigenin in Suppressing Colonic Peristalsis. 임상시험, 11명. DOI: [10.1248/bpb.b23-00680](https://doi.org/10.1248/bpb.b23-00680). 근거수준: 중간. 감초 성분이 대장 과도한 연동운동 억제.
-[^19]: Efficacy of daiokanzoto in chronic constipation refractory to first-line laxatives. 관찰연구, 42명. DOI: [10.3892/br.2016.754](https://doi.org/10.3892/br.2016.754). 근거수준: 중간. 대황감초탕, 1차 완하제 불응 만성 변비에 유효.
+[^16]: Effects of Shakuyaku-Kanzo-to on Extrapyramidal Symptoms During Antipsychotic Treatment. 임상시험, 22명. DOI: [10.1097/JCP.0000000000000312](https://doi.org/10.1097/JCP.0000000000000312). 근거수준: 중등도. 작약감초탕, 항정신병 약물 근긴장 이상 완화.
+[^17]: Shaoyao Gancao decoction alleviates functional constipation. 임상시험, 20명. DOI: [10.3389/fcimb.2025.1705271](https://doi.org/10.3389/fcimb.2025.1705271). 근거수준: 중등도. 작약감초탕, 장내 미생물 개선·기능성 변비 배변 개선.
+[^18]: Efficacy of Glycicumarin and Isoliquiritigenin in Suppressing Colonic Peristalsis. 임상시험, 11명. DOI: [10.1248/bpb.b23-00680](https://doi.org/10.1248/bpb.b23-00680). 근거수준: 중등도. 감초 성분이 대장 과도한 연동운동 억제.
+[^19]: Efficacy of daiokanzoto in chronic constipation refractory to first-line laxatives. 관찰연구, 42명. DOI: [10.3892/br.2016.754](https://doi.org/10.3892/br.2016.754). 근거수준: 중등도. 대황감초탕, 1차 완하제 불응 만성 변비에 유효.
 [^20]: Nasal Irrigation with Licorice Extract for Allergic Rhinitis. 임상시험, 60명. DOI: [10.3390/life15111667](https://doi.org/10.3390/life15111667). 근거수준: 높음. 감초 비강 세척, 알레르기 비염 증상·SNOT-22 개선.
-[^21]: Shakuyakukanzoto for Paclitaxel-Induced Myalgia and Arthralgia: A Placebo-Controlled Crossover Trial. 임상시험, 22명. DOI: [10.1002/tkm2.70054](https://doi.org/10.1002/tkm2.70054). 근거수준: 중간. 파클리탁셀 유발 근육통·관절통에 위약 대비 유의 효과 미확인.
+[^21]: Shakuyakukanzoto for Paclitaxel-Induced Myalgia and Arthralgia: A Placebo-Controlled Crossover Trial. 임상시험, 22명. DOI: [10.1002/tkm2.70054](https://doi.org/10.1002/tkm2.70054). 근거수준: 중등도. 파클리탁셀 유발 근육통·관절통에 위약 대비 유의 효과 미확인.
 [^22]: Complementary and alternative therapies in the treatment of chronic hepatitis C: a systematic review. 체계적 고찰. DOI: [10.1016/j.jhep.2003.11.014](https://doi.org/10.1016/j.jhep.2003.11.014). 근거수준: 높음. 감초 등 보완요법, 만성 C형 간염 지표 개선 가능성.
-[^23]: Herbal medicines for liver diseases. 문헌고찰. DOI: [10.1007/s10620-005-2942-9](https://doi.org/10.1007/s10620-005-2942-9). 근거수준: 중간. 글리시리진 SNMC, 아급성 간부전 사망률·간 기능 개선 가능성.
+[^23]: Herbal medicines for liver diseases. 문헌고찰. DOI: [10.1007/s10620-005-2942-9](https://doi.org/10.1007/s10620-005-2942-9). 근거수준: 중등도. 글리시리진 SNMC, 아급성 간부전 사망률·간 기능 개선 가능성.
 [^24]: The additive effect of herbal medicines on lifestyle modification in the treatment of non-alcoholic fatty liver disease. 메타분석, 603명. DOI: [10.3389/fphar.2024.1362391](https://doi.org/10.3389/fphar.2024.1362391). 근거수준: 높음. 한약 병용, NAFLD AST 감소·간 지방증 개선.
-[^25]: Therapeutic potential of Glycyrrhiza glabra (licorice) in modulating metabolic and inflammatory parameters in women with PCOS. 임상시험. DOI: [10.3897/folmed.68.e165953](https://doi.org/10.3897/folmed.68.e165953). 근거수준: 중간. 감초 보충제, PCOS 대사·염증 지표 조절 잠재력.
-[^26]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity. 임상시험, 10명. DOI: [10.3177/jnsv.54.148](https://doi.org/10.3177/jnsv.54.148). 근거수준: 중간. 인삼·우황·감초 조합, 부교감신경 활동 강화.
-[^27]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity and immune system under mental arithmetic stress. 임상시험, 10명. DOI: [10.3177/jnsv.54.244](https://doi.org/10.3177/jnsv.54.244). 근거수준: 중간. 인삼·우황·감초 조합, 정신적 스트레스 자율신경 반응 완화.
+[^25]: Therapeutic potential of Glycyrrhiza glabra (licorice) in modulating metabolic and inflammatory parameters in women with PCOS. 임상시험. DOI: [10.3897/folmed.68.e165953](https://doi.org/10.3897/folmed.68.e165953). 근거수준: 중등도. 감초 보충제, PCOS 대사·염증 지표 조절 잠재력.
+[^26]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity. 임상시험, 10명. DOI: [10.3177/jnsv.54.148](https://doi.org/10.3177/jnsv.54.148). 근거수준: 중등도. 인삼·우황·감초 조합, 부교감신경 활동 강화.
+[^27]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity and immune system under mental arithmetic stress. 임상시험, 10명. DOI: [10.3177/jnsv.54.244](https://doi.org/10.3177/jnsv.54.244). 근거수준: 중등도. 인삼·우황·감초 조합, 정신적 스트레스 자율신경 반응 완화.
 
 ## 미충족 근거 / 추가 연구 필요
 

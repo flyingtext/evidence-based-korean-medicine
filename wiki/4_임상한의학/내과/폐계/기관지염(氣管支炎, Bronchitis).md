@@ -140,19 +140,19 @@
 [^3]: Effect of acupuncture on chronic bronchitis. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000020676](https://doi.org/10.1097/md.0000000000020676). 근거수준: 낮음. 만성 기관지염 침 치료 유효성·안전성 평가 예정.
 [^4]: 한의학 기관지염 변증 이론(풍한·풍열·담열·폐비기허 등). 근거 미확인(교과서적 임상 이론).
 [^5]: Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta. 메타분석, 2,068명. DOI: [10.19540/j.cnki.cjcmm.20251103.501](https://doi.org/10.19540/j.cnki.cjcmm.20251103.501). 근거수준: 높음. 시위용단화가 항생제 단독·병용 대비 총 유효율·증상 개선 시간 개선.
-[^6]: Pasting acupoints with Chinese herbs applying in infant acute bronchitis. 임상시험, 72명. PMID: [1288921](https://pubmed.ncbi.nlm.nih.gov/1288921/). 근거수준: 중간. 영아 중약 부착 침법이 완치율·IgA 개선.
-[^7]: Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis. 임상시험, 77명. PMID: [17186726](https://pubmed.ncbi.nlm.nih.gov/17186726/). 근거수준: 중간. 평천고 약침 부항이 CD4+·IFN-γ·IgA 등 면역 개선.
-[^8]: Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea. 임상시험, 1,158명. PMID: [11977523](https://pubmed.ncbi.nlm.nih.gov/11977523/). 근거수준: 중간. 풍한형 급성 기관지염 고약 부착이 완치율 유의 상승.
-[^9]: Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule. 임상시험, 62명. PMID: [14719287](https://pubmed.ncbi.nlm.nih.gov/14719287/). 근거수준: 중간. 보폐과립이 기허 증상·면역(SOD·CD3 증가, LPO 감소)·재발률 개선.
-[^10]: Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis. 임상시험, 84명. PMID: [15015439](https://pubmed.ncbi.nlm.nih.gov/15015439/). 근거수준: 중간. 가미옥평풍산 병용이 T-림프구 아형·유효율 개선.
-[^11]: Investigation and confirmatory factor analysis of information collected with the four diagnostic methods in bronchial asthma. 관찰연구, 430명. DOI: [10.3736/jcim20050508](https://doi.org/10.3736/jcim20050508). 근거수준: 중간. 천식 환자 사진 정보를 5가지 변증 유형으로 분류.
-[^12]: Bairui granules versus Reyanning granules in adults with acute bronchitis: a multicenter study. 임상시험, 162명. DOI: [10.3389/fphar.2026.1860478](https://doi.org/10.3389/fphar.2026.1860478). 근거수준: 중간. 백유과립이 풍열범폐 급성 기관지염 기침 소실률·시간 개선.
-[^13]: Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis. 임상시험, 120명. PMID: [12572381](https://pubmed.ncbi.nlm.nih.gov/12572381/). 근거수준: 중간. 커수닝과립이 담열증 급성 악화에 효과·발현 빠름.
-[^14]: Typing of bronchiectasis according to syndrome differentiation. 관찰연구, 563명. PMID: [15339407](https://pubmed.ncbi.nlm.nih.gov/15339407/). 근거수준: 중간. 기관지확장증 변증 빈도 분석(폐담열적·간화범폐·폐비기허·기음양허).
+[^6]: Pasting acupoints with Chinese herbs applying in infant acute bronchitis. 임상시험, 72명. PMID: [1288921](https://pubmed.ncbi.nlm.nih.gov/1288921/). 근거수준: 중등도. 영아 중약 부착 침법이 완치율·IgA 개선.
+[^7]: Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis. 임상시험, 77명. PMID: [17186726](https://pubmed.ncbi.nlm.nih.gov/17186726/). 근거수준: 중등도. 평천고 약침 부항이 CD4+·IFN-γ·IgA 등 면역 개선.
+[^8]: Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea. 임상시험, 1,158명. PMID: [11977523](https://pubmed.ncbi.nlm.nih.gov/11977523/). 근거수준: 중등도. 풍한형 급성 기관지염 고약 부착이 완치율 유의 상승.
+[^9]: Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule. 임상시험, 62명. PMID: [14719287](https://pubmed.ncbi.nlm.nih.gov/14719287/). 근거수준: 중등도. 보폐과립이 기허 증상·면역(SOD·CD3 증가, LPO 감소)·재발률 개선.
+[^10]: Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis. 임상시험, 84명. PMID: [15015439](https://pubmed.ncbi.nlm.nih.gov/15015439/). 근거수준: 중등도. 가미옥평풍산 병용이 T-림프구 아형·유효율 개선.
+[^11]: Investigation and confirmatory factor analysis of information collected with the four diagnostic methods in bronchial asthma. 관찰연구, 430명. DOI: [10.3736/jcim20050508](https://doi.org/10.3736/jcim20050508). 근거수준: 중등도. 천식 환자 사진 정보를 5가지 변증 유형으로 분류.
+[^12]: Bairui granules versus Reyanning granules in adults with acute bronchitis: a multicenter study. 임상시험, 162명. DOI: [10.3389/fphar.2026.1860478](https://doi.org/10.3389/fphar.2026.1860478). 근거수준: 중등도. 백유과립이 풍열범폐 급성 기관지염 기침 소실률·시간 개선.
+[^13]: Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis. 임상시험, 120명. PMID: [12572381](https://pubmed.ncbi.nlm.nih.gov/12572381/). 근거수준: 중등도. 커수닝과립이 담열증 급성 악화에 효과·발현 빠름.
+[^14]: Typing of bronchiectasis according to syndrome differentiation. 관찰연구, 563명. PMID: [15339407](https://pubmed.ncbi.nlm.nih.gov/15339407/). 근거수준: 중등도. 기관지확장증 변증 빈도 분석(폐담열적·간화범폐·폐비기허·기음양허).
 [^15]: Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol. 임상시험(프로토콜), 270명. DOI: [10.1186/s13063-022-06318-5](https://doi.org/10.1186/s13063-022-06318-5). 근거수준: 낮음. 탄열청이 담열옹폐 급성 기관지염 유효성·안전성 검증 예정.
 [^16]: Effect of Acupuncture and Moxibustion at BL 13 and LU 9 on Pulmonary Function in Patients with Bronchial Asthma. 임상시험(프로토콜), 60명. DOI: [10.1177/19336586251378193](https://doi.org/10.1177/19336586251378193). 근거수준: 낮음. 폐수·태연 침구 폐 기능·삶의 질 검증 예정.
-[^17]: Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with asthma. 임상시험, 60명. DOI: [10.5937/jomb0-56915](https://doi.org/10.5937/jomb0-56915). 근거수준: 중간. 마사지+비타민 D 병행이 IL-4·IL-5·면역·영양 개선.
-[^18]: Chinese medicinal herbs for acute bronchitis. 체계적 고찰. DOI: [10.1002/14651858.CD004560.pub2](https://doi.org/10.1002/14651858.CD004560.pub2). 근거수준: 중간. 중약이 증상 기간 단축 가능, 개별 연구 설계 한계·독성 데이터 부족.
+[^17]: Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with asthma. 임상시험, 60명. DOI: [10.5937/jomb0-56915](https://doi.org/10.5937/jomb0-56915). 근거수준: 중등도. 마사지+비타민 D 병행이 IL-4·IL-5·면역·영양 개선.
+[^18]: Chinese medicinal herbs for acute bronchitis. 체계적 고찰. DOI: [10.1002/14651858.CD004560.pub2](https://doi.org/10.1002/14651858.CD004560.pub2). 근거수준: 중등도. 중약이 증상 기간 단축 가능, 개별 연구 설계 한계·독성 데이터 부족.
 
 ## 미충족 근거 / 추가 연구 필요
 

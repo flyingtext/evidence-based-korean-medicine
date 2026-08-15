@@ -108,19 +108,19 @@
 ## Q&A
 
 **Q1. 화병에 침(鍼) 치료가 실제로 효과가 있나요?**
-사암침 심포정격(舍巖鍼 心包正格) 치료가 화병 환자의 수축기 혈압을 즉각적으로 감소시켜 상기·열감 등 증상 완화에 도움을 줄 수 있습니다.[^14] 다만 혈압·맥박 개선 효과가 장기 유지되지 않는 경향이 있어 지속적 치료가 필요합니다. 근거수준: 중간(임상시험).
+사암침 심포정격(舍巖鍼 心包正格) 치료가 화병 환자의 수축기 혈압을 즉각적으로 감소시켜 상기·열감 등 증상 완화에 도움을 줄 수 있습니다.[^14] 다만 혈압·맥박 개선 효과가 장기 유지되지 않는 경향이 있어 지속적 치료가 필요합니다. 근거수준: 중등도(임상시험).
 
 **Q2. 화병에 어떤 심리치료가 좋은가요?**
-수용전념치료(ACT)·미술치료·감정자유기법(EFT) 등이 화병 증상 및 분노·불안 개선에 효과적이며, 그룹 형태 프로그램이 유용합니다.[^6] 특히 미술 치료는 대기 명단 대조군 대비 화병 척도 점수를 유의하게 낮춥니다.[^5] 근거수준: 중간(체계적 고찰).
+수용전념치료(ACT)·미술치료·감정자유기법(EFT) 등이 화병 증상 및 분노·불안 개선에 효과적이며, 그룹 형태 프로그램이 유용합니다.[^6] 특히 미술 치료는 대기 명단 대조군 대비 화병 척도 점수를 유의하게 낮춥니다.[^5] 근거수준: 중등도(체계적 고찰).
 
 **Q3. 화병에 한약(韓藥)도 도움이 되나요?**
 화병 가이드라인에서 가감억간산(加減抑肝散)이 권고되며, 현재 신경증적 증상을 동반한 화병 환자를 대상으로 유효성·안전성을 검증하는 삼중맹검 위약 대조 임상시험이 진행 중입니다.[^17] 근거수준: 프로토콜(진행 중).
 
 **Q4. 화병 환자에게 기공이나 마음챙김이 도움이 되나요?**
-네. 마음챙김과 기공을 결합한 자기치유 훈련(MQT-SH)이 화병·우울·불안·분노를 유의하게 감소시키고 효과가 6주까지 유지되며 안전합니다.[^4][^8] 근거수준: 중간(무작위 대조 시험).
+네. 마음챙김과 기공을 결합한 자기치유 훈련(MQT-SH)이 화병·우울·불안·분노를 유의하게 감소시키고 효과가 6주까지 유지되며 안전합니다.[^4][^8] 근거수준: 중등도(무작위 대조 시험).
 
 **Q5. 화병이 심각한가요? 자살 생각과 관련이 있나요?**
-네. 화병 증상은 자살 생각의 유의미한 위험 요인이며, 특히 열감·가슴 답답함 같은 신체 증상이 자살 생각과 높은 상관관계를 보입니다.[^7] 따라서 자살 생각 여부를 반드시 평가하고, 고위험군은 조기 선별·전문 기관 의뢰가 필요합니다. 근거수준: 중간(관찰연구).
+네. 화병 증상은 자살 생각의 유의미한 위험 요인이며, 특히 열감·가슴 답답함 같은 신체 증상이 자살 생각과 높은 상관관계를 보입니다.[^7] 따라서 자살 생각 여부를 반드시 평가하고, 고위험군은 조기 선별·전문 기관 의뢰가 필요합니다. 근거수준: 중등도(관찰연구).
 
 ## 근거 요약
 
@@ -173,28 +173,28 @@
 - 중재: 침(사암침)·한약·심신요법(미술치료)·심리치료(ACT·EFT)·기공·마음챙김·디지털 치료제·VR-ETE 등이 보고된다.[^4][^5][^6][^14][^17][^19][^21]
 
 [^1]: The conceptual structure of hwa-byung in middle-aged Korean women. 관찰연구, 6명. DOI: [10.1080/0739933029008955](https://doi.org/10.1080/0739933029008955) · PMID: [12148916](https://pubmed.ncbi.nlm.nih.gov/12148916/). 근거수준: 낮음. 화병의 개념적 구조(개인 성향·사회문화·인내 기제).
-[^2]: How Suppressed Anger Can Become an Illness: A Qualitative Systematic Review of the Experiences and Perspectives of Hwabyung Patients in Korea. 체계적 고찰. DOI: [10.3389/fpsyt.2021.637029](https://doi.org/10.3389/fpsyt.2021.637029) · PMID: [34122172](https://pubmed.ncbi.nlm.nih.gov/34122172/). 근거수준: 중간. 화병 환자의 4대 핵심 경험.
+[^2]: How Suppressed Anger Can Become an Illness: A Qualitative Systematic Review of the Experiences and Perspectives of Hwabyung Patients in Korea. 체계적 고찰. DOI: [10.3389/fpsyt.2021.637029](https://doi.org/10.3389/fpsyt.2021.637029) · PMID: [34122172](https://pubmed.ncbi.nlm.nih.gov/34122172/). 근거수준: 중등도. 화병 환자의 4대 핵심 경험.
 [^3]: KCD-8 신체형 장애 분류 및 화병의 한의학적 정신과적 분류. 교과서적 근거.
-[^4]: Effectiveness of Mindfulness and Qigong Training for Self-Healing in patients with Hwabyung and depressive disorder: a randomized controlled trial. 임상시험, 64명. DOI: [10.3389/fpsyt.2025.1508937](https://doi.org/10.3389/fpsyt.2025.1508937) · PMID: [40585550](https://pubmed.ncbi.nlm.nih.gov/40585550/). 근거수준: 중간. MQT-SH가 화병·우울·불안·분노 감소.
-[^5]: Effectiveness of mind-body medicine for Hwa-Byung (a Korean cultural diagnosis of suppressed anger): A systematic review of interventional studies. 체계적 고찰. DOI: [10.1016/j.ctim.2024.103016](https://doi.org/10.1016/j.ctim.2024.103016) · PMID: [38185401](https://pubmed.ncbi.nlm.nih.gov/38185401/). 근거수준: 중간. 심신의학 중재(미술 포함)가 HB-S·우울·불안 개선.
-[^6]: Effectiveness of psychotherapy for Hwa-Byung: A systematic review of interventional studies. 체계적 고찰. DOI: [10.1097/MD.0000000000041315](https://doi.org/10.1097/MD.0000000000041315) · PMID: [39928831](https://pubmed.ncbi.nlm.nih.gov/39928831/). 근거수준: 중간. ACT·미술·EFT가 화병 증상·분노·불안 개선.
-[^7]: Hwa-byung (anger syndrome) as a risk factor for suicidal ideation in MZ generation: a survey study in South Korea. 관찰연구, 457명. DOI: [10.3389/fpsyg.2024.1461750](https://doi.org/10.3389/fpsyg.2024.1461750) · PMID: [39717473](https://pubmed.ncbi.nlm.nih.gov/39717473/). 근거수준: 중간. 화병 증상이 자살 생각 위험 요인.
+[^4]: Effectiveness of Mindfulness and Qigong Training for Self-Healing in patients with Hwabyung and depressive disorder: a randomized controlled trial. 임상시험, 64명. DOI: [10.3389/fpsyt.2025.1508937](https://doi.org/10.3389/fpsyt.2025.1508937) · PMID: [40585550](https://pubmed.ncbi.nlm.nih.gov/40585550/). 근거수준: 중등도. MQT-SH가 화병·우울·불안·분노 감소.
+[^5]: Effectiveness of mind-body medicine for Hwa-Byung (a Korean cultural diagnosis of suppressed anger): A systematic review of interventional studies. 체계적 고찰. DOI: [10.1016/j.ctim.2024.103016](https://doi.org/10.1016/j.ctim.2024.103016) · PMID: [38185401](https://pubmed.ncbi.nlm.nih.gov/38185401/). 근거수준: 중등도. 심신의학 중재(미술 포함)가 HB-S·우울·불안 개선.
+[^6]: Effectiveness of psychotherapy for Hwa-Byung: A systematic review of interventional studies. 체계적 고찰. DOI: [10.1097/MD.0000000000041315](https://doi.org/10.1097/MD.0000000000041315) · PMID: [39928831](https://pubmed.ncbi.nlm.nih.gov/39928831/). 근거수준: 중등도. ACT·미술·EFT가 화병 증상·분노·불안 개선.
+[^7]: Hwa-byung (anger syndrome) as a risk factor for suicidal ideation in MZ generation: a survey study in South Korea. 관찰연구, 457명. DOI: [10.3389/fpsyg.2024.1461750](https://doi.org/10.3389/fpsyg.2024.1461750) · PMID: [39717473](https://pubmed.ncbi.nlm.nih.gov/39717473/). 근거수준: 중등도. 화병 증상이 자살 생각 위험 요인.
 [^8]: Effectiveness of mindfulness and Qigong training for self-healing in patients with Hwabyung and depressive disorder: a protocol for a randomized controlled trial. 임상시험(프로토콜), 64명. DOI: [10.3389/fpsyt.2024.1336656](https://doi.org/10.3389/fpsyt.2024.1336656) · PMID: [38699452](https://pubmed.ncbi.nlm.nih.gov/38699452/). 근거수준: 프로토콜.
-[^9]: Hwa-Byung (Anger Syndrome) in the MZ Generation of Republic of Korea: A Survey. 관찰연구, 449명. DOI: [10.3390/jcm13226667](https://doi.org/10.3390/jcm13226667) · PMID: [39597811](https://pubmed.ncbi.nlm.nih.gov/39597811/). 근거수준: 중간. MZ세대 화병 유병률 36.3%.
-[^10]: Racial Discrimination and Hwa-byung among Foreign Residents in South Korea: a cross-sectional study. 관찰연구, 601명. DOI: [10.3831/KPI.2026.29.2.212](https://doi.org/10.3831/KPI.2026.29.2.212) · PMID: [42368508](https://pubmed.ncbi.nlm.nih.gov/42368508/). 근거수준: 중간. 인종 차별이 화병 위험 약 10.58배.
-[^11]: Mental Health and Medical Error among Nursing Staffs at Korean Medicine Clinics: a first survey in South Korea. 관찰연구, 83명. DOI: [10.3831/KPI.2024.27.3.253](https://doi.org/10.3831/KPI.2024.27.3.253) · PMID: [39350922](https://pubmed.ncbi.nlm.nih.gov/39350922/). 근거수준: 중간. 한의원 간호사 화병·의료 오류 위험.
-[^12]: Heritability of Hwabyung Symptoms in South Korean Adolescent and Young Adult Twins. 관찰연구, 1601명. DOI: [10.1017/thg.2018.40](https://doi.org/10.1017/thg.2018.40) · PMID: [29929564](https://pubmed.ncbi.nlm.nih.gov/29929564/). 근거수준: 중간. 화병 증상 유전 영향 44%.
-[^13]: Biopsychological pattern underlying the psychosomatic symptoms of patients with Hwabyung from a universal perspective. 관찰연구, 118명. DOI: [10.1186/s13030-025-00340-0](https://doi.org/10.1186/s13030-025-00340-0) · PMID: [41163073](https://pubmed.ncbi.nlm.nih.gov/41163073/). 근거수준: 중간. 중증 화병의 생물심리학적 프로파일.
-[^14]: The Effects of Sa-am Acupuncture Simpo-jeongkyeok Treatment on the Blood Pressure, Pulse Rate, and Body Temperature. 임상시험, 50명. DOI: [10.3831/KPI.2015.18.013](https://doi.org/10.3831/KPI.2015.18.013) · PMID: [26120486](https://pubmed.ncbi.nlm.nih.gov/26120486/). 근거수준: 중간. 사암침 심포정격이 수축기 혈압 즉각 감소.
-[^15]: Assessing Hwa-byung Vulnerability Using the Hwa-byung Personality Scale: a comparative study of machine learning approaches. 관찰연구, 500명. DOI: [10.3831/KPI.2024.27.4.358](https://doi.org/10.3831/KPI.2024.27.4.358) · PMID: [39741572](https://pubmed.ncbi.nlm.nih.gov/39741572/). 근거수준: 중간. 머신러닝 화병 고위험군 선별.
-[^16]: Development of a Short-Form Hwa-Byung Symptom Scale Using Machine Learning Approaches. 실험연구, 500명. DOI: [10.3390/diagnostics14212419](https://doi.org/10.3390/diagnostics14212419) · PMID: [39518385](https://pubmed.ncbi.nlm.nih.gov/39518385/). 근거수준: 중간. 2문항 단축 척도 선별(정확도 90%).
+[^9]: Hwa-Byung (Anger Syndrome) in the MZ Generation of Republic of Korea: A Survey. 관찰연구, 449명. DOI: [10.3390/jcm13226667](https://doi.org/10.3390/jcm13226667) · PMID: [39597811](https://pubmed.ncbi.nlm.nih.gov/39597811/). 근거수준: 중등도. MZ세대 화병 유병률 36.3%.
+[^10]: Racial Discrimination and Hwa-byung among Foreign Residents in South Korea: a cross-sectional study. 관찰연구, 601명. DOI: [10.3831/KPI.2026.29.2.212](https://doi.org/10.3831/KPI.2026.29.2.212) · PMID: [42368508](https://pubmed.ncbi.nlm.nih.gov/42368508/). 근거수준: 중등도. 인종 차별이 화병 위험 약 10.58배.
+[^11]: Mental Health and Medical Error among Nursing Staffs at Korean Medicine Clinics: a first survey in South Korea. 관찰연구, 83명. DOI: [10.3831/KPI.2024.27.3.253](https://doi.org/10.3831/KPI.2024.27.3.253) · PMID: [39350922](https://pubmed.ncbi.nlm.nih.gov/39350922/). 근거수준: 중등도. 한의원 간호사 화병·의료 오류 위험.
+[^12]: Heritability of Hwabyung Symptoms in South Korean Adolescent and Young Adult Twins. 관찰연구, 1601명. DOI: [10.1017/thg.2018.40](https://doi.org/10.1017/thg.2018.40) · PMID: [29929564](https://pubmed.ncbi.nlm.nih.gov/29929564/). 근거수준: 중등도. 화병 증상 유전 영향 44%.
+[^13]: Biopsychological pattern underlying the psychosomatic symptoms of patients with Hwabyung from a universal perspective. 관찰연구, 118명. DOI: [10.1186/s13030-025-00340-0](https://doi.org/10.1186/s13030-025-00340-0) · PMID: [41163073](https://pubmed.ncbi.nlm.nih.gov/41163073/). 근거수준: 중등도. 중증 화병의 생물심리학적 프로파일.
+[^14]: The Effects of Sa-am Acupuncture Simpo-jeongkyeok Treatment on the Blood Pressure, Pulse Rate, and Body Temperature. 임상시험, 50명. DOI: [10.3831/KPI.2015.18.013](https://doi.org/10.3831/KPI.2015.18.013) · PMID: [26120486](https://pubmed.ncbi.nlm.nih.gov/26120486/). 근거수준: 중등도. 사암침 심포정격이 수축기 혈압 즉각 감소.
+[^15]: Assessing Hwa-byung Vulnerability Using the Hwa-byung Personality Scale: a comparative study of machine learning approaches. 관찰연구, 500명. DOI: [10.3831/KPI.2024.27.4.358](https://doi.org/10.3831/KPI.2024.27.4.358) · PMID: [39741572](https://pubmed.ncbi.nlm.nih.gov/39741572/). 근거수준: 중등도. 머신러닝 화병 고위험군 선별.
+[^16]: Development of a Short-Form Hwa-Byung Symptom Scale Using Machine Learning Approaches. 실험연구, 500명. DOI: [10.3390/diagnostics14212419](https://doi.org/10.3390/diagnostics14212419) · PMID: [39518385](https://pubmed.ncbi.nlm.nih.gov/39518385/). 근거수준: 중등도. 2문항 단축 척도 선별(정확도 90%).
 [^17]: Study protocol for a randomized, triple-blind, placebo-controlled trial of modified Ukgan-san in patients with Hwabyung and neurotic symptoms. 임상시험(프로토콜), 104명. DOI: [10.3389/fpsyt.2026.1826882](https://doi.org/10.3389/fpsyt.2026.1826882) · PMID: [42553771](https://pubmed.ncbi.nlm.nih.gov/42553771/). 근거수준: 프로토콜. 가감억간산 RCT.
-[^18]: Evaluating the Impact of an Online Mindfulness Program on Healthcare Workers in Korean Medicine Institutions: A Two-Year Retrospective Study. 관찰연구, 23명. DOI: [10.3390/healthcare12222238](https://doi.org/10.3390/healthcare12222238) · PMID: [39595435](https://pubmed.ncbi.nlm.nih.gov/39595435/). 근거수준: 중간. 온라인 마음챙김이 화병 성격·증상 완화.
-[^19]: Digital Therapeutic for Hwa-Byung (Korean Culture-Related Anger Syndrome) Based on Acceptance and Commitment Therapy: A Pilot Feasibility Trial. 임상시험, 30명. DOI: [10.3390/healthcare14132027](https://doi.org/10.3390/healthcare14132027) · PMID: [42451037](https://pubmed.ncbi.nlm.nih.gov/42451037/). 근거수준: 중간. ACT 기반 '화프리' 예비 효과.
+[^18]: Evaluating the Impact of an Online Mindfulness Program on Healthcare Workers in Korean Medicine Institutions: A Two-Year Retrospective Study. 관찰연구, 23명. DOI: [10.3390/healthcare12222238](https://doi.org/10.3390/healthcare12222238) · PMID: [39595435](https://pubmed.ncbi.nlm.nih.gov/39595435/). 근거수준: 중등도. 온라인 마음챙김이 화병 성격·증상 완화.
+[^19]: Digital Therapeutic for Hwa-Byung (Korean Culture-Related Anger Syndrome) Based on Acceptance and Commitment Therapy: A Pilot Feasibility Trial. 임상시험, 30명. DOI: [10.3390/healthcare14132027](https://doi.org/10.3390/healthcare14132027) · PMID: [42451037](https://pubmed.ncbi.nlm.nih.gov/42451037/). 근거수준: 중등도. ACT 기반 '화프리' 예비 효과.
 [^20]: User Experience and Clinical Utility of a Smartphone-Based Application for Hwa-Byung Treatment: a protocol for a single-arm prospective pilot study. 임상시험(프로토콜), 30명. DOI: [10.3831/KPI.2026.29.1.118](https://doi.org/10.3831/KPI.2026.29.1.118) · PMID: [41953559](https://pubmed.ncbi.nlm.nih.gov/41953559/). 근거수준: 프로토콜.
 [^21]: Efficacy and Safety of Virtual Reality-Based Versus Traditional Emotion-to-Emotion Therapy for Treatment of Hwa-Byung: A Protocol for a Single-Center, Randomized, Assessor-Blind, Parallel-Group Clinical Trial. 임상시험(프로토콜), 96명. DOI: [10.3390/healthcare12232407](https://doi.org/10.3390/healthcare12232407) · PMID: [39685029](https://pubmed.ncbi.nlm.nih.gov/39685029/). 근거수준: 프로토콜. VR-ETE.
-[^22]: Racial Discrimination and Hwa-byung among Foreign Residents in South Korea: a cross-sectional study. 관찰연구, 601명. DOI: [10.3831/KPI.2026.29.2.212](https://doi.org/10.3831/KPI.2026.29.2.212) · PMID: [42368508](https://pubmed.ncbi.nlm.nih.gov/42368508/). 근거수준: 중간.
-[^23]: Development of digital therapeutics in Hwa-byung treatment: exploring innovation potential in Korean medicine through practitioner survey. 관찰연구, 864명. DOI: [10.3389/fmed.2024.1512337](https://doi.org/10.3389/fmed.2024.1512337) · PMID: [39882515](https://pubmed.ncbi.nlm.nih.gov/39882515/). 근거수준: 중간. DTx 도입 수요.
+[^22]: Racial Discrimination and Hwa-byung among Foreign Residents in South Korea: a cross-sectional study. 관찰연구, 601명. DOI: [10.3831/KPI.2026.29.2.212](https://doi.org/10.3831/KPI.2026.29.2.212) · PMID: [42368508](https://pubmed.ncbi.nlm.nih.gov/42368508/). 근거수준: 중등도.
+[^23]: Development of digital therapeutics in Hwa-byung treatment: exploring innovation potential in Korean medicine through practitioner survey. 관찰연구, 864명. DOI: [10.3389/fmed.2024.1512337](https://doi.org/10.3389/fmed.2024.1512337) · PMID: [39882515](https://pubmed.ncbi.nlm.nih.gov/39882515/). 근거수준: 중등도. DTx 도입 수요.
 
 ## 미충족 근거 / 추가 연구 필요
 
