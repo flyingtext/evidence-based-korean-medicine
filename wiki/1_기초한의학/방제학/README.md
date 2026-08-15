@@ -40,6 +40,8 @@
   - 하위 표제어: 사물탕(四物湯) · 도홍사물탕(桃紅四物湯) · 향부사물탕(香附四物湯) · 사물탕 병용 요법 · 사물탕 계열 파생 방제
 - [육미지황환(六味地黃丸, Yukmi Jihwang-hwan / Liuwei Dihuang Wan)](육미지황환(六味地黃丸).md)
   - 하위 표제어: 육미지황환(六味地黃丸) · 육미지황탕(六味地黃湯) · 육미지황과립(六味地黃顆粒) · 육미지황연질캡슐(六味地黃軟膠囊) · 금궤신기환(金匱腎氣丸)·팔미지황환(八味地黃丸)
+- [팔미지황환(八味地黃丸, Palmijihwang-hwan / Hachimijiogan)](팔미지황환(八味地黃丸).md)
+  - 하위 표제어: 팔미지황환(八味地黃丸) · 금궤신기환(金匱腎氣丸) · 하치미지오간(Hachimijiogan) · 고샤진키간(牛膝車前子八味地黃丸, Goshajinkigan)
 - [반하후박탕(半夏厚朴湯, Banhahubak-tang / Banxia Houpo Decoction)](반하후박탕(半夏厚朴湯).md)
   - 하위 표제어: 반하후박탕(半夏厚朴湯) · 가감 반하후박탕(加減半夏厚朴湯) · 한게코보쿠토(Hangekobokuto, TJ-16) · 반하후박탕 병용 요법 · 반하후박탕 유사·파생 방제
 - [생맥산(生脈散, Shengmai San / Shengmai Injection)](생맥산(生脈散, Shengmai San).md)
