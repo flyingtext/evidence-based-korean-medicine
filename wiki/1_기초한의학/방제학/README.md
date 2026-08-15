@@ -11,7 +11,9 @@
 - [사군자탕(四君子湯, Sagunja-tang)](사군자탕(四君子湯).md)
   - 하위 표제어: 사군자탕 · 가미/가감사군자탕 · 사군자탕 계열 처방(육군자탕·향사육군자탕·귀작사군자탕)
 - [육군자탕(六君子湯, Yukgunja-tang)](육군자탕(六君子湯).md)
-  - 하위 표제어: 육군자탕 · 가감육군자탕 · 향사육군자탕 · 육군자탕 계열 처방
+  - 하위 표제어: 육군자탕 · 가감육군자탕 · [향사육군자탕](향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction).md) · 육군자탕 계열 처방
+- [향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction)](향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction).md)
+  - 하위 표제어: 향사육군자탕 · 가감향사육군자탕 · 향사육군자환·제제 · 향사육군자탕 병용 요법
 - [반하사심탕(半夏瀉心湯, Banhasasim-tang / Hangeshashinto)](반하사심탕(半夏瀉心湯).md)
   - 하위 표제어: 반하사심탕 · 가감 반하사심탕 · 한게샤신토(TJ-14) · 반하사심탕 국소 제제(가글·연고) · 사심탕(瀉心湯) 계열 파생 방제
 - [소시호탕(小柴胡湯, Sosihotang / Shosaikoto / Xiaochaihu Decoction)](소시호탕(小柴胡湯).md)
