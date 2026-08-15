@@ -144,12 +144,29 @@
 | Korean Medical Treatment for Bacterial Acute Bronchitis Unresponsive to Standard Therapy | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.2.241 | 한약·전침·뜸 병행이 기침·CRP/ESR 개선 |
 | An Observational Study of 28 Cases of Herbal Treatment for COVID-19 Sequelae | 관찰연구 | 28 | 중등도 | 10.22246/jikm.2026.47.1.42 | 익기보폐탕 등이 코로나 후유증 기침·호흡곤란 개선 |
 | Immune function (serum IL-4 and IL-5), nutritional status ... in children with asthma | 임상시험 | 60 | 중등도 | 10.5937/jomb0-56915 | 마사지+비타민 D 병행이 IL-4·IL-5·영양 개선 |
+| Patients with tuberculosis associated with chronic non-specific lung diseases | 임상시험 | 159 | 중등도 | PMID 18271179 | 레이저침 병행이 경락 에너지 균형·기관지염 경과 개선 |
+| Contemporary approaches to the treatment of acute bronchitis: benefits of herbal medicine | 문헌고찰 | - | 근거 미확인 | 10.21518/ms2023-474 | 백리향·아이비·앵초 생약 제제가 기침·객담 개선 |
+| Observation on the therapeutic effect of acupoint sticking therapy for prevention of acute attack of chronic bronchitis | 임상시험 | 300 | 중등도 | PMID 17926613 | 삼복 혈위 부착이 IgA 증가·급성 악화 감소 |
+| Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction | 임상시험 | 62 | 중등도 | PMID 1773454 | 과천평탕이 증상·총 유효율·가래 점도 개선 |
+| Effect of saibokuto on mucociliary transport system in the airway | 실험연구 | - | 매우 낮음 | PMID 1554324 | 시백산이 섬모 박동·점액섬모 수송 강화 |
+| Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma | 임상시험(파일럿) | 41 | 중등도 | 10.1089/107555303322524517 | 침·지압 병행이 삶의 질(SGRQ) 개선 |
+| Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1136/aim.2009.000471 | 일본 호흡기 질환 침구 연구 검토 |
+| Recent Advances in the Management of RSV Bronchiolitis | 문헌고찰 | - | 근거 미확인 | 10.53469/jcmp.2026.08(02).12 | RSV 세기관지염 한의·서양 통합 접근 |
+| Moxibustion: Respiratory Complications | 증례 | - | 매우 낮음 | 10.1136/aim.6.2.61 | 뜸 연기가 천식·기관지염 소인에 호흡기 증상 유발 가능 |
+| Elixirium Thymi Compositum in the Treatment of Acute Bronchitis in Pediatric Patients (EXOTIC) | 임상시험(프로토콜) | 56 | 낮음 | 10.1002/ppul.71544 | 소아 급성 기관지염 약초 제제 검증 예정 |
+| Bai He Gu Jin Tang (Lily Bulb Decoction to Preserve the Metal) | 문헌고찰 | - | 근거 미확인 | 10.59565/npxr3257 | 백합고금탕이 폐·신 음허 건성 기침에 유효 |
+| Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis | 임상시험 | 325 | 중등도 | 10.3390/ph18050754 | 아이비 단일 추출물이 복합 제제보다 우월 |
+| Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children | 임상시험 | 480 | 중등도 | 10.1016/j.apsb.2024.09.001 | 금진경구액이 소아 급성 기관지염에서 비열등 |
+| The Effect of Kechuanting Acupoint Application on Symptom Control and Quality of Life in Patients with Chronic Cough | 임상시험 | 85 | 중등도 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 만성 기침 증상·삶의 질 개선 |
+| Anti-inflammatory effects of medications used for viral infection-induced respiratory diseases | 문헌고찰 | - | 근거 미확인 | 10.1016/j.resinv.2022.11.002 | 한방약이 염증 매개체·뮤신 생성 억제 |
+| Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management | 체계적 고찰 | 102,239 | 높음 | 10.1055/a-2745-1130 | 아이비 추출물이 기침 완화·폐 기능 개선·안전 |
+| Phytotherapeutic, Homeopathic Interventions and Bee Products for Pediatric Infections | 체계적 고찰 | - | 중등도 | 10.3390/nu17193137 | 소아 상기도 감염·기관지염 식물요법·벌 제품 유효 |
 
 ## 경혈/처방 연관
 
-- 경혈: 폐수(肺兪, BL13)·태연(太淵, LU9)·정천(定喘, EX-B1)·대추(大椎, GV14)·풍문(風門, BL12)·심유(心兪, BL15)[^7][^8][^16]
-- 약재/처방: 가미옥평풍산(加味玉屛風散)·보폐과립(補肺顆粒)·육미지황환(六味地黃丸)·시위용단화(十味龍膽花)·백유과립(白悠顆粒)·커수닝과립(咳速寧顆粒)·탄열청(痰熱清) 경구액[^5][^9][^10][^12][^13][^15]
-- 기타: 평천고(平喘膏) 약침 부항 · 중약 부착 침법[^6][^7]
+- 경혈: 폐수(肺兪, BL13)·태연(太淵, LU9)·정천(定喘, EX-B1)·대추(大椎, GV14)·풍문(風門, BL12)·심유(心兪, BL15)·천돌(天突, CV22)[^7][^8][^16][^22]
+- 약재/처방: 가미옥평풍산(加味玉屛風散)·보폐과립(補肺顆粒)·육미지황환(六味地黃丸)·시위용단화(十味龍膽花)·백유과립(白悠顆粒)·커수닝과립(咳速寧顆粒)·탄열청(痰熱清) 경구액·과천평탕(咳喘平湯)·시백산(柴僕湯)·금진경구액(金振口服液)·백합고금탕(百合固金湯)[^5][^9][^10][^12][^13][^15][^23][^24][^30]
+- 기타: 평천고(平喘膏) 약침 부항 · 중약 부착 침법 · 지해천정(止咳喘亭) 혈위첩부 · 아이비 추출물(EA 575)[^6][^7][^29][^31]
 
 [^1]: 기관지염의 정의·병태생리·진단·분류와 KCD-8 분류(J20~J22). 근거 미확인(교과서적 개괄).
 [^2]: Acupoint herbal patching for bronchitis: A systematic review and meta-analysis. 메타분석. DOI: [10.1097/md.0000000000029843](https://doi.org/10.1097/md.0000000000029843). 근거수준: 높음. 경혈 약물 첩부법이 단독·병용 시 치료 효과 유의 상승, 안전.
@@ -169,10 +186,26 @@
 [^16]: Effect of Acupuncture and Moxibustion at BL 13 and LU 9 on Pulmonary Function in Patients with Bronchial Asthma. 임상시험(프로토콜), 60명. DOI: [10.1177/19336586251378193](https://doi.org/10.1177/19336586251378193). 근거수준: 낮음. 폐수·태연 침구 폐 기능·삶의 질 검증 예정.
 [^17]: Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with asthma. 임상시험, 60명. DOI: [10.5937/jomb0-56915](https://doi.org/10.5937/jomb0-56915). 근거수준: 중등도. 마사지+비타민 D 병행이 IL-4·IL-5·면역·영양 개선.
 [^18]: Chinese medicinal herbs for acute bronchitis. 체계적 고찰. DOI: [10.1002/14651858.CD004560.pub2](https://doi.org/10.1002/14651858.CD004560.pub2). 근거수준: 중등도. 중약이 증상 기간 단축 가능, 개별 연구 설계 한계·독성 데이터 부족.
+[^19]: Patients with tuberculosis associated with chronic non-specific lung diseases. 임상시험, 159명. PMID: [18271179](https://pubmed.ncbi.nlm.nih.gov/18271179/). 근거수준: 중등도. 레이저침 병행이 경락 에너지 균형·기관지염 경과 개선.
+[^20]: Contemporary approaches to the treatment of acute bronchitis: benefits of herbal medicine. 문헌고찰. DOI: [10.21518/ms2023-474](https://doi.org/10.21518/ms2023-474). 근거수준: 근거 미확인. 백리향·아이비·앵초 생약 제제가 기침·객담 개선.
+[^21]: Recent Advances in the Management of RSV Bronchiolitis: A Comparative and Integrative Study of Traditional Chinese and Western Medical Approaches. 문헌고찰. DOI: [10.53469/jcmp.2026.08(02).12](https://doi.org/10.53469/jcmp.2026.08(02).12). 근거수준: 근거 미확인. RSV 세기관지염 한의·서양 통합 접근.
+[^22]: Observation on the therapeutic effect of acupoint sticking therapy for prevention of acute attack of chronic bronchitis. 임상시험, 300명. PMID: [17926613](https://pubmed.ncbi.nlm.nih.gov/17926613/). 근거수준: 중등도. 삼복 혈위 부착이 IgA 증가·급성 악화 감소.
+[^23]: Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction. 임상시험, 62명. PMID: [1773454](https://pubmed.ncbi.nlm.nih.gov/1773454/). 근거수준: 중등도. 과천평탕이 증상·총 유효율·가래 점도 개선.
+[^24]: Effect of saibokuto on mucociliary transport system in the airway--basic and clinical assessments. 실험연구+임상. PMID: [1554324](https://pubmed.ncbi.nlm.nih.gov/1554324/). 근거수준: 매우 낮음. 시백산이 섬모 박동·점액섬모 수송 강화.
+[^25]: Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma: a pilot study. 임상시험(파일럿), 41명. DOI: [10.1089/107555303322524517](https://doi.org/10.1089/107555303322524517). 근거수준: 중등도. 침·지압 병행이 삶의 질(SGRQ) 개선.
+[^26]: Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review. 체계적 고찰. DOI: [10.1136/aim.2009.000471](https://doi.org/10.1136/aim.2009.000471). 근거수준: 중등도. 일본 호흡기 질환 침구 연구 검토.
+[^27]: Moxibustion: Respiratory Complications. 증례. DOI: [10.1136/aim.6.2.61](https://doi.org/10.1136/aim.6.2.61). 근거수준: 매우 낮음. 뜸 연기가 천식·기관지염 소인에 호흡기 증상 유발 가능.
+[^28]: Elixirium Thymi Compositum in the Treatment of Acute Bronchitis in Pediatric Patients (EXOTIC): Protocol of a Randomized, Double-Blind Clinical Trial. 임상시험(프로토콜), 56명. DOI: [10.1002/ppul.71544](https://doi.org/10.1002/ppul.71544). 근거수준: 낮음. 소아 급성 기관지염 약초 제제 검증 예정.
+[^29]: Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis: A Multi-Center, Randomized, Open-Label Clinical Trial. 임상시험, 325명. DOI: [10.3390/ph18050754](https://doi.org/10.3390/ph18050754). 근거수준: 중등도. 아이비 단일 추출물이 복합 제제보다 우월.
+[^30]: Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children. 임상시험, 480명. DOI: [10.1016/j.apsb.2024.09.001](https://doi.org/10.1016/j.apsb.2024.09.001). 근거수준: 중등도. 금진경구액이 소아 급성 기관지염에서 비열등.
+[^31]: The Effect of Kechuanting Acupoint Application on Symptom Control and Quality of Life in Patients with Chronic Cough. 임상시험, 85명. DOI: [10.53469/jcmp.2025.07(11).09](https://doi.org/10.53469/jcmp.2025.07(11).09). 근거수준: 중등도. 지해천정 혈위첩부가 만성 기침 증상·삶의 질 개선.
+[^32]: Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management: An Updated Review of Clinical Evidence. 체계적 고찰, 102,239명. DOI: [10.1055/a-2745-1130](https://doi.org/10.1055/a-2745-1130). 근거수준: 높음. 아이비 추출물이 기침 완화·폐 기능 개선·안전.
+[^33]: Phytotherapeutic, Homeopathic Interventions and Bee Products for Pediatric Infections: A Scoping Review. 체계적 고찰. DOI: [10.3390/nu17193137](https://doi.org/10.3390/nu17193137). 근거수준: 중등도. 소아 상기도 감염·기관지염 식물요법·벌 제품 유효.
 
 ## 미충족 근거 / 추가 연구 필요
 
 - 급성 기관지염에 대한 중약의 근거는 체계적 고찰에서 유망한 결과를 보였으나, 개별 연구의 설계 한계와 출판 편향(publication bias) 위험이 있으며 독성 데이터가 부족해 안전성이 완전히 입증되지 않아, 표준화된 고품질 무작위 대조 시험이 필요하다.[^18]
 - 경혈 약물 첩부법(AHP)·기관지염 고약의 근거는 상당 부분 소규모 임상시험이나 메타분석에 의존하며, 일부 연구는 방법론적 질이 중간 수준이어서 표준화된 프로토콜을 적용한 대규모 시험으로 확증하는 것이 요구된다.[^2][^7][^8]
 - 만성 기관지염의 한약(보폐과립·가미옥평풍산 등) 근거는 주로 중국 임상시험에 기반하며, 변증 유형별 치료 반응과 이를 뒷받침하는 기전 연구가 더 필요하다.[^9][^10][^11]
-- 탄열청 경구액(프로토콜, 270명)·만성 기관지염 침 치료(체계적 고찰)·폐수·태연 침구 요법(프로토콜, 60명)은 결과가 나오면 급성·만성 기관지염에 대한 한의 중재의 임상 적용 근거를 크게 강화할 것으로 기대된다.[^3][^15][^16]
+- 탄열청 경구액(프로토콜, 270명)·만성 기관지염 침 치료(체계적 고찰)·폐수·태연 침구 요법(프로토콜, 60명)·소아 약초 제제(EXOTIC, 56명)는 결과가 나오면 급성·만성 기관지염에 대한 한의 중재의 임상 적용 근거를 크게 강화할 것으로 기대된다.[^3][^15][^16][^28]
+- 아이비 추출물(EA 575) 등 생약 제제는 대규모 근거(체계적 고찰, 102,239명)를 갖추고 있으나, 한의학적 변증·처방 체계와의 직접 비교 근거는 아직 부족하다.[^32]
