@@ -5,17 +5,17 @@
 
 ## 개요
 
-기관지염(氣管支炎, bronchitis)은 기관(氣管)과 기관지(氣管支) 점막의 염증성 질환으로, 급성 기관지염은 대개 바이러스 감염에 의해 발생하며 기침·객담(喀痰)·호흡곤란을 특징으로 한다. KCD-8 기준 **J20(급성 기관지염)·J21(급성 세기관지염)·J22(상세불명의 하기도 급성 감염)**에 해당한다.[^1] 한의학에서는 기관지염을 폐(肺)의 선강(宣降) 기능 실조와 풍한(風寒)·풍열(風熱)·담열(痰熱)·기허(氣虛) 등의 병리와 관련지어 변증·치료해 왔다.[^4] 최근 체계적 고찰·메타분석과 무작위 대조 시험(RCT)을 통해 중약·한약(가미옥평풍산·보폐과립·시위용단화 등), 경혈 약물도포법(한약 부착/고약), 침·부항·약침 등이 급성 및 만성 기관지염의 증상 완화와 면역 조절에 유의한 근거를 축적하고 있다.[^2][^3][^5][^6][^7][^8][^9][^10] 본 문서는 근거기반 한의학 관점에서 기관지염에 대한 한의 중재의 임상 근거를 정리한다.
+기관지염(氣管支炎, bronchitis)은 기관(氣管)과 기관지(氣管支) 점막의 염증성 질환으로, 급성 기관지염은 대개 바이러스 감염에 의해 발생하며 기침·객담(喀痰)·호흡곤란을 특징으로 한다. KCD-8 기준 **J20(급성 기관지염)·J21(급성 세기관지염)·J22(상세불명의 하기도 급성 감염)**에 해당한다.[^1] 한의학에서는 기관지염을 폐(肺)의 선강(宣降) 기능 실조와 풍한(風寒)·풍열(風熱)·담열(痰熱)·기허(氣虛) 등의 병리와 관련지어 변증·치료해 왔다.[^4] 최근 체계적 고찰·메타분석과 무작위 대조 시험(RCT)을 통해 중약·한약(가미옥병풍산·보폐과립·십미용담화 등), 경혈 약물도포법(한약 부착/고약), 침·부항·약침 등이 급성 및 만성 기관지염의 증상 완화와 면역 조절에 유의한 근거를 축적하고 있다.[^2][^3][^5][^6][^7][^8][^9][^10] 본 문서는 근거기반 한의학 관점에서 기관지염에 대한 한의 중재의 임상 근거를 정리한다.
 
 ## 하위 표제어(분류)
 
 기관지염은 유병 기간·원인·증상 양상에 따라 여러 하위 유형으로 세분된다. 각 유형은 치료 접근이 다르므로 임상에서 구분하여 접근한다.
 
-- **급성 기관지염 (acute bronchitis, KCD-8: J20)**: 대부분 바이러스 감염에 의한 급성 염증으로, 기침·발열·객담이 수주 내 호전된다. 중약(시위용단화·탄열청 등)과 경혈 약물도포법이 증상 기간을 단축시키는 데 근거를 보인다.[^2][^5][^8]
+- **급성 기관지염 (acute bronchitis, KCD-8: J20)**: 대부분 바이러스 감염에 의한 급성 염증으로, 기침·발열·객담이 수주 내 호전된다. 중약(십미용담화·담열청 등)과 경혈 약물도포법이 증상 기간을 단축시키는 데 근거를 보인다.[^2][^5][^8]
 - **급성 세기관지염 (acute bronchiolitis, KCD-8: J21)**: 주로 영유아에서 호흡기 세포융합 바이러스(RSV)에 의해 발생한다. 중약 부착 침법이 영아 급성 기관지염의 완치율·면역 개선에 근거를 보인다.[^6]
-- **만성 기관지염 (chronic bronchitis, KCD-8: J44, COPD 표현형)**: 만성적인 기침·객담이 지속되는 유형. 관해기 보폐과립·가미옥평풍산의 면역 조절과 재발률 감소에 근거가 있다.[^9][^10]
+- **만성 기관지염 (chronic bronchitis, KCD-8: J44, COPD 표현형)**: 만성적인 기침·객담이 지속되는 유형. 관해기 보폐과립·가미옥병풍산의 면역 조절과 재발률 감소에 근거가 있다.[^9][^10]
 - **만성 천식성 기관지염 (chronic asthmatic bronchitis)**: 천식과 기관지염이 중첩된 유형. 약침 부항 요법이 면역 기능(CD4+, IFN-γ, IgA) 개선에 근거를 보인다.[^7]
-- **노인성 만성 기관지염 (senile chronic bronchitis)**: 면역 저하가 동반된 노인 유형. 가미옥평풍산 병용이 세포 면역(T-림프구 아형) 개선에 근거를 보인다.[^10]
+- **노인성 만성 기관지염 (senile chronic bronchitis)**: 면역 저하가 동반된 노인 유형. 가미옥병풍산 병용이 세포 면역(T-림프구 아형) 개선에 근거를 보인다.[^10]
 
 ## 병인 병기 (病因病機)
 
@@ -52,18 +52,18 @@
 
 - **풍한범폐(風寒犯肺)**: 기침이 찬바람에 유발되고 맑은 가래·오한·무한·설박백태(舌薄白苔)·맥부긴(脈浮緊). 풍한형 급성 기관지염에서 경혈 약물도포(고약)가 특히 효과적이다.[^8]
 - **풍열범폐(風熱犯肺)**: 누런 걸쭉한 가래·발열·목건(口渴)·설홍태황(舌紅苔黃)·맥삭(脈數). 백유과립 등이 풍열범폐 증후군의 기침 소실률을 개선한다.[^12]
-- **담열옹폐(痰熱壅肺)**: 누런 농성 가래·가슴 답답함·호흡곤란. 시위용단화·커수닝과립이 담열증의 급성 악화에 효과적이다.[^5][^13]
-- **폐비기허(肺脾氣虛)·기허(氣虛)**: 완해기에 기단(氣短)·자한(自汗)·식욕부진·쉬 피로. 관해기 보폐과립·가미옥평풍산이 면역 기능과 재발률 개선에 효과적이다.[^9][^10]
+- **담열옹폐(痰熱壅肺)**: 누런 농성 가래·가슴 답답함·호흡곤란. 십미용담화·해속녕과립이 담열증의 급성 악화에 효과적이다.[^5][^13]
+- **폐비기허(肺脾氣虛)·기허(氣虛)**: 완해기에 기단(氣短)·자한(自汗)·식욕부진·쉬 피로. 관해기 보폐과립·가미옥병풍산이 면역 기능과 재발률 개선에 효과적이다.[^9][^10]
 - **폐신기허(肺腎氣虛)·기음양허(氣陰兩虛)**: 만성·노인 환자에서 나타나며, 기관지확장증 환자의 변증 유형 분석에서도 폐담열적(肺痰熱積)·간화범폐(肝火犯肺)·폐비기허(肺脾氣虛)·기음양허(氣陰兩虛) 순으로 빈도가 높았다(관찰연구, 563명).[^14]
 
 ## 치료
 
-- **중약 — 시위용단화 과립/캡슐**: 급성 기관지염과 만성 기관지염 급성 악화에서 항생제 단독 또는 병용 요법보다 총 유효율을 높이고 기침·발열·폐 수포음 개선 시간을 단축시켰다(메타분석, 2,068명).[^5]
-- **중약 — 가미옥평풍산(加味玉屛風散)**: 급성 악화 노인성 만성 기관지염 환자에서 기존 치료와 병용 시 세포 면역(T-림프구 아형)이 유의하게 개선되고 치료 유효율이 높아졌다(임상시험, 84명).[^10]
+- **중약 — 십미용담화 과립/캡슐**: 급성 기관지염과 만성 기관지염 급성 악화에서 항생제 단독 또는 병용 요법보다 총 유효율을 높이고 기침·발열·폐 수포음 개선 시간을 단축시켰다(메타분석, 2,068명).[^5]
+- **중약 — 가미옥병풍산(加味玉屛風散)**: 급성 악화 노인성 만성 기관지염 환자에서 기존 치료와 병용 시 세포 면역(T-림프구 아형)이 유의하게 개선되고 치료 유효율이 높아졌다(임상시험, 84명).[^10]
 - **한약 — 보폐과립(補肺顆粒)**: 관해기 만성 기관지염 환자에서 기허 증상을 개선하고 면역 기능(SOD·CD3 증가, LPO 감소)을 높여 재발률을 유의하게 낮췄다(임상시험, 62명).[^9]
 - **한약 — 백유과립(白悠顆粒)**: 풍열범폐증후군 급성 기관지염 성인에서 기존 과립보다 기침 소실률을 유의하게 높이고 기침 소실 시간을 단축시켰다(임상시험, 162명).[^12]
 - **한약 — 커수닝 과립(KSNG)**: 담열증을 동반한 만성 기관지염 급성 악화에서 유의한 임상 효과와 안전성을 보였으며, 대조 과립보다 효과 발현이 빨랐다(임상시험, 120명).[^13]
-- **한약 — 탄열청(痰熱清) 경구액**: 담열옹폐증 급성 기관지염 환자를 대상으로 유효성·안전성을 검증하는 무작위 대조 시험 프로토콜이 진행 중이다(임상시험, 270명).[^15]
+- **한약 — 담열청(痰熱清) 경구액**: 담열옹폐증 급성 기관지염 환자를 대상으로 유효성·안전성을 검증하는 무작위 대조 시험 프로토콜이 진행 중이다(임상시험, 270명).[^15]
 - **경혈 약물도포법(한약 부착/고약) — 전반**: 경혈 약물 첩부법(AHP)이 기관지염 환자에게 단독 또는 일반 약물과 병용 시 치료 효과를 유의하게 높였으며, 심각한 부작용 없이 안전했다(메타분석).[^2]
 - **경혈 약물도포법 — 기침·호흡곤란 고약**: 급성 기관지염의 기침·호흡곤란에 일반 서양의학적 치료보다 완치율이 유의하게 높았으며, 풍한형 환자에서 더 효과적이었다(임상시험, 1,158명).[^8]
 - **경혈 약물도포법 — 기관지염 고약**: 정천·대추·풍문·폐수·심유 등 경혈 부착이 만성 기관지염의 증상·X-선 소견을 개선하고 IgG·CD8 수치를 조절해 1년 추적에서 대조 주사 치료보다 우수했다(임상시험, 84명).[^7]
@@ -72,13 +72,13 @@
 - **침 — 만성 기관지염**: 만성 기관지염 침 치료의 유효성·안전성을 평가하는 체계적 고찰 프로토콜이 진행 중으로, 기침·가래·호흡곤란 개선과 삶의 질 향상에 대한 근거 확립이 기대된다.[^3]
 - **침·뜸 — 폐수(肺兪, BL13)·태연(太淵, LU9)**: 폐 배수혈·원혈 침구 요법이 폐 기능·삶의 질에 미치는 효과를 검증하는 무작위 대조 시험 프로토콜이 진행 중이다(임상시험, 60명).[^16]
 - **소아 보조 요법 — 마사지(지압) + 비타민 D**: 소아 천식 환자에서 기존 치료에 마사지와 비타민 D 병행 시 IL-4·IL-5 감소, 면역·영양 상태 개선, 증상 완화·재발률 감소에 기여했다(임상시험, 60명).[^17]
-- **중약 — 과천평탕(咳喘平湯, KCP)**: 만성 기관지염 환자에서 청금화담탕보다 증상 개선·총 유효율이 우수했고, 가래 점도를 낮추고 폐 환기 기능·염증 지표를 개선해 표증(表證) 동반 만성 기관지염의 청열화담(淸熱化痰) 요법으로 유용하다(임상시험, 62명).[^23]
-- **한약 — 시백산(柴僕湯, Saibokuto)**: 기도 내 섬모 박동 빈도를 증가시키고 cyclic AMP를 높여 점액섬모 수송 기능을 강화하며, 만성 기관지염·천식·기관지확장증 환자의 객담 배출을 개선하고 객담량을 유의하게 감소시켰다(실험연구+임상).[^24]
+- **중약 — 해천평탕(咳喘平湯, KCP)**: 만성 기관지염 환자에서 청금화담탕보다 증상 개선·총 유효율이 우수했고, 가래 점도를 낮추고 폐 환기 기능·염증 지표를 개선해 표증(表證) 동반 만성 기관지염의 청열화담(淸熱化痰) 요법으로 유용하다(임상시험, 62명).[^23]
+- **한약 — 시복탕(柴僕湯, Saibokuto)**: 기도 내 섬모 박동 빈도를 증가시키고 cyclic AMP를 높여 점액섬모 수송 기능을 강화하며, 만성 기관지염·천식·기관지확장증 환자의 객담 배출을 개선하고 객담량을 유의하게 감소시켰다(실험연구+임상).[^24]
 - **경혈 약물도포법 — 급성 악화 예방**: 만성 기관지염 관해기 환자에게 삼복(三伏) 시기에 대추(GV14)·정천(EX-B1)·천돌(CV22) 등 혈위에 약물 부착 요법을 시행해 한방 증상 개선과 면역 기능(IgA 증가)을 향상시키고 급성 악화 횟수를 유의하게 줄였다(임상시험, 300명).[^22]
 - **경혈 약물도포법 — 지해천정(止咳喘亭)**: 만성 기관지염·상기도 기침 증후군·감염 후 만성 기침 등 다양한 원인의 만성 기침 환자에서 증상 점수와 VAS를 유의하게 낮추고 삶의 질을 개선했다(임상시험, 85명).[^31]
 - **침 — 레이저침**: 폐결핵과 만성 기관지염을 동반한 환자에게 레이저침을 병행했을 때 경락 에너지 불균형이 개선되고 기관지염의 임상 경과가 호전되어, 동반 질환 환자의 보조 요법으로 유효하다(임상시험, 159명).[^19]
 - **침·지압 — 만성 폐쇄성 천식**: 만성 폐쇄성 천식 환자에게 표준 치료와 함께 침·지압을 병행했을 때 삶의 질(SGRQ)이 유의하게 개선되었고, 침군은 SGRQ에서, 지압군은 과민성 완화에서 뚜렷한 개선을 보였다(파일럿 임상시험, 41명).[^25]
-- **소아 — 금진경구액(金振口服液, JZOL)**: 소아 급성 기관지염 환자에서 기침·가래 증상 개선에 암브록솔·클렌부테롤 경구액과 비열등한 효과를 보였고, 호흡기·전신 불편 증상을 종합적으로 개선해 안전한 대안이 될 수 있다(임상시험, 480명).[^30]
+- **소아 — 금진구복액(金振口服液, JZOL)**: 소아 급성 기관지염 환자에서 기침·가래 증상 개선에 암브록솔·클렌부테롤 경구액과 비열등한 효과를 보였고, 호흡기·전신 불편 증상을 종합적으로 개선해 안전한 대안이 될 수 있다(임상시험, 480명).[^30]
 - **소아 — Elixirium thymi compositum**: 소아 급성 기관지염 환자를 대상으로 전통 약초 제제의 유효성·안전성을 평가하는 무작위 이중맹검 임상시험 프로토콜이 진행 중으로, 항생제 오남용을 줄이는 보완적 치료 옵션으로 기대된다(임상시험 프로토콜, 56명).[^28]
 - **생약 — 아이비 추출물(EA 575)**: 급성 기관지염에서 아이비 단일 추출물이 아이비/타임·타임/앵초 복합 제제와 비교해 비열등하며 특히 아이비/타임 복합제보다 우월한 효과를 보였고(임상시험, 325명),[^29] 소아·성인의 기침 완화와 폐 기능 개선에 효과적이며 안전성이 높다(체계적 고찰, 102,239명).[^32]
 
@@ -89,35 +89,35 @@
 ## 관리
 
 - 한의 중재(중약·한약·경혈 약물도포·부항·침)는 양방 표준 치료(증상 완화제·항생제 적응 시)의 보조적 수단으로 병행한다.[^1][^2]
-- 완해기에는 폐비·기허를 보하는 한약(보폐과립·가미옥평풍산 등)으로 재발을 예방하고, 변증에 따라 조절한다.[^9][^10]
+- 완해기에는 폐비·기허를 보하는 한약(보폐과립·가미옥병풍산 등)으로 재발을 예방하고, 변증에 따라 조절한다.[^9][^10]
 - 금연·적절한 수분 섭취·충분한 휴식을 유지하고, 감기·호흡기 감염 유행기에는 감염 예방에 주의한다.[^1] 근거 미확인(교과서적 관리 지침).
 - 고령·기저 질환 환자에서 호흡곤란·발열 지속 시 폐렴 합병증을 의심하고 즉시 의료기관을 방문하도록 안내한다.[^1] 근거 미확인(교과서적 관리 지침).
 
 ## Q&A
 
-- **Q. 급성 기관지염에 한약이 효과가 있나요?** 급성 기관지염에 대한 체계적 고찰에서 중약이 기침·발열 등 증상 기간을 단축시키고 증상 개선에 효과적일 가능성이 제시되었습니다.[^18] 시위용단화(메타분석, 2,068명)는 항생제 단독·병용 대비 총 유효율을 높이고 증상 개선 시간을 단축시켰습니다.[^5] 다만 개별 연구의 설계 한계와 출판 편향 위험으로 안전성 해석에 주의가 필요합니다.[^18]
+- **Q. 급성 기관지염에 한약이 효과가 있나요?** 급성 기관지염에 대한 체계적 고찰에서 중약이 기침·발열 등 증상 기간을 단축시키고 증상 개선에 효과적일 가능성이 제시되었습니다.[^18] 십미용담화(메타분석, 2,068명)는 항생제 단독·병용 대비 총 유효율을 높이고 증상 개선 시간을 단축시켰습니다.[^5] 다만 개별 연구의 설계 한계와 출판 편향 위험으로 안전성 해석에 주의가 필요합니다.[^18]
 - **Q. 경혈 약물도포법(한약 부착)은 어떻게 쓰이나요?** 경혈 약물 첩부법(AHP)은 기관지염에 단독 또는 일반 약물과 병용 시 효과를 유의하게 높이고 심각한 부작용 없이 안전했습니다(메타분석).[^2] 특히 풍한형 급성 기관지염의 고약 부착(임상시험, 1,158명),[^8] 만성 기관지염의 기관지염 고약(임상시험, 84명)[^7]에 근거가 있습니다.
-- **Q. 만성 기관지염에는 어떤 한약이 쓰이나요?** 변증에 따라 다릅니다. 관해기에는 보폐과립이 면역 기능(SOD·CD3 증가)과 재발률 개선(임상시험, 62명),[^9] 급성 악화 노인 환자에는 가미옥평풍산이 세포 면역 개선(임상시험, 84명)[^10]에 근거가 있습니다.
+- **Q. 만성 기관지염에는 어떤 한약이 쓰이나요?** 변증에 따라 다릅니다. 관해기에는 보폐과립이 면역 기능(SOD·CD3 증가)과 재발률 개선(임상시험, 62명),[^9] 급성 악화 노인 환자에는 가미옥병풍산이 세포 면역 개선(임상시험, 84명)[^10]에 근거가 있습니다.
 - **Q. 소아 기관지염에도 한의 치료가 가능한가요?** 영아 급성 기관지염에 중약 부착 침법이 높은 완치율과 IgA 개선을 보였으며(임상시험, 72명),[^6] 소아 천식 보조 요법으로 마사지와 비타민 D 병행이 면역·영양 상태 개선에 기여했습니다(임상시험, 60명).[^17]
 - **Q. 기관지염 환자의 한의 관리에서 주의할 점은?** 고령·면역저하·기저 폐질환 환자에서 호흡곤란·지속 발열 시 폐렴 합병증을 의심하고 즉시 의료기관 방문이 우선입니다. 한의 중재는 증상 완화·면역 조절을 위한 보조적 관리로 병행하는 것이 바람직합니다.[^1]
 
 ## 근거 요약
 
 - 경혈 약물 첩부법(AHP)이 기관지염에 단독·병용 시 치료 효과를 유의하게 높인다(메타분석).[^2]
-- 시위용단화가 급성·만성 기관지염 급성 악화에서 총 유효율을 높이고 증상 개선 시간을 단축한다(메타분석, 2,068명).[^5]
+- 십미용담화가 급성·만성 기관지염 급성 악화에서 총 유효율을 높이고 증상 개선 시간을 단축한다(메타분석, 2,068명).[^5]
 - 중약이 급성 기관지염의 증상 기간을 단축·개선할 가능성이 있다(체계적 고찰).[^18]
 - 풍한형 급성 기관지염의 고약 부착이 완치율을 높인다(임상시험, 1,158명).[^8]
 - 기관지염 고약이 만성 기관지염의 증상·면역 기능을 개선한다(임상시험, 84명).[^7]
 - 보폐과립이 관해기 만성 기관지염의 면역·재발률을 개선한다(임상시험, 62명).[^9]
-- 가미옥평풍산이 노인성 만성 기관지염의 세포 면역을 개선한다(임상시험, 84명).[^10]
+- 가미옥병풍산이 노인성 만성 기관지염의 세포 면역을 개선한다(임상시험, 84명).[^10]
 - 백유과립이 풍열범폐 급성 기관지염의 기침 소실률을 높인다(임상시험, 162명).[^12]
 - 약침 부항(평천고)이 만성 천식성 기관지염의 면역 지표를 개선한다(임상시험, 77명).[^7]
-- 과천평탕이 만성 기관지염의 증상·총 유효율을 개선한다(임상시험, 62명).[^23]
-- 시백산이 점액섬모 수송 기능을 강화해 객담 배출을 개선한다(실험연구+임상).[^24]
+- 해천평탕이 만성 기관지염의 증상·총 유효율을 개선한다(임상시험, 62명).[^23]
+- 시복탕이 점액섬모 수송 기능을 강화해 객담 배출을 개선한다(실험연구+임상).[^24]
 - 삼복 혈위 약물 부착이 만성 기관지염의 급성 악화를 예방한다(임상시험, 300명).[^22]
 - 지해천정 혈위첩부가 만성 기침의 증상·삶의 질을 개선한다(임상시험, 85명).[^31]
 - 레이저침이 결핵 동반 기관지염의 경락 에너지 균형·경과를 개선한다(임상시험, 159명).[^19]
-- 금진경구액이 소아 급성 기관지염에서 서양약과 비열등하다(임상시험, 480명).[^30]
+- 금진구복액이 소아 급성 기관지염에서 서양약과 비열등하다(임상시험, 480명).[^30]
 - 아이비 추출물(EA 575)이 급성 기관지염·기침에 효과적이고 안전하다(임상시험·체계적 고찰).[^29][^32]
 
 ## 근거 표
@@ -126,17 +126,17 @@
 |---|---|---|---|---|---|
 | Acupoint herbal patching for bronchitis: A systematic review and meta-analysis | 메타분석 | - | 높음 | 10.1097/md.0000000000029843 | 경혈 약물 첩부법이 단독·병용 시 효과 유의 상승, 안전 |
 | Acupoint herbal patching for bronchitis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000016368 | AHP 유효성·안전성 평가 프로토콜 |
-| Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta | 메타분석 | 2,068 | 높음 | 10.19540/j.cnki.cjcmm.20251103.501 | 시위용단화가 총 유효율·증상 개선 시간 개선 |
+| Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta | 메타분석 | 2,068 | 높음 | 10.19540/j.cnki.cjcmm.20251103.501 | 십미용담화가 총 유효율·증상 개선 시간 개선 |
 | Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중등도 | 10.1002/14651858.CD004560.pub2 | 중약이 증상 기간 단축 가능, 독성 데이터 부족 |
 | Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea | 임상시험 | 1,158 | 중등도 | PMID 11977523 | 풍한형 급성 기관지염 고약이 완치율 유의 상승 |
 | Clinical study on treatment of chronic bronchitis by tracheitis plaster | 임상시험 | 84 | 중등도 | PMID 12575372 | 기관지염 고약이 증상·X-선·IgG·CD8 개선, 1년 우수 |
 | Pasting acupoints with Chinese herbs applying in infant acute bronchitis | 임상시험 | 72 | 중등도 | PMID 1288921 | 영아 중약 부착 침법이 완치율·IgA 개선 |
 | Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험 | 162 | 중등도 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률·소실 시간 개선 |
-| Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis | 임상시험 | 120 | 중등도 | PMID 12572381 | 커수닝과립이 담열증 급성 악화 효과·발현 빠름 |
+| Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis | 임상시험 | 120 | 중등도 | PMID 12572381 | 해속녕과립이 담열증 급성 악화 효과·발현 빠름 |
 | Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule | 임상시험 | 62 | 중등도 | PMID 14719287 | 보폐과립이 기허·면역(SOD·CD3)·재발률 개선 |
-| Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis | 임상시험 | 84 | 중등도 | PMID 15015439 | 가미옥평풍산 병용이 T-림프구 아형 개선 |
+| Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis | 임상시험 | 84 | 중등도 | PMID 15015439 | 가미옥병풍산 병용이 T-림프구 아형 개선 |
 | Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis | 임상시험 | 77 | 중등도 | PMID 17186726 | 평천고 약침 부항이 CD4+·IFN-γ·IgA 개선 |
-| Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol | 임상시험(프로토콜) | 270 | 낮음 | 10.1186/s13063-022-06318-5 | 탄열청이 담열옹폐 급성 기관지염 검증 예정 |
+| Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol | 임상시험(프로토콜) | 270 | 낮음 | 10.1186/s13063-022-06318-5 | 담열청이 담열옹폐 급성 기관지염 검증 예정 |
 | Effect of acupuncture on chronic bronchitis | 체계적 고찰(프로토콜) | - | 낮음 | 10.1097/md.0000000000020676 | 만성 기관지염 침 치료 유효성 평가 예정 |
 | Effect of Acupuncture and Moxibustion at BL 13 and LU 9 on Pulmonary Function | 임상시험(프로토콜) | 60 | 낮음 | 10.1177/19336586251378193 | 폐수·태연 침구 폐 기능·삶의 질 검증 예정 |
 | Investigation and confirmatory factor analysis ... four diagnostic methods in bronchial asthma | 관찰연구 | 430 | 중등도 | 10.3736/jcim20050508 | 천식 환자 사진 정보 5가지 변증 유형 분류 |
@@ -147,8 +147,8 @@
 | Patients with tuberculosis associated with chronic non-specific lung diseases | 임상시험 | 159 | 중등도 | PMID 18271179 | 레이저침 병행이 경락 에너지 균형·기관지염 경과 개선 |
 | Contemporary approaches to the treatment of acute bronchitis: benefits of herbal medicine | 문헌고찰 | - | 근거 미확인 | 10.21518/ms2023-474 | 백리향·아이비·앵초 생약 제제가 기침·객담 개선 |
 | Observation on the therapeutic effect of acupoint sticking therapy for prevention of acute attack of chronic bronchitis | 임상시험 | 300 | 중등도 | PMID 17926613 | 삼복 혈위 부착이 IgA 증가·급성 악화 감소 |
-| Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction | 임상시험 | 62 | 중등도 | PMID 1773454 | 과천평탕이 증상·총 유효율·가래 점도 개선 |
-| Effect of saibokuto on mucociliary transport system in the airway | 실험연구 | - | 매우 낮음 | PMID 1554324 | 시백산이 섬모 박동·점액섬모 수송 강화 |
+| Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction | 임상시험 | 62 | 중등도 | PMID 1773454 | 해천평탕이 증상·총 유효율·가래 점도 개선 |
+| Effect of saibokuto on mucociliary transport system in the airway | 실험연구 | - | 매우 낮음 | PMID 1554324 | 시복탕이 섬모 박동·점액섬모 수송 강화 |
 | Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma | 임상시험(파일럿) | 41 | 중등도 | 10.1089/107555303322524517 | 침·지압 병행이 삶의 질(SGRQ) 개선 |
 | Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1136/aim.2009.000471 | 일본 호흡기 질환 침구 연구 검토 |
 | Recent Advances in the Management of RSV Bronchiolitis | 문헌고찰 | - | 근거 미확인 | 10.53469/jcmp.2026.08(02).12 | RSV 세기관지염 한의·서양 통합 접근 |
@@ -156,7 +156,7 @@
 | Elixirium Thymi Compositum in the Treatment of Acute Bronchitis in Pediatric Patients (EXOTIC) | 임상시험(프로토콜) | 56 | 낮음 | 10.1002/ppul.71544 | 소아 급성 기관지염 약초 제제 검증 예정 |
 | Bai He Gu Jin Tang (Lily Bulb Decoction to Preserve the Metal) | 문헌고찰 | - | 근거 미확인 | 10.59565/npxr3257 | 백합고금탕이 폐·신 음허 건성 기침에 유효 |
 | Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis | 임상시험 | 325 | 중등도 | 10.3390/ph18050754 | 아이비 단일 추출물이 복합 제제보다 우월 |
-| Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children | 임상시험 | 480 | 중등도 | 10.1016/j.apsb.2024.09.001 | 금진경구액이 소아 급성 기관지염에서 비열등 |
+| Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children | 임상시험 | 480 | 중등도 | 10.1016/j.apsb.2024.09.001 | 금진구복액이 소아 급성 기관지염에서 비열등 |
 | The Effect of Kechuanting Acupoint Application on Symptom Control and Quality of Life in Patients with Chronic Cough | 임상시험 | 85 | 중등도 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 만성 기침 증상·삶의 질 개선 |
 | Anti-inflammatory effects of medications used for viral infection-induced respiratory diseases | 문헌고찰 | - | 근거 미확인 | 10.1016/j.resinv.2022.11.002 | 한방약이 염증 매개체·뮤신 생성 억제 |
 | Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management | 체계적 고찰 | 102,239 | 높음 | 10.1055/a-2745-1130 | 아이비 추출물이 기침 완화·폐 기능 개선·안전 |
@@ -165,24 +165,24 @@
 ## 경혈/처방 연관
 
 - 경혈: 폐수(肺兪, BL13)·태연(太淵, LU9)·정천(定喘, EX-B1)·대추(大椎, GV14)·풍문(風門, BL12)·심유(心兪, BL15)·천돌(天突, CV22)[^7][^8][^16][^22]
-- 약재/처방: 가미옥평풍산(加味玉屛風散)·보폐과립(補肺顆粒)·육미지황환(六味地黃丸)·시위용단화(十味龍膽花)·백유과립(白悠顆粒)·커수닝과립(咳速寧顆粒)·탄열청(痰熱清) 경구액·과천평탕(咳喘平湯)·시백산(柴僕湯)·금진경구액(金振口服液)·백합고금탕(百合固金湯)[^5][^9][^10][^12][^13][^15][^23][^24][^30]
+- 약재/처방: 가미옥병풍산(加味玉屛風散)·보폐과립(補肺顆粒)·육미지황환(六味地黃丸)·십미용담화(十味龍膽花)·백유과립(白悠顆粒)·해속녕과립(咳速寧顆粒)·담열청(痰熱清) 경구액·해천평탕(咳喘平湯)·시복탕(柴僕湯)·금진구복액(金振口服液)·백합고금탕(百合固金湯)[^5][^9][^10][^12][^13][^15][^23][^24][^30]
 - 기타: 평천고(平喘膏) 약침 부항 · 중약 부착 침법 · 지해천정(止咳喘亭) 혈위첩부 · 아이비 추출물(EA 575)[^6][^7][^29][^31]
 
 [^1]: 기관지염의 정의·병태생리·진단·분류와 KCD-8 분류(J20~J22). 근거 미확인(교과서적 개괄).
 [^2]: Acupoint herbal patching for bronchitis: A systematic review and meta-analysis. 메타분석. DOI: [10.1097/md.0000000000029843](https://doi.org/10.1097/md.0000000000029843). 근거수준: 높음. 경혈 약물 첩부법이 단독·병용 시 치료 효과 유의 상승, 안전.
 [^3]: Effect of acupuncture on chronic bronchitis. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000020676](https://doi.org/10.1097/md.0000000000020676). 근거수준: 낮음. 만성 기관지염 침 치료 유효성·안전성 평가 예정.
 [^4]: 한의학 기관지염 변증 이론(풍한·풍열·담열·폐비기허 등). 근거 미확인(교과서적 임상 이론).
-[^5]: Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta. 메타분석, 2,068명. DOI: [10.19540/j.cnki.cjcmm.20251103.501](https://doi.org/10.19540/j.cnki.cjcmm.20251103.501). 근거수준: 높음. 시위용단화가 항생제 단독·병용 대비 총 유효율·증상 개선 시간 개선.
+[^5]: Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta. 메타분석, 2,068명. DOI: [10.19540/j.cnki.cjcmm.20251103.501](https://doi.org/10.19540/j.cnki.cjcmm.20251103.501). 근거수준: 높음. 십미용담화가 항생제 단독·병용 대비 총 유효율·증상 개선 시간 개선.
 [^6]: Pasting acupoints with Chinese herbs applying in infant acute bronchitis. 임상시험, 72명. PMID: [1288921](https://pubmed.ncbi.nlm.nih.gov/1288921/). 근거수준: 중등도. 영아 중약 부착 침법이 완치율·IgA 개선.
 [^7]: Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis. 임상시험, 77명. PMID: [17186726](https://pubmed.ncbi.nlm.nih.gov/17186726/). 근거수준: 중등도. 평천고 약침 부항이 CD4+·IFN-γ·IgA 등 면역 개선.
 [^8]: Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea. 임상시험, 1,158명. PMID: [11977523](https://pubmed.ncbi.nlm.nih.gov/11977523/). 근거수준: 중등도. 풍한형 급성 기관지염 고약 부착이 완치율 유의 상승.
 [^9]: Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule. 임상시험, 62명. PMID: [14719287](https://pubmed.ncbi.nlm.nih.gov/14719287/). 근거수준: 중등도. 보폐과립이 기허 증상·면역(SOD·CD3 증가, LPO 감소)·재발률 개선.
-[^10]: Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis. 임상시험, 84명. PMID: [15015439](https://pubmed.ncbi.nlm.nih.gov/15015439/). 근거수준: 중등도. 가미옥평풍산 병용이 T-림프구 아형·유효율 개선.
+[^10]: Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis. 임상시험, 84명. PMID: [15015439](https://pubmed.ncbi.nlm.nih.gov/15015439/). 근거수준: 중등도. 가미옥병풍산 병용이 T-림프구 아형·유효율 개선.
 [^11]: Investigation and confirmatory factor analysis of information collected with the four diagnostic methods in bronchial asthma. 관찰연구, 430명. DOI: [10.3736/jcim20050508](https://doi.org/10.3736/jcim20050508). 근거수준: 중등도. 천식 환자 사진 정보를 5가지 변증 유형으로 분류.
 [^12]: Bairui granules versus Reyanning granules in adults with acute bronchitis: a multicenter study. 임상시험, 162명. DOI: [10.3389/fphar.2026.1860478](https://doi.org/10.3389/fphar.2026.1860478). 근거수준: 중등도. 백유과립이 풍열범폐 급성 기관지염 기침 소실률·시간 개선.
-[^13]: Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis. 임상시험, 120명. PMID: [12572381](https://pubmed.ncbi.nlm.nih.gov/12572381/). 근거수준: 중등도. 커수닝과립이 담열증 급성 악화에 효과·발현 빠름.
+[^13]: Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis. 임상시험, 120명. PMID: [12572381](https://pubmed.ncbi.nlm.nih.gov/12572381/). 근거수준: 중등도. 해속녕과립이 담열증 급성 악화에 효과·발현 빠름.
 [^14]: Typing of bronchiectasis according to syndrome differentiation. 관찰연구, 563명. PMID: [15339407](https://pubmed.ncbi.nlm.nih.gov/15339407/). 근거수준: 중등도. 기관지확장증 변증 빈도 분석(폐담열적·간화범폐·폐비기허·기음양허).
-[^15]: Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol. 임상시험(프로토콜), 270명. DOI: [10.1186/s13063-022-06318-5](https://doi.org/10.1186/s13063-022-06318-5). 근거수준: 낮음. 탄열청이 담열옹폐 급성 기관지염 유효성·안전성 검증 예정.
+[^15]: Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol. 임상시험(프로토콜), 270명. DOI: [10.1186/s13063-022-06318-5](https://doi.org/10.1186/s13063-022-06318-5). 근거수준: 낮음. 담열청이 담열옹폐 급성 기관지염 유효성·안전성 검증 예정.
 [^16]: Effect of Acupuncture and Moxibustion at BL 13 and LU 9 on Pulmonary Function in Patients with Bronchial Asthma. 임상시험(프로토콜), 60명. DOI: [10.1177/19336586251378193](https://doi.org/10.1177/19336586251378193). 근거수준: 낮음. 폐수·태연 침구 폐 기능·삶의 질 검증 예정.
 [^17]: Immune function (serum IL-4 and IL-5), nutritional status, and clinical outcomes in children with asthma. 임상시험, 60명. DOI: [10.5937/jomb0-56915](https://doi.org/10.5937/jomb0-56915). 근거수준: 중등도. 마사지+비타민 D 병행이 IL-4·IL-5·면역·영양 개선.
 [^18]: Chinese medicinal herbs for acute bronchitis. 체계적 고찰. DOI: [10.1002/14651858.CD004560.pub2](https://doi.org/10.1002/14651858.CD004560.pub2). 근거수준: 중등도. 중약이 증상 기간 단축 가능, 개별 연구 설계 한계·독성 데이터 부족.
@@ -190,14 +190,14 @@
 [^20]: Contemporary approaches to the treatment of acute bronchitis: benefits of herbal medicine. 문헌고찰. DOI: [10.21518/ms2023-474](https://doi.org/10.21518/ms2023-474). 근거수준: 근거 미확인. 백리향·아이비·앵초 생약 제제가 기침·객담 개선.
 [^21]: Recent Advances in the Management of RSV Bronchiolitis: A Comparative and Integrative Study of Traditional Chinese and Western Medical Approaches. 문헌고찰. DOI: [10.53469/jcmp.2026.08(02).12](https://doi.org/10.53469/jcmp.2026.08(02).12). 근거수준: 근거 미확인. RSV 세기관지염 한의·서양 통합 접근.
 [^22]: Observation on the therapeutic effect of acupoint sticking therapy for prevention of acute attack of chronic bronchitis. 임상시험, 300명. PMID: [17926613](https://pubmed.ncbi.nlm.nih.gov/17926613/). 근거수준: 중등도. 삼복 혈위 부착이 IgA 증가·급성 악화 감소.
-[^23]: Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction. 임상시험, 62명. PMID: [1773454](https://pubmed.ncbi.nlm.nih.gov/1773454/). 근거수준: 중등도. 과천평탕이 증상·총 유효율·가래 점도 개선.
-[^24]: Effect of saibokuto on mucociliary transport system in the airway--basic and clinical assessments. 실험연구+임상. PMID: [1554324](https://pubmed.ncbi.nlm.nih.gov/1554324/). 근거수준: 매우 낮음. 시백산이 섬모 박동·점액섬모 수송 강화.
+[^23]: Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction. 임상시험, 62명. PMID: [1773454](https://pubmed.ncbi.nlm.nih.gov/1773454/). 근거수준: 중등도. 해천평탕이 증상·총 유효율·가래 점도 개선.
+[^24]: Effect of saibokuto on mucociliary transport system in the airway--basic and clinical assessments. 실험연구+임상. PMID: [1554324](https://pubmed.ncbi.nlm.nih.gov/1554324/). 근거수준: 매우 낮음. 시복탕이 섬모 박동·점액섬모 수송 강화.
 [^25]: Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma: a pilot study. 임상시험(파일럿), 41명. DOI: [10.1089/107555303322524517](https://doi.org/10.1089/107555303322524517). 근거수준: 중등도. 침·지압 병행이 삶의 질(SGRQ) 개선.
 [^26]: Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review. 체계적 고찰. DOI: [10.1136/aim.2009.000471](https://doi.org/10.1136/aim.2009.000471). 근거수준: 중등도. 일본 호흡기 질환 침구 연구 검토.
 [^27]: Moxibustion: Respiratory Complications. 증례. DOI: [10.1136/aim.6.2.61](https://doi.org/10.1136/aim.6.2.61). 근거수준: 매우 낮음. 뜸 연기가 천식·기관지염 소인에 호흡기 증상 유발 가능.
 [^28]: Elixirium Thymi Compositum in the Treatment of Acute Bronchitis in Pediatric Patients (EXOTIC): Protocol of a Randomized, Double-Blind Clinical Trial. 임상시험(프로토콜), 56명. DOI: [10.1002/ppul.71544](https://doi.org/10.1002/ppul.71544). 근거수준: 낮음. 소아 급성 기관지염 약초 제제 검증 예정.
 [^29]: Efficacy and Safety of a Single Ivy Extract Versus Two Herbal Extract Combinations in Patients with Acute Bronchitis: A Multi-Center, Randomized, Open-Label Clinical Trial. 임상시험, 325명. DOI: [10.3390/ph18050754](https://doi.org/10.3390/ph18050754). 근거수준: 중등도. 아이비 단일 추출물이 복합 제제보다 우월.
-[^30]: Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children. 임상시험, 480명. DOI: [10.1016/j.apsb.2024.09.001](https://doi.org/10.1016/j.apsb.2024.09.001). 근거수준: 중등도. 금진경구액이 소아 급성 기관지염에서 비열등.
+[^30]: Comparison of Jinzhen oral liquid and ambroxol hydrochloride and clenbuterol hydrochloride oral solution in the treatment of acute bronchitis in children. 임상시험, 480명. DOI: [10.1016/j.apsb.2024.09.001](https://doi.org/10.1016/j.apsb.2024.09.001). 근거수준: 중등도. 금진구복액이 소아 급성 기관지염에서 비열등.
 [^31]: The Effect of Kechuanting Acupoint Application on Symptom Control and Quality of Life in Patients with Chronic Cough. 임상시험, 85명. DOI: [10.53469/jcmp.2025.07(11).09](https://doi.org/10.53469/jcmp.2025.07(11).09). 근거수준: 중등도. 지해천정 혈위첩부가 만성 기침 증상·삶의 질 개선.
 [^32]: Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management: An Updated Review of Clinical Evidence. 체계적 고찰, 102,239명. DOI: [10.1055/a-2745-1130](https://doi.org/10.1055/a-2745-1130). 근거수준: 높음. 아이비 추출물이 기침 완화·폐 기능 개선·안전.
 [^33]: Phytotherapeutic, Homeopathic Interventions and Bee Products for Pediatric Infections: A Scoping Review. 체계적 고찰. DOI: [10.3390/nu17193137](https://doi.org/10.3390/nu17193137). 근거수준: 중등도. 소아 상기도 감염·기관지염 식물요법·벌 제품 유효.
@@ -206,6 +206,6 @@
 
 - 급성 기관지염에 대한 중약의 근거는 체계적 고찰에서 유망한 결과를 보였으나, 개별 연구의 설계 한계와 출판 편향(publication bias) 위험이 있으며 독성 데이터가 부족해 안전성이 완전히 입증되지 않아, 표준화된 고품질 무작위 대조 시험이 필요하다.[^18]
 - 경혈 약물 첩부법(AHP)·기관지염 고약의 근거는 상당 부분 소규모 임상시험이나 메타분석에 의존하며, 일부 연구는 방법론적 질이 중간 수준이어서 표준화된 프로토콜을 적용한 대규모 시험으로 확증하는 것이 요구된다.[^2][^7][^8]
-- 만성 기관지염의 한약(보폐과립·가미옥평풍산 등) 근거는 주로 중국 임상시험에 기반하며, 변증 유형별 치료 반응과 이를 뒷받침하는 기전 연구가 더 필요하다.[^9][^10][^11]
-- 탄열청 경구액(프로토콜, 270명)·만성 기관지염 침 치료(체계적 고찰)·폐수·태연 침구 요법(프로토콜, 60명)·소아 약초 제제(EXOTIC, 56명)는 결과가 나오면 급성·만성 기관지염에 대한 한의 중재의 임상 적용 근거를 크게 강화할 것으로 기대된다.[^3][^15][^16][^28]
+- 만성 기관지염의 한약(보폐과립·가미옥병풍산 등) 근거는 주로 중국 임상시험에 기반하며, 변증 유형별 치료 반응과 이를 뒷받침하는 기전 연구가 더 필요하다.[^9][^10][^11]
+- 담열청 경구액(프로토콜, 270명)·만성 기관지염 침 치료(체계적 고찰)·폐수·태연 침구 요법(프로토콜, 60명)·소아 약초 제제(EXOTIC, 56명)는 결과가 나오면 급성·만성 기관지염에 대한 한의 중재의 임상 적용 근거를 크게 강화할 것으로 기대된다.[^3][^15][^16][^28]
 - 아이비 추출물(EA 575) 등 생약 제제는 대규모 근거(체계적 고찰, 102,239명)를 갖추고 있으나, 한의학적 변증·처방 체계와의 직접 비교 근거는 아직 부족하다.[^32]
