@@ -129,27 +129,25 @@
 **Q5. 백출 함유 처방의 안전성은 어떤가요?**
 백출 함유 처방은 대체로 안전성이 우수한 것으로 보고됩니다. 삼령백출산은 만성 설사 치료에서 이상반응 증가가 없었고, 육군자탕은 다양한 임상 연구에서 안전성·내약성이 확인되었습니다.[^12][^6] 다만 장기 복용 시에는 개별 환자의 상태에 맞춘 용량 조절과 모니터링이 필요합니다. (근거수준: 높음)
 
-## 참고문헌
-
-- [^1]: 백출(白朮)의 보기건비·조습이수 효능 및 약리 작용 — 교과서적 근거
-- [^2]: Fufang cangzhu tang for treatment of senile obesity or overweight complicated with impaired glucose tolerance. 임상시험, PMID: [16705852](https://pubmed.ncbi.nlm.nih.gov/16705852/), 근거수준: 중등도
-- [^3]: The Effect of Sagunja Decoction on Functional Dyspepsia - A Systematic Review and Meta-Analysis. 메타분석, DOI: [10.22246/jikm.2021.42.3.259](https://doi.org/10.22246/jikm.2021.42.3.259), 근거수준: 높음
-- [^4]: Sijunzi decoction ameliorates geriatric sarcopenia by improving muscle strength. 임상시험, DOI: [10.1097/MD.0000000000047154](https://doi.org/10.1097/MD.0000000000047154), 근거수준: 중등도
-- [^5]: [Effect of sijunzi decoction on serum soluble intercellular adhesive molecule-1]. 임상시험, PMID: [11783238](https://pubmed.ncbi.nlm.nih.gov/11783238/), 근거수준: 중등도
-- [^6]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis. 메타분석, DOI: [10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414), 근거수준: 높음
-- [^7]: Efficacy and mechanisms of Xiangsha Liujunzi Decoction for gastroesophageal reflux. 메타분석, DOI: [10.1016/j.phymed.2026.157766](https://doi.org/10.1016/j.phymed.2026.157766), 근거수준: 높음
-- [^8]: Herbal Medicine Yukgunja-Tang for Functional Dyspepsia: A Protocol for a Randomized. 임상시험, DOI: [10.3390/healthcare11101456](https://doi.org/10.3390/healthcare11101456), 근거수준: 중등도
-- [^9]: The Effect of Banhabaekchulcheonma-tang on Benign Paroxysmal Positional Vertigo. 체계적 고찰, DOI: [10.22246/jikm.2021.42.4.572](https://doi.org/10.22246/jikm.2021.42.4.572), 근거수준: 높음
-- [^10]: Banxia baizhu tianma decoction, a Chinese herbal formula, for hypertension. 메타분석, DOI: [10.3389/fphar.2022.1025104](https://doi.org/10.3389/fphar.2022.1025104), 근거수준: 높음
-- [^11]: Bojungikgitang and banhabaekchulchonmatang in adult patients with tinnitus. 임상시험, DOI: [10.1186/1745-6215-11-34](https://doi.org/10.1186/1745-6215-11-34), 근거수준: 중등도
-- [^12]: Herbal Formula Shenling Baizhu San for Chronic Diarrhea in Adults: A Systematic Review. 메타분석, DOI: [10.1177/15347354221081214](https://doi.org/10.1177/15347354221081214), 근거수준: 높음
-- [^13]: Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder. 임상시험, DOI: [10.3748/wjg.v7.i5.735](https://doi.org/10.3748/wjg.v7.i5.735), 근거수준: 중등도
-- [^14]: [Effects of early intestinal application of sijunzi decoction on immune function]. 임상시험, PMID: [16398424](https://pubmed.ncbi.nlm.nih.gov/16398424/), 근거수준: 중등도
-- [^15]: Prospective, randomized, cross-over pilot study of the effects of Rikkunshito. 임상시험, DOI: [10.1007/s10637-019-00836-x](https://doi.org/10.1007/s10637-019-00836-x), 근거수준: 중등도
-- [^16]: Herbal Medicine for Cervicogenic Dizziness: A Systematic Review and Meta-Analysis. 메타분석, DOI: [10.21203/rs.3.rs-364098/v1](https://doi.org/10.21203/rs.3.rs-364098/v1), 근거수준: 높음
-- [^17]: Effects of Kampo medicine hangebyakujutsutemmato on persistent postural-perceptual dizziness. 관찰연구, DOI: [10.12998/wjcc.v10.i20.6811](https://doi.org/10.12998/wjcc.v10.i20.6811), 근거수준: 중등도
-- [^18]: A Four Ingredients Chinese Herbal Formula, Decreases the Metastatic Recurrence. 관찰연구, DOI: [10.21203/rs.3.rs-419697/v1](https://doi.org/10.21203/rs.3.rs-419697/v1), 근거수준: 중등도
-- [^19]: Traditional herbal medicine for obesity-related polycystic ovary syndrome. 메타분석, DOI: [10.3389/fphar.2025.1738172](https://doi.org/10.3389/fphar.2025.1738172), 근거수준: 높음
-- [^20]: Therapeutic potential of modified Yukgunja-tang (Liujunzi Decoction, Rikkunshito). 메타분석, DOI: [10.3389/fphar.2025.1657423](https://doi.org/10.3389/fphar.2025.1657423), 근거수준: 높음
-- [^21]: [Observation on therapeutic effect of acupuncture combined with drug]. 임상시험, PMID: [16309129](https://pubmed.ncbi.nlm.nih.gov/16309129/), 근거수준: 중등도
-- [^22]: Impact of Banhabaekchulcheonmatang (Banxia Baizhu Tianma Tang) and Hwangryeonhaedok-tang on edoxaban. 임상시험, DOI: [10.1016/j.jep.2024.118997](https://doi.org/10.1016/j.jep.2024.118997), 근거수준: 중등도
+[^1]: 백출(白朮)의 보기건비·조습이수 효능 및 약리 작용 — 교과서적 근거
+[^2]: Fufang cangzhu tang for treatment of senile obesity or overweight complicated with impaired glucose tolerance. 임상시험, PMID: [16705852](https://pubmed.ncbi.nlm.nih.gov/16705852/), 근거수준: 중등도
+[^3]: The Effect of Sagunja Decoction on Functional Dyspepsia - A Systematic Review and Meta-Analysis. 메타분석, DOI: [10.22246/jikm.2021.42.3.259](https://doi.org/10.22246/jikm.2021.42.3.259), 근거수준: 높음
+[^4]: Sijunzi decoction ameliorates geriatric sarcopenia by improving muscle strength. 임상시험, DOI: [10.1097/MD.0000000000047154](https://doi.org/10.1097/MD.0000000000047154), 근거수준: 중등도
+[^5]: [Effect of sijunzi decoction on serum soluble intercellular adhesive molecule-1]. 임상시험, PMID: [11783238](https://pubmed.ncbi.nlm.nih.gov/11783238/), 근거수준: 중등도
+[^6]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis. 메타분석, DOI: [10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414), 근거수준: 높음
+[^7]: Efficacy and mechanisms of Xiangsha Liujunzi Decoction for gastroesophageal reflux. 메타분석, DOI: [10.1016/j.phymed.2026.157766](https://doi.org/10.1016/j.phymed.2026.157766), 근거수준: 높음
+[^8]: Herbal Medicine Yukgunja-Tang for Functional Dyspepsia: A Protocol for a Randomized. 임상시험, DOI: [10.3390/healthcare11101456](https://doi.org/10.3390/healthcare11101456), 근거수준: 중등도
+[^9]: The Effect of Banhabaekchulcheonma-tang on Benign Paroxysmal Positional Vertigo. 체계적 고찰, DOI: [10.22246/jikm.2021.42.4.572](https://doi.org/10.22246/jikm.2021.42.4.572), 근거수준: 높음
+[^10]: Banxia baizhu tianma decoction, a Chinese herbal formula, for hypertension. 메타분석, DOI: [10.3389/fphar.2022.1025104](https://doi.org/10.3389/fphar.2022.1025104), 근거수준: 높음
+[^11]: Bojungikgitang and banhabaekchulchonmatang in adult patients with tinnitus. 임상시험, DOI: [10.1186/1745-6215-11-34](https://doi.org/10.1186/1745-6215-11-34), 근거수준: 중등도
+[^12]: Herbal Formula Shenling Baizhu San for Chronic Diarrhea in Adults: A Systematic Review. 메타분석, DOI: [10.1177/15347354221081214](https://doi.org/10.1177/15347354221081214), 근거수준: 높음
+[^13]: Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder. 임상시험, DOI: [10.3748/wjg.v7.i5.735](https://doi.org/10.3748/wjg.v7.i5.735), 근거수준: 중등도
+[^14]: [Effects of early intestinal application of sijunzi decoction on immune function]. 임상시험, PMID: [16398424](https://pubmed.ncbi.nlm.nih.gov/16398424/), 근거수준: 중등도
+[^15]: Prospective, randomized, cross-over pilot study of the effects of Rikkunshito. 임상시험, DOI: [10.1007/s10637-019-00836-x](https://doi.org/10.1007/s10637-019-00836-x), 근거수준: 중등도
+[^16]: Herbal Medicine for Cervicogenic Dizziness: A Systematic Review and Meta-Analysis. 메타분석, DOI: [10.21203/rs.3.rs-364098/v1](https://doi.org/10.21203/rs.3.rs-364098/v1), 근거수준: 높음
+[^17]: Effects of Kampo medicine hangebyakujutsutemmato on persistent postural-perceptual dizziness. 관찰연구, DOI: [10.12998/wjcc.v10.i20.6811](https://doi.org/10.12998/wjcc.v10.i20.6811), 근거수준: 중등도
+[^18]: A Four Ingredients Chinese Herbal Formula, Decreases the Metastatic Recurrence. 관찰연구, DOI: [10.21203/rs.3.rs-419697/v1](https://doi.org/10.21203/rs.3.rs-419697/v1), 근거수준: 중등도
+[^19]: Traditional herbal medicine for obesity-related polycystic ovary syndrome. 메타분석, DOI: [10.3389/fphar.2025.1738172](https://doi.org/10.3389/fphar.2025.1738172), 근거수준: 높음
+[^20]: Therapeutic potential of modified Yukgunja-tang (Liujunzi Decoction, Rikkunshito). 메타분석, DOI: [10.3389/fphar.2025.1657423](https://doi.org/10.3389/fphar.2025.1657423), 근거수준: 높음
+[^21]: [Observation on therapeutic effect of acupuncture combined with drug]. 임상시험, PMID: [16309129](https://pubmed.ncbi.nlm.nih.gov/16309129/), 근거수준: 중등도
+[^22]: Impact of Banhabaekchulcheonmatang (Banxia Baizhu Tianma Tang) and Hwangryeonhaedok-tang on edoxaban. 임상시험, DOI: [10.1016/j.jep.2024.118997](https://doi.org/10.1016/j.jep.2024.118997), 근거수준: 중등도
