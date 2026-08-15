@@ -22,6 +22,8 @@
   - 하위 표제어: 소청룡탕 · 소청룡탕가길경석고(小青龍湯加桔梗石膏) · 가미소청룡탕 · 쇼세이류토(TJ-19) · 소청룡탕 계열 병용 요법
 - [당귀작약산(當歸芍藥散, Dangguijagyak-san / Tokishakuyakusan / Danggui Shaoyao San)](당귀작약산(當歸芍藥散, Dangguijagyak-san).md)
   - 하위 표제어: 당귀작약산 · 토기샤쿠야쿠산(TJ-23) · 가미당귀작약산 · 당귀작약가감술유탕(TJ-38) · 당귀작약산가출계근탕 · 당귀작약탕(Tokito)
+- [반하백출천마탕(半夏白朮天麻湯, Banhabaekchulcheonma-tang / Banxia Baizhu Tianma Decoction)](반하백출천마탕(半夏白朮天麻湯).md)
+  - 하위 표제어: 반하백출천마탕 · 가감 반하백출천마탕 · 한게백출천마탕(Hangebyakujutsutemmato) · 반하백출천마탕 병용 요법 · 반하백출천마탕 유사·파생 방제
 
 ## 동음이의 분류
 
