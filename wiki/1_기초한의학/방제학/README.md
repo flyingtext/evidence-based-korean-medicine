@@ -96,6 +96,12 @@
   - 하위 표제어: 대건중탕(大建中湯) 원방 · 대건중탕 제제(Daikenchuto, TJ-100/TU-100) · 대건중탕 병용 요법 · 건중(建中) 계열 방제
 - [도홍사물탕(桃紅四物湯, Dohongsamul-tang / Taohong Siwu Decoction)](도홍사물탕(桃紅四物湯, Dohongsamul-tang).md)
   - 하위 표제어: 도홍사물탕(桃紅四物湯) 원방 · 가미도홍사물탕(加味桃紅四物湯) · 도인홍화 계열 제제 · 도홍사물탕 병용 요법
+- [마황탕(麻黃湯, Mahuang Decoction / Mao-to)](마황탕(麻黃湯, Mahuang Decoction / Mao-to).md)
+  - 하위 표제어: 마황탕 원방 · 마오토(Mao-to) · 마황 계열 파생 방제(마행석감탕·사간마황탕·마황부자세신탕) · 마황탕 병용 요법
+- [은교산(銀翹散, Yinqiao San / Eunkyo-san)](은교산(銀翹散, Yinqiao San / Eunkyo-san).md)
+  - 하위 표제어: 은교산 원방 · 은교해독제(銀翹解毒劑) 제형 · 마행석감은교산 합방 · 은교산 병용 요법
+- [곽향정기산(藿香正氣散, Gwakhyangjeonggi-san / Huoxiang Zhengqi San)](곽향정기산(藿香正氣散, Gwakhyangjeonggi-san / Huoxiang Zhengqi San).md)
+  - 하위 표제어: 곽향정기산 원방 · 곽향정기액(藿香正氣液) · 곽향정기산 제형·품질 · 곽향정기산 병용 요법
 
 ## 동음이의 분류
 
