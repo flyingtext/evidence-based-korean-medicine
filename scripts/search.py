@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """근거 기반 한의학 위키 — 논문 검색 API 자동화 스크립트.
 
-med.symbolicinfo.com /search API로 논문을 수집해 마크다운 근거 표를 생성한다.
+med.symbolicinfo.com /search API로 논문을 수집해 마크다운 각주 정의(각주 정의)를 생성한다.
 사용법:
     python3 scripts/search.py "요통" --cat clinical_trial,meta_analysis --km --human --analyzed
     python3 scripts/search.py "합곡" --per-page 50 --out /tmp/evidence.md
@@ -64,19 +64,21 @@ def fetch_all(q: str, base_params: dict, per_page: int, target: int = 0) -> list
     return items
 
 
-def evidence_row(item: dict) -> str:
-    doi = item.get("doi") or "-"
-    pmid = item.get("pmid") or "-"
+def footnote_def(idx: int, item: dict) -> str:
+    doi = item.get("doi")
+    pmid = item.get("pmid")
     cat = item.get("research_category") or ""
     label = CATEGORY_LABEL.get(cat, cat)
-    patients = item.get("patient_count")
-    patients = patients if patients else "-"
-    summary = (item.get("clinical_summary") or "").replace("|", "\\|").replace("\n", " ")
-    return f"| {item.get('title','')} | {label} | {patients} | {label} | {doi} / {pmid} | {summary} |"
+    link = ""
+    if doi:
+        link = f" DOI: [{doi}](https://doi.org/{doi})"
+    if pmid:
+        link += f" PMID: [{pmid}](https://pubmed.ncbi.nlm.nih.gov/{pmid}/)"
+    return f"[^{idx}]: {item.get('title','')}, {label}, {link}. 근거수준: 미확인."
 
 
 def main() -> int:
-    p = argparse.ArgumentParser(description="논문 검색 API로 근거 표 생성")
+    p = argparse.ArgumentParser(description="논문 검색 API로 각주 정의 생성")
     p.add_argument("q", help="검색어")
     p.add_argument("--cat", help="연구 유형 (콤마 구분)")
     p.add_argument("--km", action="store_true", help="한의학만")
@@ -107,14 +109,14 @@ def main() -> int:
     total = first.get("total", len(items))
 
     lines = [
-        f"# 근거 표: {args.q}",
+        f"# 각주 정의: {args.q}",
         "",
         f"> 검색어: `{args.q}` · 총 {total}건 · 확보 {len(items)}건 (DOI 중복 제거 후)",
         "",
-        "| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |",
-        "|---|---|---|---|---|---|",
+        "각주 마커는 본문의 문장별 인용 순서에 맞게 재배정한다.",
+        "",
     ]
-    lines += [evidence_row(it) for it in items]
+    lines += [footnote_def(i + 1, it) for i, it in enumerate(items)]
 
     out = "\n".join(lines) + "\n"
     if args.out:

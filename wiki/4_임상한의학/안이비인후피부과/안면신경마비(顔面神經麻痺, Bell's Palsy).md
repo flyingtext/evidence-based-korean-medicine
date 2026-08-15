@@ -143,40 +143,6 @@
 - 한양방 협진은 삶의 질 개선과 비용-효과성 측면에서 가치가 있다.[^8][^31]
 - 대부분의 침·한약 근거는 임상시험·관찰연구 수준이며, 일부 고품질 근거(다기관 RCT·메타분석)도 축적되고 있다.[^1][^6][^7]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Acupuncture for Bell's palsy (Cochrane) | 체계적 고찰 | 238 | 체계적 고찰 | [10.1002/14651858.CD002914.pub2](https://doi.org/10.1002/14651858.CD002914.pub2) | 침 단독·병용이 약물 단독보다 우수한 경향이나 설계 결함으로 확정적 결론 어려움 |
-| Efficacy of acupuncture and moxibustion in treating Bell's palsy (다기관 RCT) | 임상시험 | 480 | RCT | [PMID 15498373](https://pubmed.ncbi.nlm.nih.gov/15498373/) | 침뜸 단독·병행이 약물 단독보다 안면 기능 회복 유의 우수, 침뜸 단독 최고 |
-| A Method of Selecting Acupoints by Thermography | 임상시험 | 180 | RCT | [10.1142/s0192415x07005430](https://doi.org/10.1142/s0192415x07005430) | 체열 진단 기반 혈위 선택이 치료율·기간·횟수 단축에 유효 |
-| Clinical Characteristics of 802 Patients with Facial Palsy | 관찰연구 | 856 | 관찰연구 | [10.13048/jkm.23026](https://doi.org/10.13048/jkm.23026) | 과로·스트레스·추위·비만이 주요 위험요인, 위경 기능과 연관 |
-| Comparison of different acupuncture methods in post-stroke central facial paralysis (NMA) | 메타분석 | 1888 | 메타분석 | [10.3389/fneur.2026.1790069](https://doi.org/10.3389/fneur.2026.1790069) | 침+중약 병용·화침·두피침·보톡스 병용이 지표별로 효과적 |
-| Prednisolone and acupuncture in Bell's palsy (RCT protocol) | 임상시험(프로토콜) | 1200 | RCT 프로토콜 | [10.1186/1745-6215-12-158](https://doi.org/10.1186/1745-6215-12-158) | 스테로이드·침 병용 효능을 평가하기 위한 대규모 RCT 설계 |
-| Electroacupuncture combined with Qianzhengsan decoction | 관찰연구 | 90 | 관찰연구 | [10.1097/md.0000000000030740](https://doi.org/10.1097/md.0000000000030740) | 전침+견정산 병용이 반응률·안면신경 기능·근전도 지표 개선 |
-| Analysis of medical services in Korea | 관찰연구 | 4790 | 관찰연구 | [10.1186/s12913-021-07078-9](https://doi.org/10.1186/s12913-021-07078-9) | 환자의 54.4%가 한의 단독 이용, 침술이 KM 치료의 98% |
-| Summary of Japanese CPG for Bell's palsy (2023) | 가이드라인 | - | 가이드라인 | [10.1016/j.anl.2024.07.003](https://doi.org/10.1016/j.anl.2024.07.003) | 표준 용량 스테로이드 강력 권고, 침·물리치료는 약하게 권고 |
-| Safety of herbal medicine decoction for facial palsy | 관찰연구 | 3254 | 관찰연구 | [10.1016/j.imr.2025.101279](https://doi.org/10.1016/j.imr.2025.101279) | 한약 탕제 사용이 간독성·신부전 등 주요 이상반응 위험 높이지 않음 |
-| Safety of corticosteroids + herbal medicine | 관찰연구 | 1076 | 관찰연구 | [10.2147/JMDH.S522270](https://doi.org/10.2147/JMDH.S522270) | 병용 시 신장 기능 안전, 드물게 간 수치 상승 가능(간 모니터링 권장) |
-| HERB-FP: herbal medicine evaluation | 관찰연구 | 3927 | 관찰연구 | [10.1186/s12906-025-05048-w](https://doi.org/10.1186/s12906-025-05048-w) | 이기거풍산·가미보익탕 다빈도, 증상 개선 49.2%, 이상반응 1.76% |
-| Collaborative treatment Korean and Western medicine | 관찰연구 | 130 | 관찰연구 | [10.1186/s12906-025-04910-1](https://doi.org/10.1186/s12906-025-04910-1) | 한양방 협진이 삶의 질·QALY 향상 및 비용-효과적 |
-| Recovery and Recurrence in Bell's Palsy | 관찰연구 | 600 | 관찰연구 | [10.3390/medicina61071239](https://doi.org/10.3390/medicina61071239) | 초기 스테로이드가 회복 우수, 고혈압·고지혈증·당뇨가 재발 예측인자 |
-| Recurrent Bell's palsy (retrospective) | 관찰연구 | 82 | 관찰연구 | [10.13048/jkm.22016](https://doi.org/10.13048/jkm.22016) | 재발성 벨마비에 한의 치료 유효, 10~40대 효과 우수 |
-| Thread embedding acupuncture for sequelae | 임상시험 | 56 | RCT 프로토콜 | [10.1097/MD.0000000000014508](https://doi.org/10.1097/MD.0000000000014508) | 매선침의 후유증 유효성·안전성 검증 프로토콜 |
-| Ultrasound-guided Canggui Tanxue needling | 임상시험 | 64 | RCT | [10.1097/MD.0000000000049719](https://doi.org/10.1097/MD.0000000000049719) | 초음파 유도 자침이 연합운동 근육 긴장 완화·안면 기능 개선(총유효율 87.1%) |
-| Thread embedding acupuncture (facial muscle atrophy) | 임상시험 | 56 | RCT 프로토콜 | [10.21203/rs.3.rs-412106/v1](https://doi.org/10.21203/rs.3.rs-412106/v1) | 매선침이 안면표정근 위축·두께 회복 개선 평가 프로토콜 |
-| Thread embedding for facial palsy sequelae (multicenter) | 임상시험 | 142 | RCT 프로토콜 | [10.3389/fneur.2025.1668688](https://doi.org/10.3389/fneur.2025.1668688) | 전침에 매선침 병행의 유효성·안전성 다기관 검증 설계 |
-| Comparison of different acupuncture and moxibustion therapies | 체계적 고찰 | - | 체계적 고찰 | [10.1097/MD.0000000000028926](https://doi.org/10.1097/MD.0000000000028926) | 다양한 침·뜸 요법 간 치료 효과 비교 |
-| Efficacy and safety of cupping for intractable FP | 체계적 고찰 | - | 체계적 고찰 | [10.1097/MD.0000000000025388](https://doi.org/10.1097/MD.0000000000025388) | 부항 요법이 난치성 말초성 안면마비에 응용 가능 |
-| Acupoint catgut embedding for FP sequelae | 체계적 고찰 | - | 체계적 고찰 | [10.1097/MD.0000000000027769](https://doi.org/10.1097/MD.0000000000027769) | 매선침이 말초성 안면마비 후유증에 유효한 경향 |
-| Acupuncture combined with blood-letting (3-edged needle) | 임상시험 | 100 | RCT | [10.1016/s0254-6272(10)60026-x](https://doi.org/10.1016/s0254-6272(10)60026-x) | 침+삼릉침 방혈 병용이 벨마비에 유효 |
-| Blood-letting plus acupuncture for acute FP | 임상시험 | 120 | RCT | [PMID 26054203](https://pubmed.ncbi.nlm.nih.gov/26054203/) | 급성 안면마비 통증에 방혈+침 병용 효과 |
-| Clinical study of collaboration (Korean Medicine Hospital) | 관찰연구 | 195 | 관찰연구 | [10.13045/jar.2020.00115](https://doi.org/10.13045/jar.2020.00115) | 의·한 협진에서 침이 최다 사용, 조기 협진이 치료 기간에 영향 |
-| A case of Ramsay Hunt Syndrome treated with acupuncture | 증례 | 1 | 증례 | [10.1016/j.ctcp.2020.101119](https://doi.org/10.1016/j.ctcp.2020.101119) | 중증 람세이헌트증후군에 침구 치료 적용 |
-| Integrative Korean Medicine for traumatic facial palsy | 증례 | 1 | 증례 | [10.3390/healthcare11182546](https://doi.org/10.3390/healthcare11182546) | 외상성 안면마비에 한방 통합 치료 적용 |
-| Yamamoto New Scalp Acupuncture for facial palsy | 증례 | 1 | 증례 | [10.1016/j.explore.2016.02.001](https://doi.org/10.1016/j.explore.2016.02.001) | 야마모토 신두피침·호흡 운동이 안면마비 개선 |
-| Facial Chuna Manual Therapy for FP sequelae | 증례 | 2 | 증례 | [10.13045/jar.2021.00269](https://doi.org/10.13045/jar.2021.00269) | 안면 추나+침이 말초성 안면마비 후유증 개선 |
-
 ## 경혈·처방 연관
 
 - **주요 경혈**: 안면부 혈위로 사백(四白)·지창(地倉)·협거(頰車)·하관(下關)·찬죽(攢竹)·어요(魚腰)·승장(承漿)·인중(人中)·예풍(翳風)·풍지(風池) 등이 안면신경마비에 빈용된다. 예풍(翳風, TE17)과 풍지(風池, GB20)는 이개·두부 혈행 개선에 활용된다.[^25]
@@ -232,4 +198,4 @@
 
 현재 안면신경마비에 대한 한의학적 근거는 다기관 임상시험·메타분석 등 고품질 근거가 축적되고 있으나, 대부분의 침·한약 근거는 중등도 수준의 임상시험과 관찰연구에 집중되어 있다. 특히 침 치료의 효능에 대해서는 Cochrane 체계적 고찰이 "설계의 질적 결함으로 확정적 결론을 내리기 어렵다"고 밝혔으므로,[^1] 향후 배정 은폐·표본 크기·추적 관찰이 견고한 대규모 무작위대조시험과 체계적 고찰이 필요하다. 초기 스테로이드와 침·한약의 병용 효과를 규명하는 무작위 시험,[^11] 후유증(연합운동·근위축)에 대한 매선침·정밀 자침의 장기 추적 연구[^22][^24]가 더 축적된다면 한의학적 접근의 임상적 가치를 더욱 뒷받침할 수 있을 것으로 기대된다.
 
-검색 과정에서 수집된 일부 논문(뇌졸중 후 중추성 마비, 람세이헌트증후군, 외상성·백신 관련 마비 등)은 주제와 관련성이 있어 하위 표제어 및 감별 항목에 반영하였다. 실험연구·기타 문헌(예: 침의 신경해부학적 기전 등) 중 비임상적 내용은 본 근거 표에서 제외하였다.
+검색 과정에서 수집된 일부 논문(뇌졸중 후 중추성 마비, 람세이헌트증후군, 외상성·백신 관련 마비 등)은 주제와 관련성이 있어 하위 표제어 및 감별 항목에 반영하였다. 실험연구·기타 문헌(예: 침의 신경해부학적 기전 등) 중 비임상적 내용은 본 각주에서 제외하였다.

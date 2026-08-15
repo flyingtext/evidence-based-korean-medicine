@@ -93,51 +93,6 @@
 - 백령캡슐이 성인 일차성 신증후군의 요단백·신기능 지표를 개선한다(메타분석, 920명).[^37]
 - 루푸스 신염 동반 신증후군에서 통합 치료가 단독보다 유효율이 높고 재발률·부작용이 낮다(임상시험, 155명).[^11]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Efficacy and safety of Bailing Capsule for the treatment of adult primary nephrotic syndrome: a systematic review and meta-analysis of randomized controlled trials | 메타분석 | 920 | 높음 | 10.3389/fphar.2026.1798042 / 42110559 | 백령캡슐이 요단백·신기능 지표 개선, 안전성 우수 |
-| The Effect of Combination Therapy of Yukmijihwang-tang and Western Medicine on Primary Glomerulonephritis: Systemic Review and Meta-analysis | 메타분석 | - | 높음 | 10.22246/jikm.2023.44.1.12 | 육미지황탕 병용이 유효율·SCr·BUN 개선 |
-| Chinese herbal medicine (Tangshen Formula) formula treatment of patients with diabetic kidney disease: a systematic review and meta-analysis | 메타분석 | 639 | 높음 | 10.3389/fendo.2025.1522759 | 당신방이 요알부민·요단백 유의 감소 |
-| Complementary and alternative medicine-associated membranous nephropathy: a systematic review | 체계적 고찰 | 262 | 높음 | 10.1093/joneph/aajaf036 / 42148864 | CAM 관련 막성 신병증, 수은 노출·NELL-1 항체 연관 |
-| Clinical efficacy and safety of Chinese herbal medicine for the treatment of patients with early diabetic nephropathy | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000020678 | 초기 당뇨병성 신증에 중약 유효성 평가 |
-| Lupus nephritis treatment: a comprehensive overview of recent meta-analyses and future directions | 체계적 고찰 | - | 높음 | 10.1080/1750743X.2026.2705727 / 42471226 | 황기·Tripterygium 병용이 신기능 개선 |
-| [Clinical effect of shenbing mistura combined with glucocorticoid on recurrent nephrotic syndrome in children] | 임상시험 | 60 | 중등도 | - / 17121039 | 신병혼합액 병용이 재발률·IL-6·TNF-α 감소 |
-| [Observation on clinical therapeutic effect of acupoint-injection therapy combined with prednisone on nephrotic syndrome] | 임상시험 | 41 | 중등도 | - / 16419709 | 약침+프레드니손 병용이 관해율·면역 기능 개선 |
-| [Protective effects of astragali injection on tubular in patients with primary nephrotic syndrome] | 임상시험 | 60 | 중등도 | - / 16145898 | 황기주사액이 신세뇨관 보호·단백뇨 감소 |
-| The treatment of relapsing primary nephrotic syndrome in children | 임상시험 | 80 | 중등도 | 10.1631/jzus.2005.B0682 / 15973773 | Tripterygium glucosides가 CTX와 유사 효과·부작용 적음 |
-| [Clinical study on intervention of liuwei dihuang pill on hormonotherapy in treating nephrotic syndrome] | 임상시험 | - | 중등도 | - / 15768870 | 육미지황환 병용이 재발률·부작용·음허화왕 감소 |
-| [Renal tubular protection of shenqi fuzheng injection in treating primary nephrotic syndrome] | 임상시험 | 80 | 중등도 | - / 15658652 | 신기부정주사액이 신세뇨관 보호·지질 저하 |
-| [Effect of kidney-warming and astringent therapy on plasma endothelin and interleukin-2 receptor in nephrotic syndrome] | 임상시험 | 44 | 중등도 | 10.3736/jcim20040107 / 15339495 | 온신수삽법 병용이 ET·sIL-2 감소 |
-| [Therapeutic changes in nephrotic syndrome treated with yiqi huoxue jiedu decoction and corticosteroid] | 임상시험 | 87 | 중등도 | - / 1477504 | 이기활혈해독탕이 TXA2-PGI2 균형 조절 |
-| [Treatment of 100 children with infantile nephrotic syndrome by integrated TCM and Western medicine] | 임상시험 | 150 | 중등도 | - / 1477501 | 한양방 병용이 유효율·면역 기능 개선 |
-| [Clinical observation on colquhounia root tablet in treating lipid metabolism disturbance secondary to nephrotic syndrome] | 임상시험 | 96 | 중등도 | - / 12585168 | 고운나무 뿌리 정제가 지질·신기능 개선 |
-| [Study on effect of Salvia injection in treating primary nephrotic syndrome in children] | 임상시험 | 44 | 중등도 | - / 12585167 | 단삼주사액이 ET·sIL-2R 개선 |
-| Long-term effect of TCM decoctions in treatment of nephrotic syndrome | 임상시험 | 57 | 중등도 | - / 12125499 | 한약 병용이 완전 관해율 68.4%·재발률 26.3% |
-| [Assessment on application of Chinese herbs in process of corticosterone reduction in nephrotic syndrome] | 임상시험 | 120 | 중등도 | - / 11938802 | 한약 병용이 재발률·부작용 유의 감소 |
-| [Clinical observation of elderly idiopathic nephrotic syndrome treated with integrated TCM and Western medicine] | 임상시험 | 82 | 중등도 | - / 11783325 | 한양방 병용이 관해율·부작용 개선 |
-| [Clinical observation of tiaojining recipe in combination with corticosterone in infantile primary nephrotic syndrome] | 임상시험 | 60 | 중등도 | - / 11783307 | 조정녕방 병용이 요단백 소실 시간 단축 |
-| Effects of the integrated TCM-WM treatment of nephrotic syndrome on growth and sexual development | 임상시험 | 81 | 중등도 | - / 10921164 | 한약 병용이 성장·성적 발달 지연 감소 |
-| [Clinical study on improving effect of Buyang Huanwu decoction on primary nephrotic syndrome] | 임상시험 | 70 | 중등도 | - / 11475715 | 보양환오탕 병용이 완전 관해율 62.9% |
-| [Clinical observation on nephrotic syndrome of lupus nephritis treated with integrated TCM and Western Medicine] | 임상시험 | 155 | 중등도 | - / 11475716 | 통합 치료가 유효율 95%·재발률·부작용 낮음 |
-| Study of the Therapeutic Effects of Chinese Herbal Decoction Combined with Glucocorticoid in Treating Primary Nephrotic Syndrome in Children | 임상시험 | 70 | 중등도 | 10.1155/2021/4434504 | 육미지황환 병용이 요단백·지질·면역 개선 |
-| Efficacy and safety of Abelmoschus manihot for primary glomerular disease: a prospective, multicenter randomized controlled clinical trial | 임상시험 | 417 | 높음 | 10.1053/j.ajkd.2014.01.431 / 24631042 | 황규이 캡슐이 단백뇨 유의 감소 |
-| Yi-Shen-Hua-Shi granule added to supportive care reduces proteinuria in IgA nephropathy | 임상시험 | 97 | 중등도 | 10.1080/0886022X.2026.2646430 / 42087286 | 이신화석과립이 단백뇨 유의 감소 |
-| Effects of Modified Jianpi Qushi Heluo Decoction on Scores of TCM Syndromes, 24h Urinary Albumin, and Plasma Albumin in IMN of Spleen-Kidney Qi Deficiency | 임상시험 | 84 | 중등도 | 10.1155/2022/6061709 | 가감건비거습합락탕이 요단백·알부민 개선 |
-| Herbal Medicine "Shulifenxiao" Formula for Nephrotic Syndrome of Refractory Idiopathic Membranous Nephropathy | 관찰연구 | 31 | 중등도 | 10.3389/fphar.2021.675406 | 수리분소 처방이 24개월 90.9% 관해 |
-| [Long-term effect of Schonlein-Henoch nephritis with nephritic-nephrotic syndrome in children] | 관찰연구 | 21 | 중등도 | - / 1421973 | 한양방 병용이 장기 예후 양호 |
-| Improvement in lupus nephritis following treatment with a Chinese herbal preparation | 증례 | 13 | 낮음 | 10.1001/archpedi.153.8.850 / 10437759 | 중약 처방이 루푸스 신염 관해 유도 |
-| Remission Induced by Shichimotsukokato in an Older Adult With Nephrotic Syndrome Secondary to Diabetic Kidney Disease | 증례 | 1 | 낮음 | 10.7759/cureus.81115 / 40276452 | 칠미출건강탕이 당뇨병성 신증 관해 유도 |
-| A Case Report on Acupuncture and Moxibustion Treatment of a Patient with Immunoglobulin A Nephropathy | 증례 | 1 | 낮음 | 10.22246/jikm.2022.43.5.1037 | 복부 침·뜸이 단백뇨 유의 감소 |
-| Boi-Ogi-To, a Traditional Japanese Kampo Medicine, Promotes Cellular Excretion of Chloride and Water | 실험연구 | 28 | 낮음 | 10.1096/fj.202403278R / 40341625 | 방이황기탕이 VSOR 채널 활성화로 이뇨 |
-| The explanation on the essence of Qi & Blood at meridians theory | 실험연구 | - | 낮음 | 10.21203/rs.3.rs-56591/v1 | SP6·KI3 광자극이 신증후군 치료 가능성 |
-| The primo vascular system is the substance of meridians | 실험연구 | - | 낮음 | 10.21203/rs.3.rs-55227/v1 | 프리모 혈관계가 경락의 실체 |
-| Herbal treatment for renal diseases | 문헌고찰 | - | 중등도 | - / 15726219 | 황기 등이 항염증·TGF-β 억제로 신장 보호 |
-| Chinese Herbal Medicine in the Treatment of Chronic Kidney Disease: A Narrative Review | 문헌고찰 | - | 중등도 | 10.5812/ijpr-165904 / 41347220 | 중약이 항염증·항섬유화·면역 조절 |
-| Mechanisms underlying acupuncture therapy in chronic kidney disease | 문헌고찰 | - | 중등도 | 10.3389/fneph.2022.1006506 / 37675019 | 침이 산화 스트레스·염증·족세포 보호 |
-| Acupuncture for diabetic nephropathy: mechanisms, clinical evidence, and future perspectives | 문헌고찰 | - | 중등도 | 10.3389/fendo.2025.1335495 / 41323976 | 침이 단백뇨·신기능 개선에 보조 효과 |
-
 ## 경혈/처방 연관
 
 - 경혈: 삼음교(SP6)·태계(KI3)·족삼리(ST36)·음릉천(SP9)·신수(BL23)·비수(BL20)
@@ -192,6 +147,6 @@
 
 ## 검색에서 제외된 논문
 
-- 아유르베다 접근(건선 동반 신장 염증 지표 증례)은 신증후군 본 주제와 간접 관련이거나 다른 질환을 다루어 근거 표에서 제외하였다.
+- 아유르베다 접근(건선 동반 신장 염증 지표 증례)은 신증후군 본 주제와 간접 관련이거나 다른 질환을 다루어 각주에서 제외하였다.
 - 아리스톨로크산 신병증(AAN)·중약 유발 신독성 관련 증례는 안전성 경고 차원에서 관리 섹션에 반영하고, 치료 근거로는 사용하지 않았다.
 - 비한의학적 관점의 신증후군 약물(스테로이드·면역억제제) 단독 연구는 대조군 근거로만 활용하고, 한의 중재와의 병용 효과를 중심으로 서술하였다.

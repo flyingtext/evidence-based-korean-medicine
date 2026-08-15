@@ -8,7 +8,7 @@
 
 ## 하위 표제어(분류)
 
-경락은 단일 질환보다는 **여러 질환·치료법에 공통으로 적용되는 이론 체계**로, 임상 적용 관점에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·근거 표에 상세히 서술한다.
+경락은 단일 질환보다는 **여러 질환·치료법에 공통으로 적용되는 이론 체계**로, 임상 적용 관점에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·각주에 상세히 서술한다.
 
 - **경락의 생물물리학적 특성**: 경혈·경락의 전기적·열적·자기적 특성이 비경혈점과 구별되는지에 대한 실험·관찰 근거.[^3][^4]
 - **경락의 해부학적 실체**: 근막(筋膜)·결합조직·혈관 구조와 경락 경로의 연관성.[^5][^6]
@@ -27,7 +27,7 @@
 - **열적 특성**: 경락을 따라 조직의 열전도율이 비경락 부위보다 높고 특정 방향성을 가진다는 실험 근거가 있으며,[^15] 적외선 열화상으로 경락 경로를 따라 열 방사 트랙이 관찰되기도 한다.[^16] 다만 적외선 열화상으로 경락을 시각화하려던 일부 연구는 관찰된 구조가 기술적 아티팩트일 수 있음을 지적한다.[^17]
 - **신경생리학적 기전**: 서로 다른 경락에 속한 경혈 자극이 뇌의 특정 영역을 선택적으로 활성화하거나 억제함을 보여주는 fMRI 연구가 있으며,[^11] 침 치료가 특정 경락의 전기적 활성도(Ryodoraku scores)를 조절한다는 관찰도 있다.[^18]
 
-> 생물물리·해부·신경 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 근거 표에서 구분한다.
+> 생물물리·해부·신경 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
 
 ## 근거 요약
 
@@ -42,60 +42,6 @@
 - **경락 현상의 존재와 임상 활용**: 체계적 고찰에서 경락의 물리적 구조는 미규명이나 경락 현상의 존재는 충분히 확인되었으며,[^35] 침·전침이 심혈관 질환 증상 개선에,[^36] 족양명위경 혈위가 기능성 위장관 장애에 핵심적으로 활용된다는 근거가 정리되었다.[^37] 경락을 정보 전달 체계로 통합 이해하는 현대적 이론도 제시된다.[^38]
 
 > AI 요약(answer/clinical_summary)과 원문을 대조 후 요약하였다. 일부 수치·비율은 원문 데이터를 참고한 것이다.
-
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Biophysical Characteristics of Meridians and Acupoints: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1155/2012/793841 | 경락·경혈이 전기·열·자기적 특성에서 비경혈점과 구별되는 객관적 특성 보유. 침구 치료의 과학적 근거 |
-| Traditional Chinese medicine interventions based on meridian theory for pain relief in primary dysmenorrhea | 메타분석 | 3903 | 높음 | 10.3389/fmed.2024.1453609 | 경락 기반 지압·온침·뜸·침이 생리통 통증 완화에 NSAIDs·대기군보다 유의하게 효과적·안전 |
-| Visualization of the Meridian System Based on Biomedical Information about Acupuncture Treatment for Low Back Pain | 체계적 고찰 | - | 중등도 | 10.1155/2013/872142 | 요통 치료 경혈 데이터를 3D 인체 모델로 시각화. 근위·원위 취혈의 임상 활용 양상 확인 |
-| Application of acupoints and meridians for the treatment of primary dysmenorrhea | 체계적 고찰 | - | 중등도 | 10.1155/2015/752194 | 데이터 마이닝으로 생리통 핵심 혈위(삼음교 SP6·관원 CV4·기해 CV6) 확인. 임맥·비경·방광경 특이혈 활용 |
-| A Data Mining Study for Analysis of Acupoint Selection and Combinations in Acupuncture Treatment for Carpal Tunnel Syndrome | 체계적 고찰 | - | 중등도 | 10.2147/JPR.S452618 | 수근관 증후군 침 치료 시 대릉(PC7)·내관(PC6)·합곡(LI4) 등 심포경·대장경 조합이 핵심 |
-| The evidence for Shiatsu: a systematic review of Shiatsu and acupressure | 체계적 고찰 | - | 중등도 | 10.1186/1472-6882-11-88 | 지압이 생리통·요통·분만통·수술 후 오심·노인 수면 개선에 유익. Shiatsu는 근거 부족 |
-| Acupuncture therapy for stable angina pectoris: a systematic review and meta-analysis | 메타분석 | 1026 | 중등도 | 10.21203/rs.3.rs-28595/v1 | 질환 영향 경락(DAM) 침 치료가 협심증 중증도·삶의 질·운동 능력 개선. 비영향 경락보다 유효 |
-| Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collaterals | 임상시험 | 60 | 중등도 | PMID 17663100 | 담음-어혈-경락폐색형 고혈압에 특정 혈위 침 병행이 혈압·지질·CRP 유의 개선 |
-| Observation on the therapeutic effect of warming needle moxibustion on lumbar disc herniation | 임상시험 | 78 | 중등도 | PMID 17585670 | 요추 추간판 탈출증에 온침 병행이 유효율 유의 상승. 경락 감각 전파(침감) 유도가 효과 극대화 |
-| Effects of Ziwuliuzhu combined selection of the source point and the collateral point | 임상시험 | 90 | 중등도 | PMID 17117568 | 자오유주법과 원혈·낙혈 조합 침이 스포츠 부상 통증·증상 개선에 우수. 경락 불균형 회복 |
-| Clinical research on nourishing yin and unblocking meridians recipe combined with narcotic analgesics | 임상시험 | 84 | 중등도 | 10.1007/BF02836518 | 음허·경락폐색형 암성 통증에 자음통락방 병용이 진통제 단독보다 통증 완화·삶의 질 개선 |
-| Clinical study on treatment of fibromyalgia syndrome with penetration needling | 임상시험 | 38 | 중등도 | PMID 16312890 | 독맥·방광경 1·2선 관통 자침이 섬유근육통에 아미트립틸린보다 효과적·유지율 높음 |
-| Effects of myofascial-meridian stimulation therapy (MMST) on shoulder pain | 임상시험 | 50 | 중등도 | 10.1080/00207450590914527 | 근막-경락 자극 요법이 어깨 통증·가동범위 개선. 관절낭 패턴 환자에서 효과 유의 |
-| The effects of abdominal meridian massage on constipation among CVA patients | 임상시험 | 31 | 중등도 | 10.4040/jkan.2005.35.1.135 | 복부 경락 마사지가 CVA 환자 배변 횟수 증가·변비 심각도 감소 |
-| The Effects of Abdominal Meridian Massage on Abdominal Distention, Pain after Colonoscopy | 임상시험 | 54 | 중등도 | 10.7739/jkafn.2022.29.1.12 | 대장내시경 후 복부 경락 마사지가 팽만감·복부 둘레 감소, 장음 회복·가스 배출 단축 |
-| Effectiveness of acupressure in improving dyspnoea in chronic obstructive pulmonary disease | 임상시험 | 44 | 중등도 | 10.1046/j.1365-2648.2003.02886.x | 진짜 혈위 지압이 COPD 호흡곤란·폐 기능·보행·불안 유의 개선 |
-| Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia | 임상시험 | 70 | 중등도 | 10.3727/036012916x14666839504550 | 삼음교(SP6) 침이 폐·심포·심·소장·삼초·비·방광·위경 전기전도도 유의 변화. 불면 개선 |
-| Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndromes | 임상시험 | 60 | 중등도 | 10.3727/036012921x16207330235374 | 경락 변증 기반 전침이 무릎 골관절염 WOMAC 통증·총점 유의 감소 |
-| A Comparative Study on the Immediate Impact of Balance Meridian and Electroacupuncture | 임상시험 | 80 | 중등도 | 10.1177/19336586261419872 | 균형경락침법(BMA)이 만성 요통에 전침보다 즉각적·우수한 통증 감소·가동범위 개선 |
-| Analysis on the channel state in 45 patients with acute sport injury | 관찰연구 | 45 | 낮음 | PMID 17580444 | 급성 스포츠 손상이 손상 부위 경락뿐 아니라 원혈 전반·심포경 등 전신 경락 불균형 유발 |
-| Study on relationship between the C-V curve of the source points and cold-heat | 관찰연구 | 120 | 낮음 | PMID 17378200 | C-V 곡선 곡률로 경락 한열 상태 정량 진단 가능. 곡률 크면 열, 작으면 한 |
-| A study of electrical conductance of meridian in the obese | 관찰연구 | 40 | 낮음 | 10.1142/S0192415X04002077 | 경락 전기전도도가 BMI와 강한 상관. 비만 체중 변화 모니터링 지표로 활용 가능 |
-| Clinical Observation on Distribution Characteristics of Acupoints in BPH | 관찰연구 | - | 낮음 | 10.54097/qc29v637 | BPH 환자에서 신경 분절(T10-S2)·족소음신경·족태양방광경 따라 압통 혈위 높게 분포 |
-| Appearance of Human Meridian-Like Structure and Acupoints and Its Characteristics | 관찰연구 | 30 | 낮음 | 10.1142/s0192415x07004771 | 적외선 열화상으로 경락 경로 열 방사 트랙 관찰. 시간적 리듬 변화. 비침습 진단 도구 가능성 |
-| Electrical skin impedance at acupuncture points | 실험연구 | 20 | 낮음 | 10.1089/acm.2007.6258 | 특정 경혈(GB14·PC8·TE1) 전기 임피던스가 주변보다 낮지 않음. 저저항 가설에 의문 제기 |
-| Study on brain response to acupuncture by functional magnetic resonance imaging | 실험연구 | 14 | 중등도 | PMID 17186721 | 서로 다른 경락 경혈 자극이 뇌 특정 영역 선택적 활성화·억제. 경혈별 뇌 반응 차이 |
-| Study on vascular morphology of integument tissues of the channel area | 실험연구 | 12 | 중등도 | PMID 17036483 | 다리 경락 구역 따라 혈관 분포 밀도 높고 영양 혈관 사슬 형성. 경락의 혈관 구조 연관 |
-| Effects of acupuncture on potential along meridians of healthy subjects | 실험연구 | 40 | 중등도 | 10.1142/S0192415X05003478 | 위장 질환 환자에서 위경 전위 낮고 좌우 불균형. 경락 전위의 진단적 활용 가능성 |
-| Comparison of the thermal conductivity of the related tissues along the meridian | 실험연구 | 40 | 중등도 | PMID 16309135 | 경락 따라 조직 열전도율이 비경락보다 높고 방향성. 경락의 물리적 실체 근거 |
-| Acupoints and meridians: a histochemical study | 실험연구 | 48 | 중등도 | PMID 16038382 | 경혈·경락 부위가 MPS·콜라겐·신경 말단 분포에서 구조적·생화학적 차이 |
-| Infrared thermography fails to visualize stimulation-induced meridian-like structures | 실험연구 | 6 | 낮음 | 10.1186/1475-925X-4-38 | 적외선 열화상으로 관찰된 경락 유사 구조가 기술적 아티팩트일 수 있음. 시각화 한계 지적 |
-| Acupuncture treatment of compression neuropathy of the radial nerve | 증례 | 1 | 낮음 | 10.1089/acm.2005.11.167 | 요골신경 압박 손목 하수에 폐경·대장경 원혈·낙혈 조합 침이 완전 기능 회복 |
-| Practical application of meridian acupuncture treatment for trigeminal neuralgia | 증례 | 10 | 낮음 | PMID 1392684 | 경락침·뜸이 삼차신경통 50% 완전 소실, 나머지도 통증 감소 |
-| Observation on 63 cases of facial paralysis treated with acupuncture | 증례 | 63 | 낮음 | PMID 1288929 | 안면신경마비에 변증 가감 침·약침 병행이 효과적. 반응 낮으면 비타민 병행 |
-| The clustered needling, massage and cupping used for treatment of obstinate myofascitis | 증례 | 68 | 낮음 | PMID 17710806 | 등 난치성 근막염에 침·마사지·부항 병행이 혈액순환 촉진·근육 이완 통해 유의 효과 |
-| Explanation of essence and substance basis of channels and collaterals | 고찰 | - | 중등도 | PMID 17853756 | 경락 체계를 근막학·결합조직 관점에서 해석. 생물학적 근거 제시 |
-| Summarization of professor He Pu-ren's channel syndrome differentiation | 고찰 | - | 중등도 | PMID 17722833 | 경락변증은 체표 경락 부위·연결 장부·기혈 상태 종합 분석. 난치성 질환 치료법 |
-| Clinical application of acupoint heat-sensitization | 고찰 | - | 중등도 | PMID 17432648 | 질환 시 혈위가 열 자극에 예민해지는 혈위열감작 현상. 예민 혈위에 뜸 시 효과 극대화 |
-| Efficacy of acupuncture-based adjunctive therapies in alleviating spasticity and motor function in patients with post-stroke spasticity | 메타분석 | 6180 | 높음 | 10.1016/j.ctim.2025.103282 | 뇌졸중 후 경직 완화에 화침·경근침, 운동 기능 회복에 전침이 가장 우수 |
-| Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain | 메타분석 | 2579 | 높음 | 10.1186/s13018-024-05118-8 | 만성 비특이적 요통에 온침·전온침·경근 이론 기반 치료 권장. 가동성 저하 시 경근 이론 유용 |
-| Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis | 메타분석 | - | 중등도 | 10.2147/JPR.S555916 | 강직성 척추염에 독맥구·침 병행이 설파살라진 단독보다 기능(BASFI)·유효성 개선 |
-| Clinical Study of Acupotomy for Knee Osteoarthritis Based on the Meridian-Sinew Theory | 임상시험 | 124 | 중등도 | 10.1155/2021/3987002 | 경근 이론 기반 도침이 해부학적 도침과 동등한 통증(VAS)·기능(WOMAC) 개선·안전 |
-| The Use of Wet Cupping for Persistent Nonspecific Low Back Pain | 임상시험 | 80 | 중등도 | 10.1089/acm.2015.0065 | 방광경 혈위(BL23-25) 습식 부항이 만성 요통 통증·기능 장애 개선, 효과 2주 유지 |
-| Investigating the Effect of Acupressure on the Patients' Anxiety Before Open-Heart Surgery | 임상시험 | 90 | 중등도 | 10.1016/j.jams.2020.11.001 | 수술 전 지압이 상태 불안·수축기 혈압·심박수 유의 감소. 비약물적 불안 관리 |
-| Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis | 임상시험 | - | 중등도 | 10.1097/md.0000000000035726 | 독맥구 요법이 건선 중증도(PASI)·삶의 질(DLQI) 유의 개선 |
-| Meridian studies in China: a systematic review | 체계적 고찰 | - | 중등도 | 10.1016/S2005-2901(10)60001-5 | 경락의 물리적 구조는 미규명이나 경락 현상의 존재는 충분히 확인. 침구 치료 지속 근거 |
-| Acupuncture for the Treatment of Cardiovascular Diseases: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1016/j.jams.2018.07.005 | 침·전침이 심혈관 질환 증상 개선. 내관(PC6)·족삼리(ST36) 자주 사용 |
-| Acupoints Compatibility Rules of Acupuncture for Functional Gastrointestinal Disorders Based on Data Mining Technology | 체계적 고찰 | - | 중등도 | 10.18502/ijph.v54i8.19568 | FGIDs에 족양명위경 혈위(족삼리·천추·상거허) 핵심 사용. 모혈·하합혈 조합 유효 |
-| Scientific exploration and hypotheses concerning the meridian system in traditional Chinese medicine | 고찰 | - | 중등도 | 10.1097/hm9.0000000000000128 | 경락을 정보 전달 체계로 통합 이해. 침·뜸·한약 기전의 과학적 설명 기여 |
 
 ## 임상 적용
 

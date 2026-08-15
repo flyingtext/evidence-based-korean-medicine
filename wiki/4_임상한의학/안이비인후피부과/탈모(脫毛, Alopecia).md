@@ -108,43 +108,6 @@
 - 이개 압통점 맞춤형 이침이 탈모 진단·치료에 활용될 수 있다(관찰연구, 521명).[^17]
 - 습식 부항·사혈·두피 마사지가 국소 혈행·두피 환경 개선을 통해 모발 성장에 기여한다(증례·실험연구).[^0][^1][^13][^14][^16]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Acupuncture for treating alopecia areata: A systematic review and meta-analysis | 메타분석 | 1144 | 높음 | [10.1097/md.0000000000048073](https://doi.org/10.1097/md.0000000000048073) | 매화침 병용이 원형탈모 증상 개선율 유의 향상 (RR 1.09, P=.005) |
-| Literature Review on Korean Medicine Treatment for Alopecia | 체계적 고찰 | 1464 | 높음 | [10.3831/KPI.2021.24.3.93](https://doi.org/10.3831/KPI.2021.24.3.93) / [PMID 34631192](https://pubmed.ncbi.nlm.nih.gov/34631192/) | 한약·침·약침·외용제가 탈모 개선, 부작용 모니터링 필요 |
-| Scalp Microbiota Dysbiosis in Seborrheic Alopecia and Restoration Following Herbal Extract Shampoo Intervention | 임상시험 | 70 | 중등도 | [10.3390/microorganisms14051106](https://doi.org/10.3390/microorganisms14051106) / [PMID 42197490](https://pubmed.ncbi.nlm.nih.gov/42197490/) | 생강·하수오·편백나무 샴푸가 두피 미생물 복원·탈모 개선 |
-| An Integrative Approach of Neeli Bhringraj Polyherbal Hair Oil in Clinical Evaluation of Androgenetic Alopecia | 임상시험 | 78 | 중등도 | [10.7759/cureus.111988](https://doi.org/10.7759/cureus.111988) / [PMID 42544231](https://pubmed.ncbi.nlm.nih.gov/42544231/) | 폴리허브 오일이 모발 밀도·두께 개선, 백발 감소 |
-| Scalp acupoint catgut embedding combined with topical 5% minoxidil tincture to improve male androgenetic alopecia | 임상시험 | 70 | 프로토콜 | [10.1136/bmjopen-2024-096020](https://doi.org/10.1136/bmjopen-2024-096020) / [PMID 40754324](https://pubmed.ncbi.nlm.nih.gov/40754324/) | 두피 매선+미녹시딜 병용 효과 검증 프로토콜 |
-| Auricular Diagnosis and Therapy for Alopecia: Patient Data Analysis | 관찰연구 | 521 | 중등도 | [10.1136/aim.15.1.14](https://doi.org/10.1136/aim.15.1.14) | 이개 압통점 맞춤형 이침이 진단·치료에 유용 |
-| A unique approach for investigating skin lesions and their relationship with TCM syndrome differentiation in alopecia areata | 관찰연구 | 0 | 중등도 | [10.4314/ahs.v24i3.45](https://doi.org/10.4314/ahs.v24i3.45) / [PMID 40777967](https://pubmed.ncbi.nlm.nih.gov/40777967/) | 더모스코피 소견으로 변증 구분(기혈부족·간신부족) |
-| A Study on the Awareness and Satisfaction of Meridian Scraping Therapy Depending on the Hair Loss and Scalp Characteristics | 관찰연구 | 0 | 중등도 | [10.18693/jksba.2024.25.1.55](https://doi.org/10.18693/jksba.2024.25.1.55) | 경락 괄사 요법 수용도·만족도 기초 자료 |
-| Efficacy of Acupuncture and Moxibustion in Alopecia: A Narrative Review | 문헌고찰 | 0 | 중등도 | [10.3389/fmed.2022.868079](https://doi.org/10.3389/fmed.2022.868079) | 침·뜸이 원형·안드로겐성·지루성 탈모에 효과적 |
-| Pharmacological Insights into Medicinal Plants and Phytomolecules for the Management of Alopecia | 문헌고찰 | 0 | 중등도 | [10.2174/0113816128474042260622102041](https://doi.org/10.2174/0113816128474042260622102041) / [PMID 42405404](https://pubmed.ncbi.nlm.nih.gov/42405404/) | 약용 식물이 5α-reductase 억제·Wnt/β-catenin 경로 활성화 |
-| Botanical drug preparations for alleviating hair loss in menopausal women | 문헌고찰 | 0 | 중등도 | [10.3389/fphar.2025.1725691](https://doi.org/10.3389/fphar.2025.1725691) / [PMID 41383467](https://pubmed.ncbi.nlm.nih.gov/41383467/) | 인삼·로즈마리·쏘팔메토가 폐경 후 탈모에 활용 |
-| [Discussion on the treatment of seborrheic alopecia with acupuncture and moxibustion based on the theory of zhuoxie haiqing] | 문헌고찰 | 0 | 중등도 | [10.13703/j.0255-2930.20250901-0005](https://doi.org/10.13703/j.0255-2930.20250901-0005) / [PMID 41839607](https://pubmed.ncbi.nlm.nih.gov/41839607/) | 습탁 제거 기반 침·뜸이 지루성 탈모에 접근 |
-| Ayurvedic Treatments for Hair Disorders: A Narrative Review | 문헌고찰 | 0 | 중등도 | [10.1159/000549251](https://doi.org/10.1159/000549251) / [PMID 41403830](https://pubmed.ncbi.nlm.nih.gov/41403830/) | 원형·휴지기 탈모에 아유르베다 병용 요법 유용 |
-| Traditional and Integrative Approaches to the Treatment of Alopecia | 문헌고찰 | 0 | 중등도 | [10.64030/2997-612x.02.02.04](https://doi.org/10.64030/2997-612x.02.02.04) | 통합적 접근이 탈모 관리에 필요 |
-| Childhood Alopecia Areata: An Overview of Treatment and Recent Patents | 문헌고찰 | 0 | 중등도 | [10.2174/1872213X14999200728145822](https://doi.org/10.2174/1872213X14999200728145822) / [PMID 32723274](https://pubmed.ncbi.nlm.nih.gov/32723274/) | 소아 원형탈모의 치료·정신과적 지지 중요 |
-| [Micro-acupuncture system in the hairline region of the scalp] | 문헌고찰 | 0 | 중등도 | - / [PMID 20578396](https://pubmed.ncbi.nlm.nih.gov/20578396/) | 두피 헤어라인 미세침술 체계 적용 |
-| Effect of a Hair Loss Management Concurrently Incorporating Aroma Scalp Massage on Hair and Scalp Conditions | 실험연구 | 16 | 낮음 | [10.52660/jksc.2024.30.3.524](https://doi.org/10.52660/jksc.2024.30.3.524) | 아로마 두피 마사지가 두피 수분·유분 개선, 각질 감소 |
-| Favorable effect of herbal extract on androgenic alopecia: A case report | 증례 | 1 | 낮음 | [10.1097/md.0000000000034524](https://doi.org/10.1097/md.0000000000034524) | 한약 추출물 스프레이가 모발 밀도·직경 개선 |
-| A Case Study of Stress-Induced Alopecia Areata Treated with Hominis Placenta Pharmacopunture | 증례 | 1 | 낮음 | [10.3831/KPI.2024.27.1.53](https://doi.org/10.3831/KPI.2024.27.1.53) / [PMID 38560337](https://pubmed.ncbi.nlm.nih.gov/38560337/) | 자하강 약침이 스트레스성 원형탈모 개선 |
-| Management of Alopecia Areata Through Micro Needling Along with Cupping | 증례 | 1 | 낮음 | [10.18311/jnr/2024/34914](https://doi.org/10.18311/jnr/2024/34914) | 마이크로니들링+부항이 원형탈모 모발 재생 |
-| Management of alopecia by bloodletting and certain Ayurveda medicine: A case study | 증례 | 1 | 낮음 | [10.31254/jahm.2017.3301](https://doi.org/10.31254/jahm.2017.3301) | 사혈·아유르베다 병행이 탈모량 감소·모발 성장 |
-| Effective management Alopecia totalis by Ayurveda - A case report | 증례 | 1 | 낮음 | [10.1016/j.jaim.2023.100805](https://doi.org/10.1016/j.jaim.2023.100805) / [PMID 38043433](https://pubmed.ncbi.nlm.nih.gov/38043433/) | 부항·한약 병행이 전두탈모 모발 재생 |
-| Effect of Wet Cupping with Rasayana Chikitsa in Management of Alopecia Areata (Indralupt) | 증례 | 1 | 낮음 | [10.47070/ayushdhara.v11i2.1514](https://doi.org/10.47070/ayushdhara.v11i2.1514) | 습식 부항·라사야나 병행이 원형탈모 반점 소실 |
-| Alopecia universalis successfully treated with kenchuto groups in a pediatric patient | 증례 | 1 | 낮음 | [10.1002/tkm2.1233](https://doi.org/10.1002/tkm2.1233) | 견우자탕 계열이 소아 전신 탈모 개선 |
-| Efficacy of Acupuncture Therapy in a Patient with Long-Standing Alopecia Areata: A Case Report | 증례 | 1 | 낮음 | [10.1159/000552417](https://doi.org/10.1159/000552417) / [PMID 42154642](https://pubmed.ncbi.nlm.nih.gov/42154642/) | 매화침·전신 침이 6년 원형탈모 완전 관해 |
-| Role of Pracchanna Karma (bloodletting) followed by Shamana Chikitsa in the Management of Indralupta | 증례 | 1 | 낮음 | [10.70066/jahm.v14i6.2801](https://doi.org/10.70066/jahm.v14i6.2801) | 사혈·완화 요법이 원형탈모 모발 재생 |
-| [Professor YANG Wen-hui's experience in treatment of alopecia areata with the combination of acupuncture and Chinese herbs based on yingwei theory] | 증례 | 0 | 낮음 | [10.13703/j.0255-2930.20190813-k0004](https://doi.org/10.13703/j.0255-2930.20190813-k0004) / [PMID 32959597](https://pubmed.ncbi.nlm.nih.gov/32959597/) | 영위 이론 기반 침·한약 병용 전략 |
-| A combination of herbal formulas, acupuncture, and novel pine-needle stimulation for recurrent alopecia areata: A case report | 증례 | 1 | 낮음 | [10.1097/MD.0000000000026084](https://doi.org/10.1097/MD.0000000000026084) / [PMID 34011130](https://pubmed.ncbi.nlm.nih.gov/34011130/) | 캄포 처방·침·자가 자극 병용이 장기 관해 |
-| Lipedematous alopecia: clinical and histological analysis of the first male Chinese | 증례 | 1 | 낮음 | [10.1186/s40064-016-3430-8](https://doi.org/10.1186/s40064-016-3430-8) / [PMID 27795902](https://pubmed.ncbi.nlm.nih.gov/27795902/) | 지방부종성 탈모는 침·스테로이드에 난치성 |
-| Effect of Oral Unani Formulations and Head Massage Therapy followed by Ḥijāma Bi'l Shart (Wet Cupping) in Diffuse Hair Loss | 증례 | 1 | 낮음 | [10.4103/hjum.hjum_30_25](https://doi.org/10.4103/hjum.hjum_30_25) | 두피 마사지·습식 부항 병행이 확산성 탈모 개선 |
-| Ayurvedic management of alopecia areata: A case report | 증례 | 1 | 낮음 | [10.1016/j.jaim.2022.100604](https://doi.org/10.1016/j.jaim.2022.100604) / [PMID 35868136](https://pubmed.ncbi.nlm.nih.gov/35868136/) | 정화·진정 요법이 15일 이내 모발 재성장 |
-| Occipital neuralgia after hair transplantation and its treatment | 증례 | 1 | 낮음 | [10.1155/2015/428413](https://doi.org/10.1155/2015/428413) / [PMID 25688308](https://pubmed.ncbi.nlm.nih.gov/25688308/) | 모발 이식 후 후두신경통 관리 |
-
 ## 경혈/처방 연관
 
 - 경혈: 백회(GV20)·족삼리(ST36)·두피 헤어라인 미세침혈·이혈(이침·이개 압통점)·배수혈·아시혈(阿是穴)[^5][^17][^24][^29]
@@ -190,4 +153,4 @@
 - 지루성 탈모의 두피 미생물 복원에 대한 한방 샴푸의 장기 효과와 유형별(원형·안드로겐성·휴지기) 치료 반응을 뒷받침하는 표준화된 연구가 더 필요하다.[^8]
 - 변증(신정부족·혈허·간울·습열·어혈) 유형별 한의 중재 효과를 뒷받침하는 기전 연구와 장기 추적 데이터가 아직 부족하다. 변증에 따른 맞춤 한의 치료 근거 마련이 필요하다.[^1][^24][^27]
 - 검색으로 확보한 논문 중 상당수가 증례·문헌고찰이며, 특히 습식 부항·사혈·아유르베다 요법은 전통적 정화 요법의 가능성을 보여주나 대규모 임상 근거가 아직 부족하다. 안전하고 지속 가능한 한의 탈모 관리 프로토콜 개발이 요구된다.[^13][^14][^15][^16][^22]
-- 검색 과정에서 '두피 침·두피 전침' 등 광범위 검색어로 수집된 뇌졸중·신경학적 질환 대상 논문은 탈모와 직접 관련이 낮아 근거 표에서 제외했다. 또한 비한의학(`is_korean_medicine=0`)으로 판단되거나 두피 마사지·헤어라인 미세침 등 주제와 부분 관련된 연구는 탈모 치료의 직접 근거로 해석하지 않았다.
+- 검색 과정에서 '두피 침·두피 전침' 등 광범위 검색어로 수집된 뇌졸중·신경학적 질환 대상 논문은 탈모와 직접 관련이 낮아 각주에서 제외했다. 또한 비한의학(`is_korean_medicine=0`)으로 판단되거나 두피 마사지·헤어라인 미세침 등 주제와 부분 관련된 연구는 탈모 치료의 직접 근거로 해석하지 않았다.

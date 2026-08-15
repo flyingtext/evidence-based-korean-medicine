@@ -8,7 +8,7 @@
 
 ## 하위 표제어(분류)
 
-내관혈은 그 특성상 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·근거 표에 상세히 서술한다.
+내관혈은 그 특성상 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·각주에 상세히 서술한다.
 
 - **오심·구토(항구토) 분야**: 수술 후 오심·구토(PONV), 항암 화학요법 유발 오심·구토(CINV), 임신 중 오심·구토(NVP)·임신오조, 멀미 등 항구토의 대표 요혈.[^5][^6][^7]
 - **심혈관 분야**: 흉통·협심증, 심계(心悸)·부정맥, 심부전, 관상동맥질환 등 심흉 질환의 요혈.[^8][^9][^10]
@@ -28,7 +28,7 @@
 - **심혈관·뇌 기능 조절 기전**: 내관혈 전침 자극은 심포경(心包經)을 따라 에너지 대사 변화를 유도하며 심장 기능 조절과 관련된다.[^23] 내관혈 침 자극은 협심증 환자의 관상동맥 직경에 영향을 주며, 환자의 협심증 유형에 따라 혈관 확장·수축 반응이 다르게 나타난다.[^24] 신문(HT7)·내관(PC6) 전침은 만성 수면 부족 인구에서 디폴트 모드 네트워크(DMN)·변연계 조절을 통해 인지·정서 기능을 개선한다.[^25]
 - **경락·해부학적 특성**: 내관혈은 정중신경(Median nerve)과 밀접하며, 초음파 연구에서 자침 시 정중신경 관통률이 생각보다 높게 나타났으나 단기 추적에서 신경학적 합병증은 발생하지 않았다.[^26] 득기(得氣) 감각이 정중신경 접촉에 의해 유발되거나 신경 관통을 방지하는 보호 기전으로 작용하지 않으므로, 득기 여부만으로 신경 손상 위험을 판단해서는 안 된다.[^26]
 
-> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 근거 표에서 구분한다.
+> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
 
 ## 근거 요약
 
@@ -41,55 +41,6 @@
 - **신경·뇌혈관 질환**: 뇌졸중 환자의 손 경직 개선에 내관혈 자침 시 빠른 염전·제삽-염전 혼합 수기법이 단순 자침보다 효과적이었다(임상시험, 172명).[^15] 경도 외상성 뇌손상 환자에서 내관(PC6)·수구(GV26) 전침이 인지 기능 회복을 촉진했다(임상시험, 83명).[^16] 혈액투석 환자에서 내관혈 원적외선 자극이 피로 감소와 자율신경 기능 개선에 효과적이었다(임상시험, 73명).[^20]
 
 > AI 요약(answer/clinical_summary)과 원문을 대조 후 요약하였다. 일부 수치·비율은 원문 데이터를 참고한 것이다.
-
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Stimulation of the wrist acupuncture point P6 for preventing postoperative nausea and vomiting | 체계적 고찰 | 3347 | 높음 | 10.1002/14651858.CD003281.pub2 · PMID 15266478 | 내관혈(P6) 자극이 가짜 치료 대비 수술 후 구역·구토 위험 유의 감소. 항구토제 미사용 환자에게 유용한 대안 |
-| Cochrane systematic reviews examine P6 acupuncture-point stimulation for nausea and vomiting | 체계적 고찰 | 5350 | 높음 | 10.1089/acm.2006.12.489 · PMID 16813514 | 내관혈 자극이 PONV 예방·치료에 효과적. 항구토제보다 오심 완화에 우월·구토 완화에 대등 |
-| P6 stimulation for the prevention of nausea and vomiting associated with cesarean delivery under neuraxial anesthesia | 체계적 고찰 | 649 | 중등도 | 10.1213/ane.0b013e31816d1864 · PMID 18806045 | 제왕절개술 신경축 마취 시 내관혈 자극 고려 가능하나 결과 일관되지 않아 확정적 효과 단언 어려움 |
-| Acupuncture for nausea and vomiting: an update of clinical and experimental studies | 체계적 고찰 | - | 중등도 | 10.1016/j.autneu.2006.07.015 · PMID 16950659 | 내관혈 자극이 PONV·CINV 예방·완화에 효과적. 지압은 항암 첫날 오심, 전침은 구토에 유용 |
-| Publication bias affected the estimate of postoperative nausea in an acupoint stimulation systematic review | 체계적 고찰 | - | 중등도 | 10.1016/j.jclinepi.2006.02.003 · PMID 16895822 | 내관혈 자극의 오심 예방 효과가 출판 편향에 영향받았을 가능성. 구토 예방 효과는 유지 |
-| Can Acupuncture have Specific Effects on Health? A Systematic Review of Acupuncture Antiemesis Trials | 체계적 고찰 | 2000 | 중등도 | 10.1177/014107689608900602 | 내관혈 침 자극이 화학요법·임신·수술 후 오심·구토 완화에 효과적. 전신마취 상태에서는 효과 제한적 |
-| The Impact of Acupuncture on Nausea and Vomiting in Cancer Patients: A Systematic Review and Meta-Analysis | 메타분석 | 139 | 중등도 | 10.21203/rs.3.rs-4791691/v1 | 침 치료가 암 치료로 인한 지연성 구토 완화에 유의. 내관(PC6)·족삼리(ST36) 활용, 5일 이상 시행 |
-| Acupuncture at Neiguan Acupoint (PC6) for Coronary Heart Disease: A Scoping Review | 체계적 고찰 | - | 중등도 | 10.1089/acu.2024.0008 · PMID 41573021 | 내관혈 침 치료가 CHD 환자 흉통·심장 관련 증상 완화에 보조적 수단으로 활용 가능 |
-| Acupressure and Dementia - A Review of Current Evidence | 체계적 고찰 | 973 | 중등도 | 10.20944/preprints202108.0532.v1 | 지압이 치매 환자 불안·우울·정신적 통증 개선 가능. 경증·중등도 치매에 6개월 이상 장기 적용 시 인지·삶의 질 개선 기대 |
-| The Effectiveness of Acupressure Therapy on Decreasing Complaints of Nausea and Vomiting in Pregnant Women | 체계적 고찰 | - | 중등도 | 10.53713/nhs.v1i1.5 | 임신부 오심·구토에 내관(PC6)·족삼리(ST36)·공손(SP4) 지압이 효과적. 약물 제한 임신부에 안전한 비약물 중재 |
-| Increase in the vagal modulation by acupuncture at neiguan point in the healthy subjects | 임상시험 | 111 | 중등도 | 10.1142/S0192415X0500276X · PMID 15844844 | 내관혈 침이 미주신경 활성도 유의 증가. 부교감신경 조절로 항구토·자율신경 불균형 개선 근거 |
-| Effects of acupressure on gastric myoelectrical activity in healthy humans | 임상시험 | 15 | 중등도 | 10.1080/00365520410009636 · PMID 15934175 | 내관혈 지압이 위전기활동 정상 서파 비율 유의 증가. 위장 운동 정상화 유도 |
-| Stimulation of gastric slow waves with manual acupuncture at acupuncture points ST36 and PC6 | 임상시험 | 65 | 중등도 | 10.1111/j.1365-2982.2012.01877.x | 족삼리·내관 수기 자극이 위장 근전도·심혈관 자율신경 기능에 영향. 수기 자극 시 뚜렷한 생리적 변화 |
-| Far-infrared stimulation of Neiguan acupoints improves heart rate variability and ameliorate fatigue in hemodialysis patients | 임상시험 | 73 | 중등도 | 10.1097/jcma.0000000000001060 | 혈액투석 환자 내관혈 원적외선 자극이 피로 감소·자율신경 기능(HRV) 개선에 유의 |
-| Effect of an electronic antiemetic device (EAD) stimulating the Neiguan acupoint (PC6) on chemotherapy-induced nausea and vomiting | 임상시험 | 126 | 중등도 | 10.1016/j.ejon.2026.103172 · PMID 41856020 | 전자 구토 방지 장치 내관혈 자극이 지연성 CINV 유의 감소. 부작용 발생률 낮춤 |
-| Study on the preventive effect of Neiguan acupoint stimulation combined with Zusanli acupoint stimulation on postoperative nausea and vomiting | 임상시험 | 90 | 중등도 | 10.1186/s12906-026-05451-x · PMID 42363177 | 자궁경 수술 환자 내관·족삼리 복합 자극이 단독·가짜 침보다 오심·구토·통증 감소, 회복 촉진 |
-| Effect and safety of Neiguan acupoint injection with astragalus injection for chronic heart failure with qi-deficiency and blood-stasis syndrome | 임상시험 | 200 | 중등도 | 10.3389/fmed.2026.1836620 · PMID 42292177 | 기허혈어 만성 심부전 환자 내관혈 황기주사액 약침이 심기능·운동 내성·삶의 질 유의 개선 |
-| P6 acupressure may relieve nausea and vomiting after gynecological surgery: an effectiveness study in 410 women | 임상시험 | 410 | 중등도 | 10.1007/BF03017897 · PMID 12477673 | 부인과 수술 후 내관혈 지압이 PONV 예방에 효과적. 질식 수술 환자에서 구토 발생률 유의 감소 |
-| P6 acupressure does not prevent emesis during spinal anesthesia for cesarean delivery | 임상시험 | 110 | 중등도 | 10.1213/01.ane.0000195553.82409.00 · PMID 16492848 | 제왕절개술 척추마취 시 내관혈 지압 밴드가 수술 중 오심·구토 예방에 유의 효과 없음 |
-| Acupressure wristbands for the prevention of postoperative nausea and vomiting in adults undergoing cardiac surgery | 임상시험 | 152 | 중등도 | 10.1053/j.jvca.2003.10.014 · PMID 14973803 | 심장 수술 후 내관혈 지압 밴드가 전반적 PONV 예방에 유의 효과 없음. 여성 환자에서 효과 가능성 시사 |
-| Acupuncture To Treat Nausea and Vomiting in Early Pregnancy: A Randomized Controlled Trial | 임상시험 | 593 | 중등도 | 10.1046/j.1523-536x.2002.00149.x | 임신 초기 오심·헛구역질에 침 치료가 대조군 대비 유의 감소. 위약 효과 존재 가능성 유의 |
-| Effect of Nei-Guan point (P6) acupressure on ketonuria levels, nausea and vomiting in women with hyperemesis gravidarum | 임상시험 | 66 | 중등도 | 10.1111/j.1365-2648.2007.04342.x · PMID 17645494 | 임신오조 환자 내관혈 지압이 오심·구토 완화, 요케톤 수치 감소에 효과적 |
-| Acupressure for chemotherapy-induced nausea and vomiting: a randomized clinical trial | 임상시험 | 160 | 중등도 | 10.1188/07.ONF.xxx-xxx · PMID 17723973 | 유방암 화학요법 환자 내관혈 지압이 지연성 CINV 강도·빈도 유의 감소. 자가 관리 도구로 권장 |
-| The effects of P6 acupressure in the prophylaxis of chemotherapy-related nausea and vomiting in breast cancer patients | 임상시험 | 36 | 중등도 | 10.1016/j.ctim.2006.07.005 · PMID 17352966 | 내관혈 지압이 항암 유방암 환자 오심·구역질·구토 관련 고통 유의 감소. 안전·편리한 보조 요법 |
-| Acupressure for postoperative nausea and vomiting in gynaecological patients receiving patient-controlled analgesia | 임상시험 | 100 | 중등도 | 10.1017/S0265021506001190 · PMID 16895618 | 부인과 수술 후 PCA 환자 내관혈 지압 밴드가 PONV 발생률·항구토제 사용량 유의 감소 |
-| Comparison of P6 acupoint injection with 50% glucose in water and intravenous droperidol for prevention of vomiting after gynecological laparoscopy | 임상시험 | 120 | 중등도 | 10.1111/j.1399-6576.1993.tb03699.x | 부인과 복강경 수술 후 내관혈 포도당 약침이 드로페리돌 정맥 주사와 유사하게 효과적 |
-| Intradermal acupuncture on shen-men and nei-kuan acupoints in patients with insomnia after stroke | 임상시험 | 30 | 중등도 | 10.1142/S0192415X04002399 · PMID 15633811 | 뇌졸중 후 불면증 환자 신문·내관 피내침이 가짜 침보다 수면 질 개선에 효과적 |
-| Randomised Controlled Trial on the Use of Acupuncture in Adults with Chronic, Non-Responding Anxiety Symptoms | 임상시험 | 40 | 중등도 | 10.1136/acupmed-2014-010524 | 만성 불안 환자 내관·신문·태충 침이 불안 유의 감소. 효과 10주까지 유지 |
-| Effect of acupuncture Baihui acupoint-Yintang acupoint-Neiguan acupoint combined with conventional Western medicine treatment on cerebral blood flow in insomnia patients | 임상시험 | 100 | 중등도 | 10.3389/fneur.2026.1679885 · PMID 41657421 | 불면증 환자 백회·인당·내관 침 병행이 수면 질 개선·불안 완화에 더 효과적. 뇌 혈류 증가 확인 |
-| [Comparative study on effects of different acupuncture manipulation methods at neiguan (PC 6) on hand spasm in the patient of stroke] | 임상시험 | 172 | 중등도 | - / 18678163 | 뇌졸중 손 경직에 내관혈 빠른 염전·제삽-염전 혼합 수기법이 단순 자침보다 효과적 |
-| The neuroprotective effect of electro-acupuncture on cognitive recovery for patients with mild traumatic brain injury | 임상시험 | 83 | 중등도 | 10.1097/md.0000000000032885 | 경도 외상성 뇌손상 환자 내관·수구 전침이 인지 기능 회복 촉진, 뇌 손상 지표 개선 |
-| Variations in energy metabolism along the pericardium meridian and its relationship with visceral function adjustments during electroacupuncture | 임상시험 | 22 | 중등도 | 10.1186/1472-6882-14-323 · PMID 25175096 | 내관혈 전침이 심포경을 따라 에너지 대사 변화 유도. 심장 기능 조절과 관련 |
-| Acupoint electrical stimulation at neiguan and zusanli points on serum cytokines | 임상시험 | - | 중등도 | 10.1097/md.0000000000044667 | 요추 추간판 탈출증 수술 환자 내관·족삼리 전침이 혈위별 신경면역·스트레스 반응 다르게 조절 |
-| Brain functional changes in chronic partial sleep-deprivation population by electroacupuncture at shenmen(HT7) and neiguan (PC6) acupoints | 임상시험 | 43 | 중등도 | 10.1016/j.imr.2025.101250 · PMID 41816267 | 신문·내관 전침이 만성 수면 부족 인구 DMN·변연계 조절로 인지·정서 기능 개선 |
-| Observation for the effect of rTMS combined with magnetic stimulation at Neiguan (PC6) and Sanyinjiao (SP6) points on limb function after stroke | 임상시험 | 42 | 중등도 | 10.1097/MD.0000000000022207 · PMID 32957353 | 뇌졸중 후 사지 기능 장애에 rTMS와 내관·삼음교 자기자극 결합 재활 모델 프로토콜 |
-| The effect of digital acupressure on chemotherapy-induced nausea in Indonesian patients with stages III-IV breast cancer | 임상시험 | 42 | 중등도 | 10.1016/j.jaim.2023.100794 · PMID 37688948 | 유방암 환자 P6·ST36 지압이 오심 빈도·강도 유의 감소. 항구토제 병행 보조 중재 |
-| Morning sickness control in early pregnancy by Neiguan point acupressure | 임상시험 | 60 | 중등도 | - / 1407927 | 임신 초기 입덧에 내관혈 지압이 가짜 지압보다 증상 완화에 유의 효과. 일측·양측 모두 60% 이상 긍정 |
-| [Clinical observation on injection of small dose of morphine into Neiguan (PC 6) for treatment of chest pain in the patient with acute myocardial infarction] | 임상시험 | 90 | 중등도 | - / 18822977 | 급성 심근경색 흉통에 내관혈 소량 모르핀 주입이 정맥·피하 주사보다 진통 빠르고 오래 지속, 부작용 적음 |
-| Ultrasound measurements of the distance between acupuncture needle tip at P6 and the median nerve | 관찰연구 | 50 | 낮음 | 10.1089/acm.2007.6247 · PMID 17604564 | 내관혈 자침 시 정중신경 관통률 높으나 단기 추적에서 신경학적 합병증 없음. 득기만으로 신경 손상 위험 판단 금지 |
-| Infrared radiation spectrum of acupuncture point on patients with coronary heart disease | 관찰연구 | 97 | 낮음 | 10.1142/S0192415X08005722 · PMID 18457356 | CHD 환자 내관혈에서 적외선 복사 스펙트럼 유의 변화. 에너지 대사 파장대 강도 낮음 |
-| Effect of transcutaneous electrical acupoint stimulation at Zusanli and Neiguan on postoperative recovery in patients with colorectal cancer | 관찰연구 | - | 낮음 | 10.4240/wjgs.v18.i5.116996 | 대장암 수술 환자 족삼리·내관 TEAS가 위장관 기능 회복 촉진, 통증·오심·구토 합병증 유의 감소 |
-| Perforation of the median nerve with an acupuncture needle guided by ultrasound | 증례 | 1 | 매우 낮음 | 10.1136/aim.26.4.231 · PMID 19098694 | 초음파 유도 하 정중신경 완전 관통에도 통증·신경학적 이상 없을 수 있음. 시술 시 해부학적 주의 필요 |
-| Possible effects of acupuncture on atrial fibrillation and post-herpetic neuralgia--a case report | 증례 | 1 | 매우 낮음 | 10.1136/aim.26.1.51 · PMID 18356799 | 내관(PC6)·공손(SP4) 조합이 흉통·부정맥 조절에 긍정적 영향 가능성 시사 |
-| Resolution of intractable hiccups after near-infrared irradiation of relevant acupoints | 증례 | 2 | 매우 낮음 | 10.1097/00000441-200608000-00009 · PMID 16909058 | 뇌졸중 후 난치성 딸꾹질에 내관·족삼리·지양 근적외선 조사가 증상 소실. 비침습 대안 |
 
 ## 임상 적용
 
@@ -135,7 +86,7 @@
 [^1]: 내관(內關, PC6)의 정의·위치·주치(主治)는 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: "흉부·심장·위장 질환은 내관혈에서 구한다" 등 내관혈의 심흉·위완 주치 이론은 경락경혈학·침구학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^3]: 내관(內關)의 팔맥교회혈(八脈交會穴)로서 음유맥(陰維脈)과의 교회, 공손(公孫, SP4)과의 배합은 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
-[^4]: 다양한 자극 방식(수기침·전침·지압·피내침·약침·원적외선·전자 자극 장치 등)의 임상 적용은 본 문서 근거 표의 임상시험·실험연구 종합. 근거수준: 중등도.
+[^4]: 다양한 자극 방식(수기침·전침·지압·피내침·약침·원적외선·전자 자극 장치 등)의 임상 적용은 본 문서 각주의 임상시험·실험연구 종합. 근거수준: 중등도.
 [^5]: Stimulation of the wrist acupuncture point P6 for preventing postoperative nausea and vomiting. 체계적 고찰, 3347명. DOI: [10.1002/14651858.CD003281.pub2](https://doi.org/10.1002/14651858.CD003281.pub2) · PMID: 15266478. 근거수준: 높음. 내관혈 자극이 수술 후 구역·구토 위험 유의 감소.
 [^6]: Cochrane systematic reviews examine P6 acupuncture-point stimulation for nausea and vomiting. 체계적 고찰, 5350명. DOI: [10.1089/acm.2006.12.489](https://doi.org/10.1089/acm.2006.12.489) · PMID: 16813514. 근거수준: 높음. 내관혈 자극이 PONV 예방·치료에 효과적.
 [^7]: Acupuncture for nausea and vomiting: an update of clinical and experimental studies. 체계적 고찰. DOI: [10.1016/j.autneu.2006.07.015](https://doi.org/10.1016/j.autneu.2006.07.015) · PMID: 16950659. 근거수준: 중등도. 내관혈 자극이 PONV·CINV 예방·완화에 효과적.

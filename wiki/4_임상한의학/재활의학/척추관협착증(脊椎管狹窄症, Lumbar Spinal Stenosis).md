@@ -108,52 +108,6 @@ A5. 대규모 전국 코호트(175,431명)에서 한의학적 치료가 장기�
 
 척추관협착증에 대해 침·온침·전침·약침·도침·추나·한약·부항 등 다양한 한의 중재가 유의한 통증 감소와 보행 기능 개선 효과를 보임을 확인하였다. 특히 약침 요법(53주 지속),[^31] 약침·도침 병행(14주 지속),[^32] 목우리 통합 입원 치료(6개월 유지),[^27] 척추 교정+전기 건침 병행[^33]이 강력한 근거를 보이며, 대규모 코호트에서 한의 치료가 수술·오피오이드 사용을 줄이는 효과도 확인되었다.[^6] 도침은 메타분석·체계적 고찰에서 유효성이 지지되나 보고 표준화가 필요하다.[^14][^38]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Application of Aina Moxibustion in Degenerative Lumbar Spinal Stenosis Treatment with Warm Needle | Clinical Trial | 60 | Medium | [DOI 10.18063/jmds.v11i1.1346](https://doi.org/10.18063/jmds.v11i1.1346) | 아이나향 온침이 전통 온침보다 통증·요추 기능 개선 우월 |
-| Efficacy of acupuncture for degenerative lumbar spinal stenosis: protocol | Clinical Trial(프로토콜) | 80 | Low | [DOI 10.1136/bmjopen-2016-012821](https://doi.org/10.1136/bmjopen-2016-012821) | 8주 24회 침이 수술 고려 고령 환자에 비수술적 대안 |
-| Efficacy of acupuncture for intermittent claudication in DLSS: protocol | Clinical Trial(프로토콜) | 196 | Low | [DOI 10.1186/s13063-020-04612-8](https://doi.org/10.1186/s13063-020-04612-8) | 신경성 파행 완화 위한 침 유효성·안전성 검증 |
-| Effect of Combined Traditional Acupuncture and Applied Kinesiology on Lumbar Diseases | Observational Study | 21 | Low | [DOI 10.13045/jar.2019.00206](https://doi.org/10.13045/jar.2019.00206) | 침+AK 병행 시 요추 기능 점수 유의 개선 |
-| Thread Embedding Acupuncture and Complex Korean Medicine for LSS with Scoliosis | Case Report | 1 | Very Low | [DOI 10.13045/jar.2021.00108](https://doi.org/10.13045/jar.2021.00108) | 매선침+복합 한방이 통증·보행·측만 각도 개선 |
-| Effect of Korean medicine treatment on surgery and opioid prescription in LSS | Observational Study | 175431 | High | [DOI 10.3389/fmed.2026.1703911](https://doi.org/10.3389/fmed.2026.1703911) | 한의 치료가 수술·오피오이드 처방 위험 유의 감소 |
-| Effect of Combined Acupuncture, Pharmacopuncture and AK on Lumbar Diseases | Clinical Trial | 24 | Medium | [DOI 10.3831/KPI.2019.22.025](https://doi.org/10.3831/KPI.2019.22.025) | 침+약침+AK 병합이 통증·JOALS 개선 |
-| Japanese traditional herbal medicine reduces pregabalin and opioids in LSS | Observational Study | 151 | Medium | [DOI 10.1186/s40981-017-0130-5](https://doi.org/10.1186/s40981-017-0130-5) | 한약 병행이 진통제 사용 감소·치료 유지율 증가 |
-| Electroacupuncture in non-surgical management of LSS | Review | - | Low | [DOI 10.3389/fimmu.2025.1644394](https://doi.org/10.3389/fimmu.2025.1644394) | 전침이 염증 조절·황색인대 비후 완화 |
-| Effectiveness and safety of acupotomy on lumbar spinal stenosis | Clinical Trial | 40 | Medium | [DOI 10.1097/md.0000000000028175](https://doi.org/10.1097/md.0000000000028175) | 도침 병행이 통증·보행·기능 개선 기여 |
-| Survey of integrative LSS treatment in Korean medicine doctors | Observational Study | - | Low | [DOI 10.1186/s12906-017-1942-6](https://doi.org/10.1186/s12906-017-1942-6) | 한의사들이 침·약침·한약·추나 통합 치료 시행 |
-| Pharmacopuncture Therapy as Adjunctive Treatment for LSS | Clinical Trial | 40 | Medium | [DOI 10.2147/JPR.S438219](https://doi.org/10.2147/JPR.S438219) | 약침 병행이 안전·요통 VAS 개선 경향 |
-| Combining Pharmacopuncture and Acupotomy in DLSS: protocol | Clinical Trial(프로토콜) | 104 | Low | [DOI 10.51507/j.jams.2023.16.6.268](https://doi.org/10.51507/j.jams.2023.16.6.268) | 약침+도침 병행 유효성·안전성 평가 |
-| Acupotomy for the treatment of lumbar spinal stenosis | Meta-analysis | - | High | [DOI 10.1097/md.0000000000016662](https://doi.org/10.1097/md.0000000000016662) | 도침이 통증·JOA 개선, 견인보다 우수 |
-| Shakuyaku-kanzo-to as Treatment of Painful Muscle Cramps in LSS | Clinical Trial | 58 | Medium | [PMID 27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/) | 작약감초탕이 근경련에 에페리손보다 효과적 |
-| Modified Raktamokshna as Chinese cupping therapy in Lumbar spondylosis | Case Report | 1 | Very Low | [DOI 10.52482/ijacare.v2i2.39](https://doi.org/10.52482/ijacare.v2i2.39) | 습식 부항 사혈이 통증 감소·보행 회복 |
-| Fluoroscopically guided transforaminal epidural dry needling for LSS | Clinical Trial | 34 | Medium | [DOI 10.1186/1471-2474-11-180](https://doi.org/10.1186/1471-2474-11-180) | 경막외 건침이 VAS·ODI 유의 감소 |
-| Long-Term Follow-Up of Spinal Stenosis Inpatients with Integrative KM | Observational Study | - | Low | [DOI 10.3390/jcm10010074](https://doi.org/10.3390/jcm10010074) | 통합 한의 입원 치료가 통증·기능 개선 |
-| Acupotomy for the treatment of lumbar spinal stenosis | Systematic Review(프로토콜) | - | Low | [DOI 10.1097/md.0000000000014160](https://doi.org/10.1097/md.0000000000014160) | 도침 유효성·안전성 평가 체계적 고찰 |
-| Improvement of Anorgasmia and Anejaculation After Spinal Manipulation in LSS | Case Report | 1 | Very Low | [DOI 10.7759/cureus.34719](https://doi.org/10.7759/cureus.34719) | 척추 교정이 성기능 장애 개선 |
-| Nonsurgical Korean Integrative Treatments for Symptomatic LSS: protocol | Clinical Trial(프로토콜) | 36 | Low | [DOI 10.1155/2016/2913248](https://doi.org/10.1155/2016/2913248) | 목우리 통합 치료 타당성·효과 평가 |
-| Clinimetric analysis of NPRS, ODI, RMDQ in LSS | Observational Study | 128 | Medium | [DOI 10.1016/j.jocn.2025.111717](https://doi.org/10.1016/j.jocn.2025.111717) | NPRS 2.8점·ODI 8.5점 감소가 유의미한 개선 기준 |
-| Lumbar Spinal Stenosis: Diagnosis and Management | Review | - | Low | [PMID 38648834](https://pubmed.ncbi.nlm.nih.gov/38648834/) | MRI 진단 중요, 보존적 치료 우선 |
-| Comparative Clinical Outcomes of Non-surgical and Surgical Treatment for LSS | Systematic Review | - | Medium | [DOI 10.7759/cureus.111963](https://doi.org/10.7759/cureus.111963) | 수술이 통증·기능 개선에 더 크고 지속적 |
-| High-dense silver needle therapy for LSS based on six-meridian differentiation | Review | - | Low | [DOI 10.13703/j.0255-2930.20230712-k0001](https://doi.org/10.13703/j.0255-2930.20230712-k0001) | 육경변증에 따른 고밀도 은침·온침 효과 |
-| Effectiveness and Safety of Acupotomy on LSS: Pragmatic Pilot RCT | Clinical Trial | 34 | Medium | [DOI 10.2147/JPR.S399132](https://doi.org/10.2147/JPR.S399132) | 도침 병행이 통증·ODI·보행 개선, 안전성 확인 |
-| Nonsurgical integrative inpatient treatments for symptomatic LSS | Clinical Trial | 36 | Medium | [DOI 10.2147/JPR.S173178](https://doi.org/10.2147/JPR.S173178) | 목우리 통합 입원 치료가 표준 치료보다 우수, 6개월 유지 |
-| Comprehensive and Integrative Medical Services for DLSS | Clinical Trial | 77 | Medium | [DOI 10.3390/medicina62010225](https://doi.org/10.3390/medicina62010225) | CIMS 병행이 통증 감소 유의 |
-| Trends of Korean medicine service utilization for LDH and LSS | Observational Study | - | Low | [DOI 10.1097/MD.0000000000038989](https://doi.org/10.1097/MD.0000000000038989) | LSS 한의 이용 증가, 침 비중 최고 |
-| Nonoperative Korean Medicine Combination Therapy for LSS | Case Report | 33 | Low | [DOI 10.1155/2015/263898](https://doi.org/10.1155/2015/263898) | 통합 한의 치료가 통증·보행 개선, 1년 지속 |
-| Pharmacopuncture therapy versus usual care for LSS | Clinical Trial | 96 | High | [DOI 10.1016/j.imr.2026.101323](https://doi.org/10.1016/j.imr.2026.101323) | 약침이 통상 치료보다 효과적, 53주 지속 |
-| Combining pharmacopuncture and acupotomy for DLSS | Clinical Trial | 104 | High | [DOI 10.1016/j.imr.2025.101204](https://doi.org/10.1016/j.imr.2025.101204) | 약침+도침 병행이 통증·기능·삶의 질 개선, 14주 지속 |
-| Spinal manipulation and electrical dry needling adjunct to PT in LSS | Clinical Trial | 128 | High | [DOI 10.1016/j.spinee.2023.12.002](https://doi.org/10.1016/j.spinee.2023.12.002) | 척추 교정+전기 건침 병행이 단독보다 효과적 |
-| Add-on Effect and Safety of Pharmacopuncture in LSS | Clinical Trial | 40 | Medium | [DOI 10.51507/j.jams.2023.16.1.40](https://doi.org/10.51507/j.jams.2023.16.1.40) | 약침 병행의 추가 효과·안전성 평가 |
-| Clinical effectiveness and safety of acupotomy: overview of SRs | Systematic Review | - | Medium | [DOI 10.1016/j.ctcp.2019.07.002](https://doi.org/10.1016/j.ctcp.2019.07.002) | 도침이 근골격계 질환 유효율·완치율 개선 |
-| Usage Status and Regional Variations of Acupotomy in a KM Clinic | Observational Study | 551 | Low | [DOI 10.13045/jar.2021.00311](https://doi.org/10.13045/jar.2021.00311) | 도침이 요추 유착 해소에 빈번 사용 |
-| Traditional Korean Rehabilitation Medicine and Long-Term Outcomes after Lumbar Surgery | Observational Study | 30022 | High | [DOI 10.1177/27683605261442059](https://doi.org/10.1177/27683605261442059) | 수술 후 조기 한방 재활이 재입원·사망 위험 감소 |
-| Diversity and Safety of Acupotomy for Lumbar Spine Disorders in Korea | Systematic Review | 731 | Medium | [DOI 10.3390/healthcare13101141](https://doi.org/10.3390/healthcare13101141) | 도침 보고 표준화 필요 |
-| Percutaneous Acupotomy Combined with SNRB in Degenerative Spine Diseases | Clinical Trial | 360 | Medium | [DOI 10.71052/jdph/gpip9954](https://doi.org/10.71052/jdph/gpip9954) | 도침+SNRB 병용이 통증·염증 지표 개선 |
-| Efficacy of spinal manipulative therapy in older adults with chronic spinal conditions | Systematic Review | 1226 | Medium | [DOI 10.1016/S2665-9913(23)00098-X](https://doi.org/10.1016/S2665-9913(23)00098-X) | 노인 만성 척추 질환에 SMT 유용 |
-| Analysis of the utilisation of Chuna manual therapy after NHI coverage | Observational Study | - | Low | [DOI 10.1136/bmjopen-2024-094099](https://doi.org/10.1136/bmjopen-2024-094099) | 추나가 중증 척추 질환에 널리 활용, 침과 병행 |
-
 ## 참고문헌
 
 [^1]: Application of Aina Moxibustion in Degenerative Lumbar Spinal Stenosis Treatment with Warm Needle, 임상시험(60명), DOI: [10.18063/jmds.v11i1.1346](https://doi.org/10.18063/jmds.v11i1.1346), 근거수준: RCT

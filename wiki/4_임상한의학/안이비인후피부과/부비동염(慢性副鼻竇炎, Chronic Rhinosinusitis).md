@@ -68,34 +68,6 @@
 - 단순 급성 비부비동염·급성 편도염 환자에게 생약 제제(Sinupret®·Imupret®)를 우선 사용하고 항생제 처방을 지연시키는 전략은 불필요한 항생제 남용을 유의하게 줄일 수 있어, 항생제 오남용 위험이 큰 소아 환자 등에 유용한 대안이 될 수 있다.[^26]
 - 항생제(레보플록사신)와 한방 처방(신이청폐탕) 병용 시 약물 유발성 폐렴이 발생한 증례가 보고되어, 항생제와 한약 병용 환자에게 호흡곤란·폐 침윤 소견이 나타나면 약물 유발성 폐렴 가능성을 고려해 원인 약물을 신속히 감별해야 한다.[^27]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Herbal medicine for the treatment of chronic rhinosinusitis: A systematic review and meta-analysis | 메타분석 | - | 높음 | 10.3389/fphar.2022.908941 | 한약이 CRS 증상 중증도·삶의 질·내시경/CT 점수 개선에 효과적·안전 |
-| Herbal medicinal product Sinupret extract (BNO 1016) is safe and effective in the treatment of acute viral rhinosinusitis | 메타분석 | 589 | 높음 | 10.26442/20751753.2022.3.201314 | BNO 1016이 급성 비부비동염 증상·삶의 질(SNOT-20) 개선 |
-| Clinical efficacy of a dry extract of five herbal drugs in acute viral rhinosinusitis | 임상시험 | - | 중등도 | 10.4193/rhino.12.015 | BNO 1016이 증상 완화 2일 단축·부비동 염증 소실률 개선 |
-| Comparison of traditional Chinese acupuncture, minimal acupuncture at non-acupoints and conventional treatment for chronic sinusitis | 임상시험 | 65 | 중등도 | 10.1016/j.ctim.2005.01.002 | 약물 치료가 CT 부종 감소·삶의 질 개선, 침은 약물과 증상 점수에서 유의차 없음 |
-| Acupuncture for Collaborative Efficiency in Eosinophilic Chronic Rhinosinusitis with Nasal Polyps After Nasal Surgery: A Randomized Controlled Trial Protocol | 임상시험(프로토콜) | 84 | 낮음 | 10.21203/rs.3.rs-5396623/v1 | 수술 후 eCRSwNP에 침 보조 치료의 재발 방지·SNOT-22 개선 기대 |
-| Comparison between the Safety and Effectiveness of Al-Hijama (Cupping) and the Conventional Medical Therapy as Treatment for Sinusitis (II) | 임상시험 | 60 | 중등도 | 10.4197/med.27-1.7 | 부항이 부비동염 임상 증상·호산구 수치 개선, 안전·경제적 |
-| Comparative Effectiveness of Jade Stone Mobilisation, Non-Abrasive Cupping, and Manual Drainage Technique in Subjects with Chronic Sinusitis | 임상시험 | 45 | 중등도 | 10.46743/1540-580x/2022.2209 | 세 수기 요법 모두 유효, 옥석 가동술이 6주 추적에서 우수 |
-| [Effects of irrigating solution of Sihuang on morphology and function of nasal mucosa following surgery for chronic sinusitis and nasal polyps] | 임상시험 | 218 | 중등도 | PMID 15837645 | 사황 세척액이 점막섬모 운송률·SIgA 증가로 수술 후 회복 촉진 |
-| [Observations of the curative effect with various liquid for post operative irrigation of ESS of treating chronic sinusitis and nasal polyps] | 임상시험 | 192 | 중등도 | PMID 12541860 | 어성초 추출액 세척이 수술 후 회복률 개선 |
-| Alternative therapies for sinusitis and rhinitis: a systematic review utilizing a modified Delphi method | 체계적 고찰 | - | 중등도 | 10.1002/alr.22488 | 침·캡사이신·브로멜라인·버터버만 낮음~중간-높음 근거 |
-| Traditional Chinese medicine in chronic rhinosinusitis: Mechanisms and postoperative recovery | 문헌고찰 | - | 중등도 | 10.1016/j.phymed.2025.156658 | 중의학이 바이오필름 억제·산화 스트레스 감소·수술 후 회복 촉진 |
-| Inclusion of Chinese databases in meta-analyses on herbal medicine for rhinosinusitis | 문헌고찰 | - | 낮음 | 10.4193/Rhin25.358 | 급성엔 BNO-1016, 만성엔 향국 제제가 유망. 중국 DB 포함 필요 |
-| Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022) | 관찰연구 | 138647 | 낮음 | 10.13048/jkm.24056 | 침(50.5%)·형개연교탕(48.5%)이 최다 사용, 87% 양방 병행 |
-| Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang | 증례 | 2 | 낮음 | 10.3831/KPI.2025.28.2.154 | 소청룡탕+SPG 침 병행이 표준 치료 부적합 환자에 대안 |
-| Improvements after dry needling for craniofacial pain in a patient with chronic rhinosinusitis: a case report | 증례 | 1 | 낮음 | 10.1080/09593985.2022.2085218 | 드라이 니들링이 두면부 통증·삶의 질·약물 사용량 개선 |
-| A case of eosinophilic sinusitis controlled by Kampo medicine | 증례 | 1 | 낮음 | 10.1002/tkm2.1266 | 패독산+계지복령환이 스테로이드 재발 환자에 관해 유지 |
-| The Ayurvedic Management of Fungal Sinusitis in Standalone Settings: A Case Report | 증례 | 1 | 낮음 | 10.1002/ccr3.70068 | 수술 거부 진균성 부비동염에 전통 의학 보존 치료가 영상 소견 소실 |
-| A comparative study of the relative effect of spinal manipulation as opposed to acupuncture treatment in the management of chronic sinusitus | 임상시험 | - | 중등도 | 10.51415/10321/2720 | 척추 교정술과 침 모두 증상 완화에 효과적, 척추 교정술이 더 높은 효율 가능성 |
-| An Epidemiological Study on the Effectiveness of Nasturtium Herb and Horseradish Root (Angocin®Anti-Infekt N) as well as Other Phytopharmaceuticals, Synthetic Products, and Antibiotics on the Course of Acute Upper Respiratory Tract Infection (aURTI) | 관찰연구 | 73524 | 낮음 | 10.3390/antibiotics15040336 | Angocin®이 재발률·후속 항생제 처방률·병가 기간 유의 감소 |
-| Intranasal delivery of herbal medicine for disease treatment: A systematic review | 체계적 고찰 | - | 중등도 | 10.1016/j.phymed.2024.155484 | 비강 내 한약 전달이 비침습·고흡수·속효, 호흡기 질환에 유용 |
-| A Houttuynia cordata–based Chinese herbal formula improved symptoms of allergic rhinitis during the COVID-19 pandemic | 임상시험 | - | 중등도 | 10.1097/jcma.0000000000000732 | 어성초 기반 정이방이 비강 증상 개선, IL-6 억제 기전 |
-| Delayed prescription of antibiotics and the capabilities of herbal medicine when used in respiratory infections | 문헌고찰 | - | 낮음 | 10.1186/s40816-023-00364-5 | 생약 제제 우선 사용·항생제 지연 처방이 항생제 남용 감소 |
-| [A case of drug-induced pneumonitis due to levofloxacin and kampo medicine] | 증례 | 1 | 낮음 | PMID 17233393 | 항생제+한약 병용 시 약물 유발성 폐렴 가능성, 원인 약물 감별 필요 |
-
 ## 임상 적용
 
 - 만성 부비동염 환자에게 한약(단독 또는 표준 치료 병용)은 증상 중증도·삶의 질·내시경/CT 점수를 개선할 수 있으며, 표준 치료에 반응이 부족한 환자에게 병용 요법을 고려할 수 있다.[^5]

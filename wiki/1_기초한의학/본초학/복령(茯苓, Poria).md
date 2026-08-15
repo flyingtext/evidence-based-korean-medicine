@@ -10,7 +10,7 @@
 
 복령(茯苓)은 기원·가공·배합 처방에 따라 여러 하위 유형으로 세분된다.
 
-- **복령(茯苓, Poria cocos)**: 이수삼습·건비·안신의 대표 약재. [사군자탕(四君子湯)](../방제학/사군자탕(四君子湯).md)·육군자탕(六君子湯)·오령산(五苓散) 등 보기·이수 계열 처방의 핵심 구성이다.[^1]
+- **복령(茯苓, Poria cocos)**: 이수삼습·건비·안신의 대표 약재. [사군자탕(四君子湯)](../방제학/사군자탕(四君子湯).md)·육군자탕(六君子湯)·[오령산(五苓散)](../방제학/오령산(五苓散, Oryeong-san).md) 등 보기·이수 계열 처방의 핵심 구성이다.[^1]
 - **계지복령환(桂枝茯苓丸)**: 계지·복령·작약·도인·모란피로 구성된 활혈거어(活血祛瘀)의 대표 처방. 자궁근종·월경통·자궁내막증·갱년기 증후군·뇌혈관 질환 등 어혈(瘀血) 변증 질환에 가장 널리 연구된 복령 함유 방제.[^2][^3][^4]
 - **복령오령반하후박탕(茯苓五苓散加半夏厚朴湯)**: 복령·오령산·반하후박탕을 합한 처방으로, 수독(水毒)·담음(痰飮) 변증의 오심·구토·흡인성 폐렴·항암 부작용 등에 연구됨.[^5][^6][^7]
 - **복령사간탕(茯苓射干湯)**: 복령·사간 등으로 구성된 처방으로, 비결핵 항산균 폐질환 등 호흡기 질환에 연구됨.[^8]
@@ -34,61 +34,6 @@
 - 복령 다당류는 만성 B형 간염 환자의 HBeAg·HBV DNA 수치 개선에 긍정적일 수 있으나, 포함 연구의 질이 낮아 해석에 주의가 필요하다(근거수준: 낮음).[^16]
 - 복령 함유 처방은 대장암 수술 후 전이성 재발 위험을 낮추고 무병 생존율을 개선할 수 있다(근거수준: 중등도).[^17]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Exploring the therapeutic efficacy and pharmacological mechanism of Guizhi Fuling Pill on ischemic stroke | 메타분석 | - | 높음 | 10.1007/s11011-024-01383-y | 계지복령환, 허혈성 뇌졸중 총 유효율 증가·NIHSS 감소·혈액 점도·염증 지표 개선 |
-| Blood-invigorating Chinese herbal medicines plus conventional therapy for endometriosis | 메타분석 | - | 높음 | 10.3389/fmed.2026.1776698 | 계지복령환 등, 자궁내막증 병용 시 통증·호르몬·염증·낭종·재발 개선 |
-| Pharmacotherapeutic effects of kuei-chih-fu-ling-wan on human uterine myomas | 임상시험 | 110 | 중등도 | 10.1142/S0192415X92000333 | 계지복령환, 자궁근종 과다월경·월경통 개선·근종 크기 감소 |
-| Comparing the effects of estrogen and an herbal medicine on peripheral blood flow in post-menopausal women with hot flashes | 임상시험 | 352 | 높음 | 10.1142/S0192415X05002813 | 계지복령환, 안면홍조 완화·하체 혈류 증가, HRT와 유사 |
-| Beneficial effect of Gyejibokryeong-hwan on climacteric syndrome with blood stasis pattern | 임상시험 | 50 | 중등도 | 10.1016/j.imr.2023.100951 | 계지복령환, 혈어형 갱년기 증상·삶의 질 개선 |
-| Effectiveness and Safety of Guizhi Fuling Wan on Prostate Diseases | 메타분석 | - | 높음 | 10.1177/27683605251385894 | 계지복령환, BPH·만성 전립선염 배뇨 증상 개선 |
-| Effect of keishibukuryogan on endothelial function in patients with metabolic syndrome | 임상시험 | 92 | 중등도 | 10.1155/2012/359282 | 계지복령환, 대사증후군 내피 기능·산화 스트레스 개선 |
-| Keishibukuryogan decreases disease activity and sVCAM-1 in rheumatoid arthritis | 임상시험 | 16 | 중등도 | 10.1093/ecam/nel025 | 계지복령환, RA 관절 증상·내피 기능 지표 개선 |
-| Effect of keishibukuryogan combined with tocopherol nicotinate on sperm parameters in varicocele | 관찰연구 | 119 | 중등도 | 10.1111/iju.14746 | 계지복령환, 저등급 정계정맥류 운동성 정자 개선 |
-| Effects of Gyejibongnyeong-hwan on dysmenorrhea caused by blood stagnation | 임상시험 | 100 | 중등도 | 10.1186/1745-6215-13-3 | 계지복령환, 혈어형 월경통 통증 완화 프로토콜 |
-| Efficacy and safety of Gyejibokryeong-hwan in major depressive disorder | 임상시험 | 126 | 중등도 | 10.1186/s13063-022-06339-0 | 계지복령환, 주요 우울장애 유효성·안전성 프로토콜 |
-| Examination of clinical efficacy of keishibukuryogan on varicose veins of the lower extremity | 임상시험 | 30 | 중등도 | 10.3400/avd.oa.14-00055 | 계지복령환, 하지 정맥류 저림·냉감·통증 개선 |
-| Efficacy and safety of keishibukuryogan for hot flashes in prostate cancer patients | 임상시험 | 30 | 중등도 | 10.21037/tau-20-901 | 계지복령환, 전립선암 ADT 안면홍조 완화 |
-| Japanese herbal Kampo medicine, Keishibukuryogan, for chronic subdural hematoma | 관찰연구 | 60 | 중등도 | 10.25259/sni_455_2022 | 계지복령환, 만성 경막하 혈종 수술 후 재발 방지 |
-| Safety and Efficacy of Keishi-Bukuryo-Gan in Spontaneous Intracerebral Hemorrhage | 관찰연구 | 53 | 중등도 | 10.11477/mf.1436203810 | 계지복령환, 급성기 뇌내출혈 혈종 흡수 촉진 |
-| Comparative efficacy of Keishi-bukuryo-gan and pentoxifylline on RBC deformability in oketsu | 임상시험 | 30 | 중등도 | 10.1078/094471103322331395 | 계지복령환, 어혈형 뇌경색 적혈구 변형능 개선 |
-| The traditional Japanese formula keishibukuryogan reduces liver injury in NAFLD | 관찰연구 | 11 | 중등도 | 10.1111/j.1749-6632.2009.05265.x | 계지복령환, NAFLD 간 손상·콜레스테롤 감소 |
-| Effects of keishibukuryogan on blood pressure in perimenopausal and postmenopausal women | 관찰연구 | 77 | 중등도 | 10.1016/j.ijgo.2011.03.006 | 계지복령환, 폐경 전후 여성 혈압·갱년기 증상 개선 |
-| Effects of three Kampo formulae on peri- and postmenopausal women with sleep disturbances | 관찰연구 | 151 | 중등도 | 10.1007/s00404-010-1779-4 | 계지복령환, 폐경 전후 수면 장애·발한 개선 |
-| The Difference between the Two Representative Kampo Formulas for Treating Dysmenorrhea | 관찰연구 | 168 | 중등도 | 10.1155/2016/3159617 | 계지복령환·당귀작약산, 월경통 처방 선택 기준 제시 |
-| Bukuryoingohangekobokuto may improve recurrent aspiration pneumonia in brain damage | 증례 | 1 | 매우 낮음 | 10.4103/jfmpc.jfmpc_1627_20 | 복령오령반하후박탕, 흡인성 폐렴 재발 억제·간병 부담 감소 |
-| Prolonged Anorexia With Nausea Caused by Immune Checkpoint Inhibitors Treated Using Kampo | 증례 | 1 | 매우 낮음 | 10.3389/fphar.2022.870823 | 복령오령반하후박탕·인삼양영탕, ICI 식욕부진·오심 개선 |
-| Case Report: Kampo Medicine for Non-tuberculous Mycobacterium Pulmonary Disease | 증례 | 1 | 매우 낮음 | 10.3389/fnut.2021.761934 | 복령사간탕, NTM-PD 호흡기 증상·균 음성 전환 |
-| Integrative treatment of paralytic small intestine following acute cervical cord injury | 증례 | 1 | 매우 낮음 | 10.25259/SNI_62_2020 | 복령탕·반하후박탕, 수술 후 장폐색 개선 |
-| Improvement of Dyspnea and Palpitations of Cardiac Origin Using Bangibokryeong-tang | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2024.45.1.100 | 방기복령탕, 심장 질환 호흡곤란·심계항진 개선 |
-| Chinese medicinal herbs for chronic hepatitis B | 체계적 고찰 | 936 | 낮음 | 10.1002/14651858.CD001940 | 복령 다당류 등, 만성 B형 간염 HBeAg·HBV DNA 개선 가능 |
-| Serum-derived exosome proteomics unveils the dampness constitution in TCM | 실험연구 | - | 매우 낮음 | 10.1016/j.jep.2025.120353 | 복령택사탕, 습체질 관련 고지혈증 개선 |
-| Traditional herbal medicine for obesity-related polycystic ovary syndrome | 메타분석 | 5308 | 높음 | 10.3389/fphar.2025.1738172 | 복령·진피·창출·향부자, 비만성 PCOS 유효율·임신율 개선 |
-| A Four Ingredients Chinese Herbal Formula Decreases the Metastatic Recurrence of Colorectal Cancer | 관찰연구 | 707 | 중등도 | 10.21203/rs.3.rs-419697/v1 | 백출·인진호·진피·복령, 대장암 수술 후 재발 위험 감소 |
-| Pure red cell aplasia and hypogammaglobulinemia after administration of Poria cocos | 증례 | 1 | 매우 낮음 | 10.11406/rinketsu.56.2324 | 복령 함유 제제, 드물게 PRCA·저감마글로불린혈증 보고 |
-| A herbal-drug interaction study of keishi-bukuryo-gan in healthy female volunteers | 임상시험 | 31 | 중등도 | 10.1111/j.2042-7158.2011.01443.x | 계지복령환, CYP1A2 활성 약 16% 감소 가능 |
-| The Relation between Hepatotoxicity and Total Coumarin Intake from Kampo | 관찰연구 | 129 | 중등도 | 10.3389/fphar.2016.00174 | 계지 포함 제제, 일반 처방 범위 내 간독성 위험 낮음 |
-| A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes | 체계적 고찰 | - | 중등도 | 10.3390/biomedicines7030060 | 계지복령환, 갱년기 안면홍조 말초 혈류 개선 |
-| Acupuncture combined with Guizhi Fuling Wan for adenomyosis-associated dysmenorrhea | 증례 | 1 | 매우 낮음 | 10.1016/j.explore.2025.103169 | 계지복령환·침, 자궁선근증 생리통 개선 |
-| Effective Use of Keishibukuryogan in Subcutaneous Hematoma after Cardiac Device Surgery | 증례 | 2 | 매우 낮음 | 10.2169/internalmedicine.5677-20 | 계지복령환, 심장 장치 수술 후 피하 혈종 흡수 촉진 |
-| Effects of combined Kampo medicines on postoperative soft tissue swelling in moyamoya | 관찰연구 | 54 | 중등도 | 10.1002/tkm2.1352 | 계지복령환·지답복이포, 모야모야 수술 후 부종 감소 |
-| Guizhi Fuling capsules alleviate bortezomib-induced peripheral neuropathy | 실험연구 | - | 매우 낮음 | 10.1016/j.phymed.2025.156494 | 계지복령환, 보르테조밉 유발 말초신경병증 개선 |
-| Identification of a predictive biomarker for keishibukuryogan in climacteric syndrome | 관찰연구 | 39 | 중등도 | 10.1155/2014/962109 | 계지복령환, 갱년기 증후군 반응 예측 바이오마커 |
-| A Review of Clinical Studies of Chinese Medicine Treatment of Polycystic Kidney Disease | 체계적 고찰 | - | 중등도 | 10.22246/jikm.2021.42.3.225 | 가미계지복령환·복령·천궁, 다낭성 신종 활용 |
-| Clinical characteristics of adolescents and young adults with type 2 diabetes and TCM | 관찰연구 | 975 | 중등도 | 10.19852/j.cnki.jtcm.2026.03.010 | 복령·진피 등 건비제습 약재, 청년 당뇨병 담습 변증 활용 |
-| Effectiveness analysis of herbal medicine for gastroesophageal reflux disease | 관찰연구 | 35 | 중등도 | 10.1097/MD.0000000000037295 | 반하·생강·복령, GERD 증상 관리에 유용 |
-| Integrated effects of Kampo treatment on gastrointestinal symptoms and stress in functional dyspepsia | 관찰연구 | 41 | 중등도 | 10.3389/fphar.2025.1685656 | 육군자탕·평위산·복령심탕, 기능성 소화불량·스트레스 개선 |
-| Application of the TCM inheritance computing platform to recurrent urinary tract infections | 체계적 고찰 | 3462 | 중등도 | 10.36721/PJPS.2026.39.10.291.1 | 황백-복령 조합, 재발성 요로감염 유효 |
-| A case of eosinophilic sinusitis controlled by Kampo medicine | 증례 | 1 | 매우 낮음 | 10.1002/tkm2.1266 | 패독산·계지복령환, 호산구성 부비동염 관해 유지 |
-| Non-alcoholic fatty liver disease satisfactorily treated with kampo medicine | 증례 | 1 | 매우 낮음 | 10.1002/tkm2.1083 | 계지복령환·계지가소요탕, NAFLD 간 수치 개선 |
-| Network meta-analysis of Chinese patent medicines combined with mifepristone in uterine fibroids | 메타분석 | - | 높음 | 10.1097/md.0000000000027523 | 계지복령환 등, 자궁근종 미페프리스톤 병용 효과 |
-| Clinical efficacy and safety of Chinese patent medicines combined with hormonal therapy for endometriosis | 메타분석 | - | 높음 | 10.1016/j.ctcp.2025.102020 | 계지복령환, 복강경 수술 후 자궁내막증 반응률 개선 |
-| Effects of Kampo therapy on prognosis in patients with idiopathic interstitial pneumonia | 관찰연구 | 59 | 중등도 | 10.1002/tkm2.1242 | 한방 처방, 특발성 간질성 폐렴 생존 기간 연장 |
-| Outpatient Prescriptions of Kampo Formulations in Japan | 관찰연구 | 607500 | 중등도 | 10.2169/internalmedicine.5012-20 | 계지복령환, 장기 처방 경향·양약 병용 85% |
-| Survey on Kampo formulas frequently prescribed by physicians | 관찰연구 | 475 | 중등도 | 10.1002/tkm2.70000 | 계지복령환, 일본 동양의학회 전문의 빈용 처방 3위 |
-
 ## 임상 적용
 
 복령(茯苓)은 이수삼습·건비·안신의 효능을 바탕으로 임상에서 다음과 같이 적용할 수 있다.
@@ -102,7 +47,7 @@
 
 ## 경혈/처방 연관
 
-- **처방**: 복령(茯苓)은 사군자탕(四君子湯)·육군자탕(六君子湯)·오령산(五苓散)·계지복령환(桂枝茯苓丸)·복령오령반하후박탕(茯苓五苓散加半夏厚朴湯)·복령사간탕(茯苓射干湯)·복령탕(茯苓湯)·방기복령탕(防己茯苓湯)·복령택사탕(茯苓澤瀉湯) 등 이수·건비·활혈 계열 처방의 핵심 구성 약재이다.[^1]
+- **처방**: 복령(茯苓)은 사군자탕(四君子湯)·육군자탕(六君子湯)·[오령산(五苓散)](../방제학/오령산(五苓散, Oryeong-san).md)·계지복령환(桂枝茯苓丸)·복령오령반하후박탕(茯苓五苓散加半夏厚朴湯)·복령사간탕(茯苓射干湯)·복령탕(茯苓湯)·방기복령탕(防己茯苓湯)·복령택사탕(茯苓澤瀉湯) 등 이수·건비·활혈 계열 처방의 핵심 구성 약재이다.[^1]
 - **경혈**: 복령 함유 처방은 비위(脾胃)·수습(水濕) 조절을 위해 [족삼리(ST36)](../경락경혈학/족삼리(足三里, ST36).md)·[삼음교(SP6)](../경락경혈학/삼음교(三陰交, SP6).md) 등과 병용되는 경우가 많다.[^22]
 
 ## 미충족 근거 / 추가 연구 필요

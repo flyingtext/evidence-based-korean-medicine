@@ -112,38 +112,6 @@
 - 소아 추나가 소아 기침 지속 기간 단축·재발률 감소에 유의하다(메타분석, 1,502명).[^12]
 - 백유과립이 급성 기관지염의 기침 소실률을 개선한다(임상시험, 162명).[^22]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Herbal medicine for the treatment of chronic cough: a systematic review and meta-analysis | 메타분석 | 7,573 | 높음 | 10.3389/fphar.2023.1230604 | 한약 병용이 중증도·삶의 질·유효율 개선, 재발률·이상반응 감소 |
-| Acupuncture-related therapy for chronic cough: A systematic review and meta-analysis | 메타분석 | 2,835 | 높음 | 10.1016/j.imr.2025.101121 | 침 관련 요법이 중증도·삶의 질·총 유효율 개선 |
-| Pediatric Tui Na for cough in children: A systematic review and meta-analysis of RCTs | 메타분석 | 1,502 | 높음 | 10.1016/j.ctim.2022.102882 | 소아 추나가 기침 기간 단축·병행 시 재발률 감소 |
-| [Retracted] Assessment of Acupoint Therapy of TCM on Cough Variant Asthma: A Meta-analysis | 메타분석 | 1,237 | 높음 | 10.1155/2022/4168308 | 혈위요법이 총 유효율·폐 기능·IgE·호산구·삶의 질 개선 |
-| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중등도 | 10.1002/14651858.CD004560.pub2 | 중약이 급성 기관지염 기침·발열 기간 단축, 안전성 확인 필요 |
-| Chinese Herbal Medicine for Postinfectious Cough: A Systematic Review of RCTs | 체계적 고찰 | - | 중등도 | 10.1155/2013/906765 | 중약이 감염 후 기침 증상·진해 효과·삶의 질 개선 |
-| The Effect of Banhasasim-tang in Cough: A Systematic Review and Meta-analysis | 메타분석 | - | 중등도 | 10.22246/jikm.2021.42.3.385 | 반하사심탕이 기침 완화·폐 기능 개선 |
-| Treatment of cough and dyspnea due to acute bronchitis by plaster | 임상시험(RCT) | 1,158 | 중등도 | PMID 11977523 | 진해해천고가 완치율 유의 개선, 풍한형에서 효과 |
-| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험(RCT) | 162 | 중등도 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률(72.2%)·소실 시간 개선 |
-| Modulating the lung-gut axis: Xie Bai Zeng Ye decoction in children with post-infectious cough | 임상시험(RCT) | 116 | 중등도 | 10.1097/MD.0000000000045819 | 사백증액탕이 기침 완화·삶의 질·장내 미생물 개선 |
-| Effect of the maxing huoqiao granule on nonsevere community-acquired pneumonia | 임상시험(RCT) | 96 | 중등도 | 10.1016/j.phrs.2026.108186 | 마행곽교과립이 14일차 완치율(68.97%)·기침 회복 단축 |
-| [Effect of modified painless wheat-grain blistering moxibustion on CVA of wind cold attacking the lung] | 임상시험(RCT) | 94 | 중등도 | 10.13703/j.0255-2930.20250301-k0001 | 맥립화농구가 증상·폐 기능·IgE·IL-6 개선, 유효율 95.7% |
-| Clinical Efficacy of Acupuncture as Adjunctive Therapy for Cough Variant Asthma (Protocol) | 임상시험(프로토콜) | 88 | 낮음 | 10.2147/JAA.S586197 | CVA 표준 치료에 침 병행 예비 효능 검증 예정 |
-| The Effect of Kechuanting Acupoint Application on Chronic Cough | 임상시험(RCT) | 85 | 중등도 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 기침 증상·삶의 질 개선 |
-| Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia | 임상시험(RCT) | 160 | 중등도 | 10.1111/crj.70204 | 연화청각정이 소실률(85.9%)·기침·가래 완화율 개선 |
-| Efficacy and Safety of a Single Ivy Extract in Acute Bronchitis | 임상시험(RCT) | 325 | 중등도 | 10.3390/ph18050754 | 아이비 추출물 EA 575가 복합 제제 대비 우월·안전 |
-| A pilot study of bakumondoto for cough in patients with COPD | 임상시험(RCT) | 24 | 중등도 | 10.1016/j.phymed.2010.11.006 | 맥문동탕이 COPD 기침 강도(VAS) 유의 감소 |
-| Antitussive effect of bakumondoto for post-infectious prolonged cough | 임상시험(RCT) | 19 | 중등도 | 10.1016/j.phymed.2011.02.017 | 맥문동탕이 감염 후 기침 초기 진해 효과 |
-| Herbal Medicine Maekmundong-Tang on Nonspecific Chronic Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/ijerph20054164 | 비특이적 만성 기침 맥문동탕 RCT 프로토콜 |
-| Efficacy, Safety and Economic Evaluation of Wolbigachul-Tang for UACS Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/healthcare11202733 | UACS 만성 기침 월비가출탕 RCT 프로토콜 |
-| Acupuncture therapy for subacute and chronic cough in adults: systematic review and meta analysis | 메타분석(프로토콜) | - | 낮음 | 10.37766/inplasy2022.7.0110 | 아급성·만성 기침 침 요법 메타분석 프로토콜 |
-| Acupuncture and related therapies for post-infectious cough (Protocol) | 체계적 고찰(프로토콜) | - | 낮음 | 10.2196/preprints.94217 | 감염 후 기침 침 치료 체계적 고찰 프로토콜 |
-| Efficacy of acupuncture-related therapies for gastroesophageal reflux-related chronic cough | 메타분석 | 390 | 높음 | 10.3389/fmed.2026.1712003 | 침 병행이 주야간 기침·삶의 질(LCQ)·유효율 개선 |
-| Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management | 체계적 고찰 | 102,239 | 높음 | 10.1055/a-2745-1130 | EA 575가 기침·폐 기능 개선, 낮은 부작용 |
-| Chronic Cough after COVID-19 Improved by Chungsangboha-tang (증례) | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.6.1660 | 청상보하탕 포함 복합 한방 치료가 만성 기침 개선 |
-| [Analysis of association between HIF-1α gene polymorphism and CVA syndromes] | 관찰연구 | 180 | 낮음 | 10.19540/j.cnki.cjcmm.20251112.501 | HIF-1α 다형성이 CVA·기허혈어 변증·폐 기능과 연관 |
-| Education on Cough and Cold Treatment with Acupressure (Leaflets/Videos) | 임상시험 | 40 | 낮음 | 10.21070/acopen.10.2025.5939 | 리플릿·비디오 지압 교육이 보호자 지식·기술 향상 |
-
 ## 경혈/처방 연관
 
 - 경혈: 천돌(天突, CV22)·척택(尺澤, LU5)·태연(太淵, LU9)·폐수(肺兪, BL13)·대추(大椎, GV14)·단중(膻中, CV17)·고황(膏肓, BL43)·정천(定喘, EX-B1)·[합곡(合谷, LI4)](../../기초한의학/경락경혈학/합곡(合谷, LI4).md) 등 침·혈위요법·지압에 활용.[^5][^9][^11]

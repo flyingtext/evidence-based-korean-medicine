@@ -6,7 +6,7 @@
 
 ## 개요
 
-파킨슨병(Parkinson's Disease, **KCD-8: G20**)은 흑질(substantia nigra) 도파민 신경세포의 점진적 소실로 인해 발생하는 만성 진행성 신경퇴행성 질환이다.[^1][^2] 핵심 증상인 떨림(靜止震顫)·서동증(無動症/運動緩慢)·강직(僵直)·자세 불안정성을 비롯하여, 변비·수면 장애·우울·불안·인지 저하·자율신경 장애·연하 장애 등 비운동성 증상(non-motor symptoms)이 질병 전 과정에서 광범위하게 나타난다.[^3][^4] 한의학적으로는 **진전(震顫)**·**비증(痺證)**·**풍증(風證)** 범주에 해당하며, 간신음허(肝腎陰虛)·기혈부족(氣血不足)·풍화동(風火動)·담열(痰熱)·어혈(瘀血) 등으로 변증하여 침·두피침·뜸·약침·봉침·한약·추나·기공 등 다양한 한의학적 치료법을 적용한다.[^5][^6] 본 문서는 검색으로 확보한 파킨슨병 관련 한의학·인체 연구 논문을 전수 분석하여 근거 표와 본문에 반영한다.
+파킨슨병(Parkinson's Disease, **KCD-8: G20**)은 흑질(substantia nigra) 도파민 신경세포의 점진적 소실로 인해 발생하는 만성 진행성 신경퇴행성 질환이다.[^1][^2] 핵심 증상인 떨림(靜止震顫)·서동증(無動症/運動緩慢)·강직(僵直)·자세 불안정성을 비롯하여, 변비·수면 장애·우울·불안·인지 저하·자율신경 장애·연하 장애 등 비운동성 증상(non-motor symptoms)이 질병 전 과정에서 광범위하게 나타난다.[^3][^4] 한의학적으로는 **진전(震顫)**·**비증(痺證)**·**풍증(風證)** 범주에 해당하며, 간신음허(肝腎陰虛)·기혈부족(氣血不足)·풍화동(風火動)·담열(痰熱)·어혈(瘀血) 등으로 변증하여 침·두피침·뜸·약침·봉침·한약·추나·기공 등 다양한 한의학적 치료법을 적용한다.[^5][^6] 본 문서는 검색으로 확보한 파킨슨병 관련 한의학·인체 연구 논문을 전수 분석하여 각주와 본문에 반영한다.
 
 ## 하위 표제어(분류)
 
@@ -150,101 +150,6 @@
 - 연구 유형 분포: 무작위 대조 시험 45편, 체계적 고찰 33편, 문헌 고찰 28편, 증례 보고 23편, 메타분석 18편, 관찰연구 11편으로, 다양한 근거 수준을 고루 포함한다.
 - 침·전침·두피침·두피전침·봉침·약침·건침·뜸·추나·마사지·한약·기공·운동 등 다양한 한의학 치료법에 대한 근거를 확보하였다.
 - 근거 수준 우선 원칙에 따라 메타분석·체계적 고찰을 최우선으로 선별하고, 임상 참고 가치가 있는 RCT·관찰연구·증례를 빠짐없이 반영하였다. 주제와 무관한 일반적 보완의학 문헌고찰·기전 연구는 제외하고, 파킨슨병 직접 관련 연구를 중심으로 정리하였다.
-
-## 근거 표
-
-| 제목 | 연구유형 | 환자수 | 근거수준 | DOI/PMID | AI 임상요약 |
-|---|---|---|---|---|---|
-| Comparative efficacy of acupuncture-related therapies for Parkinson's disease: A systematic review and network meta-analysis | 메타분석 | 4262 | 높음 | [DOI: 10.1016/j.bbr.2025.115848](https://doi.org/10.1016/j.bbr.2025.115848) | 침 관련 요법+약물 병용이 단독보다 효과적, 전침+온침 유효율 최고 |
-| Efficacy of various acupuncture modalities on alleviating symptoms in Parkinson's disease | 메타분석 | 3248 | 높음 | [DOI: 10.1007/s10072-025-08333-1](https://doi.org/10.1007/s10072-025-08333-1) | 침은 UPDRS 전 영역 개선, 전침 최고 효능, 10혈위 주3회 권장 |
-| Chinese patent medicine in the treatment of Parkinson's disease: A systematic review and network meta-analysis | 메타분석 | 3281 | 높음 | [DOI: 10.1016/j.ctcp.2025.102042](https://doi.org/10.1016/j.ctcp.2025.102042) | 양약+중성약 병용 유효, 천마구등과립이 인지·운동 개선에 우수 |
-| Effectiveness and safety of acupuncture in the treatment of Parkinson's disease | 메타분석 | 2625 | 높음 | [DOI: 10.1016/j.ctim.2017.08.005](https://doi.org/10.1016/j.ctim.2017.08.005) | 침+약물 병용 UPDRS 개선, 안전, 연구 질 낮음 |
-| Efficacy of Acupuncture Therapy in Treating Non-Motor Symptoms of Parkinson's Disease | 메타분석 | 5538 | 높음 | [DOI: 10.2147/NDT.S541627](https://doi.org/10.2147/NDT.S541627) | 불안은 침+훈련, 우울은 복부침, 수면은 두피침 권장 |
-| Effect of Acupuncture on Movement Function in Patients with Parkinson's Disease: Network Meta-Analysis | 메타분석 | 1071 | 높음 | [DOI: 10.3390/healthcare9111502](https://doi.org/10.3390/healthcare9111502) | 봉침이 운동 기능·일상생활 개선에 가장 우수 |
-| Efficacy of herbal medicine treatment based on syndrome differentiation for Parkinson's disease | 메타분석 | 843 | 높음 | [DOI: 10.3389/fphar.2023.1108407](https://doi.org/10.3389/fphar.2023.1108407) | 변증 기반 한약+양약 병용 UPDRS·PDQ-39 개선 |
-| Efficacy of Oriental Exercises for Non-Motor Symptoms and Quality of Life in Parkinson's Disease | 메타분석 | 2029 | 높음 | [DOI: 10.1142/S0192415X24500861](https://doi.org/10.1142/S0192415X24500861) | 동양 운동은 인지·신경정신 증상·삶의 질 개선 |
-| Efficacy of Combined Herbal and Western Medicine for Mild Cognitive Impairment and Dementia in Parkinson's Disease | 메타분석 | 952 | 높음 | [DOI: 10.1159/000545937](https://doi.org/10.1159/000545937) | 변증 기반 한약+양약 병용 MoCA 개선, 간신부족형 유리 |
-| Acupuncture effects on non-motor symptoms of Parkinson's disease (sleep, mood, and fatigue) | 메타분석 | 138 | 높음 | [DOI: 10.3389/fneur.2026.1745157](https://doi.org/10.3389/fneur.2026.1745157) | 수면 질(PDSS) 개선, 불안 예비적 긍정, 피로는 불명 |
-| Efficacy of acupuncture in ameliorating anxiety in Parkinson's disease | 메타분석 | - | 높음 | [DOI: 10.3389/fnagi.2024.1462851](https://doi.org/10.3389/fnagi.2024.1462851) | 수기침+약물 병행 시 불안 개선 경향, 근거 확실성 낮음 |
-| Integrated approach of scalp electroacupuncture and pharmacotherapy in managing Parkinson's disease | 메타분석 | - | 높음 | [DOI: 10.1097/MD.0000000000040786](https://doi.org/10.1097/MD.0000000000040786) | 두피전침+약물 병용 UPDRS·UPDRS III 개선 |
-| Comparative efficacy of non-pharmacological interventions for Parkinson's disease with constipation | 메타분석 | 881 | 높음 | [DOI: 10.3389/fneur.2025.1579556](https://doi.org/10.3389/fneur.2025.1579556) | 물리적 요법이 변비 개선에 가장 효과적 |
-| Efficacy of Moxibustion in the Treatment of Parkinson's Disease Based on Meta-Analysis | 메타분석 | - | 높음 | [DOI: 10.1155/2022/8168152](https://doi.org/10.1155/2022/8168152) | 뜸 요법 유망하나 연구 수 적음 |
-| A systematic review and meta-analysis of acupuncture in Parkinson's disease with dysphagia | 메타분석 | - | 높음 | [DOI: 10.3389/fneur.2023.1099012](https://doi.org/10.3389/fneur.2023.1099012) | 침이 연하 장애 개선에 유망 |
-| Meta-analysis of the therapeutic effect of acupuncture on dysphagia in patients with Parkinson disease | 메타분석 | - | 높음 | [DOI: 10.1097/md.0000000000036698](https://doi.org/10.1097/md.0000000000036698) | 침이 연하 기능 개선 |
-| Acupuncture and sleep disorders in Parkinson's disease: systematic evaluation with meta-analysis | 메타분석 | - | 높음 | [DOI: 10.1097/md.0000000000036286](https://doi.org/10.1097/md.0000000000036286) | 침이 수면 장애 개선 |
-| Beneficial Effect of Bee Venom Therapy as an Adjunctive Treatment of Parkinson's Disease: A Systematic Review | 메타분석 | - | 높음 | [DOI: 10.18502/tim.v10i1.18225](https://doi.org/10.18502/tim.v10i1.18225) | 봉침 보조 요법 증상 개선 |
-| Efficacy and safety of herbal medicines for idiopathic Parkinson's disease: a systematic review | 체계적 고찰 | - | 높음 | [DOI: 10.1002/mds.21008](https://doi.org/10.1002/mds.21008) | 한약 치료 잠재적 효과, 질 낮음 |
-| Scalp acupuncture for Parkinson's disease: a systematic review of randomized controlled trials | 체계적 고찰 | 214 | 높음 | [DOI: 10.1007/s11655-013-1431-9](https://doi.org/10.1007/s11655-013-1431-9) | 두피침+기존 치료 병행 UPDRS 개선, 연구 질 낮음 |
-| Is acupuncture efficacious therapy in Parkinson's disease? | 체계적 고찰 | - | 높음 | [DOI: 10.1016/j.jns.2014.04.016](https://doi.org/10.1016/j.jns.2014.04.016) | 근거 불충분, 엄격한 연구 필요 |
-| Effectiveness of acupuncture for Parkinson's disease: a systematic review | 체계적 고찰 | 302 | 높음 | [DOI: 10.1002/mds.21993](https://doi.org/10.1002/mds.21993) | 가짜 침 대비 유의차 없음, 병용 시 긍정적 |
-| Pharmacoacupuncture for Idiopathic Parkinson's Disease: A Systematic Review of RCTs | 체계적 고찰 | 134 | 높음 | [DOI: 10.1155/2018/3671542](https://doi.org/10.1155/2018/3671542) | 약침 일부 효과, 봉독 부작용 주의 |
-| Massage therapy as a complementary treatment for Parkinson's disease | 체계적 고찰 | - | 높음 | [DOI: 10.1016/j.ctim.2020.102340](https://doi.org/10.1016/j.ctim.2020.102340) | 마사지는 수면·통증·불안·우울 개선 |
-| Effectiveness of Bee Venom Injection for Parkinson's Disease: A Systematic Review | 체계적 고찰 | 215 | 높음 | [DOI: 10.3390/toxins17040204](https://doi.org/10.3390/toxins17040204) | 봉침 UPDRS 개선, 심각한 부작용 없음 |
-| Neuroimaging Effects of Acupuncture in Parkinson's Disease: A Scoping Review | 체계적 고찰 | - | 높음 | [DOI: 10.13048/jkm.25046](https://doi.org/10.13048/jkm.25046) | 침이 기저핵·전두엽·DMN 활성화 |
-| Review on the effect of acupuncture on Parkinson's disease over the last 5 years | 체계적 고찰 | - | 높음 | [DOI: 10.13048/jkm.22010](https://doi.org/10.13048/jkm.22010) | 침은 증상 개선에 유의미한 긍정 효과 |
-| Research methods and efficacy of acupuncture in the treatment of Parkinson's disease: a scoping review | 체계적 고찰 | - | 높음 | [DOI: 10.3389/fneur.2023.1196446](https://doi.org/10.3389/fneur.2023.1196446) | 침 유의미 효과 가능성, 방법론 개선 필요 |
-| Exploring Traditional Medicine Diagnostic Classification for Parkinson's Disease Using Hierarchical Clustering | 체계적 고찰 | - | 높음 | [DOI: 10.1159/000536047](https://doi.org/10.1159/000536047) | 파킨슨병 4개 하위 유형, 음허증 연관 처방 |
-| Traditional Medicine Classification Based on the Nature and Location of Disease in Parkinson's Disease | 체계적 고찰 | 189 | 높음 | [DOI: 10.1089/jicm.2023.0026](https://doi.org/10.1089/jicm.2023.0026) | 7개 변증 군집, 간신음허 최다 |
-| Efficacy of Herbal Medicine on Sleep Disorders in Parkinson's Disease: A Review of RCTs | 체계적 고찰 | - | 높음 | [DOI: 10.22246/jikm.2023.44.4.603](https://doi.org/10.22246/jikm.2023.44.4.603) | 한약 수면 개선 잠재적, RCT 질 낮음 |
-| Plant-derived therapies in Parkinson's disease: a systematic review | 체계적 고찰 | - | 높음 | [DOI: 10.1007/s00702-026-03239-4](https://doi.org/10.1007/s00702-026-03239-4) | Mucuna pruriens 운동 개선, 강황·브라미 일부 효과 |
-| Qihuang Needle Therapy for Motor Symptoms in Parkinson's Disease: A Randomized Controlled Trial | 임상시험 | 140 | 중등도 | [DOI: 10.1002/mds.70343](https://doi.org/10.1002/mds.70343) | 기황침 UPDRS-III·비운동 증상 개선, 1개월 이상 지속 |
-| Tongue Acupuncture to Treat Dysphagia in Patients with Parkinson's Disease: A Randomized Controlled Trial | 임상시험 | - | 중등도 | [DOI: 10.1089/acu.2023.0073](https://doi.org/10.1089/acu.2023.0073) | 설침이 연하 장애 개선 |
-| [Jiao's scalp acupuncture combined with VR rehabilitation training for motor dysfunction in patients with Parkinson's disease] | 임상시험 | 52 | 중등도 | [PMID 35793880](https://pubmed.ncbi.nlm.nih.gov/35793880/) | 교씨두침+VR 병행이 보행·UPDRS-III 개선 |
-| Clinical Efficacy of Scalp Acupuncture Combined With rTMS for Parkinson's Disease With REM Sleep Behavior Disorder | 임상시험 | 120 | 중등도 | [DOI: 10.1177/03601293251361639](https://doi.org/10.1177/03601293251361639) | 두피침+rTMS 병용 수면 질·비운동 증상 개선 |
-| Targeting gut-brain axis through scalp-abdominal electroacupuncture in Parkinson's disease | 임상시험 | 30 | 중등도 | [DOI: 10.1016/j.brainres.2022.147956](https://doi.org/10.1016/j.brainres.2022.147956) | 두피-복부 전침 NMSS·PDSS·UPDRS 개선, 장내 미생물 변화 |
-| [Therapeutic effect of scalp electroacupuncture on Parkinson disease] | 임상시험 | 30 | 중등도 | [PMID 16495192](https://pubmed.ncbi.nlm.nih.gov/16495192/) | 두피전침+약물 병용 운동 기능 개선 |
-| [Effects on electro-scalp acupuncture on cerebral dopamine transporter in patients with Parkinson's disease] | 임상시험 | 10 | 중등도 | [PMID 16688994](https://pubmed.ncbi.nlm.nih.gov/16688994/) | 전두두피침 DAT 활성도 개선 |
-| [Effect of electro-scalp acupuncture on cerebral dopamine transporter in the striatum area of the patient of Parkinson's disease] | 증례 | 5 | 낮음 | [PMID 16813186](https://pubmed.ncbi.nlm.nih.gov/16813186/) | 전두피침 SPECT상 DAT 활성도 개선 경향 |
-| Complementary acupuncture treatment increases cerebral metabolism in patients with Parkinson's disease | 임상시험 | 10 | 중등도 | [DOI: 10.1080/00207450802336774](https://doi.org/10.1080/00207450802336774) | 두피침 병행 시 뇌 포도당 대사 증가 |
-| Complementary acupuncture in Parkinson's disease: a spect study | 임상시험 | 10 | 중등도 | [DOI: 10.3109/00207450903316527](https://doi.org/10.3109/00207450903316527) | 두피전침 rCBF 증가, DAT는 불변 |
-| Efficacy of Combined Treatment with Acupuncture and Bee Venom Acupuncture as an Adjunctive Treatment for Parkinson's Disease | 임상시험 | 73 | 중등도 | [DOI: 10.1089/acm.2016.0250](https://doi.org/10.1089/acm.2016.0250) | 침+봉침 병용 UPDRS 개선, 효과 지속 |
-| Effectiveness of acupuncture and bee venom acupuncture in idiopathic Parkinson's disease | 임상시험 | 43 | 중등도 | [DOI: 10.1016/j.parkreldis.2012.04.030](https://doi.org/10.1016/j.parkreldis.2012.04.030) | 봉침 UPDRS·BBS·보행 개선, 침은 우울 개선 |
-| A Prospective Open-Label Study of Combined Treatment for Idiopathic Parkinson's Disease Using Acupuncture and Bee Venom Acupuncture | 임상시험 | 11 | 중등도 | [DOI: 10.1089/acm.2015.0078](https://doi.org/10.1089/acm.2015.0078) | 침+봉침 12주 후 보행·UPDRS·PDQL 개선 |
-| Neuroimaging Assessment of the Therapeutic Mechanism of Acupuncture and Bee Venom Acupuncture in Idiopathic Parkinson's Disease | 임상시험 | 20 | 중등도 | [DOI: 10.13048/jkm.23050](https://doi.org/10.13048/jkm.23050) | 침+봉침 도파민 가용성·뇌혈류 과활동 회복 |
-| Effects of dry needling on gait and muscle tone in Parkinson's disease: a randomized clinical trial | 임상시험 | 33 | 중등도 | [DOI: 10.1177/09645284211039232](https://doi.org/10.1177/09645284211039232) | 건침 그룹 내 TUG·10MWT·근긴장도 개선 |
-| Dry Needling in Parkinson's Disease: A Randomized Clinical Trial with Markerless Kinematic Analysis | 임상시험 | 38 | 중등도 | [DOI: 10.64898/2026.03.10.26348054](https://doi.org/10.64898/2026.03.10.26348054) | 단일 건침 세션 가짜 침 대비 유의차 없음 |
-| Self-treatment of freezing of gait in Parkinson's disease patients using silicone pads to apply Thai acupressure | 임상시험 | 60 | 중등도 | [DOI: 10.1016/j.prdoa.2024.100254](https://doi.org/10.1016/j.prdoa.2024.100254) | 발바닥 지압 자가 치료 보폭·FOG 개선 |
-| Comparing the efficacy of therapeutic Thai acupressure on plantar acupoints and laser cane therapy on freezing of gait | 임상시험 | 90 | 중등도 | [DOI: 10.3389/fneur.2024.1327448](https://doi.org/10.3389/fneur.2024.1327448) | 태국식 지압 보행 동결 완화에 비열등·일부 우월 |
-| Open-label trial regarding the use of acupuncture and yin tui na in Parkinson's disease outpatients | 임상시험 | 25 | 중등도 | [DOI: 10.1089/acm.2006.12.395](https://doi.org/10.1089/acm.2006.12.395) | 침+추나 BDI·PDQ-39 개선 |
-| Effectiveness and safety of herbal medicine Ukgansan for clinical symptoms in Parkinson's disease | 임상시험 | 60 | 중등도 | [DOI: 10.3389/fneur.2022.1025269](https://doi.org/10.3389/fneur.2022.1025269) | 억간산 불안 동반군 PDQ-39 이동성·일상 개선 |
-| Effectiveness of the Kampo kami-shoyo-san (TJ-24) for tremor of antipsychotic-induced parkinsonism | 임상시험 | 8 | 중등도 | [DOI: 10.1046/j.1440-1819.2000.00756.x](https://doi.org/10.1046/j.1440-1819.2000.00756.x) | 가미소요산 약물 유발 파킨슨증 떨림 감소 |
-| Gastrointestinal symptoms in Parkinson's disease treated in a controlled trial using traditional Chinese medicine (Jia-Wei-Ji-Chuan-Jian decoction) | 임상시험 | 72 | 중등도 | [DOI: 10.5414/CP204864](https://doi.org/10.5414/CP204864) | 가위지전건탕 변비 CSS 유의 개선 |
-| [Effects of acupoint catgut embedding on gut microbiota and fecal short-chain fatty acids in Parkinson's disease patients with constipation] | 임상시험 | 80 | 중등도 | [PMID 41261535](https://pubmed.ncbi.nlm.nih.gov/41261535/) | 천추·족삼리·상거허 매선 배변·SCFA 개선 |
-| The adjunct use of Bifidobacterium with Liuwei'anxiao Capsule in alleviating constipation in Parkinson's Disease | 임상시험 | 105 | 중등도 | [DOI: 10.1016/j.jep.2026.121694](https://doi.org/10.1016/j.jep.2026.121694) | 육미안소캡슐+프로바이오틱스 병용 배변 개선 |
-| Clinical Study on Treatment of Parkinson's Disease using Electroacupuncture Combined with Rehabilitation | 임상시험 | 20 | 중등도 | [DOI: 10.18686/aem.v6.79](https://doi.org/10.18686/aem.v6.79) | 전침+재활 병행 인지·일상·운동 개선 |
-| [Observation on therapeutic effect of herbs-partitioned moxibustion on Parkinson disease of 54 cases] | 임상시험 | 54 | 중등도 | [PMID 16318144](https://pubmed.ncbi.nlm.nih.gov/16318144/) | 격물구(신궐) 파킨슨병 증상 개선 |
-| [Transcutaneous auricular vagus nerve stimulation in treatment of primary Parkinson's disease] | 임상시험 | 60 | 중등도 | [PMID 41741977](https://pubmed.ncbi.nlm.nih.gov/41741977/) | taVNS 자율신경·운동 증상·삶의 질 개선 |
-| Unraveling cassia oil's efficacy in alleviating winter-triggered mood disorders in Parkinson's disease | 임상시험 | 80 | 중등도 | [DOI: 10.1016/j.explore.2025.103240](https://doi.org/10.1016/j.explore.2025.103240) | 계피유 향기 요법 HAMD·HAMA·PSQI 개선 |
-| Feasibility and positive effects of scalp acupuncture for modulating motor and cerebral activity in Parkinson's disease | 임상시험 | 12 | 중등도 | [DOI: 10.3233/NRE-220048](https://doi.org/10.3233/NRE-220048) | 두피침 보행 지표·전두엽·소뇌 활동 개선 |
-| Acupuncture for Mild Cognitive Impairment in Vascular Parkinsonism: A Prospective RCT Protocol | 임상시험 | 105 | 중등도 | [DOI: 10.2147/NDT.S585695](https://doi.org/10.2147/NDT.S585695) | 혈관성 파킨슨증 경도인지장애 침 프로토콜 |
-| The efficacy and safety of MARS-PD: Meridian activation remedy system for Parkinson's disease | 임상시험 | 88 | 중등도 | [DOI: 10.1371/journal.pone.0303156](https://doi.org/10.1371/journal.pone.0303156) | 침+운동 MARS-PD 프로토콜 |
-| Effectiveness and Safety of Meridian Activation Remedy System for Alleviating Motor Symptoms in Parkinson's Disease | 관찰연구 | 13 | 중등도 | [DOI: 10.51507/j.jams.2024.17.2.55](https://doi.org/10.51507/j.jams.2024.17.2.55) | MARS 8주 후 MDS-UPDRS III·보행 개선 |
-| A nationwide retrospective cohort study of the association between acupuncture exposure and clinical outcomes of idiopathic Parkinson's disease | 관찰연구 | 12788 | 중등도 | [DOI: 10.1016/j.imr.2025.101146](https://doi.org/10.1016/j.imr.2025.101146) | 침 병행군 사망 위험 유의 감소(HR 0.887) |
-| Acupuncture-Related Therapies as a Potential Adjuvant Option for Parkinson's Disease | 관찰연구 | 46908 | 중등도 | [DOI: 10.1155/padi/5512318](https://doi.org/10.1155/padi/5512318) | 한의 통합 치료 레보도파 감소·사망 위험 감소 |
-| Trends of Korean Medicine Treatment for Parkinson's Disease in South Korea | 관찰연구 | 18562 | 중등도 | [DOI: 10.3390/healthcare13101207](https://doi.org/10.3390/healthcare13101207) | 한의 이용 증가, 침 비중 50.6%, 근골격 동반 잦음 |
-| Use of complementary and alternative medicine by Korean patients with Parkinson's disease | 관찰연구 | 123 | 중등도 | [DOI: 10.1016/j.clineuro.2008.09.011](https://doi.org/10.1016/j.clineuro.2008.09.011) | 파킨슨병 환자 76% CAM 이용, 한방 비중 높음 |
-| Natural Health Products for Symptomatic Relief of Parkinson's Disease | 관찰연구 | 367 | 중등도 | [DOI: 10.3233/JPD-240102](https://doi.org/10.3233/JPD-240102) | 천연 제품 36% 사용, 상호작용 인지 낮음 |
-| Constitutional Study of Parkinson's Disease Patients Based on Traditional Chinese Medicine Pattern Differentiation | 관찰연구 | 63 | 중등도 | [DOI: 10.1159/000369530](https://doi.org/10.1159/000369530) | 대부분 복합 체질, 어혈 체질 레보도파 적음 |
-| A Case Report of Korean Medicine in the Treatment of Idiopathic Parkinson's Disease with Chronic Pain and Gait Disturbance | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2024.45.5.839](https://doi.org/10.22246/jikm.2024.45.5.839) | 작약감초탕 등 한방 치료 통증·보행 개선 |
-| A Case Study of Parkinson's Disease Patient with Anxiety and Insomnia Treated with Korean-medicine Treatment (계지가용골모려탕) | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2023.44.5.846](https://doi.org/10.22246/jikm.2023.44.5.846) | 계지가용골모려탕+침·뜸 BAI·ISI 개선 |
-| Case Report of Drug-Induced Parkinsonism with Gait Disturbance Treated with Adjuvant Korean Therapy | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2023.44.2.187](https://doi.org/10.22246/jikm.2023.44.2.187) | 한약+약침 17일 UPDRS 32→16 개선 |
-| Two Cases of Korean Medicine Treatment for Patients with Parkinson's Disease Evaluated Using 3D Gait Analysis | 증례 | 2 | 낮음 | [DOI: 10.22246/jikm.2023.44.4.774](https://doi.org/10.22246/jikm.2023.44.4.774) | 3개월 한의 치료 보행 속도·보폭·UPDRS III 개선 |
-| A Case Report of a Patient with Parkinson's Disease Treated with Acupuncture and Exercise Therapy | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2022.43.5.1018](https://doi.org/10.22246/jikm.2022.43.5.1018) | 침+운동 12주 UPDRS·FES·PDQ·NMSS 개선 |
-| A Case Report of Scalp Acupuncture and Chuna Manual Therapy for a Patient with Idiopathic Parkinson's Disease | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2023.44.5.894](https://doi.org/10.22246/jikm.2023.44.5.894) | 두피침+추나 무릎 ROM·보행 개선 |
-| [Clinical experience of Qin's eight scalp needles for treatment of Parkinson's disease] | 증례 | - | 낮음 | [PMID 25022128](https://pubmed.ncbi.nlm.nih.gov/25022128/) | 풍지·백회 등 8두피침 운동·인지·정서 개선 |
-| [LIU Zhibin's experience of acupuncture and tuina in treatment of Parkinson's disease with constipation] | 증례 | - | 낮음 | [PMID 40825699](https://pubmed.ncbi.nlm.nih.gov/40825699/) | 조신통부 침법+추나 변비 개선 |
-| Deprescribing and Multimodal Korean Medicine for Sequential Prescribing Cascades (Drug-Induced Parkinsonism) | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2026.47.1.49](https://doi.org/10.22246/jikm.2026.47.1.49) | 천마구등음 가감으로 약물 유발 파킨슨증 회복 |
-| Integrative Postural Rehabilitation for Kyphotic Deformity in a Patient with Parkinson's Disease | 증례 | 1 | 낮음 | [DOI: 10.3390/jcm14113705](https://doi.org/10.3390/jcm14113705) | 침·약침·추나·온열 통합 재활 후만·보행 개선 |
-| A Case Report on Home-Based End-of-Life Care with Traditional Korean Medicine Acupuncture and Herbal Medicine | 증례 | 1 | 낮음 | [DOI: 10.1177/10966218251368491](https://doi.org/10.1177/10966218251368491) | 말기 파킨슨병 침·한약 피부·변비·호흡곤란 개선 |
-| Acupuncture for Parkinson's Disease: A Narrative Review of Clinical Efficacy and Mechanistic Insights | 문헌고찰 | - | 낮음 | [DOI: 10.2147/NDT.S532027](https://doi.org/10.2147/NDT.S532027) | 침의 신경 염증 조절·α-시누클레인 억제 기전 |
-| Acupuncture Treatment of Autonomic Nervous Dysfunction in Patients with Parkinson's Disease: A Narrative Review | 문헌고찰 | - | 낮음 | [DOI: 10.1089/acu.2023.0076](https://doi.org/10.1089/acu.2023.0076) | 침이 자율신경 기능 장애에 유망 |
-| Treatment of Parkinson disease by acupuncture combined with medicine based on syndrome differentiation | 문헌고찰 | - | 낮음 | [DOI: 10.1097/md.0000000000034278](https://doi.org/10.1097/md.0000000000034278) | 변증시치 침+한약 병용 유효성 고찰 |
-| Complementary & alternative management of Parkinson's disease: an evidence-based review of eastern influenced practices | 문헌고찰 | - | 낮음 | [DOI: 10.14802/jmd.14009](https://doi.org/10.14802/jmd.14009) | 태극권·무용 안전 유익, 침·요가 근거 부족 |
-| Integrative Medicine and Parkinson's Disease | 문헌고찰 | - | 낮음 | [DOI: 10.1093/med/9780190051617.003.0007](https://doi.org/10.1093/med/9780190051617.003.0007) | 침·운동·태극권·요가·명상 통합 관리 권장 |
-| Evidence for the Use of Acupuncture in Treating Parkinson's Disease: Update of Information From the Past 5 Years | 문헌고찰 | - | 낮음 | [DOI: 10.3389/fneur.2018.00596](https://doi.org/10.3389/fneur.2018.00596) | 침 연구 증가, 근거 수준 여전히 제한적 |
-| The Pharmacokinetics, Pharmacological Mechanisms and Clinical Application of Zhenwu Decoction | 문헌고찰 | - | 낮음 | [DOI: 10.1111/bcpt.70174](https://doi.org/10.1111/bcpt.70174) | 진무탕의 신경계 적용 가능성 고찰 |
-| Chinese herbal formula comprehensively and significantly ameliorated a range of autonomic symptoms accompanying Parkinson's disease | 증례 | 1 | 낮음 | [DOI: 10.21203/rs.3.rs-1523894/v1](https://doi.org/10.21203/rs.3.rs-1523894/v1) | 중약 처방 자율신경 증상·약물 용량 개선 |
-
 
 ## 미충족 근거 / 추가 연구 필요
 

@@ -91,35 +91,6 @@
 - 신궐혈 뜸 병행이 반응률·관해율·점막 치유율을 향상시킨다(관찰연구, 123명).[^13]
 - 생물학적 제제와 한약·침 병용이 관해율을 높이고 대장 절제율을 낮춘다(관찰연구·임상시험).[^17][^20]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Comparative clinical efficacy of acupuncture-related therapies for ulcerative colitis: a systematic review and network meta-analysis | 네트워크 메타분석 | 7,484 | 높음 | 10.3389/fmed.2025.1676608 / 41458494 | 침 관련 요법이 유효율·Mayo/내시경 점수·염증 지표(IL-6·TNF-α) 개선, 총유효율엔 이침+중약, 증상엔 침 결합, 염증엔 온침 우수 |
-| Systematic review and network meta-analysis of integrated traditional Chinese and conventional medicine for ulcerative colitis | 메타분석 | 3,763 | 높음 | 10.3389/fphar.2026.1785134 / 42428503 | 중의학+현대의학 병행 통합 치료가 유효율 상승, 탕제+혈위 매선 병행 시 총유효율 최고 |
-| Clinical Effectiveness and Safety of Chinese Herbal Enema for Ulcerative Colitis: An Evidence-Based Study | 메타분석 | 2,883 | 높음 | 10.1142/S0192415X26500047 / 41582082 | 중약 관장이 메살라진 단독보다 효과적·안전, 변증·중증도별 층화 치료 시 효과 극대화 |
-| Efficacy of herbal medicine (Gegen Qinlian Decoction) on ulcerative colitis | 메타분석 | 2,028 | 높음 | 10.1097/md.0000000000018512 | 갈근진련탕이 단독·병용 시 유효율·재발률·내시경 점수 개선, 병용 투여가 유효성·안전성 긍정 |
-| Efficacy and safety of acupoint application in the treatment of ulcerative colitis: A systematic review and meta-analysis | 메타분석 | 878 | 높음 | 10.1097/md.0000000000034489 | 혈위 응용 요법이 증상·증후군 개선, IL-4 증가·IFN-γ 감소 등 면역 조절 |
-| Meta-analysis and trial sequential analysis of acupoint catgut embedding in the treatment of ulcerative colitis | 메타분석 | 782 | 높음 | 10.1097/md.0000000000030945 | 혈위 매선이 증상·내시경 지표·완치율 개선, 안전성 유사 |
-| Systematic Evaluation of Randomized Clinical Trials of Huangqin Tang in Combination with Mesalazine for Ulcerative Colitis | 메타분석 | 565 | 높음 | 10.1155/2022/2175913 | 황금탕+메살라진 병용이 완치율·유효율 향상, 사이토카인·Ig 조절 |
-| A single-center clinical study on the combination of Five-flavor sophora flavescens enteric-coated capsules and vedolizumab in induction therapy for ulcerative colitis | 임상시험 | - | 중등도 | 10.3389/fimmu.2026.1791086 / 42099590 | 오미자고삼 장용캡슐+베돌리주맙 병용이 임상적·내시경적 반응률 향상 |
-| Efficacy and safety of compound Qingdai enema in rapidly alleviating inflammatory activity in ulcerative colitis | 임상시험 | 114 | 중등도 | 10.3389/fphar.2026.1776775 / 42358354 | 복합 청대 관장액이 14일 단기로 염증 활성 완화·점막 회복, 안전성 양호 |
-| [Clinical and experimental study on treatment of retention enema for chronic non-specific ulcerative colitis with quick-acting kuijie powder] | 임상시험 | 234 | 중등도 | PMID [11783209](https://pubmed.ncbi.nlm.nih.gov/11783209/) | 속효쾌결분 유지관장이 경구 설파살라진보다 유효율·완치율 높고 재발률 낮춤 |
-| Clinical efficacy analysis of acupuncture combined with anti-tumor necrosis factor treatment for spleen and kidney yang deficiency type ulcerative colitis | 관찰연구 | 90 | 중등도 | 10.3389/fmed.2026.1751270 / 42460073 | 침+항TNF 병용이 관해율·점막 치유율 상승, 대장 절제율 감소 |
-| Effect of Qingchang Yuyang decoction on treatment efficacy and intestinal flora in patients with ulcerative colitis | 관찰연구 | 96 | 중등도 | 10.15586/aei.v53i3.1332 / 40342115 | 청창양양탕+메살라진 병용이 증상·염증·장내 미생물 개선 |
-| Biomarkers predicting response to qi-exchange moxibustion in ulcerative colitis: A prospective 2-arm cohort study | 관찰연구 | 123 | 중등도 | 10.1097/MD.0000000000048501 / 42071881 | 신궐혈 기교환 뜸+메살라진 병행이 반응률·관해율·점막 치유율 향상, 칼프로텍틴으로 반응자 예측 |
-| A comparative study on the clinical differences in traditional Chinese medicine pattern in ulcerative colitis utilizing multidimensional data | 관찰연구 | 180 | 중등도 | 10.3389/fmed.2026.1830908 / 42528720 | 대장습열 변증이 비허습저보다 염증 수치·내시경 손상 심함, 변증별 맞춤 치료 근거 |
-| [Clinical observation on treatment of ulcerative colitis by soothing liver and activating spleen] | 임상시험 | 63 | 중등도 | PMID [12577375](https://pubmed.ncbi.nlm.nih.gov/12577375/) | 녕설산(소간활비)이 설파살라진보다 단기·장기 치료 효과 우수 |
-| Different therapy for different types of ulcerative colitis in China | 임상시험 | 102 | 중등도 | 10.3748/wjg.v10.i10.1513 / 15133864 | 유형별 차별화 치료(재발형 올살라진·초발형 어성초·난치성 강순령) 유효 |
-| Immune Repertoire Profiling Reveals Distinct Adaptive Immune Signatures of Dampness ZHENG Across Psoriasis, Rheumatoid Arthritis and Ulcerative Colitis | 관찰연구 | 59 | 중등도 | 10.1111/cpr.70265 / 42470161 | 습증(濕證) 공통 변증이 질환 간 특이적 면역 시그니처 가짐 |
-| Scoping Review of Acupuncture and Moxibustion in the Treatment of Inflammatory Bowel Disease | 체계적 고찰 | - | 중등도 | 10.3390/gidisord5010010 | 침·뜸이 IBD 보조 요법으로 가치, 대규모 임상시험 필요 |
-| Review of Clinical Studies of the Treatment of Ulcerative Colitis Using Acupuncture and Moxibustion | 체계적 고찰 | - | 중등도 | 10.1155/2016/9248589 / 27885326 | 침·뜸이 장 염증 조절·낮은 부작용·재발률, 표준화 필요 |
-| Effects of self-acupressure on quality of life and abdominal pain severity among patients with inflammatory bowel disease | 임상시험(RCT) | 56 | 중등도 | 10.1016/j.jaim.2024.101080 / 40139127 | 매일 자가 지압이 삶의 질 향상·복통 감소 |
-| Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease | 임상시험 | 36 | 중등도 | 10.1097/MEG.0000000000003034 / 40900432 | 가정 내 TEAS 자가 관리가 IBD 우울 증상·삶의 질 개선 가능 |
-| The Effectiveness of Huangkui Lianchang Decoction Enema Solution Compared with Mesalazine Enema for Mild-to-Moderate Active Distal Ulcerative Colitis | 임상시험(RCT 프로토콜) | 172 | 중등도 | 10.2147/JPR.S574028 / 41890576 | 황귀련장탕 관장액의 메살라진 관장 대비 효과 평가 진행 중 |
-| TCM differential treatment of 57 cases of chronic gastritis complicated by ulcerative colitis | 증례 | 57 | 낮음 | PMID [10453577](https://pubmed.ncbi.nlm.nih.gov/10453577/) | 위염+UC 동반 시 4가지 변증별 통합 치료가 효과적 |
-| [Status of alternative medicine in Crohn disease and ulcerative colitis patents: a questionnaire survey] | 관찰연구 | 144 | 중등도 | 10.1159/000084785 / 15985776 | UC·CD 환자들이 CAM(침·전통의학)을 보조적으로 빈번히 이용 |
-
 ## 경혈/처방 연관
 
 - 경혈: 신궐(神闕, CV8)·천추(天樞, ST25)·족삼리(足三里, ST36)·상거허(上巨虛, ST37)·비수(脾俞, BL20)·위수(胃俞, BL21), [합곡(合谷, LI4)](../../../1_기초한의학/경락경혈학/합곡(合谷, LI4).md)
@@ -166,6 +137,6 @@
 
 ## 검색에서 제외된 논문
 
-- 검색 결과에서 베르베린·커큐민·유향(Boswellia)·Andrographis 등 일부 천연물 성분 연구, 소화기 이외 적응증의 침·뜸 문헌, IBD의 역학·CAM 이용 실태 조사 중 주제와 간접 관련이거나 약리·이용률 분석에 국한된 논문은 본 주제의 근거 표에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.
+- 검색 결과에서 베르베린·커큐민·유향(Boswellia)·Andrographis 등 일부 천연물 성분 연구, 소화기 이외 적응증의 침·뜸 문헌, IBD의 역학·CAM 이용 실태 조사 중 주제와 간접 관련이거나 약리·이용률 분석에 국한된 논문은 본 주제의 각주에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.
 
 [^31]: Patterns of complementary and alternative medicine use in pediatric patients with inflammatory bowel disease. 관찰연구, 111명. DOI: [10.1002/jpn3.70252](https://doi.org/10.1002/jpn3.70252). 근거수준: 중등도. 소아 IBD CAM 사용 빈도 높음, 안전성·유효성 근거 부족.

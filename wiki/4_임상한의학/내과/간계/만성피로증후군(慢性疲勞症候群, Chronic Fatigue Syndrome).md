@@ -113,55 +113,6 @@
 - 한약이 CFS 증상 개선에 유의미한 효과를 보인다(메타분석).[^3]
 - 이침 금침이 기허형 CFS의 면역 기능을 회복한다(임상시험, 120명).[^38]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Acupuncture for chronic fatigue syndrome: a systematic review and meta-analysis | 메타분석 | 1,346 | 높음 | 10.1136/acupmed-2017-011582 | 침이 가짜침·중약보다 반응률·피로 개선에 효과적, 연구 질 낮아 주의 |
-| Moxibustion for Chronic Fatigue Syndrome: A Systematic Review and Meta-Analysis | 메타분석 | 1,030 | 높음 | 10.1155/2021/6418217 | 뜸이 침·약물보다 유효율 높고 FS-14·FAI 피로도 유의 감소 |
-| Acupuncture and moxibustion for chronic fatigue syndrome: A systematic review and network meta-analysis | 네트워크 메타분석 | 3,473 | 높음 | 10.1097/md.0000000000029310 | 침·뜸이 유의하게 효과적, 뜸·중의학 반응률 높고 침+뜸 병용 FS-14 우수 |
-| Comparative effectiveness of non-pharmacological traditional Chinese medicine therapies for chronic fatigue syndrome: a systematic review and network meta-analysis | 네트워크 메타분석 | 2,234 | 높음 | 10.3389/fmed.2026.1804710 | 뜸은 피로, 안마는 신체·정신 피로·불안·우울, 부항은 수면 질 개선에 최적 |
-| Comparative efficacy of various exercise therapies for chronic fatigue syndrome: A systematic review and network meta-analysis | 네트워크 메타분석 | 2,831 | 높음 | 10.1016/j.isci.2025.114178 | GET이 피로·우울·불안 단기 개선에 우수, 기공·요가·근력 훈련 일부 이점 |
-| Efficacy of acupuncture-based traditional Chinese medicine therapies for chronic fatigue syndrome: a systematic review and meta-analysis | 메타분석 | 715 | 높음 | 10.3389/fneur.2026.1860788 | 침 기반 치료가 전반·신체·정신 피로와 반응률 개선, 안전 |
-| A Review of Herbal Medicine for the Treatment of Chronic Fatigue Syndrome | 메타분석 | - | 높음 | 10.22246/jikm.2024.45.6.1164 | 한약이 양약·기존 한약보다 CFS 증상 개선에 유의미한 효과 |
-| [A meta analysis on randomized controlled trials of acupuncture treatment of chronic fatigue syndrome] | 메타분석 | - | 높음 | PMID [20209981](https://pubmed.ncbi.nlm.nih.gov/20209981/) | 침이 총 효과율·완치율 높이고 FAI·FS 유의 감소 |
-| The therapeutic effects of electrical acupuncture and auricular-plaster in 32 cases of chronic fatigue syndrome | 임상시험(RCT) | 64 | 중등도 | PMID [17078435](https://pubmed.ncbi.nlm.nih.gov/17078435/) | 전침+이침 플라스터가 히드로코르티손보다 항피로 효과 우수 |
-| [Clinical observation on electroacupuncture for treatment of chronic fatigue syndrome] | 임상시험 | 40 | 중등도 | PMID [16318125](https://pubmed.ncbi.nlm.nih.gov/16318125/) | 배유혈 전침이 FAI·SCL-90 신체화·우울·불안 유의 개선 |
-| [Clinical observation on effect of electro-acupuncture on back-shu points in treating chronic fatigue syndrome] | 임상시험 | 40 | 중등도 | PMID [16248250](https://pubmed.ncbi.nlm.nih.gov/16248250/) | 배수혈 전침이 FAI·SCL-90 유의 감소 |
-| Acupuncture and Moxibustion have Different Effects on Fatigue by Regulating the Autonomic Nervous System: A Pilot Controlled Clinical Trial | 임상시험 | 45 | 중등도 | 10.1038/srep37846 | 뜸이 침보다 피로 감소 효과 크고, 침은 즉각·뜸은 장기 효과 |
-| Tuina therapy for patients with chronic fatigue syndrome: a randomized controlled trial | 임상시험(RCT) | 110 | 중등도 | 10.1186/s12967-025-07624-7 | 추나 병행이 신체적 피로·불안·수면 질 개선, 안전 |
-| Chronic fatigue syndrome treated by the traditional Chinese procedure abdominal tuina: a randomized controlled clinical trial | 임상시험(RCT) | 80 | 중등도 | PMID [32188192](https://pubmed.ncbi.nlm.nih.gov/32188192/) | 복부 추나가 침보다 FS-14·HAMD 개선, 3개월 추적 유지 |
-| The effectiveness of cupping therapy on chronic fatigue syndrome: A single-blind randomized controlled trial | 임상시험(RCT) | 112 | 중등도 | 10.1016/j.ctcp.2020.101210 | 부항이 피로 유의 감소, 10회가 5회보다 효과적 |
-| [Observation on therapeutic effect of multiple cupping at back-shu points on chronic fatigue syndrome] | 임상시험 | 191 | 중등도 | PMID [18630535](https://pubmed.ncbi.nlm.nih.gov/18630535/) | 배수혈 다중 발관이 침보다 유효율 높고 FAI 개선 |
-| [Observation on therapeutic effect of chronic fatigue syndrome treated with coiling dragon needling and moving cupping on back] | 임상시험 | 72 | 중등도 | PMID [22471128](https://pubmed.ncbi.nlm.nih.gov/22471128/) | 꼬리용침+부항 병용이 프레드니손보다 유효율 높음 |
-| Acupuncture for chronic fatigue syndrome and idiopathic chronic fatigue: a multicenter, nonblinded, randomized controlled trial | 임상시험(RCT) | 150 | 중등도 | 10.1186/s13063-015-0857-0 | 체침은 FSS, 사암침은 스트레스·우울 개선에 유의 |
-| [Clinical research of auricular gold-needle therapy in treatment of chronic fatigue syndrome of qi deficiency constitution] | 임상시험 | 120 | 중등도 | 10.13703/j.0255-2930.2019.02.004 | 이침 금침이 지압·보중익기환보다 증상·면역 기능 개선 |
-| [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicenter, randomized, double-blind, double-dummy, positive drug-controlled trial] | 임상시험(RCT) | 224 | 중등도 | 10.19540/j.cnki.cjcmm.20260323.501 | 복합오가피과립이 귀비과립보다 CFQ-11 개선율 높음 |
-| "The effect of acupressure on fatigue in individuals with chronic fatigue syndrome" | 임상시험 | 39 | 중등도 | 10.1016/j.explore.2025.103231 | 지압이 피로·우울·삶의 질 유의 개선 |
-| Effect of Prolong Life With Nine Turn Method on chronic fatigue syndrome clinical symptoms and roles of gut microbiota: A exploratory randomized controlled trial | 임상시험(RCT) | 96 | 중등도 | 10.1016/j.ctim.2026.103353 | 장수구결 기공이 피로·위장관 증상 개선, CBT와 비열등 |
-| Effects of acupuncture and moxibustion on heart rate variability in chronic fatigue syndrome patients: Regulating the autonomic nervous system in a clinical randomized controlled trial | 임상시험(RCT) | 210 | 중등도 | 10.1016/j.ctim.2025.103184 | 족삼리·관원 동시 치료가 최대 효과, 침은 즉각·뜸은 장기 HRV 조절 |
-| Exploring the central mechanism of mind-regulation electroacupuncture in treatment of chronic fatigue syndrome with anxiety and depression comorbidity based on functional magnetic resonance imaging | 임상시험 | 30 | 중등도 | 10.13703/j.0255-2930.20230603-k0003 | 조신법 전침이 MFI-20·SDS·SAS·PSQI 개선, 뇌 기능적 변화 |
-| [A preliminary epidemiological study and discussion on traditional Chinese medicine pathogenesis of chronic fatigue syndrome in Hong Kong] | 관찰연구 | 1,013 | 중등도 | 10.3736/jcim20050506 | 홍콩 성인 CFS 유병률 6.4%, 가장 흔한 변증은 기허혈어 |
-| [Chronic fatigue syndrome--cases in the Kanebo Memorial Hospital] | 관찰연구 | 134 | 중등도 | PMID [1337561](https://pubmed.ncbi.nlm.nih.gov/1337561/) | 인삼양용탕 관리로 73%가 학교·직장 복귀, NK 세포 저하 관찰 |
-| Histone phosphorylation analysis of two main TCM syndromes of chronic fatigue syndrome | 관찰연구 | 30 | 중등도 | 10.1186/s12967-025-07579-9 | 기혈양허·간울비허 변증이 히스톤 인산화 프로파일에서 대조군과 구분 |
-| Phosphoproteomic analysis reveals differential associations between liver-spleen disharmony and qi-blood deficiency syndromes in chronic fatigue syndrome | 관찰연구 | 30 | 중등도 | 10.1186/s12967-026-08157-3 | 간비불화·기혈양허 변증이 서로 다른 인산화 단백질 프로파일 |
-| Qi therapy (external qigong) for chronic fatigue syndrome: case studies | 증례 | 2 | 증례 | 10.1142/S0192415X05002734 | 외기공이 정신·정서적 이완과 피로 극복에 긍정적 |
-| A case of chronic fatigue syndrome treated with long snake moxibustion | 증례 | 1 | 증례 | 10.33140/jcrc.07.02.03 | 장사뜸이 체온·세포 대사 활성화로 피로·우울 개선 |
-| Late-Onset Hypogonadism in a Male Patient with Long COVID Diagnosed by Exclusion of ME/CFS | 증례 | 1 | 증례 | 10.3390/medicina58040536 | 보중익기탕·십전대보탕이 LOH 동반 Long COVID 호르몬·피로 개선 |
-| A patient who recovered from post-COVID myalgic encephalomyelitis/chronic fatigue syndrome: a case report | 증례 | 1 | 증례 | 10.1186/s13030-022-00260-3 | 시호계지탕·Amitriptyline·인지행동·운동 통합 치료로 완전 회복 |
-| Successful Treatment of Myalgic Encephalomyelitis/Chronic Fatigue Syndrome with Chronic Febricula Using the Traditional Japanese Medicine Shosaikoto | 증례 | 1 | 증례 | 10.2169/internalmedicine.3218-19 | 소시호탕이 만성 미열 동반 ME/CFS 증상 극적으로 완화 |
-| Potential application of brain-gut axis-based treatments in Long COVID and ME/CFS: a case-based systematic review | 체계적 고찰 | 791 | 높음 | 10.1186/s12967-026-07807-w | 전침 미주신경 자극·신바이오틱스·한약이 피로·운동 후 권태감 개선 |
-| Acupoint massage for chronic fatigue syndrome：A protocol for systematic review and meta-analysis | 체계적 고찰(프로토콜) | - | 프로토콜 | 10.37766/inplasy2023.4.0083 | 혈위 마사지 효과 평가 프로토콜 |
-| Traditional Chinese medicine for chronic fatigue syndrome: theoretical foundations, mechanisms, and clinical management approaches | 문헌고찰 | - | 문헌고찰 | 10.1097/hm9.0000000000000180 | 한약·침술·마사지가 신경내분비-면역·장내 미생물 조절로 증상 완화 |
-| [On the important role of Siguan points in treatment of chronic fatigue syndrome] | 문헌고찰 | - | 문헌고찰 | PMID [16541862](https://pubmed.ncbi.nlm.nih.gov/16541862/) | 사관혈(합곡·태충) 주혈 침이 CFS 치료 효과 우수 |
-| From tradition to healing: the promise of acupuncture in managing chronic fatigue syndrome | 문헌고찰 | - | 문헌고찰 | 10.3389/fmed.2025.1724290 | 전침·매선·다학제 병행이 면역·신경내분비 기능 조절 |
-| Dose-Effect of Long-Snake-Like Moxibustion for Chronic Fatigue Syndrome: Study Protocol for a Randomized Controlled Trial | 임상시험(프로토콜) | 90 | 프로토콜 | 10.21203/rs.3.rs-267403/v1 | 장사뜸 30분 vs 60분 최적 시간 결정 프로토콜 |
-| Exploring the mechanisms of acupuncture in improving cognitive function in post-COVID-19 myalgic encephalomyelitis/chronic fatigue syndrome: study protocol for a randomized controlled trial using multimodal MRI | 임상시험(프로토콜) | 159 | 프로토콜 | 10.3389/fneur.2026.1793397 | 침이 PCME/CFS 인지기능 개선 검증 프로토콜 |
-| An open-label study of effects of acupuncture on chronic fatigue syndrome and idiopathic chronic fatigue: study protocol for a randomized controlled trial | 임상시험(프로토콜) | 150 | 프로토콜 | 10.1186/1745-6215-14-147 | 체침·사암침 효과 검증 프로토콜 |
-| Clinical efficacy of Jianqiao ancient moxibustion in treating chronic fatigue syndrome: a single-center randomized controlled superiority trial protocol | 임상시험(프로토콜) | 90 | 프로토콜 | 10.3389/fmed.2026.1860390 | 건교고법이 상자 뜸보다 비신양허 증상 개선 검증 프로토콜 |
-| A Standardized Copper Bian-Stone Gua Sha Protocol for Treating Chronic Fatigue Syndrome in Human Subjects | 기타 | - | 기타 | 10.3791/70472 | 구리 편석 괄사가 독맥·방광경 배수혈 따라 피로 개선 |
-| Phytotherapy for Cachexia: Where Do We Stand? | 문헌고찰 | 354 | 문헌고찰 | 10.3389/fphar.2020.00917 | 보중익기탕·십전대보탕·육군자탕이 체중·피로·생존율 개선 |
-
 ## 경혈/처방 연관
 
 - 경혈: 사관혈(합곡(LI4)·태충(LR3))·족삼리(ST36)·관원(CV4)·배유혈(비수(BL20)·위수(BL21)·신수(BL23))·협척혈(夾脊穴)
@@ -230,4 +181,4 @@
 
 ## 검색에서 제외된 논문
 
-- 악액질(cachexia) 관련 문헌고찰(Phytotherapy for Cachexia)은 만성피로증후군과 간접 관련이 있어 근거 표에는 포함하되 본문 서술은 보조적으로만 활용하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.
+- 악액질(cachexia) 관련 문헌고찰(Phytotherapy for Cachexia)은 만성피로증후군과 간접 관련이 있어 각주에는 포함하되 본문 서술은 보조적으로만 활용하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.

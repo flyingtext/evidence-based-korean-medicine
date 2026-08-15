@@ -91,34 +91,6 @@
 - 침·전침·부항·통합 한방 치료는 근종 증상 완화·크기 감소에 잠재적 효과가 있으나 RCT 근거가 아직 부족하다.[^3][^7][^16][^19]
 - 변증 유형(기체혈어·한응혈어·담응혈어·신허혈어)에 따라 치료 접근이 달라 맞춤 치료가 필요하다.[^6][^12][^13][^14]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump | 임상시험 | 120 | 임상시험 | PMID 15688694 | 강복소증정이 계지복령환보다 근종 크기 감소·월경불순·통증 개선 우수 |
-| Pharmacotherapeutic effects of kuei-chih-fu-ling-wan on human uterine myomas | 임상시험 | 110 | 임상시험 | 10.1142/S0192415X92000333 | 계지복령환이 과다월경·월경통 개선·근종 크기 감소 |
-| Complementary medicine treatment of uterine fibroids: a pilot study | 임상시험 | 74 | 임상시험 | PMID 11890384 | 통합 치료가 표준 치료보다 크기 감소·만족도 향상 가능 |
-| A case report of traditional Korean medicine treatments on uterine myoma with thyroid cancer | 증례 | 1 | 증례 | 10.1016/j.imr.2018.10.003 | 한약·침·뜸·약침 통합이 근종 감소·증상 개선 |
-| The efficacy and safety of Shugan Sanjie decoction for uterine fibroids | 메타분석 | 952 | 메타분석 | 10.3389/fphar.2025.1508015 | 서간산결탕 병용이 유효율↑·근종 부피↓·호르몬 조절 |
-| Efficacy of Huayu Xiaozheng decoction combined with triptorelin and mifepristone | 임상시험 | 102 | 임상시험 | 10.1002/ijgo.70601 | 화어소정탕 병용이 근종 감소·혈역학·호르몬 개선 |
-| Unveiling the role of traditional regimens in the management of uterine fibroids | 체계적 고찰 | - | 체계적 고찰 | 10.1080/07399332.2024.2414384 | 전통 요법(침·부항)이 근종 크기 감소·증상 완화 가능 |
-| Effectiveness of Dry Cupping Therapy in the Management of Uterine Fibroid | 증례 | 1 | 증례 | 10.18502/tim.v5i2.3629 | 건식 부항이 월경통·과다 출혈 완화·근종 감소 |
-| Decreasing the Uterine Blood Flow with Electroacupuncture | 임상시험 | 10 | 임상시험 | 10.1159/000446947 | 80Hz 전침이 자궁동맥 혈류 감소 |
-| A comparative study of toki-shakuyaku-san and oral iron for anemia in uterine myoma | 임상시험 | 25 | 임상시험 | 10.1248/yakushi.123.817 | 당귀작약산이 빈혈 증상·부인과 증상 개선 |
-| Acupuncture for uterine fibroids | 체계적 고찰 | - | 체계적 고찰 | 10.1002/14651858.CD007221.pub2 | 침의 근거는 RCT 부족으로 불확실 |
-| Segmental Electroacupuncture for Uterine Fibroids: A Case Report | 증례 | 1 | 증례 | 10.1002/ccr3.72011 | 분절 전침이 월경과다·피로 개선·근종 감소 |
-| A case of adenomyosis with leiomyoma treated with relugolix and kamishoyosan | 증례 | 1 | 증례 | 10.1186/s12905-021-01442-x | 가미소요산이 Relugolix 부작용(안면홍조) 관리 |
-| Network meta-analysis of 6 Chinese patent medicines + mifepristone for uterine fibroids | 메타분석 | - | 메타분석 | 10.1097/md.0000000000027523 | 중성약(계지복령환 등) 병용이 유효율↑·부작용↓ |
-| Efficacy and safety of Gyejibongnyeong-hwan on dysmenorrhea by blood stasis (protocol) | 임상시험 | 100 | 임상시험 | 10.1186/1745-6215-13-3 | 계지복령환이 혈어 생리통 완화 연구 프로토콜 |
-| The clinical effects of Gyejibongnyeong-Hwan on hyperlipidemia (protocol) | 임상시험 | 90 | 임상시험 | 10.1097/MD.0000000000033093 | 계지복령환의 안전성·지질 개선 탐색 프로토콜 |
-| [Oral Chinese patent medicines in dysmenorrhea] scoping review | 체계적 고찰 | - | 체계적 고찰 | 10.19540/j.cnki.cjcmm.20240925.501 | 경구 중성약이 월경통, 특히 기체혈어에 유용 |
-| Acupuncture combined with Guizhi Fuling Wan for adenomyosis dysmenorrhea | 증례 | 1 | 증례 | 10.1016/j.explore.2025.103169 | 계지복령환+침이 선근증 생리통 개선 |
-| Effects of herbal medicines on menopausal symptoms by GnRH agonist | 관찰연구 | 22 | 관찰연구 | PMID 11332582 | GnRH 치료 중 증상 맞춤 한약이 효과적 |
-| Effects of switching to wen-jing-tang from preceding herbal medicines | 임상시험 | - | 임상시험 | 10.1142/S0192415X06003746 | 온경탕으로의 전환이 부인과 증상 개선 |
-| The effect of dai-kenchu-to and keishi-bukuryo-gan on bowel movement after colorectal surgery | 임상시험 | 66 | 임상시험 | PMID 15783004 | 계지복령환 병용이 수술 후 장운동 회복 촉진 |
-| Effects of Gyejibokryeong-hwan on climacteric syndrome | 임상시험 | - | 임상시험 | 10.1016/j.imr.2023.100951 | 계지복령환이 갱년기 증후군 개선 |
-| A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes | 체계적 고찰 | - | 체계적 고찰 | 10.3390/biomedicines7030060 | 계지복령환이 안면홍조 개선 |
-
 ## 경혈/처방 연관
 
 - 경혈: 자궁근종 치료에 자궁과 동일한 신경 지배를 받는 분절(요부·하복부) 전침(電鍼)이 활용되며, 자궁동맥 혈류 조절에 효과적이다.[^7][^16] 침·부항 등 비약물 요법이 근종 증상 완화에 적용된다.[^3][^17]
@@ -152,4 +124,4 @@
 
 ## 미충족 근거 / 추가 연구 필요
 
-현재 근거 수준으로는 자궁근종에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 경우 선정 기준을 충족하는 무작위 대조 시험(RCT)이 부족하여 임상적 유효성이 불확실하며, 장기 추적 관찰을 포함한 고품질의 임상 연구가 추가로 필요하다.[^19] 서간산결탕 등 한약 병용 메타분석 연구들은 포함 연구의 방법론적 질이 낮고 이질성이 높아 주의가 필요하다.[^12] 추후 더 많은/더 정밀한 연구(대규모 무작위 대조 시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료, 근종 위치·크기별 치료 반응, 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 자궁근종과 직접 관련이 없거나 비한의학으로 판단된 일부 문헌고찰·계지복령환의 타 질환 적용 논문(류마티스 관절염·고지혈증·전립선암 안면홍조·대장 수술 후 장운동 등)은 주제 관련성을 고려해 일부만 근거 표에 수록하고 나머지는 제외하였다.
+현재 근거 수준으로는 자궁근종에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 경우 선정 기준을 충족하는 무작위 대조 시험(RCT)이 부족하여 임상적 유효성이 불확실하며, 장기 추적 관찰을 포함한 고품질의 임상 연구가 추가로 필요하다.[^19] 서간산결탕 등 한약 병용 메타분석 연구들은 포함 연구의 방법론적 질이 낮고 이질성이 높아 주의가 필요하다.[^12] 추후 더 많은/더 정밀한 연구(대규모 무작위 대조 시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료, 근종 위치·크기별 치료 반응, 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 자궁근종과 직접 관련이 없거나 비한의학으로 판단된 일부 문헌고찰·계지복령환의 타 질환 적용 논문(류마티스 관절염·고지혈증·전립선암 안면홍조·대장 수술 후 장운동 등)은 주제 관련성을 고려해 일부만 각주에 수록하고 나머지는 제외하였다.

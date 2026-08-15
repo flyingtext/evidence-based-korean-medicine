@@ -93,46 +93,6 @@
 - 뜸은 산부인과 질환(둔위·분만 진통·골반염)에서 유효하나, 둔위 교정은 근거가 제한적이다.[^10][^13][^19][^24]
 - 뜸의 온열 효과는 적외선 열화상 분석으로 객관적으로 정량화할 수 있다.[^32][^33]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Scoping Review of Acupuncture and Moxibustion in the Treatment of Inflammatory Bowel Disease | 체계적 고찰 | - | 체계적 고찰 | 10.3390/gidisord5010010 | IBD 환자에게 침·뜸이 보조 지원 요법으로 가치 |
-| The Efficacy of Moxibustion and Acupuncture Therapy for Ankylosing Spondylitis: A Protocol | 체계적 고찰 | - | 체계적 고찰 | 10.21203/rs.3.rs-72275/v1 | 강직성 척추염 침뜸 근거 종합 평가 프로토콜 |
-| Efficacy of acupuncture and moxibustion therapy for simple obesity in adults: A meta-analysis | 메타분석 | 1116 | 메타분석 | 10.1097/md.0000000000031148 | 침·뜸이 비만 체중·BMI·허리둘레·중성지방 감소 |
-| Acupuncture and moxibustion therapy in patients with hyperlipidemia: A protocol | 체계적 고찰 | - | 체계적 고찰 | 10.1097/md9.0000000000000391 | 고지혈증 침구 치료 근거 평가 프로토콜 |
-| Effectiveness of acupuncture and moxibustion therapy on glycolipid metabolism in obese-type PCOS | 메타분석 | - | 메타분석 | 10.1097/md.0000000000042812 | PCOS 당지질 대사 개선에 뜸·매선 병용 유용 |
-| TCM combined with Moxibustion in the treatment of "long-COVID": A protocol | 체계적 고찰 | - | 체계적 고찰 | 10.1097/md.0000000000031447 | 롱코비드 중약·뜸 병용 근거 평가 프로토콜 |
-| Effectiveness and Safety of Moxibustion for Poststroke Insomnia | 메타분석 | 996 | 메타분석 | 10.4103/2311-8571.335136 | 뇌졸중 후 불면에 뜸이 수면 질·효율 개선 |
-| Moxibustion for Herpes Zoster and Postherpetic Neuralgia: A Meta-Analysis | 메타분석 | 2334 | 메타분석 | 10.1155/2021/5551196 | 대상포진·PHN에 뜸이 유효율·통증 완화 우수 |
-| Efficacy and Safety of Moxibustion for Postherpetic Neuralgia: A Systematic Review and Meta-Analysis | 메타분석 | 798 | 메타분석 | 10.3389/fneur.2021.676525 | 약선구·뇌화뜸이 PHN 통증·유효율 개선 |
-| Cephalic version by moxibustion for breech presentation | 체계적 고찰 | 597 | 체계적 고찰 | 10.1002/14651858.CD003928.pub2 | 지음혈 뜸이 ECV 필요성·옥시토신 사용 감소 |
-| Comparison of external treatment of Acupuncture and moxibustion and intervention on postoperative pain of hemorrhoids | 메타분석 | 870 | 메타분석 | 10.1101/2023.01.20.23284830 | 치핵 수술 후 침·뜸이 지속 통증 관리·부작용 낮음 |
-| Meta Analysis of the Effectiveness of Acupuncture and Moxibustion on the Recovery of Gastrointestinal Function after Gastric Cancer Surgery | 메타분석 | - | 메타분석 | 10.18282/po4757 | 위암 수술 후 침·뜸이 위장관 기능 회복 촉진 |
-| Effect of Moxibustion Therapy at SP6 (Sanyinjiao) on Labor Pain Intensity | 임상시험 | 32 | 임상시험 | 10.33992/jik.v14i1.5068 | 삼음교 뜸이 분만 1기 진통 강도 감소 |
-| Ma's Bamboo-Based Medicinal Moxibustion Therapy of Low Back Pain in Lumbar Disc Herniation | 임상시험 | 312 | 임상시험 | 10.21203/rs.3.rs-850406/v1 | 대나무 약물 뜸이 요추 탈출증 요통 평가 RCT |
-| Effectiveness of moxibustion treatment as adjunctive therapy in osteoarthritis of the knee | 임상시험 | 110 | 임상시험 | 10.1186/ar4590 | 무릎 골관절염에 뜸이 통증·기능 개선, 18주 유지 |
-| Effect of Moxibustion Therapy on Intensity of Primary Dysmenorrhea in Adolescents | 임상시험 | 54 | 임상시험 | 10.18502/kls.v6i1.8777 | 청소년 원발성 월경통에 뜸이 통증 감소 |
-| Clinical rehabilitation of external humeral epicondylitis by ginger moxibustion | 임상시험 | 84 | 임상시험 | 10.14428/ebr.v1i5.11113 | 생강 뜸·부침 병용이 외측상과염 유효율 92% |
-| He's Tonglong Dashi Tang plus moxibustion in the postoperative period of ureteroscopic lithotripsy | 임상시험 | 120 | 임상시험 | 10.1142/s2575900023500131 | 요관결석 수술 후 뜸 병행이 회복·염증 개선 |
-| A randomised controlled trial of moxibustion for breech presentation | 임상시험 | 123 | 임상시험 | 10.1111/j.1471-0528.2005.00634.x | 비중국인 둔위에 뜸이 유의한 두위 전환 없음 |
-| Efficacy and safety comparison of infrared laser moxibustion and traditional moxibustion in knee OA | 임상시험 | 74 | 임상시험 | 10.21203/rs.3.rs-3262284/v1 | 레이저 뜸이 전통 뜸과 비열등성 평가 RCT |
-| A Protocol for Developing a Clinical Practice Guideline of Moxibustion in Lumbar Disc Herniation | 가이드라인 | - | 가이드라인 | 10.21203/rs.3.rs-102874/v1 | 요추 탈출증 뜸 임상진료지침 개발 프로토콜 |
-| Effects of bottle gourd moxibustion combined with umbilical therapy for cancer-related bowel obstruction | 관찰연구 | 109 | 관찰연구 | 10.3748/wjg.v31.i41.110753 | 암 장폐색에 표고-배꼽 뜸이 염증·통증 개선 |
-| Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion on ASO | 관찰연구 | 63 | 관찰연구 | 10.1097/md.0000000000040110 | ASO에 뜸 병용이 족배 온도·혈류 개선 |
-| TCM enema combined with moxibustion for inpatients with sequela of pelvic inflammatory disease | 관찰연구 | 140 | 관찰연구 | 10.4103/jin.jin_41_26 | 골반염 후유증에 관장·뜸 병행이 증상 개선 |
-| Acute lymphangitis treated by moxibustion with garlic in 118 cases | 관찰연구 | 118 | 관찰연구 | PMID 14535186 | 마늘 뜸·사혈이 급성 림프관염에 효과 |
-| Clinical Research Progress of Acupuncture and Moxibustion in the Treatment of Postpartum Depression | 문헌고찰 | - | 문헌고찰 | 10.53469/jcmp.2025.07(09).14 | 침뜸이 산후우울증 증상 개선에 유효 |
-| Treatment of Recalcitrant Plantar Wart Unresponsive to Cryotherapy with Acupuncture and Moxibustion | 증례 | 1 | 증례 | 10.22541/au.161115306.62513843/v1 | 난치성 족저사마귀에 침·뜸이 대안 |
-| Application and Research Progress of Moxibustion Therapy in the Care of Alzheimer's Disease | 문헌고찰 | - | 문헌고찰 | 10.26689/jcnr.v9i3.10052 | 알츠하이머병에 뜸이 인지·일상생활 개선 가능 |
-| 'String of pearls' sign associated with moxibustion therapy | 증례 | 1 | 증례 | 10.1093/skinhd/vzag128 | 뜸 후 다발성 수포 피부 반응 보고 |
-| A combined use of acupuncture, moxibustion and long dan xie gan tang for chronic pelvic inflammation | 증례 | 36 | 증례 | PMID 15688689 | 만성 골반염에 침·뜸·용담사간탕 병용 유효 |
-| Fifty cases of external humeral epicondylitis treated by moxibustion and point-injection | 증례 | 50 | 증례 | PMID 15510799 | 외측상과염에 뜸·약침 병행 유효율 96% |
-| Intrarater and Interrater Reliability of Infrared Image Analysis of Forearm Acupoints before and after Moxibustion | 실험연구 | 20 | 실험연구 | 10.1155/2020/6328756 | IRT가 뜸 전후 경혈 온도 측정에 높은 신뢰도 |
-| Thermal Field Analysis of Two Kinds of Suspended Moxibustion | 실험연구 | - | 실험연구 | 10.21203/rs.3.rs-516643/v1 | 조구가 온구보다 피부 온도 상승 속도 빠름 |
-| Efficacy and safety of acupuncture and moxibustion for herpes zoster: A protocol | 기타 | - | 기타 | 10.1097/MD.0000000000021905 | 대상포진 침구 치료 네트워크 메타분석 프로토콜 |
-| Development of non-traumatic-pain acupuncture-moxibustion apparatus | 기타 | - | 기타 | 10.13703/j.0255-2930.2017.06.027 | 비침습적 뜸·부항 장치 개발 |
-
 ## 경혈/처방 연관
 
 - 경혈: 뜸 치료에 지음(至陰, BL67)·삼음교(三陰交, SP6)·천추(天樞, ST25)·중완(中脘, CV12)·족삼리(足三里, ST36)·풍륭(豐隆, ST40)·기해(氣海, CV6) 등이 주요 혈위로 활용된다.[^3][^10][^13] 비만 치료에는 천추·중완·족삼리·풍륭·기해를 조합하고,[^3] 둔위 교정에는 지음혈을 사용한다.[^10][^19]
@@ -174,4 +134,4 @@
 - 뜸 치료의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 이질성이 크며 출판 편향 가능성이 지적되어, 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^8][^9]
 - 둔위 교정을 위한 뜸은 코크란 체계적 고찰에서 긍정적 가능성을 보이나, 비중국인 임산부 RCT에서는 유의한 효과가 없어 문화적 배경·방법론을 고려한 대규모 고품질 연구가 필요하다.[^10][^19]
 - 요추 추간판 탈출증·무릎 골관절염 등에서 뜸의 표준화된 시술 프로토콜과 임상진료지침(CPG) 개발이 진행 중이며, 이를 뒷받침할 대규모 다기관 무작위 대조 시험이 요구된다.[^14][^20][^21]
-- 검색 과정에서 뜸과 직접 관련이 없거나 교육·기기 개발 등 임상 효능과 무관한 논문(침구학 교육, 기기 산업화 등)은 주제와 무관하거나 비한의학적으로 판단되어 근거 표에서 제외하였다.
+- 검색 과정에서 뜸과 직접 관련이 없거나 교육·기기 개발 등 임상 효능과 무관한 논문(침구학 교육, 기기 산업화 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.

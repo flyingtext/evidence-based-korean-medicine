@@ -8,7 +8,7 @@
 
 ## 하위 표제어(분류)
 
-태충혈은 그 특성상 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·근거 표에 상세히 서술한다.
+태충혈은 그 특성상 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·각주에 상세히 서술한다.
 
 - **두통·편두통 분야**: 간양(肝陽) 상항형 두통·편두통의 대표 요혈.[^5][^6]
 - **정신·정서 분야**: 우울·불안·인터넷 중독·뇌졸중 후 불안 등 정서 질환의 요혈.[^7][^8][^9]
@@ -31,7 +31,7 @@
 - **위장관 운동 조절 기전**: [족삼리(足三里, ST36)](족삼리(足三里, ST36).md)·[양문(梁門, ST21)](#)·태충(LR3) 경피적 전기자극은 혈장 모틸린(MTL) 농도를 높이고 소마토스타틴(SS) 농도를 낮추어 위장관 운동성을 개선한다(임상시험, 250명).[^13] 반면 건강한 성인에서 사관혈(합곡·태충) 수기침은 장 운동성에 유의한 변화를 보이지 않아, 환자의 병리 상태가 있을 때 효과가 나타날 수 있음을 시사한다(교차 임상시험, 20명).[^30]
 - **경락·해부학적 특성**: 태충혈은 제1·2 중족골(中足骨) 사이, 제1 배측골간근(dorsal interosseous muscle) 부근에 위치하며, 비복신경(腓骨神経, peroneal nerve) 분지 및 족배동맥(dorsal pedis artery)과 밀접한다.[^1] 염전(撚轉) 자극 시 비회전 자극보다 이차 체성감각 피질·전두엽·시상·소뇌의 활성도가 유의하게 증가하여, 전통적 수기법(염전)의 신경과학적 의미를 뒷받침한다(실험연구, 15명).[^31]
 
-> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 근거 표에서 구분한다.
+> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
 
 ## 근거 요약
 
@@ -45,63 +45,6 @@
 - **기타 질환**: 메니에르 증후군 환자에서 가감 진무탕(加減眞武湯)과 태충혈 침 치료 병용은 단독 치료나 양약 치료보다 현훈 중증도와 전정 증상 지수(VSI)를 유의하게 개선했다(임상시험, 88명).[^35] 비염증성 만성 전립선염 환자에서 조신해우(調神解鬱) 침법(내관·대릉·신문·기해·관원·수도·족삼리·음릉천·삼음교·태충)은 일반 침치료나 탐술로신 투여보다 NIH-CPSI 점수·HAMD·HAMA 점수를 더 유의하게 감소시키고 재발률을 낮추었다(임상시험, 105명).[^36] 허혈성 시신경병증(ION) 환자에서 국소·두피·원위(합곡·태충) 혈위 조합 침치료는 78.6%에서 시력 개선, 69.0%에서 시야 결손 감소를 보였다(관찰연구, 42명).[^37] 말기 간세포암 환자에서 태충(LR3)·기문(LR14)·삼음교(SP6) 광물 펄스 광자극(MPLS)은 종양 크기 감소와 AFP 수치 개선을 보였다(증례, 1명).[^38]
 
 > AI 요약(answer/clinical_summary)과 원문을 대조 후 요약하였다. 일부 수치·비율은 원문 데이터를 참고한 것이다.
-
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| A systematic review and coordinate-based meta-analysis of fMRI studies on acupuncture at LR 3 | 메타분석 | 319 | 중등도 | [10.3389/fnins.2024.1341567](https://doi.org/10.3389/fnins.2024.1341567) | 태충혈 침 자극은 통증 인지·감정 조절·언어 관련 뇌 영역(우측 중심후회·좌측 시상·좌측 중전두회·우측 상전두회) 선택적 활성화. 자침 유지 시간 증가 시 우측 상전두회 활성도 증가 |
-| Acupuncture improves anxiety and depression in patients with polycystic ovary syndrome: a systematic review and meta-analysis | 메타분석 | 2127 | 중등도 | [10.3389/fmed.2026.1738629](https://doi.org/10.3389/fmed.2026.1738629) · PMID 41647523 | 다낭성난소증후군(PCOS) 환자의 불안·우울 개선에 침 치료가 유의. 태충(LR3) 포함 혈위 조합 활용 |
-| Efficacy and safety of electroacupuncture-based comprehensive treatment for post-stroke depression: a systematic review and meta-analysis | 메타분석 | 5362 | 중등도 | [10.3389/fpsyt.2025.1610032](https://doi.org/10.3389/fpsyt.2025.1610032) · PMID 40896205 | 뇌졸중 후 우울증(PSD)에 전침 기반 복합 치료가 유의. 태충(LR3) 포함 혈위 조합 활용 |
-| Clinical Evidence of Brain Effect Difference between True Point and False Point: A Meta-analysis Based on fMRI | 메타분석 | 266 | 중등도 | [10.26420/physmedrehabilint.2021.1190](https://doi.org/10.26420/physmedrehabilint.2021.1190) | 진혈위(眞穴)와 가짜혈위의 뇌 효과 차이 메타분석. 태충(LR3) 포함 혈위의 특이성 뒷받침 |
-| [Acupuncture at points of the liver and gallbladder meridians for treatment of migraine: a multi-center randomized and controlled study] | 임상시험 | 253 | 높음 | PMID 19565729 | 간경·담경 혈위(태충·양릉천·풍지·곡천) 침치료가 Flunarizine보다 편두통 두통 횟수·지속시간 개선에 우수. 6개월 유효율 87.7% vs 69.2% |
-| [Acupuncture for treatment of depressive neurosis: a multi-center randomized controlled study] | 임상시험 | 440 | 높음 | PMID 18257177 | 합곡·태충 침치료 총 유효율 86.4%, Prozac 72.7%, 비혈위 자침 59.1%. 부작용 Prozac보다 유의 적음 |
-| [Clinical observation on transcutaneous electrical acupoint stimulation for treatment of functional dyspepsia] | 임상시험 | 250 | 높음 | PMID 19563187 | 족삼리·양문·태충 TEAS가 약물보다 기능성 소화불량 증상(상복부 통증·산 역류·복부 팽만) 유의 개선. MTL↑ SS↓ |
-| [Incidence rate and acupuncture-moxibustion treatment of post-stroke depression] | 임상시험 | 560 | 높음 | PMID 16903595 | 뇌졸중 후 우울증 발생률 43.9%. 침구치료(태충 포함)가 Prozac-20과 유사한 치료 효과 |
-| [Acupuncture at Siguan points for treatment of primary dysmenorrhea] | 임상시험 | 180 | 중등도 | PMID 18447217 | 청룡백위법 사관혈(합곡·태충) 침치료가 일반 침·월경서탕보다 원발성 생리통 완치율·유효율 유의 높음. 30분 이내 빠른 진통 |
-| [Observation on therapeutic effect of acupoint catgut embedding therapy on premenstrual syndrome] | 임상시험 | 88 | 중등도 | PMID 16642613 | PMS 환자 매선요법(내관·삼음교·태충 등)이 플루옥세틴 약물치료보다 유의하게 우수 |
-| [Clinical observation on combination of source point and Back-Shu Point for treatment of perimenopausal syndrome] | 임상시험 | 80 | 중등도 | PMID 19563189 | 원혼·배수혈 조합(태계·태충·태백·삼음교·신수·간수·비수·관원)이 갱년기 증후군 Kupperman score·호르몬 개선에 더 효과적 |
-| [Randomized and controlled study on needling method of harmonizing spleen-stomach for early intervention of diabetic nephropathy] | 임상시험 | 130 | 중등도 | PMID 18271226 | 비위조화 자침법(곡지·합곡·족삼리·삼음교·태충 등)이 당뇨병성 신증 환자 신기능 보호·요중 알부민 감소에 유의 |
-| [Effect of electroacupuncture on gastrointestinal dynamics in acute pancreatitis patients and its mechanism] | 임상시험 | 94 | 중등도 | PMID 17691580 | 급성 췌장염 환자 족삼리·상거허·현종·태충·공손 전침이 대장 통과 시간 단축·위장관 운동성 향상 |
-| [Electroacupuncture for treatment of acute pancreatitis and its effect on the intestinal permeability of the patient] | 임상시험 | 68 | 중등도 | PMID 17663105 | 급성 췌장염 환자 전침 병행이 장 점막 투과성 감소·염증 매개물질(ET·TNF-α·NO) 저하·장벽 보호에 유의 |
-| Forty cases of gastrointestinal neurosis treated by acupunture | 임상시험 | 80 | 중등도 | [10.1016/s0254-6272(08)60006-0](https://doi.org/10.1016/s0254-6272(08)60006-0) · PMID 18416077 | 위장신경증 침치료(중완·족삼리·태충·신문) 총 유효율 92.5%, 돔페리돈 75.0%보다 유의 우수 |
-| [Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type] | 임상시험 | 60 | 중등도 | PMID 17663100 | 담음-어혈-경락폐색형 고혈압에 약물+침(풍지·곡지·내관·족삼리·풍륭·태충) 병행이 혈압·지질·CRP 유의 개선 |
-| [Effect of needling quchi and taichong points on blood levels of endothelin and angiotension converting enzyme in pregnancy-induced hypertension] | 임상시험 | 60 | 중등도 | PMID 15658649 | 곡지·태충 침치료가 고혈압 강하에 효과. 곡지는 ACE↑, 태충은 ET↓로 서로 다른 기전 작용 |
-| Clinical observation on post-stroke anxiety neurosis treated by acupuncture | 임상시험 | 67 | 중등도 | [10.1016/s0254-6272(08)60043-6](https://doi.org/10.1016/s0254-6272(08)60043-6) · PMID 19004200 | 뇌졸중 후 불안신경증에 전침(백회·신정·인당·수구·합곡·태충·신문·내관) 유효율 82.35%, 알프라졸람과 유사 |
-| [Clinical observation on acupuncture for treatment of Tourette's syndrome] | 임상시험 | 102 | 중등도 | PMID 16813178 | 투렛 증후군 태충·합곡 침치료 유효율 97.1%, 할로페리돌 76.5%보다 유의 높음. SEP 비정상률 41.1% 감소 |
-| [Observation on therapeutic effect of electroacupuncture combined with local blocking therapy on acute gouty arthritis] | 임상시험 | 100 | 중등도 | PMID 18822982 | 급성 통풍성 관절염 전침(음백·태충·삼음교·족삼리·풍륭·음릉천·아시혈)+국소 차단이 Indomethacin·Allopurinol보다 통증·요산 감소에 우수 |
-| [Controlled observation on electroacupuncture combined with cake-separated moxibustion for treatment of tennis elbow] | 임상시험 | 128 | 중등도 | PMID 16335198 | 테니스 엘보 합곡·태충 전침+수삼리·아시혈 뜸이 차단술보다 완치율(40.6% vs 25.0%)·유효율(93.7% vs 78.1%) 유의 높음 |
-| Acupuncture Treatment of Non-inflammatory Chronic Prostatitis with "Tiao Shen Jie Yu" Method: A Randomized Controlled Trial | 임상시험 | 105 | 중등도 | [10.3727/036012921x16304136917609](https://doi.org/10.3727/036012921x16304136917609) | 조신해우 침법(내관·대릉·신문·기해·관원·족삼리·음릉천·삼음교·태충)이 만성 전립선염 NIH-CPSI·HAMD·HAMA 유의 감소, 재발률 낮음 |
-| Acupressure for prevention of pre-operative anxiety: a prospective, randomised, placebo controlled study | 임상시험 | 76 | 중등도 | [10.1111/j.1365-2044.2005.04332.x](https://doi.org/10.1111/j.1365-2044.2005.04332.x) · PMID 16179042 | 태충혈 지압이 수술 전 불안·BIS 수치 유의 감소. 지압 중단 30분 후 효과 소실. 수술 직전 급성 불안 조절에 유용 |
-| The Efficacy of Press Needle Acupuncture in Managing Postoperative Pain in Pediatric Intensive Care: A Randomized Controlled Trial | 임상시험 | 70 | 중등도 | [10.1177/19336586261462063](https://doi.org/10.1177/19336586261462063) | 소아 PICU 수술 후 합곡·태충·신문·시상 압침이 통증 점수 유의 감소, 진통제 사용량 감소 경향 |
-| Randomised Controlled Trial on the Use of Acupuncture in Adults with Chronic, Non-Responding Anxiety Symptoms | 임상시험 | 40 | 중등도 | [10.1136/acupmed-2014-010524](https://doi.org/10.1136/acupmed-2014-010524) | 만성 불안에 내관·신문·태충 침이 불안 유의 감소. 효과 10주까지 유지 |
-| [Clinical effect of electroacupuncture combined with psychologic interference on patient with Internet addiction disorder] | 임상시험 | 47 | 중등도 | PMID 19548435 | 인터넷 중독 장애 전침+심리치료 병행(백회·합곡·태충·내관·삼음교) 유효율 91.3%, 심리치료 단독 59.1% |
-| [Effects of electroacupuncture combined with psychologic interference on anxiety state and serum NE content in the patient with Internet addiction disorder] | 임상시험 | 47 | 중등도 | PMID 18767577 | IAD 환자 전침+심리치료가 IAS·SAS·HAMA 점수·혈청 NE 유의 감소. 불안 조절 기전 확인 |
-| Hay Fever Prophylaxis Using Single Point Acupuncture: A Pilot Study | 임상시험 | 30 | 중등도 | [10.1136/aim.12.2.84](https://doi.org/10.1136/aim.12.2.84) | 태충(LR3) 단일 혈위 침치료가 꽃가루 알레르기 비염 예방에 효과적·안전·경제적. 증상 점수 개선·유병 기간 단축 |
-| Clinical observation of treating Meniere's syndrome by combining modified Zhenwu decoction and acupuncture at bilateral Taichong points | 임상시험 | 88 | 중등도 | [10.1088/1755-1315/632/5/052010](https://doi.org/10.1088/1755-1315/632/5/052010) | 메니에르 증후군 가감 진무탕+태충혈 침 병용이 현훈 중증도·VSI 유의 개선. 단독·양약보다 우수 |
-| Surface Electrostimulation of Acupuncture Points for Sedation of Critically Ill Patients in the Intensive Care Unit | 임상시험 | 12 | 중등도 | [10.1136/aim.26.1.1](https://doi.org/10.1136/aim.26.1.1) | 중환자실 합곡·족삼리·신문·태충 표면 전기자극이 프로포폴 투여량 145mg→15mg 유의 감소. 진정·호흡 안정 유지 |
-| Electroacupuncture to improve post-stroke cognitive function and modulate cerebral iron deposition | 임상시험 | 72 | 중등도 | [10.3389/fneur.2025.1708739](https://doi.org/10.3389/fneur.2025.1708739) · PMID 41561334 | 뇌졸중 후 인지 기능 개선에 전침(태충 포함)이 뇌 철 침착 조절·인지 기능 유의 개선 |
-| Adjunctive electroacupuncture to facilitate discontinuation of non-benzodiazepine hypnotics in chronic insomnia | 임상시험 | 78 | 중등도 | [10.3389/fneur.2026.1835295](https://doi.org/10.3389/fneur.2026.1835295) · PMID 42170415 | 만성 불면증 비벤조디아제핀 수면제 중단에 전침(태충 포함) 보조가 중단 성공률 유의 향상 |
-| Use of noninvasive electroacupuncture for the treatment of HIV-related peripheral neuropathy: a pilot study | 임상시험 | 7 | 낮음 | [10.1089/acm.1999.5.135](https://doi.org/10.1089/acm.1999.5.135) · PMID 10328635 | HIV 관련 말초신경병증 곤륜·족삼리·용천·태충 비침습 전침이 MOS-HIV·H-반사 유의 개선 |
-| Acupuncture and Self Acupuncture for Long Term Treatment of Vasomotor Symptoms in Cancer Patients - Audit and Outcome | 관찰연구 | 194 | 낮음 | [10.1136/aim.23.4.171](https://doi.org/10.1136/aim.23.4.171) | 암 환자 혈관운동성 증상(안면홍조)에 초기 집중 침(합곡·외관·태충·삼음교)+자가 침(삼음교) 79% 유의 개선, 6년 안전 |
-| Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists | 관찰연구 | 37 | 낮음 | [10.1089/acm.2006.12.863](https://doi.org/10.1089/acm.2006.12.863) · PMID 17109577 | 빈발성 두통 환자 3분의 2 이상 간양·기 불균형. 태충·합곡·백회 가장 빈번 선택 |
-| Clinical Experience and Appropriate Technique of Acupuncture for Ischemic Optic Neuropathy | 관찰연구 | 42 | 낮음 | [10.32629/jcmr.v7i2.5281](https://doi.org/10.32629/jcmr.v7i2.5281) | 허혈성 시신경병증 침치료(합곡·태충 등) 78.6% 시력 개선·69.0% 시야 결손 감소 |
-| Clinical characteristics of acupoint sensitization in patients with essential hypertension: a cross-sectional study | 관찰연구 | 448 | 낮음 | [10.19852/j.cnki.jtcm.20251030.001](https://doi.org/10.19852/j.cnki.jtcm.20251030.001) · PMID 42365415 | 본태성 고혈압 환자 혈위 민감화 특성 조사. 태충(LR3) 등 혈위 민감화 양상 확인 |
-| Acupuncture treatment of children nocturnal enuresis--a report of 56 cases | 증례 | 56 | 매우 낮음 | PMID 16817271 | 소아 야뇨증 침치료(신문·위중 주혈, 태충·행간 가감) 총 유효율 96% |
-| [Observation on 63 cases of facial paralysis treated with acupuncture] | 증례 | 63 | 매우 낮음 | PMID 1288929 | 안면신경마비 63례 침치료(태충 등 변증 가감) 완치 49.2%, 현저 효과 23.8%, 효과 25.4% |
-| Treatment of patient with end-stage hepatocellular carcinoma by the mineral pulse light stimuli on LV acupoint | 증례 | 1 | 매우 낮음 | [10.21203/rs.3.rs-52677/v1](https://doi.org/10.21203/rs.3.rs-52677/v1) | 말기 간세포암 태충·기문·삼음교 광물 펄스 광자극(MPLS) 후 종양 크기 감소·AFP 개선 |
-| Treatment of patient with end-stage hepatocellular carcinoma by the mineral pulse light stimuli on LV acupoint | 증례 | 1 | 매우 낮음 | [10.21203/rs.3.rs-52677/v1](https://doi.org/10.21203/rs.3.rs-52677/v1) | 말기 간암 태충(LR3)·기문(LR14)·삼음교(SP6) 광물 펄스 광자극으로 종양 크기 감소·AFP 개선 |
-| Intervensi akupresur taichong acupoint untuk menurunkan tekanan darah pada usia lanjut dengan hipertensi | 증례 | 2 | 매우 낮음 | [10.26714/nm.v5i3.13234](https://doi.org/10.26714/nm.v5i3.13234) | 고령 고혈압 환자 태충혈 지압이 혈압 강하에 긍정적 효과 |
-| The human brain response to acupuncture on same-meridian acupoints: evidence from an fMRI study | 실험연구 | 53 | 매우 낮음 | [10.1089/acm.2008.0036](https://doi.org/10.1089/acm.2008.0036) · PMID 18684074 | 동일 경락 혈위(간경 LR3·LR6)가 뇌 유사 영역(우측 상두정엽 BA7) 공통 활성화. 경락 신경해부학적 근거 |
-| [Study on corresponding areas the liver and lung channels in brain with fMRI] | 실험연구 | 60 | 매우 낮음 | PMID 18257352 | 간경 오수혈(LR1·LR2·LR3·LR4·LR8)이 동측 BA 34·47·적핵, 대측 BA 19·30·39·상두정소엽·소뇌 공통 활성화 |
-| Commonality and Specificity of Acupuncture Action at Three Acupoints as Evidenced by fMRI | 실험연구 | 46 | 매우 낮음 | [10.1142/s0192415x12500528](https://doi.org/10.1142/s0192415x12500528) | 합곡·족삼리·태충이 변연계 네트워크 공통 억제. 태충은 후해마·후대상피질 특이 반응 |
-| fMRI Evidence of Acupoints Specificity in Two Adjacent Acupoints | 실험연구 | 33 | 매우 낮음 | [10.1155/2013/932581](https://doi.org/10.1155/2013/932581) | 인접 혈위 태충(LR3)·내정(ST44)이 서로 다른 뇌 활성화 패턴. 혈위 특이성 신경과학적 근거 |
-| The salient characteristics of the central effects of acupuncture needling: limbic-paralimbic-neocortical network modulation | 실험연구 | 10 | 매우 낮음 | [10.1002/hbm.20583](https://doi.org/10.1002/hbm.20583) · PMID 18571795 | 태충·행간·내정 침 자극이 변연계-부변연계-신피질 광범위 억제(deactivation). 진통·항불안 기전 |
-| Acupoint-specific fMRI patterns in human brain | 실험연구 | 37 | 매우 낮음 | [10.1016/j.neulet.2005.04.021](https://doi.org/10.1016/j.neulet.2005.04.021) · PMID 15876491 | 태충·합곡 자극이 가짜 혈위와 구별되는 고유 뇌 활성화 패턴. 혈위 특이성 입증 |
-| [Observation on relation of acupuncture at Guangming (GB 37) and Taichong (LR 3) with central nervous reaction] | 실험연구 | 19 | 매우 낮음 | PMID 16419710 | 광명(GB37)·태충(LR3) 침 자극이 뇌 관련 영역 혈중 산소 포화도 개선. 중추신경계 혈류·대사 영향 |
-| Functional MRI in healthy subjects during acupuncture: different effects of needle rotation in real and false points | 실험연구 | 15 | 매우 낮음 | [10.1007/s00234-003-1125-7](https://doi.org/10.1007/s00234-003-1125-7) · PMID 15103431 | 태충혈 염전(회전) 자극이 비회전보다 체성감각 피질·전두엽·시상·소뇌 활성도 유의 증가. 전통 수기법 과학적 근거 |
-| Characterization of the "deqi" response in acupuncture | 실험연구 | 42 | 매우 낮음 | [10.1186/1472-6882-7-33](https://doi.org/10.1186/1472-6882-7-33) · PMID 17973984 | 합곡·족삼리·태충 득기 반응이 단순 촉각보다 빈도·강도 유의 높음. 복합 감각 패턴 과학적 입증 |
-| Crossover clinical trial to determine the effect of manual acupuncture at Siguan points (bilateral LI4 and LR3) on intestinal motor function | 임상시험 | 20 | 중등도 | [10.1142/S0192415X07004758](https://doi.org/10.1142/S0192415X07004758) · PMID 17436362 | 건강한 성인 사관혈(합곡·태충) 수기침은 장 운동성에 유의 변화 없음. 환자 병리 상태 시 효과 가능성 |
 
 ## 임상 적용
 
@@ -149,8 +92,8 @@ fMRI 메타분석(319명)에 따르면 태충혈 침 자극은 통증 인지·�
 
 [^1]: 태충(太衝, LR3)의 정의·위치·주치(主治)는 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: 사관혈(四關穴)의 구성(합곡·태충)과 기혈 소통·울체 해소 이론은 경락경혈학·침구학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
-[^3]: 합곡(合谷, LI4)과 태충(太衝, LR3)의 사관혈 배합과 임상 응용은 본 문서 근거 표의 임상시험 종합. 근거수준: 중등도.
-[^4]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·약침·매선·광자극·비침습적 전침 등)의 임상 적용은 본 문서 근거 표의 임상시험·실험연구 종합. 근거수준: 중등도.
+[^3]: 합곡(合谷, LI4)과 태충(太衝, LR3)의 사관혈 배합과 임상 응용은 본 문서 각주의 임상시험 종합. 근거수준: 중등도.
+[^4]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·약침·매선·광자극·비침습적 전침 등)의 임상 적용은 본 문서 각주의 임상시험·실험연구 종합. 근거수준: 중등도.
 [^5]: [Acupuncture at points of the liver and gallbladder meridians for treatment of migraine: a multi-center randomized and controlled study]. 임상시험, 253명. PMID: 19565729. 근거수준: 높음. 간경·담경 혈위(태충·양릉천·풍지·곡천) 침치료가 Flunarizine보다 편두통 개선에 우수.
 [^6]: Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. 관찰연구, 37명. DOI: [10.1089/acm.2006.12.863](https://doi.org/10.1089/acm.2006.12.863) · PMID: 17109577. 근거수준: 낮음. 빈발성 두통에서 태충·합곡·백회 가장 빈번 선택.
 [^7]: [Acupuncture for treatment of depressive neurosis: a multi-center randomized controlled study]. 임상시험, 440명. PMID: 18257177. 근거수준: 높음. 합곡·태충 침치료가 우울성 신경증에서 Prozac보다 부작용 적고 유사·우수 효과.

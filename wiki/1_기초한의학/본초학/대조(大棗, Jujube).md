@@ -27,28 +27,6 @@
 - 대추 유효 성분 주주보사이드 A는 해마 CA1 영역의 페니실린 유도 신경 과흥분을 억제한다(근거수준: 매우 낮음).[^18]
 - 대추(Ziziphus jujuba Miller) 에탄올 추출물은 밀착연접 단백질 회복과 염증 억제를 통해 장벽 기능을 회복시켜 염증성 장질환(IBD)에 유망하다(근거수준: 매우 낮음).[^19]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Ziziphus jujube Fruit Supplementation Improves Liver Enzymes, Lipid Profile, and Hepatic Steatosis in NAFLD | 임상시험 | 88 | 중등도 | 10.1002/fsn3.72228 | 대추 분말, NAFLD 간 효소·지질·간 지방증 개선, 공복혈당은 무영향 |
-| The Effect of Gammaekdaejo-tang for Post-stroke Depression: Systematic Review and Meta-Analysis | 메타분석 | - | 중등도 | 10.22246/jikm.2024.45.3.396 | 감맥대조탕, 뇌졸중 후 우울증 HDRS·NIHSS·유효율 개선 |
-| Herbal medicine (Gan Mai Da Zao decoction) for depression: systematic review protocol | 체계적 고찰 | - | 낮음 | 10.1136/bmjopen-2013-003690 | 감맥대조탕 우울증 유효성 평가 프로토콜 |
-| Effects of Herbal Medicine (Gan Mai Da Zao Decoction) on Neuropsychiatric Disorders in Animal Model | 체계적 고찰 | - | 낮음 | 10.3831/KPI.2017.20.005 | 감맥대조탕, 신경정신 질환·스트레스 개선 동물 근거 |
-| Kambakutaisoto and Emotional Instability Associated With Premenstrual Syndrome | 문헌 고찰 | - | 낮음 | 10.3389/fnut.2021.760958 | 감맥대조탕, PMS 정서 불안정·과민성 개선 |
-| Kambakutaisoto Treatment for Children With Night Crying and Arousal Parasomnias | 관찰연구 | 137 | 매우 낮음 | 10.1177/0883073820984062 | 감맥대조탕, 입원 소아 야제증·수면 장애 개선 |
-| Integrated Serum Pharmacochemistry, Network Pharmacology to Explore Jujube Against Alcoholic Liver Disease | 실험연구 | - | 매우 낮음 | 10.1002/bmc.70503 | 대추, PI3K-Akt·AKT 경로 알코올성 간질환 개선 |
-| Comparative Study on Hepatoprotective Effects of Angelica, Glycyrrhiza, Zizyphus, Paeonia on Ethanol-Induced Liver Injury | 실험연구 | - | 매우 낮음 | 10.3390/antiox13091137 | 대추 등, CYP2E1/Sirtuin1/Nrf2 간 보호 |
-| Ziziphus jujuba Miller Ethanol Extract Restores Intestinal Barrier Function via Tight Junction Recovery | 실험연구 | - | 매우 낮음 | 10.3390/antiox13050575 | 대추 에탄올 추출물, 장벽·염증 회복, IBD 유망 |
-| Intestinal CncC gene activation mediates sleep-protective effects of Ziziphus jujuba via gut-brain axis | 실험연구 | - | 매우 낮음 | 10.1016/j.jep.2026.121859 | 대추, 장-뇌 축 Nrf2/CncC 수면 보호 |
-| Inhibitory effect of jujuboside A on penicillin sodium induced hyperactivity in rat hippocampal CA1 | 실험연구 | - | 매우 낮음 | PMID 11749788 | 주주보사이드 A, 해마 신경 과흥분 억제 |
-| Research on compatibility mechanism of Tingli Dazao Xiefei Decoction by multi-organ metabolomics | 실험연구 | - | 매우 낮음 | 10.1016/j.jep.2026.121548 | 정리대조사폐탕, 천식 다기관 보호(FABP4/PPAR-γ) |
-| The Mechanisms Underlying Pharmacological Effects of GuiPi Decoction on Major Depressive Disorder | 실험연구 | - | 매우 낮음 | 10.2174/1386207325666220831152959 | 귀비탕, 다중 표적·PDE4 억제 항우울 |
-| Guipi Decoction Attenuates Fibrosis and Oxidative Stress in Diabetic Erectile Dysfunction | 실험연구 | 36 | 매우 낮음 | 10.2174/0118715303420396251202100011 | 귀비탕, RhoA/ROCK 당뇨병성 발기부전 개선 |
-| Ziziphusine A, a unique plant-alkaloid from Ziziphus jujuba with anti-inflammatory activity | 실험연구 | - | 매우 낮음 | 10.1039/d6ra04097g | 대추 알칼로이드, iNOS·COX-2 항염 |
-| Characteristics analysis for Chinese patent medicine containing Jujubea Fructus | 문헌 고찰 | - | 낮음 | 10.19540/j.cnki.cjcmm.20200707.501 | 대추 함유 중성약, 보익약·비위 치료 주사용 |
-| Modulation of gut microbiota and intestinal barrier by lotus seed, jujube, longan aril | 실험연구 | - | 매우 낮음 | 10.3389/fmicb.2026.1796355 | 대추 등, 장내 미생물·장벽 조절 |
-
 ## 임상 적용
 
 대조(大棗)는 보중익기·안신·화영위의 효능을 바탕으로 임상에서 다음과 같이 적용할 수 있다.

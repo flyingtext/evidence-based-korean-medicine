@@ -88,33 +88,6 @@
 - 중성약과 양약 병용은 H. pylori 관련 위궤양에서 제균율·점막 보호·재발 방지에 효과적이고 안전하다.[^5][^7]
 - 변증(한열변증·간위불화·비위허약)과 위점막 염증 지표·체질이 밀접한 관련이 있어 맞춤 치료가 필요하다.[^9][^10][^19]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| [Effect of Jianwei Yuyang Granules on expression of epidermal growth factor receptor in gastric mucosa of gastric ulcer patients] | 임상시험 | 70 | 임상시험 | 10.3736/jcim20040109 / PMID 15339497 | 건위양양과립이 EGFR 발현 증가로 점막 재생·궤양 치유 촉진 |
-| [Clinical study on treatment of gastric ulcer with qingwei zhitong pill] | 임상시험 | 120 | 임상시험 | PMID 12577435 | 청위지통환이 위궤양 치유 유효율·H. pylori 제균에 우수 |
-| [Therapeutic effects of the combination of traditional Chinese medicine and western medicine on patients with peptic ulcers] | 임상시험 | 130 | 임상시험 | PMID 16708818 | 한약+라니티딘 병용이 증상·증후군 개선 우수(점막 보호·혈류 개선) |
-| A comparison of the efficacy and safety of Chinese patent medicine combined with Western medicine for H. pylori-related gastric ulcer: network meta-analysis | 메타분석 | 4667 | 메타분석 | 10.1097/md.0000000000041137 | 중성약+양약 병용이 양약 단독보다 효과적·안전, 목표별 유리 제품 |
-| The efficacy of acupuncture combined with Chinese herbal medicine in the treatment of gastric ulcer: systematic review and meta-analysis | 메타분석 | 1632 | 메타분석 | 10.1097/MD.0000000000047743 / PMID 41824820 | 침+중약 병용이 유효율·Hp 제균율↑, 재발률·가스트린↓ |
-| Effects of killing Helicobacter pylori quadruple therapy on peptic ulcer: randomized double-blind clinical trial | 임상시험 | 75 | 임상시험 | 10.3748/wjg.v11.i7.1083 / PMID 15742421 | 제균 4제 요법이 재발률(4%) 유의하게 감소, 치유 질 향상 |
-| A Case Report of Integrative Korean Medicine Treatment for Functional Dyspepsia Persisting After Complete Healing of Gastric Ulcer | 증례 | 1 | 증례 | 10.22246/jikm.2025.46.6.1691 | 위궤양 완치 후 소화불량에 통합 한방 치료가 삶의 질 개선 |
-| [Blood and urine prostaglandin E2 and F2 alpha in patients with chronic gastritis and peptic ulcer] | 관찰연구 | 106 | 관찰연구 | PMID 1298470 | PGE2 상승이 변증 유형과 관련, 변증 객관화 지표 |
-| [The course of peptic ulcer in relation to patients' constitution] | 관찰연구 | 61 | 관찰연구 | PMID 11510186 | 체질에 따라 궤양 경과·합병증(출혈·천공) 위험 예측 |
-| Prediction of gastric ulcers based on the change in electrical resistance of acupuncture points using fuzzy logic | 실험연구 | - | 실험연구 | 10.1080/10255842.2011.618926 / PMID 22292589 | 경혈 전기 저항 변화로 위궤양 조기 예측 가능 |
-| [Clinical observation of peptic ulcer treated with acupuncture based on theory of "the compatibility of the five meridians"] | 임상시험 | 57 | 임상시험 | 10.13703/j.0255-2930.2017.08.001 / PMID 29231336 | 침 치료가 증상·궤양 치유에서 양방과 유사, Hp 음전율은 낮음 |
-| The efficacy and safety of Acupoint herbal patching in treating peptic ulcer: protocol for a systematic review | 체계적 고찰 | - | 체계적 고찰 | 10.1101/2024.09.21.24314138 | 혈위 약물 패치 유효성·안전성 평가 프로토콜 |
-| Antiulcer Activity of Herbal Medicines: A Review of Current Research | 문헌고찰 | - | 문헌고찰 | 10.2174/0127724344407391251210123216 / PMID 42152253 | 다양한 한약재가 전임상·임상에서 항궤양·보호 활성 |
-| Clinical efficacy and mechanism of Bletilla striata and Chinese herbal compounds in treatment of peptic ulcer | 문헌고찰 | - | 문헌고찰 | 10.3748/wjg.v31.i30.110145 / PMID 40904885 | 백급(白及)이 위장관 점막 염증 억제·궤양 치유 유효 |
-| Effect of xiaokuiling prescription on the expression of HSP72, HSP B in gastric mucosa of H. pylori-associated duodenal ulcer | 임상시험 | - | 임상시험 | 10.1007/BF02886565 / PMID 12539556 | 소쾌령탕이 HSP72 증가·HSP B 감소로 점막 보호·재생 |
-| ACUPUNCTURE TREATMENT FOR DUODENAL ULCER | 임상시험 | 21 | 임상시험 | 10.3727/036012988816358679 | 3주 침+생활 습관 개선으로 76% 완전 회복 |
-| [Comparative study on Jinghua Weikang Capsule and famotidine in treating duodenal ulcer] | 임상시험 | 200 | 임상시험 | PMID 16689009 | 경화위강캡슐이 파모티딘과 대등, 식욕·Hp 제균 개선 우수 |
-| [Randomized controlled trial on haiguiyuyang capsule in the treatment of duodenal ulcer] | 임상시험 | 438 | 임상시험 | PMID 15807275 | 회귀의양캡슐이 위장 팽만감 완화에 라니티딘보다 우수 |
-| [Relationship of cytokines and cold-heat syndrome differentiation in patients of duodenal ulcer] | 관찰연구 | 58 | 관찰연구 | PMID 11783237 | 열증 환자에서 IL-8·TNF·MPO·MDA 유의하게 높음(변증의 생물학적 근거) |
-| Research Progress on Traditional Chinese Medicine Interventions for Helicobacter Pylori | 체계적 고찰 | - | 체계적 고찰 | 10.53469/jcmp.2026.08(01).20 | 한양방 병용이 제균율↑·부작용↓, 반하사심탕 유용 |
-| Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: network meta-analysis | 메타분석 | 4465 | 메타분석 | 10.3389/fmed.2026.1859753 | 중성약+4제 요법 병용이 제균율·위점막 지표 개선 |
-| Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: systematic review and meta-analysis | 메타분석 | 2086 | 메타분석 | 10.1016/j.jep.2025.120414 / PMID 40812557 | 육군자탕이 양약 병용 시 유효율·안전성 우수 |
-
 ## 경혈/처방 연관
 
 - 경혈: 위궤양·십이지장궤양 치료에 중완(中脘, CV12)·위수(胃俞, BL21)·양릉천(陽陵泉, GB34)·족삼리(足三里, ST36) 등이 주요 혈위로 활용되며(교과서적 근거), 오경상합(五經相合) 이론에 따른 맞춤 혈위 선택이 임상 적용의 핵심이다.[^13] 경혈의 전기 저항 변화 분석이 위궤양 진단·경혈 치료 전략에 활용될 수 있다(실험연구).[^12]
@@ -152,4 +125,4 @@
 - 위궤양에서 침 치료의 H. pylori 음전율은 양방 약물보다 낮아,[^13] 제균이 우선인 경우 한약·침을 병용한 통합 치료의 제균율·재발 방지 장기 효과를 뒷받침할 대규모 다기관 무작위 대조 시험이 필요하다.
 - 혈위 약물 패치(AHP)의 유효성·안전성은 아직 프로토콜 단계로, 실제 임상 적용 근거가 추가로 확립되어야 한다.[^14]
 - 변증(한열변증·간위불화·비위허약)·체질과 위궤양의 예후·치료 반응을 객관화할 더 정밀한 전향적 연구가 요구된다.[^9][^10][^19]
-- 검색 과정에서 위궤양과 직접 관련이 없는 논문(부비동염·기타 위장관 질환·비한의학적 약리 실험 등)은 주제와 무관하거나 비한의학적으로 판단되어 근거 표에서 제외하였다.
+- 검색 과정에서 위궤양과 직접 관련이 없는 논문(부비동염·기타 위장관 질환·비한의학적 약리 실험 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.

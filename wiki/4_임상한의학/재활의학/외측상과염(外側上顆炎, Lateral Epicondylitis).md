@@ -163,63 +163,6 @@
 - 도침·화침·약침·뜸·부항 등 다양한 한의 중재가 통증 완화와 기능 회복에 도움을 준다.[^5][^7][^9][^51]
 - 회복 단계에 따라 스테로이드(단기)·프롤로테라피(중기)·PRP·건침(장기)을 맞춤 적용하는 것이 효과적이다.[^55]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Therapeutic Effects of Dry Needling on Lateral Epicondylitis: An Updated Systematic Review and Meta-analysis | 메타분석 | 979 | 높음 | 10.1016/j.apmr.2024.02.713 / 38484834 | 건침이 통증·기능·악력 개선, 트리거 포인트 국소 연축 반응 유도가 효과적 |
-| Effects of trigger point dry needling on lateral epicondylalgia of musculoskeletal origin: a systematic review and meta-analysis | 메타분석 | 320 | 높음 | 10.1177/0269215520937468 / 32576044 | 건침이 단기 통증·기능·압통역치·악력 개선 |
-| Analgesic Effect of Manual Acupuncture and Laser Acupuncture for Lateral Epicondylalgia: A Systematic Review and Meta-Analysis | 메타분석 | - | 중등도 | 10.1142/s0192415x14500815 | 수기 침이 단기 통증 완화에 효과적, 레이저 침보다 강력 |
-| Time-Dependent Efficacy and Safety of Percutaneous Treatments for Lateral Epicondylitis: A Systematic Review and Network Meta-Analysis | 메타분석 | 3285 | 높음 | 10.2147/JPR.S604185 / 42079417 | 회복 단계별 맞춤 치료: 스테로이드(단기)·DPT(중기)·PRP·DN(장기) |
-| Effectiveness of Dry Needling Combined With Exercise Versus Exercise Alone in Various Tendinopathies: A Systematic Review and Meta-Analysis | 메타분석 | 255 | 중등도 | 10.7759/cureus.92833 / 41127782 | 건침+운동이 운동 단독보다 통증·기능 개선, 테니스 엘보 단기 기능 개선 |
-| Acupuncture for lateral elbow pain | 체계적 고찰 | - | 중등도 | 10.1002/14651858.CD003527 / 11869671 | 침이 단기 통증 완화 가능성, 근거 시험 수 적음 |
-| Acupuncture Therapy for Extremity Musculoskeletal Pain: A Clinically Focused Evidence Synthesis | 체계적 고찰 | - | 중등도 | 10.2147/JPR.S551446 / 41164823 | 침이 족저근막염·외측상과염에서 가장 강력한 근거 |
-| Data Mining of Acupuncture Prescriptions for Lateral Epicondylitis: A Literature-Based Analysis | 체계적 고찰 | - | 중등도 | 10.2147/JPR.S583466 / 41938221 | 아시혈·곡지·수삼리·합곡·외관 핵심 혈위, 곡지+수삼리 조합 유용 |
-| The Effect of Acupuncture in the Treatment of Lateral Epicondylitis in Adults: An Integrative Review | 체계적 고찰 | - | 중등도 | 10.1177/19336586261464238 | 침이 단기·중기 통증·기능 개선, 병용 시 효과 증대 |
-| Controlled observation on electroacupuncture combined with cake-separated moxibustion for treatment of tennis elbow | 임상시험 | 128 | 중등도 | PMID 16335198 | 전침+떡-분리 뜸이 스테로이드 차단술보다 완치율·유효율 우수 |
-| Combination of Fu needling with electric acupuncture for tennis elbow | 임상시험 | 100 | 중등도 | PMID 15567797 | 복침+전침 병용이 단독보다 치료 효과·완치율 우수 |
-| Comparison of the Effectiveness between Manual Acupuncture and Electro-Acupuncture on Patients with Tennis Elbow | 임상시험 | 20 | 중등도 | 10.3727/036012902816026040 | 양릉천·외구 전침이 수침보다 통증·악력 개선 |
-| Efficacy of Dry Needling Combined with Eccentric Exercise Versus Oral and Topical NSAID Treatment in Patients with Tennis Elbow | 임상시험 | 111 | 중등도 | 10.1177/2515690X251355017 / 40629912 | 건침+편심성 운동이 NSAID보다 통증·기능 개선 |
-| Comparative Study for the Effectiveness of Dry Needling and Deep Friction Massage in Lateral Epicondylitis | 임상시험 | 32 | 중등도 | 10.53350/pjmhs221611351 | 건침이 통증 감소에 더 우수, 근력 회복엔 두 방법 모두 유효 |
-| The use of dry needling vs. corticosteroid injection to treat lateral epicondylitis | 임상시험 | 101 | 중등도 | 10.1016/j.jse.2020.08.044 / 32950674 | 건침이 스테로이드보다 통증·기능 개선, 부작용 위험 적음 |
-| Comparison of the efficacy of corticosteroid, dry needling, and PRP application in lateral epicondylitis | 임상시험 | 72 | 중등도 | 10.1007/s00590-021-03138-2 / 34613469 | 건침이 단기 통증·DASH 개선, 3개월 시점 스테로이드보다 우수 |
-| The comparison of the effectiveness of Kinesio Taping and dry needling in the treatment of lateral epicondylitis | 임상시험 | 78 | 중등도 | 10.1016/j.jse.2022.03.010 / 35483568 | 건침이 테이핑보다 통증·기능·초음파 특성 개선 우수 |
-| Effectiveness of Dry Needling on Lateral Epicondylitis Patient Compared to Ultrasound Therapy | 임상시험 | 90 | 중등도 | 10.37506/ggqvg379 | 건침이 초음파보다 통증·가동성 개선 |
-| Local Corticosteroid Injection Versus Dry Needling in the Treatment of Lateral Epicondylitis | 임상시험 | 54 | 중등도 | 10.7759/cureus.31286 / 36514597 | 건침이 스테로이드와 유사하거나 우수, 비용 저렴·부작용 낮음 |
-| A Comparative Study of Efficacy of Intra-lesional Dry Needling, Platelet Rich Plasma and Corticosteroid in Lateral Epicondylitis | 임상시험 | 147 | 중등도 | 10.4103/ojmpc_20202602_81 | 24주 장기 관찰 시 건침·PRP·스테로이드 유사, 즉각 완화는 스테로이드 우수 |
-| A STUDY OF LOCAL CORTICOSTEROIDS INJECTION vs DRY NEEDLING IN LATERAL EPICONDYLITIS | 임상시험 | 50 | 중등도 | 10.36106/ijsr/4606201 | 건침이 스테로이드와 2·4주 효과 유사, 합병증 낮음 |
-| Periosteal Pecking versus Piston Dry Needling Techniques: A Comparative Study on Pain Reduction in Tennis Elbow | 임상시험 | 20 | 중등도 | 10.32382/medkes.v20i2.1770 | 골막 펙킹이 통증 감소, 피스톤이 악력 향상에 유리 |
-| Comparison between acupotomy and corticosteroid injection for patients diagnosed with different classifications of tennis elbow | 임상시험 | 90 | 중등도 | 10.1186/s13018-022-03323-x | 도침이 장기적으로 통증·악력·재발률 개선 우수 |
-| Effects of Dry Needling in patients having Lateral Epicondylitis | 임상시험 | 60 | 중등도 | 10.3329/cemecj.v9i1.85177 | 건침+보존적 치료가 보존적 치료 단독보다 통증·기능 개선 |
-| To Study Efficacy of Dry Needling after Lignocaine Infiltration versus Local Steroid Injection for Management of Patients with Lateral Epicondylitis | 임상시험 | 45 | 중등도 | 10.4103/aam.aam_561_25 / 41587879 | 리도카인 침윤 후 건침이 스테로이드보다 통증·악력·기능 개선, 재발률 낮음 |
-| Musculoskeletal Ultrasound-Guided Micro-Needle-Knife Intervention at the Deep Fascial versus Superficial Fascial Layers in Lateral Epicondylitis | 임상시험 | 70 | 중등도 | 10.2147/JPR.S608269 / 42311471 | 심층 근막 타겟 미세침도가 표층보다 통증·기능 개선 우수 |
-| Percutaneous Electrolysis in the Treatment of Lateral Epicondylalgia: A Single-Blind Randomized Controlled Trial | 임상시험 | 32 | 중등도 | 10.3390/jcm9072068 / 32630241 | 경피전기분해술+편심성 운동이 건침보다 통증·압통역치 개선 |
-| Effectiveness of dry needling combined with eccentric strength training in lateral epicondylalgia with trigger points | 임상시험 | 38 | 중등도 | 10.5114/pq/175218 | 건침+편심성 운동이 단기(4-6주) 악력·통증 개선 |
-| Percutaneous tendon dry needling and thrust manipulation as an adjunct to multimodal physical therapy in patients with lateral elbow tendinopathy | 임상시험 | 143 | 중등도 | 10.1177/02692155241249968 / 38676324 | 전침+추나 교정술 병행이 물리치료보다 통증·기능 개선, 3개월 큰 효과 크기 |
-| The efficacy of dry needling in patients suffering from lateral epicondylitis | 임상시험 | 60 | 중등도 | 10.51415/10321/1802 | 건침이 가짜 침보다 주관적·객관적 지표 개선 |
-| The relative effectiveness of dry needling the extensor muscles of the forearm as an adjunct to cross friction massage | 임상시험 | - | 중등도 | 10.51415/10321/286 | 건침+횡마찰 마사지가 단순 마사지보다 통증·기능 개선 |
-| The Effectiveness of Ultrasound Therapy with dry needling technique, ultrasound therapy with Cyriax manipulation and ultrasound therapy on chronic lateral epicondylitis patients | 임상시험 | 45 | 중등도 | 10.36948/ijfmr.2026.v08i04.84523 | 건침·사이리악스 조작법 병행이 초음파 단독보다 효과적 |
-| Comparing the effectiveness of prolotherapy and percutaneous dry needling in the treatment of lateral epicondylitis: a retrospective cohort study | 관찰연구 | - | 중등도 | 10.26355/eurrev_202306_32798 / 37401297 | 건침+프롤로테라피 병용이 단독보다 통증·기능 개선 |
-| Percutaneous Tendon Needling without Ultrasonography for Lateral Epicondylitis | 관찰연구 | 36 | 중등도 | 10.2302/kjm.2019-0004-OA / 31281137 | 초음파 없이 경피적 건 침술이 통증·악력 개선, 안전 |
-| Comparison of the Efficacy of Corticosteroid Injection and Dry Needling in Treating Lateral Epicondylitis: An Observational Study | 관찰연구 | 62 | 중등도 | 10.31729/jnma.v63i2091.9241 / 41782623 | 스테로이드 초기(3주) 빠른 완화, 건침 장기(3개월) 기능 회복 우수 |
-| Comparing the Functional Outcomes of Hyaluronic Acid Injection and Dry Needling in Lateral Epicondylitis: A Retrospective Study | 관찰연구 | 64 | 중등도 | 10.7759/cureus.84732 / 40556986 | HA 주사가 장기 통증·기능 개선 우수, 부작용 적음 |
-| Fifty cases of external humeral epicondylitis treated by moxibustion and point-injection | 증례 | 50 | 낮음 | PMID 15510799 | 뜸+단삼·여목과 약침 병행 시 96% 유효율 |
-| A case study of 20 patients with lateral epicondylitis of the elbow by using hwachim (burning acupuncture therapy) and sweet bee venom pharmacopuncture | 증례 | 20 | 낮음 | 10.3831/KPI.2014.17.033 / 25780716 | 화침+감미봉독약침 병행이 통증(VAS) 유의 감소 |
-| SUSTAINED FUNCTIONAL IMPROVEMENT FOLLOWING TRANSITION FROM LOCAL CUPPING TO REGIONAL MYOFASCIAL RELEASE IN A CHRONIC LATERAL EPICONDYLITIS PATIENT | 증례 | 1 | 낮음 | 10.53555/c40c3873 | 부항 후 근막 라인 해소가 기능 회복에 효과적 |
-| Summary of WANG Jihong's experience in treating refractory lateral epicondylitis with crescent technique of blade needle | 증례 | - | 낮음 | 10.13703/j.0255-2930.20240425-0001 / 40670178 | 인침 반월자법이 난치성 외측상과염 통증·염증 완화 |
-| Summary of YIN Kejing's experience in treating lateral epicondylitis with classical acupuncture techniques | 증례 | - | 낮음 | 10.13703/j.0255-2930.20240430-k0001 / 40518787 | 고전 침법(부자·관자·삼자·호자·투자)이 근육 긴장 해소·영위 조절 |
-| A Case Report of Ultrasound-guided Hominis Placenta Pharmacopuncture on Lateral epicondylitis | 증례 | 1 | 낮음 | 10.13048/jkm.24030 | 초음파 유도 인태반 약침이 통증·기능·조직 재생 개선 |
-| Effectiveness of dry needling to treat lateral epicondylosis: A case report | 증례 | 1 | 낮음 | 10.1177/17589983241268218 / 39246571 | 건침+재활 병행이 만성 외측상과염 통증·기능 개선 |
-| Treating Lateral Epicondylopathy With Dry Needling and Exercise: A Case Series | 증례 | 3 | 낮음 | 10.1123/jsr.2023-0015 / 38531344 | 전기 자극 건침+운동 병합이 통증 80~100% 감소 |
-| Ultrasound-Guided Pharmacopuncture for Lateral Epicondylitis Initially Misdiagnosed Due to Incomplete Common Extensor Tendon Evaluation | 증례 | 1 | 낮음 | 10.3831/KPI.2025.28.3.248 / 41018875 | 초음파 유도 PDRN 약침이 오진 방지·통증 완화 |
-| A Case Report to Study the Effectiveness of Cupping Therapy on Medial Epicondylitis/Golfers Elbow | 증례 | 1 | 낮음 | 10.47070/ayushdhara.v8i6.858 | 부항요법이 내측상과염 통증·부종·강직 완화 |
-| PO-263 Clinical rehabilitation of external humeral epicondylitis by ginger moxibustion and its combination therapy | 임상시험 | 84 | 중등도 | 10.14428/ebr.v1i5.11113 | 생강 뜸+부침 병용(유효율 92%)이 단독보다 우수 |
-| Comparison of Traditional Chinese Medicine Treatment and Western Medicine Treatment of Tennis Elbow | 문헌고찰 | - | 낮음 | 10.54097/t1c4h835 | 한의 비수술 치료가 낮은 재발률·최소 침습적 효과 |
-| A Literature Review of Lateral Epicondylitis: Diagnosis, Risk Factors, Management and Treatment | 문헌고찰 | - | 낮음 | 10.3390/life16071043 / 42514112 | 물리치료·부하 조절 1차, 스테로이드 단기·PRP 장기, 수술 최후 수단 |
-| Optimizing Performance and Recovery: Dry Needling of Myofascial Trigger Points in Sports Medicine | 문헌고찰 | - | 낮음 | 10.12775/qs.2026.53.69749 | 건침이 스포츠 근골격계 통증·기능 회복에 안전·효과적 |
-| Tennis elbow, study protocol for a randomized clinical trial: needling with and without platelet-rich plasma | 임상시험(프로토콜) | 58 | 프로토콜 | 10.1186/s13018-020-01998-8 / 33028383 | 초음파 유도 침술+PRP 병행 효과 검증 프로토콜 |
-| Comparative Effect of Dry Needling and Neural Mobilization on Pain, Strength, Range of Motion, and Quality of Life in Patients With Lateral Epicondylitis: Protocol | 임상시험(프로토콜) | 36 | 프로토콜 | 10.1016/j.jcm.2021.09.001 / 34987324 | 건침 vs 신경가동술 비교 임상시험 프로토콜 |
-
 ## 임상 적용
 
 - 만성·난치성 외측상과염 환자에게 건침·전침·도침을 병행하여 통증 완화와 기능 회복을 도모할 수 있다.[^23][^25][^7]
@@ -295,7 +238,7 @@
 - 건침과 스테로이드 주사의 비교 근거는 일부 근거 수준이 낮아, 장기 추적을 포함한 대규모 연구가 필요하다.[^27][^40]
 - 도침·화침·약침·뜸·부항 등 한의 중재의 근거는 주로 증례·소규모 연구에 국한되어, 더 많은 고품질 임상 연구가 필요하다.[^5][^9][^48]
 - 초음파 유도 침술+PRP 병행 효과를 검증하는 임상시험과 건침 vs 신경가동술 비교 임상시험이 진행 중이며, 결과 도출이 필요하다.[^56][^57]
-- 검색으로 확보한 논문 중 혈액투석 환자의 합곡혈 지압·주관절 터널 증후군·경추통 척추 교정·뇌졸중 후 상지 경직 등은 주제(외측상과염)와 무관하여 본 문서의 근거 표에서 제외하였다.
+- 검색으로 확보한 논문 중 혈액투석 환자의 합곡혈 지압·주관절 터널 증후군·경추통 척추 교정·뇌졸중 후 상지 경직 등은 주제(외측상과염)와 무관하여 본 문서의 각주에서 제외하였다.
 
 [^56]: Tennis elbow, study protocol for a randomized clinical trial: needling with and without platelet-rich plasma after failure of up-to-date rehabilitation. 임상시험(프로토콜), 58명. DOI: [10.1186/s13018-020-01998-8](https://doi.org/10.1186/s13018-020-01998-8) · PMID: 33028383. 근거수준: 프로토콜. 초음파 유도 침술+PRP 병행 효과 검증.
 [^57]: Comparative Effect of Dry Needling and Neural Mobilization on Pain, Strength, Range of Motion, and Quality of Life in Patients With Lateral Epicondylitis: Protocol for Randomized Clinical Trial. 임상시험(프로토콜), 36명. DOI: [10.1016/j.jcm.2021.09.001](https://doi.org/10.1016/j.jcm.2021.09.001) · PMID: 34987324. 근거수준: 프로토콜. 건침 vs 신경가동술 비교.

@@ -8,7 +8,7 @@
 
 ## 하위 표제어(분류)
 
-삼음교혈은 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·근거 표에 상세히 서술한다.
+삼음교혈은 단일 질환보다는 **여러 질환·증상에 공통으로 적용되는 원위 취혈 혈위**로, 임상 적용 분야에 따라 다음과 같이 세분하여 접근한다. 각 분야별 근거는 본 문서 하위의 근거 요약·각주에 상세히 서술한다.
 
 - **부인과·월경통 분야**: 일차성 월경통, 월경 전 증후군(PMS), 월경 전 스트레스, 청소년 월경통 등 부인과 통증·월경 질환의 대표 요혈.[^4][^5][^6][^7]
 - **분만·산후 분야**: 분만통 완화, 분만 시간 단축, 제왕절개술 후 통증·피로, 산후 요정체, 산후 통증 등.[^8][^9][^10][^11][^12]
@@ -29,7 +29,7 @@
 - **자율신경·혈류 조절 기전**: 삼음교혈 지압은 하퇴·족배의 혈류량을 유의하게 증가시켜 말초동맥폐쇄성질환(PAOD) 환자의 혈류 개선에 도움을 준다.[^30] 폐경 후 비만 여성에서 삼음교·족삼리 경피전침(TEAS)은 심박변이도(HRV)에 일시적인 개선 효과를 보인다.[^19]
 - **경락·해부학적 특성**: 삼음교혈은 경골 내측연 후연에 위치하며, 비경·간경·신경의 교회혈로서 삼장을 함께 조절하는 특성을 지닌다.[^1] 뜸 치료 시 피부 화상을 방지하면서 효과를 낼 수 있는 안전 거리(3cm)가 제시된 바 있다.[^35]
 
-> 신경·혈류·내분비 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 근거 표에서 구분한다.
+> 신경·혈류·내분비 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
 
 ## 근거 요약
 
@@ -42,47 +42,6 @@
 - **대사·순환·기타**: 전침은 단순 비만 환자의 BMI·체중·허리둘레·허리-엉덩이 비율을 유의하게 감소시킨다(메타분석, 779명).[^29] 삼음교·양릉천·족삼리·음릉천 지압은 말초동맥폐쇄성질환(PAOD) 환자의 하퇴·족배 혈류량을 유의하게 증가시킨다(임상시험, 30명).[^30] 강화 외경동맥 박동술(EECP)과 족삼리·풍륭·삼음교 자극 병행은 고혈압 환자의 혈관 내피 기능을 유의하게 개선하고 혈압을 낮춘다(임상시험, 30명).[^31] 다발성 경화증 환자에게 합곡(LI4)·삼음교·족삼리 자가 지압은 피로도를 유의하게 감소시킨다(임상시험, 123명).[^32] 혈액투석 환자에게 용천·족삼리·삼음교 지압은 피로 개선·수면 질 향상·우울·불안 감소에 유의미한 효과가 있다(임상시험, 106명).[^33] 만성 족저근막염 환자에게 태계·곤륜·삼음교 침 치료가 통증 완화에 유의미한 효과가 있다(임상시험, 18명).[^34]
 
 > AI 요약(answer/clinical_summary)과 원문을 대조 후 요약하였다. 일부 수치·비율은 원문 데이터를 참고한 것이다.
-
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Effect of Sanyinjiao (Spleen-6) Acupoint for Pain Management in Primary Dysmenorrhea: An Updated Systematic Review and Meta-Analysis | 메타분석 | 1171 | 중등도 | 10.1089/acu.2023.0100 · PMID 39309625 | 삼음교 자극 침·지압 모두 생리통 통증 관리에 효과적, 특히 지압이 침보다 통증 감소에 더 효과적 |
-| Unveiling the latest evidence: an updated systematic review and meta-analysis and GRADE assessment on the effectiveness of acupressure in managing labor pain | 메타분석 | - | 중등도 | 10.1186/s12906-025-04908-9 · PMID 40349040 | 지압이 분만통 완화에 효과적, 특히 삼음교 자극이 통증 감소에 유의. 근거수준 중등도~낮음 |
-| Acupressure for postoperative pain after cesarean delivery: A meta-analysis | 메타분석 | 712 | 중등도 | 10.1002/ijgo.70994 · PMID 41952515 | 제왕절개술 후 합곡(LI4)·삼음교 지압이 급성 통증 유의 감소. 다모드 통증 관리의 일환으로 적용 가능 |
-| Effects of electroacupuncture on obesity: A systematic review and meta-analysis | 메타분석 | 779 | 중등도 | 10.1097/MD.0000000000036774 · PMID 38215111 | 전침이 비만 환자 BMI·체중·허리둘레 유의 감소. ST25·ST36·SP6 혈위 활용 |
-| Acupuncture improves anxiety and depression in patients with polycystic ovary syndrome: a systematic evaluation and meta-analysis | 메타분석 | 2127 | 중등도 | 10.3389/fmed.2026.1738629 · PMID 41647523 | 침이 PCOS 환자 불안·우울 유의 감소, 테스토스테론·BMI 개선. 삼음교·태충·족삼리 혈위 조합 유용 |
-| Application of acupoints and meridians for the treatment of primary dysmenorrhea: a data mining-based literature study | 체계적 고찰 | - | 중등도 | 10.1155/2015/752194 · PMID 25802545 | 삼음교·관원·기해가 원발성 생리통 치료의 핵심 혈위. 하지·임맥·비경·방광경 특이혈 선택 |
-| Effect of Acupressure on Primary Dysmenorrhea: Review of Experimental Studies | 체계적 고찰 | - | 중등도 | 10.51507/j.jams.2021.14.2.33 · PMID 35770538 | 삼음교·태충 혈위 자극·자가 지압이 생리통 통증·불안·삶의 질 개선에 효과적 |
-| A Review of Acupuncture Treatment for Infertility | 체계적 고찰 | - | 중등도 | 10.13045/jar.2021.00213 | 불임에 침이 대조군·서양의학 단독보다 유의 효과. PCOS에 관원·기해·삼음교·신수 혈위 유용 |
-| Exploring traditional acupuncture point selection patterns for pain control: data mining of randomised controlled clinical trials | 체계적 고찰 | - | 중등도 | 10.1177/0964528420926173 | 통증 관리에 삼음교·족삼리가 전신적으로 자주 사용. 월경통에는 삼음교·관원 선택 |
-| Acupuncture for Melasma in Women: A Systematic Review of Randomised Controlled Trials | 체계적 고찰 | 587 | 중등도 | 10.1136/acupmed-2014-010633 | 기미에 수동 침이 약물보다 완치율·효과 우수. 삼음교·족삼리·혈해 혈위 선택 |
-| Acupuncture for the treatment of lower limb diabetic peripheral neuropathy: a systematic review | 체계적 고찰 | 432 | 중등도 | 10.1136/acupmed-2018-011666 | 침이 당뇨병성 말초신경병증 통증 개선에 긍정. 족삼리·삼음교와 국소 혈위 조합 유용 |
-| Assessment of the Therapeutic Efficacy of Acupuncture in Treating Postpartum Urinary Retention | 체계적 고찰 | - | 중등도 | 10.1002/nau.70253 · PMID 41742703 | 침이 산후 요정체 첫 배뇨 시간 단축·잔뇨량 감소에 효과. 삼음교·중극·족삼리·음릉천 혈위 |
-| Electroacupuncture for poststroke urinary incontinence: A systematic scoping review | 체계적 고찰 | - | 중등도 | 10.1097/MD.0000000000045884 · PMID 41517657 | 전침이 뇌졸중 후 요실금 증상 중증도 유의 감소. SP6·BL23·RN3·RN4 등 혈위 조합 |
-| Acupuncture for benign prostatic hyperplasia in the elderly: A systematic review of acupoints | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000043802 | BPH에 관원·중극·삼음교·신수 혈위가 빈번 사용. 중극-삼음교·관원-삼음교 조합 강한 상관 |
-| Acupuncture for insomnia management: An international evidence-based guideline | 가이드라인 | - | 중등도 | 10.1016/j.smrv.2026.102292 · PMID 42030608 | 만성 불면증에 전침·수동 침이 수면 개선에 도움. 백회·삼음교·사신총 혈위, 주 3회 4주 이상 권장 |
-| Effects of acupressure on dysmenorrhea and skin temperature changes in college students | 임상시험 | 58 | 중등도 | 10.1016/j.ijnurstu.2006.03.021 · PMID 16782102 | 삼음교 지압이 원발성 생리통에 효과적, 효과 최대 2시간 지속. 곡골 부위 피부 온도 상승과 연관 |
-| Effects of acupressure at the Sanyinjiao point on primary dysmenorrhoea | 임상시험 | 69 | 중등도 | 10.1111/j.1365-2648.2004.03236.x · PMID 15500532 | 삼음교 지압이 청소년 원발성 생리통 통증·불안 유의 감소. 비침습적 자가 간호 중재로 권장 |
-| Effects of SP6 acupressure on labor pain and length of delivery time in women during labor | 임상시험 | 75 | 중등도 | 10.1089/acm.2004.10.959 · PMID 15673989 | 삼음교 지압이 분만 중 주관적 통증 유의 감소, 분만 시간 단축 |
-| Effects of acupressure on progress of labor and cesarean section rate: randomized clinical trial | 임상시험 | 156 | 중등도 | 10.1590/s0034-8910.2015049005407 | 삼음교 지압이 분만 소요 시간 유의 단축. 제왕절개율 감소에는 유의 효과 없음 |
-| Effects of acupressure on pain and first mobilisation distance after caesarean section | 임상시험 | 64 | 중등도 | 10.1016/j.explore.2024.103102 · PMID 39729699 | 제왕절개술 후 SP6·P6·LI4 지압이 통증 유의 감소, 첫 조기 이상 거리 증가 |
-| The effect of acupressure on postpartum fatigue in women delivering by caesarean section | 임상시험 | 122 | 중등도 | 10.1016/j.explore.2022.12.001 · PMID 36535860 | 제왕절개술 후 합곡(LI4)·족삼리·삼음교 지압이 산후 피로 유의 감소 |
-| Transcutaneous electrical acupuncture point stimulation improves pregnancy outcomes in patients with recurrent implantation failure | 임상시험 | 122 | 중등도 | 10.1136/acupmed-2017-011483 · PMID 30864824 | RIF 환자 IVF 시 삼음교·중극·관원·자궁 TEAS 병행이 착상률·임신율·출산율 유의 증가 |
-| [Clinical observation on acupuncture for treatment of infertility of ovulatory disturbance] | 임상시험 | 120 | 중등도 | PMID 18257182 | 배란 장애 불임에 침·뜸 병행이 클로미펜과 유사한 배란 유도, 임신율 더 높고 유산율 더 낮음 |
-| [Effects of electroacupuncture of Sanyinjiao (SP 6) on genito-endocrine in patients with perimenopausal syndrome] | 임상시험 | 157 | 중등도 | PMID 17907389 | 삼음교 전침이 갱년기 증후군 FSH·LH 낮추고 E2 높임. 호르몬 대체 요법과 유사한 내분비 조절 |
-| [Multicentral randomized controlled clinical trials about treatment of perimenopausal syndrome] | 임상시험 | 157 | 중등도 | PMID 18928120 | 삼음교 전침이 폐경전기 증후군 호르몬 조절·증상 개선. 약물과 유사한 유효율 |
-| Transcutaneous Electrical Stimulation of Acupoints Changes Body Composition and Heart Rate Variability in Postmenopausal Women with Obesity | 임상시험 | 49 | 중등도 | 10.1093/ecam/nep145 | 폐경 후 비만 여성 삼음교·족삼리 TEAS가 허리둘레·체지방률 감소, 제지방량 증가 |
-| The Effect on Serotonin and MDA Levels in Depressed Patients with Insomnia when Far-Infrared Rays are Applied to Acupoints | 임상시험 | 70 | 중등도 | 10.1142/s0192415x09007272 | 수면 장애 동반 우울증에 내관·신문·삼음교 원적외선이 세로토닌 증가·MDA 감소 |
-| Scheme optimization of acupoints compatibility and influence factors of the effect | 임상시험 | 333 | 중등도 | 10.1097/md.0000000000027883 | 원발성 불면증에 신문·백회·삼음교 배합혈 전침이 단일혈보다 우수할 수 있음 |
-| Effect of Jin-3-needling therapy on plasma corticosteroid, adrenocorticotrophic hormone and platelet 5-HT levels in patients with generalized anxiety disorder | 임상시험 | 86 | 중등도 | 10.1007/s11655-007-0264-9 · PMID 18180890 | GAD에 내관·신문·삼음교 및 특수 침법(J3N)이 약물과 대등하거나 더 높은 효능 |
-| Effects of acupressure on lower limb blood flow for the treatment of peripheral arterial occlusive diseases | 임상시험 | 30 | 중등도 | 10.1007/s00595-006-3347-x · PMID 17243026 | PAOD 환자 양릉천·족삼리·음릉천·삼음교 지압이 하퇴·족배 혈류량 유의 증가 |
-| External counterpulsation stimulation combined with acupuncture for vascular endothelial function in patients with hypertension | 임상시험 | 30 | 중등도 | 10.1080/10641963.2023.2181355 · PMID 36871563 | EECP와 족삼리·풍륭·삼음교 자극 병행이 고혈압 환자 혈관 내피 기능 개선·혈압 감소 |
-| Effect of self-acupressure on fatigue in patients with multiple sclerosis | 임상시험 | 123 | 중등도 | 10.1016/j.ctcp.2022.101572 · PMID 35316705 | 다발성 경화증 환자 합곡(LI4)·삼음교·족삼리 자가 지압이 피로도 유의 감소 |
-| Effect of Acupressure on Fatigue in Hemodialysis Patients: A Single-Blinded Randomized Controlled Trial | 임상시험 | 106 | 중등도 | 10.1089/jicm.2022.0644 · PMID 36413013 | 혈액투석 환자 용천·족삼리·삼음교 지압이 피로 개선·수면 질 향상·우울·불안 감소 |
-| Effect of Acupuncture Treatment on Heel Pain Due to Plantar Fasciitis | 임상시험 | 18 | 낮음 | 10.1136/aim.16.2.66 | 만성 족저근막염에 태계·곤륜·삼음교 침이 통증 완화에 유의. 트리거 포인트 침 병행 유용 |
-| Changes in Skin Surface Temperature at An Acupuncture Point with Moxibustion | 임상시험 | 36 | 중등도 | 10.1136/acupmed-2012-010268 | 삼음교 뜸 시 안전 거리 3cm 유지 시 피부 온도 최대 11°C 상승하면서 화상 방지 |
-| Urodynamic analysis of the effect of electroacupuncture at different acupoints on the bladder after spinal cord injury | 임상시험 | - | 중등도 | 10.1002/nau.25534 | 신경성 배뇨근 과활동성에 관원·중극 전침이 삼음교보다 방광 용량 증가·배뇨근 압력 감소에 더 효과적 |
 
 ## 임상 적용
 
@@ -129,7 +88,7 @@
 
 [^1]: 삼음교(三陰交, SP6)의 정의·위치·주치(主治)·삼음경 교회 특성은 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: 삼음교혈의 부인과·비뇨생식기·소화기·대사·정신정서 주치 이론과 사물탕·당귀작약산·육미지황탕 등 처방 병용은 경락경혈학·침구학·방제학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
-[^3]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·뜸·매선·원적외선 등)의 임상 적용은 본 문서 근거 표의 임상시험·실험연구 종합. 근거수준: 중등도.
+[^3]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·뜸·매선·원적외선 등)의 임상 적용은 본 문서 각주의 임상시험·실험연구 종합. 근거수준: 중등도.
 [^4]: Effect of Sanyinjiao (Spleen-6) Acupoint for Pain Management in Primary Dysmenorrhea: An Updated Systematic Review and Meta-Analysis. 메타분석, 1171명. DOI: [10.1089/acu.2023.0100](https://doi.org/10.1089/acu.2023.0100) · PMID: 39309625. 근거수준: 중등도. 삼음교 자극 침·지압 모두 생리통 통증 관리에 효과적, 지압이 침보다 통증 감소에 더 효과적.
 [^5]: Effects of acupressure at the Sanyinjiao point on primary dysmenorrhoea. 임상시험, 69명. DOI: [10.1111/j.1365-2648.2004.03236.x](https://doi.org/10.1111/j.1365-2648.2004.03236.x) · PMID: 15500532. 근거수준: 중등도. 삼음교 지압이 청소년 원발성 생리통 통증·불안 유의 감소.
 [^6]: Application of acupoints and meridians for the treatment of primary dysmenorrhea: a data mining-based literature study. 체계적 고찰. DOI: [10.1155/2015/752194](https://doi.org/10.1155/2015/752194) · PMID: 25802545. 근거수준: 중등도. 삼음교·관원·기해가 원발성 생리통 치료의 핵심 혈위.

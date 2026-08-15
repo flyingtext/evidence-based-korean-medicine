@@ -98,57 +98,6 @@ A5. 급성기에는 염증이 심하므로 무리한 자극보다 안정과 염�
 
 좌골신경통에 대해 온침·전침·처침·부항·추나·한약·약침 등 다양한 한의 중재가 유의한 통증 감소와 기능 개선 효과를 보임을 확인하였다. 특히 온침·습식 부항·신통저어탕 병용 도침, 신경가동술과 병행한 추나가 강력한 근거를 보이며, 척추 교정은 오피오이드 사용을 줄이는 효과도 있다. 신경병성 통증 기전을 반영한 개별화된 치료가 효과를 극대화한다.[^10][^11][^14]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Effect of warming needle moxibustion on pain threshold in the patient of sciatica | Clinical Trial | 90 | Medium | [PMID 16419700](https://pubmed.ncbi.nlm.nih.gov/16419700/) | 온침구가 양약·혈위주사보다 완치율·유효율·통증 역치 유의 개선 |
-| Clinical observation on the treatment for intractable systremma by warming needling combined with cupping | Clinical Trial | 150 | Medium | [PMID 19835119](https://pubmed.ncbi.nlm.nih.gov/19835119/) | 환도혈 온침+부항, 좌골신경 직접 자극 시 유효율 98% |
-| Electroacupuncture direct to spinal nerves as an alternative to selective spinal nerve block in radicular sciatica | Cohort Study | 3 | Low | [DOI 10.1136/aim.23.1.27](https://doi.org/10.1136/aim.23.1.27) | 척수신경근 직접 전침이 신경차단술의 비약물적 대안 가능 |
-| Efficacy and Safety of Acupuncture for Chronic Discogenic Sciatica: Sham RCT | Clinical Trial | 46 | High | [DOI 10.1093/pm/pnz167](https://doi.org/10.1093/pm/pnz167) | 침이 가짜침보다 다리 통증 유의 감소, 안전 |
-| Effectiveness of Cupping Therapy on Nerve Conduction Velocity in Sciatica: RCT | Clinical Trial | 30 | High | [DOI 10.36106/ijsr/7901920](https://doi.org/10.36106/ijsr/7901920) | 부항이 통증·신경전도속도 유의 개선 |
-| Comparative Clinical Study of Wet Cupping and Fire Cupping in Sciatica | Clinical Trial | 60 | Medium | [DOI 10.22270/jddt.v12i1-s.5212](https://doi.org/10.22270/jddt.v12i1-s.5212) | 습식 부항이 화염 부항보다 통증·기능 개선 우월 |
-| Therapeutic effect of Raktamokshan (modified cupping) in gridhrasi | Clinical Trial | 20 | Medium | [DOI 10.52482/ayurlog.v7i01.270](https://doi.org/10.52482/ayurlog.v7i01.270) | 부항 사혈이 통증·자상통·강직 유의 감소 |
-| Effect of BMI on efficacy of acupuncture for discogenic sciatica (secondary analysis) | Clinical Trial | 216 | Medium | [PMID 41987443](https://pubmed.ncbi.nlm.nih.gov/41987443/) | 침 효과는 BMI와 무관하게 유지 |
-| Shentong Zhuyu Decoction Combined with Acupotomy Lysis in Sciatica | Clinical Trial | 72 | Medium | [DOI 10.26689/bas.v1i2.5359](https://doi.org/10.26689/bas.v1i2.5359) | 신통저어탕+도침 병행이 통증·기능·보행 유의 개선 |
-| Effects of spinal manipulation/mobilization adjunct to neurodynamic mobilization for LDH | Clinical Trial | 40 | High | [DOI 10.1080/10669817.2023.2192975](https://doi.org/10.1080/10669817.2023.2192975) | 가동술+신경가동술이 교정보다 효과적, 52주 유지 |
-| Electroacupuncture vs TENS for low back pain: preliminary pragmatic study | Clinical Trial | 20 | Medium | [PMID 12512791](https://pubmed.ncbi.nlm.nih.gov/12512791/) | 전침이 TENS보다 단기 통증·JOA 개선 우월 |
-| Advances in needle-based interventions for chronic neuropathic pain | Review | - | Low | [PMID 42571813](https://pubmed.ncbi.nlm.nih.gov/42571813/) | 침 기반 중재술이 신경병성 통증에 유망 |
-| Functional brain alterations associated with acupuncture for chronic pain (fMRI scoping review) | Systematic Review | - | Medium | [PMID 42255938](https://pubmed.ncbi.nlm.nih.gov/42255938/) | 침이 통증·정서 관련 뇌 네트워크 재보정 유도 |
-| Needling Interventions for Sciatica Based on Neuropathic Pain Mechanisms: Scoping Review | Systematic Review | - | Medium | [PMID 34069357](https://pubmed.ncbi.nlm.nih.gov/34069357/) | 침이 효과적, 신경병성 기전 고려 필요 |
-| Chiropractic spinal manipulation for sciatica and opioid-related adverse events | Observational Study | 744942 | Medium | [PMID 39874372](https://pubmed.ncbi.nlm.nih.gov/39874372/) | 척추 교정이 오피오이드 이상반응 위험 감소 |
-| Efficacy of Ghati Yantra Raktamokshana (bloodletting with cupping) in sciatica: SR | Systematic Review | - | Medium | [DOI 10.47552/ijam.v12i4.2159](https://doi.org/10.47552/ijam.v12i4.2159) | 부항 사혈이 통증 완화 가능성, 대규모 RCT 필요 |
-| Acupuncture treatment for sciatica | Observational Study | - | Low | [DOI 10.1177/036012931986011003011](https://doi.org/10.1177/036012931986011003011) | 침 후 77% 개선 효과 |
-| Review on Hijāmah (cupping) for neuromuscular disorders | Review | - | Low | [DOI 10.24321/2278.2044.202244](https://doi.org/10.24321/2278.2044.202244) | 습식 부항이 건식보다 장기 효과 |
-| Pestle Needle (Chu Zhen) Treatment for Low-Back Pain and Sciatica | Case Report | 3 | Very Low | [PMID 35509877](https://pubmed.ncbi.nlm.nih.gov/35509877/) | 처침이 첫 세션 후 통증 크게 완화 |
-| Periosteal Acupuncture | Review | - | Low | [DOI 10.1177/036012931983008003003](https://doi.org/10.1177/036012931983008003003) | 골막침이 일반 침보다 효과적일 수 있음 |
-| Vietnamese spinal manipulation in sciatica due to spinal degeneration | Clinical Trial | 70 | Medium | [DOI 10.38103/jcmhch.17.5.18](https://doi.org/10.38103/jcmhch.17.5.18) | 척추 교정 병행이 통증·가동성·기능 개선 |
-| SMT for Low Back Pain With or Without Sciatica and Opioid Use Disorder | Observational Study | 49986 | Medium | [PMID 40978305](https://pubmed.ncbi.nlm.nih.gov/40978305/) | 척추 교정이 오피오이드 사용 장애 위험 감소 |
-| National Health Insurance Data Analysis for Korean Medicine CPG | Observational Study | - | Low | [PMID 37405112](https://pubmed.ncbi.nlm.nih.gov/37405112/) | 좌골신경통이 한의 진료 수요 1위 질환 |
-| Shinbaro pharmacopuncture in sciatic pain patients with LDH: protocol | Clinical Trial(프로토콜) | 60 | Low | [DOI 10.1186/s13063-015-0993-6](https://doi.org/10.1186/s13063-015-0993-6) | 신바로 약침 유효성·안전성 평가 프로토콜 |
-| Effectiveness comparisons of Chinese patent medicine on sciatica | Systematic Review(프로토콜) | - | Low | [DOI 10.1097/md.0000000000023826](https://doi.org/10.1097/md.0000000000023826) | 중성약 네트워크 메타분석 프로토콜 |
-| Ma's Bamboo-Based Medicinal Moxibustion for LBP in LDH: protocol | Clinical Trial(프로토콜) | 312 | Low | [DOI 10.21203/rs.3.rs-850406/v1](https://doi.org/10.21203/rs.3.rs-850406/v1) | 약물 뜸의 유효성·안전성 평가 프로토콜 |
-| Acupuncture Combined With Laser Acupuncture for Lumbar Spondylolisthesis | Case Report | 1 | Very Low | [DOI 10.1177/03601293261461970](https://doi.org/10.1177/03601293261461970) | 침+레이저침이 전위 단계 개선 가능 |
-| Filum Terminale Lipoma with Disc Herniation Treated with Korean Medicine | Case Report | 1 | Very Low | [DOI 10.13045/jar.2020.00143](https://doi.org/10.13045/jar.2020.00143) | 통합 한의 치료가 NRS·ODI·EQ-5D 개선 |
-| Integrative Korean Medicine for inpatients with sciatica due to LDH | Observational Study(프로토콜) | 1000 | Low | [DOI 10.1097/MD.0000000000020083](https://doi.org/10.1097/MD.0000000000020083) | 통합 한의 치료 유효성·안전성 대규모 검증 |
-| Knowledge and Attitude Toward Sciatica Pain Among Qassim Population | Cross-sectional Study | 398 | Low | [PMID 39149639](https://pubmed.ncbi.nlm.nih.gov/39149639/) | 부항·침 등 전통 요법을 유익하게 인식 |
-| Effectiveness of Safoof-e-Majusi with Wet Cupping in Sciatica | Case Report | 1 | Very Low | [DOI 10.52403/ijhsr.20241231](https://doi.org/10.52403/ijhsr.20241231) | 한약+습식 부항이 15일 만에 통증 감소 |
-| Efficacy of Wet Cupping in the Management of Sciatica | Case Report | 2 | Very Low | [DOI 10.22270/jddt.v14i12.6898](https://doi.org/10.22270/jddt.v14i12.6898) | 습식 부항 4회 후 VAS 유의 감소 |
-| Ayurvedic Management of Gridhrasi with Modified Cupping Therapy | Case Report | 1 | Very Low | [DOI 10.46607/iamj15p8012023](https://doi.org/10.46607/iamj15p8012023) | 부항이 요통·방사통·저림 개선 |
-| Ayurvedic Management of Sciatica with Medicated Enema and Bloodletting | Case Report | 1 | Very Low | [DOI 10.1177/0976500x241309446](https://doi.org/10.1177/0976500x241309446) | 외치법+관장이 통증·보행 개선 |
-| Acupuncture Treatment for Piriformis Syndrome Following Diskectomy | Case Report | 14 | Very Low | [DOI 10.1089/acu.2010.0739](https://doi.org/10.1089/acu.2010.0739) | 전침+환도혈 자침이 수술 후 통증 완화 |
-| Dry Needling in Patients with Piriformis Syndrome | Clinical Trial | 356 | Medium | [DOI 10.37506/bygrjz17](https://doi.org/10.37506/bygrjz17) | 드라이 니들링이 간섭파보다 통증 개선 우월 |
-| Deep dry needling combined with neural mobilisation in sciatic hyperalgesia | Case Report | 2 | Very Low | [DOI 10.5114/pq/191031](https://doi.org/10.5114/pq/191031) | 심부 드라이 니들링+신경가동술 효과 6개월 유지 |
-| Clinical and Haematological Study of Wet Cupping in Pain | Clinical Trial | 60 | Medium | [DOI 10.22270/jddt.v14i8.6701](https://doi.org/10.22270/jddt.v14i8.6701) | 습식 부항이 VAS·KOOS 개선 |
-| Exploring Hijama (Cupping) for Sciatica Relief: Integrative Review | Review | - | Low | [DOI 10.22270/jddt.v14i7.6655](https://doi.org/10.22270/jddt.v14i7.6655) | 부항이 약물·수술 대체 가능성 |
-| From Needles to Numbers: Leveraging EMR in Acupuncture Studies | Review | - | Low | [DOI 10.1177/19336586251370566](https://doi.org/10.1177/19336586251370566) | EMR 빅데이터로 침 효과·안전성 검증 |
-| Principles and application of acupuncture in neurology | Review | - | Low | [PMID 11075428](https://pubmed.ncbi.nlm.nih.gov/11075428/) | 침이 신경성 통증에 보조 요법 |
-| Acupuncture Treatment of Lumbar Disc Related Disorders | Review | - | Low | [DOI 10.1136/aim.16.1.18](https://doi.org/10.1136/aim.16.1.18) | 침이 약물 의존 감소·직장 복귀 촉진 |
-| Neuroanatomical Basis of Acupuncture Treatment | Review | - | Low | [DOI 10.1136/aim.2009.000455](https://doi.org/10.1136/aim.2009.000455) | 혈위의 신경해부학적 근거 |
-| Acupuncture and Acupuncture-Combined Therapies in Sciatica: Network Meta-Analysis | Meta-analysis | - | High | [DOI 10.2147/JPR.S542831](https://doi.org/10.2147/JPR.S542831) | 침 병합요법이 재활보다 우수, 지표별 최적 병합 제시 |
-| Developing a Core Outcome Set for TCM Trials for LDH | Guideline | 30 | Low | [PMID 41611616](https://pubmed.ncbi.nlm.nih.gov/41611616/) | 좌골신경통 빈도 포함 핵심 결과 지표 확정 |
-| Clinical efficacy of acupuncture in sciatica during remission phase of LDH | Clinical Trial | 78 | Medium | [PMID 42260872](https://pubmed.ncbi.nlm.nih.gov/42260872/) | 관해기 침이 견인보다 단기 통증·JOA 우월 |
-
 ## 참고문헌
 
 [^1]: Effect of warming needle moxibustion on pain threshold in the patient of sciatica, 임상시험(90명), PMID: [16419700](https://pubmed.ncbi.nlm.nih.gov/16419700/), 근거수준: RCT

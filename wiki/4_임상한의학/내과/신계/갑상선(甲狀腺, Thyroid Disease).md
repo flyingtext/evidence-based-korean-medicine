@@ -87,42 +87,6 @@
 - 갑상선 절제술 전후 침-약 병용 마취·수지침·WAA·생강이 수술 후 통증·오심·구토·회복을 개선한다(메타분석·임상시험).[^9][^10][^26][^27]
 - 요오드 함유 약재는 경증·중등도 그레이브스병에 유효하나, 요오드 과잉 섭취로 인한 갑상선중독증 위험을 경계해야 한다(코호트·증례).[^17][^29]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Chinese herbal medicines for hyperthyroidism | 체계적 고찰 | 1,770 | 중등도 | 10.1002/14651858.CD005450.pub2 / [17443591](https://pubmed.ncbi.nlm.nih.gov/17443591/) | 중약+항갑상선제 병용이 재발률·부작용·증상 개선에 이점, 연구 질 낮아 특정 처방 권고 어려움 |
-| Efficacy of methimazole combined with traditional Chinese medicine in the treatment of Graves' disease: a systematic review and network meta-analysis | 네트워크 메타분석 | 1,317 | 중등도 | [10.3389/fendo.2026.1767935](https://doi.org/10.3389/fendo.2026.1767935) / [42523574](https://pubmed.ncbi.nlm.nih.gov/42523574/) | 병용이 메티마졸 단독보다 TRAb·TPOAb 개선, 가감화간탕·소요산 등이 유효 순위 |
-| Prunella Oral Liquid in combination with Western medical treatment for Graves' disease: A systematic review and meta-analysis | 메타분석 | 966 | 중등도 | [10.1016/j.jep.2026.122255](https://doi.org/10.1016/j.jep.2026.122255) / [42526549](https://pubmed.ncbi.nlm.nih.gov/42526549/) | 어성초(Prunella) 경구액 병용이 fT3·fT4·TRAb·TgAb 감소, TSH 증가, 갑상선 크기 축소 |
-| Efficacy and safety evaluation of traditional Chinese medicine formulations in treating graves' disease by improving immune function | 메타분석 | - | 중등도 | [10.1016/j.jep.2026.121643](https://doi.org/10.1016/j.jep.2026.121643) / [41956233](https://pubmed.ncbi.nlm.nih.gov/41956233/) | 중약 복합 처방이 증후군 점수·치료 반응률·갑상선/면역 지표 개선, 이상반응 감소 |
-| An alternative therapy for graves' disease: clinical effects and mechanisms of an herbal remedy | 임상시험 | - | 중등도 | [10.1248/bpb.31.583](https://doi.org/10.1248/bpb.31.583) / [18379045](https://pubmed.ncbi.nlm.nih.gov/18379045/) | 안전백호탕이 T3·fT4 감소·TSH 증가, cAMP·Tg 발현 억제로 T4 합성 억제 기전 |
-| Therapeutic effectiveness of iodine-rich herbs in treating Graves' hyperthyroidism: a retrospective cohort study | 관찰연구 | 146 | 중등도 | [10.3389/fendo.2025.1573617](https://doi.org/10.3389/fendo.2025.1573617) / [40862118](https://pubmed.ncbi.nlm.nih.gov/40862118/) | 요오드 함유 약재가 fT3·fT4·TSH·TRAb 개선, 경증·중등도 GD 대안 치료 |
-| [Observation on therapeutic effect of picking therapy on Graves' disease] | 임상시험 | 60 | 중등도 | PMID [17165495](https://pubmed.ncbi.nlm.nih.gov/17165495/) | 자점요법이 유효율 93.3% vs 76.7%, TT3·fT3·TRAb 감소에 유효 |
-| [Effect of combined therapy of modified kangjia recipe combined with western medicine on hyperthyroidism] | 임상시험 | 90 | 중등도 | PMID [16970100](https://pubmed.ncbi.nlm.nih.gov/16970100/) | 병용이 유효율 93.3% vs 83.3%, 두근거림·발한·불면 개선, 부작용 감소 |
-| [Effects of Ruanjian Xiaoying Decoction on chronic lymphocytic thyroiditis] | 임상시험 | 80 | 중등도 | [10.3736/jcim20060407](https://doi.org/10.3736/jcim20060407) / [16834970](https://pubmed.ncbi.nlm.nih.gov/16834970/) | 연건소영탕+레보티록신이 반응률 92.5% vs 60.0%, 호르몬·항체 개선 |
-| [Acupoint application for Hashimoto's thyroiditis with liver-qi stagnation: a randomized controlled trial] | 임상시험(RCT) | 150 | 높음 | 10.13703/j.0255-2930.20230916-k0001 / [38764100](https://pubmed.ncbi.nlm.nih.gov/38764100/) | 혈위첩부가 TgAb·TPOAb·갑상선 비대·불안·삶의 질 개선, 안전·신뢰 |
-| A systematic review, meta-analysis, and trial sequential analysis of the effect of acupuncture and moxibustion on thyroid function in patients with Hashimoto thyroiditis | 메타분석 | - | 중등도 | 10.1097/MD.0000000000048352 / [42065206](https://pubmed.ncbi.nlm.nih.gov/42065206/) | 침이 TPOAb·TGAb·TSH·fT4, 뜸이 항체 개선, 이질성·한계로 확신 제한 |
-| The effect of wet-cupping therapy (hijama) in modulating autoimmune activity of Hashimoto's thyroiditis: A pilot controlled study | 임상시험(파일럿) | 26 | 중등도 | 10.15537/smj.2022.43.1.20210755 / [35022283](https://pubmed.ncbi.nlm.nih.gov/35022283/) | 습식부항이 anti-TPO·anti-TG·TSH·ESR 감소, 초음파 소견 개선 |
-| The effect of continued Wet-Cupping Therapy (Hijama) in Modulating Autoimmune Activity of Hashimoto's Thyroiditis: A Case Report Study | 증례 | 2 | 매우 낮음 | 10.55920/jcrmhs.2025.11.001515 / [10.55920](https://doi.org/10.55920/jcrmhs.2025.11.001515) | 장기(9개월 이상) 습식부항이 TPO 감소·증상 개선, 중단 시 리바운드 주의 |
-| Treatment of hypothyroidism using Korean medicine: 2 case reports | 증례 | 2 | 매우 낮음 | 10.1097/MD.0000000000019737 / [32358346](https://pubmed.ncbi.nlm.nih.gov/32358346/) | 한약+침·전침이 TSH·fT4 정상화, 증상 개선 |
-| Clinical Course of Suspected Hashitoxicosis with Korean Medicine: A Case Report | 증례 | 1 | 매우 낮음 | [10.22246/jikm.2026.47.2.128](https://doi.org/10.22246/jikm.2026.47.2.128) | 3개월 치료로 T3·fT4 정상 유지, TSH 변동·HPT 축 항상성 회복 |
-| The Effect of Banhahubak-tang-gami on Thyroid Nodules: A Systematic Review and Meta-Analysis | 메타분석 | - | 중등도 | 10.22246/jikm.2024.45.6.1147 / [10.22246](https://doi.org/10.22246/jikm.2024.45.6.1147) | 반하후박탕가감이 유효율·결절 최대 직경·TSH·증상 점수 개선 |
-| Chief Physician Wang Defen's Experience in Treating Thyroid Nodules based on Syndrome Differentiation | 증례 | - | 매우 낮음 | [10.26689/jcnr.v5i6.2730](https://doi.org/10.26689/jcnr.v5i6.2730) | 간기울결·담기로 변증, 단지소요산 가감이 결절·증상 개선 |
-| A Review of Herbal Medicine Treatments on Aftereffects of Thyroidectomy | 체계적 고찰 | - | 중등도 | 10.22246/jikm.2024.45.4.615 / [10.22246](https://doi.org/10.22246/jikm.2024.45.4.615) | 한약+양약 병용이 유효율 RR 1.28, 호르몬·면역·우울 개선 경향 |
-| Acupuncture compound anesthesia for traditional thyroidectomy: a systematic review and meta-analysis | 메타분석 | 1,228 | 중등도 | [10.1007/s11726-023-1410-4](https://doi.org/10.1007/s11726-023-1410-4) | 침술 복합 마취가 마취 효과·통증·진통제 소모량·활력징후 개선 |
-| Combined acupuncture-medicine anesthesia used in thyroid surgery: A systematic review and meta-analysis | 메타분석 | 1,211 | 중등도 | [10.1097/md.0000000000032582](https://doi.org/10.1097/md.0000000000032582) | 침-약 병용 마취가 유효율·심박수·평균동맥압·부작용 개선 |
-| Randomized Controlled Trial of Wrist-Ankle Acupuncture for Postoperative Pharyngeal Pain in Patients Undergoing Day Surgery Thyroidectomy | 임상시험(RCT) | 72 | 중등도 | [10.1097/ncc.0000000000001547](https://doi.org/10.1097/ncc.0000000000001547) | WAA가 수술 후 9·27시간 인후통 감소, 통증 만족도·수면 개선 |
-| The Effects of Korean Hand Acupressure on Postoperative Pain, Nausea, Vomiting, and Retching After Thyroidectomy | 임상시험(RCT) | 42 | 중등도 | [10.1016/j.jopan.2024.11.003](https://doi.org/10.1016/j.jopan.2024.11.003) / [40072394](https://pubmed.ncbi.nlm.nih.gov/40072394/) | 수지침 지압이 수술 후 6시간 구역질 횟수·강도 감소, 항구토제 감량 |
-| A Case Report on Papillary Thyroid Cancer Patients after Thyroidectomy Treated with Korean Medicine and Immunotherapy | 증례 | 3 | 매우 낮음 | 10.22246/jikm.2021.42.5.746 / [10.22246](https://doi.org/10.22246/jikm.2021.42.5.746) | 침·뜸·약침+면역요법 병행이 수술 후 통증·쇠약감 완화 |
-| The influence of acupuncture on the quality of life and the level of thyroid-stimulating hormone in patients presenting with subclinical hypothyroidism | 관찰연구 | 27 | 낮음 | PMID [22165143](https://pubmed.ncbi.nlm.nih.gov/22165143/) | 침·괄사가 TSH 정상화, 증상 중증도·삶의 질 개선 |
-| Association Between Herbal Medicine Treatment and Weight loss in Overweight and Obese Patients with Hypothyroidism: A Retrospective Multicenter Study | 관찰연구 | 72 | 중등도 | 10.22246/jikm.2026.47.3.508 / [10.22246](https://doi.org/10.22246/jikm.2026.47.3.508) | 한약 치료가 체중(-6.55kg)·BMI·체지방률 유의 감소 |
-| Factitious thyrotoxicosis and herbal dietary supplement for weight reduction | 증례 | 3 | 매우 낮음 | 10.1080/15563650701381179 / [18363120](https://pubmed.ncbi.nlm.nih.gov/18363120/) | 요오드·갑상선 조직 혼입 보조제가 인위적 갑상선중독증 유발 |
-| Iodine-induced thyrotoxicosis after ingestion of kelp-containing tea | 증례 | 1 | 매우 낮음 | 10.1111/j.1525-1497.2006.00416.x / [16808731](https://pubmed.ncbi.nlm.nih.gov/16808731/) | 다결절 갑상선종 환자, 다시마 차로 요오드 유발 갑상선중독증 |
-| Effect of Celery Extract on Thyroid Function; Is Herbal Therapy Safe in Obesity? | 증례 | 1 | 매우 낮음 | 10.4103/ijpvm.ijpvm_209_17 / [10.4103](https://doi.org/10.4103/ijpvm.ijpvm_209_17) | 셀러리 추출물이 TSH 감소·T4 증가(기능 항진) 유발, 중단 후 회복 |
-| Hyperthyroidism treatment by alternative therapies based on cupping and dietary-herbal supplementation: a case report | 증례 | 1 | 매우 낮음 | 10.1515/dmpt-2021-0132 / [35385890](https://pubmed.ncbi.nlm.nih.gov/35385890/) | 습식부항+식이-한방 보충이 TSH 증가, 두드러기 소실 |
-| Exploring the Comprehensive Treatment of Hashimoto's Thyroiditis with Traditional Chinese Medicine | 문헌고찰 | - | 근거 미확인 | [10.2147/TCRM.S575059](https://doi.org/10.2147/TCRM.S575059) / [41908912](https://pubmed.ncbi.nlm.nih.gov/41908912/) | 한방이 면역·산화 스트레스 조절로 자가항체·삶의 질 개선 보완 |
-| Beyond levothyroxine: a narrative review of adjunctive management strategies for Hashimoto's thyroiditis | 문헌고찰 | - | 근거 미확인 | 10.21037/gs-2025-1-554 / [42164686](https://pubmed.ncbi.nlm.nih.gov/42164686/) | 침·부항·식이·영양 보조가 일부 삶의 질·자가면역 개선, 근거 불충분 |
-
 ## 경혈/처방 연관
 
 - 경혈: 수지침·손목-발목 침법(WAA) 배혈, 갑상선 절제술 전후 [합곡(合谷, LI4)](../../../1_기초한의학/경락경혈학/합곡(合谷, LI4).md)·내관(PC6)·족삼리(足三里, ST36) 등 수술 전후 침구·수지침 활용
@@ -169,4 +133,4 @@
 
 ## 검색에서 제외된 논문
 
-- 갑상선 호르몬을 주소로 하지 않는 간접 연관 논문(치매·건선·대상포진·성장호르몬 결핍·자궁근종 등 갑상선 호르몬 대사·경로를 언급하는 연구), 갑상선 수술 마취·PONV 일반 연구 중 환자 모집단이 갑상선에 국한되지 않은 경우는 본 주제와 간접 관련이거나 중복되어 근거 표에서 제외하였다. 일부는 침구·수술 후 관리의 별도 문서 주제로 적합하다.
+- 갑상선 호르몬을 주소로 하지 않는 간접 연관 논문(치매·건선·대상포진·성장호르몬 결핍·자궁근종 등 갑상선 호르몬 대사·경로를 언급하는 연구), 갑상선 수술 마취·PONV 일반 연구 중 환자 모집단이 갑상선에 국한되지 않은 경우는 본 주제와 간접 관련이거나 중복되어 각주에서 제외하였다. 일부는 침구·수술 후 관리의 별도 문서 주제로 적합하다.

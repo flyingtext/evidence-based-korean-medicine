@@ -133,37 +133,6 @@
 - 생약(물냉이·서양고추냉이·Canephron N)은 재발성 방광염 예방에 효과적이다.[^23][^24]
 - 신경인성 방광·요정체에 전침·뜸이 방광 기능 회복에 도움이 된다.[^15][^16][^17][^18]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| The effect of prophylactic acupuncture treatment in women with recurrent cystitis: kidney patients fare better | 임상시험 | 98 | 중등도 | 10.1089/107555303322524508 · PMID 14629843 | 예방적 침이 신양허/신기허 변증군에서 방광염 발생 감소·잔뇨량 개선 |
-| TCM syndromes in women with frequently recurring cystitis: frequencies of syndromes and symptoms | 관찰연구 | 61 | 중등도 | 10.1054/ctim.2000.0399 · PMID 11098202 | 재발성 방광염 환자 90%가 비신양허/기허·간기울결 변증 |
-| Non-antibiotic interventions to prevent recurrent urinary tract infections in women: overview of systematic reviews | 체계적 고찰 | - | 중등도 | 10.3399/BJGP.2026.0055 · PMID 42225392 | 크랜베리·메테나민·질내 에스트로겐 효과적, 침·한약 가능성 |
-| Clinical efficacy of abdominal moxibustion at the Zhongji (CV3) in combination with Yiqi Tonglin Yangyin decoction and antibiotics for elderly female patients with complicated urinary tract infection | 임상시험 | 144 | 중등도 | 10.19852/j.cnki.jtcm.2026.02.017 · PMID 42015783 | 중극혈 뜸 병행이 반응률 향상·재발 감소·면역 개선 |
-| Prescription of Choreito, a Japanese Kampo Medicine, with Antimicrobials for Treatment of Acute Cystitis: A Retrospective Cohort Study | 관찰연구 | 8834 | 중등도 | 10.3390/antibiotics11121840 · PMID 36551497 | 시령탕 병용이 항생제 처방 일수 유의 단축 |
-| Application of the TCM inheritance computing platform to summarize clinical practice patterns in recurrent urinary tract infections: A systematic review | 체계적 고찰 | 3462 | 중등도 | 10.36721/PJPS.2026.39.10.291.1 · PMID 42489303 | 청열이습·보신 전략 핵심, 황백-복령 조합 유효, 재발률 30-45% 감소 |
-| Segmental Acupuncture for Prevention of Recurrent Urinary Tract Infections. A Randomised Clinical Trial | 임상시험 | 137 | 중등도 | 10.1007/s00192-024-05872-7 · PMID 39060726 | 분절 침치료가 12개월간 요로감염 발생률·횟수 유의 감소 |
-| Intravesical therapy of heparin and lidocaine for interstitial cystitis: a case report | 증례 | 1 | 낮음 | PMID 22075614 | 난치성 간질성 방광염에 방광 내 헤파린·리도카인 주입 유효 |
-| Kampo patterns and radiology in children receiving choreito for hemorrhagic cystitis after hematopoietic stem cell transplantation | 관찰연구 | 10 | 중등도 | 10.1002/tkm2.1053 | 저령탕이 소아 출혈성 방광염의 하초습열·방광벽 비후 개선 |
-| Choreito formula for BK virus-associated hemorrhagic cystitis after allogeneic hematopoietic stem cell transplantation | 관찰연구 | 14 | 중등도 | 10.1016/j.bbmt.2014.10.018 · PMID 25445026 | 시령탕이 혈뇨 소실 단축·바이러스 부하량 감소 |
-| Choreito, a formula from Japanese traditional medicine, for massive hemorrhagic cystitis and clot retention in a pediatric patient | 증례 | 1 | 낮음 | 10.1016/j.phymed.2012.06.012 · PMID 22819300 | 시령탕이 소아 출혈성 방광염·혈전 정체에 효과적·안전 |
-| Drug-induced cystitis caused by herbal medicine (Bofutsushosan) | 증례 | 1 | 낮음 | 10.1016/j.eucr.2021.101644 · PMID 33850729 | 방풍통성산 복용 중 알레르기성 방광염 발생 가능 |
-| A Case of Drug-Induced Cystitis Associated With a Multicomponent Herbal Formulation Involving Yokuinin-To | 증례 | 1 | 낮음 | 10.7759/cureus.110922 · PMID 42460224 | 욕귀인탕 관련 한약 복용 후 약물 유발성 방광염 가능성 |
-| Regulating the BACH1/NCOA4 axis to disrupt UPEC-induced intracellular bacterial communities: Tailin patent formula alleviates bladder epithelial injury | 실험연구 | 60 | 낮음 | 10.1016/j.phymed.2026.158544 · PMID 42447508 | 태림특허방이 UPEC 세포 내 세균 군집 억제·방광 상피 손상 완화 |
-| Observation on therapeutic effect of electroacupuncture at points Baliao and Huiyang (BL 35) on retention of urine induced by spinal cord injury | 임상시험 | 84 | 중등도 | PMID 16642604 | 팔료혈·휘양혈 전침이 요정체 유효율·완치율 유의 증가 |
-| Localization of Ciliao (BL32)/Zhongliao (BL33) under ultrasound positioning and the correlation with therapeutic effect of electroacupuncture on urinary retention after spinal cord injury | 임상시험 | 52 | 중등도 | 10.13702/j.1000-0607.20250263 · PMID 41116990 | 초음파 유도 정밀 취혈이 LUTS·잔뇨·요로감염 개선 |
-| Two cases of urinary retention in patients with Alzheimer's disease with agitation treated by acupuncture | 증례 | 2 | 낮음 | 10.13703/j.0255-2930.20250804-k0002 · PMID 41397735 | 차료·중료 침·전침이 배뇨 욕구 회복·도뇨관 제거에 기여 |
-| Heat-sensitive moxibustion for postoperative urinary retention in rectal cancer: a case report | 증례 | 1 | 낮음 | 10.13703/j.0255-2930.20251017-k0001 · PMID 41839603 | 열민구가 잔뇨량 감소·배뇨 증상 개선 |
-| Efficacy and Safety of Yinhua Miyanling Tablets for Uncomplicated Urinary Tract Infections: A Multicenter, Randomized, Double-Blind, Double-Dummy, Active-Controlled, Non-inferiority Clinical Trial | 임상시험 | 458 | 중등도 | 10.1007/s11655-026-4154-4 · PMID 41989501 | 은화미안령정이 레보플록사신 대비 비열등, 증상·삶의 질 개선 |
-| Integrative Use of Ningmitai Capsule and Cefoxitin in Treating Post-Ureteroscopic Lithotripsy Stent-Related Urinary Tract Infections | 관찰연구 | 76 | 중등도 | 10.1111/cts.70553 · PMID 42105270 | 항생제+녕밀태 병용이 치료 성공률·염증 지표 개선 |
-| Efficacy and safety of Chinese patent medicine for urinary tract infections: a systematic review and network meta-analysis | 메타분석 | 3250 | 중등도 | 10.3389/fmed.2025.1622999 | 중성약+항생제 병용 유망, 혈뇨안 캡슐 병용 최적 가능성 |
-| Clinical evaluation of the efficacy and safety of nasturtium herb and horseradish root versus placebo in the continuous prophylaxis of recurrent uncomplicated cystitis | 임상시험 | 224 | 중등도 | 10.1186/s12906-026-05328-z · PMID 41782129 | 물냉이+서양고추냉이 복합이 재발 위험 약 36% 감소 |
-| Multicenter open prospective randomized study on the efficacy and safety of Canephron N in preventing recurrences of uncomplicated lower urinary tract infection in women | 임상시험 | 67 | 중등도 | PMID 41399819 | Canephron N 병용·예방이 1년 재발률 38.7%→13.9%로 감소 |
-| The efficacy of Gosyajinkigan for pollakisuria | 임상시험 | 20 | 중등도 | PMID 16617873 | 고샤진키간(우차신기환)이 빈뇨·IPSS 개선, 8주 이상 투여 필요 |
-
-> 주의: 검색 과정에서 만성 담낭염 침구 논문 등 주제와 무관한 결과가 포함될 수 있어 제외하였다. 방광암 국소 온열요법 논문(PMID 16398435)은 방광암 재발 예방에 관한 것으로, 방광염과 병태생리·적응증이 달라 본 문서의 근거 표에서 제외하였다. 실험연구(PMID 42447508)는 인체 연구가 아닌 전임상 수준으로 근거 수준이 낮음을 명시한다.
-
 ## 임상 적용
 
 - 재발성 방광염 환자에게 변증(비신양허/기허·하초습열)에 따라 예방적 침·분절침과 보신·청열이습 한약을 병행한다.[^1][^2][^7]

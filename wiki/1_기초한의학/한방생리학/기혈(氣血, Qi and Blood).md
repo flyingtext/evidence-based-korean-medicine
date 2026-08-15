@@ -138,48 +138,6 @@
 - 보기활혈·활혈거어 한약은 심혈관·대사·염증성 질환의 기혈 불균형에서 효과를 보인다.[^26][^27][^28][^29]
 - 침·뜸·사혈·부항·기공 등 외치법·운동 요법은 기혈 순환 개선에 효과적이다.[^42][^43][^44][^46]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| The explanation on the essence of Qi & Blood at meridians theory | 실험연구 | - | 낮음 | 10.21203/rs.3.rs-56591/v1 | 기는 DNA-바이오포톤 스펙트럼 코드, 혈은 프리모관을 흐르는 펄스 이온 전류로 해석 |
-| Clinical effect of qigong practice on essential hypertension: a meta-analysis of randomized controlled trials | 메타분석 | 908 | 중등도 | 10.1089/acm.2007.7213 | 기공이 본태성 고혈압 혈압 유의 감소, 보조적 혈압 관리 수단 |
-| Randomised controlled trial of qigong in the treatment of mild essential hypertension | 임상시험 | 88 | 중등도 | 10.1038/sj.jhh.1001884 | 구린 기공이 경증 고혈압 혈압 유의 감소, 일반 운동과 유사 |
-| Effects of Qi-therapy on blood pressure, pain and psychological symptoms in the elderly | 임상시험 | 94 | 중등도 | 10.1016/s0965-2299(03)00088-8 | 기-치료가 노인 불안·우울·피로·통증·혈압 감소 |
-| Qigong reduces stress in computer operators | 임상시험 | 20 | 중등도 | 10.1016/j.ctcp.2006.09.003 | 기공이 컴퓨터 작업자 교감신경 활성도·스트레스 완화 |
-| Effects of Qi-training (Qigong) on forearm blood gas concentrations | 실험연구 | - | 낮음 | PMID 15636359 | 기공 훈련이 혈중 산소 분압 상승·이산화탄소 분압 하강 |
-| Biochemical changes after a qigong program: lipids, serum enzymes, urea, and creatinine | 임상시험 | 29 | 중등도 | PMID 18049436 | 기공 수련이 간·신장 기능 지표 개선 |
-| Clinical study in treating qi-deficiency and blood-stasis syndrome of angina pectoris with qi xue granule | 임상시험 | 55 | 중등도 | PMID 1301847 | 기혈과립이 기혈허어 협심증 증상·운동 내성 개선 |
-| Clinical study on relationship of CD62p, CD63 and TSP to the qi-stagnation induced blood-stasis syndrome | 관찰연구 | - | 중등도 | PMID 12575572 | 기체혈어 상태에서 혈소판 활성화 지표 유의 증가 |
-| Effect of yimai jiangya extract on plasma neuropeptide Y level in senile hypertension with qi-deficiency and blood stasis | 임상시험 | 68 | 중등도 | PMID 11938811 | 이맥강압추출물이 기허혈어 고혈압 NPY 유의 감소 |
-| Effect of yiqi yangyin huoxue recipe on endothelin and nitric oxide of type 2 diabetic patients | 임상시험 | 41 | 중등도 | PMID 11789183 | 익기양음활혈방이 기음양허·혈어 당뇨 ET 감소·혈당 개선 |
-| Primary exploration on immune associated genome of patients with Pi-Qi deficiency syndrome | 실험연구 | - | 낮음 | PMID 15892273 | 비기허 증후군에서 면역 관련 유전자 발현 변화 |
-| Clinical observation on treatment of rheumatoid arthritis with biqi capsule | 임상시험 | 142 | 중등도 | PMID 16548360 | 비기 캡슐이 기허혈어형 RA에서 유효율 91.4% |
-| Clinical observation in 102 cases of chronic pelvic inflammation treated with qi jie granules | 임상시험 | 172 | 중등도 | PMID 15119158 | 기결과립이 기허혈어 만성 골반염 유효율·혈액 점도 개선 |
-| A clinical study on treatment of senile psoriasis by replenishing qi to activate blood | 임상시험 | 40 | 중등도 | PMID 15510803 | 보기활혈이 노인성 건선 면역 기능·혈액 순환 개선 |
-| Clinical observation on treatment of diabetic peripheral neuropathy with qi-supplementing and blood-activating therapy | 임상시험 | 68 | 중등도 | PMID 14666763 | 보기활혈이 기허혈어 당뇨병성 말초신경병증 NCV 개선 |
-| Effect of TCM therapy by principle for nourishing Qi, activating blood circulation and resolving phlegm on COPD | 임상시험 | 72 | 중등도 | PMID 16248249 | 보기활혈화담이 기허·혈어·담저 COPD 삶의 질 개선 |
-| Retrospective analysis on effect of reinforcing qi and activating blood for promoting safety in peri-operational stage of hip operation | 관찰연구 | 1872 | 중등도 | PMID 16841661 | 보기활혈이 고령 고관절 수술 합병증 예방 |
-| Effect of hemodialysis with Chinese herbs of supplementing qi and activating blood circulation on CD62P | 임상시험 | 40 | 중등도 | PMID 17342993 | 기혈 보충·활혈 한약이 투석 환자 CD62P 감소 |
-| Yiqi Huoxue Recipe combined with polyene phosphatidycholine capsule in treating non-alcoholic fatty hepatitis | 임상시험 | 80 | 중등도 | PMID 17343008 | 익기활혈방이 지방간염 간 기능·지질 개선 |
-| Effect of qi replenishing and blood circulation activating drugs in treatment of middle-advanced pancreatic cancer | 임상시험 | 58 | 중등도 | PMID 11938807 | 기보혈활약이 췌장암 증상 개선·생존율 향상 |
-| Clinical study on effect of Chinese herbal medicine for supplementing kidney and qi and activating blood circulation in IUGR | 임상시험 | 55 | 중등도 | PMID 11783225 | 보신익기·활혈이 태아 성장 지연 개선 |
-| Clinical observation on treatment of endometriosis by tonifying qi and promoting blood circulation | 임상시험 | 45 | 중등도 | PMID 11783186 | 익기활혈화어통부가 자궁내막증 면역 불균형 조절 |
-| Comparative analysis on results of treadmill test in coronary heart disease with Qi-Yin deficiency syndrome | 관찰연구 | 101 | 중등도 | PMID 15892274 | 기음양허+담혈어체 협심증이 더 중증 |
-| Clinical study on effects of tiepi fengdou granule/capsule combined with chemotherapy in lung cancer with Qi-Yin asthenia | 임상시험 | 80 | 중등도 | PMID 16883902 | 철피풍두 제제가 기음양허 폐암 증상 개선 |
-| Effect of TCM syndrome-typing based therapy combined with cyclosporin in treating myelodysplastic syndrome | 임상시험 | 58 | 중등도 | PMID 17121049 | 변증시치+사이클로스포린이 기혈양허 MDS 개선 |
-| Effect of Penqiangyan Granule on the immune function of chronic pelvic inflammatory disease of blood-stasis and Shen-deficiency | 임상시험 | 60 | 중등도 | PMID 17969902 | 분강염과립이 어혈신허 만성 골반염 면역 개선 |
-| A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule | 임상시험 | 82 | 중등도 | 10.1007/BF02835784 | Penyanqing 캡슐이 기체혈어 만성 골반염 유효율 83.3% |
-| Effect of liangxue huoxue xiaoyin tang on serum levels of TNF-alpha, IFN-gamma and IL-6 in psoriasis of blood-heat type | 임상시험 | 63 | 중등도 | PMID 16447674 | 량혈활혈소음탕이 혈열형 건선 염증 사이토카인 감소 |
-| Summary of 32 patients with cardiac syndrome X treated by TCM therapy of regulating qi relieving chest stuffiness | 임상시험 | 51 | 중등도 | 10.1007/s11655-007-0017-9 | 이기쾌흉활혈이 심장 증후군 X 증상 개선 |
-| Clinical observation on chronic obstructive pulmonary disease of acute aggravating stage treated with activating blood circulation | 임상시험 | 60 | 중등도 | PMID 15892277 | 활혈거어방이 급성 악화 COPD 증상·폐기능 개선 |
-| Effects of replenishing qi, promoting blood circulation and resolving phlegm on vascular endothelial function in hyperlipemia | 임상시험 | 96 | 중등도 | PMID 16817277 | 단삼거명과립이 노인성 고지혈증 지질·혈관 내피 개선 |
-| Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion therapy on ASO | 관찰연구 | 63 | 중등도 | 10.1097/md.0000000000040110 | 기신통맥음+뜸이 ASO 혈류·증상 개선 |
-| Observation on the Efficacy and Mechanism of Blood-Letting and Cupping Therapy in Improving Upper Limb Lymphedema | 임상시험 | - | 중등도 | 10.26689/par.v10i1.13715 | 사혈부항이 유방암 수술 후 림프부종 개선 |
-| Clinical application of the Ziwu Duichong Qixue Huzhu theory | 문헌고찰 | - | 낮음 | PMID 16318131 | 자오대충 기혈호주 이론이 경락 기혈 순환 보완 |
-| Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000016127 | 자가혈 혈자리 주입이 만성 두드러기 보조 요법 |
-| Autologous blood or autologous serum acupoint injection therapy for psoriasis vulgaris | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000020555 | 자가혈 혈자리 주입이 건선 보조 요법 |
-
 ## 임상 적용
 
 - 기혈 불균형 환자에게 보기활혈·활혈거어 등 기혈 조절 처방을 변증에 맞춰 적용할 수 있다.[^26][^27][^28]
@@ -252,4 +210,4 @@
 - 보기활혈·활혈거어 한약의 심혈관·대사 질환 효과는 유망하나, 장기 추적을 포함한 대규모 연구가 필요하다.[^26][^28]
 - 기공(氣功)의 혈압·스트레스·대사 개선 효과는 유망하나, 더 엄격한 설계의 연구를 통한 근거 확보가 필요하다.[^46][^47]
 - 설진·객관적 지표 기반 기혈 진단의 표준화와 임상 적용 검증이 필요하다.[^19][^21]
-- 검색으로 확보한 논문 중 신생아·소아 처치 통증, 특정 수술 합병증 등은 주제(기혈 생리·병리)와 무관하거나 비한의학적 판단되어 본 문서의 근거 표에서 제외하였다.
+- 검색으로 확보한 논문 중 신생아·소아 처치 통증, 특정 수술 합병증 등은 주제(기혈 생리·병리)와 무관하거나 비한의학적 판단되어 본 문서의 각주에서 제외하였다.

@@ -73,36 +73,6 @@
 - 의학 사학자 미키 사카에는 한국 전통 의학의 종양 치료·법의학적 절차가 서양 의학과 대등하거나 우수하다고 평가하고, 동의보감을 인간의 몸과 마음을 중시하는 의학의 전형으로 보았다.[^23]
 - 동의보감은 일제강점기 서양의학이 주류가 된 환경 속에서도 방약합편·상한론·사상의학·침구학 등과 함께 활발히 출판되며 한의학의 학문적 활동을 이어가는 기반이 되었다.[^24]
 
-## 근거 표
-
-| 제목 | 연구 유형 | 환자 수 | 근거수준 | DOI/PMID |
-|---|---|---|---|---|
-| Comparison of Herbs in Prescription Composition of Consumptive Disease and Internal Injury in Donguibogam Through Network Analysis | 문헌 고찰 | — | 낮음 | [10.22246/jikm.2023.44.1.35](https://doi.org/10.22246/jikm.2023.44.1.35) |
-| Establishment of a Comprehensive List of Candidate Antiaging Medicinal Herb Used in Korean Medicine by Text Mining of Dongeuibogam | 문헌 고찰 | — | 낮음 | [10.1155/2015/873185](https://doi.org/10.1155/2015/873185) |
-| Selection of Effective Herbal Medicines for Parkinson's Disease Based on the Text Mining of Donguibogam | 실험연구 | — | 매우 낮음 | [10.13048/jkm.21041](https://doi.org/10.13048/jkm.21041) |
-| Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text | 문헌 고찰 | — | 낮음 | [10.1016/j.imr.2020.100436](https://doi.org/10.1016/j.imr.2020.100436) |
-| Studies on medicinal herbs for cognitive enhancement based on the text mining of Dongeuibogam | 실험연구 | — | 매우 낮음 | [10.1016/j.jep.2016.01.006](https://doi.org/10.1016/j.jep.2016.01.006) |
-| Historical Medical Value of Donguibogam | 문헌 고찰 | — | 낮음 | [10.3831/KPI.2016.19.002](https://doi.org/10.3831/KPI.2016.19.002) |
-| To Discern the Medical Thoughts of Heo Joon (분석) | 문헌 고찰 | 301 | 중등도 | [10.13081/kjmh.2015.24.581](https://doi.org/10.13081/kjmh.2015.24.581) |
-| Data Mining of Acupoint Characteristics from the Classical Medical Text: DongUiBoGam | 기타(데이터 마이닝) | — | 낮음 | [10.1155/2014/329563](https://doi.org/10.1155/2014/329563) |
-| Heo Jun: physician of the people | 문헌 고찰 | — | 낮음 | [10.1080/20009666.2020.1853316](https://doi.org/10.1080/20009666.2020.1853316) |
-| Korean Anatomical Charts in the Context of the East Asian Medical Tradition | 문헌 고찰 | — | 낮음 | [10.1163/157342109x568991](https://doi.org/10.1163/157342109x568991) |
-| How Did Joseon's Clinical Medicine Develop in the 17-8th Century: I Sugi's medical thoughts | 문헌 고찰 | — | 낮음 | [10.13081/kjmh.2022.31.1](https://doi.org/10.13081/kjmh.2022.31.1) |
-| Joseon physician Heo Joon's Smallpox Medicine and 'Syndrome differentiation' | 문헌 고찰 | — | 낮음 | [10.13081/kjmh.2021.30.35](https://doi.org/10.13081/kjmh.2021.30.35) |
-| Historical difference between traditional Korean medicine and traditional Chinese medicine | 문헌 고찰 | — | 낮음 | [10.1179/016164107X172293](https://doi.org/10.1179/016164107X172293) |
-| Traditional Chinese Medicine and Constitutional Medicine in China, Japan and Korea: A Comparative Study | 문헌 고찰 | — | 낮음 | [10.1142/s0192415x1750001x](https://doi.org/10.1142/s0192415x1750001x) |
-| Using US Patent Analysis to Monitor the Technological Trend in the Field of Gastrointestinal Microbiome | 문헌 고찰 | — | 낮음 | [10.13048/jkm.23004](https://doi.org/10.13048/jkm.23004) |
-| A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients | 관찰연구 | 1879 | 중등도 | [10.1155/2013/508918](https://doi.org/10.1155/2013/508918) |
-| Utilization Patterns of Korean Medicine: Analysis of the National Health Insurance Cohort Database | 관찰연구 | 778506 | 높음 | [10.1089/acm.2016.0022](https://doi.org/10.1089/acm.2016.0022) |
-| The academic trend of Oriental medicine during the Japanese colonial period | 문헌 고찰 | — | 낮음 | [PMID 17214426](https://pubmed.ncbi.nlm.nih.gov/17214426/) |
-| The gaze of the others: how the Western medical missionaries viewed the traditional Korean medicine | 문헌 고찰 | — | 낮음 | [PMID 17214423](https://pubmed.ncbi.nlm.nih.gov/17214423/) |
-| The life of medical historian Miki Sakae, and the "history of Korean medicine" | 문헌 고찰 | — | 낮음 | [PMID 17144192](https://pubmed.ncbi.nlm.nih.gov/17144192/) |
-| Study on Wang Ruzun's hand-written copy of Dongyi Bogam | 문헌 고찰 | — | 낮음 | [PMID 12639447](https://pubmed.ncbi.nlm.nih.gov/12639447/) |
-| A bibliographic study on Tongui-bigan with special reference to its influence on Japan and China | 문헌 고찰 | — | 낮음 | [PMID 12192672](https://pubmed.ncbi.nlm.nih.gov/12192672/) |
-| Parasitic diseases in Dong-Eui-Bo-Kam | 문헌 고찰 | — | 낮음 | [PMID 11618931](https://pubmed.ncbi.nlm.nih.gov/11618931/) |
-| The unique theory of cold damage advocated by medical practitioners in the latter era of the Joseon dynasty | 문헌 고찰 | — | 낮음 | [PMID 22739625](https://pubmed.ncbi.nlm.nih.gov/22739625/) |
-| An observation of the question of how the physician in Joseon Society was treated or evaluated, taking the Heo Jun case | 기타(역사 고찰) | — | 낮음 | [PMID 12828168](https://pubmed.ncbi.nlm.nih.gov/12828168/) |
-
 ## 임상 적용
 
 - 동의보감은 한의학 임상의 역사적·이론적 토대이며, 임상가는 고전 처방의 원전(原典)을 정확히 이해하고 변증론치(辨證論治)의 원리를 현대 환자 상태에 맞춰 유연하게 적용할 수 있는 기반이 된다.[^2][^5]
@@ -116,7 +86,7 @@
 동의보감은 처방·본초·변증의 원전 체계를 제공하여, 임상가가 고전 처방의 본의(本義)를 이해하고 현대 질환에 맞게 가감·적용하는 데 활용한다. 특히 텍스트 마이닝 연구가 항노화·인지·피부·신경 질환의 후보 약재와 용량을 제시하여 근거 기반 재해석을 돕는다.[^9][^10][^11][^12] 근거수준: 낮음(문헌 고찰·실험연구).
 
 **Q2. 동의보감에 기록된 처방이 현대에도 효과가 있다는 근거가 있나?**
-동의보감의 내상·소갈 처방 구성이 네트워크 분석으로 규명되었고, 고전 처방(예: 보중익기탕(補中益氣湯)·황련해독탕 계열)은 현대 한의학에서 염증·대사·면역 질환에 널리 적용되며 활발한 약리 연구가 진행 중이다.[^3][^18][^20] 다만 개별 처방의 임상 효과는 별도 문서의 근거 표에서 확인하며, 고전 기록 자체는 실험적 검증이 필요한 단계이다. 근거수준: 낮음~중등도.
+동의보감의 내상·소갈 처방 구성이 네트워크 분석으로 규명되었고, 고전 처방(예: 보중익기탕(補中益氣湯)·황련해독탕 계열)은 현대 한의학에서 염증·대사·면역 질환에 널리 적용되며 활발한 약리 연구가 진행 중이다.[^3][^18][^20] 다만 개별 처방의 임상 효과는 별도 문서의 각주에서 확인하며, 고전 기록 자체는 실험적 검증이 필요한 단계이다. 근거수준: 낮음~중등도.
 
 **Q3. 동의보감의 경혈 지식을 현대 침구 치료에 어떻게 반영하는가?**
 동의보감 침구편의 경혈-변증 관계가 데이터 마이닝으로 정량 분석되어, 특정 변증에 따른 경혈 선택의 근거를 제공한다. 임상가는 이를 현대 침구 치료에 데이터 기반으로 재해석해 적용할 수 있다.[^8] 근거수준: 낮음.

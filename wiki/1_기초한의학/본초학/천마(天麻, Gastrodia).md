@@ -25,33 +25,6 @@
 - 반하백출천마탕은 어지럼증(양성 발작성 두위 현훈, 경성 현훈, 지속성 체위-지각 어지럼증)의 증상 개선과 어지럼증 장애 지수 감소에 효과적이다(체계적 고찰·메타분석·관찰연구).[^7][^8][^9]
 - 반하백출천마탕은 고혈압 병용 요법에서 혈압 강하·혈중 지질 개선·내피 기능 향상에 유효하다(메타분석·임상시험).[^10][^11]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Tian ma, an ancient Chinese herb, offers new options for the treatment of epilepsy and other conditions | 문헌고찰 | - | 근거 미확인 | 10.1016/j.yebeh.2005.12.009 / 16461011 | 천마·바닐린, 항뇌전증 효과. 독성 낮고 비용 효율적인 옵션 가능성 |
-| Effects of gastrodin injection on blood pressure and vasoactive substances in treatment of old patients with refractory hypertension: a randomized controlled trial | 임상시험 | 63 | 중등도 | 10.3736/jcim20080707 / 18601850 | 가스트로딘 주사, 난치성 고혈압 고령 환자 수축기 혈압·맥압 감소, ET·NO 균형 개선 |
-| Systematic evaluation and trial sequential analysis of Tianma Gouteng Granules combined with anti-hypertensive drugs in treatment of essential hypertension | 메타분석 | 1508 | 높음 | 10.19540/j.cnki.cjcmm.20200702.501 / 33787150 | 천마구등과립 병용, 수축기·이완기 혈압 강하·유효성 개선, ARB 병용 시 효과 두드러짐 |
-| TREATMENT OF MASKED HYPERTENSION WITH A CHINESE HERBAL FORMULA: A RANDOMIZED, PLACEBO-CONTROLLED, SINGLE-BLIND TRIAL | 임상시험 | 251 | 높음 | 10.1097/01.hjh.0000748868.43737.d2 / 10.1097/01.hjh.0000748868.43737.d2 | 천마구등 과립제, 가면 고혈압 주간·24시간 혈압 유의 감소 |
-| Chinese patent medicine in the treatment of Parkinson's disease: A systematic review and network meta-analysis | 메타분석 | 3281 | 높음 | 10.1016/j.ctcp.2025.102042 / 41505870 | 천마구등과립 병용, 파킨슨병 인지·운동 기능(UPDRS, MMSE) 개선 |
-| The Effect of Banhabaekchulcheonma-tang on Benign Paroxysmal Positional Vertigo: A Systematic Review Using the CNKI Database | 체계적 고찰 | - | 낮음 | 10.22246/jikm.2021.42.4.572 / 10.22246/jikm.2021.42.4.572 | 반하백출천마탕, BPPV 증상 개선·DHI 감소, 연구 질 낮아 해석 주의 |
-| Herbal Medicine for Cervicogenic Dizziness: A Systematic Review and Meta-Analysis | 메타분석 | 1797 | 높음 | 10.21203/rs.3.rs-364098/v1 / 10.21203/rs.3.rs-364098/v1 | 반하백출천마탕·정현탕, 경성 현훈 효과. 현훈치료제 병용 시 신뢰. 부작용 없음 |
-| Effects of Kampo medicine hangebyakujutsutemmato on persistent postural-perceptual dizziness: A retrospective pilot study | 관찰연구 | 38 | 중등도 | 10.12998/wjcc.v10.i20.6811 / 36051127 | 반하백출천마탕, PPPD 증상 유의 개선, 자율신경 이상·불안 동반군 반응률 높음 |
-| Banxia baizhu tianma decoction, a Chinese herbal formula, for hypertension: Integrating meta-analysis and network pharmacology | 메타분석 | 2041 | 높음 | 10.3389/fphar.2022.1025104 / 10.3389/fphar.2022.1025104 | 반하백출천마탕 병용, 고혈압 혈압 강하·지질·내피 기능 개선, 안전 |
-| Clinical Observation on the Treatment of Hypertension by Combination of Modified Banxia Baizhu Tianma Decoction and Auricular Acupuncture | 임상시험 | 120 | 높음 | 10.26689/jcnr.v5i3.2078 / 10.26689/jcnr.v5i3.2078 | 가감 반하백출천마탕+이침, 담습증 고혈압 혈압 강하·삶의 질 개선 |
-| Bojungikgitang and banhabaekchulchonmatang in adult patients with tinnitus, a randomized, double-blind, three-arm, placebo-controlled trial--study protocol | 임상시험 | - | 중등도 | 10.1186/1745-6215-11-34 / 20346181 | 반하백출천마탕·보중익기탕(補中益氣湯), 만성 이명 유효성·안전성 평가 프로토콜 |
-| A Case Report of Korean Medicine Treatment for Vertigo in Vestibular Function Disorder | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2024.45.6.1374 / 10.22246/jikm.2024.45.6.1374 | 반하백출천마탕·보중익기탕(補中益氣湯), 전정기능장애 어지럼증 K-DHI·NRS 개선 |
-| A Case Report of Dizziness Diagnosed Dam Hun Treated with Korean Medicine in a Patient Hospitalized at a Korean Medicine Hospital | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2023.44.5.911 / 10.22246/jikm.2023.44.5.911 | 담훈(痰暈) 어지럼증, 반하백출천마탕+침 병행으로 어지럼증·두통·소화불량 개선 |
-| A Case Study of Korean Medical Treatment for Indigestion and Abdominal Pain after Gastrectomy | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2022.43.2.201 / 10.22246/jikm.2022.43.2.201 | 위절제술 후 소화불량·복통, 반하백출천마탕·반하후박탕 병행으로 통증·삶의 질 개선 |
-| A Review of Clinical Research on Herbal Medicine Treatment for Gastrointestinal Symptoms after Gastrectomy | 체계적 고찰 | - | 낮음 | 10.22246/jikm.2025.46.6.1329 / 10.22246/jikm.2025.46.6.1329 | 반하백출천마탕 등, 위절제술 후 위장관 증상 완화에 보조적 수단. 대규모 RCT 필요 |
-| Deprescribing and Multimodal Korean Medicine for Sequential Prescribing Cascades in an Elderly Patient with Polypharmacy: A Case Report | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2026.47.1.49 / 10.22246/jikm.2026.47.1.49 | 천마구등음 기반 한의학적 중재, 다제약물 연쇄 증상(소화불량·파킨슨증·저칼륨혈증) 회복 |
-| Impact of Banhabaekchulcheonmatang and Hwangryeonhaedoktang on edoxaban: Herb-drug interaction study in healthy subjects | 임상시험 | - | 중등도 | 10.1016/j.jep.2024.118997 / 39461388 | 반하백출천마탕, 에독사반 약동학·항응고 효능(AUC, aPTT, PT) 영향 미미 |
-| Pharmacopuncture for Cervicogenic Dizziness | 체계적 고찰 | 2709 | 높음 | 10.3831/KPI.2018.21.027 / 30652050 | 단삼·천마·전칠삼 등 약침, 경성 현훈에 일반 치료 대비 개선 효과. 체침 병행 시 완치율 높음 |
-| [Joint administration of acupuncture, western and herbal medicines and bamboo-jar-cupping for stroke patients of wind-phlegm obstructing collateral type in acute stage] | 임상시험 | 100 | 중등도 | 10.13702/j.1000-0607.201110 / 34085466 | 급성기 풍담저락증 뇌졸중, 한양방+발관 병행 시 운동 기능·생활 능력 개선·CRP 감소 |
-| Guillain-Barré Syndrome-like Neurological Symptoms after COVID-19 Vaccination Treated with Traditional Korean Medicine: A Case Report | 증례 | 1 | 매우 낮음 | 10.22246/jikm.2022.43.6.1255 / 10.22246/jikm.2022.43.6.1255 | 백신 후 길랭-바레 의심 증상, 반하백출천마탕·침·뜸 병행으로 증상 유의 개선 |
-| Traditional Chinese Medicine Interventions for Antipsychotic-Induced Extrapyramidal Symptoms: A Data Mining-Based Integrative Review | 체계적 고찰 | - | 낮음 | 10.2147/NDT.S608799 / 42502270 | 풍을 가라앉히고(熄風)·혈을 보하며(養血)·담을 제거하는(化痰) 처방, 약물 유발 파킨슨증 증상 완화 가능성 |
-| Identification of SNCA and DRD2 as key genes linking parkinson's disease and circadian rhythm through bioinformatics analysis | 실험연구 | - | 매우 낮음 | 10.1038/s41598-025-16854-0 / 40859027 | 천마(Gastrodia elata) 성분, SNCA·DRD2 표적 단백질과 안정적 결합 제시 |
-
 ## 임상 적용
 
 - **고혈압·가면 고혈압**: 천마구등과립 또는 반하백출천마탕을 기존 항고혈압제와 병용하면 단독 투여보다 혈압 강하 효과가 우수하며 안전성이 확인되었다. 특히 ARB 계열 약물과의 병용, 담습(痰濕) 변증이 동반된 경우에 유용하다.[^4][^5][^10][^11] 난치성 고혈압 고령 환자에게는 가스트로딘 주사 병용이 고려될 수 있다.[^3]

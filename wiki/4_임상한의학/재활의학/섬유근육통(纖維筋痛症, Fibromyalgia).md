@@ -6,7 +6,7 @@
 
 ## 개요
 
-섬유근육통(纖維筋痛症, Fibromyalgia, **KCD-8: M79.7**)은 특정 국소 병변 없이 신체 여러 부위에 광범위한 만성 통증이 나타나는 것을 특징으로 하는 중추성 통증 민감화 질환이다.[^1][^2] 통증과 함께 만성 피로, 수면 장애, 인지 기능 저하, 우울·불안 등 정서 증상을 동반하며, 삶의 질을 크게 저하시킨다.[^3] 한의학적으로는 전신 근골격계 통증을 수반하는 **비증(痺證)**·**통증(痛症)** 범주에 해당하며, 기혈(氣血)의 부조·간기울결(肝氣鬱結)·기허혈어(氣虛血瘀)·음양실조(陰陽失調) 등으로 변증하여 침·뜸·약침·추나·한약·기공 등 다양한 한의학적 치료법을 적용한다.[^4][^5] 본 문서는 검색으로 확보한 80편의 섬유근육통 관련 한의학·인체 연구 논문을 전수 분석하여 근거 표와 본문에 반영한다.
+섬유근육통(纖維筋痛症, Fibromyalgia, **KCD-8: M79.7**)은 특정 국소 병변 없이 신체 여러 부위에 광범위한 만성 통증이 나타나는 것을 특징으로 하는 중추성 통증 민감화 질환이다.[^1][^2] 통증과 함께 만성 피로, 수면 장애, 인지 기능 저하, 우울·불안 등 정서 증상을 동반하며, 삶의 질을 크게 저하시킨다.[^3] 한의학적으로는 전신 근골격계 통증을 수반하는 **비증(痺證)**·**통증(痛症)** 범주에 해당하며, 기혈(氣血)의 부조·간기울결(肝氣鬱結)·기허혈어(氣虛血瘀)·음양실조(陰陽失調) 등으로 변증하여 침·뜸·약침·추나·한약·기공 등 다양한 한의학적 치료법을 적용한다.[^4][^5] 본 문서는 검색으로 확보한 80편의 섬유근육통 관련 한의학·인체 연구 논문을 전수 분석하여 각주와 본문에 반영한다.
 
 ## 하위 표제어(분류)
 
@@ -137,56 +137,6 @@
 - 연구 유형 분포: 무작위 대조 시험 28편, 관찰연구 10편, 문헌 고찰 17편, 체계적 고찰 9편, 증례 보고 8편, 메타분석 6편, 실험 연구 2편으로, 다양한 근거 수준을 고루 포함한다.
 - 침·전침·건침·부항·뜸·추나·한약·기공 등 다양한 한의학 치료법에 대한 근거를 확보하였다.
 - 근거 수준 우선 원칙에 따라 메타분석·체계적 고찰을 최우선으로 선별하고, 임상 참고 가치가 있는 RCT·관찰연구·증례를 빠짐없이 반영하였다.
-
-## 근거 표
-
-| 제목 | 연구유형 | 환자수 | 근거수준 | DOI/PMID | AI 임상요약 |
-|---|---|---|---|---|---|
-| Efficacy of Acupuncture in Patients with Fibromyalgia Syndrome: A Meta-Analysis | 메타분석 | 773 | 높음 | [DOI: 10.2147/JPR.S568235](https://doi.org/10.2147/JPR.S568235) | 침 치료는 통증·강직을 단·장기 개선, 고빈도·전침이 유효 |
-| The efficacy of acupuncture treatment for fibromyalgia syndrome: a systematic review and meta-analysis | 메타분석 | 1066 | 높음 | [DOI: 10.3389/fmed.2025.1710642](https://doi.org/10.3389/fmed.2025.1710642) | 침은 통증·FIQ·압통점·우울·피로 개선, 수면 개선은 불명 |
-| Efficacy of Dry Needling and Acupuncture in Patients with Fibromyalgia: A Systematic Review and Meta-Analysis | 메타분석 | - | 높음 | [DOI: 10.3390/ijerph19169904](https://doi.org/10.3390/ijerph19169904) | 침·건침 단기 개선, 우열·장기효과는 추가 연구 필요 |
-| Effectiveness of Invasive Techniques in Patients with Fibromyalgia: Systematic Review and Meta-Analysis | 메타분석 | - | 높음 | [DOI: 10.1093/pm/pnaa321](https://doi.org/10.1093/pm/pnaa321) | 침습적 기법 통증·삶의 질 개선, 단기 압통 역치 증가 |
-| Efficacy of Manual Therapy for Fibromyalgia Syndrome: A Systematic Review and Meta-analysis | 메타분석 | - | 높음 | [DOI: 10.30581/jcmm.2023.18.1.29](https://doi.org/10.30581/jcmm.2023.18.1.29) | 수기치료 통증 개선, 약물·운동 병행 시 효과 뚜렷 |
-| Acupuncture for fibromyalgia syndrome: an overview of systematic reviews and meta-analyses | 체계적 고찰 | - | 높음 | [DOI: 10.3389/fmed.2025.1712065](https://doi.org/10.3389/fmed.2025.1712065) | 침은 가짜 침·약물보다 우수, 근거 수준 낮음 |
-| Acupoint stimulation for fibromyalgia: a systematic review of randomized controlled trials | 체계적 고찰 | 1081 | 높음 | [DOI: 10.1155/2013/362831](https://doi.org/10.1155/2013/362831) | 침 단독·침+부항이 약물보다 통증·압통점 개선 |
-| Traditional Chinese Medicine for treatment of fibromyalgia: a systematic review | 체계적 고찰 | 1516 | 높음 | [DOI: 10.1089/acm.2009.0599](https://doi.org/10.1089/acm.2009.0599) | TCM 통증·압통점·우울 개선, 안전성 양호 |
-| Efficacy of cupping therapy in individuals with fibromyalgia: a systematic review | 체계적 고찰 | 155 | 높음 | [DOI: 10.1016/j.jbmt.2023.04.088](https://doi.org/10.1016/j.jbmt.2023.04.088) | 부항 통증 큰 효과, 근거 확실성 낮음 |
-| Cupping therapy for fibromyalgia: A scoping review of proposed mechanisms | 체계적 고찰 | - | 중등도 | [DOI: 10.1016/j.jbmt.2025.11.018](https://doi.org/10.1016/j.jbmt.2025.11.018) | 부항 통증 감소 기전 정리, 엄격 연구 필요 |
-| Electroacupuncture in fibromyalgia: results of a controlled trial | 임상시험 | 70 | 중등도 | [DOI: 10.1136/bmj.305.6864.1249](https://doi.org/10.1136/bmj.305.6864.1249) | 전침 통증 역치·수면·진통제 용량 개선 |
-| Brain sensory network activity underlies reduced nociceptive initiated and nociplastic pain via acupuncture in fibromyalgia | 임상시험 | 44 | 중등도 | [DOI: 10.1038/s43856-025-01280-0](https://doi.org/10.1038/s43856-025-01280-0) | 전침 상향식 기전으로 중추성 통증 조절 |
-| Benefits of dry needling of myofascial trigger points on autonomic function in patients with fibromyalgia syndrome | 임상시험 | 74 | 중등도 | [DOI: 10.1136/acupmed-2017-011504](https://doi.org/10.1136/acupmed-2017-011504) | 건침 TENS보다 우수, HRV 개선 |
-| Dry needling in people with fibromyalgia: A randomized controlled trial of its effects on pain sensitivity | 임상시험 | 96 | 중등도 | [DOI: 10.1002/pmrj.13289](https://doi.org/10.1002/pmrj.13289) | 건침 압통 역치 증가, 파국화 고려 필요 |
-| Effects of Dry Needling on Spinal Mobility and Trigger Points in Patients with Fibromyalgia Syndrome | 임상시험 | 64 | 중등도 | [DOI: 10.36076/ppj/2017/52](https://doi.org/10.36076/ppj/2017/52) | 건침 테이핑보다 압통 감소 유효 |
-| Effectiveness of Dry Needling and Stretching in Fibromyalgia: A Randomized Clinical Trial | 임상시험 | 10 | 중등도 | [DOI: 10.61919/jhrr.v4iicic1.1100](https://doi.org/10.61919/jhrr.v4iicic1.1100) | 건침이 스트레칭보다 우수 |
-| Treatment of fibromyalgia with formula acupuncture: needle placement, stimulation, and frequency | 임상시험 | 114 | 중등도 | [DOI: 10.1089/acm.2005.11.663](https://doi.org/10.1089/acm.2005.11.663) | 치료 빈도(용량)가 진통 효과 결정 |
-| Effects of Acupuncture Therapy on Drug-Resistant Fibromyalgia: An Exploratory Single-Arm Nonrandomized Trial | 임상시험 | 7 | 중등도 | [DOI: 10.1089/acu.2022.0005](https://doi.org/10.1089/acu.2022.0005) | 난치성 환자 전침·두피침 통증·삶의 질 개선 |
-| Evaluation of the Effectiveness of Wet Cupping Therapy in Fibromyalgia Patients: A Randomized Controlled Trial | 임상시험 | 120 | 중등도 | [DOI: 10.1159/000534637](https://doi.org/10.1159/000534637) | 습식 부항 통증·FIQ·QoL 개선 |
-| Efficacy of cupping therapy in patients with the fibromyalgia syndrome—a randomised placebo controlled trial | 임상시험 | 141 | 중등도 | [DOI: 10.1038/srep37316](https://doi.org/10.1038/srep37316) | 부항 일반관리 대비 유효, 가짜 부항과 차이 없음 |
-| Assessment of the Short-Term Efficacy of a Wet-Cupping Therapy Session in Fibromyalgia Syndrome | 임상시험 | 20 | 중등도 | [DOI: 10.53811/ijtcmr.1507281](https://doi.org/10.53811/ijtcmr.1507281) | 습식 부항 단기 통증·피로·우울 개선 |
-| Effectiveness of spinal manipulation in addition to pharmacological treatment in fibromyalgia | 임상시험 | 60 | 중등도 | [DOI: 10.1002/pmrj.12953](https://doi.org/10.1002/pmrj.12953) | 척추 교정 3개월 후 통증 감소 |
-| Effects of yoga and the addition of Tui Na in patients with fibromyalgia | 임상시험 | 40 | 중등도 | [DOI: 10.1089/acm.2007.0615](https://doi.org/10.1089/acm.2007.0615) | 요가+추나 단기, 요가 단독 장기 유효 |
-| [Combination of acupuncture, cupping and medicine for treatment of fibromyalgia syndrome: a multi-central RCT] | 임상시험 | 186 | 중등도 | [PMID 20568427](https://pubmed.ncbi.nlm.nih.gov/20568427/) | 침+부항+약물 병용이 단독보다 우수 |
-| [Clinical study on combination of acupuncture, cupping and medicine for treatment of fibromyalgia syndrome] | 임상시험 | 66 | 중등도 | [PMID 16491748](https://pubmed.ncbi.nlm.nih.gov/16491748/) | 오정혈침+배유혈 부항+약물 병행 유효 |
-| Effects of Shuhe granules on chronic pain in patients with rheumatoid arthritis and fibromyalgia | 임상시험 | 30 | 중등도 | [DOI: 10.3389/fphar.2026.1761852](https://doi.org/10.3389/fphar.2026.1761852) | 수허과립 통증·수면·우울 개선 |
-| Effect of Systemic and Auricular Acupuncture with 2/100 Hz Frequency in Fibromyalgia | 임상시험 | 18 | 중등도 | [DOI: 10.51507/j.jams.2023.16.4.139](https://doi.org/10.51507/j.jams.2023.16.4.139) | 이침·전침 삶의 질·불안 개선 |
-| Auriculotherapy Treatment in Fibromyalgia: A Randomized Trial | 임상시험 | 95 | 중등도 | [DOI: 10.1177/19336586251405960](https://doi.org/10.1177/19336586251405960) | 이침 그룹 간 유의차 없음, 개선 인상 높음 |
-| Effects of Baduanjin exercise in alleviating symptoms of fibromyalgia syndrome | 임상시험 | 74 | 중등도 | [DOI: 10.1016/j.ctim.2026.103356](https://doi.org/10.1016/j.ctim.2026.103356) | 팔단금 단기(4주) 질병 부담·수면·피로 개선 |
-| Acupuncture Effects on Blood Parameters in Patients with Fibromyalgia | 관찰연구 | 102 | 중등도 | [DOI: 10.1089/acu.2020.1476](https://doi.org/10.1089/acu.2020.1476) | 침 치료 CRP·NLR·PLR 감소 |
-| Hemogram Parameters in Fibromyalgia and Effects of Wet Cupping Therapy | 관찰연구 | - | 중등도 | [DOI: 10.4103/wjtcm.wjtcm_73_21](https://doi.org/10.4103/wjtcm.wjtcm_73_21) | FMS NLR·PLR 상승, 습식 부항 후 감소 |
-| Trends in the treatment of fibromyalgia in South Korea between 2011 and 2018 | 관찰연구 | 31059 | 중등도 | [DOI: 10.1136/bmjopen-2023-071735](https://doi.org/10.1136/bmjopen-2023-071735) | 한국 치료가 비약물→약물 중심으로 이동 |
-| Effectiveness of Integrated Medicine Protocols in Treating Fibromyalgia: A Retrospective Study | 관찰연구 | 75 | 중등도 | [DOI: 10.2174/0115733971396222260612100945](https://doi.org/10.2174/0115733971396222260612100945) | 통합의학 통증 개선, 약물 의존도 60~90% 감소 |
-| Comparison of clinical and evoked pain measures in fibromyalgia | 관찰연구 | 65 | 중등도 | [DOI: 10.1016/j.jpain.2006.01.455](https://doi.org/10.1016/j.jpain.2006.01.455) | MRS가 임상 통증 개선 더 잘 반영 |
-| Medicinal cupping therapy in 30 patients with fibromyalgia: a case series observation | 증례 | 30 | 낮음 | [DOI: 10.1159/000329329](https://doi.org/10.1159/000329329) | 약물 부항 통증·압통점 감소, 2주 유지 |
-| Integrative Korean medicine intervention incorporating angelica gigas for refractory chronic fibromyalgia | 증례 | 1 | 낮음 | [DOI: 10.1016/j.explore.2026.103340](https://doi.org/10.1016/j.explore.2026.103340) | 당귀 중심 통합 치료 난치성 통증 개선 |
-| A Case Report of Autonomic Dysfunction and Fibromyalgia with Diabetes (So-eum Type) | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2024.45.5.1054](https://doi.org/10.22246/jikm.2024.45.5.1054) | 대건중탕·소국건비환 흉통·복통·쇠약 개선 |
-| A Case Study of Fibromyalgia with Insomnia and Dry Mouth Treated with Guibiondam-tang-gagam | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2022.43.2.152](https://doi.org/10.22246/jikm.2022.43.2.152) | 귀비온담탕가감 통합 치료 수면·삶의 질 개선 |
-| Excessive Sweating and Widespread Pain in Fibromyalgia Syndrome after Long-term Stress | 증례 | 1 | 낮음 | [DOI: 10.22246/jikm.2024.45.2.323](https://doi.org/10.22246/jikm.2024.45.2.323) | 영선제통합소풍활혈탕+침·뜸·부항 개선 |
-| A pilot study of external qigong therapy for patients with fibromyalgia | 임상시험 | 10 | 중등도 | [DOI: 10.1089/acm.2006.12.851](https://doi.org/10.1089/acm.2006.12.851) | 외기공 통증·기능·우울·불안 개선 |
-| The widespread myofascial pain of fibromyalgia is sympathetically maintained and immune mediated | 문헌고찰 | - | 낮음 | [DOI: 10.1016/j.jbmt.2023.04.081](https://doi.org/10.1016/j.jbmt.2023.04.081) | 교감신경·면역 매개 기전, 근막 치료 필요 |
-| Chronic pain, fatigue, and autonomic dysfunction: a review of heart rate variability | 문헌고찰 | - | 낮음 | [DOI: 10.32581/jkifm.2025.8.2.17](https://doi.org/10.32581/jkifm.2025.8.2.17) | HRV가 자율신경 상태·치료 반응 지표 |
-| Functional brain alterations associated with acupuncture for chronic pain: a scoping review of fMRI studies | 체계적 고찰 | - | 높음 | [DOI: 10.3389/fnins.2026.1819418](https://doi.org/10.3389/fnins.2026.1819418) | 침이 ACC 중심 뇌 회로 재보정 |
-| Review of the Chinese medical approach to the management of fibromyalgia | 문헌고찰 | - | 낮음 | [DOI: 10.1007/s11916-005-0004-9](https://doi.org/10.1007/s11916-005-0004-9) | 기혈 순환 회복 통합 치료 |
-| Integrative Health Strategies to Manage Chronic Pain | 문헌고찰 | - | 낮음 | [DOI: 10.1016/j.pop.2022.01.001](https://doi.org/10.1016/j.pop.2022.01.001) | 침·지압·마사지·MBSR 보조 요법 유효 |
 
 ## 참고문헌
 

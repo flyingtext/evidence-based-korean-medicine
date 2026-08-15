@@ -69,64 +69,6 @@
 - 수정 단식 요법(MFT)은 과체중·비만 성인의 체중 감소와 혈당·지질 프로필 개선에 효과적이며, 설태와 장내 미생물군집의 조성을 변화시킨다.[^32]
 - 비대면 한방 비만 치료는 대면 치료와 비교하여 체중·BMI 감소 효과에 유의미한 차이가 없으며, 심각한 이상반응도 보고되지 않아 접근성 높은 대안이 될 수 있다.[^33]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Effect of acupuncture and intervention types on weight loss: a systematic review and meta-analysis | 메타분석 | 2219 | 높음 | 10.1111/obr.12747 / 30180304 | 침은 생활습관 교정과 병행 시 체중 감소 효과 유의, 과체중 환자에 효과적 |
-| Auricular acupressure for overweight and obese individuals | 메타분석 | - | 높음 | 10.1097/md.0000000000016144 | 이침 압박이 체중·BMI·허리둘레·체지방 감소, 12주 치료가 효과적 |
-| Acupoint Catgut Embedding for Obesity: Systematic Review and Meta-Analysis | 메타분석 | - | 높음 | 10.1155/2015/401914 / 26417373 | 매선이 수기침·가짜침·부항보다 체중·BMI 감소 우수 |
-| The impact of acupuncture combined with acupoint catgut embedding on simple obesity: A systematic review and meta-analysis | 메타분석 | 1616 | 높음 | 10.1097/md.0000000000034234 | 침+매선 병행이 침 단독보다 체중·BMI·체지방률·허리둘레 감소 우수 |
-| Non-pharmacological and nonsurgical interventions for abdominal obesity in adults: A systematic review and meta-analysis | 메타분석 | 3334 | 높음 | 10.1097/MD.0000000000044372 / 40922270 | 복부 비만에 매선+전침 병용이 허리둘레·BMI·체중 감소에 가장 효과적 |
-| Effects of electroacupuncture on obesity: A systematic review and meta-analysis | 메타분석 | 779 | 높음 | 10.1097/MD.0000000000036774 / 38215111 | 전침이 단순 비만 BMI·체중·허리둘레·허리-엉덩이 비율 감소 |
-| Effect of Moxibustion Combined with Other Interventions on Body Weight Reduction in the Treatment of Obesity | 메타분석 | 761 | 높음 | 10.1089/jicm.2022.0826 / 38099954 | 뜸 병행이 체중·BMI·허리둘레 감소, 편향 위험 주의 |
-| Systematic review and meta-analysis of the anti-obesity effect of cupping therapy | 메타분석 | - | 높음 | 10.1097/MD.0000000000034039 / 37327262 | 부항이 체중·BMI·허리·엉덩이 둘레 감소에 효과적·안전 |
-| Meta-analysis of Tuina combined with other treatments for obesity | 메타분석 | 695 | 높음 | 10.1097/MD.0000000000042720 / 40527832 | 추나 병행이 체중·BMI 감소에 효과적 |
-| Efficacy and safety of anti-obesity herbal medicine focused on pattern identification: A systematic review and meta-analysis | 메타분석 | 1052 | 높음 | 10.1097/MD.0000000000032087 / 36550880 | 변증 기반 한약이 체중·BMI 감소, 안전 |
-| Japanese traditional Kampo medicine bofutsushosan improves body mass index in participants with obesity | 메타분석 | 679 | 높음 | 10.1371/journal.pone.0266917 / 35417488 | 방풍통성산이 BMI 감소, 안전 |
-| Meta-analysis of the efficacy of Er Chen Tang in the adjuvant treatment of obesity | 메타분석 | 438 | 높음 | 10.1097/md.0000000000038504 | 이진탕이 BMI·내장지방·지질 지표 개선 |
-| Does acupuncture improve the metabolic outcomes of obese/overweight children and adolescents? | 메타분석 | 1288 | 높음 | 10.1097/MD.0000000000034943 / 37800756 | 침이 소아·청소년 BMI·체중·렙틴 감소 |
-| Comparative Effectiveness of East Asian Traditional Medicine for Childhood Simple Obesity | 메타분석 | - | 높음 | 10.3390/ijerph192012994 / 36293575 | 소아 비만에 부항+지압 병용이 BMI 감소에 가장 효과적 |
-| Comparison of efficacy of acupuncture-related therapy in the treatment of perimenopausal obesity | 메타분석 | 1268 | 높음 | 10.3389/fmed.2025.1642421 / 41377806 | 폐경전기 비만에 매선·전침·온침이 각각 BMI·허리둘레·체지방률 개선 |
-| Traditional herbal medicine for obesity-related polycystic ovary syndrome: a meta-analysis | 메타분석 | 5308 | 높음 | 10.3389/fphar.2025.1738172 / 41640680 | 비만성 PCOS에 한약 병용이 임신율·BMI·인슐린 저항성 개선 |
-| Efficacy and safety of ephedra-containing oral medications: a systematic review, meta-analysis | 메타분석 | - | 높음 | 10.3389/fphar.2024.1397247 / 39539620 | 마황 함유 약제가 BMI·체중·허리둘레 감소, 모니터링 하에 안전 |
-| Acupuncture Therapies for Individuals with Overweight or Obesity: An Overview of Systematic Reviews | 체계적 고찰 | - | 중등도 | 10.2147/DMSO.S356853 / 35669360 | 침·이침이 체중·BMI 감소에 유익, 매선·복침 근거 부족 |
-| Acupoint catgut embedding for the treatment of obesity in adults | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000014610 | 성인 비만 매선요법 유효성·안전성 평가 프로토콜 |
-| Effects of cupping therapy for obesity | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000027701 | 부항요법 비만 효과 체계적 검토 프로토콜 |
-| Comprehensive traditional East Asian medicine treatment strategy for obesity | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000028673 | 전통 동아시아 의학 비만 치료 전략 네트워크 메타분석 프로토콜 |
-| Traditional Chinese Medicine for childhood obesity: an umbrella review of systematic reviews | 체계적 고찰 | - | 중등도 | 10.3389/fmed.2025.1699072 / 41234903 | 한약·침·뜸·부항·지압이 소아 비만 BMI·체중·대사 지표 개선 |
-| A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders | 체계적 고찰 | - | 중등도 | 10.1089/acm.2016.0177 / 27754711 | 태음인이 대사증후군 유병률 높음, 체질별 맞춤 예방 필요 |
-| Clinical efficacy of simple obesity treated by catgut implantation at acupoints | 임상시험 | 820 | 중등도 | 10.1007/s11655-012-1215-7 / 23212565 | 매선이 5가지 변증 단순 비만에 체중·BMI·지질·혈당 개선, 위장실열형 최고 |
-| Electroacupuncture Reduces Waistline in Patients with Abdominal Obesity: A Randomized Controlled Trial | 임상시험 | 102 | 중등도 | 10.2147/DMSO.S551806 / 41050180 | 전침이 복부 비만 허리둘레 감소, 24주까지 유지 |
-| Randomised Clinical Trial of Five Ear Acupuncture Points for the Treatment of Overweight | 임상시험 | 91 | 중등도 | 10.1136/acupmed-2013-010435 | 이침 5혈위·기점 단독 모두 BMI·체중·체지방 감소 |
-| The Effects of Auricular and Body Acupuncture in Turkish Obese Female Patients | 임상시험 | 50 | 중등도 | 10.3727/036012917x14908026364990 | 이침이 체침보다 체중 감량 효과 우수 |
-| Acupuncture and Psychotherapy in the Complex Treatment of Obesity | 임상시험 | 105 | 중등도 | 10.1089/acu.2010.0753 | 침+심리치료 병행이 식단·운동 권고보다 체중·체지방 감량 우수 |
-| Effects of Ear Acupuncture Therapy for Obesity on the Depression of Obese Women | 임상시험 | 30 | 중등도 | 10.1136/acupmed-2014-010626 | 이침이 비만 여성 체중 감소·우울 증상 완화 |
-| Changes In Serum Leptin And Nesfatin-1 Levels Measured Before And After Acupuncture | 임상시험 | 90 | 중등도 | 10.3727/036012921x16321477053953 | 이침이 렙틴 감소·네스파틴-1 증가로 체중 감소 |
-| Transcutaneous Electrical Stimulation of Acupoints Changes Body Composition and Heart Rate Variability | 임상시험 | 49 | 중등도 | 10.1093/ecam/nep145 | 족삼리·삼음교 경피전침이 폐경 후 여성 체성분·HRV 개선 |
-| Effect of Laser Acupoints on Hormonal Changes and Visceral Obesity in Postmenopausal Women | 임상시험 | 40 | 중등도 | 10.18502/sjms.v21i1.18156 | 레이저침이 폐경 후 내장 비만 체중·BMI·허리둘레·인슐린 감소 |
-| Efficacy of electro-acupuncture at the main acupoints for weight reduction in Thai obese | 임상시험 | 30 | 중등도 | 10.2478/abm-2010-0124 | 전침이 중년 여성 비만 체중 감소, 허증 비만에 더 효과적 |
-| Polyglycolic acid sutures embedded in abdominal acupoints for treatment of simple obesity | 임상시험 | 51 | 중등도 | 10.1186/s13020-019-0258-5 | 복부 매선이 체중·BMI·복부 지방·대사 지표 개선 |
-| Efficacy of bofu-tsusho-san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance | 임상시험 | 81 | 중등도 | 10.1111/j.1440-1681.2004.04056.x / 15479169 | 방풍통성산이 내당능 장애 비만 여성 체중·내장지방·인슐린 저항성 개선 |
-| Modulatory Effect of Eui-E-In-Tang on Serum Leptin Concentration in Obese Korean Females | 임상시험 | 41 | 중등도 | 10.1155/2016/1894837 | 의이인탕이 비만 여성 혈청 렙틴 농도 감소 |
-| Intervention Study on the Efficacy and Safety of Platycodon grandiflorus Ethanol Extract | 임상시험 | 108 | 중등도 | 10.3390/nu11102445 / 31615016 | 길경 추출물이 체지방량·체지방률·복부 지방 감소 |
-| An herbal supplement containing Ma Huang-Guarana for weight loss: a randomized, double-blind trial | 임상시험 | 67 | 중등도 | 10.1038/sj.ijo.0801539 / 11319627 | 마황·과라나가 단기 체중·체지방 감소, 부작용 모니터링 필요 |
-| Effects of modified fasting therapy on tongue coating and gut microbiome in overweight | 임상시험 | 48 | 중등도 | 10.3389/fnut.2025.1686416 / 41659802 | 수정 단식 요법이 체중·혈당·지질 개선, 설태·장내 미생물 변화 |
-| Auricular Acupressure in Relieving PONV and Promoting Gastrointestinal Function Recovery | 임상시험 | 95 | 중등도 | 10.1007/s11695-024-07243-z / 38652438 | 이침 압박이 비만 수술 후 오심·구토 완화, 위장 기능 회복 촉진 |
-| Auricular Acupuncture Associated with Reduced Waist Circumference in Overweight Women | 임상시험 | 58 | 중등도 | 10.1155/2019/6471560 / 31929817 | 이침이 과체중 여성 허리둘레 감소 |
-| Korean medicine registry of herbal medicine for weight loss | 관찰연구 | 1000 | 낮음 | 10.1097/md.0000000000029407 | 한약 체중 감량 환자 임상 특성·안전성 레지스트리 |
-| Auricular Acupuncture with Beads Supports Sustained Weight Loss | 관찰연구 | 1362 | 낮음 | 10.21926/obm.icm.2004045 | 이침 비드가 체중 감량·유지에 효과적, 간식·포만감 개선 |
-| Korean Medicine with Self-monitoring for Weight Control | 관찰연구 | 118 | 낮음 | 10.13048/jkm.22008 | 한약+자가 모니터링이 체중 감소, 식단·식욕 자가 평가가 중요 |
-| Analysis of Weight Loss and Adverse Events in Overweight and Obese Patients on Korean Medicine | 관찰연구 | - | 낮음 | 10.13048/jkm.22031 | 비대면 한방 비만 치료가 대면과 유사한 효과, 이상반응 없음 |
-| Changes in Continuous Glucose Monitoring Metrics During the Initial Phase of a Korean Medicine Weight Loss Program | 관찰연구 | 31 | 낮음 | 10.13048/jkm.26006 | 한방+저탄수화물 식단이 혈당 변동성·TIR·HbA1c 개선 |
-| A Study of Traditional Chinese Medicine Body Constitution Associated with Overweight and Obesity | 관찰연구 | 3748 | 낮음 | 10.1155/2017/7361896 / 29234426 | 담음 체질이 비만과 양의 상관, 기허·양허는 비만 위험 감소 |
-| Predicting type 2 diabetes using Sasang constitutional medicine | 관찰연구 | 2460 | 낮음 | 10.1111/jdi.12189 / 25411620 | 태음인이 비만도와 무관하게 당뇨 위험 높음 |
-| Low nutritional status links to the prevalence of pre-metabolic syndrome | 관찰연구 | 986 | 낮음 | 10.1097/md.0000000000025905 | 태음인 낮은 영양지수가 전-대사증후군·복부 비만 위험 증가 |
-| Study on the Anthropometric and Body Composition Indices for Prediction of Cold and Heat Pattern | 관찰연구 | 2000 | 낮음 | 10.13048/jkm.21046 | BMI·WHR·수분 균형이 한열 변증 예측에 유용 |
-| Comparison of Body Composition Methods During Weight Loss in Obese Women | 관찰연구 | 50 | 낮음 | 10.1142/s0192415x05003454 | BIA와 DXA는 상관 높으나 측정값 차이, 대체 사용 금지 |
-| A study of electrical conductance of meridian in the obese during weight reduction | 관찰연구 | 40 | 낮음 | 10.1142/S0192415X04002077 / 15344425 | 경락 전기전도도가 비만 체중 변화 모니터링 지표로 유용 |
-| Treatment of postpill amenorrhea with abdominal obesity by traditional Korean medicine | 증례 | 1 | 낮음 | 10.1097/md.0000000000016996 | 태자삼 약침+관원혈 뜸이 무월경·복부 비만 개선 |
-
 ## 임상 적용
 
 - 비만 환자에게 침·이침·전침·매선·뜸·부항·추나·한약 등 다양한 한의 중재를 단독 또는 병행하여 적용할 수 있으며, 특히 생활습관 교정과 병행 시 체중 감소 효과가 더 높다.[^20][^21]
@@ -167,7 +109,7 @@
 - 한약 처방(방풍통성산·이진탕 등)의 표준화된 고품질 근거가 아직 부족하며, 대규모 이중맹검 무작위 대조 시험이 요구된다.[^27][^28][^29]
 - 소아·청소년 비만, 폐경기 비만, 비만성 PCOS, 근감소성 비만 등 하위 유형별 한의 중재의 장기 효과에 대한 데이터가 부족하다.[^8][^9][^10][^13]
 - 마황 함유 약제의 장기 사용 안전성에 대한 검토가 필요하다.[^30]
-- 검색 과정에서 비만과 직접 관련이 없거나 비한의학적 주제(예: 근골격계 질환에 대한 한의학 인식도 조사 등)로 판단된 일부 논문은 근거 표에서 제외하였다.
+- 검색 과정에서 비만과 직접 관련이 없거나 비한의학적 주제(예: 근골격계 질환에 대한 한의학 인식도 조사 등)로 판단된 일부 논문은 각주에서 제외하였다.
 
 [^1]: 비만의 정의·분류(KCD-8 E66)는 교과서적 임상 이론 및 한정된 문헌 수준. 근거 미확인(교과서적 임상 진단 이론).
 [^2]: 비만의 한의학적 변증·경혈·한약 적용은 교과서적 임상 이론 및 한정된 증례·문헌 수준. 근거 미확인(표준 한약 처방의 고품질 근거 제한적).

@@ -109,46 +109,6 @@
 - 자가혈액요법+중의학 외치법 병용이 반응률을 높이고 재발률·IgE를 감소시킨다(메타분석, 1461명).[^33]
 - 한약(당귀음자·옥병풍산·계지탕)이 항히스타민제 병용 시 증상 개선·재발 방지에 효과적이다(네트워크 메타분석, 5814명).[^19]
 
-## 근거 표
-
-| 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
-|---|---|---|---|---|---|
-| Acupuncture for chronic urticaria: a systematic review and meta-analysis with trial sequential analysis | 메타분석 | 1829 | 높음 | 10.3389/fneur.2025.1650418 / 41647792 | 침이 UAS7·DLQI 개선, 가짜침 대비 유의한 이점 |
-| Efficacy and safety of acupuncture for chronic spontaneous urticaria: a systematic review and meta-analysis | 메타분석 | 564 | 높음 | 10.3389/fmed.2025.1648375 / 41694685 | 침이 유효율·재발률·삶의 질 개선, 면역 지표 조절 |
-| Autohemotherapy combined with other external treatments of Traditional Chinese Medicine for chronic urticaria | 메타분석 | 1461 | 높음 | 10.3389/fmed.2026.1818960 / 42359079 | 자가혈액요법+외치법이 반응률 증가, 재발률·IgE 감소 |
-| Chinese herbal formulas as adjuncts to antihistamines in chronic spontaneous urticaria | 메타분석 | 5814 | 높음 | 10.3389/fphar.2026.1718329 / 42100312 | 당귀음자·옥병풍산·계지탕 병용이 증상·재발 개선 |
-| Bloodletting Therapy for Patients with Chronic Urticaria: A Systematic Review and Meta-Analysis | 메타분석 | 512 | 높음 | 10.1155/2019/8650398 / 31139656 | 자락법이 약물 병행 시 반응률 유의 증가 |
-| Cupping therapy for patients with chronic urticaria: A systematic review and meta-analysis | 메타분석 | 842 | 높음 | 10.1016/j.joim.2020.05.004 / 32534938 | 부항 병용이 유효율 증가·재발률 저하 |
-| The Effectiveness and Safety of Cupping Therapy on CV8 Shenque for Urticaria: A Systematic Review and Meta-Analysis | 메타분석 | 409 | 높음 | - / 39715564 | 신궐 부항이 유효율·증상·삶의 질 개선 |
-| The Application of Auriculotherapy to the Treatment of Chronic Spontaneous Urticaria | 메타분석 | - | 높음 | 10.1016/j.jams.2018.08.209 / 30195824 | 이침이 양약 단독보다 완치율·총 효과율 우수 |
-| Acupuncture as a Treatment Modality in Dermatology: A Systematic Review | 체계적 고찰 | - | 높음 | 10.1089/acm.2014.0274 / 26115180 | 침이 두드러기 등 피부 질환에 유의미한 효과 |
-| Acupuncture in Dermatology: An Update to a Systematic Review | 체계적 고찰 | - | 높음 | 10.1089/acm.2020.0230 / 32955916 | 침이 두드러기·가려움증 개선에 유용 |
-| A Review of Acupuncture for Allergic Disorders: Modulation of Mast Cell Regulation | 체계적 고찰 | - | 높음 | 10.2147/IJGM.S579576 / 41459581 | 침이 비만세포 탈과립 억제·염증 사이토카인 조절 |
-| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중등도 | 10.3390/jcm10081750 / 33920643 | 부항이 만성 두드러기 등 피부 질환에 잠재 이점 |
-| Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000016127 / - | 자가혈·자가혈청 혈자리 주입 요법 평가 프로토콜 |
-| Acupoint injection of Bacillus Calmette–Guerin polysaccharide nucleic acid for patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000019924 / - | BCG-PSN 혈위 주사 평가 프로토콜 |
-| Bloodletting therapy for treating patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000014541 / - | 사혈 요법 유효성·안전성 평가 프로토콜 |
-| Acupoint catgut embedding for patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000016036 / - | 매선 요법 유효성·안전성 평가 프로토콜 |
-| The Effectiveness and Safety of Cupping Therapy on CV8 Shenque for Urticaria; a Protocol | 체계적 고찰 | - | 프로토콜 | 10.2147/JPR.S435991 / 38026451 | 신궐 부항 유효성·안전성 평가 프로토콜 |
-| Cupping for patients with chronic urticaria: A systematic review protocol | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000017115 / 31567949 | 부항 유효성·안전성 평가 프로토콜 |
-| Clinical Advantages of Phlebotomy: An Umbrella Review of Meta-Analyses | 체계적 고찰 | 5648 | 중등도 | - / 39759207 | 사혈이 특정 피부·간 질환에 유의미한 개선 |
-| Efficacy evaluation of acupuncture combined with pricking blood therapy in the treatment of chronic spontaneous urticaria | 임상시험 | 70 | 높음 | 10.62347/XDHG7875 / 39544756 | 침+점자출혈이 가려움·불안·우울·삶의 질 개선 |
-| [Efficacy observation on acupuncture combined with bloodletting for chronic urticarial] | 임상시험 | 160 | 중등도 | - / 24673054 | 침+사혈이 로라타딘과 유사한 효과, 부작용 없음 |
-| Efficacy of Bloodletting Therapy in Patients with Chronic Idiopathic Urticaria | 임상시험 | 174 | 높음 | 10.1155/2020/6598708 / 33178321 | 에바스틴+사혈 병행이 유효율 유의 증가 |
-| [Chronic spontaneous urticaria treated with bloodletting therapy and auricular point sticking on the base of xuanfu theory] | 임상시험 | 86 | 중등도 | 10.13703/j.0255-2930.20210719-0005 / 35152579 | 자락+이혈 압박이 레보세티리진과 유사, 재발률 낮음 |
-| [Effect on chronic urticaria and serum IL-4 and IgE in the patients treated with moving cupping therapy and autohemotherapy with acupoint inection] | 임상시험 | 104 | 중등도 | - / 25876348 | 이동식 부항+자가혈액요법이 IL-4·IgE 감소, 재발률 저하 |
-| Multi-center study for acupuncture combined with Chinese medicine in the treatment of chronic spontaneous urticaria | 임상시험 | 111 | 중등도 | 10.1097/MD.0000000000021266 / 32871985 | 당귀음자+수혈 침 병용이 CSU 악화기에 유효 |
-| Acupuncture and Moxibustion in the Treatment of Chronic Urticaria: A Case Control Study | 임상시험 | 60 | 중등도 | 10.21203/rs.3.rs-927180/v1 / - | 침·뜸이 만성 두드러기 대안·보조 요법 |
-| Efficacy and Mechanism of Acupoint Catgut Embedding in the Treatment of Chronic Spontaneous Urticaria | 임상시험 | 108 | 프로토콜 | 10.2196/preprints.54376 / - | 매선요법 유효성·기전 검증 프로토콜 |
-| Integrated Traditional Chinese and Western Medicine for Chronic Spontaneous Urticaria | 임상시험 | 92 | 프로토콜 | 10.2196/88251 / 42550968 | 오말리주맙+신기방 병용 평가 프로토콜 |
-| Acupuncture combined with pricking and cupping therapy is effective in patients with chronic spontaneous urticaria | 관찰연구 | 75 | 중등도 | - / 36915747 | 침+점자출혈 부항이 Th1/Th2 균형·IgE·IL-4 조절 |
-| Knowledge, Attitude, and Practice Towards Urticaria in an Online Sample of the Chinese General Population | 관찰연구 | 1056 | 중등도 | 10.2340/actadv.v105.43859 / 40985576 | TCM 경험이 지식·실천 점수와 연관 |
-| Acupuncture and Moxibustion for Cold Urticaria in a Pediatric Patient: a Case Report | 증례 | 1 | 낮음 | 10.24966/acim-7562/100559 / - | 소아 한랭 두드러기에 침·뜸이 유효 |
-| Syndrome Differentiation and Treatment of Chronic Urticaria Based on the "Xuanfu Theory" | 문헌고찰 | - | 중등도 | 10.66069/ojspub.27450762 / - | 현부 이론 기반 치료가 재발률 저하 |
-| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중등도 | 10.1089/acu.2017.1227 / - | 침이 피부 질환 가려움·통증 개선 |
-| Review Article: Cupping Therapy in Treatment of Certain Diseases | 문헌고찰 | - | 중등도 | 10.58806/ijhmr.2024.v3i07n19 / - | 부항이 피부 질환에 보조적 적용 |
-| Traditional Chinese Medicine for Pediatric Allergic Diseases | 문헌고찰 | - | 중등도 | 10.1007/s11882-025-01208-7 / 40742400 | 한약·침이 소아 알레르기 질환에 유효 |
-
 ## 경혈/처방 연관
 
 - 경혈: 곡지(曲池, LI11)·족삼리(足三里, ST36)·내관(內關, PC6)·혈해(血海, SP10)·삼음교(三陰交, SP6)·대추(大椎, GV14)·폐유(肺俞, BL13)·격유(膈俞, BL17)·비유(脾俞, BL20)·신궐(神闕, CV8)·이혈(肺·腎·神門·心)·수혈(輸穴)[^18][^23][^26][^29][^30]
@@ -197,4 +157,4 @@
 - 한약(당귀음자·옥병풍산·계지탕·신기방 등)의 근거는 일부 소규모 임상시험·프로토콜에 의존하며, 일부 메타분석에서는 근거 수준이 낮은 편이다. 고품질의 대규모 RCT로 확증하는 것이 요구된다.[^7][^11]
 - 변증(풍열·풍한·혈허생풍·습열·기혈부족) 유형별 치료 반응을 뒷받침하는 기전 연구와 장기 추적 데이터가 아직 부족하다. 변증에 따른 맞춤 한의 중재 근거 마련이 필요하다.[^1][^2][^3]
 - 생물학적 제제(오말리주맙)와 한약을 병용한 통합 치료의 실제 임상 효능·안전성 연구가 진행 중이며, 결과가 나오면 임상 적용 근거를 강화할 것으로 기대된다.[^11]
-- 검색으로 확보한 논문 중 일광피부염(디마티티스 솔라리스)·갑상선 기능 항진증·봉침 피부염·알레르기 일반론·2023년 전통의학 성과 등 주제와 직접 관련이 낮은 문헌고찰·증례·실험연구는 근거 표에서 제외하고, 두드러기 치료의 직접 근거로는 해석하지 않았다.
+- 검색으로 확보한 논문 중 일광피부염(디마티티스 솔라리스)·갑상선 기능 항진증·봉침 피부염·알레르기 일반론·2023년 전통의학 성과 등 주제와 직접 관련이 낮은 문헌고찰·증례·실험연구는 각주에서 제외하고, 두드러기 치료의 직접 근거로는 해석하지 않았다.
