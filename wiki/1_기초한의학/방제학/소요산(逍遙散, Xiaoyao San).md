@@ -12,7 +12,7 @@
 
 - **소요산(逍遙散, Xiaoyao San)**: 원방(原方). 간울혈허(肝鬱血虛)로 인한 정서 불안정·흉협창만·식욕부진·월경 불순에 적용. 우울증·기능성 소화불량·불면증의 핵심 근거.[^1][^45][^54]
 - **가미소요산(加味逍遙散, Kamishoyosan / Jia-Wei-Xiao-Yao-San)**: 원방에 단피(牧丹皮)·치자(梔子)를 가한 파생 방제로 청열(淸熱)의 효능이 추가된다. 일본 캄포 건약 TJ-24. 갱년기 증후군·PMS/PMDD·뇌졸중 후 우울증·부인과 악성 종양 후 갱년기 증상의 주된 근거.[^20][^22][^28][^32]
-- **단지소요산(丹梔逍遙散, Danzhi Xiaoyao Powder)**: 가미소요산의 한의학적 명칭. 우울증의 신경-면역-내분비 조절 기전 연구가 있다.[^11][^12]
+- **단치소요산(丹梔逍遙散, Danzhi Xiaoyao Powder)**: 가미소요산의 한의학적 명칭. 우울증의 신경-면역-내분비 조절 기전 연구가 있다.[^11][^12]
 - **가감소요산(加減逍遙散, Modified Xiaoyao Powder/Decoction)**: 환자의 변증·동반 증상에 따라 약재를 가감한 변형 방제. 항우울제·항경련제 병용 요법에서 우울증·양극성 장애에 적용된다.[^9][^10][^14]
 - **소요산 병용 요법**: [육기침법(六氣鍼法)]·[온담탕(溫膽湯)]·[이진탕(二陳湯)]·양약(SSRI·SNRI·항경련제·메티마졸 등)과의 병용 요법. 기능성 소화불량·신체형 장애·그레이브스병에서 병용 시 시너지 효과를 보인다.[^44][^48][^17][^64]
 - **소요환(逍遙丸)**: 소요산의 환제(丸劑) 제형. 노년성 우울증 등에서 양약과 병용 투여 시 부작용 감소 효과가 보고되었다.[^13]
@@ -35,8 +35,8 @@
 - 데이터 마이닝 분석에서 우울증 치료에 시호-작약-감초 조합의 높은 지지도가 확인되었으며, 소요산·시호가용골모려탕 기반 처방 구성이 유용한 참고 자료가 될 수 있다(체계적 고찰, 10810명).[^8]
 - 가미소요산(Modified Xiaoyao Pill)과 아미트립틸린 병용 요법은 플루옥세틴 단독과 유사한 우울증 치료 효과를 보이면서 부작용이 적고 경제적이며, 추적 기간 재발률이 낮았다(임상시험, 64명).[^9]
 - 간기울결증 유형의 우울증 환자에게 가감소요산과 클로미프라민 병용은 항우울제 단독과 유사한 효과를 보이면서 약물 용량을 줄여 부작용(입마름·변비·어지러움·불면)을 유의하게 감소시켰다(임상시험, 105명).[^10]
-- 단지소요산(丹梔逍遙散)은 우울증 환자의 증상 개선에 효과적이며, 치료 초기(2주차)에 마프로틸린보다 빠른 증상 완화 효과를 보였다. 세로토닌(5-HT)·BDNF 증가와 코르티솔·IL-6 감소로 신경-면역-내분비 체계를 조절하는 기전이 확인되었다(임상시험, 63명).[^11]
-- 단지소요산은 우울증 치료에서 마프로틸린과 유사한 수준의 효과를 보이면서 부작용은 유의하게 적었다(임상시험, 63명).[^12]
+- 단치소요산(丹梔逍遙散)은 우울증 환자의 증상 개선에 효과적이며, 치료 초기(2주차)에 마프로틸린보다 빠른 증상 완화 효과를 보였다. 세로토닌(5-HT)·BDNF 증가와 코르티솔·IL-6 감소로 신경-면역-내분비 체계를 조절하는 기전이 확인되었다(임상시험, 63명).[^11]
+- 단치소요산은 우울증 치료에서 마프로틸린과 유사한 수준의 효과를 보이면서 부작용은 유의하게 적었다(임상시험, 63명).[^12]
 - 고원 지대 노년성 우울증 환자에서 소요환(逍遙丸) 또는 기타 과립제를 플루옥세틴과 병용 시 치료 효과는 유사하면서 약물 부작용은 유의하게 감소하였다(임상시험, 90명).[^13]
 - 양극성 장애 환자에서 카바마제핀과 가미소요산 병용은 우울 삽화 환자에서 단독 요법보다 우수한 증상 개선·높은 임상 반응률을 보였고, 어지러움·피로감 부작용 발생 빈도가 감소하였다(이중맹검 위약대조 임상시험, 235명).[^14]
 - 공황장애 및 광장공포증 환자에게 가미소요산 또는 반하후박탕이 증상 완화에 효과적일 수 있다. 연령이 높고 전신 증상이 많은 환자에게는 가미소요산이 더 적절할 가능성이 있다(증례, 4례).[^15]
@@ -106,12 +106,12 @@
 - 소요산은 간경변증 환자의 간 기능 개선 및 섬유화 완화에 효과가 있으며, CEBPA·IL7R·EGFR·CSF1과 같은 핵심 타겟 유전자 발현을 조절한다(실험연구·네트워크 약리학).[^58]
 - 대만 만성 간염 환자에게 가장 많이 처방되는 중약은 용담사간탕과 단삼이었으며, 가미소요산과 단삼의 병용 처방이 빈번하게 사용되었다(관찰연구, 91080명).[^59]
 - 비알코올성 지방간 질환(NAFLD)에 대한 중의학 중재 종합 분석에서 ALT 감소 및 중성지방 개선의 긍정적 경향이 확인되었고, 소요산과 단녕편이 효과적인 처방으로 나타났다. 다만 대부분 연구의 방법론적 질이 낮다(체계적 고찰).[^60]
-- 간(肝)의 기운을 조절하여 우울감을 해소하는 단지소요산을 제2형 당뇨병 환자에게 병용 시 혈당·당화혈색소 감소 효과가 더 뛰어났으나, 지질 수치 개선에는 유의미한 영향이 없었다(임상시험, 51명).[^61]
+- 간(肝)의 기운을 조절하여 우울감을 해소하는 단치소요산을 제2형 당뇨병 환자에게 병용 시 혈당·당화혈색소 감소 효과가 더 뛰어났으나, 지질 수치 개선에는 유의미한 영향이 없었다(임상시험, 51명).[^61]
 
 ### 기타 적응증·안전성
 
 - 소요산 고약과 도인법 병행은 경추 질환 환자의 통증·압통·경추 움직임 제한을 유의하게 개선하였다(임상시험, 63명).[^62]
-- 갑상선 결절의 발생에 정서적 요인과 간기울결이 밀접하게 연관되며, 보음·청열·소간·건비 원칙에 따라 단지소요산을 가감하는 처방이 임상적으로 유효할 수 있다(증례).[^63]
+- 갑상선 결절의 발생에 정서적 요인과 간기울결이 밀접하게 연관되며, 보음·청열·소간·건비 원칙에 따라 단치소요산을 가감하는 처방이 임상적으로 유효할 수 있다(증례).[^63]
 - 쿠싱 증후군의 병태생리에 보중익기탕·소요산 등의 한약 처방과 침·추나 요법이 증상 완화 및 삶의 질 개선에 잠재적 효과가 있을 수 있으나, 표준화된 프로토콜과 고품질 근거가 필요하다(문헌고찰).[^65]
 - 가미소요산 복용 후 혈청 내 페룰산·작약총배당체(파에오니플로린)를 HPLC로 동시 정량하는 정밀 분석법이 확립되어, 향후 약동학 평가·혈중 농도 모니터링에 활용될 수 있다(실험연구).[^70]
 - 서양의학으로 치료가 어려운 난치성 구강 질환(구강작열감증후군·비정형 안면통·구강암 부작용 등)에 환자의 열·한·조·습 및 기혈수의 상태에 맞춘 캄포 처방이 효과적인 대안이 될 수 있다(문헌고찰).[^71]
@@ -149,7 +149,7 @@
 | Comparative study of Modified Xiaoyao Pill combining amitriptyline on therapeutic effect and compliance in treating patients with depression | 임상시험 | 64 | 중등도 | [PMID 17717929](https://pubmed.ncbi.nlm.nih.gov/17717929/) | 가미소요산+아미트립틸린 병용이 플루옥세틴과 유사 효과, 부작용 적고 재발률 낮음 |
 | Study on Modified Xiaoyao Decoction combining Clomipramine treating depression | 임상시험 | 105 | 중등도 | [PMID 17526170](https://pubmed.ncbi.nlm.nih.gov/17526170/) | 간기울결 우울증에서 가감소요산+클로미프라민 병용이 용량 감소·부작용 감소 |
 | Effect of Danzhi Xiaoyao Powder on neuro-immuno-endocrine system in patients with depression | 임상시험 | 63 | 중등도 | [PMID 17432674](https://pubmed.ncbi.nlm.nih.gov/17432674/) | 5-HT·BDNF↑, CORT·IL-6↓로 신경-면역-내분비 조절; 초기 2주차 빠른 반응 |
-| Clinical observation on effect of danzhi xiaoyao powder in treating depression | 임상시험 | 63 | 중등도 | [PMID 16613263](https://pubmed.ncbi.nlm.nih.gov/16613263/) | 단지소요산이 마프로틸린과 유사 효능, 부작용 유의하게 적음 |
+| Clinical observation on effect of danzhi xiaoyao powder in treating depression | 임상시험 | 63 | 중등도 | [PMID 16613263](https://pubmed.ncbi.nlm.nih.gov/16613263/) | 단치소요산이 마프로틸린과 유사 효능, 부작용 유의하게 적음 |
 | Clinical study on effect of fluoxetine combined with Chinese medicine or tibetan drugs in treating senile depression | 임상시험 | 90 | 중등도 | [PMID 16613260](https://pubmed.ncbi.nlm.nih.gov/16613260/) | 노년 우울증에서 소요환·과립제 병용이 유사 효능, 부작용 유의 감소 |
 | Adjunctive herbal medicine with carbamazepine for bipolar disorders: A double-blind, randomized, placebo-controlled study | 임상시험 | 235 | 높음 | [10.1016/j.jpsychires.2005.06.002](https://doi.org/10.1016/j.jpsychires.2005.06.002) · [PMID 16081106](https://pubmed.ncbi.nlm.nih.gov/16081106/) | 양극성 우울 삽화에서 가미소요산 병용이 단독 대비 우수, 부작용 감소 경향 |
 | Four cases of panic disorder successfully treated with Kampo medicines: Kami-shoyo-san and Hange-koboku-to | 증례 | 4 | 매우 낮음 | [10.1046/j.1440-1819.2002.01064.x](https://doi.org/10.1046/j.1440-1819.2002.01064.x) · [PMID 12485303](https://pubmed.ncbi.nlm.nih.gov/12485303/) | 공황장애에 가미소요산·반하후박탕 유효; 전신 증상 많으면 가미소요산 적절 |
@@ -198,9 +198,9 @@
 | Dynamic network biomarker analysis and system pharmacology of Xiaoyaosan against liver cirrhosis | 실험연구 | - | 매우 낮음 | [10.1016/j.jep.2022.115324](https://doi.org/10.1016/j.jep.2022.115324) · [PMID 35489663](https://pubmed.ncbi.nlm.nih.gov/35489663/) | 간경변에 간 기능 개선·섬유화 완화; CEBPA·IL7R·EGFR·CSF1 표적 |
 | Frequency and pattern of Chinese herbal medicine prescriptions for chronic hepatitis in Taiwan | 관찰연구 | 91080 | 낮음 | [10.1016/j.jep.2008.01.018](https://doi.org/10.1016/j.jep.2008.01.018) · [PMID 18321671](https://pubmed.ncbi.nlm.nih.gov/18321671/) | 만성 간염에 용담사간탕·단삼 최다; 가미소요산+단삼 병용 빈용 |
 | TCM for non-alcoholic fatty liver disease: overview of systematic reviews | 체계적 고찰 | - | 중등도 | [10.3389/fphar.2025.1675793](https://doi.org/10.3389/fphar.2025.1675793) · [PMID 41451376](https://pubmed.ncbi.nlm.nih.gov/41451376/) | NAFLD에 소요산·단녕편 유효 경향; 연구 질 낮음 |
-| Clinical study in treating type 2 diabetes mellitus according to liver in TCM | 임상시험 | 51 | 중등도 | [PMID 11789185](https://pubmed.ncbi.nlm.nih.gov/11789185/) | 단지소요산 병용이 혈당·HbA1c 개선에 유리; 지질 개선은 유의 아님 |
+| Clinical study in treating type 2 diabetes mellitus according to liver in TCM | 임상시험 | 51 | 중등도 | [PMID 11789185](https://pubmed.ncbi.nlm.nih.gov/11789185/) | 단치소요산 병용이 혈당·HbA1c 개선에 유리; 지질 개선은 유의 아님 |
 | Clinical observation on Xiaoyusan plaster and Daoyin in the treatment of disease of cervical vertebrae | 임상시험 | 63 | 중등도 | [PMID 19522395](https://pubmed.ncbi.nlm.nih.gov/19522395/) | 경추 질환에 소요산 고약+도인법 병행이 통증·기능 개선 |
-| Chief Physician Wang Defen's Experience in Treating Thyroid Nodules based on Syndrome Differentiation | 증례 | - | 매우 낮음 | [10.26689/jcnr.v5i6.2730](https://doi.org/10.26689/jcnr.v5i6.2730) | 갑상선 결절에 간울 관련 보음·청열·소간·건비 원칙 단지소요산 가감 유효 |
+| Chief Physician Wang Defen's Experience in Treating Thyroid Nodules based on Syndrome Differentiation | 증례 | - | 매우 낮음 | [10.26689/jcnr.v5i6.2730](https://doi.org/10.26689/jcnr.v5i6.2730) | 갑상선 결절에 간울 관련 보음·청열·소간·건비 원칙 단치소요산 가감 유효 |
 | Efficacy of methimazole combined with TCM in the treatment of Graves' disease: SR and NMA | 메타분석 | 1317 | 중등도 | [10.3389/fendo.2026.1767935](https://doi.org/10.3389/fendo.2026.1767935) · [PMID 42523574](https://pubmed.ncbi.nlm.nih.gov/42523574/) | 그레이브스병에 메티마졸+중약 병용이 자가항체 감소 유리; FT4·TSH에 소요산·가감소요산 유망 |
 | Effectiveness of the Kampo kami-shoyo-san (TJ-24) for tremor of antipsychotic-induced parkinsonism | 임상시험 | 8 | 중등도 | [10.1046/j.1440-1819.2000.00756.x](https://doi.org/10.1046/j.1440-1819.2000.00756.x) · [PMID 11043809](https://pubmed.ncbi.nlm.nih.gov/11043809/) | 항정신병 약물 유발 떨림에 가미소요산 유의 개선; 부작용 없음 |
 | Clinical effectiveness of kamishoyosan for adjunctive treatment of tardive dyskinesia: 16-week open trial | 임상시험 | 69 | 중등도 | [10.1111/j.1440-1819.2007.01700.x](https://doi.org/10.1111/j.1440-1819.2007.01700.x) | 조현병 지성 운동이상증에 가미소요산 보조 요법 유의 완화 |
@@ -240,7 +240,7 @@
 
 **Q1. 소요산과 가미소요산의 차이는 무엇이며 어떤 경우에 구분하여 쓰는가?**
 
-가미소요산은 소요산에 단피(牧丹皮)·치자(梔子)를 더하여 청열(淸熱) 효능을 추가한 방제이다. 간울에 열(熱)이 동반된 경우, 즉 불안·과민성·안면홍조·월경전 흉만(胸滿) 등의 증상이 두드러질 때 가미소요산(단지소요산)을 우선 고려한다.[^11][^12] 갱년기 혈관운동성 증상·PMS/PMDD 연구의 상당수가 가미소요산을 사용하였다.[^20][^22][^32] 소요산 원방은 열증이 뚜렷하지 않은 간울혈허 변증에 적용한다.
+가미소요산은 소요산에 단피(牧丹皮)·치자(梔子)를 더하여 청열(淸熱) 효능을 추가한 방제이다. 간울에 열(熱)이 동반된 경우, 즉 불안·과민성·안면홍조·월경전 흉만(胸滿) 등의 증상이 두드러질 때 가미소요산(단치소요산)을 우선 고려한다.[^11][^12] 갱년기 혈관운동성 증상·PMS/PMDD 연구의 상당수가 가미소요산을 사용하였다.[^20][^22][^32] 소요산 원방은 열증이 뚜렷하지 않은 간울혈허 변증에 적용한다.
 
 **Q2. 우울증 환자에게 소요산은 항우울제와 함께 써도 안전한가?**
 
