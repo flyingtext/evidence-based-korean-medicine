@@ -84,6 +84,14 @@
   - 하위 표제어: 사역탕(四逆湯) 원방 · 당귀사역탕(當歸四逆湯) · 가미사역탕(加味四逆湯) · 통맥사역탕(通脈四逆湯) · 사역산(四逆散)
 - [평위산(平胃散, Pyeongwi-san / Pingwei San)](평위산(平胃散, Pyeongwi-san).md)
   - 하위 표제어: 평위산(平胃散) 원방 · 향사평위산(香砂平胃散) · 평위산 제제·추출물(Pyeongwee-San extract, KMP6) · 평위산 병용·계열 요법
+- [온경탕(溫經湯, Wenjing Decoction / Unkei-to)](온경탕(溫經湯, Wenjing Decoction / Unkei-to).md)
+  - 하위 표제어: 온경탕(溫經湯) 원방 · 운케이토(Unkei-to) · 가감 온경탕(加減溫經湯) · 온경탕 병용 요법(침·뜸)
+- [소건중탕(小建中湯, Sogeonjung-tang / Shokenchuto)](소건중탕(小建中湯, Sogeonjung-tang).md)
+  - 하위 표제어: 소건중탕(小建中湯) 원방 · 소건중탕 제제(Shokenchuto) · 황기건중탕(黃芪建中湯) · 건중(建中) 계열 방제
+- [대건중탕(大建中湯, Daegeonjung-tang / Daikenchuto)](대건중탕(大建中湯, Daegeonjung-tang).md)
+  - 하위 표제어: 대건중탕(大建中湯) 원방 · 대건중탕 제제(Daikenchuto, TJ-100/TU-100) · 대건중탕 병용 요법 · 건중(建中) 계열 방제
+- [도홍사물탕(桃紅四物湯, Dohongsamul-tang / Taohong Siwu Decoction)](도홍사물탕(桃紅四物湯, Dohongsamul-tang).md)
+  - 하위 표제어: 도홍사물탕(桃紅四物湯) 원방 · 가미도홍사물탕(加味桃紅四物湯) · 도인홍화 계열 제제 · 도홍사물탕 병용 요법
 
 ## 동음이의 분류
 
