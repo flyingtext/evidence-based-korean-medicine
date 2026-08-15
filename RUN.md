@@ -220,23 +220,6 @@ python3 scripts/loop.py --reset
 - 진행 이력은 `scripts/.progress.json`, 로그는 `scripts/loop.log`에 기록된다.
 - 연속 3회 실패 시 자동 중단한다.
 
-## 7. 추천(좋아요) 백엔드
-
-정적 사이트의 추천 버튼이 집계 API를 호출한다. 추천 수는 SQLite(`server/likes.db`)에 저장된다.
-
-```bash
-# 백엔드 실행 (0.0.0.0:8000)
-python3 server/app.py
-
-# 포트 지정
-python3 server/app.py --port 9000
-```
-
-- 추천 버튼: 각 문서 상단에 자동 주입 (`wiki/assets/like.js`)
-- 추천 순위 페이지: `wiki/추천순위.md` (nav에 등록됨)
-- API 엔드포인트: `POST /api/like`, `GET /api/likes`, `GET /api/rank`, `GET /health`
-- 프론트엔드가 API 주소를 바꾸려면 `LIKE_API` 전역 변수로 지정한다 (기본 `http://localhost:8000`).
-
 ## 유의사항
 
 - API 과호출 방지를 위해 `per_page`는 최대 100, 필요한 페이지만 요청한다.
