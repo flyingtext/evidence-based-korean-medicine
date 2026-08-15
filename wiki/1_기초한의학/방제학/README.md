@@ -80,6 +80,8 @@
   - 하위 표제어: 작약감초탕(芍藥甘草湯) 원방 · 작약감초탕 제제(Shakuyaku-kanzo-to, TJ-68) · 작약감초탕 가감·병용 요법
 - [진무탕(真武湯, Zhenwu Decoction / Shinbuto)](진무탕(真武湯, Zhenwu Decoction).md)
   - 하위 표제어: 진무탕(真武湯) 원방 · 신부토(Shinbuto) · 금무탕(Jinmu-tang, 金武湯) · 가감 진무탕(加減真武湯) · 이신진무탕(二神真武湯)
+- [사역탕(四逆湯, Sini Decoction / Shigyakuto)](사역탕(四逆湯, Sini Decoction).md)
+  - 하위 표제어: 사역탕(四逆湯) 원방 · 당귀사역탕(當歸四逆湯) · 가미사역탕(加味四逆湯) · 통맥사역탕(通脈四逆湯) · 사역산(四逆散)
 - [평위산(平胃散, Pyeongwi-san / Pingwei San)](평위산(平胃散, Pyeongwi-san).md)
   - 하위 표제어: 평위산(平胃散) 원방 · 향사평위산(香砂平胃散) · 평위산 제제·추출물(Pyeongwee-San extract, KMP6) · 평위산 병용·계열 요법
 
