@@ -73,7 +73,7 @@
 - 단순 비만 환자에게 전침은 혈청 렙틴을 낮추고 아디포넥틴을 높여 체중 감소를 유도하며, 일반 침보다 유효율·호르몬 조절 능력이 우수하다.[^28] 위장실열(胃腸實熱)형 비만에는 위경(胃經) 혈위 중심 전침이 체중·BMI·허리둘레 감소에 더 효과적이다.[^29]
 - 갱년기 증후군에 삼음교(三陰交, SP6) 전침은 FSH·LH를 낮추고 E2를 높여 생식내분비 기능을 조절하며, 호르몬 대체 요법과 비교해도 유의미한 내분비 조절 효과를 보인다.[^30]
 - 다년성 알레르기 비염에 전침은 세티리진 단독보다 증상 완화에 우수하며, 혈장 내 VIP·SP를 낮추는 신경면역학적 기전과 관련된다.[^31]
-- 광범위 자궁절제술 후 방광 기능 장애에 발료(八髎) 혈위 전침이 삼음교보다 요역동학적 지표(잔뇨량 감소·평균 요류율 증가) 개선에 더 우수하다.[^32]
+- 광범위 자궁절제술 후 방광 기능 장애에 팔료(八髎) 혈위 전침이 삼음교보다 요역동학적 지표(잔뇨량 감소·평균 요류율 증가) 개선에 더 우수하다.[^32]
 
 ### 안전성·작용 기전
 
@@ -113,7 +113,7 @@
 | Clinical observation on the regularity of acupuncture-induced body-reduction in excess-heat-type obesity patients | 임상시험 | 51 | 중등도 | - · PMID 17650659 | 위장실열형 비만에 위경 혈위 중심 전침이 체중·BMI·허리둘레 감소에 효과적 |
 | Effects of electroacupuncture of Sanyinjiao (SP 6) on genito-endocrine in patients with perimenopausal syndrome | 임상시험 | 157 | 중등도 | - · PMID 17907389 | 갱년기 증후군에 삼음교(SP6) 전침이 FSH·LH 감소·E2 증가로 생식내분비 조절 |
 | Effects of electroacupuncture on plasma vasoactive intestinal peptide and substance P in perennial allergic rhinitis patients | 임상시험 | 100 | 중등도 | - · PMID 17650661 | 다년성 알레르기 비염에 전침이 세티리진보다 증상 완화 우수. VIP·SP 감소 기전 |
-| Effect of acupuncture on bladder function in patients with radical hysterectomy | 임상시험 | 64 | 중등도 | - · PMID 17650660 | 자궁절제술 후 방광 기능 장애에 발료(八髎) 전침이 삼음교보다 요역동학 지표 개선에 우수 |
+| Effect of acupuncture on bladder function in patients with radical hysterectomy | 임상시험 | 64 | 중등도 | - · PMID 17650660 | 자궁절제술 후 방광 기능 장애에 팔료(八髎) 전침이 삼음교보다 요역동학 지표 개선에 우수 |
 | Adverse events related to electroacupuncture: a systematic review of single case studies and case series | 체계적 고찰 | - | 중등도 | 10.1177/0964528420920287 · PMID 32418438 | 전침 시 피부 색소 침착·실신·경련·전기 화상·심장 응급 등 이상반응 보고. ICD 환자·내부 장기 부위 자극 시 주의 |
 | The effect of electroacupuncture on opioid-like medication consumption by chronic pain patients: a pilot randomized controlled clinical trial | 임상시험 | 35 | 낮음 | 10.1016/j.ejpain.2007.10.003 · PMID 18035566 | 만성 통증에 전침이 오피오이드 유사 약물 소비량을 단기 감소. 8주 이상 지속되지 않음 |
 | Acupuncture and electroacupuncture for the treatment of rheumatoid arthritis | 체계적 고찰 | 84 | 낮음 | 10.1002/14651858.CD003788.pub2 · PMID 16235342 | 류마티스 관절염에 침이 염증 지표·질환 활성도 개선에 뚜렷한 효과 없음. 전침이 무릎 통증 단기 감소 가능성 |
@@ -130,7 +130,7 @@
 
 ## 경혈/처방 연관
 
-- 경혈: 전침은 경락경혈학(經絡經穴學)의 경혈 체계에 기반한다. 통증 질환에는 아시혈(阿是穴)·족삼리(足三里, ST36)·합곡(合谷, LI4)·구허(丘墟, GB40)·협척혈(夾脊穴) 등이, 소화기 질환에는 족삼리(ST36)·지구혈(支溝, TE6) 등이, 부인과 질환에는 삼음교(三陰交, SP6)·발료(八髎) 등이, 뇌졸중·요실금에는 백회(百會, GV20)·발료(BL32) 등이 공통적으로 활용된다.[^15][^20][^25][^27][^30][^32]
+- 경혈: 전침은 경락경혈학(經絡經穴學)의 경혈 체계에 기반한다. 통증 질환에는 아시혈(阿是穴)·족삼리(足三里, ST36)·합곡(合谷, LI4)·구허(丘墟, GB40)·협척혈(夾脊穴) 등이, 소화기 질환에는 족삼리(ST36)·지구혈(支溝, TE6) 등이, 부인과 질환에는 삼음교(三陰交, SP6)·팔료(八髎) 등이, 뇌졸중·요실금에는 백회(百會, GV20)·발료(BL32) 등이 공통적으로 활용된다.[^15][^20][^25][^27][^30][^32]
 - 침법: 전침은 [침치료(鍼治療)](침치료(鍼治療).md)의 하위 유형으로, [뜸(灸)](뜸(灸, Moxibustion).md)·[약침(藥鍼)](약침(藥鍼, Pharmacopuncture).md)·추나·재활 훈련 등과 병용된다.[^7][^8]
 
 [^1]: 전침의 정의·경혈 체계·시술 원칙은 교과서적 임상 이론 및 한정된 문헌 수준. 근거 미확인(교과서적 임상 진단 이론).
@@ -164,7 +164,7 @@
 [^29]: Clinical observation on the regularity of acupuncture-induced body-reduction in excess-heat-type obesity patients. 임상시험, 51명. PMID: [17650659](https://pubmed.ncbi.nlm.nih.gov/17650659/). 근거수준: 중등도. 위장실열형 비만에 위경 혈위 중심 전침이 체중 감소에 효과적.
 [^30]: Effects of electroacupuncture of Sanyinjiao (SP 6) on genito-endocrine in patients with perimenopausal syndrome. 임상시험, 157명. PMID: [17907389](https://pubmed.ncbi.nlm.nih.gov/17907389/). 근거수준: 중등도. 갱년기 증후군에 삼음교(SP6) 전침이 생식내분비 조절.
 [^31]: Effects of electroacupuncture on plasma vasoactive intestinal peptide and substance P in perennial allergic rhinitis patients. 임상시험, 100명. PMID: [17650661](https://pubmed.ncbi.nlm.nih.gov/17650661/). 근거수준: 중등도. 다년성 알레르기 비염에 전침이 세티리진보다 증상 완화 우수.
-[^32]: Effect of acupuncture on bladder function in patients with radical hysterectomy. 임상시험, 64명. PMID: [17650660](https://pubmed.ncbi.nlm.nih.gov/17650660/). 근거수준: 중등도. 자궁절제술 후 방광 기능 장애에 발료(八髎) 전침이 요역동학 지표 개선에 우수.
+[^32]: Effect of acupuncture on bladder function in patients with radical hysterectomy. 임상시험, 64명. PMID: [17650660](https://pubmed.ncbi.nlm.nih.gov/17650660/). 근거수준: 중등도. 자궁절제술 후 방광 기능 장애에 팔료(八髎) 전침이 요역동학 지표 개선에 우수.
 [^33]: The effect of electroacupuncture on opioid-like medication consumption by chronic pain patients: a pilot randomized controlled clinical trial. 임상시험, 35명. DOI: [10.1016/j.ejpain.2007.10.003](https://doi.org/10.1016/j.ejpain.2007.10.003) · PMID: 18035566. 근거수준: 낮음. 만성 통증에 전침이 오피오이드 유사 약물 소비량을 단기 감소.
 
 ## Q&A
