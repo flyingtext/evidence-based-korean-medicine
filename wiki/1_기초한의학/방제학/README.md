@@ -76,6 +76,8 @@
   - 하위 표제어: 보양환오탕(補陽還五湯) 원방 · 보양환오탕가감(補陽還五湯加減) · 초극미분·제제 · 보양환오탕 병용 요법
 - [독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction)](독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction).md)
   - 하위 표제어: 독활기생탕(獨活寄生湯) 원방 · 가감독활기생탕 · 독활기생탕 병용 요법(추나·부항·온침)
+- [작약감초탕(芍藥甘草湯, Jakyakgamcho-tang / Shakuyaku-kanzo-to)](작약감초탕(芍藥甘草湯, Jakyakgamcho-tang).md)
+  - 하위 표제어: 작약감초탕(芍藥甘草湯) 원방 · 작약감초탕 제제(Shakuyaku-kanzo-to, TJ-68) · 작약감초탕 가감·병용 요법
 
 ## 동음이의 분류
 
