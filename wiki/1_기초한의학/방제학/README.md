@@ -18,6 +18,8 @@
   - 하위 표제어: 소시호탕 · 소시호가감방(소시호가길경석고탕) · 쇼사이코토(TJ-9) · 대시호탕 · 시호계지탕 · 시호계지강탕 · 시호용골모려탕 · 시호제 기타 가감방
 - [시호계지탕(柴胡桂枝湯, Sihogyeji-tang / Saikokeishito / Chaihu Guizhi Decoction)](시호계지탕(柴胡桂枝湯).md)
   - 하위 표제어: 시호계지탕 · 사이케이시토(TJ-10) · 시호계지강탕 · 시호계지탕 가감방
+- [계지탕(桂枝湯, Gyeji-tang / Keishito / Guizhi Decoction)](계지탕(桂枝湯, Gyeji-tang).md)
+  - 하위 표제어: 계지탕(桂枝湯) 원방 · 계지탕 가감방(계지탕가황기·계지탕가구주) · 계지 계열 파생 방제(시호계지탕·계지복령환·황기계지오물탕·계지소요지모탕·지실해백계지탕)
 - [대시호탕(大柴胡湯, Dachaihu Decoction / Daisaikoto)](대시호탕(大柴胡湯, Dachaihu Decoction).md)
   - 하위 표제어: 대시호탕 원방 · 가미대시호탕 · 대시호탕-생강분 병용 · 다이사이코토(TJ-8)
 - [계지복령환(桂枝茯苓丸, Gyejibokryeong-hwan / Keishibukuryogan / Guizhi Fuling Wan)](계지복령환(桂枝茯苓丸).md)
