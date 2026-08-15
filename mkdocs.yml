@@ -16,9 +16,6 @@ markdown_extensions:
   - pymdownx.superfences
 plugins:
   - search
-  - exclude:
-      glob:
-        - _template.md
   - awesome-pages
   - htmlproofer:
       enabled: !ENV [CI, false]

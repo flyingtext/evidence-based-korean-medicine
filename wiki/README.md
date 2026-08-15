@@ -10,7 +10,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
 임상적 주장에는 출처(DOI/PMID)를 명시하고, 연구 유형에 따라 근거 수준을 구분합니다.
 
 > 운영 원칙: 근거 우선 · 출처 명시 · 근거수준 구분 · AI 생성물 명시 · 과장 금지
-> (자세한 규칙은 [AGENTS.md](../AGENTS.md) 참조)
+> (자세한 규칙은 [AGENTS.md](./AGENTS.md) 참조)
 
 **운영자**: 윤지현 (flyingtext@nate.com)
 
@@ -158,4 +158,4 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
 3. 검증 스크립트로 링크·근거·표기 점검
 4. MkDocs로 빌드
 
-자세한 명령어는 [RUN.md](../RUN.md) 참조.
+자세한 명령어는 [RUN.md](./RUN.md) 참조.
