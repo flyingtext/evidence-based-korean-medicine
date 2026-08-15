@@ -37,6 +37,9 @@
 - **경락 진단의 객관화**: C-V 곡선의 곡률을 통해 경락의 한열(寒熱) 상태를 정량적으로 진단할 수 있다는 관찰연구가 있으며,[^7] 경락의 전기전도도 측정이 비만 환자의 체중 변화 모니터링 지표로 활용될 수 있다는 연구도 있다.[^21]
 - **경락 기반 마사지·지압**: 복부 경락 마사지가 뇌혈관사고(CVA) 환자의 변비 개선에 효과적이며,[^22] 진정 대장내시경 후 복부 팽만감·복부 둘레를 감소시키고 장음 회복·가스 배출 시간을 단축시킨다.[^23] 진짜 혈위 지압이 COPD 환자의 호흡곤란·폐 기능·보행 능력·불안을 유의하게 개선했다.[^24]
 - **경락 기반 침 마취·신경 질환**: 상응 경락의 근거리·원위 혈위를 조합한 침 마취법이 뇌 수술에서 효과적이고 안전하다는 증례가 있으며,[^25] 요골신경 압박으로 인한 손목 하수 환자에게 폐경·대장경의 원혈·낙혈 조합 침 치료가 완전한 기능 회복을 보였다.[^26]
+- **경락 기반 치료의 신경·근골격 질환 적용**: 메타분석에서 뇌졸중 후 경직 완화에는 화침·경근침이, 운동 기능 회복에는 전침이 가장 우수했고,[^28] 만성 비특이적 요통에는 온침·전온침·경근 이론 기반 치료가 권장되었다.[^29] 강직성 척추염에는 독맥구·침 병행이 설파살라진 단독보다 기능 개선에 효과적이었다.[^30]
+- **경락 기반 도침·부항·지압의 임상 적용**: 경근 이론 기반 도침이 무릎 골관절염에 해부학적 도침과 동등한 효과·안전성을 보였고,[^31] 방광경 혈위 습식 부항이 만성 요통을 개선했으며,[^32] 수술 전 지압이 불안·혈압·심박수를 유의하게 감소시켰다.[^33] 독맥구 요법은 건선 중증도·삶의 질을 개선했다.[^34]
+- **경락 현상의 존재와 임상 활용**: 체계적 고찰에서 경락의 물리적 구조는 미규명이나 경락 현상의 존재는 충분히 확인되었으며,[^35] 침·전침이 심혈관 질환 증상 개선에,[^36] 족양명위경 혈위가 기능성 위장관 장애에 핵심적으로 활용된다는 근거가 정리되었다.[^37] 경락을 정보 전달 체계로 통합 이해하는 현대적 이론도 제시된다.[^38]
 
 > AI 요약(answer/clinical_summary)과 원문을 대조 후 요약하였다. 일부 수치·비율은 원문 데이터를 참고한 것이다.
 
@@ -82,6 +85,17 @@
 | Explanation of essence and substance basis of channels and collaterals | 고찰 | - | 중등도 | PMID 17853756 | 경락 체계를 근막학·결합조직 관점에서 해석. 생물학적 근거 제시 |
 | Summarization of professor He Pu-ren's channel syndrome differentiation | 고찰 | - | 중등도 | PMID 17722833 | 경락변증은 체표 경락 부위·연결 장부·기혈 상태 종합 분석. 난치성 질환 치료법 |
 | Clinical application of acupoint heat-sensitization | 고찰 | - | 중등도 | PMID 17432648 | 질환 시 혈위가 열 자극에 예민해지는 혈위열감작 현상. 예민 혈위에 뜸 시 효과 극대화 |
+| Efficacy of acupuncture-based adjunctive therapies in alleviating spasticity and motor function in patients with post-stroke spasticity | 메타분석 | 6180 | 높음 | 10.1016/j.ctim.2025.103282 | 뇌졸중 후 경직 완화에 화침·경근침, 운동 기능 회복에 전침이 가장 우수 |
+| Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain | 메타분석 | 2579 | 높음 | 10.1186/s13018-024-05118-8 | 만성 비특이적 요통에 온침·전온침·경근 이론 기반 치료 권장. 가동성 저하 시 경근 이론 유용 |
+| Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis | 메타분석 | - | 중등도 | 10.2147/JPR.S555916 | 강직성 척추염에 독맥구·침 병행이 설파살라진 단독보다 기능(BASFI)·유효성 개선 |
+| Clinical Study of Acupotomy for Knee Osteoarthritis Based on the Meridian-Sinew Theory | 임상시험 | 124 | 중등도 | 10.1155/2021/3987002 | 경근 이론 기반 도침이 해부학적 도침과 동등한 통증(VAS)·기능(WOMAC) 개선·안전 |
+| The Use of Wet Cupping for Persistent Nonspecific Low Back Pain | 임상시험 | 80 | 중등도 | 10.1089/acm.2015.0065 | 방광경 혈위(BL23-25) 습식 부항이 만성 요통 통증·기능 장애 개선, 효과 2주 유지 |
+| Investigating the Effect of Acupressure on the Patients' Anxiety Before Open-Heart Surgery | 임상시험 | 90 | 중등도 | 10.1016/j.jams.2020.11.001 | 수술 전 지압이 상태 불안·수축기 혈압·심박수 유의 감소. 비약물적 불안 관리 |
+| Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis | 임상시험 | - | 중등도 | 10.1097/md.0000000000035726 | 독맥구 요법이 건선 중증도(PASI)·삶의 질(DLQI) 유의 개선 |
+| Meridian studies in China: a systematic review | 체계적 고찰 | - | 중등도 | 10.1016/S2005-2901(10)60001-5 | 경락의 물리적 구조는 미규명이나 경락 현상의 존재는 충분히 확인. 침구 치료 지속 근거 |
+| Acupuncture for the Treatment of Cardiovascular Diseases: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1016/j.jams.2018.07.005 | 침·전침이 심혈관 질환 증상 개선. 내관(PC6)·족삼리(ST36) 자주 사용 |
+| Acupoints Compatibility Rules of Acupuncture for Functional Gastrointestinal Disorders Based on Data Mining Technology | 체계적 고찰 | - | 중등도 | 10.18502/ijph.v54i8.19568 | FGIDs에 족양명위경 혈위(족삼리·천추·상거허) 핵심 사용. 모혈·하합혈 조합 유효 |
+| Scientific exploration and hypotheses concerning the meridian system in traditional Chinese medicine | 고찰 | - | 중등도 | 10.1097/hm9.0000000000000128 | 경락을 정보 전달 체계로 통합 이해. 침·뜸·한약 기전의 과학적 설명 기여 |
 
 ## 임상 적용
 
@@ -90,6 +104,9 @@
 - **경락 기반 마사지·지압**: 복부 경락 마사지가 변비·대장내시경 후 불편감 개선에,[^22][^23] 진짜 혈위 지압이 COPD 호흡곤란·불안 개선에 활용될 수 있다.[^24]
 - **경락 기반 침 마취·신경 재활**: 상응 경락의 근거리·원위 혈위 조합 침 마취가 뇌 수술에서,[^25] 경락 원혈·낙혈 조합 침이 말초 신경 손상 회복에 응용될 수 있다.[^26]
 - **경락 진단의 객관화**: C-V 곡선·경락 전기전도도 등 객관적 지표가 경락 변증·치료 반응 모니터링에 활용될 수 있다.[^7][^21]
+- **경락 기반 신경·근골격 재활**: 뇌졸중 후 경직 완화에는 화침·경근침, 운동 기능 회복에는 전침을,[^28] 만성 요통에는 온침·전온침·경근 이론 기반 치료를,[^29] 강직성 척추염에는 독맥구·침 병행을 고려할 수 있다.[^30]
+- **경락 기반 도침·부항·지압**: 경근 이론 기반 도침이 무릎 골관절염에,[^31] 방광경 혈위 습식 부항이 만성 요통에,[^32] 수술 전 지압이 불안 관리에,[^33] 독맥구 요법이 건선에 활용될 수 있다.[^34]
+- **경락 혈위의 질환별 활용**: 심혈관 질환에는 내관(PC6)·족삼리(ST36),[^36] 기능성 위장관 장애에는 족양명위경 혈위(족삼리·천추·상거허)가 핵심적으로 활용된다.[^37]
 
 ## 경혈/처방 연관
 
@@ -107,7 +124,7 @@
 경락변증은 체표 경락 부위, 연결된 장부, 경락의 기혈 상태를 종합적으로 분석해 난치성 질환을 치료하는 방법입니다.[^8] C-V 곡선 곡률로 경락의 한열 상태를 정량 진단하거나,[^7] 경락 전기전도도로 치료 반응을 모니터링하는 등 객관화 시도도 있습니다.[^21] 임상에서는 환자의 증상이 나타나는 경락 경로와 관련 장부의 연관성을 분석해 혈위를 선택합니다.
 
 **Q3. 경락 기반 치료가 통증에 효과적인가요?**
-네. 메타분석에서 경락 이론 기반의 지압·온침·뜸·침 치료가 원발성 생리통 통증 완화에 NSAIDs나 대기군보다 유의하게 효과적이고 안전한 것으로 나타났습니다.[^9] 경락 변증 기반 전침이 무릎 골관절염 통증·기능을 개선하고,[^19] 균형경락침법이 만성 요통에 즉각적 효과를 보였습니다.[^20]
+네. 메타분석에서 경락 이론 기반의 지압·온침·뜸·침 치료가 원발성 생리통 통증 완화에 NSAIDs나 대기군보다 유의하게 효과적이고 안전한 것으로 나타났습니다.[^9] 경락 변증 기반 전침이 무릎 골관절염 통증·기능을 개선하고,[^19] 균형경락침법이 만성 요통에 즉각적 효과를 보였습니다.[^20] 만성 비특이적 요통에는 온침·전온침·경근 이론 기반 치료가,[^29] 뇌졸중 후 경직 완화에는 화침·경근침이 권장됩니다.[^28]
 
 **Q4. 경락 기반 마사지·지압은 어떤 질환에 유용한가요?**
 복부 경락 마사지는 뇌혈관사고 환자의 변비 개선과[^22] 대장내시경 후 복부 불편감 감소에 효과적이며,[^23] 진짜 혈위 지압은 COPD 환자의 호흡곤란·불안·폐 기능 개선에 유용합니다.[^24] 지압은 생리통·요통·분만통·수술 후 오심 등에도 유익한 근거가 있습니다.[^27]
@@ -118,7 +135,7 @@
 ## 미충족 근거 / 추가 연구 필요
 
 - 경락의 실체와 기전에 대한 연구는 아직 초기 단계로, 생물물리학적 특성·해부학적 구조·신경 기전을 통합한 대규모 연구가 필요하다. 일부 가설(경혈 저저항, 적외선 열화상 시각화)은 반증 연구가 있어,[^13][^17] 표준화된 측정 방법론과 대규모 재현 연구가 요구된다.
-- 경락 단독의 효과를 분리해 검증한 고품질 체계적 고찰·메타분석이 아직 충분하지 않다. 대부분의 임상시험이 경락 이론을 포함한 복합 중재로 설계되어, 경락 이론 자체의 독립적 기여도를 판정하기 어렵다.
+- 경락 단독의 효과를 분리해 검증한 고품질 체계적 고찰·메타분석이 아직 충분하지 않다. 대부분의 임상시험이 경락 이론을 포함한 복합 중재로 설계되어, 경락 이론 자체의 독립적 기여도를 판정하기 어렵다. 다만 최근 뇌졸중 경직·만성 요통·강직성 척추염 등에서 경락·경근 이론 기반 중재를 비교한 네트워크 메타분석이 축적되고 있다.[^28][^29][^30]
 - 경락 변증의 객관화 지표(C-V 곡선·전기전도도 등)는 관찰연구 수준의 근거로,[^7][^21] 진단 정확도와 임상 유용성을 검증하는 전향적 연구가 필요하다.
 - 이미 확인된 경락 기반 치료의 통증 완화·증상 개선 등의 한의학적 가치를 인정하면서, 이를 뒷받침할 표준화된 중재(경락 선택·자극 방식·강도·빈도) 비교 연구를 추가로 제안한다.
 
@@ -149,3 +166,14 @@
 [^25]: Clinical application of acupunctural anesthesia with new combination of acupoints. 증례, 23명. PMID: 15609590. 근거수준: 낮음. 상응 경락 근거리·원위 혈위 조합 침 마취가 뇌 수술에 효과적·안전.
 [^26]: Acupuncture treatment of compression neuropathy of the radial nerve. 증례, 1명. DOI: [10.1089/acm.2005.11.167](https://doi.org/10.1089/acm.2005.11.167). 근거수준: 낮음. 폐경·대장경 원혈·낙혈 조합 침이 손목 하수 완전 회복.
 [^27]: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure. 체계적 고찰. DOI: [10.1186/1472-6882-11-88](https://doi.org/10.1186/1472-6882-11-88). 근거수준: 중등도. 지압이 통증·오심·수면 개선에 유익.
+[^28]: Efficacy of acupuncture-based adjunctive therapies in alleviating spasticity and motor function in patients with post-stroke spasticity. 메타분석, 6180명. DOI: [10.1016/j.ctim.2025.103282](https://doi.org/10.1016/j.ctim.2025.103282). 근거수준: 높음. 경직 완화에 화침·경근침, 운동 기능 회복에 전침 우수.
+[^29]: Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain. 메타분석, 2579명. DOI: [10.1186/s13018-024-05118-8](https://doi.org/10.1186/s13018-024-05118-8). 근거수준: 높음. 만성 요통에 온침·전온침·경근 이론 기반 치료 권장.
+[^30]: Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis. 메타분석. DOI: [10.2147/JPR.S555916](https://doi.org/10.2147/JPR.S555916). 근거수준: 중등도. 독맥구·침 병행이 강직성 척추염 기능 개선.
+[^31]: Clinical Study of Acupotomy for Knee Osteoarthritis Based on the Meridian-Sinew Theory. 임상시험, 124명. DOI: [10.1155/2021/3987002](https://doi.org/10.1155/2021/3987002). 근거수준: 중등도. 경근 이론 기반 도침이 무릎 골관절염에 동등한 효과·안전.
+[^32]: The Use of Wet Cupping for Persistent Nonspecific Low Back Pain. 임상시험, 80명. DOI: [10.1089/acm.2015.0065](https://doi.org/10.1089/acm.2015.0065). 근거수준: 중등도. 방광경 혈위 습식 부항이 만성 요통 개선.
+[^33]: Investigating the Effect of Acupressure on the Patients' Anxiety Before Open-Heart Surgery. 임상시험, 90명. DOI: [10.1016/j.jams.2020.11.001](https://doi.org/10.1016/j.jams.2020.11.001). 근거수준: 중등도. 수술 전 지압이 불안·혈압·심박수 감소.
+[^34]: Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis. 임상시험. DOI: [10.1097/md.0000000000035726](https://doi.org/10.1097/md.0000000000035726). 근거수준: 중등도. 독맥구 요법이 건선 개선.
+[^35]: Meridian studies in China: a systematic review. 체계적 고찰. DOI: [10.1016/S2005-2901(10)60001-5](https://doi.org/10.1016/S2005-2901(10)60001-5). 근거수준: 중등도. 경락 현상의 존재 확인.
+[^36]: Acupuncture for the Treatment of Cardiovascular Diseases: A Systematic Review. 체계적 고찰. DOI: [10.1016/j.jams.2018.07.005](https://doi.org/10.1016/j.jams.2018.07.005). 근거수준: 중등도. 침·전침이 심혈관 질환 증상 개선.
+[^37]: Acupoints Compatibility Rules of Acupuncture for Functional Gastrointestinal Disorders Based on Data Mining Technology. 체계적 고찰. DOI: [10.18502/ijph.v54i8.19568](https://doi.org/10.18502/ijph.v54i8.19568). 근거수준: 중등도. FGIDs에 족양명위경 혈위 핵심 사용.
+[^38]: Scientific exploration and hypotheses concerning the meridian system in traditional Chinese medicine. 고찰. DOI: [10.1097/hm9.0000000000000128](https://doi.org/10.1097/hm9.0000000000000128). 근거수준: 중등도. 경락을 정보 전달 체계로 통합 이해.
