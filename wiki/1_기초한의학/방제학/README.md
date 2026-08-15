@@ -24,6 +24,8 @@
   - 하위 표제어: 당귀작약산 · 토기샤쿠야쿠산(TJ-23) · 가미당귀작약산 · 당귀작약가감술유탕(TJ-38) · 당귀작약산가출계근탕 · 당귀작약탕(Tokito)
 - [반하백출천마탕(半夏白朮天麻湯, Banhabaekchulcheonma-tang / Banxia Baizhu Tianma Decoction)](반하백출천마탕(半夏白朮天麻湯).md)
   - 하위 표제어: 반하백출천마탕 · 가감 반하백출천마탕 · 한게백출천마탕(Hangebyakujutsutemmato) · 반하백출천마탕 병용 요법 · 반하백출천마탕 유사·파생 방제
+- [소요산(逍遙散, Xiaoyao San / Kamishoyosan)](소요산(逍遙散, Xiaoyao San).md)
+  - 하위 표제어: 소요산(逍遙散) · 가미소요산(加味逍遙散, Kamishoyosan TJ-24) · 단지소요산(丹梔逍遙散) · 가감소요산(加減逍遙散) · 소요환(逍遙丸) · 소요산 병용 요법
 
 ## 동음이의 분류
 
