@@ -28,7 +28,7 @@ BASE="https://med.symbolicinfo.com"
 
 ```bash
 # 기존 문서에서 자주 언급되는 경혈·처방·본초 후보 조사 (예시)
-rg -o '내관|삼음교|태충|백회|곡지|풍지|신수' wiki/ -g '*.md' | sort | uniq -c | sort -rn
+rg -o '내관|삼음교|태충(LR3)|백회|곡지|풍지|신수' wiki/ -g '*.md' | sort | uniq -c | sort -rn
 rg -o '육군자탕|반하사심탕|오령산|소청룡탕|가미소요산|갈근탕' wiki/ -g '*.md' | sort | uniq -c | sort -rn
 rg -o '대조|계지|복령|건강|시호|천마|황련|지황' wiki/ -g '*.md' | sort | uniq -c | sort -rn
 ```
