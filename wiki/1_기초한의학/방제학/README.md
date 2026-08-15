@@ -16,6 +16,8 @@
   - 하위 표제어: 반하사심탕 · 가감 반하사심탕 · 한게샤신토(TJ-14) · 반하사심탕 국소 제제(가글·연고) · 사심탕(瀉心湯) 계열 파생 방제
 - [소시호탕(小柴胡湯, Sosihotang / Shosaikoto / Xiaochaihu Decoction)](소시호탕(小柴胡湯).md)
   - 하위 표제어: 소시호탕 · 소시호가감방(소시호가길경석고탕) · 쇼사이코토(TJ-9) · 대시호탕 · 시호계지탕 · 시호계지강탕 · 시호용골모려탕 · 시호제 기타 가감방
+- [대시호탕(大柴胡湯, Dachaihu Decoction / Daisaikoto)](대시호탕(大柴胡湯, Dachaihu Decoction).md)
+  - 하위 표제어: 대시호탕 원방 · 가미대시호탕 · 대시호탕-생강분 병용 · 다이사이코토(TJ-8)
 - [계지복령환(桂枝茯苓丸, Gyejibokryeong-hwan / Keishibukuryogan / Guizhi Fuling Wan)](계지복령환(桂枝茯苓丸).md)
   - 하위 표제어: 계지복령환 · 가미계지복령환 · 계지복령환가욕인(桂枝茯苓丸加薏苡仁) · 계지복령환 병용 요법
 - [소청룡탕(小青龍湯, Socheongryong-tang / Shoseiryuto / Xiaoqinglong Decoction)](소청룡탕(小青龍湯).md)
