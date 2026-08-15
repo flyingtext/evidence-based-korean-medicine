@@ -54,6 +54,10 @@
 - 침(鍼, acupuncture)을 물리치료와 병행하는 것이 물리치료 단독보다 통증 감소 효과가 유의하게 높으며, 스포츠 의학 임상 현장에서 통증 완화를 위해 침 치료의 병행을 고려할 수 있다.[^16]
 - 도구 보조 연부조직 가동술(IASTM)과 추나(推拿) 요법 모두 통증 감소와 기능 개선에 효과적이며, IASTM이 추나 요법에 비해 통증 완화와 기능적 수행 능력 향상 측면에서 더 우수한 단기·중기 효과를 보였다.[^17]
 - 광생체조절술(PBM/LLLT)을 운동 재활과 병행하는 것은 단기적인 통증 완화와 기능 개선에 도움을 줄 수 있으며 안전한 것으로 보인다.[^18]
+- 전방 슬관절 통증 환자에게 스트레칭·근력 강화 운동과 건침 요법을 병행하는 것이 운동 단독 치료보다 통증 감소, 근력 향상 및 기능적 상태 개선에 더 효과적이다.[^19]
+- 대퇴직근(rectus femoris)에 시행한 건침 치료가 전방 무릎 통증을 유의하게 감소시키고 무릎의 기능적 활동 능력을 개선할 수 있으며, 단기 중재 후에도 그 효과가 1년까지 유지된 증례가 보고되었다.[^20]
+- 추나(推拿) 요법은 슬개대퇴관절염 환자의 통증 완화에 있어 히알루론산 주사와 유사한 효과를 보이며, 특히 관절 기능(WOMAC) 개선과 슬개골의 외측 변위(LPD)·일치각(CA) 교정에 더 효과적이다.[^21]
+- 전방 슬관절 통증 환자에게 통상적인 운동 치료와 함께 요골반 교정술(HVLA thrust)을 병행하는 것이 임상적으로 타당한지 평가하는 다기관 파일럿 무작위 대조 시험이 진행 중이다.[^22]
 
 ## 근거 표
 
@@ -85,6 +89,10 @@
 | Feasibility of assessing implicit motor imagery after dry needling in bilateral patellofemoral pain with kinesiophobia | 실험연구 | 10 | 매우 낮음 | 10.1016/j.jbmt.2026.04.021 · PMID 42264814 | 건침 전후 암묵적 운동 심상 평가가 안전·실행 가능. 대규모 RCT로 효능 검증 필요 |
 | An investigation into the effectiveness of dry needling of myofascial trigger points on total work and other recorded measurements of the vastus lateralis and vastus medialis muscles in patellofermoral pain syndrome in long distance runners | 실험연구 | - | 매우 낮음 | 10.51415/10321/169 | 외측광근 유발점 건침이 근육 기능적 일량 개선에 도움, 내·외측광근 균형 회복 가능성 |
 | Optimizing Performance and Recovery: Dry Needling of Myofascial Trigger Points in Sports Medicine | 문헌고찰 | - | 근거 미확인 | 10.12775/qs.2026.53.69749 | 건침이 스포츠 근골격계 질환 통증 감소·기능 회복에 안전·효과적 보조 중재. 운동·부하 관리와 병행 권장 |
+| Effects of trigger point dry needling on pain, strength, and functional status among patients with anterior knee pain: a randomised controlled trial | 임상시험 | 30 | 중등도 | 10.5114/pq/197435 | 전방 슬관절 통증 환자에게 운동+건침 병행이 운동 단독보다 통증 감소·근력·기능 개선에 더 효과적 |
+| Long-term effect of dry needling on rectus femoris in reducing anterior knee pain and improving functional activities – A 1-year case report | 증례 | 1 | 매우 낮음 | 10.4103/sjsm.sjsm_7_24 | 대퇴직근 건침이 전방 무릎 통증 감소·기능 개선, 단기 중재 후 1년까지 효과 유지 |
+| Tuina improves patellofemoral osteoarthritis by alleviating the degree of lateral patellar tilt: a correlation analysis based on a randomized controlled trial | 임상시험 | 126 | 중등도 | 10.1016/j.ctim.2025.103234 · PMID 40858216 | 추나가 슬개대퇴관절염 통증 완화에 히알루론산 주사와 유사, WOMAC·슬개골 정렬(LPD/CA) 개선에 더 효과적 |
+| Lumbopelvic manipulation for anterior knee pain: protocol for a multicenter, pilot randomized controlled trial | 임상시험(프로토콜) | - | 중등도 | 10.1016/j.jbmt.2026.04.017 · PMID 42264829 | 전방 슬관절 통증에 운동+요골반 교정(HVLA) 병행의 타당성 평가 다기관 파일럿 RCT 프로토콜 |
 
 ## 임상 적용
 
@@ -93,6 +101,8 @@
 - 요추·골반 교정은 통증 조절과 근력 강화가 필요한 환자에게 유용하며, 고유수용성·동적 균형 개선 효과는 제한적이므로 운동 요법 등과 병행하는 것이 권장된다.[^14][^15]
 - IASTM은 추나 요법에 비해 통증 완화와 기능적 수행 능력 향상 측면에서 더 우수한 단기·중기 효과를 보여, 가동성 회복과 근력 강화를 위해 적용을 고려할 수 있다.[^17]
 - 광생체조절술(PBM/LLLT)은 운동 재활과 병행 시 단기 통증 완화·기능 개선에 도움을 줄 수 있으며, 개별 프로토콜의 차이를 고려해 표준화된 지침에 기반한 적용이 권장된다.[^18]
+- 전방 슬관절 통증 환자에게는 운동 요법과 건침의 병행이 단독 운동보다 통증·근력·기능 개선에 더 효과적이며, 대퇴직근 건침의 장기 효과(1년)도 보고되어 만성 통증 환자에게 유용하다.[^19][^20]
+- 슬개골 정렬 이상이 동반된 슬개대퇴관절염 환자에게 추나(推拿) 요법이 통증 완화와 슬개골 정렬 교정에 유용하며, 요골반 교정(HVLA) 병행의 임상적 타당성도 평가되고 있다.[^21][^22]
 
 ## 경혈/처방 연관
 
@@ -143,3 +153,7 @@
 [^16]: The efficacy of acupuncture combined with physical therapy compared with physical therapy alone in the conservative treatment of patellofemoral pain in sports medicine clinic. 임상시험, 96명. DOI: [10.58837/chula.the.1997.1169](https://doi.org/10.58837/chula.the.1997.1169). 근거수준: 중등도. 침+물리치료 병행이 물리치료 단독보다 통증 감소 유의. 대퇴사두근 근활동도 향상은 제한적.
 [^17]: A comparative study of the efficacy of instrument-assisted soft tissue mobilization and massage techniques in patients with patellofemoral joint pain. 임상시험, 25명. DOI: [10.3389/fmed.2023.1305733](https://doi.org/10.3389/fmed.2023.1305733) · PMID: 38020090. 근거수준: 중등도. IASTM·추나 모두 통증·기능 개선에 효과적, IASTM이 단기·중기 효과 더 우수.
 [^18]: Efficacy of Adjunctive Photobiomodulation in Patellofemoral Pain Syndrome: A Systematic Review and Meta-Analysis. 메타분석, 162명. DOI: [10.1016/j.arrct.2026.100585](https://doi.org/10.1016/j.arrct.2026.100585) · PMID: 42326590. 근거수준: 중등도. 운동 재활과 PBM 병행이 단기 통증 완화·기능 개선에 도움, 안전. 프로토콜 표준화 필요.
+[^19]: Effects of trigger point dry needling on pain, strength, and functional status among patients with anterior knee pain: a randomised controlled trial. 임상시험, 30명. DOI: [10.5114/pq/197435](https://doi.org/10.5114/pq/197435). 근거수준: 중등도. 전방 슬관절 통증 환자에게 운동+건침 병행이 운동 단독보다 통증 감소·근력·기능 개선에 더 효과적.
+[^20]: Long-term effect of dry needling on rectus femoris in reducing anterior knee pain and improving functional activities – A 1-year case report. 증례, 1명. DOI: [10.4103/sjsm.sjsm_7_24](https://doi.org/10.4103/sjsm.sjsm_7_24). 근거수준: 매우 낮음. 대퇴직근 건침이 전방 무릎 통증 감소·기능 개선, 단기 중재 후 1년까지 효과 유지.
+[^21]: Tuina improves patellofemoral osteoarthritis by alleviating the degree of lateral patellar tilt: a correlation analysis based on a randomized controlled trial. 임상시험, 126명. DOI: [10.1016/j.ctim.2025.103234](https://doi.org/10.1016/j.ctim.2025.103234) · PMID: 40858216. 근거수준: 중등도. 추나가 슬개대퇴관절염 통증 완화에 히알루론산 주사와 유사, WOMAC·슬개골 정렬(LPD/CA) 개선에 더 효과적.
+[^22]: Lumbopelvic manipulation for anterior knee pain: protocol for a multicenter, pilot randomized controlled trial. 임상시험(프로토콜). DOI: [10.1016/j.jbmt.2026.04.017](https://doi.org/10.1016/j.jbmt.2026.04.017) · PMID: 42264829. 근거수준: 중등도. 전방 슬관절 통증에 운동+요골반 교정(HVLA) 병행의 타당성 평가 다기관 파일럿 RCT 프로토콜.
