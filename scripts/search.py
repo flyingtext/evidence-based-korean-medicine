@@ -109,11 +109,9 @@ def main() -> int:
     total = first.get("total", len(items))
 
     lines = [
-        f"# 각주 정의: {args.q}",
-        "",
         f"> 검색어: `{args.q}` · 총 {total}건 · 확보 {len(items)}건 (DOI 중복 제거 후)",
         "",
-        "각주 마커는 본문의 문장별 인용 순서에 맞게 재배정한다.",
+        "각주 마커는 본문의 문장별 인용 순서에 맞게 재배정한다. 문서 끝에 별도의 헤더 없이 각주 정의로 나열한다.",
         "",
     ]
     lines += [footnote_def(i + 1, it) for i, it in enumerate(items)]

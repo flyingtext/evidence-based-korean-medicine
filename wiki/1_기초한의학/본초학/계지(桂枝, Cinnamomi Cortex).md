@@ -70,8 +70,6 @@
 - 계지 함유 처방의 약물 상호작용(CYP 효소) 및 구성 성분 부작용(가성알도스테론증·간 손상)에 대한 장기 안전성 연구가 추가로 요구된다.[^31][^32][^33][^34]
 - 계지 유효 성분(신남알데하이드 등)의 임상 효능은 대부분 실험연구 수준이어서, 인간 대상 고품질 임상 연구가 추가로 요구된다.
 
-## 각주 정의
-
 [^1]: A Proteomic Approach for the Diagnosis of 'Oketsu' (blood stasis), a Pathophysiologic Concept of Japanese Traditional (Kampo) Medicine. 실험연구, 16명. DOI: [10.1093/ecam/nem049](https://doi.org/10.1093/ecam/nem049). 계지복령환 투여로 혈어 점수 감소.
 [^2]: [Clinic utilization of Guizhi decoction in modern times]. 문헌고찰. PMID: [17608234](https://pubmed.ncbi.nlm.nih.gov/17608234/). 계지탕이 다양한 계통 질환에 응용.
 [^3]: Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. 임상시험, 110명. DOI: [10.1142/S0192415X92000333](https://doi.org/10.1142/S0192415X92000333).

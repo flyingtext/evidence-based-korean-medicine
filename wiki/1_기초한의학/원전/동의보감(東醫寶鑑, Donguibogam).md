@@ -104,8 +104,6 @@
 - 동의보감의 해부학적 도해·변증 체계는 고전적 관점에 근거하므로, 현대 실증적 방법론과의 정합성 검증 연구가 추가로 필요하다.[^4][^17]
 - 판본별 텍스트 차이가 임상 적용에 영향을 줄 수 있어, 원전 비판(校勘)과 표준 텍스트 확립을 위한 연구가 필요하다.[^1][^21]
 
-## 각주 정의
-
 [^1]: A bibliographic study on Tongui-bigan with a special reference to its influence on Japan and China. 문헌 고찰. PMID: [12192672](https://pubmed.ncbi.nlm.nih.gov/12192672/). 동의보감의 간행·판본·일본·중국 전파 경로.
 [^2]: Historical Medical Value of Donguibogam. 문헌 고찰. DOI: [10.3831/KPI.2016.19.002](https://doi.org/10.3831/KPI.2016.19.002) · PMID: 27280045. 동의보감의 역사적 의학적 가치와 질병 분류 체계 혁신.
 [^3]: Historical difference between traditional Korean medicine and traditional Chinese medicine. 문헌 고찰. DOI: [10.1179/016164107X172293](https://doi.org/10.1179/016164107X172293) · PMID: 17359633. 동의보감을 통한 한의학 독자적 정체성 확립.

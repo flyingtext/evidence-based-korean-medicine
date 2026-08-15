@@ -128,8 +128,6 @@
 - **한약(변증별)**: 한약이 CFS 증상 개선에 유의미한 효과를 보인다. 기허혈어·기혈양허·간울비허·심비양허·비신양허 변증에 맞춰 인삼양용탕·보중익기탕·십전대보탕·시호계지탕·소시호탕 등을 활용한다.[^3][^16][^26][^37]
 - **이침 금침**: 이침 금침이 기허형 CFS의 면역 기능을 회복한다. 기허 변증 환자에게 이침 요법을 고려할 수 있다.[^38]
 
-## 각주 정의
-
 [^1]: 만성피로증후군의 정의·분류·진단 기준. 교과서적 근거. (KCD-8 G93.3, ME/CFS 통칭)
 [^2]: Traditional Chinese medicine for chronic fatigue syndrome: theoretical foundations, mechanisms, and clinical management approaches. 문헌고찰. DOI: [10.1097/hm9.0000000000000180](https://doi.org/10.1097/hm9.0000000000000180). 한약·침술·마사지가 신경내분비-면역·장내 미생물 조절로 증상 완화.
 [^3]: A Review of Herbal Medicine for the Treatment of Chronic Fatigue Syndrome. 메타분석. DOI: [10.22246/jikm.2024.45.6.1164](https://doi.org/10.22246/jikm.2024.45.6.1164). 한약이 양약·기존 한약보다 CFS 증상 개선에 유의미한 효과.

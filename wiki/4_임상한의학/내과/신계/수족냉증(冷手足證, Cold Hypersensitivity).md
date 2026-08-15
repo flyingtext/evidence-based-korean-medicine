@@ -124,8 +124,6 @@
 - 현재 수족냉증에 대한 다기관 대규모 무작위 대조 시험이 아직 진행 단계(프로토콜)에 있으며, 치료의 장기 효과·재발 예방에 대한 근거가 부족하다. 십전대보탕·전침의 다기관 RCT와 체계적 고찰을 통한 근거 보강이 필요하다.[^6][^23]
 - 수족냉증의 객관적 진단 지표(Toe SBP·TBI·DITI)의 임상 활용 표준화와, 변증 유형별 처방 선택을 뒷받침하는 고품질 연구가 필요하다.[^17][^19]
 
-## 각주 정의
-
 [^1]: Hyunwoo Jee, Hanju Kang. Clinical Course of Three Cases of Cold Hypersensitivity in the Hands and Feet During Combined Magnetic Thermal Acupuncture and Herbal Medicine: A Retrospective Case Report. 증례 보고. Journal of Korean Medicine. DOI: [10.13048/jkm.26032](https://doi.org/10.13048/jkm.26032).
 [^2]: Kwang-Ho Bae, et al. Association Between Cold Hypersensitivity in the Hands and Feet and Gastrointestinal Symptoms: Findings in a Community-Based Cohort Study. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.6.1207](https://doi.org/10.22246/jikm.2024.45.6.1207).
 [^3]: Kwang-Ho Bae, et al. The Relationship between Cold Hypersensitivity in the Hands and Feet and Health-Related Quality of Life in Koreans: A Nationwide Population Survey. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2019/6217036](https://doi.org/10.1155/2019/6217036).

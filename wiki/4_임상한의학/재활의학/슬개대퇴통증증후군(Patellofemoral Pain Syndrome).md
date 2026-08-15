@@ -98,8 +98,6 @@
 - 광생체조절술(PBM/LLLT)의 중재 방법 다양성과 표본 수 부족으로 인해 표준화된 치료 지침에 기반한 대규모 연구가 요구된다.
 - 시술자 간 트리거 포인트 선택·건침 시술 방식·척추 교정 기법의 변이가 커, 표준화된 치료 접근법과의 비교 연구가 필요하다.
 
-## 각주 정의
-
 [^1]: The effectiveness of dry needling in patellofemoral pain syndrome patients: A systematic review and meta-analysis. 메타분석, 466명. DOI: [10.1016/j.jbmt.2025.06.008](https://doi.org/10.1016/j.jbmt.2025.06.008) · PMID: 40954658. 건침이 통증 감소·기능 개선에 효과적, 대퇴사두근·중둔근 3개 트리거 포인트 자극 시 효과 큼. 1~3개월 지속.
 [^2]: 슬개대퇴통증증후군의 한의학적 변증·경혈·한약 적용은 교과서적 임상 이론 및 한정된 증례·문헌 수준. 근거 미확인(표준 한약 처방의 고품질 근거 제한적).
 [^3]: Effects of Trigger Point Dry Needling for the Management of Knee Pain Syndromes: A Systematic Review and Meta-Analysis. 메타분석. DOI: [10.3390/jcm9072044](https://doi.org/10.3390/jcm9072044) · PMID: 32610659. 트리거 포인트 건침이 PFPS 단기 통증 완화·기능 개선에 중등도 효과. 장기 효과 추가 연구 필요.

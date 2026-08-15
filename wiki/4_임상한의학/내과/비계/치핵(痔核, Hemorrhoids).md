@@ -102,8 +102,6 @@
 - **침+한약 병용**: 침과 중약 병용이 단독보다 유효율을 높이고 재발률을 낮춘다. 변증(습열하주·기허하함·혈어·풍열)에 맞춘 한약과 침구를 병용하는 통합 접근이 권장된다.[^19]
 - **상처 치유 촉진**: 편자황 캡슐·연고, 주황상 외용제 등이 수술 후 상처 삼출물 감소·콜라겐 합성 촉진에 유효하다. 수술 후 상처 관리에 외용제를 병용한다.[^8][^18]
 
-## 각주 정의
-
 [^1]: 치핵의 정의·분류·진단 기준. 교과서적 근거. (치상선 기준 내치핵·외치핵·혼합치핵, 내치핵 1~4도 분류)
 [^2]: [Analysis in pulmonary ventilatory function from 100 patients with ano-rectal diseases caused by deficiency of qi]. 관찰연구, 100명. PMID: [11783285](https://pubmed.ncbi.nlm.nih.gov/11783285/). 기허 항문-직장 질환에서 폐환기 기능 저하, 흉기하함 병태생리.
 [^3]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 수술 후 변비에 한약·외용제·침·마사지 유효.

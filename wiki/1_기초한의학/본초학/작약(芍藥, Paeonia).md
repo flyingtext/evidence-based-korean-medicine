@@ -65,8 +65,6 @@
 - 작약 유효 성분(파에오니플로린·알비플로린)의 임상 효능은 대부분 실험연구·소규모 연구 수준이어서, 인간 대상 고품질 임상 연구가 추가로 요구된다.[^31]
 - 작약과 양약(항경련제·항암제·항응고제 등)과의 약물 상호작용에 대한 체계적 연구가 부족하다.[^44][^45]
 
-## 각주 정의
-
 [^1]: Immediate effect of Shakuyaku-kanzo-to on muscle cramp in hemodialysis patients. 임상시험, 71명. DOI: [10.1159/000093256](https://doi.org/10.1159/000093256). 작약감초탕이 투석 중 근경련을 5.3분 내 완화.
 [^2]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with Lumbar Spinal Stenosis and Its Minimum Effective Dose. 임상시험, 58명. PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/). 작약감초탕이 요추관 협착증 근경련에 에페리손보다 효과적.
 [^3]: Clinical assessment of usefulness, effectiveness and safety of jackyakamcho-tang on muscle spasm and pain: a case series. 증례, 81명. DOI: [10.1142/S0192415X04002247](https://doi.org/10.1142/S0192415X04002247).
