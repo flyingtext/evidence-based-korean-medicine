@@ -11,7 +11,7 @@
 - [감초(甘草, Glycyrrhiza)](감초(甘草, Glycyrrhiza).md)
   - 하위 표제어: 감초(甘草, Glycyrrhiza uralensis) · 유럽감초(Glycyrrhiza glabra) · 작약감초탕(芍藥甘草湯) · 감초산(甘草酸) 제제 · 감초 추출물·비강 세척·구강 겔
 - [백출(白朮, Atractylodes)](백출(白朮, Atractylodes).md)
-  - 하위 표제어: 백출(白朮, Atractylodes macrocephala) · 창출(蒼朮, Atractylodes lancea) · 사군자탕(四君子湯) · 육군자탕(六君子湯) · 반하백출천마탕(半夏白朮天麻湯) · 삼령백출산(蔘苓白朮散) · 칠위백출산(七味白朮散)
+  - 하위 표제어: 백출(白朮, Atractylodes macrocephala) · 창출(蒼朮, Atractylodes lancea) · 사군자탕(四君子湯) · 육군자탕(六君子湯) · 반하백출천마탕(半夏白朮天麻湯) · 삼령백출산(蔘苓白朮散) · 칠미백출산(七味白朮散)
 - [당귀(當歸, Angelica sinensis)](당귀(當歸, Angelica sinensis).md)
   - 하위 표제어: 당귀(當歸, Angelica sinensis) · 일당귀/참당귀(Angelica gigas) · 당귀 주사액(Angelica injection) · 당귀작약산(當歸芍藥散) · 당귀보혈탕(當歸補血湯) · 당귀사역탕(當歸四逆湯) · 당귀음자(當歸飲子) · 당귀 유효 성분(페룰산·리구스틸리드)
 - [작약(芍藥, Paeonia)](작약(芍藥, Paeonia).md)

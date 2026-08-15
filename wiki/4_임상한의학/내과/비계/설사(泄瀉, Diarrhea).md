@@ -11,7 +11,7 @@
 
 설사는 원인·병태생리에 따라 여러 하위 유형으로 세분된다. 각 유형은 진단·치료 접근이 다르므로 임상에서 구분하여 접근한다.
 
-- **급성 감염성 설사 (acute infectious diarrhea, KCD-8: A09)**: 세균·바이러스·기생충 감염으로 발생하는 유형. 로타바이러스 위장염·곰팡이성 장염 등이 포함되며, 갈근금련탕(葛根芩連湯)·칠위백출산(七味白朮散) 등이 연구되고 있다.[^4][^5][^6]
+- **급성 감염성 설사 (acute infectious diarrhea, KCD-8: A09)**: 세균·바이러스·기생충 감염으로 발생하는 유형. 로타바이러스 위장염·곰팡이성 장염 등이 포함되며, 갈근금련탕(葛根芩連湯)·칠미백출산(七味白朮散) 등이 연구되고 있다.[^4][^5][^6]
 - **여행자 설사 (traveler's diarrhea, KCD-8: A09)**: 여행 중 오염된 음식·물 섭취로 발생하는 유형. 족삼리(足三里, ST36)·합곡(合谷, LI4) 침 치료가 보고된 바 있다.[^7]
 - **설사형 과민성 장 증후군 (IBS-D, KCD-8: K58.0)**: 복통·팽만감과 설사가 동반되는 유형. 침·지압·이침·한약(곽정탕·통설요방·반하사심탕 등)이 활발히 연구되고 있다.[^8][^9][^10]
 - **만성 기능성 설사 (chronic functional diarrhea, KCD-8: K52.9)**: 기질적 병변이 없이 지속되는 유형. 삼령백출산(蔘苓白朮散)·구관(구관 뜸) 등이 연구되고 있다.[^11][^12]
@@ -83,7 +83,7 @@
 | [Clinical study of acupuncture at force-sensitive acupoints in treatment of diarrhea-predominant irritable bowel syndrome] | 임상시험 | 108 | 중등도 | 10.13702/j.1000-0607.20241084 / 41735072 | 력민혈 침이 IBS-D 증상·삶의 질 개선, 고민감도 혈위 우수 |
 | Acupuncture For The Treatment of Diarrhoea-Predominant Irritable Bowel Syndrome (ATIBS-D): A Pilot Randomized Controlled Trial | 임상시험 | 81 | 중등도 | 10.21203/rs.3.rs-1050148/v1 | IBS-D 침 치료 안전·실행 가능, 혈위 간 차이 없음 |
 | [Randomized controlled clinical study on effect of Chinese compound changjitai in treating diarrheic irritable bowel syndrome] | 임상시험 | 45 | 중등도 | - / 14666762 | 장제태(CJT)가 설사형 IBS 대변·배변·복통 개선, 부작용 없음 |
-| Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder | 임상시험 | 83 | 중등도 | 10.3748/wjg.v7.i5.735 / 11819866 | 칠위백출산이 소아 로타바이러스 위장염 설사·바이러스 배출 기간 단축 |
+| Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder | 임상시험 | 83 | 중등도 | 10.3748/wjg.v7.i5.735 / 11819866 | 칠미백출산이 소아 로타바이러스 위장염 설사·바이러스 배출 기간 단축 |
 | [Clinical study on treatment of infantile rotaviral enteritis with Psidium guajava L] | 임상시험 | 62 | 중등도 | - / 11938857 | 구아바 잎 오일이 영유아 로타바이러스 장염 설사 중단 시간 단축 |
 | Clinical therapeutic effect of drug-separated moxibustion on chronic diarrhea and its immunologic mechanisms | 임상시험 | 47 | 중등도 | - / 10437206 | 약물분리 뜸이 만성 설사 유효율·면역 조절 개선 |
 | Influencing Mechanism of Cupping Moxibustion on Gastrointestinal Function and Immune Function in Patients with Functional Diarrhea | 임상시험 | 51 | 중등도 | 10.14715/cmb/2022.68.6.16 / 36227672 | 구관 뜸+몬모릴로나이트 병행이 기능성 설사 개선 |
@@ -106,7 +106,7 @@
 
 ## 임상 적용
 
-- 급성 감염성 설사에는 갈근금련탕(葛根芩連湯)을 서양의학적 치료와 병용하여 증상 기간·염증을 줄일 수 있고, 소아에서는 칠위백출산·구아바 잎 오일·한약 병용을 고려할 수 있다.[^4][^5][^6]
+- 급성 감염성 설사에는 갈근금련탕(葛根芩連湯)을 서양의학적 치료와 병용하여 증상 기간·염증을 줄일 수 있고, 소아에서는 칠미백출산·구아바 잎 오일·한약 병용을 고려할 수 있다.[^4][^5][^6]
 - 설사형 과민성 장 증후군(IBS-D)에는 침(특히 력민혈)·자가 지압·이침 지압·곽정탕·통설요방·반하사심탕 등을 단독 또는 병행하여 증상과 삶의 질을 개선할 수 있다.[^9][^21][^22][^23][^24]
 - 만성 기능성 설사에는 삼령백출산(蔘苓白朮散)·구관 뜸을 적용할 수 있다.[^11][^12]
 - 항암제 유발 설사에는 반하사심탕(이리노테칸)·가감사신탕(TKI)을 보조 요법으로 고려할 수 있다.[^13][^14]
@@ -116,7 +116,7 @@
 ## 경혈/처방 연관
 
 - 경혈: 설사에서 족삼리(足三里, ST36)·합곡(合谷, LI4)·천추(天樞, ST25)·기해(氣海, CV6)·관원(關元, CV4)·중완(中脘, CV12)·장강(長强, GV-1) 등이 공통적으로 사용되며, 이침으로는 대장(大腸)·소장(小腸)·내분비(內分泌)·폐(肺)·신문(神門) 등이 활용된다.[^7][^24][^27][^28]
-- 약재/처방: 갈근금련탕(葛根芩連湯)·삼령백출산(蔘苓白朮散)·반하사심탕(半夏瀉心湯)·곽정탕(藿正湯)·통설요방(痛瀉要方)·건비온신탕(健脾溫腎湯)·가감사신탕(加減四神湯)·진무탕(眞武湯)·칠위백출산(七味白朮散) 등이 보고된 바 있다.[^4][^5][^9][^11][^13][^14][^19]
+- 약재/처방: 갈근금련탕(葛根芩連湯)·삼령백출산(蔘苓白朮散)·반하사심탕(半夏瀉心湯)·곽정탕(藿正湯)·통설요방(痛瀉要方)·건비온신탕(健脾溫腎湯)·가감사신탕(加減四神湯)·진무탕(眞武湯)·칠미백출산(七味白朮散) 등이 보고된 바 있다.[^4][^5][^9][^11][^13][^14][^19]
 
 ## Q&A
 
@@ -130,7 +130,7 @@
 반하사심탕(半夏瀉心湯)은 이리노테칸 유발 설사의 중증도를 낮추고 3~4등급 중증 설사 발생률을 줄이며,[^13] 가감사신탕(加減四神湯)은 TKI 유발 설사에 몬모릴로나이트보다 효과적입니다.[^14] 항암 치료 중 설사 조절이 어려운 환자에게 보조 요법으로 고려할 수 있습니다.
 
 **Q4. 급성 감염성 설사에 한약이 도움이 되나요?**
-갈근금련탕(葛根芩連湯)은 감염성 설사에서 서양의학적 치료와 병용 시 임상 유효성이 높고 설사·복통·발열 지속 기간을 단축시키며 염증 지표(IL-6, TNF-α)를 감소시킵니다.[^4] 소아 로타바이러스 위장염에는 칠위백출산·구아바 잎 오일·한약 병용이 설사 기간을 단축시킵니다.[^5][^6]
+갈근금련탕(葛根芩連湯)은 감염성 설사에서 서양의학적 치료와 병용 시 임상 유효성이 높고 설사·복통·발열 지속 기간을 단축시키며 염증 지표(IL-6, TNF-α)를 감소시킵니다.[^4] 소아 로타바이러스 위장염에는 칠미백출산·구아바 잎 오일·한약 병용이 설사 기간을 단축시킵니다.[^5][^6]
 
 **Q5. 만성 기능성 설사에는 어떤 한의 중재가 효과적인가요?**
 삼령백출산(蔘苓白朮散)은 만성 설사 환자의 증상 완화·환자 만족도를 높이는 데 효과적이며 이상반응 증가가 없습니다.[^11] 구관(구관 뜸) 요법은 몬모릴로나이트와 병행 시 설사 횟수 감소·위장관 호르몬 조절·면역 기능 개선에 더 효과적입니다.[^12]
@@ -146,7 +146,7 @@
 [^2]: 설사의 한의학적 변증·경혈·한약 적용은 교과서적 임상 이론 및 한정된 증례·문헌 수준. 근거 미확인(표준 한약 처방의 고품질 근거 제한적).
 [^3]: Traditional Chinese Medicine for the Treatment of Diarrhea. 문헌고찰. DOI: [10.53469/jcmp.2025.07(09).12](https://doi.org/10.53469/jcmp.2025.07(09).12). 근거수준: 낮음. 중의학이 설사 증상 완화·예방·재활에 강점.
 [^4]: Gegen Qinlian Decoction Combined with Conventional Western Medicine for the Treatment of Infectious Diarrhea: A Systematic Review and Trial Sequential Analysis. 체계적 고찰, 1240명. DOI: [10.1159/000540793](https://doi.org/10.1159/000540793) · PMID: 39137735. 근거수준: 높음. 갈근금련탕 병용이 감염성 설사 유효성·증상 기간·염증 지표 개선.
-[^5]: Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder. 임상시험, 83명. DOI: [10.3748/wjg.v7.i5.735](https://doi.org/10.3748/wjg.v7.i5.735) · PMID: 11819866. 근거수준: 중등도. 칠위백출산이 소아 로타바이러스 위장염 설사·바이러스 배출 기간 단축.
+[^5]: Treatment of rotaviral gastroenteritis with Qiwei Baizhu powder. 임상시험, 83명. DOI: [10.3748/wjg.v7.i5.735](https://doi.org/10.3748/wjg.v7.i5.735) · PMID: 11819866. 근거수준: 중등도. 칠미백출산이 소아 로타바이러스 위장염 설사·바이러스 배출 기간 단축.
 [^6]: [Clinical study on treatment of infantile rotaviral enteritis with Psidium guajava L]. 임상시험, 62명. PMID: [11938857](https://pubmed.ncbi.nlm.nih.gov/11938857/). 근거수준: 중등도. 구아바 잎 오일이 영유아 로타바이러스 장염 설사 중단 시간 단축.
 [^7]: Symptomatic Treatment of Acute Traveler's Diarrhea With Acupuncture at Stomach 36 (ST36) and Large Intestine 4 (LI4) Acupuncture Points. 증례, 1명. DOI: [10.7759/cureus.81136](https://doi.org/10.7759/cureus.81136) · PMID: 40276412. 근거수준: 낮음. 족삼리·합곡(LI4) 침이 여행자 설사 빈도·중증도 개선.
 [^8]: A systematic review of alternative therapies in the irritable bowel syndrome. 체계적 고찰. DOI: [10.1001/archinte.163.3.265](https://doi.org/10.1001/archinte.163.3.265) · PMID: 12578506. 근거수준: 중등도. IBS에 중의학·심리 치료 잠재적 유용성.
