@@ -48,7 +48,9 @@ nav:
   - 최근 업데이트: 최근업데이트.md
   - 기초한의학:
       - 개요: 1_기초한의학/README.md
-      - 원전: 1_기초한의학/원전/README.md
+      - 원전:
+          - 개요: 1_기초한의학/원전/README.md
+          - 동의보감(東醫寶鑑, Donguibogam): 1_기초한의학/원전/동의보감(東醫寶鑑, Donguibogam).md
       - 진단학:
           - 개요: 1_기초한의학/진단학/README.md
           - 설진(舌診, Tongue Diagnosis): 1_기초한의학/진단학/설진(舌診, Tongue Diagnosis).md
