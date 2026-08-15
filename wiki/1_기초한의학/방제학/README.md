@@ -40,6 +40,14 @@
   - 하위 표제어: 반하후박탕(半夏厚朴湯) · 가감 반하후박탕(加減半夏厚朴湯) · 한게코보쿠토(Hangekobokuto, TJ-16) · 반하후박탕 병용 요법 · 반하후박탕 유사·파생 방제
 - [생맥산(生脈散, Shengmai San / Shengmai Injection)](생맥산(生脈散, Shengmai San).md)
   - 하위 표제어: 생맥산(生脈散) · 생맥주사(生脈注射液, Shengmai Injection) · 생맥액(生脈液, Shengmai Liquid) · 생맥캡슐(生脈膠囊) · 생맥음(生脈陰) · 가감생맥산(加減生脈散) · 병용 요법
+- [십전대보탕(十全大補湯, Sipjeondaebo-tang / Juzentaihoto)](십전대보탕(十全大補湯).md)
+  - 하위 표제어: 십전대보탕(十全大補湯) · 주젠타이호토(Juzentaihoto, TJ-48) · 가미십전대보탕(加味十全大補湯) · 시취안다부탕(Shi-quan-da-bu-tang, SQT)
+- [이진탕(二陳湯, Ijintang / Er Chen Tang)](이진탕(二陳湯).md)
+  - 하위 표제어: 이진탕(二陳湯) · 가미이진탕(加味二陳湯) · 이진탕 병용 요법
+- [영계출감탕(苓桂朮甘湯, Yeonggyechulgam-tang / Lingguizhugan Decoction)](영계출감탕(苓桂朮甘湯).md)
+  - 하위 표제어: 영계출감탕(苓桂朮甘湯) · 료케이쥬츠칸토(Ryokeijutsukanto) · 영계출감탕 병용 요법
+- [오적산(五積散, Ojeok-san / Goshakusan)](오적산(五積散).md)
+  - 하위 표제어: 오적산(五積散) · 오적산 병용 요법 · 오적산 약물 상호작용
 
 ## 동음이의 분류
 
