@@ -92,7 +92,7 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | The Korean Medicine phenotype as an adjunctive risk factor of Metabolic syndrome: A prospective observational cohort study | 관찰연구 | 1,997 | 높음 | 10.21203/rs.3.rs-2278278/v1 | 태음인-열형 표현형이 대사증후군 위험과 밀접한 연관 |
-| Manifestations of Sasang Typology according to Common Chronic Diseases in Koreans | 관찰연구 | 248 | 중간 | 10.1155/2018/7378608 | 당뇨·고혈압에서 태음인적 특성 강함 |
+| Manifestations of Sasang Typology according to Common Chronic Diseases in Koreans | 관찰연구 | 248 | 중등도 | 10.1155/2018/7378608 | 당뇨·고혈압에서 태음인적 특성 강함 |
 | A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders in Korea | 체계적 고찰 | - | 높음 | 10.1089/acm.2016.0177 | 태음인 대사질환, 소음인 IBS 취약성 |
 | Genetic and Environmental Overlaps Among Sasang Constitution Types: A Multivariate Twin Study | 관찰연구 | 1,742 | 높음 | 10.1017/thg.2018.56 | 태음인·소음인 체질의 유전적 영향력 높음 |
 | Predicting type 2 diabetes using Sasang constitutional medicine | 관찰연구 | 2,460 | 높음 | 10.1111/jdi.12189 | 태음인이 비만도와 무관하게 당뇨 위험 높음 |
@@ -100,28 +100,28 @@
 | The prevalence of general and abdominal obesity according to sasang constitution | 관찰연구 | 3,348 | 높음 | 10.1186/1472-6882-14-298 | 체질별 일반·복부 비만 유병률 차이 |
 | Psychological Profile of Sasang Typology: A Systematic Review | 체계적 고찰 | - | 높음 | 10.1093/ecam/nep079 | 소양인 외향성, 소음인 신경증 높음 |
 | A genome-wide scan for the Sasang constitution in a Korean family | 관찰연구 | 350 | 높음 | 10.1089/acm.2009.0067 | 8q11·11q22 염색체 영역과 체질 연관 |
-| Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and 1H NMR-Based Metabolomics Study | 실험연구 | - | 중간 | 10.1155/2019/8783496 | 태음인 젖산·글루탐산·중성지방 높음 |
-| Energy metabolism and whole-exome sequencing-based analysis of Sasang constitution: a pilot study | 실험연구 | 31 | 중간 | 10.1016/j.imr.2017.03.002 | 태음인 ATP 산소소비율 낮음, 소양인 콜레스테롤 낮음 |
-| Thermoregulatory Responses to Graded Exercise Differ among Sasang Types | 관찰연구 | 304 | 중간 | 10.1155/2015/879272 | 태음인이 열 스트레스에 취약 |
+| Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and 1H NMR-Based Metabolomics Study | 실험연구 | - | 중등도 | 10.1155/2019/8783496 | 태음인 젖산·글루탐산·중성지방 높음 |
+| Energy metabolism and whole-exome sequencing-based analysis of Sasang constitution: a pilot study | 실험연구 | 31 | 중등도 | 10.1016/j.imr.2017.03.002 | 태음인 ATP 산소소비율 낮음, 소양인 콜레스테롤 낮음 |
+| Thermoregulatory Responses to Graded Exercise Differ among Sasang Types | 관찰연구 | 304 | 중등도 | 10.1155/2015/879272 | 태음인이 열 스트레스에 취약 |
 | Sasangin diagnosis questionnaire: test of reliability | 관찰연구 | 511 | 높음 | 10.1089/acm.2006.5293 | SDQ 신뢰도 검증 |
-| Validity of Yin-Yang temperament in Sasang Personality Questionnaire | 관찰연구 | 247 | 중간 | 10.1016/j.imr.2018.01.001 | SPQ 재측정 신뢰도 높음 |
-| Development and validation of a personality assessment instrument for traditional korean medicine: sasang personality questionnaire | 실험연구 | 245 | 중간 | 10.1155/2012/657013 | SPQ 개발·타당도 검증 |
-| Machine Learning Applications for the Development of a Questionnaire to Identify Sasang Constitution Typology | 실험연구 | - | 중간 | 10.3390/ijerph191811820 | 머신러닝 기반 설문 항목 47개 도출 |
-| Modification of the Integrated Sasang Constitutional Diagnostic Model | 실험연구 | - | 중간 | 10.1155/2017/9180159 | 진단 모델이 남성 소양인·여성 소음인 민감도 개선 |
-| Development of an integrated Sasang constitution diagnosis method using face, body, and voice | 실험연구 | - | 중간 | 10.1186/1472-6882-12-85 | 얼굴·체형·음성 통합 진단법 |
+| Validity of Yin-Yang temperament in Sasang Personality Questionnaire | 관찰연구 | 247 | 중등도 | 10.1016/j.imr.2018.01.001 | SPQ 재측정 신뢰도 높음 |
+| Development and validation of a personality assessment instrument for traditional korean medicine: sasang personality questionnaire | 실험연구 | 245 | 중등도 | 10.1155/2012/657013 | SPQ 개발·타당도 검증 |
+| Machine Learning Applications for the Development of a Questionnaire to Identify Sasang Constitution Typology | 실험연구 | - | 중등도 | 10.3390/ijerph191811820 | 머신러닝 기반 설문 항목 47개 도출 |
+| Modification of the Integrated Sasang Constitutional Diagnostic Model | 실험연구 | - | 중등도 | 10.1155/2017/9180159 | 진단 모델이 남성 소양인·여성 소음인 민감도 개선 |
+| Development of an integrated Sasang constitution diagnosis method using face, body, and voice | 실험연구 | - | 중등도 | 10.1186/1472-6882-12-85 | 얼굴·체형·음성 통합 진단법 |
 | A practical approach to Sasang constitutional diagnosis using vocal features | 실험연구 | 2,341 | 높음 | 10.1186/1472-6882-13-307 | 음성 기반 실용 진단 타당도 |
 | Body Mass Index and Facial Cues in Sasang Typology for Young and Elderly Persons | 관찰연구 | 911 | 높음 | 10.1155/2011/749209 | 태음인 각진 얼굴·높은 BMI |
-| Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang | 임상시험 | - | 중간 | 10.3109/08923970009016414 | 율다한소탕이 뇌경색 사이토카인·증상 개선 |
-| Regulation of TH1/TH2 cytokine production by Chungsim-Yeunja-Tang in patients with stroke | 임상시험 | - | 중간 | 10.1081/iph-120018281 | 청심연자탕이 TH1/TH2 조절 |
-| Yangkyuk-Sanhwa-Tang induces changes in serum cytokines and improves outcome in stroke | 임상시험 | - | 중간 | 10.1016/s1537-1891(02)00217-3 | 양격산화탕이 뇌경색 예후 개선 |
+| Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang | 임상시험 | - | 중등도 | 10.3109/08923970009016414 | 율다한소탕이 뇌경색 사이토카인·증상 개선 |
+| Regulation of TH1/TH2 cytokine production by Chungsim-Yeunja-Tang in patients with stroke | 임상시험 | - | 중등도 | 10.1081/iph-120018281 | 청심연자탕이 TH1/TH2 조절 |
+| Yangkyuk-Sanhwa-Tang induces changes in serum cytokines and improves outcome in stroke | 임상시험 | - | 중등도 | 10.1016/s1537-1891(02)00217-3 | 양격산화탕이 뇌경색 예후 개선 |
 | Randomized Clinical Trials of Constitutional Acupuncture: A Systematic Review | 체계적 고찰 | - | 높음 | 10.1093/ecam/nep085 | 체질침이 파킨슨병·통증에 효과 가능 |
-| A Machine Learning Approach for Recommending Herbal Formulae with Enhanced Interpretability and Applicability | 실험연구 | - | 중간 | 10.3390/biom12111604 | 체질·증상 기반 처방 추천 모델 |
+| A Machine Learning Approach for Recommending Herbal Formulae with Enhanced Interpretability and Applicability | 실험연구 | - | 중등도 | 10.3390/biom12111604 | 체질·증상 기반 처방 추천 모델 |
 | A Case Report of Autonomic Dysfunction and Fibromyalgia with Diabetes: Korean Medicine Treatment in a So-eum Type Patient | 증례 | 1 | 낮음 | 10.22246/jikm.2024.45.5.1054 | 소음인 복합 통증에 대건중탕 등 유효 |
 | A Case Study of Buerger's Disease of Soeumin with Lower Extremity Coldness | 증례 | 1 | 낮음 | 10.22246/jikm.2023.44.4.741 | 소음인 하지 냉증 동반 버거병 개선 |
-| Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream | 임상시험 | 21 | 중간 | 10.1016/j.imr.2021.100752 | 체질 기반 한방 크림의 주름 개선 |
-| Sasang Constitution May Act as a Risk Factor for Depressive Symptoms | 관찰연구 | 653 | 중간 | 10.3390/healthcare10081548 | 체질이 우울 증상 위험 인자 |
-| Life guidelines of the Sasang constitutional medicine in the management of Mibyeong | 문헌고찰 | - | 중간 | 10.1111/j.1447-0594.2004.00205.x | 미병 관리 관점의 체질별 생활 지침 |
-| Effects of Lifestyle Modification on Sasang Constitution Classification | 실험연구 | 124 | 중간 | 10.15758/ajk.2025.27.1.37 | 체질 기반 생활 습관 개선 효과 |
+| Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream | 임상시험 | 21 | 중등도 | 10.1016/j.imr.2021.100752 | 체질 기반 한방 크림의 주름 개선 |
+| Sasang Constitution May Act as a Risk Factor for Depressive Symptoms | 관찰연구 | 653 | 중등도 | 10.3390/healthcare10081548 | 체질이 우울 증상 위험 인자 |
+| Life guidelines of the Sasang constitutional medicine in the management of Mibyeong | 문헌고찰 | - | 중등도 | 10.1111/j.1447-0594.2004.00205.x | 미병 관리 관점의 체질별 생활 지침 |
+| Effects of Lifestyle Modification on Sasang Constitution Classification | 실험연구 | 124 | 중등도 | 10.15758/ajk.2025.27.1.37 | 체질 기반 생활 습관 개선 효과 |
 
 ## 경혈/처방 연관
 

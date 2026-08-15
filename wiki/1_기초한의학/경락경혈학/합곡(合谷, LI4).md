@@ -47,36 +47,36 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | Unveiling the latest evidence: an updated systematic review and meta-analysis and GRADE assessment on the effectiveness of acupressure in managing labor pain | 메타분석 | - | 높음 | 10.1186/s12906-025-04908-9 · PMID 40349040 | 지압이 분만통 완화에 효과적 비약물 중재. 삼음교(SP6) 자극이 유의. 근거수준 중등도~낮음 |
-| fMRI study of acupuncture-induced periaqueductal gray activity in humans | 실험연구 | 7 | 중간 | 10.1097/00001756-200408260-00021 · PMID 15305141 | 합곡혈 자극이 통증 조절 핵심인 PAG 활성화. 지속적 자극 필요 시사 |
-| Commonality and Specificity of Acupuncture Action at Three Acupoints as Evidenced by fMRI | 실험연구 | 46 | 중간 | 10.1142/s0192415x12500528 | 합곡·족삼리·태충이 변연계 네트워크 공통 억제 + 혈위별 특이 뇌 반응 |
-| A pilot study of functional magnetic resonance imaging of the brain during manual and electroacupuncture stimulation of acupuncture point (LI-4 Hegu) | 실험연구 | 11 | 중간 | 10.1089/107555302760253603 · PMID 12230901 | 수동 침과 전침이 합곡혈에서 서로 다른 뇌 영역 활성화. 자극법별 기전 차이 |
-| Specification Acupuncture Points Li4 and Sp6 in Postpartum Sectio Caesarea Pain | 임상시험 | 34 | 중간 | 10.36456/embrio.v15i2.7281 | 제왕절개술 후 합곡·삼음교 침이 통증 감소에 효과적. 비약물 보완 요법 |
-| Acupuncture at points LI4 and SP6 on Postpartum Sectio Caesarea (SC) Pain | 임상시험 | 60 | 중간 | 10.21070/acopen.8.2023.6980 | 제왕절개술 후 합곡·삼음교 30분 침이 통증 강도 유의 감소 |
-| Effects of LI4 and BL67 acupressure on labor pain and uterine contractions in the first stage of labor | 임상시험 | 127 | 중간 | 10.1097/01.jnr.0000347644.35251.c1 · PMID 14685931 | 분만 1기 합곡·곤륜 지압이 분만통 유의 감소. 자궁수축엔 무영향(안전) |
-| Analgesic effects of acupuncture on pain after mandibular wisdom tooth extraction | 임상시험 | 44 | 중간 | 10.3727/036012900816356172 · PMID 10968648 | 사랑니 발치 시 합곡·하관·협차 전침이 수술 후 통증 유의 감소 |
-| Effect of Acupuncture on Perception Threshold: A Randomised Controlled Trial | 임상시험 | 98 | 중간 | 10.1136/acupmed-2011-010055 | 합곡혈 침이 안면부 지각 역치 유의 상승. 원격 진통 근거 |
-| The impact of site specificity and needle manipulation on changes to pain pressure threshold following manual acupuncture | 임상시험 | 13 | 중간 | 10.1016/s0965-2299(02)00116-4 · PMID 12667970 | 합곡혈 수동 자극이 압통 역치를 가장 광범위하게 상승. 수기 조작 병행 권장 |
-| Transcutaneous Electrical Acupoint Stimulation Improved Preoperative Blood Pressure in Gynecological Malignant Tumor Patients With Hypertension | 임상시험 | 91 | 중간 | 10.3389/fonc.2022.906528 | 합곡·내관 TEAS가 수술 전 혈압 상승 억제, 고혈압 발생률 유의 감소 |
-| Transcutaneous electrical acupoint stimulation before induction of anesthesia reduces sufentanil-induced cough | 임상시험 | 300 | 중간 | 10.22514/sv.2021.024 | 100Hz TEAS(합곡/내관, 족삼리/삼음교)가 수펜타닐 유발 기침 유의 감소 |
-| Effect of self-acupressure on fatigue in patients with multiple sclerosis | 임상시험 | 123 | 중간 | 10.1016/j.ctcp.2022.101572 · PMID 35316705 | 합곡·삼음교·족삼리 자가 지압이 다발성 경화증 피로 유의 감소 |
-| Effects of acupressure on dyspnea and anxiety in patients with chronic obstructive pulmonary disease | 임상시험 | 60 | 중간 | 10.1016/j.explore.2026.103326 · PMID 41616683 | 합곡(LI4)·내관(HT7)·족삼리(ST36) 지압이 호흡곤란·불안 유의 감소 |
-| The effect of acupressure on pain, menstrual symptoms, and comfort in adolescents with primary dysmenorrhea | 임상시험 | 56 | 중간 | 10.1186/s12906-025-04965-0 · PMID 40605053 | 청소년 생리통에 합곡·족삼리·삼음교 자가 지압이 통증·증상·안위 개선 |
-| Hato Point Acupressure Therapy on Reducing the Intensity of Dysmenorrhea in Adolescents | 임상시험 | 62 | 중간 | 10.31983/jnj.v9i2.13288 | 합곡·족삼리·태충·삼음교 지압이 청소년 월경통 강도 유의 감소 |
-| The effect of acupressure on postpartum pain and comfort after cesarean delivery | 임상시험 | 60 | 중간 | 10.1080/03630242.2024.2428793 · PMID 39532534 | 합곡·삼음교·내관 지압이 산후 통증 감소, 안위 수준 상승 |
-| Hegu point acupressure for cannulation pain across fistula sites | 임상시험 | 131 | 중간 | 10.1016/j.explore.2026.103324 · PMID 41570661 | 합곡혈 지압이 혈액투석 천자 통증 유의 감소, Brescia-Cimino 부위 최대 |
-| Pharmacodynamic basis of gabapentin combined with Hegu-point catgut embedding for post-herpetic neuralgia | 임상시험 | 210 | 중간 | 10.36721/PJPS.2026.39.5.152.1 · PMID 41934298 | 가바펜틴+합곡혈 매선 병행이 통증·수면·염증 사이토카인 조절에 우수 |
-| Ice massage for the reduction of labor pain | 임상시험 | - | 중간 | 10.1016/s1526-9523(03)00277-0 · PMID 14526344 | 분만 중 합곡혈 아이스 마사지가 통증 유의 감소. 비침습 비약물법 |
-| Laser acupuncture versus oral glucose administration for pain prevention in term neonates | 임상시험 | 96 | 중간 | 10.1177/09645284211009544 | 합곡혈 레이저 침이 경구 포도당 대비 비열등성 입증 못함(부족) |
-| Lack of Effect of Acupuncture on Electromyo-Graphic (Emg) Activity | 임상시험 | 30 | 중간 | 10.1136/aim.24.2.55 | 합곡·수삼리 침이 손목 신근 근전도 활성에 즉각 유의 변화 없음 |
-| Effect of electroacupuncture and transcutaneous electrical nerve stimulation at Hegu (LI.4) on the cutaneous reflex | 실험연구 | 13 | 중간 | 10.3727/036012902816025951 · PMID 12638739 | 합곡혈 2Hz 전침·TENS가 피부반사 억제 파형 잠복기 연장(척수상위 작용) |
-| Effect of manual acupuncture and transcutaneous electrical nerve stimulation on the H-reflex | 실험연구 | 13 | 중간 | 10.3727/036012901816355884 · PMID 11841109 | 합곡혈 2Hz·100Hz TENS가 H-반사 진폭 증가로 척수 흥분성 조절 |
-| Somatosensory Stimulation (Acupuncture) Modulates Spinal and Supraspinal Motor Neuron Excitability | 실험연구 | - | 중간 | 10.5772/intechopen.1002498 | 합곡혈 자극이 뇌간·대뇌피질 포함 상위척수계로 운동신경 반사 억제 |
+| fMRI study of acupuncture-induced periaqueductal gray activity in humans | 실험연구 | 7 | 중등도 | 10.1097/00001756-200408260-00021 · PMID 15305141 | 합곡혈 자극이 통증 조절 핵심인 PAG 활성화. 지속적 자극 필요 시사 |
+| Commonality and Specificity of Acupuncture Action at Three Acupoints as Evidenced by fMRI | 실험연구 | 46 | 중등도 | 10.1142/s0192415x12500528 | 합곡·족삼리·태충이 변연계 네트워크 공통 억제 + 혈위별 특이 뇌 반응 |
+| A pilot study of functional magnetic resonance imaging of the brain during manual and electroacupuncture stimulation of acupuncture point (LI-4 Hegu) | 실험연구 | 11 | 중등도 | 10.1089/107555302760253603 · PMID 12230901 | 수동 침과 전침이 합곡혈에서 서로 다른 뇌 영역 활성화. 자극법별 기전 차이 |
+| Specification Acupuncture Points Li4 and Sp6 in Postpartum Sectio Caesarea Pain | 임상시험 | 34 | 중등도 | 10.36456/embrio.v15i2.7281 | 제왕절개술 후 합곡·삼음교 침이 통증 감소에 효과적. 비약물 보완 요법 |
+| Acupuncture at points LI4 and SP6 on Postpartum Sectio Caesarea (SC) Pain | 임상시험 | 60 | 중등도 | 10.21070/acopen.8.2023.6980 | 제왕절개술 후 합곡·삼음교 30분 침이 통증 강도 유의 감소 |
+| Effects of LI4 and BL67 acupressure on labor pain and uterine contractions in the first stage of labor | 임상시험 | 127 | 중등도 | 10.1097/01.jnr.0000347644.35251.c1 · PMID 14685931 | 분만 1기 합곡·곤륜 지압이 분만통 유의 감소. 자궁수축엔 무영향(안전) |
+| Analgesic effects of acupuncture on pain after mandibular wisdom tooth extraction | 임상시험 | 44 | 중등도 | 10.3727/036012900816356172 · PMID 10968648 | 사랑니 발치 시 합곡·하관·협차 전침이 수술 후 통증 유의 감소 |
+| Effect of Acupuncture on Perception Threshold: A Randomised Controlled Trial | 임상시험 | 98 | 중등도 | 10.1136/acupmed-2011-010055 | 합곡혈 침이 안면부 지각 역치 유의 상승. 원격 진통 근거 |
+| The impact of site specificity and needle manipulation on changes to pain pressure threshold following manual acupuncture | 임상시험 | 13 | 중등도 | 10.1016/s0965-2299(02)00116-4 · PMID 12667970 | 합곡혈 수동 자극이 압통 역치를 가장 광범위하게 상승. 수기 조작 병행 권장 |
+| Transcutaneous Electrical Acupoint Stimulation Improved Preoperative Blood Pressure in Gynecological Malignant Tumor Patients With Hypertension | 임상시험 | 91 | 중등도 | 10.3389/fonc.2022.906528 | 합곡·내관 TEAS가 수술 전 혈압 상승 억제, 고혈압 발생률 유의 감소 |
+| Transcutaneous electrical acupoint stimulation before induction of anesthesia reduces sufentanil-induced cough | 임상시험 | 300 | 중등도 | 10.22514/sv.2021.024 | 100Hz TEAS(합곡/내관, 족삼리/삼음교)가 수펜타닐 유발 기침 유의 감소 |
+| Effect of self-acupressure on fatigue in patients with multiple sclerosis | 임상시험 | 123 | 중등도 | 10.1016/j.ctcp.2022.101572 · PMID 35316705 | 합곡·삼음교·족삼리 자가 지압이 다발성 경화증 피로 유의 감소 |
+| Effects of acupressure on dyspnea and anxiety in patients with chronic obstructive pulmonary disease | 임상시험 | 60 | 중등도 | 10.1016/j.explore.2026.103326 · PMID 41616683 | 합곡(LI4)·내관(HT7)·족삼리(ST36) 지압이 호흡곤란·불안 유의 감소 |
+| The effect of acupressure on pain, menstrual symptoms, and comfort in adolescents with primary dysmenorrhea | 임상시험 | 56 | 중등도 | 10.1186/s12906-025-04965-0 · PMID 40605053 | 청소년 생리통에 합곡·족삼리·삼음교 자가 지압이 통증·증상·안위 개선 |
+| Hato Point Acupressure Therapy on Reducing the Intensity of Dysmenorrhea in Adolescents | 임상시험 | 62 | 중등도 | 10.31983/jnj.v9i2.13288 | 합곡·족삼리·태충·삼음교 지압이 청소년 월경통 강도 유의 감소 |
+| The effect of acupressure on postpartum pain and comfort after cesarean delivery | 임상시험 | 60 | 중등도 | 10.1080/03630242.2024.2428793 · PMID 39532534 | 합곡·삼음교·내관 지압이 산후 통증 감소, 안위 수준 상승 |
+| Hegu point acupressure for cannulation pain across fistula sites | 임상시험 | 131 | 중등도 | 10.1016/j.explore.2026.103324 · PMID 41570661 | 합곡혈 지압이 혈액투석 천자 통증 유의 감소, Brescia-Cimino 부위 최대 |
+| Pharmacodynamic basis of gabapentin combined with Hegu-point catgut embedding for post-herpetic neuralgia | 임상시험 | 210 | 중등도 | 10.36721/PJPS.2026.39.5.152.1 · PMID 41934298 | 가바펜틴+합곡혈 매선 병행이 통증·수면·염증 사이토카인 조절에 우수 |
+| Ice massage for the reduction of labor pain | 임상시험 | - | 중등도 | 10.1016/s1526-9523(03)00277-0 · PMID 14526344 | 분만 중 합곡혈 아이스 마사지가 통증 유의 감소. 비침습 비약물법 |
+| Laser acupuncture versus oral glucose administration for pain prevention in term neonates | 임상시험 | 96 | 중등도 | 10.1177/09645284211009544 | 합곡혈 레이저 침이 경구 포도당 대비 비열등성 입증 못함(부족) |
+| Lack of Effect of Acupuncture on Electromyo-Graphic (Emg) Activity | 임상시험 | 30 | 중등도 | 10.1136/aim.24.2.55 | 합곡·수삼리 침이 손목 신근 근전도 활성에 즉각 유의 변화 없음 |
+| Effect of electroacupuncture and transcutaneous electrical nerve stimulation at Hegu (LI.4) on the cutaneous reflex | 실험연구 | 13 | 중등도 | 10.3727/036012902816025951 · PMID 12638739 | 합곡혈 2Hz 전침·TENS가 피부반사 억제 파형 잠복기 연장(척수상위 작용) |
+| Effect of manual acupuncture and transcutaneous electrical nerve stimulation on the H-reflex | 실험연구 | 13 | 중등도 | 10.3727/036012901816355884 · PMID 11841109 | 합곡혈 2Hz·100Hz TENS가 H-반사 진폭 증가로 척수 흥분성 조절 |
+| Somatosensory Stimulation (Acupuncture) Modulates Spinal and Supraspinal Motor Neuron Excitability | 실험연구 | - | 중등도 | 10.5772/intechopen.1002498 | 합곡혈 자극이 뇌간·대뇌피질 포함 상위척수계로 운동신경 반사 억제 |
 | Observation of Microvascular Perfusion in the Hegu (LI4) Acupoint Area after Deqi Acupuncture at Quchi (LI11) | 관찰연구 | 30 | 낮음 | 10.1155/2012/604590 · PMID 23258991 | 원격 곡지혈 자극이 동일 경락 합곡혈 미세혈관 관류 증가. 경락 특이적 혈류 조절 |
 | Multicenter Study on Ultrasound Characteristics of Acupoints in the Hand Yangming Meridian | 관찰연구 | 110 | 낮음 | 10.21203/rs.3.rs-8778712/v1 | 수양명대장경 혈위(합곡 등)가 특정 근막과 연관, 참조점보다 탄성계수 높음 |
 | Dry Needling of LI4 and TE5 Acupuncture Points on Wrist Flexor Spasticity in Stroke | 증례 | 1 | 낮음 | 10.1155/crnm/2219978 · PMID 41142356 | 뇌졸중 후 손목 굴곡근 경직에 합곡·외관 드라이 니들링이 경직·ROM 개선 |
 | Anosmia/Hyposmia Treatment with Electroacupuncture | 증례 | 19 | 낮음 | 10.1177/036012931987012003009 | 합곡·영향 저주파 전침이 약 42%에서 완전 후각 회복. 4회 이내 반응 시 예후 양호 |
-| The changes of neuroactivity of Tui Na at Hegu acupoint on sensorimotor cortex in stroke patients | 실험연구 | 18 | 중간 | 10.1186/s12906-023-04143-0 | 합곡혈 추나 자극이 뇌졸중 환자 감각운동 피질 신경활동에 영향. 마비측 반응 소실 |
-| [Comparison between of acupuncture and epidural anesthesia in appendectomy] | 임상시험 | 80 | 중간 | - / 1288930 | 족삼리·합곡 침 마취가 경막외 마취와 유사 성공률, 호흡억제·저혈압 간섭 적음 |
+| The changes of neuroactivity of Tui Na at Hegu acupoint on sensorimotor cortex in stroke patients | 실험연구 | 18 | 중등도 | 10.1186/s12906-023-04143-0 | 합곡혈 추나 자극이 뇌졸중 환자 감각운동 피질 신경활동에 영향. 마비측 반응 소실 |
+| [Comparison between of acupuncture and epidural anesthesia in appendectomy] | 임상시험 | 80 | 중등도 | - / 1288930 | 족삼리·합곡 침 마취가 경막외 마취와 유사 성공률, 호흡억제·저혈압 간섭 적음 |
 
 ## 임상 적용
 

@@ -68,15 +68,15 @@
 |---|---|---|---|---|---|
 | Herbal medicine for the treatment of chronic rhinosinusitis: A systematic review and meta-analysis | 메타분석 | - | 높음 | 10.3389/fphar.2022.908941 | 한약이 CRS 증상 중증도·삶의 질·내시경/CT 점수 개선에 효과적·안전 |
 | Herbal medicinal product Sinupret extract (BNO 1016) is safe and effective in the treatment of acute viral rhinosinusitis | 메타분석 | 589 | 높음 | 10.26442/20751753.2022.3.201314 | BNO 1016이 급성 비부비동염 증상·삶의 질(SNOT-20) 개선 |
-| Clinical efficacy of a dry extract of five herbal drugs in acute viral rhinosinusitis | 임상시험 | - | 중간 | 10.4193/rhino.12.015 | BNO 1016이 증상 완화 2일 단축·부비동 염증 소실률 개선 |
-| Comparison of traditional Chinese acupuncture, minimal acupuncture at non-acupoints and conventional treatment for chronic sinusitis | 임상시험 | 65 | 중간 | 10.1016/j.ctim.2005.01.002 | 약물 치료가 CT 부종 감소·삶의 질 개선, 침은 약물과 증상 점수에서 유의차 없음 |
+| Clinical efficacy of a dry extract of five herbal drugs in acute viral rhinosinusitis | 임상시험 | - | 중등도 | 10.4193/rhino.12.015 | BNO 1016이 증상 완화 2일 단축·부비동 염증 소실률 개선 |
+| Comparison of traditional Chinese acupuncture, minimal acupuncture at non-acupoints and conventional treatment for chronic sinusitis | 임상시험 | 65 | 중등도 | 10.1016/j.ctim.2005.01.002 | 약물 치료가 CT 부종 감소·삶의 질 개선, 침은 약물과 증상 점수에서 유의차 없음 |
 | Acupuncture for Collaborative Efficiency in Eosinophilic Chronic Rhinosinusitis with Nasal Polyps After Nasal Surgery: A Randomized Controlled Trial Protocol | 임상시험(프로토콜) | 84 | 낮음 | 10.21203/rs.3.rs-5396623/v1 | 수술 후 eCRSwNP에 침 보조 치료의 재발 방지·SNOT-22 개선 기대 |
-| Comparison between the Safety and Effectiveness of Al-Hijama (Cupping) and the Conventional Medical Therapy as Treatment for Sinusitis (II) | 임상시험 | 60 | 중간 | 10.4197/med.27-1.7 | 부항이 부비동염 임상 증상·호산구 수치 개선, 안전·경제적 |
-| Comparative Effectiveness of Jade Stone Mobilisation, Non-Abrasive Cupping, and Manual Drainage Technique in Subjects with Chronic Sinusitis | 임상시험 | 45 | 중간 | 10.46743/1540-580x/2022.2209 | 세 수기 요법 모두 유효, 옥석 가동술이 6주 추적에서 우수 |
-| [Effects of irrigating solution of Sihuang on morphology and function of nasal mucosa following surgery for chronic sinusitis and nasal polyps] | 임상시험 | 218 | 중간 | PMID 15837645 | 사황 세척액이 점막섬모 운송률·SIgA 증가로 수술 후 회복 촉진 |
-| [Observations of the curative effect with various liquid for post operative irrigation of ESS of treating chronic sinusitis and nasal polyps] | 임상시험 | 192 | 중간 | PMID 12541860 | 어성초 추출액 세척이 수술 후 회복률 개선 |
-| Alternative therapies for sinusitis and rhinitis: a systematic review utilizing a modified Delphi method | 체계적 고찰 | - | 중간 | 10.1002/alr.22488 | 침·캡사이신·브로멜라인·버터버만 낮음~중간-높음 근거 |
-| Traditional Chinese medicine in chronic rhinosinusitis: Mechanisms and postoperative recovery | 문헌고찰 | - | 중간 | 10.1016/j.phymed.2025.156658 | 중의학이 바이오필름 억제·산화 스트레스 감소·수술 후 회복 촉진 |
+| Comparison between the Safety and Effectiveness of Al-Hijama (Cupping) and the Conventional Medical Therapy as Treatment for Sinusitis (II) | 임상시험 | 60 | 중등도 | 10.4197/med.27-1.7 | 부항이 부비동염 임상 증상·호산구 수치 개선, 안전·경제적 |
+| Comparative Effectiveness of Jade Stone Mobilisation, Non-Abrasive Cupping, and Manual Drainage Technique in Subjects with Chronic Sinusitis | 임상시험 | 45 | 중등도 | 10.46743/1540-580x/2022.2209 | 세 수기 요법 모두 유효, 옥석 가동술이 6주 추적에서 우수 |
+| [Effects of irrigating solution of Sihuang on morphology and function of nasal mucosa following surgery for chronic sinusitis and nasal polyps] | 임상시험 | 218 | 중등도 | PMID 15837645 | 사황 세척액이 점막섬모 운송률·SIgA 증가로 수술 후 회복 촉진 |
+| [Observations of the curative effect with various liquid for post operative irrigation of ESS of treating chronic sinusitis and nasal polyps] | 임상시험 | 192 | 중등도 | PMID 12541860 | 어성초 추출액 세척이 수술 후 회복률 개선 |
+| Alternative therapies for sinusitis and rhinitis: a systematic review utilizing a modified Delphi method | 체계적 고찰 | - | 중등도 | 10.1002/alr.22488 | 침·캡사이신·브로멜라인·버터버만 낮음~중간-높음 근거 |
+| Traditional Chinese medicine in chronic rhinosinusitis: Mechanisms and postoperative recovery | 문헌고찰 | - | 중등도 | 10.1016/j.phymed.2025.156658 | 중의학이 바이오필름 억제·산화 스트레스 감소·수술 후 회복 촉진 |
 | Inclusion of Chinese databases in meta-analyses on herbal medicine for rhinosinusitis | 문헌고찰 | - | 낮음 | 10.4193/Rhin25.358 | 급성엔 BNO-1016, 만성엔 향국 제제가 유망. 중국 DB 포함 필요 |
 | Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022) | 관찰연구 | 138647 | 낮음 | 10.13048/jkm.24056 | 침(50.5%)·형개연교탕(48.5%)이 최다 사용, 87% 양방 병행 |
 | Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang | 증례 | 2 | 낮음 | 10.3831/KPI.2025.28.2.154 | 소청룡탕+SPG 침 병행이 표준 치료 부적합 환자에 대안 |

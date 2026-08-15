@@ -187,125 +187,125 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Clinical study on effect of xiongshao capsule on restenosis after PCI | 임상시험 | 124 | 중간 | PMID 16466165 | 흉소캡슐이 PCI 후 재협착률·혈어 증상 개선 |
-| XS0601 reduces the incidence of restenosis: prospective study of 335 patients | 임상시험 | 335 | 중간 | PMID 16454975 | XS0601이 재협착률·MACE·재발성 협심증 감소 |
-| Clinical study on "sini" decoction on treating stenocardia | 임상시험 | 65 | 중간 | PMID 16379430 | 사역탕이 심근 산소 소비량 감소·심기능 개선 |
+| Clinical study on effect of xiongshao capsule on restenosis after PCI | 임상시험 | 124 | 중등도 | PMID 16466165 | 흉소캡슐이 PCI 후 재협착률·혈어 증상 개선 |
+| XS0601 reduces the incidence of restenosis: prospective study of 335 patients | 임상시험 | 335 | 중등도 | PMID 16454975 | XS0601이 재협착률·MACE·재발성 협심증 감소 |
+| Clinical study on "sini" decoction on treating stenocardia | 임상시험 | 65 | 중등도 | PMID 16379430 | 사역탕이 심근 산소 소비량 감소·심기능 개선 |
 | Compound salvia pellet for chronic stable angina compared with nitrates: meta-analysis | 메타분석 | 3722 | 높음 | PMID 16369479 | 복합 단삼 환제가 질산염보다 증상·ECG 개선, 부작용 적음 |
 | Danshen: overview of chemistry, pharmacology, pharmacokinetics, clinical use | 문헌고찰 | - | 낮음 | 10.1177/0091270005282630 · PMID 16291709 | 단삼이 심뇌혈관 질환에 널리 사용, 고품질 RCT 필요 |
-| Characteristics of TCM syndromes in spontaneous and variant angina | 관찰연구 | 21 | 중간 | PMID 1627941 | 변이형 협심증에 한랭응결·양허 증후군 많음 |
-| Compound danshen droplet-pill combined with trimetazidine in senile unstable angina | 임상시험 | 120 | 중간 | PMID 16248238 | 단삼 적하환 병용이 노인 불안정 협심증 유효율 개선 |
+| Characteristics of TCM syndromes in spontaneous and variant angina | 관찰연구 | 21 | 중등도 | PMID 1627941 | 변이형 협심증에 한랭응결·양허 증후군 많음 |
+| Compound danshen droplet-pill combined with trimetazidine in senile unstable angina | 임상시험 | 120 | 중등도 | PMID 16248238 | 단삼 적하환 병용이 노인 불안정 협심증 유효율 개선 |
 | Conventional Cupping Therapy: Clinical Concerns | 문헌고찰 | - | 낮음 | 10.55920/2771-019x/1231 | 부항이 심혈관 질환 등에 유효, 표준화 필요 |
-| Safflower Yellow injection in CHD angina with Xin-blood stagnation | 임상시험 | 448 | 중간 | 10.1007/BF02836509 · PMID 16181539 | 홍화황 주사제가 단삼 주사제보다 증상 개선 |
-| DENG Tie-tao's CHD capsules in improving quality of life | 임상시험 | 93 | 중간 | 10.1007/BF02836499 · PMID 16181529 | CHD 캡슐이 기허·담탁·혈어 협심증 삶의 질 개선 |
-| Fuzheng Jiangnian capsule in improving pre-thrombosis factors | 임상시험 | 90 | 중간 | PMID 16152823 | 부정강년캡슐이 전혈전 지표 개선 |
+| Safflower Yellow injection in CHD angina with Xin-blood stagnation | 임상시험 | 448 | 중등도 | 10.1007/BF02836509 · PMID 16181539 | 홍화황 주사제가 단삼 주사제보다 증상 개선 |
+| DENG Tie-tao's CHD capsules in improving quality of life | 임상시험 | 93 | 중등도 | 10.1007/BF02836499 · PMID 16181529 | CHD 캡슐이 기허·담탁·혈어 협심증 삶의 질 개선 |
+| Fuzheng Jiangnian capsule in improving pre-thrombosis factors | 임상시험 | 90 | 중등도 | PMID 16152823 | 부정강년캡슐이 전혈전 지표 개선 |
 | The effectiveness of moxibustion for stable angina pectoris | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000016829 | 안정형 협심증 뜸 치료 유효성 평가 프로토콜 |
-| Treadmill test in CHD angina with Qi-Yin deficiency with/without phlegm-blood stasis | 관찰연구 | 101 | 중간 | PMID 15892274 | 담혈어체 동반 시 운동 내성 낮음 |
-| Treatment of unstable angina with modified nuan gan jian | 임상시험 | 33 | 중간 | PMID 15688691 | 가감온간견이 삽화 빈도·심전도 개선 |
-| Shexiang baoxin pill on vascular endothelium in DM2 with angina | 임상시험 | 111 | 중간 | PMID 15658648 | 사향보심환이 당뇨 동반 협심증 내피 기능 개선 |
-| Xuezhikang on lipid profile and CRP in stable angina | 임상시험 | 48 | 중간 | 10.1016/j.cccn.2004.09.026 · PMID 15653117 | 혈지강이 CRP·TC·LDL 유의 감소 |
-| Long-term effects of integrated rehabilitation in advanced angina | 관찰연구 | 168 | 중간 | 10.1089/acm.2004.10.777 · PMID 15650466 | 통합 재활이 사망률·비용 효과성 개선 |
-| Shuxuetong in preventing restenosis after intracoronary stenting | 임상시험 | 68 | 중간 | PMID 15553817 | 서혈통이 재협착·협심증 재발률 감소 |
-| Compatibility and dismantlement of Xuefu Zhuyu decoction | 임상시험 | 123 | 중간 | PMID 15506300 | 혈부축어탕이 기체혈어 개선·혈액 점도 저하 |
-| Guanxin II decoction on coronary blood flow in healthy males | 임상시험 | 11 | 중간 | PMID 15495820 | 관심 II 탕이 관상동맥 혈류 증가 |
-| Living quality change of sini decoction in angina | 임상시험 | 88 | 중간 | PMID 15376397 | 사역탕 병용이 증상·삶의 질 개선 |
-| Systematic assessment on RCTs for stable angina by compound salvia pellet | 체계적 고찰 | - | 중간 | PMID 15250200 | 단삼복합환이 질산염보다 우수, 방법론적 질 낮음 |
+| Treadmill test in CHD angina with Qi-Yin deficiency with/without phlegm-blood stasis | 관찰연구 | 101 | 중등도 | PMID 15892274 | 담혈어체 동반 시 운동 내성 낮음 |
+| Treatment of unstable angina with modified nuan gan jian | 임상시험 | 33 | 중등도 | PMID 15688691 | 가감온간견이 삽화 빈도·심전도 개선 |
+| Shexiang baoxin pill on vascular endothelium in DM2 with angina | 임상시험 | 111 | 중등도 | PMID 15658648 | 사향보심환이 당뇨 동반 협심증 내피 기능 개선 |
+| Xuezhikang on lipid profile and CRP in stable angina | 임상시험 | 48 | 중등도 | 10.1016/j.cccn.2004.09.026 · PMID 15653117 | 혈지강이 CRP·TC·LDL 유의 감소 |
+| Long-term effects of integrated rehabilitation in advanced angina | 관찰연구 | 168 | 중등도 | 10.1089/acm.2004.10.777 · PMID 15650466 | 통합 재활이 사망률·비용 효과성 개선 |
+| Shuxuetong in preventing restenosis after intracoronary stenting | 임상시험 | 68 | 중등도 | PMID 15553817 | 서혈통이 재협착·협심증 재발률 감소 |
+| Compatibility and dismantlement of Xuefu Zhuyu decoction | 임상시험 | 123 | 중등도 | PMID 15506300 | 혈부축어탕이 기체혈어 개선·혈액 점도 저하 |
+| Guanxin II decoction on coronary blood flow in healthy males | 임상시험 | 11 | 중등도 | PMID 15495820 | 관심 II 탕이 관상동맥 혈류 증가 |
+| Living quality change of sini decoction in angina | 임상시험 | 88 | 중등도 | PMID 15376397 | 사역탕 병용이 증상·삶의 질 개선 |
+| Systematic assessment on RCTs for stable angina by compound salvia pellet | 체계적 고찰 | - | 중등도 | PMID 15250200 | 단삼복합환이 질산염보다 우수, 방법론적 질 낮음 |
 | Treatment of Angina Pectoris by Mineral Pulse Light Stimulus on PC6 | 증례 | 1 | 낮음 | 10.21203/rs.3.rs-53214/v1 | 내관혈 MPLS가 협심증 증상 완화 |
-| Quality of life in CABG patients treated by TCM syndrome differentiation | 임상시험 | 82 | 중간 | PMID 14666757 | 변증시치가 CABG 후 증상·삶의 질 개선 |
-| Effect of acupuncture on coronary arteries by coronary angiography | 실험연구 | - | 중간 | 10.1142/S0192415X02000363 · PMID 12230027 | 내관혈 침이 관상동맥 직경에 영향 |
+| Quality of life in CABG patients treated by TCM syndrome differentiation | 임상시험 | 82 | 중등도 | PMID 14666757 | 변증시치가 CABG 후 증상·삶의 질 개선 |
+| Effect of acupuncture on coronary arteries by coronary angiography | 실험연구 | - | 중등도 | 10.1142/S0192415X02000363 · PMID 12230027 | 내관혈 침이 관상동맥 직경에 영향 |
 | Acupuncture combined with multiple therapies for angina: network meta-analysis | 메타분석 | 3976 | 높음 | 10.3389/fcvm.2025.1463170 | 침 병행이 증상·ECG 개선, 증상별 최적 침법 |
-| Electrical neuromodulation improves myocardial perfusion in syndrome X | 임상시험 | 8 | 중간 | 10.1016/S1090-3801(03)00022-3 · PMID 14575663 | TENS가 난치성 협심증 발작·관류 개선 |
+| Electrical neuromodulation improves myocardial perfusion in syndrome X | 임상시험 | 8 | 중등도 | 10.1016/S1090-3801(03)00022-3 · PMID 14575663 | TENS가 난치성 협심증 발작·관류 개선 |
 | Acupuncture therapy for stable angina: systematic review and meta-analysis | 메타분석 | 1026 | 높음 | 10.21203/rs.3.rs-28595/v1 | DAM 침이 중증도·삶의 질 개선 |
 | Acupuncture for perimenopausal stable angina with insomnia: protocol | 임상시험 | 110 | 프로토콜 | 10.21203/rs.3.rs-3331955/v1 | 폐경이행기 협심증·불면 침 치료 프로토콜 |
-| Tongxinluo capsule on vascular endothelium in unstable angina | 임상시험 | 46 | 중간 | PMID 14503056 | 통심락이 내피 기능 개선 |
-| Rose shu-xin oral liquid in angina pectoris | 임상시험 | 200 | 중간 | PMID 1392493 | 장미수심이 단삼 정제보다 유효율 높음 |
-| Qi xue granule in qi-deficiency and blood-stasis angina | 임상시험 | 55 | 중간 | PMID 1301847 | 기혈과립이 증상·운동 내성 개선 |
-| "Sini" decoction in treating stenocardia | 임상시험 | 63 | 중간 | PMID 12858776 | 사역탕이 심근 산소 소비량 감소 |
-| Garlicin injection for unstable angina and plasma endothelin | 임상시험 | 34 | 중간 | PMID 11263272 | Garlicin이 증상·엔도텔린·혈당 개선 |
-| Tongxinluo capsule on plasma endothelin and CGRP in unstable angina | 임상시험 | 90 | 중간 | PMID 12585189 | 통심락이 ET 감소·CGRP 증가 |
+| Tongxinluo capsule on vascular endothelium in unstable angina | 임상시험 | 46 | 중등도 | PMID 14503056 | 통심락이 내피 기능 개선 |
+| Rose shu-xin oral liquid in angina pectoris | 임상시험 | 200 | 중등도 | PMID 1392493 | 장미수심이 단삼 정제보다 유효율 높음 |
+| Qi xue granule in qi-deficiency and blood-stasis angina | 임상시험 | 55 | 중등도 | PMID 1301847 | 기혈과립이 증상·운동 내성 개선 |
+| "Sini" decoction in treating stenocardia | 임상시험 | 63 | 중등도 | PMID 12858776 | 사역탕이 심근 산소 소비량 감소 |
+| Garlicin injection for unstable angina and plasma endothelin | 임상시험 | 34 | 중등도 | PMID 11263272 | Garlicin이 증상·엔도텔린·혈당 개선 |
+| Tongxinluo capsule on plasma endothelin and CGRP in unstable angina | 임상시험 | 90 | 중등도 | PMID 12585189 | 통심락이 ET 감소·CGRP 증가 |
 | China: a new medicine born of tradition | 문헌고찰 | 800 | 낮음 | PMID 12309932 | 전통 약용 식물의 임상 유효성 |
-| Composite Salviae Dropping Pill on platelet activation in unstable angina | 임상시험 | 42 | 중간 | PMID 11789221 | 단삼 적하환이 혈소판 활성화 억제 |
-| Xiongshao capsule on preventing restenosis post-PTCA/stenting | 임상시험 | 65 | 중간 | PMID 11789203 | 흉소캡슐이 재협착·협심증 재발률 감소 |
-| Composite salviae dropping pill on endothelin gene expression | 임상시험 | 100 | 중간 | PMID 11783243 | 단삼 적하환이 ET-1 발현 억제 |
-| Shuxinsu capsule in treating angina pectoris | 임상시험 | 150 | 중간 | PMID 11783156 | 서심서 캡슐이 증상·지질·항산화 개선 |
-| Tongxinluo capsule in variant angina and endothelial function | 임상시험 | 64 | 중간 | PMID 11783154 | 통심락이 변이형 협심증 증상 개선 |
-| Concentrated xuefu zhuyu pill on restenosis after stenting | 임상시험 | 84 | 중간 | PMID 11477839 | 혈부축어탕이 재발성 협심증 감소 |
-| Yugengongyu decoction in CHD with angina | 임상시험 | 83 | 중간 | PMID 11477841 | 육경공유탕이 증상·TC 개선 |
-| Purified xuefu capsule in treating angina | 임상시험 | 57 | 중간 | PMID 11477813 | 정제 혈부캡슐이 증상·ECG 개선 |
-| Artificial shexiang baoxin pill in 112 CHD patients | 임상시험 | 112 | 중간 | PMID 11475741 | 인공 사향보심환이 천연과 유사 효능 |
-| Garlicin on unstable angina and blood lipid/GMP-140 | 임상시험 | 55 | 중간 | PMID 11475742 | Garlicin이 한증·혈어형에 효과적 |
-| Tongmai jiangzhi oral liquid in coronary atherosclerotic heart disease | 임상시험 | 65 | 중간 | PMID 11367649 | 통맥강지구강액이 지질·산화 스트레스 개선 |
+| Composite Salviae Dropping Pill on platelet activation in unstable angina | 임상시험 | 42 | 중등도 | PMID 11789221 | 단삼 적하환이 혈소판 활성화 억제 |
+| Xiongshao capsule on preventing restenosis post-PTCA/stenting | 임상시험 | 65 | 중등도 | PMID 11789203 | 흉소캡슐이 재협착·협심증 재발률 감소 |
+| Composite salviae dropping pill on endothelin gene expression | 임상시험 | 100 | 중등도 | PMID 11783243 | 단삼 적하환이 ET-1 발현 억제 |
+| Shuxinsu capsule in treating angina pectoris | 임상시험 | 150 | 중등도 | PMID 11783156 | 서심서 캡슐이 증상·지질·항산화 개선 |
+| Tongxinluo capsule in variant angina and endothelial function | 임상시험 | 64 | 중등도 | PMID 11783154 | 통심락이 변이형 협심증 증상 개선 |
+| Concentrated xuefu zhuyu pill on restenosis after stenting | 임상시험 | 84 | 중등도 | PMID 11477839 | 혈부축어탕이 재발성 협심증 감소 |
+| Yugengongyu decoction in CHD with angina | 임상시험 | 83 | 중등도 | PMID 11477841 | 육경공유탕이 증상·TC 개선 |
+| Purified xuefu capsule in treating angina | 임상시험 | 57 | 중등도 | PMID 11477813 | 정제 혈부캡슐이 증상·ECG 개선 |
+| Artificial shexiang baoxin pill in 112 CHD patients | 임상시험 | 112 | 중등도 | PMID 11475741 | 인공 사향보심환이 천연과 유사 효능 |
+| Garlicin on unstable angina and blood lipid/GMP-140 | 임상시험 | 55 | 중등도 | PMID 11475742 | Garlicin이 한증·혈어형에 효과적 |
+| Tongmai jiangzhi oral liquid in coronary atherosclerotic heart disease | 임상시험 | 65 | 중등도 | PMID 11367649 | 통맥강지구강액이 지질·산화 스트레스 개선 |
 | PC-SPES in androgen-independent prostate cancer | 관찰연구 | 23 | 낮음 | 10.1016/s0090-4295(00)00986-9 · PMID 11164156 | PC-SPES가 전립선암 PSA 감소, 심혈관 부작용 주의 |
-| 116 cases of coronary angina treated with ginseng/notoginseng/succinum powder | 임상시험 | 116 | 중간 | PMID 10437237 | 인삼·삼칠·호박 분말이 ECG·증상 개선 |
-| Eliminating dampness and removing blood stasis in CHD | 임상시험 | 197 | 중간 | PMID 10322870 | 거습·활혈거어가 협심증 개선 |
-| Buyang huanwu decoction on platelet function in unstable angina | 임상시험 | 60 | 중간 | PMID 10322871 | 보양환오탕이 항혈전 효과 |
-| Tongxinluo capsule in angina caused by CHD | 임상시험 | 492 | 중간 | PMID 10322862 | 통신락 캡슐이 협심증 증상 개선 |
-| Yiqi tongluo pill on oxygen free radicals, NO, fibrinolysis | 임상시험 | 189 | 중간 | PMID 10322861 | 익기통락환이 산화 스트레스·섬유소 용해 개선 |
+| 116 cases of coronary angina treated with ginseng/notoginseng/succinum powder | 임상시험 | 116 | 중등도 | PMID 10437237 | 인삼·삼칠·호박 분말이 ECG·증상 개선 |
+| Eliminating dampness and removing blood stasis in CHD | 임상시험 | 197 | 중등도 | PMID 10322870 | 거습·활혈거어가 협심증 개선 |
+| Buyang huanwu decoction on platelet function in unstable angina | 임상시험 | 60 | 중등도 | PMID 10322871 | 보양환오탕이 항혈전 효과 |
+| Tongxinluo capsule in angina caused by CHD | 임상시험 | 492 | 중등도 | PMID 10322862 | 통신락 캡슐이 협심증 증상 개선 |
+| Yiqi tongluo pill on oxygen free radicals, NO, fibrinolysis | 임상시험 | 189 | 중등도 | PMID 10322861 | 익기통락환이 산화 스트레스·섬유소 용해 개선 |
 | Guibiondam-tang-hap-Gugamcho-tang for unstable angina | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.6.1767 | 귀비온담탕·구감초탕 합방이 증상 완화 |
 | Compound Danshen Dripping Pills on prevention of in-stent restenosis | 메타분석 | 776 | 높음 | 10.22246/jikm.2025.46.3.471 | 단삼 적하환이 ISR·재발률 감소 |
-| Combining Herbal Medicine with Western Medicine on variant angina | 메타분석 | - | 중간 | 10.22246/jikm.2024.45.6.1071 | 한양방 병용이 변이형 협심증 유효율 개선 |
+| Combining Herbal Medicine with Western Medicine on variant angina | 메타분석 | - | 중등도 | 10.22246/jikm.2024.45.6.1071 | 한양방 병용이 변이형 협심증 유효율 개선 |
 | Korean Medicine Treatment for Chest Pain in Variant Angina | 증례 | 1 | 낮음 | 10.22246/jikm.2024.45.2.234 | 평진수전산·심적환이 흉통 완화 |
-| Herbal Medicines on Preventing Restenosis After PCI | 메타분석 | - | 중간 | 10.22246/jikm.2023.44.3.387 | 한약 병용이 재협착률 감소 |
-| Meta-analysis and TSA of Shenshao Capsules in angina | 메타분석 | 1128 | 중간 | 10.19540/j.cnki.cjcmm.20240219.501 · PMID 39041102 | 신소캡슐이 유효성 개선, 근거 수준 낮음 |
-| Angiogenic potential of Zhishi Xiebai Guizhi decoction | 임상시험 | 180 | 중간 | 10.1038/s41598-025-05379-1 · PMID 40603921 | 지실해백계지탕이 협심증 빈도·LDL-C 감소 |
+| Herbal Medicines on Preventing Restenosis After PCI | 메타분석 | - | 중등도 | 10.22246/jikm.2023.44.3.387 | 한약 병용이 재협착률 감소 |
+| Meta-analysis and TSA of Shenshao Capsules in angina | 메타분석 | 1128 | 중등도 | 10.19540/j.cnki.cjcmm.20240219.501 · PMID 39041102 | 신소캡슐이 유효성 개선, 근거 수준 낮음 |
+| Angiogenic potential of Zhishi Xiebai Guizhi decoction | 임상시험 | 180 | 중등도 | 10.1038/s41598-025-05379-1 · PMID 40603921 | 지실해백계지탕이 협심증 빈도·LDL-C 감소 |
 | Korean Medicine Treatment for Variant Angina and Asthma | 증례 | 1 | 낮음 | 10.22246/jikm.2022.43.5.864 | 평심액 중심 통합 치료가 증상·삶의 질 개선 |
-| Nine Chinese patent medicines for angina in CHD | 임상시험 | 2382 | 중간 | 10.3389/fpubh.2025.1696072 · PMID 41613065 | 등전생맥캡슐 효능 최고, 사향통심적약 비용효과 |
-| Gualou Xiebai Banxia decoction for stable angina | 체계적 고찰 | 1676 | 중간 | 10.1097/md.0000000000018375 | 괄루해백반하탕이 증상·ECG 개선 가능성 |
-| Taoren Honghua Jian Granule on NLRP3 in stable CAD | 임상시험 | 80 | 중간 | 10.1007/s11655-026-4038-7 · PMID 41838378 | 도인홍화건이 NLRP3 억제·증상 완화 |
-| Mokuboito on long-term outcomes in heart failure | 관찰연구 | 40 | 중간 | 10.1002/tkm2.1310 | 목보이탕이 심부전 MACE 감소 |
-| Integrated TCM and Western Medicine for angina | 체계적 고찰 | - | 중간 | 10.53043/2347-3894.acam13004 | 통합 치료가 증상·심기능·비용 개선 |
-| Diagnosis Pattern of CHD with Qi Deficiency by Adaboost | 실험연구 | 137 | 중간 | 10.1155/2011/408650 | 기허증 객관적 진단 패턴 개발 |
-| Overview of RCTs of Chinese Herbal Medicine Formula Granules | 체계적 고찰 | 4632 | 중간 | 10.1155/2019/6486293 | 중약 과립제가 여러 질환에 위약 대비 유효 |
-| Outcome measures in TCM trials for stable angina | 체계적 고찰 | 9111 | 중간 | 10.1097/hm9.0000000000000014 | 결과 지표 표준화(COS) 필요 |
-| Danhong Injection Improves Elective PCI in UA with Blood Stasis | 임상시험 | 61 | 중간 | 10.4103/wjtcm.wjtcm_63_21 | 단홍주사액이 대사체 개선 |
+| Nine Chinese patent medicines for angina in CHD | 임상시험 | 2382 | 중등도 | 10.3389/fpubh.2025.1696072 · PMID 41613065 | 등전생맥캡슐 효능 최고, 사향통심적약 비용효과 |
+| Gualou Xiebai Banxia decoction for stable angina | 체계적 고찰 | 1676 | 중등도 | 10.1097/md.0000000000018375 | 괄루해백반하탕이 증상·ECG 개선 가능성 |
+| Taoren Honghua Jian Granule on NLRP3 in stable CAD | 임상시험 | 80 | 중등도 | 10.1007/s11655-026-4038-7 · PMID 41838378 | 도인홍화건이 NLRP3 억제·증상 완화 |
+| Mokuboito on long-term outcomes in heart failure | 관찰연구 | 40 | 중등도 | 10.1002/tkm2.1310 | 목보이탕이 심부전 MACE 감소 |
+| Integrated TCM and Western Medicine for angina | 체계적 고찰 | - | 중등도 | 10.53043/2347-3894.acam13004 | 통합 치료가 증상·심기능·비용 개선 |
+| Diagnosis Pattern of CHD with Qi Deficiency by Adaboost | 실험연구 | 137 | 중등도 | 10.1155/2011/408650 | 기허증 객관적 진단 패턴 개발 |
+| Overview of RCTs of Chinese Herbal Medicine Formula Granules | 체계적 고찰 | 4632 | 중등도 | 10.1155/2019/6486293 | 중약 과립제가 여러 질환에 위약 대비 유효 |
+| Outcome measures in TCM trials for stable angina | 체계적 고찰 | 9111 | 중등도 | 10.1097/hm9.0000000000000014 | 결과 지표 표준화(COS) 필요 |
+| Danhong Injection Improves Elective PCI in UA with Blood Stasis | 임상시험 | 61 | 중등도 | 10.4103/wjtcm.wjtcm_63_21 | 단홍주사액이 대사체 개선 |
 | Chinese patent medicine capsules for recurrent angina after PCI | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000023287 | PCI 후 재발성 협심증 중성약 평가 프로토콜 |
-| Danlou tablets in stable angina with phlegm-blood stasis | 임상시험 | 304 | 중간 | 10.3389/fcvm.2024.1462730 · PMID 39559795 | 단루정이 발작 횟수·삶의 질 개선 |
-| CHD of blood stasis and deficiency of both vital energy and yin | 임상시험 | 88 | 중간 | 10.1136/heartjnl-2012-302920c.17 | 변증시치가 증상·염증 마커 개선 |
+| Danlou tablets in stable angina with phlegm-blood stasis | 임상시험 | 304 | 중등도 | 10.3389/fcvm.2024.1462730 · PMID 39559795 | 단루정이 발작 횟수·삶의 질 개선 |
+| CHD of blood stasis and deficiency of both vital energy and yin | 임상시험 | 88 | 중등도 | 10.1136/heartjnl-2012-302920c.17 | 변증시치가 증상·염증 마커 개선 |
 | Tongxinluo capsule as supplement for chronic coronary syndromes | 메타분석 | 2091 | 높음 | 10.3389/fcvm.2024.1499585 | 통심락이 협심증 빈도·니트로 사용량 감소 |
-| Chaihu Guizhi granules on stable angina | 임상시험 | 90 | 중간 | 10.1097/MD.0000000000045631 · PMID 41204479 | 시호계지탕이 증상·내피 기능 개선 |
+| Chaihu Guizhi granules on stable angina | 임상시험 | 90 | 중등도 | 10.1097/MD.0000000000045631 · PMID 41204479 | 시호계지탕이 증상·내피 기능 개선 |
 | Progress in research on Musk | 문헌고찰 | - | 낮음 | 10.1016/j.jep.2025.119512 · PMID 39971015 | 사향이 협심증 등에 유효 |
-| Current status of RCTs of TCM in CHD angina after PCI | 체계적 고찰 | 15521 | 중간 | 10.19540/j.cnki.cjcmm.20240815.503 · PMID 39701718 | PCI 후 기혈부족·혈어 증후 치료 |
-| Scraping with Copper Stone based on Midnight-Noon Ebb-Flow | 임상시험 | 120 | 중간 | 10.1155/2021/2677696 · PMID 34580594 | 자오유후 찰법이 기체혈어 협심증 개선 |
-| Kajian Sistematis Formula Herbal Sheng Mai San | 체계적 고찰 | - | 중간 | 10.59841/an-najat.v1i3.151 | 생맥산이 심혈관 질환 보조 치료 |
+| Current status of RCTs of TCM in CHD angina after PCI | 체계적 고찰 | 15521 | 중등도 | 10.19540/j.cnki.cjcmm.20240815.503 · PMID 39701718 | PCI 후 기혈부족·혈어 증후 치료 |
+| Scraping with Copper Stone based on Midnight-Noon Ebb-Flow | 임상시험 | 120 | 중등도 | 10.1155/2021/2677696 · PMID 34580594 | 자오유후 찰법이 기체혈어 협심증 개선 |
+| Kajian Sistematis Formula Herbal Sheng Mai San | 체계적 고찰 | - | 중등도 | 10.59841/an-najat.v1i3.151 | 생맥산이 심혈관 질환 보조 치료 |
 | Danhong Injection for Acute Myocardial Infarction | 메타분석 | 979 | 높음 | 10.1155/2015/646530 | 단홍주사액이 사망·심부전 위험 감소 |
 | Add-On Effect of Chinese Patent Medicine for Angina | 메타분석 | 4212 | 높음 | 10.1155/2013/673193 | 중약 병용이 심장 사건 발생률 감소 |
 | Guanxinning tablets plus aspirin after PCI (GAP trial) | 임상시험 | 3586 | 높음 | 10.1016/j.phymed.2025.157500 · PMID 41240536 | 관심녕정이 출혈 없이 MACE 감소 |
 | Acupoint for angina pectoris: protocol for SR and meta-analysis | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000024080 · PMID 33546012 | 경혈 요법 유효성 평가 프로토콜 |
 | Oral Chinese patent medicines for CHD complicated by diabetes | 메타분석 | 7988 | 높음 | 10.3389/fcvm.2026.1785694 · PMID 42147052 | 당뇨 동반 협심증에 중성약 병용 이점 |
-| Xuefu Zhuyu oral liquid as adjunctive for stable angina | 임상시험 | 148 | 중간 | 10.3389/fmed.2026.1787481 · PMID 42136835 | 혈부축어액이 통증·니트로 사용량 감소 |
-| Modular PheWAS of Danghong injection on stable angina | 실험연구 | - | 중간 | 10.1186/s43556-026-00517-1 · PMID 42469548 | 단홍주사액 다중 표적 기전 규명 |
+| Xuefu Zhuyu oral liquid as adjunctive for stable angina | 임상시험 | 148 | 중등도 | 10.3389/fmed.2026.1787481 · PMID 42136835 | 혈부축어액이 통증·니트로 사용량 감소 |
+| Modular PheWAS of Danghong injection on stable angina | 실험연구 | - | 중등도 | 10.1186/s43556-026-00517-1 · PMID 42469548 | 단홍주사액 다중 표적 기전 규명 |
 | Shenqi Yangxin formula in stable CAD: protocol | 임상시험 | 60 | 프로토콜 | 10.3389/fcvm.2026.1697750 · PMID 42181649 | 신기양심방 기허혈어 평가 프로토콜 |
-| Intraoperative electroacupuncture during PCI | 임상시험 | 120 | 중간 | 10.1016/j.explore.2026.103469 · PMID 42398473 | PCI 중 전침이 통증·심근 손상 완화 |
-| Preventive Value of Acupoint Sensitization for stable angina | 임상시험 | 202 | 중간 | 10.1155/2021/7228033 · PMID 34765004 | 민감 혈위 지압이 발작 빈도 감소 |
+| Intraoperative electroacupuncture during PCI | 임상시험 | 120 | 중등도 | 10.1016/j.explore.2026.103469 · PMID 42398473 | PCI 중 전침이 통증·심근 손상 완화 |
+| Preventive Value of Acupoint Sensitization for stable angina | 임상시험 | 202 | 중등도 | 10.1155/2021/7228033 · PMID 34765004 | 민감 혈위 지압이 발작 빈도 감소 |
 | Hawthorn: Phytochemical Insights and Cardiotonic Mechanisms | 문헌고찰 | - | 낮음 | 10.2174/0113894501484438260708073917 · PMID 42473213 | 산사가 협심증 보조 요법 |
 | Phytochemical and Pharmacological Profile of Crataegus oxyacantha | 문헌고찰 | - | 낮음 | 10.2174/0929867323666160919095519 | 산사가 심장강장 효과 |
 | Acupuncture combined with Chinese herbal medicine for angina | 체계적 고찰 | - | 프로토콜 | 10.37766/inplasy2021.11.0100 | 침·한약 병용 유효성 평가 프로토콜 |
-| Yingxin pill for stable angina with heart blood stasis | 임상시험 | 60 | 중간 | 10.3389/fphar.2026.1730842 · PMID 41782933 | 영심환이 증상·지질·염증 개선 |
-| Jiangzhi Mai'an Granules in stable angina with carotid plaque | 임상시험 | 120 | 중간 | 10.1097/MD.0000000000040787 · PMID 39654241 | 강지맥안이 CIMT·플라크 감소 |
-| Comparative Effectiveness Research of Chinese Patent Medicine | 관찰연구 | 144 | 중간 | 10.1155/2017/7062714 | 기신익기환·복합단삼환 차별 선택 |
-| Metabonomics for Intermingled Phlegm and Blood Stasis | 관찰연구 | 164 | 중간 | 10.3389/fcvm.2022.871142 | 담혈결합 대사체 지표 제시 |
+| Yingxin pill for stable angina with heart blood stasis | 임상시험 | 60 | 중등도 | 10.3389/fphar.2026.1730842 · PMID 41782933 | 영심환이 증상·지질·염증 개선 |
+| Jiangzhi Mai'an Granules in stable angina with carotid plaque | 임상시험 | 120 | 중등도 | 10.1097/MD.0000000000040787 · PMID 39654241 | 강지맥안이 CIMT·플라크 감소 |
+| Comparative Effectiveness Research of Chinese Patent Medicine | 관찰연구 | 144 | 중등도 | 10.1155/2017/7062714 | 기신익기환·복합단삼환 차별 선택 |
+| Metabonomics for Intermingled Phlegm and Blood Stasis | 관찰연구 | 164 | 중등도 | 10.3389/fcvm.2022.871142 | 담혈결합 대사체 지표 제시 |
 | Zhishi xiebai guizhi decoction for unstable angina | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000013965 | 지실해백계지탕 UA 평가 프로토콜 |
-| Impact of Acupoint Specificity on Cardiovascular Outcomes | 메타분석 | 850 | 중간 | 10.37275/bsm.v9i7.1322 | PC6·ST36 자극이 혈압·협심증 개선 가능성 |
-| Adjuvant treatment of CHD angina with Chinese patent medicine | 관찰연구 | - | 중간 | 10.1097/md.0000000000016884 | 중성약 병용 유효성 전향 코호트 |
-| Yangxin Huoxue Formula in stable angina with anxiety/depression | 임상시험 | 94 | 중간 | 10.2147/JMDH.S483104 · PMID 39582876 | 양심활혈방이 심기능·정서 개선 |
+| Impact of Acupoint Specificity on Cardiovascular Outcomes | 메타분석 | 850 | 중등도 | 10.37275/bsm.v9i7.1322 | PC6·ST36 자극이 혈압·협심증 개선 가능성 |
+| Adjuvant treatment of CHD angina with Chinese patent medicine | 관찰연구 | - | 중등도 | 10.1097/md.0000000000016884 | 중성약 병용 유효성 전향 코호트 |
+| Yangxin Huoxue Formula in stable angina with anxiety/depression | 임상시험 | 94 | 중등도 | 10.2147/JMDH.S483104 · PMID 39582876 | 양심활혈방이 심기능·정서 개선 |
 | Adjuvant Chinese patent medicine on MACE in CHD angina | 관찰연구 | 28517 | 높음 | 10.1097/hm9.0000000000000028 | 중성약 병용이 MACE 위험 감소 |
-| Taoren Honghua Jian Regulate NLRP3 in CAD | 임상시험 | 120 | 중간 | 10.2147/VHRM.S569054 · PMID 42004177 | 도인홍화건이 NLRP3 억제·증상 완화 |
-| Shexiang Baoxin pill in stable CAD with reduced eGFR | 임상시험 | 1354 | 중간 | 10.1016/j.phymed.2026.157946 · PMID 41795301 | 사향보심환이 신기능 저하 환자 보호 경향 |
-| Overview of systematic reviews on blood-activating CPM | 체계적 고찰 | 41231 | 중간 | 10.3389/fcvm.2025.1553735 · PMID 40621069 | 활혈거어 중성약 병용 유효, 근거 질 낮음 |
+| Taoren Honghua Jian Regulate NLRP3 in CAD | 임상시험 | 120 | 중등도 | 10.2147/VHRM.S569054 · PMID 42004177 | 도인홍화건이 NLRP3 억제·증상 완화 |
+| Shexiang Baoxin pill in stable CAD with reduced eGFR | 임상시험 | 1354 | 중등도 | 10.1016/j.phymed.2026.157946 · PMID 41795301 | 사향보심환이 신기능 저하 환자 보호 경향 |
+| Overview of systematic reviews on blood-activating CPM | 체계적 고찰 | 41231 | 중등도 | 10.3389/fcvm.2025.1553735 · PMID 40621069 | 활혈거어 중성약 병용 유효, 근거 질 낮음 |
 | Protocol for Chinese Herbal Medicines Decoction for Angina | 체계적 고찰 | - | 프로토콜 | 10.21203/rs.3.rs-592471/v1 | 한약 탕약 비교 베이지안 NMA 프로토콜 |
-| Huatuo Zaizao Pills improve myocardial ischemia | 임상시험 | - | 중간 | 10.1016/S1875-5364(26)61096-5 · PMID 42215157 | 화탁재조환이 칼슘 유입 억제·허혈 개선 |
-| Anti-inflammatory activity of Tongmai Yangxin pill | 임상시험 | 8 | 중간 | 10.1016/j.jep.2021.114106 · PMID 33838287 | 통맥양심환이 ESR1·NF-κB 경로 항염증 |
+| Huatuo Zaizao Pills improve myocardial ischemia | 임상시험 | - | 중등도 | 10.1016/S1875-5364(26)61096-5 · PMID 42215157 | 화탁재조환이 칼슘 유입 억제·허혈 개선 |
+| Anti-inflammatory activity of Tongmai Yangxin pill | 임상시험 | 8 | 중등도 | 10.1016/j.jep.2021.114106 · PMID 33838287 | 통맥양심환이 ESR1·NF-κB 경로 항염증 |
 | Characteristics, uses, chemistry of Olibanum (Ru Xiang) | 문헌고찰 | - | 낮음 | 10.1016/j.jep.2025.120477 · PMID 40876789 | 유향이 기체혈어 증상에 사용 |
-| Efficacy of Shuxuening Injection in unstable angina | 체계적 고찰 | - | 중간 | 10.19540/j.cnki.cjcmm.20260401.502 · PMID 42543348 | 서혈녕주사액이 심근 허혈 개선 |
-| Yi'anning pills for stable angina with blood and liver-kidney deficiency | 임상시험 | 158 | 중간 | 10.19852/j.cnki.jtcm.2026.02.012 · PMID 42015778 | 이안환이 삶의 질·발작 빈도 개선 |
-| Nutrition Modification and Wet Cupping in refractory angina | 임상시험 | 40 | 중간 | 10.3831/KPI.2022.25.3.224 · PMID 36186099 | 습식 부항·영양 수정이 통증·삶의 질 개선 |
-| Gualouxiebaibanxia Decoction for angina | 체계적 고찰 | 1730 | 중간 | 10.1155/2016/8565907 | 괄루협백반하탕이 증상·HDL-C 개선 |
-| Advances of clinical trials on compound Danshen dripping pills | 체계적 고찰 | - | 중간 | 10.1097/MD.0000000000042175 · PMID 40258733 | 단삼 적하환이 항허혈·혈관 확장 |
-| Tongxinshu capsules in stable angina with qi deficiency and blood stasis | 임상시험 | 120 | 중간 | 10.1016/j.jep.2025.119437 · PMID 39914689 | 통심서가 협심증 빈도·삶의 질 개선 |
+| Efficacy of Shuxuening Injection in unstable angina | 체계적 고찰 | - | 중등도 | 10.19540/j.cnki.cjcmm.20260401.502 · PMID 42543348 | 서혈녕주사액이 심근 허혈 개선 |
+| Yi'anning pills for stable angina with blood and liver-kidney deficiency | 임상시험 | 158 | 중등도 | 10.19852/j.cnki.jtcm.2026.02.012 · PMID 42015778 | 이안환이 삶의 질·발작 빈도 개선 |
+| Nutrition Modification and Wet Cupping in refractory angina | 임상시험 | 40 | 중등도 | 10.3831/KPI.2022.25.3.224 · PMID 36186099 | 습식 부항·영양 수정이 통증·삶의 질 개선 |
+| Gualouxiebaibanxia Decoction for angina | 체계적 고찰 | 1730 | 중등도 | 10.1155/2016/8565907 | 괄루협백반하탕이 증상·HDL-C 개선 |
+| Advances of clinical trials on compound Danshen dripping pills | 체계적 고찰 | - | 중등도 | 10.1097/MD.0000000000042175 · PMID 40258733 | 단삼 적하환이 항허혈·혈관 확장 |
+| Tongxinshu capsules in stable angina with qi deficiency and blood stasis | 임상시험 | 120 | 중등도 | 10.1016/j.jep.2025.119437 · PMID 39914689 | 통심서가 협심증 빈도·삶의 질 개선 |
 | Acupuncture for chronic stable angina based on Meridian-Viscera | 임상시험 | 148 | 프로토콜 | 10.1186/s13063-020-04836-8 · PMID 33158451 | 심경·폐경 혈위 침 비교 프로토콜 |
-| Evidence map of TCM in unstable angina in elderly | 체계적 고찰 | - | 중간 | 10.19540/j.cnki.cjcmm.20260202.502 · PMID 42392824 | 노인 불안정 협심증 근거 수준 낮음 |
+| Evidence map of TCM in unstable angina in elderly | 체계적 고찰 | - | 중등도 | 10.19540/j.cnki.cjcmm.20260202.502 · PMID 42392824 | 노인 불안정 협심증 근거 수준 낮음 |
 | Microvascular angina by activating blood circulation | 메타분석 | 1031 | 높음 | 10.1097/MD.0000000000040012 · PMID 39465843 | 활혈거어가 미세혈관 협심증 개선 |
 | Blood-Activating CPM in perioperative PCI for MI | 메타분석 | 21147 | 높음 | 10.1111/jebm.70161 · PMID 42452987 | 활혈거어 중성약이 중간 지표 개선, 하드 엔드포인트 불명 |
-| Shexiang Tongxin Dropping Pill in phlegm-heat blood-stasis | 임상시험 | 309 | 중간 | 10.1007/s11655-025-4014-7 · PMID 40512367 | 사향통심적환이 운동 내성 개선 |
+| Shexiang Tongxin Dropping Pill in phlegm-heat blood-stasis | 임상시험 | 309 | 중등도 | 10.1007/s11655-025-4014-7 · PMID 40512367 | 사향통심적환이 운동 내성 개선 |
 | Acupuncture for coronary microvascular disease: protocol | 임상시험 | 60 | 프로토콜 | 10.3389/fcvm.2026.1843651 · PMID 42539634 | CMVD 침 치료 파일럿 프로토콜 |
 
 ## 임상 적용

@@ -133,55 +133,55 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Trends in Clinical Research on Herbal Medicine for Hepatitis A, B, and C | 체계적 고찰 | 407 | 중간 | 10.22246/jikm.2025.46.6.1505 | 한약이 급성 A형 간염 회복, 만성 B·C형 간염 간 기능 안정화에 유용, 인진청간탕·청간플러스 다용 |
-| Herbal Medicine for the Treatment of Viral Hepatitis B and C | 체계적 고찰 | - | 중간 | 10.22246/jikm.2021.42.4.455 | 한약+양약 병용이 HBV DNA·HBeAg·ALT 감소에 우수 |
-| Chinese herbal medicine and interferon in chronic hepatitis B | 메타분석 | - | 중간 | 10.2105/ajph.92.10.1619 | 중약이 HBsAg 혈청 전환율 증가, 인터페론 병용 시 혈청 전환 증대 |
-| Medicinal herbs for hepatitis C virus infection | 체계적 고찰 | 517 | 중간 | 10.1002/14651858.CD003183 | 일부 한약이 인터페론 병용 시 간 효소·HCV RNA 개선, 근거 질 낮음 |
-| Juzen-taiho-to ameliorates anemia during IFN+ribavirin in chronic hepatitis C | 관찰연구 | 67 | 중간 | 10.1007/s00535-004-1472-0 | 십전대보탕이 리바비린 유발 빈혈 완화, 용량 감량 빈도 감소 |
+| Trends in Clinical Research on Herbal Medicine for Hepatitis A, B, and C | 체계적 고찰 | 407 | 중등도 | 10.22246/jikm.2025.46.6.1505 | 한약이 급성 A형 간염 회복, 만성 B·C형 간염 간 기능 안정화에 유용, 인진청간탕·청간플러스 다용 |
+| Herbal Medicine for the Treatment of Viral Hepatitis B and C | 체계적 고찰 | - | 중등도 | 10.22246/jikm.2021.42.4.455 | 한약+양약 병용이 HBV DNA·HBeAg·ALT 감소에 우수 |
+| Chinese herbal medicine and interferon in chronic hepatitis B | 메타분석 | - | 중등도 | 10.2105/ajph.92.10.1619 | 중약이 HBsAg 혈청 전환율 증가, 인터페론 병용 시 혈청 전환 증대 |
+| Medicinal herbs for hepatitis C virus infection | 체계적 고찰 | 517 | 중등도 | 10.1002/14651858.CD003183 | 일부 한약이 인터페론 병용 시 간 효소·HCV RNA 개선, 근거 질 낮음 |
+| Juzen-taiho-to ameliorates anemia during IFN+ribavirin in chronic hepatitis C | 관찰연구 | 67 | 중등도 | 10.1007/s00535-004-1472-0 | 십전대보탕이 리바비린 유발 빈혈 완화, 용량 감량 빈도 감소 |
 | A Case Report of Alcoholic Hepatitis with Megaloblastic Anemia | 증례 | 1 | 낮음 | 10.22246/jikm.2024.45.3.444 | 한방 통합 치료가 간 기능·빈혈·피로 개선 |
 | Hepatitis associated with Chinese herbs | 증례 | 17 | 낮음 | 10.1097/00042737-200205000-00015 | 규제되지 않은 한약이 중증 간염·사망 유발 가능 |
 | Herbal hepatotoxicity | 문헌고찰 | - | 낮음 | 10.1055/s-2002-30104 | 허브 의약품 간독성 위험, 여성·CYP 유도제 복용자 취약 |
-| Chinese medicinal herbs for chronic hepatitis B | 체계적 고찰 | 936 | 중간 | 10.1002/14651858.CD001940 | 부정해독탕·복령 다당류·필란투스가 HBeAg·HBV DNA 개선 |
-| Chinese medicinal herbs for asymptomatic carriers of HBV | 체계적 고찰 | 307 | 중간 | 10.1002/14651858.CD002231 | 건비온신방이 인터페론 대비 바이러스 표지자 개선 가능 |
-| Chinese medicinal herbs for chronic hepatitis B (SR) | 체계적 고찰 | 936 | 중간 | 10.1034/j.1600-0676.2001.021004280.x | 복정해독탕 등이 바이러스 표지자 개선, 연구 질 낮음 |
-| Misuse of randomization in Chinese RCTs of herbal medicines | 체계적 고찰 | 20452 | 중간 | 10.1142/S0192415X0200017X | 만성 B형 간염 한약 RCT의 무작위 배정 품질 매우 낮음 |
+| Chinese medicinal herbs for chronic hepatitis B | 체계적 고찰 | 936 | 중등도 | 10.1002/14651858.CD001940 | 부정해독탕·복령 다당류·필란투스가 HBeAg·HBV DNA 개선 |
+| Chinese medicinal herbs for asymptomatic carriers of HBV | 체계적 고찰 | 307 | 중등도 | 10.1002/14651858.CD002231 | 건비온신방이 인터페론 대비 바이러스 표지자 개선 가능 |
+| Chinese medicinal herbs for chronic hepatitis B (SR) | 체계적 고찰 | 936 | 중등도 | 10.1034/j.1600-0676.2001.021004280.x | 복정해독탕 등이 바이러스 표지자 개선, 연구 질 낮음 |
+| Misuse of randomization in Chinese RCTs of herbal medicines | 체계적 고찰 | 20452 | 중등도 | 10.1142/S0192415X0200017X | 만성 B형 간염 한약 RCT의 무작위 배정 품질 매우 낮음 |
 | Fuzheng Huayu Recipe inhibited HBeAg production | 실험연구 | - | 낮음 | 10.3389/fphar.2022.907921 | 부정화어방이 TOMM34 발현 촉진으로 HBeAg 생성 억제 |
-| Wuling capsules + nucleos(t)ide analogues in chronic hepatitis B | 임상시험 | 100 | 중간 | 10.3760/cma.j.cn501113-20251215-00532 | 오령캡슐 병용이 HBV DNA 음전율·간 기능 개선 |
-| Modified Yiguanjian decoction in pregnant patients with chronic hepatitis B | 임상시험 | 171 | 중간 | 10.62347/BHXR9489 | 가감 이관건탕이 임신부 간 기능·섬유화 마커 개선, 안전 |
-| Auricular Acupressure for Insomnia in Decompensated HBV Cirrhosis | 임상시험 | 60 | 중간 | 10.1177/03601293251406321 | 이침 압박이 간경변 환자 불면증·수면 질 개선 |
-| Acupuncture treatment for acute icteric hepatitis | 임상시험 | 40 | 중간 | 10.46949/acm.2021.2.1 | 침 병행이 급성 황달성 간염 간 효소 개선 |
+| Wuling capsules + nucleos(t)ide analogues in chronic hepatitis B | 임상시험 | 100 | 중등도 | 10.3760/cma.j.cn501113-20251215-00532 | 오령캡슐 병용이 HBV DNA 음전율·간 기능 개선 |
+| Modified Yiguanjian decoction in pregnant patients with chronic hepatitis B | 임상시험 | 171 | 중등도 | 10.62347/BHXR9489 | 가감 이관건탕이 임신부 간 기능·섬유화 마커 개선, 안전 |
+| Auricular Acupressure for Insomnia in Decompensated HBV Cirrhosis | 임상시험 | 60 | 중등도 | 10.1177/03601293251406321 | 이침 압박이 간경변 환자 불면증·수면 질 개선 |
+| Acupuncture treatment for acute icteric hepatitis | 임상시험 | 40 | 중등도 | 10.46949/acm.2021.2.1 | 침 병행이 급성 황달성 간염 간 효소 개선 |
 | Risk of HCV Transmission through Acupuncture | 메타분석 | 194826 | 높음 | 10.4166/kjg.2023.060 | 멸균되지 않은 침이 HCV 전염 위험 증가(OR 1.84) |
-| TCM on immune function in HBV-related fibrosis/cirrhosis | 메타분석 | 2585 | 중간 | 10.3389/fmed.2026.1872781 | 중의학+핵산 유사체 병용이 면역·간 기능 개선 |
+| TCM on immune function in HBV-related fibrosis/cirrhosis | 메타분석 | 2585 | 중등도 | 10.3389/fmed.2026.1872781 | 중의학+핵산 유사체 병용이 면역·간 기능 개선 |
 | Chinese patent medicines for liver fibrosis and cirrhosis | 메타분석 | 37380 | 높음 | 10.1016/j.phymed.2025.157246 | 간섬유화엔 안락화선환, 간경변엔 육미오령정 효과적 |
-| Chinese Herbal Medicine Combined with Western Medicine in Icteric Hepatitis | 메타분석 | 645 | 중간 | 10.2174/0113862073421260251113045022 | 중약+양약 병용이 황달성 간염 간 기능 개선, 안전 |
-| Predictive model for HBsAg loss in chronic hepatitis B | 관찰연구 | 859 | 중간 | 10.3389/fcimb.2026.1865116 | TCM 병용·낮은 HBsAg·AST가 HBsAg 소실 예측 인자 |
-| TCM Syndrome Patterns and HBsAg Levels in Chronic HBV | 관찰연구 | 289 | 중간 | 10.1155/2018/7482593 | 단계별 변증(비신양허·간담습열·어혈)이 HBsAg와 연관 |
-| Syndrome differentiation of chronic hepatitis B by metabolomics | 관찰연구 | 64 | 중간 | 10.18103/mra.v8i11.2239 | 대사체 분석으로 습열내온증 변증 객관화 |
-| Harmonic analysis of radial pulse in hepatitis | 관찰연구 | 75 | 중간 | 10.3389/fmed.2026.1848946 | 맥파 조화 분석이 간염 생리 변화 반영, C형 간염 C1 상승 |
-| Risk factors for pseudoaldosteronism in chronic hepatitis | 관찰연구 | 1392 | 중간 | 10.1111/bcpt.13178 | 직접 빌리루빈·저알부민혈증이 감초 유발 저칼륨혈증 위험 |
-| Kampo in reducing adverse effects of IFN-β in chronic hepatitis C | 임상시험 | 28 | 중간 | 10.1142/s0192415x02000284 | 갈근탕·대청룡탕이 인터페론 부작용 감소 |
-| Mao-to for prevention of IFN-induced psychiatric complications | 임상시험 | 12 | 중간 | 10.1002/hup.587 | 갈근탕이 인터페론 유발 우울증 예방 |
+| Chinese Herbal Medicine Combined with Western Medicine in Icteric Hepatitis | 메타분석 | 645 | 중등도 | 10.2174/0113862073421260251113045022 | 중약+양약 병용이 황달성 간염 간 기능 개선, 안전 |
+| Predictive model for HBsAg loss in chronic hepatitis B | 관찰연구 | 859 | 중등도 | 10.3389/fcimb.2026.1865116 | TCM 병용·낮은 HBsAg·AST가 HBsAg 소실 예측 인자 |
+| TCM Syndrome Patterns and HBsAg Levels in Chronic HBV | 관찰연구 | 289 | 중등도 | 10.1155/2018/7482593 | 단계별 변증(비신양허·간담습열·어혈)이 HBsAg와 연관 |
+| Syndrome differentiation of chronic hepatitis B by metabolomics | 관찰연구 | 64 | 중등도 | 10.18103/mra.v8i11.2239 | 대사체 분석으로 습열내온증 변증 객관화 |
+| Harmonic analysis of radial pulse in hepatitis | 관찰연구 | 75 | 중등도 | 10.3389/fmed.2026.1848946 | 맥파 조화 분석이 간염 생리 변화 반영, C형 간염 C1 상승 |
+| Risk factors for pseudoaldosteronism in chronic hepatitis | 관찰연구 | 1392 | 중등도 | 10.1111/bcpt.13178 | 직접 빌리루빈·저알부민혈증이 감초 유발 저칼륨혈증 위험 |
+| Kampo in reducing adverse effects of IFN-β in chronic hepatitis C | 임상시험 | 28 | 중등도 | 10.1142/s0192415x02000284 | 갈근탕·대청룡탕이 인터페론 부작용 감소 |
+| Mao-to for prevention of IFN-induced psychiatric complications | 임상시험 | 12 | 중등도 | 10.1002/hup.587 | 갈근탕이 인터페론 유발 우울증 예방 |
 | Clinical and Pharmacological Studies on Liver Disease with Kampo | 실험연구 | - | 낮음 | 10.1142/s0192415x00000416 | 인삼영양탕·오미자 고미신 A가 HCV 억제 |
 | Herbal medicine in the treatment of liver diseases | 문헌고찰 | - | 낮음 | 10.1016/j.dld.2006.11.004 | 실리마린·글리시리진 유망, 표준화 근거 부족 |
-| Serious adverse effects of unconventional therapies in children | 체계적 고찰 | - | 중간 | 10.1007/s00431-002-1113-7 | 소아 규제되지 않은 한약이 중증 간부전 유발 가능 |
-| Adverse events of acupuncture: systematic review | 체계적 고찰 | 318 | 중간 | 10.1155/2013/581203 | 침 부작용은 감염 중심, 위생 지침 준수 필요 |
-| Safety of Oriental Medical Therapy: Drug Fever | 관찰연구 | 19005 | 중간 | 10.22246/jikm.2021.42.6.1237 | 한약·한방 시술 발열률 낮음, 감초·당귀·백출·뜸 연관 |
-| Use of CAM in chronic viral hepatitis in Turkey | 관찰연구 | 588 | 중간 | 10.1016/j.ctim.2019.102229 | 만성 간염 환자 CAM 사용률 높음, 본초·부항 다용 |
+| Serious adverse effects of unconventional therapies in children | 체계적 고찰 | - | 중등도 | 10.1007/s00431-002-1113-7 | 소아 규제되지 않은 한약이 중증 간부전 유발 가능 |
+| Adverse events of acupuncture: systematic review | 체계적 고찰 | 318 | 중등도 | 10.1155/2013/581203 | 침 부작용은 감염 중심, 위생 지침 준수 필요 |
+| Safety of Oriental Medical Therapy: Drug Fever | 관찰연구 | 19005 | 중등도 | 10.22246/jikm.2021.42.6.1237 | 한약·한방 시술 발열률 낮음, 감초·당귀·백출·뜸 연관 |
+| Use of CAM in chronic viral hepatitis in Turkey | 관찰연구 | 588 | 중등도 | 10.1016/j.ctim.2019.102229 | 만성 간염 환자 CAM 사용률 높음, 본초·부항 다용 |
 | Acute hepatitis induced by Shou-Wu-Pian | 증례 | 1 | 낮음 | 10.1046/j.1440-1746.2001.02309.x | 하수오 제제가 급성 담즙정체성 간염 유발 |
 | Bleeding complications after Gingko biloba use post-liver transplant | 증례 | 1 | 낮음 | 10.1007/s00147-002-0432-y | 은행잎 추출물이 간이식 후 출혈 합병증 유발 |
 | Treatment of chronic liver diseases with TCM | 문헌고찰 | 2107 | 낮음 | 10.1046/j.1440-1746.2000.02100.x | 중의학 제제가 바이러스 억제·간 수치·섬유화 역전에 효과 |
 | Epimedium and its bioactive flavonoids in hepatitis and cirrhosis | 문헌고찰 | - | 낮음 | 10.3389/fcimb.2026.1799319 | 이카리틴이 항섬유화·면역 조절 잠재력, 고농도 간독성 |
 | Liver Disease and Plant-Derived Phytoconstituents | 문헌고찰 | - | 낮음 | 10.1002/ptr.70383 | 실리마린·진세노사이드 등이 간염·섬유화 조절 |
 | Herbal Drug Treatment for Liver Disorders: Phyllanthus amarus | 문헌고찰 | - | 낮음 | 10.46956/ijihd.v11i1.811 | 필란투스 아마루스가 간 보호·항바이러스 효과 |
-| Chinese patent medicine combined with entecavir for HBV fibrosis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000015732 | 엔테카비르+중성약 병용이 간섬유화 개선 근거 마련 중 |
-| Fuzheng Huayu tablets reduces decompensation risk (protocol) | 임상시험 | 432 | 중간 | 10.3389/fphar.2026.1828944 | 부정화어 정제가 간부전 후 추가 간부전 위험 감소 검증 중 |
-| Overview of RCTs of Chinese Herbal Medicine Formula Granules | 체계적 고찰 | 4632 | 중간 | 10.1155/2019/6486293 | 중약 과립제가 B·C형 간염 등에서 위약 대비 유의 효과 |
-| Padma 28, a Complex Herbal Formulation from Tibetan Medicine | 체계적 고찰 | 2431 | 중간 | 10.1159/000351722 | Padma 28이 바이러스성 간염 등에 안전·효과적 |
-| Study on chemoprevention of HCC by ginseng (protocol) | 임상시험 | 300 | 중간 | 10.3346/jkms.2001.16.S.S70 | 홍삼 1g/일 5년 투여가 간암 예방 효과 검증 계획 |
+| Chinese patent medicine combined with entecavir for HBV fibrosis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000015732 | 엔테카비르+중성약 병용이 간섬유화 개선 근거 마련 중 |
+| Fuzheng Huayu tablets reduces decompensation risk (protocol) | 임상시험 | 432 | 중등도 | 10.3389/fphar.2026.1828944 | 부정화어 정제가 간부전 후 추가 간부전 위험 감소 검증 중 |
+| Overview of RCTs of Chinese Herbal Medicine Formula Granules | 체계적 고찰 | 4632 | 중등도 | 10.1155/2019/6486293 | 중약 과립제가 B·C형 간염 등에서 위약 대비 유의 효과 |
+| Padma 28, a Complex Herbal Formulation from Tibetan Medicine | 체계적 고찰 | 2431 | 중등도 | 10.1159/000351722 | Padma 28이 바이러스성 간염 등에 안전·효과적 |
+| Study on chemoprevention of HCC by ginseng (protocol) | 임상시험 | 300 | 중등도 | 10.3346/jkms.2001.16.S.S70 | 홍삼 1g/일 5년 투여가 간암 예방 효과 검증 계획 |
 | Natural product FZJDXJ enhances CD8+ T-cell glycolysis in HBV(+) HCC | 실험연구 | 80 | 낮음 | 10.3389/fnut.2026.1829200 | 부정해독소적방이 CD8+ T세포 당분해 촉진으로 항종양 면역 강화 |
 | Combined TCM, Lenvatinib, and Carrelizumab in primary liver cancer | 증례 | 1 | 낮음 | 10.1002/acm4.20 | 중약+표적·면역치료 병용이 간암 진행 안정화 |
 | Liver toxicity of drugs of plant origin | 문헌고찰 | - | 낮음 | 10.1055/s-2001-11772 | 식물 유래 약물이 다양한 간독성 유발 가능 |
-| Ashwagandha-Associated Liver Injury | 체계적 고찰 | 25 | 중간 | 10.7759/cureus.109764 | Ashwagandha가 담즙정체형 간 손상 유발, 간경변 환자 금기 |
+| Ashwagandha-Associated Liver Injury | 체계적 고찰 | 25 | 중등도 | 10.7759/cureus.109764 | Ashwagandha가 담즙정체형 간 손상 유발, 간경변 환자 금기 |
 
 ## 임상 적용
 

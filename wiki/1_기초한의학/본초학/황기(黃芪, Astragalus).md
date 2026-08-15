@@ -38,29 +38,29 @@
 | Traditional herbal medicine for prevention of chemotherapy-induced peripheral neuropathy: meta-analysis | 메타분석 | 2882 | 높음 | 10.3389/fphar.2025.1607181 / 40703357 | 황기-계지 조합이 CIPN 예방에 유용, 근거 확실성 낮음 |
 | Meta-Analysis of Traditional Chinese Patent Medicine for Ischemic Stroke | 메타분석 | 19338 | 높음 | 10.1161/strokeaha.106.473165 | 황기 등 특허약의 신경 결손 개선 근거는 편향 가능성 높음 |
 | Efficacy of Chinese patent medicines combined with western medicine in preeclampsia: Bayesian network meta-analysis | 메타분석 | 7044 | 높음 | 10.1016/j.jep.2025.120401 / 40803613 | 황기주사액 병용이 혈압·요단백 감소에 우수 |
-| Oral Astragalus Root Supplementation for Mild to Moderate Chronic Kidney Disease: Self-Controlled Case-Series | 관찰연구 | 37 | 중간 | 10.3389/fphar.2022.775798 / 35300298 | 황기 함유 제제가 eGFR 유의 개선 |
-| A retrospective analysis of scraping therapy with Astragalus ointment combined with Tuina on upper limb spastic hemiplegia after hemorrhagic stroke | 관찰연구 | 106 | 중간 | 10.12669/pjms.42.1.13842 / 41737180 | 황기 고약 괄사+추나 병행이 경직·ADL 개선에 유효 |
-| Evaluating myelophil (Astragalus and Salvia extract) for fatigue in long COVID: real-world observational study | 관찰연구 | 50 | 중간 | 10.3389/fphar.2024.1394810 / 38966550 | 황기-단삼 추출물이 Long COVID 피로·뇌안개 개선 |
-| [Effect of milkvetch injection on immune function of children with tetralogy of Fallot after radical operation] | 임상시험 | 40 | 중간 | - / 15307696 | 황기약침이 면역글로불린·보체·림프구 회복에 유효 |
-| [Effect of Milkvetch Injection on cardiac function and hemodynamics in children with tetralogy of Fallot] | 임상시험 | 32 | 중간 | - / 14714355 | 황기주사액이 심기능·혈역학 개선, ICU 체류 단축 |
-| [Clinical observation on diabetic nephropathy with compound fructus arctii mixture] | 임상시험 | 54 | 중간 | - / 15307694 | 우방자+황기가 요단백·혈당·지질 개선 |
-| [Modulatory effect of Astragalus membranaceus on Th1/Th2 cytokine in herpes simplex keratitis] | 임상시험 | 106 | 중간 | - / 15015443 | 황기가 HSK의 Th1/Th2 불균형 조절 |
-| [Effect of astragalus injection combined with chemotherapy on quality of life in advanced NSCLC] | 임상시험 | 60 | 중간 | - / 14626183 | 황기주사액+화학요법 병용이 생존·삶의 질 개선 |
-| [Effect of astragalus injection on immune function in congestive heart failure] | 임상시험 | 62 | 중간 | - / 12800417 | 황기주사액이 심기능·CD4/CD8 개선 |
-| [Clinical study on effect of Astragalus in efficacy enhancing and toxicity reducing of chemotherapy] | 임상시험 | 120 | 중간 | - / 12592686 | 황기 병용이 골수 억제 독성 감소·면역 개선 |
-| [Effect of Astragalus injection on left ventricular remodeling and function in acute myocardial infarction] | 임상시험 | 108 | 중간 | - / 12584831 | 황기주사액이 좌심실 리모델링 억제·산화 스트레스 조절 |
-| [Influence of Salvia miltiorrhizae and Astragalus membranaceus on hemodynamics and liver fibrosis in cirrhotic patients] | 임상시험 | 84 | 중간 | - / 12577420 | 단삼+황기 병용이 문맥고혈압·간섬유화 지표 개선 |
-| [Observation on supplementary treatment by Astragalus injection in senile pulmonary tuberculosis] | 임상시험 | 76 | 중간 | - / 12577419 | 황기주사액이 노인 결핵의 면역·음전율 개선 |
-| [Effect of Astragalus injection on platelet function and endothelin in early diabetic nephropathy] | 임상시험 | 136 | 중간 | - / 12577356 | 황기주사액이 ET-1·요알부민 감소 |
-| [Observation on collaborative treatment of dilated cardiomyopathy] | 임상시험 | 320 | 중간 | - / 12577349 | 황기·생맥주사 병용이 장기 사망률 감소 |
-| [Clinical study of Astragalus injection plus ligustrazine in myocardial ischemia reperfusion injury] | 임상시험 | 24 | 중간 | - / 11789206 | 황기+리구스트라진 병용이 심근 보호 우수 |
-| Evaluation of Auricular Acupoint Pressure Patch Combined with Modified Huangqi Decoction in Diabetic Nephropathy | 임상시험 | 60 | 중간 | 10.26689/jcnr.v8i1.5947 | 가감 황기탕+이침 병용이 신기능·증상 개선 |
-| Huangqi Guizhi Wuwu Decoction in Pemetrexed Intrathecal Chemotherapy-induced Neurotoxicity in NSCLC: RCT | 임상시험 | 220 | 중간 | 10.3779/j.issn.1009-3419.2026.102.02 / 41975647 | 황기계지오물탕이 신경독성·생존 개선 |
-| Neuroprotection and prevention of oxaliplatin-induced neuropathy with Huangqi Guizhi Wuwu Decoction: 12-center RCT | 임상시험 | 360 | 중간 | 10.1016/j.phymed.2026.158539 / 42435525 | 황기계지오오탕이 CIPN 발생률 유의 감소, 안전 |
-| The effect of Astragalus membranaceus on gut microbiota and chemotherapy complications in colon cancer | 임상시험 | 86 | 중간 | 10.36721/PJPS.2026.39.9.270.1 / 42437336 | 황기 병용이 장내 유익균·면역 개선 |
-| Astragalus membranaceus extract reduces functional knee joint pain: randomized, double-blinded, placebo-controlled trial | 임상시험 | 90 | 중간 | 10.3389/fpain.2025.1595957 / 41235391 | 황기 추출물이 무릎 통증·관절 기능 개선, 안전 |
-| Effect and safety of Neiguan acupoint injection with astragalus injection for chronic heart failure with qi-deficiency and blood-stasis: RCT | 임상시험 | 200 | 중간 | 10.3389/fmed.2026.1836620 / 42292177 | 내관혈 황기주사액 약침이 심기능·삶의 질 개선 |
-| SHPro (Angelica gigas + Astragalus) in men with lower urinary tract symptoms: RCT | 임상시험 | 84 | 중간 | 10.4111/icu.20250025 / 41184148 | 황기-당귀 혼합물이 잔뇨감·성기능 개선 |
+| Oral Astragalus Root Supplementation for Mild to Moderate Chronic Kidney Disease: Self-Controlled Case-Series | 관찰연구 | 37 | 중등도 | 10.3389/fphar.2022.775798 / 35300298 | 황기 함유 제제가 eGFR 유의 개선 |
+| A retrospective analysis of scraping therapy with Astragalus ointment combined with Tuina on upper limb spastic hemiplegia after hemorrhagic stroke | 관찰연구 | 106 | 중등도 | 10.12669/pjms.42.1.13842 / 41737180 | 황기 고약 괄사+추나 병행이 경직·ADL 개선에 유효 |
+| Evaluating myelophil (Astragalus and Salvia extract) for fatigue in long COVID: real-world observational study | 관찰연구 | 50 | 중등도 | 10.3389/fphar.2024.1394810 / 38966550 | 황기-단삼 추출물이 Long COVID 피로·뇌안개 개선 |
+| [Effect of milkvetch injection on immune function of children with tetralogy of Fallot after radical operation] | 임상시험 | 40 | 중등도 | - / 15307696 | 황기약침이 면역글로불린·보체·림프구 회복에 유효 |
+| [Effect of Milkvetch Injection on cardiac function and hemodynamics in children with tetralogy of Fallot] | 임상시험 | 32 | 중등도 | - / 14714355 | 황기주사액이 심기능·혈역학 개선, ICU 체류 단축 |
+| [Clinical observation on diabetic nephropathy with compound fructus arctii mixture] | 임상시험 | 54 | 중등도 | - / 15307694 | 우방자+황기가 요단백·혈당·지질 개선 |
+| [Modulatory effect of Astragalus membranaceus on Th1/Th2 cytokine in herpes simplex keratitis] | 임상시험 | 106 | 중등도 | - / 15015443 | 황기가 HSK의 Th1/Th2 불균형 조절 |
+| [Effect of astragalus injection combined with chemotherapy on quality of life in advanced NSCLC] | 임상시험 | 60 | 중등도 | - / 14626183 | 황기주사액+화학요법 병용이 생존·삶의 질 개선 |
+| [Effect of astragalus injection on immune function in congestive heart failure] | 임상시험 | 62 | 중등도 | - / 12800417 | 황기주사액이 심기능·CD4/CD8 개선 |
+| [Clinical study on effect of Astragalus in efficacy enhancing and toxicity reducing of chemotherapy] | 임상시험 | 120 | 중등도 | - / 12592686 | 황기 병용이 골수 억제 독성 감소·면역 개선 |
+| [Effect of Astragalus injection on left ventricular remodeling and function in acute myocardial infarction] | 임상시험 | 108 | 중등도 | - / 12584831 | 황기주사액이 좌심실 리모델링 억제·산화 스트레스 조절 |
+| [Influence of Salvia miltiorrhizae and Astragalus membranaceus on hemodynamics and liver fibrosis in cirrhotic patients] | 임상시험 | 84 | 중등도 | - / 12577420 | 단삼+황기 병용이 문맥고혈압·간섬유화 지표 개선 |
+| [Observation on supplementary treatment by Astragalus injection in senile pulmonary tuberculosis] | 임상시험 | 76 | 중등도 | - / 12577419 | 황기주사액이 노인 결핵의 면역·음전율 개선 |
+| [Effect of Astragalus injection on platelet function and endothelin in early diabetic nephropathy] | 임상시험 | 136 | 중등도 | - / 12577356 | 황기주사액이 ET-1·요알부민 감소 |
+| [Observation on collaborative treatment of dilated cardiomyopathy] | 임상시험 | 320 | 중등도 | - / 12577349 | 황기·생맥주사 병용이 장기 사망률 감소 |
+| [Clinical study of Astragalus injection plus ligustrazine in myocardial ischemia reperfusion injury] | 임상시험 | 24 | 중등도 | - / 11789206 | 황기+리구스트라진 병용이 심근 보호 우수 |
+| Evaluation of Auricular Acupoint Pressure Patch Combined with Modified Huangqi Decoction in Diabetic Nephropathy | 임상시험 | 60 | 중등도 | 10.26689/jcnr.v8i1.5947 | 가감 황기탕+이침 병용이 신기능·증상 개선 |
+| Huangqi Guizhi Wuwu Decoction in Pemetrexed Intrathecal Chemotherapy-induced Neurotoxicity in NSCLC: RCT | 임상시험 | 220 | 중등도 | 10.3779/j.issn.1009-3419.2026.102.02 / 41975647 | 황기계지오물탕이 신경독성·생존 개선 |
+| Neuroprotection and prevention of oxaliplatin-induced neuropathy with Huangqi Guizhi Wuwu Decoction: 12-center RCT | 임상시험 | 360 | 중등도 | 10.1016/j.phymed.2026.158539 / 42435525 | 황기계지오오탕이 CIPN 발생률 유의 감소, 안전 |
+| The effect of Astragalus membranaceus on gut microbiota and chemotherapy complications in colon cancer | 임상시험 | 86 | 중등도 | 10.36721/PJPS.2026.39.9.270.1 / 42437336 | 황기 병용이 장내 유익균·면역 개선 |
+| Astragalus membranaceus extract reduces functional knee joint pain: randomized, double-blinded, placebo-controlled trial | 임상시험 | 90 | 중등도 | 10.3389/fpain.2025.1595957 / 41235391 | 황기 추출물이 무릎 통증·관절 기능 개선, 안전 |
+| Effect and safety of Neiguan acupoint injection with astragalus injection for chronic heart failure with qi-deficiency and blood-stasis: RCT | 임상시험 | 200 | 중등도 | 10.3389/fmed.2026.1836620 / 42292177 | 내관혈 황기주사액 약침이 심기능·삶의 질 개선 |
+| SHPro (Angelica gigas + Astragalus) in men with lower urinary tract symptoms: RCT | 임상시험 | 84 | 중등도 | 10.4111/icu.20250025 / 41184148 | 황기-당귀 혼합물이 잔뇨감·성기능 개선 |
 | Case Report of Type-1 Diabetes Mellitus with Uncontrolled Blood Sugar Improved by Complex Korean Medicine Treatment | 증례 | 1 | 낮음 | 10.22246/jikm.2023.44.2.269 | 가미황기계지오물탕 등 한방 복합 치료가 혈당·염증 지표 개선 |
 | Edematous erythema at the hands and feet probably caused by radix astragali | 증례 | 1 | 낮음 | 10.4137/IMI.S5824 / 21614162 | 황기 투여 후 드물게 부종성 홍반 과민반응 가능 |
 

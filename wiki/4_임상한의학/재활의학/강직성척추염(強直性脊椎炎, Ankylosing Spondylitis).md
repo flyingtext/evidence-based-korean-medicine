@@ -162,35 +162,35 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Efficacy of Thunder-Fire Moxibustion In Treating Ankylosing Spondylitis of Kidney Deficiency And Governor Meridian Cold | 임상시험 | 60 | 중간 | 10.21203/rs.3.rs-559722/v1 | 신허·독맥한형 AS에 뇌화구가 BASDAI·BASFI·염증·골대사 개선 기대 |
-| Efficacy of warming needle moxibustion in the treatment of ankylosing spondylitis | 임상시험 | - | 중간 | 10.1097/md.0000000000025850 | 온침구가 약물 부작용 보완·기능·염증 지표 개선 |
-| Combined moxibustion/adalimumab treatment of ankylosing spondylitis | 임상시험 | 90 | 중간 | 10.4314/tjpr.v21i3.25 | 독맥구+아달리무맙 병용이 통증·BASDAI·BASFI·염증 개선 |
+| Efficacy of Thunder-Fire Moxibustion In Treating Ankylosing Spondylitis of Kidney Deficiency And Governor Meridian Cold | 임상시험 | 60 | 중등도 | 10.21203/rs.3.rs-559722/v1 | 신허·독맥한형 AS에 뇌화구가 BASDAI·BASFI·염증·골대사 개선 기대 |
+| Efficacy of warming needle moxibustion in the treatment of ankylosing spondylitis | 임상시험 | - | 중등도 | 10.1097/md.0000000000025850 | 온침구가 약물 부작용 보완·기능·염증 지표 개선 |
+| Combined moxibustion/adalimumab treatment of ankylosing spondylitis | 임상시험 | 90 | 중등도 | 10.4314/tjpr.v21i3.25 | 독맥구+아달리무맙 병용이 통증·BASDAI·BASFI·염증 개선 |
 | The Efficacy of Moxibustion and Acupuncture Therapy for Ankylosing Spondylitis: Overview Protocol | 체계적 고찰 | - | 프로토콜 | 10.21203/rs.3.rs-72275/v1 | 침뜸 요법의 근거 수준·신뢰도 평가 프로토콜 |
-| Clinical study on long-term treatment of AS with integrated TCM and Western medicine | 임상시험 | 188 | 중간 | PMID 12575568 | 중의·서양 통합 장기 치료가 단기 증상·재발률 개선 |
-| Clinical observation on treatment of AS with huatan zhuyu jiedu decoction | 임상시험 | 100 | 중간 | PMID 12572374 | 화담저어해독탕이 독활기생탕보다 증상·염증·X-ray 개선 |
-| Clinical and experimental study on treatment of ankylosing spondylitis | 임상시험 | 70 | 중간 | PMID 11783210 | 구비인이 인도메타신보다 증상·관절 기능 개선 |
-| Huangqin Qingre Chubi Capsule modulates lncRNA AP005432.1/PI3K/AKT axis | 실험연구 | 189 | 중간 | 10.1016/j.jep.2026.121662 | 황금청열초비가 염증·삶의 질 개선, PI3K/AKT 축 조절 |
-| TCM collaborative care involving acupuncture for axial spondyloarthritis | 임상시험 | 139 | 중간 | 10.1016/j.ero.2026.03.014 | 한의 협진(침)이 6주 후 통증·BASDAI·삶의 질 개선 |
+| Clinical study on long-term treatment of AS with integrated TCM and Western medicine | 임상시험 | 188 | 중등도 | PMID 12575568 | 중의·서양 통합 장기 치료가 단기 증상·재발률 개선 |
+| Clinical observation on treatment of AS with huatan zhuyu jiedu decoction | 임상시험 | 100 | 중등도 | PMID 12572374 | 화담저어해독탕이 독활기생탕보다 증상·염증·X-ray 개선 |
+| Clinical and experimental study on treatment of ankylosing spondylitis | 임상시험 | 70 | 중등도 | PMID 11783210 | 구비인이 인도메타신보다 증상·관절 기능 개선 |
+| Huangqin Qingre Chubi Capsule modulates lncRNA AP005432.1/PI3K/AKT axis | 실험연구 | 189 | 중등도 | 10.1016/j.jep.2026.121662 | 황금청열초비가 염증·삶의 질 개선, PI3K/AKT 축 조절 |
+| TCM collaborative care involving acupuncture for axial spondyloarthritis | 임상시험 | 139 | 중등도 | 10.1016/j.ero.2026.03.014 | 한의 협진(침)이 6주 후 통증·BASDAI·삶의 질 개선 |
 | Efficacy of acupuncture in the management of AS: SR and meta-analysis | 메타분석 | - | 높음 | 10.3389/fneur.2025.1716550 | 침이 BASDAI·ASDAS·BASFI·VAS·CRP·ESR 개선 |
-| Staged treatment for 32 cases of AS with different acupuncture methods (jingjin) | 임상시험 | 32 | 중간 | 10.13703/j.0255-2930.20240321-k0004 | 경근 이론 단계별 침법이 통증·조조강직 개선 |
+| Staged treatment for 32 cases of AS with different acupuncture methods (jingjin) | 임상시험 | 32 | 중등도 | 10.13703/j.0255-2930.20240321-k0004 | 경근 이론 단계별 침법이 통증·조조강직 개선 |
 | Acupuncture for ankylosing spondylitis: updated SR and meta-analysis | 메타분석 | 1884 | 높음 | 10.1177/10538127241289339 | 침이 통증·척추 기능·삶의 질·CRP·ESR 개선 |
-| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중간 | 10.3390/jcm10081750 | 부항이 근골격계 통증·피부 질환에 잠재적 이점 |
+| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중등도 | 10.3390/jcm10081750 | 부항이 근골격계 통증·피부 질환에 잠재적 이점 |
 | Chinese herbal medicine Yanghe decoction for ankylosing spondylitis | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000023466 | 양화탕의 효과·안전성 평가 체계적 고찰 |
 | Efficacy and Safety of Ultrasound-Guided Acupotomy for Chronic Spinal Pain | 메타분석 | 2669 | 높음 | 10.2147/JPR.S602089 | 초음파 유도 도침이 만성 척추 통증·기능 개선 |
-| Clinical observation on acupuncture combined with cupping for AS | 임상시험 | 62 | 중간 | PMID 16309054 | 침+발관 병행이 관해율·유효율 개선, 재발률 감소 |
+| Clinical observation on acupuncture combined with cupping for AS | 임상시험 | 62 | 중등도 | PMID 16309054 | 침+발관 병행이 관해율·유효율 개선, 재발률 감소 |
 | Ankylosing Spondylitis Treated with Zhang's Cupping Triple Therapy | 증례 | - | 낮음 | 10.31579/2693-4779/131 | 장씨 부항 삼중 요법이 보완적 치료 대안 |
 | Danger of injudicious use of tui-na therapy in ankylosing spondylitis | 증례 | 1 | 낮음 | 10.1007/s00586-017-5002-1 | 급성 악화기 추나 과용이 치명적 결과 초래 가능 |
-| Multi-omics study on kidney deficiency and blood stasis in AS | 실험연구 | - | 중간 | 10.19852/j.cnki.jtcm.2026.01.017 | 신허혈어증 바이오마커(ICAM1·CXCL8 등) 제시 |
+| Multi-omics study on kidney deficiency and blood stasis in AS | 실험연구 | - | 중등도 | 10.19852/j.cnki.jtcm.2026.01.017 | 신허혈어증 바이오마커(ICAM1·CXCL8 등) 제시 |
 | Effectiveness and safety of Chinese herbal formula combined with WM for AS | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000026374 | 중약+양약 병용 유효성·안전성 평가 프로토콜 |
-| Clinical observation on AS treated with acupoint catgut embedding + vessel pricking | 임상시험 | 86 | 중간 | PMID 21823280 | 매선+자락이 SASP 단독보다 증상·기능 개선 |
+| Clinical observation on AS treated with acupoint catgut embedding + vessel pricking | 임상시험 | 86 | 중등도 | PMID 21823280 | 매선+자락이 SASP 단독보다 증상·기능 개선 |
 | Needle knife diagnosis and treatment for AS at middle/advanced stage | 증례 | - | 낮음 | 10.13703/j.0255-2930.20240317-0001 | 경근 이론 침도 요법이 중말기 AS 증상 개선 |
 | Case Report: Long-term improvement after acupotomy in advanced AS | 증례 | 1 | 낮음 | 10.3389/fsurg.2025.1727275 | 도침이 천장관절 융합 AS의 통증·기능 개선 |
 | Different Acupuncture Therapies Combined with Sulfasalazine: Bayesian NMA | 메타분석 | - | 높음 | 10.2147/JPR.S555916 | 침도·독맥구·발관 병행이 BASFI·유효성 개선 |
 | Effectiveness and safety of electroacupuncture for AS: protocol | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000031706 | 전침의 유효성·안전성 평가 프로토콜 |
-| Technical operation specification for cupping therapy | 가이드라인 | - | 중간 | 10.4103/jin.jin_24_23 | 부항 표준 조작·AS 적용 방법 안내 |
-| Electroacupuncture for suboptimally managed pain in AS: pilot study | 임상시험 | 20 | 중간 | 10.1177/09645284261444761 | 전침이 기존 치료 불충분 AS의 통증 완화 |
+| Technical operation specification for cupping therapy | 가이드라인 | - | 중등도 | 10.4103/jin.jin_24_23 | 부항 표준 조작·AS 적용 방법 안내 |
+| Electroacupuncture for suboptimally managed pain in AS: pilot study | 임상시험 | 20 | 중등도 | 10.1177/09645284261444761 | 전침이 기존 치료 불충분 AS의 통증 완화 |
 | Effectiveness and safety of ear acupuncture for AS: protocol | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000032310 | 이침의 유효성·안전성 평가 프로토콜 |
-| Cupping therapy for treating AS: evidence from SR and meta-analysis | 메타분석 | - | 중간 | 10.1016/j.ctcp.2018.07.001 | 부항+양방 병행이 BASFI·BASDAI·ESR·CRP 개선 |
+| Cupping therapy for treating AS: evidence from SR and meta-analysis | 메타분석 | - | 중등도 | 10.1016/j.ctcp.2018.07.001 | 부항+양방 병행이 BASFI·BASDAI·ESR·CRP 개선 |
 | Complementary medicine for axial spondyloarthritis: scientific evidence? | 문헌고찰 | - | 낮음 | 10.1097/BOR.0000000000000513 | 운동·심신 요법이 기능 개선, 추나 안전성 주의 |
 | Treatment of deforming polyarthritis and spondyloarthritis with bee venom | 문헌고찰 | - | 낮음 | 10.17816/kazmj87243 | 봉독 요법이 척추관절염에 유효한 대안 가능 |
 

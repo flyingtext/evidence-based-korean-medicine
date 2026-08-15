@@ -120,53 +120,53 @@
 |---|---|---|---|---|---|
 | Acupuncture for Acne Vulgaris: A Systematic Review and Meta-Analysis | 메타분석 | - | 높음 | 10.1155/2018/4806734 | 침·이침이 약물과 유사한 병변 감소, 부작용 적음 |
 | A meta-analysis of the efficacy of fractional CO2 laser combined with acupuncture for acne scars | 메타분석 | 468 | 높음 | 10.1097/md.0000000000043391 | 레이저+침 병행이 흉터 개선 효과 증가 |
-| Complementary therapies for acne vulgaris | 체계적 고찰 | 3227 | 중간 | 10.1002/14651858.CD009436.pub2 | LGLD·티트리오일·봉독 잠재 이점, 한약·침 근거 부족 |
-| Acupoint Stimulation for Acne: A Systematic Review of Randomized Controlled Trials | 체계적 고찰 | 3453 | 중간 | 10.1089/acu.2012.0906 | 혈위 자극이 한약·마스크 병행 시 완치율 증가 |
-| Current state of research on acupuncture for acne: a scoping review | 체계적 고찰 | - | 중간 | 10.3389/fphys.2025.1661850 | 침이 효과적·안전, 화침 부작용 주의 |
-| Acupuncture as a Treatment Modality in Dermatology: A Systematic Review | 체계적 고찰 | - | 중간 | 10.1089/acm.2014.0274 | 침이 피부 질환에 유의한 효과 |
-| An updated review of the efficacy of cupping therapy | 체계적 고찰 | - | 중간 | 10.1371/journal.pone.0031793 | 부항이 여드름 등 치료율 향상 |
-| [Discussion on the suitable diseases and symptoms of bleeding therapy] | 체계적 고찰 | 98526 | 중간 | PMID 19489499 | 자락요법이 여드름에 뚜렷한 강점 |
-| [Analysis of Therapeutic Regularities and Characteristics of Blood-letting Therapy for Acne Patients Based on Data Mining] | 체계적 고찰 | - | 중간 | PMID 26237981 | 자락법이 풍열 변증에 유용, 한약·이침 병용 우수 |
+| Complementary therapies for acne vulgaris | 체계적 고찰 | 3227 | 중등도 | 10.1002/14651858.CD009436.pub2 | LGLD·티트리오일·봉독 잠재 이점, 한약·침 근거 부족 |
+| Acupoint Stimulation for Acne: A Systematic Review of Randomized Controlled Trials | 체계적 고찰 | 3453 | 중등도 | 10.1089/acu.2012.0906 | 혈위 자극이 한약·마스크 병행 시 완치율 증가 |
+| Current state of research on acupuncture for acne: a scoping review | 체계적 고찰 | - | 중등도 | 10.3389/fphys.2025.1661850 | 침이 효과적·안전, 화침 부작용 주의 |
+| Acupuncture as a Treatment Modality in Dermatology: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1089/acm.2014.0274 | 침이 피부 질환에 유의한 효과 |
+| An updated review of the efficacy of cupping therapy | 체계적 고찰 | - | 중등도 | 10.1371/journal.pone.0031793 | 부항이 여드름 등 치료율 향상 |
+| [Discussion on the suitable diseases and symptoms of bleeding therapy] | 체계적 고찰 | 98526 | 중등도 | PMID 19489499 | 자락요법이 여드름에 뚜렷한 강점 |
+| [Analysis of Therapeutic Regularities and Characteristics of Blood-letting Therapy for Acne Patients Based on Data Mining] | 체계적 고찰 | - | 중등도 | PMID 26237981 | 자락법이 풍열 변증에 유용, 한약·이침 병용 우수 |
 | The clinical observation of treating acne vulgaris with "xiao cuo fang" | 임상시험 | 133 | 높음 | PMID 15307690 | 소좌방+아다팔렌이 병변 감소율·유효율 높음 |
-| Clinical observation on treatment of female delayed acne vulgaris with qingre cuochuang tablet | 임상시험 | 60 | 중간 | PMID 15015441 | 청열착창정이 테스토스테론 저하 |
-| Clinical observation in 86 cases of acne vulgaris treated with Compound Oldenlandis Mixture | 임상시험 | 120 | 중간 | PMID 14719289 | 복방사사초합제가 당귀고삼환보다 유효율 높음 |
-| Efficacy of ah shi Point Acupuncture on Acne Vulgaris | 임상시험 | 36 | 중간 | 10.1136/aim.2010.003004 | 침이 염증성 병변·삶의 질 개선 |
-| Efficacy of acupuncture in improving the symptoms and the quality of life of patients with moderate or severe acne vulgaris: study protocol for a randomized controlled trial | 임상시험 | 100 | 중간 | 10.1186/s13063-020-04346-7 | 중등도·중증 침 치료 프로토콜 |
-| Efficacy of acupuncture in improving symptoms and quality of life of patients with acne vulgaris: a randomized sham acupuncture-controlled trial | 임상시험 | - | 중간 | 10.1177/09645284221076506 | 4주 단기 침이 가짜 침 대비 유의 효과 없음 |
-| Effectiveness of Acupuncture Therapy Combination with Moringa Leaf Mask on the Degree of Acne Vulgaris Lesions | 임상시험 | 38 | 중간 | 10.62354/ijoa.v2i2.33 | 국소 혈위 자극이 병변 감소에 효과적 |
-| The Effect of Local Point Acupuncture Therapy with a Combination of Tamanu Oil on Acne Vulgaris Lesions | 임상시험 | - | 중간 | 10.62354/ijoa.v2i2.26 | 국소 침+타마누 오일 병행이 염증 완화 |
-| Efficacy of Fire Needle Therapy Combined with Doxycycline Hydrochloride in the Management of Moderate-to-Severe Acne Vulgaris | 임상시험 | 70 | 중간 | 10.2147/JMDH.S558510 | 화침+독시사이클린이 병변·흉터·삶의 질 개선 |
-| [Effect of acupoint catgut embedding, fire needle, auricular acupuncture on female post-adolescent acne and serum sex hormone] | 임상시험 | 107 | 중간 | 10.13703/j.0255-2930.2018.08.010 | 매선·화침·이침이 성호르몬 조절 |
-| Effectiveness of Wet Cupping on Patients with Facial Acne Vulgaris | 임상시험 | 103 | 중간 | 10.1159/000514943 | 습식 부항 병행이 등급·삶의 질 개선 |
-| Effect of acupuncture anesthesia on acne vulgaris of pricking-bloodletting cupping | 임상시험 | 38 | 중간 | 10.1016/s0254-6272(14)60007-8 | 대추 자락발관, 합곡·곡지 침마취가 통증 감소 |
-| [Observation on therapeutic effect of ear point blood-letting combined with cupping on Back-shu points for treatment of acne vulgaris] | 임상시험 | - | 중간 | PMID 17853767 | 이혈 사혈+배수혈 부항이 완치율 높음 |
-| [Clinical observation on different frequency of auricular bloodletting combined with auricular point sticking for acne vulgaris] | 임상시험 | 90 | 중간 | 10.13703/j.0255-2930.20210519-k0006 | 이혈자락·압박이 병변·삶의 질 개선 |
-| Clinical observation on the effect of earlobe-bleeding plus body acupuncture in 85 cases of common acne | 임상시험 | 85 | 중간 | 10.1016/s0254-6272(08)60007-2 | 이갑사혈+전신 침이 유효율 96.47% |
-| [Randomized control study on the treatment of 26 cases of acne conglobata with encircling acupuncture combined with venesection and cupping] | 임상시험 | 52 | 중간 | PMID 19288903 | 포위침·사혈·부항이 IL-6 저하, 부작용 적음 |
-| [Syndrome differentiation and typing of traditional Chinese medicine and the clinical efficacy in 148 cases of acne vulgaris] | 임상시험 | 208 | 중간 | PMID 12545968 | 변증 처방이 유효율 96% vs 75% |
-| Clinical Efficacy Observation of Integrated Traditional Chinese and Western Medicine Therapy in the Treatment of Acne Vulgaris | 임상시험 | 70 | 중간 | 10.53469/jcmp.2025.07(04).37 | 한약+클린다마이신 병용이 유효율 향상 |
-| The Therapeutic Effects of a Bentonite-Based Facial Mask With Alcea sulphurea Extract on Acne Severity | 임상시험 | 60 | 중간 | 10.1111/jocd.70586 | 벤토나이트 마스크 추가가 병변·만족도 개선 |
-| Safety and Preliminary Clinical Effects of a Herbal Balance Solution in Mild-To-Moderate Acne Vulgaris | 임상시험 | 33 | 중간 | 10.1111/jocd.70702 | Herbal Balance Solution이 병변·피부 장벽 개선 |
-| Efficacy and Safety of Phyllanthus Emblica and Tinospora Cordifolia in Postadolescence Acne | 임상시험 | 88 | 중간 | 10.1177/27683605261469317 | LNSA가 삶의 질 개선, 용량 의존 경향 |
-| Auricular points acupressure for insulin resistance in overweight/obese women with polycystic ovary syndrome | 임상시험 | 60 | 중간 | 10.1136/bmjopen-2018-027498 | 이혈 압박이 PCOS 인슐린 저항성 개선 프로토콜 |
+| Clinical observation on treatment of female delayed acne vulgaris with qingre cuochuang tablet | 임상시험 | 60 | 중등도 | PMID 15015441 | 청열착창정이 테스토스테론 저하 |
+| Clinical observation in 86 cases of acne vulgaris treated with Compound Oldenlandis Mixture | 임상시험 | 120 | 중등도 | PMID 14719289 | 복방사사초합제가 당귀고삼환보다 유효율 높음 |
+| Efficacy of ah shi Point Acupuncture on Acne Vulgaris | 임상시험 | 36 | 중등도 | 10.1136/aim.2010.003004 | 침이 염증성 병변·삶의 질 개선 |
+| Efficacy of acupuncture in improving the symptoms and the quality of life of patients with moderate or severe acne vulgaris: study protocol for a randomized controlled trial | 임상시험 | 100 | 중등도 | 10.1186/s13063-020-04346-7 | 중등도·중증 침 치료 프로토콜 |
+| Efficacy of acupuncture in improving symptoms and quality of life of patients with acne vulgaris: a randomized sham acupuncture-controlled trial | 임상시험 | - | 중등도 | 10.1177/09645284221076506 | 4주 단기 침이 가짜 침 대비 유의 효과 없음 |
+| Effectiveness of Acupuncture Therapy Combination with Moringa Leaf Mask on the Degree of Acne Vulgaris Lesions | 임상시험 | 38 | 중등도 | 10.62354/ijoa.v2i2.33 | 국소 혈위 자극이 병변 감소에 효과적 |
+| The Effect of Local Point Acupuncture Therapy with a Combination of Tamanu Oil on Acne Vulgaris Lesions | 임상시험 | - | 중등도 | 10.62354/ijoa.v2i2.26 | 국소 침+타마누 오일 병행이 염증 완화 |
+| Efficacy of Fire Needle Therapy Combined with Doxycycline Hydrochloride in the Management of Moderate-to-Severe Acne Vulgaris | 임상시험 | 70 | 중등도 | 10.2147/JMDH.S558510 | 화침+독시사이클린이 병변·흉터·삶의 질 개선 |
+| [Effect of acupoint catgut embedding, fire needle, auricular acupuncture on female post-adolescent acne and serum sex hormone] | 임상시험 | 107 | 중등도 | 10.13703/j.0255-2930.2018.08.010 | 매선·화침·이침이 성호르몬 조절 |
+| Effectiveness of Wet Cupping on Patients with Facial Acne Vulgaris | 임상시험 | 103 | 중등도 | 10.1159/000514943 | 습식 부항 병행이 등급·삶의 질 개선 |
+| Effect of acupuncture anesthesia on acne vulgaris of pricking-bloodletting cupping | 임상시험 | 38 | 중등도 | 10.1016/s0254-6272(14)60007-8 | 대추 자락발관, 합곡·곡지 침마취가 통증 감소 |
+| [Observation on therapeutic effect of ear point blood-letting combined with cupping on Back-shu points for treatment of acne vulgaris] | 임상시험 | - | 중등도 | PMID 17853767 | 이혈 사혈+배수혈 부항이 완치율 높음 |
+| [Clinical observation on different frequency of auricular bloodletting combined with auricular point sticking for acne vulgaris] | 임상시험 | 90 | 중등도 | 10.13703/j.0255-2930.20210519-k0006 | 이혈자락·압박이 병변·삶의 질 개선 |
+| Clinical observation on the effect of earlobe-bleeding plus body acupuncture in 85 cases of common acne | 임상시험 | 85 | 중등도 | 10.1016/s0254-6272(08)60007-2 | 이갑사혈+전신 침이 유효율 96.47% |
+| [Randomized control study on the treatment of 26 cases of acne conglobata with encircling acupuncture combined with venesection and cupping] | 임상시험 | 52 | 중등도 | PMID 19288903 | 포위침·사혈·부항이 IL-6 저하, 부작용 적음 |
+| [Syndrome differentiation and typing of traditional Chinese medicine and the clinical efficacy in 148 cases of acne vulgaris] | 임상시험 | 208 | 중등도 | PMID 12545968 | 변증 처방이 유효율 96% vs 75% |
+| Clinical Efficacy Observation of Integrated Traditional Chinese and Western Medicine Therapy in the Treatment of Acne Vulgaris | 임상시험 | 70 | 중등도 | 10.53469/jcmp.2025.07(04).37 | 한약+클린다마이신 병용이 유효율 향상 |
+| The Therapeutic Effects of a Bentonite-Based Facial Mask With Alcea sulphurea Extract on Acne Severity | 임상시험 | 60 | 중등도 | 10.1111/jocd.70586 | 벤토나이트 마스크 추가가 병변·만족도 개선 |
+| Safety and Preliminary Clinical Effects of a Herbal Balance Solution in Mild-To-Moderate Acne Vulgaris | 임상시험 | 33 | 중등도 | 10.1111/jocd.70702 | Herbal Balance Solution이 병변·피부 장벽 개선 |
+| Efficacy and Safety of Phyllanthus Emblica and Tinospora Cordifolia in Postadolescence Acne | 임상시험 | 88 | 중등도 | 10.1177/27683605261469317 | LNSA가 삶의 질 개선, 용량 의존 경향 |
+| Auricular points acupressure for insulin resistance in overweight/obese women with polycystic ovary syndrome | 임상시험 | 60 | 중등도 | 10.1136/bmjopen-2018-027498 | 이혈 압박이 PCOS 인슐린 저항성 개선 프로토콜 |
 | Thirty-two cases of acne treated with blood-letting puncture, cupping and Chinese-drug facemask | 증례 | 32 | 낮음 | PMID 16447668 | 사혈·발관·마스크 병용 유효율 96.8% |
 | Clinical Experience of Yan Changhong in the Treatment of Acne with Modified Loquat Qingfei Decoction Combined with Bloodletting and Cupping | 증례 | - | 낮음 | 10.53469/jcmp.2024.06(12).14 | 가감비파청폐탕+사혈·부항이 열독 제거 |
 | A Case of Hepatotoxicity Induced by Short-term Acne Medications | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.1.144 | 여드름 치료제 단기 복용의 간독성 경고 |
 | Lead poisoning after ingestion of home-made Chinese medicines | 증례 | 1 | 낮음 | 10.1046/j.1442-2026.2003.00511.x | 수제 한약의 납중독 경고 |
 | Clinical experience of chinese herbal medicine ameliorates dermatologic events from EGFR inhibitors for lung cancer | 증례 | 10 | 낮음 | 10.1016/j.explore.2018.11.001 | 중약이 EGFR 억제제 피부 부작용 개선 |
-| Cardiff acne disability index: cross-cultural translation in Korean | 관찰연구 | 254 | 중간 | PMID 32188233 | K-CADI 타당도, 담음·열 패턴이 삶의 질 악화 |
-| The assessment of complementary and alternative medicine use in acne vulgaris patients in Turkey | 관찰연구 | 400 | 중간 | 10.1097/MD.0000000000039577 | 여드름 환자 87%가 CAM 사용 |
-| Perception and Use of Complementary and Alternative Medicine among Acne Vulgaris Patients | 관찰연구 | 322 | 중간 | 10.1159/000549533 | CAM 사용·만족도 낮음, 가이드라인 필요 |
-| Exploring Complementary and Alternative Medicine Use for the Management of Acne Vulgaris Among University Students | 관찰연구 | 367 | 중간 | 10.1111/jocd.16775 | 대학생 CAM 사용률 높음, 온라인 정보 의존 |
-| Self-care methods use for acne treatment among health science students | 관찰연구 | 190 | 중간 | 10.1016/j.rcsop.2025.100601 | OTC·CAM 자가 관리 사용 빈도 높음 |
-| Classification of patients with cold sensation by a review of systems database | 관찰연구 | 524 | 중간 | 10.1016/j.ctim.2019.05.011 | 한랭 과민 변증 시 동반 증상 중요 |
-| Acupuncture, electrostimulation, and reflex therapy in dermatology | 문헌고찰 | - | 중간 | 10.1046/j.1529-8019.2003.01619.x | 침·부항·반사요법이 피부 질환 보조 |
-| An update on Chinese herbal medicines as adjuvant treatment of anticancer therapeutics | 문헌고찰 | - | 중간 | 10.5582/bst.2018.01144 | 한약이 항암 부작용 감소 |
-| A Mini Review Validating the Therapeutic Potential of Psorospermum febrifugum Spach Extracts in the Treatment of Acne Vulgaris | 문헌고찰 | - | 중간 | 10.1155/tswj/4016492 | 백선 추출물이 여드름 병리 억제 |
-| Underutilized Tropical Herbs in Cosmeceuticals | 문헌고찰 | - | 중간 | 10.4018/979-8-3373-5876-5.ch012 | 열대 식물이 코스메슈티컬 잠재력 |
-| Plants with cosmetic uses | 문헌고찰 | - | 중간 | 10.1002/ptr.8019 | 식물 추출물이 화장품 성분으로 유리 |
-| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중간 | 10.1089/acu.2017.1227 | 침이 피부 질환 가려움·통증 개선 |
-| Curcumin in Acne Management: A Narrative Review of Mechanisms and Efficacy | 문헌고찰 | - | 중간 | 10.2174/0113816128488450260604102217 | 커큐민이 항균·항염으로 여드름 보조 |
+| Cardiff acne disability index: cross-cultural translation in Korean | 관찰연구 | 254 | 중등도 | PMID 32188233 | K-CADI 타당도, 담음·열 패턴이 삶의 질 악화 |
+| The assessment of complementary and alternative medicine use in acne vulgaris patients in Turkey | 관찰연구 | 400 | 중등도 | 10.1097/MD.0000000000039577 | 여드름 환자 87%가 CAM 사용 |
+| Perception and Use of Complementary and Alternative Medicine among Acne Vulgaris Patients | 관찰연구 | 322 | 중등도 | 10.1159/000549533 | CAM 사용·만족도 낮음, 가이드라인 필요 |
+| Exploring Complementary and Alternative Medicine Use for the Management of Acne Vulgaris Among University Students | 관찰연구 | 367 | 중등도 | 10.1111/jocd.16775 | 대학생 CAM 사용률 높음, 온라인 정보 의존 |
+| Self-care methods use for acne treatment among health science students | 관찰연구 | 190 | 중등도 | 10.1016/j.rcsop.2025.100601 | OTC·CAM 자가 관리 사용 빈도 높음 |
+| Classification of patients with cold sensation by a review of systems database | 관찰연구 | 524 | 중등도 | 10.1016/j.ctim.2019.05.011 | 한랭 과민 변증 시 동반 증상 중요 |
+| Acupuncture, electrostimulation, and reflex therapy in dermatology | 문헌고찰 | - | 중등도 | 10.1046/j.1529-8019.2003.01619.x | 침·부항·반사요법이 피부 질환 보조 |
+| An update on Chinese herbal medicines as adjuvant treatment of anticancer therapeutics | 문헌고찰 | - | 중등도 | 10.5582/bst.2018.01144 | 한약이 항암 부작용 감소 |
+| A Mini Review Validating the Therapeutic Potential of Psorospermum febrifugum Spach Extracts in the Treatment of Acne Vulgaris | 문헌고찰 | - | 중등도 | 10.1155/tswj/4016492 | 백선 추출물이 여드름 병리 억제 |
+| Underutilized Tropical Herbs in Cosmeceuticals | 문헌고찰 | - | 중등도 | 10.4018/979-8-3373-5876-5.ch012 | 열대 식물이 코스메슈티컬 잠재력 |
+| Plants with cosmetic uses | 문헌고찰 | - | 중등도 | 10.1002/ptr.8019 | 식물 추출물이 화장품 성분으로 유리 |
+| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중등도 | 10.1089/acu.2017.1227 | 침이 피부 질환 가려움·통증 개선 |
+| Curcumin in Acne Management: A Narrative Review of Mechanisms and Efficacy | 문헌고찰 | - | 중등도 | 10.2174/0113816128488450260604102217 | 커큐민이 항균·항염으로 여드름 보조 |
 | Seijo-bofu-to, Jumi-haidoku-to and Toki-shakuyaku-san suppress rashes and incidental symptoms in acne patients | 실험연구 | - | 낮음 | PMID 12635494 | 방풍통성산·십미배독탕·당귀작약산이 발진 억제 |
 | Propionibacterium acnes lipase in seborrheic dermatitis and other skin diseases and Unsei-in | 실험연구 | - | 낮음 | PMID 15018307 | 운세인이 P. acnes lipase 억제 |
 

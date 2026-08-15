@@ -164,57 +164,57 @@
 | Saengmaek-san Decoction and Western Medicine on Heart Failure: SR and meta-analysis | 메타분석 | - | 높음 | 10.22246/jikm.2024.45.4.726 | 생맥산 병용이 LVEF·SV 개선, BNP 감소, 6MWT 향상 |
 | Yiqi Fumai lyophilized injection on BNP in acute decompensated ischemic HF: RCT | 임상시험 | 666 | 높음 | 10.1016/j.phymed.2026.158191 · PMID 42013737 | 익기복맥주사제가 BNP 감소, LVEF·삶의 질 개선 |
 | Xinfuli Granules in Chronic HF with Qi Deficiency and Blood Stasis: RCT | 임상시험 | 356 | 높음 | 10.1007/s11655-025-4022-7 · PMID 41129050 | 신부리과립이 사망·입원 위험 감소, 우울·불안 완화 |
-| Astragalus injection on serum apoptosis factors in chronic HF | 임상시험 | 84 | 중간 | PMID 15957829 | 황기주사액이 세포사멸 인자 감소, LVEF 개선 |
-| Astragalus injection on immune function in congestive HF | 임상시험 | 62 | 중간 | PMID 12800417 | 황기주사액이 CD4·CD4/CD8 개선, LVEF 증가 |
-| Shenmai Injection in treating congestive heart failure | 임상시험 | 62 | 중간 | PMID 14666758 | 신맥주사액이 혈역학 안정, 심기능 개선 |
-| Shenmai injection on hemodynamics in dilated cardiomyopathy | 임상시험 | 100 | 중간 | PMID 12584790 | 생맥주사액이 심박출량·EF 개선, SVR 감소 |
-| Shenfu injection on BNP and NP III in acute MI during intervention | 임상시험 | 93 | 중간 | PMID 15957835 | 신부주사액이 BNP·NP III 감소, 심근 보호 |
+| Astragalus injection on serum apoptosis factors in chronic HF | 임상시험 | 84 | 중등도 | PMID 15957829 | 황기주사액이 세포사멸 인자 감소, LVEF 개선 |
+| Astragalus injection on immune function in congestive HF | 임상시험 | 62 | 중등도 | PMID 12800417 | 황기주사액이 CD4·CD4/CD8 개선, LVEF 증가 |
+| Shenmai Injection in treating congestive heart failure | 임상시험 | 62 | 중등도 | PMID 14666758 | 신맥주사액이 혈역학 안정, 심기능 개선 |
+| Shenmai injection on hemodynamics in dilated cardiomyopathy | 임상시험 | 100 | 중등도 | PMID 12584790 | 생맥주사액이 심박출량·EF 개선, SVR 감소 |
+| Shenfu injection on BNP and NP III in acute MI during intervention | 임상시험 | 93 | 중등도 | PMID 15957835 | 신부주사액이 BNP·NP III 감소, 심근 보호 |
 | Oryeongsan for heart failure: SR and meta-analysis | 메타분석 | 5069 | 높음 | 10.1016/j.heliyon.2024.e37830 · PMID 39315159 | 오령산 병용이 LVEF·심기능·삶의 질 개선, 이뇨제 부작용 보완 |
-| Mokuboito on symptoms in acute decompensated HF: pilot RCT | 임상시험 | 40 | 중간 | 10.1016/j.jjcc.2019.05.003 · PMID 31272834 | 목보이탕이 임상 증상·울혈 개선 |
-| Mokuboito on long-term clinical outcomes in HF | 관찰연구 | 40 | 중간 | 10.1002/tkm2.1310 | 목보이탕이 2년 MACE 발생률 유의 감소 |
+| Mokuboito on symptoms in acute decompensated HF: pilot RCT | 임상시험 | 40 | 중등도 | 10.1016/j.jjcc.2019.05.003 · PMID 31272834 | 목보이탕이 임상 증상·울혈 개선 |
+| Mokuboito on long-term clinical outcomes in HF | 관찰연구 | 40 | 중등도 | 10.1002/tkm2.1310 | 목보이탕이 2년 MACE 발생률 유의 감소 |
 | Fuzheng Yangxin Granule in HFpEF (Qi-Yin deficiency, blood stasis): protocol | 임상시험 | 150 | 프로토콜 | 10.3389/fcvm.2025.1514181 · PMID 40364827 | 부정양심과립 HFpEF 유효성·안전성 평가 프로토콜 |
 | FangJiHuangQi granule in heart failure: RCT protocol | 임상시험 | 100 | 프로토콜 | 10.3389/fcvm.2026.1723249 · PMID 42291544 | 방기황기과립 운동 능력·삶의 질 개선 평가 |
 | SHengXIaN-QuYu DEcoction in HFrEF/HFmrEF (SHINE-HF): design | 임상시험 | - | 프로토콜 | 10.1016/j.conctc.2025.101497 · PMID 40502625 | 생선거어탕 HFrEF/HFmrEF 유효성 평가 설계 |
-| Shenqi Buqi Granules on chronic HF of Qi deficiency: proteomics | 임상시험 | 19 | 중간 | 10.19540/j.cnki.cjcmm.20250314.502 · PMID 40686185 | 신기보기과립이 기허 점수·BNP 감소 |
+| Shenqi Buqi Granules on chronic HF of Qi deficiency: proteomics | 임상시험 | 19 | 중등도 | 10.19540/j.cnki.cjcmm.20250314.502 · PMID 40686185 | 신기보기과립이 기허 점수·BNP 감소 |
 | Complementary therapy in CM for DCM with congestive HF: 3-year follow-up | 증례 | 1 | 낮음 | 10.1097/MD.0000000000042389 · PMID 40388774 | 익기화어이수탕이 심박출률 상승·NT-proBNP 감소 |
 | Naoxintong capsule for secondary prevention after reperfused AMI: RCT | 임상시험 | 379 | 높음 | 10.1016/j.phymed.2026.158593 · PMID 42537467 | 뇌신통이 심부전·MACE 위험 유의 감소 |
-| Shexiang Baoxin pill in stable CAD with reduced eGFR: subgroup | 임상시험 | 1354 | 중간 | 10.1016/j.phymed.2026.157946 · PMID 41795301 | 사향보심환이 심혈관 사건 보호 경향 |
+| Shexiang Baoxin pill in stable CAD with reduced eGFR: subgroup | 임상시험 | 1354 | 중등도 | 10.1016/j.phymed.2026.157946 · PMID 41795301 | 사향보심환이 심혈관 사건 보호 경향 |
 | Rhodiola rosea injection for LV remodeling in HFrEF: SR and meta-analysis | 메타분석 | 2325 | 높음 | 10.3389/fphar.2025.1536686 · PMID 40098619 | 홍경천 주사제가 리모델링·염증·BNP 개선 |
 | Astragalus-containing Chinese patent medicines in HF: NMA | 메타분석 | 1584 | 높음 | 10.1097/md.0000000000049013 | 황기 함유 중성약이 유효성·LVEF·BNP 개선 |
 | Plant extracts on patients with heart failure: network meta-analysis | 메타분석 | 2077 | 높음 | 10.3389/fphar.2025.1648811 · PMID 41268442 | 황기·신부·홍삼·은행나무잎 추출물이 지표별 유용 |
 | Oral Chinese patent medicines in MI complicated with HF: NMA | 메타분석 | - | 높음 | 10.3389/fcvm.2026.1832017 · PMID 42257034 | 신통경구액·관심소통캡슐·칠리강심캡슐 권장 |
 | Danhong Injection for Acute Myocardial Infarction: SR and meta-analysis | 메타분석 | 979 | 높음 | 10.1155/2015/646530 | 단홍주사액이 사망·심부전 위험 감소, LVEF 개선 |
 | Rikkunshito for malnutrition in chronic HF | 관찰연구 | 14 | 낮음 | 10.1002/tkm2.1313 | 육군자탕이 BMI·골격근질량지수 개선 |
-| Daikenchuto and readmission in older HF with constipation | 관찰연구 | 115544 | 중간 | 10.1253/circrep.CR-24-0114 · PMID 39931709 | 대건중탕이 재입원율 유의 감소 못함 |
-| Electroacupuncture on ventricular remodeling after STEMI-PCI: RCT | 임상시험 | 80 | 중간 | 10.13702/j.1000-0607.20251241 · PMID 42482585 | 전침이 심실 재형성 억제·섬유화 표지자 감소 |
-| Electroacupuncture and drugs in HFrEF: single-blinded RCT | 임상시험 | 34 | 중간 | 10.1186/s43044-025-00698-0 · PMID 41162792 | 전침 병용이 LVEF·6MWD·KCCQ-23 개선 |
+| Daikenchuto and readmission in older HF with constipation | 관찰연구 | 115544 | 중등도 | 10.1253/circrep.CR-24-0114 · PMID 39931709 | 대건중탕이 재입원율 유의 감소 못함 |
+| Electroacupuncture on ventricular remodeling after STEMI-PCI: RCT | 임상시험 | 80 | 중등도 | 10.13702/j.1000-0607.20251241 · PMID 42482585 | 전침이 심실 재형성 억제·섬유화 표지자 감소 |
+| Electroacupuncture and drugs in HFrEF: single-blinded RCT | 임상시험 | 34 | 중등도 | 10.1186/s43044-025-00698-0 · PMID 41162792 | 전침 병용이 LVEF·6MWD·KCCQ-23 개선 |
 | Neiguan acupoint injection with astragalus in chronic HF: RCT | 임상시험 | 200 | 높음 | 10.3389/fmed.2026.1836620 · PMID 42292177 | 내관혈 황기 약침이 심기능·삶의 질 개선, RAAS 조절 |
-| Acupuncture combined with exercise rehabilitation in HF: SR and meta-analysis | 메타분석 | 668 | 중간 | 10.3389/fmed.2026.1789189 · PMID 42465083 | 침+운동 재활이 LVEF·6MWT 개선 경향, 근거 낮음 |
+| Acupuncture combined with exercise rehabilitation in HF: SR and meta-analysis | 메타분석 | 668 | 중등도 | 10.3389/fmed.2026.1789189 · PMID 42465083 | 침+운동 재활이 LVEF·6MWT 개선 경향, 근거 낮음 |
 | Acupuncture exposure and mortality in HF: nationwide cohort | 관찰연구 | 8630 | 높음 | 10.3389/fcvm.2025.1461302 · PMID 40734980 | 침 치료 병행이 사망률 감소, 용량-반응 관계 |
 | Acupuncture on mortality in disabled patients with new HF: cohort | 관찰연구 | 42002 | 높음 | 10.3389/fmed.2025.1519588 · PMID 39944496 | 침 치료 병행이 장애인 심부전 환자 사망 위험 감소 |
 | Cardioversion of Atrial Fibrillation with Acupuncture | 증례 | 1 | 낮음 | 10.1089/acu.2021.0022 · PMID 34239665 | 이침·내관혈 자침으로 동리듬 전환 |
-| Ginger Moxibustion on GI symptoms in HF (Yang deficiency): RCT | 임상시험 | 86 | 중간 | 10.26689/jcnr.v8i6.7411 | 생강뜸이 위장관 증상 완화 |
-| Moxibustion on abdominal distension in HF: RCT | 임상시험 | 62 | 중간 | 10.26689/jcnr.v8i6.7416 | 뜸이 복부 팽만 완화·삶의 질 개선 |
+| Ginger Moxibustion on GI symptoms in HF (Yang deficiency): RCT | 임상시험 | 86 | 중등도 | 10.26689/jcnr.v8i6.7411 | 생강뜸이 위장관 증상 완화 |
+| Moxibustion on abdominal distension in HF: RCT | 임상시험 | 62 | 중등도 | 10.26689/jcnr.v8i6.7416 | 뜸이 복부 팽만 완화·삶의 질 개선 |
 | Shenque acupoint moxibustion for chronic HF | 문헌고찰 | - | 낮음 | 10.1097/md.0000000000041654 | 신궐혈 뜸이 만성 심부전 보조 요법 |
 | Kampo medicine for holistic approach to older adults with HF | 문헌고찰 | - | 낮음 | 10.1016/j.jjcc.2021.12.011 · PMID 34974939 | 고령 심부전에 한방약 병용 통합 접근 유용 |
 | New approach to heart failure: Integrated TCM with Western medicine | 문헌고찰 | - | 낮음 | 10.1002/acm4.10 | 변증에 따른 탕약·침·뜸·운동 병행 |
-| Kampo medications that may cause heart failure in acute HF | 관찰연구 | 437 | 중간 | 10.1002/jgf2.411 · PMID 33977010 | 마황·감초·부자·인삼(人蔘) 제제 주의 필요 |
-| Interaction between Chinese medicine and digoxin | 체계적 고찰 | - | 중간 | 10.3389/fphar.2023.1040778 · PMID 36825153 | 중약이 디곡신 약동학에 영향, 모니터링 필요 |
-| Shengmai injection on digoxin pharmacokinetics in congestive HF | 임상시험 | 40 | 중간 | PMID 12800416 | 생맥주사액이 디곡신 혈중 농도 변화 |
-| Non-pharmacological interventions to reduce thirst in HF | 메타분석 | - | 중간 | 10.1016/j.hrtlng.2024.04.012 · PMID 38653004 | 껌·지압·저염식이 갈증 완화 가능성 |
+| Kampo medications that may cause heart failure in acute HF | 관찰연구 | 437 | 중등도 | 10.1002/jgf2.411 · PMID 33977010 | 마황·감초·부자·인삼(人蔘) 제제 주의 필요 |
+| Interaction between Chinese medicine and digoxin | 체계적 고찰 | - | 중등도 | 10.3389/fphar.2023.1040778 · PMID 36825153 | 중약이 디곡신 약동학에 영향, 모니터링 필요 |
+| Shengmai injection on digoxin pharmacokinetics in congestive HF | 임상시험 | 40 | 중등도 | PMID 12800416 | 생맥주사액이 디곡신 혈중 농도 변화 |
+| Non-pharmacological interventions to reduce thirst in HF | 메타분석 | - | 중등도 | 10.1016/j.hrtlng.2024.04.012 · PMID 38653004 | 껌·지압·저염식이 갈증 완화 가능성 |
 | Goreisan and HF readmission: nationwide propensity-matched study | 관찰연구 | 431393 | 높음 | 10.1016/j.jjcc.2024.09.010 · PMID 39341374 | 오령산이 신장질환 동반군 재입원 위험 감소 경향 |
 | Goreisan in congestive HF refractory to tolvaptan | 관찰연구 | 18 | 낮음 | 10.1007/s00380-024-02432-3 · PMID 38904671 | 오령산이 소변량 증가, BNP 높은 환자에 효과적 |
 | Goreisan in congestive HF receiving tolvaptan therapy | 관찰연구 | 25 | 낮음 | 10.3390/jcm15103659 | 오령산 유지가 임상 사건 발생률 감소 |
 | Goreisan as adjuvant in HFpEF with advanced CKD | 증례 | 1 | 낮음 | 10.1093/omcr/omad116 · PMID 37881268 | 오령산이 신부담 없이 체액 균형 조절 |
 | Goreisan–jiinkokato combination for elderly HF | 증례 | 1 | 낮음 | 10.1002/tkm2.1297 | 오령산·인진호탕 병용이 흉수 감소 |
 | Complex Korean Medicine treatment for HF dyspnea and edema | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.1.172 | 침·한약 병행이 NYHA·mMRC·부종 개선 |
-| Validation of questionnaire for TCM syndrome differentiation of HF | 임상시험 | 661 | 중간 | 10.21203/rs.3.rs-2430316/v1 | 기허 증후군이 가장 지배적, 혈어·담음 복합 |
-| Prognostic value of NLR/PLR/creatinine/NT-proBNP in HFpEF | 관찰연구 | 154 | 중간 | 10.21203/rs.3.rs-10003440/v1 | 결합 모델이 MACE 예측 성능 우수 |
-| Biological basis for syndromes in ischemic HF: multi-omics | 관찰연구 | - | 중간 | 10.3389/fphar.2025.1641422 · PMID 40792212 | 변증별 특이 바이오마커·경로 규명 |
-| Molecular characteristics of blood stasis in ischemic HF | 관찰연구 | - | 중간 | 10.3389/fmolb.2025.1627849 · PMID 41158877 | 혈어 상태가 면역·염증·응고와 연관 |
+| Validation of questionnaire for TCM syndrome differentiation of HF | 임상시험 | 661 | 중등도 | 10.21203/rs.3.rs-2430316/v1 | 기허 증후군이 가장 지배적, 혈어·담음 복합 |
+| Prognostic value of NLR/PLR/creatinine/NT-proBNP in HFpEF | 관찰연구 | 154 | 중등도 | 10.21203/rs.3.rs-10003440/v1 | 결합 모델이 MACE 예측 성능 우수 |
+| Biological basis for syndromes in ischemic HF: multi-omics | 관찰연구 | - | 중등도 | 10.3389/fphar.2025.1641422 · PMID 40792212 | 변증별 특이 바이오마커·경로 규명 |
+| Molecular characteristics of blood stasis in ischemic HF | 관찰연구 | - | 중등도 | 10.3389/fmolb.2025.1627849 · PMID 41158877 | 혈어 상태가 면역·염증·응고와 연관 |
 | TCM Syndrome Differentiation for HF and Qiliqiangxin outcome: protocol | 임상시험 | 3080 | 프로토콜 | 10.21203/rs.3.rs-727082/v1 | 변증에 따른 맞춤형 치료 근거 제시 |
-| Oral Chinese Patent Medicine with Conventional Therapy for HF: overview | 체계적 고찰 | - | 중간 | 10.1155/2020/8620186 | 중성약 병용이 증상·삶의 질·운동 내성 개선 |
-| East Asian Traditional Medicine for HF: scoping review | 체계적 고찰 | - | 중간 | 10.3390/healthcare12010061 · PMID 38200969 | 부자 사용이 사망·재입원율 감소와 연관 |
+| Oral Chinese Patent Medicine with Conventional Therapy for HF: overview | 체계적 고찰 | - | 중등도 | 10.1155/2020/8620186 | 중성약 병용이 증상·삶의 질·운동 내성 개선 |
+| East Asian Traditional Medicine for HF: scoping review | 체계적 고찰 | - | 중등도 | 10.3390/healthcare12010061 · PMID 38200969 | 부자 사용이 사망·재입원율 감소와 연관 |
 | Chinese Patent Medicine for Stable/Unstable Angina: SR and meta-analysis | 메타분석 | 4212 | 높음 | 10.1155/2013/673193 | 중약 병용이 심부전·심장 사건 발생률 감소 |
 | Chinese traditional patent medicines for HFpEF: Bayesian NMA | 메타분석 | 6238 | 높음 | 10.3389/fcvm.2023.1255940 | 사향보심환·기신익기적약이 지표별 유용 |
 

@@ -106,37 +106,37 @@
 | The Correlation between Traditional Chinese Medicine Constitution and Hyperuricemia and Gout: A Systematic Review and Meta-Analysis | 메타분석 | 38,028 | 높음 | 10.1155/2023/5097490 / 37101714 | 담음·습열 체질이 고요산혈증·통풍의 강력한 위험 요인 |
 | Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis | 메타분석 | 1,633 | 높음 | 10.1097/MD.0000000000035973 / 38013344 | 계지소요지모탕이 통증·요산·염증 지표 개선, IL-17·TNF 경로 조절 |
 | Analysis of clinical efficacy of Si Miao decoction combine with acupuncture and cupping treatment for gout | 메타분석 | - | 높음 | 10.12688/f1000research.51053.1 | 사묘탕+침+부항 병용이 요산·CRP·ESR 감소 |
-| Clinical outcomes and safety of Chinese herbal medicine in the treatment of hyperuricemia: A retrospective real-world study | 관찰연구 | 40,653 | 중간 | 10.1016/j.phymed.2025.157231 / 40975036 | 중약이 통풍 이행 위험 43% 감소, BBR과 유사한 안전성 |
+| Clinical outcomes and safety of Chinese herbal medicine in the treatment of hyperuricemia: A retrospective real-world study | 관찰연구 | 40,653 | 중등도 | 10.1016/j.phymed.2025.157231 / 40975036 | 중약이 통풍 이행 위험 43% 감소, BBR과 유사한 안전성 |
 | Multidimensional therapeutic advantages of Smilax glabra (Tufuling)-containing formulae in gout | 체계적 고찰 | 4,605 | 높음 | 10.3389/fendo.2026.1863098 / 42460320 | 토복령 처방이 습열 변증 통풍의 통증·요산·염증 개선 |
 | [Overview of systematic reviews on efficacy and safety of puncture and bloodletting therapy for gout] | 체계적 고찰 | 3,937 | 높음 | 10.19540/j.cnki.cjcmm.20250916.501 / 41814711 | 자락혈법이 통증·요산 개선, 화침·침도 병합 유효 |
 | Clinical Advantages of Phlebotomy: An Umbrella Review of Meta-Analyses | 체계적 고찰 | 5,648 | 높음 | - / 39759207 | 사혈이 급성 통풍성 관절염에 유의한 개선, 혈종이 흔한 부작용 |
-| [Evidence evaluation of electroacupuncture treatment for gouty arthritis based on GRADE] | 체계적 고찰 | - | 중간 | 10.12200/j.issn.1003-0034.20250654 / 41507050 | 전침이 통증·부종·요산·ESR·CRP 개선, 약물 병용 시 우수 |
-| Chinese herbal medicine si-miao-san decoction for acute gouty arthritis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000021510 | 사묘산 탕제 유효성·안전성 평가 프로토콜 |
-| Efficacy of Acupuncture Combined With Moxibustion for HUA: A Randomized Controlled Trial | 임상시험 | 70 | 중간 | 10.1155/ijcp/7877206 | 침·뜸 병행이 요산·총콜레스테롤·공복혈당 개선 |
-| [Clinical observation on electroacupuncture combined with medicine for treatment of acute gouty arthritis] | 임상시험 | 100 | 중간 | - / 16318122 | 전침+약물 병용이 유효율·요산 감소에 우수 |
-| [Clinical observation of pricking blood combined with moxibustion for acute gouty arthritis] | 임상시험 | 40 | 중간 | - / 26721137 | 자락+뜸 병용이 이부프로펜보다 요산·증상 개선, 유효율 85% |
-| [Observation on therapeutic effect of electroacupuncture plus blood-letting puncture and cupping combined with diet intervention] | 임상시험 | 60 | 중간 | - / 19803237 | 전침+사혈+부항+식이 병행이 약물 단독보다 우수 |
-| Clinical Observation on the Efficacy of TCM Syndrome Differentiation in Treating Gouty Nephropathy | 임상시험 | 80 | 중간 | 10.26689/jcnr.v9i5.10779 | 변증시치가 신기능 보호·증상 완화에 유효 |
-| Clinical analysis for the acupuncture treatment in 42 cases of gouty renal damage | 임상시험 | 72 | 중간 | - / 15510795 | 침이 신기능 지표 개선, 유효율 95.24% |
-| [Observation on the clinical efficacy of Huazhuo Sanjie Chubi decoction in chronic gouty arthritis] | 임상시험 | 63 | 중간 | 10.12200/j.issn.1003-0034.20250884 / 41507041 | 화탁산결초비탕이 만성 통풍의 저강도 염증 개선 |
-| Effects of Rebixiao granules on blood uric acid in patients with repeatedly attacking acute gouty arthritis | 임상시험 | 90 | 중간 | 10.1007/BF02835742 / 15975301 | 리비샤오 과립이 재발성 급성 통풍의 완치율·요산 개선 |
-| [Clinical observation on treatment of acute gouty arthritis by tongfengkang] | 임상시험 | 40 | 중간 | - / 15250197 | 통풍강이 인도메타신+알로퓨리놀과 유사 효과, 부작용 적음 |
-| Efficacy and Safety of Qinpi Tongfeng Formula Combined with Bloodletting Therapy in the Treatment of Acute Gouty Arthritis | 임상시험 | 86 | 중간 | 10.1155/2022/3147319 / 35096107 | 진피통풍방+사혈 병용이 콜히친보다 효과적·안전 평가 프로토콜 |
-| Efficacy and safety of Tibetan medicine Qingpeng ointment for acute gouty arthritis | 임상시험 | 206 | 중간 | 10.1186/s13063-022-06338-1 | 청펑 연고가 급성 통풍의 통증·부종 완화 평가 프로토콜 |
-| EFEKTIFITAS TERAPI CUPPING (BEKAM) TERHADAP PENURUNAN ASAM URAT | 임상시험 | 20 | 중간 | 10.34005/afiat.v9i2.3459 | 부항이 전노년층 요산 수치 유의 감소 |
-| The Effects of Wet Cupping Therapy in Blood Pressure, Glucose, Uric Acid and Total Cholesterol Levels | 임상시험 | 21 | 중간 | 10.14421/biomedich.2019.82.33-36 | 습식 부항 1회가 요산·혈압·콜레스테롤 감소 |
-| Evaluation of the clinical efficacy of Xanthoceras sorbifolium leaves in intervening in hyperuricemia | 임상시험 | 120 | 중간 | 10.1016/j.phymed.2026.158289 / 42160899 | 산초나무 잎 차가 페북소스타트와 유사한 요산 저하, 안전 |
-| [A cohort study on treatment of intermission period of gout with Quzhuo Tongbi formula combined with febuxostat] | 관찰연구 | 99 | 중간 | 10.12200/j.issn.1003-0034.20250554 / 41507040 | 거탁통비탕+페북소스타트 병용이 재발 방지에 유효 |
-| Jianpi Qingre Tongluo prescription (Huangqin Qingre Chubi capsule) protects the self-perception of patients with gouty arthritis | 관찰연구 | 150 | 중간 | 10.1097/MD.0000000000049281 / 42299571 | 황금청열축비 캡슐이 NLR 감소 통해 삶의 질 개선 |
-| Navigating complementary and alternative medicine use, medication adherence, and herb-drug interaction risks among gout patients | 관찰연구 | 430 | 중간 | 10.1515/jcim-2025-0211 / 41347947 | CAM 사용이 약물 순응도 저하·상호작용 위험 증가 |
+| [Evidence evaluation of electroacupuncture treatment for gouty arthritis based on GRADE] | 체계적 고찰 | - | 중등도 | 10.12200/j.issn.1003-0034.20250654 / 41507050 | 전침이 통증·부종·요산·ESR·CRP 개선, 약물 병용 시 우수 |
+| Chinese herbal medicine si-miao-san decoction for acute gouty arthritis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000021510 | 사묘산 탕제 유효성·안전성 평가 프로토콜 |
+| Efficacy of Acupuncture Combined With Moxibustion for HUA: A Randomized Controlled Trial | 임상시험 | 70 | 중등도 | 10.1155/ijcp/7877206 | 침·뜸 병행이 요산·총콜레스테롤·공복혈당 개선 |
+| [Clinical observation on electroacupuncture combined with medicine for treatment of acute gouty arthritis] | 임상시험 | 100 | 중등도 | - / 16318122 | 전침+약물 병용이 유효율·요산 감소에 우수 |
+| [Clinical observation of pricking blood combined with moxibustion for acute gouty arthritis] | 임상시험 | 40 | 중등도 | - / 26721137 | 자락+뜸 병용이 이부프로펜보다 요산·증상 개선, 유효율 85% |
+| [Observation on therapeutic effect of electroacupuncture plus blood-letting puncture and cupping combined with diet intervention] | 임상시험 | 60 | 중등도 | - / 19803237 | 전침+사혈+부항+식이 병행이 약물 단독보다 우수 |
+| Clinical Observation on the Efficacy of TCM Syndrome Differentiation in Treating Gouty Nephropathy | 임상시험 | 80 | 중등도 | 10.26689/jcnr.v9i5.10779 | 변증시치가 신기능 보호·증상 완화에 유효 |
+| Clinical analysis for the acupuncture treatment in 42 cases of gouty renal damage | 임상시험 | 72 | 중등도 | - / 15510795 | 침이 신기능 지표 개선, 유효율 95.24% |
+| [Observation on the clinical efficacy of Huazhuo Sanjie Chubi decoction in chronic gouty arthritis] | 임상시험 | 63 | 중등도 | 10.12200/j.issn.1003-0034.20250884 / 41507041 | 화탁산결초비탕이 만성 통풍의 저강도 염증 개선 |
+| Effects of Rebixiao granules on blood uric acid in patients with repeatedly attacking acute gouty arthritis | 임상시험 | 90 | 중등도 | 10.1007/BF02835742 / 15975301 | 리비샤오 과립이 재발성 급성 통풍의 완치율·요산 개선 |
+| [Clinical observation on treatment of acute gouty arthritis by tongfengkang] | 임상시험 | 40 | 중등도 | - / 15250197 | 통풍강이 인도메타신+알로퓨리놀과 유사 효과, 부작용 적음 |
+| Efficacy and Safety of Qinpi Tongfeng Formula Combined with Bloodletting Therapy in the Treatment of Acute Gouty Arthritis | 임상시험 | 86 | 중등도 | 10.1155/2022/3147319 / 35096107 | 진피통풍방+사혈 병용이 콜히친보다 효과적·안전 평가 프로토콜 |
+| Efficacy and safety of Tibetan medicine Qingpeng ointment for acute gouty arthritis | 임상시험 | 206 | 중등도 | 10.1186/s13063-022-06338-1 | 청펑 연고가 급성 통풍의 통증·부종 완화 평가 프로토콜 |
+| EFEKTIFITAS TERAPI CUPPING (BEKAM) TERHADAP PENURUNAN ASAM URAT | 임상시험 | 20 | 중등도 | 10.34005/afiat.v9i2.3459 | 부항이 전노년층 요산 수치 유의 감소 |
+| The Effects of Wet Cupping Therapy in Blood Pressure, Glucose, Uric Acid and Total Cholesterol Levels | 임상시험 | 21 | 중등도 | 10.14421/biomedich.2019.82.33-36 | 습식 부항 1회가 요산·혈압·콜레스테롤 감소 |
+| Evaluation of the clinical efficacy of Xanthoceras sorbifolium leaves in intervening in hyperuricemia | 임상시험 | 120 | 중등도 | 10.1016/j.phymed.2026.158289 / 42160899 | 산초나무 잎 차가 페북소스타트와 유사한 요산 저하, 안전 |
+| [A cohort study on treatment of intermission period of gout with Quzhuo Tongbi formula combined with febuxostat] | 관찰연구 | 99 | 중등도 | 10.12200/j.issn.1003-0034.20250554 / 41507040 | 거탁통비탕+페북소스타트 병용이 재발 방지에 유효 |
+| Jianpi Qingre Tongluo prescription (Huangqin Qingre Chubi capsule) protects the self-perception of patients with gouty arthritis | 관찰연구 | 150 | 중등도 | 10.1097/MD.0000000000049281 / 42299571 | 황금청열축비 캡슐이 NLR 감소 통해 삶의 질 개선 |
+| Navigating complementary and alternative medicine use, medication adherence, and herb-drug interaction risks among gout patients | 관찰연구 | 430 | 중등도 | 10.1515/jcim-2025-0211 / 41347947 | CAM 사용이 약물 순응도 저하·상호작용 위험 증가 |
 | Treatment of acute gouty arthritis by blood-letting cupping plus herbal medicine | 증례 | 34 | 낮음 | 10.1016/s0254-6272(10)60005-2 / 20397456 | 사혈 부항+한약 병용이 높은 완치·호전율 |
 | SP6 Acupressure Point for Reducing Joint Pain Among Elderly in Jombang Regency | 실험연구 | 14 | 낮음 | 10.58545/jkki.v5i2.557 | 삼음교(SP6) 지압이 노인 통풍 관절통 유의 감소 |
 | Penerapan Terapi Kompres Jahe dan Acupressure dalam Menurunkan Nyeri Penderita Asam Urat | 증례 | 3 | 낮음 | 10.26714/hnca.v3i1.10696 | 생강 찜질+태계(KI3) 지압이 통증·요산 개선 |
 | The Anti-inflammatory and Anti-hyperuricemic Effects of Chinese Herbal Formula Danggui-Nian-Tong-Tang on Acute Gouty Arthritis | 실험연구 | - | 낮음 | 10.1142/s0192415x95000316 | 당귀념통탕은 임상적 유효성 미확인, 표준 치료가 우선 |
-| Advances in Experimental and Clinical Research of the Gouty Arthritis Treatment with Traditional Chinese Medicine | 문헌고찰 | - | 중간 | 10.1155/2021/8698232 / 34721646 | 중의학 치료가 요산 감소·염증 조절·연골 보호에 유효 |
-| An exploration of stage-based syndrome differentiation and treatment of gout based on the theory of "integrating movement and stillness" | 문헌고찰 | - | 중간 | 10.54254/3049-5458/2026.32765 | 병기별 동정결합 치료법이 재발 방지에 유효 |
-| Advances in external therapies of traditional Chinese medicine for the management of hyperuricemia | 문헌고찰 | - | 중간 | 10.3389/fendo.2025.1667523 / 41488141 | 침·추나·사혈·외용 한약이 요산 생성 억제·배설 촉진 |
-| Traditional Chinese Medicine in Hyperuricemia: Current Advances, Mechanistic Insights, and Clinical Challenges | 문헌고찰 | - | 중간 | 10.2147/IJGM.S619201 / 42472027 | 사묘산·방기황기탕이 요산 합성 효소 억제·수송체 조절 |
+| Advances in Experimental and Clinical Research of the Gouty Arthritis Treatment with Traditional Chinese Medicine | 문헌고찰 | - | 중등도 | 10.1155/2021/8698232 / 34721646 | 중의학 치료가 요산 감소·염증 조절·연골 보호에 유효 |
+| An exploration of stage-based syndrome differentiation and treatment of gout based on the theory of "integrating movement and stillness" | 문헌고찰 | - | 중등도 | 10.54254/3049-5458/2026.32765 | 병기별 동정결합 치료법이 재발 방지에 유효 |
+| Advances in external therapies of traditional Chinese medicine for the management of hyperuricemia | 문헌고찰 | - | 중등도 | 10.3389/fendo.2025.1667523 / 41488141 | 침·추나·사혈·외용 한약이 요산 생성 억제·배설 촉진 |
+| Traditional Chinese Medicine in Hyperuricemia: Current Advances, Mechanistic Insights, and Clinical Challenges | 문헌고찰 | - | 중등도 | 10.2147/IJGM.S619201 / 42472027 | 사묘산·방기황기탕이 요산 합성 효소 억제·수송체 조절 |
 
 ## 경혈/처방 연관
 

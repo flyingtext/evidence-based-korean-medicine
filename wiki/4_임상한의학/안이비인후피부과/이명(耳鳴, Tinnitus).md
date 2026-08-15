@@ -72,19 +72,19 @@
 | The clinical efficacy of scalp acupuncture for tinnitus: A systematic review and meta-analysis | 메타분석 | 1430 | 높음 | 10.1016/j.ctim.2025.103129 | 두피침이 유효율·중증도 개선 |
 | Transcutaneous Electrical Nerve Stimulation for Subjective Tinnitus: A Systematic Review and Meta-Analysis | 메타분석 | 342 | 높음 | 10.1097/MAO.0000000000004802 | TENS가 THI 유의 감소, 안전 |
 | Efficacy and safety of acupuncture in the treatment of Meniere's disease: a systematic review and meta-analysis | 메타분석 | - | 높음 | 10.3389/fmed.2024.1463821 | 침이 메니에르병 증상 개선에 서양약 단독보다 우수 |
-| Acupuncture for the treatment of tinnitus: a systematic review of randomized clinical trials | 체계적 고찰 | - | 중간 | 10.1186/1472-6882-12-97 | 두피침은 일부 유의, 일반 침·전침은 가짜침 대비 유의성 부족 |
-| Acupuncture for Tinnitus: A Scoping Review of Clinical Studies | 체계적 고찰 | - | 중간 | 10.1159/000538236 | 국소혈(TE17·GB2·SI19·TE21)+원위혈 병용, 20~39일·10~19회 권장 |
-| A Review of Recent Clinical Studies of Acupotomy for Tinnitus | 체계적 고찰 | - | 중간 | 10.13048/jkm.25052 | 도침이 경추성 이명에 보조적 효과, 근거 수준 낮음 |
-| Auricular acupuncture for treating tinnitus: A systematic review | 체계적 고찰 | - | 중간 | 10.4103/hbc.hbc_6_25 | 이침이 스트레스·삶의 질 개선, 10회 이상 세션 권장 |
-| Effectiveness of Over-The-Counter Treatments for Tinnitus Symptom Relief: A Systematic Review | 체계적 고찰 | 390 | 중간 | 10.1002/lio2.70398 | OTC 치료제 효과 불일치·근거 부족 |
-| Clinical research on acupuncture. Part 1. What have reviews told us so far? | 문헌고찰 | - | 중간 | 10.1089/1075553041323894 | 침이 특정 적응증에서 효과적·안전 |
-| Alternative Treatments of Tinnitus: Alternative Medicine | 문헌고찰 | - | 중간 | 10.1016/j.otc.2020.03.011 | 침·한약이 이명 증상·삶의 질 개선 |
-| The Effect of Instant Stimulation to Kidney 3 Acupuncture Point on DPOAE Responses in Patients With Tinnitus | 임상시험 | 30 | 중간 | 10.1177/03601293251346977 | 태계혈 자극이 DPOAE 반응에 유의 변화 |
-| Efficacy and Safety of Acupuncture for Idiopathic Tinnitus: A Randomized Controlled Clinical Trial | 임상시험 | 74 | 중간 | 10.1155/ijcp/5489240 | 수기 침이 가짜침보다 중증도·수면·불안 개선 |
-| A Pilot Randomized Controlled Trial of TENS for Patients With Acute Tinnitus | 임상시험 | 46 | 중간 | 10.1097/md.0000000000013793 | TENS가 급성 이명 심각도·삶의 질 개선 |
-| Bojungikgitang and banhabaekchulchonmatang in adult patients with tinnitus, a randomized, double-blind, three-arm, placebo-controlled trial--study protocol | 임상시험 | - | 중간 | 10.1186/1745-6215-11-34 | 보중익기탕·반하백출천마탕 유효성 평가 프로토콜 |
-| A comparative study on the effects of systemic manual acupuncture, periauricular electroacupuncture, and digital electroacupuncture to treat tinnitus | 임상시험 | 39 | 중간 | 10.1186/s12906-017-1589-3 | 전신 수기침·전침 모두 증상 개선 |
-| Effectiveness of acupuncture therapy as treatment for tinnitus: a randomized controlled trial | 임상시험 | 50 | 중간 | 10.1016/j.bjorl.2016.04.002 | 두피침+전침 병용이 이명 강도·삶의 질 개선 |
+| Acupuncture for the treatment of tinnitus: a systematic review of randomized clinical trials | 체계적 고찰 | - | 중등도 | 10.1186/1472-6882-12-97 | 두피침은 일부 유의, 일반 침·전침은 가짜침 대비 유의성 부족 |
+| Acupuncture for Tinnitus: A Scoping Review of Clinical Studies | 체계적 고찰 | - | 중등도 | 10.1159/000538236 | 국소혈(TE17·GB2·SI19·TE21)+원위혈 병용, 20~39일·10~19회 권장 |
+| A Review of Recent Clinical Studies of Acupotomy for Tinnitus | 체계적 고찰 | - | 중등도 | 10.13048/jkm.25052 | 도침이 경추성 이명에 보조적 효과, 근거 수준 낮음 |
+| Auricular acupuncture for treating tinnitus: A systematic review | 체계적 고찰 | - | 중등도 | 10.4103/hbc.hbc_6_25 | 이침이 스트레스·삶의 질 개선, 10회 이상 세션 권장 |
+| Effectiveness of Over-The-Counter Treatments for Tinnitus Symptom Relief: A Systematic Review | 체계적 고찰 | 390 | 중등도 | 10.1002/lio2.70398 | OTC 치료제 효과 불일치·근거 부족 |
+| Clinical research on acupuncture. Part 1. What have reviews told us so far? | 문헌고찰 | - | 중등도 | 10.1089/1075553041323894 | 침이 특정 적응증에서 효과적·안전 |
+| Alternative Treatments of Tinnitus: Alternative Medicine | 문헌고찰 | - | 중등도 | 10.1016/j.otc.2020.03.011 | 침·한약이 이명 증상·삶의 질 개선 |
+| The Effect of Instant Stimulation to Kidney 3 Acupuncture Point on DPOAE Responses in Patients With Tinnitus | 임상시험 | 30 | 중등도 | 10.1177/03601293251346977 | 태계혈 자극이 DPOAE 반응에 유의 변화 |
+| Efficacy and Safety of Acupuncture for Idiopathic Tinnitus: A Randomized Controlled Clinical Trial | 임상시험 | 74 | 중등도 | 10.1155/ijcp/5489240 | 수기 침이 가짜침보다 중증도·수면·불안 개선 |
+| A Pilot Randomized Controlled Trial of TENS for Patients With Acute Tinnitus | 임상시험 | 46 | 중등도 | 10.1097/md.0000000000013793 | TENS가 급성 이명 심각도·삶의 질 개선 |
+| Bojungikgitang and banhabaekchulchonmatang in adult patients with tinnitus, a randomized, double-blind, three-arm, placebo-controlled trial--study protocol | 임상시험 | - | 중등도 | 10.1186/1745-6215-11-34 | 보중익기탕·반하백출천마탕 유효성 평가 프로토콜 |
+| A comparative study on the effects of systemic manual acupuncture, periauricular electroacupuncture, and digital electroacupuncture to treat tinnitus | 임상시험 | 39 | 중등도 | 10.1186/s12906-017-1589-3 | 전신 수기침·전침 모두 증상 개선 |
+| Effectiveness of acupuncture therapy as treatment for tinnitus: a randomized controlled trial | 임상시험 | 50 | 중등도 | 10.1016/j.bjorl.2016.04.002 | 두피침+전침 병용이 이명 강도·삶의 질 개선 |
 | Acupuncture Therapy in Tinnitus Using Single Needle Through Multiple Points Technique | 증례 | 1 | 낮음 | 10.1177/19336586251363176 | 일침다혈법으로 이명 소실(THI 0) |
 | Acupuncture for chronic tinnitus: A CARE-compliant case report | 증례 | 1 | 낮음 | 10.1016/j.explore.2022.06.002 | 백회·청궁 등 5회 침으로 만성 이명 해결 |
 | Auricular Acupressure Combined with Self-Help Intervention for Treating Chronic Tinnitus: A Longitudinal Observational Study | 관찰연구 | 39 | 낮음 | 10.3390/jcm10184201 | 이침 압박+자가 관리가 이명 강도·스트레스 감소 |
@@ -99,18 +99,18 @@
 | Sudden Brief Unilateral Tapering Tinnitus (SBUTT) Is Closely Related to the Lateral Pterygoid Muscle | 증례 | 5 | 낮음 | 10.1097/MAO.0000000000003090 | 외측익돌근 트리거포인트와 이명 연관 |
 | Neuropuncture, an Effective Treatment Method for Patients with Subjective Tinnitus Accompanied with Hearing Loss: Case Reports | 증례 | 3 | 낮음 | 10.1089/acu.2020.1514 | 신경침이 난청 동반 이명 증상 완화 |
 | Dry needling as a novel intervention for cervicogenic somatosensory tinnitus: a case study | 증례 | 1 | 낮음 | 10.1080/09593985.2020.1825579 | 드라이 니들링이 경추성 체성감각 이명 개선, 1년 유지 |
-| Effect of Dry Needling on the Masseter Muscle in the Tinnitus Perception of Patients with Temporomandibular Disorder | 임상시험 | 25 | 중간 | 10.1007/s12663-022-01696-4 | 교근 건침이 턱관절 장애 이명 THI 개선 |
-| Effectiveness of Dry Needling in Bothersome Chronic Tinnitus in Patients with Myofascial Trigger Points | 임상시험 | 16 | 중간 | 10.1055/s-0041-1730429 | 드라이 니들링이 유발점 동반 이명 개선 |
-| Intervention of the Syndrome-Position Point Selection Method on Idiopathic Tinnitus of Phlegm-Fire Stagnation Pattern | 임상시험 | 100 | 중간 | 10.1155/2022/9664078 | 증후-부위 혈위 선택법이 담화울체 이명 개선 |
-| Effects of electroacupuncture on brain functional connectivity in patients with subjective tinnitus | 임상시험 | 90 | 중간 | 10.1016/j.ctim.2026.103391 | 전침이 THI·수면·정서 개선, 뇌섬엽 기능 조절 |
-| Acupuncture decreases amygdala functional connectivity in subjective tinnitus | 임상시험 | 26 | 중간 | 10.3389/fneur.2022.986805 | 침이 편도체 연결성 감소·이명 심각도 완화 |
-| [Clinical observation on idiopathic tinnitus treated with acupuncture, buzhong yiqi tang and cizhu wan] | 임상시험 | 60 | 중간 | 10.13703/j.0255-2930.2018.04.007 | 보중익기탕·자주환+침 병행이 우수 |
-| Tinnitus outcomes after ginkgo biloba extract in sudden sensorineural hearing loss | 임상시험 | 195 | 중간 | 10.1080/00016489.2026.2629608 | EGB 761 저용량도 이명 유의 개선 |
-| Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined with betahistine Mesylate: A randomized controlled trial | 임상시험 | - | 중간 | 10.1016/j.brs.2023.10.003 | taVNS+베타히스틴 병용이 메니에르병 개선 |
-| [Thirty-two cases of chronic primary tinnitus treated with acupuncture and moxibustion technique of Daoqi Tongluo] | 임상시험 | 32 | 중간 | 10.13703/j.0255-2930.20240518-0001 | 도기통락 침구법이 이명·수면·정서 개선 |
-| [Cervical tinnitus treated by acupuncture based on "jin" theory] | 임상시험 | 95 | 중간 | PMID 27352493 | 진(筋) 이론 침이 경추성 이명 개선 |
-| [Effect of different electroacupuncture stimulation parameters on sudden hearing loss] | 임상시험 | 118 | 중간 | 10.13703/j.0255-2930.20200913-k0001 | 2Hz/50Hz 소밀파 전침이 난청 완치율 최고 |
-| [Comprehensive therapy for senile sensorineural hearing loss: a randomized controlled trial] | 임상시험 | 120 | 중간 | 10.13703/j.0255-2930.2018.06.009 | 침·혈주사·이혈압박 병행이 노인 난청 개선 |
+| Effect of Dry Needling on the Masseter Muscle in the Tinnitus Perception of Patients with Temporomandibular Disorder | 임상시험 | 25 | 중등도 | 10.1007/s12663-022-01696-4 | 교근 건침이 턱관절 장애 이명 THI 개선 |
+| Effectiveness of Dry Needling in Bothersome Chronic Tinnitus in Patients with Myofascial Trigger Points | 임상시험 | 16 | 중등도 | 10.1055/s-0041-1730429 | 드라이 니들링이 유발점 동반 이명 개선 |
+| Intervention of the Syndrome-Position Point Selection Method on Idiopathic Tinnitus of Phlegm-Fire Stagnation Pattern | 임상시험 | 100 | 중등도 | 10.1155/2022/9664078 | 증후-부위 혈위 선택법이 담화울체 이명 개선 |
+| Effects of electroacupuncture on brain functional connectivity in patients with subjective tinnitus | 임상시험 | 90 | 중등도 | 10.1016/j.ctim.2026.103391 | 전침이 THI·수면·정서 개선, 뇌섬엽 기능 조절 |
+| Acupuncture decreases amygdala functional connectivity in subjective tinnitus | 임상시험 | 26 | 중등도 | 10.3389/fneur.2022.986805 | 침이 편도체 연결성 감소·이명 심각도 완화 |
+| [Clinical observation on idiopathic tinnitus treated with acupuncture, buzhong yiqi tang and cizhu wan] | 임상시험 | 60 | 중등도 | 10.13703/j.0255-2930.2018.04.007 | 보중익기탕·자주환+침 병행이 우수 |
+| Tinnitus outcomes after ginkgo biloba extract in sudden sensorineural hearing loss | 임상시험 | 195 | 중등도 | 10.1080/00016489.2026.2629608 | EGB 761 저용량도 이명 유의 개선 |
+| Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined with betahistine Mesylate: A randomized controlled trial | 임상시험 | - | 중등도 | 10.1016/j.brs.2023.10.003 | taVNS+베타히스틴 병용이 메니에르병 개선 |
+| [Thirty-two cases of chronic primary tinnitus treated with acupuncture and moxibustion technique of Daoqi Tongluo] | 임상시험 | 32 | 중등도 | 10.13703/j.0255-2930.20240518-0001 | 도기통락 침구법이 이명·수면·정서 개선 |
+| [Cervical tinnitus treated by acupuncture based on "jin" theory] | 임상시험 | 95 | 중등도 | PMID 27352493 | 진(筋) 이론 침이 경추성 이명 개선 |
+| [Effect of different electroacupuncture stimulation parameters on sudden hearing loss] | 임상시험 | 118 | 중등도 | 10.13703/j.0255-2930.20200913-k0001 | 2Hz/50Hz 소밀파 전침이 난청 완치율 최고 |
+| [Comprehensive therapy for senile sensorineural hearing loss: a randomized controlled trial] | 임상시험 | 120 | 중등도 | 10.13703/j.0255-2930.2018.06.009 | 침·혈주사·이혈압박 병행이 노인 난청 개선 |
 | Korean medicine combination treatment for chronic tinnitus unresponsive to conventional treatment: A case report and review of literature | 증례 | 1 | 낮음 | 10.12998/wjcc.v13.i21.103200 | 간기울결 변증 침·추나·턱관절 치료가 효과적 |
 | A Case of Chronic Meniere's Disease Improved by Korean Medicine Treatment Including Pharmacoacupuncture | 증례 | 1 | 낮음 | 10.13048/jkm.23038 | 경추·턱관절 약침이 메니에르병 동반 이명 개선 |
 | Cupping Therapy as a Potential Complimentary Treatment for Meniere's Disease: A Case Report | 증례 | 1 | 낮음 | 10.7759/cureus.55864 | 부항이 난치성 메니에르병 개선 |

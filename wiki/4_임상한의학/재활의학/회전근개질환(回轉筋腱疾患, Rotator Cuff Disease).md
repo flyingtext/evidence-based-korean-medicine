@@ -179,61 +179,61 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | Acupuncture for Symptomatic Rotator Cuff Disease: A Systematic Review and Meta-Analysis | 메타분석 | 2216 | 높음 | 10.13045/jar.2020.00458 | 침이 회전근개 질환 통증·기능 개선에 긍정적, 편향 위험 높음 |
-| Randomised clinical trial comparing the effects of acupuncture and a newly designed placebo needle in rotator cuff tendinitis | 임상시험 | 52 | 중간 | 10.1016/s0304-3959(99)00107-4 | 실제 침이 가짜 침보다 통증·기능 개선에 유의하게 우월 |
-| The effect of rotator cuff trigger points dry needling on the stability and function of the upper limb in people with shoulder pain | 임상시험 | 44 | 중간 | 10.1016/j.jht.2025.04.005 | 회전근개 유발점 건침이 통증·안정성·기능 개선, MCID 상회 |
-| The Clinical Efficacy and Safety of Electroacupuncture (EA) in Perioperative Rehabilitation of Rotator Cuff Repair Surgery | 임상시험 | 112 | 중간 | 10.2147/JPR.S546835 | 회전근개 봉합술 전후 전침의 효능·안전성 평가 프로토콜 |
-| Auriculotherapy for Prolonged Postoperative Pain Management Following Rotator Cuff Surgery | 임상시험 | 50 | 중간 | 10.1089/acu.2024.0061 | 이침이 수술 후 오피오이드 소비 35% 감소, 통증·만족도 개선 |
-| Dry Needling in a Multimodal Rehabilitation Protocol Following Rotator Cuff Repair Surgery | 임상시험 | 46 | 중간 | 10.21203/rs.3.rs-3361769/v1 | 수술 후 건침 추가가 표준 재활 대비 유의한 추가 이점 없음 |
+| Randomised clinical trial comparing the effects of acupuncture and a newly designed placebo needle in rotator cuff tendinitis | 임상시험 | 52 | 중등도 | 10.1016/s0304-3959(99)00107-4 | 실제 침이 가짜 침보다 통증·기능 개선에 유의하게 우월 |
+| The effect of rotator cuff trigger points dry needling on the stability and function of the upper limb in people with shoulder pain | 임상시험 | 44 | 중등도 | 10.1016/j.jht.2025.04.005 | 회전근개 유발점 건침이 통증·안정성·기능 개선, MCID 상회 |
+| The Clinical Efficacy and Safety of Electroacupuncture (EA) in Perioperative Rehabilitation of Rotator Cuff Repair Surgery | 임상시험 | 112 | 중등도 | 10.2147/JPR.S546835 | 회전근개 봉합술 전후 전침의 효능·안전성 평가 프로토콜 |
+| Auriculotherapy for Prolonged Postoperative Pain Management Following Rotator Cuff Surgery | 임상시험 | 50 | 중등도 | 10.1089/acu.2024.0061 | 이침이 수술 후 오피오이드 소비 35% 감소, 통증·만족도 개선 |
+| Dry Needling in a Multimodal Rehabilitation Protocol Following Rotator Cuff Repair Surgery | 임상시험 | 46 | 중등도 | 10.21203/rs.3.rs-3361769/v1 | 수술 후 건침 추가가 표준 재활 대비 유의한 추가 이점 없음 |
 | The effects of different types of thoracic manual therapy for shoulder dysfunction: a systemic review with meta-analysis | 메타분석 | 508 | 높음 | 10.1016/j.msksp.2026.103565 | 흉추 수기치료가 어깨 통증·장애 개선, 충돌 증후군에 Maitland 유효 |
-| Comparison of the effect of two different types of dry-needling techniques on subacromial impingement syndrome | 임상시험 | 66 | 중간 | 10.1016/j.jbmt.2020.10.018 | 심부 건침+물리치료가 통증·기능 개선에 더 효과적 |
-| Dry Needling for Subacromial Impingement: Effects on Shoulder Function and Joint Mobility | 임상시험 | 20 | 중간 | 10.55041/ijsrem44450 | 건침이 전통 물리치료보다 어깨 기능·ROM 개선에 효과적 |
-| Clinical Observation of the Efficacy of Acupotomy Combined with Ultrasound Therapy for Calcific Tendinitis | 임상시험 | 72 | 중간 | 10.26689/bas.v2i6.9324 | 도침+초음파 병행이 석회 병변 크기 감소에 더 효과적 |
-| Comparison of the efficacy of phlebotomy under touch pain point and ultrasound-guided puncture decompression in acute calcific supraspinatus tendinitis | 임상시험 | 45 | 중간 | 10.12200/j.issn.1003-0034.20230735 | 사혈·초음파 천자 감압 모두 급성 석회성 건염에 효과적 |
-| Review of Studies on Domestic and International Clinical Trends for Korean Medicine Treatment of Rotator Cuff Calcific Tendinitis | 체계적 고찰 | - | 중간 | 10.30581/jcmm.2023.18.2.43 | 침·뜸·부항·한약이 석회성 건염에 긍정적 |
-| [Qihuang acupuncture therapy for mid-term postoperative pain after arthroscopic rotator cuff repair] | 임상시험 | 90 | 중간 | 10.13703/j.0255-2930.20250217-0006 | 기황침이 수술 후 중기 통증·기능 회복 촉진, 4주 지속 |
-| Efficacy observation and prognostic analysis of sling exercise therapy combined with warm acupuncture moxibustion in rotator cuff injuries | 임상시험 | 59 | 중간 | 10.18282/po4722 | 온침구+슬링 운동이 통증·기능·삶의 질 개선, 3개월 지속 |
+| Comparison of the effect of two different types of dry-needling techniques on subacromial impingement syndrome | 임상시험 | 66 | 중등도 | 10.1016/j.jbmt.2020.10.018 | 심부 건침+물리치료가 통증·기능 개선에 더 효과적 |
+| Dry Needling for Subacromial Impingement: Effects on Shoulder Function and Joint Mobility | 임상시험 | 20 | 중등도 | 10.55041/ijsrem44450 | 건침이 전통 물리치료보다 어깨 기능·ROM 개선에 효과적 |
+| Clinical Observation of the Efficacy of Acupotomy Combined with Ultrasound Therapy for Calcific Tendinitis | 임상시험 | 72 | 중등도 | 10.26689/bas.v2i6.9324 | 도침+초음파 병행이 석회 병변 크기 감소에 더 효과적 |
+| Comparison of the efficacy of phlebotomy under touch pain point and ultrasound-guided puncture decompression in acute calcific supraspinatus tendinitis | 임상시험 | 45 | 중등도 | 10.12200/j.issn.1003-0034.20230735 | 사혈·초음파 천자 감압 모두 급성 석회성 건염에 효과적 |
+| Review of Studies on Domestic and International Clinical Trends for Korean Medicine Treatment of Rotator Cuff Calcific Tendinitis | 체계적 고찰 | - | 중등도 | 10.30581/jcmm.2023.18.2.43 | 침·뜸·부항·한약이 석회성 건염에 긍정적 |
+| [Qihuang acupuncture therapy for mid-term postoperative pain after arthroscopic rotator cuff repair] | 임상시험 | 90 | 중등도 | 10.13703/j.0255-2930.20250217-0006 | 기황침이 수술 후 중기 통증·기능 회복 촉진, 4주 지속 |
+| Efficacy observation and prognostic analysis of sling exercise therapy combined with warm acupuncture moxibustion in rotator cuff injuries | 임상시험 | 59 | 중등도 | 10.18282/po4722 | 온침구+슬링 운동이 통증·기능·삶의 질 개선, 3개월 지속 |
 | Electroacupuncture combined with rehabilitation techniques for patients with rotator cuff injury | 문헌고찰 | - | 낮음 | 10.12998/wjcc.v13.i17.98692 | 전침+재활 병행이 통증·기능 회복에 효과적 |
-| Acupuncture and rehabilitation of the painful shoulder: study protocol | 임상시험 | 465 | 중간 | 10.1186/1472-6882-5-19 | 견봉하 증후군에 침+물리치료 병행 효과 검증 프로토콜 |
-| Effects of eccentric exercises with and without dry needling in chronic rotator cuff tendinopathy | 임상시험 | 28 | 중간 | 10.1016/j.jbmt.2025.01.032 | 신장성 운동+건침이 효과 유지에 더 효과적, 72시간 지속 |
-| Effect of Dry Needling on Compensatory Trigger Points in Overhead Athletes with Supraspinatus Tendonitis | 임상시험 | 12 | 중간 | 10.7860/jcdr/2026/90232.23774 | 보상성 유발점 건침이 통증·ROM·기능 개선에 효과적 |
-| The immediate effect of dry needling of the most tender active myofascial trigger point of the rotator cuff musculature on bowling speed | 임상시험 | 40 | 중간 | 10.51415/10321/445 | 회전근개 유발점 건침이 투구 속도·통증 개선 |
+| Acupuncture and rehabilitation of the painful shoulder: study protocol | 임상시험 | 465 | 중등도 | 10.1186/1472-6882-5-19 | 견봉하 증후군에 침+물리치료 병행 효과 검증 프로토콜 |
+| Effects of eccentric exercises with and without dry needling in chronic rotator cuff tendinopathy | 임상시험 | 28 | 중등도 | 10.1016/j.jbmt.2025.01.032 | 신장성 운동+건침이 효과 유지에 더 효과적, 72시간 지속 |
+| Effect of Dry Needling on Compensatory Trigger Points in Overhead Athletes with Supraspinatus Tendonitis | 임상시험 | 12 | 중등도 | 10.7860/jcdr/2026/90232.23774 | 보상성 유발점 건침이 통증·ROM·기능 개선에 효과적 |
+| The immediate effect of dry needling of the most tender active myofascial trigger point of the rotator cuff musculature on bowling speed | 임상시험 | 40 | 중등도 | 10.51415/10321/445 | 회전근개 유발점 건침이 투구 속도·통증 개선 |
 | Management of Shoulder Injuries Using Dry Needling in Elite Volleyball Players | 증례 | 4 | 낮음 | 10.1136/aim.2009.001560 | 견갑상완근 건침이 단기 통증·ROM·근력 개선 |
 | Effectiveness of Dry Needling Combined With Exercise Versus Exercise Alone in Various Tendinopathies | 메타분석 | 255 | 높음 | 10.7759/cureus.92833 | 건침+운동이 운동 단독보다 통증·기능 개선에 효과적 |
-| Dry needling in the management of tendinopathy: A systematic review of randomized control trials | 체계적 고찰 | 357 | 중간 | 10.1016/j.jbmt.2022.09.021 | 건침이 건병증 통증·기능 개선에 효과적, PRP·약물과 유사 |
-| Effectiveness of Percutaneous Electrolysis in Supraspinatus Tendinopathy | 임상시험 | 36 | 중간 | 10.3390/jcm9061837 | 경피전기분해술이 건침보다 통증·ROM·압통 역치 개선, 1년 지속 |
+| Dry needling in the management of tendinopathy: A systematic review of randomized control trials | 체계적 고찰 | 357 | 중등도 | 10.1016/j.jbmt.2022.09.021 | 건침이 건병증 통증·기능 개선에 효과적, PRP·약물과 유사 |
+| Effectiveness of Percutaneous Electrolysis in Supraspinatus Tendinopathy | 임상시험 | 36 | 중등도 | 10.3390/jcm9061837 | 경피전기분해술이 건침보다 통증·ROM·압통 역치 개선, 1년 지속 |
 | A novel dry needling approach treating subacromial pain syndrome | 증례 | 1 | 낮음 | 10.1016/j.jbmt.2024.08.006 | 물리치료 정체 환자에 건침 병행이 통증·기능 개선 |
 | Overlooked Source of Shoulder Pain: Pectoralis Minor Myofascial Trigger Points and Dry Needling Efficacy | 증례 | - | 낮음 | 10.18621/eurj.1812710 | 소흉근 유발점 건침이 어깨 통증 대안 |
 | Management of muscle trigger points causing subacromial pain using dry needling technique | 증례 | 1 | 낮음 | 10.47391/JPMA.125 | 극상근 유발점 건침이 견봉하 통증 관리에 효과적 |
 | Efficacy of Dry Needling in the Treatment of Painful Arc Syndrome | 증례 | 1 | 낮음 | 10.24966/orp-2052/100061 | 통증성 궁 증후군에 건침이 통증·기능 개선 |
-| Ultrasound verification of palpation-based dry needling techniques of rotator cuff muscles | 관찰연구 | 10 | 중간 | 10.1080/10669817.2023.2244735 | 촉진 기반 건침이 극상근·극하근에 정확 자입 |
-| Bee Venom Acupuncture for Shoulder Pain: A Literature Review of Clinical Studies | 체계적 고찰 | - | 중간 | 10.3390/toxins16110501 | 봉침이 회전근개 증후군 등 어깨 통증 완화에 긍정적 |
-| A Pilot Study for Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases | 임상시험 | 40 | 중간 | 10.2147/JPR.S457425 | 약침 병행이 안전, 구조 약물 복용량 감소에 기여 |
-| Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases: a Protocol | 임상시험 | 40 | 중간 | 10.51507/j.jams.2023.16.2.79 | 약침 병행의 추가 효과·안전성 평가 프로토콜 |
+| Ultrasound verification of palpation-based dry needling techniques of rotator cuff muscles | 관찰연구 | 10 | 중등도 | 10.1080/10669817.2023.2244735 | 촉진 기반 건침이 극상근·극하근에 정확 자입 |
+| Bee Venom Acupuncture for Shoulder Pain: A Literature Review of Clinical Studies | 체계적 고찰 | - | 중등도 | 10.3390/toxins16110501 | 봉침이 회전근개 증후군 등 어깨 통증 완화에 긍정적 |
+| A Pilot Study for Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases | 임상시험 | 40 | 중등도 | 10.2147/JPR.S457425 | 약침 병행이 안전, 구조 약물 복용량 감소에 기여 |
+| Effectiveness and Safety of Adjunctive Pharmacopuncture to Acupuncture Treatment for Rotator Cuff Diseases: a Protocol | 임상시험 | 40 | 중등도 | 10.51507/j.jams.2023.16.2.79 | 약침 병행의 추가 효과·안전성 평가 프로토콜 |
 | Periarthritic Shoulder Cupping Therapy: Clinical Mechanisms, Rehabilitation Integration, and Outcomes | 문헌고찰 | - | 낮음 | 10.36948/ijfmr.2026.v08i01.66496 | 부항이 어깨 근골격계 통증 완화·기능 회복에 유용 |
-| Effectiveness of moving cupping therapy on pain and functionality in rotator cuff injuries | 임상시험 | 30 | 중간 | 10.1177/10538127251323106 | 이동식 부항+물리치료가 통증·ROM·기능 개선 |
+| Effectiveness of moving cupping therapy on pain and functionality in rotator cuff injuries | 임상시험 | 30 | 중등도 | 10.1177/10538127251323106 | 이동식 부항+물리치료가 통증·ROM·기능 개선 |
 | Raktamokshana (wet cupping therapy) in the management of calcified supraspinatus tendinitis | 증례 | 1 | 낮음 | 10.4103/bjhs.bjhs_37_21 | 습식 부항이 석회성 극상근 건염 통증·ROM 개선 |
 | SPORTS CUPPING FOR SUPRASPINATUS TENDINOSIS: A CASE STUDY | 증례 | 1 | 낮음 | 10.55116/ijicm.v5i2.68 | 스포츠 습식 부항이 극상근 건증 통증·ROM 개선 |
 | Research Progress on Integrated Traditional Chinese and Western Medicine Treatment of Rotator Cuff Injuries | 문헌고찰 | - | 낮음 | 10.53469/jcmp.2025.07(04).45 | 침도 이완술이 회전근개 손상 통증·기능 개선에 효과적 |
 | Effect of spinal manipulation on shoulder pain and range of motion in individuals with rotator cuff tendinopathy | 실험연구 | - | 낮음 | 10.17784/mtprehabjournal.2016.14.383 | 흉추 교정이 어깨 통증·외전 ROM 개선 |
 | The immediate effect of manipulation of selected cervical spinal segments on the peak torque of the rotator cuff muscles | 실험연구 | - | 낮음 | 10.51415/10321/223 | 경추 교정이 회전근개 최대 토크에 영향 |
-| Thermotherapy for shoulder pain: a protocol for systematic review | 체계적 고찰 | - | 중간 | 10.37766/inplasy2021.11.0086 | 어깨 통증 온열요법 유효성·안전성 평가 프로토콜 |
+| Thermotherapy for shoulder pain: a protocol for systematic review | 체계적 고찰 | - | 중등도 | 10.37766/inplasy2021.11.0086 | 어깨 통증 온열요법 유효성·안전성 평가 프로토콜 |
 | A Case Report of Integrative Treatment with Korean and Western Medicine Based on Gami-seogyeong-tang in Supraspinatus Tendinopathy and Sleep Disturbance | 증례 | 1 | 낮음 | 10.22246/jikm.2026.47.2.170 | 가미소경탕 기반 통합 치료가 통증·ROM·수면 개선 |
-| Needle contact test in auricular acupuncture for shoulder pain | 임상시험 | 45 | 중간 | 10.4081/ejtm.2023.11113 | 이침 접촉 검사가 극상근 건병증 이혈 선택에 유효 |
-| Incidence and factors associated with reoperation after rotator cuff repair in Korea | 관찰연구 | 221361 | 중간 | 10.1371/journal.pone.0350201 | 한국 회전근개 봉합술 재수술률 6.82%, 한의 방문 시점 연관 |
-| Comparing Ultrasound-Guided Needling Combined With a Subacromial Corticosteroid Injection Versus High-Energy ESWT for Calcific Tendinitis | 임상시험 | 82 | 중간 | 10.1016/j.arthro.2020.02.027 | 초음파 유도 침술+스테로이드가 석회 제거에 우수 |
+| Needle contact test in auricular acupuncture for shoulder pain | 임상시험 | 45 | 중등도 | 10.4081/ejtm.2023.11113 | 이침 접촉 검사가 극상근 건병증 이혈 선택에 유효 |
+| Incidence and factors associated with reoperation after rotator cuff repair in Korea | 관찰연구 | 221361 | 중등도 | 10.1371/journal.pone.0350201 | 한국 회전근개 봉합술 재수술률 6.82%, 한의 방문 시점 연관 |
+| Comparing Ultrasound-Guided Needling Combined With a Subacromial Corticosteroid Injection Versus High-Energy ESWT for Calcific Tendinitis | 임상시험 | 82 | 중등도 | 10.1016/j.arthro.2020.02.027 | 초음파 유도 침술+스테로이드가 석회 제거에 우수 |
 | Ultrasound-Guided Electroacupuncture Treatment for Rotator Cuff Tendinopathy | 증례 | 1 | 낮음 | 10.1089/acu.2023.0042 | 초음파 유도 전침이 난치성 회전근개 건증에 효과적 |
-| Dry needling as an adjunct treatment to multimodal rehabilitation protocol following rotator cuff repair surgery | 임상시험 | 46 | 중간 | 10.1186/s12998-024-00555-y | 수술 후 건침 추가가 유의한 추가 이점 없음, 재활 중요 |
-| Dry needling in a multimodal rehabilitation protocol following rotator cuff repair surgery: study protocol | 임상시험 | 46 | 중간 | 10.1186/s12891-023-06269-1 | 수술 후 건침 추가 효과 평가 프로토콜 |
+| Dry needling as an adjunct treatment to multimodal rehabilitation protocol following rotator cuff repair surgery | 임상시험 | 46 | 중등도 | 10.1186/s12998-024-00555-y | 수술 후 건침 추가가 유의한 추가 이점 없음, 재활 중요 |
+| Dry needling in a multimodal rehabilitation protocol following rotator cuff repair surgery: study protocol | 임상시험 | 46 | 중등도 | 10.1186/s12891-023-06269-1 | 수술 후 건침 추가 효과 평가 프로토콜 |
 | The Role of Leopard Spot Technique Acupuncture for Shoulder Impingement with Myofascial Pain Syndrome | 증례 | 1 | 낮음 | 10.18295/2075-0528.2903 | 표범점 기법 침이 충돌 증후군 통증·ROM 개선 |
 | Research Progress in Traditional Chinese Medicine Treatment of Rotator Cuff Injury | 문헌고찰 | - | 낮음 | 10.53469/jcmp.2026.08(01).05 | 한방 치료가 회전근개 손상 통증·기능 회복에 유효 |
 | Spinal manipulation effect on pain and cardiac autonomic modulation in patients with rotator cuff tendinopathy | 관찰연구 | 6 | 낮음 | 10.17784/mtprehabjournal.2016.14.417 | 흉추 교정이 통증·자율신경 조절에 유의한 효과 없음 |
-| Comparison of Kinesio Tape and Dry Needling in the Management of Rotator Cuff Tendinopathy | 임상시험 | 40 | 중간 | 10.57197/jdr-2023-0046 | 키네시오 테이핑이 건침보다 통증 감소에 효과적 |
-| Acupuncture for symptomatic rotator cuff disease | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000018716 | 회전근개 질환 침 치료 유효성·안전성 평가 프로토콜 |
-| Efficacy, Safety and Cost-Effectiveness of Thread-Embedding Acupuncture for Adhesive Capsulitis (Frozen Shoulder) | 임상시험 | 160 | 중간 | 10.2147/JPR.S396264 | 매선침이 오십견 유효성·안전성·비용효과성 평가 프로토콜 |
-| Ultrasound-guided hydrodilatation of glenohumeral joint combined with acupotomy for treatment of frozen shoulder | 임상시험 | 63 | 중간 | 10.3233/bmr-210272 | 수압팽창술+도침 병행이 오십견 ROM·통증 개선 |
+| Comparison of Kinesio Tape and Dry Needling in the Management of Rotator Cuff Tendinopathy | 임상시험 | 40 | 중등도 | 10.57197/jdr-2023-0046 | 키네시오 테이핑이 건침보다 통증 감소에 효과적 |
+| Acupuncture for symptomatic rotator cuff disease | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000018716 | 회전근개 질환 침 치료 유효성·안전성 평가 프로토콜 |
+| Efficacy, Safety and Cost-Effectiveness of Thread-Embedding Acupuncture for Adhesive Capsulitis (Frozen Shoulder) | 임상시험 | 160 | 중등도 | 10.2147/JPR.S396264 | 매선침이 오십견 유효성·안전성·비용효과성 평가 프로토콜 |
+| Ultrasound-guided hydrodilatation of glenohumeral joint combined with acupotomy for treatment of frozen shoulder | 임상시험 | 63 | 중등도 | 10.3233/bmr-210272 | 수압팽창술+도침 병행이 오십견 ROM·통증 개선 |
 | One-time relieving of frozen shoulder motor dysfunction with pure acupotomy | 증례 | 1 | 낮음 | 10.1097/md.0000000000036783 | 단회 도침이 오십견 가동 범위 즉각 회복 |
-| Active vs. sham pulsed electromagnetic field therapy for partial-thickness supraspinatus tears | 임상시험 | 50 | 중간 | 10.3389/fspor.2026.1847412 | 극상근 부분 파열에 PEMF 병행 효과 평가 프로토콜 |
-| Association Between Sarcopenia and Acupressure Testing in Older Adults | 관찰연구 | 143 | 중간 | 10.3390/medicina60111852 | 근감소증과 극상근 압통점 연관, 지압 검사 유용 |
+| Active vs. sham pulsed electromagnetic field therapy for partial-thickness supraspinatus tears | 임상시험 | 50 | 중등도 | 10.3389/fspor.2026.1847412 | 극상근 부분 파열에 PEMF 병행 효과 평가 프로토콜 |
+| Association Between Sarcopenia and Acupressure Testing in Older Adults | 관찰연구 | 143 | 중등도 | 10.3390/medicina60111852 | 근감소증과 극상근 압통점 연관, 지압 검사 유용 |
 | A CARE-compliant article: a case report of idiopathic brachial neuritis treated with ultrasound-guided electroacupuncture | 증례 | 1 | 낮음 | 10.1097/md.0000000000015325 | 초음파 유도 전침이 상완신경염 통증·근력 개선 |
 | Effects of Deep Dry Needling on Tremor Severity and Functionality in Stroke | 증례 | 1 | 낮음 | 10.3390/healthcare9010005 | 심부 건침이 뇌졸중 후 떨림·기능 개선 |
 | Optimizing Performance and Recovery: Dry Needling of Myofascial Trigger Points in Sports Medicine | 문헌고찰 | - | 낮음 | 10.12775/qs.2026.53.69749 | 건침이 스포츠 근골격계 통증·기능 회복에 효과적 |

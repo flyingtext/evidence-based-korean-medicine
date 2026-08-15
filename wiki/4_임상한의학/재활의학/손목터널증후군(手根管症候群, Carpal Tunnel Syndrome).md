@@ -88,26 +88,26 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Acupuncture and related interventions for the treatment of symptoms associated with carpal tunnel syndrome | 체계적 고찰(Cochrane) | 869 | 중간 | 10.1002/14651858.CD011215.pub2 / 30521680 | 침·관련 중재가 증상 완화에 잠재적 유용성, 근거 낮음·단기 효과 |
-| Effect of Manual Acupuncture for Mild-to-Moderate Carpal Tunnel Syndrome: A Systematic Review | 체계적 고찰 | - | 중간 | 10.3831/KPI.2021.24.4.153 / 35028166 | 수기침이 통증·기능 개선에 효과적, 대릉혈(PC7) 주요 혈위 |
-| Analysis of Acupoint Selection and Combinations in Acupuncture Treatment of Carpal Tunnel Syndrome | 체계적 고찰(데이터마이닝) | - | 중간 | 10.2147/JPR.S411843 / 37312834 | CTS 침 치료 혈위 선택·조합 분석 프로토콜 |
-| A Data Mining Study for Analysis of Acupoint Selection and Combinations in Acupuncture Treatment of Carpal Tunnel Syndrome | 체계적 고찰(데이터마이닝) | - | 중간 | 10.2147/JPR.S452618 / 38524693 | 대릉(PC7)·내관(PC6)·합곡(LI4) 혈위 조합이 핵심 |
-| Acupuncture Therapy for Extremity Musculoskeletal Pain: A Clinically Focused Evidence Synthesis | 체계적 고찰 | - | 중간 | 10.2147/JPR.S551446 / 41164823 | 침이 사지 근골격계 통증에 효과적, CTS는 근거 부족 주의 |
-| Acupotomy for patients with carpal tunnel syndrome | 체계적 고찰(프로토콜) | - | 중간 | 10.1097/md.0000000000018336 | 도침 요법 유효성·안전성 평가 프로토콜 |
-| Acupuncture and related therapies for carpal tunnel syndrome: A protocol for systematic review and Bayesian network meta-analysis | 체계적 고찰(프로토콜) | - | 중간 | 10.37766/inplasy2021.11.0094 | 침·관련 요법 상대 효능·안전성 비교 프로토콜 |
-| Comparison of acupotomy release combined with glucocorticoid intrathecal injection versus isolated glucocorticoid intrathecal injection for carpal tunnel syndrome | 메타분석(프로토콜) | - | 중간 | 10.1097/md.0000000000032940 | 도침+스테로이드 병용이 단독 주사보다 우수한지 분석 프로토콜 |
-| Efficacy of laser acupuncture for carpal tunnel syndrome | 임상시험(프로토콜) | 40 | 중간 | 10.1097/md.0000000000016516 | 808nm 레이저침이 증상·정중신경 구조 개선 프로토콜 |
-| Randomized Controlled Trial Comparing Acupuncture With Placebo Acupuncture for the Treatment of Carpal Tunnel Syndrome | 임상시험 | 41 | 중간 | 10.1016/j.pmrj.2012.01.008 | 침이 증상 개선, 가짜침 대비 유의 우위는 없음, 손목 보호대 병행 고려 |
-| Laser Acupuncture Versus Electroacupuncture for Nonsevere Carpal Tunnel Syndrome: A Randomized Controlled Trial | 임상시험 | 76 | 중간 | 10.1089/acu.2023.0107 | 레이저침이 전침보다 증상·기능 개선에 효과적·안전 |
-| Effects of electroacupuncture on carpal tunnel syndrome: a clinical, electrophysiological and ultrasonographical pilot study | 임상시험 | 12 | 중간 | 10.1177/09645284251363989 / 40760926 | 전침이 통증·SSS·FSS 개선, 정중신경 CSA 감소 |
-| Acupuncture-Evoked Response in Somatosensory and Prefrontal Cortices Predicts Immediate Pain Reduction in Carpal Tunnel Syndrome | 임상시험 | - | 중간 | 10.1155/2013/795906 | 전침이 국소·원위 혈위 모두 통증 감소, 뇌 반응이 진통 예측 |
-| Effect of Acupotomy Combined with Electroacupuncture Therapy on Finger Mobility and Pain Relief in Patients with Carpal Tunnel Syndrome | 임상시험 | 60 | 중간 | 10.1155/2022/2550875 | 도침+전침 병용이 통증·가동 범위·삶의 질 개선 |
-| Clinical application of ultrasound-guided acupotomy combined with platelet-rich plasma in the treatment of carpal tunnel syndrome | 임상시험 | 72 | 중간 | 10.3389/fsurg.2025.1629781 | 초음파 유도 도침+PRP가 통증·기능·신경전도 개선, 유효율 높음 |
-| Comparison of ultrasound-guided needle-knife release of the transverse carpal ligament with glucocorticoid injection in the treatment of carpal tunnel syndrome | 임상시험 | 27 | 중간 | 10.21037/qims-2026-1-0088 / 42433544 | 초음파 유도 침도 절개가 스테로이드 주사보다 우수, 3개월 지속 |
-| Short-term effects of dry needling of thenar muscles in manual laborers with carpal tunnel syndrome: a pilot, randomized controlled study | 임상시험 | 30 | 중간 | 10.1080/09593985.2022.2033897 / 35109752 | 무지구근 건침이 악력·핀치·BCTQ 단기 개선 |
-| Efficacy of dry needling with the fascial winding technique in reducing the percentage of surgery in carpal tunnel syndrome | 임상시험 | 86 | 중간 | 10.1016/j.jbmt.2025.01.015 / 40325700 | 근막 와인딩 건침이 수술 필요성 감소·통증·기능 개선 |
-| Comparison of 4 weeks of cupping and Kinesio-taping on clinical and ultrasound outcomes of carpal tunnel syndrome during pregnancy | 임상시험 | 30 | 중간 | 10.1016/j.jbmt.2023.04.048 / 37330803 | 임신 중 부항이 테이핑보다 정중신경 CSA·기능 개선에 효과적 |
-| TENS and Acupuncture in treatment of Carpal Tunnel Syndrome | 임상시험 | 138 | 중간 | 10.23880/ipcm-16000210 | TENS·침 병행이 단독 약물보다 통증·임상 징후 개선 |
+| Acupuncture and related interventions for the treatment of symptoms associated with carpal tunnel syndrome | 체계적 고찰(Cochrane) | 869 | 중등도 | 10.1002/14651858.CD011215.pub2 / 30521680 | 침·관련 중재가 증상 완화에 잠재적 유용성, 근거 낮음·단기 효과 |
+| Effect of Manual Acupuncture for Mild-to-Moderate Carpal Tunnel Syndrome: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.3831/KPI.2021.24.4.153 / 35028166 | 수기침이 통증·기능 개선에 효과적, 대릉혈(PC7) 주요 혈위 |
+| Analysis of Acupoint Selection and Combinations in Acupuncture Treatment of Carpal Tunnel Syndrome | 체계적 고찰(데이터마이닝) | - | 중등도 | 10.2147/JPR.S411843 / 37312834 | CTS 침 치료 혈위 선택·조합 분석 프로토콜 |
+| A Data Mining Study for Analysis of Acupoint Selection and Combinations in Acupuncture Treatment of Carpal Tunnel Syndrome | 체계적 고찰(데이터마이닝) | - | 중등도 | 10.2147/JPR.S452618 / 38524693 | 대릉(PC7)·내관(PC6)·합곡(LI4) 혈위 조합이 핵심 |
+| Acupuncture Therapy for Extremity Musculoskeletal Pain: A Clinically Focused Evidence Synthesis | 체계적 고찰 | - | 중등도 | 10.2147/JPR.S551446 / 41164823 | 침이 사지 근골격계 통증에 효과적, CTS는 근거 부족 주의 |
+| Acupotomy for patients with carpal tunnel syndrome | 체계적 고찰(프로토콜) | - | 중등도 | 10.1097/md.0000000000018336 | 도침 요법 유효성·안전성 평가 프로토콜 |
+| Acupuncture and related therapies for carpal tunnel syndrome: A protocol for systematic review and Bayesian network meta-analysis | 체계적 고찰(프로토콜) | - | 중등도 | 10.37766/inplasy2021.11.0094 | 침·관련 요법 상대 효능·안전성 비교 프로토콜 |
+| Comparison of acupotomy release combined with glucocorticoid intrathecal injection versus isolated glucocorticoid intrathecal injection for carpal tunnel syndrome | 메타분석(프로토콜) | - | 중등도 | 10.1097/md.0000000000032940 | 도침+스테로이드 병용이 단독 주사보다 우수한지 분석 프로토콜 |
+| Efficacy of laser acupuncture for carpal tunnel syndrome | 임상시험(프로토콜) | 40 | 중등도 | 10.1097/md.0000000000016516 | 808nm 레이저침이 증상·정중신경 구조 개선 프로토콜 |
+| Randomized Controlled Trial Comparing Acupuncture With Placebo Acupuncture for the Treatment of Carpal Tunnel Syndrome | 임상시험 | 41 | 중등도 | 10.1016/j.pmrj.2012.01.008 | 침이 증상 개선, 가짜침 대비 유의 우위는 없음, 손목 보호대 병행 고려 |
+| Laser Acupuncture Versus Electroacupuncture for Nonsevere Carpal Tunnel Syndrome: A Randomized Controlled Trial | 임상시험 | 76 | 중등도 | 10.1089/acu.2023.0107 | 레이저침이 전침보다 증상·기능 개선에 효과적·안전 |
+| Effects of electroacupuncture on carpal tunnel syndrome: a clinical, electrophysiological and ultrasonographical pilot study | 임상시험 | 12 | 중등도 | 10.1177/09645284251363989 / 40760926 | 전침이 통증·SSS·FSS 개선, 정중신경 CSA 감소 |
+| Acupuncture-Evoked Response in Somatosensory and Prefrontal Cortices Predicts Immediate Pain Reduction in Carpal Tunnel Syndrome | 임상시험 | - | 중등도 | 10.1155/2013/795906 | 전침이 국소·원위 혈위 모두 통증 감소, 뇌 반응이 진통 예측 |
+| Effect of Acupotomy Combined with Electroacupuncture Therapy on Finger Mobility and Pain Relief in Patients with Carpal Tunnel Syndrome | 임상시험 | 60 | 중등도 | 10.1155/2022/2550875 | 도침+전침 병용이 통증·가동 범위·삶의 질 개선 |
+| Clinical application of ultrasound-guided acupotomy combined with platelet-rich plasma in the treatment of carpal tunnel syndrome | 임상시험 | 72 | 중등도 | 10.3389/fsurg.2025.1629781 | 초음파 유도 도침+PRP가 통증·기능·신경전도 개선, 유효율 높음 |
+| Comparison of ultrasound-guided needle-knife release of the transverse carpal ligament with glucocorticoid injection in the treatment of carpal tunnel syndrome | 임상시험 | 27 | 중등도 | 10.21037/qims-2026-1-0088 / 42433544 | 초음파 유도 침도 절개가 스테로이드 주사보다 우수, 3개월 지속 |
+| Short-term effects of dry needling of thenar muscles in manual laborers with carpal tunnel syndrome: a pilot, randomized controlled study | 임상시험 | 30 | 중등도 | 10.1080/09593985.2022.2033897 / 35109752 | 무지구근 건침이 악력·핀치·BCTQ 단기 개선 |
+| Efficacy of dry needling with the fascial winding technique in reducing the percentage of surgery in carpal tunnel syndrome | 임상시험 | 86 | 중등도 | 10.1016/j.jbmt.2025.01.015 / 40325700 | 근막 와인딩 건침이 수술 필요성 감소·통증·기능 개선 |
+| Comparison of 4 weeks of cupping and Kinesio-taping on clinical and ultrasound outcomes of carpal tunnel syndrome during pregnancy | 임상시험 | 30 | 중등도 | 10.1016/j.jbmt.2023.04.048 / 37330803 | 임신 중 부항이 테이핑보다 정중신경 CSA·기능 개선에 효과적 |
+| TENS and Acupuncture in treatment of Carpal Tunnel Syndrome | 임상시험 | 138 | 중등도 | 10.23880/ipcm-16000210 | TENS·침 병행이 단독 약물보다 통증·임상 징후 개선 |
 | Carpal tunnel syndrome: clinical outcome after low-level laser acupuncture, microamps transcutaneous electrical nerve stimulation, and other alternative therapies | 관찰연구 | 31 | 낮음 | 10.1089/acm.1999.5.5 / 10100028 | 레이저침+TENS 병행이 난치성 CTS 통증 유의 감소 |
 | Suction Decompression of the Carpal Tunnel | 증례 | 1 | 낮음 | 10.7556/jaoa.2019.083 / 31233112 | 부항 흡입 감압이 경증 CTS 증상·신경전도·초음파 개선 |
 | Al-hijamah (wet cupping therapy of prophetic medicine) as a novel alternative to surgery for carpal tunnel syndrome | 증례 | 1 | 낮음 | 10.17712/nsj.2019.2.20180036 / 31056546 | 습식 부항이 중증 CTS 통증·저림 개선, 수술 취소 |

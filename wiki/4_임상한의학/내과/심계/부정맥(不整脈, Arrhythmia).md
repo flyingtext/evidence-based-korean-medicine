@@ -158,47 +158,47 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Effect of combination of Chinese and Western medicines on sinus rhythm maintenance in patients with auricular fibrillation after conversion | 임상시험 | 41 | 중간 | PMID 16983923 | 온심과립 병용이 동리듬 유지율 향상 |
-| Retrospective analysis on 116 cases of bradyarrhythmia treated with TCM based syndrome differentiation | 관찰연구 | 116 | 중간 | PMID 16983924 | 변증시치가 서맥성 부정맥 유효율 91.4% |
-| Therapeutic efficacy of oxymatrine on arrhythmia and heart rate variability in patients with coronary heart disease | 임상시험 | 110 | 중간 | PMID 16688996 | 옥시마트린이 부정맥 빈도·HRV 개선 |
-| Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function | 임상시험 | 221 | 중간 | PMID 16248237 | 신송양심캡슐이 심실조기수축·HRV 개선 |
-| Clinical study on Fufang Sishen Decoction in treating arrhythmia after virus myocarditis | 임상시험 | 102 | 중간 | 10.3736/jcim20040206 · PMID 15339466 | 복방사신탕이 심근염 후 부정맥 개선 |
-| Herbal medicines for viral myocarditis | 체계적 고찰 | 3448 | 중간 | 10.1002/14651858.CD003711.pub2 · PMID 15266498 | 황기·단삼·생맥산이 부정맥 개선 |
+| Effect of combination of Chinese and Western medicines on sinus rhythm maintenance in patients with auricular fibrillation after conversion | 임상시험 | 41 | 중등도 | PMID 16983923 | 온심과립 병용이 동리듬 유지율 향상 |
+| Retrospective analysis on 116 cases of bradyarrhythmia treated with TCM based syndrome differentiation | 관찰연구 | 116 | 중등도 | PMID 16983924 | 변증시치가 서맥성 부정맥 유효율 91.4% |
+| Therapeutic efficacy of oxymatrine on arrhythmia and heart rate variability in patients with coronary heart disease | 임상시험 | 110 | 중등도 | PMID 16688996 | 옥시마트린이 부정맥 빈도·HRV 개선 |
+| Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function | 임상시험 | 221 | 중등도 | PMID 16248237 | 신송양심캡슐이 심실조기수축·HRV 개선 |
+| Clinical study on Fufang Sishen Decoction in treating arrhythmia after virus myocarditis | 임상시험 | 102 | 중등도 | 10.3736/jcim20040206 · PMID 15339466 | 복방사신탕이 심근염 후 부정맥 개선 |
+| Herbal medicines for viral myocarditis | 체계적 고찰 | 3448 | 중등도 | 10.1002/14651858.CD003711.pub2 · PMID 15266498 | 황기·단삼·생맥산이 부정맥 개선 |
 | Amiodarone and acupuncture for cardiac arrhythmia | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000014544 | 아미오다론+침 병용 평가 프로토콜 |
 | Acupuncture Antiarrhythmic Effects on Drug Refractory Persistent Atrial Fibrillation | 임상시험 | 80 | 프로토콜 | 10.1155/2015/613970 | 지속성 심방세동 침 치료 프로토콜 |
 | A systematic review and meta-analysis on Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation | 메타분석 | 2199 | 높음 | 10.1016/j.jep.2026.121928 · PMID 42219066 | 신송양심캡슐이 절제술 후 재발률 감소 |
 | TCM treatment of extrasystole with huanglian shengmai yin—a report of 357 cases | 증례 | 357 | 낮음 | PMID 12747194 | 황련생맥음이 기외수축 개선 |
-| Clinical and experimental study of effect of yangxin fumai oral liquid in treating patients with extrasystole | 임상시험 | 60 | 중간 | PMID 12577393 | 양심복맥구강액이 기외수축 개선 |
-| Clinical study on effect of sini decoction on ischemia/reperfusion injury by Holter monitoring in acute MI | 임상시험 | 22 | 중간 | PMID 12575606 | 사역탕이 재관류 부정맥 감소 |
-| Clinical study on lixin pill in treating congestive heart failure | 임상시험 | 90 | 중간 | PMID 11789243 | 리신환이 LVEF·부정맥 개선 |
-| Clinical observation on 51 patients of acute MI treated with thrombolytic therapy combined with Chinese herbal medicine | 임상시험 | 101 | 중간 | PMID 11783223 | 중약 병용이 부정맥 합병증 감소 |
-| Clinical observation on treatment of 304 patients suffered from acute MI with integrated TCM and Western Medicine | 관찰연구 | 304 | 중간 | PMID 11783222 | 통합 치료가 부정맥 합병증 감소 |
+| Clinical and experimental study of effect of yangxin fumai oral liquid in treating patients with extrasystole | 임상시험 | 60 | 중등도 | PMID 12577393 | 양심복맥구강액이 기외수축 개선 |
+| Clinical study on effect of sini decoction on ischemia/reperfusion injury by Holter monitoring in acute MI | 임상시험 | 22 | 중등도 | PMID 12575606 | 사역탕이 재관류 부정맥 감소 |
+| Clinical study on lixin pill in treating congestive heart failure | 임상시험 | 90 | 중등도 | PMID 11789243 | 리신환이 LVEF·부정맥 개선 |
+| Clinical observation on 51 patients of acute MI treated with thrombolytic therapy combined with Chinese herbal medicine | 임상시험 | 101 | 중등도 | PMID 11783223 | 중약 병용이 부정맥 합병증 감소 |
+| Clinical observation on treatment of 304 patients suffered from acute MI with integrated TCM and Western Medicine | 관찰연구 | 304 | 중등도 | PMID 11783222 | 통합 치료가 부정맥 합병증 감소 |
 | Herbal medicine: beneficial effects, side effects, and promising new research in the treatment of arrhythmias | 문헌고찰 | - | 낮음 | 10.1007/s11886-003-0097-x · PMID 12917055 | 부정맥 한약의 유익·부작용 |
 | Perioperative considerations for the patient taking herbal medicines | 문헌고찰 | - | 낮음 | 10.1097/00132580-200103000-00006 · PMID 11975777 | 수술 전후 한약 부정맥 위험 |
 | Bidirectional tachycardia induced by herbal aconite poisoning | 증례 | 1 | 낮음 | 10.1111/j.1540-8159.1992.tb06849.x · PMID 1382285 | 부자 중독 양방향성 빈맥 |
 | Cardiotoxicity after accidental herb-induced aconite poisoning | 증례 | 17 | 낮음 | 10.1016/0140-6736(92)92951-b · PMID 1359321 | 부자 아코니틴 심장 독성 |
-| Observation on collaborative treatment of dilated cardiomyopathy | 임상시험 | 320 | 중간 | PMID 12577349 | 황기·생맥주사가 심기능 개선 |
+| Observation on collaborative treatment of dilated cardiomyopathy | 임상시험 | 320 | 중등도 | PMID 12577349 | 황기·생맥주사가 심기능 개선 |
 | Acupuncture regulates the heart rate variability | 증례 | 1 | 낮음 | 10.1016/j.jams.2014.10.009 · PMID 25952126 | 내관혈 침이 HRV 조절 |
-| Wet Cupping Therapy Improves the Parameters of Ventricular Repolarization | 임상시험 | 120 | 중간 | 10.1016/j.jams.2020.06.001 · PMID 32553839 | 습식 부항이 심실 재분극 개선 |
-| Transcutaneous electrical acupoint stimulation reduces perioperative arrhythmia risk in laparoscopic cholecystectomy | 임상시험 | 60 | 중간 | 10.13702/j.1000-0607.20250701 · PMID 41839586 | 내관·외관 TEAS가 수술 중 부정맥 감소 |
+| Wet Cupping Therapy Improves the Parameters of Ventricular Repolarization | 임상시험 | 120 | 중등도 | 10.1016/j.jams.2020.06.001 · PMID 32553839 | 습식 부항이 심실 재분극 개선 |
+| Transcutaneous electrical acupoint stimulation reduces perioperative arrhythmia risk in laparoscopic cholecystectomy | 임상시험 | 60 | 중등도 | 10.13702/j.1000-0607.20250701 · PMID 41839586 | 내관·외관 TEAS가 수술 중 부정맥 감소 |
 | Natural Is Not Always Safe: A Case of Torsades De Pointes Induced by Berberine Supplementation | 증례 | 1 | 낮음 | 10.7759/cureus.111276 · PMID 42488242 | 베르베린이 TdP 유발 |
-| Kajian Sistematis Efek Empiris, Farmakologis dan Aplikasi Klinis Formula Herbal Sheng Mai San | 체계적 고찰 | - | 중간 | 10.59841/an-najat.v1i3.151 | 생맥산이 심혈관 질환 보조 치료 |
+| Kajian Sistematis Efek Empiris, Farmakologis dan Aplikasi Klinis Formula Herbal Sheng Mai San | 체계적 고찰 | - | 중등도 | 10.59841/an-najat.v1i3.151 | 생맥산이 심혈관 질환 보조 치료 |
 | Chinese Patent medicine to treat a 32-year-old man with sinus bradycardia and cardiac sinus arrests | 증례 | 1 | 낮음 | 10.1097/md.0000000000015536 | 익기양음·활혈온양이 서맥 개선 |
 | Danhong Injection for Acute Myocardial Infarction: A Systematic Review and Meta-Analysis | 메타분석 | 979 | 높음 | 10.1155/2015/646530 | 단홍주사액이 부정맥·심부전 위험 감소 |
-| Interaction between Chinese medicine and digoxin: Clinical and research update | 체계적 고찰 | - | 중간 | 10.3389/fphar.2023.1040778 · PMID 36825153 | 중약-디곡신 상호작용 주의 |
+| Interaction between Chinese medicine and digoxin: Clinical and research update | 체계적 고찰 | - | 중등도 | 10.3389/fphar.2023.1040778 · PMID 36825153 | 중약-디곡신 상호작용 주의 |
 | Drug Interactions between Traditional Chinese Medicines and Cardiovascular Drugs | 문헌고찰 | - | 낮음 | 10.1007/s13318-024-00905-4 · PMID 39008006 | 중의약-심혈관약 병용 안전성 |
 | Cupping Therapy: From Traditional Therapy to Cardiac Remedy | 문헌고찰 | - | 낮음 | 10.1097/CRD.0000000000000981 · PMID 40586562 | 부항이 심실 부정맥 위험 완화 |
-| Efficacy and safety of Wenxin Granules in treating chronic pulmonary heart disease complicated by arrhythmia | 메타분석 | - | 중간 | 10.19540/j.cnki.cjcmm.20250730.501 · PMID 41814710 | 온심과립이 폐성심 부정맥 개선 |
+| Efficacy and safety of Wenxin Granules in treating chronic pulmonary heart disease complicated by arrhythmia | 메타분석 | - | 중등도 | 10.19540/j.cnki.cjcmm.20250730.501 · PMID 41814710 | 온심과립이 폐성심 부정맥 개선 |
 | Cardioversion of Atrial Fibrillation with Acupuncture | 증례 | 1 | 낮음 | 10.1089/acu.2021.0022 · PMID 34239665 | 이침·내관혈이 심방세동 전환 |
-| Umbrella review of Chinese patent medicines in treatment of hypertension | 체계적 고찰 | - | 중간 | 10.19540/j.cnki.cjcmm.20250226.503 · PMID 40686128 | 부정맥 동반 시 익기회맥·화어제 병용 |
+| Umbrella review of Chinese patent medicines in treatment of hypertension | 체계적 고찰 | - | 중등도 | 10.19540/j.cnki.cjcmm.20250226.503 · PMID 40686128 | 부정맥 동반 시 익기회맥·화어제 병용 |
 | Experience of Traditional Chinese Medicine Master Lei Zhongyi in Treating Heart Diseases | 문헌고찰 | - | 낮음 | 10.53469/jcmp.2025.07(12).07 | 담음·혈어 통합 변증 처방 |
 | Case report: Accidental aconitine poisoning caused by the inappropriate use of a type of Chinese patent medicine | 증례 | 8 | 낮음 | 10.3389/fphar.2024.1426006 | 아코니틴 중독 부정맥 |
-| Investigating the Safety of Electroacupuncture with a Picoscope | 실험연구 | - | 중간 | 10.1136/aim.26.3.133 | 전침 심박조율기 안전 가이드라인 |
+| Investigating the Safety of Electroacupuncture with a Picoscope | 실험연구 | - | 중등도 | 10.1136/aim.26.3.133 | 전침 심박조율기 안전 가이드라인 |
 | Efficacy evaluation of Wenxin Keli in treating anthracycline-induced atrial arrhythmias (WARMA study) | 임상시험 | 152 | 프로토콜 | 10.3389/fcvm.2026.1805789 · PMID 42232310 | 온심과립 항암 유발 부정맥 프로토콜 |
 | Successful Rescue of Malignant Cardiac Dysrhythmia and Cardiogenic Shock Induced by Severe Aconitine Poisoning | 증례 | 1 | 낮음 | 10.1016/j.jemermed.2026.05.032 · PMID 42501675 | 아코니틴 중독 VA-ECMO 가교 치료 |
-| Effectiveness and safety of traditional herbal medicine on cardiac arrhythmic condition | 메타분석 | - | 중간 | 10.1097/MD.0000000000038441 · PMID 38847675 | 전통 한약이 부정맥 유효율 개선 |
-| Acupuncture for cardiac arrhythmias: A systematic review and meta-analysis | 메타분석 | 356 | 중간 | 10.1097/MD.0000000000049187 · PMID 42332512 | 침이 부정맥에 안전한 보조 요법 |
-| The impact of massage and dry cupping on dysrhythmia in cardiac patients | 임상시험 | 90 | 중간 | 10.1016/j.jbmt.2024.01.028 · PMID 38763587 | 건식 부항이 부정맥 유병률 감소 |
+| Effectiveness and safety of traditional herbal medicine on cardiac arrhythmic condition | 메타분석 | - | 중등도 | 10.1097/MD.0000000000038441 · PMID 38847675 | 전통 한약이 부정맥 유효율 개선 |
+| Acupuncture for cardiac arrhythmias: A systematic review and meta-analysis | 메타분석 | 356 | 중등도 | 10.1097/MD.0000000000049187 · PMID 42332512 | 침이 부정맥에 안전한 보조 요법 |
+| The impact of massage and dry cupping on dysrhythmia in cardiac patients | 임상시험 | 90 | 중등도 | 10.1016/j.jbmt.2024.01.028 · PMID 38763587 | 건식 부항이 부정맥 유병률 감소 |
 | Investigation of Sheng Mai Yin in the treatment of anthracycline-induced frequent PVCs in cancer patients | 임상시험 | 212 | 프로토콜 | 10.3389/fcvm.2025.1670053 · PMID 41367381 | 생맥음 항암 유발 PVC 프로토콜 |
 | Torsade de pointes in an older patient with Takotsubo cardiomyopathy caused by licorice-induced pseudoaldosteronism | 증례 | 1 | 낮음 | 10.1002/ccr3.6104 · PMID 35865783 | 감초 가성알도스테론증 TdP |
 | Pharmacological Insights and Clinical Challenges of Wenxin Keli in Arrhythmia Treatment | 문헌고찰 | - | 낮음 | 10.14744/AnatolJCardiol.2026.5694 · PMID 42504903 | 온심과립 이온 통로 조절 약리 |
@@ -206,9 +206,9 @@
 | Berberine on the Prevention and Management of Cardiometabolic Disease | 문헌고찰 | - | 낮음 | 10.1142/S0192415X21500762 · PMID 34488551 | 베르베린이 심혈관 대사 질환 개선 |
 | Hawthorn (Crataegus Species): Phytochemical Insights and Cardiotonic Mechanisms | 문헌고찰 | - | 낮음 | 10.2174/0113894501484438260708073917 · PMID 42473213 | 산사가 항부정맥·심혈관 보조 |
 | Phytochemical and Pharmacological Activity Profile of Crataegus oxyacantha L. (Hawthorn) | 문헌고찰 | - | 낮음 | 10.2174/0929867323666160919095519 | 산사가 심장강장 효과 |
-| Adverse drug reactions associated with glycyrrhiza-containing Chinese patent medicines | 체계적 고찰 | 135 | 중간 | 10.1177/20420986261446460 · PMID 42147407 | 감초 함유 제제 이상반응 모니터링 |
-| Harder, better, faster, stronger? Adverse events of interactions between adaptogens and antidepressant drugs | 관찰연구 | 1816 | 중간 | 10.3389/fphar.2023.1271776 · PMID 37829299 | 어댑토젠-항우울제 부정맥 부작용 |
-| Xin-yi-san contains potent human CYP1A2 inhibitors and its combined use with theophylline | 관찰연구 | 201093 | 중간 | 10.1016/j.phymed.2024.155760 · PMID 38797029 | 신이산-테오필린 빈맥 상호작용 |
+| Adverse drug reactions associated with glycyrrhiza-containing Chinese patent medicines | 체계적 고찰 | 135 | 중등도 | 10.1177/20420986261446460 · PMID 42147407 | 감초 함유 제제 이상반응 모니터링 |
+| Harder, better, faster, stronger? Adverse events of interactions between adaptogens and antidepressant drugs | 관찰연구 | 1816 | 중등도 | 10.3389/fphar.2023.1271776 · PMID 37829299 | 어댑토젠-항우울제 부정맥 부작용 |
+| Xin-yi-san contains potent human CYP1A2 inhibitors and its combined use with theophylline | 관찰연구 | 201093 | 중등도 | 10.1016/j.phymed.2024.155760 · PMID 38797029 | 신이산-테오필린 빈맥 상호작용 |
 
 ## 임상 적용
 

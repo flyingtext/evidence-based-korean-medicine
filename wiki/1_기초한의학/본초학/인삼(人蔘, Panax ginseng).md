@@ -32,32 +32,32 @@
 |---|---|---|---|---|---|
 | Immuno-enhancement effects of Korean Red Ginseng in healthy adults: a randomized, double-blind, placebo-controlled trial | 임상시험 | 100 | 높음 | 10.1016/j.jgr.2020.08.003 | 홍삼 8주·하루 2g 투여로 T세포·B세포·백혈구 유의 증가, 건강 성인 면역 강화 |
 | Perspectives on the Use of Ninjin'yoeito in Modern Medicine: A Review of Randomized Controlled Trials | 체계적 고찰 | - | 높음 | 10.1155/2019/9590260 | 인삼양영탕이 기혈양허 상태 개선, 항암 부작용 완화에 유효 |
-| Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials | 체계적 고찰 | - | 중간 | 10.5142/jgr.2013.37.30 | 인삼·고려홍삼이 성적 흥분·전반적 건강·우울감 개선 가능, 연구 질 낮음 |
-| Ginseng for Improving Semen Quality Parameters: A Systematic Review | 체계적 고찰 | - | 중간 | 10.5534/wjmh.190125 | 인삼의 정액 질 개선 근거 제한적, 고품질 RCT 필요 |
-| Efficacy of Phytotherapy for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Trials | 메타분석 | - | 중간 | 10.3390/diseases14020039 | 식물성 치료제가 암 관련 피로 완화에 잠재 효과, 근거 확실성 낮음 |
-| Effects of plant extracts on patients with heart failure: a network meta-analysis of randomized controlled trials | 메타분석 | 2077 | 중간 | 10.3389/fphar.2025.1648811 | 홍삼 추출물이 좌심실 박출률(LVEF) 개선에 유용할 수 있음 |
-| The Effect of Insamyangyeongtang on Anemia: A Systematic Review | 체계적 고찰 | - | 중간 | 10.13048/jkm.25027 | 인삼양경탕 병용 시 빈혈 환자 헤모글로빈 유의 증가, 연구 이질성 높음 |
-| The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial | 임상시험 | 65 | 중간 | 10.1007/s00520-026-10398-3 | 위장관암 생존자 인삼 250mg/일, 암 관련 피로 유의 감소·내약성 우수 |
-| Adjuvant effects of fermented red ginseng extract on advanced non-small cell lung cancer patients treated with chemotherapy | 임상시험 | 60 | 중간 | 10.1007/s11655-015-2146-x | 발효홍삼이 화학요법 중 피로·심리 상태·삶의 질 개선, 독성 감소 |
-| Efficacy and safety of Korean red ginseng as adjunctive therapy in type 2 diabetes mellitus: a 12-week randomized, double-blind, placebo-controlled trial | 임상시험 | 70 | 중간 | 10.1016/j.jgr.2026.101068 | 제2형 당뇨에서 식후 인슐린 민감도·지질·산화 스트레스 개선, 안전성 확인 |
-| Korean red ginseng improves blood pressure stability in patients with intradialytic hypotension | 임상시험 | 38 | 중간 | 10.1155/2012/595271 | 투석 중 급격한 혈압 저하·증상성 저혈압 빈도 유의 감소 |
-| Effects of red ginseng upon vascular endothelial function in patients with essential hypertension | 임상시험 | 27 | 중간 | 10.1142/S0192415X00000258 | 고혈압 환자 혈관 내피세포 기능 개선, 혈관 확장 능력 회복 |
-| Effect of Korean Red Ginseng on Cholesterol Metabolites in Postmenopausal Women with Hypercholesterolemia: A Pilot Randomized Controlled Trial | 임상시험 | 68 | 중간 | 10.3390/nu12113423 | 고콜레스테롤혈증 폐경 후 여성에서 콜레스테롤·염증 지표 유의 감소 |
-| A double-blind crossover study evaluating the efficacy of korean red ginseng in patients with erectile dysfunction: a preliminary report | 임상시험 | 45 | 중간 | 10.1016/S0022-5347(05)64298-X | 발기부전 성기능 지수·음경 강직도 유의 개선 |
-| Study of the efficacy of Korean Red Ginseng in the treatment of erectile dysfunction | 임상시험 | 60 | 중간 | 10.1111/j.1745-7262.2007.00210.x | 경증·중등도 발기부전에서 발기 강직도·삽입 유지 능력 개선 |
-| Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis: A Double-Blind, Randomized Controlled Trial | 임상시험 | 52 | 중간 | 10.3389/fphar.2021.745568 | 홍삼이 손 퇴행성 관절염 통증·기능(DASH) 개선, 호르몬 영향 없음 |
-| The effects of G1899 Korean red ginseng extract powder on long COVID for acute COVID19 infection: A randomized, double-blind, placebo-controlled trial | 임상시험 | 216 | 중간 | 10.1016/j.jgr.2025.04.007 | 홍삼이 Long COVID 만성 피로 완화, CD4/CD8 유지·Treg 고갈 방지 |
-| Anti-fatigue effects of Korean Red Ginseng extract in healthy Japanese adults: A randomized, double-blind, placebo-controlled study | 임상시험 | 46 | 중간 | 10.1016/j.jgr.2024.12.003 | 홍삼 3주 투여로 건강 성인 주관적 피로도(VAS) 유의 감소 |
-| Effect of Korean red ginseng on psychological functions in patients with severe climacteric syndromes | 임상시험 | 20 | 중간 | 10.1016/s0020-7292(99)00168-x | 홍삼이 갱년기 여성 피로·불면·우울 개선, 코르티솔/DHEA-S 비율 감소 |
-| Ninjin'yoeito improves respiratory symptoms after lung cancer surgery: a prospective randomized study | 임상시험 | 140 | 중간 | 10.1007/s00595-024-02977-w | 인삼양영탕이 폐암 수술 후 호흡곤란·폐활량 감소 완화, 영양 상태 개선 |
-| A placebo-controlled trial of a proprietary extract of North American ginseng (CVT-E002) to prevent acute respiratory illness in institutionalized older adults | 임상시험 | 198 | 중간 | 10.1111/j.1532-5415.2004.52004.x | 미국인삼 추출물이 요양 고령층 급성 호흡기 질환 위험 유의 감소 |
+| Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials | 체계적 고찰 | - | 중등도 | 10.5142/jgr.2013.37.30 | 인삼·고려홍삼이 성적 흥분·전반적 건강·우울감 개선 가능, 연구 질 낮음 |
+| Ginseng for Improving Semen Quality Parameters: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.5534/wjmh.190125 | 인삼의 정액 질 개선 근거 제한적, 고품질 RCT 필요 |
+| Efficacy of Phytotherapy for Cancer-Related Fatigue: A Systematic Review and Meta-Analysis of Randomized Controlled Trials | 메타분석 | - | 중등도 | 10.3390/diseases14020039 | 식물성 치료제가 암 관련 피로 완화에 잠재 효과, 근거 확실성 낮음 |
+| Effects of plant extracts on patients with heart failure: a network meta-analysis of randomized controlled trials | 메타분석 | 2077 | 중등도 | 10.3389/fphar.2025.1648811 | 홍삼 추출물이 좌심실 박출률(LVEF) 개선에 유용할 수 있음 |
+| The Effect of Insamyangyeongtang on Anemia: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.13048/jkm.25027 | 인삼양경탕 병용 시 빈혈 환자 헤모글로빈 유의 증가, 연구 이질성 높음 |
+| The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial | 임상시험 | 65 | 중등도 | 10.1007/s00520-026-10398-3 | 위장관암 생존자 인삼 250mg/일, 암 관련 피로 유의 감소·내약성 우수 |
+| Adjuvant effects of fermented red ginseng extract on advanced non-small cell lung cancer patients treated with chemotherapy | 임상시험 | 60 | 중등도 | 10.1007/s11655-015-2146-x | 발효홍삼이 화학요법 중 피로·심리 상태·삶의 질 개선, 독성 감소 |
+| Efficacy and safety of Korean red ginseng as adjunctive therapy in type 2 diabetes mellitus: a 12-week randomized, double-blind, placebo-controlled trial | 임상시험 | 70 | 중등도 | 10.1016/j.jgr.2026.101068 | 제2형 당뇨에서 식후 인슐린 민감도·지질·산화 스트레스 개선, 안전성 확인 |
+| Korean red ginseng improves blood pressure stability in patients with intradialytic hypotension | 임상시험 | 38 | 중등도 | 10.1155/2012/595271 | 투석 중 급격한 혈압 저하·증상성 저혈압 빈도 유의 감소 |
+| Effects of red ginseng upon vascular endothelial function in patients with essential hypertension | 임상시험 | 27 | 중등도 | 10.1142/S0192415X00000258 | 고혈압 환자 혈관 내피세포 기능 개선, 혈관 확장 능력 회복 |
+| Effect of Korean Red Ginseng on Cholesterol Metabolites in Postmenopausal Women with Hypercholesterolemia: A Pilot Randomized Controlled Trial | 임상시험 | 68 | 중등도 | 10.3390/nu12113423 | 고콜레스테롤혈증 폐경 후 여성에서 콜레스테롤·염증 지표 유의 감소 |
+| A double-blind crossover study evaluating the efficacy of korean red ginseng in patients with erectile dysfunction: a preliminary report | 임상시험 | 45 | 중등도 | 10.1016/S0022-5347(05)64298-X | 발기부전 성기능 지수·음경 강직도 유의 개선 |
+| Study of the efficacy of Korean Red Ginseng in the treatment of erectile dysfunction | 임상시험 | 60 | 중등도 | 10.1111/j.1745-7262.2007.00210.x | 경증·중등도 발기부전에서 발기 강직도·삽입 유지 능력 개선 |
+| Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis: A Double-Blind, Randomized Controlled Trial | 임상시험 | 52 | 중등도 | 10.3389/fphar.2021.745568 | 홍삼이 손 퇴행성 관절염 통증·기능(DASH) 개선, 호르몬 영향 없음 |
+| The effects of G1899 Korean red ginseng extract powder on long COVID for acute COVID19 infection: A randomized, double-blind, placebo-controlled trial | 임상시험 | 216 | 중등도 | 10.1016/j.jgr.2025.04.007 | 홍삼이 Long COVID 만성 피로 완화, CD4/CD8 유지·Treg 고갈 방지 |
+| Anti-fatigue effects of Korean Red Ginseng extract in healthy Japanese adults: A randomized, double-blind, placebo-controlled study | 임상시험 | 46 | 중등도 | 10.1016/j.jgr.2024.12.003 | 홍삼 3주 투여로 건강 성인 주관적 피로도(VAS) 유의 감소 |
+| Effect of Korean red ginseng on psychological functions in patients with severe climacteric syndromes | 임상시험 | 20 | 중등도 | 10.1016/s0020-7292(99)00168-x | 홍삼이 갱년기 여성 피로·불면·우울 개선, 코르티솔/DHEA-S 비율 감소 |
+| Ninjin'yoeito improves respiratory symptoms after lung cancer surgery: a prospective randomized study | 임상시험 | 140 | 중등도 | 10.1007/s00595-024-02977-w | 인삼양영탕이 폐암 수술 후 호흡곤란·폐활량 감소 완화, 영양 상태 개선 |
+| A placebo-controlled trial of a proprietary extract of North American ginseng (CVT-E002) to prevent acute respiratory illness in institutionalized older adults | 임상시험 | 198 | 중등도 | 10.1111/j.1532-5415.2004.52004.x | 미국인삼 추출물이 요양 고령층 급성 호흡기 질환 위험 유의 감소 |
 | Effects of Korean Red Ginseng on the motor performance and ataxia | 임상시험 | 9 | 낮음 | 10.1016/j.jgr.2024.03.008 | 소뇌 위축 환자 운동실조·인지 개선 가능, 소규모 예비 연구 |
-| Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery: A Double-Blind, Randomized Controlled Trial | 임상시험 | 55 | 중간 | 10.1089/acm.2019.0429 | 부인암 수술 후 성적 불만 개선 가능, 전반적 폐경 증상은 위약 대비 무차 |
-| Epidemiological study on cancer prevention by ginseng: are all kinds of cancers preventable by ginseng? | 관찰연구 | 4979 | 중간 | 10.3346/jkms.2001.16.S.S19 | 인삼 섭취 빈도·기간·홍삼 형태일수록 다양한 암 발생 위험 유의 감소 |
-| Safety and Effectiveness of Ninjin'yoeito: A Utilization Study in Elderly Patients | 관찰연구 | 808 | 중간 | 10.3389/fnut.2019.00014 | 고령 환자 피로·권태·식욕부진 개선, 노쇠 지표 개선 |
-| Relationship between the severity of pre-frailty and the degree of adaptation of Ninjin'yoeito (NYT) on pre-frailty | 관찰연구 | 314 | 중간 | 10.3389/fragi.2024.1304217 | 인삼양영탕이 전노쇠 단계 조기 예방 중재로 활용 가능 |
-| Effects of Korean Red Ginseng combination therapy on HIV-infected patients treated with integrase strand transfer inhibitors | 관찰연구 | 58 | 중간 | 10.1016/j.jgr.2024.09.003 | 홍삼 병용이 HIV 항레트로바이러스 요법 약제 내성 발생률 유의 감소 |
-| Efficacy of Ninjin'yoeito in Adjuvant Chemotherapy for Colorectal Cancer: A Retrospective Clinical Study with Propensity Score Matching Analysis | 관찰연구 | 58 | 중간 | 10.23922/jarc.2025-075 | 인삼양영탕이 대장암 보조항암 부작용(식욕부진·피로·CIPN) 감소, RDI 증가 |
+| Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery: A Double-Blind, Randomized Controlled Trial | 임상시험 | 55 | 중등도 | 10.1089/acm.2019.0429 | 부인암 수술 후 성적 불만 개선 가능, 전반적 폐경 증상은 위약 대비 무차 |
+| Epidemiological study on cancer prevention by ginseng: are all kinds of cancers preventable by ginseng? | 관찰연구 | 4979 | 중등도 | 10.3346/jkms.2001.16.S.S19 | 인삼 섭취 빈도·기간·홍삼 형태일수록 다양한 암 발생 위험 유의 감소 |
+| Safety and Effectiveness of Ninjin'yoeito: A Utilization Study in Elderly Patients | 관찰연구 | 808 | 중등도 | 10.3389/fnut.2019.00014 | 고령 환자 피로·권태·식욕부진 개선, 노쇠 지표 개선 |
+| Relationship between the severity of pre-frailty and the degree of adaptation of Ninjin'yoeito (NYT) on pre-frailty | 관찰연구 | 314 | 중등도 | 10.3389/fragi.2024.1304217 | 인삼양영탕이 전노쇠 단계 조기 예방 중재로 활용 가능 |
+| Effects of Korean Red Ginseng combination therapy on HIV-infected patients treated with integrase strand transfer inhibitors | 관찰연구 | 58 | 중등도 | 10.1016/j.jgr.2024.09.003 | 홍삼 병용이 HIV 항레트로바이러스 요법 약제 내성 발생률 유의 감소 |
+| Efficacy of Ninjin'yoeito in Adjuvant Chemotherapy for Colorectal Cancer: A Retrospective Clinical Study with Propensity Score Matching Analysis | 관찰연구 | 58 | 중등도 | 10.23922/jarc.2025-075 | 인삼양영탕이 대장암 보조항암 부작용(식욕부진·피로·CIPN) 감소, RDI 증가 |
 | A Case Report of Diabetes Diagnosis and Integrative Treatment in a Patient with Dysgeusia and Fatigue | 증례 | 1 | 낮음 | 10.22246/jikm.2024.45.6.1352 | 고혈당 환자에 백호인삼탕 가감방·침뜸 병행으로 신속 개선 |
 | Ninjin'yoeito for symptoms of frailty: Successful treatment of three cases | 증례 | 3 | 낮음 | 10.1002/tkm2.1206 | 고령·중증 질환 노쇠 증상에 인삼양영탕이 효과적 대안 |
 | A case report of supplement-induced psychosis | 증례 | 1 | 낮음 | 10.1177/0091217417696733 | 인삼 등 건강기능식품 무분별 복합 복용 시 정신병적 삽화 유발 가능성, 모니터링 필요 |

@@ -109,25 +109,25 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | Acupoint herbal patching for bronchitis: A systematic review and meta-analysis | 메타분석 | - | 높음 | 10.1097/md.0000000000029843 | 경혈 약물 첩부법이 단독·병용 시 효과 유의 상승, 안전 |
-| Acupoint herbal patching for bronchitis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000016368 | AHP 유효성·안전성 평가 프로토콜 |
+| Acupoint herbal patching for bronchitis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000016368 | AHP 유효성·안전성 평가 프로토콜 |
 | Shiwei Longdanhua Granules/Capsules for treatment of bronchitis: systematic review and Meta | 메타분석 | 2,068 | 높음 | 10.19540/j.cnki.cjcmm.20251103.501 | 시위용단화가 총 유효율·증상 개선 시간 개선 |
-| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중간 | 10.1002/14651858.CD004560.pub2 | 중약이 증상 기간 단축 가능, 독성 데이터 부족 |
-| Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea | 임상시험 | 1,158 | 중간 | PMID 11977523 | 풍한형 급성 기관지염 고약이 완치율 유의 상승 |
-| Clinical study on treatment of chronic bronchitis by tracheitis plaster | 임상시험 | 84 | 중간 | PMID 12575372 | 기관지염 고약이 증상·X-선·IgG·CD8 개선, 1년 우수 |
-| Pasting acupoints with Chinese herbs applying in infant acute bronchitis | 임상시험 | 72 | 중간 | PMID 1288921 | 영아 중약 부착 침법이 완치율·IgA 개선 |
-| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험 | 162 | 중간 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률·소실 시간 개선 |
-| Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis | 임상시험 | 120 | 중간 | PMID 12572381 | 커수닝과립이 담열증 급성 악화 효과·발현 빠름 |
-| Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule | 임상시험 | 62 | 중간 | PMID 14719287 | 보폐과립이 기허·면역(SOD·CD3)·재발률 개선 |
-| Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis | 임상시험 | 84 | 중간 | PMID 15015439 | 가미옥평풍산 병용이 T-림프구 아형 개선 |
-| Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis | 임상시험 | 77 | 중간 | PMID 17186726 | 평천고 약침 부항이 CD4+·IFN-γ·IgA 개선 |
+| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중등도 | 10.1002/14651858.CD004560.pub2 | 중약이 증상 기간 단축 가능, 독성 데이터 부족 |
+| Treatment of cough and dyspnea due to acute bronchitis by plaster for cough and dyspnea | 임상시험 | 1,158 | 중등도 | PMID 11977523 | 풍한형 급성 기관지염 고약이 완치율 유의 상승 |
+| Clinical study on treatment of chronic bronchitis by tracheitis plaster | 임상시험 | 84 | 중등도 | PMID 12575372 | 기관지염 고약이 증상·X-선·IgG·CD8 개선, 1년 우수 |
+| Pasting acupoints with Chinese herbs applying in infant acute bronchitis | 임상시험 | 72 | 중등도 | PMID 1288921 | 영아 중약 부착 침법이 완치율·IgA 개선 |
+| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험 | 162 | 중등도 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률·소실 시간 개선 |
+| Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis | 임상시험 | 120 | 중등도 | PMID 12572381 | 커수닝과립이 담열증 급성 악화 효과·발현 빠름 |
+| Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei granule | 임상시험 | 62 | 중등도 | PMID 14719287 | 보폐과립이 기허·면역(SOD·CD3)·재발률 개선 |
+| Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis | 임상시험 | 84 | 중등도 | PMID 15015439 | 가미옥평풍산 병용이 T-림프구 아형 개선 |
+| Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis | 임상시험 | 77 | 중등도 | PMID 17186726 | 평천고 약침 부항이 CD4+·IFN-γ·IgA 개선 |
 | Efficacy and safety of Tanreqing oral liquid in treatment of acute bronchitis: study protocol | 임상시험(프로토콜) | 270 | 낮음 | 10.1186/s13063-022-06318-5 | 탄열청이 담열옹폐 급성 기관지염 검증 예정 |
 | Effect of acupuncture on chronic bronchitis | 체계적 고찰(프로토콜) | - | 낮음 | 10.1097/md.0000000000020676 | 만성 기관지염 침 치료 유효성 평가 예정 |
 | Effect of Acupuncture and Moxibustion at BL 13 and LU 9 on Pulmonary Function | 임상시험(프로토콜) | 60 | 낮음 | 10.1177/19336586251378193 | 폐수·태연 침구 폐 기능·삶의 질 검증 예정 |
-| Investigation and confirmatory factor analysis ... four diagnostic methods in bronchial asthma | 관찰연구 | 430 | 중간 | 10.3736/jcim20050508 | 천식 환자 사진 정보 5가지 변증 유형 분류 |
-| Typing of bronchiectasis according to syndrome differentiation | 관찰연구 | 563 | 중간 | PMID 15339407 | 기관지확장증 변증 빈도 분석(폐담열적·간화범폐 등) |
+| Investigation and confirmatory factor analysis ... four diagnostic methods in bronchial asthma | 관찰연구 | 430 | 중등도 | 10.3736/jcim20050508 | 천식 환자 사진 정보 5가지 변증 유형 분류 |
+| Typing of bronchiectasis according to syndrome differentiation | 관찰연구 | 563 | 중등도 | PMID 15339407 | 기관지확장증 변증 빈도 분석(폐담열적·간화범폐 등) |
 | Korean Medical Treatment for Bacterial Acute Bronchitis Unresponsive to Standard Therapy | 증례 | 1 | 낮음 | 10.22246/jikm.2025.46.2.241 | 한약·전침·뜸 병행이 기침·CRP/ESR 개선 |
-| An Observational Study of 28 Cases of Herbal Treatment for COVID-19 Sequelae | 관찰연구 | 28 | 중간 | 10.22246/jikm.2026.47.1.42 | 익기보폐탕 등이 코로나 후유증 기침·호흡곤란 개선 |
-| Immune function (serum IL-4 and IL-5), nutritional status ... in children with asthma | 임상시험 | 60 | 중간 | 10.5937/jomb0-56915 | 마사지+비타민 D 병행이 IL-4·IL-5·영양 개선 |
+| An Observational Study of 28 Cases of Herbal Treatment for COVID-19 Sequelae | 관찰연구 | 28 | 중등도 | 10.22246/jikm.2026.47.1.42 | 익기보폐탕 등이 코로나 후유증 기침·호흡곤란 개선 |
+| Immune function (serum IL-4 and IL-5), nutritional status ... in children with asthma | 임상시험 | 60 | 중등도 | 10.5937/jomb0-56915 | 마사지+비타민 D 병행이 IL-4·IL-5·영양 개선 |
 
 ## 경혈/처방 연관
 

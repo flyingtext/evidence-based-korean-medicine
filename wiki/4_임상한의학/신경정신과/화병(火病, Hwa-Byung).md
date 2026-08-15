@@ -137,25 +137,25 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | The conceptual structure of hwa-byung in middle-aged Korean women | 관찰연구 | 6 | 낮음 | 10.1080/0739933029008955 / 12148916 | 화병은 개인 성향·삶의 역경·심리 경험(한, 억울함, 인내)이 복합 작용, 사회문화적 맥락 통합 접근 필요 |
-| Heritability of Hwabyung Symptoms in South Korean Adolescent and Young Adult Twins | 관찰연구 | 1601 | 중간 | 10.1017/thg.2018.40 / 29929564 | 화병 증상 44% 유전, 56% 개별 환경 영향, 가족력·환경 스트레스 함께 고려 |
-| How Suppressed Anger Can Become an Illness: Qualitative SR | 체계적 고찰 | - | 중간 | 10.3389/fpsyt.2021.637029 / 34122172 | 화병 환자는 분노 유발·비난·통제 불능 증상·일시적 대처의 4대 경험 |
-| The Effects of Sa-am Acupuncture Simpo-jeongkyeok Treatment on BP, Pulse, Body Temp | 임상시험 | 50 | 중간 | 10.3831/KPI.2015.18.013 / 26120486 | 사암침 심포정격이 화병 환자 수축기 혈압을 즉각 감소, 장기 유지 안 됨 |
-| Effectiveness of mind-body medicine for Hwa-Byung: SR | 체계적 고찰 | - | 중간 | 10.1016/j.ctim.2024.103016 / 38185401 | 심신의학 중재(미술 포함)가 HB-S·우울·불안 개선 |
+| Heritability of Hwabyung Symptoms in South Korean Adolescent and Young Adult Twins | 관찰연구 | 1601 | 중등도 | 10.1017/thg.2018.40 / 29929564 | 화병 증상 44% 유전, 56% 개별 환경 영향, 가족력·환경 스트레스 함께 고려 |
+| How Suppressed Anger Can Become an Illness: Qualitative SR | 체계적 고찰 | - | 중등도 | 10.3389/fpsyt.2021.637029 / 34122172 | 화병 환자는 분노 유발·비난·통제 불능 증상·일시적 대처의 4대 경험 |
+| The Effects of Sa-am Acupuncture Simpo-jeongkyeok Treatment on BP, Pulse, Body Temp | 임상시험 | 50 | 중등도 | 10.3831/KPI.2015.18.013 / 26120486 | 사암침 심포정격이 화병 환자 수축기 혈압을 즉각 감소, 장기 유지 안 됨 |
+| Effectiveness of mind-body medicine for Hwa-Byung: SR | 체계적 고찰 | - | 중등도 | 10.1016/j.ctim.2024.103016 / 38185401 | 심신의학 중재(미술 포함)가 HB-S·우울·불안 개선 |
 | Smartphone Application for Hwa-Byung Treatment: protocol | 임상시험 | 30 | 프로토콜 | 10.3831/KPI.2026.29.1.118 / 41953559 | '화프리' 앱의 UX·임상 유용성 평가 프로토콜 |
-| Effectiveness of psychotherapy for Hwa-Byung: SR | 체계적 고찰 | - | 중간 | 10.1097/MD.0000000000041315 / 39928831 | ACT·미술·EFT가 화병 증상·분노·불안 개선, 그룹 형태 유용 |
-| Assessing Hwa-byung Vulnerability Using Hwa-byung Personality Scale | 관찰연구 | 500 | 중간 | 10.3831/KPI.2024.27.4.358 / 39741572 | 머신러닝(앙상블)이 화병 고위험군 선별(정확도 0.80) |
-| Racial Discrimination and Hwa-byung among Foreign Residents | 관찰연구 | 601 | 중간 | 10.3831/KPI.2026.29.2.212 / 42368508 | 인종 차별 경험이 화병 발생 위험 약 10.58배 높임 |
-| Digital therapeutics in Hwa-byung treatment: practitioner survey | 관찰연구 | 864 | 중간 | 10.3389/fmed.2024.1512337 / 39882515 | 한의사는 침·한약 위주, 심신요법 활용 저조, DTx 수요 높음 |
-| Effectiveness of Mindfulness and Qigong Training (MQT-SH): RCT | 임상시험 | 64 | 중간 | 10.3389/fpsyt.2025.1508937 / 40585550 | MQT-SH가 화병·우울·불안·분노 감소, 6주 유지 |
-| Biopsychological pattern underlying psychosomatic symptoms of Hwabyung | 관찰연구 | 118 | 중간 | 10.1186/s13030-025-00340-0 / 41163073 | 중증 화병은 높은 행동활성화·낮은 인지유연성·정서반응성 |
+| Effectiveness of psychotherapy for Hwa-Byung: SR | 체계적 고찰 | - | 중등도 | 10.1097/MD.0000000000041315 / 39928831 | ACT·미술·EFT가 화병 증상·분노·불안 개선, 그룹 형태 유용 |
+| Assessing Hwa-byung Vulnerability Using Hwa-byung Personality Scale | 관찰연구 | 500 | 중등도 | 10.3831/KPI.2024.27.4.358 / 39741572 | 머신러닝(앙상블)이 화병 고위험군 선별(정확도 0.80) |
+| Racial Discrimination and Hwa-byung among Foreign Residents | 관찰연구 | 601 | 중등도 | 10.3831/KPI.2026.29.2.212 / 42368508 | 인종 차별 경험이 화병 발생 위험 약 10.58배 높임 |
+| Digital therapeutics in Hwa-byung treatment: practitioner survey | 관찰연구 | 864 | 중등도 | 10.3389/fmed.2024.1512337 / 39882515 | 한의사는 침·한약 위주, 심신요법 활용 저조, DTx 수요 높음 |
+| Effectiveness of Mindfulness and Qigong Training (MQT-SH): RCT | 임상시험 | 64 | 중등도 | 10.3389/fpsyt.2025.1508937 / 40585550 | MQT-SH가 화병·우울·불안·분노 감소, 6주 유지 |
+| Biopsychological pattern underlying psychosomatic symptoms of Hwabyung | 관찰연구 | 118 | 중등도 | 10.1186/s13030-025-00340-0 / 41163073 | 중증 화병은 높은 행동활성화·낮은 인지유연성·정서반응성 |
 | Mindfulness and Qigong Training for Hwabyung: protocol | 임상시험 | 64 | 프로토콜 | 10.3389/fpsyt.2024.1336656 / 38699452 | MQT-SH 효과 검증 프로토콜 |
-| Mental Health and Medical Error among Nursing Staffs at KM Clinics | 관찰연구 | 83 | 중간 | 10.3831/KPI.2024.27.3.253 / 39350922 | 한의원 간호사 화병 유병률 19.28%, 의료 오류 위험 증가 |
+| Mental Health and Medical Error among Nursing Staffs at KM Clinics | 관찰연구 | 83 | 중등도 | 10.3831/KPI.2024.27.3.253 / 39350922 | 한의원 간호사 화병 유병률 19.28%, 의료 오류 위험 증가 |
 | VR-Based Versus Traditional ETE Therapy for Hwa-Byung: protocol | 임상시험 | 96 | 프로토콜 | 10.3390/healthcare12232407 / 39685029 | VR-ETE의 유효성·몰입도 평가 프로토콜 |
-| Online Mindfulness Program on Healthcare Workers in KM Institutions | 관찰연구 | 23 | 중간 | 10.3390/healthcare12222238 / 39595435 | 온라인 마음챙김이 화병 성격·증상 완화, 의료진 효과 뚜렷 |
-| Hwa-Byung (Anger Syndrome) in the MZ Generation of Korea | 관찰연구 | 449 | 중간 | 10.3390/jcm13226667 / 39597811 | MZ세대 화병 유병률 36.3%, 여성·우울·분노가 예측 요인 |
-| Development of a Short-Form Hwa-Byung Symptom Scale | 실험연구 | 500 | 중간 | 10.3390/diagnostics14212419 / 39518385 | 2문항 단축 척도가 화병 선별(정확도 90%, AUC 0.958) |
-| Hwa-byung as a risk factor for suicidal ideation in MZ generation | 관찰연구 | 457 | 중간 | 10.3389/fpsyg.2024.1461750 / 39717473 | 화병 증상이 자살 생각 위험 요인, 열감·가슴 답답함 상관 높음 |
-| Digital Therapeutic for Hwa-Byung Based on ACT: pilot trial | 임상시험 | 30 | 중간 | 10.3390/healthcare14132027 / 42451037 | ACT 기반 '화프리' 순응도 72.6%, 화병·우울·분노 예비 개선 |
+| Online Mindfulness Program on Healthcare Workers in KM Institutions | 관찰연구 | 23 | 중등도 | 10.3390/healthcare12222238 / 39595435 | 온라인 마음챙김이 화병 성격·증상 완화, 의료진 효과 뚜렷 |
+| Hwa-Byung (Anger Syndrome) in the MZ Generation of Korea | 관찰연구 | 449 | 중등도 | 10.3390/jcm13226667 / 39597811 | MZ세대 화병 유병률 36.3%, 여성·우울·분노가 예측 요인 |
+| Development of a Short-Form Hwa-Byung Symptom Scale | 실험연구 | 500 | 중등도 | 10.3390/diagnostics14212419 / 39518385 | 2문항 단축 척도가 화병 선별(정확도 90%, AUC 0.958) |
+| Hwa-byung as a risk factor for suicidal ideation in MZ generation | 관찰연구 | 457 | 중등도 | 10.3389/fpsyg.2024.1461750 / 39717473 | 화병 증상이 자살 생각 위험 요인, 열감·가슴 답답함 상관 높음 |
+| Digital Therapeutic for Hwa-Byung Based on ACT: pilot trial | 임상시험 | 30 | 중등도 | 10.3390/healthcare14132027 / 42451037 | ACT 기반 '화프리' 순응도 72.6%, 화병·우울·분노 예비 개선 |
 | RCT of modified Ukgan-san in patients with Hwabyung and neurotic symptoms | 임상시험 | 104 | 프로토콜 | 10.3389/fpsyt.2026.1826882 / 42553771 | 가감억간산 유효성·안전성 검증 삼중맹검 RCT 프로토콜 |
 
 ## 임상 적용

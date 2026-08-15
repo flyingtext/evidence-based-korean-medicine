@@ -78,27 +78,27 @@
 | Herbal Medicine for Cervicogenic Dizziness: A Systematic Review and Meta-Analysis | 메타분석 | 1797 | 높음 | 10.21203/rs.3.rs-364098/v1 | 한약 병용이 효과 증진, 반하백출천마탕·정현탕 유효 |
 | Ginkgo biloba extract for dizziness-related symptoms in central neurological disorders | 메타분석 | 2394 | 높음 | 10.3389/fneur.2026.1860538 | 은행엽 추출물이 중추성 어지럼증 개선·안전 |
 | Efficacy and safety of acupuncture in the treatment of Meniere's disease: a systematic review and meta-analysis | 메타분석 | - | 높음 | 10.3389/fmed.2024.1463821 | 침이 메니에르병 증상 개선에 서양약 단독보다 우수 |
-| Pharmacopuncture for Cervicogenic Dizziness | 체계적 고찰 | 2709 | 중간 | 10.3831/KPI.2018.21.027 | 약침이 경성 현훈 개선, 단삼·천마·전칠삼 활용 |
-| Acupotomy therapy for cervical vertigo | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000020662 | 도침의 경성 현훈 유효성·안전성 평가 프로토콜 |
-| Exploring the Evidence Base for Acupuncture in the Treatment of Ménière's Syndrome | 체계적 고찰 | - | 중간 | 10.1093/ecam/nep047 | 침·뜸이 메니에르병 급성기·만성기 유익 |
-| The Effect of Banhabaekchulcheonma-tang on Benign Paroxysmal Positional Vertigo | 체계적 고찰 | - | 중간 | 10.22246/jikm.2021.42.4.572 | 반하백출천마탕이 BPPV 증상·DHI 개선 |
-| AN UPDATE REVIEW: THE USE OF WET CUPPING THERAPY AGAINST VERTIGO | 체계적 고찰 | - | 중간 | 10.21776/ub.jik.2018.006.02.8 | 습식 부항이 어지럼증에 잠재적 효과·안전 |
-| Clinical research progress on acupuncture for the treatment of otogenic vertigo | 문헌고찰 | - | 중간 | 10.12998/wjcc.v12.i19.3676 | 장부·경락 고려한 변증시치, 체침·이침·두피침·전침·뜸 |
-| Effects and central mechanisms of acupuncture for post-stroke vascular vertigo | 임상시험(프로토콜) | 234 | 중간 | 10.3389/fneur.2026.1729679 | 백회·풍지·완골·태충 침이 PSVV 개선 평가 |
-| The efficacy and cerebral hemodynamics mechanisms of acupuncture on the posterior circulation ischemic stroke with vertigo | 임상시험(프로토콜) | 234 | 중간 | 10.3389/fneur.2026.1768559 | 침이 추기저동맥 혈류·전정 뇌 영역 관류 개선 |
-| Efficacy of manual therapy for cervical vertigo: a randomized controlled trial protocol | 임상시험(프로토콜) | 138 | 중간 | 10.1186/s13018-025-06128-w | 전척추 시너지 수기치료의 경성 현훈 효능 검증 |
-| Efficacy and Safety of Shi Cervical Rotational Manipulation in Patients With Atlantoaxial Joint Subluxation | 임상시험(프로토콜) | 96 | 중간 | 10.2196/57865 | 환축관절 아탈구에 Shi 경추 회전 교정법 평가 |
-| Three-needle of regulating the mind combined with umbilical needle intervention for cervical vertigo | 임상시험(프로토콜) | 99 | 중간 | 10.3389/fneur.2025.1476596 | 정심삼침+배꼽침이 기혈부족 경성 현훈 개선 |
-| Effectiveness of emotional freedom techniques in patients with persistent postural-perceptual dizziness | 임상시험(프로토콜) | 30 | 중간 | 10.21037/apm-25-87 | PPPD에 한방+EFT 병행 효과 평가 |
-| [Acupuncture combined with oral western medication for Meniere's disease] | 임상시험 | 96 | 중간 | 10.13703/j.0255-2930.2018.10.005 | 침+양약 병행이 메니에르병 증상 개선 |
-| Observation on clinical effect of Scalp cluster acupuncture treatment of cervical spondylosis of vertebral artery type | 임상시험 | 96 | 중간 | 10.3727/036012921x16112663844897 | 두피 집속침 병행이 어지럼·통증 개선 |
-| The Effectiveness of Dry Needling and Exercise Therapy in Patients with Dizziness Caused By Cervical Myofascial Pain Syndrome | 임상시험 | 61 | 중간 | 10.1093/pm/pny072 | 드라이 니들링+운동이 경추 근막 어지럼 개선 |
-| [Improving effects of balanced reduction manipulation for cervical physiological curvature] | 임상시험 | 160 | 중간 | 10.12200/j.issn.1003-0034.20241124 | 균형 정복 추나가 통증·어지럼·혈류·염증 개선 |
-| [Therapeutic observation on Fu's acupuncture for cervical spondylosis of vertebral artery type] | 임상시험 | 150 | 중간 | 10.13703/j.0255-2930.20201113-0002 | 통탈법 부침이 경성 현훈·추동맥 혈류 개선 |
-| [Clinical efficacy of Fu's subcutaneous needling based on "multi-joint muscle spiral balance chain" theory] | 임상시험 | 60 | 중간 | 10.13703/j.0255-2930.20240628-k0002 | 부침이 경성 현훈·추동맥 혈류 개선, 1개월 유지 |
-| [Effects of needle-knife loosening technique on vertigo and vertebrobasilar arterial blood flow] | 임상시험 | 76 | 중간 | 10.13703/j.0255-2930.20231213-k0005 | 침도 소근해결술이 현훈·평형·혈류 개선, 3개월 유지 |
-| Effects of spinal manipulation combined with cervical kinetic chain training on neck muscle function in cervical vertigo | 임상시험 | 50 | 중간 | 10.3389/fsurg.2026.1855125 | 척추 교정+운동 사슬 훈련이 경성 현훈 개선 |
-| Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined with betahistine Mesylate | 임상시험 | - | 중간 | 10.1016/j.brs.2023.10.003 | taVNS+베타히스틴 병용이 메니에르병 개선 |
+| Pharmacopuncture for Cervicogenic Dizziness | 체계적 고찰 | 2709 | 중등도 | 10.3831/KPI.2018.21.027 | 약침이 경성 현훈 개선, 단삼·천마·전칠삼 활용 |
+| Acupotomy therapy for cervical vertigo | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000020662 | 도침의 경성 현훈 유효성·안전성 평가 프로토콜 |
+| Exploring the Evidence Base for Acupuncture in the Treatment of Ménière's Syndrome | 체계적 고찰 | - | 중등도 | 10.1093/ecam/nep047 | 침·뜸이 메니에르병 급성기·만성기 유익 |
+| The Effect of Banhabaekchulcheonma-tang on Benign Paroxysmal Positional Vertigo | 체계적 고찰 | - | 중등도 | 10.22246/jikm.2021.42.4.572 | 반하백출천마탕이 BPPV 증상·DHI 개선 |
+| AN UPDATE REVIEW: THE USE OF WET CUPPING THERAPY AGAINST VERTIGO | 체계적 고찰 | - | 중등도 | 10.21776/ub.jik.2018.006.02.8 | 습식 부항이 어지럼증에 잠재적 효과·안전 |
+| Clinical research progress on acupuncture for the treatment of otogenic vertigo | 문헌고찰 | - | 중등도 | 10.12998/wjcc.v12.i19.3676 | 장부·경락 고려한 변증시치, 체침·이침·두피침·전침·뜸 |
+| Effects and central mechanisms of acupuncture for post-stroke vascular vertigo | 임상시험(프로토콜) | 234 | 중등도 | 10.3389/fneur.2026.1729679 | 백회·풍지·완골·태충 침이 PSVV 개선 평가 |
+| The efficacy and cerebral hemodynamics mechanisms of acupuncture on the posterior circulation ischemic stroke with vertigo | 임상시험(프로토콜) | 234 | 중등도 | 10.3389/fneur.2026.1768559 | 침이 추기저동맥 혈류·전정 뇌 영역 관류 개선 |
+| Efficacy of manual therapy for cervical vertigo: a randomized controlled trial protocol | 임상시험(프로토콜) | 138 | 중등도 | 10.1186/s13018-025-06128-w | 전척추 시너지 수기치료의 경성 현훈 효능 검증 |
+| Efficacy and Safety of Shi Cervical Rotational Manipulation in Patients With Atlantoaxial Joint Subluxation | 임상시험(프로토콜) | 96 | 중등도 | 10.2196/57865 | 환축관절 아탈구에 Shi 경추 회전 교정법 평가 |
+| Three-needle of regulating the mind combined with umbilical needle intervention for cervical vertigo | 임상시험(프로토콜) | 99 | 중등도 | 10.3389/fneur.2025.1476596 | 정심삼침+배꼽침이 기혈부족 경성 현훈 개선 |
+| Effectiveness of emotional freedom techniques in patients with persistent postural-perceptual dizziness | 임상시험(프로토콜) | 30 | 중등도 | 10.21037/apm-25-87 | PPPD에 한방+EFT 병행 효과 평가 |
+| [Acupuncture combined with oral western medication for Meniere's disease] | 임상시험 | 96 | 중등도 | 10.13703/j.0255-2930.2018.10.005 | 침+양약 병행이 메니에르병 증상 개선 |
+| Observation on clinical effect of Scalp cluster acupuncture treatment of cervical spondylosis of vertebral artery type | 임상시험 | 96 | 중등도 | 10.3727/036012921x16112663844897 | 두피 집속침 병행이 어지럼·통증 개선 |
+| The Effectiveness of Dry Needling and Exercise Therapy in Patients with Dizziness Caused By Cervical Myofascial Pain Syndrome | 임상시험 | 61 | 중등도 | 10.1093/pm/pny072 | 드라이 니들링+운동이 경추 근막 어지럼 개선 |
+| [Improving effects of balanced reduction manipulation for cervical physiological curvature] | 임상시험 | 160 | 중등도 | 10.12200/j.issn.1003-0034.20241124 | 균형 정복 추나가 통증·어지럼·혈류·염증 개선 |
+| [Therapeutic observation on Fu's acupuncture for cervical spondylosis of vertebral artery type] | 임상시험 | 150 | 중등도 | 10.13703/j.0255-2930.20201113-0002 | 통탈법 부침이 경성 현훈·추동맥 혈류 개선 |
+| [Clinical efficacy of Fu's subcutaneous needling based on "multi-joint muscle spiral balance chain" theory] | 임상시험 | 60 | 중등도 | 10.13703/j.0255-2930.20240628-k0002 | 부침이 경성 현훈·추동맥 혈류 개선, 1개월 유지 |
+| [Effects of needle-knife loosening technique on vertigo and vertebrobasilar arterial blood flow] | 임상시험 | 76 | 중등도 | 10.13703/j.0255-2930.20231213-k0005 | 침도 소근해결술이 현훈·평형·혈류 개선, 3개월 유지 |
+| Effects of spinal manipulation combined with cervical kinetic chain training on neck muscle function in cervical vertigo | 임상시험 | 50 | 중등도 | 10.3389/fsurg.2026.1855125 | 척추 교정+운동 사슬 훈련이 경성 현훈 개선 |
+| Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined with betahistine Mesylate | 임상시험 | - | 중등도 | 10.1016/j.brs.2023.10.003 | taVNS+베타히스틴 병용이 메니에르병 개선 |
 | [An transcranial Doppler ultrasonography and X-ray study of cervical vertigo patients treated by manipulation in supine position] | 관찰연구 | 16 | 낮음 | 10.3736/jcim20030409 | 앙와위 추나가 경추 혈류·정렬 개선 |
 | Effects of Kampo medicine hangebyakujutsutemmato on persistent postural-perceptual dizziness | 관찰연구 | 38 | 낮음 | 10.12998/wjcc.v10.i20.6811 | 반하백출천마탕이 PPPD 증상 개선 |
 | Effectiveness of Goreisan in Ménière's Disease | 관찰연구 | 164 | 낮음 | 10.7759/cureus.88643 | 고려산이 현훈 빈도 감소·안전 |
@@ -131,9 +131,9 @@
 | Treating pediatric psychogenic dizziness with a Japanese herbal medicine | 증례 | 4 | 낮음 | 10.1016/j.explore.2012.10.005 | 억간산가진피반하가 소아 심인성 어지럼 개선 |
 | Acute vertigo following cervical manipulation | 증례 | 9 | 낮음 | 10.1097/00005537-200304000-00014 | 경추 교정 후 급성 현훈, 척추동맥 혈류 저하 시 주의 |
 | [GAO Xiyan's clinical experience in treating Ménière's disease with penetrating moxibustion at Baihui] | 증례 | - | 낮음 | 10.13703/j.0255-2930.20250511-k0003 | 백회 투구법이 신양허·담음 메니에르병 개선 |
-| A review of frequently used Kampo prescriptions; Part 6—Goreisan | 문헌고찰 | - | 중간 | 10.1002/tkm2.70008 | 고려산이 수분 대사·두통·어지럼 개선 |
-| [Off-Label-Anwendungen standardisierter Ginkgo-biloba-Extrakte] | 문헌고찰 | - | 중간 | 10.1159/000549638 | 은행엽 추출물이 이명·어지럼 등 오프라벨 유효 |
-| Alternative Treatments of Tinnitus: Alternative Medicine | 문헌고찰 | - | 중간 | 10.1016/j.otc.2020.03.011 | 침·한약이 이명·어지럼 증상 개선 |
+| A review of frequently used Kampo prescriptions; Part 6—Goreisan | 문헌고찰 | - | 중등도 | 10.1002/tkm2.70008 | 고려산이 수분 대사·두통·어지럼 개선 |
+| [Off-Label-Anwendungen standardisierter Ginkgo-biloba-Extrakte] | 문헌고찰 | - | 중등도 | 10.1159/000549638 | 은행엽 추출물이 이명·어지럼 등 오프라벨 유효 |
+| Alternative Treatments of Tinnitus: Alternative Medicine | 문헌고찰 | - | 중등도 | 10.1016/j.otc.2020.03.011 | 침·한약이 이명·어지럼 증상 개선 |
 
 ## 임상 적용
 

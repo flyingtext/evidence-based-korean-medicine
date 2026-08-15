@@ -72,30 +72,30 @@
 | Effectiveness of bee venom acupuncture in alleviating post-stroke shoulder pain | 메타분석 | 86 | 높음 | 10.1016/S2095-4964(15)60178-9 / 26165368 | 봉침이 뇌졸중 후 어깨 통증 완화에 생리식염수 주사보다 유의하게 효과적 |
 | Effect of Acupuncture on Movement Function in Parkinson's Disease: Network Meta-Analysis of RCTs | 메타분석 | 1071 | 높음 | 10.3390/healthcare9111502 / 34828548 | 파킨슨병 운동 기능에 봉침이 약물 병행 시 가장 우수한 효과 |
 | Effectiveness of Pharmacopuncture for Asthma: A Systematic Review and Meta-Analysis | 메타분석 | 341 | 높음 | 10.1155/2011/678176 | 약침이 천식 증상 개선·PEF 향상에 표준 치료보다 유의하게 효과적 가능성 |
-| Pharmacoacupuncture for Idiopathic Parkinson's Disease: A Systematic Review of RCTs | 체계적 고찰 | 134 | 중간 | 10.1155/2018/3671542 / 30046336 | 파킨슨병 약침은 일부 UPDRS 개선 보고, 연구 간 이질성 커 효능 확정 어려움 |
-| Bee venom acupuncture for rheumatoid arthritis: a systematic review of randomised clinical trials | 체계적 고찰 | - | 중간 | 10.1136/bmjopen-2014-006140 / 25380812 | 봉침이 류마티스 관절염 통증·부종·염증 지표 개선 가능성, RCT 근거 부족 |
-| Clinical Studies of Bee Venom Acupuncture for Lower Back Pain in the Korean Literature | 체계적 고찰 | 1297 | 중간 | 10.3390/toxins14080524 / 10.3390/toxins14080524 | 한국 문헌 내 봉침이 요추 추간판 탈출증 요통에 긍정적 효과, 용량 표준화 필요 |
-| Bee Venom Acupuncture for Neck Pain: A Review of the Korean Literature | 체계적 고찰 | 316 | 중간 | 10.3390/toxins15020129 / 10.3390/toxins15020129 | 봉침이 경추 추간판 탈출증 목 통증에 효과적, 농도 0.05–0.5 mg/mL 권장 |
-| Bee Venom Acupuncture for Shoulder Pain: A Literature Review | 체계적 고찰 | - | 중간 | 10.3390/toxins16110501 / 10.3390/toxins16110501 | 봉침이 뇌졸중 후·회전근개 어깨 통증에 긍정적, 소염진통제 대안 가능 |
-| Bee Venom Acupuncture for Ankle Pain: A Review of Clinical Research | 체계적 고찰 | - | 중간 | 10.3390/toxins17050257 / 10.3390/toxins17050257 | 봉침이 외상성·염증성·신경병성 발목 통증에 효과, 부작용 대부분 경증 |
-| Incidence Rate of Bee Venom Acupuncture Related Anaphylaxis: A Systematic Review | 체계적 고찰 | - | 중간 | 10.3390/toxins14040238 / 10.3390/toxins14040238 | 봉침 아나필락시스 발생률 약 0.045%, 여성에서 더 높은 경향 |
-| Nonpharmacological therapies for central poststroke pain: A systematic review | 체계적 고찰 | - | 중간 | 10.1097/MD.0000000000022611 / 33080696 | 중추성 뇌졸중 후 통증에 봉침·전침이 카바마제핀과 유사한 효과 |
-| Interventions for Post-Stroke Shoulder Pain: An Overview of Systematic Reviews | 체계적 고찰 | - | 중간 | 10.2147/IJGM.S200929 / 33324087 | 뇌졸중 후 견관절 통증에 봉침 포함 침치료가 통증 감소에 유의한 효과 |
-| Management of peripheral neuropathy induced by chemotherapy in adults with cancer | 체계적 고찰 | - | 중간 | 10.12968/ijpn.2017.23.1.13 / 28132604 | 항암 유발 말초신경병증에 침·봉약침이 유용한 대안 |
-| Long-term Course of Failed Back Surgery Syndrome Patients Receiving Integrative Korean Medicine Treatment | 관찰연구 | 120 | 중간 | 10.1371/journal.pone.0170972 / 28129399 | 척추수술 실패 증후군에 약침 포함 통합 한의 치료가 통증·기능 개선, 1년 유지 |
-| The Short-Term Effect of Integrated CAM Treatment in Inpatients with Lumbar Disc Herniation | 관찰연구 | 524 | 중간 | 10.1089/acm.2014.0368 / 27213976 | 요추 디스크 환자에 봉침약침 포함 통합 치료가 통증·기능 유의하게 감소 |
-| A Study of the Initial Dose of Sweet Bee Venom for Lower Back Pain | 관찰연구 | 523 | 중간 | 10.13045/jar.2020.00227 / 10.13045/jar.2020.00227 | 정제봉독 약침 초기 용량 0.5mL 이하 권장, 과민반응 위험 낮음 |
-| Incidence Rate of Hypersensitivity Reactions to Bee-Venom Acupuncture | 관찰연구 | 8580 | 중간 | 10.3389/fphar.2020.545555 / 33117156 | 봉침 과민반응 발생률 낮지만 아나필락시스 쇼크 가능, 응급 처치 체계 필수 |
-| The Analgesic Efficacy of Bee Venom Acupuncture for Knee Osteoarthritis | 임상시험 | - | 중간 | 10.1142/s0192415x01000228 / 10.1142/s0192415x01000228 | 무릎 골관절염에 봉침이 일반 침보다 통증 완화 우수 |
-| Clinical review of the effects of hominis placental pharmacopuncture in the treatment of facial spasm | 임상시험 | 32 | 중간 | 10.3831/KPI.2013.16.019 / 25780676 | 자하약침이 안면경련 강도 유의하게 감소, 환자의 72%가 우수한 효과 |
-| Effect of Combined Bee Venom Acupuncture and NSAID Treatment for Non-Specific Chronic Neck Pain | 임상시험 | 60 | 중간 | 10.3390/toxins13070436 / 34201686 | 봉침+NSAIDs 병용이 만성 경추통에 안전하며 효과 지속성 높음 |
-| Effectiveness of bee venom acupuncture for patients suffering from periarthritis humeroscapularis | 임상시험 | 120 | 중간 | 10.19852/j.cnki.jtcm.2023.04.002 / 37454265 | 견관절주위염에 저용량 봉침이 항염증 사이토카인 조절에 가장 효과적 |
-| Efficacy of Bee Venom Acupuncture for Chronic Low Back Pain: A RCT | 임상시험 | 54 | 중간 | 10.3390/toxins9110361 / 29112155 | 봉침+약물 병행이 만성 요통 통증·기능·성가심 유의하게 개선 |
-| Neuroimaging Assessment of Acupuncture and Bee Venom Acupuncture in Idiopathic Parkinson's Disease | 임상시험 | 20 | 중간 | 10.13048/jkm.23050 / 10.13048/jkm.23050 | 침+봉침 병행이 파킨슨병 도파민 가용성·뇌혈류 과활동성 회복 |
-| Efficacy of Combined Treatment with Acupuncture and Bee Venom Acupuncture as an Adjunctive Treatment for Parkinson's Disease | 임상시험 | 73 | 중간 | 10.1089/acm.2016.0250 / 28753030 | 침+봉침 병용이 파킨슨병 운동·비운동 증상 개선에 안전하고 유용 |
-| Effectiveness and Safety of Pharmacopuncture Therapy Compared to Standard Physical Therapy in Chronic Knee Pain | 임상시험 | 40 | 중간 | 10.3390/medicina61061106 / 40572793 | 만성 무릎 통증에 약침이 표준 물리치료보다 통증·기능 개선 우수 |
-| Pharmacopuncture therapy for adhesive capsulitis: A pragmatic randomized controlled pilot study | 임상시험 | 50 | 중간 | 10.1016/j.imr.2024.101065 / 39224580 | 오십견에 약침이 물리치료보다 통증·ROM·삶의 질 개선, 13주 유지 |
-| Ultrasound-Guided vs Non-Guided Pharmacopuncture for Cervical Myofascial Pain Syndrome | 임상시험 | 100 | 중간 | 10.2147/JPR.S509236 / 40130203 | 초음파 유도 약침이 경추 근막통증증후군 시술 정확도를 높임 |
+| Pharmacoacupuncture for Idiopathic Parkinson's Disease: A Systematic Review of RCTs | 체계적 고찰 | 134 | 중등도 | 10.1155/2018/3671542 / 30046336 | 파킨슨병 약침은 일부 UPDRS 개선 보고, 연구 간 이질성 커 효능 확정 어려움 |
+| Bee venom acupuncture for rheumatoid arthritis: a systematic review of randomised clinical trials | 체계적 고찰 | - | 중등도 | 10.1136/bmjopen-2014-006140 / 25380812 | 봉침이 류마티스 관절염 통증·부종·염증 지표 개선 가능성, RCT 근거 부족 |
+| Clinical Studies of Bee Venom Acupuncture for Lower Back Pain in the Korean Literature | 체계적 고찰 | 1297 | 중등도 | 10.3390/toxins14080524 / 10.3390/toxins14080524 | 한국 문헌 내 봉침이 요추 추간판 탈출증 요통에 긍정적 효과, 용량 표준화 필요 |
+| Bee Venom Acupuncture for Neck Pain: A Review of the Korean Literature | 체계적 고찰 | 316 | 중등도 | 10.3390/toxins15020129 / 10.3390/toxins15020129 | 봉침이 경추 추간판 탈출증 목 통증에 효과적, 농도 0.05–0.5 mg/mL 권장 |
+| Bee Venom Acupuncture for Shoulder Pain: A Literature Review | 체계적 고찰 | - | 중등도 | 10.3390/toxins16110501 / 10.3390/toxins16110501 | 봉침이 뇌졸중 후·회전근개 어깨 통증에 긍정적, 소염진통제 대안 가능 |
+| Bee Venom Acupuncture for Ankle Pain: A Review of Clinical Research | 체계적 고찰 | - | 중등도 | 10.3390/toxins17050257 / 10.3390/toxins17050257 | 봉침이 외상성·염증성·신경병성 발목 통증에 효과, 부작용 대부분 경증 |
+| Incidence Rate of Bee Venom Acupuncture Related Anaphylaxis: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.3390/toxins14040238 / 10.3390/toxins14040238 | 봉침 아나필락시스 발생률 약 0.045%, 여성에서 더 높은 경향 |
+| Nonpharmacological therapies for central poststroke pain: A systematic review | 체계적 고찰 | - | 중등도 | 10.1097/MD.0000000000022611 / 33080696 | 중추성 뇌졸중 후 통증에 봉침·전침이 카바마제핀과 유사한 효과 |
+| Interventions for Post-Stroke Shoulder Pain: An Overview of Systematic Reviews | 체계적 고찰 | - | 중등도 | 10.2147/IJGM.S200929 / 33324087 | 뇌졸중 후 견관절 통증에 봉침 포함 침치료가 통증 감소에 유의한 효과 |
+| Management of peripheral neuropathy induced by chemotherapy in adults with cancer | 체계적 고찰 | - | 중등도 | 10.12968/ijpn.2017.23.1.13 / 28132604 | 항암 유발 말초신경병증에 침·봉약침이 유용한 대안 |
+| Long-term Course of Failed Back Surgery Syndrome Patients Receiving Integrative Korean Medicine Treatment | 관찰연구 | 120 | 중등도 | 10.1371/journal.pone.0170972 / 28129399 | 척추수술 실패 증후군에 약침 포함 통합 한의 치료가 통증·기능 개선, 1년 유지 |
+| The Short-Term Effect of Integrated CAM Treatment in Inpatients with Lumbar Disc Herniation | 관찰연구 | 524 | 중등도 | 10.1089/acm.2014.0368 / 27213976 | 요추 디스크 환자에 봉침약침 포함 통합 치료가 통증·기능 유의하게 감소 |
+| A Study of the Initial Dose of Sweet Bee Venom for Lower Back Pain | 관찰연구 | 523 | 중등도 | 10.13045/jar.2020.00227 / 10.13045/jar.2020.00227 | 정제봉독 약침 초기 용량 0.5mL 이하 권장, 과민반응 위험 낮음 |
+| Incidence Rate of Hypersensitivity Reactions to Bee-Venom Acupuncture | 관찰연구 | 8580 | 중등도 | 10.3389/fphar.2020.545555 / 33117156 | 봉침 과민반응 발생률 낮지만 아나필락시스 쇼크 가능, 응급 처치 체계 필수 |
+| The Analgesic Efficacy of Bee Venom Acupuncture for Knee Osteoarthritis | 임상시험 | - | 중등도 | 10.1142/s0192415x01000228 / 10.1142/s0192415x01000228 | 무릎 골관절염에 봉침이 일반 침보다 통증 완화 우수 |
+| Clinical review of the effects of hominis placental pharmacopuncture in the treatment of facial spasm | 임상시험 | 32 | 중등도 | 10.3831/KPI.2013.16.019 / 25780676 | 자하약침이 안면경련 강도 유의하게 감소, 환자의 72%가 우수한 효과 |
+| Effect of Combined Bee Venom Acupuncture and NSAID Treatment for Non-Specific Chronic Neck Pain | 임상시험 | 60 | 중등도 | 10.3390/toxins13070436 / 34201686 | 봉침+NSAIDs 병용이 만성 경추통에 안전하며 효과 지속성 높음 |
+| Effectiveness of bee venom acupuncture for patients suffering from periarthritis humeroscapularis | 임상시험 | 120 | 중등도 | 10.19852/j.cnki.jtcm.2023.04.002 / 37454265 | 견관절주위염에 저용량 봉침이 항염증 사이토카인 조절에 가장 효과적 |
+| Efficacy of Bee Venom Acupuncture for Chronic Low Back Pain: A RCT | 임상시험 | 54 | 중등도 | 10.3390/toxins9110361 / 29112155 | 봉침+약물 병행이 만성 요통 통증·기능·성가심 유의하게 개선 |
+| Neuroimaging Assessment of Acupuncture and Bee Venom Acupuncture in Idiopathic Parkinson's Disease | 임상시험 | 20 | 중등도 | 10.13048/jkm.23050 / 10.13048/jkm.23050 | 침+봉침 병행이 파킨슨병 도파민 가용성·뇌혈류 과활동성 회복 |
+| Efficacy of Combined Treatment with Acupuncture and Bee Venom Acupuncture as an Adjunctive Treatment for Parkinson's Disease | 임상시험 | 73 | 중등도 | 10.1089/acm.2016.0250 / 28753030 | 침+봉침 병용이 파킨슨병 운동·비운동 증상 개선에 안전하고 유용 |
+| Effectiveness and Safety of Pharmacopuncture Therapy Compared to Standard Physical Therapy in Chronic Knee Pain | 임상시험 | 40 | 중등도 | 10.3390/medicina61061106 / 40572793 | 만성 무릎 통증에 약침이 표준 물리치료보다 통증·기능 개선 우수 |
+| Pharmacopuncture therapy for adhesive capsulitis: A pragmatic randomized controlled pilot study | 임상시험 | 50 | 중등도 | 10.1016/j.imr.2024.101065 / 39224580 | 오십견에 약침이 물리치료보다 통증·ROM·삶의 질 개선, 13주 유지 |
+| Ultrasound-Guided vs Non-Guided Pharmacopuncture for Cervical Myofascial Pain Syndrome | 임상시험 | 100 | 중등도 | 10.2147/JPR.S509236 / 40130203 | 초음파 유도 약침이 경추 근막통증증후군 시술 정확도를 높임 |
 | Sweet bee venom pharmacopuncture for chemotherapy-induced peripheral neuropathy | 관찰연구 | 11 | 낮음 | 10.1016/j.jams.2012.05.003 / 22898064 | 정제봉독약침이 항암 유발 신경병증 통증·신경독성 점수 유의하게 감소 |
 | A Case Report of Ultrasound-guided Bee Venom Pharmacopuncture on Plantar Fasciitis | 증례 | 1 | 낮음 | 10.13048/jkm.23010 / 10.13048/jkm.23010 | 초음파 유도 봉약침이 족저근막염 통증·근막 두께 개선 |
 | Common Peroneal Nerve Entrapment Masked by Acute Lumbar Disc Herniation | 증례 | 1 | 낮음 | 10.56986/pim.2024.10.008 / 10.56986/pim.2024.10.008 | 초음파 유도 약침이 신경 포착 부위 정밀 시술로 치료 효과 극대화 |

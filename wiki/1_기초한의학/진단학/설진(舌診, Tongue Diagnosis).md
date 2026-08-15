@@ -29,54 +29,54 @@
 
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
-| Can Traditional Chinese Medicine Diagnosis Be Parameterized and Standardized? A Narrative Review | 문헌고찰 | - | 중간 | 10.3390/healthcare9020177 | 설진·맥진 등 기기 보조 진단 시스템의 성과와 한계 분석 |
-| Digital tongue image analyses for health assessment | 문헌고찰 | - | 중간 | 10.1515/mr-2021-0018 | 디지털 설진 영상 분석 기술 동향, 질병 전 단계 징후 포착 |
-| A novel approach based on computerized image analysis for traditional Chinese medical diagnosis of the tongue | 실험연구 | - | 중간 | 10.1016/s0169-2607(99)00031-0 | 설색·설태 86% 이상 정확도 판별 시스템(CTES) 개발 |
-| Computerized tongue diagnosis based on Bayesian networks | 실험연구 | 525 | 중간 | 10.1109/TBME.2004.831534 | 베이지안 네트워크 기반 컴퓨터 설진 시스템 |
-| Gender- and age-dependent tongue features in a community-based population | 관찰연구 | 1487 | 중간 | 10.1097/MD.0000000000018350 | 성별·연령에 따라 혀 특징 유의하게 다름 |
-| Interobserver Reliability of Tongue Diagnosis Using Traditional Korean Medicine for Stroke Patients | 관찰연구 | 658 | 중간 | 10.1155/2012/209345 | 뇌졸중 설진 관찰자 간 일치도 중등도~우수 |
-| A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II | 관찰연구 | 1879 | 중간 | 10.1155/2013/508918 | 세맥·활맥이 변증 구분의 중요 지표 |
-| Interobserver Reliability of Four Diagnostic Methods Using Traditional Korean Medicine for Stroke Patients | 관찰연구 | 168 | 중간 | 10.1155/2014/465471 | 맥진·망진·문진·설문 일치도 중등도 이상 |
-| Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor | 관찰연구 | 102 | 중간 | 10.1155/2016/1971295 | 대사증후군 환자 백태 경향, 설진 보조 지표 |
-| Differences in the Tongue Features of Primary Dysmenorrhea Patients and Controls over a Normal Menstrual Cycle | 관찰연구 | 48 | 중간 | 10.1155/2017/6435702 | 생리통 환자 생리기 설태 색상·두께 유의 감소 |
-| Metabolic markers and microecological characteristics of tongue coating in patients with chronic gastritis | 관찰연구 | 90 | 중간 | 10.1186/1472-6882-13-227 | 만성 위염 설태 대사물질·미생물 차이 |
-| Reliability of non-contact tongue diagnosis for Sjögren's syndrome using machine learning method | 실험연구 | 60 | 중간 | 10.1038/s41598-023-27764-4 | 비접촉 설진·머신러닝, 쇼그렌 증후군 선별 |
-| Objective evaluation of tongue diagnosis ability using a tongue diagnosis e-learning/e-assessment system | 관찰연구 | 178 | 중간 | 10.3389/fmedt.2023.1050909 | 표준화 설상 DB 기반 설진 능력 객관 평가 |
-| Construction of a Standardized Tongue Image Database for Diagnostic Education | 실험연구 | 125 | 중간 | 10.3389/fmedt.2021.760542 | 설진 표준화 교육용 이미지 DB·e-러닝 시스템 |
-| Circadian Rhythms in Tongue Features | 관찰연구 | 15 | 중간 | 10.3390/jcm13123549 | 혀 특징 24시간 주기 리듬에 따라 변화 |
-| Study of factors involved in tongue color diagnosis by kampo medical practitioners | 관찰연구 | 68 | 중간 | 10.1155/2014/783102 | 10년 이상 경험으로 설색 진단 능력 유지 |
-| Temporal changes in tongue color as criterion for tongue diagnosis in Kampo medicine | 실험연구 | 9 | 중간 | 10.1159/000338516 | 30초 내 혀 색상 변화, 새 진단 기준 가능성 |
-| Proposal for a new noncontact method for measuring tongue moisture | 실험연구 | 13 | 중간 | 10.1155/2015/249609 | 혀 광택으로 수분 정량화 비접촉 시스템 |
-| An Automatic Petechia Dots Detection Method on Tongue | 실험연구 | - | 중간 | 10.1109/EMBC46164.2021.9630066 | 혀 점상출혈 자동 검출 고정밀 알고리즘 |
-| Assessing the efficacy of a tongue image analyzing system (TIAS) for the objective diagnosis of static blood | 관찰연구 | 227 | 중간 | 10.1002/tkm2.1255 | TIAS 설색 지표로 정체혈 중증도 객관 판별 |
-| Clinical study of intelligent tongue diagnosis and oral microbiome for classifying TCM syndromes in MASLD | 관찰연구 | 100 | 중간 | 10.1186/s13020-025-01118-w | 설진·구강 마이크로바이옴으로 MASLD 변증 분류 |
-| Differential regional textural attributes of tongue in normal and acidity patients | 관찰연구 | 34 | 중간 | 10.1016/j.compbiomed.2026.111831 | 부위별 설색·질감 분석, 위장 질환 진단 유용 |
-| Temporal changes in tongue color during immune checkpoint inhibitor therapy in NSCLC | 관찰연구 | 140 | 중간 | 10.3389/or.2025.1697252 | 설색 밝기 변화, 면역치료 예후 예측 지표 |
-| Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance | 관찰연구 | 82 | 중간 | 10.31101/jkk.3962 | 생식계 질환 담백설·비대설·후태·습설 빈번 |
-| The Herbal Formula CBD Improves Sleep Quality Dependent on Oral Microbial Type and Tongue Diagnostic Features in Insomnia | 임상시험 | 56 | 중간 | 10.21203/rs.3.rs-54133/v1 | 설진·구강 미생물로 불면증 변증 확인 후 처방 |
-| [Quantitative study on tongue diagnosis in stroke patients] | 관찰연구 | 378 | 중간 | - / 12575554 | 뇌졸중 암적설·후황니태 빈번, 설진 정량화 |
-| [Study on relationship between quantitative data of tongue picture and state of illness in 224 patients with SARS] | 관찰연구 | 224 | 중간 | - / 14626185 | 위중 환자 암담설·후황태, 설진 중증도 반영 |
-| [Quantitative study on tongue color in primary liver cancer patients] | 관찰연구 | - | 중간 | 10.3736/jcim20030310 | 간암 환자 청자색 혀 비율 높음 |
-| [Comparative study on normal tongue manifestation in patients with primary liver cancer and healthy adults] | 관찰연구 | - | 중간 | 10.3736/jcim20060104 | 육안 정상 혀도 미세순환·세포 성숙도 차이 |
-| [Applying matching matrix, factor analysis and clustering analysis to syndromes of phlegm and blood stasis in CHD] | 관찰연구 | 200 | 중간 | - / 16834968 | 담음 백니태·활맥, 어혈 자설·어반 특징 |
-| [Study on the relationship between blood stasis syndrome and clinical pathology in IgA nephropathy] | 관찰연구 | 94 | 중간 | - / 16152822 | 혈어 증후군, IgA 신병증 병리 악화와 관련 |
-| [Methodological study on digitalization of tongue image in TCM diagnosis] | 실험연구 | - | 중간 | - / 15646332 | 설질·설태 색상·두께·질감 자동 분석 |
-| The bi-elliptical deformable contour and its application to automated tongue segmentation | 실험연구 | - | 중간 | 10.1109/TMI.2005.850552 | 혀 영상 자동 분할 알고리즘(BEDC) |
-| [Study on the application of bio-heat transfer science to the quantitative analysis of tongue inspection] | 실험연구 | - | 중간 | 10.3736/jcim20030215 | 혀 색이 온도·혈류 관류율 반영 정량 입증 |
-| Development of telemedicine tools with an emphasis on visual observation | 실험연구 | - | 중간 | 10.1007/s10015-022-00731-4 | 색보정 원격 설진·망진 시스템 |
+| Can Traditional Chinese Medicine Diagnosis Be Parameterized and Standardized? A Narrative Review | 문헌고찰 | - | 중등도 | 10.3390/healthcare9020177 | 설진·맥진 등 기기 보조 진단 시스템의 성과와 한계 분석 |
+| Digital tongue image analyses for health assessment | 문헌고찰 | - | 중등도 | 10.1515/mr-2021-0018 | 디지털 설진 영상 분석 기술 동향, 질병 전 단계 징후 포착 |
+| A novel approach based on computerized image analysis for traditional Chinese medical diagnosis of the tongue | 실험연구 | - | 중등도 | 10.1016/s0169-2607(99)00031-0 | 설색·설태 86% 이상 정확도 판별 시스템(CTES) 개발 |
+| Computerized tongue diagnosis based on Bayesian networks | 실험연구 | 525 | 중등도 | 10.1109/TBME.2004.831534 | 베이지안 네트워크 기반 컴퓨터 설진 시스템 |
+| Gender- and age-dependent tongue features in a community-based population | 관찰연구 | 1487 | 중등도 | 10.1097/MD.0000000000018350 | 성별·연령에 따라 혀 특징 유의하게 다름 |
+| Interobserver Reliability of Tongue Diagnosis Using Traditional Korean Medicine for Stroke Patients | 관찰연구 | 658 | 중등도 | 10.1155/2012/209345 | 뇌졸중 설진 관찰자 간 일치도 중등도~우수 |
+| A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II | 관찰연구 | 1879 | 중등도 | 10.1155/2013/508918 | 세맥·활맥이 변증 구분의 중요 지표 |
+| Interobserver Reliability of Four Diagnostic Methods Using Traditional Korean Medicine for Stroke Patients | 관찰연구 | 168 | 중등도 | 10.1155/2014/465471 | 맥진·망진·문진·설문 일치도 중등도 이상 |
+| Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor | 관찰연구 | 102 | 중등도 | 10.1155/2016/1971295 | 대사증후군 환자 백태 경향, 설진 보조 지표 |
+| Differences in the Tongue Features of Primary Dysmenorrhea Patients and Controls over a Normal Menstrual Cycle | 관찰연구 | 48 | 중등도 | 10.1155/2017/6435702 | 생리통 환자 생리기 설태 색상·두께 유의 감소 |
+| Metabolic markers and microecological characteristics of tongue coating in patients with chronic gastritis | 관찰연구 | 90 | 중등도 | 10.1186/1472-6882-13-227 | 만성 위염 설태 대사물질·미생물 차이 |
+| Reliability of non-contact tongue diagnosis for Sjögren's syndrome using machine learning method | 실험연구 | 60 | 중등도 | 10.1038/s41598-023-27764-4 | 비접촉 설진·머신러닝, 쇼그렌 증후군 선별 |
+| Objective evaluation of tongue diagnosis ability using a tongue diagnosis e-learning/e-assessment system | 관찰연구 | 178 | 중등도 | 10.3389/fmedt.2023.1050909 | 표준화 설상 DB 기반 설진 능력 객관 평가 |
+| Construction of a Standardized Tongue Image Database for Diagnostic Education | 실험연구 | 125 | 중등도 | 10.3389/fmedt.2021.760542 | 설진 표준화 교육용 이미지 DB·e-러닝 시스템 |
+| Circadian Rhythms in Tongue Features | 관찰연구 | 15 | 중등도 | 10.3390/jcm13123549 | 혀 특징 24시간 주기 리듬에 따라 변화 |
+| Study of factors involved in tongue color diagnosis by kampo medical practitioners | 관찰연구 | 68 | 중등도 | 10.1155/2014/783102 | 10년 이상 경험으로 설색 진단 능력 유지 |
+| Temporal changes in tongue color as criterion for tongue diagnosis in Kampo medicine | 실험연구 | 9 | 중등도 | 10.1159/000338516 | 30초 내 혀 색상 변화, 새 진단 기준 가능성 |
+| Proposal for a new noncontact method for measuring tongue moisture | 실험연구 | 13 | 중등도 | 10.1155/2015/249609 | 혀 광택으로 수분 정량화 비접촉 시스템 |
+| An Automatic Petechia Dots Detection Method on Tongue | 실험연구 | - | 중등도 | 10.1109/EMBC46164.2021.9630066 | 혀 점상출혈 자동 검출 고정밀 알고리즘 |
+| Assessing the efficacy of a tongue image analyzing system (TIAS) for the objective diagnosis of static blood | 관찰연구 | 227 | 중등도 | 10.1002/tkm2.1255 | TIAS 설색 지표로 정체혈 중증도 객관 판별 |
+| Clinical study of intelligent tongue diagnosis and oral microbiome for classifying TCM syndromes in MASLD | 관찰연구 | 100 | 중등도 | 10.1186/s13020-025-01118-w | 설진·구강 마이크로바이옴으로 MASLD 변증 분류 |
+| Differential regional textural attributes of tongue in normal and acidity patients | 관찰연구 | 34 | 중등도 | 10.1016/j.compbiomed.2026.111831 | 부위별 설색·질감 분석, 위장 질환 진단 유용 |
+| Temporal changes in tongue color during immune checkpoint inhibitor therapy in NSCLC | 관찰연구 | 140 | 중등도 | 10.3389/or.2025.1697252 | 설색 밝기 변화, 면역치료 예후 예측 지표 |
+| Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance | 관찰연구 | 82 | 중등도 | 10.31101/jkk.3962 | 생식계 질환 담백설·비대설·후태·습설 빈번 |
+| The Herbal Formula CBD Improves Sleep Quality Dependent on Oral Microbial Type and Tongue Diagnostic Features in Insomnia | 임상시험 | 56 | 중등도 | 10.21203/rs.3.rs-54133/v1 | 설진·구강 미생물로 불면증 변증 확인 후 처방 |
+| [Quantitative study on tongue diagnosis in stroke patients] | 관찰연구 | 378 | 중등도 | - / 12575554 | 뇌졸중 암적설·후황니태 빈번, 설진 정량화 |
+| [Study on relationship between quantitative data of tongue picture and state of illness in 224 patients with SARS] | 관찰연구 | 224 | 중등도 | - / 14626185 | 위중 환자 암담설·후황태, 설진 중증도 반영 |
+| [Quantitative study on tongue color in primary liver cancer patients] | 관찰연구 | - | 중등도 | 10.3736/jcim20030310 | 간암 환자 청자색 혀 비율 높음 |
+| [Comparative study on normal tongue manifestation in patients with primary liver cancer and healthy adults] | 관찰연구 | - | 중등도 | 10.3736/jcim20060104 | 육안 정상 혀도 미세순환·세포 성숙도 차이 |
+| [Applying matching matrix, factor analysis and clustering analysis to syndromes of phlegm and blood stasis in CHD] | 관찰연구 | 200 | 중등도 | - / 16834968 | 담음 백니태·활맥, 어혈 자설·어반 특징 |
+| [Study on the relationship between blood stasis syndrome and clinical pathology in IgA nephropathy] | 관찰연구 | 94 | 중등도 | - / 16152822 | 혈어 증후군, IgA 신병증 병리 악화와 관련 |
+| [Methodological study on digitalization of tongue image in TCM diagnosis] | 실험연구 | - | 중등도 | - / 15646332 | 설질·설태 색상·두께·질감 자동 분석 |
+| The bi-elliptical deformable contour and its application to automated tongue segmentation | 실험연구 | - | 중등도 | 10.1109/TMI.2005.850552 | 혀 영상 자동 분할 알고리즘(BEDC) |
+| [Study on the application of bio-heat transfer science to the quantitative analysis of tongue inspection] | 실험연구 | - | 중등도 | 10.3736/jcim20030215 | 혀 색이 온도·혈류 관류율 반영 정량 입증 |
+| Development of telemedicine tools with an emphasis on visual observation | 실험연구 | - | 중등도 | 10.1007/s10015-022-00731-4 | 색보정 원격 설진·망진 시스템 |
 | A Case Report of Pheochromocytoma Presenting With a Tongue Sign Indicative of Blood Deficiency | 증례 | 1 | 낮음 | 10.7759/cureus.79880 | 혈허 설상(창백·얇은 혀)이 갈색세포종으로 나타난 사례 |
-| Accurate localization of organ representation areas of the tongue, using the Bi-Digital O-Ring Test | 실험연구 | - | 중간 | 10.3727/036012991816358062 | 혀 부위별 장기 반영 지도 제시 |
-| [Typing of bronchiectasis according to syndrome differentiation] | 관찰연구 | 563 | 중간 | - / 15339407 | 기관지확장증 변증 유형, 설맥으로 분류 |
-| [Epidemic survey on TCM syndrome typing and etiology of fatty liver] | 관찰연구 | 503 | 중간 | - / 15768875 | 지방간 비신양허·간기울결 변증 빈번 |
-| [Combined use of factor analysis and cluster analysis in classification of TCM syndromes in posthepatitic cirrhosis] | 관찰연구 | 310 | 중간 | 10.3736/jcim20050105 | 설진·맥진 데이터로 간경변 7개 변증 분류 |
-| [A preliminary epidemiological study on TCM pathogenesis of chronic fatigue syndrome in Hong Kong] | 관찰연구 | 1013 | 중간 | 10.3736/jcim20050506 | CFS 기허혈어 변증 빈번, 설진 활용 |
-| Training in and use of diagnostic techniques among CAM practitioners | 관찰연구 | 617 | 중간 | 10.1089/acm.2006.12.695 | CAM 의료인 진단법 사용 실태, 설진 포함 |
-| The diagnosis and treatment of chronic back pain by acupuncturists, chiropractors, and massage therapists | 관찰연구 | - | 중간 | 10.1097/01.ajp.0000169668.62900.ca | 침구사 맥진·설진·경락 촉진 병행 |
-| Speeded Up Robust Factor For Tongue Biometrics- Person Identification Method | 실험연구 | - | 중간 | 10.26634/jpr.3.2.8265 | 혀 생체 특징 개인 식별 활용 |
-| Study Protocol: TCM Syndrome Differentiation for Heart Failure patients and its Implication for Qiliqiangxin Capsules | 임상시험 | 3080 | 중간 | 10.21203/rs.3.rs-727082/v1 | 심부전 변증·설진 기반 맞춤 치료 프로토콜 |
-| Validation of Evidence-based Questionnaire for TCM Syndrome Differentiation of Heart Failure | 임상시험 | 661 | 중간 | 10.21203/rs.3.rs-2430316/v1 | 심부전 변증 설문지(SDQHF) 신뢰도·타당도 |
-| An Observational Multi-Center Study Protocol for Distribution of Pattern Identification in Parkinson's Disease | 관찰연구 | 100 | 중간 | 10.22246/jikm.2024.45.1.1 | 파킨슨병 변증·임상 지표 결합 프로토콜 |
-| Administration of Yijung-tang, Pyeongwi-san, and Shihosogan-tang for Standardization of Korean Medicine Pattern Identification for Functional Dyspepsia | 임상시험 | 300 | 중간 | 10.22246/jikm.2022.43.6.1105 | 기능성 소화불량 변증 진단 도구 표준화 임상시험 |
+| Accurate localization of organ representation areas of the tongue, using the Bi-Digital O-Ring Test | 실험연구 | - | 중등도 | 10.3727/036012991816358062 | 혀 부위별 장기 반영 지도 제시 |
+| [Typing of bronchiectasis according to syndrome differentiation] | 관찰연구 | 563 | 중등도 | - / 15339407 | 기관지확장증 변증 유형, 설맥으로 분류 |
+| [Epidemic survey on TCM syndrome typing and etiology of fatty liver] | 관찰연구 | 503 | 중등도 | - / 15768875 | 지방간 비신양허·간기울결 변증 빈번 |
+| [Combined use of factor analysis and cluster analysis in classification of TCM syndromes in posthepatitic cirrhosis] | 관찰연구 | 310 | 중등도 | 10.3736/jcim20050105 | 설진·맥진 데이터로 간경변 7개 변증 분류 |
+| [A preliminary epidemiological study on TCM pathogenesis of chronic fatigue syndrome in Hong Kong] | 관찰연구 | 1013 | 중등도 | 10.3736/jcim20050506 | CFS 기허혈어 변증 빈번, 설진 활용 |
+| Training in and use of diagnostic techniques among CAM practitioners | 관찰연구 | 617 | 중등도 | 10.1089/acm.2006.12.695 | CAM 의료인 진단법 사용 실태, 설진 포함 |
+| The diagnosis and treatment of chronic back pain by acupuncturists, chiropractors, and massage therapists | 관찰연구 | - | 중등도 | 10.1097/01.ajp.0000169668.62900.ca | 침구사 맥진·설진·경락 촉진 병행 |
+| Speeded Up Robust Factor For Tongue Biometrics- Person Identification Method | 실험연구 | - | 중등도 | 10.26634/jpr.3.2.8265 | 혀 생체 특징 개인 식별 활용 |
+| Study Protocol: TCM Syndrome Differentiation for Heart Failure patients and its Implication for Qiliqiangxin Capsules | 임상시험 | 3080 | 중등도 | 10.21203/rs.3.rs-727082/v1 | 심부전 변증·설진 기반 맞춤 치료 프로토콜 |
+| Validation of Evidence-based Questionnaire for TCM Syndrome Differentiation of Heart Failure | 임상시험 | 661 | 중등도 | 10.21203/rs.3.rs-2430316/v1 | 심부전 변증 설문지(SDQHF) 신뢰도·타당도 |
+| An Observational Multi-Center Study Protocol for Distribution of Pattern Identification in Parkinson's Disease | 관찰연구 | 100 | 중등도 | 10.22246/jikm.2024.45.1.1 | 파킨슨병 변증·임상 지표 결합 프로토콜 |
+| Administration of Yijung-tang, Pyeongwi-san, and Shihosogan-tang for Standardization of Korean Medicine Pattern Identification for Functional Dyspepsia | 임상시험 | 300 | 중등도 | 10.22246/jikm.2022.43.6.1105 | 기능성 소화불량 변증 진단 도구 표준화 임상시험 |
 
 ## 임상 적용
 

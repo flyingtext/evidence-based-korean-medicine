@@ -133,49 +133,49 @@
 | Network Meta-analysis of TCM injections combined with western medicine in viral pneumonia | 메타분석 | - | 높음 | 10.19540/j.cnki.cjcmm.20251209.501 | 주사제 병용이 유효율·증상 소실·염증 지표 개선 |
 | Efficacy of Different TCM Techniques for Preventing Stroke-Associated Pneumonia | 네트워크 메타분석 | - | 높음 | 10.1177/03601293261439954 | 침술·혈위 자극 병용이 SAP 예방에 가장 효과적 |
 | Efficacy of TCM in treating severe pneumonia: meta-analysis and systematic review | 메타분석 | - | 높음 | 10.1097/MD.0000000000048983 | 한의 보조 요법이 유효율·염증·폐 기능·사망률 개선 |
-| Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review | 체계적 고찰 | - | 중간 | 10.1136/aim.2009.000471 | 일본 호흡기 질환 침구 근거, 증례 수준이 대부분 |
-| Comparative efficacy of Chinese patent medicine in Mycoplasma pneumoniae pneumonia in children | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000023747 | 소아 마이코플라스마 폐렴 중성약 비교 근거 마련 중 |
-| Evidence map analysis of CAP treatment with Chinese patent medicines | 체계적 고찰 | - | 중간 | 10.19540/j.cnki.cjcmm.20250604.501 | CAP 중성약 연구는 질 낮아 대규모 검증 필요 |
+| Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review | 체계적 고찰 | - | 중등도 | 10.1136/aim.2009.000471 | 일본 호흡기 질환 침구 근거, 증례 수준이 대부분 |
+| Comparative efficacy of Chinese patent medicine in Mycoplasma pneumoniae pneumonia in children | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000023747 | 소아 마이코플라스마 폐렴 중성약 비교 근거 마련 중 |
+| Evidence map analysis of CAP treatment with Chinese patent medicines | 체계적 고찰 | - | 중등도 | 10.19540/j.cnki.cjcmm.20250604.501 | CAP 중성약 연구는 질 낮아 대규모 검증 필요 |
 | Combined internal-external therapy of TCM in children pneumonia | 임상시험(RCT) | 817 | 높음 | PMID 16025971 | 중약 내복+복흉고 외용이 완치율·증상 개선 |
-| Yinma Jiedu granules for community-acquired pneumonia (protocol) | 임상시험(프로토콜) | 226 | 중간 | 10.3389/fmed.2025.1612945 | 은맥해독과립 병용 CAP RCT 프로토콜 |
+| Yinma Jiedu granules for community-acquired pneumonia (protocol) | 임상시험(프로토콜) | 226 | 중등도 | 10.3389/fmed.2025.1612945 | 은맥해독과립 병용 CAP RCT 프로토콜 |
 | Pediatric Tuina on Symptoms, Inflammation, and Pulmonary Function in Severe Pneumonia | 임상시험(RCT) | 180 | 높음 | 10.1002/ppul.71404 | 소아 추나가 증상·염증·폐 기능 개선 |
 | Lianhua Qingke Tablets in Mycoplasma pneumoniae Pneumonia | 임상시험(RCT) | 160 | 높음 | 10.1111/crj.70204 | 연화청각정이 소실률(85.9%) 개선 |
-| Cistanche, Schisandra, Cornus on elderly recurrent pneumonia | 임상시험(RCT) | 150 | 중간 | 10.36721/PJPS.2026.39.4.REG.15065.1 | 육정자·오미자·산수유가 면역·폐 기능 개선 |
-| Press needle for aspiration pneumonia prevention in older adults (protocol) | 임상시험(프로토콜) | 140 | 중간 | 10.1097/MD.0000000000032847 | 족삼리·태계 압침이 흡인성 폐렴 예방 RCT |
-| Feiyan Mixture in infantile pneumonia | 임상시험(RCT) | 128 | 중간 | PMID 11360566 | 비연탕이 항생제와 유사 유효율(89%) |
-| Yinhua mixture aerosol in infantile viral pneumonia | 임상시험(RCT) | 102 | 중간 | PMID 11783144 | 은화혼합액 에어로졸이 해열·거담·천식 개선 |
-| Pneumonia compound formulation against CAP | 임상시험 | 100 | 중간 | 10.1186/s12879-025-10823-8 | 폐렴 복합 처방이 증상 개선, 지질 대사 조절 |
-| Meridian-Based Acupoint Massage in Infants with CAP | 임상시험 | 100 | 중간 | 10.6913/mrhk.070306 | 경락-혈위 마사지가 증상·입원 기간 개선 |
+| Cistanche, Schisandra, Cornus on elderly recurrent pneumonia | 임상시험(RCT) | 150 | 중등도 | 10.36721/PJPS.2026.39.4.REG.15065.1 | 육정자·오미자·산수유가 면역·폐 기능 개선 |
+| Press needle for aspiration pneumonia prevention in older adults (protocol) | 임상시험(프로토콜) | 140 | 중등도 | 10.1097/MD.0000000000032847 | 족삼리·태계 압침이 흡인성 폐렴 예방 RCT |
+| Feiyan Mixture in infantile pneumonia | 임상시험(RCT) | 128 | 중등도 | PMID 11360566 | 비연탕이 항생제와 유사 유효율(89%) |
+| Yinhua mixture aerosol in infantile viral pneumonia | 임상시험(RCT) | 102 | 중등도 | PMID 11783144 | 은화혼합액 에어로졸이 해열·거담·천식 개선 |
+| Pneumonia compound formulation against CAP | 임상시험 | 100 | 중등도 | 10.1186/s12879-025-10823-8 | 폐렴 복합 처방이 증상 개선, 지질 대사 조절 |
+| Meridian-Based Acupoint Massage in Infants with CAP | 임상시험 | 100 | 중등도 | 10.6913/mrhk.070306 | 경락-혈위 마사지가 증상·입원 기간 개선 |
 | Maxing huoqiao granule on nonsevere CAP | 임상시험(RCT) | 96 | 높음 | 10.1016/j.phrs.2026.108186 | 마행곽교과립이 완치율(68.97%) 개선 |
 | Auricular point sticking in pediatric bacterial pneumonia | 임상시험(RCT) | 94 | 높음 | 10.13703/j.0255-2930.20240109-0001 | 이혈압법이 유효율(70.5%) 개선 |
-| CEME oral health program for preventing stroke-associated pneumonia | 임상시험(RCT) | 84 | 중간 | 10.1186/s12903-025-07190-w | CEME 프로그램이 SAP 발생률 감소 |
-| Cupping treatment with antibiotics for bacterial pneumonia in children | 임상시험(RCT) | 72 | 중간 | 10.13703/j.0255-2930.20200804-k0004 | 배부 부항이 해열 기간 단축 |
+| CEME oral health program for preventing stroke-associated pneumonia | 임상시험(RCT) | 84 | 중등도 | 10.1186/s12903-025-07190-w | CEME 프로그램이 SAP 발생률 감소 |
+| Cupping treatment with antibiotics for bacterial pneumonia in children | 임상시험(RCT) | 72 | 중등도 | 10.13703/j.0255-2930.20200804-k0004 | 배부 부항이 해열 기간 단축 |
 | Maxing Ganshi Decoction in children with CAP | 임상시험(RCT) | 71 | 높음 | 10.3389/fphar.2022.948831 | 마행감석탕이 회복률·발열 해소 개선 |
-| Dry cupping for severe pneumonia (protocol) | 임상시험(프로토콜) | 66 | 중간 | 10.1136/bmjopen-2023-082081 | 건식 부항이 산소 포화도·염증 개선 검증 |
-| Ezhu intravenous injection in RSV pneumonia | 임상시험(RCT) | 65 | 중간 | PMID 1304837 | 어주 주사가 바이러스 분리율·염증 감소 |
-| Dusuqing in senile bacterial pneumonia | 임상시험(RCT) | 64 | 중간 | PMID 12592683 | 독수청이 TNF-α↓·IL-2↑, 면역 개선 |
-| TCM meridian massage on lung function after Mycoplasma pneumonia | 임상시험(RCT) | 64 | 중간 | 10.1186/s12887-026-06605-z | 경락 마사지가 폐 기능 회복 개선 |
-| Mechanical expectoration + acupoint application in bronchial pneumonia | 임상시험(RCT) | 62 | 중간 | 10.26689/jcnr.v9i12.13421 | 혈위 응용이 염증·폐 기능 개선 |
+| Dry cupping for severe pneumonia (protocol) | 임상시험(프로토콜) | 66 | 중등도 | 10.1136/bmjopen-2023-082081 | 건식 부항이 산소 포화도·염증 개선 검증 |
+| Ezhu intravenous injection in RSV pneumonia | 임상시험(RCT) | 65 | 중등도 | PMID 1304837 | 어주 주사가 바이러스 분리율·염증 감소 |
+| Dusuqing in senile bacterial pneumonia | 임상시험(RCT) | 64 | 중등도 | PMID 12592683 | 독수청이 TNF-α↓·IL-2↑, 면역 개선 |
+| TCM meridian massage on lung function after Mycoplasma pneumonia | 임상시험(RCT) | 64 | 중등도 | 10.1186/s12887-026-06605-z | 경락 마사지가 폐 기능 회복 개선 |
+| Mechanical expectoration + acupoint application in bronchial pneumonia | 임상시험(RCT) | 62 | 중등도 | 10.26689/jcnr.v9i12.13421 | 혈위 응용이 염증·폐 기능 개선 |
 | Bloodletting at Shaoshang and Shangyang in severe CAP in elderly | 임상시험(RCT) | 62 | 높음 | 10.1155/2021/3295021 | 사혈이 유효율↑·28일 사망률↓ |
-| Xiaochaihu + Xiaoxianxiong in post-stroke pneumonia | 임상시험(RCT) | 60 | 중간 | 10.26689/jcnr.v9i8.11794 | 소시호탕·소현흉탕이 유효율·염증 개선 |
-| Hangekobokuto for aspiration pneumonia prevention in cardiovascular surgery | 임상시험(RCT) | 34 | 중간 | 10.5761/atcs.oa.19-00128 | 반하후박탕이 흡인성 폐렴 예방 |
+| Xiaochaihu + Xiaoxianxiong in post-stroke pneumonia | 임상시험(RCT) | 60 | 중등도 | 10.26689/jcnr.v9i8.11794 | 소시호탕·소현흉탕이 유효율·염증 개선 |
+| Hangekobokuto for aspiration pneumonia prevention in cardiovascular surgery | 임상시험(RCT) | 34 | 중등도 | 10.5761/atcs.oa.19-00128 | 반하후박탕이 흡인성 폐렴 예방 |
 | Seihai-to in relapsing aspiration pneumonia | 임상시험(RCT) | 15 | 낮음 | 10.1078/0944-7113-00111 | 청폐탕이 발열·CRP·항생제 사용량 감소 |
-| Bloodletting at Sifeng Points for Th1/Th2 in pediatric Mycoplasma pneumonia | 임상시험 | - | 중간 | 10.3791/69583 | 사봉혈 자락이 면역 균형 조절 |
-| Yokukan-San co-administration in hospitalized older patients with pneumonia | 관찰연구 | 66,430 | 중간 | 10.1111/ggi.14696 | 억간산 병용이 입원 기간 단축 |
-| Daikenchuto for mechanically ventilated patients | 관찰연구 | 61,454 | 중간 | 10.1002/jpen.2076 | 대건중탕이 경장영양 공급 개선 |
-| FeiDuQing for COVID-19 pneumonia | 관찰연구 | 355 | 중간 | 10.21203/rs.3.rs-670164/v1 | 비두청이 입원 기간 단축·생존율 개선 |
-| Machine learning prediction model for severe pneumonia mortality | 관찰연구 | 323 | 중간 | 10.3389/fphar.2025.1660893 | 한약 탕제·기관절개가 사망률 감소와 연관 |
-| Plasma metabolites of pediatric CAP in TCM syndrome differentiation | 관찰연구 | 296 | 중간 | 10.21203/rs.3.rs-141954/v1 | 변증(한증/열증)별 대사체 프로파일 상이 |
+| Bloodletting at Sifeng Points for Th1/Th2 in pediatric Mycoplasma pneumonia | 임상시험 | - | 중등도 | 10.3791/69583 | 사봉혈 자락이 면역 균형 조절 |
+| Yokukan-San co-administration in hospitalized older patients with pneumonia | 관찰연구 | 66,430 | 중등도 | 10.1111/ggi.14696 | 억간산 병용이 입원 기간 단축 |
+| Daikenchuto for mechanically ventilated patients | 관찰연구 | 61,454 | 중등도 | 10.1002/jpen.2076 | 대건중탕이 경장영양 공급 개선 |
+| FeiDuQing for COVID-19 pneumonia | 관찰연구 | 355 | 중등도 | 10.21203/rs.3.rs-670164/v1 | 비두청이 입원 기간 단축·생존율 개선 |
+| Machine learning prediction model for severe pneumonia mortality | 관찰연구 | 323 | 중등도 | 10.3389/fphar.2025.1660893 | 한약 탕제·기관절개가 사망률 감소와 연관 |
+| Plasma metabolites of pediatric CAP in TCM syndrome differentiation | 관찰연구 | 296 | 중등도 | 10.21203/rs.3.rs-141954/v1 | 변증(한증/열증)별 대사체 프로파일 상이 |
 | Risk factors of TCM syndromes in lung cancer with fungal pneumonia | 관찰연구 | 115 | 낮음 | 10.3736/jcim20040507 | 담열·열독 변증이 진균 폐렴 위험 ↑ |
-| Linggui Bafa Tui Na + Fuxiong San in pediatric Mycoplasma pneumonia | 관찰연구 | 110 | 중간 | 10.62347/QWCJ1378 | 영귀팔법 추나·복흉산이 완치율 개선 |
-| Jiajiang Xuming decoction in stroke-associated pneumonia | 관찰연구 | 100 | 중간 | 10.3389/fcell.2026.1889833 | 가강수명탕이 SAP 개선율·중환자실 체류 단축 |
-| Shosaikoto for pneumonia in combination with antibiotics | 관찰연구 | 61 | 중간 | 10.1002/tkm2.1236 | 소시호탕 병용이 항생제·발열 기간 단축 |
-| Kampo therapy on prognosis in idiopathic interstitial pneumonia | 관찰연구 | 59 | 중간 | 10.1002/tkm2.1242 | 한방 처방이 생존 기간 연장 |
+| Linggui Bafa Tui Na + Fuxiong San in pediatric Mycoplasma pneumonia | 관찰연구 | 110 | 중등도 | 10.62347/QWCJ1378 | 영귀팔법 추나·복흉산이 완치율 개선 |
+| Jiajiang Xuming decoction in stroke-associated pneumonia | 관찰연구 | 100 | 중등도 | 10.3389/fcell.2026.1889833 | 가강수명탕이 SAP 개선율·중환자실 체류 단축 |
+| Shosaikoto for pneumonia in combination with antibiotics | 관찰연구 | 61 | 중등도 | 10.1002/tkm2.1236 | 소시호탕 병용이 항생제·발열 기간 단축 |
+| Kampo therapy on prognosis in idiopathic interstitial pneumonia | 관찰연구 | 59 | 중등도 | 10.1002/tkm2.1242 | 한방 처방이 생존 기간 연장 |
 | Kampo therapy for IIP (report 2): Gradual decrease in KL-6 | 관찰연구 | 18 | 낮음 | 10.1002/tkm2.1224 | 한방이 KL-6 점진 감소 |
-| Integrative TCM Strategies for Refractory Mycoplasma Pneumonia | 문헌고찰 | - | 중간 | 10.2147/IDR.S587094 | 마행석간탕·연화청온 병용이 해열·염증 개선 |
-| Clinical application overview of Zusanli (ST36) in pulmonary diseases | 문헌고찰 | - | 중간 | 10.1093/schbul/sbaf199.014 | 족삼리가 폐계·비계 질환에 활용 |
-| Review of Hangekobokuto | 문헌고찰 | - | 중간 | 10.1002/tkm2.1373 | 반하후박탕이 흡인성 폐렴 예방·연하 개선 |
-| Review of Daikenchuto | 문헌고찰 | - | 중간 | 10.1002/tkm2.1321 | 대건중탕이 위장관 기능 개선 |
+| Integrative TCM Strategies for Refractory Mycoplasma Pneumonia | 문헌고찰 | - | 중등도 | 10.2147/IDR.S587094 | 마행석간탕·연화청온 병용이 해열·염증 개선 |
+| Clinical application overview of Zusanli (ST36) in pulmonary diseases | 문헌고찰 | - | 중등도 | 10.1093/schbul/sbaf199.014 | 족삼리가 폐계·비계 질환에 활용 |
+| Review of Hangekobokuto | 문헌고찰 | - | 중등도 | 10.1002/tkm2.1373 | 반하후박탕이 흡인성 폐렴 예방·연하 개선 |
+| Review of Daikenchuto | 문헌고찰 | - | 중등도 | 10.1002/tkm2.1321 | 대건중탕이 위장관 기능 개선 |
 | TCM differential treatment of persisting pneumonia in children | 증례 | 52 | 낮음 | PMID 10453606 | 4가지 변증별 치료가 높은 치료율 |
 | TCM treatment of infectious atypical pneumonia (SARS) | 증례 | 16 | 낮음 | PMID 15688692 | 한약 단독이 발열 해소·폐 침윤 흡수 |
 | Integrated TCM-WM treatment for severe pneumonia with pyopneumothorax | 증례 | 1 | 낮음 | 10.53469/jcmp.2025.07(11).12 | 단계적 변증 치료가 폐 기능·병변 개선 |
@@ -185,7 +185,7 @@
 | Bronchopneumonia with persistent hiccups treated with Kampo | 증례 | 1 | 낮음 | 10.7759/cureus.75237 | 한약이 난치성 딸국질 보조 치료 |
 | Bukuryoingohangekobokuto for recurrent aspiration pneumonia | 증례 | 1 | 낮음 | 10.4103/jfmpc.jfmpc_1627_20 | 복령오령산가반하후박탕이 재발 억제 |
 | Medical Acupuncture for COVID-19 respiratory distress | 증례 | 1 | 낮음 | 10.1089/acu.2020.1467 | 침·부항이 COVID-19 호흡기 증상 회복 |
-| Feiyan Chuansou oral liquid in infantile acute respiratory infection | 실험연구 | - | 중간 | PMID 11367653 | 비연천수 구복액이 항균·항염 활성 |
+| Feiyan Chuansou oral liquid in infantile acute respiratory infection | 실험연구 | - | 중등도 | PMID 11367653 | 비연천수 구복액이 항균·항염 활성 |
 
 ## 경혈/처방 연관
 

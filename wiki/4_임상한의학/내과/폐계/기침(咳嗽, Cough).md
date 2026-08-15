@@ -120,20 +120,20 @@
 | Acupuncture-related therapy for chronic cough: A systematic review and meta-analysis | 메타분석 | 2,835 | 높음 | 10.1016/j.imr.2025.101121 | 침 관련 요법이 중증도·삶의 질·총 유효율 개선 |
 | Pediatric Tui Na for cough in children: A systematic review and meta-analysis of RCTs | 메타분석 | 1,502 | 높음 | 10.1016/j.ctim.2022.102882 | 소아 추나가 기침 기간 단축·병행 시 재발률 감소 |
 | [Retracted] Assessment of Acupoint Therapy of TCM on Cough Variant Asthma: A Meta-analysis | 메타분석 | 1,237 | 높음 | 10.1155/2022/4168308 | 혈위요법이 총 유효율·폐 기능·IgE·호산구·삶의 질 개선 |
-| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중간 | 10.1002/14651858.CD004560.pub2 | 중약이 급성 기관지염 기침·발열 기간 단축, 안전성 확인 필요 |
-| Chinese Herbal Medicine for Postinfectious Cough: A Systematic Review of RCTs | 체계적 고찰 | - | 중간 | 10.1155/2013/906765 | 중약이 감염 후 기침 증상·진해 효과·삶의 질 개선 |
-| The Effect of Banhasasim-tang in Cough: A Systematic Review and Meta-analysis | 메타분석 | - | 중간 | 10.22246/jikm.2021.42.3.385 | 반하사심탕이 기침 완화·폐 기능 개선 |
-| Treatment of cough and dyspnea due to acute bronchitis by plaster | 임상시험(RCT) | 1,158 | 중간 | PMID 11977523 | 진해해천고가 완치율 유의 개선, 풍한형에서 효과 |
-| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험(RCT) | 162 | 중간 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률(72.2%)·소실 시간 개선 |
-| Modulating the lung-gut axis: Xie Bai Zeng Ye decoction in children with post-infectious cough | 임상시험(RCT) | 116 | 중간 | 10.1097/MD.0000000000045819 | 사백증액탕이 기침 완화·삶의 질·장내 미생물 개선 |
-| Effect of the maxing huoqiao granule on nonsevere community-acquired pneumonia | 임상시험(RCT) | 96 | 중간 | 10.1016/j.phrs.2026.108186 | 마행곽교과립이 14일차 완치율(68.97%)·기침 회복 단축 |
-| [Effect of modified painless wheat-grain blistering moxibustion on CVA of wind cold attacking the lung] | 임상시험(RCT) | 94 | 중간 | 10.13703/j.0255-2930.20250301-k0001 | 맥립화농구가 증상·폐 기능·IgE·IL-6 개선, 유효율 95.7% |
+| Chinese medicinal herbs for acute bronchitis | 체계적 고찰 | - | 중등도 | 10.1002/14651858.CD004560.pub2 | 중약이 급성 기관지염 기침·발열 기간 단축, 안전성 확인 필요 |
+| Chinese Herbal Medicine for Postinfectious Cough: A Systematic Review of RCTs | 체계적 고찰 | - | 중등도 | 10.1155/2013/906765 | 중약이 감염 후 기침 증상·진해 효과·삶의 질 개선 |
+| The Effect of Banhasasim-tang in Cough: A Systematic Review and Meta-analysis | 메타분석 | - | 중등도 | 10.22246/jikm.2021.42.3.385 | 반하사심탕이 기침 완화·폐 기능 개선 |
+| Treatment of cough and dyspnea due to acute bronchitis by plaster | 임상시험(RCT) | 1,158 | 중등도 | PMID 11977523 | 진해해천고가 완치율 유의 개선, 풍한형에서 효과 |
+| Bairui granules versus Reyanning granules in adults with acute bronchitis | 임상시험(RCT) | 162 | 중등도 | 10.3389/fphar.2026.1860478 | 백유과립이 기침 소실률(72.2%)·소실 시간 개선 |
+| Modulating the lung-gut axis: Xie Bai Zeng Ye decoction in children with post-infectious cough | 임상시험(RCT) | 116 | 중등도 | 10.1097/MD.0000000000045819 | 사백증액탕이 기침 완화·삶의 질·장내 미생물 개선 |
+| Effect of the maxing huoqiao granule on nonsevere community-acquired pneumonia | 임상시험(RCT) | 96 | 중등도 | 10.1016/j.phrs.2026.108186 | 마행곽교과립이 14일차 완치율(68.97%)·기침 회복 단축 |
+| [Effect of modified painless wheat-grain blistering moxibustion on CVA of wind cold attacking the lung] | 임상시험(RCT) | 94 | 중등도 | 10.13703/j.0255-2930.20250301-k0001 | 맥립화농구가 증상·폐 기능·IgE·IL-6 개선, 유효율 95.7% |
 | Clinical Efficacy of Acupuncture as Adjunctive Therapy for Cough Variant Asthma (Protocol) | 임상시험(프로토콜) | 88 | 낮음 | 10.2147/JAA.S586197 | CVA 표준 치료에 침 병행 예비 효능 검증 예정 |
-| The Effect of Kechuanting Acupoint Application on Chronic Cough | 임상시험(RCT) | 85 | 중간 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 기침 증상·삶의 질 개선 |
-| Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia | 임상시험(RCT) | 160 | 중간 | 10.1111/crj.70204 | 연화청각정이 소실률(85.9%)·기침·가래 완화율 개선 |
-| Efficacy and Safety of a Single Ivy Extract in Acute Bronchitis | 임상시험(RCT) | 325 | 중간 | 10.3390/ph18050754 | 아이비 추출물 EA 575가 복합 제제 대비 우월·안전 |
-| A pilot study of bakumondoto for cough in patients with COPD | 임상시험(RCT) | 24 | 중간 | 10.1016/j.phymed.2010.11.006 | 맥문동탕이 COPD 기침 강도(VAS) 유의 감소 |
-| Antitussive effect of bakumondoto for post-infectious prolonged cough | 임상시험(RCT) | 19 | 중간 | 10.1016/j.phymed.2011.02.017 | 맥문동탕이 감염 후 기침 초기 진해 효과 |
+| The Effect of Kechuanting Acupoint Application on Chronic Cough | 임상시험(RCT) | 85 | 중등도 | 10.53469/jcmp.2025.07(11).09 | 지해천정 혈위첩부가 기침 증상·삶의 질 개선 |
+| Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia | 임상시험(RCT) | 160 | 중등도 | 10.1111/crj.70204 | 연화청각정이 소실률(85.9%)·기침·가래 완화율 개선 |
+| Efficacy and Safety of a Single Ivy Extract in Acute Bronchitis | 임상시험(RCT) | 325 | 중등도 | 10.3390/ph18050754 | 아이비 추출물 EA 575가 복합 제제 대비 우월·안전 |
+| A pilot study of bakumondoto for cough in patients with COPD | 임상시험(RCT) | 24 | 중등도 | 10.1016/j.phymed.2010.11.006 | 맥문동탕이 COPD 기침 강도(VAS) 유의 감소 |
+| Antitussive effect of bakumondoto for post-infectious prolonged cough | 임상시험(RCT) | 19 | 중등도 | 10.1016/j.phymed.2011.02.017 | 맥문동탕이 감염 후 기침 초기 진해 효과 |
 | Herbal Medicine Maekmundong-Tang on Nonspecific Chronic Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/ijerph20054164 | 비특이적 만성 기침 맥문동탕 RCT 프로토콜 |
 | Efficacy, Safety and Economic Evaluation of Wolbigachul-Tang for UACS Cough (Protocol) | 임상시험(프로토콜) | 30 | 낮음 | 10.3390/healthcare11202733 | UACS 만성 기침 월비가출탕 RCT 프로토콜 |
 | Acupuncture therapy for subacute and chronic cough in adults: systematic review and meta analysis | 메타분석(프로토콜) | - | 낮음 | 10.37766/inplasy2022.7.0110 | 아급성·만성 기침 침 요법 메타분석 프로토콜 |

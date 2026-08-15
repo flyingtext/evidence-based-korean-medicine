@@ -163,7 +163,7 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | Meta-analysis of the Effectiveness of Acupuncture Treatment in Shoulder Pain | 메타분석 | 365 | 높음 | 10.32996/jmhs.2024.5.4.15 | 침이 VAS 유의 감소, 연령·성별 무관 효과, 남성에서 효과 높음 |
-| The Efficacy of Acupuncture on Shoulder for Pain Intensity, Functional Status, and General Quality of Life in Adults | 체계적 고찰 | 748 | 중간 | 10.1177/19336586251399629 | 침 단독이 통증·기능 개선에 효과적·안전, 근거 질 낮음 |
+| The Efficacy of Acupuncture on Shoulder for Pain Intensity, Functional Status, and General Quality of Life in Adults | 체계적 고찰 | 748 | 중등도 | 10.1177/19336586251399629 | 침 단독이 통증·기능 개선에 효과적·안전, 근거 질 낮음 |
 | Effectiveness of Balance Acupuncture for the Pain in Neck-Shoulder-Low back-Legs | 메타분석 | 816 | 높음 | 10.1515/tcm-2015-0002 | 평형침이 전통 침보다 통증 완화 우수, 안전 |
 | Effects of acupuncture on shoulder impingement syndrome | 메타분석 | - | 높음 | 10.1097/MD.0000000000039696 | 수기 침이 SIS 통증·기능·장애 개선, 단기 치료에도 유효 |
 | Effects of Trigger Point Dry Needling for Nontraumatic Shoulder Pain | 메타분석 | - | 높음 | 10.1093/ptj/pzaa216 | 통점 건침이 통증 소폭 감소·장애 크게 개선, 단기 효과 |
@@ -171,43 +171,43 @@
 | Pharmacoacupuncture for the Treatment of Frozen Shoulder | 메타분석 | 1034 | 높음 | 10.1007/s11916-024-01298-4 | 약침이 통증·가동성·ADL·삶의 질 개선, 봉독 과민반응 주의 |
 | Different Acupuncture Treatments for Myofascial Pain Syndrome in Neck or Shoulder | 메타분석 | 2424 | 높음 | 10.2147/JPR.S543756 | 내열침이 가장 우수, 뜸·침뜸 병행도 높은 효과 |
 | Effectiveness of bee venom acupuncture in alleviating post-stroke shoulder pain | 메타분석 | 86 | 높음 | 10.1016/S2095-4964(15)60178-9 | 봉침이 생리식염수 대비 통증 완화 유의, 연구 질 낮음 |
-| Bee Venom Acupuncture for Shoulder Pain: A Systematic Review and Meta-analysis | 메타분석 | - | 중간 | 10.3831/KPI.2020.23.008 | 봉침이 일반 치료 병행 시 VAS·PRS 개선, 물리치료 병행은 불명 |
+| Bee Venom Acupuncture for Shoulder Pain: A Systematic Review and Meta-analysis | 메타분석 | - | 중등도 | 10.3831/KPI.2020.23.008 | 봉침이 일반 치료 병행 시 VAS·PRS 개선, 물리치료 병행은 불명 |
 | Spinal manipulation does not improve short-term pain and function in painful shoulder | 메타분석 | 441 | 높음 | 10.1080/09638288.2024.2322025 | 척추 고속저진폭 추나가 단기 통증·기능 개선에 유의한 효과 없음 |
 | The effects of different types of thoracic manual therapy for shoulder dysfunction | 메타분석 | 508 | 높음 | 10.1016/j.msksp.2026.103565 | 흉추 수기 치료가 통증·장애 감소, 충돌증후군에 Maitland 가동술 유효 |
-| Acupuncture for soft tissue shoulder disorders: a series of 201 cases | 관찰연구 | 201 | 중간 | 10.1136/aim.21.1-2.18 | 침·뜸·이침 병행, 93.5% 긍정적 결과 |
-| Effectiveness of motion style acupuncture treatment for shoulder disorders | 관찰연구 | 80 | 중간 | 10.1016/j.explore.2023.04.011 | MSAT가 가동 범위·통증·장애 개선, 3개월까지 유지 |
-| Survey of Korean Medicine Doctors' Practices in Treating Shoulder Pain | 관찰연구 | - | 중간 | 10.3390/healthcare13131482 | 한의사가 침·약침·부항·추나·한약 병행, KCPG 최신화 필요 |
-| Effect of Acupuncture at Myofascial Trigger Points Combined with Injection on Periarthritis of the Shoulder | 관찰연구 | 75 | 중간 | 10.1177/03601293261443711 | 유발점 침과 주사 병행이 통증·ROM·CMS 개선에 우수 |
-| A pilot study of ultrasound-guided acupotomy for the treatment of frozen shoulder | 관찰연구 | 36 | 중간 | 10.1097/md.0000000000017632 | 초음파 도침과 체외충격파 병행이 통증·기능 개선 |
-| Characteristics of Acupoints for Positive Reaction During Treatment of Neck, Shoulder, Low Back, Leg Pain with Balance Acupuncture | 관찰연구 | 426 | 중간 | 10.1177/03601293251386542 | 혈위 반응률이 성별·질환 기간과 연관, 정밀 진단·치료 가능 |
-| Warm Needling Therapy at Meridian-Sinew Sites for Hemiplegic Shoulder Pain | 임상시험 | 124 | 중간 | 10.1155/2015/694973 | 경근혈 온침이 VAS·ROM 개선, 3개월까지 유지 |
-| Dry needling has lasting analgesic effect in shoulder pain | 임상시험 | 41 | 중간 | 10.1097/PR9.0000000000000939 | 건침이 가짜 침 대비 통증 감소, 7일까지 지속 |
-| Efficacy of Dry Needling Under EMG Guidance for Myofascial Neck and Shoulder Pain | 임상시험 | 30 | 중간 | 10.2147/JPR.S372074 | EMG 유도 건침이 통증 개선 유지 효과 우수 |
-| The effect of rotator cuff trigger points dry needling on stability and function | 임상시험 | 44 | 중간 | 10.1016/j.jht.2025.04.005 | 회전근개 유발점 건침이 통증·안정성·기능 개선 |
-| The effect of dry needling & muscle energy technique in shoulder impingement | 임상시험 | 39 | 중간 | 10.1016/j.jbmt.2020.12.030 | 건침이 외전·굴곡 ROM 개선에 MET보다 우수 |
-| Changes in Muscle Tone, Function, and Pain in the Chronic Hemiparetic Shoulder after Dry Needling | 임상시험 | 19 | 중간 | 10.1093/pm/pnaa132 | 유발점 내 건침이 통증 감소 우수, 6주까지 유지 |
-| Post-needling soreness and trigger point dry needling for hemiplegic shoulder pain | 임상시험 | 16 | 중간 | 10.1177/0964528419882941 | 건침 병행이 통증 감소에 유효, 시술 후 통증 72시간 내 소실 |
-| Efficacy of Deep Dry Needling on Latent Myofascial Trigger Points in Older Adults | 임상시험 | 20 | 중간 | 10.1519/jpt.0000000000000048 | 잠재 유발점 포함 심부 건침이 원위 압통 역치 개선 |
-| Physiotherapy, Local Acupuncture, and Auricular Acupuncture for Frozen Shoulder | 임상시험 | 116 | 중간 | 10.1097/tgr.0000000000000380 | 이침이 통증·장애 개선에 물리치료보다 우수 |
-| Electroacupuncture at neuro-arterial stimulation points for post-stroke shoulder-hand syndrome | 임상시험 | 72 | 중간 | 10.13703/j.0255-2930.20240823-k0003 | 전침이 SHS 통증·부종 개선에 소염진통제보다 우수 |
-| [Clinical trials of acupuncture treatment of post-stroke shoulder pain] | 임상시험 | 80 | 중간 | 10.13702/j.1000-0607.180025 | 조신지통 침법이 통증·기능·ADL 개선, 진통 호르몬 증가 |
-| [Therapeutic effect observation of post-stroke shoulder pain with touching-periosteum needling] | 임상시험 | 106 | 중간 | 10.13703/j.0255-2930.2017.10.002 | 골막자극침이 통증·상지 기능 개선에 일반 침보다 우수 |
-| The Effectiveness of Cupping Therapy on Relieving Chronic Neck and Shoulder Pain | 임상시험 | 60 | 중간 | 10.1155/2016/7358918 | 부항이 표면 온도 상승·통증 유의 감소 |
-| The effect of traditional wet cupping on shoulder pain and neck pain | 임상시험 | 61 | 중간 | 10.1016/j.ctcp.2016.02.003 | 습식 부항이 통증 유의 감소 |
-| Comparison of the Effects of Body Acupressure and Ear Acupressure on Shoulder Pain | 임상시험 | 101 | 중간 | 10.18502/tim.v8i4.14485 | 이침·신체 지압 모두 수술 후 어깨 통증 감소, 이침이 더 빠름 |
-| Needle contact test in auricular acupuncture for shoulder pain | 임상시험 | 45 | 중간 | 10.4081/ejtm.2023.11113 | 이혈 선택 이침이 극상근 건병증 통증·ROM 개선 |
-| Reduced Pain by Mind-Body Intervention for Shoulder Pain | 임상시험 | 65 | 중간 | 10.1155/2022/6149052 | 심신 중재가 통증·가동 범위 즉각 개선 |
-| The effects of dry needling on muscle blood flow of the infraspinatus | 임상시험 | 40 | 중간 | 10.1080/10669817.2025.2464542 | 건침이 극하근 혈류 개선·ROM 증가, PPT는 단회 효과 미흡 |
-| Relief of chronic neck and shoulder pain by manual acupuncture to tender points | 임상시험 | 34 | 중간 | 10.1016/s0965-2299(02)00082-1 | 압통점 침이 단기 통증·압통 역치 개선, 장기 우월성 불명 |
-| Differences Between Effectiveness Of Inmas Acupuncture And Local Points In Back And Shoulder Pain | 임상시험 | 30 | 중간 | 10.37341/jkf.v0i0.251 | INMAS 침이 국소 침보다 통증·삶의 질 개선에 우수 |
+| Acupuncture for soft tissue shoulder disorders: a series of 201 cases | 관찰연구 | 201 | 중등도 | 10.1136/aim.21.1-2.18 | 침·뜸·이침 병행, 93.5% 긍정적 결과 |
+| Effectiveness of motion style acupuncture treatment for shoulder disorders | 관찰연구 | 80 | 중등도 | 10.1016/j.explore.2023.04.011 | MSAT가 가동 범위·통증·장애 개선, 3개월까지 유지 |
+| Survey of Korean Medicine Doctors' Practices in Treating Shoulder Pain | 관찰연구 | - | 중등도 | 10.3390/healthcare13131482 | 한의사가 침·약침·부항·추나·한약 병행, KCPG 최신화 필요 |
+| Effect of Acupuncture at Myofascial Trigger Points Combined with Injection on Periarthritis of the Shoulder | 관찰연구 | 75 | 중등도 | 10.1177/03601293261443711 | 유발점 침과 주사 병행이 통증·ROM·CMS 개선에 우수 |
+| A pilot study of ultrasound-guided acupotomy for the treatment of frozen shoulder | 관찰연구 | 36 | 중등도 | 10.1097/md.0000000000017632 | 초음파 도침과 체외충격파 병행이 통증·기능 개선 |
+| Characteristics of Acupoints for Positive Reaction During Treatment of Neck, Shoulder, Low Back, Leg Pain with Balance Acupuncture | 관찰연구 | 426 | 중등도 | 10.1177/03601293251386542 | 혈위 반응률이 성별·질환 기간과 연관, 정밀 진단·치료 가능 |
+| Warm Needling Therapy at Meridian-Sinew Sites for Hemiplegic Shoulder Pain | 임상시험 | 124 | 중등도 | 10.1155/2015/694973 | 경근혈 온침이 VAS·ROM 개선, 3개월까지 유지 |
+| Dry needling has lasting analgesic effect in shoulder pain | 임상시험 | 41 | 중등도 | 10.1097/PR9.0000000000000939 | 건침이 가짜 침 대비 통증 감소, 7일까지 지속 |
+| Efficacy of Dry Needling Under EMG Guidance for Myofascial Neck and Shoulder Pain | 임상시험 | 30 | 중등도 | 10.2147/JPR.S372074 | EMG 유도 건침이 통증 개선 유지 효과 우수 |
+| The effect of rotator cuff trigger points dry needling on stability and function | 임상시험 | 44 | 중등도 | 10.1016/j.jht.2025.04.005 | 회전근개 유발점 건침이 통증·안정성·기능 개선 |
+| The effect of dry needling & muscle energy technique in shoulder impingement | 임상시험 | 39 | 중등도 | 10.1016/j.jbmt.2020.12.030 | 건침이 외전·굴곡 ROM 개선에 MET보다 우수 |
+| Changes in Muscle Tone, Function, and Pain in the Chronic Hemiparetic Shoulder after Dry Needling | 임상시험 | 19 | 중등도 | 10.1093/pm/pnaa132 | 유발점 내 건침이 통증 감소 우수, 6주까지 유지 |
+| Post-needling soreness and trigger point dry needling for hemiplegic shoulder pain | 임상시험 | 16 | 중등도 | 10.1177/0964528419882941 | 건침 병행이 통증 감소에 유효, 시술 후 통증 72시간 내 소실 |
+| Efficacy of Deep Dry Needling on Latent Myofascial Trigger Points in Older Adults | 임상시험 | 20 | 중등도 | 10.1519/jpt.0000000000000048 | 잠재 유발점 포함 심부 건침이 원위 압통 역치 개선 |
+| Physiotherapy, Local Acupuncture, and Auricular Acupuncture for Frozen Shoulder | 임상시험 | 116 | 중등도 | 10.1097/tgr.0000000000000380 | 이침이 통증·장애 개선에 물리치료보다 우수 |
+| Electroacupuncture at neuro-arterial stimulation points for post-stroke shoulder-hand syndrome | 임상시험 | 72 | 중등도 | 10.13703/j.0255-2930.20240823-k0003 | 전침이 SHS 통증·부종 개선에 소염진통제보다 우수 |
+| [Clinical trials of acupuncture treatment of post-stroke shoulder pain] | 임상시험 | 80 | 중등도 | 10.13702/j.1000-0607.180025 | 조신지통 침법이 통증·기능·ADL 개선, 진통 호르몬 증가 |
+| [Therapeutic effect observation of post-stroke shoulder pain with touching-periosteum needling] | 임상시험 | 106 | 중등도 | 10.13703/j.0255-2930.2017.10.002 | 골막자극침이 통증·상지 기능 개선에 일반 침보다 우수 |
+| The Effectiveness of Cupping Therapy on Relieving Chronic Neck and Shoulder Pain | 임상시험 | 60 | 중등도 | 10.1155/2016/7358918 | 부항이 표면 온도 상승·통증 유의 감소 |
+| The effect of traditional wet cupping on shoulder pain and neck pain | 임상시험 | 61 | 중등도 | 10.1016/j.ctcp.2016.02.003 | 습식 부항이 통증 유의 감소 |
+| Comparison of the Effects of Body Acupressure and Ear Acupressure on Shoulder Pain | 임상시험 | 101 | 중등도 | 10.18502/tim.v8i4.14485 | 이침·신체 지압 모두 수술 후 어깨 통증 감소, 이침이 더 빠름 |
+| Needle contact test in auricular acupuncture for shoulder pain | 임상시험 | 45 | 중등도 | 10.4081/ejtm.2023.11113 | 이혈 선택 이침이 극상근 건병증 통증·ROM 개선 |
+| Reduced Pain by Mind-Body Intervention for Shoulder Pain | 임상시험 | 65 | 중등도 | 10.1155/2022/6149052 | 심신 중재가 통증·가동 범위 즉각 개선 |
+| The effects of dry needling on muscle blood flow of the infraspinatus | 임상시험 | 40 | 중등도 | 10.1080/10669817.2025.2464542 | 건침이 극하근 혈류 개선·ROM 증가, PPT는 단회 효과 미흡 |
+| Relief of chronic neck and shoulder pain by manual acupuncture to tender points | 임상시험 | 34 | 중등도 | 10.1016/s0965-2299(02)00082-1 | 압통점 침이 단기 통증·압통 역치 개선, 장기 우월성 불명 |
+| Differences Between Effectiveness Of Inmas Acupuncture And Local Points In Back And Shoulder Pain | 임상시험 | 30 | 중등도 | 10.37341/jkf.v0i0.251 | INMAS 침이 국소 침보다 통증·삶의 질 개선에 우수 |
 | A Case Report on Post-Stroke Shoulder Pain Treated with Acupotomy | 증례 | 1 | 낮음 | 10.13048/jkm.25042 | 도침 중심 한방 치료가 NRS 10→3, SPADI 121→28로 개선 |
 | One-time relieving of frozen shoulder motor dysfunction with pure acupotomy | 증례 | 1 | 낮음 | 10.1097/md.0000000000036783 | 단회 순수 도침이 가동 범위 즉각 회복·통증 감소 |
 | Acupuncture Treatment for Piriformis Syndrome Following Lumbar Discectomy | 증례 | 1 | 낮음 | 10.1089/acu.2010.0739 | 침이 수술 후 통증 관리에 유효 |
 | Efficacy of dry needling on latent myofascial trigger points in neck/shoulders pain | 증례 | 8 | 낮음 | 10.1016/j.sjpain.2017.04.029 | 건침이 신경 압통 역치 개선, 악력 변화는 미미 |
-| Dry Needling in Overhead Athletes with Myofascial Shoulder Pain | 체계적 고찰 | - | 중간 | 10.3390/sports12060156 | 건침이 선수 어깨 통증·기능·근력 단기 개선 |
-| Interventions for Post-Stroke Shoulder Pain: An Overview of Systematic Reviews | 체계적 고찰 | - | 중간 | 10.2147/IJGM.S200929 | 침·보툴리눔·전기자극 등 통증 감소 유효, 연구 규모 작음 |
+| Dry Needling in Overhead Athletes with Myofascial Shoulder Pain | 체계적 고찰 | - | 중등도 | 10.3390/sports12060156 | 건침이 선수 어깨 통증·기능·근력 단기 개선 |
+| Interventions for Post-Stroke Shoulder Pain: An Overview of Systematic Reviews | 체계적 고찰 | - | 중등도 | 10.2147/IJGM.S200929 | 침·보툴리눔·전기자극 등 통증 감소 유효, 연구 규모 작음 |
 | Therapeutic effects of cupping therapy in frozen shoulder | 문헌고찰 | - | 낮음 | 10.56735/saltjsrh.ms2101023537 | 부항이 오십견 통증 관리에 보조 유효, 근거 부족 |
-| Traditional, Complementary, and Alternative Medicine for Self-Care in Chronic Neck and Shoulder Pain | 체계적 고찰 | - | 중간 | 10.3390/nursrep16020044 | TCAM 자기관리가 신체 통증 관리 중심, 심리·사회 접근 부족 |
+| Traditional, Complementary, and Alternative Medicine for Self-Care in Chronic Neck and Shoulder Pain | 체계적 고찰 | - | 중등도 | 10.3390/nursrep16020044 | TCAM 자기관리가 신체 통증 관리 중심, 심리·사회 접근 부족 |
 
 ## 임상 적용
 

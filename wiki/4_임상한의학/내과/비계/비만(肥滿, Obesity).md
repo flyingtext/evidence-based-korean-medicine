@@ -90,30 +90,30 @@
 | Comparison of efficacy of acupuncture-related therapy in the treatment of perimenopausal obesity | 메타분석 | 1268 | 높음 | 10.3389/fmed.2025.1642421 / 41377806 | 폐경전기 비만에 매선·전침·온침이 각각 BMI·허리둘레·체지방률 개선 |
 | Traditional herbal medicine for obesity-related polycystic ovary syndrome: a meta-analysis | 메타분석 | 5308 | 높음 | 10.3389/fphar.2025.1738172 / 41640680 | 비만성 PCOS에 한약 병용이 임신율·BMI·인슐린 저항성 개선 |
 | Efficacy and safety of ephedra-containing oral medications: a systematic review, meta-analysis | 메타분석 | - | 높음 | 10.3389/fphar.2024.1397247 / 39539620 | 마황 함유 약제가 BMI·체중·허리둘레 감소, 모니터링 하에 안전 |
-| Acupuncture Therapies for Individuals with Overweight or Obesity: An Overview of Systematic Reviews | 체계적 고찰 | - | 중간 | 10.2147/DMSO.S356853 / 35669360 | 침·이침이 체중·BMI 감소에 유익, 매선·복침 근거 부족 |
-| Acupoint catgut embedding for the treatment of obesity in adults | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000014610 | 성인 비만 매선요법 유효성·안전성 평가 프로토콜 |
-| Effects of cupping therapy for obesity | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000027701 | 부항요법 비만 효과 체계적 검토 프로토콜 |
-| Comprehensive traditional East Asian medicine treatment strategy for obesity | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000028673 | 전통 동아시아 의학 비만 치료 전략 네트워크 메타분석 프로토콜 |
-| Traditional Chinese Medicine for childhood obesity: an umbrella review of systematic reviews | 체계적 고찰 | - | 중간 | 10.3389/fmed.2025.1699072 / 41234903 | 한약·침·뜸·부항·지압이 소아 비만 BMI·체중·대사 지표 개선 |
-| A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders | 체계적 고찰 | - | 중간 | 10.1089/acm.2016.0177 / 27754711 | 태음인이 대사증후군 유병률 높음, 체질별 맞춤 예방 필요 |
-| Clinical efficacy of simple obesity treated by catgut implantation at acupoints | 임상시험 | 820 | 중간 | 10.1007/s11655-012-1215-7 / 23212565 | 매선이 5가지 변증 단순 비만에 체중·BMI·지질·혈당 개선, 위장실열형 최고 |
-| Electroacupuncture Reduces Waistline in Patients with Abdominal Obesity: A Randomized Controlled Trial | 임상시험 | 102 | 중간 | 10.2147/DMSO.S551806 / 41050180 | 전침이 복부 비만 허리둘레 감소, 24주까지 유지 |
-| Randomised Clinical Trial of Five Ear Acupuncture Points for the Treatment of Overweight | 임상시험 | 91 | 중간 | 10.1136/acupmed-2013-010435 | 이침 5혈위·기점 단독 모두 BMI·체중·체지방 감소 |
-| The Effects of Auricular and Body Acupuncture in Turkish Obese Female Patients | 임상시험 | 50 | 중간 | 10.3727/036012917x14908026364990 | 이침이 체침보다 체중 감량 효과 우수 |
-| Acupuncture and Psychotherapy in the Complex Treatment of Obesity | 임상시험 | 105 | 중간 | 10.1089/acu.2010.0753 | 침+심리치료 병행이 식단·운동 권고보다 체중·체지방 감량 우수 |
-| Effects of Ear Acupuncture Therapy for Obesity on the Depression of Obese Women | 임상시험 | 30 | 중간 | 10.1136/acupmed-2014-010626 | 이침이 비만 여성 체중 감소·우울 증상 완화 |
-| Changes In Serum Leptin And Nesfatin-1 Levels Measured Before And After Acupuncture | 임상시험 | 90 | 중간 | 10.3727/036012921x16321477053953 | 이침이 렙틴 감소·네스파틴-1 증가로 체중 감소 |
-| Transcutaneous Electrical Stimulation of Acupoints Changes Body Composition and Heart Rate Variability | 임상시험 | 49 | 중간 | 10.1093/ecam/nep145 | 족삼리·삼음교 경피전침이 폐경 후 여성 체성분·HRV 개선 |
-| Effect of Laser Acupoints on Hormonal Changes and Visceral Obesity in Postmenopausal Women | 임상시험 | 40 | 중간 | 10.18502/sjms.v21i1.18156 | 레이저침이 폐경 후 내장 비만 체중·BMI·허리둘레·인슐린 감소 |
-| Efficacy of electro-acupuncture at the main acupoints for weight reduction in Thai obese | 임상시험 | 30 | 중간 | 10.2478/abm-2010-0124 | 전침이 중년 여성 비만 체중 감소, 허증 비만에 더 효과적 |
-| Polyglycolic acid sutures embedded in abdominal acupoints for treatment of simple obesity | 임상시험 | 51 | 중간 | 10.1186/s13020-019-0258-5 | 복부 매선이 체중·BMI·복부 지방·대사 지표 개선 |
-| Efficacy of bofu-tsusho-san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance | 임상시험 | 81 | 중간 | 10.1111/j.1440-1681.2004.04056.x / 15479169 | 방풍통성산이 내당능 장애 비만 여성 체중·내장지방·인슐린 저항성 개선 |
-| Modulatory Effect of Eui-E-In-Tang on Serum Leptin Concentration in Obese Korean Females | 임상시험 | 41 | 중간 | 10.1155/2016/1894837 | 의이인탕이 비만 여성 혈청 렙틴 농도 감소 |
-| Intervention Study on the Efficacy and Safety of Platycodon grandiflorus Ethanol Extract | 임상시험 | 108 | 중간 | 10.3390/nu11102445 / 31615016 | 길경 추출물이 체지방량·체지방률·복부 지방 감소 |
-| An herbal supplement containing Ma Huang-Guarana for weight loss: a randomized, double-blind trial | 임상시험 | 67 | 중간 | 10.1038/sj.ijo.0801539 / 11319627 | 마황·과라나가 단기 체중·체지방 감소, 부작용 모니터링 필요 |
-| Effects of modified fasting therapy on tongue coating and gut microbiome in overweight | 임상시험 | 48 | 중간 | 10.3389/fnut.2025.1686416 / 41659802 | 수정 단식 요법이 체중·혈당·지질 개선, 설태·장내 미생물 변화 |
-| Auricular Acupressure in Relieving PONV and Promoting Gastrointestinal Function Recovery | 임상시험 | 95 | 중간 | 10.1007/s11695-024-07243-z / 38652438 | 이침 압박이 비만 수술 후 오심·구토 완화, 위장 기능 회복 촉진 |
-| Auricular Acupuncture Associated with Reduced Waist Circumference in Overweight Women | 임상시험 | 58 | 중간 | 10.1155/2019/6471560 / 31929817 | 이침이 과체중 여성 허리둘레 감소 |
+| Acupuncture Therapies for Individuals with Overweight or Obesity: An Overview of Systematic Reviews | 체계적 고찰 | - | 중등도 | 10.2147/DMSO.S356853 / 35669360 | 침·이침이 체중·BMI 감소에 유익, 매선·복침 근거 부족 |
+| Acupoint catgut embedding for the treatment of obesity in adults | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000014610 | 성인 비만 매선요법 유효성·안전성 평가 프로토콜 |
+| Effects of cupping therapy for obesity | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000027701 | 부항요법 비만 효과 체계적 검토 프로토콜 |
+| Comprehensive traditional East Asian medicine treatment strategy for obesity | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000028673 | 전통 동아시아 의학 비만 치료 전략 네트워크 메타분석 프로토콜 |
+| Traditional Chinese Medicine for childhood obesity: an umbrella review of systematic reviews | 체계적 고찰 | - | 중등도 | 10.3389/fmed.2025.1699072 / 41234903 | 한약·침·뜸·부항·지압이 소아 비만 BMI·체중·대사 지표 개선 |
+| A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders | 체계적 고찰 | - | 중등도 | 10.1089/acm.2016.0177 / 27754711 | 태음인이 대사증후군 유병률 높음, 체질별 맞춤 예방 필요 |
+| Clinical efficacy of simple obesity treated by catgut implantation at acupoints | 임상시험 | 820 | 중등도 | 10.1007/s11655-012-1215-7 / 23212565 | 매선이 5가지 변증 단순 비만에 체중·BMI·지질·혈당 개선, 위장실열형 최고 |
+| Electroacupuncture Reduces Waistline in Patients with Abdominal Obesity: A Randomized Controlled Trial | 임상시험 | 102 | 중등도 | 10.2147/DMSO.S551806 / 41050180 | 전침이 복부 비만 허리둘레 감소, 24주까지 유지 |
+| Randomised Clinical Trial of Five Ear Acupuncture Points for the Treatment of Overweight | 임상시험 | 91 | 중등도 | 10.1136/acupmed-2013-010435 | 이침 5혈위·기점 단독 모두 BMI·체중·체지방 감소 |
+| The Effects of Auricular and Body Acupuncture in Turkish Obese Female Patients | 임상시험 | 50 | 중등도 | 10.3727/036012917x14908026364990 | 이침이 체침보다 체중 감량 효과 우수 |
+| Acupuncture and Psychotherapy in the Complex Treatment of Obesity | 임상시험 | 105 | 중등도 | 10.1089/acu.2010.0753 | 침+심리치료 병행이 식단·운동 권고보다 체중·체지방 감량 우수 |
+| Effects of Ear Acupuncture Therapy for Obesity on the Depression of Obese Women | 임상시험 | 30 | 중등도 | 10.1136/acupmed-2014-010626 | 이침이 비만 여성 체중 감소·우울 증상 완화 |
+| Changes In Serum Leptin And Nesfatin-1 Levels Measured Before And After Acupuncture | 임상시험 | 90 | 중등도 | 10.3727/036012921x16321477053953 | 이침이 렙틴 감소·네스파틴-1 증가로 체중 감소 |
+| Transcutaneous Electrical Stimulation of Acupoints Changes Body Composition and Heart Rate Variability | 임상시험 | 49 | 중등도 | 10.1093/ecam/nep145 | 족삼리·삼음교 경피전침이 폐경 후 여성 체성분·HRV 개선 |
+| Effect of Laser Acupoints on Hormonal Changes and Visceral Obesity in Postmenopausal Women | 임상시험 | 40 | 중등도 | 10.18502/sjms.v21i1.18156 | 레이저침이 폐경 후 내장 비만 체중·BMI·허리둘레·인슐린 감소 |
+| Efficacy of electro-acupuncture at the main acupoints for weight reduction in Thai obese | 임상시험 | 30 | 중등도 | 10.2478/abm-2010-0124 | 전침이 중년 여성 비만 체중 감소, 허증 비만에 더 효과적 |
+| Polyglycolic acid sutures embedded in abdominal acupoints for treatment of simple obesity | 임상시험 | 51 | 중등도 | 10.1186/s13020-019-0258-5 | 복부 매선이 체중·BMI·복부 지방·대사 지표 개선 |
+| Efficacy of bofu-tsusho-san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance | 임상시험 | 81 | 중등도 | 10.1111/j.1440-1681.2004.04056.x / 15479169 | 방풍통성산이 내당능 장애 비만 여성 체중·내장지방·인슐린 저항성 개선 |
+| Modulatory Effect of Eui-E-In-Tang on Serum Leptin Concentration in Obese Korean Females | 임상시험 | 41 | 중등도 | 10.1155/2016/1894837 | 의이인탕이 비만 여성 혈청 렙틴 농도 감소 |
+| Intervention Study on the Efficacy and Safety of Platycodon grandiflorus Ethanol Extract | 임상시험 | 108 | 중등도 | 10.3390/nu11102445 / 31615016 | 길경 추출물이 체지방량·체지방률·복부 지방 감소 |
+| An herbal supplement containing Ma Huang-Guarana for weight loss: a randomized, double-blind trial | 임상시험 | 67 | 중등도 | 10.1038/sj.ijo.0801539 / 11319627 | 마황·과라나가 단기 체중·체지방 감소, 부작용 모니터링 필요 |
+| Effects of modified fasting therapy on tongue coating and gut microbiome in overweight | 임상시험 | 48 | 중등도 | 10.3389/fnut.2025.1686416 / 41659802 | 수정 단식 요법이 체중·혈당·지질 개선, 설태·장내 미생물 변화 |
+| Auricular Acupressure in Relieving PONV and Promoting Gastrointestinal Function Recovery | 임상시험 | 95 | 중등도 | 10.1007/s11695-024-07243-z / 38652438 | 이침 압박이 비만 수술 후 오심·구토 완화, 위장 기능 회복 촉진 |
+| Auricular Acupuncture Associated with Reduced Waist Circumference in Overweight Women | 임상시험 | 58 | 중등도 | 10.1155/2019/6471560 / 31929817 | 이침이 과체중 여성 허리둘레 감소 |
 | Korean medicine registry of herbal medicine for weight loss | 관찰연구 | 1000 | 낮음 | 10.1097/md.0000000000029407 | 한약 체중 감량 환자 임상 특성·안전성 레지스트리 |
 | Auricular Acupuncture with Beads Supports Sustained Weight Loss | 관찰연구 | 1362 | 낮음 | 10.21926/obm.icm.2004045 | 이침 비드가 체중 감량·유지에 효과적, 간식·포만감 개선 |
 | Korean Medicine with Self-monitoring for Weight Control | 관찰연구 | 118 | 낮음 | 10.13048/jkm.22008 | 한약+자가 모니터링이 체중 감소, 식단·식욕 자가 평가가 중요 |

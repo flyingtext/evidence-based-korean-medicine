@@ -168,32 +168,32 @@
 | Bee venom acupuncture for RA: a systematic review of RCTs | 체계적 고찰 | - | 높음 | 10.1136/bmjopen-2014-006140 / 25380812 | 봉침이 관절 통증·부종·ESR·CRP 개선, RCT 1건으로 근거 제한 |
 | Effectiveness and safety of bee venom pharmacopuncture for RA | 체계적 고찰(프로토콜) | - | 프로토콜 | 10.1136/bmjopen-2021-056545 / 35288390 | 봉독약침의 효과·안전성 평가 프로토콜 |
 | Bee venom acupuncture for RA: a systematic review protocol | 체계적 고찰(프로토콜) | - | 프로토콜 | 10.1136/bmjopen-2013-004602 / 24760349 | 봉침의 유효성·안전성 확인을 위한 프로토콜 |
-| Clinical randomized study of bee-sting therapy for RA | 임상시험 | 120 | 중간 | PMID 29888580 | 봉침이 MTX·Celecoxib와 유사한 유효성·안전성 |
-| Immunomodulatory effects of blood letting cupping therapy in RA | 임상시험 | 50 | 중간 | PMID 17977209 | 습식 부항+약물이 통증·관절 증상·ESR·CRP·RF·면역 조절 개선 |
-| Therapeutic effect of electroacupuncture combined with medicine on acute RA | 임상시험 | 146 | 중간 | PMID 16309047 | 전침+약물 병행이 약물 단독보다 유효율 높음 |
-| Clinical observation on treatment of RA with cake-separated mild moxibustion | 임상시험 | 60 | 중간 | PMID 16570441 | 부자 온구+약물이 유효율 향상·NSAIDs 감량 |
-| Clinical observation on needle-sticking method for RA of wind-cold-damp type | 임상시험 | 50 | 중간 | PMID 16739845 | 자입법이 호침보다 RF·압통 관절 수 개선 |
-| Clinical investigation of effects of bizhongxiao decoction (BZX) on RA | 임상시험 | 96 | 중간 | PMID 12212115 | 비중효탕이 MTX보다 증상 개선 속도·효과 우수 |
-| The effects of bizhongxiao decoction (BZX) on T-lymphocyte subsets | 임상시험 | 62 | 중간 | PMID 12536532 | 비중효탕이 CD4+/CD8+ 불균형 조절·면역 항상성 회복 |
-| A clinical study of Suogudan granule in the treatment of RA | 임상시험 | 90 | 중간 | 10.1007/BF02835785 / 16417774 | 수거단이 관절통·부종·ESR·RF·ASO 개선, 안전 |
-| Clinical study of qingluo tongbi granules for RA | 임상시험 | 118 | 중간 | PMID 15270253 | 청락통비가 음허락열형에 TWP보다 유효율·치유율 높음 |
-| TCM treatment of RA by supplementing the kidney and invigorating blood | 임상시험 | 82 | 중간 | PMID 16579083 | 보신활혈 처방이 중말기 RA 증상·혈액 점도 개선 |
-| Keishibukuryogan, a Kampo formula, decreases disease activity | 임상시험 | 16 | 중간 | 10.1093/ecam/nel025 / 16951720 | 계지복령환이 DAS28·sVCAM-1·지질 과산화물 감소 |
-| Clinical observation on small doses TWP combined with MTX | 임상시험 | 70 | 중간 | PMID 12575588 | 소량 TWP+MTX 병용이 증상·ESR·RF 개선, 부작용 감소 |
-| Intermediate and late RA treated by tonifying kidney, resolving phlegm | 임상시험 | 128 | 중간 | PMID 11038992 | 서관온경·청락과립이 왕비과립보다 완치율·유효율 높음 |
-| Correlations of clinical symptoms and treatment efficacy in RA | 임상시험 | 413 | 중간 | 10.3736/jcim20050604 / 16282050 | 중약 치료 시 관절통·압통이 효능과 상관관계 |
-| Analysis on symptomatic factors of RA and correlation with efficacy | 임상시험 | 413 | 중간 | PMID 16398426 | 한약이 양약과 유사한 관절 개선 + 허증 개선 우월 |
-| Predictive role of diagnostic information in RA treatment efficacy | 임상시험 | 397 | 중간 | 10.3736/jcim20070107 / 17214933 | 신경망 모델이 조조강직·부종 관절 수·RF·CRP로 반응 예측 |
-| Clinical observation on effects of leflunomid and total glucosides of paeony | 임상시험 | 80 | 중간 | PMID 16689008 | TGP+레플루노마이드 병용이 유효율·반응 속도 개선 |
-| Clinical observation on treatment of RA with biqi capsule | 임상시험 | 142 | 중간 | PMID 16548360 | 비기 캡슐이 기허혈어형에 유효율 91.4% |
-| TCM treatment for 40 cases of RA with channel blockage | 임상시험 | 60 | 중간 | PMID 14535175 | 음허경색형 처방이 관절 강직·악력·ESR 개선 |
-| Immunomodulatory effects of lingzhi and san-miao-san | 임상시험 | - | 중간 | 10.1080/08923970600815097 / 16873089 | 영지+삼묘산이 24주 후 IL-18 유도 감소 |
-| Suppressive effects of Stephania tetrandra on neutrophil function | 임상시험 | - | 중간 | 10.1002/ptr.1396 / 15103675 | 방풍등이 과립구 활성화 억제·염증 지표 개선 |
-| Study on gene expression of CD4+ among RA patients of cold/heat type | 실험연구 | - | 중간 | PMID 16970089 | 한열변증에 따른 유전자 발현 차이 확인 |
-| Use of complementary and alternative medicine by RA patients in Korea | 관찰연구 | 153 | 중간 | 10.1007/s10067-007-0646-6 / 17541497 | 한국 RA 환자 대다수가 한방 포함 보완대체요법 사용 |
-| Selected CAM therapies for arthritis-related pain | 체계적 고찰 | - | 중간 | 10.1097/00002508-200401000-00004 / 14668651 | RA 통증에 GLA가 강력한 효과 |
+| Clinical randomized study of bee-sting therapy for RA | 임상시험 | 120 | 중등도 | PMID 29888580 | 봉침이 MTX·Celecoxib와 유사한 유효성·안전성 |
+| Immunomodulatory effects of blood letting cupping therapy in RA | 임상시험 | 50 | 중등도 | PMID 17977209 | 습식 부항+약물이 통증·관절 증상·ESR·CRP·RF·면역 조절 개선 |
+| Therapeutic effect of electroacupuncture combined with medicine on acute RA | 임상시험 | 146 | 중등도 | PMID 16309047 | 전침+약물 병행이 약물 단독보다 유효율 높음 |
+| Clinical observation on treatment of RA with cake-separated mild moxibustion | 임상시험 | 60 | 중등도 | PMID 16570441 | 부자 온구+약물이 유효율 향상·NSAIDs 감량 |
+| Clinical observation on needle-sticking method for RA of wind-cold-damp type | 임상시험 | 50 | 중등도 | PMID 16739845 | 자입법이 호침보다 RF·압통 관절 수 개선 |
+| Clinical investigation of effects of bizhongxiao decoction (BZX) on RA | 임상시험 | 96 | 중등도 | PMID 12212115 | 비중효탕이 MTX보다 증상 개선 속도·효과 우수 |
+| The effects of bizhongxiao decoction (BZX) on T-lymphocyte subsets | 임상시험 | 62 | 중등도 | PMID 12536532 | 비중효탕이 CD4+/CD8+ 불균형 조절·면역 항상성 회복 |
+| A clinical study of Suogudan granule in the treatment of RA | 임상시험 | 90 | 중등도 | 10.1007/BF02835785 / 16417774 | 수거단이 관절통·부종·ESR·RF·ASO 개선, 안전 |
+| Clinical study of qingluo tongbi granules for RA | 임상시험 | 118 | 중등도 | PMID 15270253 | 청락통비가 음허락열형에 TWP보다 유효율·치유율 높음 |
+| TCM treatment of RA by supplementing the kidney and invigorating blood | 임상시험 | 82 | 중등도 | PMID 16579083 | 보신활혈 처방이 중말기 RA 증상·혈액 점도 개선 |
+| Keishibukuryogan, a Kampo formula, decreases disease activity | 임상시험 | 16 | 중등도 | 10.1093/ecam/nel025 / 16951720 | 계지복령환이 DAS28·sVCAM-1·지질 과산화물 감소 |
+| Clinical observation on small doses TWP combined with MTX | 임상시험 | 70 | 중등도 | PMID 12575588 | 소량 TWP+MTX 병용이 증상·ESR·RF 개선, 부작용 감소 |
+| Intermediate and late RA treated by tonifying kidney, resolving phlegm | 임상시험 | 128 | 중등도 | PMID 11038992 | 서관온경·청락과립이 왕비과립보다 완치율·유효율 높음 |
+| Correlations of clinical symptoms and treatment efficacy in RA | 임상시험 | 413 | 중등도 | 10.3736/jcim20050604 / 16282050 | 중약 치료 시 관절통·압통이 효능과 상관관계 |
+| Analysis on symptomatic factors of RA and correlation with efficacy | 임상시험 | 413 | 중등도 | PMID 16398426 | 한약이 양약과 유사한 관절 개선 + 허증 개선 우월 |
+| Predictive role of diagnostic information in RA treatment efficacy | 임상시험 | 397 | 중등도 | 10.3736/jcim20070107 / 17214933 | 신경망 모델이 조조강직·부종 관절 수·RF·CRP로 반응 예측 |
+| Clinical observation on effects of leflunomid and total glucosides of paeony | 임상시험 | 80 | 중등도 | PMID 16689008 | TGP+레플루노마이드 병용이 유효율·반응 속도 개선 |
+| Clinical observation on treatment of RA with biqi capsule | 임상시험 | 142 | 중등도 | PMID 16548360 | 비기 캡슐이 기허혈어형에 유효율 91.4% |
+| TCM treatment for 40 cases of RA with channel blockage | 임상시험 | 60 | 중등도 | PMID 14535175 | 음허경색형 처방이 관절 강직·악력·ESR 개선 |
+| Immunomodulatory effects of lingzhi and san-miao-san | 임상시험 | - | 중등도 | 10.1080/08923970600815097 / 16873089 | 영지+삼묘산이 24주 후 IL-18 유도 감소 |
+| Suppressive effects of Stephania tetrandra on neutrophil function | 임상시험 | - | 중등도 | 10.1002/ptr.1396 / 15103675 | 방풍등이 과립구 활성화 억제·염증 지표 개선 |
+| Study on gene expression of CD4+ among RA patients of cold/heat type | 실험연구 | - | 중등도 | PMID 16970089 | 한열변증에 따른 유전자 발현 차이 확인 |
+| Use of complementary and alternative medicine by RA patients in Korea | 관찰연구 | 153 | 중등도 | 10.1007/s10067-007-0646-6 / 17541497 | 한국 RA 환자 대다수가 한방 포함 보완대체요법 사용 |
+| Selected CAM therapies for arthritis-related pain | 체계적 고찰 | - | 중등도 | 10.1097/00002508-200401000-00004 / 14668651 | RA 통증에 GLA가 강력한 효과 |
 | Physical therapy and Oriental medicine applied to RA | 문헌고찰 | - | 낮음 | PMID 1588749 | 물리치료+침·뜸·한약 통합 병행이 기능 보존에 유용 |
-| Tai chi for rheumatoid arthritis: systematic review | 체계적 고찰 | - | 중간 | 10.1093/rheumatology/kem151 / 17634188 | 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증 |
+| Tai chi for rheumatoid arthritis: systematic review | 체계적 고찰 | - | 중등도 | 10.1093/rheumatology/kem151 / 17634188 | 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증 |
 | Advances of clinical studies of acupuncture and moxibustion for RA | 문헌고찰 | - | 낮음 | PMID 16312903 | 침·뜸의 임상 효능 종합 검토, 표준화 경혈 활용 |
 | Bee venom pharmacopuncture for symptom relief in RA in a tamoxifen user | 증례 | 1 | 낮음 | 10.1016/j.explore.2026.103457 / 42269206 | 타목시펜 사용 RA 환자에서 봉독약침 증상 완화 |
 

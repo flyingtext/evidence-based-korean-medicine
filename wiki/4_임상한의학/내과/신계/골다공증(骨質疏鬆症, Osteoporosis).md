@@ -104,23 +104,23 @@
 | Network Meta-analysis of Oral Chinese Patent Medicine in Treatment of Primary Osteoporosis | 메타분석 | - | 높음 | 10.1088/1742-6596/2400/1/012024 | 유효성엔 호골낭, BMD 개선엔 선령골보낭 병용이 우수 |
 | The correlation between traditional Chinese medicine constitution and primary osteoporosis | 메타분석 | - | 높음 | 10.1097/MD.0000000000039560 | 원발성 골다공증에서 양허·음허·기허 체질이 높음, 평형 체질은 보호 요인 |
 | Efficacy of acupuncture in the treatment of residual pain after osteoporotic vertebral compression fractures ... vertebroplasty | 임상시험(RCT) | 111 | 높음 | 10.2147/JPR.S598264 | 척추성형술 후 잔여 통증에 전침·부유침 효능·안전성 평가 프로토콜 |
-| Clinical study on treatment of postmenopausal osteoporosis by Yigu capsule | 임상시험(RCT) | 210 | 중간 | PMID [15366587](https://pubmed.ncbi.nlm.nih.gov/15366587/) | 의고캡슐이 요추·고관절 BMD 증가, 골통 완화, 척추 골절 예방 |
-| Overall adjustment acupuncture for postmenopausal osteoporosis (PMOP): a study protocol | 임상시험(RCT) | 104 | 중간 | 10.1186/s13063-020-04435-7 | 전신조절침이 BMD·에스트로겐 개선 평가 프로토콜 |
-| Effect of laser acupuncture on pain and density of bone in osteoporotic postmenopausal women | 임상시험(RCT) | 68 | 중간 | 10.1097/gme.0000000000002166 | 레이저 침+보충제가 전완부 BMD·손목 통증 개선에 유효 |
-| Clinical observation on the effect of warming meridian medicinal wine ... combined with acupuncture and moxibustion on pain after vertebroplasty | 임상시험(RCT) | 120 | 중간 | 10.19852/j.cnki.jtcm.2025.03.018 | 온경약주·침구 병용이 척추성형술 후 통증·요추 기능·수면 개선 |
-| [Combination of acupuncture with cupping increases life quality of patients of osteoporosis] | 임상시험 | 60 | 중간 | PMID [19127911](https://pubmed.ncbi.nlm.nih.gov/19127911/) | 온침·매화침·부항 복합 침구가 삶의 질 유의 개선 |
-| Clinical observation on treatment with the kidney-tonifying prescription in 25 cases of postmenopausal osteoporosis | 임상시험 | 45 | 중간 | PMID [12875064](https://pubmed.ncbi.nlm.nih.gov/12875064/) | 보신처방+양약이 양약 단독보다 유효율·BMD·E2 증가 |
-| [Clinical study of bugu shengsui capsule in treating primary osteoporosis with kidney-yang deficiency syndrome] | 임상시험 | - | 중간 | PMID [10322872](https://pubmed.ncbi.nlm.nih.gov/10322872/) | 신양허형에 보골생수캡슐이 VitD·Ca보다 유효율·BMD 우수 |
-| Evaluation of the clinical efficacy of Zhuanggu Zhitong Recipe in postmenopausal osteoporosis | 임상시험(RCT) | 100 | 중간 | 10.62347/YJOM9956 | 장골지통캡슐이 BMD·요통 개선, TRAP-5b 감소 |
-| Serum metabolomics analyses reveal biomarkers of osteoporosis and the mechanism of Quanduzhong capsules | 관찰연구 | 88 | 중간 | 10.1016/j.jpba.2024.116198 | 두충 기반 캡슐이 혈청 아미노산 대사 불균형 회복 |
-| The risk factors of osteoporotic vertebral compression fracture accompanied with thoracolumbar fascial injury | 관찰연구 | 489 | 중간 | 10.1038/s41598-025-27180-w | 고령·저골밀도·지연 진단·근육 지방 침윤이 TLF 손상 위험 |
-| Patterns of Traditional Korean Medicine and Western Medicine Utilization Among Women with Menopausal Disorders | 관찰연구 | 71,381 | 중간 | 10.13048/jkm.26010 | 병용 치료군이 더 복잡·고위험, 개인 맞춤형 통합 전략 필요 |
-| Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis | 관찰연구 | 2,283 | 중간 | 10.22246/jikm.2025.46.4.866 | 냉증 단독은 교란 보정 후 유의성 소실, 동반 기저질환 고려 필요 |
-| Moxibustion therapy for treating patients with primary osteoporosis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000018226 | 뜸 요법 유효성·안전성 평가 프로토콜 |
-| Acupoint injection treatment for primary osteoporosis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000016735 | 혈위 주입(약침) 유효성·안전성 평가 프로토콜 |
-| Efficacy and safety of Chinese herbal medicine Buzhong Yiqi decoction for postmenopausal women with osteoporosis | 체계적 고찰 | - | 중간 | 10.1097/md.0000000000031771 | 보중익기탕 폐경 후 골다공증 적용 평가 프로토콜 |
+| Clinical study on treatment of postmenopausal osteoporosis by Yigu capsule | 임상시험(RCT) | 210 | 중등도 | PMID [15366587](https://pubmed.ncbi.nlm.nih.gov/15366587/) | 의고캡슐이 요추·고관절 BMD 증가, 골통 완화, 척추 골절 예방 |
+| Overall adjustment acupuncture for postmenopausal osteoporosis (PMOP): a study protocol | 임상시험(RCT) | 104 | 중등도 | 10.1186/s13063-020-04435-7 | 전신조절침이 BMD·에스트로겐 개선 평가 프로토콜 |
+| Effect of laser acupuncture on pain and density of bone in osteoporotic postmenopausal women | 임상시험(RCT) | 68 | 중등도 | 10.1097/gme.0000000000002166 | 레이저 침+보충제가 전완부 BMD·손목 통증 개선에 유효 |
+| Clinical observation on the effect of warming meridian medicinal wine ... combined with acupuncture and moxibustion on pain after vertebroplasty | 임상시험(RCT) | 120 | 중등도 | 10.19852/j.cnki.jtcm.2025.03.018 | 온경약주·침구 병용이 척추성형술 후 통증·요추 기능·수면 개선 |
+| [Combination of acupuncture with cupping increases life quality of patients of osteoporosis] | 임상시험 | 60 | 중등도 | PMID [19127911](https://pubmed.ncbi.nlm.nih.gov/19127911/) | 온침·매화침·부항 복합 침구가 삶의 질 유의 개선 |
+| Clinical observation on treatment with the kidney-tonifying prescription in 25 cases of postmenopausal osteoporosis | 임상시험 | 45 | 중등도 | PMID [12875064](https://pubmed.ncbi.nlm.nih.gov/12875064/) | 보신처방+양약이 양약 단독보다 유효율·BMD·E2 증가 |
+| [Clinical study of bugu shengsui capsule in treating primary osteoporosis with kidney-yang deficiency syndrome] | 임상시험 | - | 중등도 | PMID [10322872](https://pubmed.ncbi.nlm.nih.gov/10322872/) | 신양허형에 보골생수캡슐이 VitD·Ca보다 유효율·BMD 우수 |
+| Evaluation of the clinical efficacy of Zhuanggu Zhitong Recipe in postmenopausal osteoporosis | 임상시험(RCT) | 100 | 중등도 | 10.62347/YJOM9956 | 장골지통캡슐이 BMD·요통 개선, TRAP-5b 감소 |
+| Serum metabolomics analyses reveal biomarkers of osteoporosis and the mechanism of Quanduzhong capsules | 관찰연구 | 88 | 중등도 | 10.1016/j.jpba.2024.116198 | 두충 기반 캡슐이 혈청 아미노산 대사 불균형 회복 |
+| The risk factors of osteoporotic vertebral compression fracture accompanied with thoracolumbar fascial injury | 관찰연구 | 489 | 중등도 | 10.1038/s41598-025-27180-w | 고령·저골밀도·지연 진단·근육 지방 침윤이 TLF 손상 위험 |
+| Patterns of Traditional Korean Medicine and Western Medicine Utilization Among Women with Menopausal Disorders | 관찰연구 | 71,381 | 중등도 | 10.13048/jkm.26010 | 병용 치료군이 더 복잡·고위험, 개인 맞춤형 통합 전략 필요 |
+| Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis | 관찰연구 | 2,283 | 중등도 | 10.22246/jikm.2025.46.4.866 | 냉증 단독은 교란 보정 후 유의성 소실, 동반 기저질환 고려 필요 |
+| Moxibustion therapy for treating patients with primary osteoporosis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000018226 | 뜸 요법 유효성·안전성 평가 프로토콜 |
+| Acupoint injection treatment for primary osteoporosis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000016735 | 혈위 주입(약침) 유효성·안전성 평가 프로토콜 |
+| Efficacy and safety of Chinese herbal medicine Buzhong Yiqi decoction for postmenopausal women with osteoporosis | 체계적 고찰 | - | 중등도 | 10.1097/md.0000000000031771 | 보중익기탕 폐경 후 골다공증 적용 평가 프로토콜 |
 | A Case Report of Complex Korean Medicine Treatment on Sacral Insufficiency Fracture | 증례 | 1 | 낮음 | 10.13045/jar.2020.00129 | 고령 골다공증성 천골 부전 골절에 한방 복합 치료가 통증·보행 회복 |
-| The Anti-Aging Benefits of Phytoestrogens: Insights and Evidence | 체계적 고찰 | - | 중간 | 10.2174/0109298673388265251016052311 | 식물성 에스트로겐이 골다공증 위험 감소에 유용, 과잉 시 주의 |
+| The Anti-Aging Benefits of Phytoestrogens: Insights and Evidence | 체계적 고찰 | - | 중등도 | 10.2174/0109298673388265251016052311 | 식물성 에스트로겐이 골다공증 위험 감소에 유용, 과잉 시 주의 |
 
 ## 경혈/처방 연관
 

@@ -70,26 +70,26 @@
 | 논문 제목 | 연구 유형 | 환자 수 | 근거 수준 | DOI/PMID | AI 임상 요약 |
 |---|---|---|---|---|---|
 | Acupotomy Therapy for Knee Osteoarthritis Pain: Systematic Review and Meta-Analysis | 메타분석 | 3021 | 높음 | 10.1155/2020/2168283 | 도침이 통증 유의 감소·기능 개선, 침·약물보다 우수. 주 1회 1~5주, 부작용 보고 없음 |
-| Chinese herbal medicine Du-Huo-Ji-Sheng-decoction for knee osteoarthritis | 메타분석 | - | 중간 | 10.1097/md.0000000000024413 | 독활기생탕의 유효성·안전성 근거 제시, 임상 처방 근거 제공 |
+| Chinese herbal medicine Du-Huo-Ji-Sheng-decoction for knee osteoarthritis | 메타분석 | - | 중등도 | 10.1097/md.0000000000024413 | 독활기생탕의 유효성·안전성 근거 제시, 임상 처방 근거 제공 |
 | The Effectiveness of Dry Needling in Patients with Hip or Knee Osteoarthritis | 메타분석 | 291 | 낮음 | 10.3390/life12101575 · PMID 36295010 | 드라이 니들링이 단기 통증·기능 개선, 중장기·근거 수준 낮음 |
-| Efficacy of Tui-na for Treatment of Osteoarthritis: A Systematic Review and Meta-analysis | 메타분석 | - | 중간 | 10.59565/001c.83234 | 추나가 통증·가동성·삶의 질 개선, 동물 모델 포함 유효 |
-| Efficacy and Safety of Acupoint Catgut Embedding for Knee Osteoarthritis: A Protocol for SR-MA | 체계적 고찰(프로토콜) | - | 중간 | 10.51507/j.jams.2024.17.2.76 · PMID 38686431 | 매선요법의 유효성·안전성 평가 프로토콜 |
-| Efficacy and safety of Chinese herbal medicine Danggui Sini decoction for knee osteoarthritis: A protocol | 체계적 고찰(프로토콜) | - | 중간 | 10.1097/md.0000000000031516 | 당귀사역탕의 유효성·안전성 평가 SR-MA 프로토콜 |
-| Effects of Acupressure on Psychological Symptoms in Chronic Disease Patients: A Scoping Review | 체계적 고찰(Scoping) | - | 중간 | 10.37287/ijghr.v7i1.4170 | 지압이 만성 질환 환자의 불안·우울·스트레스·불면 개선에 긍정적 |
-| Comparative efficacy and safety of Chinese herbal medicine for knee osteoarthritis: A protocol for SR-NMA | 체계적 고찰(프로토콜) | - | 중간 | 10.1097/MD.0000000000026671 · PMID 34398031 | 슬관절 OA에 중약 처방 비교 네트워크 메타분석 프로토콜 |
-| Clinical controlled study of Zhongyi Ointment for Kellgren-Lawrence grade II knee osteoarthritis | 임상시험 | 80 | 중간 | 10.12200/j.issn.1003-0034.20250486 · PMID 42087504 | 중의 연고가 WOMAC·가동 범위 개선, 3일 내 빠른 단기 효과·안전 |
-| Dry needling trigger points around knee and hip joints improves function in patients with mild to moderate knee osteoarthritis | 임상시험 | 40 | 중간 | 10.1016/j.jbmt.2021.04.011 · PMID 34391293 | 무릎·고관절 유발점 건침 3회가 통증·균형·기능 개선 |
-| Effects of dry needling in HIP muscles in patients with HIP osteoarthritis | 임상시험 | - | 중간 | 10.1016/j.msksp.2019.07.006 · PMID 31352178 | 고관절 주변 근육 건침이 고관절 OA 통증·기능 개선 |
+| Efficacy of Tui-na for Treatment of Osteoarthritis: A Systematic Review and Meta-analysis | 메타분석 | - | 중등도 | 10.59565/001c.83234 | 추나가 통증·가동성·삶의 질 개선, 동물 모델 포함 유효 |
+| Efficacy and Safety of Acupoint Catgut Embedding for Knee Osteoarthritis: A Protocol for SR-MA | 체계적 고찰(프로토콜) | - | 중등도 | 10.51507/j.jams.2024.17.2.76 · PMID 38686431 | 매선요법의 유효성·안전성 평가 프로토콜 |
+| Efficacy and safety of Chinese herbal medicine Danggui Sini decoction for knee osteoarthritis: A protocol | 체계적 고찰(프로토콜) | - | 중등도 | 10.1097/md.0000000000031516 | 당귀사역탕의 유효성·안전성 평가 SR-MA 프로토콜 |
+| Effects of Acupressure on Psychological Symptoms in Chronic Disease Patients: A Scoping Review | 체계적 고찰(Scoping) | - | 중등도 | 10.37287/ijghr.v7i1.4170 | 지압이 만성 질환 환자의 불안·우울·스트레스·불면 개선에 긍정적 |
+| Comparative efficacy and safety of Chinese herbal medicine for knee osteoarthritis: A protocol for SR-NMA | 체계적 고찰(프로토콜) | - | 중등도 | 10.1097/MD.0000000000026671 · PMID 34398031 | 슬관절 OA에 중약 처방 비교 네트워크 메타분석 프로토콜 |
+| Clinical controlled study of Zhongyi Ointment for Kellgren-Lawrence grade II knee osteoarthritis | 임상시험 | 80 | 중등도 | 10.12200/j.issn.1003-0034.20250486 · PMID 42087504 | 중의 연고가 WOMAC·가동 범위 개선, 3일 내 빠른 단기 효과·안전 |
+| Dry needling trigger points around knee and hip joints improves function in patients with mild to moderate knee osteoarthritis | 임상시험 | 40 | 중등도 | 10.1016/j.jbmt.2021.04.011 · PMID 34391293 | 무릎·고관절 유발점 건침 3회가 통증·균형·기능 개선 |
+| Effects of dry needling in HIP muscles in patients with HIP osteoarthritis | 임상시험 | - | 중등도 | 10.1016/j.msksp.2019.07.006 · PMID 31352178 | 고관절 주변 근육 건침이 고관절 OA 통증·기능 개선 |
 | Clinical Efficacy of Acupuncture for Knee Osteoarthritis and Associated Changes in Serum Lipidomics | 관찰연구 | 80 | 낮음 | 10.2147/JPR.S578343 · PMID 41727563 | 침이 통증·기능 개선, 지질 대사(PE·LPC·LPE·TG) 조절로 염증 완화 |
 | Analysis of gene expression in synovial fluid and blood of patients with knee osteoarthritis of Yang deficiency and blood stasis type | 관찰연구 | 80 | 낮음 | 10.12200/j.issn.1003-0034.20241087 · PMID 40898937 | 양허혈어형은 BMI·LDL·D-dimer 상승·HDL 저하, 지질 대사 유전자(PPARG 등) 발현 차이 |
 | Exploring the correlation between knee osteoarthritis and musculoskeletal ultrasound manifestations based on TCM syndrome types | 관찰연구 | 104 | 낮음 | 10.1097/MD.0000000000040718 · PMID 39612379 | 변증 유형에 따라 활막 혈류·삼출액 차이, 초음파의 변증 보조 지표 가능성 |
 | Clinical experience of JIAO Lin in treatment of knee osteoarthritis with manual mobilization of meridian muscle regions | 증례 | - | 낮음 | 10.13703/j.0255-2930.20231129-k0011 · PMID 38867632 | 경근 수기·침·뜸·부항 통합 치료로 관절 기능 개선 |
 | Siravedha and Knee Osteoarthritis: A Case Report | 증례 | 1 | 낮음 | PMID 39480673 | 방혈법이 통증·가동 범위·KOOS 개선, 중등도 OA에 보조적 적용 |
-| Minimal acupuncture is not a valid placebo control in randomised controlled trials of acupuncture | 문헌고찰 | - | 중간 | 10.1186/1749-8546-4-1 | 최소 침술은 생리학적으로 불활성 위약이 아님, 대조군 설정 주의 |
-| First-line treatment for osteoarthritis. Part 2: Nonpharmacologic interventions and evaluation | 문헌고찰 | - | 중간 | 10.1097/00006416-200111000-00004 · PMID 12025798 | 운동·침·지압·온열 등 비약물 요법이 OA 통증·기능 개선에 중요 |
+| Minimal acupuncture is not a valid placebo control in randomised controlled trials of acupuncture | 문헌고찰 | - | 중등도 | 10.1186/1749-8546-4-1 | 최소 침술은 생리학적으로 불활성 위약이 아님, 대조군 설정 주의 |
+| First-line treatment for osteoarthritis. Part 2: Nonpharmacologic interventions and evaluation | 문헌고찰 | - | 중등도 | 10.1097/00006416-200111000-00004 · PMID 12025798 | 운동·침·지압·온열 등 비약물 요법이 OA 통증·기능 개선에 중요 |
 | Acupuncture-induced gene co-expression networks in postmenopausal women with osteoarthritis and osteoporosis | 실험연구(in-silico) | - | 낮음 | 10.1097/hm9.0000000000000132 | 침이 면역·골 대사 관련 유전자 경로 조절, OA·골다공증에 긍정적 |
-| Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis | 임상시험 | - | 중간 | 10.3389/fphar.2021.745568 | 홍삼이 폐경 후 수부 OA 증상 개선에 긍정적 |
-| Electroacupuncture vs topical diclofenac sodium gel for patients with hand osteoarthritis | 임상시험 | - | 중간 | 10.1016/j.mayocp.2025.12.018 · PMID 42201269 | 수부 OA에 전침이 국소 디클로페낙 겔과 유사·우월한 효과 가능성 |
+| Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis | 임상시험 | - | 중등도 | 10.3389/fphar.2021.745568 | 홍삼이 폐경 후 수부 OA 증상 개선에 긍정적 |
+| Electroacupuncture vs topical diclofenac sodium gel for patients with hand osteoarthritis | 임상시험 | - | 중등도 | 10.1016/j.mayocp.2025.12.018 · PMID 42201269 | 수부 OA에 전침이 국소 디클로페낙 겔과 유사·우월한 효과 가능성 |
 
 ## 임상 적용
 

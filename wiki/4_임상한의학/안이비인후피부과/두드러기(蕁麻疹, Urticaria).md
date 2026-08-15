@@ -124,30 +124,30 @@
 | Acupuncture as a Treatment Modality in Dermatology: A Systematic Review | 체계적 고찰 | - | 높음 | 10.1089/acm.2014.0274 / 26115180 | 침이 두드러기 등 피부 질환에 유의미한 효과 |
 | Acupuncture in Dermatology: An Update to a Systematic Review | 체계적 고찰 | - | 높음 | 10.1089/acm.2020.0230 / 32955916 | 침이 두드러기·가려움증 개선에 유용 |
 | A Review of Acupuncture for Allergic Disorders: Modulation of Mast Cell Regulation | 체계적 고찰 | - | 높음 | 10.2147/IJGM.S579576 / 41459581 | 침이 비만세포 탈과립 억제·염증 사이토카인 조절 |
-| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중간 | 10.3390/jcm10081750 / 33920643 | 부항이 만성 두드러기 등 피부 질환에 잠재 이점 |
+| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중등도 | 10.3390/jcm10081750 / 33920643 | 부항이 만성 두드러기 등 피부 질환에 잠재 이점 |
 | Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000016127 / - | 자가혈·자가혈청 혈자리 주입 요법 평가 프로토콜 |
 | Acupoint injection of Bacillus Calmette–Guerin polysaccharide nucleic acid for patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000019924 / - | BCG-PSN 혈위 주사 평가 프로토콜 |
 | Bloodletting therapy for treating patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000014541 / - | 사혈 요법 유효성·안전성 평가 프로토콜 |
 | Acupoint catgut embedding for patients with chronic urticaria | 체계적 고찰 | - | 프로토콜 | 10.1097/md.0000000000016036 / - | 매선 요법 유효성·안전성 평가 프로토콜 |
 | The Effectiveness and Safety of Cupping Therapy on CV8 Shenque for Urticaria; a Protocol | 체계적 고찰 | - | 프로토콜 | 10.2147/JPR.S435991 / 38026451 | 신궐 부항 유효성·안전성 평가 프로토콜 |
 | Cupping for patients with chronic urticaria: A systematic review protocol | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000017115 / 31567949 | 부항 유효성·안전성 평가 프로토콜 |
-| Clinical Advantages of Phlebotomy: An Umbrella Review of Meta-Analyses | 체계적 고찰 | 5648 | 중간 | - / 39759207 | 사혈이 특정 피부·간 질환에 유의미한 개선 |
+| Clinical Advantages of Phlebotomy: An Umbrella Review of Meta-Analyses | 체계적 고찰 | 5648 | 중등도 | - / 39759207 | 사혈이 특정 피부·간 질환에 유의미한 개선 |
 | Efficacy evaluation of acupuncture combined with pricking blood therapy in the treatment of chronic spontaneous urticaria | 임상시험 | 70 | 높음 | 10.62347/XDHG7875 / 39544756 | 침+점자출혈이 가려움·불안·우울·삶의 질 개선 |
-| [Efficacy observation on acupuncture combined with bloodletting for chronic urticarial] | 임상시험 | 160 | 중간 | - / 24673054 | 침+사혈이 로라타딘과 유사한 효과, 부작용 없음 |
+| [Efficacy observation on acupuncture combined with bloodletting for chronic urticarial] | 임상시험 | 160 | 중등도 | - / 24673054 | 침+사혈이 로라타딘과 유사한 효과, 부작용 없음 |
 | Efficacy of Bloodletting Therapy in Patients with Chronic Idiopathic Urticaria | 임상시험 | 174 | 높음 | 10.1155/2020/6598708 / 33178321 | 에바스틴+사혈 병행이 유효율 유의 증가 |
-| [Chronic spontaneous urticaria treated with bloodletting therapy and auricular point sticking on the base of xuanfu theory] | 임상시험 | 86 | 중간 | 10.13703/j.0255-2930.20210719-0005 / 35152579 | 자락+이혈 압박이 레보세티리진과 유사, 재발률 낮음 |
-| [Effect on chronic urticaria and serum IL-4 and IgE in the patients treated with moving cupping therapy and autohemotherapy with acupoint inection] | 임상시험 | 104 | 중간 | - / 25876348 | 이동식 부항+자가혈액요법이 IL-4·IgE 감소, 재발률 저하 |
-| Multi-center study for acupuncture combined with Chinese medicine in the treatment of chronic spontaneous urticaria | 임상시험 | 111 | 중간 | 10.1097/MD.0000000000021266 / 32871985 | 당귀음자+수혈 침 병용이 CSU 악화기에 유효 |
-| Acupuncture and Moxibustion in the Treatment of Chronic Urticaria: A Case Control Study | 임상시험 | 60 | 중간 | 10.21203/rs.3.rs-927180/v1 / - | 침·뜸이 만성 두드러기 대안·보조 요법 |
+| [Chronic spontaneous urticaria treated with bloodletting therapy and auricular point sticking on the base of xuanfu theory] | 임상시험 | 86 | 중등도 | 10.13703/j.0255-2930.20210719-0005 / 35152579 | 자락+이혈 압박이 레보세티리진과 유사, 재발률 낮음 |
+| [Effect on chronic urticaria and serum IL-4 and IgE in the patients treated with moving cupping therapy and autohemotherapy with acupoint inection] | 임상시험 | 104 | 중등도 | - / 25876348 | 이동식 부항+자가혈액요법이 IL-4·IgE 감소, 재발률 저하 |
+| Multi-center study for acupuncture combined with Chinese medicine in the treatment of chronic spontaneous urticaria | 임상시험 | 111 | 중등도 | 10.1097/MD.0000000000021266 / 32871985 | 당귀음자+수혈 침 병용이 CSU 악화기에 유효 |
+| Acupuncture and Moxibustion in the Treatment of Chronic Urticaria: A Case Control Study | 임상시험 | 60 | 중등도 | 10.21203/rs.3.rs-927180/v1 / - | 침·뜸이 만성 두드러기 대안·보조 요법 |
 | Efficacy and Mechanism of Acupoint Catgut Embedding in the Treatment of Chronic Spontaneous Urticaria | 임상시험 | 108 | 프로토콜 | 10.2196/preprints.54376 / - | 매선요법 유효성·기전 검증 프로토콜 |
 | Integrated Traditional Chinese and Western Medicine for Chronic Spontaneous Urticaria | 임상시험 | 92 | 프로토콜 | 10.2196/88251 / 42550968 | 오말리주맙+신기방 병용 평가 프로토콜 |
-| Acupuncture combined with pricking and cupping therapy is effective in patients with chronic spontaneous urticaria | 관찰연구 | 75 | 중간 | - / 36915747 | 침+점자출혈 부항이 Th1/Th2 균형·IgE·IL-4 조절 |
-| Knowledge, Attitude, and Practice Towards Urticaria in an Online Sample of the Chinese General Population | 관찰연구 | 1056 | 중간 | 10.2340/actadv.v105.43859 / 40985576 | TCM 경험이 지식·실천 점수와 연관 |
+| Acupuncture combined with pricking and cupping therapy is effective in patients with chronic spontaneous urticaria | 관찰연구 | 75 | 중등도 | - / 36915747 | 침+점자출혈 부항이 Th1/Th2 균형·IgE·IL-4 조절 |
+| Knowledge, Attitude, and Practice Towards Urticaria in an Online Sample of the Chinese General Population | 관찰연구 | 1056 | 중등도 | 10.2340/actadv.v105.43859 / 40985576 | TCM 경험이 지식·실천 점수와 연관 |
 | Acupuncture and Moxibustion for Cold Urticaria in a Pediatric Patient: a Case Report | 증례 | 1 | 낮음 | 10.24966/acim-7562/100559 / - | 소아 한랭 두드러기에 침·뜸이 유효 |
-| Syndrome Differentiation and Treatment of Chronic Urticaria Based on the "Xuanfu Theory" | 문헌고찰 | - | 중간 | 10.66069/ojspub.27450762 / - | 현부 이론 기반 치료가 재발률 저하 |
-| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중간 | 10.1089/acu.2017.1227 / - | 침이 피부 질환 가려움·통증 개선 |
-| Review Article: Cupping Therapy in Treatment of Certain Diseases | 문헌고찰 | - | 중간 | 10.58806/ijhmr.2024.v3i07n19 / - | 부항이 피부 질환에 보조적 적용 |
-| Traditional Chinese Medicine for Pediatric Allergic Diseases | 문헌고찰 | - | 중간 | 10.1007/s11882-025-01208-7 / 40742400 | 한약·침이 소아 알레르기 질환에 유효 |
+| Syndrome Differentiation and Treatment of Chronic Urticaria Based on the "Xuanfu Theory" | 문헌고찰 | - | 중등도 | 10.66069/ojspub.27450762 / - | 현부 이론 기반 치료가 재발률 저하 |
+| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중등도 | 10.1089/acu.2017.1227 / - | 침이 피부 질환 가려움·통증 개선 |
+| Review Article: Cupping Therapy in Treatment of Certain Diseases | 문헌고찰 | - | 중등도 | 10.58806/ijhmr.2024.v3i07n19 / - | 부항이 피부 질환에 보조적 적용 |
+| Traditional Chinese Medicine for Pediatric Allergic Diseases | 문헌고찰 | - | 중등도 | 10.1007/s11882-025-01208-7 / 40742400 | 한약·침이 소아 알레르기 질환에 유효 |
 
 ## 경혈/처방 연관
 

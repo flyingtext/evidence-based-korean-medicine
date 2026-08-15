@@ -103,16 +103,16 @@
 | Efficacy and Safety of Snap Needles in the Treatment of Postoperative Hemorrhoidal Pain: A Systematic Review and Meta-Analysis | 메타분석 | 1,188 | 높음 | 10.2147/JPR.S464176 / 38863870 | 스냅 니들이 통증 감소·상처 치유·통증 소실 시간 단축 |
 | A meta-analysis of the clinical efficacy of the combination of acupuncture and Chinese medicine in the treatment of haemorrhoids | 메타분석 | 976 | 높음 | 10.3727/036012919x15650315071915 | 침+중약 병용이 유효율 증가·재발률 감소 |
 | Acupoint catgut embedding reduces postoperative pain of mixed hemorrhoids: a meta-analysis of randomized controlled trials | 메타분석 | - | 높음 | 10.37766/inplasy2022.2.0021 | 혈위 매선이 수술 후 통증 조절에 유효 |
-| [Acupoint thread-embedding therapy in treatment of postoperative complications of mixed hemorrhoids: a randomized controlled trial] | 임상시험(RCT) | 68 | 중간 | 10.13703/j.0255-2930.20250620-0003 / 42116778 | 매선 병행이 통증·부종·삼출물 감소, 불안 완화·수면 질 개선 |
-| [Multicenter, randomized, open-label, and positive-controlled clinical trial of Pien Tze Huang Capsules combined with Compound Pien Tze Huang Hemorrhoid Ointment in postoperative management of mixed hemorrhoids] | 임상시험(RCT) | 240 | 중간 | 10.19540/j.cnki.cjcmm.20250724.501 / 41508088 | 편자황 캡슐·연고 병용이 상처 삼출물 유의 감소 |
-| [Clinical observation of electroacupuncture combined with auricular point sticking therapy for anal pain of mixed hemorrhoid after external excision and internal ligation] | 임상시험(RCT) | 90 | 중간 | 10.13703/j.0255-2930.2018.06.003 / 29971998 | 전침+이혈 압박 병용이 통증 완화·신체 활동 회복에 유효 |
-| Comparison of Efficacy Between Thai Herbal Anti-hemorrhoid Formula and Micronized Purified Flavonoid Fraction in Patients with Internal Hemorrhoids | 임상시험(RCT) | 27 | 중간 | 10.56808/2586-940x.1110 | 태국 전통 처방(BRF)이 MPFF보다 치핵 단계 감소·출혈 완화에 유효 |
-| Efficacy and safety of acupoint catgut embedding in treating postoperative pain of mixed hemorrhoids | 임상시험(RCT) | - | 중간 | 10.1097/md.0000000000025948 | 수술 전 매선이 수술 후 통증 완화·회복 기간 단축 평가 |
-| Acupoint Needle-Embedding Combined with Ironing Therapy for Postoperative Pain After Anal Surgery | 임상시험 | - | 중간 | 10.3791/64852 / 37427935 | 매선+온법 병용이 소염진통제 단독보다 통증 감소에 유효 |
-| [Effect of zhuhuang frost on wound hydroxy-proline level after anal operation] | 임상시험 | 50 | 중간 | PMID [12577355](https://pubmed.ncbi.nlm.nih.gov/12577355/) | 주황상 외용제가 하이드록시프롤린 증가로 상처 치유 촉진 |
-| Clinical Effectiveness of Acupoint Moxibustion Therapy in Patients with Post-Haemorrhoidectomy Urinary Retention | 관찰연구 | 100 | 중간 | 10.56434/j.arch.esp.urol.20257809.157 / 41339228 | 기해·관원·신궐 뜸이 요정체 개선·도뇨관 제거 기간 단축 |
-| Effect of transcutaneous electrical acupoint stimulation at Zusanli (ST36) on postoperative pain following mixed hemorrhoidectomy: a retrospective study | 관찰연구 | 185 | 중간 | 10.62347/OCJU5788 / 42007108 | 족삼리 TEAS가 NSAIDs 진통 강화·위장 기능 회복 촉진 |
-| [Analysis in pulmonary ventilatory function from 100 patients with ano-rectal diseases caused by deficiency of qi] | 관찰연구 | 100 | 중간 | PMID [11783285](https://pubmed.ncbi.nlm.nih.gov/11783285/) | 기허 항문-직장 질환에서 폐환기 기능 저하 관찰 |
+| [Acupoint thread-embedding therapy in treatment of postoperative complications of mixed hemorrhoids: a randomized controlled trial] | 임상시험(RCT) | 68 | 중등도 | 10.13703/j.0255-2930.20250620-0003 / 42116778 | 매선 병행이 통증·부종·삼출물 감소, 불안 완화·수면 질 개선 |
+| [Multicenter, randomized, open-label, and positive-controlled clinical trial of Pien Tze Huang Capsules combined with Compound Pien Tze Huang Hemorrhoid Ointment in postoperative management of mixed hemorrhoids] | 임상시험(RCT) | 240 | 중등도 | 10.19540/j.cnki.cjcmm.20250724.501 / 41508088 | 편자황 캡슐·연고 병용이 상처 삼출물 유의 감소 |
+| [Clinical observation of electroacupuncture combined with auricular point sticking therapy for anal pain of mixed hemorrhoid after external excision and internal ligation] | 임상시험(RCT) | 90 | 중등도 | 10.13703/j.0255-2930.2018.06.003 / 29971998 | 전침+이혈 압박 병용이 통증 완화·신체 활동 회복에 유효 |
+| Comparison of Efficacy Between Thai Herbal Anti-hemorrhoid Formula and Micronized Purified Flavonoid Fraction in Patients with Internal Hemorrhoids | 임상시험(RCT) | 27 | 중등도 | 10.56808/2586-940x.1110 | 태국 전통 처방(BRF)이 MPFF보다 치핵 단계 감소·출혈 완화에 유효 |
+| Efficacy and safety of acupoint catgut embedding in treating postoperative pain of mixed hemorrhoids | 임상시험(RCT) | - | 중등도 | 10.1097/md.0000000000025948 | 수술 전 매선이 수술 후 통증 완화·회복 기간 단축 평가 |
+| Acupoint Needle-Embedding Combined with Ironing Therapy for Postoperative Pain After Anal Surgery | 임상시험 | - | 중등도 | 10.3791/64852 / 37427935 | 매선+온법 병용이 소염진통제 단독보다 통증 감소에 유효 |
+| [Effect of zhuhuang frost on wound hydroxy-proline level after anal operation] | 임상시험 | 50 | 중등도 | PMID [12577355](https://pubmed.ncbi.nlm.nih.gov/12577355/) | 주황상 외용제가 하이드록시프롤린 증가로 상처 치유 촉진 |
+| Clinical Effectiveness of Acupoint Moxibustion Therapy in Patients with Post-Haemorrhoidectomy Urinary Retention | 관찰연구 | 100 | 중등도 | 10.56434/j.arch.esp.urol.20257809.157 / 41339228 | 기해·관원·신궐 뜸이 요정체 개선·도뇨관 제거 기간 단축 |
+| Effect of transcutaneous electrical acupoint stimulation at Zusanli (ST36) on postoperative pain following mixed hemorrhoidectomy: a retrospective study | 관찰연구 | 185 | 중등도 | 10.62347/OCJU5788 / 42007108 | 족삼리 TEAS가 NSAIDs 진통 강화·위장 기능 회복 촉진 |
+| [Analysis in pulmonary ventilatory function from 100 patients with ano-rectal diseases caused by deficiency of qi] | 관찰연구 | 100 | 중등도 | PMID [11783285](https://pubmed.ncbi.nlm.nih.gov/11783285/) | 기허 항문-직장 질환에서 폐환기 기능 저하 관찰 |
 | Acupuncture relieves postoperative pain of mixed hemorrhoids through the P2X7/ERK axis in dorsal root ganglion | 실험연구 | 90 | 실험연구 | 10.1016/j.physbeh.2025.114806 / 39814121 | 침이 P2X7/ERK 경로 조절로 통증·염증·우울감 완화 |
 | Acupuncture alleviates postoperative hemorrhoid pain by modulating the P2X7/ERK pathway | 실험연구 | - | 실험연구 | 10.1007/s11302-025-10115-5 / 41543815 | 침이 P2X7/ERK 억제로 IL-6·TNF-α 감소 |
 | Bioactive compound emodin from clinical formula Zhi-Lou-Xun-Xi decoction exerts rapid analgesic effects by targeting TRPV1 | 실험연구 | - | 실험연구 | 10.1016/j.phymed.2026.158406 / 42275875 | 지루순희탕 에모딘이 TRPV1 억제로 수술 후 통증 완화 |
@@ -122,8 +122,8 @@
 | Progress of Wound Margin Edema after Mixed Hemorrhoids in Traditional Chinese and Western Medicine | 문헌고찰 | - | 문헌고찰 | 10.53469/jcmp.2024.06(07).37 | 수술 후 상처 가장자리 부종 관리에 통합 접근 필요 |
 | An ethnobotanical review of medicinal plants used for treating hemorrhoids in Thailand | 문헌고찰 | - | 문헌고찰 | 10.3389/fphar.2026.1705134 / 42110541 | 태국 치질 치료 약용 식물 181종 정리 |
 | A Review of a selected Ayurvedic herbal formula in the management of Thrombosed External Hemorrhoids (Bāhya Arshas): A critical analysis | 문헌고찰 | - | 문헌고찰 | 10.30574/gscbps.2023.24.3.0334 | 혈전성 외치핵에 미모사·강황 페이스트 항염·진통 유효 |
-| Ethnomedical knowledge of plants used in alternative medicine to treat hemorrhoidal diseases in Lubumbashi, Haut-Katanga province, Southern Democratic Republic of Congo | 관찰연구 | 1,604 | 중간 | 10.1186/s12906-024-04646-4 / 39394139 | 콩고 치질 치료 약용 식물 100종, Phyllanthus amarus 최다 사용 |
-| Assessment of the perceptions and practices of traditional hemorrhoid healers in the North Gondar Zone, Ethiopia | 관찰연구 | 15 | 중간 | 10.1186/s12906-026-05410-6 / 42163169 | 에티오피아 전통 치료사의 도포·훈증·좌욕 활용 |
+| Ethnomedical knowledge of plants used in alternative medicine to treat hemorrhoidal diseases in Lubumbashi, Haut-Katanga province, Southern Democratic Republic of Congo | 관찰연구 | 1,604 | 중등도 | 10.1186/s12906-024-04646-4 / 39394139 | 콩고 치질 치료 약용 식물 100종, Phyllanthus amarus 최다 사용 |
+| Assessment of the perceptions and practices of traditional hemorrhoid healers in the North Gondar Zone, Ethiopia | 관찰연구 | 15 | 중등도 | 10.1186/s12906-026-05410-6 / 42163169 | 에티오피아 전통 치료사의 도포·훈증·좌욕 활용 |
 
 ## 경혈/처방 연관
 

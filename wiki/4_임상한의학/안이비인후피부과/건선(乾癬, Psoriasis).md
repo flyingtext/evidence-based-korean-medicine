@@ -128,53 +128,53 @@
 | Bloodletting cupping combined with conventional measures therapy for psoriasis | 메타분석 | - | 높음 | 10.3389/fmed.2023.1132928 / - | 습식 부항 병행이 유효율·PASI·DLQI 개선 |
 | Efficacy and safety of Tripterygium agents in treatment of psoriasis | 메타분석 | - | 높음 | 10.1016/j.phymed.2026.158470 / 42378804 | 뇌공등 병용이 PASI 저하, 독성 관리 필요 |
 | Evidence and potential mechanism of action of indigo naturalis and its active components in the treatment of psoriasis | 체계적 고찰 | - | 높음 | 10.1080/07853890.2024.2329261 / 39316667 | 청대가 PASI60 반응률 증가, 위장관 부작용 주의 |
-| An Update on Clinically Evaluated Medicinal Plants for Psoriasis Management | 체계적 고찰 | - | 중간 | 10.2174/0115701638327441241016014503 / 39473259 | 약용 식물·한약 처방의 효능·안전성 검토 |
-| Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis | 체계적 고찰 | - | 중간 | 10.3390/medicina57050410 / 33922733 | 심리·명상 유용, 부항은 쾨브너 현상 주의 |
-| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중간 | 10.3390/jcm10081750 / 33920643 | 부항이 판상 건선 등 피부 질환에 잠재 이점 |
+| An Update on Clinically Evaluated Medicinal Plants for Psoriasis Management | 체계적 고찰 | - | 중등도 | 10.2174/0115701638327441241016014503 / 39473259 | 약용 식물·한약 처방의 효능·안전성 검토 |
+| Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis | 체계적 고찰 | - | 중등도 | 10.3390/medicina57050410 / 33922733 | 심리·명상 유용, 부항은 쾨브너 현상 주의 |
+| Evidence Map of Cupping Therapy | 체계적 고찰 | - | 중등도 | 10.3390/jcm10081750 / 33920643 | 부항이 판상 건선 등 피부 질환에 잠재 이점 |
 | Acupuncture for psoriasis: protocol for a systematic review | 체계적 고찰 | - | 프로토콜 | 10.1136/bmjopen-2014-007526 / - | 건선 침 치료 유효성·안전성 평가 프로토콜 |
 | Integrative medicine (East Asian herbal medicine combined with conventional medicine) for psoriasis | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000032360 / 36701719 | 한약+현대 의학 병용 평가 프로토콜 |
 | The effect of moving cupping on psoriasis vulgaris and its influence on PASI score | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000024217 / 33578523 | 이동식 부항 유효성·안전성 평가 프로토콜 |
 | Effectiveness and safety of auricular acupuncture for psoriasis | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000032020 / 36401494 | 이침 유효성·안전성 평가 프로토콜 |
 | Cupping for psoriasis vulgaris: A protocol of systematic review and meta-analysis | 체계적 고찰 | - | 프로토콜 | 10.1097/MD.0000000000020348 / 32443388 | 부항 유효성·안전성 평가 프로토콜 |
-| Analysis of research trends on microneedle patches loaded pharmacopuncture preparation | 체계적 고찰 | - | 중간 | 10.13048/jkm.24032 / - | 약침 마이크로니들 패치가 피부 질환 적용 가능 |
+| Analysis of research trends on microneedle patches loaded pharmacopuncture preparation | 체계적 고찰 | - | 중등도 | 10.13048/jkm.24032 / - | 약침 마이크로니들 패치가 피부 질환 적용 가능 |
 | Efficacy and safety of Jueyin granules for patients with mild-to-moderate psoriasis vulgaris | 임상시험 | 195 | 높음 | 10.1016/j.jep.2025.120848 / 41203092 | 궐음과립이 혈열증 건선의 PASI·BSA 개선 |
-| Impact of secukinumab with modified nourishing blood and moisturising decoction on superficial fungal infections in patients with psoriasis with blood-dryness pattern | 임상시험 | 216 | 중간 | 10.12968/jowc.2024.0452 / 41528783 | 양혈윤조탕 병용이 진균 감염 위험 저하 |
-| [Meridian three-combined therapy for treatment of ordinary psoriasis] | 임상시험 | 233 | 중간 | - / 19358497 | 매선·사혈·이점압이 병변 감소, 부작용 적음 |
-| A Randomized Controlled Trial for the Optimal Implementation of Psoriasis Treatment by Integrating Chinese and Western Medicine | 임상시험 | 300 | 중간 | 10.2147/PTT.S487536 / 40135074 | 중의+서의 병용이 PASI 75 달성·재발률 감소 |
-| The effects of acupuncture for patients with psoriasis | 임상시험 | 220 | 중간 | 10.1097/md.0000000000026042 / - | 침이 피부 병변·심리사회적 증상 개선 |
-| [Acupuncture combined with auricle cutting method for blood stasis-type psoriasis] | 임상시험 | 56 | 중간 | - / 25022114 | 침+이절법 병행이 혈어형 건선 개선 |
-| Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis | 임상시험 | - | 중간 | 10.1097/md.0000000000035726 / - | 독맥구가 PASI·DLQI 개선 |
-| The sliding cupping therapy as an alternative strategy for treating plaque psoriasis | 임상시험 | 60 | 중간 | 10.1097/MD.0000000000048111 / 41861208 | 이동식 부항이 NBUVB와 유사한 효능·안전성 |
-| [Observation on effect of pifubing xuedu pill combined with diyin tablet in treatment of psoriasis] | 임상시험 | 60 | 중간 | - / 16152837 | 피부병혈독환+지음정 병용이 완치율 향상 |
-| [Assessment on effect of treatment of chronic plaque type psoriasis by combination therapy of composite shendi decoction and diyin tablet] | 임상시험 | 78 | 중간 | - / 12577369 | 신지탕+지음정 병용이 IL-8·엔도텔린 감소 |
-| [Clinical study on effect of zhuhuang granule no. 2 in treating psoriasis with liver-qi stagnancy] | 임상시험 | 67 | 중간 | - / 12577354 | 주황립 제2호가 간기울결 건선 유효율 향상 |
-| A clinical study on treatment of senile psoriasis by replenishing qi to activate blood | 임상시험 | 40 | 중간 | - / 15510803 | 보기활혈이 노인성 건선 면역·혈액 순환 개선 |
-| Jumihaidokuto (Shi-Wei-Ba-Du-Tang), a Kampo Formula, Decreases the Disease Activity of Palmoplantar Pustulosis | 임상시험 | 10 | 중간 | 10.1155/2016/4060673 / 27143961 | 십미패독탕이 수장족저농포증 병변 감소 |
-| Oral PSORI-CM01, a Chinese herbal formula, plus topical sequential therapy for moderate-to-severe psoriasis vulgaris | 임상시험 | 16 | 중간 | 10.1186/s13063-016-1272-x / 26983642 | PSORI-CM01 병용이 재발률 저하 경향 |
-| Exploration of the Regulatory Effects of PSORI-CM01 and Yin Xie Ling on microRNAs in the Peripheral Blood Monocytes of Patients with Blood Stasis Syndrome of Psoriasis Vulgaris | 임상시험 | - | 중간 | 10.21203/rs.3.rs-62188/v1 / - | PSORI-CM01·은사령이 microRNA 조절 |
+| Impact of secukinumab with modified nourishing blood and moisturising decoction on superficial fungal infections in patients with psoriasis with blood-dryness pattern | 임상시험 | 216 | 중등도 | 10.12968/jowc.2024.0452 / 41528783 | 양혈윤조탕 병용이 진균 감염 위험 저하 |
+| [Meridian three-combined therapy for treatment of ordinary psoriasis] | 임상시험 | 233 | 중등도 | - / 19358497 | 매선·사혈·이점압이 병변 감소, 부작용 적음 |
+| A Randomized Controlled Trial for the Optimal Implementation of Psoriasis Treatment by Integrating Chinese and Western Medicine | 임상시험 | 300 | 중등도 | 10.2147/PTT.S487536 / 40135074 | 중의+서의 병용이 PASI 75 달성·재발률 감소 |
+| The effects of acupuncture for patients with psoriasis | 임상시험 | 220 | 중등도 | 10.1097/md.0000000000026042 / - | 침이 피부 병변·심리사회적 증상 개선 |
+| [Acupuncture combined with auricle cutting method for blood stasis-type psoriasis] | 임상시험 | 56 | 중등도 | - / 25022114 | 침+이절법 병행이 혈어형 건선 개선 |
+| Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis | 임상시험 | - | 중등도 | 10.1097/md.0000000000035726 / - | 독맥구가 PASI·DLQI 개선 |
+| The sliding cupping therapy as an alternative strategy for treating plaque psoriasis | 임상시험 | 60 | 중등도 | 10.1097/MD.0000000000048111 / 41861208 | 이동식 부항이 NBUVB와 유사한 효능·안전성 |
+| [Observation on effect of pifubing xuedu pill combined with diyin tablet in treatment of psoriasis] | 임상시험 | 60 | 중등도 | - / 16152837 | 피부병혈독환+지음정 병용이 완치율 향상 |
+| [Assessment on effect of treatment of chronic plaque type psoriasis by combination therapy of composite shendi decoction and diyin tablet] | 임상시험 | 78 | 중등도 | - / 12577369 | 신지탕+지음정 병용이 IL-8·엔도텔린 감소 |
+| [Clinical study on effect of zhuhuang granule no. 2 in treating psoriasis with liver-qi stagnancy] | 임상시험 | 67 | 중등도 | - / 12577354 | 주황립 제2호가 간기울결 건선 유효율 향상 |
+| A clinical study on treatment of senile psoriasis by replenishing qi to activate blood | 임상시험 | 40 | 중등도 | - / 15510803 | 보기활혈이 노인성 건선 면역·혈액 순환 개선 |
+| Jumihaidokuto (Shi-Wei-Ba-Du-Tang), a Kampo Formula, Decreases the Disease Activity of Palmoplantar Pustulosis | 임상시험 | 10 | 중등도 | 10.1155/2016/4060673 / 27143961 | 십미패독탕이 수장족저농포증 병변 감소 |
+| Oral PSORI-CM01, a Chinese herbal formula, plus topical sequential therapy for moderate-to-severe psoriasis vulgaris | 임상시험 | 16 | 중등도 | 10.1186/s13063-016-1272-x / 26983642 | PSORI-CM01 병용이 재발률 저하 경향 |
+| Exploration of the Regulatory Effects of PSORI-CM01 and Yin Xie Ling on microRNAs in the Peripheral Blood Monocytes of Patients with Blood Stasis Syndrome of Psoriasis Vulgaris | 임상시험 | - | 중등도 | 10.21203/rs.3.rs-62188/v1 / - | PSORI-CM01·은사령이 microRNA 조절 |
 | Our Choice: study protocol for a randomized controlled trial for optimal implementation of psoriasis treatment by the integration of Chinese and western medicine | 임상시험 | 378 | 프로토콜 | 10.1186/s13063-020-4209-3 / 32228720 | 중서의 결합치료 표준 지침 수립 프로토콜 |
 | Effects of moving cupping therapy for plaque psoriasis: study protocol for a randomized multicenter clinical trial | 임상시험 | 122 | 프로토콜 | 10.1186/s13063-020-4155-0 / 32102679 | 이동식 부항 유효성·안전성 검증 프로토콜 |
 | Auricular acupressure as a complementary therapy for psoriasis vulgaris | 임상시험 | 180 | 프로토콜 | 10.1186/s13063-019-3475-4 / 31208470 | 이침 압박 보조 요법 평가 프로토콜 |
 | Chinese herbal medicine (Guben Qushi Huayu formula) combined with Ixekizumab in reducing psoriasis vulgaris relapse | 임상시험 | 50 | 프로토콜 | 10.3389/fphar.2025.1551001 / - | 고본거습화어방이 재발률 저하 프로토콜 |
 | Effectiveness and safety of acupoint catgut embedding for patients with mild psoriasis and overweight | 임상시험 | - | 프로토콜 | 10.3389/fmed.2026.1796602 / 41939750 | 매선이 건선+과체중 이중 작용 검증 프로토콜 |
-| Clinical heterogeneity in psoriasis and the predictive efficacy of traditional Chinese medicine | 관찰연구 | 1357 | 중간 | 10.1016/j.joim.2026.07.003 / 42527213 | 혈어증 환자에서 삶의 질·가려움 개선 우수 |
-| Predicting comorbidities in psoriasis using TCM constitution and multimodal data | 관찰연구 | 1000 | 중간 | 10.3389/fmed.2026.1855767 / 42553580 | 체질·다중 데이터로 동반 질환 예측 프로토콜 |
-| A survey of psoriasis patients in Japan from 1982 to 2001 | 관찰연구 | 28628 | 중간 | 10.1016/s0923-1811(02)00142-1 / 12615365 | 일본 건선 환자에서 한약 사용 빈도 14.2% |
-| Change in the Usage of Complementary and Alternative Medicine in the Era of Biologics Among Korean Patients With Psoriasis | 관찰연구 | 207 | 중간 | 10.3346/jkms.2023.38.e204 / 37401497 | 한국 건선 환자 CAM 사용 67.6%, 한방 이용률 최고 |
-| Complementary medicine and psoriasis: linking the patient's outlook with evidence-based medicine | 관찰연구 | 77 | 중간 | 10.1159/000073094 / 14571074 | 건선 환자 62%가 CAM 사용, 의사와 논의 부족 |
-| A Symptom Differentiation based on Prospective pre-post intervention design and multiple regression analysis in Korean medicine | 관찰연구 | 117 | 중간 | 10.13048/jkm.23012 / - | 가족력·계절성·발한이 양허·혈열 변증 결정 |
-| [Relationship between syndrome differentiation-typing and expression of platelet-activation molecule CD62P and CD63 on platelets in psoriatic patients] | 관찰연구 | 67 | 중간 | - / 10322863 | 혈어 단계에서 CD62P·CD63 발현 최고 |
-| Immune Repertoire Profiling Reveals Distinct Adaptive Immune Signatures of Dampness ZHENG Across Psoriasis, Rheumatoid Arthritis and Ulcerative Colitis | 관찰연구 | 59 | 중간 | 10.1111/cpr.70265 / 42470161 | 습증 변증이 특이적 면역 시그니처 보유 |
-| Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis | 관찰연구 | 95 | 중간 | - / 39038330 | 금은화·연교·생지황이 IL-17·TNF 경로 억제 |
-| Integrated Management of Psoriasis: From Targeted Biologics to Adjunctive Traditional Chinese Medicine Therapies | 문헌고찰 | - | 중간 | 10.53469/jcmp.2026.08(01).08 / - | 한의학 병행 통합 관리가 생물학적 제제 보완 |
-| Study on TCM Syndrome Differentiation and Treatment of Psoriasis | 문헌고찰 | - | 중간 | 10.53469/jcmp.2025.07(07).26 / - | 혈 중심 변증시치와 서의 병행이 효과적 |
-| An overview of acupuncture for psoriasis vulgaris, 2009-2014 | 문헌고찰 | - | 중간 | 10.1080/09546634.2016.1224801 / 27631690 | 침·뜸·부항·약침이 부작용 적은 보완 요법 |
-| Acupuncture, electrostimulation, and reflex therapy in dermatology | 문헌고찰 | - | 중간 | 10.1046/j.1529-8019.2003.01619.x / 12919109 | 침·부항·반사요법이 피부 질환 보조 |
-| Traditional Chinese medicine in dermatology | 문헌고찰 | - | 중간 | 10.1046/j.1529-8019.2003.01617.x / 12919111 | 한의학이 건선·아토피에 보조적 적용 |
-| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중간 | 10.1089/acu.2017.1227 / - | 침이 피부 질환 가려움·통증 개선 |
-| The therapeutic potential of natural products for pediatric psoriasis | 문헌고찰 | - | 중간 | 10.3389/fped.2026.1834627 / 42422443 | 천연물이 소아 건선 면역 미세환경 조절 |
-| Ancient and advanced approaches for the treatment of an inflammatory autoimmune disease-psoriasis | 문헌고찰 | - | 중간 | 10.1615/critrevtherdrugcarriersyst.2014010122 / 25072198 | 고대 치료법이 증상 완화에 도움 |
-| Solution of Diseases by Bloodletting and Controlling of Laboratory Diagnosis Results | 문헌고찰 | - | 중간 | 10.29328/journal.ated.1001018 / - | 사혈·부항이 미세혈류 개선·대사 촉진 |
+| Clinical heterogeneity in psoriasis and the predictive efficacy of traditional Chinese medicine | 관찰연구 | 1357 | 중등도 | 10.1016/j.joim.2026.07.003 / 42527213 | 혈어증 환자에서 삶의 질·가려움 개선 우수 |
+| Predicting comorbidities in psoriasis using TCM constitution and multimodal data | 관찰연구 | 1000 | 중등도 | 10.3389/fmed.2026.1855767 / 42553580 | 체질·다중 데이터로 동반 질환 예측 프로토콜 |
+| A survey of psoriasis patients in Japan from 1982 to 2001 | 관찰연구 | 28628 | 중등도 | 10.1016/s0923-1811(02)00142-1 / 12615365 | 일본 건선 환자에서 한약 사용 빈도 14.2% |
+| Change in the Usage of Complementary and Alternative Medicine in the Era of Biologics Among Korean Patients With Psoriasis | 관찰연구 | 207 | 중등도 | 10.3346/jkms.2023.38.e204 / 37401497 | 한국 건선 환자 CAM 사용 67.6%, 한방 이용률 최고 |
+| Complementary medicine and psoriasis: linking the patient's outlook with evidence-based medicine | 관찰연구 | 77 | 중등도 | 10.1159/000073094 / 14571074 | 건선 환자 62%가 CAM 사용, 의사와 논의 부족 |
+| A Symptom Differentiation based on Prospective pre-post intervention design and multiple regression analysis in Korean medicine | 관찰연구 | 117 | 중등도 | 10.13048/jkm.23012 / - | 가족력·계절성·발한이 양허·혈열 변증 결정 |
+| [Relationship between syndrome differentiation-typing and expression of platelet-activation molecule CD62P and CD63 on platelets in psoriatic patients] | 관찰연구 | 67 | 중등도 | - / 10322863 | 혈어 단계에서 CD62P·CD63 발현 최고 |
+| Immune Repertoire Profiling Reveals Distinct Adaptive Immune Signatures of Dampness ZHENG Across Psoriasis, Rheumatoid Arthritis and Ulcerative Colitis | 관찰연구 | 59 | 중등도 | 10.1111/cpr.70265 / 42470161 | 습증 변증이 특이적 면역 시그니처 보유 |
+| Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis | 관찰연구 | 95 | 중등도 | - / 39038330 | 금은화·연교·생지황이 IL-17·TNF 경로 억제 |
+| Integrated Management of Psoriasis: From Targeted Biologics to Adjunctive Traditional Chinese Medicine Therapies | 문헌고찰 | - | 중등도 | 10.53469/jcmp.2026.08(01).08 / - | 한의학 병행 통합 관리가 생물학적 제제 보완 |
+| Study on TCM Syndrome Differentiation and Treatment of Psoriasis | 문헌고찰 | - | 중등도 | 10.53469/jcmp.2025.07(07).26 / - | 혈 중심 변증시치와 서의 병행이 효과적 |
+| An overview of acupuncture for psoriasis vulgaris, 2009-2014 | 문헌고찰 | - | 중등도 | 10.1080/09546634.2016.1224801 / 27631690 | 침·뜸·부항·약침이 부작용 적은 보완 요법 |
+| Acupuncture, electrostimulation, and reflex therapy in dermatology | 문헌고찰 | - | 중등도 | 10.1046/j.1529-8019.2003.01619.x / 12919109 | 침·부항·반사요법이 피부 질환 보조 |
+| Traditional Chinese medicine in dermatology | 문헌고찰 | - | 중등도 | 10.1046/j.1529-8019.2003.01617.x / 12919111 | 한의학이 건선·아토피에 보조적 적용 |
+| Acupuncture and Cutaneous Medicine: Is It Effective? | 문헌고찰 | - | 중등도 | 10.1089/acu.2017.1227 / - | 침이 피부 질환 가려움·통증 개선 |
+| The therapeutic potential of natural products for pediatric psoriasis | 문헌고찰 | - | 중등도 | 10.3389/fped.2026.1834627 / 42422443 | 천연물이 소아 건선 면역 미세환경 조절 |
+| Ancient and advanced approaches for the treatment of an inflammatory autoimmune disease-psoriasis | 문헌고찰 | - | 중등도 | 10.1615/critrevtherdrugcarriersyst.2014010122 / 25072198 | 고대 치료법이 증상 완화에 도움 |
+| Solution of Diseases by Bloodletting and Controlling of Laboratory Diagnosis Results | 문헌고찰 | - | 중등도 | 10.29328/journal.ated.1001018 / - | 사혈·부항이 미세혈류 개선·대사 촉진 |
 | Treatment for an Adult Patient With Psoriasis with Traditional Korean Medicine, Especially Sa-Am Acupuncture and Herbal Medicine | 증례 | 1 | 낮음 | 10.1016/j.jams.2016.01.008 / 27079230 | 사암침+한약이 14개월 만에 증상 소실 |
 | Chinese medicine as comprehensive therapy for psoriasis: A case report | 증례 | 1 | 낮음 | 10.1097/MD.0000000000040747 / 39612407 | 한약이 피부 증상·전신 대사 지표 동시 개선 |
 | Treating steroid-dependent psoriasis from the blood-heat syndrome perspective: A case report | 증례 | 1 | 낮음 | 10.1097/MD.0000000000045926 / 41204471 | 수각지황탕 가감방이 장기 관해 유도 |
