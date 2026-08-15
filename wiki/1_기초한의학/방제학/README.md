@@ -20,6 +20,8 @@
   - 하위 표제어: 계지복령환 · 가미계지복령환 · 계지복령환가욕인(桂枝茯苓丸加薏苡仁) · 계지복령환 병용 요법
 - [소청룡탕(小青龍湯, Socheongryong-tang / Shoseiryuto / Xiaoqinglong Decoction)](소청룡탕(小青龍湯).md)
   - 하위 표제어: 소청룡탕 · 소청룡탕가길경석고(小青龍湯加桔梗石膏) · 가미소청룡탕 · 쇼세이류토(TJ-19) · 소청룡탕 계열 병용 요법
+- [당귀작약산(當歸芍藥散, Dangguijagyak-san / Tokishakuyakusan / Danggui Shaoyao San)](당귀작약산(當歸芍藥散, Dangguijagyak-san).md)
+  - 하위 표제어: 당귀작약산 · 토기샤쿠야쿠산(TJ-23) · 가미당귀작약산 · 당귀작약가감술유탕(TJ-38) · 당귀작약산가출계근탕 · 당귀작약탕(Tokito)
 
 ## 동음이의 분류
 
