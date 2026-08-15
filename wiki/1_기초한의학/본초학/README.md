@@ -84,6 +84,8 @@
   - 하위 표제어: 향부자(香附子, Cyperus rotundus) · 초향부(醋香附) · 향부자 기름 · 가미소요산(加味逍遙散)
 - [백지(白芷, Angelicae Dahuricae Radix)](백지(白芷, Angelicae Dahuricae Radix).md)
   - 하위 표제어: 백지(白芷, Angelica dahurica) · 항지(杭白芷) · 쿠마린 계열 성분 · 백지 정유
+- [지실(枳實, Aurantii Fructus Immaturus)](지실(枳實, Aurantii Fructus Immaturus).md)
+  - 하위 표제어: 지실(枳實, Citrus aurantium/Poncirus trifoliata) · 지각(枳殼) · 지실소비환(枳實消痞丸) · 지실해백계지탕(枳實薤白桂枝湯) · 대시호탕(大柴胡湯) · 온담탕(溫膽湯) · 지실 유효 성분(헤스페리딘·나린진·시네프린)
 
 ## 동음이의 분류
 
