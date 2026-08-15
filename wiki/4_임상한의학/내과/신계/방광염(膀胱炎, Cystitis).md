@@ -171,11 +171,3 @@
 [^23]: Clinical evaluation of the efficacy and safety of nasturtium herb and horseradish root versus placebo in the continuous prophylaxis of recurrent uncomplicated cystitis: a double-blind randomised clinical trial. 임상시험, 224명. DOI: [10.1186/s12906-026-05328-z](https://doi.org/10.1186/s12906-026-05328-z) · PMID: [41782129](https://pubmed.ncbi.nlm.nih.gov/41782129/). 물냉이+서양고추냉이 복합이 재발 위험 약 36% 감소.
 [^24]: Multicenter open prospective randomized study on the efficacy and safety of Canephron N in preventing recurrences of uncomplicated lower urinary tract infection in women. 임상시험, 67명. PMID: [41399819](https://pubmed.ncbi.nlm.nih.gov/41399819/). Canephron N 병용·예방이 1년 재발률 38.7%→13.9%로 감소.
 [^25]: The efficacy of Gosyajinkigan for pollakisuria. 임상시험, 20명. PMID: [16617873](https://pubmed.ncbi.nlm.nih.gov/16617873/). 고샤진키간(우차신기환)이 빈뇨·IPSS 개선, 8주 이상 투여 필요.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 방광염에 대한 한의 중재의 근거는 아직 충분하지 않으며, 특히 재발성 방광염에 대한 예방적 침·한약의 표준화된 혈위·용량·기간 프로토콜을 갖춘 고품질 무작위 대조 시험이 필요하다.
-- 출혈성 방광염에 대한 한약(시령탕·저령탕)의 효과는 관찰연구·증례 수준에 머물러 있어, 대규모 전향적 연구와 안전성 검증이 필요하다.
-- 간질성 방광염에 대한 한의 중재(침·한약·방광 내 주입)의 임상 근거가 부족하여, 향후 체계적인 임상 연구가 필요하다.
-- 약물 유발성 방광염의 인과 관계와 기전을 규명하기 위한 추가 연구와 한약 복용 환자에 대한 약력 감시 체계가 필요하다.
-- 생약(물냉이·서양고추냉이·Canephron N) 예방 요법의 최적 용량·기간과 항생제 내성 대체 전략으로서의 장기 효과에 대한 추가 연구가 필요하다.

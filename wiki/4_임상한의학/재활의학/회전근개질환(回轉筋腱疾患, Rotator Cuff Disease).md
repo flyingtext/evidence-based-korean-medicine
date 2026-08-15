@@ -235,11 +235,3 @@
 [^46]: Needle contact test in auricular acupuncture for shoulder pain and where effective auricular acupoints identified are positioned on the map: A controlled study. 임상시험, 45명. DOI: [10.4081/ejtm.2023.11113](https://doi.org/10.4081/ejtm.2023.11113) · PMID: 36920326. 이침 접촉 검사가 극상근 건병증 이혈 선택에 유효.
 [^47]: Dry needling as an adjunct treatment to multimodal rehabilitation protocol following rotator cuff repair surgery: a preliminary, randomized sham-controlled trial. 임상시험, 46명. DOI: [10.1186/s12998-024-00555-y](https://doi.org/10.1186/s12998-024-00555-y) · PMID: 39639410. 수술 후 건침 추가가 유의한 추가 이점 없음, 재활 중요.
 [^48]: Incidence and factors associated with reoperation after rotator cuff repair in Korea: A nationwide cohort study. 관찰연구, 221361명. DOI: [10.1371/journal.pone.0350201](https://doi.org/10.1371/journal.pone.0350201) · PMID: 42189823. 한국 회전근개 봉합술 재수술률 6.82%, 한의 방문 시점 연관.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 회전근개질환에 대한 침·건침 연구는 대부분 표본 수가 적고 방법론적 질이 낮아, 표준화된 치료 프로토콜과 고품질 무작위 대조 시험이 필요하다.[^1][^27]
-- 수술 후 재활에서 건침의 추가 효과는 일부 연구에서 유의한 이점이 없어, 더 많은 세션 수와 대규모 표본을 통한 추가 연구가 필요하다.[^7][^47]
-- 약침·봉침·부항·도침·추나·뜸·한약 등 한의 중재의 근거는 주로 증례·소규모 연구에 국한되어, 더 많은 고품질 임상 연구가 필요하다.[^13][^35][^38]
-- 회전근개 봉합술 전후 전침·이침·기황침의 효능을 검증하는 임상시험이 진행 중이며, 결과 도출이 필요하다.[^5][^6][^14]
-- 검색으로 확보한 논문 중 뇌졸중 후 떨림·상완신경염·근감소증 등은 주제(회전근개질환)와 무관하거나 보조적 내용으로 판단되어 본 문서의 각주에서 일부 제외하였다.

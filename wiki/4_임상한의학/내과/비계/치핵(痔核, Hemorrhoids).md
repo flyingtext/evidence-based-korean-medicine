@@ -127,13 +127,6 @@
 [^23]: Three Acupuncture Methods for Postoperative Pain in Mixed Hemorrhoids: A Systematic Review and Network Meta-Analysis. 네트워크 메타분석, 5,121명. DOI: [10.1155/2022/5627550](https://doi.org/10.1155/2022/5627550). 혈위 도포·이침 플라스터·매선이 진통제보다 통증 감소에 유효, 혈위 도포가 최고 유효성.
 [^24]: Bioactive compound emodin from clinical formula Zhi-Lou-Xun-Xi decoction exerts rapid analgesic effects by targeting TRPV1. 실험연구. DOI: [10.1016/j.phymed.2026.158406](https://doi.org/10.1016/j.phymed.2026.158406). 지루순희탕 에모딘이 TRPV1 억제로 수술 후 통증 완화.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 치핵에 대한 한의 중재(침·뜸·매선·약침·한약·외용제)의 근거는 메타분석과 임상시험이 다수 존재하나, 대부분 혼합 치핵 수술 후 통증·합병증 관리에 집중되어 있고 초기 치핵의 비수술적 치료에 대한 고품질 연구는 상대적으로 부족하다.
-- 연구 간 시술 표준화·대조군·추적 기간·재발 종점이 상이하여, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
-- 혈위 매선·혈위 도포·이침 등 침구 요법의 장기 재발 예방 효과와, 변증별(습열하주·기허하함·혈어·풍열) 맞춤 한약 처방의 효과를 뒷받침할 대규모 전향적 연구가 필요하다.
-- 한약·외용제·좌제의 안전성과 표준화된 제제 개발, 그리고 수술 대체 가능성을 평가할 추가 임상시험이 요구된다.
-
 ## 검색에서 제외된 논문
 
 - 3% 폴리도카놀 폼 경화요법(서양의학적 경화요법), 치료 효과 가치 기반 지불 제도 개혁(정책 연구), 우나니 부항 요법, Mesosphaerum suaveolens·Salvia plebeia·Saraca asoca 등 본 주제와 간접 관련이거나 주로 약리·정책을 다루는 논문은 각주에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.

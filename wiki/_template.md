@@ -20,9 +20,5 @@
 - 경혈: `method_specific_acupoint`
 - 약재/처방: `method_specific_herbal` / `method_specific_herbal_formula`
 
-## 미충족 근거 / 추가 연구 필요
-
-근거가 부족한 영역을 명시.
-
 [^1]: 논문 제목, 연구 유형, 저널, DOI/PMID 링크.
 [^2]: 논문 제목, 연구 유형, 저널, DOI/PMID 링크.

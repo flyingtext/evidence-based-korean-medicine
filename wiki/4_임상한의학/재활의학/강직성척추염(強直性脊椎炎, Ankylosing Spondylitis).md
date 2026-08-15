@@ -200,11 +200,3 @@
 [^27]: Complementary medicine for axial spondyloarthritis: is there any scientific evidence? 문헌고찰. DOI: [10.1097/BOR.0000000000000513](https://doi.org/10.1097/BOR.0000000000000513) · PMID: 29634580. 운동·심신 요법이 기능 개선, 추나 안전성 주의.
 [^28]: Treatment of patients with deforming polyarthritis and spondyloarthritis with bee venom. 문헌고찰. DOI: [10.17816/kazmj87243](https://doi.org/10.17816/kazmj87243). 봉독 요법이 척추관절염에 유효한 대안 가능.
 [^29]: Effectiveness and safety of ear acupuncture for ankylosing spondylitis: A protocol for systematic review and meta-analysis. 체계적 고찰(프로토콜). DOI: [10.1097/MD.0000000000032310](https://doi.org/10.1097/MD.0000000000032310) · PMID: 36595840. 이침의 유효성·안전성 평가 프로토콜.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 강직성 척추염에 대한 침·뜸·부항 연구는 대부분 표본 수가 적고 방법론적 질이 낮아, 표준화된 치료 프로토콜과 고품질 무작위 대조 시험이 필요하다.[^2][^17]
-- 뇌화구(雷火灸)·양화탕·중약+양약 병용·전침·이침 등은 현재 프로토콜 단계로, 결과 도출이 필요하다.[^1][^24][^25][^29]
-- 도침·침도·매선·자락 등 한의 중재의 근거는 주로 증례·소규모 연구에 국한되어, 더 많은 고품질 임상 연구가 필요하다.[^7][^8][^12]
-- 급성 악화기 추나(推拿)의 안전성에 대한 근거가 부족하여, 질환 단계별 수기 요법 적용 기준에 대한 연구가 필요하다.[^10]
-- 검색으로 확보한 논문 중 건선·GERD·뇌졸중·뇌성마비·불면 등 독맥(督脈) 관련이나 강직성 척추염과 무관한 주제의 논문은 본 문서의 각주에서 제외하였다.

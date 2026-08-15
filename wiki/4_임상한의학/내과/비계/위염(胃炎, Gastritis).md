@@ -148,10 +148,3 @@
 [^50]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. Inflammopharmacology. 2026. 문헌고찰. DOI: [10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7) · [PMID 42371378](https://pubmed.ncbi.nlm.nih.gov/42371378/).
 [^51]: He-Wei-Decoction Ameliorates Chronic Atrophic Gastritis via Modulation of the TLR4/NF-κB Signaling Pathway. Biol Pharm Bull. 2025. 실험연구. DOI: [10.1248/bpb.b25-00279](https://doi.org/10.1248/bpb.b25-00279) · [PMID 41083380](https://pubmed.ncbi.nlm.nih.gov/41083380/).
 [^52]: Prediction model for transformation of chronic atrophic gastritis to high-grade intraepithelial neoplasia based on traditional Chinese medicine syndrome patterns. 2024. 관찰연구, 201명. DOI: [10.3724/zdxbyxb-2024-0542](https://doi.org/10.3724/zdxbyxb-2024-0542) · [PMID 40394917](https://pubmed.ncbi.nlm.nih.gov/40394917/).
-
-## 미충족 근거 / 추가 연구 필요
-
-- 위염에 대한 한약·침·혈위도포의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 진단·평가 기준·취혈·처방 프로토콜이 비표준화되어 있어 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^19][^36][^47]
-- 만성 위축성 위염의 침 치료는 핵심 결과 세트(COS) 표준화와 대규모 다기관 무작위 대조 시험이 시급하며,[^47] 중성약·한약 병용 요법의 장기 유효성·안전성을 뒷받침할 고품질 근거가 추가로 필요하다.[^36][^48]
-- H. pylori 제균 후 남은 위축·장상피화생의 가역적 개선과 위암 예방을 위한 한의 중재 근거가 제한적이므로, 이를 뒷받침할 더 정밀한 전향적 임상 연구가 요구된다.[^28][^29]
-- 검색 과정에서 위염과 직접 관련이 없는 논문(견관절주위염·근관치료·조갑주위염·임플란트·경추 질환·피부 부작용 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.

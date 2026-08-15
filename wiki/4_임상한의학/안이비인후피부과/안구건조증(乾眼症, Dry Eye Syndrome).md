@@ -180,11 +180,3 @@
 [^52]: Acupuncture and dry eye: current perspectives. A double-blinded randomized controlled trial and review of the literature. 임상시험, 49명. DOI: [10.2147/OPTH.S175321](https://doi.org/10.2147/OPTH.S175321) · PMID: 31114151. 침이 주관적 증상 개선, 객관 지표는 유의 변화 없음.
 [^53]: Acupuncture in the treatment of Dry Eye Syndrome with anxiety symptoms. A case report. 증례, 1명. DOI: [10.4081/ejtm.2022.10482](https://doi.org/10.4081/ejtm.2022.10482) · PMID: 35727219. 불안 동반 건성안에 침이 안구·심리 증상 개선.
 [^54]: Investigation of traditional Chinese medicine constitution in individuals afflicted by dry eye disease: A retrospective study. 관찰연구, 114명. DOI: [10.1097/MD.0000000000039675](https://doi.org/10.1097/MD.0000000000039675) · PMID: 39312352. 기체 체질이 가장 흔, 전신 증상 고려 필요.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 침·전침·이침·압침·피내침·화침·뜸 등 침구 요법의 안구건조증 근거는 유망하나, 표준화된 혈위·치료 횟수·기간을 적용한 대규모 이중맹검 무작위 대조 시험이 더 필요하다.[^4][^5][^6][^7][^8][^9]
-- 한약(기국지황환·사군자탕·우슬 등)·훈증·분무 요법의 근거는 일부 소규모 임상시험·프로토콜에 의존하며, 일부 체계적 고찰에서는 신중한 해석이 필요하다. 고품질의 대규모 RCT로 확증하는 것이 요구된다.[^45][^51]
-- 변증(간신음허·기음양허·기체혈어·비신양허·간경열) 유형별 치료 반응을 뒷받침하는 기전 연구와 장기 추적 데이터가 아직 부족하다. 변증에 따른 맞춤 한의 중재 근거 마련이 필요하다.[^1][^2][^3]
-- 쇼그렌 증후군 동반형·수술 후·폐경전후기 등 특정 아형에 대한 한의 중재의 근거가 상대적으로 부족하며, 아형별 맞춤 치료 근거 마련이 필요하다.[^13][^14][^16]
-- 검색으로 확보한 논문 중 뇌졸중 재활·근막통증증후군·족저근막염·유방절제술 후 통증·녹내장·유방암 보조 요법 등 주제와 직접 관련이 낮은 문헌고찰·증례·실험연구는 각주에서 제외하고, 안구건조증 치료의 직접 근거로는 해석하지 않았다.

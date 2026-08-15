@@ -218,12 +218,3 @@
 [^48]: Interaction between Chinese medicine and digoxin: Clinical and research update. 체계적 고찰. DOI: [10.3389/fphar.2023.1040778](https://doi.org/10.3389/fphar.2023.1040778) · PMID: 36825153. 중약이 디곡신 약동학에 영향, 모니터링 필요.
 [^49]: Clinical study on effect of shengmai injection on serum concentration and pharmacokinetic parameters of digoxin in patients with congestive heart failure. 임상시험, 40명. PMID: [12800416](https://pubmed.ncbi.nlm.nih.gov/12800416/). 생맥주사액이 디곡신 혈중 농도 변화.
 [^50]: Non-pharmacological interventions to reduce thirst in patients with heart failure or hemodialysis: A systematic review and meta-analysis. 메타분석. DOI: [10.1016/j.hrtlng.2024.04.012](https://doi.org/10.1016/j.hrtlng.2024.04.012) · PMID: 38653004. 껌·지압·저염식이 갈증 완화 가능성.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 심부전에 대한 한의 중재의 체계적 고찰·메타분석 대부분이 방법론적 질이 낮거나 프로토콜 단계로, 표준화된 보고 지침과 고품질 무작위 대조 시험이 필요하다.
-- 부정양심과립·방기황기과립·생선거어탕·칠리강심 변증 프로토콜 등은 프로토콜 단계의 탐색적 연구로, 결과 도출 후 대규모 확증 임상시험이 요구된다.
-- 침+운동 재활 메타분석은 편향 위험이 높아, 고품질 무작위 대조 시험 결과가 뒷받침되어야 한다.
-- 한약과 디곡신·사쿠비트릴/발사르탄 등 양방 약물 병용의 장기 안전성과 약물 상호작용에 대한 대규모 연구가 필요하다.
-- 검색으로 확보된 논문 중 심부전과 직접 관련이 없거나(예: 고혈압·협심증·부정맥 단독 연구) 비한의학적이거나(예: 심부전 유발 한방약 부작용 보고) 주제와 무관한 논문은 각주에서 제외하거나 별도로 다루었다.
-- 오령산·목보이탕 등 캄포 처방의 대부분 근거가 일본·중국 연구로, 한국 한의 임상에 일반화하기 위한 국내 임상 연구가 필요하다.

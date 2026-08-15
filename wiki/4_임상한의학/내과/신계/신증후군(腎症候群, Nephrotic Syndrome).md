@@ -138,13 +138,6 @@
 [^38]: [Clinical observation of elderly idiopathic nephrotic syndrome treated with integrated traditional Chinese and Western medicine]. 임상시험, 82명. PMID: [11783325](https://pubmed.ncbi.nlm.nih.gov/11783325/). 한양방 병용이 관해율·부작용 개선.
 [^39]: [Long-term effect of Schonlein-Henoch nephritis with nephritic-nephrotic syndrome in children by traditional Chinese medicine and Western medicine]. 관찰연구, 21명. PMID: [1421973](https://pubmed.ncbi.nlm.nih.gov/1421973/). 한양방 병용이 장기 예후 양호, 상기도 감염 관련 재발.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 신증후군에 대한 한의 중재(한약·약침·침구)의 근거는 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·단백뇨 종점이 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
-- 육미지황환·백령캡슐·황규이 등은 메타분석·대규모 임상시험 근거가 있으나, 장기 신장 예후(말기 신부전 진행·투석 도입)를 종점으로 한 연구가 부족하다.[^37][^36]
-- 난치성·스테로이드 저항성 신증후군(국소분절성 사구체경화증·막성 신병증)에 대한 한의 중재의 대규모 전향적 연구와, 변증별·병기별 맞춤 치료 전략을 확립할 추가 연구가 필요하다.[^7][^8]
-- 침구 치료의 신증후군 적용은 증례·실험연구 수준으로, 이를 뒷받침할 대규모 임상시험이 요구된다.[^33][^34]
-
 ## 검색에서 제외된 논문
 
 - 아유르베다 접근(건선 동반 신장 염증 지표 증례)은 신증후군 본 주제와 간접 관련이거나 다른 질환을 다루어 각주에서 제외하였다.

@@ -287,13 +287,3 @@
 [^118]: Blood-Activating and Stasis-Removing Chinese Patent Medicine in Perioperative Period of PCI for Myocardial Infarction. 메타분석, 21,147명. DOI: [10.1111/jebm.70161](https://doi.org/10.1111/jebm.70161) · PMID: [42452987](https://pubmed.ncbi.nlm.nih.gov/42452987/). 활혈거어 중성약이 중간 지표 개선, 하드 엔드포인트 불명.
 [^119]: Shexiang Tongxin Dropping Pill Improves Stable Angina Patients with Phlegm-Heat and Blood-Stasis Syndrome. 임상시험, 309명. DOI: [10.1007/s11655-025-4014-7](https://doi.org/10.1007/s11655-025-4014-7) · PMID: [40512367](https://pubmed.ncbi.nlm.nih.gov/40512367/). 사향통심적환이 운동 내성 개선.
 [^120]: Efficacy and safety of acupuncture for coronary microvascular disease: study protocol for a pilot randomized controlled trial. 임상시험(프로토콜), 60명. DOI: [10.3389/fcvm.2026.1843651](https://doi.org/10.3389/fcvm.2026.1843651) · PMID: [42539634](https://pubmed.ncbi.nlm.nih.gov/42539634/). CMVD 침 치료 파일럿.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 협심증에 대한 한의 중재의 체계적 고찰·메타분석 대부분이 방법론적 질이 낮거나 프로토콜 단계로, 표준화된 보고 지침과 고품질 무작위 대조 시험이 필요하다.
-- 신소캡슐·괄루해백반하탕 등은 편향 위험이 높아, 대규모 다기관 이중맹검 무작위 대조 시험을 통한 확증이 요구된다.
-- 활혈거어 중성약의 PCI 시술 전후 사용은 중간 지표(혈류·협심증 재발) 개선에 효과적이나, MACE·MACCE 등 하드 엔드포인트의 유의미한 감소는 아직 확인되지 않아 장기 예후 연구가 필요하다.
-- 뜸(灸)·경혈 요법의 협심증 유효성은 대부분 프로토콜 단계로, 결과 도출 후 대규모 확증 임상시험이 요구된다.
-- 한약과 니트로글리세린·항혈소판제 등 양방 약물 병용의 장기 안전성과 약물 상호작용에 대한 대규모 연구가 필요하다.
-- 검색으로 확보된 논문 중 협심증과 직접 관련이 없거나(예: 전립선암 PC-SPES 연구, 심부전 단독 연구) 주제와 무관한 논문은 각주에서 제외하거나 별도로 다루었다.
-- 대부분의 근거가 중국·일본 연구로, 한국 한의 임상에 일반화하기 위한 국내 임상 연구가 필요하다.

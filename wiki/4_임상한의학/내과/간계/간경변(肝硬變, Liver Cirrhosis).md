@@ -215,12 +215,3 @@
 [^66]: Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review. 체계적 고찰, 25명. DOI: [10.7759/cureus.109764](https://doi.org/10.7759/cureus.109764) · PMID: 42367407. Ashwagandha가 담즙정체형 간 손상, 간경변 환자 금기.
 [^67]: The efficacy of traditional Chinese medicine on immune function in patients with hepatitis B-related liver fibrosis or cirrhosis. 메타분석, 2585명. DOI: [10.3389/fmed.2026.1872781](https://doi.org/10.3389/fmed.2026.1872781) · PMID: 42548801. 중의학+핵산 유사체 병용이 면역·간 기능 개선.
 [^68]: Comparison of the efficacy and action mechanism of Chinese patent medicines for liver fibrosis and cirrhosis. 메타분석, 37380명. DOI: [10.1016/j.phymed.2025.157246](https://doi.org/10.1016/j.phymed.2025.157246) · PMID: 40976125. 간섬유화엔 안락화선환, 간경변엔 육미오령정 효과적.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 간경변에 대한 한약 연구 대부분이 방법론적 질이 낮고 출판 편향이 관찰되어, 표준화된 보고 지침과 고품질 무작위 대조 시험이 필요하다.[^45][^67]
-- 복수·비보상성 간경변에 대한 한의 중재의 장기 안전성과 구체적인 처방·용법 확립을 위한 정교한 임상 시험이 필요하다.[^45]
-- 경혈 부착 요법(acupoint application)의 유효성·안전성을 평가하는 체계적 고찰이 진행 중이며 결과 도출이 필요하다.[^56]
-- 부정화어 정제의 간부전 후 추가 간부전 위험 감소 효과를 검증하는 다기관 무작위 대조 시험이 진행 중이며 결과 도출이 필요하다.[^55]
-- 간경변 동반 간세포암에서 삼사묘방의 무재발 생존율 향상은 유망하나, 간경직도 감소와 재발률 감소 사이의 직접적 인과관계에 대한 추가 연구가 필요하다.[^53]
-- 검색으로 확보한 논문 중 간질환 진료에 관한 의료진 지식·태도 조사(10.1111/jep.14261)와 식물 유래 간 보호제의 민족약리학적 리뷰(10.1002/ptr.70383) 등은 배경·맥락 설명에 적합하여 치료 각주의 주된 표제어에서 제외하였다.

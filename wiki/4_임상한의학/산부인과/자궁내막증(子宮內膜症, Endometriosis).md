@@ -138,7 +138,3 @@
 [^35]: Efficacy and safety of acupuncture-related therapies in symptomatic endometriosis: a systematic review and network meta-analysis. Arch Gynecol Obstet. 2025. 메타분석, 1545명. DOI: [10.1007/s00404-025-07979-8](https://doi.org/10.1007/s00404-025-07979-8) · [PMID 40019501](https://pubmed.ncbi.nlm.nih.gov/40019501/).
 [^36]: Emerging Non-Pharmacological Approaches in Endometriosis. J Clin Med. 2026. 문헌고찰. DOI: [10.3390/jcm15114136](https://doi.org/10.3390/jcm15114136) · [PMID 42278994](https://pubmed.ncbi.nlm.nih.gov/42278994/).
 [^37]: Acupuncture for pain in endometriosis. Cochrane Database Syst Rev. 2011. 체계적 고찰, 67명. DOI: [10.1002/14651858.CD007864.pub2](https://doi.org/10.1002/14651858.CD007864.pub2) · [PMID 21901713](https://pubmed.ncbi.nlm.nih.gov/21901713/).
-
-## 미충족 근거 / 추가 연구 필요
-
-현재 근거로는 자궁내막증에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 효과는 일시적일 수 있어 지속적인 관리가 필요하며,[^36] 개별 연구들의 설계·품질 한계가 있으므로 환자 상태에 맞게 신중히 적용해야 한다.[^17] 이침 치료의 근거는 단일 연구에 기반한 제한적인 수준이다.[^37] 추후 더 많은/더 정밀한 연구(대규모 임상시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료와 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 주제와 무관하거나 비한의학으로 판단된 일부 문헌고찰(예: Modern Studies of Acupuncture)은 본 문서의 각주에서 제외하였다.

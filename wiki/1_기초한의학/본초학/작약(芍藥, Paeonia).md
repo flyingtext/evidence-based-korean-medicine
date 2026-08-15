@@ -57,14 +57,6 @@
 **Q5. 작약을 항암 치료 중인 환자에게 써도 되나요?**
 작약감초탕은 옥살리플라틴·파클리탁셀 등 항암제로 인한 말초신경병증·근육통·관절통 완화에 유용한 근거가 있습니다.[^40][^41][^42] 다만 파클리탁셀 유발 근육통에 위약 대비 유의한 효과를 확인하지 못한 연구도 있어,[^43] 개별 환자 상태에 맞춘 신중한 적용이 필요합니다.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 작약 단일 본초에 대한 고품질 무작위 대조 시험은 상대적으로 제한적이며, 대부분 작약감초탕·당귀작약산·작약총배당체 등 복합 처방·제제 연구에 집중되어 있다. 추후 국제적으로 표준화된 작약 단일 제제의 대규모 RCT가 필요하다.
-- 작약총배당체(TGP)의 자가면역 질환 효과는 유망하나 대부분 중국 단일기관 연구 수준이므로, 확정적 결론을 위한 대규모 전향적 연구가 필요하다.[^25][^26][^27][^28][^29]
-- 작약감초탕의 감초 성분에 의한 가성알도스테론증·저칼륨혈증 위험에 대한 장기 안전성 연구와, 감초 함량을 줄인 제형의 유효성·안전성 비교 연구가 추가로 요구된다.[^34][^35][^36][^37][^38]
-- 작약 유효 성분(파에오니플로린·알비플로린)의 임상 효능은 대부분 실험연구·소규모 연구 수준이어서, 인간 대상 고품질 임상 연구가 추가로 요구된다.[^31]
-- 작약과 양약(항경련제·항암제·항응고제 등)과의 약물 상호작용에 대한 체계적 연구가 부족하다.[^44][^45]
-
 [^1]: Immediate effect of Shakuyaku-kanzo-to on muscle cramp in hemodialysis patients. 임상시험, 71명. DOI: [10.1159/000093256](https://doi.org/10.1159/000093256). 작약감초탕이 투석 중 근경련을 5.3분 내 완화.
 [^2]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with Lumbar Spinal Stenosis and Its Minimum Effective Dose. 임상시험, 58명. PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/). 작약감초탕이 요추관 협착증 근경련에 에페리손보다 효과적.
 [^3]: Clinical assessment of usefulness, effectiveness and safety of jackyakamcho-tang on muscle spasm and pain: a case series. 증례, 81명. DOI: [10.1142/S0192415X04002247](https://doi.org/10.1142/S0192415X04002247).

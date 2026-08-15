@@ -226,11 +226,3 @@
 [^51]: Reduced Pain by Mind-Body Intervention Correlates with Improvement of Shoulder Function. 임상시험, 65명. DOI: [10.1155/2022/6149052](https://doi.org/10.1155/2022/6149052). 심신 중재가 통증·가동 범위 즉각 개선.
 [^52]: Traditional, Complementary, and Alternative Medicine for Self-Care in Chronic Neck and Shoulder Pain. 체계적 고찰. DOI: [10.3390/nursrep16020044](https://doi.org/10.3390/nursrep16020044). TCAM 자기관리가 신체 통증 관리 중심, 심리·사회 접근 부족.
 [^53]: Integration of a Kampo medicine, Nijutsuto, and Western medical treatment in the treatment of long-term frozen shoulder. 증례, 13명. DOI: [10.1177/2156587214568346](https://doi.org/10.1177/2156587214568346). 이술탕(二朮湯)이 장기 동결견 통증 완화에 유효.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 어깨 통증에 대한 침 단독 치료의 근거는 표본 크기가 작고 근거 질이 낮아, 표준화된 프로토콜을 갖춘 대규모 무작위 대조 시험이 필요하다.[^25]
-- 건침·전침이 기존 재활·물리치료에 유의한 추가 이점을 제공하지 않거나 근활성도에 단기 변화를 유발하지 않는 상반된 결과가 보고되어, 최적의 시술 횟수·간격·적응증에 대한 연구가 필요하다.[^36][^37][^38]
-- 봉침(蜂鍼)은 아나필락시스 등 과민 반응과 표준화된 농도·용량에 대한 연구가 추가로 필요하다.[^39][^41]
-- 추나·도수요법은 고속저진폭 추나의 효과가 제한적이라는 상반된 결과가 있어, 기법별·적응증별 효과를 구분하는 체계적 연구가 필요하다.[^8][^44][^45]
-- 부항·이침·지압 등 보조 요법의 근거는 제한적이며, 표준화된 적용 기준에 대한 대규모 연구가 요구된다.[^47][^52]

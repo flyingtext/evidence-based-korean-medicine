@@ -171,10 +171,3 @@
 [^23]: Comparison of Serenoa repens, lycopene, and selenium versus dutasteride for the treatment of LUTS/BPH: an Italian multicenter case-control prospective study (COMP study). 관찰연구, 269명. DOI: [10.3389/fruro.2025.1565240](https://doi.org/10.3389/fruro.2025.1565240) · PMID: [40777606](https://pubmed.ncbi.nlm.nih.gov/40777606/). 톱야자 복합제가 두타스테리드와 유사 효과, 성기능 부작용 적음.
 [^24]: Efficacy of Prunella vulgaris on Male Lower Urinary Tract Symptoms: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. 임상시험, 80명. DOI: [10.5534/wjmh.250154](https://doi.org/10.5534/wjmh.250154) · PMID: [41047360](https://pubmed.ncbi.nlm.nih.gov/41047360/). 약모밀이 IPSS·배뇨 점수·삶의 질 개선, 안전.
 [^25]: Efficacy of Elaeagnus multiflora and Cynanchum wilfordii Complex Extract on Male Lower Urinary Tract Symptoms: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. 임상시험, 100명. DOI: [10.5534/wjmh.250239](https://doi.org/10.5534/wjmh.250239) · PMID: [41508379](https://pubmed.ncbi.nlm.nih.gov/41508379/). 구기자·보골지 복합물이 IPSS·삶의 질 개선, 안전.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 전립선비대증에 대한 침·뜸 치료의 메타분석은 연구 간 이질성이 커, 표준화된 프로토콜을 갖춘 대규모 무작위 대조 시험이 필요하다.[^5]
-- 개별 한약 처방(보신활혈·팔미지황환·시제탕·제령탕 등)의 장기 안전성과 한약-양약 상호작용에 대한 대규모 연구가 필요하다.
-- 식물성·천연물 요법(톱야자·약모밀·구기자·보골지 등)은 표준화된 추출물과 장기 효과에 대한 연구가 추가로 요구된다.[^22]
-- 전립선비대증의 한의 임상진료지침(CPG) 개발을 위한 진단 기준·평가 방법의 표준화 연구가 필요하다.[^3]

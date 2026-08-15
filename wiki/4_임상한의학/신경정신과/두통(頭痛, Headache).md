@@ -122,9 +122,3 @@
 [^24]: Review of Japanese Herbal Medicine Treatment (Kampo) for Primary Headache by Analyzing Case Studies. J Korean Med. 2025. 체계적 고찰, 350명. DOI: [10.22246/jikm.2025.46.3.491](https://doi.org/10.22246/jikm.2025.46.3.491).
 [^25]: Medication Overuse Headache Successfully Treated by Japanese Herbal Kampo Medicine, Yokukansan. Cureus. 2021. 증례, 1명. DOI: [10.7759/cureus.18326](https://doi.org/10.7759/cureus.18326) · [PMID 34725590](https://pubmed.ncbi.nlm.nih.gov/34725590/).
 [^26]: Laser Acupuncture for Migraine and Muscle Tension Headache: A Double-Blind Controlled Trial. Acupunct Med. 1998. 임상시험(RCT), 12명. DOI: [10.1136/aim.16.2.73](https://doi.org/10.1136/aim.16.2.73). 레이저 침은 위약 대비 유의한 효과 없음.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 긴장성·경추성 두통에 대한 침·전침·건침·추나·한약의 근거는 체계적 고찰·메타분석·RCT가 다수 존재하나, 일부 연구(척추 교정 단독, 레이저 침)는 대조군 대비 유의한 차이를 보이지 않아, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^22][^26]
-- 표준화된 취혈·한약 처방 프로토콜과 대규모 다기관 무작위 대조 시험, 양약(NSAIDs·근이완제)과의 장기 비교 및 침·전침·건침·추나 단독 요법의 유효성·안전성을 뒷받침할 체계적 고찰이 추가로 필요하다.[^6][^8]
-- 만성 긴장성 두통·경추성 두통·약물 과용 두통 등 특수 군에서의 한의 중재 근거가 제한적이므로, 이를 뒷받침할 더 정밀한 임상 연구와 압통 역치·경추 가동범위 등 객관적 반응 지표 개발이 요구된다.

@@ -73,11 +73,4 @@
 [^21]: Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. 체계적 고찰. DOI: [10.1345/aph.10031](https://doi.org/10.1345/aph.10031). 인삼·와파린 병용 시 항응고 효과 감소 가능성.
 [^22]: Functional foods: How functional are they? A case report of supplement-induced psychosis. 증례, 1명. DOI: [10.1177/0091217417696733](https://doi.org/10.1177/0091217417696733). 건강기능식품 복합 복용 시 정신병적 삽화 유발 가능성.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 인삼(人蔘)은 면역·피로·암 지지요법·대사·성기능 등에서 풍부한 근거가 축적되어 있으나, 제형·용량·진세노사이드 성분 프로필의 표준화가 부족해 개별 연구 간 이질성이 있다.[^4][^8]
-- 갱년기 증상·정액 질 개선 등 일부 영역에서는 분석된 연구의 질적 수준이 낮고 편향 위험이 높아, 현재 근거로는 임상적 결론을 내리기에 아직 연구가 충분하지 않다. 추후 더 많은 대규모 무작위 대조시험·체계적 고찰이 필요하다.[^23]
-- 검색으로 확보한 논문 중 일부는 인삼(人蔘)이 아닌 다른 약재(황기·은행엽·마황 등)나 인삼 성분의 실험·전임상 연구를 주로 다루어, 주제와의 관련성이 낮아 각주에서 제외하였다.
-- 인삼양영탕(人蔘養榮湯) 등 인삼 함유 복합 처방의 근거는 개별 본초로서의 인삼 효과와 구분하여 해석해야 하며, 처방 맥락에 따른 해석이 필요하다.[^4]
-
 [^23]: Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials. 체계적 고찰. DOI: [10.5142/jgr.2013.37.30](https://doi.org/10.5142/jgr.2013.37.30). 갱년기 증상 개선 가능성, 연구 질 낮음.

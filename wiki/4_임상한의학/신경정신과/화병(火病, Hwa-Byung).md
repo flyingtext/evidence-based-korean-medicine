@@ -169,11 +169,3 @@
 [^21]: Efficacy and Safety of Virtual Reality-Based Versus Traditional Emotion-to-Emotion Therapy for Treatment of Hwa-Byung: A Protocol for a Single-Center, Randomized, Assessor-Blind, Parallel-Group Clinical Trial. 임상시험(프로토콜), 96명. DOI: [10.3390/healthcare12232407](https://doi.org/10.3390/healthcare12232407) · PMID: [39685029](https://pubmed.ncbi.nlm.nih.gov/39685029/). VR-ETE.
 [^22]: Racial Discrimination and Hwa-byung among Foreign Residents in South Korea: a cross-sectional study. 관찰연구, 601명. DOI: [10.3831/KPI.2026.29.2.212](https://doi.org/10.3831/KPI.2026.29.2.212) · PMID: [42368508](https://pubmed.ncbi.nlm.nih.gov/42368508/).
 [^23]: Development of digital therapeutics in Hwa-byung treatment: exploring innovation potential in Korean medicine through practitioner survey. 관찰연구, 864명. DOI: [10.3389/fmed.2024.1512337](https://doi.org/10.3389/fmed.2024.1512337) · PMID: [39882515](https://pubmed.ncbi.nlm.nih.gov/39882515/). DTx 도입 수요.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 화병의 침(사암침)·한약(가감억간산) 치료 근거는 아직 소규모 임상시험·프로토콜 단계에 머물러, 표준화된 진단 기준과 엄격한 대조군을 갖춘 대규모 무작위 대조 시험이 필요하다.[^14][^17]
-- 심신요법·심리치료 연구는 방법론적 질적 한계(대조군 설정 부족 등)가 있어, 고품질 체계적 고찰·대규모 임상시험이 필요하다.[^5][^6]
-- 디지털 치료제·VR-ETE 등 신중재는 프로토콜·파일럿 단계로, 대규모 무작위 대조 시험을 통한 효과 검증이 필요하다.[^19][^20][^21]
-- 화병은 한국 고유 문화 관련 증후군으로서 진단 기준의 표준화와 자살 예방을 위한 체계적 선별·관리 연구가 더 필요하다.[^7]
-- 검색으로 확보한 논문 중 억간산(抑肝散) 단독·일반 불면·신경증 등 화병과 직접 관련 없는 주제의 논문은 본 문서의 각주에서 제외하였다.

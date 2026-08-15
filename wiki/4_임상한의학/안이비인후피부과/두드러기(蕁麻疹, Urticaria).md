@@ -150,11 +150,3 @@
 [^34]: Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000016127](https://doi.org/10.1097/md.0000000000016127). 자가혈·자가혈청 혈자리 주입 요법 평가 프로토콜.
 [^35]: Acupuncture combined with pricking and cupping therapy is effective in patients with chronic spontaneous urticaria. 관찰연구, 75명. PMID: [36915747](https://pubmed.ncbi.nlm.nih.gov/36915747/). 침+점자출혈 부항이 Th1/Th2 균형·IgE·IL-4 조절.
 [^36]: Knowledge, Attitude, and Practice Towards Urticaria in an Online Sample of the Chinese General Population. 관찰연구, 1056명. DOI: [10.2340/actadv.v105.43859](https://doi.org/10.2340/actadv.v105.43859) · PMID: 40985576. TCM 경험이 지식·실천 점수와 연관.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 침·사혈·부항·이침·매선·자가혈액요법 등 침구 요법의 두드러기 근거는 유망하나, 표준화된 혈위·치료 횟수·기간을 적용한 대규모 이중맹검 무작위 대조 시험이 더 필요하다.[^4][^5][^8][^9]
-- 한약(당귀음자·옥병풍산·계지탕·신기방 등)의 근거는 일부 소규모 임상시험·프로토콜에 의존하며, 일부 메타분석에서는 신중한 해석이 필요하다. 고품질의 대규모 RCT로 확증하는 것이 요구된다.[^7][^11]
-- 변증(풍열·풍한·혈허생풍·습열·기혈부족) 유형별 치료 반응을 뒷받침하는 기전 연구와 장기 추적 데이터가 아직 부족하다. 변증에 따른 맞춤 한의 중재 근거 마련이 필요하다.[^1][^2][^3]
-- 생물학적 제제(오말리주맙)와 한약을 병용한 통합 치료의 실제 임상 효능·안전성 연구가 진행 중이며, 결과가 나오면 임상 적용 근거를 강화할 것으로 기대된다.[^11]
-- 검색으로 확보한 논문 중 일광피부염(디마티티스 솔라리스)·갑상선 기능 항진증·봉침 피부염·알레르기 일반론·2023년 전통의학 성과 등 주제와 직접 관련이 낮은 문헌고찰·증례·실험연구는 각주에서 제외하고, 두드러기 치료의 직접 근거로는 해석하지 않았다.

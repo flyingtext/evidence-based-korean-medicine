@@ -173,14 +173,5 @@
 [^29]: Construction and validation of a predictive model for HBsAg loss in chronic hepatitis B patients treated with Peg-IFNα-2b. 관찰연구, 859명. DOI: [10.3389/fcimb.2026.1865116](https://doi.org/10.3389/fcimb.2026.1865116) · PMID: 42582207. TCM 병용·낮은 HBsAg·AST가 HBsAg 소실 예측 인자.
 [^30]: Study on chemoprevention of hepatocellular carcinoma by ginseng: an introduction to the protocol. 임상시험(프로토콜), 300명. DOI: [10.3346/jkms.2001.16.S.S70](https://doi.org/10.3346/jkms.2001.16.S.S70) · PMID: 11748380. 홍삼 1g/일 5년 투여가 간암 예방 효과 검증 계획.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 만성 B형·C형 간염에 대한 한약 연구 대부분이 방법론적 질이 낮고 출판 편향이 관찰되어, 표준화된 보고 지침과 고품질 무작위 대조 시험이 필요하다.[^2][^3]
-- 만성 B형 간염 한약 RCT의 무작위 배정 품질이 매우 낮아, 배정 은폐·눈가림을 갖춘 엄격한 설계가 요구된다.[^31]
-- 간섬유화·간경변증에 대한 한약 병용의 장기 안전성과 간 기능 모니터링에 대한 대규모 연구가 필요하다.[^9][^10]
-- 부정화어 정제의 간부전 후 추가 간부전 위험 감소 효과를 검증하는 다기관 무작위 대조 시험이 진행 중이며, 결과 도출이 필요하다.[^32]
-- 홍삼의 간세포암 예방 효과를 검증하는 장기 임상 연구가 진행 중이며, 결과 도출이 필요하다.[^30]
-- 검색으로 확보한 논문 중 역학·유병률 조사(HCV 유전자형 분포, 지역별 혈청 유병률 등)는 주제와 무관하거나 예방적 성격이 강해 본 문서의 치료 각주에서 제외하였다.
-
 [^31]: Misuse of randomization: a review of Chinese randomized trials of herbal medicines for chronic hepatitis B. 체계적 고찰, 20452명. DOI: [10.1142/S0192415X0200017X](https://doi.org/10.1142/S0192415X0200017X) · PMID: 12067091. 만성 B형 간염 한약 RCT의 무작위 배정 품질 매우 낮음.
 [^32]: Fuzheng Huayu tablets reduces the risk of further decompensation after the first decompensation in patients with HBV-related cirrhosis: protocol for a randomized, double-blind, placebo-controlled, multicenter trial. 임상시험(프로토콜), 432명. DOI: [10.3389/fphar.2026.1828944](https://doi.org/10.3389/fphar.2026.1828944) · PMID: 42465987. 부정화어 정제가 간부전 후 추가 간부전 위험 감소 검증 중.

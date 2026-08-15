@@ -55,13 +55,6 @@
 **Q5. 단삼의 부작용은 없나요?**
 단삼은 대체로 안전하나, 항응고제와 병용 시 출혈 위험이 증가할 수 있고,[^24][^52] 대규모 시판 후 안전성 감시 연구에서 이상 반응 보고가 있습니다.[^50] 심혈관 질환 환자가 양약을 복용 중이라면 상호작용을 면밀히 검토해야 합니다.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 단삼 단일 본초에 대한 고품질 무작위 대조 시험은 일부에서 심혈관 위험 인자 개선 효과가 없다는 상반된 결과가 있어,[^31] 추후 국제적으로 표준화된 단삼 단일 제제의 대규모 RCT가 필요하다.
-- 단삼주사액·단홍주사액의 뇌졸중·급성심근경색 효과는 유망하나 대부분 중국 단일기관 연구 수준이므로, 확정적 결론을 위한 다기관 대규모 전향적 연구가 요구된다.[^2][^19][^20][^33]
-- 단삼의 장기 투여 안전성과 양약(항응고제·항혈소판제·항암제 등)과의 약물 상호작용에 대한 체계적 연구가 부족하다.[^24][^47][^52]
-- 단삼 유효 성분(탄시논·단삼소·리토스페르민산)의 임상 효능은 대부분 실험연구·소규모 연구 수준이어서, 인간 대상 고품질 임상 연구가 추가로 요구된다.[^3][^8][^25][^40]
-
 [^1]: [Observation on therapeutic effect of eye acupuncture on cognition disorders in patients of chronic cerebral circulation insufficiency]. 임상시험. PMID: [19873913](https://pubmed.ncbi.nlm.nih.gov/19873913/).
 [^2]: Forty-six cases of acute cerebral infarction treated with the combined use of acupuncture and drugs. 임상시험. PMID: [18246677](https://pubmed.ncbi.nlm.nih.gov/18246677/).
 [^3]: Danshen (Chinese medicinal herb) preparations for acute myocardial infarction. 체계적 고찰. DOI: [10.1002/14651858.CD004465.pub2](https://doi.org/10.1002/14651858.CD004465.pub2). PMID: [18425903](https://pubmed.ncbi.nlm.nih.gov/18425903/).

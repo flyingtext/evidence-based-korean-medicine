@@ -169,14 +169,6 @@
 [^39]: A Standardized Copper Bian-Stone Gua Sha Protocol for Treating Chronic Fatigue Syndrome in Human Subjects. 기타. DOI: [10.3791/70472](https://doi.org/10.3791/70472). 구리 편석 괄사가 독맥·방광경 배수혈 따라 피로 개선.
 [^40]: Comparative efficacy of various exercise therapies for chronic fatigue syndrome: A systematic review and network meta-analysis. 네트워크 메타분석, 2,831명. DOI: [10.1016/j.isci.2025.114178](https://doi.org/10.1016/j.isci.2025.114178). GET이 피로·우울·불안 단기 개선에 우수, 기공·요가·근력 훈련 일부 이점.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 만성피로증후군에 대한 한의 중재(침·뜸·부항·추나·기공·한약)의 근거는 메타분석과 임상시험이 다수 존재하나, 대부분 연구 질이 낮거나 중간 수준이고 표본이 작아 확정적인 결론을 내리기에는 아직 연구가 충분하지 않다.
-- 연구 간 시술 표준화·대조군·추적 기간·피로 종점(FS-14·FAI·FSS·MFI-20)이 상이하여, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
-- 변증별(기허혈어·기혈양허·간울비허·심비양허·비신양허) 맞춤 한약 처방과 침구 요법의 장기 재발 예방 효과를 뒷받침할 대규모 전향적 연구가 필요하다.
-- Long COVID 동반 ME/CFS에 대한 전침·한약·뇌-장 축 기반 치료의 효과를 검증할 고품질 임상시험이 요구된다.
-- 한약·침구 요법의 안전성과 표준화된 제제 개발, 그리고 기존 약물·행동 치료와의 병용 효과를 평가할 추가 연구가 필요하다.
-
 ## 검색에서 제외된 논문
 
 - 악액질(cachexia) 관련 문헌고찰(Phytotherapy for Cachexia)은 만성피로증후군과 간접 관련이 있어 각주에는 포함하되 본문 서술은 보조적으로만 활용하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.

@@ -136,13 +136,6 @@
 [^36]: Serum uric acid levels and cardiorenal complication prevalence in hypertensive patients before and after the COVID-19 pandemic. 관찰연구, 3,036명. DOI: [10.3389/fendo.2026.1830233](https://doi.org/10.3389/fendo.2026.1830233). 고요산혈증과 심혈관-신장 합병증 위험.
 [^37]: Navigating complementary and alternative medicine use, medication adherence, and herb-drug interaction risks among gout patients: a multicenter cross-sectional study in indonesia. 관찰연구, 430명. DOI: [10.1515/jcim-2025-0211](https://doi.org/10.1515/jcim-2025-0211). CAM 사용이 약물 순응도 저하·상호작용 위험.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 통풍에 대한 한의 중재(침·뜸·약침·사혈·부항·한약)의 근거는 메타분석과 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·요산 종점이 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
-- 화침·온침·전침의 요산 저하 효과는 통증·염증 지표 개선 근거에 비해 상대적으로 부족하여, 이를 뒷받침할 장기 대규모 임상시험이 요구된다.[^24][^22]
-- 사묘산·청펑 연고·진피통풍방 등은 체계적 고찰·임상시험 프로토콜 단계로, 결과 도출이 필요하다.[^17][^25]
-- 통풍성 신병증·간헐기 재발 방지 등 장기 종점을 대상으로 한 한의 중재의 대규모 전향적 연구와, 변증별·병기별 맞춤 치료 전략을 확립할 추가 연구가 필요하다.[^10][^12]
-
 ## 검색에서 제외된 논문
 
 - 당귀념통탕(當歸念痛湯)은 실험실 환경에서 항염 효과를 보였으나 임상적 유효성이 확인되지 않아, 급성 통풍의 일차 치료제로는 부적절하다는 결과를 본문에 정직하게 반영하였다.[^38]

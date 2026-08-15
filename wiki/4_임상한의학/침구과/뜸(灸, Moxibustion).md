@@ -128,10 +128,3 @@
 [^32]: Intrarater and Interrater Reliability of Infrared Image Analysis of Forearm Acupoints before and after Moxibustion. Evid Based Complement Alternat Med. 2020. 실험연구, 20명. DOI: [10.1155/2020/6328756](https://doi.org/10.1155/2020/6328756).
 [^33]: Thermal Field Analysis of Two Kinds of Suspended Moxibustion. 2021. 실험연구. DOI: [10.21203/rs.3.rs-516643/v1](https://doi.org/10.21203/rs.3.rs-516643/v1).
 [^35]: Development of non-traumatic-pain acupuncture-moxibustion apparatus and its industrialization. Zhongguo Zhen Jiu. 2017. 기타. DOI: [10.13703/j.0255-2930.2017.06.027](https://doi.org/10.13703/j.0255-2930.2017.06.027) · [PMID 29231514](https://pubmed.ncbi.nlm.nih.gov/29231514/).
-
-## 미충족 근거 / 추가 연구 필요
-
-- 뜸 치료의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 이질성이 크며 출판 편향 가능성이 지적되어, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^8][^9]
-- 둔위 교정을 위한 뜸은 코크란 체계적 고찰에서 긍정적 가능성을 보이나, 비중국인 임산부 RCT에서는 유의한 효과가 없어 문화적 배경·방법론을 고려한 대규모 고품질 연구가 필요하다.[^10][^19]
-- 요추 추간판 탈출증·무릎 골관절염 등에서 뜸의 표준화된 시술 프로토콜과 임상진료지침(CPG) 개발이 진행 중이며, 이를 뒷받침할 대규모 다기관 무작위 대조 시험이 요구된다.[^14][^20][^21]
-- 검색 과정에서 뜸과 직접 관련이 없거나 교육·기기 개발 등 임상 효능과 무관한 논문(침구학 교육, 기기 산업화 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.

@@ -203,11 +203,3 @@
 [^49]: Qigong reduces stress in computer operators. 임상시험, 20명. DOI: [10.1016/j.ctcp.2006.09.003](https://doi.org/10.1016/j.ctcp.2006.09.003) · PMID: 17400142. 기공이 컴퓨터 작업자 교감신경 활성도·스트레스 완화.
 [^50]: Effects of Qi-training (Qigong) on forearm blood gas concentrations. 실험연구. PMID: [15636359](https://pubmed.ncbi.nlm.nih.gov/15636359/). 기공 훈련이 혈중 산소 분압 상승·이산화탄소 분압 하강.
 [^51]: Biochemical changes after a qigong program: lipids, serum enzymes, urea, and creatinine in healthy subjects. 임상시험, 29명. PMID: [18049436](https://pubmed.ncbi.nlm.nih.gov/18049436/). 기공 수련이 간·신장 기능 지표 개선.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 기혈에 대한 연구는 대부분 관찰연구·소규모 임상시험에 국한되어, 표준화된 기혈 진단 기준과 고품질 무작위 대조 시험이 필요하다.[^1][^2]
-- 보기활혈·활혈거어 한약의 심혈관·대사 질환 효과는 유망하나, 장기 추적을 포함한 대규모 연구가 필요하다.[^26][^28]
-- 기공(氣功)의 혈압·스트레스·대사 개선 효과는 유망하나, 더 엄격한 설계의 연구를 통한 근거 확보가 필요하다.[^46][^47]
-- 설진·객관적 지표 기반 기혈 진단의 표준화와 임상 적용 검증이 필요하다.[^19][^21]
-- 검색으로 확보한 논문 중 신생아·소아 처치 통증, 특정 수술 합병증 등은 주제(기혈 생리·병리)와 무관하거나 비한의학적 판단되어 본 문서의 각주에서 제외하였다.

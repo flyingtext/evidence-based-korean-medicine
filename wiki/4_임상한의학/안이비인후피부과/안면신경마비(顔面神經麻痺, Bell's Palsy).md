@@ -193,9 +193,3 @@
 [^41]: A Case Report of a Patient with Guillain-Barre Syndrome Complaining of Limb Weakness and Facial palsy. 증례. DOI: [10.22246/jikm.2021.42.4.695](https://doi.org/10.22246/jikm.2021.42.4.695).
 [^42]: A Case of Invasive Rhino-Orbito-Cerebral Mucormycosis After Acupuncture Therapy for Bell's palsy. 증례. DOI: [10.3342/kjorl-hns.2024.00122](https://doi.org/10.3342/kjorl-hns.2024.00122).
 [^43]: Improvement in Unilateral Horizontal Gaze Palsy Caused by Middle Cerebral Artery Infarction. 증례. DOI: [10.22246/jikm.2025.46.3.534](https://doi.org/10.22246/jikm.2025.46.3.534).
-
-## 미충족 근거 / 추가 연구 필요
-
-현재 안면신경마비에 대한 한의학적 근거는 다기관 임상시험·메타분석 등 고품질 근거가 축적되고 있으나, 대부분의 침·한약 근거는 중등도 수준의 임상시험과 관찰연구에 집중되어 있다. 특히 침 치료의 효능에 대해서는 Cochrane 체계적 고찰이 "설계의 질적 결함으로 확정적 결론을 내리기 어렵다"고 밝혔으므로,[^1] 향후 배정 은폐·표본 크기·추적 관찰이 견고한 대규모 무작위대조시험과 체계적 고찰이 필요하다. 초기 스테로이드와 침·한약의 병용 효과를 규명하는 무작위 시험,[^11] 후유증(연합운동·근위축)에 대한 매선침·정밀 자침의 장기 추적 연구[^22][^24]가 더 축적된다면 한의학적 접근의 임상적 가치를 더욱 뒷받침할 수 있을 것으로 기대된다.
-
-검색 과정에서 수집된 일부 논문(뇌졸중 후 중추성 마비, 람세이헌트증후군, 외상성·백신 관련 마비 등)은 주제와 관련성이 있어 하위 표제어 및 감별 항목에 반영하였다. 실험연구·기타 문헌(예: 침의 신경해부학적 기전 등) 중 비임상적 내용은 본 각주에서 제외하였다.

@@ -121,7 +121,3 @@
 [^21]: Effects of herbal medicines on menopausal symptoms induced by gonadotropin-releasing hormone agonist therapy. 2001. 관찰연구, 22명. [PMID 11332582](https://pubmed.ncbi.nlm.nih.gov/11332582/).
 [^22]: A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes: A Systematic Review. Biomedicines. 2019. 체계적 고찰. DOI: [10.3390/biomedicines7030060](https://doi.org/10.3390/biomedicines7030060).
 [^23]: Effects of Gyejibokryeong-hwan on climacteric syndrome with blood stasis. Integr Med Res. 2023. 임상시험. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951).
-
-## 미충족 근거 / 추가 연구 필요
-
-현재 근거로는 자궁근종에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 경우 선정 기준을 충족하는 무작위 대조 시험(RCT)이 부족하여 임상적 유효성이 불확실하며, 장기 추적 관찰을 포함한 고품질의 임상 연구가 추가로 필요하다.[^19] 서간산결탕 등 한약 병용 메타분석 연구들은 포함 연구의 방법론적 질이 낮고 이질성이 높아 주의가 필요하다.[^12] 추후 더 많은/더 정밀한 연구(대규모 무작위 대조 시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료, 근종 위치·크기별 치료 반응, 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 자궁근종과 직접 관련이 없거나 비한의학으로 판단된 일부 문헌고찰·계지복령환의 타 질환 적용 논문(류마티스 관절염·고지혈증·전립선암 안면홍조·대장 수술 후 장운동 등)은 주제 관련성을 고려해 일부만 각주에 수록하고 나머지는 제외하였다.

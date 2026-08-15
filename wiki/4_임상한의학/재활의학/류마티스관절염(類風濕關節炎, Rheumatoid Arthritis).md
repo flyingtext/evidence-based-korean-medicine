@@ -209,13 +209,5 @@
 [^41]: Selected CAM therapies for arthritis-related pain: the evidence from systematic reviews. 체계적 고찰. DOI: [10.1097/00002508-200401000-00004](https://doi.org/10.1097/00002508-200401000-00004) · PMID: [14668651](https://pubmed.ncbi.nlm.nih.gov/14668651/). RA 통증에 GLA가 강력한 효과.
 [^42]: Tai chi for rheumatoid arthritis: systematic review. 체계적 고찰. DOI: [10.1093/rheumatology/kem151](https://doi.org/10.1093/rheumatology/kem151) · PMID: [17634188](https://pubmed.ncbi.nlm.nih.gov/17634188/). 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 류마티스 관절염에 대한 침·뜸·봉침 연구는 대부분 표본 수가 적고 방법론적 질이 낮아, 표준화된 치료 프로토콜과 고품질 무작위 대조 시험이 필요하다.[^2][^29]
-- 봉독약침·한약 단독·중서의 결합 치료 등은 현재 프로토콜 단계로, 결과 도출이 필요하다.[^28][^30][^32]
-- 뇌공등(雷公藤, Tripterygium wilfordii) 제제는 유효한 효과가 있을 수 있으나 심각한 이상반응 위험이 매우 높아 이익-위험 평가가 필요하며, 임상 적용에 신중해야 한다.[^43]
-- 아유르베다 의학 등 전통 치료의 근거가 불충분하여, 한의 중재와의 비교·통합을 위한 더 많은 고품질 연구가 필요하다.[^44]
-- 검색으로 확보한 논문 중 슬관절 전치환술(DVT)·골관절염·통풍·부항 일반·미얀마 전통약 등 류마티스 관절염 주제와 무관하거나 류마티스 관절염 중심이 아닌 논문은 본 문서의 각주에서 제외하였다.
-
 [^43]: A systematic review of randomised clinical trials of Tripterygium wilfordii for rheumatoid arthritis. 체계적 고찰. DOI: [10.1016/j.phymed.2006.01.010](https://doi.org/10.1016/j.phymed.2006.01.010) · PMID: [16487688](https://pubmed.ncbi.nlm.nih.gov/16487688/). 뇌공등이 유효하나 심각한 이상반응 위험 높음.
 [^44]: Ayurvedic medicine for rheumatoid arthritis: a systematic review. 체계적 고찰. DOI: [10.1016/j.semarthrit.2004.11.005](https://doi.org/10.1016/j.semarthrit.2004.11.005) · PMID: [15846585](https://pubmed.ncbi.nlm.nih.gov/15846585/). 아유르베다 치료의 충분한 근거 부족.

@@ -122,10 +122,3 @@
 [^22]: Effects of Chinese acupuncture on nausea and vomiting after cholecystectomy: A retrospective study. 관찰연구, 240명. DOI: [10.4240/wjgs.v17.i11.110262](https://doi.org/10.4240/wjgs.v17.i11.110262). 합곡·족삼리 침이 담낭절제술 후 PONV 유의 감소.
 [^23]: Korean hand acupressure reduces postoperative nausea and vomiting after gynecological laparoscopic surgery. 임상시험, 80명. DOI: [10.1097/00000539-200204000-00018](https://doi.org/10.1097/00000539-200204000-00018). K-K9 수지 지압이 부인과 복강경 수술 후 PONV 유의 감소.
 [^24]: Capsicum plaster at the korean hand acupuncture point reduces postoperative nausea and vomiting after abdominal hysterectomy. 임상시험, 160명. DOI: [10.1097/00000539-200210000-00059](https://doi.org/10.1097/00000539-200210000-00059). K-D2 캡사이신 패치가 복식 자궁절제술 후 구토 유의 감소.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 구토에 대한 한의 중재(침·지압·한약·생강)의 메타분석·임상시험 근거가 풍부하나, 대부분 CINV·PONV·NVP에 집중되어 있어 위장관 질환 동반 구토·멀미·주기성 구토 증후군 등은 증례 수준의 근거에 그친다.
-- 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않으며, 임신 중 오심·구토에서 가짜 침 군에서도 효과가 나타난 점을 고려해 위약 효과를 배제한 대규모 무작위 대조시험이 필요하다.
-- 침·지압·TEAS·이침 등 경혈 자극 방식 간의 비교 우월성과 부작용에 대한 정밀 확인, 그리고 한약 단독의 유효성·안전성을 뒷받침할 더 높은 수준의 고품질 연구와 체계적 고찰이 요구된다.
-- 생강의 최적 용량 설정과 장기적 안전성, 그리고 임신오조에서 한약의 태아 안전성에 대한 추가 연구가 필요하다.

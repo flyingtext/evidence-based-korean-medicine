@@ -56,13 +56,6 @@
 **Q5. 지황의 부작용은 없나요?**
 지황 계열 처방은 대체로 안전하나, 팔미지황환에서 약물 유발성 흉막염, 보익(補益) 한약에서 이상 반응 보고가 관찰연구로 확인되었습니다.[^58] 보습·자음 한약은 오래 복용 시 소화 불편·실사 등을 유발할 수 있어 비위허한(脾胃虛寒) 환자에게는 신중히 적용해야 합니다.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 지황 단일 본초에 대한 고품질 무작위 대조 시험은 상대적으로 제한적이며, 대부분 육미지황환·팔미지황환 등 복합 처방 연구에 집중되어 있다. 추후 국제적으로 표준화된 지황 단일 제제의 대규모 RCT가 필요하다.
-- 육미지황환의 인지 기능·알츠하이머병 효과는 유망하나, 대규모 무작위 대조 시험은 일부에서 근거가 제한적이며, 프로토콜 단계의 연구도 있다. 확정적 결론을 위한 다기관 대규모 전향적 연구가 요구된다.[^53][^55]
-- 지황의 장기 투여 안전성과 양약(면역억제제·항응고제·항당뇨제 등)과의 약물 상호작용에 대한 체계적 연구가 부족하다.[^54][^58]
-- 지황 유효 성분(지황 다당·acteoside 등)의 임상 효능은 대부분 실험연구·소규모 연구 수준이어서, 인간 대상 고품질 임상 연구가 추가로 요구된다.[^6][^46][^62]
-
 [^2]: Observation on Clinical Efficacy of External Treatment of Traditional Chinese Medicine Combined with Qiju Dihuang Pill in the Treatment of Diabetic Retinopathy. 임상시험. DOI: [10.62767/jecacm602.7399](https://doi.org/10.62767/jecacm602.7399).
 [^3]: [Effect of liu wei di huang or jin gui shen qi decoction as on adjuvant treatment in small cell lung cancer]. 임상시험. PMID: [1963383](https://pubmed.ncbi.nlm.nih.gov/1963383/).
 [^4]: A Case Report of an Effective Treatment for Syndrome of Inappropriate Secretion of Antidiuretic Hormone with Integration of Western Medicine and Traditional Chinese Medicine. 증례. DOI: [10.26420/jfammed.2023.1335](https://doi.org/10.26420/jfammed.2023.1335).

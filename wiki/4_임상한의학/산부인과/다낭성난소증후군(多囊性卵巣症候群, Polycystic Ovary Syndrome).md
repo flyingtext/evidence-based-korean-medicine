@@ -151,10 +151,3 @@ PCOS는 표현형·동반 대사 상태·연령에 따라 여러 하위 유형�
 [^46]: Mechanism of core acupoints of acupuncture for polycystic ovary syndrome based on data mining and network acupuncture medicine. Zhongguo Zhen Jiu. 2025. 체계적 고찰. DOI: [10.13703/j.0255-2930.20240920-k0003](https://doi.org/10.13703/j.0255-2930.20240920-k0003) · [PMID 41397739](https://pubmed.ncbi.nlm.nih.gov/41397739/).
 [^47]: Exploration of Acupoint Compatibility Patterns in Acupuncture Treatment for Infertility Based on Data Mining. Int J Womens Health. 2025. 체계적 고찰. DOI: [10.2147/IJWH.S578082](https://doi.org/10.2147/IJWH.S578082) · [PMID 41847472](https://pubmed.ncbi.nlm.nih.gov/41847472/).
 [^48]: Traditional herbal medicine for obesity-related polycystic ovary syndrome: a meta-analysis and data mining study. Front Pharmacol. 2025. 메타분석, 5308명. DOI: [10.3389/fphar.2025.1738172](https://doi.org/10.3389/fphar.2025.1738172) · [PMID 41640680](https://pubmed.ncbi.nlm.nih.gov/41640680/).
-
-## 미충족 근거 / 추가 연구 필요
-
-- PCOS에 대한 한약·침·뜸·매선·이침의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 진단·평가 기준·취혈·처방 프로토콜이 비표준화되어 있어 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^2][^26][^31]
-- 침 치료의 가임력(생아 출생률·배란율)에 대한 근거는 코크란 체계적 고찰에서 불확실한 것으로 나타나, 이를 뒷받침할 대규모 다기관 무작위 대조 시험이 시급하다.[^2][^41]
-- 청소년 PCOS에 대한 동아시아 전통의학 중재의 효과·안전성 근거가 제한적이므로, 이를 뒷받침할 더 정밀한 전향적 임상 연구가 요구된다.[^9]
-- 검색 과정에서 PCOS와 직접 관련이 없거나 비한의학적으로 판단된 논문(봉독의 파킨슨병·관절통 적용, 쇠비름의 일반적 약초 효능, 천연물 안드로겐 조절 일반 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하거나 보조적 문헌으로만 활용하였다.

@@ -78,11 +78,3 @@
 [^27]: Validation of Evidence-based Questionnaire for TCM Syndrome Differentiation of Heart Failure and Evaluation of Expert Consensus. 임상시험, 661명. DOI: [10.21203/rs.3.rs-2430316/v1](https://doi.org/10.21203/rs.3.rs-2430316/v1). 심부전 변증 설문지(SDQHF) 신뢰도·타당도.
 [^28]: A Case Report of Pheochromocytoma Presenting With a Tongue Sign Indicative of Blood Deficiency. 증례, 1명. DOI: [10.7759/cureus.79880](https://doi.org/10.7759/cureus.79880). 혈허 설상이 갈색세포종으로 나타난 사례, 통합적 감별 필요.
 [^29]: Construction of a Standardized Tongue Image Database for Diagnostic Education: Development of a Tongue Diagnosis e-Learning System. 실험연구, 125명. DOI: [10.3389/fmedt.2021.760542](https://doi.org/10.3389/fmedt.2021.760542). 설진 표준화 교육용 이미지 DB·e-러닝 시스템.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 설진(舌診)은 디지털 영상 분석·머신러닝으로 객관화가 진행 중이나, 촬영 환경·조명·색보정·측정 위치의 표준화가 아직 완전히 확립되지 않아 연구 간 이질성이 있다.[^1][^2] 추후 더 많은 대규모 전향적 연구가 필요하다.
-- 설진의 관찰자 간 일치도는 중등도~우수 수준이나, 설색·설태의 질감에 대한 신뢰도는 상대적으로 낮아,[^12] 더 세분화된 진단 기준과 임상가 교육이 필요하다.
-- 설진 단독으로 특정 질환을 진단하기보다는 맥진·문진·설문 등과 병행하는 통합적 접근이 권장되며, 설진 결과와 다른 임상 징후가 불일치할 때 기저 질환을 감별하는 연구가 필요하다.[^28]
-- 검색으로 확보한 논문 중 일부는 설진(舌診)보다는 맥진(脈診)·복진(腹診) 등 다른 진단법이나 특정 질환의 변증 분류를 주로 다루어, 설진 자체의 인체 근거가 부족해 각주에서 제외하거나 보조적으로만 활용하였다.
-- 설진의 생리적 변이(성별·연령·일주기 리듬)에 대한 정밀한 보정 모델은 아직 확립되지 않았다. 추후 더 정밀한 연구가 필요하다.[^3][^14]

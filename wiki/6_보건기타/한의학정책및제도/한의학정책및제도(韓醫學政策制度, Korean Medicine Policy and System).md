@@ -281,12 +281,3 @@
 [^81]: Effect of a Comprehensive Health Care Program by Korean Medicine Doctors on Medical Care Utilization for Common Infectious Diseases in Child-Care Centers. 관찰연구. DOI: [10.1155/2014/781675](https://doi.org/10.1155/2014/781675). 어린이집 감염병 방문 12%↓.
 [^82]: Survey of Korean Medicine Doctors Applying to Participate in the School Doctor Program of Korean Medicine. 관찰연구, 57명. DOI: [10.13048/jkm.24028](https://doi.org/10.13048/jkm.24028). 한의학교의 프로그램 개선.
 [^83]: Experience of Dual Medical License Holders with Medical Doctor and Korean Medicine Doctor Licenses in South Korea: A Qualitative Study on Their Motivations for Obtaining Dual Licenses, and Their Study and Work Experiences. 관찰연구, 6명. DOI: [10.37243/kahms.2023.62.91](https://doi.org/10.37243/kahms.2023.62.91). 이중 면허자 정체성 갈등.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 한의학 정책·제도 영역은 대부분 관찰연구·문헌고찰에 기반하며, 정책 개입의 인과적 효과를 검증하는 무작위 대조 시험이 부족하다. 추후 대규모·장기 추적 연구가 필요하다.
-- 한양방 협진의 임상적 유효성·비용-효과성은 일부 질환(안면마비·두통·척추관절염)에서 확인되었으나, 다양한 질환으로 확대한 체계적 고찰·메타분석이 필요하다.[^45][^50][^51]
-- 생성형 AI·LLM의 한의학 진료·교육 적용은 실험연구 수준에 머물러 있어, 실제 임상 적용 전 신뢰성·유효성·윤리적 가이드라인에 대한 추가 검증이 필요하다.[^62][^63][^64]
-- 우울장애 등 일부 영역에서 과학적 근거 축적에도 불구하고 실제 이용률이 감소하는 격차가 있어, 이를 해소할 제도적 개선과 홍보 전략에 대한 연구가 필요하다.[^58][^59]
-- 한의학 건강 문해력이 전반적으로 낮고 이질적이므로, 환자 특성에 맞춘 개별화된 한의학 건강 교육 중재의 효과를 검증하는 연구가 필요하다.[^79][^80]
-- 검색으로 확보한 논문 중 한의학 정책·제도와 직접 관련이 없거나 주제가 이탈한 논문(예: 특정 질환의 임상시험, 개별 처방 효능 연구 등)은 본 문서의 각주에서 제외하였다.

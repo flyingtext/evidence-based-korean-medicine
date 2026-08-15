@@ -118,11 +118,3 @@
 [^21]: Antiulcer Activity of Herbal Medicines: A Review of Current Research. 2025. 문헌고찰. DOI: [10.2174/0127724344407391251210123216](https://doi.org/10.2174/0127724344407391251210123216) · [PMID 42152253](https://pubmed.ncbi.nlm.nih.gov/42152253/).
 [^22]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. Front Med. 2026. 메타분석, 4465명. DOI: [10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753).
 [^23]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: a systematic review and meta-analysis. J Ethnopharmacol. 2025. 메타분석, 2086명. DOI: [10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414) · [PMID 40812557](https://pubmed.ncbi.nlm.nih.gov/40812557/).
-
-## 미충족 근거 / 추가 연구 필요
-
-- 위궤양에 대한 한약·침·혈위도포의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 진단·평가 기준·취혈·처방 프로토콜이 비표준화되어 있어 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^5][^6]
-- 위궤양에서 침 치료의 H. pylori 음전율은 양방 약물보다 낮아,[^13] 제균이 우선인 경우 한약·침을 병용한 통합 치료의 제균율·재발 방지 장기 효과를 뒷받침할 대규모 다기관 무작위 대조 시험이 필요하다.
-- 혈위 약물 패치(AHP)의 유효성·안전성은 아직 프로토콜 단계로, 실제 임상 적용 근거가 추가로 확립되어야 한다.[^14]
-- 변증(한열변증·간위불화·비위허약)·체질과 위궤양의 예후·치료 반응을 객관화할 더 정밀한 전향적 연구가 요구된다.[^9][^10][^19]
-- 검색 과정에서 위궤양과 직접 관련이 없는 논문(부비동염·기타 위장관 질환·비한의학적 약리 실험 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.

@@ -190,11 +190,3 @@
 [^58]: Clinical and experimental studies in treating infantile acute respiratory tract infection with feiyan chuansou oral liquid. 실험연구. PMID: [11367653](https://pubmed.ncbi.nlm.nih.gov/11367653/). 비연천수 구복액이 항균·항염 활성.
 [^59]: A review of frequently used Kampo prescriptions part 1. Daikenchuto. 문헌고찰. DOI: [10.1002/tkm2.1321](https://doi.org/10.1002/tkm2.1321). 대건중탕이 위장관 기능 개선.
 [^60]: Clinical and experimental studies on treating infantile pneumonia with Feiyan Mixture. 임상시험(RCT), 128명. PMID: [11360566](https://pubmed.ncbi.nlm.nih.gov/11360566/). 비연탕이 항생제와 유사 유효율.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 폐렴에 대한 한의 중재 연구는 다수의 메타분석에서 유의한 개선을 보였으나, 개별 연구의 방법론적 질이 낮고 표본이 작으며 무작위 배정 은폐·눈가림 부족으로 인한 편향 위험이 있어, 대규모 다기관 고품질 무작위 대조 시험으로 확증하는 것이 요구된다.[^1][^2][^9]
-- 은맥해독과립(226명), 족삼리·태계 압침(140명), 건식 부항(66명) 등 다수의 RCT 프로토콜이 진행 중이며, 결과가 나오면 지역사회 획득 폐렴·흡인성 폐렴·중증 폐렴의 임상 적용 근거를 강화할 것으로 기대된다.[^11][^15][^25]
-- 소아 마이코플라스마 폐렴·난치성 폐렴의 중성약·한약 근거는 체계적 고찰 진행 단계로, 병원체 내성과 관련한 최적 처방 선택 근거가 더 필요하다.[^8][^46]
-- 중증 폐렴·패혈증, 노인·면역저하자, COVID-19 후유증 등 특수 집단에서의 한의 중재 근거는 관찰연구·증례에 국한되어, 전향적 무작위 대조 시험이 필요하다.[^37][^42]
-- 부항·사혈 등 수기 요법은 폐렴의 보조 요법으로 긍정적 근거를 보이나, 부적절한 단독 사용은 표준 치료를 지연시킬 위험이 있어 안전성 교육과 표준 의료와의 병행이 강조된다.[^54] 한약·대건중탕 등 드물게 간질성 폐렴 부작용이 보고되어, 처방 시 호흡기 이상 반응 모니터링이 필요하다.[^48][^59]

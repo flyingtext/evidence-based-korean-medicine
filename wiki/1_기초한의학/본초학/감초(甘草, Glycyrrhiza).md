@@ -78,11 +78,3 @@
 [^25]: Therapeutic potential of Glycyrrhiza glabra (licorice) in modulating metabolic and inflammatory parameters in women with PCOS. 임상시험. DOI: [10.3897/folmed.68.e165953](https://doi.org/10.3897/folmed.68.e165953). 감초 보충제, PCOS 대사·염증 지표 조절 잠재력.
 [^26]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity. 임상시험, 10명. DOI: [10.3177/jnsv.54.148](https://doi.org/10.3177/jnsv.54.148). 인삼·우황·감초 조합, 부교감신경 활동 강화.
 [^27]: Effect of the combination of ginseng, oriental bezoar and glycyrrhiza on autonomic nervous activity and immune system under mental arithmetic stress. 임상시험, 10명. DOI: [10.3177/jnsv.54.244](https://doi.org/10.3177/jnsv.54.244). 인삼·우황·감초 조합, 정신적 스트레스 자율신경 반응 완화.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 감초(甘草)는 근육 경련·통증, 위장관 질환, 구강·이비인후 질환, 항암 지지요법 등에서 풍부한 근거가 축적되어 있으나, 제형·용량·글리시리진 성분 프로필의 표준화가 부족해 개별 연구 간 이질성이 있다.[^1][^8]
-- 감초의 가성알도스테론증 부작용은 잘 알려져 있으나, 개인차(대사체 생성·체표면적·유전형)에 따른 정밀한 위험 예측 모델은 아직 확립되지 않았다. 추후 더 많은 대규모 전향적 연구가 필요하다.[^13][^14]
-- 파클리탁셀 유발 근육통·관절통에 대한 작약감초탕의 효과는 일부 연구에서 위약 대비 유의한 차이를 보이지 않아,[^21] 현재 근거로는 임상적 결론을 내리기에 아직 연구가 충분하지 않다. 추후 더 정밀한 무작위 대조시험이 필요하다.
-- 검색으로 확보한 논문 중 일부는 감초(甘草)가 아닌 다른 약재(황금·대황·치자 등)나 감초 성분의 실험·전임상 연구를 주로 다루어, 주제와의 관련성이 낮아 각주에서 제외하였다.
-- 작약감초탕(芍藥甘草湯) 등 감초 함유 복합 처방의 근거는 개별 본초로서의 감초 효과와 구분하여 해석해야 하며, 처방 맥락에 따른 해석이 필요하다.[^4][^10]

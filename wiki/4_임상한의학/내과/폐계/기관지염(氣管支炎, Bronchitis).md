@@ -159,11 +159,3 @@
 [^31]: The Effect of Kechuanting Acupoint Application on Symptom Control and Quality of Life in Patients with Chronic Cough. 임상시험, 85명. DOI: [10.53469/jcmp.2025.07(11).09](https://doi.org/10.53469/jcmp.2025.07(11).09). 지해천정 혈위첩부가 만성 기침 증상·삶의 질 개선.
 [^32]: Efficacy and Safety of Ivy Leaf Dry Extract EA 575 in Cough Management: An Updated Review of Clinical Evidence. 체계적 고찰, 102,239명. DOI: [10.1055/a-2745-1130](https://doi.org/10.1055/a-2745-1130). 아이비 추출물이 기침 완화·폐 기능 개선·안전.
 [^33]: Phytotherapeutic, Homeopathic Interventions and Bee Products for Pediatric Infections: A Scoping Review. 체계적 고찰. DOI: [10.3390/nu17193137](https://doi.org/10.3390/nu17193137). 소아 상기도 감염·기관지염 식물요법·벌 제품 유효.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 급성 기관지염에 대한 중약의 근거는 체계적 고찰에서 유망한 결과를 보였으나, 개별 연구의 설계 한계와 출판 편향(publication bias) 위험이 있으며 독성 데이터가 부족해 안전성이 완전히 입증되지 않아, 표준화된 고품질 무작위 대조 시험이 필요하다.[^18]
-- 경혈 약물 첩부법(AHP)·기관지염 고약의 근거는 상당 부분 소규모 임상시험이나 메타분석에 의존하며, 일부 연구는 방법론적 질이 중간 수준이어서 표준화된 프로토콜을 적용한 대규모 시험으로 확증하는 것이 요구된다.[^2][^7][^8]
-- 만성 기관지염의 한약(보폐과립·가미옥병풍산 등) 근거는 주로 중국 임상시험에 기반하며, 변증 유형별 치료 반응과 이를 뒷받침하는 기전 연구가 더 필요하다.[^9][^10][^11]
-- 담열청 경구액(프로토콜, 270명)·만성 기관지염 침 치료(체계적 고찰)·폐수·태연 침구 요법(프로토콜, 60명)·소아 약초 제제(EXOTIC, 56명)는 결과가 나오면 급성·만성 기관지염에 대한 한의 중재의 임상 적용 근거를 크게 강화할 것으로 기대된다.[^3][^15][^16][^28]
-- 아이비 추출물(EA 575) 등 생약 제제는 대규모 근거(체계적 고찰, 102,239명)를 갖추고 있으나, 한의학적 변증·처방 체계와의 직접 비교 근거는 아직 부족하다.[^32]

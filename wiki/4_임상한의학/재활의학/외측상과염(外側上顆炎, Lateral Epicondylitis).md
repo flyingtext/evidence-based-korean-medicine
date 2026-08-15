@@ -232,13 +232,5 @@
 [^54]: Comparison of Traditional Chinese Medicine Treatment and Western Medicine Treatment of Tennis Elbow (External Humeral Epicondylitis). 문헌고찰. DOI: [10.54097/t1c4h835](https://doi.org/10.54097/t1c4h835). 한의 비수술 치료가 낮은 재발률·최소 침습적 효과.
 [^55]: Time-Dependent Efficacy and Safety of Percutaneous Treatments for Lateral Epicondylitis: A Systematic Review and Network Meta-Analysis. 메타분석, 3285명. DOI: [10.2147/JPR.S604185](https://doi.org/10.2147/JPR.S604185) · PMID: 42079417. 회복 단계별 맞춤 치료: 스테로이드(단기)·DPT(중기)·PRP·DN(장기).
 
-## 미충족 근거 / 추가 연구 필요
-
-- 외측상과염에 대한 침·건침 연구는 일부 표본 수가 적고 방법론적 질이 낮아, 표준화된 치료 프로토콜과 고품질 무작위 대조 시험이 필요하다.[^22][^1]
-- 건침과 스테로이드 주사의 비교 근거는 장기 추적을 포함한 대규모 연구가 필요하다.[^27][^40]
-- 도침·화침·약침·뜸·부항 등 한의 중재의 근거는 주로 증례·소규모 연구에 국한되어, 더 많은 고품질 임상 연구가 필요하다.[^5][^9][^48]
-- 초음파 유도 침술+PRP 병행 효과를 검증하는 임상시험과 건침 vs 신경가동술 비교 임상시험이 진행 중이며, 결과 도출이 필요하다.[^56][^57]
-- 검색으로 확보한 논문 중 혈액투석 환자의 합곡혈 지압·주관절 터널 증후군·경추통 척추 교정·뇌졸중 후 상지 경직 등은 주제(외측상과염)와 무관하여 본 문서의 각주에서 제외하였다.
-
 [^56]: Tennis elbow, study protocol for a randomized clinical trial: needling with and without platelet-rich plasma after failure of up-to-date rehabilitation. 임상시험(프로토콜), 58명. DOI: [10.1186/s13018-020-01998-8](https://doi.org/10.1186/s13018-020-01998-8) · PMID: 33028383. 초음파 유도 침술+PRP 병행 효과 검증.
 [^57]: Comparative Effect of Dry Needling and Neural Mobilization on Pain, Strength, Range of Motion, and Quality of Life in Patients With Lateral Epicondylitis: Protocol for Randomized Clinical Trial. 임상시험(프로토콜), 36명. DOI: [10.1016/j.jcm.2021.09.001](https://doi.org/10.1016/j.jcm.2021.09.001) · PMID: 34987324. 건침 vs 신경가동술 비교.

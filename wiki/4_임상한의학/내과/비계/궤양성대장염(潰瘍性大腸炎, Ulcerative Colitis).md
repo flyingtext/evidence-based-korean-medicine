@@ -127,14 +127,6 @@
 [^29]: Determinants of complementary and integrative medicine use in inflammatory bowel disease: a focus on probiotics, prebiotics, and fermentable dietary fibres. 관찰연구, 267명. DOI: [10.3389/fmed.2025.1641767](https://doi.org/10.3389/fmed.2025.1641767). 프로바이오틱스·식이섬유 사용.
 [^30]: Use of Complementary and Alternative Medicine by Greek Patients with Inflammatory Bowel Disease. 관찰연구, 408명. DOI: [10.3390/nu16213679](https://doi.org/10.3390/nu16213679). IBD 환자 CAM 사용률 높음.
 
-## 미충족 근거 / 추가 연구 필요
-
-- 궤양성대장염에 대한 한의 중재(한약·관장·침·뜸·매선)의 근거는 메타분석·임상시험이 다수 존재하나, 연구 간 진단 기준·효능 평가 지표·치료 기간·시술 표준화가 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^25]
-- 갈근진련탕·황금탕 등 처방 메타분석에서 포함 연구의 방법론적 질이 낮고 이질성이 높아, 더 엄격한 대규모 연구가 필요하다.[^16][^21]
-- 혈위 응용·약침의 내시경적·병리적 개선 효과와 점막 치유 종점에 대한 근거는 아직 부족하여, 이를 뒷받침할 장기 대규모 임상시험이 요구된다.[^6][^14]
-- 소아·청소년 UC 환자에 대한 한의 중재의 안전성·유효성 근거가 부족하다.[^31]
-- 중증 환자에서 생물학적 제제와의 병용 효과는 관찰연구 수준에 머물러 있어, 무작위 대조 시험을 통한 확증 연구가 필요하다.[^17][^20]
-
 ## 검색에서 제외된 논문
 
 - 검색 결과에서 베르베린·커큐민·유향(Boswellia)·Andrographis 등 일부 천연물 성분 연구, 소화기 이외 적응증의 침·뜸 문헌, IBD의 역학·CAM 이용 실태 조사 중 주제와 간접 관련이거나 약리·이용률 분석에 국한된 논문은 본 주제의 각주에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.

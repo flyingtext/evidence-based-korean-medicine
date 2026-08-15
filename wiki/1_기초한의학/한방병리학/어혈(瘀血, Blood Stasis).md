@@ -207,11 +207,3 @@
 [^52]: The Effect of Physical Activity on Body Constitution and Psychological Health in Older Adults. 관찰연구, 4497명. DOI: [10.1123/japa.2022-0195](https://doi.org/10.1123/japa.2022-0195) · PMID: 36410341. 신체 활동이 어혈 체질 발생 낮춤.
 [^53]: Multidimensional Sleep Health and Its Association with TCM Constitution Types Among Community-Dwelling Older Adults. 관찰연구, 305명. DOI: [10.1080/07317115.2026.2696835](https://doi.org/10.1080/07317115.2026.2696835) · PMID: 42441415. 노인 수면 장애가 어혈 체질과 연관.
 [^54]: Correlation Analysis of Traditional Chinese Medicine Constitution and Metabolic Indexes in General Physical Examination People. 관찰연구, 1029명. DOI: [10.2174/0118715303302433240918104124](https://doi.org/10.2174/0118715303302433240918104124) · PMID: 39364874. 어혈 체질에서 대사 지표 이상 빈도 높음.
-
-## 미충족 근거 / 추가 연구 필요
-
-- 어혈에 대한 연구는 대부분 관찰연구·소규모 임상시험에 국한되어, 표준화된 어혈 진단 기준과 고품질 무작위 대조 시험이 필요하다.[^1][^2]
-- 활혈거어 한약·계지복령환의 심혈관·대사 질환 효과는 유망하나, 장기 추적을 포함한 대규모 연구가 필요하다.[^26][^35]
-- 설진·객관적 지표 기반 어혈 진단의 표준화와 임상 적용 검증이 필요하다.[^19][^20][^21]
-- 침·사혈·부항·도침 등 외치법의 어혈 치료 근거는 주로 소규모 연구에 국한되어, 더 많은 고품질 임상 연구가 필요하다.[^40][^41][^42]
-- 검색으로 확보한 논문 중 신생아·소아 처치 통증, 특정 수술 합병증 등은 주제(어혈 병리)와 무관하거나 비한의학적 판단되어 본 문서의 각주에서 제외하였다.
