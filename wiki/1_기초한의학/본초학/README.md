@@ -74,6 +74,16 @@
   - 하위 표제어: 세신(細辛) 단미·품종 · 마황부자세신탕(麻黃附子細辛湯) · 소청룡탕(小青龍湯) · 황기신이탕(黃芪細辛湯) · 세신 함유 한약 부착요법·외용
 - [방풍(防風, Saposhnikoviae Radix)](방풍(防風, Saposhnikoviae Radix).md)
   - 하위 표제어: 방풍(防風) 단미·가공 · 방풍통성산(防風通聖散) · 옥병풍산(玉屛風散) · 독활기생탕(獨活寄生湯) · 형개·방풍(荊防) 약쌍 · 천궁·방풍·백지 배합 · 방풍 유효 성분(prim-O-glucosylcimifugin·5-O-methylvisammisoide)
+- [택사(澤瀉, Alismatis Rhizoma)](택사(澤瀉, Alismatis Rhizoma).md)
+  - 하위 표제어: 택사(澤瀉, Alisma orientale) · 택사탕(澤瀉湯) · 오령산(五苓散) · 육미지황환(六味地黃丸) · 알리솔(alisol) 계열 트리테르페노이드
+- [창출(蒼朮, Atractylodis Lanceae Rhizoma)](창출(蒼朮, Atractylodis Lanceae Rhizoma).md)
+  - 하위 표제어: 창출(蒼朮, Atractylodes lancea) · 백출(白朮) · 복방창출탕(復方蒼朮湯) · 아트락틸로딘(atractylodin)
+- [우슬(牛膝, Achyranthis Radix)](우슬(牛膝, Achyranthis Radix).md)
+  - 하위 표제어: 우슬(牛膝, Achyranthes bidentata) · 천우슬(川牛膝) · 우슬다당류(ABP) · 삼묘환(三妙丸)
+- [향부자(香附子, Cyperi Rhizoma)](향부자(香附子, Cyperi Rhizoma).md)
+  - 하위 표제어: 향부자(香附子, Cyperus rotundus) · 초향부(醋香附) · 향부자 기름 · 가미소요산(加味逍遙散)
+- [백지(白芷, Angelicae Dahuricae Radix)](백지(白芷, Angelicae Dahuricae Radix).md)
+  - 하위 표제어: 백지(白芷, Angelica dahurica) · 항지(杭白芷) · 쿠마린 계열 성분 · 백지 정유
 
 ## 동음이의 분류
 
