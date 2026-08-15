@@ -23,7 +23,7 @@
 
 ## 병태생리
 
-서양의학적으로 통풍은 혈중 요산이 과포화되어 요산나트륨 결정이 관절·활액막·신장에 침착되고, 이 결정이 대식세포의 NLRP3 인플라마좀을 활성화하여 IL-1β 등 염증성 사이토카인을 분비해 급성 염증을 유발하는 것이 핵심 병태생리이다.[^1] 요산 생성 증가(푸린 과다 섭취·유전적 요인)와 배설 감소(신장 기능 저하)가 주요 원인이다.[^1] 한의 중재는 요산 합성 효소 억제·요산 수송체 조절·항염증·항산화 작용을 통해 요산 수치를 낮추고 염증을 조절하는 기전이 연구되고 있다.[^9][^14] 계지소요지모탕(桂枝芍藥知母湯)은 IL-17·HIF-1·TNF·PI3K-Akt 등 신호 전달 경로를 조절해 항염증 효과를 나타낸다.[^15]
+서양의학적으로 통풍은 혈중 요산이 과포화되어 요산나트륨 결정이 관절·활액막·신장에 침착되고, 이 결정이 대식세포의 NLRP3 인플라마좀을 활성화하여 IL-1β 등 염증성 사이토카인을 분비해 급성 염증을 유발하는 것이 핵심 병태생리이다.[^1] 요산 생성 증가(푸린 과다 섭취·유전적 요인)와 배설 감소(신장 기능 저하)가 주요 원인이다.[^1] 한의 중재는 요산 합성 효소 억제·요산 수송체 조절·항염증·항산화 작용을 통해 요산 수치를 낮추고 염증을 조절하는 기전이 연구되고 있다.[^9][^14] 계지작약지모탕(桂枝芍藥知母湯)은 IL-17·HIF-1·TNF·PI3K-Akt 등 신호 전달 경로를 조절해 항염증 효과를 나타낸다.[^15]
 
 ## 진단(診斷) 및 감별 진단
 
@@ -60,7 +60,7 @@
 - **사혈(瀉血)·자락(刺絡)**: 방혈요법이 급성 통풍성 관절염의 통증을 유의하게 완화하고 CRP를 낮추며, 양약 대비 부작용 위험이 낮다(메타분석).[^6] 자락혈법이 통증 완화와 요산 수치 감소에 효과적이다(체계적 고찰).[^26]
 - **부항(拔罐)**: 습식 부항이 혈중 요산 수치를 유의하게 감소시킨다(체계적 고찰·임상시험).[^27][^28] 사혈 부항과 한약 병용이 급성 통풍의 염증·통증 완화에 유효하다(증례).[^29]
 - **뜸(灸)**: 자락법과 뜸 병용이 이부프로펜 단독보다 요산 수치 감소 및 관절 증상 개선에 더 효과적이다(임상시험).[^30] 침·뜸 병행이 고요산혈증 환자의 요산·대사 지표를 개선한다(임상시험).[^31]
-- **한약(처방)**: 사묘산(四妙散)·계지소요지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방이 통풍성 관절염의 통증·요산·염증 지표 개선에 유효하다(메타분석·체계적 고찰).[^15][^17][^32] 고요산혈증 환자에게 중약 사용이 통풍성 관절염으로의 이행 위험을 약 43% 감소시킨다(관찰연구).[^8]
+- **한약(처방)**: 사묘산(四妙散)·계지작약지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방이 통풍성 관절염의 통증·요산·염증 지표 개선에 유효하다(메타분석·체계적 고찰).[^15][^17][^32] 고요산혈증 환자에게 중약 사용이 통풍성 관절염으로의 이행 위험을 약 43% 감소시킨다(관찰연구).[^8]
 - **본초(단미재료)**: 토복령(土茯苓)·산초나무 잎(Xanthoceras sorbifolium) 등이 요산 저하·항염증 효과를 보인다(체계적 고찰·임상시험).[^32][^33]
 - **지압(指壓)**: 삼음교(SP6)·태계(KI3) 지압이 통풍 관절통 완화에 유효하다(실험연구·증례).[^34][^35]
 
@@ -79,7 +79,7 @@
 
 - **Q. 침 치료는 통풍에 정말 효과가 있나요?** 네. 단독 침 치료가 통풍성 관절염의 총 유효율을 높이고 혈청 요산 수치를 낮추는 데 양약보다 우수하거나 유사한 효과를 보였습니다(메타분석, 2,048명).[^20] 침과 양약 병용 시 재발 방지 효과가 가장 높았습니다(네트워크 메타분석, 2,394명).[^21]
 - **Q. 사혈·부항은 어떤가요?** 방혈요법이 급성 통풍성 관절염의 통증을 유의하게 완화하고 CRP를 낮추며, 양약 대비 부작용 위험이 낮습니다(메타분석, 894명).[^6] 습식 부항도 혈중 요산 수치를 유의하게 감소시킵니다(체계적 고찰).[^27]
-- **Q. 한약을 복용하면 요산이 내려가나요?** 사묘산(四妙散)·계지소요지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방이 통증·요산·염증 지표 개선에 유효하다는 메타분석·체계적 고찰이 있습니다.[^15][^17][^32] 고요산혈증 환자에게 중약 사용이 통풍으로의 이행 위험을 약 43% 감소시켰습니다(관찰연구, 40,653명).[^8]
+- **Q. 한약을 복용하면 요산이 내려가나요?** 사묘산(四妙散)·계지작약지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방이 통증·요산·염증 지표 개선에 유효하다는 메타분석·체계적 고찰이 있습니다.[^15][^17][^32] 고요산혈증 환자에게 중약 사용이 통풍으로의 이행 위험을 약 43% 감소시켰습니다(관찰연구, 40,653명).[^8]
 - **Q. 급성 발작 때는 무엇이 좋은가요?** 화침·온침과 같은 열 자극 침 치료가 양약 단독보다 총 유효율·요산·통증 완화에 더 효과적입니다(메타분석, 840명).[^24] 자락법과 뜸 병용도 이부프로펜 단독보다 우수했습니다(임상시험, 40명).[^30]
 - **Q. 통풍성 신병증에도 한의 치료가 도움이 되나요?** 변증시치 기반 한방 치료가 통풍성 신병증 환자의 신기능 보호 및 증상 완화에 더 효과적이었습니다(임상시험, 80명).[^10] 침 치료도 통풍성 신손상 환자의 신기능 지표를 개선했습니다(임상시험, 72명).[^11]
 
@@ -89,7 +89,7 @@
 - 침과 양약 병용이 재발 방지에 가장 효과적이다(네트워크 메타분석, 2,394명).[^21]
 - 방혈요법이 급성 통풍의 통증·CRP를 개선하고 부작용이 적다(메타분석, 894명).[^6]
 - 화침·온침이 급성 통풍의 유효율·요산·통증 개선에 유효하다(메타분석, 840명).[^24]
-- 사묘산·계지소요지모탕·토복령 처방이 통증·요산·염증 지표를 개선한다(메타분석·체계적 고찰).[^15][^17][^32]
+- 사묘산·계지작약지모탕·토복령 처방이 통증·요산·염증 지표를 개선한다(메타분석·체계적 고찰).[^15][^17][^32]
 - 중약 사용이 고요산혈증의 통풍 이행 위험을 약 43% 감소시킨다(관찰연구, 40,653명).[^8]
 - 습식 부항·사혈 부항이 요산 수치와 통증을 개선한다(체계적 고찰·증례).[^27][^29]
 
@@ -104,7 +104,7 @@
 | Systematic Review and Meta-Analysis of Efficacy and Safety of Fire Needling and Warm Needling on Acute Gout | 메타분석 | 840 | 높음 | 10.3831/KPI.2022.25.4.301 / 36628350 | 화침·온침이 유효율·요산·통증 개선에 양약보다 효과적 |
 | Systematic Review and Meta-analysis of Electoacupunture Efficacy on Acute Gout | 메타분석 | - | 높음 | 10.13048/jkm.22022 | 전침이 통증·유효율 개선, 약물 병용 시 요산 감소에 유의 |
 | The Correlation between Traditional Chinese Medicine Constitution and Hyperuricemia and Gout: A Systematic Review and Meta-Analysis | 메타분석 | 38,028 | 높음 | 10.1155/2023/5097490 / 37101714 | 담음·습열 체질이 고요산혈증·통풍의 강력한 위험 요인 |
-| Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis | 메타분석 | 1,633 | 높음 | 10.1097/MD.0000000000035973 / 38013344 | 계지소요지모탕이 통증·요산·염증 지표 개선, IL-17·TNF 경로 조절 |
+| Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis | 메타분석 | 1,633 | 높음 | 10.1097/MD.0000000000035973 / 38013344 | 계지작약지모탕이 통증·요산·염증 지표 개선, IL-17·TNF 경로 조절 |
 | Analysis of clinical efficacy of Si Miao decoction combine with acupuncture and cupping treatment for gout | 메타분석 | - | 높음 | 10.12688/f1000research.51053.1 | 사묘탕+침+부항 병용이 요산·CRP·ESR 감소 |
 | Clinical outcomes and safety of Chinese herbal medicine in the treatment of hyperuricemia: A retrospective real-world study | 관찰연구 | 40,653 | 중등도 | 10.1016/j.phymed.2025.157231 / 40975036 | 중약이 통풍 이행 위험 43% 감소, BBR과 유사한 안전성 |
 | Multidimensional therapeutic advantages of Smilax glabra (Tufuling)-containing formulae in gout | 체계적 고찰 | 4,605 | 높음 | 10.3389/fendo.2026.1863098 / 42460320 | 토복령 처방이 습열 변증 통풍의 통증·요산·염증 개선 |
@@ -141,7 +141,7 @@
 ## 경혈/처방 연관
 
 - 경혈: 삼음교(SP6)·태계(KI3)·족삼리(ST36)·음릉천(SP9)·곡지(LI11)·내정(ST44), 급성기 국소 아시혈(阿是穴)
-- 약재/처방: 사묘산(四妙散)·계지소요지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방·당귀념통탕(當歸念痛湯)·거탁통비탕(去濁通痺湯)·화탁산결초비탕(化濁散結除痺湯), 단미재료로 토복령(土茯苓)·산초나무 잎(Xanthoceras sorbifolium)
+- 약재/처방: 사묘산(四妙散)·계지작약지모탕(桂枝芍藥知母湯)·토복령(土茯苓) 포함 처방·당귀념통탕(當歸念痛湯)·거탁통비탕(去濁通痺湯)·화탁산결초비탕(化濁散結除痺湯), 단미재료로 토복령(土茯苓)·산초나무 잎(Xanthoceras sorbifolium)
 
 [^1]: 통풍의 정의·병태생리·진단 기준. 교과서적 근거. (급성 관절염·요산 결정 침착·NLRP3 인플라마좀 활성화)
 [^2]: The Correlation between Traditional Chinese Medicine Constitution and Hyperuricemia and Gout: A Systematic Review and Meta-Analysis. 메타분석, 38,028명. DOI: [10.1155/2023/5097490](https://doi.org/10.1155/2023/5097490). 근거수준: 높음. 담음·습열 체질이 강력한 위험 요인.
@@ -157,7 +157,7 @@
 [^12]: [A cohort study on treatment of intermission period of gout with Quzhuo Tongbi formula combined with febuxostat]. 관찰연구, 99명. DOI: [10.12200/j.issn.1003-0034.20250554](https://doi.org/10.12200/j.issn.1003-0034.20250554). 근거수준: 중등도. 거탁통비탕+페북소스타트 병용이 재발 방지.
 [^13]: An exploration of stage-based syndrome differentiation and treatment of gout based on the theory of "integrating movement and stillness". 문헌고찰. DOI: [10.54254/3049-5458/2026.32765](https://doi.org/10.54254/3049-5458/2026.32765). 근거수준: 중등도. 병기별 동정결합 치료법.
 [^14]: Advances in external therapies of traditional Chinese medicine for the management of hyperuricemia: a comprehensive review. 문헌고찰. DOI: [10.3389/fendo.2025.1667523](https://doi.org/10.3389/fendo.2025.1667523). 근거수준: 중등도. 침·추나·사혈·외용 한약의 기전.
-[^15]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis. 메타분석, 1,633명. DOI: [10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973). 근거수준: 높음. 계지소요지모탕이 IL-17·TNF 경로 조절.
+[^15]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis. 메타분석, 1,633명. DOI: [10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973). 근거수준: 높음. 계지작약지모탕이 IL-17·TNF 경로 조절.
 [^16]: Jianpi Qingre Tongluo prescription (Huangqin Qingre Chubi capsule) protects the self-perception of patients with gouty arthritis through neutrophil to lymphocyte ratio. 관찰연구, 150명. DOI: [10.1097/MD.0000000000049281](https://doi.org/10.1097/MD.0000000000049281). 근거수준: 중등도. NLR 감소 통해 삶의 질 개선.
 [^17]: Chinese herbal medicine si-miao-san decoction for acute gouty arthritis. 체계적 고찰. DOI: [10.1097/md.0000000000021510](https://doi.org/10.1097/md.0000000000021510). 근거수준: 중등도. 사묘산 탕제 유효성 평가.
 [^18]: Analysis of clinical efficacy of Si Miao decoction combine with acupuncture and cupping treatment for gout: a systematic review and meta-analysis. 메타분석. DOI: [10.12688/f1000research.51053.1](https://doi.org/10.12688/f1000research.51053.1). 근거수준: 높음. 사묘탕+침+부항 병용이 요산·CRP·ESR 감소.
