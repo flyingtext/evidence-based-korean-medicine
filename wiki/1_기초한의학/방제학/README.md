@@ -48,6 +48,8 @@
   - 하위 표제어: 영계출감탕(苓桂朮甘湯) · 료케이쥬츠칸토(Ryokeijutsukanto) · 영계출감탕 병용 요법
 - [오적산(五積散, Ojeok-san / Goshakusan)](오적산(五積散).md)
   - 하위 표제어: 오적산(五積散) · 오적산 병용 요법 · 오적산 약물 상호작용
+- [맥문동탕(麥門冬湯, Maimendong Tang / Bakumondoto)](맥문동탕(麥門冬湯, Maimendong Tang).md)
+  - 하위 표제어: 맥문동탕(麥門冬湯) · 가감맥문동탕(加減麥門冬湯) · 바쿠몬도토(Bakumondoto, TJ-29) · 맥문동탕 병용 요법
 
 ## 동음이의 분류
 
