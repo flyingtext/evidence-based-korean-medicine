@@ -8,6 +8,8 @@ RUN.md에 정의된 검증·링크 점검·빌드 단계를 순서대로 실행�
     python3 scripts/run.py            # 검증 + 링크 점검 + 빌드
     python3 scripts/run.py --skip-build
     python3 scripts/run.py --health   # API 헬스 체크 포함
+    python3 scripts/run.py --watch    # 30초마다 반복 실행 (Ctrl+C로 종료)
+    python3 scripts/run.py --watch --interval 10  # 10초 간격 반복
 """
 import argparse
 import os
@@ -149,12 +151,7 @@ def step_health() -> int:
         return 1
 
 
-def main() -> int:
-    p = argparse.ArgumentParser(description="RUN.md 워크플로우 자동 실행")
-    p.add_argument("--skip-build", action="store_true", help="빌드 단계 생략")
-    p.add_argument("--health", action="store_true", help="API 헬스 체크 포함")
-    args = p.parse_args()
-
+def run_once(args) -> int:
     steps = [step_validate, step_recent, step_links]
     if not args.skip_build:
         steps.append(step_build)
@@ -171,6 +168,34 @@ def main() -> int:
         return 1
     print("\n모든 단계 통과.")
     return 0
+
+
+def main() -> int:
+    p = argparse.ArgumentParser(description="RUN.md 워크플로우 자동 실행")
+    p.add_argument("--skip-build", action="store_true", help="빌드 단계 생략")
+    p.add_argument("--health", action="store_true", help="API 헬스 체크 포함")
+    p.add_argument("--watch", action="store_true", help="워크플로우를 반복 실행 (기본 30초 간격)")
+    p.add_argument("--interval", type=int, default=30, help="--watch 반복 간격(초), 기본 30")
+    args = p.parse_args()
+
+    if args.interval <= 0:
+        p.error("--interval 은 1 이상이어야 합니다.")
+
+    if not args.watch:
+        return run_once(args)
+
+    import time
+
+    print(f"워치 모드 시작 — {args.interval}초 간격 반복 실행 (종료: Ctrl+C)")
+    try:
+        while True:
+            print("\n" + "=" * 60)
+            print(time.strftime("[%Y-%m-%d %H:%M:%S] 워크플로우 실행"))
+            run_once(args)
+            time.sleep(args.interval)
+    except KeyboardInterrupt:
+        print("\n워치 모드 종료.")
+        return 0
 
 
 if __name__ == "__main__":
