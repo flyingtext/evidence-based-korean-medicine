@@ -1,6 +1,6 @@
 # 궤양성대장염(潰瘍性大腸炎, Ulcerative Colitis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: K51 (궤양성대장염)
 
 ## 개요
@@ -97,39 +97,39 @@
 - 약재/처방: 갈근진련탕(葛根芩連湯)·황금탕(黃芩湯)·청창양양탕(淸腸養陽湯)·황귀련장탕(黃葵連腸湯)·청대(靑黛)·[황련해독탕(黃連解毒湯)](../../../1_기초한의학/방제학/황련해독탕(黃連解毒湯).md) 계열·오미자고삼(五味子苦蔘)·황금(黃芩)·베르베린(황련·황백 유래), 관장제로 복합 청대·속효쾌결분
 
 [^1]: WHO/국제 임상 진단 기준에 근거한 궤양성대장염 정의·병태생리. 교과서적 근거.
-[^2]: The Method of Combining Internal and External Treatment of Ulcerative Colitis in Chinese Medicine. 문헌고찰. DOI: [10.1055/s-0043-1777310](https://doi.org/10.1055/s-0043-1777310). 근거수준: 문헌고찰. 비허·대장습열 다스리는 내외겸치법.
-[^3]: A comparative study on the clinical differences in traditional Chinese medicine pattern in ulcerative colitis utilizing multidimensional data. 관찰연구, 180명. DOI: [10.3389/fmed.2026.1830908](https://doi.org/10.3389/fmed.2026.1830908). 근거수준: 중등도. 대장습열 변증이 더 심한 염증·내시경 손상.
-[^4]: Clinical Effectiveness and Safety of Chinese Herbal Enema for Ulcerative Colitis: An Evidence-Based Study. 메타분석, 2,883명. DOI: [10.1142/S0192415X26500047](https://doi.org/10.1142/S0192415X26500047). 근거수준: 높음. 중약 관장이 메살라진 단독보다 효과적·안전.
-[^5]: [Clinical and experimental study on treatment of retention enema for chronic non-specific ulcerative colitis with quick-acting kuijie powder]. 임상시험, 234명. PMID: [11783209](https://pubmed.ncbi.nlm.nih.gov/11783209/). 근거수준: 중등도. 유지관장이 유효율·완치율 개선.
-[^6]: Comparative clinical efficacy of acupuncture-related therapies for ulcerative colitis: a systematic review and network meta-analysis. 네트워크 메타분석, 7,484명. DOI: [10.3389/fmed.2025.1676608](https://doi.org/10.3389/fmed.2025.1676608). 근거수준: 높음. 침 관련 요법의 유효성.
-[^7]: Efficacy and safety of compound Qingdai enema in rapidly alleviating inflammatory activity in ulcerative colitis. 임상시험, 114명. DOI: [10.3389/fphar.2026.1776775](https://doi.org/10.3389/fphar.2026.1776775). 근거수준: 중등도. 청대 관장액 단기 염증 완화.
-[^8]: Immune Repertoire Profiling Reveals Distinct Adaptive Immune Signatures of Dampness ZHENG Across Psoriasis, Rheumatoid Arthritis and Ulcerative Colitis. 관찰연구, 59명. DOI: [10.1111/cpr.70265](https://doi.org/10.1111/cpr.70265). 근거수준: 중등도. 습증 변증의 면역 시그니처.
-[^9]: Advancing ulcerative colitis therapy: a review of 5-ASA synergy with traditional Chinese medicine and natural bioactive compounds. 문헌고찰. DOI: [10.3389/fphar.2026.1738151](https://doi.org/10.3389/fphar.2026.1738151). 근거수준: 문헌고찰. NF-κB·MAPK 경로 억제, 5-ASA+한약 병용.
-[^10]: KuiAnNingFang alleviates ulcerative colitis by modulating gut microbiota and NF-κB/NLRP3 pathway. 실험연구. DOI: [10.1016/j.phymed.2025.157677](https://doi.org/10.1016/j.phymed.2025.157677). 근거수준: 실험연구. NF-κB/NLRP3 경로 억제.
-[^11]: Isorhamnetin ameliorates active ulcerative colitis potentially involving the Nrf2-PTGS2 axis. 실험연구, 1,598명. DOI: [10.1007/s00210-026-05737-4](https://doi.org/10.1007/s00210-026-05737-4). 근거수준: 실험연구. 이소람네틴 항염·조직 보호.
-[^12]: [Research progress in mechanism of action and clinical translation of berberine in treatment of ulcerative colitis]. 문헌고찰. DOI: [10.19540/j.cnki.cjcmm.20251231.701](https://doi.org/10.19540/j.cnki.cjcmm.20251231.701). 근거수준: 문헌고찰. 베르베린 NF-κB·MAPK·Nrf2 경로 조절.
-[^13]: Biomarkers predicting response to qi-exchange moxibustion in ulcerative colitis: A prospective 2-arm cohort study. 관찰연구, 123명. DOI: [10.1097/MD.0000000000048501](https://doi.org/10.1097/MD.0000000000048501). 근거수준: 중등도. 신궐혈 뜸 병행·칼프로텍틴 반응자 예측.
-[^14]: Efficacy and safety of acupoint application in the treatment of ulcerative colitis: A systematic review and meta-analysis. 메타분석, 878명. DOI: [10.1097/md.0000000000034489](https://doi.org/10.1097/md.0000000000034489). 근거수준: 높음. 혈위 응용의 면역 조절 효과.
-[^15]: Different therapy for different types of ulcerative colitis in China. 임상시험, 102명. DOI: [10.3748/wjg.v10.i10.1513](https://doi.org/10.3748/wjg.v10.i10.1513). 근거수준: 중등도. 유형별 차별화 치료.
-[^16]: Systematic Evaluation of Randomized Clinical Trials of Huangqin Tang in Combination with Mesalazine for Ulcerative Colitis. 메타분석, 565명. DOI: [10.1155/2022/2175913](https://doi.org/10.1155/2022/2175913). 근거수준: 높음. 황금탕+메살라진 병용.
-[^17]: A single-center clinical study on the combination of Five-flavor sophora flavescens enteric-coated capsules and vedolizumab in induction therapy for ulcerative colitis. 임상시험. DOI: [10.3389/fimmu.2026.1791086](https://doi.org/10.3389/fimmu.2026.1791086). 근거수준: 중등도. 고삼+베돌리주맙 병용.
-[^18]: Scutellaria baicalensis Georgi as a potential therapeutic drug intervention in ulcerative colitis: Mechanisms of action and clinical trials. 문헌고찰. DOI: [10.3748/wjg.v32.i1.114558](https://doi.org/10.3748/wjg.v32.i1.114558). 근거수준: 문헌고찰. 황금의 항염·장벽·미생물 조절.
-[^19]: [Clinical observation on treatment of ulcerative colitis by soothing liver and activating spleen]. 임상시험, 63명. PMID: [12577375](https://pubmed.ncbi.nlm.nih.gov/12577375/). 근거수준: 중등도. 소간활비 처방의 효과.
-[^20]: Clinical efficacy analysis of acupuncture combined with anti-tumor necrosis factor treatment for spleen and kidney yang deficiency type ulcerative colitis. 관찰연구, 90명. DOI: [10.3389/fmed.2026.1751270](https://doi.org/10.3389/fmed.2026.1751270). 근거수준: 중등도. 침+항TNF 병용이 관해·점막 치유 향상.
-[^21]: Efficacy of herbal medicine (Gegen Qinlian Decoction) on ulcerative colitis. 메타분석, 2,028명. DOI: [10.1097/md.0000000000018512](https://doi.org/10.1097/md.0000000000018512). 근거수준: 높음. 갈근진련탕의 유효성.
-[^22]: Effect of Qingchang Yuyang decoction on treatment efficacy and intestinal flora in patients with ulcerative colitis. 관찰연구, 96명. DOI: [10.15586/aei.v53i3.1332](https://doi.org/10.15586/aei.v53i3.1332). 근거수준: 중등도. 청창양양탕+메살라진 병용.
-[^23]: Efficacy and safety of compound Qingdai enema in rapidly alleviating inflammatory activity in ulcerative colitis. 임상시험, 114명. DOI: [10.3389/fphar.2026.1776775](https://doi.org/10.3389/fphar.2026.1776775). 근거수준: 중등도. 청대 관장액의 단기 효과.
-[^24]: The Effectiveness of Huangkui Lianchang Decoction Enema Solution Compared with Mesalazine Enema for Mild-to-Moderate Active Distal Ulcerative Colitis. 임상시험 프로토콜, 172명. DOI: [10.2147/JPR.S574028](https://doi.org/10.2147/JPR.S574028). 근거수준: 중등도. 황귀련장탕 관장 비교 평가.
-[^25]: Review of Clinical Studies of the Treatment of Ulcerative Colitis Using Acupuncture and Moxibustion. 체계적 고찰. DOI: [10.1155/2016/9248589](https://doi.org/10.1155/2016/9248589). 근거수준: 중등도. 침·뜸의 장 염증 조절.
-[^26]: Meta-analysis and trial sequential analysis of acupoint catgut embedding in the treatment of ulcerative colitis. 메타분석, 782명. DOI: [10.1097/md.0000000000030945](https://doi.org/10.1097/md.0000000000030945). 근거수준: 높음. 혈위 매선의 유효성·안전성.
-[^27]: Effects of self-acupressure on quality of life and abdominal pain severity among patients with inflammatory bowel disease: A randomized sham-controlled trial. 임상시험, 56명. DOI: [10.1016/j.jaim.2024.101080](https://doi.org/10.1016/j.jaim.2024.101080). 근거수준: 중등도. 자가 지압의 삶의 질·복통 개선.
-[^28]: Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease: a randomized feasibility study. 임상시험, 36명. DOI: [10.1097/MEG.0000000000003034](https://doi.org/10.1097/MEG.0000000000003034). 근거수준: 중등도. 가정 내 TEAS의 우울·삶의 질 개선.
-[^29]: Determinants of complementary and integrative medicine use in inflammatory bowel disease: a focus on probiotics, prebiotics, and fermentable dietary fibres. 관찰연구, 267명. DOI: [10.3389/fmed.2025.1641767](https://doi.org/10.3389/fmed.2025.1641767). 근거수준: 중등도. 프로바이오틱스·식이섬유 사용.
-[^30]: Use of Complementary and Alternative Medicine by Greek Patients with Inflammatory Bowel Disease. 관찰연구, 408명. DOI: [10.3390/nu16213679](https://doi.org/10.3390/nu16213679). 근거수준: 중등도. IBD 환자 CAM 사용률 높음.
+[^2]: The Method of Combining Internal and External Treatment of Ulcerative Colitis in Chinese Medicine. 문헌고찰. DOI: [10.1055/s-0043-1777310](https://doi.org/10.1055/s-0043-1777310). 비허·대장습열 다스리는 내외겸치법.
+[^3]: A comparative study on the clinical differences in traditional Chinese medicine pattern in ulcerative colitis utilizing multidimensional data. 관찰연구, 180명. DOI: [10.3389/fmed.2026.1830908](https://doi.org/10.3389/fmed.2026.1830908). 대장습열 변증이 더 심한 염증·내시경 손상.
+[^4]: Clinical Effectiveness and Safety of Chinese Herbal Enema for Ulcerative Colitis: An Evidence-Based Study. 메타분석, 2,883명. DOI: [10.1142/S0192415X26500047](https://doi.org/10.1142/S0192415X26500047). 중약 관장이 메살라진 단독보다 효과적·안전.
+[^5]: [Clinical and experimental study on treatment of retention enema for chronic non-specific ulcerative colitis with quick-acting kuijie powder]. 임상시험, 234명. PMID: [11783209](https://pubmed.ncbi.nlm.nih.gov/11783209/). 유지관장이 유효율·완치율 개선.
+[^6]: Comparative clinical efficacy of acupuncture-related therapies for ulcerative colitis: a systematic review and network meta-analysis. 네트워크 메타분석, 7,484명. DOI: [10.3389/fmed.2025.1676608](https://doi.org/10.3389/fmed.2025.1676608). 침 관련 요법의 유효성.
+[^7]: Efficacy and safety of compound Qingdai enema in rapidly alleviating inflammatory activity in ulcerative colitis. 임상시험, 114명. DOI: [10.3389/fphar.2026.1776775](https://doi.org/10.3389/fphar.2026.1776775). 청대 관장액 단기 염증 완화.
+[^8]: Immune Repertoire Profiling Reveals Distinct Adaptive Immune Signatures of Dampness ZHENG Across Psoriasis, Rheumatoid Arthritis and Ulcerative Colitis. 관찰연구, 59명. DOI: [10.1111/cpr.70265](https://doi.org/10.1111/cpr.70265). 습증 변증의 면역 시그니처.
+[^9]: Advancing ulcerative colitis therapy: a review of 5-ASA synergy with traditional Chinese medicine and natural bioactive compounds. 문헌고찰. DOI: [10.3389/fphar.2026.1738151](https://doi.org/10.3389/fphar.2026.1738151). NF-κB·MAPK 경로 억제, 5-ASA+한약 병용.
+[^10]: KuiAnNingFang alleviates ulcerative colitis by modulating gut microbiota and NF-κB/NLRP3 pathway. 실험연구. DOI: [10.1016/j.phymed.2025.157677](https://doi.org/10.1016/j.phymed.2025.157677). NF-κB/NLRP3 경로 억제.
+[^11]: Isorhamnetin ameliorates active ulcerative colitis potentially involving the Nrf2-PTGS2 axis. 실험연구, 1,598명. DOI: [10.1007/s00210-026-05737-4](https://doi.org/10.1007/s00210-026-05737-4). 이소람네틴 항염·조직 보호.
+[^12]: [Research progress in mechanism of action and clinical translation of berberine in treatment of ulcerative colitis]. 문헌고찰. DOI: [10.19540/j.cnki.cjcmm.20251231.701](https://doi.org/10.19540/j.cnki.cjcmm.20251231.701). 베르베린 NF-κB·MAPK·Nrf2 경로 조절.
+[^13]: Biomarkers predicting response to qi-exchange moxibustion in ulcerative colitis: A prospective 2-arm cohort study. 관찰연구, 123명. DOI: [10.1097/MD.0000000000048501](https://doi.org/10.1097/MD.0000000000048501). 신궐혈 뜸 병행·칼프로텍틴 반응자 예측.
+[^14]: Efficacy and safety of acupoint application in the treatment of ulcerative colitis: A systematic review and meta-analysis. 메타분석, 878명. DOI: [10.1097/md.0000000000034489](https://doi.org/10.1097/md.0000000000034489). 혈위 응용의 면역 조절 효과.
+[^15]: Different therapy for different types of ulcerative colitis in China. 임상시험, 102명. DOI: [10.3748/wjg.v10.i10.1513](https://doi.org/10.3748/wjg.v10.i10.1513). 유형별 차별화 치료.
+[^16]: Systematic Evaluation of Randomized Clinical Trials of Huangqin Tang in Combination with Mesalazine for Ulcerative Colitis. 메타분석, 565명. DOI: [10.1155/2022/2175913](https://doi.org/10.1155/2022/2175913). 황금탕+메살라진 병용.
+[^17]: A single-center clinical study on the combination of Five-flavor sophora flavescens enteric-coated capsules and vedolizumab in induction therapy for ulcerative colitis. 임상시험. DOI: [10.3389/fimmu.2026.1791086](https://doi.org/10.3389/fimmu.2026.1791086). 고삼+베돌리주맙 병용.
+[^18]: Scutellaria baicalensis Georgi as a potential therapeutic drug intervention in ulcerative colitis: Mechanisms of action and clinical trials. 문헌고찰. DOI: [10.3748/wjg.v32.i1.114558](https://doi.org/10.3748/wjg.v32.i1.114558). 황금의 항염·장벽·미생물 조절.
+[^19]: [Clinical observation on treatment of ulcerative colitis by soothing liver and activating spleen]. 임상시험, 63명. PMID: [12577375](https://pubmed.ncbi.nlm.nih.gov/12577375/). 소간활비 처방의 효과.
+[^20]: Clinical efficacy analysis of acupuncture combined with anti-tumor necrosis factor treatment for spleen and kidney yang deficiency type ulcerative colitis. 관찰연구, 90명. DOI: [10.3389/fmed.2026.1751270](https://doi.org/10.3389/fmed.2026.1751270). 침+항TNF 병용이 관해·점막 치유 향상.
+[^21]: Efficacy of herbal medicine (Gegen Qinlian Decoction) on ulcerative colitis. 메타분석, 2,028명. DOI: [10.1097/md.0000000000018512](https://doi.org/10.1097/md.0000000000018512). 갈근진련탕의 유효성.
+[^22]: Effect of Qingchang Yuyang decoction on treatment efficacy and intestinal flora in patients with ulcerative colitis. 관찰연구, 96명. DOI: [10.15586/aei.v53i3.1332](https://doi.org/10.15586/aei.v53i3.1332). 청창양양탕+메살라진 병용.
+[^23]: Efficacy and safety of compound Qingdai enema in rapidly alleviating inflammatory activity in ulcerative colitis. 임상시험, 114명. DOI: [10.3389/fphar.2026.1776775](https://doi.org/10.3389/fphar.2026.1776775). 청대 관장액의 단기 효과.
+[^24]: The Effectiveness of Huangkui Lianchang Decoction Enema Solution Compared with Mesalazine Enema for Mild-to-Moderate Active Distal Ulcerative Colitis. 임상시험 프로토콜, 172명. DOI: [10.2147/JPR.S574028](https://doi.org/10.2147/JPR.S574028). 황귀련장탕 관장 비교 평가.
+[^25]: Review of Clinical Studies of the Treatment of Ulcerative Colitis Using Acupuncture and Moxibustion. 체계적 고찰. DOI: [10.1155/2016/9248589](https://doi.org/10.1155/2016/9248589). 침·뜸의 장 염증 조절.
+[^26]: Meta-analysis and trial sequential analysis of acupoint catgut embedding in the treatment of ulcerative colitis. 메타분석, 782명. DOI: [10.1097/md.0000000000030945](https://doi.org/10.1097/md.0000000000030945). 혈위 매선의 유효성·안전성.
+[^27]: Effects of self-acupressure on quality of life and abdominal pain severity among patients with inflammatory bowel disease: A randomized sham-controlled trial. 임상시험, 56명. DOI: [10.1016/j.jaim.2024.101080](https://doi.org/10.1016/j.jaim.2024.101080). 자가 지압의 삶의 질·복통 개선.
+[^28]: Home-based transcutaneous electrical acupuncture-point stimulation for depressive symptoms in inflammatory bowel disease: a randomized feasibility study. 임상시험, 36명. DOI: [10.1097/MEG.0000000000003034](https://doi.org/10.1097/MEG.0000000000003034). 가정 내 TEAS의 우울·삶의 질 개선.
+[^29]: Determinants of complementary and integrative medicine use in inflammatory bowel disease: a focus on probiotics, prebiotics, and fermentable dietary fibres. 관찰연구, 267명. DOI: [10.3389/fmed.2025.1641767](https://doi.org/10.3389/fmed.2025.1641767). 프로바이오틱스·식이섬유 사용.
+[^30]: Use of Complementary and Alternative Medicine by Greek Patients with Inflammatory Bowel Disease. 관찰연구, 408명. DOI: [10.3390/nu16213679](https://doi.org/10.3390/nu16213679). IBD 환자 CAM 사용률 높음.
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 궤양성대장염에 대한 한의 중재(한약·관장·침·뜸·매선)의 근거는 메타분석·임상시험이 다수 존재하나, 연구 간 진단 기준·효능 평가 지표·치료 기간·시술 표준화가 상이하여 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^25]
+- 궤양성대장염에 대한 한의 중재(한약·관장·침·뜸·매선)의 근거는 메타분석·임상시험이 다수 존재하나, 연구 간 진단 기준·효능 평가 지표·치료 기간·시술 표준화가 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^25]
 - 갈근진련탕·황금탕 등 처방 메타분석에서 포함 연구의 방법론적 질이 낮고 이질성이 높아, 더 엄격한 대규모 연구가 필요하다.[^16][^21]
 - 혈위 응용·약침의 내시경적·병리적 개선 효과와 점막 치유 종점에 대한 근거는 아직 부족하여, 이를 뒷받침할 장기 대규모 임상시험이 요구된다.[^6][^14]
 - 소아·청소년 UC 환자에 대한 한의 중재의 안전성·유효성 근거가 부족하다.[^31]
@@ -139,4 +139,4 @@
 
 - 검색 결과에서 베르베린·커큐민·유향(Boswellia)·Andrographis 등 일부 천연물 성분 연구, 소화기 이외 적응증의 침·뜸 문헌, IBD의 역학·CAM 이용 실태 조사 중 주제와 간접 관련이거나 약리·이용률 분석에 국한된 논문은 본 주제의 각주에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.
 
-[^31]: Patterns of complementary and alternative medicine use in pediatric patients with inflammatory bowel disease. 관찰연구, 111명. DOI: [10.1002/jpn3.70252](https://doi.org/10.1002/jpn3.70252). 근거수준: 중등도. 소아 IBD CAM 사용 빈도 높음, 안전성·유효성 근거 부족.
+[^31]: Patterns of complementary and alternative medicine use in pediatric patients with inflammatory bowel disease. 관찰연구, 111명. DOI: [10.1002/jpn3.70252](https://doi.org/10.1002/jpn3.70252). 소아 IBD CAM 사용 빈도 높음, 안전성·유효성 근거 부족.

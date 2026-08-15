@@ -1,6 +1,6 @@
 # 신증후군(腎症候群, Nephrotic Syndrome)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 임상시험·메타분석 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: N04 (신증후군) — N04.0 미세변화형 / N04.1 국소분절성 사구체경화증 / N04.2 막성 신병증 / N04.3 미만성 사구체신염 / N04.8 기타 / N04.9 상세불명
 
 ## 개요
@@ -99,48 +99,48 @@
 - 약재/처방: 육미지황환(六味地黃丸)·진무탕(眞武湯)·오령산(五苓散)·지백지황탕(知柏地黃湯)·보양환오탕(補陽還五湯)·방이황기탕(防已黃芪湯)·단소탕(丹少湯)·칠미출건강탕(七味朮乾薑湯), 단미재료로 황기(黃芪)·단삼(丹蔘)·황규이(黄葵)·백령(冬蟲夏草)
 
 [^1]: 신증후군의 정의·병태생리·진단 기준. 교과서적 근거. (대량 단백뇨·저알부민혈증·부종·고지혈증)
-[^2]: [Effect of kidney-warming and astringent therapy on plasma endothelin and interleukin-2 receptor in patients with nephrotic syndrome]. 임상시험, 44명. DOI: [10.3736/jcim20040107](https://doi.org/10.3736/jcim20040107). 근거수준: 중등도. 온신수삽법이 ET·sIL-2 감소.
-[^3]: [Clinical study on intervention of liuwei dihuang pill on hormonotherapy in treating nephrotic syndrome]. 임상시험. PMID: [15768870](https://pubmed.ncbi.nlm.nih.gov/15768870/). 근거수준: 중등도. 육미지황환 병용이 재발률·부작용 감소.
-[^4]: [Clinical effect of shenbing mistura combined with glucocorticoid on recurrent nephrotic syndrome in children]. 임상시험, 60명. PMID: [17121039](https://pubmed.ncbi.nlm.nih.gov/17121039/). 근거수준: 중등도. 신병혼합액 병용이 재발률·IL-6·TNF-α 감소.
-[^5]: The treatment of relapsing primary nephrotic syndrome in children. 임상시험, 80명. DOI: [10.1631/jzus.2005.B0682](https://doi.org/10.1631/jzus.2005.B0682). 근거수준: 중등도. Tripterygium glucosides가 CTX와 유사 효과·부작용 적음.
-[^6]: [Renal tubular protection of shenqi fuzheng injection in treating primary nephrotic syndrome]. 임상시험, 80명. PMID: [15658652](https://pubmed.ncbi.nlm.nih.gov/15658652/). 근거수준: 중등도. 신기부정주사액이 신세뇨관 보호·지질 저하.
-[^7]: Herbal Medicine "Shulifenxiao" Formula for Nephrotic Syndrome of Refractory Idiopathic Membranous Nephropathy. 관찰연구, 31명. DOI: [10.3389/fphar.2021.675406](https://doi.org/10.3389/fphar.2021.675406). 근거수준: 중등도. 수리분소 처방이 24개월 90.9% 관해.
-[^8]: Effects of Modified Jianpi Qushi Heluo Decoction on Scores of TCM Syndromes, 24h Urinary Albumin, and Plasma Albumin in IMN of Spleen-Kidney Qi Deficiency. 임상시험, 84명. DOI: [10.1155/2022/6061709](https://doi.org/10.1155/2022/6061709). 근거수준: 중등도. 가감건비거습합락탕이 요단백·알부민 개선.
-[^9]: Remission Induced by Shichimotsukokato in an Older Adult With Nephrotic Syndrome Secondary to Diabetic Kidney Disease. 증례, 1명. DOI: [10.7759/cureus.81115](https://doi.org/10.7759/cureus.81115). 근거수준: 낮음. 칠미출건강탕이 당뇨병성 신증 관해 유도.
-[^10]: Acupuncture for diabetic nephropathy: mechanisms, clinical evidence, and future perspectives. 문헌고찰. DOI: [10.3389/fendo.2025.1335495](https://doi.org/10.3389/fendo.2025.1335495). 근거수준: 중등도. 침이 단백뇨·신기능 개선에 보조 효과.
-[^11]: [Clinical observation on nephrotic syndrome of lupus nephritis treated with integrated traditional Chinese and Western Medicine]. 임상시험, 155명. PMID: [11475716](https://pubmed.ncbi.nlm.nih.gov/11475716/). 근거수준: 중등도. 통합 치료가 유효율 95%·재발률·부작용 낮음.
-[^12]: Improvement in lupus nephritis following treatment with a Chinese herbal preparation. 증례, 13명. DOI: [10.1001/archpedi.153.8.850](https://doi.org/10.1001/archpedi.153.8.850). 근거수준: 낮음. 중약 처방이 루푸스 신염 관해 유도.
-[^13]: Effects of the integrated TCM-WM treatment of nephrotic syndrome on growth and sexual development. 임상시험, 81명. PMID: [10921164](https://pubmed.ncbi.nlm.nih.gov/10921164/). 근거수준: 중등도. 한약 병용이 성장·성적 발달 지연 감소.
-[^14]: [Treatment of 100 children with infantile nephrotic syndrome by integrated traditional Chinese medicine and Western medicine]. 임상시험, 150명. PMID: [1477501](https://pubmed.ncbi.nlm.nih.gov/1477501/). 근거수준: 중등도. 한양방 병용이 유효율·면역 기능 개선.
-[^15]: [Clinical study on improving effect of Buyang Huanwu decoction on plasma thromboxane B2, 6-keto-prostaglandin F1 alpha, endothelin and calcitonin gene related peptide in primary nephrotic syndrome patients]. 임상시험, 70명. PMID: [11475715](https://pubmed.ncbi.nlm.nih.gov/11475715/). 근거수준: 중등도. 보양환오탕 병용이 완전 관해율 62.9%.
-[^16]: Herbal treatment for renal diseases. 문헌고찰. PMID: [15726219](https://pubmed.ncbi.nlm.nih.gov/15726219/). 근거수준: 중등도. 황기 등이 항염증·TGF-β 억제로 신장 보호.
-[^17]: Chinese Herbal Medicine in the Treatment of Chronic Kidney Disease: A Narrative Review of Mechanisms and Therapeutic Potential. 문헌고찰. DOI: [10.5812/ijpr-165904](https://doi.org/10.5812/ijpr-165904). 근거수준: 중등도. 중약이 항염증·항섬유화·면역 조절.
-[^18]: Boi-Ogi-To, a Traditional Japanese Kampo Medicine, Promotes Cellular Excretion of Chloride and Water by Activating Volume-Sensitive Outwardly Rectifying Anion Channels. 실험연구, 28명. DOI: [10.1096/fj.202403278R](https://doi.org/10.1096/fj.202403278R). 근거수준: 낮음. 방이황기탕이 VSOR 채널 활성화로 이뇨.
-[^19]: [Clinical effect of shenbing mistura combined with glucocorticoid on recurrent nephrotic syndrome in children and levels of interleukin-6 and tumor necrosis factor-alpha]. 임상시험, 60명. PMID: [17121039](https://pubmed.ncbi.nlm.nih.gov/17121039/). 근거수준: 중등도. 신병혼합액 병용이 IL-6·TNF-α 감소.
-[^20]: [Study on effect of Salvia injection in treating primary nephrotic syndrome and on endothelin and serum interleukin-2 receptor in children]. 임상시험, 44명. PMID: [12585167](https://pubmed.ncbi.nlm.nih.gov/12585167/). 근거수준: 중등도. 단삼주사액이 ET·sIL-2R 개선.
-[^21]: [Clinical observation on colquhounia root tablet in treating lipid metabolism disturbance secondary to nephrotic syndrome]. 임상시험, 96명. PMID: [12585168](https://pubmed.ncbi.nlm.nih.gov/12585168/). 근거수준: 중등도. 고운나무 뿌리 정제가 지질·신기능 개선.
-[^22]: [A study on detecting specific antibodies of hemorrhagic fever with renal syndrome and treatment with integrated traditional Chinese and western medicine]. 임상시험, 559명. DOI: [10.3736/jcim20040108](https://doi.org/10.3736/jcim20040108). 근거수준: 중등도. CGIDA법 진단·통합 치료가 쇼크 통과율 개선.
-[^23]: [Observation on effect of chongcao shenkang capsules in preventing and treating acute renal failure in cases of hemorrhagic fever with renal syndrome]. 임상시험, 150명. PMID: [12569793](https://pubmed.ncbi.nlm.nih.gov/12569793/). 근거수준: 중등도. 충초신강캡슐이 급성 신부전 예방.
-[^24]: Complementary and alternative medicine-associated membranous nephropathy: a systematic review. 체계적 고찰, 262명. DOI: [10.1093/joneph/aajaf036](https://doi.org/10.1093/joneph/aajaf036). 근거수준: 높음. CAM 관련 막성 신병증, 수은 노출·NELL-1 항체 연관.
-[^25]: Long-term Exposure to Complementary and Alternative Medicine Leads to Neural Epidermal Growth Factor-like 1 Membranous Nephropathy. 증례, 1명. DOI: [10.59556/japi.73.0960](https://doi.org/10.59556/japi.73.0960). 근거수준: 낮음. 수은 성분이 NELL-1 양성 막성 신병증 유발.
-[^26]: Study of the Therapeutic Effects of Chinese Herbal Decoction Combined with Glucocorticoid in Treating Primary Nephrotic Syndrome in Children. 임상시험, 70명. DOI: [10.1155/2021/4434504](https://doi.org/10.1155/2021/4434504). 근거수준: 중등도. 육미지황환 병용이 요단백·지질·면역 개선.
-[^27]: [Therapeutic changes in nephrotic syndrome treated with yiqi huoxue jiedu decoction and corticosteroid]. 임상시험, 87명. PMID: [1477504](https://pubmed.ncbi.nlm.nih.gov/1477504/). 근거수준: 중등도. 이기활혈해독탕이 TXA2-PGI2 균형 조절.
-[^28]: [Clinical study on dan shao tang in treating IgA nephropathy of deficiency of yin with damp-heat symptom]. 임상시험, 90명. PMID: [14989068](https://pubmed.ncbi.nlm.nih.gov/14989068/). 근거수준: 중등도. 단소탕이 혈뇨·단백뇨·IgA 감소.
-[^29]: [Clinical study on treatment 82 cases of chronic primary glomerulopathy with deficiency of yin with damp-heat symptom with dan shao tang]. 임상시험, 132명. PMID: [11563193](https://pubmed.ncbi.nlm.nih.gov/11563193/). 근거수준: 중등도. 단소탕 병용이 신기능·단백뇨 개선.
-[^30]: Long-term effect of TCM decoctions in treatment of nephrotic syndrome. 임상시험, 57명. PMID: [12125499](https://pubmed.ncbi.nlm.nih.gov/12125499/). 근거수준: 중등도. 한약 병용이 완전 관해율 68.4%·재발률 26.3%.
-[^31]: [Assessment on application of Chinese herbs in process of corticosterone reduction in nephrotic syndrome]. 임상시험, 120명. PMID: [11938802](https://pubmed.ncbi.nlm.nih.gov/11938802/). 근거수준: 중등도. 한약 병용이 재발률·부작용 유의 감소.
-[^32]: [Protective effects of astragali injection on tubular in patients with primary nephrotic syndrome]. 임상시험, 60명. PMID: [16145898](https://pubmed.ncbi.nlm.nih.gov/16145898/). 근거수준: 중등도. 황기주사액이 신세뇨관 보호·단백뇨 감소.
-[^33]: A Case Report on Acupuncture and Moxibustion Treatment of a Patient with Immunoglobulin A Nephropathy. 증례, 1명. DOI: [10.22246/jikm.2022.43.5.1037](https://doi.org/10.22246/jikm.2022.43.5.1037). 근거수준: 낮음. 복부 침·뜸이 단백뇨 유의 감소.
-[^34]: The explanation on the essence of Qi & Blood at meridians theory. 실험연구. DOI: [10.21203/rs.3.rs-56591/v1](https://doi.org/10.21203/rs.3.rs-56591/v1). 근거수준: 낮음. SP6·KI3 광자극이 신증후군 치료 가능성.
-[^35]: The primo vascular system is the substance of meridians. 실험연구. DOI: [10.21203/rs.3.rs-55227/v1](https://doi.org/10.21203/rs.3.rs-55227/v1). 근거수준: 낮음. 프리모 혈관계가 경락의 실체.
-[^36]: Efficacy and safety of Abelmoschus manihot for primary glomerular disease: a prospective, multicenter randomized controlled clinical trial. 임상시험, 417명. DOI: [10.1053/j.ajkd.2014.01.431](https://doi.org/10.1053/j.ajkd.2014.01.431). 근거수준: 높음. 황규이 캡슐이 단백뇨 유의 감소.
-[^37]: Efficacy and safety of Bailing Capsule for the treatment of adult primary nephrotic syndrome: a systematic review and meta-analysis of randomized controlled trials. 메타분석, 920명. DOI: [10.3389/fphar.2026.1798042](https://doi.org/10.3389/fphar.2026.1798042). 근거수준: 높음. 백령캡슐이 요단백·신기능 지표 개선.
-[^38]: [Clinical observation of elderly idiopathic nephrotic syndrome treated with integrated traditional Chinese and Western medicine]. 임상시험, 82명. PMID: [11783325](https://pubmed.ncbi.nlm.nih.gov/11783325/). 근거수준: 중등도. 한양방 병용이 관해율·부작용 개선.
-[^39]: [Long-term effect of Schonlein-Henoch nephritis with nephritic-nephrotic syndrome in children by traditional Chinese medicine and Western medicine]. 관찰연구, 21명. PMID: [1421973](https://pubmed.ncbi.nlm.nih.gov/1421973/). 근거수준: 중등도. 한양방 병용이 장기 예후 양호, 상기도 감염 관련 재발.
+[^2]: [Effect of kidney-warming and astringent therapy on plasma endothelin and interleukin-2 receptor in patients with nephrotic syndrome]. 임상시험, 44명. DOI: [10.3736/jcim20040107](https://doi.org/10.3736/jcim20040107). 온신수삽법이 ET·sIL-2 감소.
+[^3]: [Clinical study on intervention of liuwei dihuang pill on hormonotherapy in treating nephrotic syndrome]. 임상시험. PMID: [15768870](https://pubmed.ncbi.nlm.nih.gov/15768870/). 육미지황환 병용이 재발률·부작용 감소.
+[^4]: [Clinical effect of shenbing mistura combined with glucocorticoid on recurrent nephrotic syndrome in children]. 임상시험, 60명. PMID: [17121039](https://pubmed.ncbi.nlm.nih.gov/17121039/). 신병혼합액 병용이 재발률·IL-6·TNF-α 감소.
+[^5]: The treatment of relapsing primary nephrotic syndrome in children. 임상시험, 80명. DOI: [10.1631/jzus.2005.B0682](https://doi.org/10.1631/jzus.2005.B0682). Tripterygium glucosides가 CTX와 유사 효과·부작용 적음.
+[^6]: [Renal tubular protection of shenqi fuzheng injection in treating primary nephrotic syndrome]. 임상시험, 80명. PMID: [15658652](https://pubmed.ncbi.nlm.nih.gov/15658652/). 신기부정주사액이 신세뇨관 보호·지질 저하.
+[^7]: Herbal Medicine "Shulifenxiao" Formula for Nephrotic Syndrome of Refractory Idiopathic Membranous Nephropathy. 관찰연구, 31명. DOI: [10.3389/fphar.2021.675406](https://doi.org/10.3389/fphar.2021.675406). 수리분소 처방이 24개월 90.9% 관해.
+[^8]: Effects of Modified Jianpi Qushi Heluo Decoction on Scores of TCM Syndromes, 24h Urinary Albumin, and Plasma Albumin in IMN of Spleen-Kidney Qi Deficiency. 임상시험, 84명. DOI: [10.1155/2022/6061709](https://doi.org/10.1155/2022/6061709). 가감건비거습합락탕이 요단백·알부민 개선.
+[^9]: Remission Induced by Shichimotsukokato in an Older Adult With Nephrotic Syndrome Secondary to Diabetic Kidney Disease. 증례, 1명. DOI: [10.7759/cureus.81115](https://doi.org/10.7759/cureus.81115). 칠미출건강탕이 당뇨병성 신증 관해 유도.
+[^10]: Acupuncture for diabetic nephropathy: mechanisms, clinical evidence, and future perspectives. 문헌고찰. DOI: [10.3389/fendo.2025.1335495](https://doi.org/10.3389/fendo.2025.1335495). 침이 단백뇨·신기능 개선에 보조 효과.
+[^11]: [Clinical observation on nephrotic syndrome of lupus nephritis treated with integrated traditional Chinese and Western Medicine]. 임상시험, 155명. PMID: [11475716](https://pubmed.ncbi.nlm.nih.gov/11475716/). 통합 치료가 유효율 95%·재발률·부작용 낮음.
+[^12]: Improvement in lupus nephritis following treatment with a Chinese herbal preparation. 증례, 13명. DOI: [10.1001/archpedi.153.8.850](https://doi.org/10.1001/archpedi.153.8.850). 중약 처방이 루푸스 신염 관해 유도.
+[^13]: Effects of the integrated TCM-WM treatment of nephrotic syndrome on growth and sexual development. 임상시험, 81명. PMID: [10921164](https://pubmed.ncbi.nlm.nih.gov/10921164/). 한약 병용이 성장·성적 발달 지연 감소.
+[^14]: [Treatment of 100 children with infantile nephrotic syndrome by integrated traditional Chinese medicine and Western medicine]. 임상시험, 150명. PMID: [1477501](https://pubmed.ncbi.nlm.nih.gov/1477501/). 한양방 병용이 유효율·면역 기능 개선.
+[^15]: [Clinical study on improving effect of Buyang Huanwu decoction on plasma thromboxane B2, 6-keto-prostaglandin F1 alpha, endothelin and calcitonin gene related peptide in primary nephrotic syndrome patients]. 임상시험, 70명. PMID: [11475715](https://pubmed.ncbi.nlm.nih.gov/11475715/). 보양환오탕 병용이 완전 관해율 62.9%.
+[^16]: Herbal treatment for renal diseases. 문헌고찰. PMID: [15726219](https://pubmed.ncbi.nlm.nih.gov/15726219/). 황기 등이 항염증·TGF-β 억제로 신장 보호.
+[^17]: Chinese Herbal Medicine in the Treatment of Chronic Kidney Disease: A Narrative Review of Mechanisms and Therapeutic Potential. 문헌고찰. DOI: [10.5812/ijpr-165904](https://doi.org/10.5812/ijpr-165904). 중약이 항염증·항섬유화·면역 조절.
+[^18]: Boi-Ogi-To, a Traditional Japanese Kampo Medicine, Promotes Cellular Excretion of Chloride and Water by Activating Volume-Sensitive Outwardly Rectifying Anion Channels. 실험연구, 28명. DOI: [10.1096/fj.202403278R](https://doi.org/10.1096/fj.202403278R). 방이황기탕이 VSOR 채널 활성화로 이뇨.
+[^19]: [Clinical effect of shenbing mistura combined with glucocorticoid on recurrent nephrotic syndrome in children and levels of interleukin-6 and tumor necrosis factor-alpha]. 임상시험, 60명. PMID: [17121039](https://pubmed.ncbi.nlm.nih.gov/17121039/). 신병혼합액 병용이 IL-6·TNF-α 감소.
+[^20]: [Study on effect of Salvia injection in treating primary nephrotic syndrome and on endothelin and serum interleukin-2 receptor in children]. 임상시험, 44명. PMID: [12585167](https://pubmed.ncbi.nlm.nih.gov/12585167/). 단삼주사액이 ET·sIL-2R 개선.
+[^21]: [Clinical observation on colquhounia root tablet in treating lipid metabolism disturbance secondary to nephrotic syndrome]. 임상시험, 96명. PMID: [12585168](https://pubmed.ncbi.nlm.nih.gov/12585168/). 고운나무 뿌리 정제가 지질·신기능 개선.
+[^22]: [A study on detecting specific antibodies of hemorrhagic fever with renal syndrome and treatment with integrated traditional Chinese and western medicine]. 임상시험, 559명. DOI: [10.3736/jcim20040108](https://doi.org/10.3736/jcim20040108). CGIDA법 진단·통합 치료가 쇼크 통과율 개선.
+[^23]: [Observation on effect of chongcao shenkang capsules in preventing and treating acute renal failure in cases of hemorrhagic fever with renal syndrome]. 임상시험, 150명. PMID: [12569793](https://pubmed.ncbi.nlm.nih.gov/12569793/). 충초신강캡슐이 급성 신부전 예방.
+[^24]: Complementary and alternative medicine-associated membranous nephropathy: a systematic review. 체계적 고찰, 262명. DOI: [10.1093/joneph/aajaf036](https://doi.org/10.1093/joneph/aajaf036). CAM 관련 막성 신병증, 수은 노출·NELL-1 항체 연관.
+[^25]: Long-term Exposure to Complementary and Alternative Medicine Leads to Neural Epidermal Growth Factor-like 1 Membranous Nephropathy. 증례, 1명. DOI: [10.59556/japi.73.0960](https://doi.org/10.59556/japi.73.0960). 수은 성분이 NELL-1 양성 막성 신병증 유발.
+[^26]: Study of the Therapeutic Effects of Chinese Herbal Decoction Combined with Glucocorticoid in Treating Primary Nephrotic Syndrome in Children. 임상시험, 70명. DOI: [10.1155/2021/4434504](https://doi.org/10.1155/2021/4434504). 육미지황환 병용이 요단백·지질·면역 개선.
+[^27]: [Therapeutic changes in nephrotic syndrome treated with yiqi huoxue jiedu decoction and corticosteroid]. 임상시험, 87명. PMID: [1477504](https://pubmed.ncbi.nlm.nih.gov/1477504/). 이기활혈해독탕이 TXA2-PGI2 균형 조절.
+[^28]: [Clinical study on dan shao tang in treating IgA nephropathy of deficiency of yin with damp-heat symptom]. 임상시험, 90명. PMID: [14989068](https://pubmed.ncbi.nlm.nih.gov/14989068/). 단소탕이 혈뇨·단백뇨·IgA 감소.
+[^29]: [Clinical study on treatment 82 cases of chronic primary glomerulopathy with deficiency of yin with damp-heat symptom with dan shao tang]. 임상시험, 132명. PMID: [11563193](https://pubmed.ncbi.nlm.nih.gov/11563193/). 단소탕 병용이 신기능·단백뇨 개선.
+[^30]: Long-term effect of TCM decoctions in treatment of nephrotic syndrome. 임상시험, 57명. PMID: [12125499](https://pubmed.ncbi.nlm.nih.gov/12125499/). 한약 병용이 완전 관해율 68.4%·재발률 26.3%.
+[^31]: [Assessment on application of Chinese herbs in process of corticosterone reduction in nephrotic syndrome]. 임상시험, 120명. PMID: [11938802](https://pubmed.ncbi.nlm.nih.gov/11938802/). 한약 병용이 재발률·부작용 유의 감소.
+[^32]: [Protective effects of astragali injection on tubular in patients with primary nephrotic syndrome]. 임상시험, 60명. PMID: [16145898](https://pubmed.ncbi.nlm.nih.gov/16145898/). 황기주사액이 신세뇨관 보호·단백뇨 감소.
+[^33]: A Case Report on Acupuncture and Moxibustion Treatment of a Patient with Immunoglobulin A Nephropathy. 증례, 1명. DOI: [10.22246/jikm.2022.43.5.1037](https://doi.org/10.22246/jikm.2022.43.5.1037). 복부 침·뜸이 단백뇨 유의 감소.
+[^34]: The explanation on the essence of Qi & Blood at meridians theory. 실험연구. DOI: [10.21203/rs.3.rs-56591/v1](https://doi.org/10.21203/rs.3.rs-56591/v1). SP6·KI3 광자극이 신증후군 치료 가능성.
+[^35]: The primo vascular system is the substance of meridians. 실험연구. DOI: [10.21203/rs.3.rs-55227/v1](https://doi.org/10.21203/rs.3.rs-55227/v1). 프리모 혈관계가 경락의 실체.
+[^36]: Efficacy and safety of Abelmoschus manihot for primary glomerular disease: a prospective, multicenter randomized controlled clinical trial. 임상시험, 417명. DOI: [10.1053/j.ajkd.2014.01.431](https://doi.org/10.1053/j.ajkd.2014.01.431). 황규이 캡슐이 단백뇨 유의 감소.
+[^37]: Efficacy and safety of Bailing Capsule for the treatment of adult primary nephrotic syndrome: a systematic review and meta-analysis of randomized controlled trials. 메타분석, 920명. DOI: [10.3389/fphar.2026.1798042](https://doi.org/10.3389/fphar.2026.1798042). 백령캡슐이 요단백·신기능 지표 개선.
+[^38]: [Clinical observation of elderly idiopathic nephrotic syndrome treated with integrated traditional Chinese and Western medicine]. 임상시험, 82명. PMID: [11783325](https://pubmed.ncbi.nlm.nih.gov/11783325/). 한양방 병용이 관해율·부작용 개선.
+[^39]: [Long-term effect of Schonlein-Henoch nephritis with nephritic-nephrotic syndrome in children by traditional Chinese medicine and Western medicine]. 관찰연구, 21명. PMID: [1421973](https://pubmed.ncbi.nlm.nih.gov/1421973/). 한양방 병용이 장기 예후 양호, 상기도 감염 관련 재발.
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 신증후군에 대한 한의 중재(한약·약침·침구)의 근거는 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·단백뇨 종점이 상이하여 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
+- 신증후군에 대한 한의 중재(한약·약침·침구)의 근거는 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·단백뇨 종점이 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
 - 육미지황환·백령캡슐·황규이 등은 메타분석·대규모 임상시험 근거가 있으나, 장기 신장 예후(말기 신부전 진행·투석 도입)를 종점으로 한 연구가 부족하다.[^37][^36]
 - 난치성·스테로이드 저항성 신증후군(국소분절성 사구체경화증·막성 신병증)에 대한 한의 중재의 대규모 전향적 연구와, 변증별·병기별 맞춤 치료 전략을 확립할 추가 연구가 필요하다.[^7][^8]
 - 침구 치료의 신증후군 적용은 증례·실험연구 수준으로, 이를 뒷받침할 대규모 임상시험이 요구된다.[^33][^34]

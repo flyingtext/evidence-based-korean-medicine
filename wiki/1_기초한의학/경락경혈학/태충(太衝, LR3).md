@@ -1,6 +1,6 @@
 # 태충(太衝, LR3)
 
-> 출처: 근거기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험/관찰연구/증례/실험연구 · 작성일: 2026-08-15
+> 출처: 근거기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -31,8 +31,7 @@
 - **위장관 운동 조절 기전**: [족삼리(足三里, ST36)](족삼리(足三里, ST36).md)·[양문(梁門, ST21)](#)·태충(LR3) 경피적 전기자극은 혈장 모틸린(MTL) 농도를 높이고 소마토스타틴(SS) 농도를 낮추어 위장관 운동성을 개선한다(임상시험, 250명).[^13] 반면 건강한 성인에서 사관혈(합곡·태충) 수기침은 장 운동성에 유의한 변화를 보이지 않아, 환자의 병리 상태가 있을 때 효과가 나타날 수 있음을 시사한다(교차 임상시험, 20명).[^30]
 - **경락·해부학적 특성**: 태충혈은 제1·2 중족골(中足骨) 사이, 제1 배측골간근(dorsal interosseous muscle) 부근에 위치하며, 비복신경(腓骨神経, peroneal nerve) 분지 및 족배동맥(dorsal pedis artery)과 밀접한다.[^1] 염전(撚轉) 자극 시 비회전 자극보다 이차 체성감각 피질·전두엽·시상·소뇌의 활성도가 유의하게 증가하여, 전통적 수기법(염전)의 신경과학적 의미를 뒷받침한다(실험연구, 15명).[^31]
 
-> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
-
+> 신경·혈류·해부학적 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 
 ## 근거 요약
 
 - **두통·편두통**: 간경(肝經)·담경(膽經) 혈위(태충·[양릉천(陽陵泉, GB34)](#)·[풍지(風池, GB20)](#)·[곡천(曲泉, LR8)](#)) 침치료는 편두통 환자의 두통 발생 횟수·지속 시간을 감소시키는데 Flunarizine 투여보다 우수하며, 6개월 후 유효율(87.7% vs 69.2%)과 1년 후 안전성에서 유의하게 우수하다(다기관 무작위 대조시험, 253명).[^5] 빈발성 두통 환자에서 한의사 간 변증·혈위 선택 변동성이 있으나, 3분의 2 이상이 간양(肝陽)·기(氣) 불균형으로 진단되었으며 태충(LR3)·합곡(LI4)·백회(GV20)가 가장 빈번하게 선택되었다(관찰연구, 37명).[^6]
@@ -92,43 +91,43 @@ fMRI 메타분석(319명)에 따르면 태충혈 침 자극은 통증 인지·�
 
 [^1]: 태충(太衝, LR3)의 정의·위치·주치(主治)는 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: 사관혈(四關穴)의 구성(합곡·태충)과 기혈 소통·울체 해소 이론은 경락경혈학·침구학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
-[^3]: 합곡(合谷, LI4)과 태충(太衝, LR3)의 사관혈 배합과 임상 응용은 본 문서 각주의 임상시험 종합. 근거수준: 중등도.
-[^4]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·약침·매선·광자극·비침습적 전침 등)의 임상 적용은 본 문서 각주의 임상시험·실험연구 종합. 근거수준: 중등도.
-[^5]: [Acupuncture at points of the liver and gallbladder meridians for treatment of migraine: a multi-center randomized and controlled study]. 임상시험, 253명. PMID: 19565729. 근거수준: 높음. 간경·담경 혈위(태충·양릉천·풍지·곡천) 침치료가 Flunarizine보다 편두통 개선에 우수.
-[^6]: Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. 관찰연구, 37명. DOI: [10.1089/acm.2006.12.863](https://doi.org/10.1089/acm.2006.12.863) · PMID: 17109577. 근거수준: 낮음. 빈발성 두통에서 태충·합곡·백회 가장 빈번 선택.
-[^7]: [Acupuncture for treatment of depressive neurosis: a multi-center randomized controlled study]. 임상시험, 440명. PMID: 18257177. 근거수준: 높음. 합곡·태충 침치료가 우울성 신경증에서 Prozac보다 부작용 적고 유사·우수 효과.
-[^8]: [Clinical effect of electroacupuncture combined with psychologic interference on patient with Internet addiction disorder]. 임상시험, 47명. PMID: 19548435. 근거수준: 중등도. IAD 환자 전침+심리치료(백회·합곡·태충·내관·삼음교) 유효율 91.3%.
-[^9]: [Effects of electroacupuncture combined with psychologic interference on anxiety state and serum NE content in the patient with Internet addiction disorder]. 임상시험, 47명. PMID: 18767577. 근거수준: 중등도. IAD 환자 전침+심리치료가 불안·혈청 NE 유의 감소.
-[^10]: [Acupuncture at Siguan points for treatment of primary dysmenorrhea]. 임상시험, 180명. PMID: 18447217. 근거수준: 중등도. 사관혈(합곡·태충) 청룡백위법 침치료가 원발성 생리통에 빠른 진통 효과.
-[^11]: [Observation on therapeutic effect of acupoint catgut embedding therapy on premenstrual syndrome]. 임상시험, 88명. PMID: 16642613. 근거수준: 중등도. PMS 매선요법(내관·삼음교·태충 등)이 플루옥세틴보다 유의 우수.
-[^12]: [Clinical observation on combination of source point and Back-Shu Point for treatment of perimenopausal syndrome]. 임상시험, 80명. PMID: 19563189. 근거수준: 중등도. 원혈·배수혈 조합(태계·태충·태백·삼음교·신수·간수·비수·관원)이 갱년기 증후군 개선에 더 효과적.
-[^13]: [Clinical observation on transcutaneous electrical acupoint stimulation for treatment of functional dyspepsia]. 임상시험, 250명. PMID: 19563187. 근거수준: 높음. 족삼리·양문·태충 TEAS가 기능성 소화불량 증상·위장관 운동성 개선에 약물보다 우수.
-[^14]: Forty cases of gastrointestinal neurosis treated by acupunture. 임상시험, 80명. DOI: [10.1016/s0254-6272(08)60006-0](https://doi.org/10.1016/s0254-6272(08)60006-0) · PMID: 18416077. 근거수준: 중등도. 위장신경증 침치료(중완·족삼리·태충·신문) 유효율 92.5%.
-[^15]: [Effect of electroacupuncture on gastrointestinal dynamics in acute pancreatitis patients and its mechanism]. 임상시험, 94명. PMID: 17691580. 근거수준: 중등도. 급성 췌장염 족삼리·상거허·현종·태충·공손 전침이 대장 통과 시간 단축.
-[^16]: [Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type]. 임상시험, 60명. PMID: 17663100. 근거수준: 중등도. 담음-어혈-경락폐색형 고혈압에 약물+침(풍지·곡지·내관·족삼리·풍륭·태충) 병행이 혈압·지질·CRP 유의 개선.
-[^17]: [Effect of needling quchi and taichong points on blood levels of endothelin and angiotension converting enzyme in pregnancy-induced hypertension]. 임상시험, 60명. PMID: 15658649. 근거수준: 중등도. 곡지·태충 침치료가 고혈압 강하에 효과. 태충은 ET 감소, 곡지는 ACE 증가로 서로 다른 기전.
-[^18]: Clinical observation on post-stroke anxiety neurosis treated by acupuncture. 임상시험, 67명. DOI: [10.1016/s0254-6272(08)60043-6](https://doi.org/10.1016/s0254-6272(08)60043-6) · PMID: 19004200. 근거수준: 중등도. 뇌졸중 후 불안신경증 전침(백회·신정·인당·수구·합곡·태충·신문·내관) 유효율 82.35%.
-[^19]: [Clinical observation on acupuncture for treatment of Tourette's syndrome]. 임상시험, 102명. PMID: 16813178. 근거수준: 중등도. 투렛 증후군 태충·합곡 침치료 유효율 97.1%, 할로페리돌 76.5%보다 유의 높음.
-[^20]: Use of noninvasive electroacupuncture for the treatment of HIV-related peripheral neuropathy: a pilot study. 임상시험, 7명. DOI: [10.1089/acm.1999.5.135](https://doi.org/10.1089/acm.1999.5.135) · PMID: 10328635. 근거수준: 낮음. HIV 말초신경병증 곤륜·족삼리·용천·태충 비침습 전침이 MOS-HIV·H-반사 개선.
-[^21]: [Observation on therapeutic effect of electroacupuncture combined with local blocking therapy on acute gouty arthritis]. 임상시험, 100명. PMID: 18822982. 근거수준: 중등도. 급성 통풍성 관절염 전침+국소 차단이 Indomethacin·Allopurinol보다 통증·요산 감소에 우수.
-[^22]: [Controlled observation on electroacupuncture combined with cake-separated moxibustion for treatment of tennis elbow]. 임상시험, 128명. PMID: 16335198. 근거수준: 중등도. 테니스 엘보 합곡·태충 전침+뜸이 차단술보다 완치율·유효율 유의 높음.
-[^23]: The Efficacy of Press Needle Acupuncture in Managing Postoperative Pain in Pediatric Intensive Care: A Randomized Controlled Trial. 임상시험, 70명. DOI: [10.1177/19336586261462063](https://doi.org/10.1177/19336586261462063). 근거수준: 중등도. 소아 PICU 수술 후 합곡·태충·신문·시상 압침이 통증 점수 유의 감소.
-[^24]: A systematic review and coordinate-based meta-analysis of fMRI studies on acupuncture at LR 3. 메타분석, 319명. DOI: [10.3389/fnins.2024.1341567](https://doi.org/10.3389/fnins.2024.1341567). 근거수준: 중등도. 태충혈 침 자극이 통증 인지·감정 조절·언어 관련 뇌 영역 선택적 활성화.
-[^25]: Commonality and Specificity of Acupuncture Action at Three Acupoints as Evidenced by fMRI. 실험연구, 46명. DOI: [10.1142/s0192415x12500528](https://doi.org/10.1142/s0192415x12500528). 근거수준: 매우 낮음. 합곡·족삼리·태충이 변연계 네트워크 공통 억제. 태충은 후해마·후대상피질 특이 반응.
-[^26]: fMRI Evidence of Acupoints Specificity in Two Adjacent Acupoints. 실험연구, 33명. DOI: [10.1155/2013/932581](https://doi.org/10.1155/2013/932581). 근거수준: 매우 낮음. 인접 혈위 태충(LR3)·내정(ST44)이 서로 다른 뇌 활성화 패턴.
-[^27]: The human brain response to acupuncture on same-meridian acupoints: evidence from an fMRI study. 실험연구, 53명. DOI: [10.1089/acm.2008.0036](https://doi.org/10.1089/acm.2008.0036) · PMID: 18684074. 근거수준: 매우 낮음. 동일 경락 혈위(간경 LR3·LR6)가 뇌 유사 영역(우측 상두정엽 BA7) 공통 활성화.
-[^28]: [Study on corresponding areas the liver and lung channels in brain with fMRI]. 실험연구, 60명. PMID: 18257352. 근거수준: 매우 낮음. 간경 오수혈(LR1·LR2·LR3·LR4·LR8)이 동측 BA 34·47·적핵, 대측 BA 19·30·39·상두정소엽·소뇌 공통 활성화.
-[^29]: [Observation on relation of acupuncture at Guangming (GB 37) and Taichong (LR 3) with central nervous reaction]. 실험연구, 19명. PMID: 16419710. 근거수준: 매우 낮음. 광명(GB37)·태충(LR3) 침 자극이 뇌 관련 영역 혈중 산소 포화도 개선.
-[^30]: Crossover clinical trial to determine the effect of manual acupuncture at Siguan points (bilateral LI4 and LR3) on intestinal motor function. 임상시험, 20명. DOI: [10.1142/S0192415X07004758](https://doi.org/10.1142/S0192415X07004758) · PMID: 17436362. 근거수준: 중등도. 건강한 성인 사관혈 수기침은 장 운동성에 유의 변화 없음.
-[^31]: Functional MRI in healthy subjects during acupuncture: different effects of needle rotation in real and false points. 실험연구, 15명. DOI: [10.1007/s00234-003-1125-7](https://doi.org/10.1007/s00234-003-1125-7) · PMID: 15103431. 근거수준: 매우 낮음. 태충혈 염전 자극이 비회전보다 체성감각 피질·전두엽·시상·소뇌 활성도 유의 증가.
-[^32]: Randomised Controlled Trial on the Use of Acupuncture in Adults with Chronic, Non-Responding Anxiety Symptoms. 임상시험, 40명. DOI: [10.1136/acupmed-2014-010524](https://doi.org/10.1136/acupmed-2014-010524). 근거수준: 중등도. 만성 불안에 내관·신문·태충 침이 불안 유의 감소. 효과 10주 유지.
-[^33]: [Electroacupuncture for treatment of acute pancreatitis and its effect on the intestinal permeability of the patient]. 임상시험, 68명. PMID: 17663105. 근거수준: 중등도. 급성 췌장염 전침이 장 점막 투과성 감소·염증 매개물질 저하·장벽 보호.
-[^34]: Acupressure for prevention of pre-operative anxiety: a prospective, randomised, placebo controlled study. 임상시험, 76명. DOI: [10.1111/j.1365-2044.2005.04332.x](https://doi.org/10.1111/j.1365-2044.2005.04332.x) · PMID: 16179042. 근거수준: 중등도. 태충혈 지압이 수술 전 불안·BIS 유의 감소. 지압 중단 30분 후 효과 소실.
-[^35]: Clinical observation of treating Meniere's syndrome by combining modified Zhenwu decoction and acupuncture at bilateral Taichong points. 임상시험, 88명. DOI: [10.1088/1755-1315/632/5/052010](https://doi.org/10.1088/1755-1315/632/5/052010). 근거수준: 중등도. 메니에르 증후군 가감 진무탕+태충혈 침 병용이 현훈·VSI 유의 개선.
-[^36]: Acupuncture Treatment of Non-inflammatory Chronic Prostatitis with "Tiao Shen Jie Yu" Method: A Randomized Controlled Trial. 임상시험, 105명. DOI: [10.3727/036012921x16304136917609](https://doi.org/10.3727/036012921x16304136917609). 근거수준: 중등도. 조신해우 침법(내관·대릉·신문·기해·관원·족삼리·음릉천·삼음교·태충)이 만성 전립선염 증상·불안·우울 유의 감소.
-[^37]: Clinical Experience and Appropriate Technique of Acupuncture for Ischemic Optic Neuropathy. 관찰연구, 42명. DOI: [10.32629/jcmr.v7i2.5281](https://doi.org/10.32629/jcmr.v7i2.5281). 근거수준: 낮음. 허혈성 시신경병증 침치료(합곡·태충 등) 78.6% 시력 개선·69.0% 시야 결손 감소.
-[^38]: Treatment of patient with end-stage hepatocellular carcinoma by the mineral pulse light stimuli on LV acupoint. 증례, 1명. DOI: [10.21203/rs.3.rs-52677/v1](https://doi.org/10.21203/rs.3.rs-52677/v1). 근거수준: 매우 낮음. 말기 간암 태충·기문·삼음교 광물 펄스 광자극으로 종양 크기 감소·AFP 개선.
-[^39]: Intervensi akupresur taichong acupoint untuk menurunkan tekanan darah pada usia lanjut dengan hipertensi. 증례, 2명. DOI: [10.26714/nm.v5i3.13234](https://doi.org/10.26714/nm.v5i3.13234). 근거수준: 매우 낮음. 고령 고혈압 환자 태충혈 지압이 혈압 강하에 긍정적 효과.
-[^40]: Electroacupuncture to improve post-stroke cognitive function and modulate cerebral iron deposition. 임상시험, 72명. DOI: [10.3389/fneur.2025.1708739](https://doi.org/10.3389/fneur.2025.1708739) · PMID: 41561334. 근거수준: 중등도. 뇌졸중 후 인지 기능 개선에 전침(태충 포함)이 뇌 철 침착 조절·인지 유의 개선.
-[^41]: Acupuncture treatment of children nocturnal enuresis--a report of 56 cases. 증례, 56명. PMID: 16817271. 근거수준: 매우 낮음. 소아 야뇨증 침치료(신문·위중 주혈, 태충·행간 가감) 총 유효율 96%.
-[^42]: [Observation on 63 cases of facial paralysis treated with acupuncture]. 증례, 63명. PMID: 1288929. 근거수준: 매우 낮음. 안면신경마비 63례 침치료(태충 등 변증 가감) 완치 49.2%, 현저 효과 23.8%, 효과 25.4%.
+[^3]: 합곡(合谷, LI4)과 태충(太衝, LR3)의 사관혈 배합과 임상 응용은 본 문서 각주의 임상시험 종합.
+[^4]: 다양한 자극 방식(수기침·전침·지압·TEAS/TENS·약침·매선·광자극·비침습적 전침 등)의 임상 적용은 본 문서 각주의 임상시험·실험연구 종합.
+[^5]: [Acupuncture at points of the liver and gallbladder meridians for treatment of migraine: a multi-center randomized and controlled study]. 임상시험, 253명. PMID: 19565729. 간경·담경 혈위(태충·양릉천·풍지·곡천) 침치료가 Flunarizine보다 편두통 개선에 우수.
+[^6]: Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. 관찰연구, 37명. DOI: [10.1089/acm.2006.12.863](https://doi.org/10.1089/acm.2006.12.863) · PMID: 17109577. 빈발성 두통에서 태충·합곡·백회 가장 빈번 선택.
+[^7]: [Acupuncture for treatment of depressive neurosis: a multi-center randomized controlled study]. 임상시험, 440명. PMID: 18257177. 합곡·태충 침치료가 우울성 신경증에서 Prozac보다 부작용 적고 유사·우수 효과.
+[^8]: [Clinical effect of electroacupuncture combined with psychologic interference on patient with Internet addiction disorder]. 임상시험, 47명. PMID: 19548435. IAD 환자 전침+심리치료(백회·합곡·태충·내관·삼음교) 유효율 91.3%.
+[^9]: [Effects of electroacupuncture combined with psychologic interference on anxiety state and serum NE content in the patient with Internet addiction disorder]. 임상시험, 47명. PMID: 18767577. IAD 환자 전침+심리치료가 불안·혈청 NE 유의 감소.
+[^10]: [Acupuncture at Siguan points for treatment of primary dysmenorrhea]. 임상시험, 180명. PMID: 18447217. 사관혈(합곡·태충) 청룡백위법 침치료가 원발성 생리통에 빠른 진통 효과.
+[^11]: [Observation on therapeutic effect of acupoint catgut embedding therapy on premenstrual syndrome]. 임상시험, 88명. PMID: 16642613. PMS 매선요법(내관·삼음교·태충 등)이 플루옥세틴보다 유의 우수.
+[^12]: [Clinical observation on combination of source point and Back-Shu Point for treatment of perimenopausal syndrome]. 임상시험, 80명. PMID: 19563189. 원혈·배수혈 조합(태계·태충·태백·삼음교·신수·간수·비수·관원)이 갱년기 증후군 개선에 더 효과적.
+[^13]: [Clinical observation on transcutaneous electrical acupoint stimulation for treatment of functional dyspepsia]. 임상시험, 250명. PMID: 19563187. 족삼리·양문·태충 TEAS가 기능성 소화불량 증상·위장관 운동성 개선에 약물보다 우수.
+[^14]: Forty cases of gastrointestinal neurosis treated by acupunture. 임상시험, 80명. DOI: [10.1016/s0254-6272(08)60006-0](https://doi.org/10.1016/s0254-6272(08)60006-0) · PMID: 18416077. 위장신경증 침치료(중완·족삼리·태충·신문) 유효율 92.5%.
+[^15]: [Effect of electroacupuncture on gastrointestinal dynamics in acute pancreatitis patients and its mechanism]. 임상시험, 94명. PMID: 17691580. 급성 췌장염 족삼리·상거허·현종·태충·공손 전침이 대장 통과 시간 단축.
+[^16]: [Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type]. 임상시험, 60명. PMID: 17663100. 담음-어혈-경락폐색형 고혈압에 약물+침(풍지·곡지·내관·족삼리·풍륭·태충) 병행이 혈압·지질·CRP 유의 개선.
+[^17]: [Effect of needling quchi and taichong points on blood levels of endothelin and angiotension converting enzyme in pregnancy-induced hypertension]. 임상시험, 60명. PMID: 15658649. 곡지·태충 침치료가 고혈압 강하에 효과. 태충은 ET 감소, 곡지는 ACE 증가로 서로 다른 기전.
+[^18]: Clinical observation on post-stroke anxiety neurosis treated by acupuncture. 임상시험, 67명. DOI: [10.1016/s0254-6272(08)60043-6](https://doi.org/10.1016/s0254-6272(08)60043-6) · PMID: 19004200. 뇌졸중 후 불안신경증 전침(백회·신정·인당·수구·합곡·태충·신문·내관) 유효율 82.35%.
+[^19]: [Clinical observation on acupuncture for treatment of Tourette's syndrome]. 임상시험, 102명. PMID: 16813178. 투렛 증후군 태충·합곡 침치료 유효율 97.1%, 할로페리돌 76.5%보다 유의 높음.
+[^20]: Use of noninvasive electroacupuncture for the treatment of HIV-related peripheral neuropathy: a pilot study. 임상시험, 7명. DOI: [10.1089/acm.1999.5.135](https://doi.org/10.1089/acm.1999.5.135) · PMID: 10328635. HIV 말초신경병증 곤륜·족삼리·용천·태충 비침습 전침이 MOS-HIV·H-반사 개선.
+[^21]: [Observation on therapeutic effect of electroacupuncture combined with local blocking therapy on acute gouty arthritis]. 임상시험, 100명. PMID: 18822982. 급성 통풍성 관절염 전침+국소 차단이 Indomethacin·Allopurinol보다 통증·요산 감소에 우수.
+[^22]: [Controlled observation on electroacupuncture combined with cake-separated moxibustion for treatment of tennis elbow]. 임상시험, 128명. PMID: 16335198. 테니스 엘보 합곡·태충 전침+뜸이 차단술보다 완치율·유효율 유의 높음.
+[^23]: The Efficacy of Press Needle Acupuncture in Managing Postoperative Pain in Pediatric Intensive Care: A Randomized Controlled Trial. 임상시험, 70명. DOI: [10.1177/19336586261462063](https://doi.org/10.1177/19336586261462063). 소아 PICU 수술 후 합곡·태충·신문·시상 압침이 통증 점수 유의 감소.
+[^24]: A systematic review and coordinate-based meta-analysis of fMRI studies on acupuncture at LR 3. 메타분석, 319명. DOI: [10.3389/fnins.2024.1341567](https://doi.org/10.3389/fnins.2024.1341567). 태충혈 침 자극이 통증 인지·감정 조절·언어 관련 뇌 영역 선택적 활성화.
+[^25]: Commonality and Specificity of Acupuncture Action at Three Acupoints as Evidenced by fMRI. 실험연구, 46명. DOI: [10.1142/s0192415x12500528](https://doi.org/10.1142/s0192415x12500528). 합곡·족삼리·태충이 변연계 네트워크 공통 억제. 태충은 후해마·후대상피질 특이 반응.
+[^26]: fMRI Evidence of Acupoints Specificity in Two Adjacent Acupoints. 실험연구, 33명. DOI: [10.1155/2013/932581](https://doi.org/10.1155/2013/932581). 인접 혈위 태충(LR3)·내정(ST44)이 서로 다른 뇌 활성화 패턴.
+[^27]: The human brain response to acupuncture on same-meridian acupoints: evidence from an fMRI study. 실험연구, 53명. DOI: [10.1089/acm.2008.0036](https://doi.org/10.1089/acm.2008.0036) · PMID: 18684074. 동일 경락 혈위(간경 LR3·LR6)가 뇌 유사 영역(우측 상두정엽 BA7) 공통 활성화.
+[^28]: [Study on corresponding areas the liver and lung channels in brain with fMRI]. 실험연구, 60명. PMID: 18257352. 간경 오수혈(LR1·LR2·LR3·LR4·LR8)이 동측 BA 34·47·적핵, 대측 BA 19·30·39·상두정소엽·소뇌 공통 활성화.
+[^29]: [Observation on relation of acupuncture at Guangming (GB 37) and Taichong (LR 3) with central nervous reaction]. 실험연구, 19명. PMID: 16419710. 광명(GB37)·태충(LR3) 침 자극이 뇌 관련 영역 혈중 산소 포화도 개선.
+[^30]: Crossover clinical trial to determine the effect of manual acupuncture at Siguan points (bilateral LI4 and LR3) on intestinal motor function. 임상시험, 20명. DOI: [10.1142/S0192415X07004758](https://doi.org/10.1142/S0192415X07004758) · PMID: 17436362. 건강한 성인 사관혈 수기침은 장 운동성에 유의 변화 없음.
+[^31]: Functional MRI in healthy subjects during acupuncture: different effects of needle rotation in real and false points. 실험연구, 15명. DOI: [10.1007/s00234-003-1125-7](https://doi.org/10.1007/s00234-003-1125-7) · PMID: 15103431. 태충혈 염전 자극이 비회전보다 체성감각 피질·전두엽·시상·소뇌 활성도 유의 증가.
+[^32]: Randomised Controlled Trial on the Use of Acupuncture in Adults with Chronic, Non-Responding Anxiety Symptoms. 임상시험, 40명. DOI: [10.1136/acupmed-2014-010524](https://doi.org/10.1136/acupmed-2014-010524). 만성 불안에 내관·신문·태충 침이 불안 유의 감소. 효과 10주 유지.
+[^33]: [Electroacupuncture for treatment of acute pancreatitis and its effect on the intestinal permeability of the patient]. 임상시험, 68명. PMID: 17663105. 급성 췌장염 전침이 장 점막 투과성 감소·염증 매개물질 저하·장벽 보호.
+[^34]: Acupressure for prevention of pre-operative anxiety: a prospective, randomised, placebo controlled study. 임상시험, 76명. DOI: [10.1111/j.1365-2044.2005.04332.x](https://doi.org/10.1111/j.1365-2044.2005.04332.x) · PMID: 16179042. 태충혈 지압이 수술 전 불안·BIS 유의 감소. 지압 중단 30분 후 효과 소실.
+[^35]: Clinical observation of treating Meniere's syndrome by combining modified Zhenwu decoction and acupuncture at bilateral Taichong points. 임상시험, 88명. DOI: [10.1088/1755-1315/632/5/052010](https://doi.org/10.1088/1755-1315/632/5/052010). 메니에르 증후군 가감 진무탕+태충혈 침 병용이 현훈·VSI 유의 개선.
+[^36]: Acupuncture Treatment of Non-inflammatory Chronic Prostatitis with "Tiao Shen Jie Yu" Method: A Randomized Controlled Trial. 임상시험, 105명. DOI: [10.3727/036012921x16304136917609](https://doi.org/10.3727/036012921x16304136917609). 조신해우 침법(내관·대릉·신문·기해·관원·족삼리·음릉천·삼음교·태충)이 만성 전립선염 증상·불안·우울 유의 감소.
+[^37]: Clinical Experience and Appropriate Technique of Acupuncture for Ischemic Optic Neuropathy. 관찰연구, 42명. DOI: [10.32629/jcmr.v7i2.5281](https://doi.org/10.32629/jcmr.v7i2.5281). 허혈성 시신경병증 침치료(합곡·태충 등) 78.6% 시력 개선·69.0% 시야 결손 감소.
+[^38]: Treatment of patient with end-stage hepatocellular carcinoma by the mineral pulse light stimuli on LV acupoint. 증례, 1명. DOI: [10.21203/rs.3.rs-52677/v1](https://doi.org/10.21203/rs.3.rs-52677/v1). 말기 간암 태충·기문·삼음교 광물 펄스 광자극으로 종양 크기 감소·AFP 개선.
+[^39]: Intervensi akupresur taichong acupoint untuk menurunkan tekanan darah pada usia lanjut dengan hipertensi. 증례, 2명. DOI: [10.26714/nm.v5i3.13234](https://doi.org/10.26714/nm.v5i3.13234). 고령 고혈압 환자 태충혈 지압이 혈압 강하에 긍정적 효과.
+[^40]: Electroacupuncture to improve post-stroke cognitive function and modulate cerebral iron deposition. 임상시험, 72명. DOI: [10.3389/fneur.2025.1708739](https://doi.org/10.3389/fneur.2025.1708739) · PMID: 41561334. 뇌졸중 후 인지 기능 개선에 전침(태충 포함)이 뇌 철 침착 조절·인지 유의 개선.
+[^41]: Acupuncture treatment of children nocturnal enuresis--a report of 56 cases. 증례, 56명. PMID: 16817271. 소아 야뇨증 침치료(신문·위중 주혈, 태충·행간 가감) 총 유효율 96%.
+[^42]: [Observation on 63 cases of facial paralysis treated with acupuncture]. 증례, 63명. PMID: 1288929. 안면신경마비 63례 침치료(태충 등 변증 가감) 완치 49.2%, 현저 효과 23.8%, 효과 25.4%.

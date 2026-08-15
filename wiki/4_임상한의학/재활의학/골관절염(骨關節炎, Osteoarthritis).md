@@ -1,6 +1,6 @@
 # 골관절염 (骨關節炎, Osteoarthritis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: M15~M19 (골관절증), 관절별 — 슬관절 골관절염 M17 · 고관절 골관절염 M16 · 수부 골관절염 M18
 
 ## 개요
@@ -16,7 +16,7 @@
 - **수부 골관절염 (hand osteoarthritis, KCD-8: M18)**: 홍삼 등 보조 요법과 전침·국소 도포제 등이 연구되며, 슬관절에 비해 근거가 적다.[^7][^8]
 - **척추 골관절증 (spondylosis/spinal osteoarthritis)**: 도침·추나·부항 등이 적용될 수 있으며, 다른 하위 유형에 비해 전용 근거가 부족하다.[^9]
 
-> 슬관절 골관절염은 임상 근거가 압도적으로 풍부하여 본 문서의 주된 서술 대상이며, 고관절·수부·척추 골관절염은 각각 근거 수준이 낮아 별도 문서로 분리하는 것을 고려할 수 있다.
+> 슬관절 골관절염은 임상 근거가 압도적으로 풍부하여 본 문서의 주된 서술 대상이며, 고관절·수부·척추 골관절염은 각각 별도 문서로 분리하는 것을 고려할 수 있다.
 
 ## 진단 및 감별 진단
 
@@ -59,7 +59,7 @@
 
 - 침(鍼, acupuncture)은 골관절염, 특히 슬관절 골관절염 환자의 통증 완화와 신체 기능 개선에 효과적인 비약물적 치료 옵션이며, 위약 대조 연구에서도 유의한 효과가 확인되었다. 최소 침술(minimal acupuncture)은 생리학적으로 불활성 위약이 아니어서 대조군 설정에 주의가 필요하다.[^1][^12]
 - 도침(刀鍼, acupotomy) 요법은 슬관절 골관절염 환자의 통증을 유의하게 감소시키고 관절 기능을 개선하며, 일반적인 침·약물 치료보다 우수한 결과를 보였다. 연부조직 유착이 심한 환자에게 주 1회, 1~5주 정도의 시술을 고려할 수 있으며 심각한 부작용 보고가 없어 비교적 안전하다.[^4]
-- 드라이 니들링(dry needling)은 고관절·슬관절 골관절염 환자의 단기적 통증 감소와 신체 기능 개선에 긍정적이지만, 중장기적 효과는 입증되지 않았고 근거 수준이 낮다.[^5][^13]
+- 드라이 니들링(dry needling)은 고관절·슬관절 골관절염 환자의 단기적 통증 감소와 신체 기능 개선에 긍정적이지만, 중장기적 효과는 입증되지 않았다.[^5][^13]
 - 추나(推拿, tui-na) 요법은 인간·동물 모델 모두에서 골관절염 통증 완화와 가동성·삶의 질 개선에 유의미한 효과를 보였다.[^14]
 - 한약 처방 중 독활기생탕(獨活寄生湯)은 슬관절 골관절염에 널리 사용되며 유효성·안전성 평가 근거가 축적되고 있다. 가미대강활탕(加味大羌活湯)·당귀사역탕(當歸四逆湯) 등 처방의 다기관 무작위 대조 시험이 진행 중이다.[^2][^15][^16]
 - 침 치료가 슬관절 골관절염 환자의 통증·기능을 개선하는 것은 혈청 지질 대사(PE·LPC·LPE·TG 등) 조절을 통한 염증 완화·지질 항상성 회복 기전과 관련될 수 있다. 양허혈어(陽虛血瘀) 변증형은 BMI·LDL·D-dimer 상승과 HDL 감소라는 지질 대사 특징을 보인다.[^17][^18]
@@ -69,7 +69,7 @@
 
 - 슬관절 골관절염에는 침(특히 전침)·도침·드라이 니들링·추나·한약을 단독 또는 병행하여 통증 완화와 기능 회복을 도모할 수 있다.[^1][^4][^14]
 - 도침은 연부조직 유착이 심한 환자에게 주 1회, 1~5주 정도의 시술을 고려할 수 있으며, 심각한 부작용 보고가 없어 비교적 안전한 선택지가 될 수 있다.[^4]
-- 드라이 니들링은 고관절·슬관절 OA의 단기적 증상 완화 목적으로 적용할 수 있으나, 근거 수준이 낮고 중장기 효과가 입증되지 않아 보조적 수단으로 활용한다.[^5][^13]
+- 드라이 니들링은 고관절·슬관절 OA의 단기적 증상 완화 목적으로 적용할 수 있으나, 중장기 효과가 입증되지 않아 보조적 수단으로 활용한다.[^5][^13]
 - 한약 처방은 독활기생탕(獨活寄生湯) 등이 슬관절 OA에 널리 사용되며, 가미대강활탕·당귀사역탕의 다기관 임상시험이 진행 중이다. 최소 4주 이상의 치료 기간이 권장된다.[^2][^15][^16]
 - 변증 진단 시 근골격계 초음파로 활막 혈류·삼출액을 확인하면 변증 유형(간신부족형 등)을 보조적으로 판별하고 맞춤형 치료 전략을 세울 수 있다.[^11]
 
@@ -79,26 +79,26 @@
 - 약재/처방: 슬관절 OA에 독활기생탕(獨活寄生湯)·가미대강활탕(加味大羌活湯)·당귀사역탕(當歸四逆湯) 등이 보고되었으며, 수부 OA에 홍삼(紅蔘) 보조 요법이 연구되었다.[^2][^7][^15][^16]
 - 기법: 도침(刀鍼, acupotomy)·드라이 니들링·추나(推拿)·매선(埋線)·지압(指壓)·부항(拔罐) 등이 슬관절·고관절 OA에 적용된다.[^4][^5][^13][^14][^19]
 
-[^1]: First-line treatment for osteoarthritis. Part 2: Nonpharmacologic interventions and evaluation. 문헌고찰. DOI: [10.1097/00006416-200111000-00004](https://doi.org/10.1097/00006416-200111000-00004) · PMID: [12025798](https://pubmed.ncbi.nlm.nih.gov/12025798/). 근거수준: 중등도. 운동·침·지압·온열 등 비약물 요법이 OA 통증·기능 개선에 중요.
-[^2]: Chinese herbal medicine Du-Huo-Ji-Sheng-decoction for knee osteoarthritis. 메타분석. DOI: [10.1097/md.0000000000024413](https://doi.org/10.1097/md.0000000000024413). 근거수준: 중등도. 독활기생탕의 유효성·안전성 근거 제시.
+[^1]: First-line treatment for osteoarthritis. Part 2: Nonpharmacologic interventions and evaluation. 문헌고찰. DOI: [10.1097/00006416-200111000-00004](https://doi.org/10.1097/00006416-200111000-00004) · PMID: [12025798](https://pubmed.ncbi.nlm.nih.gov/12025798/). 운동·침·지압·온열 등 비약물 요법이 OA 통증·기능 개선에 중요.
+[^2]: Chinese herbal medicine Du-Huo-Ji-Sheng-decoction for knee osteoarthritis. 메타분석. DOI: [10.1097/md.0000000000024413](https://doi.org/10.1097/md.0000000000024413). 독활기생탕의 유효성·안전성 근거 제시.
 [^3]: 골관절염의 한의학적 변증·경혈·한약 적용은 교과서적 임상 이론 및 한정된 문헌 수준. 근거 미확인(변증별 표준 처방의 고품질 근거 제한적).
-[^4]: Acupotomy Therapy for Knee Osteoarthritis Pain: Systematic Review and Meta-Analysis. 메타분석, 3021명. DOI: [10.1155/2020/2168283](https://doi.org/10.1155/2020/2168283). 근거수준: 높음. 도침이 통증 유의 감소·기능 개선, 침·약물보다 우수. 주 1회 1~5주, 부작용 보고 없음.
-[^5]: The Effectiveness of Dry Needling in Patients with Hip or Knee Osteoarthritis: A Systematic Review and Meta-Analysis. 메타분석, 291명. DOI: [10.3390/life12101575](https://doi.org/10.3390/life12101575) · PMID: [36295010](https://pubmed.ncbi.nlm.nih.gov/36295010/). 근거수준: 낮음. 드라이 니들링이 단기 통증·기능 개선, 중장기·근거 수준 낮음.
-[^6]: Effects of dry needling in HIP muscles in patients with HIP osteoarthritis. 임상시험. DOI: [10.1016/j.msksp.2019.07.006](https://doi.org/10.1016/j.msksp.2019.07.006) · PMID: [31352178](https://pubmed.ncbi.nlm.nih.gov/31352178/). 근거수준: 중등도. 고관절 주변 근육 건침이 고관절 OA 통증·기능 개선.
-[^7]: Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis. 임상시험. DOI: [10.3389/fphar.2021.745568](https://doi.org/10.3389/fphar.2021.745568). 근거수준: 중등도. 홍삼이 폐경 후 수부 OA 증상 개선에 긍정적.
-[^8]: Electroacupuncture vs topical diclofenac sodium gel for patients with hand osteoarthritis. 임상시험. DOI: [10.1016/j.mayocp.2025.12.018](https://doi.org/10.1016/j.mayocp.2025.12.018) · PMID: [42201269](https://pubmed.ncbi.nlm.nih.gov/42201269/). 근거수준: 중등도. 수부 OA에 전침이 국소 디클로페낙 겔과 유사·우월한 효과 가능성.
+[^4]: Acupotomy Therapy for Knee Osteoarthritis Pain: Systematic Review and Meta-Analysis. 메타분석, 3021명. DOI: [10.1155/2020/2168283](https://doi.org/10.1155/2020/2168283). 도침이 통증 유의 감소·기능 개선, 침·약물보다 우수. 주 1회 1~5주, 부작용 보고 없음.
+[^5]: The Effectiveness of Dry Needling in Patients with Hip or Knee Osteoarthritis: A Systematic Review and Meta-Analysis. 메타분석, 291명. DOI: [10.3390/life12101575](https://doi.org/10.3390/life12101575) · PMID: [36295010](https://pubmed.ncbi.nlm.nih.gov/36295010/). 드라이 니들링이 단기 통증·기능 개선, 중장기 효과 근거 부족.
+[^6]: Effects of dry needling in HIP muscles in patients with HIP osteoarthritis. 임상시험. DOI: [10.1016/j.msksp.2019.07.006](https://doi.org/10.1016/j.msksp.2019.07.006) · PMID: [31352178](https://pubmed.ncbi.nlm.nih.gov/31352178/). 고관절 주변 근육 건침이 고관절 OA 통증·기능 개선.
+[^7]: Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis. 임상시험. DOI: [10.3389/fphar.2021.745568](https://doi.org/10.3389/fphar.2021.745568). 홍삼이 폐경 후 수부 OA 증상 개선에 긍정적.
+[^8]: Electroacupuncture vs topical diclofenac sodium gel for patients with hand osteoarthritis. 임상시험. DOI: [10.1016/j.mayocp.2025.12.018](https://doi.org/10.1016/j.mayocp.2025.12.018) · PMID: [42201269](https://pubmed.ncbi.nlm.nih.gov/42201269/). 수부 OA에 전침이 국소 디클로페낙 겔과 유사·우월한 효과 가능성.
 [^9]: 골관절염의 척추 관절 유형에 대한 전용 근거는 도침·추나·부항 등 일부 문헌에 국한됨. 근거 미확인(척추 OA 특이적 고품질 근거 제한적).
-[^10]: Clinical controlled study of Zhongyi Ointment for Kellgren-Lawrence grade II knee osteoarthritis. 임상시험, 80명. DOI: [10.12200/j.issn.1003-0034.20250486](https://doi.org/10.12200/j.issn.1003-0034.20250486) · PMID: [42087504](https://pubmed.ncbi.nlm.nih.gov/42087504/). 근거수준: 중등도. 중의 연고가 WOMAC·가동 범위 개선, 3일 내 빠른 단기 효과·안전.
-[^11]: Exploring the correlation between knee osteoarthritis and musculoskeletal ultrasound manifestations based on TCM syndrome types. 관찰연구, 104명. DOI: [10.1097/MD.0000000000040718](https://doi.org/10.1097/MD.0000000000040718) · PMID: [39612379](https://pubmed.ncbi.nlm.nih.gov/39612379/). 근거수준: 낮음. 변증 유형에 따라 활막 혈류·삼출액 차이, 초음파의 변증 보조 지표 가능성.
-[^12]: Minimal acupuncture is not a valid placebo control in randomised controlled trials of acupuncture. 문헌고찰. DOI: [10.1186/1749-8546-4-1](https://doi.org/10.1186/1749-8546-4-1). 근거수준: 중등도. 최소 침술은 생리학적으로 불활성 위약이 아님, 대조군 설정 주의.
-[^13]: Dry needling trigger points around knee and hip joints improves function in patients with mild to moderate knee osteoarthritis. 임상시험, 40명. DOI: [10.1016/j.jbmt.2021.04.011](https://doi.org/10.1016/j.jbmt.2021.04.011) · PMID: [34391293](https://pubmed.ncbi.nlm.nih.gov/34391293/). 근거수준: 중등도. 무릎·고관절 유발점 건침 3회가 통증·균형·기능 개선.
-[^14]: Efficacy of Tui-na for Treatment of Osteoarthritis: A Systematic Review and Meta-analysis. 메타분석. DOI: [10.59565/001c.83234](https://doi.org/10.59565/001c.83234). 근거수준: 중등도. 추나가 통증·가동성·삶의 질 개선, 동물 모델 포함 유효.
-[^15]: Efficacy, Safety, and Economic Evaluation of Gamidaeganghwal-Tang in Patients with Knee Osteoarthritis: Protocol for a Multicenter RCT. 임상시험(프로토콜), 160명. DOI: [10.2147/JPR.S594693](https://doi.org/10.2147/JPR.S594693) · PMID: [42022497](https://pubmed.ncbi.nlm.nih.gov/42022497/). 근거수준: 중등도. 가미대강활탕의 유효성·안전성·경제성 평가 프로토콜.
-[^16]: Efficacy and safety of Chinese herbal medicine Danggui Sini decoction for knee osteoarthritis: A protocol. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000031516](https://doi.org/10.1097/md.0000000000031516). 근거수준: 중등도. 당귀사역탕의 유효성·안전성 평가 SR-MA 프로토콜.
-[^17]: Clinical Efficacy of Acupuncture for Knee Osteoarthritis and Associated Changes in Serum Lipidomics. 관찰연구, 80명. DOI: [10.2147/JPR.S578343](https://doi.org/10.2147/JPR.S578343) · PMID: [41727563](https://pubmed.ncbi.nlm.nih.gov/41727563/). 근거수준: 낮음. 침이 통증·기능 개선, 지질 대사(PE·LPC·LPE·TG) 조절로 염증 완화.
-[^18]: Analysis of gene expression in synovial fluid and blood of patients with knee osteoarthritis of Yang deficiency and blood stasis type. 관찰연구, 80명. DOI: [10.12200/j.issn.1003-0034.20241087](https://doi.org/10.12200/j.issn.1003-0034.20241087) · PMID: [40898937](https://pubmed.ncbi.nlm.nih.gov/40898937/). 근거수준: 낮음. 양허혈어형은 BMI·LDL·D-dimer 상승·HDL 저하, 지질 대사 유전자(PPARG 등) 발현 차이.
-[^19]: Effects of Acupressure on Psychological Symptoms in Chronic Disease Patients: A Scoping Review. 체계적 고찰(Scoping). DOI: [10.37287/ijghr.v7i1.4170](https://doi.org/10.37287/ijghr.v7i1.4170). 근거수준: 중등도. 지압이 만성 질환 환자의 불안·우울·스트레스·불면 개선에 긍정적.
-[^20]: Acupuncture Prescription Based on Thermal-Sensitized Acupoints for the Treatment of Knee Osteoarthritis: Protocol for a Randomized Controlled Pilot Trial. 임상시험(프로토콜), 60명. DOI: [10.2196/preprints.81837](https://doi.org/10.2196/preprints.81837). 근거수준: 중등도. 적외선 체열 진단 기반 맞춤형 혈위 침 처방의 타당성·예비 효과 평가.
+[^10]: Clinical controlled study of Zhongyi Ointment for Kellgren-Lawrence grade II knee osteoarthritis. 임상시험, 80명. DOI: [10.12200/j.issn.1003-0034.20250486](https://doi.org/10.12200/j.issn.1003-0034.20250486) · PMID: [42087504](https://pubmed.ncbi.nlm.nih.gov/42087504/). 중의 연고가 WOMAC·가동 범위 개선, 3일 내 빠른 단기 효과·안전.
+[^11]: Exploring the correlation between knee osteoarthritis and musculoskeletal ultrasound manifestations based on TCM syndrome types. 관찰연구, 104명. DOI: [10.1097/MD.0000000000040718](https://doi.org/10.1097/MD.0000000000040718) · PMID: [39612379](https://pubmed.ncbi.nlm.nih.gov/39612379/). 변증 유형에 따라 활막 혈류·삼출액 차이, 초음파의 변증 보조 지표 가능성.
+[^12]: Minimal acupuncture is not a valid placebo control in randomised controlled trials of acupuncture. 문헌고찰. DOI: [10.1186/1749-8546-4-1](https://doi.org/10.1186/1749-8546-4-1). 최소 침술은 생리학적으로 불활성 위약이 아님, 대조군 설정 주의.
+[^13]: Dry needling trigger points around knee and hip joints improves function in patients with mild to moderate knee osteoarthritis. 임상시험, 40명. DOI: [10.1016/j.jbmt.2021.04.011](https://doi.org/10.1016/j.jbmt.2021.04.011) · PMID: [34391293](https://pubmed.ncbi.nlm.nih.gov/34391293/). 무릎·고관절 유발점 건침 3회가 통증·균형·기능 개선.
+[^14]: Efficacy of Tui-na for Treatment of Osteoarthritis: A Systematic Review and Meta-analysis. 메타분석. DOI: [10.59565/001c.83234](https://doi.org/10.59565/001c.83234). 추나가 통증·가동성·삶의 질 개선, 동물 모델 포함 유효.
+[^15]: Efficacy, Safety, and Economic Evaluation of Gamidaeganghwal-Tang in Patients with Knee Osteoarthritis: Protocol for a Multicenter RCT. 임상시험(프로토콜), 160명. DOI: [10.2147/JPR.S594693](https://doi.org/10.2147/JPR.S594693) · PMID: [42022497](https://pubmed.ncbi.nlm.nih.gov/42022497/). 가미대강활탕의 유효성·안전성·경제성 평가 프로토콜.
+[^16]: Efficacy and safety of Chinese herbal medicine Danggui Sini decoction for knee osteoarthritis: A protocol. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000031516](https://doi.org/10.1097/md.0000000000031516). 당귀사역탕의 유효성·안전성 평가 SR-MA 프로토콜.
+[^17]: Clinical Efficacy of Acupuncture for Knee Osteoarthritis and Associated Changes in Serum Lipidomics. 관찰연구, 80명. DOI: [10.2147/JPR.S578343](https://doi.org/10.2147/JPR.S578343) · PMID: [41727563](https://pubmed.ncbi.nlm.nih.gov/41727563/). 침이 통증·기능 개선, 지질 대사(PE·LPC·LPE·TG) 조절로 염증 완화.
+[^18]: Analysis of gene expression in synovial fluid and blood of patients with knee osteoarthritis of Yang deficiency and blood stasis type. 관찰연구, 80명. DOI: [10.12200/j.issn.1003-0034.20241087](https://doi.org/10.12200/j.issn.1003-0034.20241087) · PMID: [40898937](https://pubmed.ncbi.nlm.nih.gov/40898937/). 양허혈어형은 BMI·LDL·D-dimer 상승·HDL 저하, 지질 대사 유전자(PPARG 등) 발현 차이.
+[^19]: Effects of Acupressure on Psychological Symptoms in Chronic Disease Patients: A Scoping Review. 체계적 고찰(Scoping). DOI: [10.37287/ijghr.v7i1.4170](https://doi.org/10.37287/ijghr.v7i1.4170). 지압이 만성 질환 환자의 불안·우울·스트레스·불면 개선에 긍정적.
+[^20]: Acupuncture Prescription Based on Thermal-Sensitized Acupoints for the Treatment of Knee Osteoarthritis: Protocol for a Randomized Controlled Pilot Trial. 임상시험(프로토콜), 60명. DOI: [10.2196/preprints.81837](https://doi.org/10.2196/preprints.81837). 적외선 체열 진단 기반 맞춤형 혈위 침 처방의 타당성·예비 효과 평가.
 
 ## Q&A
 
@@ -109,7 +109,7 @@
 연부조직 유착이 심한 슬관절 골관절염 환자에게 주 1회, 1~5주 정도의 도침 시술을 고려할 수 있으며, 심각한 부작용 보고가 없어 비교적 안전한 선택지가 될 수 있다.[^4] 다만 포함 연구의 질이 낮아 신중한 적용이 필요하다.
 
 **Q3. 드라이 니들링은 골관절염에 효과가 있나요?**
-고관절·슬관절 골관절염 환자의 단기적 통증 감소와 신체 기능 개선에 긍정적이지만, 중장기적 효과는 입증되지 않았고 전반적 근거 수준이 낮아 단기적 증상 완화 목적으로 보조적으로 적용하는 것이 바람직하다.[^5][^13]
+고관절·슬관절 골관절염 환자의 단기적 통증 감소와 신체 기능 개선에 긍정적이지만, 중장기적 효과는 입증되지 않았고 단기적 증상 완화 목적으로 보조적으로 적용하는 것이 바람직하다.[^5][^13]
 
 **Q4. 골관절염에는 어떤 한약이 쓰이나요?**
 슬관절 골관절염에는 독활기생탕(獨活寄生湯)이 널리 사용되며, 가미대강활탕(加味大羌活湯)·당귀사역탕(當歸四逆湯)의 다기관 임상시험이 진행 중이다.[^2][^15][^16] 변증(간신부족·기체혈어·풍한습비·습열적체 등)에 따라 처방을 조절하며, 최소 4주 이상의 치료 기간이 권장된다.[^2]
@@ -125,4 +125,4 @@
 - 한약 처방(독활기생탕·가미대강활탕·당귀사역탕 등)의 대규모 무작위 대조 시험이 필요하며, 장기 추적 관찰 연구를 통해 침·도침 등 중재의 효과 유지 기간을 검증해야 한다.
 - 침 치료의 장기적 구조적 보호 효과(연골 보존 등)에 대한 근거가 부족하여 추가 연구가 필요하다.
 
-> 검색을 통해 슬관절·고관절·수부 골관절염 관련 한의 중재 논문 500편 이상을 확보한 뒤, 주제 관련성이 높고 다양한 근거 수준을 대표하는 21편을 선별·인용하였다. 수부·척추 골관절염 전용 논문은 상대적으로 적어 이 영역은 "미충족 근거"로 구분하였다.
+> 검색을 통해 슬관절·고관절·수부 골관절염 관련 한의 중재 논문 500편 이상을 확보한 뒤, 주제 관련성이 높고 다양한 연구 유형을 대표하는 21편을 선별·인용하였다. 수부·척추 골관절염 전용 논문은 상대적으로 적어 이 영역은 "미충족 근거"로 구분하였다.

@@ -1,6 +1,6 @@
 # 위궤양 (胃潰瘍, Peptic Ulcer)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/임상시험/체계적 고찰 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: K25~K28 (소화성 궤양, Peptic ulcer)
 
 ## 개요
@@ -96,32 +96,32 @@
 ## 참고문헌
 
 [^1]: 위궤양·소화성 궤양의 정의·분류(KCD-8 K25~K28). 근거 미확인(교과서적 임상 진단 이론).
-[^2]: Effect of Jianwei Yuyang Granules on expression of epidermal growth factor receptor in gastric mucosa of gastric ulcer patients. 2004. 임상시험, 70명. DOI: [10.3736/jcim20040109](https://doi.org/10.3736/jcim20040109) · [PMID 15339497](https://pubmed.ncbi.nlm.nih.gov/15339497/). 근거수준: 중등도.
-[^3]: Clinical study on treatment of gastric ulcer with qingwei zhitong pill. 2002. 임상시험, 120명. [PMID 12577435](https://pubmed.ncbi.nlm.nih.gov/12577435/). 근거수준: 중등도.
-[^4]: Therapeutic effects of the combination of traditional Chinese medicine and western medicine on patients with peptic ulcers. 2006. 임상시험, 130명. [PMID 16708818](https://pubmed.ncbi.nlm.nih.gov/16708818/). 근거수준: 중등도.
-[^5]: A comparison of the efficacy and safety of Chinese patent medicine combined with Western medicine for Helicobacter pylori-related gastric ulcer: A systematic review and network meta-analysis. Medicine. 2026. 메타분석, 4667명. DOI: [10.1097/md.0000000000041137](https://doi.org/10.1097/md.0000000000041137). 근거수준: 높음.
-[^6]: The efficacy of acupuncture combined with Chinese herbal medicine in the treatment of gastric ulcer: A systematic review and meta-analysis. Medicine. 2026. 메타분석, 1632명. DOI: [10.1097/MD.0000000000047743](https://doi.org/10.1097/MD.0000000000047743) · [PMID 41824820](https://pubmed.ncbi.nlm.nih.gov/41824820/). 근거수준: 높음.
-[^7]: Effects of killing Helicobacter pylori quadruple therapy on peptic ulcer: a randomized double-blind clinical trial. World J Gastroenterol. 2005. 임상시험, 75명. DOI: [10.3748/wjg.v11.i7.1083](https://doi.org/10.3748/wjg.v11.i7.1083) · [PMID 15742421](https://pubmed.ncbi.nlm.nih.gov/15742421/). 근거수준: 높음.
-[^8]: A Case Report of Integrative Korean Medicine Treatment for Functional Dyspepsia Persisting After Complete Healing of Gastric Ulcer. J Int Korean Med. 2025. 증례, 1명. DOI: [10.22246/jikm.2025.46.6.1691](https://doi.org/10.22246/jikm.2025.46.6.1691). 근거수준: 낮음.
-[^9]: Blood and urine prostaglandin E2 and prostaglandin F2 alpha in patients with chronic gastritis and peptic ulcer. 1993. 관찰연구, 106명. [PMID 1298470](https://pubmed.ncbi.nlm.nih.gov/1298470/). 근거수준: 중등도.
-[^10]: The course of peptic ulcer in relation to patients' constitution. 2001. 관찰연구, 61명. [PMID 11510186](https://pubmed.ncbi.nlm.nih.gov/11510186/). 근거수준: 중등도.
-[^11]: Research Progress on Traditional Chinese Medicine Interventions for Helicobacter Pylori. 2026. 체계적 고찰. DOI: [10.53469/jcmp.2026.08(01).20](https://doi.org/10.53469/jcmp.2026.08(01).20). 근거수준: 중등도.
-[^12]: Prediction of gastric ulcers based on the change in electrical resistance of acupuncture points using fuzzy logic decision-making. 2011. 실험연구. DOI: [10.1080/10255842.2011.618926](https://doi.org/10.1080/10255842.2011.618926) · [PMID 22292589](https://pubmed.ncbi.nlm.nih.gov/22292589/). 근거수준: 낮음.
-[^13]: Clinical observation of peptic ulcer treated with acupuncture based on theory of "the compatibility of the five meridians" in Huxiang. Zhongguo Zhen Jiu. 2017. 임상시험, 57명. DOI: [10.13703/j.0255-2930.2017.08.001](https://doi.org/10.13703/j.0255-2930.2017.08.001) · [PMID 29231336](https://pubmed.ncbi.nlm.nih.gov/29231336/). 근거수준: 중등도.
-[^14]: The efficacy and safety of Acupoint herbal patching in treating peptic ulcer: protocol for a systematic review and meta-analysis. 2024. 체계적 고찰(프로토콜). DOI: [10.1101/2024.09.21.24314138](https://doi.org/10.1101/2024.09.21.24314138). 근거수준: 낮음.
-[^15]: Effect of xiaokuiling prescription on the expression of HSP72, HSP B in gastric mucosa of patients with Helicobacter pylori-associated duodenal ulcer. 2002. 임상시험. DOI: [10.1007/BF02886565](https://doi.org/10.1007/BF02886565) · [PMID 12539556](https://pubmed.ncbi.nlm.nih.gov/12539556/). 근거수준: 중등도.
-[^16]: ACUPUNCTURE TREATMENT FOR DUODENAL ULCER. 1988. 임상시험, 21명. DOI: [10.3727/036012988816358679](https://doi.org/10.3727/036012988816358679). 근거수준: 중등도.
-[^17]: Comparative study on Jinghua Weikang Capsule and famotidine in treating duodenal ulcer. 2006. 임상시험, 200명. [PMID 16689009](https://pubmed.ncbi.nlm.nih.gov/16689009/). 근거수준: 중등도.
-[^18]: Randomized controlled trial on haiguiyuyang capsule in the treatment of duodenal ulcer. 2005. 임상시험, 438명. [PMID 15807275](https://pubmed.ncbi.nlm.nih.gov/15807275/). 근거수준: 중등도.
-[^19]: Relationship of cytokines and cold-heat syndrome differentiation in patients of duodenal ulcer. 2001. 관찰연구, 58명. [PMID 11783237](https://pubmed.ncbi.nlm.nih.gov/11783237/). 근거수준: 중등도.
-[^20]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. Inflammopharmacology. 2026. 문헌고찰. DOI: [10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7) · [PMID 42371378](https://pubmed.ncbi.nlm.nih.gov/42371378/). 근거수준: 중등도.
-[^21]: Antiulcer Activity of Herbal Medicines: A Review of Current Research. 2025. 문헌고찰. DOI: [10.2174/0127724344407391251210123216](https://doi.org/10.2174/0127724344407391251210123216) · [PMID 42152253](https://pubmed.ncbi.nlm.nih.gov/42152253/). 근거수준: 중등도.
-[^22]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. Front Med. 2026. 메타분석, 4465명. DOI: [10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753). 근거수준: 중등도.
-[^23]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: a systematic review and meta-analysis. J Ethnopharmacol. 2025. 메타분석, 2086명. DOI: [10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414) · [PMID 40812557](https://pubmed.ncbi.nlm.nih.gov/40812557/). 근거수준: 높음.
+[^2]: Effect of Jianwei Yuyang Granules on expression of epidermal growth factor receptor in gastric mucosa of gastric ulcer patients. 2004. 임상시험, 70명. DOI: [10.3736/jcim20040109](https://doi.org/10.3736/jcim20040109) · [PMID 15339497](https://pubmed.ncbi.nlm.nih.gov/15339497/).
+[^3]: Clinical study on treatment of gastric ulcer with qingwei zhitong pill. 2002. 임상시험, 120명. [PMID 12577435](https://pubmed.ncbi.nlm.nih.gov/12577435/).
+[^4]: Therapeutic effects of the combination of traditional Chinese medicine and western medicine on patients with peptic ulcers. 2006. 임상시험, 130명. [PMID 16708818](https://pubmed.ncbi.nlm.nih.gov/16708818/).
+[^5]: A comparison of the efficacy and safety of Chinese patent medicine combined with Western medicine for Helicobacter pylori-related gastric ulcer: A systematic review and network meta-analysis. Medicine. 2026. 메타분석, 4667명. DOI: [10.1097/md.0000000000041137](https://doi.org/10.1097/md.0000000000041137).
+[^6]: The efficacy of acupuncture combined with Chinese herbal medicine in the treatment of gastric ulcer: A systematic review and meta-analysis. Medicine. 2026. 메타분석, 1632명. DOI: [10.1097/MD.0000000000047743](https://doi.org/10.1097/MD.0000000000047743) · [PMID 41824820](https://pubmed.ncbi.nlm.nih.gov/41824820/).
+[^7]: Effects of killing Helicobacter pylori quadruple therapy on peptic ulcer: a randomized double-blind clinical trial. World J Gastroenterol. 2005. 임상시험, 75명. DOI: [10.3748/wjg.v11.i7.1083](https://doi.org/10.3748/wjg.v11.i7.1083) · [PMID 15742421](https://pubmed.ncbi.nlm.nih.gov/15742421/).
+[^8]: A Case Report of Integrative Korean Medicine Treatment for Functional Dyspepsia Persisting After Complete Healing of Gastric Ulcer. J Int Korean Med. 2025. 증례, 1명. DOI: [10.22246/jikm.2025.46.6.1691](https://doi.org/10.22246/jikm.2025.46.6.1691).
+[^9]: Blood and urine prostaglandin E2 and prostaglandin F2 alpha in patients with chronic gastritis and peptic ulcer. 1993. 관찰연구, 106명. [PMID 1298470](https://pubmed.ncbi.nlm.nih.gov/1298470/).
+[^10]: The course of peptic ulcer in relation to patients' constitution. 2001. 관찰연구, 61명. [PMID 11510186](https://pubmed.ncbi.nlm.nih.gov/11510186/).
+[^11]: Research Progress on Traditional Chinese Medicine Interventions for Helicobacter Pylori. 2026. 체계적 고찰. DOI: [10.53469/jcmp.2026.08(01).20](https://doi.org/10.53469/jcmp.2026.08(01).20).
+[^12]: Prediction of gastric ulcers based on the change in electrical resistance of acupuncture points using fuzzy logic decision-making. 2011. 실험연구. DOI: [10.1080/10255842.2011.618926](https://doi.org/10.1080/10255842.2011.618926) · [PMID 22292589](https://pubmed.ncbi.nlm.nih.gov/22292589/).
+[^13]: Clinical observation of peptic ulcer treated with acupuncture based on theory of "the compatibility of the five meridians" in Huxiang. Zhongguo Zhen Jiu. 2017. 임상시험, 57명. DOI: [10.13703/j.0255-2930.2017.08.001](https://doi.org/10.13703/j.0255-2930.2017.08.001) · [PMID 29231336](https://pubmed.ncbi.nlm.nih.gov/29231336/).
+[^14]: The efficacy and safety of Acupoint herbal patching in treating peptic ulcer: protocol for a systematic review and meta-analysis. 2024. 체계적 고찰(프로토콜). DOI: [10.1101/2024.09.21.24314138](https://doi.org/10.1101/2024.09.21.24314138).
+[^15]: Effect of xiaokuiling prescription on the expression of HSP72, HSP B in gastric mucosa of patients with Helicobacter pylori-associated duodenal ulcer. 2002. 임상시험. DOI: [10.1007/BF02886565](https://doi.org/10.1007/BF02886565) · [PMID 12539556](https://pubmed.ncbi.nlm.nih.gov/12539556/).
+[^16]: ACUPUNCTURE TREATMENT FOR DUODENAL ULCER. 1988. 임상시험, 21명. DOI: [10.3727/036012988816358679](https://doi.org/10.3727/036012988816358679).
+[^17]: Comparative study on Jinghua Weikang Capsule and famotidine in treating duodenal ulcer. 2006. 임상시험, 200명. [PMID 16689009](https://pubmed.ncbi.nlm.nih.gov/16689009/).
+[^18]: Randomized controlled trial on haiguiyuyang capsule in the treatment of duodenal ulcer. 2005. 임상시험, 438명. [PMID 15807275](https://pubmed.ncbi.nlm.nih.gov/15807275/).
+[^19]: Relationship of cytokines and cold-heat syndrome differentiation in patients of duodenal ulcer. 2001. 관찰연구, 58명. [PMID 11783237](https://pubmed.ncbi.nlm.nih.gov/11783237/).
+[^20]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. Inflammopharmacology. 2026. 문헌고찰. DOI: [10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7) · [PMID 42371378](https://pubmed.ncbi.nlm.nih.gov/42371378/).
+[^21]: Antiulcer Activity of Herbal Medicines: A Review of Current Research. 2025. 문헌고찰. DOI: [10.2174/0127724344407391251210123216](https://doi.org/10.2174/0127724344407391251210123216) · [PMID 42152253](https://pubmed.ncbi.nlm.nih.gov/42152253/).
+[^22]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. Front Med. 2026. 메타분석, 4465명. DOI: [10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753).
+[^23]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: a systematic review and meta-analysis. J Ethnopharmacol. 2025. 메타분석, 2086명. DOI: [10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414) · [PMID 40812557](https://pubmed.ncbi.nlm.nih.gov/40812557/).
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 위궤양에 대한 한약·침·혈위도포의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 진단·평가 기준·취혈·처방 프로토콜이 비표준화되어 있어 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^5][^6]
+- 위궤양에 대한 한약·침·혈위도포의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 진단·평가 기준·취혈·처방 프로토콜이 비표준화되어 있어 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^5][^6]
 - 위궤양에서 침 치료의 H. pylori 음전율은 양방 약물보다 낮아,[^13] 제균이 우선인 경우 한약·침을 병용한 통합 치료의 제균율·재발 방지 장기 효과를 뒷받침할 대규모 다기관 무작위 대조 시험이 필요하다.
 - 혈위 약물 패치(AHP)의 유효성·안전성은 아직 프로토콜 단계로, 실제 임상 적용 근거가 추가로 확립되어야 한다.[^14]
 - 변증(한열변증·간위불화·비위허약)·체질과 위궤양의 예후·치료 반응을 객관화할 더 정밀한 전향적 연구가 요구된다.[^9][^10][^19]

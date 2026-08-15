@@ -1,6 +1,6 @@
 # 자궁근종 (子宮筋腫, Uterine Fibroid/Leiomyoma)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: D25 (자궁근종, Leiomyoma of uterus)
 
 ## 개요
@@ -99,29 +99,29 @@
 ## 참고문헌
 
 [^1]: 자궁근종의 정의·분류(KCD-8 D25). 근거 미확인(교과서적 임상 진단 이론).
-[^2]: Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump. 2005. 임상시험, 120명. [PMID 15688694](https://pubmed.ncbi.nlm.nih.gov/15688694/). 근거수준: 중등도.
-[^3]: Unveiling the role of traditional regimens in the management of uterine fibroids: A systematic review. Health Care Women Int. 2024. 체계적 고찰. DOI: [10.1080/07399332.2024.2414384](https://doi.org/10.1080/07399332.2024.2414384) · [PMID 40505045](https://pubmed.ncbi.nlm.nih.gov/40505045/). 근거수준: 중등도.
-[^4]: Effectiveness of Dry Cupping Therapy in the Management of Uterine Fibroid: A Case Report. Traditional and Integrative Medicine. 2020. 증례, 1명. DOI: [10.18502/tim.v5i2.3629](https://doi.org/10.18502/tim.v5i2.3629). 근거수준: 낮음.
-[^5]: Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. Am J Chin Med. 1992. 임상시험, 110명. DOI: [10.1142/S0192415X92000333](https://doi.org/10.1142/S0192415X92000333) · [PMID 1471615](https://pubmed.ncbi.nlm.nih.gov/1471615/). 근거수준: 중등도.
-[^6]: Acupuncture combined with Guizhi Fuling Wan decoction for adenomyosis-associated dysmenorrhea: A case report. Explore. 2025. 증례, 1명. DOI: [10.1016/j.explore.2025.103169](https://doi.org/10.1016/j.explore.2025.103169) · [PMID 40286724](https://pubmed.ncbi.nlm.nih.gov/40286724/). 근거수준: 낮음.
-[^7]: Decreasing the Uterine Blood Flow with Electroacupuncture: Bidermatomal and Monodermatomal Applications. Complement Med Res. 2016. 임상시험, 10명. DOI: [10.1159/000446947](https://doi.org/10.1159/000446947). 근거수준: 중등도.
-[^8]: Efficacy of Huayu Xiaozheng decoction combined with triptorelin and mifepristone in the treatment of uterine fibroids and its effect on uterine artery hemodynamics. Int J Gynaecol Obstet. 2026. 임상시험, 102명. DOI: [10.1002/ijgo.70601](https://doi.org/10.1002/ijgo.70601) · [PMID 41128268](https://pubmed.ncbi.nlm.nih.gov/41128268/). 근거수준: 중등도.
-[^9]: Effect of a Self-Made Herbal Decoction Containing Angelica sinensis on Uterine Fibroid. 2023. 실험연구. DOI: [10.1166/jbmb.2023.2332](https://doi.org/10.1166/jbmb.2023.2332). 근거수준: 낮음.
-[^10]: A comparative study of the usefulness of toki-shakuyaku-san and an oral iron preparation in the treatment of hypochromic anemia in cases of uterine myoma. Yakugaku Zasshi. 2003. 임상시험, 25명. DOI: [10.1248/yakushi.123.817](https://doi.org/10.1248/yakushi.123.817) · [PMID 14513774](https://pubmed.ncbi.nlm.nih.gov/14513774/). 근거수준: 중등도.
-[^11]: Complementary medicine treatment of uterine fibroids: a pilot study. Altern Ther Health Med. 2002. 임상시험, 74명. [PMID 11890384](https://pubmed.ncbi.nlm.nih.gov/11890384/). 근거수준: 중등도.
-[^12]: The efficacy and safety of Chinese herbal medicine Shugan Sanjie decoction in the treatment of uterine fibroids: a systematic review and meta-analysis. Front Pharmacol. 2025. 메타분석, 952명. DOI: [10.3389/fphar.2025.1508015](https://doi.org/10.3389/fphar.2025.1508015). 근거수준: 중등도.
-[^13]: Effects of switching to wen-jing-tang (unkei-to) from preceding herbal medicines on uterine myoma and related symptoms. Am J Chin Med. 2006. 임상시험. DOI: [10.1142/S0192415X06003746](https://doi.org/10.1142/S0192415X06003746). 근거수준: 중등도.
-[^14]: A case of adenomyosis with leiomyoma that was effectively treated with relugolix and kamishoyosan add-on therapy. BMC Womens Health. 2021. 증례, 1명. DOI: [10.1186/s12905-021-01442-x](https://doi.org/10.1186/s12905-021-01442-x) · [PMID 34412607](https://pubmed.ncbi.nlm.nih.gov/34412607/). 근거수준: 낮음.
-[^15]: Network meta-analysis of 6 kinds of Chinese patent medicines combined with mifepristone in the treatment of uterine fibroids. Medicine. 2023. 메타분석. DOI: [10.1097/md.0000000000027523](https://doi.org/10.1097/md.0000000000027523). 근거수준: 중등도.
-[^16]: Segmental Electroacupuncture for Uterine Fibroids: A Case Report. Clin Case Rep. 2025. 증례, 1명. DOI: [10.1002/ccr3.72011](https://doi.org/10.1002/ccr3.72011) · [PMID 41710500](https://pubmed.ncbi.nlm.nih.gov/41710500/). 근거수준: 낮음.
-[^17]: Effectiveness of Dry Cupping Therapy in the Management of Uterine Fibroid: A Case Report. 2020. 증례, 1명. DOI: [10.18502/tim.v5i2.3629](https://doi.org/10.18502/tim.v5i2.3629). 근거수준: 낮음.
-[^18]: A case report of traditional Korean medicine treatments on uterine myoma with thyroid cancer. Integr Med Res. 2018. 증례, 1명. DOI: [10.1016/j.imr.2018.10.003](https://doi.org/10.1016/j.imr.2018.10.003) · [PMID 30505680](https://pubmed.ncbi.nlm.nih.gov/30505680/). 근거수준: 낮음.
-[^19]: Acupuncture for uterine fibroids. Cochrane Database Syst Rev. 2009. 체계적 고찰. DOI: [10.1002/14651858.CD007221.pub2](https://doi.org/10.1002/14651858.CD007221.pub2) · [PMID 20091625](https://pubmed.ncbi.nlm.nih.gov/20091625/). 근거수준: 중등도.
-[^20]: Endometriosis treated by the method of resolving blood stasis to eliminate obstruction in the lower-jiao. 1999. 임상시험, 48명. [PMID 10437253](https://pubmed.ncbi.nlm.nih.gov/10437253/). 근거수준: 중등도.
-[^21]: Effects of herbal medicines on menopausal symptoms induced by gonadotropin-releasing hormone agonist therapy. 2001. 관찰연구, 22명. [PMID 11332582](https://pubmed.ncbi.nlm.nih.gov/11332582/). 근거수준: 중등도.
-[^22]: A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes: A Systematic Review. Biomedicines. 2019. 체계적 고찰. DOI: [10.3390/biomedicines7030060](https://doi.org/10.3390/biomedicines7030060). 근거수준: 중등도.
-[^23]: Effects of Gyejibokryeong-hwan on climacteric syndrome with blood stasis. Integr Med Res. 2023. 임상시험. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951). 근거수준: 중등도.
+[^2]: Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump. 2005. 임상시험, 120명. [PMID 15688694](https://pubmed.ncbi.nlm.nih.gov/15688694/).
+[^3]: Unveiling the role of traditional regimens in the management of uterine fibroids: A systematic review. Health Care Women Int. 2024. 체계적 고찰. DOI: [10.1080/07399332.2024.2414384](https://doi.org/10.1080/07399332.2024.2414384) · [PMID 40505045](https://pubmed.ncbi.nlm.nih.gov/40505045/).
+[^4]: Effectiveness of Dry Cupping Therapy in the Management of Uterine Fibroid: A Case Report. Traditional and Integrative Medicine. 2020. 증례, 1명. DOI: [10.18502/tim.v5i2.3629](https://doi.org/10.18502/tim.v5i2.3629).
+[^5]: Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. Am J Chin Med. 1992. 임상시험, 110명. DOI: [10.1142/S0192415X92000333](https://doi.org/10.1142/S0192415X92000333) · [PMID 1471615](https://pubmed.ncbi.nlm.nih.gov/1471615/).
+[^6]: Acupuncture combined with Guizhi Fuling Wan decoction for adenomyosis-associated dysmenorrhea: A case report. Explore. 2025. 증례, 1명. DOI: [10.1016/j.explore.2025.103169](https://doi.org/10.1016/j.explore.2025.103169) · [PMID 40286724](https://pubmed.ncbi.nlm.nih.gov/40286724/).
+[^7]: Decreasing the Uterine Blood Flow with Electroacupuncture: Bidermatomal and Monodermatomal Applications. Complement Med Res. 2016. 임상시험, 10명. DOI: [10.1159/000446947](https://doi.org/10.1159/000446947).
+[^8]: Efficacy of Huayu Xiaozheng decoction combined with triptorelin and mifepristone in the treatment of uterine fibroids and its effect on uterine artery hemodynamics. Int J Gynaecol Obstet. 2026. 임상시험, 102명. DOI: [10.1002/ijgo.70601](https://doi.org/10.1002/ijgo.70601) · [PMID 41128268](https://pubmed.ncbi.nlm.nih.gov/41128268/).
+[^9]: Effect of a Self-Made Herbal Decoction Containing Angelica sinensis on Uterine Fibroid. 2023. 실험연구. DOI: [10.1166/jbmb.2023.2332](https://doi.org/10.1166/jbmb.2023.2332).
+[^10]: A comparative study of the usefulness of toki-shakuyaku-san and an oral iron preparation in the treatment of hypochromic anemia in cases of uterine myoma. Yakugaku Zasshi. 2003. 임상시험, 25명. DOI: [10.1248/yakushi.123.817](https://doi.org/10.1248/yakushi.123.817) · [PMID 14513774](https://pubmed.ncbi.nlm.nih.gov/14513774/).
+[^11]: Complementary medicine treatment of uterine fibroids: a pilot study. Altern Ther Health Med. 2002. 임상시험, 74명. [PMID 11890384](https://pubmed.ncbi.nlm.nih.gov/11890384/).
+[^12]: The efficacy and safety of Chinese herbal medicine Shugan Sanjie decoction in the treatment of uterine fibroids: a systematic review and meta-analysis. Front Pharmacol. 2025. 메타분석, 952명. DOI: [10.3389/fphar.2025.1508015](https://doi.org/10.3389/fphar.2025.1508015).
+[^13]: Effects of switching to wen-jing-tang (unkei-to) from preceding herbal medicines on uterine myoma and related symptoms. Am J Chin Med. 2006. 임상시험. DOI: [10.1142/S0192415X06003746](https://doi.org/10.1142/S0192415X06003746).
+[^14]: A case of adenomyosis with leiomyoma that was effectively treated with relugolix and kamishoyosan add-on therapy. BMC Womens Health. 2021. 증례, 1명. DOI: [10.1186/s12905-021-01442-x](https://doi.org/10.1186/s12905-021-01442-x) · [PMID 34412607](https://pubmed.ncbi.nlm.nih.gov/34412607/).
+[^15]: Network meta-analysis of 6 kinds of Chinese patent medicines combined with mifepristone in the treatment of uterine fibroids. Medicine. 2023. 메타분석. DOI: [10.1097/md.0000000000027523](https://doi.org/10.1097/md.0000000000027523).
+[^16]: Segmental Electroacupuncture for Uterine Fibroids: A Case Report. Clin Case Rep. 2025. 증례, 1명. DOI: [10.1002/ccr3.72011](https://doi.org/10.1002/ccr3.72011) · [PMID 41710500](https://pubmed.ncbi.nlm.nih.gov/41710500/).
+[^17]: Effectiveness of Dry Cupping Therapy in the Management of Uterine Fibroid: A Case Report. 2020. 증례, 1명. DOI: [10.18502/tim.v5i2.3629](https://doi.org/10.18502/tim.v5i2.3629).
+[^18]: A case report of traditional Korean medicine treatments on uterine myoma with thyroid cancer. Integr Med Res. 2018. 증례, 1명. DOI: [10.1016/j.imr.2018.10.003](https://doi.org/10.1016/j.imr.2018.10.003) · [PMID 30505680](https://pubmed.ncbi.nlm.nih.gov/30505680/).
+[^19]: Acupuncture for uterine fibroids. Cochrane Database Syst Rev. 2009. 체계적 고찰. DOI: [10.1002/14651858.CD007221.pub2](https://doi.org/10.1002/14651858.CD007221.pub2) · [PMID 20091625](https://pubmed.ncbi.nlm.nih.gov/20091625/).
+[^20]: Endometriosis treated by the method of resolving blood stasis to eliminate obstruction in the lower-jiao. 1999. 임상시험, 48명. [PMID 10437253](https://pubmed.ncbi.nlm.nih.gov/10437253/).
+[^21]: Effects of herbal medicines on menopausal symptoms induced by gonadotropin-releasing hormone agonist therapy. 2001. 관찰연구, 22명. [PMID 11332582](https://pubmed.ncbi.nlm.nih.gov/11332582/).
+[^22]: A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes: A Systematic Review. Biomedicines. 2019. 체계적 고찰. DOI: [10.3390/biomedicines7030060](https://doi.org/10.3390/biomedicines7030060).
+[^23]: Effects of Gyejibokryeong-hwan on climacteric syndrome with blood stasis. Integr Med Res. 2023. 임상시험. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951).
 
 ## 미충족 근거 / 추가 연구 필요
 
-현재 근거 수준으로는 자궁근종에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 경우 선정 기준을 충족하는 무작위 대조 시험(RCT)이 부족하여 임상적 유효성이 불확실하며, 장기 추적 관찰을 포함한 고품질의 임상 연구가 추가로 필요하다.[^19] 서간산결탕 등 한약 병용 메타분석 연구들은 포함 연구의 방법론적 질이 낮고 이질성이 높아 주의가 필요하다.[^12] 추후 더 많은/더 정밀한 연구(대규모 무작위 대조 시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료, 근종 위치·크기별 치료 반응, 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 자궁근종과 직접 관련이 없거나 비한의학으로 판단된 일부 문헌고찰·계지복령환의 타 질환 적용 논문(류마티스 관절염·고지혈증·전립선암 안면홍조·대장 수술 후 장운동 등)은 주제 관련성을 고려해 일부만 각주에 수록하고 나머지는 제외하였다.
+현재 근거로는 자궁근종에 대한 한의 중재의 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 침 치료의 경우 선정 기준을 충족하는 무작위 대조 시험(RCT)이 부족하여 임상적 유효성이 불확실하며, 장기 추적 관찰을 포함한 고품질의 임상 연구가 추가로 필요하다.[^19] 서간산결탕 등 한약 병용 메타분석 연구들은 포함 연구의 방법론적 질이 낮고 이질성이 높아 주의가 필요하다.[^12] 추후 더 많은/더 정밀한 연구(대규모 무작위 대조 시험·체계적 고찰)가 필요하며, 특히 변증 유형별 맞춤 치료, 근종 위치·크기별 치료 반응, 장기 추적 관찰 연구가 요구된다. 검색으로 확보한 논문 중 자궁근종과 직접 관련이 없거나 비한의학으로 판단된 일부 문헌고찰·계지복령환의 타 질환 적용 논문(류마티스 관절염·고지혈증·전립선암 안면홍조·대장 수술 후 장운동 등)은 주제 관련성을 고려해 일부만 각주에 수록하고 나머지는 제외하였다.

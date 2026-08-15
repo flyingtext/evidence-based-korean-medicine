@@ -74,7 +74,7 @@ def footnote_def(idx: int, item: dict) -> str:
         link = f" DOI: [{doi}](https://doi.org/{doi})"
     if pmid:
         link += f" PMID: [{pmid}](https://pubmed.ncbi.nlm.nih.gov/{pmid}/)"
-    return f"[^{idx}]: {item.get('title','')}, {label}, {link}. 근거수준: 미확인."
+    return f"[^{idx}]: {item.get('title','')}, {label}, {link}."
 
 
 def main() -> int:

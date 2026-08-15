@@ -1,6 +1,6 @@
 # 동의보감(東醫寶鑑, Donguibogam)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 문헌 고찰/체계적 고찰/관찰연구/임상시험 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -83,19 +83,19 @@
 ## Q&A
 
 **Q1. 동의보감을 임상에서 어떤 방식으로 활용할 수 있는가?**
-동의보감은 처방·본초·변증의 원전 체계를 제공하여, 임상가가 고전 처방의 본의(本義)를 이해하고 현대 질환에 맞게 가감·적용하는 데 활용한다. 특히 텍스트 마이닝 연구가 항노화·인지·피부·신경 질환의 후보 약재와 용량을 제시하여 근거 기반 재해석을 돕는다.[^9][^10][^11][^12] 근거수준: 낮음(문헌 고찰·실험연구).
+동의보감은 처방·본초·변증의 원전 체계를 제공하여, 임상가가 고전 처방의 본의(本義)를 이해하고 현대 질환에 맞게 가감·적용하는 데 활용한다. 특히 텍스트 마이닝 연구가 항노화·인지·피부·신경 질환의 후보 약재와 용량을 제시하여 근거 기반 재해석을 돕는다.[^9][^10][^11][^12]
 
 **Q2. 동의보감에 기록된 처방이 현대에도 효과가 있다는 근거가 있나?**
-동의보감의 내상·소갈 처방 구성이 네트워크 분석으로 규명되었고, 고전 처방(예: 보중익기탕(補中益氣湯)·황련해독탕 계열)은 현대 한의학에서 염증·대사·면역 질환에 널리 적용되며 활발한 약리 연구가 진행 중이다.[^3][^18][^20] 다만 개별 처방의 임상 효과는 별도 문서의 각주에서 확인하며, 고전 기록 자체는 실험적 검증이 필요한 단계이다. 근거수준: 낮음~중등도.
+동의보감의 내상·소갈 처방 구성이 네트워크 분석으로 규명되었고, 고전 처방(예: 보중익기탕(補中益氣湯)·황련해독탕 계열)은 현대 한의학에서 염증·대사·면역 질환에 널리 적용되며 활발한 약리 연구가 진행 중이다.[^3][^18][^20] 다만 개별 처방의 임상 효과는 별도 문서의 각주에서 확인하며, 고전 기록 자체는 실험적 검증이 필요한 단계이다.
 
 **Q3. 동의보감의 경혈 지식을 현대 침구 치료에 어떻게 반영하는가?**
-동의보감 침구편의 경혈-변증 관계가 데이터 마이닝으로 정량 분석되어, 특정 변증에 따른 경혈 선택의 근거를 제공한다. 임상가는 이를 현대 침구 치료에 데이터 기반으로 재해석해 적용할 수 있다.[^8] 근거수준: 낮음.
+동의보감 침구편의 경혈-변증 관계가 데이터 마이닝으로 정량 분석되어, 특정 변증에 따른 경혈 선택의 근거를 제공한다. 임상가는 이를 현대 침구 치료에 데이터 기반으로 재해석해 적용할 수 있다.[^8]
 
 **Q4. 동의보감은 한의학이 중의학과 다른 정체성을 가지는 근거가 되나?**
-동의보감은 조선인의 체질에 맞춰 처방 용량을 조절하고 변증 체계를 정립하여, 한의학(TKM)이 중의학(TCM)의 영향에서 벗어나 전인적 의료 체계의 독자적 정체성을 확립하는 데 기여하였다.[^3][^5] 근거수준: 낮음(문헌 고찰).
+동의보감은 조선인의 체질에 맞춰 처방 용량을 조절하고 변증 체계를 정립하여, 한의학(TKM)이 중의학(TCM)의 영향에서 벗어나 전인적 의료 체계의 독자적 정체성을 확립하는 데 기여하였다.[^3][^5]
 
 **Q5. 동의보감 텍스트 마이닝 결과를 실제 처방에 바로 적용할 수 있나?**
-텍스트 마이닝 결과(파킨슨병 17종 약재·인지 개선 24종·피부 52종 후보)는 주로 실험·문헌 연구에 근거하므로, 임상 적용 전 임상시험과 약리 검증이 필요하다. 다만 후보 약재·용량의 기초 자료로는 유용하다.[^10][^11][^12] 근거수준: 매우 낮음~낮음.
+텍스트 마이닝 결과(파킨슨병 17종 약재·인지 개선 24종·피부 52종 후보)는 주로 실험·문헌 연구에 근거하므로, 임상 적용 전 임상시험과 약리 검증이 필요하다. 다만 후보 약재·용량의 기초 자료로는 유용하다.[^10][^11][^12]
 
 ## 미충족 근거 / 추가 연구 필요
 
@@ -106,27 +106,27 @@
 
 ## 각주 정의
 
-[^1]: A bibliographic study on Tongui-bigan with a special reference to its influence on Japan and China. 문헌 고찰. PMID: [12192672](https://pubmed.ncbi.nlm.nih.gov/12192672/). 근거수준: 낮음. 동의보감의 간행·판본·일본·중국 전파 경로.
-[^2]: Historical Medical Value of Donguibogam. 문헌 고찰. DOI: [10.3831/KPI.2016.19.002](https://doi.org/10.3831/KPI.2016.19.002) · PMID: 27280045. 근거수준: 낮음. 동의보감의 역사적 의학적 가치와 질병 분류 체계 혁신.
-[^3]: Historical difference between traditional Korean medicine and traditional Chinese medicine. 문헌 고찰. DOI: [10.1179/016164107X172293](https://doi.org/10.1179/016164107X172293) · PMID: 17359633. 근거수준: 낮음. 동의보감을 통한 한의학 독자적 정체성 확립.
-[^4]: Korean Anatomical Charts in the Context of the East Asian Medical Tradition. 문헌 고찰. DOI: [10.1163/157342109x568991](https://doi.org/10.1163/157342109x568991). 근거수준: 낮음. 동의보감 해부학적 도해의 양생·고전적 관점.
-[^5]: To Discern the Medical Thoughts of Heo Joon. 문헌 고찰, 301명. DOI: [10.13081/kjmh.2015.24.581](https://doi.org/10.13081/kjmh.2015.24.581) · PMID: 26819435. 근거수준: 중등도. 허준의 고전 의학·신형장부 의학과 실용적 처방 접근.
-[^6]: Joseon physician Heo Joon's Smallpox Medicine and 'Syndrome differentiation'. 문헌 고찰. DOI: [10.13081/kjmh.2021.30.35](https://doi.org/10.13081/kjmh.2021.30.35) · PMID: 34010848. 근거수준: 낮음. 허준의 천연두 변증 체계.
-[^7]: Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text. 문헌 고찰. DOI: [10.1016/j.imr.2020.100436](https://doi.org/10.1016/j.imr.2020.100436) · PMID: 32742921. 근거수준: 낮음. 동의보감 약재-피부 작용 프로파일.
-[^8]: Data Mining of Acupoint Characteristics from the Classical Medical Text: DongUiBoGam of Korean Medicine. 기타(데이터 마이닝). DOI: [10.1155/2014/329563](https://doi.org/10.1155/2014/329563) · PMID: 25574179. 근거수준: 낮음. 경혈-변증 연관성 정량 분석.
-[^9]: Establishment of a Comprehensive List of Candidate Antiaging Medicinal Herb Used in Korean Medicine by Text Mining of Dongeuibogam. 문헌 고찰. DOI: [10.1155/2015/873185](https://doi.org/10.1155/2015/873185). 근거수준: 낮음. 항노화 후보 약재 97종·47종 선별.
-[^10]: Studies on medicinal herbs for cognitive enhancement based on the text mining of Dongeuibogam and preliminary evaluation of its effects. 실험연구. DOI: [10.1016/j.jep.2016.01.006](https://doi.org/10.1016/j.jep.2016.01.006) · PMID: 26773844. 근거수준: 매우 낮음. 인지 개선 약재(인삼·오미자·지황) 신경 보호 효과.
-[^11]: Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text on Korean medicine. 문헌 고찰. DOI: [10.1016/j.imr.2020.100436](https://doi.org/10.1016/j.imr.2020.100436) · PMID: 32742921. 근거수준: 낮음. 피부 관리 약재 52종 후보.
-[^12]: Selection of Effective Herbal Medicines for Parkinson's Disease Based on the Text Mining of the Classical Korean Medical Literature Donguibogam. 실험연구. DOI: [10.13048/jkm.21041](https://doi.org/10.13048/jkm.21041). 근거수준: 매우 낮음. 파킨슨병 약재 17종·적정 용량 제시.
-[^13]: Parasitic diseases in Dong-Eui-Bo-Kam. 문헌 고찰. PMID: [11618931](https://pubmed.ncbi.nlm.nih.gov/11618931/). 근거수준: 낮음. 동의보감의 기생충 질환 인식.
-[^14]: The unique theory of cold damage advocated by medical practitioners in the latter era of the Joseon dynasty. 문헌 고찰. PMID: [22739625](https://pubmed.ncbi.nlm.nih.gov/22739625/). 근거수준: 낮음. 조선 후기 '경락의 상한' 이론 체계.
-[^15]: Traditional Chinese Medicine and Constitutional Medicine in China, Japan and Korea: A Comparative Study. 문헌 고찰. DOI: [10.1142/s0192415x1750001x](https://doi.org/10.1142/s0192415x1750001x). 근거수준: 낮음. 한·중·일 체질 의학 비교.
-[^16]: How Did Joseon's Clinical Medicine Develop in the 17-8th Century: I Sugi's medical thoughts depicted in the Stray notes with experienced tests. 문헌 고찰. DOI: [10.13081/kjmh.2022.31.1](https://doi.org/10.13081/kjmh.2022.31.1) · PMID: 35577212. 근거수준: 낮음. '맥증방약' 임상 추론 체계.
-[^17]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. 관찰연구, 1879명. DOI: [10.1155/2013/508918](https://doi.org/10.1155/2013/508918). 근거수준: 중등도. 세맥·활맥의 변증 구분 지표.
-[^18]: Comparison of Herbs in Prescription Composition of Consumptive Disease and Internal Injury in Donguibogam Through Network Analysis. 문헌 고찰. DOI: [10.22246/jikm.2023.44.1.35](https://doi.org/10.22246/jikm.2023.44.1.35). 근거수준: 낮음. 내상(감초 중심)·소갈(당귀 중심) 처방 구성.
-[^19]: Utilization Patterns of Korean Medicine: An Analysis of the National Health Insurance Cohort Database from 2002 to 2013. 관찰연구, 778506명. DOI: [10.1089/acm.2016.0022](https://doi.org/10.1089/acm.2016.0022). 근거수준: 높음. 한의학 이용 패턴(여성·40-50대·고소득·근골격계).
-[^20]: Using US Patent Analysis to Monitor the Technological Trend in the Field of Gastrointestinal Microbiome - Implications on Korean Medicine Research and Development. 문헌 고찰. DOI: [10.13048/jkm.23004](https://doi.org/10.13048/jkm.23004). 근거수준: 낮음. 한의학 마이크로바이옴 진단·치료 개발 방향.
-[^21]: Study on Wang Ruzun's hand-written copy of Dongyi Bogam (Precious mirror of oriental medicine). 문헌 고찰. PMID: [12639447](https://pubmed.ncbi.nlm.nih.gov/12639447/). 근거수준: 낮음. 동의보감의 중국 전파·필사본 가치.
-[^22]: The gaze of the others: how the Western medical missionaries viewed the traditional Korean medicine. 문헌 고찰. PMID: [17214423](https://pubmed.ncbi.nlm.nih.gov/17214423/). 근거수준: 낮음. 서양 선교사의 동의보감 번역·인삼 연구.
-[^23]: The life of medical historian Miki Sakae, and the "history of Korean medicine and of diseases in Korea". 문헌 고찰. PMID: [17144192](https://pubmed.ncbi.nlm.nih.gov/17144192/). 근거수준: 낮음. 미키 사카에의 동의보감 평가.
-[^24]: The academic trend of Oriental medicine during the Japanese colonial period as observed through the publication of medical books. 문헌 고찰. PMID: [17214426](https://pubmed.ncbi.nlm.nih.gov/17214426/). 근거수준: 낮음. 일제강점기 동의보감·사상의학 등 출판과 학문 활동.
+[^1]: A bibliographic study on Tongui-bigan with a special reference to its influence on Japan and China. 문헌 고찰. PMID: [12192672](https://pubmed.ncbi.nlm.nih.gov/12192672/). 동의보감의 간행·판본·일본·중국 전파 경로.
+[^2]: Historical Medical Value of Donguibogam. 문헌 고찰. DOI: [10.3831/KPI.2016.19.002](https://doi.org/10.3831/KPI.2016.19.002) · PMID: 27280045. 동의보감의 역사적 의학적 가치와 질병 분류 체계 혁신.
+[^3]: Historical difference between traditional Korean medicine and traditional Chinese medicine. 문헌 고찰. DOI: [10.1179/016164107X172293](https://doi.org/10.1179/016164107X172293) · PMID: 17359633. 동의보감을 통한 한의학 독자적 정체성 확립.
+[^4]: Korean Anatomical Charts in the Context of the East Asian Medical Tradition. 문헌 고찰. DOI: [10.1163/157342109x568991](https://doi.org/10.1163/157342109x568991). 동의보감 해부학적 도해의 양생·고전적 관점.
+[^5]: To Discern the Medical Thoughts of Heo Joon. 문헌 고찰, 301명. DOI: [10.13081/kjmh.2015.24.581](https://doi.org/10.13081/kjmh.2015.24.581) · PMID: 26819435. 허준의 고전 의학·신형장부 의학과 실용적 처방 접근.
+[^6]: Joseon physician Heo Joon's Smallpox Medicine and 'Syndrome differentiation'. 문헌 고찰. DOI: [10.13081/kjmh.2021.30.35](https://doi.org/10.13081/kjmh.2021.30.35) · PMID: 34010848. 허준의 천연두 변증 체계.
+[^7]: Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text. 문헌 고찰. DOI: [10.1016/j.imr.2020.100436](https://doi.org/10.1016/j.imr.2020.100436) · PMID: 32742921. 동의보감 약재-피부 작용 프로파일.
+[^8]: Data Mining of Acupoint Characteristics from the Classical Medical Text: DongUiBoGam of Korean Medicine. 기타(데이터 마이닝). DOI: [10.1155/2014/329563](https://doi.org/10.1155/2014/329563) · PMID: 25574179. 경혈-변증 연관성 정량 분석.
+[^9]: Establishment of a Comprehensive List of Candidate Antiaging Medicinal Herb Used in Korean Medicine by Text Mining of Dongeuibogam. 문헌 고찰. DOI: [10.1155/2015/873185](https://doi.org/10.1155/2015/873185). 항노화 후보 약재 97종·47종 선별.
+[^10]: Studies on medicinal herbs for cognitive enhancement based on the text mining of Dongeuibogam and preliminary evaluation of its effects. 실험연구. DOI: [10.1016/j.jep.2016.01.006](https://doi.org/10.1016/j.jep.2016.01.006) · PMID: 26773844. 인지 개선 약재(인삼·오미자·지황) 신경 보호 효과.
+[^11]: Identification of candidate medicinal herbs for skincare via data mining of the classic Donguibogam text on Korean medicine. 문헌 고찰. DOI: [10.1016/j.imr.2020.100436](https://doi.org/10.1016/j.imr.2020.100436) · PMID: 32742921. 피부 관리 약재 52종 후보.
+[^12]: Selection of Effective Herbal Medicines for Parkinson's Disease Based on the Text Mining of the Classical Korean Medical Literature Donguibogam. 실험연구. DOI: [10.13048/jkm.21041](https://doi.org/10.13048/jkm.21041). 파킨슨병 약재 17종·적정 용량 제시.
+[^13]: Parasitic diseases in Dong-Eui-Bo-Kam. 문헌 고찰. PMID: [11618931](https://pubmed.ncbi.nlm.nih.gov/11618931/). 동의보감의 기생충 질환 인식.
+[^14]: The unique theory of cold damage advocated by medical practitioners in the latter era of the Joseon dynasty. 문헌 고찰. PMID: [22739625](https://pubmed.ncbi.nlm.nih.gov/22739625/). 조선 후기 '경락의 상한' 이론 체계.
+[^15]: Traditional Chinese Medicine and Constitutional Medicine in China, Japan and Korea: A Comparative Study. 문헌 고찰. DOI: [10.1142/s0192415x1750001x](https://doi.org/10.1142/s0192415x1750001x). 한·중·일 체질 의학 비교.
+[^16]: How Did Joseon's Clinical Medicine Develop in the 17-8th Century: I Sugi's medical thoughts depicted in the Stray notes with experienced tests. 문헌 고찰. DOI: [10.13081/kjmh.2022.31.1](https://doi.org/10.13081/kjmh.2022.31.1) · PMID: 35577212. '맥증방약' 임상 추론 체계.
+[^17]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. 관찰연구, 1879명. DOI: [10.1155/2013/508918](https://doi.org/10.1155/2013/508918). 세맥·활맥의 변증 구분 지표.
+[^18]: Comparison of Herbs in Prescription Composition of Consumptive Disease and Internal Injury in Donguibogam Through Network Analysis. 문헌 고찰. DOI: [10.22246/jikm.2023.44.1.35](https://doi.org/10.22246/jikm.2023.44.1.35). 내상(감초 중심)·소갈(당귀 중심) 처방 구성.
+[^19]: Utilization Patterns of Korean Medicine: An Analysis of the National Health Insurance Cohort Database from 2002 to 2013. 관찰연구, 778506명. DOI: [10.1089/acm.2016.0022](https://doi.org/10.1089/acm.2016.0022). 한의학 이용 패턴(여성·40-50대·고소득·근골격계).
+[^20]: Using US Patent Analysis to Monitor the Technological Trend in the Field of Gastrointestinal Microbiome - Implications on Korean Medicine Research and Development. 문헌 고찰. DOI: [10.13048/jkm.23004](https://doi.org/10.13048/jkm.23004). 한의학 마이크로바이옴 진단·치료 개발 방향.
+[^21]: Study on Wang Ruzun's hand-written copy of Dongyi Bogam (Precious mirror of oriental medicine). 문헌 고찰. PMID: [12639447](https://pubmed.ncbi.nlm.nih.gov/12639447/). 동의보감의 중국 전파·필사본 가치.
+[^22]: The gaze of the others: how the Western medical missionaries viewed the traditional Korean medicine. 문헌 고찰. PMID: [17214423](https://pubmed.ncbi.nlm.nih.gov/17214423/). 서양 선교사의 동의보감 번역·인삼 연구.
+[^23]: The life of medical historian Miki Sakae, and the "history of Korean medicine and of diseases in Korea". 문헌 고찰. PMID: [17144192](https://pubmed.ncbi.nlm.nih.gov/17144192/). 미키 사카에의 동의보감 평가.
+[^24]: The academic trend of Oriental medicine during the Japanese colonial period as observed through the publication of medical books. 문헌 고찰. PMID: [17214426](https://pubmed.ncbi.nlm.nih.gov/17214426/). 일제강점기 동의보감·사상의학 등 출판과 학문 활동.

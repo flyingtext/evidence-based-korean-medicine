@@ -1,6 +1,6 @@
 # 계지 (桂枝, Cinnamomi Cortex)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/임상시험/관찰연구 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -49,19 +49,19 @@
 ## Q&A
 
 **Q1. 계지복령환을 부인과 환자에게 어떻게 활용할 수 있나요?**
-계지복령환(桂枝茯苓丸)은 자궁근종 환자의 과다월경·월경통을 개선하고 근종 크기를 줄이며,[^3] 혈어형 갱년기 증후군 환자의 비뇨생식기 증상과 삶의 질을 개선합니다.[^6] 혈어형 생리통·자궁선근증에도 침과 병행하는 근거가 있습니다.[^37][^38] 근거수준: 중등도(임상시험/관찰연구).
+계지복령환(桂枝茯苓丸)은 자궁근종 환자의 과다월경·월경통을 개선하고 근종 크기를 줄이며,[^3] 혈어형 갱년기 증후군 환자의 비뇨생식기 증상과 삶의 질을 개선합니다.[^6] 혈어형 생리통·자궁선근증에도 침과 병행하는 근거가 있습니다.[^37][^38]
 
 **Q2. 계지는 말초신경병증에 도움이 되나요?**
-네. 황기계지오물탕(黃芪桂枝五物湯)은 옥살리플라틴·nab-파클리탁셀 등 항암제로 인한 말초신경병증의 발생률을 유의하게 낮추는 12개 기관 이중맹검 무작위 시험 근거가 있습니다.[^11][^12][^13] 근거수준: 높음(임상시험).
+네. 황기계지오물탕(黃芪桂枝五物湯)은 옥살리플라틴·nab-파클리탁셀 등 항암제로 인한 말초신경병증의 발생률을 유의하게 낮추는 12개 기관 이중맹검 무작위 시험 근거가 있습니다.[^11][^12][^13]
 
 **Q3. 시호계지탕은 우울증에 쓰나요?**
-시호계지탕(柴胡桂枝湯)은 주요 우울장애·뇌졸중 후 우울증 환자에게 항우울제와 병용 시 우울 증상·불안·수면 질 개선 및 혈청 세로토닌 증가 효과를 보이며 이상반응을 낮춥니다.[^7] 근거수준: 높음(메타분석).
+시호계지탕(柴胡桂枝湯)은 주요 우울장애·뇌졸중 후 우울증 환자에게 항우울제와 병용 시 우울 증상·불안·수면 질 개선 및 혈청 세로토닌 증가 효과를 보이며 이상반응을 낮춥니다.[^7]
 
 **Q4. 계지복령환의 안전성은 어떤가요?**
-계지는 CYP1A2 효소 활성을 약 16% 감소시킬 수 있어 해당 효소로 대사되는 약물과의 병용에 주의가 필요합니다.[^31] 또한 계지 함유 처방의 구성 성분(감초·황금 등)은 가성알도스테론증·약제성 폐렴·간 손상을 유발할 수 있어 관련 이력이 있는 환자에게는 신중한 처방과 모니터링이 필요합니다.[^32][^33][^34] 근거수준: 중등도(임상시험/증례).
+계지는 CYP1A2 효소 활성을 약 16% 감소시킬 수 있어 해당 효소로 대사되는 약물과의 병용에 주의가 필요합니다.[^31] 또한 계지 함유 처방의 구성 성분(감초·황금 등)은 가성알도스테론증·약제성 폐렴·간 손상을 유발할 수 있어 관련 이력이 있는 환자에게는 신중한 처방과 모니터링이 필요합니다.[^32][^33][^34]
 
 **Q5. 계지를 관절염 환자에게 써도 되나요?**
-계지작약지모탕(桂枝芍藥知母湯)은 통풍성 관절염 환자의 통증·요산·염증 지표를 개선하고,[^17] 계지복령환은 류마티스 관절염 환자의 관절 증상과 혈관 내피 기능 지표를 개선합니다.[^29] 근거수준: 높음(메타분석)/중등도(임상시험).
+계지작약지모탕(桂枝芍藥知母湯)은 통풍성 관절염 환자의 통증·요산·염증 지표를 개선하고,[^17] 계지복령환은 류마티스 관절염 환자의 관절 증상과 혈관 내피 기능 지표를 개선합니다.[^29]
 
 ## 미충족 근거 / 추가 연구 필요
 
@@ -72,41 +72,41 @@
 
 ## 각주 정의
 
-[^1]: A Proteomic Approach for the Diagnosis of 'Oketsu' (blood stasis), a Pathophysiologic Concept of Japanese Traditional (Kampo) Medicine. 실험연구, 16명. DOI: [10.1093/ecam/nem049](https://doi.org/10.1093/ecam/nem049). 근거수준: 낮음. 계지복령환 투여로 혈어 점수 감소.
-[^2]: [Clinic utilization of Guizhi decoction in modern times]. 문헌고찰. PMID: [17608234](https://pubmed.ncbi.nlm.nih.gov/17608234/). 근거수준: 근거 미확인. 계지탕이 다양한 계통 질환에 응용.
-[^3]: Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. 임상시험, 110명. DOI: [10.1142/S0192415X92000333](https://doi.org/10.1142/S0192415X92000333). 근거수준: 중등도.
-[^4]: Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump. 임상시험, 120명. PMID: [15688694](https://pubmed.ncbi.nlm.nih.gov/15688694/). 근거수준: 중등도.
-[^5]: Exploring the therapeutic efficacy and pharmacological mechanism of Guizhi Fuling Pill on ischemic stroke: a meta-analysis and network pharmacology analysis. 메타분석. DOI: [10.1007/s11011-024-01383-y](https://doi.org/10.1007/s11011-024-01383-y). 근거수준: 높음.
-[^6]: Beneficial effect of Gyejibokryeong-hwan on climacteric syndrome with blood stasis pattern: A randomized, double-blinded, placebo-controlled clinical pilot trial. 임상시험, 50명. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951). 근거수준: 중등도.
-[^7]: The Effect of Combined Therapy with Chaihu Guizhi-tang for Major Depressive Disorder and Post-stroke Depression: A Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2025.46.6.1390](https://doi.org/10.22246/jikm.2025.46.6.1390). 근거수준: 높음.
-[^8]: Chai-hu-gui-zhi-gan-jiang-tang regulates plasma interleukin-6 and soluble interleukin-6 receptor concentrations and improves depressed mood in climacteric women with insomnia. 임상시험, 90명. DOI: [10.1142/S0192415X05003338](https://doi.org/10.1142/S0192415X05003338). 근거수준: 중등도.
-[^9]: Effect of Sihogyeji-tang on functional dyspepsia: a systematic review and meta-analysis. 메타분석, 805명. DOI: [10.3389/fphar.2025.1689132](https://doi.org/10.3389/fphar.2025.1689132). 근거수준: 높음.
-[^10]: The efficacy and safety of Chaihu guizhi ganjiang tang for type 2 diabetes mellitus: a systematic review and meta-analysis. 메타분석, 883명. DOI: [10.3389/fphar.2026.1855616](https://doi.org/10.3389/fphar.2026.1855616). 근거수준: 높음.
-[^11]: Neuroprotection and prevention of oxaliplatin-induced neuropathy with Huangqi Guizhi Wuwu Decoction: a 12-center randomized, double-blind trial with mechanistic validation. 임상시험, 360명. DOI: [10.1016/j.phymed.2026.158539](https://doi.org/10.1016/j.phymed.2026.158539). 근거수준: 높음.
-[^12]: A Prospective, Randomized, Placebo-Controlled Study Assessing the Efficacy of Chinese Herbal Medicine (Huangqi Guizhi Wuwu Decoction) in the Treatment of Albumin-Bound Paclitaxel-Induced Peripheral Neuropathy. 임상시험, 92명. DOI: [10.3390/jcm12020505](https://doi.org/10.3390/jcm12020505). 근거수준: 중등도.
-[^13]: Huangqi Guizhi Wuwu Decoction in the Treatment of Pemetrexed Intrathecal Chemotherapy-induced Neurotoxicity in NSCLC Patients with Leptomeningeal Metastases: A Randomized Controlled Trial. 임상시험, 220명. DOI: [10.3779/j.issn.1009-3419.2026.102.02](https://doi.org/10.3779/j.issn.1009-3419.2026.102.02). 근거수준: 높음.
-[^14]: Exploring the dosage-effect relationship and mechanism of Huangqi in Huangqi Guizhi Wuwu decoction for treating rheumatoid arthritis. 임상시험. DOI: [10.1016/j.jep.2026.121795](https://doi.org/10.1016/j.jep.2026.121795). 근거수준: 중등도.
-[^15]: Efficacy of traditional Japanese herbal medicines-Keishikajutsubuto (TJ-18) and Bushi-matsu (TJ-3022)-against postherpetic neuralgia aggravated by self-reported cold stimulation: a case series. 증례, 15명. DOI: [10.1089/acm.2010.0745](https://doi.org/10.1089/acm.2010.0745). 근거수준: 낮음.
-[^16]: Keishikajutsubuto (Guizhi-shu-fu-tang) treatment for refractory accumulation of synovial fluid in a patient with pustulotic arthro-osteitis. 증례, 1명. DOI: [10.5387/fms.53.33](https://doi.org/10.5387/fms.53.33). 근거수준: 낮음.
-[^17]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis based on meta-analysis, network pharmacology analysis, and molecular docking. 메타분석, 1633명. DOI: [10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973). 근거수준: 높음.
-[^18]: Chai-hu-gui-zhi-gan-jiang-tang regulates plasma IL-6 and improves depressed mood in climacteric women with insomnia. 임상시험, 90명. DOI: [10.1142/S0192415X05003338](https://doi.org/10.1142/S0192415X05003338). 근거수준: 중등도.
-[^19]: Safety and efficacy of the traditional Chinese medicine chaihu guizhi ganjiang decoction combined with wendan decoction in the treatment of premature ejaculation. 관찰연구, 226명. DOI: [10.1093/sexmed/qfag031](https://doi.org/10.1093/sexmed/qfag031). 근거수준: 중등도.
-[^20]: Infrared Thermography-Based Predictive Model for Syndrome Differentiation of Chaihu Guizhi Ganjiang Decoction. 실험연구, 100명. DOI: [10.26689/par.v9i1.9456](https://doi.org/10.26689/par.v9i1.9456). 근거수준: 낮음.
-[^21]: Deciphering the angiogenic potential of Zhishi Xiebai Guizhi decoction in coronary heart disease: an in-depth network pharmacology and experimental investigation. 임상시험, 180명. DOI: [10.1038/s41598-025-05379-1](https://doi.org/10.1038/s41598-025-05379-1). 근거수준: 중등도.
-[^22]: Herbal medicine (zhishi xiebai guizhi decoction) for unstable angina. 체계적 고찰. DOI: [10.1097/md.0000000000013965](https://doi.org/10.1097/md.0000000000013965). 근거수준: 중등도.
-[^23]: Japanese herbal Kampo medicine, Keishibukuryogan, for chronic subdural hematoma – Prospective observational study. 관찰연구, 60명. DOI: [10.25259/sni_455_2022](https://doi.org/10.25259/sni_455_2022). 근거수준: 중등도.
-[^24]: Safety and Efficacy of Keishi-Bukuryo-Gan in Patients with Spontaneous Intracerebral Hemorrhage during the Acute Period. 관찰연구, 53명. DOI: [10.11477/mf.1436203810](https://doi.org/10.11477/mf.1436203810). 근거수준: 중등도.
-[^25]: Effect of combined Japanese traditional medicines, keishibukuryogan and jidabokuippo, on postoperative soft tissue swelling in adult patients undergoing revascularization surgery for ischemic moyamoya disease. 관찰연구, 54명. DOI: [10.1002/tkm2.1352](https://doi.org/10.1002/tkm2.1352). 근거수준: 중등도.
-[^26]: A case report of Moyamoya disease: successfully treated with Chinese medicine. 증례, 1명. DOI: [10.1142/S0192415X92000345](https://doi.org/10.1142/S0192415X92000345). 근거수준: 낮음.
-[^27]: Effect of Chaihu Guizhi granules on clinical parameters and vascular endothelial function in patients with stable angina pectoris. 임상시험, 90명. DOI: [10.1097/MD.0000000000045631](https://doi.org/10.1097/MD.0000000000045631). 근거수준: 중등도.
-[^28]: Effect of Hwanggigyejiomul-tang on Postoperative Breast Cancer-related Lymphedema (BCRL): A Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2024.45.1.31](https://doi.org/10.22246/jikm.2024.45.1.31). 근거수준: 높음.
-[^29]: Keishibukuryogan (gui-zhi-fu-ling-wan), a Kampo formula, decreases disease activity and soluble vascular adhesion molecule-1 in patients with rheumatoid arthritis. 임상시험, 16명. DOI: [10.1093/ecam/nel025](https://doi.org/10.1093/ecam/nel025). 근거수준: 중등도.
-[^30]: Effectiveness and Safety of Guizhi Fuling Wan (Keishibukuryogan) on Prostate Diseases: A Systematic Review and Meta-Analysis. 메타분석. DOI: [10.1177/27683605251385894](https://doi.org/10.1177/27683605251385894). 근거수준: 높음.
-[^31]: A herbal-drug interaction study of keishi-bukuryo-gan, a traditional herbal preparation used for menopausal symptoms, in healthy female volunteers. 임상시험, 31명. DOI: [10.1111/j.2042-7158.2011.01443.x](https://doi.org/10.1111/j.2042-7158.2011.01443.x). 근거수준: 중등도.
-[^32]: Risk factors for pseudoaldosteronism with rhabdomyolysis caused by consumption of drugs containing licorice. 증례, 1명. DOI: [10.1089/acm.2013.0454](https://doi.org/10.1089/acm.2013.0454). 근거수준: 낮음.
-[^33]: [A case of drug-induced pneumonitis caused by saikokeishikankyoto]. 증례, 1명. PMID: [22073616](https://pubmed.ncbi.nlm.nih.gov/22073616/). 근거수준: 낮음.
-[^34]: Recurrent Drug-induced Liver Injury Caused by the Incidental Readministration of a Kampo Formula Containing Scutellariae Radix. 증례, 1명. DOI: [10.2169/internalmedicine.0275-17](https://doi.org/10.2169/internalmedicine.0275-17). 근거수준: 낮음.
-[^35]: Acupuncture combined with Guizhi Fuling Wan decoction for adenomyosis-associated dysmenorrhea: A case report. 증례, 1명. DOI: [10.1016/j.explore.2025.103169](https://doi.org/10.1016/j.explore.2025.103169). 근거수준: 낮음.
-[^36]: A Case Report of Korean Medicine Treatment for Atypical Lower Extremity Pain in a Patient with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP). 증례, 1명. DOI: [10.22246/jikm.2026.47.2.231](https://doi.org/10.22246/jikm.2026.47.2.231). 근거수준: 낮음.
-[^37]: Effects of Gyejibongnyeong-hwan on dysmenorrhea caused by blood stagnation: study protocol for a randomized controlled trial. 임상시험, 100명. DOI: [10.1186/1745-6215-13-3](https://doi.org/10.1186/1745-6215-13-3). 근거수준: 중등도.
-[^38]: [Effect of chaihu guizhi decoction on the immunoglobulin and IgG subgroup in children with recurrent respiratory tract infection]. 임상시험, 23명. PMID: [10322843](https://pubmed.ncbi.nlm.nih.gov/10322843/). 근거수준: 중등도.
+[^1]: A Proteomic Approach for the Diagnosis of 'Oketsu' (blood stasis), a Pathophysiologic Concept of Japanese Traditional (Kampo) Medicine. 실험연구, 16명. DOI: [10.1093/ecam/nem049](https://doi.org/10.1093/ecam/nem049). 계지복령환 투여로 혈어 점수 감소.
+[^2]: [Clinic utilization of Guizhi decoction in modern times]. 문헌고찰. PMID: [17608234](https://pubmed.ncbi.nlm.nih.gov/17608234/). 계지탕이 다양한 계통 질환에 응용.
+[^3]: Pharmacotherapeutic effects of kuei-chih-fu-ling-wan (keishi-bukuryo-gan) on human uterine myomas. 임상시험, 110명. DOI: [10.1142/S0192415X92000333](https://doi.org/10.1142/S0192415X92000333).
+[^4]: Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump. 임상시험, 120명. PMID: [15688694](https://pubmed.ncbi.nlm.nih.gov/15688694/).
+[^5]: Exploring the therapeutic efficacy and pharmacological mechanism of Guizhi Fuling Pill on ischemic stroke: a meta-analysis and network pharmacology analysis. 메타분석. DOI: [10.1007/s11011-024-01383-y](https://doi.org/10.1007/s11011-024-01383-y).
+[^6]: Beneficial effect of Gyejibokryeong-hwan on climacteric syndrome with blood stasis pattern: A randomized, double-blinded, placebo-controlled clinical pilot trial. 임상시험, 50명. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951).
+[^7]: The Effect of Combined Therapy with Chaihu Guizhi-tang for Major Depressive Disorder and Post-stroke Depression: A Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2025.46.6.1390](https://doi.org/10.22246/jikm.2025.46.6.1390).
+[^8]: Chai-hu-gui-zhi-gan-jiang-tang regulates plasma interleukin-6 and soluble interleukin-6 receptor concentrations and improves depressed mood in climacteric women with insomnia. 임상시험, 90명. DOI: [10.1142/S0192415X05003338](https://doi.org/10.1142/S0192415X05003338).
+[^9]: Effect of Sihogyeji-tang on functional dyspepsia: a systematic review and meta-analysis. 메타분석, 805명. DOI: [10.3389/fphar.2025.1689132](https://doi.org/10.3389/fphar.2025.1689132).
+[^10]: The efficacy and safety of Chaihu guizhi ganjiang tang for type 2 diabetes mellitus: a systematic review and meta-analysis. 메타분석, 883명. DOI: [10.3389/fphar.2026.1855616](https://doi.org/10.3389/fphar.2026.1855616).
+[^11]: Neuroprotection and prevention of oxaliplatin-induced neuropathy with Huangqi Guizhi Wuwu Decoction: a 12-center randomized, double-blind trial with mechanistic validation. 임상시험, 360명. DOI: [10.1016/j.phymed.2026.158539](https://doi.org/10.1016/j.phymed.2026.158539).
+[^12]: A Prospective, Randomized, Placebo-Controlled Study Assessing the Efficacy of Chinese Herbal Medicine (Huangqi Guizhi Wuwu Decoction) in the Treatment of Albumin-Bound Paclitaxel-Induced Peripheral Neuropathy. 임상시험, 92명. DOI: [10.3390/jcm12020505](https://doi.org/10.3390/jcm12020505).
+[^13]: Huangqi Guizhi Wuwu Decoction in the Treatment of Pemetrexed Intrathecal Chemotherapy-induced Neurotoxicity in NSCLC Patients with Leptomeningeal Metastases: A Randomized Controlled Trial. 임상시험, 220명. DOI: [10.3779/j.issn.1009-3419.2026.102.02](https://doi.org/10.3779/j.issn.1009-3419.2026.102.02).
+[^14]: Exploring the dosage-effect relationship and mechanism of Huangqi in Huangqi Guizhi Wuwu decoction for treating rheumatoid arthritis. 임상시험. DOI: [10.1016/j.jep.2026.121795](https://doi.org/10.1016/j.jep.2026.121795).
+[^15]: Efficacy of traditional Japanese herbal medicines-Keishikajutsubuto (TJ-18) and Bushi-matsu (TJ-3022)-against postherpetic neuralgia aggravated by self-reported cold stimulation: a case series. 증례, 15명. DOI: [10.1089/acm.2010.0745](https://doi.org/10.1089/acm.2010.0745).
+[^16]: Keishikajutsubuto (Guizhi-shu-fu-tang) treatment for refractory accumulation of synovial fluid in a patient with pustulotic arthro-osteitis. 증례, 1명. DOI: [10.5387/fms.53.33](https://doi.org/10.5387/fms.53.33).
+[^17]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis based on meta-analysis, network pharmacology analysis, and molecular docking. 메타분석, 1633명. DOI: [10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973).
+[^18]: Chai-hu-gui-zhi-gan-jiang-tang regulates plasma IL-6 and improves depressed mood in climacteric women with insomnia. 임상시험, 90명. DOI: [10.1142/S0192415X05003338](https://doi.org/10.1142/S0192415X05003338).
+[^19]: Safety and efficacy of the traditional Chinese medicine chaihu guizhi ganjiang decoction combined with wendan decoction in the treatment of premature ejaculation. 관찰연구, 226명. DOI: [10.1093/sexmed/qfag031](https://doi.org/10.1093/sexmed/qfag031).
+[^20]: Infrared Thermography-Based Predictive Model for Syndrome Differentiation of Chaihu Guizhi Ganjiang Decoction. 실험연구, 100명. DOI: [10.26689/par.v9i1.9456](https://doi.org/10.26689/par.v9i1.9456).
+[^21]: Deciphering the angiogenic potential of Zhishi Xiebai Guizhi decoction in coronary heart disease: an in-depth network pharmacology and experimental investigation. 임상시험, 180명. DOI: [10.1038/s41598-025-05379-1](https://doi.org/10.1038/s41598-025-05379-1).
+[^22]: Herbal medicine (zhishi xiebai guizhi decoction) for unstable angina. 체계적 고찰. DOI: [10.1097/md.0000000000013965](https://doi.org/10.1097/md.0000000000013965).
+[^23]: Japanese herbal Kampo medicine, Keishibukuryogan, for chronic subdural hematoma – Prospective observational study. 관찰연구, 60명. DOI: [10.25259/sni_455_2022](https://doi.org/10.25259/sni_455_2022).
+[^24]: Safety and Efficacy of Keishi-Bukuryo-Gan in Patients with Spontaneous Intracerebral Hemorrhage during the Acute Period. 관찰연구, 53명. DOI: [10.11477/mf.1436203810](https://doi.org/10.11477/mf.1436203810).
+[^25]: Effect of combined Japanese traditional medicines, keishibukuryogan and jidabokuippo, on postoperative soft tissue swelling in adult patients undergoing revascularization surgery for ischemic moyamoya disease. 관찰연구, 54명. DOI: [10.1002/tkm2.1352](https://doi.org/10.1002/tkm2.1352).
+[^26]: A case report of Moyamoya disease: successfully treated with Chinese medicine. 증례, 1명. DOI: [10.1142/S0192415X92000345](https://doi.org/10.1142/S0192415X92000345).
+[^27]: Effect of Chaihu Guizhi granules on clinical parameters and vascular endothelial function in patients with stable angina pectoris. 임상시험, 90명. DOI: [10.1097/MD.0000000000045631](https://doi.org/10.1097/MD.0000000000045631).
+[^28]: Effect of Hwanggigyejiomul-tang on Postoperative Breast Cancer-related Lymphedema (BCRL): A Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2024.45.1.31](https://doi.org/10.22246/jikm.2024.45.1.31).
+[^29]: Keishibukuryogan (gui-zhi-fu-ling-wan), a Kampo formula, decreases disease activity and soluble vascular adhesion molecule-1 in patients with rheumatoid arthritis. 임상시험, 16명. DOI: [10.1093/ecam/nel025](https://doi.org/10.1093/ecam/nel025).
+[^30]: Effectiveness and Safety of Guizhi Fuling Wan (Keishibukuryogan) on Prostate Diseases: A Systematic Review and Meta-Analysis. 메타분석. DOI: [10.1177/27683605251385894](https://doi.org/10.1177/27683605251385894).
+[^31]: A herbal-drug interaction study of keishi-bukuryo-gan, a traditional herbal preparation used for menopausal symptoms, in healthy female volunteers. 임상시험, 31명. DOI: [10.1111/j.2042-7158.2011.01443.x](https://doi.org/10.1111/j.2042-7158.2011.01443.x).
+[^32]: Risk factors for pseudoaldosteronism with rhabdomyolysis caused by consumption of drugs containing licorice. 증례, 1명. DOI: [10.1089/acm.2013.0454](https://doi.org/10.1089/acm.2013.0454).
+[^33]: [A case of drug-induced pneumonitis caused by saikokeishikankyoto]. 증례, 1명. PMID: [22073616](https://pubmed.ncbi.nlm.nih.gov/22073616/).
+[^34]: Recurrent Drug-induced Liver Injury Caused by the Incidental Readministration of a Kampo Formula Containing Scutellariae Radix. 증례, 1명. DOI: [10.2169/internalmedicine.0275-17](https://doi.org/10.2169/internalmedicine.0275-17).
+[^35]: Acupuncture combined with Guizhi Fuling Wan decoction for adenomyosis-associated dysmenorrhea: A case report. 증례, 1명. DOI: [10.1016/j.explore.2025.103169](https://doi.org/10.1016/j.explore.2025.103169).
+[^36]: A Case Report of Korean Medicine Treatment for Atypical Lower Extremity Pain in a Patient with Chronic Inflammatory Demyelinating Polyneuropathy (CIDP). 증례, 1명. DOI: [10.22246/jikm.2026.47.2.231](https://doi.org/10.22246/jikm.2026.47.2.231).
+[^37]: Effects of Gyejibongnyeong-hwan on dysmenorrhea caused by blood stagnation: study protocol for a randomized controlled trial. 임상시험, 100명. DOI: [10.1186/1745-6215-13-3](https://doi.org/10.1186/1745-6215-13-3).
+[^38]: [Effect of chaihu guizhi decoction on the immunoglobulin and IgG subgroup in children with recurrent respiratory tract infection]. 임상시험, 23명. PMID: [10322843](https://pubmed.ncbi.nlm.nih.gov/10322843/).

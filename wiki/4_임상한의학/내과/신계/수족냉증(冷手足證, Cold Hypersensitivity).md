@@ -1,6 +1,6 @@
 # 수족냉증 (冷手足證, Cold Hypersensitivity in the Hands and Feet)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 임상시험/관찰연구/증례 혼재 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: R68.8 (수족냉증; 기타 명시된 일반 증상)
 
 ## 개요
@@ -90,7 +90,7 @@
 
 ## 예후
 
-- 수족냉증은 지속적인 온양·보혈·화어 치료와 생활 관리로 증상이 개선될 수 있다. 다만 근거 수준이 높은 대규모 장기 임상시험이 아직 부족하여, 치료 반응 및 장기 경과 예측에 대한 근거는 제한적이다.[^6][^23]
+- 수족냉증은 지속적인 온양·보혈·화어 치료와 생활 관리로 증상이 개선될 수 있다. 다만 대규모 장기 임상시험이 아직 부족하여, 치료 반응 및 장기 경과 예측에 대한 근거는 제한적이다.[^6][^23]
 
 ## 관리
 
@@ -99,10 +99,10 @@
 
 ## Q&A
 
-- **Q. 수족냉증에 침이나 전침이 효과가 있나요?** 전침과 침 치료는 수족냉증 환자의 통증·불편감을 완화하고 삶의 질을 개선하는 근거가 있으며, 전침이 효과 지속성이 더 우수한 경향이 있다. 근거수준: 중등도(RCT).[^22]
-- **Q. 수족냉증에 어떤 한약이 잘 쓰이나요?** 신양허형에는 온경탕·팔미지황환, 기혈양허형에는 십전대보탕, 어혈·상열하한형에는 계지복령환·당귀작약가감술유탕 등 변증에 따라 선택한다. 근거수준: 중등도(RCT·관찰연구).[^6][^10][^4][^9]
-- **Q. 수족냉증은 단순히 추위를 타는 것과 어떻게 다른가요?** 냉감이 일상생활에 지장을 줄 정도의 냉증(hiesho)은 단순 냉감(hie)보다 증상이 더 심하며, 수면 질·위장관 기능·삶의 질 저하와 연관된다. 근거수준: 낮음(관찰연구).[^20][^3][^13]
-- **Q. 수족냉증과 골다공증은 관련이 있나요?** 단순 분석에서는 수족냉증 환자의 골밀도가 낮고 골다공증 유병률이 높았으나, 연령·성별·BMI 등 교란 변수를 보정하면 유의성이 사라져 독립적 위험 인자로 단정하기 어렵다. 근거수준: 낮음(관찰연구).[^15]
+- **Q. 수족냉증에 침이나 전침이 효과가 있나요?** 전침과 침 치료는 수족냉증 환자의 통증·불편감을 완화하고 삶의 질을 개선하는 근거가 있으며, 전침이 효과 지속성이 더 우수한 경향이 있다.[^22]
+- **Q. 수족냉증에 어떤 한약이 잘 쓰이나요?** 신양허형에는 온경탕·팔미지황환, 기혈양허형에는 십전대보탕, 어혈·상열하한형에는 계지복령환·당귀작약가감술유탕 등 변증에 따라 선택한다.[^6][^10][^4][^9]
+- **Q. 수족냉증은 단순히 추위를 타는 것과 어떻게 다른가요?** 냉감이 일상생활에 지장을 줄 정도의 냉증(hiesho)은 단순 냉감(hie)보다 증상이 더 심하며, 수면 질·위장관 기능·삶의 질 저하와 연관된다.[^20][^3][^13]
+- **Q. 수족냉증과 골다공증은 관련이 있나요?** 단순 분석에서는 수족냉증 환자의 골밀도가 낮고 골다공증 유병률이 높았으나, 연령·성별·BMI 등 교란 변수를 보정하면 유의성이 사라져 독립적 위험 인자로 단정하기 어렵다.[^15]
 
 ## 근거 요약
 
@@ -126,29 +126,29 @@
 
 ## 각주 정의
 
-[^1]: Hyunwoo Jee, Hanju Kang. Clinical Course of Three Cases of Cold Hypersensitivity in the Hands and Feet During Combined Magnetic Thermal Acupuncture and Herbal Medicine: A Retrospective Case Report. 증례 보고. Journal of Korean Medicine. DOI: [10.13048/jkm.26032](https://doi.org/10.13048/jkm.26032). 근거수준: 매우 낮음.
-[^2]: Kwang-Ho Bae, et al. Association Between Cold Hypersensitivity in the Hands and Feet and Gastrointestinal Symptoms: Findings in a Community-Based Cohort Study. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.6.1207](https://doi.org/10.22246/jikm.2024.45.6.1207). 근거수준: 낮음.
-[^3]: Kwang-Ho Bae, et al. The Relationship between Cold Hypersensitivity in the Hands and Feet and Health-Related Quality of Life in Koreans: A Nationwide Population Survey. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2019/6217036](https://doi.org/10.1155/2019/6217036). 근거수준: 낮음.
-[^4]: Ushiroyama T, et al. Comparison of effects of vitamin E and wen-jing-tang on peripheral blood flow in post-menopausal women with chilly sensation in the lower extremities. 임상시험. The American Journal of Chinese Medicine. DOI: [10.1142/S0192415X06004442](https://doi.org/10.1142/S0192415X06004442). 근거수준: 높음.
-[^5]: Yoko Kimura, et al. Identification of indicators of efficacy of the kampo formulation unkeito for cold syndrome. 관찰연구. Traditional & Kampo Medicine. DOI: [10.1002/tkm2.1050](https://doi.org/10.1002/tkm2.1050). 근거수준: 낮음.
-[^6]: Ko Y, et al. The efficacy and safety of Sipjeondaebo-tang in Korean patients with cold hypersensitivity in the hands and feet: a protocol for a pilot, randomized, double-blind, placebo-controlled trial. 임상시험(프로토콜). Trials. DOI: [10.1186/s13063-019-3286-7](https://doi.org/10.1186/s13063-019-3286-7). 근거수준: 중등도.
-[^7]: Nakae H, et al. Kampo Medicines for Frailty in Locomotor Disease. 문헌 고찰. Frontiers in Nutrition. DOI: [10.3389/fnut.2018.00031](https://doi.org/10.3389/fnut.2018.00031). 근거수준: 근거 미확인.
-[^8]: Yoshino T, et al. Statistical analysis of hie (cold sensation) and hiesho (cold disorder) in kampo clinic. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2013/398458](https://doi.org/10.1155/2013/398458). 근거수준: 낮음.
-[^9]: Ushiroyama T, et al. Comparing the effects of estrogen and an herbal medicine (gui-zhi-fu-ling-wan) on peripheral blood flow in post-menopausal women with hot flashes. 임상시험. The American Journal of Chinese Medicine. DOI: [10.1142/S0192415X05002813](https://doi.org/10.1142/S0192415X05002813). 근거수준: 높음.
-[^10]: Nishida S, et al. Effects of a traditional herbal medicine on peripheral blood flow in women experiencing peripheral coldness: a randomized controlled trial. 임상시험. BMC Complementary and Alternative Medicine. DOI: [10.1186/s12906-015-0617-4](https://doi.org/10.1186/s12906-015-0617-4). 근거수준: 중등도.
-[^11]: Kondo M, Asaka Y. Midwifery Management of Hiesho in Pregnant Women: A Nationwide Survey in Japan. 관찰연구. Cureus. DOI: [10.7759/cureus.89852](https://doi.org/10.7759/cureus.89852). 근거수준: 낮음.
-[^12]: Yamada K, et al. Aconiti tuber increases plasma nitrite and nitrate levels in humans. 임상시험. Journal of Ethnopharmacology. DOI: [10.1016/j.jep.2004.09.028](https://doi.org/10.1016/j.jep.2004.09.028). 근거수준: 중등도.
-[^13]: Ki-Hyun Park, et al. Cold Hypersensitivity and Sleep Quality: A Cross-sectional Community-based Study. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.3.342](https://doi.org/10.22246/jikm.2024.45.3.342). 근거수준: 낮음.
-[^14]: Kwang-Ho Bae, et al. Association Between Cold Hypersensitivity in the Hands and Feet and Gastrointestinal Symptoms. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.6.1207](https://doi.org/10.22246/jikm.2024.45.6.1207). 근거수준: 낮음.
-[^15]: Kwang-Ho Bae, et al. Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2025.46.4.866](https://doi.org/10.22246/jikm.2025.46.4.866). 근거수준: 낮음.
-[^16]: Sadakata M, Yamada Y. Perception of foot temperature in young women with cold constitution. 관찰연구. Journal of Physiological Anthropology. DOI: [10.2114/jpa2.26.449](https://doi.org/10.2114/jpa2.26.449). 근거수준: 낮음.
-[^17]: Kimura T, Asami T. Discrimination of hie and hiesho using toe blood pressure in young women. 관찰연구. Journal of Integrative Medicine. DOI: [10.1016/S2095-4964(16)60286-8](https://doi.org/10.1016/S2095-4964(16)60286-8). 근거수준: 낮음.
-[^18]: Yoshino T, et al. Classification of patients with cold sensation by a review of systems database: A single-centre observational study. 관찰연구. Complementary Therapies in Medicine. DOI: [10.1016/j.ctim.2019.05.011](https://doi.org/10.1016/j.ctim.2019.05.011). 근거수준: 낮음.
-[^19]: Sung-Kyung Kim, et al. A Survey on Korean Medicine Doctors' Recognition and Clinical Status for the Advancement of Korean Medicine Clinical Practice Guidelines for Cold Hypersensitivity in the Hands and Feet. 관찰연구. Journal of Korean Medicine. DOI: [10.13048/jkm.26024](https://doi.org/10.13048/jkm.26024). 근거수준: 낮음.
-[^20]: Yoshino T, et al. Statistical analysis of hie (cold sensation) and hiesho (cold disorder) in kampo clinic. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2013/398458](https://doi.org/10.1155/2013/398458). 근거수준: 낮음.
-[^21]: Ninomiya F. Clinical Evaluation of Perspiration Reducing Effects of a Kampo Formula, Shigyaku-san, on Palmoplantar Hidrosis. 임상시험. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1093/ecam/nem008](https://doi.org/10.1093/ecam/nem008). 근거수준: 중등도.
-[^22]: Kwon NY, et al. Effectiveness of electroacupuncture and acupuncture in alleviating cold hypersensitivity in the hands and feet: A randomized controlled trial. 임상시험. PLoS ONE. DOI: [10.1371/journal.pone.0313789](https://doi.org/10.1371/journal.pone.0313789). 근거수준: 중등도.
-[^23]: Lee KY, et al. Study Protocol for Multi-Center, Open-Label, Randomized Controlled Trial for Assessing the Efficacy and Safety of Electroacupuncture for Cold Hypersensitivity in Hands and Feet. 임상시험(프로토콜). Journal of Pharmacopuncture. DOI: [10.3831/KPI.2025.28.1.47](https://doi.org/10.3831/KPI.2025.28.1.47). 근거수준: 중등도.
-[^24]: Yang LP, et al. Effects of warming-needle therapy on gene expression pathways in the patient with knee osteoarthritis of deficiency-cold syndrome. 증례 보고. Zhongguo Zhen Jiu. PMID: [17926622](https://pubmed.ncbi.nlm.nih.gov/17926622/). 근거수준: 매우 낮음.
-[^25]: Li CD, et al. Observation on therapeutic effect of warming needle moxibustion on knee osteoarthritis of deficiency-cold type. 임상시험. Zhongguo Zhen Jiu. PMID: [16570440](https://pubmed.ncbi.nlm.nih.gov/16570440/). 근거수준: 중등도.
-[^26]: Li WL, et al. Analysis on therapeutic effect of substance-partitioned moxibustion at Guanyuan (CV 4) and shenque (CV 8) for treatment of primary dysmenorrhea of cold-damp type. 임상시험. Zhongguo Zhen Jiu. PMID: [16903598](https://pubmed.ncbi.nlm.nih.gov/16903598/). 근거수준: 중등도.
+[^1]: Hyunwoo Jee, Hanju Kang. Clinical Course of Three Cases of Cold Hypersensitivity in the Hands and Feet During Combined Magnetic Thermal Acupuncture and Herbal Medicine: A Retrospective Case Report. 증례 보고. Journal of Korean Medicine. DOI: [10.13048/jkm.26032](https://doi.org/10.13048/jkm.26032).
+[^2]: Kwang-Ho Bae, et al. Association Between Cold Hypersensitivity in the Hands and Feet and Gastrointestinal Symptoms: Findings in a Community-Based Cohort Study. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.6.1207](https://doi.org/10.22246/jikm.2024.45.6.1207).
+[^3]: Kwang-Ho Bae, et al. The Relationship between Cold Hypersensitivity in the Hands and Feet and Health-Related Quality of Life in Koreans: A Nationwide Population Survey. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2019/6217036](https://doi.org/10.1155/2019/6217036).
+[^4]: Ushiroyama T, et al. Comparison of effects of vitamin E and wen-jing-tang on peripheral blood flow in post-menopausal women with chilly sensation in the lower extremities. 임상시험. The American Journal of Chinese Medicine. DOI: [10.1142/S0192415X06004442](https://doi.org/10.1142/S0192415X06004442).
+[^5]: Yoko Kimura, et al. Identification of indicators of efficacy of the kampo formulation unkeito for cold syndrome. 관찰연구. Traditional & Kampo Medicine. DOI: [10.1002/tkm2.1050](https://doi.org/10.1002/tkm2.1050).
+[^6]: Ko Y, et al. The efficacy and safety of Sipjeondaebo-tang in Korean patients with cold hypersensitivity in the hands and feet: a protocol for a pilot, randomized, double-blind, placebo-controlled trial. 임상시험(프로토콜). Trials. DOI: [10.1186/s13063-019-3286-7](https://doi.org/10.1186/s13063-019-3286-7).
+[^7]: Nakae H, et al. Kampo Medicines for Frailty in Locomotor Disease. 문헌 고찰. Frontiers in Nutrition. DOI: [10.3389/fnut.2018.00031](https://doi.org/10.3389/fnut.2018.00031).
+[^8]: Yoshino T, et al. Statistical analysis of hie (cold sensation) and hiesho (cold disorder) in kampo clinic. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2013/398458](https://doi.org/10.1155/2013/398458).
+[^9]: Ushiroyama T, et al. Comparing the effects of estrogen and an herbal medicine (gui-zhi-fu-ling-wan) on peripheral blood flow in post-menopausal women with hot flashes. 임상시험. The American Journal of Chinese Medicine. DOI: [10.1142/S0192415X05002813](https://doi.org/10.1142/S0192415X05002813).
+[^10]: Nishida S, et al. Effects of a traditional herbal medicine on peripheral blood flow in women experiencing peripheral coldness: a randomized controlled trial. 임상시험. BMC Complementary and Alternative Medicine. DOI: [10.1186/s12906-015-0617-4](https://doi.org/10.1186/s12906-015-0617-4).
+[^11]: Kondo M, Asaka Y. Midwifery Management of Hiesho in Pregnant Women: A Nationwide Survey in Japan. 관찰연구. Cureus. DOI: [10.7759/cureus.89852](https://doi.org/10.7759/cureus.89852).
+[^12]: Yamada K, et al. Aconiti tuber increases plasma nitrite and nitrate levels in humans. 임상시험. Journal of Ethnopharmacology. DOI: [10.1016/j.jep.2004.09.028](https://doi.org/10.1016/j.jep.2004.09.028).
+[^13]: Ki-Hyun Park, et al. Cold Hypersensitivity and Sleep Quality: A Cross-sectional Community-based Study. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.3.342](https://doi.org/10.22246/jikm.2024.45.3.342).
+[^14]: Kwang-Ho Bae, et al. Association Between Cold Hypersensitivity in the Hands and Feet and Gastrointestinal Symptoms. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2024.45.6.1207](https://doi.org/10.22246/jikm.2024.45.6.1207).
+[^15]: Kwang-Ho Bae, et al. Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis. 관찰연구. The Journal of Internal Korean Medicine. DOI: [10.22246/jikm.2025.46.4.866](https://doi.org/10.22246/jikm.2025.46.4.866).
+[^16]: Sadakata M, Yamada Y. Perception of foot temperature in young women with cold constitution. 관찰연구. Journal of Physiological Anthropology. DOI: [10.2114/jpa2.26.449](https://doi.org/10.2114/jpa2.26.449).
+[^17]: Kimura T, Asami T. Discrimination of hie and hiesho using toe blood pressure in young women. 관찰연구. Journal of Integrative Medicine. DOI: [10.1016/S2095-4964(16)60286-8](https://doi.org/10.1016/S2095-4964(16)60286-8).
+[^18]: Yoshino T, et al. Classification of patients with cold sensation by a review of systems database: A single-centre observational study. 관찰연구. Complementary Therapies in Medicine. DOI: [10.1016/j.ctim.2019.05.011](https://doi.org/10.1016/j.ctim.2019.05.011).
+[^19]: Sung-Kyung Kim, et al. A Survey on Korean Medicine Doctors' Recognition and Clinical Status for the Advancement of Korean Medicine Clinical Practice Guidelines for Cold Hypersensitivity in the Hands and Feet. 관찰연구. Journal of Korean Medicine. DOI: [10.13048/jkm.26024](https://doi.org/10.13048/jkm.26024).
+[^20]: Yoshino T, et al. Statistical analysis of hie (cold sensation) and hiesho (cold disorder) in kampo clinic. 관찰연구. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1155/2013/398458](https://doi.org/10.1155/2013/398458).
+[^21]: Ninomiya F. Clinical Evaluation of Perspiration Reducing Effects of a Kampo Formula, Shigyaku-san, on Palmoplantar Hidrosis. 임상시험. Evidence-Based Complementary and Alternative Medicine. DOI: [10.1093/ecam/nem008](https://doi.org/10.1093/ecam/nem008).
+[^22]: Kwon NY, et al. Effectiveness of electroacupuncture and acupuncture in alleviating cold hypersensitivity in the hands and feet: A randomized controlled trial. 임상시험. PLoS ONE. DOI: [10.1371/journal.pone.0313789](https://doi.org/10.1371/journal.pone.0313789).
+[^23]: Lee KY, et al. Study Protocol for Multi-Center, Open-Label, Randomized Controlled Trial for Assessing the Efficacy and Safety of Electroacupuncture for Cold Hypersensitivity in Hands and Feet. 임상시험(프로토콜). Journal of Pharmacopuncture. DOI: [10.3831/KPI.2025.28.1.47](https://doi.org/10.3831/KPI.2025.28.1.47).
+[^24]: Yang LP, et al. Effects of warming-needle therapy on gene expression pathways in the patient with knee osteoarthritis of deficiency-cold syndrome. 증례 보고. Zhongguo Zhen Jiu. PMID: [17926622](https://pubmed.ncbi.nlm.nih.gov/17926622/).
+[^25]: Li CD, et al. Observation on therapeutic effect of warming needle moxibustion on knee osteoarthritis of deficiency-cold type. 임상시험. Zhongguo Zhen Jiu. PMID: [16570440](https://pubmed.ncbi.nlm.nih.gov/16570440/).
+[^26]: Li WL, et al. Analysis on therapeutic effect of substance-partitioned moxibustion at Guanyuan (CV 4) and shenque (CV 8) for treatment of primary dysmenorrhea of cold-damp type. 임상시험. Zhongguo Zhen Jiu. PMID: [16903598](https://pubmed.ncbi.nlm.nih.gov/16903598/).

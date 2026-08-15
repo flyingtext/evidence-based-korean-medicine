@@ -1,6 +1,6 @@
 # 구토 (嘔吐, Vomiting)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/임상시험 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: R11 (오심 및 구토, Nausea and Vomiting)
 
 ## 개요
@@ -100,32 +100,32 @@
 
 [^1]: 구토의 정의·병태생리·원인 감별(구토중추·CTZ·미주신경·전정기관). 근거 미확인(교과서적 임상 이론).
 [^2]: 구토의 한의학적 병기·변증(위기상역·식적·담음·간기범위·비위허한) 및 비위 보양 이론. 근거 미확인(교과서적 임상 이론).
-[^3]: Efficacy and safety of acupuncture for chemotherapy-induced nausea and vomiting: a systematic review and meta-analysis of randomized controlled trial. 메타분석, 4133명. DOI: [10.3389/fneur.2026.1774507](https://doi.org/10.3389/fneur.2026.1774507). 근거수준: 높음. 침이 CINV 발생 빈도·중증도 유의 감소.
-[^4]: Acupuncture-point stimulation for chemotherapy-induced nausea and vomiting. 메타분석, 1247명. DOI: [10.1200/JCO.2005.06.028](https://doi.org/10.1200/JCO.2005.06.028). 근거수준: 높음. 전침이 급성 구토 비율 유의 감소, 지압이 급성 오심 심각도 완화.
-[^5]: Effects of PC6 acupressure on acute and delayed nausea and vomiting induced by chemotherapy in patients with malignant neoplasm: a meta-analysis. 메타분석, 975명. DOI: [10.1007/s00520-023-07976-0](https://doi.org/10.1007/s00520-023-07976-0). 근거수준: 높음. 내관 지압이 급성·지연성 오심·구토 유의 감소.
-[^6]: Stimulation of the wrist acupuncture point PC6 for preventing postoperative nausea and vomiting: a network meta-analysis. 코크란 네트워크 메타분석, 9847명. DOI: [10.1002/14651858.CD003281.pub5](https://doi.org/10.1002/14651858.CD003281.pub5). 근거수준: 높음. 내관혈 자극이 PONV 유의 감소, 항구토제 병용 시 가장 효과적.
-[^7]: Efficacy and safety of acupressure in nausea and vomiting during pregnancy: a systematic review and meta-analysis of randomized controlled trials. 메타분석, 1378명. DOI: [10.1007/s00404-023-07313-0](https://doi.org/10.1007/s00404-023-07313-0). 근거수준: 높음. 지압이 임신 중 오심·구토 증상 점수 유의 개선.
-[^8]: Effect of acupressure in nausea and vomiting treatment during pregnancy: A meta-analysis. 메타분석, 3390명. DOI: [10.1016/j.explore.2023.06.015](https://doi.org/10.1016/j.explore.2023.06.015). 근거수준: 높음. 지압이 Rhodes index·PUQE 점수 유의 감소, 입원 기간 단축.
-[^9]: Treatment of Nausea and Vomiting With Zingiber officinale in Pregnancy: An Umbrella Review of Systematic Reviews With Meta-Synthesis. 체계적 고찰. DOI: [10.1002/ptr.70405](https://doi.org/10.1002/ptr.70405). 근거수준: 높음. 생강이 임신 중 오심·구토 완화에 안전·효과적.
-[^10]: Treatment by Pressure on Relevant Acupuncture Points in a Child Patient with Nausea and Vomiting Due to Motion Sickness (Travel Sickness). 증례, 1명. DOI: [10.54178/2771-0629.2021a1](https://doi.org/10.54178/2771-0629.2021a1). 근거수준: 낮음. 경혈 압박법이 소아 멀미 오심·구토 개선.
-[^11]: Efficacy and safety of acupuncture for postoperative gastroparesis syndrome: a systematic review and meta-analysis. 메타분석, 709명. DOI: [10.3389/fmed.2024.1494693](https://doi.org/10.3389/fmed.2024.1494693). 근거수준: 높음. 침이 수술 후 위마비 증상 완화·위장관 운동성 개선.
-[^12]: A Case Report of Korean Medical Treatment for an Adult with Cyclic Vomiting Syndrome Analyzed by Electrogastrography and Subjective Evaluation Scale. 증례, 1명. DOI: [10.22246/jikm.2024.45.3.519](https://doi.org/10.22246/jikm.2024.45.3.519). 근거수준: 낮음. 침·전침·한약·뜸 병행이 주기성 구토 증후군 개선, 위전도 호전.
-[^13]: A Case Report on Korean Medical Treatment for a Patient with Chronic Nausea and Vomiting Syndrome. 증례, 1명. DOI: [10.22246/jikm.2021.42.5.967](https://doi.org/10.22246/jikm.2021.42.5.967). 근거수준: 낮음. 보중익기탕 가감방+침·뜸이 만성 오심·구토 증후군 개선.
+[^3]: Efficacy and safety of acupuncture for chemotherapy-induced nausea and vomiting: a systematic review and meta-analysis of randomized controlled trial. 메타분석, 4133명. DOI: [10.3389/fneur.2026.1774507](https://doi.org/10.3389/fneur.2026.1774507). 침이 CINV 발생 빈도·중증도 유의 감소.
+[^4]: Acupuncture-point stimulation for chemotherapy-induced nausea and vomiting. 메타분석, 1247명. DOI: [10.1200/JCO.2005.06.028](https://doi.org/10.1200/JCO.2005.06.028). 전침이 급성 구토 비율 유의 감소, 지압이 급성 오심 심각도 완화.
+[^5]: Effects of PC6 acupressure on acute and delayed nausea and vomiting induced by chemotherapy in patients with malignant neoplasm: a meta-analysis. 메타분석, 975명. DOI: [10.1007/s00520-023-07976-0](https://doi.org/10.1007/s00520-023-07976-0). 내관 지압이 급성·지연성 오심·구토 유의 감소.
+[^6]: Stimulation of the wrist acupuncture point PC6 for preventing postoperative nausea and vomiting: a network meta-analysis. 코크란 네트워크 메타분석, 9847명. DOI: [10.1002/14651858.CD003281.pub5](https://doi.org/10.1002/14651858.CD003281.pub5). 내관혈 자극이 PONV 유의 감소, 항구토제 병용 시 가장 효과적.
+[^7]: Efficacy and safety of acupressure in nausea and vomiting during pregnancy: a systematic review and meta-analysis of randomized controlled trials. 메타분석, 1378명. DOI: [10.1007/s00404-023-07313-0](https://doi.org/10.1007/s00404-023-07313-0). 지압이 임신 중 오심·구토 증상 점수 유의 개선.
+[^8]: Effect of acupressure in nausea and vomiting treatment during pregnancy: A meta-analysis. 메타분석, 3390명. DOI: [10.1016/j.explore.2023.06.015](https://doi.org/10.1016/j.explore.2023.06.015). 지압이 Rhodes index·PUQE 점수 유의 감소, 입원 기간 단축.
+[^9]: Treatment of Nausea and Vomiting With Zingiber officinale in Pregnancy: An Umbrella Review of Systematic Reviews With Meta-Synthesis. 체계적 고찰. DOI: [10.1002/ptr.70405](https://doi.org/10.1002/ptr.70405). 생강이 임신 중 오심·구토 완화에 안전·효과적.
+[^10]: Treatment by Pressure on Relevant Acupuncture Points in a Child Patient with Nausea and Vomiting Due to Motion Sickness (Travel Sickness). 증례, 1명. DOI: [10.54178/2771-0629.2021a1](https://doi.org/10.54178/2771-0629.2021a1). 경혈 압박법이 소아 멀미 오심·구토 개선.
+[^11]: Efficacy and safety of acupuncture for postoperative gastroparesis syndrome: a systematic review and meta-analysis. 메타분석, 709명. DOI: [10.3389/fmed.2024.1494693](https://doi.org/10.3389/fmed.2024.1494693). 침이 수술 후 위마비 증상 완화·위장관 운동성 개선.
+[^12]: A Case Report of Korean Medical Treatment for an Adult with Cyclic Vomiting Syndrome Analyzed by Electrogastrography and Subjective Evaluation Scale. 증례, 1명. DOI: [10.22246/jikm.2024.45.3.519](https://doi.org/10.22246/jikm.2024.45.3.519). 침·전침·한약·뜸 병행이 주기성 구토 증후군 개선, 위전도 호전.
+[^13]: A Case Report on Korean Medical Treatment for a Patient with Chronic Nausea and Vomiting Syndrome. 증례, 1명. DOI: [10.22246/jikm.2021.42.5.967](https://doi.org/10.22246/jikm.2021.42.5.967). 보중익기탕 가감방+침·뜸이 만성 오심·구토 증후군 개선.
 [^14]: 경혈 자극이 미주신경 활성과 위장관 운동성을 조절하는 기전. 근거 미확인(생리학적 개괄).
-[^15]: Acupuncture for nausea and vomiting during pregnancy: A systematic review and meta-analysis. 메타분석, 2390명. DOI: [10.1016/j.ctim.2024.103079](https://doi.org/10.1016/j.ctim.2024.103079). 근거수준: 높음. 침+양약 병용이 PUQE 점수 감소·치료 성공률 향상에 더 효과적.
-[^16]: The effects of acupressure on postoperative nausea and vomiting among patients undergoing laparoscopic surgery: A meta-analysis of randomized controlled trials. 메타분석, 941명. DOI: [10.1016/j.explore.2022.10.015](https://doi.org/10.1016/j.explore.2022.10.015). 근거수준: 높음. 지압이 조기·연장 단계 모두에서 오심·구토 유의 감소.
-[^17]: The efficacy of transcutaneous electrical acupoint stimulation on postoperative nausea and vomiting after laparoscopic surgery: a meta-analysis of randomized controlled trials. 메타분석, 2550명. DOI: [10.3389/fmed.2026.1730188](https://doi.org/10.3389/fmed.2026.1730188). 근거수준: 높음. TEAS가 복강경 수술 후 PONV 유의 감소.
-[^18]: Efficacy of Auricular Acupressure in Prevention and Treatment of Chemotherapy-Induced Nausea and Vomiting in Patients with Cancer: A Systematic Review and Meta-Analysis. 메타분석, 1449명. DOI: [10.1155/2021/8868720](https://doi.org/10.1155/2021/8868720). 근거수준: 높음. 이침 압박이 지연성 CINV 빈도 유의 감소.
-[^19]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. 관찰연구, 121287명. DOI: [10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781). 근거수준: 중등도. 캄포 처방이 태아 안전성 유지, 입원율·의료비 유의 감소.
-[^20]: Ginger for nausea and vomiting in pregnancy: randomized, double-masked, placebo-controlled trial. 임상시험, 70명. DOI: [10.1016/s0029-7844(00)01228-x](https://doi.org/10.1016/s0029-7844(00)01228-x). 근거수준: 중등도. 생강 1g/day가 오심 중증도·구토 횟수 유의 감소.
-[^21]: The efficacy of acupressure and acustimulation wrist bands for the relief of chemotherapy-induced nausea and vomiting. 임상시험, 739명. DOI: [10.1016/s0885-3924(03)00254-9](https://doi.org/10.1016/s0885-3924(03)00254-9). 근거수준: 중등도. 지압 밴드가 치료 당일 오심 감소.
-[^22]: Effects of Chinese acupuncture on nausea and vomiting after cholecystectomy: A retrospective study. 관찰연구, 240명. DOI: [10.4240/wjgs.v17.i11.110262](https://doi.org/10.4240/wjgs.v17.i11.110262). 근거수준: 중등도. 합곡·족삼리 침이 담낭절제술 후 PONV 유의 감소.
-[^23]: Korean hand acupressure reduces postoperative nausea and vomiting after gynecological laparoscopic surgery. 임상시험, 80명. DOI: [10.1097/00000539-200204000-00018](https://doi.org/10.1097/00000539-200204000-00018). 근거수준: 중등도. K-K9 수지 지압이 부인과 복강경 수술 후 PONV 유의 감소.
-[^24]: Capsicum plaster at the korean hand acupuncture point reduces postoperative nausea and vomiting after abdominal hysterectomy. 임상시험, 160명. DOI: [10.1097/00000539-200210000-00059](https://doi.org/10.1097/00000539-200210000-00059). 근거수준: 중등도. K-D2 캡사이신 패치가 복식 자궁절제술 후 구토 유의 감소.
+[^15]: Acupuncture for nausea and vomiting during pregnancy: A systematic review and meta-analysis. 메타분석, 2390명. DOI: [10.1016/j.ctim.2024.103079](https://doi.org/10.1016/j.ctim.2024.103079). 침+양약 병용이 PUQE 점수 감소·치료 성공률 향상에 더 효과적.
+[^16]: The effects of acupressure on postoperative nausea and vomiting among patients undergoing laparoscopic surgery: A meta-analysis of randomized controlled trials. 메타분석, 941명. DOI: [10.1016/j.explore.2022.10.015](https://doi.org/10.1016/j.explore.2022.10.015). 지압이 조기·연장 단계 모두에서 오심·구토 유의 감소.
+[^17]: The efficacy of transcutaneous electrical acupoint stimulation on postoperative nausea and vomiting after laparoscopic surgery: a meta-analysis of randomized controlled trials. 메타분석, 2550명. DOI: [10.3389/fmed.2026.1730188](https://doi.org/10.3389/fmed.2026.1730188). TEAS가 복강경 수술 후 PONV 유의 감소.
+[^18]: Efficacy of Auricular Acupressure in Prevention and Treatment of Chemotherapy-Induced Nausea and Vomiting in Patients with Cancer: A Systematic Review and Meta-Analysis. 메타분석, 1449명. DOI: [10.1155/2021/8868720](https://doi.org/10.1155/2021/8868720). 이침 압박이 지연성 CINV 빈도 유의 감소.
+[^19]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. 관찰연구, 121287명. DOI: [10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781). 캄포 처방이 태아 안전성 유지, 입원율·의료비 유의 감소.
+[^20]: Ginger for nausea and vomiting in pregnancy: randomized, double-masked, placebo-controlled trial. 임상시험, 70명. DOI: [10.1016/s0029-7844(00)01228-x](https://doi.org/10.1016/s0029-7844(00)01228-x). 생강 1g/day가 오심 중증도·구토 횟수 유의 감소.
+[^21]: The efficacy of acupressure and acustimulation wrist bands for the relief of chemotherapy-induced nausea and vomiting. 임상시험, 739명. DOI: [10.1016/s0885-3924(03)00254-9](https://doi.org/10.1016/s0885-3924(03)00254-9). 지압 밴드가 치료 당일 오심 감소.
+[^22]: Effects of Chinese acupuncture on nausea and vomiting after cholecystectomy: A retrospective study. 관찰연구, 240명. DOI: [10.4240/wjgs.v17.i11.110262](https://doi.org/10.4240/wjgs.v17.i11.110262). 합곡·족삼리 침이 담낭절제술 후 PONV 유의 감소.
+[^23]: Korean hand acupressure reduces postoperative nausea and vomiting after gynecological laparoscopic surgery. 임상시험, 80명. DOI: [10.1097/00000539-200204000-00018](https://doi.org/10.1097/00000539-200204000-00018). K-K9 수지 지압이 부인과 복강경 수술 후 PONV 유의 감소.
+[^24]: Capsicum plaster at the korean hand acupuncture point reduces postoperative nausea and vomiting after abdominal hysterectomy. 임상시험, 160명. DOI: [10.1097/00000539-200210000-00059](https://doi.org/10.1097/00000539-200210000-00059). K-D2 캡사이신 패치가 복식 자궁절제술 후 구토 유의 감소.
 
 ## 미충족 근거 / 추가 연구 필요
 
 - 구토에 대한 한의 중재(침·지압·한약·생강)의 메타분석·임상시험 근거가 풍부하나, 대부분 CINV·PONV·NVP에 집중되어 있어 위장관 질환 동반 구토·멀미·주기성 구토 증후군 등은 증례 수준의 근거에 그친다.
-- 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않으며, 임신 중 오심·구토에서 가짜 침 군에서도 효과가 나타난 점을 고려해 위약 효과를 배제한 대규모 무작위 대조시험이 필요하다.
+- 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않으며, 임신 중 오심·구토에서 가짜 침 군에서도 효과가 나타난 점을 고려해 위약 효과를 배제한 대규모 무작위 대조시험이 필요하다.
 - 침·지압·TEAS·이침 등 경혈 자극 방식 간의 비교 우월성과 부작용에 대한 정밀 확인, 그리고 한약 단독의 유효성·안전성을 뒷받침할 더 높은 수준의 고품질 연구와 체계적 고찰이 요구된다.
 - 생강의 최적 용량 설정과 장기적 안전성, 그리고 임신오조에서 한약의 태아 안전성에 대한 추가 연구가 필요하다.

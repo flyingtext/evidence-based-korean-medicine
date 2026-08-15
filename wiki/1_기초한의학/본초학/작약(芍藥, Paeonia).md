@@ -1,6 +1,6 @@
 # 작약 (芍藥, Paeonia)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/임상시험 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -43,19 +43,19 @@
 ## Q&A
 
 **Q1. 작약감초탕을 근육 경련 환자에게 어떻게 활용할 수 있나요?**
-작약감초탕(芍藥甘草湯)은 혈액투석 환자의 급성 근경련을 평균 5.3분 내에 완화하고,[^1] 요추관 협착증의 통증성 근경련에 에페리손보다 효과적입니다.[^2] 필요 시 2.5g 투여가 하루 7.5g 정기 복용과 동등한 효과를 보여 감초 부작용 위험을 줄일 수 있습니다.[^2] 근거수준: 중등도(임상시험).
+작약감초탕(芍藥甘草湯)은 혈액투석 환자의 급성 근경련을 평균 5.3분 내에 완화하고,[^1] 요추관 협착증의 통증성 근경련에 에페리손보다 효과적입니다.[^2] 필요 시 2.5g 투여가 하루 7.5g 정기 복용과 동등한 효과를 보여 감초 부작용 위험을 줄일 수 있습니다.[^2]
 
 **Q2. 작약이 생리통에 도움이 되나요?**
-네. 당귀작약산(當歸芍藥散)은 원발성 생리통 환자에게 진통제·위약보다 우수한 통증 감소 및 총 유효율 개선 효과를 보이며, 변증에 맞게 적용하거나 뜸(灸)을 병행할 때 더 높은 효과를 보입니다.[^11][^12][^13] 자궁내막증·자궁선근증으로 인한 이차성 생리통에도 이침(耳鍼)과 병행하는 근거가 있습니다.[^24] 근거수준: 높음(메타분석)/중간(임상시험).
+네. 당귀작약산(當歸芍藥散)은 원발성 생리통 환자에게 진통제·위약보다 우수한 통증 감소 및 총 유효율 개선 효과를 보이며, 변증에 맞게 적용하거나 뜸(灸)을 병행할 때 더 높은 효과를 보입니다.[^11][^12][^13] 자궁내막증·자궁선근증으로 인한 이차성 생리통에도 이침(耳鍼)과 병행하는 근거가 있습니다.[^24]
 
 **Q3. 작약총배당체(TGP)는 어떤 질환에 쓰나요?**
-작약총배당체(TGP)는 류마티스 관절염·강직성 척추염 환자에게 기존 약물과 병용 시 유효율을 높이고 이상반응을 줄이며,[^26][^27] 난치성 구강 편평태선·베체트병에도 유용한 근거가 있습니다.[^28][^29] 근거수준: 중등도(임상시험/관찰연구).
+작약총배당체(TGP)는 류마티스 관절염·강직성 척추염 환자에게 기존 약물과 병용 시 유효율을 높이고 이상반응을 줄이며,[^26][^27] 난치성 구강 편평태선·베체트병에도 유용한 근거가 있습니다.[^28][^29]
 
 **Q4. 작약감초탕의 부작용은 없나요?**
-주의가 필요합니다. 작약감초탕의 감초(甘草) 성분은 장기 복용 시 가성알도스테론증·저칼륨혈증·횡문근융해증을 유발할 수 있으며, 특히 60세 이상 고령 환자가 30일 이상 복용할 경우 발생률이 약 80%에 달합니다.[^34][^35][^36][^37][^38] 고령·고혈압 환자에게는 전해질·혈압 모니터링이 필요합니다. 근거수준: 낮음~중간(증례/관찰연구).
+주의가 필요합니다. 작약감초탕의 감초(甘草) 성분은 장기 복용 시 가성알도스테론증·저칼륨혈증·횡문근융해증을 유발할 수 있으며, 특히 60세 이상 고령 환자가 30일 이상 복용할 경우 발생률이 약 80%에 달합니다.[^34][^35][^36][^37][^38] 고령·고혈압 환자에게는 전해질·혈압 모니터링이 필요합니다.
 
 **Q5. 작약을 항암 치료 중인 환자에게 써도 되나요?**
-작약감초탕은 옥살리플라틴·파클리탁셀 등 항암제로 인한 말초신경병증·근육통·관절통 완화에 유용한 근거가 있습니다.[^40][^41][^42] 다만 파클리탁셀 유발 근육통에 위약 대비 유의한 효과를 확인하지 못한 연구도 있어,[^43] 개별 환자 상태에 맞춘 신중한 적용이 필요합니다. 근거수준: 중등도(임상시험/관찰연구).
+작약감초탕은 옥살리플라틴·파클리탁셀 등 항암제로 인한 말초신경병증·근육통·관절통 완화에 유용한 근거가 있습니다.[^40][^41][^42] 다만 파클리탁셀 유발 근육통에 위약 대비 유의한 효과를 확인하지 못한 연구도 있어,[^43] 개별 환자 상태에 맞춘 신중한 적용이 필요합니다.
 
 ## 미충족 근거 / 추가 연구 필요
 
@@ -67,48 +67,48 @@
 
 ## 각주 정의
 
-[^1]: Immediate effect of Shakuyaku-kanzo-to on muscle cramp in hemodialysis patients. 임상시험, 71명. DOI: [10.1159/000093256](https://doi.org/10.1159/000093256). 근거수준: 중등도. 작약감초탕이 투석 중 근경련을 5.3분 내 완화.
-[^2]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with Lumbar Spinal Stenosis and Its Minimum Effective Dose. 임상시험, 58명. PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/). 근거수준: 중등도. 작약감초탕이 요추관 협착증 근경련에 에페리손보다 효과적.
-[^3]: Clinical assessment of usefulness, effectiveness and safety of jackyakamcho-tang on muscle spasm and pain: a case series. 증례, 81명. DOI: [10.1142/S0192415X04002247](https://doi.org/10.1142/S0192415X04002247). 근거수준: 낮음.
-[^4]: Effect of orally administered shao-yao-gan-cao-tang on muscle cramps in maintenance hemodialysis patients: a preliminary study. 임상시험, 5명. DOI: [10.1142/S0192415X03001144](https://doi.org/10.1142/S0192415X03001144). 근거수준: 중등도.
-[^5]: Localized tetanus treated with kampo medicines. 증례, 1명. DOI: [10.1002/tkm2.1092](https://doi.org/10.1002/tkm2.1092). 근거수준: 낮음.
-[^6]: A case of tetanus treated with Kampo medicines such as Kakkonto and Shakuyakukanzoto. 증례, 1명. DOI: [10.1002/ams2.254](https://doi.org/10.1002/ams2.254). 근거수준: 낮음.
-[^7]: Clinical Experience of Use of Kampo Medicine Shakuyakukanzoto for Muscle Spasms Caused by Tetanus. 관찰연구, 7명. DOI: [10.7759/cureus.40612](https://doi.org/10.7759/cureus.40612). 근거수준: 중등도.
-[^8]: A Case Report of Korean Medicine in the Treatment of Idiopathic Parkinson's Disease with Chronic Pain and Gait Disturbance. 증례, 1명. DOI: [10.22246/jikm.2024.45.5.839](https://doi.org/10.22246/jikm.2024.45.5.839). 근거수준: 낮음.
-[^9]: A case series: Three cases of Morvan's syndrome as a rare autoimmune disorder with anti-Caspr2 antibody. 증례, 3명. DOI: [10.1097/MD.0000000000040159](https://doi.org/10.1097/MD.0000000000040159). 근거수준: 낮음.
-[^10]: Efficacy of mecasin for treatment of amyotrophic lateral sclerosis: A phase IIa multicenter randomized double-blinded placebo-controlled trial. 임상시험, 30명. DOI: [10.1016/j.jep.2023.116670](https://doi.org/10.1016/j.jep.2023.116670). 근거수준: 중등도.
-[^11]: Herbal medicine (Danggui Shaoyao San) for treating primary dysmenorrhea: A systematic review and meta-analysis of randomized controlled trials. 메타분석. DOI: [10.1016/j.maturitas.2015.11.013](https://doi.org/10.1016/j.maturitas.2015.11.013). 근거수준: 높음.
-[^12]: Dangguijagyag-san for primary dysmenorrhea: A PRISMA-compliant systematic review and meta-analysis of randomized-controlled trials. 메타분석. DOI: [10.1097/MD.0000000000022761](https://doi.org/10.1097/MD.0000000000022761). 근거수준: 높음.
-[^13]: Efficacy and safety of herbal medicine (Dangguijagyag-san) for primary dysmenorrhea: study protocol for a randomized, double-blind, placebo-controlled, parallel-group, multi-center trial. 임상시험, 240명. DOI: [10.1016/j.imr.2020.02.002](https://doi.org/10.1016/j.imr.2020.02.002). 근거수준: 중등도.
-[^14]: Efficacy of Tokishakuyakusan add-on therapy with low-dose oral contraceptive pills on endometriosis patients with dysmenorrhea. 임상시험, 12명. DOI: [10.1111/jog.14424](https://doi.org/10.1111/jog.14424). 근거수준: 중등도.
-[^15]: A comparative study of the usefulness of toki-shakuyaku-san and an oral iron preparation in the treatment of hypochromic anemia in cases of uterine myoma. 임상시험, 25명. DOI: [10.1248/yakushi.123.817](https://doi.org/10.1248/yakushi.123.817). 근거수준: 중등도.
-[^16]: The improvement of luteal insufficiency in fecund women by tokishakuyakusan treatment. 임상시험. DOI: [10.1142/S0192415X02000247](https://doi.org/10.1142/S0192415X02000247). 근거수준: 중등도.
-[^17]: Effects of the Kampo Formula Tokishakuyakusan on Headaches and Concomitant Depression in Middle-Aged Women. 관찰연구, 37명. DOI: [10.1155/2014/593560](https://doi.org/10.1155/2014/593560). 근거수준: 중등도.
-[^18]: Effects of three Kampo formulae: Tokishakuyakusan (TJ-23), Kamishoyosan (TJ-24), and Keishibukuryogan (TJ-25) on Japanese peri- and postmenopausal women with sleep disturbances. 관찰연구, 151명. DOI: [10.1007/s00404-010-1779-4](https://doi.org/10.1007/s00404-010-1779-4). 근거수준: 중등도.
-[^19]: The Difference between the Two Representative Kampo Formulas for Treating Dysmenorrhea: An Observational Study. 관찰연구, 168명. DOI: [10.1155/2016/3159617](https://doi.org/10.1155/2016/3159617). 근거수준: 중등도.
-[^20]: Patient prognosis and prediction model for taking Kampo formulas in dysmenorrhea: An observational study. 관찰연구, 57명. DOI: [10.1097/MD.0000000000036191](https://doi.org/10.1097/MD.0000000000036191). 근거수준: 중등도.
-[^21]: The Use of Japanese Traditional (Kampo) Medicines Before and During Pregnancy in Japan. 관찰연구, 19220명. DOI: [10.1002/pds.70033](https://doi.org/10.1002/pds.70033). 근거수준: 중등도.
-[^22]: Association of first-trimester exposure to Kampo medicines containing Prunus persica kernel with preterm birth and major congenital malformations. 관찰연구, 75398명. DOI: [10.3389/fphar.2025.1562724](https://doi.org/10.3389/fphar.2025.1562724). 근거수준: 중등도.
-[^23]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. 관찰연구, 121287명. DOI: [10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781). 근거수준: 중등도.
-[^24]: Herbal medicine (Danggui-Shaoyao-San) and Ear Acupoint Pressing Beans in the treatment of dysmenorrhea caused by endometriosis and adenomyosis: a study protocol randomized controlled trial. 임상시험. DOI: [10.21203/rs.2.9951/v1](https://doi.org/10.21203/rs.2.9951/v1). 근거수준: 중등도.
-[^25]: Clinical effectiveness and safety of total glucosides of paeony as an immunomodulator in patients with refractory oral lichen planus: A multicenter, pragmatic, randomized controlled trial. 임상시험, 448명. DOI: [10.1016/j.phymed.2026.157770](https://doi.org/10.1016/j.phymed.2026.157770). 근거수준: 중등도.
-[^26]: Clinical observation on effects of leflunomid and total glucosides of paeony on rheumatoid arthritis. 임상시험, 80명. PMID: [16689008](https://pubmed.ncbi.nlm.nih.gov/16689008/). 근거수준: 중등도.
-[^27]: Clinical observation on total glucosides of paeony combined with sulfasalazine in treatment of ankylosing spondylitis. 임상시험, 67명. PMID: [17432680](https://pubmed.ncbi.nlm.nih.gov/17432680/). 근거수준: 중등도.
-[^28]: The "two flowers therapy": clinical efficacy and mechanisms of a total glucosides of paeony -colchicine dual-drugs for Behçet's disease. 관찰연구, 355명. DOI: [10.3389/fimmu.2026.1813907](https://doi.org/10.3389/fimmu.2026.1813907). 근거수준: 중등도.
-[^29]: Paeonia officinalis for Acute Anal Fissure: A Prospective, Single-Group, Open-Label, Pre-Post Comparison Study. 관찰연구, 34명. DOI: [10.1055/a-2587-5592](https://doi.org/10.1055/a-2587-5592). 근거수준: 중등도.
-[^30]: Paeonia Lactiflora injection in treating chronic cor pulmonale with pulmonary hypertension. 임상시험, 42명. PMID: [1773453](https://pubmed.ncbi.nlm.nih.gov/1773453/). 근거수준: 중등도.
-[^31]: Pharmacokinetic Profiles of Active Components After Oral Administration of a Kampo Medicine, Shakuyakukanzoto, to Healthy Adult Japanese Volunteers. 임상시험. DOI: [10.1002/jps.24596](https://doi.org/10.1002/jps.24596). 근거수준: 중등도.
-[^32]: Shaoyao Gancao decoction alleviates functional constipation by inhibiting Escherichia-Shigella expansion, modulating gut microbiota, and suppressing dysbiosis-induced endocannabinoid production. 임상시험, 20명. DOI: [10.3389/fcimb.2025.1705271](https://doi.org/10.3389/fcimb.2025.1705271). 근거수준: 중등도.
-[^33]: Efficacy of Glycicumarin and Isoliquiritigenin in Suppressing Colonic Peristalsis in Both an Animal Model and a Clinical Trial. 임상시험, 11명. DOI: [10.1248/bpb.b23-00680](https://doi.org/10.1248/bpb.b23-00680). 근거수준: 중등도.
-[^34]: Effects of long term administration of Shakuyaku-kanzo-To and Shosaiko-To on serum potassium levels. 관찰연구, 37명. DOI: [10.1248/yakushi.126.973](https://doi.org/10.1248/yakushi.126.973). 근거수준: 중등도.
-[^35]: Shakuyaku-kanzo-to induces pseudoaldosteronism characterized by hypokalemia, rhabdomyolysis, metabolic alkalosis with respiratory compensation, and increased urinary cortisol levels. 증례, 1명. DOI: [10.1089/acm.2008.0397](https://doi.org/10.1089/acm.2008.0397). 근거수준: 낮음.
-[^36]: Risk factors for pseudoaldosteronism with rhabdomyolysis caused by consumption of drugs containing licorice. 증례, 1명. DOI: [10.1089/acm.2013.0454](https://doi.org/10.1089/acm.2013.0454). 근거수준: 낮음.
-[^37]: A Case of Pseudohyperaldosteronism Induced by Yokukansan and Shakuyakukanzoto That Resulted in Severe Hypokalemia. 증례, 1명. DOI: [10.7759/cureus.38267](https://doi.org/10.7759/cureus.38267). 근거수준: 낮음.
-[^38]: [Licorice of 'shakuyaku kanzou tou' induced pseudoaldosteronism]. 증례, 1명. PMID: [15148778](https://pubmed.ncbi.nlm.nih.gov/15148778/). 근거수준: 낮음.
-[^39]: Therapeutic Potential of a Modified Gui-Zhi and Shao-Yao Decoction for Postcolonoscopy Pain: A Herbal Acupoint Application Study. 임상시험, 60명. DOI: [10.1177/09731296251384061](https://doi.org/10.1177/09731296251384061). 근거수준: 중등도.
-[^40]: Preventive effect of shakuyakukanzoto against neurotoxicity of FOLFOX plus bevacizumab used for metastatic colorectal cancer management: A single-arm phase II study. 임상시험, 41명. DOI: [10.1002/tkm2.1389](https://doi.org/10.1002/tkm2.1389). 근거수준: 중등도.
-[^41]: [The efficacy of Shakuyaku-Kanzo-to for peripheral nerve dysfunction in paclitaxel combination chemotherapy for epithelial ovarian carcinoma]. 관찰연구, 21명. PMID: [15508446](https://pubmed.ncbi.nlm.nih.gov/15508446/). 근거수준: 중등도.
-[^42]: [The effect of L-Glutamine and Shakuyaku-Kanzo-to for paclitaxel-induced myalgia/arthralgia]. 임상시험. PMID: [11977541](https://pubmed.ncbi.nlm.nih.gov/11977541/). 근거수준: 중등도.
-[^43]: Shakuyakukanzoto for Paclitaxel-Induced Myalgia and Arthralgia: A Placebo-Controlled Crossover Trial. 임상시험, 22명. DOI: [10.1002/tkm2.70054](https://doi.org/10.1002/tkm2.70054). 근거수준: 중등도.
-[^44]: Lack of pharmacokinetic interaction between valproic acid and a traditional Chinese medicine, Paeoniae Radix, in healthy volunteers. 임상시험, 6명. DOI: [10.1046/j.1365-2710.2000.00313.x](https://doi.org/10.1046/j.1365-2710.2000.00313.x). 근거수준: 중등도.
-[^45]: Effects of the Japanese Kampo Medicines Rikkunshito, Shakuyakukanzoto and Goreisan on Lenvatinib Plasma Concentrations in Japanese Patients with Thyroid Cancer. 관찰연구, 39명. DOI: [10.1007/s40801-024-00467-6](https://doi.org/10.1007/s40801-024-00467-6). 근거수준: 중등도.
+[^1]: Immediate effect of Shakuyaku-kanzo-to on muscle cramp in hemodialysis patients. 임상시험, 71명. DOI: [10.1159/000093256](https://doi.org/10.1159/000093256). 작약감초탕이 투석 중 근경련을 5.3분 내 완화.
+[^2]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with Lumbar Spinal Stenosis and Its Minimum Effective Dose. 임상시험, 58명. PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/). 작약감초탕이 요추관 협착증 근경련에 에페리손보다 효과적.
+[^3]: Clinical assessment of usefulness, effectiveness and safety of jackyakamcho-tang on muscle spasm and pain: a case series. 증례, 81명. DOI: [10.1142/S0192415X04002247](https://doi.org/10.1142/S0192415X04002247).
+[^4]: Effect of orally administered shao-yao-gan-cao-tang on muscle cramps in maintenance hemodialysis patients: a preliminary study. 임상시험, 5명. DOI: [10.1142/S0192415X03001144](https://doi.org/10.1142/S0192415X03001144).
+[^5]: Localized tetanus treated with kampo medicines. 증례, 1명. DOI: [10.1002/tkm2.1092](https://doi.org/10.1002/tkm2.1092).
+[^6]: A case of tetanus treated with Kampo medicines such as Kakkonto and Shakuyakukanzoto. 증례, 1명. DOI: [10.1002/ams2.254](https://doi.org/10.1002/ams2.254).
+[^7]: Clinical Experience of Use of Kampo Medicine Shakuyakukanzoto for Muscle Spasms Caused by Tetanus. 관찰연구, 7명. DOI: [10.7759/cureus.40612](https://doi.org/10.7759/cureus.40612).
+[^8]: A Case Report of Korean Medicine in the Treatment of Idiopathic Parkinson's Disease with Chronic Pain and Gait Disturbance. 증례, 1명. DOI: [10.22246/jikm.2024.45.5.839](https://doi.org/10.22246/jikm.2024.45.5.839).
+[^9]: A case series: Three cases of Morvan's syndrome as a rare autoimmune disorder with anti-Caspr2 antibody. 증례, 3명. DOI: [10.1097/MD.0000000000040159](https://doi.org/10.1097/MD.0000000000040159).
+[^10]: Efficacy of mecasin for treatment of amyotrophic lateral sclerosis: A phase IIa multicenter randomized double-blinded placebo-controlled trial. 임상시험, 30명. DOI: [10.1016/j.jep.2023.116670](https://doi.org/10.1016/j.jep.2023.116670).
+[^11]: Herbal medicine (Danggui Shaoyao San) for treating primary dysmenorrhea: A systematic review and meta-analysis of randomized controlled trials. 메타분석. DOI: [10.1016/j.maturitas.2015.11.013](https://doi.org/10.1016/j.maturitas.2015.11.013).
+[^12]: Dangguijagyag-san for primary dysmenorrhea: A PRISMA-compliant systematic review and meta-analysis of randomized-controlled trials. 메타분석. DOI: [10.1097/MD.0000000000022761](https://doi.org/10.1097/MD.0000000000022761).
+[^13]: Efficacy and safety of herbal medicine (Dangguijagyag-san) for primary dysmenorrhea: study protocol for a randomized, double-blind, placebo-controlled, parallel-group, multi-center trial. 임상시험, 240명. DOI: [10.1016/j.imr.2020.02.002](https://doi.org/10.1016/j.imr.2020.02.002).
+[^14]: Efficacy of Tokishakuyakusan add-on therapy with low-dose oral contraceptive pills on endometriosis patients with dysmenorrhea. 임상시험, 12명. DOI: [10.1111/jog.14424](https://doi.org/10.1111/jog.14424).
+[^15]: A comparative study of the usefulness of toki-shakuyaku-san and an oral iron preparation in the treatment of hypochromic anemia in cases of uterine myoma. 임상시험, 25명. DOI: [10.1248/yakushi.123.817](https://doi.org/10.1248/yakushi.123.817).
+[^16]: The improvement of luteal insufficiency in fecund women by tokishakuyakusan treatment. 임상시험. DOI: [10.1142/S0192415X02000247](https://doi.org/10.1142/S0192415X02000247).
+[^17]: Effects of the Kampo Formula Tokishakuyakusan on Headaches and Concomitant Depression in Middle-Aged Women. 관찰연구, 37명. DOI: [10.1155/2014/593560](https://doi.org/10.1155/2014/593560).
+[^18]: Effects of three Kampo formulae: Tokishakuyakusan (TJ-23), Kamishoyosan (TJ-24), and Keishibukuryogan (TJ-25) on Japanese peri- and postmenopausal women with sleep disturbances. 관찰연구, 151명. DOI: [10.1007/s00404-010-1779-4](https://doi.org/10.1007/s00404-010-1779-4).
+[^19]: The Difference between the Two Representative Kampo Formulas for Treating Dysmenorrhea: An Observational Study. 관찰연구, 168명. DOI: [10.1155/2016/3159617](https://doi.org/10.1155/2016/3159617).
+[^20]: Patient prognosis and prediction model for taking Kampo formulas in dysmenorrhea: An observational study. 관찰연구, 57명. DOI: [10.1097/MD.0000000000036191](https://doi.org/10.1097/MD.0000000000036191).
+[^21]: The Use of Japanese Traditional (Kampo) Medicines Before and During Pregnancy in Japan. 관찰연구, 19220명. DOI: [10.1002/pds.70033](https://doi.org/10.1002/pds.70033).
+[^22]: Association of first-trimester exposure to Kampo medicines containing Prunus persica kernel with preterm birth and major congenital malformations. 관찰연구, 75398명. DOI: [10.3389/fphar.2025.1562724](https://doi.org/10.3389/fphar.2025.1562724).
+[^23]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. 관찰연구, 121287명. DOI: [10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781).
+[^24]: Herbal medicine (Danggui-Shaoyao-San) and Ear Acupoint Pressing Beans in the treatment of dysmenorrhea caused by endometriosis and adenomyosis: a study protocol randomized controlled trial. 임상시험. DOI: [10.21203/rs.2.9951/v1](https://doi.org/10.21203/rs.2.9951/v1).
+[^25]: Clinical effectiveness and safety of total glucosides of paeony as an immunomodulator in patients with refractory oral lichen planus: A multicenter, pragmatic, randomized controlled trial. 임상시험, 448명. DOI: [10.1016/j.phymed.2026.157770](https://doi.org/10.1016/j.phymed.2026.157770).
+[^26]: Clinical observation on effects of leflunomid and total glucosides of paeony on rheumatoid arthritis. 임상시험, 80명. PMID: [16689008](https://pubmed.ncbi.nlm.nih.gov/16689008/).
+[^27]: Clinical observation on total glucosides of paeony combined with sulfasalazine in treatment of ankylosing spondylitis. 임상시험, 67명. PMID: [17432680](https://pubmed.ncbi.nlm.nih.gov/17432680/).
+[^28]: The "two flowers therapy": clinical efficacy and mechanisms of a total glucosides of paeony -colchicine dual-drugs for Behçet's disease. 관찰연구, 355명. DOI: [10.3389/fimmu.2026.1813907](https://doi.org/10.3389/fimmu.2026.1813907).
+[^29]: Paeonia officinalis for Acute Anal Fissure: A Prospective, Single-Group, Open-Label, Pre-Post Comparison Study. 관찰연구, 34명. DOI: [10.1055/a-2587-5592](https://doi.org/10.1055/a-2587-5592).
+[^30]: Paeonia Lactiflora injection in treating chronic cor pulmonale with pulmonary hypertension. 임상시험, 42명. PMID: [1773453](https://pubmed.ncbi.nlm.nih.gov/1773453/).
+[^31]: Pharmacokinetic Profiles of Active Components After Oral Administration of a Kampo Medicine, Shakuyakukanzoto, to Healthy Adult Japanese Volunteers. 임상시험. DOI: [10.1002/jps.24596](https://doi.org/10.1002/jps.24596).
+[^32]: Shaoyao Gancao decoction alleviates functional constipation by inhibiting Escherichia-Shigella expansion, modulating gut microbiota, and suppressing dysbiosis-induced endocannabinoid production. 임상시험, 20명. DOI: [10.3389/fcimb.2025.1705271](https://doi.org/10.3389/fcimb.2025.1705271).
+[^33]: Efficacy of Glycicumarin and Isoliquiritigenin in Suppressing Colonic Peristalsis in Both an Animal Model and a Clinical Trial. 임상시험, 11명. DOI: [10.1248/bpb.b23-00680](https://doi.org/10.1248/bpb.b23-00680).
+[^34]: Effects of long term administration of Shakuyaku-kanzo-To and Shosaiko-To on serum potassium levels. 관찰연구, 37명. DOI: [10.1248/yakushi.126.973](https://doi.org/10.1248/yakushi.126.973).
+[^35]: Shakuyaku-kanzo-to induces pseudoaldosteronism characterized by hypokalemia, rhabdomyolysis, metabolic alkalosis with respiratory compensation, and increased urinary cortisol levels. 증례, 1명. DOI: [10.1089/acm.2008.0397](https://doi.org/10.1089/acm.2008.0397).
+[^36]: Risk factors for pseudoaldosteronism with rhabdomyolysis caused by consumption of drugs containing licorice. 증례, 1명. DOI: [10.1089/acm.2013.0454](https://doi.org/10.1089/acm.2013.0454).
+[^37]: A Case of Pseudohyperaldosteronism Induced by Yokukansan and Shakuyakukanzoto That Resulted in Severe Hypokalemia. 증례, 1명. DOI: [10.7759/cureus.38267](https://doi.org/10.7759/cureus.38267).
+[^38]: [Licorice of 'shakuyaku kanzou tou' induced pseudoaldosteronism]. 증례, 1명. PMID: [15148778](https://pubmed.ncbi.nlm.nih.gov/15148778/).
+[^39]: Therapeutic Potential of a Modified Gui-Zhi and Shao-Yao Decoction for Postcolonoscopy Pain: A Herbal Acupoint Application Study. 임상시험, 60명. DOI: [10.1177/09731296251384061](https://doi.org/10.1177/09731296251384061).
+[^40]: Preventive effect of shakuyakukanzoto against neurotoxicity of FOLFOX plus bevacizumab used for metastatic colorectal cancer management: A single-arm phase II study. 임상시험, 41명. DOI: [10.1002/tkm2.1389](https://doi.org/10.1002/tkm2.1389).
+[^41]: [The efficacy of Shakuyaku-Kanzo-to for peripheral nerve dysfunction in paclitaxel combination chemotherapy for epithelial ovarian carcinoma]. 관찰연구, 21명. PMID: [15508446](https://pubmed.ncbi.nlm.nih.gov/15508446/).
+[^42]: [The effect of L-Glutamine and Shakuyaku-Kanzo-to for paclitaxel-induced myalgia/arthralgia]. 임상시험. PMID: [11977541](https://pubmed.ncbi.nlm.nih.gov/11977541/).
+[^43]: Shakuyakukanzoto for Paclitaxel-Induced Myalgia and Arthralgia: A Placebo-Controlled Crossover Trial. 임상시험, 22명. DOI: [10.1002/tkm2.70054](https://doi.org/10.1002/tkm2.70054).
+[^44]: Lack of pharmacokinetic interaction between valproic acid and a traditional Chinese medicine, Paeoniae Radix, in healthy volunteers. 임상시험, 6명. DOI: [10.1046/j.1365-2710.2000.00313.x](https://doi.org/10.1046/j.1365-2710.2000.00313.x).
+[^45]: Effects of the Japanese Kampo Medicines Rikkunshito, Shakuyakukanzoto and Goreisan on Lenvatinib Plasma Concentrations in Japanese Patients with Thyroid Cancer. 관찰연구, 39명. DOI: [10.1007/s40801-024-00467-6](https://doi.org/10.1007/s40801-024-00467-6).

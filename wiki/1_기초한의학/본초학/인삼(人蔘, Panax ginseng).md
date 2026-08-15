@@ -1,6 +1,6 @@
 # 인삼(人蔘, Panax ginseng)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -50,34 +50,34 @@
 
 ## 참고문헌
 
-[^1]: Recent advances on ginseng research in China. 문헌고찰. DOI: [10.1016/0378-8741(92)90057-x](https://doi.org/10.1016/0378-8741(92)90057-x). 근거수준: 낮음. 인삼의 광범위한 약리 작용 개괄.
-[^2]: Immuno-enhancement effects of Korean Red Ginseng in healthy adults: a randomized, double-blind, placebo-controlled trial. 임상시험, 100명. DOI: [10.1016/j.jgr.2020.08.003](https://doi.org/10.1016/j.jgr.2020.08.003). 근거수준: 높음. 홍삼 8주·2g/일 투여로 T/B세포·백혈구 유의 증가.
-[^3]: Proof of the mysterious efficacy of ginseng: basic and clinical trials. 문헌고찰. DOI: [10.1254/jphs.fmj04001x5](https://doi.org/10.1254/jphs.fmj04001x5). 근거수준: 낮음. 인삼·홍삼의 항스트레스·면역·미병(未病) 예방.
-[^4]: Perspectives on the Use of Ninjin'yoeito in Modern Medicine: A Review of Randomized Controlled Trials. 체계적 고찰. DOI: [10.1155/2019/9590260](https://doi.org/10.1155/2019/9590260). 근거수준: 높음. 인삼양영탕의 기혈양허 개선·항암 부작용 완화.
-[^5]: Pharmacokinetics of Ginsenoside Compound K From a Compound K Fermentation Product, CK-30, and From Red Ginseng Extract in Healthy Korean Subjects. 임상시험. DOI: [10.1002/cpdd.949](https://doi.org/10.1002/cpdd.949). 근거수준: 중등도. 발효 제형이 진세노사이드 CK 생체이용률 높임.
-[^6]: A double-blind crossover study evaluating the efficacy of korean red ginseng in patients with erectile dysfunction: a preliminary report. 임상시험, 45명. DOI: [10.1016/S0022-5347(05)64298-X](https://doi.org/10.1016/S0022-5347(05)64298-X). 근거수준: 중등도. 발기부전 성기능 지수·음경 강직도 개선.
-[^7]: Study of the efficacy of Korean Red Ginseng in the treatment of erectile dysfunction. 임상시험, 60명. DOI: [10.1111/j.1745-7262.2007.00210.x](https://doi.org/10.1111/j.1745-7262.2007.00210.x). 근거수준: 중등도. 경증·중등도 발기부전 개선, 침습 치료 대안.
-[^8]: The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial. 임상시험, 65명. DOI: [10.1007/s00520-026-10398-3](https://doi.org/10.1007/s00520-026-10398-3). 근거수준: 중등도. 암 관련 피로 유의 감소·내약성 우수.
-[^9]: Efficacy and safety of Korean red ginseng as adjunctive therapy in type 2 diabetes mellitus. 임상시험, 70명. DOI: [10.1016/j.jgr.2026.101068](https://doi.org/10.1016/j.jgr.2026.101068). 근거수준: 중등도. 인슐린 민감도·지질·산화 스트레스 개선.
-[^10]: Korean red ginseng improves blood pressure stability in patients with intradialytic hypotension. 임상시험, 38명. DOI: [10.1155/2012/595271](https://doi.org/10.1155/2012/595271). 근거수준: 중등도. 투석 중 저혈압 빈도 유의 감소.
-[^11]: Effects of red ginseng upon vascular endothelial function in patients with essential hypertension. 임상시험, 27명. DOI: [10.1142/S0192415X00000258](https://doi.org/10.1142/S0192415X00000258). 근거수준: 중등도. 혈관 내피 기능 개선.
-[^12]: The effects of G1899 Korean red ginseng extract powder on long COVID for acute COVID19 infection. 임상시험, 216명. DOI: [10.1016/j.jgr.2025.04.007](https://doi.org/10.1016/j.jgr.2025.04.007). 근거수준: 중등도. Long COVID 피로 완화·면역 균형 유지.
-[^13]: Anti-fatigue effects of Korean Red Ginseng extract in healthy Japanese adults. 임상시험, 46명. DOI: [10.1016/j.jgr.2024.12.003](https://doi.org/10.1016/j.jgr.2024.12.003). 근거수준: 중등도. 주관적 피로도 유의 감소.
-[^14]: Effect of Korean red ginseng on psychological functions in patients with severe climacteric syndromes. 임상시험, 20명. DOI: [10.1016/s0020-7292(99)00168-x](https://doi.org/10.1016/s0020-7292(99)00168-x). 근거수준: 중등도. 갱년기 피로·불면·우울 개선.
-[^15]: Adjuvant effects of fermented red ginseng extract on advanced non-small cell lung cancer patients treated with chemotherapy. 임상시험, 60명. DOI: [10.1007/s11655-015-2146-x](https://doi.org/10.1007/s11655-015-2146-x). 근거수준: 중등도. 화학요법 피로·삶의 질 개선.
-[^16]: Efficacy of Ninjin'yoeito in Adjuvant Chemotherapy for Colorectal Cancer. 관찰연구, 58명. DOI: [10.23922/jarc.2025-075](https://doi.org/10.23922/jarc.2025-075). 근거수준: 중등도. 식욕부진·피로·CIPN 감소, RDI 증가.
-[^17]: Effect of Korean Red Ginseng on Cholesterol Metabolites in Postmenopausal Women with Hypercholesterolemia. 임상시험, 68명. DOI: [10.3390/nu12113423](https://doi.org/10.3390/nu12113423). 근거수준: 중등도. 콜레스테롤·염증 지표 유의 감소.
-[^18]: Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery. 임상시험, 55명. DOI: [10.1089/acm.2019.0429](https://doi.org/10.1089/acm.2019.0429). 근거수준: 중등도. 수술 후 성적 불만 개선 가능.
-[^19]: Safety and Effectiveness of Ninjin'yoeito: A Utilization Study in Elderly Patients. 관찰연구, 808명. DOI: [10.3389/fnut.2019.00014](https://doi.org/10.3389/fnut.2019.00014). 근거수준: 중등도. 고령 환자 피로·식욕부진·노쇠 지표 개선.
-[^20]: Relationship between the severity of pre-frailty and the degree of adaptation of Ninjin'yoeito (NYT) on pre-frailty. 관찰연구, 314명. DOI: [10.3389/fragi.2024.1304217](https://doi.org/10.3389/fragi.2024.1304217). 근거수준: 중등도. 전노쇠 단계 조기 예방 중재 가능성.
-[^21]: Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. 체계적 고찰. DOI: [10.1345/aph.10031](https://doi.org/10.1345/aph.10031). 근거수준: 중등도. 인삼·와파린 병용 시 항응고 효과 감소 가능성.
-[^22]: Functional foods: How functional are they? A case report of supplement-induced psychosis. 증례, 1명. DOI: [10.1177/0091217417696733](https://doi.org/10.1177/0091217417696733). 근거수준: 낮음. 건강기능식품 복합 복용 시 정신병적 삽화 유발 가능성.
+[^1]: Recent advances on ginseng research in China. 문헌고찰. DOI: [10.1016/0378-8741(92)90057-x](https://doi.org/10.1016/0378-8741(92)90057-x). 인삼의 광범위한 약리 작용 개괄.
+[^2]: Immuno-enhancement effects of Korean Red Ginseng in healthy adults: a randomized, double-blind, placebo-controlled trial. 임상시험, 100명. DOI: [10.1016/j.jgr.2020.08.003](https://doi.org/10.1016/j.jgr.2020.08.003). 홍삼 8주·2g/일 투여로 T/B세포·백혈구 유의 증가.
+[^3]: Proof of the mysterious efficacy of ginseng: basic and clinical trials. 문헌고찰. DOI: [10.1254/jphs.fmj04001x5](https://doi.org/10.1254/jphs.fmj04001x5). 인삼·홍삼의 항스트레스·면역·미병(未病) 예방.
+[^4]: Perspectives on the Use of Ninjin'yoeito in Modern Medicine: A Review of Randomized Controlled Trials. 체계적 고찰. DOI: [10.1155/2019/9590260](https://doi.org/10.1155/2019/9590260). 인삼양영탕의 기혈양허 개선·항암 부작용 완화.
+[^5]: Pharmacokinetics of Ginsenoside Compound K From a Compound K Fermentation Product, CK-30, and From Red Ginseng Extract in Healthy Korean Subjects. 임상시험. DOI: [10.1002/cpdd.949](https://doi.org/10.1002/cpdd.949). 발효 제형이 진세노사이드 CK 생체이용률 높임.
+[^6]: A double-blind crossover study evaluating the efficacy of korean red ginseng in patients with erectile dysfunction: a preliminary report. 임상시험, 45명. DOI: [10.1016/S0022-5347(05)64298-X](https://doi.org/10.1016/S0022-5347(05)64298-X). 발기부전 성기능 지수·음경 강직도 개선.
+[^7]: Study of the efficacy of Korean Red Ginseng in the treatment of erectile dysfunction. 임상시험, 60명. DOI: [10.1111/j.1745-7262.2007.00210.x](https://doi.org/10.1111/j.1745-7262.2007.00210.x). 경증·중등도 발기부전 개선, 침습 치료 대안.
+[^8]: The effect of ginseng extract on fatigue in cancer survivors: a randomized double-blind clinical trial. 임상시험, 65명. DOI: [10.1007/s00520-026-10398-3](https://doi.org/10.1007/s00520-026-10398-3). 암 관련 피로 유의 감소·내약성 우수.
+[^9]: Efficacy and safety of Korean red ginseng as adjunctive therapy in type 2 diabetes mellitus. 임상시험, 70명. DOI: [10.1016/j.jgr.2026.101068](https://doi.org/10.1016/j.jgr.2026.101068). 인슐린 민감도·지질·산화 스트레스 개선.
+[^10]: Korean red ginseng improves blood pressure stability in patients with intradialytic hypotension. 임상시험, 38명. DOI: [10.1155/2012/595271](https://doi.org/10.1155/2012/595271). 투석 중 저혈압 빈도 유의 감소.
+[^11]: Effects of red ginseng upon vascular endothelial function in patients with essential hypertension. 임상시험, 27명. DOI: [10.1142/S0192415X00000258](https://doi.org/10.1142/S0192415X00000258). 혈관 내피 기능 개선.
+[^12]: The effects of G1899 Korean red ginseng extract powder on long COVID for acute COVID19 infection. 임상시험, 216명. DOI: [10.1016/j.jgr.2025.04.007](https://doi.org/10.1016/j.jgr.2025.04.007). Long COVID 피로 완화·면역 균형 유지.
+[^13]: Anti-fatigue effects of Korean Red Ginseng extract in healthy Japanese adults. 임상시험, 46명. DOI: [10.1016/j.jgr.2024.12.003](https://doi.org/10.1016/j.jgr.2024.12.003). 주관적 피로도 유의 감소.
+[^14]: Effect of Korean red ginseng on psychological functions in patients with severe climacteric syndromes. 임상시험, 20명. DOI: [10.1016/s0020-7292(99)00168-x](https://doi.org/10.1016/s0020-7292(99)00168-x). 갱년기 피로·불면·우울 개선.
+[^15]: Adjuvant effects of fermented red ginseng extract on advanced non-small cell lung cancer patients treated with chemotherapy. 임상시험, 60명. DOI: [10.1007/s11655-015-2146-x](https://doi.org/10.1007/s11655-015-2146-x). 화학요법 피로·삶의 질 개선.
+[^16]: Efficacy of Ninjin'yoeito in Adjuvant Chemotherapy for Colorectal Cancer. 관찰연구, 58명. DOI: [10.23922/jarc.2025-075](https://doi.org/10.23922/jarc.2025-075). 식욕부진·피로·CIPN 감소, RDI 증가.
+[^17]: Effect of Korean Red Ginseng on Cholesterol Metabolites in Postmenopausal Women with Hypercholesterolemia. 임상시험, 68명. DOI: [10.3390/nu12113423](https://doi.org/10.3390/nu12113423). 콜레스테롤·염증 지표 유의 감소.
+[^18]: Effects of Korean Red Ginseng (Panax ginseng C.A. Meyer) on Menopausal Symptoms in Premenopausal Women After Gynecologic Cancer Surgery. 임상시험, 55명. DOI: [10.1089/acm.2019.0429](https://doi.org/10.1089/acm.2019.0429). 수술 후 성적 불만 개선 가능.
+[^19]: Safety and Effectiveness of Ninjin'yoeito: A Utilization Study in Elderly Patients. 관찰연구, 808명. DOI: [10.3389/fnut.2019.00014](https://doi.org/10.3389/fnut.2019.00014). 고령 환자 피로·식욕부진·노쇠 지표 개선.
+[^20]: Relationship between the severity of pre-frailty and the degree of adaptation of Ninjin'yoeito (NYT) on pre-frailty. 관찰연구, 314명. DOI: [10.3389/fragi.2024.1304217](https://doi.org/10.3389/fragi.2024.1304217). 전노쇠 단계 조기 예방 중재 가능성.
+[^21]: Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. 체계적 고찰. DOI: [10.1345/aph.10031](https://doi.org/10.1345/aph.10031). 인삼·와파린 병용 시 항응고 효과 감소 가능성.
+[^22]: Functional foods: How functional are they? A case report of supplement-induced psychosis. 증례, 1명. DOI: [10.1177/0091217417696733](https://doi.org/10.1177/0091217417696733). 건강기능식품 복합 복용 시 정신병적 삽화 유발 가능성.
 
 ## 미충족 근거 / 추가 연구 필요
 
 - 인삼(人蔘)은 면역·피로·암 지지요법·대사·성기능 등에서 풍부한 근거가 축적되어 있으나, 제형·용량·진세노사이드 성분 프로필의 표준화가 부족해 개별 연구 간 이질성이 있다.[^4][^8]
-- 갱년기 증상·정액 질 개선 등 일부 영역에서는 분석된 연구의 질적 수준이 낮고 편향 위험이 높아, 현재 근거 수준으로는 임상적 결론을 내리기에 아직 연구가 충분하지 않다. 추후 더 많은 대규모 무작위 대조시험·체계적 고찰이 필요하다.[^23]
-- 검색으로 확보한 논문 중 일부는 인삼(人蔘)이 아닌 다른 약재(황기·은행엽·마황 등)나 인삼 성분의 실험·전임상 연구를 주로 다루어, 주제와의 관련성·인체 근거 수준이 낮아 각주에서 제외하였다.
+- 갱년기 증상·정액 질 개선 등 일부 영역에서는 분석된 연구의 질적 수준이 낮고 편향 위험이 높아, 현재 근거로는 임상적 결론을 내리기에 아직 연구가 충분하지 않다. 추후 더 많은 대규모 무작위 대조시험·체계적 고찰이 필요하다.[^23]
+- 검색으로 확보한 논문 중 일부는 인삼(人蔘)이 아닌 다른 약재(황기·은행엽·마황 등)나 인삼 성분의 실험·전임상 연구를 주로 다루어, 주제와의 관련성이 낮아 각주에서 제외하였다.
 - 인삼양영탕(人蔘養榮湯) 등 인삼 함유 복합 처방의 근거는 개별 본초로서의 인삼 효과와 구분하여 해석해야 하며, 처방 맥락에 따른 해석이 필요하다.[^4]
 
-[^23]: Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials. 체계적 고찰. DOI: [10.5142/jgr.2013.37.30](https://doi.org/10.5142/jgr.2013.37.30). 근거수준: 중등도. 갱년기 증상 개선 가능성, 연구 질 낮음.
+[^23]: Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials. 체계적 고찰. DOI: [10.5142/jgr.2013.37.30](https://doi.org/10.5142/jgr.2013.37.30). 갱년기 증상 개선 가능성, 연구 질 낮음.

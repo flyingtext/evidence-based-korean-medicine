@@ -1,6 +1,6 @@
 # 건선(乾癬, Psoriasis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험(RCT) 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: L40 (건선) — 건선(psoriasis)은 KCD-8 기준 **L40(건선)**에 해당하며, 한의학 안이비인후피부과(피부과)의 대표 질환으로 편제한다. 하위 유형으로 보통 건선(L40.0), 전신성 농포성 건선(L40.1), 수장족저농포증(L40.3), 관절병성 건선(L40.5), 기타 건선(L40.8) 등이 있다.
 
 ## 개요
@@ -86,7 +86,7 @@
 
 ## 예후
 
-건선은 만성·재발성 질환으로 장기적인 관리가 중요하다. 한약·침·뜸·부항·매선·이침 등 한의 중재는 PASI·DLQI를 개선하고 재발을 늦추는 데 기여할 수 있다.[^4][^5][^6][^7][^8][^9] 다만 개별 한약 제제·침법의 근거는 상당 부분 소규모 임상시험·증례·프로토콜에 의존하며, 일부 메타분석에서는 근거 수준이 낮아 확정적 결론에는 한계가 있다.[^32] 침·부항·한약은 약물 부작용이 우려되는 환자에게 유용한 대안이 될 수 있다.[^6][^7][^8]
+건선은 만성·재발성 질환으로 장기적인 관리가 중요하다. 한약·침·뜸·부항·매선·이침 등 한의 중재는 PASI·DLQI를 개선하고 재발을 늦추는 데 기여할 수 있다.[^4][^5][^6][^7][^8][^9] 다만 개별 한약 제제·침법의 근거는 상당 부분 소규모 임상시험·증례·프로토콜에 의존하며, 일부 메타분석에서는 확정적 결론에는 한계가 있다.[^32] 침·부항·한약은 약물 부작용이 우려되는 환자에게 유용한 대안이 될 수 있다.[^6][^7][^8]
 
 ## 관리
 
@@ -121,57 +121,57 @@
 - 약재/처방: 궐음과립(JYG)·PSORI-CM01·수각지황탕(水角地黃湯)·양혈윤조탕(養血潤燥湯)·십미패독탕(十味敗毒湯)·청대(靑黛)·뇌공등(Tripterygium)·피부병혈독환·지음정·주황립 제2호·고본거습화어방(固本祛濕化瘀方)·금은화·연교·생지황·지모·판람근·목단피·현삼[^4][^5][^10][^11][^13][^23][^25][^26][^29][^30][^31][^43][^48]
 
 [^1]: 한의학 건선 변증·치료 이론(혈열·혈어·혈조·습열·간울화화) 및 복합 요법 근거. 근거 미확인(교과서적 임상 이론) 및 다수 임상시험·증례.
-[^2]: Study on TCM Syndrome Differentiation and Treatment of Psoriasis. 문헌고찰. DOI: [10.53469/jcmp.2025.07(07).26](https://doi.org/10.53469/jcmp.2025.07(07).26). 근거수준: 중등도. 혈 중심 변증시치와 서의 병행이 효과적.
-[^3]: Traditional Chinese medicine in dermatology. 문헌고찰. DOI: [10.1046/j.1529-8019.2003.01617.x](https://doi.org/10.1046/j.1529-8019.2003.01617.x) · PMID: 12919111. 근거수준: 중등도. 한의학이 건선·아토피에 보조적 적용.
-[^4]: Efficacy and Key Materials of East Asian Herbal Medicine Combined with Conventional Medicine on Inflammatory Skin Lesion in Patients with Psoriasis Vulgaris. 메타분석, 11139명. DOI: [10.3390/ph16081160](https://doi.org/10.3390/ph16081160) · PMID: 37631075. 근거수준: 높음. 한약+현대 의학 병용이 PASI 개선·염증 완화에 효과적·안전.
-[^5]: Oral Administration of East Asian Herbal Medicine for Inflammatory Skin Lesions in Plaque Psoriasis. 메타분석, 4966명. DOI: [10.3390/nu14122434](https://doi.org/10.3390/nu14122434) · PMID: 35745164. 근거수준: 높음. 한약 단독이 PASI·삶의 질 개선, 이상반응 적음.
-[^6]: Acupuncture-Related Techniques for Psoriasis: A Systematic Review with Pairwise and Network Meta-Analyses of Randomized Controlled Trials. 메타분석, 1060명. DOI: [10.1089/acm.2016.0158](https://doi.org/10.1089/acm.2016.0158) · PMID: 28628749. 근거수준: 높음. 지압·매선이 건선 증상 개선에 효과적.
-[^7]: Moving cupping therapy for plaque psoriasis: A PRISMA-compliant study of 16 randomized controlled trials. 메타분석, 1164명. DOI: [10.1097/MD.0000000000022539](https://doi.org/10.1097/MD.0000000000022539) · PMID: 33031296. 근거수준: 높음. 이동식 부항이 염증·판 두께 감소, 재발률 저하.
-[^8]: Bloodletting cupping combined with conventional measures therapy for psoriasis. 메타분석. DOI: [10.3389/fmed.2023.1132928](https://doi.org/10.3389/fmed.2023.1132928). 근거수준: 높음. 습식 부항 병행이 유효율·PASI·DLQI 개선.
-[^9]: An overview of acupuncture for psoriasis vulgaris, 2009-2014. 문헌고찰. DOI: [10.1080/09546634.2016.1224801](https://doi.org/10.1080/09546634.2016.1224801) · PMID: 27631690. 근거수준: 중등도. 침·뜸·부항·약침이 부작용 적은 보완 요법.
-[^10]: Efficacy and safety of common Chinese herbal medicines in treating psoriasis. 메타분석, 3675명. DOI: [10.3389/fphar.2026.1718564](https://doi.org/10.3389/fphar.2026.1718564) · PMID: 41800105. 근거수준: 높음. 한약이 다양한 건선 유형의 PASI·DLQI 개선.
-[^11]: Jumihaidokuto (Shi-Wei-Ba-Du-Tang), a Kampo Formula, Decreases the Disease Activity of Palmoplantar Pustulosis. 임상시험, 10명. DOI: [10.1155/2016/4060673](https://doi.org/10.1155/2016/4060673) · PMID: 27143961. 근거수준: 중등도. 십미패독탕이 수장족저농포증 병변 감소.
-[^12]: The therapeutic potential of natural products for pediatric psoriasis. 문헌고찰. DOI: [10.3389/fped.2026.1834627](https://doi.org/10.3389/fped.2026.1834627) · PMID: 42422443. 근거수준: 중등도. 천연물이 소아 건선 면역 미세환경 조절.
-[^13]: A clinical study on treatment of senile psoriasis by replenishing qi to activate blood. 임상시험, 40명. PMID: [15510803](https://pubmed.ncbi.nlm.nih.gov/15510803/). 근거수준: 중등도. 보기활혈이 노인성 건선 면역·혈액 순환 개선.
-[^14]: The Immunomodulatory Effects and Mechanisms of a Herbal Formula on Psoriasis 2397. 증례, 1명. DOI: [10.1093/jimmun/vkaf283.322](https://doi.org/10.1093/jimmun/vkaf283.322). 근거수준: 낮음. 한방 연고가 IL-17·TNF-α 억제.
-[^15]: Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis. 관찰연구, 95명. PMID: [39038330](https://pubmed.ncbi.nlm.nih.gov/39038330/). 근거수준: 중등도. 금은화·연교·생지황이 IL-17·TNF 경로 억제.
-[^16]: Relationship between syndrome differentiation-typing and expression of platelet-activation molecule CD62P and CD63 on platelets in psoriatic patients. 관찰연구, 67명. PMID: [10322863](https://pubmed.ncbi.nlm.nih.gov/10322863/). 근거수준: 중등도. 혈어 단계에서 CD62P·CD63 발현 최고.
-[^17]: Kirenol, a diterpene active component from Siegesbeckia orientalis, alleviates atopic dermatitis by suppressing TYK2. 실험연구, 9명. DOI: [10.1016/j.intimp.2026.116938](https://doi.org/10.1016/j.intimp.2026.116938) · PMID: 42235317. 근거수준: 낮음. 키레놀이 TYK2 억제로 피부 염증 완화.
-[^18]: A Symptom Differentiation based on Prospective pre-post intervention design and multiple regression analysis in Korean medicine. 관찰연구, 117명. DOI: [10.13048/jkm.23012](https://doi.org/10.13048/jkm.23012). 근거수준: 중등도. 가족력·계절성·발한이 양허·혈열 변증 결정.
-[^19]: Chinese medicine as comprehensive therapy for psoriasis: A case report. 증례, 1명. DOI: [10.1097/MD.0000000000040747](https://doi.org/10.1097/MD.0000000000040747) · PMID: 39612407. 근거수준: 낮음. 한약이 피부 증상·전신 대사 지표 동시 개선.
-[^20]: Köebner phenomenon induced by cupping therapy in a psoriasis patient. 증례, 1명. PMID: [24011324](https://pubmed.ncbi.nlm.nih.gov/24011324/). 근거수준: 낮음. 부항이 쾨브너 현상 유발 가능.
-[^21]: Paradoxical, Cupping-Induced Localized Psoriasis: A Koebner Phenomenon. 증례, 1명. DOI: [10.2310/7750.2014.14109](https://doi.org/10.2310/7750.2014.14109) · PMID: 25775648. 근거수준: 낮음. 부항이 쾨브너 현상 유발 가능.
-[^22]: Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis. 체계적 고찰. DOI: [10.3390/medicina57050410](https://doi.org/10.3390/medicina57050410) · PMID: 33922733. 근거수준: 중등도. 심리·명상 유용, 부항은 쾨브너 현상 주의.
-[^23]: Efficacy and safety of Jueyin granules for patients with mild-to-moderate psoriasis vulgaris. 임상시험, 195명. DOI: [10.1016/j.jep.2025.120848](https://doi.org/10.1016/j.jep.2025.120848) · PMID: 41203092. 근거수준: 높음. 궐음과립이 혈열증 건선의 PASI·BSA 개선.
-[^24]: Clinical heterogeneity in psoriasis and the predictive efficacy of traditional Chinese medicine. 관찰연구, 1357명. DOI: [10.1016/j.joim.2026.07.003](https://doi.org/10.1016/j.joim.2026.07.003) · PMID: 42527213. 근거수준: 중등도. 혈어증 환자에서 삶의 질·가려움 개선 우수.
-[^25]: Impact of secukinumab with modified nourishing blood and moisturising decoction on superficial fungal infections in patients with psoriasis with blood-dryness pattern. 임상시험, 216명. DOI: [10.12968/jowc.2024.0452](https://doi.org/10.12968/jowc.2024.0452) · PMID: 41528783. 근거수준: 중등도. 양혈윤조탕 병용이 진균 감염 위험 저하.
-[^26]: Clinical study on effect of zhuhuang granule no. 2 in treating psoriasis with liver-qi stagnancy. 임상시험, 67명. PMID: [12577354](https://pubmed.ncbi.nlm.nih.gov/12577354/). 근거수준: 중등도. 주황립 제2호가 간기울결 건선 유효율 향상.
-[^27]: Oral PSORI-CM01, a Chinese herbal formula, plus topical sequential therapy for moderate-to-severe psoriasis vulgaris. 임상시험, 16명. DOI: [10.1186/s13063-016-1272-x](https://doi.org/10.1186/s13063-016-1272-x) · PMID: 26983642. 근거수준: 중등도. PSORI-CM01 병용이 재발률 저하 경향.
-[^28]: Exploration of the Regulatory Effects of PSORI-CM01 and Yin Xie Ling on microRNAs in the Peripheral Blood Monocytes of Patients with Blood Stasis Syndrome of Psoriasis Vulgaris. 임상시험. DOI: [10.21203/rs.3.rs-62188/v1](https://doi.org/10.21203/rs.3.rs-62188/v1). 근거수준: 중등도. PSORI-CM01·은사령이 microRNA 조절.
-[^29]: Treating steroid-dependent psoriasis from the blood-heat syndrome perspective: A case report. 증례, 1명. DOI: [10.1097/MD.0000000000045926](https://doi.org/10.1097/MD.0000000000045926) · PMID: 41204471. 근거수준: 낮음. 수각지황탕 가감방이 장기 관해 유도.
-[^30]: Evidence and potential mechanism of action of indigo naturalis and its active components in the treatment of psoriasis. 체계적 고찰. DOI: [10.1080/07853890.2024.2329261](https://doi.org/10.1080/07853890.2024.2329261) · PMID: 39316667. 근거수준: 높음. 청대가 PASI60 반응률 증가, 위장관 부작용 주의.
-[^31]: Efficacy and safety of Tripterygium agents in treatment of psoriasis. 메타분석. DOI: [10.1016/j.phymed.2026.158470](https://doi.org/10.1016/j.phymed.2026.158470) · PMID: 42378804. 근거수준: 높음. 뇌공등 병용이 PASI 저하, 독성 관리 필요.
-[^32]: Efficacy and Safety of Orally Administered East Asian Herbal Medicine Combined with Narrowband Ultraviolet B against Psoriasis. 메타분석, 3521명. DOI: [10.3390/nu16162690](https://doi.org/10.3390/nu16162690) · PMID: 39203826. 근거수준: 높음. NB-UVB+한약 병용이 PASI·DLQI 개선에 우수.
-[^33]: Treatment for an Adult Patient With Psoriasis with Traditional Korean Medicine, Especially Sa-Am Acupuncture and Herbal Medicine. 증례, 1명. DOI: [10.1016/j.jams.2016.01.008](https://doi.org/10.1016/j.jams.2016.01.008) · PMID: 27079230. 근거수준: 낮음. 사암침+한약이 14개월 만에 증상 소실.
-[^34]: Exploring the treatment strategy of liver-regulating wood-softening acupuncture method for psoriasis vulgaris. 증례. DOI: [10.13703/j.0255-2930.20230904-k0003](https://doi.org/10.13703/j.0255-2930.20230904-k0003) · PMID: 38764111. 근거수준: 낮음. 간조절유목법 단계별 침치료 전략.
-[^35]: Meridian three-combined therapy for treatment of ordinary psoriasis. 임상시험, 233명. PMID: [19358497](https://pubmed.ncbi.nlm.nih.gov/19358497/). 근거수준: 중등도. 매선·사혈·이점압이 병변 감소, 부작용 적음.
-[^36]: Acupuncture combined with auricle cutting method for blood stasis-type psoriasis. 임상시험, 56명. PMID: [25022114](https://pubmed.ncbi.nlm.nih.gov/25022114/). 근거수준: 중등도. 침+이절법 병행이 혈어형 건선 개선.
-[^37]: Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis. 임상시험. DOI: [10.1097/md.0000000000035726](https://doi.org/10.1097/md.0000000000035726). 근거수준: 중등도. 독맥구가 PASI·DLQI 개선.
-[^38]: The sliding cupping therapy as an alternative strategy for treating plaque psoriasis. 임상시험, 60명. DOI: [10.1097/MD.0000000000048111](https://doi.org/10.1097/MD.0000000000048111) · PMID: 41861208. 근거수준: 중등도. 이동식 부항이 NBUVB와 유사한 효능·안전성.
-[^39]: Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis. 체계적 고찰. DOI: [10.3390/medicina57050410](https://doi.org/10.3390/medicina57050410) · PMID: 33922733. 근거수준: 중등도. 심리·명상 유용, 부항은 쾨브너 현상 주의.
-[^40]: Auricular acupressure as a complementary therapy for psoriasis vulgaris. 임상시험(프로토콜), 180명. DOI: [10.1186/s13063-019-3475-4](https://doi.org/10.1186/s13063-019-3475-4) · PMID: 31208470. 근거수준: 프로토콜. 이침 압박 보조 요법 평가 프로토콜.
-[^41]: Analysis of research trends on microneedle patches loaded pharmacopuncture preparation. 체계적 고찰. DOI: [10.13048/jkm.24032](https://doi.org/10.13048/jkm.24032). 근거수준: 중등도. 약침 마이크로니들 패치가 피부 질환 적용 가능.
-[^42]: Integrated Management of Psoriasis: From Targeted Biologics to Adjunctive Traditional Chinese Medicine Therapies. 문헌고찰. DOI: [10.53469/jcmp.2026.08(01).08](https://doi.org/10.53469/jcmp.2026.08(01).08). 근거수준: 중등도. 한의학 병행 통합 관리가 생물학적 제제 보완.
-[^43]: Chinese herbal medicine (Guben Qushi Huayu formula) combined with Ixekizumab in reducing psoriasis vulgaris relapse. 임상시험(프로토콜), 50명. DOI: [10.3389/fphar.2025.1551001](https://doi.org/10.3389/fphar.2025.1551001). 근거수준: 프로토콜. 고본거습화어방이 재발률 저하 프로토콜.
-[^44]: Complementary medicine and psoriasis: linking the patient's outlook with evidence-based medicine. 관찰연구, 77명. DOI: [10.1159/000073094](https://doi.org/10.1159/000073094) · PMID: 14571074. 근거수준: 중등도. 건선 환자 62%가 CAM 사용, 의사와 논의 부족.
-[^45]: Change in the Usage of Complementary and Alternative Medicine in the Era of Biologics Among Korean Patients With Psoriasis. 관찰연구, 207명. DOI: [10.3346/jkms.2023.38.e204](https://doi.org/10.3346/jkms.2023.38.e204) · PMID: 37401497. 근거수준: 중등도. 한국 건선 환자 CAM 사용 67.6%, 한방 이용률 최고.
-[^46]: A survey of psoriasis patients in Japan from 1982 to 2001. 관찰연구, 28628명. DOI: [10.1016/s0923-1811(02)00142-1](https://doi.org/10.1016/s0923-1811(02)00142-1) · PMID: 12615365. 근거수준: 중등도. 일본 건선 환자에서 한약 사용 빈도 14.2%.
-[^47]: Acute methyl salicylate toxicity complicating herbal skin treatment for psoriasis. 증례, 1명. DOI: [10.1046/j.1442-2026.2003.00316.x](https://doi.org/10.1046/j.1442-2026.2003.00316.x) · PMID: 12147116. 근거수준: 낮음. 외용제 과다 흡수로 살리실산 중독 경고.
-[^48]: Efficacy and Key Materials of East Asian Herbal Medicine Combined with Conventional Medicine on Inflammatory Skin Lesion in Patients with Psoriasis Vulgaris. 메타분석, 11139명. DOI: [10.3390/ph16081160](https://doi.org/10.3390/ph16081160) · PMID: 37631075. 근거수준: 높음. 지모·판람근·목단피·현삼이 핵심 약재.
+[^2]: Study on TCM Syndrome Differentiation and Treatment of Psoriasis. 문헌고찰. DOI: [10.53469/jcmp.2025.07(07).26](https://doi.org/10.53469/jcmp.2025.07(07).26). 혈 중심 변증시치와 서의 병행이 효과적.
+[^3]: Traditional Chinese medicine in dermatology. 문헌고찰. DOI: [10.1046/j.1529-8019.2003.01617.x](https://doi.org/10.1046/j.1529-8019.2003.01617.x) · PMID: 12919111. 한의학이 건선·아토피에 보조적 적용.
+[^4]: Efficacy and Key Materials of East Asian Herbal Medicine Combined with Conventional Medicine on Inflammatory Skin Lesion in Patients with Psoriasis Vulgaris. 메타분석, 11139명. DOI: [10.3390/ph16081160](https://doi.org/10.3390/ph16081160) · PMID: 37631075. 한약+현대 의학 병용이 PASI 개선·염증 완화에 효과적·안전.
+[^5]: Oral Administration of East Asian Herbal Medicine for Inflammatory Skin Lesions in Plaque Psoriasis. 메타분석, 4966명. DOI: [10.3390/nu14122434](https://doi.org/10.3390/nu14122434) · PMID: 35745164. 한약 단독이 PASI·삶의 질 개선, 이상반응 적음.
+[^6]: Acupuncture-Related Techniques for Psoriasis: A Systematic Review with Pairwise and Network Meta-Analyses of Randomized Controlled Trials. 메타분석, 1060명. DOI: [10.1089/acm.2016.0158](https://doi.org/10.1089/acm.2016.0158) · PMID: 28628749. 지압·매선이 건선 증상 개선에 효과적.
+[^7]: Moving cupping therapy for plaque psoriasis: A PRISMA-compliant study of 16 randomized controlled trials. 메타분석, 1164명. DOI: [10.1097/MD.0000000000022539](https://doi.org/10.1097/MD.0000000000022539) · PMID: 33031296. 이동식 부항이 염증·판 두께 감소, 재발률 저하.
+[^8]: Bloodletting cupping combined with conventional measures therapy for psoriasis. 메타분석. DOI: [10.3389/fmed.2023.1132928](https://doi.org/10.3389/fmed.2023.1132928). 습식 부항 병행이 유효율·PASI·DLQI 개선.
+[^9]: An overview of acupuncture for psoriasis vulgaris, 2009-2014. 문헌고찰. DOI: [10.1080/09546634.2016.1224801](https://doi.org/10.1080/09546634.2016.1224801) · PMID: 27631690. 침·뜸·부항·약침이 부작용 적은 보완 요법.
+[^10]: Efficacy and safety of common Chinese herbal medicines in treating psoriasis. 메타분석, 3675명. DOI: [10.3389/fphar.2026.1718564](https://doi.org/10.3389/fphar.2026.1718564) · PMID: 41800105. 한약이 다양한 건선 유형의 PASI·DLQI 개선.
+[^11]: Jumihaidokuto (Shi-Wei-Ba-Du-Tang), a Kampo Formula, Decreases the Disease Activity of Palmoplantar Pustulosis. 임상시험, 10명. DOI: [10.1155/2016/4060673](https://doi.org/10.1155/2016/4060673) · PMID: 27143961. 십미패독탕이 수장족저농포증 병변 감소.
+[^12]: The therapeutic potential of natural products for pediatric psoriasis. 문헌고찰. DOI: [10.3389/fped.2026.1834627](https://doi.org/10.3389/fped.2026.1834627) · PMID: 42422443. 천연물이 소아 건선 면역 미세환경 조절.
+[^13]: A clinical study on treatment of senile psoriasis by replenishing qi to activate blood. 임상시험, 40명. PMID: [15510803](https://pubmed.ncbi.nlm.nih.gov/15510803/). 보기활혈이 노인성 건선 면역·혈액 순환 개선.
+[^14]: The Immunomodulatory Effects and Mechanisms of a Herbal Formula on Psoriasis 2397. 증례, 1명. DOI: [10.1093/jimmun/vkaf283.322](https://doi.org/10.1093/jimmun/vkaf283.322). 한방 연고가 IL-17·TNF-α 억제.
+[^15]: Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis. 관찰연구, 95명. PMID: [39038330](https://pubmed.ncbi.nlm.nih.gov/39038330/). 금은화·연교·생지황이 IL-17·TNF 경로 억제.
+[^16]: Relationship between syndrome differentiation-typing and expression of platelet-activation molecule CD62P and CD63 on platelets in psoriatic patients. 관찰연구, 67명. PMID: [10322863](https://pubmed.ncbi.nlm.nih.gov/10322863/). 혈어 단계에서 CD62P·CD63 발현 최고.
+[^17]: Kirenol, a diterpene active component from Siegesbeckia orientalis, alleviates atopic dermatitis by suppressing TYK2. 실험연구, 9명. DOI: [10.1016/j.intimp.2026.116938](https://doi.org/10.1016/j.intimp.2026.116938) · PMID: 42235317. 키레놀이 TYK2 억제로 피부 염증 완화.
+[^18]: A Symptom Differentiation based on Prospective pre-post intervention design and multiple regression analysis in Korean medicine. 관찰연구, 117명. DOI: [10.13048/jkm.23012](https://doi.org/10.13048/jkm.23012). 가족력·계절성·발한이 양허·혈열 변증 결정.
+[^19]: Chinese medicine as comprehensive therapy for psoriasis: A case report. 증례, 1명. DOI: [10.1097/MD.0000000000040747](https://doi.org/10.1097/MD.0000000000040747) · PMID: 39612407. 한약이 피부 증상·전신 대사 지표 동시 개선.
+[^20]: Köebner phenomenon induced by cupping therapy in a psoriasis patient. 증례, 1명. PMID: [24011324](https://pubmed.ncbi.nlm.nih.gov/24011324/). 부항이 쾨브너 현상 유발 가능.
+[^21]: Paradoxical, Cupping-Induced Localized Psoriasis: A Koebner Phenomenon. 증례, 1명. DOI: [10.2310/7750.2014.14109](https://doi.org/10.2310/7750.2014.14109) · PMID: 25775648. 부항이 쾨브너 현상 유발 가능.
+[^22]: Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis. 체계적 고찰. DOI: [10.3390/medicina57050410](https://doi.org/10.3390/medicina57050410) · PMID: 33922733. 심리·명상 유용, 부항은 쾨브너 현상 주의.
+[^23]: Efficacy and safety of Jueyin granules for patients with mild-to-moderate psoriasis vulgaris. 임상시험, 195명. DOI: [10.1016/j.jep.2025.120848](https://doi.org/10.1016/j.jep.2025.120848) · PMID: 41203092. 궐음과립이 혈열증 건선의 PASI·BSA 개선.
+[^24]: Clinical heterogeneity in psoriasis and the predictive efficacy of traditional Chinese medicine. 관찰연구, 1357명. DOI: [10.1016/j.joim.2026.07.003](https://doi.org/10.1016/j.joim.2026.07.003) · PMID: 42527213. 혈어증 환자에서 삶의 질·가려움 개선 우수.
+[^25]: Impact of secukinumab with modified nourishing blood and moisturising decoction on superficial fungal infections in patients with psoriasis with blood-dryness pattern. 임상시험, 216명. DOI: [10.12968/jowc.2024.0452](https://doi.org/10.12968/jowc.2024.0452) · PMID: 41528783. 양혈윤조탕 병용이 진균 감염 위험 저하.
+[^26]: Clinical study on effect of zhuhuang granule no. 2 in treating psoriasis with liver-qi stagnancy. 임상시험, 67명. PMID: [12577354](https://pubmed.ncbi.nlm.nih.gov/12577354/). 주황립 제2호가 간기울결 건선 유효율 향상.
+[^27]: Oral PSORI-CM01, a Chinese herbal formula, plus topical sequential therapy for moderate-to-severe psoriasis vulgaris. 임상시험, 16명. DOI: [10.1186/s13063-016-1272-x](https://doi.org/10.1186/s13063-016-1272-x) · PMID: 26983642. PSORI-CM01 병용이 재발률 저하 경향.
+[^28]: Exploration of the Regulatory Effects of PSORI-CM01 and Yin Xie Ling on microRNAs in the Peripheral Blood Monocytes of Patients with Blood Stasis Syndrome of Psoriasis Vulgaris. 임상시험. DOI: [10.21203/rs.3.rs-62188/v1](https://doi.org/10.21203/rs.3.rs-62188/v1). PSORI-CM01·은사령이 microRNA 조절.
+[^29]: Treating steroid-dependent psoriasis from the blood-heat syndrome perspective: A case report. 증례, 1명. DOI: [10.1097/MD.0000000000045926](https://doi.org/10.1097/MD.0000000000045926) · PMID: 41204471. 수각지황탕 가감방이 장기 관해 유도.
+[^30]: Evidence and potential mechanism of action of indigo naturalis and its active components in the treatment of psoriasis. 체계적 고찰. DOI: [10.1080/07853890.2024.2329261](https://doi.org/10.1080/07853890.2024.2329261) · PMID: 39316667. 청대가 PASI60 반응률 증가, 위장관 부작용 주의.
+[^31]: Efficacy and safety of Tripterygium agents in treatment of psoriasis. 메타분석. DOI: [10.1016/j.phymed.2026.158470](https://doi.org/10.1016/j.phymed.2026.158470) · PMID: 42378804. 뇌공등 병용이 PASI 저하, 독성 관리 필요.
+[^32]: Efficacy and Safety of Orally Administered East Asian Herbal Medicine Combined with Narrowband Ultraviolet B against Psoriasis. 메타분석, 3521명. DOI: [10.3390/nu16162690](https://doi.org/10.3390/nu16162690) · PMID: 39203826. NB-UVB+한약 병용이 PASI·DLQI 개선에 우수.
+[^33]: Treatment for an Adult Patient With Psoriasis with Traditional Korean Medicine, Especially Sa-Am Acupuncture and Herbal Medicine. 증례, 1명. DOI: [10.1016/j.jams.2016.01.008](https://doi.org/10.1016/j.jams.2016.01.008) · PMID: 27079230. 사암침+한약이 14개월 만에 증상 소실.
+[^34]: Exploring the treatment strategy of liver-regulating wood-softening acupuncture method for psoriasis vulgaris. 증례. DOI: [10.13703/j.0255-2930.20230904-k0003](https://doi.org/10.13703/j.0255-2930.20230904-k0003) · PMID: 38764111. 간조절유목법 단계별 침치료 전략.
+[^35]: Meridian three-combined therapy for treatment of ordinary psoriasis. 임상시험, 233명. PMID: [19358497](https://pubmed.ncbi.nlm.nih.gov/19358497/). 매선·사혈·이점압이 병변 감소, 부작용 적음.
+[^36]: Acupuncture combined with auricle cutting method for blood stasis-type psoriasis. 임상시험, 56명. PMID: [25022114](https://pubmed.ncbi.nlm.nih.gov/25022114/). 침+이절법 병행이 혈어형 건선 개선.
+[^37]: Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis. 임상시험. DOI: [10.1097/md.0000000000035726](https://doi.org/10.1097/md.0000000000035726). 독맥구가 PASI·DLQI 개선.
+[^38]: The sliding cupping therapy as an alternative strategy for treating plaque psoriasis. 임상시험, 60명. DOI: [10.1097/MD.0000000000048111](https://doi.org/10.1097/MD.0000000000048111) · PMID: 41861208. 이동식 부항이 NBUVB와 유사한 효능·안전성.
+[^39]: Mind-Body Interventions as Alternative and Complementary Therapies for Psoriasis. 체계적 고찰. DOI: [10.3390/medicina57050410](https://doi.org/10.3390/medicina57050410) · PMID: 33922733. 심리·명상 유용, 부항은 쾨브너 현상 주의.
+[^40]: Auricular acupressure as a complementary therapy for psoriasis vulgaris. 임상시험(프로토콜), 180명. DOI: [10.1186/s13063-019-3475-4](https://doi.org/10.1186/s13063-019-3475-4) · PMID: 31208470. 이침 압박 보조 요법 평가 프로토콜.
+[^41]: Analysis of research trends on microneedle patches loaded pharmacopuncture preparation. 체계적 고찰. DOI: [10.13048/jkm.24032](https://doi.org/10.13048/jkm.24032). 약침 마이크로니들 패치가 피부 질환 적용 가능.
+[^42]: Integrated Management of Psoriasis: From Targeted Biologics to Adjunctive Traditional Chinese Medicine Therapies. 문헌고찰. DOI: [10.53469/jcmp.2026.08(01).08](https://doi.org/10.53469/jcmp.2026.08(01).08). 한의학 병행 통합 관리가 생물학적 제제 보완.
+[^43]: Chinese herbal medicine (Guben Qushi Huayu formula) combined with Ixekizumab in reducing psoriasis vulgaris relapse. 임상시험(프로토콜), 50명. DOI: [10.3389/fphar.2025.1551001](https://doi.org/10.3389/fphar.2025.1551001). 고본거습화어방이 재발률 저하 프로토콜.
+[^44]: Complementary medicine and psoriasis: linking the patient's outlook with evidence-based medicine. 관찰연구, 77명. DOI: [10.1159/000073094](https://doi.org/10.1159/000073094) · PMID: 14571074. 건선 환자 62%가 CAM 사용, 의사와 논의 부족.
+[^45]: Change in the Usage of Complementary and Alternative Medicine in the Era of Biologics Among Korean Patients With Psoriasis. 관찰연구, 207명. DOI: [10.3346/jkms.2023.38.e204](https://doi.org/10.3346/jkms.2023.38.e204) · PMID: 37401497. 한국 건선 환자 CAM 사용 67.6%, 한방 이용률 최고.
+[^46]: A survey of psoriasis patients in Japan from 1982 to 2001. 관찰연구, 28628명. DOI: [10.1016/s0923-1811(02)00142-1](https://doi.org/10.1016/s0923-1811(02)00142-1) · PMID: 12615365. 일본 건선 환자에서 한약 사용 빈도 14.2%.
+[^47]: Acute methyl salicylate toxicity complicating herbal skin treatment for psoriasis. 증례, 1명. DOI: [10.1046/j.1442-2026.2003.00316.x](https://doi.org/10.1046/j.1442-2026.2003.00316.x) · PMID: 12147116. 외용제 과다 흡수로 살리실산 중독 경고.
+[^48]: Efficacy and Key Materials of East Asian Herbal Medicine Combined with Conventional Medicine on Inflammatory Skin Lesion in Patients with Psoriasis Vulgaris. 메타분석, 11139명. DOI: [10.3390/ph16081160](https://doi.org/10.3390/ph16081160) · PMID: 37631075. 지모·판람근·목단피·현삼이 핵심 약재.
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 한약(궐음과립·PSORI-CM01·수각지황탕 등)의 근거는 일부 소규모 임상시험·증례·프로토콜에 의존하며, 일부 메타분석에서는 근거 수준이 낮은 편이다. 고품질의 대규모 RCT로 확증하는 것이 요구된다.[^32]
+- 한약(궐음과립·PSORI-CM01·수각지황탕 등)의 근거는 일부 소규모 임상시험·증례·프로토콜에 의존하며, 일부 메타분석에서는 신중한 해석이 필요하다. 고품질의 대규모 RCT로 확증하는 것이 요구된다.[^32]
 - 침·뜸·부항·매선·이침 등 침구 요법의 건선 근거는 유망하나, 표준화된 혈위·치료 횟수·기간을 적용한 대규모 이중맹검 무작위 대조 시험이 더 필요하다.[^6][^7][^8]
 - 변증(혈열·혈어·혈조·습열·간울화화) 유형별 치료 반응을 뒷받침하는 기전 연구와 장기 추적 데이터가 아직 부족하다. 변증에 따른 맞춤 한의 중재 근거 마련이 필요하다.[^1][^2][^3]
 - 생물학적 제제와 한약을 병용한 통합 치료의 실제 임상 효능·안전성 연구가 진행 중이며, 결과가 나오면 임상 적용 근거를 강화할 것으로 기대된다.[^42][^43]

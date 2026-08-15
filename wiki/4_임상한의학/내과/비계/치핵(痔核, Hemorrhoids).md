@@ -1,6 +1,6 @@
 # 치핵(痔核, Hemorrhoids)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/임상시험 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: I84 (치핵) — 내치핵(I84.0) · 외치핵(I84.1) · 혼합치핵(I84.2) · 혈전성 외치핵(I84.3) · 잔여 치핵 피부표지(I84.4~I84.7) · 기타/상세불명 치핵(I84.8/I84.9)
 
 ## 개요
@@ -105,34 +105,34 @@
 ## 각주 정의
 
 [^1]: 치핵의 정의·분류·진단 기준. 교과서적 근거. (치상선 기준 내치핵·외치핵·혼합치핵, 내치핵 1~4도 분류)
-[^2]: [Analysis in pulmonary ventilatory function from 100 patients with ano-rectal diseases caused by deficiency of qi]. 관찰연구, 100명. PMID: [11783285](https://pubmed.ncbi.nlm.nih.gov/11783285/). 근거수준: 중등도. 기허 항문-직장 질환에서 폐환기 기능 저하, 흉기하함 병태생리.
-[^3]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 근거수준: 문헌고찰. 수술 후 변비에 한약·외용제·침·마사지 유효.
-[^4]: Comparison of Efficacy Between Thai Herbal Anti-hemorrhoid Formula and Micronized Purified Flavonoid Fraction in Patients with Internal Hemorrhoids. 임상시험(RCT), 27명. DOI: [10.56808/2586-940x.1110](https://doi.org/10.56808/2586-940x.1110). 근거수준: 중등도. BRF가 MPFF보다 치핵 단계 감소·출혈 완화에 유효.
-[^5]: Mechanism of Xiaozhiling injection in the treatment of internal hemorrhoids based on changes in perianal blood flow and rectal submucosal fibers. 실험연구. DOI: [10.4292/wjgpt.v17.i1.113444](https://doi.org/10.4292/wjgpt.v17.i1.113444). 근거수준: 실험연구. 소지령 주사가 콜라겐 섬유 증식으로 내치핵 치료.
-[^6]: Electroacupuncture for postoperative pain in mixed hemorrhoids: A meta-analysis. 메타분석, 465명. DOI: [10.1097/md.0000000000032247](https://doi.org/10.1097/md.0000000000032247). 근거수준: 높음. 전침이 수술 후 통증 점수 유의 감소.
-[^7]: [Acupoint thread-embedding therapy in treatment of postoperative complications of mixed hemorrhoids: a randomized controlled trial]. 임상시험(RCT), 68명. DOI: [10.13703/j.0255-2930.20250620-0003](https://doi.org/10.13703/j.0255-2930.20250620-0003). 근거수준: 중등도. 매선 병행이 통증·부종·삼출물 감소, 불안 완화·수면 질 개선.
-[^8]: [Multicenter, randomized, open-label, and positive-controlled clinical trial of Pien Tze Huang Capsules combined with Compound Pien Tze Huang Hemorrhoid Ointment in postoperative management of mixed hemorrhoids]. 임상시험(RCT), 240명. DOI: [10.19540/j.cnki.cjcmm.20250724.501](https://doi.org/10.19540/j.cnki.cjcmm.20250724.501). 근거수준: 중등도. 편자황 캡슐·연고 병용이 상처 삼출물 유의 감소.
-[^9]: A Review of a selected Ayurvedic herbal formula in the management of Thrombosed External Hemorrhoids (Bāhya Arshas): A critical analysis. 문헌고찰. DOI: [10.30574/gscbps.2023.24.3.0334](https://doi.org/10.30574/gscbps.2023.24.3.0334). 근거수준: 문헌고찰. 혈전성 외치핵에 미모사·강황 페이스트 항염·진통 유효.
-[^10]: Clinical Effectiveness of Acupoint Moxibustion Therapy in Patients with Post-Haemorrhoidectomy Urinary Retention. 관찰연구, 100명. DOI: [10.56434/j.arch.esp.urol.20257809.157](https://doi.org/10.56434/j.arch.esp.urol.20257809.157). 근거수준: 중등도. 기해·관원·신궐 뜸이 요정체 개선·도뇨관 제거 기간 단축.
-[^11]: Progress of Wound Margin Edema after Mixed Hemorrhoids in Traditional Chinese and Western Medicine. 문헌고찰. DOI: [10.53469/jcmp.2024.06(07).37](https://doi.org/10.53469/jcmp.2024.06(07).37). 근거수준: 문헌고찰. 수술 후 상처 가장자리 부종 관리에 통합 접근 필요.
-[^12]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 근거수준: 문헌고찰. 수술 후 변비에 한약·외용제·침·마사지 유효.
-[^13]: Acupuncture relieves postoperative pain of mixed hemorrhoids through the P2X7/ERK axis in dorsal root ganglion. 실험연구, 90명. DOI: [10.1016/j.physbeh.2025.114806](https://doi.org/10.1016/j.physbeh.2025.114806). 근거수준: 실험연구. 침이 P2X7/ERK 경로 조절로 통증·염증·우울감 완화.
-[^14]: Acupuncture alleviates postoperative hemorrhoid pain by modulating the P2X7/ERK pathway. 실험연구. DOI: [10.1007/s11302-025-10115-5](https://doi.org/10.1007/s11302-025-10115-5). 근거수준: 실험연구. 침이 P2X7/ERK 억제로 IL-6·TNF-α 감소.
-[^15]: Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway. 실험연구. DOI: [10.1038/s41598-026-61558-8](https://doi.org/10.1038/s41598-026-61558-8). 근거수준: 실험연구. 보제치창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화.
-[^16]: Efficacy and Safety of Snap Needles in the Treatment of Postoperative Hemorrhoidal Pain: A Systematic Review and Meta-Analysis. 메타분석, 1,188명. DOI: [10.2147/JPR.S464176](https://doi.org/10.2147/JPR.S464176). 근거수준: 높음. 스냅 니들이 통증 감소·상처 치유·통증 소실 시간 단축.
-[^17]: Effect of transcutaneous electrical acupoint stimulation at Zusanli (ST36) on postoperative pain following mixed hemorrhoidectomy: a retrospective study. 관찰연구, 185명. DOI: [10.62347/OCJU5788](https://doi.org/10.62347/OCJU5788). 근거수준: 중등도. 족삼리 TEAS가 NSAIDs 진통 강화·위장 기능 회복 촉진.
-[^18]: [Effect of zhuhuang frost on wound hydroxy-proline level after anal operation]. 임상시험, 50명. PMID: [12577355](https://pubmed.ncbi.nlm.nih.gov/12577355/). 근거수준: 중등도. 주황상 외용제가 하이드록시프롤린 증가로 상처 치유 촉진.
-[^19]: A meta-analysis of the clinical efficacy of the combination of acupuncture and Chinese medicine in the treatment of haemorrhoids. 메타분석, 976명. DOI: [10.3727/036012919x15650315071915](https://doi.org/10.3727/036012919x15650315071915). 근거수준: 높음. 침+중약 병용이 유효율 증가·재발률 감소.
-[^20]: [Clinical observation of electroacupuncture combined with auricular point sticking therapy for anal pain of mixed hemorrhoid after external excision and internal ligation]. 임상시험(RCT), 90명. DOI: [10.13703/j.0255-2930.2018.06.003](https://doi.org/10.13703/j.0255-2930.2018.06.003). 근거수준: 중등도. 전침+이혈 압박 병용이 통증 완화·신체 활동 회복에 유효.
-[^21]: Acupoint catgut embedding reduces postoperative pain of mixed hemorrhoids: a meta-analysis of randomized controlled trials. 메타분석. DOI: [10.37766/inplasy2022.2.0021](https://doi.org/10.37766/inplasy2022.2.0021). 근거수준: 높음. 혈위 매선이 수술 후 통증 조절에 유효.
-[^22]: Efficacy and safety of acupoint catgut embedding in treating postoperative pain of mixed hemorrhoids. 임상시험(RCT). DOI: [10.1097/md.0000000000025948](https://doi.org/10.1097/md.0000000000025948). 근거수준: 중등도. 수술 전 매선이 수술 후 통증 완화·회복 기간 단축 평가.
-[^23]: Three Acupuncture Methods for Postoperative Pain in Mixed Hemorrhoids: A Systematic Review and Network Meta-Analysis. 네트워크 메타분석, 5,121명. DOI: [10.1155/2022/5627550](https://doi.org/10.1155/2022/5627550). 근거수준: 높음. 혈위 도포·이침 플라스터·매선이 진통제보다 통증 감소에 유효, 혈위 도포가 최고 유효성.
-[^24]: Bioactive compound emodin from clinical formula Zhi-Lou-Xun-Xi decoction exerts rapid analgesic effects by targeting TRPV1. 실험연구. DOI: [10.1016/j.phymed.2026.158406](https://doi.org/10.1016/j.phymed.2026.158406). 근거수준: 실험연구. 지루순희탕 에모딘이 TRPV1 억제로 수술 후 통증 완화.
+[^2]: [Analysis in pulmonary ventilatory function from 100 patients with ano-rectal diseases caused by deficiency of qi]. 관찰연구, 100명. PMID: [11783285](https://pubmed.ncbi.nlm.nih.gov/11783285/). 기허 항문-직장 질환에서 폐환기 기능 저하, 흉기하함 병태생리.
+[^3]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 수술 후 변비에 한약·외용제·침·마사지 유효.
+[^4]: Comparison of Efficacy Between Thai Herbal Anti-hemorrhoid Formula and Micronized Purified Flavonoid Fraction in Patients with Internal Hemorrhoids. 임상시험(RCT), 27명. DOI: [10.56808/2586-940x.1110](https://doi.org/10.56808/2586-940x.1110). BRF가 MPFF보다 치핵 단계 감소·출혈 완화에 유효.
+[^5]: Mechanism of Xiaozhiling injection in the treatment of internal hemorrhoids based on changes in perianal blood flow and rectal submucosal fibers. 실험연구. DOI: [10.4292/wjgpt.v17.i1.113444](https://doi.org/10.4292/wjgpt.v17.i1.113444). 소지령 주사가 콜라겐 섬유 증식으로 내치핵 치료.
+[^6]: Electroacupuncture for postoperative pain in mixed hemorrhoids: A meta-analysis. 메타분석, 465명. DOI: [10.1097/md.0000000000032247](https://doi.org/10.1097/md.0000000000032247). 전침이 수술 후 통증 점수 유의 감소.
+[^7]: [Acupoint thread-embedding therapy in treatment of postoperative complications of mixed hemorrhoids: a randomized controlled trial]. 임상시험(RCT), 68명. DOI: [10.13703/j.0255-2930.20250620-0003](https://doi.org/10.13703/j.0255-2930.20250620-0003). 매선 병행이 통증·부종·삼출물 감소, 불안 완화·수면 질 개선.
+[^8]: [Multicenter, randomized, open-label, and positive-controlled clinical trial of Pien Tze Huang Capsules combined with Compound Pien Tze Huang Hemorrhoid Ointment in postoperative management of mixed hemorrhoids]. 임상시험(RCT), 240명. DOI: [10.19540/j.cnki.cjcmm.20250724.501](https://doi.org/10.19540/j.cnki.cjcmm.20250724.501). 편자황 캡슐·연고 병용이 상처 삼출물 유의 감소.
+[^9]: A Review of a selected Ayurvedic herbal formula in the management of Thrombosed External Hemorrhoids (Bāhya Arshas): A critical analysis. 문헌고찰. DOI: [10.30574/gscbps.2023.24.3.0334](https://doi.org/10.30574/gscbps.2023.24.3.0334). 혈전성 외치핵에 미모사·강황 페이스트 항염·진통 유효.
+[^10]: Clinical Effectiveness of Acupoint Moxibustion Therapy in Patients with Post-Haemorrhoidectomy Urinary Retention. 관찰연구, 100명. DOI: [10.56434/j.arch.esp.urol.20257809.157](https://doi.org/10.56434/j.arch.esp.urol.20257809.157). 기해·관원·신궐 뜸이 요정체 개선·도뇨관 제거 기간 단축.
+[^11]: Progress of Wound Margin Edema after Mixed Hemorrhoids in Traditional Chinese and Western Medicine. 문헌고찰. DOI: [10.53469/jcmp.2024.06(07).37](https://doi.org/10.53469/jcmp.2024.06(07).37). 수술 후 상처 가장자리 부종 관리에 통합 접근 필요.
+[^12]: Advances in Clinical Research on Traditional Chinese Medicine for Treating Postoperative Constipation in Mixed Hemorrhoids. 문헌고찰. DOI: [10.53469/jcmp.2025.07(06).22](https://doi.org/10.53469/jcmp.2025.07(06).22). 수술 후 변비에 한약·외용제·침·마사지 유효.
+[^13]: Acupuncture relieves postoperative pain of mixed hemorrhoids through the P2X7/ERK axis in dorsal root ganglion. 실험연구, 90명. DOI: [10.1016/j.physbeh.2025.114806](https://doi.org/10.1016/j.physbeh.2025.114806). 침이 P2X7/ERK 경로 조절로 통증·염증·우울감 완화.
+[^14]: Acupuncture alleviates postoperative hemorrhoid pain by modulating the P2X7/ERK pathway. 실험연구. DOI: [10.1007/s11302-025-10115-5](https://doi.org/10.1007/s11302-025-10115-5). 침이 P2X7/ERK 억제로 IL-6·TNF-α 감소.
+[^15]: Puji Zhichuang suppositories alleviate acetic acid-induced hemorrhoid-like anorectal inflammation model may involve reduced the PI3K-Akt signaling pathway. 실험연구. DOI: [10.1038/s41598-026-61558-8](https://doi.org/10.1038/s41598-026-61558-8). 보제치창 좌제가 PI3K-Akt 억제로 항문직장 염증 완화.
+[^16]: Efficacy and Safety of Snap Needles in the Treatment of Postoperative Hemorrhoidal Pain: A Systematic Review and Meta-Analysis. 메타분석, 1,188명. DOI: [10.2147/JPR.S464176](https://doi.org/10.2147/JPR.S464176). 스냅 니들이 통증 감소·상처 치유·통증 소실 시간 단축.
+[^17]: Effect of transcutaneous electrical acupoint stimulation at Zusanli (ST36) on postoperative pain following mixed hemorrhoidectomy: a retrospective study. 관찰연구, 185명. DOI: [10.62347/OCJU5788](https://doi.org/10.62347/OCJU5788). 족삼리 TEAS가 NSAIDs 진통 강화·위장 기능 회복 촉진.
+[^18]: [Effect of zhuhuang frost on wound hydroxy-proline level after anal operation]. 임상시험, 50명. PMID: [12577355](https://pubmed.ncbi.nlm.nih.gov/12577355/). 주황상 외용제가 하이드록시프롤린 증가로 상처 치유 촉진.
+[^19]: A meta-analysis of the clinical efficacy of the combination of acupuncture and Chinese medicine in the treatment of haemorrhoids. 메타분석, 976명. DOI: [10.3727/036012919x15650315071915](https://doi.org/10.3727/036012919x15650315071915). 침+중약 병용이 유효율 증가·재발률 감소.
+[^20]: [Clinical observation of electroacupuncture combined with auricular point sticking therapy for anal pain of mixed hemorrhoid after external excision and internal ligation]. 임상시험(RCT), 90명. DOI: [10.13703/j.0255-2930.2018.06.003](https://doi.org/10.13703/j.0255-2930.2018.06.003). 전침+이혈 압박 병용이 통증 완화·신체 활동 회복에 유효.
+[^21]: Acupoint catgut embedding reduces postoperative pain of mixed hemorrhoids: a meta-analysis of randomized controlled trials. 메타분석. DOI: [10.37766/inplasy2022.2.0021](https://doi.org/10.37766/inplasy2022.2.0021). 혈위 매선이 수술 후 통증 조절에 유효.
+[^22]: Efficacy and safety of acupoint catgut embedding in treating postoperative pain of mixed hemorrhoids. 임상시험(RCT). DOI: [10.1097/md.0000000000025948](https://doi.org/10.1097/md.0000000000025948). 수술 전 매선이 수술 후 통증 완화·회복 기간 단축 평가.
+[^23]: Three Acupuncture Methods for Postoperative Pain in Mixed Hemorrhoids: A Systematic Review and Network Meta-Analysis. 네트워크 메타분석, 5,121명. DOI: [10.1155/2022/5627550](https://doi.org/10.1155/2022/5627550). 혈위 도포·이침 플라스터·매선이 진통제보다 통증 감소에 유효, 혈위 도포가 최고 유효성.
+[^24]: Bioactive compound emodin from clinical formula Zhi-Lou-Xun-Xi decoction exerts rapid analgesic effects by targeting TRPV1. 실험연구. DOI: [10.1016/j.phymed.2026.158406](https://doi.org/10.1016/j.phymed.2026.158406). 지루순희탕 에모딘이 TRPV1 억제로 수술 후 통증 완화.
 
 ## 미충족 근거 / 추가 연구 필요
 
 - 치핵에 대한 한의 중재(침·뜸·매선·약침·한약·외용제)의 근거는 메타분석과 임상시험이 다수 존재하나, 대부분 혼합 치핵 수술 후 통증·합병증 관리에 집중되어 있고 초기 치핵의 비수술적 치료에 대한 고품질 연구는 상대적으로 부족하다.
-- 연구 간 시술 표준화·대조군·추적 기간·재발 종점이 상이하여, 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
+- 연구 간 시술 표준화·대조군·추적 기간·재발 종점이 상이하여, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
 - 혈위 매선·혈위 도포·이침 등 침구 요법의 장기 재발 예방 효과와, 변증별(습열하주·기허하함·혈어·풍열) 맞춤 한약 처방의 효과를 뒷받침할 대규모 전향적 연구가 필요하다.
 - 한약·외용제·좌제의 안전성과 표준화된 제제 개발, 그리고 수술 대체 가능성을 평가할 추가 임상시험이 요구된다.
 

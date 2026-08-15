@@ -1,6 +1,6 @@
 # 류마티스 관절염 (類風濕關節炎, Rheumatoid Arthritis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: M05~M06 (류마티스 관절염)
 
 ## 개요
@@ -131,19 +131,19 @@
 ## Q&A
 
 **Q1. 류마티스 관절염에 침 치료가 효과가 있나요?**
-활동기 급성 류마티스 관절염 환자에게 양방 약물 치료와 전침(電鍼)을 병행하면 약물 단독보다 임상적 유효율이 유의하게 높아집니다.[^7] 다만 기존 체계적 고찰은 침이 염증 지표 개선에 뚜렷한 효과를 보이지 못해, 보조 요법으로 적용하는 것이 권장됩니다.[^2] 근거수준: 중등도(임상시험/체계적 고찰).
+활동기 급성 류마티스 관절염 환자에게 양방 약물 치료와 전침(電鍼)을 병행하면 약물 단독보다 임상적 유효율이 유의하게 높아집니다.[^7] 다만 기존 체계적 고찰은 침이 염증 지표 개선에 뚜렷한 효과를 보이지 못해, 보조 요법으로 적용하는 것이 권장됩니다.[^2]
 
 **Q2. 봉침(蜂鍼)은 안전한가요?**
-봉침은 류마티스 관절염 환자의 관절 증상 및 염증 지표 개선에 표준 양약과 유사한 수준의 유효성·안전성을 보입니다.[^17] 다만 아나필락시스 등 심각한 과민 반응 위험이 있어, 반드시 숙련된 의료진의 감독 하에 시행해야 하며 고품질 연구가 더 필요합니다.[^27][^28][^29] 근거수준: 중등도(임상시험/체계적 고찰).
+봉침은 류마티스 관절염 환자의 관절 증상 및 염증 지표 개선에 표준 양약과 유사한 수준의 유효성·안전성을 보입니다.[^17] 다만 아나필락시스 등 심각한 과민 반응 위험이 있어, 반드시 숙련된 의료진의 감독 하에 시행해야 하며 고품질 연구가 더 필요합니다.[^27][^28][^29]
 
 **Q3. 류마티스 관절염에 한약을 병용하면 도움이 되나요?**
-네. 현대 의학적 치료와 한약을 병용하면 치료 효과(ACR 반응률)가 우수하고 이상반응이 감소합니다.[^32] 오두탕·비중효탕·계지복령환 등이 증상 개선과 염증 지표 감소에 효과적입니다.[^18][^21][^33] 근거수준: 높음(메타분석/체계적 고찰).
+네. 현대 의학적 치료와 한약을 병용하면 치료 효과(ACR 반응률)가 우수하고 이상반응이 감소합니다.[^32] 오두탕·비중효탕·계지복령환 등이 증상 개선과 염증 지표 감소에 효과적입니다.[^18][^21][^33]
 
 **Q4. 부항(拔罐) 요법도 류마티스 관절염에 적용할 수 있나요?**
-네. 표준 약물 치료와 습식 부항요법을 병행하면 통증·관절 증상 개선 속도가 빠르고 염증 지표 감소 및 면역 조절 효과가 뚜렷합니다.[^9] 근거수준: 중등도(임상시험).
+네. 표준 약물 치료와 습식 부항요법을 병행하면 통증·관절 증상 개선 속도가 빠르고 염증 지표 감소 및 면역 조절 효과가 뚜렷합니다.[^9]
 
 **Q5. 류마티스 관절염 환자의 변증(辨證)이 중요한 이유는?**
-변증에 따라 치료 반응이 달라지며, 기허혈어(氣虛血瘀)·음허락열(陰虛絡熱)·풍한습체(風寒濕滯) 등 변증형에 맞는 맞춤형 한의 중재가 효과적입니다.[^12][^16][^23] 음허형 환자에게는 청열양음 처방, 한습형에는 온침·자입법 등이 유리할 수 있습니다. 근거수준: 중등도(임상시험/실험연구).
+변증에 따라 치료 반응이 달라지며, 기허혈어(氣虛血瘀)·음허락열(陰虛絡熱)·풍한습체(風寒濕滯) 등 변증형에 맞는 맞춤형 한의 중재가 효과적입니다.[^12][^16][^23] 음허형 환자에게는 청열양음 처방, 한습형에는 온침·자입법 등이 유리할 수 있습니다.
 
 ## 근거 요약
 
@@ -166,48 +166,48 @@
 - 경혈: 곡지(曲池, LI11)·합곡(合谷, LI4)·양릉천(陽陵泉, GB34)·관원(關元, CV4)·족삼리(足三里, ST36) 등이 활용된다.[^7][^25]
 - 중재: 침·전침·뜸(온구)·습식 부항·봉침·봉독약침·한약(오두탕·비중효탕·수거단·청락통비·보신활혈 처방·계지복령환·TWP·서관온경/청락과립·TGP·비기 캡슐·영지+삼묘산·방풍등) 등이 보고된다.[^1][^10][^11][^12][^17][^19][^21][^33][^35][^36][^38][^39]
 
-[^1]: Advances of clinical studies of acupuncture and moxibustion for treatment of rheumatoid arthritis. 문헌고찰. PMID: [16312903](https://pubmed.ncbi.nlm.nih.gov/16312903/). 근거수준: 낮음. 침·뜸의 임상 효능 종합 검토.
-[^2]: Acupuncture and electroacupuncture for the treatment of rheumatoid arthritis. 체계적 고찰, 84명. DOI: [10.1002/14651858.CD003788.pub2](https://doi.org/10.1002/14651858.CD003788.pub2) · PMID: [16235342](https://pubmed.ncbi.nlm.nih.gov/16235342/). 근거수준: 높음. 침이 염증 지표 개선에 뚜렷한 효과 없음, 전침이 무릎 통증에 일부 유익.
-[^3]: Traditional Treatment for Rheumatoid Arthritis. 문헌고찰. DOI: [10.5772/intechopen.99258](https://doi.org/10.5772/intechopen.99258). 근거수준: 낮음. 류마티스 관절염 전통 치료 개괄.
-[^4]: Predictive role of diagnostic information in treatment efficacy of rheumatoid arthritis based on neural network model analysis. 임상시험, 397명. DOI: [10.3736/jcim20070107](https://doi.org/10.3736/jcim20070107) · PMID: [17214933](https://pubmed.ncbi.nlm.nih.gov/17214933/). 근거수준: 중등도. 조조강직·부종 관절 수·RF·CRP로 반응 예측.
-[^5]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 근거수준: 중등도. 비기 캡슐이 기허혈어형에 유효율 91.4%.
-[^6]: Physical therapy and Oriental medicine applied to rheumatoid arthritis. 문헌고찰. PMID: [1588749](https://pubmed.ncbi.nlm.nih.gov/1588749/). 근거수준: 낮음. 물리치료+침·뜸·한약 통합 병행이 기능 보존에 유용.
-[^7]: Therapeutic effect of electroacupuncture combined with medicine on acute rheumatoid arthritis at active stage. 임상시험, 146명. PMID: [16309047](https://pubmed.ncbi.nlm.nih.gov/16309047/). 근거수준: 중등도. 전침+약물 병행이 약물 단독보다 유효율 높음.
-[^8]: Effect of chrono-moxibustion and its influence on circadian rhythm for rheumatoid arthritis: A study protocol. 임상시험(프로토콜), 120명. DOI: [10.1097/md.0000000000030701](https://doi.org/10.1097/md.0000000000030701). 근거수준: 프로토콜. 최적 뜸 시행 시각 평가.
-[^9]: Immunomodulatory effects of blood letting cupping therapy in patients with rheumatoid arthritis. 임상시험, 50명. PMID: [17977209](https://pubmed.ncbi.nlm.nih.gov/17977209/). 근거수준: 중등도. 습식 부항+약물이 통증·관절 증상·ESR·CRP·RF·면역 조절 개선.
-[^10]: TCM treatment of rheumatoid arthritis by supplementing the kidney and invigorating the blood circulation. 임상시험, 82명. PMID: [16579083](https://pubmed.ncbi.nlm.nih.gov/16579083/). 근거수준: 중등도. 보신활혈 처방이 중말기 RA 증상·혈액 점도 개선.
-[^11]: Intermediate and late rheumatoid arthritis treated by tonifying the kidney, resolving phlegm and activating blood. 임상시험, 128명. PMID: [11038992](https://pubmed.ncbi.nlm.nih.gov/11038992/). 근거수준: 중등도. 서관온경·청락과립이 왕비과립보다 완치율·유효율 높음.
-[^12]: Clinical study of qingluo tongbi granules in treating 63 patients with rheumatoid arthritis of yin deficiency collateral heat type. 임상시험, 118명. PMID: [15270253](https://pubmed.ncbi.nlm.nih.gov/15270253/). 근거수준: 중등도. 청락통비가 음허락열형에 TWP보다 유효율·치유율 높음.
-[^13]: TCM treatment for 40 cases of rheumatoid arthritis with channel blockage due to yin deficiency. 임상시험, 60명. PMID: [14535175](https://pubmed.ncbi.nlm.nih.gov/14535175/). 근거수준: 중등도. 음허경색형 처방이 관절 강직·악력·ESR 개선.
-[^14]: Study on the differential gene expression of peripheral CD4+ among rheumatoid arthritis patients of cold or heat syndrome type. 실험연구. PMID: [16970089](https://pubmed.ncbi.nlm.nih.gov/16970089/). 근거수준: 중등도. 한열변증에 따른 유전자 발현 차이 확인.
-[^15]: TCM treatment for 40 cases of rheumatoid arthritis with channel blockage due to yin deficiency. 임상시험, 60명. PMID: [14535175](https://pubmed.ncbi.nlm.nih.gov/14535175/). 근거수준: 중등도. 음허·내풍 관계를 고려한 맞춤형 한방 치료가 유효.
-[^16]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 근거수준: 중등도. 기허혈어형에 유효율 91.4%, 습열저체형과 구분 필요.
-[^17]: Clinical randomized study of bee-sting therapy for rheumatoid arthritis. 임상시험, 120명. PMID: [29888580](https://pubmed.ncbi.nlm.nih.gov/29888580/). 근거수준: 중등도. 봉침이 MTX·Celecoxib와 유사한 유효성·안전성.
-[^18]: The effects of bizhongxiao decoction (BZX) on T-lymphocyte subsets in the peripheral blood of patients with rheumatoid arthritis. 임상시험, 62명. PMID: [12536532](https://pubmed.ncbi.nlm.nih.gov/12536532/). 근거수준: 중등도. 비중효탕이 CD4+/CD8+ 불균형 조절·면역 항상성 회복.
-[^19]: Suppressive effects of Stephania tetrandra on the neutrophil function in patients with rheumatoid arthritis. 임상시험. DOI: [10.1002/ptr.1396](https://doi.org/10.1002/ptr.1396) · PMID: [15103675](https://pubmed.ncbi.nlm.nih.gov/15103675/). 근거수준: 중등도. 방풍등이 과립구 활성화 억제·염증 지표 개선.
-[^20]: Efficacy and Safety of Bee Venom Therapy (BVT) in Rheumatoid Arthritis: A Comprehensive Review. 문헌고찰. DOI: [10.9734/jocamr/2026/v27i4747](https://doi.org/10.9734/jocamr/2026/v27i4747). 근거수준: 낮음. 봉독이 NF-κB 억제·사이토카인 조절, 아나필락시스 주의.
-[^21]: Keishibukuryogan (gui-zhi-fu-ling-wan), a Kampo formula, decreases disease activity and soluble vascular endothelial adhesion molecule-1 in patients with rheumatoid arthritis. 임상시험, 16명. DOI: [10.1093/ecam/nel025](https://doi.org/10.1093/ecam/nel025) · PMID: [16951720](https://pubmed.ncbi.nlm.nih.gov/16951720/). 근거수준: 중등도. 계지복령환이 DAS28·sVCAM-1·지질 과산화물 감소.
-[^22]: Exploration on relationship between platelet count and efficacy of Chinese medicine and Western medicine in treating rheumatoid arthritis patients. 임상시험, 356명. PMID: [17302060](https://pubmed.ncbi.nlm.nih.gov/17302060/). 근거수준: 중등도. 혈소판 수가 치료 반응 모니터링 지표.
-[^23]: Clinical observation on needle-sticking method for treatment of rheumatoid arthritis of wind-cold-damp retention type. 임상시험, 50명. PMID: [16739845](https://pubmed.ncbi.nlm.nih.gov/16739845/). 근거수준: 중등도. 자입법이 호침보다 RF·압통 관절 수 개선.
-[^24]: Immunomodulatory Effects of Acupuncture on Inflammatory Markers in Patients with Arthritis: A Systematic Review. 체계적 고찰, 1492명. DOI: [10.3390/muscles5020036](https://doi.org/10.3390/muscles5020036) · PMID: [42201139](https://pubmed.ncbi.nlm.nih.gov/42201139/). 근거수준: 높음. 전침·도침이 TNF-α 감소에 효과적.
-[^25]: Clinical observation on treatment of rheumatoid arthritis with cake-separated mild moxibustion combined with Western medicine. 임상시험, 60명. PMID: [16570441](https://pubmed.ncbi.nlm.nih.gov/16570441/). 근거수준: 중등도. 부자 온구+약물이 유효율 향상·NSAIDs 감량.
-[^26]: Effect of chrono-moxibustion and its influence on circadian rhythm for rheumatoid arthritis: A study protocol. 임상시험(프로토콜), 120명. DOI: [10.1097/md.0000000000030701](https://doi.org/10.1097/md.0000000000030701). 근거수준: 프로토콜. 뜸 시행 시각의 시간약리학적 최적화.
-[^27]: Efficacy and Safety of Bee Venom Therapy (BVT) in Rheumatoid Arthritis: A Comprehensive Review. 문헌고찰. DOI: [10.9734/jocamr/2026/v27i4747](https://doi.org/10.9734/jocamr/2026/v27i4747). 근거수준: 낮음. 봉독의 항염·통증 완화 가능성, 아나필락시스 위험.
-[^28]: Effectiveness and safety of bee venom pharmacopuncture for rheumatoid arthritis: a systematic review. 체계적 고찰(프로토콜). DOI: [10.1136/bmjopen-2021-056545](https://doi.org/10.1136/bmjopen-2021-056545) · PMID: [35288390](https://pubmed.ncbi.nlm.nih.gov/35288390/). 근거수준: 프로토콜.
-[^29]: Bee venom acupuncture for rheumatoid arthritis: a systematic review of randomised controlled clinical trials. 체계적 고찰. DOI: [10.1136/bmjopen-2014-006140](https://doi.org/10.1136/bmjopen-2014-006140) · PMID: [25380812](https://pubmed.ncbi.nlm.nih.gov/25380812/). 근거수준: 높음(단 RCT 1건으로 근거 제한).
-[^30]: Bee venom acupuncture for rheumatoid arthritis: a systematic review protocol. 체계적 고찰(프로토콜). DOI: [10.1136/bmjopen-2013-004602](https://doi.org/10.1136/bmjopen-2013-004602) · PMID: [24760349](https://pubmed.ncbi.nlm.nih.gov/24760349/). 근거수준: 프로토콜.
-[^31]: Bee venom pharmacopuncture for symptom relief in rheumatoid arthritis in a tamoxifen-treated patient: A case report. 증례, 1명. DOI: [10.1016/j.explore.2026.103457](https://doi.org/10.1016/j.explore.2026.103457) · PMID: [42269206](https://pubmed.ncbi.nlm.nih.gov/42269206/). 근거수준: 낮음. 타목시펜 사용 RA 환자에서 봉독약침 증상 완화.
-[^32]: Exploring the benefits and prescribing informations of combining East Asian herbal medicine with modern medicine for rheumatoid arthritis: A systematic review. 체계적 고찰, 37839명. DOI: [10.1016/j.phrs.2025.107616](https://doi.org/10.1016/j.phrs.2025.107616) · PMID: [39855373](https://pubmed.ncbi.nlm.nih.gov/39855373/). 근거수준: 높음. 한약 병용이 ACR 20/50/70 반응률·안전성 개선.
-[^33]: The Effectiveness and Safety of Wu Tou Decoction on Rheumatoid Arthritis-A Systematic Review and Meta-Analysis. 메타분석, 1794명. DOI: [10.3390/healthcare12171739](https://doi.org/10.3390/healthcare12171739) · PMID: [39273763](https://pubmed.ncbi.nlm.nih.gov/39273763/). 근거수준: 높음. 오두탕이 관절 증상·ESR·CRP·RF 개선, 안전성 유의차 없음.
-[^34]: Phytotherapy as an adjunct to the treatment of rheumatoid arthritis - a systematic review. 체계적 고찰. DOI: [10.1016/j.phymed.2025.157285](https://doi.org/10.1016/j.phymed.2025.157285) · PMID: [41005054](https://pubmed.ncbi.nlm.nih.gov/41005054/). 근거수준: 높음. 강황·생강·단삼 병용이 활성도 지표 개선 경향.
-[^35]: Clinical investigation of effects of bizhongxiao decoction (BZX) on rheumatoid arthritis. 임상시험, 96명. PMID: [12212115](https://pubmed.ncbi.nlm.nih.gov/12212115/). 근거수준: 중등도. 비중효탕이 MTX보다 증상 개선 속도·효과 우수.
-[^36]: A clinical study of Suogudan granule in the treatment of rheumatoid arthritis. 임상시험, 90명. DOI: [10.1007/BF02835785](https://doi.org/10.1007/BF02835785) · PMID: [16417774](https://pubmed.ncbi.nlm.nih.gov/16417774/). 근거수준: 중등도. 수거단이 관절통·부종·ESR·RF·ASO 개선, 안전.
-[^37]: Clinical observation on small doses Tripterygium wilfordii polyglycoside combined with Methotrexate in treating rheumatoid arthritis. 임상시험, 70명. PMID: [12575588](https://pubmed.ncbi.nlm.nih.gov/12575588/). 근거수준: 중등도. 소량 TWP+MTX 병용이 증상·ESR·RF 개선, 부작용 감소.
-[^38]: Clinical observation on effects of leflunomid and total glucosides of paeony on rheumatoid arthritis. 임상시험, 80명. PMID: [16689008](https://pubmed.ncbi.nlm.nih.gov/16689008/). 근거수준: 중등도. TGP+레플루노마이드 병용이 유효율·반응 속도 개선.
-[^39]: Immunomodulatory effects of lingzhi and san-miao-san supplementation on patients with rheumatoid arthritis. 임상시험. DOI: [10.1080/08923970600815097](https://doi.org/10.1080/08923970600815097) · PMID: [16873089](https://pubmed.ncbi.nlm.nih.gov/16873089/). 근거수준: 중등도. 영지+삼묘산이 24주 후 IL-18 유도 감소.
-[^40]: Use of complementary and alternative medicine by rheumatoid arthritis patients in Korea. 관찰연구, 153명. DOI: [10.1007/s10067-007-0646-6](https://doi.org/10.1007/s10067-007-0646-6) · PMID: [17541497](https://pubmed.ncbi.nlm.nih.gov/17541497/). 근거수준: 중등도. 한국 RA 환자 대다수가 한방 포함 보완대체요법 사용.
-[^41]: Selected CAM therapies for arthritis-related pain: the evidence from systematic reviews. 체계적 고찰. DOI: [10.1097/00002508-200401000-00004](https://doi.org/10.1097/00002508-200401000-00004) · PMID: [14668651](https://pubmed.ncbi.nlm.nih.gov/14668651/). 근거수준: 중등도. RA 통증에 GLA가 강력한 효과.
-[^42]: Tai chi for rheumatoid arthritis: systematic review. 체계적 고찰. DOI: [10.1093/rheumatology/kem151](https://doi.org/10.1093/rheumatology/kem151) · PMID: [17634188](https://pubmed.ncbi.nlm.nih.gov/17634188/). 근거수준: 중등도. 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증.
+[^1]: Advances of clinical studies of acupuncture and moxibustion for treatment of rheumatoid arthritis. 문헌고찰. PMID: [16312903](https://pubmed.ncbi.nlm.nih.gov/16312903/). 침·뜸의 임상 효능 종합 검토.
+[^2]: Acupuncture and electroacupuncture for the treatment of rheumatoid arthritis. 체계적 고찰, 84명. DOI: [10.1002/14651858.CD003788.pub2](https://doi.org/10.1002/14651858.CD003788.pub2) · PMID: [16235342](https://pubmed.ncbi.nlm.nih.gov/16235342/). 침이 염증 지표 개선에 뚜렷한 효과 없음, 전침이 무릎 통증에 일부 유익.
+[^3]: Traditional Treatment for Rheumatoid Arthritis. 문헌고찰. DOI: [10.5772/intechopen.99258](https://doi.org/10.5772/intechopen.99258). 류마티스 관절염 전통 치료 개괄.
+[^4]: Predictive role of diagnostic information in treatment efficacy of rheumatoid arthritis based on neural network model analysis. 임상시험, 397명. DOI: [10.3736/jcim20070107](https://doi.org/10.3736/jcim20070107) · PMID: [17214933](https://pubmed.ncbi.nlm.nih.gov/17214933/). 조조강직·부종 관절 수·RF·CRP로 반응 예측.
+[^5]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 비기 캡슐이 기허혈어형에 유효율 91.4%.
+[^6]: Physical therapy and Oriental medicine applied to rheumatoid arthritis. 문헌고찰. PMID: [1588749](https://pubmed.ncbi.nlm.nih.gov/1588749/). 물리치료+침·뜸·한약 통합 병행이 기능 보존에 유용.
+[^7]: Therapeutic effect of electroacupuncture combined with medicine on acute rheumatoid arthritis at active stage. 임상시험, 146명. PMID: [16309047](https://pubmed.ncbi.nlm.nih.gov/16309047/). 전침+약물 병행이 약물 단독보다 유효율 높음.
+[^8]: Effect of chrono-moxibustion and its influence on circadian rhythm for rheumatoid arthritis: A study protocol. 임상시험(프로토콜), 120명. DOI: [10.1097/md.0000000000030701](https://doi.org/10.1097/md.0000000000030701). 최적 뜸 시행 시각 평가.
+[^9]: Immunomodulatory effects of blood letting cupping therapy in patients with rheumatoid arthritis. 임상시험, 50명. PMID: [17977209](https://pubmed.ncbi.nlm.nih.gov/17977209/). 습식 부항+약물이 통증·관절 증상·ESR·CRP·RF·면역 조절 개선.
+[^10]: TCM treatment of rheumatoid arthritis by supplementing the kidney and invigorating the blood circulation. 임상시험, 82명. PMID: [16579083](https://pubmed.ncbi.nlm.nih.gov/16579083/). 보신활혈 처방이 중말기 RA 증상·혈액 점도 개선.
+[^11]: Intermediate and late rheumatoid arthritis treated by tonifying the kidney, resolving phlegm and activating blood. 임상시험, 128명. PMID: [11038992](https://pubmed.ncbi.nlm.nih.gov/11038992/). 서관온경·청락과립이 왕비과립보다 완치율·유효율 높음.
+[^12]: Clinical study of qingluo tongbi granules in treating 63 patients with rheumatoid arthritis of yin deficiency collateral heat type. 임상시험, 118명. PMID: [15270253](https://pubmed.ncbi.nlm.nih.gov/15270253/). 청락통비가 음허락열형에 TWP보다 유효율·치유율 높음.
+[^13]: TCM treatment for 40 cases of rheumatoid arthritis with channel blockage due to yin deficiency. 임상시험, 60명. PMID: [14535175](https://pubmed.ncbi.nlm.nih.gov/14535175/). 음허경색형 처방이 관절 강직·악력·ESR 개선.
+[^14]: Study on the differential gene expression of peripheral CD4+ among rheumatoid arthritis patients of cold or heat syndrome type. 실험연구. PMID: [16970089](https://pubmed.ncbi.nlm.nih.gov/16970089/). 한열변증에 따른 유전자 발현 차이 확인.
+[^15]: TCM treatment for 40 cases of rheumatoid arthritis with channel blockage due to yin deficiency. 임상시험, 60명. PMID: [14535175](https://pubmed.ncbi.nlm.nih.gov/14535175/). 음허·내풍 관계를 고려한 맞춤형 한방 치료가 유효.
+[^16]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 기허혈어형에 유효율 91.4%, 습열저체형과 구분 필요.
+[^17]: Clinical randomized study of bee-sting therapy for rheumatoid arthritis. 임상시험, 120명. PMID: [29888580](https://pubmed.ncbi.nlm.nih.gov/29888580/). 봉침이 MTX·Celecoxib와 유사한 유효성·안전성.
+[^18]: The effects of bizhongxiao decoction (BZX) on T-lymphocyte subsets in the peripheral blood of patients with rheumatoid arthritis. 임상시험, 62명. PMID: [12536532](https://pubmed.ncbi.nlm.nih.gov/12536532/). 비중효탕이 CD4+/CD8+ 불균형 조절·면역 항상성 회복.
+[^19]: Suppressive effects of Stephania tetrandra on the neutrophil function in patients with rheumatoid arthritis. 임상시험. DOI: [10.1002/ptr.1396](https://doi.org/10.1002/ptr.1396) · PMID: [15103675](https://pubmed.ncbi.nlm.nih.gov/15103675/). 방풍등이 과립구 활성화 억제·염증 지표 개선.
+[^20]: Efficacy and Safety of Bee Venom Therapy (BVT) in Rheumatoid Arthritis: A Comprehensive Review. 문헌고찰. DOI: [10.9734/jocamr/2026/v27i4747](https://doi.org/10.9734/jocamr/2026/v27i4747). 봉독이 NF-κB 억제·사이토카인 조절, 아나필락시스 주의.
+[^21]: Keishibukuryogan (gui-zhi-fu-ling-wan), a Kampo formula, decreases disease activity and soluble vascular endothelial adhesion molecule-1 in patients with rheumatoid arthritis. 임상시험, 16명. DOI: [10.1093/ecam/nel025](https://doi.org/10.1093/ecam/nel025) · PMID: [16951720](https://pubmed.ncbi.nlm.nih.gov/16951720/). 계지복령환이 DAS28·sVCAM-1·지질 과산화물 감소.
+[^22]: Exploration on relationship between platelet count and efficacy of Chinese medicine and Western medicine in treating rheumatoid arthritis patients. 임상시험, 356명. PMID: [17302060](https://pubmed.ncbi.nlm.nih.gov/17302060/). 혈소판 수가 치료 반응 모니터링 지표.
+[^23]: Clinical observation on needle-sticking method for treatment of rheumatoid arthritis of wind-cold-damp retention type. 임상시험, 50명. PMID: [16739845](https://pubmed.ncbi.nlm.nih.gov/16739845/). 자입법이 호침보다 RF·압통 관절 수 개선.
+[^24]: Immunomodulatory Effects of Acupuncture on Inflammatory Markers in Patients with Arthritis: A Systematic Review. 체계적 고찰, 1492명. DOI: [10.3390/muscles5020036](https://doi.org/10.3390/muscles5020036) · PMID: [42201139](https://pubmed.ncbi.nlm.nih.gov/42201139/). 전침·도침이 TNF-α 감소에 효과적.
+[^25]: Clinical observation on treatment of rheumatoid arthritis with cake-separated mild moxibustion combined with Western medicine. 임상시험, 60명. PMID: [16570441](https://pubmed.ncbi.nlm.nih.gov/16570441/). 부자 온구+약물이 유효율 향상·NSAIDs 감량.
+[^26]: Effect of chrono-moxibustion and its influence on circadian rhythm for rheumatoid arthritis: A study protocol. 임상시험(프로토콜), 120명. DOI: [10.1097/md.0000000000030701](https://doi.org/10.1097/md.0000000000030701). 뜸 시행 시각의 시간약리학적 최적화.
+[^27]: Efficacy and Safety of Bee Venom Therapy (BVT) in Rheumatoid Arthritis: A Comprehensive Review. 문헌고찰. DOI: [10.9734/jocamr/2026/v27i4747](https://doi.org/10.9734/jocamr/2026/v27i4747). 봉독의 항염·통증 완화 가능성, 아나필락시스 위험.
+[^28]: Effectiveness and safety of bee venom pharmacopuncture for rheumatoid arthritis: a systematic review. 체계적 고찰(프로토콜). DOI: [10.1136/bmjopen-2021-056545](https://doi.org/10.1136/bmjopen-2021-056545) · PMID: [35288390](https://pubmed.ncbi.nlm.nih.gov/35288390/).
+[^29]: Bee venom acupuncture for rheumatoid arthritis: a systematic review of randomised controlled clinical trials. 체계적 고찰. DOI: [10.1136/bmjopen-2014-006140](https://doi.org/10.1136/bmjopen-2014-006140) · PMID: [25380812](https://pubmed.ncbi.nlm.nih.gov/25380812/).
+[^30]: Bee venom acupuncture for rheumatoid arthritis: a systematic review protocol. 체계적 고찰(프로토콜). DOI: [10.1136/bmjopen-2013-004602](https://doi.org/10.1136/bmjopen-2013-004602) · PMID: [24760349](https://pubmed.ncbi.nlm.nih.gov/24760349/).
+[^31]: Bee venom pharmacopuncture for symptom relief in rheumatoid arthritis in a tamoxifen-treated patient: A case report. 증례, 1명. DOI: [10.1016/j.explore.2026.103457](https://doi.org/10.1016/j.explore.2026.103457) · PMID: [42269206](https://pubmed.ncbi.nlm.nih.gov/42269206/). 타목시펜 사용 RA 환자에서 봉독약침 증상 완화.
+[^32]: Exploring the benefits and prescribing informations of combining East Asian herbal medicine with modern medicine for rheumatoid arthritis: A systematic review. 체계적 고찰, 37839명. DOI: [10.1016/j.phrs.2025.107616](https://doi.org/10.1016/j.phrs.2025.107616) · PMID: [39855373](https://pubmed.ncbi.nlm.nih.gov/39855373/). 한약 병용이 ACR 20/50/70 반응률·안전성 개선.
+[^33]: The Effectiveness and Safety of Wu Tou Decoction on Rheumatoid Arthritis-A Systematic Review and Meta-Analysis. 메타분석, 1794명. DOI: [10.3390/healthcare12171739](https://doi.org/10.3390/healthcare12171739) · PMID: [39273763](https://pubmed.ncbi.nlm.nih.gov/39273763/). 오두탕이 관절 증상·ESR·CRP·RF 개선, 안전성 유의차 없음.
+[^34]: Phytotherapy as an adjunct to the treatment of rheumatoid arthritis - a systematic review. 체계적 고찰. DOI: [10.1016/j.phymed.2025.157285](https://doi.org/10.1016/j.phymed.2025.157285) · PMID: [41005054](https://pubmed.ncbi.nlm.nih.gov/41005054/). 강황·생강·단삼 병용이 활성도 지표 개선 경향.
+[^35]: Clinical investigation of effects of bizhongxiao decoction (BZX) on rheumatoid arthritis. 임상시험, 96명. PMID: [12212115](https://pubmed.ncbi.nlm.nih.gov/12212115/). 비중효탕이 MTX보다 증상 개선 속도·효과 우수.
+[^36]: A clinical study of Suogudan granule in the treatment of rheumatoid arthritis. 임상시험, 90명. DOI: [10.1007/BF02835785](https://doi.org/10.1007/BF02835785) · PMID: [16417774](https://pubmed.ncbi.nlm.nih.gov/16417774/). 수거단이 관절통·부종·ESR·RF·ASO 개선, 안전.
+[^37]: Clinical observation on small doses Tripterygium wilfordii polyglycoside combined with Methotrexate in treating rheumatoid arthritis. 임상시험, 70명. PMID: [12575588](https://pubmed.ncbi.nlm.nih.gov/12575588/). 소량 TWP+MTX 병용이 증상·ESR·RF 개선, 부작용 감소.
+[^38]: Clinical observation on effects of leflunomid and total glucosides of paeony on rheumatoid arthritis. 임상시험, 80명. PMID: [16689008](https://pubmed.ncbi.nlm.nih.gov/16689008/). TGP+레플루노마이드 병용이 유효율·반응 속도 개선.
+[^39]: Immunomodulatory effects of lingzhi and san-miao-san supplementation on patients with rheumatoid arthritis. 임상시험. DOI: [10.1080/08923970600815097](https://doi.org/10.1080/08923970600815097) · PMID: [16873089](https://pubmed.ncbi.nlm.nih.gov/16873089/). 영지+삼묘산이 24주 후 IL-18 유도 감소.
+[^40]: Use of complementary and alternative medicine by rheumatoid arthritis patients in Korea. 관찰연구, 153명. DOI: [10.1007/s10067-007-0646-6](https://doi.org/10.1007/s10067-007-0646-6) · PMID: [17541497](https://pubmed.ncbi.nlm.nih.gov/17541497/). 한국 RA 환자 대다수가 한방 포함 보완대체요법 사용.
+[^41]: Selected CAM therapies for arthritis-related pain: the evidence from systematic reviews. 체계적 고찰. DOI: [10.1097/00002508-200401000-00004](https://doi.org/10.1097/00002508-200401000-00004) · PMID: [14668651](https://pubmed.ncbi.nlm.nih.gov/14668651/). RA 통증에 GLA가 강력한 효과.
+[^42]: Tai chi for rheumatoid arthritis: systematic review. 체계적 고찰. DOI: [10.1093/rheumatology/kem151](https://doi.org/10.1093/rheumatology/kem151) · PMID: [17634188](https://pubmed.ncbi.nlm.nih.gov/17634188/). 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증.
 
 ## 미충족 근거 / 추가 연구 필요
 
@@ -217,5 +217,5 @@
 - 아유르베다 의학 등 전통 치료의 근거가 불충분하여, 한의 중재와의 비교·통합을 위한 더 많은 고품질 연구가 필요하다.[^44]
 - 검색으로 확보한 논문 중 슬관절 전치환술(DVT)·골관절염·통풍·부항 일반·미얀마 전통약 등 류마티스 관절염 주제와 무관하거나 류마티스 관절염 중심이 아닌 논문은 본 문서의 각주에서 제외하였다.
 
-[^43]: A systematic review of randomised clinical trials of Tripterygium wilfordii for rheumatoid arthritis. 체계적 고찰. DOI: [10.1016/j.phymed.2006.01.010](https://doi.org/10.1016/j.phymed.2006.01.010) · PMID: [16487688](https://pubmed.ncbi.nlm.nih.gov/16487688/). 근거수준: 높음(안전성 우려). 뇌공등이 유효하나 심각한 이상반응 위험 높음.
-[^44]: Ayurvedic medicine for rheumatoid arthritis: a systematic review. 체계적 고찰. DOI: [10.1016/j.semarthrit.2004.11.005](https://doi.org/10.1016/j.semarthrit.2004.11.005) · PMID: [15846585](https://pubmed.ncbi.nlm.nih.gov/15846585/). 근거수준: 높음. 아유르베다 치료의 충분한 근거 부족.
+[^43]: A systematic review of randomised clinical trials of Tripterygium wilfordii for rheumatoid arthritis. 체계적 고찰. DOI: [10.1016/j.phymed.2006.01.010](https://doi.org/10.1016/j.phymed.2006.01.010) · PMID: [16487688](https://pubmed.ncbi.nlm.nih.gov/16487688/). 뇌공등이 유효하나 심각한 이상반응 위험 높음.
+[^44]: Ayurvedic medicine for rheumatoid arthritis: a systematic review. 체계적 고찰. DOI: [10.1016/j.semarthrit.2004.11.005](https://doi.org/10.1016/j.semarthrit.2004.11.005) · PMID: [15846585](https://pubmed.ncbi.nlm.nih.gov/15846585/). 아유르베다 치료의 충분한 근거 부족.

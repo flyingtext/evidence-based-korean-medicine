@@ -1,6 +1,6 @@
 # 기혈(氣血, Qi and Blood)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석/임상시험/관찰연구 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -116,19 +116,19 @@
 ## Q&A
 
 **Q1. 기혈(氣血)이란 무엇이며, 어떻게 진단하나요?**
-기혈은 인체를 구성하고 생명 활동을 유지하는 두 가지 기본 물질인 기(氣)와 혈(血)을 함께 이르는 말입니다.[^1][^2] 진단은 사진(四診) 관찰, 특히 설질·맥상·증상을 확인하고,[^9][^10] 혈소판 활성·혈관 내피 지표 등 객관적 검사를 보조적으로 활용합니다.[^19][^21] 근거수준: 중등도(관찰연구/체계적 고찰).
+기혈은 인체를 구성하고 생명 활동을 유지하는 두 가지 기본 물질인 기(氣)와 혈(血)을 함께 이르는 말입니다.[^1][^2] 진단은 사진(四診) 관찰, 특히 설질·맥상·증상을 확인하고,[^9][^10] 혈소판 활성·혈관 내피 지표 등 객관적 검사를 보조적으로 활용합니다.[^19][^21]
 
 **Q2. 기혈 불균형에 어떤 한약이 효과적인가요?**
-기혈허어 협심증에 기혈과립이,[^26] 기허혈어 당뇨병성 말초신경병증에 보기활혈 한약이,[^27] 기허·혈어·담저 COPD에 보기활혈화담 요법이 효과적입니다.[^28] 기체혈어 만성 골반염에 Penyanqing 캡슐·기결과립이,[^13][^35] 기허혈어 류마티스 관절염에 비기 캡슐이 효과적입니다.[^15] 근거수준: 중등도(임상시험/체계적 고찰).
+기혈허어 협심증에 기혈과립이,[^26] 기허혈어 당뇨병성 말초신경병증에 보기활혈 한약이,[^27] 기허·혈어·담저 COPD에 보기활혈화담 요법이 효과적입니다.[^28] 기체혈어 만성 골반염에 Penyanqing 캡슐·기결과립이,[^13][^35] 기허혈어 류마티스 관절염에 비기 캡슐이 효과적입니다.[^15]
 
 **Q3. 침·뜸·사혈·부항도 기혈 조절에 도움이 되나요?**
-네. 심장 증후군 X에 이기쾌흉활혈 한방 치료 병행이,[^42] 폐쇄성 동맥경화증에 기신통맥음과 뜸 병용이,[^43] 유방암 수술 후 림프부종에 사혈부항 병행이 효과적입니다.[^44] 근거수준: 중등도(임상시험/관찰연구).
+네. 심장 증후군 X에 이기쾌흉활혈 한방 치료 병행이,[^42] 폐쇄성 동맥경화증에 기신통맥음과 뜸 병용이,[^43] 유방암 수술 후 림프부종에 사혈부항 병행이 효과적입니다.[^44]
 
 **Q4. 기공(氣功)도 기혈 순환에 도움이 되나요?**
-네. 기공은 본태성 고혈압 환자의 혈압을 유의하게 감소시키고,[^46][^47] 노인의 불안·우울·피로·통증을 완화하며,[^48] 컴퓨터 작업자의 스트레스를 낮추고,[^49] 혈액 가스 농도에 긍정적인 조절 작용을 합니다.[^50] 근거수준: 중등도(메타분석/임상시험).
+네. 기공은 본태성 고혈압 환자의 혈압을 유의하게 감소시키고,[^46][^47] 노인의 불안·우울·피로·통증을 완화하며,[^48] 컴퓨터 작업자의 스트레스를 낮추고,[^49] 혈액 가스 농도에 긍정적인 조절 작용을 합니다.[^50]
 
 **Q5. 기혈 불균형은 만성 질환과 어떤 관련이 있나요?**
-기혈 불균형은 협심증·당뇨병·COPD·만성 골반염 등에서 흔한 병리 기전으로, 질환 중증도·합병증 발생과 연관됩니다.[^24][^27][^28] 기음양허와 담혈어체가 함께 나타나는 환자는 더 중증으로 판단합니다.[^24] 근거수준: 중등도(관찰연구/임상시험).
+기혈 불균형은 협심증·당뇨병·COPD·만성 골반염 등에서 흔한 병리 기전으로, 질환 중증도·합병증 발생과 연관됩니다.[^24][^27][^28] 기음양허와 담혈어체가 함께 나타나는 환자는 더 중증으로 판단합니다.[^24]
 
 ## 근거 요약
 
@@ -152,57 +152,57 @@
 - 본초: 황기(黃芪)·당귀(當歸)·단삼(丹蔘)·천궁(川芎)·작약(芍藥)·인삼(人蔘) 등 보기·활혈 약재가 활용된다.[^26][^29][^40]
 - 경혈: 족삼리(ST36)·삼음교(SP6)·태계(KI3)·풍륭(ST40)·합곡(LI4)·태충(LR3) 등이 활용된다.[^45][^50]
 
-[^1]: The explanation on the essence of Qi & Blood at meridians theory. 실험연구. DOI: [10.21203/rs.3.rs-56591/v1](https://doi.org/10.21203/rs.3.rs-56591/v1). 근거수준: 낮음. 기는 DNA-바이오포톤 스펙트럼 코드, 혈은 프리모관을 흐르는 펄스 이온 전류로 해석.
-[^2]: Clinical application of the Ziwu Duichong Qixue Huzhu theory. 문헌고찰. PMID: [16318131](https://pubmed.ncbi.nlm.nih.gov/16318131/). 근거수준: 낮음. 자오대충 기혈호주 이론이 12경락 기혈 순환 보완.
-[^3]: Clinical study in treating qi-deficiency and blood-stasis syndrome of angina pectoris with qi xue granule. 임상시험, 55명. PMID: [1301847](https://pubmed.ncbi.nlm.nih.gov/1301847/). 근거수준: 중등도. 기혈과립이 기혈허어 협심증 증상·운동 내성 개선.
-[^4]: Effect of TCM syndrome-typing based therapy combined with cyclosporin in treating myelodysplastic syndrome. 임상시험, 58명. PMID: [17121049](https://pubmed.ncbi.nlm.nih.gov/17121049/). 근거수준: 중등도. 변증시치+사이클로스포린이 기혈양허 MDS 개선.
-[^5]: Primary exploration on immune associated genome of patients with Pi-Qi deficiency syndrome. 실험연구. PMID: [15892273](https://pubmed.ncbi.nlm.nih.gov/15892273/). 근거수준: 낮음. 비기허 증후군에서 면역 관련 유전자 발현 변화.
-[^6]: Effect of TCM therapy by principle for nourishing Qi, activating blood circulation and resolving phlegm on quality of life of patients with chronic obstructive pulmonary disease. 임상시험, 72명. PMID: [16248249](https://pubmed.ncbi.nlm.nih.gov/16248249/). 근거수준: 중등도. 보기활혈화담이 기허·혈어·담저 COPD 삶의 질 개선.
-[^7]: Clinical study on effects of tiepi fengdou granule/capsule combined with chemotherapy and/or radiotherapy in treating lung cancer with Qi-Yin asthenia syndrome. 임상시험, 80명. PMID: [16883902](https://pubmed.ncbi.nlm.nih.gov/16883902/). 근거수준: 중등도. 철피풍두 제제가 기음양허 폐암 증상 개선.
-[^8]: A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule. 임상시험, 82명. DOI: [10.1007/BF02835784](https://doi.org/10.1007/BF02835784) · PMID: 16417773. 근거수준: 중등도. Penyanqing 캡슐이 기체혈어 만성 골반염 유효율 83.3%.
-[^9]: Clinical study on relationship of CD62p, CD63 and TSP to the qi-stagnation induced blood-stasis syndrome and qi-deficiency induced blood-stasis syndrome in aged patients. 관찰연구. PMID: [12575572](https://pubmed.ncbi.nlm.nih.gov/12575572/). 근거수준: 중등도. 기체혈어 상태에서 혈소판 활성화 지표 유의 증가.
-[^10]: Effect of Penqiangyan Granule on the immune function of patients with chronic pelvic inflammatory disease of blood-stasis and Shen-deficiency syndrome type. 임상시험, 60명. PMID: [17969902](https://pubmed.ncbi.nlm.nih.gov/17969902/). 근거수준: 중등도. 분강염과립이 어혈신허 만성 골반염 면역 개선.
-[^11]: Effect of TCM syndrome-typing based therapy combined with cyclosporin in treating myelodysplastic syndrome. 임상시험, 58명. PMID: [17121049](https://pubmed.ncbi.nlm.nih.gov/17121049/). 근거수준: 중등도. 기혈양허 변증 환자에서 치료 효과가 더 높음.
-[^12]: Retrospective analysis on effect of reinforcing qi and activating blood for promoting safety in peri-operational stage of hip operation in aged patients. 관찰연구, 1872명. PMID: [16841661](https://pubmed.ncbi.nlm.nih.gov/16841661/). 근거수준: 중등도. 보기활혈이 고령 고관절 수술 합병증 예방.
-[^13]: A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule. 임상시험, 82명. DOI: [10.1007/BF02835784](https://doi.org/10.1007/BF02835784) · PMID: 16417773. 근거수준: 중등도. 기체혈어형 만성 골반염 유효율 83.3%.
-[^14]: Clinical observation in 102 cases of chronic pelvic inflammation treated with qi jie granules. 임상시험, 172명. PMID: [15119158](https://pubmed.ncbi.nlm.nih.gov/15119158/). 근거수준: 중등도. 기결과립이 기허혈어 만성 골반염 유효율·혈액 점도 개선.
-[^15]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 근거수준: 중등도. 비기 캡슐이 기허혈어형 RA에서 유효율 91.4%.
-[^16]: Clinical observation on treatment of diabetic peripheral neuropathy with qi-supplementing and blood-activating therapy. 임상시험, 68명. PMID: [14666763](https://pubmed.ncbi.nlm.nih.gov/14666763/). 근거수준: 중등도. 보기활혈이 기허혈어 당뇨병성 말초신경병증 NCV 개선.
-[^17]: Effects of replenishing qi, promoting blood circulation and resolving phlegm on vascular endothelial function and blood coagulation system in senile patients with hyperlipemia. 임상시험, 96명. PMID: [16817277](https://pubmed.ncbi.nlm.nih.gov/16817277/). 근거수준: 중등도. 단삼거명과립이 노인성 고지혈증 지질·혈관 내피 개선.
-[^18]: Effect of yiqi yangyin huoxue recipe on endothelin and nitric oxide of type 2 diabetic patients with deficiency of both Qi-Yin and blood stasis syndrome. 임상시험, 41명. PMID: [11789183](https://pubmed.ncbi.nlm.nih.gov/11789183/). 근거수준: 중등도. 익기양음활혈방이 기음양허·혈어 당뇨 ET 감소·혈당 개선.
-[^19]: Clinical study on relationship of CD62p, CD63 and TSP to the qi-stagnation induced blood-stasis syndrome and qi-deficiency induced blood-stasis syndrome in aged patients. 관찰연구. PMID: [12575572](https://pubmed.ncbi.nlm.nih.gov/12575572/). 근거수준: 중등도. 기체혈어 상태에서 혈소판 활성화 지표 유의 증가.
-[^20]: Effect of yimai jiangya extract on plasma neuropeptide Y level in patients of senile hypertension with qi-deficiency and blood stasis syndrome. 임상시험, 68명. PMID: [11938811](https://pubmed.ncbi.nlm.nih.gov/11938811/). 근거수준: 중등도. 이맥강압추출물이 기허혈어 고혈압 NPY 유의 감소.
-[^21]: Effect of yiqi yangyin huoxue recipe on endothelin and nitric oxide of type 2 diabetic patients with deficiency of both Qi-Yin and blood stasis syndrome. 임상시험, 41명. PMID: [11789183](https://pubmed.ncbi.nlm.nih.gov/11789183/). 근거수준: 중등도. 익기양음활혈방이 기음양허·혈어 당뇨 ET 감소·혈당 개선.
-[^22]: Primary exploration on immune associated genome of patients with Pi-Qi deficiency syndrome. 실험연구. PMID: [15892273](https://pubmed.ncbi.nlm.nih.gov/15892273/). 근거수준: 낮음. 비기허 증후군에서 면역 관련 유전자 발현 변화.
-[^23]: Clinical observation on chronic obstructive pulmonary disease of acute aggravating stage treated with activating blood circulation to remove blood stasis recipe. 임상시험, 60명. PMID: [15892277](https://pubmed.ncbi.nlm.nih.gov/15892277/). 근거수준: 중등도. 활혈거어방이 급성 악화 COPD 증상·폐기능 개선.
-[^24]: Comparative analysis on results of treadmill test in patients of coronary heart disease caused angina pectoris with Qi-Yin deficiency syndrome with or without accompanied phlegm and blood stasis syndrome. 관찰연구, 101명. PMID: [15892274](https://pubmed.ncbi.nlm.nih.gov/15892274/). 근거수준: 중등도. 기음양허+담혈어체 협심증이 더 중증.
-[^25]: Effect of liangxue huoxue xiaoyin tang on serum levels of TNF-alpha, IFN-gamma and IL-6 in psoriasis of blood-heat type. 임상시험, 63명. PMID: [16447674](https://pubmed.ncbi.nlm.nih.gov/16447674/). 근거수준: 중등도. 량혈활혈소음탕이 혈열형 건선 염증 사이토카인 감소.
-[^26]: Clinical study in treating qi-deficiency and blood-stasis syndrome of angina pectoris with qi xue granule. 임상시험, 55명. PMID: [1301847](https://pubmed.ncbi.nlm.nih.gov/1301847/). 근거수준: 중등도. 기혈과립이 기혈허어 협심증 증상·운동 내성 개선.
-[^27]: Clinical observation on treatment of diabetic peripheral neuropathy with qi-supplementing and blood-activating therapy. 임상시험, 68명. PMID: [14666763](https://pubmed.ncbi.nlm.nih.gov/14666763/). 근거수준: 중등도. 보기활혈이 기허혈어 당뇨병성 말초신경병증 NCV 개선.
-[^28]: Effect of TCM therapy by principle for nourishing Qi, activating blood circulation and resolving phlegm on quality of life of patients with chronic obstructive pulmonary disease. 임상시험, 72명. PMID: [16248249](https://pubmed.ncbi.nlm.nih.gov/16248249/). 근거수준: 중등도. 보기활혈화담이 기허·혈어·담저 COPD 삶의 질 개선.
-[^29]: Retrospective analysis on effect of reinforcing qi and activating blood for promoting safety in peri-operational stage of hip operation in aged patients. 관찰연구, 1872명. PMID: [16841661](https://pubmed.ncbi.nlm.nih.gov/16841661/). 근거수준: 중등도. 보기활혈이 고령 고관절 수술 합병증 예방.
-[^30]: Effect of hemodialysis with Chinese herbs of supplementing qi and activating blood circulation on platelet membranous glycoprotein CD62P in patients with chronic renal failure. 임상시험, 40명. PMID: [17342993](https://pubmed.ncbi.nlm.nih.gov/17342993/). 근거수준: 중등도. 기혈 보충·활혈 한약이 투석 환자 CD62P 감소.
-[^31]: Yiqi Huoxue Recipe combined with polyene phosphatidycholine capsule in treating 50 patients with non-alcoholic fatty hepatitis. 임상시험, 80명. PMID: [17343008](https://pubmed.ncbi.nlm.nih.gov/17343008/). 근거수준: 중등도. 익기활혈방이 지방간염 간 기능·지질 개선.
-[^32]: Effect of qi replenishing and blood circulation activating drugs in treatment of middle-advanced pancreatic cancer with radio- and chemotherapy. 임상시험, 58명. PMID: [11938807](https://pubmed.ncbi.nlm.nih.gov/11938807/). 근거수준: 중등도. 기보혈활약이 췌장암 증상 개선·생존율 향상.
-[^33]: Clinical study on effect of Chinese herbal medicine for supplementing kidney and qi and activating blood circulation in treating intrauterine growth retardation of fetus. 임상시험, 55명. PMID: [11783225](https://pubmed.ncbi.nlm.nih.gov/11783225/). 근거수준: 중등도. 보신익기·활혈이 태아 성장 지연 개선.
-[^34]: Clinical observation on treatment of endometriosis by tonifying qi and promoting blood circulation to remove stasis and purgation principle. 임상시험, 45명. PMID: [11783186](https://pubmed.ncbi.nlm.nih.gov/11783186/). 근거수준: 중등도. 익기활혈화어통부가 자궁내막증 면역 불균형 조절.
-[^35]: Clinical observation in 102 cases of chronic pelvic inflammation treated with qi jie granules. 임상시험, 172명. PMID: [15119158](https://pubmed.ncbi.nlm.nih.gov/15119158/). 근거수준: 중등도. 기결과립이 기허혈어 만성 골반염 유효율·혈액 점도 개선.
-[^36]: Effect of Penqiangyan Granule on the immune function of patients with chronic pelvic inflammatory disease of blood-stasis and Shen-deficiency syndrome type. 임상시험, 60명. PMID: [17969902](https://pubmed.ncbi.nlm.nih.gov/17969902/). 근거수준: 중등도. 분강염과립이 어혈신허 만성 골반염 면역 개선.
-[^37]: A clinical study on treatment of senile psoriasis by replenishing qi to activate blood--a report of 40 cases. 임상시험, 40명. PMID: [15510803](https://pubmed.ncbi.nlm.nih.gov/15510803/). 근거수준: 중등도. 보기활혈이 노인성 건선 면역 기능·혈액 순환 개선.
-[^38]: Effect of liangxue huoxue xiaoyin tang on serum levels of TNF-alpha, IFN-gamma and IL-6 in psoriasis of blood-heat type. 임상시험, 63명. PMID: [16447674](https://pubmed.ncbi.nlm.nih.gov/16447674/). 근거수준: 중등도. 량혈활혈소음탕이 혈열형 건선 염증 사이토카인 감소.
-[^39]: Clinical observation on chronic obstructive pulmonary disease of acute aggravating stage treated with activating blood circulation to remove blood stasis recipe. 임상시험, 60명. PMID: [15892277](https://pubmed.ncbi.nlm.nih.gov/15892277/). 근거수준: 중등도. 활혈거어방이 급성 악화 COPD 증상·폐기능 개선.
-[^40]: Effects of replenishing qi, promoting blood circulation and resolving phlegm on vascular endothelial function and blood coagulation system in senile patients with hyperlipemia. 임상시험, 96명. PMID: [16817277](https://pubmed.ncbi.nlm.nih.gov/16817277/). 근거수준: 중등도. 단삼거명과립이 노인성 고지혈증 지질·혈관 내피 개선.
-[^41]: Clinical study on effects of tiepi fengdou granule/capsule combined with chemotherapy and/or radiotherapy in treating lung cancer with Qi-Yin asthenia syndrome. 임상시험, 80명. PMID: [16883902](https://pubmed.ncbi.nlm.nih.gov/16883902/). 근거수준: 중등도. 철피풍두 제제가 기음양허 폐암 증상 개선.
-[^42]: Summary of 32 patients with cardiac syndrome X treated by TCM therapy of regulating qi relieving chest stuffiness and promoting blood circulation. 임상시험, 51명. DOI: [10.1007/s11655-007-0017-9](https://doi.org/10.1007/s11655-007-0017-9) · PMID: 17578312. 근거수준: 중등도. 이기쾌흉활혈이 심장 증후군 X 증상 개선.
-[^43]: Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion therapy on ASO: A retrospective study. 관찰연구, 63명. DOI: [10.1097/md.0000000000040110](https://doi.org/10.1097/md.0000000000040110). 근거수준: 중등도. 기신통맥음+뜸이 ASO 혈류·증상 개선.
-[^44]: Observation on the Efficacy and Mechanism of Blood-Letting and Cupping Therapy in Improving Upper Limb Lymphedema after Breast Cancer Surgery. 임상시험. DOI: [10.26689/par.v10i1.13715](https://doi.org/10.26689/par.v10i1.13715). 근거수준: 중등도. 사혈부항이 유방암 수술 후 림프부종 개선.
-[^45]: Clinical application of the Ziwu Duichong Qixue Huzhu theory. 문헌고찰. PMID: [16318131](https://pubmed.ncbi.nlm.nih.gov/16318131/). 근거수준: 낮음. 자오대충 기혈호주 이론이 경락 기혈 순환 보완.
-[^46]: Clinical effect of qigong practice on essential hypertension: a meta-analysis of randomized controlled trials. 메타분석, 908명. DOI: [10.1089/acm.2007.7213](https://doi.org/10.1089/acm.2007.7213) · PMID: 18199012. 근거수준: 중등도. 기공이 본태성 고혈압 혈압 유의 감소.
-[^47]: Randomised controlled trial of qigong in the treatment of mild essential hypertension. 임상시험, 88명. DOI: [10.1038/sj.jhh.1001884](https://doi.org/10.1038/sj.jhh.1001884) · PMID: 15905884. 근거수준: 중등도. 구린 기공이 경증 고혈압 혈압 유의 감소.
-[^48]: Effects of Qi-therapy on blood pressure, pain and psychological symptoms in the elderly: a randomized controlled pilot trial. 임상시험, 94명. DOI: [10.1016/s0965-2299(03)00088-8](https://doi.org/10.1016/s0965-2299(03)00088-8) · PMID: 14659379. 근거수준: 중등도. 기-치료가 노인 불안·우울·피로·통증·혈압 감소.
-[^49]: Qigong reduces stress in computer operators. 임상시험, 20명. DOI: [10.1016/j.ctcp.2006.09.003](https://doi.org/10.1016/j.ctcp.2006.09.003) · PMID: 17400142. 근거수준: 중등도. 기공이 컴퓨터 작업자 교감신경 활성도·스트레스 완화.
-[^50]: Effects of Qi-training (Qigong) on forearm blood gas concentrations. 실험연구. PMID: [15636359](https://pubmed.ncbi.nlm.nih.gov/15636359/). 근거수준: 낮음. 기공 훈련이 혈중 산소 분압 상승·이산화탄소 분압 하강.
-[^51]: Biochemical changes after a qigong program: lipids, serum enzymes, urea, and creatinine in healthy subjects. 임상시험, 29명. PMID: [18049436](https://pubmed.ncbi.nlm.nih.gov/18049436/). 근거수준: 중등도. 기공 수련이 간·신장 기능 지표 개선.
+[^1]: The explanation on the essence of Qi & Blood at meridians theory. 실험연구. DOI: [10.21203/rs.3.rs-56591/v1](https://doi.org/10.21203/rs.3.rs-56591/v1). 기는 DNA-바이오포톤 스펙트럼 코드, 혈은 프리모관을 흐르는 펄스 이온 전류로 해석.
+[^2]: Clinical application of the Ziwu Duichong Qixue Huzhu theory. 문헌고찰. PMID: [16318131](https://pubmed.ncbi.nlm.nih.gov/16318131/). 자오대충 기혈호주 이론이 12경락 기혈 순환 보완.
+[^3]: Clinical study in treating qi-deficiency and blood-stasis syndrome of angina pectoris with qi xue granule. 임상시험, 55명. PMID: [1301847](https://pubmed.ncbi.nlm.nih.gov/1301847/). 기혈과립이 기혈허어 협심증 증상·운동 내성 개선.
+[^4]: Effect of TCM syndrome-typing based therapy combined with cyclosporin in treating myelodysplastic syndrome. 임상시험, 58명. PMID: [17121049](https://pubmed.ncbi.nlm.nih.gov/17121049/). 변증시치+사이클로스포린이 기혈양허 MDS 개선.
+[^5]: Primary exploration on immune associated genome of patients with Pi-Qi deficiency syndrome. 실험연구. PMID: [15892273](https://pubmed.ncbi.nlm.nih.gov/15892273/). 비기허 증후군에서 면역 관련 유전자 발현 변화.
+[^6]: Effect of TCM therapy by principle for nourishing Qi, activating blood circulation and resolving phlegm on quality of life of patients with chronic obstructive pulmonary disease. 임상시험, 72명. PMID: [16248249](https://pubmed.ncbi.nlm.nih.gov/16248249/). 보기활혈화담이 기허·혈어·담저 COPD 삶의 질 개선.
+[^7]: Clinical study on effects of tiepi fengdou granule/capsule combined with chemotherapy and/or radiotherapy in treating lung cancer with Qi-Yin asthenia syndrome. 임상시험, 80명. PMID: [16883902](https://pubmed.ncbi.nlm.nih.gov/16883902/). 철피풍두 제제가 기음양허 폐암 증상 개선.
+[^8]: A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule. 임상시험, 82명. DOI: [10.1007/BF02835784](https://doi.org/10.1007/BF02835784) · PMID: 16417773. Penyanqing 캡슐이 기체혈어 만성 골반염 유효율 83.3%.
+[^9]: Clinical study on relationship of CD62p, CD63 and TSP to the qi-stagnation induced blood-stasis syndrome and qi-deficiency induced blood-stasis syndrome in aged patients. 관찰연구. PMID: [12575572](https://pubmed.ncbi.nlm.nih.gov/12575572/). 기체혈어 상태에서 혈소판 활성화 지표 유의 증가.
+[^10]: Effect of Penqiangyan Granule on the immune function of patients with chronic pelvic inflammatory disease of blood-stasis and Shen-deficiency syndrome type. 임상시험, 60명. PMID: [17969902](https://pubmed.ncbi.nlm.nih.gov/17969902/). 분강염과립이 어혈신허 만성 골반염 면역 개선.
+[^11]: Effect of TCM syndrome-typing based therapy combined with cyclosporin in treating myelodysplastic syndrome. 임상시험, 58명. PMID: [17121049](https://pubmed.ncbi.nlm.nih.gov/17121049/). 기혈양허 변증 환자에서 치료 효과가 더 높음.
+[^12]: Retrospective analysis on effect of reinforcing qi and activating blood for promoting safety in peri-operational stage of hip operation in aged patients. 관찰연구, 1872명. PMID: [16841661](https://pubmed.ncbi.nlm.nih.gov/16841661/). 보기활혈이 고령 고관절 수술 합병증 예방.
+[^13]: A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule. 임상시험, 82명. DOI: [10.1007/BF02835784](https://doi.org/10.1007/BF02835784) · PMID: 16417773. 기체혈어형 만성 골반염 유효율 83.3%.
+[^14]: Clinical observation in 102 cases of chronic pelvic inflammation treated with qi jie granules. 임상시험, 172명. PMID: [15119158](https://pubmed.ncbi.nlm.nih.gov/15119158/). 기결과립이 기허혈어 만성 골반염 유효율·혈액 점도 개선.
+[^15]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 비기 캡슐이 기허혈어형 RA에서 유효율 91.4%.
+[^16]: Clinical observation on treatment of diabetic peripheral neuropathy with qi-supplementing and blood-activating therapy. 임상시험, 68명. PMID: [14666763](https://pubmed.ncbi.nlm.nih.gov/14666763/). 보기활혈이 기허혈어 당뇨병성 말초신경병증 NCV 개선.
+[^17]: Effects of replenishing qi, promoting blood circulation and resolving phlegm on vascular endothelial function and blood coagulation system in senile patients with hyperlipemia. 임상시험, 96명. PMID: [16817277](https://pubmed.ncbi.nlm.nih.gov/16817277/). 단삼거명과립이 노인성 고지혈증 지질·혈관 내피 개선.
+[^18]: Effect of yiqi yangyin huoxue recipe on endothelin and nitric oxide of type 2 diabetic patients with deficiency of both Qi-Yin and blood stasis syndrome. 임상시험, 41명. PMID: [11789183](https://pubmed.ncbi.nlm.nih.gov/11789183/). 익기양음활혈방이 기음양허·혈어 당뇨 ET 감소·혈당 개선.
+[^19]: Clinical study on relationship of CD62p, CD63 and TSP to the qi-stagnation induced blood-stasis syndrome and qi-deficiency induced blood-stasis syndrome in aged patients. 관찰연구. PMID: [12575572](https://pubmed.ncbi.nlm.nih.gov/12575572/). 기체혈어 상태에서 혈소판 활성화 지표 유의 증가.
+[^20]: Effect of yimai jiangya extract on plasma neuropeptide Y level in patients of senile hypertension with qi-deficiency and blood stasis syndrome. 임상시험, 68명. PMID: [11938811](https://pubmed.ncbi.nlm.nih.gov/11938811/). 이맥강압추출물이 기허혈어 고혈압 NPY 유의 감소.
+[^21]: Effect of yiqi yangyin huoxue recipe on endothelin and nitric oxide of type 2 diabetic patients with deficiency of both Qi-Yin and blood stasis syndrome. 임상시험, 41명. PMID: [11789183](https://pubmed.ncbi.nlm.nih.gov/11789183/). 익기양음활혈방이 기음양허·혈어 당뇨 ET 감소·혈당 개선.
+[^22]: Primary exploration on immune associated genome of patients with Pi-Qi deficiency syndrome. 실험연구. PMID: [15892273](https://pubmed.ncbi.nlm.nih.gov/15892273/). 비기허 증후군에서 면역 관련 유전자 발현 변화.
+[^23]: Clinical observation on chronic obstructive pulmonary disease of acute aggravating stage treated with activating blood circulation to remove blood stasis recipe. 임상시험, 60명. PMID: [15892277](https://pubmed.ncbi.nlm.nih.gov/15892277/). 활혈거어방이 급성 악화 COPD 증상·폐기능 개선.
+[^24]: Comparative analysis on results of treadmill test in patients of coronary heart disease caused angina pectoris with Qi-Yin deficiency syndrome with or without accompanied phlegm and blood stasis syndrome. 관찰연구, 101명. PMID: [15892274](https://pubmed.ncbi.nlm.nih.gov/15892274/). 기음양허+담혈어체 협심증이 더 중증.
+[^25]: Effect of liangxue huoxue xiaoyin tang on serum levels of TNF-alpha, IFN-gamma and IL-6 in psoriasis of blood-heat type. 임상시험, 63명. PMID: [16447674](https://pubmed.ncbi.nlm.nih.gov/16447674/). 량혈활혈소음탕이 혈열형 건선 염증 사이토카인 감소.
+[^26]: Clinical study in treating qi-deficiency and blood-stasis syndrome of angina pectoris with qi xue granule. 임상시험, 55명. PMID: [1301847](https://pubmed.ncbi.nlm.nih.gov/1301847/). 기혈과립이 기혈허어 협심증 증상·운동 내성 개선.
+[^27]: Clinical observation on treatment of diabetic peripheral neuropathy with qi-supplementing and blood-activating therapy. 임상시험, 68명. PMID: [14666763](https://pubmed.ncbi.nlm.nih.gov/14666763/). 보기활혈이 기허혈어 당뇨병성 말초신경병증 NCV 개선.
+[^28]: Effect of TCM therapy by principle for nourishing Qi, activating blood circulation and resolving phlegm on quality of life of patients with chronic obstructive pulmonary disease. 임상시험, 72명. PMID: [16248249](https://pubmed.ncbi.nlm.nih.gov/16248249/). 보기활혈화담이 기허·혈어·담저 COPD 삶의 질 개선.
+[^29]: Retrospective analysis on effect of reinforcing qi and activating blood for promoting safety in peri-operational stage of hip operation in aged patients. 관찰연구, 1872명. PMID: [16841661](https://pubmed.ncbi.nlm.nih.gov/16841661/). 보기활혈이 고령 고관절 수술 합병증 예방.
+[^30]: Effect of hemodialysis with Chinese herbs of supplementing qi and activating blood circulation on platelet membranous glycoprotein CD62P in patients with chronic renal failure. 임상시험, 40명. PMID: [17342993](https://pubmed.ncbi.nlm.nih.gov/17342993/). 기혈 보충·활혈 한약이 투석 환자 CD62P 감소.
+[^31]: Yiqi Huoxue Recipe combined with polyene phosphatidycholine capsule in treating 50 patients with non-alcoholic fatty hepatitis. 임상시험, 80명. PMID: [17343008](https://pubmed.ncbi.nlm.nih.gov/17343008/). 익기활혈방이 지방간염 간 기능·지질 개선.
+[^32]: Effect of qi replenishing and blood circulation activating drugs in treatment of middle-advanced pancreatic cancer with radio- and chemotherapy. 임상시험, 58명. PMID: [11938807](https://pubmed.ncbi.nlm.nih.gov/11938807/). 기보혈활약이 췌장암 증상 개선·생존율 향상.
+[^33]: Clinical study on effect of Chinese herbal medicine for supplementing kidney and qi and activating blood circulation in treating intrauterine growth retardation of fetus. 임상시험, 55명. PMID: [11783225](https://pubmed.ncbi.nlm.nih.gov/11783225/). 보신익기·활혈이 태아 성장 지연 개선.
+[^34]: Clinical observation on treatment of endometriosis by tonifying qi and promoting blood circulation to remove stasis and purgation principle. 임상시험, 45명. PMID: [11783186](https://pubmed.ncbi.nlm.nih.gov/11783186/). 익기활혈화어통부가 자궁내막증 면역 불균형 조절.
+[^35]: Clinical observation in 102 cases of chronic pelvic inflammation treated with qi jie granules. 임상시험, 172명. PMID: [15119158](https://pubmed.ncbi.nlm.nih.gov/15119158/). 기결과립이 기허혈어 만성 골반염 유효율·혈액 점도 개선.
+[^36]: Effect of Penqiangyan Granule on the immune function of patients with chronic pelvic inflammatory disease of blood-stasis and Shen-deficiency syndrome type. 임상시험, 60명. PMID: [17969902](https://pubmed.ncbi.nlm.nih.gov/17969902/). 분강염과립이 어혈신허 만성 골반염 면역 개선.
+[^37]: A clinical study on treatment of senile psoriasis by replenishing qi to activate blood--a report of 40 cases. 임상시험, 40명. PMID: [15510803](https://pubmed.ncbi.nlm.nih.gov/15510803/). 보기활혈이 노인성 건선 면역 기능·혈액 순환 개선.
+[^38]: Effect of liangxue huoxue xiaoyin tang on serum levels of TNF-alpha, IFN-gamma and IL-6 in psoriasis of blood-heat type. 임상시험, 63명. PMID: [16447674](https://pubmed.ncbi.nlm.nih.gov/16447674/). 량혈활혈소음탕이 혈열형 건선 염증 사이토카인 감소.
+[^39]: Clinical observation on chronic obstructive pulmonary disease of acute aggravating stage treated with activating blood circulation to remove blood stasis recipe. 임상시험, 60명. PMID: [15892277](https://pubmed.ncbi.nlm.nih.gov/15892277/). 활혈거어방이 급성 악화 COPD 증상·폐기능 개선.
+[^40]: Effects of replenishing qi, promoting blood circulation and resolving phlegm on vascular endothelial function and blood coagulation system in senile patients with hyperlipemia. 임상시험, 96명. PMID: [16817277](https://pubmed.ncbi.nlm.nih.gov/16817277/). 단삼거명과립이 노인성 고지혈증 지질·혈관 내피 개선.
+[^41]: Clinical study on effects of tiepi fengdou granule/capsule combined with chemotherapy and/or radiotherapy in treating lung cancer with Qi-Yin asthenia syndrome. 임상시험, 80명. PMID: [16883902](https://pubmed.ncbi.nlm.nih.gov/16883902/). 철피풍두 제제가 기음양허 폐암 증상 개선.
+[^42]: Summary of 32 patients with cardiac syndrome X treated by TCM therapy of regulating qi relieving chest stuffiness and promoting blood circulation. 임상시험, 51명. DOI: [10.1007/s11655-007-0017-9](https://doi.org/10.1007/s11655-007-0017-9) · PMID: 17578312. 이기쾌흉활혈이 심장 증후군 X 증상 개선.
+[^43]: Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion therapy on ASO: A retrospective study. 관찰연구, 63명. DOI: [10.1097/md.0000000000040110](https://doi.org/10.1097/md.0000000000040110). 기신통맥음+뜸이 ASO 혈류·증상 개선.
+[^44]: Observation on the Efficacy and Mechanism of Blood-Letting and Cupping Therapy in Improving Upper Limb Lymphedema after Breast Cancer Surgery. 임상시험. DOI: [10.26689/par.v10i1.13715](https://doi.org/10.26689/par.v10i1.13715). 사혈부항이 유방암 수술 후 림프부종 개선.
+[^45]: Clinical application of the Ziwu Duichong Qixue Huzhu theory. 문헌고찰. PMID: [16318131](https://pubmed.ncbi.nlm.nih.gov/16318131/). 자오대충 기혈호주 이론이 경락 기혈 순환 보완.
+[^46]: Clinical effect of qigong practice on essential hypertension: a meta-analysis of randomized controlled trials. 메타분석, 908명. DOI: [10.1089/acm.2007.7213](https://doi.org/10.1089/acm.2007.7213) · PMID: 18199012. 기공이 본태성 고혈압 혈압 유의 감소.
+[^47]: Randomised controlled trial of qigong in the treatment of mild essential hypertension. 임상시험, 88명. DOI: [10.1038/sj.jhh.1001884](https://doi.org/10.1038/sj.jhh.1001884) · PMID: 15905884. 구린 기공이 경증 고혈압 혈압 유의 감소.
+[^48]: Effects of Qi-therapy on blood pressure, pain and psychological symptoms in the elderly: a randomized controlled pilot trial. 임상시험, 94명. DOI: [10.1016/s0965-2299(03)00088-8](https://doi.org/10.1016/s0965-2299(03)00088-8) · PMID: 14659379. 기-치료가 노인 불안·우울·피로·통증·혈압 감소.
+[^49]: Qigong reduces stress in computer operators. 임상시험, 20명. DOI: [10.1016/j.ctcp.2006.09.003](https://doi.org/10.1016/j.ctcp.2006.09.003) · PMID: 17400142. 기공이 컴퓨터 작업자 교감신경 활성도·스트레스 완화.
+[^50]: Effects of Qi-training (Qigong) on forearm blood gas concentrations. 실험연구. PMID: [15636359](https://pubmed.ncbi.nlm.nih.gov/15636359/). 기공 훈련이 혈중 산소 분압 상승·이산화탄소 분압 하강.
+[^51]: Biochemical changes after a qigong program: lipids, serum enzymes, urea, and creatinine in healthy subjects. 임상시험, 29명. PMID: [18049436](https://pubmed.ncbi.nlm.nih.gov/18049436/). 기공 수련이 간·신장 기능 지표 개선.
 
 ## 미충족 근거 / 추가 연구 필요
 

@@ -1,6 +1,6 @@
 # 어혈(瘀血, Blood Stasis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석/임상시험/관찰연구 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -117,19 +117,19 @@
 ## Q&A
 
 **Q1. 어혈(瘀血)이란 무엇이며, 어떻게 진단하나요?**
-어혈은 혈액이 경맥에 정체되어 순환하지 못하는 병리 상태로, 통증·종괴·출혈·설질 자반·고정통 등의 증상을 유발합니다.[^2] 진단은 사진(四診) 관찰, 특히 설질 자반·설하정맥 확장을 확인하고,[^19][^20] 혈액 점도·혈소판 활성·혈관 내피 지표 등 객관적 검사를 보조적으로 활용합니다.[^14][^16] 근거수준: 중등도(관찰연구/체계적 고찰).
+어혈은 혈액이 경맥에 정체되어 순환하지 못하는 병리 상태로, 통증·종괴·출혈·설질 자반·고정통 등의 증상을 유발합니다.[^2] 진단은 사진(四診) 관찰, 특히 설질 자반·설하정맥 확장을 확인하고,[^19][^20] 혈액 점도·혈소판 활성·혈관 내피 지표 등 객관적 검사를 보조적으로 활용합니다.[^14][^16]
 
 **Q2. 어혈에 어떤 한약이 효과적인가요?**
-혈부축어탕(血府逐瘀湯)이 한국 어혈 연구에서 가장 빈번하게 사용된 처방이며,[^1] 거어소반 캡슐·단삼 제제·홍화황 주사제·영심환 등이 심혈관 질환의 어혈 증후군에서 효과를 보입니다.[^26][^27][^28][^29] 계지복령환은 정맥류·만성 경막하 혈종 등에 유용합니다.[^35][^36] 근거수준: 중등도(임상시험/체계적 고찰).
+혈부축어탕(血府逐瘀湯)이 한국 어혈 연구에서 가장 빈번하게 사용된 처방이며,[^1] 거어소반 캡슐·단삼 제제·홍화황 주사제·영심환 등이 심혈관 질환의 어혈 증후군에서 효과를 보입니다.[^26][^27][^28][^29] 계지복령환은 정맥류·만성 경막하 혈종 등에 유용합니다.[^35][^36]
 
 **Q3. 침·사혈·부항도 어혈 치료에 도움이 되나요?**
-네. 담음-어혈형 고혈압에 침치료 병행이 혈압·지질·염증 지표 개선에 효과적이며,[^40] 도침·점자출혈 병용이 요통 개선에,[^41] 침·부항·점자출혈 병합이 기미 개선에 효과적입니다.[^42] 물집 부항은 담음·어혈 제거에 유용합니다.[^43] 근거수준: 중등도(임상시험/문헌고찰).
+네. 담음-어혈형 고혈압에 침치료 병행이 혈압·지질·염증 지표 개선에 효과적이며,[^40] 도침·점자출혈 병용이 요통 개선에,[^41] 침·부항·점자출혈 병합이 기미 개선에 효과적입니다.[^42] 물집 부항은 담음·어혈 제거에 유용합니다.[^43]
 
 **Q4. 어혈은 만성 질환과 어떤 관련이 있나요?**
-어혈은 죽상동맥경화·뇌졸중·대사 질환·만성 간질환 등에서 흔한 병리 기전으로, 질환 중증도·합병증 발생과 연관됩니다.[^9][^23][^25] 담음·어혈·독의 상호작용이 경동맥 경화증의 주요 병리로 제시됩니다.[^13] 근거수준: 중등도(관찰연구/문헌고찰).
+어혈은 죽상동맥경화·뇌졸중·대사 질환·만성 간질환 등에서 흔한 병리 기전으로, 질환 중증도·합병증 발생과 연관됩니다.[^9][^23][^25] 담음·어혈·독의 상호작용이 경동맥 경화증의 주요 병리로 제시됩니다.[^13]
 
 **Q5. 어혈을 예방·관리하려면 어떻게 해야 하나요?**
-규칙적인 신체 활동이 어혈 체질 발생을 낮추고,[^52] 체질 평가를 통한 맞춤형 수면·생활·식이 관리가 도움이 됩니다.[^24][^54] 외상·수술 후에는 어혈 제거 치료를 병행하여 회복을 돕습니다.[^11][^12] 근거수준: 중등도(관찰연구).
+규칙적인 신체 활동이 어혈 체질 발생을 낮추고,[^52] 체질 평가를 통한 맞춤형 수면·생활·식이 관리가 도움이 됩니다.[^24][^54] 외상·수술 후에는 어혈 제거 치료를 병행하여 회복을 돕습니다.[^11][^12]
 
 ## 근거 요약
 
@@ -153,60 +153,60 @@
 - 본초: 당귀(當歸)·단삼(丹蔘)·홍화(紅花)·천궁(川芎)·작약(芍藥)·우슬(牛膝) 등 활혈거어 약재가 활용된다.[^1][^27][^28]
 - 경혈: 풍지(GB20)·곡지(LI11)·내관(PC6)·족삼리(ST36)·풍륭(ST40)·태충(LR3)·혈해(SP10)·삼음교(SP6)·위중(BL40)·대추(GV14) 등이 활용된다.[^40][^42]
 
-[^1]: Korean Studies on Blood Stasis: An Overview. 체계적 고찰. DOI: [10.1155/2015/316872](https://doi.org/10.1155/2015/316872). 근거수준: 중등도. 혈부축어탕·당귀가 가장 빈번 사용, 어혈은 순환 장애로 인식.
-[^2]: Blood stasis syndrome in Japan and its molecular biological analysis. 문헌고찰. DOI: [10.1007/s11655-014-1882-7](https://doi.org/10.1007/s11655-014-1882-7) · PMID: 24972576. 근거수준: 낮음. 일본 어혈 증후군의 분자생물학적 분석.
-[^3]: The method of promoting blood circulation and removing blood stasis in the treatment of intracerebral hemorrhage. 메타분석(프로토콜). DOI: [10.1097/md9.0000000000000312](https://doi.org/10.1097/md9.0000000000000312). 근거수준: 낮음. 활혈거어법이 뇌내출혈 보조 치료로 가치.
-[^4]: Traditional Chinese medicine body constitution and sleep quality. 관찰연구, 8517명. DOI: [10.1093/sleepadvances/zpaf069](https://doi.org/10.1093/sleepadvances/zpaf069) · PMID: 41210622. 근거수준: 중등도. 기체·어혈 체질이 수면 질 저하와 강한 상관.
-[^5]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 근거수준: 중등도. 비기 캡슐이 기허혈어형 RA에서 유효율 91.4%.
-[^6]: Clinical analysis of 200 cases of necrotic thromboangiitis obliterans. 관찰연구, 200명. PMID: [1705484](https://pubmed.ncbi.nlm.nih.gov/1705484/). 근거수준: 중등도. 혈액순환 개선을 통한 어혈 제거가 중요.
-[^7]: Classification of patients with cold sensation by a review of systems database. 관찰연구, 524명. DOI: [10.1016/j.ctim.2019.05.011](https://doi.org/10.1016/j.ctim.2019.05.011) · PMID: 31331585. 근거수준: 중등도. 한랭 과민증에서 어혈 패턴은 신체적 강직·부인과 질환과 연관.
-[^8]: Research on relationship of syndrome type and hemorheology in acute gout arthritis. 관찰연구, 60명. PMID: [17186728](https://pubmed.ncbi.nlm.nih.gov/17186728/). 근거수준: 중등도. 어혈열결형에서 혈액 점도·혈소판 활성도 높음.
-[^9]: Review of clinical and experimental studies on treatment of atherosclerosis with expelling phlegm and relieving blood stasis principle. 문헌고찰. PMID: [17205830](https://pubmed.ncbi.nlm.nih.gov/17205830/). 근거수준: 낮음. 거담화어 원칙이 죽상동맥경화에 유효.
-[^10]: Relationship between phlegm-stasis syndrome and fibrinolytic status in non-alcoholic fatty liver. 관찰연구, 98명. PMID: [15719744](https://pubmed.ncbi.nlm.nih.gov/15719744/). 근거수준: 중등도. 담음어혈 증후군에서 섬유소 용해 활성 저하.
-[^11]: Efficacy and Safety of Blood Stasis Based Herbal Medicine for Patients with Traffic Accident. 관찰연구, 40명. DOI: [10.13045/jar.2020.00038](https://doi.org/10.13045/jar.2020.00038). 근거수준: 중등도. 통도산 포함 혈어 기반 한약이 통증·삶의 질 개선.
-[^12]: TREATMENT OF TRAUMATIC LIMB EDEMA IN ORTHOPEDICS BASED ON THE THEORY OF "BLOOD STASIS LEADS TO WATER RETENTION". 문헌고찰. DOI: [10.21010/ajtcamv22i1.3](https://doi.org/10.21010/ajtcamv22i1.3). 근거수준: 낮음. 어혈유수 이론이 외상성 사지 부종 치료에 유효.
-[^13]: Origin of Phlegm-Stasis-Toxin Theory and Its Empirical Application in Syndrome Differentiation of Carotid Atherosclerosis. 증례. DOI: [10.22158/rhs.v11n2p177](https://doi.org/10.22158/rhs.v11n2p177). 근거수준: 낮음. 담음·어혈·독 상호작용이 경동맥 경화증 병리.
-[^14]: Analysis of the function of vascular endothelial cells in coronary heart disease patients of blood-stasis syndrome. 관찰연구, 430명. PMID: [16883905](https://pubmed.ncbi.nlm.nih.gov/16883905/). 근거수준: 중등도. 심혈어혈증후군에서 ET·sICAM-1·sVCAM-1 증가.
-[^15]: Role of Blood Stasis Syndrome of Kampo Medicine in the Early Pathogenic Stage of Atherosclerosis. 관찰연구, 41명. DOI: [10.1155/2021/5557392](https://doi.org/10.1155/2021/5557392) · PMID: 34135979. 근거수준: 중등도. 어혈 증후군이 혈관 내피 기능 장애와 연관(OR 6.26).
-[^16]: Expression of platelet CD62p gene and leucocyte HSP70 gene in patients with blood stasis syndrome. 관찰연구, 160명. PMID: [15892272](https://pubmed.ncbi.nlm.nih.gov/15892272/). 근거수준: 중등도. 어혈증 환자에서 CD62P·HSP70 유전자 발현 증가.
-[^17]: Plasma Matrix Metalloproteinase-9 as a Marker of Blood Stasis in Varicose Veins. 실험연구. DOI: [10.1161/01.cir.0000027521.83518.4c](https://doi.org/10.1161/01.cir.0000027521.83518.4c). 근거수준: 낮음. 혈액 정체 시 pro-MMP-9·ICAM-1·VCAM-1 증가.
-[^18]: Role of Blood Stasis Syndrome of Kampo Medicine in the Early Pathogenic Stage of Atherosclerosis. 관찰연구, 41명. DOI: [10.1155/2021/5557392](https://doi.org/10.1155/2021/5557392) · PMID: 34135979. 근거수준: 중등도. 어혈+내당능 장애 결합 시 진단 정확도 AUC 0.80.
-[^19]: The association in Kampo medicine between Oketsu (blood stasis) and sublingual vein width of the tongue. 관찰연구, 38명. DOI: [10.1002/tkm2.1243](https://doi.org/10.1002/tkm2.1243). 근거수준: 중등도. 설하정맥 폭이 어혈 점수와 유의한 상관관계.
-[^20]: Combination Image Analysis of Tongue Color and Sublingual Vein Improves the Diagnostic Accuracy of Oketsu. 관찰연구, 38명. DOI: [10.3389/fmed.2021.790542](https://doi.org/10.3389/fmed.2021.790542) · PMID: 35308037. 근거수준: 중등도. 설색·설하정맥 결합 분석이 어혈 진단 정확도 향상.
-[^21]: Principal component vector rotation of the tongue color spectrum to predict "Mibyou". 실험연구, 30명. DOI: [10.1007/s11548-010-0506-8](https://doi.org/10.1007/s11548-010-0506-8) · PMID: 20574797. 근거수준: 낮음. 혀 색상 스펙트럼 분석이 어혈 점수와 상관(-0.75).
-[^22]: Metabolomic Analysis of Clinical Plasma from Cerebral Infarction Patients Presenting with Blood Stasis. 관찰연구, 62명. DOI: [10.1155/2015/453423](https://doi.org/10.1155/2015/453423). 근거수준: 중등도. 뇌경색 어혈 환자의 혈장 대사체 분석.
-[^23]: Study on correlation between Chinese medicine syndromes in stroke and neurological deficits during recovery phase. 관찰연구. DOI: [10.1097/MD.0000000000039600](https://doi.org/10.1097/MD.0000000000039600) · PMID: 39331899. 근거수준: 중등도. 어혈 변증이 뇌졸중 신경학적 결손과 상관.
-[^24]: Reduced health-related quality of life in body constitutions of yin-xu, yang-xu, stasis in type 2 diabetes. 관찰연구, 705명. DOI: [10.1155/2014/309403](https://doi.org/10.1155/2014/309403) · PMID: 25093025. 근거수준: 중등도. 어혈 체질 당뇨 환자에서 삶의 질 저하.
-[^25]: TCM body constitution predicts new-onset diabetic albuminuria in patients with type 2 diabetes. 관찰연구, 426명. DOI: [10.1097/MD.0000000000032342](https://doi.org/10.1097/MD.0000000000032342) · PMID: 36550881. 근거수준: 중등도. 담음/어혈 체질이 당뇨 알부민뇨 위험 예측.
-[^26]: Effects of Quyu Xiaoban capsules on clinical outcomes and platelet activation and aggregation in patients with unstable angina pectoris. 임상시험, 90명. DOI: [10.1089/acm.2007.6226](https://doi.org/10.1089/acm.2007.6226) · PMID: 17604562. 근거수준: 중등도. 거어소반 캡슐이 협심증 증상·혈소판 응집 개선.
-[^27]: Clinical non-inferiority trial on treatment of coronary heart disease angina pectoris of Xin-blood stasis syndrome type with lyophilized Salvia salt of lithospermic acid powder. 임상시험, 480명. DOI: [10.1007/BF02857423](https://doi.org/10.1007/BF02857423) · PMID: 16571277. 근거수준: 중등도. 단삼 리토스퍼믹산 염 주사제가 비열등·유효율 우수.
-[^28]: A clinical study of Safflower Yellow injection in treating coronary heart disease angina pectoris with Xin-blood stagnation syndrome. 임상시험, 448명. DOI: [10.1007/BF02836509](https://doi.org/10.1007/BF02836509) · PMID: 16181539. 근거수준: 중등도. 홍화황 주사제가 협심증 증상 개선에 효과적.
-[^29]: Efficacy and safety of Yingxin pill for stable angina pectoris with heart blood stasis obstruction syndrome. 임상시험, 60명. DOI: [10.3389/fphar.2026.1730842](https://doi.org/10.3389/fphar.2026.1730842) · PMID: 41782933. 근거수준: 중등도. 영심환이 협심증 증상·지질·염증 개선.
-[^30]: Effection of compositie salviae dropping pill on hyperlipemia patients with phlegm and blood stasis syndrome. 임상시험, 81명. PMID: [17511155](https://pubmed.ncbi.nlm.nih.gov/17511155/). 근거수준: 중등도. 단삼 복합제가 지질 강하·간 보호 효과.
-[^31]: Effect of compound duzhong jiangu granule on knee joint osteoarthritis. 임상시험, 600명. PMID: [16025958](https://pubmed.ncbi.nlm.nih.gov/16025958/). 근거수준: 중등도. 두충강골 과립이 근맥어혈형 골관절염에 유효율 92%.
-[^32]: Clinical study on effects of kangwei granule on precancerous lesion in patients with chronic atrophic gastritis. 임상시험, 68명. PMID: [16248251](https://pubmed.ncbi.nlm.nih.gov/16248251/). 근거수준: 중등도. 강위과립이 어혈 변증 위염 전암성 병변 개선.
-[^33]: Effect of relieving blood stasis, strengthening spleen and soothing liver therapy in improving hepatic function after liver-carcinomectomy. 임상시험, 120명. PMID: [12575605](https://pubmed.ncbi.nlm.nih.gov/12575605/). 근거수준: 중등도. 어혈 제거·건비·소간 요법이 간 기능 개선.
-[^34]: Compounds and monomeric active ingredients of resolving phlegm and removing stasis therapy (RPST) for the treatment of non-small cell lung cancer. 문헌고찰. DOI: [10.1016/j.jep.2025.120770](https://doi.org/10.1016/j.jep.2025.120770) · PMID: 41130578. 근거수준: 낮음. 거담화어법이 폐암 종양 감소·전이 억제.
-[^35]: Examination of clinical efficacy of keishibukuryogan on non-specific complaints associated with varicose veins of the lower extremity. 임상시험, 30명. DOI: [10.3400/avd.oa.14-00055](https://doi.org/10.3400/avd.oa.14-00055) · PMID: 25298828. 근거수준: 중등도. 계지복령환이 정맥류 증상·피부 관류압 개선.
-[^36]: Japanese herbal Kampo medicine, Keishibukuryogan, for chronic subdural hematoma. 관찰연구, 60명. DOI: [10.25259/sni_455_2022](https://doi.org/10.25259/sni_455_2022). 근거수준: 중등도. 계지복령환이 만성 경막하 혈종 재발 방지에 비열등.
-[^37]: Comparative efficacy of Keishi-bukuryo-gan and pentoxifylline on RBC deformability in patients with "oketsu" syndrome. 임상시험, 30명. DOI: [10.1078/094471103322331395](https://doi.org/10.1078/094471103322331395) · PMID: 13678228. 근거수준: 중등도. 계지복령환이 적혈구 변형성 개선.
-[^38]: Traumatic asphyxia successfully treated with jidabokuippo. 증례, 1명. DOI: [10.1002/tkm2.1260](https://doi.org/10.1002/tkm2.1260). 근거수준: 낮음. 지다복이포가 외상성 질식 부종·반상출혈 개선.
-[^39]: A case report of Moyamoya disease successfully treated with Chinese medicine. 증례, 1명. DOI: [10.1142/S0192415X92000345](https://doi.org/10.1142/S0192415X92000345) · PMID: 1471616. 근거수준: 낮음. 계지복령환·소후명탕이 모야모야병 개선.
-[^40]: Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type. 임상시험, 60명. PMID: [17663100](https://pubmed.ncbi.nlm.nih.gov/17663100/). 근거수준: 중등도. 침치료 병행이 담음-어혈형 고혈압 개선.
-[^41]: Observation on therapeutic effect of the third lumbar transverse process syndrome treated with acupotomy and blood pricking therapy. 임상시험, 90명. PMID: [22734388](https://pubmed.ncbi.nlm.nih.gov/22734388/). 근거수준: 중등도. 도침·점자출혈 병용이 요통·기능 개선.
-[^42]: Observation on therapeutic effect of acupuncture, moving cupping and blood-letting puncture on chloasma. 임상시험, 176명. PMID: [19391535](https://pubmed.ncbi.nlm.nih.gov/19391535/). 근거수준: 중등도. 침·부항·점자출혈 병합이 기미 유효율 96.7%.
-[^43]: Application of blistering cupping. 문헌고찰. DOI: [10.13703/j.0255-2930.2016.11.022](https://doi.org/10.13703/j.0255-2930.2016.11.022) · PMID: 29231306. 근거수준: 낮음. 물집 부항이 담음·어혈 제거에 유효.
-[^44]: Technical operation specification for pricking–cupping therapy. 가이드라인. DOI: [10.4103/jin.jin_79_23](https://doi.org/10.4103/jin.jin_79_23). 근거수준: 중등도. 점자출혈·부항 요법 기술 운영 규격.
-[^45]: The Research Trends of Pharmacopuncture Therapy on Cervical Pain Caused by Traffic Accidents. 체계적 고찰. DOI: [10.3831/KPI.2020.23.4.201](https://doi.org/10.3831/KPI.2020.23.4.201) · PMID: 33408896. 근거수준: 중등도. 교통사고 경추통에 봉독·중성어혈 약침 효과.
-[^46]: Impact of combining laparoscopy with traditional Chinese medicine on oxidative stress in endometriosis-related infertility. 메타분석, 1084명. DOI: [10.1097/MD.0000000000041692](https://doi.org/10.1097/MD.0000000000041692) · PMID: 40228263. 근거수준: 중등도. 복강경+활혈거어 중의학 병행이 산화 스트레스 감소.
-[^47]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness. 임상시험, 81명. DOI: [10.1097/md.0000000000019045](https://doi.org/10.1097/md.0000000000019045). 근거수준: 중등도. 수오강기탕+침이 신허·담음·어혈 PCOS 개선.
-[^48]: Clinical Efficacy of Modified San'ao Decoction and Erchen Decoction for Esophageal Dysphagia (Shi Bi) with Phlegm-Dampness and Blood Stasis Syndrome. 임상시험, 96명. DOI: [10.3791/71675](https://doi.org/10.3791/71675) · PMID: 42406624. 근거수준: 중등도. 가감삼오탕·이진탕이 담습어혈형 연하곤란 개선.
-[^49]: Efficacy and safety of Qudu Huiyuan Pills in the treatment of opioid withdrawal syndrome. 임상시험, 124명. DOI: [10.1097/FBP.0000000000000846](https://doi.org/10.1097/FBP.0000000000000846) · PMID: 41017566. 근거수준: 중등도. 거독회원환이 독체어혈형 금단 증상 개선.
-[^50]: Herbal Medicine for Metabolic Dysfunction-Associated Steatotic Liver Disease. 메타분석. DOI: [10.22246/jikm.2025.46.4.774](https://doi.org/10.22246/jikm.2025.46.4.774). 근거수준: 중등도. 담음-어혈 변증 한약이 MASLD 개선.
-[^51]: Korean Medicine for Aging Cohort (KoMAC) study. 관찰연구, 1000명. DOI: [10.1136/bmjopen-2025-105488](https://doi.org/10.1136/bmjopen-2025-105488) · PMID: 42331573. 근거수준: 중등도. 노화와 함께 여성에서 신허·어혈 패턴 증가.
-[^52]: The Effect of Physical Activity on Body Constitution and Psychological Health in Older Adults. 관찰연구, 4497명. DOI: [10.1123/japa.2022-0195](https://doi.org/10.1123/japa.2022-0195) · PMID: 36410341. 근거수준: 중등도. 신체 활동이 어혈 체질 발생 낮춤.
-[^53]: Multidimensional Sleep Health and Its Association with TCM Constitution Types Among Community-Dwelling Older Adults. 관찰연구, 305명. DOI: [10.1080/07317115.2026.2696835](https://doi.org/10.1080/07317115.2026.2696835) · PMID: 42441415. 근거수준: 중등도. 노인 수면 장애가 어혈 체질과 연관.
-[^54]: Correlation Analysis of Traditional Chinese Medicine Constitution and Metabolic Indexes in General Physical Examination People. 관찰연구, 1029명. DOI: [10.2174/0118715303302433240918104124](https://doi.org/10.2174/0118715303302433240918104124) · PMID: 39364874. 근거수준: 중등도. 어혈 체질에서 대사 지표 이상 빈도 높음.
+[^1]: Korean Studies on Blood Stasis: An Overview. 체계적 고찰. DOI: [10.1155/2015/316872](https://doi.org/10.1155/2015/316872). 혈부축어탕·당귀가 가장 빈번 사용, 어혈은 순환 장애로 인식.
+[^2]: Blood stasis syndrome in Japan and its molecular biological analysis. 문헌고찰. DOI: [10.1007/s11655-014-1882-7](https://doi.org/10.1007/s11655-014-1882-7) · PMID: 24972576. 일본 어혈 증후군의 분자생물학적 분석.
+[^3]: The method of promoting blood circulation and removing blood stasis in the treatment of intracerebral hemorrhage. 메타분석(프로토콜). DOI: [10.1097/md9.0000000000000312](https://doi.org/10.1097/md9.0000000000000312). 활혈거어법이 뇌내출혈 보조 치료로 가치.
+[^4]: Traditional Chinese medicine body constitution and sleep quality. 관찰연구, 8517명. DOI: [10.1093/sleepadvances/zpaf069](https://doi.org/10.1093/sleepadvances/zpaf069) · PMID: 41210622. 기체·어혈 체질이 수면 질 저하와 강한 상관.
+[^5]: Clinical observation on treatment of rheumatoid arthritis with biqi capsule. 임상시험, 142명. PMID: [16548360](https://pubmed.ncbi.nlm.nih.gov/16548360/). 비기 캡슐이 기허혈어형 RA에서 유효율 91.4%.
+[^6]: Clinical analysis of 200 cases of necrotic thromboangiitis obliterans. 관찰연구, 200명. PMID: [1705484](https://pubmed.ncbi.nlm.nih.gov/1705484/). 혈액순환 개선을 통한 어혈 제거가 중요.
+[^7]: Classification of patients with cold sensation by a review of systems database. 관찰연구, 524명. DOI: [10.1016/j.ctim.2019.05.011](https://doi.org/10.1016/j.ctim.2019.05.011) · PMID: 31331585. 한랭 과민증에서 어혈 패턴은 신체적 강직·부인과 질환과 연관.
+[^8]: Research on relationship of syndrome type and hemorheology in acute gout arthritis. 관찰연구, 60명. PMID: [17186728](https://pubmed.ncbi.nlm.nih.gov/17186728/). 어혈열결형에서 혈액 점도·혈소판 활성도 높음.
+[^9]: Review of clinical and experimental studies on treatment of atherosclerosis with expelling phlegm and relieving blood stasis principle. 문헌고찰. PMID: [17205830](https://pubmed.ncbi.nlm.nih.gov/17205830/). 거담화어 원칙이 죽상동맥경화에 유효.
+[^10]: Relationship between phlegm-stasis syndrome and fibrinolytic status in non-alcoholic fatty liver. 관찰연구, 98명. PMID: [15719744](https://pubmed.ncbi.nlm.nih.gov/15719744/). 담음어혈 증후군에서 섬유소 용해 활성 저하.
+[^11]: Efficacy and Safety of Blood Stasis Based Herbal Medicine for Patients with Traffic Accident. 관찰연구, 40명. DOI: [10.13045/jar.2020.00038](https://doi.org/10.13045/jar.2020.00038). 통도산 포함 혈어 기반 한약이 통증·삶의 질 개선.
+[^12]: TREATMENT OF TRAUMATIC LIMB EDEMA IN ORTHOPEDICS BASED ON THE THEORY OF "BLOOD STASIS LEADS TO WATER RETENTION". 문헌고찰. DOI: [10.21010/ajtcamv22i1.3](https://doi.org/10.21010/ajtcamv22i1.3). 어혈유수 이론이 외상성 사지 부종 치료에 유효.
+[^13]: Origin of Phlegm-Stasis-Toxin Theory and Its Empirical Application in Syndrome Differentiation of Carotid Atherosclerosis. 증례. DOI: [10.22158/rhs.v11n2p177](https://doi.org/10.22158/rhs.v11n2p177). 담음·어혈·독 상호작용이 경동맥 경화증 병리.
+[^14]: Analysis of the function of vascular endothelial cells in coronary heart disease patients of blood-stasis syndrome. 관찰연구, 430명. PMID: [16883905](https://pubmed.ncbi.nlm.nih.gov/16883905/). 심혈어혈증후군에서 ET·sICAM-1·sVCAM-1 증가.
+[^15]: Role of Blood Stasis Syndrome of Kampo Medicine in the Early Pathogenic Stage of Atherosclerosis. 관찰연구, 41명. DOI: [10.1155/2021/5557392](https://doi.org/10.1155/2021/5557392) · PMID: 34135979. 어혈 증후군이 혈관 내피 기능 장애와 연관(OR 6.26).
+[^16]: Expression of platelet CD62p gene and leucocyte HSP70 gene in patients with blood stasis syndrome. 관찰연구, 160명. PMID: [15892272](https://pubmed.ncbi.nlm.nih.gov/15892272/). 어혈증 환자에서 CD62P·HSP70 유전자 발현 증가.
+[^17]: Plasma Matrix Metalloproteinase-9 as a Marker of Blood Stasis in Varicose Veins. 실험연구. DOI: [10.1161/01.cir.0000027521.83518.4c](https://doi.org/10.1161/01.cir.0000027521.83518.4c). 혈액 정체 시 pro-MMP-9·ICAM-1·VCAM-1 증가.
+[^18]: Role of Blood Stasis Syndrome of Kampo Medicine in the Early Pathogenic Stage of Atherosclerosis. 관찰연구, 41명. DOI: [10.1155/2021/5557392](https://doi.org/10.1155/2021/5557392) · PMID: 34135979. 어혈+내당능 장애 결합 시 진단 정확도 AUC 0.80.
+[^19]: The association in Kampo medicine between Oketsu (blood stasis) and sublingual vein width of the tongue. 관찰연구, 38명. DOI: [10.1002/tkm2.1243](https://doi.org/10.1002/tkm2.1243). 설하정맥 폭이 어혈 점수와 유의한 상관관계.
+[^20]: Combination Image Analysis of Tongue Color and Sublingual Vein Improves the Diagnostic Accuracy of Oketsu. 관찰연구, 38명. DOI: [10.3389/fmed.2021.790542](https://doi.org/10.3389/fmed.2021.790542) · PMID: 35308037. 설색·설하정맥 결합 분석이 어혈 진단 정확도 향상.
+[^21]: Principal component vector rotation of the tongue color spectrum to predict "Mibyou". 실험연구, 30명. DOI: [10.1007/s11548-010-0506-8](https://doi.org/10.1007/s11548-010-0506-8) · PMID: 20574797. 혀 색상 스펙트럼 분석이 어혈 점수와 상관(-0.75).
+[^22]: Metabolomic Analysis of Clinical Plasma from Cerebral Infarction Patients Presenting with Blood Stasis. 관찰연구, 62명. DOI: [10.1155/2015/453423](https://doi.org/10.1155/2015/453423). 뇌경색 어혈 환자의 혈장 대사체 분석.
+[^23]: Study on correlation between Chinese medicine syndromes in stroke and neurological deficits during recovery phase. 관찰연구. DOI: [10.1097/MD.0000000000039600](https://doi.org/10.1097/MD.0000000000039600) · PMID: 39331899. 어혈 변증이 뇌졸중 신경학적 결손과 상관.
+[^24]: Reduced health-related quality of life in body constitutions of yin-xu, yang-xu, stasis in type 2 diabetes. 관찰연구, 705명. DOI: [10.1155/2014/309403](https://doi.org/10.1155/2014/309403) · PMID: 25093025. 어혈 체질 당뇨 환자에서 삶의 질 저하.
+[^25]: TCM body constitution predicts new-onset diabetic albuminuria in patients with type 2 diabetes. 관찰연구, 426명. DOI: [10.1097/MD.0000000000032342](https://doi.org/10.1097/MD.0000000000032342) · PMID: 36550881. 담음/어혈 체질이 당뇨 알부민뇨 위험 예측.
+[^26]: Effects of Quyu Xiaoban capsules on clinical outcomes and platelet activation and aggregation in patients with unstable angina pectoris. 임상시험, 90명. DOI: [10.1089/acm.2007.6226](https://doi.org/10.1089/acm.2007.6226) · PMID: 17604562. 거어소반 캡슐이 협심증 증상·혈소판 응집 개선.
+[^27]: Clinical non-inferiority trial on treatment of coronary heart disease angina pectoris of Xin-blood stasis syndrome type with lyophilized Salvia salt of lithospermic acid powder. 임상시험, 480명. DOI: [10.1007/BF02857423](https://doi.org/10.1007/BF02857423) · PMID: 16571277. 단삼 리토스퍼믹산 염 주사제가 비열등·유효율 우수.
+[^28]: A clinical study of Safflower Yellow injection in treating coronary heart disease angina pectoris with Xin-blood stagnation syndrome. 임상시험, 448명. DOI: [10.1007/BF02836509](https://doi.org/10.1007/BF02836509) · PMID: 16181539. 홍화황 주사제가 협심증 증상 개선에 효과적.
+[^29]: Efficacy and safety of Yingxin pill for stable angina pectoris with heart blood stasis obstruction syndrome. 임상시험, 60명. DOI: [10.3389/fphar.2026.1730842](https://doi.org/10.3389/fphar.2026.1730842) · PMID: 41782933. 영심환이 협심증 증상·지질·염증 개선.
+[^30]: Effection of compositie salviae dropping pill on hyperlipemia patients with phlegm and blood stasis syndrome. 임상시험, 81명. PMID: [17511155](https://pubmed.ncbi.nlm.nih.gov/17511155/). 단삼 복합제가 지질 강하·간 보호 효과.
+[^31]: Effect of compound duzhong jiangu granule on knee joint osteoarthritis. 임상시험, 600명. PMID: [16025958](https://pubmed.ncbi.nlm.nih.gov/16025958/). 두충강골 과립이 근맥어혈형 골관절염에 유효율 92%.
+[^32]: Clinical study on effects of kangwei granule on precancerous lesion in patients with chronic atrophic gastritis. 임상시험, 68명. PMID: [16248251](https://pubmed.ncbi.nlm.nih.gov/16248251/). 강위과립이 어혈 변증 위염 전암성 병변 개선.
+[^33]: Effect of relieving blood stasis, strengthening spleen and soothing liver therapy in improving hepatic function after liver-carcinomectomy. 임상시험, 120명. PMID: [12575605](https://pubmed.ncbi.nlm.nih.gov/12575605/). 어혈 제거·건비·소간 요법이 간 기능 개선.
+[^34]: Compounds and monomeric active ingredients of resolving phlegm and removing stasis therapy (RPST) for the treatment of non-small cell lung cancer. 문헌고찰. DOI: [10.1016/j.jep.2025.120770](https://doi.org/10.1016/j.jep.2025.120770) · PMID: 41130578. 거담화어법이 폐암 종양 감소·전이 억제.
+[^35]: Examination of clinical efficacy of keishibukuryogan on non-specific complaints associated with varicose veins of the lower extremity. 임상시험, 30명. DOI: [10.3400/avd.oa.14-00055](https://doi.org/10.3400/avd.oa.14-00055) · PMID: 25298828. 계지복령환이 정맥류 증상·피부 관류압 개선.
+[^36]: Japanese herbal Kampo medicine, Keishibukuryogan, for chronic subdural hematoma. 관찰연구, 60명. DOI: [10.25259/sni_455_2022](https://doi.org/10.25259/sni_455_2022). 계지복령환이 만성 경막하 혈종 재발 방지에 비열등.
+[^37]: Comparative efficacy of Keishi-bukuryo-gan and pentoxifylline on RBC deformability in patients with "oketsu" syndrome. 임상시험, 30명. DOI: [10.1078/094471103322331395](https://doi.org/10.1078/094471103322331395) · PMID: 13678228. 계지복령환이 적혈구 변형성 개선.
+[^38]: Traumatic asphyxia successfully treated with jidabokuippo. 증례, 1명. DOI: [10.1002/tkm2.1260](https://doi.org/10.1002/tkm2.1260). 지다복이포가 외상성 질식 부종·반상출혈 개선.
+[^39]: A case report of Moyamoya disease successfully treated with Chinese medicine. 증례, 1명. DOI: [10.1142/S0192415X92000345](https://doi.org/10.1142/S0192415X92000345) · PMID: 1471616. 계지복령환·소후명탕이 모야모야병 개선.
+[^40]: Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type. 임상시험, 60명. PMID: [17663100](https://pubmed.ncbi.nlm.nih.gov/17663100/). 침치료 병행이 담음-어혈형 고혈압 개선.
+[^41]: Observation on therapeutic effect of the third lumbar transverse process syndrome treated with acupotomy and blood pricking therapy. 임상시험, 90명. PMID: [22734388](https://pubmed.ncbi.nlm.nih.gov/22734388/). 도침·점자출혈 병용이 요통·기능 개선.
+[^42]: Observation on therapeutic effect of acupuncture, moving cupping and blood-letting puncture on chloasma. 임상시험, 176명. PMID: [19391535](https://pubmed.ncbi.nlm.nih.gov/19391535/). 침·부항·점자출혈 병합이 기미 유효율 96.7%.
+[^43]: Application of blistering cupping. 문헌고찰. DOI: [10.13703/j.0255-2930.2016.11.022](https://doi.org/10.13703/j.0255-2930.2016.11.022) · PMID: 29231306. 물집 부항이 담음·어혈 제거에 유효.
+[^44]: Technical operation specification for pricking–cupping therapy. 가이드라인. DOI: [10.4103/jin.jin_79_23](https://doi.org/10.4103/jin.jin_79_23). 점자출혈·부항 요법 기술 운영 규격.
+[^45]: The Research Trends of Pharmacopuncture Therapy on Cervical Pain Caused by Traffic Accidents. 체계적 고찰. DOI: [10.3831/KPI.2020.23.4.201](https://doi.org/10.3831/KPI.2020.23.4.201) · PMID: 33408896. 교통사고 경추통에 봉독·중성어혈 약침 효과.
+[^46]: Impact of combining laparoscopy with traditional Chinese medicine on oxidative stress in endometriosis-related infertility. 메타분석, 1084명. DOI: [10.1097/MD.0000000000041692](https://doi.org/10.1097/MD.0000000000041692) · PMID: 40228263. 복강경+활혈거어 중의학 병행이 산화 스트레스 감소.
+[^47]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness. 임상시험, 81명. DOI: [10.1097/md.0000000000019045](https://doi.org/10.1097/md.0000000000019045). 수오강기탕+침이 신허·담음·어혈 PCOS 개선.
+[^48]: Clinical Efficacy of Modified San'ao Decoction and Erchen Decoction for Esophageal Dysphagia (Shi Bi) with Phlegm-Dampness and Blood Stasis Syndrome. 임상시험, 96명. DOI: [10.3791/71675](https://doi.org/10.3791/71675) · PMID: 42406624. 가감삼오탕·이진탕이 담습어혈형 연하곤란 개선.
+[^49]: Efficacy and safety of Qudu Huiyuan Pills in the treatment of opioid withdrawal syndrome. 임상시험, 124명. DOI: [10.1097/FBP.0000000000000846](https://doi.org/10.1097/FBP.0000000000000846) · PMID: 41017566. 거독회원환이 독체어혈형 금단 증상 개선.
+[^50]: Herbal Medicine for Metabolic Dysfunction-Associated Steatotic Liver Disease. 메타분석. DOI: [10.22246/jikm.2025.46.4.774](https://doi.org/10.22246/jikm.2025.46.4.774). 담음-어혈 변증 한약이 MASLD 개선.
+[^51]: Korean Medicine for Aging Cohort (KoMAC) study. 관찰연구, 1000명. DOI: [10.1136/bmjopen-2025-105488](https://doi.org/10.1136/bmjopen-2025-105488) · PMID: 42331573. 노화와 함께 여성에서 신허·어혈 패턴 증가.
+[^52]: The Effect of Physical Activity on Body Constitution and Psychological Health in Older Adults. 관찰연구, 4497명. DOI: [10.1123/japa.2022-0195](https://doi.org/10.1123/japa.2022-0195) · PMID: 36410341. 신체 활동이 어혈 체질 발생 낮춤.
+[^53]: Multidimensional Sleep Health and Its Association with TCM Constitution Types Among Community-Dwelling Older Adults. 관찰연구, 305명. DOI: [10.1080/07317115.2026.2696835](https://doi.org/10.1080/07317115.2026.2696835) · PMID: 42441415. 노인 수면 장애가 어혈 체질과 연관.
+[^54]: Correlation Analysis of Traditional Chinese Medicine Constitution and Metabolic Indexes in General Physical Examination People. 관찰연구, 1029명. DOI: [10.2174/0118715303302433240918104124](https://doi.org/10.2174/0118715303302433240918104124) · PMID: 39364874. 어혈 체질에서 대사 지표 이상 빈도 높음.
 
 ## 미충족 근거 / 추가 연구 필요
 

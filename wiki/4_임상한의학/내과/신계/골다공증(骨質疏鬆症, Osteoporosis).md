@@ -1,6 +1,6 @@
 # 골다공증(骨質疏鬆症, Osteoporosis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: M80 (병적 골절을 동반한 골다공증) / M81 (병적 골절이 없는 골다공증)
 
 ## 개요
@@ -96,39 +96,39 @@
 - 약재/처방: 이선탕(二仙湯)·보신처방(補腎方)·의고캡슐(益骨膠囊)·보골생수캡슐(補骨生髓) · [보중익기탕(補中益氣湯)](../../../1_기초한의학/방제학/보중익기탕(補中益氣湯).md)·가미신통축어탕(加味身痛逐瘀湯), 단미재료로 파극천(巴戟天)·두충(杜仲)·백지(白芷)
 
 [^1]: WHO/국제 임상 진단 기준에 근거한 골다공증 정의. 교과서적 근거. (골다공증은 T-score -2.5 이하로 진단)
-[^2]: Morinda officinalis in the prevention and treatment of osteoporosis: A comprehensive review. 문헌고찰. DOI: [10.1016/j.jep.2026.122296](https://doi.org/10.1016/j.jep.2026.122296). 근거수준: 문헌고찰. 신·간 기능 조절로 골다공증 예방·치료.
-[^3]: Role of Traditional Chinese Medicine in Bone Regeneration and Osteoporosis. 문헌고찰. DOI: [10.3389/fbioe.2022.911326](https://doi.org/10.3389/fbioe.2022.911326). 근거수준: 문헌고찰. 한약·침·추나·기공의 다각적 접근.
-[^4]: Overall adjustment acupuncture for postmenopausal osteoporosis (PMOP): a study protocol for a randomized sham-controlled trial. 임상시험(RCT) 프로토콜, 104명. DOI: [10.1186/s13063-020-04435-7](https://doi.org/10.1186/s13063-020-04435-7). 근거수준: 중등도. 전신조절침이 BMD·에스트로겐 개선 평가.
-[^5]: Clinical observation on treatment with the kidney-tonifying prescription in 25 cases of postmenopausal osteoporosis. 임상시험, 45명. PMID: [12875064](https://pubmed.ncbi.nlm.nih.gov/12875064/). 근거수준: 중등도. 보신처방+양약이 유효율·BMD·E2 증가.
-[^6]: Evaluating combined acupuncture and antiresorptive therapy in Chinese women with postmenopausal osteoporosis: a systematic review and network meta-analysis. 네트워크 메타분석, 9,098명. DOI: [10.3389/fendo.2026.1784394](https://doi.org/10.3389/fendo.2026.1784394). 근거수준: 높음. 침구+약물 병용이 골밀도·통증 개선에 유효.
-[^7]: Erxian decoction for postmenopausal osteoporosis: An updated systematic review and meta-analysis. 메타분석, 1,269명. DOI: [10.1016/j.jocd.2026.101714](https://doi.org/10.1016/j.jocd.2026.101714). 근거수준: 높음. 이선탕 병용이 요추·대퇴경부 BMD 증가·통증 감소.
-[^8]: [Theoretical discussion and research progress on treatment of glucocorticoid-induced osteoporosis with traditional Chinese medicine]. 문헌고찰. DOI: [10.19540/j.cnki.cjcmm.20250512.502](https://doi.org/10.19540/j.cnki.cjcmm.20250512.502). 근거수준: 문헌고찰. GIOP에 한의 중재가 골밀도·골절 위험 개선.
-[^9]: Clinical observation on the effect of warming meridian medicinal wine, polarized light external application combined with acupuncture and moxibustion on pain after vertebroplasty. 임상시험(RCT), 120명. DOI: [10.19852/j.cnki.jtcm.2025.03.018](https://doi.org/10.19852/j.cnki.jtcm.2025.03.018). 근거수준: 중등도. 온경약주·침구 병용이 수술 후 통증·기능 개선.
-[^10]: Efficacy of Acupuncture in the Treatment of Residual Pain After Osteoporotic Vertebral Compression Fractures Percutaneous Vertebroplasty Among Older Adults. 임상시험(RCT) 프로토콜, 111명. DOI: [10.2147/JPR.S598264](https://doi.org/10.2147/JPR.S598264). 근거수준: 중등도. 전침·부유침이 잔여 통증 관리 평가.
-[^11]: Acupuncture in Treating Osteopenia: A Multicenter, Randomized, Controlled Clinical Trial. 임상시험(RCT), 226명. DOI: [10.1159/000541440](https://doi.org/10.1159/000541440). 근거수준: 높음. 침 병행이 고관절 BMD·균형·하지 근력 개선.
-[^12]: [Clinical study of bugu shengsui capsule in treating primary osteoporosis with kidney-yang deficiency syndrome]. 임상시험. PMID: [10322872](https://pubmed.ncbi.nlm.nih.gov/10322872/). 근거수준: 중등도. 신양허형에 보골생수캡슐이 유효.
-[^13]: [Study on relationship between estrogen receptor gene polymorphism and syndrome differentiation typing of female postmenopausal osteoporosis]. 관찰연구, 246명. PMID: [11938861](https://pubmed.ncbi.nlm.nih.gov/11938861/). 근거수준: 낮음. 신음양구허 변증이 저골밀도와 관련.
-[^14]: Traditional Chinese Medicine for osteoporosis management: from molecular mechanisms to drug discovery. 문헌고찰. DOI: [10.1186/s13020-026-01353-9](https://doi.org/10.1186/s13020-026-01353-9). 근거수준: 문헌고찰. 다중 표적 접근으로 골량·골질 동시 개선.
-[^15]: Mechanistic Potentials of Natural Herbal Medicines (NHMs) in Promoting Bone Regeneration: A Comprehensive Review. 문헌고찰. DOI: [10.2174/0113892002439149251202115833](https://doi.org/10.2174/0113892002439149251202115833). 근거수준: 문헌고찰. BMP/Smad·Wnt/β-catenin 경로 조절.
-[^16]: Effectiveness of electroacupuncture as a treatment for osteoporosis. 메타분석, 731명. DOI: [10.1097/md.0000000000024259](https://doi.org/10.1097/md.0000000000024259). 근거수준: 높음. 전침이 통증 완화·beta-CTX 감소.
-[^17]: The risk factors of osteoporotic vertebral compression fracture accompanied with thoracolumbar fascial injury: a single-center retrospective study. 관찰연구, 489명. DOI: [10.1038/s41598-025-27180-w](https://doi.org/10.1038/s41598-025-27180-w). 근거수준: 중등도. 고령·저골밀도·근육 지방 침윤이 TLF 손상 위험.
-[^18]: A Case Report of Moraxella catarrhalis Infection After Lumbar Spinal Fixation and Fusion. 증례, 1명. DOI: [10.2147/IDR.S475914](https://doi.org/10.2147/IDR.S475914). 근거수준: 낮음. 독활기생탕 병행이 회복에 도움.
-[^19]: Efficacy and safety of Chinese herbal medicine Buzhong Yiqi decoction for postmenopausal women with osteoporosis: A protocol for systematic review and meta-analysis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000031771](https://doi.org/10.1097/md.0000000000031771). 근거수준: 중등도. 보중익기탕 적용 평가.
-[^20]: Transcriptomics and network pharmacology reveal the potential mechanism related to integrated stress response in the treatment of osteoporosis by Jiawei Shentong Zhuyu Decoction. 실험연구. DOI: [10.3389/fendo.2025.1618296](https://doi.org/10.3389/fendo.2025.1618296). 근거수준: 실험연구. 가미신통축어탕이 ISR 경로 조절.
-[^21]: Moxibustion therapy for treating patients with primary osteoporosis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000018226](https://doi.org/10.1097/md.0000000000018226). 근거수준: 중등도. 뜸 요법 유효성·안전성 평가.
-[^22]: [Combination of acupuncture with cupping increases life quality of patients of osteoporosis]. 임상시험, 60명. PMID: [19127911](https://pubmed.ncbi.nlm.nih.gov/19127911/). 근거수준: 중등도. 온침·매화침·부항 복합이 삶의 질 개선.
-[^23]: Acupoint injection treatment for primary osteoporosis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000016735](https://doi.org/10.1097/md.0000000000016735). 근거수준: 중등도. 혈위 주입(약침) 유효성 평가.
-[^24]: Clinical study on treatment of postmenopausal osteoporosis by Yigu capsule. 임상시험(RCT), 210명. PMID: [15366587](https://pubmed.ncbi.nlm.nih.gov/15366587/). 근거수준: 중등도. 의고캡슐이 BMD·골통·골절 예방에 유효.
-[^25]: Additional effects of herbal medicine combined with bisphosphonates for primary osteoporosis: a systematic review and meta-analysis. 메타분석, 4,470명. DOI: [10.3389/fphar.2024.1413515](https://doi.org/10.3389/fphar.2024.1413515). 근거수준: 높음. 한약+비스포스포네이트 병용이 BMD 개선.
-[^26]: Determination of the Combined Effects of Asian Herbal Medicine with Calcium and/or Vitamin D Supplements on Bone Mineral Density in Primary Osteoporosis. 메타분석, 4,889명. DOI: [10.1007/s00198-024-07061-0](https://doi.org/10.1007/s00198-024-07061-0). 근거수준: 높음. 한약+Ca/VitD 병용이 BMD 개선, 이질성 높아 주의.
-[^27]: Serum metabolomics analyses reveal biomarkers of osteoporosis and the mechanism of Quanduzhong capsules. 관찰연구, 88명. DOI: [10.1016/j.jpba.2024.116198](https://doi.org/10.1016/j.jpba.2024.116198). 근거수준: 중등도. 두충 기반 캡슐이 아미노산 대사 불균형 회복.
-[^28]: Patterns of Traditional Korean Medicine and Western Medicine Utilization Among Women with Menopausal Disorders: A 9-Year Nationwide Cohort Study. 관찰연구, 71,381명. DOI: [10.13048/jkm.26010](https://doi.org/10.13048/jkm.26010). 근거수준: 중등도. 병용 치료군이 더 고위험, 맞춤형 통합 전략 필요.
-[^29]: Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis. 관찰연구, 2,283명. DOI: [10.22246/jikm.2025.46.4.866](https://doi.org/10.22246/jikm.2025.46.4.866). 근거수준: 중등도. 냉증 단독은 교란 보정 후 유의성 소실.
-[^30]: Effect of Complex Korean Medicine Treatment on Sacral Insufficiency Fracture: A Case Report. 증례, 1명. DOI: [10.13045/jar.2020.00129](https://doi.org/10.13045/jar.2020.00129). 근거수준: 낮음. 고령 골다공증성 천골 부전 골절에 한방 복합 치료 유효.
+[^2]: Morinda officinalis in the prevention and treatment of osteoporosis: A comprehensive review. 문헌고찰. DOI: [10.1016/j.jep.2026.122296](https://doi.org/10.1016/j.jep.2026.122296). 신·간 기능 조절로 골다공증 예방·치료.
+[^3]: Role of Traditional Chinese Medicine in Bone Regeneration and Osteoporosis. 문헌고찰. DOI: [10.3389/fbioe.2022.911326](https://doi.org/10.3389/fbioe.2022.911326). 한약·침·추나·기공의 다각적 접근.
+[^4]: Overall adjustment acupuncture for postmenopausal osteoporosis (PMOP): a study protocol for a randomized sham-controlled trial. 임상시험(RCT) 프로토콜, 104명. DOI: [10.1186/s13063-020-04435-7](https://doi.org/10.1186/s13063-020-04435-7). 전신조절침이 BMD·에스트로겐 개선 평가.
+[^5]: Clinical observation on treatment with the kidney-tonifying prescription in 25 cases of postmenopausal osteoporosis. 임상시험, 45명. PMID: [12875064](https://pubmed.ncbi.nlm.nih.gov/12875064/). 보신처방+양약이 유효율·BMD·E2 증가.
+[^6]: Evaluating combined acupuncture and antiresorptive therapy in Chinese women with postmenopausal osteoporosis: a systematic review and network meta-analysis. 네트워크 메타분석, 9,098명. DOI: [10.3389/fendo.2026.1784394](https://doi.org/10.3389/fendo.2026.1784394). 침구+약물 병용이 골밀도·통증 개선에 유효.
+[^7]: Erxian decoction for postmenopausal osteoporosis: An updated systematic review and meta-analysis. 메타분석, 1,269명. DOI: [10.1016/j.jocd.2026.101714](https://doi.org/10.1016/j.jocd.2026.101714). 이선탕 병용이 요추·대퇴경부 BMD 증가·통증 감소.
+[^8]: [Theoretical discussion and research progress on treatment of glucocorticoid-induced osteoporosis with traditional Chinese medicine]. 문헌고찰. DOI: [10.19540/j.cnki.cjcmm.20250512.502](https://doi.org/10.19540/j.cnki.cjcmm.20250512.502). GIOP에 한의 중재가 골밀도·골절 위험 개선.
+[^9]: Clinical observation on the effect of warming meridian medicinal wine, polarized light external application combined with acupuncture and moxibustion on pain after vertebroplasty. 임상시험(RCT), 120명. DOI: [10.19852/j.cnki.jtcm.2025.03.018](https://doi.org/10.19852/j.cnki.jtcm.2025.03.018). 온경약주·침구 병용이 수술 후 통증·기능 개선.
+[^10]: Efficacy of Acupuncture in the Treatment of Residual Pain After Osteoporotic Vertebral Compression Fractures Percutaneous Vertebroplasty Among Older Adults. 임상시험(RCT) 프로토콜, 111명. DOI: [10.2147/JPR.S598264](https://doi.org/10.2147/JPR.S598264). 전침·부유침이 잔여 통증 관리 평가.
+[^11]: Acupuncture in Treating Osteopenia: A Multicenter, Randomized, Controlled Clinical Trial. 임상시험(RCT), 226명. DOI: [10.1159/000541440](https://doi.org/10.1159/000541440). 침 병행이 고관절 BMD·균형·하지 근력 개선.
+[^12]: [Clinical study of bugu shengsui capsule in treating primary osteoporosis with kidney-yang deficiency syndrome]. 임상시험. PMID: [10322872](https://pubmed.ncbi.nlm.nih.gov/10322872/). 신양허형에 보골생수캡슐이 유효.
+[^13]: [Study on relationship between estrogen receptor gene polymorphism and syndrome differentiation typing of female postmenopausal osteoporosis]. 관찰연구, 246명. PMID: [11938861](https://pubmed.ncbi.nlm.nih.gov/11938861/). 신음양구허 변증이 저골밀도와 관련.
+[^14]: Traditional Chinese Medicine for osteoporosis management: from molecular mechanisms to drug discovery. 문헌고찰. DOI: [10.1186/s13020-026-01353-9](https://doi.org/10.1186/s13020-026-01353-9). 다중 표적 접근으로 골량·골질 동시 개선.
+[^15]: Mechanistic Potentials of Natural Herbal Medicines (NHMs) in Promoting Bone Regeneration: A Comprehensive Review. 문헌고찰. DOI: [10.2174/0113892002439149251202115833](https://doi.org/10.2174/0113892002439149251202115833). BMP/Smad·Wnt/β-catenin 경로 조절.
+[^16]: Effectiveness of electroacupuncture as a treatment for osteoporosis. 메타분석, 731명. DOI: [10.1097/md.0000000000024259](https://doi.org/10.1097/md.0000000000024259). 전침이 통증 완화·beta-CTX 감소.
+[^17]: The risk factors of osteoporotic vertebral compression fracture accompanied with thoracolumbar fascial injury: a single-center retrospective study. 관찰연구, 489명. DOI: [10.1038/s41598-025-27180-w](https://doi.org/10.1038/s41598-025-27180-w). 고령·저골밀도·근육 지방 침윤이 TLF 손상 위험.
+[^18]: A Case Report of Moraxella catarrhalis Infection After Lumbar Spinal Fixation and Fusion. 증례, 1명. DOI: [10.2147/IDR.S475914](https://doi.org/10.2147/IDR.S475914). 독활기생탕 병행이 회복에 도움.
+[^19]: Efficacy and safety of Chinese herbal medicine Buzhong Yiqi decoction for postmenopausal women with osteoporosis: A protocol for systematic review and meta-analysis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000031771](https://doi.org/10.1097/md.0000000000031771). 보중익기탕 적용 평가.
+[^20]: Transcriptomics and network pharmacology reveal the potential mechanism related to integrated stress response in the treatment of osteoporosis by Jiawei Shentong Zhuyu Decoction. 실험연구. DOI: [10.3389/fendo.2025.1618296](https://doi.org/10.3389/fendo.2025.1618296). 가미신통축어탕이 ISR 경로 조절.
+[^21]: Moxibustion therapy for treating patients with primary osteoporosis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000018226](https://doi.org/10.1097/md.0000000000018226). 뜸 요법 유효성·안전성 평가.
+[^22]: [Combination of acupuncture with cupping increases life quality of patients of osteoporosis]. 임상시험, 60명. PMID: [19127911](https://pubmed.ncbi.nlm.nih.gov/19127911/). 온침·매화침·부항 복합이 삶의 질 개선.
+[^23]: Acupoint injection treatment for primary osteoporosis. 체계적 고찰 프로토콜. DOI: [10.1097/md.0000000000016735](https://doi.org/10.1097/md.0000000000016735). 혈위 주입(약침) 유효성 평가.
+[^24]: Clinical study on treatment of postmenopausal osteoporosis by Yigu capsule. 임상시험(RCT), 210명. PMID: [15366587](https://pubmed.ncbi.nlm.nih.gov/15366587/). 의고캡슐이 BMD·골통·골절 예방에 유효.
+[^25]: Additional effects of herbal medicine combined with bisphosphonates for primary osteoporosis: a systematic review and meta-analysis. 메타분석, 4,470명. DOI: [10.3389/fphar.2024.1413515](https://doi.org/10.3389/fphar.2024.1413515). 한약+비스포스포네이트 병용이 BMD 개선.
+[^26]: Determination of the Combined Effects of Asian Herbal Medicine with Calcium and/or Vitamin D Supplements on Bone Mineral Density in Primary Osteoporosis. 메타분석, 4,889명. DOI: [10.1007/s00198-024-07061-0](https://doi.org/10.1007/s00198-024-07061-0). 한약+Ca/VitD 병용이 BMD 개선, 이질성 높아 주의.
+[^27]: Serum metabolomics analyses reveal biomarkers of osteoporosis and the mechanism of Quanduzhong capsules. 관찰연구, 88명. DOI: [10.1016/j.jpba.2024.116198](https://doi.org/10.1016/j.jpba.2024.116198). 두충 기반 캡슐이 아미노산 대사 불균형 회복.
+[^28]: Patterns of Traditional Korean Medicine and Western Medicine Utilization Among Women with Menopausal Disorders: A 9-Year Nationwide Cohort Study. 관찰연구, 71,381명. DOI: [10.13048/jkm.26010](https://doi.org/10.13048/jkm.26010). 병용 치료군이 더 고위험, 맞춤형 통합 전략 필요.
+[^29]: Association Study of Cold Hypersensitivity in the Hands and Feet with Bone Mineral Density and Osteoporosis. 관찰연구, 2,283명. DOI: [10.22246/jikm.2025.46.4.866](https://doi.org/10.22246/jikm.2025.46.4.866). 냉증 단독은 교란 보정 후 유의성 소실.
+[^30]: Effect of Complex Korean Medicine Treatment on Sacral Insufficiency Fracture: A Case Report. 증례, 1명. DOI: [10.13045/jar.2020.00129](https://doi.org/10.13045/jar.2020.00129). 고령 골다공증성 천골 부전 골절에 한방 복합 치료 유효.
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 골다공증에 대한 한의 중재(침·뜸·약침·한약)의 근거는 메타분석과 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·골절 예방 종점이 상이하여 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
+- 골다공증에 대한 한의 중재(침·뜸·약침·한약)의 근거는 메타분석과 임상시험이 다수 존재하나, 연구 간 시술 표준화·대조군·추적 기간·골절 예방 종점이 상이하여 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.
 - 전침의 골밀도 개선 효과는 통증·골흡수 지표 개선 근거에 비해 상대적으로 부족하여, 이를 뒷받침할 장기 대규모 임상시험이 요구된다.[^16]
 - 뜸 요법·약침(혈위주입)·보중익기탕의 골다공증 적용은 체계적 고찰·임상시험 프로토콜 단계로, 결과 도출이 필요하다.[^19][^21][^23]
 - 골절 예방 효과를 종점으로 한 한의 중재의 대규모 전향적 연구와, 변증별·연령별·폐경 단계별 맞춤 치료 전략을 확립할 추가 연구가 필요하다.

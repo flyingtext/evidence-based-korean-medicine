@@ -1,6 +1,6 @@
 # 경락(經絡, Meridians)
 
-> 출처: 근거기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석/임상시험/관찰연구/실험연구/증례 · 작성일: 2026-08-15
+> 출처: 근거기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -27,12 +27,11 @@
 - **열적 특성**: 경락을 따라 조직의 열전도율이 비경락 부위보다 높고 특정 방향성을 가진다는 실험 근거가 있으며,[^15] 적외선 열화상으로 경락 경로를 따라 열 방사 트랙이 관찰되기도 한다.[^16] 다만 적외선 열화상으로 경락을 시각화하려던 일부 연구는 관찰된 구조가 기술적 아티팩트일 수 있음을 지적한다.[^17]
 - **신경생리학적 기전**: 서로 다른 경락에 속한 경혈 자극이 뇌의 특정 영역을 선택적으로 활성화하거나 억제함을 보여주는 fMRI 연구가 있으며,[^11] 침 치료가 특정 경락의 전기적 활성도(Ryodoraku scores)를 조절한다는 관찰도 있다.[^18]
 
-> 생물물리·해부·신경 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 근거수준 라벨은 각주에서 구분한다.
-
+> 생물물리·해부·신경 기전 서술은 실험연구·관찰연구 기반이며, 경락 이론적 내용은 교과서적 근거로 표기한다. 
 ## 근거 요약
 
-- **경락의 생물물리학적 특성**: 체계적 고찰에서 경락·경혈이 전기·열·자기적 특성에서 비경혈점과 구별되는 객관적 특성을 가진다는 근거가 정리되었다(체계적 고찰, 근거수준 중등도).[^3]
-- **경락 기반 치료의 통증 완화**: 경락 이론 기반의 지압·온침·뜸·침 치료가 원발성 생리통 환자의 통증 완화에 있어 NSAIDs나 대기군보다 유의하게 효과적이며 안전한 것으로 나타났다(메타분석, 근거수준 높음).[^9]
+- **경락의 생물물리학적 특성**: 체계적 고찰에서 경락·경혈이 전기·열·자기적 특성에서 비경혈점과 구별되는 객관적 특성을 가진다는 근거가 정리되었다(체계적 고찰).[^3]
+- **경락 기반 치료의 통증 완화**: 경락 이론 기반의 지압·온침·뜸·침 치료가 원발성 생리통 환자의 통증 완화에 있어 NSAIDs나 대기군보다 유의하게 효과적이며 안전한 것으로 나타났다(메타분석).[^9]
 - **경락 변증 기반 침 치료**: 경락 변증(Meridian Syndrome)에 기반한 전침 치료가 무릎 골관절염 환자의 통증 완화와 기능 개선에 효과적이며,[^19] 균형경락침법(BMA)이 만성 요통 환자에게 전침보다 더 즉각적이고 우수한 통증 감소·가동범위 개선 효과를 보였다.[^20]
 - **경락 진단의 객관화**: C-V 곡선의 곡률을 통해 경락의 한열(寒熱) 상태를 정량적으로 진단할 수 있다는 관찰연구가 있으며,[^7] 경락의 전기전도도 측정이 비만 환자의 체중 변화 모니터링 지표로 활용될 수 있다는 연구도 있다.[^21]
 - **경락 기반 마사지·지압**: 복부 경락 마사지가 뇌혈관사고(CVA) 환자의 변비 개선에 효과적이며,[^22] 진정 대장내시경 후 복부 팽만감·복부 둘레를 감소시키고 장음 회복·가스 배출 시간을 단축시킨다.[^23] 진짜 혈위 지압이 COPD 환자의 호흡곤란·폐 기능·보행 능력·불안을 유의하게 개선했다.[^24]
@@ -87,39 +86,39 @@
 
 [^1]: 경락(經絡)의 정의·기능·십이정경·기경팔맥 등은 경락경혈학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: 경락이 침구·추나·약침 등 한의학 치료법의 이론적 기반이 된다는 내용은 경락경혈학·침구학 교과서적 임상 이론. 근거 미확인(교과서적 근거).
-[^3]: Biophysical Characteristics of Meridians and Acupoints: A Systematic Review. 체계적 고찰. DOI: [10.1155/2012/793841](https://doi.org/10.1155/2012/793841). 근거수준: 중등도. 경락·경혈의 전기·열·자기적 특성.
-[^4]: Electrical skin impedance at acupuncture points. 실험연구, 20명. DOI: [10.1089/acm.2007.6258](https://doi.org/10.1089/acm.2007.6258) · PMID: 17532733. 근거수준: 낮음. 경혈 저저항 가설에 의문 제기.
-[^5]: Explanation of essence and substance basis of channels and collaterals. 고찰. PMID: 17853756. 근거수준: 중등도. 경락을 근막학·결합조직 관점에서 해석.
-[^6]: Study on vascular morphology of integument tissues of the channel area. 실험연구, 12명. PMID: 17036483. 근거수준: 중등도. 경락 구역의 혈관 분포 밀도·영양 혈관 사슬.
-[^7]: Study on relationship between the C-V curve of the source points and cold-heat. 관찰연구, 120명. PMID: 17378200. 근거수준: 낮음. C-V 곡선 곡률로 경락 한열 상태 정량 진단.
-[^8]: Summarization of professor He Pu-ren's channel syndrome differentiation. 고찰. PMID: 17722833. 근거수준: 중등도. 경락변증의 체표·장부·기혈 종합 분석.
-[^9]: Traditional Chinese medicine interventions based on meridian theory for pain relief in primary dysmenorrhea. 메타분석, 3903명. DOI: [10.3389/fmed.2024.1453609](https://doi.org/10.3389/fmed.2024.1453609) · PMID: 39301491. 근거수준: 높음. 경락 기반 중재가 생리통 통증 완화에 효과적·안전.
-[^10]: Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collaterals. 임상시험, 60명. PMID: 17663100. 근거수준: 중등도. 경락폐색형 고혈압에 침 병행이 혈압·지질 개선.
-[^11]: Study on brain response to acupuncture by functional magnetic resonance imaging. 실험연구, 14명. PMID: 17186721. 근거수준: 중등도. 경혈별 뇌 활성화 차이.
-[^12]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia. 임상시험, 70명. DOI: [10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550). 근거수준: 중등도. 삼음교 침이 경락 전기전도도 조절.
-[^13]: Electrical skin impedance at acupuncture points. 실험연구, 20명. DOI: [10.1089/acm.2007.6258](https://doi.org/10.1089/acm.2007.6258) · PMID: 17532733. 근거수준: 낮음. 경혈 저저항 가설 반증.
-[^14]: Acupoints and meridians: a histochemical study. 실험연구, 48명. PMID: 16038382. 근거수준: 중등도. 경혈·경락의 MPS·콜라겐·신경 말단 차이.
-[^15]: Comparison of the thermal conductivity of the related tissues along the meridian. 실험연구, 40명. PMID: 16309135. 근거수준: 중등도. 경락 열전도율·방향성.
-[^16]: Appearance of Human Meridian-Like Structure and Acupoints and Its Characteristics. 관찰연구, 30명. DOI: [10.1142/s0192415x07004771](https://doi.org/10.1142/s0192415x07004771). 근거수준: 낮음. 적외선 열화상 경락 열 방사 트랙.
-[^17]: Infrared thermography fails to visualize stimulation-induced meridian-like structures. 실험연구, 6명. DOI: [10.1186/1475-925X-4-38](https://doi.org/10.1186/1475-925X-4-38). 근거수준: 낮음. 적외선 열화상 경락 시각화 한계.
-[^18]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia. 임상시험, 70명. DOI: [10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550). 근거수준: 중등도. 침이 경락 전기 활성도 조절.
-[^19]: Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndromes. 임상시험, 60명. DOI: [10.3727/036012921x16207330235374](https://doi.org/10.3727/036012921x16207330235374). 근거수준: 중등도. 경락 변증 기반 전침이 무릎 골관절염 개선.
-[^20]: A Comparative Study on the Immediate Impact of Balance Meridian and Electroacupuncture. 임상시험, 80명. DOI: [10.1177/19336586261419872](https://doi.org/10.1177/19336586261419872). 근거수준: 중등도. 균형경락침법이 만성 요통에 즉각적 효과.
-[^21]: A study of electrical conductance of meridian in the obese. 관찰연구, 40명. DOI: [10.1142/S0192415X04002077](https://doi.org/10.1142/S0192415X04002077). 근거수준: 낮음. 경락 전기전도도와 BMI 상관.
-[^22]: The effects of abdominal meridian massage on constipation among CVA patients. 임상시험, 31명. DOI: [10.4040/jkan.2005.35.1.135](https://doi.org/10.4040/jkan.2005.35.1.135). 근거수준: 중등도. 복부 경락 마사지가 CVA 변비 개선.
-[^23]: The Effects of Abdominal Meridian Massage on Abdominal Distention, Pain after Colonoscopy. 임상시험, 54명. DOI: [10.7739/jkafn.2022.29.1.12](https://doi.org/10.7739/jkafn.2022.29.1.12). 근거수준: 중등도. 대장내시경 후 복부 경락 마사지 효과.
-[^24]: Effectiveness of acupressure in improving dyspnoea in chronic obstructive pulmonary disease. 임상시험, 44명. DOI: [10.1046/j.1365-2648.2003.02886.x](https://doi.org/10.1046/j.1365-2648.2003.02886.x). 근거수준: 중등도. 진짜 혈위 지압이 COPD 호흡곤란·불안 개선.
-[^25]: Clinical application of acupunctural anesthesia with new combination of acupoints. 증례, 23명. PMID: 15609590. 근거수준: 낮음. 상응 경락 근거리·원위 혈위 조합 침 마취가 뇌 수술에 효과적·안전.
-[^26]: Acupuncture treatment of compression neuropathy of the radial nerve. 증례, 1명. DOI: [10.1089/acm.2005.11.167](https://doi.org/10.1089/acm.2005.11.167). 근거수준: 낮음. 폐경·대장경 원혈·낙혈 조합 침이 손목 하수 완전 회복.
-[^27]: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure. 체계적 고찰. DOI: [10.1186/1472-6882-11-88](https://doi.org/10.1186/1472-6882-11-88). 근거수준: 중등도. 지압이 통증·오심·수면 개선에 유익.
-[^28]: Efficacy of acupuncture-based adjunctive therapies in alleviating spasticity and motor function in patients with post-stroke spasticity. 메타분석, 6180명. DOI: [10.1016/j.ctim.2025.103282](https://doi.org/10.1016/j.ctim.2025.103282). 근거수준: 높음. 경직 완화에 화침·경근침, 운동 기능 회복에 전침 우수.
-[^29]: Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain. 메타분석, 2579명. DOI: [10.1186/s13018-024-05118-8](https://doi.org/10.1186/s13018-024-05118-8). 근거수준: 높음. 만성 요통에 온침·전온침·경근 이론 기반 치료 권장.
-[^30]: Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis. 메타분석. DOI: [10.2147/JPR.S555916](https://doi.org/10.2147/JPR.S555916). 근거수준: 중등도. 독맥구·침 병행이 강직성 척추염 기능 개선.
-[^31]: Clinical Study of Acupotomy for Knee Osteoarthritis Based on the Meridian-Sinew Theory. 임상시험, 124명. DOI: [10.1155/2021/3987002](https://doi.org/10.1155/2021/3987002). 근거수준: 중등도. 경근 이론 기반 도침이 무릎 골관절염에 동등한 효과·안전.
-[^32]: The Use of Wet Cupping for Persistent Nonspecific Low Back Pain. 임상시험, 80명. DOI: [10.1089/acm.2015.0065](https://doi.org/10.1089/acm.2015.0065). 근거수준: 중등도. 방광경 혈위 습식 부항이 만성 요통 개선.
-[^33]: Investigating the Effect of Acupressure on the Patients' Anxiety Before Open-Heart Surgery. 임상시험, 90명. DOI: [10.1016/j.jams.2020.11.001](https://doi.org/10.1016/j.jams.2020.11.001). 근거수준: 중등도. 수술 전 지압이 불안·혈압·심박수 감소.
-[^34]: Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis. 임상시험. DOI: [10.1097/md.0000000000035726](https://doi.org/10.1097/md.0000000000035726). 근거수준: 중등도. 독맥구 요법이 건선 개선.
-[^35]: Meridian studies in China: a systematic review. 체계적 고찰. DOI: [10.1016/S2005-2901(10)60001-5](https://doi.org/10.1016/S2005-2901(10)60001-5). 근거수준: 중등도. 경락 현상의 존재 확인.
-[^36]: Acupuncture for the Treatment of Cardiovascular Diseases: A Systematic Review. 체계적 고찰. DOI: [10.1016/j.jams.2018.07.005](https://doi.org/10.1016/j.jams.2018.07.005). 근거수준: 중등도. 침·전침이 심혈관 질환 증상 개선.
-[^37]: Acupoints Compatibility Rules of Acupuncture for Functional Gastrointestinal Disorders Based on Data Mining Technology. 체계적 고찰. DOI: [10.18502/ijph.v54i8.19568](https://doi.org/10.18502/ijph.v54i8.19568). 근거수준: 중등도. FGIDs에 족양명위경 혈위 핵심 사용.
-[^38]: Scientific exploration and hypotheses concerning the meridian system in traditional Chinese medicine. 고찰. DOI: [10.1097/hm9.0000000000000128](https://doi.org/10.1097/hm9.0000000000000128). 근거수준: 중등도. 경락을 정보 전달 체계로 통합 이해.
+[^3]: Biophysical Characteristics of Meridians and Acupoints: A Systematic Review. 체계적 고찰. DOI: [10.1155/2012/793841](https://doi.org/10.1155/2012/793841). 경락·경혈의 전기·열·자기적 특성.
+[^4]: Electrical skin impedance at acupuncture points. 실험연구, 20명. DOI: [10.1089/acm.2007.6258](https://doi.org/10.1089/acm.2007.6258) · PMID: 17532733. 경혈 저저항 가설에 의문 제기.
+[^5]: Explanation of essence and substance basis of channels and collaterals. 고찰. PMID: 17853756. 경락을 근막학·결합조직 관점에서 해석.
+[^6]: Study on vascular morphology of integument tissues of the channel area. 실험연구, 12명. PMID: 17036483. 경락 구역의 혈관 분포 밀도·영양 혈관 사슬.
+[^7]: Study on relationship between the C-V curve of the source points and cold-heat. 관찰연구, 120명. PMID: 17378200. C-V 곡선 곡률로 경락 한열 상태 정량 진단.
+[^8]: Summarization of professor He Pu-ren's channel syndrome differentiation. 고찰. PMID: 17722833. 경락변증의 체표·장부·기혈 종합 분석.
+[^9]: Traditional Chinese medicine interventions based on meridian theory for pain relief in primary dysmenorrhea. 메타분석, 3903명. DOI: [10.3389/fmed.2024.1453609](https://doi.org/10.3389/fmed.2024.1453609) · PMID: 39301491. 경락 기반 중재가 생리통 통증 완화에 효과적·안전.
+[^10]: Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collaterals. 임상시험, 60명. PMID: 17663100. 경락폐색형 고혈압에 침 병행이 혈압·지질 개선.
+[^11]: Study on brain response to acupuncture by functional magnetic resonance imaging. 실험연구, 14명. PMID: 17186721. 경혈별 뇌 활성화 차이.
+[^12]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia. 임상시험, 70명. DOI: [10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550). 삼음교 침이 경락 전기전도도 조절.
+[^13]: Electrical skin impedance at acupuncture points. 실험연구, 20명. DOI: [10.1089/acm.2007.6258](https://doi.org/10.1089/acm.2007.6258) · PMID: 17532733. 경혈 저저항 가설 반증.
+[^14]: Acupoints and meridians: a histochemical study. 실험연구, 48명. PMID: 16038382. 경혈·경락의 MPS·콜라겐·신경 말단 차이.
+[^15]: Comparison of the thermal conductivity of the related tissues along the meridian. 실험연구, 40명. PMID: 16309135. 경락 열전도율·방향성.
+[^16]: Appearance of Human Meridian-Like Structure and Acupoints and Its Characteristics. 관찰연구, 30명. DOI: [10.1142/s0192415x07004771](https://doi.org/10.1142/s0192415x07004771). 적외선 열화상 경락 열 방사 트랙.
+[^17]: Infrared thermography fails to visualize stimulation-induced meridian-like structures. 실험연구, 6명. DOI: [10.1186/1475-925X-4-38](https://doi.org/10.1186/1475-925X-4-38). 적외선 열화상 경락 시각화 한계.
+[^18]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia. 임상시험, 70명. DOI: [10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550). 침이 경락 전기 활성도 조절.
+[^19]: Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndromes. 임상시험, 60명. DOI: [10.3727/036012921x16207330235374](https://doi.org/10.3727/036012921x16207330235374). 경락 변증 기반 전침이 무릎 골관절염 개선.
+[^20]: A Comparative Study on the Immediate Impact of Balance Meridian and Electroacupuncture. 임상시험, 80명. DOI: [10.1177/19336586261419872](https://doi.org/10.1177/19336586261419872). 균형경락침법이 만성 요통에 즉각적 효과.
+[^21]: A study of electrical conductance of meridian in the obese. 관찰연구, 40명. DOI: [10.1142/S0192415X04002077](https://doi.org/10.1142/S0192415X04002077). 경락 전기전도도와 BMI 상관.
+[^22]: The effects of abdominal meridian massage on constipation among CVA patients. 임상시험, 31명. DOI: [10.4040/jkan.2005.35.1.135](https://doi.org/10.4040/jkan.2005.35.1.135). 복부 경락 마사지가 CVA 변비 개선.
+[^23]: The Effects of Abdominal Meridian Massage on Abdominal Distention, Pain after Colonoscopy. 임상시험, 54명. DOI: [10.7739/jkafn.2022.29.1.12](https://doi.org/10.7739/jkafn.2022.29.1.12). 대장내시경 후 복부 경락 마사지 효과.
+[^24]: Effectiveness of acupressure in improving dyspnoea in chronic obstructive pulmonary disease. 임상시험, 44명. DOI: [10.1046/j.1365-2648.2003.02886.x](https://doi.org/10.1046/j.1365-2648.2003.02886.x). 진짜 혈위 지압이 COPD 호흡곤란·불안 개선.
+[^25]: Clinical application of acupunctural anesthesia with new combination of acupoints. 증례, 23명. PMID: 15609590. 상응 경락 근거리·원위 혈위 조합 침 마취가 뇌 수술에 효과적·안전.
+[^26]: Acupuncture treatment of compression neuropathy of the radial nerve. 증례, 1명. DOI: [10.1089/acm.2005.11.167](https://doi.org/10.1089/acm.2005.11.167). 폐경·대장경 원혈·낙혈 조합 침이 손목 하수 완전 회복.
+[^27]: The evidence for Shiatsu: a systematic review of Shiatsu and acupressure. 체계적 고찰. DOI: [10.1186/1472-6882-11-88](https://doi.org/10.1186/1472-6882-11-88). 지압이 통증·오심·수면 개선에 유익.
+[^28]: Efficacy of acupuncture-based adjunctive therapies in alleviating spasticity and motor function in patients with post-stroke spasticity. 메타분석, 6180명. DOI: [10.1016/j.ctim.2025.103282](https://doi.org/10.1016/j.ctim.2025.103282). 경직 완화에 화침·경근침, 운동 기능 회복에 전침 우수.
+[^29]: Therapeutic effects of different acupuncture methods on chronic nonspecific low back pain. 메타분석, 2579명. DOI: [10.1186/s13018-024-05118-8](https://doi.org/10.1186/s13018-024-05118-8). 만성 요통에 온침·전온침·경근 이론 기반 치료 권장.
+[^30]: Different Acupuncture Therapies Combined with Sulfasalazine for the Treatment of Ankylosing Spondylitis. 메타분석. DOI: [10.2147/JPR.S555916](https://doi.org/10.2147/JPR.S555916). 독맥구·침 병행이 강직성 척추염 기능 개선.
+[^31]: Clinical Study of Acupotomy for Knee Osteoarthritis Based on the Meridian-Sinew Theory. 임상시험, 124명. DOI: [10.1155/2021/3987002](https://doi.org/10.1155/2021/3987002). 경근 이론 기반 도침이 무릎 골관절염에 동등한 효과·안전.
+[^32]: The Use of Wet Cupping for Persistent Nonspecific Low Back Pain. 임상시험, 80명. DOI: [10.1089/acm.2015.0065](https://doi.org/10.1089/acm.2015.0065). 방광경 혈위 습식 부항이 만성 요통 개선.
+[^33]: Investigating the Effect of Acupressure on the Patients' Anxiety Before Open-Heart Surgery. 임상시험, 90명. DOI: [10.1016/j.jams.2020.11.001](https://doi.org/10.1016/j.jams.2020.11.001). 수술 전 지압이 불안·혈압·심박수 감소.
+[^34]: Effect of governor vessel moxibustion (GVM) therapy with mild to moderate psoriasis. 임상시험. DOI: [10.1097/md.0000000000035726](https://doi.org/10.1097/md.0000000000035726). 독맥구 요법이 건선 개선.
+[^35]: Meridian studies in China: a systematic review. 체계적 고찰. DOI: [10.1016/S2005-2901(10)60001-5](https://doi.org/10.1016/S2005-2901(10)60001-5). 경락 현상의 존재 확인.
+[^36]: Acupuncture for the Treatment of Cardiovascular Diseases: A Systematic Review. 체계적 고찰. DOI: [10.1016/j.jams.2018.07.005](https://doi.org/10.1016/j.jams.2018.07.005). 침·전침이 심혈관 질환 증상 개선.
+[^37]: Acupoints Compatibility Rules of Acupuncture for Functional Gastrointestinal Disorders Based on Data Mining Technology. 체계적 고찰. DOI: [10.18502/ijph.v54i8.19568](https://doi.org/10.18502/ijph.v54i8.19568). FGIDs에 족양명위경 혈위 핵심 사용.
+[^38]: Scientific exploration and hypotheses concerning the meridian system in traditional Chinese medicine. 고찰. DOI: [10.1097/hm9.0000000000000128](https://doi.org/10.1097/hm9.0000000000000128). 경락을 정보 전달 체계로 통합 이해.

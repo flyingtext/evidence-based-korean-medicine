@@ -1,6 +1,6 @@
 # 사상의학(四象醫學, Sasang Constitutional Medicine)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/임상시험/관찰연구 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -95,66 +95,66 @@
 ## 참고문헌
 
 [^1]: 사상의학의 이론 체계(장부 대소 편차·사상 체질 분류). 교과서적 근거(《동의수세보원》).
-[^2]: The Korean Medicine phenotype as an adjunctive risk factor of Metabolic syndrome: A prospective observational cohort study. 관찰연구, 1,997명. DOI: [10.21203/rs.3.rs-2278278/v1](https://doi.org/10.21203/rs.3.rs-2278278/v1). 근거수준: 높음. 태음인-열형이 대사증후군 위험과 연관.
-[^3]: The Sasang Constitution as an Independent Risk Factor for Metabolic Syndrome: Prospective Cohort Study. 관찰연구, 3,334명. DOI: [10.1155/2013/492941](https://doi.org/10.1155/2013/492941). 근거수준: 높음. 사상체질이 대사증후군의 독립적 위험 인자.
-[^4]: A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders in Korea. 체계적 고찰. DOI: [10.1089/acm.2016.0177](https://doi.org/10.1089/acm.2016.0177). 근거수준: 높음. 체질별 질환 취약성.
-[^5]: Genetic and Environmental Overlaps Among Sasang Constitution Types: A Multivariate Twin Study. 관찰연구, 1,742명. DOI: [10.1017/thg.2018.56](https://doi.org/10.1017/thg.2018.56). 근거수준: 높음. 체질의 유전적 결정.
-[^6]: Metabolic Syndrome Prediction Models Using Machine Learning and Sasang Constitution. 관찰연구, 2,871명. DOI: [10.1155/2021/8315047](https://doi.org/10.1155/2021/8315047). 근거수준: 높음. 체질 기반 대사증후군 예측 모델.
-[^7]: The prevalence of general and abdominal obesity according to sasang constitution. 관찰연구, 3,348명. DOI: [10.1186/1472-6882-14-298](https://doi.org/10.1186/1472-6882-14-298). 근거수준: 높음. 체질별 비만 유병률.
-[^8]: Predicting type 2 diabetes using Sasang constitutional medicine. 관찰연구, 2,460명. DOI: [10.1111/jdi.12189](https://doi.org/10.1111/jdi.12189). 근거수준: 높음. 태음인의 당뇨 취약성.
-[^9]: Manifestations of Sasang Typology according to Common Chronic Diseases in Koreans. 관찰연구, 248명. DOI: [10.1155/2018/7378608](https://doi.org/10.1155/2018/7378608). 근거수준: 중등도. 질환별 체질 특성.
-[^10]: Body composition and personality traits in so-Yang type males. 관찰연구, 953명. DOI: [10.1186/s12906-017-1919-5](https://doi.org/10.1186/s12906-017-1919-5). 근거수준: 높음. 소양인 남성 신체·성격 특성.
-[^11]: Psychological Profile of Sasang Typology: A Systematic Review. 체계적 고찰. DOI: [10.1093/ecam/nep079](https://doi.org/10.1093/ecam/nep079). 근거수준: 높음. 체질별 심리 특성.
-[^12]: A genome-wide scan for the Sasang constitution in a Korean family suggests significant linkage at chromosomes 8q11.22-23 and 11q22.1-3. 관찰연구, 350명. DOI: [10.1089/acm.2009.0067](https://doi.org/10.1089/acm.2009.0067). 근거수준: 높음. 체질과 염색체 연관.
-[^13]: Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and 1H NMR-Based Metabolomics Study. 실험연구. DOI: [10.1155/2019/8783496](https://doi.org/10.1155/2019/8783496). 근거수준: 중등도. 태음인 대사체 마커.
-[^14]: Energy metabolism and whole-exome sequencing-based analysis of Sasang constitution: a pilot study. 실험연구, 31명. DOI: [10.1016/j.imr.2017.03.002](https://doi.org/10.1016/j.imr.2017.03.002). 근거수준: 중등도. 체질별 에너지 대사.
-[^15]: Thermoregulatory Responses to Graded Exercise Differ among Sasang Types. 관찰연구, 304명. DOI: [10.1155/2015/879272](https://doi.org/10.1155/2015/879272). 근거수준: 중등도. 태음인의 열 취약성.
-[^16]: Relationships among morphological variables, cardiovascular fitness during exercise, and thermo-physiological responses under passive heat stress according to Sasang typology. 관찰연구, 24명. DOI: [10.1186/s40101-026-00438-6](https://doi.org/10.1186/s40101-026-00438-6). 근거수준: 중등도. 체질별 심혈관·열 생리 반응.
-[^17]: Association Between Tumor Necrosis Factor-α Gene Polymorphism and Sasang Constitution in Cerebral Infarction. 관찰연구, 822명. DOI: [10.1142/s0192415x05003156](https://doi.org/10.1142/s0192415x05003156). 근거수준: 중등도. TNF-α 다형성과 뇌경색 감수성.
-[^18]: Angiotensin converting enzyme gene polymorphism and traditional Sasang classification in Koreans with cerebral infarction. 관찰연구, 851명. DOI: [10.1034/j.1601-5223.2003.01605.x](https://doi.org/10.1034/j.1601-5223.2003.01605.x). 근거수준: 중등도. 태음인의 뇌경색 빈도 높음.
-[^19]: Interleukin-1 receptor antagonist gene polymorphism and traditional classification in obese women. 관찰연구, 261명. DOI: [10.1080/00207450690962334](https://doi.org/10.1080/00207450690962334). 근거수준: 중등도. IL-1ra 다형성과 태음인 비만.
-[^20]: Sasangin diagnosis questionnaire: test of reliability. 관찰연구, 511명. DOI: [10.1089/acm.2006.5293](https://doi.org/10.1089/acm.2006.5293). 근거수준: 높음. SDQ 신뢰도.
-[^21]: Validity of Yin-Yang temperament in Sasang Personality Questionnaire. 관찰연구, 247명. DOI: [10.1016/j.imr.2018.01.001](https://doi.org/10.1016/j.imr.2018.01.001). 근거수준: 중등도. SPQ 재측정 신뢰도.
-[^22]: Development and validation of a personality assessment instrument for traditional korean medicine: sasang personality questionnaire. 실험연구, 245명. DOI: [10.1155/2012/657013](https://doi.org/10.1155/2012/657013). 근거수준: 중등도. SPQ 타당도.
-[^23]: Development and Validation of the Digestive Function Assessment Instrument for TKM. 실험연구, 193명. DOI: [10.1155/2013/263752](https://doi.org/10.1155/2013/263752). 근거수준: 중등도. 소화 기능 평가 도구.
-[^24]: Development of an integrated Sasang constitution diagnosis method using face, body, and voice. 실험연구. DOI: [10.1186/1472-6882-12-85](https://doi.org/10.1186/1472-6882-12-85). 근거수준: 중등도. 통합 진단법.
-[^25]: Modification of the Integrated Sasang Constitutional Diagnostic Model. 실험연구. DOI: [10.1155/2017/9180159](https://doi.org/10.1155/2017/9180159). 근거수준: 중등도. 머신러닝 진단 모델 개선.
-[^26]: Study of a Vocal Feature Selection Method and Vocal Properties for Discriminating Four Constitution Types. 실험연구. DOI: [10.1155/2012/831543](https://doi.org/10.1155/2012/831543). 근거수준: 중등도. 음성 기반 체질 판별.
-[^27]: Predicting Sasang Constitution Using Body-Shape Information. 관찰연구, 2,677명. DOI: [10.1155/2012/398759](https://doi.org/10.1155/2012/398759). 근거수준: 높음. 체형 기반 체질 예측.
-[^28]: Body Mass Index and Facial Cues in Sasang Typology for Young and Elderly Persons. 관찰연구, 911명. DOI: [10.1155/2011/749209](https://doi.org/10.1155/2011/749209). 근거수준: 높음. 안면·BMI 기반 진단.
-[^29]: Analysis of Facial Features according to Sasang Types between Native Japanese and Koreans. 관찰연구, 843명. DOI: [10.1155/2018/6950216](https://doi.org/10.1155/2018/6950216). 근거수준: 중등도. 안면 특징 체질 차이.
-[^30]: A practical approach to Sasang constitutional diagnosis using vocal features. 실험연구, 2,341명. DOI: [10.1186/1472-6882-13-307](https://doi.org/10.1186/1472-6882-13-307). 근거수준: 높음. 음성 기반 실용 진단.
-[^31]: Machine Learning Applications for the Development of a Questionnaire to Identify Sasang Constitution Typology. 실험연구. DOI: [10.3390/ijerph191811820](https://doi.org/10.3390/ijerph191811820). 근거수준: 중등도. 머신러닝 설문 도구.
-[^32]: Resting Metabolic Rate for Diagnosing Tae-Eum Sasang Type and Unraveling the Mechanism. 관찰연구, 395명. DOI: [10.3390/diagnostics13040672](https://doi.org/10.3390/diagnostics13040672). 근거수준: 중등도. RMR 기반 태음인 진단.
-[^33]: Menstrual cycle and Yin-Yang in healthy nursing college students. 관찰연구, 565명. DOI: [10.1016/j.ctcp.2005.05.006](https://doi.org/10.1016/j.ctcp.2005.05.006). 근거수준: 중등도. 태음인의 높은 BMI·월경 특성.
-[^34]: Pulmonary Function Difference in Sasang Constitutional Types. 관찰연구, 417명. DOI: [10.1155/2018/9074613](https://doi.org/10.1155/2018/9074613). 근거수준: 중등도. 체질별 폐기능 차이.
-[^35]: Total nasal resistance among Sasang constitutional types: a population-based study. 관찰연구, 1,346명. DOI: [10.1186/1472-6882-13-302](https://doi.org/10.1186/1472-6882-13-302). 근거수준: 중등도. 체질별 코막힘 차이.
-[^36]: Differences in Complexion between Cold- and Heat-Prescription Groups in Sasang Medicine. 관찰연구, 528명. DOI: [10.1155/2017/9701978](https://doi.org/10.1155/2017/9701978). 근거수준: 중등도. 한열 처방군 얼굴 소견.
-[^37]: A Machine Learning Approach for Recommending Herbal Formulae with Enhanced Interpretability and Applicability. 실험연구. DOI: [10.3390/biom12111604](https://doi.org/10.3390/biom12111604). 근거수준: 중등도. 처방 추천 모델.
-[^38]: Selection of Machine Learning Models for Prescription Decision-Making Based on Traditional Data. 실험연구, 253명. DOI: [10.13048/jkm.25006](https://doi.org/10.13048/jkm.25006). 근거수준: 중등도. 처방 결정 머신러닝 모델.
-[^39]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. 임상시험. DOI: [10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414). 근거수준: 중등도. 율다한소탕의 면역 조절.
-[^40]: A Case Report of Chest Discomfort Accompanying Insomnia in a Taeeumin Improved with Yulda-Hanso-Tang. 증례, 1명. DOI: [10.22246/jikm.2024.45.4.781](https://doi.org/10.22246/jikm.2024.45.4.781). 근거수준: 낮음. 태음인 흉통·불면에 율다한소탕.
-[^41]: Regulation of TH1/TH2 cytokine production by Chungsim-Yeunja-Tang in patients with cerebral infarction. 임상시험. DOI: [10.1081/iph-120018281](https://doi.org/10.1081/iph-120018281). 근거수준: 중등도. 청심연자탕의 TH1/TH2 조절.
-[^42]: Yangkyuk-Sanhwa-Tang induces changes in serum cytokines and improves outcome in stroke. 임상시험. DOI: [10.1016/s1537-1891(02)00217-3](https://doi.org/10.1016/s1537-1891(02)00217-3). 근거수준: 중등도. 양격산화탕의 뇌경색 예후 개선.
-[^43]: A Case Report of Autonomic Dysfunction and Fibromyalgia with Diabetes: Korean Medicine Treatment in a So-eum Type Patient. 증례, 1명. DOI: [10.22246/jikm.2024.45.5.1054](https://doi.org/10.22246/jikm.2024.45.5.1054). 근거수준: 낮음. 소음인 대건중탕·소국건비환 유효.
-[^44]: A Case of Postherpetic Neuralgia Treated with Korean Medicine, including Soeumin. 증례, 1명. DOI: [10.22246/jikm.2023.44.5.920](https://doi.org/10.22246/jikm.2023.44.5.920). 근거수준: 낮음. 소음인 대상포진 후 신경통 개선.
-[^45]: A Case Study of Buerger's Disease of Soeumin with Lower Extremity Coldness. 증례, 1명. DOI: [10.22246/jikm.2023.44.4.741](https://doi.org/10.22246/jikm.2023.44.4.741). 근거수준: 낮음. 소음인 버거병 하지 냉증 개선.
-[^46]: Randomized Clinical Trials of Constitutional Acupuncture: A Systematic Review. 체계적 고찰. DOI: [10.1093/ecam/nep085](https://doi.org/10.1093/ecam/nep085). 근거수준: 높음. 체질침의 파킨슨병·통증 효과 가능성.
-[^47]: Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream. 임상시험, 21명. DOI: [10.1016/j.imr.2021.100752](https://doi.org/10.1016/j.imr.2021.100752). 근거수준: 중등도. 체질 기반 한방 크림 주름 개선.
-[^48]: Effect of Aromatherapy according to the type of Sasang constitution. 관찰연구, 53명. DOI: [10.4069/kjwhn.2000.6.3.372](https://doi.org/10.4069/kjwhn.2000.6.3.372). 근거수준: 중등도. 체질별 아로마테라피.
-[^49]: Life guidelines of the Sasang constitutional medicine in the management of 'Mibyeong'. 문헌고찰. DOI: [10.1111/j.1447-0594.2004.00205.x](https://doi.org/10.1111/j.1447-0594.2004.00205.x). 근거수준: 중등도. 미병 관리의 생활 지침.
-[^50]: Effects of Lifestyle Modification on Sasang Constitution Classification Using the Sasang. 실험연구, 124명. DOI: [10.15758/ajk.2025.27.1.37](https://doi.org/10.15758/ajk.2025.27.1.37). 근거수준: 중등도. 생활 습관 개선 효과.
-[^51]: Effect of Lifestyle Factors on Hypertension by Constitution Type: A Large Community. 관찰연구, 5,793명. DOI: [10.1155/2019/3231628](https://doi.org/10.1155/2019/3231628). 근거수준: 높음. 체질별 생활 습관·혈압 연관.
-[^52]: Individual Differences in the Association of Lifestyle with Cardiometabolic Risk. 관찰연구, 1,996명. DOI: [10.3390/ijerph192214963](https://doi.org/10.3390/ijerph192214963). 근거수준: 높음. 체질별 생활·대사 위험 연관.
-[^53]: Prevalence of Metabolic Syndrome according to Sasang Constitutional Medicine in Korea. 관찰연구, 1,617명. DOI: [10.1155/2012/646794](https://doi.org/10.1155/2012/646794). 근거수준: 중등도. 체질별 대사증후군 유병률.
-[^54]: Sasang Constitution Type Combined with General Obesity May Act as a Risk Factor. 관찰연구, 2,185명. DOI: [10.3390/healthcare10112286](https://doi.org/10.3390/healthcare10112286). 근거수준: 높음. 체질+비만의 대사 위험.
-[^55]: Cancer incidence varies significantly depending on sasang constitution. 관찰연구, 1,924명. DOI: [10.1016/s0254-6272(13)60171-5](https://doi.org/10.1016/s0254-6272(13)60171-5). 근거수준: 높음. 체질별 암 발생률 차이.
-[^56]: Association of the Apolipoprotein A5 Gene -1131T>C Polymorphism with Serum Lipids and Sasang. 관찰연구, 1,619명. DOI: [10.1155/2012/598394](https://doi.org/10.1155/2012/598394). 근거수준: 중등도. ApoA5 다형성과 체질·지질.
-[^57]: Sasang Constitution May Act as a Risk Factor for Depressive Symptoms—A Survey. 관찰연구, 653명. DOI: [10.3390/healthcare10081548](https://doi.org/10.3390/healthcare10081548). 근거수준: 중등도. 체질과 우울 증상 위험.
+[^2]: The Korean Medicine phenotype as an adjunctive risk factor of Metabolic syndrome: A prospective observational cohort study. 관찰연구, 1,997명. DOI: [10.21203/rs.3.rs-2278278/v1](https://doi.org/10.21203/rs.3.rs-2278278/v1). 태음인-열형이 대사증후군 위험과 연관.
+[^3]: The Sasang Constitution as an Independent Risk Factor for Metabolic Syndrome: Prospective Cohort Study. 관찰연구, 3,334명. DOI: [10.1155/2013/492941](https://doi.org/10.1155/2013/492941). 사상체질이 대사증후군의 독립적 위험 인자.
+[^4]: A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders in Korea. 체계적 고찰. DOI: [10.1089/acm.2016.0177](https://doi.org/10.1089/acm.2016.0177). 체질별 질환 취약성.
+[^5]: Genetic and Environmental Overlaps Among Sasang Constitution Types: A Multivariate Twin Study. 관찰연구, 1,742명. DOI: [10.1017/thg.2018.56](https://doi.org/10.1017/thg.2018.56). 체질의 유전적 결정.
+[^6]: Metabolic Syndrome Prediction Models Using Machine Learning and Sasang Constitution. 관찰연구, 2,871명. DOI: [10.1155/2021/8315047](https://doi.org/10.1155/2021/8315047). 체질 기반 대사증후군 예측 모델.
+[^7]: The prevalence of general and abdominal obesity according to sasang constitution. 관찰연구, 3,348명. DOI: [10.1186/1472-6882-14-298](https://doi.org/10.1186/1472-6882-14-298). 체질별 비만 유병률.
+[^8]: Predicting type 2 diabetes using Sasang constitutional medicine. 관찰연구, 2,460명. DOI: [10.1111/jdi.12189](https://doi.org/10.1111/jdi.12189). 태음인의 당뇨 취약성.
+[^9]: Manifestations of Sasang Typology according to Common Chronic Diseases in Koreans. 관찰연구, 248명. DOI: [10.1155/2018/7378608](https://doi.org/10.1155/2018/7378608). 질환별 체질 특성.
+[^10]: Body composition and personality traits in so-Yang type males. 관찰연구, 953명. DOI: [10.1186/s12906-017-1919-5](https://doi.org/10.1186/s12906-017-1919-5). 소양인 남성 신체·성격 특성.
+[^11]: Psychological Profile of Sasang Typology: A Systematic Review. 체계적 고찰. DOI: [10.1093/ecam/nep079](https://doi.org/10.1093/ecam/nep079). 체질별 심리 특성.
+[^12]: A genome-wide scan for the Sasang constitution in a Korean family suggests significant linkage at chromosomes 8q11.22-23 and 11q22.1-3. 관찰연구, 350명. DOI: [10.1089/acm.2009.0067](https://doi.org/10.1089/acm.2009.0067). 체질과 염색체 연관.
+[^13]: Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and 1H NMR-Based Metabolomics Study. 실험연구. DOI: [10.1155/2019/8783496](https://doi.org/10.1155/2019/8783496). 태음인 대사체 마커.
+[^14]: Energy metabolism and whole-exome sequencing-based analysis of Sasang constitution: a pilot study. 실험연구, 31명. DOI: [10.1016/j.imr.2017.03.002](https://doi.org/10.1016/j.imr.2017.03.002). 체질별 에너지 대사.
+[^15]: Thermoregulatory Responses to Graded Exercise Differ among Sasang Types. 관찰연구, 304명. DOI: [10.1155/2015/879272](https://doi.org/10.1155/2015/879272). 태음인의 열 취약성.
+[^16]: Relationships among morphological variables, cardiovascular fitness during exercise, and thermo-physiological responses under passive heat stress according to Sasang typology. 관찰연구, 24명. DOI: [10.1186/s40101-026-00438-6](https://doi.org/10.1186/s40101-026-00438-6). 체질별 심혈관·열 생리 반응.
+[^17]: Association Between Tumor Necrosis Factor-α Gene Polymorphism and Sasang Constitution in Cerebral Infarction. 관찰연구, 822명. DOI: [10.1142/s0192415x05003156](https://doi.org/10.1142/s0192415x05003156). TNF-α 다형성과 뇌경색 감수성.
+[^18]: Angiotensin converting enzyme gene polymorphism and traditional Sasang classification in Koreans with cerebral infarction. 관찰연구, 851명. DOI: [10.1034/j.1601-5223.2003.01605.x](https://doi.org/10.1034/j.1601-5223.2003.01605.x). 태음인의 뇌경색 빈도 높음.
+[^19]: Interleukin-1 receptor antagonist gene polymorphism and traditional classification in obese women. 관찰연구, 261명. DOI: [10.1080/00207450690962334](https://doi.org/10.1080/00207450690962334). IL-1ra 다형성과 태음인 비만.
+[^20]: Sasangin diagnosis questionnaire: test of reliability. 관찰연구, 511명. DOI: [10.1089/acm.2006.5293](https://doi.org/10.1089/acm.2006.5293). SDQ 신뢰도.
+[^21]: Validity of Yin-Yang temperament in Sasang Personality Questionnaire. 관찰연구, 247명. DOI: [10.1016/j.imr.2018.01.001](https://doi.org/10.1016/j.imr.2018.01.001). SPQ 재측정 신뢰도.
+[^22]: Development and validation of a personality assessment instrument for traditional korean medicine: sasang personality questionnaire. 실험연구, 245명. DOI: [10.1155/2012/657013](https://doi.org/10.1155/2012/657013). SPQ 타당도.
+[^23]: Development and Validation of the Digestive Function Assessment Instrument for TKM. 실험연구, 193명. DOI: [10.1155/2013/263752](https://doi.org/10.1155/2013/263752). 소화 기능 평가 도구.
+[^24]: Development of an integrated Sasang constitution diagnosis method using face, body, and voice. 실험연구. DOI: [10.1186/1472-6882-12-85](https://doi.org/10.1186/1472-6882-12-85). 통합 진단법.
+[^25]: Modification of the Integrated Sasang Constitutional Diagnostic Model. 실험연구. DOI: [10.1155/2017/9180159](https://doi.org/10.1155/2017/9180159). 머신러닝 진단 모델 개선.
+[^26]: Study of a Vocal Feature Selection Method and Vocal Properties for Discriminating Four Constitution Types. 실험연구. DOI: [10.1155/2012/831543](https://doi.org/10.1155/2012/831543). 음성 기반 체질 판별.
+[^27]: Predicting Sasang Constitution Using Body-Shape Information. 관찰연구, 2,677명. DOI: [10.1155/2012/398759](https://doi.org/10.1155/2012/398759). 체형 기반 체질 예측.
+[^28]: Body Mass Index and Facial Cues in Sasang Typology for Young and Elderly Persons. 관찰연구, 911명. DOI: [10.1155/2011/749209](https://doi.org/10.1155/2011/749209). 안면·BMI 기반 진단.
+[^29]: Analysis of Facial Features according to Sasang Types between Native Japanese and Koreans. 관찰연구, 843명. DOI: [10.1155/2018/6950216](https://doi.org/10.1155/2018/6950216). 안면 특징 체질 차이.
+[^30]: A practical approach to Sasang constitutional diagnosis using vocal features. 실험연구, 2,341명. DOI: [10.1186/1472-6882-13-307](https://doi.org/10.1186/1472-6882-13-307). 음성 기반 실용 진단.
+[^31]: Machine Learning Applications for the Development of a Questionnaire to Identify Sasang Constitution Typology. 실험연구. DOI: [10.3390/ijerph191811820](https://doi.org/10.3390/ijerph191811820). 머신러닝 설문 도구.
+[^32]: Resting Metabolic Rate for Diagnosing Tae-Eum Sasang Type and Unraveling the Mechanism. 관찰연구, 395명. DOI: [10.3390/diagnostics13040672](https://doi.org/10.3390/diagnostics13040672). RMR 기반 태음인 진단.
+[^33]: Menstrual cycle and Yin-Yang in healthy nursing college students. 관찰연구, 565명. DOI: [10.1016/j.ctcp.2005.05.006](https://doi.org/10.1016/j.ctcp.2005.05.006). 태음인의 높은 BMI·월경 특성.
+[^34]: Pulmonary Function Difference in Sasang Constitutional Types. 관찰연구, 417명. DOI: [10.1155/2018/9074613](https://doi.org/10.1155/2018/9074613). 체질별 폐기능 차이.
+[^35]: Total nasal resistance among Sasang constitutional types: a population-based study. 관찰연구, 1,346명. DOI: [10.1186/1472-6882-13-302](https://doi.org/10.1186/1472-6882-13-302). 체질별 코막힘 차이.
+[^36]: Differences in Complexion between Cold- and Heat-Prescription Groups in Sasang Medicine. 관찰연구, 528명. DOI: [10.1155/2017/9701978](https://doi.org/10.1155/2017/9701978). 한열 처방군 얼굴 소견.
+[^37]: A Machine Learning Approach for Recommending Herbal Formulae with Enhanced Interpretability and Applicability. 실험연구. DOI: [10.3390/biom12111604](https://doi.org/10.3390/biom12111604). 처방 추천 모델.
+[^38]: Selection of Machine Learning Models for Prescription Decision-Making Based on Traditional Data. 실험연구, 253명. DOI: [10.13048/jkm.25006](https://doi.org/10.13048/jkm.25006). 처방 결정 머신러닝 모델.
+[^39]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. 임상시험. DOI: [10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414). 율다한소탕의 면역 조절.
+[^40]: A Case Report of Chest Discomfort Accompanying Insomnia in a Taeeumin Improved with Yulda-Hanso-Tang. 증례, 1명. DOI: [10.22246/jikm.2024.45.4.781](https://doi.org/10.22246/jikm.2024.45.4.781). 태음인 흉통·불면에 율다한소탕.
+[^41]: Regulation of TH1/TH2 cytokine production by Chungsim-Yeunja-Tang in patients with cerebral infarction. 임상시험. DOI: [10.1081/iph-120018281](https://doi.org/10.1081/iph-120018281). 청심연자탕의 TH1/TH2 조절.
+[^42]: Yangkyuk-Sanhwa-Tang induces changes in serum cytokines and improves outcome in stroke. 임상시험. DOI: [10.1016/s1537-1891(02)00217-3](https://doi.org/10.1016/s1537-1891(02)00217-3). 양격산화탕의 뇌경색 예후 개선.
+[^43]: A Case Report of Autonomic Dysfunction and Fibromyalgia with Diabetes: Korean Medicine Treatment in a So-eum Type Patient. 증례, 1명. DOI: [10.22246/jikm.2024.45.5.1054](https://doi.org/10.22246/jikm.2024.45.5.1054). 소음인 대건중탕·소국건비환 유효.
+[^44]: A Case of Postherpetic Neuralgia Treated with Korean Medicine, including Soeumin. 증례, 1명. DOI: [10.22246/jikm.2023.44.5.920](https://doi.org/10.22246/jikm.2023.44.5.920). 소음인 대상포진 후 신경통 개선.
+[^45]: A Case Study of Buerger's Disease of Soeumin with Lower Extremity Coldness. 증례, 1명. DOI: [10.22246/jikm.2023.44.4.741](https://doi.org/10.22246/jikm.2023.44.4.741). 소음인 버거병 하지 냉증 개선.
+[^46]: Randomized Clinical Trials of Constitutional Acupuncture: A Systematic Review. 체계적 고찰. DOI: [10.1093/ecam/nep085](https://doi.org/10.1093/ecam/nep085). 체질침의 파킨슨병·통증 효과 가능성.
+[^47]: Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream. 임상시험, 21명. DOI: [10.1016/j.imr.2021.100752](https://doi.org/10.1016/j.imr.2021.100752). 체질 기반 한방 크림 주름 개선.
+[^48]: Effect of Aromatherapy according to the type of Sasang constitution. 관찰연구, 53명. DOI: [10.4069/kjwhn.2000.6.3.372](https://doi.org/10.4069/kjwhn.2000.6.3.372). 체질별 아로마테라피.
+[^49]: Life guidelines of the Sasang constitutional medicine in the management of 'Mibyeong'. 문헌고찰. DOI: [10.1111/j.1447-0594.2004.00205.x](https://doi.org/10.1111/j.1447-0594.2004.00205.x). 미병 관리의 생활 지침.
+[^50]: Effects of Lifestyle Modification on Sasang Constitution Classification Using the Sasang. 실험연구, 124명. DOI: [10.15758/ajk.2025.27.1.37](https://doi.org/10.15758/ajk.2025.27.1.37). 생활 습관 개선 효과.
+[^51]: Effect of Lifestyle Factors on Hypertension by Constitution Type: A Large Community. 관찰연구, 5,793명. DOI: [10.1155/2019/3231628](https://doi.org/10.1155/2019/3231628). 체질별 생활 습관·혈압 연관.
+[^52]: Individual Differences in the Association of Lifestyle with Cardiometabolic Risk. 관찰연구, 1,996명. DOI: [10.3390/ijerph192214963](https://doi.org/10.3390/ijerph192214963). 체질별 생활·대사 위험 연관.
+[^53]: Prevalence of Metabolic Syndrome according to Sasang Constitutional Medicine in Korea. 관찰연구, 1,617명. DOI: [10.1155/2012/646794](https://doi.org/10.1155/2012/646794). 체질별 대사증후군 유병률.
+[^54]: Sasang Constitution Type Combined with General Obesity May Act as a Risk Factor. 관찰연구, 2,185명. DOI: [10.3390/healthcare10112286](https://doi.org/10.3390/healthcare10112286). 체질+비만의 대사 위험.
+[^55]: Cancer incidence varies significantly depending on sasang constitution. 관찰연구, 1,924명. DOI: [10.1016/s0254-6272(13)60171-5](https://doi.org/10.1016/s0254-6272(13)60171-5). 체질별 암 발생률 차이.
+[^56]: Association of the Apolipoprotein A5 Gene -1131T>C Polymorphism with Serum Lipids and Sasang. 관찰연구, 1,619명. DOI: [10.1155/2012/598394](https://doi.org/10.1155/2012/598394). ApoA5 다형성과 체질·지질.
+[^57]: Sasang Constitution May Act as a Risk Factor for Depressive Symptoms—A Survey. 관찰연구, 653명. DOI: [10.3390/healthcare10081548](https://doi.org/10.3390/healthcare10081548). 체질과 우울 증상 위험.
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 사상의학의 진단은 문진·망진에 의존하는 주관적 요소가 있어, 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 표준화된 설문지(SDQ·SPQ)·머신러닝·음성·체형·대사체 기반 객관적 진단이 발전하고 있으나, 이를 체계적으로 통합하고 검증할 대규모 임상 연구가 필요하다.[^20][^25][^30][^13]
+- 사상의학의 진단은 문진·망진에 의존하는 주관적 요소가 있어, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다. 표준화된 설문지(SDQ·SPQ)·머신러닝·음성·체형·대사체 기반 객관적 진단이 발전하고 있으나, 이를 체계적으로 통합하고 검증할 대규모 임상 연구가 필요하다.[^20][^25][^30][^13]
 - 체질침(體質鍼)의 효과는 체계적 고찰·메타분석에서 긍정적이나 분석 연구 수가 적어, 이를 뒷받침할 대규모 무작위 대조 임상시험이 요구된다.[^46]
 - 체질별 처방(율다한소탕·청심연자탕·양격산화탕 등)의 임상 근거는 뇌혈관 질환·대사질환 중심으로 일부 임상시험이 존재하나, 표준화된 처방 기준·다양한 질환에 대한 대규모 전향적 연구가 필요하다.[^39][^41][^42]
 - 체질과 질환 취약성의 연관성 연구는 주로 태음인 대사질환에 집중되어 있어, 태양인·소양인·소음인의 다양한 질환 취약성과 체질별 예방 전략을 확립할 추가 연구가 필요하다.[^4]
@@ -166,7 +166,7 @@
 - 비한의학적 관점의 한의·민간 요법 관련 연구(전통 한약 안전성, Kampo 처방 증례 등)는 사상의학 본 주제와 간접 관련이거나 다른 체계를 다루어 제외하였다.
 - 사상체질과 무관한 진단법(배꼽 진단, 홍채 진단 등) 중 체질 진단과 관련된 일부는 보조 진단 근거로만 활용하였다.
 
-[^58]: Chronic lead intoxication associated with Ayurvedic medication. 증례, 1명. PMID: [16402516](https://pubmed.ncbi.nlm.nih.gov/16402516/). 근거수준: 낮음. 전통 약제의 납 중독 위험.
-[^59]: Chinese herb nephropathy. 증례, 1명. PMID: [16389336](https://pubmed.ncbi.nlm.nih.gov/16389336/). 근거수준: 낮음. 아리스톨로크산 신병증 위험.
-[^60]: Movement disorders possibly induced by traditional chinese herbs. 증례, 4명. DOI: [10.1159/000073056](https://doi.org/10.1159/000073056). 근거수준: 낮음. 고삼·사상자 과다복용의 신경독성.
-[^61]: Acute vertigo following cervical manipulation. 증례, 9명. DOI: [10.1097/00005537-200304000-00014](https://doi.org/10.1097/00005537-200304000-00014). 근거수준: 낮음. 경추 교정술 후 혈관성 현훈 위험.
+[^58]: Chronic lead intoxication associated with Ayurvedic medication. 증례, 1명. PMID: [16402516](https://pubmed.ncbi.nlm.nih.gov/16402516/). 전통 약제의 납 중독 위험.
+[^59]: Chinese herb nephropathy. 증례, 1명. PMID: [16389336](https://pubmed.ncbi.nlm.nih.gov/16389336/). 아리스톨로크산 신병증 위험.
+[^60]: Movement disorders possibly induced by traditional chinese herbs. 증례, 4명. DOI: [10.1159/000073056](https://doi.org/10.1159/000073056). 고삼·사상자 과다복용의 신경독성.
+[^61]: Acute vertigo following cervical manipulation. 증례, 9명. DOI: [10.1097/00005537-200304000-00014](https://doi.org/10.1097/00005537-200304000-00014). 경추 교정술 후 혈관성 현훈 위험.

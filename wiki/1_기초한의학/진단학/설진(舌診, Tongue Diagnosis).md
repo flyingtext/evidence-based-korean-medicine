@@ -1,6 +1,6 @@
 # 설진(舌診, Tongue Diagnosis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 관찰연구/실험연구/문헌고찰 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 
 ## 개요
 
@@ -49,40 +49,40 @@
 
 ## 참고문헌
 
-[^1]: Can Traditional Chinese Medicine Diagnosis Be Parameterized and Standardized? A Narrative Review. 문헌고찰. DOI: [10.3390/healthcare9020177](https://doi.org/10.3390/healthcare9020177). 근거수준: 중등도. 설진·맥진 기기 보조 진단 시스템의 성과와 한계.
-[^2]: Digital tongue image analyses for health assessment. 문헌고찰. DOI: [10.1515/mr-2021-0018](https://doi.org/10.1515/mr-2021-0018). 근거수준: 중등도. 디지털 설진 영상 분석 기술 동향.
-[^3]: Gender- and age-dependent tongue features in a community-based population. 관찰연구, 1487명. DOI: [10.1097/MD.0000000000018350](https://doi.org/10.1097/MD.0000000000018350). 근거수준: 중등도. 성별·연령에 따른 혀 특징 차이.
-[^4]: Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance. 관찰연구, 82명. DOI: [10.31101/jkk.3962](https://doi.org/10.31101/jkk.3962). 근거수준: 중등도. 생식계 질환 담백설·비대설·후태·습설.
-[^5]: Metabolic markers and microecological characteristics of tongue coating in patients with chronic gastritis. 관찰연구, 90명. DOI: [10.1186/1472-6882-13-227](https://doi.org/10.1186/1472-6882-13-227). 근거수준: 중등도. 만성 위염 설태 대사물질·미생물 차이.
-[^6]: Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor. 관찰연구, 102명. DOI: [10.1155/2016/1971295](https://doi.org/10.1155/2016/1971295). 근거수준: 중등도. 대사증후군 백태 경향.
-[^7]: Assessing the efficacy of a tongue image analyzing system (TIAS) for the objective diagnosis of static blood. 관찰연구, 227명. DOI: [10.1002/tkm2.1255](https://doi.org/10.1002/tkm2.1255). 근거수준: 중등도. 설색 지표로 정체혈 중증도 판별.
-[^8]: Accurate localization of organ representation areas of the tongue, using the Bi-Digital O-Ring Test. 실험연구. DOI: [10.3727/036012991816358062](https://doi.org/10.3727/036012991816358062). 근거수준: 중등도. 혀 부위별 장기 반영 지도.
-[^9]: Differential regional textural attributes of tongue in normal and acidity patients. 관찰연구, 34명. DOI: [10.1016/j.compbiomed.2026.111831](https://doi.org/10.1016/j.compbiomed.2026.111831). 근거수준: 중등도. 부위별 설색·질감 분석, 위장 질환 진단.
-[^10]: A novel approach based on computerized image analysis for traditional Chinese medical diagnosis of the tongue. 실험연구. DOI: [10.1016/s0169-2607(99)00031-0](https://doi.org/10.1016/s0169-2607(99)00031-0). 근거수준: 중등도. 설색·설태 86% 이상 정확도 판별.
-[^11]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. 관찰연구, 1879명. DOI: [10.1155/2013/508918](https://doi.org/10.1155/2013/508918). 근거수준: 중등도. 세맥·활맥이 변증 구분의 중요 지표.
-[^12]: Interobserver Reliability of Tongue Diagnosis Using Traditional Korean Medicine for Stroke Patients. 관찰연구, 658명. DOI: [10.1155/2012/209345](https://doi.org/10.1155/2012/209345). 근거수준: 중등도. 뇌졸중 설진 관찰자 간 일치도 중등도~우수.
-[^13]: Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor. 관찰연구, 102명. DOI: [10.1155/2016/1971295](https://doi.org/10.1155/2016/1971295). 근거수준: 중등도. 대사증후군 백태 경향.
-[^14]: Circadian Rhythms in Tongue Features. 관찰연구, 15명. DOI: [10.3390/jcm13123549](https://doi.org/10.3390/jcm13123549). 근거수준: 중등도. 혀 특징 24시간 주기 리듬 변화.
-[^15]: Reliability of non-contact tongue diagnosis for Sjögren's syndrome using machine learning method. 실험연구, 60명. DOI: [10.1038/s41598-023-27764-4](https://doi.org/10.1038/s41598-023-27764-4). 근거수준: 중등도. 비접촉 설진·머신러닝, 쇼그렌 증후군 선별.
-[^16]: Clinical study of intelligent tongue diagnosis and oral microbiome for classifying TCM syndromes in MASLD. 관찰연구, 100명. DOI: [10.1186/s13020-025-01118-w](https://doi.org/10.1186/s13020-025-01118-w). 근거수준: 중등도. 설진·구강 마이크로바이옴으로 MASLD 변증 분류.
-[^17]: Differences in the Tongue Features of Primary Dysmenorrhea Patients and Controls over a Normal Menstrual Cycle. 관찰연구, 48명. DOI: [10.1155/2017/6435702](https://doi.org/10.1155/2017/6435702). 근거수준: 중등도. 생리통 환자 생리기 설태 변화.
-[^18]: Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance. 관찰연구, 82명. DOI: [10.31101/jkk.3962](https://doi.org/10.31101/jkk.3962). 근거수준: 중등도. 생식계 질환 설상 특징.
-[^19]: Temporal changes in tongue color during immune checkpoint inhibitor therapy in patients with non-small-cell lung cancer. 관찰연구, 140명. DOI: [10.3389/or.2025.1697252](https://doi.org/10.3389/or.2025.1697252). 근거수준: 중등도. 설색 밝기 변화, 면역치료 예후 예측.
-[^20]: [Study on relationship between quantitative data of tongue picture and state of illness in 224 patients with severe acute respiratory syndrome]. 관찰연구, 224명. PMID: [14626185](https://pubmed.ncbi.nlm.nih.gov/14626185/). 근거수준: 중등도. 위중 환자 암담설·후황태.
-[^21]: [Study on the relationship between blood stasis syndrome and clinical pathology in patients with IgA nephropathy]. 관찰연구, 94명. PMID: [16152822](https://pubmed.ncbi.nlm.nih.gov/16152822/). 근거수준: 중등도. 혈어 증후군, IgA 신병증 병리 악화와 관련.
-[^22]: [Applying matching matrix, factor analysis and clustering analysis to investigation of characteristics of syndromes of phlegm and blood stasis in patients with coronary heart disease]. 관찰연구, 200명. PMID: [16834968](https://pubmed.ncbi.nlm.nih.gov/16834968/). 근거수준: 중등도. 담음 백니태·활맥, 어혈 자설·어반.
-[^23]: Objective evaluation of tongue diagnosis ability using a tongue diagnosis e-learning/e-assessment system. 관찰연구, 178명. DOI: [10.3389/fmedt.2023.1050909](https://doi.org/10.3389/fmedt.2023.1050909). 근거수준: 중등도. 표준화 설상 DB 기반 설진 능력 평가.
-[^24]: Administration of Yijung-tang, Pyeongwi-san, and Shihosogan-tang for Standardization of Korean Medicine Pattern Identification for Functional Dyspepsia. 임상시험, 300명. DOI: [10.22246/jikm.2022.43.6.1105](https://doi.org/10.22246/jikm.2022.43.6.1105). 근거수준: 중등도. 기능성 소화불량 변증 진단 도구 표준화.
-[^25]: The Herbal Formula CBD Improves Sleep Quality Dependent on Oral Microbial Type and Tongue Diagnostic Features in Insomnia. 임상시험, 56명. DOI: [10.21203/rs.3.rs-54133/v1](https://doi.org/10.21203/rs.3.rs-54133/v1). 근거수준: 중등도. 설진·구강 미생물로 불면증 변증 확인 후 처방.
-[^26]: Study Protocol: TCM Syndrome Differentiation for Heart Failure patients and its Implication for Long-term Therapeutic Outcome of Qiliqiangxin Capsules. 임상시험, 3080명. DOI: [10.21203/rs.3.rs-727082/v1](https://doi.org/10.21203/rs.3.rs-727082/v1). 근거수준: 중등도. 심부전 변증·설진 기반 맞춤 치료 프로토콜.
-[^27]: Validation of Evidence-based Questionnaire for TCM Syndrome Differentiation of Heart Failure and Evaluation of Expert Consensus. 임상시험, 661명. DOI: [10.21203/rs.3.rs-2430316/v1](https://doi.org/10.21203/rs.3.rs-2430316/v1). 근거수준: 중등도. 심부전 변증 설문지(SDQHF) 신뢰도·타당도.
-[^28]: A Case Report of Pheochromocytoma Presenting With a Tongue Sign Indicative of Blood Deficiency. 증례, 1명. DOI: [10.7759/cureus.79880](https://doi.org/10.7759/cureus.79880). 근거수준: 낮음. 혈허 설상이 갈색세포종으로 나타난 사례, 통합적 감별 필요.
-[^29]: Construction of a Standardized Tongue Image Database for Diagnostic Education: Development of a Tongue Diagnosis e-Learning System. 실험연구, 125명. DOI: [10.3389/fmedt.2021.760542](https://doi.org/10.3389/fmedt.2021.760542). 근거수준: 중등도. 설진 표준화 교육용 이미지 DB·e-러닝 시스템.
+[^1]: Can Traditional Chinese Medicine Diagnosis Be Parameterized and Standardized? A Narrative Review. 문헌고찰. DOI: [10.3390/healthcare9020177](https://doi.org/10.3390/healthcare9020177). 설진·맥진 기기 보조 진단 시스템의 성과와 한계.
+[^2]: Digital tongue image analyses for health assessment. 문헌고찰. DOI: [10.1515/mr-2021-0018](https://doi.org/10.1515/mr-2021-0018). 디지털 설진 영상 분석 기술 동향.
+[^3]: Gender- and age-dependent tongue features in a community-based population. 관찰연구, 1487명. DOI: [10.1097/MD.0000000000018350](https://doi.org/10.1097/MD.0000000000018350). 성별·연령에 따른 혀 특징 차이.
+[^4]: Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance. 관찰연구, 82명. DOI: [10.31101/jkk.3962](https://doi.org/10.31101/jkk.3962). 생식계 질환 담백설·비대설·후태·습설.
+[^5]: Metabolic markers and microecological characteristics of tongue coating in patients with chronic gastritis. 관찰연구, 90명. DOI: [10.1186/1472-6882-13-227](https://doi.org/10.1186/1472-6882-13-227). 만성 위염 설태 대사물질·미생물 차이.
+[^6]: Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor. 관찰연구, 102명. DOI: [10.1155/2016/1971295](https://doi.org/10.1155/2016/1971295). 대사증후군 백태 경향.
+[^7]: Assessing the efficacy of a tongue image analyzing system (TIAS) for the objective diagnosis of static blood. 관찰연구, 227명. DOI: [10.1002/tkm2.1255](https://doi.org/10.1002/tkm2.1255). 설색 지표로 정체혈 중증도 판별.
+[^8]: Accurate localization of organ representation areas of the tongue, using the Bi-Digital O-Ring Test. 실험연구. DOI: [10.3727/036012991816358062](https://doi.org/10.3727/036012991816358062). 혀 부위별 장기 반영 지도.
+[^9]: Differential regional textural attributes of tongue in normal and acidity patients. 관찰연구, 34명. DOI: [10.1016/j.compbiomed.2026.111831](https://doi.org/10.1016/j.compbiomed.2026.111831). 부위별 설색·질감 분석, 위장 질환 진단.
+[^10]: A novel approach based on computerized image analysis for traditional Chinese medical diagnosis of the tongue. 실험연구. DOI: [10.1016/s0169-2607(99)00031-0](https://doi.org/10.1016/s0169-2607(99)00031-0). 설색·설태 86% 이상 정확도 판별.
+[^11]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. 관찰연구, 1879명. DOI: [10.1155/2013/508918](https://doi.org/10.1155/2013/508918). 세맥·활맥이 변증 구분의 중요 지표.
+[^12]: Interobserver Reliability of Tongue Diagnosis Using Traditional Korean Medicine for Stroke Patients. 관찰연구, 658명. DOI: [10.1155/2012/209345](https://doi.org/10.1155/2012/209345). 뇌졸중 설진 관찰자 간 일치도 중등도~우수.
+[^13]: Traditional Chinese Medicine for Metabolic Syndrome via TCM Pattern Differentiation: Tongue Diagnosis for Predictor. 관찰연구, 102명. DOI: [10.1155/2016/1971295](https://doi.org/10.1155/2016/1971295). 대사증후군 백태 경향.
+[^14]: Circadian Rhythms in Tongue Features. 관찰연구, 15명. DOI: [10.3390/jcm13123549](https://doi.org/10.3390/jcm13123549). 혀 특징 24시간 주기 리듬 변화.
+[^15]: Reliability of non-contact tongue diagnosis for Sjögren's syndrome using machine learning method. 실험연구, 60명. DOI: [10.1038/s41598-023-27764-4](https://doi.org/10.1038/s41598-023-27764-4). 비접촉 설진·머신러닝, 쇼그렌 증후군 선별.
+[^16]: Clinical study of intelligent tongue diagnosis and oral microbiome for classifying TCM syndromes in MASLD. 관찰연구, 100명. DOI: [10.1186/s13020-025-01118-w](https://doi.org/10.1186/s13020-025-01118-w). 설진·구강 마이크로바이옴으로 MASLD 변증 분류.
+[^17]: Differences in the Tongue Features of Primary Dysmenorrhea Patients and Controls over a Normal Menstrual Cycle. 관찰연구, 48명. DOI: [10.1155/2017/6435702](https://doi.org/10.1155/2017/6435702). 생리통 환자 생리기 설태 변화.
+[^18]: Tongue Conditions in Reproductive Disorders: Indicators of Qi Deficiency and Imbalance. 관찰연구, 82명. DOI: [10.31101/jkk.3962](https://doi.org/10.31101/jkk.3962). 생식계 질환 설상 특징.
+[^19]: Temporal changes in tongue color during immune checkpoint inhibitor therapy in patients with non-small-cell lung cancer. 관찰연구, 140명. DOI: [10.3389/or.2025.1697252](https://doi.org/10.3389/or.2025.1697252). 설색 밝기 변화, 면역치료 예후 예측.
+[^20]: [Study on relationship between quantitative data of tongue picture and state of illness in 224 patients with severe acute respiratory syndrome]. 관찰연구, 224명. PMID: [14626185](https://pubmed.ncbi.nlm.nih.gov/14626185/). 위중 환자 암담설·후황태.
+[^21]: [Study on the relationship between blood stasis syndrome and clinical pathology in patients with IgA nephropathy]. 관찰연구, 94명. PMID: [16152822](https://pubmed.ncbi.nlm.nih.gov/16152822/). 혈어 증후군, IgA 신병증 병리 악화와 관련.
+[^22]: [Applying matching matrix, factor analysis and clustering analysis to investigation of characteristics of syndromes of phlegm and blood stasis in patients with coronary heart disease]. 관찰연구, 200명. PMID: [16834968](https://pubmed.ncbi.nlm.nih.gov/16834968/). 담음 백니태·활맥, 어혈 자설·어반.
+[^23]: Objective evaluation of tongue diagnosis ability using a tongue diagnosis e-learning/e-assessment system. 관찰연구, 178명. DOI: [10.3389/fmedt.2023.1050909](https://doi.org/10.3389/fmedt.2023.1050909). 표준화 설상 DB 기반 설진 능력 평가.
+[^24]: Administration of Yijung-tang, Pyeongwi-san, and Shihosogan-tang for Standardization of Korean Medicine Pattern Identification for Functional Dyspepsia. 임상시험, 300명. DOI: [10.22246/jikm.2022.43.6.1105](https://doi.org/10.22246/jikm.2022.43.6.1105). 기능성 소화불량 변증 진단 도구 표준화.
+[^25]: The Herbal Formula CBD Improves Sleep Quality Dependent on Oral Microbial Type and Tongue Diagnostic Features in Insomnia. 임상시험, 56명. DOI: [10.21203/rs.3.rs-54133/v1](https://doi.org/10.21203/rs.3.rs-54133/v1). 설진·구강 미생물로 불면증 변증 확인 후 처방.
+[^26]: Study Protocol: TCM Syndrome Differentiation for Heart Failure patients and its Implication for Long-term Therapeutic Outcome of Qiliqiangxin Capsules. 임상시험, 3080명. DOI: [10.21203/rs.3.rs-727082/v1](https://doi.org/10.21203/rs.3.rs-727082/v1). 심부전 변증·설진 기반 맞춤 치료 프로토콜.
+[^27]: Validation of Evidence-based Questionnaire for TCM Syndrome Differentiation of Heart Failure and Evaluation of Expert Consensus. 임상시험, 661명. DOI: [10.21203/rs.3.rs-2430316/v1](https://doi.org/10.21203/rs.3.rs-2430316/v1). 심부전 변증 설문지(SDQHF) 신뢰도·타당도.
+[^28]: A Case Report of Pheochromocytoma Presenting With a Tongue Sign Indicative of Blood Deficiency. 증례, 1명. DOI: [10.7759/cureus.79880](https://doi.org/10.7759/cureus.79880). 혈허 설상이 갈색세포종으로 나타난 사례, 통합적 감별 필요.
+[^29]: Construction of a Standardized Tongue Image Database for Diagnostic Education: Development of a Tongue Diagnosis e-Learning System. 실험연구, 125명. DOI: [10.3389/fmedt.2021.760542](https://doi.org/10.3389/fmedt.2021.760542). 설진 표준화 교육용 이미지 DB·e-러닝 시스템.
 
 ## 미충족 근거 / 추가 연구 필요
 
 - 설진(舌診)은 디지털 영상 분석·머신러닝으로 객관화가 진행 중이나, 촬영 환경·조명·색보정·측정 위치의 표준화가 아직 완전히 확립되지 않아 연구 간 이질성이 있다.[^1][^2] 추후 더 많은 대규모 전향적 연구가 필요하다.
 - 설진의 관찰자 간 일치도는 중등도~우수 수준이나, 설색·설태의 질감에 대한 신뢰도는 상대적으로 낮아,[^12] 더 세분화된 진단 기준과 임상가 교육이 필요하다.
 - 설진 단독으로 특정 질환을 진단하기보다는 맥진·문진·설문 등과 병행하는 통합적 접근이 권장되며, 설진 결과와 다른 임상 징후가 불일치할 때 기저 질환을 감별하는 연구가 필요하다.[^28]
-- 검색으로 확보한 논문 중 일부는 설진(舌診)보다는 맥진(脈診)·복진(腹診) 등 다른 진단법이나 특정 질환의 변증 분류를 주로 다루어, 설진 자체의 인체 근거 수준이 낮아 각주에서 제외하거나 보조적으로만 활용하였다.
+- 검색으로 확보한 논문 중 일부는 설진(舌診)보다는 맥진(脈診)·복진(腹診) 등 다른 진단법이나 특정 질환의 변증 분류를 주로 다루어, 설진 자체의 인체 근거가 부족해 각주에서 제외하거나 보조적으로만 활용하였다.
 - 설진의 생리적 변이(성별·연령·일주기 리듬)에 대한 정밀한 보정 모델은 아직 확립되지 않았다. 추후 더 정밀한 연구가 필요하다.[^3][^14]

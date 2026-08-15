@@ -1,6 +1,6 @@
 # 간경변(肝硬變, Liver Cirrhosis)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 체계적 고찰/메타분석 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: K74 (간섬유화·간경변)
 
 ## 개요
@@ -129,19 +129,19 @@
 ## Q&A
 
 **Q1. 간경변에 한약이 실제로 효과가 있나요?**
-네. 간경변성 복수에 대한 체계적 고찰에서 한약을 보조 치료와 병용하면 유효율이 유의하게 높아집니다.[^45] 네트워크 메타분석에서는 간섬유화에는 안락화선환, 간경변증에는 육미오령정이 가장 효과적인 중성약으로 확인되었습니다.[^68] 다만 대부분 연구의 방법론적 질이 낮아, 한약은 기저 질환 치료를 대체하기보다 보조 요법으로 병행하는 것이 바람직합니다. 근거수준: 중등도(체계적 고찰/메타분석).
+네. 간경변성 복수에 대한 체계적 고찰에서 한약을 보조 치료와 병용하면 유효율이 유의하게 높아집니다.[^45] 네트워크 메타분석에서는 간섬유화에는 안락화선환, 간경변증에는 육미오령정이 가장 효과적인 중성약으로 확인되었습니다.[^68] 다만 대부분 연구의 방법론적 질이 낮아, 한약은 기저 질환 치료를 대체하기보다 보조 요법으로 병행하는 것이 바람직합니다.
 
 **Q2. 복수가 있는 간경변 환자에게 한방 치료가 도움이 되나요?**
-네. 난치성 간경변성 복수에 사황고 배꼽 부착,[^5] 시장고·허장고 변증별 배꼽 부착,[^10] 소골산 병용[^17] 등이 복수 개선 유효율을 높입니다. 특히 이뇨제로 인한 저나트륨혈증으로 약물 사용이 어려운 환자에게 인삼양영탕·오령산 병용이 대안이 될 수 있습니다.[^44] 근거수준: 중등도(체계적 고찰/임상시험).
+네. 난치성 간경변성 복수에 사황고 배꼽 부착,[^5] 시장고·허장고 변증별 배꼽 부착,[^10] 소골산 병용[^17] 등이 복수 개선 유효율을 높입니다. 특히 이뇨제로 인한 저나트륨혈증으로 약물 사용이 어려운 환자에게 인삼양영탕·오령산 병용이 대안이 될 수 있습니다.[^44]
 
 **Q3. 간경변 환자에게 침 치료는 안전한가요?**
-간 기능 저하로 인한 응고장애가 있는 환자에서는 일반 침보다 레이저 침·이침 등 비침습적 또는 최소 침습적 방법이 안전합니다.[^59] 이침 압박은 비보상성 간경변 환자의 불면증을 개선하는 데 안전하고 내약성이 우수합니다.[^49] 단, 응고 상태와 시술 안전성을 사전에 평가해야 합니다. 근거수준: 중등도(임상시험/증례).
+간 기능 저하로 인한 응고장애가 있는 환자에서는 일반 침보다 레이저 침·이침 등 비침습적 또는 최소 침습적 방법이 안전합니다.[^59] 이침 압박은 비보상성 간경변 환자의 불면증을 개선하는 데 안전하고 내약성이 우수합니다.[^49] 단, 응고 상태와 시술 안전성을 사전에 평가해야 합니다.
 
 **Q4. 간경변 환자에게 한약을 쓸 때 주의할 점은?**
-간 기능이 저하된 상태이므로 간독성 가능성이 있는 한약재·건강기능식품 사용에 특히 주의해야 합니다. Ashwagandha는 간경변 등 진행성 만성 간질환 환자에서 금기이며,[^66] 소시호탕 복용 시 호흡기 증상을 모니터링해야 합니다.[^42] 하수오·대황·감초 등 간독성 가능 약재의 포함 여부를 신중히 검토하고 간 기능 지표를 주기적으로 확인합니다.[^8] 근거수준: 중등도(관찰연구/증례).
+간 기능이 저하된 상태이므로 간독성 가능성이 있는 한약재·건강기능식품 사용에 특히 주의해야 합니다. Ashwagandha는 간경변 등 진행성 만성 간질환 환자에서 금기이며,[^66] 소시호탕 복용 시 호흡기 증상을 모니터링해야 합니다.[^42] 하수오·대황·감초 등 간독성 가능 약재의 포함 여부를 신중히 검토하고 간 기능 지표를 주기적으로 확인합니다.[^8]
 
 **Q5. 간경변에서 간암으로 진행하는 것을 막을 수 있나요?**
-한약과 항바이러스제 병용은 간섬유화·간경변의 면역 기능과 간 기능 지표를 개선하고 섬유화를 역전시킬 수 있습니다.[^67][^68] 간경변 동반 간세포암 환자에서 삼사묘방 병용은 무재발 생존율을 향상시키며,[^53] 간암 고위험군에서는 홍삼의 예방 효과를 검증하는 연구가 진행 중입니다.[^39] 근거수준: 중등도(메타분석/임상시험).
+한약과 항바이러스제 병용은 간섬유화·간경변의 면역 기능과 간 기능 지표를 개선하고 섬유화를 역전시킬 수 있습니다.[^67][^68] 간경변 동반 간세포암 환자에서 삼사묘방 병용은 무재발 생존율을 향상시키며,[^53] 간암 고위험군에서는 홍삼의 예방 효과를 검증하는 연구가 진행 중입니다.[^39]
 
 ## 근거 요약
 
@@ -167,54 +167,54 @@
 - 경혈: 복수에 신궐(神闕) 부위 배꼽 부착,[^5][^10] 광자극에 간경(LV)·비경(SP) 혈위,[^25] 불면증에 이침(耳鍼)이 활용된다.[^49]
 - 약재/처방: 안락화선환·육미오령정·별갑건·Cpd 861·단삼 주사액·단삼·황기·사황고·시장고·허장고·소골산·오령산·인삼양영탕·곽향정기산·조양환·혈룡과립·간두정·소시호탕·간현퇴황방·갈근조위탕·청간해독산결탕·소요산·오미자(HpPro)·정간방·부정화어·삼사묘방·홍삼 등이 보고된다.[^1][^5][^10][^12][^17][^22][^26][^27][^28][^29][^31][^35][^36][^43][^44][^53][^55][^61][^68]
 
-[^0]: Successful treatment of refractory edema with traditional herbal medicine. 증례, 1명. DOI: [10.1097/md.0000000000017551](https://doi.org/10.1097/md.0000000000017551) · PMID: 31577768. 근거수준: 낮음. 곽향정기산·청간추출물이 이뇨제 불응 간성 부종 개선.
-[^1]: The clinical study on decompensatory cirrhotic patients treated by Bie Jia Jian. 임상시험, 98명. PMID: [17918451](https://pubmed.ncbi.nlm.nih.gov/17918451/). 근거수준: 중등도. 별갑건 병용이 빌리루빈·간섬유화 지표 개선.
-[^2]: Comparative study of hepatocirrhosis case diagnosed by TCM based on grey system and fuzzy cluster. 관찰연구, 900명. PMID: [17899771](https://pubmed.ncbi.nlm.nih.gov/17899771/). 근거수준: 중등도. 정량적 도구로 변증 진단 객관화.
-[^5]: Effects of Shehuang Paste on hemodynamics, endotoxin, nitric oxide and endothelin-1 in patients with refractory cirrhotic ascites. 임상시험, 59명. DOI: [10.1007/s11655-006-0255-4](https://doi.org/10.1007/s11655-006-0255-4) · PMID: 17361520. 근거수준: 중등도. 사황고 배꼽 부착이 복수·내독소·혈관 활성 물질 개선.
-[^6]: Correlation between syndromes of posthepatitic cirrhosis and biological parameters. 관찰연구, 355명. DOI: [10.3736/jcim20070205](https://doi.org/10.3736/jcim20070205) · PMID: 17352865. 근거수준: 중등도. 변증과 생물학적 지표 상관관계 확인.
-[^7]: Clinical research on navel application of Shehuang Paste combined with Chinese herbal colon dialysis in refractory cirrhotic ascites with azotemia. 임상시험, 75명. DOI: [10.3748/wjg.v12.i48.7798](https://doi.org/10.3748/wjg.v12.i48.7798) · PMID: 17203523. 근거수준: 중등도. 신황고+대장 투석 병행이 복수·질소혈증 개선.
-[^8]: Traditional Chinese medicine causing hepatotoxicity in patients with chronic hepatitis B infection. 관찰연구, 45명. DOI: [10.1111/j.1365-2036.2006.03111.x](https://doi.org/10.1111/j.1365-2036.2006.03111.x) · PMID: 17014576. 근거수준: 중등도. 하수오·대황·감초 등 간독성 약재 사용 주의.
-[^9]: Study on the patterns of TCM syndrome differentiation of 900 patients with posthepatitic cirrhosis. 관찰연구, 900명. PMID: [16970090](https://pubmed.ncbi.nlm.nih.gov/16970090/). 근거수준: 중등도. 5가지 변증 유형과 공통 기허·혈어 특성 도출.
-[^10]: Effects of syndrome dependent umbilical sticking with shizhang cataplasm and xuzhang cataplasm in treating cirrhosis caused ascites. 임상시험, 77명. PMID: [16883906](https://pubmed.ncbi.nlm.nih.gov/16883906/). 근거수준: 중등도. 변증별 시장고·허장고 배꼽 부착이 복수 개선.
-[^12]: Clinical study on treatment of cirrhosis by different dosages of salvia injection. 임상시험, 120명. PMID: [16447879](https://pubmed.ncbi.nlm.nih.gov/16447879/). 근거수준: 중등도. 단삼 주사액이 간 기능·섬유화 지표 개선, 고용량 효과 우수.
-[^13]: Protective actions of acupoint magnetic medicated plaster therapy on hepatic function in cirrhosis after hepatitis. 임상시험, 120명. PMID: [16318145](https://pubmed.ncbi.nlm.nih.gov/16318145/). 근거수준: 중등도. 혈자리 자석 약물 고약이 간 기능·섬유화 개선.
-[^14]: Observation on short-term therapeutic effect of zhenggan recipe in treating liver cirrhosis with alpha-feto-protein. 임상시험, 64명. PMID: [16313121](https://pubmed.ncbi.nlm.nih.gov/16313121/). 근거수준: 중등도. 정간방이 AFP 감소·세포 면역 기능 개선.
-[^16]: Combined use of factor analysis and cluster analysis in classification of TCM syndromes in posthepatitic cirrhosis. 관찰연구, 310명. DOI: [10.3736/jcim20050105](https://doi.org/10.3736/jcim20050105) · PMID: 15644152. 근거수준: 중등도. 7가지 변증 유형 분류, 객관적 기준 확립.
-[^17]: Clinical observation of effect of xiao gu san on cirrhosis ascites. 임상시험, 60명. PMID: [15631092](https://pubmed.ncbi.nlm.nih.gov/15631092/). 근거수준: 중등도. 소골산 병용이 복수 유효율 상승(93.33%).
-[^18]: A 16-year clinical observation on 217 chronic HBsAg carriers. 관찰연구, 217명. PMID: [15495824](https://pubmed.ncbi.nlm.nih.gov/15495824/). 근거수준: 중등도. 간경변·섬유화가 간세포암 전구 단계, 어혈과 연관.
-[^19]: Clinical investigation on characteristics of TCM syndrome of hepatocirrhosis. 관찰연구, 223명. DOI: [10.3736/jcim20030207](https://doi.org/10.3736/jcim20030207) · PMID: 15339580. 근거수준: 중등도. 습열이 병리 기초, 간신음허가 간 손상 반영.
-[^20]: Clinical features of primary biliary cirrhosis and treatment by integrated TCM and western medicine. 관찰연구, 16명. DOI: [10.3736/jcim20030205](https://doi.org/10.3736/jcim20030205) · PMID: 15339578. 근거수준: 중등도. UDCA+한약 병용이 ALP·GGT·글로불린 개선.
-[^21]: Portal hemodynamics in patients with different syndromes of cirrhosis. 관찰연구, 147명. DOI: [10.3736/jcim20040307](https://doi.org/10.3736/jcim20040307) · PMID: 15339437. 근거수준: 중등도. 변증 유형별 문맥 혈류역학 차이, 비신양허에서 중증도 높음.
-[^22]: The effect of Cpd 861 on chronic hepatitis B related fibrosis and early cirrhosis. 임상시험(RCT), 136명. PMID: [15329205](https://pubmed.ncbi.nlm.nih.gov/15329205/). 근거수준: 중등도. Cpd 861이 간 염증·섬유화 점수 감소, 섬유화 역전율 증가.
-[^23]: Clinical observations on prognostic factor treating hepatitis B-related cirrhosis with purification purgation dispersion tonicity. 임상시험, 60명. PMID: [14989067](https://pubmed.ncbi.nlm.nih.gov/14989067/). 근거수준: 중등도. 청사산보 기반 치료가 예후 인자·합병증 완화.
-[^24]: Characteristics of clinical pathology and liver function in blood stasis syndrome in liver diseases. 관찰연구, 30명. PMID: [1498540](https://pubmed.ncbi.nlm.nih.gov/1498540/). 근거수준: 중등도. 혈어증이 초기 간경변·간 기능 악화와 연관.
-[^25]: Treatment of patient with cirrhosis-ascites by the mineral pulse light stimuli on LV acupoints. 증례, 1명. DOI: [10.21203/rs.3.rs-52673/v1](https://doi.org/10.21203/rs.3.rs-52673/v1). 근거수준: 낮음. 간경·비경 혈위 광자극으로 복수·혈액 지표 개선.
-[^26]: Effects of Zhaoyangwan on chronic hepatitis B and posthepatic cirrhosis. 임상시험, 50명. DOI: [10.3748/wjg.v10.i2.295](https://doi.org/10.3748/wjg.v10.i2.295) · PMID: 14716843. 근거수준: 중등도. 조양환이 ALT 정상화·HBV 음전·면역 조절.
-[^27]: Clinical observation of 654-2 injection and "ganxian tui huang recipe" on liver cirrhosis with intractable jaundice. 임상시험, 60명. PMID: [14535021](https://pubmed.ncbi.nlm.nih.gov/14535021/). 근거수준: 중등도. 간현퇴황방+654-2가 황달·섬유화 지표 개선.
-[^28]: Effects of the Japanese herbal medicine "Sho-saiko-to" (TJ-9) on IL-12 production in HCV-positive liver cirrhosis. 실험연구, 23명. DOI: [10.1155/1999/62564](https://doi.org/10.1155/1999/62564) · PMID: 10636475. 근거수준: 낮음. 소시호탕이 IL-12 생성 증가로 면역 회복.
-[^29]: Influence of Salvia miltiorrhizae and Astragalus membranaceus on hemodynamics and liver fibrosis indexes in liver cirrhotic patients with portal hypertension. 임상시험, 84명. PMID: [12577420](https://pubmed.ncbi.nlm.nih.gov/12577420/). 근거수준: 중등도. 단삼·황기 병용이 문맥고혈압·간섬유화 지표 개선.
-[^31]: Clinical and experimental study on anti-liver fibrosis effect of xuelong granule. 임상시험, 98명. PMID: [12575371](https://pubmed.ncbi.nlm.nih.gov/12575371/). 근거수준: 중등도. 혈룡과립이 간섬유화 지표 개선, 유효율 우수.
-[^35]: Study on improvement of liver cirrhosis and liver function in hepatolenticular degeneration patients treated with integrated T&W medicine. 임상시험, 146명. PMID: [11938856](https://pubmed.ncbi.nlm.nih.gov/11938856/). 근거수준: 중등도. 간두정+DMPS 병용이 간경변·구리 배설 개선.
-[^36]: Clinical and experimental study of effect of Salvia miltiorrhiza and other blood-activating and stasis-eliminating herbs on portal hypertension hemodynamics. 실험연구. DOI: [10.3748/wjg.v4.i5.439](https://doi.org/10.3748/wjg.v4.i5.439) · PMID: 11819341. 근거수준: 낮음. 단삼·당귀가 문맥압 감소, 효과 지속·부작용 적음.
-[^37]: Study on essence of syndrome of TCM in liver cirrhotic patients. 관찰연구, 80명. PMID: [11783241](https://pubmed.ncbi.nlm.nih.gov/11783241/). 근거수준: 중등도. 변증과 생화학 지표(HA, ADA, GST, PC III) 연관.
-[^38]: Clinical study on effect of Chinese herbal medicine on liver damage caused by hepatic artery chemoembolization. 임상시험, 110명. PMID: [11783240](https://pubmed.ncbi.nlm.nih.gov/11783240/). 근거수준: 중등도. 청간해독산결탕이 화학색전술 후 간 손상 억제.
-[^39]: Study on chemoprevention of hepatocellular carcinoma by ginseng: an introduction to the protocol. 임상시험(프로토콜), 300명. DOI: [10.3346/jkms.2001.16.S.S70](https://doi.org/10.3346/jkms.2001.16.S.S70) · PMID: 11748380. 근거수준: 프로토콜. 홍삼 1g/일 5년의 간암 예방 효과 검증 계획.
-[^42]: An autopsy case of interstitial pneumonia probably induced by Sho-saiko-to. 증례, 1명. PMID: [10707545](https://pubmed.ncbi.nlm.nih.gov/10707545/). 근거수준: 낮음. 소시호탕 복용 시 호흡기 증상 모니터링 필요.
-[^43]: Effectiveness of the analogue of natural Schisandrin C (HpPro) in treatment of liver diseases. 임상시험, 76명. PMID: [10374427](https://pubmed.ncbi.nlm.nih.gov/10374427/). 근거수준: 중등도. 오미자 유래 HpPro가 간 효소 수치 개선.
-[^44]: A Case Study of a Patient Who Discontinued Diuretics due to Hyponatremia and Was Treated with Korean Medicine for Ascites. 증례, 1명. DOI: [10.22246/jikm.2022.43.6.1198](https://doi.org/10.22246/jikm.2022.43.6.1198). 근거수준: 낮음. 저나트륨혈증 환자 인삼양영탕·오령산 병용 대안.
-[^45]: A Systematic Review of Herbal Medicine in the Treatment of Cirrhotic Ascites. 체계적 고찰. DOI: [10.13048/jkm.21049](https://doi.org/10.13048/jkm.21049). 근거수준: 중등도. 한약 병용이 복수 유효율 유의하게 상승.
-[^47]: Dynamic network biomarker analysis and system pharmacology methods to explore the therapeutic effects and targets of Xiaoyaosan against liver cirrhosis. 실험연구. DOI: [10.1016/j.jep.2022.115324](https://doi.org/10.1016/j.jep.2022.115324) · PMID: 35489663. 근거수준: 낮음. 소요산이 핵심 타겟 유전자 조절로 섬유화 완화.
-[^49]: Auricular Acupressure for Insomnia in Patients with Decompensated Hepatitis B-Related Liver Cirrhosis. 임상시험, 60명. DOI: [10.1177/03601293251406321](https://doi.org/10.1177/03601293251406321). 근거수준: 중등도. 이침 압박이 간경변 환자 불면증·수면 질 개선.
-[^53]: Sanshimao Formula Improves Recurrence-Free Survival in Early and Intermediate Hepatocellular Carcinoma Patients with Cirrhosis. 임상시험(RCT), 106명. DOI: [10.1177/27683605261477729](https://doi.org/10.1177/27683605261477729) · PMID: 42578431. 근거수준: 중등도. 삼사묘방 병용이 무재발 생존율·간경직도 개선.
-[^54]: TCM Syndrome Patterns and Their Association with HBsAg Levels during the Natural History of Chronic HBV. 관찰연구, 289명. DOI: [10.1155/2018/7482593](https://doi.org/10.1155/2018/7482593). 근거수준: 중등도. 단계별 변증(비신양허·간담습열·어혈)이 HBsAg와 연관.
-[^55]: Fuzheng Huayu tablets reduces the risk of further decompensation after the first decompensation in HBV-related cirrhosis (protocol). 임상시험(프로토콜), 432명. DOI: [10.3389/fphar.2026.1828944](https://doi.org/10.3389/fphar.2026.1828944) · PMID: 42465987. 근거수준: 프로토콜. 부정화어 정제가 추가 간부전 위험 감소 검증 중.
-[^56]: The efficacy and safety of acupoint application for cirrhotic ascites: A protocol for systematic review and meta-analysis. 체계적 고찰(프로토콜). DOI: [10.70731/6442mb38](https://doi.org/10.70731/6442mb38). 근거수준: 근거 미확인. 경혈 부착 요법의 유효성·안전성 평가 프로토콜.
-[^58]: The therapeutic potential of epimedium and its bioactive flavonoids in hepatitis and cirrhosis. 문헌고찰. DOI: [10.3389/fcimb.2026.1799319](https://doi.org/10.3389/fcimb.2026.1799319) · PMID: 42100655. 근거수준: 낮음. 이카리틴이 항섬유화·면역 조절 잠재력, 고농도 간독성.
-[^59]: Safety-Adapted Laser and Auricular Acupuncture as Adjunctive Analgesia in an Elderly Patient With Cancer Pain and Hepatic Coagulopathy. 증례, 1명. DOI: [10.1177/03601293261461578](https://doi.org/10.1177/03601293261461578). 근거수준: 낮음. 응고장애 환자 레이저 침·이침이 안전한 진통.
-[^61]: A Case Report of Korean Medicine Treatment of a Decompensated Liver Cirrhosis Patient with Jaundice. 증례, 1명. DOI: [10.22246/jikm.2022.43.6.1219](https://doi.org/10.22246/jikm.2022.43.6.1219). 근거수준: 낮음. 갈근조위탕·침·뜸·부항이 간 기능·황달 개선.
-[^66]: Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review. 체계적 고찰, 25명. DOI: [10.7759/cureus.109764](https://doi.org/10.7759/cureus.109764) · PMID: 42367407. 근거수준: 중등도. Ashwagandha가 담즙정체형 간 손상, 간경변 환자 금기.
-[^67]: The efficacy of traditional Chinese medicine on immune function in patients with hepatitis B-related liver fibrosis or cirrhosis. 메타분석, 2585명. DOI: [10.3389/fmed.2026.1872781](https://doi.org/10.3389/fmed.2026.1872781) · PMID: 42548801. 근거수준: 중등도. 중의학+핵산 유사체 병용이 면역·간 기능 개선.
-[^68]: Comparison of the efficacy and action mechanism of Chinese patent medicines for liver fibrosis and cirrhosis. 메타분석, 37380명. DOI: [10.1016/j.phymed.2025.157246](https://doi.org/10.1016/j.phymed.2025.157246) · PMID: 40976125. 근거수준: 높음. 간섬유화엔 안락화선환, 간경변엔 육미오령정 효과적.
+[^0]: Successful treatment of refractory edema with traditional herbal medicine. 증례, 1명. DOI: [10.1097/md.0000000000017551](https://doi.org/10.1097/md.0000000000017551) · PMID: 31577768. 곽향정기산·청간추출물이 이뇨제 불응 간성 부종 개선.
+[^1]: The clinical study on decompensatory cirrhotic patients treated by Bie Jia Jian. 임상시험, 98명. PMID: [17918451](https://pubmed.ncbi.nlm.nih.gov/17918451/). 별갑건 병용이 빌리루빈·간섬유화 지표 개선.
+[^2]: Comparative study of hepatocirrhosis case diagnosed by TCM based on grey system and fuzzy cluster. 관찰연구, 900명. PMID: [17899771](https://pubmed.ncbi.nlm.nih.gov/17899771/). 정량적 도구로 변증 진단 객관화.
+[^5]: Effects of Shehuang Paste on hemodynamics, endotoxin, nitric oxide and endothelin-1 in patients with refractory cirrhotic ascites. 임상시험, 59명. DOI: [10.1007/s11655-006-0255-4](https://doi.org/10.1007/s11655-006-0255-4) · PMID: 17361520. 사황고 배꼽 부착이 복수·내독소·혈관 활성 물질 개선.
+[^6]: Correlation between syndromes of posthepatitic cirrhosis and biological parameters. 관찰연구, 355명. DOI: [10.3736/jcim20070205](https://doi.org/10.3736/jcim20070205) · PMID: 17352865. 변증과 생물학적 지표 상관관계 확인.
+[^7]: Clinical research on navel application of Shehuang Paste combined with Chinese herbal colon dialysis in refractory cirrhotic ascites with azotemia. 임상시험, 75명. DOI: [10.3748/wjg.v12.i48.7798](https://doi.org/10.3748/wjg.v12.i48.7798) · PMID: 17203523. 신황고+대장 투석 병행이 복수·질소혈증 개선.
+[^8]: Traditional Chinese medicine causing hepatotoxicity in patients with chronic hepatitis B infection. 관찰연구, 45명. DOI: [10.1111/j.1365-2036.2006.03111.x](https://doi.org/10.1111/j.1365-2036.2006.03111.x) · PMID: 17014576. 하수오·대황·감초 등 간독성 약재 사용 주의.
+[^9]: Study on the patterns of TCM syndrome differentiation of 900 patients with posthepatitic cirrhosis. 관찰연구, 900명. PMID: [16970090](https://pubmed.ncbi.nlm.nih.gov/16970090/). 5가지 변증 유형과 공통 기허·혈어 특성 도출.
+[^10]: Effects of syndrome dependent umbilical sticking with shizhang cataplasm and xuzhang cataplasm in treating cirrhosis caused ascites. 임상시험, 77명. PMID: [16883906](https://pubmed.ncbi.nlm.nih.gov/16883906/). 변증별 시장고·허장고 배꼽 부착이 복수 개선.
+[^12]: Clinical study on treatment of cirrhosis by different dosages of salvia injection. 임상시험, 120명. PMID: [16447879](https://pubmed.ncbi.nlm.nih.gov/16447879/). 단삼 주사액이 간 기능·섬유화 지표 개선, 고용량 효과 우수.
+[^13]: Protective actions of acupoint magnetic medicated plaster therapy on hepatic function in cirrhosis after hepatitis. 임상시험, 120명. PMID: [16318145](https://pubmed.ncbi.nlm.nih.gov/16318145/). 혈자리 자석 약물 고약이 간 기능·섬유화 개선.
+[^14]: Observation on short-term therapeutic effect of zhenggan recipe in treating liver cirrhosis with alpha-feto-protein. 임상시험, 64명. PMID: [16313121](https://pubmed.ncbi.nlm.nih.gov/16313121/). 정간방이 AFP 감소·세포 면역 기능 개선.
+[^16]: Combined use of factor analysis and cluster analysis in classification of TCM syndromes in posthepatitic cirrhosis. 관찰연구, 310명. DOI: [10.3736/jcim20050105](https://doi.org/10.3736/jcim20050105) · PMID: 15644152. 7가지 변증 유형 분류, 객관적 기준 확립.
+[^17]: Clinical observation of effect of xiao gu san on cirrhosis ascites. 임상시험, 60명. PMID: [15631092](https://pubmed.ncbi.nlm.nih.gov/15631092/). 소골산 병용이 복수 유효율 상승(93.33%).
+[^18]: A 16-year clinical observation on 217 chronic HBsAg carriers. 관찰연구, 217명. PMID: [15495824](https://pubmed.ncbi.nlm.nih.gov/15495824/). 간경변·섬유화가 간세포암 전구 단계, 어혈과 연관.
+[^19]: Clinical investigation on characteristics of TCM syndrome of hepatocirrhosis. 관찰연구, 223명. DOI: [10.3736/jcim20030207](https://doi.org/10.3736/jcim20030207) · PMID: 15339580. 습열이 병리 기초, 간신음허가 간 손상 반영.
+[^20]: Clinical features of primary biliary cirrhosis and treatment by integrated TCM and western medicine. 관찰연구, 16명. DOI: [10.3736/jcim20030205](https://doi.org/10.3736/jcim20030205) · PMID: 15339578. UDCA+한약 병용이 ALP·GGT·글로불린 개선.
+[^21]: Portal hemodynamics in patients with different syndromes of cirrhosis. 관찰연구, 147명. DOI: [10.3736/jcim20040307](https://doi.org/10.3736/jcim20040307) · PMID: 15339437. 변증 유형별 문맥 혈류역학 차이, 비신양허에서 중증도 높음.
+[^22]: The effect of Cpd 861 on chronic hepatitis B related fibrosis and early cirrhosis. 임상시험(RCT), 136명. PMID: [15329205](https://pubmed.ncbi.nlm.nih.gov/15329205/). Cpd 861이 간 염증·섬유화 점수 감소, 섬유화 역전율 증가.
+[^23]: Clinical observations on prognostic factor treating hepatitis B-related cirrhosis with purification purgation dispersion tonicity. 임상시험, 60명. PMID: [14989067](https://pubmed.ncbi.nlm.nih.gov/14989067/). 청사산보 기반 치료가 예후 인자·합병증 완화.
+[^24]: Characteristics of clinical pathology and liver function in blood stasis syndrome in liver diseases. 관찰연구, 30명. PMID: [1498540](https://pubmed.ncbi.nlm.nih.gov/1498540/). 혈어증이 초기 간경변·간 기능 악화와 연관.
+[^25]: Treatment of patient with cirrhosis-ascites by the mineral pulse light stimuli on LV acupoints. 증례, 1명. DOI: [10.21203/rs.3.rs-52673/v1](https://doi.org/10.21203/rs.3.rs-52673/v1). 간경·비경 혈위 광자극으로 복수·혈액 지표 개선.
+[^26]: Effects of Zhaoyangwan on chronic hepatitis B and posthepatic cirrhosis. 임상시험, 50명. DOI: [10.3748/wjg.v10.i2.295](https://doi.org/10.3748/wjg.v10.i2.295) · PMID: 14716843. 조양환이 ALT 정상화·HBV 음전·면역 조절.
+[^27]: Clinical observation of 654-2 injection and "ganxian tui huang recipe" on liver cirrhosis with intractable jaundice. 임상시험, 60명. PMID: [14535021](https://pubmed.ncbi.nlm.nih.gov/14535021/). 간현퇴황방+654-2가 황달·섬유화 지표 개선.
+[^28]: Effects of the Japanese herbal medicine "Sho-saiko-to" (TJ-9) on IL-12 production in HCV-positive liver cirrhosis. 실험연구, 23명. DOI: [10.1155/1999/62564](https://doi.org/10.1155/1999/62564) · PMID: 10636475. 소시호탕이 IL-12 생성 증가로 면역 회복.
+[^29]: Influence of Salvia miltiorrhizae and Astragalus membranaceus on hemodynamics and liver fibrosis indexes in liver cirrhotic patients with portal hypertension. 임상시험, 84명. PMID: [12577420](https://pubmed.ncbi.nlm.nih.gov/12577420/). 단삼·황기 병용이 문맥고혈압·간섬유화 지표 개선.
+[^31]: Clinical and experimental study on anti-liver fibrosis effect of xuelong granule. 임상시험, 98명. PMID: [12575371](https://pubmed.ncbi.nlm.nih.gov/12575371/). 혈룡과립이 간섬유화 지표 개선, 유효율 우수.
+[^35]: Study on improvement of liver cirrhosis and liver function in hepatolenticular degeneration patients treated with integrated T&W medicine. 임상시험, 146명. PMID: [11938856](https://pubmed.ncbi.nlm.nih.gov/11938856/). 간두정+DMPS 병용이 간경변·구리 배설 개선.
+[^36]: Clinical and experimental study of effect of Salvia miltiorrhiza and other blood-activating and stasis-eliminating herbs on portal hypertension hemodynamics. 실험연구. DOI: [10.3748/wjg.v4.i5.439](https://doi.org/10.3748/wjg.v4.i5.439) · PMID: 11819341. 단삼·당귀가 문맥압 감소, 효과 지속·부작용 적음.
+[^37]: Study on essence of syndrome of TCM in liver cirrhotic patients. 관찰연구, 80명. PMID: [11783241](https://pubmed.ncbi.nlm.nih.gov/11783241/). 변증과 생화학 지표(HA, ADA, GST, PC III) 연관.
+[^38]: Clinical study on effect of Chinese herbal medicine on liver damage caused by hepatic artery chemoembolization. 임상시험, 110명. PMID: [11783240](https://pubmed.ncbi.nlm.nih.gov/11783240/). 청간해독산결탕이 화학색전술 후 간 손상 억제.
+[^39]: Study on chemoprevention of hepatocellular carcinoma by ginseng: an introduction to the protocol. 임상시험(프로토콜), 300명. DOI: [10.3346/jkms.2001.16.S.S70](https://doi.org/10.3346/jkms.2001.16.S.S70) · PMID: 11748380. 홍삼 1g/일 5년의 간암 예방 효과 검증 계획.
+[^42]: An autopsy case of interstitial pneumonia probably induced by Sho-saiko-to. 증례, 1명. PMID: [10707545](https://pubmed.ncbi.nlm.nih.gov/10707545/). 소시호탕 복용 시 호흡기 증상 모니터링 필요.
+[^43]: Effectiveness of the analogue of natural Schisandrin C (HpPro) in treatment of liver diseases. 임상시험, 76명. PMID: [10374427](https://pubmed.ncbi.nlm.nih.gov/10374427/). 오미자 유래 HpPro가 간 효소 수치 개선.
+[^44]: A Case Study of a Patient Who Discontinued Diuretics due to Hyponatremia and Was Treated with Korean Medicine for Ascites. 증례, 1명. DOI: [10.22246/jikm.2022.43.6.1198](https://doi.org/10.22246/jikm.2022.43.6.1198). 저나트륨혈증 환자 인삼양영탕·오령산 병용 대안.
+[^45]: A Systematic Review of Herbal Medicine in the Treatment of Cirrhotic Ascites. 체계적 고찰. DOI: [10.13048/jkm.21049](https://doi.org/10.13048/jkm.21049). 한약 병용이 복수 유효율 유의하게 상승.
+[^47]: Dynamic network biomarker analysis and system pharmacology methods to explore the therapeutic effects and targets of Xiaoyaosan against liver cirrhosis. 실험연구. DOI: [10.1016/j.jep.2022.115324](https://doi.org/10.1016/j.jep.2022.115324) · PMID: 35489663. 소요산이 핵심 타겟 유전자 조절로 섬유화 완화.
+[^49]: Auricular Acupressure for Insomnia in Patients with Decompensated Hepatitis B-Related Liver Cirrhosis. 임상시험, 60명. DOI: [10.1177/03601293251406321](https://doi.org/10.1177/03601293251406321). 이침 압박이 간경변 환자 불면증·수면 질 개선.
+[^53]: Sanshimao Formula Improves Recurrence-Free Survival in Early and Intermediate Hepatocellular Carcinoma Patients with Cirrhosis. 임상시험(RCT), 106명. DOI: [10.1177/27683605261477729](https://doi.org/10.1177/27683605261477729) · PMID: 42578431. 삼사묘방 병용이 무재발 생존율·간경직도 개선.
+[^54]: TCM Syndrome Patterns and Their Association with HBsAg Levels during the Natural History of Chronic HBV. 관찰연구, 289명. DOI: [10.1155/2018/7482593](https://doi.org/10.1155/2018/7482593). 단계별 변증(비신양허·간담습열·어혈)이 HBsAg와 연관.
+[^55]: Fuzheng Huayu tablets reduces the risk of further decompensation after the first decompensation in HBV-related cirrhosis (protocol). 임상시험(프로토콜), 432명. DOI: [10.3389/fphar.2026.1828944](https://doi.org/10.3389/fphar.2026.1828944) · PMID: 42465987. 부정화어 정제가 추가 간부전 위험 감소 검증 중.
+[^56]: The efficacy and safety of acupoint application for cirrhotic ascites: A protocol for systematic review and meta-analysis. 체계적 고찰(프로토콜). DOI: [10.70731/6442mb38](https://doi.org/10.70731/6442mb38). 경혈 부착 요법의 유효성·안전성 평가 프로토콜.
+[^58]: The therapeutic potential of epimedium and its bioactive flavonoids in hepatitis and cirrhosis. 문헌고찰. DOI: [10.3389/fcimb.2026.1799319](https://doi.org/10.3389/fcimb.2026.1799319) · PMID: 42100655. 이카리틴이 항섬유화·면역 조절 잠재력, 고농도 간독성.
+[^59]: Safety-Adapted Laser and Auricular Acupuncture as Adjunctive Analgesia in an Elderly Patient With Cancer Pain and Hepatic Coagulopathy. 증례, 1명. DOI: [10.1177/03601293261461578](https://doi.org/10.1177/03601293261461578). 응고장애 환자 레이저 침·이침이 안전한 진통.
+[^61]: A Case Report of Korean Medicine Treatment of a Decompensated Liver Cirrhosis Patient with Jaundice. 증례, 1명. DOI: [10.22246/jikm.2022.43.6.1219](https://doi.org/10.22246/jikm.2022.43.6.1219). 갈근조위탕·침·뜸·부항이 간 기능·황달 개선.
+[^66]: Ashwagandha (Withania somnifera)-Associated Liver Injury: A Scoping Review. 체계적 고찰, 25명. DOI: [10.7759/cureus.109764](https://doi.org/10.7759/cureus.109764) · PMID: 42367407. Ashwagandha가 담즙정체형 간 손상, 간경변 환자 금기.
+[^67]: The efficacy of traditional Chinese medicine on immune function in patients with hepatitis B-related liver fibrosis or cirrhosis. 메타분석, 2585명. DOI: [10.3389/fmed.2026.1872781](https://doi.org/10.3389/fmed.2026.1872781) · PMID: 42548801. 중의학+핵산 유사체 병용이 면역·간 기능 개선.
+[^68]: Comparison of the efficacy and action mechanism of Chinese patent medicines for liver fibrosis and cirrhosis. 메타분석, 37380명. DOI: [10.1016/j.phymed.2025.157246](https://doi.org/10.1016/j.phymed.2025.157246) · PMID: 40976125. 간섬유화엔 안락화선환, 간경변엔 육미오령정 효과적.
 
 ## 미충족 근거 / 추가 연구 필요
 

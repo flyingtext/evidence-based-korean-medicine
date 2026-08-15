@@ -1,6 +1,6 @@
 # 뜸 (灸, Moxibustion)
 
-> 출처: 근거 기반 한의학 위키 · 근거수준: 메타분석/체계적 고찰/임상시험 중심 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
 > KCD-8: 뜸은 치료 기법으로 특정 질환 코드가 없으며, 주요 적응증 코드(요통 M54.5, 무릎 골관절증 M17, 대상포진 후 신경통 B02.2, 월경통 N94.4, 뇌졸중 후 불면 F51.0)를 참조한다.
 
 ## 개요
@@ -100,38 +100,38 @@
 
 ## 참고문헌
 
-[^1]: Scoping Review of Acupuncture and Moxibustion in the Treatment of Inflammatory Bowel Disease. Gastrointest Disord. 2023. 체계적 고찰. DOI: [10.3390/gidisord5010010](https://doi.org/10.3390/gidisord5010010). 근거수준: 중등도.
-[^3]: Efficacy of acupuncture and moxibustion therapy for simple obesity in adults: A meta-analysis of randomized controlled trials. Medicine. 2022. 메타분석, 1116명. DOI: [10.1097/md.0000000000031148](https://doi.org/10.1097/md.0000000000031148). 근거수준: 중등도.
-[^5]: Effectiveness of acupuncture and moxibustion therapy on glycolipid metabolism in patients with obese-type polycystic ovarian syndrome: A systematic review and network meta-analysis. Medicine. 2025. 메타분석. DOI: [10.1097/md.0000000000042812](https://doi.org/10.1097/md.0000000000042812). 근거수준: 중등도.
-[^7]: Effectiveness and Safety of Moxibustion for Poststroke Insomnia. World J Tradit Chin Med. 2022. 메타분석, 996명. DOI: [10.4103/2311-8571.335136](https://doi.org/10.4103/2311-8571.335136). 근거수준: 중등도.
-[^8]: Moxibustion for Herpes Zoster and Postherpetic Neuralgia: A Meta-Analysis. Complexity. 2021. 메타분석, 2334명. DOI: [10.1155/2021/5551196](https://doi.org/10.1155/2021/5551196). 근거수준: 중등도.
-[^9]: Efficacy and Safety of Moxibustion for Postherpetic Neuralgia: A Systematic Review and Meta-Analysis. Front Neurol. 2021. 메타분석, 798명. DOI: [10.3389/fneur.2021.676525](https://doi.org/10.3389/fneur.2021.676525). 근거수준: 중등도.
-[^10]: Cephalic version by moxibustion for breech presentation. Cochrane Database Syst Rev. 2005. 체계적 고찰, 597명. DOI: [10.1002/14651858.CD003928.pub2](https://doi.org/10.1002/14651858.CD003928.pub2) · [PMID 15846688](https://pubmed.ncbi.nlm.nih.gov/15846688/). 근거수준: 중등도.
-[^12]: Meta Analysis of the Effectiveness of Acupuncture and Moxibustion on the Recovery of Gastrointestinal Function in Patients with Gastric Cancer after Surgery. Psycho-Oncologie. 2025. 메타분석. DOI: [10.18282/po4757](https://doi.org/10.18282/po4757). 근거수준: 중등도.
-[^13]: Effect of Moxibustion Therapy at SP6 (Sanyinjiao) Acupressure Point on Labor Pain Intensity During First Stage Active Phase. J Ilmiah Kebidanan. 2026. 임상시험, 32명. DOI: [10.33992/jik.v14i1.5068](https://doi.org/10.33992/jik.v14i1.5068). 근거수준: 중등도.
-[^14]: Ma's Bamboo-Based Medicinal Moxibustion Therapy of Low Back Pain in Lumbar Disc Herniation: Study Protocol for a Randomized Controlled Trial. 2022. 임상시험(프로토콜), 312명. DOI: [10.21203/rs.3.rs-850406/v1](https://doi.org/10.21203/rs.3.rs-850406/v1). 근거수준: 낮음.
-[^15]: Effectiveness of moxibustion treatment as adjunctive therapy in osteoarthritis of the knee: a randomized, double-blinded, placebo-controlled clinical trial. Arthritis Res Ther. 2014. 임상시험, 110명. DOI: [10.1186/ar4590](https://doi.org/10.1186/ar4590). 근거수준: 높음.
-[^16]: Effect of Moxibustion Therapy on Intensity of Primary Dysmenorrhea in Adolescents Girl. KnE Life Sci. 2021. 임상시험, 54명. DOI: [10.18502/kls.v6i1.8777](https://doi.org/10.18502/kls.v6i1.8777). 근거수준: 중등도.
-[^17]: Clinical rehabilitation of external humeral epicondylitis by ginger moxibustion and its combination therapy. Exerc Biochem Rev. 2018. 임상시험, 84명. DOI: [10.14428/ebr.v1i5.11113](https://doi.org/10.14428/ebr.v1i5.11113). 근거수준: 중등도.
-[^19]: A randomised controlled trial of moxibustion for breech presentation. BJOG. 2005. 임상시험, 123명. DOI: [10.1111/j.1471-0528.2005.00634.x](https://doi.org/10.1111/j.1471-0528.2005.00634.x) · [PMID 15924530](https://pubmed.ncbi.nlm.nih.gov/15924530/). 근거수준: 중등도.
-[^20]: Efficacy and safety comparison of infrared laser moxibustion and traditional moxibustion in knee osteoarthritis: Study protocol. 2023. 임상시험(프로토콜), 74명. DOI: [10.21203/rs.3.rs-3262284/v1](https://doi.org/10.21203/rs.3.rs-3262284/v1). 근거수준: 낮음.
-[^21]: A Protocol for Developing a Clinical Practice Guideline of Moxibustion in the Treatment of Lumbar Disc Herniation. 2020. 가이드라인. DOI: [10.21203/rs.3.rs-102874/v1](https://doi.org/10.21203/rs.3.rs-102874/v1). 근거수준: 낮음.
-[^22]: Effects of bottle gourd moxibustion combined with umbilical therapy for cancer-related incomplete bowel obstruction on inflammatory cytokine levels. World J Gastroenterol. 2025. 관찰연구, 109명. DOI: [10.3748/wjg.v31.i41.110753](https://doi.org/10.3748/wjg.v31.i41.110753). 근거수준: 중등도.
-[^23]: Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion therapy on ASO: A retrospective study. Medicine. 2024. 관찰연구, 63명. DOI: [10.1097/md.0000000000040110](https://doi.org/10.1097/md.0000000000040110). 근거수준: 중등도.
-[^24]: Traditional Chinese medicine enema combined with moxibustion for inpatients with sequela of pelvic inflammatory disease: A prospective, observational study. J Integr Nurs. 2026. 관찰연구, 140명. DOI: [10.4103/jin.jin_41_26](https://doi.org/10.4103/jin.jin_41_26). 근거수준: 중등도.
-[^25]: Acute lymphangitis treated by moxibustion with garlic in 118 cases. J Tradit Chin Med. 2003. 관찰연구, 118명. [PMID 14535186](https://pubmed.ncbi.nlm.nih.gov/14535186/). 근거수준: 중등도.
-[^26]: Clinical Research Progress of Acupuncture and Moxibustion in the Treatment of Postpartum Depression. J Contemp Med Pract. 2025. 문헌고찰. DOI: [10.53469/jcmp.2025.07(09).14](https://doi.org/10.53469/jcmp.2025.07(09).14). 근거수준: 중등도.
-[^28]: Application and Research Progress of Moxibustion Therapy in the Care of Patients with Alzheimer's Disease. J Clin Nurs Res. 2025. 문헌고찰. DOI: [10.26689/jcnr.v9i3.10052](https://doi.org/10.26689/jcnr.v9i3.10052). 근거수준: 중등도.
-[^29]: 'String of pearls' sign associated with moxibustion therapy. Skin Health Dis. 2026. 증례, 1명. DOI: [10.1093/skinhd/vzag128](https://doi.org/10.1093/skinhd/vzag128). 근거수준: 낮음.
-[^30]: A combined use of acupuncture, moxibustion and long dan xie gan tang for treatment of 36 cases of chronic pelvic inflammation. J Tradit Chin Med. 2004. 증례, 36명. [PMID 15688689](https://pubmed.ncbi.nlm.nih.gov/15688689/). 근거수준: 낮음.
-[^31]: Fifty cases of external humeral epicondylitis treated by moxibustion and point-injection. J Tradit Chin Med. 2004. 증례, 50명. [PMID 15510799](https://pubmed.ncbi.nlm.nih.gov/15510799/). 근거수준: 낮음.
-[^32]: Intrarater and Interrater Reliability of Infrared Image Analysis of Forearm Acupoints before and after Moxibustion. Evid Based Complement Alternat Med. 2020. 실험연구, 20명. DOI: [10.1155/2020/6328756](https://doi.org/10.1155/2020/6328756). 근거수준: 중등도.
-[^33]: Thermal Field Analysis of Two Kinds of Suspended Moxibustion. 2021. 실험연구. DOI: [10.21203/rs.3.rs-516643/v1](https://doi.org/10.21203/rs.3.rs-516643/v1). 근거수준: 낮음.
-[^35]: Development of non-traumatic-pain acupuncture-moxibustion apparatus and its industrialization. Zhongguo Zhen Jiu. 2017. 기타. DOI: [10.13703/j.0255-2930.2017.06.027](https://doi.org/10.13703/j.0255-2930.2017.06.027) · [PMID 29231514](https://pubmed.ncbi.nlm.nih.gov/29231514/). 근거수준: 낮음.
+[^1]: Scoping Review of Acupuncture and Moxibustion in the Treatment of Inflammatory Bowel Disease. Gastrointest Disord. 2023. 체계적 고찰. DOI: [10.3390/gidisord5010010](https://doi.org/10.3390/gidisord5010010).
+[^3]: Efficacy of acupuncture and moxibustion therapy for simple obesity in adults: A meta-analysis of randomized controlled trials. Medicine. 2022. 메타분석, 1116명. DOI: [10.1097/md.0000000000031148](https://doi.org/10.1097/md.0000000000031148).
+[^5]: Effectiveness of acupuncture and moxibustion therapy on glycolipid metabolism in patients with obese-type polycystic ovarian syndrome: A systematic review and network meta-analysis. Medicine. 2025. 메타분석. DOI: [10.1097/md.0000000000042812](https://doi.org/10.1097/md.0000000000042812).
+[^7]: Effectiveness and Safety of Moxibustion for Poststroke Insomnia. World J Tradit Chin Med. 2022. 메타분석, 996명. DOI: [10.4103/2311-8571.335136](https://doi.org/10.4103/2311-8571.335136).
+[^8]: Moxibustion for Herpes Zoster and Postherpetic Neuralgia: A Meta-Analysis. Complexity. 2021. 메타분석, 2334명. DOI: [10.1155/2021/5551196](https://doi.org/10.1155/2021/5551196).
+[^9]: Efficacy and Safety of Moxibustion for Postherpetic Neuralgia: A Systematic Review and Meta-Analysis. Front Neurol. 2021. 메타분석, 798명. DOI: [10.3389/fneur.2021.676525](https://doi.org/10.3389/fneur.2021.676525).
+[^10]: Cephalic version by moxibustion for breech presentation. Cochrane Database Syst Rev. 2005. 체계적 고찰, 597명. DOI: [10.1002/14651858.CD003928.pub2](https://doi.org/10.1002/14651858.CD003928.pub2) · [PMID 15846688](https://pubmed.ncbi.nlm.nih.gov/15846688/).
+[^12]: Meta Analysis of the Effectiveness of Acupuncture and Moxibustion on the Recovery of Gastrointestinal Function in Patients with Gastric Cancer after Surgery. Psycho-Oncologie. 2025. 메타분석. DOI: [10.18282/po4757](https://doi.org/10.18282/po4757).
+[^13]: Effect of Moxibustion Therapy at SP6 (Sanyinjiao) Acupressure Point on Labor Pain Intensity During First Stage Active Phase. J Ilmiah Kebidanan. 2026. 임상시험, 32명. DOI: [10.33992/jik.v14i1.5068](https://doi.org/10.33992/jik.v14i1.5068).
+[^14]: Ma's Bamboo-Based Medicinal Moxibustion Therapy of Low Back Pain in Lumbar Disc Herniation: Study Protocol for a Randomized Controlled Trial. 2022. 임상시험(프로토콜), 312명. DOI: [10.21203/rs.3.rs-850406/v1](https://doi.org/10.21203/rs.3.rs-850406/v1).
+[^15]: Effectiveness of moxibustion treatment as adjunctive therapy in osteoarthritis of the knee: a randomized, double-blinded, placebo-controlled clinical trial. Arthritis Res Ther. 2014. 임상시험, 110명. DOI: [10.1186/ar4590](https://doi.org/10.1186/ar4590).
+[^16]: Effect of Moxibustion Therapy on Intensity of Primary Dysmenorrhea in Adolescents Girl. KnE Life Sci. 2021. 임상시험, 54명. DOI: [10.18502/kls.v6i1.8777](https://doi.org/10.18502/kls.v6i1.8777).
+[^17]: Clinical rehabilitation of external humeral epicondylitis by ginger moxibustion and its combination therapy. Exerc Biochem Rev. 2018. 임상시험, 84명. DOI: [10.14428/ebr.v1i5.11113](https://doi.org/10.14428/ebr.v1i5.11113).
+[^19]: A randomised controlled trial of moxibustion for breech presentation. BJOG. 2005. 임상시험, 123명. DOI: [10.1111/j.1471-0528.2005.00634.x](https://doi.org/10.1111/j.1471-0528.2005.00634.x) · [PMID 15924530](https://pubmed.ncbi.nlm.nih.gov/15924530/).
+[^20]: Efficacy and safety comparison of infrared laser moxibustion and traditional moxibustion in knee osteoarthritis: Study protocol. 2023. 임상시험(프로토콜), 74명. DOI: [10.21203/rs.3.rs-3262284/v1](https://doi.org/10.21203/rs.3.rs-3262284/v1).
+[^21]: A Protocol for Developing a Clinical Practice Guideline of Moxibustion in the Treatment of Lumbar Disc Herniation. 2020. 가이드라인. DOI: [10.21203/rs.3.rs-102874/v1](https://doi.org/10.21203/rs.3.rs-102874/v1).
+[^22]: Effects of bottle gourd moxibustion combined with umbilical therapy for cancer-related incomplete bowel obstruction on inflammatory cytokine levels. World J Gastroenterol. 2025. 관찰연구, 109명. DOI: [10.3748/wjg.v31.i41.110753](https://doi.org/10.3748/wjg.v31.i41.110753).
+[^23]: Clinical efficacy evaluation and safety study of Qishen Tongmai Yin I combined with moxibustion therapy on ASO: A retrospective study. Medicine. 2024. 관찰연구, 63명. DOI: [10.1097/md.0000000000040110](https://doi.org/10.1097/md.0000000000040110).
+[^24]: Traditional Chinese medicine enema combined with moxibustion for inpatients with sequela of pelvic inflammatory disease: A prospective, observational study. J Integr Nurs. 2026. 관찰연구, 140명. DOI: [10.4103/jin.jin_41_26](https://doi.org/10.4103/jin.jin_41_26).
+[^25]: Acute lymphangitis treated by moxibustion with garlic in 118 cases. J Tradit Chin Med. 2003. 관찰연구, 118명. [PMID 14535186](https://pubmed.ncbi.nlm.nih.gov/14535186/).
+[^26]: Clinical Research Progress of Acupuncture and Moxibustion in the Treatment of Postpartum Depression. J Contemp Med Pract. 2025. 문헌고찰. DOI: [10.53469/jcmp.2025.07(09).14](https://doi.org/10.53469/jcmp.2025.07(09).14).
+[^28]: Application and Research Progress of Moxibustion Therapy in the Care of Patients with Alzheimer's Disease. J Clin Nurs Res. 2025. 문헌고찰. DOI: [10.26689/jcnr.v9i3.10052](https://doi.org/10.26689/jcnr.v9i3.10052).
+[^29]: 'String of pearls' sign associated with moxibustion therapy. Skin Health Dis. 2026. 증례, 1명. DOI: [10.1093/skinhd/vzag128](https://doi.org/10.1093/skinhd/vzag128).
+[^30]: A combined use of acupuncture, moxibustion and long dan xie gan tang for treatment of 36 cases of chronic pelvic inflammation. J Tradit Chin Med. 2004. 증례, 36명. [PMID 15688689](https://pubmed.ncbi.nlm.nih.gov/15688689/).
+[^31]: Fifty cases of external humeral epicondylitis treated by moxibustion and point-injection. J Tradit Chin Med. 2004. 증례, 50명. [PMID 15510799](https://pubmed.ncbi.nlm.nih.gov/15510799/).
+[^32]: Intrarater and Interrater Reliability of Infrared Image Analysis of Forearm Acupoints before and after Moxibustion. Evid Based Complement Alternat Med. 2020. 실험연구, 20명. DOI: [10.1155/2020/6328756](https://doi.org/10.1155/2020/6328756).
+[^33]: Thermal Field Analysis of Two Kinds of Suspended Moxibustion. 2021. 실험연구. DOI: [10.21203/rs.3.rs-516643/v1](https://doi.org/10.21203/rs.3.rs-516643/v1).
+[^35]: Development of non-traumatic-pain acupuncture-moxibustion apparatus and its industrialization. Zhongguo Zhen Jiu. 2017. 기타. DOI: [10.13703/j.0255-2930.2017.06.027](https://doi.org/10.13703/j.0255-2930.2017.06.027) · [PMID 29231514](https://pubmed.ncbi.nlm.nih.gov/29231514/).
 
 ## 미충족 근거 / 추가 연구 필요
 
-- 뜸 치료의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 이질성이 크며 출판 편향 가능성이 지적되어, 현재 근거 수준으로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^8][^9]
+- 뜸 치료의 근거는 메타분석·체계적 고찰·RCT가 다수 존재하나, 많은 연구의 방법론적 질이 낮고 이질성이 크며 출판 편향 가능성이 지적되어, 현재 근거로는 임상적 결론을 내리기에는 아직 연구가 충분하지 않다.[^8][^9]
 - 둔위 교정을 위한 뜸은 코크란 체계적 고찰에서 긍정적 가능성을 보이나, 비중국인 임산부 RCT에서는 유의한 효과가 없어 문화적 배경·방법론을 고려한 대규모 고품질 연구가 필요하다.[^10][^19]
 - 요추 추간판 탈출증·무릎 골관절염 등에서 뜸의 표준화된 시술 프로토콜과 임상진료지침(CPG) 개발이 진행 중이며, 이를 뒷받침할 대규모 다기관 무작위 대조 시험이 요구된다.[^14][^20][^21]
 - 검색 과정에서 뜸과 직접 관련이 없거나 교육·기기 개발 등 임상 효능과 무관한 논문(침구학 교육, 기기 산업화 등)은 주제와 무관하거나 비한의학적으로 판단되어 각주에서 제외하였다.
