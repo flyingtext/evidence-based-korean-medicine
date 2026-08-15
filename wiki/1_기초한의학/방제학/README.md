@@ -78,6 +78,8 @@
   - 하위 표제어: 독활기생탕(獨活寄生湯) 원방 · 가감독활기생탕 · 독활기생탕 병용 요법(추나·부항·온침)
 - [작약감초탕(芍藥甘草湯, Jakyakgamcho-tang / Shakuyaku-kanzo-to)](작약감초탕(芍藥甘草湯, Jakyakgamcho-tang).md)
   - 하위 표제어: 작약감초탕(芍藥甘草湯) 원방 · 작약감초탕 제제(Shakuyaku-kanzo-to, TJ-68) · 작약감초탕 가감·병용 요법
+- [진무탕(真武湯, Zhenwu Decoction / Shinbuto)](진무탕(真武湯, Zhenwu Decoction).md)
+  - 하위 표제어: 진무탕(真武湯) 원방 · 신부토(Shinbuto) · 금무탕(Jinmu-tang, 金武湯) · 가감 진무탕(加減真武湯) · 이신진무탕(二神真武湯)
 
 ## 동음이의 분류
 
