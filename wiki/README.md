@@ -117,6 +117,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
     - [여드름(痤瘡, Acne)](./4_임상한의학/안이비인후피부과/여드름(痤瘡, Acne).md)
     - [건선(乾癬, Psoriasis)](./4_임상한의학/안이비인후피부과/건선(乾癬, Psoriasis).md)
     - [탈모(脫毛, Alopecia)](./4_임상한의학/안이비인후피부과/탈모(脫毛, Alopecia).md)
+    - [부비동염(慢性副鼻竇炎, Chronic Rhinosinusitis)](./4_임상한의학/안이비인후피부과/부비동염(慢性副鼻竇炎, Chronic Rhinosinusitis).md)
   - [침구과](./4_임상한의학/침구과/README.md)
     - [침치료(鍼治療, Acupuncture)](./4_임상한의학/침구과/침치료(鍼治療).md)
     - [뜸(灸, Moxibustion)](./4_임상한의학/침구과/뜸(灸, Moxibustion).md)
