@@ -44,6 +44,8 @@
   - 하위 표제어: 천왕보심단(天王補心丹) 원방 · 천왕보심단 가감·병용 요법 · 천왕보심단 제제(과립·캡슐·환)
 - [산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction)](산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction).md)
   - 하위 표제어: 산조인탕(酸棗仁湯) 원방 · 가감산조인탕(加味酸棗仁湯) · 산조인탕 병용 요법
+- [인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction / Inchin-ko-to)](인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction).md)
+  - 하위 표제어: 인진호탕(茵陳蒿湯) 원방 · 인진호탕 가감방(加味茵陳蒿湯) · 인친코토(Inchin-ko-to, TJ-135) 제제 · 인진호탕 병용 요법
 - [갈근탕(葛根湯, Galgeun-tang / Kakkonto)](갈근탕(葛根湯).md)
   - 하위 표제어: 갈근탕(葛根湯) · 마황탕(麻黃湯, Mao-to) · 갈근탕가천궁신이(葛根湯加川芎辛夷, Kakkontokasenkyushin'i) · 갈근탕가소시호탕가길경석고(葛根湯合小柴胡湯加桔梗石膏) · 갈근탕 병용 요법
 - [사물탕(四物湯, Si-Wu-Tang / Shimotsu-to)](사물탕(四物湯).md)
