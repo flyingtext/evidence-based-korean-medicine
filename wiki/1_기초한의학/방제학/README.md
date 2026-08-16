@@ -74,6 +74,10 @@
   - 하위 표제어: 용담사간탕(龍膽瀉肝湯) 원방 · 가미용담사간탕(加味龍膽瀉肝湯) · 용담사간환(龍膽瀉肝丸) · 용담사간탕 병용 요법
 - [시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang)](시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang).md)
   - 하위 표제어: 시호가용골모려탕(柴胡加龍骨牡蠣湯) 원방 · 시호가용골모려탕 가감방 · 시호용골모려탕(柴胡龍骨牡蠣湯) · 시호가용골모려탕 병용 요법
+- [시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang / Saikokaryukotsuboreito / Chaihu Longgu Muli Tang)](시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang / Saikokaryukotsuboreito / Chaihu Longgu Muli Tang).md)
+  - 하위 표제어: 시호용골모려탕(柴胡龍骨牡蠣湯) 원방 · 시호가용골모려탕(柴胡加龍骨牡蠣湯) · 사이코카류코츠보레이토(Saikokaryukotsuboreito) · 시호용골모려탕 수정방 · 시호용골모려탕 병용 요법
+- [천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin / Tianma Gouteng Decoction)](천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin).md)
+  - 하위 표제어: 천마구등음(天麻鉤藤飲) 원방 · 가감천마구등탕(加味天麻鉤藤湯) · 천마구등탕 제제(과립·중성약) · 천마구등음 병용 요법
 - [억간산(抑肝散, Yokukansan)](억간산(抑肝散, Yokukansan).md)
   - 하위 표제어: 억간산(抑肝散) 원방 · 요쿠칸산(Yokukansan, TJ-54) · 억간산가진피반하(抑肝散加陳皮半夏, Yokukansankachimpihange) · 억간산 병용 요법
 - [방풍통성산(防風通聖散, Bangpungtongsung-san / Bofutsushosan)](방풍통성산(防風通聖散).md)
