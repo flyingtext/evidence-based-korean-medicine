@@ -114,6 +114,8 @@
   - 하위 표제어: 산사(山楂) 단미 · 중국산사(Crataegus pinnatifida)·서양산사(C. monogyna/oxyacantha) · 생산사·초산사(焦山楂)·산사탄 · 산사 유효 성분(플라보노이드·프로안토시아니딘·다당류) · 산사 제제(산사환·강지편·추출 보충제)
 - [지모(知母, Anemarrhenae Rhizoma)](지모(知母, Anemarrhenae Rhizoma).md)
   - 하위 표제어: 생지모(生知母)·염지모(鹽知母)·초지모(炒知母)·생강가공 지모(薑製知母) · 지모-황백 약쌍(知母-黃柏) · 지모-백합 약쌍(知母-百合) · 지모-석고 약쌍(知母-石膏) · 지모-황기 병용 · 계지작약지모탕(桂枝芍藥知母湯) · 지백지황환(知柏地黃丸) · 이선탕(二仙湯) · 백합지모탕(百合知母湯) · 초과지모탕(草果知母湯) · 백호가인삼탕(白虎加人蔘湯) · 지모 유효 성분(timosaponin B-II/A-III·sarsasapogenin·mangiferin) · 지모 다당체
+- [음양곽(淫羊藿, Epimedii Herba)](음양곽(淫羊藿, Epimedii Herba).md)
+  - 하위 표제어: 음양곽(淫羊藿, *Epimedium brevicornum*) · 조선음양곽(朝鮮淫羊藿, *E. koreanum*) · 화음양곽(箭葉淫羊藿, *E. sagittatum*) · 유모음양곽(柔毛淫羊藿, *E. pubescens*) · 이카린(icariin)·이카리틴(icaritin)·이카리사이드 II(icariside II)·에피메딘 A/B/C(epimedin A/B/C) · 양지유 포제(羊脂油製) · 이선탕(二仙湯) · 보신익기탕(補腎益氣湯) · ELp 복합(음양곽·여정자·보골지)
 
 ## 동음이의 분류
 
