@@ -208,6 +208,3 @@
 [^40]: Use of complementary and alternative medicine by rheumatoid arthritis patients in Korea. 관찰연구, 153명. DOI: [10.1007/s10067-007-0646-6](https://doi.org/10.1007/s10067-007-0646-6) · PMID: [17541497](https://pubmed.ncbi.nlm.nih.gov/17541497/). 한국 RA 환자 대다수가 한방 포함 보완대체요법 사용.
 [^41]: Selected CAM therapies for arthritis-related pain: the evidence from systematic reviews. 체계적 고찰. DOI: [10.1097/00002508-200401000-00004](https://doi.org/10.1097/00002508-200401000-00004) · PMID: [14668651](https://pubmed.ncbi.nlm.nih.gov/14668651/). RA 통증에 GLA가 강력한 효과.
 [^42]: Tai chi for rheumatoid arthritis: systematic review. 체계적 고찰. DOI: [10.1093/rheumatology/kem151](https://doi.org/10.1093/rheumatology/kem151) · PMID: [17634188](https://pubmed.ncbi.nlm.nih.gov/17634188/). 태극권이 장애 지수·삶의 질·우울 개선 가능, 통증 효과 미입증.
-
-[^43]: A systematic review of randomised clinical trials of Tripterygium wilfordii for rheumatoid arthritis. 체계적 고찰. DOI: [10.1016/j.phymed.2006.01.010](https://doi.org/10.1016/j.phymed.2006.01.010) · PMID: [16487688](https://pubmed.ncbi.nlm.nih.gov/16487688/). 뇌공등이 유효하나 심각한 이상반응 위험 높음.
-[^44]: Ayurvedic medicine for rheumatoid arthritis: a systematic review. 체계적 고찰. DOI: [10.1016/j.semarthrit.2004.11.005](https://doi.org/10.1016/j.semarthrit.2004.11.005) · PMID: [15846585](https://pubmed.ncbi.nlm.nih.gov/15846585/). 아유르베다 치료의 충분한 근거 부족.

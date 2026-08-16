@@ -50,23 +50,16 @@
 **Q5. 딸꾹질이 뇌졸중 환자에게 특히 흔한 이유는 무엇인가요?**
 뇌졸중은 연수 등 중추의 딸꾹질 중추를 관장하는 신경 경로를 손상시켜 난치성 딸꾹질을 유발할 수 있습니다.[^11][^17] 뇌졸중 후 딸꾹질은 다른 신경학적 증상과 동반될 수 있어, 연하곤란·흡인 예방 등 통합적 관리가 중요합니다.[^11][^16]
 
-[^1]: Cupping for stroke rehabilitation: a systematic review. 체계적 고찰. DOI: [10.1016/j.jns.2010.03.033](https://doi.org/10.1016/j.jns.2010.03.033). PMID: [20435319](https://pubmed.ncbi.nlm.nih.gov/20435319/).
 [^2]: Metrological analysis and evaluation of the acupuncture-moxibustion spectrum of digestive system diseases in modern literature. 체계적 고찰. PMID: [18257357](https://pubmed.ncbi.nlm.nih.gov/18257357/).
-[^3]: Resolution of intractable hiccups after near-infrared irradiation of relevant acupoints. 증례. DOI: [10.1097/00000441-200608000-00009](https://doi.org/10.1097/00000441-200608000-00009). PMID: [16909058](https://pubmed.ncbi.nlm.nih.gov/16909058/).
 [^4]: Clinical observation on yintang (Ex-HN 3) point-injection for treatment of obstinate hiccup. 임상시험. PMID: [16312922](https://pubmed.ncbi.nlm.nih.gov/16312922/).
 [^5]: Clinical observation on 47 cases of intractable hiccup treated by acupuncture at Tianding (LI 17). 임상시험. PMID: [16312920](https://pubmed.ncbi.nlm.nih.gov/16312920/).
-[^6]: Acupuncture for the Treatment of Hiccups following Stroke: A Systematic Review and Meta-Analysis. 메타분석. DOI: [10.1136/acupmed-2015-011024](https://doi.org/10.1136/acupmed-2015-011024).
-[^7]: Efficacy of Acupuncture for Persistent and Intractable Hiccups: A Protocol for Systematic Review and Meta Analysis of Randomized Controlled Trials. 체계적 고찰(프로토콜). DOI: [10.21203/rs.3.rs-88175/v1](https://doi.org/10.21203/rs.3.rs-88175/v1).
-[^8]: The effect of awn needle deep acupuncture on the hiccup after stroke: a Study Protocol for a Randomized Controlled Trial. 임상시험(프로토콜). DOI: [10.21203/rs.3.rs-3863649/v1](https://doi.org/10.21203/rs.3.rs-3863649/v1).
 [^9]: Acupuncture Treatment of Gastrointestinal Disorders. 문헌고찰. DOI: [10.1136/aim.10.2.70](https://doi.org/10.1136/aim.10.2.70).
 [^10]: A Case Report of Korean Medicine Treatment for an Intractable Hiccup Patient with Unknown Cause after a Traffic Accident. 증례. DOI: [10.22246/jikm.2023.44.5.1083](https://doi.org/10.22246/jikm.2023.44.5.1083).
 [^11]: Kampo Medicine for Neurological Diseases. 문헌고찰. DOI: [10.11477/mf.1416202390](https://doi.org/10.11477/mf.1416202390). PMID: [37194543](https://pubmed.ncbi.nlm.nih.gov/37194543/).
 [^12]: Comparative efficacy and safety of acupoint injection-related therapies for the treatment of intractable hiccup after stroke: a network meta-analysis. 메타분석. DOI: [10.3389/fneur.2026.1698913](https://doi.org/10.3389/fneur.2026.1698913). PMID: [41743053](https://pubmed.ncbi.nlm.nih.gov/41743053/).
 [^13]: A Case Report of Central Nervous System Disorder Induced Intractable Hiccups Treated with Korean Medicine. 증례. DOI: [10.22246/jikm.2022.43.2.191](https://doi.org/10.22246/jikm.2022.43.2.191).
 [^14]: Effectiveness and safety of acupuncture therapies for intractable hiccups: a systematic review and network meta-analysis. 메타분석. DOI: [10.3389/fmed.2025.1676850](https://doi.org/10.3389/fmed.2025.1676850). PMID: [41346981](https://pubmed.ncbi.nlm.nih.gov/41346981/).
-[^15]: Effectiveness and safety of acupuncture for cancer-related hiccups: a systematic review and meta-analysis. 메타분석. DOI: [10.3389/fneur.2024.1480656](https://doi.org/10.3389/fneur.2024.1480656). PMID: [39722696](https://pubmed.ncbi.nlm.nih.gov/39722696/).
 [^16]: Intractable cough and hiccups after resuscitation and acute coronary syndrome treatment successfully treated using the Kampo medicine bukuyoingohangekobokuto: A case report. 증례. DOI: [10.1016/j.explore.2024.04.005](https://doi.org/10.1016/j.explore.2024.04.005). PMID: [38688807](https://pubmed.ncbi.nlm.nih.gov/38688807/).
 [^17]: Acupuncture for post-stroke hiccup: an overview of systematic reviews. 체계적 고찰. DOI: [10.3389/fneur.2025.1684772](https://doi.org/10.3389/fneur.2025.1684772). PMID: [41200441](https://pubmed.ncbi.nlm.nih.gov/41200441/).
 [^18]: Gentian root bitters for the rapid suppression of post-propofol singultus: a case report. 증례. DOI: [10.1007/s00508-025-02607-6](https://doi.org/10.1007/s00508-025-02607-6). PMID: [40900241](https://pubmed.ncbi.nlm.nih.gov/40900241/).
 [^19]: Acupuncture and cupping for treatment of hiccup in cases of cerebrovascular accident. 임상시험. PMID: [17078440](https://pubmed.ncbi.nlm.nih.gov/17078440/).
-[^20]: A Case of Bronchopneumonia Presenting With Persistent Hiccups Successfully Treated With Clonazepam and a Traditional Kampo Medicine. 증례. DOI: [10.7759/cureus.75237](https://doi.org/10.7759/cureus.75237). PMID: [39759671](https://pubmed.ncbi.nlm.nih.gov/39759671/).

@@ -72,5 +72,3 @@
 [^20]: Relationship between the severity of pre-frailty and the degree of adaptation of Ninjin'yoeito (NYT) on pre-frailty. 관찰연구, 314명. DOI: [10.3389/fragi.2024.1304217](https://doi.org/10.3389/fragi.2024.1304217). 전노쇠 단계 조기 예방 중재 가능성.
 [^21]: Interactions of warfarin with garlic, ginger, ginkgo, or ginseng: nature of the evidence. 체계적 고찰. DOI: [10.1345/aph.10031](https://doi.org/10.1345/aph.10031). 인삼·와파린 병용 시 항응고 효과 감소 가능성.
 [^22]: Functional foods: How functional are they? A case report of supplement-induced psychosis. 증례, 1명. DOI: [10.1177/0091217417696733](https://doi.org/10.1177/0091217417696733). 건강기능식품 복합 복용 시 정신병적 삽화 유발 가능성.
-
-[^23]: Ginseng for managing menopause symptoms: a systematic review of randomized clinical trials. 체계적 고찰. DOI: [10.5142/jgr.2013.37.30](https://doi.org/10.5142/jgr.2013.37.30). 갱년기 증상 개선 가능성, 연구 질 낮음.

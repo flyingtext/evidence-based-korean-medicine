@@ -305,7 +305,3 @@
 [^77]: Development of the Korean Medicine Core Outcome Set for Primary Dysmenorrhea (COS-PD-KM). 가이드라인, DOI: [10.3390/ijerph192215321](https://doi.org/10.3390/ijerph192215321), PMID: [36430040](https://pubmed.ncbi.nlm.nih.gov/36430040/).
 [^78]: Kampo therapy as an alternative to pharmacotherapy using antipsychotic medicines for BPSD. 문헌고찰, DOI: [10.1111/j.1479-8301.2008.00242.x](https://doi.org/10.1111/j.1479-8301.2008.00242.x).
 [^79]: Traditional Chinese Medicine Interventions for Antipsychotic-Induced Extrapyramidal Symptoms. 체계적 고찰, DOI: [10.2147/NDT.S608799](https://doi.org/10.2147/NDT.S608799), PMID: [42502270](https://pubmed.ncbi.nlm.nih.gov/42502270/).
-[^80]: Temporal trends in the prescription of traditional Japanese herbal (Kampo) medicines to pregnant women. 관찰연구, DOI: [10.1186/s40780-025-00515-5](https://doi.org/10.1186/s40780-025-00515-5), PMID: [41445003](https://pubmed.ncbi.nlm.nih.gov/41445003/).
-[^81]: Traditional Japanese herbal medicines for treatment of odontopathy. 문헌고찰, DOI: [10.3389/fphar.2015.00176](https://doi.org/10.3389/fphar.2015.00176), PMID: [26379550](https://pubmed.ncbi.nlm.nih.gov/26379550/).
-[^82]: Effect of Choto-san on impairment of passive avoidance performance in SAMP8. 실험연구, DOI: [10.1002/ptr.1193](https://doi.org/10.1002/ptr.1193), PMID: [12748994](https://pubmed.ncbi.nlm.nih.gov/12748994/).
-[^83]: Dysmenorrhea. 문헌고찰, PMID: [15686299](https://pubmed.ncbi.nlm.nih.gov/15686299/).

@@ -100,5 +100,3 @@
 [^41]: [The efficacy of Shakuyaku-Kanzo-to for peripheral nerve dysfunction in paclitaxel combination chemotherapy for epithelial ovarian carcinoma]. 관찰연구, 21명. PMID: [15508446](https://pubmed.ncbi.nlm.nih.gov/15508446/).
 [^42]: [The effect of L-Glutamine and Shakuyaku-Kanzo-to for paclitaxel-induced myalgia/arthralgia]. 임상시험. PMID: [11977541](https://pubmed.ncbi.nlm.nih.gov/11977541/).
 [^43]: Shakuyakukanzoto for Paclitaxel-Induced Myalgia and Arthralgia: A Placebo-Controlled Crossover Trial. 임상시험, 22명. DOI: [10.1002/tkm2.70054](https://doi.org/10.1002/tkm2.70054).
-[^44]: Lack of pharmacokinetic interaction between valproic acid and a traditional Chinese medicine, Paeoniae Radix, in healthy volunteers. 임상시험, 6명. DOI: [10.1046/j.1365-2710.2000.00313.x](https://doi.org/10.1046/j.1365-2710.2000.00313.x).
-[^45]: Effects of the Japanese Kampo Medicines Rikkunshito, Shakuyakukanzoto and Goreisan on Lenvatinib Plasma Concentrations in Japanese Patients with Thyroid Cancer. 관찰연구, 39명. DOI: [10.1007/s40801-024-00467-6](https://doi.org/10.1007/s40801-024-00467-6).

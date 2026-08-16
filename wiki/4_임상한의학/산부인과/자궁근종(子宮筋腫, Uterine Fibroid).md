@@ -118,6 +118,3 @@
 [^18]: A case report of traditional Korean medicine treatments on uterine myoma with thyroid cancer. Integr Med Res. 2018. 증례, 1명. DOI: [10.1016/j.imr.2018.10.003](https://doi.org/10.1016/j.imr.2018.10.003) · [PMID 30505680](https://pubmed.ncbi.nlm.nih.gov/30505680/).
 [^19]: Acupuncture for uterine fibroids. Cochrane Database Syst Rev. 2009. 체계적 고찰. DOI: [10.1002/14651858.CD007221.pub2](https://doi.org/10.1002/14651858.CD007221.pub2) · [PMID 20091625](https://pubmed.ncbi.nlm.nih.gov/20091625/).
 [^20]: Endometriosis treated by the method of resolving blood stasis to eliminate obstruction in the lower-jiao. 1999. 임상시험, 48명. [PMID 10437253](https://pubmed.ncbi.nlm.nih.gov/10437253/).
-[^21]: Effects of herbal medicines on menopausal symptoms induced by gonadotropin-releasing hormone agonist therapy. 2001. 관찰연구, 22명. [PMID 11332582](https://pubmed.ncbi.nlm.nih.gov/11332582/).
-[^22]: A Classic Herbal Formula Guizhi Fuling Wan for Menopausal Hot Flushes: A Systematic Review. Biomedicines. 2019. 체계적 고찰. DOI: [10.3390/biomedicines7030060](https://doi.org/10.3390/biomedicines7030060).
-[^23]: Effects of Gyejibokryeong-hwan on climacteric syndrome with blood stasis. Integr Med Res. 2023. 임상시험. DOI: [10.1016/j.imr.2023.100951](https://doi.org/10.1016/j.imr.2023.100951).

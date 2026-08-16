@@ -111,5 +111,3 @@
 [^35]: Effects of acupressure on dyspnea and anxiety in patients with chronic obstructive pulmonary disease. 임상시험, 60명. DOI: [10.1016/j.explore.2026.103326](https://doi.org/10.1016/j.explore.2026.103326) · PMID: 41616683. 합곡·내관·족삼리 지압이 호흡곤란·불안 유의 감소.
 [^36]: Pharmacodynamic basis of gabapentin combined with Hegu-point catgut embedding for post-herpetic neuralgia. 임상시험, 210명. DOI: [10.36721/PJPS.2026.39.5.152.1](https://doi.org/10.36721/PJPS.2026.39.5.152.1) · PMID: 41934298. 가바펜틴+합곡혈 매선 병행이 대상포진 후 신경통에 우수.
 [^37]: Ice massage for the reduction of labor pain. 임상시험. DOI: [10.1016/s1526-9523(03)00277-0](https://doi.org/10.1016/s1526-9523(03)00277-0) · PMID: 14526344. 분만 중 합곡혈 아이스 마사지가 통증 유의 감소.
-[^38]: Laser acupuncture versus oral glucose administration for pain prevention in term neonates. 임상시험, 96명. DOI: [10.1177/09645284211009544](https://doi.org/10.1177/09645284211009544). 합곡혈 레이저 침이 경구 포도당 대비 비열등성 입증 못함. 심박수만 유의 낮음.
-[^39]: Lack of Effect of Acupuncture on Electromyo-Graphic (EMG) Activity – A Randomised Controlled Trial in Healthy Volunteers. 임상시험, 30명. DOI: [10.1136/aim.24.2.55](https://doi.org/10.1136/aim.24.2.55). 합곡·수삼리 침이 손목 신근 근전도 활성에 즉각 유의 변화 없음.

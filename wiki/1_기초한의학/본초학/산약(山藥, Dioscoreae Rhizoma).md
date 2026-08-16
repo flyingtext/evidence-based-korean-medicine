@@ -110,7 +110,3 @@
 [^21]: Kim S, et al. Effects of a multi-herbal extract on type 2 diabetes via PPARγ and AMPK activation. 실험연구, Chinese Medicine, 2011. DOI: [10.1186/1749-8546-6-10](https://doi.org/10.1186/1749-8546-6-10).
 
 [^22]: Yang L, et al. Meta-analysis and Construction of Core Indicator Field of Pediatric Bronchitis Treatment with Chinese herbal topical application. 메타분석, Chinese Medicine and Natural Products, 2023. DOI: [10.1055/s-0043-1762571](https://doi.org/10.1055/s-0043-1762571).
-
-[^23]: Kim MJ, et al. Clinical efficacy of macrophage-activating Chinese mixed herbs (MACH) in improving IVF-ET outcomes. 임상시험 (n=30), The American Journal of Chinese Medicine, 2012. DOI: [10.1142/S0192415X12500012](https://doi.org/10.1142/S0192415X12500012).
-
-[^24]: Park B, et al. Molecular Targets and Mechanisms of 6,7-Dihydroxy-2,4-dimethoxyphenanthrene (from Dioscorea opposita) in ulcerative colitis. 실험연구, Nutrients, 2023. DOI: [10.3390/nu15040883](https://doi.org/10.3390/nu15040883).

@@ -140,4 +140,3 @@
 [^36]: Efficacy of bofu-tsusho-san, an oriental herbal medicine, in obese Japanese women with impaired glucose tolerance. 임상시험, 81명. DOI: [10.1111/j.1440-1681.2004.04056.x](https://doi.org/10.1111/j.1440-1681.2004.04056.x) · PMID: 15479169. 방풍통성산이 내당능 장애 비만 여성 체중·내장지방·인슐린 저항성 개선.
 [^37]: Modulatory Effect of Eui-E-In-Tang on Serum Leptin Concentration in Obese Korean Females. 임상시험, 41명. DOI: [10.1155/2016/1894837](https://doi.org/10.1155/2016/1894837). 의이인탕이 비만 여성 혈청 렙틴 농도 감소.
 [^38]: Intervention Study on the Efficacy and Safety of Platycodon grandiflorus Ethanol Extract. 임상시험, 108명. DOI: [10.3390/nu11102445](https://doi.org/10.3390/nu11102445) · PMID: 31615016. 길경 추출물이 체지방량·체지방률·복부 지방 감소.
-[^39]: Acupuncture Therapies for Individuals with Overweight or Obesity: An Overview of Systematic Reviews. 체계적 고찰. DOI: [10.2147/DMSO.S356853](https://doi.org/10.2147/DMSO.S356853) · PMID: 35669360. 침·이침이 체중·BMI 감소에 유익, 매선·복침 근거 부족.

@@ -154,42 +154,25 @@
 [^2]: Clinical Characteristics of 802 Patients with Facial Palsy: Based on Literature Related to Stomach Meridian. 관찰연구. DOI: [10.13048/jkm.23026](https://doi.org/10.13048/jkm.23026).
 [^3]: A Method of Selecting Acupoints for Acupuncture Treatment of Peripheral Facial Paralysis by Thermography. 임상시험. DOI: [10.1142/s0192415x07005430](https://doi.org/10.1142/s0192415x07005430).
 [^4]: Efficacy and Safety of Thread Embedding Acupuncture for Facial Expression Muscles Atrophy After Peripheral Facial Paralysis. 임상시험(프로토콜). DOI: [10.21203/rs.3.rs-412106/v1](https://doi.org/10.21203/rs.3.rs-412106/v1).
-[^5]: Effects of Dioscoreae Rhizoma (SanYak) on Peripheral Neuropathy and its Safety. 체계적 고찰. DOI: [10.3831/KPI.2013.16.015](https://doi.org/10.3831/KPI.2013.16.015).
 [^6]: Comparison of the clinical efficacy of different acupuncture methods in the treatment of post-stroke central facial paralysis - a network meta-analysis. 메타분석. DOI: [10.3389/fneur.2026.1790069](https://doi.org/10.3389/fneur.2026.1790069).
 [^7]: Efficacy of acupuncture and moxibustion in treating Bell's palsy: a multicenter randomized controlled trial in China. 임상시험. PMID: [15498373](https://pubmed.ncbi.nlm.nih.gov/15498373/).
 [^8]: Analysis of medical services provided to patients with peripheral facial palsy in Korea. 관찰연구. DOI: [10.1186/s12913-021-07078-9](https://doi.org/10.1186/s12913-021-07078-9).
 [^9]: Summary of Japanese clinical practice guidelines for Bell's palsy - 2023 update. 가이드라인. DOI: [10.1016/j.anl.2024.07.003](https://doi.org/10.1016/j.anl.2024.07.003).
-[^10]: A close look at an integrative treatment package for Bell's palsy in Korea. 문헌고찰. DOI: [10.1016/j.ctcp.2016.12.003](https://doi.org/10.1016/j.ctcp.2016.12.003).
-[^11]: Prednisolone and acupuncture in Bell's palsy: study protocol. 임상시험(프로토콜). DOI: [10.1186/1745-6215-12-158](https://doi.org/10.1186/1745-6215-12-158).
 [^12]: A case study of Ramsay Hunt Syndrome in conjunction with cranial polyneuritis. 증례. DOI: [10.1097/MD.0000000000008833](https://doi.org/10.1097/MD.0000000000008833).
 [^13]: A severe case of Ramsay Hunt Syndrome treated with acupuncture and related techniques. 증례. DOI: [10.1016/j.ctcp.2020.101119](https://doi.org/10.1016/j.ctcp.2020.101119).
 [^14]: Electroacupuncture combined with Qianzhengsan decoction for the treatment of peripheral facial paralysis. 관찰연구. DOI: [10.1097/md.0000000000030740](https://doi.org/10.1097/md.0000000000030740).
-[^15]: Special penetration needling for refractory peripheral facial paralysis. 임상시험. DOI: [10.13703/j.0255-2930.2018.03.010](https://doi.org/10.13703/j.0255-2930.2018.03.010).
-[^16]: Comparison of therapeutic effects between plum-blossom needle tapping plus cupping and laser for Bell's palsy. 임상시험. PMID: [22379790](https://pubmed.ncbi.nlm.nih.gov/22379790/).
 [^17]: The efficacy and safety of cupping therapy for treating intractable peripheral facial palsy. 체계적 고찰. DOI: [10.1097/MD.0000000000025388](https://doi.org/10.1097/MD.0000000000025388).
 [^18]: Clinical observation on plum-blossom needle therapy combined with cupping. 임상시험. PMID: [16335199](https://pubmed.ncbi.nlm.nih.gov/16335199/).
-[^19]: An updated review of the efficacy of cupping therapy. 체계적 고찰. DOI: [10.1371/journal.pone.0031793](https://doi.org/10.1371/journal.pone.0031793).
-[^20]: Acupuncture combined with blood-letting by a three-edged needle on Bell's palsy. 임상시험. DOI: [10.1016/s0254-6272(10)60026-x](https://doi.org/10.1016/s0254-6272(10)60026-x).
-[^21]: Clinical trials of treatment of acute facial paralysis with pain by blood-letting plus acupuncture. 임상시험. PMID: [26054203](https://pubmed.ncbi.nlm.nih.gov/26054203/).
 [^22]: Clinical efficacy and safety of thread-embedding acupuncture for treatment of the sequelae of Bell's palsy. 임상시험(프로토콜). DOI: [10.1097/MD.0000000000014508](https://doi.org/10.1097/MD.0000000000014508).
 [^23]: Effectiveness and safety of thread embedding acupuncture for facial nerve palsy sequelae. 임상시험(프로토콜). DOI: [10.3389/fneur.2025.1668688](https://doi.org/10.3389/fneur.2025.1668688).
-[^24]: A single-blind randomized controlled trial of ultrasound-guided Canggui Tanxue needling for contractural facial synkinesis. 임상시험. DOI: [10.1097/MD.0000000000049719](https://doi.org/10.1097/MD.0000000000049719).
 [^25]: Mild moxibustion at Renying (ST9) combined with acupuncture in treatment of severe peripheral facial paralysis. 임상시험. DOI: [10.13703/j.0255-2930.20251012-k0003](https://doi.org/10.13703/j.0255-2930.20251012-k0003).
-[^26]: Effect of electroacupuncture at Yifeng (TE17) and Fengchi (GB20) on prognosis of moderate peripheral facial paralysis. 임상시험. DOI: [10.13703/j.0255-2930.20250326-k0002](https://doi.org/10.13703/j.0255-2930.20250326-k0002).
-[^27]: The efficacy and safety of acupoint catgut embedding for peripheral facial paralysis sequelae. 체계적 고찰. DOI: [10.1097/MD.0000000000027769](https://doi.org/10.1097/MD.0000000000027769).
 [^28]: Safety of Concomitant Use of Corticosteroids and Traditional Korean Herbal Medicine for Facial Nerve Palsy. 관찰연구. DOI: [10.2147/JMDH.S522270](https://doi.org/10.2147/JMDH.S522270).
 [^29]: Safety of herbal medicine decoction for facial palsy: Coarsened exact matching analysis. 관찰연구. DOI: [10.1016/j.imr.2025.101279](https://doi.org/10.1016/j.imr.2025.101279).
 [^30]: Herbal medicine evaluation for reimbursement-based facial palsy (HERB-FP). 관찰연구. DOI: [10.1186/s12906-025-05048-w](https://doi.org/10.1186/s12906-025-05048-w).
 [^31]: Clinical outcomes and cost-effectiveness of collaborative treatment with Korean and Western medicine in facial palsy. 관찰연구. DOI: [10.1186/s12906-025-04910-1](https://doi.org/10.1186/s12906-025-04910-1).
-[^32]: A study on the characteristics of patients with facial palsy treated with Korean medicine (NHIS). 관찰연구. DOI: [10.13048/jkm.23013](https://doi.org/10.13048/jkm.23013).
-[^33]: Analysis of factors associated with patients' global impression of change scores in inpatient peripheral facial palsy. 관찰연구. DOI: [10.1097/MD.0000000000038573](https://doi.org/10.1097/MD.0000000000038573).
-[^34]: A clinical study of collaboration between Western and Korean Medicine for peripheral facial palsy. 관찰연구. DOI: [10.13045/jar.2020.00115](https://doi.org/10.13045/jar.2020.00115).
 [^35]: Recovery and Recurrence in Bell's Palsy: A Propensity Score-Matched Comparative Study. 관찰연구. DOI: [10.3390/medicina61071239](https://doi.org/10.3390/medicina61071239).
-[^36]: Incidence rate, risk factors, and management of Bell's palsy in Saudi Arabia. 관찰연구. DOI: [10.7717/peerj.14076](https://doi.org/10.7717/peerj.14076).
 [^37]: Clinical study on recurrent Bell's palsy: A retrospective observational study. 관찰연구. DOI: [10.13048/jkm.22016](https://doi.org/10.13048/jkm.22016).
 [^38]: Time to Complete Clinical Recovery and Its Predictors in Bell's Palsy Patients. 관찰연구. DOI: [10.3390/medicina62071248](https://doi.org/10.3390/medicina62071248).
-[^39]: Factors Influencing Facial Paralysis Recovery: A Retrospective Cohort Study. 관찰연구. DOI: [10.3233/SHTI240760](https://doi.org/10.3233/SHTI240760).
 [^40]: Effect of Facial Chuna Manual Therapy Combined with Korean Medicine Treatment for Bell's palsy. 관찰연구. DOI: [10.13045/jar.2022.00087](https://doi.org/10.13045/jar.2022.00087).
 [^41]: A Case Report of a Patient with Guillain-Barre Syndrome Complaining of Limb Weakness and Facial palsy. 증례. DOI: [10.22246/jikm.2021.42.4.695](https://doi.org/10.22246/jikm.2021.42.4.695).
 [^42]: A Case of Invasive Rhino-Orbito-Cerebral Mucormycosis After Acupuncture Therapy for Bell's palsy. 증례. DOI: [10.3342/kjorl-hns.2024.00122](https://doi.org/10.3342/kjorl-hns.2024.00122).
-[^43]: Improvement in Unilateral Horizontal Gaze Palsy Caused by Middle Cerebral Artery Infarction. 증례. DOI: [10.22246/jikm.2025.46.3.534](https://doi.org/10.22246/jikm.2025.46.3.534).

@@ -65,7 +65,6 @@
 [^1]: 반하(半夏)의 조습화담·강역지구·소비산결 효능, 성질·귀경 및 가공법(법반하·강반하·청반하) — 교과서적 근거
 [^2]: Hangeshashinto for the prevention of oral mucositis in patients receiving chemotherapy: a meta-analysis. 메타분석, DOI: [10.1007/s00520-026-10975-6](https://doi.org/10.1007/s00520-026-10975-6).
 [^3]: Double-blind, placebo-controlled, randomized phase II study of TJ-14 (Hangeshashinto) for oral mucositis in colorectal cancer. 임상시험, DOI: [10.1007/s00280-015-2767-y](https://doi.org/10.1007/s00280-015-2767-y).
-[^4]: Double-blind, placebo-controlled, randomized phase II study of TJ-14 (Hangeshashinto) for oral mucositis in gastric cancer. 임상시험, DOI: [10.1007/s00280-014-2440-x](https://doi.org/10.1007/s00280-014-2440-x).
 [^5]: Hangeshashinto improves the completion rate of chemoradiotherapy and the nutritional status in head and neck cancer. 관찰연구, DOI: [10.1159/000381026](https://doi.org/10.1159/000381026).
 [^6]: Hangeshashinto for prevention of oral mucositis in patients undergoing hematopoietic stem cell transplantation. 임상시험, DOI: [10.1007/s00520-023-08175-7](https://doi.org/10.1007/s00520-023-08175-7).
 [^7]: Preventive effect of Kampo medicine (Hangeshashin-to) against irinotecan-induced diarrhea. 임상시험, DOI: [10.1007/s00280-003-0585-0](https://doi.org/10.1007/s00280-003-0585-0).
@@ -74,15 +73,11 @@
 [^10]: Efficacy of a Traditional Herbal Formula, Banha-Sasim-Tang in Functional Dyspepsia. 임상시험, DOI: [10.3389/fphar.2021.698887](https://doi.org/10.3389/fphar.2021.698887).
 [^11]: The Impact of Hangeshashinto on Symptoms and Gut Microbiota in Diarrhea-type Irritable Bowel Syndrome. 관찰연구, DOI: [10.23922/jarc.2024-068](https://doi.org/10.23922/jarc.2024-068).
 [^12]: Comparison of the effects of hange-shashin-to and rikkunshi-to on human plasma calcitonin gene-related peptide. 실험연구, DOI: [10.1248/bpb.26.1104](https://doi.org/10.1248/bpb.26.1104).
-[^13]: Some gastrointestinal function regulatory Kampo medicines have modulatory effects on human plasma ACTH. 임상시험, DOI: [10.1248/bpb.26.101](https://doi.org/10.1248/bpb.26.101).
-[^14]: Effects of some kampo medicines on plasma levels of neuropeptide Y under venipuncture stress. 임상시험, DOI: [10.1248/bpb.28.1757](https://doi.org/10.1248/bpb.28.1757).
 [^15]: Efficacy and safety of Banxia-Houpo-Tang (Banha-Hubak-Tang) for depression: a systematic review and meta-analysis. 메타분석, DOI: [10.1016/j.ctcp.2023.101769](https://doi.org/10.1016/j.ctcp.2023.101769).
 [^16]: Efficacy and safety of hangekobokuto (Banxia-houpo-tang) in treating panic disorder. 관찰연구, DOI: [10.1002/tkm2.1348](https://doi.org/10.1002/tkm2.1348).
 [^17]: The traditional Chinese medicine banxia houpo tang improves swallowing reflex in elderly. 임상시험, DOI: [10.1016/S0944-7113(99)80043-9](https://doi.org/10.1016/S0944-7113(99)80043-9).[^18]: Prokinetic effect of a Kampo medicine, Hange-koboku-to (Banxia-houpo-tang). 임상시험, DOI: [10.1016/j.phymed.2005.03.001](https://doi.org/10.1016/j.phymed.2005.03.001).
 [^19]: Effects of Hange-koboku-to on neuropeptide levels in human plasma and saliva. 임상시험, DOI: [10.1248/bpb.26.1609](https://doi.org/10.1248/bpb.26.1609).
 [^20]: A Double-Blind Randomized Controlled Trial to Determine the Preventive Effect of Hange-koboku-to on aspiration pneumonia after cardiac surgery. 임상시험, DOI: [10.5761/atcs.oa.19-00128](https://doi.org/10.5761/atcs.oa.19-00128).
-[^21]: Traditional Chinese therapy initiates oral feeding in a stroked woman after three years of tube feeding. 증례, DOI: [10.4103/jfmpc.jfmpc_670_19](https://doi.org/10.4103/jfmpc.jfmpc_670_19).
-[^22]: Exploratory study of clinical effectiveness and safety of TJ-116 bukuryoingohangekobokuto. 임상시험, DOI: [10.1097/MD.0000000000020317](https://doi.org/10.1097/MD.0000000000020317).
 [^23]: Bukuryoingohangekobokuto may improve recurrent aspiration pneumonia in patients with brain injury. 증례, DOI: [10.4103/jfmpc.jfmpc_1627_20](https://doi.org/10.4103/jfmpc.jfmpc_1627_20).
 [^24]: Banxia baizhu tianma decoction, a Chinese herbal formula, for hypertension: a meta-analysis. 메타분석, DOI: [10.3389/fphar.2022.1025104](https://doi.org/10.3389/fphar.2022.1025104).
 [^25]: Clinical Observation on the Treatment of Hypertension by Combination of Modified Banhabaekchulcheonma-tang and Auricular Acupuncture. 임상시험, DOI: [10.26689/jcnr.v5i3.2078](https://doi.org/10.26689/jcnr.v5i3.2078).
@@ -91,16 +86,6 @@
 [^28]: Banxia Shumi decoction for the treatment of insomnia: a systematic review and meta-analysis. 메타분석, DOI: [10.1097/MD.0000000000046207](https://doi.org/10.1097/MD.0000000000046207).
 [^29]: The Effect of Chinese Herbal Medicine Gualouxiebaibanxia Decoction for Angina Pectoris. 체계적 고찰, DOI: [10.1155/2016/8565907](https://doi.org/10.1155/2016/8565907).
 [^30]: Banxia Gualou Xiebai Tang and Qishen Yiqi Dropping Pills Combined Therapy for Coronary Heart Disease after PCI. 관찰연구, DOI: [10.2147/IJGM.S510793](https://doi.org/10.2147/IJGM.S510793).
-[^31]: Banxia Xiexin Decoction prevents colitis by modulating gut microbiota. 실험연구, DOI: [10.1016/j.phymed.2025.157393](https://doi.org/10.1016/j.phymed.2025.157393).
 [^32]: Treating pediatric psychogenic dizziness with a Japanese herbal medicine. 증례, DOI: [10.1016/j.explore.2012.10.005](https://doi.org/10.1016/j.explore.2012.10.005).
 [^33]: Decreased Behavioral Abnormalities After Treatment with Combined Donepezil and Yokukansankachimpihange. 관찰연구, DOI: [10.1007/s40120-018-0109-9](https://doi.org/10.1007/s40120-018-0109-9).
-[^34]: Differentiation of two Kampo formulae, yokukansankachimpihange and chotosan, for treatment of headache. 관찰연구, DOI: [10.1002/tkm2.1054](https://doi.org/10.1002/tkm2.1054).
-[^35]: Discontinuation or reduction in benzodiazepine use by treatment with the traditional Kampo medicine. 증례, DOI: [10.1002/jgf2.313](https://doi.org/10.1002/jgf2.313).
-[^36]: Effectiveness analysis of herbal medicine for gastroesophageal reflux disease: a retrospective study. 관찰연구, DOI: [10.1097/MD.0000000000037295](https://doi.org/10.1097/MD.0000000000037295).
 [^37]: Drug-induced liver injury associated with exposure to Hangeshashinto. 증례, DOI: [10.1002/jgf2.70018](https://doi.org/10.1002/jgf2.70018).
-[^38]: Treatment of reflux laryngopharyngitis with modified banxia xiexin tang. 임상시험, PMID: [16817279](https://pubmed.ncbi.nlm.nih.gov/16817279/).
-[^39]: A multicenter, placebo-controlled clinical trial of modified banxia xiexin decoction in colorectal cancer. 임상시험, DOI: [10.1016/j.jep.2026.121292](https://doi.org/10.1016/j.jep.2026.121292).
-[^40]: Clinical observation on effect of modified banxia houpu decoction in treating heroin withdrawal syndrome. 임상시험, PMID: [15074088](https://pubmed.ncbi.nlm.nih.gov/15074088/).
-[^41]: Comparison of the effects of Sho-hange-ka-bukuryo-to and Nichin-to on human plasma adrenocortical hormones. 임상시험, DOI: [10.1248/bpb.27.1679](https://doi.org/10.1248/bpb.27.1679).
-[^42]: Effect of Sho-hange-ka-bukuryo-to on gastrointestinal peptide concentrations. 임상시험, DOI: [10.1248/bpb.27.1674](https://doi.org/10.1248/bpb.27.1674).
-[^43]: Intractable cough and hiccups after resuscitation and acute coronary syndrome treated with bukuryoingohangekobokuto. 증례, DOI: [10.1016/j.explore.2024.04.005](https://doi.org/10.1016/j.explore.2024.04.005).

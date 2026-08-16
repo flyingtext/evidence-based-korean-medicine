@@ -231,6 +231,3 @@
 [^53]: Percutaneous Tendon Needling without Ultrasonography for Lateral Epicondylitis. 관찰연구, 36명. DOI: [10.2302/kjm.2019-0004-OA](https://doi.org/10.2302/kjm.2019-0004-OA) · PMID: 31281137. 초음파 없이 경피적 건 침술이 통증·악력 개선.
 [^54]: Comparison of Traditional Chinese Medicine Treatment and Western Medicine Treatment of Tennis Elbow (External Humeral Epicondylitis). 문헌고찰. DOI: [10.54097/t1c4h835](https://doi.org/10.54097/t1c4h835). 한의 비수술 치료가 낮은 재발률·최소 침습적 효과.
 [^55]: Time-Dependent Efficacy and Safety of Percutaneous Treatments for Lateral Epicondylitis: A Systematic Review and Network Meta-Analysis. 메타분석, 3285명. DOI: [10.2147/JPR.S604185](https://doi.org/10.2147/JPR.S604185) · PMID: 42079417. 회복 단계별 맞춤 치료: 스테로이드(단기)·DPT(중기)·PRP·DN(장기).
-
-[^56]: Tennis elbow, study protocol for a randomized clinical trial: needling with and without platelet-rich plasma after failure of up-to-date rehabilitation. 임상시험(프로토콜), 58명. DOI: [10.1186/s13018-020-01998-8](https://doi.org/10.1186/s13018-020-01998-8) · PMID: 33028383. 초음파 유도 침술+PRP 병행 효과 검증.
-[^57]: Comparative Effect of Dry Needling and Neural Mobilization on Pain, Strength, Range of Motion, and Quality of Life in Patients With Lateral Epicondylitis: Protocol for Randomized Clinical Trial. 임상시험(프로토콜), 36명. DOI: [10.1016/j.jcm.2021.09.001](https://doi.org/10.1016/j.jcm.2021.09.001) · PMID: 34987324. 건침 vs 신경가동술 비교.

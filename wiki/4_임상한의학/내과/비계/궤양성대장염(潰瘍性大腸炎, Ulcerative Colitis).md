@@ -130,5 +130,3 @@
 ## 검색에서 제외된 논문
 
 - 검색 결과에서 베르베린·커큐민·유향(Boswellia)·Andrographis 등 일부 천연물 성분 연구, 소화기 이외 적응증의 침·뜸 문헌, IBD의 역학·CAM 이용 실태 조사 중 주제와 간접 관련이거나 약리·이용률 분석에 국한된 논문은 본 주제의 각주에서 제외하였다. 일부는 본초·방제의 별도 문서 주제로 적합하다.
-
-[^31]: Patterns of complementary and alternative medicine use in pediatric patients with inflammatory bowel disease. 관찰연구, 111명. DOI: [10.1002/jpn3.70252](https://doi.org/10.1002/jpn3.70252). 소아 IBD CAM 사용 빈도 높음, 안전성·유효성 근거 부족.

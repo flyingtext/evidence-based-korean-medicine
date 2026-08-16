@@ -89,29 +89,16 @@
 [^4]: Pharmacotherapy for preventing calcium containing stone formation. 문헌고찰. PMID: [21960240](https://pubmed.ncbi.nlm.nih.gov/21960240/). 칼슘 결석 형성 예방 약물 요법.
 [^5]: [Li Wen-Rong's experience on acupuncture at painful locality taken as acupoint]. 증례. PMID: [20568436](https://pubmed.ncbi.nlm.nih.gov/20568436/). 동통부위 취혈 침 경험.
 [^6]: [The protective effect of Chinese herbs for supplementing shen to eliminate stone on renal injury induced by extracorporeal shockwave lithotripsy in patients with renal calculus]. 임상시험. PMID: [18928091](https://pubmed.ncbi.nlm.nih.gov/18928091/). 보신배석 한약이 ESWL 후 신손상 보호.
-[^7]: Litholytic property of Kulattha (Dolichous biflorus) vs potassium citrate in renal calculus disease: a comparative study. 임상시험. PMID: [21117346](https://pubmed.ncbi.nlm.nih.gov/21117346/). 쿨라타 vs 시트르산칼륨 용석 효과.
-[^8]: The protective effects of the traditional Chinese herbs against renal damage induced by extracorporeal shock wave lithotripsy: a clinical study. 임상시험. DOI: [10.1007/s00240-010-0286-1](https://doi.org/10.1007/s00240-010-0286-1). 한약이 ESWL 유발 신손상 보호.
 [^9]: A holistic guide to effective prevention and treatment for kidney stones: a systematic review exploring anti-urolithiasis approaches. 체계적 고찰. DOI: [10.1007/s00210-025-04658-y](https://doi.org/10.1007/s00210-025-04658-y). 시스틴·요산 결석 예방·치료 종합.
 [^10]: Midnight-noon ebb-flow acupoint application alleviates Double-J stent syndrome after ureteroscopic surgery: a retrospective study. 관찰연구. DOI: [10.1007/s00240-025-01920-z](https://doi.org/10.1007/s00240-025-01920-z). 자오유주 경혈 적용이 스텐트 증후군 완화.
 [^11]: Exploring The Multifaceted Medicinal Benefits of Phyllanthus niruri: Insights into Its Antiurolithic, Hepatoprotective and Anti-Diabetic Activities. 문헌고찰. DOI: [10.2174/0113816128432792260122125217](https://doi.org/10.2174/0113816128432792260122125217). 여주풀 항요결석 기전.
 [^12]: Applications of meridian electrical conductance for renal colic: a prospective study. 관찰연구. DOI: [10.1089/acm.2009.0273](https://doi.org/10.1089/acm.2009.0273). 경락 전도도로 산통 부위 확인.
-[^13]: Comparative Study of Efficacy of Kutaja Beeja Churna and Ayurvedic Herbal Compound in the Management of Mutrashmari (Urolithiasis)- A Research Protocol. 임상시험. DOI: [10.7860/jcdr/2022/57763.16875](https://doi.org/10.7860/jcdr/2022/57763.16875). 아유르베다 한약 배석 효과.
-[^14]: Efficacy of an herbal preparation based on lovage, rosemary, and centaury on patients after extracorporal shockwave lithotripsy. 임상시험. DOI: [10.1186/s40816-021-00247-7](https://doi.org/10.1186/s40816-021-00247-7). ESWL 후 한약 제제 배석 효과.
-[^15]: MANAGEMENT OF URINARY CALCULUS WITH HERBAL PREPARATION (MORINGA OLEIFERA AND TRIBULUS TERRESTRIS). 임상시험. DOI: [10.47070/ayushdhara.v8i2.713](https://doi.org/10.47070/ayushdhara.v8i2.713). 모링가·지골피 한약 배석 효과.
-[^16]: Efficacy of Novel Herbal Formulation in Conservative Management of Mutrashmari (Urolithiasis) - A Case Report. 증례. DOI: [10.47552/ijam.v13i4.3107](https://doi.org/10.47552/ijam.v13i4.3107). 보존적 한약 배석 증례.
-[^17]: Efficacy of preoperative electroacupuncture for ureteral access sheath placement during first-stage flexible ureteroscopy in urolithiasis: a multicenter, randomized, single-blind, sham-controlled trial protocol. 임상시험. DOI: [10.1186/s12894-025-01993-3](https://doi.org/10.1186/s12894-025-01993-3). 수술 전 전침이 요관경 시술 보조.
 [^18]: EVALUATION OF ANTIUROLITHIC HERBAL FORMULA FOR UROLITHIASIS: A RANDOMIZED OPEN-LABEL CLINICAL STUDY. 임상시험. DOI: [10.22159/ajpcr.2019.v12i4.30232](https://doi.org/10.22159/ajpcr.2019.v12i4.30232). 항요결석 한약 제제가 배석·결석 성분 개선.
-[^19]: Health literacy and attitudes toward complementary and alternative medicine (CAM) among patients with urolithiasis. 관찰연구. DOI: [10.1186/s12906-026-05372-9](https://doi.org/10.1186/s12906-026-05372-9). 요로결석 환자의 CAM 이용 행태.
 [^20]: Nephrotoxicity and Chinese Herbal Medicine. 문헌고찰. DOI: [10.2215/cjn.11571017](https://doi.org/10.2215/cjn.11571017). 한약의 신독성(아리스톨로크산) 경고.
 [^21]: Non-drug-induced nephrotoxicity. 문헌고찰. DOI: [10.1007/s00467-009-1180-3](https://doi.org/10.1007/s00467-009-1180-3). 약물 외 신독성(한약 포함) 종합.
-[^22]: Chinese medicine and the surgeon. 문헌고찰. DOI: [10.1007/s11655-011-0791-2](https://doi.org/10.1007/s11655-011-0791-2). 외과 수술 전후 한의 활용.
 [^23]: Herbs and the kidney. 문헌고찰. DOI: [10.1053/j.ajkd.2004.02.009](https://doi.org/10.1053/j.ajkd.2004.02.009). 신질환에서 한약 사용의 안전성.
-[^24]: Acupuncture for pain in extracorporeal shockwave lithotripsy. 임상시험. DOI: [10.1089/end.2004.18.634](https://doi.org/10.1089/end.2004.18.634). ESWL 시 침의 진통 효과.
 [^25]: [Eye acupuncture for treatment of renal and ureteral colic]. 임상시험. PMID: [17926618](https://pubmed.ncbi.nlm.nih.gov/17926618/). 눈침이 신·요관 산통 진통에 유효.
-[^26]: A long-term study on the efficacy of a herbal plant, Orthosiphon grandiflorus, and sodium potassium citrate in renal calculi treatment. 임상시험. PMID: [11944733](https://pubmed.ncbi.nlm.nih.gov/11944733/). Orthosiphon 한약의 장기 배석 효과.
 [^27]: Acupressure versus parecoxib sodium in acute renal colic: A prospective cohort study. 관찰연구. DOI: [10.3389/fmed.2022.968433](https://doi.org/10.3389/fmed.2022.968433). 급성 신산통에서 지압이 파레콕시브와 유사한 진통.
-[^28]: Comparative efficacy of acupressure and magnetic therapy vs. diclofenac sodium for pain management in upper urinary tract calculi. 임상시험. DOI: [10.1016/j.ajem.2025.10.045](https://doi.org/10.1016/j.ajem.2025.10.045). 지압·자기요법이 상부 요로결석 통증 관리에 유효.
-[^29]: Traditional Chinese medicine combined with conventional therapy for female kidney stone. 임상시험. DOI: [10.1097/md.0000000000019611](https://doi.org/10.1097/md.0000000000019611). 한약 병용이 여성 신결석 치료에 유효.
 
 ## 검색에서 제외된 논문
 

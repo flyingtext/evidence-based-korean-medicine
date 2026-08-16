@@ -141,5 +141,3 @@
 - 당귀념통탕(當歸念痛湯)은 실험실 환경에서 항염 효과를 보였으나 임상적 유효성이 확인되지 않아, 급성 통풍의 일차 치료제로는 부적절하다는 결과를 본문에 정직하게 반영하였다.[^38]
 - 아유르베다 방혈법, 파킨슨병·편두통·고혈압 중성약, ADHD 침 치료 등은 통풍 본 주제와 간접 관련이거나 다른 질환을 다루어 각주에서 제외하였다. 일부는 본초·방제·신경정신과의 별도 문서 주제로 적합하다.
 - 비한의학적 관점의 통풍 약물(콜히친·NSAIDs·페북소스타트) 단독 연구는 대조군 근거로만 활용하고, 한의 중재와의 병용 효과를 중심으로 서술하였다.
-
-[^38]: The Anti-inflammatory and Anti-hyperuricemic Effects of Chinese Herbal Formula Danggui-Nian-Tong-Tang on Acute Gouty Arthritis: A Comparative Study with Indomethacin and Allopurinol. 실험연구. DOI: [10.1142/s0192415x95000316](https://doi.org/10.1142/s0192415x95000316). 임상적 유효성 미확인.

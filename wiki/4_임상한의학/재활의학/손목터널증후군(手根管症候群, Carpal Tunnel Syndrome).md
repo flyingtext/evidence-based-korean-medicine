@@ -138,4 +138,3 @@
 [^21]: TENS and Acupuncture in treatment of Carpal Tunnel Syndrome. 임상시험, 138명. DOI: [10.23880/ipcm-16000210](https://doi.org/10.23880/ipcm-16000210). TENS·침 병행이 단독 약물보다 통증·임상 징후 개선.
 [^22]: Effectiveness of Scolopendrid Pharmacopuncture for Neuropathic Dysfunction: Clinical Evidence and Potential Mechanism. 리뷰. DOI: [10.3390/toxins17020083](https://doi.org/10.3390/toxins17020083). 지네 약침이 말초신경 손상 통증 완화에 유효, 안전성 검증 필요.
 [^23]: Acupuncture and related interventions for the treatment of symptoms associated with carpal tunnel syndrome. 체계적 고찰(Cochrane), 869명. DOI: [10.1002/14651858.CD011215.pub2](https://doi.org/10.1002/14651858.CD011215.pub2) · PMID: 30521680. 침·관련 중재가 증상 완화에 잠재적 유용성, 근거 낮음·단기 효과.
-[^24]: Is There a Role of Cupping Therapy in the Treatment of Carpal Tunnel Syndrome in Primary Care Setting? 리뷰. DOI: [10.7759/cureus.12954](https://doi.org/10.7759/cureus.12954) · PMID: 33527065. 부항이 CTS에 잠재적 가치, 고품질 RCT 필요.

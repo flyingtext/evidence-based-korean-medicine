@@ -157,8 +157,3 @@
 - 아유르베다 약제 납 중독,[^58] 중국 약재 신병증,[^59] 고삼·사상자 과다복용에 의한 운동 장애,[^60] 경추 교정술 후 현훈[^61] 등은 사상의학과 무관하거나 약물 안전성·합병증을 다루어 각주에서 제외하고, 한의 안전성·약물 상호작용 관련 별도 문서 주제로 적합하다.
 - 비한의학적 관점의 한의·민간 요법 관련 연구(전통 한약 안전성, Kampo 처방 증례 등)는 사상의학 본 주제와 간접 관련이거나 다른 체계를 다루어 제외하였다.
 - 사상체질과 무관한 진단법(배꼽 진단, 홍채 진단 등) 중 체질 진단과 관련된 일부는 보조 진단 근거로만 활용하였다.
-
-[^58]: Chronic lead intoxication associated with Ayurvedic medication. 증례, 1명. PMID: [16402516](https://pubmed.ncbi.nlm.nih.gov/16402516/). 전통 약제의 납 중독 위험.
-[^59]: Chinese herb nephropathy. 증례, 1명. PMID: [16389336](https://pubmed.ncbi.nlm.nih.gov/16389336/). 아리스톨로크산 신병증 위험.
-[^60]: Movement disorders possibly induced by traditional chinese herbs. 증례, 4명. DOI: [10.1159/000073056](https://doi.org/10.1159/000073056). 고삼·사상자 과다복용의 신경독성.
-[^61]: Acute vertigo following cervical manipulation. 증례, 9명. DOI: [10.1097/00005537-200304000-00014](https://doi.org/10.1097/00005537-200304000-00014). 경추 교정술 후 혈관성 현훈 위험.

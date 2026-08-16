@@ -119,17 +119,13 @@ A5. 대규모 전국 코호트(175,431명)에서 한의학적 치료가 장기�
 [^8]: Japanese traditional herbal medicine reduces use of pregabalin and opioids for pain in patients with LSS, 관찰연구(151명), DOI: [10.1186/s40981-017-0130-5](https://doi.org/10.1186/s40981-017-0130-5).
 [^9]: Electroacupuncture in non-surgical management of LSS: mechanistic potential, 리뷰, DOI: [10.3389/fimmu.2025.1644394](https://doi.org/10.3389/fimmu.2025.1644394).
 [^10]: Effectiveness and safety of acupotomy on lumbar spinal stenosis, 임상시험(40명), DOI: [10.1097/md.0000000000028175](https://doi.org/10.1097/md.0000000000028175).
-[^11]: Survey of integrative lumbar spinal stenosis treatment in Korean medicine doctors, 관찰연구, DOI: [10.1186/s12906-017-1942-6](https://doi.org/10.1186/s12906-017-1942-6).
 [^12]: Pharmacopuncture Therapy as an Adjunctive Treatment for Patients with LSS, 임상시험(40명), DOI: [10.2147/JPR.S438219](https://doi.org/10.2147/JPR.S438219).
-[^13]: Effect and Safety of Combining Pharmacopuncture Therapy and Acupotomy in DLSS: protocol, 임상시험 프로토콜(104명), DOI: [10.51507/j.jams.2023.16.6.268](https://doi.org/10.51507/j.jams.2023.16.6.268).
 [^14]: Acupotomy for the treatment of lumbar spinal stenosis, 메타분석, DOI: [10.1097/md.0000000000016662](https://doi.org/10.1097/md.0000000000016662).
 [^15]: Shakuyaku-kanzo-to (Shao-Yao-Gan-Cao-Tang) as Treatment of Painful Muscle Cramps in Patients with LSS, 임상시험(58명), PMID: [27363396](https://pubmed.ncbi.nlm.nih.gov/27363396/).
 [^16]: Modified Raktamokshna as Chinese cupping therapy in acute pain management of Lumbar spondylosis, 증례(1명), DOI: [10.52482/ijacare.v2i2.39](https://doi.org/10.52482/ijacare.v2i2.39).
 [^17]: Fluoroscopically guided transforaminal epidural dry needling for LSS, 임상시험(34명), DOI: [10.1186/1471-2474-11-180](https://doi.org/10.1186/1471-2474-11-180).
 [^18]: Long-Term Follow-Up of Spinal Stenosis Inpatients Treated with Integrative Korean Medicine Treatment, 관찰연구, DOI: [10.3390/jcm10010074](https://doi.org/10.3390/jcm10010074).
-[^19]: Acupotomy for the treatment of lumbar spinal stenosis, 체계적 고찰 프로토콜, DOI: [10.1097/md.0000000000014160](https://doi.org/10.1097/md.0000000000014160).
 [^20]: Improvement of Anorgasmia and Anejaculation After Spinal Manipulation in an Older Man With Lumbar Stenosis, 증례(1명), DOI: [10.7759/cureus.34719](https://doi.org/10.7759/cureus.34719).
-[^21]: Nonsurgical Korean Integrative Treatments for Symptomatic LSS: protocol, 임상시험 프로토콜(36명), DOI: [10.1155/2016/2913248](https://doi.org/10.1155/2016/2913248).
 [^22]: Clinimetric analysis of NPRS, ODI, and RMDQ in patients with LSS, 관찰연구(128명), DOI: [10.1016/j.jocn.2025.111717](https://doi.org/10.1016/j.jocn.2025.111717).
 [^23]: Lumbar Spinal Stenosis: Diagnosis and Management, 리뷰, PMID: [38648834](https://pubmed.ncbi.nlm.nih.gov/38648834/).
 [^24]: Comparative Clinical Outcomes of Non-surgical and Surgical Treatment Methods for Lumbar Canal Stenosis, 체계적 고찰, DOI: [10.7759/cureus.111963](https://doi.org/10.7759/cureus.111963).

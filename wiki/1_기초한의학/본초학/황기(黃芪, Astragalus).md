@@ -39,7 +39,6 @@
 
 ## 참고문헌
 
-[^1]: 황기의 본초학적 성질·효능·변증 적용은 교과서적 임상 이론. 근거 미확인(교과서적 근거).
 [^2]: [Modulatory effect of Astragalus membranaceus on Th1/Th2 cytokine in patients with herpes simplex keratitis]. 임상시험, 106명. PMID: [15015443](https://pubmed.ncbi.nlm.nih.gov/15015443/). 황기가 HSK의 Th1/Th2 불균형 조절.
 [^3]: Herbal medicines for viral myocarditis. 체계적 고찰, 3448명. DOI: [10.1002/14651858.CD003711.pub2](https://doi.org/10.1002/14651858.CD003711.pub2). 황기·단삼·생맥산이 심근염의 부정맥·심기능 개선에 도움 가능.
 [^4]: [Effect of astragalus injection on immune function in patients with congestive heart failure]. 임상시험, 62명. PMID: [12800417](https://pubmed.ncbi.nlm.nih.gov/12800417/). 황기주사액이 심기능·CD4/CD8 개선.
@@ -70,8 +69,6 @@
 [^29]: Hwanggigyejiomul-tang on Postoperative Breast Cancer-related Lymphedema: Systematic Review and Meta-analysis. 메타분석. DOI: [10.22246/jikm.2024.45.1.31](https://doi.org/10.22246/jikm.2024.45.1.31). 황기계지오물탕이 상지 부종·가동범위 개선.
 [^30]: Effect and safety of Neiguan acupoint injection with astragalus injection for chronic heart failure with qi-deficiency and blood-stasis: RCT. 임상시험, 200명. DOI: [10.3389/fmed.2026.1836620](https://doi.org/10.3389/fmed.2026.1836620) · PMID: [42292177](https://pubmed.ncbi.nlm.nih.gov/42292177/). 내관혈 황기주사액 약침이 심기능·삶의 질 개선.
 [^31]: Evaluation of the Efficacy of Auricular Acupoint Pressure Patch Combined with Modified Huangqi Decoction in Treating Diabetic Nephropathy. 임상시험, 60명. DOI: [10.26689/jcnr.v8i1.5947](https://doi.org/10.26689/jcnr.v8i1.5947). 황기탕 병용이 당뇨병성 신증의 요단백·신기능 개선.
-[^32]: Edematous erythema at the hands and feet probably caused by the traditional herb "radix astragali". 증례, 1명. DOI: [10.4137/IMI.S5824](https://doi.org/10.4137/IMI.S5824) · PMID: [21614162](https://pubmed.ncbi.nlm.nih.gov/21614162/). 황기 투여 후 드물게 부종성 홍반 과민반응 가능.
-[^33]: Interactions between cytochrome P450 enzymes and traditional Chinese herbs: A comprehensive review. 체계적 고찰. DOI: [10.1097/JCMA.0000000000001404](https://doi.org/10.1097/JCMA.0000000000001404) · PMID: [42421515](https://pubmed.ncbi.nlm.nih.gov/42421515/). 황기를 포함한 한약이 CYP450(특히 CYP3A4)과 상호작용 가능, 양약 복용 시 주의.
 
 ## Q&A
 
