@@ -107,13 +107,7 @@ def main() -> int:
             run_md_content = f.read()
         full_prompt = (
             f"다음은 위키 작성·보강을 위한 RUN.md의 전체 지침이다. 이 지침과 AGENTS.md의 규칙을 엄격히 따라 위키를 증식·보강하라.\n\n"
-            f"--- RUN.md START ---\n{run_md_content}\n--- RUN.md END ---\n\n"
-            "1) scripts/.progress.json 체크포인트를 읽어 이미 처리한 주제를 건너뛰고, 새로 작성할 표제어를 직접 선정하라.\n"
-            "2) med.symbolicinfo.com API에서 논문을 수집하고, 각 문서의 각주 정의에 반드시 최소 15편 이상의 논문을 수록하라.\n"
-            "3) 질환 문서는 KCD-8 코드를 명시하고, 임상 한의학 과별 교과서적 편제로 서술하라.\n"
-            "4) 기존 문서는 최신 논문과 대조해 수정·갱신하라.\n"
-            "5) 근거 무결성을 확인하고, 작성·수정 후 python3 scripts/run.py로 검증·빌드 후 커밋하라.\n"
-            "새 문서도 없고 수정할 내용도 없으면 종료하라."
+            f"--- RUN.md START ---\n{run_md_content}\n--- RUN.md END ---\n"
         )
     except Exception as e:
         log(f"RUN.md 파일을 읽는 중 오류 발생: {e}")
