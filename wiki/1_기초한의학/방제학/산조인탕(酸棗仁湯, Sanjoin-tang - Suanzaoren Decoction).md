@@ -1,4 +1,4 @@
-# 산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction)
+# 산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction)
 
 > 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16
 

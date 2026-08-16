@@ -1,4 +1,4 @@
-# 시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang / Saikokaryukotsuboreito / Chaihu Longgu Muli Tang)
+# 시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang)
 
 > 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16
 
@@ -71,7 +71,7 @@
 ## 경혈/처방 연관
 
 - **주요 구성 약재**: [시호(柴胡)](../본초학/시호(柴胡, Bupleuri Radix).md)(화해소양)·[황금(黃芩)](../본초학/황금(黃芩, Scutellariae Radix).md)(청열)·[계지(桂枝)](../본초학/계지(桂枝, Cinnamomi Cortex).md)·[복령(茯苓)](../본초학/복령(茯苓, Poria).md)(통양화기)·[반하(半夏)](../본초학/반하(半夏, Pinellia ternata).md)·[인삼(人蔘)](../본초학/인삼(人蔘, Panax ginseng).md)·[생강(生薑)](../본초학/생강(生薑, Zingiber officinale).md)·[대조(大棗)](../본초학/대조(大棗, Jujube).md)·[용골(龍骨)](../본초학/용골(龍骨, Fossilia Ossis Mastodi).md)·[모려(牡蠣)](../본초학/모려(牡蠣, Ostreae Concha).md)(중진안신) 등으로 구성된다.[^1][^3]
-- **관련 처방**: [시호가용골모려탕(柴胡加龍骨牡蠣湯)](시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang).md)(대황이 가해진 변형)·[소시호탕(小柴胡湯)](소시호탕(小柴胡湯).md)·[억간산(抑肝散)](억간산(抑肝散, Yokukansan).md)·[산조인탕(酸棗仁湯)](산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction).md) 등 소양·신경정신 계열 방제와 변증별로 감별·병용된다.[^1][^2][^3]
+- **관련 처방**: [시호가용골모려탕(柴胡加龍骨牡蠣湯)](시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang).md)(대황이 가해진 변형)·[소시호탕(小柴胡湯)](소시호탕(小柴胡湯).md)·[억간산(抑肝散)](억간산(抑肝散, Yokukansan).md)·[산조인탕(酸棗仁湯)](산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction).md) 등 소양·신경정신 계열 방제와 변증별로 감별·병용된다.[^1][^2][^3]
 - **본초 연관**: [용골(龍骨)](../본초학/용골(龍骨, Fossilia Ossis Mastodi).md)·[모려(牡蠣)](../본초학/모려(牡蠣, Ostreae Concha).md)는 중진안신(重鎭安神)의 대표 약재로, 시호용골모려탕의 핵심 구성을 이룬다.[^1]
 
 ## Q&A

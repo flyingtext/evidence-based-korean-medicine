@@ -42,11 +42,11 @@
   - 하위 표제어: 귀비탕(歸脾湯) · 가미귀비탕(加味歸脾湯, Gamiguibi-tang) · 기혼탕(貴魂湯, Kamikihito/TJ-24) · 귀비탕 계열 가감방
 - [천왕보심단(天王補心丹, Cheonwangbosim-dan / Tian Wang Bu Xin Dan)](천왕보심단(天王補心丹, Cheonwangbosim-dan).md)
   - 하위 표제어: 천왕보심단(天王補心丹) 원방 · 천왕보심단 가감·병용 요법 · 천왕보심단 제제(과립·캡슐·환)
-- [산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction)](산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction).md)
+- [산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction)](산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction).md)
   - 하위 표제어: 산조인탕(酸棗仁湯) 원방 · 가감산조인탕(加味酸棗仁湯) · 산조인탕 병용 요법
-- [감맥대조탕(甘麥大棗湯, Gammakdaejo-tang / Ganmai Dazao Decoction)](감맥대조탕(甘麥大棗湯, Gammakdaejo-tang / Ganmai Dazao Decoction).md)
+- [감맥대조탕(甘麥大棗湯, Gammakdaejo-tang - Ganmai Dazao Decoction)](감맥대조탕(甘麥大棗湯, Gammakdaejo-tang - Ganmai Dazao Decoction).md)
   - 하위 표제어: 감맥대조탕(甘麥大棗湯) 원방 · 가감 감맥대조탕(加減甘麥大棗湯) · 감맥대조탕 병용 요법
-- [인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction / Inchin-ko-to)](인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction).md)
+- [인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction / Inchin-ko-to)](인진호탕(茵陳蒿湯, Injinho-tang - Yinchenhao Decoction).md)
   - 하위 표제어: 인진호탕(茵陳蒿湯) 원방 · 인진호탕 가감방(加味茵陳蒿湯) · 인친코토(Inchin-ko-to, TJ-135) 제제 · 인진호탕 병용 요법
 - [갈근탕(葛根湯, Galgeun-tang / Kakkonto)](갈근탕(葛根湯).md)
   - 하위 표제어: 갈근탕(葛根湯) · 마황탕(麻黃湯, Mao-to) · 갈근탕가천궁신이(葛根湯加川芎辛夷, Kakkontokasenkyushin'i) · 갈근탕가소시호탕가길경석고(葛根湯合小柴胡湯加桔梗石膏) · 갈근탕 병용 요법
@@ -76,9 +76,9 @@
   - 하위 표제어: 용담사간탕(龍膽瀉肝湯) 원방 · 가미용담사간탕(加味龍膽瀉肝湯) · 용담사간환(龍膽瀉肝丸) · 용담사간탕 병용 요법
 - [시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang)](시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang).md)
   - 하위 표제어: 시호가용골모려탕(柴胡加龍骨牡蠣湯) 원방 · 시호가용골모려탕 가감방 · 시호용골모려탕(柴胡龍骨牡蠣湯) · 시호가용골모려탕 병용 요법
-- [시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang / Saikokaryukotsuboreito / Chaihu Longgu Muli Tang)](시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang / Saikokaryukotsuboreito / Chaihu Longgu Muli Tang).md)
+- [시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang)](시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang).md)
   - 하위 표제어: 시호용골모려탕(柴胡龍骨牡蠣湯) 원방 · 시호가용골모려탕(柴胡加龍骨牡蠣湯) · 사이코카류코츠보레이토(Saikokaryukotsuboreito) · 시호용골모려탕 수정방 · 시호용골모려탕 병용 요법
-- [천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin / Tianma Gouteng Decoction)](천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin).md)
+- [천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin / Tianma Gouteng Decoction)](천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum - Tianma Gouteng Yin).md)
   - 하위 표제어: 천마구등음(天麻鉤藤飲) 원방 · 가감천마구등탕(加味天麻鉤藤湯) · 천마구등탕 제제(과립·중성약) · 천마구등음 병용 요법
 - [억간산(抑肝散, Yokukansan)](억간산(抑肝散, Yokukansan).md)
   - 하위 표제어: 억간산(抑肝散) 원방 · 요쿠칸산(Yokukansan, TJ-54) · 억간산가진피반하(抑肝散加陳皮半夏, Yokukansankachimpihange) · 억간산 병용 요법
@@ -98,7 +98,7 @@
   - 하위 표제어: 사역탕(四逆湯) 원방 · 당귀사역탕(當歸四逆湯) · 가미사역탕(加味四逆湯) · 통맥사역탕(通脈四逆湯) · 사역산(四逆散)
 - [평위산(平胃散, Pyeongwi-san / Pingwei San)](평위산(平胃散, Pyeongwi-san).md)
   - 하위 표제어: 평위산(平胃散) 원방 · 향사평위산(香砂平胃散) · 평위산 제제·추출물(Pyeongwee-San extract, KMP6) · 평위산 병용·계열 요법
-- [온경탕(溫經湯, Wenjing Decoction / Unkei-to)](온경탕(溫經湯, Wenjing Decoction / Unkei-to).md)
+- [온경탕(溫經湯, Wenjing Decoction - Unkei-to)](온경탕(溫經湯, Wenjing Decoction - Unkei-to).md)
   - 하위 표제어: 온경탕(溫經湯) 원방 · 운케이토(Unkei-to) · 가감 온경탕(加減溫經湯) · 온경탕 병용 요법(침·뜸)
 - [소건중탕(小建中湯, Sogeonjung-tang / Shokenchuto)](소건중탕(小建中湯, Sogeonjung-tang).md)
   - 하위 표제어: 소건중탕(小建中湯) 원방 · 소건중탕 제제(Shokenchuto) · 황기건중탕(黃芪建中湯) · 건중(建中) 계열 방제
@@ -106,11 +106,11 @@
   - 하위 표제어: 대건중탕(大建中湯) 원방 · 대건중탕 제제(Daikenchuto, TJ-100/TU-100) · 대건중탕 병용 요법 · 건중(建中) 계열 방제
 - [도홍사물탕(桃紅四物湯, Dohongsamul-tang / Taohong Siwu Decoction)](도홍사물탕(桃紅四物湯, Dohongsamul-tang).md)
   - 하위 표제어: 도홍사물탕(桃紅四物湯) 원방 · 가미도홍사물탕(加味桃紅四物湯) · 도인홍화 계열 제제 · 도홍사물탕 병용 요법
-- [마황탕(麻黃湯, Mahuang Decoction / Mao-to)](마황탕(麻黃湯, Mahuang Decoction / Mao-to).md)
+- [마황탕(麻黃湯, Mahuang Decoction - Mao-to)](마황탕(麻黃湯, Mahuang Decoction - Mao-to).md)
   - 하위 표제어: 마황탕 원방 · 마오토(Mao-to) · 마황 계열 파생 방제(마행석감탕·사간마황탕·마황부자세신탕) · 마황탕 병용 요법
-- [은교산(銀翹散, Yinqiao San / Eunkyo-san)](은교산(銀翹散, Yinqiao San / Eunkyo-san).md)
+- [은교산(銀翹散, Yinqiao San - Eunkyo-san)](은교산(銀翹散, Yinqiao San - Eunkyo-san).md)
   - 하위 표제어: 은교산 원방 · 은교해독제(銀翹解毒劑) 제형 · 마행석감은교산 합방 · 은교산 병용 요법
-- [곽향정기산(藿香正氣散, Gwakhyangjeonggi-san / Huoxiang Zhengqi San)](곽향정기산(藿香正氣散, Gwakhyangjeonggi-san / Huoxiang Zhengqi San).md)
+- [곽향정기산(藿香正氣散, Gwakhyangjeonggi-san - Huoxiang Zhengqi San)](곽향정기산(藿香正氣散, Gwakhyangjeonggi-san - Huoxiang Zhengqi San).md)
   - 하위 표제어: 곽향정기산 원방 · 곽향정기액(藿香正氣液) · 곽향정기산 제형·품질 · 곽향정기산 병용 요법
 
 ## 동음이의 분류

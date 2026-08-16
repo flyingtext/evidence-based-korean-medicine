@@ -1,4 +1,4 @@
-# 온경탕(溫經湯, Wenjing Decoction / Unkei-to)
+# 온경탕(溫經湯, Wenjing Decoction - Unkei-to)
 
 > 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16
 
