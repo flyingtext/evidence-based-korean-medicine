@@ -108,6 +108,8 @@
   - 하위 표제어: 영지 자실체·분말 · 영지 다당류(ganopoly) · 영지 포자(spore powder) · 영지 함유 복합 처방(영지+삼묘산) · 영지 추출물·보충제
 - [하수오(何首烏, Polygonum multiflorum)](하수오(何首烏, Polygonum multiflorum).md)
   - 하위 표제어: 하수오(何首烏) 단미 · 생하수오(生何首烏) · 제하수오(制何首烏) · 백하수오(白何首烏, Cynanchum bungei) · 하수오 유효 성분(TSG·에모딘·크리소판올) · 하수오 제제(하수오환·신오 젤라틴 캡슐·복합 하수오 추출물)
+- [산사(山楂, Crataegi Fructus)](산사(山楂, Crataegi Fructus).md)
+  - 하위 표제어: 산사(山楂) 단미 · 중국산사(Crataegus pinnatifida)·서양산사(C. monogyna/oxyacantha) · 생산사·초산사(焦山楂)·산사탄 · 산사 유효 성분(플라보노이드·프로안토시아니딘·다당류) · 산사 제제(산사환·강지편·추출 보충제)
 
 ## 동음이의 분류
 
