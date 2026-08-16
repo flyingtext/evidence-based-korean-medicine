@@ -116,7 +116,10 @@
   - 하위 표제어: 생지모(生知母)·염지모(鹽知母)·초지모(炒知母)·생강가공 지모(薑製知母) · 지모-황백 약쌍(知母-黃柏) · 지모-백합 약쌍(知母-百合) · 지모-석고 약쌍(知母-石膏) · 지모-황기 병용 · 계지작약지모탕(桂枝芍藥知母湯) · 지백지황환(知柏地黃丸) · 이선탕(二仙湯) · 백합지모탕(百合知母湯) · 초과지모탕(草果知母湯) · 백호가인삼탕(白虎加人蔘湯) · 지모 유효 성분(timosaponin B-II/A-III·sarsasapogenin·mangiferin) · 지모 다당체
 - [음양곽(淫羊藿, Epimedii Herba)](음양곽(淫羊藿, Epimedii Herba).md)
   - 하위 표제어: 음양곽(淫羊藿, *Epimedium brevicornum*) · 조선음양곽(朝鮮淫羊藿, *E. koreanum*) · 화음양곽(箭葉淫羊藿, *E. sagittatum*) · 유모음양곽(柔毛淫羊藿, *E. pubescens*) · 이카린(icariin)·이카리틴(icaritin)·이카리사이드 II(icariside II)·에피메딘 A/B/C(epimedin A/B/C) · 양지유 포제(羊脂油製) · 이선탕(二仙湯) · 보신익기탕(補腎益氣湯) · ELp 복합(음양곽·여정자·보골지)
+- [연호색(延胡索, Corydalis Rhizoma)](연호색(延胡索, Corydalis Rhizoma).md)
+  - 하위 표제어: 연호색(延胡索, *Corydalis yanhusuo*) · 엎는현호색(伏地延胡索, *C. decumbens*) · 현삼(玄蔘, *C. ternata*, *Scrophularia*와 동음이의) · 황근초(黃根草, *C. speciosa*) · 금령자산(金鈴子散) · 원호지통(元胡止痛) · 테트라하이드로팔마틴(THP) · 데하이드로코리달린(DHC) · 초제 연호색(醋製延胡索)
 
 ## 동음이의 분류
 
 - `인삼(人蔘)`은 약재명으로, 식물종명 `Panax ginseng`를 가리킨다. 가공·제형에 따른 백삼·홍삼 구분은 별도 문서([홍삼(紅蔘)](홍삼(紅蔘, Red Ginseng).md))와 하위 표제어로 다룬다.
+- `현삼(玄蔘)`은 두 가지 기원을 가진 동음이의어이다. 본초학의 현삼(玄蔘, *Scrophularia buergeriana*)과 연호색속 근연종인 *Corydalis ternata*의 한국명이 같아 혼동의 소지가 있으므로, 기원 식물 학명을 반드시 병기한다. 본 문서에서는 *C. ternata*를 연호색(延胡索)의 하위 표제어로 다룬다.
