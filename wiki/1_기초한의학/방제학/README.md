@@ -42,6 +42,8 @@
   - 하위 표제어: 귀비탕(歸脾湯) · 가미귀비탕(加味歸脾湯, Gamiguibi-tang) · 기혼탕(貴魂湯, Kamikihito/TJ-24) · 귀비탕 계열 가감방
 - [천왕보심단(天王補心丹, Cheonwangbosim-dan / Tian Wang Bu Xin Dan)](천왕보심단(天王補心丹, Cheonwangbosim-dan).md)
   - 하위 표제어: 천왕보심단(天王補心丹) 원방 · 천왕보심단 가감·병용 요법 · 천왕보심단 제제(과립·캡슐·환)
+- [산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction)](산조인탕(酸棗仁湯, Sanjoin-tang / Suanzaoren Decoction).md)
+  - 하위 표제어: 산조인탕(酸棗仁湯) 원방 · 가감산조인탕(加味酸棗仁湯) · 산조인탕 병용 요법
 - [갈근탕(葛根湯, Galgeun-tang / Kakkonto)](갈근탕(葛根湯).md)
   - 하위 표제어: 갈근탕(葛根湯) · 마황탕(麻黃湯, Mao-to) · 갈근탕가천궁신이(葛根湯加川芎辛夷, Kakkontokasenkyushin'i) · 갈근탕가소시호탕가길경석고(葛根湯合小柴胡湯加桔梗石膏) · 갈근탕 병용 요법
 - [사물탕(四物湯, Si-Wu-Tang / Shimotsu-to)](사물탕(四物湯).md)
