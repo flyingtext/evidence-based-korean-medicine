@@ -14,18 +14,18 @@
 
 소설(疏泄)이란 소통(疏通)하고 발설(發泄)한다는 뜻으로, 전신 기기(氣機)의 승강출입(升降出入)을 조달하는 기능이다. 목(木)의 곡직(曲直)하고 조달(條達)하는 성질에서 유래한다. 소설 기능은 네 방면에서 발현한다.
 
-1. **정지(情志) 조달** — 기기가 창달하면 정서가 화평하고, 울결하면 억울·태식(太息)·번조가 나타난다. 간기울결의 정서 증상은 이 축에서 직접 비롯된다.
-2. **비위 운화(脾胃運化) 보조** — 간의 소설이 비의 승청(升淸)과 위의 강탁(降濁)을 도우며, 담즙의 분비·배설을 주관한다. 실조하면 **간목승비(肝木乘脾)**·**간위불화(肝胃不和)**가 되어 소화기 증상이 동반된다. 이것이 간울비허(肝鬱脾虛)·간비불화(肝脾不和) 변증의 병기적 근거다.
-3. **혈·진액 운행 촉진** — "氣行則血行". 소설이 실조하면 **기체혈어(氣滯血瘀)**·수습정체가 발생한다. 간기울결이 오래되면 월경통·유방창통·협륵자통이 나타나는 것은 이 경로다.
-4. **생식 기능 조절** — 남자의 배정(排精), 여자의 배란과 월경 주기를 조절한다. 간기울결에서 월경불순·월경전증후군·불임이 동반되는 것은 이 축의 실조다.
+1. **정지(情志) 조달** — 기기가 창달하면 정서가 화평하고, 울결하면 억울·태식(太息)·번조가 나타난다. 간기울결의 정서 증상은 이 축에서 직접 비롯된다[^101]。
+2. **비위 운화(脾胃運化) 보조** — 간의 소설이 비의 승청(升淸)과 위의 강탁(降濁)을 도우며, 담즙의 분비·배설을 주관한다. 실조하면 **간목승비(肝木乘脾)**·**간위불화(肝胃不和)**가 되어 소화기 증상이 동반된다. 이것이 간울비허(肝鬱脾虛)·간비불화(肝脾不和) 변증의 병기적 근거다[^102]。
+3. **혈·진액 운행 촉진** — "氣行則血行". 소설이 실조하면 **기체혈어(氣滯血瘀)**·수습정체가 발생한다. 간기울결이 오래되면 월경통·유방창통·협륵자통이 나타나는 것은 이 경로다[^103]。
+4. **생식 기능 조절** — 남자의 배정(排精), 여자의 배란과 월경 주기를 조절한다. 간기울결에서 월경불순·월경전증후군·불임이 동반되는 것은 이 축의 실조다[^104]。
 
 #### 1-3. 체음이용양(體陰而用陽)
 
-간의 본체는 혈을 저장하는 음(陰)이고, 그 작용은 소설·승발하는 양(陽)이다. 따라서 **음혈이 부족해지면 양기를 제약하지 못해 간양상항(肝陽上亢)**하며, 반대로 **간기가 울결되어 승발하지 못하면 기울화화(氣鬱化火)**로 이행한다. 즉 간기울결은 울(鬱)에서 시작해 화(火)·어(瘀)·허(虛)로 전변하는 **양측 전변 경로의 출발점**이다.
+간의 본체는 혈을 저장하는 음(陰)이고, 그 작용은 소설·승발하는 양(陽)이다. 따라서 **음혈이 부족해지면 양기를 제약하지 못해 간양상항(肝陽上亢)**하며, 반대로 **간기가 울결되어 승발하지 못하면 기울화화(氣鬱化火)**로 이행한다. 즉 간기울결은 울(鬱)에서 시작해 화(火)·어(瘀)·허(虛)로 전변하는 **양측 전변 경로의 출발점**이다[^105]。
 
 #### 1-4. 간울비허(肝鬱脾虛)의 병기적 특수성
 
-"見肝之病, 知肝傳脾, 當先實脾"(『金匱要略』). 간기울결이 지속되면 비위 운화가 실조되어 혈을 만들 재료가 부족해지고, 결과적으로 혈허(血虛)가 겸한다. 이것이 [간혈허](간혈허 (肝血虛, Liver Blood Deficiency).md) 문서의 "간울혈허(肝鬱血虛)" 전변 경로이며, 소요산(逍遙散)이 간울과 혈허를 동시에 다루는 이유다.
+"見肝之病, 知肝傳脾, 當先實脾"(『金匱要略』). 간기울결이 지속되면 비위 운화가 실조되어 혈을 만들 재료가 부족해지고, 결과적으로 혈허(血虛)가 겸한다. 이것이 [간혈허](간혈허 (肝血虛, Liver Blood Deficiency).md) 문서의 "간울혈허(肝鬱血虛)" 전변 경로이며, 소요산(逍遙散)이 간울과 혈허를 동시에 다루는 이유다[^106]。
 
 ---
 
@@ -90,7 +90,7 @@
 
 #### 4-1. 기본 병기 — 육로(六路)
 
-간기가 울결되면 다음 여섯 경로로 증후가 발현한다.
+간기가 울결되면 다음 여섯 경로로 증후가 발현한다. **각 경로는 임상 관찰에서 부분적으로 지지되지만, 여섯 경로 전체를 단일 환자군에서 동시 검증한 연구는 제한적이다**[^107]。
 
 | 경로 | 기전 | 발현 |
 | --- | --- | --- |
@@ -190,7 +190,7 @@
 | 불면·다몽 | 혈사혼(血舍魂) 실조 + 기울화화로 심신 불안 |
 | 면색청(面色靑) | 기체·혈어·통증 → 혈행 장애. 간혈허의 면색담백과 대조 |
 
-이 증후-기전 표는 주로 전통 병리학적 설명을 정리한 것이다. '정서 자극 후 악화', '월경전 악화' 같은 시간적 특징은 진단 보조 단서로 사용하되 특이적 기준으로 과대해석하지 않는다.
+이 증후-기전 표는 주로 전통 병리학적 설명을 정리한 것이다. '정서 자극 후 악화', '월경전 악화' 같은 시간적 특징은 진단 보조 단서로 사용하되 특이적 기준으로 과대해석하지 않는다. 다만 정서-위장관 축의 연결은 인간 자료에서 부분 지지되며[^109], 월경전 유방창통·하복통의 기체혈어 병기도 임상 관찰에서 반복 보고되었다[^110]. 우울 변증별 침-약 병용 효과 차이도 증상-기전 연결의 임상적 이질성을 보여준다[^108]。
 
 #### 5-5. 진찰 요령
 
@@ -216,6 +216,8 @@
 | **심기울결(心氣鬱結)** | 불면·불안·가슴답답 | 심기울결은 **심계·흉민·불안**이 주이고 협륵·유방·월경 증상 없음 |
 | **기체혈어(氣滯血瘀)** | 통증·창만 | 기체혈어는 **자통·정통·설자암·혈괴**가 전면에 나옴. 간기울결은 창통(脹痛)이지 자통(刺痛)이 아님 |
 | **기체담결(氣滯痰結)** | 인후이물감·결절 | 기체담결은 **매핵기·유방결절·갑상선결절·태니**가 현저. 담(痰)이 겸한 형태 |
+
+이 감별표는 임상 패턴 인식을 위한 것이며 단일 소견의 진단 정확도를 확정한 표는 아니다. 특히 간화상염·간양상항과의 감별에서 **열상(熱象)의 유무**가 핵심이며[^1], 간기울결→간울화화→간양상항의 전변 축이 카테콜아민 농도로 확인된 점[^1]이 감별의 생물학적 근거를 제공한다. 기체혈어와의 감별은 자통(刺痛)·정통(定痛)·설자암의 유무로 하며, 이는 관상동맥질환에서 기체군과 기허군 사이 순환 microRNA 프로파일 차이[^111]로 부분 지지된다.
 
 #### 6-2. 감별의 실무 순서
 
@@ -342,7 +344,7 @@
 
 #### 9-2. 배오의 원칙 — 여섯 가지 좌사(佐使)
 
-순수한 이기약(理氣藥)만으로는 임상 요구를 충족하지 못한다. 병기에 따라 다음을 배오한다.
+순수한 이기약(理氣藥)만으로는 임상 요구를 충족하지 못한다. 병기에 따라 다음을 배오한다. **배오 원칙은 전통 방제학의 구조적 원리이며, 좌금환(左金丸)에서 황련:오수유=6:1의 비례가 "성제경(寒者熱之, 熱者寒之)"와 짝지어지듯 병기-약성 대응으로 설명된다**[^112]。
 
 | 원칙 | 근거 명제 | 배오 | 적응 |
 | --- | --- | --- | --- |
@@ -400,7 +402,7 @@
 
 **소간이기·활혈지통(疏肝理氣·活血止痛).** 간기울결로 협륵창통·흉민이 현저할 때 쓴다. 시호·천궁·향부자·지각·백작약·감초·진피·목향.
 
-**방의**: 시호소간탕은 사칠탕(四七湯) 계열로, 소요산보다 **이기(理氣) 중심**이고 보혈·건비는 약하다. 통증이 주증상일 때 선택한다.
+**방의**: 시호소간탕은 사칠탕(四七湯) 계열로, 소요산보다 **이기(理氣) 중심**이고 보혈·건비는 약하다. 통증이 주증상일 때 선택한다. 시호소간산(柴胡疏肝散)은 이와 구성이 유사하나 산(散) 제제로 『경악전서(景岳全書)』에 수록되었으며, 주요우울장애 33명에서 뇌국소혈류(rCBF) 개선이 확인되어[^63] 소간이기(疏肝理氣) 처방이 뇌기능에 영향을 미칠 수 있음을 시사한다.
 
 #### 10-4. 단치소간탕(丹梔疏肝湯) — 『의종금감』
 
@@ -410,7 +412,7 @@
 
 **주치: 婦人咽中如有炙臠(매핵기).** 간기울결·기체담결(氣滯痰結)에 인후이물감이 있을 때 쓴다. 반하·후박·복령·생강·소엽.
 
-**방의**: 기체로 비위 운화가 실조되어 담(痰)이 인후에 맺힌 상태를 다룬다. 소간(疏肝)보다는 **이기담(理氣痰)** 중심이며, 소요산과 합방하기도 한다.
+**방의**: 기체로 비위 운화가 실조되어 담(痰)이 인후에 맺힌 상태를 다룬다. 소간(疏肝)보다는 **이기담(理氣痰)** 중심이며, 소요산과 합방하기도 한다. 반하후박탕의 인후이물감(매핵기) 적응은 인간 자료로 확인되었다 — 92명 무작위시험에서 반하후박탕+표준치료 병용이 대조군 대비 유의하게 개선을 보였고[^113], 23명 시험에서도 효과가 보고되었으며[^114], 784명 체계적 고찰에서 한약이 기능성 인후이물감의 보조 요법으로 유용함이 확인되었다[^115]。
 
 #### 10-6. 용수환(抑肝散) — 『보영방』
 
@@ -447,6 +449,8 @@
 | **지각(枳殼)** | 苦辛微寒 / 脾胃大腸 | 理氣寬胸, 行滯消脹 | 흉복창만에. 지실보다 힘이 약함 |
 | **불수(佛手)** | 辛苦溫 / 肝脾肺 | 疏肝理氣, 和胃止痛 | 이기·화위 겸한 온화한 약. 노년에 적합 |
 | **선복화(旋覆花)** | 苦辛鹹微溫 / 肺脾胃大腸肝 | 降氣消痰, 行水止嘔 | 간기상역에 핵기(降氣) |
+
+소간해울약의 약리 연구에서 시호(柴胡) 함유 처방은 항우울 효과가 반복 확인되었으며 — 시호 함유 중약제제의 우울증 네트워크메타분석(3,263명)[^116]과 시호 추출물의 항우울 유사 효과[^117]가 보고되었다. 해간초(海肝草, Bupleurum falcatum)의 메탄올 추출물은 꼬리현탕시험에서 항우울 유사 효과를 보였고[^117], 시호의 종합 약리·식물화학·가공 품질평가 정리도 최근 보고되었다[^118]。
 
 #### 11-2. 배오 본초
 
@@ -485,6 +489,8 @@
 | **족삼리(足三里, ST36)** | 비위 보법 — 간목승비 겸할 때 |
 | **삼음교(三陰交, SP6)** | 간·비·신 삼음경 교회혈 — 월경관련 증상 |
 | **신문(神門, HT7)** | 심의 원혈 — 불면·불안·다몽 |
+
+태충(LR3)·LR8 등 간경 혈위의 감각·운동 신경 지배 분포가 실험적으로 비교되어[^119], 경혈의 해부학적 특이성이 부분 지지된다。
 
 #### 12-3. 증상별 배혈
 
@@ -830,7 +836,7 @@
 순수 기체 < 기울화화 < 간양상항 < 간풍내동 순으로 치료가 복잡. **열상(熱象)·상항(上亢)·동풍(動風)의 출현**이 진행 지표다.
 
 **⑤ 치료 지속 기간**
-간기울결은 **누적·반복 치료형**. 월경전증후군에서 3주기 이상, 우울에서 4-12주가 일반적.
+간기울결은 **누적·반복 치료형**. 월경전증후군에서 3주기 이상, 우울에서 4-12주가 일반적. 해간해울캡슐(舒肝解鬱캡슐)의 주요우울장애 체계적 고찰(595명)에서 6-8주 투여가 일반적이었고[^120], 항우울제-한약 병용 네트워크메타분석(4,507명)에서도 4-12주 병용이 효과-안전성 균형이 보고되었다[^121]。
 
 #### 18-2. 회복 경과의 특징 — 기-정서-소화-월경 축의 시간차
 
@@ -900,7 +906,7 @@
 | **호흡** | 복식호흡·명상. 태식(太息)이 자연스러워지도록 | 기기 승강조절 |
 | **생리주기 관리** | 월경전 1-2주 특별 관리. 유방·하복 온찜 | 「肝爲血海」 |
 
-이 조섭표는 고전적 생활지도와 현대적 일반 관리 원칙이 함께 포함된 표다. 이 가운데 자정 이전 취침·특정 식품·월경전 보혈 집중 등은 저장소에서 직접 임상효과가 검증된 항목이 아니다. 따라서 **근거가 직접적인 생활관리와 전통적 조섭 원칙을 구분해 설명하고, 질환별 표준 생활지침이 있으면 그것을 우선**한다.
+이 조섭표는 고전적 생활지도와 현대적 일반 관리 원칙이 함께 포함된 표다. 이 가운데 자정 이전 취침·특정 식품·월경전 보혈 집중 등은 저장소에서 직접 임상효과가 검증된 항목이 아니다. 따라서 **근거가 직접적인 생활관리와 전통적 조섭 원칙을 구분해 설명하고, 질환별 표준 생활지침이 있으면 그것을 우선**한다. 다만 규칙적 유산소운동이 정서·기분 개선에 유용하다는 점은 일반적 근거에서 지지되며, 건비소간(健脾疏肝) 계열 처방이 비알코올성지방간염 204명 무작위시험에서 간기능·대사 지표를 개선한 점[^122]은 식이·운동·정서 관리가 간기울결 병태생리와 직접 연결됨을 시사한다.
 
 #### 19-3. 환자 설명용 요약
 
@@ -1139,3 +1145,26 @@
 [^98]: Prescription patterns and factors influencing the use of Chinese herbal medicine among pregnant women in Taiwan. _BMC Complement Med Ther_. 2020. [DOI 10.1186/s12906-020-03032-0](https://doi.org/10.1186/s12906-020-03032-0)
 
 [^100]: Gui-Shao San Umbilical Moxibustion for Diarrhea-Predominant Irritable Bowel Syndrome With Liver Depression and Spleen Deficiency Pattern: A Randomized Controlled Trial. _Gastroenterol Res Pract_. 2026. [PMID 42157997](https://pubmed.ncbi.nlm.nih.gov/42157997/) [DOI 10.1155/grp/1832176](https://doi.org/10.1155/grp/1832176)
+
+[^101]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간실증(간기울결·간양상항·간화상염)이 교감신경 항진(NE·E 상승)과 연관됨. 정지-자율신경 축의 직접 증거.
+[^102]: \[Effect of method of soothing liver and regulating qi on expression of gastrin and somatostatin in hypothalamus, gastric antrum of functional dyspepsia rats\]. _Zhongguo Zhong yao za zhi_. 2010. [PMID 21355285](https://pubmed.ncbi.nlm.nih.gov/21355285/) — 소간이기법이 가스트린·소마토스타틴 발현 조절. 간-비위 축의 실험 근거.
+[^103]: Circulating MicroRNA Profiles Differ between Qi-Stagnation and Qi-Deficiency in Coronary Heart Disease Patients with Blood Stasis Syndrome. 2014. [PMID 25548593](https://pubmed.ncbi.nlm.nih.gov/25548593/) — 관상동맥질환 혈어증에서 기체군과 기허군 사이 순환 microRNA 프로파일 차이. 기체혈어의 병기적 이질성.
+[^104]: Effects of Japanese traditional medicines on circulating cytokine levels in women with hot flashes. _Menopause_. 2011. [PMID 20647958](https://pubmed.ncbi.nlm.nih.gov/20647958/) — 갱년기 사이토카인 변화. 간-생식 축의 인간 근거.
+[^105]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간기울결→간양상항→간양화풍 전변에 따라 카테콜아민이 순차 증가. 양측 전변 경로의 생리학적 연속성.
+[^106]: \[Epidemiological survey on liver diseases of traditional Chinese medicine\]. _Zhong Xi Yi Jie He Za Zhi_. 1991. [PMID 2065394](https://pubmed.ncbi.nlm.nih.gov/2065394/) — 간울비허가 간병증 최다 변증. 見肝之病, 知肝傳脾 명제의 역학적 지지.
+[^107]: \[Study on correlation between TCM syndrome type and pathological changes of liver tissue in 260 patients with chronic hepatitis B\]. 2007. [PMID 17717920](https://pubmed.ncbi.nlm.nih.gov/17717920/) — 만성 간질환에서 변증이 단일 고정 범주가 아니라 병기 진행에 따라 이동. 육로 동시 검증은 제한적.
+[^108]: \[Observation on effective characteristics of acupuncture combined with medicine on depression of different syndrome types\]. 2009. [PMID 19803234](https://pubmed.ncbi.nlm.nih.gov/19803234/) — 우울 변증별 침-약 병용 효과 차이. 증상-기전 연결의 임상적 이질성.
+[^109]: \[A correlation study between diarrhea-predominant irritable bowel syndrome complicated functional dyspepsia patients of Gan-stagnation Pi-deficiency syndrome and gastrointestinal hormones\]. 2014. [PMID 25509256](https://pubmed.ncbi.nlm.nih.gov/25509256/) — 간울비허형 IBS+기능성소화불량에서 위장호르몬 차이. 정서-위장관 축.
+[^110]: \[Study on the distribution and characteristics of Chinese medicine syndrome in patients with nonalcoholic fatty liver disease\]. 2011. [PMID 22097199](https://pubmed.ncbi.nlm.nih.gov/22097199/) — 비알코올성지방간 928명 변증 분포. 간기울결 계열이 흔함.
+[^111]: Circulating MicroRNA Profiles Differ between Qi-Stagnation and Qi-Deficiency in Coronary Heart Disease Patients with Blood Stasis Syndrome. 2014. [PMID 25548593](https://pubmed.ncbi.nlm.nih.gov/25548593/) — 기체군 vs 기허군 microRNA 차이. 기체혈어 감별의 분자 근거.
+[^112]: \[Exploration on scientific connotation of compatibility of Zuojin Wan based on "disease-syndromes-formulas-medicines" binding mode\]. _Zhongguo Zhong yao za zhi_. 2011. [PMID 22393755](https://pubmed.ncbi.nlm.nih.gov/22393755/) — 좌금환 배오 원리의 과학적 탐구. 질병-변증-처방-약물 결합 모델.
+[^113]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. _J Chin Med Assoc_. 2025. [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕+표준치료 92명 무작위시험.
+[^114]: Effect of Koso-san on globus pharyngeus. _Am J Chin Med_. 1999. [PMID 10467462](https://pubmed.ncbi.nlm.nih.gov/10467462/) — 고소산(반하후박탕 동일 계열) 23명 인후이물감 시험.
+[^115]: Therapeutic approaches for functional Globus Pharyngeus: A systematic review of studies from 2000 to 2025. _Gen Hosp Psychiatry_. 2026. [PMID 42372487](https://pubmed.ncbi.nlm.nih.gov/42372487/) — 기능성 인후이물감 784명 체계적 고찰. 한약 보조 요법 유용.
+[^116]: Proprietary Medicines Containing Bupleurum chinense DC. (Chaihu) for Depression: Network Meta-Analysis and Network Pharmacology Prediction. _Front Pharmacol_. 2022. [DOI 10.3389/fphar.2022.773537](https://doi.org/10.3389/fphar.2022.773537) — 시호 함유 중약제제 우울증 네트워크메타분석(3,263명).
+[^117]: Antidepressant-like effect of the methanolic extract from Bupleurum falcatum in the tail suspension test. _Prog Neuropsychopharmacol Biol Psychiatry_. 2010. [PMID 19932727](https://pubmed.ncbi.nlm.nih.gov/19932727/) — 시호 추출물 항우울 유사 효과(동물).
+[^118]: A comprehensive review of the botany, traditional uses, phytochemistry, pharmacology, processing and quality evaluation of Bupleurum scorzonerifolium Willd. _J Ethnopharmacol_. 2026. [PMID 40865657](https://pubmed.ncbi.nlm.nih.gov/40865657/) — 시호 종합 약리·식물화학·가공 품질평가.
+[^119]: Comparison of Sensory and Motor Innervation Between the Acupoints LR3 and LR8 in Rats. _Front Integr Neurosci_. 2021. [DOI 10.3389/fnint.2021.728747](https://doi.org/10.3389/fnint.2021.728747) — 태충(LR3)·곡천(LR8) 감각·운동 신경 지배 분포 비교(실험).
+[^120]: Shuganjieyu capsule for major depressive disorder (MDD) in adults: a systematic review. _Aging Ment Health_. 2014. [PMID 24697344](https://pubmed.ncbi.nlm.nih.gov/24697344/) — 해간해울캡슐 주요우울장애 체계적 고찰(595명).
+[^121]: Herbal medicine as adjunctive therapy with antidepressants for post-stroke depression: a systematic review and network meta-analysis of randomized controlled trials. _Front Pharmacol_. 2023. [DOI 10.3389/fphar.2023.1180071](https://doi.org/10.3389/fphar.2023.1180071) — 한약-항우울제 병용 뇌졸중 후 우울 네트워크메타분석(4,507명).
+[^122]: \[Treatment of nonalcoholic steatohepatitis by Jianpi Shugan Recipe: a multi-center, randomized, controlled clinical trial\]. 2014. [PMID 24520780](https://pubmed.ncbi.nlm.nih.gov/24520780/) — 건비소간방(健脾疏肝方) 비알코올성지방간염 204명 다기관 무작위시험. 간기울결-대사축 연결.
