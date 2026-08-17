@@ -547,7 +547,7 @@
 
 **침구**: 태충(LR3)·내관(PC6)·신문(HT7)·백회(GV20)·전중(CV17)·간유(BL18). 우울·불안 겸할 때는 삼음교(SP6)·족삼리(ST36) 보법 병용.
 
-> 우울 755명 침 자료 [^22], 우울 60명 침 요인분석 [^23], 갱년기 간울화화형 우울 한약-심리치료 병용 85명 [^24], 아청소년 간기울결·담열조체 사니산합소시흉탕 60명 [^26]이 보고되었다.
+> 우울 755명 침 자료 [^22], 우울 60명 침 요인분석 [^23], 갱년기 간울화화형 우울 한약-심리치료 병용 85명 [^24], 소아청소년 간기울결·담열조체 사니산합소함흉탕(四逆散合小陷胸湯) 60명 [^26]이 보고되었다.
 
 #### ⑤ 예후
 
@@ -686,7 +686,7 @@
 | 변비 간울화화 | **단치소간탕 가 윤장약** | 변비·복창·번조 |
 | 위궤양 간기울결 | **건위식양환** | 변증에 따라 [^55] |
 
-> 기능성소화불량 가미소요산 메타분석 [^47], 가미소요산 20명 시험 [^48], 120명 위운동·불안 시험 [^49]이 보고되었다. 설사형 IBS 간울비허 104명 창지소 캡슐 [^50], 40명 침 시험 [^51], 60명 간울비허 한약+입자뜸 [^52], 계소산 배꼽뜸 [^99]이 있다. 소화기 질환 한약 네트워크 분석 [^59], 변증 체계적 고찰 [^58]도 보고되었다.
+> 기능성소화불량 가미소요산 메타분석 [^47], 가미소요산 20명 시험 [^48], 120명 위운동·불안 시험 [^49]이 보고되었다. 설사형 IBS 간울비허 104명 창지소 캡슐 [^50], 40명 침 시험 [^51], 60명 간울비허 한약+입자뜸 [^52], 계소산 배꼽뜸 [^26]이 있다. 소화기 질환 한약 네트워크 분석 [^59], 변증 체계적 고찰 [^58]도 보고되었다.
 
 **침구**: 족삼리(ST36)·중완(CV12)·태충(LR3)·내관(PC6)·양릉천(GB34)·비유(BL20)·위유(BL21). 설사형에는 천축(ST25)·대거수(SP15)·비유(BL20) 보법. 변비에는 대효(LI4)·곡지(LI11)·지결혈·조해(KI6)·신맥(BL62) 사법.
 
@@ -785,7 +785,7 @@
 
 #### ② 병인병기 — 갑상선·유방·피부 영역
 
-갑상선기능이상은 간기울결과 변증이 교차한다. **하시모토갑상선염 150명 간기울결형** [^74], 갑상선항진증에서 간울화화·간양상항 변증 [^75], 윌슨병 2,969명에서 변증 분포가 연령별로 달랐다 [^75]. 유방증식증 349명 간기울결+충임부조형 [^76], 유방결절 홍침 600명 [^77]이 보고되었다. 여드름 60명 아청소년 간기울결·담열조체 사니산합소시흉탕 [^26]이 보고되었다. 색소침착(기미) 78명 간기울결형 가미소요산 [^78], 34명 통독해울침 [^79]이 있다.
+갑상선기능이상은 간기울결과 변증이 교차한다. **하시모토갑상선염 150명 간기울결형** [^74], 갑상선항진증에서 간울화화·간양상항 변증 [^75], 윌슨병 2,969명에서 변증 분포가 연령별로 달랐다 [^75]. 유방증식증 349명 간기울결+충임부조형 [^76], 유방결절 홍침 600명 [^77]이 보고되었다. 여드름 60명 소아청소년 간기울결·담열조체 사니산합소함흉탕(四逆散合小陷胸湯) [^26]이 보고되었다. 색소침착(기미) 78명 간기울결형 가미소요산 [^78], 34명 통독해울침 [^79]이 있다.
 
 #### ③ 치료 요점
 
@@ -794,7 +794,7 @@
 | 하시모토갑상선염 간기울결형 | **소요산 / 가미소요산** [^74] |
 | 갑상선항진증 간양상항 | **용담사간탕 / 진간식풍탕** |
 | 유방증식증 간기울결+충임부조 | **소요산 가 윤경·통락약** [^76] |
-| 여드름 간기울결·담열 | **사니산합소시흉탕** [^26] |
+| 여드름 간기울결·담열 | **사니산합소함흉탕(四逆散合小陷胸湯)** [^26] |
 | 기미(색소침착) 간기울결 | **가미소요산** [^78] |
 | 항정신병약물 부작용 | **가미소요산·천마·조구등·당귀·작약** [^25] |
 
@@ -998,7 +998,7 @@
 
 [^25]: Effectiveness of the Kampo kami-shoyo-san (TJ-24) for tremor of antipsychotic-induced parkinsonism. _Psychiatry Clin Neurosci_. 2000. [PMID 11043809](https://pubmed.ncbi.nlm.nih.gov/11043809/)
 
-[^26]: Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression. _Front Pediatr_. 2026. [DOI 10.2389/fped.2026.x](https://doi.org/10.2389/fped.2026.x)
+[^26]: Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression with liver qi stagnation and phlegm-heat obstruction syndrome: a randomized controlled trial. _Front Pediatr_. 2026. [PMID 42368280](https://pubmed.ncbi.nlm.nih.gov/42368280/) [DOI 10.3389/fped.2026.1787781](https://doi.org/10.3389/fped.2026.1787781)
 
 [^27]: Identifying Chinese herbal medicine for premenstrual syndrome: implications from a nationwide database. _BMC Complement Altern Med_. 2014. [PMID 24969368](https://pubmed.ncbi.nlm.nih.gov/24969368/)
 
@@ -1137,4 +1137,3 @@
 [^96]: A randomized, double-blind, placebo-controlled study of Dang Gui Buxue Tang on menopausal symptoms. _Climacteric_. 2008. [PMID 18568789](https://pubmed.ncbi.nlm.nih.gov/18568789/)
 [^97]: Difference of the gut microbiota of premature ovarian insufficiency in two traditional Chinese syndromes. _J Tradit Chin Med_. 2025. [PMID 39957167](https://pubmed.ncbi.nlm.nih.gov/39957167/)
 [^98]: Prescription patterns and factors influencing the use of Chinese herbal medicine among pregnant women in Taiwan. _BMC Complement Med Ther_. 2020. [DOI 10.1186/s12906-020-03032-0](https://doi.org/10.1186/s12906-020-03032-0)
-[^99]: Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression with liver qi stagnation and phlegm-heat obstruction syndrome: a randomized controlled trial. _Front Pediatr_. 2026. (사니산합소시흉탕 — 가설 DOI) [DOI 10.1155/2026/x](https://doi.org/10.1155/2026/x)
