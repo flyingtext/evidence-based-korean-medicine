@@ -6,6 +6,7 @@
 
 - [추나의학(推拿醫學, Chuna Manual Therapy)](추나의학(推拿醫學).md)
   - 하위 표제어: 척추 교정 추나 · 관절 추나 · 연부조직·근막 추나 · 소아 추나 · 안면 추나
+- [소아추나(小兒推拿, Pediatric Tuina)](소아추나(小兒推拿, Pediatric Tuina).md)
 
 ## 동음이의 분류
 
