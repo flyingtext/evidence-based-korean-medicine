@@ -222,15 +222,47 @@ curl -s "$BASE/search?q=철결핍빈혈&km=1&human=1&analyzed=1&per_page=100"
 #### 1-4-2. 문장별 각주(출처) 처리
 본문의 근거 기반 서술은 **문장 단위로 각주(footnote)를 달아 출처를 명시**한다.
 - 각 근거 문장(임상적 주장·효능·효과·수치 등)의 끝에 `[^1]`, `[^2]`와 같은 각주 마커를 붙인다.
-- 문서 하단에 해당 각주 정의를 작성한다. 각주 정의에는 해당 근거 논문의 **제목·연구유형·저널·DOI/PMID(링크)**을 기재한다.
+- 문서 하단에 해당 각주 정의를 작성한다. 각주 정의에는 해당 근거 논문의 **제목·연구유형(한국어 라벨)·저널·DOI/PMID(링크)**을 기재한다.
 - 문장이 여러 근거를 인용하면 각주 안에 여러 출처를 나열한다.
 - 상식적인 주장은 자연스럽게 서술하며 별도의 근거 표시를 하지 않는다.
 
-#### 1-4-3. 각주 정의 부연 해석 (강제)
-각주 정의에는 단순 메타데이터(제목·저널·DOI)만 적지 않고, **해당 근거가 본문에서 어떤 의미를 갖는지 한 줄로 부연 해석**을 덧붙인다. 기준 문서의 예시:
+#### 1-4-2-1. 각주 정의 형식 (강제)
+각주 정의는 아래 **고정 포맷**을 따른다. 항목 순서·구분 기호(`.` `_` `[ ]` `—`)를 임의로 바꾸지 않는다.
 
 ```
-[^1]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간실증(간기울결·간양상항·간화상염)이 교감신경 항진(NE·E 상승)과 연관됨. 정지-자율신경 축의 직접 증거.
+[^n]: <논문 제목>. _<저널명>_. <출판일(YYYY-MM-DD)>. [<연구종류 한국어 라벨>] <DOI/PMID 링크> — <근거 의미 부연 해석 한 줄>.
+```
+
+**연구종류 한국어 라벨 (강제)**: API의 `research_category` 영문 값을 그대로 쓰지 않고, 아래 한국어 라벨로 변환하여 `[ ]` 안에 표기한다.
+
+| `research_category` (영문) | 한국어 라벨 |
+|---|---|
+| `meta_analysis` | 메타분석 |
+| `systematic_review` | 체계적 고찰 |
+| `clinical_trial` | 임상시험 |
+| `observational_study` | 관찰연구 |
+| `case_report` | 증례 보고 |
+| `experimental_study` | 실험연구 |
+| `review` | 문헌 고찰 |
+| `guideline` | 임상진료지침 |
+| `other` | 기타 |
+
+**링크 처리**: DOI·PMID가 있으면 각각 링크로 표기한다. 둘 다 있으면 순서대로 모두 기재.
+- DOI: `[DOI <DOI>](https://doi.org/<DOI>)`
+- PMID: `[PMID <PMID>](https://pubmed.ncbi.nlm.nih.gov/<PMID>/)`
+
+**예시**:
+```
+[^1]: The Effectiveness and Safety of Danggui Buxue Decoction for Iron Deficiency Anemia: A Systematic Review and Meta-Analysis. _The Journal of Internal Korean Medicine_. 2024-09-30. [메타분석] [DOI 10.22246/jikm.2024.45.4.549](https://doi.org/10.22246/jikm.2024.45.4.549) [PMID 10.22246/jikm.2024.45.4.549](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2024.45.4.549/) — 당귀보혈탕이 철결핍빈혈에서 통상치료 병용 시 적혈구·헤모글로빈·페리틴·유효율 개선, 이상반응 감소. 혈허 보조 한약의 대표적 임상 근거.
+```
+
+**교과서적 근거 표기**: 한의과대학 교과서·원전(『내경』·『상한론』·『금궤』 등)에 표준적으로 수록된 이론적 내용은 각주를 달지 않고 본문에 `[교과서적 근거]` 표기를 붙인다. 이 표기는 각주 마커 `[^n]` 형식이 아니며, 각주 정의를 작성하지 않는다. 교과서적 이론 수준의 내용에 근거 등급(연구종류 라벨)을 매기지 않는다(§1-6 참조).
+
+#### 1-4-3. 각주 정의 부연 해석 (강제)
+각주 정의에는 단순 메타데이터(제목·저널·DOI)만 적지 않고, **해당 근거가 본문에서 어떤 의미를 갖는지 한 줄로 부연 해석**을 덧붙인다. 부연 해석은 각주 정의의 맨 끝에 `—` 로 시작하는 한 줄 문장으로 작성한다(§1-4-2-1 형식 참조). 기준 문서의 예시:
+
+```
+[^1]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [관찰연구] [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간실증(간기울결·간양상항·간화상염)이 교감신경 항진(NE·E 상승)과 연관됨. 정지-자율신경 축의 직접 증거.
 ```
 
 #### 1-4-4. 각주 정의로 출처 정보 통일 (강제)
