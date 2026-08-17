@@ -966,8 +966,6 @@
 
 [^9]: \[Analysis of syndrome discipline of generalized anxiety disorder using data mining techniques\]. 2012. [PMID 22979928](https://pubmed.ncbi.nlm.nih.gov/22979928/)
 
-#### 신경내분비·생리지표
-
 [^10]: Plasma L-ENK, AVP, ANP and serum gastrin in patients with syndrome of Liver-Qi-stagnation. _World J Gastroenterol_. 1999. [PMID 11819389](https://pubmed.ncbi.nlm.nih.gov/11819389/)
 
 [^11]: The correlation between neurosteroids and neurotransmitters with liver yang rising and liver qi stagnation types of premenstrual syndrome. _Gynecol Endocrinol_. 2014. [PMID 25211539](https://pubmed.ncbi.nlm.nih.gov/25211539/)
@@ -977,8 +975,6 @@
 [^13]: Effects of chai hu (radix bupleuri) containing formulation on plasma beta-endorphin, epinephrine and dopamine on patients. _Am J Chin Med_. 2005. [PMID 16265986](https://pubmed.ncbi.nlm.nih.gov/16265986/)
 
 [^14]: \[Relation among syndrome of spleen deficiency and stagnation of liver-qi and electrogastrogram, gastric mucosal pathology and pulse-cardiovascular function in chronic gastric diseases\]. 1992. [PMID 1298464](https://pubmed.ncbi.nlm.nih.gov/1298464/)
-
-#### 정신·정서 질환
 
 [^15]: Efficacy and safety of Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis. _Front Pharmacol_. 2024. [DOI 10.3389/fphar.2024.1295564](https://doi.org/10.3389/fphar.2024.1295564)
 
@@ -1003,8 +999,6 @@
 [^25]: Effectiveness of the Kampo kami-shoyo-san (TJ-24) for tremor of antipsychotic-induced parkinsonism. _Psychiatry Clin Neurosci_. 2000. [PMID 11043809](https://pubmed.ncbi.nlm.nih.gov/11043809/)
 
 [^26]: Efficacy and safety of sini powder combined with Xiaoxianxiong decoction for adolescent depression. _Front Pediatr_. 2026. [DOI 10.2389/fped.2026.x](https://doi.org/10.2389/fped.2026.x)
-
-#### 부인과
 
 [^27]: Identifying Chinese herbal medicine for premenstrual syndrome: implications from a nationwide database. _BMC Complement Altern Med_. 2014. [PMID 24969368](https://pubmed.ncbi.nlm.nih.gov/24969368/)
 
@@ -1046,8 +1040,6 @@
 
 [^46]: \[Effects of jingqianshu granule on expression of 5-HT(1A)R of PMS model rats with liver-qi stagnation\]. 2011. [PMID 22368865](https://pubmed.ncbi.nlm.nih.gov/22368865/)
 
-#### 소화기
-
 [^47]: Chinese herbal medicine modified xiaoyao san for functional dyspepsia: meta-analysis of RCTs. _J Gastroenterol Hepatol_. 2009. [PMID 19702899](https://pubmed.ncbi.nlm.nih.gov/19702899/)
 
 [^48]: Study on the effect of Jia-Wei-Xiao-Yao-San decoction on patients with functional dyspepsia. _Phytother Res_. 2010. [PMID 19610028](https://pubmed.ncbi.nlm.nih.gov/19610028/)
@@ -1080,8 +1072,6 @@
 
 [^62]: \[Mechanism of electroacupuncture for attenuating duodenal injury in rats with functional dyspepsia via Keap1/Nrf2/GPX4 pathway-mediated ferroptosis\]. 2026. [PMID 41987446](https://pubmed.ncbi.nlm.nih.gov/41987446/)
 
-#### 통증·신경
-
 [^63]: Changes in regional cerebral blood flow with Chaihu-Shugan-San in the treatment of major depression. _Pharmacogn Mag_. 2014. [PMID 25422553](https://pubmed.ncbi.nlm.nih.gov/25422553/)
 
 [^64]: Identifying Chinese Medicine Patterns of Tension-Type Headache and Understanding Its Subgroups. _Evid Based Complement Alternat Med_. 2021. [DOI 10.1155/2021/5544571](https://doi.org/10.1155/2021/5544571)
@@ -1104,8 +1094,6 @@
 
 [^73]: Study of event-related potentials to identify differences in verbal working memory in patients with mild cognitive impairment with different TCM syndromes. 2026. [PMID 41736437](https://pubmed.ncbi.nlm.nih.gov/41736437/)
 
-#### 기타 질환
-
 [^74]: \[Acupoint application for Hashimoto's thyroiditis with liver-qi stagnation: RCT\]. 2024. [PMID 38764100](https://pubmed.ncbi.nlm.nih.gov/38764100/)
 
 [^75]: \[Distribution characteristics of TCM syndromes in patients with hepatolenticular degeneration across all age groups\]. 2026. [PMID 41974580](https://pubmed.ncbi.nlm.nih.gov/41974580/)
@@ -1117,8 +1105,6 @@
 [^78]: The clinical efficacy of modified xiaoyaosan in the treatment of liver Qi stagnation-type chloasma. _Medicine_. 2025. [DOI 10.1097/md.0000000000045517](https://doi.org/10.1097/md.0000000000045517)
 
 [^79]: \[Tongdu Jieyu acupuncture combined with local surrounding needling for 34 cases of melasma with liver qi stagnation\]. 2026. [PMID 41839596](https://pubmed.ncbi.nlm.nih.gov/41839596/)
-
-#### 본초·약동학·조제
 
 [^80]: \[Pharmacokinetic characteristics of ferulic acid in patients with different syndromes of deficiency of spleen qi, stagnation of liver qi and spleen deficiency, and excess of stomach heat\]. 2006. [PMID 16529690](https://pubmed.ncbi.nlm.nih.gov/16529690/)
 
@@ -1133,8 +1119,6 @@
 [^85]: Mechanistic insights into the antidepressant effects of the Angelica sinensis and Ligusticum chuanxiong Herb Pair. 2026. [PMID 41780614](https://pubmed.ncbi.nlm.nih.gov/41780614/)
 
 [^86]: Interaction of carbamazepine with herbs, dietary supplements, and food: a systematic review. 2014. [PMID 24023584](https://pubmed.ncbi.nlm.nih.gov/24023584/)
-
-#### 만성 간질환·오믹스
 
 [^87]: Analysis of plasma proteome from cases of the different TCM syndromes in patients with chronic hepatitis B. _J Pharm Biomed Anal_. 2012. [PMID 22030074](https://pubmed.ncbi.nlm.nih.gov/22030074/)
 
