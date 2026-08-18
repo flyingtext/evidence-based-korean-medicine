@@ -1012,7 +1012,9 @@
 소양인은 외향·자극추구·분노·흥분 표출 경향이 있어, 화병·불안·우울 위험 인자로 확인되었습니다. 분노·흥분을 적절히 조절하고, 명상·기공·호흡법·운동으로 스트레스를 관리하는 것이 권장됩니다. 수면 관리가 정신건강에 핵심이며, 정신과 진단이 있으면 정신과 주치의 관리를 유지하면서 한의학 치료를 병용하는 것이 원칙입니다. 소양인의 높은 양생 수준은 보호 요인이 될 수 있습니다.[^24][^37][^51][^113]
 
 **고전 인용 출처**: 『東醫壽世保元』 「四端論」, 『靈樞』 通天篇, 『易經』 四象說
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준[^1]: Military official Lee-Jema and his Bodies: A Bow-shooting Body. _The Korean Association for Philosophy of Medicine_. 2025-06-30. [문헌 고찰] [DOI 10.54685/phiom.2025.39.27](https://doi.org/10.54685/phiom.2025.39.27) [PMID 10.54685/phiom.2025.39.27](https://pubmed.ncbi.nlm.nih.gov/10.54685/phiom.2025.39.27/) — 이제마는 궁술을 통해 신체를 네 개의 구역인 사초(四焦)로 나누고, 전후의 균형과 연결성을 통한 기(氣)의 흐름 및 힘의 전달 원리를 파악하였으며, 이러한 신체적 통찰을 사상체질의학의 이론적 기초로 적용하였다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준
+
+[^1]: Military official Lee-Jema and his Bodies: A Bow-shooting Body. _The Korean Association for Philosophy of Medicine_. 2025-06-30. [문헌 고찰] [DOI 10.54685/phiom.2025.39.27](https://doi.org/10.54685/phiom.2025.39.27) [PMID 10.54685/phiom.2025.39.27](https://pubmed.ncbi.nlm.nih.gov/10.54685/phiom.2025.39.27/) — 이제마는 궁술을 통해 신체를 네 개의 구역인 사초(四焦)로 나누고, 전후의 균형과 연결성을 통한 기(氣)의 흐름 및 힘의 전달 원리를 파악하였으며, 이러한 신체적 통찰을 사상체질의학의 이론적 기초로 적용하였다.
 
 [^2]: [The philosophy & medicinal thought of Dong Mu Lee Jae-Ma].. _Ui sahak_. 1994. [문헌 고찰] [PMID 11618942](https://pubmed.ncbi.nlm.nih.gov/11618942/) — 이제마는 의사뿐만 아니라 철학자였으며, 그의 사상은 유교 경학설에 기반하고 있으나 송나라 성리학과는 다른 독자적인 개념을 가지고 있었고, 우주 구성의 네 가지 요소에 대한 관점 또한 주역(I Ching)의 변화 발전적 의미보다는 구성적 요소에 집중한 특징을 보인다.
 
