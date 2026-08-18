@@ -112,7 +112,7 @@
 
 **생리·호르몬 증상**
 - 월경 기간 차이(태음인·소음인 간 유의), 생리통[^39]
-- 불현성 갑상선 기능 저하증(SCH)에서 소음인은 FT4 낮음, 료도라쿠 점수 낮음[^40]
+- 불현성 갑상선 기능 저하증(SCH)에서 소음인은 FT4 낮음, 양도락 점수 낮음[^40]
 
 #### 5-2. 설맥(舌脈)
 
@@ -255,7 +255,7 @@
 
 - **비만**: FTO 유전자의 비만 위험 변이(rs7193144)는 소음인 체질과 유의미한 역상관관계를 보였다 — 소음인이 비만 위험이 낮다는 유전학적 근거.[^25]
 - **심혈관·대사**: APOA5 -1131T>C 다형성의 효과가 체질별로 달랐다.[^53] PPARγ Pro12Ala 다형성과 사상체질의 연관성이 보고되었다.[^54]
-- **갑상선**: 불현성 갑상선기능저하증(SCH) 환자에서 소음인은 FT4 수치·료도라쿠 점수가 유의하게 낮았다 — 소음인-갑상선 기능 연관.[^40]
+- **갑상선**: 불현성 갑상선기능저하증(SCH) 환자에서 소음인은 FT4 수치·양도락 점수가 유의하게 낮았다 — 소음인-갑상선 기능 연관.[^40]
 - **뇌혈관**: 멘델리안 랜덤화를 활용한 뇌졸중 위험-체질 통합 분석이 수행되었다.[^55]
 
 #### 7-10. 소음인 진단의 객관화 — 체형·안면·음성·머신러닝
@@ -588,7 +588,7 @@
 #### ③ 병태생리
 
 - 1,204명 연구에서 소음인과 소양인은 태음인에 비해 근감소증 위험도가 각각 9.22배·2.90배 유의하게 높았으며, **소음인에서 가장 높은 유병률(44.7%)**을 보였다. 이는 소음인의 비허·기혈 허·영양 부족이 근감소증으로 발현됨을 시사한다.[^37]
-- 1,073명 연구에서 불현성 갑상선 기능 저하증(SCH) 환자 중 소음인은 FT4 수치·료도라쿠 점수가 유의하게 낮았다 — 소음인-갑상선 기능 연관이 냉증·빈혈과 연관될 가능성.[^40]
+- 1,073명 연구에서 불현성 갑상선 기능 저하증(SCH) 환자 중 소음인은 FT4 수치·양도락 점수가 유의하게 낮았다 — 소음인-갑상선 기능 연관이 냉증·빈혈과 연관될 가능성.[^40]
 - 소음인 하지 냉증·폐쇄성 혈전혈관염(Buerger's disease) 증례에서 침·뜸·소경활혈탕·광예부자이중탕 가감방으로 하지 온도 상승·통증 감소가 보고되었다.[^33]
 - 소음인 자율신경 실조·섬유근육통·당뇨 동반 환자에서 대건중탕·소국건비환·침·뜸으로 흉통·복통·쇠약감이 개선된 증례가 있다.[^38]
 
@@ -807,7 +807,7 @@
 | **한열 변증** | 소음인-열형(SE-Heat) 여부 | 열형에서 대사증후군 위험 증가 가능[^35] |
 | **생활습관** | 식사량·운동량·스트레스 관리 | 소음인 낮은 식욕·적은 식사량·스트레스-IBS 경로[^20][^4] |
 | **유전** | 질환 감수성 유전자 다형성 | FTO·APOA5·PPARγ·RHOA·MAOA/MAOB 등[^25][^53][^54][^9] |
-| **갑상선** | 불현성 갑상선기능저하증 | 소음인 SCH 환자 FT4·료도라쿠 낮음[^40] |
+| **갑상선** | 불현성 갑상선기능저하증 | 소음인 SCH 환자 FT4·양도락 낮음[^40] |
 | **암** | 암 발생 위험(남성 소음인) | 소음인 남성 암 발생률 2.8배 (최고)[^34] |
 
 ### 21. 회복 경과
@@ -872,7 +872,7 @@
 | **근골** | 근육량(DEXA·BIA)·골밀도(DEXA)·파쇄력·악력·SPPB |
 | **혈액·영양** | 혈색소·철·페리틴·비타민 B12·엽산·총단백질·알부민 |
 | **대사** | BMI·혈압·공복혈당·HbA1c·총콜레스테롤·LDL-C·HDL-C·TG |
-| **갑상선** | TSH·FT4·T3·료도라쿠(필요 시)[^40] |
+| **갑상선** | TSH·FT4·T3·양도락(필요 시)[^40] |
 | **수면** | PSQI·수면다원검사(필요 시) |
 | **자율신경** | 심박수 변이도(HRV)[^49]·자율신경 기능 검사(ANF)[^38] |
 | **호흡기** | 폐기능 검사·비강 내시경·알레르기 검사 |
@@ -968,7 +968,7 @@
 [^37]: Association of Sasang Constitutional Type with Sarcopenia. _Evidence-based complementary and alternative medicine : eCAM_. 2015. 1204명 [관찰연구] [DOI 10.1155/2015/651090](https://doi.org/10.1155/2015/651090) [PMID 26649062](https://pubmed.ncbi.nlm.nih.gov/26649062/) — 사상체질에 따라 근감소증의 발생 위험도가 다르며, 특히 소음인(SE)과 소양인(SY)이 태음인(TE)에 비해 근감소증 유병률이 유의하게 높음을 시사한다. 따라서 임상에서는 소음인과 소양인 환자를 대상으로 근육량 유지 및 근감소증 예방을 위한 보다 적극적인 관리와 맞춤형 중재 전략이 필요하다.
 [^38]: A Case Report of Autonomic Dysfunction and Fibromyalgia with Diabetes: Korean Medicine Treatment for Chest Pain, Abdominal Pain, and Physical Exhaustion in a So-eum Type Patient. _The Journal of Internal Korean Medicine_. 2024-10-30. 1명 [증례 보고] [DOI 10.22246/jikm.2024.45.5.1054](https://doi.org/10.22246/jikm.2024.45.5.1054) [PMID 10.22246/jikm.2024.45.5.1054](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2024.45.5.1054/) — 당뇨를 동반한 자율신경실조증 및 섬유근육통 환자(소음인)에게 침, 뜸 및 대건중탕, 소국건비환 등의 한방 치료를 적용하여 흉통, 복통, 전신 쇠약감을 유의하게 개선하였다. 이는 복합적인 만성 통증과 자율신경 기능 저하를 보이는 환자에게 사상체질에 기반한 한의학적 통합 치료가 유용한 대안이 될 수 있음을 시사한다.
 [^39]: Menstrual cycle and Yin-Yang in healthy nursing college students. _Complementary therapies in clinical practice_. 2005-11. 565명 [관찰연구] [DOI 10.1016/j.ctcp.2005.05.006](https://doi.org/10.1016/j.ctcp.2005.05.006) [PMID 16290898](https://pubmed.ncbi.nlm.nih.gov/16290898/) — 사상체질에 따라 체질량지수(BMI)와 월경 기간에 유의미한 차이가 있음이 확인되었으며, 특히 태음인(太陰人)의 BMI가 타 체질보다 높게 나타났다. 다만 월경 주기, 패턴, 혈액량 등 전반적인 월경 특성과 음양(陰陽) 체질 간의 상관관계는 전통적 이론과 일치하지 않는 결과가 도출되었다. 임상적으로 체질별 신체적 특성과 생리적 차이를 고려한 맞춤형 건강 관리가 필요함을 시사한다.
-[^40]: Association between subclinical hypothyroidism and Sasang constitution in a Korean population. _Experimental and therapeutic medicine_. 2012-04. 1073명 [관찰연구] [DOI 10.3892/etm.2012.461](https://doi.org/10.3892/etm.2012.461) [PMID 22969962](https://pubmed.ncbi.nlm.nih.gov/22969962/) — 불현성 갑상선 기능 저하증(SCH) 환자는 체질별로 서로 다른 생리학적 특성을 보이며, 특히 소음인(Soeum-type) SCH 환자에서 유리 티록신(FT4) 수치가 유의하게 낮고 료도라쿠 점수가 낮은 경향이 있다. 반면 태음인(Taeeum-type) SCH 환자는 료도라쿠 점수가 유의하게 높게 나타났다. 따라서 사상체질 진단과 료도라쿠 검사를 불현성 갑상선 기능 저하증의 보조적인 진단...
+[^40]: Association between subclinical hypothyroidism and Sasang constitution in a Korean population. _Experimental and therapeutic medicine_. 2012-04. 1073명 [관찰연구] [DOI 10.3892/etm.2012.461](https://doi.org/10.3892/etm.2012.461) [PMID 22969962](https://pubmed.ncbi.nlm.nih.gov/22969962/) — 불현성 갑상선 기능 저하증(SCH) 환자는 체질별로 서로 다른 생리학적 특성을 보이며, 특히 소음인(Soeum-type) SCH 환자에서 유리 티록신(FT4) 수치가 유의하게 낮고 양도락 점수가 낮은 경향이 있다. 반면 태음인(Taeeum-type) SCH 환자는 양도락 점수가 유의하게 높게 나타났다. 따라서 사상체질 진단과 양도락 검사를 불현성 갑상선 기능 저하증의 보조적인 진단...
 [^41]: Prevalence of and associations between metabolic syndrome and the constitutions defined by Korean Eight Constitution Medicine. _Medicine_. 2020-02. 245명 [관찰연구] [DOI 10.1097/md.0000000000019074](https://doi.org/10.1097/md.0000000000019074) [PMID 10.1097/md.0000000000019074](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000019074/) — 8체질 의학 분류 중 HEP(간주태양체질)와 CHO(담주태음체질) 체질이 다른 체질에 비해 대사증후군 발생 위험이 유의하게 높음을 시사한다. 따라서 임상에서 해당 체질로 진단된 환자에게는 대사증후군 예방 및 관리를 위한 집중적인 생활 습관 교정이나 맞춤형 관리가 필요할 것으로 판단된다.
 [^42]: Constitution-specific features of perspiration and skin visco-elasticity in SCM. _BMC complementary and alternative medicine_. 2014-01-15. 111명 [관찰연구] [DOI 10.1186/1472-6882-14-24](https://doi.org/10.1186/1472-6882-14-24) [PMID 24422750](https://pubmed.ncbi.nlm.nih.gov/24422750/) — 사상체질(SCM)에 따라 피부의 점탄성(visco-elasticity)과 발한(perspiration) 특성에 유의미한 차이가 있음이 확인되었다. 특히 소음인(SE)은 태음인(TE)에 비해 전완부의 점탄성이 낮고 탄성 이력(elasticity hysteresis)이 높으며, 태음인은 이마의 발한량이 더 많은 경향을 보인다. 이러한 객관적인 피부 특성 측정치는 향후 사상체질 진단 및 체질...
 [^43]: Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and 1H NMR-Based Metabolomics Study. _Evidence-Based Complementary and Alternative Medicine_. 2019-02-03. [실험연구] [DOI 10.1155/2019/8783496](https://doi.org/10.1155/2019/8783496) [PMID 10.1155/2019/8783496](https://pubmed.ncbi.nlm.nih.gov/10.1155/2019/8783496/) — 본 연구는 대사체학 분석을 통해 사상체질을 객관적으로 구분할 수 있는 혈청 및 소변 내 대사체 마커를 탐색하였으며, 특히 태음인에서 젖산(lactate), 글루탐산(glutamate), 중성지방(triglyceride) 등이 높게 나타남을 확인하였다. 이러한 결과는 주관적인 체질 진단을 보완할 수 있는 객관적인 생물학적 지표로서 대사체 분석의 활용 가능성을 제시하며, 향후 맞춤형 정밀 ...
