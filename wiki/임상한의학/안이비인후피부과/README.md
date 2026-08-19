@@ -46,6 +46,8 @@
 
 - [비염(鼻炎, Rhinitis)](비염(鼻炎, Rhinitis).md) (KCD-8: J00/J06/J31.0)
   - 하위 표제어: 급성 비염(J00/J06) · 만성 비염(J31.0) · 비후성 비염(J31.0) · 혈관운동성·비알레르기성 비염(J31.0) · 위축성 비염(비고 鼻藁, J31.0) · 감염성 비염(J00/J06) · 소아 비염(J00/J31.0) · 임신·노인·면역저하 비염(J31.0)
+- [레이저 피부 치료(Laser Skin Therapy)](레이저 피부 치료(Laser Skin Therapy).md)
+  - 하위 표제어: 저출력 레이저 치료(LLLT) · 광생물조절(PBM) · 레이저침(Laser Acupuncture) · 분획 광열융해술(Fractional Photothermolysis) · 광역학 치료(PDT) · 색소 레이저(Q-switched/Pico) · 한의 외치·본초 추출물 병용 요법
 
 ## 동음이의 분류
 
