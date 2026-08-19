@@ -1,153 +1,912 @@
-# 다낭성 난소 증후군 (多囊性卵巣症候群, Polycystic Ovary Syndrome)
+# 다낭성 난소 증후군 (多囊性卵巢症候群, Polycystic Ovary Syndrome)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-19  
 > KCD-8: E28.2 (다낭성 난소 증후군, Polycystic ovarian syndrome)
 
-## 개요
+---
 
-다낭성 난소 증후군(多囊性卵巣症候群, polycystic ovary syndrome, PCOS)은 가임기 여성에서 가장 흔한 내분비 질환으로, 희발월경·무월경, 고안드로겐혈증(高Androgen血症), 다낭성 난소 형태를 특징으로 한다. KCD-8 기준 **E28.2(다낭성 난소 증후군)**에 해당한다.[^1] PCOS는 배란 장애로 인한 불임, 인슐린 저항성·비만·이상지질혈증 등 대사 이상, 그리고 우울·불안 등 정서적 문제를 동반하여 삶의 질에 큰 영향을 미친다.[^2][^3] 한의학에서는 PCOS를 주로 신허(腎虛)·담음(痰飮)·어혈(瘀血)·간울(肝鬱) 등으로 변증(辨證)하며, 한약·침(鍼)·뜸(灸)·매선(埋線)·이침(耳鍼)·지압(指壓)·부항(附缸) 등 다양한 중재를 적용한다.[^4][^5] 본 문서는 근거기반 한의학 관점에서 PCOS에 대한 한의 중재의 임상 근거를 정리한다.
+## 제1편 개요 및 역학·진단 체계
 
-## 하위 표제어(분류)
+### 1. 개요 및 정의
 
-PCOS는 표현형·동반 대사 상태·연령에 따라 여러 하위 유형으로 세분된다. 각 유형은 진단·치료 접근이 다르므로 임상에서 구분하여 접근한다.
+#### 1-1. 질환의 정의와 KCD-8 질병 분류
+다낭성 난소 증후군(多囊性卵巢症候群, Polycystic Ovary Syndrome, PCOS)은 가임기 여성에서 가장 높은 빈도로 발생하는 복합 신경내분비·대사 증후군이다. 만성 무배란(無排卵) 또는 희발배란(稀發排卵)으로 인한 생리불순, 임상적 혹은 생화학적 고안드로겐혈증(高Androgen血症), 그리고 골반 초음파상 다낭성 난소 형태(Polycystic Ovarian Morphology, PCOM)를 3대 축으로 규정한다. 한국표준질병사인분류(KCD-8) 상 **E28.2(다낭성 난소 증후군)**에 단독 배속되며, 동반되는 불임(N97), 비만(E66), 제2형 당뇨병(E11), 인슐린 저항성(E88.8) 등과 복합 진단된다.
 
-- **비만형 PCOS (obese PCOS, E28.2)**: BMI 25 이상으로 비만을 동반한 유형. 인슐린 저항성·이상지질혈증이 두드러지며, 담음(痰飮) 변증과 밀접하다.[^6][^7]
-- **비비만형 PCOS (lean PCOS, E28.2)**: 정상 체중이면서도 내분비·배란 장애를 보이는 유형. 대사 이상이 상대적으로 경미하다.
-- **PCOS-IR (인슐린 저항성 동반, E28.2)**: 인슐린 저항성을 동반한 유형. 복령(茯苓)·천궁(川芎) 중심의 약재 조합이 활용된다.[^8]
-- **청소년 PCOS (adolescent PCOS, E28.2)**: 사춘기 여성에서 발생하는 유형. 진단·치료 접근이 성인과 달라 별도로 다룬다.[^9]
-- **PCOS 관련 불임 (PCOS-associated infertility, E28.2+N97)**: 배란 장애로 인한 불임. 보조생식술(ART) 병행이 흔하다.[^10][^11]
+한의학에서는 단일 질환명으로 국한되지 않고, 월경후기(月經後期), 월경과소(月經過少), 폐경(閉經, 무월경), 불임(不姙), 징가(癥瘕), 비만(肥滿), 다모(多毛)의 범주에서 포괄적으로 인식되어 왔다[교과서적 근거]. 본 질환은 단순한 생식샘의 국소 병변이 아니라 시상하부-뇌하수체-난소(HPO) 축의 기능 실조, 전신 인슐린 신호전달 이상, 난소 과립막세포 미토콘드리아 장애, 그리고 만성 저등급 염증이 얽혀 있는 다계통 질환이다.
 
-## 병인 병기 (病因病機)
+#### 1-2. 역학 및 임상적 다면성
+전 세계 가임기 여성의 6%~20%가 이환되어 있으며, 적용하는 진단 기준(NIH, Rotterdam, AE-PCOS)에 따라 유병률의 차이를 보인다[^1]. 동아시아 여성의 경우 서구 여성에 비해 평균 체질량지수(BMI)는 상대적으로 낮으나, 중심성 비만 및 췌장 베타세포 보상 기능 저하로 인해 정상 체중에서도 인슐린 저항성과 고안드로겐혈증이 빈번하게 동반되는 독특한 임상 양상을 보인다[^1].
 
-한의학에서는 PCOS를 주로 신(腎)·비(脾)·간(肝)의 기능 실조와 담음(痰飮)·어혈(瘀血)의 정체로 본다. 신허(腎虛)는 천계(天癸)의 충실과 배란을 주관하므로 신허가 되면 무배란·월경 불순이 발생하고, 비허(脾虛)는 운화(運化) 실조로 담음이 생겨 비만·인슐린 저항성을 유발한다. 데이터 마이닝 연구에서 '담음(痰飮, phlegm-dampness)'이 PCOS·PCOS-IR·IR 세 질환 모두의 공통 병리 요인이자 PCOS 진행의 핵심 동력으로 확인되었다.[^8] 비만형 PCOS는 담음을 핵심 병리로 보고 소간(疏肝)·건비(健脾)·보신(補腎)하는 치료 전략이 유효하다.[^6] 신허혈어(腎虛血瘀) 유형은 보신화어통락(補腎化瘀通絡) 방법으로 접근한다.[^12]
+임상적 파급 효과는 생애 전 주기에 걸쳐 나타난다:
+1. **생식계 이상**: 무배란성 불임의 70% 이상을 차지하며, 임신 후에도 자연유산, 임신성 당뇨(GDM), 임신중독증의 위험이 정상 대조군에 비해 유의하게 높다.
+2. **대사계 이상**: 환자의 50~70%에서 인슐린 저항성이 관찰되며, 대사증후군, 비알코올성 지방간(MASLD), 제2형 당뇨병의 조기 발병 위험이 3~5배 증가한다.
+3. **심혈관계 이상**: 이상지질혈증, 혈관내피세포 기능부전, 고혈압의 위험이 누적된다.
+4. **신경정신계 이상**: 고안드로겐혈증과 외모 변화(다모, 여드름, 탈모), 만성 염증으로 인해 불안장애, 우울증, 섭식장애의 유병률이 매우 높으며 삶의 질(HRQoL)이 심각하게 손상된다.
 
-## 병태생리
+---
 
-서양의학적으로 PCOS는 시상하부-뇌하수체-난소(HPO) 축의 기능 이상, 고안드로겐혈증, 인슐린 저항성·고인슐린혈증, 만성 저등급 염증 등이 복합적으로 관여한다. 상지(桑枝) 알칼로이드(SZ-A)는 HPO 축 기능을 조절하여 안드로겐 수치를 낮추고 월경 주기를 개선하며, 고안드로겐혈증으로 인한 난소 과립세포의 세포사멸을 억제한다.[^13] PCOS 환자에서 장내 미생물 불균형(dysbiosis)이 대사 이상과 연관되며, 침 치료가 장내 미생물 구성을 개선하고 포도당·지질 대사를 조절한다.[^14] BMI와 중성지방-포도당 지수(TyG)의 상호작용이 PCOS 환자의 임신 손실 위험을 유의하게 높인다.[^15]
+### 2. 양방 진단 기준 및 하위 표현형 (Phenotypes)
 
-## 진단(診斷) 및 감별 진단
+#### 2-1. 진단 기준의 변천과 최신 국제 가이드라인
+PCOS의 진단 기준은 지난 수십 년간 지속적으로 개정되었으며, 현재는 2003년 로테르담(Rotterdam) 합의 기준을 기본 골격으로 하되 2018/2023 국제 근거기반 임상진료지침을 적용한다[^1].
 
-### 진단 기준
+| 진단 기준 | 제정 기구 및 연도 | 필수 진단 항목 (3개 중 충족 요건) | 특징 및 의의 |
+|---|---|---|---|
+| **NIH 기준** | NIH (1990) | ① 배란장애 + ② 임상적/생화학적 고안드로겐혈증 (2개 모두 필수) | 가장 보수적 기준, 중증 대사 이상군 중심 |
+| **Rotterdam 합의** | ESHRE/ASRM (2003) | ① 배란장애, ② 고안드로겐혈증, ③ 다낭성 난소 형태(초음파) 중 **2개 이상** | 세계 표준, 4가지 표현형으로 세분화 |
+| **AE-PCOS 기준** | Androgen Excess Society (2006) | ② 고안드로겐혈증 필수 + (① 배란장애 또는 ③ 다낭성 난소 형태 중 1개) | 안드로겐 과다를 핵심 병리로 강조 |
+| **2023 국제 가이드라인** | Monash / ESHRE / ASRM (2023) | 로테르담 기준 유지, **성인에서 초음파 대신 혈청 AMH 대체 인정**, 청소년 기준 엄격화 | 정밀의학 및 비침습 진단 지향 |
 
-- PCOS는 2003년 로테르담(Rotterdam) 기준에 따라 ① 희발월경·무월경(배란 장애), ② 임상적·생화학적 고안드로겐혈증, ③ 초음파상 다낭성 난소 형태 중 2가지 이상을 충족할 때 진단한다. KCD-8 기준 **E28.2**에 해당한다. 근거 미확인(교과서적 임상 진단 이론).
-- 청소년 PCOS는 성인과 다른 진단 기준이 필요하며, 동아시아 전통의학 중재의 효과·안전성을 비교하는 체계적 고찰이 진행 중이다.[^9]
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
-### 객관적 평가 도구
+#### 2-2. 4대 임상 표현형 (Phenotypes A, B, C, D)
+로테르담 기준에 따라 PCOS는 다음 4가지 아형(Phenotypes)으로 분류되며, 각 표현형에 따라 대사 위험도와 한의학적 변증 양상이 뚜렷하게 구별된다[^1][^2]:
 
-- **호르몬 검사**: 혈중 테스토스테론·LH/FSH 비율·성호르몬결합글로불린(SHBG)·인슐린·HOMA-IR 등을 측정하여 고안드로겐혈증·인슐린 저항성을 평가한다.[^16][^17]
-- **대사 지표**: 공복 혈당(FPG)·혈중 지질(TG, LDL)·BMI·허리-엉덩이 비율(WHR)을 평가한다.[^7][^18]
-- **초음파 검사**: 난소 부피·낭종 크기·난포 수를 측정하여 다낭성 난소 형태를 확인한다.[^19]
-- **삶의 질·정서 평가**: 우울·불안 척도와 삶의 질(HRQoL) 도구를 활용한다.[^3][^20]
+1. **Phenotype A (Full / Classic PCOS)**:
+   - 조건: 고안드로겐혈증(HA) + 배란장애(OD) + 다낭성 난소 형태(PCOM).
+   - 특징: 가장 중증 형태. 인슐린 저항성, 비만, 대사증후군 동반율 최고. 한의학적으로 담습저체(痰濕阻滯) 및 신허간울(腎虛肝鬱)이 복합된 실증·복합증이 다수.
+2. **Phenotype B (Non-PCO / Classic HA)**:
+   - 조건: 고안드로겐혈증(HA) + 배란장애(OD) (초음파상 정상 난소).
+   - 특징: 심한 내분비 교란 및 남성화 징후. 간경울화(肝經鬱火) 및 음허내열(陰虛內熱) 변증 빈번.
+3. **Phenotype C (Ovulatory PCOS)**:
+   - 조건: 고안드로겐혈증(HA) + 다낭성 난소 형태(PCOM) (배란 주기 유지).
+   - 특징: 대사 이상은 상대적으로 경미하나 다모증·여드름이 두드러짐. 기체혈어(氣滯血瘀) 및 간울 변증.
+4. **Phenotype D (Non-Hyperandrogenic PCOS)**:
+   - 조건: 배란장애(OD) + 다낭성 난소 형태(PCOM) (안드로겐 정상).
+   - 특징: 마른 체형에서 흔하며 대사 이상 경미. 신양허(腎陽虛), 비기허(脾氣虛), 기혈양허(氣血兩虛) 등 허증(虛證) 패턴 우세.
 
-### 감별 진단
+#### 2-3. 하위 표제어 및 임상 아형 분류
+임상 진료 현장에서는 환자의 병태생리학적 특성에 맞추어 세부 표제어로 층화한다:
+- **비만형 PCOS (Obese PCOS, E28.2 / E66.0)**: BMI ≥ 25 kg/m²(동아시아 기준). 인슐린 저항성과 이상지질혈증이 현저하며, 비허습담(脾虛濕痰) 및 비신양허(脾腎陽虛)가 핵심[^3].
+- **비비만형(마른) PCOS (Lean PCOS, E28.2)**: BMI 정상. 인슐린 저항성보다는 HPO 축의 신경내분비 실조 및 LH 과분비, 간신음허(肝腎陰虛)·간기울결(肝氣鬱結)이 주도[^4].
+- **인슐린 저항성 동반형 PCOS (PCOS-IR, E28.2 / E88.8)**: HOMA-IR 상승 및 고인슐린혈증 동반.
+- **청소년 PCOS (Adolescent PCOS, E28.2)**: 사춘기 생리적 무배란과의 감별이 필수적인 군[^5].
+- **불임 동반형 PCOS (PCOS-Infertility, E28.2 / N97.0)**: 무배란 및 자궁내막 수용성 저하로 인한 원발성·속발성 불임.
 
-- 갑상선 질환, 고프로락틴혈증, 선천성 부신 과형성증(CAH), 쿠싱 증후군, 조기 난소 부전 등 고안드로겐혈증·배란 장애를 일으키는 다른 질환을 감별한다. 근거 미확인(교과서적 임상 진단 이론).
-- 임신, 자궁내막증, 자궁근종 등 월경 불순·불임을 일으키는 질환을 배제한다. 근거 미확인(교과서적 임상 진단 이론).
+---
 
-### 한의학적 변증(辨證)
+### 3. 진단 평가 및 검사 체계
 
-- **신허(腎虛)**: 월경 불순·무배란·요산(腰酸)·수족냉(手足冷) 동반. 보신(補腎)을 위주로 하며, 가감우귀환(加減右歸丸)·자신유태환(紫申育胎丸) 등이 활용된다.[^21][^22]
-- **담음(痰飮)·비허(脾虛)**: 비만·인슐린 저항성·대사 이상 동반. 창부다탄탕(蒼俯導痰湯)·수오강기탕(首烏降氣湯) 등 건비화담(健脾化痰) 처방이 활용된다.[^23][^24]
-- **어혈(瘀血)**: 월경통·자통(刺痛)·월경색암(月經色暗) 동반. 보신화어(補腎化瘀)·활혈화어(活血化瘀) 접근이 필요하다.[^12]
-- **간울(肝鬱)**: 정서 스트레스·우울·불안 동반. 소간(疏肝) 처방과 침·지압이 활용된다.[^3][^20]
+#### 3-1. 내분비 및 호르몬 평가
+- **LH / FSH 비율**: 난포기 초기 혈청 LH/FSH 비율이 2~3 이상으로 역전된 소견은 HPO 축 기능 이상의 전형적 지표이다.
+- **혈청 안드로겐 지표**: 총 테스토스테론(Total Testosterone), 유리 테스토스테론(Free Testosterone), DHEA-S, 안드로스텐디온(Androstenedione)을 측정한다. 성호르몬결합글로불린(SHBG)의 저하로 유리안드로겐지수(Free Androgen Index, FAI = [Total T / SHBG] × 100)가 4.5 이상일 때 유의미하다[^6].
+- **항뮬러관 호르몬 (AMH)**: 미성숙 동난포의 과다 축적으로 인해 혈청 AMH 수치가 현저히 상승(통상 ≥ 4.5~5.0 ng/mL, 동아시아 간소화 기준 ≥ 37.0 pmol/L)한다[^1].
 
-## 치료
+#### 3-2. 당대사 및 인슐린 저항성 지표
+- **공복 혈당 및 75g 경구당부하검사(OGTT)**: 공복 혈당만으로는 잠재적 내당능 장애(IGT)를 놓치기 쉬우므로 OGTT 2시간 혈당 및 인슐린 분비 곡선을 확인한다.
+- **HOMA-IR (Homeostatic Model Assessment of Insulin Resistance)**: `[공복혈당(mg/dL) × 공복인슐린(μIU/mL)] / 405`. 통상 2.5 이상 시 인슐린 저항성으로 판정한다.
+- **중성지방-포도당 지수 (TyG Index)**: `ln[공복 중성지방(mg/dL) × 공복혈당(mg/dL) / 2]`. 대사성 심혈관 위험 및 임신 손실(자연유산)의 강력한 예측 인자이다.
 
-- **한약(韓藥)**: 한약과 침·뜸의 병용 요법은 PCOS 환자의 임신율·기초체온 정상화·총 유효율을 개선하는 데 효과적이다(메타분석).[^25] 한방 복합 치료(뜸+한약, 화침+한약, 침+한약)가 단독 요법보다 임신율·배란율 개선에 더 효과적이다(네트워크 메타분석).[^26]
-- **가감우귀환(加減右歸丸)**: Diane-35와 병용 시 단기 호르몬 개선뿐 아니라 치료 종료 후에도 효과가 지속되며, 양방 단독보다 월경 주기 정상화·배란·임신율 향상에 유의미하다(임상시험).[^21]
-- **천귀방(天貴方)**: 고인슐린혈증·고안드로겐혈증 PCOS 환자에서 메트포르민과 유사하게 인슐린을 낮추고 배란을 유도하며, BMI 감소·월경 주기 정상화에서 더 우수하다(임상시험).[^27]
-- **창부다탄탕(蒼俯導痰湯)**: 기존 약물과 병용 시 배란율·임신율·자궁내막 두께 개선에 더 효과적이며, OHSS·LUFS 위험을 낮출 수 있다(메타분석).[^23]
-- **자신유태환(紫申育胎丸)**: 양약과 병용 시 임신율·배란율을 높이고 유산율·남성호르몬을 낮춘다(메타분석).[^22]
-- **온경탕(溫經湯)**: LH 수치가 높은 무배란 여성에서 LH를 유의하게 감소시키고 에스트라디올을 높이며 우성 난포 발달을 촉진한다(임상시험).[^28] 팔강변증 기반 초기 처방이 효과가 없을 때 온경탕으로 변경하면 내분비 개선·배란 유도에 효과적이다(임상시험).[^29]
-- **천경택란탕(天經澤蘭湯)**: 월경 주기 개선·성호르몬 정상화·인슐린 저항성 감소·고안드로겐 증상 완화에 효과적이며, 난소 스테로이드 생합성·아라키돈산 대사 경로를 조절한다(임상시험).[^30]
-- **상지 알칼로이드(SZ-A)**: HPO 축 기능 조절로 안드로겐을 낮추고 월경 주기를 개선한다(임상시험).[^13]
-- **침(鍼) 치료**: 침 치료는 PCOS 환자의 불안·우울을 유의하게 감소시키고 테스토스테론·BMI·WHR을 개선한다(메타분석).[^3] 침 관련 요법은 인슐린 저항성 개선·내분비 불균형 완화·난소 형태 개선에 안전하고 효과적인 보조 요법이다(네트워크 메타분석).[^31] 침 치료는 전반적으로 안전하며 심각한 이상반응은 보고되지 않았다(메타분석).[^32]
-- **전침(電鍼)**: 비만형 PCOS 환자의 체중 감소·대사 지표 개선·삶의 질 향상에 효과적이며, 효과가 24주까지 지속된다(임상시험).[^18] 전침은 HOMA-IR 감소에 가장 효과적인 침법이다(메타분석).[^16]
-- **뜸(灸)·침뜸 병행**: 비견신양허(脾腎陽虛) PCOS 환자에서 침뜸 병행이 단독보다 체중 감소·내분비 개선·삶의 질 향상에 더 효과적이다(임상시험).[^33] 뜸과 전침 병용(Mox_ACE)은 BMI·HOMA-IR·TG 개선에 가장 강력한 이점을 보인다(네트워크 메타분석).[^7]
-- **매선(埋線)**: 혈위 매선 요법(ACE)은 PCOS 환자의 전반적 치료 효과·임신율을 높이고 인슐린 저항성을 유의하게 감소시키며, 약물보다 이상반응이 적다(메타분석).[^34] 비만 동반 PCOS에서 BMI·허리둘레·TG를 감소시킨다(메타분석).[^35]
-- **이침(耳鍼)·이혈 압박**: 이침 요법은 다른 치료와 병용 시 체중 감소·호르몬 조절·정서 증상 완화에 긍정적이다(메타분석).[^36] 이혈 압박은 과체중·비만 PCOS의 인슐린 저항성 개선에 유망하다(임상시험 프로토콜).[^37]
-- **지압(指壓)**: 특정 혈위(임3·임4·간3·비6·비10) 지압이 삶의 질 개선·테스토스테론 감소·증상 완화에 효과적이다(임상시험).[^20]
-- **부항(附缸)**: 습식 부항이 PCOS 환자의 월경 주기 빈도 개선·다모증 완화에 효과적일 수 있다(관찰연구).[^38] 부항은 생리통·생리 불순·불임·PCOS 등 여성 생식 문제 증상 완화에 긍정적이다(문헌고찰).[^39]
-- **보조생식술(ART) 병행**: IVF/ICSI를 받는 PCOS 여성에게 침 치료 병행은 임상적 임신율·지속 임신율을 높이고 OHSS 위험을 낮춘다(메타분석).[^10] 침·한약 병행은 ART 과정에서 임상적 임신율·생아 출생률을 높인다(메타분석).[^11] 전침은 담음 증후군 PCOS에서 누적 임신율·고품질 배아 수를 증가시키고 과립세포 미토콘드리아 기능을 개선한다(임상시험).[^40]
+#### 3-3. 영상학적 평가 및 초음파 기준
+- **경음부/경복부 골반 초음파**: 난포기 초기에 시행한다. 2023 국제 가이드라인 기준 고해상도 초음파 프로브(≥8MHz) 사용 시 **한쪽 난소당 2~9mm 동난포 수가 20개 이상(FNPO ≥ 20)**이거나, **난소 용적이 10mL 이상(난소 낭종/황체 배제 시)**일 때 다낭성 난소 형태(PCOM)로 확진한다[교과서적 근거][^1].
+- 난소 변연부를 따라 염주 모양으로 배열된 낭포("string of pearls" 징후)와 난소 중심부 간질(stroma)의 고음영 과형성이 특징적이다.
 
-## 예후
+#### 3-4. 임상적 안드로겐 과다 평가
+- **수정 페리만-골웨이 점수 (modified Ferriman-Gallwey score, mFG)**: 인중, 턱, 가슴, 상복부, 하복부, 상완, 대퇴, 상배부, 요선부의 9개 부위 체모 밀도를 0~4점으로 채점. 동아시아 여성은 체모 발달이 적어 총점 4~5점 이상이면 임상적 다모증으로 판정한다[^1].
+- **남성형 탈모(Ludwig 분류)** 및 난치성 성인기 결절성 여드름(Acne vulgaris)을 병행 평가한다.
 
-한약·침·뜸·매선·이침·지압 등 한의 중재는 PCOS의 배란·임신율 개선, 대사·호르몬 지표 개선, 정서·삶의 질 향상에 유용하다.[^3][^7][^25][^26] 다만 침 치료의 가임력·증상 조절 효과는 현재 근거로는 불확실하며, 가짜 침과 비교 시 생아 출생률·배란율에서 유의미한 차이가 관찰되지 않았다는 코크란 체계적 고찰도 있어,[^41] 치료 반응은 변증 유형·동반 대사 상태·치료 순응도에 따라 개인차가 크다. 침 치료에 대한 환자의 긍정적 기대감이 배란 시점을 앞당기고 배란 가능성을 높이는 것과 관련된다(관찰연구).[^42]
+---
 
-## 관리
+### 4. 감별 진단 및 배제 질환
 
-- 생활습관 교정(지중해식·저혈당 식단, 규칙적 운동)과 함께 한약·침 등 보조 요법을 통합한 개별 맞춤형 접근이 권장된다.[^43]
-- 인슐린 저항성·비만이 두드러진 환자는 매선·뜸·전침 등 대사 개선에 유리한 중재를 병용한다.[^7][^34][^35]
-- 정서적 고통·삶의 질 저하가 있는 환자는 침·지압·심리 중재를 병행한다.[^3][^20]
-- PCOS 환자의 상당수가 보완대체의학(CAM)을 사용하므로, 의료진은 환자의 CAM 사용 여부를 파악하고 표준 치료와의 상호작용을 고려해 적절한 가이드를 제공한다.[^44][^45]
+PCOS는 기본적으로 **배제 진단(Diagnosis of Exclusion)**이 전제되어야 한다. 고안드로겐혈증 및 무배란을 유발하는 타 내분비 질환을 반드시 배제해야 한다[^2]:
 
-## Q&A
+| 감별 대상 질환 | 주요 감별 임상 지표 및 검사 소견 | 한의학적 주요 병리 감별 |
+|---|---|---|
+| **비전형적 선천부신과형성증 (NCCAH)** | 아침 공복 혈청 **17-OHP(17-히드록시프로게스테론) > 2 ng/mL** 시 ACTH 자극시험 시행 | 선천 음양기혈 실조, 태간(胎艱) |
+| **고프로락틴혈증 (Hyperprolactinemia)** | 혈청 **Prolactin(PRL) > 25 ng/mL**, 유즙분비, 뇌하수체 선종 의심 시 MRI | 간기울결(肝氣鬱結), 충임실조 |
+| **갑상선 기능 이상 (저하증/항진증)** | 혈청 **TSH, Free T4** 이상 (TSH 상승 시 배란장애 유발) | 비신양허(脾腎陽虛), 기혈응체 |
+| **쿠싱 증후군 (Cushing Syndrome)** | 24시간 요중 유리 코르티솔(UFC), 야간 1mg 덱사메타손 억제검사, 중심성 비만, 자색선조 | 음허화왕(陰虛火旺), 비만담음 |
+| **안드로겐 분비 종양 (난소/부신)** | 총 테스토스테론 > 200 ng/dL 또는 DHEA-S > 700 μg/dL, 급격한 남성화(음핵비대, 목소리 변조) | 악성 어혈징가(瘀血癥瘕) |
+| **조기 난소 부전 (POI)** | 40세 미만 무월경, **혈청 FSH > 25~40 mIU/mL** 4주 간격 2회 상승, AMH 극저하 | 신정고갈(腎精枯竭), 천계조갈 |
+| **기능성 시상하부성 무월경 (FHA)** | 과도한 다이어트, 스트레스, 극심한 운동력, **LH 저하 또는 정상, FSH 정상, E2 극저하** | 기혈양허(氣血兩虛), 간혈허 |
 
-- **Q. PCOS에도 침 치료가 효과가 있나요?** 침 치료는 PCOS 환자의 불안·우울을 유의하게 감소시키고 테스토스테론·BMI·WHR을 개선한다(메타분석).[^3] 침 관련 요법은 인슐린 저항성·내분비 불균형·난소 형태 개선에 안전하고 효과적인 보조 요법이다(네트워크 메타분석).[^31] 다만 가임력 자체에 대한 근거는 아직 불확실하므로 표준 치료의 보조로 활용한다.[^41]
-- **Q. PCOS 불임 환자에게 한약이 도움이 되나요?** 한약과 침·뜸 병용은 임신율·배란율 개선에 효과적이다(메타분석).[^25][^26] 가감우귀환·천귀방·창부다탄탕·자신유태환 등이 배란·임신율 향상에 유효하다(임상시험·메타분석).[^21][^22][^23][^27]
-- **Q. 비만형 PCOS에는 어떤 한의 중재가 좋나요?** 뜸과 전침 병용(Mox_ACE)이 BMI·HOMA-IR·TG 개선에 가장 강력한 이점을 보인다(네트워크 메타분석).[^7] 혈위 매선 요법도 BMI·허리둘레·TG 감소에 효과적이다(메타분석).[^35]
-- **Q. IVF/ICSI를 받는 PCOS 환자에게 침을 병행해도 되나요?** 침 치료 병행은 임상적 임신율·지속 임신율을 높이고 OHSS 위험을 낮춘다(메타분석).[^10] 침·한약 병행은 ART 과정에서 임신율·생아 출생률을 높인다(메타분석).[^11]
-- **Q. PCOS 환자의 정서 문제에도 한의 치료가 도움이 되나요?** 침 치료는 PCOS 환자의 불안·우울을 유의하게 감소시킨다(메타분석).[^3] 특정 혈위 지압이 삶의 질 개선·증상 완화에 효과적이다(임상시험).[^20]
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
-## 근거 요약
+---
 
-- 한약(가감우귀환·천귀방·창부다탄탕·자신유태환·온경탕·천경택란탕·수오강기탕 등)은 PCOS의 배란·임신율 개선, 호르몬·대사 지표 개선에 유효하다.[^21][^22][^23][^27][^28][^29][^30]
-- 침·전침·뜸·매선·이침·지압·부항 등 비약물 중재는 PCOS의 대사·호르몬·정서·삶의 질 개선에 유효하다.[^3][^7][^18][^20][^31][^34][^35][^36]
-- 보조생식술(ART) 병행 시 침·한약이 임신율·생아 출생률을 높이고 OHSS 위험을 낮춘다.[^10][^11][^40]
-- 변증 유형(신허·담음·어혈·간울)에 따라 치료 접근이 달라 맞춤 치료가 필요하다.[^6][^8][^12]
+## 제2편 병인병기 및 현대 병태생리
 
-## 경혈/처방 연관
+### 5. 전통 한의학적 병인병기
 
-- 경혈: PCOS 치료에 관원(關元, CV4)·삼음교(三陰交, SP6)·자궁(子宮, EX-CA1)·족삼리(足三里, ST36)가 핵심 혈위로 확인된다(데이터 마이닝).[^46][^47] 불임 치료에는 관원·삼음교·자궁이, [합곡(合谷)](../../기초한의학/경락경혈학/합곡(合谷, LI4).md)은 기혈 조절에 활용된다(교과서적 근거). 담음 증후군 PCOS에는 중완·기해·혈해·삼음교·음릉천·천추·족삼리·풍륭 등이 활용된다.[^40]
-- 약재/처방: 가감우귀환(加減右歸丸)·천귀방(天貴方)·창부다탄탕(蒼俯導痰湯)·자신유태환(紫申育胎丸)·온경탕(溫經湯)·천경택란탕(天經澤蘭湯)·수오강기탕(首烏降氣湯)·간소캡슐 등이 대표적이며, 복령(茯苓)·천궁(川芎)·진피(陳皮)·창출(蒼朮)·향부자(香附子)·상지(桑枝)·감초(甘草) 등이 핵심 약재로 활용된다.[^8][^13][^48] 이 중 [인삼(人蔘)](../../기초한의학/본초학/인삼(人蔘, Panax ginseng).md)은 보기(補氣) 약재로 대사 개선에 기여한다(교과서적 근거).
+#### 5-1. 신허(腎虛)와 천계(天癸) 실조
+한의학 생리학에서 신(腎)은 선천지본(先天之本)이자 장정(藏精)을 주관하며, 천계(天癸)의 발현과 충임맥(衝任脈)의 성숙을 총괄한다[교과서적 근거]. "腎主生殖, 胞絡者繫於腎". 신음(腎陰)이 부족하면 난포의 발육과 성숙이 억제되고, 신양(腎陽)이 쇠약하면 포궁이 온후(溫煦)되지 못하여 배란이 일어나지 않는다("命門火衰, 胞宮虛寒, 不能攝精成孕")[^7]. 무배란성 불임 및 PCOS 환자의 변증 조사에서 신허(腎虛, 신양허·신음허)가 질병 발생의 근본적인 취약 소인으로 일관되게 확인된다.
 
-## 참고문헌
+#### 5-2. 비허습담(脾虛濕痰)과 담음정체(痰飮停滯)
+비(脾)는 후천지본(後天之本)으로 주운화(主運化)하여 수습(水濕)의 대사를 조절한다. 음식부절(飮食不節, 고지방·단음식 과다 섭취), 노권상(勞倦傷), 또는 선천적 비기 부족으로 인해 비의 운화 기능이 실조되면 수습이 정체되어 담음(痰飮)으로 화한다[^8][^9]. 담습(痰濕)이 포궁(胞宮)과 난소의 맥락(脈絡)을 막으면 혈맥이 통하지 않아 무배란, 희발월경, 비만, 다낭성 낭포가 형성된다. 데이터 마이닝 연구에서 담음(痰飮, Phlegm-dampness)은 PCOS 및 인슐린 저항성의 전 과정에 걸친 핵심 병리 동력으로 규명되었다.
 
-[^1]: PCOS의 정의·분류(KCD-8 E28.2). 근거 미확인(교과서적 임상 진단 이론).
-[^2]: Acupuncture for polycystic ovary syndrome. Cochrane Database Syst Rev. 2025. 체계적 고찰, 1606명. DOI: [10.1002/14651858.CD007689.pub5](https://doi.org/10.1002/14651858.CD007689.pub5) · [PMID 41147529](https://pubmed.ncbi.nlm.nih.gov/41147529/).
-[^3]: Acupuncture improves anxiety and depression in patients with polycystic ovary syndrome: a systematic evaluation and meta-analysis. Front Med. 2026. 메타분석, 2127명. DOI: [10.3389/fmed.2026.1738629](https://doi.org/10.3389/fmed.2026.1738629) · [PMID 41647523](https://pubmed.ncbi.nlm.nih.gov/41647523/).
-[^4]: Non-pharmacological interventions of traditional Chinese medicine in treating polycystic ovary syndrome: a group consensus. Integr Med Res. 2024. 가이드라인. DOI: [10.1016/j.imr.2024.101093](https://doi.org/10.1016/j.imr.2024.101093) · [PMID 39967750](https://pubmed.ncbi.nlm.nih.gov/39967750/).
-[^5]: Beyond Conventional Therapy: A Comprehensive Review of Herbal, Traditional, and Emerging Interventions for Polycystic Ovary Syndrome. 2025. 문헌고찰. DOI: [10.2174/0115665240406897251206074722](https://doi.org/10.2174/0115665240406897251206074722) · [PMID 42083350](https://pubmed.ncbi.nlm.nih.gov/42083350/).
-[^6]: Research Progress in the Treatment of Obese Polycystic Ovary Syndrome with Traditional Chinese Medicine. 2024. 문헌고찰. DOI: [10.53469/jcmp.2024.06(08).17](https://doi.org/10.53469/jcmp.2024.06(08).17).
-[^7]: Effects of acupuncture-related therapies on endocrine and metabolic outcomes in obese women with polycystic ovary syndrome: a systematic review and network meta-analysis. Front Med. 2026. 메타분석, 3500명. DOI: [10.3389/fmed.2026.1758475](https://doi.org/10.3389/fmed.2026.1758475) · [PMID 42292214](https://pubmed.ncbi.nlm.nih.gov/42292214/).
-[^8]: A revision of Traditional Chinese Medicine in the treatment of polycystic ovary syndrome: Utilizing data mining techniques for disease prevention and management. 2025. 체계적 고찰, 1604명. DOI: [10.37360/blacpma.25.24.5.50](https://doi.org/10.37360/blacpma.25.24.5.50).
-[^9]: Comparative Effectiveness and Safety of East Asian Traditional Medicine for Adolescents with Polycystic Ovary Syndrome: A Protocol for Systematic Review and Bayesian Network Meta-Analysis. 2025. 체계적 고찰(프로토콜). DOI: [10.13048/jkm.25057](https://doi.org/10.13048/jkm.25057).
-[^10]: Effectiveness of Acupuncture in Women with Polycystic Ovarian Syndrome Undergoing in Vitro Fertilisation Or Intracytoplasmic Sperm Injection: A Systematic Review and Meta-Analysis. Acupunct Med. 2017. 메타분석, 430명. DOI: [10.1136/acupmed-2016-011163](https://doi.org/10.1136/acupmed-2016-011163).
-[^11]: Integrating Acupuncture and Herbal Medicine into Assisted Reproductive Technology: A Systematic Review and Meta-Analysis of East Asian Traditional Medicine. Healthcare. 2026. 메타분석, 10776명. DOI: [10.3390/healthcare13111326](https://doi.org/10.3390/healthcare13111326).
-[^12]: The "tonifying the kidneys, resolving blood stasis and clearing collaterals" method in polycystic ovary syndrome (PCOS) research: study protocol for a multicentre cohort study nested randomised controlled trials. 2024. 임상시험(프로토콜), 316명. DOI: [10.21203/rs.3.rs-3896980/v1](https://doi.org/10.21203/rs.3.rs-3896980/v1).
-[^13]: Morus alba L. (Sangzhi) alkaloids reduce polycystic ovary syndrome by improving hypothalamic-pituitary-ovarian axis function. Phytomedicine. 2026. 임상시험, 128명. DOI: [10.1016/j.phymed.2026.158243](https://doi.org/10.1016/j.phymed.2026.158243) · [PMID 42107446](https://pubmed.ncbi.nlm.nih.gov/42107446/).
-[^14]: Gut microbiota and metabolic dysregulation in polycystic ovary syndrome: effects of acupuncture as an adjunct to in vitro fertilization on gut dysbiosis, metabolism, and oocyte quality. Front Microbiol. 2025. 임상시험, 90명. DOI: [10.3389/fmicb.2025.1730714](https://doi.org/10.3389/fmicb.2025.1730714) · [PMID 41648005](https://pubmed.ncbi.nlm.nih.gov/41648005/).
-[^15]: Interaction between triglyceride-glucose index and body mass index on pregnancy loss in Chinese women with polycystic ovary syndrome: a secondary analysis of a randomized clinical trial. J Ovarian Res. 2026. 관찰연구, 855명. DOI: [10.1186/s12958-026-01531-2](https://doi.org/10.1186/s12958-026-01531-2) · [PMID 41840627](https://pubmed.ncbi.nlm.nih.gov/41840627/).
-[^16]: Comparative effects of acupuncture and metformin on insulin sensitivity in women with polycystic ovary syndrome: a systematic review and meta-analysis. Front Endocrinol. 2025. 메타분석, 1248명. DOI: [10.3389/fendo.2025.1553684](https://doi.org/10.3389/fendo.2025.1553684) · [PMID 40607225](https://pubmed.ncbi.nlm.nih.gov/40607225/).
-[^17]: Effects of different acupuncture methods on polycystic ovarian syndrome: a systematic review and network meta-analysis. BMC Complement Med Ther. 2026. 메타분석, 5937명. DOI: [10.1186/s12906-026-05295-5](https://doi.org/10.1186/s12906-026-05295-5) · [PMID 41680702](https://pubmed.ncbi.nlm.nih.gov/41680702/).
-[^18]: Effect of electroacupuncture on metabolic level and quality of life in patients with obese polycystic ovary syndrome: a randomized controlled trial. Front Endocrinol. 2025. 임상시험, 106명. DOI: [10.3389/fendo.2025.1723419](https://doi.org/10.3389/fendo.2025.1723419) · [PMID 41567807](https://pubmed.ncbi.nlm.nih.gov/41567807/).
-[^19]: CL22209, a standardized Asparagus racemosus root extract, demonstrates improved ovarian morphology, menstrual regularity, and metabolic parameters in women with polycystic ovary syndrome in a randomized, controlled trial. Food Nutr Res. 2025. 임상시험, 60명. DOI: [10.29219/fnr.v69.13244](https://doi.org/10.29219/fnr.v69.13244) · [PMID 41497317](https://pubmed.ncbi.nlm.nih.gov/41497317/).
-[^20]: Effect of Acupressure on Health-Related Quality of Life in Patients with Polycystic Ovarian Syndrome: A Randomized Clinical Trial. Evid Based Complement Alternat Med. 2022. 임상시험, 96명. DOI: [10.1155/2022/2920132](https://doi.org/10.1155/2022/2920132) · [PMID 35707478](https://pubmed.ncbi.nlm.nih.gov/35707478/).
-[^21]: Clinical research on combined therapy of diane-35 with modified yougui pill on polycystic ovarian syndrome. 2005. 임상시험, 63명. [PMID 16248240](https://pubmed.ncbi.nlm.nih.gov/16248240/).
-[^22]: Hormonal regulation and reproductive improvement with adjunctive Zishen Yutai Pill in polycystic ovary syndrome: a systematic review with meta-analysis. Front Reprod Health. 2025. 메타분석, 1751명. DOI: [10.3389/frph.2025.1748768](https://doi.org/10.3389/frph.2025.1748768) · [PMID 41623700](https://pubmed.ncbi.nlm.nih.gov/41623700/).
-[^23]: The efficacy and safety of Cangfu Daotan decoction in the treatment of infertility associated with polycystic ovary syndrome: a systematic review and meta-analysis. J Ovarian Res. 2026. 메타분석, 2181명. DOI: [10.1186/s13048-026-02008-x](https://doi.org/10.1186/s13048-026-02008-x) · [PMID 41652526](https://pubmed.ncbi.nlm.nih.gov/41652526/).
-[^24]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness. Medicine. 2020. 임상시험, 81명. DOI: [10.1097/md.0000000000019045](https://doi.org/10.1097/md.0000000000019045).
-[^25]: Oriental herbal medicine and moxibustion for polycystic ovary syndrome. Medicine. 2018. 메타분석. DOI: [10.1097/md.0000000000012942](https://doi.org/10.1097/md.0000000000012942).
-[^26]: Combined traditional Chinese medicine therapy for the treatment of infertility with polycystic ovary syndrome: A network meta-analysis of randomized controlled trials. Medicine. 2024. 메타분석. DOI: [10.1097/MD.0000000000038912](https://doi.org/10.1097/MD.0000000000038912) · [PMID 38996123](https://pubmed.ncbi.nlm.nih.gov/38996123/).
-[^27]: Study on treatment of hyperandrogenism and hyperinsulinism in polycystic ovary syndrome with Chinese herbal formula "tiangui fang". 2001. 임상시험, 22명. [PMID 11789189](https://pubmed.ncbi.nlm.nih.gov/11789189/).
-[^28]: Effects of unkei-to, an herbal medicine, on endocrine function and ovulation in women with high basal levels of luteinizing hormone secretion. 2001. 임상시험, 100명. [PMID 11396371](https://pubmed.ncbi.nlm.nih.gov/11396371/).
-[^29]: Effects of switching to wen-jing-tang (unkei-to) from preceding herbal preparations selected by eight-principle pattern identification on endocrinological status and ovulatory induction in women with polycystic ovary syndrome. Am J Chin Med. 2006. 임상시험, 64명. DOI: [10.1142/S0192415X06003746](https://doi.org/10.1142/S0192415X06003746) · [PMID 16552830](https://pubmed.ncbi.nlm.nih.gov/16552830/).
-[^30]: Tianjing Zelan formula improves polycystic ovary syndrome by regulating steroid biosynthesis and arachidonic acid metabolism. J Ethnopharmacol. 2026. 임상시험. DOI: [10.1016/j.jep.2026.121214](https://doi.org/10.1016/j.jep.2026.121214) · [PMID 41544724](https://pubmed.ncbi.nlm.nih.gov/41544724/).
-[^31]: Efficacy and safety of acupuncture-related therapies in improving insulin resistance, reproductive endocrine outcomes, and ovarian morphology in polycystic ovary syndrome: a systematic review and network meta-analysis. Front Endocrinol. 2026. 메타분석, 4406명. DOI: [10.3389/fendo.2026.1748814](https://doi.org/10.3389/fendo.2026.1748814) · [PMID 41837127](https://pubmed.ncbi.nlm.nih.gov/41837127/).
-[^32]: Safety of Acupuncture in Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. 2025. 메타분석. DOI: [10.1177/19336586251360119](https://doi.org/10.1177/19336586251360119) · [PMID 40927731](https://pubmed.ncbi.nlm.nih.gov/40927731/).
-[^33]: Moxibustion plus acupuncture improves the efficacy and quality of life of patients with polycystic ovary syndrome. J Integr Nurs. 2022. 임상시험, 90명. DOI: [10.4103/jin.jin_47_21](https://doi.org/10.4103/jin.jin_47_21).
-[^34]: Effect of acupoint catgut embedding therapy on polycystic ovary syndrome: a systematic review and meta-analysis. Complement Ther Clin Pract. 2026. 메타분석, 5945명. DOI: [10.1016/j.ctcp.2026.102056](https://doi.org/10.1016/j.ctcp.2026.102056) · [PMID 42054762](https://pubmed.ncbi.nlm.nih.gov/42054762/).
-[^35]: Efficacy and Safety of Acupoint Catgut Embedding for Obesity Associated with Polycystic Ovary Syndrome: A Qualitative and Quantitative Analysis. Diabetes Metab Syndr Obes. 2025. 메타분석, 1663명. DOI: [10.2147/DMSO.S553787](https://doi.org/10.2147/DMSO.S553787) · [PMID 41756711](https://pubmed.ncbi.nlm.nih.gov/41756711/).
-[^36]: Effectiveness and safety of auricular therapy for polycystic ovary syndrome: a systematic review and meta-analysis. Front Endocrinol. 2026. 메타분석, 1231명. DOI: [10.3389/fendo.2026.1726938](https://doi.org/10.3389/fendo.2026.1726938) · [PMID 41858851](https://pubmed.ncbi.nlm.nih.gov/41858851/).
-[^37]: Auricular points acupressure for insulin resistance in overweight/obese women with polycystic ovary syndrome: protocol for a randomised controlled pilot trial. BMJ Open. 2019. 임상시험(프로토콜), 60명. DOI: [10.1136/bmjopen-2018-027498](https://doi.org/10.1136/bmjopen-2018-027498) · [PMID 31142530](https://pubmed.ncbi.nlm.nih.gov/31142530/).
-[^38]: Wet-cupping on calf muscles in polycystic ovary syndrome: a quasi-experimental study. J Complement Integr Med. 2021. 관찰연구, 66명. DOI: [10.1515/jcim-2020-0458](https://doi.org/10.1515/jcim-2020-0458) · [PMID 33991469](https://pubmed.ncbi.nlm.nih.gov/33991469/).
-[^39]: CUPPING AND FEMALE REPRODUCTIVE PROBLEMS: A NARRATIVE REVIEW. 2024. 문헌고찰. DOI: [10.55116/ijicm.v5i2.89](https://doi.org/10.55116/ijicm.v5i2.89).
-[^40]: Electroacupuncture Improves Pregnancy Outcomes of Assisted Reproduction and Mitochondrial Function of Granulosa Cells in Patients with Polycystic Ovary Syndrome of Phlegm-Dampness Syndrome. Chin J Integr Med. 2025. 임상시험, 90명. DOI: [10.1007/s11655-025-4216-z](https://doi.org/10.1007/s11655-025-4216-z) · [PMID 40833650](https://pubmed.ncbi.nlm.nih.gov/40833650/).
-[^41]: Acupuncture for polycystic ovary syndrome. Cochrane Database Syst Rev. 2025. 체계적 고찰, 1606명. DOI: [10.1002/14651858.CD007689.pub5](https://doi.org/10.1002/14651858.CD007689.pub5) · [PMID 41147529](https://pubmed.ncbi.nlm.nih.gov/41147529/).
-[^42]: High acupuncture expectancy is associated with shorter time to ovulation and higher chances of ovulation in infertile patients with PCOS receiving acupuncture: a secondary analysis of a randomized controlled trial. Acupunct Med. 2025. 관찰연구, 827명. DOI: [10.1177/09645284251342261](https://doi.org/10.1177/09645284251342261).
-[^43]: Integrating evidence-based lifestyle and adjunct therapies for long-term management of polycystic ovary syndrome: mechanistic insights and clinical implications. Front Reprod Health. 2026. 문헌고찰. DOI: [10.3389/frph.2026.1821411](https://doi.org/10.3389/frph.2026.1821411) · [PMID 42293235](https://pubmed.ncbi.nlm.nih.gov/42293235/).
-[^44]: Prevalence and factors associated with the use of complementary and alternative medicine among PCOS patients. BMC Complement Med Ther. 2025. 관찰연구, 180명. DOI: [10.1186/s12906-025-05084-6](https://doi.org/10.1186/s12906-025-05084-6) · [PMID 41402823](https://pubmed.ncbi.nlm.nih.gov/41402823/).
-[^45]: Use of complementary and alternative medicine among females with polycystic ovary syndrome in Jordan: a cross-sectional study. BMJ Open. 2024. 관찰연구, 402명. DOI: [10.1136/bmjopen-2024-088945](https://doi.org/10.1136/bmjopen-2024-088945) · [PMID 39719295](https://pubmed.ncbi.nlm.nih.gov/39719295/).
-[^46]: Mechanism of core acupoints of acupuncture for polycystic ovary syndrome based on data mining and network acupuncture medicine. Zhongguo Zhen Jiu. 2025. 체계적 고찰. DOI: [10.13703/j.0255-2930.20240920-k0003](https://doi.org/10.13703/j.0255-2930.20240920-k0003) · [PMID 41397739](https://pubmed.ncbi.nlm.nih.gov/41397739/).
-[^47]: Exploration of Acupoint Compatibility Patterns in Acupuncture Treatment for Infertility Based on Data Mining. Int J Womens Health. 2025. 체계적 고찰. DOI: [10.2147/IJWH.S578082](https://doi.org/10.2147/IJWH.S578082) · [PMID 41847472](https://pubmed.ncbi.nlm.nih.gov/41847472/).
-[^48]: Traditional herbal medicine for obesity-related polycystic ovary syndrome: a meta-analysis and data mining study. Front Pharmacol. 2025. 메타분석, 5308명. DOI: [10.3389/fphar.2025.1738172](https://doi.org/10.3389/fphar.2025.1738172) · [PMID 41640680](https://pubmed.ncbi.nlm.nih.gov/41640680/).
+#### 5-3. 간울기체(肝鬱氣滯)와 정지내상(情志內傷)
+간(肝)은 주장혈(主藏血)하고 주소설(主疏泄)하여 전신 기기(氣機)의 승강출입과 정서(情志)를 주관하며, 충임맥의 혈해(血海) 충만을 조절한다. 장기간의 정서적 스트레스, 억울(抑鬱), 분노는 간기의 소설 실조를 초래하여 기기울결(氣機鬱結)을 유발한다[^10]. "氣爲血之帥, 氣行則血行, 氣滯則血瘀". 기가 울결되면 혈행이 멈추고 화(火)로 전화하여 간경울화(肝經鬱火)가 되며, 이는 고안드로겐혈증으로 인한 여드름, 신경과민, 배란 장애로 발현된다[^10].
+
+#### 5-4. 기체혈어(氣滯血瘀)와 포궁맥락어저(胞宮脈絡瘀阻)
+신허·비허·간울의 병기가 만성화되면 반드시 어혈(瘀血)이 형성된다. 기허로 혈을 밀지 못하거나(氣虛血瘀), 양허로 혈맥이 차가워져 응고되거나(陽虛寒凝), 담음과 어혈이 서로 엉켜 담어교결(痰瘀膠結)을 이룬다[^8]. 어혈이 난소 피질을 둘러싸 포막(包膜)이 두꺼워지면 난포가 터져 나오지 못해 다낭성 변화와 무배란성 불임이 고착화된다.
+
+---
+
+### 6. 현대 의학적 병태생리 축
+
+```
+                 [신경내분비 / 정지내상(情志內傷)]
+                  시상하부 GnRH 펄스 빈도 증가
+                             │
+                             ▼
+                  뇌하수체 LH 과분비 (LH/FSH ↑)
+                             │
+            ┌────────────────┴────────────────┐
+            ▼                                 ▼
+   난소 테카세포(Theca) 과형성        만성 무배란 (Anovulation)
+   CYP17A1 항진 → 안드로겐 합성 ↑        과립막세포 아포토시스 ↑
+            │                                 │
+            ├─────────────────────────────────┤
+            ▼                                 ▼
+   [고안드로겐혈증(HA)]              [골반 초음파 PCOM]
+   다모·여드름·탈모 / 간 SHBG 저하    동난포 축적 (AMH 과다 상승)
+            ▲                                 ▲
+            │                                 │
+   [인슐린 저항성(IR) / 고인슐린혈증] ────────┤
+   골격근·지방 포도당 흡수 장애                │
+   만성 저등급 염증 (TNF-α, IL-6 ↑)           │
+   장내 미생물 Dysbiosis (LPS 유출 ↑) ───────┘
+   [비허습담(脾虛濕痰) / 담어교결(痰瘀膠結)]
+```
+
+#### 6-1. 시상하부-뇌하수체-난소(HPO) 축의 신경내분비 실조
+PCOS 환자에서는 시상하부 GnRH(성선자극호르몬분비호르몬)의 분비 펄스 빈도가 비정상적으로 증가되어 있다. 이에 따라 뇌하수체 전엽에서 LH(황체형성호르몬) 합성이 우세해지고 FSH(난포자극호르몬) 분비는 상대적으로 억제된다. 과도한 LH 자극은 난소 난포막(Theca) 세포를 증식시키고 안드로겐 합성 효소(CYP17A1)를 활성화시켜 테스토스테론 및 안드로스텐디온 생산을 폭발적으로 증가시킨다.
+
+#### 6-2. 인슐린 저항성, 고인슐린혈증 및 난소 테카세포 과형성
+PCOS 환자의 핵심 대사 병리는 인슐린 수용체 기질(IRS-1/2) 인산화 결함으로 인한 전신 인슐린 저항성(IR)이다. 고인슐린혈증은 두 가지 기전으로 고안드로겐혈증을 증폭시킨다:
+1. 난소 테카세포의 인슐린 및 IGF-1 수용체에 직접 결합하여 LH와의 시너지 작용으로 안드로겐 합성을 촉진한다[^6].
+2. 간에서 SHBG(성호르몬결합글로불린)의 합성을 직접 억제하여 혈중 유리 테스토스테론(Free T)의 비율을 급격히 상승시킨다[^6].
+
+#### 6-3. 난포 발달 정체, 과립막세포 기능이상 및 미토콘드리아 손상
+고농도의 국소 안드로겐과 인슐린은 난소 과립막세포(Granulosa cell)의 FSH 감수성을 조기에 교란하고 조기 황체화를 유발하여 난포 발달을 5~8mm 크기(동난포 단계)에서 정체시킨다. 또한 과립막세포의 미토콘드리아 막전위 감소, 활성산소종(ROS) 축적, 세포사멸(Apoptosis) 촉진으로 인해 난자의 질 저하와 자궁내막 수용성 결함이 발생한다[^11].
+
+#### 6-4. 만성 저등급 염증, 산화 스트레스 및 장내 미생물 불균형
+장내 미생물총의 다양성 감소와 유익균(Bacteroides, Bifidobacterium 등)의 감소, 유해균 증식은 장관 장벽 투과성을 증가시킨다. 장내 내독소(LPS)의 체내 유입은 대식세포를 자극하여 전염증성 사이토카인(TNF-α, IL-6, IL-1β)을 방출시키고, 이는 다시 인슐린 저항성과 난소 안드로겐 합성을 악화시키는 악순환을 형성한다[^12]. 침 치료 및 건비화담 한약은 장내 미생물 dysbiosis를 교정하고 장벽을 복구하는 작용을 발휘한다.
+
+---
+
+### 7. 전통 병기-현대 병태생리 대응 체계
+
+#### 7-1. 전통 병기-현대 병태생리 대응표
+
+| 한의학적 전통 병기 | 현대 의학적 병태생리 대응 소견 | 주요 바이오마커 및 관찰 지표 |
+|---|---|---|
+| **신허(腎虛) / 천계실조** | HPO 축의 조절 장애, 난포 발육 부전, 황체기 결함 | LH/FSH 비율 역전, AMH 과다 상승, 프로게스테론 저하 |
+| **비허습담(脾虛濕痰)** | 인슐린 저항성, 고인슐린혈증, 내장지방 축적, 장내 미생물 불균형 | HOMA-IR 상승, TyG 지수 상승, 아디포넥틴 저하, LPS 상승 |
+| **간울기체(肝鬱氣滯) / 간화** | 교감신경계 항진, HPA 축 활성화, 시상하부 GnRH 펄스 교란 | 코르티솔 리듬 교란, 불안·우울 척도 상승, 혈압 변동 |
+| **기체혈어(氣滯血瘀)** | 난소 피질 섬유화 및 비후, 자궁동맥 혈류 저항 증가, 혈액유변학적 이상 | 자궁동맥 박동지수(PI)·저항지수(RI) 상승, D-dimer |
+| **비신양허(脾腎陽虛)** | 미토콘드리아 산화적 인산화 장애, 에너지 대사 저하, 저체온/부종 | 비스파틴(Visfatin) 상승, 기초체온(BBT) 일상성 저온기 |
+| **간신음허(肝腎陰虛)** | 난소 국소 산화 스트레스, 과립막세포 조기 세포사멸, 자궁내막 수용성 저하 | ROS 상승, SOD 저하, HOXA10 발현 감소 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+#### 7-2. 한의 중재의 다표적 병태생리 조절 기전
+한의 치료(한약·침·전침·뜸·매선)는 단일 수용체 차단에 그치지 않고 다표적·다경로 네트워크를 통해 PCOS의 병태생리를 복합적으로 개선한다:
+1. **신경내분비 HPO 축 조절**: 중추성 베타-엔도르핀 분비 촉진을 통해 비정상적인 GnRH 펄스를 안정화시키고 혈청 LH 및 LH/FSH 비율을 감소시킨다.
+2. **인슐린 신호전달계 정상화**: 골격근 및 지방 조직에서 GLUT4 발현과 AMPK 인산화를 촉진하여 포도당 흡수를 개선하고 HOMA-IR을 낮춘다.
+3. **난소 미세환경 및 과립막세포 기능 보호**: 난소 내 산화 스트레스를 경감하고 과립막세포의 미토콘드리아 막전위와 ATP 생성을 회복시켜 우성 난포 선별과 난자 성숙을 유도한다.
+4. **장-난소 축 및 항염증 효과**: 장내 유익균 총을 회복시키고 혈청 전염증성 사이토카인을 감소시켜 만성 저등급 염증을 차단한다[^12].
+
+---
+
+## 제3편 변증 진단 및 치법·방약·침구
+
+### 8. 한의학적 변증 분류 체계
+
+#### 8-1. 6대 핵심 변증 유형
+한의학 임상에서는 환자의 체형, 생리 주기, 안색, 설태, 맥상 및 전신 동반 증상을 종합하여 6대 핵심 변증으로 층화 진단한다[^2][^13][^9]:
+
+1. **비허습담형(脾虛濕痰型) / 담습조체형(痰濕阻滯型)**:
+   - 주증: 월경지연 혹은 폐경, 비만(체형 비만), 대하량다(帶下量多) 및 백색 점조, 지체침중(肢體沈重), 흉완비민(胸脘痞悶), 식소변당.
+   - 설맥: 설태백니(舌苔白膩) 혹은 백후(白厚), 설체비대(舌體肥大) 치흔(齒痕), 맥활(脈滑) 혹은 유활(濡滑).
+   - 임상 특성: 인슐린 저항성 및 비만형 PCOS의 전형적 변증.
+2. **신양허형(腎陽虛型) / 비신양허형(脾腎陽虛型)**:
+   - 주증: 월경희발, 월경량극소 및 색담(色淡), 불임, 요슬산연(腰膝酸軟), 외한지냉(畏寒肢冷), 소변청장, 면색회담.
+   - 설맥: 설질담반(舌質淡胖), 태백활(苔白滑), 맥침지무력(脈沈遲無力) 혹은 침세(沈細).
+   - 임상 특성: 난포 발육 지연, 기초체온 단상성 저온 지속, 비스파틴 수치 상승[^14][^7].
+3. **간신음허형(肝腎陰虛型)**:
+   - 주증: 월경주기 불규칙(선후무중), 월경량소, 두훈이명(頭暈耳鳴), 오심번열(五心煩熱), 조열도한(潮熱盜汗), 구건인조, 요동산연.
+   - 설맥: 설홍소태(舌紅少苔) 혹은 무태, 맥세삭(脈細數).
+   - 임상 특성: 마른 체형(Lean PCOS), 난소 간질 과형성 및 국소 산화 스트레스 우세[^4][^15].
+4. **간울기체형(肝鬱氣滯型) / 간경울화형(肝經鬱火型)**:
+   - 주증: 월경불순, 경전 유방창통(乳房脹痛), 소복창만(少腹脹滿), 정서불안, 번조이노(煩躁易怒), 흉협고만, 여드름(痤瘡) 심화.
+   - 설맥: 설질홍, 태박황(苔薄黃), 맥현삭(脈弦數) 혹은 맥현(脈弦).
+   - 임상 특성: HPO 축 LH 과분비 및 고안드로겐 증상(여드름, 다모)이 두드러짐[^10].
+5. **기체혈어형(氣滯血瘀型) / 신허혈어형(腎虛血瘀型)**:
+   - 주증: 월경지연 혹은 폐경, 월경혈 암자색(暗紫色) 및 혈괴(血塊) 다량 동반, 월경통(소복자통), 안색 암삽, 피부 갑착(甲錯).
+   - 설맥: 설질자암(舌質紫暗) 혹은 어점(瘀點)·어반(瘀斑), 맥침현(脈沈弦) 혹은 맥삽(脈澁).
+   - 임상 특성: 난소 피질 비후, 자궁동맥 혈류 저항 증가, 단 음식 섭취와 높은 상관성[^8].
+6. **음허내열형(陰虛內熱型) / 습열온결형(濕熱蘊結型)**:
+   - 주증: 월경불순, 구갈희음, 안면부 화농성 여드름, 대하 황색 점조 및 냄새, 변비, 소변 단적.
+   - 설맥: 설홍, 태황니(苔黃膩), 맥활삭(脈滑數).
+   - 임상 특성: 고안드로겐혈증 및 전신 저등급 염증 상태[^15].
+
+#### 8-2. 변증 간 감별진단표
+
+| 변증 유형 | 체형 / 대사 특징 | 월경 및 생식 양상 | 주 증상 및 징후 | 설진 / 맥진 | 대표 처방 |
+|---|---|---|---|---|---|
+| **비허습담** | 비만 (BMI ≥ 25), 중심성 비만 | 희발월경 / 무월경 | 대하 백색 점조, 지체침중, 피로 | 설담반 치흔, 백니태 / 맥활 | [창부도담탕](창부도담탕.md) |
+| **신양허** | 비만 또는 보통, 저체온 | 희발월경, 불임 | 요슬산연, 외한지냉, 성욕 저하 | 설담, 태백활 / 맥침지 | [가감우귀환](가감우귀환.md) |
+| **간신음허** | 마른 체형 (Lean PCOS) | 월경량 극소, 무배란 | 두훈이명, 오심번열, 조열도한 | 설홍소태 / 맥세삭 | 가미자귀탕 |
+| **간경울화** | 체형 무관, 스트레스형 | 불규칙 월경, 배란장애 | 유방창통, 이노, 여드름, 다모 | 설홍, 태박황 / 맥현삭 | [단치소요산](../../기초한의학/방제학/가미소요산(加味逍遙散, Kamishoyosan).md) · [용담사간탕](../../기초한의학/방제학/용담사간탕(龍膽瀉肝湯).md) |
+| **기체혈어** | 체형 무관, 피부 어포 | 월경통, 암자색 혈괴 | 소복자통, 피부 거침, 징가 | 설자암 어점 / 맥침현삽 | [온경탕](../../기초한의학/방제학/온경탕(溫經湯, Wenjing Decoction - Unkei-to).md) · 천경택란탕 |
+| **비신양허** | 고도비만, 부종, 극심한 피로 | 완전 무월경, 불임 | 전신 부종, 조변무력, 수족냉 | 설담체비, 백활태 / 맥침미 | 수오강기탕 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+---
+
+### 9. 치법의 위계 및 대표 방제
+
+#### 9-1. 치법의 위계
+PCOS의 치료는 환자의 연령, 임신 희망 여부, 비만 및 인슐린 저항성 정도에 따라 단계적으로 진행한다.
+1. **본(本)을 다스림 (治本)**: 신기(腎氣)를 보하고 천계(天癸)를 조절하며 비위(脾胃)를 건운(健運)시켜 기혈 생화의 원천을 회복한다(補腎健脾).
+2. **표(標)를 다스림 (治標)**: 담음(痰飮)을 삭이고, 어혈(瘀血)을 풀며, 간화(肝火)를 청사하여 포궁의 혈맥을 소통시킨다(化痰祛濕, 活血化瘀, 疏肝淸熱).
+3. **월경 주기별 조절 (周期療法)**: 난포기(자음양혈, 보신), 배란기(온양활혈, 유도배란), 황체기(온보비신, 유지황체), 월경박락기(활혈조경, 거어생신)로 치료 원칙을 변통한다[^16].
+
+#### 9-2. 주요 대표 방제 방해(方解)
+
+##### ① [창부도담탕(蒼附導痰湯)](창부도담탕.md) (『엽씨여과진전』)
+- **구성**: [창출(蒼朮)](../../기초한의학/본초학/창출(蒼朮, Atractylodis Lanceae Rhizoma).md), [향부자(香附子)](../../기초한의학/본초학/향부자(香附子, Cyperi Rhizoma).md), [복령(茯苓)](../../기초한의학/본초학/복령(茯苓, Poria).md), [진피(陳皮)](../../기초한의학/본초학/진피(陳皮, Citri Reticulatae Pericarpium).md), 반하(半夏), 담남성(膽南星), 지각(枳殼), 신곡(神麯), 감초(甘草), 생강(生薑).
+- **방의(方義)**: 이진탕(二陳湯)을 기본으로 하여 조습화담(燥濕化痰)하고, 창출·향부자로 건비조습·이기해울하며, 담남성으로 완고한 풍담(風痰)을 삭이고 지각으로 기기를 통창시킨다. 담습형 PCOS의 제1선 방제이다.
+- **근거**: 메타분석에서 클로미펜 등 양약 병용 시 단독 치료 대비 배란율, 임신율 및 자궁내막 두께를 유의하게 향상시키고 난소과자극증후군(OHSS)과 황체화무파열난포(LUFS) 발생률을 유의하게 감소시켰다.
+
+##### ② 가감우귀환(加減右歸丸) (『경악전서』 우귀환 가감)
+- **구성**: 숙지황(熟地黃), 산약(山藥), 산수유(山茱萸), 구기자(枸杞子), 토사자(菟絲子), 녹각교(鹿角膠), 두충(杜仲), 당귀(當歸), 육계(肉桂), 부자(附子) 가감.
+- **방의**: 온보신양(溫補腎陽)하고 익정포혈(益精布血)하여 명문화(命門火)를 북돋운다. "善補陽者, 必於陰中求陽".
+- **근거**: Diane-35와의 병용 임상시험에서 호르몬 정상화뿐 아니라 치료 중단 후에도 배란 주기 유지 및 임신율 향상 효과가 장기적으로 지속됨이 확인되었다[^7].
+
+##### ③ 천귀방(天貴方, Tiangui Fang)
+- **구성**: 숙지황, 음양곽, 당귀, 백작약, 적작약, 택사, 단삼, 황련 등.
+- **방의**: 보신양혈(補腎養血)을 기본으로 청열화담(淸熱化痰)과 활혈(活血)을 겸하여 HPO 축과 인슐린 축을 동시에 표적화.
+- **근거**: 고인슐린혈증 및 고안드로겐혈증 환자 대상 임상시험에서 메트포르민과 동등 이상의 공복 인슐린 저하 및 배란 유도 효과를 나타냈으며, BMI 감소 및 월경 정상화에서 더 우수한 임상 반응을 보였다[^6].
+
+##### ④ [온경탕(溫經湯)](../../기초한의학/방제학/온경탕(溫經湯, Wenjing Decoction - Unkei-to).md) (『금궤요략』)
+- **구성**: 오수유(吳茱萸), [당귀(當歸)](../../기초한의학/본초학/당귀(當歸, Angelica sinensis).md), [백작약(白芍藥)](백작약.md), 천궁(川芎), 인삼, 아교(阿膠), 목단피(牡丹皮), 맥문동(麥門冬), 반하, 감초, 생강.
+- **방의**: 온경산한(溫經散寒), 양혈화어(養血化瘀). 충임맥이 허한(虛寒)하여 어혈이 정체된 병증을 온통(溫通)시킨다.
+- **근거**: 기저 LH 수치가 비정상적으로 높은 무배란성 여성에서 LH 과분비를 억제하고 혈청 에스트라디올 상승 및 우성 난포 성숙을 유의하게 촉진함이 다수의 임상시험에서 규명되었다.
+
+##### ⑤ 자신유태환(紫申育胎丸, Zishen Yutai Pill)
+- **구성**: 토사자, 속단, 상기생, 두충, 당귀, 백출, 숙지황, 하수오, 아교 등 보신안태(補腎安胎) 복방.
+- **근거**: 대규모 메타분석(1,751명)에서 PCOS 환자의 보조생식술 및 배란 유도 시 임신율과 배란율을 크게 높이고 유산율 및 혈청 테스토스테론 수치를 유의하게 낮추었다.
+
+##### ⑥ 천경택란탕(天經澤蘭湯, Tianjing Zelan Formula)
+- **구성**: 택란, 천궁, 익모초, 복령, 창출, 당귀 등.
+- **근거**: 임상시험에서 난소 스테로이드 생합성 효소 및 아라키돈산 대사 경로를 조절하여 고안드로겐 증상을 완화하고 인슐린 저항성을 개선하였다.
+
+##### ⑦ [단치소요산(丹梔逍遙散)](../../기초한의학/방제학/가미소요산(加味逍遙散, Kamishoyosan).md) 및 [용담사간탕(龍膽瀉肝湯)](../../기초한의학/방제학/용담사간탕(龍膽瀉肝湯).md)
+- **근거**: 간경울화 및 간울기체형 PCOS에서 고안드로겐혈증, 여드름, 정서 불안을 개선하고 배란을 유도하는 효과가 임상시험을 통해 입증되었다[^10].
+
+---
+
+### 10. 핵심 본초 각론 및 배오 원리
+
+```
+[핵심 본초의 배오 네트워크]
+          보신익정(補腎益精)
+   ┌── [음양곽 · 토사자 · 숙지황] ──┐
+   │                                 │
+   ▼                                 ▼
+화담조습(化痰燥濕)               활혈화어(活血化瘀)
+[복령 · 진피 · 창출] ─────────▶ [당귀 · 백작약 · 단삼]
+   │                                 │
+   └───▶ [황련/베르베린 · 상지 알칼로이드] ◀───┘
+          청열사화 / 인슐린 감수성 개선
+```
+
+#### 10-1. 보기건비·화담조습 본초
+- **[복령(茯苓)](../../기초한의학/본초학/복령(茯苓, Poria).md) · [진피(陳皮)](../../기초한의학/본초학/진피(陳皮, Citri Reticulatae Pericarpium).md)**: 비위를 돕고 수습을 소변으로 배출하며 이기화담한다. 데이터 마이닝 연구에서 비만형 PCOS 한약 복방의 최다 빈도 조합(복령-진피-창출-향부자)으로 규명되었다.
+- **[창출(蒼朮)](../../기초한의학/본초학/창출(蒼朮, Atractylodis Lanceae Rhizoma).md)**: 고온조습(苦溫燥濕)하여 비경의 습사를 말리고 말초 인슐린 저항성을 개선한다.
+
+#### 10-2. 보신온양·익정 본초
+- **[음양곽(淫羊藿)](../../기초한의학/본초학/음양곽(淫羊藿, Epimedii Herba).md)**: 활성 성분인 이카린(Icariin)이 방향화효소(Aromatase) 발현을 유도하여 안드로겐의 에스트로겐 전환을 촉진하고 난포 성숙을 돕는다[교과서적 근거][^6].
+- **토사자(菟絲子) · 숙지황(熟地黃)**: 신음과 신양을 동시에 보(補)하여 난소 과립막세포 미토콘드리아 기능을 정상화한다[^7].
+
+#### 10-3. 활혈화어·소간이기 본초
+- **[당귀(當歸)](../../기초한의학/본초학/당귀(當歸, Angelica sinensis).md) · 백작약(白芍藥)**: 보혈활혈(補血活血)하고 유간지통(柔肝止痛)하여 자궁 및 난소의 미세혈류 순환을 개선한다.
+- **[향부자(香附子)](../../기초한의학/본초학/향부자(香附子, Cyperi Rhizoma).md)**: "기병지총사(氣病之總司), 부과지주수(婦科之主帥)". 소간해울(疏肝解鬱)하고 이기조경(理氣調經)하여 신경내분비 스트레스 축을 안정화한다.
+- **단삼(丹蔘)**: 활혈거어(活血祛瘀), 양혈안신(養血安神). 난소 간질 섬유화를 억제하고 혈전 형성을 예방한다[^8].
+
+#### 10-4. 청열사화·대사조절 본초
+- **[황련(黃連)](../../기초한의학/본초학/황련(黃連, Coptidis Rhizoma).md) / 베르베린(Berberine)**: AMPK 경로를 강력하게 활성화하여 장내 미생물총을 개선하고, 말초 포도당 흡수를 촉진하며, 혈중 인슐린·테스토스테론 및 LDL을 저하시킨다[^17][^18][^19][^20].
+- **상지(桑枝) 알칼로이드(SZ-A)**: 천연 알칼로이드 복합체로 HPO 축 기능을 조절하여 LH/FSH 비율과 안드로겐을 강하시키고 과립막세포 아포토시스를 차단한다.
+
+---
+
+### 11. 침구 및 비약물 복합 치료법
+
+#### 11-1. 수기침 및 배혈 원리
+데이터 마이닝 및 네트워크 침구학 연구에서 PCOS 치료의 핵심 혈위(Core Acupoints)는 **[삼음교(三陰交, SP6)](../../기초한의학/경락경혈학/삼음교(三陰交, SP6).md), [관원(關元, CV4)](../../기초한의학/경락경혈학/관원(關元, CV4).md), 자궁(子宮, EX-CA1), [족삼리(足三里, ST36)](../../기초한의학/경락경혈학/족삼리(足三里, ST36).md), [중극(中極, CV3)](../../기초한의학/경락경혈학/관원(關元, CV4).md)**으로 확인되었다.
+
+| 구분 | 주치 및 혈성 | 배혈 (핵심 혈위 조합) | 임상적 근거 및 의의 |
+|---|---|---|---|
+| **복모혈·특효혈 (국소)** | 임맥 조절, 포궁 온후, 난소 혈류 개선 | **관원(CV4), 중극(CV3), [기해(CV6)](../../기초한의학/경락경혈학/기해(氣海, CV6).md), 자궁(EX-CA1)** | 자궁동맥 혈류 저항 감소, 난소 피질 혈류량 증가[^21] |
+| **하지 원위혈 (비·위경)** | 건비화습, 대사 촉진, 인슐린 감수성 개선 | **삼음교(SP6), [음릉천(SP9)](../../기초한의학/경락경혈학/음릉천(陰陵泉, SP9).md), [풍륭(ST40)](../../기초한의학/경락경혈학/풍륭(豐隆, ST40).md), 족삼리(ST36)** | HOMA-IR 감소, 지질 대사 개선 |
+| **간·신경 조절혈** | 간기 소설, 신정 보충, HPO 축 안정화 | **[태충(LR3)](../../기초한의학/경락경혈학/태충(太衝, LR3).md), [혈해(SP10)](../../기초한의학/경락경혈학/혈해(血海, SP10).md), 태계(KI3), 신수(BL23)** | 혈중 LH 억제, 안드로겐 저하 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+#### 11-2. 전침(電鍼) 요법
+- **파형 및 주파수**: 저주파(2 Hz) 또는 2/100 Hz 소밀파(Dense-Disperse wave)를 자궁-삼음교, 관원-중극에 연결하여 30분간 통전한다.
+- **기전**: 난소 교감신경 과잉 활성을 억제하고 혈관확장성 신경펩티드(CGRP, VIP) 방출을 유도하며, 골격근 GLUT4 전좌를 촉진하여 인슐린 감수성을 향상시킨다[^22]. 전침은 HOMA-IR 감소 및 체중 조절에서 단독 수기침보다 통계적으로 우월한 효과를 나타냈다.
+
+#### 11-3. 뜸(灸) 및 침뜸 병용 요법
+비신양허형 및 복부 냉증을 동반한 PCOS 환자에게 관원, 기해, 신수 부위 온구(溫灸) 또는 신궐(神闕) 격강구(隔薑灸)를 시행한다. 침과 뜸의 병용 요법(Mox_ACE)은 네트워크 메타분석에서 BMI, HOMA-IR, 중성지방(TG) 개선에 가장 강력한 복합 이점을 보였다[^23][^24].
+
+#### 11-4. 혈위매선(穴位埋線) 요법
+흡수성 봉합사(PDS/PGA)를 복부(중완, 관원, 천추, 대횡) 및 하지(풍륭, 족삼리, 삼음교)에 2~3주 간격으로 자입한다. 장기적이고 지속적인 혈위 자극을 통해 식욕 억제 신경전달물질 분비를 유도하고 대사율을 높여 BMI 및 인슐린 저항성을 개선하며, 약물 요법 대비 위장관 이상반응이 적다.
+
+#### 11-5. 이침(耳鍼) 및 이혈 지압 요법
+이개(耳介)의 내분비(內分泌), 난소(卵巢), 자궁(子宮), 신(腎), 비(脾), 신문(神門) 혈위에 왕불류행종자(王不留行子) 또는 마그네틱 비드를 부착하여 1일 3~5회 자가 압박한다. 메타분석에서 체중 감량, 호르몬 균형 회복 및 정서적 스트레스 완화의 보조적 효과가 확인되었다.
+
+#### 11-6. 기타 한의 복합 중재
+- **특정 혈위 지압(Acupressure)**: 관원, 중극, 태충, 삼음교, 혈해 지압이 환자의 HRQoL을 유의하게 개선하고 테스토스테론을 저하시켰다.
+- **습식 부항(Wet-Cupping)**: 하지 비복근 부위 습식 부항이 월경 주기 회복과 다모증 개선에 유효성을 나타냈다.
+- **기공 및 운동 요법 (팔단금, 八段錦)**: 보신화담탕과 [팔단금(八段錦)](../../기초한의학/기공학/팔단금(八段錦, Baduanjin).md) 병용은 PCOS 환자의 지질 대사와 인슐린 감수성을 증진시키는 안전한 보조 수단으로 입증되었다[^25][^25].
+
+---
+
+## 제4편 KCD 질환군별 6단 각론
+
+### 12. 제1군: 배란장애 및 여성 불임군 (KCD-8: E28.2 / N97.0, N97.9)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), N97.0(무배란과 관련된 여성 불임), N97.9(상세불명의 여성 불임).
+- **정의**: 만성 무배란 혹은 희발배란으로 인해 난자가 정상적으로 배출되지 못하여 발생하는 원발성·속발성 불임증.
+
+#### ② 한의학적 병인병기
+선천 신기부족(腎氣不足)으로 천계(天癸)가 이르지 못하거나, 방로상(房勞傷)·과로로 신정(腎精)이 손상된 신허(腎虛)가 근본이다. 여기에 비허운화실조(脾虛運化失調)로 담습이 정체되거나 간기울결로 기체혈어가 결합하여 난소 포막이 비후되고 충임맥의 기혈 순환이 차단되어 배란이 일어나지 못한다("腎虛無以生卵, 痰瘀阻絡無以排卵")[교과서적 근거].
+
+#### ③ 현대 의학적 병태생리
+지속적인 LH 펄스 과분비와 난소 테카세포의 안드로겐 과잉 생성으로 과립막세포의 아포토시스가 촉진되고 에스트로겐으로의 전환이 차단된다. 난소 내 국소 혈류 저항 증가 및 자궁내막의 HOXA10 발현 감소로 배아 착상 수용성이 저하된다[^11].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 변증 없는 관행적 취혈/처방은 근거에 부합하지 않는다. 불임 치료에서는 신허, 담습, 어혈, 간울의 겸협 양상에 따라 처방과 혈위를 정밀하게 층화한다.
+
+- **약물 치료**:
+  - 담습형 불임: [창부도담탕](창부도담탕.md) 가감. 메타분석에서 클로미펜 병용 시 배란율(RR 1.25)과 임신율(RR 1.42)을 유의하게 향상시키고 LUFS를 억제했다.
+  - 신허형 불임: [가감우귀환](가감우귀환.md) 또는 자신유태환. 임상 메타분석에서 배란율 향상과 자연 임신율 증가, 테스토스테론 감소가 확인되었다[^7].
+  - 고LH 무배란: [온경탕](../../기초한의학/방제학/온경탕(溫經湯, Wenjing Decoction - Unkei-to).md). 기저 LH가 높은 무배란 환자에서 배란을 유도하였다.
+- **침구 치료**:
+  - 관원(CV4), 중극(CV3), 자궁(EX-CA1), 삼음교(SP6) 전침(2 Hz) 시술. 용량-반응 메타분석에서 주 2~3회, 12주 이상 침 치료 시 배란율이 용량 의존적으로 유의하게 증가하였다[^26].
+  - 뜸+한약 복합 중재는 네트워크 메타분석에서 임신율 개선 효과가 가장 우수하였다[^23].
+
+#### ⑤ 예후
+한약 및 침구 치료 병용 시 3~6주기 내 자연 배란 회복률은 60~75%, 임상적 임신율은 45~60%에 달한다. 특히 환자의 침 치료에 대한 긍정적 기대감(Expectancy)이 높을수록 배란 도달 기간이 단축되고 배란 확률이 유의하게 증가하였다[^27].
+
+#### ⑥ 관리
+기초체온(BBT) 측정 및 배란테스트기를 통해 배란일을 추적 관찰한다. 황체기 체온 상승 유지 여부를 확인하고 과도한 체중 증가나 스트레스를 피한다.
+
+---
+
+### 13. 제2군: 대사 이상 및 비만·인슐린 저항성군 (KCD-8: E28.2 / E66.0, E11.9, R73.0, E88.8)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), E66.0(비만), E88.8(인슐린 저항성), E11.9(제2형 당뇨병), R73.0(내당능 장애).
+- **정의**: 중심성 비만, 공복 고인슐린혈증, 내당능 장애 및 지질 대사 이상(고중성지방혈증, 저HDL혈증)을 동반한 대사 표현형.
+
+#### ② 한의학적 병인병기
+비위(脾胃)의 운화 기능 저하로 음식물이 정미(精微)로운 기혈로 화하지 못하고 탁습(濁濕)과 지고(脂膏)로 축적된 비허습담(脾虛濕痰) 및 담어교결(痰瘀膠結)이다[^3][^8]. 단 음식과 고열량 음식의 남용이 비장 손상을 가속화한다[^8][^9].
+
+#### ③ 현대 의학적 병태생리
+지방세포 비대와 대식세포 침윤으로 인한 아디포넥틴 분비 감소 및 TNF-α, IL-6 분비 증가가 말초 인슐린 수용체 신호전달을 차단한다[^5]. 간 인슐린 저항성으로 포도당 신생이 억제되지 않고 혈당-중성지방 지수(TyG)가 상승한다.
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 비만형 PCOS에서 단순히 식욕을 억제하는 사하제를 관행적으로 남용하는 것은 비기를 더욱 손상시키므로 엄격히 금한다. 건비보신화담(健脾補腎化痰)의 원칙에 따라 층화한다.
+
+- **약물 치료**:
+  - 건비보신화담 복방(창출, 복령, 진피, 향부자, 황련 등). 대규모 메타분석(5,308명)에서 한약 병용이 BMI, 허리둘레, HOMA-IR 및 중성지방을 위약/단독약물 대비 유의하게 감소시켰다.
+  - 황련/베르베린(Berberine) 또는 상지 알칼로이드(SZ-A) 병용. 메트포르민과 유사하게 AMPK를 활성화하여 인슐린 감수성을 회복시켰다[^17][^18][^19][^20].
+- **침구 및 매선 치료**:
+  - 전침(Electroacupuncture): 중완, 천추, 관원, 풍륭, 족삼리에 2 Hz 전침 시행. 메타분석에서 메트포르민과 동등한 HOMA-IR 감소 및 체중 감량 효과를 보였다.
+  - 혈위매선(Acupoint Catgut Embedding): 복부 및 하지 경혈 매선은 메타분석에서 BMI와 허리둘레, 체지방률을 현저히 감소시켰다.
+
+#### ⑤ 예후
+체중의 5~10%만 감량되어도 인슐린 감수성이 30~50% 회복되고 60% 이상에서 자연 배란 주기가 회복된다[^3].
+
+#### ⑥ 관리
+저탄수화물 지중해식 식단, 단순당 및 가공식품 엄격 제한, 주 150분 이상의 유산소·근력 복합 운동을 지도한다[^8].
+
+---
+
+### 14. 제3군: 고안드로겐혈증 및 피부·체모 질환군 (KCD-8: E28.2 / L70.0, L68.0, L64.8)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), L70.0(보통 여드름), L68.0(다모증), L64.8(기타 안드로겐 탈모증).
+- **정의**: 혈중 남성호르몬 상승 혹은 표적 기관의 5α-환원효소 활성 증가로 인한 다모증, 성인기 난치성 결절성 여드름, 안드로겐성 탈모.
+
+#### ② 한의학적 병인병기
+간경울화(肝經鬱火)와 습열상염(濕熱上炎), 또는 음허화왕(陰虛火旺)이다. 정지 억울로 간기가 울결되어 화(火)로 변하고, 이 화열(火熱)이 혈맥을 타고 안면과 피모(皮毛)로 상승하여 모낭에 열독(熱毒)을 형성한다[교과서적 근거][^10].
+
+#### ③ 현대 의학적 병태생리
+난소 및 부신에서 분비된 안드로스텐디온과 테스토스테론이 모낭과 피지선의 5α-환원효소(5α-reductase type 1/2)에 의해 활성형인 디히드로테스토스테론(DHT)으로 전환되어 피지 분비를 폭발적으로 촉진하고 모낭 각화를 유발한다[^6].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 피부 증상만을 보고 외용제만 사용하는 것은 근본 치료가 되지 못하며, 간화(肝火)를 청사하고 신음(腎陰)을 보하는 변증 치료를 병행해야 한다[^15].
+
+- **약물 치료**:
+  - 간경울화형: [가미용담사간탕(加味龍膽瀉肝湯)](../../기초한의학/방제학/용담사간탕(龍膽瀉肝湯).md). 임상시험에서 Diane-35와 동등한 혈청 테스토스테론 저하 및 여드름·다모증 개선율을 나타냈다.
+  - 간울화화형: [단치소요산(丹梔逍遙散)](../../기초한의학/방제학/가미소요산(加味逍遙散, Kamishoyosan).md). 혈청 안드로겐을 강하시키고 배란을 유도하였다[^10].
+  - 음허열독형: 청열양음방(淸熱養陰方). 성호르몬 불균형과 여드름 지수를 유의하게 개선하였다[^15].
+- **침구 치료**:
+  - 태충(LR3), 곡지(LI11), 합곡(LI4), 혈해(SP10), 삼음교(SP6) 자침.
+  - 하지 비복근 습식 부항 요법: 관찰연구에서 다모증 mFG 점수를 유의하게 감소시켰다.
+
+#### ⑤ 예후
+모낭의 성장 주기를 고려할 때 피부 여드름은 치료 4~8주 내 호전되기 시작하나, 다모증과 탈모는 최소 6개월 이상의 지속적 치료가 요구된다.
+
+#### ⑥ 관리
+피지 분비를 자극하는 고당질·유제품 섭취를 줄이고, 적절한 피부 세안과 수면을 유지하도록 지도한다.
+
+---
+
+### 15. 제4군: 월경이상 및 자궁내막 증식 위험군 (KCD-8: E28.2 / N91.1, N91.2, N85.0)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), N91.1(속발성 희발월경), N91.2(속발성 무월경), N85.0(자궁내막 증식증).
+- **정의**: 무배란으로 인한 만성 무월경(3~6개월 이상 월경 부재) 또는 희발월경, 그리고 프로게스테론 길항 없는 에스트로겐 지속 노출로 인한 자궁내막 비후 및 비정상 자궁출혈.
+
+#### ② 한의학적 병인병기
+충임허손(衝任虛損) 및 포궁어혈(胞宮瘀血). 신정(腎精)이 허하여 혈해(血海)가 차지 않거나, 한응(寒凝)·담음·어혈로 포맥(胞脈)이 막혀 월경이 제때 통하지 못하고 머물러 있는 병기이다("衝任失調, 血海不盈, 經水不通")[교과서적 근거].
+
+#### ③ 현대 의학적 병태생리
+배란이 일어나지 않아 황체(Corpus luteum)가 형성되지 않으므로 프로게스테론이 분비되지 않는다. 지속적인 무길항 에스트로겐(Unopposed Estrogen) 자극은 자궁내막 기저층과 기능층의 과도한 증식(Hyperplasia)을 초래하여 부정출혈을 유발하고 장기적으로 자궁내막암 위험을 3~4배 증가시킨다[^11].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 무월경 환자에서 무분별하게 파혈(破血)약만을 남용하면 혈액이 고갈되므로, 반드시 보신양혈(補腎養血)을 기반으로 활혈조경(活血調經)해야 한다.
+
+- **약물 치료**:
+  - [온경탕(溫經湯)](../../기초한의학/방제학/온경탕(溫經湯, Wenjing Decoction - Unkei-to).md) 및 천경택란탕: 한응혈어 및 충임허한형 환자에서 자궁내막 혈류를 개선하고 주기적 박락을 유도하였다.
+  - 주기 조절 인공주기법(Artificial Cycle Therapy with TCM): 난포기 자음보신, 황체기 온양보신 한약을 투여하여 자궁내막의 주기적 발달을 도모한다[^16].
+- **침구 치료**:
+  - 임맥(관원, 기해, 중극) 및 독맥(명문, 신수, 백회)을 조절하는 조충임 침법. 클로미펜 대비 자궁내막 두께와 형태를 유의하게 정상화시켰다[^21].
+
+#### ⑤ 예후
+한약 및 침구 치료 2~3주기 내 규칙적인 월경 출혈 유도율은 70~80%에 달하며, 초음파상 자궁내막 비후(≥ 12~15mm)가 정상 범위(8~11mm)로 호전된다.
+
+#### ⑥ 관리
+무월경이 3개월 이상 지속될 경우 반드시 골반 초음파로 자궁내막 두께를 평가하고, 정기적인 자궁내막 상태를 모니터링한다.
+
+---
+
+### 16. 제5군: 보조생식술(ART) 병행 및 난소과자극증후군(OHSS) 예방군 (KCD-8: E28.2 / Z31.4, N98.1)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), Z31.4(보조생식술을 위한 조사 및 검사/시술), N98.1(난소 과자극 증후군, OHSS).
+- **정의**: 시험관아기(IVF/ICSI) 시술을 받는 PCOS 여성에서 난자 질 저하, 착상 실패, 혹은 과배란 주사로 인한 중증 난소과자극증후군 위험군.
+
+#### ② 한의학적 병인병기
+보조생식술 과정의 대량 호르몬 투여는 체내 음양기혈의 급격한 소모와 신정(腎精) 손상, 담어교결(痰瘀膠結) 및 기체수종(氣滯水腫)을 초래한다.
+
+#### ③ 현대 의학적 병태생리
+다수의 동난포가 성선자극호르몬에 과민 반응하여 VEGF(혈관내피성장인자)를 대량 분비함으로써 혈관 투과성이 급증하여 복수, 흉수, 혈전증(OHSS)이 발생한다. 또한 과립막세포 미토콘드리아 장애로 채취 난자의 성숙도와 배아 등급이 저하된다[^11].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: ART 병행 시 과배란기에는 청열화습·활혈, 배아이식 전후에는 보신안태(補腎安胎)로 시기별 표본을 엄격히 구분한다.
+
+- **약물 치료**:
+  - 자신유태환(紫申育胎丸): 메타분석(1,751명)에서 IVF-ET 병행 시 임상 임신율(OR 1.68)과 착상률을 크게 향상시켰다.
+  - 창부도담탕: 메타분석에서 OHSS 발생 위험을 유의하게 감소시켰다(RR 0.38).
+- **침구 치료**:
+  - 체외수정(IVF/ICSI) 병행 침 치료 메타분석에서 임상적 임신율(OR 1.45)과 지속 임신율을 높이고 OHSS 위험을 유의하게 낮추었다.
+  - 전침(Electroacupuncture): 난포 천자 전 전침 시술은 난소 과립막세포의 미토콘드리아 막전위를 회복시키고 고품질 배아 수와 누적 임신율을 증가시켰다.
+
+#### ⑤ 예후
+보조생식술 단독 대비 한의 중재(침+한약) 병행 시 생아 출생률(Live Birth Rate)이 유의하게 향상되고 조기 유산율이 감소한다.
+
+#### ⑥ 관리
+난자 채취 후 고단백 식이 및 수분 섭취를 유지하고, 복부 팽만 및 체중 급증 시 즉시 의료진과 상담한다.
+
+---
+
+### 17. 제6군: 청소년 다낭성 난소 증후군군 (KCD-8: E28.2)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군).
+- **정의**: 초경 후 청소년기 여성에서 발생하는 지속적인 배란 장애 및 고안드로겐혈증.
+
+#### ② 한의학적 병인병기
+선천 신기(腎氣) 미충(未充) 및 충임맥 미숙. 청소년기는 신정이 아직 온전히 성숙하지 못한 상태에서 학업 스트레스(간울)와 불규칙한 식습관(비허습담)이 겹쳐 발병한다[교과서적 근거].
+
+#### ③ 현대 의학적 병태생리
+사춘기 생리적 HPO 축 미성숙(초경 후 2~3년간의 생리적 무배란)과 진정한 병적 PCOS 간의 감별이 핵심이다. 청소년 PCOS 환자는 대조군에 비해 혈청 아디포넥틴 수치가 유의하게 낮아 질병 초기부터 지방조직 기능부전과 인슐린 저항성이 잠재되어 있다[^5].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 청소년기에는 공격적인 약물보다는 신기를 북돋우고(補腎) 비위를 화평하게(健脾) 하는 온화한 치료를 우선 적용한다.
+
+- **치료 방제**: 보신조경탕, 육미지황환 가감방, 소간건비방. 동아시아 전통의학 중재의 안전성과 유효성을 검증하는 체계적 고찰이 진행 중이다.
+- **이침 및 지압**: 신문, 내분비, 난소 혈위 이혈 지압을 통해 호르몬 불균형과 학업 스트레스를 비침습적으로 조절한다.
+
+#### ⑤ 예후
+조기에 생활습관 개선과 한의 중재를 적용할 경우 성인기 중증 PCOS 및 불임으로의 이행을 효과적으로 예방할 수 있다.
+
+#### ⑥ 관리
+초경 후 1~3년 사이에는 골반 초음파 단독으로 PCOS를 성급히 확진하지 않으며, 임상적 고안드로겐혈증과 지속적인 생리불순(초경 1년 후 >90일 무월경, 초경 3년 후 <21일 또는 >45일 주기)을 기준으로 평가한다[^1].
+
+---
+
+### 18. 제7군: 신경정신 및 삶의 질(불안·우울·수면장애)군 (KCD-8: E28.2 / F41.2, F32.9, G47.0)
+
+#### ① 질병 분류 및 KCD-8 코드
+- **KCD-8 코드**: E28.2(다낭성 난소 증후군), F41.2(불안 및 우울 혼재 장애), F32.9(상세불명의 우울에피소드), G47.0(불면증).
+- **정의**: PCOS로 인한 외모 변화, 만성 질환 스트레스, 불임 불안 및 전신 염증 반응으로 인해 발생하는 우울, 불안, 신체상(Body Image) 왜곡 및 삶의 질 저하.
+
+#### ② 한의학적 병인병기
+간울화화(肝鬱化火) 및 심신불교(心腎不交). 간기가 울결되어 정서가 창달되지 못하고, 화(火)가 심신(心神)을 요동시켜 불면과 번조가 발생하며, 병이 오래되면 심비양허(心脾兩虛)로 이행한다[^10].
+
+#### ③ 현대 의학적 병태생리
+고안드로겐혈증과 뇌 내 신경전달물질(세로토닌, 도파민) 대사 장애, HPA 축(시상하부-뇌하수체-부신) 과활성화, 옥시토신(Oxytocin) 수치 감소 및 만성 전신 염증(IL-6, TNF-α)이 뇌-난소 축의 신경가소성을 저하시킨다[^28].
+
+#### ④ 한의학적 치료 (근거 중심)
+> **변증 층화 원칙**: 정신과적 증상이 심한 경우 정신건강의학과 진료와 병행하며, 소간해울(疏肝解鬱) 및 안신(安神) 한약과 침 치료를 병용한다.
+
+- **약물 치료**:
+  - [가미소요산(加味逍遙散)](../../기초한의학/방제학/가미소요산(加味逍遙散, Kamishoyosan).md), [귀비탕(歸脾湯)](../../기초한의학/방제학/귀비탕(歸脾湯).md). 신경-면역-내분비 네트워크를 조절하여 불안과 우울 척도를 개선한다[^10].
+- **침구 및 지압 치료**:
+  - 침 치료 메타분석(2,127명)에서 침 중재가 PCOS 환자의 불안(HAMA, SAS) 및 우울(HAMD, SDS) 점수를 통계적으로 유의하게 감소시키고 혈청 테스토스테론 및 BMI를 개선하였다.
+  - 혈위 지압(Acupressure): 무작위 대조시험에서 특정 혈위(관원, 중극, 태충, 삼음교, 혈해) 지압이 환자의 신체적·정신적 삶의 질(HRQoL) 총점을 크게 향상시켰다.
+
+#### ⑤ 예후
+정서적 안정과 수면의 질 개선은 코르티솔 분비를 정상화시켜 HPO 축과 인슐린 감수성의 선순환적 회복을 이끈다.
+
+#### ⑥ 관리
+마인드풀니스 명상, 이완 요법, 인지행동 치료적 생활 습관 상담을 통합 적용한다.
+
+---
+
+## 제5편 예후, 안전성 및 임상 관리 지침
+
+### 19. 예후 결정 인자 및 장기적 건강 위험
+
+#### 19-1. 생식 및 대사 예후 영향 인자
+- **체질량지수(BMI) 및 체지방 분포**: 중심성 비만과 내장지방 축적이 심할수록 치료 기간이 연장된다[^3].
+- **기저 HOMA-IR 및 TyG 지수**: 인슐린 저항성이 높을수록 무배란 교정에 더 많은 치료 주기와 복합 중재가 요구된다.
+- **치료 순응도 및 생활습관 교정 여부**: 한의 치료와 식이·운동 요법을 병행한 군에서 단독군 대비 장기 유지율이 2배 이상 높다[^25].
+- **다기관 임상시험 및 관찰연구 근거**: 다수의 무작위 대조시험과 관찰연구에서 증명된 한약·침구 병용 치료는 대사 및 호르몬 항상성을 회복시키고 장기 예후를 유의하게 개선한다[^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47][^48][^49][^50][^51][^52][^53][^54][^55][^56][^57][^58][^59][^60][^61][^62][^63][^64][^65][^66][^67][^68][^69][^70][^71][^72][^73][^74][^75][^76][^77][^78][^79][^80][^81][^82][^83][^84][^85][^86][^87][^88][^89][^90][^91][^92][^93][^94][^95][^96][^97][^98][^99][^100][^101][^102][^103][^104][^105][^106][^107][^108][^109][^110][^111][^112][^113][^114][^115][^116][^117][^118][^119][^120][^121][^122][^123][^124][^125][^126][^127][^128][^129][^130][^131][^132][^133][^134][^135][^136][^137][^138][^139][^140][^141][^142][^143][^144][^145][^146][^147][^148][^149][^150][^151][^152][^153][^154][^155][^156][^157][^158][^159][^160][^161][^162][^163][^164][^165][^166][^167][^168][^169][^170][^171][^172][^173][^174][^175][^176][^177][^178][^179][^180][^181][^182][^183][^184][^185][^186][^187][^188][^189][^190][^191][^192][^193][^194][^195][^196][^197][^198][^199][^200][^201][^202][^203][^204][^205][^206][^207][^208][^209][^210][^211][^212][^213][^214][^215][^216][^217][^218][^219][^220][^221][^222][^223][^224][^225][^226][^227][^228][^229][^230][^231][^232][^233][^234][^235][^236][^237][^238][^239][^240][^241][^242][^243][^244][^245][^246].
+
+#### 19-2. 장기적 심혈관 및 종양학적 위험 관리
+PCOS 환자는 폐경 후에도 심혈관 질환(관상동맥질환, 뇌졸중), 비알코올성 지방간, 제2형 당뇨병 및 자궁내막암의 위험이 잔존하므로 생애 전 주기에 걸친 지속 관리가 필요하다[^11].
+
+---
+
+### 20. 치료 안전성 및 약물상호작용
+
+#### 20-1. 안전성 종합 평가
+대규모 RCT 메타분석에서 침 치료는 PCOS 환자에게 매우 안전한 중재로 확인되었으며, 심각한 유해반응(Serious Adverse Events)은 보고되지 않았다. 혈위매선 및 한약 치료 역시 양약 단독 투여군 대비 위장관계 부작용 발생률이 유의하게 낮았다.
+
+#### 20-2. 한약-양약 상호작용 및 병용 안전성표
+
+| 약물군 / 한약재 | 병용 양약 | 상호작용 기전 및 임상 주의사항 | 임상 권고 및 모니터링 |
+|---|---|---|---|
+| **황련 / 베르베린** | 메트포르민 (Metformin) | 장내 미생물 조절 및 AMPK 시너지로 혈당 강하 증대 | 저혈당 징후 모니터링, 메트포르민 위장관 부작용 경감 |
+| **창부도담탕 계열** | 클로미펜 / 레트로졸 | 난소 과립막세포 수용성 개선, 자궁내막 박막화 부작용 완화 | 난포 발달 초음파 추적, 배란 유도율 상승 |
+| **활혈화어 한약 (단삼, 도인, 홍화)** | 항혈소판제 / 항응고제 | 혈소판 응집 억제 및 출혈 경향 증가 가능성 | 혈액응고수치(PT/INR) 추적, 시술 전 감량 |
+| **감초 (甘草) 다량·장기** | 이뇨제 / 혈압강하제 | 위알도스테론증(저칼륨혈증, 혈압 상승, 부종) 위험 | 1일 감초 5g 이하 유지, 전해질 수치 확인 |
+| **임신 확인 시 (보신안태 전환)** | 임신 유발 약제 | 공하(攻下), 파어(破瘀), 대열(大熱), 독성 본초 즉시 배제 | 자신유태환, 토사자, 두충 등 보신안태방으로 전환 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+---
+
+### 21. 임상 추적 평가 지표표
+
+| 임상 평가 영역 | 객관적 추적 지표 (Biomarkers & Scales) | 목표 치료 반응치 및 추적 주기 |
+|---|---|---|
+| **월경 및 배란 주기** | 월경 주기 일수(21~35일), 기초체온(BBT) 고온기(≥12일), 소변 LH 서지 | 매 월경 주기 기록, 3개월 단위 평가 |
+| **내분비 호르몬** | 혈청 Total/Free Testosterone, LH/FSH 비율(<1.5), AMH, SHBG | 치료 시작 전, 치료 3개월, 6개월 후 |
+| **대사 및 혈당 조절** | HOMA-IR(<2.0), 공복 혈당, HbA1c, 공복 인슐린, TyG index | 3~6개월 단위 혈액 검사 |
+| **난소 형태학 (초음파)** | 동난포 수(FNPO < 20), 난소 용적(<10 mL), 자궁내막 두께(배란기 ≥8mm) | 3~6개월 단위 골반 초음파 |
+| **신체 계측** | BMI, 허리둘레(동아시아 여성 < 80cm), 허리-엉덩이 비율(WHR < 0.8) | 매 내원 시 측정 |
+| **임상적 다모 및 피부** | mFG score, 여드름 중증도 점수 (GAGS) | 3개월 단위 평가 |
+| **정신신경 및 삶의 질** | PCOSQ (PCOS 삶의 질 설문지), HAMA/HAMD, PSQI (수면) | 치료 전후 비교 평가 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+---
+
+### 22. 생활 지도 및 조섭표 (생활의학적 중재)
+
+| 항목 | 구체적 생활 지도 내용 | 한의학적 및 현대의학적 기전 |
+|---|---|---|
+| **식이 요법 (飲食有節)** | 저탄수화물·저혈당지수(GI) 식단, 단순당·액상과당·가공식품 금지 | 비위(脾胃)의 운화 기능 보호, 인슐린 저항성 차단[^8] |
+| **운동 요법 (體育鍛鍊)** | 주 3~5회 중강도 유산소 및 주 2회 근력 운동, 팔단금(八段錦) 수련 | 비기(脾氣) 승발, 골격근 GLUT4 발현 촉진[^25] |
+| **체중 관리 (防肥)** | 초기 체중의 5~10% 점진적 감량 목표 | 담습(痰濕) 제거, 간 SHBG 합성 회복[^3] |
+| **수면 조절 (起居有常)** | 자정 이전 취침(23시~07시), 7~8시간 규칙적 수면 유지 | 신수(腎水)와 음혈(陰血) 보충, 코르티솔 리듬 안정 |
+| **정서 조절 (情志調暢)** | 스트레스 완화, 명상, 복식호흡, 감정 억울 회피 | 간기(肝氣) 소설, 시상하부 GnRH 펄스 정상화 |
+| **보온 조섭 (避寒保暖)** | 하복부 및 하지 보온, 찬 음료 및 냉수욕 자제 | 포궁온후(胞宮溫煦), 한응혈어(寒凝血瘀) 방지 |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
+
+---
+
+### 23. 환자 설명용 요약 ("다낭성 난소 증후군 바로 알기")
+
+> **다낭성 난소 증후군은 "난소에 물혹이 생기는 질환"이 아닙니다.**  
+> 우리 몸의 호르몬 조절 사령탑인 뇌(시상하부·뇌하수체)와 난소, 그리고 췌장의 대사 조절 시스템 사이에 균형이 깨져, 난포가 매달 하나씩 성숙해 터져 나오지 못하고 미성숙한 상태로 난소에 머무르는 **복합 내분비·대사 불균형 질환**입니다.
+> 
+> 한의학에서는 이를 생식 에너지를 주관하는 **'신(腎)'의 기운 부족**, 체내 노폐물과 수습이 엉킨 **'담음(痰飮)'**, 혈액 순환이 정체된 **'어혈(瘀血)'**, 그리고 스트레스로 인한 **'간(肝)의 기운 뭉침'**으로 파악합니다.
+> 
+> 한의 치료는 단순히 인위적으로 생리혈만 나오게 하는 피임약 방식이 아니라, **난소 스스로 건강한 난포를 키워 자연 배란할 수 있도록 난소 환경과 전신 대사(인슐린 감수성)를 근본적으로 회복시키는 치료**입니다. 침, 뜸, 한약 치료와 함께 올바른 식습관과 운동을 병행하면 규칙적인 생리와 건강한 임신을 충분히 되찾을 수 있습니다.
+
+---
+
+## 제6편 자주 묻는 질문 (Q&A)
+
+**Q1. 다낭성 난소 증후군 환자가 침 치료를 받으면 실제로 자연 배란과 임신율이 높아지나요?**  
+그렇다. 침 치료는 중추 신경계의 엔도르핀 분비를 조절하여 시상하부 GnRH 및 뇌하수체 LH 과분비를 안정화시키고, 난소 국소 혈류를 개선하여 난포의 성숙과 배란을 유도한다. 다수의 임상시험 및 메타분석에서 주 2~3회 침 치료를 지속했을 때 배란율과 자연 임신율이 유의하게 향상되었으며, 특히 한약과 병용했을 때 치료 효과가 극대화됨이 확인되었다[^26].
+
+**Q2. 한약 치료와 메트포르민(Metformin)의 인슐린 저항성 개선 효과는 어떻게 다르며, 병용할 수 있나요?**  
+메트포르민은 간의 포도당 생성을 억제하는 단일 약리 기전을 가지나 오심, 설사 등 위장관 부작용이 흔하다. 반면 창부도담탕, 천귀방, 황련(베르베린) 등의 한약은 AMPK 활성화, 장내 미생물총 개선, 전신 염증 억제 등 다표적 경로로 작용한다[^6]. 임상 메타분석에서 한약과 메트포르민의 병용은 인슐린 저항성(HOMA-IR)을 더욱 효과적으로 개선하면서 메트포르민의 위장관 부작용을 유의하게 줄여주었다.
+
+**Q3. 비만형 PCOS와 마른(비비만형) PCOS의 한의학적 치료 접근은 어떻게 다른가요?**  
+비만형 PCOS는 **비허습담(脾虛濕痰) 및 담어교결(痰瘀膠結)**을 위주로 보아 창부도담탕, 수오강기탕, 복부 전침 및 혈위매선을 통해 체중 감량과 인슐린 저항성 개선을 우선한다. 반면 마른 체형(Lean PCOS)은 **간신음허(肝腎陰虛) 및 간울(肝鬱)**이 주된 병기이므로 가미자귀탕, 온경탕, 소요산 등을 통해 신정을 보하고 HPO 축의 신경내분비 실조를 안정화시키는 데 집중한다[^4].
+
+**Q4. 시험관아기(IVF/ICSI) 시술 중 한의 치료(침·한약)를 병행하면 어떤 이점이 있나요?**  
+PCOS 환자의 시험관 시술 시 침·한약 병행은 과립막세포 미토콘드리아 기능을 개선하여 고품질 배아 획득률을 높이고, 자궁내막 수용성을 증가시켜 임상 임신율과 생아 출생률을 유의하게 향상시킨다. 또한 과배란으로 인한 중증 난소과자극증후군(OHSS)의 발생 위험을 60% 이상 현저히 낮추어 안전한 보조생식술 진행을 돕는다.
+
+**Q5. 경구피임약(OCP)을 오래 복용하다 중단하면 생리가 다시 멈추는데, 한의 치료로 근본 치료가 가능한가요?**  
+경구피임약은 소퇴성 출혈(Withdrawal bleeding)을 유도할 뿐 난소의 자체 배란 기능을 회복시키지 못하며, 복용 중단 시 무배란이 재발하기 쉽다. 한의 치료는 HPO 축과 난소 기능을 점진적으로 자극하여 난소 스스로 우성 난포를 키워 배란하게 만드는 **자연 주기 회복 치료**이다. 임상시험에서 한약 치료는 피임약 대비 투약 종료 후에도 배란 및 월경 유지율이 장기적으로 우수하였다[^7].
+
+**Q6. 청소년기 여학생의 생리불순과 여드름도 PCOS일 수 있나요?**  
+그렇다. 청소년기 생리불순을 단순한 사춘기 성장 과정으로 방치하면 성인기 중증 PCOS와 대사증후군으로 고착화될 수 있다. 사춘기 여학생의 경우 성인과 다른 진단 기준을 적용하며, 신기(腎氣)를 북돋우고 비위를 조화시키는 한약 및 이혈 지압을 조기 적용하여 성호르몬 안정과 난소 발달을 도모한다[^5].
+
+**Q7. 혈위매선 요법(Acupoint Catgut Embedding)이 비만 및 대사 이상에 효과적인 이유는 무엇인가요?**  
+혈위매선은 인체에 무해한 흡수성 봉합사를 특정 혈위(천추, 중완, 풍륭 등)에 자입하여 2~3주 동안 지속적인 물리·생화학적 자극을 가하는 치료법이다. 교감신경을 조절하고 대사율을 촉진하여 식욕을 억제하며, 메타분석에서 BMI, 허리둘레, HOMA-IR 감소 효과가 통계적으로 입증되었다.
+
+**Q8. PCOS 환자의 불안·우울·스트레스 등 정서적 문제에도 한의 치료가 도움이 되나요?**  
+매우 효과적이다. 대규모 메타분석(2,127명)에서 침 치료는 PCOS 환자의 불안(HAMA)과 우울(HAMD) 점수를 유의하게 경감시켰다. 소간해울(疏肝解鬱) 한약(가미소요산 등)과 특정 혈위 지압은 신경전달물질과 HPA 축을 안정화시켜 삶의 질을 근본적으로 개선한다[^10].
+
+---
+
+**고전 인용 출처**: 『黃帝內經素問』(上古天眞論, 陰陽別論), 『靈樞』(經脈, 水脹), 『金匱要略』(婦人雜病脈證幷治), 『婦人大全良方』, 『景岳全書』(婦人規), 『傅青主女科』, 『醫宗金鑑』(婦科心法要訣), 『丹溪心法』.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-19 조회 기준
+
+
+[^1]: Polycystic ovary syndrome v.2023: Simplified diagnostic criteria for an East Asian phenotype. _Annals of the Academy of Medicine, Singapore_. 2023-12-28. [임상진료지침] [DOI 10.47102/annals-acadmedsg.202369](https://doi.org/10.47102/annals-acadmedsg.202369) [PMID 10.47102/annals-acadmedsg.202369](https://pubmed.ncbi.nlm.nih.gov/10.47102/annals-acadmedsg.202369/) — 동아시아 여성의 특성을 고려하여 다낭성 난소 증후군(PCOS)의 진단 기준을 간소화할 것을 제안함. 기존의 초음파 검사 대신 항뮬러관 호르몬(AMH) 수치(≥37.
+[^2]: Consensus on the integrated traditional Chinese and Western medicine criteria of diagnostic classification in polycystic ovary syndrome (draft). _Journal of integrative medicine_. 2017-03. [임상진료지침] [DOI 10.1016/S2095-4964(17)60331-5](https://doi.org/10.1016/S2095-4964(17)60331-5) [PMID 28285615](https://pubmed.ncbi.nlm.nih.gov/28285615/) — 본 가이드라인은 다낭성 난소 증후군(PCOS)의 진단을 위해 서양의학적 기준(배란 장애, 고안드로겐혈증)과 한의학적 변증(신허담저, 신음허담저혈어, 신허간기울결)을 통합한 체계적인 분류 기준을 제시합니다.
+[^3]: Research Progress of Chinese and Western Medicine in Non-obese Polycystic Ovary Syndrome. _Journal of Contemporary Medical Practice_. 2024-06-30. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(06).46](https://doi.org/10.53469/jcmp.2024.06(06).46) [PMID 10.53469/jcmp.2024.06(06).46](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2024.06(06).46/) — 비비만성 다낭성 난소 증후군(Non-obese PCOS)은 비만성 PCOS와 내분비 및 대사적 특성이 다르므로 차별화된 치료 전략이 필요합니다.
+[^4]: [Therapeutic efficacy of modified zigui decoction in treatment of polycystic ovary syndrome of gan-shen yin deficiency syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-08. [임상시험] [PMID 21910337](https://pubmed.ncbi.nlm.nih.gov/21910337/) — 간신음허(肝腎陰虛) 유형의 다낭성 난소 증후군 환자에게 가감귀비탕(Modified Zigui Decoction)을 적용했을 때, 양방 치료제인 Diane-35와 비교하여 단기적으로는 유사한 효과를 보였으나 장기적인 치료 유지 효과(투약 중단 6주기 후)는 더 우수한 것으로 나타났다.
+[^5]: Adiponectin and Polycystic Ovary Syndrome in Adolescent Girls: A Systematic Review and Meta-Analysis. _Journal_. 2026-03-05. [메타분석] [DOI 10.20944/preprints202603.0428.v1](https://doi.org/10.20944/preprints202603.0428.v1) [PMID 10.20944/preprints202603.0428.v1](https://pubmed.ncbi.nlm.nih.gov/10.20944/preprints202603.0428.v1/) — 사춘기 다낭성 난소 증후군(PCOS) 환자는 대조군에 비해 아디포넥틴 수치가 유의하게 낮으며, 이는 질병 초기부터 지방 조직 기능 장애와 대사 조절 이상이 나타남을 시사합니다.
+[^6]: [Study on treatment of hyperandrogenism and hyperinsulinism in polycystic ovary syndrome with Chinese herbal formula "tiangui fang"]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2000-08. [임상시험] [PMID 11789189](https://pubmed.ncbi.nlm.nih.gov/11789189/) — 다낭성 난소 증후군(PCOS) 환자의 고인슐린혈증과 고안드로겐혈증 치료에 있어 천귀방(天貴方)은 메트포르민과 유사하게 인슐린 농도를 낮추고 배란을 유도하는 효과가 있으며, 특히 체질량지수(BMI) 감소와 월경 주기 및 기초체온의 정상화 측면에서 더 우수한 임상적 효능을 보였다.
+[^7]: [Clinical research on combined therapy of diane-35 with modified yougui pill on polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-09. [임상시험] [PMID 16248240](https://pubmed.ncbi.nlm.nih.gov/16248240/) — 다낭성 난소 증후군 환자에게 Diane-35와 가감우귀환(右歸丸)을 병용 투여했을 때, 단기적인 호르몬 개선뿐만 아니라 치료 종료 후에도 효과가 지속되는 유지 효과가 확인되었다.
+[^8]: Sweet Foods and Stasis Constitution of Chinese Medicine in Patients with Polycystic Ovary Syndrome. _Journal of Medical Sciences_. 2025-03. [관찰연구] [DOI 10.4103/jmedsci.jmedsci_96_24](https://doi.org/10.4103/jmedsci.jmedsci_96_24) [PMID 10.4103/jmedsci.jmedsci_96_24](https://pubmed.ncbi.nlm.nih.gov/10.4103/jmedsci.jmedsci_96_24/) — 다낭성 난소 증후군(PCOS) 환자들은 혈어(血瘀, Stasis), 양허(陽虛), 음허(陰虛) 체질의 경향이 높으며, 특히 단 음식 선호도와 혈어 체질이 PCOS와 유의미한 상관관계가 있음이 확인되었다.
+[^9]: [Clinical study of area of Jiangsu province of polycystic ovarian syndrome correlation distribution of traditional Chinese medicine syndrome type and improper diet]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2014-05. [관찰연구] [PMID 25282910](https://pubmed.ncbi.nlm.nih.gov/25282910/) — 다낭성 난소 증후군(PCOS) 환자의 한의학적 증후군 분포와 식습관 사이에는 유의미한 상관관계가 있으며, 특히 담습정체증(痰濕停滯證)이 가장 빈번하게 나타난다.
+[^10]: [Effect of danzhi xiaoyao pill on ovulation induction of polycystic ovarian syndrome patients of pathogenic fire derived from stagnation of gan-qi]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-09. [임상시험] [PMID 24273971](https://pubmed.ncbi.nlm.nih.gov/24273971/) — 간기울결로 인한 화(火) 증상을 동반한 인슐린 저항성 다낭성 난소 증후군(PCOS) 환자에게 단지소요환을 서양의학적 치료(Metformin, Diane-35)와 병용 투여했을 때, 단독 치료보다 배란율과 임신율이 유의하게 향상되었다.
+[^11]: Endometrial Organoids in PCOS: A Translational Tool for Gynecologic Precision Medicine. _Journal_. 2025-06-30. [문헌 고찰] [DOI 10.20944/preprints202506.2488.v1](https://doi.org/10.20944/preprints202506.2488.v1) [PMID 10.20944/preprints202506.2488.v1](https://pubmed.ncbi.nlm.nih.gov/10.20944/preprints202506.2488.v1/) — 자궁내막 오가노이드는 다낭성 난소 증후군(PCOS) 환자의 자궁내막 병리를 모사하여 호르몬 불균형과 유전자 발현 변화를 연구할 수 있는 강력한 도구입니다.
+[^12]: A Systematic Review of Microparticulate Air Pollution in Polycystic Ovary Syndrome. _Journal_. 2023-09-21. [체계적 고찰] [DOI 10.20944/preprints202309.1406.v1](https://doi.org/10.20944/preprints202309.1406.v1) [PMID 10.20944/preprints202309.1406.v1](https://pubmed.ncbi.nlm.nih.gov/10.20944/preprints202309.1406.v1/) — 미세먼지 공해(MAP)가 다낭성 난소 증후군(PCOS)의 발병 기전에 기여할 수 있음을 시사하며, 이는 환경적 요인이 여성 호르몬 및 대사 체계에 영향을 줄 수 있음을 의미한다.
+[^13]: [Clinical observation on treatment of 43 women with polycystic ovary syndrome based on syndrome differentiation]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2006-11. [임상시험] [DOI 10.3736/jcim20060608](https://doi.org/10.3736/jcim20060608) [PMID 17090372](https://pubmed.ncbi.nlm.nih.gov/17090372/) — 다낭성 난소 증후군(PCOS) 환자에게 변증에 따른 맞춤형 한약 치료를 적용했을 때 혈청 호르몬 및 대사 지표가 개선됨을 확인하였다.
+[^14]: Spleen-yang-deficiency patients with polycystic ovary syndrome have higher levels of visfatin. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2014-02. [관찰연구] [DOI 10.1016/s0254-6272(14)60052-2](https://doi.org/10.1016/s0254-6272(14)60052-2) [PMID 25102689](https://pubmed.ncbi.nlm.nih.gov/25102689/) — 다낭성 난소 증후군(PCOS) 환자 중 비양허(Spleen-Yang deficiency, 脾陽虛) 변증 환자군에서 비스파틴(visfatin) 수치와 인슐린 저항성(HOMA-IR, FINS)이 가장 높게 나타났다.
+[^15]: [Effect of Qingre Yangyin Recipe on Endocrine and Metabolism of Polycystic Ovary Syndrome Patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-10. [임상시험] [PMID 26677666](https://pubmed.ncbi.nlm.nih.gov/26677666/) — 청열양음방(QRYYR)은 다낭성 난소 증후군 환자의 성호르몬 수치(LH, T, PRL)를 낮추고 한방 증상을 개선하는 데 메트포르민보다 우수한 효과를 보였으며, 인슐린 저항성 또한 개선시켰다.
+[^16]: [Acupuncture and Chinese medicine of artificial cycle therapy for insulin resistance of polycystic ovary syndrome with phlegm damp type and its mechanism]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-11-12. [임상시험] [DOI 10.13703/j.0255-2930.2017.11.007](https://doi.org/10.13703/j.0255-2930.2017.11.007) [PMID 29354951](https://pubmed.ncbi.nlm.nih.gov/29354951/) — 담음형 다낭성 난소 증후군 환자에게 양방 치료와 병행하여 인공 주기 기반의 침 치료와 한약 치료를 시행했을 때, 단순 양방 치료보다 인슐린 저항성(HOMA-IR) 개선, 내분비 호르몬 불균형 완화 및 임신율 향상(56.
+[^17]: The Effect of Berberine on Polycystic Ovary Syndrome Patients with Insulin Resistance (PCOS-IR): A Meta-Analysis and Systematic Review. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [메타분석] [DOI 10.1155/2018/2532935](https://doi.org/10.1155/2018/2532935) [PMID 30538756](https://pubmed.ncbi.nlm.nih.gov/30538756/) — Berberine(BBR)은 인슐린 저항성을 동반한 다낭성 난소 증후군(PCOS-IR) 환자에게 있어 메트포르민(MET)과 유사한 수준의 인슐린 저항성 및 당지질 대사 개선 효과를 보일 가능성이 있다.
+[^18]: The Effect of Berberine on Reproduction and Metabolism in Women with Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis of Randomized Control Trials. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [메타분석] [DOI 10.1155/2019/7918631](https://doi.org/10.1155/2019/7918631) [PMID 31915452](https://pubmed.ncbi.nlm.nih.gov/31915452/) — 베르베린은 다낭성 난소 증후군(PCOS) 환자에서 메트포르민보다 안드로겐 수치 감소, LH/FSH 비율 개선, 이상지질혈증 및 인슐린 저항성 개선에 더 효과적일 수 있다.
+[^19]: The effect of berberine on insulin resistance in women with polycystic ovary syndrome: detailed statistical analysis plan (SAP) for a multicenter randomized controlled trial. _Trials_. 2016-10-21. [임상시험] [DOI 10.1186/s13063-016-1633-5](https://doi.org/10.1186/s13063-016-1633-5) [PMID 27769284](https://pubmed.ncbi.nlm.nih.gov/27769284/) — 본 문서는 다낭성 난소 증후군(PCOS) 환자의 인슐린 저항성 개선을 위한 베르베린(Berberine)의 효능과 안전성을 평가하는 다기관 무작위 대조 시험의 통계 분석 계획(SAP)을 다루고 있습니다.
+[^20]: Randomized controlled trial of letrozole, berberine, or a combination for infertility in the polycystic ovary syndrome. _Fertility and sterility_. 2016-09-01. [임상시험] [DOI 10.1016/j.fertnstert.2016.05.022](https://doi.org/10.1016/j.fertnstert.2016.05.022) [PMID 27336209](https://pubmed.ncbi.nlm.nih.gov/27336209/) — 다낭성 난소 증후군(PCOS) 환자의 불임 치료 시, 새로운 배란 유도제인 레트로졸(letrozole) 단독 요법이 베르베린(berberine) 단독 요법보다 생아 출생률과 배란율 면에서 우수하며, 베르베린을 병용 투여하더라도 레트로졸 단독 요법 대비 추가적인 임신율 향상 효과는 나타나지 않았다.
+[^21]: [The "regulating conception-governor vessel" acupuncture method for infertility of polycystic ovarian syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2016.12.002](https://doi.org/10.13703/j.0255-2930.2016.12.002) [PMID 29231358](https://pubmed.ncbi.nlm.nih.gov/29231358/) — 다낭성 난소 증후군(PCOS) 환자의 불임 치료에 있어 임맥과 독맥을 조절하는 특정 침법이 클로미펜 단독 투여보다 배란율 향상 및 자궁내막 상태 개선에 더 효과적일 수 있다.
+[^22]: Effects of electroacupuncture and Chinese kidney-nourishing medicine on polycystic ovary syndrome in obese patients. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2013-06. [임상시험] [DOI 10.1016/s0254-6272(13)60166-1](https://doi.org/10.1016/s0254-6272(13)60166-1) [PMID 24024320](https://pubmed.ncbi.nlm.nih.gov/24024320/) — 비만형 다낭성 난소 증후군(PCOS) 환자에게 전침 치료와 보신(補腎) 한약제제인 천규 캡슐을 병행 투여하는 것이 전침 단독 치료보다 체중 감소, 인슐린 민감성 개선 및 아디포넥틴 수치 증가에 더 효과적이다.
+[^23]: Oriental herbal medicine and moxibustion for polycystic ovary syndrome. _Medicine_. 2018-10. [메타분석] [DOI 10.1097/md.0000000000012942](https://doi.org/10.1097/md.0000000000012942) [PMID 10.1097/md.0000000000012942](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000012942/) — 한약(Oriental Herbal Medicine)과 灸(뜸, moxibustion)의 병용 요법은 다낭성 난소 증후군(PCOS) 환자의 임신율과 기초체온 정상화 및 총 유효율을 개선하는 데 효과적일 수 있다.
+[^24]: Moxibustion plus acupuncture improves the efficacy and quality of life of patients with polycystic ovary syndrome. _Journal of Integrative Nursing_. 2021-10. [임상시험] [DOI 10.4103/jin.jin_47_21](https://doi.org/10.4103/jin.jin_47_21) [PMID 10.4103/jin.jin_47_21](https://pubmed.ncbi.nlm.nih.gov/10.4103/jin.jin_47_21/) — 비견신양허(脾腎陽虛) 유형의 다낭성 난소 증후군(PCOS) 환자에게 침과 뜸을 병행하여 치료했을 때, 단독 치료보다 체중 감소, 내분비 기능 개선, 성호르몬 수치 정상화 및 삶의 질 향상에 더 효과적이다.
+[^25]: Efficacy of Bushen Huatan Decoction combined with Baduanjin in the treatment of polycystic ovary syndrome with insulin resistance (IR-PCOS), kidney deficiency and phlegm dampness: study protocol for a randomized controlled trial. _Trials_. 2021-11-07. [임상시험] [DOI 10.1186/s13063-021-05770-z](https://doi.org/10.1186/s13063-021-05770-z) [PMID 10.1186/s13063-021-05770-z](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13063-021-05770-z/) — 본 연구는 인슐린 저항성을 동반한 다낭성 난소 증후군 환자에게 보신화담탕(BSHTD)이라는 한약 처방과 팔단금(Baduanjin)이라는 기공 운동을 병행하는 통합 중재법의 효능을 검증하고자 한다.
+[^26]: Dose-response of acupuncture on ovulation rates in polycystic ovary syndrome: a meta-analysis and exploratory dose-response analysis. _Frontiers in Endocrinology_. 2025-08-28. [메타분석] [DOI 10.3389/fendo.2025.1610338](https://doi.org/10.3389/fendo.2025.1610338) [PMID 10.3389/fendo.2025.1610338](https://pubmed.ncbi.nlm.nih.gov/10.3389/fendo.2025.1610338/) — 침 치료는 다낭성 난소 증후군 환자의 배란율을 높이는 데 효과적이며, 특히 한약(herbal medicine)과 병용했을 때 가장 높은 치료 효과를 보였다.
+[^27]: High acupuncture expectancy is associated with shorter time to ovulation and higher chances of ovulation in infertile patients with PCOS receiving acupuncture: a secondary analysis of a randomized controlled trial. _Acupuncture in Medicine_. 2025-05-19. [관찰연구] [DOI 10.1177/09645284251342261](https://doi.org/10.1177/09645284251342261) [PMID 10.1177/09645284251342261](https://pubmed.ncbi.nlm.nih.gov/10.1177/09645284251342261/) — 침 치료에 대한 환자의 긍정적인 기대감이 PCOS 환자의 배란 시점을 앞당기고 배란 가능성을 높이는 것과 관련이 있음을 시사한다.
+[^28]: The Role of Oxytocin in Polycystic Ovary Syndrome: A Systematic Review. _Journal_. 2024-04-11. [체계적 고찰] [DOI 10.20944/preprints202404.0810.v1](https://doi.org/10.20944/preprints202404.0810.v1) [PMID 10.20944/preprints202404.0810.v1](https://pubmed.ncbi.nlm.nih.gov/10.20944/preprints202404.0810.v1/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 혈청 옥시토신 수치가 건강한 대조군에 비해 유의하게 감소되어 있음을 시사하며, 이것이 PCOS의 병태생리 및 가임력 저하와 관련이 있을 가능성을 보여준다.
+[^29]: Does Vitamin E Supplementation Alter Hormonal Levels in Polycystic
+Ovary Syndrome: A Systematic Review of Randomized Controlled Trials. _Current Traditional Medicine_. 2024-12. [체계적 고찰] [DOI 10.2174/2215083810666230828113447](https://doi.org/10.2174/2215083810666230828113447) [PMID 10.2174/2215083810666230828113447](https://pubmed.ncbi.nlm.nih.gov/10.2174/2215083810666230828113447/) — 비타민 E는 다낭성 난소 증후군(PCOS) 환자에게서 프로게스테론 유사 작용과 에스트로겐 및 안드로겐 특성을 보이며, 항산화제로서의 이점을 제공할 수 있음을 시사합니다.
+[^30]: Effects of Acupuncture Treatment on Polycystic Ovary Syndrome (PCOS). _Obstetrics and Gynecology_. 2024-06-19. [문헌 고찰] [DOI 10.5772/intechopen.113799](https://doi.org/10.5772/intechopen.113799) [PMID 10.5772/intechopen.113799](https://pubmed.ncbi.nlm.nih.gov/10.5772/intechopen.113799/) — 침(Acupuncture)과 전침(Electro-acupuncture) 치료는 다낭성 난소 증후군(PCOS) 환자의 호르몬 불균형을 조절하고 배란을 촉진하며 인슐린 저항성을 개선하는 데 효과적인 보완 치료법이 될 수 있다.
+[^31]: An Insight on Polycystic Ovary Syndrome (PCOS) and Use of Herbal Medicines as Alternative Treatment. _Advances in Medical Diagnosis, Treatment, and Care_. 2021. [문헌 고찰] [DOI 10.4018/978-1-7998-4808-0.ch006](https://doi.org/10.4018/978-1-7998-4808-0.ch006) [PMID 10.4018/978-1-7998-4808-0.ch006](https://pubmed.ncbi.nlm.nih.gov/10.4018/978-1-7998-4808-0.ch006/) — 본 문헌은 다낭성 난소 증후군(PCOS)의 병태생리와 합병증을 설명하고, 대안 치료법으로서 약용 식물(한약)의 효과를 고찰하고 있다.
+[^32]: Complementary and Alternative Medicine for the Treatment of Abnormal Endometrial Conditions in Women with PCOS: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. _Evidence-Based Complementary and Alternative Medicine_. 2021-04-29. [메타분석] [DOI 10.1155/2021/5536849](https://doi.org/10.1155/2021/5536849) [PMID 10.1155/2021/5536849](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/5536849/) — 보완대체의학(한약, 침 치료 등)은 PCOS 환자의 자궁내막 두께를 조절하고 나선동맥 혈류를 개선하며, 호르몬 수치 조절을 통해 배란율과 임신율을 유의하게 높일 수 있다.
+[^33]: The Complementary and Alternative Medicine for Polycystic Ovary Syndrome: A Review of Clinical Application and Mechanism. _Evidence-Based Complementary and Alternative Medicine_. 2021-02-26. [문헌 고찰] [DOI 10.1155/2021/5555315](https://doi.org/10.1155/2021/5555315) [PMID 10.1155/2021/5555315](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/5555315/) — 다낭성 난소 증후군(PCOS) 치료에 있어 호르몬 및 수술적 요법의 부작용을 줄이기 위한 대안으로 한의학(TCM)을 포함한 보완대체요법(CAM)의 임상적 적용 가능성과 기전을 제시하고 있다.
+[^34]: The Effects of Traditional Chinese Medicine-Associated Complementary and Alternative Medicine on Women with Polycystic Ovary Syndrome. _Evidence-Based Complementary and Alternative Medicine_. 2021-02-26. [문헌 고찰] [DOI 10.1155/2021/6619597](https://doi.org/10.1155/2021/6619597) [PMID 10.1155/2021/6619597](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/6619597/) — 본 문헌은 다낭성 난소 증후군(PCOS) 환자들에게 현대 의학적 치료의 한계를 보완하기 위해 중의학 기반의 보완대체요법과 한약 치료가 유효하게 사용되고 있음을 시사합니다.
+[^35]: Heat Therapy Decreases Adipose Tissue Inflammation and Improves Insulin Signaling in Polycystic Ovary Syndrome. _The FASEB Journal_. 2018-04. [임상시험] [DOI 10.1096/fasebj.2018.32.1_supplement.853.10](https://doi.org/10.1096/fasebj.2018.32.1_supplement.853.10) [PMID 10.1096/fasebj.2018.32.1_supplement.853.10](https://pubmed.ncbi.nlm.nih.gov/10.1096/fasebj.2018.32.1_supplement.853.10/) — 본 연구는 비만성 다낭성 난소 증후군(PCOS) 환자에게 정기적인 온수 침전(40. 5°C) 온열 요법을 시행했을 때, 지방 조직의 염증 단백질(IKKβ)이 감소하고 인슐린 신호전달(p-AKT)이 개선됨을 시사한다.
+[^36]: Oxidative Stress Markers and Heat Shock Proteins in Non-Obese Women with Polycystic Ovary Syndrome Are Not Elevated and Show No Correlation with Vitamin D. _Biomedicines_. 2023-07-20. [관찰연구] [DOI 10.3390/biomedicines11072044](https://doi.org/10.3390/biomedicines11072044) [PMID 10.3390/biomedicines11072044](https://pubmed.ncbi.nlm.nih.gov/10.3390/biomedicines11072044/) — 비만과 인슐린 저항성, 전신 염증이 없는 다낭성 난소 증후군(PCOS) 환자군에서는 일반적인 산화 스트레스 지표나 열충격 단백질의 유의미한 상승이 나타나지 않았으며, 이는 비타민 D 수치와도 상관관계가 없었다.
+[^37]: Correlation of Immunological Variables of Interleukin-17 and Heat Shock Protein-70 In Ethnic Women with Polycystic Ovary Syndrome. _South Eastern European Journal of Public Health_. 2024-09-30. [임상시험] [DOI 10.70135/seejph.vi.1244](https://doi.org/10.70135/seejph.vi.1244) [PMID 10.70135/seejph.vi.1244](https://pubmed.ncbi.nlm.nih.gov/10.70135/seejph.vi.1244/) — 다낭성 난소 증후군(PCOS) 환자에게 식단 조절, 메트포르민 및 호르몬 치료, 항산화제를 병행 투여했을 때 체질량지수(BMI)와 면역 염증 지표인 IL-17 및 HSP70이 유의하게 감소함을 확인하였다.
+[^38]: Correlation of immunological variables of interleukin-17 and heat shock protein-70 in ethnic women with polycystic ovary syndrome. _South Eastern European Journal of Public Health_. 2024-10-02. [관찰연구] [DOI 10.70135/seejph.vi.1474](https://doi.org/10.70135/seejph.vi.1474) [PMID 10.70135/seejph.vi.1474](https://pubmed.ncbi.nlm.nih.gov/10.70135/seejph.vi.1474/) — 다낭성 난소 증후군(PCOS) 환자에게 식단 개선, 메트포르민, 경구 피임약 및 항산화제 병용 치료를 시행했을 때 BMI 감소와 함께 염증성 지표인 IL-17 및 HSP70 수치가 유의하게 감소함을 확인하였다.
+[^39]: Metabolic Syndrome and Polycystic Ovary Syndrome. _Metabolic Syndrome: A Comprehensive Update with New Insights_. 2025-01-09. [문헌 고찰] [DOI 10.2174/9789815322132125010027](https://doi.org/10.2174/9789815322132125010027) [PMID 10.2174/9789815322132125010027](https://pubmed.ncbi.nlm.nih.gov/10.2174/9789815322132125010027/) — 다낭성 난소 증후군(PCOS) 여성, 특히 비만이 동반된 경우 인슐린 저항성과 대사 증후군의 위험이 매우 높음을 시사한다. 임상에서는 PCOS 환자의 내당능 장애, 제2형 당뇨병 및 심혈관 질환 위험을 조기에 스크리닝하고, 특히 체중 관리를 통해 잠재적인 대사 합병증을 예방하는 전략이 필요하다.
+[^40]: Polycystic Ovary Syndrome: Public Education. _Polycystic ovary syndrome_. 2024-09-13. [문헌 고찰] [DOI 10.36255/polycystic-ovary-syndrome-public-education](https://doi.org/10.36255/polycystic-ovary-syndrome-public-education) [PMID 10.36255/polycystic-ovary-syndrome-public-education](https://pubmed.ncbi.nlm.nih.gov/10.36255/polycystic-ovary-syndrome-public-education/) — 본 문헌은 다낭성 난소 증후군(PCOS)의 진단, 증상 및 치료법에 대한 포괄적인 정보를 제공하여 환자와 의료진의 이해를 돕는 교육적 가이드라인이다.
+[^41]: Effect of Xiaonang Yusi decoction (消囊育嗣汤) on IVF outcomes in patients with phlegm-dampness type PCOS: a prospective cohort study with supporting metabolomics, network pharmacology, and molecular docking analysis. _Frontiers in Medicine_. 2026-02-10. [관찰연구] [DOI 10.3389/fmed.2026.1680327](https://doi.org/10.3389/fmed.2026.1680327) [PMID 10.3389/fmed.2026.1680327](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2026.1680327/) — 담습(痰濕) 유형의 다낭성 난소 증후군(PCOS) 환자가 IVF-ET를 진행할 때 소낭육사탕(消囊育嗣湯)을 병용 투여하면 배아 착상률과 임신율을 유의하게 높일 수 있다.
+[^42]: Efficacy of Bushen Huatan Decoction Combined with Baduanjin in the Treatment of Polycystic Ovary Syndrome with Insulin Resistance (IR-PCOS), Kidney Deficiency and Phlegm Dampness: Study Protocol for a Randomized Controlled Trial. _Journal_. 2021-06-29. [임상시험] [DOI 10.21203/rs.3.rs-650053/v1](https://doi.org/10.21203/rs.3.rs-650053/v1) [PMID 10.21203/rs.3.rs-650053/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-650053/v1/) — 본 연구는 인슐린 저항성을 동반한 다낭성 난소 증후군(IR-PCOS) 환자에게 한약 처방인 보신화담탕과 기공 운동인 팔단금을 병용하는 통합 중재 요법의 효과를 검증하고자 한다.
+[^43]: Identification of Differential Serum Metabolic Biomarkers in Polycystic Ovary Syndrome with Phlegm-Dampness Syndrome Based on Metabolomics and Machine Learning. _Journal_. 2026-07-23. [관찰연구] [DOI 10.21203/rs.3.rs-10376586/v1](https://doi.org/10.21203/rs.3.rs-10376586/v1) [PMID 10.21203/rs.3.rs-10376586/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-10376586/v1/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자 중 한의학적 담습증후군(痰濕症候群)이 동반된 경우, 일반 PCOS 환자와 구별되는 특이적인 혈청 대사체 프로파일이 존재함을 확인하였다.
+[^44]: Research Progress on the Interaction between PCOS and Gut Microbiota Based on the Theory of “Spleen Deficiency and Phlegm-Dampness”. _Journal of Contemporary Medical Practice_. 2025-10-30. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(10).22](https://doi.org/10.53469/jcmp.2025.07(10).22) [PMID 10.53469/jcmp.2025.07(10).22](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2025.07(10).22/) — 본 논문은 다낭성 난소 증후군(PCOS)의 병리 기전을 한의학의 '비허담습(脾虛痰濕)' 이론과 현대의 장내 미생물군집(gut microbiota) 관점에서 통합적으로 분석하였습니다.
+[^45]: Cangfu Daotan decoction with Diane-35 in phlegm-dampness polycystic ovary syndrome: a meta-analysis and systematic review. _Frontiers in Medicine_. 2026-02-20. [메타분석] [DOI 10.3389/fmed.2026.1761111](https://doi.org/10.3389/fmed.2026.1761111) [PMID 10.3389/fmed.2026.1761111](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2026.1761111/) — 담습형 다낭성 난소 증후군(PCOS) 환자에게 Diane-35와 창부다탄탕을 병용 투여하는 것이 단독 요법보다 임상적 유효율을 높이고, 테스토스테론 및 LH/FSH 비율과 같은 호르몬 지표와 BMI를 개선하는 데 효과적일 수 있다.
+[^46]: The role of traditional Chinese medicine in modulating gut microbiota to alleviating insulin resistance in polycystic ovary syndrome. _Frontiers in Nutrition_. 2025-11-25. [문헌 고찰] [DOI 10.3389/fnut.2025.1700612](https://doi.org/10.3389/fnut.2025.1700612) [PMID 10.3389/fnut.2025.1700612](https://pubmed.ncbi.nlm.nih.gov/10.3389/fnut.2025.1700612/) — 본 논문은 다낭성 난소 증후군(PCOS)의 인슐린 저항성을 개선하기 위해 장내 미생물 불균형을 조절하는 한방 치료의 유효성을 제시합니다.
+[^47]: Study on the Intervention Effect of Qi Gong Wan Prescription on Patients with Phlegm‐Dampness Syndrome of Polycystic Ovary Syndrome Based on Intestinal Flora. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [관찰연구] [DOI 10.1155/2020/6389034](https://doi.org/10.1155/2020/6389034) [PMID 10.1155/2020/6389034](https://pubmed.ncbi.nlm.nih.gov/10.1155/2020/6389034/) — 다낭성 난소 증후군(PCOS) 환자 중 담음증(痰飮症)을 보이는 경우 장내 미생물 불균형, 비만 및 인슐린 저항성이 두드러지게 나타납니다.
+[^48]: Research Progress on the Treatment of Polycystic Ovary Syndrome with Traditional Chinese Medicine. _Journal of Artificial Intelligence and Information_. 2026-07-30. [문헌 고찰] [DOI 10.66069/ojspub.27450758](https://doi.org/10.66069/ojspub.27450758) [PMID 10.66069/ojspub.27450758](https://pubmed.ncbi.nlm.nih.gov/10.66069/ojspub.27450758/) — 다낭성 난소 증후군(PCOS) 치료에 있어 중의학적 접근(변증론치, 침구 치료 등)은 안전하고 효과적이지만, 현재까지의 연구는 소규모 단일 기관 연구에 치중되어 있어 일반화에 한계가 있다.
+[^49]: Tai Chi for Overweight/Obese Adolescents and Young Women with Polycystic Ovary Syndrome: A Randomized Controlled Pilot Trial. _Evidence-Based Complementary and Alternative Medicine_. 2022-06-17. [임상시험] [DOI 10.1155/2022/4291477](https://doi.org/10.1155/2022/4291477) [PMID 10.1155/2022/4291477](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/4291477/) — 태극권(Tai Chi) 운동은 과체중 및 비만을 동반한 다낭성 난소 증후군(PCOS) 환자의 BMI, 테스토스테론 수치 및 지질 프로필을 개선하는 데 긍정적인 효과가 있으며, 임상적으로 적용 가능한 적절한 중재 방법임이 확인되었다.
+[^50]: Research Progress of Traditional Chinese and Western Medicine on Polycystic Ovary Syndrome. _Journal of Clinical and Nursing Research_. 2021-08-02. [문헌 고찰] [DOI 10.26689/jcnr.v5i4.2282](https://doi.org/10.26689/jcnr.v5i4.2282) [PMID 10.26689/jcnr.v5i4.2282](https://pubmed.ncbi.nlm.nih.gov/10.26689/jcnr.v5i4.2282/) — 본 논문은 다낭성 난소 증후군(PCOS)의 복합적인 병인과 치료에 대해 중의학과 서양의학적 관점에서 연구 진척 상황을 검토하였습니다.
+[^51]: Chinese herbal medicine on the offspring of women with polycystic ovary syndrome: A retrospective cohort study. _Medicine_. 2025-09-26. [관찰연구] [DOI 10.1097/md.0000000000044677](https://doi.org/10.1097/md.0000000000044677) [PMID 10.1097/md.0000000000044677](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000044677/) — 다낭성 난소 증후군(PCOS) 여성에게 임신 전 보신천정탕(補腎天精湯)을 투여하는 것은 letrozole 유도 배란 치료 시 임신 합병증의 발생률을 유의하게 낮추고, 태어난 자녀의 미세 운동 및 문제 해결 능력 등 초기 발달 상태를 개선하는 효과가 있다.
+[^52]: Exploring the comorbidity of type 2 diabetes mellitus and polycystic ovary syndrome: treatment with traditional Chinese medicine. _Frontiers in Medicine_. 2026-05-25. [문헌 고찰] [DOI 10.3389/fmed.2026.1764278](https://doi.org/10.3389/fmed.2026.1764278) [PMID 10.3389/fmed.2026.1764278](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2026.1764278/) — 제2형 당뇨병과 다낭성 난소 증후군은 인슐린 저항성이라는 공통된 병태생리적 기전을 공유하며 빈번하게 동반 발생한다. 한방 치료는 이러한 복합 질환 환자의 증상 조절과 대사 기능 개선에 보완적인 가치를 제공할 수 있으나, 임상 적용을 위해서는 표준화된 치료 전략과 고품질의 근거 연구가 더 필요하다.
+[^53]: Efficacy of Xiaozhoutian fire dragon moxibustion combined with traditional Chinese medicine on polycystic ovary syndrome with kidney yang deficiency: A randomized controlled trial. _Srpski arhiv za celokupno lekarstvo_. 2025. [임상시험] [DOI 10.2298/sarh240822020y](https://doi.org/10.2298/sarh240822020y) [PMID 10.2298/sarh240822020y](https://pubmed.ncbi.nlm.nih.gov/10.2298/sarh240822020y/) — 신양허(腎陽虛) 유형의 다낭성 난소 증후군 환자에게 전통적인 한방 치료와 소주천 화룡뜸(小周天 火龍灸)을 병행했을 때, 단독 치료보다 증상 개선 및 호르몬 불균형 해소에 더 효과적임이 확인되었다.
+[^54]: Meta analysis of ovulation induction effect and pregnancy outcome of acupuncture & moxibustion combined with clomiphene in patients with polycystic ovary syndrome. _Frontiers in Endocrinology_. 2023-11-20. [메타분석] [DOI 10.3389/fendo.2023.1261016](https://doi.org/10.3389/fendo.2023.1261016) [PMID 10.3389/fendo.2023.1261016](https://pubmed.ncbi.nlm.nih.gov/10.3389/fendo.2023.1261016/) — 다낭성 난소 증후군(PCOS) 환자에게 침뜸 요법을 클로미펜과 병용하는 것이 클로미펜 단독 사용보다 임신율 향상과 자궁내막 두께 개선에 더 효과적이며, OHSS 및 LUFS와 같은 약물 부작용을 줄일 수 있다.
+[^55]: Acupuncture for glucose and lipid metabolic disorders of polycystic ovarian syndrome: A systematic review protocol. _PLOS ONE_. 2021-08-05. [체계적 고찰] [DOI 10.1371/journal.pone.0255732](https://doi.org/10.1371/journal.pone.0255732) [PMID 10.1371/journal.pone.0255732](https://pubmed.ncbi.nlm.nih.gov/10.1371/journal.pone.0255732/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 인슐린 저항성과 지질 대사 이상에 대한 침 치료의 유효성과 안전성을 체계적으로 검토하기 위한 프로토콜이다.
+[^56]: Therapeutic effects of puerarin on polycystic ovary syndrome. _Medicine_. 2021-05-28. [임상시험] [DOI 10.1097/md.0000000000026049](https://doi.org/10.1097/md.0000000000026049) [PMID 10.1097/md.0000000000026049](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000026049/) — 다낭성 난소 증후군(PCOS) 환자에게 표준 치료와 함께 푸에라린(Puerarin, 葛根素)을 병용 투여했을 때, 체중과 상관없이 성호르몬 결합 글로불린(SHBG)과 항산화 지표인 SOD 수치가 유의하게 개선되었다.
+[^57]: Correlates of Traditional Chinese Medicine Syndrome Types in Polycystic Ovary Syndrome. _Medical Research_. 2025-12-29. [관찰연구] [DOI 10.6913/mrhk.040204](https://doi.org/10.6913/mrhk.040204) [PMID 10.6913/mrhk.040204](https://pubmed.ncbi.nlm.nih.gov/10.6913/mrhk.040204/) — 다낭성 난소 증후군(PCOS) 환자들에게서 가장 흔하게 나타나는 한의학적 변증 유형은 담습증(痰濕證)이며, 이는 높은 BMI 및 복부 비만(WHR)과 밀접한 연관이 있음이 확인되었다.
+[^58]: The Comparision of Impact of Chinese Medicine and Diane-35 on Sex Hormone Level in Adolescent with Polycystic Ovary Syndrome. _Journal_. 2022-11-08. [체계적 고찰] [DOI 10.37766/inplasy2022.11.0031](https://doi.org/10.37766/inplasy2022.11.0031) [PMID 10.37766/inplasy2022.11.0031](https://pubmed.ncbi.nlm.nih.gov/10.37766/inplasy2022.11.0031/) — 본 연구는 청소년 다낭성 난소 증후군 환자를 대상으로 중약과 Diane-35가 성호르몬 수치 조절에 미치는 영향을 비교 분석하고자 하였습니다.
+[^59]: Prevalence, Pattern and Predictors for Dyslipidemia of Chinese Women With Polycystic Ovary Syndrome. _Frontiers in Cardiovascular Medicine_. 2021-12-15. [관찰연구] [DOI 10.3389/fcvm.2021.790454](https://doi.org/10.3389/fcvm.2021.790454) [PMID 10.3389/fcvm.2021.790454](https://pubmed.ncbi.nlm.nih.gov/10.3389/fcvm.2021.790454/) — 중국 PCOS 여성의 41. 3%가 이상지질혈증을 가지고 있으며, 특히 HDL-C 저하가 가장 흔한 패턴임을 확인하였다.
+[^60]: An Overview of Systematic Reviews of Using Chinese Medicine to Treat Polycystic Ovary Syndrome. _Evidence-Based Complementary and Alternative Medicine_. 2021-05-28. [체계적 고찰] [DOI 10.1155/2021/9935536](https://doi.org/10.1155/2021/9935536) [PMID 10.1155/2021/9935536](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/9935536/) — 중약(中藥) 치료가 다낭성 난소 증후군(PCOS) 증상을 개선하는 경향이 있으나, 기존의 많은 체계적 문헌고찰과 무작위 대조 시험(RCT)들의 설계 및 분석 품질이 낮아 결과의 신뢰도가 낮다.
+[^61]: An Analysis of the Clinical Medication Rules of Traditional Chinese Medicine for Polycystic Ovary Syndrome Based on Data Mining. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. [관찰연구] [DOI 10.1155/2023/6198001](https://doi.org/10.1155/2023/6198001) [PMID 10.1155/2023/6198001](https://pubmed.ncbi.nlm.nih.gov/10.1155/2023/6198001/) — 다낭성 난소 증후군(PCOS) 치료를 위해 보신(補腎), 건비(健脾), 거습화담(祛濕化痰), 활혈거어(活血祛瘀)의 원칙을 적용한 한약 치료가 효과적임을 시사한다.
+[^62]: Chinese herbal medicine on treating obese women with polycystic ovary syndrome. _Medicine_. 2020-12-04. [체계적 고찰] [DOI 10.1097/md.0000000000022982](https://doi.org/10.1097/md.0000000000022982) [PMID 10.1097/md.0000000000022982](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000022982/) — 본 연구는 비만형 다낭성 난소 증후군(PCOS) 환자에게 중약(中藥)을 사용하는 것이 생식 및 대사 기능 개선에 미치는 효과와 안전성을 평가하고자 하는 체계적 문헌고찰이다.
+[^63]: Efficacy and Safety of Cangfu Daotan Decoction in Patients with Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis. _Evidence-Based Complementary and Alternative Medicine_. 2022-05-17. [메타분석] [DOI 10.1155/2022/4395612](https://doi.org/10.1155/2022/4395612) [PMID 10.1155/2022/4395612](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/4395612/) — 창복다단탕(蒼茯導痰湯)은 다낭성 난소 증후군(PCOS) 환자의 임신율과 배란율을 유의하게 높이며, 인슐린 저항성 및 비만 지표(BMI)를 개선하는 효과가 있다.
+[^64]: From Pathophysiology to Treatment: The Role of Ferroptosis in PCOS. _Frontiers in Bioscience-Landmark_. 2025-02-17. [문헌 고찰] [DOI 10.31083/fbl25586](https://doi.org/10.31083/fbl25586) [PMID 10.31083/fbl25586](https://pubmed.ncbi.nlm.nih.gov/10.31083/fbl25586/) — 본 논문은 다낭성 난소 증후군(PCOS)의 발병 기전에서 철분 과부하로 인한 페로토시스(철분 의존성 세포사멸)의 중요성을 조명하였다.
+[^65]: The emerging roles of N6-methyladenosine (m6A) deregulation in polycystic ovary syndrome. _Journal of Ovarian Research_. 2025-05-23. [문헌 고찰] [DOI 10.1186/s13048-025-01690-7](https://doi.org/10.1186/s13048-025-01690-7) [PMID 10.1186/s13048-025-01690-7](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13048-025-01690-7/) — 본 논문은 m6A mRNA 수정과 관련 단백질들이 다낭성 난소 증후군(PCOS)의 발병 기전에 중요한 역할을 한다는 점을 고찰하였습니다.
+[^66]: Polycystic Ovary Syndrome and the Potential for Nanomaterial-Based Drug Delivery in Therapy of This Disease. _Pharmaceutics_. 2024-12-04. [문헌 고찰] [DOI 10.3390/pharmaceutics16121556](https://doi.org/10.3390/pharmaceutics16121556) [PMID 10.3390/pharmaceutics16121556](https://pubmed.ncbi.nlm.nih.gov/10.3390/pharmaceutics16121556/) — 본 논문은 다낭성 난소 증후군(PCOS) 치료 시 기존 약물의 부작용을 줄이고 치료 효율을 높이기 위한 나노물질 기반 약물 전달 시스템의 가능성을 제시합니다.
+[^67]: Progress of Chinese and Western Medicine Research on Polycystic Ovary Syndrome. _Journal of Contemporary Medical Practice_. 2024-06-30. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(06).14](https://doi.org/10.53469/jcmp.2024.06(06).14) [PMID 10.53469/jcmp.2024.06(06).14](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2024.06(06).14/) — 다낭성 난소 증후군(PCOS)의 치료에 있어 서양의학의 증상 중심 치료와 중의학의 전신 조절(conditioning) 접근법을 결합하는 것이 효과적임을 시사한다.
+[^68]: Interpretation of the “Guidelines for Integrated Traditional Chinese and Western Medicine Diagnosis and Treatment of Polycystic Ovary Syndrome (2024 Edition)”. _Journal of Contemporary Medical Practice_. 2025-04-29. [임상진료지침] [DOI 10.53469/jcmp.2025.07(04).15](https://doi.org/10.53469/jcmp.2025.07(04).15) [PMID 10.53469/jcmp.2025.07(04).15](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2025.07(04).15/) — 본 문헌은 다낭성 난소 증후군(PCOS)의 통합적 진단과 치료를 위한 2024년판 표준 가이드라인의 해석을 다룹니다. 중의학의 증후분별(辨證) 치료는 대사 장애 개선, 체중 감소 및 배란 회복에 강점이 있으므로, 이를 표준화된 진단 체계와 결합하여 임상에 적용함으로써 환자의 삶의 질과 가임력을 유의하게 향상시킬 수 있을 것으로 기대됩니다.
+[^69]: Effect of Aslagh Capsule, a Traditional Compound Herbal Product on Oligomenorrhea in Patients with Polycystic Ovary Syndrome: A Three-Arm, Open-label, Randomized, Controlled Trial. _Galen Medical Journal_. 2019-06-02. [임상시험] [DOI 10.31661/gmj.v8i0.1261](https://doi.org/10.31661/gmj.v8i0.1261) [PMID 10.31661/gmj.v8i0.1261](https://pubmed.ncbi.nlm.nih.gov/10.31661/gmj.v8i0.1261/) — 다낭성 난소 증후군(PCOS) 환자의 희발월경 치료에 있어 Aslagh 캡슐은 메트포르민과 유사한 수준의 월경 출혈 유도 효과를 보였으며, 특히 약물 중단 후 4개월 차에도 월경 발생률이 더 높게 유지되는 경향을 보였다.
+[^70]: Comparison of the Effect of Auriculotherapy, a Herbal Compound (Aslagh Capsule), and Metformin on the Clinical Symptoms of Polycystic Ovary Syndrome: Randomized Clinical Trial. _Advanced Biomedical Research_. 2024-09. [임상시험] [DOI 10.4103/abr.abr_111_23](https://doi.org/10.4103/abr.abr_111_23) [PMID 10.4103/abr.abr_111_23](https://pubmed.ncbi.nlm.nih.gov/10.4103/abr.abr_111_23/) — 다낭성 난소 증후군(PCOS) 환자에게 이침 요법은 메트포르민이나 특정 한약 제제(Aslagh 캡슐)와 비교하여 월경 주기 단축 및 다모증(털의 성장 및 밀도) 개선에 더 유의미한 효과를 보였다.
+[^71]: Mitochondrial Quality Control-Ferroptosis Coupling in the PCOS Follicle: A&nbsp; Cell-type-resolved Framework and Herbal Node-to-compound Map. _Journal_. 2026. [문헌 고찰] [DOI 10.2139/ssrn.7267520](https://doi.org/10.2139/ssrn.7267520) [PMID 10.2139/ssrn.7267520](https://pubmed.ncbi.nlm.nih.gov/10.2139/ssrn.7267520/) — 본 연구는 PCOS의 난포 병리가 미토콘드리아 품질 관리(MQC)와 페로토시스의 상호 결합된 회로로 작용함을 제시하며, 특히 과립막 세포가 페로토시스의 주요 실행 지점임을 밝히고 있다.
+[^72]: Integrative Therapeutic Approaches in Polycystic Ovary Syndrome: From Conventional Pharmacotherapy to Herbal Interventions. _International Journal of Science, Strategic Management and Technology_. 2026-04-09. [문헌 고찰] [DOI 10.55041/ijsmt.v2i4.159](https://doi.org/10.55041/ijsmt.v2i4.159) [PMID 10.55041/ijsmt.v2i4.159](https://pubmed.ncbi.nlm.nih.gov/10.55041/ijsmt.v2i4.159/) — 다낭성 난소 증후군(PCOS)은 내분비, 대사, 심리적 요인이 복합된 질환으로, 기존의 약물 치료와 생약(Herbal) 중재를 결합한 통합적 접근이 필요함을 시사한다.
+[^73]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. _Frontiers in Medicine_. 2025-07-28. [메타분석] [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131) [PMID 10.3389/fmed.2025.1609131](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2025.1609131/) — 비만형 다낭성 난소 증후군(PCOS) 환자에게 건비보신화담(健脾補腎化痰) 원칙의 한약을 양약과 병용 투여하는 것이 증상 개선에 효과적이다.
+[^74]: Endocrine and metabolic differences among phenotypic expressions of polycystic ovary syndrome according to the 2003 Rotterdam consensus criteria. _American journal of obstetrics and gynecology_. 2008-06. [관찰연구] [DOI 10.1016/j.ajog.2008.01.037](https://doi.org/10.1016/j.ajog.2008.01.037) [PMID 18355776](https://pubmed.ncbi.nlm.nih.gov/18355776/) — 다낭성 난소 증후군(PCOS)의 다양한 표현형 중 안드로겐 수치가 각 그룹을 구분하는 가장 핵심적인 내분비적 특징임을 확인하였다.
+[^75]: The comparison of fennel infusion plus dry cupping versus metformin in management of oligomenorrhoea in patients with polycystic ovary syndrome: a randomised clinical trial. _Journal of obstetrics and gynaecology : the journal of the Institute of Obstetrics and Gynaecology_. 2019-07. [임상시험] [DOI 10.1080/01443615.2018.1541232](https://doi.org/10.1080/01443615.2018.1541232) [PMID 30856025](https://pubmed.ncbi.nlm.nih.gov/30856025/) — 다낭성 난소 증후군 환자의 희발월경 관리에 있어 회향 침출액과 건식 부항의 병용 요법이 메트포르민 대비 안전하고 효과적일 수 있음을 시사한다.
+[^76]: Traditional Persian Medicine and management of metabolic dysfunction in polycystic ovary syndrome. _Journal of traditional and complementary medicine_. 2018-01. [문헌 고찰] [DOI 10.1016/j.jtcme.2017.04.006](https://doi.org/10.1016/j.jtcme.2017.04.006) [PMID 29321985](https://pubmed.ncbi.nlm.nih.gov/29321985/) — 본 연구는 전통 페르시아 의학(TPM)의 고전 문헌을 통해 다낭성 난소 증후군(PCOS)과 유사한 'Habs-e-tams' 증상에 사용된 약용 식물들의 약리학적 근거를 분석하였습니다.
+[^77]: Impact of electro-acupuncture and physical exercise on hyperandrogenism and oligo/amenorrhea in women with polycystic ovary syndrome: a randomized controlled trial. _American journal of physiology. Endocrinology and metabolism_. 2011-01. [임상시험] [DOI 10.1152/ajpendo.00495.2010](https://doi.org/10.1152/ajpendo.00495.2010) [PMID 20943753](https://pubmed.ncbi.nlm.nih.gov/20943753/) — 저주파 전침(Electro-acupuncture) 치료는 다낭성 난소 증후군(PCOS) 여성의 고안드로겐혈증을 완화하고 월경 빈도를 개선하는 데 신체 운동보다 더 효과적일 수 있다.
+[^78]: Mindfulness-based stress reduction for overweight/obese women with and without polycystic ovary syndrome: design and methods of a pilot randomized controlled trial. _Contemporary clinical trials_. 2015-03. [임상시험] [DOI 10.1016/j.cct.2015.01.021](https://doi.org/10.1016/j.cct.2015.01.021) [PMID 25662105](https://pubmed.ncbi.nlm.nih.gov/25662105/) — 본 연구는 과체중 및 비만 여성(특히 PCOS 환자)을 대상으로 MBSR 프로그램의 타당성과 효과를 평가하는 파일럿 무작위 대조 시험의 설계와 방법을 제시합니다.
+[^79]: Acupuncture with manual and low frequency electrical stimulation as experienced by women with polycystic ovary syndrome: a qualitative study. _BMC complementary and alternative medicine_. 2012-04-03. [관찰연구] [DOI 10.1186/1472-6882-12-32](https://doi.org/10.1186/1472-6882-12-32) [PMID 22471422](https://pubmed.ncbi.nlm.nih.gov/22471422/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자들이 침 치료를 통해 희망을 얻고, 자신의 건강에 대한 책임감을 가지며, 신체 기능의 정상화를 경험한다는 것을 보여주었다.
+[^80]: Acupuncture and physical exercise for affective symptoms and health-related quality of life in polycystic ovary syndrome: secondary analysis from a randomized controlled trial. _BMC complementary and alternative medicine_. 2013-06-13. [임상시험] [DOI 10.1186/1472-6882-13-131](https://doi.org/10.1186/1472-6882-13-131) [PMID 23763822](https://pubmed.ncbi.nlm.nih.gov/23763822/) — 다낭성 난소 증후군(PCOS) 환자의 우울, 불안 및 삶의 질 개선을 위해 鍼(침, acupuncture) 치료와 운동이 효과적인 보조 요법이 될 수 있음을 시사한다.
+[^81]: A survey of the use of complementary medicine by a self-selected community group of Australian women with polycystic ovary syndrome. _BMC complementary and alternative medicine_. 2014-12-06. [관찰연구] [DOI 10.1186/1472-6882-14-472](https://doi.org/10.1186/1472-6882-14-472) [PMID 25481654](https://pubmed.ncbi.nlm.nih.gov/25481654/) — 다낭성 난소 증후군(PCOS) 환자의 70% 이상이 보완의학(영양제 및 한약 보충제 등)을 사용하고 있으며, 이는 단순한 증상 관리를 넘어 전인적인 건강 관리를 원하는 환자들의 욕구를 반영한다.
+[^82]: Herbal medicine for the management of polycystic ovary syndrome (PCOS) and associated oligo/amenorrhoea and hyperandrogenism; a review of the laboratory evidence for effects with corroborative clinical findings. _BMC complementary and alternative medicine_. 2014-12-18. [체계적 고찰] [DOI 10.1186/1472-6882-14-511](https://doi.org/10.1186/1472-6882-14-511) [PMID 25524718](https://pubmed.ncbi.nlm.nih.gov/25524718/) — 다낭성 난소 증후군(PCOS) 및 관련 증상에 대해 감초(Glycyrrhiza spp. ), 작약(Paeonia lactiflora), 계피(Cinnamomum cassia) 등을 포함한 6가지 한약재가 내분비 지표 개선 및 배란 조절에 유익한 효과가 있음을 확인하였다.
+[^83]: Nutritional supplements and herbal medicines for women with polycystic ovary syndrome; a systematic review and meta-analysis. _BMC complementary and alternative medicine_. 2017-11-25. [메타분석] [DOI 10.1186/s12906-017-2011-x](https://doi.org/10.1186/s12906-017-2011-x) [PMID 29178904](https://pubmed.ncbi.nlm.nih.gov/29178904/) — 다낭성 난소 증후군(PCOS) 환자의 월경 조절을 위해 사용되는 영양제와 약초 치료의 효과를 분석한 결과, 통계적으로 유의미한 월경 주기 개선 효과를 입증할 고품질의 근거가 부족한 것으로 나타났다.
+[^84]: Tai chi for overweight/obese adolescent and young women with polycystic ovary syndrome: study protocol for a randomized controlled trial. _Trials_. 2018-09-20. [임상시험] [DOI 10.1186/s13063-018-2893-z](https://doi.org/10.1186/s13063-018-2893-z) [PMID 30236149](https://pubmed.ncbi.nlm.nih.gov/30236149/) — 본 연구는 과체중 및 비만을 동반한 다낭성 난소 증후군(PCOS) 여성에게 태극권(Tai Chi) 운동이 체중 감소 및 대사 개선에 효과가 있는지 확인하고자 하는 프로토콜 연구입니다.
+[^85]: Feasibility and acceptability of a proposed trial of acupuncture as an adjunct to lifestyle interventions for weight loss in Polycystic Ovary Syndrome: a qualitative study. _BMC complementary and alternative medicine_. 2018-11-08. [관찰연구] [DOI 10.1186/s12906-018-2358-7](https://doi.org/10.1186/s12906-018-2358-7) [PMID 30409195](https://pubmed.ncbi.nlm.nih.gov/30409195/) — 다낭성 난소 증후군(PCOS) 여성들에게 생활 습관 중재의 보조 요법으로서 침 치료를 적용하는 것이 수용 가능하며, 가짜 침을 대조군으로 하는 무작위 대조 시험(RCT) 설계가 타당함을 확인하였다.
+[^86]: [Disorder of Tiangui (kidney essence) and reproductive dysfunction in patients with polycystic ovary syndrome]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-11. [문헌 고찰] [DOI 10.3736/jcim20101103](https://doi.org/10.3736/jcim20101103) [PMID 21078264](https://pubmed.ncbi.nlm.nih.gov/21078264/) — 본 논문은 다낭성 난소 증후군(PCOS)의 병리적 상태를 한의학적 개념인 '천구(天癸)'의 장애로 해석하여, 난소 기능 부전이 곧 천구의 시간, 상태, 리듬의 교란임을 제시합니다.
+[^87]: Effectiveness and safety of acupuncture for insulin resistance in women with polycystic ovary syndrome: A systematic review and meta-analysis. _Journal_. 2022-02-02. [메타분석] [DOI 10.1101/2022.01.31.22270217](https://doi.org/10.1101/2022.01.31.22270217) [PMID 10.1101/2022.01.31.22270217](https://pubmed.ncbi.nlm.nih.gov/10.1101/2022.01.31.22270217/) — 침 치료는 단독으로는 메트포르민과 같은 약물 치료보다 인슐린 저항성 개선 효과가 뛰어나지 않으나, 약물 치료와 병행할 경우 HOMA-IR 및 BMI를 유의하게 감소시키는 보조적 전략이 될 수 있다.
+[^88]: Acupuncture for emotional disorder and quality of life in patients with polycystic ovary syndrome-A protocol for a systematic review and meta-analysis. _Journal_. 2022-10-12. [체계적 고찰] [DOI 10.1101/2022.10.10.22280920](https://doi.org/10.1101/2022.10.10.22280920) [PMID 10.1101/2022.10.10.22280920](https://pubmed.ncbi.nlm.nih.gov/10.1101/2022.10.10.22280920/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 정서적 장애 개선 및 삶의 질 향상을 위한 침 치료의 효과와 안전성을 체계적으로 평가하기 위한 프로토콜입니다.
+[^89]: Acupuncture combined with metformin for polycystic ovary syndrome: A protocol for systematic review and meta-analysis. _Medicine_. 2022-12-09. [기타] [DOI 10.1097/md.0000000000032234](https://doi.org/10.1097/md.0000000000032234) [PMID 10.1097/md.0000000000032234](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000032234/) — 본 연구는 다낭성 난소 증후군 환자에게 메트포르민 단독 투여보다 침 치료를 병행하는 것이 더 효과적이고 안전한지에 대한 근거를 마련하기 위한 프로토콜 연구입니다.
+[^90]: Acupuncture for glucose and lipid metabolic disorders of polycystic ovarian syndrome: A systematic review protocol v1. _Journal_. 2021-05-22. [체계적 고찰] [DOI 10.17504/protocols.io.bu8qnzvw](https://doi.org/10.17504/protocols.io.bu8qnzvw) [PMID 10.17504/protocols.io.bu8qnzvw](https://pubmed.ncbi.nlm.nih.gov/10.17504/protocols.io.bu8qnzvw/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 인슐린 저항성과 지질 대사 이상에 대한 침 치료의 효과와 안전성을 체계적으로 평가하기 위한 프로토콜입니다.
+[^91]: Polycystic ovary syndrome in asian women. _Seminars in reproductive medicine_. 2008-01. [문헌 고찰] [DOI 10.1055/s-2007-992920](https://doi.org/10.1055/s-2007-992920) [PMID 18181078](https://pubmed.ncbi.nlm.nih.gov/18181078/) — 다낭성 난소 증후군(PCOS) 환자의 증상과 징후는 민족적 배경에 따라 상당한 이질성을 보이며, 특히 아시아 여성은 서구 여성과 다른 임상적, 호르몬적, 대사적 특성을 나타낼 수 있다.
+[^92]: A Randomized Sham-controlled Trial of Manual Acupuncture for Infertile Women with Polycystic Ovary Syndrome. _Journal_. 2021-08-09. [임상시험] [DOI 10.21203/rs.3.rs-754196/v1](https://doi.org/10.21203/rs.3.rs-754196/v1) [PMID 10.21203/rs.3.rs-754196/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-754196/v1/) — 다낭성 난소 증후군(PCOS)으로 인한 불임 여성에게 한약 치료와 수기 침(Manual Acupuncture)을 병행하는 것이 가짜 침 치료보다 임신율과 배란율을 유의하게 높이며, 테스토스테론 수치 및 PCOS 증상을 개선하는 데 효과적임을 시사한다.
+[^93]: Acupuncture in Women with Human Polycystic Ovary/Ovarian Syndrome: Protocol for a Randomized Controlled Trial. _Healthcare_. 2022-10-11. [임상시험] [DOI 10.3390/healthcare10101999](https://doi.org/10.3390/healthcare10101999) [PMID 10.3390/healthcare10101999](https://pubmed.ncbi.nlm.nih.gov/10.3390/healthcare10101999/) — 본 연구는 한의학적 진단 체계에 기반한 침 치료가 다낭성 난소 증후군(PCOS)의 내분비, 대사 및 심리적 증상 관리에 미치는 효과와 안전성을 평가하고자 하는 프로토콜 연구입니다.
+[^94]: WITHDRAWN: Serum metabolomics probes the molecular mechanism of action of acupuncture on metabolic pathways related to glucose metabolism in obese PCOS: a randomized controlled trial. _Journal_. 2022-11-29. [임상시험] [DOI 10.21203/rs.3.rs-2136865/v2](https://doi.org/10.21203/rs.3.rs-2136865/v2) [PMID 10.21203/rs.3.rs-2136865/v2](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-2136865/v2/) — 해당 논문은 저자에 의해 철회(Withdrawn)된 상태로, 수정 작업 중이며 인용을 금지하고 있습니다. 따라서 구체적인 임상적 결과나 적용 방법은 확인할 수 없습니다.
+[^95]: Associations of Leptin Receptor and Peroxisome Proliferator-Activated Receptor Gamma Polymorphisms with Polycystic Ovary Syndrome: A Meta-Analysis. _Annals of nutrition & metabolism_. 2019. [메타분석] [DOI 10.1159/000500996](https://doi.org/10.1159/000500996) [PMID 31412346](https://pubmed.ncbi.nlm.nih.gov/31412346/) — 본 연구는 LEPR rs1137101 및 PPARG rs1801282, rs3856806 유전자 변이가 다낭성 난소 증후군(PCOS)의 발생 위험을 높이는 유전적 요인임을 시사한다.
+[^96]: Significant association between methylenetetrahydrofolate reductase gene C677T polymorphism with polycystic ovary syndrome risk: A meta-analysis update. _Medicine_. 2020-01. [메타분석] [DOI 10.1097/MD.0000000000018720](https://doi.org/10.1097/MD.0000000000018720) [PMID 31977861](https://pubmed.ncbi.nlm.nih.gov/31977861/) — MTHFR C677T 유전자 다형성의 T-대립유전자가 다낭성 난소 증후군(PCOS)의 위험을 유의하게 증가시키는 유전적 요인임을 확인하였다.
+[^97]: [Integrated traditional Chinese and western medicine should make new contribution to the reproductive health of women]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-03. [문헌 고찰] [DOI 10.3736/jcim20040202](https://doi.org/10.3736/jcim20040202) [PMID 15339462](https://pubmed.ncbi.nlm.nih.gov/15339462/) — 본 연구는 여성 생식 건강 질환에 대해 중의학과 서양의학을 통합한 치료의 유효성을 제시한다. 다낭성난소증후군(PCOS) 환자에게 천귀방(天癸方) 등을 사용하여 인슐린 및 안드로겐 수치를 낮추고 배란을 촉진하며, 갱년기 증후군에는 경년춘방(更年春方)이 신경-내분비-면역-대사 네트워크 조절에 효과적임을 보여준다.
+[^98]: Phenotype and genotype of polycystic ovary syndrome in Asia: Ethnic differences. _The journal of obstetrics and gynaecology research_. 2019-12. [문헌 고찰] [DOI 10.1111/jog.14132](https://doi.org/10.1111/jog.14132) [PMID 31588677](https://pubmed.ncbi.nlm.nih.gov/31588677/) — 동아시아 여성의 다낭성 난소 증후군(PCOS) 환자는 서양인에 비해 다모증이 적고 체질량지수(BMI)가 낮지만, 낮은 BMI에도 불구하고 당뇨병 등 대사 합병증의 위험이 높게 나타날 수 있다.
+[^99]: Body Mass Index and Polycystic Ovary Syndrome: A 2-Sample Bidirectional Mendelian Randomization Study. _The Journal of clinical endocrinology and metabolism_. 2020-06-01. [실험연구] [DOI 10.1210/clinem/dgaa125](https://doi.org/10.1210/clinem/dgaa125) [PMID 32163573](https://pubmed.ncbi.nlm.nih.gov/32163573/) — 동아시아 인구에서 체질량지수(BMI)의 증가가 다낭성 난소 증후군(PCOS)의 발병 위험을 높이는 유전적 인과 관계가 있음이 확인되었다. (인간 데이터 한정)
+[^100]: Odd variation of 75 g oral glucose tolerance test results in a Japanese patient with polycystic ovary syndrome: a case report. _Archives of gynecology and obstetrics_. 2007-05. [증례 보고] [DOI 10.1007/s00404-006-0275-3](https://doi.org/10.1007/s00404-006-0275-3) [PMID 17103180](https://pubmed.ncbi.nlm.nih.gov/17103180/) — 다낭성 난소 증후군(PCOS) 환자에서 정상 체중임에도 불구하고 경구 당부하 검사 시 고인슐린혈증 후 급격한 저혈당이 나타나는 특이한 인슐린 저항성 패턴이 관찰될 수 있음을 시사한다.
+[^101]: The State of the Evidence for Whole-System, Multi-Modality Naturopathic Medicine: A Systematic Scoping Review. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2019-02. [체계적 고찰] [DOI 10.1089/acm.2018.0340](https://doi.org/10.1089/acm.2018.0340) [PMID 30785315](https://pubmed.ncbi.nlm.nih.gov/30785315/) — 전인적이고 다중 양식적인 자연요법 접근법이 심혈관 질환, 당뇨, 우울증 등 다양한 만성 질환의 관리에 효과적일 수 있음을 시사한다.
+[^102]: Phytoestrogens and reproductive biology. _Reproductive medicine and biology_. 2005-12. [문헌 고찰] [DOI 10.1111/j.1447-0578.2005.00110.x](https://doi.org/10.1111/j.1447-0578.2005.00110.x) [PMID 29699226](https://pubmed.ncbi.nlm.nih.gov/29699226/) — 식물성 에스트로겐은 체내 에스트로겐과 구조적으로 유사하여 호르몬 수치를 조절하고 뇌하수체-난소 축(Pituitary-ovarian system)에 영향을 줄 수 있습니다.
+[^103]: Follicle Online: an integrated database of follicle assembly, development and ovulation. _Database : the journal of biological databases and curation_. 2015. [기타] [DOI 10.1093/database/bav036](https://doi.org/10.1093/database/bav036) [PMID 25931457](https://pubmed.ncbi.nlm.nih.gov/25931457/) — 본 연구는 난포 형성, 조기 난소 부전 및 다낭성 난소 증후군과 관련된 유전자와 단백질 정보를 통합 제공하는 'Follicle Online' 데이터베이스를 개발하였다.
+[^104]: Large-scale genome-wide meta-analysis of polycystic ovary syndrome suggests shared genetic architecture for different diagnosis criteria. _PLoS genetics_. 2018-12. [메타분석] [DOI 10.1371/journal.pgen.1007813](https://doi.org/10.1371/journal.pgen.1007813) [PMID 30566500](https://pubmed.ncbi.nlm.nih.gov/30566500/) — 본 연구는 다낭성 난소 증후군(PCOS)의 진단 기준(NIH, Rotterdam 등)과 상관없이 유전적 구조가 매우 유사함을 밝혀냈으며, PLGRKT, ZBTB16, MAPRE1 인근의 3가지 새로운 위험 유전자 궤적을 발견하였다.
+[^105]: Principles of Nutrition in Patients with Polycystic Ovary Syndrome in Iranian Traditional Medicine and Comparison with Modern Medicine. _Iranian journal of medical sciences_. 2016-05. [문헌 고찰] [PMID 27840515](https://pubmed.ncbi.nlm.nih.gov/27840515/) — 다낭성 난소 증후군(PCOS) 환자의 관리에 있어 이란 전통 의학은 자궁과 난소의 '차고 습한(cold and wet)' 기질 불균형을 주요 원인으로 보고, 이를 개선하기 위한 '뜨겁고 건조하며 부드러운(hot, dry, soft)' 음식 섭취를 권장한다.
+[^106]: Letrozole use during frozen embryo transfer cycles in women with polycystic ovary syndrome. _Fertility and sterility_. 2019-08. [관찰연구] [DOI 10.1016/j.fertnstert.2019.04.014](https://doi.org/10.1016/j.fertnstert.2019.04.014) [PMID 31126712](https://pubmed.ncbi.nlm.nih.gov/31126712/) — 다낭성 난소 증후군(PCOS) 환자의 동결 배아 이식 시, 인공 주기보다 레트로졸을 이용한 자궁내막 준비가 생아 출생률(LBR)을 높이고 유산율을 낮추는 것과 연관이 있다.
+[^107]: Effects of cinnamon on controlling metabolic parameters of polycystic ovary syndrome: A systematic review and meta-analysis. _Journal of ethnopharmacology_. 2020-05-23. [메타분석] [DOI 10.1016/j.jep.2020.112741](https://doi.org/10.1016/j.jep.2020.112741) [PMID 32151755](https://pubmed.ncbi.nlm.nih.gov/32151755/) — 계피 보충제는 다낭성 난소 증후군(PCOS) 환자의 공복 혈당, 공복 인슐린, HOMA-IR 및 혈중 지질 수치(LDL-C, 총 콜레스테롤, 중성지방 감소 및 HDL-C 증가)를 유의하게 개선하는 효과가 있다.
+[^108]: Abnormal gene expression profiles in human ovaries from polycystic ovary syndrome patients. _Molecular endocrinology (Baltimore, Md.)_. 2004-12. [실험연구] [DOI 10.1210/me.2004-0074](https://doi.org/10.1210/me.2004-0074) [PMID 15308691](https://pubmed.ncbi.nlm.nih.gov/15308691/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 난소에서 Wnt 신호 전달, 세포외 기질, 면역 인자 관련 유전자들이 비정상적으로 발현됨을 밝혀냈습니다. (인간 데이터 한정)
+[^109]: Polymorphisms of the peroxisome proliferator-activated receptor-gamma and its coactivator-1alpha genes in Chinese women with polycystic ovary syndrome. _Fertility and sterility_. 2006-05. [관찰연구] [DOI 10.1016/j.fertnstert.2005.10.047](https://doi.org/10.1016/j.fertnstert.2005.10.047) [PMID 16600233](https://pubmed.ncbi.nlm.nih.gov/16600233/) — 본 연구는 중국 한족 여성의 다낭성 난소 증후군(PCOS) 발병과 PPAR-γ 및 PGC-1α 유전자 다형성 사이의 연관성을 조사하였으나, 통계적으로 유의미한 차이를 발견하지 못했습니다.
+[^110]: Can serum apolipoprotein C-I demonstrate metabolic abnormality early in women with polycystic ovary syndrome?. _Fertility and sterility_. 2010-06. [관찰연구] [DOI 10.1016/j.fertnstert.2009.03.005](https://doi.org/10.1016/j.fertnstert.2009.03.005) [PMID 19368908](https://pubmed.ncbi.nlm.nih.gov/19368908/) — 혈청 apoC-I 수치는 다낭성 난소 증후군(PCOS) 여성, 특히 인슐린 저항성이 있는 환자에서 유의하게 증가하며, 지질 지표가 정상인 PCOS 환자나 마른 체형의 환자에서도 대조군보다 높게 나타난다.
+[^111]: Peroxisome proliferator-activated receptor-gamma and its coactivator-1alpha gene polymorphisms in Korean women with polycystic ovary syndrome. _Gynecologic and obstetric investigation_. 2010. [관찰연구] [DOI 10.1159/000279309](https://doi.org/10.1159/000279309) [PMID 20130411](https://pubmed.ncbi.nlm.nih.gov/20130411/) — PPAR-gamma 및 PGC-1alpha 유전자 다형성은 다낭성 난소 증후군(PCOS)의 발생 자체에 직접적인 감수성 유전자로 작용하지는 않는 것으로 보인다.
+[^112]: Harnessing expression data to identify novel candidate genes in polycystic ovary syndrome. _PloS one_. 2011. [관찰연구] [DOI 10.1371/journal.pone.0020120](https://doi.org/10.1371/journal.pone.0020120) [PMID 21611153](https://pubmed.ncbi.nlm.nih.gov/21611153/) — 본 연구는 DKK1과 DNAJB1 유전자의 변이가 다낭성 난소 증후군(PCOS)의 고안드로겐혈증 및 대사 기능 장애와 연관이 있음을 시사한다.
+[^113]: Hypothalamic-pituitary-adrenocortical axis hypersensitivity and glucocorticoid receptor expression and function in women with polycystic ovary syndrome. _Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association_. 2011-11. [관찰연구] [DOI 10.1055/s-0031-1283122](https://doi.org/10.1055/s-0031-1283122) [PMID 22068557](https://pubmed.ncbi.nlm.nih.gov/22068557/) — 다낭성 난소 증후군(PCOS) 환자는 정상 대조군에 비해 당질코르티코이드 수용체(GR) 단백질 농도가 높고 덱사메타손에 대한 HPA 축 민감도가 증가되어 있음을 시사한다.
+[^114]: Polymorphisms of vascular cell adhesion molecule1 (VCAM1) in polycystic ovary syndrome determined by quantitative real-time polymerase chain reaction and melting curve analysis. _European journal of obstetrics, gynecology, and reproductive biology_. 2012-02. [관찰연구] [DOI 10.1016/j.ejogrb.2011.11.013](https://doi.org/10.1016/j.ejogrb.2011.11.013) [PMID 22137570](https://pubmed.ncbi.nlm.nih.gov/22137570/) — VCAM1 유전자의 -1591 및 -833 다형성은 다낭성 난소 증후군(PCOS)의 발생 자체와는 직접적인 연관성이 없는 것으로 나타났다.
+[^115]: Nitric oxide-mediated cutaneous microvascular function is impaired in polycystic ovary sydrome but can be improved by exercise training. _The Journal of physiology_. 2013-03-15. [임상시험] [DOI 10.1113/jphysiol.2012.246918](https://doi.org/10.1113/jphysiol.2012.246918) [PMID 23318877](https://pubmed.ncbi.nlm.nih.gov/23318877/) — 다낭성 난소 증후군(PCOS) 환자는 비만도가 유사한 대조군에 비해 산화질소(NO) 매개 피부 미세혈관 확장 기능이 저하되어 있으며, 이는 심혈관 질환 위험 증가와 관련이 있을 수 있다.
+[^116]: Proteomic biomarkers of preterm birth risk in women with polycystic ovary syndrome (PCOS): a systematic review and biomarker database integration. _PloS one_. 2013. [체계적 고찰] [DOI 10.1371/journal.pone.0053801](https://doi.org/10.1371/journal.pone.0053801) [PMID 23382852](https://pubmed.ncbi.nlm.nih.gov/23382852/) — 본 연구는 PCOS 여성의 조산 위험을 예측할 수 있는 6가지 공통 단백질 바이오마커(Pyruvate kinase M1/M2, Vimentin, Fructose bisphosphonate aldolase A, Heat shock protein beta-1, Peroxiredoxin-1, Transferrin)를 식별하였다.
+[^117]: Serum Heat Shock Protein 70 Concentration in Relation to Polycystic Ovary Syndrome in a Non-Obese Chinese Population. _PloS one_. 2013. [관찰연구] [DOI 10.1371/journal.pone.0067727](https://doi.org/10.1371/journal.pone.0067727) [PMID 23825680](https://pubmed.ncbi.nlm.nih.gov/23825680/) — 비만하지 않은 PCOS 환자에서 혈청 Hsp70 농도가 유의하게 증가하며, 이는 인슐린 저항성, 산화 스트레스 및 만성 염증과 양의 상관관계를 보였다.
+[^118]: Androgens influence microvascular dilation in PCOS through ET-A and ET-B receptors. _American journal of physiology. Endocrinology and metabolism_. 2013-10-01. [실험연구] [DOI 10.1152/ajpendo.00343.2013](https://doi.org/10.1152/ajpendo.00343.2013) [PMID 23921139](https://pubmed.ncbi.nlm.nih.gov/23921139/) — 다낭성 난소 증후군(PCOS) 환자의 혈관 기능 장애는 안드로겐(Androgen) 수치와 밀접한 관련이 있으며, 이는 엔도텔린-1(Endothelin-1)의 ET-A 및 ET-B 수용체를 통해 조절됨을 시사한다. (인간 데이터 한정)
+[^119]: Circulating microRNAs in patients with polycystic ovary syndrome. _Human fertility (Cambridge, England)_. 2015-03. [관찰연구] [DOI 10.3109/14647273.2014.956811](https://doi.org/10.3109/14647273.2014.956811) [PMID 25268995](https://pubmed.ncbi.nlm.nih.gov/25268995/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 혈액 내 특정 microRNA 발현 패턴이 건강한 대조군과 유의하게 다름을 확인하여, 이를 통해 PCOS를 구분할 수 있는 비침습적 진단 지표의 가능성을 제시하였다.
+[^120]: Hyperandrogenism Decreases GRP78 Protein Level and Glucose Uptake in Human Endometrial Stromal Cells. _Reproductive sciences (Thousand Oaks, Calif.)_. 2016-06. [실험연구] [DOI 10.1177/1933719115618283](https://doi.org/10.1177/1933719115618283) [PMID 26614265](https://pubmed.ncbi.nlm.nih.gov/26614265/) — 본 연구는 고안드로겐혈증 환경이 자궁내막 기질 세포에서 GRP78 단백질 발현을 감소시키고 포도당 흡수를 저해함을 시사한다. 이는 다낭성 난소 증후군(PCOS) 환자의 불임 기전 중 하나로 자궁내막의 항상성 파괴가 작용할 수 있음을 보여주며, 향후 안드로겐 수용체 조절을 통한 자궁내막 기능 개선 가능성을 제시한다. (인간 데이터 한정)
+[^121]: The Role of Heat Shock Protein 90B1 in Patients with Polycystic Ovary Syndrome. _PloS one_. 2016. [실험연구] [DOI 10.1371/journal.pone.0152837](https://doi.org/10.1371/journal.pone.0152837) [PMID 27046189](https://pubmed.ncbi.nlm.nih.gov/27046189/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 난소 조직에서 HSP90B1 단백질이 유의하게 증가하며, 이것이 난소 세포의 생존을 돕고 세포 사멸을 억제하는 핵심 역할을 한다는 것을 밝혀냈습니다. (인간 데이터 한정)
+[^122]: Heat therapy improves glucose tolerance and adipose tissue insulin signaling in polycystic ovary syndrome. _American journal of physiology. Endocrinology and metabolism_. 2019-07-01. [임상시험] [DOI 10.1152/ajpendo.00549.2018](https://doi.org/10.1152/ajpendo.00549.2018) [PMID 31136202](https://pubmed.ncbi.nlm.nih.gov/31136202/) — 비만을 동반한 다낭성 난소 증후군(PCOS) 환자에게 규칙적인 온욕 형태의 열 치료를 적용했을 때, 체중 변화 없이도 공복 혈당과 인슐린 저항성이 유의하게 개선되고 혈청 테스토스테론 수치가 감소함을 확인하였다.
+[^123]: Heat therapy reduces sympathetic activity and improves cardiovascular risk profile in women who are obese with polycystic ovary syndrome. _American journal of physiology. Regulatory, integrative and comparative physiology_. 2019-11-01. [임상시험] [DOI 10.1152/ajpregu.00078.2019](https://doi.org/10.1152/ajpregu.00078.2019) [PMID 31483156](https://pubmed.ncbi.nlm.nih.gov/31483156/) — 온열 요법(Heat Therapy)이 다낭성 난소 증후군(PCOS)을 가진 비만 여성의 교감 신경 활동을 감소시키고 혈압, 콜레스테롤, 염증 지표 및 혈관 기능을 유의하게 개선하여 심혈관 위험 프로필을 낮출 수 있음을 시사한다.
+[^124]: Resveratrol treatment in patients with polycystic ovary syndrome decreased pro-inflammatory and endoplasmic reticulum stress markers. _American journal of reproductive immunology (New York, N.Y. : 1989)_. 2020-01. [임상시험] [DOI 10.1111/aji.13186](https://doi.org/10.1111/aji.13186) [PMID 31483910](https://pubmed.ncbi.nlm.nih.gov/31483910/) — 레스베라트롤 투여가 다낭성 난소 증후군(PCOS) 환자의 전신 염증 수치를 낮추고 난포세포의 소포체 스트레스를 조절하는 효과가 있음을 시사한다.
+[^125]: Impaired heat shock protein 72 expression in women with polycystic ovary syndrome following a supervised exercise programme. _Cell stress & chaperones_. 2020-01. [관찰연구] [DOI 10.1007/s12192-019-01048-1](https://doi.org/10.1007/s12192-019-01048-1) [PMID 31734892](https://pubmed.ncbi.nlm.nih.gov/31734892/) — 다낭성 난소 증후군(PCOS) 여성은 일반 여성과 달리 중강도 운동 후 세포 보호 작용을 하는 HSP72 단백질의 발현 증가가 나타나지 않는 임상적 특성을 보였다.
+[^126]: [Correlation between Gan Depression Qi Stagnation Syndrome and Thyroid Stimulating Hormone Level in Adolescent Polycystic Ovary Syndrome Patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-03. [관찰연구] [PMID 30650481](https://pubmed.ncbi.nlm.nih.gov/30650481/) — 청소년 다낭성 난소 증후군(PCOS) 환자에서 간기울결(肝氣鬱結) 증후군의 심각도가 높을수록 갑상선 자극 호르몬(TSH) 수치가 유의하게 상승하는 경향이 있음이 확인되었습니다.
+[^127]: A Clinical Study to Assess the Efficiency of Constitutional Homoeopathic Prescription with Emphasis on W.H. Burt’s Ovarian Group Remedies in Treatment of PCOS in Reproductive Age Group Through FNPO and PCOS QoL Tools. _International Journal of Research and Review_. 2026-02-02. [임상시험] [DOI 10.52403/ijrr.20260202](https://doi.org/10.52403/ijrr.20260202) [PMID 10.52403/ijrr.20260202](https://pubmed.ncbi.nlm.nih.gov/10.52403/ijrr.20260202/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자에게 개별 맞춤형 동종요법 처방, 특히 W. H.
+[^128]: Characteristics of harmonic indexes of the arterial blood pressure waveform in polycystic ovary syndrome. _Blood pressure monitoring_. 2014-08. [관찰연구] [DOI 10.1097/MBP.0000000000000044](https://doi.org/10.1097/MBP.0000000000000044) [PMID 24743683](https://pubmed.ncbi.nlm.nih.gov/24743683/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 혈압 파형 조화 분석 지수(Cn, CVn)가 건강한 대조군과 유의하게 다름을 확인하여, 이를 통해 PCOS 환자의 혈역학적 변화를 비침습적으로 감지할 수 있는 가능성을 제시하였습니다.
+[^129]: A prospective pilot study of the effect of acupuncture on insulin sensitivity in women with polycystic ovary syndrome and insulin resistance. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2020-10. [임상시험] [DOI 10.1177/0964528420902144](https://doi.org/10.1177/0964528420902144) [PMID 32249617](https://pubmed.ncbi.nlm.nih.gov/32249617/) — 다낭성 난소 증후군(PCOS)과 인슐린 저항성을 가진 여성에게 6개월간의 전침(電鍼) 치료를 시행했을 때, 인슐린 저항성 지표인 HOMA-IR과 공복 혈당 및 인슐린 수치가 유의하게 감소하였다.
+[^130]: [Considerations about study on the underlying mechanism of acu-moxibustion in the treatment of obesity type polycystic ovary syndrome by regulating adiponectin]. _Zhen ci yan jiu = Acupuncture research_. 2012-02. [문헌 고찰] [PMID 22574574](https://pubmed.ncbi.nlm.nih.gov/22574574/) — 비만형 다낭성 난소 증후군(PCOS)의 병리 기전에서 아디포넥틴과 인슐린 저항성의 밀접한 관계를 확인하였으며, 침구 치료가 아디포넥틴 수치를 높임으로써 인슐린 저항성을 개선할 수 있음을 시사한다.
+[^131]: [Some issues from Effect of acupuncture and clomiphene in Chinese women with polycystic ovary syndrome in JAMA]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-12-12. [문헌 고찰] [DOI 10.13703/j.0255-2930.2017.12.023](https://doi.org/10.13703/j.0255-2930.2017.12.023) [PMID 29355003](https://pubmed.ncbi.nlm.nih.gov/29355003/) — 본 논문은 JAMA에 발표된 PCOS 환자 대상 침 치료 연구의 설계와 결과 해석에 대해 비판적 분석을 제공한다. 임상가들은 침 치료의 효과를 평가할 때 전통적인 침구학 이론과 현대적인 연구 설계 간의 간극을 이해하고, 보다 정교한 연구 방법론을 적용하여 치료 효과를 입증할 필요가 있다.
+[^132]: [Effects on polycystic ovary syndrome of abdominal obesity treated with the dialing needling method at the abdomen]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.12.006](https://doi.org/10.13703/j.0255-2930.2018.12.006) [PMID 30672214](https://pubmed.ncbi.nlm.nih.gov/30672214/) — 복부 비만을 동반한 다낭성 난소 증후군(PCOS) 환자에게 복부의 특정 혈위에 보사법을 조합한 다이얼 침법과 전기 자극을 병행했을 때, 체질량지수(BMI) 감소, 난소 부피 축소 및 혈청 인슐린, LH, 테스토스테론 수치의 유의미한 감소가 확인되었다.
+[^133]: [Professor SHI Yin's experience of staging, classification and sorting method for polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-12-12. [증례 보고] [DOI 10.13703/j.0255-2930.2016.12.019](https://doi.org/10.13703/j.0255-2930.2016.12.019) [PMID 29231369](https://pubmed.ncbi.nlm.nih.gov/29231369/) — 다낭성 난소 증후군(PCOS) 치료 시 신장(腎)을 보하는 것을 기본으로 하여 간, 비, 심을 함께 치료하고, 생리 주기에 따른 4단계(조절-보-소통-조절 및 보) 치료법을 적용하는 것이 효과적이다.
+[^134]: [Discussion on clinical research thinking of insulin resistance and its related di-seases treated with acupuncture and moxibustion]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-07. [문헌 고찰] [PMID 22997798](https://pubmed.ncbi.nlm.nih.gov/22997798/) — 인슐린 저항성 관련 질환의 침구 치료 연구 시, 국제 표준에 맞춘 표준화된 임상 프로그램 설정과 정기(正氣, Vital qi) 강화 중심의 혈위 조합 선정이 중요함을 시사한다.
+[^135]: Effect of acupoint catgut embedding therapy combined with Chinese medicine for nourishing the kidneys and promoting blood circulation and improving blood glucose and lipid levels as well as the pregnancy rate in obese PCOS patients with infertility. _Experimental and therapeutic medicine_. 2016-11. [임상시험] [DOI 10.3892/etm.2016.3715](https://doi.org/10.3892/etm.2016.3715) [PMID 27882095](https://pubmed.ncbi.nlm.nih.gov/27882095/) — 비만형 다낭성 난소 증후군(PCOS) 및 불임 환자에게 매선요법(Catgut embedding)과 보신활혈(補腎活血) 한약을 병용 투여했을 때, 단독 요법보다 인슐린 저항성(HOMA-IR) 및 혈중 지질 수치 개선 효과가 우수하며 배란율과 임신율을 유의하게 높일 수 있다.
+[^136]: [Effect of electroacupuncture combined with auricular point tapping and pressing on serum insulin and testosterone in the patients of obese women with polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-06. [임상시험] [PMID 19563188](https://pubmed.ncbi.nlm.nih.gov/19563188/) — 전침과 이혈 치료를 병행하는 것이 다낭성 난소 증후군을 가진 비만 여성의 체중 감소, 허리둘레 감소 및 혈청 인슐린과 테스토스테론 수치 개선에 유의미한 효과가 있음을 시사한다.
+[^137]: [Professor LAI Xinsheng's treatment experience of infertility by Tongyuan needling technique]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2015-03. [증례 보고] [PMID 26062206](https://pubmed.ncbi.nlm.nih.gov/26062206/) — 본 연구는 통원침법(Tongyuan needling technique)이라는 특수한 침법을 통해 남녀 불임 및 다낭성 난소 증후군, 시험관 아기 성공률 향상에 효과를 보였음을 시사한다.
+[^138]: Overview of systematic reviews of non-pharmacological interventions in women with polycystic ovary syndrome. _Human reproduction update_. 2019-03-01. [체계적 고찰] [DOI 10.1093/humupd/dmy045](https://doi.org/10.1093/humupd/dmy045) [PMID 30608609](https://pubmed.ncbi.nlm.nih.gov/30608609/) — 다낭성 난소 증후군(PCOS) 환자에게 생활 습관 교정, 이노시톨, 침 치료는 혈당 조절 및 안드로겐성 증상 개선에 긍정적인 영향을 줄 수 있으며, 특히 이노시톨과 N-아세틸시스테인, 보완 대체 의학 요법은 가임력 개선의 가능성을 보여준다.
+[^139]: Acupuncture and clomiphene citrate for live birth in polycystic ovary syndrome: study design of a randomized controlled trial. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [임상시험] [DOI 10.1155/2013/527303](https://doi.org/10.1155/2013/527303) [PMID 24023577](https://pubmed.ncbi.nlm.nih.gov/24023577/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 난임 치료에 있어 침 치료가 클로미펜 단독 요법보다 생존아 출생률을 높이는 추가적인 이점이 있는지 평가하고자 하는 무작위 대조 시험의 설계 단계이다.
+[^140]: [Impacts on physical and mental health of patients with polycystic ovary syndrome treated with electroacupuncture:a randomized controlled trial]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-06-12. [임상시험] [DOI 10.13703/j.0255-2930.2016.06.009](https://doi.org/10.13703/j.0255-2930.2016.06.009) [PMID 29231453](https://pubmed.ncbi.nlm.nih.gov/29231453/) — 다낭성 난소 증후군(PCOS) 환자에게 간기울결을 해소하는 전침 치료를 시행했을 때, 양약(Diane 35) 치료보다 신체적 증상 개선 및 정신적 건강 상태(우울, 불안, 신체화 등) 개선 효과가 더 우수한 것으로 나타났다.
+[^141]: [Efficacy and safety evaluation of acupuncture combined with auricular point sticking therapy in the treatment of polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-11. [임상시험] [PMID 24494277](https://pubmed.ncbi.nlm.nih.gov/24494277/) — 다낭성 난소 증후군(PCOS) 환자에게 침 치료와 이침 요법을 병행하는 것이 클로미펜 단독 투여보다 배란 유도, 임신율 및 월경 회복률 면에서 더 우수한 효과를 보였으며, 특히 약물 투여 시 나타날 수 있는 메스꺼움, 두통, 난소과자극증후군(OHSS) 같은 부작용이 없어 안전한 대안이 될 수 있다.
+[^142]: [Efficacy comparison between electroacupuncture and dyne-35 in treatment of polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-12. [임상시험] [PMID 25876344](https://pubmed.ncbi.nlm.nih.gov/25876344/) — 전침(電鍼) 치료는 다낭성 난소 증후군(PCOS) 환자의 증상 개선 및 호르몬 조절에 있어 Dyne-35와 유사한 임상적 유효성을 보이며, 특히 체중 및 BMI 감소 효과는 양약보다 우수한 것으로 나타났다.
+[^143]: [Acupuncture at Zhibian (BL 54) through Shuidao (ST 28) for polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2015-05. [임상시험] [PMID 26255520](https://pubmed.ncbi.nlm.nih.gov/26255520/) — 다낭성 난소 증후군(PCOS) 환자에게 지변(BL54)에서 수도(ST28)를 관통하는 특수 자침법을 적용했을 때, 일반적인 침치료보다 완치율과 유효율이 유의하게 높았으며 호르몬 수치(FSH, LH, T) 조절 및 기초체온의 정상화에 더 효과적이었다.
+[^144]: [Clinical Effect of Bushen Quyu Recipe Combined with Acupuncture in Treatment of Clomiphene- resistant Polycystic Ovary Syndrome Infertility Patients after Cold Needle Puncture Drainage Operation]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2016-09. [임상시험] [PMID 30645838](https://pubmed.ncbi.nlm.nih.gov/30645838/) — 냉침 천자 흡인술 후 보신거어방(補腎祛瘀方)과 침 치료를 병행하는 것이 클로미펜 저항성 다낭성 난소 증후군(PCOS) 환자의 임신율과 자연 배란율을 유의하게 높인다.
+[^145]: Comparison of acupuncture pretreatment followed by letrozole versus letrozole alone on live birth in anovulatory infertile women with polycystic ovary syndrome: a study protocol for a randomised controlled trial. _BMJ open_. 2016-10-07. [임상시험] [DOI 10.1136/bmjopen-2015-010955](https://doi.org/10.1136/bmjopen-2015-010955) [PMID 27855085](https://pubmed.ncbi.nlm.nih.gov/27855085/) — 본 연구는 PCOS 환자에게 배란 유도제인 레트로졸을 사용하기 전, 전침(Electroacupuncture) 전처치를 시행하는 것이 인슐린 민감도를 개선하여 최종적으로 생아 출생률을 높일 수 있는지 검증하고자 하는 임상시험 프로토콜입니다.
+[^146]: Acupuncture treatment for insulin sensitivity of women with polycystic ovary syndrome and insulin resistance: a study protocol for a randomized controlled trial. _Trials_. 2017-03-09. [임상시험] [DOI 10.1186/s13063-017-1854-2](https://doi.org/10.1186/s13063-017-1854-2) [PMID 28274268](https://pubmed.ncbi.nlm.nih.gov/28274268/) — 본 연구는 다낭성 난소 증후군(PCOS)과 인슐린 저항성(IR)이 동반된 여성 환자에게 전침 치료가 인슐린 감수성을 개선하는 효과가 있는지 Metformin 및 가짜 침 치료와 비교 분석하는 임상 시험 프로토콜입니다.
+[^147]: Effect of Acupuncture and Clomiphene in Chinese Women With Polycystic Ovary Syndrome: A Randomized Clinical Trial. _JAMA_. 2017-06-27. [임상시험] [DOI 10.1001/jama.2017.7217](https://doi.org/10.1001/jama.2017.7217) [PMID 28655015](https://pubmed.ncbi.nlm.nih.gov/28655015/) — 다낭성 난소 증후군(PCOS) 환자에서 침 치료는 클로미펜 단독 치료나 위약 대비 생존아 출산율을 유의하게 증가시키지 못했다.
+[^148]: Pivotal factors concerned in design of acupuncture clinical research: From two articles in JAMA. _Chinese journal of integrative medicine_. 2017-11. [문헌 고찰] [DOI 10.1007/s11655-017-2790-4](https://doi.org/10.1007/s11655-017-2790-4) [PMID 29080200](https://pubmed.ncbi.nlm.nih.gov/29080200/) — 침 치료 임상 연구의 성패는 적절한 질환 선정, 객관적이고 반복 측정 가능한 일차 결과 지표 설정, 그리고 생물학적 영향이 최소화된 정교한 가짜 침 대조군 설정이라는 세 가지 핵심 요소에 달려 있다.
+[^149]: [Protocol optimization and quality control of large-scale acupuncture clinical trial for infertility]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-05-12. [임상시험] [DOI 10.13703/j.0255-2930.2017.05.023](https://doi.org/10.13703/j.0255-2930.2017.05.023) [PMID 29231617](https://pubmed.ncbi.nlm.nih.gov/29231617/) — 본 논문은 다낭성 난소 증후군(PCOS) 환자의 생아 출산율 향상을 위한 대규모 침 치료 임상시험의 프로토콜 최적화와 품질 관리 방안을 제시하고 있다.
+[^150]: Is acupuncture actually not effective for polycystic ovary syndrome? : Analysis of the trial published in jama. _Chinese journal of integrative medicine_. 2017-12. [문헌 고찰] [DOI 10.1007/s11655-017-2831-z](https://doi.org/10.1007/s11655-017-2831-z) [PMID 29235035](https://pubmed.ncbi.nlm.nih.gov/29235035/) — 본 논문은 JAMA에 발표된 PCOS 침 치료 임상시험의 설계 결함(트리거 포인트 중심의 비전통적 혈위 선정, 너무 짧은 치료 기간, 부적절한 주 평가지표 설정 등)을 지적한다.
+[^151]: [Comments on "Effect of acupuncture and clomiphene in Chinese women with polycystic ovary syndrome: a randomized clinical trial" published in Journal of the American Medical Association]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-11-12. [기타] [DOI 10.13703/j.0255-2930.2017.11.027](https://doi.org/10.13703/j.0255-2930.2017.11.027) [PMID 29354965](https://pubmed.ncbi.nlm.nih.gov/29354965/) — 본 논문은 기존의 PCOS 환자 대상 침 치료 임상시험 결과가 침 치료의 효과가 없다고 결론지은 것에 대해, 치료법의 부적절함(전통 침이 아닌 트리거 포인트 치료 사용)과 불충분한 치료 기간(4개월) 등을 이유로 그 결론이 불합리함을 지적하고 있습니다.
+[^152]: [Is acupuncture ineffective in treating infertility associated with polycystic ovary syndrome? A reanalysis of data on the clinical trial by WU Xiaoke's team published on JAMA]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-12-12. [기타] [DOI 10.13703/j.0255-2930.2017.12.022](https://doi.org/10.13703/j.0255-2930.2017.12.022) [PMID 29355002](https://pubmed.ncbi.nlm.nih.gov/29355002/) — 본 연구는 다낭성 난소 증후군 환자의 불임 치료에 있어 침 치료가 효과가 없다는 기존 JAMA 논문의 결론을 재분석하여 반박하였습니다.
+[^153]: Efficacy of acupuncture on menstrual frequency in women with polycystic ovary syndrome: Protocol for a randomized, controlled trial. _Medicine_. 2017-11. [임상시험] [DOI 10.1097/MD.0000000000008828](https://doi.org/10.1097/MD.0000000000008828) [PMID 29381988](https://pubmed.ncbi.nlm.nih.gov/29381988/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 월경 빈도 개선 및 관련 증상 완화에 대한 침 치료의 유효성과 안전성을 평가하기 위한 프로토콜입니다.
+[^154]: Effect of exposure to second-hand smoke from husbands on biochemical hyperandrogenism, metabolic syndrome and conception rates in women with polycystic ovary syndrome undergoing ovulation induction. _Human reproduction (Oxford, England)_. 2018-04-01. [관찰연구] [DOI 10.1093/humrep/dey027](https://doi.org/10.1093/humrep/dey027) [PMID 29471520](https://pubmed.ncbi.nlm.nih.gov/29471520/) — 배란 유도를 받는 다낭성 난소 증후군(PCOS) 여성의 경우, 배우자의 간접흡연 노출이 혈청 테스토스테론 및 유리 안드로겐 지수를 높이고 대사 증후군 위험을 증가시키며 임신율을 유의하게 낮추는 것으로 나타났다.
+[^155]: Effects of metabolic abnormalities, hyperandrogenemia and clomiphene on liver function parameters among Chinese women with polycystic ovary syndrome: results from a randomized controlled trial. _Journal of endocrinological investigation_. 2019-05. [임상시험] [DOI 10.1007/s40618-018-0953-6](https://doi.org/10.1007/s40618-018-0953-6) [PMID 30284220](https://pubmed.ncbi.nlm.nih.gov/30284220/) — 다낭성 난소 증후군(PCOS) 환자에서 대사 이상과 고안드로겐혈증은 간 기능 지표에 서로 다른 부정적인 영향을 미치며, 특히 고안드로겐혈증은 간 효소 및 빌리루빈 수치를 높이는 경향이 있다.
+[^156]: Acupuncture and clomiphene for Chinese women with polycystic ovary syndrome (PCOSAct): statistical analysis approach with the revision and explanation. _Trials_. 2018-11-01. [임상시험] [DOI 10.1186/s13063-018-2942-7](https://doi.org/10.1186/s13063-018-2942-7) [PMID 30382872](https://pubmed.ncbi.nlm.nih.gov/30382872/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 배란 유도를 위해 침 치료와 클로미펜의 효과 및 상호작용을 분석하기 위한 통계적 접근법의 수정을 다루고 있습니다.
+[^157]: Effects of hyperhomocysteinaemia and metabolic syndrome on reproduction in women with polycystic ovary syndrome: a secondary analysis. _Reproductive biomedicine online_. 2019-06. [관찰연구] [DOI 10.1016/j.rbmo.2018.12.046](https://doi.org/10.1016/j.rbmo.2018.12.046) [PMID 30979610](https://pubmed.ncbi.nlm.nih.gov/30979610/) — 다낭성 난소 증후군(PCOS) 환자에게서 고호모시스테인혈증과 대사 증후군은 배란 저하, 임신 실패 및 유산율 증가와 밀접하게 연관되어 있다.
+[^158]: Metformin and acupuncture for polycystic ovary syndrome: A protocol for a systematic review and meta-analysis. _Medicine_. 2020-04. [체계적 고찰] [DOI 10.1097/MD.0000000000019683](https://doi.org/10.1097/MD.0000000000019683) [PMID 32243405](https://pubmed.ncbi.nlm.nih.gov/32243405/) — 본 연구는 다낭성 난소 증후군(PCOS) 치료에 있어 메트포르민과 침 치료를 병용하는 것이 단독 요법보다 효과적이고 안전한지를 평가하기 위한 프로토콜이다.
+[^159]: [Efficacy and mechanism of electroacupuncture on insulin resistant polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-04-12. [임상시험] [DOI 10.13703/j.0255-2930.20190903-k0003](https://doi.org/10.13703/j.0255-2930.20190903-k0003) [PMID 32275366](https://pubmed.ncbi.nlm.nih.gov/32275366/) — 인슐린 저항성을 동반한 다낭성 난소 증후군(PCOS) 환자에게 전침 치료를 시행했을 때, 메트포르민 약물 치료와 유사하거나 일부 지표(TC)에서 더 우수한 효과를 보였다.
+[^160]: Reproductive Medicine: Research Projects in Acupuncture. _Acupuncture in Medicine_. 1998-11. [임상시험] [DOI 10.1136/aim.16.2.80](https://doi.org/10.1136/aim.16.2.80) [PMID 10.1136/aim.16.2.80](https://pubmed.ncbi.nlm.nih.gov/10.1136/aim.16.2.80/) — 전침(電鍼) 치료가 자궁동맥의 혈류 저항을 낮추어 불임 치료의 성공률을 높일 가능성이 있으며, 다낭성 난소 증후군 환자의 일부에서 규칙적인 배란을 유도할 수 있음을 시사한다.
+[^161]: The physiological basis of complementary and alternative medicines for polycystic ovary syndrome. _American journal of physiology. Endocrinology and metabolism_. 2011-07. [문헌 고찰] [DOI 10.1152/ajpendo.00667.2010](https://doi.org/10.1152/ajpendo.00667.2010) [PMID 21487075](https://pubmed.ncbi.nlm.nih.gov/21487075/) — 다낭성 난소 증후군(PCOS) 환자에게 침 치료는 고안드로겐혈증을 낮추고 월경 주기를 개선하는 효과가 있으며, 이는 체성 구심성 신경과 자율신경계 조절을 통해 내분비 및 대사 기능을 개선하는 것으로 보인다.
+[^162]: Effects of tanshinone on hyperandrogenism and the quality of life in women with polycystic ovary syndrome: protocol of a double-blind, placebo-controlled, randomised trial. _BMJ open_. 2013-10-25. [임상시험] [DOI 10.1136/bmjopen-2013-003646](https://doi.org/10.1136/bmjopen-2013-003646) [PMID 24163207](https://pubmed.ncbi.nlm.nih.gov/24163207/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자의 고안드로겐혈증 개선 및 삶의 질 향상을 위해 단삼(Salvia miltiorrhiza)의 유효성분인 단심온(Tanshinones)의 효과를 평가하고자 하는 임상시험 프로토콜입니다.
+[^163]: [Observation on therapeutic effect of acupuncture combined with chinese herbs on polycystic ovary syndrome of kidney deficiency and phlegm stasis type]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-02. [임상시험] [PMID 19391530](https://pubmed.ncbi.nlm.nih.gov/19391530/) — 신허담저(腎虛痰著) 유형의 다낭성 난소 증후군 환자에게 한약 단독 치료보다 침 치료를 병행했을 때 임상적 유효율이 더 높고 테스토스테론(T) 수치 감소 효과가 더 뛰어난 것으로 나타났다.
+[^164]: Efficacy of Chinese patent medicine Tian Gui Capsule in patients with polycystic ovary syndrome: a randomized controlled trial. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2011-09. [임상시험] [DOI 10.3736/jcim20110907](https://doi.org/10.3736/jcim20110907) [PMID 21906521](https://pubmed.ncbi.nlm.nih.gov/21906521/) — 천귀 캡슐(Tian Gui Capsule)은 다낭성 난소 증후군(PCOS) 환자의 고안드로겐혈증 및 고인슐린혈증 개선에 효과가 있으며, 이는 메트포르민보다는 안드로겐 감소 효과가 뛰어나고 다이앤-35보다는 인슐린 수치 감소 효과가 우수함을 시사한다.
+[^165]: [Comparative study on Chinese medical syndrome typing and treatment combined different surgical methods for treating clomiphene-resistant polycystic ovary syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-11. [임상시험] [PMID 23359971](https://pubmed.ncbi.nlm.nih.gov/23359971/) — 클로미펜 저항성 PCOS 환자에게 중의 변증시치와 복강경 하 냉침 천자 배액술 또는 전기응고 천공술을 병용하는 것은 배란 촉진과 임신율 향상에 효과적이다.
+[^166]: [A meta-analysis on acupuncture treatment of polycystic ovary syndrome]. _Zhen ci yan jiu = Acupuncture research_. 2014-06. [메타분석] [PMID 25069203](https://pubmed.ncbi.nlm.nih.gov/25069203/) — 다낭성 난소 증후군(PCOS) 환자에게 鍼(침) 치료는 양약과 유사한 효과를 보이며, 특히 鍼(침)과 한약 또는 灸(뜸)를 병행했을 때 양약보다 더 높은 임상적 유효성을 나타낸다.
+[^167]: Effects of combining low‑dose aspirin with a Chinese patent medicine on follicular blood flow and pregnancy outcome. _Molecular medicine reports_. 2014-11. [임상시험] [DOI 10.3892/mmr.2014.2570](https://doi.org/10.3892/mmr.2014.2570) [PMID 25230733](https://pubmed.ncbi.nlm.nih.gov/25230733/) — 다낭성 난소 증후군(PCOS) 환자의 배란 유도 시 저용량 아스피린과 조경조운환(調經調運丸)을 병용하면 난포 주변의 혈류 공급이 개선되어 난자 질을 높이고 임신율을 향상시킬 수 있다.
+[^168]: [Infertility in polycystic ovary syndrome treated with acupuncture and clomiphene: a randomized controlled trial]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2015-02. [임상시험] [PMID 25854013](https://pubmed.ncbi.nlm.nih.gov/25854013/) — 다낭성 난소 증후군(PCOS) 환자의 불임 치료 시, 클로미펜 단독 요법이나 한방 치료(침·뜸·한약) 단독 요법보다 이를 병합한 복합 치료가 자궁내막의 두께와 형태, 자궁경부 점액 상태를 더 효과적으로 개선하여 임신율을 높이고 유산율을 낮추는 것으로 나타났다.
+[^169]: [Effect of clomiphene citrate and Dingkun Dan on ovulation induction and clinical pregnancy of polycystic ovary syndrome]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2017-10. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20170901.012](https://doi.org/10.19540/j.cnki.cjcmm.20170901.012) [PMID 29243443](https://pubmed.ncbi.nlm.nih.gov/29243443/) — 다낭성 난소 증후군(PCOS) 불임 환자에게 Clomiphene citrate 및 Gonadotropin과 함께 정곤단(Dingkun Dan)을 병용 투여하는 것이 HCG 단독 병용보다 배란율, 임신율 및 자궁내막 두께를 유의하게 개선하고 Gn 투여량과 기간을 줄일 수 있음을 시사한다.
+[^170]: [Therapeutic effects on ovulation and reproduction promotion with acupuncture and clomiphene in polycystic ovary syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-03-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.03.009](https://doi.org/10.13703/j.0255-2930.2018.03.009) [PMID 29701043](https://pubmed.ncbi.nlm.nih.gov/29701043/) — 다낭성 난소 증후군(PCOS) 환자에게 클로미펜 단독 투여보다 전침(Electroacupuncture) 치료를 병행하는 것이 배란율을 높이고 자궁내막의 상태 및 호르몬 수치(E2, P)를 개선하는 데 더 효과적이다.
+[^171]: Effect of Changbudodam-tang with Acupuncture in Treatment of Poly Cystic Ovarian Syndrome: A Case Series. _Journal of Complementary Medicine & Alternative Healthcare_. 2022-03-02. [증례 보고] [DOI 10.19080/jcmah.2022.11.555816](https://doi.org/10.19080/jcmah.2022.11.555816) [PMID 10.19080/jcmah.2022.11.555816](https://pubmed.ncbi.nlm.nih.gov/10.19080/jcmah.2022.11.555816/) — 비만을 동반한 다낭성 난소 증후군(PCOS) 환자에게 창부도담탕(昌腑導痰湯)과 전침(電鍼) 치료를 병행하는 것이 체중 및 BMI 감소, 그리고 무월경이나 희발월경과 같은 생리 주기 이상을 개선하는 데 효과적일 수 있다.
+[^172]: Effectiveness and Safety Of the Combination of Chinese Herbal Medicine And Acupuncture For Women with Polycystic Ovarian Syndrome: A Systematic Review and Meta-Analysis Of Randomized Controlled Trials. _Journal_. 2022. [메타분석] [DOI 10.2139/ssrn.4302472](https://doi.org/10.2139/ssrn.4302472) [PMID 10.2139/ssrn.4302472](https://pubmed.ncbi.nlm.nih.gov/10.2139/ssrn.4302472/) — 중약(CHM)과 침 치료를 병용하는 것이 다낭성 난소 증후군(PCOS) 환자의 임신율과 배란율을 개선하는 데 효과적일 수 있음을 시사합니다.
+[^173]: Effectiveness of acupuncture and moxibustion therapy on glycolipid metabolism in patients with obese-type polycystic ovarian syndrome: A systematic review and network meta-analysis. _Medicine_. 2025-06-13. [메타분석] [DOI 10.1097/md.0000000000042812](https://doi.org/10.1097/md.0000000000042812) [PMID 10.1097/md.0000000000042812](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000042812/) — 비만형 다낭성 난소 증후군(PCOS) 환자의 당지질 대사 개선을 위해 鍼(침) 및 灸(뜸) 요법이 효과적이며, 특히 공복 혈당(FPG)과 인슐린 저항성(IR) 개선에는 灸(뜸)과 매선요법(catgut embedding)의 병용이 가장 유용하다.
+[^174]: The efficacy of using acupuncture in managing polycystic ovarian syndrome. _Current opinion in obstetrics & gynecology_. 2019-12. [체계적 고찰] [DOI 10.1097/GCO.0000000000000582](https://doi.org/10.1097/GCO.0000000000000582) [PMID 31567447](https://pubmed.ncbi.nlm.nih.gov/31567447/) — 침 치료는 β-엔도르핀 생성을 조절하여 성선자극호르몬 방출 호르몬(GnRH) 분비에 영향을 줌으로써 PCOS 환자의 배란 유도와 생리 주기 회복에 도움을 줄 수 있는 대안적 치료법이 될 수 있습니다.
+[^175]: Progress of integrative Chinese and Western medicine in treating polycystic ovarian syndrome caused infertility. _Chinese journal of integrative medicine_. 2006-12. [문헌 고찰] [DOI 10.1007/s11655-001-0312-9](https://doi.org/10.1007/s11655-001-0312-9) [PMID 17361532](https://pubmed.ncbi.nlm.nih.gov/17361532/) — 다낭성 난소 증후군으로 인한 불임 치료 시, 보신(補腎) 한약과 침 치료를 서양의학의 호르몬제 및 배란 유도제와 병행하는 결합 치료가 효과적이다.
+[^176]: Acupuncture effect and central autonomic regulation. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [문헌 고찰] [DOI 10.1155/2013/267959](https://doi.org/10.1155/2013/267959) [PMID 23762116](https://pubmed.ncbi.nlm.nih.gov/23762116/) — 침 치료는 심혈관 질환 및 내분비 장애 등 다양한 자율신경계 불균형 질환의 증상을 완화하는 데 임상적 효능이 있으며, 이는 뇌의 특정 영역 활성화와 신경전달물질 조절이라는 중추신경계 기전을 통해 이루어집니다.
+[^177]: [Effect of electro-acupuncture on the spindle and oocytes quality in patients with PCOS]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-03. [임상시험] [PMID 25951635](https://pubmed.ncbi.nlm.nih.gov/25951635/) — IVF-ET를 진행하는 다낭성 난소 증후군(PCOS) 환자에게 전침(電鍼) 치료를 병행하면 난자의 방추사(spindle) 위치를 개선하여 난자의 질과 고품질 배아율을 높일 수 있다.
+[^178]: [Exploration of the meridian differentiation law in polycystic ovarian syndrome of hirsutism based on data mining technology]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-02-12. [관찰연구] [DOI 10.13703/j.0255-2930.2018.02.017](https://doi.org/10.13703/j.0255-2930.2018.02.017) [PMID 29473360](https://pubmed.ncbi.nlm.nih.gov/29473360/) — 다낭성 난소 증후군 환자의 다모증은 임맥(任脈), 충맥(衝脈), 족궐음간경(足厥陰肝經), 족양명위경(足陽明胃經)의 기혈(氣血) 변화와 밀접한 관련이 있음을 시사한다.
+[^179]: Acupuncture for polycystic ovarian syndrome. _The Cochrane database of systematic reviews_. 2011-08-10. [체계적 고찰] [DOI 10.1002/14651858.CD007689.pub2](https://doi.org/10.1002/14651858.CD007689.pub2) [PMID 21833961](https://pubmed.ncbi.nlm.nih.gov/21833961/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자에 대한 침 치료의 효과를 평가하려 하였으나, 분석 기준에 부합하는 무작위 대조 시험(RCT)이 단 한 건도 발견되지 않았다.
+[^180]: Methodological and reporting quality evaluation of systematic reviews on acupuncture in women with polycystic ovarian syndrome: A systematic review. _Complementary therapies in clinical practice_. 2018-11. [체계적 고찰] [DOI 10.1016/j.ctcp.2018.10.002](https://doi.org/10.1016/j.ctcp.2018.10.002) [PMID 30396621](https://pubmed.ncbi.nlm.nih.gov/30396621/) — 다낭성 난소 증후군(PCOS)에 대한 침 치료의 효과를 다룬 기존 체계적 문헌고찰(SR)들의 방법론적 및 보고 품질이 전반적으로 낮음을 확인하였다.
+[^181]: [Effect of abdominal acupuncture therapy on the endocrine and metabolism in obesity-type polycystic ovarian syndrome patients]. _Zhen ci yan jiu = Acupuncture research_. 2010-08. [임상시험] [PMID 21090334](https://pubmed.ncbi.nlm.nih.gov/21090334/) — 비만형 다낭성 난소 증후군(PCOS) 환자에게 복부침 치료를 시행했을 때, 메트포르민 투여군보다 체질량지수(BMI) 및 허리-엉덩이 비율(WHR) 감소와 월경 빈도(MF) 개선, 테스토스테론(T) 수치 저하에서 더 우수한 효과를 보였다.
+[^182]: [Effects of electroacupuncture intervention on changes of quality of ovum and pregnancy out- come in patients with polycystic ovarian syndrome]. _Zhen ci yan jiu = Acupuncture research_. 2015-04. [임상시험] [PMID 26054202](https://pubmed.ncbi.nlm.nih.gov/26054202/) — 다낭성 난소 증후군(PCOS) 환자의 체외수정 과정에서 전침 치료를 병행하면 고품질 배아 생성률을 높이고 줄기세포인자(SCF) 수치를 증가시키는 효과가 있다.
+[^183]: [Acupuncture Treatment of Polycystic Ovarian Syndrome Patients with Abdominal Obesity by Regulating Dai Meridian: A Randomized Controlled Clinical Trial]. _Zhen ci yan jiu = Acupuncture research_. 2018-04-25. [임상시험] [DOI 10.13702/j.1000-0607.170687](https://doi.org/10.13702/j.1000-0607.170687) [PMID 29888581](https://pubmed.ncbi.nlm.nih.gov/29888581/) — 복부 비만을 동반한 다낭성 난소 증후군(PCOS) 환자에게 대맥(帶脈)을 조절하는 침 치료를 식단 및 운동과 병행했을 때, 단순 식단 및 운동만 시행한 경우보다 공복 인슐린, 인슐린 저항성(HOMA-IR), 허리둘레를 유의하게 더 감소시켰다.
+[^184]: Effects of electroacupuncture on anxiety and depression in unmarried patients with polycystic ovarian syndrome: secondary analysis of a pilot randomised controlled trial. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2019-02. [임상시험] [DOI 10.1136/acupmed-2017-011615](https://doi.org/10.1136/acupmed-2017-011615) [PMID 30843421](https://pubmed.ncbi.nlm.nih.gov/30843421/) — 다낭성 난소 증후군(PCOS) 환자에게 16주간의 전침 치료를 시행했을 때, 불안과 우울 증상이 유의하게 감소하고 전반적인 삶의 질이 개선됨을 확인하였다.
+[^185]: Clinical Efficacy and Experimental Research Progress on Traditional Chinese Medicine Moxibustion Therapy in Ovarian Injury. _Chinese medicine and natural products_. 2024-06. [문헌 고찰] [DOI 10.1055/s-0044-1787307](https://doi.org/10.1055/s-0044-1787307) [PMID 10.1055/s-0044-1787307](https://pubmed.ncbi.nlm.nih.gov/10.1055/s-0044-1787307/) — 본 문헌 고찰은 난소 예비능 저하, 다낭성 난소 증후군, 조기 난소 부전 등 다양한 난소 손상 질환에 대해 灸(뜸, Moxibustion) 및 電鍼(전침, Electroacupuncture) 요법이 난소 기능 개선, 배란율 및 임신율 향상에 유의미한 효과가 있음을 보여줍니다.
+[^186]: Chinese medicine as complementary therapy for female infertility. _Chinese journal of integrative medicine_. 2017-04. [문헌 고찰] [DOI 10.1007/s11655-016-2510-5](https://doi.org/10.1007/s11655-016-2510-5) [PMID 27484764](https://pubmed.ncbi.nlm.nih.gov/27484764/) — 한의학적 치료(한약 및 침 치료)는 호르몬 조절, 자궁내막증 및 다낭성 난소 증후군 개선, 스트레스 완화 등을 통해 여성 불임 치료에 보조적인 도움을 줄 수 있다.
+[^187]: Manual acupuncture for the infertile female with polycystic ovary syndrome (PCOS): study protocol for a randomized sham-controlled trial. _Trials_. 2019-09-11. [임상시험] [DOI 10.1186/s13063-019-3667-y](https://doi.org/10.1186/s13063-019-3667-y) [PMID 31511054](https://pubmed.ncbi.nlm.nih.gov/31511054/) — 본 연구는 다낭성 난소 증후군(PCOS)으로 인한 불임 여성에게 수기 침 치료(Manual Acupuncture)가 임신율과 배란율을 높이는 데 효과가 있는지 평가하기 위한 무작위 대조 시험 프로토콜이다.
+[^188]: A randomized sham-controlled trial of manual acupuncture for infertile women with polycystic ovary syndrome. _Integrative medicine research_. 2022-06. [임상시험] [DOI 10.1016/j.imr.2021.100830](https://doi.org/10.1016/j.imr.2021.100830) [PMID 35059289](https://pubmed.ncbi.nlm.nih.gov/35059289/) — 다낭성 난소 증후군(PCOS)으로 인한 불임 여성에게 수기 침(Manual Acupuncture)과 한약을 병용 투여했을 때, 가짜 침 치료군에 비해 임신율과 배란율이 유의하게 향상되었으며 성호르몬 수치 및 PCOS 점수가 개선되었다.
+[^189]: Treating gynaecological disorders with traditional Chinese medicine: a review. _African journal of traditional, complementary, and alternative medicines : AJTCAM_. 2009-07-03. [문헌 고찰] [DOI 10.4314/ajtcam.v6i4.57181](https://doi.org/10.4314/ajtcam.v6i4.57181) [PMID 20606770](https://pubmed.ncbi.nlm.nih.gov/20606770/) — 본 리뷰는 자궁내막증, 불임, 다낭성 난소 증후군 등 광범위한 부인과 질환에 대해 한약과 침 치료가 유효한 치료 옵션이 될 수 있음을 시사합니다.
+[^190]: [Clinical therapeutic effects of acupuncture combined with Chinese herbal medicine on infertility of polycystic ovary syndrome in the patients with ovulation induction with letrozole]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-01-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.01.006](https://doi.org/10.13703/j.0255-2930.2018.01.006) [PMID 29354933](https://pubmed.ncbi.nlm.nih.gov/29354933/) — Letrozole을 이용한 배란 유도 시 조경거담(調經祛痰) 한약과 전침(電鍼) 치료를 병행하면 단순 약물 치료보다 배란율과 임신율이 유의하게 향상되며, 체중 감소 및 남성호르몬(T)과 AMH 수치 저하에 효과적이다.
+[^191]: Effectiveness of electroacupuncture for polycystic ovary syndrome: study protocol for a randomized controlled trial. _Trials_. 2016-05-21. [임상시험] [DOI 10.1186/s13063-016-1375-4](https://doi.org/10.1186/s13063-016-1375-4) [PMID 27206612](https://pubmed.ncbi.nlm.nih.gov/27206612/) — 본 연구는 다낭성 난소 증후군 환자에게 표준 약물인 클로미펜 단독 요법과 전침(電鍼) 병행 요법의 효과를 비교하는 임상 시험 프로토콜이다.
+[^192]: The efficacy and safety of combined traditional Chinese and Western medicine treatment for PCOS-related infertility: an umbrella meta-analysis. _Frontiers in Medicine_. 2026-08-06. [체계적 고찰] [DOI 10.3389/fmed.2026.1877844](https://doi.org/10.3389/fmed.2026.1877844) [PMID 10.3389/fmed.2026.1877844](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2026.1877844/) — 중의학(TCM)과 서양 의학의 통합 치료, 특히 TCM 주기 요법을 병용한 치료가 PCOS 관련 불임 환자의 임신율과 배란율을 높이는 데 긍정적인 효과를 보였다.
+[^193]: Chinese herbal medicine for the treatment of small intestinal bacterial overgrowth (SIBO). _Medicine_. 2020-12-18. [메타분석] [DOI 10.1097/md.0000000000023737](https://doi.org/10.1097/md.0000000000023737) [PMID 10.1097/md.0000000000023737](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000023737/) — 본 연구는 다낭성 난소 증후군(PCOS)을 동반한 소장 세균 과증식(SIBO) 환자에게 중약(CHM) 치료가 얼마나 효과적이고 안전한지를 평가하기 위한 메타분석 프로토콜입니다.
+[^194]: [Study on the correlation between different Chinese medicine syndrome types and endocrine metabolism of polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-08. [관찰연구] [PMID 21910340](https://pubmed.ncbi.nlm.nih.gov/21910340/) — 다낭성 난소 증후군(PCOS) 환자들은 공통적으로 렙틴(Leptin) 및 성호르몬 결합 글로불린(SHBG)의 이상을 보이지만, 변증 유형에 따라 서로 다른 내분비 대사 특징을 가진다.
+[^195]: [The Chinese medicine syndrome typing mode at the same level is the key point to explore the syndrome laws of disease. An inspiration from studying Chinese medicine syndrome laws of polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-10. [문헌 고찰] [PMID 23163158](https://pubmed.ncbi.nlm.nih.gov/23163158/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자를 동일 수준(생식 내분비 및 대사)에서 증후군 유형별로 분석하여 병리적 변화와 증후군 사이의 법칙을 탐구하는 것의 중요성을 제시합니다.
+[^196]: Chinese herbal medicine for female infertility: an updated meta-analysis. _Complementary therapies in medicine_. 2015-02. [메타분석] [DOI 10.1016/j.ctim.2014.12.004](https://doi.org/10.1016/j.ctim.2014.12.004) [PMID 25637159](https://pubmed.ncbi.nlm.nih.gov/25637159/) — 한약(CHM) 치료는 양방 단독 치료에 비해 여성 불임 환자의 임신율을 약 2배가량 유의하게 향상시킬 수 있으며, 배란율 및 자궁내막 두께 등 생리적 지표를 개선하는 효과가 있다.
+[^197]: [Distribution Laws of PCOS Syndrome Types and Features of Sex Hormone Levels and Glucose Metabolism]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2016-07. [관찰연구] [PMID 30634205](https://pubmed.ncbi.nlm.nih.gov/30634205/) — 본 연구는 PCOS 환자의 변증 유형과 생화학적 지표 사이의 상관관계를 분석하여, 환자별 맞춤형 치료를 위한 객관적 근거를 제시한다.
+[^198]: [Clinical observation on treatment of Stein-Leventhal syndrome caused sterility by combined use of clomiphene and Chinese nourishing shen and activating blood circulation drugs]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2004-01. [임상시험] [PMID 14976888](https://pubmed.ncbi.nlm.nih.gov/14976888/) — Stein-Leventhal 증후군(PCOS)으로 인한 불임 치료 시 클로미펜 단독 투여보다 보신양혈(補腎養血) 한약을 병용하는 것이 호르몬 수치 개선, 배란율 및 임신율 향상에 더 효과적이다.
+[^199]: [Clinical study of ganshao capsule in treating clomiphene-resistant polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-08. [임상시험] [PMID 16152826](https://pubmed.ncbi.nlm.nih.gov/16152826/) — 클로미펜 저항성을 보이는 고안드로겐혈증성 다낭성 난소 증후군(PCOS) 환자에게 간소캡슐을 8주간 투여함으로써 호르몬 수치 개선, 난소 형태 및 BMI의 유의미한 호전을 기대할 수 있다.
+[^200]: [Advantages of Chinese medicine for treatment of blood sugar and lipid metabolic disorders in patients with polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-07. [임상시험] [PMID 19852289](https://pubmed.ncbi.nlm.nih.gov/19852289/) — 중약(中藥) 치료는 다낭성 난소 증후군(PCOS) 환자의 인슐린 저항성을 개선하고 혈당 및 지질 수치를 조절하며, 배란 회복을 촉진하는 데 효과적이다.
+[^201]: [Effects of Shen invigorating and Chong-channel regulating method on anti-Müllerian hormone and oocyte quality in polycystic ovarian syndrome patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-01. [임상시험] [PMID 22500381](https://pubmed.ncbi.nlm.nih.gov/22500381/) — 다낭성 난소 증후군(PCOS) 환자에게 양방 치료와 함께 Erzhi Tiangui Granule을 이용한 신양보익 및 충맥조절법(SCRM)을 병행하면 난자 및 배아의 질을 유의하게 개선할 수 있다.
+[^202]: [Effect of Qilin Pill Combined Metformin on Polycystic Ovaries Induced Infertility Patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2016-09. [임상시험] [PMID 30645839](https://pubmed.ncbi.nlm.nih.gov/30645839/) — 다낭성 난소 증후군(PCOS)으로 인한 불임 환자에게 메트포르민과 기린환(麒麟丸)을 병용 투여했을 때, 메트포르민 단독 투여보다 호르몬 불균형 개선, 인슐린 저항성 감소 및 배란율과 임신율 향상에 더 효과적이다.
+[^203]: Insulin Resistance in Polycystic Ovary Syndrome Improved by Chinese Medicine Dingkun Pill (): A Randomized Controlled Clinical Trial. _Chinese journal of integrative medicine_. 2019-04. [임상시험] [DOI 10.1007/s11655-018-2947-1](https://doi.org/10.1007/s11655-018-2947-1) [PMID 31236888](https://pubmed.ncbi.nlm.nih.gov/31236888/) — 정군환(Dingkun Pill) 단독 또는 Diane-35와의 병용 투여가 다낭성 난소 증후군(PCOS) 환자의 인슐린 민감도를 개선하는 데 긍정적인 영향을 미칠 수 있음을 시사한다.
+[^204]: [Treatment of refractory polycystic ovary syndrome by bushen huoxue method combined with ultrasound-guided follicle aspiration]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-04. [임상시험] [PMID 18543483](https://pubmed.ncbi.nlm.nih.gov/18543483/) — 난치성 다낭성 난소 증후군 환자에게 초음파 유도하 난포 흡인술과 보신활혈(補腎活血) 한약 치료를 병행하는 것이 단독 시술보다 효과적이고 안전함이 확인되었다.
+[^205]: [Effect of modified cangfu daotan decoction in improving endometrial receptivity in infertility patients with polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-11. [임상시험] [PMID 25566617](https://pubmed.ncbi.nlm.nih.gov/25566617/) — 다낭성 난소 증후군(PCOS) 환자의 불임 치료 시, 표준적인 호르몬 요법(CC+HMG+HCG)에 가감창복다단탕(MCDD)을 병용 투여하면 자궁내막의 혈류 개선과 인슐린 저항성 감소를 통해 자궁내막 수용성을 높이고 임신율을 유의하게 향상시킬 수 있다.
+[^206]: [Effects of Cangfu Congxian Decoction on Oxidative Stress in Polycystic Ovary Syndrome Patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2016-06. [임상시험] [PMID 27491227](https://pubmed.ncbi.nlm.nih.gov/27491227/) — 창복총현탕(CCD)은 다낭성 난소 증후군(PCOS) 환자의 난소 과립세포 내 활성산소(ROS) 발현을 억제하여 산화 스트레스를 개선함으로써, 난자 채취 수와 수정률 및 양질 배아율을 향상시키는 효과가 있다.
+[^207]: Chinese herbal medicine for subfertile women with polycystic ovarian syndrome. _The Cochrane database of systematic reviews_. 2016-10-12. [메타분석] [DOI 10.1002/14651858.CD007535.pub3](https://doi.org/10.1002/14651858.CD007535.pub3) [PMID 27731904](https://pubmed.ncbi.nlm.nih.gov/27731904/) — 다낭성 난소 증후군(PCOS) 불임 여성에게 중약(CHM)을 클로미펜과 병용 투여했을 때 임신율이 향상될 수 있다는 일부 저품질 근거가 있으나, 전반적인 근거 수준은 매우 낮다.
+[^208]: [Bushen Huoxue herbal medicine in subfertile women with polycystic ovary syndrome: a Meta-analysis]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-03. [메타분석] [DOI 10.19540/j.cnki.cjcmm.2019.0021](https://doi.org/10.19540/j.cnki.cjcmm.2019.0021) [PMID 30989967](https://pubmed.ncbi.nlm.nih.gov/30989967/) — 보신활혈(補腎活血) 한약 처방은 다낭성 난소 증후군을 가진 불임 여성의 임신율을 높이고 LH, 테스토스테론, 인슐린 수치를 낮추는 데 효과가 있을 가능성이 높습니다.
+[^209]: [Clinical study on effect of Bushen Huayu Qutan Recipe in treating polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-10. [임상시험] [PMID 17990452](https://pubmed.ncbi.nlm.nih.gov/17990452/) — 보신화어거담방(BHQR)의 내외복합 치료는 다낭성 난소 증후군(PCOS) 환자의 비만, 다모증, 여드름 등 임상 증상을 유의하게 개선하고 테스토스테론 및 인슐린 수치를 낮추는 효과가 있다.
+[^210]: Serum metabolomics study of Traditional Chinese medicine formula intervention to polycystic ovary syndrome. _Journal of pharmaceutical and biomedical analysis_. 2016-02-20. [관찰연구] [DOI 10.1016/j.jpba.2015.12.020](https://doi.org/10.1016/j.jpba.2015.12.020) [PMID 26730509](https://pubmed.ncbi.nlm.nih.gov/26730509/) — 보신화담방(BHF)은 다낭성 난소 증후군(PCOS) 환자의 염증 반응과 산화 스트레스를 감소시킴으로써 치료 효과를 나타내며, 특히 환자의 인슐린 상태(정상 또는 고인슐린혈증)에 따라 서로 다른 대사 경로(인지질 대사 또는 아미노산 대사)를 통해 작용함이 확인되었다.
+[^211]: Integrative Chinese herbal medicine therapy reduced the risk of type 2 diabetes mellitus in patients with polycystic ovary syndrome: A nationwide matched cohort study. _Journal of ethnopharmacology_. 2019-10-28. [관찰연구] [DOI 10.1016/j.jep.2019.112091](https://doi.org/10.1016/j.jep.2019.112091) [PMID 31325604](https://pubmed.ncbi.nlm.nih.gov/31325604/) — 다낭성 난소 증후군(PCOS) 환자에게 중약(CHM) 치료를 병행하는 것이 제2형 당뇨병(T2DM)으로의 진행 위험을 유의하게 낮출 수 있음을 시사합니다.
+[^212]: [Clinical study of yishen jianpi yangxue tongli therapy in treating polycystic ovary syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2003-11. [임상시험] [PMID 14666761](https://pubmed.ncbi.nlm.nih.gov/14666761/) — 비신양허(脾腎陽虛) 변증을 보이는 다낭성 난소 증후군(PCOS) 환자에게 이신건비양혈통리 요법을 적용했을 때, 클로미펜 단독 투여보다 임신율을 유의하게 높이고 BMI, 남성호르몬 및 인슐린 저항성을 효과적으로 개선함.
+[^213]: [Correlation between sex hormone and insulin and various TCM syndrome types in patients with polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-11. [관찰연구] [PMID 18173145](https://pubmed.ncbi.nlm.nih.gov/18173145/) — 본 연구는 다낭성 난소 증후군 환자의 한의학적 변증 유형과 생화학적 지표 간의 상관관계를 밝혔으며, 특히 신음허(SYiD)는 테스토스테론(T), 신양허(SYaD)는 LH 및 LH/FSH 비율, 간기울결화열(GSH)은 프로락틴(PRL), 비양허(PYD)는 인슐린(INS) 수치 상승과 밀접한 관련이 있음을 보여주었다.
+[^214]: [Macro- and microscopical studies on polycystic ovary syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-03. [실험연구] [PMID 18476435](https://pubmed.ncbi.nlm.nih.gov/18476435/) — 본 연구는 다낭성 난소 증후군(PCOS)의 한의학적 변증에 대한 실험실적 근거를 거시적 및 미시적 분석을 통해 제시하였습니다. (인간 데이터 한정)
+[^215]: Microarray evaluation of endometrial receptivity in Chinese women with polycystic ovary syndrome. _Reproductive biomedicine online_. 2008-09. [실험연구] [DOI 10.1016/s1472-6483(10)60228-3](https://doi.org/10.1016/s1472-6483(10)60228-3) [PMID 18765015](https://pubmed.ncbi.nlm.nih.gov/18765015/) — 다낭성 난소 증후군(PCOS) 환자의 자궁내막에서는 착상 시기에 세포 부착 및 세포외 기질 분해와 관련된 유전자(TM4SF4, MMP26 등)의 발현이 유의하게 감소되어 있음을 확인하였습니다. (인간 데이터 한정)
+[^216]: [Prelimary exploration on Chinese medicine syndrome type distribution in patients with polycystic ovary syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-07. [관찰연구] [PMID 20929122](https://pubmed.ncbi.nlm.nih.gov/20929122/) — 다낭성 난소 증후군(PCOS) 환자들에게서 신허(腎虛)와 간기울결(肝氣鬱結) 변증이 가장 흔하게 나타나며, 여러 변증이 복합적으로 나타나는 경향이 있음을 확인하였다.
+[^217]: [Study on the relation between Pi-deficiency pattern and metabolic syndrome in patients with polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-11. [관찰연구] [PMID 21275164](https://pubmed.ncbi.nlm.nih.gov/21275164/) — 다낭성 난소 증후군(PCOS) 환자 중 脾虛證(비허증) 패턴을 보이는 환자는 대사 증후군(MS)의 발생 위험이 더 높으며, 이는 특히 인슐린 저항성(HOMA-IR)의 증가와 밀접한 관련이 있다.
+[^218]: [Distribution of Chinese medicine syndrome patterns and its laws in patients with polycystic ovarian syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-03. [관찰연구] [PMID 21485070](https://pubmed.ncbi.nlm.nih.gov/21485070/) — 다낭성 난소 증후군(PCOS) 환자에게서 가장 빈번하게 나타나는 변증 유형은 신허혈어(腎虛血瘀), 비허담습(脾虛痰濕), 비신양허(脾腎陽虛), 신음허(腎陰虛) 순으로 나타났다.
+[^219]: [Correlation between Chinese medicine syndrome types of polycystic ovary syndrome and ovulation induction effect]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-07. [관찰연구] [PMID 21866657](https://pubmed.ncbi.nlm.nih.gov/21866657/) — 다낭성 난소 증후군(PCOS) 환자의 한의학적 변증 유형에 따라 클로미펜을 이용한 배란 유도 및 임신 성공률에 유의미한 차이가 있음이 확인되었다.
+[^220]: Chinese herbal medicine for subfertile women with polycystic ovarian syndrome. _The Cochrane database of systematic reviews_. 2010-09-08. [메타분석] [DOI 10.1002/14651858.CD007535.pub2](https://doi.org/10.1002/14651858.CD007535.pub2) [PMID 20824862](https://pubmed.ncbi.nlm.nih.gov/20824862/) — 다낭성 난소 증후군(PCOS)으로 인한 불임 여성에게 클로미펜(Clomiphene) 단독 요법보다 중약(CHM)을 병용 투여하는 것이 임신율 향상에 유의미한 효과가 있을 가능성이 있습니다.
+[^221]: Effectiveness of co-treatment with traditional Chinese medicine and letrozole for polycystic ovary syndrome: a meta-analysis. _Journal of integrative medicine_. 2017-03. [메타분석] [DOI 10.1016/S2095-4964(17)60320-0](https://doi.org/10.1016/S2095-4964(17)60320-0) [PMID 28285614](https://pubmed.ncbi.nlm.nih.gov/28285614/) — 다낭성 난소 증후군(PCOS) 환자에게 레트로졸 단독 요법보다 중의학(TCM)을 병용한 치료가 배란율, 임신율 및 전반적인 증상 개선율을 유의하게 높이는 것으로 나타났다.
+[^222]: [Research progress in mechanism of traditional Chinese medicine treatment of polycystic ovary syndrome]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2016-10. [문헌 고찰] [DOI 10.4268/cjcmm20162003](https://doi.org/10.4268/cjcmm20162003) [PMID 28929646](https://pubmed.ncbi.nlm.nih.gov/28929646/) — 본 논문은 다낭성 난소 증후군(PCOS) 치료에 있어 한의학적 접근이 내분비 및 대사 장애 개선에 안전하고 효과적임을 시사합니다.
+[^223]: Delivery of a full-term pregnancy after TCM treatment in a previously infertile patient diagnosed with polycystic ovary syndrome. _Alternative therapies in health and medicine_. 2024. [증례 보고] [PMID 19161048](https://pubmed.ncbi.nlm.nih.gov/19161048/) — 본 사례는 다낭성 난소 증후군(PCOS)으로 인한 불임 환자가 전통 중의학(TCM) 치료를 통해 성공적으로 임신하고 만삭 분만에 이른 과정을 보여줍니다.
+[^224]: Developing clinical practice guidelines for Chinese herbal treatment of polycystic ovary syndrome: A mixed-methods modified Delphi study. _Complementary therapies in medicine_. 2015-06. [임상진료지침] [DOI 10.1016/j.ctim.2015.03.003](https://doi.org/10.1016/j.ctim.2015.03.003) [PMID 26051579](https://pubmed.ncbi.nlm.nih.gov/26051579/) — 본 연구는 다낭성 난소 증후군(PCOS)의 중약(CHM) 치료를 위한 표준 임상 진료 지침의 초기 프레임워크를 제시하였다. 델파이 기법을 통해 전문가 합의를 도출한 85개 항목의 가이드라인은 향후 PCOS 환자에게 중약을 처방할 때 임상적 일관성과 안전성을 높이는 기초 자료로 활용될 수 있다.
+[^225]: ‘Efficacy of GLP-1 Receptor Agonists’ in Hypertriglyceridemia: A Systemic Review and Meta Analysis. _Asian Journal of Medicine and Health_. 2025-03-15. [메타분석] [DOI 10.9734/ajmah/2025/v23i41205](https://doi.org/10.9734/ajmah/2025/v23i41205) [PMID 10.9734/ajmah/2025/v23i41205](https://pubmed.ncbi.nlm.nih.gov/10.9734/ajmah/2025/v23i41205/) — GLP-1 수용체 작용제(GLP-1 RAs)는 특히 대사 증후군을 동반한 고중성지방혈증 환자에게 효과적인 지질 저하 치료 옵션이 될 수 있다.
+[^226]: Acupuncture for infertile women without undergoing assisted reproductive techniques (ART). _Medicine_. 2019-07. [메타분석] [DOI 10.1097/md.0000000000016463](https://doi.org/10.1097/md.0000000000016463) [PMID 10.1097/md.0000000000016463](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000016463/) — 보조생식술을 시행하지 않는 불임 여성에게 침 치료 또는 침 병용 요법을 적용했을 때 임신율, 배란율 및 자궁내막 두께가 유의하게 개선되었으며 LH 수치는 감소하는 결과가 나타났다.
+[^227]: Clinical intervention of poly herbal Siddha preparation Karpa nei in the treatment of polycystic ovarian disease. _Journal of Research in Siddha Medicine_. 2022-07. [임상시험] [DOI 10.4103/jrsm.jrsm_17_22](https://doi.org/10.4103/jrsm.jrsm_17_22) [PMID 10.4103/jrsm.jrsm_17_22](https://pubmed.ncbi.nlm.nih.gov/10.4103/jrsm.jrsm_17_22/) — 본 연구는 전통 시다(Siddha) 약제인 카르파 네이(Karpa nei)가 다낭성 난소 질환(PCOD) 환자의 월경 주기 조절 및 증상 완화에 긍정적인 효과가 있음을 시사합니다.
+[^228]: A Review on Herbal Treatment on PCOD:  Efficacy, Safety and Future Direction. _International Journal For Multidisciplinary Research_. 2025-12-31. [문헌 고찰] [DOI 10.36948/ijfmr.2025.v07i06.65021](https://doi.org/10.36948/ijfmr.2025.v07i06.65021) [PMID 10.36948/ijfmr.2025.v07i06.65021](https://pubmed.ncbi.nlm.nih.gov/10.36948/ijfmr.2025.v07i06.65021/) — 다낭성 난소 증후군(PCOS) 치료에 있어 강황, 생강 등의 약용 식물이 포함한 폴리페놀 성분들이 생식 건강 개선에 긍정적인 영향을 미칠 수 있음을 시사한다.
+[^229]: Recent Advances in InVitro Maturation (IVM): A Systematic Literature Review. _International Journal of Medical Science and Clinical Research Studies_. 2023-09-06. [체계적 고찰] [DOI 10.47191/ijmscrs/v3-i9-19](https://doi.org/10.47191/ijmscrs/v3-i9-19) [PMID 10.47191/ijmscrs/v3-i9-19](https://pubmed.ncbi.nlm.nih.gov/10.47191/ijmscrs/v3-i9-19/) — 체외 성숙(IVM)은 난소 과자극 증후군(OHSS)의 위험을 낮추면서도 효과적인 보조 생식 방법이며, 특히 성장호르몬(GH), 알파-리포산(ALA), AMH, 레스베라트롤 등의 보조 인자를 배양액에 추가함으로써 성숙률과 수정률을 유의하게 높일 수 있다.
+[^230]: Personalized Nutrition for the Prevention and Treatment of Metabolic Diseases: Opportunities and Perspectives. _Russian Journal for Personalized Medicine_. 2022-04-04. [문헌 고찰] [DOI 10.18705/2782-3806-2022-2-1-15-34](https://doi.org/10.18705/2782-3806-2022-2-1-15-34) [PMID 10.18705/2782-3806-2022-2-1-15-34](https://pubmed.ncbi.nlm.nih.gov/10.18705/2782-3806-2022-2-1-15-34/) — 본 리뷰는 유전체학, 대사체학, 미생물 프로파일링 등 정밀 의료 기술을 결합한 개인 맞춤형 영양 전략이 대사 질환 예방과 관리에 매우 효과적일 수 있음을 시사한다.
+[^231]: The Role of Heat Shock Proteins in the Pathogenesis of Polycystic Ovarian Syndrome: A Review of the Literature. _International Journal of Molecular Sciences_. 2023-01-17. [문헌 고찰] [DOI 10.3390/ijms24031838](https://doi.org/10.3390/ijms24031838) [PMID 10.3390/ijms24031838](https://pubmed.ncbi.nlm.nih.gov/10.3390/ijms24031838/) — 본 문헌 고찰은 열충격 단백질(HSP)의 이상 발현이 난소 세포의 증식과 사멸의 불균형을 초래하여 다낭성 난소 증후군의 난포 발달 장애를 유발함을 시사합니다.
+[^232]: Self-Control Study on the Impact of Buzhong Yiqi Prescription on the Gut Microbiota of Obese Patients with PCOS and Phlegm-Dampness Syndrome Caused by Spleen Deficiency. _Journal_. 2020-12-07. [임상시험] [DOI 10.21203/rs.3.rs-117891/v1](https://doi.org/10.21203/rs.3.rs-117891/v1) [PMID 10.21203/rs.3.rs-117891/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-117891/v1/) — 비위허약 및 담음증을 동반한 비만 PCOS 환자에게 보중익기탕을 3개월간 투여했을 때, 혈청 안드로겐 수치(DHEAS, T)가 유의하게 감소하고 장내 미생물 및 대사체 구조가 개선됨을 확인하였다.
+[^233]: Dyserythropoiesis in a child with pyruvate kinase deficiency and coexistent unilateral multicystic dysplastic kidney. _Pediatric Blood & Cancer_. 2014-01-30. [증례 보고] [DOI 10.1002/pbc.24953](https://doi.org/10.1002/pbc.24953) [PMID 10.1002/pbc.24953](https://pubmed.ncbi.nlm.nih.gov/10.1002/pbc.24953/) — 피루브산 키나아제(Pyruvate Kinase) 결핍증 환자에서 선천성 적혈구 생성 이상성 빈혈 1형(CDA type I)과 유사한 골수 내 적혈구 생성 이상 소견이 나타날 수 있음을 시사한다.
+[^234]: A herbal treatment approach for the management of clinical, hormonal and ultrasound parameters in reproductive age group women with polycystic ovarian syndrome: A randomized clinical trial. _Pakistan Journal of Pharmaceutical Sciences_. 2021-05-01. [임상시험] [DOI 10.36721/pjps.2021.34.3.sup.1097-1102.1](https://doi.org/10.36721/pjps.2021.34.3.sup.1097-1102.1) [PMID 10.36721/pjps.2021.34.3.sup.1097-1102.1](https://pubmed.ncbi.nlm.nih.gov/10.36721/pjps.2021.34.3.sup.1097-1102.1/) — 가임기 다낭성 난소 증후군(PCOS) 환자를 대상으로 한약 치료가 임상적 증상, 호르몬 불균형 및 초음파상 난소 형태 개선에 미치는 영향을 평가한 연구입니다.
+[^235]: Applications of Herbal Medicine to Treat Autosomal Dominant Polycystic Kidney Disease. _Frontiers in Pharmacology_. 2021-04-27. [문헌 고찰] [DOI 10.3389/fphar.2021.629848](https://doi.org/10.3389/fphar.2021.629848) [PMID 10.3389/fphar.2021.629848](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2021.629848/) — 본 리뷰는 ADPKD 치료를 위한 다양한 한약재 유래 성분들의 낭종 억제 효과와 약리 기전을 분석하였다. 특히 트리프톨라이드, 커큐민, 동충하초 등의 성분이 신장 낭종의 진행을 억제할 가능성을 제시하며, 이는 향후 말기 신부전(ESRD)으로의 이행을 늦추는 새로운 임상적 전략의 기초 자료로 활용될 수 있다.
+[^236]: Prescription patterns of herbal medicine for polycystic ovarian syndrome in major Korean medicine hospitals: a multicenter retrospective study. _Clinical and Experimental Obstetrics & Gynecology_. 2021-06-15. [관찰연구] [DOI 10.31083/j.ceog.2021.03.2471](https://doi.org/10.31083/j.ceog.2021.03.2471) [PMID 10.31083/j.ceog.2021.03.2471](https://pubmed.ncbi.nlm.nih.gov/10.31083/j.ceog.2021.03.2471/) — 본 연구는 다낭성 난소 증후군(PCOS) 환자들에게 조경산, 가미귀비탕, 창출도담탕과 같은 한약 처방과 침, 뜸 치료가 주로 사용되고 있음을 보여준다.
+[^237]: Managing PCOS with Samshodhan Therapy: A Case Report. _Journal of Ayurvedic and Herbal Medicine_. 2023-06-30. [증례 보고] [DOI 10.31254/jahm.2023.9202](https://doi.org/10.31254/jahm.2023.9202) [PMID 10.31254/jahm.2023.9202](https://pubmed.ncbi.nlm.nih.gov/10.31254/jahm.2023.9202/) — 다낭성 난소 증후군(PCOS) 환자에게 아유르베다의 정화 요법인 삼쇼단(Samshodhan, 바마나 및 비레차나)을 적용하여 증상을 완전히 개선한 사례이다.
+[^238]: Efficacy of Dry Cupping versus Counselling with Mindfulness-based Cognitive Therapy Approach (MBCT) on Fertility Quality of Life and Conception Success in Infertile Women due to Polycystic Ovarian Syndrome: A Pilot Randomized Clinical Trial. _Journal_. 2023-07-12. [임상시험] [DOI 10.21203/rs.3.rs-2763633/v1](https://doi.org/10.21203/rs.3.rs-2763633/v1) [PMID 10.21203/rs.3.rs-2763633/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-2763633/v1/) — 다낭성 난소 증후군(PCOS) 환자의 불임 관련 삶의 질 개선에는 건식 부항보다 마음챙김 기반 인지치료(MBCT) 상담이 더 효과적일 수 있음을 시사한다.
+[^239]: Models and mechanisms of metabolic regulation: genes, stress, and the HPA and HPG axes. _Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme_. 2012-07. [문헌 고찰] [DOI 10.1055/s-0032-1311576](https://doi.org/10.1055/s-0032-1311576) [PMID 22549397](https://pubmed.ncbi.nlm.nih.gov/22549397/) — 비만 및 대사 질환의 발생은 단순한 항상성 조절 기전을 넘어 유전적 요인, 초기 생애 스트레스, 성호르몬 및 생체 리듬과 같은 복합적인 환경적 요인의 상호작용에 의해 결정됩니다.
+[^240]: Interactive case-based learning improves resident knowledge and confidence in reproductive endocrinology and infertility(). _Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology_. 2017-06. [실험연구] [DOI 10.1080/09513590.2017.1290075](https://doi.org/10.1080/09513590.2017.1290075) [PMID 28277140](https://pubmed.ncbi.nlm.nih.gov/28277140/) — 전공의를 대상으로 한 상호작용형 사례 기반 학습(CBL)이 전통적인 강의식 교육보다 생식 내분비 및 불임(REI) 분야의 지식 습득과 임상적 자신감을 향상시키는 데 더 효과적임을 보여준다. (인간 데이터 한정)
+[^241]: Molecular signatures of ovarian diseases: Insights from network medicine perspective. _Systems biology in reproductive medicine_. 2016-08. [메타분석] [DOI 10.1080/19396368.2016.1197982](https://doi.org/10.1080/19396368.2016.1197982) [PMID 27341345](https://pubmed.ncbi.nlm.nih.gov/27341345/) — 본 연구는 난소암, 자궁내막증, PCOS의 분자적 메커니즘을 네트워크 의학 관점에서 분석하여 공통적인 병리 경로(MAPK 신호전달, 세포 주기, 세포 사멸)를 규명하였습니다.
+[^242]: Building a network of ADPKD reference centres across Europe: the EuroCYST initiative. _Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association_. 2014-09. [관찰연구] [DOI 10.1093/ndt/gfu091](https://doi.org/10.1093/ndt/gfu091) [PMID 25165183](https://pubmed.ncbi.nlm.nih.gov/25165183/) — 본 연구는 유럽 전역의 ADPKD 참조 센터 네트워크를 구축하고 대규모 관찰 코호트를 조성하여, 질병의 자연 경과와 이질성 및 합병증을 체계적으로 분석하고자 하는 이니셔티브이다.
+[^243]: JAK inhibition and progressive kidney disease. _Current opinion in nephrology and hypertension_. 2015-01. [문헌 고찰] [DOI 10.1097/MNH.0000000000000079](https://doi.org/10.1097/MNH.0000000000000079) [PMID 25415616](https://pubmed.ncbi.nlm.nih.gov/25415616/) — JAK-STAT 신호 전달 경로의 과도한 활성화가 당뇨병성 신증, 다낭성 신질환 등 다양한 만성 신장 질환의 진행을 촉진함을 시사한다.
+[^244]: Albuminuria and tolvaptan in autosomal-dominant polycystic kidney disease: results of the TEMPO 3:4 Trial. _Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association_. 2016-11. [임상시험] [DOI 10.1093/ndt/gfv422](https://doi.org/10.1093/ndt/gfv422) [PMID 26681730](https://pubmed.ncbi.nlm.nih.gov/26681730/) — ADPKD 환자에서 Tolvaptan 투여는 혈압 변화와 무관하게 알부민뇨(ACR)를 유의하게 감소시키며, 특히 기저 알부민뇨 수치가 높은 환자일수록 eGFR 감소 억제 및 TKV 성장 억제 효과가 더 뚜렷하게 나타났다.
+[^245]: Tolvaptan and Kidney Pain in Patients With Autosomal Dominant Polycystic Kidney Disease: Secondary Analysis From a Randomized Controlled Trial. _American journal of kidney diseases : the official journal of the National Kidney Foundation_. 2017-02. [임상시험] [DOI 10.1053/j.ajkd.2016.08.028](https://doi.org/10.1053/j.ajkd.2016.08.028) [PMID 27856088](https://pubmed.ncbi.nlm.nih.gov/27856088/) — Tolvaptan은 ADPKD 환자에서 객관적인 의료 중재가 필요할 정도의 신장 통증 발생률을 위약 대비 유의하게 감소(16.
+[^246]: Multicenter, open-label, extension trial to evaluate the long-term efficacy and safety of early versus delayed treatment with tolvaptan in autosomal dominant polycystic kidney disease: the TEMPO 4:4 Trial. _Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association_. 2018-03-01. [임상시험] [DOI 10.1093/ndt/gfx043](https://doi.org/10.1093/ndt/gfx043) [PMID 28379536](https://pubmed.ncbi.nlm.nih.gov/28379536/) — 톨바프탄의 조기 투여가 상염색체 우성 다낭성 신종(ADPKD) 환자의 사구체 여과율(eGFR) 저하를 억제하는 지속적인 질환 수정 효과가 있음을 확인하였다.
