@@ -6,6 +6,7 @@
 
 - [혈허(血虛, Blood Deficiency)](혈허(血虛, Blood Deficiency).md)
   - 하위 표제어: 심혈허(心血虛) · 간혈허(肝血虛) · 심비양허(心脾兩虛) · 간신음혈허(肝腎陰血虛) · 기혈양허(氣血兩虛) · 혈허혈어(血虛血瘀) · 혈허생풍(血虛生風) · 혈허발열(血虛發熱)
+    - [심혈허(心血虛, Heart Blood Deficiency)](심혈허(心血虛, Heart Blood Deficiency).md) — 혈허의 심(心) 축 핵심 변증, 심계·불면·건망·심비양허의 근간
 - [어혈(瘀血, Blood Stasis)](어혈(瘀血, Blood Stasis).md)
   - 하위 표제어: 기체혈어(氣滯血瘀) · 기허혈어(氣虛血瘀) · 한응혈어(寒凝血瘀) · 열결혈어(熱結血瘀) · 담어교결(痰瘀交結) · 외상성 어혈(外傷性瘀血)
 - [간혈허 (肝血虛, Liver Blood Deficiency)](간혈허 (肝血虛, Liver Blood Deficiency).md)
