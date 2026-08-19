@@ -592,7 +592,7 @@ ADHD의 병태생리는 전두엽·선조체 회로의 도파인·노르에피�
 
 [^9]: Potential therapeutic action of natural products from traditional Chinese medicine on Alzheimer's disease animal models targeting neurotrophic factors.. _Fundamental & clinical pharmacology_. 2016-12. [문헌 고찰] [DOI 10.1111/fcp.12222](https://doi.org/10.1111/fcp.12222) [PMID 27414248](https://pubmed.ncbi.nlm.nih.gov/27414248/) — 인삼·지황·음양곽·원지 등이 신경영양인자 발현 조절로 알츠하이머 신경세포 사멸 억제. 원지 신경보호 기전 가설의 근거..
 
-[^10]: Is the Chinese medicinal formula Guipi Decoction () effective as an adjunctive treatment for depression? A meta-analysis of randomized controlled trials.. _Chinese journal of integrative medicine_. 2017-05. [메타분석] [DOI 10.1007/s11655-015-2287-y](https://doi.org/10.1007/s11655-015-2287-y) [PMID 26453561](https://pubmed.ncbi.nlm.nih.gov/26453561/) — 귀비탕을 항우울제에 병용 시 단독보다 우울·유효율·회복률 유의 향상, 심각 부작용 없음. 귀비탕 심비양허형 불면·우울의 메타 근거..
+[^10]: Is the Chinese medicinal formula Guipi Decoction (歸脾湯) effective as an adjunctive treatment for depression? A meta-analysis of randomized controlled trials.. _Chinese journal of integrative medicine_. 2017-05. [메타분석] [DOI 10.1007/s11655-015-2287-y](https://doi.org/10.1007/s11655-015-2287-y) [PMID 26453561](https://pubmed.ncbi.nlm.nih.gov/26453561/) — 귀비탕(歸脾湯)을 항우울제에 병용 시 단독보다 우울·유효율·회복률 유의 향상, 심각 부작용 없음. 귀비탕 심비양허형 불면·우울의 메타 근거..
 
 [^11]: Efficacy and safety of Kami Guibi-tang in older adults with insomnia and memory complaints: a randomized, double-blind, placebo-controlled pilot trial.. _BMC complementary medicine and therapies_. 2026-03-20. [임상시험] [DOI 10.1186/s12906-026-05348-9](https://doi.org/10.1186/s12906-026-05348-9) [PMID 41862890](https://pubmed.ncbi.nlm.nih.gov/41862890/) — 가미귀비탕이 노인 불면·기억력 저하에 수면의 질·인지·우울 개선. 귀비탕 계열 노인 불면 임상 근거..
 
