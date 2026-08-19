@@ -461,9 +461,9 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 
 **간신음허(肝腎陰虛)형 미병의 정방.** 간혈·신음 부족으로 인한 요슬산연·구건·오심번열·수면장애·건구·월경량소에 적응한다. 숙지황·산수유·산약·복령·모려·택사로 구성되며, 삼보(三補) 삼사(三瀉)의 배오 원칙을 따른다. 음허화왕이 겸하면 지모·황백을 가하여 **지백지황환(知柏地黃丸)**이 된다. [교과서적 근거]
 
-#### 14-5. 소표이신탕(消疲益神湯) — 피로중심 미병
+#### 14-5. 소피익신탕(消疲益神湯) — 피로중심 미병
 
-**간기울결·비기허(肝氣鬱結·脾氣虛) 복합형 피로중심 미병의 처방.** 200명 대상 무작위위약대조이중맹검시험에서 소표이신탕 추출과립이 위약군 대비 FS-14 피로 점수와 한의학적 증후군 개선율에서 유의하게 우수하였으며, 이상반응이 나타나지 않아 안전성이 확인되었다[^103][^104]. 간기울결·비기허 패턴을 보이는 피로 중심 준건강상태 환자의 신체 통증 완화와 정신 건강 증진을 통해 삶의 질을 개선한다[^103].
+**간기울결·비기허(肝氣鬱結·脾氣虛) 복합형 피로중심 미병의 처방.** 200명 대상 무작위위약대조이중맹검시험에서 소피익신탕 추출과립이 위약군 대비 FS-14 피로 점수와 한의학적 증후군 개선율에서 유의하게 우수하였으며, 이상반응이 나타나지 않아 안전성이 확인되었다[^103][^104]. 간기울결·비기허 패턴을 보이는 피로 중심 준건강상태 환자의 신체 통증 완화와 정신 건강 증진을 통해 삶의 질을 개선한다[^103].
 
 #### 14-6. 옥병풍산(玉屏風散) — 면역저하형 미병
 
@@ -961,7 +961,7 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 
 #### 25-3. 회복 경과
 
-미병의 회복 경과는 중재 방법·지속 기간·개인 순응도에 따라 다르다. 200명 대상 소표이신탕 연구에서 6주 투여 후 신체 통증이 개선되고 추적 관찰 기간까지 정신 건강 상태가 지속되었다[^103]. 180명 대상 노인 통합 관리 연구에서 한약·침·추나·약선 결합 모델이 삶의 질·심리 상태·생활 만족도를 유의하게 개선하였다[^78]. 미병 관리는 단기 처방보다 지속적·통합적 관리가 효과적이다.
+미병의 회복 경과는 중재 방법·지속 기간·개인 순응도에 따라 다르다. 200명 대상 소피익신탕 연구에서 6주 투여 후 신체 통증이 개선되고 추적 관찰 기간까지 정신 건강 상태가 지속되었다[^103]. 180명 대상 노인 통합 관리 연구에서 한약·침·추나·약선 결합 모델이 삶의 질·심리 상태·생활 만족도를 유의하게 개선하였다[^78]. 미병 관리는 단기 처방보다 지속적·통합적 관리가 효과적이다.
 
 ### 26. 관리원칙
 
@@ -1213,9 +1213,9 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 
 [^101]: Epidemiologic study on basic TCM syndrome in the subhealth population in the Zhengzhou area. _Chinese journal of integrated traditional and Western medicine_. 2008-07. [관찰연구] [PMID 18822910](https://pubmed.ncbi.nlm.nih.gov/18822910/) — 2,133명 정저우 지역 준건강상태 변증 역학. 심비양허·심신양허·간기울결·비허습체 빈도.
 
-[^103]: Xiaopiyishen Herbal Extract Granule Improves the Quality of Life among People with Fatigue-Predominant Subhealth and Liver-Qi Stagnation and Spleen-Qi Deficiency Syndrome. _Evidence-based complementary and alternative medicine_. 2012. [임상시험] [DOI 10.1155/2012/509705](https://doi.org/10.1155/2012/509705) [PMID 22852022](https://pubmed.ncbi.nlm.nih.gov/22852022/) — 200명 소표이신탕. 간기울결·비기허 피로중심 준건강상태 신체 통증·정신 건강 개선.
+[^103]: Xiaopiyishen Herbal Extract Granule Improves the Quality of Life among People with Fatigue-Predominant Subhealth and Liver-Qi Stagnation and Spleen-Qi Deficiency Syndrome. _Evidence-based complementary and alternative medicine_. 2012. [임상시험] [DOI 10.1155/2012/509705](https://doi.org/10.1155/2012/509705) [PMID 22852022](https://pubmed.ncbi.nlm.nih.gov/22852022/) — 200명 소피익신탕. 간기울결·비기허 피로중심 준건강상태 신체 통증·정신 건강 개선.
 
-[^104]: Effects of Xiaopi Yishen herbal extract granules in treatment of fatigue-predominant subhealth due to liver-qi stagnation and spleen-qi deficiency: a prospective, randomized, placebo-controlled and double-blind clinical trial. _Journal of Chinese integrative medicine_. 2011-05. [임상시험] [DOI 10.3736/jcim20110508](https://doi.org/10.3736/jcim20110508) [PMID 21565137](https://pubmed.ncbi.nlm.nih.gov/21565137/) — 200명 소표이신탕 이중맹검위약대조. FS-14 피로 점수·증후군 개선율 유의 우수. 이상반응 없음.
+[^104]: Effects of Xiaopi Yishen herbal extract granules in treatment of fatigue-predominant subhealth due to liver-qi stagnation and spleen-qi deficiency: a prospective, randomized, placebo-controlled and double-blind clinical trial. _Journal of Chinese integrative medicine_. 2011-05. [임상시험] [DOI 10.3736/jcim20110508](https://doi.org/10.3736/jcim20110508) [PMID 21565137](https://pubmed.ncbi.nlm.nih.gov/21565137/) — 200명 소피익신탕 이중맹검위약대조. FS-14 피로 점수·증후군 개선율 유의 우수. 이상반응 없음.
 
 [^112]: Review of Randomized Controlled Trials on Herbal Medicine for Influenza Prevention. _The Journal of Internal Korean Medicine_. 2025-06-30. [체계적 고찰] [DOI 10.22246/jikm.2025.46.3.421](https://doi.org/10.22246/jikm.2025.46.3.421) — 인플루엔자 예방 한약 RCT 체계적 고찰. 한약이 감염률·증상 유의 감소.
 
