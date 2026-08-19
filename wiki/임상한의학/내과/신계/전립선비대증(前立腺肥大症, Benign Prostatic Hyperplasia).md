@@ -27,15 +27,15 @@
 |---|---|---|---|
 | 증상성 전립선비대증 | N40 | 하부요로증상 동반 전형 유형 | 침·뜸·한약 병행 |
 | 야간뇨 우세형 | N40 | 야간뇨가 주증상 | 시령탕·팔미지황환 |
-| 수술 후 전립선비대증 | N40 | TURP 후 배뇨·요실금 관리 | 제령탕·열민구·전침 |
+| 수술 후 전립선비대증 | N40 | TURP 후 배뇨·요실금 관리 | 저령탕·열민구·전침 |
 | 고령자 전립선비대증 | N40 | 고령·복합기능저하 | 관원·중극·삼음교·신수 |
-| 요폐 급성형 | N40.3 | 급성 요폐·카테터 의존 | 중료 전침·곡구 심층 자침 |
+| 요폐 급성형 | N40.3 | 급성 요폐·카테터 의존 | 중료 전침·곡골 심층 자침 |
 
 - **증상성 전립선비대증**: 하부요로증상을 동반하는 전형적 유형으로, IPSS·Qmax·잔뇨량으로 평가된다. 본 문서의 대부분의 근거는 이 유형을 대상으로 한 연구이다[^9][^10][^11].
 - **야간뇨 우세형**: 야간뇨가 주된 증상인 유형으로, 시령탕(柴苓湯)·팔미지황환(八味地黃丸) 등이 야간뇨 횟수 감소에 유용한 근거가 있다[^12][^13].
-- **수술 후 전립선비대증**: 경요도 전립선 절제술(TURP) 등 수술 후 배뇨 기능 회복·요실금·요저류 관리가 필요한 유형으로, 제령탕(猪苓湯)·열민구(熱敏灸)·전침 등이 보조적으로 활용된다[^14][^15][^16].
+- **수술 후 전립선비대증**: 경요도 전립선 절제술(TURP) 등 수술 후 배뇨 기능 회복·요실금·요저류 관리가 필요한 유형으로, 저령탕(猪苓湯)·열민구(熱敏灸)·전침 등이 보조적으로 활용된다[^14][^15][^16].
 - **고령자 전립선비대증**: 고령 남성에서 흔하며, 침구 치료 시 관원(CV4)·중극(CV3)·삼음교(SP6)·신수(BL23) 등이 빈용된다[^17].
-- **요폐 급성형**: 급성 요폐로 카테터 삽입 후 배뇨 회복을 도모하는 상황으로, 중료(BL33) 전침·곡구(CV2) 심층 자침 등의 근거가 있다[^18][^19].
+- **요폐 급성형**: 급성 요폐로 카테터 삽입 후 배뇨 회복을 도모하는 상황으로, 중료(BL33) 전침·곡골(CV2) 심층 자침 등의 근거가 있다[^18][^19].
 
 > 위 분류는 임상 틀이지 동일 근거수준의 권고가 아니다. 실제 진료에서는 환자의 변증·병기·동반질환을 종합하여 접근해야 한다.
 
@@ -253,13 +253,13 @@
 
 중극(CV3) 전침은 전립선비대증 276례의 무작위 대조 임상시험에서 배뇨 증상·요속·잔뇨량을 유의하게 개선하였다[^35].중료(BL33) 전침은 경도·중등도 전립선비대증 100례의 RCT에서 효과적이었으며[^36], 요저류 환자에서는 초음파 유도 하에 차료(BL32)·중료(BL33)를 정밀 취혈하면 배뇨 기능 회복에 더 우수한 효과를 보인다[^16].
 
-#### 10-4. 곡구(曲骨, CV2) 심층 침 치료
+#### 10-4. 곡골(曲骨, CV2) 심층 침 치료
 
-곡구혈(CV2) 심층 침 치료는 전립선 피막 도달 여부에 따라 증상 개선 효과가 달라질 수 있으며, CT 기반 깊이 측정으로 안전한 시술을 도모하는 RCT 프로토콜이 있다[^18].경근(經筋) 이론에 기반하여 CT 유도 하에 중극(CV3) 혈에서 전립선 피막까지 자침하는 새로운 침 치료 접근법이 제시되었다[^28].
+곡골혈(CV2) 심층 침 치료는 전립선 피막 도달 여부에 따라 증상 개선 효과가 달라질 수 있으며, CT 기반 깊이 측정으로 안전한 시술을 도모하는 RCT 프로토콜이 있다[^18].경근(經筋) 이론에 기반하여 CT 유도 하에 중극(CV3) 혈에서 전립선 피막까지 자침하는 새로운 침 치료 접근법이 제시되었다[^28].
 
-#### 10-5. 화침(火鍼)·장침(長鍼)·지변(秩邊, BL54)
+#### 10-5. 화침(火鍼)·장침(長鍼)·질변(秩邊, BL54)
 
-화침(火鍼) 요법은 경도·중등도 전립선비대증 60례의 RCT에서 대조군 대비 유의한 증상 개선을 보였다[^37].장침(長鍼) 요법은 전립선비대증으로 인한 배뇨곤란 150례에서 효과를 보였다[^38].지변(秩邊, BL54) 3침 자극 + 뜸 병용은 200례의 임상시험에서 효과를 보였다[^39].
+화침(火鍼) 요법은 경도·중등도 전립선비대증 60례의 RCT에서 대조군 대비 유의한 증상 개선을 보였다[^37].장침(長鍼) 요법은 전립선비대증으로 인한 배뇨곤란 150례에서 효과를 보였다[^38].질변(秩邊, BL54) 3침 자극 + 뜸 병용은 200례의 임상시험에서 효과를 보였다[^39].
 
 #### 10-6. 전침의 생물학적 작용
 
@@ -299,9 +299,9 @@
 
 시령탕(柴苓湯)은 기본 치료 후에도 야간뇨가 지속되는 전립선비대증 환자 12례의 임상시험에서 주간 소변량을 늘리고 야간뇨 횟수를 유의하게 감소시켜 삶의 질을 개선한다[^12].
 
-#### 12-4. 제령탕(猪苓湯) — 수술 후
+#### 12-4. 저령탕(猪苓湯) — 수술 후
 
-제령탕(猪苓湯)은 전립선비대증 수술 후 배뇨 기능 회복·증상 개선을 위한 보조적 한약으로, 체계적 고찰·메타분석 프로토콜이 진행 중이다[^14].
+저령탕(猪苓湯)은 전립선비대증 수술 후 배뇨 기능 회복·증상 개선을 위한 보조적 한약으로, 체계적 고찰·메타분석 프로토콜이 진행 중이다[^14].
 
 #### 12-5. 강천방(康泉方)·통림산(通淋散)·자음통비탕(滋陰通閉湯)
 
@@ -369,7 +369,7 @@ CAMUS 대규모 RCT(369례)에서 톱야자 추출물(320~960 mg/일)은 위약 
 
 이금경(易筋經) 기공 vs 태극권(太極拳) 운동의 비교 RCT(150례)에서 두 운동 모두 전립선비대증 증상·삶의 질 개선에 효과적이었다[^75].
 
-#### 14-4. 배돌기(排石)·방광 세척 장치
+#### 14-4. 배석(排石)·방광 세척 장치
 
 방광 세척 자동 조절 장치(146례) 등 기기 중재의 RCT도 있으나, 이는 양방 기기 중재로 한의학 직접 근거는 아니다[^76].
 
@@ -422,7 +422,7 @@ KCD-8: N40 (전립선 비대증) + 수술 후 상태(Z90.x 계열 부호 가능)
 
 #### ④ 치료
 
-- **제령탕(猪苓湯)**: 수술 후 배뇨 기능 회복·증상 개선 보조 한약. 체계적 고찰·메타분석 프로토콜 진행 중[^14].
+- **저령탕(猪苓湯)**: 수술 후 배뇨 기능 회복·증상 개선 보조 한약. 체계적 고찰·메타분석 프로토콜 진행 중[^14].
 - **열민구(熱敏灸)**: TURP 후 일시적 요실금 빈도 감소·배뇨 증상 개선[^15].
 - **차료(BL32)·중료(BL33) 전침**: 초음파 유도 정밀 취혈 시 요저류 환자의 배뇨 기능 회복에 더 우수[^16].
 - **이침(耳鍼)**: 전립선절제술 후 요실금 관리[^46][^47].
@@ -456,7 +456,7 @@ KCD-8: N40.3 (전립선 비대증에 의한 요폐).
 
 - **카테터 삽입**: 양방 응급 처치 우선[^1].[교과서적 근거]
 - **중료(BL33)·차료(BL32) 전침**: 초음파 유도 정밀 취혈이 요저류 회복에 우수[^16].
-- **곡구(曲骨, CV2) 심층 자침**: 전립선 피막 도달 자침 RCT 프로토콜[^18].
+- **곡골(曲骨, CV2) 심층 자침**: 전립선 피막 도달 자침 RCT 프로토콜[^18].
 - **중극(中極, CV3)·관원(關元, CV4) 전침**: 방광 기화 회복 방향[^35].
 
 > 급성 요폐는 기질질환(전립선암·요도협착) 배제가 선행되어야 하며, 한의 중재는 카테터 삽입 후 보조로 적용한다. **변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다.**
@@ -524,7 +524,7 @@ KCD-8: N40 (전립선 비대증).
 
 #### 19-3. 치료 반응·경과
 
-- 수술 후 요저류·요실금 등 합병증은 열민구·제령탕·전침 등으로 보조 관리할 수 있다[^14][^15][^16].
+- 수술 후 요저류·요실금 등 합병증은 열민구·저령탕·전침 등으로 보조 관리할 수 있다[^14][^15][^16].
 - 전립선비대증 환자의 한의 치료는 대체로 안전하며, 일부 한약에서 복통·설사 등 경미한 부작용이 보고된다[^33].
 - 야간뇨·수면 장애 개선은 삶의 질 향상의 핵심 지표다[^12][^8].
 
@@ -611,7 +611,7 @@ KCD-8: N40 (전립선 비대증).
 
 **Q3. 전립선비대증에 어떤 한약이 도움이 되나요?**
 
-보신활혈(補腎活血) 처방은 전립선비대증 치료에 있어 대조 약물과 유사한 효능을 보이며[^33], 중성약을 기존 서양의학적 치료와 병용하면 증상 개선에 효과적입니다[^11]. 야간뇨가 심하면 시령탕·팔미지황환을[^12][^13], 수술 후에는 제령탕을 보조적으로 활용할 수 있습니다[^14]. 다만 개별 처방은 반드시 한의사의 변증에 따라 적용해야 합니다.
+보신활혈(補腎活血) 처방은 전립선비대증 치료에 있어 대조 약물과 유사한 효능을 보이며[^33], 중성약을 기존 서양의학적 치료와 병용하면 증상 개선에 효과적입니다[^11]. 야간뇨가 심하면 시령탕·팔미지황환을[^12][^13], 수술 후에는 저령탕을 보조적으로 활용할 수 있습니다[^14]. 다만 개별 처방은 반드시 한의사의 변증에 따라 적용해야 합니다.
 
 **Q4. 전립선비대증에 식물성 보충제를 써도 되나요?**
 
@@ -619,7 +619,7 @@ KCD-8: N40 (전립선 비대증).
 
 **Q5. 전립선비대증 수술 후 한의 치료를 받아도 되나요?**
 
-네. 열민구(熱敏灸)는 경요도 전립선 절제술(TURP) 후 일시적 요실금 빈도를 낮추는 데 도움을 줄 수 있으며[^15], 제령탕은 수술 후 배뇨 기능 회복을 위한 보조적 한약으로 연구되고 있습니다[^14]. 초음파 유도 하에 차료(BL32)·중료(BL33) 전침은 요저류 환자의 배뇨 기능 회복에 더 우수한 효과를 보입니다[^16]. 이침·골반저 운동 병행도 요실금 관리에 도움을 줍니다[^47].
+네. 열민구(熱敏灸)는 경요도 전립선 절제술(TURP) 후 일시적 요실금 빈도를 낮추는 데 도움을 줄 수 있으며[^15], 저령탕은 수술 후 배뇨 기능 회복을 위한 보조적 한약으로 연구되고 있습니다[^14]. 초음파 유도 하에 차료(BL32)·중료(BL33) 전침은 요저류 환자의 배뇨 기능 회복에 더 우수한 효과를 보입니다[^16]. 이침·골반저 운동 병행도 요실금 관리에 도움을 줍니다[^47].
 
 **Q6. 전립선비대증과 전립선암은 같은 병인가요?**
 
@@ -627,7 +627,7 @@ KCD-8: N40 (전립선 비대증).
 
 **Q7. 급성 요폐(소변이 갑자기 안 나오는 상황)에 한의 치료를 쓸 수 있나요?**
 
-급성 요폐는 먼저 카테터 삽입 등 양방 응급 처치가 우선입니다. 이후 보조적으로 중료(BL33)·차료(BL32) 전침, 곡구(CV2) 심층 자침, 중극(CV3)·관원(CV4) 전침 등으로 배뇨 회복을 도모할 수 있습니다[^16][^18][^35]. 급성 요폐는 전립선암·요도협착 등 기질질환의 첫 증상일 수 있으므로, 반드시 비뇨의학과 진료를 선행해야 합니다.
+급성 요폐는 먼저 카테터 삽입 등 양방 응급 처치가 우선입니다. 이후 보조적으로 중료(BL33)·차료(BL32) 전침, 곡골(CV2) 심층 자침, 중극(CV3)·관원(CV4) 전침 등으로 배뇨 회복을 도모할 수 있습니다[^16][^18][^35]. 급성 요폐는 전립선암·요도협착 등 기질질환의 첫 증상일 수 있으므로, 반드시 비뇨의학과 진료를 선행해야 합니다.
 
 **Q8. 전립선비대증 한약을 오래 복용해도 안전한가요?**
 
@@ -646,11 +646,11 @@ KCD-8: N40 (전립선 비대증).
 [^11]: Efficacy and safety of oral Chinese patent medicine for benign prostatic hyperplasia: a network meta-analysis of randomized controlled trials. _Front Med_. 2024. [메타분석] [DOI 10.3389/fmed.2024.1483864](https://doi.org/10.3389/fmed.2024.1483864) — 중성약 병용이 증상 개선에 효과적, 처방별 지표 우수성 상이. 한약 병행 요법 대표 근거.
 [^12]: [Kampo preparations for prostatic hyperplasia: usefulness of Saireito for nocturia]. _Nippon Hinyokika Gakkai Zasshi_. 2003. [임상시험] [PMID 12166233](https://pubmed.ncbi.nlm.nih.gov/12166233/) — 시령탕이 야간뇨 횟수 유의 감소, 삶의 질 개선. 야간뇨 우세형 핵심 근거.
 [^13]: [Two-week administration of low-dose Hachimi-jio-gan (Ba-Wei Di-Huang-Wan) for patients with benign prostatic hyperplasia]. _Nippon Hinyokika Gakkai Zasshi_. 2004. [임상시험] [PMID 14598687](https://pubmed.ncbi.nlm.nih.gov/14598687/) — 팔미지황환이 배뇨 증상·삶의 질 개선, Qmax 개선 우수, 잔뇨감 심한 환자 반응 양호.
-[^14]: The Efficacy and Safety of Jeoryeong-tang (Zhu Ling Tang) for Postoperative Benign Prostatic Hyperplasia Patients: A Protocol for a Systematic Review and Meta-analysis. _J Int Korean Med_. 2025-12-30. [기타] [DOI 10.22246/jikm.2025.46.6.1572](https://doi.org/10.22246/jikm.2025.46.6.1572) — 제령탕의 수술 후 유효성·안전성 평가 프로토콜. 수술후 한약 보조 근거.
+[^14]: The Efficacy and Safety of Jeoryeong-tang (Zhu Ling Tang) for Postoperative Benign Prostatic Hyperplasia Patients: A Protocol for a Systematic Review and Meta-analysis. _J Int Korean Med_. 2025-12-30. [기타] [DOI 10.22246/jikm.2025.46.6.1572](https://doi.org/10.22246/jikm.2025.46.6.1572) — 저령탕의 수술 후 유효성·안전성 평가 프로토콜. 수술후 한약 보조 근거.
 [^15]: A Systematic Review of effect on Heat-sensitive Moxibustion for Benign Prostatic Hyperplasia. _J Korean Med_. 2021. [체계적 고찰] [DOI 10.13048/jkm.21031](https://doi.org/10.13048/jkm.21031) — 열민구가 IPSS·Qmax·삶의 질 개선, TURP 후 요실금 감소. 뜸 요법 대표 근거.
 [^16]: Localization of Ciliao (BL32)/Zhongliao (BL33) under ultrasound positioning and the correlation between the localization accuracy and therapeutic effect of electroacupuncture on urinary retention after spinal cord injury. 2024. [임상시험] [PMID 41116990](https://pubmed.ncbi.nlm.nih.gov/41116990/) — 초음파 유도 차료·중료 전침이 요저류 개선에 우수. 정밀 취혈 근거.
 [^17]: Acupuncture for benign prostatic hyperplasia in the elderly: A systematic review of acupoints. _Medicine_. 2024. [체계적 고찰] [DOI 10.1097/md.0000000000043802](https://doi.org/10.1097/md.0000000000043802) — 관원·중극·삼음교·신수 빈용, 혈위 조합 상관관계 확인. 고령자 침구 혈위 빈도 근거.
-[^18]: Efficacy and Safety of Deep Acupuncture at Qugu Point (CV2) for Benign Prostatic Hyperplasia: Study Protocol for a Randomized Controlled Trial. 2021. [임상시험] [DOI 10.21203/rs.3.rs-818097/v1](https://doi.org/10.21203/rs.3.rs-818097/v1) — 곡구혈 심층 침의 유효성·안전성 RCT 프로토콜. 전립선 피막 도달 자침 근거.
+[^18]: Efficacy and Safety of Deep Acupuncture at Qugu Point (CV2) for Benign Prostatic Hyperplasia: Study Protocol for a Randomized Controlled Trial. 2021. [임상시험] [DOI 10.21203/rs.3.rs-818097/v1](https://doi.org/10.21203/rs.3.rs-818097/v1) — 곡골혈 심층 침의 유효성·안전성 RCT 프로토콜. 전립선 피막 도달 자침 근거.
 [^19]: Acupuncture for benign prostatic hyperplasia: a systematic review protocol. _BMJ Open_. 2014. [체계적 고찰] [DOI 10.1136/bmjopen-2014-007009](https://doi.org/10.1136/bmjopen-2014-007009) — 전립선비대증 침 치료 체계적 고찰 프로토콜.
 [^20]: Clinical guidelines for male lower urinary tract symptoms and benign prostatic hyperplasia. _Int J Urol_. 2017-10. [임상진료지침] [DOI 10.1111/iju.13401](https://doi.org/10.1111/iju.13401) [PMID 28748576](https://pubmed.ncbi.nlm.nih.gov/28748576/) — 일본 비뇨의학과 LUTS/BPH 임상진료지침.
 [^21]: Use of the International Prostate Symptom Score (IPSS) in Chinese male patients with benign prostatic hyperplasia. _Aging Male_. 2017-12. [관찰연구] [DOI 10.1080/13685538.2017.1362380](https://doi.org/10.1080/13685538.2017.1362380) [PMID 28787255](https://pubmed.ncbi.nlm.nih.gov/28787255/) — IPSS 한어판 검증·임상 적용.
@@ -671,7 +671,7 @@ KCD-8: N40 (전립선 비대증).
 [^36]: Efficacy of electroacupuncture at Zhongliao point (BL33) for mild and moderate benign prostatic hyperplasia: a randomized controlled trial. _Trials_. 2011. [임상시험] [DOI 10.1186/1745-6215-12-211](https://doi.org/10.1186/1745-6215-12-211) [PMID 21943105](https://pubmed.ncbi.nlm.nih.gov/21943105/) — 중료(BL33) 전침 100례 RCT. 경도·중등도 BPH 효과.
 [^37]: Effect of fire needle therapy on mild-moderate benign prostatic hyperplasia. _Medicine_. 2020. [임상시험] [DOI 10.1097/md.0000000000020376](https://doi.org/10.1097/md.0000000000020376) — 화침 요법 60례 RCT. 대조군 대비 유의 증상 개선.
 [^38]: Observation on therapeutic effects of elongated needle therapy on dysuria induced by benign prostatic hyperplasia. 2008. [임상시험] [PMID 18972723](https://pubmed.ncbi.nlm.nih.gov/18972723/) — 장침 요법 150례. 배뇨곤란 개선.
-[^39]: Clinical Trials of Triple-puncture Stimulation of Zhibian (BL 54), ctc. plus Moxibustion for Benign Prostatic Hyperplasia. 2015. [임상시험] [PMID 26887214](https://pubmed.ncbi.nlm.nih.gov/26887214/) — 지변(BL54) 3침+뜸 병용 200례.
+[^39]: Clinical Trials of Triple-puncture Stimulation of Zhibian (BL 54), ctc. plus Moxibustion for Benign Prostatic Hyperplasia. 2015. [임상시험] [PMID 26887214](https://pubmed.ncbi.nlm.nih.gov/26887214/) — 질변(BL54) 3침+뜸 병용 200례.
 [^40]: Impacts of electroacupuncture on benign prostatic hyperplasia and the levels of estrogen and androgen. _Zhongguo Zhen Jiu_. 2017. [임상시험] [DOI 10.13703/j.0255-2930.2017.06.007](https://doi.org/10.13703/j.0255-2930.2017.06.007) [PMID 29231500](https://pubmed.ncbi.nlm.nih.gov/29231500/) — 전침이 에스트로겐·안드로겐 수준 조절·증상 개선 60례.
 [^41]: Effect of electroacupuncture at "Sanyin" acupoints on cellular immune function in patients with benign prostatic hyperplasia. 2014. [실험연구] [PMID 24006663](https://pubmed.ncbi.nlm.nih.gov/24006663/) — 삼음 혈위 전침이 세포 면역 기능 조절 (인간 데이터 한정).
 [^42]: Decreasing effect of electro-acupuncture at Sanyin points on inflammatory cytokines in patients with benign prostatic hyperplasia. 2014. [실험연구] [PMID 23757971](https://pubmed.ncbi.nlm.nih.gov/23757971/) — 삼음 혈위 전침이 염증 사이토카인 감소 (인간 데이터 한정).
