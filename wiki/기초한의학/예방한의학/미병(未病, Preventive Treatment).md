@@ -677,7 +677,7 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 
 전당뇨는 비위(脾胃) 운화 실조·습열(濕熱)·음허(陰虛)·기허(氣虛) 복합 병기다. 과식·운동부족이 비위에 습열을 축적하고, 음허가 조열(燥熱)을 겸하여 진액(津液)을 손상한다. [교과서적 근거]
 
-중의학의 "치미병(治未病)" 사상에 기반한 전당뇨 예방·치료 전략에 대한 문헌고찰이 보고되었다[^5][^27]. 당뇨병·전당뇨 환자의 변증 객관화를 위한 디지털 진단 도구 프로토콜 연구도 진행 중이다[^79][^80].
+한의학의 "치미병(治未病)" 사상에 기반한 전당뇨 예방·치료 전략에 대한 문헌고찰이 보고되었다[^5][^27]. 당뇨병·전당뇨 환자의 변증 객관화를 위한 디지털 진단 도구 프로토콜 연구도 진행 중이다[^79][^80].
 
 #### ③ 병태생리
 
@@ -694,7 +694,7 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 | 기음양허 | 생맥산(生脈散) 합 육미지황환 | 피로·구건·자한·맥허세삭 |
 | 습담어혈 | 이진탕 합 도홍사물탕 | 체중증가·설자암·어점 |
 
-> 중약(中藥)의 준건강상태 치료 효과·안전성 메타분석(9,296명)에서 한약이 전체 유효율·수면 질·피로도·건강 지표 개선에 유의하게 우수하였다[^74].
+> 한약(中藥)의 준건강상태 치료 효과·안전성 메타분석(9,296명)에서 한약이 전체 유효율·수면 질·피로도·건강 지표 개선에 유의하게 우수하였다[^74].
 
 **침구**: 족삼리(ST36)·삼음교(SP6)·비유(BL20)·위유(BL21)·신수(BL23)·태계(KI3). 비위 보법·신정 보양 병용.
 
@@ -1115,9 +1115,9 @@ Mars 500 프로젝트 자원자 6명의 맥파 분석에서 장기 격리 환경
 
 [^18]: Analysis on the features of preventive treatment with acupuncture and moxibustion. _Journal of traditional Chinese medicine_. 2008-12. [문헌 고찰] [DOI 10.1016/s0254-6272(09)60012-1](https://doi.org/10.1016/s0254-6272(09)60012-1) [PMID 19226900](https://pubmed.ncbi.nlm.nih.gov/19226900/) — 침구 예방 치료의 특징 분석. 『내경』 미병 사상의 예방 의학 체계.
 
-[^22]: A doctor of the highest caliber treats an illness before it happens. _Medical anthropology_. 2009. [문헌 고찰] [DOI 10.1080/01459740902851570](https://doi.org/10.1080/01459740902851570) [PMID 19404882](https://pubmed.ncbi.nlm.nih.gov/19404882/) — 치미병(治未病) 사상의 역사·사회문화적 의미. 중의학 예방 의학의 발전과 재발명.
+[^22]: A doctor of the highest caliber treats an illness before it happens. _Medical anthropology_. 2009. [문헌 고찰] [DOI 10.1080/01459740902851570](https://doi.org/10.1080/01459740902851570) [PMID 19404882](https://pubmed.ncbi.nlm.nih.gov/19404882/) — 치미병(治未病) 사상의 역사·사회문화적 의미. 한의학 예방 의학의 발전과 재발명.
 
-[^27]: Exploring the Research Progress of Traditional Chinese Medicine Therapy on Prediabetes based on "Preventive Treatment of Disease". _Journal of Contemporary Medical Practice_. 2025-07-31. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(07).27](https://doi.org/10.53469/jcmp.2025.07(07).27) — 치미병 사상에 기반한 전당뇨 예방·치료 전략. 한약 탕제·중성약·약선 식료법 효과.
+[^27]: Exploring the Research Progress of Traditional Chinese Medicine Therapy on Prediabetes based on "Preventive Treatment of Disease". _Journal of Contemporary Medical Practice_. 2025-07-31. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(07).27](https://doi.org/10.53469/jcmp.2025.07(07).27) — 치미병 사상에 기반한 전당뇨 예방·치료 전략. 한약 탕제·한약환·약선 식료법 효과.
 
 [^28]: Proof of the mysterious efficacy of ginseng: basic and clinical trials: clinical effects of medical ginseng, korean red ginseng: specifically, its anti-stress action for prevention of disease. _Journal of pharmacological sciences_. 2004-06. [문헌 고찰] [DOI 10.1254/jphs.fmj04001x5](https://doi.org/10.1254/jphs.fmj04001x5) [PMID 15215639](https://pubmed.ncbi.nlm.nih.gov/15215639/) — 인삼·홍삼의 항스트레스·질병 예방 효과. 항상성 유지·면역 증진을 통한 질병 예방.
 
