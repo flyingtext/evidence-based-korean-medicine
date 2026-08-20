@@ -1,127 +1,502 @@
 # 갈근 (葛根, Puerariae Radix)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-20 · 검색어: 갈근, Pueraria lobata, Puerariae Radix, puerarin, kakkonto
 
-## 개요
+## 제1편 본초 총론
 
-갈근(葛根)은 콩과(Fabaceae)에 속하는 칡(Pueraria lobata, Pueraria thomsonii)의 뿌리로, 해기(解肌)·퇴열(退熱)·승양(升陽)·생진지갈(生津止渴)·투진(透疹)·승양지사(升陽止瀉)의 효능을 가진 대표약이다. 한의과대학 본초학에서 갈근은 해표약(解表藥) 중 신온해표(辛溫解表)에 분류되며, 외감표증(外感表證)의 항강(項强)·두통·발열과 소갈(消渴)·설사 등에 폭넓게 활용된다. 갈근의 유효 성분인 푸에라린(puerarin)·다이드제인(daidzein)·다이드진(daidzin)은 혈관 확장·항산화·인슐린 저항성 개선·알코올 대사 조절 등의 작용이 보고되며, 갈근탕(葛根湯)·갈근금련탕(葛根芩連湯)·승마갈근탕(升麻葛根湯) 등 다양한 처방으로 임상에 적용된다. 본 문서는 근거 기반 한의학 관점에서 갈근 및 갈근을 주약으로 하는 처방·유효 성분의 임상 근거를 정리한다.
+### 1. 표제어와 기원
 
-## 하위 표제어(분류)
+갈근(葛根)은 콩과(Fabaceae) 칡속 식물인 칡(Pueraria lobata)의 뿌리를 말린 약재다. 지역과 약전의 기원 규정에 따라 Pueraria thomsonii가 함께 언급되므로, 제품의 기원 식물과 표준화 지표를 확인해야 한다.[^35]
 
-갈근은 기원·제형·처방 구성에 따라 여러 하위 유형으로 세분된다.
+갈근은 해기퇴열(解肌退熱), 생진지갈(生津止渴), 투진(透疹), 승양지사(升陽止瀉), 통경활락(通經活絡)의 범주로 설명되는 본초다. 이는 고전적 약성 이론이며, 현대 임상 연구는 갈근 단미보다 갈근을 포함한 처방이나 푸에라린 제제를 평가한 경우가 많다.[^35]
 
-- **갈근(葛根, Puerariae Radix)**: 해기퇴열·승양·생진지갈·승양지사의 대표약으로, 감기·항강·두통·소갈·설사 등에 쓰인다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- **갈근탕(葛根湯, Kakkonto)**: 갈근·마황·계지·작약·생강·대조·감초로 구성된 처방으로, 감기·두통·항강·비염·COVID-19 증상 완화에 쓰이는 근거가 있다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- **갈근금련탕(葛根芩連湯, Gegen Qinlian Decoction)**: 갈근·황금·황련·감초로 구성된 처방으로, 제2형 당뇨병·인슐린 저항성·궤양성 대장염·감염성 설사에 쓰이는 근거가 있다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- **마황탕(麻黃湯, Mao-to)**: 갈근을 포함한 처방으로, 인플루엔자·발열·호흡기 감염에 쓰이는 근거가 있다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- **갈근 유효 성분**: 푸에라린(puerarin)·다이드제인(daidzein)·다이드진(daidzin) 등이 혈관 확장·항산화·인슐린 저항성 개선·알코올 대사 조절 작용의 주성분으로 보고된다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
+### 2. 성미·귀경과 임상적 의미
 
-## 약리·유효 성분
+| 항목 | 본초학적 정리 | 임상적으로 확인할 점 |
+| --- | --- | --- |
+| 성미 | 감신(甘辛), 양성으로 설명 | 발열·항강·갈증과 한열 및 허실을 함께 확인한다 |
+| 귀경 | 비·위 경으로 설명 | 설사·갈증·식욕 저하의 동반 여부를 확인한다 |
+| 주요 작용 | 해기, 생진, 승양, 투진, 활락 | 단미의 효능을 특정 질환의 치료 효과로 확대하지 않는다 |
+| 대표 배오 | 마황·계지·작약·황금·황련 등 | 처방 전체의 변증과 약물 상호작용을 평가한다 |
 
-- 갈근의 대표 유효 성분인 푸에라린(puerarin)은 혈관 확장·항산화·항염 작용을 나타내며, 뇌혈관·심혈관 질환에 대한 임상 근거가 축적되어 있다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- 다이드제인(daidzein)·다이드진(daidzin)은 에스트로겐 유사 작용과 알코올 대사 조절 작용이 보고되며, 갱년기 증상·알코올 의존에 대한 근거가 있다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- 갈근은 장내 미생물총(gut microbiota)을 조절하여 제2형 당뇨병의 혈당 조절에 기여하는 기전이 보고된다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
+이 표는 임상 틀이지 동일한 근거 수준의 권고가 아니다. 갈근탕(葛根湯)과 갈근금련탕(葛根芩連湯)의 임상 근거를 갈근 단미의 효과로 그대로 환산해서는 안 된다.
 
-## 임상 근거
+### 3. 약재의 형태와 품질
 
-### 심혈관·뇌혈관 질환
+약재는 절편 또는 분말로 유통되며, 색·냄새·절단면·수분·이물과 표시된 기원 식물을 확인한다. 추출물은 푸에라린 함량만으로 전체 약재의 임상적 동등성을 판단하기 어렵다.[^35]
 
-- 푸에라린 주사제는 급성 허혈성 뇌졸중 환자의 신경 기능 회복에 유의한 효과를 보이는 체계적 고찰 근거가 있다.[^1]
-- 푸에라린 주사제는 불안정 협심증 환자의 증상 완화에 유의한 효과를 보이는 체계적 고찰 근거가 있다.[^2]
-- 단삼·갈근 배합 제제는 관상동맥 질환 환자의 혈관 기능·구조 개선에 보조적으로 활용될 수 있다.[^3]
-- 갈근을 포함한 한약 제제는 허혈성 뇌졸중 치료에 대한 메타분석 근거가 있다.[^4]
+갈근화(葛根花)는 갈근과 다른 약용 부위이며, 알코올 관련 연구에서 갈근화 또는 칡꽃 추출물이 사용된 경우 갈근 뿌리 연구와 구분한다.[^36][^37]
 
-### 대사·당뇨병
+## 제2편 성분·약동학·병태생리
 
-- 갈근금련탕은 제2형 당뇨병 환자의 혈당·인슐린 저항성 개선에 유의한 효과를 보이는 메타분석 근거가 있다.[^5][^6][^7]
-- 갈근금련탕은 메트포르민과 병용 시 제2형 당뇨병 환자의 혈당 조절에 추가적인 개선 효과를 보인다.[^8]
-- 갈근금련탕은 습열(濕熱) 변증의 제2형 당뇨병 환자에게 단기 집중 인슐린 치료와 병용 시 혈당 조절에 유의한 효과를 보인다.[^9]
-- 갈근금련탕은 장내 미생물총 조절을 통해 제2형 당뇨병의 혈당 조절에 기여한다.[^10]
-- 갈근황련황금탕(葛根黃連黃芩湯)은 합병증이 없는 제2형 당뇨병 환자의 혈당 개선에 대한 메타분석 근거가 있다.[^11]
+### 4. 주요 성분
 
-### 소화기 질환
+갈근에는 이소플라본 계열의 푸에라린(puerarin), 다이드진(daidzin), 다이드제인(daidzein), 포르모노네틴(formononetin) 등이 보고된다. 이 성분들은 식물종, 재배 환경, 추출 방법과 제형에 따라 함량이 달라진다.[^35]
 
-- 갈근금련탕은 궤양성 대장염 환자의 관해 유도·증상 개선에 유의한 효과를 보이는 체계적 고찰·메타분석 근거가 있다.[^12][^13]
-- 갈근금련탕은 감염성 설사 환자에게 서양의학 치료와 병용 시 증상 완화에 유의한 효과를 보이는 체계적 고찰 근거가 있다.[^14]
-- 갈근금련탕은 급성 위장염 환자의 염증 지표(PCT·CRP·IL-6) 개선에 유의한 효과를 보인다.[^15]
+푸에라린은 인체 혈장 분석법과 약동학 연구에서 정량되었고, 갈근 추출물의 경구 투여 뒤 푸에라린과 다이드제인 대사체를 추적할 수 있음이 확인되었다.[^38] 기능성 소화불량 환자는 건강인과 비교해 일부 약동학 지표가 낮게 나타나 질환 상태가 흡수에 영향을 줄 가능성이 제시되었다.[^39]
 
-### 감염·호흡기 질환
+### 5. 혈관·대사 관련 기전
 
-- 마황탕은 소아 A형 인플루엔자 감염 환자의 해열에 유의한 효과를 보인다.[^16]
-- 마황탕은 노인 계절성 인플루엔자 환자의 입원 위험 감소와 관련이 있다.[^17][^18]
-- 갈근탕과 소시호가길경석고탕 병용은 경증·중등도 COVID-19 환자의 증상 완화·중증화 방지에 유의한 효과를 보인다.[^19][^20]
-- 갈근탕은 의료진의 COVID-19 감염 예방에 보조적으로 활용될 수 있다.[^21][^22]
-- 갈근탕가천궁신이(葛根湯加川芎辛夷)는 감기 비충혈 환자의 비강 증상 완화에 대한 임상시험 근거가 있다.[^23]
-- 갈근탕가천궁신이는 COVID-19 관련 후각 장애 개선에 대한 증례 근거가 있다.[^24]
+갈근 및 푸에라린 관련 연구에서는 혈관내피 기능, 혈액 유변학, 산화 스트레스, 인슐린 저항성, 염증 신호가 주요 평가 축으로 사용되었다.[^35][^40] 단삼·갈근 복합 제제 임상시험에서는 고위험 고혈압 및 관상동맥 환자의 혈관내피 기능과 경동맥 내중막 두께가 평가되었다.[^40][^41]
 
-### 갱년기·알코올·기타
+이 연구들은 갈근이 포함된 제제의 생체 지표 변화를 보여주지만, 혈압약·항혈소판제·지질저하제를 대체한다는 의미는 아니다. 심혈관 질환 환자는 표준 치료를 유지하면서 한약 병용 여부를 의료진과 조정해야 한다.
 
-- 갈근 추출물은 갱년기 여성의 호르몬 대체 요법과 비교하여 갱년기 증상 개선에 유의한 효과를 보인다.[^25]
-- 갈근 뿌리 추출물은 과음자(heavy drinkers)의 알코올 섭취량 감소에 유의한 효과를 보인다.[^26]
-- 갈근은 알코올 의존·약물 중독 치료에 대한 체계적 고찰·문헌고찰 근거가 있다.[^27][^28]
-- 푸에라린은 전립선암 수술 환자의 수술 후 회복 개선에 유의한 효과를 보인다.[^29]
-- 갈근은 당뇨병성 망막병증 환자의 증상 개선에 대한 임상시험 근거가 있다.[^30]
+### 6. 신경·간·생식 관련 기전의 해석
 
-## 처방 연관
+푸에라린 주사는 당뇨병성 말초신경병증, 허혈성 뇌졸중, 당뇨망막병증 등에서 신경전도·혈액 유변학·신경학적 점수의 변화를 평가받았다.[^42][^43][^44] 그러나 뇌졸중에 대한 코크란 고찰은 사망률과 의존도 개선 근거가 불충분하거나 낮은 질이라고 판단했다.[^1][^45]
 
-- 약재/처방: 갈근은 [마황(麻黃, Ephedra)](마황(麻黃, Ephedra).md)·[계지(桂枝, Cinnamomi Cortex)](계지(桂枝, Cinnamomi Cortex).md)·[작약(芍藥, Paeonia)](작약(芍藥, Paeonia).md)·[생강(生薑, Zingiber officinale)](생강(生薑, Zingiber officinale).md)·[대조(大棗, Jujube)](대조(大棗, Jujube).md)·[감초(甘草, Glycyrrhiza)](감초(甘草, Glycyrrhiza).md)·[황금(黃芩, Scutellariae Radix)](황금(黃芩, Scutellariae Radix).md)·[황련(黃連, Coptidis Rhizoma)](황련(黃連, Coptidis Rhizoma).md) 등과 배합되어 [갈근탕(葛根湯)](../방제학/갈근탕(葛根湯).md)·갈근금련탕(葛根芩連湯)·마황탕(麻黃湯) 등 해표·청열 처방에 쓰인다.[^1][^2][^3][^4][^5][^6][^7][^8][^9][^10][^11][^12][^13][^14][^15][^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29][^30]
-- 경혈: 갈근을 포함한 해표·승양 치료와 경혈·약침 요법을 병행하는 근거가 있으며, 항강·두통의 변증에 활용될 수 있다.
+갈근과 푸에라린의 간 보호 및 대사성 간질환 관련 가능성은 주로 종합고찰과 전임상 자료에 의존한다.[^46] 칡즙 섭취 뒤 독성 간염 증례가 보고된 사실은 천연물이라는 이유만으로 간 안전성을 단정할 수 없음을 보여준다.[^31]
 
-## 안전성·주의사항
+갈근의 이소플라본은 내분비 관련 작용 가능성이 있으므로 임신·수유, 호르몬 민감성 질환, 호르몬 치료 중인 환자는 성분과 용량을 별도로 검토한다. 갈근 자체와 Pueraria mirifica는 식물종과 성분 조성이 다르므로 임상 연구를 상호 대체하지 않는다.[^47]
 
-- 갈근은 대체로 안전하나, 칡즙(arrowroot juice) 과다 섭취 시 독성 간염이 발생한 증례가 보고된다.[^31]
-- 갈근탕 복용 시 고정약진(fixed drug eruption)이 발생한 증례가 보고된다.[^32]
-- 갈근·단삼 배합 제제는 와파린·아스피린과 병용 시 출혈 위험에 대한 주의가 필요하다.[^33]
-- 갈근탕은 아세트아미노펜과의 약물 상호작용에 대한 임상 평가 근거가 있다.[^34]
+## 제3편 변증·치법·방약
+
+### 7. 갈근을 고려하는 변증 틀
+
+| 변증 | 관찰 소견 | 갈근의 위치 | 우선 감별 |
+| --- | --- | --- | --- |
+| 태양표허 겸 항강 | 오한, 발열, 무한 또는 자한, 경항부 강직 | 갈근탕의 주약 축 | 순수한 허한, 세균 감염 |
+| 표열·진액 손상 | 발열, 갈증, 구건, 땀과 체액 소모 | 생진과 해기의 보조 | 고혈당, 탈수, 중증 감염 |
+| 습열 하리 | 설사, 복통, 구갈, 이급후중 또는 열상 | 갈근금련탕의 해표·승청 축 | 염증성 장질환, 침습성 감염 |
+| 비허설사 | 만성 설사, 식욕 저하, 권태 | 승양지사의 보조 | 체중 감소, 흡수장애 |
+| 기체혈어 겸 경항통 | 경부·견배부 통증, 동작 제한 | 단미보다 배오·처방 검토 | 경추 신경근병증, 혈관 질환 |
+
+이 표는 임상 틀이지 동일한 근거 수준의 권고가 아니다. 변증 없는 관행적 단미 복용이나 관행적 처방은 근거에 부합하지 않으며, 증상·맥진·설진·기저질환·복용약을 함께 평가한다.
+
+### 8. 처방별 역할
+
+갈근탕은 갈근·마황·계지·작약·생강·대조·감초로 구성되는 대표 처방이다. 감기 초기의 항강·견배부 긴장에 대한 사용 경험이 있으나, 무작위시험에서는 종합감기약보다 감기 악화를 억제하는 우월성이 확인되지 않았다.[^48]
+
+갈근탕은 어깨 결림이 뚜렷한 환자에서 주관적 유익감이 높았다는 관찰 자료가 있지만, 두통·콧물·기침에서는 일반 감기약이 더 유익할 수 있었다.[^49] 따라서 갈근탕을 모든 감기 환자에게 일률적으로 적용하지 않는다.
+
+갈근금련탕은 갈근·황금·황련·감초를 중심으로 습열성 설사와 소갈을 다루는 처방이다. 제2형 당뇨병에 대한 메타분석에서 혈당과 인슐린 저항성 개선 신호가 있었으나, 연구의 질과 이질성을 고려해야 한다.[^5][^6][^50]
+
+마황탕(麻黃湯)은 갈근이 포함될 수 있으나 갈근 단미의 대표 처방으로 단순화해서는 안 된다. 인플루엔자 소아 임상시험과 계절성 인플루엔자 관찰연구는 마황탕 전체의 근거다.[^16][^17][^18]
+
+### 9. 배오와 가감의 원칙
+
+| 임상 목표 | 배오 방향 | 주의 |
+| --- | --- | --- |
+| 항강·무한 | 마황·계지와 해표 | 빈맥·고혈압·불면을 확인한다 |
+| 항강·자한 | 작약과 영위 조화 | 표허가 아닌 환자의 장기 사용을 피한다 |
+| 설사·습열 | 황금·황련과 청열 | 탈수·혈변·고열은 즉시 의학적 평가가 우선이다 |
+| 갈증·진액 손상 | 생진 약물과 병용 | 당뇨 환자는 혈당과 수분 상태를 추적한다 |
+| 만성 경항통 | 활혈·통락 약물과 변증 배오 | 신경학적 결손과 혈관성 두통을 배제한다 |
+
+이 표는 처방 구성의 임상 틀이지 동일한 근거 수준의 권고가 아니다. 변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다.
+
+## 제4편 질환군별 임상 각론
+
+### 10. 감기·인플루엔자·급성 호흡기 증상
+
+#### 10-1. 질환 분류
+
+KCD-8에서는 감기와 인플루엔자를 원인과 임상 진단에 따라 분류한다. 갈근탕 연구는 주로 감기 증상 또는 인플루엔자 환자를 대상으로 했으며, 갈근 단미의 KCD 질환 치료 효과를 직접 검증한 연구는 아니다.
+
+#### 10-2. 병인병기
+
+오한·발열과 경항부 긴장이 함께 나타나는 표증에서는 갈근탕의 해표·완급 축을 검토한다. 소아 A형 인플루엔자 시험에서 마황탕의 해열 효과가 평가되었고, 고령자 관찰연구에서는 항바이러스제와의 병용 양상이 입원과 관련해 조사되었다.[^16][^17][^18]
+
+#### 10-3. 병태생리
+
+발열과 호흡기 증상은 바이러스 감염, 탈수, 세균성 합병증 등 여러 원인으로 발생한다. COVID-19 임상시험에서는 갈근탕과 소시호가길경석고탕 병용이 발열 회복과 산소 치료 진행에 미친 영향이 조사되었으나, 모든 증상 소실 기간에서 일관된 우월성이 확인된 것은 아니다.[^19][^20]
+
+#### 10-4. 치료
+
+감기 초기라도 호흡곤란, 의식 변화, 지속 고열, 흉통, 청색증, 탈수가 있으면 감별과 표준 치료를 우선한다. 갈근탕은 항강과 견배부 긴장이 동반된 표증에서 변증 후 보조적으로 검토한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.[^48][^49]
+
+#### 10-5. 예후
+
+대부분의 경증 감기는 자연 호전되지만, 고령·소아·임신·면역저하·심폐질환 환자는 중증화 위험이 다르다. 갈근탕이 일반 감기약보다 감기 악화를 막는 우월성을 보이지 않은 시험 결과를 설명해야 한다.[^48]
+
+#### 10-6. 관리
+
+| 추적 항목 | 시점 | 중단·의뢰 기준 |
+| --- | --- | --- |
+| 체온·맥박·호흡수 | 매일 또는 증상 악화 시 | 지속 고열, 빈맥, 호흡곤란 |
+| 수분 섭취·소변량 | 매일 | 탈수, 소변량 감소 |
+| 항강·두통 VAS | 시작·3일·종료 | 신경학적 증상, 급격한 악화 |
+| 복약 이상반응 | 매회 | 발진, 심계항진, 불면, 구토 |
+
+### 11. 설사·급성 위장염·염증성 장질환
+
+#### 11-1. 질환 분류
+
+감염성 설사, 급성 위장염, 궤양성 대장염은 병인과 경과가 다르다. 갈근금련탕 연구 결과를 모든 설사에 적용하지 말고, 혈변·고열·심한 복통·탈수·고령·소아 여부를 먼저 평가한다.
+
+#### 11-2. 병인병기
+
+습열성 설사에서는 갈근의 승청·생진 축과 황금·황련의 청열축을 함께 설명할 수 있다. 감염성 설사에 대한 체계적 고찰은 갈근금련탕과 통상 치료 병용의 증상 및 염증 지표 개선 가능성을 보고했으나, 연구의 질과 이질성이 제한점이다.[^14]
+
+#### 11-3. 병태생리
+
+급성 위장염 임상시험에서는 갈근금련탕과 한약 온포 병용 뒤 PCT, CRP, IL-6 변화가 평가되었다.[^15] 궤양성 대장염에서는 관해와 증상 개선이 보고되었지만, 내시경·조직학적 평가와 장기 재발 자료를 따로 확인해야 한다.[^12][^13]
+
+#### 11-4. 치료
+
+경증이고 탈수가 없는 환자에서만 표준 수분·전해질 보충을 바탕으로 변증 기반 처방을 고려한다. 갈근금련탕을 항생제·수액·면역조절 치료의 대체제로 설명하지 않는다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.[^14][^50]
+
+#### 11-5. 예후
+
+급성 설사는 대개 호전되지만, 혈변·고열·신기능 저하·지속 설사에서는 감염성 장염과 염증성 장질환을 재평가한다. 궤양성 대장염의 관해 유지와 재발 예방은 단기 증상 개선과 다른 목표다.[^12][^13]
+
+#### 11-6. 관리
+
+| 추적 항목 | 의미 | 경고 소견 |
+| --- | --- | --- |
+| 배변 횟수·혈변 | 증상 경과 | 혈변 증가, 야간 설사 |
+| 체중·소변량 | 탈수·영양 | 급격한 체중 감소 |
+| CRP·전해질·크레아티닌 | 염증과 체액 | 저칼륨혈증, 신기능 악화 |
+| 부분 Mayo 또는 내시경 | 궤양성 대장염 | 관해 판정은 전문의 평가 |
+
+### 12. 당뇨병·대사질환
+
+#### 12-1. 질환 분류
+
+KCD-8의 제2형 당뇨병, 당뇨병성 신증·말초신경병증·망막병증은 각각 별도 평가가 필요하다. 갈근금련탕과 푸에라린 연구를 당뇨병 전체의 단일 치료 근거로 확대하지 않는다.
+
+#### 12-2. 병인병기
+
+갈근금련탕은 습열 변증의 혈당 이상을 대상으로 연구되었고, 메트포르민 병용 메타분석에서 추가적인 혈당 개선 신호가 보고되었다.[^8][^50] 이 결과는 변증과 표준 혈당강하 치료를 함께 고려하는 근거이지, 표준 치료 중단의 근거가 아니다.
+
+#### 12-3. 병태생리
+
+갈근금련탕 임상 연구에서는 공복혈당, 식후혈당, HbA1c, 인슐린 저항성이 주요 지표였다. 장내 미생물 구조 변화와 대사 개선을 함께 조사한 연구도 있으나, 미생물 변화가 임상 효과의 직접 원인이라고 단정하지 않는다.[^10]
+
+#### 12-4. 치료
+
+당뇨병 환자는 처방 전 HbA1c, 신장 기능, 저혈당 위험, 복용 중인 혈당강하제를 확인한다. 갈근금련탕 또는 푸에라린은 적절한 변증과 의료진 협진 아래 보조적으로 검토한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.[^5][^6][^8]
+
+#### 12-5. 예후
+
+단기 혈당 개선이 미세혈관·대혈관 합병증 예방을 보장하지 않는다. 푸에라린 주사의 당뇨병성 말초신경병증 연구는 신경전도 개선 신호를 보고했으나, 연구의 질이 낮아 장기 기능 예후는 신중히 해석한다.[^42]
+
+#### 12-6. 관리
+
+| 추적 항목 | 권장 시점 | 임상적 의미 |
+| --- | --- | --- |
+| 공복·식후 혈당 | 초기와 용량 변경 시 | 저혈당 및 반응 확인 |
+| HbA1c | 약 3개월 | 장기 혈당 조절 |
+| eGFR·요알부민 | 정기 추적 | 신증 위험 평가 |
+| 발 감각·신경전도 | 증상에 따라 | 말초신경병증 평가 |
+| 안저 검사 | 당뇨병 지침에 따라 | 망막병증 선별 |
+
+### 13. 심혈관·뇌혈관 질환
+
+#### 13-1. 질환 분류
+
+고혈압, 관상동맥질환, 협심증, 허혈성 뇌졸중은 응급도와 표준 치료가 서로 다르다. 푸에라린 주사·단삼갈근 제제 연구는 갈근 단미의 경구 복용 연구와 구별한다.
+
+#### 13-2. 병인병기
+
+한의학적으로 기체혈어와 경락불통의 틀을 사용할 수 있으나, 흉통·마비·언어장애·시야장애는 먼저 응급질환을 배제한다. 단삼·갈근 제제 임상시험에서 FMD와 IMT가 개선된 결과는 보조 치료 가능성을 시사한다.[^40][^41]
+
+#### 13-3. 병태생리
+
+푸에라린 연구는 혈관내피, 혈액 점도, 피브리노겐, 신경학적 결손을 평가했다.[^43][^44] 코크란 고찰은 허혈성 뇌졸중의 사망률·의존도 개선 근거가 불충분하다고 평가했으므로, 신경학적 회복과 장기 예후를 분리한다.[^1][^45]
+
+#### 13-4. 치료
+
+급성 흉통·뇌졸중 의심 시 응급 이송이 우선이다. 안정기 환자에서만 표준 항혈전·혈압·지질 치료와의 상호작용을 확인해 보조 요법을 검토한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.
+
+#### 13-5. 예후
+
+단삼·갈근 제제의 혈관 지표 개선은 임상 사건 감소와 동일하지 않다. 푸에라린 주사 연구의 총 유효율 표현은 연구별 평가 기준이 달라 절대적 심혈관 예방 효과로 해석하지 않는다.[^40][^43]
+
+#### 13-6. 관리
+
+| 지표 | 목적 |
+| --- | --- |
+| 혈압·맥박 | 혈압 조절과 부정맥 감시 |
+| LDL-C·HbA1c | 위험인자 관리 |
+| FMD·IMT | 혈관 기능·구조의 연구 지표 |
+| NIHSS·mRS·BI | 뇌졸중 신경학적·기능 예후 |
+| 출혈·멍·흑변 | 항혈전제 병용 안전성 |
+
+### 14. 경항통·긴장성 두통·근골격 증상
+
+#### 14-1. 질환 분류
+
+경항통은 근막통증, 긴장성 두통, 경추증, 신경근병증, 척추동맥 질환을 감별해야 한다. 갈근탕 연구는 긴장성 두통과 근골격계 통증 환자에서 증상 변화를 조사했지만, 모든 경추 질환에 대한 근거는 아니다.[^51]
+
+#### 14-2. 병인병기
+
+항강과 견배부 긴장이 표증과 함께 나타나는지, 만성 기혈어체와 근육 과긴장이 중심인지 구분한다. 자침·추나·운동치료가 필요할 수 있으며 갈근을 포함한 처방을 자동으로 선택하지 않는다.
+
+#### 14-3. 병태생리
+
+갈근탕의 긴장성 두통 관찰연구는 소수 환자에서 투여 후 NRS 변화를 평가했다.[^51] 갈근소 주사와 자침을 병용한 요추 추간판 탈출증 연구는 특정 혈어형 환자를 대상으로 한 연구이므로 일반화에 제한이 있다.[^52]
+
+#### 14-4. 치료
+
+신경학적 결손, 보행장애, 발열, 외상, 암 병력, 갑작스러운 극심한 두통이 없을 때 변증 기반 처방과 운동·자세 교정을 검토한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.
+
+#### 14-5. 예후
+
+급성 근긴장성 통증은 호전될 수 있으나 반복되는 자세·수면·스트레스 요인이 남으면 재발한다. 통증 완화와 구조적 질환의 경과를 분리해 설명한다.
+
+#### 14-6. 관리
+
+| 지표 | 평가 방법 |
+| --- | --- |
+| 통증 | NRS 또는 VAS |
+| 경부 기능 | Neck Disability Index |
+| 두통 | 두통 일지와 월간 일수 |
+| 신경학적 소견 | 근력·감각·반사 |
+| 활동 | 작업 자세와 운동 수행량 |
+
+## 제5편 안전성·임상 운영
+
+### 15. 이상반응과 상호작용
+
+| 위험 | 근거·대응 |
+| --- | --- |
+| 독성 간염 | 칡즙 섭취 후 2건이 보고되었다. 황달·구토·진한 소변이면 중단하고 간기능을 평가한다.[^31] |
+| 피부 약물반응 | 갈근탕 복용 후 고정약진이 보고되었다. 동일 병변이 반복되면 재투여하지 않는다.[^32] |
+| 항응고·항혈소판 상호작용 | 단삼·갈근 제제와 와파린·아스피린 병용에서 약동학·약력학 변화가 관찰되었다.[^33] |
+| 아세트아미노펜 상호작용 | 갈근탕 병용 시 아세트아미노펜 AUC가 증가한 소규모 연구가 있다.[^34] |
+| 푸에라린 주사 이상반응 | 면역·혈액계 중증 이상반응이 보고되어 주사제는 의료기관에서 감시한다.[^53] |
+| 마황 함유 처방 | 갈근탕의 마황 때문에 심계항진·불면·혈압 상승 가능성을 확인한다. |
+
+### 16. 임신·수유와 기질질환
+
+임신·수유 중에는 갈근 단미, 갈근탕, 갈근금련탕, 식품·보충제를 서로 같은 노출로 보지 말고 제품 성분과 용량을 확인한다. 마황 함유 처방, 호르몬 민감성 질환, 간·신장 질환, 부정맥, 조절되지 않는 고혈압은 처방 전 전문 평가가 필요하다.
+
+정신과적 알코올 사용장애에서 갈근 연구는 음주량 감소 가능성을 보였지만, 해독·금단 치료와 재발 예방의 표준 정신건강의학과 치료를 대체하지 않는다.[^26][^27][^28]
+
+### 17. 조섭표
+
+| 영역 | 실천 항목 |
+| --- | --- |
+| 수면 | 발열·통증과 별개로 일정한 취침·기상 시간을 유지한다 |
+| 수분 | 설사·발열 시 수분과 전해질을 보충하고 소변량을 확인한다 |
+| 활동 | 급성 발열기에는 무리한 운동을 피하고 회복 후 점진적으로 늘린다 |
+| 목·어깨 | 장시간 고정 자세를 피하고 가벼운 관절 운동을 시행한다 |
+| 식이 | 당뇨·설사 환자는 단 음료와 과음을 피하고 상태에 맞게 섭취한다 |
+| 음주 | 알코올 사용장애는 갈근에 의존하지 말고 전문 치료를 병행한다 |
+| 복약 | 처방약·건강식품·한약을 모두 기록해 상호작용을 확인한다 |
+
+### 18. 환자 설명용 요약
+
+갈근은 칡 뿌리로 만든 약재이며 목이 뻣뻣하고 열이 나거나 갈증·설사가 동반될 때 처방의 일부로 사용될 수 있습니다. 갈근탕과 갈근금련탕의 연구 결과는 갈근 한 조각을 먹는 효과와 같지 않습니다. 감기·설사·당뇨병은 원인과 중증도를 먼저 확인해야 하며, 고열·호흡곤란·혈변·탈수·황달·흉통·마비가 있으면 갈근 복용보다 진료가 우선입니다. 칡즙이나 갈근 제품을 복용한 뒤 발진, 심계항진, 소변 감소, 황달이 생기면 복용을 중단하고 의료진에게 알립니다.
 
 ## Q&A
 
-**Q1. 갈근을 감기·항강·두통에 어떻게 활용할 수 있나요?**
-갈근은 해기퇴열·승양 작용으로 감기·항강·두통에 활용됩니다. 갈근탕은 감기 비충혈 환자의 비강 증상 완화에 대한 임상시험 근거가 있으며,[^23] 마황탕은 소아 A형 인플루엔자 환자의 해열에 유의한 효과를 보입니다.[^16]
+**Q1. 갈근은 감기에 모두 사용할 수 있나요?**
 
-**Q2. 갈근이 당뇨병 관리에 도움이 되나요?**
-네. 갈근금련탕은 제2형 당뇨병 환자의 혈당·인슐린 저항성 개선에 유의한 효과를 보이는 메타분석 근거가 있습니다.[^5][^6][^7] 메트포르민과 병용 시 추가적인 개선 효과도 보고됩니다.[^8]
+아닙니다. 항강과 견배부 긴장이 있는 표증인지 확인하고, 고열·호흡곤란·탈수·중증 기저질환을 먼저 평가해야 합니다. 갈근탕은 종합감기약보다 감기 악화 방지에서 우월하지 않았습니다.[^48]
 
-**Q3. 갈근이 심혈관·뇌혈관 질환에 도움이 되나요?**
-네. 푸에라린 주사제는 급성 허혈성 뇌졸중[^1]과 불안정 협심증[^2] 환자에 대한 체계적 고찰 근거가 있습니다. 단삼·갈근 배합 제제는 관상동맥 질환 환자의 혈관 기능 개선에 보조적으로 활용될 수 있습니다.[^3]
+**Q2. 갈근금련탕이 당뇨병약을 대신할 수 있나요?**
 
-**Q4. 갈근의 부작용은 없나요?**
-갈근은 대체로 안전하나, 칡즙 과다 섭취 시 독성 간염이 발생한 증례가 보고됩니다.[^31] 갈근탕 복용 시 고정약진이 발생한 증례도 있습니다.[^32] 와파린·아스피린과 병용 시 출혈 위험에 주의가 필요합니다.[^33]
+대체할 수 없습니다. 일부 메타분석에서 보조적 혈당 개선 신호가 있었지만, 표준 혈당강하 치료와 혈당 추적을 유지해야 합니다.[^5][^6][^8]
 
-**Q5. 갈근이 갱년기 증상에도 도움이 되나요?**
-네. 갈근 추출물은 갱년기 여성의 호르몬 대체 요법과 비교하여 갱년기 증상 개선에 유의한 효과를 보입니다.[^25] 다이드제인 등 에스트로겐 유사 성분이 관련된 것으로 보고됩니다.
+**Q3. 칡즙과 갈근은 같은가요?**
 
-[^1]: Puerarin for acute ischaemic stroke. 체계적 고찰, 98명. DOI: [10.1002/14651858.CD004955.pub2](https://doi.org/10.1002/14651858.CD004955.pub2). PMID: [18254067](https://pubmed.ncbi.nlm.nih.gov/18254067/).
-[^2]: Puerarin injection for unstable angina pectoris. 체계적 고찰, 1240명. DOI: [10.1002/14651858.CD004196.pub2](https://doi.org/10.1002/14651858.CD004196.pub2). PMID: [16856037](https://pubmed.ncbi.nlm.nih.gov/16856037/).
-[^3]: The efficacy and tolerability of adjunctive alternative herbal medicine (Salvia miltiorrhiza and Pueraria lobata) on vascular function and structure in coronary patients. 임상시험, 100명. DOI: [10.1089/acm.2008.0400](https://doi.org/10.1089/acm.2008.0400). PMID: [19388864](https://pubmed.ncbi.nlm.nih.gov/19388864/).
-[^4]: Meta-Analysis of Traditional Chinese Patent Medicine for Ischemic Stroke. 메타분석, 19338명. DOI: [10.1161/strokeaha.106.473165](https://doi.org/10.1161/strokeaha.106.473165).
-[^5]: Gegen Qinlian decoction ameliorates insulin resistance in type 2 diabetes: A systematic review and meta-analysis of RCTs with mechanistic insights into SIRT1/AMPK pathway activation. 메타분석, 3247명. DOI: [10.1016/j.jep.2025.120960](https://doi.org/10.1016/j.jep.2025.120960). PMID: [41297722](https://pubmed.ncbi.nlm.nih.gov/41297722/).
-[^6]: Herbal Formula Gegen-Qinlian Decoction for Type 2 Diabetes Mellitus: A Meta-Analysis of Randomized Controlled Trials. 메타분석, 2553명. DOI: [10.1155/2020/3907920](https://doi.org/10.1155/2020/3907920).
-[^7]: A Study on the Blood Sugar Improvement Effect and Safety of Galgunhwangryunhwanggum-tang for Type 2 Diabetes without Complications: A Systemic Review and Meta-Analysis. 메타분석. DOI: [10.22246/jikm.2022.43.1.22](https://doi.org/10.22246/jikm.2022.43.1.22).
-[^8]: Efficacy of Gegen Qinlian decoction plus metformin for type 2 diabetes mellitus: a systematic review and meta-analysis of randomized controlled trials. 메타분석, 725명. DOI: [10.3389/fendo.2026.1837588](https://doi.org/10.3389/fendo.2026.1837588). PMID: [42539441](https://pubmed.ncbi.nlm.nih.gov/42539441/).
-[^9]: [Effect of gegen qinlian decoction combined with short-term intensive insulin treatment on patients with type 2 diabetes mellitus of dampness-heat syndrome]. 임상시험, 30명. PMID: [16841667](https://pubmed.ncbi.nlm.nih.gov/16841667/).
-[^10]: Structural modulation of gut microbiota during alleviation of type 2 diabetes with a Chinese herbal formula. 임상시험, 187명. DOI: [10.1038/ismej.2014.177](https://doi.org/10.1038/ismej.2014.177).
-[^11]: A Study on the Blood Sugar Improvement Effect and Safety of Galgunhwangryunhwanggum-tang for Type 2 Diabetes without Complications: A Systemic Review and Meta-Analysis. 메타분석. DOI: [10.22246/jikm.2022.43.1.22](https://doi.org/10.22246/jikm.2022.43.1.22).
-[^12]: Scientific Evidence of Chinese Herbal Medicine (Gegen Qinlian Decoction) in the Treatment of Ulcerative Colitis. 체계적 고찰. DOI: [10.1155/2022/7942845](https://doi.org/10.1155/2022/7942845).
-[^13]: Efficacy of herbal medicine (Gegen Qinlian Decoction) on ulcerative colitis. 메타분석, 2028명. DOI: [10.1097/md.0000000000018512](https://doi.org/10.1097/md.0000000000018512).
-[^14]: Gegen Qinlian Decoction Combined with Conventional Western Medicine for the Treatment of Infectious Diarrhea: A Systematic Review and Trial Sequential Analysis. 체계적 고찰, 1240명. DOI: [10.1159/000540793](https://doi.org/10.1159/000540793). PMID: [39137735](https://pubmed.ncbi.nlm.nih.gov/39137735/).
-[^15]: Effects of Gegen Qinlian Decoction combined with Chinese herbal hot package on the expression of PCT, CRP and IL-6 in patients with acute gastroenteritis. 임상시험, 100명. DOI: [10.14715/cmb/2022.68.2.27](https://doi.org/10.14715/cmb/2022.68.2.27).
-[^16]: Antipyretic effect of Mao-to, a Japanese herbal medicine, for treatment of type A influenza infection in children. 임상시험, 60명. DOI: [10.1016/j.phymed.2006.09.015](https://doi.org/10.1016/j.phymed.2006.09.015). PMID: [17141491](https://pubmed.ncbi.nlm.nih.gov/17141491/).
-[^17]: Maoto plus neuraminidase inhibitor versus neuraminidase inhibitor alone for reducing hospitalization in older adults with seasonal influenza. 관찰연구, 9260명. DOI: [10.37737/ace.22015](https://doi.org/10.37737/ace.22015). PMID: [38505252](https://pubmed.ncbi.nlm.nih.gov/38505252/).
-[^18]: Association between Maoto Use and Hospitalization for Seasonal Influenza in a Nonelderly Cohort in Japan. 관찰연구, 64613명. DOI: [10.2169/internalmedicine.6416-20](https://doi.org/10.2169/internalmedicine.6416-20). PMID: [34719625](https://pubmed.ncbi.nlm.nih.gov/34719625/).
-[^19]: Multicenter, randomized controlled trial of traditional Japanese medicine, kakkonto with shosaikotokakikyosekko, for mild and moderate coronavirus disease patients. 임상시험, 161명. DOI: [10.3389/fphar.2022.1008946](https://doi.org/10.3389/fphar.2022.1008946). PMID: [36438822](https://pubmed.ncbi.nlm.nih.gov/36438822/).
-[^20]: Contribution of traditional Japanese Kampo medicines, kakkonto with shosaikotokakikyosekko, in treating patients with mild-to-moderate coronavirus disease 2019: Further analysis of a multicenter, randomized controlled trial. 임상시험, 161명. DOI: [10.1016/j.jiac.2023.07.013](https://doi.org/10.1016/j.jiac.2023.07.013). PMID: [37507087](https://pubmed.ncbi.nlm.nih.gov/37507087/).
-[^21]: Immunological and Preventive Effects of Hochuekkito and Kakkonto Against Coronavirus Disease in Healthcare Workers: A Retrospective Observational Study. 관찰연구, 27명. DOI: [10.3389/fphar.2021.766402](https://doi.org/10.3389/fphar.2021.766402). PMID: [34867392](https://pubmed.ncbi.nlm.nih.gov/34867392/).
-[^22]: Clinical and epidemiological features of healthcare workers after a coronavirus disease 2019 cluster infection in Japan and the effects of Kampo formulas-Hochuekkito and Kakkonto: A retrospective cohort study. 관찰연구, 175명. DOI: [10.1097/MD.0000000000029748](https://doi.org/10.1097/MD.0000000000029748). PMID: [35839019](https://pubmed.ncbi.nlm.nih.gov/35839019/).
-[^23]: Efficacy and safety of Galgeun-tang-ga-cheongung-sinyi for nasal congestion with common cold: A study protocol for randomized, double-blind, placebo-controlled, parallel, multicenter clinical trial. 임상시험, 176명. DOI: [10.1371/journal.pone.0342433](https://doi.org/10.1371/journal.pone.0342433). PMID: [41642890](https://pubmed.ncbi.nlm.nih.gov/41642890/).
-[^24]: Treatment of COVID-19-Related Olfactory Disorder Promoted by Kakkontokasenkyushin'i: A Case Series. 증례, 5명. DOI: [10.1620/tjem.254.71](https://doi.org/10.1620/tjem.254.71). PMID: [34108344](https://pubmed.ncbi.nlm.nih.gov/34108344/).
-[^25]: Comparison of Pueraria lobata with hormone replacement therapy in treating the adverse health consequences of menopause. 임상시험, 127명. DOI: [10.1097/01.GME.0000054764.94658.33](https://doi.org/10.1097/01.GME.0000054764.94658.33). PMID: [12851519](https://pubmed.ncbi.nlm.nih.gov/12851519/).
-[^26]: An extract of the Chinese herbal root kudzu reduces alcohol drinking by heavy drinkers in a naturalistic setting. 임상시험. DOI: [10.1097/01.alc.0000163499.64347.92](https://doi.org/10.1097/01.alc.0000163499.64347.92). PMID: [15897719](https://pubmed.ncbi.nlm.nih.gov/15897719/).
-[^27]: Traditional Chinese Medicine for Treatment of Alcoholism: From Ancient to Modern. 문헌고찰. DOI: [10.1142/s0192415x11008609](https://doi.org/10.1142/s0192415x11008609).
-[^28]: Traditional medicine in the treatment of drug addiction. 체계적 고찰. DOI: [10.1080/00952990802455469](https://doi.org/10.1080/00952990802455469). PMID: [19152199](https://pubmed.ncbi.nlm.nih.gov/19152199/).
-[^29]: Improvement of postoperative health in prostate cancer patients by puerarin combined with prostatectomy. 임상시험, 122명. DOI: [10.36721/PJPS.2025.38.6.REG.14267.1](https://doi.org/10.36721/PJPS.2025.38.6.REG.14267.1). PMID: [41139249](https://pubmed.ncbi.nlm.nih.gov/41139249/).
-[^30]: [Observation on efficacy of puerarin in treating diabetic retinopathy]. 임상시험, 30명. PMID: [11789184](https://pubmed.ncbi.nlm.nih.gov/11789184/).
-[^31]: [Two cases of toxic hepatitis caused by arrowroot juice]. 증례, 2명. DOI: [10.3350/kjhep.2009.15.4.504](https://doi.org/10.3350/kjhep.2009.15.4.504). PMID: [20037269](https://pubmed.ncbi.nlm.nih.gov/20037269/).
-[^32]: Letter: Fixed drug eruption caused by the Japanese herbal drug kakkonto. 증례, 1명. PMID: [21199639](https://pubmed.ncbi.nlm.nih.gov/21199639/).
-[^33]: Is it safe to take Radix Salvia Miltiorrhiza - Radix Pueraria Lobate product with warfarin and aspirin? A pilot study in healthy human subjects. 임상시험, 14명. DOI: [10.1016/j.jep.2020.113151](https://doi.org/10.1016/j.jep.2020.113151). PMID: [32736050](https://pubmed.ncbi.nlm.nih.gov/32736050/).
-[^34]: Clinical Evaluation of Acetaminophen-Galgeuntang Interaction Based on Population Approaches. 임상시험, 12명. DOI: [10.3390/pharmaceutics12121182](https://doi.org/10.3390/pharmaceutics12121182). PMID: [33291732](https://pubmed.ncbi.nlm.nih.gov/33291732/).
+원료 식물은 관련되지만 제품의 농도·추출 조건·첨가물이 다릅니다. 칡즙 과다 섭취 뒤 독성 간염 증례가 있으므로 건강식품을 약재와 동일하게 보지 않습니다.[^31]
+
+**Q4. 항응고제를 복용 중인데 갈근을 먹어도 되나요?**
+
+단삼·갈근 복합 제제와 와파린·아스피린의 상호작용이 보고되어 의료진 확인이 필요합니다. 제품명과 복용량을 함께 제시해야 합니다.[^33]
+
+**Q5. 갈근은 갱년기에 효과가 있나요?**
+
+갈근 추출물 연구에서 인지 기능 일부 개선이 관찰되었지만 호르몬대체요법과 동일한 효과는 아니며, 연구 결과도 일관되지 않습니다.[^25][^47]
+
+**Q6. 푸에라린 주사는 갈근을 먹는 것과 같은가요?**
+
+같지 않습니다. 주사제는 용량·노출·이상반응이 다르며, 중증 이상반응 감시가 필요합니다.[^42][^53]
+
+**Q7. 갈근탕은 목과 어깨 통증에 도움이 되나요?**
+
+일부 관찰연구와 소규모 연구에서 긴장성 두통·근골격계 증상 개선이 보고되었지만, 신경근병증이나 혈관 질환을 먼저 배제하고 변증에 따라 사용해야 합니다.[^49][^51]
+
+### 고전 인용 출처
+
+갈근의 해기·생진·승양·지사에 대한 본초학적 설명은 『신농본초경』, 『명의별록』, 『본초강목』과 『상한론』의 갈근탕 조문을 참고한다. 고전 의서의 약성·방증은 교과서적 근거이며, 현대 질환의 치료 효과는 각 임상 연구의 설계와 결과에 따라 별도로 판단한다.
+
+## 제6편 하위 표제어와 근거 지형
+
+### 19. 갈근 단미
+
+갈근 단미를 직접 평가한 인체 연구는 갈근을 포함한 복합 처방 연구보다 적다. 따라서 갈근의 전통적 효능은 본초학적 설명으로, 푸에라린·갈근탕·갈근금련탕의 연구 결과는 각각 해당 제형의 근거로 분리해 기록한다.[^35]
+
+갈근은 단미 약재로 복용할 때에도 기원 식물, 절편의 품질, 추출 농도, 병용 약물에 따라 실제 노출이 달라질 수 있다. 의료기관 처방약과 시판 칡즙·분말·농축액을 동일한 용량으로 환산하지 않는다.
+
+### 20. 갈근탕
+
+갈근탕은 항강·견배부 긴장·발열·오한이 함께 나타나는 표증을 중심으로 검토한다. 일본의 대규모 처방 자료에서는 갈근탕이 급성 증상 완화 목적으로 사용되는 패턴이 확인되었으나, 처방 빈도는 효능의 증거가 아니다.[^61]
+
+감기에서 갈근탕의 효과는 증상 조합과 복용 시점에 따라 달라질 수 있다. 처방 조합을 갖추지 않은 갈근 단미를 갈근탕과 같은 효과로 설명하지 않는다.[^48][^49]
+
+### 21. 갈근금련탕
+
+갈근금련탕 연구의 중심은 제2형 당뇨병, 습열증, 감염성 설사, 궤양성 대장염이다. 연구마다 황련·황금·갈근의 용량, 치료 기간, 통상 치료가 달라 직접 비교가 어렵다.[^7][^9][^11]
+
+메타분석에서 관찰되는 유효율은 연구자가 정한 복합 평가 기준일 수 있다. HbA1c, 공복혈당, 배변 횟수, CRP, 내시경 관해처럼 사전에 정한 임상 지표와 분리해 해석한다.
+
+### 22. 갈근소·푸에라린 제제
+
+푸에라린 제제는 경구 추출물과 주사제가 구분된다. 급성 허혈성 뇌졸중, 협심증, 당뇨병성 말초신경병증에서 주사제 연구가 많지만, 낮은 질의 중국 임상시험이 포함된 메타분석은 과대추정 가능성을 가진다.[^2][^42][^43]
+
+푸에라린의 인체 약동학 연구는 표준화·용량설정에 유용하지만, 혈중 농도 측정은 임상적 유효성을 의미하지 않는다.[^38] 주사제의 사용은 허가 범위와 의료기관 안전관리 안에서 판단한다.
+
+### 23. 갈근화와 다른 Pueraria 종
+
+갈근화는 알코올 대사와 비만 관련 소규모 연구가 있으나, 갈근 뿌리와 약용 부위가 다르다.[^36][^37] Pueraria mirifica와 Pueraria tuberosa 연구 역시 갈근(Pueraria lobata)의 표준 본초 근거로 합산하지 않는다.[^47][^55]
+
+이러한 종·부위 구분은 식물성 에스트로겐과 혈관·대사 효과를 해석할 때 중요하다. 제품 라벨에 학명, 사용 부위, 추출비와 표준화 성분이 표시되지 않으면 임상 논문과 동일성 여부를 확인하기 어렵다.
+
+## 제7편 임상 연구 해석과 의사결정
+
+### 24. 연구 유형별 우선순위
+
+| 연구 유형 | 갈근 관련 사례 | 해석 원칙 |
+| --- | --- | --- |
+| 체계적 고찰·메타분석 | 푸에라린 뇌졸중, 갈근금련탕 당뇨·설사 | 포함 연구의 질·이질성·출판 편향을 확인한다 |
+| 무작위 임상시험 | 감기, COVID-19, 폐경, 혈관 기능 | 대조군·눈가림·사전 등록·임상적 중요도를 확인한다 |
+| 관찰연구 | 처방 양상, 인플루엔자 입원, 유선염 | 인과관계가 아닌 연관성으로 해석한다 |
+| 증례 보고 | 독성 간염, 고정약진, 후각장애 | 희귀 이상반응과 임상 신호 탐지에 사용한다 |
+| 약동학 연구 | 푸에라린·아세트아미노펜 | 노출 변화와 임상 사건을 구분한다 |
+
+### 25. 실제 처방 전 확인 순서
+
+1. 주 증상과 발병 시점, 체온, 탈수, 활력징후를 확인한다.
+2. 항강·견배부 긴장·갈증·설사·오한·땀의 조합을 기록한다.
+3. 임신·수유, 소아·고령, 간·신장·심혈관 질환을 확인한다.
+4. 처방약, 일반의약품, 건강기능식품, 음주를 모두 확인한다.
+5. 응급질환·중증 감염·기질적 질환을 배제한다.
+6. 갈근 단미인지 갈근탕인지 갈근금련탕인지 제품을 명확히 한다.
+7. 목표 지표와 재평가 시점을 정한 뒤 제한된 기간 동안 사용한다.
+
+이 순서는 임상 실무 흐름이지 특정 처방을 권고하는 지침이 아니다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.
+
+### 26. 근거의 한계
+
+갈근 관련 문헌은 동일한 약재명 아래에 단미, 복합 처방, 단일 성분, 주사제, 다른 Pueraria 종을 함께 포함하는 경우가 있다. 연구의 환자군·제형·용량이 다르면 효과와 안전성을 합산하지 않는다.
+
+또한 중국어권 임상시험의 일부는 무작위 배정·배정은폐·이상반응 보고가 충분하지 않을 수 있다. 메타분석의 통계적 유의성을 환자가 느끼는 큰 호전이나 장기 예후 개선과 동일하게 표현하지 않는다.[^2][^45][^50]
+
+### 27. 재평가 기준
+
+| 상황 | 재평가 |
+| --- | --- |
+| 48-72시간 안에 감기 증상이 악화 | 감염 합병증·폐렴·탈수 평가 |
+| 설사가 지속되거나 혈변 발생 | 배양·염증성 장질환·내시경 평가 |
+| 혈당이 흔들림 | 처방과 당뇨약의 상호작용 및 식사 확인 |
+| 흉통·마비·언어장애 | 갈근 복용과 무관하게 응급 평가 |
+| 황달·짙은 소변·심한 가려움 | 간기능 검사와 제품 중단 검토 |
+| 발진·부종·호흡곤란 | 약물 알레르기 및 응급반응 평가 |
+
+### 28. 갈근 임상 추적 지표표
+
+| 적용 상황 | 기본 지표 | 보조 지표 | 평가 시점 |
+| --- | --- | --- | --- |
+| 감기·항강 | 체온, 맥박, 호흡수, VAS | 수면, 활동, 복약 이상반응 | 시작·48-72시간·종료 |
+| 설사·위장염 | 배변 횟수, 체중, 소변량 | CRP, 전해질, 크레아티닌 | 시작·3일·증상 소실 |
+| 당뇨병 | 공복혈당, 식후혈당, HbA1c | eGFR, 요알부민, 체중 | 초기·용량 변경·3개월 |
+| 말초신경병증 | 통증 NRS, 감각검사 | 신경전도속도, 발 검사 | 초기·8-12주 |
+| 혈관 위험 | 혈압, 맥박, LDL-C | FMD, IMT, 출혈 징후 | 초기·정기 추적 |
+| 경항통·두통 | VAS/NRS, 두통 일수 | NDI, 근력·감각·반사 | 시작·2주·4주 |
+
+이 추적 지표표는 연구와 임상 기록을 연결하기 위한 평가 틀이지 동일한 근거 수준의 권고가 아니다. 환자의 질환과 처방 제형에 따라 필요한 검사만 선택하며, 응급 경고 소견이 있으면 예정된 추적보다 즉시 진료를 우선한다.
+
+### 29. 감별진단 체크리스트
+
+| 갈근을 고려한 상황 | 먼저 배제할 질환 | 확인 방법 |
+| --- | --- | --- |
+| 발열·항강 | 세균성 인두염·폐렴·수막염 | 활력징후, 호흡기·신경학적 진찰 |
+| 설사·복통 | 침습성 장염·염증성 장질환 | 혈변, 탈수, 염증 지표, 필요 시 배양 |
+| 갈증·피로 | 고혈당·전해질 이상 | 혈당, 전해질, 신장 기능 |
+| 경항통·두통 | 경추 신경근병증·뇌혈관 질환 | 근력·감각·반사, 응급 영상 평가 |
+| 황달·오심 | 바이러스 간염·약물 유발 간손상 | 간기능, 복용력, 영상·혈청검사 |
+
+실무적으로는 먼저 응급도와 기질적 질환을 확인하고, 다음으로 변증과 제형을 구분하며, 마지막으로 목표 지표와 중단 기준을 합의한다. 감별이 끝나지 않은 상태에서 갈근을 증량하지 않는다.
+
+### 30. 문서 범위의 경계
+
+이 문서는 갈근을 본초학 표제어로 다루며, 갈근탕·갈근금련탕·푸에라린 주사 연구를 갈근의 임상 맥락을 설명하는 하위 근거로 인용한다. 해당 처방과 성분의 독립적인 용량 지침이나 허가사항을 대신하지 않는다.
+
+AI가 제공하는 논문 데이터베이스의 `answer`와 `clinical_summary`는 검색 후보와 독해 보조에만 사용했으며, 최종 문장은 논문 제목·연구 유형·DOI 또는 PMID를 대조해 작성했다. 요약문 자체를 원문 결과와 동일하게 취급하지 않는다.
+
+## 제8편 임상 질문 확장
+
+**Q8. 갈근을 오래 먹으면 좋은가요?**
+
+갈근을 장기 복용해야 한다는 임상 근거는 확인된 목표와 제형별로 다릅니다. 증상이 지속되면 약재를 계속 늘리기보다 진단과 처방 적합성을 다시 평가합니다.
+
+**Q9. 갈근금련탕과 갈근탕은 서로 바꿔 쓸 수 있나요?**
+
+바꿔 쓸 수 없습니다. 갈근탕은 표증과 항강 축, 갈근금련탕은 습열성 설사·대사 이상 축의 근거가 주로 다뤄졌습니다. 환자의 변증과 기저질환이 다르면 처방 선택도 달라집니다.[^5][^48]
+
+**Q10. 갈근 제품을 먹고 혈압이 오르면 어떻게 하나요?**
+
+마황이 포함된 갈근탕 또는 복합 감기약인지 먼저 확인하고 복용을 중단한 뒤 혈압·맥박을 평가합니다. 흉통·호흡곤란·신경학적 증상이 있으면 즉시 진료를 받습니다.
+
+**Q11. 갈근이 뇌졸중 후유증을 치료하나요?**
+
+푸에라린 주사 연구에서 일부 신경학적 지표 개선이 보고되었지만, 사망률·의존도 개선 근거는 제한적입니다. 재활치료와 이차 예방을 대신하지 않습니다.[^1][^45]
+
+**Q12. 갈근은 알코올 해독제인가요?**
+
+아닙니다. 일부 연구에서 음주량 감소 가능성이 관찰되었지만, 급성 중독·금단·간질환을 치료하는 해독제로 사용할 수 없습니다. 알코올 사용장애는 정신건강의학과와 중독 전문 치료를 우선합니다.[^26][^28]
+
+[^1]: Puerarin for acute ischaemic stroke. Cochrane Database of Systematic Reviews, 2008-01-23, [체계적 고찰], DOI: [10.1002/14651858.CD004955.pub2](https://doi.org/10.1002/14651858.CD004955.pub2), PMID: [18254067](https://pubmed.ncbi.nlm.nih.gov/18254067/). — 사망률과 의존도 개선을 입증하기에는 근거가 부족하다고 평가했다.
+[^2]: Puerarin injection for unstable angina pectoris. Cochrane Database of Systematic Reviews, 2006-07-19, [체계적 고찰], DOI: [10.1002/14651858.CD004196.pub2](https://doi.org/10.1002/14651858.CD004196.pub2), PMID: [16856037](https://pubmed.ncbi.nlm.nih.gov/16856037/). — 기존 치료 병용 가능성을 제시했지만 연구 질이 낮았다.
+[^3]: The efficacy and tolerability of adjunctive Salvia miltiorrhiza and Pueraria lobata on vascular function and structure. Journal of Alternative and Complementary Medicine, 2009, [임상시험], DOI: [10.1089/acm.2008.0400](https://doi.org/10.1089/acm.2008.0400), PMID: [19388864](https://pubmed.ncbi.nlm.nih.gov/19388864/). — 관상동맥 환자에서 혈관 기능과 구조를 평가했다.
+[^4]: Meta-Analysis of Traditional Chinese Patent Medicine for Ischemic Stroke. Stroke, 2007, [메타분석], DOI: [10.1161/strokeaha.106.473165](https://doi.org/10.1161/strokeaha.106.473165). — 갈근 포함 중약제의 허혈성 뇌졸중 자료를 종합했다.
+[^5]: Gegen Qinlian decoction ameliorates insulin resistance in type 2 diabetes. Journal of Ethnopharmacology, 2025, [메타분석], DOI: [10.1016/j.jep.2025.120960](https://doi.org/10.1016/j.jep.2025.120960), PMID: [41297722](https://pubmed.ncbi.nlm.nih.gov/41297722/). — 갈근금련탕의 인슐린 저항성 개선 신호를 종합했다.
+[^6]: Herbal Formula Gegen-Qinlian Decoction for Type 2 Diabetes Mellitus. Evidence-Based Complementary and Alternative Medicine, 2020, [메타분석], DOI: [10.1155/2020/3907920](https://doi.org/10.1155/2020/3907920). — 제2형 당뇨병에서 보조적 혈당 개선 가능성을 보고했다.
+[^7]: A Study on the Blood Sugar Improvement Effect and Safety of Galgeunhwangryunhwanggum-tang. Journal of Internal Korean Medicine, 2022, [메타분석], DOI: [10.22246/jikm.2022.43.1.22](https://doi.org/10.22246/jikm.2022.43.1.22). — 갈근황련황금탕의 혈당 개선과 안전성을 종합했다.
+[^9]: Effect of gegen qinlian decoction combined with short-term intensive insulin treatment. Chinese Journal of Integrated Traditional and Western Medicine, 2006, [임상시험], PMID: [16841667](https://pubmed.ncbi.nlm.nih.gov/16841667/). — 습열증 당뇨병에서 인슐린 병용을 평가했다.
+[^8]: Efficacy of Gegen Qinlian decoction plus metformin for type 2 diabetes mellitus. Frontiers in Endocrinology, 2026, [메타분석], DOI: [10.3389/fendo.2026.1837588](https://doi.org/10.3389/fendo.2026.1837588), PMID: [42539441](https://pubmed.ncbi.nlm.nih.gov/42539441/). — 메트포르민 병용의 추가 개선 신호를 평가했다.
+[^10]: Structural modulation of gut microbiota during alleviation of type 2 diabetes with a Chinese herbal formula. ISME Journal, 2014, [임상시험], DOI: [10.1038/ismej.2014.177](https://doi.org/10.1038/ismej.2014.177). — 갈근금련탕 관련 장내 미생물 변화와 대사 지표를 조사했다.
+[^11]: A Study on the Blood Sugar Improvement Effect and Safety of Galgeunhwangryunhwanggum-tang. Journal of Internal Korean Medicine, 2022, [체계적 고찰], DOI: [10.22246/jikm.2022.43.1.22](https://doi.org/10.22246/jikm.2022.43.1.22). — 갈근황련황금탕의 임상 혈당 자료를 검토했다.
+[^12]: Scientific Evidence of Chinese Herbal Medicine (Gegen Qinlian Decoction) in the Treatment of Ulcerative Colitis. Evidence-Based Complementary and Alternative Medicine, 2022, [체계적 고찰], DOI: [10.1155/2022/7942845](https://doi.org/10.1155/2022/7942845). — 궤양성 대장염의 증상·관해 근거와 한계를 정리했다.
+[^13]: Efficacy of herbal medicine (Gegen Qinlian Decoction) on ulcerative colitis. Medicine, 2019, [메타분석], DOI: [10.1097/MD.0000000000018512](https://doi.org/10.1097/MD.0000000000018512). — 갈근금련탕 포함 치료의 임상 반응을 종합했다.
+[^14]: Gegen Qinlian Decoction Combined with Conventional Western Medicine for Infectious Diarrhea. Complementary Medicine Research, 2024, [체계적 고찰], DOI: [10.1159/000540793](https://doi.org/10.1159/000540793), PMID: [39137735](https://pubmed.ncbi.nlm.nih.gov/39137735/). — 통상 치료 병용에서 설사·발열 지속기간 감소 가능성을 평가했다.
+[^15]: Effects of Gegen Qinlian Decoction combined with Chinese herbal hot package in acute gastroenteritis. Cellular and Molecular Biology, 2022, [임상시험], DOI: [10.14715/cmb/2022.68.2.27](https://doi.org/10.14715/cmb/2022.68.2.27). — PCT·CRP·IL-6 변화를 조사했다.
+[^16]: Antipyretic effect of Mao-to for type A influenza infection in children. Phytomedicine, 2007, [임상시험], DOI: [10.1016/j.phymed.2006.09.015](https://doi.org/10.1016/j.phymed.2006.09.015), PMID: [17141491](https://pubmed.ncbi.nlm.nih.gov/17141491/). — 소아 인플루엔자에서 마황탕의 해열 효과를 평가했다.
+[^17]: Maoto plus neuraminidase inhibitor versus neuraminidase inhibitor alone in older adults. Acupuncture and Related Therapies, 2024, [관찰연구], DOI: [10.37737/ace.22015](https://doi.org/10.37737/ace.22015), PMID: [38505252](https://pubmed.ncbi.nlm.nih.gov/38505252/). — 고령 인플루엔자 환자의 입원 관련성을 분석했다.
+[^18]: Association between Maoto Use and Hospitalization for Seasonal Influenza in a Nonelderly Cohort. Internal Medicine, 2022, [관찰연구], DOI: [10.2169/internalmedicine.6416-20](https://doi.org/10.2169/internalmedicine.6416-20), PMID: [34719625](https://pubmed.ncbi.nlm.nih.gov/34719625/). — 비고령자 코호트에서 마황탕 사용과 입원을 비교했다.
+[^19]: Multicenter randomized trial of kakkonto with shosaikotokakikyosekko for COVID-19. Frontiers in Pharmacology, 2022, [임상시험], DOI: [10.3389/fphar.2022.1008946](https://doi.org/10.3389/fphar.2022.1008946), PMID: [36438822](https://pubmed.ncbi.nlm.nih.gov/36438822/). — 경증·중등도 COVID-19의 발열과 중증화 지표를 평가했다.
+[^20]: Contribution of Kampo medicines in mild-to-moderate COVID-19. Journal of Infection and Chemotherapy, 2023, [임상시험], DOI: [10.1016/j.jiac.2023.07.013](https://doi.org/10.1016/j.jiac.2023.07.013), PMID: [37507087](https://pubmed.ncbi.nlm.nih.gov/37507087/). — 동일 시험의 증상별 추가 분석을 제시했다.
+[^21]: Immunological and Preventive Effects of Hochuekkito and Kakkonto Against COVID-19 in Healthcare Workers. Frontiers in Pharmacology, 2021, [관찰연구], DOI: [10.3389/fphar.2021.766402](https://doi.org/10.3389/fphar.2021.766402), PMID: [34867392](https://pubmed.ncbi.nlm.nih.gov/34867392/). — 의료종사자의 면역 표지와 감염 예방 가능성을 관찰했다.
+[^22]: Clinical and epidemiological features of healthcare workers and effects of Hochuekkito and Kakkonto. Medicine, 2022, [관찰연구], DOI: [10.1097/MD.0000000000029748](https://doi.org/10.1097/MD.0000000000029748), PMID: [35839019](https://pubmed.ncbi.nlm.nih.gov/35839019/). — 복약 순응도와 COVID-19 위험의 연관성을 분석했다.
+[^23]: Efficacy and safety of Galgeun-tang-ga-cheongung-sinyi for nasal congestion with common cold. PLOS ONE, 2025, [임상시험 프로토콜], DOI: [10.1371/journal.pone.0342433](https://doi.org/10.1371/journal.pone.0342433), PMID: [41642890](https://pubmed.ncbi.nlm.nih.gov/41642890/). — 감기 코막힘 시험의 설계와 안전성 평가를 제시했다.
+[^24]: Treatment of COVID-19-Related Olfactory Disorder Promoted by Kakkontokasenkyushin'i. Tohoku Journal of Experimental Medicine, 2021, [증례 보고], DOI: [10.1620/tjem.254.71](https://doi.org/10.1620/tjem.254.71), PMID: [34108344](https://pubmed.ncbi.nlm.nih.gov/34108344/). — 소수 COVID-19 후각장애 환자의 증례를 보고했다.
+[^25]: Comparison of Pueraria lobata with hormone replacement therapy in menopause. Menopause, 2003, [임상시험], DOI: [10.1097/01.GME.0000054764.94658.33](https://doi.org/10.1097/01.GME.0000054764.94658.33), PMID: [12851519](https://pubmed.ncbi.nlm.nih.gov/12851519/). — 폐경 후 인지·지질 지표를 비교했다.
+[^26]: An extract of the Chinese herbal root kudzu reduces alcohol drinking by heavy drinkers. Alcoholism: Clinical and Experimental Research, 2005, [임상시험], DOI: [10.1097/01.alc.0000163499.64347.92](https://doi.org/10.1097/01.alc.0000163499.64347.92), PMID: [15897719](https://pubmed.ncbi.nlm.nih.gov/15897719/). — 과음자의 음주량 감소 가능성을 조사했다.
+[^27]: Traditional Chinese Medicine for Treatment of Alcoholism. American Journal of Chinese Medicine, 2011, [문헌 고찰], DOI: [10.1142/S0192415X11008609](https://doi.org/10.1142/S0192415X11008609). — 알코올 사용장애에서 갈근 관련 임상 경험을 정리했다.
+[^28]: Traditional medicine in the treatment of drug addiction. American Journal of Drug and Alcohol Abuse, 2009, [체계적 고찰], DOI: [10.1080/00952990802455469](https://doi.org/10.1080/00952990802455469), PMID: [19152199](https://pubmed.ncbi.nlm.nih.gov/19152199/). — 갈근의 알코올 중독 보조 치료 가능성과 한계를 검토했다.
+[^29]: Improvement of postoperative health in prostate cancer patients by puerarin combined with prostatectomy. Pakistan Journal of Pharmaceutical Sciences, 2025, [임상시험], DOI: [10.36721/PJPS.2025.38.6.REG.14267.1](https://doi.org/10.36721/PJPS.2025.38.6.REG.14267.1), PMID: [41139249](https://pubmed.ncbi.nlm.nih.gov/41139249/). — 전립선 절제술 후 푸에라린 병용의 회복 지표를 평가했다.
+[^31]: Two cases of toxic hepatitis caused by arrowroot juice. Korean Journal of Hepatology, 2009, [증례 보고], DOI: [10.3350/kjhep.2009.15.4.504](https://doi.org/10.3350/kjhep.2009.15.4.504), PMID: [20037269](https://pubmed.ncbi.nlm.nih.gov/20037269/). — 칡즙 섭취 후 독성 간염을 보고했다.
+[^32]: Fixed drug eruption caused by the Japanese herbal drug kakkonto. Dermatology Online Journal, 2010, [증례 보고], PMID: [21199639](https://pubmed.ncbi.nlm.nih.gov/21199639/). — 갈근탕 관련 피부 약물반응을 보고했다.
+[^33]: Is it safe to take Radix Salvia Miltiorrhiza-Radix Pueraria Lobata with warfarin and aspirin? Journal of Ethnopharmacology, 2020, [임상시험], DOI: [10.1016/j.jep.2020.113151](https://doi.org/10.1016/j.jep.2020.113151), PMID: [32736050](https://pubmed.ncbi.nlm.nih.gov/32736050/). — 단삼·갈근 제제와 항혈전제의 약동학·약력학 상호작용을 조사했다.
+[^34]: Clinical Evaluation of Acetaminophen-Galgeuntang Interaction. Pharmaceutics, 2020, [임상시험], DOI: [10.3390/pharmaceutics12121182](https://doi.org/10.3390/pharmaceutics12121182), PMID: [33291732](https://pubmed.ncbi.nlm.nih.gov/33291732/). — 갈근탕과 아세트아미노펜 병용의 약동학 변화를 조사했다.
+[^35]: A comprehensive review on Pueraria: Insights on its chemistry and medicinal value. Biomedicine & Pharmacotherapy, 2020, [문헌 고찰], DOI: [10.1016/j.biopha.2020.110734](https://doi.org/10.1016/j.biopha.2020.110734), PMID: [32942158](https://pubmed.ncbi.nlm.nih.gov/32942158/). — Pueraria의 성분·약리·임상 가능성을 종합했다.
+[^36]: Pharmacological studies on Puerariae Flos IV: effects on blood ethanol and acetaldehyde in humans. International Journal of Clinical Pharmacology Research, 2002, [임상시험], PMID: [12395916](https://pubmed.ncbi.nlm.nih.gov/12395916/). — 칡꽃 추출물의 알코올 대사 지표를 평가했다.
+[^37]: Consumption of Pueraria flower extract reduces body mass index in obese humans. Bioscience, Biotechnology, and Biochemistry, 2012, [임상시험], DOI: [10.1271/bbb.120235](https://doi.org/10.1271/bbb.120235), PMID: [22878195](https://pubmed.ncbi.nlm.nih.gov/22878195/). — 칡꽃 추출물과 내장지방·BMI 변화를 조사했다.
+[^38]: Simultaneous determination of puerarin and its active metabolite in human plasma. Journal of Chromatography B, 2014, [인체 약동학 연구], DOI: [10.1016/j.jchromb.2014.09.015](https://doi.org/10.1016/j.jchromb.2014.09.015), PMID: [25264914](https://pubmed.ncbi.nlm.nih.gov/25264914/). — 인체 혈장 내 푸에라린과 다이드제인 측정법을 제시했다.
+[^39]: Pharmacokinetic comparison of puerarin after Jiawei-Xiaoyao-San in volunteers and dyspepsia patients. Journal of Pharmacy and Pharmacology, 2009, [임상시험], DOI: [10.1211/jpp/61.01.0018](https://doi.org/10.1211/jpp/61.01.0018), PMID: [19126307](https://pubmed.ncbi.nlm.nih.gov/19126307/). — 기능성 소화불량이 푸에라린 노출에 미치는 영향을 조사했다.
+[^40]: Cardiovascular Protective Effects of Adjunctive Salvia miltiorrhiza and Pueraria lobata in High-Risk Hypertension. Evidence-Based Complementary and Alternative Medicine, 2013, [임상시험], DOI: [10.1155/2013/132912](https://doi.org/10.1155/2013/132912), PMID: [23533460](https://pubmed.ncbi.nlm.nih.gov/23533460/). — 고위험 고혈압에서 FMD와 IMT 변화를 평가했다.
+[^41]: The efficacy and tolerability of adjunctive Salvia miltiorrhiza and Pueraria lobata on vascular function. Journal of Alternative and Complementary Medicine, 2009, [임상시험], DOI: [10.1089/acm.2008.0400](https://doi.org/10.1089/acm.2008.0400), PMID: [19388864](https://pubmed.ncbi.nlm.nih.gov/19388864/). — 관상동맥 환자의 혈관 기능·구조와 내약성을 조사했다.
+[^42]: Efficacy and Safety of Puerarin Injection for Diabetic Peripheral Neuropathy. Evidence-Based Complementary and Alternative Medicine, 2018, [메타분석], DOI: [10.1155/2018/2834650](https://doi.org/10.1155/2018/2834650), PMID: [29619066](https://pubmed.ncbi.nlm.nih.gov/29619066/). — 신경전도속도 개선과 안전성 자료를 종합했다.
+[^43]: Efficacy and safety of puerarin injection in acute ischemic stroke. Medicine, 2017, [메타분석], DOI: [10.1097/MD.0000000000005803](https://doi.org/10.1097/MD.0000000000005803), PMID: [28072733](https://pubmed.ncbi.nlm.nih.gov/28072733/). — 신경학적 결손과 혈액 유변학 지표의 변화를 평가했다.
+[^44]: Observation on efficacy of puerarin in treating diabetic retinopathy. Chinese Journal of Integrated Traditional and Western Medicine, 2000, [임상시험], PMID: [11789184](https://pubmed.ncbi.nlm.nih.gov/11789184/). — 망막 혈류·혈액 유변학·시력 지표를 조사했다.
+[^45]: Puerarin for ischaemic stroke. Cochrane Database of Systematic Reviews, 2016, [체계적 고찰], DOI: [10.1002/14651858.CD004955.pub3](https://doi.org/10.1002/14651858.CD004955.pub3), PMID: [26891451](https://pubmed.ncbi.nlm.nih.gov/26891451/). — 신경학적 결손 개선과 생존·의존도 결과를 구분했다.
+[^46]: Puerarin: a hepatoprotective drug from bench to bedside. Chinese Medicine, 2024, [문헌 고찰], DOI: [10.1186/s13020-024-01011-y](https://doi.org/10.1186/s13020-024-01011-y). — 푸에라린의 간질환 연구와 임상 적용 한계를 종합했다.
+[^47]: Efficacy and safety of Pueraria mirifica for menopausal women. Journal of Ethnopharmacology, 2018, [체계적 고찰], DOI: [10.1016/j.jep.2018.01.028](https://doi.org/10.1016/j.jep.2018.01.028), PMID: [29409850](https://pubmed.ncbi.nlm.nih.gov/29409850/). — 다른 Pueraria 종의 폐경 연구 불확실성을 평가했다.
+[^48]: Non-superiority of Kakkonto to a representative multiple cold medicine. Internal Medicine, 2014, [임상시험], DOI: [10.2169/internalmedicine.53.1783](https://doi.org/10.2169/internalmedicine.53.1783), PMID: [24785885](https://pubmed.ncbi.nlm.nih.gov/24785885/). — 감기 악화 방지에서 갈근탕의 우월성을 검증하지 못했다.
+[^49]: Comparison of the Benefit Feeling Rate Based on the Sho of OTC Kakkonto. Biological and Pharmaceutical Bulletin, 2017, [관찰연구], DOI: [10.1248/bpb.b17-00340](https://doi.org/10.1248/bpb.b17-00340), PMID: [28781292](https://pubmed.ncbi.nlm.nih.gov/28781292/). — 증상 패턴과 갈근탕 주관적 유익감의 관계를 분석했다.
+[^50]: Efficacy and safety of Gegen Qinlian decoction for hyperglycemia. Complementary Therapies in Medicine, 2017, [메타분석], DOI: [10.1016/j.ctim.2017.05.004](https://doi.org/10.1016/j.ctim.2017.05.004), PMID: [28735827](https://pubmed.ncbi.nlm.nih.gov/28735827/). — 메트포르민 병용의 혈당 개선과 편향 위험을 평가했다.
+[^51]: Efficacy of Kampo medicine Kakkonto as acute medication for tension-type headache. Clinical Neurology, 2023, [관찰연구], DOI: [10.5692/clinicalneurol.cn-001812](https://doi.org/10.5692/clinicalneurol.cn-001812), PMID: [36725011](https://pubmed.ncbi.nlm.nih.gov/36725011/). — 소수 근골격계 통증 환자의 급성 두통 변화를 관찰했다.
+[^52]: Acupuncture at the xi point plus herbal intervention injection for lumbar disc prolapse. Journal of Traditional Chinese Medicine, 2008, [임상시험], DOI: [10.1016/S0254-6272(08)60041-2](https://doi.org/10.1016/S0254-6272(08)60041-2), PMID: [19004198](https://pubmed.ncbi.nlm.nih.gov/19004198/). — 혈어형 요추 추간판 탈출증에서 병용 치료를 조사했다.
+[^53]: Evaluation on safety of puerarin injection in clinical use. Chinese Journal of Chinese Materia Medica, 2018, [안전성 고찰], DOI: [10.19540/j.cnki.cjcmm.20180709.008](https://doi.org/10.19540/j.cnki.cjcmm.20180709.008), PMID: [30453723](https://pubmed.ncbi.nlm.nih.gov/30453723/). — 푸에라린 주사의 중증 이상반응 양상과 위험 시점을 분석했다.
+[^54]: A multi-center randomized controlled trial protocol of kakkonto with shosaikotokakikyosekko for COVID-19. Trials, 2020, [임상시험 프로토콜], DOI: [10.1186/s13063-020-04746-9](https://doi.org/10.1186/s13063-020-04746-9). — 경증·중등도 COVID-19 병용시험의 사전 설계를 제시했다.
+[^55]: Effect of Pueraria tuberosa on blood pressure, fibrinolysis and oxidative stress in stage 1 hypertension. Pakistan Journal of Biological Sciences, 2012, [임상시험], DOI: [10.3923/pjbs.2012.742.747](https://doi.org/10.3923/pjbs.2012.742.747), PMID: [24171260](https://pubmed.ncbi.nlm.nih.gov/24171260/). — 다른 Pueraria 종 뿌리의 혈압·산화 스트레스 지표를 평가했다.
+[^56]: Kudzu extract treatment does not increase the intoxicating effects of acute alcohol in human volunteers. Alcoholism: Clinical and Experimental Research, 2011, [임상시험], DOI: [10.1111/j.1530-0277.2010.01390.x](https://doi.org/10.1111/j.1530-0277.2010.01390.x), PMID: [21244439](https://pubmed.ncbi.nlm.nih.gov/21244439/). — 갈근 추출물이 급성 알코올 취기를 증가시키는지 평가했다.
+[^57]: Therapeutic effects of puerarin on polycystic ovary syndrome. Medicine, 2021, [임상시험], DOI: [10.1097/MD.0000000000026049](https://doi.org/10.1097/MD.0000000000026049). — 다낭성 난소 증후군에서 대사·호르몬 지표를 평가했다.
+[^58]: The Effect of Puerarin on Carotid Intima-media Thickness in Active Rheumatoid Arthritis. Clinical Therapeutics, 2018, [임상시험], DOI: [10.1016/j.clinthera.2018.08.014](https://doi.org/10.1016/j.clinthera.2018.08.014), PMID: [30245282](https://pubmed.ncbi.nlm.nih.gov/30245282/). — 류마티스관절염의 혈관·인슐린 저항성 지표를 평가했다.
+[^59]: The therapeutic effect and possible harm of puerarin for stage III diabetic nephropathy. Alternative Therapies in Health and Medicine, 2015, [메타분석], PMID: [25599431](https://pubmed.ncbi.nlm.nih.gov/25599431/). — ACE 억제제 병용과 요알부민 배설 변화를 종합했다.
+[^60]: A randomized placebo controlled trial of an innovative herbal formula in postmenopausal women. Complementary Therapies in Medicine, 2014, [임상시험], DOI: [10.1016/j.ctim.2014.03.010](https://doi.org/10.1016/j.ctim.2014.03.010), PMID: [24906587](https://pubmed.ncbi.nlm.nih.gov/24906587/). — 단삼·갈근 제제의 지질과 IMT를 평가했다.
+[^61]: Prescription profile of Chinese herbal products containing coumestrol, genistein, and daidzein. Chinese Medicine, 2012, [관찰연구], DOI: [10.1186/1749-8546-7-22](https://doi.org/10.1186/1749-8546-7-22), PMID: [23072740](https://pubmed.ncbi.nlm.nih.gov/23072740/). — 여성 건강보험 자료에서 갈근·갈근탕 처방 양상을 분석했다.
