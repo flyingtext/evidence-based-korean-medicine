@@ -14,11 +14,15 @@
 
 소음인의 특성을 비위 기능 저하라는 고정된 질병으로 환원해서는 안 된다. 체계적 고찰은 소음인이 다른 체질보다 낮은 소화 기능과 낮은 BMI 경향을 보인다고 정리했으나, 포함 연구의 진단 기준과 표본이 이질적이었다.[^3] 기능성 소화불량 환자와 건강인 1,539명을 비교한 연구에서는 소음인 환자군에서 비위허한 관련 증상이 더 흔하게 관찰되었다.[^4]
 
+배설 증상도 비위 기능과 함께 확인할 축이다. 인간 대상 사상 배뇨·배변 도구 개발 연구는 소음인과 소양인 사이에서 요저류·배뇨 불편·비정상 배뇨 하위척도의 차이를 보고했다.[^33] 이 도구는 증상 정량화에 유용할 수 있으나, 요로감염·전립선질환·골반저 장애·신경인성 방광의 진단 검사를 대체하지 않는다.
+
 ### 3. 체질 진단의 원칙
 
 체질 진단은 단일 설문지·안면·피부탄성·BMI로 확정하지 않는다. 사상체질 성격 설문과 BMI를 함께 분석한 2,506명 연구에서는 두 지표 모두 체질군 간 차이를 보였지만, 각각은 보조 정보일 뿐이다.[^5] 손 피부 탄성을 이용한 인간 대상 측정 연구도 태음인과 소음인을 보조적으로 구별할 가능성을 제시했지만, 임상 사진을 대체하지는 못한다.[^6]
 
 진단 과정에서는 ① 반복되는 소화·대변·땀·수면·한열 양상, ② 체형과 BMI, ③ 성정과 스트레스 반응, ④ 현재 병증의 표리·한열·허실, ⑤ 검사로 확인할 수 있는 기질 질환을 순서대로 통합한다. 체형·체성분 차이의 상당 부분은 BMI 보정 뒤 사라질 수 있었으므로, 체질과 체격을 같은 정보로 취급하지 않는다.[^7]
+
+1,663명의 신체 지표 비교 연구에서도 소음인·소양인·태음인 사이에 체질량지수, 체질량지수와 체중을 결합한 지표, 기초대사량 추정치가 달랐다.[^31] 이는 체형·대사 지표가 진단의 후보 정보임을 보강하지만, 체질 간 분포가 겹치므로 개별 환자의 체질을 확정하는 절단값으로 사용할 수는 없다. 3,711명 다기관 체질은행에서도 만성질환 빈도는 체질군별로 달랐으나, 코호트의 체질 분포와 의뢰 편향을 함께 고려해야 한다.[^32]
 
 ### 4. 유사 체질과의 감별
 
@@ -45,15 +49,23 @@
 
 28명 파일럿 연구에서는 소음인에서 식후 30분 peptide YY가 가장 높았다.[^13] 이는 체질별 식욕 조절 호르몬의 차이 가능성을 보여 주지만, 특정 식이를 권하는 생체표지자로 사용하기에는 표본이 작다. 식사 속도·식사량·식욕을 검토한 체계적 문헌고찰도 태음인의 빠른 식사와 큰 식사량에 비해 소음인이 대조적 경향을 보인다고 정리했다.[^14]
 
+건강한 남성 48명을 대상으로 한 청국장 이소플라본 연구에서 소음인군은 다른 체질군보다 최대 혈중 농도 도달 시간과 제거 반감기가 길었다.[^34] 식품 성분의 체내 동태 차이를 탐색한 자료이므로, 특정 발효식품을 소음인 치료식으로 일반화할 근거는 아니다. 체질과 프라크리티 자료의 장내미생물 기능 비교도 소음인과 Vata 군에서 탄수화물·아미노산 대사 기능의 유사성을 탐색했지만, 상이한 체계 사이의 비교 관찰이라는 한계가 있다.[^35]
+
 ### 7. 체성분·근감소와 대사 위험
 
 소음인에서 낮은 체중을 건강의 지표로 오인하지 않는다. 1,204명 연구에서 소음인은 근감소증 유병률 44.7% 및 태음인 대비 높은 위험도를 보였으며, 근력·보행·영양 섭취를 직접 추적할 필요를 시사했다.[^15] 반면 체질별 체성분과 체력 차이는 BMI 보정 시 약화될 수 있어, 체질만으로 근감소를 예측할 수는 없다.[^7]
 
+304명의 점증 운동 연구에서는 체질군 사이에 발한과 체온조절 반응의 차이가 관찰되었다.[^36] 또 111명 연구에서는 소음인이 태음인보다 전완 피부 점탄성은 낮고 탄성 이력은 높은 양상을 보였다.[^37] 두 연구 모두 집단 평균의 생리적 차이를 탐색한 것이므로, 냉증·피부 상태의 진단이나 치료 반응을 단독으로 예측하지 않는다.
+
 대사증후군, 제2형 당뇨병, 비알코올성 지방간, 고혈압은 주로 태음인에서 더 높은 위험이 보고되었고 소음인은 비교 기준군으로 활용되었다.[^16][^17][^18][^19] 소음인 환자도 비만·복부비만·약물·연령에 따른 대사 위험을 독립적으로 평가해야 한다.
+
+3,334명 코호트에서 체질은 대사증후군 구성요소 수와 독립적으로 연관되었으며, 다른 연구에서는 남성 태음인의 전고혈압 위험이 소음인보다 높았다.[^38][^39] 소음인이라는 점을 대사질환의 보호 요인으로 단정하지 말고, 허리둘레·혈압·공복혈당·지질을 정기적으로 측정한다. 소음인 남성의 암 발생 경향을 탐색한 1,924명 연구도 있었으나, 암 부위별 위험을 확정하거나 별도 선별 전략을 정할 수준의 근거는 아니다.[^40]
 
 ### 8. 심리·수면·자율신경 특성
 
 소음인은 위험회피와 신경증이 상대적으로 높은 경향을 보인다는 체계적 문헌고찰이 있으나, 체질이 정신질환 진단명이 되는 것은 아니다.[^20] 아동 임상 표본에서도 체질별 기질, 특히 새로움 추구가 달랐지만 소음인 표본은 13명에 불과했다.[^21] 불면, 우울, 공황, 자살 사고, 섭식 변화는 체질 해석에 앞서 표준 정신건강 평가와 필요 시 정신건강의학과 공동 관리를 적용한다.
+
+체질별 건강관리 행동을 조사한 고령자 189명 연구에서 소음인은 활동·휴식, 수면, 계절 건강관리 영역 점수가 높았다.[^41] 이는 자기보고식 생활 습관의 단면 자료이므로 개인의 수면·정서 상태를 예측하는 근거가 아니다. 수면장애 평가에서는 체질보다 코골이, 무호흡 목격, 주간 졸림, 우울·불안, 약물과 교대근무를 우선 확인한다.[^42]
 
 당뇨를 동반한 자율신경실조증·섬유근육통 소음인 증례에서는 침·뜸·대건중탕·소국건비환 병용 뒤 통증 수치와 자율신경 기능 검사가 호전되었다.[^22] 단일 증례는 치료 조합의 인과 효과를 분리할 수 없으므로, 자율신경 증상에는 혈당 조절, 기립혈압, 심전도, 약물 평가가 병행되어야 한다.
 
@@ -112,11 +124,15 @@
 
 소음인 증례에서 침·뜸은 한약과 함께 사용되었으나, 특정 혈위 또는 단독 효과를 확정할 비교 연구는 확인되지 않았다.[^22][^26][^27] 침구와 온열요법은 변증, 통증 위치, 피부 감각, 혈류 상태에 따라 계획하며, 말초허혈·감각저하·피부손상 위험이 있으면 화상과 조직 손상을 예방해야 한다.
 
+난소암 화학요법 중인 소음인 1명에게 2주간 한방 음악치료를 적용한 증례에서는 정서 지표와 주관적 건강 VAS가 변화했다.[^43] 이 결과는 암 치료의 보완적 정서 지지 가능성을 제시하는 수준이며, 항암치료·통증치료 또는 정신종양학적 평가를 대체하지 않는다.
+
 ### 16. 치료 근거와 안전성
 
 소음인 대상 무작위 이중눈가림 분할안면 시험에서 21명은 12주간 체질 기반 국소 한방 크림 사용 후 피부 거칠기·매끈함 지표가 위약보다 개선되었고 피부 안전성이 보고되었다.[^28] 이는 국소 화장품 연구의 근거이며, 전신 소음인 치료 효과로 일반화할 수 없다.
 
 한약은 항응고제·항혈소판제·혈당강하제·항고혈압제·진정제와의 병용을 처방별로 검토한다. 임신·수유, 급성 복증, 간·신기능 저하, 다약제 복용에서는 성분과 용량을 확인하고, 발진·설사·두근거림·부종·황달이 발생하면 복용을 중지하고 평가한다.
+
+여성 22명을 포함한 단일눈가림 무작위시험에서는 홍삼이 요중 bisphenol A와 malondialdehyde, 일부 부인과 증상에 미친 변화를 탐색했고, 소음인 하위군에서 불면·열감·발한·식욕의 변화가 보고되었다.[^44] 표본이 작고 하위군 결과이므로, 체질만으로 홍삼 사용을 결정하거나 내분비·부인과 증상 치료 효과로 단정하지 않는다.
 
 ## 제5편 KCD 질환군별 임상 적용
 
@@ -147,6 +163,8 @@
 **⑤ 예후.** 악력과 신체수행, HbA1c, 통증·수면·피로의 동반 개선 여부를 본다.
 
 **⑥ 관리.** 악력, 5회 의자 일어서기, 보행속도, 체중·근육량, HbA1c, NRS와 FIQR을 추적한다.
+
+인슐린저항성과 고혈압의 체질별 연관을 보고한 관찰연구에서는 위험도가 주로 태음인에서 높았으며 소음인은 비교군이었다.[^45][^46] 따라서 이 질환군의 소음인 관리에서는 체질보다 실제 혈당·혈압·체중·운동·약물 순응도를 추적의 중심에 둔다.
 
 ### 19. 순환기 질환군: 고혈압, 말초혈관 질환과 냉증
 
@@ -294,3 +312,19 @@
 [^28]: Wrinkle reduction using a Sasang constitutional medicine-based topical herbal cream in So-eum subjects: A split-face randomized double-blind placebo-controlled study. _Integrative Medicine Research_. 2022-03. [임상시험] [DOI 10.1016/j.imr.2021.100752](https://doi.org/10.1016/j.imr.2021.100752) [PMID 34345586](https://pubmed.ncbi.nlm.nih.gov/34345586/) — 소음인 대상 국소 크림의 피부 지표와 안전성을 비교한 무작위 이중눈가림 연구.
 [^29]: Menstrual cycle and Yin-Yang in healthy nursing college students. _Complementary Therapies in Clinical Practice_. 2005-11. [관찰연구] [DOI 10.1016/j.ctcp.2005.05.006](https://doi.org/10.1016/j.ctcp.2005.05.006) [PMID 16290898](https://pubmed.ncbi.nlm.nih.gov/16290898/) — 월경 기간의 체질 차이를 관찰했으나 광범위한 월경 특성 차이는 제한적이었다.
 [^30]: Life guidelines of the Sasang constitutional medicine in the management of 'Mibyeong' in Korea. _Geriatrics & Gerontology International_. 2004-09. [문헌 고찰] [DOI 10.1111/j.1447-0594.2004.00205.x](https://doi.org/10.1111/j.1447-0594.2004.00205.x) — 소음인 미병 관리의 생활 원칙을 정리한 문헌 근거.
+[^31]: Best-fit index for describing physical perspectives in Sasang typology. _Integrative Medicine Research_. 2015-03. [관찰연구] [DOI 10.1016/j.imr.2014.11.001](https://doi.org/10.1016/j.imr.2014.11.001) [PMID 28664105](https://pubmed.ncbi.nlm.nih.gov/28664105/) — 1,663명에서 체질별 신체 지표의 차이를 비교한 진단 보조 근거.
+[^32]: Constitutional multicenter bank linked to Sasang constitutional phenotypic data. _BMC Complementary and Alternative Medicine_. 2015-03-10. [관찰연구] [DOI 10.1186/s12906-015-0553-3](https://doi.org/10.1186/s12906-015-0553-3) [PMID 25887924](https://pubmed.ncbi.nlm.nih.gov/25887924/) — 체질은행의 소음인 분포와 만성질환 빈도를 기술한 다기관 자료.
+[^33]: Development and validation of Sasang Urination and Defecation Inventory for pathophysiological symptoms of Sasang typology. _Integrative Medicine Research_. 2019-06. [실험연구] [DOI 10.1016/j.imr.2019.04.001](https://doi.org/10.1016/j.imr.2019.04.001) [PMID 31080732](https://pubmed.ncbi.nlm.nih.gov/31080732/) — 인간 대상 배뇨·배변 증상 도구의 개발과 체질 간 하위척도 차이를 제시.
+[^34]: Nutrikinetic study of fermented soybean paste isoflavones according to the Sasang typology. _Nutrition Research and Practice_. 2020-04. [관찰연구] [DOI 10.4162/nrp.2020.14.2.102](https://doi.org/10.4162/nrp.2020.14.2.102) [PMID 32256984](https://pubmed.ncbi.nlm.nih.gov/32256984/) — 소음인에서 청국장 이소플라본의 혈중 체류 시간이 길었던 소규모 인체 연구.
+[^35]: Comparative gut microbiome analysis of the Prakriti and Sasang systems reveals functional level similarities in constitutionally similar classes. _3 Biotech_. 2020-09. [관찰연구] [DOI 10.1007/s13205-020-02376-1](https://doi.org/10.1007/s13205-020-02376-1) [PMID 32802721](https://pubmed.ncbi.nlm.nih.gov/32802721/) — 소음인과 Vata의 장내미생물 기능 유사성을 탐색한 비교 연구.
+[^36]: Thermoregulatory Responses to Graded Exercise Differ among Sasang Types. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구] [DOI 10.1155/2015/879272](https://doi.org/10.1155/2015/879272) — 304명에서 점증 운동 중 체온조절 반응의 체질별 차이를 관찰.
+[^37]: Constitution-specific features of perspiration and skin visco-elasticity in SCM. _BMC Complementary and Alternative Medicine_. 2014-01-15. [관찰연구] [DOI 10.1186/1472-6882-14-24](https://doi.org/10.1186/1472-6882-14-24) [PMID 24422750](https://pubmed.ncbi.nlm.nih.gov/24422750/) — 소음인의 피부 점탄성과 발한 특성을 태음인과 비교한 자료.
+[^38]: Sasang Constitution May Play a Key Role in Increasing the Number of Sub-Elements of Metabolic Syndrome. _Journal of Alternative and Complementary Medicine_. 2016-03. [관찰연구] [DOI 10.1089/acm.2015.0209](https://doi.org/10.1089/acm.2015.0209) [PMID 26914220](https://pubmed.ncbi.nlm.nih.gov/26914220/) — 체질과 대사증후군 구성요소 수의 독립적 연관을 분석한 3,334명 연구.
+[^39]: Sasang constitution may act as a risk factor for prehypertension. _BMC Complementary and Alternative Medicine_. 2015-07-14. [관찰연구] [DOI 10.1186/s12906-015-0754-9](https://doi.org/10.1186/s12906-015-0754-9) [PMID 26169174](https://pubmed.ncbi.nlm.nih.gov/26169174/) — 남성 태음인의 전고혈압 위험이 소음인보다 높았던 2,806명 자료.
+[^40]: Cancer incidence varies significantly depending on sasang constitution of traditional Korean medicine. _Journal of Traditional Chinese Medicine_. 2013-06. [관찰연구] [DOI 10.1016/s0254-6272(13)60171-5](https://doi.org/10.1016/s0254-6272(13)60171-5) [PMID 24024325](https://pubmed.ncbi.nlm.nih.gov/24024325/) — 체질별 암 발생 차이를 탐색했으며 소음인 남성의 경향은 확증 연구가 필요하다.
+[^41]: A study on Yangsaeng of Korean older adults by 4 constitution types. _Holistic Nursing Practice_. 2012. [관찰연구] [DOI 10.1097/HNP.0b013e31826ed0ff](https://doi.org/10.1097/HNP.0b013e31826ed0ff) [PMID 23075748](https://pubmed.ncbi.nlm.nih.gov/23075748/) — 고령 소음인의 활동·휴식·수면·계절 건강관리 자기보고 특성을 조사.
+[^42]: Tae-eum type as an independent risk factor for obstructive sleep apnea. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/910382](https://doi.org/10.1155/2013/910382) [PMID 23554836](https://pubmed.ncbi.nlm.nih.gov/23554836/) — 수면무호흡 위험이 주로 태음인에서 높았음을 보여 체질 외 수면 위험요인 평가의 필요성을 뒷받침.
+[^43]: Effects of oriental medicine music therapy in an ovarian cancer patient with So-Eum-type constitution: a case report. _Integrative Medicine Research_. 2015-03. [증례 보고] [DOI 10.1016/j.imr.2014.12.002](https://doi.org/10.1016/j.imr.2014.12.002) [PMID 28664109](https://pubmed.ncbi.nlm.nih.gov/28664109/) — 소음인 난소암 환자에서 음악치료 뒤 정서·VAS 변화를 기록한 단일 증례.
+[^44]: Effects of Korean red ginseng on bisphenol A exposure and gynecologic complaints: single blind, randomized clinical trial of efficacy and safety. _BMC Complementary and Alternative Medicine_. 2014-07-25. [임상시험] [DOI 10.1186/1472-6882-14-265](https://doi.org/10.1186/1472-6882-14-265) [PMID 25063041](https://pubmed.ncbi.nlm.nih.gov/25063041/) — 소규모 임상시험의 소음인 하위군 증상 변화 자료로, 체질별 효과 확증에는 부족하다.
+[^45]: Sasang constitutional types can act as a risk factor for insulin resistance. _Diabetes Research and Clinical Practice_. 2011-03. [관찰연구] [DOI 10.1016/j.diabres.2010.11.017](https://doi.org/10.1016/j.diabres.2010.11.017) [PMID 21146241](https://pubmed.ncbi.nlm.nih.gov/21146241/) — 체질별 인슐린저항성 분포를 비교한 위험 연관성 자료.
+[^46]: The Sasang constitutional types can act as a risk factor for hypertension. _Clinical and Experimental Hypertension_. 2011. [관찰연구] [DOI 10.3109/10641963.2011.561901](https://doi.org/10.3109/10641963.2011.561901) [PMID 21958429](https://pubmed.ncbi.nlm.nih.gov/21958429/) — 태음인의 고혈압 위험 증가를 소음인을 포함한 비교군에서 관찰.
