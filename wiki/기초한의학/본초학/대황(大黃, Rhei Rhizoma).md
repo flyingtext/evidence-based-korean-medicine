@@ -75,7 +75,7 @@
 
 ## 처방 연관
 
-- 약재/처방: 대황은 [대조(大棗, Jujube)](대조(大棗, Jujube).md)·[작약(芍藥, Paeonia)](작약(芍藥, Paeonia).md)·[도인(桃仁, Persicae Semen)](도인(桃仁, Persicae Semen).md)·[부자(附子, Aconiti Lateralis Radix Praeparata)](부자(附子, Aconiti Lateralis Radix Praeparata).md)·[황금(黃芩, Scutellariae Radix)](황금(黃芩, Scutellariae Radix).md)·[황련(黃連, Coptidis Rhizoma)](황련(黃連, Coptidis Rhizoma).md)·[천궁(川芎, Ligusticum chuanxiong)](천궁(川芎, Ligusticum chuanxiong).md) 등과 배합되어 대황부자탕(大黃附子湯)·대황모단피탕(大黃牡丹皮湯)·대황주충환(大黃䗪蟲丸)·방풍통성산(防風通聖散) 등 공하·청열·거어 처방에 쓰인다.[^1][^2][^3][^27][^28][^29][^30][^31][^32]
+- 약재/처방: 대황은 대조(大棗, Jujube)·작약(芍藥, Paeonia)·도인(桃仁, Persicae Semen)·부자(附子, Aconiti Lateralis Radix Praeparata)·황금(黃芩, Scutellariae Radix)·황련(黃連, Coptidis Rhizoma)·천궁(川芎, Ligusticum chuanxiong) 등과 배합되어 대황부자탕(大黃附子湯)·대황모단피탕(大黃牡丹皮湯)·대황주충환(大黃䗪蟲丸)·방풍통성산(防風通聖散) 등 공하·청열·거어 처방에 쓰인다.[^1][^2][^3][^27][^28][^29][^30][^31][^32]
 - 경혈: 대황 함유 공하·청열 치료와 변비·복통의 변증에 경혈 요법(경혈부착 등)을 병행하는 근거가 있다.[^35]
 
 ## 안전성·주의사항

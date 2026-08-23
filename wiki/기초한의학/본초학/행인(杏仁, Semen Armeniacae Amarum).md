@@ -4,7 +4,7 @@
 
 ## 개요
 
-행인(杏仁, Semen Armeniacae Amarum)은 장미과(薔薇科, Rosaceae) 식물인 살구(Prunus armeniaca L. var. ansu Maximowicz) 및 북살구(Prunus sibirica L.) 등의 성숙한 종자를 건조한 본초로, 한의학에서 대표적인 지해평천약(止咳平喘藥)·윤장통변약(潤腸通便藥)으로 분류한다.[^1][^2] 맛은 고(苦)하고 성질은 미온(微溫)하며, 귀경(歸經)은 폐(肺)·대장(大腸)경에 작용하여 폐기(肺氣)를 선통(宣通)하고 기침·천식을 가라앉히며, 장을 윤활하게 하여 변비를 개선하는 효능을 지닌다.[^1] 본초학에서는 행인(杏仁)을 크게 고행인(苦杏仁, 쓴맛이 강한 행인)과 감행인(甜杏仁, 단맛이 있는 행인)으로 구분하며, 한의학 처방에서 일반적으로 ‘행인’이라 하면 고행인(苦杏仁, Semen Armeniacae Amarum)을 가리킨다.[^1][^2] 유효 성분인 아미그달린(amygdalin)은 체내에서 효소 분해되어 시안화수소(hydrogen cyanide)·벤즈알데히드(benzaldehyde)를 생성하여 진해(鎭咳)·평천(平喘)·항균 작용을 나타내며,[^2][^3][^4] 동시에 과량 섭취 시 시안화물 중독의 위험이 있어 포제(炮製)와 용량 조절이 중요하다.[^5][^6] 행인(杏仁)은 [마황(麻黃)](마황(麻黃, Ephedra).md)·석고·[감초(甘草)](감초(甘草, Glycyrrhiza).md)와 배합된 마행석감탕(麻杏石甘湯), [마황(麻黃)](마황(麻黃, Ephedra).md)·[계지(桂枝)](계지(桂枝, Cinnamomi Cortex).md)·[감초(甘草)](감초(甘草, Glycyrrhiza).md)로 구성된 마황탕(麻黃湯), 그리고 삼오탕(三拗湯, 마황·행인·감초) 등 호흡기 질환의 핵심 처방에 널리 포함되어 임상 근거를 축적하고 있다.[^7][^8][^9][^10] 본 문서는 행인(杏仁) 단미 및 행인 함유 처방의 근거를 한의학 임상가 관점에서 정리한다.
+행인(杏仁, Semen Armeniacae Amarum)은 장미과(薔薇科, Rosaceae) 식물인 살구(Prunus armeniaca L. var. ansu Maximowicz) 및 북살구(Prunus sibirica L.) 등의 성숙한 종자를 건조한 본초로, 한의학에서 대표적인 지해평천약(止咳平喘藥)·윤장통변약(潤腸通便藥)으로 분류한다.[^1][^2] 맛은 고(苦)하고 성질은 미온(微溫)하며, 귀경(歸經)은 폐(肺)·대장(大腸)경에 작용하여 폐기(肺氣)를 선통(宣通)하고 기침·천식을 가라앉히며, 장을 윤활하게 하여 변비를 개선하는 효능을 지닌다.[^1] 본초학에서는 행인(杏仁)을 크게 고행인(苦杏仁, 쓴맛이 강한 행인)과 감행인(甜杏仁, 단맛이 있는 행인)으로 구분하며, 한의학 처방에서 일반적으로 ‘행인’이라 하면 고행인(苦杏仁, Semen Armeniacae Amarum)을 가리킨다.[^1][^2] 유효 성분인 아미그달린(amygdalin)은 체내에서 효소 분해되어 시안화수소(hydrogen cyanide)·벤즈알데히드(benzaldehyde)를 생성하여 진해(鎭咳)·평천(平喘)·항균 작용을 나타내며,[^2][^3][^4] 동시에 과량 섭취 시 시안화물 중독의 위험이 있어 포제(炮製)와 용량 조절이 중요하다.[^5][^6] 행인(杏仁)은 마황(麻黃)·석고·감초(甘草)와 배합된 마행석감탕(麻杏石甘湯), 마황(麻黃)·계지(桂枝)·감초(甘草)로 구성된 마황탕(麻黃湯), 그리고 삼오탕(三拗湯, 마황·행인·감초) 등 호흡기 질환의 핵심 처방에 널리 포함되어 임상 근거를 축적하고 있다.[^7][^8][^9][^10] 본 문서는 행인(杏仁) 단미 및 행인 함유 처방의 근거를 한의학 임상가 관점에서 정리한다.
 
 ## 하위 표제어(분류)
 
@@ -65,7 +65,7 @@
 ## 배합(配合)과 경혈/처방 연관
 
 - 처방: 마행석감탕(麻杏石甘湯)·마황탕(麻黃湯)·삼오탕(三拗湯)·청폐배독탕(淸肺排毒湯)·마자인환(麻子仁丸)·마행석간은교산(麻杏石甘銀翹散)·연화청온탕(蓮花淸瘟)·혈부축어탕(血府逐瘀湯)·도홍사물탕(桃紅四物湯) 등.[^7][^8][^9][^12][^19][^23][^36][^38][^44]
-- 배합: 행인은 [마황(麻黃)](마황(麻黃, Ephedra).md)과의 약쌍(藥對)으로 선폐지해(宣肺止咳)·평천(平喘) 작용을 강화하고, [계지(桂枝)](계지(桂枝, Cinnamomi Cortex).md)·[감초(甘草)](감초(甘草, Glycyrrhiza).md)와 배합되어 발한해표(發汗解表)를 보조하며, 석고와 배합되어 청열해표(淸熱解表)를 이룬다.[^7][^8][^14][^15] [도인(桃仁)](도인(桃仁, Persicae Semen).md)과 약쌍(藥對)을 이루어 활혈거어(活血祛瘀)를 돕고,[^43] 마자인(麻子仁)·[대황(大黃)](대황(大黃, Rhei Rhizoma).md)·[지실(枳實)](지실(枳實, Aurantii Fructus Immaturus).md)·[후박(厚朴)](후박(厚朴, Magnoliae Cortex).md)과 배합되어 윤장통변(潤腸通便)한다.[^23][^24]
+- 배합: 행인은 마황(麻黃)과의 약쌍(藥對)으로 선폐지해(宣肺止咳)·평천(平喘) 작용을 강화하고, 계지(桂枝)·감초(甘草)와 배합되어 발한해표(發汗解表)를 보조하며, 석고와 배합되어 청열해표(淸熱解表)를 이룬다.[^7][^8][^14][^15] 도인(桃仁)과 약쌍(藥對)을 이루어 활혈거어(活血祛瘀)를 돕고,[^43] 마자인(麻子仁)·대황(大黃)·지실(枳實)·후박(厚朴)과 배합되어 윤장통변(潤腸通便)한다.[^23][^24]
 - 제형: 전통 decoction·과립 decoction·마자인환 제제·마행석감탕 유래 하이드로젤 등.[^25][^47][^53][^54]
 
 ## Q&A
@@ -92,7 +92,7 @@
 [^5]: Severe cyanide poisoning from an alternative medicine treatment with amygdalin and apricot kernels in a 4-year-old child. 증례, 1명. DOI: [10.1007/s10354-014-0340-7](https://doi.org/10.1007/s10354-014-0340-7) · PMID: [25605411](https://pubmed.ncbi.nlm.nih.gov/25605411/). 아미그달린·살구씨 복용 후 시안화물 중독성 뇌병증·대사성 산증, 티오황산나트륨으로 회복.
 [^6]: Single oral dose toxicity study of prebrewed armeniacae semen in rats. 실험연구. DOI: [10.5487/TR.2013.29.2.091](https://doi.org/10.5487/TR.2013.29.2.091) · PMID: [24278634](https://pubmed.ncbi.nlm.nih.gov/24278634/). 내과(endocarp) 제거 전처리 행인이 아미그달린 함량을 유의하게 낮추고 2,000 mg/kg에서도 안전.
 [^7]: Posttreatment with Ma-Xing-Shi-Gan-Tang, a Chinese medicine formula, ameliorates lipopolysaccharide-induced lung microvessel hyperpermeability and inflammatory reaction in rat. 실험연구. DOI: [10.1111/micc.12144](https://doi.org/10.1111/micc.12144) · PMID: [24809727](https://pubmed.ncbi.nlm.nih.gov/24809727/). 마행석감탕이 LPS 유발 폐 미세혈관 투과성·염증·TLR4/Src/NF-κB 활성화 억제.
-[^8]: 행인(杏仁)이 [마황(麻黃)](마황(麻黃, Ephedra).md)·계지·감초와 배합된 마황탕(麻黃湯)의 발한해표·선폐평천 효능은 본초학·방제학 교과서적 임상 이론(교과서적 근거).
+[^8]: 행인(杏仁)이 마황(麻黃)·계지·감초와 배합된 마황탕(麻黃湯)의 발한해표·선폐평천 효능은 본초학·방제학 교과서적 임상 이론(교과서적 근거).
 [^9]: Separation, characterization and dose-effect relationship of the PPARgamma-activating compounds from San-ao decoction. 실험연구. DOI: [10.3390/molecules14103942](https://doi.org/10.3390/molecules14103942) · PMID: [19924040](https://pubmed.ncbi.nlm.nih.gov/19924040/). 삼오탕 EtOAc 분획에서 포르모노네틴이 PPAR-γ 활성화 주요 성분.
 [^10]: Exploring medication rules and mechanism of Chinese medicine for children with cough variant asthma based on data mining, network pharmacology, and molecular docking. 체계적 고찰. DOI: [10.1097/md.0000000000040023](https://doi.org/10.1097/md.0000000000040023). 감초·마황·고행인 핵심 조합이 TNF·IL-6·IL-17·PI3K-Akt 경로 조절.
 [^11]: Posttreatment with Ma-Xing-Shi-Gan-Tang ameliorates LPS-induced lung microvessel hyperpermeability and inflammatory reaction in rat. 실험연구. DOI: [10.1111/micc.12144](https://doi.org/10.1111/micc.12144) · PMID: [24809727](https://pubmed.ncbi.nlm.nih.gov/24809727/). 마행석감탕의 폐 혈관 투과성·염증 억제.
