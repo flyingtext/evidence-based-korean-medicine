@@ -37,7 +37,7 @@
 
 ## 경혈/처방 연관
 
-- 약재/처방: 길경은 [감초(甘草, Glycyrrhiza)](감초(甘草, Glycyrrhiza).md)·[시호(柴胡, Bupleuri Radix)](시호(柴胡, Bupleuri Radix).md)·[반하(半夏, Pinellia ternata)](반하(半夏, Pinellia ternata).md)·[후박(厚朴, Magnoliae Cortex)](후박(厚朴, Magnoliae Cortex).md)·[계지(桂枝, Cinnamomi Cortex)](계지(桂枝, Cinnamomi Cortex).md) 등과 배합되어 길경탕(桔梗湯)·소시호가길경석고탕(小柴胡加桔梗石膏湯)·가위길경탕(加味桔梗湯) 등 폐계 처방에 쓰인다.[^1][^5][^7][^10][^11][^12][^13][^14]
+- 약재/처방: 길경은 감초(甘草, Glycyrrhiza)·시호(柴胡, Bupleuri Radix)·반하(半夏, Pinellia ternata)·후박(厚朴, Magnoliae Cortex)·계지(桂枝, Cinnamomi Cortex) 등과 배합되어 길경탕(桔梗湯)·소시호가길경석고탕(小柴胡加桔梗石膏湯)·가위길경탕(加味桔梗湯) 등 폐계 처방에 쓰인다.[^1][^5][^7][^10][^11][^12][^13][^14]
 - 경혈: 길경을 포함한 선폐거담 치료와 경혈·약침 요법을 병행하는 근거가 있으며, 폐계 질환의 변증에 활용될 수 있다.
 
 ## Q&A

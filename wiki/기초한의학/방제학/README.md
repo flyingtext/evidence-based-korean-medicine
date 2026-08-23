@@ -4,122 +4,122 @@
 
 ## 문서 목록
 
-- [보중익기탕(補中益氣湯, Bojungikgi-tang)](보중익기탕(補中益氣湯).md)
+- 보중익기탕(補中益氣湯, Bojungikgi-tang)
   - 하위 표제어: 보중익기탕 · 보중익기탕가감방 · 보중익기탕 병용 요법
-- [황련해독탕(黃連解毒湯, Hwangryunhaedok-tang / Huanglian Jiedu Decoction / Orengedokuto)](황련해독탕(黃連解毒湯).md)
+- 황련해독탕(黃連解毒湯, Hwangryunhaedok-tang / Huanglian Jiedu Decoction / Orengedokuto)
   - 하위 표제어: 황련해독탕 · 황련해독탕 약침(藥鍼) · 발효 황련해독탕 · 가감방(오미자·옥죽 추가, 황금 제외) · 황련해독탕 병용 요법
-- [사군자탕(四君子湯, Sagunja-tang)](사군자탕(四君子湯).md)
+- 사군자탕(四君子湯, Sagunja-tang)
   - 하위 표제어: 사군자탕 · 가미/가감사군자탕 · 사군자탕 계열 처방(육군자탕·향사육군자탕·귀작사군자탕)
-- [육군자탕(六君子湯, Yukgunja-tang)](육군자탕(六君子湯).md)
-  - 하위 표제어: 육군자탕 · 가감육군자탕 · [향사육군자탕](향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction).md) · 육군자탕 계열 처방
-- [향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction)](향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction).md)
+- 육군자탕(六君子湯, Yukgunja-tang)
+  - 하위 표제어: 육군자탕 · 가감육군자탕 · 향사육군자탕 · 육군자탕 계열 처방
+- 향사육군자탕(香砂六君子湯, Xiangsha Liujunzi Decoction)
   - 하위 표제어: 향사육군자탕 · 가감향사육군자탕 · 향사육군자환·제제 · 향사육군자탕 병용 요법
-- [반하사심탕(半夏瀉心湯, Banhasasim-tang / Hangeshashinto)](반하사심탕(半夏瀉心湯).md)
+- 반하사심탕(半夏瀉心湯, Banhasasim-tang / Hangeshashinto)
   - 하위 표제어: 반하사심탕 · 가감 반하사심탕 · 한게샤신토(TJ-14) · 반하사심탕 국소 제제(가글·연고) · 사심탕(瀉心湯) 계열 파생 방제
-- [소시호탕(小柴胡湯, Sosihotang / Shosaikoto / Xiaochaihu Decoction)](소시호탕(小柴胡湯).md)
+- 소시호탕(小柴胡湯, Sosihotang / Shosaikoto / Xiaochaihu Decoction)
   - 하위 표제어: 소시호탕 · 소시호가감방(소시호가길경석고탕) · 쇼사이코토(TJ-9) · 대시호탕 · 시호계지탕 · 시호계지강탕 · 시호용골모려탕 · 시호제 기타 가감방
-- [시호계지탕(柴胡桂枝湯, Sihogyeji-tang / Saikokeishito / Chaihu Guizhi Decoction)](시호계지탕(柴胡桂枝湯).md)
+- 시호계지탕(柴胡桂枝湯, Sihogyeji-tang / Saikokeishito / Chaihu Guizhi Decoction)
   - 하위 표제어: 시호계지탕 · 사이케이시토(TJ-10) · 시호계지강탕 · 시호계지탕 가감방
-- [계지탕(桂枝湯, Gyeji-tang / Keishito / Guizhi Decoction)](계지탕(桂枝湯, Gyeji-tang).md)
+- 계지탕(桂枝湯, Gyeji-tang / Keishito / Guizhi Decoction)
   - 하위 표제어: 계지탕(桂枝湯) 원방 · 계지탕 가감방(계지탕가황기·계지탕가구주) · 계지 계열 파생 방제(시호계지탕·계지복령환·황기계지오물탕·계지소요지모탕·지실해백계지탕)
-- [대시호탕(大柴胡湯, Dachaihu Decoction / Daisaikoto)](대시호탕(大柴胡湯, Dachaihu Decoction).md)
+- 대시호탕(大柴胡湯, Dachaihu Decoction / Daisaikoto)
   - 하위 표제어: 대시호탕 원방 · 가미대시호탕 · 대시호탕-생강분 병용 · 다이사이코토(TJ-8)
-- [계지복령환(桂枝茯苓丸, Gyejibokryeong-hwan / Keishibukuryogan / Guizhi Fuling Wan)](계지복령환(桂枝茯苓丸).md)
+- 계지복령환(桂枝茯苓丸, Gyejibokryeong-hwan / Keishibukuryogan / Guizhi Fuling Wan)
   - 하위 표제어: 계지복령환 · 가미계지복령환 · 계지복령환가욕인(桂枝茯苓丸加薏苡仁) · 계지복령환 병용 요법
-- [소청룡탕(小青龍湯, Socheongryong-tang / Shoseiryuto / Xiaoqinglong Decoction)](소청룡탕(小青龍湯).md)
+- 소청룡탕(小青龍湯, Socheongryong-tang / Shoseiryuto / Xiaoqinglong Decoction)
   - 하위 표제어: 소청룡탕 · 소청룡탕가길경석고(小青龍湯加桔梗石膏) · 가미소청룡탕 · 쇼세이류토(TJ-19) · 소청룡탕 계열 병용 요법
-- [당귀작약산(當歸芍藥散, Dangguijagyak-san / Tokishakuyakusan / Danggui Shaoyao San)](당귀작약산(當歸芍藥散, Dangguijagyak-san).md)
+- 당귀작약산(當歸芍藥散, Dangguijagyak-san / Tokishakuyakusan / Danggui Shaoyao San)
   - 하위 표제어: 당귀작약산 · 토기샤쿠야쿠산(TJ-23) · 가미당귀작약산 · 당귀작약가감술유탕(TJ-38) · 당귀작약산가출계근탕 · 당귀작약탕(Tokito)
-- [반하백출천마탕(半夏白朮天麻湯, Banhabaekchulcheonma-tang / Banxia Baizhu Tianma Decoction)](반하백출천마탕(半夏白朮天麻湯).md)
+- 반하백출천마탕(半夏白朮天麻湯, Banhabaekchulcheonma-tang / Banxia Baizhu Tianma Decoction)
   - 하위 표제어: 반하백출천마탕 · 가감 반하백출천마탕 · 한게백출천마탕(Hangebyakujutsutemmato) · 반하백출천마탕 병용 요법 · 반하백출천마탕 유사·파생 방제
-- [소요산(逍遙散, Xiaoyao San / Kamishoyosan)](소요산(逍遙散, Xiaoyao San).md)
+- 소요산(逍遙散, Xiaoyao San / Kamishoyosan)
   - 하위 표제어: 소요산(逍遙散) · 가미소요산(加味逍遙散, Kamishoyosan TJ-24) · 단지소요산(丹梔逍遙散) · 가감소요산(加減逍遙散) · 소요환(逍遙丸) · 소요산 병용 요법
-- [가미소요산(加味逍遙散, Kamishoyosan)](가미소요산(加味逍遙散, Kamishoyosan).md)
+- 가미소요산(加味逍遙散, Kamishoyosan)
   - 하위 표제어: 가미소요산(加味逍遙散) · 가미쇼요산(TJ-24, Kamishoyosan) · 단지소요산(丹梔逍遙散) · 가감소요산(加減逍遙散) · 가미소요산 병용 요법
-- [오령산(五苓散, Oryeong-san / Goreisan / Wuling Powder)](오령산(五苓散).md)
+- 오령산(五苓散, Oryeong-san / Goreisan / Wuling Powder)
   - 하위 표제어: 오령산(五苓散) · 고려산(Goreisan, TJ-17) · 오령산 합방·병용 요법 · 가감오령산(加減五苓散) · 복령오령산가반하후배탕
-- [귀비탕(歸脾湯, Guibi-tang / Kihito / Guipi Tang)](귀비탕(歸脾湯).md)
+- 귀비탕(歸脾湯, Guibi-tang / Kihito / Guipi Tang)
   - 하위 표제어: 귀비탕(歸脾湯) · 가미귀비탕(加味歸脾湯, Gamiguibi-tang) · 기혼탕(貴魂湯, Kamikihito/TJ-24) · 귀비탕 계열 가감방
-- [천왕보심단(天王補心丹, Cheonwangbosim-dan / Tian Wang Bu Xin Dan)](천왕보심단(天王補心丹, Cheonwangbosim-dan).md)
+- 천왕보심단(天王補心丹, Cheonwangbosim-dan / Tian Wang Bu Xin Dan)
   - 하위 표제어: 천왕보심단(天王補心丹) 원방 · 천왕보심단 가감·병용 요법 · 천왕보심단 제제(과립·캡슐·환)
-- [산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction)](산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction).md)
+- 산조인탕(酸棗仁湯, Sanjoin-tang - Suanzaoren Decoction)
   - 하위 표제어: 산조인탕(酸棗仁湯) 원방 · 가감산조인탕(加味酸棗仁湯) · 산조인탕 병용 요법
-- [감맥대조탕(甘麥大棗湯, Gammakdaejo-tang - Ganmai Dazao Decoction)](감맥대조탕(甘麥大棗湯, Gammakdaejo-tang - Ganmai Dazao Decoction).md)
+- 감맥대조탕(甘麥大棗湯, Gammakdaejo-tang - Ganmai Dazao Decoction)
   - 하위 표제어: 감맥대조탕(甘麥大棗湯) 원방 · 가감 감맥대조탕(加減甘麥大棗湯) · 감맥대조탕 병용 요법
-- [인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction / Inchin-ko-to)](인진호탕(茵陳蒿湯, Injinho-tang - Yinchenhao Decoction).md)
+- 인진호탕(茵陳蒿湯, Injinho-tang / Yinchenhao Decoction / Inchin-ko-to)
   - 하위 표제어: 인진호탕(茵陳蒿湯) 원방 · 인진호탕 가감방(加味茵陳蒿湯) · 인친코토(Inchin-ko-to, TJ-135) 제제 · 인진호탕 병용 요법
-- [갈근탕(葛根湯, Galgeun-tang / Kakkonto)](갈근탕(葛根湯).md)
+- 갈근탕(葛根湯, Galgeun-tang / Kakkonto)
   - 하위 표제어: 갈근탕(葛根湯) · 마황탕(麻黃湯, Mao-to) · 갈근탕가천궁신이(葛根湯加川芎辛夷, Kakkontokasenkyushin'i) · 갈근탕가소시호탕가길경석고(葛根湯合小柴胡湯加桔梗石膏) · 갈근탕 병용 요법
-- [사물탕(四物湯, Si-Wu-Tang / Shimotsu-to)](사물탕(四物湯).md)
+- 사물탕(四物湯, Si-Wu-Tang / Shimotsu-to)
   - 하위 표제어: 사물탕(四物湯) · 도홍사물탕(桃紅四物湯) · 향부사물탕(香附四物湯) · 사물탕 병용 요법 · 사물탕 계열 파생 방제
-- [육미지황환(六味地黃丸, Yukmi Jihwang-hwan / Liuwei Dihuang Wan)](육미지황환(六味地黃丸).md)
+- 육미지황환(六味地黃丸, Yukmi Jihwang-hwan / Liuwei Dihuang Wan)
   - 하위 표제어: 육미지황환(六味地黃丸) · 육미지황탕(六味地黃湯) · 육미지황과립(六味地黃顆粒) · 육미지황연질캡슐(六味地黃軟膠囊) · 금궤신기환(金匱腎氣丸)·팔미지황환(八味地黃丸)
-- [팔미지황환(八味地黃丸, Palmijihwang-hwan / Hachimijiogan)](팔미지황환(八味地黃丸).md)
+- 팔미지황환(八味地黃丸, Palmijihwang-hwan / Hachimijiogan)
   - 하위 표제어: 팔미지황환(八味地黃丸) · 금궤신기환(金匱腎氣丸) · 하치미지오간(Hachimijiogan) · 고샤진키간(牛膝車前子八味地黃丸, Goshajinkigan)
-- [반하후박탕(半夏厚朴湯, Banhahubak-tang / Banxia Houpo Decoction)](반하후박탕(半夏厚朴湯).md)
+- 반하후박탕(半夏厚朴湯, Banhahubak-tang / Banxia Houpo Decoction)
   - 하위 표제어: 반하후박탕(半夏厚朴湯) · 가감 반하후박탕(加減半夏厚朴湯) · 한게코보쿠토(Hangekobokuto, TJ-16) · 반하후박탕 병용 요법 · 반하후박탕 유사·파생 방제
-- [생맥산(生脈散, Shengmai San / Shengmai Injection)](생맥산(生脈散, Shengmai San).md)
+- 생맥산(生脈散, Shengmai San / Shengmai Injection)
   - 하위 표제어: 생맥산(生脈散) · 생맥주사(生脈注射液, Shengmai Injection) · 생맥액(生脈液, Shengmai Liquid) · 생맥캡슐(生脈膠囊) · 생맥음(生脈陰) · 가감생맥산(加減生脈散) · 병용 요법
-- [십전대보탕(十全大補湯, Sipjeondaebo-tang / Juzentaihoto)](십전대보탕(十全大補湯).md)
+- 십전대보탕(十全大補湯, Sipjeondaebo-tang / Juzentaihoto)
   - 하위 표제어: 십전대보탕(十全大補湯) · 주젠타이호토(Juzentaihoto, TJ-48) · 가미십전대보탕(加味十全大補湯) · 시취안다부탕(Shi-quan-da-bu-tang, SQT)
-- [이진탕(二陳湯, Ijintang / Er Chen Tang)](이진탕(二陳湯).md)
+- 이진탕(二陳湯, Ijintang / Er Chen Tang)
   - 하위 표제어: 이진탕(二陳湯) · 가미이진탕(加味二陳湯) · 이진탕 병용 요법
-- [영계출감탕(苓桂朮甘湯, Yeonggyechulgam-tang / Lingguizhugan Decoction)](영계출감탕(苓桂朮甘湯).md)
+- 영계출감탕(苓桂朮甘湯, Yeonggyechulgam-tang / Lingguizhugan Decoction)
   - 하위 표제어: 영계출감탕(苓桂朮甘湯) · 료케이쥬츠칸토(Ryokeijutsukanto) · 영계출감탕 병용 요법
-- [오적산(五積散, Ojeok-san / Goshakusan)](오적산(五積散).md)
+- 오적산(五積散, Ojeok-san / Goshakusan)
   - 하위 표제어: 오적산(五積散) · 오적산 병용 요법 · 오적산 약물 상호작용
-- [맥문동탕(麥門冬湯, Maimendong Tang / Bakumondoto)](맥문동탕(麥門冬湯, Maimendong Tang).md)
+- 맥문동탕(麥門冬湯, Maimendong Tang / Bakumondoto)
   - 하위 표제어: 맥문동탕(麥門冬湯) · 가감맥문동탕(加減麥門冬湯) · 바쿠몬도토(Bakumondoto, TJ-29) · 맥문동탕 병용 요법
-- [온담탕(溫膽湯, Ondam-tang / Wendan Decoction)](온담탕(溫膽湯).md)
+- 온담탕(溫膽湯, Ondam-tang / Wendan Decoction)
   - 하위 표제어: 온담탕(溫膽湯) 원방 · 황련온담탕(黃連溫膽湯) · 청심온담탕(淸心溫膽湯) · 귀비온담탕(歸脾溫膽湯) · 대시호온담탕(大柴胡溫膽湯) · 온담탕 병용 요법
-- [용담사간탕(龍膽瀉肝湯, Yongdamsagan-tang / Longdan Xiegan Decoction)](용담사간탕(龍膽瀉肝湯).md)
+- 용담사간탕(龍膽瀉肝湯, Yongdamsagan-tang / Longdan Xiegan Decoction)
   - 하위 표제어: 용담사간탕(龍膽瀉肝湯) 원방 · 가미용담사간탕(加味龍膽瀉肝湯) · 용담사간환(龍膽瀉肝丸) · 용담사간탕 병용 요법
-- [시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang)](시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang).md)
+- 시호가용골모려탕(柴胡加龍骨牡蠣湯, Chaihu Longgu Muli Tang)
   - 하위 표제어: 시호가용골모려탕(柴胡加龍骨牡蠣湯) 원방 · 시호가용골모려탕 가감방 · 시호용골모려탕(柴胡龍骨牡蠣湯) · 시호가용골모려탕 병용 요법
-- [시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang)](시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang).md)
+- 시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang)
   - 하위 표제어: 시호용골모려탕(柴胡龍骨牡蠣湯) 원방 · 시호가용골모려탕(柴胡加龍骨牡蠣湯) · 사이코카류코츠보레이토(Saikokaryukotsuboreito) · 시호용골모려탕 수정방 · 시호용골모려탕 병용 요법
-- [천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin / Tianma Gouteng Decoction)](천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum - Tianma Gouteng Yin).md)
+- 천마구등음(天麻鉤藤飲, Cheonma-gudeung-eum / Tianma Gouteng Yin / Tianma Gouteng Decoction)
   - 하위 표제어: 천마구등음(天麻鉤藤飲) 원방 · 가감천마구등탕(加味天麻鉤藤湯) · 천마구등탕 제제(과립·중성약) · 천마구등음 병용 요법
-- [억간산(抑肝散, Yokukansan)](억간산(抑肝散, Yokukansan).md)
+- 억간산(抑肝散, Yokukansan)
   - 하위 표제어: 억간산(抑肝散) 원방 · 요쿠칸산(Yokukansan, TJ-54) · 억간산가진피반하(抑肝散加陳皮半夏, Yokukansankachimpihange) · 억간산 병용 요법
-- [방풍통성산(防風通聖散, Bangpungtongsung-san / Bofutsushosan)](방풍통성산(防風通聖散).md)
+- 방풍통성산(防風通聖散, Bangpungtongsung-san / Bofutsushosan)
   - 하위 표제어: 방풍통성산(防風通聖散) 원방 · 방풍통성환(防風通聖丸) · 방풍통성산 병용 요법 · 보푸쓰쇼산(TJ-62, Bofutsushosan)
-- [옥병풍산(玉屛風散, Yupingfeng San / Jade Wind-Barrier Powder)](옥병풍산(玉屛風散, Yupingfeng San).md)
+- 옥병풍산(玉屛風散, Yupingfeng San / Jade Wind-Barrier Powder)
   - 하위 표제어: 옥병풍산(玉屛風散) 원방 · 가미옥병풍산(加味玉屛風散) · 옥병풍산 제제(과립·탕액·캡슐) · 옥병풍산 병용 요법
-- [보양환오탕(補陽還五湯, Buyang Huanwu Decoction)](보양환오탕(補陽還五湯).md)
+- 보양환오탕(補陽還五湯, Buyang Huanwu Decoction)
   - 하위 표제어: 보양환오탕(補陽還五湯) 원방 · 보양환오탕가감(補陽還五湯加減) · 초극미분·제제 · 보양환오탕 병용 요법
-- [독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction)](독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction).md)
+- 독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction)
   - 하위 표제어: 독활기생탕(獨活寄生湯) 원방 · 가감독활기생탕 · 독활기생탕 병용 요법(추나·부항·온침)
-- [작약감초탕(芍藥甘草湯, Jakyakgamcho-tang / Shakuyaku-kanzo-to)](작약감초탕(芍藥甘草湯, Jakyakgamcho-tang).md)
+- 작약감초탕(芍藥甘草湯, Jakyakgamcho-tang / Shakuyaku-kanzo-to)
   - 하위 표제어: 작약감초탕(芍藥甘草湯) 원방 · 작약감초탕 제제(Shakuyaku-kanzo-to, TJ-68) · 작약감초탕 가감·병용 요법
-- [진무탕(真武湯, Zhenwu Decoction / Shinbuto)](진무탕(真武湯, Zhenwu Decoction).md)
+- 진무탕(真武湯, Zhenwu Decoction / Shinbuto)
   - 하위 표제어: 진무탕(真武湯) 원방 · 신부토(Shinbuto) · 금무탕(Jinmu-tang, 金武湯) · 가감 진무탕(加減真武湯) · 이신진무탕(二神真武湯)
-- [사역탕(四逆湯, Sini Decoction / Shigyakuto)](사역탕(四逆湯, Sini Decoction).md)
+- 사역탕(四逆湯, Sini Decoction / Shigyakuto)
   - 하위 표제어: 사역탕(四逆湯) 원방 · 당귀사역탕(當歸四逆湯) · 가미사역탕(加味四逆湯) · 통맥사역탕(通脈四逆湯) · 사역산(四逆散)
-- [평위산(平胃散, Pyeongwi-san / Pingwei San)](평위산(平胃散, Pyeongwi-san).md)
+- 평위산(平胃散, Pyeongwi-san / Pingwei San)
   - 하위 표제어: 평위산(平胃散) 원방 · 향사평위산(香砂平胃散) · 평위산 제제·추출물(Pyeongwee-San extract, KMP6) · 평위산 병용·계열 요법
-- [온경탕(溫經湯, Wenjing Decoction - Unkei-to)](온경탕(溫經湯, Wenjing Decoction - Unkei-to).md)
+- 온경탕(溫經湯, Wenjing Decoction - Unkei-to)
   - 하위 표제어: 온경탕(溫經湯) 원방 · 운케이토(Unkei-to) · 가감 온경탕(加減溫經湯) · 온경탕 병용 요법(침·뜸)
-- [소건중탕(小建中湯, Sogeonjung-tang / Shokenchuto)](소건중탕(小建中湯, Sogeonjung-tang).md)
+- 소건중탕(小建中湯, Sogeonjung-tang / Shokenchuto)
   - 하위 표제어: 소건중탕(小建中湯) 원방 · 소건중탕 제제(Shokenchuto) · 황기건중탕(黃芪建中湯) · 건중(建中) 계열 방제
-- [대건중탕(大建中湯, Daegeonjung-tang / Daikenchuto)](대건중탕(大建中湯, Daegeonjung-tang).md)
+- 대건중탕(大建中湯, Daegeonjung-tang / Daikenchuto)
   - 하위 표제어: 대건중탕(大建中湯) 원방 · 대건중탕 제제(Daikenchuto, TJ-100/TU-100) · 대건중탕 병용 요법 · 건중(建中) 계열 방제
-- [도홍사물탕(桃紅四物湯, Dohongsamul-tang / Taohong Siwu Decoction)](도홍사물탕(桃紅四物湯, Dohongsamul-tang).md)
+- 도홍사물탕(桃紅四物湯, Dohongsamul-tang / Taohong Siwu Decoction)
   - 하위 표제어: 도홍사물탕(桃紅四物湯) 원방 · 가미도홍사물탕(加味桃紅四物湯) · 도인홍화 계열 제제 · 도홍사물탕 병용 요법
-- [마황탕(麻黃湯, Mahuang Decoction - Mao-to)](마황탕(麻黃湯, Mahuang Decoction - Mao-to).md)
+- 마황탕(麻黃湯, Mahuang Decoction - Mao-to)
   - 하위 표제어: 마황탕 원방 · 마오토(Mao-to) · 마황 계열 파생 방제(마행석감탕·사간마황탕·마황부자세신탕) · 마황탕 병용 요법
-- [은교산(銀翹散, Yinqiao San - Eunkyo-san)](은교산(銀翹散, Yinqiao San - Eunkyo-san).md)
+- 은교산(銀翹散, Yinqiao San - Eunkyo-san)
   - 하위 표제어: 은교산 원방 · 은교해독제(銀翹解毒劑) 제형 · 마행석감은교산 합방 · 은교산 병용 요법
-- [곽향정기산(藿香正氣散, Gwakhyangjeonggi-san - Huoxiang Zhengqi San)](곽향정기산(藿香正氣散, Gwakhyangjeonggi-san - Huoxiang Zhengqi San).md)
+- 곽향정기산(藿香正氣散, Gwakhyangjeonggi-san - Huoxiang Zhengqi San)
   - 하위 표제어: 곽향정기산 원방 · 곽향정기액(藿香正氣液) · 곽향정기산 제형·품질 · 곽향정기산 병용 요법
-- [공진단(拱辰丹, Gongjin-dan / Gongjindan)](공진단(拱辰丹, Gongjin-dan).md)
+- 공진단(拱辰丹, Gongjin-dan / Gongjindan)
   - 하위 표제어: 공진단(拱辰丹) · 가미공진단(加味拱辰丹) · 경희공진단(慶熙拱辰丹) · 총명공진단(聰明拱辰丹) · 보골공진단(補骨拱辰丹)
 
 ## 제형론 (劑型論)
 
-개별 처방이 아닌, 제형(劑型)·조제·용법이 효능·효과·안전성에 미치는 차이를 정량 분석하는 방법론 주제 문서는 [제형론](제형론/README.md) 하위 폴더에 둔다.
+개별 처방이 아닌, 제형(劑型)·조제·용법이 효능·효과·안전성에 미치는 차이를 정량 분석하는 방법론 주제 문서는 제형론 하위 폴더에 둔다.
 
-- [처방 제형 방법에 따른 효능 효과 차이의 근거 기반 정량 분석](제형론/처방 제형 방법에 따른 효능 효과 차이의 근거 기반 정량 분석.md)
+- 처방 제형 방법에 따른 효능 효과 차이의 근거 기반 정량 분석
   - 하위 표제어: 제형별 약동학·생체이용률 비교 · 과립제 vs 탕제 · 중성약 vs 탕제 · 주사제 vs 경구제 · 외용·좌제·구강정 비교 · 조제법(분전/합전) · 포제 · 용법 · 초미립화·나노제형 · 제형별 안전성·약물상호작용
 
 ## 동음이의 분류

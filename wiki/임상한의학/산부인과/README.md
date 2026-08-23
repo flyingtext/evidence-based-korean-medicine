@@ -2,20 +2,20 @@
 
 ## 문서 목록
 
-- [월경통(月經痛, Dysmenorrhea)](월경통.md) (KCD-8: N94.4/N94.5)
+- 월경통(月經痛, Dysmenorrhea) (KCD-8: N94.4/N94.5)
   - 하위 표제어: 일차성 월경통(N94.4) · 이차성 월경통(N94.5) · 자궁내막증·자궁선근증 동반 월경통 · 청소년 월경통
-- [갱년기증후군(更年期症候群, Menopausal Syndrome)](갱년기증후군.md) (KCD-8: N95.1)
+- 갱년기증후군(更年期症候群, Menopausal Syndrome) (KCD-8: N95.1)
   - 하위 표제어: 폐경 이행기 증후군(N95.1) · 폐경 후 혈관운동성 증후군(N95.1) · 갱년기 불안·우울 동반형(N95.1) · 수술성 폐경 증후군(N95.1) · 항호르몬 요법 유발 갱년기 증상
-- [다낭성난소증후군(Polycystic Ovary Syndrome, PCOS)](다낭성난소증후군(Polycystic Ovary Syndrome, PCOS).md) (KCD-8: E28.2)
+- 다낭성난소증후군(Polycystic Ovary Syndrome, PCOS) (KCD-8: E28.2)
   - 하위 표제어: 비만형 PCOS(E28.2) · 비비만형 PCOS(E28.2) · PCOS-IR(인슐린 저항성 동반, E28.2) · 청소년 PCOS(E28.2) · PCOS 관련 불임(E28.2+N97)
-- [불임(不姙, Infertility)](불임(不姙, Infertility).md) (KCD-8: N97/N46)
+- 불임(不姙, Infertility) (KCD-8: N97/N46)
   - 하위 표제어: 여성 불임(N97) · 남성 불임(N46) · 원인불명 불임 · 다낭성 난소 증후군(PCOS) 관련 불임 · 보조생식술(ART) 병행 불임
   - 하위 표제어: 비만형 PCOS(E28.2) · 비비만형 PCOS(E28.2) · PCOS-IR(인슐린 저항성 동반, E28.2) · 청소년 PCOS(E28.2) · PCOS 관련 불임(E28.2+N97)
-- [자궁내막증(子宮內膜症, Endometriosis)](자궁내막증(子宮內膜症, Endometriosis).md) (KCD-8: N80)
+- 자궁내막증(子宮內膜症, Endometriosis) (KCD-8: N80)
   - 하위 표제어: 난소 자궁내막증(N80.1) · 복벽 자궁내막증(N80.8) · 자궁내막증 관련 불임(N80+N97) · 자궁내막증 관련 월경통(N80+N94.4) · 자궁선근증(N80.0)
-- [자궁근종(子宮筋腫, Uterine Fibroid/Leiomyoma)](자궁근종(子宮筋腫, Uterine Fibroid).md) (KCD-8: D25)
+- 자궁근종(子宮筋腫, Uterine Fibroid/Leiomyoma) (KCD-8: D25)
   - 하위 표제어: 점막하 근종(D25.0) · 장막하 근종(D25.2) · 근층내 근종(D25.1) · 경부 근종(D25.8) · 유경성 근종(D25.8)
-- [유방암(乳巖, Breast Cancer)](유방암(乳巖, Breast Cancer).md) (KCD-8: C50)
+- 유방암(乳巖, Breast Cancer) (KCD-8: C50)
   - 하위 표제어: 호르몬 수용체 양성(HR+/HER2−) · HER2 양성 · 삼음성(TNBC) · 유방암 관련 림프부종(I89.0) · 유방암 수술 후 통증 증후군(G89.4) · 유방암 생존자 갱년기 증상(N95.1)
 
 ## 동음이의 분류
