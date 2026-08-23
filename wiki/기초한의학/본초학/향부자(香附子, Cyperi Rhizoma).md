@@ -27,6 +27,12 @@
 - 향부자 항혈전 성분(누톡카톤)은 항혈소판 작용을 나타내며, 향부자 함유 처방은 골반염증질환의 항염 작용 근거를 보인다.[^6][^12]
 - 향부자·시호 약재 쌍(柴香對)은 간세포암의 치료 기전 연구에서 다중 데이터 통합·분자 도킹으로 그 효과 기전이 탐색되었다.[^13]
 - 향부자 추출물은 에탄올 유발 위 점막 손상에 대한 보호 작용 실험 근거를 보인다.[^14]
+- 향부자를 핵심 약재로 하는 칠제향부환(七製香附丸)은 원발성 생리통 환자 71명 무작위 이중맹검 위약대조 RCT에서 통증 수치(VAS·MVRS)를 유의하게 감소시켰다.[^15]
+- 대만 전국 처방 데이터베이스 분석(기능성 자궁출혈 46,337명)에서 가미소요산·익모초와 함께 향부자가 핵심 처방·약재로 확인되었다.[^16]
+- 대만 전국 PCOS 처방 데이터베이스 조사에서도 가미소요산과 향부자가 가장 많이 사용된 처방으로 나타났으며, 경구피임약 사용이 어려운 환자군의 대안으로 제시되었다.[^17]
+- 간기울결(肝氣鬱結)형 갱년기 불면증 환자 120명 임상시험에서 침 치료와 가감 향부조(가감 香附調)를 병행한 군이 에스졸람 단독군보다 수면의 질·불안 개선이 우수하고 부작용이 적었다.[^18]
+- PCOS 처방 패턴 데이터마이닝(382명)에서 창부다단환(蒼附導痰丸)·육미지황환·도홍사물탕 기반 복합 처방이 신허(腎虛) 변증에 활용되었다.[^19]
+- 비만형 PCOS 네트워크 메타분석(1,163명)에서 향부자가 포함된 창부다단탕(蒼附導痰湯)이 BMI·LH 조절에 특히 유리한 것으로 나타났다.[^20]
 
 ## 임상 적용
 
@@ -74,3 +80,9 @@
 [^12]: Anti-inflammatory effect of traditional Chinese medicine preparation Penyanling on pelvic inflammatory disease. 실험연구, DOI: [10.1016/j.jep.2020.113405](https://doi.org/10.1016/j.jep.2020.113405)
 [^13]: Exploring the mechanisms underlying the therapeutic effect of the Radix Bupleuri-Rhizoma Cyperi herb pair on hepatocellular carcinoma using multilevel data integration and molecular docking. 실험연구, DOI: [10.18632/aging.204388](https://doi.org/10.18632/aging.204388)
 [^14]: Protective effect of Jiangbaiweiyan tablet on ethanol-induced gastric mucosa injury in rats. 실험연구, DOI: [10.3785/j.issn.1008-9292.2011.04.008](https://doi.org/10.3785/j.issn.1008-9292.2011.04.008)
+[^15]: Therapeutic effects of Chiljehyangbuhwan on primary dysmenorrhea: a randomized, double blind, placebo-controlled study. _Complementary Therapies in Medicine_. 2009-06. [임상시험] [DOI 10.1016/j.ctim.2008.08.003](https://doi.org/10.1016/j.ctim.2008.08.003) [PMID 19398065](https://pubmed.ncbi.nlm.nih.gov/19398065/) — 향부자 핵심 처방 칠제향부환이 원발성 생리통 통증 수치를 위약 대비 유의하게 감소. 향부자의 조경통통 효능에 대한 직접적 인체 RCT 근거.
+[^16]: The utilization of traditional Chinese medicine in patients with dysfunctional uterine bleeding in Taiwan: a nationwide population-based study. _BMC Complementary and Alternative Medicine_. 2017-08-29. [관찰연구] [DOI 10.1186/s12906-017-1939-1](https://doi.org/10.1186/s12906-017-1939-1) [PMID 28851349](https://pubmed.ncbi.nlm.nih.gov/28851349/) — 기능성 자궁출혈 환자 46,337명 중 89.7%가 중의학을 이용했으며 가미소요산·익모초·향부자가 핵심 처방·약재. 실사용 처방 패턴의 대규모 근거.
+[^17]: Investigation on the Use of Traditional Chinese Medicine for Polycystic Ovary Syndrome in a Nationwide Prescription Database in Taiwan. _Journal of Clinical Medicine_. 2018-07-22. [관찰연구] [DOI 10.3390/jcm7070179](https://doi.org/10.3390/jcm7070179) [PMID 30037150](https://pubmed.ncbi.nlm.nih.gov/30037150/) — 대만 PCOS 환자군에서 가미소요산과 향부자가 가장 빈용된 처방·약재로 확인. 경구피임약 사용이 어려운 환자군의 대안으로 제시.
+[^18]: [Clinical efficacy of acupuncture combined with modified Xiangfu Decoction in treatment of menopausal insomnia caused by liver Qi stagnation]. _China Journal of Chinese Materia Medica_. 2020-03. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20191010.501](https://doi.org/10.19540/j.cnki.cjcmm.20191010.501) [PMID 32281361](https://pubmed.ncbi.nlm.nih.gov/32281361/) — 간기울결형 갱년기 불면증 120명에서 침+가감 향부조 병행이 에스졸람 단독보다 수면·불안 개선 우수, 부작용 적음.
+[^19]: An Analysis of the Clinical Medication Rules of Traditional Chinese Medicine for Polycystic Ovary Syndrome Based on Data Mining. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. [관찰연구] [DOI 10.1155/2023/6198001](https://doi.org/10.1155/2023/6198001) — PCOS 382명 처방 데이터마이닝에서 향부자 함유 창부다단환 등이 신허 변증의 핵심 처방으로 확인.
+[^20]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. _Frontiers in Medicine_. 2025-07-28. [메타분석] [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131) — 비만형 PCOS 1,163명 네트워크 메타분석에서 향부자 함유 창부다단탕이 BMI·LH 조절에 특히 유리.
