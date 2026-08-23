@@ -134,21 +134,20 @@ read wiki/기초한의학/한방병리학/신양허\(腎陽虛,\ Kidney\ Yang\ D
 
 **포괄적 검색어 확장(강제)**: 단일 검색어에 그치지 않고 주제의 한글명·영문명·동의어·관련 증상·관련 처방·관련 경혈·관련 한의학 변증 용어 등을 조합해 여러 검색어로 반복 검색하고, `cat`(연구 유형)·`km`·`human`·`lit`·`source` 필터를 다양하게 조합해 임상시험·체계적 고찰·메타분석·관찰연구·증례 등 다양한 연구 유형의 논문을 확보한다.
 
+**검색은 `scripts/search.py`를 우선 사용한다(권장)**: `curl`로 `/search`를 직접 호출하는 대신 아래처럼 `python3 scripts/search.py`를 쓴다. DB(`pubmed_rss`)에 직결해 `per_page=100` 다중 페이지를 자동 순회하고, 동일 DOI/PMID를 자동 병합(중복 제거)하며, 동물실험(`is_human_study==0`인 `experimental_study`)을 기본적으로 제외하고, `--out`을 지정하면 §1-4-2-1 형식에 맞는 각주 정의 초안을 마크다운으로 바로 생성해준다. `--stats`로 연구유형·저널·연도 분포도 확인할 수 있다. DB 접속이 불가능한 환경에서는 `--api` 플래그로 기존 HTTP API 경로로 자동/수동 전환된다.
+
 ```bash
-# 주제별 논문 검색 (analyzed=1 우선 사용, per_page=100으로 전수 수집)
-curl -s "$BASE/search?q=검색어&km=1&human=1&analyzed=1&per_page=100"
+# scripts/search.py로 목표 수량 확보 (DOI 중복 제거, 다중 페이지 순회, 동물실험 자동 제외)
+python3 scripts/search.py "요통" --km --human --analyzed --per-page 100 --target 150 --stats --out /tmp/요통.md --json /tmp/요통.json
 
 # 연구 유형별 분리 검색
-curl -s "$BASE/search?q=검색어&cat=clinical_trial&analyzed=1&per_page=100"
-curl -s "$BASE/search?q=검색어&cat=systematic_review&analyzed=1&per_page=100"
-curl -s "$BASE/search?q=검색어&cat=meta_analysis&analyzed=1&per_page=100"
-curl -s "$BASE/search?q=검색어&cat=case_report&analyzed=1&per_page=100"
+python3 scripts/search.py "요통" --cat clinical_trial,meta_analysis --km --human --analyzed --per-page 100
 
-# 영문 동의어 검색 (PubMed/Crossref 소스)
-curl -s "$BASE/search?q=low back pain&source=pubmed&analyzed=1&per_page=100"
+# 영문 동의어 검색 (여러 검색어로 반복 실행 후 결과 병합)
+python3 scripts/search.py "low back pain" --km --human --analyzed --per-page 100
 
-# scripts/search.py로 목표 수량 확보 (DOI 중복 제거, 다중 페이지 순회)
-python3 scripts/search.py "요통" --km --human --analyzed --per-page 100 --target 50
+# DB 접속이 안 되거나 HTTP API 경로가 필요한 경우에만 curl 직접 호출로 대체
+curl -s "$BASE/search?q=검색어&km=1&human=1&analyzed=1&per_page=100"
 ```
 
 **연구 유형 우선 + 임상 참고 논문 필수 인용(강제)**: 최대한 높은 연구 유형(체계적 고찰/메타분석 > 임상시험 > 관찰연구 > 증례)의 논문을 우선 선별한다. 다만 낮은 연구 유형이라도 임상에 참고가 되는 논문(관찰연구·증례·파일럿 등)은 반드시 인용한다. **검색으로 확보한 관련 논문을 임의로 버리지 않고**, 높은 연구 유형을 우선하되 임상적 가치가 있는 논문은 빠짐없이 본문(각주)에 반영한다.
@@ -194,15 +193,15 @@ mkdir -p wiki/기초한의학/{원전,진단학,한방생리학,한방병리학,
 
 #### 1-3-3. 2단계 — 헤더별 근거 검색 + diff 채우기
 
-1단계에서 세운 목차의 **헤더를 하나씩 선택해**, 해당 헤더에 맞는 근거를 검색 API(`/search`)로 조회한 뒤 **diff(증분 편집) 방식으로 해당 헤더의 내용만 채운다.** 모든 헤더를 한 번에 채우지 않고, 한 헤더의 서술과 그에 연결된 각주 정의를 완성한 뒤 다음 헤더로 넘어간다.
+1단계에서 세운 목차의 **헤더를 하나씩 선택해**, 해당 헤더에 맞는 근거를 검색(`scripts/search.py` 우선, §1-2 참조)으로 조회한 뒤 **diff(증분 편집) 방식으로 해당 헤더의 내용만 채운다.** 모든 헤더를 한 번에 채우지 않고, 한 헤더의 서술과 그에 연결된 각주 정의를 완성한 뒤 다음 헤더로 넘어간다.
 
 ```bash
 # 2단계 예시: "병태생리" 헤더 채우기를 위한 근거 검색
-curl -s "$BASE/search?q=<병태생리 관련 검색어>&km=1&human=1&analyzed=1&per_page=100"
+python3 scripts/search.py "<병태생리 관련 검색어>" --km --human --analyzed --per-page 100
 
 # "KCD 질환군별 각론 - 조혈·빈혈군" 헤더 채우기
-curl -s "$BASE/search?q=iron deficiency anemia&analyzed=1&per_page=100"
-curl -s "$BASE/search?q=철결핍빈혈&km=1&human=1&analyzed=1&per_page=100"
+python3 scripts/search.py "iron deficiency anemia" --analyzed --per-page 100
+python3 scripts/search.py "철결핍빈혈" --km --human --analyzed --per-page 100
 ```
 
 **각 헤더 작성 시 준수 사항**:
@@ -406,8 +405,8 @@ curl -s "$BASE/search?q=철결핍빈혈&km=1&human=1&analyzed=1&per_page=100"
 ### 2-1. 문서 재검증 및 근거 갱신
 
 ```bash
-# 기존 문서의 주제로 최신 논문 재검색
-curl -s "$BASE/search?q=문서주제어&analyzed=1&per_page=100"
+# 기존 문서의 주제로 최신 논문 재검색 (권장: scripts/search.py)
+python3 scripts/search.py "문서주제어" --analyzed --per-page 100 --target 150 --stats
 
 # 최신 통계 확인
 curl -s "$BASE/stat"

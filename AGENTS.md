@@ -40,6 +40,8 @@
 
 베이스 URL: `https://med.symbolicinfo.com`
 
+**권장: 직접 `curl`로 `/search`를 호출하는 대신 `python3 scripts/search.py`를 사용한다.** DB에 직결해 `per_page=100` 다중 페이지를 자동 순회하고, 동일 DOI/PMID를 자동 병합하며, 동물실험(`is_human_study==0`)을 기본적으로 제외하고, `--out`으로 각주 정의 초안(마크다운)까지 바로 생성해준다. 사용법은 아래 "명령어" 절과 RUN.md §1-2를 참조.
+
 ### 1. 논문 검색 — `GET /search`
 
 `articles` / `article_analysis` 테이블을 DOI 기준으로 그룹화하여 검색. 같은 논문이 PubMed·Crossref 모두에 있으면 하나로 병합.
@@ -191,8 +193,8 @@ wiki/
 ## 명령어
 
 ```bash
-# 논문 검색 → 근거 수집
-python3 scripts/search.py "요통" --km --human --analyzed
+# 논문 검색 → 근거 수집 (권장: curl 대신 이 스크립트 사용)
+python3 scripts/search.py "요통" --km --human --analyzed --per-page 100 --target 150 --stats --out /tmp/요통.md --json /tmp/요통.json
 
 # 문서 품질 검증 (링크·KCD·표기)
 python3 scripts/validate.py
