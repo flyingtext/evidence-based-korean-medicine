@@ -71,5 +71,5 @@ RUN.md                # 작성·보강 명령어
 ## Maintainer
 
 - **윤지현** (flyingtext@nate.com)
-- 
+
 > 내용상 오류를 발견하신 경우 운영자에게 이메일(flyingtext@nate.com)로 알려주시면 신속히 수정하겠습니다.
