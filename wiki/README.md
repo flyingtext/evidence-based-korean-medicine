@@ -17,7 +17,7 @@ PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 �
 **저장소**: [github.com/flyingtext/evidence-based-korean-medicine](https://github.com/flyingtext/evidence-based-korean-medicine)
 
 > 본 위키는 AI를 활용해 생성한 문서로 오류나 오타가 있을 수 있습니다.
-> 개별 논문 데이터 추출에는 **Gemma 4 31B**, 위키 본문 작성에는 **DeepSeek V4 Flash**, **GLM-5.2**, **Claude(Anthropic)**를 사용했습니다.
+> 개별 논문 데이터 추출에는 **Gemma 4 31B**, 위키 본문 작성에는 **DeepSeek V4 Flash**, **GLM-5.2**, **Claude**(Anthropic)를 사용했습니다.
 > 내용상 오류를 발견하신 경우 운영자에게 이메일(flyingtext@nate.com)로 알려주시면 신속히 수정하겠습니다.
 
 ## 문서 구성
