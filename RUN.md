@@ -231,8 +231,10 @@ python3 scripts/search.py "철결핍빈혈" --km --human --analyzed --per-page 1
 각주 정의는 아래 **고정 포맷**을 따른다. 항목 순서·구분 기호(`.` `_` `[ ]` `—`)를 임의로 바꾸지 않는다.
 
 ```
-[^n]: <논문 제목>. _<저널명>_. <출판일(YYYY-MM-DD)>. [<연구종류 한국어 라벨>] <DOI/PMID 링크> — <근거 의미 부연 해석 한 줄>.
+[^n]: <논문 제목>. <저자>. _<저널명>_. <출판일(YYYY-MM-DD)>. [<연구종류 한국어 라벨>] <DOI/PMID 링크> — <근거 의미 부연 해석 한 줄>.
 ```
+
+**저자 표기 (강제)**: `/search` API의 `authors` 필드(쉼표로 구분된 저자 목록)에서 **제1저자만** 표기한다. 공동저자가 있으면 제1저자 이름 뒤에 `외`를 붙이고(예: `Kim JH 외`), 저자가 1인뿐이면 `외` 없이 이름만 적는다. 이름 표기는 API가 제공하는 형식을 그대로 쓰며 임의로 축약·변형하지 않는다. `authors` 필드가 비어 있으면 저자 항목 전체를 생략하되(빈 자리에 빈 문장부호를 남기지 않는다), 나머지 항목의 순서·구분 기호는 그대로 유지한다.
 
 **연구종류 한국어 라벨 (강제)**: API의 `research_category` 영문 값을 그대로 쓰지 않고, 아래 한국어 라벨로 변환하여 `[ ]` 안에 표기한다.
 
@@ -256,8 +258,10 @@ python3 scripts/search.py "철결핍빈혈" --km --human --analyzed --per-page 1
 
 **예시**:
 ```
-[^1]: The Effectiveness and Safety of Danggui Buxue Decoction for Iron Deficiency Anemia: A Systematic Review and Meta-Analysis. _The Journal of Internal Korean Medicine_. 2024-09-30. [메타분석] [DOI 10.22246/jikm.2024.45.4.549](https://doi.org/10.22246/jikm.2024.45.4.549) [PMID 10.22246/jikm.2024.45.4.549](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2024.45.4.549/) — 당귀보혈탕이 철결핍빈혈에서 통상치료 병용 시 적혈구·헤모글로빈·페리틴·유효율 개선, 이상반응 감소. 혈허 보조 한약의 대표적 임상 근거.
+[^1]: The Effectiveness and Safety of Danggui Buxue Decoction for Iron Deficiency Anemia: A Systematic Review and Meta-Analysis. Kim JH 외. _The Journal of Internal Korean Medicine_. 2024-09-30. [메타분석] [DOI 10.22246/jikm.2024.45.4.549](https://doi.org/10.22246/jikm.2024.45.4.549) [PMID 10.22246/jikm.2024.45.4.549](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2024.45.4.549/) — 당귀보혈탕이 철결핍빈혈에서 통상치료 병용 시 적혈구·헤모글로빈·페리틴·유효율 개선, 이상반응 감소. 혈허 보조 한약의 대표적 임상 근거.
 ```
+
+**기존 문서와의 관계**: 저자 표기는 앞으로 작성·보강하는 각주부터 적용한다. 기존 문서의 각주에 저자 항목이 없다고 해서 즉시 일괄 수정할 필요는 없으며, 해당 문서를 보강할 기회에 점진적으로 반영한다.
 
 **교과서적 근거 표기**: 한의과대학 교과서·원전(『내경』·『상한론』·『금궤』 등)에 표준적으로 수록된 이론적 내용은 각주를 달지 않고 본문에 `[교과서적 근거]` 표기를 붙인다. 이 표기는 각주 마커 `[^n]` 형식이 아니며, 각주 정의를 작성하지 않는다. 교과서적 이론 수준의 내용에 근거 등급(연구종류 라벨)을 매기지 않는다(§1-6 참조).
 
