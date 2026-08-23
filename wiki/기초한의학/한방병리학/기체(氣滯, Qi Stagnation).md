@@ -38,7 +38,7 @@
 
 장기간의 억울·분노·사려과다·불안이 장부의 소설·승강 기능을 실조시킨다. 특히 **억울(抑鬱)과 노(怒)의 반복**이 가장 직접적이다. "怒傷肝", "鬱怒傷肝"이라 하였다 [교과서적 근거].
 
-대규모 조사에서 한의학적 간(肝) 병증 중 **간울비허(肝鬱脾虛)가 최다 변증**으로 집계된 것은 정지내상의 임상 비중을 보여준다[^2]. 범불안장애(GAD) 147명을 대상으로 한 가미소요산(加味逍遙散) 다기관 무작위 이중맹검시험에서 변증 기반 선별이 효과 차이를 결정하였다[^3].
+대규모 조사에서 한의학적 간(肝) 병증 중 **간울비허(肝鬱脾虛)가 최다 변증**으로 집계된 것은 정지내상의 임상 비중을 보여준다[^2]. 범불안장애(GAD) 147명을 대상으로 한 가미소요산(加味逍遙散) 다기관 무작위 이중맹검시험에서 변증 기반 선별이 효과 차이를 결정하였다[^3]. 의과대학생 263명을 대상으로 한 조사에서 기체 체질군의 불안 발생 확률이 평형 체질 대비 약 8.6배 높았다[^263anx]. 대학생 2,108명을 대상으로 한 연구에서는 아동기 학대 경험이 우울로 이어지는 경로에서 **기체 체질이 매개 변수로 작용**하고 정서조절 능력이 이를 다시 조절하는 것으로 나타나, 정지내상-기체-우울 축의 심리학적 기전을 뒷받침한다[^2108mal]. 우울증 환자 397명의 변증 분포 조사에서도 간기울결·심비양허가 주된 변증으로 확인되었고, 연령·중증도에 따라 분포가 달랐다[^397dep2]. 대학생 403명 조사에서 기체·기허 변증이 우울 증상과 유의한 정적 상관을 보였다[^403dep3].
 
 #### 2-2. 음식부절(飮食不節)
 
@@ -286,6 +286,15 @@
 **③ 경도인지장애 환자의 변증별 언어작업기억 사건관련전위**[^73]
 변증에 따라 언어작업기억의 사건관련전위 지표가 유의하게 달랐다. 기체 관련 변증이 인지기능과도 연동될 가능성을 시사한다.
 
+**④ 범불안장애 71명의 디폴트모드망·현저성망 기능적 연결성**[^71dmn]
+휴지기 기능적 자기공명영상(rs-fMRI)에서 간기울결형과 간울화화형 사이에 디폴트모드망(DMN)·현저성망(SN) 기능적 연결성 패턴이 달랐다. 변증에 따른 뇌 네트워크 수준의 차이를 시사하는 인간 자료다.
+
+**⑤ 비우울 지역사회 노인 1,071명의 기체 체질과 경도인지장애**[^1071mci]
+기체 체질과 주관적 수면 특성(특히 입면 지연·주간 기능 저하)이 경도인지장애(MCI)의 유의한 위험 인자로 확인되었다. 인지기능 저하 이전 단계에서 기체 체질·수면 변화를 조기 선별 지표로 활용할 가능성을 시사한다.
+
+**⑥ 기허증·기체증의 신경-내분비-면역 생물학적 네트워크**[^neiqs]
+기허증은 면역 체계 불균형이, 기체증은 신경 체계 불균형이 더 두드러지는 방향으로 두 증후가 서로 다른 NEI(신경-내분비-면역) 네트워크 패턴을 보였으며, 갑상선·부신·성선 등 내분비계 이상이 관상동맥성 심장질환 발생과 연관되었다. 기체가 기허와 구분되는 독자적 생물학적 네트워크를 가질 가능성을 정량적으로 뒷받침한다.
+
 #### 7-3. 혈액 유변학·혈소판·응고 축 — 기체혈어(氣滯血瘀)의 생물학적 근거
 
 "氣行則血行, 氣滯則血瘀"라는 전통 병기는 현대 혈액 유변학·혈소판 활성·응고 지표에서 부분 지지된다.
@@ -341,6 +350,7 @@
 | --- | --- | --- |
 | 만성 B형간염 | 간담습열·간울비허·간허 | 혈장 단백체[^87], 말초혈액 유전자 발현[^88], 수지상세포 기능[^89] |
 | 간경변 | 비기허·간신음허·혈어 | 혈청 단백질 피크[^90] |
+| 간경변 | 어혈·습열내온·비신양허 | 문맥·비정맥 혈류 역학·간섬유화 지표 차이[^147cirr] |
 | 만성피로증후군 | 간비불화 vs 기혈양허 | 혈청 인산화 단백질 프로파일 군집 분리[^4] |
 | 월경전증후군 | 간기울결·간양상항 | 신경스테로이드·신경전달물질[^11] |
 | 관상동맥질환 | 기체혈어 vs 기허혈어 | 순환 microRNA[^22mir], 혈소판 활성[^22][^23] |
@@ -350,7 +360,7 @@
 | 비만·고지혈증 | 간울비허 | 대사 지표·자율신경[^49obe] |
 | 여드름 | 간울기체 | TLR2 유전 다형성[^25] |
 
-이들 소견은 변증군 사이에 측정 가능한 생물학적 차이가 존재할 가능성을 보여준다. 여기에 만성 B형간염의 5개 변증군을 비교한 혈장 단백체 연구[^87], 간신음허/습열온결의 유전자 발현 비교[^88]도 같은 방향의 보조 근거를 제공한다. 다만 **분류 알고리즘의 과적합, 질환 중증도에 의한 교란, 표본 규모, 외부 검증 부족**을 고려하면 "변증이 독립된 생물학적 실체로 확정되었다"기보다 "생물학적 이질성을 포착할 가능성이 있다"가 현재 근거에 맞는 표현이다.
+이들 소견은 변증군 사이에 측정 가능한 생물학적 차이가 존재할 가능성을 보여준다. 여기에 만성 B형간염의 5개 변증군을 비교한 혈장 단백체 연구[^87], 간신음허/습열온결의 유전자 발현 비교[^88], 간경변 147명의 변증별 문맥·비정맥 혈류 역학 차이[^147cirr]도 같은 방향의 보조 근거를 제공한다. 다만 **분류 알고리즘의 과적합, 질환 중증도에 의한 교란, 표본 규모, 외부 검증 부족**을 고려하면 "변증이 독립된 생물학적 실체로 확정되었다"기보다 "생물학적 이질성을 포착할 가능성이 있다"가 현재 근거에 맞는 표현이다.
 
 #### 7-8. 임상적으로 가장 중요한 함의
 
@@ -385,6 +395,10 @@
 #### 8-3. 비약물 요법
 
 **공(宮)조 음악요법**[^84]이 간기울결·비기허 임상 적용에서 보조 수단으로 활용된다. 기전은 주로 임상적 효과 관찰에 근거하며, 오음(五音) 요법은 이기·소간해울의 비약물 보조로 임상에 쓰인다.
+
+**신체-정신-영성(Body-Mind-Spirit) 그룹치료**[^111bms] — 기체증(氣滯症) 환자 111명 대상 무작위대조시험에서 6회기 그룹치료 후 기체증 증상뿐 아니라 우울·신체화 고통·일상 기능·부정적 정서가 유의하게 개선되었고, 2개월 추적 관찰에서 스트레스 생체지표인 코르티솔이 유의하게 감소하여 장기적 스트레스 조절 효과가 확인되었다. 심신 통합 중재가 기체 관리의 근거 기반 보조 수단이 될 수 있음을 시사한다.
+
+체질 진단이 우울증 예측 인자로 활용될 가능성을 다룬 체계적 고찰·메타분석에서 기체질·기허질 환자의 우울증 발생 위험이 유의하게 높았다[^36354mdd]. 관찰연구 1,639건을 종합한 문헌 고찰에서도 기체 체질이 유방 신생물·불면증 등과 높은 연관성을 보여, 체질 평가가 예방·맞춤형 관리 전략 수립에 활용될 수 있음을 뒷받침한다[^1639con].
 
 ---
 
@@ -704,7 +718,7 @@
 | 간기상역 (공황) | **시호소간탕 가 진경약** | 천식·격역·발작적 발현 |
 | 심담허 (공황) | **온담탕 / 안신정지환** | 담겁·심계·불면·다몽 |
 
-> 범불안장애 147명 가미소요산 다기관이중맹검[^3], 우울 보조 가미소요산-아미트립틸린 64명[^19], 항우울제 병용 자유방황자(가미소요산) 150명[^18], 우울 가미소요산-SSRI 병용[^20], 소요산계열 우울 보조 메타분석(735명)[^16], 가미소요산 항우울 메타분석[^17], 우울 한약 네트워크메타분석[^15]이 보고되었다. 뇌졸중 후 우울에 가미소요산이 효과를 보인 150명 시험[^18], 갑상선암 수술 후 우울 소간해울법 80명 무작위시험[^21]도 있다. 단치소요산 63명 시험에서 우울증 임상 효과[^63dep]. 가감소요산 105명 시험에서 클로미프라민 병용 우울 개선[^26clom].
+> 범불안장애 147명 가미소요산 다기관이중맹검[^3], 우울 보조 가미소요산-아미트립틸린 64명[^19], 항우울제 병용 자유방황자(가미소요산) 150명[^18], 우울 가미소요산-SSRI 병용[^20], 소요산계열 우울 보조 메타분석(735명)[^16], 가미소요산 항우울 메타분석[^17], 우울 한약 네트워크메타분석[^15]이 보고되었다. 간기울결형 범불안장애 60명 무작위시험에서 힐초근(纈草根, Valerianae Jatamansi) 복합 처방이 디낙싯(플루옥세틴 계열) 대조군과 유사한 효능을 보이면서 불안 증상·코르티솔 수치를 개선하고 부작용 발생률은 유의하게 낮았다[^60valer]. 간기울결형 불면증 환자에는 열민감성 뜸(태충·구허)이 에스졸람 대조군보다 높은 유효율을 보여, 부작용 우려가 있는 수면제 대신 안전한 보완 대안이 될 수 있다[^60moxib]. 뇌졸중 후 우울에 가미소요산이 효과를 보인 150명 시험[^18], 갑상선암 수술 후 우울 소간해울법 80명 무작위시험[^21]도 있다. 단치소요산 63명 시험에서 우울증 임상 효과[^63dep]. 가감소요산 105명 시험에서 클로미프라민 병용 우울 개선[^26clom].
 
 **침구**: 태충(LR3)·내관(PC6)·신문(HT7)·백회(GV20)·전중(CV17)·간유(BL18). 우울·불안 겸할 때는 삼음교(SP6)·족삼리(ST36) 보법 병용.
 
@@ -770,7 +784,7 @@
 
 #### ③ 병태생리
 
-월경전증후군 환자 90명에서 간기울결형·간양상항형이 신경스테로이드·신경전달물질 수치와 유의하게 달랐다[^11]. 전침이 불임 환자 210명에서 HLA-G 수치를 증가시켜 임신 결과를 개선하며, 특히 신허·간기울결 환자군에서 효과가 유의하게 높았다[^50ivf]. 전침이 체외수정정환 126명에서 신허·간기울결형 환자의 임신율·착상률·우수 배아율을 담습형 대비 유의하게 높였다[^52ivf].
+월경전증후군 환자 90명에서 간기울결형·간양상항형이 신경스테로이드·신경전달물질 수치와 유의하게 달랐다[^11]. 전침이 불임 환자 210명에서 HLA-G 수치를 증가시켜 임신 결과를 개선하며, 특히 신허·간기울결 환자군에서 효과가 유의하게 높았다[^50ivf]. 전침이 체외수정정환 126명에서 신허·간기울결형 환자의 임신율·착상률·우수 배아율을 담습형 대비 유의하게 높였다[^52ivf]. 청소년 다낭성난소증후군 환자 110명에서 간기울결(肝鬱氣滯) 증후의 중증도가 높을수록 갑상선자극호르몬(TSH) 수치가 유의하게 상승하여, PCOS의 내분비 불균형과 정지-기체 축이 서로 연동될 가능성을 시사한다[^110pcos].
 
 #### ④ 치료
 
@@ -892,7 +906,7 @@
 
 **"氣行則血行, 氣滯則血瘀"**가 심혈관 영역의 핵심 병기다. 기체→혈어→심맥통색→협심증·관상동맥질환. 기허혈어와 감별이 중요하다 — 기체혈어는 실증, 기허혈어는 허실夹잡.
 
-> 관상동맥질환 70명에서 심혈어체(기체혈어)·담탁정체 변증군에서 인슐린 저항성·지질 대사 장애가 뚜렷[^16ins]. 불안정형 협심증 815명에서 기체 변증 인자가 로지스틱 회귀로 확인[^5logit]. 불안정형 협심증 78명에서 기체혈어·기허혈어의 생물학적 차이[^22]. 기체혈어증 환자의 혈소판 활성 지표(CD62p·CD63·TSP) 상승[^23]. 관상동맥질환 29명에서 기체·기허 순환 microRNA 프로파일 차이[^22mir]. 관상동맥질환 기체혈어·기허혈어 네트워크 약리 분석에서 변증 특이적 분자 경로 차이[^7net].
+> 관상동맥질환 70명에서 심혈어체(기체혈어)·담탁정체 변증군에서 인슐린 저항성·지질 대사 장애가 뚜렷[^16ins]. 불안정형 협심증 815명에서 기체 변증 인자가 로지스틱 회귀로 확인[^5logit]. 불안정형 협심증 78명에서 기체혈어·기허혈어의 생물학적 차이[^22]. 기체혈어증 환자의 혈소판 활성 지표(CD62p·CD63·TSP) 상승[^23]. 관상동맥질환 29명에서 기체·기허 순환 microRNA 프로파일 차이[^22mir]. 관상동맥질환 기체혈어·기허혈어 네트워크 약리 분석에서 변증 특이적 분자 경로 차이[^7net]. 복잡계 네트워크 분석에서 관상동맥질환의 변증(혈어·기허·담탁 등)-치법(활혈·청열·익기)-본초(황기·단삼·당귀 등) 관계가 정량적으로 확인되어, 변증론치의 구조를 뒷받침한다[^cadnet].
 
 #### ③ 병태생리
 
@@ -1017,6 +1031,9 @@
 | 병형 | 주방·치법 | 근거 |
 | --- | --- | --- |
 | 대사증후군 기체습조 | **이기화습 한약** | 154명 위약대조시험, 대사 지표 개선[^14] |
+| 항정신병약물 유발 대사증후군 기체습조 | **육어탕(六瘀湯) 가감** | 154명 위약대조시험, 체중·허리둘레·BMI·PANSS 점수 개선[^154anti2] |
+| 다결절성·미만성 갑상선종 기체 | **행기화영탕(行氣化瘀湯)** | 72명 시험, 해조우후탕 대비 갑상선종 크기·증상 개선, 갑상선기능 영향 없음[^72goiter] |
+| 당뇨병성 망막병증 기체혈어 | **단삼적하환(丹蔘滴丸)** | 81명 시험, 캡토프릴 대비 망막병증 중증도·시력·황반부종 개선[^81dr] |
 | 비만·고지혈증 간울비허 | **침+고타법** | 104명 시험, 비만 지표·지질·자율신경 개선[^49obe] |
 | 고지혈증 기체혈어 | **강지통락 연질캡슐** | 체계적 고찰, 중성지방 개선[^36jiang] |
 | 2형 당뇨병 간울 | **단치소요산** | 51명 시험[^51dm] |
@@ -1081,6 +1098,7 @@
 | 대장암 항암화학요법 피로 기체 | **뇌화침(雷火灸)** | 77명 시험, 피로·수면·삶의 질 개선[^46thunder] |
 | 항암화학요법 기혈휴허 | **소간해울법** | 80명 무작위시험, 갑상선암 수술 후 우울[^21] |
 | 욕창·피부궤양 기체혈어 | **침·외치** | 증례[^woundacu] |
+| 황갈반(黃褐斑) 간기울결 | **침도매선(針刀埋線)** | 92명 시험, 비타민C·E 대비 유효율·MASI 개선, FSH·LH 조절 기전[^92chloa] |
 
 **침구**: 단중(CV17)·기문(LR14)·격유(BL17)·담유(BL19)·태충(LR3)·합곡(LI4)·혈해(SP10)·삼음교(SP6). 피부 질환에는 국소 아시혈·점자출혈.
 
@@ -1120,6 +1138,11 @@
 - **음식 부절**: 기름진 음식·과식·생랭이 비위기체·기체습조 악화.
 - **수면 부족**: 기체 체질은 수면 질 저하·피로·우울과 유의 상관[^7][^10][^19].
 - **기질질환 미배제**: 갑상선·종양·정신과 질환 동반 시 원인 치료 지연.
+- **노쇠(frailty) 위험**: 지역사회 노인 3,586명 조사에서 기체·기허·양허·담습·음허 등 편중 체질을 가진 경우 평형 체질보다 노쇠 상태일 가능성이 높았다. 노년 기체 환자는 노쇠 선별·예방 관리를 함께 고려한다[^3586frail].
+
+#### 20-4-1. 아건강(亞健康)·피로 관리
+
+피로 우세형 아건강(subhealth) 상태로 간기울결·비기허(肝氣鬱結·脾氣虛) 패턴을 보이는 환자 200명 무작위시험에서 소비익신(小脾益腎) 한약 추출물 과립이 6주 투여 후 신체 통증을 완화하고, 추적 관찰 기간까지 기분·정신 건강 개선이 지속되어 삶의 질을 유의하게 향상시켰다[^200subh]. 전국 22,153명 역학조사에서 개발된 단축형 체질설문지(CCMQ)는 혈어·기체 체질과 BMI의 유의한 상관을 확인하여, 진료 현장에서 체질을 신속히 평가하는 도구로 활용될 수 있다[^22153ccmq].
 
 #### 20-4. 회복 경과
 
@@ -1413,3 +1436,25 @@ Qigong in Treating Depression Caused by Liver Stagnation and Qi Stagnation _Prac
 [^6breast]: A Retrospective Study on the Treatment of Liver Qi Stagnation Combined with Chong–Ren Disharmony Syndrome of Mammary Hyperplasia Using Different Traditional Chinese Medicine Treatment Methods _Chinese medicine and natural products_. 2026-06. [관찰연구] 349명 [DOI 10.1055/a-2877-9376](https://doi.org/10.1055/a-2877-9376) [PMID 10.1055/a-2877-9376](https://pubmed.ncbi.nlm.nih.gov/10.1055/a-2877-9376/) — 간기울결 유방질환 349명 관찰연구
 [^woundacu]: Acupuncture and Wound Healing _American Journal of Traditional Chinese Veterinary Medicine_. 2012-02-01. [실험연구] [DOI 10.59565/001c.92648](https://doi.org/10.59565/001c.92648) [PMID 10.59565/001c.92648](https://pubmed.ncbi.nlm.nih.gov/10.59565/001c.92648/) — 침 상처 치유 기체혈어 외치 증례
 [^0qzycase]: Case Report: Qizhi Yishen Capsule-induced bone marrow granulomas and severe myelosuppression. _Frontiers in allergy_. 2026. [증례 보고] 1명 [DOI 10.3389/falgy.2026.1889878](https://doi.org/10.3389/falgy.2026.1889878) [PMID 42488551](https://pubmed.ncbi.nlm.nih.gov/42488551/) — 기지이신 캡슐 골수육아종·중증 근감소증 증례 보고
+[^263anx]: Anxiety and Qi stagnation characteristics based on traditional medicine in medical students. Phan Minh Duc 외. _Tạp chí Nghiên cứu Y học_. 2025-11-30. [관찰연구] 263명 [DOI 10.52852/tcncyh.v196i11e17.4000](https://doi.org/10.52852/tcncyh.v196i11e17.4000) — 기체 체질군 의대생의 불안 발생 확률이 평형 체질 대비 약 8.6배 증가, 정지내상-기체 축의 임상 근거.
+[^2108mal]: The Role of Qi-Stagnation Constitution and Emotion Regulation in the Association Between Childhood Maltreatment and Depression in Chinese College Students. Huang H 외. _Frontiers in psychiatry_. 2022. [관찰연구] 2108명 [DOI 10.3389/fpsyt.2022.825198](https://doi.org/10.3389/fpsyt.2022.825198) [PMID 35599766](https://pubmed.ncbi.nlm.nih.gov/35599766/) — 기체 체질이 아동기 학대-우울 경로의 매개 변수로 작용, 정서조절 능력이 이를 조절.
+[^397dep2]: [Study on the characteristics of population distribution of TCM syndromes and its related factors in patients of depression]. Zhou L 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-02. [관찰연구] 397명 [PMID 16548347](https://pubmed.ncbi.nlm.nih.gov/16548347/) — 우울증 환자 변증 분포에서 간기울결·심비양허가 주된 유형, 연령·중증도별 차이.
+[^403dep3]: Qi stagnation and qi deficiency are associated with depression in college students. Wang Xinzhu 외. _Frontiers in Public Health_. 2024-08-16. [관찰연구] 403명 [DOI 10.3389/fpubh.2024.1444237](https://doi.org/10.3389/fpubh.2024.1444237) — 대학생 우울 증상과 기체·기허 변증의 정적 상관.
+[^71dmn]: Altered Default Mode Network and Salience Network Functional Connectivity in Patients with Generalized Anxiety Disorders: An ICA-Based Resting-State fMRI Study. Xiong H 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [관찰연구] 71명 [DOI 10.1155/2020/4048916](https://doi.org/10.1155/2020/4048916) [PMID 32855650](https://pubmed.ncbi.nlm.nih.gov/32855650/) — 간기울결형·간울화화형 범불안장애 환자의 뇌 네트워크(DMN·SN) 기능적 연결성 차이.
+[^1071mci]: Association of Qi-stagnation and Subjective Sleep Characteristics with Mild Cognitive Impairment Among Non-depressed Elderly in Community: A Cross-Sectional Study. Zhizhen Liu 외. 2021-09-21. [관찰연구] 1071명 [DOI 10.21203/rs.3.rs-895682/v1](https://doi.org/10.21203/rs.3.rs-895682/v1) — 기체 체질·주관적 수면 특성이 비우울 노인의 경도인지장애 위험 인자.
+[^neiqs]: NEURO-ENDOCRINE-IMMUNE BIOLOGICAL NETWORK CONSTRUCTION OF QI DEFICIENCY PATTERN AND QI STAGNATION PATTERN IN TRADITIONAL CHINESE MEDICINE. Xing Zhai 외. _Journal of Biological Systems_. 2015-05-28. [실험연구] [DOI 10.1142/s0218339015500163](https://doi.org/10.1142/s0218339015500163) — 기허증·기체증이 서로 다른 신경-내분비-면역 네트워크 패턴을 가짐, 내분비계 이상과 관상동맥질환 발생 연관.
+[^147cirr]: [Portal hemodynamics in patients with different syndromes of cirrhosis]. Chen XR 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-05. [관찰연구] 147명 [DOI 10.3736/jcim20040307](https://doi.org/10.3736/jcim20040307) [PMID 15339437](https://pubmed.ncbi.nlm.nih.gov/15339437/) — 간경변 변증별 문맥·비정맥 혈류 역학·간섬유화 지표 차이.
+[^111bms]: A Brief Body-Mind-Spirit Group Therapy for Chinese Medicine Stagnation Syndrome: A Randomized Controlled Trial. Siu-man Ng 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [임상시험] 111명 [DOI 10.1155/2018/8153637](https://doi.org/10.1155/2018/8153637) — 기체증 환자 신체-정신-영성 그룹치료가 증상·우울·부정적 정서 개선, 코르티솔 감소.
+[^36354mdd]: Traditional Chinese Medicine Body Constitutions as Predictors for Depression: A Systematic Review and Meta-Analysis. Yap SY 외. _Behavioral sciences (Basel, Switzerland)_. 2022-10-30. [메타분석] [DOI 10.3390/bs12110423](https://doi.org/10.3390/bs12110423) [PMID 36354400](https://pubmed.ncbi.nlm.nih.gov/36354400/) — 기체질·기허질이 우울증 발생 위험의 예측 인자.
+[^1639con]: Clinical research linking Traditional Chinese Medicine constitution types with diseases: a literature review of 1639 observational studies. Liang X 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2020-08. [체계적 고찰] [DOI 10.19852/j.cnki.jtcm.2020.04.019](https://doi.org/10.19852/j.cnki.jtcm.2020.04.019) [PMID 32744037](https://pubmed.ncbi.nlm.nih.gov/32744037/) — 기체 체질이 유방 신생물·불면증 등과 높은 연관성.
+[^60valer]: [Clinical study on compound prescription with Valerianae Jatamansi Rhizoma et Radix in treatment of generalized anxiety disorder]. Bai JS 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2017-12. [임상시험] 60명 [DOI 10.19540/j.cnki.cjcmm.20170919.007](https://doi.org/10.19540/j.cnki.cjcmm.20170919.007) [PMID 29493163](https://pubmed.ncbi.nlm.nih.gov/29493163/) — 간기울결형 범불안장애에서 힐초근 복합방이 대조군과 유사한 효능, 낮은 부작용.
+[^60moxib]: [Comparison of Therapeutic Effects Between Thermosensitive Moxibustion and Medication in the Treatment of Insomnia of Liver-Qi Stagnation Pattern]. Li LC 외. _Zhen ci yan jiu = Acupuncture research_. 2018-09-25. [임상시험] 60명 [DOI 10.13702/j.1000-0607.170765](https://doi.org/10.13702/j.1000-0607.170765) [PMID 30232866](https://pubmed.ncbi.nlm.nih.gov/30232866/) — 간기울결 불면증에서 열민감성 뜸이 에스졸람보다 높은 유효율.
+[^cadnet]: [Analysis of relationships among syndrome, therapeutic treatment, and Chinese herbal medicine in patients with coronary artery disease based on complex networks]. Gao ZY 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-03. [관찰연구] [DOI 10.3736/jcim20100307](https://doi.org/10.3736/jcim20100307) [PMID 20226145](https://pubmed.ncbi.nlm.nih.gov/20226145/) — 관상동맥질환의 변증-치법-본초 네트워크 관계, 변증론치의 정량적 근거.
+[^110pcos]: [Correlation between Gan Depression Qi Stagnation Syndrome and Thyroid Stimulating Hormone Level in Adolescent Polycystic Ovary Syndrome Patients]. Yin YH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-03. [관찰연구] 110명 [PMID 30650481](https://pubmed.ncbi.nlm.nih.gov/30650481/) — 청소년 다낭성난소증후군에서 간기울결 중증도와 TSH 상승의 연관.
+[^154anti2]: A Placebo-Controlled Study on the Treatment of Metabolic Syndrome of Qi Stagnation and Dampness Obstruction Related to Atypical Antipsychotics with Traditional Chinese Medicine (TCM). Fengli Sun 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [임상시험] 154명 [DOI 10.1155/2020/5103046](https://doi.org/10.1155/2020/5103046) — 육어탕이 항정신병약물 유발 기체습조 대사증후군의 체중·BMI·PANSS 점수 개선.
+[^72goiter]: Treatment of Goiter with Traditional Chinese Medicine Regimen Xing Qi Hua Ying Tang: A Clinical Study on 72 Patients with Multinodular and Diffuse Goiter. Yang ML 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2018-04. [임상시험] 72명 [DOI 10.1089/acm.2017.0138](https://doi.org/10.1089/acm.2017.0138) [PMID 29215302](https://pubmed.ncbi.nlm.nih.gov/29215302/) — 행기화영탕이 기체형 갑상선종의 크기·증상을 개선, 갑상선기능 영향 없음.
+[^81dr]: Analysis of the efficacy and safety of Danshen Dripping pills on the eyes of diabetic retinopathy patients with Qi stagnation and blood stasis. Wang F 외. _American journal of translational research_. 2021. [임상시험] 81명 [PMID 34956524](https://pubmed.ncbi.nlm.nih.gov/34956524/) — 단삼적환이 당뇨병성 망막병증 기체혈어형의 중증도·시력·황반부종을 개선.
+[^92chloa]: [Effect on clinical symptoms and mechanism of chloasma in premenopausal women with liver qi stagnation treated with acupoint catgut embedding]. Jin YB 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-09-12. [임상시험] 92명 [DOI 10.13703/j.0255-2930.2019.09.005](https://doi.org/10.13703/j.0255-2930.2019.09.005) [PMID 31544379](https://pubmed.ncbi.nlm.nih.gov/31544379/) — 침도매선이 간기울결형 황갈반의 유효율·MASI를 개선, FSH·LH 조절 기전.
+[^200subh]: Xiaopiyishen Herbal Extract Granule Improves the Quality of Life among People with Fatigue-Predominant Subhealth and Liver-Qi Stagnation and Spleen-Qi Deficiency Syndrome. Xue XL 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [임상시험] 200명 [DOI 10.1155/2012/509705](https://doi.org/10.1155/2012/509705) [PMID 22852022](https://pubmed.ncbi.nlm.nih.gov/22852022/) — 소비익신 과립이 간기울결·비기허형 피로 우세 아건강 상태의 삶의 질을 개선.
+[^22153ccmq]: Development and evaluation of short form of constitution in Chinese medicine questionnaire: a national epidemiological survey data of 21 948 case. Bai MH 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-02. [관찰연구] 22153명 [DOI 10.19852/j.cnki.jtcm.20211228.001](https://doi.org/10.19852/j.cnki.jtcm.20211228.001) [PMID 35294132](https://pubmed.ncbi.nlm.nih.gov/35294132/) — 단축형 체질설문지(CCMQ) 개발, 혈어·기체 체질과 BMI의 유의한 상관.
+[^3586frail]: Traditional Chinese Medicine Constitution Is Associated with the Frailty Status of Older Adults: A Cross-Sectional Study in the Community. Ma X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구] 3586명 [DOI 10.1155/2022/8345563](https://doi.org/10.1155/2022/8345563) [PMID 35664935](https://pubmed.ncbi.nlm.nih.gov/35664935/) — 편중 체질(기체 포함) 노인이 평형 체질보다 노쇠 상태일 가능성 증가.
