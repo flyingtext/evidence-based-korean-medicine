@@ -528,7 +528,7 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | **백편두(白扁豆)** | 甘微溫 / 脾胃 | 健脾化濕, 和中消暑 | 비기허+습·여름철 보기보습 |
 | **꿀(蜂蜜)** | 甘平 / 脾肺大腸 | 補中潤燥, 緩急止痛 | 보기윤조. 포제에 활용 |
 
-보기약의 약리 연구에서 황기(黃芪) 함유 처방은 심부전·신증·당뇨·면역 강화에서 반복 확인되었고, 인삼·홍삼은 다양한 항피로·항스트레스·면역 조절 효과가 보고되었다. 보중익기탕의 황기 성분 헥사데칸산이 골수 중간엽줄기세포 증식을 촉진한다는 보고 [^73]는 보기약의 조혈·조면역 기전의 일부를 보여준다.
+보기약의 약리 연구에서 황기(黃芪) 함유 처방은 심부전·신증·당뇨·면역 강화에서 반복 확인되었고, 인삼·홍삼은 다양한 항피로·항스트레스·면역 조절 효과가 보고되었다. 보중익기탕의 황기 성분 헥사데칸산이 골수 중간엽줄기세포 증식을 촉진한다는 보고 [^73]는 보기약의 조혈·조면역 기전의 일부를 보여준다. 만성심부전 환자 90명에서 황기과립의 삶의 질·심기능 개선 효과가 고용량일수록 더 뚜렷한 용량-반응 관계를 보였다는 보고 [^151]는 황기 용량 조절의 임상적 근거가 된다.
 
 #### 11-2. 배오 본초
 
@@ -612,6 +612,9 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | **K31.6** | 위식도역류질환 | 비위기허·기체담결 |
 | **K92.8** | 과민성대장증후군 | 비위기허·간울비허·기허습 |
 | **K21** | 역류성식도염 | 비위기허·기체열 | 
+| **K51** | 궤양성대장염 | 비허습열 |
+| **K50-K52** | 염증성장질환 | 비기허-기체·간울비허 |
+| **K91.1** | 위절제술 후 증후군 | 비기허 |
 
 #### ② 병인병기
 
@@ -635,6 +638,8 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | 비위기허+역류·열 | **반하사심탕·시호계지탕** | 구역·조갈·심하비 |
 
 > 변조육군자탕 160명 시험이 비허기체형 기능성소화불량에서 소화불량 증상을 유의하게 개선하였다 [^5]. 육군자탕 메타분석(2496명) [^46]·향사육군자탕 당뇨위마비 체계적 고찰(867명) [^6]·향사육군자탕 위식도역류 메타분석(646명) [^7]·위염 한약 연구 진전 체계적 고찰 [^83]·비위기허형 위염 한약 시험 [^84]·위장증후군 1호 복합 시험 162명 [^85]·위식도역류 240명 건위거통환 시험 [^86]·위식도역류 158명 이안령캡슐 시험 [^87]·비허습담형 변비 보중익기탕 658명 메타분석 [^54]·변비 보중익기탕+마사지 82명 시험 [^55]·비위기허형 만성위염 백출 200명 시험 [^84]·비위병증 한약 시험 [^88]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 변증에 따라 처방이 달라진다.
+>
+> 향사육군자탕 과립이 비허기체증 기능성소화불량 216명 다기관 위약대조시험에서 식후불편감·우울/불안·위배출기능을 유의하게 개선했고 [^161], 형상의학적 방광형(BB) 아형 기능성소화불량 96명에서도 육군자탕이 위약보다 효과적이었다 [^163]. 난치성 위식도역류질환 86명에서 육군자탕+PPI 병용의 효과·안전성을 평가하는 이중맹검 시험 프로토콜이 보고되었다 [^162]. 궤양성대장염·염증성장질환 영역으로도 근거가 확장되어, 비허습열형 궤양성대장염 120명에서 건비청장탕이 장증상·전신증상·삶의 질(IBDQ)을 개선했고 [^160], 염증성장질환 중성약의 신속 보건기술평가에서 비기허-기체형에 신령백출산·보비이장환이 적합하다고 평가되었다 [^159]. 위암 근치적 절제술 후 비기허 증후군 환자 130명에서 식이처방(Hou Gu Mi Xi)의 위장관 증상·삶의 질 개선 효과를 평가하는 다기관 프로토콜 [^164], 기능성변비 환자 26명 가짜뜸 대조 파일럿 시험 [^165], 만성 B형간염 간섬유화 100명에서 단계·변증별 활혈거어 한약의 효과 [^166]도 함께 보고되었다. 소아 비허형 식욕부진에서 가감이공산이 아연 보충 단독보다 식욕·성장·전신건강을 개선했고 [^202], 부정건비방이 미량원소·면역지표를 개선한 소아 130명 시험도 보고되어 [^203], 소아 비기허 식욕부진에도 건비 치법이 유효함을 보여준다.
 
 **침구**: 족삼리(ST36)·중완(CV12)·비수(BL20)·위수(BL21)·태백(SP3)·공손(SP4). 기함 시 백회(GV20)·기해(CV6)·관원(CV4) 승양. 기능성소화불량·변비에서 침·바이오피드백 병행이 증상 개선에 효과적이다 [^89].
 
@@ -690,6 +695,8 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | 기음양허(뇌졸중 회복기) | **생맥산+혈부축어탕** | 권태·구건·자한·어지럼 |
 
 > 심부전 신찬통맥 과립 280명 다기관시험 [^50][^71]·심부전 심복리과립 356명 시험 [^15]·심부전 기허혈어 238명 시험 [^16]·심부전 부심리과립 150명 시험 [^68]·심부전 신기보기과립 단백체 분석 [^70]·심부전 참부주사 160명 시험 [^65]·심부전 기허혈어 변증 200명 관찰 [^72]·심실기수축 심비허증 귀비혼합물 200명 프로토콜 [^62]·협심증 통심서캡슐 120명 시험 [^69]·협심증 기허혈어 보기양혈 160명 시험 [^14]·협심증 240명 신락통편 시험 [^90]·협심증 240명 복로보심평 시험 [^91]·협심증 158명 이안령캡슐 시험 [^87]·협심증 239명 신락통편 LDL·심박 분석 [^92]·협심증 보중익기탕 계열 비교효과 160명 [^93]·협심증 안정형 기허혈어 120명 통심서캡슐 [^69]·협심증 기허혈어 이안령 158명 [^87]·안정형 협심증 154명 이안령캡슐 [^94]·허혈성 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 단기 예후 기허·화열 변증 예측 [^23]·기허혈어 뇌졸중 회복기 뇌심통 캡슐 [^95]·심뇌혈관 질환 보기보혈 중약 정리 [^66]·심부전 한약 RCT 결과 지표 체계적 고찰 [^96]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기허혈어·기음양허·심양허 등 병형에 따라 처방이 다르다 [^34].
+>
+> 심부전 중약 주사제 5종(신부·신맥·생맥·단홍·황기)의 변증별 메타분석 [^145]·심부전 신맥롱 주사액 2104명 다기관시험 [^149]·심부전 신부강심환 352명 위약대조시험 [^150]·심부전 황기과립 용량-반응 90명 시험 [^151]·심부전 급성악화기 신부주사제 160명 위약대조시험 [^152]·기허혈어 흉비증후군 양심탕+침 체계적 고찰 프로토콜 [^146]·기허혈어 뇌경색·협심증 뇌신통 캡슐 종합평가 [^147]·기허담탁형 심방세동 화담정기탕 프로토콜 [^148]이 추가로 보고되어, 심부전·협심증·부정맥 전 영역에서 변증별 보기 치료의 근거가 축적되고 있음을 보여준다.
 
 **침구**: 심수(BL15)·폐수(BL13)·내관(PC6)·신문(HT7)·전중(CV17)·족삼리(ST36)·삼음교(SP6). 심부전·협심증·부정맥에서 내관(PC6)·족삼리(ST36) 보법이 핵심. 심기허·기허혈어에는 혈해(SP10)·격유(BL17) 배합. 내관 혈위 주사 황기주사액 200명 시험 [^80]이 보고되었다.
 
@@ -720,6 +727,9 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | **J00-J06** | 급성 상기도감염·반복 감기 | 폐기허·위기부실·비기허 |
 | **J42** | 만성 기관지염 | 폐기허·담음·비폐기허 |
 | **J96** | 호흡부전 | 폐신기허·심폐기허 |
+| **J30** | 알레르기 비염 | 폐기허한증·폐비기허 |
+| **A15** | 폐결핵(다제내성 포함) | 기음양허·음허폐열 |
+| **U07** | 코로나19 회복기(후유증) | 폐비기허 |
 
 #### ② 병인병기
 
@@ -743,6 +753,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 천식 한담형·열담형 | **소청룡탕·정천탕** | 천명·담음·한열 감별 |
 
 > COPD 폐신기허형 뜸 210명 시험 [^2]·천식 소아 다기관 침 301명 시험 [^97]·천식 다기관 침 210명 시험 [^98]·천식 다기관 침 275명 시험 [^99]·COPD 한약 보기 처방 160명 시험 [^100]·반복 감기 삼복삼구 부착 [^51]·천식 다기관 침 301명 시험 [^97]·천식 마황탕계 50명 시험 [^101]이 보고되었다. **변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다** — 폐기허·폐신기허·비폐기허·한담형·열담형에 따라 처방·취혈이 다르다.
+>
+> 폐기허·폐비기허가 반복 감기를 넘어 알레르기 비염으로도 확장된다. 폐기허한증형 다년성 알레르기 비염 비민탕 108명 위약대조시험 [^153]·폐비기허형 가감옥병풍산 58명 위약대조시험 [^154]·폐기허한증 누이비염방+로라타딘 105명 시험 [^155]이 보고되어, 옥병풍산 계열 고표(固表) 처방이 반복 감기뿐 아니라 알레르기 비염의 위기 부실에도 적용됨을 보여준다. COPD 안정기 폐기허증에서 육미보기캡슐이 STAT4/STAT6·MMP-9/TIMP-1 조절로 폐기능을 개선했고 [^156], 빈번 악화 표현형 COPD 폐비기허형에 익기고표환이 증상·CAT 점수를 개선했다 [^157]. 다제내성 폐결핵 환자 570명에서 기음양허·음허폐열 변증에 맞춘 한약 병용 프로토콜이 보고되어 [^158], 보기 치법이 만성 감염성 호흡기 질환까지 확장됨을 시사한다. 코로나19 후유증(post-COVID) 폐비기허형 환자 121명에서 기공양생법이 호흡곤란·피로·삶의 질을 개선하였다 [^200].
 
 **침구**: 폐수(BL13)·태연(LU9)·고황(BL43)·풍문(BL12)·족삼리(ST36)·삼음교(SP6)·신수(BL23)·태계(KI3). 천식 급성기에는 천돌(CV22)·정천(BL23)·열결(LU7). 반복 감기·위기부실에는 삼복삼구 부착 [^51]·옥병풍산·보중익기탕.
 
@@ -775,6 +787,7 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | **F51** | 비기질성 수면장애(불면) | 심비양허·심신불교·기허 |
 | **G20** | 파킨슨병 | 기허혈어·간신음허·기혈양허 |
 | **G45** | 일과성 허혈발작 | 기허혈어·담탁어 |
+| **G70** | 중증근무력증 | 비위기허·비신허약 |
 
 #### ② 병인병기
 
@@ -798,6 +811,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 기혈양허(파킨슨·인지저하) | **십전대보탕·귀비탕+활혈** | 권태·사지무력·건망 |
 
 > 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 기허·화열 변증 예후 [^23]·기허혈어 뇌심통 캡슐 [^95]·혈관성 인지장애 신양허형 대사체 [^33]·만성피로증후군 이침금침 120명 시험 [^8]·만성피로증후군 침구·뜸 210명 시험 [^9]·만성피로증후군 한약·침구 [^102]·만성피로증후군 아건강 소피익신 과립 200명 시험 [^103][^104]·우울 보기 처방 [^105]·불면 심비허형 안신침법 50명 시험 [^64]·불면 심비허형 계피/산조인 부착 160명 시험 [^76]·불면 심비허형 삼부안신침 166명 시험 [^78]·불면 심비허형 복합오가피과립 423명 시험 [^63]·심비허형 단순비만 전침+매선 200명 시험 [^77]·심비허형 기면증 200명 시험 [^79]·심비양허형 자궁경부성기능 어지럼 120명 시험 [^106]·심비양허형 자궁경부어지럼 귀비탕+침 120명 시험 [^107]·만성피로 침구 심박변이 210명 시험 [^108]·치매 행동심리증상 용수환 [^109]·불면 안신침 755명 자료 [^110]·우울 침 755명 자료 [^111]이 보고되었다. **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다** — 심비양허·심기허·기허혈어·기음양허·심담허에 따라 처방·취혈이 다르다.
+>
+> 한의학 체질(기울체질·기허체질)이 우울증 발생의 예측 인자로 확인된 체계적 고찰·메타분석이 보고되어 [^167], 기허가 우울증의 취약성 요인으로 작용할 가능성을 뒷받침한다. 십전대보탕이 성인 만성피로증후군 96명 위약대조시험에서 주관적 피로도와 기허 증상을 개선했고(객관적 반응률은 위약과 유의차 없음) [^168], 오전 9-11시 침치료가 기허증 만성피로증후군 80명에서 다른 시간대보다 피로·T세포 면역기능을 더 개선했다 [^169]. 만성피로 환자의 기·혈·음·양 허손을 정량 평가하는 QBYY-Q 설문지가 129명에서 타당도가 입증되었고 [^176], 만성피로증후군 환자 30명의 인산화단백체 분석에서 간비불화형과 기혈양허형이 서로 다른 혈청 프로파일을 보여 변증의 생물학적 근거를 제시하였다 [^204]. 신경근육질환에서도 보기법이 확장되어, 비위기허형 중증근무력증에 강기건립캡슐의 QMG 점수·면역조절 효과를 평가하는 N-of-1 교차시험 [^171]과 비위·비신허약형 중증근무력증에 가감보중익기탕 효과를 평가하는 N-of-1 프로토콜 [^172]이 보고되었다. 뇌졸중 영역에서는 기허혈어형 편마비 208명 대상 수족십이침 무작위대조시험 프로토콜 [^174], 기허혈어형 허혈성 뇌졸중 2302명 전향적 다기관시험에서 기룡캡슐이 NIHSS·BI·mRS와 한의학적 증후군을 개선한 결과 [^175], 기허혈어형 뇌졸중후우울증 80명 대상 해독통락과립 무작위대조시험 프로토콜 [^170]이 추가되었다. 심담기허형 불면증 100명에서 진경정지탕이 산조인탕 대조군보다 수면의 질·심계항진 개선이 우수했다 [^173]. 기허체질 대학생 37명에서 10주 팔단금 수련이 수면의 질을 개선하고 우울·불안을 유의하게 감소시켰다 [^201].
 
 **침구**: 심수(BL15)·신문(HT7)·내관(PC6)·백회(GV20)·전중(CV17)·족삼리(ST36)·삼음교(SP6). 불면에는 안면(혈)·신맥(BL62)·조해(KI6) 추가. 우울·불안에는 태충(LR3)·간유(BL18) 배합. 만성피로에는 관원(CV4)·기해(CV6) 보법. 뇌졸중 후유증에는 두침·혈회 격유(BL17)·혈해(SP10) 배합.
 
@@ -851,6 +866,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 기허혈어(당뇨 합병증) | **보중익기탕+혈부축어탕·당통방** | 자통·설자암·신경병증 |
 
 > 당뇨병 전단계 비위운화실조·담습내조형 160명 시험 [^4]·당뇨병성 신병증 가미신기지황탕 42명 시험 [^113]·당뇨병성 신병증 건비거습혈락탕 84명 시험 [^114]·당뇨병성 신병증 신양허 분포 [^33]·당뇨병성 신병증 3기 변증 [^25]·당뇨병 변증별 혈장 지방산 [^112]·당뇨병 변증별 대사체 [^13]·당뇨위마비 향사육군자탕 체계적 고찰 [^6]·당뇨병성 신병증 한의학 임상연구 증거맵핑 [^115]·대사증후군 복합 변증 분석 [^116]·비위변증 한약 연구 [^117]·비위기허·습담형 비만 [^118]·비만·대사증후군 보중익기탕 [^41]·근감소성 비만 사군자탕·보중익기탕·침·뜸 체계적 고찰 [^45]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 비위기허·기허담습·기음양허·비신양허·기허혈어에 따라 처방이 다르다.
+>
+> 산사·참다래 복합 치료식이 중등도 이상지질혈증 환자 43명에서 HDL 상승·TC/HDL·LDL/HDL 비율 개선을 보였고, 비허·간기울결 변증에 적용 가능성이 제시되었다 [^177]. 비신허형 당뇨성 근감소증 노인 90명에서 신기고(medicine-food homology paste)가 근육량·근력·신체기능을 개선하고 염증·대사 지표를 낮췄다 [^178]. 제2형 당뇨병 영역에서는 기음허담어저체형 환자 73명에서 강탕소지캡슐이 피오글리타존과 유사한 혈당·체중 개선 및 더 우수한 한방 증상 개선을 보였고 [^179], 기음양허·담음저락형 당뇨병성 말초신경병증 62명에서 기귀탕 내복+기귀활혈로션 족욕 병행이 메코발라민 단독보다 신경전도속도 개선이 우수했으며 [^180], 기음양허형 비인슐린의존형당뇨병 161명에서 옥신강당정이 대조 처방보다 혈당·증상 개선에 우수했다 [^181]. 18,805명 대상 대규모 조사에서 담습형·기허형 체질이 과체중·비만의 주요 위험요인으로 확인되어 [^205], 기허 체질 평가가 비만·대사증후군 예방 관리의 근거로 활용될 수 있음을 시사한다.
 
 **침구**: 족삼리(ST36)·중완(CV12)·비수(BL20)·위수(BL21)·태백(SP3)·삼음교(SP6)·내관(PC6)·풍륭(ST40). 비만·대사증후군에는 풍륭(ST40)·음릉천(SP9)·천추(ST25) 배합. 당뇨 합병증에는 혈해(SP10)·격유(BL17) 배합.
 
@@ -881,6 +898,9 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | **N20** | 요로결석 | 기허습·신음허·습열 |
 | **N03** | 신증후군·만성사구체신염 | 비기허·비신양허·기허혈어 |
 | **N14** | 약물성 신질환 | 기허·비신양허 |
+| **N18.3** | 만성신질환 3기 | 비허습열·비신양허 |
+| **N05** | 루푸스신염 | 기허·비신양허 |
+| **N53.1** | 조루증 | 간울신허 |
 
 #### ② 병인병기
 
@@ -904,6 +924,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 요실금·야뇨 | **보중익기탕+축천환·신기환** | 요실금·야뇨·소변청장 |
 
 > 당뇨병성 신병증 가미신기지황탕 42명 시험 [^113]·당뇨병성 신병증 3기 변증 [^25]·당뇨병성 신병증 건비거습혈락탕 84명 시험 [^114]·만성신염 신기허·비신양허 변증 [^24]·신병증 보중익기탕 네트워크 약리학 [^119]·신질환 한의학 임상연구 증거맵핑 [^115]·남성불임·정액질 저하 3가지 한의학 패턴 128명 시험 [^120]·신양허형 정액질 121명 시험 [^121]·신기보기 정액질 312명 시험 [^122]·발기부전 신양허·신음허·간울 124명 시험 [^123]·비위기허형 만성신염 보기법 160명 시험 [^124]·만성신염 비허습열·신허복합 231명 시험 [^125]·만성신염 기허혈어 280명 시험 [^126]·신병증 신양허 한약 [^127]·신기허형 요로감염 200명 시험 [^128]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 신기허·비신양허·기허혈어·신음허에 따라 처방이 다르다.
+>
+> 비허습열형 만성신질환 3기 환자 270명 다기관시험에서 건비청화탕을 텔미사르탄과 병용 시 임상증상·삶의 질·예후가 개선되었고 [^182], 비신허손·습열형 만성사구체질환 121명에서 이신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수했다 [^183]. 유지혈액투석 허증 환자 97명에서 족삼리·삼음교 뜸 병행이 표준치료 단독보다 피로·식욕부진·요슬산연 등 전신증상을 개선했다 [^184]. 루푸스신염 43명에서 고용량 황기주사액과 시클로포스파미드 병용이 단백뇨 감소·면역기능 개선과 감염률 저하에 기여하여 [^185], 황기 기반 보기 치법이 자가면역성 신질환의 보조요법으로도 근거를 갖는다. 남성비뇨기 영역에서는 간울신허형 평생형 조루증 60명에서 교소방이 사정잠복시간(IELT)을 유의하게 연장하고 성생활 만족도를 개선하였다 [^199].
 
 **침구**: 신수(BL23)·태계(KI3)·관원(CV4)·중극(CV3)·삼음교(SP6)·족삼리(ST36)·비수(BL20)·지실(BL32). 요실금·야뇨에는 백회(GV20)·기해(CV6) 승양. 양위·불임에는 관원(CV4)·명문(GV4)·신수(BL23) 뜸.
 
@@ -934,6 +956,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | **N92** | 월경량 이상·과다·붕루 | 비불통혈·기허·기혈양허·혈열 |
 | **N94** | 월경통·월경전증후군 | 기체혈어·기허혈어·한응·기허 |
 | **E28** | 다낭성난소증후군(PCOS) | 비위기허·비허습담·신허·간울 |
+| **E28.3** | 조기난소부전(POF) | 신양허·허한 |
+| **N97** | 여성불임(체외수정 포함) | 신허 |
 
 #### ② 병인병기
 
@@ -957,6 +981,8 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 비신양허(불임·무월경) | **신기환·환소단** | 요슬산연·월경량소·냉증 |
 
 > 보중익기탕 폐경 후 골다공증 체계적 고찰 [^56]·갱년기 한약 [^129]·비허습담형 PCOS 50명 보중익기탕 자기대조 [^41]·심비양허형 자궁경부성기능 어지럼 120명 시험 [^106]·심비양허형 자궁경부어지럼 귀비탕+침 120명 시험 [^107]·심비양허형 단순비만 전침+매선 200명 시험 [^77]·기혈양허형 불임 보기양혈 120명 시험 [^130]·산후 보기양혈 121명 시험 [^131]·산후 보기양혈 281명 시험 [^132]·월경불순·붕루 한약 [^133]·PCOS 보신탄탕+팔단금 190명 시험 [^52][^53]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기혈양허·비불통혈·심비양허·기음양허·비위기허·비신양허에 따라 처방이 다르다.
+>
+> 신허·담음·어혈형 PCOS 81명에서 수오강기탕+침 병용이 인슐린저항성·생식기능 회복에 효과적인지 평가하는 프로토콜이 보고되었다 [^186]. 양허형 갱년기우울증 86명에서 가감감맥대조탕이 Deanxit와 유사한 우울 개선 및 더 우수한 수면 개선을 보였고 [^187], 음허화왕형 갱년기증후군 80명에서는 청심자신탕+괄사요법 병행이 안면홍조·발한·우울·피로 등 전신증상을 더 개선했다 [^191]. 조기난소부전(POF) 영역에서 허한형 119명에 온경탕+조보충임침구 병행이 [^188], 신양허형 96명에 온신양기익혈법+인공주기요법이 [^190] 각각 호르몬요법 단독보다 유효율·성호르몬·난소기능 회복을 개선하였다. 신허형 체외수정(IVF-ET) 여성 66명에서는 보신 전침이 과립세포 PI3K/Akt/Foxo3a 경로 조절을 통해 고품질 배아율·임신율을 향상시켜 [^189], 보신(補腎) 치법의 생식보조의학 병용 근거를 뒷받침한다.
 
 **침구**: 관원(CV4)·기해(CV6)·중극(CV3)·삼음교(SP6)·혈해(SP10)·족삼리(ST36)·비수(BL20)·신수(BL23). 월경과다·붕루에는 삼음교(SP6)·은백(SP1)·은릉천(SP9) 지혈. 무월경·불임에는 관원(CV4)·명문(GV4) 뜸.
 
@@ -1013,6 +1039,8 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 | 백혈구감소증 | **보중익기탕·황기·인삼·혈전관엑스** | 백혈구·호중구 감소 |
 
 > 보중익기법의 암 관련 피로 메타분석 [^11]·위암 1176명 메타분석 [^43]·폐암 시스플라틴 내성 역전 [^38][^40][^73]·폐암 전이 억제 [^36]·전립선비대 60명 시험 [^39]·대장암 수술 주변부 한약 360명 시험 [^135]·위암 수술 주변부 한약 [^136]·간암 보기법 장내미생물 모듈 [^137]·위암 보중익기탕 체계적 고찰 [^44]·항암화학요법 후 백혈구 감소 기허혈어 200명 시험 [^12]·항암화학요법 후 백혈구 감소 보중익기탕 [^138]·항암화학요법 후 기혈휴허 [^139]·암 변증 분포 [^134]·폐암 변증별 설진 [^22]·전립선비대 보중익기탕 60명 [^39]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기혈양허·비위기허·기음양허·기허혈어·비위양허에 따라 처방이 다르다.
+>
+> 비허어독형 진행성 대장암 78명에서 복정해독소용과립 병용이 종양표지자(CEA·CA19-9) 감소·면역기능 향상·화학요법 독성 완화에 기여했고 [^192], 화학요법 후 비위기허형 암성피로 유방암 94명에서 황기사군자탕이 신체·정서·인지 피로를 유의하게 개선했다(PI3K-Akt/AKT1 경로 관여) [^193]. 항암화학요법 중 기허성 피로 유방암 60명에서는 뇌화구(雷火灸) 요법이 통상간호보다 피로도·백혈구수 회복에 우수했다 [^194]. 기음양허형 고령 진행성 비소세포폐암 76명에서 익기양음법 병용이 화학요법의 생존율·삶의 질 개선에 기여하는지 평가하는 프로토콜도 보고되었다 [^195].
 
 **침구**: 족삼리(ST36)·삼음교(SP6)·내관(PC6)·중완(CV12)·비수(BL20)·심수(BL15)·혈해(SP10)·격유(BL17). 백혈구감소·면역 강화에 족삼리(ST36)·삼음교(SP6)·고황(BL43) 뜸·약침. 구토·오심에 내관(PC6)·중완(CV12). 피로·수면장애에 신문(HT7)·백회(GV20).
 
@@ -1044,6 +1072,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 | **M16/M17** | 고관절·슬관절염 | 기허혈어·신허·한습비 |
 | **M81** | 골다공증 | 신허·비신양허·기혈양허 |
 | **M41** | 척추측만증·척추변형 | 기허혈어·비위기허·신허 |
+| **M45** | 강직성척추염 | 신허독한·신허습열 |
 | **M79** | 섬유근육통·근막통증증후군 | 기혈양허·기허·간울기체 |
 
 #### ② 병인병기
@@ -1068,6 +1097,8 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 | 근막통증·섬유근육통 | **보중익기탕+소요산·귀비탕** | 통증·피로·수면장애·정서 |
 
 > 폐경 후 골다공증 보중익기탕 체계적 고찰 [^56]·폐경 후 골다공증 신양허 변증 [^140]·근감소성 비만 사군자탕·보중익기탕·침·뜸 체계적 고찰 [^45]·경추통 기허혈어 어혈 이기화어보신방 60명 시험 [^141]·경추통 기허혈어 30명 시험 [^142]·요통·관절염 보중익기탕 [^143]·골다공증성 척추압박골절 [^144]이 보고되었다. **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다** — 비위기허·기혈양허·비신양허·기허혈어·한습비에 따라 처방·취혈이 다르다.
+>
+> 신허와 관련된 척추관절 질환으로 확장하면, 신허독한형 축성 미분화 강직성척추염 54명에서 셀레콕시브+강지방 병용이 단독보다 BASDAI·BASFI·ASQoL·ASAS20 반응률을 개선했고 [^196], 강직성척추염 96명에서도 변증(신허한습·신허습열)에 맞춘 가감보신장골방이 양약 단독보다 증상·기능·염증지표(ESR·CRP)를 개선하였다 [^197]. 근막통증·만성통증 영역에서는 간울비허형 섬유근육통 48명에서 유근방(柔筋方)이 위약보다 통증(VAS)·수면(PSQI)·질환영향(FIQR)을 유의하게 개선하여 [^198], 보기·건비 치법이 만성 통증 증후군에도 적용될 수 있음을 시사한다.
 
 **침구**: 족삼리(ST36)·삼음교(SP6)·비수(BL20)·신수(BL23)·관원(CV4)·기해(CV6)·백회(GV20). 요통에는 위중(BL40)·신수(BL23)·대장수(BL25)·지실(BL32). 관절염·골다공증에는 해당 관절 국소 혈+신수(BL23)·태계(KI3). 근감소·근력 강화에는 족삼리(ST36)·수삼리(LI10)·곡지(LI11) 보법. 추나·외치법 병행.
 
@@ -1541,6 +1572,128 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 [^143]: Efficacy and safety of Buzhong Yiqi decoction for postmenopausal women with osteoporosis. _Medicine_. 2022. [체계적 고찰] [DOI 10.1097/md.0000000000031771](https://doi.org/10.1097/md.0000000000031771) — 요통·관절염 보중익기탕. 폐경 후 골다공증.
 
 [^144]: Mechanism of Yiqi Huayu Bushen recipe in treating cervical syndrome in rats with qi deficiency, blood stasis and kidney deficiency. _중국 중서의결합잡지_. 2009. [실험연구] [DOI 10.3736/jcim20090108](https://doi.org/10.3736/jcim20090108) [PMID 19134458](https://pubmed.ncbi.nlm.nih.gov/19134458/) — 골다공증성 척추압박골절. 기허혈어 어혈 이기화어보신방.
+
+[^145]: [Clinical characteristics of five traditional Chinese medicine injections in treating heart failure based on Meta-analysis literature]. Bai D 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2018-10. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20180709.002](https://doi.org/10.19540/j.cnki.cjcmm.20180709.002) [PMID 30486544](https://pubmed.ncbi.nlm.nih.gov/30486544/) — 심부전 환자에서 신부·신맥·생맥 등 중약 주사제 병용이 심박출률·6분보행거리를 개선하고 BNP를 낮추며, 변증(음허·기음양허)에 따라 적합한 주사제가 다름을 보여줌.
+
+[^146]: Yangxin Decoction combined acupuncture on blood lipid metabolism in Qi Deficiency and Blood Stasis type of Chest Bi-Syndrome: A protocol of systematic review. Yu XH 외. _Medicine_. 2020-08-21. [체계적 고찰] [DOI 10.1097/MD.0000000000021744](https://doi.org/10.1097/MD.0000000000021744) [PMID 32846797](https://pubmed.ncbi.nlm.nih.gov/32846797/) — 기허혈어형 흉비증후군(협심증) 환자에서 양심탕과 침 병용이 혈지질 대사에 미치는 영향을 평가하는 체계적 고찰 프로토콜.
+
+[^147]: [Clinical comprehensive evaluation of Naoxintong Capsules in treatment of cerebral infarction with Qi deficiency and blood stasis syndrome and coronary heart disease angina pectoris]. Geng HJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-12. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20210930.504](https://doi.org/10.19540/j.cnki.cjcmm.20210930.504) [PMID 34951236](https://pubmed.ncbi.nlm.nih.gov/34951236/) — 뇌신통 캡슐이 기허혈어형 뇌경색·관상동맥질환 협심증에서 유효성·안전성이 양호하다는 종합평가로, PCI 후 항혈소판 전략과 병용 가능성을 제시.
+
+[^148]: Huatan Dingji Decoction intervening in atrial fibrillation: protocol for a randomized double-blind single-simulated placebo-controlled clinical trial. Xiao Y 외. _Trials_. 2021-10-11. [임상시험] [DOI 10.1186/s13063-021-05522-z](https://doi.org/10.1186/s13063-021-05522-z) [PMID 34635144](https://pubmed.ncbi.nlm.nih.gov/34635144/) — 기허담탁형 심방세동 환자에서 화담정기탕과 양약 병용의 단기·중기 효과·안전성을 평가하는 무작위 이중맹검 시험 프로토콜.
+
+[^149]: [Treatment of Chronic Heart Failure with Qi-Yang Deficiency, Blockage of Static Blood Syndrome by Xinmailong Injection: an Open Multi-center Clinical Study]. Yao CZ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-03. [임상시험] [PMID 30650475](https://pubmed.ncbi.nlm.nih.gov/30650475/) — 기양허-어혈 증후군 만성심부전 환자 2104명에서 신맥롱 주사액이 심기능·한의학적 증상을 유의하게 개선했고, 65세 이하·좌심부전군에서 효과가 더 뚜렷했음.
+
+[^150]: A multi-center, randomized, double-blind, placebo-parallel controlled trial for the efficacy and safety of shenfuqiangxin pills in the treatment of chronic heart failure (Heart-Kidney yang deficiency syndrome). Guo L 외. _Medicine_. 2020-05-22. [임상시험] [DOI 10.1097/MD.0000000000020271](https://doi.org/10.1097/MD.0000000000020271) [PMID 32481305](https://pubmed.ncbi.nlm.nih.gov/32481305/) — 심신양허형 만성심부전 환자 352명 다기관 위약대조 시험에서 신부강심환 병용이 NT-proBNP·NYHA 등급 개선에 기여하는지 평가.
+
+[^151]: Clinical effect of Astragalus granule of different dosages on quality of life in patients with chronic heart failure. Yang QY 외. _Chinese journal of integrative medicine_. 2011-02. [임상시험] [DOI 10.1007/s11655-011-0647-9](https://doi.org/10.1007/s11655-011-0647-9) [PMID 21390582](https://pubmed.ncbi.nlm.nih.gov/21390582/) — 만성심부전 환자 90명에서 황기과립이 삶의 질·심기능을 개선했고, 고용량일수록 보행거리·삶의 질 개선이 더 뚜렷한 용량-반응 관계를 보임.
+
+[^152]: Randomized, Double-Blinded, Multicenter, Placebo-Controlled Trial of Shenfu Injection for Treatment of Patients with Chronic Heart Failure during the Acute Phase of Symptom Aggravation (Yang and Qi Deficiency Syndrome). Wang X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험] [DOI 10.1155/2019/9297163](https://doi.org/10.1155/2019/9297163) [PMID 30930952](https://pubmed.ncbi.nlm.nih.gov/30930952/) — 양기·기허 증후군의 급성 악화기 만성심부전 환자 160명에서 신부주사제 병용이 심기능·임상증상·삶의 질을 유의하게 개선.
+
+[^153]: Efficacy of Bimin decoction for patients with perennial allergic rhinitis: an open-label non-inferiority randomized controlled trial. Zhao J 외. _Trials_. 2019-12-30. [임상시험] [DOI 10.1186/s13063-019-3763-z](https://doi.org/10.1186/s13063-019-3763-z) [PMID 31888713](https://pubmed.ncbi.nlm.nih.gov/31888713/) — 폐기허한증형 다년성 알레르기 비염 환자 108명에서 비민탕이 로라타딘+플루티카손 병용과 비열등한 효과를 보였고 삶의 질(RQLQ) 개선에서 우세.
+
+[^154]: Exploring the efficacy and safety of Yu-Ping-Feng powder with variation against allergic rhinitis: a randomized, double-blind, placebo-controlled trial. Lin ZX 외. _Chinese medicine_. 2025-05-26. [임상시험] [DOI 10.1186/s13020-025-01120-2](https://doi.org/10.1186/s13020-025-01120-2) [PMID 40420199](https://pubmed.ncbi.nlm.nih.gov/40420199/) — 폐비기허형 알레르기 비염 환자 58명에서 가감옥병풍산이 위약 대비 삶의 질을 유의하게 개선.
+
+[^155]: Lu'e Biyan Formula for Treatment of Allergic Rhinitis Patients with Fei (Lung)-Qi Deficiency-Coldness Syndrome: A Randomized, Double Blind, and Placebo-Controlled Trial. Jia MY 외. _Chinese journal of integrative medicine_. 2025-11. [임상시험] [DOI 10.1007/s11655-025-3948-0](https://doi.org/10.1007/s11655-025-3948-0) [PMID 40921998](https://pubmed.ncbi.nlm.nih.gov/40921998/) — 폐기허한증 중등도-중증 알레르기 비염 환자 105명에서 누이비염방과 로라타딘 병용이 단독보다 비강증상·삶의 질 개선이 유의하게 우수.
+
+[^156]: Liuweibuqi capsules improve pulmonary function in stable chronic obstructive pulmonary disease with lung-qi deficiency syndrome by regulating STAT4/STAT6 and MMP-9/TIMP-1. Shen DD 외. _Pharmaceutical biology_. 2019-12. [임상시험] [DOI 10.1080/13880209.2019.1666151](https://doi.org/10.1080/13880209.2019.1666151) [PMID 31679431](https://pubmed.ncbi.nlm.nih.gov/31679431/) — 폐기허증 COPD 안정기 환자 429명에서 육미보기캡슐이 STAT4/STAT6·MMP-9/TIMP-1 조절을 통해 폐기능을 개선.
+
+[^157]: A Randomized Controlled Study of the Yi Qi Gu Biao Pill in the Treatment of Frequent Exacerbator Phenotype in Chronic Obstructive Pulmonary Disease (Lung and Spleen Qi Deficiency Syndrome). Zhen G 외. _Evidence-based complementary and alternative medicine : eCAM_. 2017. [임상시험] [DOI 10.1155/2017/9130804](https://doi.org/10.1155/2017/9130804) [PMID 29348777](https://pubmed.ncbi.nlm.nih.gov/29348777/) — 폐비기허형 빈번 악화 COPD 환자 64명에서 익기고표환이 천명·기침·가래를 완화하고 CAT 점수를 개선.
+
+[^158]: Efficacy of integrating short-course chemotherapy with Chinese herbs to treat multi-drug resistant pulmonary tuberculosis in China: a study protocol. Zhang SX 외. _Infectious diseases of poverty_. 2021-11-06. [임상시험] [DOI 10.1186/s40249-021-00913-5](https://doi.org/10.1186/s40249-021-00913-5) [PMID 34742353](https://pubmed.ncbi.nlm.nih.gov/34742353/) — 다제내성 폐결핵 환자 570명에서 기음양허·음허폐열 변증에 맞춘 한약 병용이 완치율·객담배양전환을 개선할 수 있는지 평가하는 프로토콜.
+
+[^159]: [Rapid health technology assessment of oral Chinese patent medicines for inflammatory bowel disease]. Wang XD 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2026-07. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20260413.502](https://doi.org/10.19540/j.cnki.cjcmm.20260413.502) [PMID 42543347](https://pubmed.ncbi.nlm.nih.gov/42543347/) — 염증성장질환에서 중성약이 양약 단독보다 유효성이 우수했고, 비기허-기체형에는 신령백출산·보비이장환이 적합했다는 신속 보건기술평가.
+
+[^160]: Effects of Jianpi Qingchang decoction on the quality of life of patients with ulcerative colitis: A randomized controlled trial. Dai YC 외. _Medicine_. 2017-04. [임상시험] [DOI 10.1097/MD.0000000000006651](https://doi.org/10.1097/MD.0000000000006651) [PMID 28422869](https://pubmed.ncbi.nlm.nih.gov/28422869/) — 비허습열형 경중등도 궤양성대장염 환자 120명에서 건비청장탕이 장증상·전신증상·삶의 질(IBDQ)을 유의하게 개선.
+
+[^161]: Efficacy and safety of Xiangsha Liujunzi granules for functional dyspepsia: A multi-center randomized double-blind placebo-controlled clinical study. Lv L 외. _World journal of gastroenterology_. 2017-08-14. [임상시험] [DOI 10.3748/wjg.v23.i30.5589](https://doi.org/10.3748/wjg.v23.i30.5589) [PMID 28852318](https://pubmed.ncbi.nlm.nih.gov/28852318/) — 비허기체증 기능성소화불량 환자 216명 다기관 위약대조 시험에서 향사육군자탕 과립이 식후불편감·우울/불안·위배출기능을 유의하게 개선.
+
+[^162]: Clinical efficacy of Yukgunja-tang combined with a proton pump inhibitor for refractory gastroesophageal reflux disease: study protocol for randomized, double-blind, double-dummy clinical trial. Ha NY 외. _BMC complementary medicine and therapies_. 2023-12-07. [임상시험] [DOI 10.1186/s12906-023-04283-3](https://doi.org/10.1186/s12906-023-04283-3) [PMID 38062418](https://pubmed.ncbi.nlm.nih.gov/38062418/) — 난치성 위식도역류질환 환자 86명에서 육군자탕+PPI 병용이 PPI 고용량 단독보다 효과적인지 평가하는 이중맹검 시험 프로토콜.
+
+[^163]: An Herbal Medicine, Yukgunja-Tang is more Effective in a Type of Functional Dyspepsia Categorized by Facial Shape Diagnosis: A Placebo-Controlled, Double-Blind, Randomized Trial. Ko SJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [임상시험] [DOI 10.1155/2018/8546357](https://doi.org/10.1155/2018/8546357) [PMID 30363994](https://pubmed.ncbi.nlm.nih.gov/30363994/) — 기능성소화불량 환자 96명에서 형상의학적 방광형(BB) 아형에 육군자탕이 더 효과적이었다는 위약대조 시험.
+
+[^164]: Efficacy and safety of Hou Gu Mi Xi in patients with spleen qi deficiency syndrome who underwent radical gastrectomy for gastric cancer: protocol for a multicenter, randomized, double-blind, placebo-controlled trial. Zhou X 외. _Trials_. 2019-06-10. [임상시험] [DOI 10.1186/s13063-019-3429-x](https://doi.org/10.1186/s13063-019-3429-x) [PMID 31182140](https://pubmed.ncbi.nlm.nih.gov/31182140/) — 위암 근치적 절제술 후 비기허 증후군 환자 130명에서 식이처방(Hou Gu Mi Xi)이 위장관 증상·삶의 질 개선에 기여하는지 평가하는 다기관 프로토콜.
+
+[^165]: The effectiveness of moxibustion for the treatment of functional constipation: a randomized, sham-controlled, patient blinded, pilot clinical trial. Ji-Eun Park 외. _BMC Complementary and Alternative Medicine_. 2011-12. [임상시험] [DOI 10.1186/1472-6882-11-124](https://doi.org/10.1186/1472-6882-11-124) — 기능성변비 환자 26명 가짜뜸 대조 파일럿 시험에서 뜸 치료의 안전성은 확인됐으나 배변횟수·변형태 개선은 가짜뜸과 유의차 없었고, 변증(기허·기실)별 효과 차이 가능성이 시사됨.
+
+[^166]: [Intervention of chronic hepatitis B liver fibrosis patients in different stages by syndrome typing and different activating blood removing stasis methods: a clinical study]. Liu SY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-11. [임상시험] [PMID 24483103](https://pubmed.ncbi.nlm.nih.gov/24483103/) — 만성 B형간염 간섬유화 환자 100명에서 단계·변증별 활혈거어 한약이 대조군보다 비장 크기·간섬유화 지표·간기능 개선에 우수.
+
+[^167]: Traditional Chinese Medicine Body Constitutions as Predictors for Depression: A Systematic Review and Meta-Analysis. Yap SY 외. _Behavioral sciences (Basel, Switzerland)_. 2022-10-30. [메타분석] [DOI 10.3390/bs12110423](https://doi.org/10.3390/bs12110423) [PMID 36354400](https://pubmed.ncbi.nlm.nih.gov/36354400/) — 한의학 체질(기울체질·기허체질)이 우울증 발생 위험의 예측인자로 확인된 체계적 고찰·메타분석.
+
+[^168]: Effectiveness a herbal medicine (Sipjeondaebo-tang) on adults with chronic fatigue syndrome: A randomized, double-blind, placebo-controlled trial. Shin S 외. _Integrative medicine research_. 2021-06. [임상시험] [DOI 10.1016/j.imr.2020.100664](https://doi.org/10.1016/j.imr.2020.100664) [PMID 33101925](https://pubmed.ncbi.nlm.nih.gov/33101925/) — 성인 만성피로증후군 환자 96명 위약대조 시험에서 십전대보탕이 주관적 피로도(VAS·FSS·Chalder)와 기허 증상을 개선했으나, 객관적 반응률은 위약과 유의차 없었음.
+
+[^169]: [Impacts on chronic fatigue syndrome of qi deficiency syndrome and T cell subgroups in patients treated with acupuncture at selective time]. Ling JY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-12. [임상시험] [PMID 24617226](https://pubmed.ncbi.nlm.nih.gov/24617226/) — 기허증 만성피로증후군 환자 80명에서 오전 9-11시 침치료가 다른 시간대보다 피로·T세포 면역기능 개선에 더 효과적.
+
+[^170]: The efficacy and safety of Jiedu Tongluo granules for treating post-stroke depression with qi deficiency and blood stasis syndrome: study protocol for a randomized controlled trial. Zhao AM 외. _Trials_. 2018-05-10. [임상시험] [DOI 10.1186/s13063-018-2633-4](https://doi.org/10.1186/s13063-018-2633-4) [PMID 29747670](https://pubmed.ncbi.nlm.nih.gov/29747670/) — 기허혈어형 뇌졸중후우울증 환자 80명에서 해독통락과립의 효과·안전성을 평가하는 무작위대조시험 프로토콜.
+
+[^171]: Therapeutic efficacy and immunoregulatory effect of Qiangji Jianli Capsule for patients with myasthenia gravis: Study protocol for a series of randomized, controlled N-of-1 trials. Weng S 외. _Medicine_. 2020-12-18. [임상시험] [DOI 10.1097/MD.0000000000023679](https://doi.org/10.1097/MD.0000000000023679) [PMID 33371107](https://pubmed.ncbi.nlm.nih.gov/33371107/) — 비위기허형 중증근무력증 환자에서 강기건립캡슐 병용의 QMG 점수·면역조절 효과를 N-of-1 교차시험으로 평가.
+
+[^172]: Effectiveness of modified Buzhong Yiqi decoction in treating myasthenia gravis: study protocol for a series of N-of-1 trials. Weng S 외. _Trials_. 2022-04-27. [임상시험] [DOI 10.1186/s13063-022-06287-9](https://doi.org/10.1186/s13063-022-06287-9) [PMID 35477531](https://pubmed.ncbi.nlm.nih.gov/35477531/) — 비위·비신허약형 중증근무력증 환자에서 가감보중익기탕의 근력 개선 효과를 N-of-1 시험으로 평가하는 프로토콜.
+
+[^173]: Efficacy of Zhenjingdingzhi decoction in treating insomnia with Qi-deficiency of heart and gallbladder: a randomized, double-blind, controlled trial. Ye Q 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2015-08. [임상시험] [DOI 10.1016/s0254-6272(15)30113-8](https://doi.org/10.1016/s0254-6272(15)30113-8) [PMID 26427106](https://pubmed.ncbi.nlm.nih.gov/26427106/) — 심담기허형 불면증 환자 100명에서 진경정지탕이 산조인탕 대조군보다 수면의 질·수면시간·심계항진 개선이 유의하게 우수.
+
+[^174]: Effect of 'hand and foot acupuncture with twelve needles' on hemiplegia patients with 'qi deficiency and blood stasis' syndrome in the convalescent stage of Ischaemic stroke: study protocol for a randomised controlled trial. Fang WH 외. _Trials_. 2021-03-18. [임상시험] [DOI 10.1186/s13063-021-05128-5](https://doi.org/10.1186/s13063-021-05128-5) [PMID 33736678](https://pubmed.ncbi.nlm.nih.gov/33736678/) — 뇌경색 회복기 기허혈어형 편마비 환자 208명에서 수족십이침의 효과·안전성을 평가하는 무작위대조시험 프로토콜.
+
+[^175]: Clinical effectiveness of Qilong capsule in patients with ischemic stroke: A prospective, multicenter, non-randomized controlled trial. Lyu J 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2022-09. [임상시험] [DOI 10.1016/j.phymed.2022.154278](https://doi.org/10.1016/j.phymed.2022.154278) [PMID 35780589](https://pubmed.ncbi.nlm.nih.gov/35780589/) — 기허혈어형 허혈성 뇌졸중 환자 2302명 전향적 다기관 시험에서 기룡캡슐 병용이 NIHSS·BI·mRS와 한의학적 증후군을 개선.
+
+[^176]: Validation of the qi blood yin yang deficiency questionnaire on chronic fatigue. Kim J 외. _Chinese medicine_. 2016. [관찰연구] [DOI 10.1186/s13020-016-0092-y](https://doi.org/10.1186/s13020-016-0092-y) [PMID 27141228](https://pubmed.ncbi.nlm.nih.gov/27141228/) — 만성피로 환자 129명에서 기·혈·음·양 허손 상태를 정량 평가하는 QBYY-Q 설문지의 타당도가 입증됨.
+
+[^177]: The evaluation of chinese therapeutic food for the treatment of moderate dyslipidemia. Sun S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [임상시험] [DOI 10.1155/2012/508683](https://doi.org/10.1155/2012/508683) [PMID 22474507](https://pubmed.ncbi.nlm.nih.gov/22474507/) — 중등도 이상지질혈증 환자 43명에서 산사·참다래 복합제가 HDL 상승과 TC/HDL·LDL/HDL 비율 개선을 보였고, 비허·간기울결 변증에 적용 가능.
+
+[^178]: Efficacy and safety of medicine-food homology Shenqi paste in older adults with diabetic sarcopenia: A randomized, double-blind, placebo-controlled trial. Hua L 외. _Journal of ethnopharmacology_. 2026-05-23. [임상시험] [DOI 10.1016/j.jep.2026.121444](https://doi.org/10.1016/j.jep.2026.121444) [PMID 41763617](https://pubmed.ncbi.nlm.nih.gov/41763617/) — 비신허형 당뇨성 근감소증 노인 90명에서 신기고가 근육량·근력·신체기능을 개선하고 염증·대사 지표를 낮춤.
+
+[^179]: [Treatment of type 2 diabetes mellitus patients of qi-yin deficiency phlegm-stasis inter-obstruction syndrome by jiangtang xiaozhi capsule and pioglitazone tablet: a non-inferiority randomized controlled trial]. Chen ZH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-09. [임상시험] [PMID 25335325](https://pubmed.ncbi.nlm.nih.gov/25335325/) — 기음허담어저체형 제2형 당뇨병 환자 73명에서 강탕소지캡슐이 피오글리타존과 유사한 혈당·체중 개선 및 더 우수한 한방 증상 개선을 보임.
+
+[^180]: [Treatment of type 2 diabetic peripheral neuropathy patients of qi-yin deficiency complicated phlegm-dampness blocking collaterals syndrome by internal application of qigui mixture and external application of qigui huoxue lotion: a clinical study]. Liu J 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-09. [임상시험] [PMID 25335327](https://pubmed.ncbi.nlm.nih.gov/25335327/) — 기음양허·담음저락형 당뇨병성 말초신경병증 환자 62명에서 기귀탕 내복+기귀활혈로션 족욕 병행이 메코발라민 단독보다 증상·신경전도속도 개선이 우수.
+
+[^181]: [Clinical and experimental study of yushen jiangtang tablet in treating non-insulin dependent diabetes mellitus]. Xia D 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1999-02. [임상시험] [PMID 11783304](https://pubmed.ncbi.nlm.nih.gov/11783304/) — 기음양허형 비인슐린의존형당뇨병 환자 161명에서 옥신강당정이 대조 처방보다 혈당·증상 개선에 우수.
+
+[^182]: A Clinical Multicenter Randomized Controlled Study on JianpiQinghua Decoction in Treating Stage 3 Chronic Kidney Disease with A Syndrome Type of Dampness-heat due to Spleen Deficiency. Yu KN 외. _Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae_. 2016-12-20. [임상시험] [DOI 10.3881/j.issn.1000-503X.2016.06.010](https://doi.org/10.3881/j.issn.1000-503X.2016.06.010) [PMID 28065235](https://pubmed.ncbi.nlm.nih.gov/28065235/) — 비허습열형 만성신질환 3기 환자 270명에서 건비청화탕이 텔미사르탄과 병용 시 임상증상·삶의 질·예후를 개선.
+
+[^183]: [Treatment of Proteinuria in Chronic Glomerular Disease Patients with Pi-Shen Deficiency Complicated Damp-Heat Syndrome by Yishen Qingre Huashi Recipe: a Clinical Study]. Dai Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-09. [임상시험] [PMID 26591355](https://pubmed.ncbi.nlm.nih.gov/26591355/) — 비신허손·습열형 만성사구체질환 환자 121명에서 이신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수.
+
+[^184]: [Randomized controlled trail on moxibustion for maintenance hemodialysis patients in deficiency syndrome]. Li N 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-01. [임상시험] [PMID 21355146](https://pubmed.ncbi.nlm.nih.gov/21355146/) — 유지혈액투석 허증 환자 97명에서 족삼리·삼음교 뜸 병행이 표준치료 단독보다 피로·식욕부진·요슬산연 등 전신증상을 개선.
+
+[^185]: [Effect of intravenous drip infusion of cyclophosphamide with high-dose Astragalus injection in treating lupus nephritis]. Su L 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2007-05. [임상시험] [DOI 10.3736/jcim20070309](https://doi.org/10.3736/jcim20070309) [PMID 17498486](https://pubmed.ncbi.nlm.nih.gov/17498486/) — 루푸스신염 환자 43명에서 고용량 황기주사액과 시클로포스파미드 병용이 단백뇨 감소·면역기능 개선과 감염률 저하에 기여.
+
+[^186]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness: Study protocol clinical trial (SPIRIT Compliant). Xu W 외. _Medicine_. 2020-03. [임상시험] [DOI 10.1097/MD.0000000000019045](https://doi.org/10.1097/MD.0000000000019045) [PMID 32195930](https://pubmed.ncbi.nlm.nih.gov/32195930/) — 신허·담음·어혈형 다낭성난소증후군 환자 81명에서 수오강기탕+침 병용이 인슐린저항성·생식기능 회복에 효과적인지 평가하는 프로토콜.
+
+[^187]: [Effects of modified Ganmai Dazao decoction on neuroendocrine system in patients with climacteric depression]. Ma XJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2014-12. [임상시험] [PMID 25911823](https://pubmed.ncbi.nlm.nih.gov/25911823/) — 양허형 갱년기우울증 환자 86명에서 가감감맥대조탕이 Deanxit와 유사한 우울 개선을 보였고 수면의 질 개선은 더 우수했으며, 5-HT·NE·성호르몬 조절 기전이 시사됨.
+
+[^188]: Clinical Observation on the Improvement of Serum Sex Hormone and Ovarian Function in Premature Ovarian Failure Patients with Deficiency-Cold Syndrome by Combining Wenjing Decoction with Tiaobu Chongren Acupuncture and Moxibustion. Yi A 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [DOI 10.1155/2021/3926822](https://doi.org/10.1155/2021/3926822) [PMID 34545290](https://pubmed.ncbi.nlm.nih.gov/34545290/) — 허한형 조기난소부전 환자 119명에서 온경탕+조보충임침구 병행이 호르몬요법 단독보다 유효율·성호르몬·난소기능 회복이 우수.
+
+[^189]: Effects of Electroacupuncture on Expression of PI3K/Akt/Foxo3a in Granulosa Cells from Women with Shen (Kidney) Deficiency Syndrome Undergoing in vitro Fertilization-Embryo Transfer. Wu HC 외. _Chinese journal of integrative medicine_. 2019-04. [임상시험] [DOI 10.1007/s11655-019-2948-3](https://doi.org/10.1007/s11655-019-2948-3) [PMID 31236889](https://pubmed.ncbi.nlm.nih.gov/31236889/) — 신허형 체외수정 여성 66명에서 보신 전침이 과립세포 PI3K/Akt/Foxo3a 경로 조절로 고품질 배아율·임신율을 향상.
+
+[^190]: [Treatment of premature ovarian failure patients of Shen Yang deficiency syndrome by warming Shen, enhancing Yang, invigorating qi, and nourishing blood method combined artificial cycle therapy: a clinical observation]. Cui Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-12. [임상시험] [PMID 24517061](https://pubmed.ncbi.nlm.nih.gov/24517061/) — 신양허형 조기난소부전 환자 96명에서 온신양기익혈법+인공주기요법이 호르몬요법 단독보다 유효율·증상·호르몬 개선이 우수.
+
+[^191]: [Scrapping therapy combined with Qingxin Zishen Decoction for perimenopausal syndrome with pattern of fire excess from yin deficiency]. Meng F 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-08-12. [임상시험] [DOI 10.13703/j.0255-2930.2016.08.012](https://doi.org/10.13703/j.0255-2930.2016.08.012) [PMID 29231567](https://pubmed.ncbi.nlm.nih.gov/29231567/) — 음허화왕형 갱년기증후군 환자 80명에서 청심자신탕+괄사요법 병행이 안면홍조·발한·우울·피로 등 전신증상과 삶의 질을 더 개선.
+
+[^192]: Clinical efficacy of Fuzheng Jiedu Xiaoyong granules in advanced colorectal cancer (spleen deficiency and stasis toxin syndrome). Qin HY 외. _World journal of gastrointestinal oncology_. 2026-02-15. [임상시험] [DOI 10.4251/wjgo.v18.i2.113922](https://doi.org/10.4251/wjgo.v18.i2.113922) [PMID 41695913](https://pubmed.ncbi.nlm.nih.gov/41695913/) — 비허어독형 진행성 대장암 환자 78명에서 복정해독소용과립 병용이 종양표지자(CEA·CA19-9) 감소·면역기능 향상·화학요법 독성 완화에 기여.
+
+[^193]: [Huangqi Sijunzi decoction for treating cancer-related fatigue in breast cancer patients: a randomized trial and network pharmacology study]. Cui Y 외. _Nan fang yi ke da xue xue bao = Journal of Southern Medical University_. 2022-05-20. [임상시험] [DOI 10.12122/j.issn.1673-4254.2022.05.04](https://doi.org/10.12122/j.issn.1673-4254.2022.05.04) [PMID 35673907](https://pubmed.ncbi.nlm.nih.gov/35673907/) — 화학요법 후 비위기허형 암성피로 유방암 환자 94명에서 황기사군자탕 병용이 신체·정서·인지 피로를 유의하게 개선했고 PI3K-Akt/AKT1 경로가 관여.
+
+[^194]: [Thunder-fire Moxibustion for Qi Deficiency-induced Fatigue in Breast Cancer Patients Under-going Chemotherapy]. Lu L 외. _Zhen ci yan jiu = Acupuncture research_. 2018-02-25. [임상시험] [DOI 10.13702/j.1000-0607.107698](https://doi.org/10.13702/j.1000-0607.107698) [PMID 29516699](https://pubmed.ncbi.nlm.nih.gov/29516699/) — 항암화학요법 중 기허성 피로 유방암 환자 60명에서 뇌화구 요법이 통상간호보다 피로도·한의학적 증상·백혈구수 회복에 우수.
+
+[^195]: Chemotherapy in conjunction with traditional Chinese medicine for survival of elderly patients with advanced non-small-cell lung cancer: protocol for a randomized double-blind controlled trial. Zhou ZY 외. _Journal of integrative medicine_. 2014-05. [임상시험] [DOI 10.1016/S2095-4964(14)60028-5](https://doi.org/10.1016/S2095-4964(14)60028-5) [PMID 24861837](https://pubmed.ncbi.nlm.nih.gov/24861837/) — 기음양허형 고령 진행성 비소세포폐암 환자 76명에서 익기양음법 병용이 화학요법의 생존율·삶의 질 개선에 기여하는지 평가하는 프로토콜.
+
+[^196]: [Adjunctive treatment of axial undifferentiated spondyloarthritis by Qiangji Recipe: a clinical study]. He MY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-01. [임상시험] [PMID 25790672](https://pubmed.ncbi.nlm.nih.gov/25790672/) — 신허독한형 축성 미분화 강직성척추염 환자 54명에서 셀레콕시브+강지방 병용이 단독보다 BASDAI·BASFI·ASQoL·ASAS20 반응률을 개선.
+
+[^197]: [Treatment of ankylosing spondylitis by modified bushen zhuanggu recipe: a clinical observation]. Zhang N 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-12. [임상시험] [PMID 24517055](https://pubmed.ncbi.nlm.nih.gov/24517055/) — 강직성척추염 환자 96명에서 변증(신허한습·신허습열)에 맞춘 가감보신장골방이 양약 단독보다 증상·기능·염증지표(ESR·CRP)를 개선.
+
+[^198]: Therapeutic efficacy of Roujin formula in managing fibromyalgia patients with liver depression and spleen deficiency syndrome: A single-blinded randomized controlled trial. Jingsi Fu 외. _Science of Traditional Chinese Medicine_. 2024-12-12. [임상시험] [DOI 10.1097/st9.0000000000000055](https://doi.org/10.1097/st9.0000000000000055) — 간울비허형 섬유근육통 환자 48명에서 유근방(柔筋方)이 위약보다 통증(VAS)·수면(PSQI)·질환영향(FIQR)을 유의하게 개선.
+
+[^199]: Efficacy and safety of Qiaoshao Formula () on patients with lifelong premature ejaculation of Gan (Liver) depression and Shen (Kidney) deficiency syndrome: A randomized controlled trial. Guo J 외. _Chinese journal of integrative medicine_. 2016-12. [임상시험] [DOI 10.1007/s11655-016-2456-7](https://doi.org/10.1007/s11655-016-2456-7) [PMID 27170351](https://pubmed.ncbi.nlm.nih.gov/27170351/) — 간울신허형 평생형 조루증 환자 60명에서 교소방이 사정잠복시간(IELT)을 유의하게 연장하고 성생활 만족도를 개선, 다포세틴의 대안 가능성을 시사.
+
+[^200]: EVALUATE THE RESULTS OF THE QI GONG NOURISHES HEALTH EXERCISE METHOD IN POST-COVID-19 TREATMENT. Vân PGS 외. _Vietnam acupuncture moxibustion_. 2024-05-18. [임상시험] [DOI 10.69956/vam.v1i2.64](https://doi.org/10.69956/vam.v1i2.64) — 폐비기허형 코로나19 후유증 환자 121명에서 기공양생법이 호흡곤란·피로·삶의 질을 유의하게 개선.
+
+[^201]: The influence of Baduanjin on sleep and depression and anxiety of college students with Qi-deficiency constitution: a randomized controlled trial. Mengjuan M 외. _Frontiers in sports and active living_. 2026. [임상시험] [DOI 10.3389/fspor.2026.1799065](https://doi.org/10.3389/fspor.2026.1799065) [PMID 42028113](https://pubmed.ncbi.nlm.nih.gov/42028113/) — 기허체질 대학생 37명에서 10주 팔단금 수련이 수면의 질을 개선하고 우울·불안을 유의하게 감소시켰으며, 체질 개선 정도와 수면 개선이 비례.
+
+[^202]: [Treatment of childhood anorexin with spleen deficiency by principle of invigorating spleen and benefiting qi]. Li XM 외. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1990-08. [임상시험] [PMID 2208436](https://pubmed.ncbi.nlm.nih.gov/2208436/) — 비허형 소아 식욕부진 환자 101명에서 가감이공산이 아연 보충 단독보다 식욕·성장·전신건강 개선에 우수.
+
+[^203]: [Effect of fuzheng jianpi recipe on content of trace element and immune function in children with spleen deficiency anorexia]. Tao LD 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2002-06. [임상시험] [PMID 12585187](https://pubmed.ncbi.nlm.nih.gov/12585187/) — 비허형 소아 식욕부진 환자 130명에서 부정건비방이 미량원소(아연·철)와 면역지표(CD3·CD4·IgG·IgA)를 개선.
+
+[^204]: Phosphoproteomic analysis reveals differential associations between liver-spleen disharmony and qi-blood deficiency syndromes in chronic fatigue syndrome. Zhang J 외. _Journal of translational medicine_. 2026-05-13. [관찰연구] [DOI 10.1186/s12967-026-08157-3](https://doi.org/10.1186/s12967-026-08157-3) [PMID 42129788](https://pubmed.ncbi.nlm.nih.gov/42129788/) — 만성피로증후군 환자 30명에서 간비불화형과 기혈양허형이 서로 다른 혈청 인산화단백질 프로파일을 보여 변증의 생물학적 근거를 제시.
+
+[^205]: [Logistic regression analysis on relationships between traditional Chinese medicine constitutional types and overweight or obesity]. Zhu YB 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-11. [관찰연구] [DOI 10.3736/jcim20101104](https://doi.org/10.3736/jcim20101104) [PMID 21078265](https://pubmed.ncbi.nlm.nih.gov/21078265/) — 18,805명 대상 연구에서 담습형·기허형 체질이 과체중·비만의 주요 위험요인으로 확인됨.
 
 ---
 
