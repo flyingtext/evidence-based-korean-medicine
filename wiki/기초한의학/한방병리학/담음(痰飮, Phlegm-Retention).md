@@ -1,7 +1,7 @@
 # 담음(痰飮, Phlegm-Retention)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16, 보강: 2026-08-17
-> 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-17 조회 기준
+> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16, 보강: 2026-08-24
+> 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
 
 ## 제1편 총론
 
@@ -145,7 +145,7 @@
 - **설(舌)**: 설태 니(膩)가 담음의 대표적 징후. 백니(白膩)는 담습·한담, 황니(黃膩)는 담열. 담어교결 시 설자암(舌紫暗)·설변어점[^78][^87]
 - **맥(脈)**: 활맥(滑脈)이 기본. 담습은 활실(滑實), 담열은 활삭(滑數), 풍담은 현활(弦滑), 담어는 삽(澁) 겸
 
-> 뇌졸중 환자의 설·맥진 객관화 연구에서 담음 변증이 정량화 모델로 분류되었다[^78]. 담음 체질의 설대(舌苔) 대사 마커 연구[^247]도 설진 객관화의 근거를 제공한다.
+> 뇌졸중 환자의 설·맥진 객관화 연구에서 담음 변증이 정량화 모델로 분류되었다[^78]. 담음 체질의 설대(舌苔) 대사 마커 연구[^247]도 설진 객관화의 근거를 제공한다. 관상동맥질환·만성신부전처럼 서로 다른 질환이라도 동일한 습담(濕痰) 변증을 보이면 설태에서 공통된 대사체적 특징이 확인되었고[^TONG1], 위전암성병변 환자의 담음 변증은 설태 내 글리세로인지질 대사 경로 이상과 밀접히 연관되어[^TONG2] 설진의 객관적 근거를 뒷받침한다.
 
 #### 4-4. 증상 분석 — 왜 그 증상이 나오는가
 
@@ -228,7 +228,7 @@
 담습 체질은 LDL 수용체 유전자 PvuII·AvaII 다형성과 연관되었고[^49], 체계적 고찰·메타분석에서 담음 체질이 이상지질혈증과 유의한 상관을 보였다[^219][^251]. 담습 체질의 DNA 메틸화 프로파일[^239]·lncRNA·mRNA 프로파일[^240]이 확인되어, 담습 체질이 유전·후천적 조절이 결합된 생물학적 실체일 가능성을 시사한다.
 
 **② 담음·어혈 증후군의 대사체·단백체**
-고지혈증·죽상동맥경화 환자에서 담음·어혈 증후군이 혈장 단백 발현 프로파일[^44]·혈장 대사체 바이오마커[^234]로 구별되었다. 관상동맥질환 담어증 환자에서 유전자-단백-대사체 네트워크가 탐색되었다[^234G]. 담음·어혈 증후군 지방간 환자에서 섬유소 용해 상태와 연관되었다[^66].
+고지혈증·죽상동맥경화 환자에서 담음·어혈 증후군이 혈장 단백 발현 프로파일[^44]·혈장 대사체 바이오마커[^234]로 구별되었다. 관상동맥질환 담어증 환자에서 유전자-단백-대사체 네트워크가 탐색되었다[^234G]. 담음·어혈 증후군 지방간 환자에서 섬유소 용해 상태와 연관되었다[^66]. NMR 기반 혈청 대사체 분석에서도 이상지질혈증의 비신양허증·담습저체증이 서로 다른 대사적 특징(담습저체증은 유해 대사물질 축적, 비신양허증은 보호 대사물질 부족)을 보여 변증 구분의 객관적 근거를 제공하였다[^MET4].
 
 **③ 담습 체질과 장내미생물**
 비만 담습 체질 개체가 비담습 비만 개체와 다른 장내미생물 조성을 보였다[^227]. 고혈압 전단계 담습 체질[^226]·PCOS 담습형[^224]에서도 장내미생물 프로파일 차이가 확인되었다. 복령이 장내미생물-담즙산-FXN 축을 통해 담습형 조증을 개선한다는 실험 보고[^PM]도 있어, "비위 운화 실조→수습 정체" 경로가 장내미생물-대사 축과 연결될 가능성을 시사한다. 담습 체질에서 Flavonifractor plautii 감소와 phytosphingosine 감소가 확인되어[^FLAV], 특정 균-대사물 축이 담습 체질의 생물학적 기질일 가능성이 제시되었다.
@@ -253,7 +253,7 @@
 18,000명 역학조사에서 만성 기침·객담이 호흡기 사망률과 연관되었다[^234]. 52,325명 중국계 싱가포르인에서 식이 패턴이 지속성 기침·객담과 연관되었다[^236]. 식이섬유 섭취가 기침·객담 감소와 연관된 63,257명 근거[^238]는 담음의 호흡기 표현형이 식이·환경과 직접 연결됨을 보여준다.
 
 **② 담열·폐질환의 생물학적 차이**
-급성만성폐쇄성폐질환 악화에서 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^221]. 청열화담 처방이 호중구-림프구 비율·CRP에 영향을 미쳤다[^235]. 이진탕이 이상지질혈증 모델에서 산화스트레스 관련 세포색소 P450 아라키돈산 대사물에 영향을 미쳤다[^ERCHEN].
+급성만성폐쇄성폐질환 악화에서 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^221]. 청열화담 처방이 호중구-림프구 비율·CRP에 영향을 미쳤다[^235]. 이진탕이 이상지질혈증 모델에서 산화스트레스 관련 세포색소 P450 아라키돈산 대사물에 영향을 미쳤다[^ERCHEN]. 폐의 담열저류(痰熱瀦留) 증후군을 동반한 COPD 급성 악화 환자에게 탄열청 주사를 투여했을 때 기침·가래·객담 배출 등의 증상과 설질 등 한의학적 징후가 유의하게 개선되었다[^MET5].
 
 #### 6-4. 인지·신경 축
 
@@ -369,7 +369,7 @@
 
 **방의**: 반하가 조습화담하고, 진피가 이기하여 담을 움직이게 하고, 복령이 습을 소변으로 배출한다. "治痰先治氣" 원칙의 구현이다. 이진탕은 가감하여 육군자탕·온담탕·황련온담탕·반하백출천마탕 등으로 분화한다.
 
-> 이진탕이 이상지질혈증 모델에서 산화스트레스 관련 세포색소 P450 아라키돈산 대사물에 영향을 미쳤다[^ERCHEN]. 식도 연하곤란(식비, 食痹)에 가감삼오탕 합 이진탕이 효과를 보인 96명 임상시험이 보고되었다[^118].
+> 이진탕이 이상지질혈증 모델에서 산화스트레스 관련 세포색소 P450 아라키돈산 대사물에 영향을 미쳤다[^ERCHEN]. 식도 연하곤란(식비, 食痹)에 가감삼오탕 합 이진탕이 효과를 보인 96명 임상시험이 보고되었다[^118]. 이진탕의 고지혈증 치료 효과·안전성을 평가하는 체계적 고찰·메타분석 프로토콜이 등록되었고[^MET1], 최근 문헌고찰에서도 이진탕이 혈중 지질 수치를 조절하고 심혈관 위험을 낮추는 보조 치료제로 활용될 가능성이 제시되었다[^MET2].
 
 #### 9-2. 온담탕(溫膽湯) — 『비효방(三因極一病證方論)』
 
@@ -385,6 +385,8 @@
 **방의**: 담음이 열로 인해 내란(內亂)하여 정서·수면·소화 증상이 동반된 상태를 다룬다. "痰熱內擾"의 대표 처방이며, 황련을 가하면 **황련온담탕**이 되어 담열이 더 현저할 때 쓴다.
 
 > 온담탕이 통상 치료와 병용 시 우울증 환자의 증상을 개선하며, 체계적 고찰·메타분석으로 효과가 지지되었다[^92]. 가감 황련온담탕이 노인 경도인지장애에 효과를 보였다[^89]. 온담환(溫膽丸)이 혈관내피 확장 기능에 영향을 미쳤다[^103]. 소요산 합 온담탕이 신체화장애에 효과를 보였다[^212]. 담화 실심형 불면에 전침 합 귀청방혈이 효과를 보였다[^136].
+>
+> 온담탕은 불면증·이상지질혈증·뇌졸중 후 우울증·관상동맥질환에 대한 체계적 고찰·메타분석 프로토콜이 다수 등록되어 근거 축적이 진행 중이며[^WD1][^WD2][^WD4][^WD5], 급성 뇌손상 환자에게 조기 병용 투여 시 6개월 후 신경학적 기능 회복(GCS·DRS·mRS·BI)을 유의하게 개선하였다[^WD3]. 허혈성·출혈성 뇌졸중 2,214명 메타분석에서 신경학적 기능 회복과 치료 유효율을 유의하게 향상시켰고[^WD6], 대사증후군 2,512명 메타분석에서 혈당·혈압·지질 프로파일·신기능을 개선하였으며[^WD7], 위식도역류질환·담즙역류성 위염 3,253명 메타분석에서 표준 치료 대비 재발률을 유의하게 낮추었고[^WD8], 조현병 1,437명 코크란 체계적 고찰에서는 항정신병 약물 단독 대비 유사한 증상 개선 효과를 보이면서 추체외로 부작용은 더 적었다[^WD9]. 황련온담탕을 표준 치료와 병용하면 대사증후군 1,549명 메타분석에서 허리둘레·BMI·혈압·혈당(FPG·2hPG·HbA1c)·중성지방·LDL-C·인슐린저항성이 유의하게 개선되었다[^WD10].
 
 #### 9-3. 반하백출천마탕(半夏白朮天麻湯) — 『의학심오(醫學心悟)』
 
@@ -443,6 +445,8 @@
 > 단루정(丹樓錠)이 안정형 협심증 304명 무작위시험에서 효과·안전성이 확인되었다[^116]. 단루정 합 아스피린이 관상동맥질환 담어증에 효과를 보였다[^126]. 사향통심적환이 협심증 담열·혈어증 309명 다기관시험에서 효과를 보였다[^138]. 강지맥안 과립이 협심증 담어증에 효과를 보였다[^124]. 온담탕 합 소요산이 신체화장애에 효과를 보였다[^212]. 거어소반캡슐이 관상동맥질환 혈소판 활성·응집에 영향을 미쳤다[^98][^100]. 탄열청이 급성 기관지염 270명 프로토콜 시험에서 효과·안전성이 보고되었다[^115]. 탄열청 주사가 AECOPD에 효과를 보였다[^87]. 청해령 주사가 소아 호흡기세포바이러스 폐렴 담열폐실형에 효과를 보였다[^83][^90]. 안궁우황환이 뇌경색 담열몽규형 Th1/Th2에 영향을 미쳤다[^30]. 거담화어법 기반 한약이 비소세포폐암·죽상동맥경화 등에서 유용하다[^34][^58]. 보기·활혈·화담·해독 중약이 당뇨 하지동맥질환자의 혈관 재협착 예방에 효과를 보였다[^24].
 
 > 체계적 고찰·메타분석: 건비화담 한약이 기도 점액 과다분비 만성폐질환에 효과(1,468명)[^1468]; 경동맥 죽상경화판에 익기화혈거담법(1,191명)[^META1]; 거어화담법이 간질 인지장애(1,198명)[^META2]; 보신·건비·화담법이 비만형 PCOS(1,163명)[^PCOS]; 청열거습 한약이 NAFLD(4,997명 네트워크메타)[^NAFLD]; 거풍화담법이 간질(1,475명)[^META3]; 위경탕 합 약물이 AECOPD(986명)[^WEI].
+
+> **반하후박탕(半夏厚朴湯) — 매핵기(梅核氣)·인후이물감(기체담결)의 정방.** 반하·후박·복령·자소엽·생강. 매핵기는 기체담결(氣滯痰結)의 대표 병증으로, 반하후박탕을 표준 치료와 병용하면 단독 치료보다 후두경 소견(RFS)이 유의하게 개선되었고[^BXHPT1], 가감 반하후박탕이 매핵기 환자 95명의 우울·불안을 완화하여 심리 상태를 개선하였다[^BXHPT2]. COVID-19 감염 후 발생한 매핵기(목의 이물감)에도 반하후박탕·소시호탕 병용이 증상 완화에 유용함이 증례로 보고되었으며[^BXHPT3], 기체를 겸한 매핵기 환자에서 협심산(香蘇散)이 높은 증상 개선율을 보였다[^BXHPT4]. 일본 한방 문헌 고찰(한게코보쿠토, 半夏厚朴湯)에서는 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 보고되었다[^BXHPT5].
 
 ---
 
@@ -552,7 +556,7 @@
 
 #### ② 병인병기
 
-"痰瘀同源", "痰瘀互生". 담음과 어혈이 함께 정체하여 죽상동맥경화·관상동맥질환·뇌혈관질환의 핵심 병기를 형성한다. 관상동맥질환에서 담음·어혈 변증이 혈액 점도·혈소판 활성·지질 지표와 연관된다[^44][^50][^62]. 고지혈증·죽상동맥경화 환자의 혈장 단백 발현 프로파일에서 담음·어혈 증후군이 장부 상태와 연관되었다[^44]. 담탁(痰濁) 변증 전문가 합의 가이드라인이 관상동맥질환에 수립되었다[^215].
+"痰瘀同源", "痰瘀互生". 담음과 어혈이 함께 정체하여 죽상동맥경화·관상동맥질환·뇌혈관질환의 핵심 병기를 형성한다. 관상동맥질환에서 담음·어혈 변증이 혈액 점도·혈소판 활성·지질 지표와 연관된다[^44][^50][^62]. 고지혈증·죽상동맥경화 환자의 혈장 단백 발현 프로파일에서 담음·어혈 증후군이 장부 상태와 연관되었다[^44]. 담탁(痰濁) 변증 전문가 합의 가이드라인이 관상동맥질환에 수립되었다[^215]. 경피적 관상동맥 중재술(PCI) 후 재협착의 주요 병태생리 기전으로 담탁이 중요하게 작용함이 문헌고찰로 뒷받침되며[^CHD1], 불안정 협심증 환자 815명 분석에서도 혈어·양허 등 핵심 변증 요소와 임상 증상 간 유의한 상관관계가 확인되었다[^CHD2]. PCI 후 관상동맥질환 환자 1,050명에서 중의학적 변증 진단 표준의 타당성·신뢰도가 확인되었고[^CHD3], 담탁저체증 고지혈증 환자에서 진삼침요법(전침·매선)이 보건교육 단독보다 지질대사·인슐린저항성 개선에 효과적이었다[^CHD4]. 복합 네트워크 분석으로 관상동맥질환의 증후군-치료법-본초 간 상관관계가 객관화되었고[^CHD5], 담탁저체증 관상동맥질환 환자 267명에서 혈전 형성 전 단계와 밀접한 관련이 확인되었다[^CHD6]. 급성 심신(心腎) 증후군의 데이터마이닝 분석에서도 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 활용됨이 확인되어[^CARDIOREN1], 담탁 이론이 심-신 축 질환으로도 확장됨을 시사한다.
 
 > 관상동맥질환 담어증에서 혈중 지질·혈소판 활성·섬유소 용해 지표가 변증과 연관되었다[^50][^62][^66]. 중성지방-포도당 지수(TyG)와 담습 체질이 아임상 죽상동맥경화와 연관되었다[^225]. 고혈압 담습형 환자에서 체중 변화가 통합 프로테체·대사체로 분석되었다[^233].
 
@@ -643,7 +647,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 > 이 병형표는 임상 틀이지 동일 근거수준의 권고가 아니다. 겸협·병기 단계에 따라 처방이 가감되며, 표의 순서는 근거의 우열을 나타내지 않는다.
 
-> 메타분석: 건비화담 한약이 기도 점액 과다분비 만성폐질환에 효과(1,468명)[^1468]; 보기·활혈·화담 한약이 COPD에 체계적 고찰[^258REV]; 위경탕 합 약물이 AECOPD(986명)[^WEI]; 탄열청 경구액이 급성 기관지염 270명 프로토콜[^115].
+> 메타분석: 건비화담 한약이 기도 점액 과다분비 만성폐질환에 효과(1,468명)[^1468]; 보기·활혈·화담 한약이 COPD에 체계적 고찰[^258REV]; 위경탕 합 약물이 AECOPD(986명)[^WEI]; 탄열청 경구액이 급성 기관지염 270명 프로토콜[^115]. 이진탕을 폐암 환자 보조 치료로 병용한 550명 메타분석에서 증상 완화 속도, 면역지표(CD3·CD4), 폐기능(FEV1)이 유의하게 개선되었다[^RESP1]. 한 임상 경험 보고는 천식을 한·열·풍·어혈·허 5변증으로 구분해 처방·외치법(침·뜸·부항·변석)을 병행하는 내외겸치법의 유효성을 제시하였다[^RESP2]. 만성 염증성 기도 질환에서 점액 과다분비는 폐기능 저하·삶의 질 저하의 핵심 요인이므로, 환자 상태에 맞는 거담 요법 선택이 중요하다는 문헌고찰도 있다[^RESP3].
 
 **침구**: 폐유(BL13)·열결(LU7)·풍문(BL12)·정환·풍륭(ST40)·족삼리(ST36)·중완(CV12). 천식 한담에는 폐유·풍문·격유(BL17) 뜸. COPD 한담 안정기 150명에 침이 효과[^78C].
 
@@ -683,7 +687,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 #### ③ 병태생리
 
-급성 뇌경색 변증이 중증도·예후와 연관되었다[^4]. 뇌졸중 담습·비담습 변증의 대사 프로필이 구별되었다[^77]. 뇌졸중 설·맥진 객관화 연구에서 담음 변증이 정량화되었다[^78]. 화담통락과립이 급성 뇌졸중 환자의 SOCS-3·TNF-α 발현에 영향을 미쳤다[^82]. 가감 황련온담탕이 노인 경도인지장애(탁담폐규형)에 효과를 보였다[^89]. 보신화담익지(BHY) 처방이 알츠하이머병 60명에 효과[^72]. 뇌환단이 경도인지장애에 효과[^246]. 온담탕 병용이 우울증 메타분석에서 효과[^92]. 소요산 합 온담탕이 신체화장애에 효과[^212].
+급성 뇌경색 변증이 중증도·예후와 연관되었다[^4]. 뇌졸중 담습·비담습 변증의 대사 프로필이 구별되었다[^77]. 뇌졸중 설·맥진 객관화 연구에서 담음 변증이 정량화되었다[^78]. 화담통락과립이 급성 뇌졸중 환자의 SOCS-3·TNF-α 발현에 영향을 미쳤다[^82]. 가감 황련온담탕이 노인 경도인지장애(탁담폐규형)에 효과를 보였다[^89]. 보신화담익지(BHY) 처방이 알츠하이머병 60명에 효과[^72]. 뇌환단이 경도인지장애에 효과[^246]. 온담탕 병용이 우울증 메타분석에서 효과[^92]. 소요산 합 온담탕이 신체화장애에 효과[^212]. 뇌졸중 후 치매에 이르지 않은 인지장애(PSCIND) 환자 50명에서도 한의학적 변증에 따라 서로 다른 신경심리학적 결손 패턴이 확인되었고[^COG1], 해독이치탕이 비신양허·담탁심폐 변증의 경도-중등도 알츠하이머병 환자 62명의 인지기능장애를 개선하였다[^COG2]. 혈관성 인지장애 환자 774명에서는 담탁상폐(痰濁上閉) 증후군이 인지기능 저하(MMSE·CDT)·일상생활수행능력 악화와 밀접한 상관관계를 보였다[^COG3].
 
 #### ④ 치료
 
@@ -717,7 +721,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 > 이 병형표는 임상 틀이지 동일 근거수준의 권고가 아니다. 대부분 소규모 증례·단일 임상시험이므로 처방 우열의 근거로 확대 해석하지 않는다.
 
-> 뇌졸중 100명에 침·한약·서약·대나무부항 병용이 풍담형에 효과를 보였다[^135]. 뇌졸중 후 소시호탕 합 소현흉탕이 60명에 효과를 보였다[^123]. 뇌졸중 후 침이 혈관성 치매 변증에 효과를 보였다[^73]. 항정신병약물 유발 파킨슨니즘에 가미소요산이 효과를 보인 8명 증례[^65AP]는 담음 변증이 정신과 영역으로 확장됨을 시사.
+> 뇌졸중 100명에 침·한약·서약·대나무부항 병용이 풍담형에 효과를 보였다[^135]. 뇌졸중 후 소시호탕 합 소현흉탕이 60명에 효과를 보였다[^123]. 뇌졸중 후 침이 혈관성 치매 변증에 효과를 보였다[^73]. 항정신병약물 유발 파킨슨니즘에 가미소요산이 효과를 보인 8명 증례[^65AP]는 담음 변증이 정신과 영역으로 확장됨을 시사. 담열내요(痰熱內擾) 변증 불면증 환자 54명에서는 체침·이침·복침이 모두 유효하였으며, 그중 체침이 가장 우선적인 선택지로 권장되었다[^INS1].
 
 **침구**: 백회(GV20)·풍지(GB20)·풍륭(ST40)·태충(LR3)·합곡(LI4)·내관(PC6)·신문(HT7)·삼음교(SP6). 현훈에는 백회·풍지·풍륭. 뇌졸중에는 수구(GV26)·백회·풍지·풍륭·태충·합곡. 치매에는 백회·신문·내관·삼음교·풍륭. 간질에는 백회·풍지·풍륭·태충·대추(GV14). 두침(頭鍼)이 척추기저동맥 허혈성 현훈에 효과[^21][^39].
 
@@ -796,9 +800,9 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 > 이 병형표는 임상 틀이지 동일 근거수준의 권고가 아니다. 각 처방은 서로 다른 변증·표본에서 도출된 개별 근거이며, 실제 적용은 변증 층화를 전제로 한다.
 
-> 메타분석: 건비·보신·화담법이 비만형 PCOS(1,163명)[^PCOS]; 창부도담탕 합 다이안-35 PCOS 담습형[^CANGFU]; 청열거습 한약이 NAFLD(4,997명 네트워크메타)[^NAFLD]; 체질과 이상지질혈증[^251]; 체질과 통풍[^85]; 체질과 전당뇨[^97]. 지방간 한약 체계적 고찰·메타분석[^75]. 지방간 역학에서 담습 체질이 핵심[^249][^65]. 가감 창부도담탕 653명 불임 자궁내막 수용성 개선[^211]. 전침이 보조생식 난모 미토콘드리아 기능 개선 90명[^134]. 보중익기탕이 비만 PCOS 장내미생물에 영향 50명[^52]. 탕디처방이 비허·담습형 조증 186명에 효과[^63]. 육군자 과립이 당뇨 전단계 비허·담습형 160명에 효과[^53PRED]. 육어탕이 대사증후군 기체·담습 154명에 효과[^174]. 기군소지탕 합 혈위매선이 대사기능장애 112명에 효과[^57]. 화담거습탕이 관상동맥질환 담습형에 비표적 대사체 효과[^HTCS]. 녕지캡슐이 당뇨 합병 고지혈증 70명에 효과[^95]. 혈지강 캡슐이 지방간 변증별 70명에 효과[^71]. 복염청탕이 골반 염증 80명에 효과[^199]. 산진정이 하부 요로감염 습열형 252명에 효과[^150]. 거습제독탕이 대장암 재발·전이 예방 336명[^203].
+> 메타분석: 건비·보신·화담법이 비만형 PCOS(1,163명)[^PCOS]; 창부도담탕 합 다이안-35 PCOS 담습형[^CANGFU]; 청열거습 한약이 NAFLD(4,997명 네트워크메타)[^NAFLD]; 체질과 이상지질혈증[^251]; 체질과 통풍[^85]; 체질과 전당뇨[^97]. 지방간 한약 체계적 고찰·메타분석[^75]. 지방간 역학에서 담습 체질이 핵심[^249][^65]. 담탁혈어증을 동반한 대사이상 관련 지방간질환 환자 80명에서 매선 요법(ACET)이 간기능 지표(ALT·AST)·대사 지표(BMI·TC·TG)·간섬유화 바이오마커(PDGF·TGF-β1·CK-18)를 유의하게 개선하였다[^MET3]. 가감 창부도담탕 653명 불임 자궁내막 수용성 개선[^211]. 전침이 보조생식 난모 미토콘드리아 기능 개선 90명[^134]. 보중익기탕이 비만 PCOS 장내미생물에 영향 50명[^52]. 탕디처방이 비허·담습형 조증 186명에 효과[^63]. 육군자 과립이 당뇨 전단계 비허·담습형 160명에 효과[^53PRED]. 육어탕이 대사증후군 기체·담습 154명에 효과[^174]. 기군소지탕 합 혈위매선이 대사기능장애 112명에 효과[^57]. 화담거습탕이 관상동맥질환 담습형에 비표적 대사체 효과[^HTCS]. 녕지캡슐이 당뇨 합병 고지혈증 70명에 효과[^95]. 혈지강 캡슐이 지방간 변증별 70명에 효과[^71]. 복염청탕이 골반 염증 80명에 효과[^199]. 산진정이 하부 요로감염 습열형 252명에 효과[^150]. 거습제독탕이 대장암 재발·전이 예방 336명[^203].
 
-**침구**: 중완(CV12)·천추(ST25)·풍륭(ST40)·음릉천(SP9)·족삼리(ST36)·삼음교(SP6)·비유(BL20)·관원(CV4)·기해(CV6). PCOS 담습형 85명에 매선 요법이 효과[^85PCOS]. 비만 단순성 60명에 시침이 효과[^169]. 비만 단순성 96명에 이침압봉이 효과[^202]. 소아 과체중 200명에 이침압박 프로토콜[^145][^193].
+**침구**: 중완(CV12)·천추(ST25)·풍륭(ST40)·음릉천(SP9)·족삼리(ST36)·삼음교(SP6)·비유(BL20)·관원(CV4)·기해(CV6). PCOS 담습형 85명에 매선 요법이 효과[^85PCOS]. 비만 단순성 60명에 시침이 효과[^169]. 비만 단순성 96명에 이침압봉이 효과[^202]. 소아 과체중 200명에 이침압박 프로토콜[^145][^193]. 고지혈증을 동반한 중증 비만 환자 264명에서 변증에 따른 침구 치료가 체중·BMI·혈중 지질을 유의하게 개선하였고[^OBE1], 담습질 비만 청년 66명에서 혈위매선이 체중·BMI·허리둘레 감소와 자율신경 조절 효과를 보였으며[^OBE2], 담습질 중심성 비만 환자 66명에서 신궐(CV8)·족삼리(ST36) 온화구가 비만 지표·불안·우울·삶의 질을 개선하였다[^OBE3]. 담습정체증 단순 비만 환자 60명에서는 온침이 식이조절 단독보다 체중·혈중 지질 개선에 더 효과적이었다[^OBE4].
 
 #### ⑤ 예후
 
@@ -850,6 +854,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 **⑬ 감기·여름감기 습형**: 보제정 288명[^166].
 **⑭ 곽향정기산 습형**: 아토피·설사형 IBS 1,000명[^158]. 아토피 습형 218명[^191].
 **⑮ 발기부전 신허·습열**: 온신거습탕 112명[^121].
+**⑯ 폐선암 기허담탁(氣虛痰濁)**: 장내미생물 분석 기반 진단 바이오마커·모델이 구축되었다[^ONC1].
 
 #### ③ 치료 요점
 
@@ -873,7 +878,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 이 표는 변증 기반 보조 처방을 정리한 것이며 표준 치료를 대체하지 않는다.
 
-**침구**: 류마티스관절염 한습형에 온침[^142]. 강직성척추염 한습형에 독통수근탕·침[^160][^166]. 슬관절염 한습형에 화침 온침[^161][^153]. 주풍투골 캡슐이 슬관절염 한습형 215명에 효과[^153Z]. 독활기생탕이 슬관절염 한습형 메타분석(895명)[^DHJS]. 산비탕이 슬관절염 한습형 110명[^152]. 주섬고가 슬관절염 100명[^162]. 화침 온침이 슬관절염 한습형 80명[^161]. 요통 한습형에 부항·침 76명[^190]. 요추근육통 한습형에 온전침 80명[^198]. 견관절염 한습형에 견우지통탕 90명[^141].
+**침구**: 류마티스관절염 한습형에 온침[^142]. 강직성척추염 한습형에 독통수근탕·침[^160][^166]. 슬관절염 한습형에 화침 온침[^161][^153]. 주풍투골 캡슐이 슬관절염 한습형 215명에 효과[^153Z]. 독활기생탕이 슬관절염 한습형 메타분석(895명)[^DHJS]. 산비탕이 슬관절염 한습형 110명[^152]. 주섬고가 슬관절염 100명에 활용되었다. 화침 온침이 슬관절염 한습형 80명[^161]. 요통 한습형에 부항·침 76명[^190]. 요추근육통 한습형에 온전침 80명[^198]. 견관절염 한습형에 견우지통탕 90명[^141].
 
 #### ④ 예후·관리
 
@@ -978,7 +983,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 | **온도** | 과식·냉식 회피. 비양 보호 | 「寒濕傷脾」 |
 | **습환경** | 습한 환경 회피. 외감습사 방지 | 「濕邪」 |
 
-이 조섭표는 고전적 생활지도와 현대적 일반 관리 원칙이 함께 포함된 표다. 식이섬유 섭취가 기침·객담 감소와 연관된 63,257명 근거[^238]와 규칙적 유산소운동이 정서·대사 개선에 유용하다는 점은 일반적 근거에서 지지되며, 담습 체질이 당뇨·통풍·이상지질혈증과 연관된 점[^84][^85][^97]은 식이·운동·체중 관리가 담음 병태생리와 직접 연결됨을 시사한다.
+이 조섭표는 고전적 생활지도와 현대적 일반 관리 원칙이 함께 포함된 표다. 식이섬유 섭취가 기침·객담 감소와 연관된 63,257명 근거[^238]와 규칙적 유산소운동이 정서·대사 개선에 유용하다는 점은 일반적 근거에서 지지되며, 담습 체질이 당뇨·통풍·이상지질혈증과 연관된 점[^84][^85][^97]은 식이·운동·체중 관리가 담음 병태생리와 직접 연결됨을 시사한다. 팔단금(八段錦) 기공이 담습옹성형 고혈압 환자의 혈압·혈액 유동성·항산화 지표(SOD 증가, MDA·ET-1 감소)를 개선한 근거[^QIGONG1]는 조섭표의 운동·호흡 항목이 실제 임상 근거를 갖고 있음을 뒷받침한다.
 
 #### 18-3. 환자 설명용 요약
 
@@ -1363,6 +1368,90 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 [^WEI]: Chinese Herbal Medicine (<i>Weijing</i> Decoction) Combined with Pharmacotherapy for the Treatment of Acute Exacerbations of Chronic Obstructive Pulmonary Disease. _Evidence-Based Complementary and Alternative Medicine_. 체계적 고찰. [DOI 10.1155/2014/257012](https://doi.org/10.1155/2014/257012) [PMID 10.1155/2014/257012](https://pubmed.ncbi.nlm.nih.gov/10.1155/2014/257012/)
 
 [^ZEXIE]: Modified Zexie decoction improves phlegm-dampness type stage I hypertension by regulating the gut-immune-kidney axis. _Frontiers in Pharmacology_. 임상시험. [DOI 10.3389/fphar.2025.1578815](https://doi.org/10.3389/fphar.2025.1578815) [PMID 10.3389/fphar.2025.1578815](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2025.1578815/)
+
+[^BXHPT1]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Hsin-Fu Yeh 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) [PMID 10.1097/jcma.0000000000001237](https://pubmed.ncbi.nlm.nih.gov/10.1097/jcma.0000000000001237/) — 반하후박탕을 표준 양약 치료와 병용했을 때, 단독 양약 치료보다 후두경 소견(RFS)을 유의하게 더 개선시켰다. 매핵기·기체담결에 대한 반하후박탕의 임상 근거.
+
+[^BXHPT2]: Clinical observations on 46 cases of globus hystericus treated with modified Banxia Houpu decoction. Bo P 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-06. [임상시험, 95명] [DOI 10.1016/s0254-6272(10)60023-4](https://doi.org/10.1016/s0254-6272(10)60023-4) [PMID 20653165](https://pubmed.ncbi.nlm.nih.gov/20653165/) — 가감 반하후박탕이 매핵기 환자의 우울과 불안을 완화하고 심리 상태를 개선하는 데 효과적이었다.
+
+[^BXHPT3]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Jung-hwa Hong 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) [PMID 10.22246/jikm.2023.44.2.244](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2023.44.2.244/) — COVID-19 감염 후 발생하는 매핵기(목의 이물감) 증상에 반하후박탕·소시호탕 병용이 증상 완화에 유용할 수 있음을 시사한다.
+
+[^BXHPT4]: Effect of Koso-san on globus pharyngeus. Motoo Y 외. _The American journal of Chinese medicine_. 1999. [임상시험, 23명] [DOI 10.1142/S0192415X9900032X](https://doi.org/10.1142/S0192415X9900032X) [PMID 10467462](https://pubmed.ncbi.nlm.nih.gov/10467462/) — 기체(氣滯) 증상을 동반한 매핵기 환자에게 협심산(香蘇散)을 투여했을 때 높은 증상 개선율을 보였다.
+
+[^BXHPT5]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Tomoko Suzuki 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) [PMID 10.1002/tkm2.1373](https://pubmed.ncbi.nlm.nih.gov/10.1002/tkm2.1373/) — 반하후박탕(HKT)은 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 있다.
+
+[^WD1]: Wendan decoction for primary insomnia: Protocol for a systematic review and meta-analysis. Yan X 외. _Medicine_. 2017-11. [체계적 고찰] [DOI 10.1097/MD.0000000000008906](https://doi.org/10.1097/MD.0000000000008906) [PMID 29382025](https://pubmed.ncbi.nlm.nih.gov/29382025/) — 일차성 불면증 환자 대상 온담탕의 유효성·안전성을 평가하는 체계적 문헌고찰·메타분석 프로토콜.
+
+[^WD2]: Wendan decoction for dyslipidemia: Protocol for a systematic review and meta-analysis. Feng W 외. _Medicine_. 2019-01. [체계적 고찰] [DOI 10.1097/MD.0000000000014159](https://doi.org/10.1097/MD.0000000000014159) [PMID 30653157](https://pubmed.ncbi.nlm.nih.gov/30653157/) — 이상지질혈증 치료에 사용되는 온담탕의 유효성·안전성을 체계적으로 평가하는 프로토콜.
+
+[^WD3]: Efficacy and Safety of Wendan Decoction for Acute Brain Injury: A Randomized Controlled Study. Huang CC 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2020-05. [임상시험, 60명] [DOI 10.1089/acm.2019.0349](https://doi.org/10.1089/acm.2019.0349) [PMID 32207984](https://pubmed.ncbi.nlm.nih.gov/32207984/) — 급성 뇌손상 환자에게 조기에 온담탕을 병행 투여하는 것은 안전하며, 6개월 후 신경학적 기능 결과(GCS·DRS·mRS·BI)를 유의하게 개선시켰다.
+
+[^WD4]: Effectiveness and safety of Wendan decoction for post-stroke depression: A protocol for systematic review and meta-analysis. Hou Y 외. _Medicine_. 2021-12-23. [체계적 고찰] [DOI 10.1097/MD.0000000000028297](https://doi.org/10.1097/MD.0000000000028297) [PMID 34941117](https://pubmed.ncbi.nlm.nih.gov/34941117/) — 뇌졸중 후 우울증(PSD) 환자 대상 온담탕의 치료 효과·안전성을 체계적으로 평가하는 프로토콜.
+
+[^WD5]: Efficacy of Wen-Dan Decoction in the treatment of patients with coronary heart disease: A protocol for systematic review and meta-analysis. Zhang X 외. _Medicine_. 2022-01-07. [체계적 고찰] [DOI 10.1097/MD.0000000000028041](https://doi.org/10.1097/MD.0000000000028041) [PMID 35029872](https://pubmed.ncbi.nlm.nih.gov/35029872/) — 관상동맥성 심장질환(CHD) 환자에게 온담탕을 적용했을 때의 효능·안전성을 체계적으로 평가하는 프로토콜.
+
+[^WD6]: Wen Dan Decoction for hemorrhagic stroke and ischemic stroke. Xu JH 외. _Complementary therapies in medicine_. 2015-04. [메타분석, 2214명] [DOI 10.1016/j.ctim.2015.01.001](https://doi.org/10.1016/j.ctim.2015.01.001) [PMID 25847568](https://pubmed.ncbi.nlm.nih.gov/25847568/) — 온담탕은 허혈성·출혈성 뇌졸중 환자 모두에서 신경학적 기능 회복과 전체 치료 유효율을 유의하게 향상시켰다.
+
+[^WD7]: Efficacy of the wen dan decoction, a Chinese herbal formula, for metabolic syndrome. Huang YM 외. _Alternative therapies in health and medicine_. 2026-08-14. [메타분석, 2512명] [PMID 26030117](https://pubmed.ncbi.nlm.nih.gov/26030117/) — 온담탕은 대사증후군 환자의 혈당·혈압·지질 프로파일·신장 기능을 개선하는 데 있어 기존 서양 의학적 치료보다 유의미하게 효과적이었다.
+
+[^WD8]: Consistent Efficacy of Wendan Decoction for the Treatment of Digestive Reflux Disorders. Ling W 외. _The American journal of Chinese medicine_. 2015. [메타분석, 3253명] [DOI 10.1142/S0192415X15500524](https://doi.org/10.1142/S0192415X15500524) [PMID 26243580](https://pubmed.ncbi.nlm.nih.gov/26243580/) — 온담탕은 위식도역류질환·담즙역류성 위염 모두에서 일관된 치료 효과를 보이며, 표준 치료 대비 재발률을 유의하게 낮추었다.
+
+[^WD9]: Wendan decoction (Traditional Chinese medicine) for schizophrenia. Deng H 외. _The Cochrane database of systematic reviews_. 2017-06-28. [체계적 고찰, 1437명] [DOI 10.1002/14651858.CD012217.pub2](https://doi.org/10.1002/14651858.CD012217.pub2) [PMID 28657646](https://pubmed.ncbi.nlm.nih.gov/28657646/) — 온담탕은 조현병 환자에게 단독 사용 시 위약보다 효과적이었고, 항정신병 약물 단독 사용과 비교해 증상 개선은 유사하면서 추체외로 부작용은 유의하게 적었다.
+
+[^WD10]: Efficacy and safety of huanglian wendan decoction as an adjuvant therapy for metabolic syndrome: a systematic review and meta-analysis. Jiang T 외. _Frontiers in pharmacology_. 2026. [메타분석, 1549명] [DOI 10.3389/fphar.2026.1762428](https://doi.org/10.3389/fphar.2026.1762428) [PMID 42382174](https://pubmed.ncbi.nlm.nih.gov/42382174/) — 황련온담탕을 표준 치료와 병용할 경우, 단독 치료보다 허리둘레·BMI·혈압·혈당·중성지방·LDL-C·인슐린저항성을 유의하게 개선하였다.
+
+[^OBE1]: [Effect of acupuncture and moxibustion on severe obesity complicated with hyperlipidemia in different genders]. Huang D 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-07-12. [관찰연구, 264명] [DOI 10.13703/j.0255-2930.2018.07.001](https://doi.org/10.13703/j.0255-2930.2018.07.001) [PMID 30014659](https://pubmed.ncbi.nlm.nih.gov/30014659/) — 고지혈증을 동반한 중증 비만 환자에게 변증에 따른 침구 치료를 적용했을 때 체중·BMI·혈중 지질 지표가 유의하게 개선되었다.
+
+[^OBE2]: [Clinical observation on acupoint thread-embedding for overweight and obesity in young adults with phlegm-dampness constitution]. Ma Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2025-06-12. [임상시험, 66명] [DOI 10.13703/j.0255-2930.20240610-k0004](https://doi.org/10.13703/j.0255-2930.20240610-k0004) [PMID 40518775](https://pubmed.ncbi.nlm.nih.gov/40518775/) — 담습질 체질의 비만 청년에게 혈위매선 치료를 적용했을 때 체중·BMI·허리둘레 감소 및 담습 체질 개선에 유의미한 효과가 있었다.
+
+[^OBE3]: [Moxibustion for central obesity with phlegm-dampness constitution: a randomized controlled trial]. Zhang Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2025-08-12. [임상시험, 66명] [DOI 10.13703/j.0255-2930.20240906-k0002](https://doi.org/10.13703/j.0255-2930.20240906-k0002) [PMID 40825687](https://pubmed.ncbi.nlm.nih.gov/40825687/) — 담습질 중심성 비만 환자에게 신궐(CV8)·족삼리(ST36) 온화구가 비만 지표 개선, 불안·우울 완화, 삶의 질 향상에 효과적이었다.
+
+[^OBE4]: [Treatment of Simple Obesity Patients with Phlegm Dampness Stagnation Syndrome with Warming Needle Moxibustion]. Li WQ 외. _Zhen ci yan jiu = Acupuncture research_. 2018-08-25. [임상시험, 60명] [DOI 10.13702/j.1000-0607.180162](https://doi.org/10.13702/j.1000-0607.180162) [PMID 30232857](https://pubmed.ncbi.nlm.nih.gov/30232857/) — 담습정체증 단순 비만 환자에게 온침 치료를 식이 조절과 병행하는 것이 식이 조절 단독보다 체중 감량·혈중 지질 개선에 더 효과적이었다.
+
+[^INS1]: Comparison of Body, Auricular, and Abdominal Acupuncture Treatments for Insomnia Differentiated as Internal Harassment of Phlegm-Heat Syndrome: An Orthogonal Design. Jiao Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2015. [임상시험, 54명] [DOI 10.1155/2015/578972](https://doi.org/10.1155/2015/578972) [PMID 26640498](https://pubmed.ncbi.nlm.nih.gov/26640498/) — 담열내요(痰熱內擾) 변증 불면증 환자에게 체침·이침·복침 모두 유효하였으나, 특히 체침이 우선적으로 권장되었다.
+
+[^CHD1]: [Turbid-phlegm is an important pathogenesis of restenosis after percutaneous transluminal coronary intervention]. Wang DY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-08. [문헌 고찰] [PMID 16152841](https://pubmed.ncbi.nlm.nih.gov/16152841/) — 경피적 관상동맥 중재술(PCI) 후 발생하는 재협착의 주요 한의학적 병태생리 기전으로 담탁이 중요하게 작용함을 시사한다.
+
+[^CHD2]: Logistic regression analysis of syndrome essential factors in patients with unstable angina pectoris. Yao KW 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2011-12. [관찰연구, 815명] [DOI 10.1016/s0254-6272(12)60003-x](https://doi.org/10.1016/s0254-6272(12)60003-x) [PMID 22462230](https://pubmed.ncbi.nlm.nih.gov/22462230/) — 불안정 협심증 환자에서 혈어·양허 등 핵심 변증 요소와 특정 임상 증상 간의 유의한 상관관계를 확인하였다.
+
+[^CHD3]: [Diagnostic standard evaluation of Chinese medicine syndrome for coronary heart disease patients after percutaneous coronary intervention]. Xi RX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-08. [관찰연구, 1050명] [PMID 24325049](https://pubmed.ncbi.nlm.nih.gov/24325049/) — PCI 시술 후 관상동맥성 심장질환 환자를 위한 중의학적 변증 진단 표준의 타당성·신뢰도·임상 적용 가능성이 확인되었다.
+
+[^CHD4]: [Clinical therapeutic effect of hyperlipidemia of turbid phlegm obstruction pattern/syndrome treated with the different Jin's three-needle therapies]. Li ZX 외. _Zhen ci yan jiu = Acupuncture research_. 2019-12-25. [임상시험, 90명] [DOI 10.13702/j.1000-0607.190170](https://doi.org/10.13702/j.1000-0607.190170) [PMID 31867913](https://pubmed.ncbi.nlm.nih.gov/31867913/) — 담탁저체증 고지혈증 환자에게 진삼침요법(전침·매선)을 시행했을 때, 단순 보건교육보다 지질 대사·인슐린 저항성 개선에 효과적이었다.
+
+[^CHD5]: [Analysis of relationships among syndrome, therapeutic treatment, and Chinese herbal medicine in patients with coronary artery disease based on complex networks]. Gao ZY 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-03. [관찰연구] [DOI 10.3736/jcim20100307](https://doi.org/10.3736/jcim20100307) [PMID 20226145](https://pubmed.ncbi.nlm.nih.gov/20226145/) — 관상동맥질환 환자의 증후군·치료법·본초 간 상관관계를 복합 네트워크로 분석하여 변증론치의 객관적 근거를 제시하였다.
+
+[^CHD6]: Study on the changes of thrombosis-associated factors in patients with coronary heart disease of turbidity-phlegm blocking syndrome. Wang YL 외. _Chinese journal of integrative medicine_. 2009-10. [관찰연구, 267명] [DOI 10.1007/s11655-009-0337-z](https://doi.org/10.1007/s11655-009-0337-z) [PMID 19802536](https://pubmed.ncbi.nlm.nih.gov/19802536/) — 관상동맥성 심장질환 환자 중 탁담저체증을 보이는 경우, 혈액 응고·섬유소 용해 체계와 밀접한 관련이 있으며 혈전 형성 전 단계에 있을 가능성이 높다.
+
+[^COG1]: Neuropsychological features in post-stroke cognitive impairment with no dementia patients with different Traditional Chinese Medicine syndromes. Ma J 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2019-02. [관찰연구, 50명] [PMID 32186029](https://pubmed.ncbi.nlm.nih.gov/32186029/) — 뇌졸중 후 치매 단계에 이르지 않은 인지장애(PSCIND) 환자들에게서 한의학적 변증에 따라 서로 다른 신경심리학적 결손 패턴이 나타남을 확인하였다.
+
+[^COG2]: Therapeutic Potential of Jiedu Yizhi Formula for Alzheimer's Disease: A Randomized Controlled Trial. Li YQ 외. _Chinese journal of integrative medicine_. 2026-07-31. [임상시험, 62명] [DOI 10.1007/s11655-026-3944-z](https://doi.org/10.1007/s11655-026-3944-z) [PMID 42536296](https://pubmed.ncbi.nlm.nih.gov/42536296/) — 해독이치탕(JYF)은 비신양허·담탁심폐 변증을 보이는 경도-중등도 알츠하이머병 환자의 인지 기능 장애를 개선하는 데 효과적이며 안전성이 우수하였다.
+
+[^COG3]: [Correlation between cognitive functions and syndromes of traditional Chinese medicine in vascular cognitive impairment]. Shi J 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2011-10. [관찰연구, 774명] [DOI 10.3736/jcim20111007](https://doi.org/10.3736/jcim20111007) [PMID 22015188](https://pubmed.ncbi.nlm.nih.gov/22015188/) — 혈관성 인지장애 환자에서 담탁상폐(痰濁上閉) 증후군이 인지 기능 저하(MMSE·CDT)·일상생활수행능력 악화와 밀접한 상관관계가 있음이 확인되었다.
+
+[^TONG1]: Metabolomic Markers in Tongue-Coating Samples from Damp Phlegm Pattern Patients of Coronary Heart Disease and Chronic Renal Failure. Hao Y 외. _Disease markers_. 2019. [실험연구] [DOI 10.1155/2019/4106293](https://doi.org/10.1155/2019/4106293) [PMID 31583028](https://pubmed.ncbi.nlm.nih.gov/31583028/) — 서로 다른 질환(관상동맥질환·만성신부전)이라도 동일한 습담(濕痰) 변증을 보이면 설태 내에 공통적인 대사체적 특징이 존재함을 시사한다.
+
+[^TONG2]: Metabolite Characteristics in Tongue Coating from Damp Phlegm Pattern in Patients with Gastric Precancerous Lesion. Xu Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구, 75명] [DOI 10.1155/2021/5515325](https://doi.org/10.1155/2021/5515325) [PMID 34122594](https://pubmed.ncbi.nlm.nih.gov/34122594/) — 위전암성병변 환자의 담음 변증은 설태 내 지질 및 지질 유사 분자의 비정상적 발현, 특히 글리세로인지질 대사 경로 변화와 밀접한 관련이 있었다.
+
+[^RESP1]: Meta-analysis of the adjuvant treatment of lung cancer patients with Erchen Decoction. Lv X 외. _Medicine_. 2025-10-31. [메타분석, 550명] [DOI 10.1097/MD.0000000000045774](https://doi.org/10.1097/MD.0000000000045774) [PMID 41261602](https://pubmed.ncbi.nlm.nih.gov/41261602/) — 이진탕을 폐암 환자의 보조 치료로 사용할 경우, 증상 완화 속도를 높이고 면역 지표(CD3·CD4)·폐 기능(FEV1)을 유의하게 개선할 수 있었다.
+
+[^RESP2]: [Professor LIN Lin's clinical experiences of comprehensive internal and external therapy for asthma]. Zheng LB. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-05. [증례 보고] [PMID 23885623](https://pubmed.ncbi.nlm.nih.gov/23885623/) — 천식 환자를 한·열·풍·어혈·허의 5가지 변증으로 구분하여, 각 유형에 맞는 한약 처방과 외치법(침·뜸·부항·변석 등)을 병행하는 내외겸치법의 유효성을 제시하였다.
+
+[^RESP3]: Clinical application of expectorant therapy in chronic inflammatory airway diseases (Review). Zhang T 외. _Experimental and therapeutic medicine_. 2014-04. [문헌 고찰] [DOI 10.3892/etm.2014.1494](https://doi.org/10.3892/etm.2014.1494) [PMID 24660026](https://pubmed.ncbi.nlm.nih.gov/24660026/) — 만성 염증성 기도 질환에서 점액 과다분비는 폐 기능 저하·삶의 질 감소의 핵심 요인이므로, 환자 상태에 맞는 적절한 거담 요법 선택이 중요하다.
+
+[^MET1]: Erchen decoction for hyperlipemia: Protocol for a systematic review and meta-analysis. Luo H 외. _Medicine_. 2020-10-16. [체계적 고찰] [DOI 10.1097/MD.0000000000022374](https://doi.org/10.1097/MD.0000000000022374) [PMID 33080674](https://pubmed.ncbi.nlm.nih.gov/33080674/) — 고지혈증 치료에 사용되는 이진탕의 유효성·안전성을 평가하는 체계적 문헌고찰·메타분석 프로토콜.
+
+[^MET2]: A review on the treatment of hyperlipidemia with Erchen Decoction. Tian X 외. _Frontiers in pharmacology_. 2024. [문헌 고찰] [DOI 10.3389/fphar.2024.1445950](https://doi.org/10.3389/fphar.2024.1445950) [PMID 39605912](https://pubmed.ncbi.nlm.nih.gov/39605912/) — 이진탕은 고지혈증 환자의 혈중 지질 수치를 조절하고 심혈관 위험을 낮추는 보조적 치료제로 활용될 가능성이 있다.
+
+[^MET3]: Efficacy of acupoint catgut embedding therapy for phlegm-turbidity and blood-stasis metabolic dysfunction-associated fatty liver disease. Qiu-Hong Hu 외. _World Journal of Gastrointestinal Surgery_. 2025-12-27. [관찰연구, 80명] [DOI 10.4240/wjgs.v17.i12.112063](https://doi.org/10.4240/wjgs.v17.i12.112063) [PMID 10.4240/wjgs.v17.i12.112063](https://pubmed.ncbi.nlm.nih.gov/10.4240/wjgs.v17.i12.112063/) — 담탁혈어증을 동반한 대사 이상 관련 지방간질환(MAFLD-PTBS) 환자에게 매선 요법(ACET)을 적용했을 때, 간 기능 지표(ALT·AST)·대사 지표(BMI·TC·TG)·간 섬유화 관련 바이오마커(PDGF·TGF-β1·CK-18)가 유의하게 개선되었다.
+
+[^MET4]: Serum metabolomics model and its metabolic characteristics in patients with different syndromes of dyslipidemia based on nuclear magnetic resonance. Chen J 외. _Journal of pharmaceutical and biomedical analysis_. 2019-04-15. [관찰연구, 80명] [DOI 10.1016/j.jpba.2018.12.042](https://doi.org/10.1016/j.jpba.2018.12.042) [PMID 30763881](https://pubmed.ncbi.nlm.nih.gov/30763881/) — 이상지질혈증 환자의 변증(비신양허증·담습저체증)을 NMR 기반 혈청 대사체 분석으로 객관화하였으며, 각 증후군이 서로 다른 대사적 특징(담습저체증은 유해 대사물질 축적)을 가짐을 확인하였다.
+
+[^MET5]: Effect of Tanreqing Injection on treatment of acute exacerbation of chronic obstructive pulmonary disease with Chinese medicine syndrome of retention of phlegm and heat in Fei. Li W 외. _Chinese journal of integrative medicine_. 2010-04. [임상시험, 90명] [DOI 10.1007/s11655-010-0131-y](https://doi.org/10.1007/s11655-010-0131-y) [PMID 20473738](https://pubmed.ncbi.nlm.nih.gov/20473738/) — 폐의 담열저류 증후군을 동반한 COPD 급성 악화 환자에게 탄열청 주사를 투여했을 때, 기침·가래·객담 배출 등 증상과 설질 등 한의학적 징후가 유의하게 개선되었다.
+
+[^QIGONG1]: [Effects of Fitness Qigong Baduanjin on phlegm-dampness hypertension]. Dong DG 외. _Zhongguo ying yong sheng li xue za zhi = Zhongguo yingyong shenglixue zazhi = Chinese journal of applied physiology_. 2020-03. [임상시험, 47명] [DOI 10.12047/j.cjap.5924.2020.035](https://doi.org/10.12047/j.cjap.5924.2020.035) [PMID 32744011](https://pubmed.ncbi.nlm.nih.gov/32744011/) — 팔단금 운동은 담습옹성형 고혈압 환자의 혈압을 낮추고 혈액 유동성·항산화 지표(SOD 증가, MDA·ET-1 감소)를 개선하는 효과가 있었다.
+
+[^ONC1]: Analysis of Gut Microbiota as a Diagnostic Biomarker for Lung Adenocarcinoma with Qi-Deficiency and Phlegm-Turbid Stagnation. Chen J 외. _Combinatorial chemistry & high throughput screening_. 2025. [관찰연구, 90명] [DOI 10.2174/0113862073303081240521083505](https://doi.org/10.2174/0113862073303081240521083505) [PMID 38847243](https://pubmed.ncbi.nlm.nih.gov/38847243/) — 폐선암 환자의 기허담탁(氣虛痰濁) 증후군을 진단하기 위해 장내 미생물 분석을 통한 바이오마커를 발굴하고 진단 모델을 구축하였다.
+
+[^CARDIOREN1]: Utilizing data mining techniques to analyze traditional Chinese medicine patterns in patients with acute cardiorenal syndrome. Deshuang Yang 외. _Advanced Chinese Medicine_. 2024-04. [관찰연구] [DOI 10.1002/acm4.14](https://doi.org/10.1002/acm4.14) [PMID 10.1002/acm4.14](https://pubmed.ncbi.nlm.nih.gov/10.1002/acm4.14/) — 급성 심신 증후군(ACRS) 치료 시 온성·평성 성질의 감미·신미 약재가 주로 사용되며, 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 유용하고 폐·비 경락으로 귀경하는 약재 조합이 핵심이다.
 
 **고전 인용 출처**: 『金匱要略』(痰飮病脈證治), 『素問』(至眞要大論, 痿論), 『靈樞』, 『難經』, 『傷寒論』(小陷胸湯), 『諸病源候論』, 『丹溪心法』, 『醫學心悟』(半夏白朮天麻湯), 『太平惠民和劑局方』(二陳湯), 『三因極一病證方論』(溫膽湯), 『萬病回春』(蒼附導痰湯), 『外科正宗』(海藻玉壺湯), 『溫病條辨』(安宮牛黃丸), 『醫學衷中參西錄』
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-17 조회 기준
