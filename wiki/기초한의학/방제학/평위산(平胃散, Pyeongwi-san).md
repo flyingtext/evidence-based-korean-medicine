@@ -64,12 +64,12 @@
 
 평위산은 다음 약재로 구성된다. 각 약재의 위키 문서가 존재하면 내부 링크로 연결한다.
 
-- [진피(陳皮, Citri Reticulatae Pericarpium)](../본초학/진피(陳皮, Citri Reticulatae Pericarpium).md) — 이기(理氣)·조습(燥濕).
-- [후박(厚朴, Magnoliae Cortex)](../본초학/후박(厚朴, Magnoliae Cortex).md) — 행기(行氣)·조습(燥濕).
-- [창출(蒼朮, Atractylodis Lanceae Rhizoma)](../본초학/창출(蒼朮, Atractylodis Lanceae Rhizoma).md) — 조습(燥濕)·건비(健脾).
-- [감초(甘草, Glycyrrhiza)](../본초학/감초(甘草, Glycyrrhiza).md) — 조화(調和)·보비(補脾).
-- [생강(生薑, Zingiber officinale)](../본초학/생강(生薑, Zingiber officinale).md) — 온중(溫中)·화위(和胃).
-- [대조(大棗, Jujube)](../본초학/대조(大棗, Jujube).md) — 보비(補脾)·익기(益氣).
+- 진피(陳皮, Citri Reticulatae Pericarpium) — 이기(理氣)·조습(燥濕).
+- 후박(厚朴, Magnoliae Cortex) — 행기(行氣)·조습(燥濕).
+- 창출(蒼朮, Atractylodis Lanceae Rhizoma) — 조습(燥濕)·건비(健脾).
+- 감초(甘草, Glycyrrhiza) — 조화(調和)·보비(補脾).
+- 생강(生薑, Zingiber officinale) — 온중(溫中)·화위(和胃).
+- 대조(大棗, Jujube) — 보비(補脾)·익기(益氣).
 
 ## Q&A
 

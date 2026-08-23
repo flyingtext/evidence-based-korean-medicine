@@ -120,8 +120,7 @@ def step_recent() -> int:
     ]
     for rel, date in items:
         title = os.path.splitext(os.path.basename(rel))[0]
-        link = "./" + rel
-        lines.append(f"| [{title}]({link}) | {category(rel)} | {date} |")
+        lines.append(f"| {title} | {category(rel)} | {date} |")
     lines.append("")
 
     target = os.path.join(WIKI_DIR, "최근업데이트.md")

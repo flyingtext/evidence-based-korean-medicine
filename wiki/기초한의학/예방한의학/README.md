@@ -2,9 +2,9 @@
 
 ## 문서 목록
 
-- [미병(未病, Preventive Treatment)](미병(未病, Preventive Treatment).md)
+- 미병(未病, Preventive Treatment)
   - 하위 표제어: 미병선방(未病先防) · 욕병(欲病) · 기병방변(既病防變) · 차후방복(瘥後防復) · 준건강상태(sub-health) · 체질-미병-질병 관계 발달 축
-- [스트레스 관리(Stress Management)](스트레스관리.md)
+- 스트레스 관리(Stress Management)
   - 하위 표제어: 침·전침 기반 관리 · 이침·지압 기반 관리 · 한약 기반 관리 · 기공·팔단금·마음챙김 기반 관리 · 아로마테라피·기타 병용 요법
 
 ## 동음이의 분류
