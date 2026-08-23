@@ -130,7 +130,7 @@
 
 녹용(鹿茸, Cervi Cornu Pantotrichum)은 사슴의 아직 각질화되지 않은 연한 새뿔로, 감·함(鹹)·온(溫)의 성미로 신(腎)·간(肝) 경에 귀경(歸經)한다. [교과서적 근거] 효능은 장양보수(壯陽補髓)·익정혈(益精血)·강근골(强筋骨)·탁창생기(托瘡生肌)이다. 공진단에서 녹용은 신(腎)의 정(精)을 크게 보하고 골수(骨髓)를 충실하게 하는 핵심 역할을 한다. [교과서적 근거]
 
-녹용의 주요 성분인 ganglioside는 작업기억(working memory)과 디폴트 모드 신경망(default mode network)에 영향을 미치는 것으로 보고되었다.[^14] 녹용 추출물은 소아(12주 무작위 대조시험)에서 안전성이 확인되었으며,[^15] 녹용 분별 증류액(distilled Cervi Pantotrichum Cornu)과 숙지황 약침 제제는 인체 적용 연구에서 활용된 바 있다.[^16] 녹용·사슴 힘줄 액상 보충제는 관절 기능 개선에 효과를 보인 임상시험이 있다.[^17] 녹용 대용 약물 탐색·동물 대체 약재 관련 문헌 고찰도 보고되었다.[^18][^19]
+녹용의 주요 성분인 ganglioside는 작업기억(working memory)과 디폴트 모드 신경망(default mode network)에 영향을 미치는 것으로 보고되었다.[^14] 녹용 추출물은 소아(12주 무작위 대조시험)에서 안전성이 확인되었으며,[^15] 녹용 분별 증류액(distilled Cervi Pantotrichum Cornu)과 숙지황 약침 제제는 인체 적용 연구에서 활용된 바 있다.[^16] 녹용·사슴 힘줄 액상 보충제는 관절 기능 개선에 효과를 보인 임상시험이 있다.[^17] 녹용 대용 약물 탐색·동물 대체 약재 관련 문헌 고찰도 보고되었다.[^18][^19] 아교(阿膠) 또는 녹용을 포함한 중약 처방을 다룬 무작위 대조시험 844명 대상 체계적 고찰·메타분석에서, 미페프리스톤(mifepristone) 병용 시 자궁근종(子宮筋腫) 부피 감소·관련 증상 개선 효과가 단독 요법보다 우수했고 이상반응 발생률은 대조군보다 낮았다.[^63] 녹용이 부인과 영역에서 보조적 치료제로 고려될 수 있음을 뒷받침하는 근거이나, 공진단 전체 처방이 아닌 녹용 단일 성분을 포함한 복방을 대상으로 한 결과임에 유의해야 한다.
 
 ### 제2장 사향(麝香, Moschus) — 신약(臣藥)·개규(開竅)
 
@@ -392,6 +392,7 @@
 [^60]: Efficacy and safety of an herbal formula (KBMSI-2) in the treatment of erectile dysfunction: A preliminary clinical study. _Investigative and clinical urology_. 2019-07. [임상시험] [DOI 10.4111/icu.2019.60.4.275](https://doi.org/10.4111/icu.2019.60.4.275) [PMID 31294137](https://pubmed.ncbi.nlm.nih.gov/31294137/) — 산수유 함유 한약 복합 처방(KBMSI-2) 8주 투여로 발기부전 환자 IIEF-EF 점수 유의 개선. 산수유 남성 생식 기능 임상 근거.
 [^61]: Patterns of herbal combination for the treatment of insomnia commonly employed by highly experienced Chinese medicine physicians. _Chinese journal of integrative medicine_. 2011-09. [관찰연구] [DOI 10.1007/s11655-011-0841-9](https://doi.org/10.1007/s11655-011-0841-9) [PMID 21910065](https://pubmed.ncbi.nlm.nih.gov/21910065/) — 숙련 중의사 처방 데이터 460회 분석에서 산수유-생지홈 조합이 불면증 치료 100% 긍정 결과. 산수유 불면증 관찰 근거.
 [^62]: Pregnancy in premature ovarian failure after therapy using Chinese herbal medicine. _Chang Gung medical journal_. 2003-06. [증례 보고] [PMID 12956293](https://pubmed.ncbi.nlm.nih.gov/12956293/) — 좌귀환(산수유 함유) 가감방 투여 후 클로미펜 실패 조기 난소 부전 환자 배란·임신 성공. 산수유 부인과·난소 기능 회복 증례 근거.
+[^63]: Efficacy of Chinese herbal prescriptions containing Ejiao or Velvet antler for management of uterine fibroids: a systematic review and meta-analysis of randomized controlled trials. _Annals of palliative medicine_. 2021-08. [메타분석] [DOI 10.21037/apm-21-1755](https://doi.org/10.21037/apm-21-1755) [PMID 34488366](https://pubmed.ncbi.nlm.nih.gov/34488366/) — 아교 또는 녹용 포함 중약 처방(844명) 자궁근종 부피·증상 개선, 미페프리스톤 병용 시 효과 증대, 대조군 대비 이상반응 낮음. 녹용 부인과 보조 치료 근거(공진단 전체가 아닌 녹용 함유 복방 대상).
 
 **고전 인용 출처**: 『東醫寶鑑』(內篇), 『醫方集解』, 『萬氏育兒』(萬全), 『黃帝內經素問』, 『靈樞』
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-20 조회 기준
