@@ -15,7 +15,7 @@
 소설(疏泄)이란 소통(疏通)하고 발설(發泄)한다는 뜻으로, 전신 기기(氣機)의 승강출입(升降出入)을 조달하는 기능이다. 목(木)의 곡직(曲直)하고 조달(條達)하는 성질에서 유래한다. 소설 기능은 네 방면에서 발현한다.
 
 1. **정지(情志) 조달** — 기기가 창달하면 정서가 화평하고, 울결하면 억울·태식(太息)·번조가 나타난다. 간기울결의 정서 증상은 이 축에서 직접 비롯된다[^101].
-2. **비위 운화(脾胃運化) 보조** — 간의 소설이 비의 승청(升淸)과 위의 강탁(降濁)을 도우며, 담즙의 분비·배설을 주관한다. 실조하면 **간목승비(肝木乘脾)**·**간위불화(肝胃不和)**가 되어 소화기 증상이 동반된다. 이것이 간울비허(肝鬱脾虛)·간비불화(肝脾不和) 변증의 병기적 근거다[^102].
+2. **비위 운화(脾胃運化) 보조** — 간의 소설이 비의 승청(升淸)과 위의 강탁(降濁)을 도우며, 담즙의 분비·배설을 주관한다. 실조하면 **간목승비(肝木乘脾)**·**간위불화(肝胃不和)**가 되어 소화기 증상이 동반된다. 이것이 간울비허(肝鬱脾虛)·간비불화(肝脾不和) 변증의 병기적 근거다.
 3. **혈·진액 운행 촉진** — "氣行則血行". 소설이 실조하면 **기체혈어(氣滯血瘀)**·수습정체가 발생한다. 간기울결이 오래되면 월경통·유방창통·협륵자통이 나타나는 것은 이 경로다[^103].
 4. **생식 기능 조절** — 남자의 배정(排精), 여자의 배란과 월경 주기를 조절한다. 간기울결에서 월경불순·월경전증후군·불임이 동반되는 것은 이 축의 실조다[^104].
 
@@ -322,22 +322,13 @@
 
 | 경로 | 방향 | 관련 방제·약물 |
 | --- | --- | --- |
-| 5-HT1A 수용체 발현 | 상향 | 경간서(荊芎疏) 과립(PMS 간기울결 모델) [^46] |
-| β-아레스틴2-중재 MAPK 신호 | 조절 | 소요산 [^81] |
 | 혈청 염증성 사이토카인·NF-κB | 억제 | 가미소요산 [^82] |
 | 장내미생물 조성 재조정 | 정상화 | 통사요방(通瀉要方) [^53] |
-| 해마 신경가소성·신경염증 | 개선 | 시호소간산(초산 억제, C3/C3aR) [^83] |
-| 시상하부-하수체-난소축 | 조절 | 홍화소요편 [^45] |
 | 위장관 운동 | 조절 | 가미소요산 [^60] |
 
 전통적 "疏肝解鬱"은 현대적으로 **① 세로토닌·도파민·카테콜아민 신경전달 조절, ② 염증성 사이토카인·NF-κB 억제, ③ 장내미생물-뇌-장축 재조정, ④ 해마 신경가소성 회복**의 조합으로 읽힌다.
 
 최근의 종합 분석은 이 그림을 뒷받침한다. 소요산 계열 제제가 SSRI 대비 약효 발현이 빠르고 관해율은 유사하거나 높으며 위장관·수면 관련 부작용은 더 적다는 인간 연구 종합[^142]과, 장내미생물 조절·NLRP3/TLR4 매개 염증 경로 억제를 통해 장-뇌 축(gut-brain axis) 기능을 회복시켜 우울증을 개선한다는 문헌 고찰[^143]은 소간해울 처방의 항우울 기전이 염증-신경가소성-장내미생물 축에서 수렴함을 보여준다. 소요산 투여 후 우울증 환자의 요중 대사체(에너지·트립토판·타우린 대사)가 HAMD 개선과 연동되어 변화한 소규모 연구[^184]도 이 기전적 그림에 부합한다.
-
-#### 8-3. 음악요법·비약물 요법의 기전
-
-**공(宮)음 음악의 면역조절** [^84]  
-간기울결·비기허 모델 랫드에서 공(宮)조 음악이 면역 기능을 조절하였다. 오음(五音) 요법이 소간해울의 비약물 보조 수단으로 기전을 가질 가능성을 시사한다.
 
 ---
 
@@ -469,7 +460,7 @@
 
 | 본초 | 역할 | 참고 |
 | --- | --- | --- |
-| **당귀(當歸)** | 養血和血 — 시호의 승산으로 인한 음혈 손상 방지 | 소요산·가미소요산 군약. 당귀는 혈허 모델에서 조혈 개선 [^92] |
+| **당귀(當歸)** | 養血和血 — 시호의 승산으로 인한 음혈 손상 방지 | 소요산·가미소요산 군약 |
 | **백작약(白芍藥)** | 養血斂陰柔肝 — 시호·향부자의 향조를 완화 | 작약감초탕으로 근완급. 사물탕 구성 |
 | **백출(白朮)** | 健脾燥濕 — 생화지원 세움 | 소요산·가미소요산 |
 | **복령(茯苓)** | 健脾利濕, 寧心安神 | 소요산·반하후박탕 |
@@ -502,8 +493,6 @@
 | **족삼리(足三里, ST36)** | 비위 보법 — 간목승비 겸할 때 |
 | **삼음교(三陰交, SP6)** | 간·비·신 삼음경 교회혈 — 월경관련 증상 |
 | **신문(神門, HT7)** | 심의 원혈 — 불면·불안·다몽 |
-
-태충(LR3)·LR8 등 간경 혈위의 감각·운동 신경 지배 분포가 실험적으로 비교되어[^119], 경혈의 해부학적 특이성이 부분 지지된다.
 
 #### 12-3. 증상별 배혈
 
@@ -626,7 +615,7 @@
 
 #### ③ 병태생리
 
-월경전증후군 환자 90명에서 간기울결형·간양상항형이 신경스테로이드·신경전달물질 수치와 유의하게 달랐다 [^11]. 홍화소요편 PMS 모델에서 시상하부-하수체-난소축 조절이 확인되었다 [^45]. 시호함유 처방이 난소 난포질에 미치는 영향도 보고되었다 [^35].
+월경전증후군 환자 90명에서 간기울결형·간양상항형이 신경스테로이드·신경전달물질 수치와 유의하게 달랐다 [^11]. 시호함유 처방이 난소 난포질에 미치는 영향도 보고되었다 [^35].
 
 #### ④ 치료
 
@@ -643,7 +632,7 @@
 | 갱년기 간울화화 | **가미소요산** | 정서억울·번조·변비 |
 | 불임 간기울결 | **소요산 가 양혈보신** | 월경불순·정서억울 |
 
-> 월경전증후군 전국 데이터베이스 14,312명에서 한약 사용 패턴이 분석되었다 [^27]. PMS 침구 체계적 고찰 [^28]·메타분석 [^29]·Cochrane 고찰 [^30]이 보고되었다. 가미소요산(Kamishoyosan) PMS 파일럿 30명 [^31], PMS 측정 45명 [^32], 홍화소요편 PMS 모델 [^45]이 있다. 갱년기 가미소요산 205명 [^33], 호프라시 환자 갱년기증상 120명 [^34], 갱년기 중등도이상 기분장애 한약-심리치료 85명 [^24], 유방암 항암중 한약 48명 [^37], 유방암 호르몬요법 유발 갱년기증상 한약 22명 [^36]이 보고되었다. 폐경 후 사물탕 10회 이상 사용이 건강관련 삶의 질과 연관되었다 [^38].
+> 월경전증후군 전국 데이터베이스 14,312명에서 한약 사용 패턴이 분석되었다 [^27]. PMS 침구 체계적 고찰 [^28]·메타분석 [^29]·Cochrane 고찰 [^30]이 보고되었다. 가미소요산(Kamishoyosan) PMS 파일럿 30명 [^31], PMS 측정 45명 [^32]이 있다. 갱년기 가미소요산 205명 [^33], 호프라시 환자 갱년기증상 120명 [^34], 갱년기 중등도이상 기분장애 한약-심리치료 85명 [^24], 유방암 항암중 한약 48명 [^37], 유방암 호르몬요법 유발 갱년기증상 한약 22명 [^36]이 보고되었다. 폐경 후 사물탕 10회 이상 사용이 건강관련 삶의 질과 연관되었다 [^38].
 
 > 최근 임상시험은 이 근거를 더 넓힌다. 경전서과립(荊芎疏) 156명 다기관 위약대조시험이 간기울결형 PMS에 유효·안전했고[^169], PMS 대상 TCM 한약 대조시험 61명도 위약보다 우울·불안·분노를 유의하게 낮췄다[^190]. 간기울결형 PMDD에는 소요산의 소변 대사체 기전 규명 임상시험이 진행되었다[^161]. 간기울결형 갱년기 불면증에는 침+가감향부조 병행이 에스졸람보다 우수했고(120명)[^162], 청소년 다낭성난소증후군(PCOS)에서는 간기울결 증후군의 중증도가 갑상선자극호르몬(TSH) 상승과 연관되었다[^197]. 인슐린저항성 PCOS에는 단지소요환+표준치료가 배란율·임신율을 높였다(60명)[^160]. 유방 영역에서는 홍화소요환이 간기울결·혈어형 유선증식증의 유방통·종괴·정서를 개선했고(60명)[^170], 가감 소요산+이진탕도 유방증식증에서 96.1%의 유효율과 프로락틴·에스트라디올 저하를 보였다(51명)[^181]. 갱년기증후군의 변증 분포 조사(1,582명)에서는 폐경 전후 간기울결·비신양허, 폐경 후 신음허가 우세했다[^205].
 
@@ -1065,9 +1054,7 @@
 
 [^44]: \[Clinical research on acupoint catgut implantation in postpartum pain of uterine contraction with qi and blood deficiency\]. 2014. [PMID 24673051](https://pubmed.ncbi.nlm.nih.gov/24673051/)
 
-[^45]: Mechanistic study on the holistic actions of Hong-Hua-Xiao-Yao Tablet in alleviating premenstrual syndrome in rats. _Phytomedicine_. 2026. [PMID 41990531](https://pubmed.ncbi.nlm.nih.gov/41990531/)
 
-[^46]: \[Effects of jingqianshu granule on expression of 5-HT(1A)R of PMS model rats with liver-qi stagnation\]. 2011. [PMID 22368865](https://pubmed.ncbi.nlm.nih.gov/22368865/)
 
 [^47]: Chinese herbal medicine modified xiaoyao san for functional dyspepsia: meta-analysis of RCTs. _J Gastroenterol Hepatol_. 2009. [PMID 19702899](https://pubmed.ncbi.nlm.nih.gov/19702899/)
 
@@ -1136,13 +1123,10 @@
 
 [^80]: \[Pharmacokinetic characteristics of ferulic acid in patients with different syndromes of deficiency of spleen qi, stagnation of liver qi and spleen deficiency, and excess of stomach heat\]. 2006. [PMID 16529690](https://pubmed.ncbi.nlm.nih.gov/16529690/)
 
-[^81]: Xiao Yao San Improves Depressive-Like Behavior in Rats through Modulation of β-Arrestin 2-mediated pathways. 2014. [PMID 25097660](https://pubmed.ncbi.nlm.nih.gov/25097660/)
 
 [^82]: Anti-inflammatory effect and action mechanisms of traditional herbal formula Gamisoyo-san. 2017. [PMID 27422559](https://pubmed.ncbi.nlm.nih.gov/27422559/)
 
-[^83]: \[Chaihu Shugan San inhibits C3/C3aR-mediated microglial M1 polarization to improve hippocampal synaptic plasticity in mice with menopausal syndrome with liver qi stagnation\]. 2026. [PMID 42576491](https://pubmed.ncbi.nlm.nih.gov/42576491/)
 
-[^84]: Effect and mechanisms of Gong-tone music on the immunological function in rats with Liver-qi depression and Spleen-qi deficiency syndrome. _Chin J Integr Med_. 2013. [PMID 22241503](https://pubmed.ncbi.nlm.nih.gov/22241503/)
 
 [^85]: Mechanistic insights into the antidepressant effects of the Angelica sinensis and Ligusticum chuanxiong Herb Pair. 2026. [PMID 41780614](https://pubmed.ncbi.nlm.nih.gov/41780614/)
 
@@ -1158,7 +1142,6 @@
 
 [^91]: \[Distribution of TCM patterns in 324 cases with hepatitis B-related acute-on-chronic liver failure\]. 2012. [PMID 23427385](https://pubmed.ncbi.nlm.nih.gov/23427385/)
 
-[^92]: Metabolomics study of hematopoietic function of Angelica sinensis on blood deficiency mice model. _J Ethnopharmacol_. 2015. [PMID 25797116](https://pubmed.ncbi.nlm.nih.gov/25797116/)
 [^93]: Does Traditional Chinese Medicine pattern affect acupoint specific effect? 2013. [PMID 22823583](https://pubmed.ncbi.nlm.nih.gov/22823583/)
 [^94]: The impact of chemotherapy in cancer patients: reflection on traditional Chinese symptom complex, cancer-related fatigue, and quality of life. _Holist Nurs Pract_. 2013. [PMID 23925347](https://pubmed.ncbi.nlm.nih.gov/23925347/)
 [^95]: Danggui Buxue Tang Potentiates Paclitaxel Efficacy in NSCLC by Inducing Ferroptosis via the Nrf2/GPX4 Axis. 2026. [PMID 42075862](https://pubmed.ncbi.nlm.nih.gov/42075862/)
@@ -1169,7 +1152,6 @@
 [^100]: Gui-Shao San Umbilical Moxibustion for Diarrhea-Predominant Irritable Bowel Syndrome With Liver Depression and Spleen Deficiency Pattern: A Randomized Controlled Trial. _Gastroenterol Res Pract_. 2026. [PMID 42157997](https://pubmed.ncbi.nlm.nih.gov/42157997/) [DOI 10.1155/grp/1832176](https://doi.org/10.1155/grp/1832176)
 
 [^101]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간실증(간기울결·간양상항·간화상염)이 교감신경 항진(NE·E 상승)과 연관됨. 정지-자율신경 축의 직접 증거.
-[^102]: \[Effect of method of soothing liver and regulating qi on expression of gastrin and somatostatin in hypothalamus, gastric antrum of functional dyspepsia rats\]. _Zhongguo Zhong yao za zhi_. 2010. [PMID 21355285](https://pubmed.ncbi.nlm.nih.gov/21355285/) — 소간이기법이 가스트린·소마토스타틴 발현 조절. 간-비위 축의 실험 근거.
 [^103]: Circulating MicroRNA Profiles Differ between Qi-Stagnation and Qi-Deficiency in Coronary Heart Disease Patients with Blood Stasis Syndrome. 2014. [PMID 25548593](https://pubmed.ncbi.nlm.nih.gov/25548593/) — 관상동맥질환 혈어증에서 기체군과 기허군 사이 순환 microRNA 프로파일 차이. 기체혈어의 병기적 이질성.
 [^104]: Effects of Japanese traditional medicines on circulating cytokine levels in women with hot flashes. _Menopause_. 2011. [PMID 20647958](https://pubmed.ncbi.nlm.nih.gov/20647958/) — 갱년기 사이토카인 변화. 간-생식 축의 인간 근거.
 [^105]: A study on plasma norepinephrine and epinephrine levels in TCM liver syndromes. _J Tradit Chin Med_. 1997. [PMID 10437216](https://pubmed.ncbi.nlm.nih.gov/10437216/) — 간기울결→간양상항→간양화풍 전변에 따라 카테콜아민이 순차 증가. 양측 전변 경로의 생리학적 연속성.
@@ -1186,7 +1168,6 @@
 [^116]: Proprietary Medicines Containing Bupleurum chinense DC. (Chaihu) for Depression: Network Meta-Analysis and Network Pharmacology Prediction. _Front Pharmacol_. 2022. [DOI 10.3389/fphar.2022.773537](https://doi.org/10.3389/fphar.2022.773537) — 시호 함유 중약제제 우울증 네트워크메타분석(3,263명).
 [^117]: Antidepressant-like effect of the methanolic extract from Bupleurum falcatum in the tail suspension test. _Prog Neuropsychopharmacol Biol Psychiatry_. 2010. [PMID 19932727](https://pubmed.ncbi.nlm.nih.gov/19932727/) — 시호 추출물 항우울 유사 효과(동물).
 [^118]: A comprehensive review of the botany, traditional uses, phytochemistry, pharmacology, processing and quality evaluation of Bupleurum scorzonerifolium Willd. _J Ethnopharmacol_. 2026. [PMID 40865657](https://pubmed.ncbi.nlm.nih.gov/40865657/) — 시호 종합 약리·식물화학·가공 품질평가.
-[^119]: Comparison of Sensory and Motor Innervation Between the Acupoints LR3 and LR8 in Rats. _Front Integr Neurosci_. 2021. [DOI 10.3389/fnint.2021.728747](https://doi.org/10.3389/fnint.2021.728747) — 태충(LR3)·곡천(LR8) 감각·운동 신경 지배 분포 비교(실험).
 [^120]: Shuganjieyu capsule for major depressive disorder (MDD) in adults: a systematic review. _Aging Ment Health_. 2014. [PMID 24697344](https://pubmed.ncbi.nlm.nih.gov/24697344/) — 해간해울캡슐 주요우울장애 체계적 고찰(595명).
 [^121]: Herbal medicine as adjunctive therapy with antidepressants for post-stroke depression: a systematic review and network meta-analysis of randomized controlled trials. _Front Pharmacol_. 2023. [DOI 10.3389/fphar.2023.1180071](https://doi.org/10.3389/fphar.2023.1180071) — 한약-항우울제 병용 뇌졸중 후 우울 네트워크메타분석(4,507명).
 [^122]: \[Treatment of nonalcoholic steatohepatitis by Jianpi Shugan Recipe: a multi-center, randomized, controlled clinical trial\]. 2014. [PMID 24520780](https://pubmed.ncbi.nlm.nih.gov/24520780/) — 건비소간방(健脾疏肝方) 비알코올성지방간염 204명 다기관 무작위시험. 간기울결-대사축 연결.
