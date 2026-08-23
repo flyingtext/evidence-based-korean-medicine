@@ -153,9 +153,12 @@ def _normalize_db_rows(rows: list[dict]) -> list[dict]:
 def db_fetch(params: dict, page: int, per_page: int, retries: int = 3) -> dict:
     """DB 직결 검색 — med.symbolicinfo.com app.py의 /search 로직을 재현.
 
-    LIKE '%term%' 전수 스캔 대신 articles.ft_articles_text(title, authors, journal)·
-    article_analysis.ft_analysis_text(pico_p/i/c/o, clinical_summary) FULLTEXT(ngram)
-    인덱스를 MATCH...AGAINST로 사용해 동일한 결과를 훨씬 빠르게 얻는다.
+    articles.title/authors/journal, article_analysis.pico_p/i/c/o/clinical_summary에
+    LIKE '%term%' 부분일치로 검색한다. 이전에는 FULLTEXT(ngram) 인덱스를 MATCH...AGAINST
+    (NATURAL LANGUAGE MODE)로 사용했으나, 대형 혼합(영/한) 코퍼스에서 영어 단어의 2글자
+    ngram 토큰이 50% 초과-빈도 스탑워드로 처리되어 검색어와 무관하게 거의 전체 테이블이
+    매치되는 버그가 실측 확인되어(예: 'diabetes' 검색 시 전체 66만 건 중 58만 건 매치)
+    LIKE 방식으로 되돌렸다. LIKE는 인덱스를 못 타 다소 느리지만 결과가 정확하다.
     """
     if pymysql is None:
         raise RuntimeError("pymysql 미설치 — `pip install pymysql` 필요 (또는 --api로 HTTP 경로 사용)")
@@ -196,14 +199,18 @@ def db_fetch(params: dict, page: int, per_page: int, retries: int = 3) -> dict:
     a_params: list = []
     if q:
         for t in [t for t in q.split() if t]:
+            # NOTE: ngram FULLTEXT 인덱스의 NATURAL LANGUAGE MODE는 대형 혼합(영/한) 코퍼스에서
+            # 영어 단어의 2글자 ngram 토큰이 50% 초과-빈도 스탑워드로 처리되어 사실상 "전체 매치"로
+            # 폭주하는 문제가 실측 확인됨 (예: 'diabetes' 검색 시 66만 건 중 58만 건 매치).
+            # 검색어 무관하게 결과가 동일해지는 버그였으므로 LIKE '%term%' 부분일치로 대체한다.
             like = f"%{t}%"
             a_where.append(
-                "(MATCH(a.title, a.authors, a.journal) AGAINST(%s IN NATURAL LANGUAGE MODE) "
-                "OR MATCH(an.pico_p, an.pico_i, an.pico_c, an.pico_o, an.clinical_summary) "
-                "AGAINST(%s IN NATURAL LANGUAGE MODE) "
+                "(a.title LIKE %s OR a.authors LIKE %s OR a.journal LIKE %s "
+                "OR an.pico_p LIKE %s OR an.pico_i LIKE %s OR an.pico_c LIKE %s OR an.pico_o LIKE %s "
+                "OR an.clinical_summary LIKE %s "
                 "OR a.doi LIKE %s OR a.pmid LIKE %s)"
             )
-            a_params.extend([t, t, like, like])
+            a_params.extend([like, like, like, like, like, like, like, like, like, like])
 
     needs_join = bool(a_where)
     where_clauses = g_where + a_where
