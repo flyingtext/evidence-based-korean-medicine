@@ -14,6 +14,11 @@ med.symbolicinfo.com /search API로 논문을 수집해 마크다운 각주 정�
     - experimental_study 중 is_human_study==0 (동물실험)은 본문 인용에서 제외하되 목록에는 남기고 제외 사유를 로깅
     - --include-animal 로 포함 가능 (기본: 제외)
 
+데이터 소스:
+    - 기본은 DB 직결(pymysql, pubmed_rss)이며 articles/article_analysis의 FULLTEXT(ngram) 인덱스로 검색한다.
+    - DB 접속 정보는 저장소 루트 .env(DB_HOST/DB_PORT/DB_USER/DB_PASSWORD/DB_NAME) 또는 환경변수에서 읽는다.
+    - --api 플래그로 기존 med.symbolicinfo.com /search HTTP API 경로로 강제 전환할 수 있다 (DB 접속 불가 시 자동 폴백).
+
 로깅:
     - stderr 로 진행 로그 출력 (INFO: 페이지별, DEBUG: 개별 논문, WARNING: 재시도/누락)
     - --verbose / -v : DEBUG 레벨, --log-level 로 세밀 조정
@@ -25,13 +30,35 @@ import argparse
 import collections
 import json
 import logging
+import os
 import sys
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
 
+try:
+    import pymysql
+    import pymysql.cursors
+except ImportError:  # pragma: no cover - DB 경로 미사용 환경 대비
+    pymysql = None
+
+try:
+    from dotenv import load_dotenv
+except ImportError:  # pragma: no cover
+    load_dotenv = None
+
 BASE = "https://med.symbolicinfo.com"
+
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if load_dotenv:
+    load_dotenv(os.path.join(ROOT, ".env"))
+
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = int(os.getenv("DB_PORT", "3306"))
+DB_USER = os.getenv("DB_USER", "root")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "")
+DB_NAME = os.getenv("DB_NAME", "pubmed_rss")
 
 CATEGORY_LABEL = {
     "clinical_trial": "임상시험",
@@ -98,6 +125,197 @@ def fetch(params: dict, retries: int = 3, timeout: int = 30, delay: float = 0.0)
     raise RuntimeError(f"fetch 실패 after {retries} retries: {last_exc}") from last_exc
 
 
+def get_db_connection():
+    if pymysql is None:
+        raise RuntimeError("pymysql 미설치 — `pip install pymysql` 필요 (또는 --api로 HTTP 경로 사용)")
+    return pymysql.connect(
+        host=DB_HOST, port=DB_PORT, user=DB_USER, password=DB_PASSWORD, database=DB_NAME,
+        charset="utf8mb4", cursorclass=pymysql.cursors.DictCursor,
+    )
+
+
+def _normalize_db_rows(rows: list[dict]) -> list[dict]:
+    """DB row(datetime 등)를 HTTP API 응답과 동일한 형태로 맞춘다."""
+    out = []
+    for r in rows:
+        d = dict(r)
+        for key in ("fetched_at", "analyzed_at"):
+            if d.get(key) is not None and hasattr(d[key], "isoformat"):
+                d[key] = d[key].isoformat(sep=" ")
+        if d.get("is_korean_medicine") is not None:
+            d["is_korean_medicine"] = bool(d["is_korean_medicine"])
+        if d.get("is_human_study") is not None:
+            d["is_human_study"] = bool(d["is_human_study"])
+        out.append(d)
+    return out
+
+
+def db_fetch(params: dict, page: int, per_page: int, retries: int = 3) -> dict:
+    """DB 직결 검색 — med.symbolicinfo.com app.py의 /search 로직을 재현.
+
+    LIKE '%term%' 전수 스캔 대신 articles.ft_articles_text(title, authors, journal)·
+    article_analysis.ft_analysis_text(pico_p/i/c/o, clinical_summary) FULLTEXT(ngram)
+    인덱스를 MATCH...AGAINST로 사용해 동일한 결과를 훨씬 빠르게 얻는다.
+    """
+    if pymysql is None:
+        raise RuntimeError("pymysql 미설치 — `pip install pymysql` 필요 (또는 --api로 HTTP 경로 사용)")
+
+    q = (params.get("q") or "").strip()
+    km = params.get("km")
+    human = params.get("human")
+    lit = params.get("lit")
+    analyzed_only = params.get("analyzed") in (1, "1", True)
+    cat = params.get("cat", "")
+    source = (params.get("source") or "all").strip().lower()
+
+    g_where: list[str] = []
+    g_params: list = []
+    if analyzed_only:
+        g_where.append("g.has_analysis = 1")
+    if km in (1, "1"):
+        g_where.append("g.is_korean_medicine = 1")
+    if human in (1, "1"):
+        g_where.append("g.is_human_study = 1")
+    if lit in (1, "1"):
+        g_where.append("g.is_literature_review = 1")
+    if cat:
+        cats = [c.strip() for c in str(cat).split(",") if c.strip()]
+        if cats:
+            g_where.append("g.research_category IN (" + ",".join(["%s"] * len(cats)) + ")")
+            g_params.extend(cats)
+    if source == "pubmed":
+        g_where.append("g.in_pubmed = 1")
+    elif source == "crossref":
+        g_where.append("g.in_crossref = 1")
+    elif source == "kci":
+        g_where.append("g.in_kci = 1")
+    elif source == "both":
+        g_where.append("g.in_pubmed = 1 AND g.in_crossref = 1")
+
+    a_where: list[str] = []
+    a_params: list = []
+    if q:
+        for t in [t for t in q.split() if t]:
+            like = f"%{t}%"
+            a_where.append(
+                "(MATCH(a.title, a.authors, a.journal) AGAINST(%s IN NATURAL LANGUAGE MODE) "
+                "OR MATCH(an.pico_p, an.pico_i, an.pico_c, an.pico_o, an.clinical_summary) "
+                "AGAINST(%s IN NATURAL LANGUAGE MODE) "
+                "OR a.doi LIKE %s OR a.pmid LIKE %s)"
+            )
+            a_params.extend([t, t, like, like])
+
+    needs_join = bool(a_where)
+    where_clauses = g_where + a_where
+    where_params = g_params + a_params
+    where_sql = ("WHERE " + " AND ".join(where_clauses)) if where_clauses else ""
+    gw_sql = ("WHERE " + " AND ".join(g_where)) if g_where else ""
+
+    select_cols = (
+        "a.id, a.source, a.pmid, a.title, a.authors, a.journal, "
+        "a.pub_date, a.doi, a.url, a.fetched_at, "
+        "an.research_category, an.is_korean_medicine, an.is_human_study, "
+        "an.is_literature_review, an.patient_count, an.clinical_summary, "
+        "an.question, an.answer, an.analyzed_at"
+    )
+    an_cols = (
+        "an.research_category, an.is_korean_medicine, an.is_human_study, "
+        "an.is_literature_review, an.patient_count, an.clinical_summary, "
+        "an.question, an.answer, an.analyzed_at"
+    )
+
+    offset = (page - 1) * per_page
+    last_exc: Exception | None = None
+    for attempt in range(1, retries + 1):
+        conn = None
+        try:
+            conn = get_db_connection()
+            with conn.cursor() as cur:
+                if needs_join:
+                    cur.execute(
+                        "SELECT COUNT(*) AS total FROM article_groups g "
+                        "INNER JOIN articles a ON a.id = g.rep_id "
+                        "LEFT JOIN article_analysis an ON an.source = a.source AND an.pmid = a.pmid "
+                        f"{where_sql}",
+                        where_params,
+                    )
+                else:
+                    cur.execute(
+                        f"SELECT COUNT(*) AS total FROM article_groups g {gw_sql}",
+                        g_params,
+                    )
+                total = cur.fetchone()["total"] or 0
+
+                if needs_join:
+                    cur.execute(
+                        "SELECT g.rep_id, g.analyzed_id FROM article_groups g "
+                        "INNER JOIN articles a ON a.id = g.rep_id "
+                        "LEFT JOIN article_analysis an ON an.source = a.source AND an.pmid = a.pmid "
+                        f"{where_sql} ORDER BY g.rep_id DESC LIMIT %s OFFSET %s",
+                        where_params + [per_page, offset],
+                    )
+                else:
+                    cur.execute(
+                        f"SELECT g.rep_id, g.analyzed_id FROM article_groups g {gw_sql} "
+                        "ORDER BY g.rep_id DESC LIMIT %s OFFSET %s",
+                        g_params + [per_page, offset],
+                    )
+                group_rows = cur.fetchall()
+
+                items: list[dict] = []
+                if group_rows:
+                    rep_ids = [r["rep_id"] for r in group_rows]
+                    placeholders = ",".join(["%s"] * len(rep_ids))
+                    cur.execute(
+                        f"SELECT {select_cols} FROM articles a "
+                        "LEFT JOIN article_analysis an ON an.source = a.source AND an.pmid = a.pmid "
+                        f"WHERE a.id IN ({placeholders})",
+                        rep_ids,
+                    )
+                    rows = {r["id"]: r for r in cur.fetchall()}
+
+                    analyzed_ids = [
+                        r["analyzed_id"] for r in group_rows
+                        if r["analyzed_id"] is not None and r["analyzed_id"] != r["rep_id"]
+                    ]
+                    an_rows: dict = {}
+                    if analyzed_ids:
+                        an_placeholders = ",".join(["%s"] * len(analyzed_ids))
+                        cur.execute(
+                            f"SELECT a.id AS a_id, {an_cols} FROM articles a "
+                            "INNER JOIN article_analysis an ON an.source = a.source AND an.pmid = a.pmid "
+                            f"WHERE a.id IN ({an_placeholders})",
+                            analyzed_ids,
+                        )
+                        an_rows = {r["a_id"]: r for r in cur.fetchall()}
+
+                    rep_to_analyzed = {r["rep_id"]: r["analyzed_id"] for r in group_rows}
+                    for rid in rep_ids:
+                        row = rows.get(rid)
+                        if not row:
+                            continue
+                        aid = rep_to_analyzed.get(rid)
+                        if aid is not None and aid in an_rows:
+                            row.update(an_rows[aid])
+                        items.append(row)
+
+            return {
+                "items": _normalize_db_rows(items),
+                "total": total,
+                "total_pages": max((total + per_page - 1) // per_page, 1) if per_page else 1,
+                "page": page,
+            }
+        except pymysql.MySQLError as e:
+            last_exc = e
+            logger.warning("DB fetch 실패 (attempt %d/%d) err=%s", attempt, retries, e)
+            if attempt < retries:
+                time.sleep(min(2 ** attempt, 8))
+        finally:
+            if conn:
+                conn.close()
+    raise RuntimeError(f"DB fetch 실패 after {retries} retries: {last_exc}") from last_exc
+
+
 def is_animal_experimental(item: dict) -> bool:
     return item.get("research_category") == "experimental_study" and not item.get("is_human_study")
 
@@ -127,8 +345,12 @@ def fetch_all(
     retries: int = 3,
     delay: float = 0.4,
     exclude_animal: bool = True,
+    use_db: bool = True,
 ) -> tuple[list[dict], dict]:
     """여러 페이지를 순회하며 최대한 많은 논문을 수집한다.
+
+    use_db=True(기본)이면 DB 직결(FULLTEXT ngram)로 조회하고, DB 접속 실패 시
+    자동으로 HTTP API 경로로 폴백한다. --api 플래그를 주면 처음부터 HTTP를 사용한다.
 
     Returns:
         (items, stats)  stats: 수집 과정 요약 딕셔너리
@@ -161,7 +383,15 @@ def fetch_all(
         params = dict(base_params)
         params.update({"q": q, "per_page": per_page, "page": page})
         try:
-            data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0)
+            if use_db:
+                try:
+                    data = db_fetch(params, page=page, per_page=per_page, retries=retries)
+                except RuntimeError as e:
+                    logger.warning("DB 직결 실패 — 이후 HTTP API로 폴백: %s", e)
+                    use_db = False
+                    data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0)
+            else:
+                data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0)
         except RuntimeError as e:
             logger.error("page %d 수집 중단: %s", page, e)
             stats["fetch_error"] = stats.get("fetch_error", 0) + 1
@@ -217,8 +447,8 @@ def fetch_all(
         if len(items) >= hard_cap:
             logger.warning("hard_cap %d 도달 — 종료 (더 필요하면 --target 조정)", hard_cap)
             break
-        # 페이지 간 딜레이 (API 과호출 방지)
-        if delay:
+        # 페이지 간 딜레이 (HTTP API 과호출 방지 — DB 직결 시에는 불필요)
+        if delay and not use_db:
             time.sleep(delay)
 
     # 카테고리 분포
@@ -314,6 +544,8 @@ def main() -> int:
                    help="동물실험 experimental_study도 포함 (기본: 제외하고 제외 수 로깅)")
     p.add_argument("--kw", help="키워드 필터 (콤마 구분, AND 조건)")
     p.add_argument("--source", choices=["pubmed", "crossref", "both", "all"], help="소스 필터")
+    p.add_argument("--api", action="store_true",
+                   help="DB 직결 대신 med.symbolicinfo.com HTTP /search API 강제 사용")
     args = p.parse_args()
 
     setup_logging(args.log_level, args.verbose)
@@ -349,6 +581,7 @@ def main() -> int:
             retries=args.retries,
             delay=args.delay,
             exclude_animal=exclude_animal,
+            use_db=not args.api,
         )
     except RuntimeError as e:
         logger.error("수집 실패: %s", e)
