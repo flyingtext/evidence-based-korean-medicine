@@ -260,6 +260,7 @@
 - **기허 vs 혈허 vs 혈어**: 관상동맥질환 혈어증 환자에서 기체(氣滯)·기허(氣虛)가 서로 다른 microRNA 프로파일과 분자경로(세포접착·식세포작용·mTOR)를 보인다 [^58]. 혈허와 기허는 단순한 증상 묶음이 아니라 다른 분자 표현형이다.
 - **갱년기·대사증후군 연령별 변증**: 대사증후군 환자에서 청년은 기허·열·위축, 중년은 신(腎)축, 노년은 음허·혈허·폐·담 축이 두드러지는 등 연령에 따라 변증 패턴이 다르다 [^87].
 - **종양별·치료시점별 변증 전변**: 대장암 환자에서 수술 전후 주된 변증이 혈허→기허→음허내열→기음양허로 동적 변화, 소아 림프종 암관련피로에서 혈허혈어·음허화왕이 빈번 [^20] [^88].
+- **만성피로증후군의 변증별 단백체 차이**: 만성피로증후군 환자에서 간비불화형과 기혈양허형이 서로 다른 혈청 인산화단백체(phosphoproteome) 패턴을 보여, 혈허가 포함된 변증이 단순한 증상 묶음이 아니라 분자 수준의 표현형임을 뒷받침한다 [^156]. 비소세포폐암에서도 혈허를 포함한 7대 변증 패턴이 확인되고, 6대 주요 암종의 證 분포와 분자적 근거가 정리되어 종양 영역 전반에서 혈허 변증의 재현성이 관찰된다 [^157] [^158].
 
 > 이들 연구는 변증이 생물학적 실체로서 재현성을 갖는다는 가설의 근거를 제공한다. 단, 대부표본·재현성 제한이 흔하므로, "변증이 곧 분자진단"으로 과잉 해석하지 않고 **임상 변증의 객관적 보조 지표**로 활용한다.
 
@@ -304,7 +305,7 @@
 
 방해(方解): 숙지황은 신(腎)을 자보하여 정혈을 충전(君), 당귀는 간(肝)을 양혈(養血)하며 활혈(臣), 작약은 간혈을 수렴하고 비통혈(脾統血)을 도와 통증·경련 완화(佐), 천궁은 혈행을 통달하고 기울을 풀어 보혈의 정체(停滯)를 막는다(使). 사물탕은 **보혈의 군·신·좌·사가 모두 갖춘** 기본 방제다. 『내경(內經)』 "肝藏血"·"血舍魂"·『금궤(金匱)』 당귀작약산 계열의 연장선상에 있다.
 
-근거: 원발성 월경통에서 사물탕은 통증·자궁동맥 박동지수·혈압·빈혈 관련 혈액학 지표를 개선하는 임상시험이 있다 [^90]. 한국내과한의학회 체계적고찰·메타분석에서 보중익기탕 계열이 빈혈에 유효, 사물탕 계열의 혈허·월경통 임상 근거도 누적되고 있다 [^60] [^91] [^92].
+근거: 원발성 월경통에서 사물탕은 통증·자궁동맥 박동지수·혈압·빈혈 관련 혈액학 지표를 개선하는 임상시험이 있다 [^90]. 한국내과한의학회 체계적고찰·메타분석에서 보중익기탕 계열이 빈혈에 유효, 사물탕 계열의 혈허·월경통 임상 근거도 누적되고 있다 [^60] [^91] [^92]. 사물탕은 원발성 월경통에서 통증 강도·치료 반응률을 개선하고 이상반응이 적다는 체계적고찰·메타분석이 있으며 [^159], 산후 여성에서도 사물탕 사용이 신체 통증 감소·정신 건강 개선과 연관되고 10회 이상 충분히 사용할 때 효과가 뚜렷했다는 인구기반 관찰연구가 산후 혈허 관리의 근거를 보탠다 [^166]. 당뇨병성 위마비를 대상으로 한 네트워크 메타분석에서도 사물탕 계열이 오심·구토·식욕부진·복부팽만 개선에 상대적으로 유리하다고 보고되어, 비허혈허가 겸한 소화기 증상에도 참고할 수 있다 [^163].
 
 임상 적응: 간혈허·기혈허 기본형, 월경량감소·월경통·산후 혈허·만성 두현·근척·안건.
 
@@ -316,6 +317,8 @@
 
 근거: 당귀보혈탕은 철결핍빈혈에서 통상치료(철분제)와 병용 시 적혈구·헤모글로빈·페리틴·유효율 개선, 이상반응 감소를 보인 메타분석 [^7]; 기혈허 증후를 동반한 철결핍빈혈에서 유효율 92% 대 32%(글루콘산철)의 임상 관찰 [^9]; 골수형성이상증후군·재생불량빈혈에서 변증시치 병용의 유효성 [^27] [^38]; 항암화학요법·방사선치료 병행 시 골수 억제 완화·혈액학 개선 [^64]; 당뇨병성 망막증·신병증·피부궤양 등 파생 연구 [^93] [^65]; 인삼양영탕·보중익기탕과 함께 항암·골수 억제 보조 한약으로도 활용 [^96] [^97] [^98].
 
+근거 보강: 당귀보혈탕과 양약(철분제)의 병용은 신성빈혈에서도 적혈구·헤마토크릿·유효율을 개선한다는 체계적고찰·메타분석이 있어 황기:당귀 5:1 배오의 적용 범위가 신장내과 영역까지 넓혀진다 [^164]. 화학방사선요법을 받지 않는 암 관련 빈혈에서도 보기양혈 한방치료가 헤모글로빈·유효율을 개선한다는 메타분석이 있다 [^165]. 갱년기 혈관운동증상에서는 위약대조 임상시험에서 경증 안면홍조 빈도를 유의하게 낮췄고 [^184], 6.0g/day 고용량 투여 시 삶의 질 개선 효과가 더 뚜렷했다는 용량증량 임상시험도 있다 [^185]. 다만 두 연구 모두 중등도 이상 증상이나 야간발한에는 효과가 제한적이었음을 함께 설명해야 한다.
+
 임상 적응: 혈허발열, 급성·아급성 실혈 후, 기혈허 겸증, 항암·골수 억제 보조, 만성피로증후군.
 
 #### 11-3. 귀비탕(歸脾湯) — 『제생방(濟生方)』 엄용화(嚴用和)
@@ -324,7 +327,7 @@
 
 방해: 인삼·황기·백출·감초로 보기건비(君), 당귀·용안육·산조인으로 양심안혈(臣), 복신·원지로 안신(安神), 목향으로 보이불체(補而不滯)·기운을 소통(佐). 심비양허(心脾兩虛)의 대표 방제.
 
-근거: 사려과다로 비혈·심혈 소모, 불면·심계·건망·붕루에 적응. 가미소요산과 함께 정신·스트레스 관련 혈허 보조 한약으로도 임상 근거가 누적된다 [^99] [^100].
+근거: 사려과다로 비혈·심혈 소모, 불면·심계·건망·붕루에 적응. 가미소요산과 함께 정신·스트레스 관련 혈허 보조 한약으로도 임상 근거가 누적된다 [^99] [^100]. 귀비탕은 불면증에 대한 여러 체계적고찰·메타분석에서 효과와 안전성이 평가되었고 [^167], 항우울제 병용 시 우울 증상·유효율·회복률을 유의하게 향상시킨다는 메타분석도 있다 [^168]. 심비양허의 영향은 심혈관·인지 영역까지 파급되어, 만성 심부전에서 좌심실박출률 개선·NT-proBNP 감소를 보인 체계적고찰 [^169], 관상동맥질환에 대한 체계적고찰 프로토콜 [^170], 경도인지장애·치매·뇌졸중후 인지장애에서 인지기능과 일상생활수행능력 개선을 정리한 스코핑 리뷰가 보고되었다 [^171]. 항암화학요법 중 골수억제(특히 혈소판감소증)에는 가미귀비탕이 완화 효과를 보인 관찰연구가 있으며 [^172], 귀비탕 계열은 면역매개혈소판감소증에서도 혈소판 수치·유효율을 개선한다는 메타분석이 있다 [^193].
 
 임상 적응: 심비양허(사려과다·불면·심계·붕루), 기혈양허 불면, 스트레스성 혈허.
 
@@ -342,7 +345,7 @@
 
 방해: 보혈에 활혈거어(活血祛瘀)를 겸하여 혈허겸혈어(血虛兼血瘀)를 치료. 혈허로 인한 혈류 지체·어혈 형성을 동시에 교정.
 
-근거: 도홍사물탕은 화학요법 유발 수족증후군·수술 후 회복·혈전·혈어성 질환 보조에 임상 근거가 있다 [^108] [^109] [^110].
+근거: 도홍사물탕은 화학요법 유발 수족증후군·수술 후 회복·혈전·혈어성 질환 보조에 임상 근거가 있다 [^108] [^109] [^110]. 가미도홍사물탕은 원발성 월경통에서 비스테로이드성 항염증제보다 반응률이 우수하고 재발률이 낮다는 체계적고찰·메타분석이 있으며 [^160], 협심증에서는 증상·심전도·지질(TG·TC·LDL-C)·염증지표(hs-CRP)를 개선한다는 메타분석 [^161], 항고혈압제와 병용 시 혈압강하와 지질개선의 상승효과가 있다는 메타분석도 보고된다 [^162].
 
 임상 적응: 혈허겸어혈, 월경통·월경불순·자반·혈전, 항암화학요법 수족증후군 보조.
 
@@ -353,6 +356,8 @@
 방해: 당귀·작약·천궁으로 양혈활혈·간(肝)을 보, 복령·백출·택사로 건비이습(健脾利濕)·비(脾)를 보. **간비동조(肝脾同調)**의 전형. 『금궤(金匱)』 "婦人妊娠腹中㽲痛"에 사용.
 
 근거: 당귀작약산은 원발성 월경통·임신복통·태동불안·알츠하이머 예방·인지 기능 보조·다낭성난소증후군 보조 등 폭넓은 임상 근거가 있다. 작약(芍藥) 품종(작약·백작약·적작약·천작약·산작약)에 따라 임상 효과가 다를 수 있다는 임상시험, 당귀·천궁 약쌍의 항우울 기전 [^58] 등 관련 연구가 풍부.
+
+근거 보강: 혈허 우세형 갱년기 증후군을 대상으로 당귀작약산의 안전성·유효성·타당성을 평가한 파일럿 무작위대조시험이 있어, 혈허 변증에 특화된 처방 설계의 직접 근거가 된다 [^183]. 대사·장내미생물 연구에서는 당귀작약산이 제2형 당뇨·알츠하이머병·다낭성난소증후군 등 이질적 질환에서 공통된 트립토판·페닐알라닌 대사 이상과 장내미생물 불균형(Bacteroidetes 감소)을 조절한다는 문헌 고찰이 있어, 간비동조(肝脾同調) 처방의 다중표적 기전을 시사한다 [^197].
 
 임상 적응: 간비허(간울비허)·혈허겸습(血虛兼濕)·월경통·월경불순·임신복통·알츠하이머 보조.
 
@@ -478,7 +483,7 @@
 
 이 치료표는 병형에 따른 전통적 처방 선택 원칙을 정리한 것이며, 표의 모든 처방이 해당 KCD 질환에서 동일 수준의 비교임상 근거를 갖는 것은 아니다. 인간 근거가 비교적 직접적인 부분은 철결핍빈혈에서 기혈허 증후와 철대사 지표를 함께 평가한 임상시험 [^9]과 한약-철분제 병용 메타분석 [^7], 골수질환에서 변증시치의 반응 차이를 관찰한 자료 [^27] [^38]이다. 따라서 **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다.
 
-> 철결핍빈혈에서 당귀보혈탕을 통상치료와 병용했을 때 적혈구·헤모글로빈·페리틴·유효율이 개선되고 이상반응은 오히려 낮았다는 보고 [^7], 기혈허 증후를 동반한 철결핍빈혈에서 유효율 92% 대 32%(글루콘산철)로 보고된 임상 관찰 [^9], 골수형성이상증후군에서 변증시치 병용이 우수했고 **기혈양허 변증군의 반응이 더 좋았다**는 관찰 [^27]이 있다. 보수생혈과립·자신생혈음은 재생불량빈혈 임상시험에서 신양허형에 더 유효, MAPK/ERK·bFGF/SCF·Th1/Th2·TCR Vβ 경로 조절 [^48] [^72] [^81] [^79]. 항암화학요법·방사선 골수 억제 보조로 당귀보혈탕·십전대보탕·귀비탕 병행이 혈액학·피로·삶의 질 개선 보고 [^64] [^65].
+> 철결핍빈혈에서 당귀보혈탕을 통상치료와 병용했을 때 적혈구·헤모글로빈·페리틴·유효율이 개선되고 이상반응은 오히려 낮았다는 보고 [^7], 기혈허 증후를 동반한 철결핍빈혈에서 유효율 92% 대 32%(글루콘산철)로 보고된 임상 관찰 [^9], 골수형성이상증후군에서 변증시치 병용이 우수했고 **기혈양허 변증군의 반응이 더 좋았다**는 관찰 [^27]이 있다. 보수생혈과립·자신생혈음은 재생불량빈혈 임상시험에서 신양허형에 더 유효, MAPK/ERK·bFGF/SCF·Th1/Th2·TCR Vβ 경로 조절 [^48] [^72] [^81] [^79]. 항암화학요법·방사선 골수 억제 보조로 당귀보혈탕·십전대보탕·귀비탕 병행이 혈액학·피로·삶의 질 개선 보고 [^64] [^65]. 면역성혈소판감소증(D69)에서는 중약 단독 또는 서양의학 병용이 혈소판 수치·유효율을 개선하고 부작용이 적다는 체계적고찰·메타분석이 있으며, 귀비탕·양혈화어탕이 대표적으로 활용된다 [^193]. 표준치료에 반응하지 않는 소아 만성 면역성혈소판감소증에서 한약 병행으로 혈소판이 안전 범위로 회복된 증례도 보고되어, 난치성 ITP에서 통합의학적 접근의 가능성을 시사한다 [^194].
 
 **침구**: 격유(BL17)·간유(BL18)·비유(BL20)·신유(BL23)·족삼리(ST36)·삼음교(SP6) 보법 + 구법. 기혈양허에는 합곡(LI4)+삼음교(SP6) 보법 [교과서적 근거]. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
 
@@ -550,7 +555,7 @@
 
 이 표는 변증에 따른 전통적 처방 선택 원칙을 정리한 것이며, 동일 수준의 비교임상 근거를 갖는 것은 아니다. 사물탕 계열 월경통 임상시험 [^90], 당귀작약산 월경통·인지·임상 근거, 가미소요산 불안·월경전증후군 다기관 RCT [^99], 갱년기 한약 체계적고찰 등이 대표적 근거 [^124] [^126]. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
 
-> 자궁선근증에서 보신활혈산유탕(신허혈어)은 미레나와 유사한 자궁부피·CA125 감소, 한의증상 개선 우위 [^127]. 다낭성난소증후군·자궁내막증·자궁근종 등에서 변증 맞춤 한약 보조 근거가 누적된다 [^129].
+> 자궁선근증에서 보신활혈산유탕(신허혈어)은 미레나와 유사한 자궁부피·CA125 감소, 한의증상 개선 우위 [^127]. 다낭성난소증후군·자궁내막증·자궁근종 등에서 변증 맞춤 한약 보조 근거가 누적된다 [^129]. 혈허 우세형 갱년기 증후군에 당귀작약산의 안전성·유효성을 직접 평가한 파일럿 무작위대조시험이 있으며 [^183], 한국 한방병원의 다기관 후향적 조사에서는 귀비탕·사물귀비탕·가미소요산 등이 갱년기 환자에게 가장 빈번히 처방됨이 확인되었다 [^186]. 부인과 암 치료 후 발생한 갱년기 증상에도 가미귀비탕·가미소요산이 모두 유효했다는 임상시험이 있어, 암 생존자의 혈허형 갱년기 관리 근거를 넓힌다 [^187]. 중증 빈혈과 유산력을 가진 고위험 임신부에서 보기보혈·보신 한방치료를 병행해 수혈 없이 만삭 분만에 이른 증례도 산과 영역의 보조적 가치를 보여준다 [^188].
 
 **침구**: 관원(CV4)·기해(CV6)·중극(CV3)·삼음교(SP6)·혈해(SP10)·태충(LR3). 월경통에는 차침(次髎, BL32)·지기해(地機, SP8). 월경과다·붕루에는 음릉천(SP9)·은백(SP1)·대돈(LR1) 지혈. 갱년기에는 심수(BL15)·신문(HT7)·태계(KI3) 안신. 불임에는 관원(CV4)·자궁혈(子宮)·삼음교(SP6) 배란주기 맞춤 보법·구법.
 
@@ -606,7 +611,7 @@
 | 수족저림·쥐(혈불양근) | **작약감초탕 / 사물탕 + 목과·계지** | 양근완급 |
 | 안면마비 회복기 | **견정보익탕(牽正補益湯) / 사물탕 + 전갈·백강잠** | 보혈식풍통락 |
 
-이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 항암유발 말초신경병증(CIPN) 보조 한약 임상 근거가 누적 중이며 [^130] [^131], 편두통 보조 침구 임상 근거가 있다. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
+이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 항암유발 말초신경병증(CIPN) 보조 한약 임상 근거가 누적 중이며 [^130] [^131], 편두통 보조 침구 임상 근거가 있다. 양허한응형 당뇨병성 말초신경병증에서는 온침(溫鍼)이 일반 침보다 TCM 증상 점수·TCSS를 더 개선한다는 무작위대조시험이 있어, 혈허생풍형 CIPN·당뇨신경병증에서 온양 취혈의 근거로 참고할 수 있다 [^196]. 혈허 겸 심신불안형 불면에는 귀비탕·산조인·복령을 중심으로 한 변증-처방-경혈 대응을 검토한 체계적고찰이 있고 [^173], 전통 한방 처방이 서양의학적 치료보다 유효율·PSQI 개선이 우수했다는 메타분석 [^174], 한약 제제가 불면증에서 대등하거나 우수한 수면개선·안전성을 보였다는 네트워크 메타분석도 있어 귀비탕·시호룡골모려탕 등의 상대적 근거 서열을 참고할 수 있다 [^175]. 귀비탕·가미귀비탕이 경도인지장애·뇌졸중후 인지장애의 인지기능·일상생활수행능력을 개선했다는 스코핑 리뷰도 신경·인지 영역의 근거를 넓힌다 [^171]. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
 
 **침구**: 백회(GV20)·풍지(GB20)·태충(LR3)·합곡(LI4)·삼음교(SP6)·양릉천(GB34)·족삼리(ST36). 현훈에는 풍지·백회·태충·삼음교 보법. 안면마비에는 양백·사백·지창·협거·곡지·합곡. 수족저림에는 팔회·혈해·삼음교·족삼리. 안면마비·편두통·긴장두통·CIPN에서 침구 보조 근거가 있다. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
 
@@ -658,7 +663,7 @@
 | 고혈압(음허양항·혈허) | **좌귀환 / 자백지황환 / 천마구등음** | 자음평간 |
 | 관상동맥질환(심혈허) | **천왕보심단 / 귀비탕** | 양심안신 |
 
-이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 협심증·심부전·뇌졸중 보조 한약 임상 근거가 누적된다 [^112] [^138] [^140]. 심혈관 한약 체계적고찰에서 활혈거어 중성약 병용이 심혈관 사건·협심증 발작 감소 보고. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
+이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 협심증·심부전·뇌졸중 보조 한약 임상 근거가 누적된다 [^112] [^138] [^140]. 심혈관 한약 체계적고찰에서 활혈거어 중성약 병용이 심혈관 사건·협심증 발작 감소 보고. 간양상항 겸 혈허형 고혈압에는 천마구등음이 일부 약제군(ACEI·CCB 등)에서 혈압·변증 증상 개선 가능성을 보였다는 체계적고찰이 있다 [^176]. 기허혈어형 흉비증후군에서 양심탕+침 병용을 평가하는 체계적고찰 프로토콜 [^177], 뇌신통 캡슐이 기허혈어형 뇌경색·관상동맥질환 협심증에서 표준치료 병용 시 유효성·안전성이 확인된 종합평가 [^178], 기룡 캡슐이 기허혈어형 허혈성 뇌졸중에서 신경학적 결손·일상생활능력을 개선했다는 종합평가 [^179]가 심뇌혈관 영역의 변증 맞춤 병용 한약 근거를 넓힌다. 기허혈어라는 공통 표현형을 축으로 뇌졸중·협심증·당뇨병성 말초신경병증을 함께 평가하는 바스켓 임상시험 [^180], 기허혈어형 뇌졸중후 우울증에 해독통락과립을 평가하는 무작위대조시험 프로토콜 [^181], 양심활혈방이 기허혈어형 협심증에 동반된 불안·우울까지 함께 개선했다는 임상시험 [^182]은 심혈관-정서 축까지 기허혈어·혈허 변증이 파급됨을 보여준다. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
 
 **침구**: 내관(PC6)·신문(HT7)·심수(BL15)·격수(BL17)·삼음교(SP6)·족삼리(ST36). 협심증에는 내관·심수·격수. 심부전에는 내관·심수·족삼리·관원. 뇌졸중 후유증에는 백회·풍지·합곡·태충·족삼리·삼음교. 침구의 심혈관 보조 근거가 있다. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
 
@@ -714,7 +719,7 @@
 | 백반증(기혈허) | **기혈보신방 / 사물탕 + 흑지마·토사자** | 보혈자신 |
 | 원형탈모(혈허생풍) | **사물탕 + 하수오·구기·여인 / 신태환** | 보혈자신생발 |
 
-이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 건성안 한약·침구 임상 근거, 노인소양증 귀신지양방 임상시험 [^145], 건선 한약 메타분석 [^147], 백반증 기혈허형 치료 보고 [^148]가 대표적. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
+이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 건성안 한약·침구 임상 근거, 노인소양증 귀신지양방 임상시험 [^145], 건선 한약 메타분석 [^147], 백반증 기혈허형 치료 보고 [^148]가 대표적. 허한어조형 백반증에서는 화침(자락)이 IL-6·IL-17 등 염증지표를 낮추며 백반 면적을 개선한다는 무작위대조시험이 있어, 혈허겸혈어형 백반증의 침구 외치 근거를 보탠다 [^189]. 대규모 건선 환자 데이터에서도 혈허풍조·혈열·혈어의 세 핵심 변증이 잠재트리분석으로 객관적으로 도출되어, 건선의 변증 분류 근거가 강화된다 [^190]. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
 
 **침구**: 풍지(GB20)·태충(LR3)·혈해(SP10)·삼음교(SP6)·곡지(LI11)·합곡(LI4). 안과 질환에는 청명(BL1)·태양·풍지·태충. 피부 질환에는 혈해·곡지·삼음교·풍지. 건성안 침구 임상 근거.
 
@@ -768,7 +773,7 @@
 | 항암 수족증후군 | **도홍사물탕 + 황기·계지 / 당귀사역탕** | 보혈온락 |
 | 암 환자 변비 | **윤장환 / 증액승기탕 + 보혈약** | 자윤통변 |
 
-이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 암 피로·골수 억제 보조 한약 임상시험·체계적고찰 [^102] [^103] [^105] [^106], 항암 수족증후군 도홍사물탕 [^108], EPO+한약 병행 체계적고찰 [^107]이 대표. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
+이 표는 변증에 따른 전통적 처방 선택 원칙이며, 모든 처방이 동일 수준의 비교임상 근거를 갖는 것은 아니다. 암 피로·골수 억제 보조 한약 임상시험·체계적고찰 [^102] [^103] [^105] [^106], 항암 수족증후군 도홍사물탕 [^108], EPO+한약 병행 체계적고찰 [^107]이 대표. 십전대보탕은 만성피로증후군 환자의 주관적 피로도(VAS·FSS·Chalder scale)를 개선한다는 위약대조 임상시험이 있어 기혈양허형 만성피로 관리의 직접 근거가 되며 [^191], 암 환자 변비에 사용되는 중약의 증 기반 처방을 분석한 체계적고찰에서는 기혈양허가 가장 흔한 변증이고 윤장환 계열이 빈용됨이 확인되었다 [^192]. **KCD 진단 자체가 처방 적응증이 아니라 변증과 표준치료를 전제로 한 보조적 선택표**로 사용한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다**.
 
 **침구**: 족삼리(ST36)·삼음교(SP6)·관원(CV4)·기해(CV6)·비수(BL20)·신수(BL23) 보법·구법. 피로·노쇠·항암 보조 침구 근거가 누적. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
 
@@ -807,7 +812,7 @@
 
 #### ③ 병태생리
 
-COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-dimer)·산소포화도 개선 [^155]. 만성 위축성 위염에서 건비화위활혈 한약이 위점막 HSP70 발현 증가, 위축·장상피화생 개선 [^154]. 신성빈혈에서 규비탕(歸脾湯) 계열 한약+EPO 병행이 Hb·Hct 개선, TNF-α 감소 보고 [^40]. 투석 환자에서 자신생혈방+EPO 병행이 잔여신기능 유지·EPO 상승.
+COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-dimer)·산소포화도 개선 [^155]. 만성 위축성 위염에서 건비화위활혈 한약이 위점막 HSP70 발현 증가, 위축·장상피화생 개선 [^154]. 신성빈혈에서 규비탕(歸脾湯) 계열 한약+EPO 병행이 Hb·Hct 개선, TNF-α 감소 보고 [^40]. 투석 환자에서 자신생혈방+EPO 병행이 잔여신기능 유지·EPO 상승. 당귀보혈탕+양약 병용도 신성빈혈에서 적혈구·헤마토크릿·유효율을 개선한다는 체계적고찰·메타분석이 있고 [^164], 유지 혈액투석 환자를 대상으로 백령(百令) 캡슐의 신성빈혈 효능·안전성을 평가하는 체계적고찰 프로토콜도 진행되어 근거가 축적되는 추세다 [^195]. 당뇨병성 위마비에서는 반하사심탕과 사물탕 계열을 비교한 네트워크 메타분석이 있어, 비허혈허가 겸한 소화기 증상의 처방 선택에 참고할 수 있다 [^163].
 
 #### ④ 치료
 
@@ -1182,6 +1187,90 @@ COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-di
 [^154]: [Effect of Chinese drugs for strengthening Pi, harmonizing Wei, and dispersing blood stasis on the expression of gastric mucosal heat shock protein 70 in chronic atrophic gastritis patients]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-04. [임상시험] [PMID 26065096](https://pubmed.ncbi.nlm.nih.gov/26065096/) — 건비화위활혈(健脾和胃活血) 한약 처방이 만성 위축성 위염 환자의 임상 증상 개선뿐만 아니라 위축 및 장상피화생과 같은 병리적 변화를 유의하게 개선함을 확인하였다. 특히 위점막의 HSP70 발현을 증가시켜 전암성 병변의 병리적 상태를 완화하는 기전이 시사되므로, 위축성 위염의 관리에 적용할 수 있다.
 
 [^155]: [Effect of Qi Benefiting Blood Activating Method on Plasma Fibrinogen and D-dimer in Patients with Acute Exacerbation of Chronic Obstructive Pulmonary Disease]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-05. [임상시험] [PMID 26159014](https://pubmed.ncbi.nlm.nih.gov/26159014/) — 어혈증(瘀血證)을 동반한 COPD 급성 악화 환자에게 표준 치료와 함께 기익혈활법(생맥 및 단삼손 IIA 주사)을 병행하면 혈전 형성 경향(Fg, D-dimer 수치)을 유의하게 감소시키고 산소포화도(PaO2)를 개선할 수 있다. 이는 고위험군 환자의 혈전 상태를 관리하고 임상적 회복률을 높이는 데 유용한 보조 요법이 될 수 있다.
+
+[^156]: Phosphoproteomic analysis reveals differential associations between liver-spleen disharmony and qi-blood deficiency syndromes in chronic fatigue syndrome. Zhang J 외. _Journal of translational medicine_. 2026-05-13. [관찰연구] [DOI 10.1186/s12967-026-08157-3](https://doi.org/10.1186/s12967-026-08157-3) [PMID 42129788](https://pubmed.ncbi.nlm.nih.gov/42129788/) — 만성피로증후군에서 간비불화형과 기혈양허형이 서로 다른 혈청 인산화단백체 패턴을 보여, 혈허 변증이 생물학적 표현형으로서 재현성을 갖는다는 근거를 보탠다.
+
+[^157]: A Data Mining-Based Analysis of Core Herbs on Different Patterns (Zheng) of Non-Small Cell Lung Cancer. Qi X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [체계적 고찰] [DOI 10.1155/2021/3621677](https://doi.org/10.1155/2021/3621677) [PMID 34257676](https://pubmed.ncbi.nlm.nih.gov/34257676/) — 비소세포폐암에서 혈허를 포함한 7대 변증 패턴이 확인되어, 종양 영역에서도 혈허가 독립된 변증 단위로 작동함을 뒷받침한다.
+
+[^158]: Clinical Distribution and Molecular Basis of Traditional Chinese Medicine ZHENG in Cancer. Chen Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [체계적 고찰] [DOI 10.1155/2012/783923](https://doi.org/10.1155/2012/783923) [PMID 22829858](https://pubmed.ncbi.nlm.nih.gov/22829858/) — 6대 암종의 證 분포와 분자적 근거를 정리해, 혈허를 포함한 변증이 임상적·분자생물학적으로 재현되는 실체임을 보강한다.
+
+[^159]: Chinese herbal formula siwutang for treating primary dysmenorrhea: A systematic review and meta-analysis of randomized controlled trials. Li G 외. _Maturitas_. 2020-08. [메타분석] [DOI 10.1016/j.maturitas.2020.03.009](https://doi.org/10.1016/j.maturitas.2020.03.009) [PMID 32631585](https://pubmed.ncbi.nlm.nih.gov/32631585/) — 사물탕이 원발성 월경통에서 통증 강도와 반응률을 개선하고 이상반응이 적다는 메타분석으로, 혈허혈어형 월경통에 대한 근거를 보탠다.
+
+[^160]: Herbal medicine (Taohong Siwu Tang) for the treatment of primary dysmenorrhea: A systematic review and meta-analysis. Ji HR 외. _Explore (New York, N.Y.)_. [메타분석] [DOI 10.1016/j.explore.2020.05.013](https://doi.org/10.1016/j.explore.2020.05.013) [PMID 32723605](https://pubmed.ncbi.nlm.nih.gov/32723605/) — 가미도홍사물탕이 원발성 월경통에서 NSAID보다 우수한 반응·낮은 재발률을 보였다는 메타분석으로, 도홍사물탕의 부인과 적응 근거를 강화한다.
+
+[^161]: Efficacy and Safety Evaluation of Taohong Siwu Decoction () for Patients with Angina Pectoris: A Meta-Analysis of Randomized Controlled Trials. Tao TQ 외. _Chinese journal of integrative medicine_. 2021-08. [메타분석] [DOI 10.1007/s11655-019-3028-4](https://doi.org/10.1007/s11655-019-3028-4) [PMID 30941683](https://pubmed.ncbi.nlm.nih.gov/30941683/) — 도홍사물탕이 협심증에서 증상·심전도·지질·염증지표(hs-CRP)를 개선했다는 메타분석으로, 혈허혈어형 협심증 보조 근거를 제공한다.
+
+[^162]: The effect of Taohong Siwu decoction combined with antihypertensive medicine in the treatment of hypertension: Meta-analysis. Xie PC 외. _Medicine_. 2022-12-09. [메타분석] [DOI 10.1097/MD.0000000000032133](https://doi.org/10.1097/MD.0000000000032133) [PMID 36626486](https://pubmed.ncbi.nlm.nih.gov/36626486/) — 도홍사물탕과 항고혈압제 병용이 혈압강하와 지질개선에 상승효과를 보였다는 메타분석으로, 고혈압 동반 혈허혈어 환자에서 병용 근거가 된다.
+
+[^163]: Effectiveness and safety of traditional Chinese medicine decoction for diabetic gastroparesis: A network meta-analysis. Zhang YX 외. _World journal of diabetes_. 2023-03-15. [메타분석] [DOI 10.4239/wjd.v14.i3.313](https://doi.org/10.4239/wjd.v14.i3.313) [PMID 37035221](https://pubmed.ncbi.nlm.nih.gov/37035221/) — 당뇨병성 위마비 네트워크 메타분석에서 사물탕 계열이 오심·구토·식욕부진·복부팽만 개선에 유리하다고 보고되어, 비허혈허형 위장관 증상의 처방 선택에 참고된다.
+
+[^164]: Efficacy and safety of Danggui Buxue Decoction in combination with western medicine treatment of anemia for renal anemia: a systematic review and meta-analysis. Zhao MM 외. _Annals of translational medicine_. 2017-03. [메타분석] [DOI 10.21037/atm.2017.01.17](https://doi.org/10.21037/atm.2017.01.17) [PMID 28462216](https://pubmed.ncbi.nlm.nih.gov/28462216/) — 당귀보혈탕과 양약 병용이 신성빈혈에서 적혈구·헤마토크릿·유효율을 개선했다는 체계적고찰로, 황기:당귀 5:1 배오의 신성빈혈 적용 근거를 보탠다.
+
+[^165]: Comparative effectiveness and safety of traditional Chinese medicine supporting Qi and enriching blood for cancer related anemia in patients not receiving chemoradiotherapy: a meta-analysis and systematic review. Dang Z 외. _Drug design, development and therapy_. 2019. [메타분석] [DOI 10.2147/DDDT.S181182](https://doi.org/10.2147/DDDT.S181182) [PMID 30643388](https://pubmed.ncbi.nlm.nih.gov/30643388/) — 보기양혈 한방치료가 화학방사선요법을 받지 않는 암 관련 빈혈에서 헤모글로빈과 유효율을 개선했다는 메타분석으로, 항암 전후 혈허 관리의 근거를 넓힌다.
+
+[^166]: Use of Herbal Dietary Supplement Si-Wu-Tang and Health-Related Quality of Life in Postpartum Women: A Population-Based Correlational Study. Pei-Jen Chang 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/790474](https://doi.org/10.1155/2013/790474) — 산후 여성에서 사물탕 사용이 신체통증 감소·정신건강 개선과 연관되며, 10회 이상 충분히 사용할 때 효과가 뚜렷했다는 인구기반 관찰연구로 산후 혈허 관리 근거를 보강한다.
+
+[^167]: Guipi decoction for insomnia: Systematic review and meta-analysis. Li M 외. _Medicine_. 2020-07-02. [메타분석] [DOI 10.1097/MD.0000000000021031](https://doi.org/10.1097/MD.0000000000021031) [PMID 32629727](https://pubmed.ncbi.nlm.nih.gov/32629727/) — 귀비탕이 불면증 치료·안전성 면에서 메타분석적으로 평가되어, 혈허 겸 심비양허형 불면의 대표방으로서 근거를 보탠다.
+
+[^168]: Is the Chinese medicinal formula Guipi Decoction () effective as an adjunctive treatment for depression? A meta-analysis of randomized controlled trials. Sheng CX 외. _Chinese journal of integrative medicine_. 2017-05. [메타분석] [DOI 10.1007/s11655-015-2287-y](https://doi.org/10.1007/s11655-015-2287-y) [PMID 26453561](https://pubmed.ncbi.nlm.nih.gov/26453561/) — 귀비탕이 항우울제와 병용 시 우울 증상·유효율·회복률을 개선했다는 메타분석으로, 사려과다형 혈허(심비양허) 환자의 정서 증상 관리 근거가 된다.
+
+[^169]: Efficacy and safety of Guipi Decoction in the treatment of chronic heart failure: A systematic review and meta-analysis of randomized controlled trials. Rong Y 외. _Medicine_. 2023-03-03. [메타분석] [DOI 10.1097/MD.0000000000033181](https://doi.org/10.1097/MD.0000000000033181) [PMID 36862873](https://pubmed.ncbi.nlm.nih.gov/36862873/) — 귀비탕이 만성 심부전에서 좌심실박출률 개선, 심실 리모델링 억제, NT-proBNP·CRP 감소를 보였다는 체계적고찰로, 심혈허 겸 기허형 심부전 보조 근거를 확장한다.
+
+[^170]: Guipi decoction for coronary heart disease: A protocol for a systematic review and meta-analysis. Gao H 외. _Medicine_. 2020-08-07. [체계적 고찰] [DOI 10.1097/MD.0000000000021589](https://doi.org/10.1097/MD.0000000000021589) [PMID 32769912](https://pubmed.ncbi.nlm.nih.gov/32769912/) — 귀비탕의 관상동맥질환 적용을 평가하는 체계적고찰 프로토콜로, 심비양허형 협심증·CHD의 근거 기반 확립을 시사한다.
+
+[^171]: Current Utilization and Research Status of the Herbal Medicine Guibi-Tang and Its Variants for Cognitive Impairment: A Scoping Review. Kim G 외. _Nutrients_. 2025-10-26. [체계적 고찰] [DOI 10.3390/nu17213365](https://doi.org/10.3390/nu17213365) [PMID 41228437](https://pubmed.ncbi.nlm.nih.gov/41228437/) — 귀비탕·가미귀비탕이 경도인지장애·치매·뇌졸중후 인지장애에서 인지기능과 일상생활수행능력을 개선했다는 스코핑 리뷰로, 신정-심혈 축 혈허의 인지 영역 적용 근거를 넓힌다.
+
+[^172]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. Toru Yanase 외. _Traditional &amp; Kampo Medicine_. 2017-10-28. [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) — 가미귀비탕이 난소암 항암치료 중 골수억제(특히 혈소판감소증)를 완화했다는 관찰연구로, 귀비탕 계열의 골수 보호적 활용 근거를 보탠다.
+
+[^173]: Prescription of Chinese Herbal Medicine and Selection of Acupoints in Pattern-Based Traditional Chinese Medicine Treatment for Insomnia: A Systematic Review. Wing-Fai Yeung 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [체계적 고찰] [DOI 10.1155/2012/902578](https://doi.org/10.1155/2012/902578) — 불면증의 변증-처방-경혈 대응을 검토한 체계적고찰로, 귀비탕·신문(HT7)·백회(GV20) 등 혈허 겸 심신불안형 불면 취혈의 근거 기반을 제공한다.
+
+[^174]: Traditional Chinese Medicine Formulas against Insomnia: A Systematic Review and Meta-analysis. JENCHIN LIN 외. __. 2022-05-06. [메타분석] [DOI 10.21203/rs.3.rs-1591771/v1](https://doi.org/10.21203/rs.3.rs-1591771/v1) — 전통 한방 처방이 불면증에서 서양의학적 치료보다 유효율·PSQI 개선이 우수했다는 메타분석으로, 산조인탕·천왕보심단 등 보혈안신 처방의 근거를 넓힌다.
+
+[^175]: Chinese herbal medicine for insomnia: A systematic review and network meta-analysis. Weiwei Li 외. _Medicine_. 2025-08-15. [메타분석] [DOI 10.1097/md.0000000000043789](https://doi.org/10.1097/md.0000000000043789) — 한약 제제가 불면증에서 대등하거나 우수한 수면개선·안전성을 보였다는 네트워크 메타분석으로, 귀비탕·시호룡골모려탕 등의 상대적 근거 서열을 제시한다.
+
+[^176]: Tianma gouteng yin as adjunctive treatment for essential hypertension: a systematic review of randomized controlled trials. Wang J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [체계적 고찰] [DOI 10.1155/2013/706125](https://doi.org/10.1155/2013/706125) [PMID 23710230](https://pubmed.ncbi.nlm.nih.gov/23710230/) — 천마구등음이 고혈압 약제와 병용 시 일부 약제군에서 혈압·변증 증상 개선 가능성을 보였다는 체계적고찰로, 간양상항 겸 혈허형 고혈압 처방 근거를 보탠다.
+
+[^177]: Yangxin Decoction combined acupuncture on blood lipid metabolism in Qi Deficiency and Blood Stasis type of Chest Bi-Syndrome: A protocol of systematic review. Yu XH 외. _Medicine_. 2020-08-21. [체계적 고찰] [DOI 10.1097/MD.0000000000021744](https://doi.org/10.1097/MD.0000000000021744) [PMID 32846797](https://pubmed.ncbi.nlm.nih.gov/32846797/) — 기허혈어형 흉비증후군에서 양심탕+침 병용이 혈지질 대사에 미치는 영향을 평가하는 체계적고찰 프로토콜로, 심혈관 영역의 변증 맞춤 병용치료 근거 축적을 시사한다.
+
+[^178]: [Clinical comprehensive evaluation of Naoxintong Capsules in treatment of cerebral infarction with Qi deficiency and blood stasis syndrome and coronary heart disease angina pectoris]. Geng HJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-12. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20210930.504](https://doi.org/10.19540/j.cnki.cjcmm.20210930.504) [PMID 34951236](https://pubmed.ncbi.nlm.nih.gov/34951236/) — 뇌신통 캡슐이 기허혈어형 뇌경색·관상동맥질환 협심증에서 표준치료 병용 시 유효성과 안전성(B등급)이 확인된 종합평가로, 심뇌혈관 보조 한약의 근거를 넓힌다.
+
+[^179]: [Clinical comprehensive evaluation of Qilong Capsules in treatment of ischemic stroke with Qi deficiency and blood stasis syndrome]. Zhang Q 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-03. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20211123.501](https://doi.org/10.19540/j.cnki.cjcmm.20211123.501) [PMID 35347944](https://pubmed.ncbi.nlm.nih.gov/35347944/) — 기룡 캡슐이 기허혈어형 허혈성 뇌졸중에서 신경학적 결손·일상생활능력을 개선했다는 종합평가로, 혈허혈어형 뇌졸중 후유증 관리 근거를 보탠다.
+
+[^180]: BuqiTongluo Granule for Ischemic Stroke, Stable Angina Pectoris, Diabetic Peripheral Neuropathy with Qi Deficiency and Blood Stasis Syndrome: Rationale and Novel Basket Design. Liu W 외. _Frontiers in pharmacology_. 2021. [임상시험] [DOI 10.3389/fphar.2021.764669](https://doi.org/10.3389/fphar.2021.764669) [PMID 34733163](https://pubmed.ncbi.nlm.nih.gov/34733163/) — 기허혈어라는 공통 변증 표현형을 축으로 뇌졸중·협심증·당뇨병성 말초신경병증을 함께 평가하는 바스켓 임상시험으로, 변증-처방 대응의 질환 초월적 근거 설계를 보여준다.
+
+[^181]: The efficacy and safety of Jiedu Tongluo granules for treating post-stroke depression with qi deficiency and blood stasis syndrome: study protocol for a randomized controlled trial. Zhao AM 외. _Trials_. 2018-05-10. [임상시험] [DOI 10.1186/s13063-018-2633-4](https://doi.org/10.1186/s13063-018-2633-4) [PMID 29747670](https://pubmed.ncbi.nlm.nih.gov/29747670/) — 기허혈어형 뇌졸중후 우울증에 해독통락과립을 평가하는 무작위대조시험 프로토콜로, 항암·뇌혈관 영역을 넘어선 정서 증상까지 기허혈어 변증이 파급됨을 시사한다.
+
+[^182]: A Clinical Study on the Efficacy of the Yangxin Huoxue Formula in Treating Stable Angina Pectoris (Qi Deficiency and Blood Stasis Syndrome) with Concurrent Anxiety and Depression Disorders. Weng JH 외. _Journal of multidisciplinary healthcare_. 2024. [임상시험] [DOI 10.2147/JMDH.S483104](https://doi.org/10.2147/JMDH.S483104) [PMID 39582876](https://pubmed.ncbi.nlm.nih.gov/39582876/) — 양심활혈방이 기허혈어형 협심증에 동반된 불안·우울까지 함께 개선했다는 임상시험으로, 심혈허·기허혈어형 협심증의 심신 동시 관리 근거를 보탠다.
+
+[^183]: Danggwijagyaksan for climacteric syndrome in peri- and postmenopausal women with a blood-deficiency dominant pattern: study protocol for a randomized, double-blind, placebo-controlled pilot trial. Kim M 외. _Trials_. 2018-01-15. [임상시험] [DOI 10.1186/s13063-018-2443-8](https://doi.org/10.1186/s13063-018-2443-8) [PMID 29335018](https://pubmed.ncbi.nlm.nih.gov/29335018/) — 혈허 우세형 갱년기 증후군에 당귀작약산의 안전성·유효성을 평가하는 파일럿 무작위대조시험으로, 혈허 변증에 특화된 갱년기 처방 설계의 직접 근거가 된다.
+
+[^184]: A randomized, double-blind, placebo-controlled study of the effect of a Chinese herbal medicine preparation (Dang Gui Buxue Tang) on menopausal symptoms in Hong Kong Chinese women. Haines CJ 외. _Climacteric : the journal of the International Menopause Society_. 2008-06. [임상시험] [DOI 10.1080/13697130802073029](https://doi.org/10.1080/13697130802073029) [PMID 18568789](https://pubmed.ncbi.nlm.nih.gov/18568789/) — 당귀보혈탕이 홍콩 여성의 갱년기 혈관운동증상에서 경증 안면홍조 빈도를 유의하게 감소시켰다는 위약대조 임상시험으로, 경증 갱년기 혈허 관리 근거를 보탠다.
+
+[^185]: A randomized, double-blind, multiple-dose escalation study of a Chinese herbal medicine preparation (Dang Gui Buxue Tang) for moderate to severe menopausal symptoms and quality of life in postmenopausal women. Wang CC 외. _Menopause (New York, N.Y.)_. 2013-02. [임상시험] [DOI 10.1097/gme.0b013e318267f64e](https://doi.org/10.1097/gme.0b013e318267f64e) [PMID 22990757](https://pubmed.ncbi.nlm.nih.gov/22990757/) — 당귀보혈탕 6.0g/day 고용량이 폐경 후 여성의 혈관운동증상과 삶의 질을 개선했다는 용량증량 임상시험으로, 중등도 이상 갱년기 혈허의 용량 설계 근거가 된다.
+
+[^186]: Prescription patterns of herbal medicine for menopausal disorders in major Korean medicine hospitals: a multicenter retrospective study. Lee HW 외. _Integrative medicine research_. 2021-09. [관찰연구] [DOI 10.1016/j.imr.2020.100706](https://doi.org/10.1016/j.imr.2020.100706) [PMID 33665094](https://pubmed.ncbi.nlm.nih.gov/33665094/) — 한국 한방병원의 갱년기 처방 패턴을 조사한 다기관 후향적 연구로, 귀비탕·사물귀비탕·가미소요산 등이 실제 임상에서 혈허형 갱년기 증후군에 널리 쓰임을 보여준다.
+
+[^187]: Effect of Japanese Kampo Medicine Therapy for Menopausal Symptoms after Treatment of Gynecological Malignancy. Yoshimura A 외. _Obstetrics and gynecology international_. 2018. [임상시험] [DOI 10.1155/2018/9475919](https://doi.org/10.1155/2018/9475919) [PMID 29805451](https://pubmed.ncbi.nlm.nih.gov/29805451/) — 부인과 암 치료 후 갱년기 증상에 가미귀비탕·가미소요산이 모두 유효했다는 임상시험으로, 암 생존자의 혈허형 갱년기 증상 관리 근거를 넓힌다.
+
+[^188]: A Case of Severe Anemia in Pregnancy Treated With Traditional Chinese Medicine. Zhong S 외. _Clinical case reports_. 2025-08. [증례 보고] [DOI 10.1002/ccr3.70672](https://doi.org/10.1002/ccr3.70672) [PMID 40756086](https://pubmed.ncbi.nlm.nih.gov/40756086/) — 중증 빈혈과 유산력을 가진 고위험 임신부에서 보기보혈·보신 한방치료로 수혈 없이 만삭 분만에 이른 증례로, 산과 혈허 관리의 보조적 가치를 보여준다.
+
+[^189]: [Effect of needle cauterization on vitiligo with deficiency cold and blood stasis: a randomized controlled trial]. DU H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2025-03-12. [임상시험] [DOI 10.13703/j.0255-2930.20240531-k0004](https://doi.org/10.13703/j.0255-2930.20240531-k0004) [PMID 40097215](https://pubmed.ncbi.nlm.nih.gov/40097215/) — 허한어조형 백반증에서 화침(자락)이 IL-6·IL-17 등 염증지표를 낮추며 백반 면적을 개선했다는 무작위대조시험으로, 혈허겸혈어형 백반증의 침구 외치 근거를 보탠다.
+
+[^190]: Applying latent tree analysis to classify Traditional Chinese Medicine syndromes (Zheng) in patients with psoriasis vulgari. Xu WJ 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-02. [관찰연구] [DOI 10.19852/j.cnki.jtcm.20210425.003](https://doi.org/10.19852/j.cnki.jtcm.20210425.003) [PMID 35294133](https://pubmed.ncbi.nlm.nih.gov/35294133/) — 대규모 건선 환자 데이터에서 혈허풍조·혈열·혈어의 세 핵심 변증이 잠재트리분석으로 객관적으로 도출되어, 건선의 변증 분류 근거를 강화한다.
+
+[^191]: Effectiveness a herbal medicine (Sipjeondaebo-tang) on adults with chronic fatigue syndrome: A randomized, double-blind, placebo-controlled trial. Shin S 외. _Integrative medicine research_. 2021-06. [임상시험] [DOI 10.1016/j.imr.2020.100664](https://doi.org/10.1016/j.imr.2020.100664) [PMID 33101925](https://pubmed.ncbi.nlm.nih.gov/33101925/) — 십전대보탕이 만성피로증후군 환자의 주관적 피로도(VAS·FSS·Chalder)를 개선했다는 위약대조 임상시험으로, 기혈양허형 만성피로 관리의 직접 근거가 된다.
+
+[^192]: Chinese herbal medicine for constipation: zheng-based associations among herbs, formulae, proprietary medicines, and herb-drug interactions. Zhong LLD 외. _Chinese medicine_. 2016. [체계적 고찰] [DOI 10.1186/s13020-016-0099-4](https://doi.org/10.1186/s13020-016-0099-4) [PMID 27347002](https://pubmed.ncbi.nlm.nih.gov/27347002/) — 기능성 변비 치료 중약의 증 기반 처방을 분석한 체계적고찰로, 기혈양허가 가장 흔한 변증이며 윤장환 계열이 빈용됨을 확인해 암 환자 변비 관리 근거를 보탠다.
+
+[^193]: Efficacy of Traditional Chinese Herbal Medicine in the Treatment of Immune-Mediated Thrombocytopenia: A Systematic Review and Meta-analysis. Xinyan Zhang. _American Journal of Traditional Chinese Veterinary Medicine_. 2024-08-01. [메타분석] [DOI 10.59565/001c.121502](https://doi.org/10.59565/001c.121502) — 중약이 면역매개혈소판감소증에서 혈소판 수치·유효율을 개선했다는 메타분석으로, 귀비탕·양혈화어탕 등 혈허형 ITP 관리 근거를 확장한다.
+
+[^194]: Traditional Chinese medicine as an alternative therapy for chronic immune thrombocytopenia in children: A case report. Tan H 외. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2025.103190](https://doi.org/10.1016/j.explore.2025.103190) [PMID 40411952](https://pubmed.ncbi.nlm.nih.gov/40411952/) — 표준치료에 반응하지 않는 소아 만성 면역성 혈소판감소증에 한약 병행으로 혈소판이 안전 범위로 회복된 증례로, 난치성 ITP에서 통합의학적 접근의 가능성을 보여준다.
+
+[^195]: Effect of traditional Chinese medicine Bailing capsule on renal anemia in maintenance hemodialysis patients: A protocol for systematic review and meta-analysis. Li YL 외. _Medicine_. 2022-04-15. [기타] [DOI 10.1097/MD.0000000000029086](https://doi.org/10.1097/MD.0000000000029086) [PMID 35475796](https://pubmed.ncbi.nlm.nih.gov/35475796/) — 유지혈액투석 환자의 신성빈혈에 백령 캡슐의 효능·안전성을 평가하는 체계적고찰 프로토콜로, 투석 환자 혈허 관리의 근거 축적 방향을 보여준다.
+
+[^196]: [Warming acupuncture combined with conventional acupuncture for diabetic peripheral neuropathy with syndrome of yang deficiency and cold coagulation, obstruction of collaterals and blood stasis]. Ma G 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-03-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.03.001](https://doi.org/10.13703/j.0255-2930.2018.03.001) [PMID 29701037](https://pubmed.ncbi.nlm.nih.gov/29701037/) — 양허한응형 당뇨병성 말초신경병증에서 온침이 일반 침보다 TCM 증상·TCSS를 더 개선했다는 임상시험으로, 혈허생풍형 CIPN·당뇨신경병증의 온양 취혈 근거를 보탠다.
+
+[^197]: Metabolite and gut microbiota co-biomarkers in Danggui Shaoyao San: insights into a shared therapeutic approach. Fu X 외. _Frontiers in pharmacology_. 2025. [문헌 고찰] [DOI 10.3389/fphar.2025.1698734](https://doi.org/10.3389/fphar.2025.1698734) [PMID 41601981](https://pubmed.ncbi.nlm.nih.gov/41601981/) — 당귀작약산이 제2형 당뇨·알츠하이머병·다낭성난소증후군에서 공통된 트립토판·페닐알라닌 대사 이상과 장내미생물 불균형을 조절한다는 문헌고찰로, 간비동조 처방의 다중표적 기전 근거를 보탠다.
 
 **고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 宣明五氣篇, 調經論, 痿論, 藏氣法時論), 『靈樞』(本神, 決氣, 邪客, 營衛生會, 脈度, 經脈), 『難經』, 『傷寒論』, 『金匱要略』, 『太平惠民和劑局方』, 『內外傷辨惑論』, 『濟生方』, 『醫宗必讀』, 『醫宗金鑑』, 『臨證指南醫案』
 
