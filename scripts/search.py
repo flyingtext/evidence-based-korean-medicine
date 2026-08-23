@@ -476,12 +476,20 @@ def fetch_all(
 def footnote_def(idx: int, item: dict) -> str:
     """RUN.md §1-4-2-1 고정 포맷.
 
-    [^n]: <제목>. _<저널>_. <YYYY-MM-DD>. [<라벨>] <DOI/PMID 링크> — <부연 한 줄>.
+    [^n]: <제목>. <제1저자 외>. _<저널>_. <YYYY-MM-DD>. [<라벨>] <DOI/PMID 링크> — <부연 한 줄>.
     부연은 clinical_summary/answer가 있으면 1문장 요약, 없으면 생략 가능하되 자리표시는 유지.
+    저자는 authors 필드(쉼표 구분)의 제1저자만 표기하고, 공저자가 있으면 "외"를 붙인다.
     """
     title = (item.get("title") or "제목 미상").strip()
     # 마침표 통일: 중국어 모점 제거
     title = title.replace("。", ".")
+    authors_raw = (item.get("authors") or "").strip()
+    author_part = ""
+    if authors_raw:
+        author_list = [a.strip() for a in authors_raw.split(",") if a.strip()]
+        if author_list:
+            first_author = author_list[0].replace("。", ".")
+            author_part = f" {first_author} 외." if len(author_list) > 1 else f" {first_author}."
     journal = (item.get("journal") or "").strip().replace("。", ".")
     pub_date = (item.get("pub_date") or item.get("fetched_at") or "")[:10]
     cat = item.get("research_category") or "other"
@@ -517,12 +525,12 @@ def footnote_def(idx: int, item: dict) -> str:
     else:
         annotation = ""
     # 최종 조합
-    # 예: [^1]: Title. _Journal_. 2024-09-30. [메타분석, 123명] [DOI ...] [PMID ...] — 부연.
+    # 예: [^1]: Title. Kim JH 외. _Journal_. 2024-09-30. [메타분석, 123명] [DOI ...] [PMID ...] — 부연.
     count_label = f"{label}{patient_str}" if patient_str else label
     if link_str:
-        return f"[^{idx}]: {title}.{journal_part}{date_part} [{count_label}] {link_str}{annotation}"
+        return f"[^{idx}]: {title}.{author_part}{journal_part}{date_part} [{count_label}] {link_str}{annotation}"
     else:
-        return f"[^{idx}]: {title}.{journal_part}{date_part} [{count_label}]{annotation}"
+        return f"[^{idx}]: {title}.{author_part}{journal_part}{date_part} [{count_label}]{annotation}"
 
 
 def main() -> int:
