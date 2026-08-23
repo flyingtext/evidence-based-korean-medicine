@@ -2,7 +2,7 @@
 
 **Evidence-Based Korean Medicine Wiki**
 
-PubMed · Crossref의 논문 데이터를 AI로 분석해 만든 근거 기반 한의학 위키입니다.
+PubMed · Crossref · KCI(한국학술지인용색인)의 논문 데이터를 AI로 분석해 만든 근거 기반 한의학 위키입니다.
 모든 문서는 [med.symbolicinfo.com](https://med.symbolicinfo.com) 검색 API로 수집한 논문 근거에 기반하며, 임상적 주장에는 출처(DOI/PMID)를 명시합니다.
 
 운영 사이트: [https://wiki.symbolicinfo.com](https://wiki.symbolicinfo.com)
