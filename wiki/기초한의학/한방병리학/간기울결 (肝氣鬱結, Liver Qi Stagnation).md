@@ -692,9 +692,9 @@
 
 #### ③ 병태생리
 
-**간기울결증 56명의 위전기도·위점막병리·맥-심혈관기능 연구** [^14]: 비허·간기울결 변증이 위전기도·점막병리와 연관.
+**간기울결증 56명의 위전기도·위점막병리·맥-심혈관기능 연구** [^14]: 비허·간기울결 변증이 위전기도·점막병리와 연관. 비기허와 간기울결이 겸협된 만성 위질환 환자에서는 위전도(EGG)·위점막병리·맥-심혈관기능 지표가 함께 이상 소견을 보여, 기능성소화불량·만성위염의 병태가 단순 운동장애를 넘어 다축 생리 지표에 반영됨을 보여준다[^14].
 
-**간기울결·비허 모델 설사형 IBS 랫드** [^62]: 전침이 십이지장 손상 완화에 기전(Keap1/Nrf2/GPX4 경로). **온건간비탕**이 장점막 개선으로 설사형 IBS를 완화했다 [^54]. 통사요방이 장내미생물 재조정으로 설사 개선 [^53]. 가미소요산이 위장관 운동 조절 [^60].
+**온건간비탕**이 장점막 개선으로 설사형 IBS를 완화했다 [^54]. 통사요방이 장내미생물 재조정으로 설사 개선 [^53]. 가미소요산이 위장관 운동 조절 [^60].
 
 #### ④ 치료
 
@@ -1099,7 +1099,6 @@
 
 [^61]: \[Study on syndrome rules of stagnated heat in liver and stomach of non-erosive reflux disease based on microecology of tongue coating\]. _Medicine_. 2022. [DOI 10.1097/md.0000000000031618](https://doi.org/10.1097/md.0000000000031618)
 
-[^62]: \[Mechanism of electroacupuncture for attenuating duodenal injury in rats with functional dyspepsia via Keap1/Nrf2/GPX4 pathway-mediated ferroptosis\]. 2026. [PMID 41987446](https://pubmed.ncbi.nlm.nih.gov/41987446/)
 
 [^63]: Changes in regional cerebral blood flow with Chaihu-Shugan-San in the treatment of major depression. _Pharmacogn Mag_. 2014. [PMID 25422553](https://pubmed.ncbi.nlm.nih.gov/25422553/)
 
