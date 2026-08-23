@@ -26,7 +26,7 @@
 | **간개규어목(肝開竅於目)** | 간혈이 눈으로 상영(上榮)하여 시각을 주관 | 목혼(目昏)·목건(目乾) |
 | **간재지위노(肝在志爲怒)·화재조(華在爪)** | 분노라는 정서와 손발톱이라는 외후를 통해 간의 상태가 드러남 | 이노(易怒)·조갑 변화 |
 
-이 다섯 기능은 독립적이지 않고 **간체음이용양(肝體陰而用陽)**이라는 하나의 조직 원리 아래 통합된다. 이 문서는 다섯 기능을 모두 다루되, 장혈과 소설은 기존에 각각 독립 문서로 상세히 다루어졌으므로 이 문서에서는 두 기능의 개관과 상호관계에 집중하고, 간주근·간개규어목·재지위노·화재조·타 장부 관계·병리 총람에 서술의 무게를 둔다.
+이 다섯 기능은 독립적이지 않고 **간체음이용양(肝體陰而用陽)**이라는 하나의 조직 원리 아래 통합된다. 이 문서는 다섯 기능 **모두를 기전·원전 근거·현대적 상관물을 갖춘 완결된 수준으로 다룬다.** 간장혈(肝藏血)과 간주소설(肝主疏泄)은 간 생리의 체(體)·용(用) 두 축을 이루는 가장 핵심적인 기능이므로 제2편에서 기전·원전·현대적 상관물·임상 근거를 독립적으로 상세히 서술하며, 간주근·간개규어목·재지위노·화재조·타 장부 관계·병리 총람은 제3~6편에서 다룬다. 장혈·소설 두 기능은 각각 간장혈(肝藏血)·간주소설(肝主疏泄)이라는 별도 문서에서 더욱 심화된 각론(추가 KCD 질환군·감별진단·처방 방해 등)으로도 다루어지므로, 최대치의 깊이가 필요한 독자는 해당 문서를 함께 참고할 수 있다.
 
 ### 2. 원전 근거와 학설사
 
@@ -81,8 +81,8 @@
 
 | 전통 서술 | 현대적 상관물(가설) | 대표 인간 대상 근거 |
 | --- | --- | --- |
-| 간장혈(肝藏血) — 혈을 저장·재분배 | 간의 혈액 저류, 혈장단백·응고인자 합성, 철 대사, HPO축을 통한 월경주기 조절 | 간장혈(肝藏血) 문서 참조 |
-| 간주소설(肝主疏泄) — 기기 승강출입 조달 | 자율신경 균형, HPA축, 담즙 분비, 위장관 운동성(뇌-장 축) | 간주소설(肝主疏泄) 문서 참조 |
+| 간장혈(肝藏血) — 혈을 저장·재분배 | 간의 혈액 저류, 혈장단백·응고인자 합성, 철 대사, HPO축을 통한 월경주기 조절 | 생리통·PCOS 희발월경·과소월경·월경과다·문맥혈어 연구[^101][^102][^105][^106][^107][^108][^109][^111][^155] |
+| 간주소설(肝主疏泄) — 기기 승강출입 조달 | 자율신경 균형, HPA축, 담즙 분비, 위장관 운동성(뇌-장 축) | 자율신경·HPA축·D-IBS·우울증·PMS·ICP 연구[^110][^113][^114][^115][^121][^122][^125][^138][^142][^149] |
 | 간주근(肝主筋) — 근·힘줄 자양 | 신경근접합부 흥분성, 추체외로 운동조절계, 말초 혈류-근긴장 | 파킨슨병 진전·중증근무력증·경직 연구[^1][^2][^3][^7][^8][^11] |
 | 간개규어목(肝開竅於目) — 눈으로 개규 | 눈물막 안정성, 시신경 혈류·기능, 안구 표면 염증 | 안구건조증·시신경위축 연구[^13][^16][^18][^20] |
 | 간재지위노(肝在志爲怒) — 분노 정서 | 교감신경 항진, HPA축 반응성, 정서 조절 신경회로 | 화병 연구[^22][^23][^25][^26] |
@@ -94,29 +94,89 @@
 
 ## 제2편 간장혈(肝藏血)·간주소설(肝主疏泄) 개관
 
-### 4. 간장혈(肝藏血) 요약
+### 4. 간장혈(肝藏血) — 혈의 저장과 조절
 
 #### 4-1. 개념과 생리적 의의
 
-간장혈(肝藏血)은 간이 혈액을 저장하고, 신체 활동량에 따라 저장한 혈을 각 부위로 조절 배분하는 기능이다. 왕빙(王冰)의 주석에 근거해 "人臥則血歸於肝"이라 하였으며, 활동 시에는 혈이 근·목·조 등 전신으로 분배되고 안정·수면 시에는 다시 간으로 돌아와 저장된다고 설명한다[교과서적 근거]. 이 기능은 ① 혈량 조절, ② 출혈 방지(통섭 혈의 저류), ③ 월경주기 조절이라는 세 임상 축으로 발현되며, 실조 시 간혈허(肝血虛)로 진행한다.
+간장혈(肝藏血)은 간이 혈액을 저장하고, 신체 활동량에 따라 저장한 혈을 각 부위로 조절 배분하는 기능이다. 왕빙(王冰)의 주석에 근거해 "人臥則血歸於肝"이라 하였으며, 활동 시에는 혈이 근·목·조 등 전신으로 분배되고 안정·수면 시에는 다시 간으로 돌아와 저장된다고 설명한다[교과서적 근거]. 청대 혈증 전문서인 『혈증론(血證論)』은 간장혈이 심(心)이 행하는 혈의 순환과 짝을 이루어 "血生於心, 下行胞中, 是爲血海"라 하여 간이 저장·조절하는 혈이 결국 포궁(胞宮)의 혈해(血海)로 이어짐을 밝혔다[교과서적 근거]. 이 기능은 ① **혈량 조절**, ② **출혈 방지**(統血·혈의 저류), ③ **월경주기 조절**, ④ **정혈동원(精血同源)을 통한 신정(腎精) 자양**이라는 네 임상 축으로 발현되며, 실조 시 간혈허(肝血虛)로 진행한다.
 
-간장혈의 이론적 근거·현대적 상관물(조혈 지표, 자궁동맥 혈류, 수면-혈류 재분배 연구 등)·임상 근거·KCD 질환군별 각론은 간장혈(肝藏血) 문서에서 상세히 다룬다. 이 문서에서는 다른 기능(특히 간주근·간개규어목·재지위노)이 왜, 그리고 어떻게 이 저장 기능에 의존하는지를 설명하는 데 필요한 만큼만 요약한다.
+#### 4-2. 기전 — 야와혈귀간(夜臥血歸肝)·조절혈량(調節血量)·방지출혈(防止出血)·정혈동원(精血同源)
 
-#### 4-2. 현대적 상관물 개관
+**① 야와혈귀간(夜臥血歸肝) — 동정(動靜)에 따른 혈의 재분배.** 간이 혈을 저장하는 기전의 핵심은 신체 활동 상태에 따라 혈류량이 재분배된다는 것이다. 활동 시에는 저장된 혈이 근·목·피부 등 말초로 동원되어 운동·감각을 뒷받침하고, 안정·수면 시에는 말초로 나갔던 혈이 다시 중심(간)으로 돌아와 저류(貯留)된다는 것이 『소문·오장생성편』"肝受血而能視, 足受血而能步"의 생리적 함의다[교과서적 근거]. 이 동정에 따른 혈류 재분배 원리는 현대 생리학의 **비장(splanchnic)·간 정맥계 혈액 저류(hepatic-splanchnic blood reservoir)** — 안정 시 전신 순환혈액량의 상당 부분이 간문맥계에 저류되었다가 활동·스트레스 시 교감신경 긴장에 의해 동원되는 현상 — 와 개념적으로 조응하는 것으로 이해된다.
 
-간이 혈액을 저장·재분배한다는 전통 서술은 현대적으로 간의 혈액 저류(hepatic blood reservoir) 기능, 응고인자·알부민 등 혈장단백 합성, 철 대사·페리틴 저장, 그리고 여성에서는 시상하부-뇌하수체-난소축(HPO axis)을 통한 월경주기 조절과 부분적으로 대응한다[교과서적 근거]. 이 상관물에 대한 문헌 근거는 간장혈(肝藏血) 문서의 병태생리편을 참조한다.
+**② 조절혈량(調節血量) — 혈류의 정체와 소통.** 간이 저장한 혈이 정체(어혈)되지 않고 적절히 순환·동원되어야 조절 기능이 정상적으로 발휘된다. 간이식 수술 시 문맥에 정체된 혈액(문맥혈어)을 충분히 제거하는 것이 내독소혈증을 완화하고 간 기능 회복을 촉진한다는 임상 관찰은[^109], "혈의 저류가 과도해지면 오히려 병리가 된다"는 간장혈 이론의 병리적 함의(간울혈어)와 상통하는 인간 자료로 해석할 수 있다. 정지내상으로 소설이 울결되어 혈행이 저해되면 간경(肝經)을 사혈(瀉血)·자락(刺絡)하는 치법이 활용되는데, 우울증 환자에서 간경 오수혈 침 치료와 대돈혈(LR1) 사혈요법을 병행하였을 때 증상 완화와 함께 혈액 유변학적(혈액 점도·응집) 지표가 개선되었다는 보고는[^110] 간장혈-소설 축과 혈액 유변학이 임상적으로 연동될 수 있음을 시사한다.
 
-### 5. 간주소설(肝主疏泄) 요약
+**③ 방지출혈(防止出血) — 통섭(統攝)과 지혈.** 간이 혈을 정상적으로 저장·통섭해야 경맥 밖으로 함부로 넘치지 않는다는 것이 방지출혈의 함의이며, 이 기능이 실조되면 붕루(崩漏)·월경과다·비출혈(衄血) 등으로 나타난다[교과서적 근거]. 서양의학적으로 간은 응고인자(피브리노겐·프로트롬빈·인자 V·VII·IX·X 등)와 알부민 등 혈장단백을 합성하는 유일한 장기이므로, 간 기능이 심하게 저하되면 응고인자 부족으로 출혈 경향이 나타난다는 것은 상식적으로 알려져 있다. 이 "간과 지혈의 직결" 관계가 임상적으로 얼마나 중대한지는, 질식분만 후 심한 산후출혈(중증 산후출혈로 수혈이 필요했던 경우)이 이후 조기 난소부전(POF)의 위험을 유의하게 높이며 수혈량이 많을수록 위험이 커지는 용량-반응 관계를 보인 대규모 코호트 연구에서[^111] 잘 드러난다. 이는 대량 실혈이 단순히 "혈이 모자란" 문제에 그치지 않고 생식축(HPO axis) 자체의 기능 저하로 이어질 수 있음을 인간 자료로 보여주며, "혈이 부족하면 생식 기능이 손상된다"는 간장혈-충임(衝任) 이론의 임상적 중대성을 뒷받침한다.
+
+**④ 정혈동원(精血同源) — 신정(腎精)과의 상호 자양.** 간이 저장한 혈은 신(腎)이 저장한 정(精)과 상호 전화(轉化)하는 관계에 있다("精能生血, 血能化精"). 이 축은 제5편 13절(간신동원)에서 상세히 다루며, 여기서는 간장혈이 단독으로 완결되는 기능이 아니라 신정과의 호혜 관계 위에서 유지되는 기능이라는 점만 확인한다.
+
+#### 4-3. 현대적 상관물 — 혈액 저류·응고인자·철 대사·HPO축을 통한 월경 조절
+
+간이 혈액을 저장·재분배한다는 전통 서술은 현대적으로 ① 간의 혈액 저류(hepatic blood reservoir) 기능, ② 응고인자·알부민 등 혈장단백 합성, ③ 철 대사·페리틴 저장, ④ 시상하부-뇌하수체-난소축(HPO axis)을 통한 월경주기 조절이라는 네 생리축과 부분적으로 대응한다[교과서적 근거]. 유전성 혈색소침착증이 아니더라도 간 내 철분 수치의 이상이 다른 간독성 요인과 결합하면 간 손상·섬유화 위험이 커진다는 문헌 고찰은[^155] 간이 철 저장(鐵藏)의 핵심 장기라는 서양의학적 사실을 뒷받침하며, "간이 혈(혈색소를 구성하는 철을 포함)을 저장한다"는 전통 서술과 개념적으로 조응한다.
+
+월경주기·생식 영역에서는 특히 풍부한 인간 대상 근거가 축적되어 있다. 원발성 생리통(어혈·혈허 겸협 병기)에 대한 당귀작약산(當歸芍藥散) 메타분석은 진통제·위약보다 우수한 효과를 확인하였고[^101], 자궁내막증·자궁선근증으로 인한 중증 생리통에 당귀작약산과 이침(耳鍼) 요법을 병행하는 임상시험 프로토콜이 진행되었다[^102]. 어혈성 생리통에 대한 도홍사물탕(桃紅四物湯) 계열 처방의 임상 효과·기전을 정리한 문헌 고찰[^103]과, 신허·비허·혈어 증후군별로 유귀음·사군자탕·도홍사물탕을 감별 투여하여 면역 조절 효과를 확인한 임상시험[^104]은 사물탕(四物湯) 계열이 간장혈 이론의 대표적 방제군임을 뒷받침한다.
+
+다낭성 난소 증후군(PCOS)으로 인한 희발월경(oligomenorrhea)에 대한 국제 다기관 파일럿 무작위대조시험에서 침 치료의 유효성·안전성이 평가되었으며[^105], 팔강변증에 기반한 초기 처방이 무효할 때 온경탕(溫經湯)으로 전환하는 것이 PCOS 환자의 내분비 상태(LH 저하)와 배란 유도에 효과적이었다는 보고는[^106] 간장혈이 조절하는 월경주기가 HPO축 호르몬 지표와 직접 연동됨을 보여주는 근거다. 과소월경(hypomenorrhea, 혈허형 월경량 감소)에 대한 매선요법 임상시험[^107], 월경과다(menorrhagia)에 대한 구굴(Commiphora mukul) 기반 한약 제제의 파일럿 삼중맹검 임상시험[^108]은 각각 간장혈 실조의 두 극단(월경량 부족·과다)에 대한 인간 대상 개입 근거다. 월경전 불쾌장애(PMDD, 간기울결형)에 소요산(逍遙散)을 투여하며 소변 대사체 변화를 추적한 임상시험 프로토콜은[^112] 장혈-소설 두 기능이 월경축에서 함께 조절됨을 보여주는 사례로, 제5절(간주소설)에서 다시 인용한다.
+
+**근거를 읽는 원칙**: 위 연구 대부분은 "간장혈"이라는 변증명을 직접 표적하지 않고, 간장혈 이론이 설명하는 임상 영역(월경량 이상·생리통·PCOS 희발월경·산후 대량출혈 후유증)에서 한약·침구 개입을 평가한 인간 자료다. 따라서 간장혈은 "혈허·혈어라는 병리 축이 여러 부인과 질환에서 공통적으로 관찰되고, 그 병리 축을 표적하는 한의학적 개입이 인간 자료로 뒷받침된다"는 방식으로 근거를 해석하는 것이 적절하다. 간장혈의 KCD 질환군별 각론(혈허성 빈혈·기질적 부인과 출혈성 질환과의 감별 등)은 간장혈(肝藏血) 문서에서 더 심화된 수준으로 다룬다.
+
+#### 4-4. 간장혈 임상 근거 정리표
+
+| 임상 영역 | 병리축 | 대표 연구 | 근거 성격 |
+| --- | --- | --- | --- |
+| 원발성 생리통(血虛·血瘀) | 혈허·혈어 겸협 | [^101][^102][^103][^104] | 메타분석·임상시험·문헌 고찰 |
+| PCOS 희발월경 | 혈허로 인한 충임실조 | [^105][^106] | 파일럿 RCT·임상시험 |
+| 과소월경·월경과다 | 혈량 조절 실조(부족·과다 양극) | [^107][^108] | 임상시험·파일럿 RCT |
+| 문맥 혈어(간이식) | 혈의 정체·저류 과다 | [^109] | 임상시험 |
+| 우울증-혈액 유변학 | 소설 울결이 혈행에 파급 | [^110] | 임상시험 |
+| 산후 대량출혈-난소기능 | 방지출혈 실조의 생식축 파급 | [^111] | 대규모 코호트(관찰연구) |
+| PMDD(간기울결형) | 장혈-소설 겸협 실조 | [^112] | 임상시험(프로토콜) |
+| 간 내 철 대사 이상 | 혈(철) 저장 실조 | [^155] | 문헌 고찰 |
+
+**이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.** 월경 이상은 반드시 갑상선기능이상·고프로락틴혈증·자궁근종/선근증·응고장애 등 기질적 원인을 먼저 배제한 뒤 변증적 접근을 적용해야 한다.
+
+### 5. 간주소설(肝主疏泄) — 기기의 조달
 
 #### 5-1. 개념과 생리적 의의
 
-간주소설(肝主疏泄)은 전신 기기(氣機)의 승강출입(升降出入)을 조달하는 기능으로, ① 정지(情志) 조달, ② 비위 운화(脾胃運化) 보조, ③ 혈·진액 운행 촉진, ④ 생식 기능 조절이라는 네 축에서 발현된다[교과서적 근거]. 소설이 정상이면 정서가 화평하고 소화·순환·생식이 원활하나, 실조하면 울결(鬱結)·역상(逆上)·항성(亢盛)·화화(化火)의 방향으로 전변한다.
+간주소설(肝主疏泄)은 전신 기기(氣機)의 승강출입(升降出入)을 조달하는 기능으로, ① **기기조절(氣機調節)**, ② **정지조달(情志條達)**, ③ **소화보조(消化補助, 脾胃運化 보조)**, ④ **혈·진액운행보조(血津液運行補助)**, ⑤ 생식 기능 조절이라는 다섯 축에서 발현된다[교과서적 근거]. 소설이 정상이면 정서가 화평하고 소화·순환·생식이 원활하나, 실조하면 울결(鬱結)·역상(逆上)·항성(亢盛)·화화(化火)의 방향으로 전변한다. 주단계(朱丹溪)는 『격치여론(格致餘論)』에서 "主閉藏者腎也, 司疏泄者肝也"라 하여 신(腎)의 폐장(閉藏)과 대비되는 간의 소설 작용을 명제화하였다[교과서적 근거].
 
-간주소설의 원전 근거·기전·현대적 상관물(자율신경·HPA축·담즙 분비·위장관 운동성·정서·월경주기 조절)·임상적 함의는 간주소설(肝主疏泄) 문서에서 상세히 다룬다.
+#### 5-2. 기전 — 기기조절·정지조달·소화보조·혈진액운행보조
 
-#### 5-2. 현대적 상관물 개관
+**① 기기조절(氣機調節) — 승강출입의 총사령.** 간의 소설은 전신 기(氣)의 승강출입 리듬을 조율하는 축이다. 폐의 숙강(肅降), 비위의 승청강탁(升淸降濁), 심신(心腎)의 수화기제(水火旣濟)가 모두 간의 소설이 정상적이라는 전제 위에서 원활히 작동한다[교과서적 근거]. 이 조절축이 흐트러지면 기체(氣滯)·기역(氣逆)·기함(氣陷) 등 다양한 기병(氣病)이 파생된다.
 
-소설 기능은 현대적으로 자율신경계(교감·부교감 균형), 시상하부-뇌하수체-부신축(HPA axis), 담즙 생성·배설, 위장관 운동성(뇌-장 축), 변연계-시상하부 정서 회로, 시상하부-뇌하수체-난소축(HPO axis)이라는 여러 생리축과 조응하는 것으로 이해된다[교과서적 근거]. 이 상관물에 대한 문헌 근거는 간주소설(肝主疏泄) 문서의 제2편을 참조한다.
+**② 정지조달(情志條達) — 정서의 소통과 발산.** 소설이 정상이면 정서 표현이 자연스럽고 억울되지 않는다. 이 축의 현대적 상관물은 자율신경계(교감·부교감 균형)와 시상하부-뇌하수체-부신축(HPA axis)이다. 침 치료가 만성피로증후군 환자의 자율신경 기능을 조절한다는 파일럿 대조시험[^114], 특정 혈위(수삼리·LI10) 자침이 심박수를 낮추고 부교감 활동(HFnu)을 높여 교감-부교감 균형(LF/HF)을 조절한다는 실험연구[^115], 갱년기 증상에서 자세 변화와 연동한 침 치료의 자율신경 조절 효과를 본 전향적 무작위 연구[^116], 심박변이도(HRV)를 침구 연구의 객관적 자율신경 평가지표로 활용한 문헌 고찰[^117], 만성피로증후군 환자에서 족삼리·관원 병용 침구가 HRV를 개선했다는 무작위대조시험[^118], 신체 스트레스에서 침 치료가 자율신경 활동을 조절한다는 임상시험[^119], 편두통 환자에서 침 치료와 이침 압박법 병용이 자율신경 균형과 불안 증상을 함께 개선했다는 관찰연구[^120]는 모두 "소설-자율신경" 축의 임상적 상관물로 해석할 수 있다.
+
+HPA축 관련 근거로는, 정신적 스트레스를 겪는 대학생에게 족삼리 침 치료를 시행해 혈압·심박수를 유의하게 낮춘 파일럿 무작위대조시험[^121], 침 치료가 스트레스 타액 코르티솔의 일주기 리듬(특히 기상 후 코르티솔 반응)을 정상화할 가능성을 시사한 파일럿 무작위대조시험[^122], 침·뜸 치료 후 통증·스트레스 완화 정도를 타액 생체지표(아밀라아제·s-IgA)로 정량화한 관찰연구[^123]가 있다. 이는 소설 실조(간기울결)의 핵심 병태생리 가설인 HPA축 과활성·자율신경 불균형을 인간 대상으로 뒷받침하는 근거다.
+
+정지조달의 임상적 확장으로서, 소요산(逍遙散)·단치소요산(丹梔逍遙散) 계열 처방이 우울증 보조 치료로 널리 연구되었다. 항우울제와 소요산 병용이 단독 투여보다 HAMD 점수를 유의하게 개선했다는 메타분석[^142], 뇌졸중 후 우울증에서 소요산 병용이 항우울제 단독보다 효과적이었다는 메타분석[^143], 단치소요산의 임상 종합 효과를 정리한 체계적 고찰·메타분석[^144], 소요산 투여 후 우울증 환자의 요중 대사체(에너지 대사·트립토판·타우린 관련)가 변화한다는 대사체학 연구[^145][^146], 혈장 대사 지표(알라닌·콜린·글루타민 등)의 정상화를 확인한 연구[^147], 간기울결형 우울증 치료의 임상 효과를 관찰한 임상시험[^138], 8,923명 규모의 한약 치료 네트워크 메타분석[^139], 뇌졸중 후 우울증에 대한 별도 체계적 고찰·메타분석[^140], 고산지대 노인 우울증에서 플루옥세틴과 중약·티베트약 병용 임상시험[^141]은 정지조달 이론이 현대 임상연구에서 가장 밀도 있게 검증된 축임을 보여준다. 장-뇌 축(gut-brain axis)을 통한 NLRP3/TLR4 매개 염증 경로 조절이 한의학적 항우울 기전의 한 축으로 제시된 체계적 고찰[^148]은 정지조달과 아래에서 다룰 소화보조 기능이 신경-면역-장내미생물 축에서 서로 얽혀 있음을 보여준다.
+
+정지조달의 부인과적 확장인 월경전증후군(PMS)·월경전불쾌장애(PMDD)에서도 다수의 근거가 확인된다. 코크란 체계적 고찰은 경전평 과립이 소요환보다 다소 우수할 가능성을 제시했으나 근거 수준이 낮음을 지적하였고[^149], 대조군 연구에서 TCM 기반 한약이 PMS의 신체·심리 증상(우울·불안·분노)을 유의하게 감소시켰으며[^150], 대만 전국 데이터베이스 분석에서 PMS에 가장 빈용된 처방이 가미소요산(加味逍遙散)임이 확인되었고[^151], 침·한약 병용이 PMS/PMDD 증상을 50% 이상 감소시켰다는 체계적 고찰[^152], 변증시치 기반 통합 의학적 접근을 정리한 문헌 고찰[^153]이 뒷받침한다.
+
+**③ 소화보조(消化補助) — 목극토(木克土)의 생리적 견제와 비위 운화 보조.** 간의 소설은 비위(脾胃)의 승청강탁을 보조하여 소화·흡수가 원활히 이루어지도록 돕는다("木疏土而脾滯以行"). 이 기전이 실조되면 간비불화(肝脾不和)·간위불화(肝胃不和)로 진행하여 설사·복통·식욕부진 등 소화기 증상이 나타난다(제5편 14절 참조). 설사형 과민성 대장 증후군(D-IBS, 간울비허형)에서 이 기전에 대한 인간 대상 근거가 특히 풍부하다. 다기관 무작위이중맹검 위약대조 임상시험 프로토콜(392명)[^125], 침 치료와 서양 약물(피나베리움)을 비교한 임상시험(70명)에서 소간건비(疏肝健脾) 침법이 증상 개선·재발률 감소에 더 우수했고[^126], 간울비허형 D-IBS 환자에서 침 치료가 Th1/Th2 면역 균형을 회복시켰다는 관찰연구[^127], 간울비허·비신양허·비허습성 등 변증별로 혈청 대사 패턴이 다르게 나타난다는 관찰연구(93명)[^128], 순기통사과립(順氣通瀉顆粒) 임상시험 프로토콜[^129], 창지수(腸積舒) 연질캡슐이 대조약보다 증상을 유의하게 개선했다는 무작위이중맹검 임상시험(104명)[^130], 통설안장탕(通瀉安腸湯)의 임상 기전을 단일세포 시퀀싱으로 규명한 임상시험(72명)[^131], 침+통설요방 병용이 약물 단독보다 증상·불안·우울을 개선했다는 임상시험(123명)[^132], 금쇄혈·팔괘혈 격격구 치료 임상시험(126명)[^133], 소간건비익기탕+곡립구 병용 임상시험(60명)[^134], 계소산(桂芍散) 배꼽뜸 무작위대조시험[^135]이 모두 "소설이 비위 운화를 보조한다"는 이론이 기능성 소화기질환 영역에서 반복 검증되고 있음을 보여준다.
+
+기능성 소화불량(functional dyspepsia)에서도 소간(疏肝) 요법을 포함한 통합적 침구 접근의 임상 경험이 정리되었고[^136], 실제 진료에서 한의사가 비위허약·간기울결·식적담음 등 변증을 감별하는 데 활용하는 임상 정보(복진·맥진·설진·대변 양상 등)를 분석한 관찰연구(69명)[^137]는 간기울결이 소화불량 임상 진단에서 실제로 활용되는 변증축임을 뒷받침한다.
+
+담즙 분비와의 관계에서는, 임신성 간내 담즙정체증(ICP) 환자에게 한약을 우르소데옥시콜산(UDCA)과 병용 투여하는 것이 가려움증·혈청 담즙산 완화 및 태아 합병증 감소에 보조적 효과가 있을 수 있음을 정리한 체계적 고찰(3,556명)이[^113] 간의 소설-담즙 배설 축에 대한 가장 직접적인 인간 대상 근거로, "간여담즙(肝與膽汁)" — 담즙이 간의 여기(餘氣)로 만들어진다는 원전 서술(제1편 2-4절)과 개념적으로 조응한다.
+
+**④ 혈진액운행보조(血津液運行補助) — 기행즉혈행(氣行則血行).** 소설이 원활해야 기가 순조롭게 운행하고, 기의 운행을 따라 혈·진액도 정체 없이 순환한다("氣爲血帥, 氣行則血行, 氣滯則血瘀"). 이 축의 근거는 앞선 4-3절에서 다룬 우울증 환자의 간경 사혈요법-혈액 유변학 개선 연구[^110], 도홍사물탕 계열의 어혈성 생리통 근거[^103][^104]와 공유된다. 즉 장혈(藏血)이 "혈을 저장하는" 정적(靜的) 축이라면, 소설(疏泄)은 "저장된 혈을 정체 없이 순환시키는" 동적(動的) 축으로, 두 기능이 겸섭되어야 비로소 혈이 정상적으로 순환·저장된다.
+
+#### 5-3. 간주소설 임상 근거 정리표
+
+| 임상 영역 | 병리축 | 대표 연구 | 근거 성격 |
+| --- | --- | --- | --- |
+| 자율신경 균형(HRV) | 소설-자율신경 축 | [^114][^115][^116][^117][^118][^119][^120] | 파일럿 RCT·실험연구·문헌 고찰 |
+| HPA축·스트레스 코르티솔 | 소설-신경내분비 축 | [^121][^122][^123] | 파일럿 RCT·관찰연구 |
+| 우울증·정지조달 | 간기울결→화화 | [^138][^139][^140][^141][^142][^143][^144][^145][^146][^147][^148] | 메타분석·임상시험·대사체학 |
+| PMS/PMDD | 간기울결형 정지실조 | [^112][^149][^150][^151][^152][^153] | 체계적 고찰·임상시험·관찰연구 |
+| D-IBS(간울비허) | 소설-비위운화 보조 실조 | [^125][^126][^127][^128][^129][^130][^131][^132][^133][^134][^135] | 임상시험·관찰연구 |
+| 기능성 소화불량 | 간기울결 겸협 | [^136][^137] | 증례 보고·관찰연구 |
+| 임신성 간내 담즙정체증 | 소설-담즙배설 축 | [^113] | 체계적 고찰 |
+| 어혈성 생리통(혈진액운행) | 소설 실조로 인한 혈어 | [^103][^104][^110] | 문헌 고찰·임상시험 |
+
+**이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.** D-IBS·기능성 소화불량·우울증·PMS는 각각 서양의학적으로 독립된 진단 범주이며, "모두 간기울결이니 동일하게 치료한다"는 접근은 근거에 부합하지 않는다. 변증 없는 관행적 소간(疏肝) 처방·취혈은 근거에 부합하지 않으며, 각 질환의 표준 진단·치료가 우선되어야 한다.
+
+**근거를 읽는 원칙**: 위 연구들은 우울증·PMS·D-IBS·기능성 소화불량·ICP라는 서로 다른 서양의학적 진단명을 다루지만, 공통적으로 "간기울결·간울비허"라는 한의학적 변증축을 명시하거나 소요산·소간건비 계열 처방·자율신경 지표를 매개로 삼는다는 점에서 간주소설 이론이 임상 연구에서 반복적으로 재현되는 변증 개념임을 보여준다. 간주소설의 KCD 질환군별 각론과 감별진단은 간주소설(肝主疏泄) 문서에서 더 심화된 수준으로 다룬다.
 
 ### 6. 장혈과 소설의 체용(體用) 관계
 
@@ -1016,3 +1076,56 @@
 [^98]: [Acupuncture combined with western medication for ocular myasthenia gravis: a randomized controlled trial]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-07-12. [임상시험, 60명] [DOI 10.13703/j.0255-2930.20210908-k0003](https://doi.org/10.13703/j.0255-2930.20210908-k0003) [PMID 35793884](https://pubmed.ncbi.nlm.nih.gov/35793884/) — 침 치료와 서양의학 병용이 안구형 중증근무력증에 미치는 효과를 평가한 무작위대조시험, 간개규어목-간주근 교차 영역의 직접 근거.
 [^99]: Acupuncture for ocular myasthenia gravis: A protocol for systematic review and meta-analysis. _Medicine_. 2020-04. [체계적 고찰] [DOI 10.1097/MD.0000000000019901](https://doi.org/10.1097/MD.0000000000019901) [PMID 32332667](https://pubmed.ncbi.nlm.nih.gov/32332667/) — 안구형 중증근무력증에 대한 침 치료 효과를 평가하는 체계적 고찰 프로토콜.
 [^100]: [Development of patient-reported outcome scale for myasthenia gravis: a psychometric test]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-02. [관찰연구, 200명] [PMID 20141733](https://pubmed.ncbi.nlm.nih.gov/20141733/) — 중증근무력증 환자보고성과척도의 개발과 심리계량학적 검증, 근위(筋痿) 평가 도구의 근거.
+[^101]: Herbal medicine (Danggui Shaoyao San) for treating primary dysmenorrhea: A systematic review and meta-analysis of randomized controlled trials. _Maturitas_. 2016-03. [메타분석] [DOI 10.1016/j.maturitas.2015.11.013](https://doi.org/10.1016/j.maturitas.2015.11.013) [PMID 26857875](https://pubmed.ncbi.nlm.nih.gov/26857875/) — 당귀작약산이 원발성 생리통에서 진통제·위약보다 우수한 효과를 보일 수 있음을 시사, 간장혈 실조(혈허·혈어)에 대한 대표적 방제 근거.
+[^102]: Herbal medicine (Danggui-Shaoyao-San) and Ear Acupoint Pressing Beans in the treatment of dysmenorrhea caused by endometriosis and adenomyosis: a study protocol randomized controlled trial. _Research Square (preprint)_. 2019-05-31. [임상시험] [DOI 10.21203/rs.2.9951/v1](https://doi.org/10.21203/rs.2.9951/v1) — 자궁내막증·자궁선근증으로 인한 중증 생리통에 당귀작약산과 이침 요법을 병행하는 임상시험 프로토콜, 어혈성 생리통에 대한 간장혈 이론 적용 근거.
+[^103]: [Siwu series decoctions for treating primary dysmenorrea of gynecology blood stasis syndrome--research progress of Taohong Siwu decoction]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2015-03. [문헌 고찰] [PMID 26087539](https://pubmed.ncbi.nlm.nih.gov/26087539/) — 어혈증 기반 원발성 생리통에 사용되는 도홍사물탕의 임상 효과·약리 기전을 정리, 사물탕 계열이 간장혈 이론의 대표 방제군임을 뒷받침.
+[^104]: [Immunoregulation of Youguiyin, Sijunzitang, Taohong Siwutang in treating patients with deficiency of kidney, spleen and blood stasis syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1999-12. [임상시험, 180명] [PMID 11783139](https://pubmed.ncbi.nlm.nih.gov/11783139/) — 신허·비허·혈어 증후군별 유귀음·사군자탕·도홍사물탕 감별 투여의 면역조절 효과, 변증 층화 투여의 근거.
+[^105]: Efficacy and safety of acupuncture on oligomenorrhea due to polycystic ovary syndrome: An international multicenter, pilot randomized controlled trial. _Medicine_. 2022-02-18. [임상시험, 60명] [DOI 10.1097/MD.0000000000028674](https://doi.org/10.1097/MD.0000000000028674) [PMID 35363161](https://pubmed.ncbi.nlm.nih.gov/35363161/) — PCOS로 인한 희발월경(간장혈 조절 실조)에 대한 침 치료 국제 다기관 파일럿 무작위대조시험.
+[^106]: Effects of Switching to Wen-Jing-Tang (Unkei-To) from Preceding Herbal Preparations Selected by Eight-Principle Pattern Identification on Endocrinological Status and Ovulatory Induction in Women with Polycystic Ovary Syndrome. _The American Journal of Chinese Medicine_. 2006-01. [임상시험, 64명] [DOI 10.1142/s0192415x06003746](https://doi.org/10.1142/s0192415x06003746) — 온경탕이 PCOS 환자의 LH 수치를 낮추고 배란율을 높임, 간장혈이 조절하는 월경주기와 HPO축 호르몬 지표의 연동 근거.
+[^107]: [Treatment of hypomenorrhea by acupoint catgut embedding]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2008-12. [임상시험] [PMID 19127916](https://pubmed.ncbi.nlm.nih.gov/19127916/) — 과소월경(간장혈 부족형)에 대한 매선요법의 단기 월경량 개선 효과.
+[^108]: Effect of Commiphora mukul (Hook. ex Stocks) Engl.-Based Herbal Product on Menorrhagia: A Pilot Randomized Triple-Blind Clinical Trial. _Traditional and Integrative Medicine_. 2025-07-06. [임상시험, 24명] [DOI 10.18502/tim.v10i2.19057](https://doi.org/10.18502/tim.v10i2.19057) — 월경과다(간장혈 통섭 실조)에 대한 구굴 기반 한약 제제의 파일럿 삼중맹검 임상시험, 메페남산과 유사한 출혈량·기간 감소 효과.
+[^109]: [Effect of the amount of portal blood stasis removal on endotoxemia and liver function after liver transplantation]. _Zhonghua wai ke za zhi [Chinese journal of surgery]_. 2008-08-01. [임상시험, 47명] [PMID 19094673](https://pubmed.ncbi.nlm.nih.gov/19094673/) — 간이식 시 문맥 정체혈 제거량이 내독소혈증·간기능 회복에 영향, 혈의 저류가 과도해지면 병리가 된다는 간장혈 이론의 병리축(간울혈어)에 대한 인간 자료.
+[^110]: [Observation on therapeutic effect of acupuncture of five Shu-points of the liver meridian combined with bloodletting for depression patients and concomitant changes of blood rheology]. _Zhen ci yan jiu = Acupuncture research_. 2012-04. [임상시험, 30명] [PMID 22764601](https://pubmed.ncbi.nlm.nih.gov/22764601/) — 간경 오수혈 침치료+대돈혈 사혈요법이 우울증 증상과 혈액 유변학적 지표를 함께 개선, 소설 울결이 혈행에 파급됨을 보여주는 근거.
+[^111]: Association Between Blood Transfusion for Postpartum Haemorrhage and the Risk of Premature Ovarian Failure: A Nationwide Population-Based Cohort Study. _BJOG : an international journal of obstetrics and gynaecology_. 2026-08-04. [관찰연구, 745125명] [DOI 10.1111/1471-0528.70308](https://doi.org/10.1111/1471-0528.70308) [PMID 42549981](https://pubmed.ncbi.nlm.nih.gov/42549981/) — 수혈이 필요한 중증 산후출혈 여성에서 조기 난소부전 위험이 용량-반응적으로 증가, 방지출혈 실조가 생식축까지 파급되는 임상적 중대성을 보여주는 대규모 코호트.
+[^112]: Study on urinary metabolomics of premenstrual dysphoric disorder patients with liver-qi depression syndrome treated with Xiaoyaosan: Study Protocol Clinical Trial (SPIRIT Compliant). _Medicine_. 2020-04. [임상시험, 60명] [DOI 10.1097/MD.0000000000019425](https://doi.org/10.1097/MD.0000000000019425) [PMID 32311921](https://pubmed.ncbi.nlm.nih.gov/32311921/) — 간기울결형 PMDD에 소요산을 투여하며 요중 대사체 변화를 추적하는 프로토콜, 장혈-소설 두 기능이 월경축에서 함께 조절됨을 보여주는 사례.
+[^113]: Oral herbal medicine for women with intrahepatic cholestasis in pregnancy: a systematic review of randomized controlled trials. _BMC complementary medicine and therapies_. 2020-10-07. [체계적 고찰, 3556명] [DOI 10.1186/s12906-020-03097-x](https://doi.org/10.1186/s12906-020-03097-x) [PMID 33028282](https://pubmed.ncbi.nlm.nih.gov/33028282/) — 임신성 간내 담즙정체증에서 한약+UDCA 병용이 가려움증·혈청 담즙산·주산기 합병증을 개선, 간의 소설-담즙배설 축에 대한 가장 직접적인 인간 대상 근거.
+[^114]: Acupuncture and Moxibustion have Different Effects on Fatigue by Regulating the Autonomic Nervous System: A Pilot Controlled Clinical Trial. _Scientific Reports_. 2016-11-25. [임상시험, 45명] [DOI 10.1038/srep37846](https://doi.org/10.1038/srep37846) — 만성피로증후군 환자에서 침·뜸 치료가 자율신경 기능을 조절, 소설-자율신경 축의 인간 대상 근거.
+[^115]: Evaluation of Autonomic Nervous System Function Using Heart Rate Variability Analysis During Transient Heart Rate Reduction Caused by Acupuncture. _Medical acupuncture_. 2018-04-01. [실험연구, 25명] [DOI 10.1089/acu.2017.1266](https://doi.org/10.1089/acu.2017.1266) [PMID 29682149](https://pubmed.ncbi.nlm.nih.gov/29682149/) — 수삼리(LI10) 자침이 심박수를 낮추고 부교감 활동을 높여 교감-부교감 균형을 조절.
+[^116]: Heart Rate and Autonomic Nervous System Activity Relationship During Acupuncture Associated with Postural Change and Effect on Menopausal Symptoms: A Prospective Randomized Trial. _Medical Acupuncture_. 2022-10. [임상시험, 48명] [DOI 10.1089/acu.2022.0004](https://doi.org/10.1089/acu.2022.0004) — 침 치료의 자입·발침 과정이 심박수와 자율신경 기능을 조절해 갱년기 증상을 완화할 가능성을 시사.
+[^117]: [Application of heart rate variability in acupuncture research]. _Zhen ci yan jiu = Acupuncture research_. 2019-03-25. [문헌 고찰] [DOI 10.13702/j.1000-0607.180502](https://doi.org/10.13702/j.1000-0607.180502) [PMID 30945508](https://pubmed.ncbi.nlm.nih.gov/30945508/) — 심박변이도(HRV)가 침 치료의 자율신경 효과를 평가하는 객관적 지표로 활용될 수 있음을 정리.
+[^118]: Effects of acupuncture and moxibustion on heart rate variability in chronic fatigue syndrome patients: Regulating the autonomic nervous system in a clinical randomized controlled trial. _Complementary therapies in medicine_. 2025-09. [임상시험, 210명] [DOI 10.1016/j.ctim.2025.103184](https://doi.org/10.1016/j.ctim.2025.103184) [PMID 40315935](https://pubmed.ncbi.nlm.nih.gov/40315935/) — 족삼리·관원 병용 침구가 만성피로증후군 환자의 HRV·피로 증상을 개선, 단일 혈위보다 병용이 효과적.
+[^119]: Regulation of autonomic nervous system by acupuncture: a heart rate variability study on physical stress. _Frontiers in human neuroscience_. 2025. [임상시험, 35명] [DOI 10.3389/fnhum.2025.1676863](https://doi.org/10.3389/fnhum.2025.1676863) [PMID 41307072](https://pubmed.ncbi.nlm.nih.gov/41307072/) — 족삼리·중완 침 치료가 신체 스트레스에서 HRV 지표를 개선하고 스트레스 지수를 낮춤.
+[^120]: Effect of acupuncture combined with auricular beanembedding on autonomic nervous system function, heart rate variability and mental state of migraine patients. _American journal of translational research_. 2024. [관찰연구, 60명] [DOI 10.62347/MJPK6664](https://doi.org/10.62347/MJPK6664) [PMID 39544727](https://pubmed.ncbi.nlm.nih.gov/39544727/) — 침+이침 압박법 병용이 편두통 환자의 자율신경 균형과 불안 증상을 함께 개선.
+[^121]: Effects of Acupuncture on Autonomic Nervous System Parameters and Salivary Cortisol Level Among Mental Stress University Students: A Pilot Randomized Controlled Trial. _Journal of Current Science and Technology_. 2024-05-02. [임상시험, 28명] [DOI 10.59796/jcst.v14n2.2024.25](https://doi.org/10.59796/jcst.v14n2.2024.25) — 정신적 스트레스를 겪는 대학생에서 족삼리 침 치료가 혈압·심박수를 유의하게 낮춤, 소설-HPA축 연동의 근거.
+[^122]: Is the diurnal profile of salivary cortisol concentration a useful marker for measuring reported stress in acupuncture research? A randomized controlled pilot study. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2012-03. [임상시험, 18명] [DOI 10.1089/acm.2010.0325](https://doi.org/10.1089/acm.2010.0325) [PMID 22385023](https://pubmed.ncbi.nlm.nih.gov/22385023/) — 침 치료가 타액 코르티솔 일주기 리듬(기상 후 코르티솔 반응 포함)을 정상화할 가능성.
+[^123]: [Multivariate quantification of acupuncture and moxibustion treatment in combination with questionnaire and salivary stress markers]. _Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan_. 2014. [관찰연구] [DOI 10.1248/yakushi.13-00240](https://doi.org/10.1248/yakushi.13-00240) [PMID 24790049](https://pubmed.ncbi.nlm.nih.gov/24790049/) — 침·뜸 치료 후 통증·스트레스 완화를 타액 생체지표(아밀라아제·s-IgA)로 정량화.
+[^125]: Efficacy and safety of Chinese medicine JCM-16021 for diarrhea-predominant irritable bowel syndrome: study protocol for a multi-center, randomized, double-blind, placebo controlled clinical trial. _Chinese medicine_. 2021-11-13. [임상시험, 392명] [DOI 10.1186/s13020-021-00530-2](https://doi.org/10.1186/s13020-021-00530-2) [PMID 34774080](https://pubmed.ncbi.nlm.nih.gov/34774080/) — 간울비허형 설사형 과민성 장 증후군에 대한 다기관 무작위이중맹검 위약대조 임상시험 프로토콜.
+[^126]: [Comparative observation on therapeutic effects between acupuncture and western medication for diarrhea-predominant irritable bowel syndrome]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-08. [임상시험, 70명] [PMID 23072079](https://pubmed.ncbi.nlm.nih.gov/23072079/) — 소간건비(疏肝健脾) 침법이 피나베리움보다 D-IBS 증상 개선·재발률 감소에 더 우수.
+[^127]: [Clinical observation on acupuncture for diarrhea-predominant irritable bowel syndrome patients in syndrome of liver-stagnation and spleen-deficiency and its impact on Th1/Th2]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-12. [임상시험, 40명] [PMID 24617225](https://pubmed.ncbi.nlm.nih.gov/24617225/) — 간울비허형 D-IBS 환자에서 침 치료가 Th1/Th2 면역 균형을 회복.
+[^128]: Serum metabolic profiling of traditional Chinese medicine syndromes in patients with diarrhea-predominant irritable bowel syndrome. _Journal of integrative medicine_. 2021-05. [관찰연구, 93명] [DOI 10.1016/j.joim.2021.03.002](https://doi.org/10.1016/j.joim.2021.03.002) [PMID 33775600](https://pubmed.ncbi.nlm.nih.gov/33775600/) — 간울비허·비신양허·비허습성 변증별 혈청 대사 패턴 차이, 변증의 생물학적 실체성에 대한 근거.
+[^129]: Traditional Chinese medicine (Shun-Qi-Tong-Xie Granule) for irritable bowel syndrome: study protocol for a randomised controlled trial. _Trials_. 2014-07-07. [임상시험] [DOI 10.1186/1745-6215-15-273](https://doi.org/10.1186/1745-6215-15-273) [PMID 25002196](https://pubmed.ncbi.nlm.nih.gov/25002196/) — 간비불화(肝脾不和)를 조절하는 순기통사과립의 IBS 치료 유효성·안전성 평가 프로토콜.
+[^130]: [Effects of Changjishu soft elastic capsule in treatment of diarrhea-predominant irritable bowel patients with liver-qi stagnation and spleen deficiency syndrome: a randomized double-blinded controlled trial]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2009-03. [임상시험, 104명] [DOI 10.3736/jcim20090303](https://doi.org/10.3736/jcim20090303) [PMID 19284948](https://pubmed.ncbi.nlm.nih.gov/19284948/) — 간기울결·비기허형 D-IBS에서 창지수 연질캡슐이 대조약보다 복통·배변 횟수·대변 양상을 유의하게 개선.
+[^131]: Study on the clinical mechanism of Tong-Xie-An-Chang Decoction in the treatment of diarrheal irritable bowel syndrome based on single-cell sequencing technology. _Medicine_. 2020-12-24. [임상시험, 72명] [DOI 10.1097/MD.0000000000023868](https://doi.org/10.1097/MD.0000000000023868) [PMID 33350782](https://pubmed.ncbi.nlm.nih.gov/33350782/) — 간울비허형 D-IBS에 통설안장탕을 투여하고 단일세포 시퀀싱으로 면역학적 기전을 규명.
+[^132]: [Efficacy and mechanism of acupuncture combined with Tongxieyaofang for diarrhea-type irritable bowel syndrome of liver depression and spleen deficiency]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-06-12. [임상시험, 123명] [DOI 10.13703/j.0255-2930.20190818-k0004](https://doi.org/10.13703/j.0255-2930.20190818-k0004) [PMID 32538010](https://pubmed.ncbi.nlm.nih.gov/32538010/) — 침+통설요방 병용이 약물 단독보다 D-IBS 증상·불안·우울을 함께 개선.
+[^133]: [Therapeutic effect of herb-separated moxibustion at Jinsuo (GV 8)-eight-diagram points on diarrhea-type irritable bowel syndrome of liver stagnation and spleen deficiency]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-07-12. [임상시험, 126명] [DOI 10.13703/j.0255-2930.20190621-k0007](https://doi.org/10.13703/j.0255-2930.20190621-k0007) [PMID 32648391](https://pubmed.ncbi.nlm.nih.gov/32648391/) — 금쇄혈·팔괘혈 격격구 치료가 D-IBS의 위장관 증상·삶의 질을 개선.
+[^134]: Clinical Study on Treating Diarrhea-Predominant IBS with Liver Depression and Spleen Deficiency Using Shu Gan Jian Pi Yi Qi Prescription and Grain-Sized Moxibustion. _Journal of Clinical and Nursing Research_. 2025-03-06. [임상시험, 60명] [DOI 10.26689/jcnr.v9i2.9774](https://doi.org/10.26689/jcnr.v9i2.9774) — 소간건비익기탕+곡립구 병용이 양방 단독보다 D-IBS 증상·삶의 질을 개선.
+[^135]: Gui-Shao San Umbilical Moxibustion for Diarrhea-Predominant Irritable Bowel Syndrome With Liver Depression and Spleen Deficiency Pattern: A Randomized Controlled Trial. _Gastroenterology research and practice_. 2026. [임상시험] [DOI 10.1155/grp/1832176](https://doi.org/10.1155/grp/1832176) [PMID 42157997](https://pubmed.ncbi.nlm.nih.gov/42157997/) — 계소산 배꼽뜸이 서양의학 단독보다 D-IBS 증상·불안·우울·삶의 질을 개선.
+[^136]: [Brief analysis of professor YAN Jie's academic thought on functional dyspepsia treated with acupuncture and moxibustion]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-01. [증례 보고, 1명] [PMID 26946745](https://pubmed.ncbi.nlm.nih.gov/26946745/) — 기능성 소화불량에 정기 강화+소간(疏肝) 요법+심리 상담을 결합한 통합적 접근의 임상 경험.
+[^137]: Analysis of diagnostic decision in acupuncture from the actual functional dyspepsia patient's clinical information. _Integrative medicine research_. 2020-12. [관찰연구, 69명] [DOI 10.1016/j.imr.2020.100419](https://doi.org/10.1016/j.imr.2020.100419) [PMID 32455110](https://pubmed.ncbi.nlm.nih.gov/32455110/) — 기능성 소화불량 진단에서 한의사가 비위허약·간기울결·식적담음 등 변증을 감별해 활용.
+[^138]: Observation on the Clinical Efficacy of Danzhi Xiaoyao San Combined with Traditional Chinese Medicine Qigong in Treating Depression Caused by Liver Stagnation and Qi Stagnation. _Practical Medical Research_. 2024-08-13. [임상시험, 30명] [DOI 10.18686/pmr.v2i2.4456](https://doi.org/10.18686/pmr.v2i2.4456) — 단치소요산+기공 병용이 간울기체형 우울증에 미치는 임상 효과를 관찰.
+[^139]: Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis. _Frontiers in Pharmacology_. 2024-04-03. [메타분석, 8923명] [DOI 10.3389/fphar.2024.1295564](https://doi.org/10.3389/fphar.2024.1295564) — 8,923명 규모의 한약 치료 우울증 네트워크 메타분석, 소요산 계열 처방의 상대적 위치를 포함.
+[^140]: Efficacy and Safety of Xiaoyao Recipe in the Treatment of Poststroke Depression: A Systematic Review and Meta-Analysis. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 882명] [DOI 10.1155/2022/4385783](https://doi.org/10.1155/2022/4385783) [PMID 35463080](https://pubmed.ncbi.nlm.nih.gov/35463080/) — 뇌졸중 후 우울증에서 소요방 계열 처방의 유효성·안전성을 정리한 체계적 고찰·메타분석.
+[^141]: [Clinical study on effect of fluoxetine combined with Chinese medicine or tibetan drugs in treating senile depression in plateau district]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-03. [임상시험, 90명] [PMID 16613260](https://pubmed.ncbi.nlm.nih.gov/16613260/) — 고산지대 노인 우울증에서 플루옥세틴+중약/티베트약 병용의 임상 효과.
+[^142]: Meta-analysis of Chinese herbal Xiaoyao formula as an adjuvant treatment in relieving depression in Chinese patients. _Complementary therapies in medicine_. 2014-04. [메타분석, 735명] [DOI 10.1016/j.ctim.2014.02.001](https://doi.org/10.1016/j.ctim.2014.02.001) [PMID 24731909](https://pubmed.ncbi.nlm.nih.gov/24731909/) — 항우울제+소요산 병용이 항우울제 단독보다 HAMD 점수를 유의하게 개선.
+[^143]: Efficacy and Safety of Xiaoyao Formula as an Adjuvant Treatment for Post-Stroke Depression: A Meta-Analysis. _Explore (New York, N.Y.)_. [메타분석, 607명] [DOI 10.1016/j.explore.2017.12.007](https://doi.org/10.1016/j.explore.2017.12.007) [PMID 29628336](https://pubmed.ncbi.nlm.nih.gov/29628336/) — 뇌졸중 후 우울증에서 소요산 병용이 항우울제 단독보다 증상 완화·반응률에서 우수.
+[^144]: Canonical Chinese medicine formula Danzhi-Xiaoyao-San for treating depression: A systematic review and meta-analysis. _Journal of ethnopharmacology_. 2022-04-06. [메타분석] [DOI 10.1016/j.jep.2021.114960](https://doi.org/10.1016/j.jep.2021.114960) [PMID 34968660](https://pubmed.ncbi.nlm.nih.gov/34968660/) — 단치소요산이 항우울제와 임상 종합 효과·SDS 점수에서 유사한 효과.
+[^145]: Dynamic analysis of the endogenous metabolites in depressed patients treated with TCM formula Xiaoyaosan using urinary (1)H NMR-based metabolomics. _Journal of ethnopharmacology_. 2014-12-02. [임상시험, 21명] [DOI 10.1016/j.jep.2014.10.005](https://doi.org/10.1016/j.jep.2014.10.005) [PMID 25448502](https://pubmed.ncbi.nlm.nih.gov/25448502/) — 소요산이 우울증 환자의 HAMD 점수 및 요중 에너지·트립토판·타우린 대사 지표를 함께 개선.
+[^146]: A GC-MS urinary quantitative metabolomics analysis in depressed patients treated with TCM formula of Xiaoyaosan. _Journal of chromatography. B, Analytical technologies in the biomedical and life sciences_. 2016-07-15. [관찰연구, 58명] [DOI 10.1016/j.jchromb.2015.12.026](https://doi.org/10.1016/j.jchromb.2015.12.026) [PMID 26733091](https://pubmed.ncbi.nlm.nih.gov/26733091/) — 소요산 투여 후 요중 아미노산·유기산 대사체(알라닌·시트르산·히푸르산 등)의 변화를 관찰.
+[^147]: Plasma-metabolite-biomarkers for the therapeutic response in depressed patients by the traditional Chinese medicine formula Xiaoyaosan: A (1)H NMR-based metabolomics approach. _Journal of affective disorders_. 2015-10-01. [관찰연구, 32명] [DOI 10.1016/j.jad.2015.05.005](https://doi.org/10.1016/j.jad.2015.05.005) [PMID 26186531](https://pubmed.ncbi.nlm.nih.gov/26186531/) — 소요산 투여 후 혈장 대사체(알라닌·콜린·글루타민 등)가 정상 수준으로 회복.
+[^148]: Traditional Chinese Medicine Ameliorates Depression via the Gut-Brain Axis: A Review Focus on NLRP3/TLR4-Mediated Inflammatory Pathways and Gut Microbiota Modulation. _Neuropsychiatric disease and treatment_. 2026. [체계적 고찰] [DOI 10.2147/NDT.S579710](https://doi.org/10.2147/NDT.S579710) [PMID 41858422](https://pubmed.ncbi.nlm.nih.gov/41858422/) — 장내 미생물 조절과 NLRP3/TLR4 염증 경로 억제를 통한 장-뇌 축 회복이 한의학적 항우울 기전의 한 축으로 제시됨.
+[^149]: Chinese herbal medicine for premenstrual syndrome. _The Cochrane database of systematic reviews_. 2009-01-21. [체계적 고찰, 549명] [DOI 10.1002/14651858.CD006414.pub2](https://doi.org/10.1002/14651858.CD006414.pub2) [PMID 19160284](https://pubmed.ncbi.nlm.nih.gov/19160284/) — 경전평 과립이 소요환보다 PMS 개선에 다소 우수할 가능성이 있으나 근거 수준이 낮음을 지적한 코크란 체계적 고찰.
+[^150]: A controlled trial of Chinese herbal medicine for premenstrual syndrome. _Journal of psychosomatic obstetrics and gynaecology_. 2008-09. [임상시험, 61명] [DOI 10.1080/01674820801893011](https://doi.org/10.1080/01674820801893011) [PMID 18608825](https://pubmed.ncbi.nlm.nih.gov/18608825/) — TCM 기반 한약이 PMS의 신체·심리 증상(우울·불안·분노)을 유의하게 감소.
+[^151]: Identifying Chinese herbal medicine for premenstrual syndrome: implications from a nationwide database. _BMC complementary and alternative medicine_. 2014-06-27. [관찰연구, 14312명] [DOI 10.1186/1472-6882-14-206](https://doi.org/10.1186/1472-6882-14-206) [PMID 24969368](https://pubmed.ncbi.nlm.nih.gov/24969368/) — 대만 국가 건강보험 데이터에서 PMS 치료에 가장 빈용된 처방이 가미소요산임을 확인.
+[^152]: Effects and treatment methods of acupuncture and herbal medicine for premenstrual syndrome/premenstrual dysphoric disorder: systematic review. _BMC complementary and alternative medicine_. 2014-01-10. [체계적 고찰] [DOI 10.1186/1472-6882-14-11](https://doi.org/10.1186/1472-6882-14-11) [PMID 24410911](https://pubmed.ncbi.nlm.nih.gov/24410911/) — 침+한약 병용이 PMS/PMDD 증상을 50% 이상 유의하게 감소, 안전한 치료 옵션임을 확인.
+[^153]: Integrative Management of Premenstrual Dysphoric Disorder: The Role of Traditional Chinese Medicine. _Depression and anxiety_. 2026. [문헌 고찰] [DOI 10.1155/da/1262387](https://doi.org/10.1155/da/1262387) [PMID 42433722](https://pubmed.ncbi.nlm.nih.gov/42433722/) — PMDD 치료에서 변증시치 기반 통합 의학적 접근의 장점을 정리.
+[^155]: Iron in liver diseases other than hemochromatosis. _Seminars in liver disease_. 1996-02. [문헌 고찰] [DOI 10.1055/s-2007-1007220](https://doi.org/10.1055/s-2007-1007220) [PMID 8723325](https://pubmed.ncbi.nlm.nih.gov/8723325/) — 간 내 철 대사 이상이 다른 간독성 요인과 결합 시 간손상·섬유화 위험을 높임, 간이 철(혈) 저장의 핵심 장기라는 현대적 사실이 간장혈 이론과 개념적으로 조응.
