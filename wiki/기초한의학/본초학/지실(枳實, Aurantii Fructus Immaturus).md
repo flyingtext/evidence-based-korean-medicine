@@ -27,6 +27,11 @@
 - 지실(광귤나무) 캡슐은 산후 불안·산욕기 우울(blues) 증상 개선에 유효한 무작위 삼중맹검 임상시험 근거가 있다.[^12]
 - 지실(광귤나무) 아로마테라피 흡입은 항암 화학요법 유발 오심·구토 완화에 유효한 무작위 대조 임상시험 근거가 있다.[^5]
 - 지실(광귤나무)은 체중 감량 보조제로 연구되었으나, 안전성·효과에 대한 체계적 고찰은 신중한 해석을 요구한다.[^15]
+- 지실을 포함한 녕신방(女貞子·桑椹·滿天星·丹參·續斷·香附子·枳實)은 폐경기 경도인지장애 환자 80명 임상시험에서 병용 투여 시 니모디핀 단독 대비 인지기능(MoCA)·일상생활능력(ADL)이 유의하게 개선되고 염증지표(hs-CRP, Hcy, IL-1β)가 더 크게 감소했다.[^16]
+- 간위불화증(肝胃不和證) 기능성 소화불량 1,153명을 포함한 메타분석에서 지실이 배합된 전통의학 처방군이 위장관 운동 촉진제 단독군보다 유효율(OR 3.2)·완치율(Peto OR 2.26) 모두 유의하게 높았다.[^17]
+- 지실해백계지탕(지실사백계지탕)은 좌심실 박출률 감소 심부전에 변이형 협심증이 동반된 환자 증례에서 익기설폐탕과 병용 시 심기능 개선·흉통 재발 방지가 관찰되었다.[^18]
+- 만성 담낭염(간담기체형) 임상 처방 데이터마이닝 연구는 시호소간산·소시호탕·사역산을 기본방으로 하되 지실을 가감하는 처방 패턴이 반복됨을 확인했다.[^19]
+- 동종 조혈모세포 이식 후 소아의 후기 위장관 합병증 관찰연구(167명)에서 명치 경결을 동반한 상부 위장관 증상 환자 2명이 지실 기반 처방에 반응했고, 뚜렷한 부작용은 보고되지 않았다.[^20]
 
 ## 임상 적용
 
@@ -67,3 +72,8 @@
 [^10]: Herbal medicine (zhishi xiebai guizhi decoction) for unstable angina. 체계적 고찰. DOI: [10.1097/md.0000000000013965](https://doi.org/10.1097/md.0000000000013965).
 [^12]: Effect of Citrus aurantium capsules on peripartum anxiety and postpartum blues: a randomized triple-blind clinical trial. 임상시험. DOI: [10.1186/s12906-026-05437-9](https://doi.org/10.1186/s12906-026-05437-9). PMID: [42332631](https://pubmed.ncbi.nlm.nih.gov/42332631/).
 [^15]: Safety and efficacy of citrus aurantium for weight loss. 체계적 고찰. DOI: [10.1016/j.amjcard.2004.07.137](https://doi.org/10.1016/j.amjcard.2004.07.137). PMID: [15541270](https://pubmed.ncbi.nlm.nih.gov/15541270/).
+[^16]: Exploration on the Improvement of Cognitive Function and Inflammatory Response in Perimenopausal Patients with Mild Cognitive Impairment by Self-Prepared Ningshen Prescription. _Evidence-Based Complementary and Alternative Medicine_. 2022. [임상시험] [DOI 10.1155/2022/4311031](https://doi.org/10.1155/2022/4311031) [PMID 35692575](https://pubmed.ncbi.nlm.nih.gov/35692575/) — 지실이 배합된 녕신방이 폐경기 경도인지장애의 인지기능·염증지표를 개선. 지실의 이기화담 작용이 보신활혈안신 처방의 일부로 활용된 사례.
+[^17]: Meta-analysis of traditional Chinese medicine in treating functional dyspepsia of liver-stomach disharmony syndrome. _Journal of Traditional Chinese Medicine_. 2012-12. [메타분석] [DOI 10.1016/s0254-6272(13)60063-1](https://doi.org/10.1016/s0254-6272(13)60063-1) [PMID 23427381](https://pubmed.ncbi.nlm.nih.gov/23427381/) — 지실 배합 처방군이 위장관 운동 촉진제보다 기능성 소화불량에 유효. 다만 개별 연구의 방법론적 질이 낮아 신중한 해석 필요.
+[^18]: Integrated Traditional Chinese and Western Medicine in the Treatment of Heart Failure With Reduced Ejection Fraction Combined With Variant Angina: A Case Report. _International Journal of Clinical Medicine and Pharmacology_. 2025-02-28. [증례 보고] [DOI 10.70731/625k6788](https://doi.org/10.70731/625k6788) — 지실해백계지탕 병용이 좌심실 박출률 감소 심부전+변이형 협심증 증례에서 심기능 개선과 연관. 단일 증례로 일반화에는 신중해야 함.
+[^19]: Analysis of the Medication Rules of Chief Physician Tang Yuanshan in the Treatment of Chronic Cholecystitis and Hepatobiliary Qi Stagnation based on Data Mining Technology. _Journal of Contemporary Medical Practice_. 2026-01-29. [관찰연구] [DOI 10.53469/jcmp.2026.08(01).01](https://doi.org/10.53469/jcmp.2026.08(01).01) — 간담기체형 만성 담낭염에서 지실 가감 처방 패턴이 임상 데이터마이닝으로 반복 확인됨.
+[^20]: Late gastroenterological complications in children after allogeneic hematopoietic stem cell transplantation: A retrospective cohort study and a case series of children treated with Kampo medicines. _Traditional & Kampo Medicine_. 2023-11-20. [관찰연구] [DOI 10.1002/tkm2.1392](https://doi.org/10.1002/tkm2.1392) — 소아 조혈모세포이식 후 위장관 합병증에서 지실 기반 처방이 상부 위장관 경결 증상에 반응. 인간 데이터 한정, 부작용 미보고.

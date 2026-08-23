@@ -42,6 +42,16 @@
 - 곽향정기산 계열 처방은 특발성 저신장 소아의 한약 치료에 적용되었다(관찰연구).[^6]
 - 곽향정기산 계열 처방은 변이형 협심증·천식 환자의 한의학 치료에 적용되었다(증례).[^5]
 - 곽향정기산 계열 처방은 비결핵성 마이코박테리아(NTM) 항결핵제 부작용 관리에 적용되었다(증례).[^13]
+- 급성 허혈성 뇌졸중 환자 155명 임상시험에서 재개통 요법과 함께 곽향정기환을 투여한 군은 조기 신경학적 악화(END) 위험이 유의하게 낮았다.[^16]
+- 아토피피부염-설사형 과민성장증후군의 공통 습증(濕證) 패턴 검증을 위한 대규모 마스터 프로토콜(1,000명 목표)이 곽향정기산의 변증 중심 치료 모델을 시험하도록 설계되었다.[^17]
+- COVID-19를 한습(寒濕) 역병으로 해석하는 이론적 틀에서 곽향정기산 계열 처방이 단계별(경증~회복기) 맞춤 치료로 제시되었다.[^18]
+- 비장습열형 소아 수족구병 증례에서 곽향 계열 방향화습약을 배합한 혈위 첩부 요법이 증상 개선에 유효했다.[^19]
+- 초기 SARS 환자 22명에서 시호적환과 향소정기적환(곽향정기 계열) 병용이 폐 손상·중성구 염증반응을 완화하고 스테로이드 필요 용량을 줄였다.[^20]
+- 지역사회 22,065명 대상 대규모 전향적 연구에서 곽향정기액+금효지열과립 병용이 호흡기질환 발생률을 유의하게 낮췄다(전체 보호율 91.8%, 16-60세에서 더 효과적).[^21]
+- 급성 위장염에 대한 메타분석(4,153명)에서 곽향정기환+양약 병용이 양약 단독보다 유효율이 높고 발열 완화가 빨랐으며 이상반응 증가는 없었다.[^22]
+- 위장관형 감기에 대한 메타분석(680명)에서 곽향정기산이 오한·발열·설사 완화에 유효했고 심각한 부작용은 보고되지 않았다.[^23]
+- 만성 두드러기 환자 30명 후향적 증례 시리즈에서 곽향정기산 투여 후 두드러기 활동성 점수(UAS)가 유의하게 감소하고 항히스타민제 중단 비율이 높았다.[^24]
+- 설사형 과민성장증후군 53명 이중맹검 RCT에서 곽향정기산+프로바이오틱스 병용이 증상을 완화하고 유익균 수치를 시너지 효과로 증가시켰다.[^25]
 
 ## 임상 적용
 
@@ -104,3 +114,13 @@
 [^13]: A Case Report on Managing the Side Effects of Anti-tuberculosis Drugs for Nontuberculous Mucobacteriosis (NTM) by Concurrently using Traditional Korean Medicine and Antibiotics. 증례. DOI: [10.22246/jikm.2021.42.5.1148](https://doi.org/10.22246/jikm.2021.42.5.1148). NTM 항결핵제 부작용.
 [^14]: Effect of herbal extract granules combined with probiotic mixture on irritable bowel syndrome with diarrhea: study protocol for a randomized controlled trial. 임상시험. DOI: [10.1186/1745-6215-12-219](https://doi.org/10.1186/1745-6215-12-219) · PMID: [21978382](https://pubmed.ncbi.nlm.nih.gov/21978382/). IBS-D 한약·프로바이오틱스.
 [^15]: Effect of modified huopo xialing decoction in treating pi-wei dampness-heat syndrome and its impact on the tongue epithelial cell apoptosis. 임상시험. PMID: [21425567](https://pubmed.ncbi.nlm.nih.gov/21425567/). 비위습열, 설태 상피세포.
+[^16]: Effect of Huoxiang Zhengqi Pill on Early Neurological Deterioration in Patients with Acute Ischemic Stroke Undergoing Recanalization Therapy and Predictive Effect of Essen Score. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [임상시험] [DOI 10.1155/2020/6912015](https://doi.org/10.1155/2020/6912015) — 곽향정기환 병용이 재개통 요법 후 급성 허혈성 뇌졸중의 조기 신경학적 악화 위험을 유의하게 낮춤. 방향화습약의 신경보호 응용 근거.
+[^17]: Chinese Herbal Formula Huoxiang Zhengqi for Dampness Pattern in Atopic Dermatitis and Diarrhea-Predominant Irritable Bowel Syndrome: Rationale and Design of a Master Protocol. _Evidence-Based Complementary and Alternative Medicine_. 2021-10-04. [임상시험] [DOI 10.1155/2021/5125568](https://doi.org/10.1155/2021/5125568) — 서로 다른 질환(AD·IBS-D)이 공유하는 습증(濕證) 패턴에 곽향정기산을 적용하는 변증 중심 마스터 프로토콜(목표 1,000명). 질환명이 아닌 변증 기반 임상시험 설계의 대표 사례.
+[^18]: Understanding COVID-19 in Wuhan From the Perspective of Cold-Dampness: Clinical Evidences and Mechanisms. _Frontiers in Medicine_. 2021-02-22. [문헌 고찰] [DOI 10.3389/fmed.2021.617659](https://doi.org/10.3389/fmed.2021.617659) — COVID-19를 한습역병으로 해석하며 단계별 한약 처방(곽향정기산 계열 포함) 적용 근거를 정리.
+[^19]: Treatment of One Case of Pediatric Hand-Foot-Mouth Disease with Spleen Dampness-Heat Syndrome Using Acupoint Application Therapy to Disperse Dampness, Expel Heat, and Unblock the Fu Organs. _Journal of Clinical and Nursing Research_. 2025-04-28. [증례 보고] [DOI 10.26689/jcnr.v9i4.10223](https://doi.org/10.26689/jcnr.v9i4.10223) — 비장습열형 소아 수족구병에서 방향화습 계열 혈위 첩부 요법이 증상 개선에 기여.
+[^20]: [Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill]. _Chinese Journal of Integrated Traditional and Western Medicine_. 2004-04. [임상시험] [PMID 15143718](https://pubmed.ncbi.nlm.nih.gov/15143718/) — 초기 SARS 22명에서 향소정기적환(곽향정기 계열) 병용이 폐손상·염증반응 완화, 스테로이드 감량에 기여. 중증 호흡기감염 보조치료 근거.
+[^21]: [Large-scale prospective clinical study on prophylactic intervention of COVID-19 in community population using Huoxiang Zhengqi Oral Liquid and Jinhao Jiere Granules]. _China Journal of Chinese Materia Medica_. 2020-07. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20200430.501](https://doi.org/10.19540/j.cnki.cjcmm.20200430.501) [PMID 32726003](https://pubmed.ncbi.nlm.nih.gov/32726003/) — 지역사회 22,065명 대상 대규모 전향적 연구에서 곽향정기액 병용이 호흡기질환 발생률을 91.8% 낮춤. 예방적 응용의 대규모 인체 근거.
+[^22]: [Systematic review and Meta-analysis of Huoxiang Zhengqi Pills combined with Western medicine for acute gastroenteritis]. _China Journal of Chinese Materia Medica_. 2019-07. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20190513.502](https://doi.org/10.19540/j.cnki.cjcmm.20190513.502) [PMID 31602833](https://pubmed.ncbi.nlm.nih.gov/31602833/) — 급성 위장염 4,153명 메타분석에서 곽향정기환 병용이 양약 단독보다 유효율·발열 완화 우수, 이상반응 증가 없음. 개별 연구 질은 낮아 추가 검증 필요.
+[^23]: [Huoxiang Zhengqi formulas for treatment of gastrointestinal type cold: a systematic review and Meta-analysis]. _China Journal of Chinese Materia Medica_. 2017-04. [메타분석] [DOI 10.19540/j.cnki.cjcmm.2017.0047](https://doi.org/10.19540/j.cnki.cjcmm.2017.0047) [PMID 29071852](https://pubmed.ncbi.nlm.nih.gov/29071852/) — 위장관형 감기 680명 메타분석에서 곽향정기산이 오한·발열·설사에 유효, 중대한 부작용 없음.
+[^24]: Retrospective case series on Gwakhyangjeonggi-san prescribed to patients with chronic urticaria. _Complementary Therapies in Medicine_. 2015-12. [증례 보고] [DOI 10.1016/j.ctim.2015.09.006](https://doi.org/10.1016/j.ctim.2015.09.006) [PMID 26645520](https://pubmed.ncbi.nlm.nih.gov/26645520/) — 만성 두드러기 30명에서 곽향정기산 투여 후 UAS 유의 감소, 항히스타민제 중단 비율 상승.
+[^25]: Effect of Korean herbal medicine combined with a probiotic mixture on diarrhea-dominant irritable bowel syndrome: a double-blind, randomized, placebo-controlled trial. _Evidence-Based Complementary and Alternative Medicine_. 2013. [임상시험] [DOI 10.1155/2013/824605](https://doi.org/10.1155/2013/824605) [PMID 24381638](https://pubmed.ncbi.nlm.nih.gov/24381638/) — 설사형 IBS 53명 RCT에서 곽향정기산+프로바이오틱스 병용이 증상 완화·유익균 증가에 시너지 효과. [^14]에서 등록된 프로토콜의 실제 결과 논문.
