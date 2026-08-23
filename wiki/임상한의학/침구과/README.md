@@ -4,15 +4,15 @@
 
 ## 문서 목록
 
-- [침치료(鍼治療, Acupuncture)](침치료(鍼治療).md)
+- 침치료(鍼治療, Acupuncture)
   - 하위 표제어: 수기침 · 전침 · 이침 · 완안침 · 약침 · 은침 · 도침 · 매선 · 사혈 · 부항
-- [전침(電鍼, Electroacupuncture)](전침(電鍼, Electroacupuncture).md)
+- 전침(電鍼, Electroacupuncture)
   - 하위 표제어: 주파수별 전침(저주파·고주파·교차 주파수) · 강도별 전침(저강도·고강도) · 적응증별 전침(통증·뇌졸중·정신정서·소화기·부인과·비만) · 병용 요법
-- [이침(耳鍼, Auricular Acupuncture)](이침(耳鍼, Auricular Acupuncture).md)
+- 이침(耳鍼, Auricular Acupuncture)
   - 하위 표제어: 자극 방식별(이침자침 · 이혈압두 · 이침전자자극 · 이혈주사 · 이혈자기요법 · 레이저 이혈조사) · 적응증별(통증·불면·비만·금연·중독·고혈압·부인과·소아·이명·갱년기) · 이론 체계별(노지에식 배전 이론 · 중국식 장부 반사 이론)
-- [뜸(灸, Moxibustion)](뜸(灸, Moxibustion).md)
+- 뜸(灸, Moxibustion)
   - 하위 표제어: 직접구 · 간접구(생강구·마늘구·격염구) · 온구·현구 · 조구 · 약선구·뇌화구 · 대나무 약물구 · 적외선 레이저구
-- [약침(藥鍼, Pharmacopuncture)](약침(藥鍼, Pharmacopuncture).md)
+- 약침(藥鍼, Pharmacopuncture)
   - 하위 표제어: 봉침(蜂鍼) · 자하약침(紫河藥鍼) · 소염·진통 약침 · 초음파 유도 약침 · 감미봉독약침(sweet bee venom) · 약침 병용 요법
 
 ## 동음이의 분류

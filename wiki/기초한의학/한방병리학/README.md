@@ -4,34 +4,34 @@
 
 ## 문서 목록
 
-- [혈허(血虛, Blood Deficiency)](혈허(血虛, Blood Deficiency).md)
+- 혈허(血虛, Blood Deficiency)
   - 하위 표제어: 심혈허(心血虛) · 간혈허(肝血虛) · 심비양허(心脾兩虛) · 간신음혈허(肝腎陰血虛) · 기혈양허(氣血兩虛) · 혈허혈어(血虛血瘀) · 혈허생풍(血虛生風) · 혈허발열(血虛發熱)
-    - [심혈허(心血虛, Heart Blood Deficiency)](심혈허(心血虛, Heart Blood Deficiency).md) — 혈허의 심(心) 축 핵심 변증, 심계·불면·건망·심비양허의 근간
-- [어혈(瘀血, Blood Stasis)](어혈(瘀血, Blood Stasis).md)
+    - 심혈허(心血虛, Heart Blood Deficiency) — 혈허의 심(心) 축 핵심 변증, 심계·불면·건망·심비양허의 근간
+- 어혈(瘀血, Blood Stasis)
   - 하위 표제어: 기체혈어(氣滯血瘀) · 기허혈어(氣虛血瘀) · 한응혈어(寒凝血瘀) · 열결혈어(熱結血瘀) · 담어교결(痰瘀交結) · 외상성 어혈(外傷性瘀血)
-- [간혈허 (肝血虛, Liver Blood Deficiency)](간혈허 (肝血虛, Liver Blood Deficiency).md)
+- 간혈허 (肝血虛, Liver Blood Deficiency)
   - 하위 표제어: 간혈허(肝血虛) · 간음허(肝陰虛)로의 전변 · 혈허생풍(血虛生風) · 혈허풍조(血虛風燥) · 간울혈허(肝鬱血虛) · 간신정혈양휴(肝腎精血兩虧)
-- [간기울결 (肝氣鬱結, Liver Qi Stagnation)](간기울결 (肝氣鬱結, Liver Qi Stagnation).md)
+- 간기울결 (肝氣鬱結, Liver Qi Stagnation)
   - 하위 표제어: 간울비허(肝鬱脾虛) · 간울화화(肝鬱化火) · 간울혈어(肝鬱血瘀) · 기체담결(氣滯痰結) · 간기상역(肝氣上逆) · 간비불화(肝脾不和)
-- [간양상항(肝陽上亢, Liver Yang Ascending Hyperactivity)](간양상항(肝陽上亢, Liver Yang Ascending Hyperactivity).md)
+- 간양상항(肝陽上亢, Liver Yang Ascending Hyperactivity)
   - 하위 표제어: 간신음허(肝腎陰虛) · 음불제양(陰不制陽) · 허양상항(虛陽上亢) · 간양화풍(肝陽化風) · 상실하허(上實下虛) · 음허양항(陰虛陽亢)
-- [기체(氣滯, Qi Stagnation)](기체(氣滯, Qi Stagnation).md)
+- 기체(氣滯, Qi Stagnation)
   - 하위 표제어: 간기울결(肝氣鬱結) · 비위기체(脾胃氣滯) · 심기울결(心氣鬱結) · 기체혈어(氣滯血瘀) · 기체담음(氣滯痰飮) · 기체습열(氣滯濕熱)
-- [기허(氣虛, Qi Deficiency)](기허(氣虛, Qi Deficiency).md)
+- 기허(氣虛, Qi Deficiency)
   - 하위 표제어: 폐기허(肺氣虛) · 비기허(脾氣虛) · 심기허(心氣虛) · 신기허(腎氣虛) · 기허혈어(氣虛血瘀)
-- [비기허(脾氣虛, Spleen Qi Deficiency)](비기허(脾氣虛, Spleen Qi Deficiency).md)
+- 비기허(脾氣虛, Spleen Qi Deficiency)
   - 하위 표제어: 비위동허(脾胃同虛) · 비양허(脾陽虛) · 비위불화(脾胃不和) · 비허습감(脾虛濕感) · 비기하함(脾虛氣陷) · 간울비허(肝鬱脾虛) · 심비양허(心脾兩虛) · 비신양허(脾腎陽虛)
-- [담음(痰飮, Phlegm-Retention)](담음(痰飮, Phlegm-Retention).md)
+- 담음(痰飮, Phlegm-Retention)
   - 하위 표제어: 담습(痰濕) · 담열(痰熱) · 담어교결(痰瘀交結) · 풍담(風痰) · 담독(痰毒)
-- [습열(濕熱, Dampness-Heat)](습열(濕熱, Dampness-Heat).md)
+- 습열(濕熱, Dampness-Heat)
   - 하위 표제어: 비위습열(脾胃濕熱) · 간담습열(肝膽濕熱) · 하초습열(下焦濕熱) · 피부·근골격 습열(濕熱痹) · 대장습열(大腸濕熱)
-- [음허(陰虛, Yin Deficiency)](음허(陰虛, Yin Deficiency).md)
+- 음허(陰虛, Yin Deficiency)
   - 하위 표제어: 신음허(腎陰虛) · 폐음허(肺陰虛) · 위음허(胃陰虛) · 비음허(脾陰虛) · 간음허(肝陰虛) · 간신음허(肝腎陰虛)
-    - [간음허(肝陰虛, Liver Yin Deficiency)](간음허(肝陰虛, Liver Yin Deficiency).md) — 음허의 간(肝) 축 핵심 변증, 간혈허→간양상항 전변의 중간 단계
-    - [신음허(腎陰虛, Kidney Yin Deficiency)](신음허(腎陰虛, Kidney Yin Deficiency).md) — 음허의 핵심 하위 변증, 전신 음허의 근본
-- [신음허(腎陰虛, Kidney Yin Deficiency)](신음허(腎陰虛, Kidney Yin Deficiency).md)
+    - 간음허(肝陰虛, Liver Yin Deficiency) — 음허의 간(肝) 축 핵심 변증, 간혈허→간양상항 전변의 중간 단계
+    - 신음허(腎陰虛, Kidney Yin Deficiency) — 음허의 핵심 하위 변증, 전신 음허의 근본
+- 신음허(腎陰虛, Kidney Yin Deficiency)
   - 하위 표제어: 음허화왕(陰虛火旺) · 심신불교(心腎不交) · 신음양양허(腎陰陽兩虛) · 음허혈어(陰虛血瘀) · 간신음허(肝腎陰虛) · 폐신음허(肺腎陰虛)
-- [양허(陽虛, Yang Deficiency)](양허(陽虛, Yang Deficiency).md)
+- 양허(陽虛, Yang Deficiency)
   - 하위 표제어: 비신양허(脾腎陽虛) · 신양허(腎陽虛) · 심신양허(心腎陽虛) · 비양허(脾陽虛) · 폐신기허(肺腎氣虛)
 
 ## 동음이의 분류

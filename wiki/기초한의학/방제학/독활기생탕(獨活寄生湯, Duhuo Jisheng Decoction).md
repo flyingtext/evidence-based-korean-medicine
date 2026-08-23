@@ -4,7 +4,7 @@
 
 ## 개요
 
-독활기생탕(獨活寄生湯)은 [독활(獨活, Angelicae Pubescentis Radix)](../본초학/독활(獨活, Angelicae Pubescentis Radix).md)과 상기생(桑寄生, Loranthi Ramulus)을 군약(君藥)으로 하고, [방풍(防風, Saposhnikoviae Radix)](../본초학/방풍(防風, Saposhnikoviae Radix).md)·[계지(桂枝, Cinnamomi Cortex)](../본초학/계지(桂枝, Cinnamomi Cortex).md)·[세신(細辛, Asarum)](../본초학/세신(細辛, Asarum).md)·두충(杜沖)·우슬(牛膝)·진교(秦艽)·[복령(茯苓, Poria)](../본초학/복령(茯苓, Poria).md)·[천궁(川芎, Ligusticum chuanxiong)](../본초학/천궁(川芎, Ligusticum chuanxiong).md)·[당귀(當歸, Angelica sinensis)](../본초학/당귀(當歸, Angelica sinensis).md)·[작약(芍藥, Paeonia)](../본초학/작약(芍藥, Paeonia).md)·[지황(地黃, Rehmannia)](../본초학/지황(地黃, Rehmannia).md)·[인삼(人蔘, Panax ginseng)](../본초학/인삼(人蔘, Panax ginseng).md)·[감초(甘草, Glycyrrhiza)](../본초학/감초(甘草, Glycyrrhiza).md) 등 15종으로 구성된 처방이다. 《비급천금요방(備急千金要方)》에 기원하며, 간신(肝腎)을 보(補)하고 기혈(氣血)을 보하면서 풍한습(風寒濕)을 제거하는 독활제습(獨活除濕)·보익간신(補益肝腎)의 대표방으로, 만성 요통, 퇴행성 관절 질환, 류마티스 관절염, 추간판 질환 등 근골격계 질환에 폭넓게 활용된다. 본 문서는 근거 기반 한의학 관점에서 독활기생탕의 임상 근거를 정리한다.
+독활기생탕(獨活寄生湯)은 독활(獨活, Angelicae Pubescentis Radix)과 상기생(桑寄生, Loranthi Ramulus)을 군약(君藥)으로 하고, 방풍(防風, Saposhnikoviae Radix)·계지(桂枝, Cinnamomi Cortex)·세신(細辛, Asarum)·두충(杜沖)·우슬(牛膝)·진교(秦艽)·복령(茯苓, Poria)·천궁(川芎, Ligusticum chuanxiong)·당귀(當歸, Angelica sinensis)·작약(芍藥, Paeonia)·지황(地黃, Rehmannia)·인삼(人蔘, Panax ginseng)·감초(甘草, Glycyrrhiza) 등 15종으로 구성된 처방이다. 《비급천금요방(備急千金要方)》에 기원하며, 간신(肝腎)을 보(補)하고 기혈(氣血)을 보하면서 풍한습(風寒濕)을 제거하는 독활제습(獨活除濕)·보익간신(補益肝腎)의 대표방으로, 만성 요통, 퇴행성 관절 질환, 류마티스 관절염, 추간판 질환 등 근골격계 질환에 폭넓게 활용된다. 본 문서는 근거 기반 한의학 관점에서 독활기생탕의 임상 근거를 정리한다.
 
 ## 구성과 조제 원리
 

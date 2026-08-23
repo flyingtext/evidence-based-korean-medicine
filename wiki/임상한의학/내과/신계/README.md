@@ -4,27 +4,27 @@
 
 ## 문서 목록
 
-- [요실금(尿失禁, Urinary Incontinence)](요실금.md) (KCD-8: N39.3)
+- 요실금(尿失禁, Urinary Incontinence) (KCD-8: N39.3)
   - 하위 표제어: 복압성 요실금(N39.3) · 과민성 방광(N32.8) · 산후 요실금(N39.3) · 뇌졸중 후 요실금(N39.3) · 전립선 절제술 후 요실금(N39.3) · 척수손상 후 요실금(N39.3)
-- [당뇨병(消渴, Diabetes Mellitus)](당뇨병(消渴).md) (KCD-8: E10~E14)
+- 당뇨병(消渴, Diabetes Mellitus) (KCD-8: E10~E14)
   - 하위 표제어: 제1형 당뇨병(E10) · 제2형 당뇨병(E11) · 내당능장애(R73.0) · 임신성 당뇨병(O24) · 당뇨병성 신경병증(E11.4/G63.2) · 당뇨병성 신증(E11.2) · 당뇨병성 족부(E11.5)
-- [골다공증(骨質疏鬆症, Osteoporosis)](골다공증(骨質疏鬆症, Osteoporosis).md) (KCD-8: M80/M81)
+- 골다공증(骨質疏鬆症, Osteoporosis) (KCD-8: M80/M81)
   - 하위 표제어: 원발성 골다공증(M81) · 폐경 후 골다공증(M81.0) · 당질코르티코이드 유발 골다공증(M81.4) · 골다공증성 골절(M80) · 골감소증(M85.8)
-- [전립선비대증(前立腺肥大症, Benign Prostatic Hyperplasia)](전립선비대증(前立腺肥大症, Benign Prostatic Hyperplasia).md) (KCD-8: N40)
+- 전립선비대증(前立腺肥大症, Benign Prostatic Hyperplasia) (KCD-8: N40)
   - 하위 표제어: 증상성 전립선비대증(N40) · 야간뇨 우세형 전립선비대증(N40) · 수술 후 전립선비대증(N40) · 고령자 전립선비대증(N40)
-- [통풍(痛風, Gout)](통풍(痛風, Gout).md) (KCD-8: M10)
+- 통풍(痛風, Gout) (KCD-8: M10)
   - 하위 표제어: 급성 통풍성 관절염(M10.0) · 만성 통풍성 관절염(M10.0) · 고요산혈증(E79.0) · 통풍성 신병증(M10+N08.8) · 통풍 간헐기(M10.9)
-- [신증후군(腎症候群, Nephrotic Syndrome)](신증후군(腎症候群, Nephrotic Syndrome).md) (KCD-8: N04)
+- 신증후군(腎症候群, Nephrotic Syndrome) (KCD-8: N04)
   - 하위 표제어: 미세변화형 신증후군(N04.0) · 국소분절성 사구체경화증(N04.1) · 막성 신병증(N04.2) · 당뇨병성 신증(N04.8) · 루푸스 신염 동반 신증후군(N04.8) · 소아 신증후군(N04.9)
-- [방광염(膀胱炎, Cystitis)](방광염(膀胱炎, Cystitis).md) (KCD-8: N30)
+- 방광염(膀胱炎, Cystitis) (KCD-8: N30)
   - 하위 표제어: 급성 단순 방광염(N30.0) · 재발성 방광염(N30.8/N39.3) · 복잡성 요로감염(N30.0/N39.3) · 간질성 방광염(N30.1) · 출혈성 방광염(N30.8) · 약물 유발성 방광염(N30.8) · 신경인성 방광·요정체(N32.8/N31)
-- [전립선염(慢性前立腺炎, Chronic Prostatitis)](전립선염(慢性前立腺炎, Chronic Prostatitis).md) (KCD-8: N41)
+- 전립선염(慢性前立腺炎, Chronic Prostatitis) (KCD-8: N41)
   - 하위 표제어: 급성 세균성 전립선염(N41.0) · 만성 세균성 전립선염(N41.1) · 만성 골반통 증후군(N41.1) · 무균성(비세균성) 전립선염(N41.1)
-- [수족냉증(冷手足證, Cold Hypersensitivity in the Hands and Feet)](수족냉증(冷手足證, Cold Hypersensitivity).md) (KCD-8: R68.8)
+- 수족냉증(冷手足證, Cold Hypersensitivity in the Hands and Feet) (KCD-8: R68.8)
   - 하위 표제어: 신양허형 · 기혈양허형 · 상열하한형 · 어혈형 · 갱년기 동반형 · 임신 중 냉증형
-- [요로결석(尿路結石, Urolithiasis)](요로결석(尿路結石, Urolithiasis).md) (KCD-8: N20)
+- 요로결석(尿路結石, Urolithiasis) (KCD-8: N20)
   - 하위 표제어: 신장결석(N20.0) · 요관결석(N20.1) · 요산 결석(N20.1) · 시스틴 결석(N20.1) · 스트루바이트(감염성) 결석(N20.1) · 칼슘 결석(N20.0)
-- [부종(浮腫, Edema)](부종(浮腫, Edema).md) (KCD-8: R60)
+- 부종(浮腫, Edema) (KCD-8: R60)
   - 하위 표제어: 국소 부종(R60.0) · 전신 부종(R60.1) · 특발성 부종(R60.9) · 임신성 부종(R60.9)
 
 ## 동음이의 분류

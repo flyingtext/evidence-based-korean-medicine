@@ -38,7 +38,7 @@
 
 ## 경혈/처방 연관
 
-- 약재/처방: 지실은 [백출(白朮, Atractylodes)](백출(白朮, Atractylodes).md)·[후박(厚朴, Magnoliae Cortex)](후박(厚朴, Magnoliae Cortex).md)·[대황(大黃, Rhei Rhizoma)](대황(大黃, Rhei Rhizoma).md)·[진피(陳皮, Citri Reticulatae Pericarpium)](진피(陳皮, Citri Reticulatae Pericarpium).md)·[반하(半夏, Pinellia ternata)](반하(半夏, Pinellia ternata).md)·[생강(生薑, Zingiber officinale)](생강(生薑, Zingiber officinale).md)·[대조(大棗, Jujube)](대조(大棗, Jujube).md) 등과 배합되어 [대시호탕(大柴胡湯, Dachaihu Decoction)](../방제학/대시호탕(大柴胡湯, Dachaihu Decoction).md)·[온담탕(溫膽湯)](../방제학/온담탕(溫膽湯).md)·[소시호탕(小柴胡湯)](../방제학/소시호탕(小柴胡湯).md)·[계지탕(桂枝湯, Gyeji-tang)](../방제학/계지탕(桂枝湯, Gyeji-tang).md) 등이 구성된다.[^1][^9][^10]
+- 약재/처방: 지실은 백출(白朮, Atractylodes)·후박(厚朴, Magnoliae Cortex)·대황(大黃, Rhei Rhizoma)·진피(陳皮, Citri Reticulatae Pericarpium)·반하(半夏, Pinellia ternata)·생강(生薑, Zingiber officinale)·대조(大棗, Jujube) 등과 배합되어 대시호탕(大柴胡湯, Dachaihu Decoction)·온담탕(溫膽湯)·소시호탕(小柴胡湯)·계지탕(桂枝湯, Gyeji-tang) 등이 구성된다.[^1][^9][^10]
 - 경혈: 지실 계열 처방은 침·이침(耳鍼)·약침 요법과 병행되는 근거가 있으며, 이침 압박은 지실(광귤나무) 추출물의 플라보노이드 흡수를 개선하는 것으로 보고된다.[^3]
 
 ## Q&A

@@ -4,13 +4,13 @@
 
 ## 문서 목록
 
-- [비알코올성 지방간(非酒精性脂肪肝, Nonalcoholic Fatty Liver Disease)](비알코올성지방간.md) (KCD-8: K76.0)
+- 비알코올성 지방간(非酒精性脂肪肝, Nonalcoholic Fatty Liver Disease) (KCD-8: K76.0)
   - 하위 표제어: 단순 지방증(K76.0) · 대사 이상 관련 지방간염(MASH, K75.81) · 간 섬유화·간경변(K74.0) · 소아·청소년 지방간(K76.0)
-- [간염(肝炎, Hepatitis)](간염(肝炎, Hepatitis).md) (KCD-8: B15~B19)
+- 간염(肝炎, Hepatitis) (KCD-8: B15~B19)
   - 하위 표제어: 급성 A형 간염(B15) · 만성 B형 간염(B18.0/B18.1) · 만성 C형 간염(B18.2) · 알코올성 간염(K70.1) · 약물·독성 간염(K71) · 간섬유화·간경변(K74)
-- [간경변(肝硬變, Liver Cirrhosis)](간경변(肝硬變, Liver Cirrhosis).md) (KCD-8: K74)
+- 간경변(肝硬變, Liver Cirrhosis) (KCD-8: K74)
   - 하위 표제어: 보상성 간경변(K74) · 비보상성 간경변(K74) · 간경변성 복수(K74+R18) · 문맥고혈압 동반 간경변(K74+I81) · B형 간염 관련 간경변(K74) · 원발성 담즙성 간경변(K74.3) · 간경변 동반 간세포암(K74+C22)
-- [만성피로증후군(慢性疲勞症候群, Chronic Fatigue Syndrome)](만성피로증후군(慢性疲勞症候群, Chronic Fatigue Syndrome).md) (KCD-8: G93.3)
+- 만성피로증후군(慢性疲勞症候群, Chronic Fatigue Syndrome) (KCD-8: G93.3)
   - 하위 표제어: 근육통성 뇌척수염(ME, G93.3) · 바이러스 후 피로증후군(G93.3) · Long COVID 동반 ME/CFS(G93.3) · 기허혈어형 · 기혈양허형 · 간울비허형 · 심비양허형 · 비신양허형
 
 ## 동음이의 분류

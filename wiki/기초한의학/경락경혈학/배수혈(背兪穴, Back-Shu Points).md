@@ -17,7 +17,7 @@
 - **신수(腎兪, BL23)**: 신계·요부·비뇨생식기 분야 — 요통·골다공증·당뇨병성 신증·전립선 질환 등.[^15]
 - **대장수(大腸兪, BL25)·소장수(小腸兪, BL27)·방광수(膀胱兪, BL28)**: 대장·소장·방광 질환 — 기능성 변비·장 질환·배뇨 장애 등.[^16][^17]
 
-> 배수혈은 장부의 기가 배부로 주입되는 요혈이므로, 침·뜸·부항·매선 등으로 장부 기능을 조절한다. 질환별 세부 적용은 각 개별 배수혈 문서(예: [신수(腎兪, BL23)](신수(腎兪, BL23).md)) 및 상위 질환 문서([요통](../../임상한의학/재활의학/요통.md)·[천식](../../임상한의학/내과/폐계/천식.md)·[만성피로증후군](../../임상한의학/내과/간계/만성피로증후군(慢性疲勞症候群, Chronic Fatigue Syndrome).md) 등)를 참조한다.
+> 배수혈은 장부의 기가 배부로 주입되는 요혈이므로, 침·뜸·부항·매선 등으로 장부 기능을 조절한다. 질환별 세부 적용은 각 개별 배수혈 문서(예: 신수(腎兪, BL23)) 및 상위 질환 문서(요통·천식·만성피로증후군 등)를 참조한다.
 
 ## 병태생리·기전
 
@@ -53,9 +53,9 @@
 
 - **배수혈-모혈(募穴) 배합**: 배수혈은 복부의 모혈과 짝을 이루어(수모배합, 兪募配穴) 장부 기능 조절에 응용된다. 만성 위염·조기 난소부전·자궁내막증 등에 배수혈·모혈 조합이 보고된다.[^13][^33][^34]
 - **원혈-배수혈 배합**: 원혈(原穴)과 배수혈을 조합한 침치료가 갱년기 증후군의 증상·성호르몬 조절에 유효했다(임상시험, 80명).[^22]
-- **개별 배수혈 문서**: [신수(腎兪, BL23)](신수(腎兪, BL23).md)는 이미 별도 문서로 정리되어 있다. 폐수·심수·간수·비수·위수·대장수 등 개별 배수혈의 질환별 세부 적용은 각 질환 문서에서 다룬다.
+- **개별 배수혈 문서**: 신수(腎兪, BL23)는 이미 별도 문서로 정리되어 있다. 폐수·심수·간수·비수·위수·대장수 등 개별 배수혈의 질환별 세부 적용은 각 질환 문서에서 다룬다.
 - **자극 기법**: 수기침·전침(電鍼)·온침(溫鍼)·뜸(灸)·부항(附缸)·매선(埋線)·지압(指壓)·피내침·약침(藥鍼) 등 다양한 방식이 보고된다.[^3][^4][^5][^24]
-- 관련 문서: [침치료(鍼治療)](../../임상한의학/침구과/침치료(鍼治療).md), [전침(電鍼, Electroacupuncture)](../../임상한의학/침구과/전침(電鍼, Electroacupuncture).md), [뜸(灸, Moxibustion)](../../임상한의학/침구과/뜸(灸, Moxibustion).md), [경락(經絡, Meridians)](경락(經絡, Meridians).md), [신수(腎兪, BL23)](신수(腎兪, BL23).md), [대추(大椎, GV14)](대추(大椎, GV14).md), [요통](../../임상한의학/재활의학/요통.md), [천식](../../임상한의학/내과/폐계/천식.md), [만성피로증후군](../../임상한의학/내과/간계/만성피로증후군(慢性疲勞症候群, Chronic Fatigue Syndrome).md)
+- 관련 문서: 침치료(鍼治療), 전침(電鍼, Electroacupuncture), 뜸(灸, Moxibustion), 경락(經絡, Meridians), 신수(腎兪, BL23), 대추(大椎, GV14), 요통, 천식, 만성피로증후군
 
 ## Q&A
 
@@ -88,7 +88,7 @@
 [^12]: [Study on corresponding areas the liver and lung channels in brain with fMRI]. 실험연구. PMID: [18257352](https://pubmed.ncbi.nlm.nih.gov/18257352/). 간경·폐경 뇌반응 영역 fMRI 연구.
 [^13]: [Effect of acupuncture and moxibustion of Shu- and Mu-acupoints on the quality of life in patients chronic superficial gastritis]. 임상시험, 60명. PMID: [19916291](https://pubmed.ncbi.nlm.nih.gov/19916291/). 만성 표층성 위염 배수혈·모혈 전침·뜸이 오메프라졸 단독보다 증상·삶의 질 개선에 우수.
 [^14]: Clinical Study on the Effect of Acupuncture and Moxibustion with the Method of Acupoints on the Treatment of Chronic Gastritis with Sleep Disorder. 임상시험. DOI: [10.26689/par.v3i5.1072](https://doi.org/10.26689/par.v3i5.1072) · PMID: [10.26689/par.v3i5.1072](https://pubmed.ncbi.nlm.nih.gov/10.26689/par.v3i5.1072/). 만성 위염·수면장애 침·뜸 배수혈 요법.
-[^15]: 신수(腎兪, BL23)의 임상 적용·근거는 개별 문서 [신수(腎兪, BL23)](신수(腎兪, BL23).md) 참조. 근거는 해당 문서의 각주·임상시험 종합.
+[^15]: 신수(腎兪, BL23)의 임상 적용·근거는 개별 문서 신수(腎兪, BL23) 참조. 근거는 해당 문서의 각주·임상시험 종합.
 [^16]: Acupoint catgut embedding therapy for functional constipation. 체계적 고찰. DOI: [10.1097/md.0000000000014610](https://doi.org/10.1097/md.0000000000014610) · PMID: [10.1097/md.0000000000014610](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000014610/). 기능성 변비 매선요법 체계적 고찰.
 [^17]: [Efficacy and Mechanisms of Acupuncture at Back-Shu and Front-Mu Points of the Large and Small Intestines Plus ST36 for Slow-Transit Constipation]. 임상시험. DOI: [10.1177/03601293261437795](https://doi.org/10.1177/03601293261437795) · PMID: [10.1177/03601293261437795](https://pubmed.ncbi.nlm.nih.gov/10.1177/03601293261437795/). 서행성 변비 대장·소장 배수혈·모혈+족삼리 침치료.
 [^18]: Localization of acupuncture points BL25 and BL26 using computed tomography. 관찰연구, 58명. DOI: [10.1089/acm.2007.7118-O](https://doi.org/10.1089/acm.2007.7118-O) · PMID: [20001835](https://pubmed.ncbi.nlm.nih.gov/20001835/). 요부 배수혈 자침 깊이와 BMI·연부조직 두께 상관.
