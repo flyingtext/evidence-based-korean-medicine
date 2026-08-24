@@ -353,6 +353,7 @@ def fetch_all(
     delay: float = 0.4,
     exclude_animal: bool = True,
     use_db: bool = True,
+    timeout: int = 30,
 ) -> tuple[list[dict], dict]:
     """여러 페이지를 순회하며 최대한 많은 논문을 수집한다.
 
@@ -396,9 +397,9 @@ def fetch_all(
                 except RuntimeError as e:
                     logger.warning("DB 직결 실패 — 이후 HTTP API로 폴백: %s", e)
                     use_db = False
-                    data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0)
+                    data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0, timeout=timeout)
             else:
-                data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0)
+                data = fetch(params, retries=retries, delay=delay if page > start_page else 0.0, timeout=timeout)
         except RuntimeError as e:
             logger.error("page %d 수집 중단: %s", page, e)
             stats["fetch_error"] = stats.get("fetch_error", 0) + 1
@@ -597,6 +598,7 @@ def main() -> int:
             delay=args.delay,
             exclude_animal=exclude_animal,
             use_db=not args.api,
+            timeout=args.timeout,
         )
     except RuntimeError as e:
         logger.error("수집 실패: %s", e)
