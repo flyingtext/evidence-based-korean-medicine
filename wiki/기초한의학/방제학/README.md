@@ -4,6 +4,8 @@
 
 ## 문서 목록
 
+- 방약합편(方藥合編, Bangyak Happyeon)
+  - 하위 표제어: 상통(上統) · 중통(中統) · 하통(下統) · 활투침선(活套鍼線)
 - 보중익기탕(補中益氣湯, Bojungikgi-tang)
   - 하위 표제어: 보중익기탕 · 보중익기탕가감방 · 보중익기탕 병용 요법
 - 황련해독탕(黃連解毒湯, Hwangryunhaedok-tang / Huanglian Jiedu Decoction / Orengedokuto)
