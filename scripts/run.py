@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """근거 기반 한의학 위키 — RUN.md 워크플로우 자동 실행 스크립트.
 
-RUN.md에 정의된 검증·링크 점검·빌드 단계를 순서대로 실행한다.
+RUN.md에 정의된 검증·링크 점검 단계를 순서대로 실행한다.
 작업이 끝날 때마다 이 스크립트를 호출해 품질을 확인한다.
 
 사용법:
-    python3 scripts/run.py            # 검증 + 링크 점검 + 빌드
+    python3 scripts/run.py            # 검증 + 링크 점검
     python3 scripts/run.py --health   # API 헬스 체크 포함
     python3 scripts/run.py --watch    # 30초마다 반복 실행 (Ctrl+C로 종료)
     python3 scripts/run.py --watch --interval 10  # 10초 간격 반복
