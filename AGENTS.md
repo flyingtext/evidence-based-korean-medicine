@@ -181,12 +181,10 @@ wiki/
 - `analyzed=1`로 분석 완료된 논문만 우선 사용
 - 논문 데이터와 `answer`/`clinical_summary`를 기반으로 문서 작성
 - 각주 정의에 논문 메타데이터(DOI, PMID, 연구유형 한국어 라벨, 환자수)와 **근거 의미 부연 해석**을 반드시 포함. 형식은 RUN.md §1-4-2-1 고정 포맷 준수
-- **파일 편집 후 반드시 `mkdocs.yml` 무결성을 확인한다.** 폴더·문서를 추가/삭제/이동하면 빌드 결과에 반영되는지 확인해야 한다. 편집 후 `python3 -m mkdocs build`로 무결성을 검증한다.
 
 ## 프로젝트 기술 스택
 
 - **콘텐츠**: 순수 마크다운(`.md`) 위키 파일 (`wiki/`)
-- **정적 사이트 생성기**: MkDocs + Material 테마 (`mkdocs.yml`)
 - **자동화**: Python 스크립트 (`scripts/`) — 논문 검색(`search.py`), 품질 검증(`validate.py`)
 - **데이터 소스**: [med.symbolicinfo.com](https://med.symbolicinfo.com) 검색 API
 
@@ -198,12 +196,6 @@ python3 scripts/search.py "요통" --km --human --analyzed --per-page 100 --targ
 
 # 문서 품질 검증 (링크·KCD·표기)
 python3 scripts/validate.py
-
-# 정적 사이트 빌드
-python3 -m mkdocs build
-
-# 로컬 미리보기
-python3 -m mkdocs serve
 ```
 
 ## 커밋 규칙

@@ -6,7 +6,6 @@ RUN.md에 정의된 검증·링크 점검·빌드 단계를 순서대로 실행�
 
 사용법:
     python3 scripts/run.py            # 검증 + 링크 점검 + 빌드
-    python3 scripts/run.py --skip-build
     python3 scripts/run.py --health   # API 헬스 체크 포함
     python3 scripts/run.py --watch    # 30초마다 반복 실행 (Ctrl+C로 종료)
     python3 scripts/run.py --watch --interval 10  # 10초 간격 반복
@@ -28,12 +27,12 @@ def sh(cmd: list, cwd: str = ROOT) -> int:
 
 
 def step_validate() -> int:
-    print("\n=== [1/4] 문서 품질 검증 (validate.py) ===")
+    print("\n=== [1/3] 문서 품질 검증 (validate.py) ===")
     return sh([sys.executable, os.path.join(ROOT, "scripts", "validate.py")])
 
 
 def step_links() -> int:
-    print("\n=== [3/4] 교차 참조(상대 링크) 점검 ===")
+    print("\n=== [3/3] 교차 참조(상대 링크) 점검 ===")
     broken = []
     for root, _, files in os.walk(WIKI_DIR):
         for fn in files:
@@ -60,7 +59,7 @@ def step_links() -> int:
 
 def step_recent() -> int:
     """git log 기준으로 wiki/최근업데이트.md를 자동 재생성한다."""
-    print("\n=== [2/4] 최근 업데이트 문서 자동 재생성 ===")
+    print("\n=== [2/3] 최근 업데이트 문서 자동 재생성 ===")
     out = subprocess.run(
         ["git", "log", "--format=%ad", "--date=format:%Y-%m-%d %H:%M:%S", "--name-only", "-z", "--", "wiki/"],
         cwd=ROOT, capture_output=True, text=True,
@@ -130,11 +129,6 @@ def step_recent() -> int:
     return 0
 
 
-def step_build() -> int:
-    print("\n=== [4/4] 정적 사이트 빌드 (mkdocs) ===")
-    return sh([sys.executable, "-m", "mkdocs", "build"])
-
-
 def step_health() -> int:
     print("\n=== [추가] API 헬스 체크 ===")
     import json
@@ -152,8 +146,6 @@ def step_health() -> int:
 
 def run_once(args) -> int:
     steps = [step_validate, step_recent, step_links]
-    if not args.skip_build:
-        steps.append(step_build)
     if args.health:
         steps.append(step_health)
 
@@ -171,7 +163,6 @@ def run_once(args) -> int:
 
 def main() -> int:
     p = argparse.ArgumentParser(description="RUN.md 워크플로우 자동 실행")
-    p.add_argument("--skip-build", action="store_true", help="빌드 단계 생략")
     p.add_argument("--health", action="store_true", help="API 헬스 체크 포함")
     p.add_argument("--watch", action="store_true", help="워크플로우를 반복 실행 (기본 30초 간격)")
     p.add_argument("--interval", type=int, default=30, help="--watch 반복 간격(초), 기본 30")
