@@ -5,35 +5,19 @@
 PubMed · Crossref · KCI(한국학술지인용색인)의 논문 데이터를 AI로 분석해 만든 근거 기반 한의학 위키입니다.
 모든 문서는 [med.symbolicinfo.com](https://med.symbolicinfo.com) 검색 API로 수집한 논문 근거에 기반하며, 임상적 주장에는 출처(DOI/PMID)를 명시합니다.
 
-운영 사이트: [https://wiki.symbolicinfo.com](https://wiki.symbolicinfo.com)
-
 ## 개요
 
 - **운영 원칙**: 근거 우선 · 출처 명시 · AI 생성물 명시 · 과장 금지
 - **분류 체계**: 한의과대학 교과과정을 참고한 대분류(기초한의학 · 임상한의학) → 중분류(과목) → 소분류(개별 문서) 3단계
-- **문서 형식**: 순수 마크다운(`.md`), MkDocs + Material 테마로 정적 사이트 빌드
+- **문서 형식**: 순수 마크다운(`.md`)
 
 ## 기술 스택
 
 | 구성 | 도구 |
 |---|---|
 | 콘텐츠 | 순수 마크다운 위키 파일 (`wiki/`) |
-| 정적 사이트 생성기 | MkDocs + Material 테마 (`mkdocs.yml`) |
 | 자동화 | Python 스크립트 (`scripts/`) — 논문 검색(`search.py`), 품질 검증(`validate.py`), 워크플로우 실행(`run.py`) |
 | 데이터 소스 | [med.symbolicinfo.com](https://med.symbolicinfo.com) 검색 API |
-
-## 시작하기
-
-```bash
-# 의존성 설치
-pip install -r requirements.txt
-
-# 로컬 미리보기
-python3 -m mkdocs serve
-
-# 정적 사이트 빌드
-python3 -m mkdocs build
-```
 
 ## 명령어
 
@@ -44,7 +28,7 @@ python3 scripts/search.py "요통" --km --human --analyzed
 # 문서 품질 검증 (링크·KCD·표기)
 python3 scripts/validate.py
 
-# 전체 워크플로우 실행 (검증 + 최근 업데이트 재생성 + 링크 점검 + 빌드)
+# 전체 워크플로우 실행 (검증 + 최근 업데이트 재생성 + 링크 점검)
 python3 scripts/run.py
 ```
 
@@ -55,7 +39,6 @@ wiki/                 # 위키 콘텐츠 (마크다운)
 ├── 기초한의학/     # 원전 · 진단학 · 한방생리학 · 한방병리학 · 경락경혈학 · 본초학 · 방제학 · 기공학 · 의사학 · 예방한의학
 ├── 임상한의학/     # 내과(장부) · 산부인과 · 소아과 · 신경정신과 · 안이비인후피부과 · 침구과 · 추나의학 · 재활의학 · 사상의학
 scripts/              # 자동화 스크립트
-mkdocs.yml            # MkDocs 설정
 AGENTS.md             # 프로젝트 운영 규칙
 RUN.md                # 작성·보강 명령어
 ```
