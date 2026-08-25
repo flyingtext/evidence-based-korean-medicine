@@ -28,7 +28,7 @@
 
 - 기타 염증성 간질환(其他 炎症性 肝疾患, Other Inflammatory Liver Diseases, K75) — (작성 예정) 간농양(K75.0)·자가면역간염(K75.4)
 - 대사이상 관련 지방간질환(代謝異常關聯 脂肪肝疾患, Metabolic Dysfunction-Associated Steatotic Liver Disease, K76.0) — 비알코올성지방간.md **작성됨** — 하위 표제어: 단순 지방증(K76.0) · 대사 이상 관련 지방간염(MASH, K75.81) · 간 섬유화·간경변(K74.0) · 소아·청소년 지방간(K76.0)
-- 간의 기타 명시된 질환(其他 明示 肝疾患, Other Specified Diseases of Liver, K76 나머지) — (작성 예정) 문맥고혈압(K76.6, 간경변 문서에서 부분 언급)·간정맥폐쇄성질환(K76.5)·간경색(K76.3)·간신증후군(K76.7)
+- 간의 기타 명시된 질환(其他 明示 肝疾患, Other Specified Diseases of Liver, K76 나머지) — 간정맥폐쇄성질환(肝靜脈閉塞性疾患, Hepatic Veno-Occlusive Disease).md **작성됨**(K76.5) — 문맥고혈압(K76.6, 간경변 문서에서 부분 언급)·간경색(K76.3)·간신증후군(K76.7)은 (작성 예정)
 - 기타 분류된 질환에서의 간장애(K77) — (작성 예정)
 
 ## 5. 담낭 및 담도 질환 (KCD-8 K80-K83)
@@ -36,7 +36,7 @@
 - 담석증(膽石症, Cholelithiasis, K80) — 담석증(膽石症, Cholelithiasis).md **작성됨** — 하위 표제어: 무증상 담석증(K80.2) · 증상성 담석증·담도산통(K80.0/K80.2) · 총담관결석(K80.3-K80.5) · 담석성췌장염 동반(K80+K85) · 재발성 담석증·담낭절제술후 증후군(K91.5) · 고령·고위험군 담석증
 - 담낭염(膽囊炎, Cholecystitis, K81) — 담낭염(膽囊炎, Cholecystitis).md **작성됨** — 하위 표제어: 급성 결석성 담낭염(K80.0) · 급성 무결석성 담낭염(K81.0) · 만성 담낭염(K81.1) · 괴저성·천공성 담낭염(K81.0, 응급) · 담낭절제술 후 증후군(K91.5) · 고령·당뇨병 동반 담낭염 · 약물유발성·의인성 담낭염
 - 담낭의 기타 질환(其他 膽囊疾患, Other Diseases of Gallbladder, K82) — (작성 예정) 담낭 운동이상증(膽囊運動異常症, Biliary Dyskinesia, K82.8)·담낭 콜레스테롤증(K82.4)·담낭 천공(K82.2)
-- 담도의 기타 질환(其他 膽道疾患, Other Diseases of Biliary Tract, K83) — (작성 예정) 담관염(膽管炎, Cholangitis, K83.0)·원발경화담관염(原發硬化膽管炎, Primary Sclerosing Cholangitis, K83.0 세분류)·담관협착(K83.1/K83.5)
+- 담도의 기타 질환(其他 膽道疾患, Other Diseases of Biliary Tract, K83) — 담관협착(膽管狹窄, Biliary Stricture).md **작성됨**(K83.1/K83.5) · 담관염(膽管炎, Cholangitis, K83.0) — 담관염(膽管炎, Cholangitis).md **작성됨** — 하위 표제어: 담석성 급성 화농성 담관염(K80.3/K80.4) · 재발성 화농성 담관염·간내담석증·동양성 담관간염(K83.0) · 양성 협착 동반 담관염(K83.1) · 악성 폐쇄 동반 담관염 · 원발경화담관염(原發硬化膽管炎, Primary Sclerosing Cholangitis, K83.0 세분류) · IgG4 관련 경화담관염 · 소아 담도폐쇄증 관련 담관염 · 약물유발성·의인성 담관염 — 원발경화담관염(原發硬化膽管炎, Primary Sclerosing Cholangitis).md **작성됨**(K83.0 세분류, 독립 문서로 심화 서술)
 
 ## 6. 간·담도 종양 및 혈관질환 (챕터 경계 — 종양·순환계 챕터와 중복 분류)
 
