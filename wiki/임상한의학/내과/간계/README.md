@@ -28,7 +28,7 @@
 
 - 기타 염증성 간질환(其他 炎症性 肝疾患, Other Inflammatory Liver Diseases, K75) — (작성 예정) 간농양(K75.0)·자가면역간염(K75.4)
 - 대사이상 관련 지방간질환(代謝異常關聯 脂肪肝疾患, Metabolic Dysfunction-Associated Steatotic Liver Disease, K76.0) — 비알코올성지방간.md **작성됨** — 하위 표제어: 단순 지방증(K76.0) · 대사 이상 관련 지방간염(MASH, K75.81) · 간 섬유화·간경변(K74.0) · 소아·청소년 지방간(K76.0)
-- 간의 기타 명시된 질환(其他 明示 肝疾患, Other Specified Diseases of Liver, K76 나머지) — 간정맥폐쇄성질환(肝靜脈閉塞性疾患, Hepatic Veno-Occlusive Disease).md **작성됨**(K76.5) — 문맥고혈압(K76.6, 간경변 문서에서 부분 언급)·간경색(K76.3)·간신증후군(K76.7)은 (작성 예정)
+- 간의 기타 명시된 질환(其他 明示 肝疾患, Other Specified Diseases of Liver, K76 나머지) — 간정맥폐쇄성질환(肝靜脈閉塞性疾患, Hepatic Veno-Occlusive Disease).md **작성됨**(K76.5) · 간경색(肝梗塞, Hepatic Infarction).md **작성됨**(K76.3) — 문맥고혈압(K76.6, 간경변 문서에서 부분 언급)·간신증후군(K76.7)은 (작성 예정)
 - 기타 분류된 질환에서의 간장애(K77) — (작성 예정)
 
 ## 5. 담낭 및 담도 질환 (KCD-8 K80-K83)
