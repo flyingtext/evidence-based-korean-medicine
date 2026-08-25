@@ -69,8 +69,8 @@
 
 ### 1-8. 기타 등병증 (M50-M54)
 
-- 경추 추간판장애(頸椎 椎間板障礙, Cervical Disc Disorders, M50) — **작성됨**: 추간판탈출증(椎間板脫出症, Herniated Intervertebral Disc).md(경추부), 경추통.md
-- 기타 추간판장애(其他 椎間板障礙, Other Intervertebral Disc Disorders, M51) — **작성됨**: 추간판탈출증(椎間板脫出症, Herniated Intervertebral Disc).md(요추부), 좌골신경통(坐骨神經痛, Sciatica).md
+- 경추 추간판장애(頸椎 椎間板障礙, Cervical Disc Disorders, M50) — **작성됨**: 추간판탈출증.md(경추부), 경추통.md
+- 기타 추간판장애(其他 椎間板障礙, Other Intervertebral Disc Disorders, M51) — **작성됨**: 추간판탈출증.md(요추부), 좌골신경통(坐骨神經痛, Sciatica).md
 - 기타 명시된 등병증(M53) — (작성 예정) 경부-두개골 증후군, 경늑골증후군, 척추 불안정성(M53.2) — 편타손상(鞭打損傷, Whiplash-Associated Disorder) 포함
 - 등통증(背痛, Dorsalgia, M54) — **작성됨**: 요통(腰痛, Low Back Pain).md(M54.5) · 경추통(頸椎痛, Neck Pain).md(M54.2) · 좌골신경통(坐骨神經痛, Sciatica).md(M54.3/M54.4) — M54.6(흉추부 통증)은 (작성 예정)
 
