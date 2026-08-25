@@ -51,7 +51,7 @@
 
 ### 2-3. 청열양혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
 
-- 목단피(牧丹皮, Moutan Cortex)
+- 목단피(牡丹皮, Moutan Cortex)
 - 생지황(生地黃) — 지황(地黃, Rehmannia) 문서에서 하위 표제어로 포함 **작성됨**(겸: 보혈약)
 - 현삼(玄蔘, Scrophularia buergeriana) — (작성 예정, 연호색 문서의 동음이의 부위와 혼동 주의)
 - 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**

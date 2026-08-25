@@ -157,7 +157,7 @@
 
 #### 14-2. 심부전·변형 협심증
 
-지실사백계지탕과 익기설폐탕을 병용한 결과 좌심실 박출률이 증가하고 심기능이 개선되었으며 흉통이 재발하지 않았다(증례).[^5] 중증 심부전 및 심근병증 환자에게 허증(虛證) 치료 목적의 보약 처방을 적용해 심기능 개선과 입원율 감소를 기대할 수 있다는 문헌 고찰도 있다.[^27]
+지실해백계지탕과 익기설폐탕을 병용한 결과 좌심실 박출률이 증가하고 심기능이 개선되었으며 흉통이 재발하지 않았다(증례).[^5] 중증 심부전 및 심근병증 환자에게 허증(虛證) 치료 목적의 보약 처방을 적용해 심기능 개선과 입원율 감소를 기대할 수 있다는 문헌 고찰도 있다.[^27]
 
 #### 14-3. 순환계 혈역학
 
@@ -194,7 +194,7 @@
 계지 계열 방제 중 임상 근거가 풍부한 처방들의 주요 근거는 다음과 같다.
 
 - **황기계지오물탕(黃芪桂枝五物湯)**: 경추 신경근증 환자의 통증(VAS)과 기능 장애(NDI)를 개선하였고(메타분석, 783명),[^4note] 옥살리플라틴 유발 말초신경 감각 독성 발생률을 단독 대조군(87.1%) 대비 병용군(64.5%)에서 유의하게 낮추고 중증도·지속기간을 감소시켰다(임상시험, 31명).[^11note] 12개 센터 무작위 이중맹검 시험에서 옥살리플라틴 유발 신경병증의 2등급 이상 발생률을 위약군(38.6%) 대비 투여군(21.3%)에서 유의하게 낮추었다(임상시험, 360명).[^53] 알부민 결합 파클리탁셀 유발 말초신경병증에서도 감각 기능 저하를 유의하게 개선하였다(임상시험, 92명).[^22note] 당뇨병성 말초신경병증 메타분석(16 RCT)에서 신경학적 증상 개선과 신경전도속도 향상이 확인되었고(메타분석, 1173명),[^15] 당뇨병성 말초신경병증에서 통증·저림·냉감을 개선하고 식후 혈당을 유의하게 낮추었다(후향 관찰연구, 30명).[^6]. 오십견(동결견) 치료에 이현탕과 병용하는 효과·안전성 평가 프로토콜도 진행되었다.[^36] 연수막 전이 비소세포폐암 환자의 페메트렉시드 초내 화학요법 유발 신경독성 감소 및 생존기간 개선도 확인되었다(임상시험, 220명).[^48]
-- **계지작약지모탕(桂枝芍藥知母湯, 계지소요지모탕)**: 류마티스관절염 환자에게 메토트렉세이트 병용 시 치료 효과를 높이고 부작용을 줄였으며(메타분석, 1224명),[^26note] 통풍 환자의 요산 수치와 염증 지표(ESR, CRP, IL-6)를 유의하게 감소시켰다(메타분석, 1056명).[^30note] 고요산혈증 환자에서 알로퓨리놀과 병용 시 단독 투여보다 효과가 우수했다(임상시험, 100명).[^38] 통풍성 관절염에서 통증(VAS)·요산·염증 지표를 유의하게 감소시켰다(메타분석, 1633명).[^46note2]
+- **계지작약지모탕(桂枝芍藥知母湯)**: 류마티스관절염 환자에게 메토트렉세이트 병용 시 치료 효과를 높이고 부작용을 줄였으며(메타분석, 1224명),[^26note] 통풍 환자의 요산 수치와 염증 지표(ESR, CRP, IL-6)를 유의하게 감소시켰다(메타분석, 1056명).[^30note] 고요산혈증 환자에서 알로퓨리놀과 병용 시 단독 투여보다 효과가 우수했다(임상시험, 100명).[^38] 통풍성 관절염에서 통증(VAS)·요산·염증 지표를 유의하게 감소시켰다(메타분석, 1633명).[^46note2]
 - **지실해백계지탕(枳實薤白桂枝湯)**: 관상동맥질환에서 혈관신생 촉진 및 항염증·지질 조절 효과가 확인되었다(임상시험, 180명).[^30]
 - **계지감초용골모려탕(桂枝甘草龍骨牡蠣湯)**: 불면증 치료에 대한 체계적 고찰 프로토콜이 등록되었고,[^19] 서양 의학적 치료 대비 수면 질(PSQI)을 유의하게 개선시키며 유효율이 더 높고 부작용 발생률은 더 낮았다(메타분석, 1164명).[^21note] 폐경 후 불면증 환자에서는 육미지황환과의 병용이 육미지황환 단독보다 수면의 질·호르몬·신경전달물질(β-EP, 5-HT) 조절, 정서 안정에 더 효과적이었다(관찰연구, 120명).[^20note]
 
@@ -297,7 +297,7 @@
 
 **Q6. 통풍·류마티스관절염에도 쓰이나요?**
 
-계지 계열 파생 방제인 계지작약지모탕(계지소요지모탕)이 통풍·류마티스관절염에서 요산·염증 지표(CRP·ESR·IL-6)를 유의하게 감소시키고 통증을 개선한 다수의 메타분석·RCT가 축적되어 있다[^26note][^30note][^46note2]. 이는 계지탕의 온통(溫通) 작용이 파생 방제를 통해 관절 비증(痺證)까지 확장 응용됨을 보여준다.
+계지 계열 파생 방제인 계지작약지모탕이 통풍·류마티스관절염에서 요산·염증 지표(CRP·ESR·IL-6)를 유의하게 감소시키고 통증을 개선한 다수의 메타분석·RCT가 축적되어 있다[^26note][^30note][^46note2]. 이는 계지탕의 온통(溫通) 작용이 파생 방제를 통해 관절 비증(痺證)까지 확장 응용됨을 보여준다.
 
 **Q7. 말초신경병증에도 효과가 있나요?**
 
@@ -318,7 +318,7 @@
 [^3]: Analysis on Syndrome and Treatment of Shaoyin Cold Type Acute Tonsillitis. Yan Tian 외. _International Journal of Clinical and Experimental Medical Sciences_. 2024-09-29. [증례 보고, 1명] [DOI 10.11648/j.ijcems.20241004.11](https://doi.org/10.11648/j.ijcems.20241004.11) — 소음한형 급성 편도염에 반하계지탕 효과적.
 [^4]: Effects of herbal medicines on menopausal symptoms induced by gonadotropin-releasing hormone agonist therapy. Tanaka T. _Clinical and experimental obstetrics & gynecology_. 2001. [관찰연구, 22명] [PMID 11332582](https://pubmed.ncbi.nlm.nih.gov/11332582/) — 계지 계열 한약 처방이 GnRH 유발 갱년기 증상 완화, 에스트라디올 무변화.
 [^4note]: Huangqi Guizhi Wuwu Decoction for treating cervical radiculopathy. Long Liang 외. _Medicine_. 2020-02. [메타분석, 783명] [DOI 10.1097/md.0000000000019137](https://doi.org/10.1097/md.0000000000019137) — 황기계지오물탕이 경추 신경근증 통증(VAS)·기능장애(NDI) 개선.
-[^5]: Integrated Traditional Chinese and Western Medicine in the Treatment of Heart Failure With Reduced Ejection Fraction Combined With Variant Angina: A Case Report. Siqi Li 외. _International Journal of Clinical Medicine and Pharmacology_. 2025-02-28. [증례 보고, 1명] [DOI 10.70731/625k6788](https://doi.org/10.70731/625k6788) — 지실사백계지탕·익기설폐탕 병용으로 심기능 개선·흉통 소실.
+[^5]: Integrated Traditional Chinese and Western Medicine in the Treatment of Heart Failure With Reduced Ejection Fraction Combined With Variant Angina: A Case Report. Siqi Li 외. _International Journal of Clinical Medicine and Pharmacology_. 2025-02-28. [증례 보고, 1명] [DOI 10.70731/625k6788](https://doi.org/10.70731/625k6788) — 지실해백계지탕·익기설폐탕 병용으로 심기능 개선·흉통 소실.
 [^5note]: The Effect of Chinese Herbal Medicine on Traumatic Anosmia: A Prospective, Randomized Clinical Trial. Rong-San Jiang 외. _The Laryngoscope_. 2023-03-24. [임상시험, 78명] [DOI 10.1002/lary.30676](https://doi.org/10.1002/lary.30676) — 계지탕 추가 투여의 후각 개선 이점이 제한적(PEA 역치 개선, TC-UPSIT 유의차 없음).
 [^6]: Efficacy of Chinese Herbal Medicine in the Treatment of Moderate-Severe Painful Diabetic Peripheral Neuropathy: A Retrospective Study. Yujiao Zheng 외. _Journal of Diabetes Research_. 2019-12-24. [관찰연구, 30명] [DOI 10.1155/2019/4035861](https://doi.org/10.1155/2019/4035861) — 가감황기계지오물탕이 당뇨병성 말초신경병증 통증·저림·냉감 개선, 혈당 조절 긍정적.
 [^7]: Effect of Kampo formulations (traditional Chinese medicine) on circulatory parameters. Xu FH 외. _Acupuncture & electro-therapeutics research_. 1999. [임상시험, 7명] [DOI 10.3727/036012999816356435](https://doi.org/10.3727/036012999816356435) [PMID 10472819](https://pubmed.ncbi.nlm.nih.gov/10472819/) — 계지탕이 수축기 혈압·일회박출량 증가; 마황탕 대비 과도한 혈압 상승 없음.

@@ -226,7 +226,7 @@
 - **통부산(通腑散)·통부혼합액** — 위장관 기능 장애 동반 급성 췌장염에 유효성·안전성을 보였고[^87], 통부혼합액은 ERCP 후 췌장염 치료에도 유효하였다[^83].
 - **대함흉탕(大陷胸湯)** — 급성 췌장염 중증도 진행을 예방하는 프로토콜 연구로 등록되었다[^102].
 - **육합단(六合丹)** — 급성 췌장염 치료의 체계적 고찰 프로토콜로 등록되었다[^94].
-- **대황목단탕(大黃牧丹湯)** — 네트워크 약리학적 기전 분석과 근거기반 의학적 검증이 수행되었다[^106].
+- **대황목단탕(大黃牡丹湯)** — 네트워크 약리학적 기전 분석과 근거기반 의학적 검증이 수행되었다[^106].
 - **사르젠트 글로리바인(빈랑) 개별화 관류 처방** — 중증 급성 췌장염 치료에 임상적으로 관찰되었다[^92].
 
 ### 3. 설비경(血必淨)주사·설세통(血塞通)주사 등 주사제
@@ -248,7 +248,7 @@
 - **효능**: 소간해울(疏肝解鬱), 화해소양(和解少陽).
 - **약리**: 대시호탕·시호승기탕·시호청기탕의 군약으로 간담습열형 췌장염의 소설(疏泄) 회복에 기여한다. [교과서적 근거]
 
-#### 4-3. 목단피(牧丹皮)·적작약(赤芍藥)
+#### 4-3. 목단피(牡丹皮)·적작약(赤芍藥)
 
 - **성미귀경**: 고신미한(苦辛微寒), 간·심·신경(목단피); 고미한(苦微寒), 간경(적작약).
 - **효능**: 청열양혈(淸熱凉血), 활혈산어(活血散瘀).
@@ -519,7 +519,7 @@
 [^103]: Therapeutic efficacy of Xuebijing injection in treating severe acute pancreatitis and its mechanisms of action: A comprehensive survey. Chen Z 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2025-05. [체계적 고찰] [DOI 10.1016/j.phymed.2025.156629](https://doi.org/10.1016/j.phymed.2025.156629) [PMID 40101453](https://pubmed.ncbi.nlm.nih.gov/40101453/) — 청이탕이 급성 췌장염 환자의 염증 지표에 미치는 영향을 평가한 메타분석에서 유효성을 보였다.
 [^104]: The efficacy and safety of Xuebijing injection as an adjunctive treatment for acute pancreatitis: Protocol for a systematic review and meta-analysis of randomized controlled trials. Tang Q 외. _Medicine_. 2020-01. [체계적 고찰] [DOI 10.1097/MD.0000000000018743](https://doi.org/10.1097/MD.0000000000018743) [PMID 31977866](https://pubmed.ncbi.nlm.nih.gov/31977866/) — 설비경주사가 급성 췌장염의 보조 치료 효능·안전성을 평가하는 체계적 고찰·메타분석 프로토콜로 등록되었다.
 [^105]: Duodenoscopy in treatment of acute gallstone pancreatitis. Zhou MQ 외. _Hepatobiliary & pancreatic diseases international : HBPD INT_. 2002-11. [임상시험] [PMID 14607696](https://pubmed.ncbi.nlm.nih.gov/14607696/) — 십이지장경을 이용한 치료가 급성 담석성 췌장염 치료에 적용되었다.
-[^106]: Network pharmacological mechanism analysis and evidence-based medical validation of Dahuang Mudan Decoction in the treatment of acute pancreatitis. Chen J 외. _Medicine_. 2024-09-13. [메타분석] [DOI 10.1097/MD.0000000000039679](https://doi.org/10.1097/MD.0000000000039679) [PMID 39287237](https://pubmed.ncbi.nlm.nih.gov/39287237/) — 대황목단탕(大黃牧丹湯)의 네트워크 약리학적 기전 분석과 근거기반 의학적 검증이 수행되었다.
+[^106]: Network pharmacological mechanism analysis and evidence-based medical validation of Dahuang Mudan Decoction in the treatment of acute pancreatitis. Chen J 외. _Medicine_. 2024-09-13. [메타분석] [DOI 10.1097/MD.0000000000039679](https://doi.org/10.1097/MD.0000000000039679) [PMID 39287237](https://pubmed.ncbi.nlm.nih.gov/39287237/) — 대황목단탕(大黃牡丹湯)의 네트워크 약리학적 기전 분석과 근거기반 의학적 검증이 수행되었다.
 [^107]: Acupuncture for gastrointestinal diseases. Li X 외. _Anatomical record (Hoboken, N.J. : 2007)_. 2023-12. [문헌 고찰] [DOI 10.1002/ar.24871](https://doi.org/10.1002/ar.24871) [PMID 35148031](https://pubmed.ncbi.nlm.nih.gov/35148031/) — 침 치료가 소화기계 질환 전반에 적용되는 기전을 개관하였다.
 [^108]: [A case of acute pancreatitis and acute hepatitis caused by ingestion of Ceramium kondoi]. Kim DB 외. _The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe chi_. 2013-11. [증례 보고] [DOI 10.4166/kjg.2013.62.5.306](https://doi.org/10.4166/kjg.2013.62.5.306) [PMID 24262598](https://pubmed.ncbi.nlm.nih.gov/24262598/) — 해조류(김 종류) 섭취로 인한 급성 췌장염·급성 간염 병발 증례가 보고되었다.
 
