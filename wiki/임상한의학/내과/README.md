@@ -16,6 +16,7 @@
 
 - 이뮨셀 요법(免疫細胞 療法, Immune Cell Therapy) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
 - 셀레늄 주사 요법(Selenium 注射 療法, Intravenous Selenium Therapy) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
+- 싸이모신 알파1 요법(Thymosin Alpha 1 Therapy, Tα1) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
 
 ## 동음이의 분류
 
