@@ -72,7 +72,7 @@
 
 - 경추 추간판장애(頸椎 椎間板障礙, Cervical Disc Disorders, M50) — **작성됨**: 추간판탈출증.md(경추부), 경추통.md
 - 기타 추간판장애(其他 椎間板障礙, Other Intervertebral Disc Disorders, M51) — **작성됨**: 추간판탈출증.md(요추부), 좌골신경통(坐骨神經痛, Sciatica).md
-- 기타 명시된 등병증(M53) — (작성 예정) 경부-두개골 증후군, 경늑골증후군, 척추 불안정성(M53.2) — 편타손상(鞭打損傷, Whiplash-Associated Disorder) 포함
+- 기타 명시된 등병증(M53) — (작성 예정) 경부-두개골 증후군, 경늑골증후군, 척추 불안정성(M53.2) — **작성됨**: 편타손상(鞭打損傷, Whiplash-Associated Disorder).md (M53.1 만성 편타성 증후군 부분)
 - 등통증(背痛, Dorsalgia, M54) — **작성됨**: 요통(腰痛, Low Back Pain).md(M54.5) · 경추통(頸椎痛, Neck Pain).md(M54.2) · 좌골신경통(坐骨神經痛, Sciatica).md(M54.3/M54.4) — M54.6(흉추부 통증)은 (작성 예정)
 
 ### 1-9. 근육 장애 (M60-M63)
@@ -148,7 +148,7 @@
 - 무릎 인대 손상(膝關節 靭帶 損傷, Knee Ligament Injury, S83.4-S83.5) — **부분 작성됨**: 무릎통증.md 하위 표제어로 반영, 전방십자인대(ACL)·측부인대 손상 독립 문서는 (작성 예정)
 - 발목염좌·만성 발목 불안정성(足關節捻挫, Ankle Sprain and Chronic Ankle Instability, S93.4) — (작성 예정) 급성 외측인대 손상·만성 불안정성에 대한 추나·프롤로테라피 근거
 - 회전근개 파열(외상성, S46.0) — **부분 작성됨**: 회전근개질환(回轉筋腱疾患, Rotator Cuff Disease).md에서 다룸
-- 편타손상(鞭打損傷, Whiplash Injury, S13.4) — (작성 예정) 교통사고 후 경추 연부조직 손상의 급성기·만성기 관리
+- 편타손상(鞭打損傷, Whiplash Injury, S13.4) — **작성됨**: 편타손상(鞭打損傷, Whiplash-Associated Disorder).md — 교통사고 후 경추 연부조직 손상의 급성기·만성기 관리, WAD 등급 분류(Quebec Task Force Classification)
 - 절단 후 재활(截肢後 再活, Post-Amputation Rehabilitation, S48/S58/S68/S78/S88/S98 + 의지장착) — (작성 예정) 환지통(幻肢痛)에 대한 침구 근거, 의지 착용 재활
 
 ## 4. 재활의학 진단·치료 방법론 총론
