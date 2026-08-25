@@ -2,132 +2,306 @@
 
 약재·단미재료 문서. 한의과대학 교과서적 표준 명칭(한글 + 한자)을 사용한다. 파일명 예: `인삼(人蔘).md`
 
-## 문서 목록
+**목차 구성 원칙**: 아래 목차는 한의과대학 공통 본초학 교재의 효능별 분류 체계(해표약解表藥부터 외용약外用藥까지 20개 대분류)를 그대로 따라 구성했다. 각 분류 아래 기존 작성 문서를 매칭하고, 해당 분류의 대표 본초 중 미작성 항목은 "(작성 예정)"으로 병기해 교과서 목차 대비 누락을 확인할 수 있게 했다. 한 본초가 여러 효능을 겸하는 경우(예: 작약 — 보혈약/청열양혈약, 지황 — 청열양혈약/보혈약) 주된 분류에 배치하고 겸하는 분류에는 텍스트로 교차 표기한다.
+
+## 1. 해표약(解表藥, Exterior-Releasing Herbs)
+
+### 1-1. 발산풍한약(發散風寒藥, Wind-Cold Dispersing)
+
+- 마황(麻黃, Ephedra)
+- 계지(桂枝, Cinnamomi Ramulus)
+- 생강(生薑, Zingiber officinale)
+- 세신(細辛, Asarum)
+- 방풍(防風, Saposhnikoviae Radix)
+- 백지(白芷, Angelicae Dahuricae Radix)
+- 형개(荊芥, Schizonepetae Herba) — (작성 예정)
+- 자소엽(紫蘇葉, Perillae Folium) — (작성 예정)
+- 향유(香薷, Elsholtziae Herba) — (작성 예정)
+- 강활(羌活, Notopterygii Rhizoma) — (작성 예정)
+- 총백(蔥白, Allii Fistulosi Bulbus) — (작성 예정)
+
+### 1-2. 발산풍열약(發散風熱藥, Wind-Heat Dispersing)
+
+- 시호(柴胡, Bupleuri Radix)
+- 갈근(葛根, Puerariae Radix)
+- 박하(薄荷, Menthae Herba) — (작성 예정)
+- 우방자(牛蒡子, Arctii Fructus) — (작성 예정)
+- 국화(菊花, Chrysanthemi Flos) — (작성 예정)
+- 승마(升麻, Cimicifugae Rhizoma) — (작성 예정)
+- 상엽(桑葉, Mori Folium) — (작성 예정)
+- 선퇴(蟬退, Cicadae Periostracum) — (작성 예정)
+
+## 2. 청열약(淸熱藥, Heat-Clearing Herbs)
+
+### 2-1. 청열사화약(淸熱瀉火藥, Fire-Purging)
+
+- 석고(石膏, Gypsum Fibrosum)
+- 지모(知母, Anemarrhenae Rhizoma)
+- 치자(梔子, Gardenia)
+- 하고초(夏枯草, Prunellae Spica) — (작성 예정)
+- 노근(蘆根, Phragmitis Rhizoma) — (작성 예정)
+
+### 2-2. 청열조습약(淸熱燥濕藥, Heat-Clearing Damp-Drying)
+
+- 황금(黃芩, Scutellariae Radix)
+- 황련(黃連, Coptidis Rhizoma)
+- 황백(黃柏, Phellodendri Cortex)
+- 용담초(龍膽草, Gentianae Radix) — (작성 예정)
+- 고삼(苦蔘, Sophorae Flavescentis Radix) — (작성 예정)
+
+### 2-3. 청열양혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
+
+- 목단피(牧丹皮, Moutan Cortex)
+- 생지황(生地黃) — 지황(地黃, Rehmannia) 문서에서 하위 표제어로 포함 **작성됨**(겸: 보혈약)
+- 현삼(玄蔘, Scrophularia buergeriana) — (작성 예정, 연호색 문서의 동음이의 부위와 혼동 주의)
+- 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
+- 서각/수우각(犀角/水牛角, Bubali Cornu) — (작성 예정)
+
+### 2-4. 청열해독약(淸熱解毒藥, Heat-Toxin Clearing)
+
+- 연교(連翹, Forsythia)
+- 금은화(金銀花, Lonicerae Flos)
+- 판람근(板藍根, Isatidis Radix) — (작성 예정)
+- 포공영(蒲公英, Taraxaci Herba) — (작성 예정)
+- 어성초(魚腥草, Houttuyniae Herba) — (작성 예정)
+- 대청엽(大靑葉, Isatidis Folium) — (작성 예정)
+
+### 2-5. 청허열약(淸虛熱藥, Deficiency-Heat Clearing)
+
+- 지골피(地骨皮, Lycii Cortex) — 구기자(枸杞子) 문서에서 하위 표제어로 포함 **작성됨**
+- 청호(靑蒿, Artemisiae Annuae Herba) — (작성 예정)
+- 백미(白薇, Cynanchi Atrati Radix) — (작성 예정)
+- 은시호(銀柴胡, Stellariae Radix) — (작성 예정)
+
+## 3. 사하약(瀉下藥, Purgative Herbs)
+
+### 3-1. 공하약(攻下藥)
+
+- 대황(大黃, Rhei Radix et Rhizoma) — (작성 예정)
+- 망초(芒硝, Natrii Sulfas) — (작성 예정)
+
+### 3-2. 윤하약(潤下藥)
+
+- 마자인(麻子仁, Cannabis Semen) — (작성 예정)
+- 욱리인(郁李仁, Pruni Semen) — (작성 예정)
+
+### 3-3. 준하축수약(峻下逐水藥)
+
+- 감수(甘遂, Kansui Radix) — (작성 예정)
+- 대극(大戟, Euphorbiae Pekinensis Radix) — (작성 예정)
+- 견우자(牽牛子, Pharbitidis Semen) — (작성 예정)
+
+## 4. 거풍습약(祛風濕藥, Wind-Damp Dispelling Herbs)
+
+- 독활(獨活, Angelicae Pubescentis Radix)
+- 위령선(威靈仙, Clematidis Radix) — (작성 예정)
+- 강활(羌活) — 1-1 발산풍한약과 중복 겸용(작성 예정)
+- 오가피(五加皮, Acanthopanacis Cortex) — (작성 예정)
+- 상기생(桑寄生, Taxilli Herba) — (작성 예정)
+- 진교(秦艽, Gentianae Macrophyllae Radix) — (작성 예정)
+
+## 5. 방향화습약(芳香化濕藥, Aromatic Damp-Transforming Herbs)
+
+- 곽향(藿香, Agastachis Herba)
+- 창출(蒼朮, Atractylodis Lanceae Rhizoma)
+- 후박(厚朴, Magnoliae Cortex) — (겸: 이기약)
+- 백두구(白豆蔲, Amomi Fructus Rotundus) — (작성 예정)
+- 사인(砂仁, Amomi Fructus) — (작성 예정)
+- 초두구(草豆蔲, Alpiniae Katsumadai Semen) — (작성 예정)
+
+## 6. 이수삼습약(利水滲濕藥, Water-Dispelling Damp-Percolating Herbs)
+
+- 복령(茯苓, Poria)
+- 택사(澤瀉, Alismatis Rhizoma)
+- 의이인(薏苡仁, Coicis Semen) — (작성 예정)
+- 저령(猪苓, Polyporus) — (작성 예정)
+- 차전자(車前子, Plantaginis Semen) — (작성 예정)
+- 인진호(茵陳蒿, Artemisiae Scopariae Herba) — (작성 예정)
+- 목통(木通, Akebiae Caulis) — (작성 예정, 관목통 아리스톨로크산 안전성 문헌은 세신 문서에서 부분 다룸)
+- 금전초(金錢草, Lysimachiae Herba) — (작성 예정)
+
+## 7. 온리약(溫裏藥, Interior-Warming Herbs)
+
+- 부자(附子, Aconiti Lateralis Radix Praeparata)
+- 건강(乾薑, Zingiberis Rhizoma)
+- 육계(肉桂, Cinnamomi Cortex) — 계지(桂枝) 문서에서 하위 표제어로 포함 **작성됨**
+- 오수유(吳茱萸, Evodiae Fructus) — (작성 예정)
+- 정향(丁香, Caryophylli Flos) — (작성 예정)
+- 소회향(小茴香, Foeniculi Fructus) — (작성 예정)
+- 화초/촉초(花椒/蜀椒, Zanthoxyli Pericarpium) — (작성 예정)
+
+## 8. 이기약(理氣藥, Qi-Regulating Herbs)
+
+- 진피(陳皮, Citri Reticulatae Pericarpium)
+- 지실(枳實, Aurantii Fructus Immaturus)
+- 향부자(香附子, Cyperi Rhizoma)
+- 대복피(大腹皮, Arecae Pericarpium)
+- 목향(木香, Aucklandiae Radix) — (작성 예정)
+- 오약(烏藥, Linderae Radix) — (작성 예정)
+- 청피(靑皮, Citri Reticulatae Viride Pericarpium) — (작성 예정)
+- 시체(柿蔕, Kaki Calyx) — (작성 예정)
+- 천련자/금령자(川楝子, Toosendan Fructus) — (작성 예정)
+
+## 9. 소식약(消食藥, Digestant Herbs)
+
+- 산사(山楂, Crataegi Fructus)
+- 신곡(神麯, Massa Medicata Fermentata) — (작성 예정)
+- 맥아(麥芽, Hordei Fructus Germinatus) — (작성 예정)
+- 나복자(蘿蔔子, Raphani Semen) — (작성 예정)
+- 계내금(鷄內金, Galli Gigerii Endothelium Corneum) — (작성 예정)
+
+## 10. 구충약(驅蟲藥, Anthelmintic Herbs)
+
+- 사군자(使君子, Quisqualis Fructus) — (작성 예정)
+- 빈랑자(檳榔子, Arecae Semen) — 대복피(大腹皮) 문서에서 동음이의 부위로 하위 표제어 포함(씨앗은 발암 위험 등 안전성 위주 서술, 구충 효능 독립 서술은 (작성 예정))
+- 고련피(苦楝皮, Meliae Cortex) — (작성 예정)
+- 관중(貫衆, Cyrtomii Rhizoma) — (작성 예정)
+
+## 11. 지혈약(止血藥, Hemostatic Herbs)
+
+- 백급(白芨, Bletillae Rhizoma) — (작성 예정)
+- 삼칠근(三七根, Notoginseng Radix) — (작성 예정)
+- 측백엽(側柏葉, Platycladi Cacumen) — (작성 예정)
+- 애엽(艾葉, Artemisiae Argyi Folium) — (작성 예정)
+- 선학초(仙鶴草, Agrimoniae Herba) — (작성 예정)
+- 포황(蒲黃, Typhae Pollen) — (작성 예정)
+
+## 12. 활혈거어약(活血祛瘀藥, Blood-Invigorating Stasis-Dispelling Herbs)
+
+- 단삼(丹蔘, Salvia miltiorrhiza)
+- 천궁(川芎, Ligusticum chuanxiong)
+- 홍화(紅花, Carthami Flos)
+- 도인(桃仁, Persicae Semen)
+- 우슬(牛膝, Achyranthis Radix)
+- 연호색(延胡索, Corydalis Rhizoma)
+- 유향(乳香, Olibanum) — (작성 예정)
+- 몰약(沒藥, Myrrha) — (작성 예정)
+- 익모초(益母草, Leonuri Herba) — (작성 예정)
+- 오령지(五靈脂, Trogopterori Faeces) — (작성 예정)
+- 강황(薑黃, Curcumae Longae Rhizoma) — (작성 예정)
+- 삼릉(三稜, Sparganii Rhizoma) — (작성 예정)
+- 아출(莪朮, Curcumae Rhizoma) — (작성 예정)
+
+## 13. 화담지해평천약(化痰止咳平喘藥, Phlegm-Transforming Cough/Asthma-Relieving Herbs)
+
+- 반하(半夏, Pinellia ternata)
+- 행인(杏仁, Semen Armeniacae Amarum)
+- 길경(桔梗, Platycodonis Radix)
+- 전호(前胡, Peucedani Radix) — (작성 예정)
+- 패모(貝母, Fritillariae Bulbus) — (작성 예정)
+- 과루인/과루실(瓜蔞仁/瓜蔞實, Trichosanthis Semen/Fructus) — (작성 예정)
+- 백부자(白附子, Typhonii Rhizoma) — (작성 예정)
+- 자완(紫菀, Asteris Radix) — (작성 예정)
+- 관동화(款冬花, Farfarae Flos) — (작성 예정, 피롤리지딘 알칼로이드 안전성 문헌은 간정맥폐쇄성질환 문서에서 부분 다룸)
+- 상백피(桑白皮, Mori Cortex) — (작성 예정)
+- 정력자(葶藶子, Descurainiae Semen) — (작성 예정)
+
+## 14. 안신약(安神藥, Spirit-Calming Herbs)
+
+### 14-1. 중진안신약(重鎭安神藥)
+
+- 용골(龍骨, Fossilia Ossis Mastodi)
+- 모려(牡蠣, Ostreae Concha)
+- 자석(磁石, Magnetitum) — (작성 예정, 기초한의학 본초학 문서와 별개로 해부학 관련 자석磁石 문서가 있을 경우 교차 참조)
+- 주사(朱砂, Cinnabaris) — (작성 예정, 수은 안전성 주의)
+
+### 14-2. 양심안신약(養心安神藥)
+
+- 산조인(酸棗仁, Ziziphi Spinosae Semen)
+- 원지(遠志, Polygalae Radix)
+- 백자인(柏子仁, Platycladi Semen) — (작성 예정)
+- 합환피(合歡皮, Albiziae Cortex) — (작성 예정)
+
+## 15. 평간식풍약(平肝熄風藥, Liver-Calming Wind-Extinguishing Herbs)
+
+- 천마(天麻, Gastrodia)
+- 조구등(釣鉤藤, Uncaria)
+- 영양각(羚羊角, Saigae Tataricae Cornu) — (작성 예정)
+- 석결명(石決明, Haliotidis Concha) — (작성 예정)
+- 지룡(地龍, Pheretima) — (작성 예정)
+- 전갈(全蝎, Scorpio) — (작성 예정)
+- 백강잠(白殭蠶, Bombyx Batryticatus) — (작성 예정)
+
+## 16. 개규약(開竅藥, Orifice-Opening Herbs)
+
+- 사향(麝香, Moschus) — (작성 예정)
+- 빙편(冰片, Borneolum) — (작성 예정)
+- 석창포(石菖蒲, Acori Tatarinowii Rhizoma) — (작성 예정, 원지 문서에서 원지·석창포 상수 배오로 부분 언급됨)
+- 소합향(蘇合香, Styrax) — (작성 예정)
+
+## 17. 보익약(補益藥, Tonifying Herbs)
+
+### 17-1. 보기약(補氣藥)
 
 - 인삼(人蔘, Panax ginseng)
-  - 하위 표제어: 백삼(白蔘) · 홍삼(紅蔘) · 인삼양영탕(人蔘養榮湯) · 발효 홍삼/발효 인삼
 - 홍삼(紅蔘, Red Ginseng)
-  - 하위 표제어: 고려홍삼(高麗紅蔘) · 발효 홍삼 · 홍삼 뿌리 부위(주근·세근) · 표준화 홍삼 추출물/분말(G1899 등)
 - 황기(黃芪, Astragalus)
-  - 하위 표제어: 황기 약침/주사액 · 황기 추출물/보충제 · 황기 포함 처방(황기계지오물탕·방기황기탕 등) · 황기 유효 성분(Astragaloside)
 - 감초(甘草, Glycyrrhiza)
-  - 하위 표제어: 감초(甘草, Glycyrrhiza uralensis) · 유럽감초(Glycyrrhiza glabra) · 작약감초탕(芍藥甘草湯) · 감초산(甘草酸) 제제 · 감초 추출물·비강 세척·구강 겔
 - 백출(白朮, Atractylodes)
-  - 하위 표제어: 백출(白朮, Atractylodes macrocephala) · 창출(蒼朮, Atractylodes lancea) · 사군자탕(四君子湯) · 육군자탕(六君子湯) · 반하백출천마탕(半夏白朮天麻湯) · 삼령백출산(蔘苓白朮散) · 칠미백출산(七味白朮散)
-- 당귀(當歸, Angelica sinensis)
-  - 하위 표제어: 당귀(當歸, Angelica sinensis) · 일당귀/참당귀(Angelica gigas) · 당귀 주사액(Angelica injection) · 당귀작약산(當歸芍藥散) · 당귀보혈탕(當歸補血湯) · 당귀사역탕(當歸四逆湯) · 당귀음자(當歸飲子) · 당귀 유효 성분(페룰산·리구스틸리드)
-- 작약(芍藥, Paeonia)
-  - 하위 표제어: 백작약(白芍藥) · 적작약(赤芍藥) · 작약감초탕(芍藥甘草湯) · 당귀작약산(當歸芍藥散) · 작약총배당체(TGP) · 작약 주사액 · 작약 유효 성분(파에오니플로린·알비플로린)
-- 반하(半夏, Pinellia ternata)
-  - 하위 표제어: 생반하(生半夏) · 법반하(法半夏) · 강반하(薑半夏) · 청반하(淸半夏) · 반하사심탕(半夏瀉心湯) · 반하후박탕(半夏厚朴湯) · 반하백출천마탕(半夏白朮天麻湯) · 반하숙미탕(半夏秫米湯) · 괄루협백반하탕(栝蔞薤白半夏湯)
-- 복령(茯苓, Poria)
-  - 하위 표제어: 복령(茯苓, Poria cocos) · 계지복령환(桂枝茯苓丸) · 복령오령반하후박탕(茯苓五苓散加半夏厚朴湯) · 복령사간탕(茯苓射干湯) · 복령탕(茯苓湯) · 방기복령탕(防己茯苓湯) · 복령택사탕(茯苓澤瀉湯)
-- 계지(桂枝, Cinnamomi Ramulus)
-  - 하위 표제어: 계지(桂枝, Cinnamomi Ramulus) · 육계(肉桂, Cinnamomi Cortex) · 계지탕(桂枝湯) · 계지복령환(桂枝茯苓丸) · 시호계지탕(柴胡桂枝湯) · 황기계지오물탕(黃芪桂枝五物湯) · 계지가출부탕(桂枝加朮附湯) · 계지작약지모탕(桂枝芍藥知母湯) · 계지감초용골모려탕(桂枝甘草龍骨牡蠣湯) · 지실해백계지탕(枳實薤白桂枝湯)
 - 대조(大棗, Jujube)
-  - 하위 표제어: 대조(大棗, Ziziphus jujuba 열매) · 감맥대조탕(甘麥大棗湯) · 귀비탕(歸脾湯)
-- 천마(天麻, Gastrodia)
-  - 하위 표제어: 천마(天麻, Gastrodia elata) · 가스트로딘 주사제(gastrodin injection) · 천마구등음(天麻鉤藤飮) · 반하백출천마탕(半夏白朮天麻湯)
-- 조구등(釣鉤藤, Uncaria)
-  - 하위 표제어: 조구등(釣鉤藤, Uncaria rhynchophylla) · 천마구등음(天麻鉤藤飮) · 억간산(抑肝散) · 조등산(釣藤散, Choto-san) · 캣츠클로(Uncaria tomentosa, 기원 식물 구분)
-- 황련(黃連, Coptidis Rhizoma)
-  - 하위 표제어: 생황련(生黃連) · 유향연(油炒黃連) · 술초황련(酒炒黃連) · 강황련(薑黃連) · 오수유파황련(吳茱萸炒黃連) · 황련해독탕(黃連解毒湯) · 반하사심탕(半夏瀉心湯) · 좌금환(左金丸) · 교태환(交泰丸) · 갈근금련탕(葛根芩連湯) · 베르베린(berberine) 단일 성분 제제 · 황련해독탕 약침(藥鍼)
-- 시호(柴胡, Bupleuri Radix)
-  - 하위 표제어: 생시호(生柴胡) · 초시호(醋柴胡) · 소시호탕(小柴胡湯) · 대시호탕(大柴胡湯) · 시호계지탕(柴胡桂枝湯) · 시호가용골모려탕(柴胡加龍骨牡蠣湯) · 소요산(逍遙散) · 사이레이토(柴苓湯, Saireito) · 시호화기탕(柴胡化氣湯)
-- 단삼(丹蔘, Salvia miltiorrhiza)
-  - 하위 표제어: 단삼(丹蔘, Salvia miltiorrhiza) · 복합단삼적환/단삼정(Compound Danshen Dripping Pill, Cardiotonic Pill) · 단삼주사액(丹蔘注射液)/단홍주사액(丹紅注射液) · 단삼 유효 성분(탄시논·단삼소·리토스페르민산) · 단삼 배합 제제(丹蔘·紅花, 丹蔘·三七)
-- 지황(地黃, Rehmannia)
-  - 하위 표제어: 생지황(生地黃) · 숙지황(熟地黃) · 육미지황환(六味地黃丸) · 팔미지황환(八味地黃丸) · 기국지황환(杞菊地黃丸) · 지백지황환(知柏地黃丸) · 지황 유효 성분/단일 제제
-- 마황(麻黃, Ephedra)
-  - 하위 표제어: 마황(麻黃) 단미·가공 · 마황탕(麻黃湯) · 소청룡탕(小青龍湯) · 사간마황탕(射干麻黃湯) · 마황부자세신탕(麻黃附子細辛湯) · 마황 함유 보충제·다이어트 제제
-- 행인(杏仁, Semen Armeniacae Amarum)
-  - 하위 표제어: 고행인(苦杏仁) · 감행인(甜杏仁) · 마행석감탕(麻杏石甘湯) · 마황탕(麻黃湯) · 삼오탕(三拗湯) · 청폐배독탕(淸肺排毒湯) · 마자인환(麻子仁丸)
-- 천궁(川芎, Ligusticum chuanxiong)
-  - 하위 표제어: 천궁(川芎) 단미·가공 · 천궁차조산(川芎茶調散) · 보양환오탕(補陽還五湯) · 천궁 제제·주사제 · 천궁 유효 성분
-- 후박(厚朴, Magnoliae Cortex)
-  - 하위 표제어: 후박(厚朴) 단미 · 반하후박탕(半夏厚朴湯) · 반하후박탕가감(加減) · 후박배기합제
-- 진피(陳皮, Citri Reticulatae Pericarpium)
-  - 하위 표제어: 진피(陳皮) 단미 · 억간산가진피반하(抑肝散加陳皮半夏) · 창부도담탕(蒼附導痰湯) · 진피통풍방(陳皮痛風方) · 병용 요법
-- 생강(生薑, Zingiber officinale)
-  - 하위 표제어: 생강(生薑) 단미 · 건강(乾薑) · 생강격구(生薑隔灸) · 생강찜질 · 생강차·시럽·추출물 · 생강 함유 처방(계지탕·소청룡탕·반하후박탕 등)
-- 건강(乾薑, Zingiberis Rhizoma)
-  - 하위 표제어: 건강(乾薑) 단미·포제(炮乾薑·炮姜) · 사역탕(四逆湯) 계열 · 시호계지건강탕(柴胡桂枝乾薑湯) · 건강 함유 처방(소청룡탕·반하사심탕·이중탕 등) · 수족냉증·한증 변증 응용
-- 황금(黃芩, Scutellariae Radix)
-  - 하위 표제어: 황금(黃芩) 단미·포제(주황금·자금·고금) · 황금탕(黃芩湯) · 황련해독탕(黃連解毒湯) · 소시호탕(小柴胡湯) · 삼황사심탕(三黃瀉心湯) · 황금 유효 성분(바이칼린·바이칼레인·우고닌·스쿠텔라린) · 황금 함유 처방(쌍황련·사이레이토·사이보쿠토·갈근금련탕 등)
-- 부자(附子, Aconiti Lateralis Radix Praeparata)
-  - 하위 표제어: 부자(附子) 단미·가공 · 신부주사(參附注射液) · 사역탕(四逆湯) · 마황부자세신탕(麻黃附子細辛湯) · 감초부자탕(甘草附子湯) · 계지가출부탕(桂枝加朮附湯) · 마부세신탕(麻附細辛湯)
-- 모려(牡蠣, Ostreae Concha)
-  - 하위 표제어: 모려(牡蠣) 단미·가공 · 시호용골모려탕(柴胡龍骨牡蠣湯) · 계지가용골모려탕(桂枝加龍骨牡蠣湯) · 시호가용골모려탕(柴胡加龍骨牡蠣湯)
-- 용골(龍骨, Fossilia Ossis Mastodi)
-  - 하위 표제어: 용골(龍骨) 단미·가공 · 시호가용골모려탕(柴胡加龍骨牡蠣湯) · 계지가용골모려탕(桂枝加龍骨牡蠣湯) · 시호용골모려탕 수정처방(TW970)
-- 곽향(藿香, Agastachis Herba)
-  - 하위 표제어: 곽향(藿香) 단미·가공 · 곽향정기산(藿香正氣散) · 곽향정기수(藿香正氣水) · 곽향정기산 병용 요법
-- 홍화(紅花, Carthami Flos)
-  - 하위 표제어: 홍화(紅花) 단미 · 홍화주사액(紅花注射液) · 단홍주사액(丹紅注射液) · 도인홍화건(桃仁紅花煎) · 홍화소요환(紅花逍遙丸) · 홍화 유효 성분(홍화황색소 A) · 홍화씨(紅花子)
-- 구기자(枸杞子, Lycii Fructus)
-  - 하위 표제어: 구기자(枸杞子) 단미 · 구기자 주스/과즙(Goji Juice) · 구기자 다당체(LBP) · 구기자 유효 성분(제아잔틴·구코아민) · 구기자 껍질(地骨皮, Lycii Cortex)
-- 독활(獨活, Angelicae Pubescentis Radix)
-  - 하위 표제어: 독활(獨活) 단미 · 독활기생탕(獨活寄生湯) · 독활기생환(獨活寄生丸) · 독활 배합 처방(독활·당귀사역탕)
-- 길경(桔梗, Platycodonis Radix)
-  - 하위 표제어: 길경(桔梗) 단미 · 길경탕(桔梗湯) · 소시호가길경석고탕(小柴胡加桔梗石膏湯) · 가위길경탕(加味桔梗湯) · 길경 유효 성분(플라티코딘)
-- 도인(桃仁, Persicae Semen)
-  - 하위 표제어: 도인(桃仁) 단미 · 도인홍화전(桃仁紅花煎) · 도홍사물탕(桃紅四物湯) · 보양환오탕(補陽還五湯) · 혈부축어탕(血府逐瘀湯) · 대황모단피탕(大黃牡丹皮湯) · 도인 유효 성분(아미그달린·지방유)
-- 갈근(葛根, Puerariae Radix)
-  - 하위 표제어: 갈근(葛根) 단미 · 갈근탕(葛根湯) · 갈근금련탕(葛根芩連湯) · 마황탕(麻黃湯) · 갈근 유효 성분(푸에라린·다이드제인·다이드진)
-- 맥문동(麥門冬, Ophiopogon)
-  - 하위 표제어: 맥문동(麥門冬) 단미·가공 · 맥문동탕(麥門冬湯) · 생맥산(生脈散) · 맥문동 함유 기타 처방·제제
-- 산조인(酸棗仁, Ziziphi Spinosae Semen)
-  - 하위 표제어: 산조인(酸棗仁) 단미·가공 · 산조인탕(酸棗仁湯) · 가미산조인탕(加味酸棗仁湯) · 산조인 함유 기타 처방·제제(천왕보심단·귀비탕·감맥대조탕·양심탕)
-- 원지(遠志, Polygalae Radix)
-  - 하위 표제어: 원지(遠志, Polygala tenuifolia) 단미·포제(감초수 초·심 제거) · 원지 추출물(BT-11) · 원지·석창포 상수 배오 · 원지 포함 처방(개심산·귀비탕·천왕보심단·억간산·인삼양영탕) · 원지 유효 성분(3,6'-disinapoylsucrose·tenuifolin·onjisaponin·polygalaxanthone III)
-- 오미자(五味子, Schisandra chinensis)
-  - 하위 표제어: 오미자(五味子) 단미·가공 · 생맥산(生脈散) · 소청룡탕(小青龍湯) · 오미자 함유 기타 처방·제제 · 오미자 유효 성분(스키산드린·고미신·리그난)
-- 세신(細辛, Asarum)
-  - 하위 표제어: 세신(細辛) 단미·품종 · 마황부자세신탕(麻黃附子細辛湯) · 소청룡탕(小青龍湯) · 황기신이탕(黃芪細辛湯) · 세신 함유 한약 부착요법·외용
-- 방풍(防風, Saposhnikoviae Radix)
-  - 하위 표제어: 방풍(防風) 단미·가공 · 방풍통성산(防風通聖散) · 옥병풍산(玉屛風散) · 독활기생탕(獨活寄生湯) · 형개·방풍(荊防) 약쌍 · 천궁·방풍·백지 배합 · 방풍 유효 성분(prim-O-glucosylcimifugin·5-O-methylvisammisoide)
-- 택사(澤瀉, Alismatis Rhizoma)
-  - 하위 표제어: 택사(澤瀉, Alisma orientale) · 택사탕(澤瀉湯) · 오령산(五苓散) · 육미지황환(六味地黃丸) · 알리솔(alisol) 계열 트리테르페노이드
-- 창출(蒼朮, Atractylodis Lanceae Rhizoma)
-  - 하위 표제어: 창출(蒼朮, Atractylodes lancea) · 백출(白朮) · 복방창출탕(復方蒼朮湯) · 아트락틸로딘(atractylodin)
-- 우슬(牛膝, Achyranthis Radix)
-  - 하위 표제어: 우슬(牛膝, Achyranthes bidentata) · 천우슬(川牛膝) · 우슬다당류(ABP) · 삼묘환(三妙丸)
-- 향부자(香附子, Cyperi Rhizoma)
-  - 하위 표제어: 향부자(香附子, Cyperus rotundus) · 초향부(醋香附) · 향부자 기름 · 가미소요산(加味逍遙散)
-- 백지(白芷, Angelicae Dahuricae Radix)
-  - 하위 표제어: 백지(白芷, Angelica dahurica) · 항지(杭白芷) · 쿠마린 계열 성분 · 백지 정유
-- 지실(枳實, Aurantii Fructus Immaturus)
-  - 하위 표제어: 지실(枳實, Citrus aurantium/Poncirus trifoliata) · 지각(枳殼) · 지실소비환(枳實消痞丸) · 지실해백계지탕(枳實薤白桂枝湯) · 대시호탕(大柴胡湯) · 온담탕(溫膽湯) · 지실 유효 성분(헤스페리딘·나린진·시네프린)
-- 목단피(牧丹皮, Moutan Cortex)
-  - 하위 표제어: 목단피(牧丹皮, Paeonia suffruticosa) 단미 · 목단피탄(牧丹皮炭, Cortex Moutan Carbonisatum) · 목단피 추출물·성분 제제(파에오놀·파에오니플로린·팔비논) · 목단피 함유 복합 처방(육미지황환·계지복령환·대황목단피탕)
-- 연교(連翹, Forsythia)
-  - 하위 표제어: 연교(連翹, Forsythia suspensa) 단미·포제(청연교·노연교) · 은교산(銀翹散) · 연교패독산(連翹敗毒散) · 형개연교탕(荊芥連翹湯) · 방풍통성산(防風通聖散) · 연교 함유 기타 처방·제제(마행석감은교산·은교삼황고·청개령) · 연교 유효 성분(포르시틴·연교사이드)
-- 치자(梔子, Gardenia)
-  - 하위 표제어: 치자(梔子, Gardenia jasminoides) 단미·포제(초치자·치자탄) · 게니포사이드(geniposide)·게니핀(genipin)·크로신(crocin) · 황련해독탕(黃連解毒湯) · 용담사간탕(龍膽瀉肝湯) · 인진호탕(茵陳蒿湯) · 소요산·가미소요산 · 방풍통성산 · 청개령(淸開靈) 주사 · 장간막 정맥경화증(안전성)
 - 산약(山藥, Dioscoreae Rhizoma)
-  - 하위 표제어: 산약(山藥, Dioscorea opposita) 단미·품종(회산약) · 산약 다당류 · 디오스게닌·디오스신·스테로이드 사포닌 · 육미지황환(六味地黃丸)·팔미지황환(八味地黃丸)·삼령백출산 · 황약자(黃藥子, 간독성 안전성 구분)
-- 황백(黃柏, Phellodendri Cortex)
-  - 하위 표제어: 황백(黃柏) 단미 · 베르베린(berberine) · 지백지황환(知柏地黃丸) · 삼묘산(三妙散)·사묘산(四妙散) · 이선탕(二仙湯) · 황백 외용 제제(황백액)
-- 금은화(金銀花, Lonicerae Flos)
-  - 하위 표제어: 금은화(金銀花) 단미 · 클로로겐산·루테올린 · 쌍황련(雙黃連) · 청개령(淸開靈) · 은화미염령(銀花泌炎靈) · 금은화 외용 제제
 - 영지(靈芝, Ganoderma lucidum)
-  - 하위 표제어: 영지 자실체·분말 · 영지 다당류(ganopoly) · 영지 포자(spore powder) · 영지 함유 복합 처방(영지+삼묘산) · 영지 추출물·보충제
-- 하수오(何首烏, Polygonum multiflorum)
-  - 하위 표제어: 하수오(何首烏) 단미 · 생하수오(生何首烏) · 제하수오(制何首烏) · 백하수오(白何首烏, Cynanchum bungei) · 하수오 유효 성분(TSG·에모딘·크리소판올) · 하수오 제제(하수오환·신오 젤라틴 캡슐·복합 하수오 추출물)
-- 산사(山楂, Crataegi Fructus)
-  - 하위 표제어: 산사(山楂) 단미 · 중국산사(Crataegus pinnatifida)·서양산사(C. monogyna/oxyacantha) · 생산사·초산사(焦山楂)·산사탄 · 산사 유효 성분(플라보노이드·프로안토시아니딘·다당류) · 산사 제제(산사환·강지편·추출 보충제)
-- 지모(知母, Anemarrhenae Rhizoma)
-  - 하위 표제어: 생지모(生知母)·염지모(鹽知母)·초지모(炒知母)·생강가공 지모(薑製知母) · 지모-황백 약쌍(知母-黃柏) · 지모-백합 약쌍(知母-百合) · 지모-석고 약쌍(知母-石膏) · 지모-황기 병용 · 계지작약지모탕(桂枝芍藥知母湯) · 지백지황환(知柏地黃丸) · 이선탕(二仙湯) · 백합지모탕(百合知母湯) · 초과지모탕(草果知母湯) · 백호가인삼탕(白虎加人蔘湯) · 지모 유효 성분(timosaponin B-II/A-III·sarsasapogenin·mangiferin) · 지모 다당체
-- 석고(石膏, Gypsum Fibrosum)
-  - 하위 표제어: 생석고(生石膏)·단석고(煅石膏) · 백호탕(白虎湯) · 마행감석탕(麻杏甘石湯) · 죽여석고탕(竹葉石膏湯) · 백호가인삼탕(白虎加人蔘湯) · 백호가계지탕(白虎加桂枝湯) · 옥녀전(玉女煎) · 석고-마황 약대(藥對) · 석고-지모 약대 · 석고-인삼 약대 · 석고-계지 약대
+- 백편두(白扁豆, Lablab Semen Album) — (작성 예정)
+- 감초 외 당삼(黨蔘, Codonopsis Radix) — (작성 예정)
+
+### 17-2. 보양약(補陽藥)
+
 - 음양곽(淫羊藿, Epimedii Herba)
-  - 하위 표제어: 음양곽(淫羊藿, *Epimedium brevicornum*) · 조선음양곽(朝鮮淫羊藿, *E. koreanum*) · 화음양곽(箭葉淫羊藿, *E. sagittatum*) · 유모음양곽(柔毛淫羊藿, *E. pubescens*) · 이카린(icariin)·이카리틴(icaritin)·이카리사이드 II(icariside II)·에피메딘 A/B/C(epimedin A/B/C) · 양지유 포제(羊脂油製) · 이선탕(二仙湯) · 보신익기탕(補腎益氣湯) · ELp 복합(음양곽·여정자·보골지)
-- 연호색(延胡索, Corydalis Rhizoma)
-  - 하위 표제어: 연호색(延胡索, *Corydalis yanhusuo*) · 엎는현호색(伏地延胡索, *C. decumbens*) · 현삼(玄蔘, *C. ternata*, *Scrophularia*와 동음이의) · 황근초(黃根草, *C. speciosa*) · 금령자산(金鈴子散) · 원호지통(元胡止痛) · 테트라하이드로팔마틴(THP) · 데하이드로코리달린(DHC) · 초제 연호색(醋製延胡索)
-- 대복피(大腹皮, Arecae Pericarpium)
-  - 하위 표제어: 대복피(大腹皮, 빈랑나무 열매 과피) · 대복모(大腹毛, 섬유상 부위) · 빈랑자(檳榔子, Arecae Semen, 씨앗, 동일 기원 식물의 동음이의 부위 구분) · 오피음(五皮飮) · 천선등산(天仙藤散) · 사마탕(四磨湯) · 소창음자(疏鑿飮子)
+- 두충(杜仲, Eucommiae Cortex) — (작성 예정)
+- 녹용(鹿茸, Cervi Cornu Pantotrichum) — (작성 예정)
+- 파극천(巴戟天, Morindae Radix) — (작성 예정)
+- 육종용(肉蓯蓉, Cistanches Herba) — (작성 예정)
+- 보골지(補骨脂, Psoraleae Fructus) — (작성 예정)
+- 토사자(菟絲子, Cuscutae Semen) — (작성 예정)
+
+### 17-3. 보혈약(補血藥)
+
+- 당귀(當歸, Angelica sinensis)
+- 작약(芍藥, Paeonia) — 백작약 위주(겸: 청열양혈 — 적작약)
+- 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 **작성됨**
+- 하수오(何首烏, Polygonum multiflorum)
+- 용안육(龍眼肉, Longan Arillus) — (작성 예정)
+- 아교(阿膠, Asini Corii Colla) — (작성 예정)
+
+### 17-4. 보음약(補陰藥)
+
+- 맥문동(麥門冬, Ophiopogon)
+- 구기자(枸杞子, Lycii Fructus)
+- 사삼/북사삼(沙蔘, Adenophorae/Glehniae Radix) — (작성 예정)
+- 옥죽(玉竹, Polygonati Odorati Rhizoma) — (작성 예정)
+- 천문동(天門冬, Asparagi Radix) — (작성 예정)
+- 백합(百合, Lilii Bulbus) — (작성 예정)
+- 여정자(女貞子, Ligustri Lucidi Fructus) — (작성 예정)
+- 별갑(鱉甲, Trionycis Carapax) — (작성 예정)
+- 귀판(龜板, Testudinis Plastrum) — (작성 예정)
+
+## 18. 수삽약(收澁藥, Astringent Herbs)
+
+- 오미자(五味子, Schisandra chinensis)
+- 산수유(山茱萸, Corni Fructus) — (작성 예정)
+- 오배자(五倍子, Galla Chinensis) — (작성 예정)
+- 육두구(肉豆蔲, Myristicae Semen) — (작성 예정)
+- 검실(芡實, Euryales Semen) — (작성 예정)
+- 연자육(蓮子肉, Nelumbinis Semen) — (작성 예정)
+- 금앵자(金櫻子, Rosae Laevigatae Fructus) — (작성 예정)
+- 상표초(桑螵蛸, Mantidis Ootheca) — (작성 예정)
+
+## 19. 용토약(涌吐藥, Emetic Herbs)
+
+- 과체(瓜蔕, Melo Pedicellus) — (작성 예정)
+- 상산(常山, Dichroae Radix) — (작성 예정)
+- 담반(膽礬, Chalcanthitum) — (작성 예정)
+
+## 20. 외용 및 기타 약(外用藥·其他, External Use and Miscellaneous Herbs)
+
+- 웅황(雄黃, Realgar) — (작성 예정, 비소 화합물 안전성 주의)
+- 백반(白礬, Alumen) — (작성 예정)
+- 노회(蘆薈, Aloe) — (작성 예정)
+- 마전자(馬錢子, Strychni Semen) — (작성 예정, 스트리크닌 안전성 주의)
+- 사상자(蛇床子, Cnidii Fructus) — (작성 예정)
 
 ## 동음이의 분류
 
 - `인삼(人蔘)`은 약재명으로, 식물종명 `Panax ginseng`를 가리킨다. 가공·제형에 따른 백삼·홍삼 구분은 별도 문서(홍삼(紅蔘))와 하위 표제어로 다룬다.
-- `현삼(玄蔘)`은 두 가지 기원을 가진 동음이의어이다. 본초학의 현삼(玄蔘, *Scrophularia buergeriana*)과 연호색속 근연종인 *Corydalis ternata*의 한국명이 같아 혼동의 소지가 있으므로, 기원 식물 학명을 반드시 병기한다. 본 문서에서는 *C. ternata*를 연호색(延胡索)의 하위 표제어로 다룬다.
+- `현삼(玄蔘)`은 두 가지 기원을 가진 동음이의어이다. 본초학의 현삼(玄蔘, *Scrophularia buergeriana*, 2-3 청열양혈약)과 연호색속 근연종인 *Corydalis ternata*의 한국명이 같아 혼동의 소지가 있으므로, 기원 식물 학명을 반드시 병기한다. 본 문서군에서는 *C. ternata*를 연호색(延胡索)의 하위 표제어로 다룬다.
+- `작약(芍藥)`은 백작약(보혈약)과 적작약(청열양혈약)으로 효능이 갈리는 동일 속(*Paeonia*) 이물(異物) 관계이므로, 처방 배오 시 반드시 어느 쪽인지 구분해 서술한다.
