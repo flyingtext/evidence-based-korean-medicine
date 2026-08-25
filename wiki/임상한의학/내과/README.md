@@ -19,6 +19,7 @@
 - 싸이모신 알파1 요법(Thymosin Alpha 1 Therapy, Tα1) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
 - 글루타치온 주사 요법(Glutathione 注射 療法, Intravenous Glutathione Therapy) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
 - 고용량 비타민 요법(高用量 비타민 療法, High-Dose Vitamin Therapy) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
+- 고주파온열치료(高周波溫熱治療, Radiofrequency Hyperthermia Therapy) — 특정 오장 하위분류가 아닌 범장부·통합종양학 주제로 내과 최상위에 배치
 
 ## 동음이의 분류
 
