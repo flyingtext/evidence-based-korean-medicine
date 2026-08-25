@@ -115,7 +115,7 @@
 ### 2-4. 기타 귀 장애 (H90-H95)
 
 - 전음성 및 감각신경성 난청(傳音性·感覺神經性 難聽, Conductive and Sensorineural Hearing Loss, H90) — 난청(難聽, Hearing Loss).md **작성됨**
-- 기타 청력손실(其他 聽力損失, Other Hearing Loss, H91) — 난청(難聽, Hearing Loss).md에 포함 **작성됨** — 이독성 난청(H91.0)·노인성 난청(H91.1)·돌발성 난청(H91.2)
+- 기타 청력손실(其他 聽力損失, Other Hearing Loss, H91) — 난청(難聽, Hearing Loss).md에 포함 **작성됨** — 이독성 난청(H91.0)·노인성 난청(H91.1)은 난청 문서에 포함, 돌발성 난청(H91.2)은 돌발성 난청(突發性 難聽, Sudden Sensorineural Hearing Loss).md **작성됨**(골든타임·스테로이드 프로토콜·고압산소치료·KCD 질환군 6단 각론 심화 서술)
 - 이통 및 이루(耳痛·耳漏, Otalgia and Otorrhea, H92) — (작성 예정)
 - 기타 귀 장애(其他 耳障礙, Other Disorders of Ear, H93) — 이명(耳鳴, Tinnitus).md(H93.1) **작성됨** — 청각과민(H93.2)·청신경 장애(H93.3)는 (작성 예정)
 - 기타 분류된 질환에서의 귀 장애(H94) — (작성 예정)
