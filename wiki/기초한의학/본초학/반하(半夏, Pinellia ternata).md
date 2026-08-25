@@ -75,7 +75,8 @@
 [^12]: Comparison of the effects of hange-shashin-to and rikkunshi-to on human plasma calcitonin gene-related peptide. 실험연구, DOI: [10.1248/bpb.26.1104](https://doi.org/10.1248/bpb.26.1104).
 [^15]: Efficacy and safety of Banxia-Houpo-Tang (Banha-Hubak-Tang) for depression: a systematic review and meta-analysis. 메타분석, DOI: [10.1016/j.ctcp.2023.101769](https://doi.org/10.1016/j.ctcp.2023.101769).
 [^16]: Efficacy and safety of hangekobokuto (Banxia-houpo-tang) in treating panic disorder. 관찰연구, DOI: [10.1002/tkm2.1348](https://doi.org/10.1002/tkm2.1348).
-[^17]: The traditional Chinese medicine banxia houpo tang improves swallowing reflex in elderly. 임상시험, DOI: [10.1016/S0944-7113(99)80043-9](https://doi.org/10.1016/S0944-7113(99)80043-9).[^18]: Prokinetic effect of a Kampo medicine, Hange-koboku-to (Banxia-houpo-tang). 임상시험, DOI: [10.1016/j.phymed.2005.03.001](https://doi.org/10.1016/j.phymed.2005.03.001).
+[^17]: The traditional Chinese medicine banxia houpo tang improves swallowing reflex in elderly. 임상시험, DOI: [10.1016/S0944-7113(99)80043-9](https://doi.org/10.1016/S0944-7113(99)80043-9).
+[^18]: Prokinetic effect of a Kampo medicine, Hange-koboku-to (Banxia-houpo-tang). 임상시험, DOI: [10.1016/j.phymed.2005.03.001](https://doi.org/10.1016/j.phymed.2005.03.001).
 [^19]: Effects of Hange-koboku-to on neuropeptide levels in human plasma and saliva. 임상시험, DOI: [10.1248/bpb.26.1609](https://doi.org/10.1248/bpb.26.1609).
 [^20]: A Double-Blind Randomized Controlled Trial to Determine the Preventive Effect of Hange-koboku-to on aspiration pneumonia after cardiac surgery. 임상시험, DOI: [10.5761/atcs.oa.19-00128](https://doi.org/10.5761/atcs.oa.19-00128).
 [^23]: Bukuryoingohangekobokuto may improve recurrent aspiration pneumonia in patients with brain injury. 증례, DOI: [10.4103/jfmpc.jfmpc_1627_20](https://doi.org/10.4103/jfmpc.jfmpc_1627_20).
