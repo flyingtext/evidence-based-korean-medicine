@@ -124,6 +124,8 @@
   - 하위 표제어: 음양곽(淫羊藿, *Epimedium brevicornum*) · 조선음양곽(朝鮮淫羊藿, *E. koreanum*) · 화음양곽(箭葉淫羊藿, *E. sagittatum*) · 유모음양곽(柔毛淫羊藿, *E. pubescens*) · 이카린(icariin)·이카리틴(icaritin)·이카리사이드 II(icariside II)·에피메딘 A/B/C(epimedin A/B/C) · 양지유 포제(羊脂油製) · 이선탕(二仙湯) · 보신익기탕(補腎益氣湯) · ELp 복합(음양곽·여정자·보골지)
 - 연호색(延胡索, Corydalis Rhizoma)
   - 하위 표제어: 연호색(延胡索, *Corydalis yanhusuo*) · 엎는현호색(伏地延胡索, *C. decumbens*) · 현삼(玄蔘, *C. ternata*, *Scrophularia*와 동음이의) · 황근초(黃根草, *C. speciosa*) · 금령자산(金鈴子散) · 원호지통(元胡止痛) · 테트라하이드로팔마틴(THP) · 데하이드로코리달린(DHC) · 초제 연호색(醋製延胡索)
+- 대복피(大腹皮, Arecae Pericarpium)
+  - 하위 표제어: 대복피(大腹皮, 빈랑나무 열매 과피) · 대복모(大腹毛, 섬유상 부위) · 빈랑자(檳榔子, Arecae Semen, 씨앗, 동일 기원 식물의 동음이의 부위 구분) · 오피음(五皮飮) · 천선등산(天仙藤散) · 사마탕(四磨湯) · 소창음자(疏鑿飮子)
 
 ## 동음이의 분류
 
