@@ -55,7 +55,7 @@
 
 - 주의력결핍과다행동장애(注意力缺損多動障碍, ADHD, KCD-8: F90) — 주의력결핍과다행동장애(注意力缺損多動障碍, ADHD).md **작성됨** — 하위 표제어: 주의력 결핍 주도형(F90.0) · 과잉행동 주도형(F90.1) · 혼합형(F90.2) · 기타(F90.8) · 상세불명(F90.9)
 - 자폐스펙트럼장애(自閉스펙트럼障礙, Autism Spectrum Disorder, KCD-8: F84) — (작성 예정) 신경정신과 폴더 §1-9(F80-F89)와 교차 참조
-- 틱장애 및 뚜렛증후군(Tic Disorders and Tourette Syndrome, KCD-8: F95) — (작성 예정) 신경정신과 폴더 §1-10(F90-F98)과 교차 참조
+- 틱장애 및 뚜렛증후군(Tic Disorders and Tourette Syndrome, KCD-8: F95) — 틱장애(Tic Disorders).md **작성됨** — 하위 표제어: 일과성 틱장애(F95.0) · 만성 운동 또는 음성 틱장애(F95.1) · 뚜렛증후군(F95.2) · ADHD 동반형 · 강박장애 동반형 · PANDAS 관련형
 - 소아 학습장애(學習障礙, Learning Disability, KCD-8: F81) — (작성 예정)
 - 소아 뇌전증(小兒 癲癎, Childhood Epilepsy, KCD-8: G40) — (작성 예정) 신경정신과 폴더 §2-6(G40-G47)과 교차 참조
 - 열성경련(熱性痙攣, Febrile Seizure, KCD-8: R56.0) — (작성 예정) 소아 응급, 침구 개입의 안전성 한계 명시 필요
