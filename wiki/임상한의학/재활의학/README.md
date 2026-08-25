@@ -16,7 +16,7 @@
 ### 1-2. 염증성 다발관절병증 (M05-M14)
 
 - 류마티스관절염(類風濕關節炎, Rheumatoid Arthritis, M05-M06) — **작성됨**: 류마티스관절염(類風濕關節炎, Rheumatoid Arthritis).md — 하위 표제어: 혈청양성 RA(M05) · 혈청음성 RA(M06.0) · 활동기/급성기 RA(M05/M06) · 중·말기 RA(M05/M06) · 음허락열형 RA(M05/M06)
-- 건선성 및 장병성 관절병증(乾癬性·腸病性 關節病症, Psoriatic and Enteropathic Arthropathies, M07) — (작성 예정) 건선관절염(M07.0-M07.3)·염증성장질환 동반 관절염(M07.4-M07.6)
+- 건선성 및 장병성 관절병증(乾癬性·腸病性 關節病症, Psoriatic and Enteropathic Arthropathies, M07) — **작성됨**: 건선성및장병성관절병증(乾癬性·腸病性 關節病症, Psoriatic and Enteropathic Arthropathies).md — 건선관절염(M07.0-M07.3)·염증성장질환 동반 관절염(M07.4-M07.6)
 - 소아기 관절염(小兒期 關節炎, Juvenile Arthritis, M08) — **작성됨**: 소아기관절염(小兒期 關節炎, Juvenile Arthritis).md — 하위 표제어: 전신형 sJIA(M08.2) · 다관절형 RF양성(M08.0) · 다관절형 RF음성(M08.3) · 소수관절형(M08.4) · 건선성 관절염(M08.8/M09.0) · 부착부염 관련형(M08.1) · 미분류형(M08.8/M08.9)
 - 소아기 관절병증(기타 분류)(M09) — (작성 예정)
 - 통풍(痛風, Gout, M10) — **작성됨**(임상한의학/내과/신계 폴더): 통풍(痛風, Gout).md — 급성 통풍성 관절염·만성 결절성 통풍, 습열비(濕熱痺) 변증과 식이 관리
