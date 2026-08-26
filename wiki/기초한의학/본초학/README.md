@@ -184,17 +184,49 @@
 
 ## 13. 화담지해평천약(化痰止咳平喘藥, Phlegm-Transforming Cough/Asthma-Relieving Herbs)
 
+### 13-1. 온화한담약(溫化寒痰藥, Warm-Transforming Cold-Phlegm Herbs)
+
 - 반하(半夏, Pinellia ternata)
-- 행인(杏仁, Semen Armeniacae Amarum)
-- 길경(桔梗, Platycodonis Radix)
-- 전호(前胡, Peucedani Radix) — (작성 예정)
-- 패모(貝母, Fritillariae Bulbus) — (작성 예정)
-- 과루인/과루실(瓜蔞仁/瓜蔞實, Trichosanthis Semen/Fructus) — (작성 예정)
 - 백부자(白附子, Typhonii Rhizoma) — (작성 예정)
+- 천남성(天南星, Arisaematis Rhizoma) — (작성 예정)
+- 자소자(紫蘇子, Perillae Fructus) — (작성 예정)
+- 백개자(白芥子, Sinapis Albae Semen) — (작성 예정)
+- 귤홍(橘紅, Citri Exocarpium Rubrum) — (작성 예정)
+
+### 13-2. 청화열담약(淸化熱痰藥, Heat-Clearing Phlegm-Transforming Herbs)
+
+- 패모(貝母, Fritillariae Bulbus) — (작성 예정)
+- 과루실(瓜蔞實, Trichosanthis Fructus) — (작성 예정)
+- 죽여(竹茹, Bambusae Caulis in Taeniam) — (작성 예정)
+- 죽력(竹瀝, Bambusae Succus) — (작성 예정)
+- 천축황(天竺黃, Bambusae Concretio Silicea) — (작성 예정)
+- 해부석(海浮石, Pumex) — (작성 예정)
+- 곤포(昆布, Laminariae Thallus) — (작성 예정)
+- 해조(海藻, Sargassum) — (작성 예정)
+
+### 13-3. 윤조화담약(潤燥化痰藥, Moistening-Dryness Phlegm-Transforming Herbs)
+
+- 과루인(瓜蔞仁, Trichosanthis Semen) — (작성 예정)
+- 백합(百合, Lilii Bulbus) — 17-4 보음약과 중복 겸용(작성 예정)
+- 천문동(天門冬, Asparagi Radix) — 17-4 보음약과 중복 겸용(작성 예정)
+- 맥문동(麥門冬, Ophiopogon) — 17-4 보음약과 중복 겸용(작성됨)
+
+### 13-4. 온폐지해평천약(溫肺止咳平喘藥, Warm-Lung Cough/Asthma-Relieving Herbs)
+
+- 행인(杏仁, Semen Armeniacae Amarum)
 - 자완(紫菀, Asteris Radix) — (작성 예정)
 - 관동화(款冬花, Farfarae Flos) — (작성 예정, 피롤리지딘 알칼로이드 안전성 문헌은 간정맥폐쇄성질환 문서에서 부분 다룸)
+- 백부(百部, Stemonae Radix) — (작성 예정)
+- 마황(麻黃) — 1-1 발산풍한약과 중복 겸용(작성 예정)
+
+### 13-5. 청폐지해평천약(淸肺止咳平喘藥, Clear-Lung Cough/Asthma-Relieving Herbs)
+
+- 길경(桔梗, Platycodonis Radix)
+- 전호(前胡, Peucedani Radix) — (작성 예정)
 - 상백피(桑白皮, Mori Cortex) — (작성 예정)
 - 정력자(葶藶子, Descurainiae Semen) — (작성 예정)
+- 마발(馬勃, Lasiosphaera seu Calvatia) — (작성 예정)
+- 파두(巴豆, Crotonis Fructus) — (작성 예정)
 
 ## 14. 안신약(安神藥, Spirit-Calming Herbs)
 
