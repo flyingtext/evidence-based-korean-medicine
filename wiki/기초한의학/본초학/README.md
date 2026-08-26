@@ -11,7 +11,7 @@
 - 마황(麻黃, Ephedra)
 - 계지(桂枝, Cinnamomi Ramulus)
 - 자소엽(紫蘇葉, Perillae Folium)
-- 형개(荊芥, Schizonepetae Herba) — (작성 예정)
+- 형개(荊芥, Schizonepetae Herba)
 - 강활(羌活, Notopterygii Rhizoma) — (작성 예정)
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
