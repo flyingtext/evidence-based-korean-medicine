@@ -72,7 +72,7 @@
 | 경로 | 주요 구성 | 활성 산물 | 기능 |
 | --- | --- | --- | --- |
 | **고전경로 (Classical)** | C1q·C1r·C1s → C4·C2 | C4b2a (C3 전환효소) | 항원-항체 복합체 인식 |
-| **대체경로 (Alternative)** | C3b·B因子·D因子·P因子 | C3bBb (C3 전환효소) | 표면 자발 활성·증폭 |
+| **대체경로 (Alternative)** | C3b·Factor B·Factor D·Properdin | C3bBb (C3 전환효소) | 표면 자발 활성·증폭 |
 | **레크틴경로 (Lectin)** | MBL·MASP-1/2 → C4·C2 | C4b2a | 당쇄 패턴 인식 |
 | **공통 종말경로** | C5·C6·C7·C8·C9 | C5a·C5b-9 (MAC) | MAC 세포 용해·염증 |
 | **조절 단백질** | C1-INH·C4BP·Factor H·Factor I·CD55·CD59·vitronectin | — | 보체 과활성 억제 |
