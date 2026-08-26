@@ -403,7 +403,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 
 #### ② 병인병기
 
-담음중조·신양허(腎陽虧虛)·간양상항·수습범람(水濕泛濫)이 주요 병기로 논의되며[^114], 오행상 신(腎)-수(水)의 기화 실조와 관련된 것으로 해석된다[교과서적 근거]. 신양허·담음형 메니에르병에 백회 투구법을 적용한 임상 경험도 보고된다[교과서적 근거].
+담음중조·신양허(腎陽虛)·간양상항·수습범람(水濕泛濫)이 주요 병기로 논의되며[^114], 오행상 신(腎)-수(水)의 기화 실조와 관련된 것으로 해석된다[교과서적 근거]. 신양허·담음형 메니에르병에 백회 투구법을 적용한 임상 경험도 보고된다[교과서적 근거].
 
 #### ③ 병태생리
 
@@ -411,7 +411,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 
 #### ④ 치료
 
-**진단·치료 지침**: 바라니 학회 등의 진단 기준[^59], 일본평형의학회 지침[^60], AAO-HNS 2020 지침 해설[^61]이 표준 진료의 근거를 제공한다. 젠타마이신 고실 내 주입이 현훈 조절에 가장 강력하나 청력손실 위험이 있고, 스테로이드는 완만하나 안전성이 높다는 것이 우산 고찰의 결론이며, 침 치료는 병용 시 보조적 개선에 도움될 수 있으나 근거 수준이 낮다[^62]. 메니에르병 침구 치료의 취혈은 복잡계 네트워크 분석에서 백회-풍지, 백회-내관 조합이 빈번히 활용됨이 확인되었다[^64]. 메니에르병 침 치료 메타분석에서 침은 어지럼증·이명·이충만감·청력 손실 개선에 서양의학적 단독 치료보다 더 효과적일 수 있으나 청력·DHI 개선 근거는 부족하고 연구 질이 낮다[^7][^67]. 고려산(五苓散)은 현훈 빈도를 줄이는 데 효과적이고 안전했으나 청력 개선에는 유의 효과가 없었다[^8]. 시령탕·ATP·ISO는 베타히스틴 단독보다 어지럼증 조절에 우수하고 내림프 수종 부피를 감소시켰다[^27]. taVNS+베타히스틴 병용은 이명·어지럼·이충만감·청력 지표를 개선했다[^9]. 부항은 난치성 메니에르병에서 증상 빈도·강도를 유의하게 감소시켰다[^10]. 가감진무탕+태충혈 침 병용은 단독·양약 치료보다 현훈 증상 개선에 우수했다[^114]. 삼치통수(三七通瘀) 캡슐은 이성 현훈에서 베타히스틴과 유사한 효과·안전성(DHI 개선)을 보였다[^134]. 경추·턱관절 부위 약침이 만성 난치성 메니에르병 증례에서 개선을 보인 보고도 있다[^11]. 전정재활 관점에서는 회전 운동을 이용한 재활치료가 일측성 메니에르 증후군 환자의 전정척수 기능과 주관적 어지럼 증상을 유의하게 개선시켰다[^122]. 침·뜸의 메니에르병 급성기·만성기 유익성을 정리한 별도의 체계적 고찰도 있다[^31].
+**진단·치료 지침**: 바라니 학회 등의 진단 기준[^59], 일본평형의학회 지침[^60], AAO-HNS 2020 지침 해설[^61]이 표준 진료의 근거를 제공한다. 젠타마이신 고실 내 주입이 현훈 조절에 가장 강력하나 청력손실 위험이 있고, 스테로이드는 완만하나 안전성이 높다는 것이 우산 고찰의 결론이며, 침 치료는 병용 시 보조적 개선에 도움될 수 있으나 근거 수준이 낮다[^62]. 메니에르병 침구 치료의 취혈은 복잡계 네트워크 분석에서 백회-풍지, 백회-내관 조합이 빈번히 활용됨이 확인되었다[^64]. 메니에르병 침 치료 메타분석에서 침은 어지럼증·이명·이충만감·청력 손실 개선에 서양의학적 단독 치료보다 더 효과적일 수 있으나 청력·DHI 개선 근거는 부족하고 연구 질이 낮다[^7][^67]. 오령산(五苓散)은 현훈 빈도를 줄이는 데 효과적이고 안전했으나 청력 개선에는 유의 효과가 없었다[^8]. 시령탕·ATP·ISO는 베타히스틴 단독보다 어지럼증 조절에 우수하고 내림프 수종 부피를 감소시켰다[^27]. taVNS+베타히스틴 병용은 이명·어지럼·이충만감·청력 지표를 개선했다[^9]. 부항은 난치성 메니에르병에서 증상 빈도·강도를 유의하게 감소시켰다[^10]. 가감진무탕+태충혈 침 병용은 단독·양약 치료보다 현훈 증상 개선에 우수했다[^114]. 삼칠통어(三七通瘀) 캡슐은 이성 현훈에서 베타히스틴과 유사한 효과·안전성(DHI 개선)을 보였다[^134]. 경추·턱관절 부위 약침이 만성 난치성 메니에르병 증례에서 개선을 보인 보고도 있다[^11]. 전정재활 관점에서는 회전 운동을 이용한 재활치료가 일측성 메니에르 증후군 환자의 전정척수 기능과 주관적 어지럼 증상을 유의하게 개선시켰다[^122]. 침·뜸의 메니에르병 급성기·만성기 유익성을 정리한 별도의 체계적 고찰도 있다[^31].
 
 #### ⑤ 예후
 
@@ -594,7 +594,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 
 #### ④ 치료
 
-반하백출천마탕은 자율신경 기능 이상·균형 불안정·불안·수면 저하를 동반한 환자군에서 치료 반응률이 높았으며[^20], 정서자유기법(EFT) 병행 파일럿 연구가 진행 중이다[^21]. 공진단(宮辰丹)은 메니에르병·심인성 어지럼 등 다양한 원인의 만성 어지럼에 대한 효과·안전성·비용효과성을 검증하는 프로토콜이 진행되었고[^111], 자음건비탕(滋陰健脾湯)은 만성 주관적 어지럼에서 산화스트레스와 코르티솔·아드레날린·세로토닌 등 스트레스호르몬 불균형을 개선하는 것으로 확인되었다[^112]. 만성 어지럼에 대한 침 치료의 RCT 프로토콜도 등록되어 있다[^110]. 비약물 중재 간 네트워크 메타분석은 PPPD의 균형·불안 개선에서 신경조절술(neuromodulation)이 인지행동치료·전정재활치료보다 상대적으로 우수했으나, 우울 증상 개선에 대한 근거는 아직 부족하고 포함 연구의 전반적 근거 수준이 낮다고 정리한다[^131] — 이는 PPPD가 단일 중재보다 다학제 병용 접근을 필요로 함을 시사한다.
+반하백출천마탕은 자율신경 기능 이상·균형 불안정·불안·수면 저하를 동반한 환자군에서 치료 반응률이 높았으며[^20], 정서자유기법(EFT) 병행 파일럿 연구가 진행 중이다[^21]. 공진단(拱辰丹)은 메니에르병·심인성 어지럼 등 다양한 원인의 만성 어지럼에 대한 효과·안전성·비용효과성을 검증하는 프로토콜이 진행되었고[^111], 자음건비탕(滋陰健脾湯)은 만성 주관적 어지럼에서 산화스트레스와 코르티솔·아드레날린·세로토닌 등 스트레스호르몬 불균형을 개선하는 것으로 확인되었다[^112]. 만성 어지럼에 대한 침 치료의 RCT 프로토콜도 등록되어 있다[^110]. 비약물 중재 간 네트워크 메타분석은 PPPD의 균형·불안 개선에서 신경조절술(neuromodulation)이 인지행동치료·전정재활치료보다 상대적으로 우수했으나, 우울 증상 개선에 대한 근거는 아직 부족하고 포함 연구의 전반적 근거 수준이 낮다고 정리한다[^131] — 이는 PPPD가 단일 중재보다 다학제 병용 접근을 필요로 함을 시사한다.
 
 #### ⑤ 예후
 
@@ -731,7 +731,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 
 **Q3. 메니에르병에 어떤 한약을 쓸 수 있나요?**
 
-고려산(五苓散)은 현훈 빈도를 줄이는 데 효과적이고 안전했으나 청력 개선에는 유의 효과가 없었습니다[^8]. 시령탕(SAI)·ATP·ISO는 베타히스틴 단독보다 어지럼증 조절에 우수하고 내림프 수종 부피를 감소시켰습니다[^27]. 침·약침·부항·taVNS를 표준 치료와 병용하는 통합적 접근이 증상 완화에 도움이 될 수 있습니다[^7][^9][^10].
+오령산(五苓散)은 현훈 빈도를 줄이는 데 효과적이고 안전했으나 청력 개선에는 유의 효과가 없었습니다[^8]. 시령탕(SAI)·ATP·ISO는 베타히스틴 단독보다 어지럼증 조절에 우수하고 내림프 수종 부피를 감소시켰습니다[^27]. 침·약침·부항·taVNS를 표준 치료와 병용하는 통합적 접근이 증상 완화에 도움이 될 수 있습니다[^7][^9][^10].
 
 **Q4. BPPV(이석증)에도 한의학적 치료가 도움이 되나요?**
 
@@ -766,7 +766,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 [^5]: Effectiveness of Ryokeijutsukanto in the Treatment of Benign Paroxysmal Positional Vertigo (BPPV). Goto F 외. _Cureus_. 2025-07. [관찰연구] DOI: [10.7759/cureus.87161](https://doi.org/10.7759/cureus.87161) PMID: [40755656](https://pubmed.ncbi.nlm.nih.gov/40755656/) — 영계출감탕이 BPPV 주관적 증상·순응도 개선.
 [^6]: Complex Korean Medicine Treatment for a Patient with Benign Paroxysmal Positional Vertigo and Qi Deficiency: A Case Report. 증례, 1명. DOI: [10.22246/jikm.2025.46.5.1086](https://doi.org/10.22246/jikm.2025.46.5.1086). 기허 BPPV에 보중익기탕+추나가 개선.
 [^7]: Efficacy and safety of acupuncture in the treatment of Meniere's disease: a systematic review and meta-analysis. Tang M 외. _Frontiers in medicine_. 2024. [메타분석] DOI: [10.3389/fmed.2024.1463821](https://doi.org/10.3389/fmed.2024.1463821) PMID: [39722819](https://pubmed.ncbi.nlm.nih.gov/39722819/) — 침이 메니에르병 증상 개선.
-[^8]: Effectiveness of Goreisan in Ménière's Disease. Koda Y. _Cureus_. 2025-07. [관찰연구] DOI: [10.7759/cureus.88643](https://doi.org/10.7759/cureus.88643) PMID: [40861534](https://pubmed.ncbi.nlm.nih.gov/40861534/) — 고려산이 현훈 빈도 감소·안전.
+[^8]: Effectiveness of Goreisan in Ménière's Disease. Koda Y. _Cureus_. 2025-07. [관찰연구] DOI: [10.7759/cureus.88643](https://doi.org/10.7759/cureus.88643) PMID: [40861534](https://pubmed.ncbi.nlm.nih.gov/40861534/) — 오령산이 현훈 빈도 감소·안전.
 [^9]: Meniere Disease treated with transcutaneous auricular vagus nerve stimulation combined with betahistine Mesylate: A randomized controlled trial. Wu D 외. _Brain stimulation_. [임상시험] DOI: [10.1016/j.brs.2023.10.003](https://doi.org/10.1016/j.brs.2023.10.003) PMID: [37838094](https://pubmed.ncbi.nlm.nih.gov/37838094/) — taVNS 병용이 개선.
 [^10]: Cupping Therapy as a Potential Complimentary Treatment for Meniere's Disease: A Case Report. Jamal TS 외. _Cureus_. 2024-03. [증례 보고] DOI: [10.7759/cureus.55864](https://doi.org/10.7759/cureus.55864) PMID: [38595880](https://pubmed.ncbi.nlm.nih.gov/38595880/) — 부항이 난치성 메니에르병 개선.
 [^11]: A Case of Chronic Meniere's Disease Improved by Korean Medicine Treatment Including Pharmacoacupuncture of Cervical and Temporomandibular Area. Dong-Joo Kim 외. _Journal of Korean Medicine_. 2023-09-01. [증례 보고] DOI: [10.13048/jkm.23038](https://doi.org/10.13048/jkm.23038) — 경추·턱관절 약침이 개선.
@@ -891,7 +891,7 @@ PPPD는 급성 전정 사건(전정신경염·BPPV 등) 이후 위협에 대한 
 [^131]: Comparative efficacy of non-pharmacological interventions for persistent postural-perceptual dizziness: a systematic review and network meta-analysis of balance, anxiety, and depression outcomes. Shen J 외. _Journal of neurology_. 2026-06-04. [메타분석] [DOI 10.1007/s00415-026-13891-1](https://doi.org/10.1007/s00415-026-13891-1) [PMID 42240653](https://pubmed.ncbi.nlm.nih.gov/42240653/) — PPPD 비약물 중재 네트워크메타분석. 신경조절술이 균형·불안 개선에서 CBT·전정재활보다 상대적 우위, 우울 개선 근거는 부족.
 [^132]: Relationship between vestibular loss and the risk of dementia using the 2002-2019 national insurance service survey in South Korea. Lim SJ 외. _Scientific reports_. 2023-10-05. [관찰연구] [DOI 10.1038/s41598-023-42598-w](https://doi.org/10.1038/s41598-023-42598-w) [PMID 37798321](https://pubmed.ncbi.nlm.nih.gov/37798321/) — 전정기능 상실이 치매 발생위험 증가와 연관(한국 국민건강보험 코호트, 234만여명).
 [^133]: [Controlled observation on electroacupuncture plus rehabilitation training for treatment of central vestibular disequilibrium syndrome]. Zhao H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-02. [임상시험] [PMID 16541851](https://pubmed.ncbi.nlm.nih.gov/16541851/) — 중추성 전정불균형증후군에 전침+재활훈련 병용이 재활 단독보다 균형·자세안정성 개선.
-[^134]: [Clinical effectiveness and safety of sanchi tong shu capsule in the treatment of aural vertigo: a multi-center randomized controlled clinical trial]. Meng J 외. _Journal of clinical otorhinolaryngology head and neck surgery_. 2012-04. [임상시험] [PMID 22737868](https://pubmed.ncbi.nlm.nih.gov/22737868/) — 삼치통수 캡슐이 이성현훈에서 베타히스틴과 유사한 효과·안전성(DHI 개선).
+[^134]: [Clinical effectiveness and safety of sanchi tong shu capsule in the treatment of aural vertigo: a multi-center randomized controlled clinical trial]. Meng J 외. _Journal of clinical otorhinolaryngology head and neck surgery_. 2012-04. [임상시험] [PMID 22737868](https://pubmed.ncbi.nlm.nih.gov/22737868/) — 삼칠통어 캡슐이 이성현훈에서 베타히스틴과 유사한 효과·안전성(DHI 개선).
 [^135]: Virtual Reality for Vestibular Rehabilitation: A Systematic Review. Xie M 외. _Otology & neurotology_. 2021-08-01. [체계적 고찰] [DOI 10.1097/MAO.0000000000003155](https://doi.org/10.1097/MAO.0000000000003155) [PMID 33782257](https://pubmed.ncbi.nlm.nih.gov/33782257/) — 가상현실(VR) 기반 전정재활이 기존 방법 대비 예비적 유익 가능성, 표준화 결과지표 부족은 한계.
 [^136]: Research and development directions in vestibular rehabilitation: a bibliometric analysis. Li C 외. _Frontiers in rehabilitation sciences_. 2026. [체계적 고찰] [DOI 10.3389/fresc.2026.1735847](https://doi.org/10.3389/fresc.2026.1735847) [PMID 42339053](https://pubmed.ncbi.nlm.nih.gov/42339053/) — 전정재활훈련(VRT)이 어지럼 완화·시선안정화·자세제어 개선의 필수 치료법. 일측 전정저하·전정신경염에서 맞춤형 중재 가치가 높음.
 
