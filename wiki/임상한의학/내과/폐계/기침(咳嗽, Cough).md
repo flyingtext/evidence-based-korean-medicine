@@ -45,6 +45,19 @@
 
 감기·급성/만성 기관지염·천식(CVA 포함)·COPD·폐렴·역류성 식도염(GERC)·상기도기침증후군(UACS)·약물(ACE 억제제) 관련 기침·심부전·폐암·특발성 폐섬유증(IPF)·결핵 등을 감별해야 한다[교과서적 근거]. 객혈·호흡곤란·고열을 동반하거나 8주 이상 지속되는 기침은 반드시 기질적 원인(폐렴·결핵·종양)을 배제해야 한다[교과서적 근거]. 특발성 폐섬유증(IPF) 환자에서도 기침이 삶의 질을 심각하게 저하시키는 핵심 증상으로, 표준 치료(피르페니돈·닌테다닙)에 중약을 보조적으로 병용해 증상과 삶의 질 개선을 도모하려는 체계적 고찰·메타분석이 다수 등록되어 있어[^134][^136][^142], 만성 기침 환자에서 청진상 나음(velcro rale)·곤봉지 등 IPF 시사 소견이 있으면 흉부 고해상도 CT로 조기 감별해야 한다.
 
+#### 4-5. 위험 신호(Red Flag) 목록
+
+| 위험 신호 | 시사 질환 | 조치 |
+| --- | --- | --- |
+| 객혈 | 폐암, 결핵, 기관지확장증 | 즉시 흉부영상·전문의 의뢰 |
+| 호흡곤란·흉통 동반 | 폐렴, 기흉, 폐색전, 심부전 | 응급 평가 |
+| 고열 지속(>3일) | 세균성 폐렴, 부비동염 | 항생제 필요성 평가 |
+| 체중 감소·야간발한 | 결핵, 악성종양 | 결핵 검사, 영상·조직검사 |
+| 흡연력·50세 이상 신규 만성 기침 | 폐암 | 흉부 CT 고려 |
+| 연하곤란·쉰 목소리 | 후두·식도 병변, 역류 | 이비인후과·소화기 협진 |
+| 소아 이물 흡인 의심(급격한 발병, 편측 천명) | 기도이물 | 응급 기관지경 검사 |
+| 면역저하 상태에서의 발열성 기침 | 기회감염, 비정형 폐렴 | 광범위 검사·격리 고려 |
+
 **이 감별 목록은 임상 진단의 틀이며, 개별 환자의 최종 진단은 영상·검사·전문의 평가를 통해 확정해야 한다.**
 
 ---
@@ -103,6 +116,21 @@
 
 소아 만성 기침 환자를 대상으로 한 합성곱신경망(CNN) 기반 설상(舌象) 분석 연구에서 딥러닝 알고리즘이 소아 기침의 변증·중증도를 객관적으로 평가할 가능성이 제시되어, 주관적 설진을 보완하는 진단 보조 도구로서의 잠재력을 보여주었다[^106].
 
+#### 6-4. 폐-장 축(肺-腸軸)과 장내미생물
+
+최근 감염후기침 소아를 대상으로 한 무작위 대조 시험에서 사백증액탕(瀉白增液湯)이 장내 미생물 조성·점막 면역을 조절하며 기침 완화 효과를 함께 나타내어[^13], 「폐여대장상표리(肺與大腸相表裏)」라는 전통 장부상관 이론이 장-폐 축(gut-lung axis)이라는 현대적 개념과 접점을 가질 수 있음을 시사한다. 이는 단일 연구에 기반한 가설적 해석이며, 추가적인 다기관 검증이 필요하다.
+
+#### 6-5. 원인 병원체별 개관 — 급성·감염후기침
+
+| 병원체군 | 대표 질환 | 임상적 특징 |
+| --- | --- | --- |
+| 바이러스(리노바이러스·코로나바이러스 등) | 감기, 급성 기관지염 | 대부분 자연 호전, 항생제 불필요 |
+| 마이코플라스마 폐렴균 | 소아 마이코플라스마 폐렴 | 아지스로마이신 표준, 중약 병용 근거 축적[^109][^113] |
+| 백일해균 등 세균 | 백일해양 기침, 세균성 기관지염 | 발작성 기침, 항생제 반응 |
+| SARS-CoV-2 | COVID-19, 코로나19 후 만성 기침 | 신경병증성 기침 가능[^103] |
+
+**병원체 확인은 서양의학적 진단·치료의 영역이며, 한의학적 변증(풍한·풍열 등)과 병행하여 참고한다.**
+
 ---
 
 ## 제3편 변증(辨證)
@@ -124,6 +152,20 @@
 
 **이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.** 실제 임상에서는 두 개 이상의 변증이 겸협되어 나타나는 경우가 많으며, 단일 변증으로 환원하기보다 주증·겸증·설맥을 종합해 개별화하는 것이 원칙이다.
 
+### 7-1. 변증별 임상 해설
+
+**풍한습폐**는 찬 기운이 폐위(肺衛)를 막 침습한 초기 상태로, 최근 냉기 노출·감기 초기력이 확인되며 맑고 묽은 가래가 특징이다. 소청룡탕·삼요탕 등 신온해표제를 단기간 사용하는 것이 원칙이며, 발한 과다 시 조기 감량한다[교과서적 근거].
+
+**풍열범폐**는 인후통·발열이 두드러지고 가래가 누렇고 걸쭉하다. 급성 상기도감염의 흔한 표현형으로, 수풍해독캡슐·연화청온 등 청열해독 계열 중성약의 근거가 상대적으로 풍부하다[^81][^138].
+
+**담습온폐**와 **담열울폐**는 모두 가래가 많다는 공통점이 있으나, 담습은 백니태(白膩苔)·유활맥(濡滑脈)을 동반하는 한습(寒濕) 양상이고 담열은 황니태(黃膩苔)·활삭맥(滑數脈)을 동반하는 열상(熱象) 양상이다. 감별의 핵심은 가래 색과 설태 색이다[교과서적 근거].
+
+**간화범폐**는 정서 자극(스트레스·분노) 후 기침이 뚜렷이 악화되는 것이 특징으로, 역류관련만성기침(GERC)·심인성 기침과 감별이 필요하다. 항역류 치료 반응군에서 신경성 염증지표가 함께 개선된 관찰[^101]은 간화범폐-역류의 병기적 연관성을 뒷받침하는 간접 근거로 볼 수 있다.
+
+**폐음휴허**는 만성·감염후기침에서 흔히 관찰되며, 마른기침·야간 악화·목건이 핵심이다. 맥문동탕 계열의 인간 대상 근거가 이 변증군에 가장 풍부하게 축적되어 있다[^7][^8][^18][^20].
+
+**폐기허한**과 **비허담습**은 반복되는 감기·잦은 재발성 기침에서 흔하며, 옥병풍산·육군자탕 계열의 보익(補益) 처방이 적용된다. **신불납기**는 고령·만성 폐질환 동반 기침에서 동작성 호흡곤란을 겸하는 경우 고려한다[교과서적 근거].
+
 ### 8. 변증 감별표와 실무 순서
 
 | 감별 대상 | 공통점 | 감별점 |
@@ -133,6 +175,17 @@
 | 간화범폐 vs 담열울폐 | 흉민, 설홍 | 간화는 정서 자극 후 악화·구고가 특징적, 담열은 가래 성상이 주 소견 |
 | 폐음휴허 vs 폐기허한 | 만성 기침, 반복성 | 음허는 조열·도한·설소태, 기허한은 자한·오풍·설담태백 |
 | 비허담습 vs 신불납기 | 만성·소아 및 고령 | 비허는 소화기 증상 동반, 신불납기는 동작성 호흡곤란·요슬산연 |
+
+#### 8-0. 만성 기침 4대 원인 질환 간 감별표(서양의학적 축)
+
+| 질환 | 공통점 | 감별 단서 | 확진 검사 |
+| --- | --- | --- | --- |
+| 상기도기침증후군(UACS) | 만성 기침, 인후 이물감 | 후비루감, 잦은 헛기침·목가다듬기 | 비강 스테로이드 반응, 부비동 CT |
+| 기침변이형천식(CVA) | 만성 기침, 야간 악화 가능 | 냉기·운동·알레르겐 유발, 천명 없음 | 메타콜린 유발검사, FeNO[^100] |
+| 역류관련만성기침(GERC) | 만성 기침, 식후 악화 가능 | 속쓰림·신물(없을 수도 있음), 와위 악화 | 위내시경, pH 모니터링[^101] |
+| 감염후기침(PIC) | 만성 기침, 감염력 | 최근 상기도감염 병력, 3~8주 이내 | 배제진단(영상 정상) |
+
+**네 질환은 동시에 중첩될 수 있으며(예: UACS+GERC), 한 가지 원인 치료에 반응이 부족하면 다른 원인의 동반 여부를 재평가해야 한다.**
 
 #### 8-1. 감별의 실무 순서
 
@@ -173,6 +226,19 @@
 
 **이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.**
 
+#### 9-1. 배오(配伍)의 원칙 — 좌사(佐使) 가감
+
+| 원칙 | 근거 명제 | 배오 | 적응 |
+| --- | --- | --- | --- |
+| 佐以健脾 | 脾爲生痰之源, 肺爲貯痰之器 | 백출·복령·산약 | 비허담습, 가래 다량 |
+| 佐以養陰 | 肺爲嬌臟, 喜潤惡燥 | 맥문동·사삼·오미자 | 폐음휴허, 마른기침 |
+| 佐以淸肝瀉火 | 木火刑金 | 상백피·황금·치자 | 간화범폐, 정서 악화 |
+| 佐以降逆和胃 | 胃氣上逆犯肺 | 반하·황련·자소엽 | 역류관련기침, 오심 겸증 |
+| 佐以收斂肺氣 | 過散傷正 | 오미자·백작약 | 마황·세신 등 발산약 남용 방지 |
+| 佐以安神 | 久咳擾心 | 산조인·백자인 | 야간 기침으로 인한 수면장애 |
+
+**배오 원칙은 방제학의 구조적 틀이며[교과서적 근거], 개별 처방의 실제 가감은 변증·환자 상태에 따라 조정한다.**
+
 ### 10. 대표방 방해(方解)와 근거
 
 #### 10-1. 맥문동탕(麥門冬湯)
@@ -195,6 +261,17 @@
 
 월비가출탕(越婢加朮湯)은 상기도기침증후군(UACS)으로 인한 만성 기침에 대한 유효성·안전성·경제성 평가 RCT 프로토콜이 진행 중이며[^23], 청상보하탕(淸上補下湯)은 COVID-19 후 신경병증성 특성의 만성 기침에 한약·침·뜸 복합 치료로 기침 빈도·강도 감소와 삶의 질 개선을 보인 증례가 보고되었다[^24][^103]. 오적산(五積散)·생맥산(生脈散) 병용은 역류 관련 만성 기침에 대한 파일럿 이중맹검 RCT에서 안전성과 타당성이 확인되었다[^42][^43].
 
+#### 10-6. 대표방 군신좌사(君臣佐使) 비교
+
+| 방제 | 군(君) | 신(臣) | 좌(佐) | 사(使) | 방의 요약 |
+| --- | --- | --- | --- | --- | --- |
+| 맥문동탕 | 맥문동 | 인삼, 갱미 | 반하 | 감초, 대조 | 자음윤폐하며 반하로 강역, 인삼·갱미·감초로 익위생진 |
+| 소청룡탕 | 마황, 계지 | 세신, 건강 | 반하, 오미자 | 작약, 감초 | 신온해표와 온폐화음을 겸하되 오미자·작약으로 수렴해 과도한 발산을 제어 |
+| 반하사심탕 | 반하 | 황금, 황련 | 건강, 인삼, 대조 | 감초 | 신개고강으로 비위 승강을 회복시켜 담음·비증(痞證)을 함께 다스림 |
+| 지수산 | 백부, 자원 | 형개, 길경 | 진피, 백전 | 감초 | 화담지해하며 형개·길경으로 소표선폐를 겸함 |
+
+**이 표는 방제학 교과서적 방해(方解)를 정리한 것으로[교과서적 근거], 개별 임상 근거는 §10-1~10-4의 각주를 참조한다.**
+
 ### 11. 본초 각론
 
 | 본초 | 주요 배속 방제 | 작용 | 근거 |
@@ -207,10 +284,16 @@
 | 황금(黃芩) | 반하사심탕, 청금화담탕 | 청폐화담열 | [^3] |
 | 백부(百部) | 지수산 | 윤폐하기지해, 살충 | [^141] |
 | 자원(紫菀)·관동화(款冬花) | 지수산, 사간마황탕 계열 | 화담지해, 강기 | [교과서적 근거] |
-| 황기(黃芪) | 옥병풍산, 황기세신탕 | 보폐익기고표, CVA 재발 방지 | [^62][^65] |
-| 세신(細辛) | 소청룡탕, 황기세신탕 | 온폐화음, 통규 | [^62][^65] |
+| 황기(黃芪) | 옥병풍산, 황기세신탕 | 보폐익기고표, CVA 재발 방지 | [^62][^64] |
+| 세신(細辛) | 소청룡탕, 황기세신탕 | 온폐화음, 통규 | [^62][^64] |
+| 상백피(桑白皮) | 사백산 | 사폐평천, 이수소종 | [교과서적 근거] |
+| 지골피(地骨皮) | 사백산 | 청허열, 사폐화 | [교과서적 근거] |
+| 진피(陳皮) | 이진탕, 삼자양친탕 | 이기화담, 조습 | [교과서적 근거] |
+| 복령(茯苓) | 이진탕, 육군자탕 | 건비삼습, 화담지원 제거 | [교과서적 근거] |
+| 인삼(人蔘) | 맥문동탕, 육군자탕, 반하사심탕 | 대보원기, 익폐건비 | [^3][^8] |
+| 오수유(吳茱萸)·황련(黃連) 배오 | 좌금환 계열, 간화범폐 겸협 시 | 청간강역, 화위지구 | [교과서적 근거] |
 
-**본초 용량·배오는 변증에 따라 조정하며, 이 표는 임상 참고 틀이지 개별 처방의 근거수준을 대체하지 않는다.**
+**본초 용량·배오는 변증에 따라 조정하며, 이 표는 임상 참고 틀이지 개별 처방의 근거수준을 대체하지 않는다. 마황·세신 등 발산력이 강한 본초는 임신부·심혈관질환자에서 특히 신중해야 한다.**
 
 ### 12. 침구 취혈과 배혈(配穴)
 
@@ -230,6 +313,20 @@
 
 역류관련만성기침에서는 독맥의 배부 구간을 자극하는 침 치료가 오메프라졸 단독 대비 RDQ 점수·기침 증상·LCQ 점수 개선에서 더 우월한 결과를 보였고[^40], 통독선폐강역법에 기반한 혈위매선요법도 라베프라졸 대비 유의한 개선을 보였다[^41]. **배혈은 변증(한열허실)에 따라 가감하며, 관행적 고정 처방침은 권장하지 않는다.**
 
+#### 12-1. 증상별 배혈 조합표
+
+| 주증상 | 기본 배혈 | 가혈 |
+| --- | --- | --- |
+| 가래 다량(담습) | 폐수, 척택, 풍륭(豊隆, ST40) | 음릉천(陰陵泉, SP9) |
+| 인후 소양감(매핵기 경향) | 천돌, 조해(照海, KI6) | 열결(列缺, LU7) |
+| 정서 자극 후 악화(간화) | 태충(太衝, LR3), 기문(期門, LR14) | 합곡(合谷, LI4) |
+| 야간 악화(음허) | 태연, 조해 | 신수(腎兪, BL23) |
+| 위식도 역류 동반 | 지양(至陽, GV9), 내관(內關, PC6) | 족삼리, 중완(中脘, CV12) |
+| 소아 반복성 기침(폐비기허) | 폐수, 비수(脾兪, BL20) | 족삼리(뜸 병행) |
+
+**이 배혈표는 임상 참고 틀이며, 변증·경락 진단 없이 고정 조합을 반복 사용하는 것은 권장하지 않는다.**
+
+
 ### 13. 금기와 안전 원칙 — 치료 총론
 
 - 마황 함유 처방(소청룡탕 등)은 음허다한·고혈압·심계항진 환자에서 신중히 투여하며, 투여 후 호흡기 증상 악화 시 약물 유발 간질성 폐렴 가능성을 고려한다[^29][^30].
@@ -245,7 +342,14 @@
 
 #### 14-1. 급성 기침 (Acute Cough)
 
-**① KCD-8 코드**: R05(기침), J00(급성 비인두염), J06(급성 상기도감염), J20(급성 기관지염)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| R05 | 기침 |
+| J00 | 급성 비인두염(감기) |
+| J06 | 급성 상기도감염, 상세불명 부위 |
+| J20 | 급성 기관지염 |
 
 **② 병인병기**: 풍한(風寒)·풍열(風熱) 외사가 폐위(肺衛)를 침습하여 폐기가 선발되지 못하고 상역한다[교과서적 근거]. 대부분 3주 이내 자연 호전되나, 세균 중복감염·기저 호흡기질환이 있으면 지연될 수 있다.
 
@@ -259,7 +363,13 @@
 
 #### 14-2. 아급성 기침 (Subacute Cough)
 
-**① KCD-8 코드**: R05(기침), J20.9(상세불명 급성 기관지염 후유)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| R05 | 기침 |
+| J20.9 | 상세불명의 급성 기관지염 |
+| J40 | 상세불명의 기관지염, 급성 또는 만성으로 명시되지 않음 |
 
 **② 병인병기**: 외사는 물러갔으나 폐기가 완전히 회복되지 못한 「사거정미부(邪去正未復)」 상태로, 여사(餘邪)가 인후·폐에 남아 기침이 지속된다[교과서적 근거]. 담습이 남아 있으면 가래를 동반하고, 음액이 손상되면 마른기침·인후 소양감이 지속된다.
 
@@ -273,7 +383,15 @@
 
 #### 14-3. 만성 기침 (Chronic Cough, 상기도기침증후군 포함)
 
-**① KCD-8 코드**: R05.3(만성 기침), J31(만성 비염·비인두염·인두염), J32(만성 부비동염)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| R05.3 | 만성 기침 |
+| J31 | 만성 비염, 비인두염 및 인두염 |
+| J31.0 | 만성 비염 |
+| J32 | 만성 부비동염 |
+| J42 | 상세불명의 만성 기관지염 |
 
 **② 병인병기**: 오랜 기침으로 폐·비·신 삼장의 정기가 소모되어 폐기허한·폐음휴허·비허담습·신불납기 등 허증 또는 허실 겸협 양상을 보인다[교과서적 근거]. 간화범폐형은 정서 자극 후 악화되는 것이 특징이다.
 
@@ -287,7 +405,14 @@
 
 #### 14-4. 기침변이형천식 (Cough Variant Asthma, CVA)
 
-**① KCD-8 코드**: J45.-(천식), R05(기침)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| J45 | 천식 |
+| J45.0 | 주로 알레르기성 천식 |
+| J45.9 | 상세불명의 천식 |
+| R05 | 기침(주증상으로서) |
 
 **② 병인병기**: 담음(痰飮)이 기도에 잠복하고 폐기가 상역하는 「복담(伏痰)」 병기가 기저이며, 풍한·풍열 유발 인자에 노출 시 발작적으로 악화된다[교과서적 근거]. 기허혈어(氣虛血瘀) 변증이 HIF-1α 유전자 다형성과 연관되어 폐 기능 저하에 영향을 미친다는 관찰연구가 있다[^19].
 
@@ -301,7 +426,13 @@
 
 #### 14-5. 감염후기침 (Postinfectious Cough, PIC)
 
-**① KCD-8 코드**: R05(기침), J20.9(상세불명 급성 기관지염)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| R05 | 기침 |
+| J20.9 | 상세불명의 급성 기관지염(감염후기침의 선행 질환) |
+| B34 | 상세불명 부위의 바이러스감염(원인 병원체 표시) |
 
 **② 병인병기**: 풍한 또는 풍한습폐가 완전히 해소되지 못하고 인후·폐에 잔류하여(「肺風寒停留」) 기침이 3~8주 지속된다[교과서적 근거].
 
@@ -315,7 +446,14 @@
 
 #### 14-6. 역류관련만성기침 (Gastroesophageal Reflux-related Chronic Cough, GERC)
 
-**① KCD-8 코드**: K21(위식도역류병), R05(기침)
+**① KCD-8 코드**
+
+| 코드 | 명칭 |
+| --- | --- |
+| K21 | 위식도역류병 |
+| K21.0 | 식도염을 동반한 위식도역류병 |
+| K21.9 | 식도염을 동반하지 않은 위식도역류병 |
+| R05 | 기침(역류 관련) |
 
 **② 병인병기**: 간기범위(肝氣犯胃)·간화범폐(肝火犯肺)로 위기(胃氣)가 강(降)하지 못하고 상역하여 폐를 침범하는 것이 핵심 병기다[교과서적 근거]. 식후·와위(臥位)에서 악화되는 것이 특징적이다.
 
@@ -327,6 +465,19 @@
 
 **⑥ 관리**: 식후 눕지 않기, 야식·자극성 음식 회피, 체중 관리 등 생활 관리를 병행하며[교과서적 근거], 위장관 증상이 뚜렷하지 않은 GERC는 한의 진료에서 간과되기 쉬우므로 문진에서 역류 연관 단서를 적극적으로 확인해야 한다[^45].
 
+### 14-7. KCD 질환군별 근거수준 요약표
+
+| 질환군 | 최고 근거수준 문헌 | 대표 치료 | 대표 환자수 | 핵심 각주 |
+| --- | --- | --- | --- | --- |
+| 급성 기침 | 코크란 체계적 고찰[^78], 메타분석 5,131명[^79] | 외용고약, 백유과립, 탄열청주사 | 5,131 | [^2][^22][^79] |
+| 아급성 기침 | 임상시험 94명[^95] | 건비제습탕+소청룡탕 병용 | 94 | [^95] |
+| 만성 기침(UACS 포함) | 메타분석 2,835명[^5], 체계적 고찰 1,355명[^31] | 침 관련 요법, 중약(UACS) | 2,835 | [^5][^16][^31] |
+| 기침변이형천식(CVA) | 메타분석 1,237명[^9], 929명[^67] | 혈위요법, 침 치료, 수황지해캡슐 | 1,237 | [^9][^67][^61] |
+| 감염후기침(PIC) | 메타분석 573명[^49], 체계적 고찰[^4] | 소황지해캡슐, 자화온폐과립 계열 | 573 | [^4][^49][^55] |
+| 역류관련만성기침(GERC) | 메타분석 1,235명[^37], 390명[^17] | 침 치료, 오적산·생맥산 병용 | 1,235 | [^37][^17] |
+
+**이 요약표는 문헌 탐색을 돕는 색인이며, 개별 근거의 질(무작위 배정·눈가림·표본 규모)을 직접 확인하지 않고 인용해서는 안 된다.**
+
 ---
 
 ### 15. 소아 폐렴·기관지염 동반 기침 — 중약주사제·경구 중성약 병용 근거
@@ -334,6 +485,20 @@
 소아 폐렴·기관지폐렴·마이코플라스마 폐렴은 기침이 핵심 증상이며, 항생제(아지스로마이신 등) 단독 치료에 한약을 병용하는 임상 연구가 다수 축적되어 있다. 한약 병용은 소아 폐렴에서 총 유효율을 높이고 기침·발열·수포음 등 임상 증상 및 흉부 영상 소견을 개선하며 입원 기간을 단축시킬 가능성이 있으나, 근거 확실성이 낮아 대규모 위약 대조 이중맹검 연구가 필요하다(체계적 고찰, 1,824명)[^107]. 폐렴 회복기 소아에서도 한약 단독·병용이 유효율을 높이고 기침·수포음 소실 시간과 입원 기간을 단축시켰다(메타분석, 2,241명)[^110].
 
 마이코플라스마 폐렴(MPP)에서는 다수의 경구 중성약·중약주사제가 아지스로마이신 병용 시 대조군보다 우수한 결과를 보였다. 소아소적지객경구액(Xiao'er Xiaoji Zhike)은 기침·폐침윤 소실 시간 단축과 유효율 향상에 기여했고(메타분석, 1,500명)[^109], 7종 중약주사제 병용을 비교한 베이지안 네트워크 메타분석(15,014명)에서는 천화녕(川花寧) 주사가 임상 유효율, 연화녕(蓮花寧) 주사가 기침·발열·폐음영 소실 시간, 청개령(淸開靈) 주사가 입원 기간 단축에서 각각 우수한 경향을 보였다[^111]. 희염평(希炎平) 주사는 아지스로마이신 병용 시 총 유효율·해열·기침소실·X선 회복·입원기간 단축과 함께 이상반응 감소도 확인되었다(메타분석, 963·2,881명, 2건)[^113][^119]. 중약 경구액 병용에 대한 베이지안 네트워크 메타분석(6,410명)에서는 소아소적지객경구액이 치료반응률·폐포수포음 개선에, 포지람소염이 기침·발열 완화에 상대적으로 우수했다[^114]. 쌍황련(雙黃連) 제제 병용도 치료반응률과 기침·발열·수포음 개선을 앞당겼으나 근거 확실성은 낮았다(메타분석, 2,884명)[^115]. 소아 기관지폐렴에서 중약주사제 병용의 베이지안 네트워크 메타분석(21,917명)은 희신뇌(稀莶腦)·연화녕 주사가 특히 유효율·증상 개선 시간 단축에 잠재력을 보인다고 보고했다[^116]. 영아 폐렴에서는 칼륨탈수안드로그라폴리드숙신산(PDS) 주사가 유효율을 높이고 해열·기침 완화 시간을 단축시켰다(메타분석, 1,056명)[^117]. 14종 경구 중성약을 비교한 네트워크 메타분석과 추가 주사제 메타분석에서도 증상별 우수 제제가 각각 제시되어(0·2,881명, 2건)[^118][^120], 임상에서는 환자의 주 증상(발열·기침·수포음·입원기간)에 따라 개별화된 선택이 필요함을 시사한다. 기관지염 국소 치료로는 중약 약물 도포(경혈 첩부)가 양방 치료보다 총 유효율이 높고 증상 지속 시간을 단축시켰으며, 폐수(肺兪)·단중(膻中)·천돌(天突)에 풍한분산약·진해평천약을 사용하는 방식이 임상적으로 활용되고 있다(핵심지표 메타분석)[^112]. 비중증 지역사회 획득 폐렴 성인 환자에서는 마행곽교과립(麻杏藿香顆粒)을 표준 용량으로 병용했을 때 위약 대비 14일차 완치율이 유의하게 높았고(68.97% vs 30.78%) 기침·가래 회복 시간이 단축되었다(임상시험, 96명)[^25]. 소아 마이코플라스마 폐렴에서는 연화청각정(連花淸咳錠)을 표준 치료에 병용했을 때 주요 증상 소실률(85.9% vs 65.6%)과 기침·가래 완화율이 유의하게 높았다(임상시험, 160명)[^26].
+
+| 중약주사제/경구액 | 병용 대상 감염 | 우수 지표 | 근거 |
+| --- | --- | --- | --- |
+| 천화녕(川花寧) 주사 | 소아 MPP | 임상 유효율 | [^111] |
+| 연화녕(蓮花寧) 주사 | 소아 MPP | 기침·발열·폐음영 소실 시간 | [^111] |
+| 청개령(淸開靈) 주사 | 소아 MPP | 입원 기간 단축 | [^111] |
+| 희염평(希炎平) 주사 | 소아 MPP | 총 유효율·해열·기침소실·이상반응 감소 | [^113][^119] |
+| 소아소적지객경구액 | 소아 MPP | 치료반응률·폐포수포음 개선 | [^114] |
+| 포지람소염경구액 | 소아 MPP | 기침·발열 완화 | [^114] |
+| 쌍황련(雙黃連) 제제 | 소아 MPP | 치료반응률·기침·발열·수포음 개선(근거 확실성 낮음) | [^115] |
+| 희신뇌(稀莶腦) 주사 | 소아 기관지폐렴 | 유효율·증상 개선 시간 단축 | [^116] |
+| 칼륨탈수안드로그라폴리드숙신산(PDS) 주사 | 영아 폐렴 | 유효율, 해열·기침 완화 시간 | [^117] |
+
+**개별 중약주사제의 비교우위는 네트워크 메타분석의 순위확률(SUCRA)에 기반한 상대적 경향으로, 직접비교(head-to-head) RCT가 아니므로 절대적 우열로 해석하지 않는다.**
 
 소아 기침에 대한 비약물적 요법으로는 소아 추나(Tui Na)가 7세 미만 소아의 기침 지속 기간을 단축시키고 병행 치료 시 재발률을 유의하게 낮추었으며(메타분석, 1,502명)[^12], 관련 체계적 고찰·메타분석 프로토콜도 등록되어 근거가 지속적으로 축적되고 있다[^108].
 
@@ -384,6 +549,32 @@
 
 **이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 개별 환자의 약물 상호작용·기왕력을 반드시 확인해야 한다.**
 
+#### 19-1. 주요 한약-양약 상호작용 주의 사항
+
+| 한약(본초/처방) | 병용 양약 | 주의 사항 |
+| --- | --- | --- |
+| 마황(에페드린 함유) | 테오필린, MAO 억제제, 강심배당체 | 중추신경 흥분·부정맥 위험 상승 가능성[교과서적 근거] |
+| 감초 다량 함유 처방 | 이뇨제, 강심배당체 | 저칼륨혈증·부종 위험, 장기 투여 시 혈압 모니터링 필요[교과서적 근거] |
+| 시호 함유 처방 | 면역억제제, 인터페론 | 드물게 약물유발 폐렴 보고[^30] |
+| 소청룡탕 등 마황계 | 스테로이드 흡입제 | 병용 자체는 안전하나 호흡기 증상 악화 시 원인 감별 필요[^29] |
+| 오적산·생맥산 | 양성자펌프억제제(PPI) | 병용 시 안전성·타당성이 파일럿 RCT로 확인됨[^42][^43] |
+| 중약주사제 전반 | 항생제(아지스로마이신 등) | 병용 근거는 많으나 개별 제제의 알레르기 반응 가능성 확인 필요[^113] |
+
+**이 표는 일반적 주의사항을 정리한 것으로, 개별 환자의 전체 복용 약물 목록을 확인한 뒤 상호작용을 재평가해야 한다.**
+
+#### 19-2. 주요 근거의 효과크기 요약
+
+| 중재 | 대조군 대비 효과크기 | 근거 |
+| --- | --- | --- |
+| 백유과립(급성 기관지염) | 기침 소실률 72.22% vs 35.19% | [^22] |
+| 마행곽교과립(비중증 CAP) | 14일차 완치율 68.97% vs 30.78% | [^113] |
+| 연화청각정(소아 MPP) | 주요 증상 소실률 85.9% vs 65.6% | [^114] |
+| 개량 무통 맥립화농구(CVA) | 1개월 추적 유효율 95.7% | [^11] |
+| 가감 사간마황탕(소아 CVA) | 유효율 86.07% vs 42.67%(몬테루카스트) | [^73] |
+| UACS 만성 기침 비중(일본 코호트) | 전체 만성 기침의 최소 60% | [^34] |
+
+**개별 RCT의 효과크기는 연구 설계·표본 규모에 따라 과대추정될 수 있으므로, 메타분석·체계적 고찰 수준의 통합 근거를 우선 참고한다.**
+
 ### 20. 추적 지표표
 
 | 질환군 | 추적 지표 |
@@ -409,17 +600,75 @@
 | 수면·환경 | 충분한 가습, 침실 온습도 유지, 야간 두침 높이기(역류 동반 시) | [교과서적 근거] |
 | 정서 | 간화범폐형에서 정서 스트레스 관리, 필요 시 상담 연계 | 「怒傷肝, 肝火犯肺」 |
 | 활동 | 급성기 과로 회피, 회복기 점진적 활동량 증가 | [교과서적 근거] |
-| 금연·환경 | 흡연·간접흡연·미세먼지·알레르겐 회피 | [교과서적 근거][^1] |
+| 금연·환경 | 흡연·간접흡연·미세먼지·알레르겐 회피 | [교과서적 근거] |
 | 식후 관리(GERC) | 식후 눕지 않기, 야식 자제, 체중 관리 | [교과서적 근거] |
 | 수분 섭취 | 충분한 수분으로 가래 배출 용이하게 함 | [교과서적 근거] |
 
 **조섭표는 생활지도 원칙을 정리한 것으로 개별 환자의 변증·기저질환에 맞추어 조정한다.**
 
+#### 21-1. 초진-재진 관리 흐름
+
+```
+[초진] 병력·이학적 검사·기침 지속기간 확인
+   ↓
+[변증 + 기질질환 배제 검사 필요성 판단]
+   ↓
+[변증에 맞춘 한약/침구 처방] ── 병행 ── [양방 표준치료(항생제·ICS·PPI 등) 필요시]
+   ↓
+[2~4주 재평가: 기침 점수·LCQ·부작용 확인]
+   ↓ 호전                              ↓ 무반응/악화
+[관리 지속, 조섭표 교육]      [변증 재평가, 기질질환 재검토, 전문과 협진]
+```
+
+#### 21-2. 소아-성인 용량·적용 차이
+
+| 구분 | 소아 | 성인 |
+| --- | --- | --- |
+| 한약 용량 | 체중·연령 비례 감량(대개 성인의 1/3~1/2) | 표준 용량 |
+| 침구 적용 | 매립침·이혈압박·혈위첩부 등 비침습적 방법 선호[^68][^70] | 체침·전침 등 다양한 기법 적용 가능 |
+| 추나 | 소아 전용 수기(소아 推拏)가 기침에 근거를 가짐[^12] | 성인 추나는 기침 자체보다 흉곽 가동성 개선 목적으로 병행 |
+| 중약주사제 | 마이코플라스마 폐렴 등 입원 상황에서 병용 근거 풍부[^113][^116] | 지역사회획득폐렴 등에서 유사하게 활용[^133][^145] |
+| 안전성 고려 | 간·신 기능 미성숙, 마황 등 발산성 본초 신중 | 임신·수유·다약제 병용 상호작용 확인 |
+
+**이 비교표는 일반적 경향을 정리한 것이며, 개별 환자의 체질·병력에 따라 조정한다.**
+
+#### 21-3. 협진(協診) 기준
+
+| 협진과 | 협진 고려 상황 |
+| --- | --- |
+| 호흡기내과 | 8주 이상 만성 기침, 폐 기능 이상, 흉부영상 이상 소견, 객혈 |
+| 이비인후과 | UACS 의심(후비루·부비동염), 만성 인후 이물감, 쉰 목소리 지속 |
+| 소화기내과 | GERC 의심(식후·와위 악화), 내시경·pH 모니터링 필요 시 |
+| 소아청소년과 | 영유아 반복성 폐렴, 마이코플라스마 폐렴 등 입원 필요 감염 |
+| 정신건강의학과 | 간화범폐형에서 정서 문제가 뚜렷하거나 심인성 기침 의심 시 |
+| 흉부외과·종양내과 | 영상에서 종괴·결절 발견, 폐암 위험군(흡연력·고령)의 신규 만성 기침 |
+
+**협진 기준은 임상 판단을 돕는 참고 목록이며, 개별 환자의 위험도에 따라 조기 협진을 우선한다.**
+
 ### 22. 변증 층화 원칙 재확인
 
 **변증 없는 관행적 침구·처방은 근거에 부합하지 않는다.** 같은 '기침'이라도 풍한·풍열·담습·담열·간화·음허·기허 등 서로 다른 변증에 동일 처방을 적용하면 효과가 희석되거나 부작용 위험이 커질 수 있다. 감염후기침에서 변증(풍한범폐 등)을 명시한 임상시험들이 처방별로 서로 다른 효과 크기를 보인 것[^50][^52][^55]과, 소아 CVA에서 변증에 따라 사간마황탕 가감·자음청상탕이 서로 다른 면역 지표 변화를 유도한 것[^73][^74]은 변증 층화가 임상적으로 의미 있는 구분임을 뒷받침한다.
 
-### 23. 환자 설명용 요약
+### 23. 근거 수준 분포와 문헌의 한계
+
+본 문서가 인용한 인간 대상 연구 143편(중복 DOI/PMID 제거 후)의 연구 유형 분포는 다음과 같다.
+
+| 연구 유형 | 편수 | 비고 |
+| --- | --- | --- |
+| 임상시험(RCT 포함, 프로토콜 포함) | 55 | 상당수가 중국 국내 다기관 RCT로, 은폐(blinding)·배정은닉 보고가 불완전한 경우가 많다 |
+| 메타분석 | 43 | 개별 RCT의 방법론적 질이 낮아 근거 확실성이 중등도~낮음으로 평가되는 경우가 대부분이다 |
+| 체계적 고찰 | 24 | 프로토콜 단계(향후 결과 미확정)인 경우가 다수 포함되어 있다 |
+| 관찰연구 | 8 | 코호트·단면조사 위주로, 인과관계 추론에 제한이 있다 |
+| 증례 보고 | 8 | 안전성 신호·희귀 반응 인지에 유용하나 일반화할 수 없다 |
+| 문헌 고찰 | 3 | 서술적 고찰로 체계적 방법론을 따르지 않는다 |
+| 임상진료지침 | 1 | 서양의학 지침으로 한의 중재를 직접 다루지 않는다 |
+| 실험연구(인간 대상) | 1 | 딥러닝 진단 보조 등 방법론 연구다 |
+
+**해석상 유의점**: ① 다수의 임상시험이 중국 단일국가·소규모·단일기관 설계이며, 국제적 재현 검증이 부족하다. ② 다수의 메타분석이 포함 연구의 방법론적 한계(무작위 배정 방법 불명, 배정은닉 부재, 눈가림 불가)로 근거 확실성을 GRADE 중등도 이하로 평가한다. ③ 체계적 고찰·프로토콜 논문은 아직 결과가 확정되지 않아 '향후 근거'로만 인용했다. ④ 이 문서는 한의학적 치료법에 우호적인 관점에서 근거를 정리했으나, 근거가 부족하거나 부정적인 결과도 숨기지 않고 기술했다. **임상 적용 시에는 개별 연구의 질을 재확인하고, 변증에 기반한 개별화된 판단을 우선해야 한다.**
+
+**향후 연구 방향**: ① 국제 다기관 무작위 대조 시험을 통한 재현성 검증, ② 기침 중증도·삶의 질에 대한 표준화된 평가 도구(LCQ, VAS 등)의 일관된 사용, ③ 변증 진단의 신뢰도(평가자 간 일치도)를 높이는 표준화 도구 개발, ④ 장기 추적을 통한 재발률·안전성 자료 축적, ⑤ 서양의학 표준 치료와의 직접 비교(head-to-head) 연구 확대가 필요하다.
+
+### 24. 환자 설명용 요약
 
 > 기침은 몸이 기도의 자극을 없애려는 정상적인 보호 반응입니다. 3주 안에 저절로 좋아지는 경우가 대부분이지만, 8주 이상 계속되면 원인을 반드시 찾아야 합니다. 한의학에서는 기침을 감기처럼 겉에서 온 것(외감)과 몸속 장부의 불균형에서 온 것(내상)으로 나누어 보는데, 가래가 있는지 없는지, 언제 심해지는지(찬바람·식후·스트레스), 목이 마르는지 등을 살펴 치료 방향을 정합니다. 침·뜸·한약은 기침 증상을 줄이고 삶의 질을 높이는 데 도움이 될 수 있다는 연구들이 쌓이고 있지만, 폐렴·결핵·천식·역류성 식도염처럼 반드시 확인해야 할 원인 질환이 있는지 먼저 검사로 확인하는 것이 중요합니다. 특히 8주 이상 기침이 계속되거나, 가래에 피가 섞이거나, 숨이 차거나, 체중이 줄어든다면 지체 없이 진료를 받으시기 바랍니다. 한약 복용 중 기침이 오히려 심해지거나 새로운 호흡기 증상이 생기면 즉시 복용을 멈추고 진료받아야 합니다.
 
@@ -458,6 +707,178 @@ UACS는 비염·부비동염 등에서 비롯된 후비루가 인후·기도를 
 **Q8. 임신 중이거나 수유 중인데 한약을 써도 되나요?**
 
 임신 중에는 마황·도인·홍화 등 활혈·발산 작용이 강한 본초는 신중히 사용하거나 금기하며, 반드시 임신 여부를 확인한 뒤 변증에 맞춰 안전성이 확립된 처방을 선택해야 한다[교과서적 근거]. 개별 처방의 임신 중 안전성 자료가 부족한 경우가 많으므로, 비약물적 요법(가습·체위 조절·식이 관리)을 우선 고려하고 한약은 반드시 전문가와 상의해 결정한다.
+
+---
+
+## 부록: 각주 질환군 색인
+
+아래는 신규 각주(31~146번)를 KCD 질환군·연구 유형별로 정리한 색인이다. 문헌을 주제별로 재탐색할 때 참고한다.
+
+### 부록-UACS. 상기도기침증후군
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^31] | 체계적 고찰 | Chinese Medicinal Herbs in the Treatment of Upper Airway Cough Syndrom… |
+| [^32] | 임상진료지침 | Cough and the common cold: ACCP evidence-based clinical practice guide… |
+| [^33] | 임상시험 | [Clinical Trials for Treatment of Allergic Rhinitis with Heat Sensitiv… |
+| [^34] | 관찰연구 | Upper airway cough syndrome may be the main cause of chronic cough in … |
+| [^35] | 문헌 고찰 | Older-generation antihistamines and cough due to upper airway cough sy… |
+| [^36] | 문헌 고찰 | Postnasal drip syndrome. Two hundred years of controversy between UK a… |
+
+### 부록-GERC. 역류관련만성기침
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^37] | 메타분석 | Acupuncture for the treatment of gastro-oesophageal reflux disease: a … |
+| [^38] | 임상시험 | Effect of Pistacia atlantica on the Elimination of Helicobacter pylori… |
+| [^39] | 임상시험 | [Clinical observation of acupuncture at Zhiyang (GV 9) Bazhen points c… |
+| [^40] | 임상시험 | [Clinical trial of acupuncture treatment of gastroesophageal reflux co… |
+| [^41] | 임상시험 | [Acupoint thread-embedding therapy of regulating governor vessel, disp… |
+| [^42] | 임상시험 | Efficacy and safety of Ojeok-san plus Saengmaek-san for gastroesophage… |
+| [^43] | 임상시험 | Efficacy and Safety of Ojeok-San Plus Saengmaek-San for Gastroesophage… |
+| [^44] | 임상시험 | Positive effect of deep diaphragmatic breathing training on gastroesop… |
+| [^45] | 관찰연구 | Real-World Patterns of Korean Medicine and Combined Korean–Western Med… |
+| [^46] | 관찰연구 | Real-World patterns of Korean medicine and combined Korean–Western med… |
+
+### 부록-PIC. 감염후기침
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^47] | 체계적 고찰 | Acupuncture and related therapies for post-infectious cough: protocol … |
+| [^48] | 체계적 고찰 | Zhisou powder in treatment of postinfectious cough: A protocol for sys… |
+| [^49] | 메타분석 | Curative Effects of Suhuang Zhike Capsule on Postinfectious Cough: A M… |
+| [^50] | 임상시험 | The efficacy of QingfengGanke granule in treating postinfectious cough… |
+| [^51] | 임상시험 | Efficacy and safety of Qing-Feng-Gan-Ke Granules in patients with post… |
+| [^52] | 임상시험 | Efficacy and safety of Zihua Wenfei granules in treatment of postinfec… |
+| [^53] | 임상시험 | [Clinical observation of post-infectious cough differentiated as wind-… |
+| [^54] | 임상시험 | Effectiveness and safety of Xingbei Zhike granules in patients with po… |
+| [^55] | 임상시험 | Efficacy and Safety of Zihua Wenfei Zhisou Granule in Treatment of Pos… |
+| [^56] | 임상시험 | Efficacy and safety of Shufeng Huashi formula for post-infectious coug… |
+| [^57] | 임상시험 | Efficacy and safety of Xingqin Ganke Granules in postinfectious cough:… |
+| [^58] | 임상시험 | Effects of Oral Procaterol for Postinfectious Cough in Adults: SingleC… |
+
+### 부록-CVA. 기침변이형천식
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^59] | 체계적 고찰 | Therapeutic effect of acupuncture combined montelukast sodium on cough… |
+| [^60] | 체계적 고찰 | A traditional Chinese patent medicine-Suhuang zhike capsule for cough … |
+| [^61] | 메타분석 | Suhuang Zhike Capsules for the Treatment of Cough Variant Asthma: A Me… |
+| [^62] | 메타분석 | The Effectiveness and Safety of Huangqi Xixin Decoction for Cough Vari… |
+| [^63] | 메타분석 | Herbal Medicine for Adult Patients with Cough Variant Asthma: A System… |
+| [^64] | 메타분석 | Network Pharmacology Strategy to Investigate the Pharmacological Mecha… |
+| [^65] | 메타분석 | Effect and safety of stimulating acupoints in children with cough vari… |
+| [^66] | 메타분석 | Clinical Efficacy and Safety of Chinese Herbal Medicine Auxiliary Ther… |
+| [^67] | 메타분석 | Acupuncture Treatment for Cough-Variant Asthma: A Meta-Analysis. |
+| [^68] | 메타분석 | Effectiveness and safety of traditional Chinese herbs in children with… |
+| [^69] | 메타분석 | Efficacy and safety of montelukast adjuvant therapy in adults with cou… |
+| [^70] | 임상시험 | [Micro-invasive embedding combined with montelukast sodium for childre… |
+| [^71] | 임상시험 | Clinical study on treatment of cough variant asthma by Chinese medicin… |
+| [^72] | 임상시험 | Chinese herbal medicine for the treatment of cough variant asthma: a s… |
+| [^73] | 임상시험 | [Effect of modified shegan mahuang decoction on cytokines in children … |
+| [^74] | 임상시험 | [Effect of Ziyinqingsang decoction on interleukin-4 and -5 levels in p… |
+| [^75] | 임상시험 | [Astragalus Granule Combined Auricular Point Sticking for Cough Varian… |
+
+### 부록-ACUTE. 급성 기침
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^76] | 체계적 고찰 | Traditional Chinese medicine for symptoms of upper respiratory tract o… |
+| [^77] | 체계적 고찰 | [Clinical comprehensive evaluation of Reyanning Mixture in treatment o… |
+| [^78] | 체계적 고찰 | Chinese medicinal herbs for acute bronchitis. |
+| [^79] | 메타분석 | Tanreqing injection for acute bronchitis disease: A systematic review … |
+| [^80] | 메타분석 | The effectiveness and safety of Xiao'er Feike granules in the treatmen… |
+| [^81] | 메타분석 | Chinese patent herbal medicine (Shufeng Jiedu capsule) for acute upper… |
+| [^82] | 메타분석 | [Meta-analysis on effectiveness and safety of Pudilan Xiaoyan Oral Liq… |
+| [^83] | 메타분석 | [Meta-analysis and trial sequential analysis of Chaihuang Granules in … |
+| [^84] | 메타분석 | Efficacy of five different traditional Chinese medicine injections in … |
+| [^85] | 임상시험 | Effectiveness of a Chinese herbal medicine preparation in the treatmen… |
+| [^86] | 임상시험 | Effectiveness of Pelargonium sidoides in pediatric patients diagnosed … |
+| [^87] | 임상시험 | Efficacy, Safety and Mechanism of Jinzhen Oral Liquid in the Treatment… |
+| [^88] | 임상시험 | Effect of Jiuwei Zhuhuang Powder on Cough Resolution in Children with … |
+| [^89] | 임상시험 | [Efficacy of intramuscular injection of Xiyanping injection for the tr… |
+| [^90] | 임상시험 | Efficacy and safety of Tanreqing oral liquid in treatment of acute bro… |
+| [^91] | 임상시험 | The Effectiveness of Acupressure and Common Cold Massage  on Healing C… |
+
+### 부록-CHRONIC. 만성 기침
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^92] | 체계적 고찰 | Research status of east Asian traditional medicine treatment for chron… |
+| [^93] | 메타분석 | Acupuncture therapy for subacute and chronic cough in adults: a system… |
+| [^94] | 임상시험 | Sixty-eight cases of child chronic cough treated by moxibustion. |
+| [^95] | 임상시험 | [Clinical study of strengthen spleen and warm lung on treating chronic… |
+| [^96] | 임상시험 | The Effect of Kechuanting Acupoint Application on Symptom Control and … |
+| [^97] | 임상시험 | Stratified analysis based on VAS scores to assess the effect of acupoi… |
+| [^98] | 관찰연구 | Analysis of factors related to chronic cough after lung cancer surgery… |
+| [^99] | 관찰연구 | A multicenter survey on the current status of chronic cough and its im… |
+| [^100] | 관찰연구 | [PROBLEMS ASSOCIATED WITH THE DIAGNOSIS OF PROLONGED/CHRONIC COUGH IN … |
+| [^101] | 관찰연구 | Effect of anti-reflux treatment on gastroesophageal reflux-associated … |
+| [^102] | 증례 보고 | [Thought and method of classic formulae in treatment of chronic cough]… |
+| [^103] | 증례 보고 | Chronic Cough after COVID-19 Improved by Korean Medicine Treatment Inc… |
+| [^104] | 증례 보고 | Electroacupuncture Combined with Acupoint Thread Embedding for the Tre… |
+| [^105] | 문헌 고찰 | The Possible Therapeutic Effects of Some Medicinal Plants for Chronic … |
+| [^106] | 실험연구 | Application of Convolutional Neural Network Algorithm in Diagnosis of … |
+
+### 부록-PEDS. 소아 폐렴·기관지염
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^107] | 체계적 고찰 | Chinese Medicinal Herbs for Childhood Pneumonia: A Systematic Review o… |
+| [^108] | 체계적 고찰 | Pediatric Tui Na for cough in children: A protocol for a systematic re… |
+| [^109] | 메타분석 | Xiao’er Xiaoji Zhike Oral Liquid Combined with Azithromycin for Mycopl… |
+| [^110] | 메타분석 | Efficacy and safety of Chinese herbal medicine for pneumonia convalesc… |
+| [^111] | 메타분석 | The efficacy of azithromycin combined with seven types of Chinese medi… |
+| [^112] | 메타분석 | Meta-analysis and Construction of Core Indicator Field of Pediatric Br… |
+| [^113] | 메타분석 | Xiyanping Plus Azithromycin Chemotherapy in Pediatric Patients with My… |
+| [^114] | 메타분석 | Traditional Chinese Medicine Oral Liquids Combined With Azithromycin f… |
+| [^115] | 메타분석 | Shuanghuanglian oral preparations combined with azithromycin for treat… |
+| [^116] | 메타분석 | Comparative Efficacy of Chinese Herbal Injections for Treating Pediatr… |
+| [^117] | 메타분석 | Potassium dehydroandrographolide succinate injection for treat- ment o… |
+| [^118] | 메타분석 | [Network Meta-analysis of 14 oral Chinese patent medicines combined wi… |
+| [^119] | 메타분석 | [Efficacy and safety of Xiyanping injection combined with azithromycin… |
+| [^120] | 메타분석 | [Network Meta-analysis of effect of traditional Chinese medicine injec… |
+
+### 부록-SAFETY. 안전성·특수상황
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^121] | 임상시험 | The efficacy of Jujube syrup on the prevention of drug-induced hepatot… |
+| [^122] | 임상시험 | [Effect of Bufeishenqingre decoction on bronchial hyperresponsiveness-… |
+| [^123] | 임상시험 | Acupressure versus dilution of fentanyl to reduce incidence of fentany… |
+| [^124] | 임상시험 | Transcutaneous Electrical Acupoint Stimulation Before Induction of Ane… |
+| [^125] | 임상시험 | Transcutaneous electrical acupoint stimulation before induction of ane… |
+| [^126] | 임상시험 | Comparison of Preoperative Acupressure, Incentive Spirometry, and Nebu… |
+| [^127] | 임상시험 | Compound Kushen Injection Reduces Severe Toxicity and Symptom Burden A… |
+| [^128] | 증례 보고 | Successful Intervention with Traditional Chinese Medicine for Severe C… |
+| [^129] | 증례 보고 | [A case of drug-induced pleuritis, possibly due to Hochuekkito]. |
+
+### 부록-ACU. 침구 일반
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^130] | 체계적 고찰 | Effect of acupuncture on chronic bronchitis |
+| [^131] | 체계적 고찰 | [Basic rules and characteristics of acupoint application therapy based… |
+
+### 부록-GEN. 기타 호흡기질환
+
+| 각주 | 연구 유형 | 표제 요지 |
+| --- | --- | --- |
+| [^132] | 체계적 고찰 | Effect of integrated traditional Chinese and Western medicine on SARS:… |
+| [^133] | 체계적 고찰 | [Tanreqing Injection for community-acquired pneumonia: a systematic re… |
+| [^134] | 체계적 고찰 | Chinese herbal medicines for the treatment of cough in idiopathic pulm… |
+| [^135] | 체계적 고찰 | Evidence base of randomized controlled trials and guideline recommenda… |
+| [^136] | 체계적 고찰 | Multiple Traditional Chinese Medicine interventions for idiopathic pul… |
+| [^137] | 체계적 고찰 | Bupleuri radix for Acute Uncomplicated Respiratory Tract Infection: A … |
+| [^138] | 체계적 고찰 | [Efficacy and safety of Lianhua Qingwen capsule for influenza： a syste… |
+| [^139] | 체계적 고찰 | [Systematic review of randomized controlled trial of Maxing Shigan Dec… |
+| [^140] | 체계적 고찰 | Herbal Extract Of Ginger And Honey To Acute Respiratory Infection In T… |
+| [^141] | 메타분석 | Clinical Effects and Safety of Zhi Sou San for Cough: A Meta‐Analysis … |
+| [^142] | 메타분석 | Yiqi Yangyin Huoxue Method in Treating IdiopathicPulmonary Fibrosis: A… |
+| [^143] | 메타분석 | Shufeng Jiedu Capsules for treating wind-heat syndrome respiratory dis… |
+| [^144] | 메타분석 | Herbal Medicine for Cough: a Systematic Review and Meta-Analysis. |
+| [^145] | 메타분석 | [Reduning injection for community-acquired pneumonia: meta-analysis]. |
+| [^146] | 메타분석 | Reduning Injection versus Neuraminidase Inhibitors in the Treatment of… |
 
 ---
 
