@@ -53,23 +53,56 @@
 
 #### 2-2. 수부 습진 (Hand Eczema, KCD-8: L30.1)
 
-손에 국한된 습진으로, **접촉성·자극성 원인**이 많고 직업성 피부 질환의 대표 유형이다. 수포성 수부 습진(한포선, dyshidrotic eczema)과 만성 건조형으로 세분된다. 사독 약침 메조테라피·봉침+삼오황금탕 병용·황련해독탕+PDRN 약침 통합 치료 등이 난치성 수부 습진에 유효한 사례가 보고된다(증례)[^8][^9][^40].한국 수부 습진 환자에서 삶의 질 저하·우울 동반이 확인되므로, 전신적 관리가 필요하다(관찰연구)[^26].
+손에 국한된 습진으로, **접촉성·자극성 원인**이 많고 직업성 피부 질환의 대표 유형이다. 수포성 수부 습진(한포선, dyshidrotic eczema)과 만성 건조형으로 세분된다. 사독 약침 메조테라피·봉침+삼오황금탕 병용·황련해독탕+PDRN 약침 통합 치료 등이 난치성 수부 습진에 유효한 사례가 보고된다(증례)[^8][^9][^40].한국 수부 습진 환자에서 삶의 질 저하·우울 동반이 확인되므로, 전신적 관리가 필요하다(관찰연구)[^26].중증도(HECSI)가 심할수록 삶의 질(DLQI)과 우울(BDI-II) 점수가 정적 상관관계를 보였다(관찰연구, 138명)[^192].
+
+**① 진단·중증도 분류(양방 표준)**  
+2020년 한국 만성 수부 습진 진료 지침(Korean Society of Contact Dermatitis and Skin Allergy)은 델파이 방법으로 아시아인 특성을 반영한 분류 체계와 단계별 치료 사다리(therapeutic ladder)를 제시하였다(임상진료지침)[^148].한의 치료를 표준 진료 지침과 병행할 때 이 분류 체계·중증도 지표(HECSI)를 공유 언어로 활용하면 협진 소통이 원활하다.
+
+**② 역학·위험 요인**  
+중국 일반 인구 기반 연구에서 하루 5시간 이상 젖은 손 작업과 피부 갈라짐이 수부 습진 중증도의 유의한 위험 요인으로 확인되었다(관찰연구, 121명)[^187].PACO 후속 연구에서는 아토피성 피부 체질이 수부 습진의 가장 강력한 개인적 소인이며, 하루 2시간 이상의 젖은 작업이 자극성 수부 습진과 관련되었다(관찰연구, 1,909명)[^190].간호 인력 대상 조사에서도 잦은 손 위생·소독제 노출이 위험 요인, 보습제 사용이 보호 요인으로 확인되어(관찰연구, 830명)[^191], 손 씻기·장갑 착용 등 직업 환경 관리가 한의 치료의 병행 축이 된다. 중국 다기관 연구(2,072명)에서는 아토피피부염을 동반한 수부 습진이 그렇지 않은 경우보다 중증도·이환 기간·질병 부담이 더 컸다(관찰연구)[^186].
+
+**③ 첩포시험·감작**  
+상하이 첩포시험 후향 연구(788명)에서 양성률이 82.2%에 달했으며, 니켈·코발트·특정 방부제·고무 성분이 주요 알레르겐이었다. 여성은 다중 감작, 남성은 직업 관련 알레르겐에 더 민감했다(관찰연구)[^188].수부 습진 환자의 접촉 감작 빈도와 중증도의 연관성은 앞서 확인된 바 있다(관찰연구)[^130].
+
+**④ 양방 치료와의 비교·병용 근거**  
+경구 알리트레티노인(레티노이드 계열)은 기존 국소 치료에 반응하지 않는 중등도-중증 수부 습진에서 한국인 대상 12주 투여 시 44.4%가 개선되었고(임상시험, 27명)[^164], 고령 환자 후향 연구에서도 82.6%가 임상적 개선을 보였으나 고중성지방혈증 등 대사성 부작용의 정기 모니터링이 필요하다(관찰연구, 46명)[^165].실제 임상에서는 불충분한 반응·비용·부작용으로 순응도가 낮아지는 경우가 많아(관찰연구)[^166], 다기관 실사용 연구(146명)에서도 PGA 반응률이 42.6%에 그쳤다(임상시험)[^167].표재성 X선·그렌츠선·PUVA 광화학요법 등 물리치료도 시도되었으나 대조군 대비 유의한 우위가 일관되지 않았다(임상시험)[^161][^162][^163][^189].국소 스테로이드의 표준 옵션인 0.05% 클로베타솔 크림에 대해서도 체계적 고찰·메타분석 프로토콜이 별도로 진행 중이어서(체계적 고찰)[^151], 만성 수부 습진의 근거 지형은 여전히 갱신 중임을 감안해야 한다.한의 중재(한약·침·외용제)는 이러한 **양방 2차·3차 치료의 부작용·순응도 문제를 보완하는 위치**에서 병용을 고려할 수 있다.
+
+**⑤ 한약·외용제 근거**  
+Sambucus ebulus(삼부쿠스) 국소 도포제는 수부 습진의 중증도·가려움 개선에서 하이드로코티손과 유사한 효과를 보였고, 삶의 질(DLQI) 개선은 오히려 더 우수하였다(임상시험, 94명)[^170].윤조지양(潤燥止痒) 로션의 만성 수부 습진 무작위 대조 시험 프로토콜이 진행 중이다(임상시험 프로토콜, 122명)[^160].
+
+**⑥ 삶의 질·CAM 활용**  
+손 습진 삶의 질 질환 특이 도구 QOLHEQ의 일본어판이 검증되어 증상·정서·기능·치료·예방 영역의 삶의 질 저하를 평가할 수 있다(관찰연구, 124명)[^184].덴마크 직업성 수부 습진 환자 대상 조사에서 CAM 사용률은 6.2%로 낮았으며, 중증 환자에서도 전신 치료 이용률이 낮아 만성화로 이어질 수 있다는 우려가 제기되었다(관찰연구, 1,203명)[^172].다학제 통합 재활 프로그램(TIP)은 중증 직업성 피부질환 환자의 삶의 질·업무 복귀율(88.8%)을 개선하였다(관찰연구, 1,788명)[^185].
 
 #### 2-3. 신경성 피부염·만성 단순태선 (Neurodermatitis / Chronic Simple Lichen, KCD-8: L28.0)
 
 만성 가려움·태선화를 특징으로 하는 유형으로, **가려움-긁기-태선화의 악순환**이 핵심 병기다. 혈허풍조(血虛風燥)·간울화화(肝鬱化火) 변증이 주류이다. 호침화침(毫火針) 얕은 자침법이 스테로이드 연고(할로메타손) 대비 소양증 억제에 4~8주 추적에서 더 우수한 효과를 보였다(임상시험, 86명)[^10].
 
+침구 치료 근거가 특히 두텁다. 침 치료 메타분석(728명)에서 유효율 상승, 재발률·증상 점수의 유의한 감소가 확인되었고 부작용 차이는 없었다(메타분석)[^139][^141].습식 부항은 고강도 스테로이드와 유사한 효과를 보였으며, 약물·뜸과 병용 시 유효율이 더 높아지고 TNF-α·IL-1β·IL-6 등 염증 인자가 유의하게 감소하였다(메타분석, 1,505명)[^140].화침(火鍼) 요법은 표준 치료와 병용 시 유효율·삶의 질(DLQI)을 개선하고 재발률·가려움·염증 지표(TNF-α·IL-4·IL-6·IL-8·IgE)를 낮추었다(메타분석, 868명)[^145].부항 단독의 유효성·안전성을 평가하는 체계적 고찰 프로토콜도 진행 중이다[^146].양씨 면화구(棉花灸)는 호르몬 연고보다 높은 총 유효율(93.3% vs 80.0%)을 보였고(임상시험, 60명)[^143], 매화침 타법+가감 양혈정풍탕 병용은 한약 단독·양방 치료보다 단기·장기 효과가 우수하였다(임상시험, 141명)[^144].열침+사혈+부항 병행은 할로메타손 크림보다 완치율(51.9% vs 28.6%)·총 유효율(96.3% vs 81.0%)이 더 높았다(임상시험, 96명)[^147].다만 신경성 피부염 환자에서 삶의 질 평가 도구 DLQI는 Rasch 분석상 적합도·단일차원성이 낮아 사용에 주의가 필요하며(관찰연구, 149명)[^142], 향후 질환 특이적 평가 도구 개발이 요구된다.
+
 #### 2-4. 항문 습진 (Perianal Eczema, KCD-8: L30.9)
 
-항문 주위에 국한된 습진으로, **습열·습독(濕毒)** 변증이 주류이다. 중약 고약 외용·중약 로션 훈증 좌욕이 피메크롤리무스 크림 단독 대비 중증도·가려움·삶의 질 개선과 재발률 저하에 유효하다(메타분석·임상시험)[^11][^12].
+항문 주위에 국한된 습진으로, **습열·습독(濕毒)** 변증이 주류이다. 중약 고약 외용·중약 로션 훈증 좌욕이 피메크롤리무스 크림 단독 대비 중증도·가려움·삶의 질 개선과 재발률 저하에 유효하다(메타분석·임상시험)[^11][^12].타크롤리무스 연고+3% 붕산 로션에 당귀탕(當歸湯)을 병용하면 항문 가려움·분비물·병변·삶의 질 지수가 더 유의하게 개선되고 혈청 IgE도 유의하게 감소한다(관찰연구, 76명)[^156].이혈(耳穴) 압박 요법(왕불류행 씨앗)을 양약과 병행하면 가짜 요법 병행군보다 가려움·병변 면적·DLQI가 더 개선되고, 총 유효율(97.7% vs 76.2%)·재발률(7.0% vs 37.5%) 모두 유의하게 우수하였다(임상시험, 90명)[^158].
 
 #### 2-5. 지루성 피부염 (Seborrheic Dermatitis, KCD-8: L21)
 
-피지 분비 부위(두피·면부·흉골부·안면)에 홍반·인설이 나타나는 유형으로, **습열·풍열** 변증과 관련된다. 영아기(지루성 홍반조)와 성인기(두피·면부)로 나뉜다(교과서적 근거). 본 문서에서는 독립 상세 항목으로 다루지 않고, 습진의 한 유형으로 필요 시 인용한다.
+피지 분비 부위(두피·면부·흉골부·안면)에 홍반·인설이 나타나는 유형으로, **습열·풍열** 변증과 관련된다. 영아기(지루성 홍반조)와 성인기(두피·면부)로 나뉜다(교과서적 근거).
+
+**① 병태생리·역학**  
+중국인 지루성 피부염 환자에서 M. globosa(87.0%)·M. restricta(81.5%)가 우세종이며, 82.9%가 두 종 이상의 말라세지아(Malassezia)균에 동시 감작되어 있다(관찰연구, 146명)[^199].중국 횡단연구(312명)에서 환자의 약 48.1%가 심각한 정서적 문제를 보였고, 중증도·낮은 BMI·입원 병력·미세먼지(PM10) 농도가 삶의 질 저하의 위험 요인이었다(관찰연구)[^194].여드름·지루성 피부염에서 P. acnes lipase와 유리지방산이 병인 인자로 작용하며, 운세인(溫淸飮, Unsei-in)이 이 lipase 활성을 억제하는 것이 실험적으로 확인되었다(실험연구, 인간 대상)[^201].
+
+**② 양방 표준 치료 근거**  
+피메크롤리무스 크림 1%는 4주 도포 후 홍반·인설·가려움을 각 87~92% 개선하였으나 중단 후 3~8주 내 재발이 흔해 유지 관리가 필요하다(임상시험, 20명)[^200].
+
+**③ 한의 치료 근거**  
+화열(火熱) 증후군을 동반한 지루성 피부염 환자에게 표준화 황련해독탕(黃連解毒湯) 정제를 투여해 열감·가려움·따끔거림의 VAS 점수가 유의하게 감소한 증례가 보고되었다(증례, 2명)[^193].만성 재발성 안면 지루성 피부염에 신양(腎陽)을 보하는 온양요법+ASLW 한약이 1주일 만에 병변을 소실시킨 증례(증례, 2명)[^196], 장기 서양의학 치료에 무반응이던 만성 지루성 피부염이 한약 치료 후 유의하게 개선된 증례(증례, 1명)[^195]가 보고된다. 단파 고주파(shortwave radiofrequency)로 거홍지양고(祛紅止痒膏)의 경피 흡수를 보조한 치료는 대조군(75.0%) 대비 총 유효율 94.4%로 증상 완화·말라세지아 억제에 더 효과적이었다(관찰연구, 72명)[^197].단삼(丹參) 캡슐을 프레드니손과 병용하면 프레드니손 단독보다 총 유효율이 유의하게 높고(OR 5.82) 재발률이 낮았다(OR 0.22)(메타분석, 916명)[^198].소풍산(消風散)은 아토피 또는 지루성 피부염을 동반한 만성 상체 가려움증에서 가려움(NRS)·삶의 질을 개선하고, STAT1 억제를 통한 RANTES·IL-4 감소와 관련된다(임상시험, 20명)[^202][^203].
+
+이 유형은 습열·풍열 변증에 청열해독(淸熱解毒)·거풍제습(祛風除濕) 위주 치법을 적용하되, 만성 재발형은 신양(腎陽)·비허(脾虛)를 겸해 살피는 것이 임상적으로 유용하다.
 
 #### 2-6. 접촉성 피부염 (Contact Dermatitis, KCD-8: L23)
 
 외부 물질(자극성·알레르기성) 접촉 후 발생하는 습진성 반응으로, **습독(濕毒)·풍열(風熱)** 변증이 주류이다. 전통 한의학 외용제 사용 후 접촉성 피부염이 가장 흔한 부작용으로 보고되므로(관찰연구, 10명)[^19], 외용제 사용 시 첩포 시험으로 알레르기성·자극성을 구분해야 한다.
+
+중국 습진 환자의 첩포시험에서 향료 믹스(FM) 양성률이 15.9%였고, 이 중 76.7%가 중의약(한약) 사용력과 관련되었으며 콜로포니움(colophonium)과의 교차 반응 가능성도 확인되었다(관찰연구, 378명)[^175].한국 습진 환자 대상 금(gold) 접촉 알레르기 조사에서는 금나트륨티오황산염 첩포 양성률이 3.1%로 낮았고, 금박 한약·금침(金鍼)에 의한 임상적 알레르기 반응은 드물었다(관찰연구, 313명)[^182].즉 한약·외용제 자체가 접촉 항원이 될 수 있으므로, 병력 청취 시 **첩약·외용제·금속 침구 사용력을 반드시 포함**해야 한다.
 
 #### 2-7. 화폐상 습진 (Nummular Eczema, KCD-8: L30.0)
 
@@ -78,6 +111,17 @@
 #### 2-8. 만성 습진 (Chronic Eczema, KCD-8: L30.9)
 
 급성기 이후 **태선화·건조·색소침착**이 지속되는 유형으로, **혈허풍조(血虛風燥)·혈어(血瘀)** 변증이 주류이다. 사석엽(Herba Saxifragae) 크림이 히드로코티손과 유사한 효능을 보였으며(임상시험, 42명)[^13], 혈위주입요법이 보조 요법으로 유효하다(임상시험, 80명)[^14].만성 습진의 병기는 간혈허(肝血虛) 문서 4-2 ②혈허풍조와 연결된다.
+
+**① 윤조지양(潤燥止痒) 계열 처방의 축적된 근거**  
+윤조지양 캡슐을 표준 치료에 병용하면 총 유효율이 높아지고 EASI·가려움 VAS·혈청 IgE가 유의하게 감소하며 심각한 부작용은 없다(메타분석, 1,896명)[^149].다기관 이중맹검 위약대조 시험에서도 4주째 EASI 95·EASI 60 도달률이 위약군보다 유의하게 높고 재발률·이상반응은 위약군과 차이가 없었다(임상시험, 240명)[^159].항히스타민제와 병용하면 단독 대비 유효율이 높아지고 재발률·EASI·가려움·IgE가 낮아지며, 특히 항히스타민제의 졸음 부작용을 유의하게 줄인다(메타분석, 3,071명)[^157].윤조지양 로션의 만성 수부 습진 적용 RCT 프로토콜도 진행 중이다(임상시험 프로토콜, 122명)[^160].
+
+**② 기타 중약 외용제·내복약 근거**  
+청펑고(淸鵬膏)는 아급성·만성 습진에서 유효율을 높이고 가려움(VAS)을 낮추며, 국소 스테로이드와 병용 시 모든 지표에서 더 우수하고 피부 자극 외 특이 부작용이 없다(메타분석)[^155].비삼출성 국소 습진에서도 위약 대비 가려움 강도·빈도·지속시간과 병변 형태를 유의하게 개선하였다(임상시험, 60명)[^171].얼음같이 서늘한 성질의 빙황복락고(氷皇復樂膏)는 단독·양방 병용 모두에서 양방 단독보다 유효율이 높고 재발률이 낮으며 안전성은 대등하였다(메타분석, 1,919명)[^177][^181].강복신액(康復新液)은 비스테로이드 연고보다 우수하고 스테로이드 연고와는 유사한 효과를 보였으며, 서양의학 치료와 병용 시 더 개선되었다(메타분석, 1,725명)[^179].용담사간탕(龍膽瀉肝湯)은 양약 단독 대비 완치율·총 유효율을 높이고 재발률·염증 사이토카인(IL-6·IL-8·TNF-α)을 낮춘다(메타분석, 1,080명)[^173].방풍통성산(防風通聖散)은 표한리열·표리실증을 겸한 아급성 습진의 한방 증후군·피부 증상 완치율을 유의하게 개선하였다(임상시험, 108명)[^178].복합 감초 글리시리진(compound glycyrrhizin) 경구제를 국소 스테로이드와 병용하면 EASI·IGA 개선, 가려움 완화, 재발률 저하가 확인되며 스테로이드의 비스테로이드성 보조제로 활용할 수 있다(임상시험, 199명)[^152].데스로라타딘+복합 감초 병용은 아급성 습진에서 단독보다 유효율이 높고 염증 인자(TNF-α·IL-2·IL-4)가 더 감소하였다(임상시험, 100명)[^176].할로메타손+사묘환(四妙丸) 병용은 임상 유효율(88.8% vs 70.1%)을 높이고 혈청 LTB4·TSLP를 낮추었으며, 소화기 증상·사지 중탁감·습열 설맥이 효능에 영향을 주는 독립 요인으로 확인되었다(관찰연구, 195명)[^153].
+
+**③ 침구·외치 근거**  
+면면구(棉花灸, cotton-moxibustion)는 만성 습진의 소양·병변 개선과 삶의 질 향상에서 복방 플루메타손 연고보다 우수하였다(임상시험, 66명)[^154].중서의결합(中西醫結合) 통합 치료가 서양의학 단독보다 유효율·완치율이 높고 병변 면적·가려움이 더 줄었다는 메타분석(1,946명)[^168]도 이 전략을 뒷받침한다(같은 주제의 후속 메타분석 1편은 철회(retracted)되어 인용하지 않는다). 중의학 외치법(괄사·부항·훈증) 전반은 경락 소통·기혈 조절을 통해 증상 완화·재발 방지에 기여한다는 문헌고찰이 축적되어 있다(문헌고찰)[^150][^169].
+
+이러한 다수의 중약 내복·외용제 근거는 대부분 중국 내 임상시험·메타분석에 근거하며, 국내 한의 임상에서 동일 처방을 그대로 적용하기보다는 **변증(혈허풍조·습열잔류·혈어)에 맞춰 방제 원리를 준용**하는 것이 현실적이다.
 
 #### 2-9. 유소아 습진 (Infantile/Childhood Eczema)
 
@@ -290,6 +334,8 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 | **하지정맥성 습진(L83)** | 하지 습진·색소침착 | 정맥류·정맥부전 소견, 하지 내과과 병행 |
 | **자가감작성 피부염** | 원격부 습진 | 명확한 원발 병소 존재, 자가감작 기전 |
 
+> 위 감별표는 임상 틀이지 동일 근거수준의 권고가 아니다. 각 감별점은 이학적 소견·검사 결과로 최종 확인하며, 표만으로 확진하지 않는다.
+
 #### 8-2. 한의학 외용제 관련 감별
 
 습진 환자에게 전통 한의학 외용제(TTCM) 사용 후 **접촉성 피부염**이 가장 흔한 부작용으로 보고되므로, 외용제 사용 중 병변이 악화되면 **첩포 시험**을 통해 알레르기성·자극성을 구분하고 성분 분석으로 원인 물질을 파악한다(관찰연구, 10명)[^19].
@@ -360,6 +406,8 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 - **설담만으로 혈허를 확정하기 어려우며**, 증후군·병변 양상·객관 지표를 종합해야 한다.
 - **스테로이드 사용 여부가 병변 양상을 변형**시킬 수 있으므로, 병력 청취 시 약물 사용을 반드시 확인한다.
 - 변증 기반 처방이 효과를 보이려면 **4~8주 이상**의 추적이 필요하며, 단기 무반응으로 중단하지 않는다.
+
+**변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다.** 위 변증표(9-1)와 감별표(8-1)는 임상 판단을 돕는 실무 틀일 뿐, 개별 환자의 병변 색·형태·소양 양상·설맥을 직접 평가하지 않고 병명(습진)만으로 소풍산·용담사간탕·당귀음자 등을 획일적으로 선택하는 것은 이 문서가 인용한 연구 설계(변증 층화·병기별 구분)와 어긋난다. 본 문서에서 인용한 다수의 임상시험·메타분석 역시 습진이라는 병명 단위가 아니라 습열·풍열·비허습곤·혈허풍조 등 **변증 하위군을 명시한 연구**에서 유의한 효과가 확인되었음을 유념해야 한다.
 
 ## 제5편 치법·방약·침구
 
@@ -632,7 +680,7 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 
 #### 14-1. 양한방 통합 치료 메타분석
 
-양한방 통합 치료(한의학+서양의학)는 서양의학 단독 대비 임상적 중증도(EASI·SCORAD)·삶의 질(DLQI)·재발률·혈청 IgE 개선에 더 효과적이었으며, 이상반응 발생률은 비슷하였다. 다만 분석된 연구의 전반적인 근거 수준이 낮아 결론에 제한이 있다(메타분석, 5,953명)[^31].
+양한방 통합 치료(한의학+서양의학)는 서양의학 단독 대비 임상적 중증도(EASI·SCORAD)·삶의 질(DLQI)·재발률·혈청 IgE 개선에 더 효과적이었으며, 이상반응 발생률은 비슷하였다. 다만 분석된 연구의 전반적인 근거 수준이 낮아 결론에 제한이 있다(메타분석, 5,953명)[^31].중서약 연고 병용 요법의 습진 유효율(88%)이 양약 연고 단독(70%)보다 높았다는 비교 분석도 이 결론을 뒷받침한다(체계적 고찰)[^183].**다만 이러한 긍정적 결과와 별개로, 여드름·아토피피부염·건선 등 흔한 피부 질환 전반의 CAM 치료 근거를 종합한 메타분석에서는 연구 설계·표본 크기·결과 측정 방식의 이질성으로 인해 CAM 효능을 일반화하여 임상 권고하기에는 근거가 아직 불충분하다고 지적한다(메타분석)[^174].** 이는 본 문서가 인용한 개별 처방·요법의 긍정적 결과를 부정하는 것이 아니라, **표준화된 대규모 다기관 연구가 여전히 부족하다는 근거의 한계를 정직하게 인정**해야 한다는 의미이며, 변증에 따른 맞춤 처방·개인화 치료가 임상적 가치를 갖는 이유이기도 하다.
 
 #### 14-2. 스테로이드 절감 전략
 
@@ -727,8 +775,9 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 | **삶의 질** | DLQI·CDLQI(소아) |
 | **면역** | 총 IgE·특이 IgE·호산구·TARC·BDNF·IL-31 |
 | **피부 장벽** | TEWL |
-| **안전성** | AST·ALT·BUN·Cr (한약 장기 투여 시) |
+| **안전성** | AST·ALT·BUN·Cr (한약 장기 투여 시), 알리트레티노인 병용 시 지질 프로필 |
 | **변증** | ZRADSQ (변증 특이적 증상 평가) [^46] |
+| **수부 습진 특이 지표** | HECSI, QOLHEQ (질환 특이적 삶의 질) [^148][^184] |
 
 **⑤ CAM 소통을 적극적으로 한다.**  
 피부과 환자의 약 25.7%가 CAM을 사용하며, 삶의 질 저하가 심한 습진 환자에서 사용률이 높다. 의사의 CAM 인지율은 낮으므로 진료 시 적극적인 문진과 개방적인 소통이 필요하다(관찰연구, 855명)[^17].소아 습진에서는 부모의 스테로이드 공포증(steroid phobia)이 CAM 사용을 촉진하므로, 증거 기반 정보 제공이 핵심이다(관찰연구)[^12][^27].
@@ -745,6 +794,9 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 | **목향·향조약 장기 복용** | 자니약과 비위 부담 | 사인 포제·진피 배오로 완화 |
 | **스테로이드 의존·반동** | 장기 국소 스테로이드 중단 시 반동 악화 | 점감 계획·한약 병용 |
 | **임신 초기 약재** | 활혈·파혈약(도인·홍화·익모초) 주의 | 임신 습진 시 안전 약재 선별 [^65] |
+| **무허가 외용제 스테로이드 무단 혼입** | 소아 습진에 스테로이드(덱사메타손)를 무단 혼입한 한약 연고로 외인성 쿠싱증후군 발생 사례 | 출처 불명 외용제 사용 금지, 성분 검사 [^180] |
+| **알리트레티노인 대사 부작용** | 고령 만성 수부 습진 환자에서 고중성지방혈증 등 발생 | 지질 프로필 등 정기 혈액 검사 [^165] |
+| **첩포시험 필요 원료** | 한약재(특히 향료·콜로포니움 유사 성분)·금박 함유 외용제의 접촉 감작 가능성 | 병력상 첩약·외용제 사용력 확인 [^175][^182] |
 
 #### 16-3. 조섭 — 생활 관리
 
@@ -900,3 +952,72 @@ CAM 사용 여부를 적극 문진한다. 피부과 외래 환자의 약 25.7%�
 [^118]: "All Dampness and Swelling belong to the Spleen" Guiding the Treatment of Eczema. 문헌고찰. DOI: [10.53469/jcmp.2025.07(11).26](https://doi.org/10.53469/jcmp.2025.07(11).26). "제습종만개속어비" 원칙의 습진 치료 적용, 비(脾) 중심 병기·치법.
 [^130]: Prevalence of contact sensitisation among patients with hand eczema and factors associated with contact sensitisation and disease severity. 관찰연구. PMID: [42584429](https://pubmed.ncbi.nlm.nih.gov/42584429/). 수부 습진 환자의 접촉 감작 빈도·중증도 연관.
 [^138]: Reframing Eczema: Th2-Skewed Contact Sensitization, Atopy Patch Testing, and Systemic Contact Dermatitis. 문헌고찰. DOI: [10.1007/s11882-026-01260-x](https://doi.org/10.1007/s11882-026-01260-x) · PMID: 41824183. 습진의 Th2 편향·아토피 패치 검사·전신 접촉성 피부염 병태생리 재정리.
+[^139]: The Efficacy and Safety of Acupuncture in the Treatment of Neurodermatitis: A Systematic Review and Meta-Analysis. Lin Yang 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-09-01. [메타분석, 728명] [DOI 10.1155/2022/8182958](https://doi.org/10.1155/2022/8182958) — 침 치료가 신경성 피부염의 유효율을 높이고 재발률·증상 점수를 유의하게 낮추며 부작용 차이는 없음.
+[^140]: Efficacy and safety of wet cupping in the treatment of neurodermatitis: a systematic review and meta-analysis. Yan Zhai 외. _Frontiers in Medicine_. 2024-12-19. [메타분석, 1505명] [DOI 10.3389/fmed.2024.1478073](https://doi.org/10.3389/fmed.2024.1478073) — 습식 부항이 고강도 스테로이드와 유사한 효과를 보이고, 약물·뜸 병용 시 유효율 상승·염증 인자(TNF-α·IL-1β·IL-6) 감소.
+[^141]: Effectiveness of Acupuncture in the Treatment of Neurodermatitis: A Systematic Review and Meta-Analysis. Lin Yang 외. 2021-11-13. [메타분석] [DOI 10.37766/inplasy2021.11.0041](https://doi.org/10.37766/inplasy2021.11.0041) — 침·뜸 치료가 신경성 피부염의 가려움·피부 병변 개선에 긍정적 영향을 시사한 메타분석 등록 프로토콜.
+[^142]: Rasch analysis holds no brief for the use of the Dermatology Life Quality Index (DLQI) in Chinese neurodermatitis patients. Liu Y 외. _Health and quality of life outcomes_. 2016-02-03. [관찰연구, 149명] [DOI 10.1186/s12955-016-0419-5](https://doi.org/10.1186/s12955-016-0419-5) [PMID 26841932](https://pubmed.ncbi.nlm.nih.gov/26841932/) — DLQI가 중국인 신경성 피부염 환자에서 Rasch 모델 적합도·단일차원성이 낮아 사용에 주의가 필요함을 확인.
+[^143]: [Observation on clinical therapeutic effect of Yang's cotton moxibustion on neurodermatitis]. Diao CY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2007-03. [임상시험, 60명] [PMID 17432641](https://pubmed.ncbi.nlm.nih.gov/17432641/) — 양씨 면화구가 호르몬 연고보다 유효율(93.3% vs 80.0%)이 높고 안전성도 우수.
+[^144]: Treatment of the localized neurodermatitis by plum-blossom needle tapping and with the modified yangxue dingfeng tang--a clinical observation of 47 cases. Weiying L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2006-09. [임상시험, 141명] [PMID 17078443](https://pubmed.ncbi.nlm.nih.gov/17078443/) — 매화침 타법+가감 양혈정풍탕 병용이 한약 단독·양방 치료보다 단기·장기 효과 우수.
+[^145]: Fire needling therapy for neurodermatitis: a systematic review and meta-analysis of randomized controlled trials. Qiu X 외. _Frontiers in medicine_. 2025. [메타분석, 868명] [DOI 10.3389/fmed.2025.1639713](https://doi.org/10.3389/fmed.2025.1639713) [PMID 41357504](https://pubmed.ncbi.nlm.nih.gov/41357504/) — 화침이 표준 치료와 병용 시 유효율·DLQI 개선, 재발률·가려움·염증 지표(TNF-α·IL-4·IL-6·IL-8·IgE) 감소.
+[^146]: Cupping for neurodermatitis: A protocol of systematic review and meta-analysis. Peng L 외. _Medicine_. 2020-10-02. [체계적 고찰] [DOI 10.1097/MD.0000000000022586](https://doi.org/10.1097/MD.0000000000022586) [PMID 33019475](https://pubmed.ncbi.nlm.nih.gov/33019475/) — 부항요법의 신경성 피부염 유효성·안전성 평가 체계적 고찰·메타분석 프로토콜.
+[^147]: [Observation on the therapeutic effect of a red-hot needle therapy combined with blood-letting puncture and cupping for treatment of neurodermatitis]. Zhang Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2007-04. [임상시험, 96명] [PMID 17585666](https://pubmed.ncbi.nlm.nih.gov/17585666/) — 열침+사혈+부항 병행이 할로메타손 크림보다 완치율·총 유효율 유의하게 높음.
+[^148]: 2020 Korean Consensus Guidelines for Diagnosis and Treatment of Chronic Hand Eczema. 김희주 외. _Annals of Dermatology_. 2021-08. [임상진료지침] [DOI 10.5021/ad.2021.33.4.351](https://doi.org/10.5021/ad.2021.33.4.351) — 델파이 방법으로 개발된 2020 한국 만성 수부 습진 진단·치료 합의 가이드라인(분류 체계·치료 사다리).
+[^149]: Efficacy and Safety of Runzao Zhiyang Capsule as an Add-On Therapy for Chronic Eczema: A Systematic Review and Meta-Analysis. Ming Li 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-03-17. [메타분석, 1896명] [DOI 10.1155/2021/6693268](https://doi.org/10.1155/2021/6693268) — 윤조지양 캡슐 병용이 만성 습진의 총 유효율을 높이고 EASI·가려움 VAS·IgE를 유의하게 감소.
+[^150]: Progress in the Treatment of Eczema in the Last Decade by External Treatment of Chinese Medicine. Xuanyi Liu 외. _Journal of Contemporary Medical Practice_. 2024-10-29. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(10).16](https://doi.org/10.53469/jcmp.2024.06(10).16) — 중의학 외용제 치료가 만성 습진에서 안전하고 빠른 효과를 제공하는 임상 선택지임을 정리한 문헌고찰.
+[^151]: Topical 0.05% clobetasol cream in the treatment of chronic hand eczema: A protocol for systematic review and meta-analysis. Jing M 외. _Medicine_. 2021-03-12. [체계적 고찰] [DOI 10.1097/MD.0000000000024418](https://doi.org/10.1097/MD.0000000000024418) [PMID 33725820](https://pubmed.ncbi.nlm.nih.gov/33725820/) — 0.05% 클로베타솔 크림의 만성 수부 습진 유효성·안전성 평가 체계적 고찰·메타분석 프로토콜.
+[^152]: A Multicenter, Randomized, Double-Blind, Placebo-Controlled Study of Compound Glycyrrhizin Capsules Combined with a Topical Corticosteroid in Adults with Chronic Eczema. Xu W 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [임상시험, 199명] [DOI 10.1155/2020/6127327](https://doi.org/10.1155/2020/6127327) [PMID 32308712](https://pubmed.ncbi.nlm.nih.gov/32308712/) — 경구용 복합 감초 글리시리진 병용이 국소 스테로이드 단독보다 EASI·IGA·가려움·재발률 개선.
+[^153]: Effect of halometasone cream combined with Simiao pill on the therapeutic effect and expression of serum leukotriene B4 (LTB4) and thymic stromal lymphopoietin (TSLP) in patients with eczema, and the factors influencing its clinical efficacy. Cao J 외. _Annals of palliative medicine_. 2021-11. [관찰연구, 195명] [DOI 10.21037/apm-21-2685](https://doi.org/10.21037/apm-21-2685) [PMID 34872289](https://pubmed.ncbi.nlm.nih.gov/34872289/) — 할로메타손+사묘환 병용이 단독보다 유효율을 높이고 혈청 LTB4·TSLP를 낮춤; 습열 설맥이 효능에 영향.
+[^154]: [Effect of cotton-moxibustion on chronic eczema and quality of life]. Hao LF 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-09-12. [임상시험, 66명] [DOI 10.13703/j.0255-2930.20200817-k0002](https://doi.org/10.13703/j.0255-2930.20200817-k0002) [PMID 34491652](https://pubmed.ncbi.nlm.nih.gov/34491652/) — 면면구 요법이 복방 플루메타손 연고보다 만성 습진의 가려움·병변·삶의 질 개선에 우수.
+[^155]: Efficacy and Safety of Qingpeng Ointment for Subacute and Chronic Eczema: A Systematic Review and Meta-Analysis. Li Y 외. _BioMed research international_. 2021. [메타분석] [DOI 10.1155/2021/5594953](https://doi.org/10.1155/2021/5594953) [PMID 33954181](https://pubmed.ncbi.nlm.nih.gov/33954181/) — 청펑고가 아급성·만성 습진의 유효율·가려움을 개선하고 국소 스테로이드 병용 시 더 우수.
+[^156]: Clinical Efficacy of Tacrolimus Ointment + 3% Boric Acid Lotion Joint Chinese Angelica Decoction in Chronic Perianal Eczema. Gao W 외. _Computational and mathematical methods in medicine_. 2021. [관찰연구, 76명] [DOI 10.1155/2021/1016108](https://doi.org/10.1155/2021/1016108) [PMID 34721653](https://pubmed.ncbi.nlm.nih.gov/34721653/) — 타크롤리무스+붕산 로션에 당귀탕 병용이 만성 항문 습진의 가려움·병변·삶의 질·혈청 IgE를 유의하게 개선.
+[^157]: Efficacy and safety of Runzao Zhiyang capsules combined with antihistamines in the treatment of chronic eczema: A meta-analysis. Shan B 외. _Medicine_. 2025-12-26. [메타분석, 3071명] [DOI 10.1097/MD.0000000000046334](https://doi.org/10.1097/MD.0000000000046334) [PMID 41465894](https://pubmed.ncbi.nlm.nih.gov/41465894/) — 윤조지양 캡슐+항히스타민제 병용이 단독보다 유효율 높고 졸음 부작용을 유의하게 감소.
+[^158]: [Clinical observation of chronic perianal eczema treated with auricular point sticking therapy and western medication]. Wen Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-06-12. [임상시험, 90명] [DOI 10.13703/j.0255-2930.2017.06.009](https://doi.org/10.13703/j.0255-2930.2017.06.009) [PMID 29231502](https://pubmed.ncbi.nlm.nih.gov/29231502/) — 이혈 압박 요법 병행이 만성 항문 습진의 가려움·DLQI·유효율·재발률에서 유의하게 우수.
+[^159]: Efficacy and safety of Run Zao Zhi Yang capsule on chronic eczema: a multiple-center, randomized, double-blind, placebo-controlled clinical study. Huang D 외. _The Journal of dermatological treatment_. 2019-11. [임상시험, 240명] [DOI 10.1080/09546634.2019.1571267](https://doi.org/10.1080/09546634.2019.1571267) [PMID 31218889](https://pubmed.ncbi.nlm.nih.gov/31218889/) — 윤조지양 캡슐 다기관 이중맹검 위약대조 시험에서 EASI 95·60 도달률 유의하게 높고 안전.
+[^160]: Efficacy and Safety of Runzaozhiyang Lotion for Chronic Hand Eczema: Protocol for a Randomized Controlled Trial. Zang R 외. _JMIR research protocols_. 2025-09-24. [임상시험, 122명] [DOI 10.2196/76555](https://doi.org/10.2196/76555) [PMID 40991871](https://pubmed.ncbi.nlm.nih.gov/40991871/) — 윤조지양 로션의 만성 수부 습진 유효성·안전성 평가 무작위 대조 시험 프로토콜.
+[^161]: Superficial X-ray therapy in the treatment of constitutional eczema of the hands. Fairris GM 외. _The British journal of dermatology_. 1984-10. [임상시험, 24명] [DOI 10.1111/j.1365-2133.1984.tb06607.x](https://doi.org/10.1111/j.1365-2133.1984.tb06607.x) [PMID 6386031](https://pubmed.ncbi.nlm.nih.gov/6386031/) — 표재성 X선 치료가 가짜 치료보다 체질성 손 습진 개선에 유의하게 우수, 효과가 18주까지 지속.
+[^162]: Comparison of Grenz rays versus placebo in the treatment of chronic hand eczema. Cartwright PH 외. _The British journal of dermatology_. 1987-07. [임상시험, 30명] [DOI 10.1111/j.1365-2133.1987.tb04093.x](https://doi.org/10.1111/j.1365-2133.1987.tb04093.x) [PMID 3307888](https://pubmed.ncbi.nlm.nih.gov/3307888/) — 그렌츠선 치료가 위약과 비교해 만성 손 습진에 유의한 효능 차이를 보이지 않음.
+[^163]: Topical psoralen photochemotherapy (PUVA) and superficial radiotherapy in the treatment of chronic hand eczema. Sheehan-Dare RA 외. _The British journal of dermatology_. 1989-07. [임상시험, 21명] [DOI 10.1111/j.1365-2133.1989.tb01401.x](https://doi.org/10.1111/j.1365-2133.1989.tb01401.x) [PMID 2757957](https://pubmed.ncbi.nlm.nih.gov/2757957/) — 표재성 방사선 치료가 국소 PUVA보다 만성 손 습진의 초기 개선 속도·지속 효과에서 더 우수.
+[^164]: Efficacy and Safety of Alitretinoin for Chronic Hand Eczema in Korean Patients. Kwon HI 외. _Annals of dermatology_. 2016-06. [임상시험, 27명] [DOI 10.5021/ad.2016.28.3.364](https://doi.org/10.5021/ad.2016.28.3.364) [PMID 27274636](https://pubmed.ncbi.nlm.nih.gov/27274636/) — 알리트레티노인 12주 투여로 한국인 중등도-중증 만성 수부 습진의 44.4%에서 증상 개선.
+[^165]: Efficacy and Safety of Alitretinoin Therapy in Korean Elderly Patients with Chronic Hand Eczema: A Retrospective Single Center Study. Jo M 외. _Annals of dermatology_. 2019-12. [관찰연구, 46명] [DOI 10.5021/ad.2019.31.6.595](https://doi.org/10.5021/ad.2019.31.6.595) [PMID 33911658](https://pubmed.ncbi.nlm.nih.gov/33911658/) — 고령 만성 수부 습진 환자의 알리트레티노인 후향 연구에서 82.6% 임상 개선, 고중성지방혈증 등 부작용 모니터링 필요.
+[^166]: Alitretinoin Compliance in Patients with Chronic Hand Eczema. Seol JE 외. _Annals of dermatology_. 2021-02. [관찰연구] [DOI 10.5021/ad.2021.33.1.46](https://doi.org/10.5021/ad.2021.33.1.46) [PMID 33911811](https://pubmed.ncbi.nlm.nih.gov/33911811/) — 만성 수부 습진 알리트레티노인 치료의 낮은 순응도 원인(불충분한 반응·비용·부작용) 분석.
+[^167]: A Multi-Center, Open-Label, Single-Arm, Prospective Investigator Initiated Trial to Evaluate the Efficacy and Safety of Alitretinoin in Patients With Chronic Hand Eczema in Real-World Practice (DWALG_P401) and Overview of Korean Studies. Kwon MJ 외. _Annals of dermatology_. 2026-08. [임상시험, 146명] [DOI 10.5021/ad.25.242](https://doi.org/10.5021/ad.25.242) [PMID 42547475](https://pubmed.ncbi.nlm.nih.gov/42547475/) — 다기관 실사용 연구에서 경구 알리트레티노인의 PGA 반응률 42.6%, 수용 가능한 안전성.
+[^168]: Clinical Efficacy of Integrated Traditional Chinese and Western Medicine in the Treatment of Eczema: A Meta-Analysis. Xingxing Wang 외. _Computational and Mathematical Methods in Medicine_. 2022-03-03. [메타분석, 1946명] [DOI 10.1155/2022/7202626](https://doi.org/10.1155/2022/7202626) — 중서의결합 치료가 서양의학 단독보다 습진의 유효율·완치율을 높이고 병변 면적·가려움 감소.
+[^169]: Research Advances in Traditional Chinese Medicine External Therapies for Eczema Treatment. Mengpei Xie 외. _Journal of Medicine and Health Science_. 2025-12. [문헌 고찰] [DOI 10.62517/jmhs.202505408](https://doi.org/10.62517/jmhs.202505408) — 괄사·부항·훈증 등 한방 외치법이 경락 소통·기혈 조절을 통해 습진 증상 완화·재발 방지에 기여.
+[^170]: A Comparison of the Effect of Topical Preparation of Sambucus ebulus L. and Hydrocortisone on Hand Eczema: A Double-Blind Randomized Controlled Trial. Farahani AM 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2021-04. [임상시험, 94명] [DOI 10.1089/acm.2020.0343](https://doi.org/10.1089/acm.2020.0343) [PMID 33571040](https://pubmed.ncbi.nlm.nih.gov/33571040/) — Sambucus ebulus 국소 도포제가 하이드로코티손과 유사한 수부 습진 개선 효과, 삶의 질(DLQI)은 더 우수.
+[^171]: Antipruritic Effect of Qingpeng Ointment on the Localized Nonexudative Eczema. Li Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험, 60명] [DOI 10.1155/2019/4961691](https://doi.org/10.1155/2019/4961691) [PMID 31118960](https://pubmed.ncbi.nlm.nih.gov/31118960/) — 청펑고가 비삼출성 국소 습진의 가려움 강도·빈도·지속시간과 병변 형태를 유의하게 개선.
+[^172]: Systemic therapy and the use of complementary and alternative medicine in patients with recognized occupational hand eczema in Denmark: A cross-sectional questionnaire-based study. Barati Sedeh F 외. _Contact dermatitis_. 2020-05. [관찰연구, 1203명] [DOI 10.1111/cod.13477](https://doi.org/10.1111/cod.13477) [PMID 31967326](https://pubmed.ncbi.nlm.nih.gov/31967326/) — 덴마크 직업성 수부 습진 환자의 CAM 사용률 6.2%로 낮고 중증에서도 전신 치료 이용률 저조.
+[^173]: Efficacy of Longdan Xiegan Decoction on the Treatment of Eczema: A Systematic Review and Meta-Analysis. Hu Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석, 1080명] [DOI 10.1155/2021/8836117](https://doi.org/10.1155/2021/8836117) [PMID 33680065](https://pubmed.ncbi.nlm.nih.gov/33680065/) — 용담사간탕이 양약 단독보다 습진의 완치율·총 유효율을 높이고 재발률·염증 사이토카인을 낮춤.
+[^174]: Complementary and alternative medicine treatments for common skin diseases: A systematic review and meta-analysis. Jones VA 외. _JAAD international_. 2021-03. [메타분석] [DOI 10.1016/j.jdin.2020.11.001](https://doi.org/10.1016/j.jdin.2020.11.001) [PMID 34409356](https://pubmed.ncbi.nlm.nih.gov/34409356/) — 여드름·아토피피부염·건선 등 흔한 피부질환의 CAM 치료 근거는 연구 다양성으로 인해 아직 불충분.
+[^175]: A clinical and patch test study of patients with positive patch test reactions to fragrance mix in China. Lu X 외. _Contact dermatitis_. 2005-04. [관찰연구, 378명] [DOI 10.1111/j.0105-1873.2005.00516.x](https://doi.org/10.1111/j.0105-1873.2005.00516.x) [PMID 15859990](https://pubmed.ncbi.nlm.nih.gov/15859990/) — 중국 습진 환자의 향료 믹스 첩포시험 양성률 15.9%, 이 중 76.7%가 중의약 사용력과 관련.
+[^176]: Desloratadine citrate combined with compound glycyrrhizin in the treatment of subacute eczema: A randomized trial. Wang G 외. _Pakistan journal of pharmaceutical sciences_. 2022-05. [임상시험, 100명] [PMID 35791588](https://pubmed.ncbi.nlm.nih.gov/35791588/) — 데스로라타딘+복합 감초 병용이 아급성 습진에서 단독보다 유효율 높고 염증 인자 더 감소.
+[^177]: [Systematic review and Meta-analysis of efficacy and safety of Binghuang Fule Ointment in treatment of eczema]. Yang S 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-05. [메타분석, 1919명] [DOI 10.19540/j.cnki.cjcmm.20220215.501](https://doi.org/10.19540/j.cnki.cjcmm.20220215.501) [PMID 35718500](https://pubmed.ncbi.nlm.nih.gov/35718500/) — 빙황복락고 단독·병용이 양방 단독보다 습진 유효율을 높이고 재발률을 낮추며 안전성은 대등.
+[^178]: [A randomized, placebo controlled study on Fangfeng Tongsheng granule in treatment of sub-acute eczema]. Zhao T 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2015-04. [임상시험, 108명] [PMID 26281572](https://pubmed.ncbi.nlm.nih.gov/26281572/) — 방풍통성산이 표한리열·표리실증 아급성 습진의 한방 증후군·피부 증상 완치율을 유의하게 개선.
+[^179]: Efficacy and safety of Kangfuxin liquid for eczema: a systematic review and meta-analysis. Chen YR 외. _Archives of dermatological research_. 2025-03-20. [메타분석, 1725명] [DOI 10.1007/s00403-025-03983-9](https://doi.org/10.1007/s00403-025-03983-9) [PMID 40111524](https://pubmed.ncbi.nlm.nih.gov/40111524/) — 강복신액이 비스테로이드 연고보다 우수, 스테로이드 연고와 유사, 병용 시 더 개선.
+[^180]: Exogenous Cushing's syndrome due to a Chinese herbalist's prescription of ointment containing dexamethasone. Franke V 외. _BMJ case reports_. 2017-04-20. [증례 보고, 1명] [DOI 10.1136/bcr-2016-218721](https://doi.org/10.1136/bcr-2016-218721) [PMID 28432185](https://pubmed.ncbi.nlm.nih.gov/28432185/) — 스테로이드(덱사메타손)를 무단 혼입한 한약 연고로 소아에서 외인성 쿠싱증후군 발생.
+[^181]: [Clinical comprehensive evaluation of Binghuang Fule Ointment in treatment of eczema]. Chen M 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2025-05. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20250214.501](https://doi.org/10.19540/j.cnki.cjcmm.20250214.501) [PMID 40461211](https://pubmed.ncbi.nlm.nih.gov/40461211/) — 빙황복락고의 종합 가치 평가(6+1 모델)에서 안전성·유효성 우수, 종합 가치 등급 A.
+[^182]: Multicenter study of the frequency of contact allergy to gold. Lee AY 외. _Contact dermatitis_. 2001-10. [관찰연구, 313명] [DOI 10.1034/j.1600-0536.2001.450404.x](https://doi.org/10.1034/j.1600-0536.2001.450404.x) [PMID 11683831](https://pubmed.ncbi.nlm.nih.gov/11683831/) — 한국 습진 환자의 금 접촉 알레르기 양성률 3.1%로 낮고, 금박 한약·금침 관련 임상적 반응은 드묾.
+[^183]: Comparison of the Effectiveness Differences between Western and Chinese Medicinal Ointments against Eczema. Law SK 외. _Pharmaceuticals (Basel, Switzerland)_. 2025-08-22. [체계적 고찰] [DOI 10.3390/ph18091248](https://doi.org/10.3390/ph18091248) [PMID 41011120](https://pubmed.ncbi.nlm.nih.gov/41011120/) — 중서약 병용 요법의 습진 유효율(88%)이 양약 단독(70%)보다 유의하게 높음.
+[^184]: Quality of Life in Hand Eczema Questionnaire: Validation of the Japanese version of a disease-specific measure of quality of life for hand eczema patients. Minamoto K 외. _The Journal of dermatology_. 2018-11. [관찰연구, 124명] [DOI 10.1111/1346-8138.14646](https://doi.org/10.1111/1346-8138.14646) [PMID 30264908](https://pubmed.ncbi.nlm.nih.gov/30264908/) — 수부 습진 삶의 질 특이 도구 QOLHEQ 일본어판의 신뢰도·타당도 검증.
+[^185]: First results from the multicentre study rehabilitation of occupational skin diseases--optimization and quality assurance of inpatient management (ROQ). Skudlik C 외. _Contact dermatitis_. 2012-03. [관찰연구, 1788명] [DOI 10.1111/j.1600-0536.2011.01991.x](https://doi.org/10.1111/j.1600-0536.2011.01991.x) [PMID 22070197](https://pubmed.ncbi.nlm.nih.gov/22070197/) — 다학제 통합 재활 프로그램이 중증 직업성 피부질환의 삶의 질·스테로이드 중단율·업무 복귀율(88.8%)을 개선.
+[^186]: Clinical Characteristics of Hand Eczema and its Association with Atopic Dermatitis in the Chinese Population: A Multicenter Cross-Sectional Study. Zhang J 외. _The Journal of investigative dermatology_. 2025-12. [관찰연구, 2072명] [DOI 10.1016/j.jid.2025.04.031](https://doi.org/10.1016/j.jid.2025.04.031) [PMID 40398595](https://pubmed.ncbi.nlm.nih.gov/40398595/) — 아토피피부염을 동반한 수부 습진이 중증도·이환 기간·질병 부담에서 더 큼(중국 다기관 연구).
+[^187]: A cross-sectional study of clinical characteristics and risk factors for hand eczema in the general Chinese population. Qu Z 외. _Scientific reports_. 2024-11-29. [관찰연구, 121명] [DOI 10.1038/s41598-024-81610-9](https://doi.org/10.1038/s41598-024-81610-9) [PMID 39613886](https://pubmed.ncbi.nlm.nih.gov/39613886/) — 하루 5시간 이상 젖은 손 작업과 피부 갈라짐이 수부 습진 중증도의 유의한 위험 요인.
+[^188]: Hand Eczema Referred for Patch Testing: Retrospective Study in Shanghai, China From 2018 to 2023. Ye C 외. _The Journal of dermatology_. 2026-07-12. [관찰연구, 788명] [DOI 10.1111/1346-8138.70378](https://doi.org/10.1111/1346-8138.70378) [PMID 42438158](https://pubmed.ncbi.nlm.nih.gov/42438158/) — 상하이 수부 습진 첩포시험 양성률 82.2%, 니켈·코발트·방부제·고무 성분이 주요 알레르겐.
+[^189]: Conventional superficial X-ray versus Grenz ray therapy in the treatment of constitutional eczema of the hands. Fairris GM 외. _The British journal of dermatology_. 1985-03. [임상시험, 25명] [DOI 10.1111/j.1365-2133.1985.tb04862.x](https://doi.org/10.1111/j.1365-2133.1985.tb04862.x) [PMID 3884032](https://pubmed.ncbi.nlm.nih.gov/3884032/) — 재래식 표재성 X선 치료가 그렌츠선보다 체질성 손 습진에 더 우수한 효과.
+[^190]: Determinants of current hand eczema: results from case-control studies nested in the PACO follow-up study (PACO II). Apfelbacher CJ 외. _Contact dermatitis_. 2010-06. [관찰연구, 1909명] [DOI 10.1111/j.1600-0536.2010.01729.x](https://doi.org/10.1111/j.1600-0536.2010.01729.x) [PMID 20557343](https://pubmed.ncbi.nlm.nih.gov/20557343/) — 아토피성 피부 체질이 수부 습진의 가장 강력한 개인적 위험 요인, 젖은 작업이 자극성 수부 습진과 관련.
+[^191]: Epidemiological Survey and Characteristic Analysis of Hand Eczema Among Nursing Staff in Certain Regions of Xinjiang During the COVID-19 Pandemic: A Cross-Sectional Study. Hu Q 외. _Cureus_. 2025-11. [관찰연구, 830명] [DOI 10.7759/cureus.97209](https://doi.org/10.7759/cureus.97209) [PMID 41431598](https://pubmed.ncbi.nlm.nih.gov/41431598/) — 간호 인력에서 잦은 손 위생·소독제 노출이 수부 습진 위험 요인, 보습제 사용은 보호 요인.
+[^192]: The Quality of Life and Depressive Mood among Korean Patients with Hand Eczema. Yu M 외. _Annals of dermatology_. 2012-11. [관찰연구, 138명] [DOI 10.5021/ad.2012.24.4.430](https://doi.org/10.5021/ad.2012.24.4.430) [PMID 23197909](https://pubmed.ncbi.nlm.nih.gov/23197909/) — 수부 습진 중증도(HECSI)가 심할수록 삶의 질(DLQI)·우울(BDI-II)이 유의하게 악화.
+[^193]: Seborrheic Dermatitis Treatment Using a Standardized Medical Insurance-Approved Korean Medicine: a case report. Pak Yeon-kyoung 외. _Journal of Pharmacopuncture_. 2024-09. [증례 보고, 2명] [DOI 10.3831/KPI.2024.27.3.264](https://doi.org/10.3831/KPI.2024.27.3.264) — 표준화 황련해독탕 정제가 화열 증후군 지루성 피부염의 열감·가려움·따끔거림 VAS를 감소.
+[^194]: Clinical characteristics and quality of life in seborrheic dermatitis patients: a cross-sectional study in China. Meiling Xuan 외. _Health and Quality of Life Outcomes_. 2020-09-16. [관찰연구, 312명] [DOI 10.1186/s12955-020-01558-y](https://doi.org/10.1186/s12955-020-01558-y) — 지루성 피부염 환자의 48.1%가 심각한 정서적 문제, 중증도·낮은 BMI·PM10이 삶의 질 저하 위험 요인.
+[^195]: Significant Efficacy of Traditional Chinese Medicine and Herbal Treatment on Chronic Seborrheic Dermatitis: A Case Report. Fu-Shih Chen. _Journal of Alternative, Complementary &amp; Integrative Medicine_. 2024-03-26. [증례 보고, 1명] [DOI 10.24966/acim-7562/100473](https://doi.org/10.24966/acim-7562/100473) — 장기 서양의학 치료 무반응 만성 지루성 피부염이 한약 치료 후 유의하게 개선된 증례.
+[^196]: Effectiveness of traditional Chinese medicine preparations for facial seborrheic dermatitis: case reports. Zhang R 외. _Heliyon_. 2022-12. [증례 보고, 2명] [DOI 10.1016/j.heliyon.2022.e12338](https://doi.org/10.1016/j.heliyon.2022.e12338) [PMID 36582725](https://pubmed.ncbi.nlm.nih.gov/36582725/) — 신양을 보하는 온양요법+ASLW 한약이 만성 재발성 안면 지루성 피부염을 1주 만에 소실시킨 증례.
+[^197]: Efficacy of shortwave radiofrequency-assisted delivery of Quhong Zhiyang ointment in the treatment of facial seborrheic dermatitis: a retrospective study of 72 patients. Li B 외. _Cutaneous and ocular toxicology_. 2026-06. [관찰연구, 72명] [DOI 10.1080/15569527.2026.2635425](https://doi.org/10.1080/15569527.2026.2635425) [PMID 41787983](https://pubmed.ncbi.nlm.nih.gov/41787983/) — 단파 고주파 보조 거홍지양고 전달이 대조군보다 안면 지루성 피부염 유효율·말라세지아 억제에서 우수.
+[^198]: Tanshinone Capsules Combined With Prednisone for Facial Seborrheic Dermatitis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Fu Q 외. _Frontiers in medicine_. 2022. [메타분석, 916명] [DOI 10.3389/fmed.2022.816419](https://doi.org/10.3389/fmed.2022.816419) [PMID 35572959](https://pubmed.ncbi.nlm.nih.gov/35572959/) — 단삼 캡슐+프레드니손 병용이 프레드니손 단독보다 유효율 높고(OR 5.82) 재발률 낮음(OR 0.22).
+[^199]: Identification of Malassezia species in patients with seborrheic dermatitis in China. Zhang H 외. _Mycopathologia_. 2013-02. [관찰연구, 146명] [DOI 10.1007/s11046-012-9606-z](https://doi.org/10.1007/s11046-012-9606-z) [PMID 23247810](https://pubmed.ncbi.nlm.nih.gov/23247810/) — 중국인 지루성 피부염에서 M. globosa·M. restricta 우세, 82.9%가 다종 말라세지아 동시 감작.
+[^200]: Treatment of facial seborrheic dermatitis with pimecrolimus cream 1%: an open-label clinical study in Korean patients. Kim BS 외. _Journal of Korean medical science_. 2007-10. [임상시험, 20명] [DOI 10.3346/jkms.2007.22.5.868](https://doi.org/10.3346/jkms.2007.22.5.868) [PMID 17982237](https://pubmed.ncbi.nlm.nih.gov/17982237/) — 피메크롤리무스 크림 1%가 안면 지루성 피부염의 홍반·인설·가려움을 유의하게 개선, 재발 관리 필요.
+[^201]: Propionibacterium acnes lipase in seborrheic dermatitis and other skin diseases and Unsei-in. Higaki S 외. _Drugs under experimental and clinical research_. 2003. [실험연구] [PMID 15018307](https://pubmed.ncbi.nlm.nih.gov/15018307/) — P. acnes lipase·유리지방산이 지루성 피부염의 병인이며 운세인이 lipase 활성을 억제.
+[^202]: Effectiveness of Sopoongsan for chronic upper body pruritus in patients with atopic or seborrheic dermatitis: A pilot study protocol for a randomized, double-blind, placebo-controlled, parallel trial. Jang JH 외. _Medicine_. 2022-11-18. [임상시험, 20명] [DOI 10.1097/MD.0000000000031470](https://doi.org/10.1097/MD.0000000000031470) [PMID 36401407](https://pubmed.ncbi.nlm.nih.gov/36401407/) — 소풍산의 아토피·지루성 피부염 동반 만성 상체 가려움증 개선 효과 평가 프로토콜.
+[^203]: Anti-pruritic and anti-inflammatory effects of Sopoongsan on atopic or seborrheic dermatitis: A pilot randomized, placebo-controlled clinical trial and translational research using in vitro and in vivo models. Park G 외. _Journal of ethnopharmacology_. 2026-01-30. [임상시험, 20명] [DOI 10.1016/j.jep.2025.120708](https://doi.org/10.1016/j.jep.2025.120708) [PMID 41101551](https://pubmed.ncbi.nlm.nih.gov/41101551/) — 소풍산이 만성 상체 가려움증의 NRS·혈청 RANTES·IL-4를 감소, STAT1 억제 기전과 관련.
+
+**고전 인용 출처**: 『黃帝內經素問』(至眞要大論, 生氣通天論), 『靈樞』, 『外科正宗』(消風散·除濕胃苓湯), 『醫方集解』(龍膽瀉肝湯), 『外臺秘要』(黃連解毒湯), 『太平惠民和劑局方』(藿香正氣散·四物湯·逍遙散), 『濟生方』(當歸飮子·歸脾湯), 『醫宗金鑑』(桃紅四物湯), 『脾胃論』(補中益氣湯), 『醫學心悟』(三妙散), 『內科攝要』(加味逍遙散), 『小兒藥證直訣』(六味地黃丸·導赤散), 『續名醫類案』(一貫煎), 『醫宗必讀』, 『和劑局方』(十全大補湯)
+
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-26 조회 기준
