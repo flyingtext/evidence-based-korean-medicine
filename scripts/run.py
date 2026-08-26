@@ -81,8 +81,6 @@ def step_recent() -> int:
             rel = token[len("wiki/"):]
             if rel in ("README.md", "최근업데이트.md", "추천순위.md", "_template.md"):
                 continue
-            if rel.startswith("assets/"):
-                continue
             if os.path.basename(rel) == "README.md":
                 continue
             # 현재 존재하는 실제 문서만 포함 (삭제된 옛 구조 제외)
