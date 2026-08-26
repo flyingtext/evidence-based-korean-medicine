@@ -19,6 +19,9 @@
 - 향유(香薷, Elsholtziae Herba) — (작성 예정)
 - 강활(羌活, Notopterygii Rhizoma) — (작성 예정)
 - 총백(蔥白, Allii Fistulosi Bulbus) — (작성 예정)
+- 고본(藁本, Ligustici Rhizoma) — (작성 예정)
+- 창이자(蒼耳子, Xanthii Fructus) — (작성 예정)
+- 신이(辛夷, Magnoliae Flos) — (작성 예정)
 
 ### 1-2. 발산풍열약(發散風熱藥, Wind-Heat Dispersing)
 
@@ -30,6 +33,9 @@
 - 승마(升麻, Cimicifugae Rhizoma) — (작성 예정)
 - 상엽(桑葉, Mori Folium) — (작성 예정)
 - 선퇴(蟬退, Cicadae Periostracum) — (작성 예정)
+- 만형자(蔓荊子, Viticis Fructus) — (작성 예정)
+- 담두시(淡豆豉, Sojae Semen Praeparatum) — (작성 예정)
+- 목적(木賊, Equiseti Hiemalis Herba) — (작성 예정)
 
 ## 2. 청열약(淸熱藥, Heat-Clearing Herbs)
 
@@ -40,6 +46,13 @@
 - 치자(梔子, Gardenia)
 - 하고초(夏枯草, Prunellae Spica) — (작성 예정)
 - 노근(蘆根, Phragmitis Rhizoma) — (작성 예정)
+- 천화분(天花粉, Trichosanthis Radix) — (작성 예정)
+- 죽엽(竹葉, Lophatheri Herba) — (작성 예정)
+- 담죽엽(淡竹葉, Lophatheri Herba) — (작성 예정)
+- 결명자(決明子, Cassiae Semen) — (작성 예정)
+- 곡정초(穀精草, Eriocauli Flos) — (작성 예정)
+- 청상자(靑箱子, Celosiae Semen) — (작성 예정)
+- 밀몽화(密蒙花, Buddlejae Flos) — (작성 예정)
 
 ### 2-2. 청열조습약(淸熱燥濕藥, Heat-Clearing Damp-Drying)
 
@@ -48,6 +61,8 @@
 - 황백(黃柏, Phellodendri Cortex)
 - 용담초(龍膽草, Gentianae Radix) — (작성 예정)
 - 고삼(苦蔘, Sophorae Flavescentis Radix) — (작성 예정)
+- 백선피(白鮮皮, Dictamni Cortex) — (작성 예정)
+- 진피(秦皮, Fraxini Cortex) — (작성 예정)
 
 ### 2-3. 청열양혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
 
@@ -56,6 +71,7 @@
 - 현삼(玄蔘, Scrophularia buergeriana) — (작성 예정, 연호색 문서의 동음이의 부위와 혼동 주의)
 - 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
 - 서각/수우각(犀角/水牛角, Bubali Cornu) — (작성 예정)
+- 자초(紫草, Lithospermi Radix) — (작성 예정)
 
 ### 2-4. 청열해독약(淸熱解毒藥, Heat-Toxin Clearing)
 
@@ -65,6 +81,21 @@
 - 포공영(蒲公英, Taraxaci Herba) — (작성 예정)
 - 어성초(魚腥草, Houttuyniae Herba) — (작성 예정)
 - 대청엽(大靑葉, Isatidis Folium) — (작성 예정)
+- 청대(靑黛, Indigo Pulverata Levis) — (작성 예정)
+- 자화지정(紫花地丁, Violae Herba) — (작성 예정)
+- 야국화(野菊花, Chrysanthemi Indici Flos) — (작성 예정)
+- 백두옹(白頭翁, Pulsatillae Radix) — (작성 예정)
+- 마치금(馬齒莧, Portulacae Herba) — (작성 예정)
+- 패장초(敗醬草, Patriniae Herba) — (작성 예정)
+- 홍등(紅藤, Sargentodoxae Caulis) — (작성 예정)
+- 토복령(土茯苓, Smilacis Glabrae Rhizoma) — (작성 예정)
+- 백화사설초(白花蛇舌草, Hedyotidis Herba) — (작성 예정)
+- 산두근(山豆根, Sophorae Tonkinensis Radix) — (작성 예정)
+- 마발(馬勃, Lasiosphaera seu Calvatia) — 13-5 청폐지해평천약과 중복 겸용(작성 예정)
+- 사간(射干, Belamcandae Rhizoma) — (작성 예정)
+- 목별자(木鱉子, Momordicae Semen) — (작성 예정)
+- 반지련(半枝蓮, Scutellariae Barbatae Herba) — (작성 예정)
+- 백강잠(白殭蠶) — 15 평간식풍약과 중복 겸용(작성 예정)
 
 ### 2-5. 청허열약(淸虛熱藥, Deficiency-Heat Clearing)
 
@@ -72,6 +103,7 @@
 - 청호(靑蒿, Artemisiae Annuae Herba) — (작성 예정)
 - 백미(白薇, Cynanchi Atrati Radix) — (작성 예정)
 - 은시호(銀柴胡, Stellariae Radix) — (작성 예정)
+- 호황련(胡黃連, Picrorhizae Rhizoma) — (작성 예정)
 
 ## 3. 사하약(瀉下藥, Purgative Herbs)
 
@@ -79,6 +111,8 @@
 
 - 대황(大黃, Rhei Radix et Rhizoma) — (작성 예정)
 - 망초(芒硝, Natrii Sulfas) — (작성 예정)
+- 번사(番瀉葉, Sennae Folium) — (작성 예정)
+- 노회(蘆薈, Aloe) — 20 외용 및 기타 약과 중복 겸용(작성 예정)
 
 ### 3-2. 윤하약(潤下藥)
 
@@ -90,6 +124,8 @@
 - 감수(甘遂, Kansui Radix) — (작성 예정)
 - 대극(大戟, Euphorbiae Pekinensis Radix) — (작성 예정)
 - 견우자(牽牛子, Pharbitidis Semen) — (작성 예정)
+- 원화(芫花, Genkwa Flos) — (작성 예정)
+- 상륙(商陸, Phytolaccae Radix) — (작성 예정)
 
 ## 4. 거풍습약(祛風濕藥, Wind-Damp Dispelling Herbs)
 
@@ -99,6 +135,15 @@
 - 오가피(五加皮, Acanthopanacis Cortex) — (작성 예정)
 - 상기생(桑寄生, Taxilli Herba) — (작성 예정)
 - 진교(秦艽, Gentianae Macrophyllae Radix) — (작성 예정)
+- 해동피(海桐皮, Erythrinae Cortex) — (작성 예정)
+- 목과(木瓜, Chaenomelis Fructus) — (작성 예정)
+- 서장경(徐長卿, Cynanchi Paniculati Radix) — (작성 예정)
+- 백화사(白花蛇, Bungarus Parvus) — (작성 예정)
+- 오사(烏蛇, Zaocys) — (작성 예정)
+- 천산갑(穿山甲, Manis Squama) — (작성 예정)
+- 노석(絡石藤, Trachelospermi Caulis) — (작성 예정)
+- 해풍등(海風藤, Piperis Kadsurae Caulis) — (작성 예정)
+- 청풍등(靑風藤, Sinomenii Caulis) — (작성 예정)
 
 ## 5. 방향화습약(芳香化濕藥, Aromatic Damp-Transforming Herbs)
 
@@ -108,6 +153,8 @@
 - 백두구(白豆蔲, Amomi Fructus Rotundus) — (작성 예정)
 - 사인(砂仁, Amomi Fructus) — (작성 예정)
 - 초두구(草豆蔲, Alpiniae Katsumadai Semen) — (작성 예정)
+- 패란(佩蘭, Eupatorii Herba) — (작성 예정)
+- 편두화(扁豆花, Lablab Album Flos) — (작성 예정)
 
 ## 6. 이수삼습약(利水滲濕藥, Water-Dispelling Damp-Percolating Herbs)
 
@@ -119,6 +166,18 @@
 - 인진호(茵陳蒿, Artemisiae Scopariae Herba) — (작성 예정)
 - 목통(木通, Akebiae Caulis) — (작성 예정, 관목통 아리스톨로크산 안전성 문헌은 세신 문서에서 부분 다룸)
 - 금전초(金錢草, Lysimachiae Herba) — (작성 예정)
+- 해금사(海金沙, Lygodii Spora) — (작성 예정)
+- 활석(滑石, Talcum) — (작성 예정)
+- 적복령(赤茯苓) — 복령(茯苓) 문서에서 하위 표제어로 포함 **작성됨**
+- 복신(茯神) — 복령(茯苓) 문서에서 하위 표제어로 포함 **작성됨**
+- 동규자(冬葵子, Malvae Fructus) — (작성 예정)
+- 지부자(地膚子, Kochiae Fructus) — (작성 예정)
+- 편축(萹蓄, Polygoni Avicularis Herba) — (작성 예정)
+- 구맥(瞿麥, Dianthi Herba) — (작성 예정)
+- 등심초(燈心草, Junci Medulla) — (작성 예정)
+- 통초(通草, Tetrapanacis Medulla) — (작성 예정)
+- 호로파(葫蘆巴, Trigonellae Semen) — (작성 예정)
+- 반변련(半邊蓮, Lobeliae Chinensis Herba) — (작성 예정)
 
 ## 7. 온리약(溫裏藥, Interior-Warming Herbs)
 
@@ -129,6 +188,10 @@
 - 정향(丁香, Caryophylli Flos) — (작성 예정)
 - 소회향(小茴香, Foeniculi Fructus) — (작성 예정)
 - 화초/촉초(花椒/蜀椒, Zanthoxyli Pericarpium) — (작성 예정)
+- 고량강(高良薑, Alpiniae Officinarum Rhizoma) — (작성 예정)
+- 호초(胡椒, Piperis Nigri Fructus) — (작성 예정)
+- 필발(蓽茇, Piperis Longi Fructus) — (작성 예정)
+- 필징가(蓽澄茄, Litseae Fructus) — (작성 예정)
 
 ## 8. 이기약(理氣藥, Qi-Regulating Herbs)
 
@@ -141,6 +204,13 @@
 - 청피(靑皮, Citri Reticulatae Viride Pericarpium) — (작성 예정)
 - 시체(柿蔕, Kaki Calyx) — (작성 예정)
 - 천련자/금령자(川楝子, Toosendan Fructus) — (작성 예정)
+- 지각(枳殼, Aurantii Fructus) — (작성 예정)
+- 불수(佛手, Citri Sarcodactylis Fructus) — (작성 예정)
+- 향원(香櫞, Citri Fructus) — (작성 예정)
+- 매화(梅花, Mume Flos) — (작성 예정)
+- 침향(沈香, Aquilariae Lignum) — (작성 예정)
+- 강향(降香, Dalbergiae Lignum) — (작성 예정)
+- 단원향(檀香, Santali Albi Lignum) — (작성 예정)
 
 ## 9. 소식약(消食藥, Digestant Herbs)
 
@@ -149,6 +219,8 @@
 - 맥아(麥芽, Hordei Fructus Germinatus) — (작성 예정)
 - 나복자(蘿蔔子, Raphani Semen) — (작성 예정)
 - 계내금(鷄內金, Galli Gigerii Endothelium Corneum) — (작성 예정)
+- 곡아(穀芽, Setariae Fructus Germinatus) — (작성 예정)
+- 아위(阿魏, Ferulae Resina) — (작성 예정)
 
 ## 10. 구충약(驅蟲藥, Anthelmintic Herbs)
 
@@ -156,6 +228,8 @@
 - 빈랑자(檳榔子, Arecae Semen) — 대복피(大腹皮) 문서에서 동음이의 부위로 하위 표제어 포함(씨앗은 발암 위험 등 안전성 위주 서술, 구충 효능 독립 서술은 (작성 예정))
 - 고련피(苦楝皮, Meliae Cortex) — (작성 예정)
 - 관중(貫衆, Cyrtomii Rhizoma) — (작성 예정)
+- 뇌환(雷丸, Omphalia) — (작성 예정)
+- 학서(鶴蝨, Carpesii Fructus) — (작성 예정)
 
 ## 11. 지혈약(止血藥, Hemostatic Herbs)
 
@@ -165,6 +239,17 @@
 - 애엽(艾葉, Artemisiae Argyi Folium) — (작성 예정)
 - 선학초(仙鶴草, Agrimoniae Herba) — (작성 예정)
 - 포황(蒲黃, Typhae Pollen) — (작성 예정)
+- 대계(大薊, Cirsii Herba) — (작성 예정)
+- 소계(小薊, Cirsii Herba) — (작성 예정)
+- 지유(地楡, Sanguisorbae Radix) — (작성 예정)
+- 괴화(槐花, Sophorae Flos) — (작성 예정)
+- 괴각(槐角, Sophorae Fructus) — (작성 예정)
+- 저모(苧麻根, Boehmeriae Radix) — (작성 예정)
+- 양제근(羊蹄根, Rumicis Radix) — (작성 예정)
+- 혈여탄(血餘炭, Crinis Carbonisatus) — (작성 예정)
+- 오적골(烏賊骨, Sepiae Endoconcha) — (작성 예정)
+- 화자석(花蕊石, Ophicalcitum) — (작성 예정)
+- 우각초(藕節, Nelumbinis Nodus Rhizomatis) — (작성 예정)
 
 ## 12. 활혈거어약(活血祛瘀藥, Blood-Invigorating Stasis-Dispelling Herbs)
 
@@ -181,6 +266,13 @@
 - 강황(薑黃, Curcumae Longae Rhizoma) — (작성 예정)
 - 삼릉(三稜, Sparganii Rhizoma) — (작성 예정)
 - 아출(莪朮, Curcumae Rhizoma) — (작성 예정)
+- 계혈등(鷄血藤, Spatholobi Caulis) — (작성 예정)
+- 왕불유행(王不留行, Vaccariae Semen) — (작성 예정)
+- 소목(蘇木, Sappan Lignum) — (작성 예정)
+- 골쇄보(骨碎補, Drynariae Rhizoma) — (작성 예정)
+- 수질(水蛭, Hirudo) — (작성 예정)
+- 맹충(虻蟲, Tabanus) — (작성 예정)
+- 토별충(土鱉蟲, Eupolyphaga) — (작성 예정)
 
 ## 13. 화담지해평천약(化痰止咳平喘藥, Phlegm-Transforming Cough/Asthma-Relieving Herbs)
 
@@ -192,6 +284,10 @@
 - 자소자(紫蘇子, Perillae Fructus) — (작성 예정)
 - 백개자(白芥子, Sinapis Albae Semen) — (작성 예정)
 - 귤홍(橘紅, Citri Exocarpium Rubrum) — (작성 예정)
+- 백전(白前, Cynanchi Stauntonii Rhizoma) — (작성 예정)
+- 선복화(旋覆花, Inulae Flos) — (작성 예정)
+- 금비초(金沸草, Inulae Herba) — (작성 예정)
+- 해석(海石, Pumex) — 해부석과 동일 기원(작성 예정)
 
 ### 13-2. 청화열담약(淸化熱痰藥, Heat-Clearing Phlegm-Transforming Herbs)
 
@@ -203,6 +299,7 @@
 - 해부석(海浮石, Pumex) — (작성 예정)
 - 곤포(昆布, Laminariae Thallus) — (작성 예정)
 - 해조(海藻, Sargassum) — (작성 예정)
+- 전호(前胡) — 13-5 청폐지해평천약과 중복 겸용(작성 예정)
 
 ### 13-3. 윤조화담약(潤燥化痰藥, Moistening-Dryness Phlegm-Transforming Herbs)
 
@@ -236,6 +333,9 @@
 - 모려(牡蠣, Ostreae Concha)
 - 자석(磁石, Magnetitum) — (작성 예정, 기초한의학 본초학 문서와 별개로 해부학 관련 자석磁石 문서가 있을 경우 교차 참조)
 - 주사(朱砂, Cinnabaris) — (작성 예정, 수은 안전성 주의)
+- 진주(珍珠, Margarita) — (작성 예정)
+- 대대자(代赭石, Haematitum) — (작성 예정)
+- 용치(龍齒, Dens Draconis) — (작성 예정)
 
 ### 14-2. 양심안신약(養心安神藥)
 
@@ -243,6 +343,9 @@
 - 원지(遠志, Polygalae Radix)
 - 백자인(柏子仁, Platycladi Semen) — (작성 예정)
 - 합환피(合歡皮, Albiziae Cortex) — (작성 예정)
+- 합환화(合歡花, Albiziae Flos) — (작성 예정)
+- 야교등(夜交藤, Polygoni Multiflori Caulis) — (작성 예정)
+- 소조엽(小棗葉, Ziziphi Spinosae Folium) — (작성 예정)
 
 ## 15. 평간식풍약(平肝熄風藥, Liver-Calming Wind-Extinguishing Herbs)
 
@@ -253,6 +356,7 @@
 - 지룡(地龍, Pheretima) — (작성 예정)
 - 전갈(全蝎, Scorpio) — (작성 예정)
 - 백강잠(白殭蠶, Bombyx Batryticatus) — (작성 예정)
+- 오공(蜈蚣, Scolopendra) — (작성 예정)
 
 ## 16. 개규약(開竅藥, Orifice-Opening Herbs)
 
@@ -260,6 +364,7 @@
 - 빙편(冰片, Borneolum) — (작성 예정)
 - 석창포(石菖蒲, Acori Tatarinowii Rhizoma) — (작성 예정, 원지 문서에서 원지·석창포 상수 배오로 부분 언급됨)
 - 소합향(蘇合香, Styrax) — (작성 예정)
+- 안식향(安息香, Benzoinum) — (작성 예정)
 
 ## 17. 보익약(補益藥, Tonifying Herbs)
 
@@ -275,6 +380,10 @@
 - 영지(靈芝, Ganoderma lucidum)
 - 백편두(白扁豆, Lablab Semen Album) — (작성 예정)
 - 감초 외 당삼(黨蔘, Codonopsis Radix) — (작성 예정)
+- 태자삼(太子蔘, Pseudostellariae Radix) — (작성 예정)
+- 의이인(薏苡仁) — 6 이수삼습약과 중복 겸용(작성 예정)
+- 봉밀(蜂蜜, Mel) — (작성 예정)
+- 대두황권(大豆黃卷, Sojae Semen Germinatum) — (작성 예정)
 
 ### 17-2. 보양약(補陽藥)
 
@@ -285,6 +394,14 @@
 - 육종용(肉蓯蓉, Cistanches Herba) — (작성 예정)
 - 보골지(補骨脂, Psoraleae Fructus) — (작성 예정)
 - 토사자(菟絲子, Cuscutae Semen) — (작성 예정)
+- 사상자(蛇床子) — 20 외용 및 기타 약과 중복 겸용(작성 예정)
+- 선모(仙茅, Curculiginis Rhizoma) — (작성 예정)
+- 양기석(陽起石, Actinolitum) — (작성 예정)
+- 해구신(海狗腎, Callorhini Testis et Penis) — (작성 예정)
+- 해마(海馬, Hippocampus) — (작성 예정)
+- 자하거(紫河車, Hominis Placenta) — (작성 예정)
+- 동충하초(冬蟲夏草, Cordyceps) — (작성 예정)
+- 호로파(葫蘆巴) — 6 이수삼습약과 중복 겸용(작성 예정)
 
 ### 17-3. 보혈약(補血藥)
 
@@ -294,6 +411,7 @@
 - 하수오(何首烏, Polygonum multiflorum)
 - 용안육(龍眼肉, Longan Arillus) — (작성 예정)
 - 아교(阿膠, Asini Corii Colla) — (작성 예정)
+- 계혈등(鷄血藤) — 12 활혈거어약과 중복 겸용(작성 예정)
 
 ### 17-4. 보음약(補陰藥)
 
@@ -306,6 +424,11 @@
 - 여정자(女貞子, Ligustri Lucidi Fructus) — (작성 예정)
 - 별갑(鱉甲, Trionycis Carapax) — (작성 예정)
 - 귀판(龜板, Testudinis Plastrum) — (작성 예정)
+- 한련초(旱蓮草, Ecliptae Herba) — (작성 예정)
+- 석곡(石斛, Dendrobii Herba) — (작성 예정)
+- 황정(黃精, Polygonati Rhizoma) — (작성 예정)
+- 천화분(天花粉) — 2-1 청열사화약과 중복 겸용(작성 예정)
+- 오미자(五味子) — 18 수삽약과 중복 겸용(작성 예정)
 
 ## 18. 수삽약(收澁藥, Astringent Herbs)
 
@@ -317,12 +440,16 @@
 - 연자육(蓮子肉, Nelumbinis Semen) — (작성 예정)
 - 금앵자(金櫻子, Rosae Laevigatae Fructus) — (작성 예정)
 - 상표초(桑螵蛸, Mantidis Ootheca) — (작성 예정)
+- 복분자(覆盆子, Rubi Fructus) — (작성 예정)
+- 해표초(海螵蛸, Sepiae Endoconcha) — (작성 예정)
+- 오적골(烏賊骨) — 11 지혈약과 중복 겸용(작성 예정)
 
 ## 19. 용토약(涌吐藥, Emetic Herbs)
 
 - 과체(瓜蔕, Melo Pedicellus) — (작성 예정)
 - 상산(常山, Dichroae Radix) — (작성 예정)
 - 담반(膽礬, Chalcanthitum) — (작성 예정)
+- 여로(藜蘆, Veratri Radix) — (작성 예정)
 
 ## 20. 외용 및 기타 약(外用藥·其他, External Use and Miscellaneous Herbs)
 
@@ -331,6 +458,16 @@
 - 노회(蘆薈, Aloe) — (작성 예정)
 - 마전자(馬錢子, Strychni Semen) — (작성 예정, 스트리크닌 안전성 주의)
 - 사상자(蛇床子, Cnidii Fructus) — (작성 예정)
+- 유황(硫黃, Sulfur) — (작성 예정)
+- 경분(輕粉, Calomelas) — (작성 예정, 수은 안전성 주의)
+- 봉독(蜂毒, Apis Venenum) — (작성 예정)
+- 반묘(斑蝥, Mylabris) — (작성 예정)
+- 참루(蟾酥, Bufonis Venenum) — (작성 예정)
+- 아초(兒茶, Catechu) — (작성 예정)
+- 노봉방(露蜂房, Vespae Nidus) — (작성 예정)
+- 대풍자(大風子, Chaulmoograe Semen) — (작성 예정)
+- 목별자(木鱉子) — 2-4 청열해독약과 중복 겸용(작성 예정)
+- 수은(水銀, Hydrargyrum) — (작성 예정, 수은 안전성 주의)
 
 ## 동음이의 분류
 
