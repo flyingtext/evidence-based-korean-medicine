@@ -321,51 +321,45 @@
 
 ---
 
-[^1]: 자소엽 및 주요 성분(로즈마린산·루테올린·아피게닌)의 항알레르기·항염 기전에 대한 종합 정리 — 자소엽 100종 이상 화합물과 항알레르기·항염·항산화·항암·항균·항우울·진해 효과 확인. Yu H 외. _Food and chemical toxicology_. 2017-10. [문헌 고찰] [DOI 10.1016/j.fct.2016.11.023](https://doi.org/10.1016/j.fct.2016.11.023) [PMID 27890564](https://pubmed.ncbi.nlm.nih.gov/27890564/) — 자소엽 약리 종합 정리, 항알레르기·항염·항산화 효과의 근거.
+[^1]: Phytochemical and phytopharmacological review of Perilla frutescens L. (Labiatae), a traditional edible-medicinal herb in China. Yu H 외. _Food and chemical toxicology_. 2017-10. [문헌 고찰] [DOI 10.1016/j.fct.2016.11.023](https://doi.org/10.1016/j.fct.2016.11.023) [PMID 27890564](https://pubmed.ncbi.nlm.nih.gov/27890564/) — 자소엽 100종 이상 화합물과 항알레르기·항염·항산화·항암·항균·항우울·진해 효과 정리, 임상 적용 가능성 근거.
 
-[^2]: 자소엽(Perilla frutescens)을 면역조절제 관점에서 정리 — 항산화·항균·항종양·탈감작 효과, 알레르기 반응 완화 잠재력. Ragazinskiene O 외. _Medicina (Kaunas, Lithuania)_. 2004. [문헌 고찰] [PMID 15064542](https://pubmed.ncbi.nlm.nih.gov/15064542/) — 자소엽 면역조절·항알레르기 잠재력 평가.
+[^2]: Common perilla (Perilla frutescens (L.) Britton.) as a perspective immunomodulator. Ragazinskiene O 외. _Medicina (Kaunas, Lithuania)_. 2004. [문헌 고찰] [PMID 15064542](https://pubmed.ncbi.nlm.nih.gov/15064542/) — 자소엽 항산화·항균·항종양·탈감작 효과, 면역조절제·항알레르기 잠재력 평가.
 
-[^3]: 자소(紫蘇)의 식물화학·약리 종합 고찰 — 항알레르기·항염·항산화·항암·항균·항우울·진해 효과, 전통 호흡기·소화기 질환 사용 근거. Ahmed HM. _Molecules (Basel, Switzerland)_. 2018-12-28. [문헌 고찰] [DOI 10.3390/molecules24010102](https://doi.org/10.3390/molecules24010102) [PMID 30597896](https://pubmed.ncbi.nlm.nih.gov/30597896/) — 자소엽 광범위 약리 효과와 임상 적용 가능성.
+[^3]: Ethnomedicinal, Phytochemical and Pharmacological Investigations of Perilla frutescens (L.) Britt. Ahmed HM. _Molecules (Basel, Switzerland)_. 2018-12-28. [문헌 고찰] [DOI 10.3390/molecules24010102](https://doi.org/10.3390/molecules24010102) [PMID 30597896](https://pubmed.ncbi.nlm.nih.gov/30597896/) — 자소엽 광범위 약리 효과와 전통 호흡기·소화기 질환 사용 근거.
 
-[^4]: 알레르기 비염 치료 한약 제제 효능 평가 체계적 고찰 — 자소엽 포함 복합 처방이 알레르기 비염 증상 개선에 유의. Guo R 외. _Annals of allergy, asthma & immunology_. 2007-12. [체계적 고찰] [DOI 10.1016/S1081-1206(10)60375-4](https://doi.org/10.1016/S1081-1206(10)60375-4) [PMID 18219828](https://pubmed.ncbi.nlm.nih.gov/18219828/) — 자소엽 복합 처방의 알레르기 비염 임상 근거.
+[^4]: Herbal medicines for the treatment of allergic rhinitis: a systematic review. Guo R 외. _Annals of allergy, asthma & immunology_. 2007-12. [체계적 고찰] [DOI 10.1016/S1081-1206(10)60375-4](https://doi.org/10.1016/S1081-1206(10)60375-4) [PMID 18219828](https://pubmed.ncbi.nlm.nih.gov/18219828/) — 자소엽 포함 복합 처방의 알레르기 비염 증상 개선 임상 근거.
 
-[^5]: 자소엽·시호·박하·형개 중약 목욕제의 신생아 폐렴 치료 메타분석 — 나린제닌 MAPK1 표적 염증 억제. Bo Gao 외. _Frontiers in Pediatrics_. 2026-06-04. [메타분석] [DOI 10.3389/fped.2026.1824407](https://doi.org/10.3389/fped.2026.1824407) — 자소엽 호흡기 염증 억제 기전.
+[^5]: Integrated meta-analysis, network pharmacology and experimental validation to explore the mechanism of traditional Chinese medicine against neonatal pneumonia: focus on naringenin/MAPK1. Bo Gao 외. _Frontiers in Pediatrics_. 2026-06-04. [메타분석] [DOI 10.3389/fped.2026.1824407](https://doi.org/10.3389/fped.2026.1824407) — 자소엽·시호·박하·형개 목욕제 신생아 폐렴 치료, 나린제닌 MAPK1 염증 억제 기전.
 
-[^6]: 자소엽 추출물의 위장관 불편감 개선 — 50명 이중맹검 위약대조 임상시험, 복부 팽만감·가스 배출·복부 불편감 유의 개선. Buchwald-Werner S 외. _BMC complementary and alternative medicine_. 2014-05-27. [임상시험, 50명] [DOI 10.1186/1472-6882-14-173](https://doi.org/10.1186/1472-6882-14-173) [PMID 24885816](https://pubmed.ncbi.nlm.nih.gov/24885816/) — 자소엽 위장관 기능 개선 인간 직접 근거.
+[^6]: Perilla extract improves gastrointestinal discomfort in a randomized placebo controlled double blind human pilot study. Buchwald-Werner S 외. _BMC complementary and alternative medicine_. 2014-05-27. [임상시험, 50명] [DOI 10.1186/1472-6882-14-173](https://doi.org/10.1186/1472-6882-14-173) [PMID 24885816](https://pubmed.ncbi.nlm.nih.gov/24885816/) — 자소엽 추출물 복부 팽만감·가스 배출·복부 불편감 유의 개선, 여성 군 효과 뚜렷.
 
-[^7]: 자소엽 잎 가루 섭취가 혈중 Ox-LDL 저하·수축기 혈압 감소 — 60명 일본 성인 임상시험. Hashimoto M 외. _Molecules (Basel, Switzerland)_. 2020-04-30. [임상시험, 60명] [DOI 10.3390/molecules25092099](https://doi.org/10.3390/molecules25092099) [PMID 32365849](https://pubmed.ncbi.nlm.nih.gov/32365849/) — 자소엽 항산화·혈압 조절 인간 근거.
+[^7]: Intake of Alpha-Linolenic Acid-Rich Perilla frutescens Leaf Powder Decreases Home Blood Pressure and Serum Oxidized Low-Density Lipoprotein in Japanese Adults. Hashimoto M 외. _Molecules (Basel, Switzerland)_. 2020-04-30. [임상시험, 60명] [DOI 10.3390/molecules25092099](https://doi.org/10.3390/molecules25092099) [PMID 32365849](https://pubmed.ncbi.nlm.nih.gov/32365849/) — 자소엽 잎 가루 혈중 Ox-LDL 저하·전고혈압 대상자 수축기 혈압 감소.
 
-[^8]: 적자소(赤紫蘇)의 LDL 산화 억제·항산화 효소 발현 증가 — in vitro 및 인체 시험. Saita E 외. _Journal of oleo science_. 2012. [실험연구] [DOI 10.5650/jos.61.113](https://doi.org/10.5650/jos.61.113) [PMID 22362141](https://pubmed.ncbi.nlm.nih.gov/22362141/) — 자소엽 동맥경화 예방 가능성(인간 데이터 한정).
+[^8]: Antioxidant activities of Perilla frutescens against low-density lipoprotein oxidation in vitro and in human subjects. Saita E 외. _Journal of oleo science_. 2012. [실험연구] [DOI 10.5650/jos.61.113](https://doi.org/10.5650/jos.61.113) [PMID 22362141](https://pubmed.ncbi.nlm.nih.gov/22362141/) — 적자소 LDL 산화 억제·항산화 효소 발현 증가, 동맥경화 예방 가능성(인간 데이터 한정).
 
-[^9]: 자소자유 장기 섭취 시 혈중 EPA·DHA 증가 — 고령자 20명 임상시험. Ezaki O 외. _Journal of nutritional science and vitaminology_. 1999-12. [임상시험, 20명] [DOI 10.3177/jnsv.45.759](https://doi.org/10.3177/jnsv.45.759) [PMID 10737229](https://pubmed.ncbi.nlm.nih.gov/10737229/) — 자소자유 n-3 지방산 보충 안전성.
+[^9]: Long-term effects of dietary alpha-linolenic acid from perilla oil on serum fatty acids composition and on the risk factors of coronary heart disease in Japanese elderly subjects. Ezaki O 외. _Journal of nutritional science and vitaminology_. 1999-12. [임상시험, 20명] [DOI 10.3177/jnsv.45.759](https://doi.org/10.3177/jnsv.45.759) [PMID 10737229](https://pubmed.ncbi.nlm.nih.gov/10737229/) — 자소자유 장기 섭취 시 혈중 EPA·DHA 유의 증가, 부작용 없이 n-3 지방산 안전 보충.
 
-[^10]: 자소엽 주요 성분 로즈마린산·카페산의 항우울·항불안 기전 — alpha1A-아드레날린 수용체 조절·BDNF 전사 유지. Tsuji M 외. _Nihon shinkei seishin yakurigaku zasshi_. 2008-08. [문헌 고찰] [PMID 18800619](https://pubmed.ncbi.nlm.nih.gov/18800619/) — 자소엽 신경정신 약리 기전.
+[^10]: Pharmacological characterization and mechanisms of the novel antidepressive- and/or anxiolytic-like substances identified from Perillae Herba. Tsuji M 외. _Nihon shinkei seishin yakurigaku zasshi_. 2008-08. [문헌 고찰] [PMID 18800619](https://pubmed.ncbi.nlm.nih.gov/18800619/) — 자소엽 로즈마린산·카페산 alpha1A-아드레날린 수용체 조절·BDNF 전사 유지로 항우울·항불안 기전.
 
-[^11]: 자소엽 표준화 에탄올 추출물 500 mg 12주 투여 — 초기 인지 저하 100명 이중맹검 위약대조 임상시험, K-MMSE-2·ADAS-Cog 유의 개선. Baek HI 외. _Nutrients_. 2026-03-18. [임상시험, 100명] [DOI 10.3390/nu18060960](https://doi.org/10.3390/nu18060960) [PMID 41901135](https://pubmed.ncbi.nlm.nih.gov/41901135/) — 자소엽 인지 기능 개선 인간 직접 근거.
+[^11]: Efficacy and Safety of Standardized Ethanol Extract of Purple Perilla (Perilla frutescens Britton var. acuta Kudo) Leaves in Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Baek HI 외. _Nutrients_. 2026-03-18. [임상시험, 100명] [DOI 10.3390/nu18060960](https://doi.org/10.3390/nu18060960) [PMID 41901135](https://pubmed.ncbi.nlm.nih.gov/41901135/) — 자소엽 표준화 에탄올 추출물 500 mg 12주 투여, 초기 인지 저하 K-MMSE-2·ADAS-Cog 유의 개선, 안전성 문제 없음.
 
-[^12]: 자소자유+노빌레틴 귤피 분말 복합 섭취 — 49명 고령자 인지 기능 향상, BDNF·항산화·오메가-3 증가. Hashimoto M 외. _Food & function_. 2022-03-07. [임상시험, 49명] [DOI 10.1039/d1fo03508h](https://doi.org/10.1039/d1fo03508h) [PMID 35171190](https://pubmed.ncbi.nlm.nih.gov/35171190/) — 자소자유 인지 보호 복합 근거.
+[^12]: Perilla seed oil in combination with nobiletin-rich ponkan powder enhances cognitive function in healthy elderly Japanese individuals: a possible supplement for brain health in the elderly. Hashimoto M 외. _Food & function_. 2022-03-07. [임상시험, 49명] [DOI 10.1039/d1fo03508h](https://doi.org/10.1039/d1fo03508h) [PMID 35171190](https://pubmed.ncbi.nlm.nih.gov/35171190/) — 자소자유+노빌레틴 귤피 분말 복합 섭취, 고령자 인지 기능 향상, BDNF·항산화·오메가-3 증가.
 
-[^13]: 자소자유+안레데라 코르디폴리아 병용 — 고령자 인지 저하 억제, 중성지방·포도당·CML 감소. Hashimoto M 외. _Food & function_. 2022-07-04. [임상시험] [DOI 10.1039/d2fo00723a](https://doi.org/10.1039/d2fo00723a) [PMID 35722977](https://pubmed.ncbi.nlm.nih.gov/35722977/) — 자소자유 복합 보조제 뇌 건강 근거.
+[^13]: Perilla frutescens seed oil combined with Anredera cordifolia leaf powder attenuates age-related cognitive decline by reducing serum triglyceride and glucose levels in healthy elderly Japanese individuals: a possible supplement for brain health. Hashimoto M 외. _Food & function_. 2022-07-04. [임상시험] [DOI 10.1039/d2fo00723a](https://doi.org/10.1039/d2fo00723a) [PMID 35722977](https://pubmed.ncbi.nlm.nih.gov/35722977/) — 자소자유+안레데라 코르디폴리아 병용, 고령자 인지 저하 억제, 중성지방·포도당·CML 감소.
 
-[^14]: 자소엽 포함 익기해표방(益氣解表方)의 B형 인플루엔자 소아 120명 임상시험 — 발열·기침·콧물 완화, 바이러스 음성 전환·SAA·CRP 개선. Wang J. _Zhonghua wei zhong bing ji jiu yi xue_. 2020-11. [임상시험, 120명] [DOI 10.3760/cma.j.cn121430-20200628-00492](https://doi.org/10.3760/cma.j.cn121430-20200628-00492) [PMID 33463488](https://pubmed.ncbi.nlm.nih.gov/33463488/) — 자소엽 호흡기 감염 임상 근거.
+[^14]: Observation of the therapeutic effect and prognosis analysis of Yiqijiebiao prescription for the treatment of children with influenza B. Wang J. _Zhonghua wei zhong bing ji jiu yi xue_. 2020-11. [임상시험, 120명] [DOI 10.3760/cma.j.cn121430-20200628-00492](https://doi.org/10.3760/cma.j.cn121430-20200628-00492) [PMID 33463488](https://pubmed.ncbi.nlm.nih.gov/33463488/) — 자소엽 포함 익기해표방 B형 인플루엔자 소아 발열·기침·콧물 완화, 바이러스 음성 전환·SAA·CRP 개선.
 
-[^15]: 자소엽 화학형(chemotype)별 분류·표준·약리 활성 체계 정리 — 화학형에 따른 약효 차이, 목적별 적절한 약재 선택 중요성. Wei W 외. _Journal of pharmaceutical analysis_. 2026-05. [문헌 고찰] [DOI 10.1016/j.jpha.2025.101454](https://doi.org/10.1016/j.jpha.2025.101454) [PMID 42238811](https://pubmed.ncbi.nlm.nih.gov/42238811/) — 자소엽 화학형별 약효 차이 근거.
+[^15]: Pharmacological effects, classification, genetic and molecular studies of different chemotypes essential oil of Perilla frutescens (L.) Britt.: A review. Wei W 외. _Journal of pharmaceutical analysis_. 2026-05. [문헌 고찰] [DOI 10.1016/j.jpha.2025.101454](https://doi.org/10.1016/j.jpha.2025.101454) [PMID 42238811](https://pubmed.ncbi.nlm.nih.gov/42238811/) — 자소엽 화학형(chemotype)별 정유 성분·약리 활성 체계 정리, 목적별 적절한 약재 선택 중요성.
 
-[^16]: 자소엽 추출물의 경미한 무릎 관절 통증 개선 — 80명 무작위대조 임상시험, 8주 투여 시 통증 감소·관절 기능 개선. Kim N 외. _Frontiers in pharmacology_. 2023. [임상시험, 80명] [DOI 10.3389/fphar.2023.1114410](https://doi.org/10.3389/fphar.2023.1114410) [PMID 36998613](https://pubmed.ncbi.nlm.nih.gov/36998613/) — 자소엽 관절 통증 개선 인간 직접 근거.
+[^16]: Efficacy of Perilla frutescens (L.) Britton var. frutescens extract on mild knee joint pain: A randomized controlled trial. Kim N 외. _Frontiers in pharmacology_. 2023. [임상시험, 80명] [DOI 10.3389/fphar.2023.1114410](https://doi.org/10.3389/fphar.2023.1114410) [PMID 36998613](https://pubmed.ncbi.nlm.nih.gov/36998613/) — 자소엽 추출물 8주 투여, 경미한 무릎 관절 통증 감소·관절 기능 개선, 중대 부작용 없음.
 
-[^17]: 들깨(자소자) 알레르기 원인 단백질 규명 — 14~15 kDa 올레오신 및 33 kDa 이량체, 한국 소아 아나필락시스 사례. Jeong K 외. _Allergy, asthma, and clinical immunology_. 2026-01-30. [실험연구] [DOI 10.1186/s13223-026-01012-6](https://doi.org/10.1186/s13223-026-01012-6) [PMID 41618458](https://pubmed.ncbi.nlm.nih.gov/41618458/) — 들깨 알레르기 분자 규명, 자소엽 사용 주의 근거.
+[^17]: Advancing allergen characterization in Perilla seed: an oil body purification approach. Jeong K 외. _Allergy, asthma, and clinical immunology_. 2026-01-30. [실험연구] [DOI 10.1186/s13223-026-01012-6](https://doi.org/10.1186/s13223-026-01012-6) [PMID 41618458](https://pubmed.ncbi.nlm.nih.gov/41618458/) — 들깨 알레르기 원인 14~15 kDa 올레오신 및 33 kDa 이량체 규명, 한국 소아 아나필락시스 사례, 자소엽 사용 주의 근거.
 
-[^18]: 자소(紫蘇) 부위별(잎·씨·줄기) 화학 성분 차이와 약리 효과 정리 — 부위별 적절 선택으로 치료 효율 제고. Zhang LQ 외. _Zhongguo Zhong yao za zhi_. 2023-12. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20230813.201](https://doi.org/10.19540/j.cnki.cjcmm.20230813.201) [PMID 38212016](https://pubmed.ncbi.nlm.nih.gov/38212016/) — 자소 부위별 성분·약리 차이 근거.
+[^18]: Comparison of active components in different parts of Perilla frutescens and its pharmacological effects. Zhang LQ 외. _Zhongguo Zhong yao za zhi_. 2023-12. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20230813.201](https://doi.org/10.19540/j.cnki.cjcmm.20230813.201) [PMID 38212016](https://pubmed.ncbi.nlm.nih.gov/38212016/) — 자소 부위별(잎·씨·줄기) 화학 성분 차이와 약리 효과, 부위별 적절 선택으로 치료 효율 제고.
 
-[^19]: 자소엽·침향·계피 산지별 성분 차이 연구 — 현지 조사·실험실 병행 방법론, 약재 품질 관리·표준화 기여. Ito M. _Journal of natural medicines_. 2008-10. [문헌 고찰] [DOI 10.1007/s11418-008-0262-z](https://doi.org/10.1007/s11418-008-0262-z) [PMID 18587527](https://pubmed.ncbi.nlm.nih.gov/18587527/) — 자소엽 산지·생산 환경별 성분 변동 근거.
+[^19]: Studies on perilla, agarwood, and cinnamon through a combination of fieldwork and laboratory work. Ito M. _Journal of natural medicines_. 2008-10. [문헌 고찰] [DOI 10.1007/s11418-008-0262-z](https://doi.org/10.1007/s11418-008-0262-z) [PMID 18587527](https://pubmed.ncbi.nlm.nih.gov/18587527/) — 자소엽·침향·계피 산지별 성분 차이, 현지 조사·실험실 병행 방법론, 약재 품질 관리·표준화 기여.
 
-[^20]: 자소자(紫蘇子) 종합 고찰 — 전통 기침·천식·변비 사용, 현대 항염·항산화·항균·지질 저하 효과 확인. Liu S 외. _Journal of ethnopharmacology_. 2023-03-25. [문헌 고찰] [DOI 10.1016/j.jep.2022.116022](https://doi.org/10.1016/j.jep.2022.116022) [PMID 36481246](https://pubmed.ncbi.nlm.nih.gov/36481246/) — 자소자 약리·임상 적용 근거.
-
-[^21]: 자소엽 추출물의 위장관 불편감 개선 파일럿 — 50명 무작위 위약대조, 여성 군에서 효과 뚜렷. — 자소엽 이기화위(理氣和胃) 효능의 현대적 인간 근거.
-
-[^22]: 자소엽 잎 가루 섭취가 전고혈압 대상자 수축기 혈압 감소 — 60명 일본 성인 임상시험. — 자소엽 항산화·혈관 보호 인간 근거.
-
-[^23]: 자소자유 장기 섭취(10개월) 시 혈중 EPA·DHA 유의 증가, 부작용 없이 n-3 지방산 안전 보충 — 20명 고령자. — 자소자유 심혈관 보조 근거.
+[^20]: A comprehensive review of the botany, ethnopharmacology, phytochemistry, pharmacology, toxicity and quality control of Perillae Fructus. Liu S 외. _Journal of ethnopharmacology_. 2023-03-25. [문헌 고찰] [DOI 10.1016/j.jep.2022.116022](https://doi.org/10.1016/j.jep.2022.116022) [PMID 36481246](https://pubmed.ncbi.nlm.nih.gov/36481246/) — 자소자 전통 기침·천식·변비 사용, 현대 항염·항산화·항균·지질 저하 효과 확인.
 
 ---
 
