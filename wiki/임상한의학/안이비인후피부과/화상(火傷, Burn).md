@@ -104,26 +104,8 @@ $$\text{총 수액량(mL)} = 4 \times \text{체중(kg)} \times \text{TBSA(\%)}$$
 
 - **밴쿠버반흔척도(Vancouver Scar Scale, VSS)**: 색소침착·혈관분포·유연성·높이의 4개 항목으로 반흔을 평가한다.
 - **환자·관찰자 반흔평가척도(POSAS)**: 환자 주관적 평가와 관찰자 객관적 평가를 결합한다.
-- **PUSH 척도(Pressure Ulcer Scale for Healing)**: 아래 6-2-1절에서 상세히 다룬다.
+- **PUSH 척도(Pressure Ulcer Scale for Healing)**: 원래 욕창 평가용이나 만성 화상 창면 치유 추적에도 응용된다.
 - **레이저도플러영상(LDI)**: 앞서 언급한 대로 관류를 정량화하여 화상 깊이를 객관적으로 평가한다.
-
-#### 6-2-1. PUSH 척도(Pressure Ulcer Scale for Healing)의 상세 — 만성 화상 창면 응용
-
-**정식 명칭과 개발 배경**: PUSH(Pressure Ulcer Scale for Healing) 척도는 미국 욕창자문위원회(National Pressure Ulcer Advisory Panel, NPUAP, 현 National Pressure Injury Advisory Panel)가 욕창(압박손상)의 치유 경과를 간단하고 신뢰도 높게 추적하기 위해 1990년대에 개발한 도구다(교과서적 근거). 개발 목적은 복잡한 다항목 평가 대신 소수의 핵심 지표만으로 임상 현장에서 반복 측정이 가능한 창상 치유 점수를 산출하는 데 있으며, 이후 욕창뿐 아니라 정맥성 궤양·당뇨병성 족부궤양 등 다양한 만성 창상의 치유 추적에도 폭넓게 응용되어 왔다(교과서적 근거).
-
-**평가 항목과 하위 척도**: PUSH 척도는 다음 3개 항목을 각각 점수화한 뒤 합산한다(교과서적 근거).
-
-| 평가 항목 | 세부 측정 | 점수 범위 |
-| --- | --- | --- |
-| ① 창상 크기(길이×너비, cm²) | 창상의 최대 길이와 최대 너비를 곱한 면적을 측정 | 0(창상 없음) ~ 10(24.1cm² 초과)의 10단계 |
-| ② 삼출물량(exudate amount) | 드레싱 제거 시 관찰되는 삼출물의 양을 시진으로 판정 | 0(없음)·1(경도)·2(중등도)·3(다량)의 4단계 |
-| ③ 창상조직 유형(wound tissue type) | 창상 바닥을 구성하는 조직의 종류를 판정 | 0(폐쇄/상피화 완료)·1(상피조직)·2(육아조직)·3(부육腐肉, slough)·4(괴사조직)의 5단계 |
-
-**총점 산출과 해석**: 세 항목의 점수를 단순 합산하여 **총점 0~17점** 범위로 산출한다(교과서적 근거). 점수가 **낮을수록 치유가 진행되고 있음**을 의미하며, 0점은 창상이 완전히 폐쇄(상피화 완료)되었음을 뜻한다. 동일 환자에서 일정 간격(예: 1~2주)으로 반복 측정해 점수 변화 추이를 그래프화하면, 창상이 정체·악화되고 있는지 아니면 치유 방향으로 진행하는지를 객관적으로 추적할 수 있다는 것이 이 도구의 핵심 장점이다(교과서적 근거).
-
-**만성 화상 창면 응용의 임상적 근거와 한계**: PUSH 척도는 태생적으로 욕창 평가 도구이며, 화상 창면에 특화되어 개발·검증된 것은 아니다. `scripts/search.py`로 "PUSH Tool burn wound", "Pressure Ulcer Scale for Healing burn", "PUSH score chronic wound" 등을 포괄적으로 검색한 결과, PUSH 점수가 실제로 활용된 인간 대상 연구는 **욕창(압박손상) 문헌에 집중되어 있었고, 화상 창면에 PUSH 척도를 직접 적용해 검증한 연구는 확인되지 않았다.** 예컨대 폴리데옥시리보뉴클레오티드(PDRN) 투여가 욕창 환자의 창상 크기를 줄이고 PUSH 점수를 개선했다는 임상시험[^114], 표준 음압 치료에 병상 옆 미세피부 이식술을 병행한 군에서 PUSH 점수가 더 효과적으로 낮아졌다는 병행 무작위 비교시험[^115]은 모두 욕창을 대상으로 한 것이다. 습윤노출화상연고(MEBO)가 욕창 환자의 창상 표면적 감소와 치유 척도 개선에 유효했던 다기관 무작위시험[^34] 역시 원래 화상 연고로 개발된 제제가 욕창 치유에 응용된 사례로, PUSH 척도와 화상 관리(외용제) 사이의 간접적 접점을 보여줄 뿐, 화상 창면 자체에서 PUSH 척도를 사용한 근거는 아니다. 따라서 **"만성 화상 창면 치유 추적에도 응용된다"는 서술은 임상 실무에서의 관행적 차용(off-label 활용)을 반영한 것이지, 화상 창면에서의 타당도·신뢰도가 별도로 검증되었다는 의미는 아니라는 점을 정직하게 밝힌다.** 다만 PUSH 척도가 측정하는 세 요소(창상 크기·삼출물량·조직 유형)는 지연 치유 3도·심재성 2도 화상이나 피부이식 실패 후 남은 잔여 창상처럼 **개방 창상이 장기간 유지되는 만성 화상 창면**에서도 임상적으로 그대로 관찰 가능한 지표이므로, 반복 측정을 통한 치유 추이 파악이라는 도구의 설계 취지 자체는 만성 화상 창면 관리에도 원용될 수 있다(교과서적 근거). 이 경우에도 **욕창용으로 검증된 절단점(cut-off)·점수 해석을 화상 창면에 그대로 적용하는 것은 근거 수준에 맞지 않으며**, 어디까지나 치유 방향성을 추적하는 보조적 기록 도구로 활용하는 것이 타당하다.
-
-**밴쿠버반흔척도(VSS)·POSAS와의 역할 차이**: PUSH 척도와 VSS·POSAS는 평가 **시점**과 **대상**이 근본적으로 다르다. PUSH 척도는 **창상이 아직 열려 있는 급성기~아급성기의 창상 치유 과정**(창상 크기 감소·삼출물 감소·조직 유형이 괴사→육아→상피화로 이행하는 경과)을 추적하는 데 초점을 맞춘 도구인 반면, VSS·POSAS는 **창상이 상피화되어 닫힌 이후 반흔이 성숙하는 단계**(색소침착·혈관분포·유연성·높이 등 반흔의 질적 특성)를 평가하는 도구다. 즉 화상 병정의 흐름에서 보면 창면이 열려 있는 시기에는 PUSH 척도(또는 그에 준하는 개방창상 추적 지표)가, 반흔이 자리 잡는 시기에는 VSS·POSAS가 각각의 역할을 담당하는 **상호 보완적 관계**로 이해하는 것이 근거 수준에 맞는 해석이다(교과서적 근거). 이는 제18절 반흔·구축 관리, 제30절 추적 지표표에서 다루는 시기별 평가 전략과도 상응한다.
 
 ### 7. 한의학적 개관 — 창양(瘡瘍) 범주에서의 화상
 
@@ -1019,5 +1001,3 @@ TBSA·연령·흡입 손상 동반 여부·기저질환이 예후의 핵심 인�
 [^111]: [Practice and thinking about the establishment and management of burn intensive care unit]. Li XJ. _Zhonghua shao shang za zhi = Zhonghua shaoshang zazhi = Chinese journal of burns_. 2018-03-20. [문헌 고찰] [DOI 10.3760/cma.j.issn.1009-2587.2018.03.003](https://doi.org/10.3760/cma.j.issn.1009-2587.2018.03.003) [PMID 29609274](https://pubmed.ncbi.nlm.nih.gov/29609274/) — 화상중환자실(Burn ICU)의 설립·운영 원칙을 정리한 문헌 고찰. 중증 화상군(제24절)의 전신 관리 체계 이해에 참고.
 [^112]: Adjunctive Hyperbaric Oxygen in the Treatment of Thermal Burns. Cianci P 외. _Undersea & hyperbaric medicine : journal of the Undersea and Hyperbaric Medical Society, Inc_. [문헌 고찰] [PMID 42365959](https://pubmed.ncbi.nlm.nih.gov/42365959/) — 고압산소요법 보조 적용이 피부 허혈·부종을 줄이고 상처 치유를 촉진해 사망률·입원기간·수술 횟수를 낮출 수 있음을 정리.
 [^113]: Ocular Surface Injury and Cutaneous Burn Severity: A Prospective Clinical Study. _International Journal of Medicine_. 2026-07-25. [관찰연구] [DOI 10.61336/im/26-07-178](https://doi.org/10.61336/im/26-07-178) — 체표면적 20% 초과 및 안면부 화상에서 안구 표면 손상 위험이 유의하게 높음을 보여준 전향적 연구.
-[^114]: Effects of polydeoxyribonucleotide in the treatment of pressure ulcers. Kim JY 외. _Journal of Korean medical science_. 2014-11. [임상시험] [DOI 10.3346/jkms.2014.29.S3.S222](https://doi.org/10.3346/jkms.2014.29.S3.S222) [PMID 25473213](https://pubmed.ncbi.nlm.nih.gov/25473213/) — PDRN 투여가 욕창 환자의 상처 크기를 유의하게 감소시키고 PUSH 점수(치유 척도)를 개선함을 확인한 임상시험. PUSH 척도가 욕창 영역에서 실제로 활용된 예이며, 화상 창면 자체에 대한 검증 근거는 아님.
-[^115]: Within-patient randomised clinical trial exploring the development of microskin implantation in the treatment of pressure ulcers. Zhang M 외. _International wound journal_. 2023-08. [임상시험] [DOI 10.1111/iwj.14051](https://doi.org/10.1111/iwj.14051) [PMID 36575064](https://pubmed.ncbi.nlm.nih.gov/36575064/) — 병상 옆 미세피부 이식술 병행이 욕창의 치유 속도를 높이고 PUSH 점수를 더 효과적으로 낮춤을 보인 임상시험. 이 역시 욕창 대상 근거로, PUSH 척도의 화상 창면 특이적 검증 부재를 보완하는 참고 자료로만 활용.
