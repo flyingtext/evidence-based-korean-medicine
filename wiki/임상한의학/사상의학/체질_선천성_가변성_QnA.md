@@ -4,11 +4,15 @@
 > "타고나는 거예요"라고 하면 반은 맞고 반은 틀리다. "바뀔 수 있어요"라고 해도 똑같다.
 > 근거를 다 모아놓고 보면 답이 좀 이상한 모양을 하고 있다. 하나씩 풀어보자.
 >
-> (자료원: med.symbolicinfo.com 데이터베이스, 81개 검색어로 수집한 2,751편에서 선별)
+> (자료원: med.symbolicinfo.com 데이터베이스, 90개 이상의 검색어로 수집한 3,000편 이상에서 선별. 초판 81개 검색어(2,751편)에 유전자 다형성·설문 신뢰도·질환 위험요인·오믹스 관련 추가 검색어를 더해 갱신)
 
 ---
 
-## Q1. 결론부터 갑시다. 타고납니까, 바뀝니까?
+## 제1편 개요와 논쟁의 배경
+
+사상체질(四象體質)이 타고나는 것인지, 살면서 바뀌는 것인지는 임상 한의사가 환자에게 가장 자주 받는 질문이자 학계에서도 정리되지 않은 논쟁이다. 이 편에서는 논쟁의 구도를 먼저 정리하고, 이어지는 편에서 선천성 근거(제2편)와 가변성 근거(제3편)를 각각 검토한 뒤, 임상적 함의(제4편)와 Q&A(제5편)로 마무리한다. 이 문서는 특정 결론을 미리 정해놓고 근거를 짜맞추지 않는다 — 오히려 상반되는 것처럼 보이는 두 갈래의 근거를 모두 정직하게 제시하고, 그 사이에서 임상가가 실제로 취할 수 있는 태도를 찾는 데 목적을 둔다.
+
+### Q1. 결론부터 갑시다. 타고납니까, 바뀝니까?
 
 **A.** 둘 다다. 근데 이 "둘 다"가 대충 얼버무리는 말이 아니라, 정확히 **층위가 다른 두 개의 질문에 각각 다른 답이 나온다**는 뜻이다.
 
@@ -25,7 +29,11 @@
 
 ---
 
-## Q2. 유전이라는 증거 중에 제일 센 게 뭡니까?
+## 제2편 선천성을 지지하는 근거 (유전·생리 지표)
+
+체질이 "타고난다"는 주장을 뒷받침하는 근거는 크게 세 갈래다. 쌍둥이 연구를 통한 유전율 추정, 개별 유전자 다형성과 체질 분류의 연관 분석, 그리고 출생 직후 영유아에서부터 관찰되는 생물학적 차이다. 이 편에서는 이 세 갈래를 순서대로 검토한다.
+
+### Q2. 유전이라는 증거 중에 제일 센 게 뭡니까?
 
 **A.** 쌍둥이 연구다. 이건 유전학에서 가장 직접적인 도구다.
 
@@ -45,7 +53,7 @@
 
 ---
 
-## Q3. 그럼 유전자를 찾으면 되는 거 아닙니까?
+### Q3. 그럼 유전자를 찾으면 되는 거 아닙니까?
 
 **A.** 찾았다. 여러 개. 문제는 **결정적인 게 하나도 없다**는 것이다.
 
@@ -60,9 +68,38 @@
 
 **번역하면**: 체질은 본태성 고혈압이나 제2형 당뇨병처럼 **소효과 유전자 다수 + 환경 요인 다수**로 굴러가는 다인자성 형질일 가능성이 크다. 그리고 다인자성 형질은 정의상 환경이 개입할 여지가 넓다.
 
+**개별 유전자 다형성 연구를 표로 정리하면 이렇다.** 대부분 한국인 사상체질(소음인·소양인·태음인) 또는 중국 체질학설을 대상으로 한 관찰연구이며, 표본 크기와 재현 여부가 제각각이다.
+
+| 체질/변증 | 관련 유전자 | 주요 소견 | 근거 |
+|---|---|---|---|
+| 사상체질 전반 | GWAS 다좌위 | 체질 분류와 연관된 SNP 다수 확인, 결정적 단일 지표는 없음 | [^44] |
+| 어혈-기체 | PON2 | 제2형 당뇨병 환자의 심혈관 장애와 연관 가능 | [^45] |
+| 기허·담습·음허·혈어 | HLA class II | 면역유전학적 체질 실체 근거 | [^46] |
+| 소양인 | MDR1(ABCB1) | 약물수송단백질 P-gp 유전자 다형성과 연관 | [^47] |
+| 체질 유형별 비만 | FTO, MC4R | 체질별로 비만 관련 유전자 영향력이 다르게 나타남 | [^48] |
+| 소양인·태음인 | APOA5 -1131T>C | HDL 저하·TG 상승 위험이 체질별로 다름 | [^49] |
+| 태음인 | ACE | 뇌경색군에서 빈도 증가하나 유전자형-체질 상승효과는 없음 | [^50] |
+| 태음인 | IL-1β | 과체중군에서 대립유전자 빈도 차이 | [^51] |
+| 태음인 | IL-1ra | 비만 위험과 경향적 연관 | [^52] |
+| 태음인 | PPAR-γ Pro12Ala | 허혈성 뇌졸중 위험 대폭 상승(교호작용) | [^53] |
+| 태음인 | IL-1α -889C/T | 여성 체중과 연관 | [^54] |
+| 사상체질 전반 | TNF-α | 뇌경색 감수성과 연관되나 체질 간 차이는 없음(음성 결과) | [^55] |
+| 태음인 | FCGR2A, IL1RN | 뇌졸중 위험 상승(IL1RN)·하강(FCGR2A) | [^56] |
+| 태음인 하위군 | 지질비율 4개 좌위 | LDL-C/HDL-C 비 관련 변이가 태음인에서만 유효 | [^57] |
+| 8체질(폐주형·간주형) | 장기 특이 SNP | 8체질 진단의 유전적 상관물 탐색 | [^58] |
+| 중의 4체질 | PPARD, PPARG, APM1 | 대사 관련 유전자 변이와 체질 분류 연관 | [^59] |
+| 양허체질 | RGS6, mGluR5 외 | 다인자 유전 다형성(소표본 예비 연구) | [^60] |
+| 고혈압 환자 체질 유형 | IGF-1R, IRS-1, IRS-2 | 체질별 인슐린 저항성과 유전형 차이 | [^61] |
+| 본태성 고혈압 체질 유형 | ADD1(α-adducin) | 체질과 직접 연관은 없으나 담음형 TT에서 대사지표 악화 | [^62] |
+| 담습·음허 노인 고혈압 | LPL | 유전자 변이가 고혈압 위험을 높임 | [^63] |
+| 양허·음허·담음-어혈 | 렙틴, ADRB3, UCP1 | 체질별 렙틴 수치·유전자 발현 차이 | [^64] |
+| 양허·어혈 | 우울증 다유전자위험점수(PRS) | 대규모(n=11,030) 인구기반, 체질이 매개 경로로 작용 | [^65] |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 대부분 단일 유전자 후보-체질 연관 연구이며 재현 검증을 거치지 않은 경우가 많고, 표본이 수백 명 수준으로 작아 다중검정 보정이 불충분한 연구도 섞여 있다. **변증 없는 관행적 유전자 검사 해석은 근거에 부합하지 않는다** — 개별 SNP 하나로 체질을 확정하거나 치료 방향을 정하는 것은 현재 근거 수준을 넘어서는 일이다. 다만 표 전체를 조망하면 태음인·양허체질과 관련된 대사·염증·지질 경로 유전자가 반복해서 등장한다는 공통 패턴은 확인된다.
+
 ---
 
-## Q4. 태어나자마자 체질이 보입니까?
+### Q4. 태어나자마자 체질이 보입니까?
 
 **A.** 이게 "타고난다" 주장의 핵심 검증 지점인데, 답은 **"0~2세에도 이미 생물학적 차이가 관찰된다"**이다.
 
@@ -76,7 +113,11 @@
 
 ---
 
-## Q5. 좋습니다. 그럼 "바뀐다"는 증거는요?
+## 제3편 가변성을 지지하는 근거 (환경·생활습관에 따른 변화 사례)
+
+제2편에서 본 유전적 근거만 놓고 보면 체질은 고정된 실체처럼 보인다. 그런데 같은 데이터베이스에서 정반대 방향을 가리키는 근거도 못지않게 두텁다. 생활습관 중재로 체질 판정이 바뀐 사례, 임신·출산이라는 생리적 사건에 따른 체계적 이동, 그리고 중국 체질학설이 애초에 가변성을 전제로 설계된 체계라는 점까지 — 이 편에서는 "바뀐다"는 쪽의 근거를 순서대로 쌓는다.
+
+### Q5. 좋습니다. 그럼 "바뀐다"는 증거는요?
 
 **A.** 이게 이 주제에서 제일 재미있는 논문이다.
 
@@ -90,7 +131,7 @@
 
 ---
 
-## Q6. 잠깐만요. 그거 체질이 바뀐 겁니까, 설문 점수가 바뀐 겁니까?
+### Q6. 잠깐만요. 그거 체질이 바뀐 겁니까, 설문 점수가 바뀐 겁니까?
 
 **A.** 정확한 질문이다. 그리고 **현재 근거로는 구분할 수 없다.** 이게 이 주제 전체의 급소다.
 
@@ -118,9 +159,33 @@
 
 다만 그 "뭔가"가 체질인지, 체지방률·활동량·수면 같은 **체질 판정에 쓰이는 중간 변수**인지는 여전히 미해결이다. QSCC II 문항 상당수가 체형·소화·한열감·활력 같은 상태 의존적 항목이니까.
 
+**진단 도구 자체의 신뢰도·타당도 검증 연구도 두텁게 쌓여 있다.** 아래는 사상체질·중의 체질 진단 도구를 검증한 대표 연구들이다.
+
+| 도구 | 대상 | 검증 내용 | 근거 |
+|---|---|---|---|
+| SUDI(사상 배뇨·배변 지표) | 사상인 | 소양인·소음인 간 배뇨·배변 양상 정량화 | [^66] |
+| SPQ(사상 성격설문) | 고등학생 670명 | 성인용 SPQ가 청소년에도 타당하게 적용됨 | [^67] |
+| SPQ 개발·검증 | 성인 245명 | 행동·정서·인지 하위척도, 신뢰도·타당도 확보 | [^68] |
+| 머신러닝 기반 신규 설문 | — | 핵심 문항 47개·6개 그룹 도출 | [^69] |
+| 체간 계측 | 15명 | 표준교육으로 측정자 신뢰도 향상 | [^70] |
+| 안면 특징 추출 | — | 체질 판별 유의 특징(거리·각도·비율) 통계적 도출 | [^71] |
+| 안면+체형+음성+설문 통합모델 | — | 통합 시 진단정확도 남 64.0%·여 55.2% | [^72] |
+| 음성 기반 진단 | 10명 | 프레임별 분석으로 진단 안정성 향상 | [^73] |
+| BCQ-(음허 평가) | 1,272명 | 19문항 설문, 신뢰도·타당도 검증 | [^74] |
+| BCQ+(양허 평가) | 1,310명 | 5개 영역 에너지저하 정량화 | [^75] |
+| BCQ 홍콩판 | 1,084명 | 불균형 체질군의 HRQOL 저하 확인 | [^76] |
+| TCM 체질설문 광둥어판 | 노인 300명 | 타당도 확립 | [^77] |
+| CCMQ 검증 | 1,084명 | 불균형 체질군의 HRQOL 저하로 체질 개념 타당성 뒷받침 | [^78] |
+| CCMQ 단축형(26문항) | 21,948명 | 혈어·기체체질과 BMI의 유의한 연관 | [^79] |
+| CCMQ 영어판 | 말레이시아 청년 114명 | 타당도 검증 | [^80] |
+| CCMQ 베트남어판 | 455명 | 신뢰도·타당도 검증 | [^81] |
+| CCMQ 9체질 구조 | 지역사회 1,571명 | 9체질 분류 구조가 효율적으로 측정됨 | [^82] |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 설문지 신뢰도(검사-재검사 안정성)와 임상가 간 진단 일치도는 서로 다른 개념이며, 이 문서가 이미 Q6에서 짚었듯 **설문 신뢰도가 양호해도 안면관찰 등 임상가 판정 일치도는 여전히 낮다**(κ 0.07~0.28 수준).[^16][^17] 변증 없는 관행적 단일 도구 의존은 근거에 부합하지 않으며, 여러 도구(설문·체형·안면·음성)를 교차 검증하는 통합적 접근이 권장된다.
+
 ---
 
-## Q7. 중의학 쪽은 아예 "바뀐다"를 전제로 하는 것 같던데요?
+### Q7. 중의학 쪽은 아예 "바뀐다"를 전제로 하는 것 같던데요?
 
 **A.** 맞다. 여기서 **한국 사상의학과 중국 체질학설의 전제가 갈린다.**
 
@@ -148,7 +213,7 @@
 
 ---
 
-## Q8. 임신하면 체질이 바뀐다는 얘기는 진짜입니까?
+### Q8. 임신하면 체질이 바뀐다는 얘기는 진짜입니까?
 
 **A.** 이건 종단설계로 확인됐다. 개인적으로 이 문서에서 가장 깔끔한 "가변성" 근거라고 본다.
 
@@ -170,7 +235,7 @@
 
 ---
 
-## Q9. 생활습관이 진짜로 체질을 만듭니까? 아니면 원래 그 체질이라 그렇게 사는 겁니까?
+### Q9. 생활습관이 진짜로 체질을 만듭니까? 아니면 원래 그 체질이라 그렇게 사는 겁니까?
 
 **A.** 인과 방향 문제다. 정직하게 말하면 **대부분의 근거가 단면연구라 방향을 못 가린다.** 다만 몇 가지 단서는 있다.
 
@@ -188,7 +253,13 @@
 
 ---
 
-## Q10. 치료로 체질을 바꿀 수 있습니까?
+## 제4편 임상적 함의 (체질 재판정 시점·기준)
+
+앞의 두 편에서 정리했듯, 체질은 상당 부분 타고나면서도(제2편) 동시에 살면서 계속 움직인다(제3편). 이 편은 그 두 근거를 어떻게 진료실 행동으로 옮길지를 다룬다 — 치료로 체질을 얼마나 움직일 수 있는지, 그 변화가 설문 위에서만 벌어지는 일인지 생물학적 실체가 있는지, 질병과 약물이 거꾸로 체질을 미는 경우는 언제인지, 그리고 이 모든 걸 종합했을 때 진료실에서 체질을 언제 다시 평가해야 하는지까지.
+
+**변증 층화 강조**: 이 편의 모든 치료·재평가 논의는 "체질 하나만 보고" 처방을 정하는 것을 지지하지 않는다. **변증 없는 관행적 체질 판정만으로 치료 방향을 고정하는 것은 근거에 부합하지 않는다.** 체질은 진단의 출발점이지 종착점이 아니며, 개별 환자의 한열·허실·기혈 변증과 함께 층화해서 적용해야 한다.
+
+### Q10. 치료로 체질을 바꿀 수 있습니까?
 
 **A.** **여기가 진짜 핵심이다.** 관찰연구는 방향을 못 가리지만, 중재연구는 가린다.
 
@@ -220,7 +291,7 @@
 
 ---
 
-## Q11. 그 "바뀜"이 생물학 층위에서도 보입니까? 아니면 설문 위에서만 벌어지는 일입니까?
+### Q11. 그 "바뀜"이 생물학 층위에서도 보입니까? 아니면 설문 위에서만 벌어지는 일입니까?
 
 **A.** 보인다. 그리고 **후성유전학 쪽 데이터가 있다는 게 이 논쟁의 성격을 바꾼다.**
 
@@ -242,9 +313,24 @@ DNA 메틸화는 **유전과 환경의 접점**이다. 서열은 안 바뀌는�
 
 장내 미생물은 **유전보다 환경(식이)에 훨씬 민감한 층위**다. 체질의 생물학적 상관물 중 상당 부분이 미생물·대사체 쪽에 걸려 있다면, 그건 체질의 가변성 쪽 증거로 읽어야 한다. Q10의 귀비지황환 연구에서 미생물이 실제로 움직인 것이 이를 뒷받침한다.[^29]
 
+**최근 발표된 오믹스 연구들을 더 모으면 이 그림이 더 뚜렷해진다.**
+
+- 양허체질 백혈구 유전자발현 분석(n=28)에서 평형체질과 분자수준에서 구분되는 발현 패턴이 확인됐고, 자가면역·대사장애 관련 유전자의 발현 변화가 관찰됐다.[^101]
+- 음허체질은 NFKBIA·BCL2A1·CCL4 세 유전지표를 활용한 머신러닝 모델로 높은 정확도로 판별 가능했다.[^102]
+- 허손체질(虛損體質)의 빈혈 경향은 장내 미생물 불균형(단쇄지방산·담즙산 생산 변화 경유)과 연관됐다.[^103]
+- 양허체질은 시상하부-뇌하수체-부신축·갑상선축의 불균형, IL-1β 등 염증성 사이토카인 이상과 함께 관찰됐다(n=110).[^104]
+- 당내성장애(糖耐量異常) 환자에서 담습·습열체질은 염증성 사이토카인 증가·아디포넥틴 감소와 연관됐고, 당뇨병 진행의 예측인자로 작용했다.[^105]
+- 대학생 코호트에서 균형체질(BC) 기증자는 불균형체질(UBC) 기증자보다 분변미생물이식(FMT) 적격률과 항비만 효과가 더 우수했다 — 체질을 FMT 기증자 선별의 보조 지표로 활용할 가능성을 시사한다.[^106]
+- 16S rDNA와 LC/MS 대사체 통합 분석에서 음허·평형·양허 체질 간 스테로이드호르몬 생합성·트립토판 대사 경로가 유의하게 달랐다.[^107]
+- 담음체질의 단일세포 전사체(PBMC) 분석에서는 만성 염증 지표 상승과 점막관련불변T세포(MAIT) 감소가 확인됐다.[^108]
+- 담습체질을 가진 비만 환자는 일반 비만 환자보다 장내 미생물 조성(Faecalibacterium 감소 등)이 다르고 대사질환 위험이 더 높았다(n=90).[^109]
+- 대사체·지질체 분석에서 태음인은 다른 사상체질과 뚜렷이 구분되는 생물학적 프로파일을 보였고,[^110] 혈청·소변 대사체 마커(젖산·글루탐산·중성지방 등)를 통한 객관적 체질 구분 가능성도 제시됐다.[^111]
+
+**이 정도로 다층위(전사체·단백체·대사체·장내미생물·내분비축)에서 일관되게 체질 간 생물학적 차이가 재현된다는 것은, "체질은 그저 설문 응답 패턴일 뿐"이라는 회의적 해석을 상당히 약화시킨다.** 동시에 대부분이 소표본 단면연구이므로, 이 차이가 원인인지 결과인지, 그리고 얼마나 안정적인지는 여전히 추가 검증이 필요하다.
+
 ---
 
-## Q12. 반대로, 병이나 약 때문에 체질이 바뀌기도 합니까?
+### Q12. 반대로, 병이나 약 때문에 체질이 바뀌기도 합니까?
 
 **A.** 그렇게 읽히는 데이터가 있다. 그리고 이게 임상적으로 꽤 중요하다.
 
@@ -265,7 +351,7 @@ DNA 메틸화는 **유전과 환경의 접점**이다. 서열은 안 바뀌는�
 
 ---
 
-## Q13. 그래서 유전이 몇 퍼센트입니까?
+### Q13. 그래서 유전이 몇 퍼센트입니까?
 
 **A.** 숫자를 대라면 **대략 40~80%**, 체질 유형에 따라 편차가 크다.
 
@@ -278,7 +364,7 @@ DNA 메틸화는 **유전과 환경의 접점**이다. 서열은 안 바뀌는�
 
 ---
 
-## Q14. 체질이 바뀌면 병 위험도 바뀝니까? 이게 제일 궁금한데요.
+### Q14. 체질이 바뀌면 병 위험도 바뀝니까? 이게 제일 궁금한데요.
 
 **A.** 이게 실용적으로 가장 중요한 질문이고, **답은 "그렇다"에 가깝다.**
 
@@ -296,9 +382,36 @@ DNA 메틸화는 **유전과 환경의 접점**이다. 서열은 안 바뀌는�
 **근거 4 — 다만 체질 점수 개선이 항상 결과 개선은 아니다**
 Q10에서 본 옥병풍산 연구가 그 반례다. 기허 점수는 좋아졌는데 감기 발생률은 안 바뀌었다.[^31]
 
+**근거 5 — 사상체질별 질환 위험을 다룬 관찰연구를 모으면 이렇다.** 한국 코호트를 중심으로 사상체질이 특정 질환의 독립적 위험요인으로 반복 보고된 연구를 정리했다.
+
+| 체질 | 질환/지표 | 소견 | 근거 |
+|---|---|---|---|
+| 태음인 | 당뇨병 | 독립적 위험요인, 소음인 대비 유병률·발병위험 높음 | [^83] |
+| 체질 유형별 | 인슐린 저항성 | 체질이 독립적 위험요인 | [^84] |
+| 태음인 | 고혈압 | 독립적 위험요인, 유병률 최고 | [^85] |
+| 태음인 | 복부비만 | 연령·BMI·대사질환 보정 후에도 유의(n=2,528) | [^86] |
+| 태음인 | 대사증후군 | 독립적 위험요인(성향점수매칭, n=3,334) | [^87] |
+| 태음인(남성) | 전고혈압 | 소음인 대비 위험 상승(n=2,806) | [^88] |
+| 태음인/소양인 | 당뇨병전단계 | 정상체중은 태음인, 비만은 소양인에서 위험 ↑ | [^89] |
+| 태음인·소양인 | 대사증후군 | 소음인보다 위험 높음(n=1,617) | [^90] |
+| 태음인/소음인 | 대사증후군·IBS(체계적 고찰) | 태음인은 대사, 소음인은 소화기 질환 취약 | [^91] |
+| 소음인/태음인 | 불현성 갑상선기능저하증 | 체질별 FT4·료도라쿠 점수 상이 | [^92] |
+| 태음인 | 폐쇄성 수면무호흡증 | 독립적 위험요인(n=652) | [^93] |
+| 소음인(남성) | 과민성장증후군 | 독립적 위험요인, 스트레스와 상승작용 | [^94] |
+| 소음인 | 우울 증상 | 위험 높음(n=653) | [^95] |
+| 소양인/태음인 | 수면의 질·비만 | 체지방·비만 요인이 수면의 질과 연관 | [^96] |
+| 태음인(여)·소음인(남) | 기능성 소화불량 | 성별-체질 상호작용 | [^97] |
+| 태음인 | 일반·복부비만 | 위험 최고(n=3,348) | [^98] |
+| 소음인·소양인 | 근감소증 | 태음인보다 유병률 높음(n=1,204) | [^99] |
+| 태음인-열형 | 대사증후군(한열변증 결합) | 표현형 결합이 예측력 향상 | [^100] |
+
+이 개별 관찰연구를 넘어 메타분석 수준에서도 비슷한 그림이 확인된다. 당뇨병 환자 28,781명을 통합한 메타분석에서는 음허·담습·기허체질이 흔했고 특히 음허·담습이 주요 위험인자였다.[^112] 기능성 변비 환자를 대상으로 한 메타분석(n=2,976)에서도 음허·양허·기허체질이 우세했으며 여성·고령층에서 발생률이 높았다.[^113] 관찰연구 하나하나의 신뢰도는 제각각이지만, 메타분석 수준에서도 특정 체질-질환 조합이 반복 검증된다는 점은 이 관찰들이 우연한 잡음만은 아니라는 근거가 된다.
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 대부분 한국인 단면 또는 단일 시점 코호트 관찰연구이며, 체질 판정 도구(QSCC II 등)가 상태 의존적 항목을 포함한다는 Q6의 한계가 그대로 적용된다. **변증 없는 관행적 체질 판정만으로 "이 환자는 위험군"이라 단정하는 것은 근거에 부합하지 않는다.** 체질은 위험도를 조정하는 하나의 층(層)으로 활용하되, 개별 환자의 병력·검사 소견과 함께 종합해야 한다.
+
 ---
 
-## Q15. 그래서 진료실에서 뭐라고 말해야 합니까?
+### Q15. 그래서 진료실에서 뭐라고 말해야 합니까?
 
 **A.** 이 정도가 근거에 부합하면서 오해를 안 만드는 설명이라고 본다.
 
@@ -322,6 +435,42 @@ Q10에서 본 옥병풍산 연구가 그 반례다. 기허 점수는 좋아졌�
 **5) 그리고 방향은 양쪽이다.**
 체질이 병을 부르기도 하지만, 병과 약과 치료가 체질을 밀기도 한다.[^22][^38] 환자의 체질이 예전과 달라 보인다면 그게 오진이 아니라 실제 변화일 수 있다.
 
+### 안전성 및 임상 주의사항
+
+체질 진단·재판정과 그에 따른 치료 조정에는 다음과 같은 안전성 이슈가 따라붙는다.
+
+| 위험 | 내용 | 근거 |
+|---|---|---|
+| 오래된 체질 진단에 근거한 처방 고수 | 체질이 이동했는데도 초진 처방을 그대로 유지하면 변증-치법 불일치 위험 | [^12][^25] |
+| 약물 유발 체질 표현형 이동 | 2세대 항정신병약(특히 올란자핀) 복용 시 체중 증가로 체질 판정이 이동 — 정신과 공동 관리 환자는 체질만으로 임의로 한약을 가감하지 말 것 | [^38] |
+| 임신·산후 재판정 시점 오류 | 임신 중 일시적으로 이동한 체질 점수를 "새로운 체질"로 오인해 산후까지 고정 처방하면 산후 회복 양상과 어긋날 수 있음 | [^25] |
+| 중증 질환(암 등) 치료 전후 재판정 누락 | 유방암 등 치료 후 편파체질 비율이 일반 인구 대비 크게 상승 — 종양내과 치료와 병행 시 체질 처방의 안전성·상호작용을 재확인해야 함 | [^22] |
+| 안면관찰 단독 진단 | 임상가 3인의 안면관찰 일치율 2.9%로 극히 낮음 — 단일 관찰자의 안면 판정만으로 처방을 정하지 말 것 | [^16] |
+| 체질 점수 개선과 임상 결과 개선의 괴리 | 기허체질 개선 중재에서 증상 점수는 좋아졌으나 감기 발생률 등 실제 결과는 불변한 사례 존재 — 체질 점수를 대리결과지표로 과신하지 말 것 | [^31] |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 체질 판정과 관련된 안전성 문헌은 아직 얇은 편이며, 위 항목은 개별 연구에서 관찰된 신호를 임상적 주의사항으로 재구성한 것이다.
+
+### 추적 지표표
+
+체질 재판정이 필요한 임상 맥락별로 아래 지표를 함께 추적하면, "체질이 바뀐 것인지 측정오차인지"를 가릴 확률을 높일 수 있다.
+
+| 영역 | 추적 지표 | 근거 |
+|---|---|---|
+| 체질 설문 재검사 | QSCC II, SPQ, SUDI, CCMQ(단축형 포함), BCQ+/BCQ- | [^12][^67][^68][^79][^74][^75] |
+| 체형·체성분 | BMI, 체지방률, 허리둘레·허리엉덩이비, 폰데랄지수 | [^10][^98][^43] |
+| 대사 지표 | 공복혈당, 인슐린저항성(HOMA-IR), 지질(TG·HDL·LDL) | [^41][^61][^105] |
+| 내분비축 | 혈청 ACTH·코르티솔, 갑상선기능(FT4) | [^30][^92][^104] |
+| 염증·면역 | IL-1β, IL-1ra, TNF-α, IgG | [^51][^52][^55][^31] |
+| 장내 미생물·대사체 | Firmicutes/Bacteroidetes 비율, 단쇄지방산, 소변 대사체(GC-MS/NMR) | [^29][^36][^103][^111] |
+| 수면·심리 | PSQI 등 수면의 질, 우울·불안 척도 | [^53][^95] |
+| 산과 지표 | 임신 분기별 체질 점수, 산후 6개월 회복도 | [^25] |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 지표를 모두 매번 측정할 필요는 없으며, 재판정을 고려하는 임상 상황(Q15의 5개 상황)에 맞춰 선택적으로 적용한다.
+
+### 환자 설명
+
+> 체질은 타고난 부분이 분명히 있습니다. 쌍둥이 연구를 보면 체질 성향의 절반에서 많게는 5분의 4까지는 유전으로 설명됩니다. 그런데 동시에, 체질은 몇 년마다 한 번씩 다시 찍어야 하는 사진과도 같습니다. 생활습관을 8주만 바꿔도 체질 진단 결과가 달라지는 사람이 셋 중 하나꼴로 나왔고, 임신·출산이나 큰 병을 앓고 난 뒤에는 체질이 실제로 이동하기도 합니다. 그러니 "저는 원래 태음인이라 어쩔 수 없어요"라는 말은 절반만 맞습니다. 체질에 따른 질병 위험은 분명히 있지만, 그 위험은 생활습관 관리로 상당 부분 줄일 수 있다는 근거가 있습니다. 그리고 예전에 다른 한의원에서 다른 체질로 진단받았다고 해서 어느 한쪽이 틀린 것도 아닙니다 — 몸이 실제로 변했을 가능성이 있습니다. 체중이 많이 변했거나, 임신·출산을 겪었거나, 큰 병을 앓았다면 체질을 다시 확인해보는 것이 좋습니다.
+
 ---
 
 ## 마무리: 근거의 한계를 정직하게
@@ -337,10 +486,55 @@ Q10에서 본 옥병풍산 연구가 그 반례다. 기허 점수는 좋아졌�
 - **체질 개선 → 임상 결과 개선의 연결고리가 검증되지 않았다.** 옥병풍산 연구에서 체질 점수는 좋아졌는데 감기 발생은 안 줄었다.[^31] 체질 점수를 대리결과지표(surrogate endpoint)로 쓸 수 있는지가 검증되지 않았다.
 - **데이터베이스의 구조적 한계.** med.symbolicinfo.com은 PubMed 중심이라 한국 국내 문헌(RISS, KMbase, OASIS, KoreaScience, DBpia)과 중국 CNKI 문헌이 체계적으로 과소대표된다. 특히 체질 가변성 논쟁은 국내 학술지에서 활발히 다뤄졌을 가능성이 높으므로, 이 문서의 국내 근거 커버리지는 불완전하다고 봐야 한다.
 - **일부 레코드의 필드 오류.** 생활습관-고혈압 연구[^41]의 데이터베이스 레코드에는 체질 약어 표기(SY/TE/SE)와 한글 체질명이 서로 어긋나 있다. 본문에서는 방향성을 특정하지 않고 "고위험 체질"로 서술했다. 인용 전 원문 확인이 필요하다.
+- **개별 유전자 다형성 연구는 대부분 후보유전자(candidate gene) 접근이다.** 제2편의 유전자 다형성 표(각주 44~65)에 실린 연구 상당수는 표본이 수백 명 수준이고, 독립 코호트에서의 재현 검증을 거치지 않았다. GWAS 급 대규모 연구(각주 3, 14)를 제외하면 다중검정 보정이 충분치 않을 가능성이 있다. 후보유전자 연구 특유의 출판편향(양성 결과가 더 잘 게재되는 경향)도 감안해야 한다.
+- **질환 위험요인 연구(제4편 Q14 표, 각주 83~100)는 전부 한국 코호트의 단면 또는 단일 시점 관찰연구다.** 서양인·중국인 등 다른 인구집단에서 사상체질 분류 자체가 타당한지 검증된 바가 많지 않으므로, 이 표의 결과를 한국인 이외 집단에 그대로 확장하기는 어렵다.
 
 **앞으로 누가 해줬으면 하는 연구**: (1) 무처치 대조군을 둔 체질 재분류 연구 — 개입 없이 8주 뒤 몇 %가 바뀌는지를 알아야 33.9%가 의미 있는 숫자인지 판단할 수 있다. (2) 동일 코호트 10년 이상 종단 추적. (3) 설문·안면·음성·임상가 판정 등 서로 다른 조작적 정의 간 일치도 검증. (4) 사상체질 판정과 9종 체질 판정을 같은 대상자에게 동시 시행한 교차 검증. (5) 쌍둥이 코호트에서 체질 판정을 10년 간격으로 두 번 시행해 **유전율의 시간적 안정성**을 추정하는 연구 — 이게 있으면 "타고나는가 바뀌는가" 질문에 가장 직접적인 답이 나온다.
 
 **한 문장으로 줄이면**: 체질은 40~80% 정도 타고나되, 나머지가 평생에 걸쳐 계속 다시 쓰이는 원고에 가깝다. 그리고 우리가 진료실에서 읽는 건 원고가 아니라 **오늘 인쇄된 페이지 한 장**이다.
+
+---
+
+## 제5편 Q&A
+
+이 편은 앞선 15개 문답을 진료실에서 바로 쓸 수 있게 축약한 요약형 Q&A다.
+
+**Q1. 초진 때 잡은 체질을 몇 년 뒤에도 그대로 써도 됩니까?**
+
+권장하지 않는다. 체질 판정은 생활습관 개입만으로도 8주 만에 3분의 1이 바뀔 수 있고,[^12] 임신·출산·체중 변화·중증 질환 치료 전후에는 특히 이동 폭이 크다.[^25][^38][^22] 최소한 이런 사건이 있었다면 재평가가 필요하다.
+
+**Q2. 환자가 다른 한의원에서 다른 체질 진단을 받았다고 하면 어떻게 설명해야 합니까?**
+
+둘 중 하나가 틀렸다고 단정하지 않는 게 좋다. 안면관찰 기반 진단의 임상가 간 일치율은 2.9%에 불과할 만큼 낮고,[^16] 설문 기반 진단도 상태 의존적 문항이 많아 실제로 몸이 변했을 가능성이 있다.[^12] 진단 도구와 시점을 함께 확인하는 것이 우선이다.
+
+**Q3. 체질 유전자 검사를 받으면 확실한 답이 나옵니까?**
+
+아니다. GWAS와 후보유전자 연구에서 여러 유전좌위가 확인됐지만,[^44][^53][^57] 모든 체질을 대표하는 결정적 단일 유전자 지표는 아직 없다.[^8] 체질은 소효과 다유전자 + 환경 요인이 함께 작용하는 다인자성 형질에 가깝다.
+
+**Q4. 소양인은 다른 체질보다 판정이 자주 바뀐다는 게 사실입니까?**
+
+그렇게 읽히는 근거가 있다. 쌍둥이 연구에서 소양인의 유전율(47%)이 태음인·소음인(70% 이상)보다 뚜렷이 낮았고,[^1] 생활습관 중재 후 판정 변화도 소양인 그룹에서 특히 두드러졌다.[^12] 소양인 진단은 상태 의존적 요소를 더 신중히 고려할 만하다.
+
+**Q5. 임신부의 체질 진단은 언제 하는 게 맞습니까?**
+
+임신 중 한 시점의 판정을 확정 진단으로 쓰지 않는 게 좋다. 임신 1분기에는 양허·담습어혈 점수가, 3분기에는 음허 점수가 체계적으로 높아지고, 산후 6개월이 되어도 양허 외에는 완전히 회복되지 않는 경우가 많다.[^25] 가능하면 임신 전이나 산후 6개월 이후에 재평가하는 편이 안정적이다.
+
+**Q6. 체질을 개선하면 정말 병을 예방합니까?**
+
+부분적으로 그렇다. 건강한 생활습관을 유지하면 고위험 체질의 고혈압 위험이 유의하게 줄고 체질 간 위험 격차도 좁혀진다는 근거가 있다.[^41] 다만 체질 점수 자체의 개선이 항상 임상 결과 개선으로 이어지는 것은 아니므로,[^31] "체질만 좋아지면 병도 낫는다"는 식의 과장된 설명은 피해야 한다.
+
+**Q7. 정신과 약을 복용 중인 환자의 체질 진단, 그대로 믿어도 됩니까?**
+
+주의가 필요하다. 2세대 항정신병약, 특히 올란자핀 복용 시 체중이 늘면서 체질 판정 자체가 이동하는 경우가 보고됐다.[^38] 이런 환자는 약물 유발 표현형 이동 가능성을 먼저 감별하고, 정신과 주치의 관리를 유지하면서 한의학적 개입을 보조적으로 병행하는 것이 원칙이다.
+
+**Q8. 체질 진단 도구(설문·안면·음성·체형) 중 무엇을 우선해야 합니까?**
+
+단일 도구에 의존하지 않는 것이 근거에 부합한다. 설문 도구는 검사-재검사 신뢰도가 양호한 편이지만,[^13][^14] 안면관찰 단독 진단의 임상가 간 일치율은 극히 낮다.[^16] 안면·체형·음성·설문을 통합한 모델이 단일 지표보다 정확도가 높았다는 근거가 있으므로,[^72] 가능하면 여러 지표를 교차 확인하는 것이 좋다.
+
+---
+
+**고전 인용 출처**: 이 문서에서 다룬 사상체질(四象體質) 분류 체계는 『동의수세보원(東醫壽世保元)』(이제마, 1894)의 태양인·소양인·태음인·소음인 사상인론(四象人論)에 근거한다. 중국 체질학설(왕치 9종 체질) 및 조체(調體) 개념은 현대 중의체질학(中醫體質學) 문헌에서 정리되었다. 이 문서는 전통 원전의 체질 분류 이론 자체보다 그 생물학적 실체와 가변성에 관한 현대 연구를 다루므로, 『황제내경(黃帝內經)』·『상한론(傷寒論)』 등 병기·치법 원전의 직접 인용은 최소화했다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준, 사상체질·TCM 체질 관련 검색어로 추가 수집.
 
 ---
 
@@ -389,7 +583,77 @@ Q10에서 본 옥병풍산 연구가 그 반례다. 기허 점수는 좋아졌�
 [^41]: Park JE, Shin C, Lee S. Effect of Lifestyle Factors on Hypertension by Constitution Type: A Large Community-Based Study. *Evid Based Complement Alternat Med*. n=5,793. DOI: [10.1155/2019/3231628](https://doi.org/10.1155/2019/3231628)
 [^42]: Wang T, Chen J, Sun X, et al. Effects of TCMC on Transformation of Good Health Status to Suboptimal Health Status: A Nested Case-Control Study. *Evid Based Complement Alternat Med*. n=1,273. PMID: [26346320](https://pubmed.ncbi.nlm.nih.gov/26346320/)
 [^43]: Baek Y, et al. Cardiometabolic risk and lifestyle associations by Sasang constitution in middle-aged Koreans. n=1,996. (프로젝트 내 선행 종합분석 문서 인용 문헌 [42])
+[^44]: Genome-wide association study of the four-constitution medicine. Yin CS 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2009-12. [실험연구] [DOI 10.1089/acm.2009.0205](https://doi.org/10.1089/acm.2009.0205) [PMID 19954339](https://pubmed.ncbi.nlm.nih.gov/19954339/) — 사상체질 분류에 유의한 SNP를 GWAS로 탐색한 초기 연구. 체질의 다인자 유전적 기반을 시사.
+[^45]: Susceptible gene of stasis-stagnation constitution from genome-wide association study related to cardiovascular disturbance and possible regulated traditional Chinese medicine. Huang KC 외. _BMC complementary and alternative medicine_. 2015-07-14. [실험연구] [DOI 10.1186/s12906-015-0761-x](https://doi.org/10.1186/s12906-015-0761-x) [PMID 26169365](https://pubmed.ncbi.nlm.nih.gov/26169365/) — 당뇨병 환자 중 어혈-기체 체질에서 PON2 유전자좌 연관. 체질별 심혈관 취약성의 유전적 후보 경로.
+[^46]: HLA class II polymorphisms associated with the physiologic characteristics defined by Traditional Chinese Medicine: linking modern genetics with an ancient medicine. Chen S 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2007-03. [관찰연구] [DOI 10.1089/acm.2006.6126](https://doi.org/10.1089/acm.2006.6126) [PMID 17388766](https://pubmed.ncbi.nlm.nih.gov/17388766/) — HLA class II 다형성이 기허·담습·음허·혈어 체질과 연관. 면역유전학적 체질 실체 근거.
+[^47]: Association between Genetic Polymorphism of Multidrug Resistance 1 Gene and Sasang Constitutions. Kim HJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2009-09. [관찰연구] [DOI 10.1093/ecam/nep118](https://doi.org/10.1093/ecam/nep118) [PMID 19745014](https://pubmed.ncbi.nlm.nih.gov/19745014/) — MDR1 다형성이 소양인 구분과 연관. 체질별 약물 반응 차이의 유전적 근거 후보.
+[^48]: Genetic Effects of FTO and MC4R Polymorphisms on Body Mass in Constitutional Types. Cha S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2011. [관찰연구] [DOI 10.1093/ecam/nep162](https://doi.org/10.1093/ecam/nep162) [PMID 19822564](https://pubmed.ncbi.nlm.nih.gov/19822564/) — FTO·MC4R 변이의 체중 영향이 체질 유형별로 다르게 나타남. 체질-비만 유전자 상호작용.
+[^49]: Association of the Apolipoprotein A5 Gene -1131T>C Polymorphism with Serum Lipids in Korean Subjects: Impact of Sasang Constitution. Song KH 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [관찰연구] [DOI 10.1155/2012/598394](https://doi.org/10.1155/2012/598394) [PMID 21860654](https://pubmed.ncbi.nlm.nih.gov/21860654/) — APOA5 -1131T>C가 소양인·태음인에서 HDL 저하·중성지방 상승과 더 강하게 연관.
+[^50]: Angiotensin converting enzyme gene polymorphism and traditional Sasang classification in Koreans with cerebral infarction. Um JY 외. _Hereditas_. 2003. [관찰연구] [DOI 10.1034/j.1601-5223.2003.01605.x](https://doi.org/10.1034/j.1601-5223.2003.01605.x) [PMID 14641479](https://pubmed.ncbi.nlm.nih.gov/14641479/) — 뇌경색군에서 태음인 빈도 유의 증가. 유전자-체질 상승효과는 확인되지 않음(정직한 음성 결과).
+[^51]: Interleukin-1 beta gene polymorphism and traditional constitution in obese women. Lee JH 외. _The International journal of neuroscience_. 2008-06. [관찰연구] [DOI 10.1080/00207450701242883](https://doi.org/10.1080/00207450701242883) [PMID 18465425](https://pubmed.ncbi.nlm.nih.gov/18465425/) — 태음인 과체중군에서 IL-1beta 대립유전자 빈도 차이. 체질-염증유전자 상호작용의 예비 근거.
+[^52]: Interleukin-1 receptor antagonist gene polymorphism and traditional classification in obese women. Um JY 외. _The International journal of neuroscience_. 2006-01. [관찰연구] [DOI 10.1080/00207450690962334](https://doi.org/10.1080/00207450690962334) [PMID 16318998](https://pubmed.ncbi.nlm.nih.gov/16318998/) — IL-1ra 유전형과 태음인·비만 간 경향적 연관. 전체 유전형-BMI 연관은 유의하지 않음.
+[^53]: Peroxisome proliferator-activated receptor-gamma Pro12Ala polymorphism is associated with the susceptibility to ischemic stroke in Taeeumin classified by Sasang medicine. Lee BC 외. _Neurological research_. 2007. [관찰연구] [DOI 10.1179/016164107X172347](https://doi.org/10.1179/016164107X172347) [PMID 17359638](https://pubmed.ncbi.nlm.nih.gov/17359638/) — 태음인이면서 PPAR-gamma Pro12Ala 보유 시 허혈성 뇌졸중 위험이 큰 폭으로 상승. 체질-유전자 교호작용의 대표 사례.
+[^54]: Interleukin-1alpha polymorphism -889C/T related to obesity in Korean Taeumin women. Song JS 외. _The American journal of Chinese medicine_. 2008. [관찰연구] [DOI 10.1142/S0192415X0800559X](https://doi.org/10.1142/S0192415X0800559X) [PMID 18306451](https://pubmed.ncbi.nlm.nih.gov/18306451/) — IL-1alpha -889C/T의 T 대립유전자가 태음인 여성의 체중과 연관. 체질별 대사 유전자 반응성 차이.
+[^55]: Association between tumor necrosis factor-alpha gene polymorphism and Sasang constitution in cerebral infarction. Um JY 외. _The American journal of Chinese medicine_. 2005. [관찰연구] [DOI 10.1142/S0192415X05003156](https://doi.org/10.1142/S0192415X05003156) [PMID 16173529](https://pubmed.ncbi.nlm.nih.gov/16173529/) — TNF-alpha 다형성은 뇌경색 감수성과 연관되나 체질 간 차이는 없음(음성 결과의 정직한 기재).
+[^56]: Susceptibility for ischemic stroke in four constitution medicine is associated with polymorphisms of FCGR2A and IL1RN genes. Lee BC 외. _Neurological research_. 2010-02. [관찰연구] [DOI 10.1179/016164109X12537002793922](https://doi.org/10.1179/016164109X12537002793922) [PMID 20034444](https://pubmed.ncbi.nlm.nih.gov/20034444/) — 태음인에서 IL1RN 유전형이 뇌졸중 위험 상승과, FCGR2A 변이는 위험 하강과 연관.
+[^57]: Genome-Wide Association Study Reveals Four Loci for Lipid Ratios in the Korean Population and the Constitutional Subgroup. Kim T 외. _PloS one_. 2017. [관찰연구] [DOI 10.1371/journal.pone.0168137](https://doi.org/10.1371/journal.pone.0168137) [PMID 28046027](https://pubmed.ncbi.nlm.nih.gov/28046027/) — 지질비율 관련 4개 유전좌위 중 LDL-C/HDL-C 비 연관 변이가 태음인 하위군에서만 유효.
+[^58]: Lung- and liver-dominant phenotypes of Korean eight constitution medicine have different profiles of genotype associated with each organ function. Kim C 외. _Physiological reports_. 2022-09. [관찰연구] [DOI 10.14814/phy2.15459](https://doi.org/10.14814/phy2.15459) [PMID 36065883](https://pubmed.ncbi.nlm.nih.gov/36065883/) — 8체질의학 폐주형·간주형 간 서로 다른 유전자형 프로파일. 8체질 진단에도 유전적 상관물 탐색 시도.
+[^59]: Polymorphisms in PPARD, PPARG and APM1 associated with four types of traditional Chinese medicine constitutions. Wu Y 외. _Journal of genetics and genomics = Yi chuan xue bao_. 2010-06. [관찰연구] [DOI 10.1016/S1673-8527(09)60055-2](https://doi.org/10.1016/S1673-8527(09)60055-2) [PMID 20621019](https://pubmed.ncbi.nlm.nih.gov/20621019/) — PPARD·PPARG·APM1 다형성이 중의 4체질 분류와 연관. 대사 유전자 기반 체질 생물표지 후보.
+[^60]: Genome-wide association study on susceptibility genes associated with yang-deficiency constitution: A small sample case-control study. Yao SL 외. _Chinese journal of integrative medicine_. 2015-08. [관찰연구] [DOI 10.1007/s11655-014-1957-5](https://doi.org/10.1007/s11655-014-1957-5) [PMID 25533513](https://pubmed.ncbi.nlm.nih.gov/25533513/) — 양허체질에서 RGS6·mGluR5 등 다인자 유전 다형성 확인. 소표본 예비 연구로 해석에 신중 요망.
+[^61]: Study on insulin resistance and genetic polymorphisms in essential hypertension patients of two different kinds of TCM constitution. Qian YS 외. _Chinese journal of integrative medicine_. 2007-09. [관찰연구] [DOI 10.1007/s11655-007-0175-9](https://doi.org/10.1007/s11655-007-0175-9) [PMID 17898946](https://pubmed.ncbi.nlm.nih.gov/17898946/) — 고혈압 환자의 체질(완만세밀형·풍만급조형)에 따라 인슐린 저항성·관련 유전자형이 상이.
+[^62]: [Relationship between the polymorphism of alpha-adducin gene and the two phenotypes of constitutions in patients with essential hypertension classified by TCM]. Qian YS 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-08. [관찰연구] [PMID 16970091](https://pubmed.ncbi.nlm.nih.gov/16970091/) — ADD1 다형성과 체질 간 직접 연관은 없었으나, 담음형 TT 보유자에서 대사지표 악화 경향(음성-양성 혼재 결과).
+[^63]: Correlation analysis of hypertension, traditional Chinese medicine constitution, and LPL gene polymorphism in the elderly in communities in Shanghai. Ying Tao 외. _Technology and Health Care_. 2024-01-05. [관찰연구] [DOI 10.3233/thc-220908](https://doi.org/10.3233/thc-220908) — 담습·음허체질 노인 고혈압에서 LPL 유전자 변이가 위험을 높임. 체질-유전자-질환 3중 연관.
+[^64]: The Relationships between Leptin, Genotype, and Chinese Medicine Body Constitution for Obesity. Hou HI 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구] [DOI 10.1155/2021/5510552](https://doi.org/10.1155/2021/5510552) [PMID 34055005](https://pubmed.ncbi.nlm.nih.gov/34055005/) — 렙틴 수치가 양허·음허체질에서 유의하게 높고 ADRB3(양허)·UCP1(담음-어혈) 발현과 연관.
+[^65]: Associations of Polygenic Risk for Depression, Traditional Chinese Medicine Constitution, and Depression: A Population-Based Study in Taiwan. Hsu YC 외. _American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics_. 2025-01. [관찰연구] [DOI 10.1002/ajmg.b.33007](https://doi.org/10.1002/ajmg.b.33007) [PMID 39257026](https://pubmed.ncbi.nlm.nih.gov/39257026/) — 우울증 다유전자위험점수(PRS)가 양허·어혈체질과 연관되며 매개 경로로 작용. 대규모(n=11,030) 인구기반 근거.
+[^66]: Development and validation of Sasang Urination and Defecation Inventory (SUDI) for pathophysiological symptoms of Sasang typology. Park YG 외. _Integrative medicine research_. 2019-06. [실험연구] [DOI 10.1016/j.imr.2019.04.001](https://doi.org/10.1016/j.imr.2019.04.001) [PMID 31080732](https://pubmed.ncbi.nlm.nih.gov/31080732/) — 사상인 소변·대변 병리 평가도구(SUDI) 개발. 소양인·소음인 간 배뇨·배변 양상 차이를 정량화.
+[^67]: Validation of the Sasang Personality Questionnaire in high school students. Lee SJ 외. _Integrative medicine research_. 2016-12. [관찰연구] [DOI 10.1016/j.imr.2016.07.002](https://doi.org/10.1016/j.imr.2016.07.002) [PMID 28462127](https://pubmed.ncbi.nlm.nih.gov/28462127/) — 성인용 사상체질 성격설문(SPQ)이 고등학생 집단에도 심리생물학적으로 타당하게 적용됨을 확인.
+[^68]: Development and validation of a personality assessment instrument for traditional korean medicine: sasang personality questionnaire. Chae H 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [실험연구] [DOI 10.1155/2012/657013](https://doi.org/10.1155/2012/657013) [PMID 22567034](https://pubmed.ncbi.nlm.nih.gov/22567034/) — 행동·정서·인지 하위척도로 구성된 SPQ 개발 및 신뢰도·타당도 검증. 체질 진단 보조도구.
+[^69]: Machine Learning Applications for the Development of a Questionnaire to Identify Sasang Constitution Typology. Soon Mi Kim 외. _International Journal of Environmental Research and Public Health_. 2022-09-19. [실험연구] [DOI 10.3390/ijerph191811820](https://doi.org/10.3390/ijerph191811820) — 머신러닝으로 사상체질 판별 핵심 문항 47개·6개 그룹을 도출. 설문 표준화·객관화 시도.
+[^70]: A study on the reliability of sasang constitutional body trunk measurement. Jang E 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [실험연구] [DOI 10.1155/2012/604842](https://doi.org/10.1155/2012/604842) [PMID 21822442](https://pubmed.ncbi.nlm.nih.gov/21822442/) — 체간 계측(5개 너비·8개 둘레)의 측정자 표준교육으로 신뢰도가 유의하게 향상됨을 확인.
+[^71]: Feature selection from a facial image for distinction of sasang constitution. Koo I 외. _Evidence-based complementary and alternative medicine : eCAM_. 2009-09. [실험연구] [DOI 10.1093/ecam/nep065](https://doi.org/10.1093/ecam/nep065) [PMID 19745013](https://pubmed.ncbi.nlm.nih.gov/19745013/) — 안면 이미지에서 체질 판별에 유의한 핵심 특징(거리·각도·비율)을 통계적으로 추출.
+[^72]: Development of an integrated Sasang constitution diagnosis method using face, body shape, voice, and questionnaire information. Do JH 외. _BMC complementary and alternative medicine_. 2012-07-04. [실험연구] [DOI 10.1186/1472-6882-12-85](https://doi.org/10.1186/1472-6882-12-85) [PMID 22762505](https://pubmed.ncbi.nlm.nih.gov/22762505/) — 안면·체형·음성·설문 4개 지표 통합 시 진단 정확도 남 64.0%·여 55.2%. 단일 지표보다 개선되나 완전하지 않음.
+[^73]: Recent progress in voice-based sasang constitutional medicine: improving stability of diagnosis. Jang JS 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [실험연구] [DOI 10.1155/2013/920384](https://doi.org/10.1155/2013/920384) [PMID 24062794](https://pubmed.ncbi.nlm.nih.gov/24062794/) — 음성 프레임별 특징의 가우시안혼합모델 분석으로 개인 내 진단 변동성을 줄여 재현성 향상.
+[^74]: BCQ–: A Body Constitution Questionnaire to Assess Yin-Xu. Jui-Shan Lin 외. _Complementary Medicine Research_. 2012. [관찰연구] [DOI 10.1159/000346060](https://doi.org/10.1159/000346060) — 19문항 음허 평가 설문(BCQ-) 개발. 신뢰도·타당도 검증됨.
+[^75]: BCQ+: a body constitution questionnaire to assess Yang-Xu. Part II: Evaluation of reliability and validity. Chen LL 외. _Forschende Komplementarmedizin (2006)_. 2009-02. [관찰연구] [DOI 10.1159/000197770](https://doi.org/10.1159/000197770) [PMID 19295226](https://pubmed.ncbi.nlm.nih.gov/19295226/) — 양허 평가 설문(BCQ+) 신뢰도·타당도 검증. 5개 영역(두부·흉부·사지·복강·체표)의 에너지저하 정량화.
+[^76]: Measuring body constitution: validation of the Body Constitution Questionnaire (BCQ) in Hong Kong. Wong W 외. _Complementary therapies in medicine_. 2014-08. [관찰연구] [DOI 10.1016/j.ctim.2014.05.009](https://doi.org/10.1016/j.ctim.2014.05.009) [PMID 25146072](https://pubmed.ncbi.nlm.nih.gov/25146072/) — BCQ 홍콩판 검증. 불균형 체질군이 균형체질군보다 삶의 질(HRQOL)이 유의하게 낮음.
+[^77]: Validation of the Cantonese version of the Traditional Chinese Medicine (TCM) Body constitution Questionnaire in elderly people. Yiu Lin Wong 외. _Chinese Medicine_. 2023-10-11. [관찰연구] [DOI 10.1186/s13020-023-00805-w](https://doi.org/10.1186/s13020-023-00805-w) — TCM 체질설문 광둥어판(TCMECQ-C) 노인 대상 타당도 확립.
+[^78]: Validation of the Constitution in Chinese Medicine Questionnaire: Does the Traditional Chinese Medicine Concept of Body Constitution Exist? Wendy Wong 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/481491](https://doi.org/10.1155/2013/481491) — CCMQ 검증에서 불균형 체질군의 HRQOL이 평형체질군보다 유의하게 낮아 체질 개념의 임상적 타당성 뒷받침.
+[^79]: Development and evaluation of short form of constitution in Chinese medicine questionnaire: a national epidemiological survey data of 21 948 case. Bai MH 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-02. [관찰연구] [DOI 10.19852/j.cnki.jtcm.20211228.001](https://doi.org/10.19852/j.cnki.jtcm.20211228.001) [PMID 35294132](https://pubmed.ncbi.nlm.nih.gov/35294132/) — 21,948명 전국 역학조사 데이터로 CCMQ 단축형(26문항) 개발. 혈어·기체체질과 BMI의 유의한 연관 확인.
+[^80]: Validation of the English Version Constitution in Chinese Medicine Questionnaire (CCMQ) among Young Adults in Malaysia. _Medicine &amp; Health_. 2023-06-16. [실험연구] [DOI 10.17576/mh.2023.1801.13](https://doi.org/10.17576/mh.2023.1801.13) — CCMQ 영어판을 말레이시아 청년층 대상 타당도 검증. 다국어 임상 적용 가능성 확대.
+[^81]: The Vietnamese version of the constitution in Chinese medicine questionnaire (CCMQ): validity and reliability. Duong Thi Huong Nguyen 외. _MedPharmRes_. 2022-06-30. [관찰연구] [DOI 10.32895/ump.mpr.6.2.3](https://doi.org/10.32895/ump.mpr.6.2.3) — CCMQ 베트남어판 신뢰도·타당도 검증 완료.
+[^82]: Valid and Convenient Questionnaire Assessment of Chinese Body Constitution: Item Characteristics, Reliability, and Construct Validation. Lu T 외. _Patient preference and adherence_. 2022. [관찰연구] [DOI 10.2147/PPA.S373512](https://doi.org/10.2147/PPA.S373512) [PMID 35942226](https://pubmed.ncbi.nlm.nih.gov/35942226/) — CCMQ의 9체질 분류 구조가 대규모 지역사회 표본에서 효율적으로 측정됨을 확인(n=1,571).
+[^83]: Sasang constitution as a risk factor for diabetes mellitus: a cross-sectional study. Lee TG 외. _Evidence-based complementary and alternative medicine : eCAM_. 2009-09. [관찰연구] [DOI 10.1093/ecam/nep054](https://doi.org/10.1093/ecam/nep054) [PMID 19745018](https://pubmed.ncbi.nlm.nih.gov/19745018/) — 사상체질이 당뇨병의 독립적 위험요인. 태음인이 소음인보다 유병률·발병위험 유의하게 높음.
+[^84]: Sasang constitutional types can act as a risk factor for insulin resistance. Choi K 외. _Diabetes research and clinical practice_. 2011-03. [관찰연구] [DOI 10.1016/j.diabres.2010.11.017](https://doi.org/10.1016/j.diabres.2010.11.017) [PMID 21146241](https://pubmed.ncbi.nlm.nih.gov/21146241/) — 체질 유형별 인슐린 저항성 유병률 차이. 체질이 인슐린 저항성의 독립적 위험요인으로 작용.
+[^85]: The Sasang constitutional types can act as a risk factor for hypertension. Lee J 외. _Clinical and experimental hypertension (New York, N.Y. : 1993)_. 2011. [관찰연구] [DOI 10.3109/10641963.2011.561901](https://doi.org/10.3109/10641963.2011.561901) [PMID 21958429](https://pubmed.ncbi.nlm.nih.gov/21958429/) — 태음인이 고혈압 발생의 독립적 위험요인이며 유병률이 가장 높음.
+[^86]: Could the Sasang constitution itself be a risk factor of abdominal obesity? Jang E 외. _BMC complementary and alternative medicine_. 2013-04-02. [관찰연구] [DOI 10.1186/1472-6882-13-72](https://doi.org/10.1186/1472-6882-13-72) [PMID 23548105](https://pubmed.ncbi.nlm.nih.gov/23548105/) — 연령·BMI·대사질환 보정 후에도 태음인은 복부비만과 독립적으로 유의한 연관(n=2,528).
+[^87]: The sasang constitution as an independent risk factor for metabolic syndrome: propensity matching analysis. Jang E 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [관찰연구] [DOI 10.1155/2013/492941](https://doi.org/10.1155/2013/492941) [PMID 24348702](https://pubmed.ncbi.nlm.nih.gov/24348702/) — 태음인은 대사증후군의 독립적 위험요인(성향점수매칭 분석, n=3,334).
+[^88]: Sasang constitution may act as a risk factor for prehypertension. Jang E 외. _BMC complementary and alternative medicine_. 2015-07-14. [관찰연구] [DOI 10.1186/s12906-015-0754-9](https://doi.org/10.1186/s12906-015-0754-9) [PMID 26169174](https://pubmed.ncbi.nlm.nih.gov/26169174/) — 남성 태음인의 전고혈압(pre-HTN) 위험이 소음인보다 유의하게 높음(n=2,806).
+[^89]: Sasang Constitution Type Combined with General Obesity May Act as a Risk Factor for Prediabetes Mellitus. Younghwa Baek 외. _Healthcare_. 2022-11-15. [관찰연구] [DOI 10.3390/healthcare10112286](https://doi.org/10.3390/healthcare10112286) — 정상체중군에서는 태음인, 비만군에서는 소양인이 당뇨병전단계 위험이 높음 — 체질과 비만도의 상호작용.
+[^90]: Prevalence of Metabolic Syndrome according to Sasang Constitutional Medicine in Korean Subjects. Song KH 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [관찰연구] [DOI 10.1155/2012/646794](https://doi.org/10.1155/2012/646794) [PMID 22454673](https://pubmed.ncbi.nlm.nih.gov/22454673/) — 태음인·소양인이 소음인보다 대사증후군 위험 높음(n=1,617).
+[^91]: A Systematic Review on Sasang Constitutional Type-Associated Susceptibility to Disorders in Korea. Lee HY 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2016-12. [체계적 고찰] [DOI 10.1089/acm.2016.0177](https://doi.org/10.1089/acm.2016.0177) [PMID 27754711](https://pubmed.ncbi.nlm.nih.gov/27754711/) — 체계적 고찰 — 태음인은 대사증후군 계열, 소음인은 과민성장증후군 계열 질환에 취약한 경향이 반복 확인됨.
+[^92]: Association between subclinical hypothyroidism and Sasang constitution in a Korean population. Ahn SY 외. _Experimental and therapeutic medicine_. 2012-04. [관찰연구] [DOI 10.3892/etm.2012.461](https://doi.org/10.3892/etm.2012.461) [PMID 22969962](https://pubmed.ncbi.nlm.nih.gov/22969962/) — 불현성 갑상선기능저하증 환자에서 체질별 유리티록신(FT4)·료도라쿠 점수 양상이 상이.
+[^93]: Tae-eum type as an independent risk factor for obstructive sleep apnea. Lee SK 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [관찰연구] [DOI 10.1155/2013/910382](https://doi.org/10.1155/2013/910382) [PMID 23554836](https://pubmed.ncbi.nlm.nih.gov/23554836/) — 태음인이 폐쇄성 수면무호흡증(OSA)의 독립적 위험요인(n=652).
+[^94]: So-eum type as an independent risk factor for irritable bowel syndrome: a population-based study in Korea. Lee SK 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2014-11. [관찰연구] [DOI 10.1089/acm.2014.0077](https://doi.org/10.1089/acm.2014.0077) [PMID 25148474](https://pubmed.ncbi.nlm.nih.gov/25148474/) — 소음인, 특히 남성 소음인이 과민성장증후군(IBS)의 독립적 위험요인. 심리적 스트레스와 상승작용.
+[^95]: Sasang Constitution May Act as a Risk Factor for Depressive Symptoms-A Survey for Local Residence. Kim Y 외. _Healthcare (Basel, Switzerland)_. 2022-08-16. [관찰연구] [DOI 10.3390/healthcare10081548](https://doi.org/10.3390/healthcare10081548) [PMID 36011205](https://pubmed.ncbi.nlm.nih.gov/36011205/) — 소음인이 다른 체질보다 우울 증상 위험이 유의하게 높음(n=653).
+[^96]: Association between Sasang constitutional types with obesity factors and sleep quality. Kim TY 외. _Integrative medicine research_. 2018-12. [관찰연구] [DOI 10.1016/j.imr.2018.06.007](https://doi.org/10.1016/j.imr.2018.06.007) [PMID 30591888](https://pubmed.ncbi.nlm.nih.gov/30591888/) — 소양인의 체지방량, 태음인의 전반적 비만 요인이 수면의 질과 연관.
+[^97]: Sasang constitution affects the prevalence of functional dyspepsia. Kim YJ 외. _BMC complementary and alternative medicine_. 2015-05-20. [관찰연구] [DOI 10.1186/s12906-015-0674-8](https://doi.org/10.1186/s12906-015-0674-8) [PMID 25990754](https://pubmed.ncbi.nlm.nih.gov/25990754/) — 기능성 소화불량 유병률의 성별-체질 상호작용 — 여성은 태음인, 남성은 소음인 비중이 높음.
+[^98]: The prevalence of general and abdominal obesity according to sasang constitution in Korea. Baek Y 외. _BMC complementary and alternative medicine_. 2014-08-13. [관찰연구] [DOI 10.1186/1472-6882-14-298](https://doi.org/10.1186/1472-6882-14-298) [PMID 25123680](https://pubmed.ncbi.nlm.nih.gov/25123680/) — 태음인이 일반비만·복부비만(WC·WHR) 위험이 가장 높음(n=3,348).
+[^99]: Association of Sasang Constitutional Type with Sarcopenia. Lee SK 외. _Evidence-based complementary and alternative medicine : eCAM_. 2015. [관찰연구] [DOI 10.1155/2015/651090](https://doi.org/10.1155/2015/651090) [PMID 26649062](https://pubmed.ncbi.nlm.nih.gov/26649062/) — 소음인·소양인이 태음인보다 근감소증 유병률이 유의하게 높음(n=1,204).
+[^100]: The Korean Medicine phenotype as an adjunctive risk factor of Metabolic syndrome: A prospective observational cohort study. Eun Kyoung Ahn 외. 2022-11-21. [관찰연구] [DOI 10.21203/rs.3.rs-2278278/v1](https://doi.org/10.21203/rs.3.rs-2278278/v1) — 사상체질과 한열변증을 결합한 한의학적 표현형(태음인-열형)이 대사증후군의 유용한 예측변수.
+[^101]: Expression Profiling of Transcriptome and Its Associated Disease Risk in Yang Deficiency Constitution of Healthy Subjects. Yu R 외. _Evidence-based complementary and alternative medicine : eCAM_. 2016. [실험연구] [DOI 10.1155/2016/1493098](https://doi.org/10.1155/2016/1493098) [PMID 28484499](https://pubmed.ncbi.nlm.nih.gov/28484499/) — 양허체질 백혈구 유전자발현이 평형체질과 분자수준에서 구분되며 자가면역·대사장애 관련 발현 변화 관찰(n=28, 예비연구).
+[^102]: Development of an interpretable machine learning model associated with genetic indicators to identify Yin-deficiency constitution. Jing Li 외. _Chinese Medicine_. 2024-05-15. [실험연구] [DOI 10.1186/s13020-024-00941-x](https://doi.org/10.1186/s13020-024-00941-x) — NFKBIA·BCL2A1·CCL4 유전지표 기반 머신러닝으로 음허체질을 높은 정확도로 판별.
+[^103]: The increased tendency for anemia in traditional Chinese medicine deficient body constitution is associated with the gut microbiome. Liang Y 외. _Frontiers in nutrition_. 2024. [관찰연구] [DOI 10.3389/fnut.2024.1359644](https://doi.org/10.3389/fnut.2024.1359644) [PMID 39360281](https://pubmed.ncbi.nlm.nih.gov/39360281/) — 허손체질의 빈혈 경향이 장내미생물 불균형(단쇄지방산·담즙산 변화 경유)과 연관.
+[^104]: [Changes of endocrine and immune function in subjects of yang deficiency constitution]. Wang Q 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2008-12. [관찰연구] [DOI 10.3736/jcim20081204](https://doi.org/10.3736/jcim20081204) [PMID 19063834](https://pubmed.ncbi.nlm.nih.gov/19063834/) — 양허체질에서 시상하부-뇌하수체-부신축·갑상선축 불균형 및 IL-1β 등 면역지표 이상 확인(n=110).
+[^105]: Association of TCM body constitution with insulin resistance and risk of diabetes in impaired glucose regulation patients. You H 외. _BMC complementary and alternative medicine_. 2017-09-11. [관찰연구] [DOI 10.1186/s12906-017-1964-0](https://doi.org/10.1186/s12906-017-1964-0) [PMID 28893239](https://pubmed.ncbi.nlm.nih.gov/28893239/) — 당내성장애 환자에서 담습·습열체질이 염증성사이토카인 증가·아디포넥틴 감소와 연관, 당뇨 진행 예측인자.
+[^106]: Comparison of the gut microbiota of college students with the nine balanced and unbalanced traditional Chinese medicine constitutions and its potential application in fecal microbiota transplantation. Huang Q 외. _Frontiers in microbiomes_. 2023. [실험연구] [DOI 10.3389/frmbi.2023.1292273](https://doi.org/10.3389/frmbi.2023.1292273) [PMID 41853345](https://pubmed.ncbi.nlm.nih.gov/41853345/) — 균형체질 기증자가 불균형체질 기증자보다 분변미생물이식(FMT) 적격률·항비만효과가 우수.
+[^107]: Integrative analysis of microbiota and metabolomics in individuals exhibiting different TCM constitutions utilizing 16S rDNA sequencing and LC/MS metabolomics. Song N 외. _Microbial pathogenesis_. 2025-08. [관찰연구] [DOI 10.1016/j.micpath.2025.107621](https://doi.org/10.1016/j.micpath.2025.107621) [PMID 40258500](https://pubmed.ncbi.nlm.nih.gov/40258500/) — 체질(음허·평형·양허)에 따라 장내미생물·대사체(스테로이드호르몬 생합성·트립토판대사)가 유의하게 다름.
+[^108]: Single-cell transcriptome analyses of PBMCs reveal the immunological characteristics of individuals with phlegm-dampness constitution. Zhao W 외. _Frontiers of medicine_. 2025-04. [실험연구] [DOI 10.1007/s11684-024-1113-3](https://doi.org/10.1007/s11684-024-1113-3) [PMID 40126771](https://pubmed.ncbi.nlm.nih.gov/40126771/) — 담음체질에서 단일세포 전사체 분석상 만성염증 증가·점막관련불변T세포 감소 확인.
+[^109]: Obese Individuals With and Without Phlegm-Dampness Constitution Show Different Gut Microbial Composition Associated With Risk of Metabolic Disorders. Juho Shin 외. _Frontiers in Cellular and Infection Microbiology_. 2022-06-01. [관찰연구] [DOI 10.3389/fcimb.2022.859708](https://doi.org/10.3389/fcimb.2022.859708) — 담습체질을 가진 비만환자는 장내미생물 조성 변화(Faecalibacterium 감소 등)와 함께 대사질환 위험이 더 높음(n=90).
+[^110]: A Pilot Study on Characteristics of Metabolomics and Lipidomics according to Sasang Constitution. Kim MJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [관찰연구] [DOI 10.1155/2018/9214960](https://doi.org/10.1155/2018/9214960) [PMID 30002718](https://pubmed.ncbi.nlm.nih.gov/30002718/) — 대사체·지질체 분석으로 태음인이 다른 체질과 뚜렷이 구분되는 생물학적 프로파일을 보임.
+[^111]: Metabolite Markers for Characterizing Sasang Constitution Type through GC-MS and (1)H NMR-Based Metabolomics Study. Kim EJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [실험연구] [DOI 10.1155/2019/8783496](https://doi.org/10.1155/2019/8783496) [PMID 30854017](https://pubmed.ncbi.nlm.nih.gov/30854017/) — 혈청·소변 대사체 마커(젖산·글루탐산·중성지방 등)로 사상체질, 특히 태음인의 객관적 구분 가능성 제시.
+[^112]: A Meta-Analysis of the Association between Diabetes Mellitus and Traditional Chinese Medicine Constitution. Fan Bai 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-08-04. [메타분석] [DOI 10.1155/2021/6390530](https://doi.org/10.1155/2021/6390530) — 메타분석 — 당뇨병 환자에서 음허·담습·기허체질이 흔하며 음허·담습이 주요 위험인자(28,781명 통합).
+[^113]: A Meta-analysis of Traditional Chinese Medicine constitution distribution in people with functional constipation. Xuehui W 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2026-04. [메타분석] [DOI 10.19852/j.cnki.jtcm.2026.02.001](https://doi.org/10.19852/j.cnki.jtcm.2026.02.001) [PMID 42015765](https://pubmed.ncbi.nlm.nih.gov/42015765/) — 메타분석 — 기능성 변비 환자에서 음허·양허·기허체질이 우세, 여성·고령층에서 발생률 높음(n=2,976).
 
 ---
 
-*수집 방법: med.symbolicinfo.com 검색 API(`GET /search?q={term}&analyzed=1&per_page=100`)에 81개 검색어로 질의, PMID > DOI > 정규화 제목 순 중복 제거하여 2,751편 확보. 제목·초록·PICO 필드 대상 정규식 필터링으로 체질 관련 문헌을 추출한 뒤, 선천성/가변성 논점에 직접 기여하는 문헌을 선별했다. 데이터베이스가 PubMed 중심이므로 한국 국내 및 중국 CNKI 문헌은 과소대표되어 있다.*
+*수집 방법: med.symbolicinfo.com 검색 API(`GET /search?q={term}&analyzed=1&per_page=100`)에 90개 이상의 검색어(한글·영문, 유전자 다형성·설문 신뢰도·질환 위험요인·오믹스 키워드 포함)로 질의, PMID > DOI > 정규화 제목 순 중복 제거하여 3,000편 이상 확보. 제목·초록·PICO 필드 대상 정규식 필터링으로 체질 관련 문헌을 추출한 뒤, 선천성/가변성 논점에 직접 기여하는 문헌 113편을 선별해 인용했다. 동물실험(비인간 대상 실험연구)은 검색 결과에서 확인되지 않아 별도 제외 처리는 없었다. 데이터베이스가 PubMed 중심이므로 한국 국내 및 중국 CNKI 문헌은 과소대표되어 있다.*
