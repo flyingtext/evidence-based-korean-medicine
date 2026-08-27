@@ -83,7 +83,7 @@
 - 대청엽(大靑葉, Isatidis Folium)
 - 판람근(板藍根, Isatidis Radix)
 - 청대(靑黛, Indigo Pulverata Levis)
-- 우황(牛黃, Bovis Calculus) — (작성 예정)
+- 우황(牛黃, Bovis Calculus) — **작성됨**
 - 마치현(馬齒莧, Portulacae Herba) — (작성 예정)
 - 백두옹(白頭翁, Pulsatillae Radix) — (작성 예정)
 - 진피(秦皮, Fraxini Cortex) — (작성 예정)
