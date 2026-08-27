@@ -639,7 +639,7 @@ HSP 복부형에서 신장 침범이 동반되면 혈뇨가 주요 증상으로 
 
 #### ④ 치료
 
-HSPN에서 단소과립 병용이 육안적 혈뇨 개선에 기여했다는 임상시험 결과는 앞서 §18에서 다루었다[^58]. 만성 콩팥병 관리에서의 일본 간포의학 활용 경과에 대한 문헌 고찰도 참고할 수 있다[^94].
+HSPN에서 단소과립 병용이 육안적 혈뇨 개선에 기여했다는 임상시험 결과는 앞서 §18에서 다루었다[^58]. 만성 신장병 관리에서의 일본 간포의학 활용 경과에 대한 문헌 고찰도 참고할 수 있다[^94].
 
 **변증 층화 강조**: 혈뇨는 요로결석·요로감염·비뇨기계 종양 등 기질적 원인이 흔하므로, 비신양허형 변증을 적용하기 전 반드시 요검사·영상검사로 기질적 질환을 배제해야 한다.
 
@@ -956,7 +956,7 @@ HSPN에서 단소과립 병용이 육안적 혈뇨 개선에 기여했다는 임
 [^91]: Effect of animal protein diet on the prognosis of children with Henoch-Schönlein purpura. _Zhongguo dang dai er ke za zhi_. 2026-08-14. [관찰연구, 121명] [DOI 10.7499/j.issn.1008-8830.2106126](https://doi.org/10.7499/j.issn.1008-8830.2106126) [PMID 34535208](https://pubmed.ncbi.nlm.nih.gov/34535208/) — 동물성 단백질 식이가 소아 HSP의 재발에 유의한 영향을 미치지 않음을 보인 관찰연구.
 [^92]: Gut microbiota in Henoch-Schönlein purpura: from pathogenesis to therapeutic strategies. _Frontiers in immunology_. 2026. [문헌 고찰] [DOI 10.3389/fimmu.2026.1838103](https://doi.org/10.3389/fimmu.2026.1838103) [PMID 42254003](https://pubmed.ncbi.nlm.nih.gov/42254003/) — 장내미생물 불균형이 HSP 발병·진행에 관여할 가능성을 정리한 문헌 고찰.
 [^93]: Clinicopathological features and prognosis of membranoproliferative-like Henoch-Schönlein purpura nephritis in children. _World journal of pediatrics : WJP_. 2015-11. [관찰연구, 9명] [DOI 10.1007/s12519-014-0527-4](https://doi.org/10.1007/s12519-014-0527-4) [PMID 25410673](https://pubmed.ncbi.nlm.nih.gov/25410673/) — 막성증식성 양상 HSPN이 혈뇨를 동반한 신증후군 형태로 흔히 나타남을 보인 관찰연구.
-[^94]: [Progress in Japanese herbal medicine in treatment of chronic kidney disease]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi_. 2008-06. [문헌 고찰] [PMID 18831219](https://pubmed.ncbi.nlm.nih.gov/18831219/) — 만성 콩팥병 관리에서 일본 간포의학 활용 경과를 정리한 문헌 고찰.
+[^94]: [Progress in Japanese herbal medicine in treatment of chronic kidney disease]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi_. 2008-06. [문헌 고찰] [PMID 18831219](https://pubmed.ncbi.nlm.nih.gov/18831219/) — 만성 신장병 관리에서 일본 간포의학 활용 경과를 정리한 문헌 고찰.
 [^102]: A randomized, double-blind, placebo-controlled study of the effect of a Chinese herbal medicine preparation (Dang Gui Buxue Tang) on menopausal symptoms in Hong Kong Chinese women. _Climacteric : the journal of the International Menopause Society_. 2008-06. [임상시험, 100명] [DOI 10.1080/13697130802073029](https://doi.org/10.1080/13697130802073029) [PMID 18568789](https://pubmed.ncbi.nlm.nih.gov/18568789/) — 당귀보혈탕이 경증 안면홍조 빈도 감소에 통계적으로 유의한 효과를 보인 위약대조시험. 보기생혈 처방의 인체 임상 근거.
 [^103]: A randomized, double-blind, multiple-dose escalation study of a Chinese herbal medicine preparation (Dang Gui Buxue Tang) for moderate to severe menopausal symptoms and quality of life in postmenopausal women. _Menopause (New York, N.Y.)_. 2013-02. [임상시험, 60명] [DOI 10.1097/gme.0b013e318267f64e](https://doi.org/10.1097/gme.0b013e318267f64e) [PMID 22990757](https://pubmed.ncbi.nlm.nih.gov/22990757/) — 당귀보혈탕이 폐경 후 여성의 혈관운동증상을 용량 의존적으로 유의하게 감소시킴을 보인 용량증량시험.
 [^104]: Danggui Buxue Tang (Astragali Radix and Angelicae Sinensis Radix) for menopausal symptoms: A review. _Journal of ethnopharmacology_. 2017-03-06. [문헌 고찰] [DOI 10.1016/j.jep.2017.01.044](https://doi.org/10.1016/j.jep.2017.01.044) [PMID 28163116](https://pubmed.ncbi.nlm.nih.gov/28163116/) — 당귀보혈탕의 조제 원리·약리 기전을 화학·생물학·유전체학 관점에서 정리한 리뷰.

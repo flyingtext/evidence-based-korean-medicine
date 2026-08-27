@@ -92,7 +92,7 @@ MRI는 초급성기 뇌경색을 확산강조영상으로 조기에 검출할 �
 
 ### 4-2. 신원성 전신섬유증(NSF)
 
-가돌리늄 조영제는 신기능이 심하게 저하된 환자(사구체 여과율 30 mL/min/1.73m² 이하, 특히 투석 환자)에서 신원성 전신섬유증(nephrogenic systemic fibrosis, NSF)이라는 드물지만 심각한 합병증을 유발할 수 있으며, 일본 증례를 바탕으로 한 체계적 고찰은 이러한 고위험군에서는 단회 투여만으로도 NSF가 발생할 수 있음을 보여 조영제 사용에 극도의 주의가 필요함을 강조했다[^59]. 만성콩팥병 3단계처럼 비교적 경도의 신기능 저하 환자에서도 지연 발현(late onset) NSF가 보고된 사례가 있어, 초기 단계 신질환 환자라도 조영제 투여 후 피부·전신 증상을 주의 깊게 관찰해야 함을 시사한다[^60]. 소아 환자에서는 성인 중심의 기존 데이터가 부족한 가운데 조영제 관련 급성신손상·NSF 위험과 사용 접근 알고리즘이 최근 문헌 고찰로 정리되었다[^61].
+가돌리늄 조영제는 신기능이 심하게 저하된 환자(사구체 여과율 30 mL/min/1.73m² 이하, 특히 투석 환자)에서 신원성 전신섬유증(nephrogenic systemic fibrosis, NSF)이라는 드물지만 심각한 합병증을 유발할 수 있으며, 일본 증례를 바탕으로 한 체계적 고찰은 이러한 고위험군에서는 단회 투여만으로도 NSF가 발생할 수 있음을 보여 조영제 사용에 극도의 주의가 필요함을 강조했다[^59]. 만성신장병 3단계처럼 비교적 경도의 신기능 저하 환자에서도 지연 발현(late onset) NSF가 보고된 사례가 있어, 초기 단계 신질환 환자라도 조영제 투여 후 피부·전신 증상을 주의 깊게 관찰해야 함을 시사한다[^60]. 소아 환자에서는 성인 중심의 기존 데이터가 부족한 가운데 조영제 관련 급성신손상·NSF 위험과 사용 접근 알고리즘이 최근 문헌 고찰로 정리되었다[^61].
 
 ### 4-3. 가돌리늄 조영제의 체내·뇌 침착
 
@@ -305,7 +305,7 @@ fMRI는 침 자극 전후 뇌 활성화 패턴의 변화를 직접 관찰할 수
 
 ---
 
-> **환자 설명용 요약**: MRI(자기공명영상)는 강한 자석과 라디오파를 이용해 몸속을 촬영하는 검사로, X-ray나 CT와 달리 방사선을 전혀 사용하지 않습니다. 그래서 반복 검사가 필요한 경우에도 방사선 피폭 걱정 없이 안전하게 촬영할 수 있습니다. 다만 검사 중에는 좁고 긴 통 안에서 20~60분 정도 가만히 누워 있어야 하고 큰 소음이 발생하는데, 답답함이나 불안감을 느끼는 분들도 있습니다. 이런 경우 검사 전 특정 경혈에 침을 맞으면 불안이 줄어든다는 연구 결과도 있으니 담당 의료진과 상의할 수 있습니다. 조영제(가돌리늄)를 사용하는 경우도 있는데, 대부분 안전하지만 콩팥 기능이 많이 떨어진 분들은 사용 전에 반드시 신장 기능 검사가 필요합니다. 몸에 심박동기나 금속이 삽입되어 있다면 검사 전 반드시 의료진에게 알려야 합니다. MRI에서 디스크가 튀어나온 것으로 보인다고 해서 반드시 수술이 필요한 것은 아니며, 상당수는 시간이 지나면서 저절로 줄어들고 침·한약 등 보존적 치료로 좋아지는 경우도 많습니다. 반대로 MRI가 깨끗해도 통증이 있을 수 있으므로, 사진 소견과 함께 환자분이 느끼는 증상, 맥과 혀의 상태(변증)를 종합해서 치료 방향을 정하는 것이 중요합니다.
+> **환자 설명용 요약**: MRI(자기공명영상)는 강한 자석과 라디오파를 이용해 몸속을 촬영하는 검사로, X-ray나 CT와 달리 방사선을 전혀 사용하지 않습니다. 그래서 반복 검사가 필요한 경우에도 방사선 피폭 걱정 없이 안전하게 촬영할 수 있습니다. 다만 검사 중에는 좁고 긴 통 안에서 20~60분 정도 가만히 누워 있어야 하고 큰 소음이 발생하는데, 답답함이나 불안감을 느끼는 분들도 있습니다. 이런 경우 검사 전 특정 경혈에 침을 맞으면 불안이 줄어든다는 연구 결과도 있으니 담당 의료진과 상의할 수 있습니다. 조영제(가돌리늄)를 사용하는 경우도 있는데, 대부분 안전하지만 신장 기능이 많이 떨어진 분들은 사용 전에 반드시 신장 기능 검사가 필요합니다. 몸에 심박동기나 금속이 삽입되어 있다면 검사 전 반드시 의료진에게 알려야 합니다. MRI에서 디스크가 튀어나온 것으로 보인다고 해서 반드시 수술이 필요한 것은 아니며, 상당수는 시간이 지나면서 저절로 줄어들고 침·한약 등 보존적 치료로 좋아지는 경우도 많습니다. 반대로 MRI가 깨끗해도 통증이 있을 수 있으므로, 사진 소견과 함께 환자분이 느끼는 증상, 맥과 혀의 상태(변증)를 종합해서 치료 방향을 정하는 것이 중요합니다.
 
 ---
 
@@ -374,7 +374,7 @@ fMRI는 침 자극 전후 뇌 활성화 패턴의 변화를 직접 관찰할 수
 [^57]: Complications of Cardiac Perforation and Lead Dislodgement with an MRI-Conditional Pacing Lead: a Korean Multi-Center Experience. Kwon CH 외. _Journal of Korean medical science_. 2016-09. [관찰연구] [DOI 10.3346/jkms.2016.31.9.1397](https://doi.org/10.3346/jkms.2016.31.9.1397) [PMID 27510382](https://pubmed.ncbi.nlm.nih.gov/27510382/) — MRI 조건부 심박동기 리드에서 심장 천공·이탈 발생률을 다기관 경험으로 평가한 관찰연구.
 [^58]: Deep Learning-Based Algorithm for the Detection and Characterization of MRI Safety of Cardiac Implantable Electronic Devices on Chest Radiographs. Kim UH 외. _Korean journal of radiology_. 2021-11. [실험연구] [DOI 10.3348/kjr.2021.0201](https://doi.org/10.3348/kjr.2021.0201) [PMID 34431249](https://pubmed.ncbi.nlm.nih.gov/34431249/) — 흉부 X-ray로 심장 이식형 전자장치의 MRI 안전성 여부를 자동 판별하는 딥러닝 알고리즘 개발 연구.
 [^59]: Nephrogenic systemic fibrosis: risk factors suggested from Japanese published cases. Tsushima Y 외. _The British journal of radiology_. 2010-07. [체계적 고찰] [DOI 10.1259/bjr/17689538](https://doi.org/10.1259/bjr/17689538) [PMID 20413447](https://pubmed.ncbi.nlm.nih.gov/20413447/) — 말기 신부전 환자에서 가돌리늄 조영제 1회 투여만으로도 신원성 전신섬유증이 발생할 위험을 정리한 체계적 고찰.
-[^60]: Late Onset Nephrogenic Systemic Fibrosis in a Patient with Stage 3 Chronic Kidney Disease: a Case Report. Lim YJ 외. _Journal of Korean medical science_. 2020-09-07. [증례 보고] [DOI 10.3346/jkms.2020.35.e293](https://doi.org/10.3346/jkms.2020.35.e293) [PMID 32893521](https://pubmed.ncbi.nlm.nih.gov/32893521/) — 만성콩팥병 3단계의 비교적 경도 신기능 저하 환자에서도 NSF가 발생할 수 있음을 보인 증례.
+[^60]: Late Onset Nephrogenic Systemic Fibrosis in a Patient with Stage 3 Chronic Kidney Disease: a Case Report. Lim YJ 외. _Journal of Korean medical science_. 2020-09-07. [증례 보고] [DOI 10.3346/jkms.2020.35.e293](https://doi.org/10.3346/jkms.2020.35.e293) [PMID 32893521](https://pubmed.ncbi.nlm.nih.gov/32893521/) — 만성신장병 3단계의 비교적 경도 신기능 저하 환자에서도 NSF가 발생할 수 있음을 보인 증례.
 [^61]: Contrast-induced acute kidney injury and nephrogenic systemic fibrosis in children. Chuah AM 외. _Pediatric nephrology (Berlin, Germany)_. 2026-04. [문헌 고찰] [DOI 10.1007/s00467-025-06916-w](https://doi.org/10.1007/s00467-025-06916-w) [PMID 40788389](https://pubmed.ncbi.nlm.nih.gov/40788389/) — 소아 환자에서 조영제 관련 급성신손상·NSF 위험과 사용 알고리즘을 정리한 문헌 고찰.
 [^62]: Gadolinium Deposition in the Brain: Current Updates. Choi JW 외. _Korean journal of radiology_. 2019-01. [문헌 고찰] [DOI 10.3348/kjr.2018.0356](https://doi.org/10.3348/kjr.2018.0356) [PMID 30627029](https://pubmed.ncbi.nlm.nih.gov/30627029/) — 가돌리늄 조영제의 뇌 침착 현상과 선형·거대고리형 구조에 따른 위험 차이를 정리한 고찰.
 [^63]: Clinical safety evaluation of contrast agents based on real-world evidence. Jiang C 외. _Journal of clinical pharmacy and therapeutics_. 2021-12. [관찰연구] [DOI 10.1111/jcpt.13485](https://doi.org/10.1111/jcpt.13485) [PMID 34293194](https://pubmed.ncbi.nlm.nih.gov/34293194/) — 가돌리늄 조영제의 이상반응 발생률이 요오드화 조영제보다 낮음을 실제 임상데이터로 보인 관찰연구.
