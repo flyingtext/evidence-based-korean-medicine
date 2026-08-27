@@ -53,7 +53,7 @@
 - 담죽엽(淡竹葉, Lophatheri Herba) — (작성 예정)
 - 밀몽화(密蒙花, Buddlejae Flos)
 - 청상자(靑箱子, Celosiae Semen) — **작성됨**
-- 괴각(槐角, Sophorae Fructus) — (작성 예정)
+- 괴각(槐角, Sophorae Fructus) — **작성됨**
 
 ### 2-2. 청열조습약(淸熱燥濕藥, Heat-Clearing Damp-Drying)
 
