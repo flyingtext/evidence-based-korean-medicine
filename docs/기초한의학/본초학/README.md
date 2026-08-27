@@ -47,7 +47,7 @@
 - 지모(知母, Anemarrhenae Rhizoma)
 - 노근(蘆根, Phragmitis Rhizoma)
 - 천화분(天花粉, Trichosanthis Radix)
-- 죽엽(竹葉, Lophatheri Herba) — (작성 예정)
+- 죽엽(竹葉, Lophatheri Herba) — **작성됨**(담죽엽淡竹葉·*Lophatherum gracile*과 기원 식물이 다름을 문서 서두에서 구분)
 - 치자(梔子, Gardenia)
 - 하고초(夏枯草, Prunellae Spica)
 - 담죽엽(淡竹葉, Lophatheri Herba) — (작성 예정)
