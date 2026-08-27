@@ -80,7 +80,7 @@
 - 연교(連翹, Forsythia)
 - 포공영(蒲公英, Taraxaci Herba) — (작성 예정)
 - 자화지정(紫花地丁, Violae Herba) — (작성 예정)
-- 대청엽(大靑葉, Isatidis Folium) — (작성 예정)
+- 대청엽(大靑葉, Isatidis Folium)
 - 판람근(板藍根, Isatidis Radix) — (작성 예정)
 - 청대(靑黛, Indigo Pulverata Levis) — (작성 예정)
 - 우황(牛黃, Bovis Calculus) — (작성 예정)
