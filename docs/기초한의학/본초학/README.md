@@ -116,7 +116,7 @@
 
 ### 3-1. 공하약(攻下藥)
 
-- 대황(大黃, Rhei Radix et Rhizoma) — (작성 예정)
+- 대황(大黃, Rhei Radix et Rhizoma) — **작성됨** (파일명: `대황(大黃, Rhei Rhizoma).md`)
 - 망초(芒硝, Natrii Sulfas) — (작성 예정)
 - 노회(蘆薈, Aloe) — (작성 예정)
 
