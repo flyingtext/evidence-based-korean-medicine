@@ -12,7 +12,7 @@
 - 계지(桂枝, Cinnamomi Ramulus)
 - 자소엽(紫蘇葉, Perillae Folium)
 - 형개(荊芥, Schizonepetae Herba)
-- 강활(羌活, Notopterygii Rhizoma) — (작성 예정)
+- 강활(羌活, Notopterygii Rhizoma) — **작성됨**
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
 - 고본(藁本, Ligustici Rhizoma) — **작성됨**
@@ -36,7 +36,7 @@
 - 만형자(蔓荊子, Viticis Fructus) — (작성 예정)
 - 담두시(淡豆豉, Sojae Semen Praeparatum) — (작성 예정)
 - 선태(蟬蛻, Cicadae Periostracum) — (작성 예정)
-- 부평(浮萍, Spirodelae Herba) — (작성 예정)
+- 부평(浮萍, Spirodelae Herba)
 - 목적(木賊, Equiseti Hiemalis Herba) — (작성 예정)
 
 ## 2. 청열약(淸熱藥, Heat-Clearing Herbs)
