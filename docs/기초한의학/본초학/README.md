@@ -109,7 +109,7 @@
 - 청호(靑蒿, Artemisiae Annuae Herba) — **작성됨**
 - 백미(白薇, Cynanchi Atrati Radix) — (작성 예정)
 - 지골피(地骨皮, Lycii Cortex) — 구기자(枸杞子) 문서에서 하위 표제어로 포함 **작성됨**
-- 은시호(銀柴胡, Stellariae Radix) — (작성 예정)
+- 은시호(銀柴胡, Stellariae Radix) — **작성됨**
 - 호황련(胡黃連, Picrorhizae Rhizoma) — (작성 예정)
 
 ## 3. 사하약(瀉下藥, Purgative Herbs)
