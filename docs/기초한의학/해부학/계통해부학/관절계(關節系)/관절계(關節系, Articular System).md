@@ -212,9 +212,9 @@ TMJ는 앞쪽으로 저작근(咀嚼筋, 교근·측두근·내외측 익돌근)
 
 일부 있다. 데이터 마이닝으로 도출된 핵심 혈위를 재활 훈련과 병행한 연구[^56], 양릉천(근회)을 활용한 발목 염좌 치료 연구[^78]처럼 전통적 경락·경근 이론에 기반한 취혈이 실제 임상 지표 개선과 연관된 사례가 축적되고 있다. 다만 이는 경근 이론의 명제 자체를 검증한 것이 아니라, 경근 이론이 가리키는 임상 영역에서 인간 대상 근거가 쌓이고 있다는 방식으로 해석하는 것이 근거 수준에 맞다.
 
-**고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 痺論, 骨空論), 『靈樞』(經筋, 周痺), 『難經』, 『金匱要略』(中風歷節病脈證并治), 『諸病源候論』.
+**고전 인용 출처** : 『黃帝內經素問』(五藏生成篇, 痺論, 骨空論), 『靈樞』(經筋, 周痺), 『難經』, 『金匱要略』(中風歷節病脈證并治), 『諸病源候論』.
 
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
 
 [^1]: Research Progress on Acupuncture Treatment of Knee Osteoarthritis. Zhang Yueyu 외. _Asian Journal of Complementary and Alternative Medicine_. 2021-11-24. [문헌 고찰] [DOI 10.53043/2347-3894.acam90019](https://doi.org/10.53043/2347-3894.acam90019) — 침·뜸 치료가 무릎 골관절염 환자의 통증·기능·염증·조직 회복에 유의미한 효과가 있음을 종합.
 [^2]: Unilateral versus Bilateral Acupuncture on Knee Function in Advanced Osteoarthritis of the Knee – a Prospective Randomised Trial. Abhay Tillu 외. _Acupuncture in Medicine_. 2001-06. [임상시험, 44명] [DOI 10.1136/aim.19.1.15](https://doi.org/10.1136/aim.19.1.15) — 편측·양측 침 치료 모두 무릎 기능·통증 개선에 유의하며 두 방법 간 차이는 없음.

@@ -233,8 +233,8 @@ CP/CPPS는 항생제·알파차단제 등 표준 약물치료의 반응률이 �
 
 정자의 질(운동성·농도 등)과 관련된 인간 대상 관찰연구가 일부 확인되나, 여성 불임·PCOS·CP/CPPS 영역에 비해 인간 대상 근거의 축적이 상대적으로 제한적이다. 이는 근거가 없다는 뜻이 아니라, 이 문서 작성 시점에서 확보 가능한 고품질 인간 대상 연구의 절대량이 아직 부족하다는 사실을 정직하게 반영한 것이다.
 
-**고전 인용 출처**: 『黃帝內經素問』(上古天眞論, 靈蘭秘典論), 『難經』, 『東醫寶鑑』(內景篇, 婦人).
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**고전 인용 출처** : 『黃帝內經素問』(上古天眞論, 靈蘭秘典論), 『難經』, 『東醫寶鑑』(內景篇, 婦人).
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
 
 [^1]: The effects of acupuncture on rates of clinical pregnancy among women undergoing in vitro fertilization: a systematic review and meta-analysis. Manheimer E 외. _Human reproduction update_. [메타분석] [DOI 10.1093/humupd/dmt026](https://doi.org/10.1093/humupd/dmt026) [PMID 23814102](https://pubmed.ncbi.nlm.nih.gov/23814102/) — IVF 배아이식 전후 침 치료 병용이 임상 임신율 개선과 관련될 가능성을 제시한 초기 대표 메타분석.
 [^2]: Effects of acupuncture on rates of pregnancy and live birth among women undergoing in vitro fertilisation: systematic review and meta-analysis. Manheimer E 외. _BMJ_. 2008-03-08. [메타분석] [DOI 10.1136/bmj.39471.430451.BE](https://doi.org/10.1136/bmj.39471.430451.BE) [PMID 18258932](https://pubmed.ncbi.nlm.nih.gov/18258932/) — BMJ 게재 메타분석으로 침 치료의 임신·출산율 개선 가능성을 제시.

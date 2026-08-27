@@ -172,9 +172,9 @@ graph TD
 
 일부 연구에서 그런 가능성이 제시되었다. 길항침법이 경직 감소뿐 아니라 근육 구조(두께·섬유 길이) 회복과도 연관되었다는 연구[^16]가 있으나, 이는 단일 연구 수준의 소견이므로 향후 반복 검증이 필요하다.
 
-**고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 痿論, 六節藏象論, 陰陽應象大論), 『靈樞』(經筋, 九鍼論), 『難經』.
+**고전 인용 출처** : 『黃帝內經素問』(五藏生成篇, 痿論, 六節藏象論, 陰陽應象大論), 『靈樞』(經筋, 九鍼論), 『難經』.
 
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
 
 [^1]: Exploring the role of traditional Chinese medicine in sarcopenia: mechanisms and therapeutic advances. Jianjun Yao 외. _Frontiers in Pharmacology_. 2025-06-30. [문헌 고찰] [DOI 10.3389/fphar.2025.1541373](https://doi.org/10.3389/fphar.2025.1541373) — 한약·침·기공 통합 치료가 근감소증의 근육량·근력·삶의 질 개선에 효과적임을 시사.
 [^2]: Traditional Chinese Medicine and Sarcopenia: A Systematic Review.. Guo CY 외. _Frontiers in aging neuroscience_. 2022. [체계적 고찰, 1330명] [DOI 10.3389/fnagi.2022.872233](https://doi.org/10.3389/fnagi.2022.872233) [PMID 35645784](https://pubmed.ncbi.nlm.nih.gov/35645784/) — 기공 운동과 한약 처방이 근감소증 고령자의 악력·신체 기능 개선에 긍정적.

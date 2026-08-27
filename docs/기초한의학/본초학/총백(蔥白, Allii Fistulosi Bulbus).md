@@ -180,9 +180,9 @@
 
 ---
 
-**고전 인용 출처**: 『주후비급방(肘後備急方)』(총시탕), 『상한론(傷寒論)』(백통탕, 백통가저담즙탕, 소음병편), 『본초강목(本草綱目)』, 『동의보감(東醫寶鑑)』.
+**고전 인용 출처** : 『주후비급방(肘後備急方)』(총시탕), 『상한론(傷寒論)』(백통탕, 백통가저담즙탕, 소음병편), 『본초강목(本草綱目)』, 『동의보감(東醫寶鑑)』.
 
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준. "Allium fistulosum", "Welsh onion", "scallion", "spring onion", "green onion", "총백", "Allii Fistulosi", "Cong Bai/Congbai", "蔥豉湯", "Baitong decoction" 등 다수 검색어로 반복 조회하였으며, 데이터베이스 내 Allium fistulosum 관련 문헌은 총 16건으로 확인되었다. 이 중 동물·세포·비인간 조직 대상 실험연구를 제외하고 인용 기준을 충족한 문헌은 4편이다.
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준. "Allium fistulosum", "Welsh onion", "scallion", "spring onion", "green onion", "총백", "Allii Fistulosi", "Cong Bai/Congbai", "蔥豉湯", "Baitong decoction" 등 다수 검색어로 반복 조회하였으며, 데이터베이스 내 Allium fistulosum 관련 문헌은 총 16건으로 확인되었다. 이 중 동물·세포·비인간 조직 대상 실험연구를 제외하고 인용 기준을 충족한 문헌은 4편이다.
 
 [^1]: [Species of Fistular Onion Stalk in Zhouhou Beiji Fang]. Huang JK 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-01. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20181101.010](https://doi.org/10.19540/j.cnki.cjcmm.20181101.010) [PMID 30989964](https://pubmed.ncbi.nlm.nih.gov/30989964/) — 『주후비급방』 총시탕에 사용된 총백의 기원 식물이 샬롯이 아닌 대파(Allium fistulosum)임을 문헌학적으로 규명한 연구. 총백의 정품 기원 확인에 대한 핵심 근거.
 [^2]: Green Onion (Allium fistulosum): An Aromatic Vegetable Crop Esteemed for Food, Nutritional and Therapeutic Significance. Kim SH 외. _Foods (Basel, Switzerland)_. 2023-12-16. [기타] [DOI 10.3390/foods12244503](https://doi.org/10.3390/foods12244503) [PMID 38137307](https://pubmed.ncbi.nlm.nih.gov/38137307/) — 대파의 영양·활성 성분(유기황화합물·플라보노이드·사포닌 등)과 식품·치료적 가치를 개관한 리뷰. 인체 대상 유효성 검증은 아니라는 한계가 있음.

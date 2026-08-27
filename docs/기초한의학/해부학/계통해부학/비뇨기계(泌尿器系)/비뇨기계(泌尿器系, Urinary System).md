@@ -240,8 +240,8 @@ JAMA Network Open에 게재된 무작위 대조 시험을 포함한 다수의 �
 
 전립선비대증으로 인한 하부요로증상에 침구·뜸의 효과를 평가한 체계적 고찰·네트워크 메타분석이 존재하며[^53][^54], 전립선절제술 후 요실금 관리에도 침구·뜸의 비교 근거가 있다[^55]. 다만 전립선비대증의 근본 치료(약물·수술)를 대체하는 것이 아니라 증상 완화의 보조요법으로 위치 지어야 한다.
 
-**고전 인용 출처**: 『黃帝內經素問』(脈要精微論, 靈蘭秘典論), 『難經』, 『東醫寶鑑』(內景篇).
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**고전 인용 출처** : 『黃帝內經素問』(脈要精微論, 靈蘭秘典論), 『難經』, 『東醫寶鑑』(內景篇).
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
 
 [^1]: Acupuncture for the treatment of overactive bladder: A systematic review and meta-analysis. Lee JJ 외. _Frontiers in Neurology_. 2023-01-12. [메타분석] [DOI 10.3389/fneur.2022.985288](https://doi.org/10.3389/fneur.2022.985288) — 과민성방광에서 침 치료가 배뇨일지 지표(배뇨 횟수·요실금 삽화·야간뇨)를 개선함을 종합한 근거.
 [^2]: Acupuncture for overactive bladder in adults: a systematic review and meta-analysis. Mak TC 외. _Acupuncture in Medicine_. 2019-08-21. [메타분석] [DOI 10.1136/acupmed-2017-011528](https://doi.org/10.1136/acupmed-2017-011528) — 성인 과민성방광에서 침 치료의 유효성을 확인한 메타분석.

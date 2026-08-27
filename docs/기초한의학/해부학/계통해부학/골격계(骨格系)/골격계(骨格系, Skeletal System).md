@@ -252,9 +252,9 @@ graph LR
 
 성장판(골단판)이 아직 닫히지 않은 소아·청소년에서는 강한 정골 수기나 심부 자침이 성장판 손상으로 이어질 위험이 이론적으로 존재하므로, 성인보다 보수적인 강도·깊이로 시행하는 것이 안전 원칙에 부합한다[교과서적 근거].
 
-**고전 인용 출처**: 『黃帝內經素問』(六節藏象論, 五藏生成篇, 骨空論), 『靈樞』(經筋, 骨度), 『難經』, 『傷寒論』, 『金匱要略』, 『醫學入門』.
+**고전 인용 출처** : 『黃帝內經素問』(六節藏象論, 五藏生成篇, 骨空論), 『靈樞』(經筋, 骨度), 『難經』, 『傷寒論』, 『金匱要略』, 『醫學入門』.
 
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
 
 [^1]: [Standardization on the location of Fengshi (GB 31)].. Pan W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-05-12. [관찰연구, 289명] [DOI 10.13703/j.0255-2930.2018.05.016](https://doi.org/10.13703/j.0255-2930.2018.05.016) [PMID 29797916](https://pubmed.ncbi.nlm.nih.gov/29797916/) — 풍시혈(GB31)의 위치를 입위·와위에서 계측한 연구로, 골도촌 기준의 체위 표준화 필요성을 보여준다.
 [^2]: Warm Needle Acupuncture in Primary Osteoporosis Management: A Systematic Review and Meta-Analysis. Ding Luo 외. _Acupuncture in Medicine_. 2018-08. [메타분석, 572명] [DOI 10.1136/acupmed-2016-011227](https://doi.org/10.1136/acupmed-2016-011227) — 온침 요법이 원발성 골다공증 환자의 골밀도 증가와 통증 감소에 긍정적 효과가 있을 가능성을 확인.

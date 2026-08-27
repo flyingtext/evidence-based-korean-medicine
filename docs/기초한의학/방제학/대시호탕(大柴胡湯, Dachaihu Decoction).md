@@ -38,12 +38,12 @@
 
 대시호탕은 구성·적응증에 따라 여러 하위 유형으로 세분된다.
 
-- **대시호탕(大柴胡湯) 원방**: 상한론 원방. 시호·황금·작약·반하·생강·대조·지실·대황 8약재로 구성. 소양양명합병·급성 췌장염·급성 담낭염·고지혈증에 적용[^1][^2][^3].
-- **가미대시호탕(加味大柴胡湯, Jiawei Dachaihu Decoction)**: 대시호탕에 약재를 가미한 변방. 폐쇄성 황달 환자의 수술 전후 면역 기능 회복에 적용[^4].
-- **시호시황탕(柴胡始黃湯, Chaihu Shihuang Soup)**: 대시호탕 계열의 청열해독(淸熱解毒) 강화 가감방. 중증 급성 췌장염(SAP)의 사이토카인 조절에 적용[^1].
-- **대시호탕-생강분(生薑分) 병용**: 고지혈증성 췌장염 환자에게 지질 감소에 효과적인 병용 요법으로 보고됨[^5].
-- **다이사이코토(Daisaikoto, TJ-8)**: 일본 건약 제형. 비만·대사증후군·고지혈증뿐 아니라 견비통(肩臂痛)·생리통·직장 가스 관리 등에도 임상 근거가 축적되어 있다[^19][^22][^23].
-- **시호계지탕(柴胡桂枝湯, Sihogyeji-tang / Saikokeishito)**: 소시호탕 계열 합방이나 대시호탕과 함께 변증에 따라 선택된다.(교과서적 근거)
+-** 대시호탕(大柴胡湯) 원방** : 상한론 원방. 시호·황금·작약·반하·생강·대조·지실·대황 8약재로 구성. 소양양명합병·급성 췌장염·급성 담낭염·고지혈증에 적용[^1][^2][^3].
+-** 가미대시호탕(加味大柴胡湯, Jiawei Dachaihu Decoction)** : 대시호탕에 약재를 가미한 변방. 폐쇄성 황달 환자의 수술 전후 면역 기능 회복에 적용[^4].
+-** 시호시황탕(柴胡始黃湯, Chaihu Shihuang Soup)** : 대시호탕 계열의 청열해독(淸熱解毒) 강화 가감방. 중증 급성 췌장염(SAP)의 사이토카인 조절에 적용[^1].
+-** 대시호탕-생강분(生薑分) 병용** : 고지혈증성 췌장염 환자에게 지질 감소에 효과적인 병용 요법으로 보고됨[^5].
+-** 다이사이코토(Daisaikoto, TJ-8)** : 일본 건약 제형. 비만·대사증후군·고지혈증뿐 아니라 견비통(肩臂痛)·생리통·직장 가스 관리 등에도 임상 근거가 축적되어 있다[^19][^22][^23].
+-** 시호계지탕(柴胡桂枝湯, Sihogyeji-tang / Saikokeishito)** : 소시호탕 계열 합방이나 대시호탕과 함께 변증에 따라 선택된다.(교과서적 근거)
 
 > 대시호탕은 소양양명합병의 화해통리방으로, 적응증별 세부 적용은 고지혈증·비만·췌장염(膵臟炎, Pancreatitis) 등 상위 질환의 병태생리와 함께 이해해야 한다.
 
@@ -246,8 +246,8 @@
 
 ---
 
-**고전 인용 출처**: 『傷寒論』(辨太陽病脈證并治下, 辨陽明病脈證并治), 『金匱要略』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**고전 인용 출처** : 『傷寒論』(辨太陽病脈證并治下, 辨陽明病脈證并治), 『金匱要略』
+**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
 
 [^1]: [Effect of Chaihu Shihuang soup on blood serum level TNF, IL-6 and IL-10 of severe acute pancratitis (SAP)]. Wang H 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2009-06. [임상시험, 60명] [PMID 19777852](https://pubmed.ncbi.nlm.nih.gov/19777852/) — 시호시황탕이 중증 급성 췌장염의 TNF-α·IL-6 감소, IL-10 증가에 유효.
 [^2]: [Effect of dachaihu decoction in treating acute mild pancreatitis of Gan-qi stagnant type]. Cheng YX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-09. [임상시험, 36명] [PMID 19065891](https://pubmed.ncbi.nlm.nih.gov/19065891/) — 간기울결형 급성 경증 췌장염 대시호탕 병용이 복통 완화·금식·입원 기간 단축.
