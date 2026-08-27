@@ -63,7 +63,7 @@
 - 용담초(龍膽草, Gentianae Radix) — (작성 예정)
 - 고삼(苦蔘, Sophorae Flavescentis Radix) — **작성됨**
 - 백선피(白鮮皮, Dictamni Cortex) — (작성 예정)
-- 대두황권(大豆黃卷, Sojae Semen Germinatum) — (작성 예정)
+- 대두황권(大豆黃卷, Sojae Semen Germinatum) — **작성됨**
 
 ### 2-3. 청열량혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
 
