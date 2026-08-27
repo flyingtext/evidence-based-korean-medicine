@@ -92,7 +92,7 @@
 - 웅담(熊膽, Ursi Fel) — **작성됨**
 - 백렴(白蘞, Ampelopsis Radix) — (작성 예정)
 - 누로(漏蘆, Rhapontici Radix) — (작성 예정)
-- 산자고(山慈姑, Cremastrae Pseudobulbus) — (작성 예정)
+- 산자고(山慈姑, Cremastrae Pseudobulbus) — **작성됨**
 - 녹두(綠豆, Phaseoli Radiati Semen) — (작성 예정)
 - 위릉채(葳靈菜) — (작성 예정)
 - 야국화(野菊花, Chrysanthemi Indici Flos) — (작성 예정)
