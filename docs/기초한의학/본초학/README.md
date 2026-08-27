@@ -33,7 +33,7 @@
 - 갈근(葛根, Puerariae Radix)
 - 시호(柴胡, Bupleuri Radix)
 - 승마(升麻, Cimicifugae Rhizoma)
-- 만형자(蔓荊子, Viticis Fructus) — (작성 예정)
+- 만형자(蔓荊子, Viticis Fructus) — **작성됨**
 - 담두시(淡豆豉, Sojae Semen Praeparatum) — **작성됨**
 - 선태(蟬蛻, Cicadae Periostracum) — **작성됨**
 - 부평(浮萍, Spirodelae Herba)
