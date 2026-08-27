@@ -26,7 +26,7 @@
 
 ### 1-2. 발산풍열약(發散風熱藥, Wind-Heat Dispersing)
 
-- 박하(薄荷, Menthae Herba) — (작성 예정)
+- 박하(薄荷, Menthae Herba) — **작성됨**
 - 우방자(牛蒡子, Arctii Fructus) — (작성 예정)
 - 상엽(桑葉, Mori Folium) — (작성 예정)
 - 국화(菊花, Chrysanthemi Flos) — (작성 예정)
