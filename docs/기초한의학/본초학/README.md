@@ -37,7 +37,7 @@
 - 담두시(淡豆豉, Sojae Semen Praeparatum) — (작성 예정)
 - 선태(蟬蛻, Cicadae Periostracum) — (작성 예정)
 - 부평(浮萍, Spirodelae Herba)
-- 목적(木賊, Equiseti Hiemalis Herba) — (작성 예정)
+- 목적(木賊, Equiseti Hiemalis Herba)
 
 ## 2. 청열약(淸熱藥, Heat-Clearing Herbs)
 
