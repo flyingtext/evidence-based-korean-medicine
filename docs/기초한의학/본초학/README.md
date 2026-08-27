@@ -15,7 +15,7 @@
 - 강활(羌活, Notopterygii Rhizoma) — (작성 예정)
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
-- 고본(藁本, Ligustici Rhizoma) — (작성 예정)
+- 고본(藁本, Ligustici Rhizoma) — **작성됨**
 - 신이(辛夷, Magnoliae Flos) — **작성됨**
 - 세신(細辛, Asarum)
 - 생강(生薑, Zingiber officinale)
