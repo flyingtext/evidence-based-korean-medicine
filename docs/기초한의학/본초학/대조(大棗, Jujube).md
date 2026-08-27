@@ -1,6 +1,6 @@
 # 대조(大棗, Jujube)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-20 · 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com)
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-20 · 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com)
 
 ---
 

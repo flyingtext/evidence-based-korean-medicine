@@ -1,6 +1,6 @@
 # 작약감초탕(芍藥甘草湯, Jakyakgamcho-tang / Shakuyaku-kanzo-to / Shaoyao Gancao Decoction)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-16
 
 ## 개요
 

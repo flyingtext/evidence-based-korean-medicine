@@ -1,6 +1,6 @@
 # 간정맥폐쇄성질환(肝靜脈閉塞性疾患, Hepatic Veno-Occlusive Disease / Sinusoidal Obstruction Syndrome)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-25
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-25
 > KCD-8: K76.5(간정맥폐쇄성질환, Veno-Occlusive Disease of Liver), 관련 코드: T80(수혈·이식 후 합병증), Y43(항암화학요법제 부작용), T62(기타 및 상세불명 식물 섭취의 독작용), Q26.8(선천 정맥계 기형 관련 감별)
 
 ## 개요

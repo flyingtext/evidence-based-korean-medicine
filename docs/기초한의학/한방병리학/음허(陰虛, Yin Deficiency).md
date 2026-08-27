@@ -1,6 +1,6 @@
 # 음허(陰虛, Yin Deficiency)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-18 · 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-18 · 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준
 
 ## 제1편 총론
 

@@ -1,6 +1,6 @@
 # 갈근 (葛根, Puerariae Radix)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-20 · 검색어: 갈근, Pueraria lobata, Puerariae Radix, puerarin, kakkonto
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-20 · 검색어: 갈근, Pueraria lobata, Puerariae Radix, puerarin, kakkonto
 
 ## 제1편 본초 총론
 

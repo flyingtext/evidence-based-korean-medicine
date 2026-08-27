@@ -1,6 +1,6 @@
 # 위염 (胃炎, Gastritis)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-15 · 최종 보강: 2026-08-25
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-15 · 최종 보강: 2026-08-25
 > KCD-8: K29 (위염 및 십이지장염, Gastritis and duodenitis)
 > 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준
 

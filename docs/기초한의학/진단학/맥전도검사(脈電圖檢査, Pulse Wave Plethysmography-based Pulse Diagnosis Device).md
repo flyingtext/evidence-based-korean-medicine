@@ -1,6 +1,6 @@
 # 맥전도검사(脈電圖檢査, Pulse Wave / Plethysmography-based Pulse Diagnosis Device)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-25
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-25
 
 ## 개요
 

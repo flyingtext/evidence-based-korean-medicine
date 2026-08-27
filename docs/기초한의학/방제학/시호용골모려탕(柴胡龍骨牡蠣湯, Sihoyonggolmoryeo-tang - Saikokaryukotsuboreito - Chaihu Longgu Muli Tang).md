@@ -1,6 +1,6 @@
 # 시호용골모려탕(柴胡龍骨牡蠣湯, Sihoyonggolmoryeo-tang - Saikokaryukotsuboreito - Chaihu Longgu Muli Tang)
 
-> 출처: 근거 기반 한의학 위키 · 작성일: 2026-08-16
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-16
 
 ## 개요
 
