@@ -32,7 +32,7 @@
 - 국화(菊花, Chrysanthemi Flos) — (작성 예정)
 - 갈근(葛根, Puerariae Radix)
 - 시호(柴胡, Bupleuri Radix)
-- 승마(升麻, Cimicifugae Rhizoma) — (작성 예정)
+- 승마(升麻, Cimicifugae Rhizoma)
 - 만형자(蔓荊子, Viticis Fructus) — (작성 예정)
 - 담두시(淡豆豉, Sojae Semen Praeparatum) — (작성 예정)
 - 선태(蟬蛻, Cicadae Periostracum) — (작성 예정)
