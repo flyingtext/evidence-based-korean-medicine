@@ -28,7 +28,7 @@
 
 - 박하(薄荷, Menthae Herba) — **작성됨**
 - 우방자(牛蒡子, Arctii Fructus) — (작성 예정)
-- 상엽(桑葉, Mori Folium) — (작성 예정)
+- 상엽(桑葉, Mori Folium) — **작성됨**
 - 국화(菊花, Chrysanthemi Flos) — (작성 예정)
 - 갈근(葛根, Puerariae Radix)
 - 시호(柴胡, Bupleuri Radix)
