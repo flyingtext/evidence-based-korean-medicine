@@ -43,6 +43,16 @@
 
 늑간근(肋間筋, intercostal muscles)은 늑간격을 채우며, 외측에서 내측으로 늑간외근(肋間外筋, external intercostal)·늑간내근(肋間內筋, internal intercostal)·늑간최내근(肋間最內筋, innermost intercostal) 순으로 배열된다. 늑간신경·늑간동맥·늑간정맥은 늑간내근과 늑간최내근 사이를 주행하며, 늑골하연의 늑골구(肋骨溝) 안에서 정맥-동맥-신경(V-A-N) 순으로 배열된다. 이는 늑간 취혈 시 늑골상연(肋骨上緣)보다 하연에 신경혈관이 있어, **자침은 늑골 상연을 따라 시행하는 것이 안전** 하다는 임상 원칙의 해부학적 근거다[교과서적 근거].
 
+**호흡 기능해부학**: 늑간외근은 흡기(吸氣) 시 늑골을 상거·외전시켜 흉곽 전후·좌우 직경을 늘리는 "pump-handle·bucket-handle" 운동을 만들고, 늑간내근·늑간최내근은 호기(呼氣) 시 늑골을 하강시킨다. 안정 호흡에서는 가로막(횡격막)이 주된 흡기근이지만, 운동·호흡곤란·만성 폐질환 상태에서는 사각근(斜角筋)·흉쇄유돌근(胸鎖乳突筋)·상후거근(上後鋸筋) 등 호흡보조근(呼吸補助筋, accessory respiratory muscle)이 동원되어 흉곽 상부를 견인한다[교과서적 근거]. 만성 폐쇄성 폐질환(COPD) 환자에서 호흡근 훈련(respiratory muscle training)이 운동 내성·호흡근력·폐 기능·삶의 질을 유의하게 개선한다는 체계적 고찰·메타분석이 보고되어[^71], 늑간근·호흡보조근을 포함한 흉벽 근육의 능동적 강화가 만성 호흡기 질환 관리에서 근거를 갖는 중재임을 뒷받침한다. 소아 기관지확장증 환자에서도 점진적 부하 호흡근 훈련이 호흡근력(MIP·MEP)·폐 기능을 유의하게 개선하였다[^77]. 이러한 근거는 폐수(肺兪, BL13)·단중(膻中, CV17) 등 호흡기 관련 경혈의 침구 치료와 병행하여 호흡근 재훈련·자세 교정을 지도하는 한의학적 관리의 근거를 뒷받침한다.
+
+### 5. 영상해부학 — 흉부 단순촬영·CT 소견과의 대응
+
+흉벽의 국소해부는 흉부 단순촬영(chest X-ray)·전산화단층촬영(CT)의 판독 기준점과 직접 대응한다. **흉골각(胸骨角, sternal angle)** 은 측면 흉부촬영에서 제4-5흉추 수준 대동맥궁 하연·기관분기부(carina)의 기준선이 되며, 정면촬영에서 제2늑골 전방부 겹침 음영의 시작점이다. **늑골의 후방 활(posterior arc)** 은 정면촬영에서 수평에 가깝게, **전방 활(anterior arc)** 은 하방으로 경사지게 투영되어, 늑골 골절의 정면·측면 판독 시 이 주행 방향의 차이를 고려해야 한다[교과서적 근거].
+
+**흉부 CT** 에서 늑연골(肋軟骨)은 나이에 따라 석회화(calcification) 양상이 달라 늑골-늑연골 접합부의 골절·염증 병변 감별에 어려움이 있으며, 초기 CT는 전위(displaced)된 늑골 골절 진단에는 정확하나 비전위 골절·늑연골 접합부 골절은 누락률이 높다는 관찰연구가 보고되었다[^73]. 딥러닝 기반 컴퓨터 보조 진단(CAD) 시스템은 급성 둔상 환자의 늑골 골절 진단 민감도·양성 예측도를 유의하게 향상시켰으며, 특히 숙련도가 낮은 판독자에서 개선 효과가 컸다[^72]. 미국영상의학회(ACR) 적정성 기준은 경미한 둔상성 늑골 골절에서 표준 흉부 방사선 촬영만으로 충분하며 추가 영상검사가 일반적으로 불필요하다고 권고한다[^39].
+
+흉벽 자침 관련 영상해부학적 지표로는, 늑골 상연과 늑골구 사이의 수직 거리가 늑간격 폭에 비례하여 좁아지는 상부 늑간(제1-2늑간)·하부 늑간(제11-12늑간)에서 특히 주의가 필요하며, 흉부 단순촬영에서 흉곽 변형(척추측만·누두흉·오목가슴)이 확인되면 늑간 취혈 시 안전 깊이를 개별적으로 재평가해야 한다[교과서적 근거].
+
 ---
 
 ## 제2편 후벽(後壁, Posterior Thoracic Wall)
@@ -181,6 +191,12 @@
 
 심수(心兪, BL15)·궐음수(厥陰兪, BL14)·격수(膈兪, BL17)는 심혈관 질환—협심증·부정맥·고혈압 보조—의 근위취혈이다. 배수혈 자침이 심박수·혈압 조절에 영향을 미친다는 기전 연구가 보고되었다[^18]. 심혈관 질환의 침구는 보조 요법 위치에서, 급성기는 양방 주치와 병행하는 것이 원칙이다.
 
+#### 7-6. 협척혈(夾脊穴, EX-B2)과 흉수(胸髓) 분절 취혈
+
+**협척혈(夾脊穴, EX-B2, Jiaji)** 은 정경(正經)에 속하지 않는 경외기혈(經外奇穴)로, 각 흉추·요추 극돌기 아래 옆개 0.5촌에 위치하여 방광경 제1측선(옆개 1.5촌)보다 척추에 더 가깝다. 협척혈은 흉수 신경근이 척추관을 나오는 지점과 근접하여, 해당 분절의 늑간신경 지배 영역(피부·근육·내장)에 분절적으로 작용한다는 것이 임상 취혈의 해부학적 근거다[교과서적 근거]. 대상포진후신경통(帶狀疱疹後神經痛, postherpetic neuralgia)의 흉벽 분포에서 병변 분절에 해당하는 협척혈 전침이 뜸·중주파와 병행되어 통증·불안 완화에 활용된 무작위 대조 임상시험이 보고되었다[^57]. 흉추부 압박골절 수술 후 발생한 늑간통에 부침(浮鍼)·협척혈 자침을 적용한 임상시험에서도 유의한 통증 개선이 확인되어[^15], 흉수 분절별 취혈이 후벽 국소해부(늑간신경 후지·척수신경절)와 밀접하게 대응함을 시사한다.
+
+후벽에서 대상포진후신경통이 발생하면 병변 피부분절(dermatome)과 일치하는 흉추 수준의 배수혈·협척혈·아시혈(阿是穴)을 근위취혈로, 원위 취혈을 병행하는 것이 원칙이다. 초음파 유도하 늑간신경차단술을 급성 대상포진기에 시행하면 항바이러스제 단독보다 통증 완화·대상포진후신경통 예방에 더 효과적이라는 관찰연구가 있어[^51], 후벽 침구 취혈과 양방 신경차단술의 병용이 임상적으로 상호 보완적일 수 있다.
+
 ---
 
 ## 제3편 외측벽(外側壁, Lateral Thoracic Wall)
@@ -216,6 +232,8 @@
 **흉외측동맥(胸外側動脈, lateral thoracic artery)** · **흉등동맥(胸背動脈, thoracodorsal artery)** 이 외측벽 심부를 주행하며, 대흉근·소흉근·전거근·광배근에 분지한다. **흉복벽동맥(胸腹壁動脈, thoracoepigastric artery)** · **표재상복동맥(表淺上腹動脈, superficial epigastric artery)** 이 외측벽 하부 피하를 주행한다[교과서적 근거].
 
 **늑간상완신경(肋間上腕神經, intercostobrachial nerve)** —제2늑간신경 외측피지—은 액와를 횡단하여 상지 내측 피부를 지배한다. 액와부 수술·자침 시 이 신경의 손상이 감각 이상을 유발할 수 있다[교과서적 근거].
+
+유방암 수술(유방절제술·액와림프절절제술)은 늑간상완신경·흉외측신경·흉장신경(장흉신경, long thoracic nerve)의 손상 위험이 높은 대표적 수술로, 수술 후 만성 통증인 **유방절제술후통증증후군(postmastectomy pain syndrome, PMPS)** 이 유방암 수술 환자의 상당수에서 보고된다[^78]. PMPS는 늑간상완신경 손상에 의한 신경병성 통증이 핵심 기전으로, 액와·외측벽·상완 내측의 감각 이상·작열통으로 발현한다. 비약물적 중재(물리치료·신경 가동술·침구)에 관한 체계적 고찰에서 PMPS 관리의 보조적 대안으로서의 가능성이 제시되었으며[^79], 유방암 생존자를 대상으로 한 침구 기반 통합치료의 안전성·유효성 탐색 임상시험도 진행 중이다[^80]. 외측벽 침구 취혈 시 유방암 수술 병력·림프부종 위험을 반드시 확인해야 하며, 수술측 상지·흉벽의 과도한 자극·부항을 피하는 것이 안전 원칙이다.
 
 ### 4. 유주(流注) 경락 — 족소양담경(足少陽膽經)·족궐음간경(足厥陰肝經)·수태음폐경(手太陰肺經)
 
@@ -483,9 +501,117 @@
 
 **전침(電鍼, electroacupuncture)**: 흉벽 전침은 늑간근·척추기립근 경직 완화에 적용된다. 흉벽 횡단 방향 전침은 심장·펴스메이커에 영향을 미칠 수 있어, 심장질환 환자·펴스메이커 삽입 환자는 주의가 필요하다. 흉벽 양측 대칭 혈위에 높은 주파수 전침 시 흉벽 근육 수축·호흡 불편감이 유발될 수 있다[^29][^30].
 
+### 7. 늑간신경차단(Intercostal Nerve Block)의 임상해부학적 응용
+
+흉벽의 늑간 국소해부는 침구뿐 아니라 양방 통증 시술—**늑간신경차단(intercostal nerve block, ICNB)**·**척추기립근면차단(erector spinae plane block, ESPB)**·**흉추부척추차단(thoracic paravertebral block, TPVB)**—의 해부학적 토대이기도 하다. 늑간신경차단은 늑골각 부근에서 늑골하연을 목표로 바늘을 진입시켜 늑간신경 주간을 국소마취제로 차단하며, 흉부외과·정형외과 수술 후 통증 관리·외상성 늑골 골절의 급성기 진통에 널리 활용된다[^50]. 흉강경 수술(VATS) 후 통증 관리를 비교한 네트워크 메타분석에서는 흉추부척추차단이 다른 국소마취 기법보다 마약성 진통제 사용량 감소·전반적 진통 효과에서 우수했다[^54]. 다른 메타분석에서는 경막외마취(EA)·척추주변차단(PVB)이 우수한 진통 효과를 보였다[^58]. 폐암 수술 후 통증 관리에서 신경차단술은 전통적 진통법보다 자가조절 진통제 사용량·오심구토 등 합병증 발생률을 유의하게 낮추는 것으로 나타났다[^75].
+
+외상성 다발성 늑골 골절 환자에서는 척추기립근면차단(ESPB)이 응급실 급성 통증 관리에 안전하고 효과적으로 활용되며[^38], 지속적 카테터 유치 방식의 척추기립근면차단은 조기·후기 합병증 발생률이 매우 낮은 안전한 진통 기법으로 보고되었다[^37]. 늑간신경차단은 초음파 유도하 시행 시 정확도가 높아지며, 흉벽 통증 관리에서 다른 진통제(플루르비프로펜 등)와 병용 시 상승 효과가 있다는 임상시험도 보고되었다[^45]. 소아 심장 수술 후에는 전거근면차단(SAPB)·늑간신경차단이 정맥 내 오피오이드 단독보다 오피오이드 사용량을 유의하게 줄이는 것으로 확인되었다[^76]. 늑연골 채취술 후 통증 관리에서는 단일 약제 늑간신경차단보다 다중 진통(multimodal analgesia) 전략이 더 효과적이라는 네트워크 메타분석도 있다[^55]. 흉강경 수술 후 늑간신경차단 부위 수를 비교한 관찰연구에서는 3-5번 늑간신경 단일 부위 차단이 3-8번 다부위 차단보다 초기 24시간 통증 완화에서 더 우수했다[^56].
+
+이러한 양방 신경차단 시술의 해부학적 표적(늑골하연 늑간신경 주간, 흉추 횡돌기 주변 척추주변강, 척추기립근-늑골 사이 근막면)은 한의학의 배수혈·협척혈·아시혈 취혈 원리와 부위적으로 겹친다. 침습적 신경차단 시술이 불가능하거나 환자가 기피하는 경우, 해당 분절의 침구 취혈이 늑간 통증 관리의 대안·보조 수단으로 고려될 수 있다. 다만 신경차단과 침구는 침습 깊이·기전이 다르므로 직접적 대체 관계로 단순화해서는 안 되며, 급성 외상·수술 후 통증에서는 양방 마취통증 관리를 우선하고 침구는 보조 요법으로 병행하는 것이 원칙이다.
+
 ---
 
-## 제6편 임상 종합 — 변증·감별·관리
+## 제6편 KCD 질환군별 심화 각론 — 흉벽 통증증후군
+
+흉벽에 직접 기원하는 대표 질환군을 KCD-8 코드별로 6단 구성(①코드 ②병인병기 ③병태생리 ④치료 ⑤예후 ⑥관리)으로 정리한다. 앞선 편들의 근위·원위취혈 표와 함께 참조한다.
+
+### 1. 늑연골염(肋軟骨炎, Costochondritis)
+
+**① KCD 코드**: M94.0(늑연골 접합부 증후군[티체 포함하여 관행적으로 함께 분류]), 보조 코드 R07.4(달리 분류되지 않는 흉통).
+
+**② 병인병기**: 한의학적으로는 협통(脇痛)·흉비(胸痺) 범주에 속하며, 반복적 상지 사용·외상·호흡기 감염 후 기체(氣滯)가 국소에 정체되어 발생하는 경우가 많다. 만성화되면 기체혈어(氣滯血瘀)로 전이되어 자통(刺痛)·정통(定痛) 양상을 띤다[교과서적 근거].
+
+**③ 병태생리**: 늑연골 접합부의 비특이적·비감염성 염증으로, 단일 또는 다발성 늑연골 관절(주로 제2-5늑연골)에 압통을 유발한다. 종창을 동반하지 않는 것이 티체증후군과의 핵심 감별점이다. 병력·신체검진(국소 압통 재현)만으로 진단 가능한 경우가 대부분이며, 고위험군(35세 이상 등)에서는 심혈관 질환 감별을 위한 추가 검사가 필요하다[^22]. 코로나19(COVID-19) 감염 이후 소아에서 기존 NSAIDs·스테로이드에 반응하지 않는 중증 늑연골염이 보고되어, 콜히친(colchicine)이 대안으로 제시되었다[^31].
+
+**④ 치료**: 급성기는 활동 제한·온열요법·NSAIDs가 일차 치료이며, 단순 스트레칭 운동만으로도 대조군 대비 유의한 통증 감소가 관찰되었다[^32]. 침구 치료를 병용한 청소년 늑연골염 증례에서 통증·기능 지표(NRS, BPI)의 유의한 개선이 보고되었다[^21]. 현호색(玄胡索, Rhizoma Corydalis)·빙편(冰片, borneol) 성분의 외용 첩부를 적용한 증례에서도 흉통 완화·관절 가동 범위 회복이 확인되어[^33], 한의학적 외치법(外治法)이 늑연골염의 보조 치료로 임상적 가치를 가진다. 취혈은 아시혈(阿是穴)·연액(GB22)·척근(GB23)을 근위취혈로, 외관(SJ5)·양노(SI5)를 원위취혈로 배혈하는 것이 원칙이다. 변증 없는 관행적 취혈은 근거에 부합하지 않으며, 압통 부위·유발 요인·병력 청취에 기반한 개별화가 필요하다.
+
+**⑤ 예후**: 대부분 수 주에서 수개월 내 자연 관해되는 양성 경과를 보인다. 만성화·재발하는 경우 자세·상지 사용 습관 교정이 예후에 영향을 미친다[^22].
+
+**⑥ 관리**: 반복적 상지 과사용·부적절한 자세를 피하고, 침구·외용 첩부·스트레칭을 병용한다. 유방 보형물 삽입 환자의 비정형 흉통은 늑연골염으로 오인될 수 있어 감별이 필요하다[^60].
+
+### 2. 티체증후군(Tietze Syndrome)
+
+**① KCD 코드**: M94.0(늑연골 접합부 증후군[티체]).
+
+**② 병인병기**: 늑연골염과 병기가 유사하나, 국소 종창(腫脹)을 동반하는 점에서 기체(氣滯)에 담습(痰濕)이 겸협된 병기로 이해할 수 있다[교과서적 근거].
+
+**③ 병태생리**: 제2-4늑연골 접합부의 국소적·비화농성 종창을 동반한 통증으로, 늑연골염과 달리 촉진 시 방추형 종괴가 만져지는 것이 특징이다[^34]. 드문 양성 질환이며, 종양·감염과의 감별이 필요하다.
+
+**④ 치료**: 약물 치료(NSAIDs)에 반응하지 않는 증례에 침(鍼)·부항(拔罐) 병행 치료를 적용해 통증을 효과적으로 관리한 증례가 보고되었다[^35]. 외측벽·전벽 경계의 압통 부위 아시혈에 자침하고, 국소 부항으로 어혈을 배출하는 치법이 활용된다.
+
+**⑤ 예후**: 대개 자가 제한적(self-limiting)이며 수개월 내 소실되나, 종창이 지속되면 영상검사로 감별해야 한다.
+
+**⑥ 관리**: 국소 냉·온찜질을 병행하며, 종괴가 커지거나 전신 증상이 동반되면 양방 정밀검사로 감별한다.
+
+> 이 각론은 임상 틀이지 동일 근거수준의 권고가 아니다. 늑연골염·티체증후군 모두 근거 수준이 증례·소규모 관찰연구 위주로, 대규모 RCT 근거는 제한적이다.
+
+### 3. 늑골골절(肋骨骨折, Rib Fracture)
+
+**① KCD 코드**: S22.3(늑골 골절), S22.4(다발성 늑골 골절), S22.5(불안정 흉곽[동요흉]).
+
+**② 병인병기**: 외상으로 인한 국소 기혈 손상(氣血損傷)이 핵심 병기이며, 어혈(瘀血)이 국소에 정체되어 자통·종창·호흡통을 유발한다. 초기(1-2주)는 활혈화어(活血化瘀)를, 후기 회복기는 접골속근(接骨續筋)·보기양혈(補氣養血)을 치법으로 삼는 것이 전통적 골절 치료 원칙이다[교과서적 근거].
+
+**③ 병태생리**: 늑골은 12쌍 중 제4-9늑골이 가장 흔한 골절 부위이며, 흉부 단순촬영·CT로 진단한다. 초기 CT는 전위 골절 진단에 정확하나 비전위·늑연골 접합부 골절은 누락률이 높다[^73]. 딥러닝 기반 컴퓨터 보조 진단이 판독 민감도를 향상시킨다[^72]. 다발성 늑골 골절·동요흉(flail chest)은 호흡부전·혈흉·기흉을 동반할 수 있어 응급 평가가 필수다. 경미한 단순 늑골 골절은 표준 흉부 방사선만으로 충분하다는 것이 미국영상의학회(ACR) 적정성 기준의 권고다[^39].
+
+**④ 치료**: 서양의학적으로는 다발성 늑골 골절·동요흉에서 외과적 고정술(SSRF)이 보존적 치료보다 사망률을 낮추며, 특히 고령·동요흉 환자에서 이점이 크다는 메타분석이 보고되었다[^43]. 중국 늑골골절 수술 치료 합의문(C-STTRF 2021)이 영상 평가·적응증·수술 시기에 대한 표준화된 권고를 제시한다[^44]. 급성 통증 관리에는 척추기립근면차단(ESPB)이 응급실에서 안전·효과적으로 활용되며[^38], 지속적 카테터 유치 방식도 합병증 발생률이 낮은 안전한 기법으로 확인되었다[^37]. 초음파 유도하 늑간신경차단과 진통제(플루르비프로펜) 병용이 수술 전 통증 관리에 상승 효과를 보였다[^45]. 한의학적으로는 치타박일방(治打撲一方, Jidabokuippo)과 같은 활혈화어 처방이 NSAIDs보다 치료 기간을 유의하게 단축시키고 의료비를 절감하는 것으로 나타났다[^36]. 다발성 늑골 골절·폐좌상 환자에게 삼칠(三七, Panax notoginseng)을 병용 투여하면 통증·기계환기 기간·입원 기간이 유의하게 단축되었으며[^41], 혈부축어탕(血府逐瘀湯)을 둔상성 흉부 손상 환자에게 병용하면 흉막삼출 등 합병증 발생률이 유의하게 감소하였다[^42]. 침구 진통 역시 외상성 늑골 골절 환자에서 안전하고 효과적인 통증 완화 방법으로 확인되었다[^40].
+
+**⑤ 예후**: 단순 늑골 골절은 대개 3-6주 내 유합되나, 흉곽절개술을 동반한 다발성 늑골 골절 환자의 상당수(약 80%)가 만성 통증을 경험하며, 이는 호흡 기능 저하·불안·우울과 밀접히 연관된다[^46].
+
+**⑥ 관리**: 회복기 다학제적 재활(호흡재활·통증관리·침구 병행)이 임상적으로 적용 가능하며 통증 감소·환자 만족도 향상에 기여한다는 전향적 실행가능성 코호트 연구가 보고되었다[^47]. 다만 실제 임상에서 외상외과 의료진의 침구 의뢰율은 낮은 편으로(약 6%대), 침구 치료 접근성 개선의 여지가 있다[^48]. 청소년 운동선수의 제1늑골 피로골절은 견갑골 운동이상증·흉곽출구증후군으로 오인될 수 있어 동적 초음파 등 정밀 감별이 필요하다[^49].
+
+> 이 각론은 임상 틀이지 동일 근거수준의 권고가 아니다. 다발성 늑골 골절·동요흉·혈기흉 동반 등 중증 외상은 반드시 응급 양방 진료를 우선하며, 한의학적 접근(활혈화어 처방·침구)은 통증 관리·회복기 재활의 보조 요법으로 위치한다.
+
+### 4. 늑간신경통(肋間神經痛, Intercostal Neuralgia)
+
+**① KCD 코드**: G58.0(늑간신경병증).
+
+**② 병인병기**: 협통(脇痛)의 대표적 현대 상관물로, 기체혈어(氣滯血瘀)·간담습열(肝膽濕熱)·외상 후유증 등 다양한 병기가 관여한다. 대상포진 이환·흉추 수술·척추 압박골절 수술 후 발생하는 이차성 늑간신경통은 어혈(瘀血)이 경락에 정체된 병기로 이해된다[교과서적 근거].
+
+**③ 병태생리**: 늑간신경이 늑골구 내에서 압박·자극·손상되어 해당 분절의 방사통·감각이상을 유발한다. 척추 압박골절 경피적 성형술(PVP) 후 발생하는 늑간신경통은 골밀도·수술 후 혈당·알부민·비타민D 수준과 연관된 예측 모델이 보고되었다[^53]. 대상포진 후 발생하는 늑간신경통은 후근신경절(DRG) 또는 늑간신경(ICN) 자체의 병리적 흥분성 변화가 원인으로, 펄스고주파(PRF) 치료 시 늑간신경보다 후근신경절을 표적으로 할 때 통증·삶의 질 개선 효과가 더 우수하다는 관찰연구가 있다[^52].
+
+**④ 치료**: 흉추 압박골절 수술 후 늑간통에 부침(浮鍼) 치료를 적용한 임상시험에서 약물 단독보다 유의한 통증 완화·삶의 질 개선이 확인되었다[^15]. 초음파 유도하 늑간신경차단은 급성 대상포진 통증·이차성 늑간신경통 관리에서 항바이러스제 단독보다 효과적이다[^51]. 침구 취혈은 해당 분절 배수혈·협척혈과 늑간부 아시혈을 근위취혈로, 외관(SJ5)·지구(SJ6)·양릉천(GB34)을 원위취혈로 배혈한다. 흉강경 수술 후 늑간신경차단 부위를 비교한 관찰연구에서는 병변 분절에 국한한 단일 부위 차단이 다부위 차단보다 초기 통증 완화에 더 효과적이었는데[^56], 이는 침구 취혈에서도 "병변 분절 중심의 정확한 국소 취혈"이 광범위한 다혈위 취혈보다 우선될 수 있음을 시사하는 참고 자료가 된다.
+
+**⑤ 예후**: 원인 질환(대상포진·수술·외상)에 따라 예후가 다르며, 급성기 적극적 치료가 만성화 예방에 중요하다.
+
+**⑥ 관리**: 원인 질환 관리와 함께 통증 척도(VAS·NRS)를 통한 정기 추적이 필요하며, 만성화 시 대상포진후신경통에 준하여 관리한다.
+
+> 이 각론은 임상 틀이지 동일 근거수준의 권고가 아니다. 취혈은 병변 분절·변증에 따라 개별화하며, 관행적 고정 취혈은 근거에 부합하지 않는다.
+
+### 5. 흉벽 통증증후군·비심장성 흉통(Chest Wall Pain Syndrome / Non-Cardiac Chest Pain)
+
+**① KCD 코드**: R07.4(달리 분류되지 않는 흉통), M79.1(근육통, 근막통 포함 시).
+
+**② 병인병기**: 정지실조(情志失調)로 인한 기체(氣滯)가 핵심 병기이며, 만성화되면 기체혈어·심비양허로 겸협된다. 일차의료 흉통 환자를 대상으로 한 관찰연구에서 통증의 국소적 위치만으로는 관상동맥질환과 흉벽증후군·위식도역류질환 등 다른 흔한 원인을 감별하기 어렵다는 결과가 보고되어[^61], 병력·이학적 검사·필요시 정밀검사를 포함한 종합적 감별진단의 중요성이 뒷받침된다.
+
+**③ 병태생리**: 비심장성 흉통은 늑연골염·근막통·위식도 역류·식도 운동질환·정서 요인 등 이질적 원인의 총합으로, 원위부 식도경련(distal esophageal spasm)과 같은 식도 운동질환도 감별 대상이다[^74]. 늑골·흉골의 드문 감염성 병변(결핵성 골수염·냉농양)도 만성 흉벽 통증·종창의 감별 대상이다[^27][^81].
+
+**④ 치료**: 단중(膻中, CV17)·내관(內關, PC6) 배혈이 비흉통 침구의 기본 원칙이며, 정서-흉벽 축의 통증 완화에 작용한다[교과서적 근거]. 변증(기체·담음·혈어)에 따른 개별화된 취혈·처방이 원칙이며, 관행적 고정 취혈은 근거에 부합하지 않는다.
+
+**⑤ 예후**: 기질적 심질환이 배제된 경우 예후는 양호하나, 정서성 흉통은 불안·우울과 동반되어 만성화될 수 있다.
+
+**⑥ 관리**: 정서 조절(정지情志 관리)·호흡 훈련·자세 교정을 병행하며, red flag 발생 시 즉시 응급 양방 평가로 전환한다.
+
+> 이 각론은 임상 틀이지 동일 근거수준의 권고가 아니다. 기질적 심혈관·호흡기 질환의 배제가 최우선이며, 비심장성 흉통 진단은 배제 진단(diagnosis of exclusion)임을 원칙으로 한다.
+
+### 6. 대상포진후신경통 — 흉벽 분포(Postherpetic Neuralgia, Thoracic Dermatome)
+
+**① KCD 코드**: B02.2(기타 신경계통 침범을 동반한 대상포진), G53.0*(대상포진후 신경통).
+
+**② 병인병기**: 급성기는 습열(濕熱)·간담습열(肝膽濕熱)이 피부·경락에 훈증되어 수포·작열통을 일으키고, 만성화되어 대상포진후신경통으로 이행하면 기체혈어(氣滯血瘀)가 핵심 병기로 자리잡는다[교과서적 근거]. 변증에 따른 침치료(간담습열·비허습체·기허혈어)를 병행한 임상시험에서 단순 자락관법보다 치료 효과가 유의하게 높고 대상포진후신경통 발생률이 낮았다는 관찰연구가 이를 뒷받침한다[^59].
+
+**③ 병태생리**: 말초·중추 감작, C-섬유 퇴화, 탈신경(deafferentation)이라는 세 가지 기전이 통증의 만성화에 관여한다[^69]. 최근에는 NLRP3/Caspase-1/GSDMD 축에 의한 염증성 세포사멸(pyroptosis)이 말초·중추 신경계 감작을 유도하는 핵심 기전으로 제시되었다[^70]. 흉벽 분포(흉추 피부분절)는 대상포진후신경통의 가장 흔한 발생 부위 중 하나다.
+
+**④ 치료**: 흉복부 대상포진후신경통에 흉추 신경차단술과 침 치료를 병행하는 다중 양식(multimodal) 접근이 단독·2제 병용보다 통증 완화·삶의 질 개선에 더 효과적이다[^62]. 기체혈어형 흉요부 대상포진후신경통에 자락발관(刺絡拔罐)과 이혈압침(耳穴壓丸)을 병용하면 프레가발린 단독보다 통증·수면·정서 지표가 더 크게 개선되었다[^63]. 매선·사혈부항을 양약과 병용하는 침구 관련 치료의 네트워크 메타분석에서 통증 개선·총 유효율이 우수하게 보고되었으며[^64], 전침(electroacupuncture)의 무작위 대조 임상시험에서도 통증 강도·치료 반응률의 유의한 개선과 안전성이 확인되었다[^65]. 침 치료가 대상포진후신경통 환자의 통증 강도를 유의하게 감소시키고 불안·삶의 질을 개선한다는 체계적 고찰·메타분석도 보고되었다[^66]. 한의학 통합치료(침·약침·한약·부항·뜸)를 적용한 국내 후향적 차트 리뷰에서 통증·피로·불안·삶의 질 지표가 유의하게 개선되었으며[^67], 소음인 보중익기탕(補中益氣湯) 가감방과 약침·침 병행 치료로 22일간 치료한 국내 증례에서도 통증·삶의 질이 유의하게 개선되었다[^68]. 다만 통상적 약물 요법(TCA·가바펜틴·프레가발린·리도카인 패치)이 여전히 1차 치료로 권고되며, 병합 요법이 단독 요법보다 효과적이라는 점이 강조된다[^83].
+
+**⑤ 예후**: 고령·당뇨병 동반·초기 통증 강도(NRS)가 높을수록 침구 치료 실패 위험이 높다는 예측 모델이 보고되어, 조기·적극적 다학제 개입의 근거가 된다.
+
+**⑥ 관리**: 통증(VAS·NRS)·수면(PSQI)·정서(SAS·SDS, PHQ-9) 지표를 정기 추적하며, 급성기 조기 치료가 만성화 예방에 중요하다는 점을 환자에게 설명한다.
+
+> 이 각론은 임상 틀이지 동일 근거수준의 권고가 아니다. 대상포진후신경통의 침구 근거는 비교적 풍부하나 연구 방법론(맹검 제한 등)의 한계가 있어, 통상 약물 요법과의 병용을 원칙으로 한다.
+
+---
+
+## 제7편 임상 종합 — 변증·감별·관리
 
 ### 1. 흉벽 통증의 감별진단
 
@@ -505,6 +631,14 @@
 | 정서성 흉통 | F41 | 비전형 통증·불안 동반 | 운동과 무관·정서 유발 |
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 급성 흉통은 심혈관·호흡기 기질질환 배제가 우선이며, red flag가 있으면 응급 양방 평가를 병행한다.
+
+### 1-1. 병기(病機) 심화 — 흉비(胸痺)와 협통(脇痛)
+
+**흉비(胸痺, chest bi-syndrome)** 는 『금궤요략·흉비심통단기병맥증병치(金匱要略·胸痺心痛短氣病脈證并治)』에서 "양미음현(陽微陰弦)"으로 병기를 요약한 고전 병증으로, 흉양(胸陽) 부족·음한(陰寒) 응체가 흉중 기혈 운행을 막아 흉민(胸悶)·흉통(胸痛)·단기(短氣)를 일으키는 것을 가리킨다. 흉비의 병기는 크게 ①흉양불진(胸陽不振, 흉양 부족으로 음한이 응결), ②기체혈어(氣滯血瘀, 정지 실조·외상으로 기혈 운행 장애), ③담탁조체(痰濁阻滯, 비위 운화 실조로 담습이 흉중을 막음), ④심비양허(心脾兩虛, 기혈 화생 부족으로 흉중 자양 실조) 네 유형으로 분류되며, 통증의 성질(자통·창통·중통)·유발 요인(운동·정서·한랭)에 따라 감별한다[교과서적 근거]. 흉비의 현대적 상관물로는 협심증·비심장성 흉통·늑연골염·근막통 등이 광범위하게 대응되나, 흉비를 협심증과 동일시해서는 안 되며 기질적 심질환 배제가 선행되어야 한다.
+
+**협통(脇痛, hypochondriac/rib-side pain)** 은 『황제내경·소문·장기법시론(黃帝內經·素問·藏氣法時論)』에서 "간병자, 양협하통인소복(肝病者, 兩脇下痛引少腹)"으로 기술된 병증으로, 간(肝)·담(膽) 경락이 분포하는 외측벽·협륵부(脇肋部)의 통증을 가리킨다. 병기는 ①간기울결(肝氣鬱結, 정지 실조로 간의 소설 기능 장애), ②간담습열(肝膽濕熱, 습열이 간담 경락에 울체), ③어혈정체(瘀血停滯, 외상·기체 지속으로 혈행 장애), ④간음부족(肝陰不足, 음혈 부족으로 경맥 자양 실조)으로 분류된다[교과서적 근거]. 협통의 현대적 상관물로는 늑간신경통·늑연골염·간담질환·흉곽출구증후군 등이 대응되며, 외측벽의 담경(GB)·간경(LR) 경혈—연액(GB22)·척근(GB23)·기문(LR14)·일월(GB24)—이 협통의 근위취혈로 활용된다.
+
+흉비·협통 모두 **기체(氣滯)가 초기 병기의 공통 분모** 이며, 방치·만성화되면 혈어(血瘀)로 전변하는 것이 한의학 병기 전변의 일반 원칙이다[교과서적 근거]. 대상포진(帶狀疱疹)에 동반된 흉협부 통증도 급성기에는 간담습열·습열온결로, 만성화되어 대상포진후신경통으로 이행하면 기체혈어로 변증되는 경향이 관찰연구에서 보고되어[^59], 흉비·협통의 병기 전변 이론이 대상포진후신경통의 임상 변증과 부합함을 시사한다. 기체혈어형 대상포진후신경통 환자에게 혈위첩부(穴位貼敷)를 적용한 임상시험에서 통증·삶의 질 개선과 함께 혈청 염증인자·5-HT 수치의 유의한 감소가 확인되어[^82], 기체혈어 변증이 염증-신경전달물질 축의 생물학적 실체를 갖는다는 근거로 해석된다.
 
 ### 2. 변증 층화 — 기체·혈어·담음·습열·허
 
@@ -635,7 +769,7 @@
 
 **고전 인용 출처**: 『黃帝內經·素問』(擧痛論, 痿論, 經脈論), 『黃帝內經·靈樞』(經筋篇, 經脈篇, 背兪篇), 『難經』(六十七難 背兪), 『鍼灸甲乙經』, 『鍼灸大成』, 『類經圖翼』. WHO Standard Acupuncture Point Locations in the Western Pacific Region.
 
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준. 검색어: thoracic wall, chest wall, intercostal, costochondritis, thoracic outlet, rib pain, back pain, bladder meridian, back shu points, intercostal neuralgia, diaphragm, pectoralis, trapezius, thoracic spine, pleura, pneumothorax acupuncture, myofascial pain, meridian sinew, sternum 등. 총 600편 고유 논문 중 30편 본문 인용.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준. 검색어: thoracic wall, chest wall, intercostal, costochondritis, thoracic outlet, rib pain, back pain, bladder meridian, back shu points, intercostal neuralgia, diaphragm, pectoralis, trapezius, thoracic spine, pleura, pneumothorax acupuncture, myofascial pain, meridian sinew, sternum, rib fracture, intercostal nerve block, postherpetic neuralgia acupuncture, Tietze syndrome, chest wall pain, respiratory muscle training, postmastectomy pain syndrome 등. 총 700편 이상 고유 논문 중 83편 본문 인용.
 
 [^1]: Dorsal root ganglion: the target of acupuncture in the treatment of asthma.. Feng JT 외. _Advances in therapy_. . [문헌 고찰] [DOI 10.1007/BF02848784](https://doi.org/10.1007/BF02848784) [PMID 17660170](https://pubmed.ncbi.nlm.nih.gov/17660170/) — 배유혈의 해부학적 위치가 후근신경절(C7-T5)과 유사하며, 자침 시 해당 신경절을 자극하여 신경영양인자의 흡수나 P물질의 합성과 방출을 억제함으로써 천식의 기도 신경성 염증을 완화시키는 것으로 가설화된다..
 [^2]: Re-evaluation of the classical acupuncture concept of meridians in Oriental medicine by the new method of detecting meridian-like network connected to internal organs using "Bi-Digital O-Ring Test".. Omura Y. _Acupuncture & electro-therapeutics research_. 1986. [실험연구] [DOI 10.3727/036012986816359003](https://doi.org/10.3727/036012986816359003) [PMID 2880469](https://pubmed.ncbi.nlm.nih.gov/2880469/) — Bi-Digital O-Ring Test를 통해 내장 기관의 윤곽과 그로부터 뻗어 나오는 경락 유사 네트워크를 시각화할 수 있었으며, 특히 췌장 조직을 통해 비경(脾經)의 네트워크가 확인되는 등 고전적 경락 개념의 실체를 전자기적 정보 전달 통로....
@@ -667,3 +801,56 @@
 [^28]: Cardiac complications following mRNA COVID-19 vaccines: A systematic review of case reports and case series.. Fazlollahi A 외. _Reviews in medical virology_. 2022-07. [체계적 고찰] (환자수 243) [DOI 10.1002/rmv.2318](https://doi.org/10.1002/rmv.2318) [PMID 34921468](https://pubmed.ncbi.nlm.nih.gov/34921468/) — 가장 흔한 합병증은 심근염/심낭염이며, 주로 21세 중앙값의 남성에서 발생하고 흉통과 심장 바이오마커(Troponin 등) 상승이 특징적으로 나타나며, NSAIDs로 관리되는 경향이 있다..
 [^29]: Corrigendum to: Is Tapping on Acupuncture Points an Active Ingredient in Emotional Freedom Techniques: A Systematic Review and Meta-Analysis of Comparative Studies.. Church D 외. _The Journal of nervous and mental disease_. 2020-08. [메타분석] [DOI 10.1097/NMD.0000000000001222](https://doi.org/10.1097/NMD.0000000000001222) [PMID 32740561](https://pubmed.ncbi.nlm.nih.gov/32740561/) — 재분석 결과, 경혈 타핑 성분은 EFT의 긍정적인 건강 효과에 기여하는 능동적 성분(Active ingredient)임이 확인되었다..
 [^30]: A randomized phase III clinical trial of acupuncture for chemotherapy-induced peripheral neuropathy (CIPN) in cancer survivors.. Andee Dooley 외. _Journal of Clinical Oncology_. 2022-06-01. [임상시험] (환자수 250) [DOI 10.1200/jco.2022.40.16_suppl.tps12145](https://doi.org/10.1200/jco.2022.40.16_suppl.tps12145) — 해당 연구는 현재 진행 중인 임상 시험(NCT04917796)으로, 전침 치료가 가짜침 대비 통증(BPI-SF) 및 신경병성 증상을 개선하는지 평가하고 있으며 최종 결과는 모집 완료 및 분석 후 도출될 예정이다..
+[^31]: Severe post-COVID-19 costochondritis in children. Collins RA 외. _Proceedings (Baylor University. Medical Center)_. 2022. [증례 보고] [DOI 10.1080/08998280.2021.1973274](https://doi.org/10.1080/08998280.2021.1973274) [PMID 34966216](https://pubmed.ncbi.nlm.nih.gov/34966216/) — 코로나19 감염 후 소아에서 발생한 중증 늑연골염이 기존 NSAIDs·스테로이드에 불응할 때 콜히친이 대안적 치료가 될 수 있음을 시사.
+[^32]: Stretching exercises for costochondritis pain. Rovetta G 외. _Giornale italiano di medicina del lavoro ed ergonomia_. [관찰연구] (환자수 51) [PMID 19827277](https://pubmed.ncbi.nlm.nih.gov/19827277/) — 스트레칭 운동만으로도 늑연골염 통증이 유의하게 감소해, 비약물적 자가관리의 근거가 됨.
+[^33]: External application of two unrestricted herbal medicines to treat costochondritis in a young collegiate athlete: A case report. Zhang B 외. _Journal of integrative medicine_. 2020-09. [증례 보고] [DOI 10.1016/j.joim.2020.07.001](https://doi.org/10.1016/j.joim.2020.07.001) [PMID 32712025](https://pubmed.ncbi.nlm.nih.gov/32712025/) — 현호색·빙편 외용 첩부가 만성 늑연골염의 통증·관절가동범위를 개선, 한의학적 외치법(外治法)의 임상 근거.
+[^34]: Tietze's Syndrome. Niempoog S. _Asian Medical Journal and Alternative Medicine_. 2011-01-01. [증례 보고] [DOI 10.70933/2773-9465.1481](https://doi.org/10.70933/2773-9465.1481) — 늑연골 염증에 의한 통증성 종괴를 특징으로 하는 희귀 질환 티체증후군의 전형적 임상양상을 보고.
+[^35]: Management of Tietze Syndrome: Acupuncture and Cupping as an Effective Treatment Approach: A Case Study. Satyal Jaya 외. _Annapurna Journal of Health Sciences_. 2022-08-20. [증례 보고] [DOI 10.52910/ajhs.76](https://doi.org/10.52910/ajhs.76) — 약물 치료에 불응하는 티체증후군 환자에게 침·부항 병행 치료가 통증 관리에 효과적이었음을 보고.
+[^36]: Comparison of the Effects on Rib Fracture between the Traditional Japanese Medicine Jidabokuippo and Nonsteroidal Anti-Inflammatory Drugs: A Randomized Controlled Trial. Nakae H 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [임상시험] (환자수 170) [DOI 10.1155/2012/837958](https://doi.org/10.1155/2012/837958) — 활혈화어 성격의 일본 한방처방 지다복위포가 NSAIDs보다 늑골골절 치료기간을 유의하게 단축, 한방처방의 골절 회복 촉진 근거.
+[^37]: Safety of Continuous Erector Spinae Catheters in Chest Trauma: A Retrospective Cohort Study.. White LD 외. _Anesthesia and analgesia_. 2021-11-01. [관찰연구] (환자수 224) [DOI 10.1213/ANE.0000000000005730](https://doi.org/10.1213/ANE.0000000000005730) [PMID 34473654](https://pubmed.ncbi.nlm.nih.gov/34473654/) — 지속적 척추기립근면차단 카테터가 흉부외상 통증관리에서 조기·후기 합병증이 낮은 안전한 기법임을 확인.
+[^38]: The erector spinae plane block for acute pain management in emergency department patients with rib fractures.. Surdhar I 외. _CJEM_. 2022-01. [임상시험] (환자수 9) [DOI 10.1007/s43678-021-00203-x](https://doi.org/10.1007/s43678-021-00203-x) [PMID 34669173](https://pubmed.ncbi.nlm.nih.gov/34669173/) — 응급실 급성 늑골골절 통증 관리에 척추기립근면차단이 안전·효과적인 대안임을 확인.
+[^39]: ACR Appropriateness Criteria(®) Rib Fractures.. Expert Panel on Thoracic Imaging: 외. _Journal of the American College of Radiology : JACR_. 2019-05. [임상진료지침] [DOI 10.1016/j.jacr.2019.02.019](https://doi.org/10.1016/j.jacr.2019.02.019) [PMID 31054749](https://pubmed.ncbi.nlm.nih.gov/31054749/) — 경미한 둔상성 늑골 골절은 표준 흉부 방사선 촬영만으로 충분하다는 영상검사 적정성 권고.
+[^40]: Acupuncture Analgesia in Patients With Traumatic Rib Fractures: A Randomized-Controlled Trial.. Liu CT 외. _Frontiers in medicine_. 2022. [임상시험] (환자수 120) [DOI 10.3389/fmed.2022.896692](https://doi.org/10.3389/fmed.2022.896692) [PMID 35712110](https://pubmed.ncbi.nlm.nih.gov/35712110/) — 전통 침·레이저침 모두 외상성 늑골골절 통증완화에 안전·효과적임을 확인, 침구 진통의 직접 근거.
+[^41]: Effect of Panax notoginseng in patients with multiple fractured ribs and pulmonary contusions caused by the 2008 Wenchuan earthquake. Tianhong M 외. _Forschende Komplementarmedizin (2006)_. 2014. [관찰연구] (환자수 35) [DOI 10.1159/000370011](https://doi.org/10.1159/000370011) [PMID 25592947](https://pubmed.ncbi.nlm.nih.gov/25592947/) — 삼칠근 병용투여가 다발성 늑골골절·폐좌상 환자의 통증·기계환기·입원기간을 유의하게 단축.
+[^42]: [Effect of Xuefu Zhuyu decoction in preventing complications of rib fracture in patients with blunt chest injury].. Zhu T 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-09. [임상시험] (환자수 120) [PMID 21179725](https://pubmed.ncbi.nlm.nih.gov/21179725/) — 혈부축어탕(血府逐瘀湯) 병용이 둔상성 흉부손상 늑골골절 환자의 흉막삼출 발생률을 유의하게 낮춤.
+[^43]: Clinical outcome analysis for surgical fixation versus conservative treatment on rib fractures: a systematic evaluation and meta-analysis.. Zhao P 외. _World journal of emergency surgery : WJES_. 2025-02-05. [메타분석] (환자수 1078795) [DOI 10.1186/s13017-025-00581-y](https://doi.org/10.1186/s13017-025-00581-y) [PMID 39910551](https://pubmed.ncbi.nlm.nih.gov/39910551/) — 다발성 늑골골절·동요흉에서 외과적 고정술이 보존적 치료보다 사망률을 낮춤, 특히 고령·동요흉 환자에서 이점이 큼.
+[^44]: The Chinese consensus for surgical treatment of traumatic rib fractures 2021 (C-STTRF 2021).. Kong LW 외. _Chinese journal of traumatology = Zhonghua chuang shang za zhi_. 2021-11. [임상진료지침] [DOI 10.1016/j.cjtee.2021.07.012](https://doi.org/10.1016/j.cjtee.2021.07.012) [PMID 34503907](https://pubmed.ncbi.nlm.nih.gov/34503907/) — 외상성 늑골골절 수술치료의 표준화된 등급별 권고안을 제시.
+[^45]: Flurbiprofen Axetil Combined with Ultrasound-Guided Intercostal Nerve Block for Preoperative Analgesia in Patients with Traumatic Multiple Rib Fractures: A Randomized Controlled Trial.. Chen Z 외. _Pain and therapy_. 2026-02. [임상시험] (환자수 150) [DOI 10.1007/s40122-025-00811-w](https://doi.org/10.1007/s40122-025-00811-w) [PMID 41483115](https://pubmed.ncbi.nlm.nih.gov/41483115/) — 늑간신경차단과 진통제 병용이 단독요법보다 수술 전 통증완화·호흡기능·환자만족도를 유의하게 향상.
+[^46]: Prevalence of chronic post-thoracotomy pain in patients with traumatic multiple rib fractures in South Korea: a cross-sectional study.. Kim KH 외. _Scientific reports_. 2021-01-28. [관찰연구] (환자수 100) [DOI 10.1038/s41598-021-82273-6](https://doi.org/10.1038/s41598-021-82273-6) [PMID 33510371](https://pubmed.ncbi.nlm.nih.gov/33510371/) — 흉곽절개술을 동반한 다발성 늑골골절 환자의 80%가 만성 통증을 경험, 호흡기능저하·불안·우울과 연관.
+[^47]: Acupuncture combined with multidisciplinary care for recovery after traumatic multiple rib fractures: a prospective feasibility cohort study.. Kim KH 외. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2021-12. [관찰연구] (환자수 20) [DOI 10.1177/09645284211009539](https://doi.org/10.1177/09645284211009539) [PMID 34044603](https://pubmed.ncbi.nlm.nih.gov/34044603/) — 다학제 케어와 침 치료 병행이 늑골골절 회복기에 임상 적용 가능하며 통증감소·만족도 향상에 기여.
+[^48]: Prevalence of and factors associated with trauma surgeons' referral and patients' willingness to acupuncture treatment after traumatic rib fractures: A single-center cross-sectional study.. Kim MH 외. _Integrative medicine research_. 2024-12. [관찰연구] (환자수 2937) [DOI 10.1016/j.imr.2024.101096](https://doi.org/10.1016/j.imr.2024.101096) [PMID 39635075](https://pubmed.ncbi.nlm.nih.gov/39635075/) — 외상성 늑골골절 환자의 실제 침구 의뢰율이 낮아, 침구 접근성 개선의 여지가 있음을 시사.
+[^49]: Innovative Dynamic Ultrasound Diagnosis of First Rib Stress Fracture in an Adolescent Athlete-A Case Report.. Yoon Y 외. _Diagnostics (Basel, Switzerland)_. 2025-09-24. [증례 보고] [DOI 10.3390/diagnostics15192437](https://doi.org/10.3390/diagnostics15192437) [PMID 41095656](https://pubmed.ncbi.nlm.nih.gov/41095656/) — 청소년 운동선수의 제1늑골 피로골절이 견갑골운동이상증·흉곽출구증후군과 혼동될 수 있어 동적 초음파 감별이 유용.
+[^50]: Postthoracotomy Pain Syndrome. Melinda Aquino. _Oxford Medicine Online_. 2018-05. [문헌 고찰] [DOI 10.1093/med/9780190271787.003.0016](https://doi.org/10.1093/med/9780190271787.003.0016) — 흉부수술후통증증후군(PTPS) 관리에는 수술 전 선제진통부터 신경차단·물리치료까지 단계적 다학제 접근이 필요.
+[^51]: Assessment of ultrasound-guided intercostal nerve block for acute herpes zoster and its' possible prophylaxis forpostherpeticneuralgia: a retrospective and case-controlled trial. Xiuhua Li 외. _The Korean Journal of Pain_. 2024-10. [관찰연구] (환자수 128) [DOI 10.3344/kjp.24111](https://doi.org/10.3344/kjp.24111) — 급성 대상포진 통증에 초음파 유도하 늑간신경차단이 항바이러스제 단독보다 통증완화·대상포진후신경통 예방에 효과적.
+[^52]: Efficacy and safety of pulsed radiofrequency modulation of thoracic dorsal root ganglion or intercostal nerve on postherpetic neuralgia in aged patients: a retrospective study.. Huang X 외. _BMC neurology_. 2021-06-24. [관찰연구] [DOI 10.1186/s12883-021-02286-6](https://doi.org/10.1186/s12883-021-02286-6) [PMID 34162352](https://pubmed.ncbi.nlm.nih.gov/34162352/) — 고령 대상포진후신경통 환자에서 후근신경절 표적 펄스고주파가 늑간신경 표적보다 통증·삶의 질 개선에 더 우수.
+[^53]: The Value of Perioperative Serum Indexes in Predicting the Risk of Intercostal Neuralgia After PVP in Postmenopausal Patients With Osteoporotic Vertebral Compression Fractures.. Chen H 외. _Annali italiani di chirurgia_. 2026-06-10. [관찰연구] (환자수 122) [DOI 10.62713/aic.4577](https://doi.org/10.62713/aic.4577) [PMID 42304147](https://pubmed.ncbi.nlm.nih.gov/42304147/) — 골밀도·수술후 혈당·알부민·비타민D를 통합한 예측모델이 PVP 후 늑간신경통 위험 예측에 유용.
+[^54]: Regional analgesia techniques for video-assisted thoracic surgery: a frequentist network meta-analysis. Jo Y 외. _Korean journal of anesthesiology_. 2022-06. [메타분석] (환자수 1391) [DOI 10.4097/kja.21330](https://doi.org/10.4097/kja.21330) [PMID 34638182](https://pubmed.ncbi.nlm.nih.gov/34638182/) — 흉강경수술(VATS) 후 통증관리에서 흉추부척추차단이 마약성 진통제 사용량 감소·전반적 진통효과에서 가장 우수.
+[^55]: Comparative Efficacy of Postoperative Pain Management Techniques Following Costal Cartilage Harvest: A Systematic Review and Network Meta-analysis.. Guo J 외. _Aesthetic plastic surgery_. 2025-02. [메타분석] (환자수 935) [DOI 10.1007/s00266-024-04430-2](https://doi.org/10.1007/s00266-024-04430-2) [PMID 39527255](https://pubmed.ncbi.nlm.nih.gov/39527255/) — 늑연골 채취술 후 통증관리에서 단일약제 늑간신경차단보다 다중진통(multimodal) 전략이 더 효과적.
+[^56]: Single versus multisite intercostal nerve block for post-thoracoscopic pain: a prospective observational study.. Wen B 외. _Journal of thoracic disease_. 2025-04-30. [관찰연구] [DOI 10.21037/jtd-2025-654](https://doi.org/10.21037/jtd-2025-654) [PMID 40400972](https://pubmed.ncbi.nlm.nih.gov/40400972/) — 병변 분절에 국한한 단일부위 늑간신경차단이 다부위 차단보다 초기 통증완화에 더 효과적, 국소·정밀 취혈 원칙의 참고 근거.
+[^57]: Effectiveness of electroacupuncture at Jiaji acupoints (EX-B2), plus moxibustion and intermediate on postherpetic neuralgia: a randomized controlled trial.. Wang L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2020-02. [임상시험] (환자수 140) [PMID 32227773](https://pubmed.ncbi.nlm.nih.gov/32227773/) — 협척혈(EX-B2) 전침에 뜸·중주파를 병행하는 것이 전통 침치료 단독보다 통증·불안 완화에 더 효과적.
+[^58]: Comparison of Various Regional Analgesia Methods for Postoperative Analgesic Effects in Video-assisted Thoracoscopic Surgery: A Systematic Review and Network Meta-analysis.. Zeng J 외. _Pain physician_. 2022-10. [메타분석] [PMID 36288578](https://pubmed.ncbi.nlm.nih.gov/36288578/) — VATS 후 통증관리에서 경막외마취·척추주변차단이 다른 차단술보다 우수한 진통효과.
+[^59]: [Observation of curative effect of herpes zoster treated with acupuncture based on syndrome differentiation combined with pricking and cupping].. Pan H. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-10. [임상시험] (환자수 86) [PMID 22043678](https://pubmed.ncbi.nlm.nih.gov/22043678/) — 변증(간담습열·비허습체·기허혈어)에 맞춘 침치료 병행이 단순 자락관법보다 효과가 높고 대상포진후신경통 발생률을 낮춤.
+[^60]: Atypical Chest Pain in a Patient With Breast Implant.. Azis KA 외. _Cureus_. 2023-04. [증례 보고] [DOI 10.7759/cureus.37751](https://doi.org/10.7759/cureus.37751) [PMID 37214021](https://pubmed.ncbi.nlm.nih.gov/37214021/) — 유방 보형물 삽입 환자의 비정형 흉통이 늑연골염 등으로 오인될 수 있어 국소 합병증 감별이 필요.
+[^61]: Chest pain in primary care: is the localization of pain diagnostically helpful in the critical evaluation of patients?--A cross sectional study.. Bösner S 외. _BMC family practice_. 2013-10-18. [관찰연구] (환자수 1212) [DOI 10.1186/1471-2296-14-154](https://doi.org/10.1186/1471-2296-14-154) [PMID 24138299](https://pubmed.ncbi.nlm.nih.gov/24138299/) — 흉통의 위치만으로는 관상동맥질환과 흉벽증후군 등 다른 원인을 구별하기 어려움, 종합적 병력·검사의 중요성을 시사.
+[^62]: Thoracic paravertebral nerve block combined with acupuncture for the treatment of postherpetic neuralgia in the chest and abdomen: A prospective randomized controlled trial. Xiang Wei 외. _Medicine_. 2024-04-05. [임상시험] (환자수 111) [DOI 10.1097/md.0000000000036823](https://doi.org/10.1097/md.0000000000036823) — 흉복부 대상포진후신경통에서 흉추신경차단술+침치료의 다중양식 접근이 단독·2제 병용보다 통증완화·삶의 질 개선에 효과적.
+[^63]: [Pricking-cupping combined with auricular thumbtack needle for postherpetic neuralgia of qi stagnation and blood stasis on chest and waist: a randomized controlled trial].. Le W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-08-12. [임상시험] (환자수 98) [DOI 10.13703/j.0255-2930.20230925-k0005](https://doi.org/10.13703/j.0255-2930.20230925-k0005) [PMID 39111788](https://pubmed.ncbi.nlm.nih.gov/39111788/) — 기체혈어형 흉요부 대상포진후신경통에 자락발관+이혈압침이 프레가발린 단독보다 통증·수면·정서 개선에서 더 효과적.
+[^64]: Comparison of Efficacy of Acupuncture-Related Therapy in the Treatment of Postherpetic Neuralgia: A Network Meta-Analysis of Randomized Controlled Trials. Haiyan Wang 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-10-14. [메타분석] (환자수 2138) [DOI 10.1155/2022/3975389](https://doi.org/10.1155/2022/3975389) — 매선·사혈부항을 양약과 병용하는 치료가 대상포진후신경통의 통증개선·유효율에서 우수한 네트워크 메타분석 근거.
+[^65]: Effect of Electroacupuncture on Postherpetic Neuralgia: A Randomized Clinical Trial.. Chen L 외. _JAMA neurology_. 2026-07-01. [임상시험] (환자수 448) [DOI 10.1001/jamaneurol.2026.1443](https://doi.org/10.1001/jamaneurol.2026.1443) [PMID 42189557](https://pubmed.ncbi.nlm.nih.gov/42189557/) — 전침이 대상포진후신경통의 통증강도·치료반응률을 유의하게 개선, 안전성도 확인된 고품질 무작위 대조시험.
+[^66]: Is acupuncture an effective postherpetic neuralgia treatment? A systematic review and meta-analysis.. Pei W 외. _Journal of pain research_. 2019. [메타분석] [DOI 10.2147/JPR.S199950](https://doi.org/10.2147/JPR.S199950) [PMID 31410050](https://pubmed.ncbi.nlm.nih.gov/31410050/) — 침 치료가 대상포진후신경통의 통증강도를 유의하게 감소시키고 불안완화·삶의 질 개선에 효과적.
+[^67]: Effect of Korean Medicine Treatment on Patients with Postherpetic Neuralgia: A Retrospective Chart Review.. Jeon H 외. _Healthcare (Basel, Switzerland)_. 2024-01-19. [관찰연구] (환자수 13) [DOI 10.3390/healthcare12020256](https://doi.org/10.3390/healthcare12020256) [PMID 38275536](https://pubmed.ncbi.nlm.nih.gov/38275536/) — 침·약침·한약·부항·뜸 통합 한의치료가 대상포진후신경통의 통증·피로·불안·삶의 질을 유의하게 개선.
+[^68]: A Case of Postherpetic Neuralgia Treated with Korean Medicine, including Soeumin Bojungikgitang-gagambang. Na-young Kim 외. _The Journal of Internal Korean Medicine_. 2023-10-30. [증례 보고] (환자수 1) [DOI 10.22246/jikm.2023.44.5.920](https://doi.org/10.22246/jikm.2023.44.5.920) — 소음인 보중익기탕 가감방·약침·침 병행치료로 대상포진후신경통의 통증·삶의 질을 22일 만에 유의하게 개선한 국내 증례.
+[^69]: Postherpetic Neuralgia: Mechanisms and the Limitation of the Treatment. Hideo Yamamura. _Acupuncture & Electro-Therapeutics Research_. 2001-02. [문헌 고찰] [DOI 10.1177/036012932001026001005](https://doi.org/10.1177/036012932001026001005) — 대상포진후신경통이 말초·중추 감작, C섬유 퇴화, 탈신경(deafferentation) 세 기전으로 발생함을 정리한 고찰.
+[^70]: Focusing on inflammation-driven pyroptosis in postherpetic neuralgia: from molecular mechanisms to therapeutic strategies. Zhang Y 외. _Frontiers in immunology_. 2026. [문헌 고찰] [DOI 10.3389/fimmu.2026.1883546](https://doi.org/10.3389/fimmu.2026.1883546) [PMID 42459688](https://pubmed.ncbi.nlm.nih.gov/42459688/) — NLRP3/Caspase-1/GSDMD 축의 염증성 세포사멸(pyroptosis)이 대상포진후신경통 만성화의 핵심 기전으로 제시.
+[^71]: Effects of respiratory muscle training on clinical outcomes in patients with chronic obstructive pulmonary disease: A systematic review and meta-analysis.. Qi XH 외. _Annals of thoracic medicine_. 2026-08-14. [메타분석] (환자수 1178) [DOI 10.4103/atm.atm_230_24](https://doi.org/10.4103/atm.atm_230_24) [PMID 41234761](https://pubmed.ncbi.nlm.nih.gov/41234761/) — 호흡근 훈련이 만성폐쇄성폐질환 환자의 운동내성·호흡근력·폐기능·삶의 질을 유의하게 개선.
+[^72]: The value of deep learning-based computer aided diagnostic system in improving diagnostic performance of rib fractures in acute blunt trauma. Hui Tan 외. _BMC Medical Imaging_. 2023-04-13. [관찰연구] (환자수 214) [DOI 10.1186/s12880-023-01012-7](https://doi.org/10.1186/s12880-023-01012-7) — 딥러닝 기반 컴퓨터 보조 진단 시스템이 늑골골절 진단 민감도·양성예측도를 향상, 특히 저숙련 판독자에서 개선폭이 큼.
+[^73]: Diagnostic value and limitations of CT in detecting rib fractures and analysis of missed rib fractures: a study based on early CT and follow-up CT as the reference standard.. Liu C 외. _Clinical radiology_. 2022-04. [관찰연구] (환자수 160) [DOI 10.1016/j.crad.2022.01.035](https://doi.org/10.1016/j.crad.2022.01.035) [PMID 35164929](https://pubmed.ncbi.nlm.nih.gov/35164929/) — 초기 CT가 전위골절 진단에는 정확하나 비전위·늑연골접합부 골절은 검출률이 낮아 진단적 한계가 있음을 확인.
+[^74]: Chicago Classification Update (v4.0): Technical review on diagnostic criteria for distal esophageal spasm. Roman S 외. _Neurogastroenterology and motility_. 2021-05. [문헌 고찰] [DOI 10.1111/nmo.14119](https://doi.org/10.1111/nmo.14119) [PMID 33666299](https://pubmed.ncbi.nlm.nih.gov/33666299/) — 원위부 식도경련의 정확한 진단기준을 정리, 비심장성 흉통 감별진단에서 식도운동질환 배제의 근거.
+[^75]: Efficacy of nerve blocks for postoperative analgesia in lung cancer: A meta-analysis of randomized clinical trials.. Wu J 외. _Experimental and therapeutic medicine_. 2026-02. [메타분석] (환자수 1524) [DOI 10.3892/etm.2025.13039](https://doi.org/10.3892/etm.2025.13039) [PMID 41425951](https://pubmed.ncbi.nlm.nih.gov/41425951/) — 폐암 수술 후 통증관리에서 신경차단술이 전통적 진통법보다 진통제 사용량·합병증 발생률을 유의하게 낮춤.
+[^76]: Safety and feasibility of ultrasound-guided serratus anterior plane block and intercostal nerve block for management of post-sternotomy pain in pediatric cardiac patients: A prospective, randomized trial.. He Y 외. _Anaesthesia, critical care & pain medicine_. 2023-12. [임상시험] (환자수 60) [DOI 10.1016/j.accpm.2023.101268](https://doi.org/10.1016/j.accpm.2023.101268) [PMID 37364851](https://pubmed.ncbi.nlm.nih.gov/37364851/) — 소아 심장수술 후 전거근면차단+늑간신경차단이 정맥 내 오피오이드 단독보다 오피오이드 사용량을 유의하게 감소.
+[^77]: Incremental Load Respiratory Muscle Training Improves Respiratory Muscle Strength and Pulmonary Function in Children with Bronchiectasis.. Chen X 외. _Canadian respiratory journal_. 2024. [임상시험] [DOI 10.1155/2024/8884030](https://doi.org/10.1155/2024/8884030) [PMID 38818499](https://pubmed.ncbi.nlm.nih.gov/38818499/) — 점진적 부하 호흡근 훈련이 소아 기관지확장증 환자의 호흡근력·폐기능을 유의하게 개선.
+[^78]: The postmastectomy pain syndrome: an epidemiological study on the prevalence of chronic pain after surgery for breast cancer.. Vilholm OJ 외. _British journal of cancer_. 2008-08-19. [관찰연구] (환자수 1032) [DOI 10.1038/sj.bjc.6604534](https://doi.org/10.1038/sj.bjc.6604534) [PMID 18682712](https://pubmed.ncbi.nlm.nih.gov/18682712/) — 유방암 수술 환자의 상당수(약 23%)가 만성 유방절제술후통증증후군을 경험함을 확인한 역학연구.
+[^79]: Nonpharmacological Interventions for Postmastectomy Pain Syndrome-A Systematic Review of the Literature.. Gónima Valero E 외. _Clinical breast cancer_. 2025-02. [체계적 고찰] [DOI 10.1016/j.clbc.2024.10.007](https://doi.org/10.1016/j.clbc.2024.10.007) [PMID 39562190](https://pubmed.ncbi.nlm.nih.gov/39562190/) — 비약물적 중재가 유방절제술후통증증후군 관리의 효과적 대안이 될 수 있음을 시사.
+[^80]: Safety and Effectiveness of an Integrative Treatment of Acupuncture-Based Intervention in Survivors of Breast Cancer With Postmastectomy Pain Syndrome: Protocol for a Single-Center, Single-Arm Exploratory Trial. Kawasaki N 외. _JMIR research protocols_. 2026-06-11. [임상시험] (환자수 24) [DOI 10.2196/94381](https://doi.org/10.2196/94381) [PMID 42275444](https://pubmed.ncbi.nlm.nih.gov/42275444/) — 유방암 생존자의 유방절제술후통증증후군에 침구기반 통합치료의 안전성·유효성을 탐색하는 임상시험 프로토콜.
+[^81]: Tuberculosis of Rib: Diagnosis and Treatment.. Jain M 외. _Journal of orthopaedic case reports_. 2025-02. [증례 보고] [DOI 10.13107/jocr.2025.v15.i02.5220](https://doi.org/10.13107/jocr.2025.v15.i02.5220) [PMID 39957959](https://pubmed.ncbi.nlm.nih.gov/39957959/) — 드문 늑골결핵이 흉벽 통증·부종으로 나타날 수 있어 정밀영상·조직검사를 통한 감별이 필요.
+[^82]: Acupoint application for postherpetic neuralgia with qi stagnation and blood stasis and its effect on related inflammatory factors and 5-HT.. Zhu S 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-02-12. [임상시험] (환자수 136) [DOI 10.13703/j.0255-2930.20230628-k0004](https://doi.org/10.13703/j.0255-2930.20230628-k0004) [PMID 38373761](https://pubmed.ncbi.nlm.nih.gov/38373761/) — 기체혈어형 대상포진후신경통에 중약 혈위첩부(穴位貼敷)를 적용해 통증·염증인자·5-HT 수치를 유의하게 낮춤, 기체혈어 변증의 생물학적 근거.
+[^83]: Therapeutic Strategies for Postherpetic Neuralgia: Mechanisms, Treatments, and Perspectives.. Tang J 외. _Current pain and headache reports_. 2023-09. [문헌 고찰] [DOI 10.1007/s11916-023-01146-x](https://doi.org/10.1007/s11916-023-01146-x) [PMID 37493871](https://pubmed.ncbi.nlm.nih.gov/37493871/) — 대상포진후신경통의 1차 약물요법과 병합요법의 우수성을 정리한 최신 고찰.
