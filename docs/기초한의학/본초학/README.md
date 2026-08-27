@@ -46,7 +46,7 @@
 - 석고(石膏, Gypsum Fibrosum)
 - 지모(知母, Anemarrhenae Rhizoma)
 - 노근(蘆根, Phragmitis Rhizoma)
-- 천화분(天花粉, Trichosanthis Radix) — (작성 예정)
+- 천화분(天花粉, Trichosanthis Radix)
 - 죽엽(竹葉, Lophatheri Herba) — (작성 예정)
 - 치자(梔子, Gardenia)
 - 하고초(夏枯草, Prunellae Spica) — (작성 예정)
@@ -69,7 +69,7 @@
 
 - 서각/수우각(犀角/水牛角, Bubali Cornu) — (작성 예정)
 - 지황(地黃, Rehmannia) — 생지황·숙지황 하위 표제어 포함 **작성됨**(겸: 보혈약)
-- 현삼(玄蔘, Scrophularia buergeriana) — (작성 예정, 연호색 문서의 동음이의 부위와 혼동 주의)
+- 현삼(玄蔘, Scrophularia buergeriana) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
 - 목단피(牡丹皮, Moutan Cortex)
 - 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
 - 자초(紫草, Lithospermi Radix) — (작성 예정)
