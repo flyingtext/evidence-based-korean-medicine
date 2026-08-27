@@ -49,7 +49,7 @@
 - 천화분(天花粉, Trichosanthis Radix)
 - 죽엽(竹葉, Lophatheri Herba) — (작성 예정)
 - 치자(梔子, Gardenia)
-- 하고초(夏枯草, Prunellae Spica) — (작성 예정)
+- 하고초(夏枯草, Prunellae Spica)
 - 담죽엽(淡竹葉, Lophatheri Herba) — (작성 예정)
 - 밀몽화(密蒙花, Buddlejae Flos)
 - 청상자(靑箱子, Celosiae Semen) — **작성됨**
