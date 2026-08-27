@@ -94,7 +94,7 @@
 - 누로(漏蘆, Rhapontici Radix) — (작성 예정)
 - 산자고(山慈姑, Cremastrae Pseudobulbus) — **작성됨**
 - 녹두(綠豆, Phaseoli Radiati Semen) — (작성 예정)
-- 위릉채(葳靈菜) — (작성 예정)
+- 위릉채(葳靈菜) — **작성됨**
 - 야국화(野菊花, Chrysanthemi Indici Flos) — (작성 예정)
 - 인동등(忍冬藤, Lonicerae Caulis) — (작성 예정)
 - 조휴(蚤休, Paridis Rhizoma) — (작성 예정)
