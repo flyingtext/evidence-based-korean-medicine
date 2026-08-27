@@ -265,7 +265,7 @@
 |---|---|---|
 | 한국 | 대한한방내과학회지, The Journal of Internal Korean Medicine, Journal of Korean Medicine | 한의과대학·한의원 임상 데이터 기반 연구가 다수 |
 | 일본 | Hinyokika kiyo, Kampo 관련 저널 | 캄포(漢方) 제제(TJ 번호) 임상시험이 체계적으로 축적 |
-| 중국 | Zhongguo Zhong yao za zhi, Zhongguo Zhong xi yi jie he za zhi | 통합의학(통합의학) 형태의 병용 임상시험이 다수 |
+| 중국 | Zhongguo Zhong yao za zhi, Zhongguo Zhong xi yi jie he za zhi | 통합의학 형태의 병용 임상시험이 다수 |
 | 국제 학술지 | Evidence-Based Complementary and Alternative Medicine, Medicine, Frontiers in Pharmacology 등 | 메타분석·네트워크 메타분석 등 종합적 근거 합성 연구 |
 
 *이 표는 본 문서가 확보한 근거의 출처 지역을 개략적으로 분류한 참고 개관이며, 특정 지역의 연구가 다른 지역보다 우월하다는 것을 의미하지 않는다. 각 지역의 제형·용법 차이는 앞서 서술한 대로 국내 임상 적용 시 함께 고려해야 한다.*
