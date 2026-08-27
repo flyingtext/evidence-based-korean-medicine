@@ -89,7 +89,7 @@
 - 진피(秦皮, Fraxini Cortex) — (작성 예정)
 - 패장(敗醬草, Patriniae Herba) — (작성 예정)
 - 백화사설초(白花蛇舌草, Hedyotidis Herba) — (작성 예정)
-- 웅담(熊膽, Ursi Fel) — (작성 예정)
+- 웅담(熊膽, Ursi Fel) — **작성됨**
 - 백렴(白蘞, Ampelopsis Radix) — (작성 예정)
 - 누로(漏蘆, Rhapontici Radix) — (작성 예정)
 - 산자고(山慈姑, Cremastrae Pseudobulbus) — (작성 예정)
