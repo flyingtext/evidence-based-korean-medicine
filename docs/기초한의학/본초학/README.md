@@ -2,7 +2,7 @@
 
 약재·단미재료 문서. 한의과대학 교과서적 표준 명칭(한글 + 한자)을 사용한다. 파일명 예: `인삼(人蔘).md`
 
-**목차 구성 원칙**: 아래 목차는 한의과대학 공통 본초학 교재(영림사 본초학)의 효능별 분류 체계(해표약解表藥부터 외용약外用藥까지 20개 대분류)를 그대로 따라 구성했다. 각 분류 아래 기존 작성 문서를 매칭하고, 해당 분류의 대표 본초 중 미작성 항목은 "(작성 예정)"으로 병기해 교과서 목차 대비 누락을 확인할 수 있게 했다. 한 본초가 여러 효능을 겸하는 경우(예: 작약 — 보혈약/청열량혈약, 지황 — 청열량혈약/보혈약) 주된 분류에 배치하고 겸하는 분류에는 텍스트로 교차 표기한다.
+**목차 구성 원칙** : 아래 목차는 한의과대학 공통 본초학 교재(영림사 본초학)의 효능별 분류 체계(해표약解表藥부터 외용약外用藥까지 20개 대분류)를 그대로 따라 구성했다. 각 분류 아래 기존 작성 문서를 매칭하고, 해당 분류의 대표 본초 중 미작성 항목은 "(작성 예정)"으로 병기해 교과서 목차 대비 누락을 확인할 수 있게 했다. 한 본초가 여러 효능을 겸하는 경우(예: 작약 — 보혈약/청열량혈약, 지황 — 청열량혈약/보혈약) 주된 분류에 배치하고 겸하는 분류에는 텍스트로 교차 표기한다.
 
 ## 1. 해표약(解表藥, Exterior-Releasing Herbs)
 
@@ -15,27 +15,27 @@
 - 강활(羌活, Notopterygii Rhizoma) — **작성됨**
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
-- 고본(藁本, Ligustici Rhizoma) — **작성됨**
-- 신이(辛夷, Magnoliae Flos) — **작성됨**
+- 고본(藁本, Ligustici Rhizoma) — ** 작성됨**
+- 신이(辛夷, Magnoliae Flos) — ** 작성됨**
 - 세신(細辛, Asarum)
 - 생강(生薑, Zingiber officinale)
-- 향유(香薷, Elsholtziae Herba) — **작성됨**
+- 향유(香薷, Elsholtziae Herba) — ** 작성됨**
 - 총백(蔥白, Allii Fistulosi Bulbus)
 - 정류(荊芥穗, Schizonepetae Spica) — (작성 예정)
 - 창이자(蒼耳子, Xanthii Fructus)
 
 ### 1-2. 발산풍열약(發散風熱藥, Wind-Heat Dispersing)
 
-- 박하(薄荷, Menthae Herba) — **작성됨**
-- 우방자(牛蒡子, Arctii Fructus) — **작성됨**
-- 상엽(桑葉, Mori Folium) — **작성됨**
-- 국화(菊花, Chrysanthemi Flos) — **작성됨**
+- 박하(薄荷, Menthae Herba) — ** 작성됨**
+- 우방자(牛蒡子, Arctii Fructus) — ** 작성됨**
+- 상엽(桑葉, Mori Folium) — ** 작성됨**
+- 국화(菊花, Chrysanthemi Flos) — ** 작성됨**
 - 갈근(葛根, Puerariae Radix)
 - 시호(柴胡, Bupleuri Radix)
 - 승마(升麻, Cimicifugae Rhizoma)
-- 만형자(蔓荊子, Viticis Fructus) — **작성됨**
-- 담두시(淡豆豉, Sojae Semen Praeparatum) — **작성됨**
-- 선태(蟬蛻, Cicadae Periostracum) — **작성됨**
+- 만형자(蔓荊子, Viticis Fructus) — ** 작성됨**
+- 담두시(淡豆豉, Sojae Semen Praeparatum) — ** 작성됨**
+- 선태(蟬蛻, Cicadae Periostracum) — ** 작성됨**
 - 부평(浮萍, Spirodelae Herba)
 - 목적(木賊, Equiseti Hiemalis Herba)
 
@@ -47,54 +47,54 @@
 - 지모(知母, Anemarrhenae Rhizoma)
 - 노근(蘆根, Phragmitis Rhizoma)
 - 천화분(天花粉, Trichosanthis Radix)
-- 죽엽(竹葉, Lophatheri Herba) — **작성됨**(담죽엽淡竹葉·*Lophatherum gracile*과 기원 식물이 다름을 문서 서두에서 구분)
+- 죽엽(竹葉, Lophatheri Herba) — ** 작성됨**(담죽엽淡竹葉·*Lophatherum gracile*과 기원 식물이 다름을 문서 서두에서 구분)
 - 치자(梔子, Gardenia)
 - 하고초(夏枯草, Prunellae Spica)
 - 담죽엽(淡竹葉, Lophatheri Herba) — (작성 예정)
 - 밀몽화(密蒙花, Buddlejae Flos)
 - 청상자(靑箱子, Celosiae Semen) — **작성됨**
-- 괴각(槐角, Sophorae Fructus) — **작성됨**
+- 괴각(槐角, Sophorae Fructus) — ** 작성됨**
 
 ### 2-2. 청열조습약(淸熱燥濕藥, Heat-Clearing Damp-Drying)
 
 - 황금(黃芩, Scutellariae Radix)
 - 황백(黃柏, Phellodendri Cortex)
 - 황련(黃連, Coptidis Rhizoma)
-- 용담초(龍膽草, Gentianae Radix) — **작성됨**
-- 고삼(苦蔘, Sophorae Flavescentis Radix) — **작성됨**
-- 백선피(白鮮皮, Dictamni Cortex) — **작성됨**
-- 대두황권(大豆黃卷, Sojae Semen Germinatum) — **작성됨**
+- 용담초(龍膽草, Gentianae Radix) — ** 작성됨**
+- 고삼(苦蔘, Sophorae Flavescentis Radix) — ** 작성됨**
+- 백선피(白鮮皮, Dictamni Cortex) — ** 작성됨**
+- 대두황권(大豆黃卷, Sojae Semen Germinatum) — ** 작성됨**
 
 ### 2-3. 청열량혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
 
-- 서각/수우각(犀角/水牛角, Bubali Cornu) — **작성됨**
-- 지황(地黃, Rehmannia) — 생지황·숙지황 하위 표제어 포함 **작성됨**(겸: 보혈약)
+- 서각/수우각(犀角/水牛角, Bubali Cornu) — ** 작성됨**
+- 지황(地黃, Rehmannia) — 생지황·숙지황 하위 표제어 포함 ** 작성됨**(겸: 보혈약)
 - 현삼(玄蔘, Scrophularia buergeriana) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
 - 목단피(牡丹皮, Moutan Cortex)
-- 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
-- 자초(紫草, Lithospermi Radix) — **작성됨**
+- 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 ** 작성됨**
+- 자초(紫草, Lithospermi Radix) — ** 작성됨**
 
 ### 2-4. 청열해독약(淸熱解毒藥, Heat-Toxin Clearing)
 
 - 금은화(金銀花, Lonicerae Flos)
 - 연교(連翹, Forsythia)
-- 포공영(蒲公英, Taraxaci Herba) — (작성 예정)
-- 자화지정(紫花地丁, Violae Herba) — **작성됨**
+- 포공영(蒲公英, Taraxaci Herba) — ** 작성됨**
+- 자화지정(紫花地丁, Violae Herba) — ** 작성됨**
 - 대청엽(大靑葉, Isatidis Folium)
 - 판람근(板藍根, Isatidis Radix)
 - 청대(靑黛, Indigo Pulverata Levis)
-- 우황(牛黃, Bovis Calculus) — **작성됨**
+- 우황(牛黃, Bovis Calculus) — ** 작성됨**
 - 마치현(馬齒莧, Portulacae Herba) — (작성 예정)
 - 백두옹(白頭翁, Pulsatillae Radix) — (작성 예정)
-- 진피(秦皮, Fraxini Cortex) — **작성됨**
+- 진피(秦皮, Fraxini Cortex) — ** 작성됨**
 - 패장(敗醬草, Patriniae Herba) — (작성 예정)
 - 백화사설초(白花蛇舌草, Hedyotidis Herba) — (작성 예정)
-- 웅담(熊膽, Ursi Fel) — **작성됨**
-- 백렴(白蘞, Ampelopsis Radix) — (작성 예정)
+- 웅담(熊膽, Ursi Fel) — ** 작성됨**
+- 백렴(白蘞, Ampelopsis Radix) — ** 작성됨**
 - 누로(漏蘆, Rhapontici Radix) — (작성 예정)
-- 산자고(山慈姑, Cremastrae Pseudobulbus) — **작성됨**
+- 산자고(山慈姑, Cremastrae Pseudobulbus) — ** 작성됨**
 - 녹두(綠豆, Phaseoli Radiati Semen) — (작성 예정)
-- 위릉채(葳靈菜) — **작성됨**
+- 위릉채(葳靈菜) — ** 작성됨**
 - 야국화(野菊花, Chrysanthemi Indici Flos) — (작성 예정)
 - 인동등(忍冬藤, Lonicerae Caulis) — (작성 예정)
 - 조휴(蚤休, Paridis Rhizoma) — (작성 예정)
@@ -106,18 +106,18 @@
 
 ### 2-5. 청허열약(淸虛熱藥, Deficiency-Heat Clearing)
 
-- 청호(靑蒿, Artemisiae Annuae Herba) — **작성됨**
-- 백미(白薇, Cynanchi Atrati Radix) — (작성 예정)
-- 지골피(地骨皮, Lycii Cortex) — 구기자(枸杞子) 문서에서 하위 표제어로 포함 **작성됨**
-- 은시호(銀柴胡, Stellariae Radix) — **작성됨**
+- 청호(靑蒿, Artemisiae Annuae Herba) — ** 작성됨**
+- 백미(白薇, Cynanchi Atrati Radix)
+- 지골피(地骨皮, Lycii Cortex) — 구기자(枸杞子) 문서에서 하위 표제어로 포함 ** 작성됨**
+- 은시호(銀柴胡, Stellariae Radix) — ** 작성됨**
 - 호황련(胡黃連, Picrorhizae Rhizoma) — (작성 예정)
 
 ## 3. 사하약(瀉下藥, Purgative Herbs)
 
 ### 3-1. 공하약(攻下藥)
 
-- 대황(大黃, Rhei Radix et Rhizoma) — **작성됨**(파일명: `대황(大黃, Rhei Rhizoma).md`)
-- 망초(芒硝, Natrii Sulfas) — (작성 예정)
+- 대황(大黃, Rhei Radix et Rhizoma) — ** 작성됨**(파일명: `대황(大黃, Rhei Rhizoma).md`)
+- 망초(芒硝, Natrii Sulfas) — ** 작성됨**
 - 노회(蘆薈, Aloe) — (작성 예정)
 
 ### 3-2. 윤하약(潤下藥)
@@ -181,7 +181,7 @@
 
 ### 6-1. 이수퇴종약(利水退腫藥)
 
-- 복령(茯苓, Poria) — 적복령·복신 하위 표제어 포함 **작성됨**
+- 복령(茯苓, Poria) — 적복령·복신 하위 표제어 포함 ** 작성됨**
 - 저령(猪苓, Polyporus) — (작성 예정)
 - 택사(澤瀉, Alismatis Rhizoma)
 - 의이인(薏苡仁, Coicis Semen) — (작성 예정)
@@ -212,7 +212,7 @@
 - 부자(附子, Aconiti Lateralis Radix Praeparata)
 - 천오두(川烏頭, Aconiti Radix) — (작성 예정)
 - 건강(乾薑, Zingiberis Rhizoma)
-- 육계(肉桂, Cinnamomi Cortex) — 계지(桂枝) 문서에서 하위 표제어로 포함 **작성됨**
+- 육계(肉桂, Cinnamomi Cortex) — 계지(桂枝) 문서에서 하위 표제어로 포함 ** 작성됨**
 - 오수유(吳茱萸, Evodiae Fructus) — (작성 예정)
 - 촉초(蜀椒, Zanthoxyli Pericarpium) — (작성 예정)
 - 필발(蓽茇, Piperis Longi Fructus) — (작성 예정)
@@ -456,8 +456,8 @@
 ### 17-3. 보혈약(補血藥)
 
 - 당귀(當歸, Angelica sinensis)
-- 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 **작성됨**
-- 백작약(白芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**(겸: 청열량혈 — 적작약)
+- 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 ** 작성됨**
+- 백작약(白芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 ** 작성됨**(겸: 청열량혈 — 적작약)
 - 하수오(何首烏, Polygonum multiflorum)
 - 아교(阿膠, Asini Corii Colla) — (작성 예정)
 - 용안육(龍眼肉, Longan Arillus) — (작성 예정)
