@@ -12,9 +12,9 @@ PubMed · Crossref · KCI(한국학술지인용색인)의 논문 데이터를 AI
 > 운영 원칙: 근거 우선 · 출처 명시 · AI 생성물 명시 · 과장 금지
 > (자세한 규칙은 AGENTS.md 참조)
 
-**운영자** : 윤지현 (flyingtext@nate.com)
+**운영자**: 윤지현 (flyingtext@nate.com)
 
-**저장소** : [github.com/flyingtext/evidence-based-korean-medicine](https://github.com/flyingtext/evidence-based-korean-medicine)
+**저장소**: [github.com/flyingtext/evidence-based-korean-medicine](https://github.com/flyingtext/evidence-based-korean-medicine)
 
 > 내용상 오류를 발견하신 경우 운영자에게 이메일(flyingtext@nate.com)로 알려주시면 신속히 수정하겠습니다.
 

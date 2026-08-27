@@ -86,7 +86,7 @@
 - 우황(牛黃, Bovis Calculus) — **작성됨**
 - 마치현(馬齒莧, Portulacae Herba) — (작성 예정)
 - 백두옹(白頭翁, Pulsatillae Radix) — (작성 예정)
-- 진피(秦皮, Fraxini Cortex) — (작성 예정)
+- 진피(秦皮, Fraxini Cortex) — **작성됨**
 - 패장(敗醬草, Patriniae Herba) — (작성 예정)
 - 백화사설초(白花蛇舌草, Hedyotidis Herba) — (작성 예정)
 - 웅담(熊膽, Ursi Fel) — **작성됨**
@@ -116,7 +116,7 @@
 
 ### 3-1. 공하약(攻下藥)
 
-- 대황(大黃, Rhei Radix et Rhizoma) — **작성됨** (파일명: `대황(大黃, Rhei Rhizoma).md`)
+- 대황(大黃, Rhei Radix et Rhizoma) — **작성됨**(파일명: `대황(大黃, Rhei Rhizoma).md`)
 - 망초(芒硝, Natrii Sulfas) — (작성 예정)
 - 노회(蘆薈, Aloe) — (작성 예정)
 

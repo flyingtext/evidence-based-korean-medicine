@@ -234,5 +234,5 @@ graph TD
 [^53]: The role of acupuncture in managing hyperhidrosis and vasomotor sweating: Evidence, mechanisms, and gaps. Lu G 외. _Complementary therapies in medicine_. 2026-05. [문헌 고찰] [DOI 10.1016/j.ctim.2026.103337](https://doi.org/10.1016/j.ctim.2026.103337) [PMID 41765151](https://pubmed.ncbi.nlm.nih.gov/41765151/) — 안면홍조 대비 원발성 다한증에 대한 침 치료 근거의 격차 지적.
 [^56]: Multicenter study of the frequency of contact allergy to gold. Lee AY 외. _Contact dermatitis_. 2001-10. [관찰연구] [DOI 10.1034/j.1600-0536.2001.450404.x](https://doi.org/10.1034/j.1600-0536.2001.450404.x) [PMID 11683831](https://pubmed.ncbi.nlm.nih.gov/11683831/) — 한국인 습진 환자의 금 접촉 알레르기 빈도(3.1%) 조사, 금침 안전성 참고자료.
 
-**고전 인용 출처** : 『黃帝內經素問』(五藏生成篇, 咳論, 皮部論), 『靈樞』(經脈, 本藏), 『難經』(四十難), 『醫學入門』, 『類經』.
-**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
+**고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 咳論, 皮部論), 『靈樞』(經脈, 本藏), 『難經』(四十難), 『醫學入門』, 『類經』.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.

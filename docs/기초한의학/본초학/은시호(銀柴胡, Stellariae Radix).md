@@ -2,9 +2,9 @@
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-27
 
-**시호(柴胡, Bupleuri Radix)와의 감별(강제)** : 은시호(銀柴胡)는 이름에 "시호"가 들어가지만 시호(柴胡, *Bupleurium* 속 산형과 식물)와는 과(科)·속(屬)이 전혀 다른 별개의 본초다. 은시호의 기원 식물은 석죽과(Caryophyllaceae) 대나물속의 근연 식물인 *Stellaria dichotoma* L. var. *lanceolata* Bge.(중국명 인채호菥蓂胡·번루蘩蔞 계열, 약재명 은시호 또는 은채호)이며,[^2][^5] 시호처럼 화해소양(和解少陽)·소간해울(疏肝解鬱) 효능을 갖지 않는다. 시호는 발산풍열약(發散風熱藥)에 속하는 반면, 은시호는 청허열약(淸虛熱藥)에 속하여 음허발열(陰虛發熱)·골증조열(骨蒸潮熱)을 다스리는 전혀 다른 효능군의 본초다.[교과서적 근거] 두 본초는 처방 조제·한약재 유통 과정에서 이름의 유사성 때문에 혼동될 위험이 있으므로, 반드시 학명(*Stellaria dichotoma* vs *Bupleurum* spp.)과 기원 과(科)를 확인해 감별해야 한다.
+**시호(柴胡, Bupleuri Radix)와의 감별(강제)**: 은시호(銀柴胡)는 이름에 "시호"가 들어가지만 시호(柴胡, *Bupleurium* 속 산형과 식물)와는 과(科)·속(屬)이 전혀 다른 별개의 본초다. 은시호의 기원 식물은 석죽과(Caryophyllaceae) 대나물속의 근연 식물인 *Stellaria dichotoma* L. var. *lanceolata* Bge.(중국명 인채호菥蓂胡·번루蘩蔞 계열, 약재명 은시호 또는 은채호)이며,[^2][^5] 시호처럼 화해소양(和解少陽)·소간해울(疏肝解鬱) 효능을 갖지 않는다. 시호는 발산풍열약(發散風熱藥)에 속하는 반면, 은시호는 청허열약(淸虛熱藥)에 속하여 음허발열(陰虛發熱)·골증조열(骨蒸潮熱)을 다스리는 전혀 다른 효능군의 본초다.[교과서적 근거] 두 본초는 처방 조제·한약재 유통 과정에서 이름의 유사성 때문에 혼동될 위험이 있으므로, 반드시 학명(*Stellaria dichotoma* vs *Bupleurum* spp.)과 기원 과(科)를 확인해 감별해야 한다.
 
-**근거 수준에 대한 사전 고지(정직한 명시, 강제)** : 은시호는 임상 연구가 매우 드문 니치(niche) 본초다. `med.symbolicinfo.com` 검색 API를 "Stellaria dichotoma", "Stellaria dichotoma var. lanceolata", "Stellariae Radix", "yinchaihu", "銀柴胡", "Dichotomine" 등 다수의 동의어·영문 표기·한자 표기로 반복 검색한 결과, 기원 식물이 명확히 *Stellaria dichotoma*(var. *lanceolata*)로 확인되고 인간 대상 임상 연구이거나 동물·세포가 아닌 약재 자체(유전체·성분·품질) 연구인 논문은 총** 8편** 에 그쳤다. 목표치인 50~80편에 크게 못 미치는 수치이며, 이는 은시호가 국내외에서 대규모 임상시험 대상이 된 사례가 거의 없는 극소수 연구 본초이기 때문이다. 검색 과정에서 확인된 은시호 관련 논문 중 항염증·항비만·항알츠하이머 등 약리 효과를 보고한 다수의 실험연구는 마우스(C57BL/6 비만 모델), 예쁜꼬마선충(*Caenorhabditis elegans*), 미세아교세포주(BV2) 등** 동물·세포 대상 연구** 였으므로, 인간 대상 연구가 아니라는 원칙에 따라 본문·각주 인용에서 제외하였다(문서 말미 비고 참조). 또한 검색어 "Stellariae Radix"로 확보된 논문 중 다수는 명칭이 유사한** 태자삼(太子蔘, *Pseudostellaria heterophylla*, Radix Pseudostellariae)** 에 관한 것으로, 은시호와는 완전히 다른 별개의 보기약(補氣藥) 본초이므로 모두 인용 대상에서 배제하였다. 이처럼 은시호는 (1) 시호와의 명칭 혼동, (2) 태자삼과의 검색어 혼동이라는 이중의 감별 함정을 지닌 본초임을 문서 전체에서 유념해야 한다.
+**근거 수준에 대한 사전 고지(정직한 명시, 강제)**: 은시호는 임상 연구가 매우 드문 니치(niche) 본초다. `med.symbolicinfo.com` 검색 API를 "Stellaria dichotoma", "Stellaria dichotoma var. lanceolata", "Stellariae Radix", "yinchaihu", "銀柴胡", "Dichotomine" 등 다수의 동의어·영문 표기·한자 표기로 반복 검색한 결과, 기원 식물이 명확히 *Stellaria dichotoma*(var. *lanceolata*)로 확인되고 인간 대상 임상 연구이거나 동물·세포가 아닌 약재 자체(유전체·성분·품질) 연구인 논문은 총**8편**에 그쳤다. 목표치인 50~80편에 크게 못 미치는 수치이며, 이는 은시호가 국내외에서 대규모 임상시험 대상이 된 사례가 거의 없는 극소수 연구 본초이기 때문이다. 검색 과정에서 확인된 은시호 관련 논문 중 항염증·항비만·항알츠하이머 등 약리 효과를 보고한 다수의 실험연구는 마우스(C57BL/6 비만 모델), 예쁜꼬마선충(*Caenorhabditis elegans*), 미세아교세포주(BV2) 등**동물·세포 대상 연구**였으므로, 인간 대상 연구가 아니라는 원칙에 따라 본문·각주 인용에서 제외하였다(문서 말미 비고 참조). 또한 검색어 "Stellariae Radix"로 확보된 논문 중 다수는 명칭이 유사한**태자삼(太子蔘, *Pseudostellaria heterophylla*, Radix Pseudostellariae)**에 관한 것으로, 은시호와는 완전히 다른 별개의 보기약(補氣藥) 본초이므로 모두 인용 대상에서 배제하였다. 이처럼 은시호는 (1) 시호와의 명칭 혼동, (2) 태자삼과의 검색어 혼동이라는 이중의 감별 함정을 지닌 본초임을 문서 전체에서 유념해야 한다.
 
 ## 제1편 개요·성미귀경·효능·포제
 
@@ -60,7 +60,7 @@
 
 ### 2-3. 약리 효능에 대한 근거 공백(정직한 명시)
 
-**임상가가 반드시 인지해야 할 사항** : 검색으로 확인된 은시호(Stellaria dichotoma 계열) 관련 약리 실험 중 항염증(마이코박테리아 감염 보호)·항비만·항알츠하이머(자가포식 활성화, 신경염증 억제) 효과를 보고한 연구들이 존재하나, 이들은 모두 마우스·예쁜꼬마선충·미세아교세포주 등** 동물 또는 세포 모델** 을 이용한 전임상 실험으로, 저장소의 인간 대상 근거 우선 원칙에 따라 본 문서의 각주 인용 대상에서 제외하였다(문서 말미 비고 참조). 즉, 현재까지 확인된 문헌 범위 내에서는** 은시호 단독의 인체 대상 약리·임상 효능 검증 연구가 존재하지 않는다.** 이는 은시호가 청허열약으로서 오랜 임상 경험적 사용 근거는 있으나, 현대적 인체 임상시험으로 뒷받침되는 근거 수준은 아직 낮다는 것을 의미하며, 임상 활용 시 이 점을 환자·동료 임상가에게 정직하게 공유할 필요가 있다. 이 근거 공백은 "효능이 없다"는 의미가 아니라 "아직 인체 대상으로 체계적으로 검증되지 않았다"는 의미로 해석해야 하며, 향후 은시호 단독 또는 청골산(淸骨散) 등 배합 처방 수준의 인체 대상 임상 연구가 필요하다.
+**임상가가 반드시 인지해야 할 사항**: 검색으로 확인된 은시호(Stellaria dichotoma 계열) 관련 약리 실험 중 항염증(마이코박테리아 감염 보호)·항비만·항알츠하이머(자가포식 활성화, 신경염증 억제) 효과를 보고한 연구들이 존재하나, 이들은 모두 마우스·예쁜꼬마선충·미세아교세포주 등**동물 또는 세포 모델**을 이용한 전임상 실험으로, 저장소의 인간 대상 근거 우선 원칙에 따라 본 문서의 각주 인용 대상에서 제외하였다(문서 말미 비고 참조). 즉, 현재까지 확인된 문헌 범위 내에서는**은시호 단독의 인체 대상 약리·임상 효능 검증 연구가 존재하지 않는다.**이는 은시호가 청허열약으로서 오랜 임상 경험적 사용 근거는 있으나, 현대적 인체 임상시험으로 뒷받침되는 근거 수준은 아직 낮다는 것을 의미하며, 임상 활용 시 이 점을 환자·동료 임상가에게 정직하게 공유할 필요가 있다. 이 근거 공백은 "효능이 없다"는 의미가 아니라 "아직 인체 대상으로 체계적으로 검증되지 않았다"는 의미로 해석해야 하며, 향후 은시호 단독 또는 청골산(淸骨散) 등 배합 처방 수준의 인체 대상 임상 연구가 필요하다.
 
 ## 제3편 배오(配伍) 원리
 
@@ -114,7 +114,7 @@
 
 ### 5-2. 안전성 — 위품 감별의 중요성
 
-은시호는 성미가 감(甘)·미한(微寒)으로 비교적 온화한 본초로 다루어지며, 문헌상 중대한 독성 보고는 확인되지 않았다.[교과서적 근거] 다만 임상적으로 가장 중요한 안전성 이슈는** 위품(僞品) 혼용 문제** 다. 석죽과 내 여러 속·종의 식물이 "은시호" 명칭으로 유통될 수 있어, UV·IR 스펙트럼 분석 연구는 정품인 *Stellaria dichotoma* var. *lanceolata*를 다른 근연 식물과 명확히 구분해야 할 필요성을 제기하였다.[^5] 정확한 기원이 확인되지 않은 은시호 약재를 사용할 경우 기대한 청허열 효능을 얻지 못하거나 예상치 못한 성분이 혼입될 위험이 있으므로, 표준화된 생약 감별을 거친 약재를 사용하는 것이 안전성 확보의 핵심이다.[^5][^2]
+은시호는 성미가 감(甘)·미한(微寒)으로 비교적 온화한 본초로 다루어지며, 문헌상 중대한 독성 보고는 확인되지 않았다.[교과서적 근거] 다만 임상적으로 가장 중요한 안전성 이슈는**위품(僞品) 혼용 문제**다. 석죽과 내 여러 속·종의 식물이 "은시호" 명칭으로 유통될 수 있어, UV·IR 스펙트럼 분석 연구는 정품인 *Stellaria dichotoma* var. *lanceolata*를 다른 근연 식물과 명확히 구분해야 할 필요성을 제기하였다.[^5] 정확한 기원이 확인되지 않은 은시호 약재를 사용할 경우 기대한 청허열 효능을 얻지 못하거나 예상치 못한 성분이 혼입될 위험이 있으므로, 표준화된 생약 감별을 거친 약재를 사용하는 것이 안전성 확보의 핵심이다.[^5][^2]
 
 ### 5-3. 태자삼(太子蔘)과의 처방 조제 오인 주의
 
@@ -185,7 +185,7 @@
 
 **Q6. 은시호를 사용할 때 주의할 안전성 문제가 있나요?**
 
-가장 중요한 문제는 독성보다** 위품(僞品) 혼용** 입니다. 석죽과 내 여러 근연 식물이 은시호로 오인·유통될 수 있어, 기원이 정확히 확인된 약재를 사용하는 것이 중요합니다.[^5] 인체 대상 독성 연구 자체가 부족하므로, 중대한 부작용이 없다는 서술은 오랜 경험적 사용에 근거한 것이지 현대적 독성학 검증 결과가 아님을 유의해야 합니다.
+가장 중요한 문제는 독성보다**위품(僞品) 혼용**입니다. 석죽과 내 여러 근연 식물이 은시호로 오인·유통될 수 있어, 기원이 정확히 확인된 약재를 사용하는 것이 중요합니다.[^5] 인체 대상 독성 연구 자체가 부족하므로, 중대한 부작용이 없다는 서술은 오랜 경험적 사용에 근거한 것이지 현대적 독성학 검증 결과가 아님을 유의해야 합니다.
 
 **Q7. 은시호로 소아의 만성 발열을 치료할 수 있나요?**
 
@@ -197,9 +197,9 @@
 
 ---
 
-본 문서는 고전 인용 출처로 『증치준승(證治準繩)』(청골산 수재)·『본초강목습유(本草綱目拾遺)』(은시호 원식물 고증)·한의과대학 본초학 교재(청허열약 분류)를 참고하였다. 원전과 교과서에 수재된 은시호의 전통적 성미귀경·효능·배오 이론을 기초로 서술하되, 현대 유전체·성분·품질 연구 근거를 결합하여 작성하였다. 검색으로 확보한 관련 논문 중 인간 대상 연구가 아닌 동물·세포 실험 연구(마우스 비만 모델, 예쁜꼬마선충·미세아교세포주를 이용한 항알츠하이머·항염증 실험, 마이코박테리아 감염 마우스 모델 등)는 본문·각주 인용 대상에서 제외하였으며(아래 비고 참조), "Stellariae Radix" 검색어로 확보된 문헌 중 다수는 명칭이 유사하나 완전히 다른 본초인 태자삼(太子蔘, Radix Pseudostellariae) 관련 연구로 확인되어 모두 배제하였다. 은시호는 극소수의 유전체·성분·품질 연구만 확인되는 니치 본초로, 서로 다른 DOI/PMID 기준 총** 8편** 의 논문을 인용하였다. 이는 저장소의 본초·경혈 표제어 목표치(50~80편)에 크게 미달하는 수준이며, 이는 검색 소홀이 아니라 은시호에 대한 현존 인체 대상·약재 자체 연구 문헌 자체가 극히 제한적이기 때문임을 정직하게 밝힌다.
+본 문서는 고전 인용 출처로 『증치준승(證治準繩)』(청골산 수재)·『본초강목습유(本草綱目拾遺)』(은시호 원식물 고증)·한의과대학 본초학 교재(청허열약 분류)를 참고하였다. 원전과 교과서에 수재된 은시호의 전통적 성미귀경·효능·배오 이론을 기초로 서술하되, 현대 유전체·성분·품질 연구 근거를 결합하여 작성하였다. 검색으로 확보한 관련 논문 중 인간 대상 연구가 아닌 동물·세포 실험 연구(마우스 비만 모델, 예쁜꼬마선충·미세아교세포주를 이용한 항알츠하이머·항염증 실험, 마이코박테리아 감염 마우스 모델 등)는 본문·각주 인용 대상에서 제외하였으며(아래 비고 참조), "Stellariae Radix" 검색어로 확보된 문헌 중 다수는 명칭이 유사하나 완전히 다른 본초인 태자삼(太子蔘, Radix Pseudostellariae) 관련 연구로 확인되어 모두 배제하였다. 은시호는 극소수의 유전체·성분·품질 연구만 확인되는 니치 본초로, 서로 다른 DOI/PMID 기준 총**8편**의 논문을 인용하였다. 이는 저장소의 본초·경혈 표제어 목표치(50~80편)에 크게 미달하는 수준이며, 이는 검색 소홀이 아니라 은시호에 대한 현존 인체 대상·약재 자체 연구 문헌 자체가 극히 제한적이기 때문임을 정직하게 밝힌다.
 
-**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준
 
 [^1]: Chromosome-level genome assembly of Stellaria dichotoma reveals extensive transposable element proliferation in a traditional Chinese medicinal plant. Xiao-Yan Gan 외. _Frontiers in Plant Science_. 2026-05-04. [실험연구] [DOI 10.3389/fpls.2026.1782751](https://doi.org/10.3389/fpls.2026.1782751) — 은시호의 최초 염색체 수준 참조 게놈 지도 구축 연구로, 은시호를 "소아 발열성 질환 치료에 사용되는 전통 약재"로 명시하며 유효 성분 생합성 기전 규명의 유전적 기초를 제공.
 [^2]: [Research on the originol plant Stellaria dichotoma var. Lanceolata in the ben-cao pharmaopeia]. Teng J. _Zhong yao tong bao (Beijing, China : 1981)_. 1985-04. [기타] [PMID 2933159](https://pubmed.ncbi.nlm.nih.gov/2933159/) — 원전 본초서에 기재된 은시호 원식물이 Stellaria dichotoma var. lanceolata임을 규명한 본초학적 고증 연구.
@@ -209,4 +209,4 @@
 [^6]: Comparative metabolomics provides novel insights into correlation between dominant habitat factors and constituents of Stellaria Radix (Stellaria dichotoma L. var. lanceolata Bge.). Li Z 외. _Frontiers in plant science_. 2022. [실험연구] [DOI 10.3389/fpls.2022.1035712](https://doi.org/10.3389/fpls.2022.1035712) [PMID 36507406](https://pubmed.ncbi.nlm.nih.gov/36507406/) — 토양 질감·pH·염분 함량 등 서식지 요인이 은시호 대사체 구성과 품질을 결정함을 대사체학적으로 증명.
 [^7]: The Impact of Growth Years on the Medicinal Material Characteristics and Metabolites of Stellaria dichotoma L. var. lanceolata Bge. Reveals the Optimal Harvest Age. Li Z 외. _Plants (Basel, Switzerland)_. 2023-06-12. [실험연구] [DOI 10.3390/plants12122286](https://doi.org/10.3390/plants12122286) [PMID 37375910](https://pubmed.ncbi.nlm.nih.gov/37375910/) — 3년생 은시호에서 건조율·메탄올 추출물·총 스테롤·총 플라보노이드 함량이 최고치를 보여 최적 수확 시기를 제시하고 루틴·쿠쿠르비타신 E를 품질 지표로 제안.
 [^8]: Metabolomic Analysis Reveals the Metabolic Diversity of Wild and Cultivated Stellaria Radix (Stellaria dichotoma L. var. lanceolata Bge.). Li Z 외. _Plants (Basel, Switzerland)_. 2023-02-09. [실험연구] [DOI 10.3390/plants12040775](https://doi.org/10.3390/plants12040775) [PMID 36840123](https://pubmed.ncbi.nlm.nih.gov/36840123/) — 야생 은시호가 재배 은시호보다 총 스테롤·총 플라보노이드 함량이 유의하게 높고 97종의 대사체에서 유의한 차이가 있음을 확인.
-**비고(각주 미인용 근거 목록, 본문 인용 대상 아님)** : 검색으로 확인되었으나 동물·세포 대상 연구여서 본문·각주 인용에서 제외한 문헌: Bae SJ 외, "Protective effects of a traditional herbal extract from Stellaria dichotoma var. lanceolata against Mycobacterium abscessus infections", PloS one, 2018(감염 마우스 모델); Li Y 외, "Radix Stellariae extract prevents high-fat-diet-induced obesity in C57BL/6 mice", PeerJ, 2017(비만 마우스 모델); Long T 외, "Protective effects of Radix Stellariae extract against Alzheimer's disease via autophagy activation in Caenorhabditis elegans and cellular models", Biomedicine & Pharmacotherapy, 2023(예쁜꼬마선충·세포 모델); Sun M 외, "Structural Characterization and Anti-Alzheimer's Disease Effect of Polysaccharides From Stellariae Radix", Food Science & Nutrition, 2026(세포·전임상 모델); Zhou X 외, "Dichotomine B Attenuates Neuroinflammatory Responses by Regulating TLR4/MyD88-mTOR Signaling Pathway in BV2 Cells", Neurochemical Research, 2023(마우스 미세아교세포주 BV2).
+**비고(각주 미인용 근거 목록, 본문 인용 대상 아님)**: 검색으로 확인되었으나 동물·세포 대상 연구여서 본문·각주 인용에서 제외한 문헌: Bae SJ 외, "Protective effects of a traditional herbal extract from Stellaria dichotoma var. lanceolata against Mycobacterium abscessus infections", PloS one, 2018(감염 마우스 모델); Li Y 외, "Radix Stellariae extract prevents high-fat-diet-induced obesity in C57BL/6 mice", PeerJ, 2017(비만 마우스 모델); Long T 외, "Protective effects of Radix Stellariae extract against Alzheimer's disease via autophagy activation in Caenorhabditis elegans and cellular models", Biomedicine & Pharmacotherapy, 2023(예쁜꼬마선충·세포 모델); Sun M 외, "Structural Characterization and Anti-Alzheimer's Disease Effect of Polysaccharides From Stellariae Radix", Food Science & Nutrition, 2026(세포·전임상 모델); Zhou X 외, "Dichotomine B Attenuates Neuroinflammatory Responses by Regulating TLR4/MyD88-mTOR Signaling Pathway in BV2 Cells", Neurochemical Research, 2023(마우스 미세아교세포주 BV2).

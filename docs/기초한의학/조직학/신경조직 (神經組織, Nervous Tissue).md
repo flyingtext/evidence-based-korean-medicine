@@ -291,5 +291,5 @@
 [^66]: Severe Ulnar Nerve Injury After Bee Venom Acupuncture at a Traditional Korean Medicine Clinic: A Case Report. Park JS 외. _Annals of rehabilitation medicine_. 2017-06. [증례 보고, 1명] [DOI 10.5535/arm.2017.41.3.483](https://doi.org/10.5535/arm.2017.41.3.483) [PMID 28758087](https://pubmed.ncbi.nlm.nih.gov/28758087/) — 봉침 시술 시 척골신경 인근 자침으로 심각한 신경 손상이 발생할 수 있음을 시사.
 [^67]: Impact of HbA1c variability and time-in-range fluctuations on large and small nerve fiber dysfunction in well-controlled type 2 diabetes: A prospective cohort observational study. Lai YR 외. _Journal of diabetes investigation_. 2025-08. [관찰연구, 82명] [DOI 10.1111/jdi.70079](https://doi.org/10.1111/jdi.70079) [PMID 40396765](https://pubmed.ncbi.nlm.nih.gov/40396765/) — 혈당 변동성이 높을 경우 대·소신경섬유 기능 부전과 당뇨병성 다발신경병증 위험이 유의하게 증가함을 확인.
 
-**고전 인용 출처** : 『黃帝內經素問』(五藏生成篇, 脈要精微論 등 뇌수·형기 이론 관련 편), 『靈樞』(海論 — 腦爲髓海), 『難經』(신주골생수 관련 논의)
-**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 脈要精微論 등 뇌수·형기 이론 관련 편), 『靈樞』(海論 — 腦爲髓海), 『難經』(신주골생수 관련 논의)
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준

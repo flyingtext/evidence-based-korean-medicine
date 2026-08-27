@@ -269,5 +269,5 @@ graph TD
 [^64]: Activating the vagus nerve-adrenal anti-inflammatory axis to delay aging: A randomized controlled trial protocol. Sun C 외. _Contemporary clinical trials communications_. 2026-06. [임상시험] [DOI 10.1016/j.conctc.2026.101632](https://doi.org/10.1016/j.conctc.2026.101632) [PMID 42005520](https://pubmed.ncbi.nlm.nih.gov/42005520/) — 족삼리 침이 미주신경-부신 항염증 축을 활성화해 노화 지연에 기여할 가능성을 평가하는 설계 연구.
 [^65]: The effects of auricular acupuncture at lung, shenmen, endocrine, adrenal points on adult eczema: a randomized trial. Dieu Thuong Thi Trinh 외. _MedPharmRes_. 2023-03-31. [임상시험] [DOI 10.32895/ump.mpr.7.1.7](https://doi.org/10.32895/ump.mpr.7.1.7) — 폐·신문·내분비·부신 이혈 자극이 성인 습진의 SCORAD·DLQI를 개선.
 
-**고전 인용 출처** : 『黃帝內經素問』(上古天眞論, 陰陽應象大論), 『靈樞』(本神, 決氣), 『難經』(三十六難, 腎爲先天之本), 『景岳全書』(命門論), 『類經』, 『醫學入門』.
-**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
+**고전 인용 출처**: 『黃帝內經素問』(上古天眞論, 陰陽應象大論), 『靈樞』(本神, 決氣), 『難經』(三十六難, 腎爲先天之本), 『景岳全書』(命門論), 『類經』, 『醫學入門』.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.

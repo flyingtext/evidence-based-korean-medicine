@@ -274,5 +274,5 @@
 [^73]: Profiling of Anti-Signal-Recognition Particle Antibodies and Clinical Characteristics in South Korean Patients With Immune-Mediated Necrotizing Myopathy. Kim SH 외. _Journal of clinical neurology_. 2025-01. [관찰연구, 194명] [DOI 10.3988/jcn.2024.0333](https://doi.org/10.3988/jcn.2024.0333) [PMID 39778565](https://pubmed.ncbi.nlm.nih.gov/39778565/) — 한국인 면역매개 괴사성 근병증에서 anti-SRP54 항체 ELISA 검사가 높은 민감도·특이도의 진단 도구임을 확인.
 [^74]: Statin-Associated Immune-Mediated Necrotizing Myopathy: An Underrecognised Cause of Progressive Muscle Weakness in Primary Care. Ong JT 외. _Cureus_. 2026-03. [증례 보고, 1명] [DOI 10.7759/cureus.105830](https://doi.org/10.7759/cureus.105830) [PMID 42037837](https://pubmed.ncbi.nlm.nih.gov/42037837/) — 스타틴 복용 환자에서 전형적 근육통 없이 진행성 근위부 약화만 있어도 면역매개 괴사성 근병증을 의심해야 함을 강조.
 
-**고전 인용 출처** : 『黃帝內經素問』(痿論, 五藏生成篇), 『靈樞』(經筋篇, 本神)
-**문헌 데이터 출처** : [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**고전 인용 출처**: 『黃帝內經素問』(痿論, 五藏生成篇), 『靈樞』(經筋篇, 本神)
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
