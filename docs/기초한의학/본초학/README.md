@@ -45,7 +45,7 @@
 
 - 석고(石膏, Gypsum Fibrosum)
 - 지모(知母, Anemarrhenae Rhizoma)
-- 노근(蘆根, Phragmitis Rhizoma) — (작성 예정)
+- 노근(蘆根, Phragmitis Rhizoma)
 - 천화분(天花粉, Trichosanthis Radix) — (작성 예정)
 - 죽엽(竹葉, Lophatheri Herba) — (작성 예정)
 - 치자(梔子, Gardenia)
