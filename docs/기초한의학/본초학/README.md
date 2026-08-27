@@ -16,7 +16,7 @@
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
 - 고본(藁本, Ligustici Rhizoma) — (작성 예정)
-- 신이(辛夷, Magnoliae Flos) — (작성 예정)
+- 신이(辛夷, Magnoliae Flos) — **작성됨**
 - 세신(細辛, Asarum)
 - 생강(生薑, Zingiber officinale)
 - 향유(香薷, Elsholtziae Herba) — (작성 예정)
