@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""근거 기반 한의학 위키 — RUN.md 워크플로우 자동 실행 스크립트.
+"""근거 기반 한의학 저장소 — RUN.md 워크플로우 자동 실행 스크립트.
 
 RUN.md에 정의된 검증·링크 점검 단계를 순서대로 실행한다.
 작업이 끝날 때마다 이 스크립트를 호출해 품질을 확인한다.
@@ -17,7 +17,7 @@ import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-WIKI_DIR = os.path.join(ROOT, "wiki")
+DOCS_DIR = os.path.join(ROOT, "docs")
 BASE = "https://med.symbolicinfo.com"
 
 
@@ -34,7 +34,7 @@ def step_validate() -> int:
 def step_links() -> int:
     print("\n=== [3/3] 교차 참조(상대 링크) 점검 ===")
     broken = []
-    for root, _, files in os.walk(WIKI_DIR):
+    for root, _, files in os.walk(DOCS_DIR):
         for fn in files:
             if not fn.endswith(".md"):
                 continue
@@ -58,10 +58,10 @@ def step_links() -> int:
 
 
 def step_recent() -> int:
-    """git log 기준으로 wiki/최근업데이트.md를 자동 재생성한다."""
+    """git log 기준으로 docs/최근업데이트.md를 자동 재생성한다."""
     print("\n=== [2/3] 최근 업데이트 문서 자동 재생성 ===")
     out = subprocess.run(
-        ["git", "log", "--format=%ad", "--date=format:%Y-%m-%d %H:%M:%S", "--name-only", "-z", "--", "wiki/"],
+        ["git", "log", "--format=%ad", "--date=format:%Y-%m-%d %H:%M:%S", "--name-only", "-z", "--", "docs/"],
         cwd=ROOT, capture_output=True, text=True,
     )
     if out.returncode != 0:
@@ -77,14 +77,14 @@ def step_recent() -> int:
             continue
         if re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", token):
             date = token
-        elif token.startswith("wiki/") and token.endswith(".md"):
-            rel = token[len("wiki/"):]
+        elif token.startswith("docs/") and token.endswith(".md"):
+            rel = token[len("docs/"):]
             if rel in ("README.md", "최근업데이트.md", "추천순위.md", "_template.md"):
                 continue
             if os.path.basename(rel) == "README.md":
                 continue
             # 현재 존재하는 실제 문서만 포함 (삭제된 옛 구조 제외)
-            if not os.path.exists(os.path.join(WIKI_DIR, rel)):
+            if not os.path.exists(os.path.join(DOCS_DIR, rel)):
                 continue
             entries.append((date, rel))
 
@@ -107,7 +107,7 @@ def step_recent() -> int:
     lines = [
         "# 최근 업데이트 문서",
         "",
-        "근거 기반 한의학 위키에서 가장 최근에 작성·갱신된 문서 목록입니다.",
+        "근거 기반 한의학 저장소에서 가장 최근에 작성·갱신된 문서 목록입니다.",
         "(git 커밋 시각 기준, 최신순)",
         "",
         "## 최근 문서",
@@ -120,7 +120,7 @@ def step_recent() -> int:
         lines.append(f"| {title} | {category(rel)} | {date} |")
     lines.append("")
 
-    target = os.path.join(WIKI_DIR, "최근업데이트.md")
+    target = os.path.join(DOCS_DIR, "최근업데이트.md")
     with open(target, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
     print(f"최근업데이트.md 재생성 완료 ({len(items)}개 문서).")

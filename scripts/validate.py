@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""근거 기반 한의학 위키 — 문서 품질 검증 스크립트.
+"""근거 기반 한의학 저장소 — 문서 품질 검증 스크립트.
 
-wiki/ 아래 마크다운 문서의 링크·근거·표기·기준문서 수준 규칙을 점검한다.
+docs/ 아래 마크다운 문서의 링크·근거·표기·기준문서 수준 규칙을 점검한다.
 사용법:
     python3 scripts/validate.py            # 전체 검증
     python3 scripts/validate.py --fix      # 수정 가능한 항목 자동 수정
@@ -11,7 +11,7 @@ import os
 import re
 import sys
 
-WIKI_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "wiki")
+DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
 
 # 질환 폴더: KCD-8 코드가 본문에 있어야 함
 DISEASE_DIRS = {"4_임상한의학"}
@@ -84,7 +84,7 @@ MIN_CITATIONS_BY_TYPE = {
 
 
 def walk_md():
-    for root, _, files in os.walk(WIKI_DIR):
+    for root, _, files in os.walk(DOCS_DIR):
         for fn in files:
             if fn.endswith(".md"):
                 yield os.path.join(root, fn)
@@ -98,18 +98,18 @@ def check_links(path, content, errors):
             continue
         resolved = os.path.normpath(os.path.join(os.path.dirname(path), target))
         if not os.path.exists(resolved):
-            errors.append(f"[링크] {os.path.relpath(path, WIKI_DIR)} → {target} (없음)")
+            errors.append(f"[링크] {os.path.relpath(path, DOCS_DIR)} → {target} (없음)")
 
 
 def check_kcd(path, content, errors):
-    rel = os.path.relpath(path, WIKI_DIR)
+    rel = os.path.relpath(path, DOCS_DIR)
     if rel.split(os.sep)[0] in DISEASE_DIRS and not rel.endswith("README.md"):
         if not re.search(r"KCD-8", content):
             errors.append(f"[KCD] {rel} — KCD-8 코드가 본문에 없음")
 
 
 def check_standard_terms(path, content, errors):
-    rel = os.path.relpath(path, WIKI_DIR)
+    rel = os.path.relpath(path, DOCS_DIR)
     if rel.endswith("README.md"):
         return
     for term, standard in STANDARD_TERMS.items():
@@ -120,7 +120,7 @@ def check_standard_terms(path, content, errors):
 
 def check_punctuation(path, content, errors):
     """중국어 모점 `。` 잔류 검사."""
-    rel = os.path.relpath(path, WIKI_DIR)
+    rel = os.path.relpath(path, DOCS_DIR)
     if rel.endswith("README.md"):
         return
     count = content.count("。")
@@ -130,7 +130,7 @@ def check_punctuation(path, content, errors):
 
 def check_gold_standard(path, content, errors, warnings):
     """기준 문서 대비 필수 구조 요소 점검 (RUN.md §0-1, §3-5)."""
-    rel = os.path.relpath(path, WIKI_DIR)
+    rel = os.path.relpath(path, DOCS_DIR)
     if rel.endswith("README.md"):
         return
 
@@ -156,7 +156,7 @@ def check_gold_standard(path, content, errors, warnings):
 
 def check_citation_count(path, content, errors, warnings):
     """표제어 유형별 최소 인용 수 검사."""
-    rel = os.path.relpath(path, WIKI_DIR)
+    rel = os.path.relpath(path, DOCS_DIR)
     if rel.endswith("README.md"):
         return
 
