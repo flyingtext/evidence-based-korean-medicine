@@ -4,7 +4,7 @@
 
 ## 기원식물 구분에 대한 서두 고지(강제)
 
-이 문서가 다루는 **담죽엽(淡竹葉)**의 기원식물은 화본과(禾本科, Poaceae)에 속하는 여러해살이 **초본(草本)** 식물인 조릿대풀(*Lophatherum gracile* Brongn., 영명 common lophatherum)이다.[^1][^2] 조릿대풀은 화본과이기는 하나 목본성인 죽아과(竹亞科, Bambusoideae)에는 속하지 않으며, 매년 지상부 줄기가 새로 자라 죽는 초본형 생활사를 가진다는 점에서 진짜 "대나무"와 식물학적으로 뚜렷이 구분된다.[교과서적 근거]
+이 문서가 다루는 **담죽엽(淡竹葉)** 의 기원식물은 화본과(禾本科, Poaceae)에 속하는 여러해살이 **초본(草本)** 식물인 조릿대풀(*Lophatherum gracile* Brongn., 영명 common lophatherum)이다.[^1][^2] 조릿대풀은 화본과이기는 하나 목본성인 죽아과(竹亞科, Bambusoideae)에는 속하지 않으며, 매년 지상부 줄기가 새로 자라 죽는 초본형 생활사를 가진다는 점에서 진짜 "대나무"와 식물학적으로 뚜렷이 구분된다.[교과서적 근거]
 
 이와 달리 이 저장소에 별도로 수재된 **죽엽(竹葉)** 문서는 담죽(淡竹, *Phyllostachys nigra* var. *henonis*)이나 왕대(*Phyllostachys reticulata*) 등 화본과 죽아과에 속하는 다년생 목본 대나무의 어린 잎을 다룬다. 두 본초는 모두 청열(淸熱) 범주에 속하고 이수(利水) 작용을 겸한다는 공통점 때문에 임상·유통 현장에서 자주 혼용·대용되어 왔으나, 기원 식물의 속(屬)이 서로 다른 별개의 본초로 다루는 것이 본초학의 원칙이다.
 
@@ -14,13 +14,13 @@
 
 이 문서는 `scripts/search.py`를 이용해 "Lophatherum gracile", "Lophatherum", "淡竹葉", "담죽엽", "Herba Lophatheri", "bamboo leaf", "bamboo leaf extract", "orientin", "vitexin", "orientin vitexin", "isoorientin", "flavonoid C-glycoside antioxidant", "Yin Qiao San", "Yinqiaosan", "Eunkyosan", "Maxing Shigan", "Zhuye Shigao", "Xiao Ji Yin Zi", "Daochi San", "Ganmao Qingre", "wind-heat common cold randomized controlled trial", "recurrent aphthous stomatitis Chinese herbal medicine", "febrile seizure herbal medicine children", "insomnia heart fire Chinese medicine", "pharyngitis Chinese herbal medicine randomized", "Lophatherum polysaccharide" 등 25개 이상의 국·영·한자·병음 검색어로 인체 대상 문헌을 전수 조회하였다.
 
-검색 결과 상당수는 ①동물(생쥐·토끼 등) 대상 실험이거나, ②담죽엽과 무관한 동음이의 검색어(예: "orientin"이 인지신경과학 용어 "orienting"과 혼동되어 매칭되거나, "Xiao Ji Yin Zi"가 개별 단어 단위로 매칭되어 무관한 논문이 다수 섞여 나오는 경우)로 판명되었다. 본초·경혈 표제어 인용 목표(30편 이상, 목표 80편)에 견주어 이 문서가 확보한 최종 각주 수는 **21편**으로, 목표(30편)에 다소 미달한다. 이는 다음과 같은 사정 때문이다.
+검색 결과 상당수는 ①동물(생쥐·토끼 등) 대상 실험이거나, ②담죽엽과 무관한 동음이의 검색어(예: "orientin"이 인지신경과학 용어 "orienting"과 혼동되어 매칭되거나, "Xiao Ji Yin Zi"가 개별 단어 단위로 매칭되어 무관한 논문이 다수 섞여 나오는 경우)로 판명되었다. 본초·경혈 표제어 인용 목표(30편 이상, 목표 80편)에 견주어 이 문서가 확보한 최종 각주 수는 **21편** 으로, 목표(30편)에 다소 미달한다. 이는 다음과 같은 사정 때문이다.
 
 - 담죽엽(*Lophatherum gracile*) 단미(單味)만을 인체 대상으로 검증한 현대 임상연구 자체가 국내외 문헌에서 드물다. 확보된 단미 문헌은 대부분 성분·약리 기전을 정리한 문헌 고찰이며, 무작위 대조군을 갖춘 단미 임상시험은 확인되지 않았다.
 - 동물실험(생쥐·토끼 대상 항염증·이뇨·혈당강하 실험 등)을 배제하는 저장소 원칙을 엄격히 적용하면서, 담죽엽의 대표 활성 성분(오리엔틴orientin·비텍신vitexin·이소오리엔틴isoorientin)에 대한 다수의 동물 실험 논문이 인용 대상에서 제외되었다.
 - 담죽엽을 배오한 대표 처방인 은교산(銀翹散, 한국식 표기 은교산·Yin Qiao San)의 임상시험은 다수 확보되었으나, 이는 처방 전체에 대한 근거이지 담죽엽 단미의 효과만을 분리하여 검증한 것은 아니다.
 
-이러한 근거 부족은 담죽엽의 임상적 가치가 낮다는 뜻이 아니라, 은교산·죽엽석고탕 등 고전 방제 속에서 오랜 임상 경험으로 축적된 효능에 비해 **단미 약리를 검증한 현대 인체 연구가 상대적으로 뒤처져 있다**는 사실을 보여준다. 이 문서는 확보된 근거를 정직하게 제시하고, 성분(비텍신·플라보노이드 C-배당체) 수준의 인체 근거와 배오 처방(은교산 등) 수준의 임상 근거를 명확히 구분하여 서술한다.
+이러한 근거 부족은 담죽엽의 임상적 가치가 낮다는 뜻이 아니라, 은교산·죽엽석고탕 등 고전 방제 속에서 오랜 임상 경험으로 축적된 효능에 비해 **단미 약리를 검증한 현대 인체 연구가 상대적으로 뒤처져 있다** 는 사실을 보여준다. 이 문서는 확보된 근거를 정직하게 제시하고, 성분(비텍신·플라보노이드 C-배당체) 수준의 인체 근거와 배오 처방(은교산 등) 수준의 임상 근거를 명확히 구분하여 서술한다.
 
 ## 제1편 개요·성미귀경·효능·포제
 
