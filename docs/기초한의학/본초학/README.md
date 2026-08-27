@@ -20,7 +20,7 @@
 - 세신(細辛, Asarum)
 - 생강(生薑, Zingiber officinale)
 - 향유(香薷, Elsholtziae Herba) — (작성 예정)
-- 총백(蔥白, Allii Fistulosi Bulbus) — (작성 예정)
+- 총백(蔥白, Allii Fistulosi Bulbus)
 - 정류(荊芥穗, Schizonepetae Spica) — (작성 예정)
 - 창이자(蒼耳子, Xanthii Fructus) — (작성 예정)
 
