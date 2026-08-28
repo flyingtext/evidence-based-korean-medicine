@@ -6,7 +6,7 @@
 
 ## 1. 바이러스성 간염 (KCD-8 B15-B19)
 
-- 급성 A형 간염(急性 A型 肝炎, Acute Hepatitis A, B15) — 간염(肝炎, Hepatitis).md 하위 표제어로 포함 **작성됨**
+- 급성 A형 간염(急性 A型 肝炎, Acute Hepatitis A, B15) — 간염(肝炎, Hepatitis).md 하위 표제어로 개관, 급성 A형 간염(A型肝炎, Hepatitis A).md **독립 심화 문서 작성됨** (병원체·전파·잠복기, 연령별 중증도, 진단(anti-HAV IgM), 예방(백신·면역글로불린), 한의학적 변증·방약·침구, KCD 세부군(전형·담즙정체형·PRCA 동반형·전격성 간부전) 각론, 50편 인용)
 - 급성 B형 간염(急性 B型 肝炎, Acute Hepatitis B, B16) — (작성 예정) 간염 문서는 만성 B형 간염(B18.0/B18.1) 중심, 급성기 독립 서술은 미작성
 - 기타 급성 바이러스간염(其他 急性 바이러스肝炎, Other Acute Viral Hepatitis, B17) — (작성 예정) 급성 C형 간염(B17.1)·E형 간염(B17.2)
 - 만성 바이러스간염(慢性 바이러스肝炎, Chronic Viral Hepatitis, B18) — 간염(肝炎, Hepatitis).md **작성됨** — 하위 표제어: 만성 B형 간염(B18.0/B18.1) · 만성 C형 간염(B18.2)
