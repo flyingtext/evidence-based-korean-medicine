@@ -27,12 +27,12 @@ def sh(cmd: list, cwd: str = ROOT) -> int:
 
 
 def step_validate() -> int:
-    print("\n=== [1/3] 문서 품질 검증 (validate.py) ===")
+    print("\n=== [1/2] 문서 품질 검증 (validate.py) ===")
     return sh([sys.executable, os.path.join(ROOT, "scripts", "validate.py")])
 
 
 def step_links() -> int:
-    print("\n=== [3/3] 교차 참조(상대 링크) 점검 ===")
+    print("\n=== [2/2] 교차 참조(상대 링크) 점검 ===")
     broken = []
     for root, _, files in os.walk(DOCS_DIR):
         for fn in files:
@@ -57,76 +57,6 @@ def step_links() -> int:
     return 0
 
 
-def step_recent() -> int:
-    """git log 기준으로 docs/최근업데이트.md를 자동 재생성한다."""
-    print("\n=== [2/3] 최근 업데이트 문서 자동 재생성 ===")
-    out = subprocess.run(
-        ["git", "log", "--format=%ad", "--date=format:%Y-%m-%d %H:%M:%S", "--name-only", "-z", "--", "docs/"],
-        cwd=ROOT, capture_output=True, text=True,
-    )
-    if out.returncode != 0:
-        print(f"git log 오류: {out.stderr}")
-        return 1
-
-    # (날짜, 파일경로) 목록 수집
-    entries = []
-    date = None
-    for token in out.stdout.split("\0"):
-        token = token.strip()
-        if not token:
-            continue
-        if re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}", token):
-            date = token
-        elif token.startswith("docs/") and token.endswith(".md"):
-            rel = token[len("docs/"):]
-            if rel in ("README.md", "최근업데이트.md", "추천순위.md", "_template.md"):
-                continue
-            if os.path.basename(rel) == "README.md":
-                continue
-            # 현재 존재하는 실제 문서만 포함 (삭제된 옛 구조 제외)
-            if not os.path.exists(os.path.join(DOCS_DIR, rel)):
-                continue
-            entries.append((date, rel))
-
-    # 최신순 정렬, 중복(같은 파일)은 최신 날짜만 유지
-    seen = {}
-    for date, rel in entries:
-        if rel not in seen or date > seen[rel]:
-            seen[rel] = date
-    items = sorted(seen.items(), key=lambda kv: kv[1], reverse=True)
-
-    if not items:
-        print("최근 업데이트할 문서가 없습니다.")
-        return 0
-
-    # 분류(중분류 폴더명) 추출
-    def category(rel: str) -> str:
-        parts = rel.split("/")
-        return parts[1] if len(parts) > 2 else parts[0]
-
-    lines = [
-        "# 최근 업데이트 문서",
-        "",
-        "근거 기반 한의학 저장소에서 가장 최근에 작성·갱신된 문서 목록입니다.",
-        "(git 커밋 시각 기준, 최신순)",
-        "",
-        "## 최근 문서",
-        "",
-        "| 문서 | 분류 | 업데이트 |",
-        "|---|---|---|",
-    ]
-    for rel, date in items:
-        title = os.path.splitext(os.path.basename(rel))[0]
-        lines.append(f"| {title} | {category(rel)} | {date} |")
-    lines.append("")
-
-    target = os.path.join(DOCS_DIR, "최근업데이트.md")
-    with open(target, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines))
-    print(f"최근업데이트.md 재생성 완료 ({len(items)}개 문서).")
-    return 0
-
-
 def step_health() -> int:
     print("\n=== [추가] API 헬스 체크 ===")
     import json
@@ -143,7 +73,7 @@ def step_health() -> int:
 
 
 def run_once(args) -> int:
-    steps = [step_validate, step_recent, step_links]
+    steps = [step_validate, step_links]
     if args.health:
         steps.append(step_health)
 

@@ -28,7 +28,7 @@ python3 scripts/search.py "요통" --km --human --analyzed
 # 문서 품질 검증 (링크·KCD·표기)
 python3 scripts/validate.py
 
-# 전체 워크플로우 실행 (검증 + 최근 업데이트 재생성 + 링크 점검)
+# 전체 워크플로우 실행 (검증 + 링크 점검)
 python3 scripts/run.py
 ```
 
