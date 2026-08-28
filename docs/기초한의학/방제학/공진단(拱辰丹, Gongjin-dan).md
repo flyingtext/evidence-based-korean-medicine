@@ -1,6 +1,6 @@
 # 공진단(拱辰丹, Gongjin-dan / Gongjindan)
 
-> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-20
+> 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-20 · 최종 보강일: 2026-08-28
 
 ## 제1편 정의·출전·구성·방의
 
@@ -57,6 +57,21 @@
 - **당뇨병성 신경병증**: 기존 진통제·항경련제에 반응 불충분한 당뇨병성 신경병증 환자에게 경희공진단과 한약·침·약침·뜸을 병행한 복합 한방 치료로 하지·몸통 통증 NRS(7~8 → 2)·통증 횟수(150회/일 → 10회 미만)·어지럼증 소실이 확인된 치험 사례가 보고되었다.[^5]
 - **부인과 질환**: 혈허(血虛)·혈어(血瘀) 변증을 동반한 자궁내막종(endometrioma) 환자에게 가감 계지복령환과 보골공진단을 6개월 병용 투여하여 낭종 크기 감소(25×21×17 mm → 17×11×10 mm)·CA 125 정상화(47.2 → 34.3 U/ml)·골반통 VAS(7→1) 개선이 확인되었다.[^7]
 
+### 제1장의 2 KCD-8 코드 대응
+
+공진단의 주치·현대 임상 적용 영역을 한국표준질병사인분류(KCD-8) 코드에 대응시키면 다음과 같다. 처방(方劑) 표제어의 특성상 단일 질병 코드로 환원되지 않는 다중 증후 처방이므로, 아래 대응은 임상 참고용 개괄이며 실제 진료에서는 변증에 따른 개별 판단이 우선한다.
+
+| 임상 적용 영역 | KCD-8 코드(예시) | 관련 근거 |
+|---|---|---|
+| 피로·권태(만성 피로) | R53(권태 및 피로) | [^8][^9][^10][^11] |
+| 어지럼(眩暈) | R42(현기증 및 어지럼) | [^12] |
+| 불면(不眠) | G47.0(불면증) | [^50] |
+| 건망·경도인지장애 | R41.8(기타 명시된 인지 기능 및 인식 관련 증상 및 징후), F06.7(경도인지장애) | [^6][^59][^60][^61][^62][^63] |
+| 당뇨병성 신경병증 | E11.4(신경 합병증을 동반한 2형 당뇨병), G63.2*(당뇨병성 다발신경병증) | [^5] |
+| 자궁내막종 | N80.1(난소의 자궁내막증) | [^7] |
+
+> 이 표는 공진단의 임상 적용 영역을 KCD-8 코드와 대응시킨 참고 틀이며, 공진단이 해당 코드의 질병을 근치(根治)한다는 의미가 아니다. 실제 진단·처방은 변증과 양방 진단을 함께 고려해 개별화해야 한다.
+
 ### 제2장 변증 적응 — 기혈양허(氣血兩虛)·신정부족(腎精不足)·심신불교(心腎不交)
 
 공진단의 변증 적응은 크게 세 축으로 정리된다.
@@ -77,7 +92,7 @@
 | 경옥고(瓊玉膏) | 자음보폐(滋陰補肺)·익기(益氣) | 인삼·생지황·복령·백밀, 폐신음허(肺腎陰虛) |
 | 쌍화탕(雙和湯) | 기혈쌍보·자양강장 | 백작약·숙지황·황기·육계, 중기(中氣) 보·조온(調溫) |
 | 육미지황환(六味地黃丸) | 신음보(腎陰補)·산수유 공유 | 숙지황·산약·산수유, 신음허(腎陰虛)·허열(虛熱), 녹용·사향 없음 |
-| 귀비탕(歸脾湯) | 심비양허·기혈보·당귀 공유 | 용안육·원지·산조인, 심비양허(心脾兩虛) |
+| 귀비탕(歸脾湯) | 심비양허·기혈보·당귀 공유 | 용안육·원지·산조인, 심비양허(心脾兩虛); 경도인지장애·알츠하이머병·뇌졸중 후 인지장애에서 전반적 인지 기능·일상생활 수행능력 개선 근거가 축적된 처방[^64] |
 | 보중익기탕(補中益氣湯) | 보기승양(補氣升陽) | 황기·인삼·백출·승마·시호, 중기하함(中氣下陷) |
 
 > 이 표는 임상 감별을 위한 틀이며, 개별 환자의 변증에 따라 처방을 선택해야 한다. 동일 근거수준의 권고가 아니다.
@@ -130,7 +145,9 @@
 
 녹용(鹿茸, Cervi Cornu Pantotrichum)은 사슴의 아직 각질화되지 않은 연한 새뿔로, 감·함(鹹)·온(溫)의 성미로 신(腎)·간(肝) 경에 귀경(歸經)한다. [교과서적 근거] 효능은 장양보수(壯陽補髓)·익정혈(益精血)·강근골(强筋骨)·탁창생기(托瘡生肌)이다. 공진단에서 녹용은 신(腎)의 정(精)을 크게 보하고 골수(骨髓)를 충실하게 하는 핵심 역할을 한다. [교과서적 근거]
 
-녹용의 주요 성분인 ganglioside는 작업기억(working memory)과 디폴트 모드 신경망(default mode network)에 영향을 미치는 것으로 보고되었다.[^14] 녹용 추출물은 소아(12주 무작위 대조시험)에서 안전성이 확인되었으며,[^15] 녹용 분별 증류액(distilled Cervi Pantotrichum Cornu)과 숙지황 약침 제제는 인체 적용 연구에서 활용된 바 있다.[^16] 녹용·사슴 힘줄 액상 보충제는 관절 기능 개선에 효과를 보인 임상시험이 있다.[^17] 녹용 대용 약물 탐색·동물 대체 약재 관련 문헌 고찰도 보고되었다.[^18][^19] 아교(阿膠) 또는 녹용을 포함한 중약 처방을 다룬 무작위 대조시험 844명 대상 체계적 고찰·메타분석에서, 미페프리스톤(mifepristone) 병용 시 자궁근종(子宮筋腫) 부피 감소·관련 증상 개선 효과가 단독 요법보다 우수했고 이상반응 발생률은 대조군보다 낮았다.[^63] 녹용이 부인과 영역에서 보조적 치료제로 고려될 수 있음을 뒷받침하는 근거이나, 공진단 전체 처방이 아닌 녹용 단일 성분을 포함한 복방을 대상으로 한 결과임에 유의해야 한다.
+녹용의 주요 성분인 ganglioside는 작업기억(working memory)과 디폴트 모드 신경망(default mode network)에 영향을 미치는 것으로 보고되었다.[^14] 녹용 추출물은 소아(12주 무작위 대조시험)에서 안전성이 확인되었으며,[^15] 녹용 분별 증류액(distilled Cervi Pantotrichum Cornu)과 숙지황 약침 제제는 인체 적용 연구에서 활용된 바 있다.[^16] 녹용·사슴 힘줄 액상 보충제는 관절 기능 개선에 효과를 보인 임상시험이 있다.[^17] 녹용 대용 약물 탐색·동물 대체 약재 관련 문헌 고찰도 보고되었다.[^18][^19] 아교(阿膠) 또는 녹용을 포함한 중약 처방을 다룬 무작위 대조시험 844명 대상 체계적 고찰·메타분석에서, 미페프리스톤(mifepristone) 병용 시 자궁근종(子宮筋腫) 부피 감소·관련 증상 개선 효과가 단독 요법보다 우수했고 이상반응 발생률은 대조군보다 낮았다.[^52] 녹용이 부인과 영역에서 보조적 치료제로 고려될 수 있음을 뒷받침하는 근거이나, 공진단 전체 처방이 아닌 녹용 단일 성분을 포함한 복방을 대상으로 한 결과임에 유의해야 한다.
+
+녹용의 전통적 효능(자음보신·보비익신補脾益腎·강근골익혈·탁창생기)과 화학적 성분·약리 작용을 종합한 문헌 고찰에서, 유방 증식증(乳房增生)을 비롯한 다양한 염증성 질환에 응용 가능성이 정리되었다.[^53] 표준 치료에 반응하지 않는 난치성 재생불량성 빈혈 환자에게 인태반(人胎盤)과 녹각교(鹿角膠, 녹용 유래 아교 제제)를 병용 투여한 증례에서 혈액 수치 개선·삶의 질 향상이 관찰되었다.[^54] 어린이 100명을 대상으로 한 12주 무작위 이중맹검 위약대조 임상시험에서 KGC 녹용 제제 투여군은 위약군 대비 신장·체중 등 성장 지표에서 유의한 개선을 보였다.[^55] 이러한 근거들은 녹용이 성장·조혈·염증 조절 영역에서 인체 임상 자료를 갖춘 약물임을 뒷받침하나, 공진단 전체 처방의 효과와는 구분해서 해석해야 한다.
 
 ### 제2장 사향(麝香, Moschus) — 신약(臣藥)·개규(開竅)
 
@@ -140,9 +157,9 @@
 
 ### 제3장 당귀(當歸, Angelicae Sinensis Radix)·산수유(山茱萸, Corni Fructus) — 좌약(佐藥)·보혈보간신(補血補肝腎)
 
-당귀(當歸, Angelicae Sinensis Radix)는 감·신(辛)·온(溫)으로 간·심·비 경에 귀경하며, 보혈활혈(補血活血)·통경지통(通經止痛)·윤장통변(潤腸通便)의 효능을 가진다. [교과서적 근거] 공진단에서 당귀는 좌약으로 기혈(氣血)을 보양(補養)한다. 당귀보혈탕(當歸補血湯) 계열 처방은 철결핍빈혈·면역·순환기 질환에 임상 근거가 있으며,[^35][^36] 당귀 단독 및 복방은 고혈압·폐경·월경통·항암 지지요법 등에 보고되었다.[^37][^38][^39][^40][^41][^42] 당귀보혈탕(當歸補血湯, 당귀·황기 배합)의 철결핍성 빈혈 관련 메타분석도 있다.[^35]
+당귀(當歸, Angelicae Sinensis Radix)는 감·신(辛)·온(溫)으로 간·심·비 경에 귀경하며, 보혈활혈(補血活血)·통경지통(通經止痛)·윤장통변(潤腸通便)의 효능을 가진다. [교과서적 근거] 공진단에서 당귀는 좌약으로 기혈(氣血)을 보양(補養)한다. 당귀보혈탕(當歸補血湯) 계열 처방은 철결핍빈혈·면역·순환기 질환에 임상 근거가 있으며,[^25][^26] 당귀 단독 및 복방은 고혈압·폐경·월경통·항암 지지요법 등에 보고되었다.[^27][^28][^29][^30][^31][^32] 당귀보혈탕(當歸補血湯, 당귀·황기 배합)의 철결핍성 빈혈 관련 메타분석도 있다.[^25]
 
-산수유(山茱萸, Corni Fructus)는 산·미(酸·微甘)·미온(微溫)의 성미로 간(肝)·신(腎) 경에 귀경하며, 보익간신(補益肝腎)·수렴고삽(收斂固澀)의 효능을 가진다. [교과서적 근거] 공진단에서 산수유는 좌약으로 녹용의 신정보익(腎精補益)을 보강하고, 당귀의 보혈(補血)과 함께 간신음정(肝腎陰精)을 충실하게 한다. 산수유의 주요 성분인 morroniside·loganin은 항산화·항염·신경보호 효과를 보이며,[^55][^56] 산수유 포도주 포제(酒蒸) 과정에서 생성되는 5-hydroxymethylfurfural(5-HMF)·gallic acid 유도체는 항염 작용을 보강한다.[^57] 산수유·구기자 혼합 추출물은 과체중 여성 147명을 대상으로 한 무작위 이중맹검 위약대조 임상시험에서 체지방률·체지방량 유의 감소 효과를 보였다.[^58] 산수유(산수유·육정자·오미자 복합)는 재발성 폐렴 고령 환자 150명에서 면역 지표 개선·염증 수치 감소 시너지 효과를 보인 후향적 대조 임상시험이 있다.[^59] 산수유를 함유한 한약 복합 처방(KBMSI-2)은 발기부전 환자에서 IIEF-EF 점수 유의 개선을 보인 임상시험 근거가 있다.[^60] 숙련된 중의사 처방 데이터 분석에서 산수유-생지황 조합이 불면증 치료에 높은 긍정적 치료 결과를 보인 관찰연구가 보고되었다.[^61] 산수유를 함유한 좌귀환(左歸丸) 가감방 투여 후 클로미펜 실패 조기 난소 부전 환자에서 배란·임신이 유도된 증례가 있다.[^62]
+산수유(山茱萸, Corni Fructus)는 산·미(酸·微甘)·미온(微溫)의 성미로 간(肝)·신(腎) 경에 귀경하며, 보익간신(補益肝腎)·수렴고삽(收斂固澀)의 효능을 가진다. [교과서적 근거] 공진단에서 산수유는 좌약으로 녹용의 신정보익(腎精補益)을 보강하고, 당귀의 보혈(補血)과 함께 간신음정(肝腎陰精)을 충실하게 한다. 산수유의 주요 성분인 morroniside·loganin은 항산화·항염·신경보호 효과를 보이며,[^44][^45] 산수유 포도주 포제(酒蒸) 과정에서 생성되는 5-hydroxymethylfurfural(5-HMF)·gallic acid 유도체는 항염 작용을 보강한다.[^46] 산수유·구기자 혼합 추출물은 과체중 여성 147명을 대상으로 한 무작위 이중맹검 위약대조 임상시험에서 체지방률·체지방량 유의 감소 효과를 보였다.[^47] 산수유(산수유·육정자·오미자 복합)는 재발성 폐렴 고령 환자 150명에서 면역 지표 개선·염증 수치 감소 시너지 효과를 보인 후향적 대조 임상시험이 있다.[^48] 산수유를 함유한 한약 복합 처방(KBMSI-2)은 발기부전 환자에서 IIEF-EF 점수 유의 개선을 보인 임상시험 근거가 있다.[^49] 숙련된 중의사 처방 데이터 분석에서 산수유-생지황 조합이 불면증 치료에 높은 긍정적 치료 결과를 보인 관찰연구가 보고되었다.[^50] 산수유를 함유한 좌귀환(左歸丸) 가감방 투여 후 클로미펜 실패 조기 난소 부전 환자에서 배란·임신이 유도된 증례가 있다.[^51]
 
 ### 제4장 배오(配伍) 원리 — 정혈보익(精血補益)·개규통뇌(開竅通腦)의 구조
 
@@ -166,6 +183,8 @@
 
 > **변증 층화 강조**: 공진단은 기혈양허(氣血兩虛)·신정부족(腎精不足) 변증에 맞추어 사용해야 한다. 만성 피로 환자에서 정신·사회적 기능 저하가 뚜렷할 때 공진단을, 신체·정서적 피로가 뚜렷할 때 쌍화탕을 우선하는 등 변증에 따른 처방 선택이 권고된다.[^10] 변증 없는 관행적 투여는 근거에 부합하지 않는다.
 
+**④ 만성 피로증후군에 대한 한약 치료 일반 근거**: 공진단 자체의 임상시험 외에도, 한약(Chinese herbal medicine) 치료 전반이 만성피로증후군(chronic fatigue syndrome)에서 효과를 보이는 근거가 축적되어 있어 공진단의 작용 기전을 뒷받침하는 배경 근거로 참고할 수 있다. 6,944명을 포함한 체계적 고찰·메타분석에서 한약 치료는 만성피로증후군 환자의 피로도·불안·우울·전반적 임상 증상을 위약·통상 치료 대비 유의하게 개선하였고 안전성도 확보되었다.[^56] 무작위 대조시험 1,776명을 포함한 체계적 고찰에서도 침·뜸·한약 등 전통의학적 중재가 피로 증상을 유의하게 완화하였으며 심각한 이상반응은 보고되지 않았다.[^57] 서양의학 치료에 반응하지 않던 중증 만성피로증후군 환자에게 한약·침·뜸을 병용한 통합 한방 치료로 피로도가 유의하게 감소한 국내 증례도 보고되었다.[^58] 다만 이들 근거는 공진단 단일 처방이 아닌 한약 전반을 다룬 것이므로, 공진단 고유의 효과는 [^8][^9][^10][^11]의 직접 임상시험 근거로 판단해야 한다.
+
 ### 제2장 만성 어지럼증
 
 공진단의 만성 어지럼증 치료 근거는 다기관 무작위 이중맹검 위약대조 병렬군 임상시험 프로토콜(GOODNESS 연구)로 대표된다.
@@ -182,7 +201,9 @@
 
 **② 가미공진단(加味拱辰丹) 기전 연구**: 가미공진단이 스코폴라민(scopolamine) 유도 인지 기능 장애 동물 모델에서 AChE 활성 감소·ChAT 수준 증가를 통한 콜린성 기능 회복, BDNF/CREB 신호전달 경로 활성화, 산화 스트레스·신경 염증 억제를 통해 공간 학습·기억 능력을 유의하게 개선한 기전 연구가 보고되었다.[^4] 알츠하이머병 등 퇴행성 뇌질환의 기억력 감퇴·인지 저하 증상 완화를 위한 보조적 치료제로 활용 가능성을 시사하나, 동물실험이므로 인간 대상 임상 연구가 필요하다.
 
-> **근거 한계**: 인지 기능·기억력 영역의 공진단 인간 대상 직접 임상시험은 현재까지 보고되지 않았다. 기전 연구·네트워크 약리학 예측 수준이므로, 임상 적용 전 후속 인간 대상 연구가 필요하다.
+**③ 경도인지장애(mild cognitive impairment)에 대한 한약 치료 일반 근거**: 공진단·총명공진단·가미공진단 고유의 인간 대상 임상시험은 아직 없으나, 한약(Chinese herbal medicine) 치료가 경도인지장애 환자의 인지 기능을 개선한다는 근거는 여러 메타분석·체계적 고찰에서 축적되어 있어 신정(腎精) 보익·개규통뇌(開竅通腦)를 통한 인지 개선이라는 공진단의 전통적 방의(方義)를 뒷받침하는 배경 근거로 참고할 수 있다. 한약 치료는 경도인지장애 환자의 간이정신상태검사(Mini-Mental State Examination, MMSE) 점수를 유의하게 개선하였고,[^59] 1,043명을 포함한 무작위 위약대조시험 메타분석에서도 MMSE·몬트리올 인지평가(Montreal Cognitive Assessment, MoCA) 점수가 유의하게 향상되었다.[^60] 4,026명을 포함한 대규모 메타분석에서도 한약 치료군의 MMSE 점수 개선이 확인되었으며,[^61] 도네페질(donepezil) 단독 요법과 한약 병용 요법을 비교한 1,611명 대상 메타분석에서는 병용군의 인지 기능(MMSE·MoCA)이 단독군보다 유의하게 우수하면서도 이상반응 증가는 없었다.[^62] 국내에서는 한약·침 치료를 결합한 한의약 노인 건강증진 프로그램을 이용한 2,242명 후향적 관찰연구에서 침 단독 치료보다 병용 치료가 인지 기능(CIST 기준) 개선에 더 효과적이었다.[^63] 이러한 근거들은 공진단 계열 처방이 인지 영역에서 활용될 수 있는 이론적·정황적 배경을 제공하나, 공진단 고유의 인지 기능 임상 효과를 직접 입증하는 것은 아니라는 점에 유의해야 한다.
+
+> **근거 한계**: 인지 기능·기억력 영역의 공진단 고유 인간 대상 직접 임상시험은 현재까지 보고되지 않았다. 위 일반 한약 근거([^59]~[^63])는 경도인지장애에 대한 한약 치료 전반의 근거이며 공진단 자체의 임상시험이 아니다. 총명공진단·가미공진단은 기전 연구·네트워크 약리학 예측 수준이므로, 임상 적용 전 후속 인간 대상 연구가 필요하다.
 
 ### 제4장 당뇨병성 신경병증
 
@@ -212,13 +233,13 @@
 
 ### 제1장 흡수·분포·대사
 
-공진단의 주요 성분별 약동학 정보는 제한적이나, 구성 약물별로 부분적 근거가 있다. 당귀의 ferulic acid는 경구 투여 후 혈청으로 흡수되어 대사되는 것으로 보고되었다.[^44] 산수유의 morroniside·loganin은 체내 흡수 후 대사되며, 포제(酒蒸) 여부에 따라 생체이용률이 달라지는 것으로 보고되었다. 시판 공진단 제제의 8종 주요 성분(gallic acid·5-(hydroxymethyl)furfural·morroniside·loganin·nodakenin·decursin·decursinol angelate·muscone)의 정량 분석법이 확립되어 향후 약동학 연구의 기초가 된다.[^2]
+공진단의 주요 성분별 약동학 정보는 제한적이나, 구성 약물별로 부분적 근거가 있다. 당귀의 ferulic acid는 경구 투여 후 혈청으로 흡수되어 대사되는 것으로 보고되었다.[^33] 산수유의 morroniside·loganin은 체내 흡수 후 대사되며, 포제(酒蒸) 여부에 따라 생체이용률이 달라지는 것으로 보고되었다. 시판 공진단 제제의 8종 주요 성분(gallic acid·5-(hydroxymethyl)furfural·morroniside·loganin·nodakenin·decursin·decursinol angelate·muscone)의 정량 분석법이 확립되어 향후 약동학 연구의 기초가 된다.[^2]
 
 ### 제2장 약물상호작용
 
 공진단 구성 약물 관련 주요 약물상호작용은 다음과 같다.
 
-- **당귀-와파린(warfarin) 상호작용**: 당귀(동귀, Dong Quai)는 와파린의 항응고 효과를 증강시켜 출혈 위험을 높일 수 있다는 증례가 보고되었다.[^45][^46] 항응고제 복용 환자에게 공진단 투여 시 주의가 필요하다.
+- **당귀-와파린(warfarin) 상호작용**: 당귀(동귀, Dong Quai)는 와파린의 항응고 효과를 증강시켜 출혈 위험을 높일 수 있다는 증례가 보고되었다.[^34][^35] 항응고제 복용 환자에게 공진단 투여 시 주의가 필요하다.
 - **사향-스포츠 약물 검사**: 사향 함유 한약 복용 후 스포츠 약물 검사에서 양성 사례가 보고된 바 있어, 운동선수에게는 주의가 필요하다.[^24]
 
 ### 제3장 안전성 — 신장 손상·임신 금기·기질질환 배제
@@ -227,18 +248,18 @@
 
 | 위험 | 내용 | 참고 |
 |---|---|---|
-| 공진단 관련 신장 손상 | 공진단 복용 20일 후 전신 부종·단백뇨가 나타난 72세 남성 환자에서 최소변화신증(minimal change disease)·급성 국소 세뇨관간질성 신염이 확인되었으며, 공진단 중단 후 완전 관해(complete remission) 달성. 공진단이 드물게 알레르기 반응·IL-13 생성 증가를 통해 신장 손상 유발 가능성 시사. | [^47] |
-| 보골지(補骨脂) 간독성 가능성 | 보골공진단에 가미되는 보골지(Psoraleae Fructus)는 psoralen 성분으로 간독성·담즙정체성 간염·ER 스트레스 관련 간 손상이 보고됨. 보골공진단 투여 시 간 기능 모니터링 권고. | [^48][^49][^50] |
-| 임신·수유 중 투여 | 사향의 활혈통경(活血通經) 작용으로 임신 중 금기. 수유 중 안전성 데이터 부족. | [교과서적 근거][^51] |
-| 항암제 상호작용 | 당귀의 혈행 촉진이 항암제 약동학에 영향을 줄 가능성. 항암 치료 중 투여 시 주치의와 상의. | [^45][^46] |
+| 공진단 관련 신장 손상 | 공진단 복용 20일 후 전신 부종·단백뇨가 나타난 72세 남성 환자에서 최소변화신증(minimal change disease)·급성 국소 세뇨관간질성 신염이 확인되었으며, 공진단 중단 후 완전 관해(complete remission) 달성. 공진단이 드물게 알레르기 반응·IL-13 생성 증가를 통해 신장 손상 유발 가능성 시사. | [^36] |
+| 보골지(補骨脂) 간독성 가능성 | 보골공진단에 가미되는 보골지(Psoraleae Fructus)는 psoralen 성분으로 간독성·담즙정체성 간염·ER 스트레스 관련 간 손상이 보고됨. 보골공진단 투여 시 간 기능 모니터링 권고. | [^37][^38][^39] |
+| 임신·수유 중 투여 | 사향의 활혈통경(活血通經) 작용으로 임신 중 금기. 수유 중 안전성 데이터 부족. | [교과서적 근거][^40] |
+| 항암제 상호작용 | 당귀의 혈행 촉진이 항암제 약동학에 영향을 줄 가능성. 항암 치료 중 투여 시 주치의와 상의. | [^34][^35] |
 | 기질질환 배제 | 만성 피로·어지럼·인지 저하 환자에서 감상선 기능 저하증·빈혈·심부전·뇌종양·파킨슨병 등 기질질환 배제 후 투여. | [교과서적 근거] |
 | 자양 보제 오남용 | 실증(實證)·습열(濕熱)·담음(痰飮)이 뚜렷한 환자에게 관행적 투여 시 기체(氣滯)·상열(上熱)·부종 악화 가능. 변증 없는 투여 금지. | [교과서적 근거] |
-| 보제 부작용 자발보고 | 한국 한약제제 부작용 자발보고 분석에서 보제(補劑) 관련 이상반응 보고가 있으며, 공진단·경옥고·쌍화탕 등 보험 급여 보제에서도 이상반응 모니터링 필요. | [^52] |
+| 보제 부작용 자발보고 | 한국 한약제제 부작용 자발보고 분석에서 보제(補劑) 관련 이상반응 보고가 있으며, 공진단·경옥고·쌍화탕 등 보험 급여 보제에서도 이상반응 모니터링 필요. | [^41] |
 | 어린이 안전성 | 녹용 추출물은 소아(12주 무작위 대조시험)에서 안전성이 확인되었으나, 공진단 전체 처방의 소아 안전성 데이터는 제한적. | [^15] |
 
 > 이 표는 임상 안전성 참고 자료이며, 개별 환자의 기저질환·복용약물·체질에 따라 위험도가 달라진다. 동일 근거수준의 권고가 아니다.
 
-공진단의 신장 안전성은 특히 주의가 필요하다. 공진단 복용 후 최소변화신증·급성 세뇨관간질성 신염이 발생하여 중단 후 관해된 증례가 보고되어, 공진단이 드물게 IL-13 매개 알레르기 반응을 통해 신장 손상을 유발할 가능성이 있다.[^47] 한약 복용 후 갑작스러운 부종·단백뇨가 나타나는 환자에게는 약물 유발성 신병증을 고려하여 즉시 중단·검사해야 한다.[^47]
+공진단의 신장 안전성은 특히 주의가 필요하다. 공진단 복용 후 최소변화신증·급성 세뇨관간질성 신염이 발생하여 중단 후 관해된 증례가 보고되어, 공진단이 드물게 IL-13 매개 알레르기 반응을 통해 신장 손상을 유발할 가능성이 있다.[^36] 한약 복용 후 갑작스러운 부종·단백뇨가 나타나는 환자에게는 약물 유발성 신병증을 고려하여 즉시 중단·검사해야 한다.[^36]
 
 ## 제7편 예후와 관리
 
@@ -256,11 +277,11 @@
 공진단 투여 중 관리 원칙은 다음과 같다. [교과서적 근거]
 
 1. **변증 재평가**: 투여 2~4주 후 변증 변화·증상 개선 정도를 재평가하고 가감(加減)을 조정한다.
-2. **신장 기능 모니터링**: 공진단 관련 신장 손상 증례가 보고되어,[^47] 투여 중 부종·단백뇨·신기능 지표(크레아티닌·eGFR)를 정기 확인한다.
-3. **간 기능 모니터링**: 보골공진단 투여 시 보골지(Psoraleae Fructus)의 간독성 가능성을 고려해 AST·ALT·빌리루빈을 모니터링한다.[^48][^49][^50]
-4. **약물상호작용 확인**: 항응고제(와파린)·항혈소판제 복용 여부를 확인하고, 해당 약물과의 상호작용 위험을 평가한다.[^45][^46]
+2. **신장 기능 모니터링**: 공진단 관련 신장 손상 증례가 보고되어,[^36] 투여 중 부종·단백뇨·신기능 지표(크레아티닌·eGFR)를 정기 확인한다.
+3. **간 기능 모니터링**: 보골공진단 투여 시 보골지(Psoraleae Fructus)의 간독성 가능성을 고려해 AST·ALT·빌리루빈을 모니터링한다.[^37][^38][^39]
+4. **약물상호작용 확인**: 항응고제(와파린)·항혈소판제 복용 여부를 확인하고, 해당 약물과의 상호작용 위험을 평가한다.[^34][^35]
 5. **용량·기간 조절**: 자양 보제(補劑) 장기 투여 시 환자의 변증 변화·소화 상태를 모니터링하며 용량·투여 기간을 적절히 조절한다.
-6. **임신·수유 금기**: 사향의 활혈통경(活血通經) 작용으로 임신 중 금기. 수유 중 안전성 데이터 부족으로 투여 중단.[^51]
+6. **임신·수유 금기**: 사향의 활혈통경(活血通經) 작용으로 임신 중 금기. 수유 중 안전성 데이터 부족으로 투여 중단.[^40]
 7. **기질질환 공동 관리**: 정신과·신경과·내과 기질질환이 동반된 환자에서는 해당 전문의와 공동 관리하면서 보조 요법으로 공진단을 위치 짓는다.
 
 ### 제3장 추적 지표표
@@ -274,8 +295,8 @@
 | 변증 층화 | 기혈음양허(氣血陰陽虛) 설문지, Beck 우울 척도 | [^12] |
 | 당뇨병성 신경병증 | NRS(하지·몸통 통증), 통증 횟수, 어지럼증 유무 | [^5] |
 | 부인과(자궁내막종) | 낭종 크기(초음파), CA 125, 골반통·질 분비물·외음부 증상 VAS | [^7] |
-| 신장 안전성 | 크레아티닌, eGFR, 단백뇨, 부종 유무 | [^47] |
-| 간 안전성 | AST, ALT, 빌리루빈(보골공진단 투여 시) | [^48][^49][^50] |
+| 신장 안전성 | 크레아티닌, eGFR, 단백뇨, 부종 유무 | [^36] |
+| 간 안전성 | AST, ALT, 빌리루빈(보골공진단 투여 시) | [^37][^38][^39] |
 | 인지 기능 | 공진단 인간 대상 지표 미확립(후속 연구 필요) | [^4][^6] |
 
 > 이 표는 임상 추적을 위한 틀이며, 개별 환자의 변증·동반 질환에 따라 지표를 선택·조정한다. 동일 근거수준의 권고가 아니다.
@@ -293,7 +314,7 @@
 | 눈 사용 | VDT 연속 사용 제한. 20-20-20 규칙(20분마다 20피트 거리 20초 응시). | "간(肝)은 혈(血)을贮藏하고 눈을 열어 보이게 함. 혈허(血虛)는 안로(眼勞)와 상호 악화" [교과서적 근거] |
 | 성생활 | 과도한 방로(房勞) 회피. 신정(腎精) 보존. | "신정부족(腎精不足)은 방로(房勞) 과다와 연관" [교과서적 근거] |
 | 보온 | 복부·요부 보온. 찬 음식·냉방 과다 회피. | "신(腎)은 온(溫)을 좋아하고 한(寒)을 싫어함" [교과서적 근거] |
-| 약물 복용 순응도 | 처방된 용량·시간 준수. 임의 중단·증량 회피. 항응고제 등 상호작용 약물 확인. | [^45][^46][^47] |
+| 약물 복용 순응도 | 처방된 용량·시간 준수. 임의 중단·증량 회피. 항응고제 등 상호작용 약물 확인. | [^34][^35][^36] |
 
 > 이 표는 자양강장 보제 투여 중 생활 지도의 틀이며, 개별 환자의 상태에 따라 조정한다. 동일 근거수준의 권고가 아니다.
 
@@ -315,7 +336,7 @@
 
 **Q2. 공진단과 경옥고(瓊玉膏)·쌍화탕(雙和湯)은 어떻게 다른가?**
 
-세 처방 모두 보제(補劑)이지만 방의(方義)와 적응 변증이 다르다. 경옥고는 인삼·생지황·복령·백밀로 구성되어 폐신음허(肺腎陰虛)·자음보폐(滋陰補肺)에 초점을 맞추며,[^53][^54] 쌍화탕은 백작약·숙지황·황기·육계로 구성되어 기혈쌍보(氣血雙補)·조온(調溫)·중기(中氣) 보익에 치우친다. 공진단은 녹용·사향·당귀·산수유로 구성되어 신정보익(腎精補益)·개규통뇌(開竅通腦)의 방의가 특징이며, 만성 피로 임상시험에서 공진단은 사회적 기능(SF) 개선에, 쌍화탕은 정서적 역할(RE)·신체 기능(PF) 개선에 각각 유의하여 변증에 따른 선택 근거를 제공한다.[^10]
+세 처방 모두 보제(補劑)이지만 방의(方義)와 적응 변증이 다르다. 경옥고는 인삼·생지황·복령·백밀로 구성되어 폐신음허(肺腎陰虛)·자음보폐(滋陰補肺)에 초점을 맞추며,[^42][^43] 쌍화탕은 백작약·숙지황·황기·육계로 구성되어 기혈쌍보(氣血雙補)·조온(調溫)·중기(中氣) 보익에 치우친다. 공진단은 녹용·사향·당귀·산수유로 구성되어 신정보익(腎精補益)·개규통뇌(開竅通腦)의 방의가 특징이며, 만성 피로 임상시험에서 공진단은 사회적 기능(SF) 개선에, 쌍화탕은 정서적 역할(RE)·신체 기능(PF) 개선에 각각 유의하여 변증에 따른 선택 근거를 제공한다.[^10]
 
 **Q3. 공진단은 어지럼증에 효과가 있는가?**
 
@@ -323,23 +344,23 @@
 
 **Q4. 공진단은 인지 기능·치매에도 쓰이는가?**
 
-전통적으로 공진단은 건망(健忘)·기억력 감퇴를 주치에 포함한다. [교과서적 근거] 현대 연구에서 총명공진단(聰明拱辰丹)의 네트워크 약리학 분석이 알츠하이머병 관련 염증 조절·PI3K-Akt 경로 작용을 예측하였고,[^6] 가미공진단(加味拱辰丹)이 동물 모델에서 콜린성 기능 회복·BDNF/CREB 경로 활성화를 통한 인지 개선을 보였다.[^4] 그러나 인간 대상 직접 임상시험은 현재까지 보고되지 않았으므로, 임상 적용 전 후속 인간 대상 연구가 필요하다. 보조적 치료제로 활용 가능성은 있으나, 치매의 기본 치료를 대체할 수 없다.
+전통적으로 공진단은 건망(健忘)·기억력 감퇴를 주치에 포함한다. [교과서적 근거] 현대 연구에서 총명공진단(聰明拱辰丹)의 네트워크 약리학 분석이 알츠하이머병 관련 염증 조절·PI3K-Akt 경로 작용을 예측하였고,[^6] 가미공진단(加味拱辰丹)이 동물 모델에서 콜린성 기능 회복·BDNF/CREB 경로 활성화를 통한 인지 개선을 보였다.[^4] 그러나 인간 대상 직접 임상시험은 현재까지 보고되지 않았으므로, 임상 적용 전 후속 인간 대상 연구가 필요하다. 보조적 치료제로 활용 가능성은 있으나, 치매의 기본 치료를 대체할 수 없다. 참고로 유사한 자양 보제 계열인 주자독서환(朱子讀書丸)은 경도인지장애 환자 64명을 대상으로 한 무작위 대조시험 기반 비용-효과 분석에서 삶의 질(KQOL-AD) 개선 효과가 확인되어,[^65] 자양·개규 계열 보제가 경도인지장애 영역에서 임상시험으로 검증 가능한 처방군임을 시사한다. 공진단도 같은 설계의 인간 대상 임상시험이 수행되면 근거 공백을 메울 수 있을 것으로 기대된다.
 
 **Q5. 공진단 복용 중 부종이 나타나면 어떻게 해야 하는가?**
 
-즉시 복용을 중단하고 의료진에게 알려야 한다. 공진단 복용 20일 후 전신 부종·단백뇨가 나타난 72세 남성 환자에서 최소변화신증(minimal change disease)·급성 국소 세뇨관간질성 신염이 확인되었으며, 공진단 중단 후 완전 관해(complete remission)가 달성된 증례가 보고되었다.[^47] 공진단이 드물게 알레르기 반응·IL-13 생성 증가를 통해 신장 손상을 유발할 가능성이 있으므로,[^47] 갑작스러운 부종·단백뇨·소변량 감소 등이 나타나면 즉시 중단·신기능 검사(크레아티닌·eGFR·단백뇨)를 시행해야 한다.
+즉시 복용을 중단하고 의료진에게 알려야 한다. 공진단 복용 20일 후 전신 부종·단백뇨가 나타난 72세 남성 환자에서 최소변화신증(minimal change disease)·급성 국소 세뇨관간질성 신염이 확인되었으며, 공진단 중단 후 완전 관해(complete remission)가 달성된 증례가 보고되었다.[^36] 공진단이 드물게 알레르기 반응·IL-13 생성 증가를 통해 신장 손상을 유발할 가능성이 있으므로,[^36] 갑작스러운 부종·단백뇨·소변량 감소 등이 나타나면 즉시 중단·신기능 검사(크레아티닌·eGFR·단백뇨)를 시행해야 한다.
 
 **Q6. 공진단은 임신 중에도 복용할 수 있는가?**
 
-아니다. 공진단 구성 약물 중 사향(麝香)은 활혈통경(活血通經) 작용이 있어 임신 중 금기이다. [교과서적 근거] 사향의 혈행 촉진·자궁 수축 작용이 유산 위험을 높일 수 있다. 수유 중 안전성 데이터도 부족하여, 임신·수유기에는 공진단 투여를 중단한다.[^51]
+아니다. 공진단 구성 약물 중 사향(麝香)은 활혈통경(活血通經) 작용이 있어 임신 중 금기이다. [교과서적 근거] 사향의 혈행 촉진·자궁 수축 작용이 유산 위험을 높일 수 있다. 수유 중 안전성 데이터도 부족하여, 임신·수유기에는 공진단 투여를 중단한다.[^40]
 
 **Q7. 보골공진단은 일반 공진단과 무엇이 다른가?**
 
-보골공진단(補骨拱辰丹)은 공진단에 보골지(補骨脂, Psoraleae Fructus)를 가미한 변방(變方)이다. 보골지는 온신조양(溫腎助陽)·납기지사(納氣止瀉)의 약물로, 공진단의 신정보익(腎精補益) 방의를 강화한다. 혈허·혈어 변증을 동반한 자궁내막종 환자에게 가감 계지복령환과 병용 투여하여 낭종 크기 감소·CA 125 정상화·골반통 개선이 확인된 치험 사례가 있다.[^7] 다만 보골지의 psoralen 성분은 간독성·담즙정체성 간염·ER 스트레스 관련 간 손상이 보고되어,[^48][^49][^50] 보골공진단 투여 시 간 기능(AST·ALT·빌리루빈) 모니터링이 권고된다.
+보골공진단(補骨拱辰丹)은 공진단에 보골지(補骨脂, Psoraleae Fructus)를 가미한 변방(變方)이다. 보골지는 온신조양(溫腎助陽)·납기지사(納氣止瀉)의 약물로, 공진단의 신정보익(腎精補益) 방의를 강화한다. 혈허·혈어 변증을 동반한 자궁내막종 환자에게 가감 계지복령환과 병용 투여하여 낭종 크기 감소·CA 125 정상화·골반통 개선이 확인된 치험 사례가 있다.[^7] 다만 보골지의 psoralen 성분은 간독성·담즙정체성 간염·ER 스트레스 관련 간 손상이 보고되어,[^37][^38][^39] 보골공진단 투여 시 간 기능(AST·ALT·빌리루빈) 모니터링이 권고된다.
 
 **Q8. 공진단과 항암 치료를 함께 할 수 있는가?**
 
-항암 치료 중 공진단 투여는 주치의와 상의 후 결정해야 한다. 당귀의 혈행 촉진 성분이 항암제 약동학에 영향을 줄 가능성이 있으며,[^45][^46] 항암제의 출혈 위험을 높일 수 있다. 당귀(동귀, Dong Quai)는 와파린의 항응고 효과를 증강시켜 출혈 위험을 높인 증례가 보고되었다.[^45] 반면 공진단의 자양강장(滋養强壯) 목적이 암 관련 피로·식욕부진·항암치료 부작용 완화에 보조적 활용 가능성은 있으나, 이는 변증과 주치의 판단에 따른 개별 결정 사항이다.
+항암 치료 중 공진단 투여는 주치의와 상의 후 결정해야 한다. 당귀의 혈행 촉진 성분이 항암제 약동학에 영향을 줄 가능성이 있으며,[^34][^35] 항암제의 출혈 위험을 높일 수 있다. 당귀(동귀, Dong Quai)는 와파린의 항응고 효과를 증강시켜 출혈 위험을 높인 증례가 보고되었다.[^34] 반면 공진단의 자양강장(滋養强壯) 목적이 암 관련 피로·식욕부진·항암치료 부작용 완화에 보조적 활용 가능성은 있으나, 이는 변증과 주치의 판단에 따른 개별 결정 사항이다.
 
 [^1]: A Study on the Status of Traditional Herbal Medicine Products in the Korean Pharmaceutical Industry Over the Past 40 Years. _Journal of Korean Medicine_. 2025-06-01. [관찰연구] [DOI 10.13048/jkm.25028](https://doi.org/10.13048/jkm.25028) — 한국 한약제제 시장 40년 분석. 우황청심원·경옥고·공진단·쌍화탕 4개 제품이 전체 매출 54.8% 차지 과점 구조. 공진단 시장 현황의 핵심 근거.
 [^2]: Quantitative Analysis of Eight Compounds in Traditional Korean Medicine, Gongjindan Using HPLC, UPLC–MS/MS, and GC–MS/MS Systems. _Separations_. 2023-03-28. [실험연구] [DOI 10.3390/separations10040231](https://doi.org/10.3390/separations10040231) — 공진단 8종 주요 성분(gallic acid·5-(hydroxymethyl)furfural·morroniside·loganin·nodakenin·decursin·decursinol angelate·muscone) 동시 정량 분석법 개발. 시판 공진단 성분 함량 0~10.75 mg/g. 품질 관리·임상 연구 기초 데이터.
@@ -365,34 +386,47 @@
 [^22]: Pharmacological effects and mechanisms of muscone. _Journal of ethnopharmacology_. 2020. [문헌 고찰] [DOI 10.1016/j.jep.2020.113120](https://doi.org/10.1016/j.jep.2020.113120) — 사향 주요 성분 muscone 약리 효과·기전 문헌 고찰. 사향 중추신경·혈류 개선 작용 근거.
 [^23]: Hwa-Byung Treated by Using Ascending Kidney Water and Descending Heart Fire: Two Case Reports. _Journal of pharmacopuncture_. 2017. [증례 보고] [DOI 10.3831/KPI.2017.20.018](https://doi.org/10.3831/KPI.2017.20.018) — 화병 치료 증례에서 신수승·심화강 원리 활용. 사향·개규(開竅) 관련 한방 치료 접근 참조.
 [^24]: Traditional Chinese medicine and sports drug testing: identification of musk as a potential doping agent. _British journal of sports medicine_. [증례 보고] [DOI 10.1136/bjsports-2012-090988](https://doi.org/10.1136/bjsports-2012-090988) — 사향 함유 한약 복용 후 스포츠 약물 검사 양성 사례. 운동선수 사향 함유 처방 주의 근거.
-[^35]: Efficacy and safety of Danggui Buxue Decoction in combination with western medicine for iron deficiency anemia: A meta-analysis. _Annals of translational medicine_. 2017. [메타분석] [DOI 10.21037/atm.2017.01.17](https://doi.org/10.21037/atm.2017.01.17) — 당귀보혈탕+서양의학 병용 철결핍빈혈 메타분석. 당귀 보혈·빈혈 근거.
-[^36]: Radix Astragali and Radix Angelicae Sinensis in the Treatment of Idiopathic Membranous Nephropathy: A Systematic Review and Meta-Analysis. _Frontiers in pharmacology_. 2020. [메타분석] [DOI 10.3389/fphar.2020.00415](https://doi.org/10.3389/fphar.2020.00415) — 황기·당귀 특발성 막성 신증 체계적 고찰·메타분석. 당귀 신장 질환 근거.
-[^37]: Therapeutic effect of angelica and its compound formulas for hypertension: A systematic review. _Phytomedicine_. 2018. [체계적 고찰] [DOI 10.1016/j.phymed.2018.11.027](https://doi.org/10.1016/j.phymed.2018.11.027) — 당귀 및 복방 고혈압 체계적 고찰. 당귀 순환기 근거.
-[^38]: Dong Quai (angelica sinensis) in the treatment of hot flashes for men seeking hormonal therapy: A randomized, double-blind, placebo-controlled clinical trial. _Urology_. [임상시험] [DOI 10.5489/cuaj.775](https://doi.org/10.5489/cuaj.775) — 당귀(동귀) 전립선암 호르몬 치료 환자 안면 홍조 무작위 이중맹검 위약대조시험. 당귀 부인·남성 갱년기 근거.
-[^39]: Effect of Toki-Shakuyaku-San on Regional Cerebral Blood Flow in Patients with Senile Dementia. _The American Journal of Chinese Medicine_. [임상시험] [DOI 10.1155/2012/245091](https://doi.org/10.1155/2012/245091) — 당귀작약산(당귀 함유) 치매 환자 뇌혈류 개선 임상시험. 당귀 계열 처방 인지·뇌혈류 근거.
-[^40]: Herbal treatment for renal diseases. _Journal of nephrology_. [문헌 고찰] [PMID 15726219](https://pubmed.ncbi.nlm.nih.gov/15726219/) — 당귀 등 한약 신장 질환 치료 문헌 고찰. 당귀 신장 질환 근거.
-[^41]: Treatment of Hot Flashes in Men With Prostate Cancer Undergoing Androgen Deprivation Therapy: A Systematic Review. _The Prostate_. [체계적 고찰] [DOI 10.1002/pros.70229](https://doi.org/10.1002/pros.70229) — 전립선암 안드로겐 차단 치료 환자 안면 홍조 치료 체계적 고찰. 당귀 부인·남성 갱년기 관련 근거.
-[^42]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review and meta-analysis. _Medicine_. [메타분석] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — 당귀(當歸) 함유 한약 만성 두드러기 메타분석. 당귀 알레르기·피부 질환 근거.
-[^44]: [Determination of ferulic acid absorbed into human serum from oral decoction of Angelicae sinensis and Chuanxiong]. _Journal of Chinese medicinal materials_. [실험연구] [PMID 11822288](https://pubmed.ncbi.nlm.nih.gov/11822288/) — 당귀 복용 후 인간 혈청 ferulic acid 흡수 분석. 당귀 흡수·대사 인체 근거(인간 데이터 한정).
-[^45]: Potentiation of warfarin by dong quai. _Annals of pharmacotherapy_. [증례 보고] [DOI 10.1592/phco.19.10.870.31558](https://doi.org/10.1592/phco.19.10.870.31558) — 당귀(동귀)가 와파린 항응고 효과 증강 출혈 위험 증례. 당귀-항응고제 상호작용 핵심 근거.
-[^46]: Herb-drug interactions. _The Lancet_. [문헌 고찰] [DOI 10.1016/S0140-6736(99)06457-0](https://doi.org/10.1016/S0140-6736(99)06457-0) — 한약-양약 상호작용 문헌 고찰. 당귀-와파린 등 상호작용 근거.
-[^47]: A patient with minimal change disease and acute focal tubulointerstitial nephritis due to traditional medicine: a case report and small literature review. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2014.06.001](https://doi.org/10.1016/j.explore.2014.06.001) [PMID 25037506](https://pubmed.ncbi.nlm.nih.gov/25037506/) — 공진단 복용 20일 후 최소변화신증·급성 국소 세뇨관간질성 신염 발생, 중단 후 완전 관해. 공진단 신장 손상 핵심 안전성 근거.
-[^48]: Psoralen induces hepatic toxicity through PERK and ATF6 related ER stress pathway. _Drug development and industrial pharmacy_. [실험연구] [DOI 10.1080/15376516.2019.1650150](https://doi.org/10.1080/15376516.2019.1650150) — 보골지 psoralen 성분 ER 스트레스 경로 간독성. 보골공진단 안전성 관련 근거(동물실험, 인용은 성분 정보 참조).
-[^49]: Effects of psoralen on hepatic bile acid transporters in rats. _Drug and chemical toxicology_. [실험연구] [DOI 10.1177/0960327120979346](https://doi.org/10.1177/0960327120979346) — 보골지 psoralen 담즙산 수송체 간 독성. 보골공진단 안전성 관련 근거(동물실험, 인용은 성분 정보 참조).
-[^50]: A case of acute cholestatic hepatitis associated with the seeds of Psoralea corylifolia. _Clinical toxicology_. [증례 보고] [DOI 10.1081/clt-200068863](https://doi.org/10.1081/clt-200068863) — 보골지(보골풀) 씨앗 복용 후 급성 담즙정체성 간염 증례. 보골공진단 간 안전성 임상 근거.
-[^51]: Effects of herbs and drugs during pregnancy and lactation. _Online journal of clinical trials_. [문헌 고찰] [PMID 262485](https://pubmed.ncbi.nlm.nih.gov/262485/) — 임신·수유 중 한약·양약 안전성 문헌 고찰. 사향·당귀 등 임신 중 안전성 참조 근거.
-[^52]: Adverse event reports of tonifying herbal medicine products. _Journal of Korean Medicine_. [관찰연구] [DOI 10.13048/jkm.24037](https://doi.org/10.13048/jkm.24037) — 한국 보제(補劑) 한약제제 이상반응 자발보고 분석. 공진단·경옥고·쌍화탕 등 보험 급여 보제 이상반응 모니터링 근거.
-[^53]: Clinical Effect of Gyeongok-go: A Systematic Review of Randomized Controlled Trials. _The Journal of Internal Korean Medicine_. [체계적 고찰] [DOI 10.22246/jikm.2022.43.3.423](https://doi.org/10.22246/jikm.2022.43.3.423) — 경옥고 임상 효과 무작위 대조시험 체계적 고찰. 경옥고·공진단 감별·비교 근거.
-[^54]: The efficacy, effectiveness, and safety of Kyung-ok-ko: A narrative review. _Medicine_. [문헌 고찰] [DOI 10.1097/MD.0000000000031311](https://doi.org/10.1097/MD.0000000000031311) — 경옥고 효능·효과성·안전성 서술적 문헌 고찰. 경옥고·공진단 감별·비교 근거.
-[^55]: Corni Fructus: a review of chemical constituents and pharmacological activities. _Chinese medicine_. 2018. [문헌 고찰] [DOI 10.1186/s13020-018-0191-z](https://doi.org/10.1186/s13020-018-0191-z) — 산수유 성분(morroniside·loganin 등 이리도이드 배당체)·약리 작용(항산화·항염·신경보호·당대사 조절) 종합 문헌 고찰. 산수유 약리 작용 기반 근거.
-[^56]: Ethnopharmacology, phytochemistry, and pharmacology of Cornus officinalis Sieb. et Zucc. _Journal of ethnopharmacology_. 2017. [문헌 고찰] [DOI 10.1016/j.jep.2017.11.010](https://doi.org/10.1016/j.jep.2017.11.010) — 산수유 생약학·약리학 종합 고찰. 유기산·이리도이드·폴리페놀 성분의 항산화·항염·신경보호 작용 정리. 산수유 다성분 약리 근거.
-[^57]: Four New Gallate Derivatives from Wine-Processed Corni Fructus and Their Anti-Inflammatory Activities. _Molecules_. 2021. [실험연구] [DOI 10.3390/molecules26071851](https://doi.org/10.3390/molecules26071851) — 산수유 포도주 포제(酒蒸) 과정에서 생성된 gallate 유도체의 항염 활용. 산수유 포제·항염 성분 근거(인간 데이터 한정, 성분 정보 참조).
-[^58]: Efficacy and Safety of Combined Extracts of Cornus officinalis and Ribes fasciculatum for Body Fat Reduction in Overweight Women. _Journal of clinical medicine_. 2020-11. [임상시험] [DOI 10.3390/jcm9113629](https://doi.org/10.3390/jcm9113629) [PMID 33187261](https://pubmed.ncbi.nlm.nih.gov/33187261/) — 산수유·구기자 혼합 추출물 12주 복용으로 과체중 여성 147명 체지방률·체지방량 유의 감소. 산수유 대사·비만 임상 근거.
-[^59]: Synergistic immunomodulatory effects of Cistanche deserticola, Schisandra chinensis and Cornus officinalis on elderly patients with recurrent pneumonia: A retrospective clinical controlled trial. _Pakistan journal of pharmaceutical sciences_. 2026-04. [임상시험] [DOI 10.36721/PJPS.2026.39.4.REG.15065.1](https://doi.org/10.36721/PJPS.2026.39.4.REG.15065.1) [PMID 41761792](https://pubmed.ncbi.nlm.nih.gov/41761792/) — 재발성 폐렴 고령 환자 150명에서 산수유·육정자·오미자 추가 투여로 면역 지표 개선·염증 수치 감소 시너지 효과. 산수유 면역 조절 임상 근거.
-[^60]: Efficacy and safety of an herbal formula (KBMSI-2) in the treatment of erectile dysfunction: A preliminary clinical study. _Investigative and clinical urology_. 2019-07. [임상시험] [DOI 10.4111/icu.2019.60.4.275](https://doi.org/10.4111/icu.2019.60.4.275) [PMID 31294137](https://pubmed.ncbi.nlm.nih.gov/31294137/) — 산수유 함유 한약 복합 처방(KBMSI-2) 8주 투여로 발기부전 환자 IIEF-EF 점수 유의 개선. 산수유 남성 생식 기능 임상 근거.
-[^61]: Patterns of herbal combination for the treatment of insomnia commonly employed by highly experienced Chinese medicine physicians. _Chinese journal of integrative medicine_. 2011-09. [관찰연구] [DOI 10.1007/s11655-011-0841-9](https://doi.org/10.1007/s11655-011-0841-9) [PMID 21910065](https://pubmed.ncbi.nlm.nih.gov/21910065/) — 숙련 중의사 처방 데이터 460회 분석에서 산수유-생지홈 조합이 불면증 치료 100% 긍정 결과. 산수유 불면증 관찰 근거.
-[^62]: Pregnancy in premature ovarian failure after therapy using Chinese herbal medicine. _Chang Gung medical journal_. 2003-06. [증례 보고] [PMID 12956293](https://pubmed.ncbi.nlm.nih.gov/12956293/) — 좌귀환(산수유 함유) 가감방 투여 후 클로미펜 실패 조기 난소 부전 환자 배란·임신 성공. 산수유 부인과·난소 기능 회복 증례 근거.
-[^63]: Efficacy of Chinese herbal prescriptions containing Ejiao or Velvet antler for management of uterine fibroids: a systematic review and meta-analysis of randomized controlled trials. _Annals of palliative medicine_. 2021-08. [메타분석] [DOI 10.21037/apm-21-1755](https://doi.org/10.21037/apm-21-1755) [PMID 34488366](https://pubmed.ncbi.nlm.nih.gov/34488366/) — 아교 또는 녹용 포함 중약 처방(844명) 자궁근종 부피·증상 개선, 미페프리스톤 병용 시 효과 증대, 대조군 대비 이상반응 낮음. 녹용 부인과 보조 치료 근거(공진단 전체가 아닌 녹용 함유 복방 대상).
+[^25]: Efficacy and safety of Danggui Buxue Decoction in combination with western medicine for iron deficiency anemia: A meta-analysis. _Annals of translational medicine_. 2017. [메타분석] [DOI 10.21037/atm.2017.01.17](https://doi.org/10.21037/atm.2017.01.17) — 당귀보혈탕+서양의학 병용 철결핍빈혈 메타분석. 당귀 보혈·빈혈 근거.
+[^26]: Radix Astragali and Radix Angelicae Sinensis in the Treatment of Idiopathic Membranous Nephropathy: A Systematic Review and Meta-Analysis. _Frontiers in pharmacology_. 2020. [메타분석] [DOI 10.3389/fphar.2020.00415](https://doi.org/10.3389/fphar.2020.00415) — 황기·당귀 특발성 막성 신증 체계적 고찰·메타분석. 당귀 신장 질환 근거.
+[^27]: Therapeutic effect of angelica and its compound formulas for hypertension: A systematic review. _Phytomedicine_. 2018. [체계적 고찰] [DOI 10.1016/j.phymed.2018.11.027](https://doi.org/10.1016/j.phymed.2018.11.027) — 당귀 및 복방 고혈압 체계적 고찰. 당귀 순환기 근거.
+[^28]: Dong Quai (angelica sinensis) in the treatment of hot flashes for men seeking hormonal therapy: A randomized, double-blind, placebo-controlled clinical trial. _Urology_. [임상시험] [DOI 10.5489/cuaj.775](https://doi.org/10.5489/cuaj.775) — 당귀(동귀) 전립선암 호르몬 치료 환자 안면 홍조 무작위 이중맹검 위약대조시험. 당귀 부인·남성 갱년기 근거.
+[^29]: Effect of Toki-Shakuyaku-San on Regional Cerebral Blood Flow in Patients with Senile Dementia. _The American Journal of Chinese Medicine_. [임상시험] [DOI 10.1155/2012/245091](https://doi.org/10.1155/2012/245091) — 당귀작약산(당귀 함유) 치매 환자 뇌혈류 개선 임상시험. 당귀 계열 처방 인지·뇌혈류 근거.
+[^30]: Herbal treatment for renal diseases. _Journal of nephrology_. [문헌 고찰] [PMID 15726219](https://pubmed.ncbi.nlm.nih.gov/15726219/) — 당귀 등 한약 신장 질환 치료 문헌 고찰. 당귀 신장 질환 근거.
+[^31]: Treatment of Hot Flashes in Men With Prostate Cancer Undergoing Androgen Deprivation Therapy: A Systematic Review. _The Prostate_. [체계적 고찰] [DOI 10.1002/pros.70229](https://doi.org/10.1002/pros.70229) — 전립선암 안드로겐 차단 치료 환자 안면 홍조 치료 체계적 고찰. 당귀 부인·남성 갱년기 관련 근거.
+[^32]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review and meta-analysis. _Medicine_. [메타분석] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — 당귀(當歸) 함유 한약 만성 두드러기 메타분석. 당귀 알레르기·피부 질환 근거.
+[^33]: [Determination of ferulic acid absorbed into human serum from oral decoction of Angelicae sinensis and Chuanxiong]. _Journal of Chinese medicinal materials_. [실험연구] [PMID 11822288](https://pubmed.ncbi.nlm.nih.gov/11822288/) — 당귀 복용 후 인간 혈청 ferulic acid 흡수 분석. 당귀 흡수·대사 인체 근거(인간 데이터 한정).
+[^34]: Potentiation of warfarin by dong quai. _Annals of pharmacotherapy_. [증례 보고] [DOI 10.1592/phco.19.10.870.31558](https://doi.org/10.1592/phco.19.10.870.31558) — 당귀(동귀)가 와파린 항응고 효과 증강 출혈 위험 증례. 당귀-항응고제 상호작용 핵심 근거.
+[^35]: Herb-drug interactions. _The Lancet_. [문헌 고찰] [DOI 10.1016/S0140-6736(99)06457-0](https://doi.org/10.1016/S0140-6736(99)06457-0) — 한약-양약 상호작용 문헌 고찰. 당귀-와파린 등 상호작용 근거.
+[^36]: A patient with minimal change disease and acute focal tubulointerstitial nephritis due to traditional medicine: a case report and small literature review. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2014.06.001](https://doi.org/10.1016/j.explore.2014.06.001) [PMID 25037506](https://pubmed.ncbi.nlm.nih.gov/25037506/) — 공진단 복용 20일 후 최소변화신증·급성 국소 세뇨관간질성 신염 발생, 중단 후 완전 관해. 공진단 신장 손상 핵심 안전성 근거.
+[^37]: Psoralen induces hepatic toxicity through PERK and ATF6 related ER stress pathway. _Drug development and industrial pharmacy_. [실험연구] [DOI 10.1080/15376516.2019.1650150](https://doi.org/10.1080/15376516.2019.1650150) — 보골지 psoralen 성분 ER 스트레스 경로 간독성. 보골공진단 안전성 관련 근거(동물실험, 인용은 성분 정보 참조).
+[^38]: Effects of psoralen on hepatic bile acid transporters in rats. _Drug and chemical toxicology_. [실험연구] [DOI 10.1177/0960327120979346](https://doi.org/10.1177/0960327120979346) — 보골지 psoralen 담즙산 수송체 간 독성. 보골공진단 안전성 관련 근거(동물실험, 인용은 성분 정보 참조).
+[^39]: A case of acute cholestatic hepatitis associated with the seeds of Psoralea corylifolia. _Clinical toxicology_. [증례 보고] [DOI 10.1081/clt-200068863](https://doi.org/10.1081/clt-200068863) — 보골지(보골풀) 씨앗 복용 후 급성 담즙정체성 간염 증례. 보골공진단 간 안전성 임상 근거.
+[^40]: Effects of herbs and drugs during pregnancy and lactation. _Online journal of clinical trials_. [문헌 고찰] [PMID 262485](https://pubmed.ncbi.nlm.nih.gov/262485/) — 임신·수유 중 한약·양약 안전성 문헌 고찰. 사향·당귀 등 임신 중 안전성 참조 근거.
+[^41]: Adverse event reports of tonifying herbal medicine products. _Journal of Korean Medicine_. [관찰연구] [DOI 10.13048/jkm.24037](https://doi.org/10.13048/jkm.24037) — 한국 보제(補劑) 한약제제 이상반응 자발보고 분석. 공진단·경옥고·쌍화탕 등 보험 급여 보제 이상반응 모니터링 근거.
+[^42]: Clinical Effect of Gyeongok-go: A Systematic Review of Randomized Controlled Trials. _The Journal of Internal Korean Medicine_. [체계적 고찰] [DOI 10.22246/jikm.2022.43.3.423](https://doi.org/10.22246/jikm.2022.43.3.423) — 경옥고 임상 효과 무작위 대조시험 체계적 고찰. 경옥고·공진단 감별·비교 근거.
+[^43]: The efficacy, effectiveness, and safety of Kyung-ok-ko: A narrative review. _Medicine_. [문헌 고찰] [DOI 10.1097/MD.0000000000031311](https://doi.org/10.1097/MD.0000000000031311) — 경옥고 효능·효과성·안전성 서술적 문헌 고찰. 경옥고·공진단 감별·비교 근거.
+[^44]: Corni Fructus: a review of chemical constituents and pharmacological activities. _Chinese medicine_. 2018. [문헌 고찰] [DOI 10.1186/s13020-018-0191-z](https://doi.org/10.1186/s13020-018-0191-z) — 산수유 성분(morroniside·loganin 등 이리도이드 배당체)·약리 작용(항산화·항염·신경보호·당대사 조절) 종합 문헌 고찰. 산수유 약리 작용 기반 근거.
+[^45]: Ethnopharmacology, phytochemistry, and pharmacology of Cornus officinalis Sieb. et Zucc. _Journal of ethnopharmacology_. 2017. [문헌 고찰] [DOI 10.1016/j.jep.2017.11.010](https://doi.org/10.1016/j.jep.2017.11.010) — 산수유 생약학·약리학 종합 고찰. 유기산·이리도이드·폴리페놀 성분의 항산화·항염·신경보호 작용 정리. 산수유 다성분 약리 근거.
+[^46]: Four New Gallate Derivatives from Wine-Processed Corni Fructus and Their Anti-Inflammatory Activities. _Molecules_. 2021. [실험연구] [DOI 10.3390/molecules26071851](https://doi.org/10.3390/molecules26071851) — 산수유 포도주 포제(酒蒸) 과정에서 생성된 gallate 유도체의 항염 활용. 산수유 포제·항염 성분 근거(인간 데이터 한정, 성분 정보 참조).
+[^47]: Efficacy and Safety of Combined Extracts of Cornus officinalis and Ribes fasciculatum for Body Fat Reduction in Overweight Women. _Journal of clinical medicine_. 2020-11. [임상시험] [DOI 10.3390/jcm9113629](https://doi.org/10.3390/jcm9113629) [PMID 33187261](https://pubmed.ncbi.nlm.nih.gov/33187261/) — 산수유·구기자 혼합 추출물 12주 복용으로 과체중 여성 147명 체지방률·체지방량 유의 감소. 산수유 대사·비만 임상 근거.
+[^48]: Synergistic immunomodulatory effects of Cistanche deserticola, Schisandra chinensis and Cornus officinalis on elderly patients with recurrent pneumonia: A retrospective clinical controlled trial. _Pakistan journal of pharmaceutical sciences_. 2026-04. [임상시험] [DOI 10.36721/PJPS.2026.39.4.REG.15065.1](https://doi.org/10.36721/PJPS.2026.39.4.REG.15065.1) [PMID 41761792](https://pubmed.ncbi.nlm.nih.gov/41761792/) — 재발성 폐렴 고령 환자 150명에서 산수유·육정자·오미자 추가 투여로 면역 지표 개선·염증 수치 감소 시너지 효과. 산수유 면역 조절 임상 근거.
+[^49]: Efficacy and safety of an herbal formula (KBMSI-2) in the treatment of erectile dysfunction: A preliminary clinical study. _Investigative and clinical urology_. 2019-07. [임상시험] [DOI 10.4111/icu.2019.60.4.275](https://doi.org/10.4111/icu.2019.60.4.275) [PMID 31294137](https://pubmed.ncbi.nlm.nih.gov/31294137/) — 산수유 함유 한약 복합 처방(KBMSI-2) 8주 투여로 발기부전 환자 IIEF-EF 점수 유의 개선. 산수유 남성 생식 기능 임상 근거.
+[^50]: Patterns of herbal combination for the treatment of insomnia commonly employed by highly experienced Chinese medicine physicians. _Chinese journal of integrative medicine_. 2011-09. [관찰연구] [DOI 10.1007/s11655-011-0841-9](https://doi.org/10.1007/s11655-011-0841-9) [PMID 21910065](https://pubmed.ncbi.nlm.nih.gov/21910065/) — 숙련 중의사 처방 데이터 460회 분석에서 산수유-생지홈 조합이 불면증 치료 100% 긍정 결과. 산수유 불면증 관찰 근거.
+[^51]: Pregnancy in premature ovarian failure after therapy using Chinese herbal medicine. _Chang Gung medical journal_. 2003-06. [증례 보고] [PMID 12956293](https://pubmed.ncbi.nlm.nih.gov/12956293/) — 좌귀환(산수유 함유) 가감방 투여 후 클로미펜 실패 조기 난소 부전 환자 배란·임신 성공. 산수유 부인과·난소 기능 회복 증례 근거.
+[^52]: Efficacy of Chinese herbal prescriptions containing Ejiao or Velvet antler for management of uterine fibroids: a systematic review and meta-analysis of randomized controlled trials. _Annals of palliative medicine_. 2021-08. [메타분석] [DOI 10.21037/apm-21-1755](https://doi.org/10.21037/apm-21-1755) [PMID 34488366](https://pubmed.ncbi.nlm.nih.gov/34488366/) — 아교 또는 녹용 포함 중약 처방(844명) 자궁근종 부피·증상 개선, 미페프리스톤 병용 시 효과 증대, 대조군 대비 이상반응 낮음. 녹용 부인과 보조 치료 근거(공진단 전체가 아닌 녹용 함유 복방 대상).
+[^53]: Deer antler base as a traditional Chinese medicine: a review of its traditional uses, chemistry and pharmacology. Wu F 외. _Journal of ethnopharmacology_. 2013-01-30. [문헌 고찰] [DOI 10.1016/j.jep.2012.12.008](https://doi.org/10.1016/j.jep.2012.12.008) [PMID 23246455](https://pubmed.ncbi.nlm.nih.gov/23246455/) — 녹각기저는 자음보신·보비익신·강근골익혈 효능을 가지며 유방 증식증 등 다양한 염증성 질환에 응용될 수 있음을 정리한 문헌 고찰. 녹용 전통 효능·성분·약리의 종합 근거.
+[^54]: Treatment for intractable anemia with the traditional Chinese medicines Hominis Placenta and Cervi Cornus Colla (deer antler glue). Hijikata Y 외. _International journal of general medicine_. 2009-07-30. [증례 보고] [DOI 10.2147/ijgm.s5253](https://doi.org/10.2147/ijgm.s5253) [PMID 20360892](https://pubmed.ncbi.nlm.nih.gov/20360892/) — 표준 치료(면역억제제·수혈)에 반응하지 않는 난치성 빈혈 환자에게 인태반과 녹각교를 병용 투여했을 때 혈액 수치 개선·삶의 질 향상. 녹용 유래 아교 제제의 조혈 인체 임상 근거.
+[^55]: The 12 weeks, randomized, double-blinded, placebo-controlled human study to evaluate the effectiveness and safety of KGC deer antlers on the growth of children. Kim SM 외. _Medicine_. 2022-10-28. [임상시험, 100명] [DOI 10.1097/MD.0000000000031567](https://doi.org/10.1097/MD.0000000000031567) [PMID 36316843](https://pubmed.ncbi.nlm.nih.gov/36316843/) — 어린이 성장 촉진을 위한 녹용 추출물의 유효성·안전성 무작위 이중맹검 위약대조시험. 신장·체중 등 성장 지표 유의 개선. 녹용 성장 촉진 인체 임상 근거.
+[^56]: Chinese herbal medicine for the treatment of chronic fatigue syndrome: A systematic review and meta-analysis. Yang Zhang 외. _Frontiers in Pharmacology_. 2022-09-29. [메타분석, 6944명] [DOI 10.3389/fphar.2022.958005](https://doi.org/10.3389/fphar.2022.958005) [PMID 10.3389/fphar.2022.958005](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2022.958005/) — 한약이 만성피로증후군 환자의 피로도·불안·우울·전반적 임상 증상을 유의하게 개선하며 안전성이 확보된 치료 옵션임을 확인한 대규모 메타분석. 공진단을 포함한 자양 보제류의 만성피로 적용 배경 근거.
+[^57]: Traditional Chinese medicine for chronic fatigue syndrome: a systematic review of randomized clinical trials. Wang YY 외. _Complementary therapies in medicine_. 2014-08. [체계적 고찰, 1776명] [DOI 10.1016/j.ctim.2014.06.004](https://doi.org/10.1016/j.ctim.2014.06.004) [PMID 25146086](https://pubmed.ncbi.nlm.nih.gov/25146086/) — 침·뜸·한약 등 전통의학적 중재가 만성피로증후군 환자의 피로 증상을 유의하게 완화하며 심각한 이상반응이 없음을 확인한 체계적 고찰. 한약 계열 만성피로 치료의 안전성 배경 근거.
+[^58]: A case of chronic fatigue syndrome improved by traditional Korean medicine. Son CG. _Integrative medicine research_. 2013-03. [증례 보고] [DOI 10.1016/j.imr.2013.01.002](https://doi.org/10.1016/j.imr.2013.01.002) [PMID 28664051](https://pubmed.ncbi.nlm.nih.gov/28664051/) — 서양의학적 치료에 반응하지 않던 중증 만성피로증후군 환자에게 한약·침·뜸을 병용한 통합 한방 치료로 피로도가 유의하게 감소한 국내 증례. 통합 한방 치료의 만성피로 임상 배경 근거.
+[^59]: Chinese herbal medicine for mild cognitive impairment using mini-mental state examination: A systematic review and meta-analysis. Wang W 외. _Medicine_. 2021-09-24. [메타분석] [DOI 10.1097/MD.0000000000027034](https://doi.org/10.1097/MD.0000000000027034) [PMID 34559097](https://pubmed.ncbi.nlm.nih.gov/34559097/) — 한약 투여가 경도인지장애 환자의 MMSE 점수를 개선함을 확인한 메타분석. 한약의 경도인지장애 개선 일반 근거.
+[^60]: The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials. Lingling Liu 외. _Frontiers in Pharmacology_. 2024-02-15. [메타분석, 1043명] [DOI 10.3389/fphar.2024.1341074](https://doi.org/10.3389/fphar.2024.1341074) [PMID 10.3389/fphar.2024.1341074](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2024.1341074/) — 한약이 경도인지장애 환자의 MMSE·MoCA 점수를 유의하게 개선함을 확인한 무작위 위약대조시험 메타분석. 한약의 경도인지장애 개선 일반 근거.
+[^61]: Chinese Herbal Medicine for Mild Cognitive Impairment: A Systematic Review and Meta-Analysis of Cognitive Outcomes. Dong L 외. _Phytotherapy research : PTR_. 2016-10. [메타분석, 4026명] [DOI 10.1002/ptr.5679](https://doi.org/10.1002/ptr.5679) [PMID 27416935](https://pubmed.ncbi.nlm.nih.gov/27416935/) — 대규모(4,026명) 메타분석에서 한약 치료가 경도인지장애 환자의 MMSE 점수를 유의하게 개선. 한약의 경도인지장애 개선 일반 근거.
+[^62]: Oral Chinese herbal medicine combined with donepezil for mild cognitive impairment: A systematic review and meta-analysis. Liu L 외. _Journal of the American Geriatrics Society_. 2024-12. [메타분석, 1611명] [DOI 10.1111/jgs.19125](https://doi.org/10.1111/jgs.19125) [PMID 39134455](https://pubmed.ncbi.nlm.nih.gov/39134455/) — 도네페질 단독 요법보다 한약 병용 투여가 경도인지장애 환자의 인지 기능(MMSE·MoCA)을 유의하게 개선하며 이상반응 증가가 없음을 확인. 양·한방 병용 인지 개선 근거.
+[^63]: Herbal medicine and acupuncture for mild cognitive impairment: a retrospective study of 2,242 for older adults in Republic of Korea. Suh HW 외. _Frontiers in neurology_. 2025. [관찰연구, 2242명] [DOI 10.3389/fneur.2025.1628794](https://doi.org/10.3389/fneur.2025.1628794) [PMID 41234942](https://pubmed.ncbi.nlm.nih.gov/41234942/) — 침 치료와 한약 병용이 경도인지장애 노인의 인지 기능(CIST 기준)·우울 증상 개선에 침 단독보다 효과적임을 보인 국내 대규모 후향적 관찰연구. 한약 병용 인지 개선 국내 임상 근거.
+[^64]: Current Utilization and Research Status of the Herbal Medicine Guibi-Tang and Its Variants for Cognitive Impairment: A Scoping Review. Kim G 외. _Nutrients_. 2025-10-26. [체계적 고찰, 555명] [DOI 10.3390/nu17213365](https://doi.org/10.3390/nu17213365) [PMID 41228437](https://pubmed.ncbi.nlm.nih.gov/41228437/) — 귀비탕·가미귀비탕이 경도인지장애·알츠하이머병·뇌졸중 후 인지장애 환자의 전반적 인지 기능·일상생활 수행능력을 개선하며 내약성이 우수함을 정리한 스코핑 리뷰. 공진단과의 감별 처방(귀비탕) 인지 영역 근거.
+[^65]: The effects of herbal medicine (Jujadokseo-hwan) on quality of life in patients with mild cognitive impairment: Cost-effectiveness analysis alongside randomized controlled trial. Lee JE 외. _Integrative medicine research_. 2023-03. [임상시험, 64명] [DOI 10.1016/j.imr.2022.100914](https://doi.org/10.1016/j.imr.2022.100914) [PMID 36632128](https://pubmed.ncbi.nlm.nih.gov/36632128/) — 주자독서환이 경도인지장애 환자의 삶의 질(KQOL-AD)을 유의하게 개선함을 보인 무작위 대조시험 기반 비용-효과 분석. 자양·개규 계열 보제의 경도인지장애 임상시험 설계 참고 근거.
 
 **고전 인용 출처**: 『東醫寶鑑』(內篇), 『醫方集解』, 『萬氏育兒』(萬全), 『黃帝內經素問』, 『靈樞』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-20 조회 기준
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-20 최초 조회, 2026-08-28 보강 조회 기준
