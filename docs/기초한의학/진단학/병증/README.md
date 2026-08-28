@@ -185,33 +185,38 @@
 
 #### 정 (13건)
 
-정(精) 문의 13개 표제어는 시기·동기·위치·성격·강도·변화양상·동반증상 7축 특성 검토 결과, 아래 5개 하위 그룹으로 묶인다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 해석이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+정(精) 문의 13개 표제어는 시기·동기·위치·성격·강도·변화양상·동반증상 7축 특성 검토 결과, 아래 5개 하위 그룹으로 묶인다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 해석이며, 원전이 명시적으로 이렇게 나눈 것은 아니다). 각 그룹 표제 아래 `시기·동기·위치·성격·강도·변화양상·동반증상` 순서의 7축 태그를 고정 배치한다(해당 그룹에서 변별력이 없는 축은 "—"로 표기).
 
-**① 몽중·야간 유발형** — 수면 중 무의식적으로 발생, 시기(時期)가 뚜렷한 유형
+**① 몽중·야간 유발형**
+시기: 수면·야간 · 동기: 몽(夢) · 위치: 신정(腎精) · 성격: 무의식적 배출 · 강도: 경~중등도 · 변화양상: 간헐적 · 동반증상: 도한(盜汗, 도한유정에 한함)
 
 - **몽설**(夢泄, Mongseol) — 몽정(ganacratia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002823)
 - **야몽유정**(夜夢遺精, Yamongyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006531)
 - **도한유정**(盜汗遺精, Dohanyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002232)
 
-**② 성기능저하 동반형** — 발기부전을 동반증상으로 명시, 사실상 이명동병(異名同病)에 가까운 한 쌍
+**② 성기능저하 동반형**
+시기: — · 동기: 신양허(腎陽虛) · 위치: 신정+성기능 · 성격: 배출+발기부전 · 강도: 중등도 · 변화양상: 만성 · 동반증상: 발기부전(양위/음위)
 
 - **양위유정**(陽痿遺精, Yangwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006639)
 - **음위유정**(陰痿遺精, Eumwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008052)
 
-**③ 정액 성상(性狀) 기준형** — '성격' 축에서 맑음↔탁함의 대립쌍, 배설 동반 여부로 다시 나뉨
+**③ 정액 성상(性狀) 기준형**
+시기: — · 동기: 신기허(정청)·습열하주(정탁·유정백탁) · 위치: 정액 성상 · 성격: 맑음(淸)↔탁함(濁) 대립쌍 · 강도: 경~중등도 · 변화양상: 만성 · 동반증상: 불임 소견(정청)·배뇨이상(정탁)·소변백탁(유정백탁)
 
 - **정청**(精淸, Jeongcheong) — 정자결핍증(spermacrasia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008934)
 - **정탁**(精濁, Jeongtak) — 정액뇨(semenuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008938)
 - **유정백탁**(遺精白濁, Yujeongbaektak) — 농뇨(pyuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012404)
 
-**④ 강도·경과 스펙트럼형** — 같은 "정 손실"이라도 강도·변화양상 축에서 경증·만성(누정) → 기본형(유정·실정) → 중증·급성(정탈)으로 이어지는 한 계열
+**④ 강도·경과 스펙트럼형**
+시기: 무관(각성시 포함) · 동기: 신기불고(누정)~대탈(정탈) · 위치: 신정 · 성격: 상실(원인 불문) · 강도: 경증·만성(누정) → 중증·급성(정탈) 스펙트럼 · 변화양상: 지속적(누정) ↔ 급변(정탈) · 동반증상: 정탈은 전신쇠약 동반 가능
 
 - **누정**(漏精, Nujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001821)
 - **유정**(遺精, Yujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007803)
 - **실정**(失精, Siljeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006052)
 - **정탈**(精奪, Jeongtal) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008939)
 
-**⑤ 정신적 소모 동반형** — 동반증상이 신체가 아니라 정신(우울)이라는 점에서 나머지 넷과 질적으로 다른 이질군
+**⑤ 정신적 소모 동반형**
+시기: — · 동기: 정신적 소모(脫營) · 위치: 신정+정신 · 성격: 상실+정신증상 · 강도: 중증 · 변화양상: 만성 진행형 · 동반증상: 우울(depression)
 
 - **탈영실정**(脫營失精, Taryeongsiljeong) — 우울증(depression) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010079)
 
