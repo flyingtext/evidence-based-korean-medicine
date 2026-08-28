@@ -16,7 +16,7 @@
 
 ### 3. 기저막(基底膜, basement membrane)의 구조와 기능
 
-기저막은 상피세포층과 하부 결합조직 사이에 위치하는 특수한 세포외기질 구조물로, 전자현미경 수준에서 투명판(透明板, lamina lucida)과 치밀판(緻密板, lamina densa)의 두 층으로 구분된다[교과서적 근거]. 주성분은 IV형 콜라겐(collagen IV)·라미닌(laminin)·엔탁틴(entactin)·헤파란황산 프로테오글리칸(heparan sulfate proteoglycan)이며, 상피세포는 헤미데스모솜(hemidesmosome)을 통해 기저막에 부착한다. 기저막은 단순한 부착 구조를 넘어 상피세포의 극성 형성·증식·분화를 조절하는 신호 전달의 장(場)으로 기능하며, 종양의 침습성을 감별하는 병리학적 기준(상피내암 대 침윤암)이 되기도 한다[교과서적 근거]. 수포성 유천포창(bullous pemphigoid)·표피박리수포증(epidermolysis bullosa) 등은 기저막 구성 단백질에 대한 자가면역 반응이나 유전적 결손으로 발생하는 대표적 질환이다.
+기저막은 상피세포층과 하부 결합조직 사이에 위치하는 특수한 세포외기질 구조물로, 넓은 의미의 기저막은 상피세포가 직접 만드는 기저판(基底板, basal lamina)과 그 아래 결합조직 쪽 섬유아세포가 분비하는 망상판(網狀板, reticular lamina)의 이층 구조로 구성된다[교과서적 근거]. 기저판은 다시 전자현미경 수준에서 투명판(透明板, lamina lucida)과 치밀판(緻密板, lamina densa)으로 세분되며, 주성분은 IV형 콜라겐(collagen IV, 육각형 격자를 이루는 뼈대 단백질)·라미닌(laminin, 세포막 수용체와 결합해 세포 부착·신호전달을 매개)·니도젠/엔탁틴(nidogen/entactin, IV형 콜라겐과 라미닌 그물을 가교)·퍼레칸(perlecan, 헤파란황산 프로테오글리칸으로 기저막의 전하 선택적 여과 기능을 담당)의 4대 분자로 이루어진 그물 구조다[교과서적 근거]. 망상판은 콜라겐 III형(세망섬유)과 고정원섬유(anchoring fibril, VII형 콜라겐)로 구성되어 기저판을 하부 결합조직에 물리적으로 고정하는 역할을 하며, 진성 기저막은 이 두 판이 합쳐진 것을 가리키므로 광학현미경 수준에서 관찰되는 "기저막"은 대개 기저판+망상판이 함께 인식된 상(像)이다[교과서적 근거]. 상피세포는 반데스모솜(hemidesmosome, 아래 연접복합체 항 참조)을 통해 기저판에 부착한다. 기저막은 단순한 부착 구조를 넘어 상피세포의 극성 형성·증식·분화를 조절하는 신호 전달의 장(場)으로 기능하며, 종양세포가 기저막을 뚫고 하부 결합조직으로 침습했는지 여부가 상피내암(carcinoma in situ)과 침윤암(invasive carcinoma)을 감별하는 핵심 병리학적 기준이 된다[교과서적 근거]. 수포성 유천포창(bullous pemphigoid)·표피박리수포증(epidermolysis bullosa) 등은 기저막 구성 단백질에 대한 자가면역 반응이나 유전적 결손으로 발생하는 대표적 질환이다.
 
 ### 4. 세포간 연접복합체(連接複合體, junctional complex)
 
@@ -26,12 +26,15 @@
 |---|---|---|
 | 밀착연접(密着連接, tight junction, zonula occludens) | 클라우딘(claudin)·오클루딘(occludin) 단백질이 인접 세포막을 융합해 세포 사이 틈을 봉쇄, 물질의 세포주위경로(paracellular pathway) 투과를 선택적으로 조절 | 소장 상피, 혈액뇌장벽 내피, 신세뇨관 상피 |
 | 부착연접(附着連接, adherens junction, zonula adherens) | 카드헤린(cadherin)이 세포막을 관통해 인접 세포와 결합, 액틴 세포골격과 연결되어 조직의 기계적 안정성 유지 | 대부분의 상피조직 전반 |
-| 데스모솜(desmosome, macula adherens) | 카드헤린 계열 단백질(데스모글레인·데스모콜린)이 케라틴 중간섬유와 결합하는 점상(點狀) 연접, 강한 기계적 부착력 제공 | 표피(특히 가시층), 심근 개재판 |
+| 데스모솜(desmosome, macula adherens) | 카드헤린 계열 단백질(데스모글레인·데스모콜린)이 세포막을 관통해 인접 세포와 결합하고, 세포질 쪽에서는 부착반(斑, plaque)을 이루는 데스모플라킨(desmoplakin)·플라코글로빈(plakoglobin)이 케라틴 중간섬유와 연결하는 점상(點狀) 연접, 강한 기계적 부착력 제공 | 표피(특히 가시층), 심근 개재판 |
+| 반데스모솜(半-, hemidesmosome) | 인테그린(integrin) α6β4가 상피세포 기저면 세포막에서 기저판의 라미닌-332와 결합하고, 세포질 쪽에서는 BP230(BPAG1)·플렉틴(plectin)이 케라틴 중간섬유와, 세포막의 BP180(BPAG2, XVII형 콜라겐)이 기저막 고정을 보강하는 "반쪽 데스모솜" 구조, 상피를 기저막에 강하게 부착 | 표피 기저층, 각막 상피, 기관지 상피 등 기계적 부하가 큰 상피의 기저면 |
 | 간극연접(間隙連接, gap junction) | 코넥신(connexin) 6분자가 모여 형성한 코넥손(connexon)이 인접 세포의 세포질을 직접 연결, 이온·소분자의 세포간 직접 이동 통로 | 심근, 평활근, 다수의 상피조직 |
 
-> 이 표는 조직학 교과서의 표준 분류이며, 실제 임상에서는 각 연접 단백질의 유전적 결손이 천포창(pemphigus, 데스모글레인 자가항체)·특정 유전성 피부질환(케라틴 유전자 이상) 등으로 발현되므로 개별 질환의 분자병리와 함께 해석해야 한다.
+> 이 표는 조직학 교과서의 표준 분류이며, 실제 임상에서는 각 연접 단백질의 유전적 결손이 천포창(pemphigus, 데스모글레인 자가항체)·수포성 유천포창(반데스모솜 BP180/BP230 자가항체)·특정 유전성 피부질환(케라틴 유전자 이상) 등으로 발현되므로 개별 질환의 분자병리와 함께 해석해야 한다.
 
 밀착연접의 완전성은 상피 장벽 기능(barrier function)의 핵심이며, 이 연접이 느슨해지는 현상(밀착연접 개방, tight junction opening)은 장 상피·피부 각질층·기도 상피 등 여러 장벽 조직에서 공통적으로 관찰되는 병태생리 기전으로, 인체 대상 연구에서도 다양한 질환과의 연관성이 축적되어 있다[^24]. 클라우딘·오클루딘 등 밀착연접 단백질의 발현 조절에 관여하는 식물 유래 화학물질(phytochemical)에 대한 문헌 고찰은 장 상피의 밀착연접 기능 저하가 대사성·염증성 질환과 밀접히 연관됨을 정리하며, 이 기전이 한약재를 포함한 다양한 천연물의 작용 표적이 될 수 있음을 제시했다[^24].
+
+데스모솜·반데스모솜의 분자 구성 단백질은 자가면역 수포성 피부질환의 표적 항원이라는 점에서 임상적으로 중요하다. 데스모글레인(desmoglein) 1·3에 대한 자가항체가 표피 가시층의 데스모솜을 파괴하여 표피 내(內) 수포를 형성하는 천포창(尋常性天疱瘡, pemphigus)은 소림프구성 림프종 등 악성 종양과 동반되는 부종양성 천포창(paraneoplastic pemphigus)의 형태로 나타나기도 하며, 스티븐스-존슨 증후군과 유사한 다형성 피부 병변을 보여 오진 위험이 있다는 증례가 보고되었다[^108]. 반면 반데스모솜을 구성하는 BP180(XVII형 콜라겐)에 대한 자가항체가 기저막 접착을 파괴해 표피 하(下) 수포를 형성하는 수포성 유천포창(bullous pemphigoid)은 DPP-4 억제제(글립틴 계열 당뇨병 치료제) 복용과 연관되어 발생할 수 있음이 여러 관찰연구로 확인되었으며, 약물 유발성 수포성 유천포창은 임상·면역학적으로 특발성 수포성 유천포창과 뚜렷한 차이를 보이지 않는다는 관찰연구가 있다[^109]. 국내 코호트를 대상으로 한 관찰연구는 리툭시맙(rituximab)의 건강보험 급여 적용 이후 천포창 환자의 치료 시작 시점이 빨라져 총 스테로이드 사용량 감소와 관해 도달 시간 단축이라는 임상적 이점이 확인되었음을 보고했다[^110]. 데스모솜·반데스모솜이라는 두 연접 구조가 각각 다른 자가면역 표적이 되어 서로 다른 수포성 질환(표피 내 대 표피 하 수포)을 유발한다는 사실은, 세포간 연접복합체의 분자 구성이 곧 상피조직의 임상적 병리를 결정하는 형태-기능 상관의 대표적 예시다.
 
 ## 제2편 피개상피(被蓋上皮) 각론
 
@@ -56,13 +59,35 @@
 
 각질층은 각질세포와 그 사이를 채우는 세라마이드(ceramide)·콜레스테롤·유리지방산으로 구성된 각질세포간지질(intercellular lipid)의 "벽돌과 시멘트(brick and mortar)" 구조로 피부 장벽 기능의 최전선을 담당한다[교과서적 근거]. 세라마이드는 각질층의 주요 지질 성분으로 피부 장벽 기능을 유지하며, 아토피피부염이나 건선 같은 피부 질환에서는 세라마이드 조성 변화가 장벽 손상과 밀접히 연관된다는 종설이 있다[^6]. 건강한 성인을 대상으로 한 실험연구는 한국의 전통적인 때밀이(물리적 각질 제거) 습관이 각질층에 기계적 손상을 가해 일시적으로 수분 보유력을 감소시키고 경피수분손실(TEWL)을 증가시켜 피부 장벽 기능을 일시적으로 약화시킬 수 있음을 보였다[^1]. 반면 한국인 X-연관 어린선(X-linked ichthyosis) 환자를 대상으로 한 관찰연구에서는 각질층 수분도는 낮지만 기초 경피수분손실량과 피부 pH는 정상으로 유지되어, 유전성 각화 이상 질환에서도 장벽 기능 저하가 반드시 전면적이지는 않을 수 있음이 확인되었다[^2].
 
+### 2-1. 중층입방상피(重層立方上皮)와 중층원주상피(重層圓柱上皮)
+
+중층편평상피에 비해 분포 범위는 좁지만, 조직학적 완전성을 위해 반드시 구분해야 하는 두 중층상피 유형이 있다[교과서적 근거]. 중층입방상피는 표층 세포가 정육면체에 가까운 2층 이상의 세포로 구성되며, 땀샘(汗腺)의 배출관·난소 표면상피의 일부·사춘기 이전 질(膣) 상피에서 관찰된다. 중층원주상피는 기저층은 입방형이나 표층 세포가 원주형인 구조로, 결막(結膜)의 일부·후두개(喉頭蓋) 주변 및 남성 요도(尿道)의 일부 구간·큰 침샘·땀샘의 배출관 접합부에 국한되어 나타난다. 두 유형 모두 단층상피보다 물리적 보호 기능이 강화되어 있으면서도 완전한 각화 방어벽을 갖춘 중층편평상피만큼의 마찰 저항력은 필요하지 않은 부위에 분포한다는 공통점이 있다.
+
 ### 3. 이행상피(移行上皮)
 
 이행상피는 방광·요관·신우(腎盂)와 같이 신전(伸展)이 반복되는 요로계 특유의 상피로, 방광이 비어 있을 때는 표층 세포가 둥글고 두꺼우나 신전 시에는 편평해지는 "우산세포(umbrella cell)"의 형태 변화가 특징이다[교과서적 근거]. 표층세포의 정단면은 유로플라킨(uroplakin)이 풍부한 특수 막 구조로 덮여 있어 소변의 고삼투압·독성으로부터 하부 조직을 보호하는 장벽 기능을 수행한다.
 
 ### 4. 상피세포 표면의 특수 분화 구조
 
-상피세포의 정단면은 기능에 따라 특수하게 분화한다. 미세융모는 소장 상피와 신세뇨관 상피에서 흡수 표면적을 극대화하고, 섬모는 기관지 상피와 난관 상피에서 점액이나 난자를 능동적으로 이동시키는 운동기관으로 기능한다[교과서적 근거]. 기도 상피의 섬모운동(점액섬모청소, mucociliary clearance)은 흡입된 이물질과 병원체를 상기도로 배출하는 1차 방어선이며, 시박탕(柴朴湯, saibokuto)이 기도 내 섬모 박동 빈도를 증가시키고 세포 내 cyclic AMP 농도를 높여 점액섬모 수송 기능을 강화한다는 실험연구가 있어, 한방 처방이 기도 상피의 정단부 특수 구조의 기능을 조절할 수 있음을 시사한다[^33]. 중증 조절되지 않는 천식 환자를 대상으로 한 관찰연구는 혼합형 염증 패턴을 보이는 환자군이 호산구성 패턴군보다 기관지 상피 파괴가 더 심하고 냉기 기도 과민성 빈도가 높음을 확인하여, 상피 손상의 정도가 임상 표현형과 연동됨을 보여주었다[^34].
+상피세포의 정단면은 기능에 따라 미세융모·자모연·부동섬모·섬모라는 네 가지 특수 구조로 분화한다[교과서적 근거].
+
+**미세융모(微細絨毛, microvilli)와 자모연(刷毛緣, brush border)**: 미세융모는 세포막이 손가락 모양으로 돌출하고 그 심부를 액틴(actin) 미세섬유 다발이 지지하는 구조로, 개별 미세융모는 광학현미경으로 낱개로 구분되지 않는다. 소장 흡수상피·신세뇨관 상피처럼 미세융모가 매우 조밀하고 규칙적으로 배열되어 광학현미경에서 정단면 전체가 하나의 균질한 띠(선조연, striated border) 또는 솔처럼 보이는 경우를 특별히 자모연이라 부르며, 이는 흡수 표면적을 20~30배까지 넓혀 영양소·수분·전해질의 흡수 효율을 극대화한다[교과서적 근거].
+
+**부동섬모(不動纖毛, stereocilia)**: 부동섬모는 이름과 달리 운동성이 없는 매우 긴 미세융모의 일종으로, 액틴 미세섬유 다발로 지지되며 진짜 섬모(纖毛)와는 미세소관 구조가 다르다. 부고환(副睾丸) 관 상피에서는 부동섬모가 정자 성숙에 필요한 물질 흡수·분비 표면적을 넓히는 역할을 하며, 내이(內耳) 달팽이관과 전정기관의 유모세포(hair cell) 정단면에 배열된 부동섬모는 기계적 자극(음파·중력·가속도)을 전기 신호로 변환하는 기계전기변환(mechanotransduction)의 직접적인 감각 수용기로 기능한다[교과서적 근거].
+
+**섬모(纖毛, cilia)**: 운동섬모는 부동섬모와 달리 미세소관(microtubule)으로 이루어진 축사(軸絲, axoneme)를 골격으로 하며, 축사는 중심부의 미세소관 2개(중심쌍, central pair)를 9개의 미세소관 이중체(doublet)가 원형으로 둘러싸는 "9+2" 배열을 이룬다[교과서적 근거]. 각 이중체 사이에는 다이닌(dynein) 팔이 있어 ATP 가수분해 에너지로 인접 이중체를 미끄러뜨림으로써 섬모의 굴곡 운동을 만들어내며, 기저부는 기저소체(basal body, 중심소체 유래)에 고정되어 세포막에 박혀 있다. 미세융모는 소장 상피와 신세뇨관 상피에서 흡수 표면적을 극대화하고, 섬모는 기관지 상피와 난관 상피에서 점액이나 난자를 능동적으로 이동시키는 운동기관으로 기능한다[교과서적 근거]. 기도 상피의 섬모운동(점액섬모청소, mucociliary clearance)은 흡입된 이물질과 병원체를 상기도로 배출하는 1차 방어선이며, 시박탕(柴朴湯, saibokuto)이 기도 내 섬모 박동 빈도를 증가시키고 세포 내 cyclic AMP 농도를 높여 점액섬모 수송 기능을 강화한다는 실험연구가 있어, 한방 처방이 기도 상피의 정단부 특수 구조의 기능을 조절할 수 있음을 시사한다[^33]. 중증 조절되지 않는 천식 환자를 대상으로 한 관찰연구는 혼합형 염증 패턴을 보이는 환자군이 호산구성 패턴군보다 기관지 상피 파괴가 더 심하고 냉기 기도 과민성 빈도가 높음을 확인하여, 상피 손상의 정도가 임상 표현형과 연동됨을 보여주었다[^34]. 축사의 미세소관 구조나 다이닌 팔에 유전적 결손이 있으면 섬모 운동이 소실되는 원발성 섬모운동이상증(primary ciliary dyskinesia)이 발생해 만성 기도 감염·불임·내장역위(situs inversus)로 나타날 수 있다는 점은, 섬모라는 미세구조 하나의 이상이 전신 여러 계통의 임상 표현형으로 이어질 수 있음을 잘 보여준다[교과서적 근거].
+
+### 5. 감각상피(感覺上皮)와 특수 상피
+
+정단면의 특수 구조가 극단적으로 분화하면 물질 이동을 넘어 외부 자극을 직접 수용·변환하는 감각상피로 기능한다. 감각상피는 신경조직이 아니면서도 신경계와 직접 시냅스를 이루어 정보를 전달한다는 점에서 상피조직과 신경조직의 경계에 위치한 특수 조직이다.
+
+**후각상피(嗅覺上皮, olfactory epithelium)**: 비강 상부 천장에 위치한 위중층 신경상피로, 후각수용뉴런(olfactory sensory neuron)·지지세포(sustentacular cell)·기저세포(basal cell)로 구성된다. 후각수용뉴런의 정단면 수상돌기는 후각소포(olfactory knob)에서 부동성 섬모를 뻗어 냄새 분자 수용체를 발현하며, 그 축삭은 사판(篩板, cribriform plate)을 통과해 후구(olfactory bulb)로 직접 투사된다. 후각상피는 중추신경계와 연결된 신경세포가 말초에서 지속적으로 교체되는 몇 안 되는 조직으로, 기저세포가 후각수용뉴런을 평생 재생하는 내재적 재생 능력을 가지며, 이 재생 기전을 후각 장애의 재생의학적 치료 전략에 응용하려는 문헌 고찰이 있다[^111]. 상기도 바이러스 감염(코로나19 포함)에 의한 후각상피 손상은 급성·만성 후각 소실(무후각증)의 흔한 원인이며, 코로나19 관련 후각 장애 환자에게 한방약(칸포, Kampo medicine)을 투여한 후향적 관찰연구는 표준 관리군보다 후각 기능의 조기 회복률이 유의하게 높았음을 보고해, 후각상피의 재생·회복 과정에 한약이 개입할 가능성을 시사했다[^112].
+
+**미뢰(味蕾, taste bud)의 미각상피**: 혀의 유곽유두(有郭乳頭)·엽상유두(葉狀乳頭)·심상유두(蕈狀乳頭) 상피에 매몰된 양파 모양의 세포 집합체로, 미각수용세포(제II·III형)·지지세포(제I형)·기저세포(제IV형)가 미공(味孔, taste pore)을 향해 미세융모를 뻗은 구조를 갖는다[교과서적 근거]. 미각수용체는 미뢰 세포뿐 아니라 위장관·호흡기 등 신체 여러 비미각 기관에서도 발현되어 화학수용 감시(chemosensing) 기능을 수행한다는 문헌 고찰이 있다[^113]. 코로나19 부검 조직을 분석한 실험연구는 SARS-CoV-2가 혀의 미뢰(KRT7 양성 미각수용세포)와 타액선 세포에 직접 감염하여 세포 손상·염증 반응을 일으키는 것이 미각 이상(dysgeusia)의 병태생리와 밀접히 관련됨을 확인했다[^114].
+
+**내이 유모세포(有毛細胞, hair cell)**: 달팽이관의 코르티기관(organ of Corti)과 전정기관의 팽대능정·평형반에 위치하는 특수 감각상피세포로, 정단면에 부동섬모 다발(stereocilia bundle)이 계단식으로 배열되어 있어 기계적 변위가 이온 통로를 직접 열고 닫는 기계전기변환을 담당한다[교과서적 근거]. 유모세포는 재생 능력이 극히 제한적이어서 소음·이독성 약물·노화에 의한 손상이 비가역적 감각신경성 난청으로 이어지기 쉬우며, 유모세포·나선신경절뉴런의 재생을 유도하기 위한 전기·광·자기 자극 등 물리적 조절 전략의 최신 진척을 정리한 문헌 고찰[^115]과, 생명공학·생의학 공학 기술을 이용한 청각 재건 전략을 다룬 문헌 고찰[^116], 유모세포 손상의 핵심 기전인 페로토시스(ferroptosis)를 표적으로 한 치료 전략을 정리한 문헌 고찰[^117]이 있다. 감각신경성 난청의 재생 치료는 아직 임상 적용 이전의 기전·전임상 단계에 머물러 있는 경우가 많다.
+
+> 감각상피는 정단면의 부동섬모·섬모라는 동일한 미세구조적 원리(제4항 참조)가 후각·미각·청각·평형각이라는 서로 다른 감각 양식으로 분화한 결과라는 점에서, 상피조직의 표면 특수분화가 갖는 기능적 다양성을 잘 보여준다. 이 근거들은 감각상피의 구조·재생 기전을 다룬 기초·임상 연구이지, 한방 치료가 감각기관 손상을 일률적으로 회복시킨다는 근거로 확대 해석해서는 안 된다.
 
 ## 제3편 선상피(腺上皮) 각론
 
@@ -107,11 +132,21 @@
 
 화생은 성숙한 한 조직이 지속적인 자극에 적응하여 다른 성숙한 조직으로 가역적으로 전환되는 현상으로, 상피조직에서 가장 흔히 관찰된다[교과서적 근거]. 대표적으로 만성 위산 역류에 노출된 식도 편평상피가 원주상피로 전환되는 바렛식도(Barrett's esophagus)와, 헬리코박터파일로리 감염·만성 염증에 의해 위점막 상피가 장상피로 전환되는 장상피화생(腸上皮化生)이 있다. 자가면역성 위염(autoimmune gastritis) 환자를 대상으로 한 관찰연구는 이 질환에서 바렛식도의 유병률이 매우 높으며, 질환이 진행할수록 단기 분절 바렛식도보다 장기 분절 바렛식도의 빈도가 증가하는 경향을 확인했다[^14]. 화생 상피는 원래 조직보다 발암 위험이 높아 임상적으로 추적 관찰의 대상이 되며, 위점막의 장상피화생 역시 위암의 전구 병변으로 간주되어 정기적인 내시경 감시가 필요하다[교과서적 근거].
 
-### 4. 상피-간엽 이행(上皮-間葉 移行, epithelial-mesenchymal transition, EMT)
+### 4. 상피 이형성(異形成, dysplasia)과 상피성 암종(癌腫, carcinoma)의 조직학적 개념
+
+이형성은 상피세포가 정상 분화 과정을 벗어나 세포 크기·모양의 불균일(다형성, pleomorphism), 핵-세포질 비율 증가, 핵의 과염색·다형성, 정상 층상 배열의 소실이라는 조직학적 소견을 보이는 전암성(前癌性) 변화로, 병변이 기저막을 넘지 않은 상태를 상피내암(carcinoma in situ) 또는 고등급 상피내종양(high-grade intraepithelial neoplasia)이라 하고, 기저막을 뚫고 하부 결합조직으로 침습하면 침윤성 암종(invasive carcinoma)으로 진단한다[교과서적 근거]. 이 진행 경로는 자궁경부·구강·식도 등 여러 상피 부위에서 공통적으로 관찰되는 발암 과정의 형태학적 뼈대다.
+
+**자궁경부 상피내종양(cervical intraepithelial neoplasia, CIN)**: 인유두종바이러스(HPV) 감염이 자궁경부 편평상피의 이형성을 유발하는 대표 모델로, 세포진 검사(Pap smear)와 조직생검을 통한 등급 분류(CIN1~3)가 확립되어 있다. HPV16/18 양성 CIN2 병변을 즉시 치료하지 않고 능동 감시(active monitoring)했을 때의 진행·지속·퇴행 경과를 분석하는 체계적 고찰 프로토콜은, 저등급~중등도 이형성이 반드시 진행하지는 않고 자연 퇴행할 수 있다는 임상적 관찰에 기반한다[^118]. 청열제습(淸熱除濕)법 기반의 한약 치료를 고위험군 HPV 감염 환자에게 적용한 무작위 대조군 임상시험들의 메타분석은 단순 추적 관찰이나 인터페론 단독 치료보다 HPV 소실률을 높이고 CIN의 퇴행률을 유의하게 개선함을 확인했으며[^119], 인터페론 α2b와 중의약을 병용했을 때 단독 투여보다 HPV 음성 전환율이 높아지고 재발률이 유의하게 감소했다는 임상시험도 있다[^120]. 이 근거들은 저등급 상피 이형성 단계에서 한의학적 개입이 병변 퇴행·바이러스 소실을 보조할 가능성을 시사하지만, 고등급 병변(CIN2/3 이상)이나 침윤암이 의심되는 경우 원추절제술 등 표준 치료를 지연해서는 안 된다.
+
+**설·구강 편평세포암(squamous cell carcinoma)**: 설편평세포암 조직을 분석한 관찰연구는 pJAK·Cyclin D1 단백질의 과발현이 정상 조직·이형성 조직보다 암 조직에서 유의하게 높게 나타나 이형성에서 암종으로의 진행이 특정 신호전달 단백질의 단계적 과발현과 동반됨을 확인했으며[^121], 구강 이형성 병변의 약 43%에서 3번 염색체 단완(3p)의 대립유전자 불균형이 발견되어 이것이 구강 편평세포암에서 나타나는 유전적 결손 부위와 일치한다는 관찰연구는 유전적 이상이 형태학적 이형성보다 먼저, 또는 그와 나란히 나타나는 조기 발암 사건임을 보여준다[^122].
+
+> 상피 이형성·상피내암·침윤암이라는 개념적 스펙트럼은 여러 상피 부위(자궁경부·구강·식도·위점막)에서 공통적으로 적용되는 병리학적 뼈대이지만, 부위별 위험 인자·진행 속도·감시 주기는 서로 다르다. 한의학적 개입의 근거는 대부분 저등급 이형성·바이러스 소실 보조 단계에 국한되며, 고등급 이형성·상피내암·침윤암이 확인된 환자는 병기에 맞는 표준 치료(절제·방사선·항암치료)를 우선하고 한의학적 치료는 보조·병용의 위치에서 검토해야 한다.
+
+### 5. 상피-간엽 이행(上皮-間葉 移行, epithelial-mesenchymal transition, EMT)
 
 상피-간엽 이행은 극성을 가진 상피세포가 세포간 연접을 상실하고 이동성·침습성을 가진 간엽세포(間葉細胞, mesenchymal cell) 유사 표현형으로 전환되는 과정이다[교과서적 근거]. EMT는 발생 과정의 정상적인 형태형성(제1형)뿐 아니라 조직 섬유화(제2형)와 암의 침습·전이(제3형)에서도 핵심적인 역할을 한다. 다양한 EMT 관련 유전자 발현 데이터셋을 통합 분석한 메타분석은 EMT가 단일한 과정이 아니라 여러 하위 유형으로 존재함을 확인했다[^15]. 안구 만성 이식편대숙주질환(ocular chronic GVHD) 환자를 대상으로 한 실험연구는 결막·누선 상피에서 EMT가 일어나 섬유화로 이어짐을 보였고[^16], IgG4-관련 미쿨리츠병(Mikulicz's disease)의 누선 섬유화 과정에서도 EMT 기전이 관여함이 확인되었다[^20]. 신장 세뇨관 상피의 EMT가 세뇨관간질섬유화(tubulointerstitial fibrosis)를 유발하는 핵심 기전이라는 문헌 고찰은, 황기(黃芪)·단삼(丹蔘)·동충하초(冬蟲夏草) 등의 본초와 보기활혈탕(補氣活血湯) 등의 처방이 이 EMT 과정을 억제할 수 있음을 시사하여 한약이 상피-간엽 이행이라는 세포 수준의 병리 기전에 개입할 가능성을 제시했다[^17]. p53 단백질이 EMT·세포사멸·노화를 통해 신장·간·폐·심장의 장기 섬유화를 조절하는 기전을 정리한 문헌 고찰도 있다[^18]. 흑종자(黑種子, Nigella sativa)와 그 활성 성분인 티모퀴논(thymoquinone)이 제2형 EMT 과정을 조절하여 상처 치유를 촉진하고 조직 염증·장기 섬유화를 억제할 수 있다는 체계적 고찰은, 본초 성분이 EMT 조절이라는 세포생물학적 기전을 통해 상피 재생과 섬유화 억제라는 상반된 두 방향에 동시에 관여할 수 있음을 보여준다[^19].
 
-### 5. 상피 장벽 기능 이상과 질병
+### 6. 상피 장벽 기능 이상과 질병
 
 상피조직의 밀착연접·기저막·점액층으로 구성된 장벽 기능이 붕괴되면 전신 질환으로 이어질 수 있다는 개념은 장 상피와 피부 상피 모두에서 활발히 연구되고 있다.
 
@@ -348,6 +383,21 @@ EMT는 상피조직이 고정된 정적 구조가 아니라 자극에 반응하�
 [^104]: [Application of intraoral ultrasonic imaging in diagnosis and treatment of 18 patients with oral leukoplakia in non-masticatory mucosa]. Li DY 외. _Shanghai kou qiang yi xue_. 2020-06. [관찰연구, 18명] [PMID 33043344](https://pubmed.ncbi.nlm.nih.gov/33043344/) — 구강 내 초음파가 백반증의 상피층 두께·각화 양상을 정량적으로 구분할 수 있음을 확인.
 [^105]: Diagnostic accuracy of artificial intelligence assisted clinical imaging in the detection of oral potentially malignant disorders and oral cancer: a systematic review and meta-analysis. Li J 외. _International journal of surgery_. 2024-08-01. [메타분석] [DOI 10.1097/JS9.0000000000001469](https://doi.org/10.1097/JS9.0000000000001469) [PMID 38652301](https://pubmed.ncbi.nlm.nih.gov/38652301/) — AI 기반 임상 영상 분석이 구강 잠재적 악성 질환·구강암 진단에서 높은 정확도를 보임을 확인.
 [^107]: Pseudomonas oryzihabitans: An Emerging Opportunistic Pathogen Causing Severe Burn Wound Infection After Improper Moxibustion Patch Use in an Elderly Diabetic Farmer. Wang R 외. _Infection and drug resistance_. 2026. [증례 보고, 1명] [DOI 10.2147/IDR.S611045](https://doi.org/10.2147/IDR.S611045) [PMID 42261283](https://pubmed.ncbi.nlm.nih.gov/42261283/) — 부적절한 뜸 패치 사용으로 발생한 심부 화상·기회감염균 감염 사례와 항생제·외과적 병행 치료의 효과를 보고.
+[^108]: Paraneoplastic pemphigus associated with small lymphocytic lymphoma: A case report. Wang D 외. _Medicine_. 2021-01-15. [증례 보고, 1명] [DOI 10.1097/MD.0000000000024039](https://doi.org/10.1097/MD.0000000000024039) [PMID 33466152](https://pubmed.ncbi.nlm.nih.gov/33466152/) — 소림프구성 림프종과 동반된 부종양성 천포창이 스티븐스-존슨 증후군과 유사한 다형성 피부 병변을 보여 오진 위험이 높음을 보고한 증례.
+[^109]: Clinical and immunological profile of patients with dipeptidyl peptidase-4 inhibitor-associated bullous pemphigoid. Bellinato F 외. _Italian journal of dermatology and venereology_. 2021-08. [관찰연구, 31명] [DOI 10.23736/S2784-8671.20.06562-1](https://doi.org/10.23736/S2784-8671.20.06562-1) [PMID 32545941](https://pubmed.ncbi.nlm.nih.gov/32545941/) — DPP-4 억제제 연관 수포성 유천포창이 임상·면역·병리학적으로 특발성 수포성 유천포창과 유의미한 차이가 없음을 확인, 반데스모솜 표적 항원(BP180)의 자가면역 기전을 뒷받침.
+[^110]: Clinical impact and a prognostic marker of early rituximab treatment after rituximab reimbursement in Korean pemphigus patients. Song A 외. _Frontiers in immunology_. 2022. [관찰연구, 214명] [DOI 10.3389/fimmu.2022.932909](https://doi.org/10.3389/fimmu.2022.932909) [PMID 35983042](https://pubmed.ncbi.nlm.nih.gov/35983042/) — 리툭시맙 급여화 이후 국내 천포창 환자의 조기 치료 시행이 스테로이드 총사용량 감소·관해 도달 시간 단축과 연관됨을 확인.
+[^111]: Strategies to Develop Regenerative Medicine Approaches for Olfactory Disorders. Kim DH 외. _Clinical and experimental otorhinolaryngology_. 2025-08. [문헌 고찰] [DOI 10.21053/ceo.2025-00065](https://doi.org/10.21053/ceo.2025-00065) [PMID 40276849](https://pubmed.ncbi.nlm.nih.gov/40276849/) — 후각 상실 치료를 위한 재생의학적 전략과 말초 후각상피의 내재적 재생 능력을 정리.
+[^112]: Kampo Medicine Promotes Early Recovery From Coronavirus Disease 2019-Related Olfactory Dysfunction: A Retrospective Observational Study. Ono R 외. _Frontiers in Pharmacology_. 2022-03-30. [관찰연구, 87명] [DOI 10.3389/fphar.2022.844072](https://doi.org/10.3389/fphar.2022.844072) — 코로나19 관련 후각 장애 환자에서 한방약(칸포) 투여가 표준 관리보다 후각 기능의 조기 회복을 촉진함을 확인.
+[^113]: Taste Receptors beyond Taste Buds. Ki SY 외. _International journal of molecular sciences_. 2022-08-26. [문헌 고찰] [DOI 10.3390/ijms23179677](https://doi.org/10.3390/ijms23179677) [PMID 36077074](https://pubmed.ncbi.nlm.nih.gov/36077074/) — 미각 수용체가 혀의 미각세포뿐 아니라 다양한 비미각 기관에서도 발현되어 화학수용 감시 기능을 수행함을 정리.
+[^114]: Severe acute respiratory syndrome coronavirus 2 pathology and cell tropism in tongue tissues of COVID-19 autopsies. Ma L 외. _Frontiers in cellular and infection microbiology_. 2024. [실험연구, 5명] [DOI 10.3389/fcimb.2024.1394721](https://doi.org/10.3389/fcimb.2024.1394721) [PMID 38975331](https://pubmed.ncbi.nlm.nih.gov/38975331/) — COVID-19 환자의 미각 이상이 SARS-CoV-2의 혀 미뢰(KRT7 양성 미각수용세포)·타액선 세포 직접 감염과 밀접히 관련됨을 확인.
+[^115]: Study on Recovery Strategy of Hearing Loss & SGN Regeneration Under Physical Regulation. Li Z 외. _Advanced science (Weinheim, Baden-Wurttemberg, Germany)_. 2025-02. [문헌 고찰] [DOI 10.1002/advs.202410919](https://doi.org/10.1002/advs.202410919) [PMID 39716878](https://pubmed.ncbi.nlm.nih.gov/39716878/) — 난청 치료를 위한 나선신경절뉴런·유모세포 재생 유도 물리적 조절 전략(전기·빛·자기 자극)의 원리와 진척을 분석.
+[^116]: Emerging biotechnologies and biomedical engineering technologies for hearing reconstruction. Hu Y 외. _Smart medicine_. 2023-11. [문헌 고찰] [DOI 10.1002/SMMD.20230021](https://doi.org/10.1002/SMMD.20230021) [PMID 39188297](https://pubmed.ncbi.nlm.nih.gov/39188297/) — 감각신경성 난청의 근본 원인인 유모세포·나선신경절 신경세포 손상 복구를 위한 생명공학·생의학 공학 기술 동향을 제시.
+[^117]: Targeting ferroptosis in sensorineural hearing loss: mechanisms, therapeutics, and translational prospects. Zhang L 외. _Frontiers in neurology_. 2026. [문헌 고찰] [DOI 10.3389/fneur.2026.1763297](https://doi.org/10.3389/fneur.2026.1763297) [PMID 42147853](https://pubmed.ncbi.nlm.nih.gov/42147853/) — 유모세포 손상의 핵심 기전인 페로토시스를 억제해 청력을 보호하는 치료 전략의 가능성을 제시.
+[^118]: The clinical course of untreated CIN2 (HPV16/18+) under active monitoring: A protocol of systematic reviews and meta-analysis. Han B 외. _Medicine_. 2023-02-10. [체계적 고찰] [DOI 10.1097/MD.0000000000032855](https://doi.org/10.1097/MD.0000000000032855) [PMID 36820536](https://pubmed.ncbi.nlm.nih.gov/36820536/) — HPV16/18 양성 CIN2를 즉시 치료하지 않고 능동 감시했을 때의 진행·지속·퇴행 예후를 분석하는 체계적 고찰 프로토콜.
+[^119]: Effect of heat-clearing and dampness-eliminating Chinese medicine for high-risk cervical cancer papillomavirus infection: a systematic review and meta-analysis of randomized controlled trials. Huang S 외. _Frontiers in Medicine_. 2023-08-24. [메타분석, 1574명] [DOI 10.3389/fmed.2023.1022030](https://doi.org/10.3389/fmed.2023.1022030) — 청열제습법 기반 한약 치료가 고위험군 HPV 감염에서 추적 관찰·인터페론 단독보다 HPV 소실률과 CIN 퇴행률을 유의하게 개선함을 확인.
+[^120]: Functions of Traditional Chinese Medicine Combined with Recombinant Human Interferon α2b in Cervical Intraepithelial Neoplasias Patients. Ding W 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-09. [임상시험, 178명] [DOI 10.1155/2021/6881720](https://doi.org/10.1155/2021/6881720) — 인터페론 α2b와 중의약 병용이 고위험 HPV 양성 CIN 환자의 HPV 음성 전환율을 높이고 재발률·염증 수치를 유의하게 감소시킴을 확인.
+[^121]: [Expression of pJAK, pERK and Cyclin D1 proteins in squamous-cell carcinoma of tongue]. Li SY 외. _Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences_. 2007-07. [관찰연구, 80명] [DOI 10.3785/j.issn.1008-9292.2007.04.016](https://doi.org/10.3785/j.issn.1008-9292.2007.04.016) [PMID 17717834](https://pubmed.ncbi.nlm.nih.gov/17717834/) — 설편평세포암에서 pJAK·Cyclin D1 과발현이 정상·이형성 조직보다 유의하게 높아 이형성-암종 진행과 신호전달 단백질 발현이 동반됨을 확인.
+[^122]: Allelic imbalance on chromosome 3p in oral dysplastic lesions: an early event in oral carcinogenesis. Roz L 외. _Cancer research_. 1996-03-15. [관찰연구, 30명] [PMID 8640803](https://pubmed.ncbi.nlm.nih.gov/8640803/) — 구강 이형성 병변의 약 43%에서 3p 대립유전자 불균형이 발견되며 이는 구강 편평세포암의 결손 부위와 일치하는 조기 발암 사건임을 확인.
 
 **고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 皮部論 등 피부·상피 관련 편), 『靈樞』(經筋篇 등)
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-28 조회 기준
