@@ -107,6 +107,17 @@ RUN.md                         # 작성·보강 명령어
 
 이 저장소의 콘텐츠는 [CC BY 4.0(Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/) 라이선스로 배포됩니다. 출처 표시를 조건으로 자유롭게 복제·재배포·개작·상업적 이용이 가능합니다. 전문은 [LICENSE](./LICENSE) 참조.
 
+## 사용 AI 엔진
+
+본 저장소는 AI를 활용해 생성·보강한 문서로 오류나 오타가 있을 수 있습니다. 제작 기간 동안 아래 엔진들을 용도별로 사용했습니다(커밋 이력에서 확인 가능한 것 포함).
+
+| 용도 | 엔진 |
+|---|---|
+| 문서 작성·보강·저장소 운영(현재 주력) | **Claude**(Sonnet 5 등, Anthropic) |
+| 논문 데이터 추출 | **Gemma 4 31B** |
+| 문서 본문 작성 | **DeepSeek V4 Flash**, **GLM-5.2** |
+| 보조 조사·검토 | **ChatGPT**(OpenAI), **Gemini**(Google) |
+
 ## Maintainer
 
 - **윤지현** (flyingtext@nate.com) · 한의사 면허번호 28216
