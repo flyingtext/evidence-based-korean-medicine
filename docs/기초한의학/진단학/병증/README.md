@@ -1513,464 +1513,754 @@
 
 #### 두 (59건)
 
+두 문의 59개 표제어는 아래 14개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
 - **감모두통**(感冒頭痛, Gammodutong) — 감기(common cold) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000242)
-- **담화두통**(痰火頭痛, Damhwadutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002065)
-- **대뇌두풍**(大雷頭風, Daenoedupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002094)
-- **대두온**(大頭瘟, Daeduon) — 전염병(communicable disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002096)
-- **대두천행병**(大頭天行病, Daeducheonhaengbyeong) — 전염병(communicable disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002098)
-- **두목현훈**(頭目眩暈, Dumokyeonhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002306)
-- **두선**(頭旋, Duseon) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002323)
 - **두액통**(頭額痛, Duaektong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002330)
-- **두요**(頭搖, Duyo) — 머리율동경련(krauomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002340)
-- **두중**(頭重, Dujung) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002342)
 - **두통**(頭痛, Dutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002420)
 - **두통목현**(頭痛目眩, Dutongmokyeon) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002421)
 - **두통무한**(頭痛無汗, Dutongmuhan) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002422)
-- **두통발열**(頭痛發熱, Dutongbaryeol) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002423)
 - **두통비색**(頭痛鼻塞, Dutongbisaek) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002425)
 - **두통신통**(頭痛身痛, Dutongsintong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002426)
 - **두통여파**(頭痛如破, Dutongyeopa) — 폭발두통(dynamite headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013259)
 - **두통항강**(頭痛項强, Dutonghanggang) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002427)
 - **두통현훈**(頭痛眩暈, Dutonghyeonhun) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002428)
-- **두풍**(頭風, Dupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002429)
-- **두풍두통**(頭風頭痛, Dupungdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002432)
-- **두풍설**(頭風屑, Dupungseol) — 비듬(dander) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002437)
-- **두피종양**(頭皮腫痒, Dupijongyang) — 두피 가려움증(scalp pruritus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002449)
 - **두피통**(頭皮痛, Dupitong) — 두피통(myalgia capitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002452)
-- **두한**(頭汗, Duhan) — 발한(perspiration) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002453)
-- **두항연**(頭項軟, Duhangyeon) — 유아성 뇌성마비(infantile cerebral palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002460)
-- **두현**(頭眩, Duhyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002461)
-- **두혼**(頭昏, Duhon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002463)
-- **두훈**(頭暈, Duhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002491)
 - **두훈두통**(頭暈頭痛, Duhundutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002492)
 - **부인두통**(婦人頭痛, Buindutong) — 부인두통(gynecoheadache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003448)
-- **부인두풍**(婦人頭風, Buindupung) — 부인만성두통(gynecochronic headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003449)
 - **비연두통**(鼻淵頭痛, Biyeondutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003732)
 - **산후두통**(産後頭痛, Sanhudutong) — 산후 두통(postpartum headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004120)
-- **상풍두통**(傷風頭痛, Sangpungdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004439)
-- **상한두통**(傷寒頭痛, Sanghandutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004472)
-- **소뇌두풍**(小雷頭風, Sonoedupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004817)
 - **소양두통**(少陽頭痛, Soyangdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005149)
 - **시기두통**(時氣頭痛, Sigidutong) — 유행성 두통(epidemic headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005641)
-- **열궐두통**(熱厥頭痛, Yeolgwoldutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006874)
-- **유두풍**(乳頭風, Yudupung) — 유두균열(fissured nipple) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007747)
 - **정두통**(正頭痛, Jeongdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008881)
 - **정편두통**(正偏頭痛, Jeongpyeondutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008942)
 - **편두통**(偏頭痛, Pyeondutong) — 편두통(migraine) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010326)
-- **풍담두통**(風痰頭痛, Pungdamdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010591)
-- **현훈**(眩暈, Hyeonhun) — 수두증(hydrocephalus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011339)
 - **현훈두통**(眩暈頭痛, Hyeonhundutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011340)
+- **전정통**(巓頂痛, Jeonjeongtong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008822)
+
+**② 실열형** — 성격: 실열(實熱)
+
+- **담화두통**(痰火頭痛, Damhwadutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002065)
+- **두통발열**(頭痛發熱, Dutongbaryeol) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002423)
+- **뇌열**(腦熱, Noeyeol) — 머리 열증상(head febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001797)
+- **열훈**(熱暈, Yeolhun) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007013)
+
+**③ 풍병형** — 병인: 풍(風)
+
+- **대뇌두풍**(大雷頭風, Daenoedupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002094)
+- **두풍**(頭風, Dupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002429)
+- **두풍두통**(頭風頭痛, Dupungdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002432)
+- **두풍설**(頭風屑, Dupungseol) — 비듬(dander) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002437)
+- **부인두풍**(婦人頭風, Buindupung) — 부인만성두통(gynecochronic headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003449)
+- **소뇌두풍**(小雷頭風, Sonoedupung) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004817)
+- **유두풍**(乳頭風, Yudupung) — 유두균열(fissured nipple) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007747)
+- **풍담두통**(風痰頭痛, Pungdamdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010591)
+
+**④ 역병·유행형** — 병인: 온역·유행(瘟疫)
+
+- **대두온**(大頭瘟, Daeduon) — 전염병(communicable disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002096)
+
+**⑤ 두목 연계형** — 위치: 두목(頭目) 겸병
+
+- **두목현훈**(頭目眩暈, Dumokyeonhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002306)
+- **두현**(頭眩, Duhyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002461)
+- **두훈**(頭暈, Duhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002491)
+
+**⑥ 경기·경풍형** — 성격: 경풍(驚風)
+
+- **두요**(頭搖, Duyo) — 머리율동경련(krauomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002340)
+
+**⑦ 피부 발적·발진형** — 성격: 발적·발진
+
+- **두피종양**(頭皮腫痒, Dupijongyang) — 두피 가려움증(scalp pruritus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002449)
+
+**⑧ 정신·의식 이상형** — 동반증상: 정신·의식 증상
+
+- **두혼**(頭昏, Duhon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002463)
+
+**⑨ 외상형** — 동기: 외상(外傷)
+
+- **상풍두통**(傷風頭痛, Sangpungdutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004439)
+- **상한두통**(傷寒頭痛, Sanghandutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004472)
+
+**⑩ 궐증형** — 성격: 궐증(厥證)
+
+- **열궐두통**(熱厥頭痛, Yeolgwoldutong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006874)
+
+**⑪ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **화창대두**(火脹大頭, Hwachangdaedu) — 화농성 눈속염증(purulent endophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011635)
+
+**⑫ 한증형** — 성격: 한증(寒證)
+
+- **뇌한**(腦寒, Noehan) — 뇌 냉감(head cold sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001807)
+
+**⑬ 허증형** — 강도: 허증(虛症)
+
+- **허훈**(虛暈, Heohun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011323)
+
+**⑭ 기타** — 동반증상: 복합·잔여
+
+- **대두천행병**(大頭天行病, Daeducheonhaengbyeong) — 전염병(communicable disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002098)
+- **두선**(頭旋, Duseon) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002323)
+- **두중**(頭重, Dujung) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002342)
+- **두한**(頭汗, Duhan) — 발한(perspiration) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002453)
+- **두항연**(頭項軟, Duhangyeon) — 유아성 뇌성마비(infantile cerebral palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002460)
+- **현훈**(眩暈, Hyeonhun) — 수두증(hydrocephalus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011339)
 - **현훈안흑**(眩暈眼黑, Hyeonhunanheuk) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011343)
 - **현훈이명**(眩暈耳鳴, Hyeonhunimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011344)
-- **화창대두**(火脹大頭, Hwachangdaedu) — 화농성 눈속염증(purulent endophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011635)
 - **뇌역**(腦逆, Noeyeok) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001796)
-- **뇌열**(腦熱, Noeyeol) — 머리 열증상(head febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001797)
-- **뇌한**(腦寒, Noehan) — 뇌 냉감(head cold sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001807)
-- **열훈**(熱暈, Yeolhun) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007013)
 - **울모**(鬱冒, Ulmo) — 감기(common cold) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007561)
-- **전정통**(巓頂痛, Jeonjeongtong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008822)
-- **허훈**(虛暈, Heohun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011323)
 - **현모**(眩冒, Hyeonmo) — 감기(common cold) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011327)
 - **현부**(眩仆, Hyeonbu) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011329)
-
 #### 면 (25건)
 
-- **구안와사**(口眼喎斜, Guanwasa) — 벨마비(bell's palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000977)
+면 문의 25개 표제어는 아래 9개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 풍병형** — 병인: 풍(風)
+
 - **두면풍**(頭面風, Dumyeonpung) — 머리얼굴증후군(craniofacial syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002299)
+- **면풍독**(面風毒, Myeonpungdok) — 얼굴의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of face) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002675)
+
+**② 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **면발독**(面發毒, Myeonbaldok) — 얼굴의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of face) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002626)
+
+**③ 변색·건조형** — 성격: 변색·건조
+
+- **면백**(面白, Myeonbaek) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002627)
+
+**④ 피부 발적·발진형** — 성격: 발적·발진
+
+- **면생흑반**(面生黑斑, Myeonsaengheukban) — 얼굴흑색증(facial melanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002650)
+
+**⑤ 실열형** — 성격: 실열(實熱)
+
+- **면열**(面熱, Myeonyeol) — 얼굴홍조(face flush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002652)
+
+**⑥ 한증형** — 성격: 한증(寒證)
+
+- **면한**(面寒, Myeonhan) — 창백(pallor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002676)
+
+**⑦ 황달 아형** — 위치: 간담(肝膽)
+
+- **면황**(面黃, Myeonhwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002679)
+
+**⑧ 허증형** — 강도: 허증(虛症)
+
+- **체허면황**(體虛面黃, Cheheomyeonhwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012412)
+
+**⑨ 기타** — 동반증상: 복합·잔여
+
+- **구안와사**(口眼喎斜, Guanwasa) — 벨마비(bell's palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000977)
 - **두면홍종**(頭面紅腫, Dumyeonhongjong) — 머리 종기증(head furunculosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002301)
 - **면구**(面垢, Myeongu) — 얼굴흑색증(facial melanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002616)
-- **면발독**(面發毒, Myeonbaldok) — 얼굴의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of face) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002626)
-- **면백**(面白, Myeonbaek) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002627)
 - **면병**(面病, Myeonbyeong) — 얼굴병(facial disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002628)
 - **면부**(面浮, Myeonbu) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002629)
 - **면색이흑**(面色黧黑, Myeonsaegyeoheuk) — 얼굴흑색증(facial melanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002646)
-- **면생흑반**(面生黑斑, Myeonsaengheukban) — 얼굴흑색증(facial melanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002650)
 - **면수**(面瘦, Myeonsu) — 얼굴위축(facial atrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002651)
-- **면열**(面熱, Myeonyeol) — 얼굴홍조(face flush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002652)
 - **면적**(面赤, Myeonjeok) — 얼굴홍조(face flush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002656)
 - **면종**(面腫, Myeonjong) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002661)
 - **면청**(面靑, Myeoncheong) — 창백(pallor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002670)
 - **면포**(面疱, Myeonpo) — 얼굴 수포(facial bleb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002672)
-- **면풍독**(面風毒, Myeonpungdok) — 얼굴의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of face) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002675)
-- **면한**(面寒, Myeonhan) — 창백(pallor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002676)
 - **면홍**(面紅, Myeonhong) — 얼굴홍조(face flush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002677)
-- **면황**(面黃, Myeonhwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002679)
 - **면흑**(面黑, Myeonheuk) — 얼굴 흑색증(facial melanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002680)
-- **체허면황**(體虛面黃, Cheheomyeonhwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012412)
 - **구와**(口喎, Guwa) — 벨마비(bell's palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000986)
 - **분자**(粉刺, Bunja) — 여드름(acne) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003555)
 - **협적**(頰赤, Hyeopjeok) — 뺨홍조(malar flush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012854)
-
 #### 안 (164건)
 
+안 문의 164개 표제어는 아래 23개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 감적형** — 성격: 감적(疳積)
+
 - **감안**(疳眼, Gaman) — 영양장애(dystrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000263)
+- **안감**(眼疳, Angam) — 눈병(oculopathy, ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006424)
+
+**② 통증형** — 성격: 통증(痛症)
+
 - **검경정동**(瞼硬睛疼, Geomgyeongjeongdong) — 눈꺼풀염(blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000369)
-- **검척예**(劍脊翳, Geomcheogye) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000373)
-- **검현적란**(瞼弦赤爛, Geomhyeonjeongnan) — 눈꺼풀염(blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000374)
-- **고풍작목**(高風雀目, Gopungjangmok) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000646)
-- **관둔루**(串臀漏, Gwandullu) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000800)
-- **내장예막**(內障翳膜, Naejangyemak) — 수정체 혼탁증(lenticular opacity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001565)
-- **노육반정**(努肉攀睛, Noyukbanjeong) — 안와농양(orbital abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001706)
-- **누액**(漏腋, Nuaek) — 누루(lacrimation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001820)
-- **누정농출**(漏睛膿出, Nujeongnongchul) — 화농안염(ophthalmoblenorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001823)
-- **대안**(戴眼, Daean) — 안구운동마비(oculomotor palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002151)
-- **대자루**(大眥漏, Daejaru) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002158)
-- **도첩**(倒睫, Docheop) — 속눈썹증(trichiasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002227)
-- **도첩권모**(倒睫拳毛, Docheopgwonmo) — 속눈썹증(trichiasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002229)
-- **돌기정고**(突起睛高, Dolgijeonggo) — 안구돌출증(exophthalmos) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002259)
-- **동신축소**(瞳神縮小, Dongsinchukso) — 동공수축(miosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002272)
-- **동인산대**(瞳人散大, Donginsandae) — 동공확대(pupillary dilatation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002278)
-- **두목불청**(頭目不淸, Dumokbulcheong) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002302)
-- **두목불청리**(頭目不淸利, Dumokbulcheongni) — 기타 두통 증후군(other headache syndromes) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002303)
-- **두목혼중**(頭目昏重, Dumokonjung) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012899)
-- **두목혼침**(頭目昏沈, Dumokonchim) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002307)
-- **두목혼현**(頭目昏眩, Dumokonhyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002308)
-- **두혼목삽**(頭昏目澀, Duhonmoksap) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013189)
-- **두혼목현**(頭昏目眩, Duhonmokyeon) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012351)
-- **두훈목현**(頭暈目眩, Duhunmokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002493)
-- **두훈목현**(頭暈目昡, Duunmokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012426)
-- **두훈목혼**(頭暈目昏, Duhunmokon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002494)
-- **두훈안화**(頭暈眼花, Duhunanhwa) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002496)
-- **면목부종**(面目浮腫, Myeonmokbujong) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002622)
-- **면목사지부종**(面目四肢浮腫, Myeonmoksajibujong) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002623)
-- **면목황**(面目黃, Myeonmokwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002624)
-- **면홍목적**(面紅目赤, Myeonhongmokjeok) — 충혈안(pink eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012434)
-- **명목**(暝目, Myeongmok) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002683)
 - **목동**(目疼, Mok-Dong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002705)
-- **목명**(目瞑, Mongmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002709)
-- **목부득개합**(目不得開合, Mokbudeukgaehap) — 눈꺼풀운동못함증(lid akinesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002711)
-- **목불능명**(目不能瞑, Mokbulleungmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002713)
-- **목불명**(目不暝, Mokbulmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002715)
-- **목삽**(目澁, Moksap) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002718)
-- **목삽양**(目澁痒, Moksabyang) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002719)
-- **목삽혼화**(目澁昏花, Moksaponhwa) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002720)
-- **목생예막**(目生翳膜, Moksaengyemak) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002721)
-- **목생운예**(目生雲翳, Moksaengunye) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002722)
-- **목암**(目暗, Mogam) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002726)
-- **목양**(目痒, Mogyang) — 눈둘레 가려움증(peribulbar pruritus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002730)
-- **목예**(目翳, Mogye) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002734)
-- **목적**(目赤, Mokjeok) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002746)
-- **목적내장**(目赤內障, Mokjeongnaejang) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002748)
-- **목적다루**(目赤多淚, Mokjeokdaru) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002751)
 - **목적동통**(目赤疼痛, Mokjeokdongtong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002752)
-- **목적삽**(目赤澁, Mokjeoksap) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002756)
 - **목적삽통**(目赤澁痛, Mokjeoksaptong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002757)
-- **목적예장**(目赤翳障, Mokjeogyejang) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002760)
 - **목적인통**(目赤咽痛, Mokjeogintong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002762)
 - **목적종통**(目赤腫痛, Mokjeokjongtong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002765)
-- **목적탄산**(目赤呑酸, Mokjeoktansan) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002766)
 - **목적통**(目赤痛, Mokjeoktong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002767)
-- **목전이명**(目轉耳鳴, Mokjeonimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002769)
-- **목정상시**(目睛上視, Mokjeongsangsi) — 상방시, 상측시(supraversion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012243)
 - **목정통**(目睛痛, Mokjeongtong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002774)
-- **목종**(目腫, Mokjong) — 눈꺼풀부종(blepharoedema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002776)
-- **목중노육**(目中胬肉, Mokjungnoyuk) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002782)
-- **목중유화**(目中留火, Mokjungyuhwa) — 눈부심(glare) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002791)
-- **목질**(目疾, Mokjil) — 눈병증(ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002797)
 - **목통**(目痛, Moktong) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002800)
-- **목폐불개**(目閉不開, Mokpyebulgae) — 눈꺼풀운동못함증(lid akinesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002805)
-- **목현**(目眩, Mokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002808)
-- **목혼다루**(目昏多淚, Mokondaru) — 눈물흘림(dacryorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002811)
-- **목혼이명**(目昏耳鳴, Mokonimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002813)
-- **목황**(目黃, Mokwang) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002815)
-- **목훈**(目暈, Mokhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002816)
-- **반창입안**(癍瘡入眼, Banchangiban) — 안포의 발진(optic vesicle eruption) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002946)
+- **안동**(眼疼, Andong) — 눈통증(ophthalmalgia, ocular pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006435)
+- **안목종통**(眼目腫痛, Anmokjongtong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006441)
+- **안적작통**(眼赤作痛, Anjeokjaktong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006460)
+- **안적종통**(眼赤腫痛, Anjeokjongtong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006462)
+- **적목종통**(赤目腫痛, Jeongmokjongtong) — 안통(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008691)
+- **적안종통**(赤眼腫痛, Jeoganjongtong) — 안통(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008728)
+
+**③ 예막·혼탁형** — 성격: 예막·혼탁(翳膜混濁)
+
+- **검척예**(劍脊翳, Geomcheogye) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000373)
+- **내장예막**(內障翳膜, Naejangyemak) — 수정체 혼탁증(lenticular opacity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001565)
+- **목생예막**(目生翳膜, Moksaengyemak) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002721)
+- **목생운예**(目生雲翳, Moksaengunye) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002722)
+- **목예**(目翳, Mogye) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002734)
+- **목적내장**(目赤內障, Mokjeongnaejang) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002748)
+- **목적예장**(目赤翳障, Mokjeogyejang) — 안구결막(bulbar conjunctiva) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002760)
 - **백예**(白翳, Baegye) — 눈백색증(ocular albinism) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003086)
 - **부예**(浮翳, Buye) — 눈병증(oculopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003423)
 - **부예**(膚翳, Buye) — 눈병증(oculopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003422)
-- **붕중루하오색**(崩中漏下五色, Bungjungnuhaosaek) — 월경중간출혈(intermenstrual bleeding) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003604)
 - **삽예**(澁翳, Sabye) — 각막편운(nebula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004316)
-- **상검하수**(上瞼下垂, Sanggeomhasu) — 위눈꺼풀처짐(upper eyelid ptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004320)
-- **상음목암**(傷陰目暗, Sangeummogam) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004395)
-- **선루**(鱔漏, Seollu) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004691)
-- **소자루**(小眥漏, Sojaru) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005199)
-- **순목**(瞤目, Sunmok) — 안검경련, 안검간대성경련(blephalospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005466)
-- **슬안풍**(膝眼風, Seuranpung) — 무릎관절증(gonarthrosis[arthrosis of knee]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005500)
-- **신목황**(身目黃, Sinmokwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013286)
-- **안감**(眼疳, Angam) — 눈병(oculopathy, ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006424)
-- **안검적란**(眼瞼赤爛, Angeomjeongnan) — 눈꺼풀염(blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006429)
-- **안견흑화**(眼見黑花, Angyeonheukwa) — 시력장애(visual disturbance) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006432)
-- **안단**(眼丹, Andan) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006434)
-- **안동**(眼疼, Andong) — 눈통증(ophthalmalgia, ocular pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006435)
-- **안목적종**(眼目赤腫, Anmokjeokjong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006440)
-- **안목종통**(眼目腫痛, Anmokjongtong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006441)
-- **안목혼암**(眼目昏暗, Anmokonam) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006443)
-- **안목혼화**(眼目昏花, Anmokonhwa) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006444)
-- **안미도**(眼眉跳, Anmido) — 안검경련, 안검간대성경련(twitching eyelid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006445)
-- **안삽**(眼澁, Ansap) — 눈 불편감(eye discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006448)
-- **안생치분**(眼生眵糞, Ansaengchibun) — 눈꼽(discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006451)
-- **안양**(眼痒, Anyang) — 눈 가려움(itching of eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006454)
-- **안연적란**(眼緣赤爛, Anyeonjeongnan) — 구석눈꺼풀염, 눈꺼풀테염(angular blepharitis, marginal blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006455)
-- **안적**(眼赤, Anjeok) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006458)
-- **안적삽양**(眼赤澁痒, Anjeoksabyang) — 눈염증(ophthamitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006459)
-- **안적작통**(眼赤作痛, Anjeokjaktong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006460)
-- **안적종**(眼赤腫, Anjeokjong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006461)
-- **안적종통**(眼赤腫痛, Anjeokjongtong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006462)
-- **안정돌출**(眼睛突出, Anjeongdolchul) — 눈돌출(증), 안구돌출(증)(ophthalmoptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006463)
-- **안질**(眼疾, Anjil) — 눈병(oculopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006469)
-- **안포빈동**(眼胞頻動, Anpobindong) — 안검경련, 안검간대성경련(blephalospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006474)
-- **안피물타당**(眼被物打撞, Anpimultadang) — 타박상(contusion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006477)
-- **안혼**(眼昏, Anhon) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006481)
-- **안화**(眼花, Anhwa) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006482)
-- **양검점정**(兩瞼粘睛, Yanggeomjeomjeong) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006563)
-- **양루**(陽漏, Yangnu) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006581)
-- **양매루**(楊梅漏, Yangmaeru) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006586)
-- **양목혼암**(兩目昏暗, Yangmokonam) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012654)
 - **예막**(翳膜, Yemak) — 각막편운(nebula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013721)
 - **예막노육**(翳膜努肉, Yemangnoyuk) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007047)
 - **예장**(翳障, Yejang) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007049)
 - **운예**(雲翳, Unye) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007555)
 - **원예**(圓翳, Wonye) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007579)
 - **원예내장**(圓翳內障, Wonyenaejang) — 안구의 장애(disorders of globe) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007580)
-- **음루**(陰漏, Eumnu) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007966)
 - **응지예**(凝脂翳, Eungjiye) — 녹농균성 각막궤양(keratohelcosis due to pseudomonas) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008148)
-- **이물입목**(異物入目, Imurimmok) — 안와내이물(intraorbital foreign body) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008173)
-- **자웅루**(雌雄漏, Jaungnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008482)
-- **작목**(雀目, Jangmok) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008507)
-- **작목야맹**(雀目夜盲, Jangmogyamaeng) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008509)
-- **적목종통**(赤目腫痛, Jeongmokjongtong) — 안통(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008691)
-- **적사만목증**(赤絲滿目症, Jeoksamanmokjeung) — 충혈(hyperemia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008718)
-- **적안종통**(赤眼腫痛, Jeoganjongtong) — 안통(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008728)
-- **정창**(睛脹, Jeongchang) — 안구돌출증(exophthalmos) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008927)
-- **진정파손**(眞睛破損, Jinjeongpason) — 외상성 실명(traumatic typhlosis(blindness)) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009481)
-- **침안**(鍼眼, Chiman) — 안와부 소절(orbital area nodule) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010024)
-- **항루**(肛漏, Hangnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011135)
 - **화예백함**(花翳白陷, Hwayebaekam) — 결막염(keratitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011625)
-- **곡적**(穀賊, Gokjeok) — 각막의 이물(foreign body in cornea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000659)
 - **내장**(內障, Naejang) — 안구질환(ocular disease) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001564)
-- **냉루**(冷淚, Naengnu) — 눈물흘림(dacryorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001599)
-- **노육**(胬肉, Noyuk) — 농양(abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001705)
-- **녹로전관**(轆轤轉關, Nongnojeongwan) — 사시(strabismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001750)
-- **다루**(多淚, Daru) — 과다눈물흘림(hyperlacrimation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001854)
-- **망시**(妄視, Mangsi) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002577)
-- **무시루하**(無時淚下, Musiruha) — 유루, 누루(epiphora) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002847)
-- **무시열루**(無時熱淚, Musiyeollu) — 유루, 누루(epiphora) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002848)
-- **백막**(白膜, Baengmak) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003065)
-- **백삽**(白澁, Baeksap) — 만성결막염(chronic conjunctivitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003078)
 - **수렴장**(垂簾障, Suryeomjang) — 각막혈관신생(corneal neovascularization) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005307)
-- **수명**(羞明, Sumyeong) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005311)
-- **수명다루**(羞明多泪, Sumyeongdaru) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005312)
-- **시물불명**(視物不明, Simulbulmyeong) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005656)
+- **태환내장**(胎患內障, Taehwannaejang) — 선천성 안병증(congenital ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010225)
+
+**④ 안검·속눈썹형** — 위치: 안검(眼瞼)
+
+- **검현적란**(瞼弦赤爛, Geomhyeonjeongnan) — 눈꺼풀염(blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000374)
+- **대자루**(大眥漏, Daejaru) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002158)
+- **도첩**(倒睫, Docheop) — 속눈썹증(trichiasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002227)
+- **도첩권모**(倒睫拳毛, Docheopgwonmo) — 속눈썹증(trichiasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002229)
+- **상검하수**(上瞼下垂, Sanggeomhasu) — 위눈꺼풀처짐(upper eyelid ptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004320)
+- **소자루**(小眥漏, Sojaru) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005199)
+- **안검적란**(眼瞼赤爛, Angeomjeongnan) — 눈꺼풀염(blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006429)
+- **양검점정**(兩瞼粘睛, Yanggeomjeomjeong) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006563)
+
+**⑤ 풍병형** — 병인: 풍(風)
+
+- **고풍작목**(高風雀目, Gopungjangmok) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000646)
+- **슬안풍**(膝眼風, Seuranpung) — 무릎관절증(gonarthrosis[arthrosis of knee]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005500)
+
+**⑥ 치질·항문형** — 위치: 치항(痔肛)
+
+- **관둔루**(串臀漏, Gwandullu) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000800)
+- **누액**(漏腋, Nuaek) — 누루(lacrimation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001820)
+- **선루**(鱔漏, Seollu) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004691)
+- **양루**(陽漏, Yangnu) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006581)
+- **양매루**(楊梅漏, Yangmaeru) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006586)
+- **음루**(陰漏, Eumnu) — 누낭염(dacryocystitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007966)
+- **자웅루**(雌雄漏, Jaungnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008482)
+- **항루**(肛漏, Hangnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011135)
+
+**⑦ 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **누정농출**(漏睛膿出, Nujeongnongchul) — 화농안염(ophthalmoblenorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001823)
+- **반창입안**(癍瘡入眼, Banchangiban) — 안포의 발진(optic vesicle eruption) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002946)
+
+**⑧ 동공 이상형** — 위치: 동공(瞳孔)
+
+- **동신축소**(瞳神縮小, Dongsinchukso) — 동공수축(miosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002272)
+- **동인산대**(瞳人散大, Donginsandae) — 동공확대(pupillary dilatation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002278)
+
+**⑨ 두목 연계형** — 위치: 두목(頭目) 겸병
+
+- **두목불청**(頭目不淸, Dumokbulcheong) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002302)
+- **두목불청리**(頭目不淸利, Dumokbulcheongni) — 기타 두통 증후군(other headache syndromes) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002303)
+- **두훈목현**(頭暈目眩, Duhunmokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002493)
+- **두훈안화**(頭暈眼花, Duhunanhwa) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002496)
+
+**⑩ 정신·의식 이상형** — 동반증상: 정신·의식 증상
+
+- **두목혼중**(頭目昏重, Dumokonjung) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012899)
+- **두목혼침**(頭目昏沈, Dumokonchim) — 혼미(stupor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002307)
+- **두목혼현**(頭目昏眩, Dumokonhyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002308)
+- **두혼목삽**(頭昏目澀, Duhonmoksap) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013189)
+- **두혼목현**(頭昏目眩, Duhonmokyeon) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012351)
+- **두훈목혼**(頭暈目昏, Duhunmokon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002494)
+- **목삽혼화**(目澁昏花, Moksaponhwa) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002720)
+- **목혼다루**(目昏多淚, Mokondaru) — 눈물흘림(dacryorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002811)
+- **목혼이명**(目昏耳鳴, Mokonimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002813)
+- **안목혼암**(眼目昏暗, Anmokonam) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006443)
+- **안목혼화**(眼目昏花, Anmokonhwa) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006444)
+- **안혼**(眼昏, Anhon) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006481)
+- **양목혼암**(兩目昏暗, Yangmokonam) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012654)
 - **시물혼암**(視物昏暗, Simulhonam) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005660)
 - **시물혼화**(視物昏花, Simulhonhwa) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005661)
-- **시일위이**(視一爲二, Siirwii) — 복시, 겹보임(diplopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005676)
 - **시첨혼묘**(視瞻昏渺, Sicheomhonmyo) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005688)
-- **신주장반**(神珠將反, Sinjujangban) — 안구운동마비(oculomotor palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005949)
-- **열루**(熱淚, Yeollu) — 유루(lactorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006915)
-- **오일**(惡日, Oil) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007129)
+
+**⑪ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **면목부종**(面目浮腫, Myeonmokbujong) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002622)
+- **면목사지부종**(面目四肢浮腫, Myeonmoksajibujong) — 얼굴부종(facial edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002623)
+- **정창**(睛脹, Jeongchang) — 안구돌출증(exophthalmos) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008927)
+
+**⑫ 황달 아형** — 위치: 간담(肝膽)
+
+- **면목황**(面目黃, Myeonmokwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002624)
+- **목황**(目黃, Mokwang) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002815)
+- **신목황**(身目黃, Sinmokwang) — 황달(jaundice) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013286)
+
+**⑬ 눈물·충혈형** — 동반증상: 누출·목적(淚出目赤)
+
+- **면홍목적**(面紅目赤, Myeonhongmokjeok) — 충혈안(pink eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012434)
+- **목적**(目赤, Mokjeok) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002746)
+- **목적다루**(目赤多淚, Mokjeokdaru) — 안구충혈(red eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002751)
+- **목적삽**(目赤澁, Mokjeoksap) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002756)
+- **목적탄산**(目赤呑酸, Mokjeoktansan) — 눈통증(ophthalmalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002766)
+- **안목적종**(眼目赤腫, Anmokjeokjong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006440)
+- **냉루**(冷淚, Naengnu) — 눈물흘림(dacryorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001599)
+- **다루**(多淚, Daru) — 과다눈물흘림(hyperlacrimation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001854)
+- **무시루하**(無時淚下, Musiruha) — 유루, 누루(epiphora) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002847)
+
+**⑭ 시력 이상형** — 성격: 시력 저하(視力低下)
+
+- **목명**(目瞑, Mongmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002709)
+- **목암**(目暗, Mogam) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002726)
+- **목정상시**(目睛上視, Mokjeongsangsi) — 상방시, 상측시(supraversion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012243)
+- **작목야맹**(雀目夜盲, Jangmogyamaeng) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008509)
+- **망시**(妄視, Mangsi) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002577)
+- **시물불명**(視物不明, Simulbulmyeong) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005656)
+- **시일위이**(視一爲二, Siirwii) — 복시, 겹보임(diplopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005676)
 - **원시**(遠視, Wonsi) — 원시(hyperopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007578)
 - **작맹**(雀盲, Jangmaeng) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008505)
-- **적막하수**(赤膜下垂, Jeongmakasu) — 각막혈관신생(corneal neovascularization) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008687)
-- **적사**(赤絲, Jeoksa) — 충혈(hyperemia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008715)
-- **취성장**(聚星障, Chwiseongjang) — 표층점상각막염(superficial punctate keratitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009909)
-- **태환내장**(胎患內障, Taehwannaejang) — 선천성 안병증(congenital ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010225)
-- **포륜진도**(胞輪振跳, Poryunjindo) — 눈꺼풀연축(blepgharospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010494)
-- **포허여구**(胞虛如球, Poheoyeogu) — 안포부종(optic vesicle edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010512)
 - **폭맹**(暴盲, Pongmaeng) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010520)
 
+**⑮ 조음·발음장애형** — 성격: 구음장애(構音)
+
+- **목삽**(目澁, Moksap) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002718)
+- **안삽**(眼澁, Ansap) — 눈 불편감(eye discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006448)
+- **백삽**(白澁, Baeksap) — 만성결막염(chronic conjunctivitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003078)
+
+**⑯ 피부 발적·발진형** — 성격: 발적·발진
+
+- **목삽양**(目澁痒, Moksabyang) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002719)
+- **목양**(目痒, Mogyang) — 눈둘레 가려움증(peribulbar pruritus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002730)
+- **안양**(眼痒, Anyang) — 눈 가려움(itching of eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006454)
+- **안적삽양**(眼赤澁痒, Anjeoksabyang) — 눈염증(ophthamitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006459)
+
+**⑰ 실열형** — 성격: 실열(實熱)
+
+- **목중유화**(目中留火, Mokjungyuhwa) — 눈부심(glare) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002791)
+- **무시열루**(無時熱淚, Musiyeollu) — 유루, 누루(epiphora) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002848)
+- **열루**(熱淚, Yeollu) — 유루(lactorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006915)
+
+**⑱ 혈병형** — 병위: 혈병(血病)
+
+- **붕중루하오색**(崩中漏下五色, Bungjungnuhaosaek) — 월경중간출혈(intermenstrual bleeding) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003604)
+
+**⑲ 외상형** — 동기: 외상(外傷)
+
+- **상음목암**(傷陰目暗, Sangeummogam) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004395)
+
+**⑳ 허증형** — 강도: 허증(虛症)
+
+- **진정파손**(眞睛破損, Jinjeongpason) — 외상성 실명(traumatic typhlosis(blindness)) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009481)
+- **포허여구**(胞虛如球, Poheoyeogu) — 안포부종(optic vesicle edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010512)
+
+**㉑ 변색·건조형** — 성격: 변색·건조
+
+- **백막**(白膜, Baengmak) — 백내장(cataract) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003065)
+
+**㉒ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **취성장**(聚星障, Chwiseongjang) — 표층점상각막염(superficial punctate keratitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009909)
+
+**㉓ 기타** — 동반증상: 복합·잔여
+
+- **노육반정**(努肉攀睛, Noyukbanjeong) — 안와농양(orbital abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001706)
+- **대안**(戴眼, Daean) — 안구운동마비(oculomotor palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002151)
+- **돌기정고**(突起睛高, Dolgijeonggo) — 안구돌출증(exophthalmos) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002259)
+- **두훈목현**(頭暈目昡, Duunmokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012426)
+- **명목**(暝目, Myeongmok) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002683)
+- **목부득개합**(目不得開合, Mokbudeukgaehap) — 눈꺼풀운동못함증(lid akinesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002711)
+- **목불능명**(目不能瞑, Mokbulleungmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002713)
+- **목불명**(目不暝, Mokbulmyeong) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002715)
+- **목전이명**(目轉耳鳴, Mokjeonimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002769)
+- **목종**(目腫, Mokjong) — 눈꺼풀부종(blepharoedema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002776)
+- **목중노육**(目中胬肉, Mokjungnoyuk) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002782)
+- **목질**(目疾, Mokjil) — 눈병증(ophthalmopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002797)
+- **목폐불개**(目閉不開, Mokpyebulgae) — 눈꺼풀운동못함증(lid akinesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002805)
+- **목현**(目眩, Mokyeon) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002808)
+- **목훈**(目暈, Mokhun) — 어지러움(dizziness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002816)
+- **순목**(瞤目, Sunmok) — 안검경련, 안검간대성경련(blephalospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005466)
+- **안견흑화**(眼見黑花, Angyeonheukwa) — 시력장애(visual disturbance) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006432)
+- **안단**(眼丹, Andan) — 안검연염(blear eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006434)
+- **안미도**(眼眉跳, Anmido) — 안검경련, 안검간대성경련(twitching eyelid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006445)
+- **안생치분**(眼生眵糞, Ansaengchibun) — 눈꼽(discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006451)
+- **안연적란**(眼緣赤爛, Anyeonjeongnan) — 구석눈꺼풀염, 눈꺼풀테염(angular blepharitis, marginal blepharitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006455)
+- **안적**(眼赤, Anjeok) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006458)
+- **안적종**(眼赤腫, Anjeokjong) — 눈염증(ophthalmitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006461)
+- **안정돌출**(眼睛突出, Anjeongdolchul) — 눈돌출(증), 안구돌출(증)(ophthalmoptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006463)
+- **안질**(眼疾, Anjil) — 눈병(oculopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006469)
+- **안포빈동**(眼胞頻動, Anpobindong) — 안검경련, 안검간대성경련(blephalospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006474)
+- **안피물타당**(眼被物打撞, Anpimultadang) — 타박상(contusion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006477)
+- **안화**(眼花, Anhwa) — 흐려보임, 흐린시력(blurred vision) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006482)
+- **이물입목**(異物入目, Imurimmok) — 안와내이물(intraorbital foreign body) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008173)
+- **작목**(雀目, Jangmok) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008507)
+- **적사만목증**(赤絲滿目症, Jeoksamanmokjeung) — 충혈(hyperemia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008718)
+- **침안**(鍼眼, Chiman) — 안와부 소절(orbital area nodule) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010024)
+- **곡적**(穀賊, Gokjeok) — 각막의 이물(foreign body in cornea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000659)
+- **노육**(胬肉, Noyuk) — 농양(abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001705)
+- **녹로전관**(轆轤轉關, Nongnojeongwan) — 사시(strabismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001750)
+- **수명**(羞明, Sumyeong) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005311)
+- **수명다루**(羞明多泪, Sumyeongdaru) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005312)
+- **신주장반**(神珠將反, Sinjujangban) — 안구운동마비(oculomotor palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005949)
+- **오일**(惡日, Oil) — 눈부심(photophobia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007129)
+- **적막하수**(赤膜下垂, Jeongmakasu) — 각막혈관신생(corneal neovascularization) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008687)
+- **적사**(赤絲, Jeoksa) — 충혈(hyperemia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008715)
+- **포륜진도**(胞輪振跳, Poryunjindo) — 눈꺼풀연축(blepgharospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010494)
 ### 외형편(外形篇) 권2
 
 #### 이 (24건)
 
-- **구고이농**(口苦耳聾, Gugoinong) — 쓴맛(bitterness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000883)
+이 문의 24개 표제어는 아래 9개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
 - **농이**(膿耳, Nongi) — 삼출중이염(exudative otitis media) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001765)
+- **이농**(耳膿, Inong) — 화농성 및 상세불명의 중이염(suppurative and unspecified otitis media) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008164)
+
+**② 실열형** — 성격: 실열(實熱)
+
 - **담화이명**(痰火耳鳴, Damhwaimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002069)
+- **주열이명**(酒熱耳鳴, Juyeorimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009233)
+- **풍열이롱**(風熱耳聾, Pungyeorirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010752)
+
+**③ 피부 발적·발진형** — 성격: 발적·발진
+
+- **이양**(耳痒, Iyang) — 요실금(urinary incontinence) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008189)
+
+**④ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **이창**(耳脹, Ichang) — 귀내부 종창(inner ear swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008212)
+
+**⑤ 통증형** — 성격: 통증(痛症)
+
+- **이통**(耳痛, Itong) — 귀통증(otalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008217)
+
+**⑥ 풍병형** — 병인: 풍(風)
+
+- **이풍독**(耳風毒, Ipungdok) — 귀근방의 염증(juxtaauricular inflammation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008223)
+
+**⑦ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **적년이롱**(積年耳聾, Jeongnyeonirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008671)
+
+**⑧ 허증형** — 강도: 허증(虛症)
+
+- **풍허이롱**(風虛耳聾, Pungheoirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010842)
+
+**⑨ 기타** — 동반증상: 복합·잔여
+
+- **구고이농**(口苦耳聾, Gugoinong) — 쓴맛(bitterness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000883)
 - **동이**(凍耳, Dongi) — 귀 동상(ear frostbite) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002275)
 - **우이롱**(右耳聾, Uirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007540)
-- **이농**(耳膿, Inong) — 화농성 및 상세불명의 중이염(suppurative and unspecified otitis media) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008164)
 - **이롱**(耳聾, Irong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008168)
 - **이명**(耳鳴, Imyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008169)
 - **이명이롱**(耳鳴耳聾, Imyeongirong) — 이명 난청(tinnitus hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008170)
-- **이양**(耳痒, Iyang) — 요실금(urinary incontinence) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008189)
 - **이중청**(耳重聽, Ijungcheong) — 이중청(dipliacusis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008204)
-- **이창**(耳脹, Ichang) — 귀내부 종창(inner ear swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008212)
-- **이통**(耳痛, Itong) — 귀통증(otalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008217)
-- **이풍독**(耳風毒, Ipungdok) — 귀근방의 염증(juxtaauricular inflammation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008223)
-- **적년이롱**(積年耳聾, Jeongnyeonirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008671)
 - **전이**(纏耳, Jeoni) — 만성중이염(chronic otitis media) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008818)
 - **좌이롱**(左耳聾, Jwairong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009182)
-- **주열이명**(酒熱耳鳴, Juyeorimyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009233)
 - **진이**(震耳, Jini) — 급성중이염(acute otitis media) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009477)
-- **풍열이롱**(風熱耳聾, Pungyeorirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010752)
-- **풍허이롱**(風虛耳聾, Pungheoirong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010842)
 - **뇌명**(腦鳴, Noemyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001785)
 - **뇌명**(雷鳴, Noemyeong) — 이명(tinnitus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001786)
 - **졸롱**(卒聾, Jollong) — 난청(hearing loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009110)
-
 #### 비 (36건)
+
+비 문의 36개 표제어는 아래 10개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 콧물·재채기형** — 동반증상: 비체·재채기(鼽涕嚔)
 
 - **구체**(鼽嚔, Guche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001015)
 - **구체**(鼽涕, Guche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001014)
-- **복비**(複鼻, Bokbi) — 복비증(birhinia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003257)
-- **비감**(鼻疳, Bigam) — 코속 비염(endonasal dermatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003615)
-- **비건**(鼻乾, Bigeon) — 코건조증(rhinoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003619)
 - **비구**(鼻鼽, Bigu) — 급성 코인두염[감기](acute nasopharyngitis[common cold]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003629)
+- **비류탁체**(鼻流濁涕, Biryutakche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003653)
+- **비체**(鼻涕, Biche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003802)
+- **분체**(噴嚔, Bunche) — 재채기(sneeze) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003556)
+- **청체**(淸涕, Cheongche) — 맑은 콧물(watery rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009756)
+
+**② 감적형** — 성격: 감적(疳積)
+
+- **비감**(鼻疳, Bigam) — 코속 비염(endonasal dermatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003615)
+
+**③ 혈병형** — 병위: 혈병(血病)
+
 - **비뉵**(鼻衄, Binyuk) — 코피(epistaxis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003643)
 - **비뉵과다**(鼻衄過多, Binyukgwada) — 과다 코피(excessive epistaxis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013108)
 - **비뉵부지**(鼻衄不止, Binyukbuji) — 코피(epistaxis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013039)
+
+**④ 치질·항문형** — 위치: 치항(痔肛)
+
 - **비루**(鼻漏, Biru) — 비루공(nasal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003651)
+- **비치**(鼻痔, Bichi) — 코의 폴립(nasal polyp) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003810)
+
+**⑤ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
 - **비류**(鼻瘤, Biryu) — 딸기코종(rhinophyma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003652)
-- **비류탁체**(鼻流濁涕, Biryutakche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003653)
-- **비명**(鼻鳴, Bimyeong) — 코골기(snore) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003662)
-- **비불문향취**(鼻不聞香臭, Bibulmunhyangchwi) — 무후각증(anosmia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003673)
+
+**⑥ 코 형태·구조 이상형** — 성격: 구조 이상
+
 - **비사**(鼻齄, Bisa) — 딸기코(rosacea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003678)
-- **비산**(鼻痠, Bisan) — 비통(nasal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003684)
 - **비색**(鼻塞, Bisaek) — 코막힘(stuffy nose) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003689)
-- **비색비연**(鼻塞鼻淵, Bisaekbiyeon) — 코막힘(stuffy nose, rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003692)
 - **비선**(鼻煽, Biseon) — 숨참(breathless) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003697)
-- **비연**(鼻淵, Biyeon) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003731)
-- **비옹**(鼻齆, Biong) — 만성비후비염(chronic hypertrophic rhinitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003739)
+- **비질**(鼻窒, Bijil) — 비염(rhinitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003793)
+
+**⑦ 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
 - **비저**(鼻疽, Bijeo) — 코종기(nasal furuncle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003778)
 - **비정**(鼻疔, Bijeong) — 기타 명시된 병원체에 의한 급성인두염(acute pharyngitis due to other specified organisms) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003788)
-- **비종**(鼻腫, Bijong) — 코종(rhinia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003789)
-- **비질**(鼻窒, Bijil) — 비염(rhinitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003793)
-- **비체**(鼻涕, Biche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003802)
-- **비초건**(鼻焦乾, Bichogeon) — 비강건조증(xerosis in nasal cavity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003805)
-- **비치**(鼻痔, Bichi) — 코의 폴립(nasal polyp) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003810)
+
+**⑧ 통증형** — 성격: 통증(痛症)
+
 - **비통**(鼻痛, Bitong) — 코통증(rhinalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003816)
+
+**⑨ 피부 발적·발진형** — 성격: 발적·발진
+
+- **체양**(嚔痒, Cheyang) — 재채기(sneeze) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009778)
+
+**⑩ 기타** — 동반증상: 복합·잔여
+
+- **복비**(複鼻, Bokbi) — 복비증(birhinia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003257)
+- **비건**(鼻乾, Bigeon) — 코건조증(rhinoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003619)
+- **비명**(鼻鳴, Bimyeong) — 코골기(snore) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003662)
+- **비불문향취**(鼻不聞香臭, Bibulmunhyangchwi) — 무후각증(anosmia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003673)
+- **비산**(鼻痠, Bisan) — 비통(nasal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003684)
+- **비색비연**(鼻塞鼻淵, Bisaekbiyeon) — 코막힘(stuffy nose, rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003692)
+- **비연**(鼻淵, Biyeon) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003731)
+- **비옹**(鼻齆, Biong) — 만성비후비염(chronic hypertrophic rhinitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003739)
+- **비종**(鼻腫, Bijong) — 코종(rhinia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003789)
+- **비초건**(鼻焦乾, Bichogeon) — 비강건조증(xerosis in nasal cavity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003805)
 - **비홍**(鼻紅, Bihong) — 딸기코(rosacea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003848)
 - **사비**(斜鼻, Sabi) — 사비(twisted nose) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003920)
 - **신알비연**(辛頞鼻淵, Sinalbiyeon) — 부비동염(sinusitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005912)
-- **분체**(噴嚔, Bunche) — 재채기(sneeze) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003556)
 - **식육**(瘜肉, Sigyuk) — 굳은살(tyloma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005763) (분류 근거 약함)
-- **청체**(淸涕, Cheongche) — 맑은 콧물(watery rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009756)
-- **체양**(嚔痒, Cheyang) — 재채기(sneeze) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009778)
-
 #### 구설 (60건)
 
-- **게순**(揭脣, Gesun) — 토순,입술갈림증(split lip) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000377)
-- **견순**(繭脣, Gyeonsun) — 입술암종(cheilocarcinoma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000410)
+구설 문의 60개 표제어는 아래 9개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 소갈·갈증형** — 동반증상: 소갈(消渴)
+
 - **구갈**(口渴, Gugal) — 구갈증(hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000870)
-- **구건**(口乾, Gugeon) — 구갈증(hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000876)
 - **구건번갈**(口乾煩渴, Gugeonbeongal) — 구갈증(hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000878)
+- **번열구갈**(煩熱口渴, Beonyeolgugal) — 갈증(thirst) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003141)
+- **산후구갈**(産後口渴, Sanhugugal) — 산후 목마름증(postpartum hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004112)
+- **인건구갈**(咽乾口渴, Ingeongugal) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008243)
+
+**② 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
 - **구설생창**(口舌生瘡, Guseolsaengchang) — 아구창(thrush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000956)
 - **구설창**(口舌瘡, Guseolchang) — 아구창(thrush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000959)
 - **구창**(口瘡, Guchang) — 구내염(stomatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001008)
 - **구창궤양**(口瘡潰瘍, Guchanggweyang) — 궤양 구내염(stomatocace, stomacace, ulcerative stomatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001011)
+- **백구창**(白口瘡, Baekguchang) — 구내염(stomatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003047)
+- **아구창**(鵝口瘡, Aguchang) — 아구창(thrush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006334)
+
+**③ 실열형** — 성격: 실열(實熱)
+
+- **발열구건**(發熱口乾, Baryeolgugeon) — 열증상(febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002976)
+- **순구건조**(脣口乾燥, Sungugeonjo) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013336)
+- **순조열**(脣燥裂, Sunjoyeol) — 입술건조증(labialxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005486)
+- **구조**(口燥, Gujo) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000997)
+- **구중열**(口中熱, Gujungyeol) — 입 열증상(mouth febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001003)
+- **설조**(舌燥, Seoljo) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004757)
+
+**④ 변색·건조형** — 성격: 변색·건조
+
+- **순백**(脣白, Sunbaek) — 탈색 입술(labial depigmented) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005471)
+
+**⑤ 조음·발음장애형** — 성격: 구음장애(構音)
+
+- **설건**(舌蹇, Seolgeon) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004711)
+- **설삽**(舌澁, Seolsap) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004736)
+
+**⑥ 혈병형** — 병위: 혈병(血病)
+
+- **설뉵**(舌衄, Seollyuk) — 혀출혈(glossorrhagia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004719)
+
+**⑦ 종양성 병변형** — 성격: 종양성 병변
+
+- **설암**(舌岩, Seoram) — 설암(tongue cancer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004748)
+
+**⑧ 실어·무언형** — 성격: 실어(失語)
+
+- **설음**(舌瘖, Seoreum) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004777)
+
+**⑨ 기타** — 동반증상: 복합·잔여
+
+- **게순**(揭脣, Gesun) — 토순,입술갈림증(split lip) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000377)
+- **견순**(繭脣, Gyeonsun) — 입술암종(cheilocarcinoma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000410)
+- **구건**(口乾, Gugeon) — 구갈증(hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000876)
 - **구취**(口臭, Guchwi) — 구취(halitosis, bromopnea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001021)
 - **긴순**(緊脣, Ginsun) — 입벌림장애(trismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001443)
 - **긴순불능개합**(緊脣不能開合, Ginsunbulleunggaehap) — 입벌림장애(trismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001444)
-- **발열구건**(發熱口乾, Baryeolgugeon) — 열증상(febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002976)
-- **백구창**(白口瘡, Baekguchang) — 구내염(stomatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003047)
-- **번열구갈**(煩熱口渴, Beonyeolgugal) — 갈증(thirst) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003141)
-- **산후구갈**(産後口渴, Sanhugugal) — 산후 목마름증(postpartum hydrodipsomania) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004112)
 - **설강**(舌强, Seolgang) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004706)
 - **설강불어**(舌强不語, Seolgangbureo) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004709)
 - **설종**(舌腫, Seoljong) — 혀종창(glossoncus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004759)
 - **설종경**(舌腫硬, Seoljonggyeong) — 혀종창(glossoncus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004760)
 - **순건**(脣乾, Sungeon) — 입술건조증(labialxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005457)
 - **순구건열**(脣口乾裂, Sungugeonyeol) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005459)
-- **순구건조**(脣口乾燥, Sungugeonjo) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013336)
 - **순균**(脣菌, Sungyun) — 입술암(lip cancer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005463)
 - **순긴**(脣緊, Sungin) — 입술 당김(labial traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005464)
-- **순백**(脣白, Sunbaek) — 탈색 입술(labial depigmented) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005471)
-- **순조열**(脣燥裂, Sunjoyeol) — 입술건조증(labialxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005486)
 - **순종**(脣腫, Sunjong) — 입술종양(cheiloncus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005487)
 - **순청**(脣靑, Suncheong) — 입술 청색증(labialcyanosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005493)
 - **순초**(脣焦, Suncho) — 입술건조증(labialxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005494)
 - **순홍**(脣紅, Sunhong) — 입술홍색증(labialerythrosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005497)
-- **아구창**(鵝口瘡, Aguchang) — 아구창(thrush) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006334)
-- **인건구갈**(咽乾口渴, Ingeongugal) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008243)
 - **구고**(口苦, Gugo) — 쓴맛(biterness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000881)
 - **구수증**(口水證, Gusujeung) — 과다침분비(hypersalivation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000970)
 - **구연**(口軟, Guyeon) — 침흘림증(sialosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000985)
-- **구조**(口燥, Gujo) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000997)
-- **구중열**(口中熱, Gujungyeol) — 입 열증상(mouth febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001003)
 - **금구**(噤口, Geumgu) — 입벌림장애(trismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001215)
 - **농설**(弄舌, Nongseol) — 혀연축(glossospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001758)
 - **다연**(多涎, Dayeon) — 침흘림증(sialosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001863)
 - **다타**(多唾, Data) — 침과다증(ptyalism) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001867)
 - **목설**(木舌, Mokseol) — 혀경화(lingual sclerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002724)
 - **설건**(舌乾, Seolgeon) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004710)
-- **설건**(舌蹇, Seolgeon) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004711)
 - **설권**(舌卷, Seolgwon) — 혀연축(glossospasm) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004714)
-- **설뉵**(舌衄, Seollyuk) — 혀출혈(glossorrhagia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004719)
 - **설란**(舌爛, Seollan) — 카타르성 설염(glossitis, simple infectious) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004723)
 - **설마**(舌麻, Seolma) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004727)
 - **설본강**(舌本强, Seolbongang) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004730)
 - **설본란**(舌本爛, Seolbollan) — 카타르성 설염(glossitis, simple infectious) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004731)
-- **설삽**(舌澁, Seolsap) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004736)
 - **설생망자**(舌生芒刺, Seolsaengmangja) — 딸기혀(raspberry tongue) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004742)
 - **설수**(舌祟, Seolsu) — 상세불명의 여성생식기관 및 월경주기와 관련된 병태(unspecified condition associated with female genital organs and menstrual cycle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004747) (분류 근거 약함)
-- **설암**(舌岩, Seoram) — 설암(tongue cancer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004748)
 - **설위**(舌萎, Seorwi) — 위축성 설염(atrophic glossitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004750)
-- **설음**(舌瘖, Seoreum) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004777)
-- **설조**(舌燥, Seoljo) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004757)
 - **설종**(舌縱, Seoljong) — 혀늘어짐증(glossochalasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004758)
 - **유연**(流涎, Yuyeon) — 가래(sputum) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007784)
-
 #### 아치 (20건)
 
+아치 문의 20개 표제어는 아래 5개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 감적형** — 성격: 감적(疳積)
+
 - **아감**(牙疳, Agam) — 괴사성 치은염(necrotizing gingivitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006326)
+- **청퇴아감**(靑腿牙疳, Cheongtoeagam) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009758)
+
+**② 혈병형** — 병위: 혈병(血病)
+
 - **아뉵**(牙衄, Anyuk) — 치은출혈(gingival bleeding) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006337)
+
+**③ 통증형** — 성격: 통증(痛症)
+
 - **아동**(牙疼, Adong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006340)
 - **아상종통**(牙床腫痛, Asangjongtong) — 치은통(ulalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006344)
-- **아선**(牙宣, Aseon) — 치은염(ulitis, gingivitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006345)
 - **아은종통**(牙齦腫痛, Aeunjongtong) — 치은통(ulalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006351)
 - **아종통**(牙腫痛, Ajongtong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006358)
-- **아치동요**(牙齒動搖, Achidongyo) — 치아동요(tooth mobility) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006367)
 - **아치동통**(牙齒疼痛, Achidongtong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006368)
-- **아치송동**(牙齒鬆動, Achisongdong) — 치아동요(tooth mobility) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006371)
 - **아치종통**(牙齒腫痛, Achijongtong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006375)
 - **아치통**(牙齒痛, Achitong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006378)
 - **아통**(牙痛, Atong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006384)
-- **청퇴아감**(靑腿牙疳, Cheongtoeagam) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009758)
 - **치아통**(齒牙痛, Chiatong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009953)
-- **치은궤란**(齒齦潰爛, Chieungweran) — 치아 궤양(dental ulcer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009960)
 - **치은종통**(齒齦腫痛, Chieunjongtong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009963)
 - **치은통**(齒齦痛, Chieuntong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009965)
 - **치통**(齒痛, Chitong) — 치통(toothache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009987)
-- **우치**(齲齒, Uchi) — 치아우식증(dental cranies) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007545)
 
+**④ 경기·경풍형** — 성격: 경풍(驚風)
+
+- **아치동요**(牙齒動搖, Achidongyo) — 치아동요(tooth mobility) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006367)
+
+**⑤ 기타** — 동반증상: 복합·잔여
+
+- **아선**(牙宣, Aseon) — 치은염(ulitis, gingivitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006345)
+- **아치송동**(牙齒鬆動, Achisongdong) — 치아동요(tooth mobility) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006371)
+- **치은궤란**(齒齦潰爛, Chieungweran) — 치아 궤양(dental ulcer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009960)
+- **우치**(齲齒, Uchi) — 치아우식증(dental cranies) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007545)
 #### 인후 (41건)
 
-- **구고인건**(口苦咽乾, Gugoingeon) — 쓴맛(bitterness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013307)
+인후 문의 41개 표제어는 아래 13개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 실열형** — 성격: 실열(實熱)
+
 - **구조인건**(口燥咽乾, Gujoingeon) — 구강건조(xerostomia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000999)
+
+**② 마비·저림형** — 동반증상: 마비·불인(痲痹不仁)
+
 - **급후비**(急喉痺, Geuphubi) — 급성 후두협착(acute laryngostenosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001255)
-- **급후폐**(急喉閉, Geupupye) — 급성 기도 폐색(acute choking) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001257)
+- **주마후비**(走馬喉痺, Jumahubi) — 급성 인두염(acute pharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009210)
+
+**③ 풍병형** — 병인: 풍(風)
+
 - **긴후풍**(緊喉風, Ginhupung) — 쉰소리(hoarseness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001446)
 - **노록후풍**(勞碌喉風, Norokupung) — 급성 후두염(acute laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001662)
-- **두진인후종통**(痘疹咽喉腫痛, Dujininhujongtong) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002356)
 - **만후풍**(慢喉風, Manhupung) — 후두염(laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002574)
-- **매핵기**(梅核氣, Maehaekgi) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002593)
-- **백후**(白喉, Baekhu) — 입안백색판증(lingual leukoplakia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003126)
-- **상한인통**(傷寒咽痛, Sanghanintong) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004547)
 - **쇄후풍**(鎖喉風, Swaehupung) — 급성 후두염(acute laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005265)
-- **시인**(尸咽, Siin) — 발성장애(dysphonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005674)
 - **아장후풍**(啞瘴喉風, Ajanghupung) — 후두염(laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006355)
 - **아후풍**(啞喉風, Ahupung) — 후두염(laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006388)
-- **인건**(咽乾, Ingeon) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008242)
-- **인색**(咽塞, Insaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008258)
-- **인종**(咽腫, Injong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008265)
-- **인후동통**(咽喉疼痛, Inhudongtong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008284)
-- **인후미란**(咽喉糜爛, Inhumiran) — 인후미란(erosive throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012568)
-- **인후병**(咽喉病, Inhubyeong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008286)
-- **인후불리**(咽喉不利, Inhubulli) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008287)
-- **인후비색**(咽喉秘塞, Inhubisaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008289)
-- **인후생창**(咽喉生瘡, Inhusaengchang) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008291)
-- **인후종**(咽喉腫, Inhujong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008297)
-- **인후종통**(咽喉腫痛, Inhujongtong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008298)
-- **인후창**(咽喉瘡, Inhuchang) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008299)
-- **인후통**(咽喉痛, Inhutong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008300)
-- **인후폐색**(咽喉閉塞, Inhupyesaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008302)
-- **인후홍종**(咽喉紅腫, Inhuhongjong) — 급성 인두염(acute pharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008305)
 - **잡설후풍**(匝舌喉風, Japseolhupung) — 만성 후두염(chronic laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008527)
 - **전후풍**(纏喉風, Jeonhupung) — 디프테리아(diphtheria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008838)
 - **종란후풍**(腫爛喉風, Jongnanhupung) — 후두염(laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009155)
 - **주독후풍**(酒毒喉風, Judokupung) — 후두염(laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009203)
-- **주마후비**(走馬喉痺, Jumahubi) — 급성 인두염(acute pharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009210)
 - **창식후풍**(嗆食喉風, Changsikupung) — 만성 후두염(chronic laryngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009612)
-- **해수인건**(咳嗽咽乾, Haesuingeon) — 해수(cough) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012777)
+
+**④ 피부 발적·발진형** — 성격: 발적·발진
+
+- **두진인후종통**(痘疹咽喉腫痛, Dujininhujongtong) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002356)
+
+**⑤ 변색·건조형** — 성격: 변색·건조
+
+- **백후**(白喉, Baekhu) — 입안백색판증(lingual leukoplakia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003126)
+
+**⑥ 외상형** — 동기: 외상(外傷)
+
+- **상한인통**(傷寒咽痛, Sanghanintong) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004547)
+
+**⑦ 코 형태·구조 이상형** — 성격: 구조 이상
+
+- **인색**(咽塞, Insaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008258)
+- **인후폐색**(咽喉閉塞, Inhupyesaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008302)
+
+**⑧ 통증형** — 성격: 통증(痛症)
+
+- **인후동통**(咽喉疼痛, Inhudongtong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008284)
+- **인후종통**(咽喉腫痛, Inhujongtong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008298)
+- **인후통**(咽喉痛, Inhutong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008300)
+
+**⑨ 기능 상실·불통형** — 성격: 기능 상실·불통
+
+- **인후불리**(咽喉不利, Inhubulli) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008287)
+
+**⑩ 대변 이상형** — 위치: 대변(大便)
+
+- **인후비색**(咽喉秘塞, Inhubisaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008289)
+
+**⑪ 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **인후생창**(咽喉生瘡, Inhusaengchang) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008291)
+- **인후창**(咽喉瘡, Inhuchang) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008299)
+
+**⑫ 허증형** — 강도: 허증(虛症)
+
 - **허란후풍**(虛爛喉風, Heoranhupung) — 인두결절(pharyngeal tubercle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011214)
+
+**⑬ 기타** — 동반증상: 복합·잔여
+
+- **구고인건**(口苦咽乾, Gugoingeon) — 쓴맛(bitterness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013307)
+- **급후폐**(急喉閉, Geupupye) — 급성 기도 폐색(acute choking) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001257)
+- **매핵기**(梅核氣, Maehaekgi) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002593)
+- **시인**(尸咽, Siin) — 발성장애(dysphonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005674)
+- **인건**(咽乾, Ingeon) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008242)
+- **인종**(咽腫, Injong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008265)
+- **인후미란**(咽喉糜爛, Inhumiran) — 인후미란(erosive throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012568)
+- **인후병**(咽喉病, Inhubyeong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008286)
+- **인후종**(咽喉腫, Inhujong) — 인후두염(laryngopharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008297)
+- **인후홍종**(咽喉紅腫, Inhuhongjong) — 급성 인두염(acute pharyngitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008305)
+- **해수인건**(咳嗽咽乾, Haesuingeon) — 해수(cough) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012777)
 - **후사**(喉痧, Husa) — 성홍열(scarlet fever) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011733)
 - **수수**(潄水, Susu) — 물삼킴곤란(watery dysphagia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005334)
 - **현옹수**(懸雍垂, Hyeonongsu) — 목젖이완증(staphylodialysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011334)
-
 #### 경항 (14건)
+
+경항 문의 14개 표제어는 아래 3개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
+- **두항강통**(頭項强痛, Duhanggangtong) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002458)
+- **항통**(項痛, Hangtong) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011147)
+
+**② 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **영기**(癭氣, Yeonggi) — 물혹(cyst) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007031) (분류 근거 약함)
+- **영류**(瘿瘤, Yeongnyu) — 혹(hump) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007033) (분류 근거 약함)
+- **영류나력**(癭瘤瘰癧, Yeongnyunaryeok) — 림프종증(lymphomatosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012307) (분류 근거 약함)
+
+**③ 기타** — 동반증상: 복합·잔여
 
 - **두항강**(頭項强, Duhanggang) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002456)
 - **두항강급**(頭項强急, Duhangganggeup) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002457)
-- **두항강통**(頭項强痛, Duhanggangtong) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002458)
 - **항강**(項强, Hanggang) — 경부통(neck pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011131)
 - **항강근급**(項强筋急, Hangganggeungeup) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011132)
 - **항배강**(項背强, Hangbaegang) — 경부통(neck pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011142)
@@ -1978,113 +2268,213 @@
 - **경추증**(頸椎症, Gyeongchujeung) — 경추증(cervical spondylosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000524)
 - **낙침**(落枕, Nakchim) — 목뼈의 염좌 및 긴장(sprain and strain of cervical spine) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001476)
 - **사경증**(斜頸症, Sagyeongjeung) — 사경(torticollis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003876)
-- **영기**(癭氣, Yeonggi) — 물혹(cyst) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007031) (분류 근거 약함)
-- **영류**(瘿瘤, Yeongnyu) — 혹(hump) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007033) (분류 근거 약함)
-- **영류나력**(癭瘤瘰癧, Yeongnyunaryeok) — 림프종증(lymphomatosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012307) (분류 근거 약함)
-- **항통**(項痛, Hangtong) — 경부 강직(neck stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011147)
-
 #### 배 (12건)
 
+배 문의 12개 표제어는 아래 4개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
 - **견배통**(肩背痛, Gyeonbaetong) — 어깨통증(omarthralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000404)
-- **구배**(龜背, Gubae) — 구루병(rachitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000931)
+- **배려통**(背膂痛, Baeryeotong) — 등쪽 통증(back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003033)
+- **배통**(背痛, Baetong) — 배통(dorsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003042)
+
+**② 동공 이상형** — 위치: 동공(瞳孔)
+
 - **동신반배**(瞳神反背, Dongsinbanbae) — 마비성 사시(paralytic strabismus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002269)
+
+**③ 한증형** — 성격: 한증(寒證)
+
+- **배오한**(背惡寒, Baeohan) — 등쪽 오한(back chilliness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003037)
+- **배한**(背寒, Baehan) — 등쪽 냉각(back chilling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003044)
+
+**④ 기타** — 동반증상: 복합·잔여
+
+- **구배**(龜背, Gubae) — 구루병(rachitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000931)
 - **배강**(背强, Baegang) — 등쪽 당김(back traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003030)
 - **배구루**(背傴僂, Baeguru) — 척주옆굽음증(scoliosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003031)
-- **배려통**(背膂痛, Baeryeotong) — 등쪽 통증(back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003033)
-- **배오한**(背惡寒, Baeohan) — 등쪽 오한(back chilliness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003037)
-- **배통**(背痛, Baetong) — 배통(dorsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003042)
-- **배한**(背寒, Baehan) — 등쪽 냉각(back chilling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003044)
 - **요배강**(腰背强, Yobaegang) — 등뻣뻣함(back stiffness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012495)
 - **인배려**(引背膂, Inbaeryeo) — 등담김감(back tugging) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013028)
 - **구루**(傴僂, Guru) — 척주뒤굽음증, 곱사등(gibbosity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000909)
-
 ### 외형편(外形篇) 권3
 
 #### 흉 (19건)
 
-- **계흉**(鷄胸, Gyehyung) — 새가슴(pigeon chest) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000600)
-- **대결흉**(大結胸, Daegyeolhyung) — 흉통(chest pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002086)
+흉 문의 19개 표제어는 아래 6개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 실열형** — 성격: 실열(實熱)
+
 - **번조흉민**(煩燥胸悶, Beonjohyungmin) — 가슴앓이(heart burn) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003154)
-- **소결흉**(小結胸, Sogyeolhyung) — 가슴통증(chest pain, thoracodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004812)
-- **수결흉**(水結胸, Sugyeolhyung) — 가슴통증(chest pain, thoracodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005270)
+- **열실결흉**(熱實結胸, Yeolsilgyeolhyung) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006970)
+- **흉중울열**(胸中鬱熱, Hyungjunguryeol) — 가슴앓이(heart burn) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013143)
+
+**② 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
 - **심흉비민**(心胸痞悶, Simhyungbimin) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006305)
 - **심흉비통**(心胸痞痛, Simhyungbitong) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006306)
-- **심흉울민**(心胸鬱悶, Simhyungulmin) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006307)
+
+**③ 통증형** — 성격: 통증(痛症)
+
 - **심흉통**(心胸痛, Simhyungtong) — 흉통(chest pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006308)
-- **열실결흉**(熱實結胸, Yeolsilgyeolhyung) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006970)
-- **흉번**(胸煩, Hyungbeon) — 가슴앓이(heart burn) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013294)
-- **흉비**(胸痺, Hyungbi) — 늑막염(pleurisy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011833)
-- **흉중울열**(胸中鬱熱, Hyungjunguryeol) — 가슴앓이(heart burn) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013143)
 - **흉통**(胸痛, Hyungtong) — 협심증(angina pectoris) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011866)
+
+**④ 마비·저림형** — 동반증상: 마비·불인(痲痹不仁)
+
+- **흉비**(胸痺, Hyungbi) — 늑막염(pleurisy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011833)
+
+**⑤ 허증형** — 강도: 허증(虛症)
+
+- **허번**(虛煩, Heobeon) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011257)
+
+**⑥ 기타** — 동반증상: 복합·잔여
+
+- **계흉**(鷄胸, Gyehyung) — 새가슴(pigeon chest) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000600)
+- **대결흉**(大結胸, Daegyeolhyung) — 흉통(chest pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002086)
+- **소결흉**(小結胸, Sogyeolhyung) — 가슴통증(chest pain, thoracodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004812)
+- **수결흉**(水結胸, Sugyeolhyung) — 가슴통증(chest pain, thoracodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005270)
+- **심흉울민**(心胸鬱悶, Simhyungulmin) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006307)
+- **흉번**(胸煩, Hyungbeon) — 가슴앓이(heart burn) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013294)
 - **격색불통**(膈塞不通, Gyeoksaekbultong) — 막힘(stuffiness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013181)
 - **만민**(滿悶, Manmin) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002567)
 - **민절**(悶絶, Minjeol) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002889)
 - **방민**(妨悶, Bangmin) — 불쾌감(dysphoria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013262)
-- **허번**(虛煩, Heobeon) — 가슴답답함(chest discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011257)
-
 #### 유 (15건)
 
+유 문의 15개 표제어는 아래 6개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 유방질환형** — 위치: 유방(乳)
+
 - **단유아**(單乳蛾, Danyua) — 편도염(tonsillitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001901)
-- **부인유옹**(婦人乳癰, Buinyuong) — 부인유방염(gynecomastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003479)
 - **불사유식**(不思乳食, Bulsayusik) — 식욕부진(anorexia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003572)
 - **불유증**(不乳症, Buryujeung) — 젖분비부족증(oligogalactia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003584)
+- **유로**(乳癆, Yuro) — 유방농양(mammary abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007750)
+- **유벽**(乳癖, Yubyeok) — 유방 경화증(sclerosis mammae) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007763)
+- **유현**(乳懸, Yuhyeon) — 유방하수증(breast ptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007848)
+
+**② 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **부인유옹**(婦人乳癰, Buinyuong) — 부인유방염(gynecomastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003479)
+- **외취유옹**(外吹乳癰, Oechwiyuong) — 유방염(mastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007394)
+- **유옹나력**(乳癰瘰癧, Yuongnaryeok) — 유방염(mastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012230)
+
+**③ 산후병형** — 시기: 산후(産後)
+
 - **산부무유즙**(産婦無乳汁, Sanbumuyujeup) — 젖분비부족증(oligogalactia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004078)
 - **산후유즙부족**(産後乳汁不足, Sanhuyujeupbujok) — 젖분비부족증(oligogalactia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012475)
 - **산후유즙불행**(産後乳汁不行, Sanhuyujeupbulhaeng) — 산후 젖분비부족증(postpartum oligogalactia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004187)
-- **외취유옹**(外吹乳癰, Oechwiyuong) — 유방염(mastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007394)
-- **유뉵**(乳衄, Yunyuk) — 유듀의 혈성분비물(papilla bloody discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007741)
-- **유로**(乳癆, Yuro) — 유방농양(mammary abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007750)
-- **유방종통**(乳房腫痛, Yubangjongtong) — 유방통(mammary pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007761)
-- **유방창통**(乳房脹痛, Yubangchangtong) — 유방통(mammary pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007762)
-- **유벽**(乳癖, Yubyeok) — 유방 경화증(sclerosis mammae) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007763)
-- **유옹나력**(乳癰瘰癧, Yuongnaryeok) — 유방염(mastitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012230)
-- **유현**(乳懸, Yuhyeon) — 유방하수증(breast ptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007848)
 
+**④ 혈병형** — 병위: 혈병(血病)
+
+- **유뉵**(乳衄, Yunyuk) — 유듀의 혈성분비물(papilla bloody discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007741)
+
+**⑤ 통증형** — 성격: 통증(痛症)
+
+- **유방종통**(乳房腫痛, Yubangjongtong) — 유방통(mammary pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007761)
+
+**⑥ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **유방창통**(乳房脹痛, Yubangchangtong) — 유방통(mammary pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007762)
 #### 복 (135건)
+
+복 문의 135개 표제어는 아래 11개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
 
 - **경래요복통**(經來腰腹痛, Gyeongnaeyoboktong) — 월경통(dysmenorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000476)
 - **경폐복통**(經閉腹痛, Gyeongpyeboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000531)
 - **경행복통**(經行腹痛, Gyeonghaengboktong) — 월경통(dysmenorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000565)
 - **곽란복통**(霍亂腹痛, Gwangnanboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000782)
-- **냉기복통**(冷氣腹痛, Naenggiboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001590)
-- **냉복통**(冷腹痛, Naengboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001608)
-- **단복창**(單腹脹, Danbokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001883)
 - **대복통**(大腹痛, Daeboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002136)
 - **두복통**(肚腹痛, Duboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002312)
-- **만복창팽통**(滿腹脹膨痛, Manbokchangpaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013082)
 - **복내동통**(腹內疼痛, Bongnaedongtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013319)
-- **복동**(腹動, Bokdong) — 복부 연동(abdominal peristalsis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003243)
-- **복랭통**(腹冷痛, Bongnaengtong) — 복부 냉통(abdominal cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003245)
-- **복만**(腹滿, Bongman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003248)
 - **복만불식복통**(腹滿不食腹痛, Bongmanbulsikboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003252)
 - **복만통**(腹滿痛, Bongmantong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003253)
-- **복명**(腹鳴, Bongmyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003254)
-- **복부팽만**(腹部膨滿, Bokbupaengman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003256)
-- **복수**(腹水, Boksu) — 복수(ascites) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003265)
 - **복중긴통**(腹中緊痛, Bokjunggintong) — 복중긴통(tension-type abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013087)
-- **복중냉통**(腹中冷痛, Bokjungnaengtong) — 복부냉통(abdominal cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003286)
-- **복중뇌명**(腹中雷鳴, Bokjungnoemyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003287)
-- **복중랭**(腹中冷, Bokjungnaeng) — 복부 냉감(abdominal cold sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003289)
-- **복중명**(腹中鳴, Bokjungmyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003290)
-- **복중열**(腹中熱, Bokjungyeol) — 복부 열감(abdominal burning sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003300)
-- **복중유괴기**(腹中有塊起, Bokjungyugoegi) — 종괴(mass, lump) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013090)
 - **복중자통**(腹中刺痛, Bokjungjatong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003303)
-- **복중적괴**(腹中積塊, Bokjungjeokgoe) — 복부 덩어리(abdominal bolus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003305)
-- **복중허만**(腹中虛滿, Bokjungheoman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013015)
-- **복중협착**(腹中狹窄, Bokjunghyeopchak) — 십이지장의 폐쇄(obstruction of duodenum) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003311)
-- **복창**(腹脹, Bokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003312)
-- **복창만**(腹脹滿, Bokchangman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003314)
-- **복창비만**(腹脹痞滿, Bokchangbiman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003317)
-- **복창여고**(腹脹如鼓, Bokchangyeogo) — 배팽만공명음(tympany distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003318)
-- **복창체수**(腹脹體瘦, Bokchangchesu) — 마른체중(lean body mass) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003320)
-- **복창통**(腹脹痛, Bokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003321)
 - **복통**(腹痛, Boktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003324)
 - **복통거안**(腹痛拒按, Boktonggeoan) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003325)
 - **복통구설**(腹痛嘔泄, Boktongguseol) — 구토(vomiting) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003326)
 - **복통산기**(腹痛疝氣, Boktongsangi) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012516)
 - **복통자리**(腹痛自利, Boktongjari) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003334)
-- **복통창만**(腹痛脹滿, Boktongchangman) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003336)
 - **복통토사**(腹痛吐瀉, Boktongtosa) — 구토(vomiting) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003337)
+- **산후복통**(産後腹痛, Sanhuboktong) — 산후 복통(postpartum abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004130)
+- **소복결통**(小腹結痛, Sobokgyeoltong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004868)
+- **소복교통**(小腹絞痛, Sobokgyotong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004870)
+- **소복급통**(小腹急痛, Sobokgeuptong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004874)
+- **소복통**(小腹痛, Soboktong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004886)
+- **소복통**(少腹痛, Soboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004887)
+- **식체복통**(食滯腹痛, Sikcheboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005813)
+- **심복견통**(心腹堅痛, Simbokgyeontong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006117)
+- **심복교통**(心腹絞痛, Simbokgyotong) — 상복부의 심한통증(epigastric intense pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006121)
+- **심복급통**(心腹急痛, Simbokgeuptong) — 상복부의 급통(epigastirc colic pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006123)
+- **심복냉통**(心腹冷痛, Simbongnaengtong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006125)
+- **심복동통**(心腹疼痛, Simbokdongtong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006126)
+- **심복만통**(心腹滿痛, Simbongmantong) — 상복부팽만 동통(epigastric distension and pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006127)
+- **심복자통**(心腹刺痛, Simbokjatong) — 상복부자통(epigastric prick pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006143)
+- **심복통**(心腹痛, Simboktong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006158)
+- **심하결통**(心下結痛, Simhagyeoltong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006248)
+- **완복냉통**(脘腹冷痛, Wanbongnaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007332)
+- **완복자통**(脘腹刺痛, Wanbokjatong) — 심한복통(griping pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007334)
+- **요복통**(腰腹痛, Yoboktong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007432)
+- **음증복통**(陰證腹痛, Eumjeungboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008078)
+- **이질복통**(痢疾腹痛, Ijilboktong) — 식중독(food poisoning) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008208)
+- **임신복통**(妊娠腹痛, Imsinboktong) — 임신복통(abdominal pain in pregnancy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008377)
+- **제복교통**(臍腹㽲痛, Jebokgyotong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013034)
+- **제복동통**(臍腹疼痛, Jebokdongtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013131)
+- **제복자통**(臍腹刺痛, Jebokjatong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013248)
+- **제복촬통**(臍腹撮痛, Jebokchwaltong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013017)
+- **제복통**(臍腹痛, Jeboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008978)
+- **교통**(㽱痛, Gyotong) — 심한복통, 움킴통증(griping pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000864)
+- **식통**(食痛, Siktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005816)
+- **통민**(痛悶, Tongmin) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012263)
+- **팽통**(膨痛, Paengtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013187)
+
+**② 한증형** — 성격: 한증(寒證)
+
+- **냉기복통**(冷氣腹痛, Naenggiboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001590)
+- **냉복통**(冷腹痛, Naengboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001608)
+- **복랭통**(腹冷痛, Bongnaengtong) — 복부 냉통(abdominal cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003245)
+- **복중냉통**(腹中冷痛, Bokjungnaengtong) — 복부냉통(abdominal cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003286)
+- **복중랭**(腹中冷, Bokjungnaeng) — 복부 냉감(abdominal cold sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003289)
+- **소복냉통**(小腹冷痛, Sobongnaengtong) — 아랫배 차가운 통증(hypogastric cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004877)
+- **제복냉통**(臍腹冷痛, Jebongnaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008976)
+- **한복통**(寒腹痛, Hanboktong) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011037)
+- **한사복통**(寒邪腹痛, Hansaboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012598)
+
+**③ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **단복창**(單腹脹, Danbokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001883)
+- **만복창팽통**(滿腹脹膨痛, Manbokchangpaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013082)
+- **복창**(腹脹, Bokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003312)
+- **복창만**(腹脹滿, Bokchangman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003314)
+- **복창여고**(腹脹如鼓, Bokchangyeogo) — 배팽만공명음(tympany distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003318)
+- **복창체수**(腹脹體瘦, Bokchangchesu) — 마른체중(lean body mass) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003320)
+- **복창통**(腹脹痛, Bokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003321)
+- **복통창만**(腹痛脹滿, Boktongchangman) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003336)
+- **소복창만**(小腹脹滿, Sobokchangman) — 하복부팽만(hypogastric distension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012494)
+- **소복창통**(小腹脹痛, Sobokchangtong) — 하복부통(lower abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012583)
+- **수종복창**(水腫腹脹, Sujongbokchang) — 부종(edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005409)
+- **심복견창**(心腹堅脹, Simbokgyeonchang) — 상복부불편감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012619)
+- **심복창**(心腹脹, Simbokchang) — 상복부팽륭(epigastric bulging) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006154)
+- **심복창만**(心腹脹滿, Simbokchangman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006155)
+- **심복창민**(心腹脹悶, Simbokchangmin) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006156)
+- **심복창통**(心腹脹痛, Simbokchangtong) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006157)
+- **심복팽창**(心腹膨脹, Simbokpaengchang) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006160)
+- **심하창민**(心下脹悶, Simhachangmin) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012771)
+- **완복창만**(脘腹脹滿, Wanbokchangman) — 위창자내공기참(flatulence) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007335)
+- **완복창통**(脘腹脹痛, Wanbokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007338)
+- **제복창**(臍腹脹, Jebokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012998)
+- **제복창통**(臍腹脹痛, Jebokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008977)
+
+**④ 실열형** — 성격: 실열(實熱)
+
+- **복중열**(腹中熱, Bokjungyeol) — 복부 열감(abdominal burning sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003300)
+- **신열복통**(身熱腹痛, Sinyeolboktong) — 발열(fever) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005921)
+- **열복통**(熱腹痛, Yeolboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006950)
+
+**⑤ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **복중적괴**(腹中積塊, Bokjungjeokgoe) — 복부 덩어리(abdominal bolus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003305)
+- **복창비만**(腹脹痞滿, Bokchangbiman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003317)
 - **비격**(痞隔, Bigyeok) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003620)
 - **비결**(痞結, Bigyeol) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003622)
 - **비기**(痞氣, Bigi) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003633)
@@ -2094,393 +2484,598 @@
 - **비증**(痞證, Bijeung) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003791)
 - **비창**(痞脹, Bichang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003795)
 - **비체**(痞滯, Biche) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003803)
-- **산후복통**(産後腹痛, Sanhuboktong) — 산후 복통(postpartum abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004130)
-- **산후어체복통**(産後瘀滯腹痛, Sanhueocheboktong) — 산후기복통(puerperal period abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012406)
-- **상한복통**(傷寒腹痛, Sanghanboktong) — 감기(common cold) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004491)
-- **소복결통**(小腹結痛, Sobokgyeoltong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004868)
-- **소복경만**(小腹硬滿, Sobokgyeongman) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004869)
-- **소복교통**(小腹絞痛, Sobokgyotong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004870)
-- **소복구급**(小腹拘急, Sobokgugeup) — 아랫배당김(hypogastric traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004871)
-- **소복급결**(小腹急結, Sobokgeupgyeol) — 아랫배당김(hypogastric traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004872)
-- **소복급통**(小腹急痛, Sobokgeuptong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004874)
-- **소복냉통**(小腹冷痛, Sobongnaengtong) — 아랫배 차가운 통증(hypogastric cold pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004877)
-- **소복만**(小腹滿, Sobongman) — 아랫배 팽만(hypogastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004878)
-- **소복창만**(小腹脹滿, Sobokchangman) — 하복부팽만(hypogastric distension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012494)
-- **소복창통**(小腹脹痛, Sobokchangtong) — 하복부통(lower abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012583)
-- **소복통**(小腹痛, Soboktong) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004886)
-- **소복통**(少腹痛, Soboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004887)
-- **수종복창**(水腫腹脹, Sujongbokchang) — 부종(edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005409)
 - **식적복창**(食積腹脹, Sikjeokbokchang) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012537)
 - **식적복통**(食積腹痛, Sikjeokboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005783)
-- **식체복통**(食滯腹痛, Sikcheboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005813)
-- **신열복통**(身熱腹痛, Sinyeolboktong) — 발열(fever) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005921)
 - **실비**(實痞, Silbi) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006033)
-- **심복견창**(心腹堅脹, Simbokgyeonchang) — 상복부불편감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012619)
-- **심복견통**(心腹堅痛, Simbokgyeontong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006117)
-- **심복교통**(心腹絞痛, Simbokgyotong) — 상복부의 심한통증(epigastric intense pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006121)
-- **심복급통**(心腹急痛, Simbokgeuptong) — 상복부의 급통(epigastirc colic pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006123)
-- **심복냉통**(心腹冷痛, Simbongnaengtong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006125)
-- **심복동통**(心腹疼痛, Simbokdongtong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006126)
-- **심복만통**(心腹滿痛, Simbongmantong) — 상복부팽만 동통(epigastric distension and pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006127)
 - **심복비만**(心腹痞滿, Simbokbiman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006131)
-- **심복자통**(心腹刺痛, Simbokjatong) — 상복부자통(epigastric prick pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006143)
-- **심복창**(心腹脹, Simbokchang) — 상복부팽륭(epigastric bulging) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006154)
-- **심복창만**(心腹脹滿, Simbokchangman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006155)
-- **심복창민**(心腹脹悶, Simbokchangmin) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006156)
-- **심복창통**(心腹脹痛, Simbokchangtong) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006157)
-- **심복통**(心腹痛, Simboktong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006158)
-- **심복팽창**(心腹膨脹, Simbokpaengchang) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006160)
-- **심하견**(心下堅, Simhagyeon) — 상복부 긴장(epigastric tension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013183)
-- **심하견경**(心下堅硬, Simhagyeongyeong) — 상복부긴장(epigastric distension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006245)
-- **심하견만**(心下堅滿, Simhagyeonman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006246)
-- **심하결통**(心下結痛, Simhagyeoltong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006248)
-- **심하계**(心下悸, Simhagye) — 심계항진(palpitation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006249)
-- **심하급**(心下急, Simhageup) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006250)
-- **심하만**(心下滿, Simhaman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006252)
 - **심하비**(心下痞, Simhabi) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006257)
 - **심하비경**(心下痞硬, Simhabigyeong) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006258)
 - **심하비만**(心下痞滿, Simhabiman) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006259)
 - **심하비통**(心下痞痛, Simhabitong) — 상복부동통(epigastralgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006260)
-- **심하지음**(心下支飮, Simhajieum) — 폐기종(emphysema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006267)
-- **심하창민**(心下脹悶, Simhachangmin) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012771)
-- **어체복통**(瘀滯腹痛, Eocheboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012535)
-- **열복통**(熱腹痛, Yeolboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006950)
-- **완복냉통**(脘腹冷痛, Wanbongnaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007332)
-- **완복자통**(脘腹刺痛, Wanbokjatong) — 심한복통(griping pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007334)
-- **완복창만**(脘腹脹滿, Wanbokchangman) — 위창자내공기참(flatulence) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007335)
-- **완복창통**(脘腹脹痛, Wanbokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007338)
 - **완비부기**(脘痞不飢, Wanbibulgi) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007346)
-- **요복통**(腰腹痛, Yoboktong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007432)
-- **음증복통**(陰證腹痛, Eumjeungboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008078)
-- **이질복통**(痢疾腹痛, Ijilboktong) — 식중독(food poisoning) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008208)
-- **임신복통**(妊娠腹痛, Imsinboktong) — 임신복통(abdominal pain in pregnancy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008377)
-- **자사복중**(子死腹中, Jasabokjung) — 자궁내 태아사망(intrauterine death) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008463)
 - **적체복통**(積滯腹痛, Jeokcheboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008759)
 - **적취복통**(積聚腹痛, Jeokchwiboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008764)
-- **제돌**(臍突, Jedol) — 배꼽염(omphalitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008968)
-- **제복교통**(臍腹㽲痛, Jebokgyotong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013034)
-- **제복냉통**(臍腹冷痛, Jebongnaengtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008976)
-- **제복동통**(臍腹疼痛, Jebokdongtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013131)
-- **제복자통**(臍腹刺痛, Jebokjatong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013248)
-- **제복창**(臍腹脹, Jebokchang) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012998)
-- **제복창통**(臍腹脹痛, Jebokchangtong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008977)
-- **제복촬통**(臍腹撮痛, Jebokchwaltong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013017)
-- **제복통**(臍腹痛, Jeboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008978)
-- **제습**(臍濕, Jeseup) — 배꼽염(omphalitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008987)
-- **한복통**(寒腹痛, Hanboktong) — 소화불량(dyspepsia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011037)
 - **한비**(寒痞, Hanbi) — 상세불명의 위 및 십이지장의 질환(diseases of stomach and duodenum, unspecified) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011038)
-- **한사복통**(寒邪腹痛, Hansaboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012598)
+
+**⑥ 허증형** — 강도: 허증(虛症)
+
+- **복중허만**(腹中虛滿, Bokjungheoman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013015)
 - **허한복통**(虛寒腹痛, Heohanboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012500)
+
+**⑦ 혈병형** — 병위: 혈병(血病)
+
+- **산후어체복통**(産後瘀滯腹痛, Sanhueocheboktong) — 산후기복통(puerperal period abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012406)
+- **어체복통**(瘀滯腹痛, Eocheboktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012535)
+
+**⑧ 외상형** — 동기: 외상(外傷)
+
+- **상한복통**(傷寒腹痛, Sanghanboktong) — 감기(common cold) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004491)
+
+**⑨ 정신·의식 이상형** — 동반증상: 정신·의식 증상
+
+- **심하계**(心下悸, Simhagye) — 심계항진(palpitation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006249)
+
+**⑩ 담음·습형** — 병인: 담음·습(痰飮濕)
+
+- **심하지음**(心下支飮, Simhajieum) — 폐기종(emphysema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006267)
+- **제습**(臍濕, Jeseup) — 배꼽염(omphalitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008987)
+
+**⑪ 기타** — 동반증상: 복합·잔여
+
+- **복동**(腹動, Bokdong) — 복부 연동(abdominal peristalsis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003243)
+- **복만**(腹滿, Bongman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003248)
+- **복명**(腹鳴, Bongmyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003254)
+- **복부팽만**(腹部膨滿, Bokbupaengman) — 복부팽만(abdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003256)
+- **복수**(腹水, Boksu) — 복수(ascites) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003265)
+- **복중뇌명**(腹中雷鳴, Bokjungnoemyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003287)
+- **복중명**(腹中鳴, Bokjungmyeong) — 복명(gurgle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003290)
+- **복중유괴기**(腹中有塊起, Bokjungyugoegi) — 종괴(mass, lump) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013090)
+- **복중협착**(腹中狹窄, Bokjunghyeopchak) — 십이지장의 폐쇄(obstruction of duodenum) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003311)
+- **소복경만**(小腹硬滿, Sobokgyeongman) — 아랫배통증(hypogastric pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004869)
+- **소복구급**(小腹拘急, Sobokgugeup) — 아랫배당김(hypogastric traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004871)
+- **소복급결**(小腹急結, Sobokgeupgyeol) — 아랫배당김(hypogastric traction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004872)
+- **소복만**(小腹滿, Sobongman) — 아랫배 팽만(hypogastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004878)
+- **심하견**(心下堅, Simhagyeon) — 상복부 긴장(epigastric tension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013183)
+- **심하견경**(心下堅硬, Simhagyeongyeong) — 상복부긴장(epigastric distension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006245)
+- **심하견만**(心下堅滿, Simhagyeonman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006246)
+- **심하급**(心下急, Simhageup) — 상복부팽만(epigastirc distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006250)
+- **심하만**(心下滿, Simhaman) — 상복부팽만(epigastric distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006252)
+- **자사복중**(子死腹中, Jasabokjung) — 자궁내 태아사망(intrauterine death) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008463)
+- **제돌**(臍突, Jedol) — 배꼽염(omphalitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008968)
 - **흉복만민**(胸腹滿悶, Hyungbongmanmin) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012942)
 - **격만**(隔滿, Gyeongman) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013341)
-- **교통**(㽱痛, Gyotong) — 심한복통, 움킴통증(griping pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000864)
-- **식통**(食痛, Siktong) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005816)
-- **통민**(痛悶, Tongmin) — 상복부불쾌감(epigastric distress) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012263)
-- **팽통**(膨痛, Paengtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013187)
-
 #### 요 (23건)
 
+요 문의 23개 표제어는 아래 11개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 피부 발적·발진형** — 성격: 발적·발진
+
 - **개요통**(疥腰痛, Gaeyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000323)
+
+**② 통증형** — 성격: 통증(痛症)
+
 - **기요통**(氣腰痛, Giyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001344)
-- **내상요통**(內傷腰痛, Naesangyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001535)
-- **노역요통**(勞役腰痛, Noyeogyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001698)
 - **산후요통**(産後腰痛, Sanhuyotong) — 산후 요통(postpartum low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004176)
 - **섬좌요통**(閃挫腰痛, Seomjwayotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004785)
-- **습열요통**(濕熱腰痛, Seubyeoryotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005577)
-- **습요통**(濕腰痛, Seumnyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005604)
-- **식적요통**(食積腰痛, Sikjeogyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005794)
 - **외감요통**(外感腰痛, Oegamyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007366)
 - **요각냉통**(腰脚冷痛, Yogangnaengtong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007405)
 - **요각동통**(腰脚疼痛, Yogakdongtong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007406)
 - **요각산통**(腰脚痠痛, Yogaksantong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007412)
 - **요각통**(腰脚痛, Yogaktong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007418)
-- **요산**(腰酸, Yosan) — 요부 무기력(lumbar asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007439)
-- **요통각약**(腰痛脚弱, Yotonggagyak) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007496)
-- **요퇴무력**(腰腿無力, Yotoemuryeok) — 요퇴무력(low back and thigh inertia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013000)
-- **전요화단**(纏腰火丹, Jeonyohwadan) — 대상포진(herpes zoster) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008812)
-- **절요**(折腰, Jeoryo) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008857)
 - **좌섬요통**(挫閃腰痛, Jwaseomyotong) — 허리뼈의 염좌 및 긴장(sprain and strain of lumbar spine) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009180)
-- **풍요통**(風腰痛, Pungyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010769)
-- **한요통**(寒腰痛, Hanyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011094)
-- **절척**(切脊, Jeolcheok) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008861)
 
+**③ 외상형** — 동기: 외상(外傷)
+
+- **내상요통**(內傷腰痛, Naesangyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001535)
+
+**④ 허증형** — 강도: 허증(虛症)
+
+- **노역요통**(勞役腰痛, Noyeogyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001698)
+
+**⑤ 실열형** — 성격: 실열(實熱)
+
+- **습열요통**(濕熱腰痛, Seubyeoryotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005577)
+- **전요화단**(纏腰火丹, Jeonyohwadan) — 대상포진(herpes zoster) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008812)
+
+**⑥ 담음·습형** — 병인: 담음·습(痰飮濕)
+
+- **습요통**(濕腰痛, Seumnyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005604)
+
+**⑦ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **식적요통**(食積腰痛, Sikjeogyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005794)
+
+**⑧ 위축·무력형** — 강도: 위축·무력(痿弱)
+
+- **요통각약**(腰痛脚弱, Yotonggagyak) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007496)
+
+**⑨ 풍병형** — 병인: 풍(風)
+
+- **풍요통**(風腰痛, Pungyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010769)
+
+**⑩ 한증형** — 성격: 한증(寒證)
+
+- **한요통**(寒腰痛, Hanyotong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011094)
+
+**⑪ 기타** — 동반증상: 복합·잔여
+
+- **요산**(腰酸, Yosan) — 요부 무기력(lumbar asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007439)
+- **요퇴무력**(腰腿無力, Yotoemuryeok) — 요퇴무력(low back and thigh inertia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013000)
+- **절요**(折腰, Jeoryo) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008857)
+- **절척**(切脊, Jeolcheok) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008861)
 #### 협 (14건)
 
+협 문의 14개 표제어는 아래 7개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
 - **건협통**(乾脇痛, Geonhyeoptong) — 기타 및 부위불명 소화기의 악성신생물(malignant neoplasm of other and ill-defined digestive organs) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000366)
-- **복협창만**(腹脇脹滿, Bokyeopchangman) — 외측복부 팽만(lateroabdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003350)
 - **복협통**(腹脇痛, Bokyeoptong) — 외측복부 통증(lateroabdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003351)
 - **산후심복요협통**(産後心腹腰脇痛, Sanhusimbogyohyeoptong) — 산후 심장 복부 옆구리 허리 통증(postpartum heart abdomen back lumbar pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004151)
-- **상한협통**(傷寒脇痛, Sanghanhyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012980)
-- **습열협통**(濕熱脇痛, Seubyeolhyeoptong) — 옆구리 통증 증후군(lateroabdominal pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005598)
-- **식적협통**(食積脇痛, Sikjeokyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005803)
 - **양협통**(兩脇痛, Yanghyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006678)
 - **요협통**(腰脇痛, Yohyeoptong) — 요통(low back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007511)
 - **우협동통**(右脇疼痛, Uhyeopdongtong) — 우측 옆구리 통증(right flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013001)
 - **우협통**(右脇痛, Uhyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007550)
-- **풍한협통**(風寒脇痛, Punghanhyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010840)
 - **해수인협통**(咳嗽引脇痛, Haesuinhyeoptong) — 기침(cough) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011173)
-- **벽질**(癖疾, Byeokjil) — 옆구리 종양증(lateroabdominal oncosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003174)
 
+**② 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **복협창만**(腹脇脹滿, Bokyeopchangman) — 외측복부 팽만(lateroabdominal distention) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003350)
+
+**③ 외상형** — 동기: 외상(外傷)
+
+- **상한협통**(傷寒脇痛, Sanghanhyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012980)
+
+**④ 실열형** — 성격: 실열(實熱)
+
+- **습열협통**(濕熱脇痛, Seubyeolhyeoptong) — 옆구리 통증 증후군(lateroabdominal pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005598)
+
+**⑤ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **식적협통**(食積脇痛, Sikjeokyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005803)
+
+**⑥ 한증형** — 성격: 한증(寒證)
+
+- **풍한협통**(風寒脇痛, Punghanhyeoptong) — 협통(flank pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010840)
+
+**⑦ 기타** — 동반증상: 복합·잔여
+
+- **벽질**(癖疾, Byeokjil) — 옆구리 종양증(lateroabdominal oncosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003174)
 #### 피 (19건)
 
+피 문의 19개 표제어는 아래 4개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 피부 발적·발진형** — 성격: 발적·발진
+
 - **우피선**(牛皮癬, Upiseon) — 건선(psoriasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007548)
-- **균독**(菌毒, Gyundok) — 진균증(mycosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001139)
-- **균심독**(菌蕈毒, Gyunsimdok) — 진균증(mycosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001140)
-- **나병**(癩病, Nabyeong) — 나병(leprosy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001466)
-- **내발단독**(內發丹毒, Naebaldandok) — 단독 연조직염(erysipelas) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001525)
-- **농포**(膿疱, Nongpo) — 농포(pustule) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001767)
-- **단독**(丹毒, Dandok) — 단독(erythema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001878)
-- **단사**(丹痧, Dansa) — 성홍열(scarlet fever) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001884)
-- **매독**(梅毒, Maedok) — 매독(syphilis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002590)
-- **발적**(發赤, Baljeok) — 홍반(erythema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002985)
 - **소양**(瘙痒, Soyang) — 가려움(itch) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005144)
-- **시독흘답**(時毒疙瘩, Sidokeuldap) — 유해성 두드러기(epidemic urticaria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005653)
 - **신양**(身痒, Sinyang) — 가려움(itch) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005914)
-- **악육**(惡肉, Agyuk) — 부육(rotten flesh) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006401)
 - **양반**(陽斑, Yangban) — 두드러기(urticaria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006621)
 - **양통**(痒痛, Yangtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006656) (분류 근거 약함)
-- **외조**(外燥, Oejo) — 건선(psoriasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007391)
 - **자반**(紫斑, Jaban) — 자반증(purpura) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008458)
 - **편평우**(扁平疣, Pyeonpyeongu) — 편평사마귀(verruca plana) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010346)
 
+**② 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **균독**(菌毒, Gyundok) — 진균증(mycosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001139)
+- **균심독**(菌蕈毒, Gyunsimdok) — 진균증(mycosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001140)
+- **내발단독**(內發丹毒, Naebaldandok) — 단독 연조직염(erysipelas) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001525)
+- **농포**(膿疱, Nongpo) — 농포(pustule) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001767)
+- **단독**(丹毒, Dandok) — 단독(erythema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001878)
+- **매독**(梅毒, Maedok) — 매독(syphilis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002590)
+- **시독흘답**(時毒疙瘩, Sidokeuldap) — 유해성 두드러기(epidemic urticaria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005653)
+
+**③ 실열형** — 성격: 실열(實熱)
+
+- **외조**(外燥, Oejo) — 건선(psoriasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007391)
+
+**④ 기타** — 동반증상: 복합·잔여
+
+- **나병**(癩病, Nabyeong) — 나병(leprosy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001466)
+- **단사**(丹痧, Dansa) — 성홍열(scarlet fever) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001884)
+- **발적**(發赤, Baljeok) — 홍반(erythema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002985)
+- **악육**(惡肉, Agyuk) — 부육(rotten flesh) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006401)
 #### 육 (21건)
 
+육 문의 21개 표제어는 아래 5개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 실열형** — 성격: 실열(實熱)
+
 - **기열**(肌熱, Giyeol) — 작열감(burning sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001339)
-- **기육건수**(肌肉乾瘦, Giyukgeonsu) — 피부건조증(xeroderma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001355)
-- **기육소수**(肌肉消瘦, Giyuksosu) — 체중감소(weight loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001356)
-- **기육중착**(肌肉重着, Giyukjungchak) — 체중증가(weight gain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001359)
+
+**② 마비·저림형** — 동반증상: 마비·불인(痲痹不仁)
+
 - **마목**(麻木, Mamok) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002522)
 - **마목구련**(麻木拘攣, Mamokguryeon) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002524)
 - **마목탄탄**(麻木癱瘓, Mamoktantan) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002525)
 - **사지마목**(四肢麻木, Sajimamok) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003973)
 - **수족마목**(手足麻木, Sujongmamok) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005375)
+- **양퇴마목**(兩腿麻木, Yangtoemamok) — 양측대퇴부감각이상(both thigh dysaesthesia(paresthesia)) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012677)
+- **위비**(痿痺, Wibi) — 마비성 각기(paralytic beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007652)
+- **하지마목**(下肢麻木, Hajimamok) — 발목 터널 증후군(tarsal tunnel syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010974)
+
+**③ 위축·무력형** — 강도: 위축·무력(痿弱)
+
 - **양각위연**(兩脚痿軟, Yanggagwiyeon) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006554)
 - **양위**(陽痿, Yangwi) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006635)
 - **양위정냉**(陽痿精冷, Yangwijeongnaeng) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006640)
 - **양위정쇠**(陽痿精衰, Yangwijeongsoe) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006641)
-- **양퇴마목**(兩腿麻木, Yangtoemamok) — 양측대퇴부감각이상(both thigh dysaesthesia(paresthesia)) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012677)
 - **위벽**(痿躄, Wibyeok) — 마비성 각기(paralytic beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007645)
-- **위비**(痿痺, Wibi) — 마비성 각기(paralytic beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007652)
 - **육위**(肉痿, Yugwi) — 근무력증(myasthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007872)
-- **하지마목**(下肢麻木, Hajimamok) — 발목 터널 증후군(tarsal tunnel syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010974)
+
+**④ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
 - **육류**(肉瘤, Yungnyu) — 피부연성섬유종(skin tag) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007863)
-- **육암자흑**(肉暗紫黑, Yugamjaheuk) — 어두운피부(dark skin) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012239)
 - **육영**(肉癭, Yugyeong) — 피부연성섬유종(skin tag) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007870)
 
+**⑤ 기타** — 동반증상: 복합·잔여
+
+- **기육건수**(肌肉乾瘦, Giyukgeonsu) — 피부건조증(xeroderma) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001355)
+- **기육소수**(肌肉消瘦, Giyuksosu) — 체중감소(weight loss) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001356)
+- **기육중착**(肌肉重着, Giyukjungchak) — 체중증가(weight gain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001359)
+- **육암자흑**(肉暗紫黑, Yugamjaheuk) — 어두운피부(dark skin) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012239)
 #### 맥 (9건)
 
+맥 문의 9개 표제어는 아래 4개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 경련·전근형** — 성격: 경련·전근(痙攣轉筋)
+
 - **근맥경련**(筋脈痙攣, Geunmaekgyeongnyeon) — 근경련증(myoclonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001186)
+
+**② 치질·항문형** — 위치: 치항(痔肛)
+
+- **맥치**(脈痔, Maekchi) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002608)
+
+**③ 안검·속눈썹형** — 위치: 안검(眼瞼)
+
+- **소자적맥**(小眥赤脈, Sojajeongmaek) — 충혈안(pink eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005201)
+
+**④ 기타** — 동반증상: 복합·잔여
+
 - **근맥구급**(筋脈拘急, Geunmaekgugeup) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001187)
 - **근맥구련**(筋脈拘攣, Geunmaekguryeon) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001188)
 - **근맥연급**(筋脈攣急, Geunmaegyeongeup) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001189)
 - **근맥추철**(筋脈抽掣, Geunmaekchucheol) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001190)
-- **맥치**(脈痔, Maekchi) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002608)
 - **무맥증**(無脈證, Mumaekjeung) — 무맥박(acrotism) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002841)
-- **소자적맥**(小眥赤脈, Sojajeongmaek) — 충혈안(pink eye) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005201)
 - **적사규맥**(赤絲虯脈, Jeoksagyumaek) — 충혈(hyperemia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008716)
-
 #### 근 (58건)
+
+근 문의 58개 표제어는 아래 9개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 경련·전근형** — 성격: 경련·전근(痙攣轉筋)
 
 - **경련**(痙攣, Gyeongnyeon) — 경련(convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000478)
 - **곽란전근**(霍亂轉筋, Gwangnanjeongeun) — 경련(convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000783)
 - **곽란후전근**(霍亂後轉筋, Gwangnanhujeongeun) — 구토 설사(vomiting and diarreha) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000790)
+- **사지경련**(四肢痙攣, Sajigyeongnyeon) — 사지 경련(limb convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012549)
+- **수족경련**(手足痙攣, Sujokgyeongnyeon) — 팔다리 경련(extremity convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005368)
+- **전근**(轉筋, Jeongeun) — 근육긴장 이상(dystonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008793)
+
+**② 마비·저림형** — 동반증상: 마비·불인(痲痹不仁)
+
+- **근비**(筋痺, Geunbi) — 저림(numbness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001193)
+- **마비불인**(痲痹不仁, Mabiburin) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002529)
+- **불인**(不仁, Burin) — 운동장애(motor abnormality) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003585)
+- **사지불인**(四肢不仁, Sajiburin) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003985)
+
+**③ 위축·무력형** — 강도: 위축·무력(痿弱)
+
+- **근위**(筋痿, Geunwi) — 근위축(myatrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001200)
+
+**④ 통증형** — 성격: 통증(痛症)
+
+- **근통**(筋痛, Geuntong) — 근육통(myalgesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001209)
+- **행보연급동통**(行步攣急疼痛, Haengboyeongeupdongtong) — 견인통(dragging pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011203)
+- **동통**(疼痛, Dongtong) — 통증 증후군(pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002285) (분류 근거 약함)
+- **동통발헐**(疼痛發歇, Dongtongbalheol) — 간헐성 통증(intermittent pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013195) (분류 근거 약함)
+- **방산통**(放散痛, Bangsantong) — 방산통(radiating pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003028) (분류 근거 약함)
+- **백호역절통**(白虎歷節痛, Baekoyeokjeoltong) — 통풍(gout) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003121)
+- **사지번동**(四肢煩疼, Sajibeondong) — 팔다리 작열감(extremity burning sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003977)
+- **사지산동**(四肢痠疼, Sajisandong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003986)
+- **사지산통**(四肢痠痛, Sajisantong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003987)
+- **산통**(痠痛, Santong) — 통증 증후군(pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004100) (분류 근거 약함)
+- **수족번동**(手足煩疼, Sujokbeondong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005378)
+- **신동**(身疼, Sindong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005865) (분류 근거 약함)
+- **신체동통**(身體疼痛, Sinchedongtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013188) (분류 근거 약함)
+- **신체번동**(身體煩疼, Sinchebeondong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005961) (분류 근거 약함)
+- **신통**(身痛, Sintong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005966) (분류 근거 약함)
+- **일신진통**(一身盡痛, Ilsinjintong) — 전신통증(pantalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012879) (분류 근거 약함)
+- **자통**(刺痛, Jatong) — 자통(prick pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008495) (분류 근거 약함)
+- **전신동통**(全身疼痛, Jeonsindongtong) — 전신통증(pantalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012609) (분류 근거 약함)
+- **주주동통**(走注疼痛, Jujudongtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009245) (분류 근거 약함)
+- **체통**(體痛, Chetong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013342) (분류 근거 약함)
+
+**⑤ 기능 상실·불통형** — 성격: 기능 상실·불통
+
+- **굴신불리**(屈伸不利, Gulsinbulli) — 운동장애(motor abnormality) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001054)
+
+**⑥ 피부 발적·발진형** — 성격: 발적·발진
+
+- **마양**(麻痒, Mayang) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002536)
+
+**⑦ 풍병형** — 병인: 풍(風)
+
+- **사지진전**(四肢震顫, Sajijinjeon) — 진전(tremor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004007)
+- **진전**(震顫, Jinjeon) — 진전마비(paralysis agitans) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009480)
+
+**⑧ 한증형** — 성격: 한증(寒證)
+
+- **신랭강직**(身冷强直, Sillaenggangjik) — 강직(stiffening) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005867)
+
+**⑨ 기타** — 동반증상: 복합·잔여
+
 - **구련**(拘攣, Guryeon) — 구축(contracture) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000904)
 - **근계**(筋瘈, Geungye) — 중증 근육무력증 및 기타 근신경성 장애(myasthenia gravis and other myoneural disorders) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001143)
 - **근급**(筋急, Geungeup) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001177)
 - **근단**(筋斷, Geundan) — 근절단(myotmesis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001179)
 - **근련**(筋攣, Geullyeon) — 근경련증(myoclonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001183)
 - **근번**(筋飜, Geunbeon) — 근육긴장증, 근강직증(myotonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001191)
-- **근비**(筋痺, Geunbi) — 저림(numbness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001193)
 - **근완**(筋緩, Geunwan) — 근무력증(myasthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001198)
-- **근위**(筋痿, Geunwi) — 근위축(myatrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001200)
 - **근척육순**(筋惕肉瞤, Geuncheongnyuksun) — 근경련증(myoclonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001207)
-- **근통**(筋痛, Geuntong) — 근육통(myalgesia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001209)
-- **사지경련**(四肢痙攣, Sajigyeongnyeon) — 사지 경련(limb convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012549)
 - **사지구련**(四肢拘攣, Sajiguryeon) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003965)
 - **사지련급**(四肢攣急, Sajiryeongeup) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003972)
 - **섬근**(閃筋, Seomgeun) — 염좌(sprain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004778)
-- **수족경련**(手足痙攣, Sujokgyeongnyeon) — 팔다리 경련(extremity convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005368)
 - **수족구련**(手足拘攣, Sujokguryeon) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005370)
-- **전근**(轉筋, Jeongeun) — 근육긴장 이상(dystonia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008793)
-- **행보연급동통**(行步攣急疼痛, Haengboyeongeupdongtong) — 견인통(dragging pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011203)
-- **굴신불리**(屈伸不利, Gulsinbulli) — 운동장애(motor abnormality) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001054)
-- **동통**(疼痛, Dongtong) — 통증 증후군(pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002285) (분류 근거 약함)
-- **동통발헐**(疼痛發歇, Dongtongbalheol) — 간헐성 통증(intermittent pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013195) (분류 근거 약함)
-- **마비불인**(痲痹不仁, Mabiburin) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002529)
-- **마양**(麻痒, Mayang) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002536)
-- **방산통**(放散痛, Bangsantong) — 방산통(radiating pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003028) (분류 근거 약함)
-- **백호역절통**(白虎歷節痛, Baekoyeokjeoltong) — 통풍(gout) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003121)
-- **불인**(不仁, Burin) — 운동장애(motor abnormality) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003585)
 - **사지구급**(四肢拘急, Sajigugeup) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003964)
-- **사지번동**(四肢煩疼, Sajibeondong) — 팔다리 작열감(extremity burning sensation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003977)
 - **사지불거**(四肢不擧, Sajibulgeo) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003981)
 - **사지불수**(四肢不收, Sajibulsu) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003982)
-- **사지불인**(四肢不仁, Sajiburin) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003985)
-- **사지산동**(四肢痠疼, Sajisandong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003986)
-- **사지산통**(四肢痠痛, Sajisantong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003987)
-- **사지진전**(四肢震顫, Sajijinjeon) — 진전(tremor) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004007)
-- **산통**(痠痛, Santong) — 통증 증후군(pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004100) (분류 근거 약함)
 - **수족구급**(手足拘急, Sujokgugeup) — 사지마비(quadriplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005369)
-- **수족번동**(手足煩疼, Sujokbeondong) — 손발통증(cheiropodalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005378)
 - **수족불수**(手足不遂, Sujokbulsu) — 팔다리 무력증(extremity asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005381)
 - **수족불인**(手足不仁, Sujokburin) — 팔다리 무력증(extremity asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005382)
 - **수족전도**(手足戰掉, Sujokjeondo) — 팔다리 경련(extremity convulsion) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005390)
-- **신동**(身疼, Sindong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005865) (분류 근거 약함)
-- **신랭강직**(身冷强直, Sillaenggangjik) — 강직(stiffening) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005867)
-- **신체동통**(身體疼痛, Sinchedongtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013188) (분류 근거 약함)
-- **신체번동**(身體煩疼, Sinchebeondong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005961) (분류 근거 약함)
 - **신체완마**(身體頑麻, Sinchewanma) — 마비(paralysis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013109)
-- **신통**(身痛, Sintong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005966) (분류 근거 약함)
 - **유주부정**(流注不定, Yujubujeong) — 이동성(migratory) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013083) (분류 근거 약함)
-- **일신진통**(一身盡痛, Ilsinjintong) — 전신통증(pantalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012879) (분류 근거 약함)
-- **자통**(刺痛, Jatong) — 자통(prick pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008495) (분류 근거 약함)
-- **전신동통**(全身疼痛, Jeonsindongtong) — 전신통증(pantalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012609) (분류 근거 약함)
-- **주주동통**(走注疼痛, Jujudongtong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009245) (분류 근거 약함)
-- **진전**(震顫, Jinjeon) — 진전마비(paralysis agitans) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009480)
-- **체통**(體痛, Chetong) — 통증(pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013342) (분류 근거 약함)
 - **행동간난**(行動艱難, Haengdonggannan) — 행동장애(behavior disorder) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012468) (분류 근거 약함)
-
 #### 골 (19건)
 
+골 문의 19개 표제어는 아래 6개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
 - **골통**(骨痛, Goltong) — 뼈통증(osteocope) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000748)
-- **근골위연**(筋骨痿軟, Geungorwiyeon) — 근위축(myatrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001167)
 - **근골통**(筋骨痛, Geungoltong) — 근골통증(osteomyalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001171)
-- **노열골증**(勞熱骨蒸, Noyeolgoljeung) — 열증상(febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001700)
-- **다골저**(多骨疽, Dagoljeo) — 화농성 관절염(pyogenic arthritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001846)
 - **미능골통**(眉稜骨痛, Mineunggoltong) — 기타 두통 증후군(other headache syndromes) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002860)
 - **미릉골통**(眉稜骨痛, Mireunggoltong) — 두통(headache) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002868)
 - **미저골통**(尾骶骨痛, Mijeogoltong) — 꼬리뼈 통증(coccyalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002883)
 - **백절산동**(百節酸疼, Baekjeolsandong) — 관절통증(arthrodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003100)
 - **백절산통**(百節痠痛, Baekjeolsantong) — 관절통증(arthrodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003101)
 - **백절통**(百節痛, Baekjeoltong) — 관절통증(arthrodynia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003103)
-- **백호역절풍**(白虎歷節風, Baekoyeokjeolpung) — 통풍(gout) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003122)
-- **부골저**(附骨疽, Bugoljeo) — 골수염(osteomyelitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003364)
 - **역절통**(歷節痛, Yeokjeoltong) — 슬관절염(knee osteoarhtritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006811)
-- **역절풍**(歷節風, Yeokjeolpung) — 슬관절염(knee osteoarhtritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006812)
-- **천골저**(穿骨疽, Cheongoljeo) — 기타 부위의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of other sites) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009661)
-- **고발**(痼發, Gobal) — 화농성 관절염(pyogenic arthritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000613)
 - **골동**(骨疼, Goldong) — 뼈통증(osteocope) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000678)
-- **척강**(脊强, Cheokgang) — 척추증(spondylosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009653)
 
+**② 위축·무력형** — 강도: 위축·무력(痿弱)
+
+- **근골위연**(筋骨痿軟, Geungorwiyeon) — 근위축(myatrophy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001167)
+
+**③ 허증형** — 강도: 허증(虛症)
+
+- **노열골증**(勞熱骨蒸, Noyeolgoljeung) — 열증상(febrile symptom) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001700)
+
+**④ 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **다골저**(多骨疽, Dagoljeo) — 화농성 관절염(pyogenic arthritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001846)
+- **부골저**(附骨疽, Bugoljeo) — 골수염(osteomyelitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003364)
+- **천골저**(穿骨疽, Cheongoljeo) — 기타 부위의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of other sites) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009661)
+
+**⑤ 풍병형** — 병인: 풍(風)
+
+- **백호역절풍**(白虎歷節風, Baekoyeokjeolpung) — 통풍(gout) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003122)
+- **역절풍**(歷節風, Yeokjeolpung) — 슬관절염(knee osteoarhtritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006812)
+
+**⑥ 기타** — 동반증상: 복합·잔여
+
+- **고발**(痼發, Gobal) — 화농성 관절염(pyogenic arthritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000613)
+- **척강**(脊强, Cheokgang) — 척추증(spondylosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009653)
 ### 외형편(外形篇) 권4
 
 #### 수 (16건)
 
-- **견배구굽**(肩背拘急, Gyeonbaegugup) — 어깨 등 긴장(shoulder and back tension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012493)
+수 문의 16개 표제어는 아래 4개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 통증형** — 성격: 통증(痛症)
+
 - **견배동통**(肩背疼痛, Gyeonbaedongtong) — 어깨 등 통증(shoulder and back pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000401)
 - **견배지절산통**(肩背肢節酸痛, Gyeonbaejijeolsantong) — 산통(colicky pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000403)
 - **견비통**(肩臂痛, Gyeonbitong) — 팔통증(upper limb pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000408)
-- **견식**(肩息, Gyeonsik) — 호흡곤란(dyspnea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000411)
-- **동결견**(凍結肩, Donggyeolgyeon) — 굳은어깨, 동결견(frozen shoulder) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002261)
 - **비갑통**(臂胛痛, Bigaptong) — 어깨위팔 통증(scapulohumeral pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003617)
 - **비통**(臂痛, Bitong) — 상완통(brachialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003814)
+
+**② 풍병형** — 병인: 풍(風)
+
+- **수전**(手顫, Sujeon) — 경련손운동(malleation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005363)
+
+**③ 변색·건조형** — 성격: 변색·건조
+
+- **조고**(爪枯, Jogo) — 손톱만곡(curvatura unguium) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009044)
+
+**④ 기타** — 동반증상: 복합·잔여
+
+- **견배구굽**(肩背拘急, Gyeonbaegugup) — 어깨 등 긴장(shoulder and back tension) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012493)
+- **견식**(肩息, Gyeonsik) — 호흡곤란(dyspnea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000411)
+- **동결견**(凍結肩, Donggyeolgyeon) — 굳은어깨, 동결견(frozen shoulder) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002261)
 - **갑청**(甲靑, Gapcheong) — 청색 손발톱(blue nail) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012513)
 - **굴곡지**(屈曲指, Gulgokji) — 손가락 및 발가락의 후천성 변형(acquired deformities of fingers and toes) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001053)
 - **대지**(代指, Daeji) — 손톱 농양(fingernail abscess) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002188)
 - **수연**(手軟, Suyeon) — 무력증(asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005347)
-- **수전**(手顫, Sujeon) — 경련손운동(malleation) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005363)
 - **수족군열**(手足皸裂, Sujokgunyeol) — 손발 찢긴 상처(extremity laceration) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005371)
 - **수족추렬**(手足皺裂, Sujokchuryeol) — 손발 찢긴 상처(extremity laceration) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005394)
-- **조고**(爪枯, Jogo) — 손톱만곡(curvatura unguium) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009044)
-
 #### 족 (32건)
 
-- **각기**(脚氣, Gakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000017)
+족 문의 32개 표제어는 아래 10개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
 - **각기창**(脚氣瘡, Gakgichang) — 무릎관절증(gonarthrocace) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000034)
+
+**② 담음·습형** — 병인: 담음·습(痰飮濕)
+
+- **건습각기**(乾濕脚氣, Geonseupgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000356)
+- **습각기**(濕脚氣, Seupgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005508)
+
+**③ 통증형** — 성격: 통증(痛症)
+
+- **슬통**(膝痛, Seultong) — 무릎(knee pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005503)
+- **요슬동통**(腰膝疼痛, Yoseuldongtong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007453)
+- **요슬산통**(腰膝酸痛, Yoseulsantong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007458)
+- **요슬통**(腰膝痛, Yoseultong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007462)
+- **중족통**(中足痛, Jungjoktong) — 중족통증(metatarsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009341)
+- **각중산통**(脚中散痛, Gakjungsantong) — 다리통증(skelalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000069)
+- **족근통**(足跟痛, Jokgeuntong) — 족근통(tarsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009085)
+
+**④ 위축·무력형** — 강도: 위축·무력(痿弱)
+
+- **슬통각약**(膝痛脚弱, Seultonggagyak) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005504)
+- **요슬연약**(腰膝軟弱, Yoseuryeonyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007459)
+- **요슬위약**(腰膝痿弱, Yoseurwiyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007460)
+- **요슬허약**(腰膝虛弱, Yoseulheoyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007465)
+
+**⑤ 실열형** — 성격: 실열(實熱)
+
+- **습열각기**(濕熱脚氣, Seubyeolgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005548)
+
+**⑥ 허증형** — 강도: 허증(虛症)
+
+- **양허족슬냉통**(陽虛足膝冷痛, Yangheojokseullaengtong) — 슬관절염(knee osteoarhtritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006670)
+- **요슬허랭**(腰膝虛冷, Yoseulheoraeng) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007464)
+
+**⑦ 마비·저림형** — 동반증상: 마비·불인(痲痹不仁)
+
+- **요슬냉비**(腰膝冷痺, Yoseullaengbi) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007451)
+
+**⑧ 한증형** — 성격: 한증(寒證)
+
+- **요슬냉통**(腰膝冷痛, Yoseullaengtong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007452)
+
+**⑨ 풍병형** — 병인: 풍(風)
+
+- **학슬풍**(鶴膝風, Hakseulpung) — 무릎관절증(gonarthrosis[arthrosis of knee]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011005)
+
+**⑩ 기타** — 동반증상: 복합·잔여
+
+- **각기**(脚氣, Gakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000017)
 - **각연**(脚軟, Gagyeon) — 유아성 뇌성마비(infantile cerebral palsy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000060)
 - **각종**(脚腫, Gakjong) — 다리부종(trophedema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000068)
 - **건각기**(乾脚氣, Geongakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000343)
-- **건습각기**(乾濕脚氣, Geonseupgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000356)
 - **수종각기**(水腫脚氣, Sujonggakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005403)
-- **슬통**(膝痛, Seultong) — 무릎(knee pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005503)
-- **슬통각약**(膝痛脚弱, Seultonggagyak) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005504)
-- **습각기**(濕脚氣, Seupgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005508)
-- **습열각기**(濕熱脚氣, Seubyeolgakgi) — 각기(beriberi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005548)
-- **양허족슬냉통**(陽虛足膝冷痛, Yangheojokseullaengtong) — 슬관절염(knee osteoarhtritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006670)
-- **요슬냉비**(腰膝冷痺, Yoseullaengbi) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007451)
-- **요슬냉통**(腰膝冷痛, Yoseullaengtong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007452)
-- **요슬동통**(腰膝疼痛, Yoseuldongtong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007453)
 - **요슬무력**(腰膝無力, Yoseulmuryeok) — 요슬 무기력(lumbargonar asthenia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007454)
 - **요슬산연**(腰膝酸軟, Yoseulsanyeon) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007456)
-- **요슬산통**(腰膝酸痛, Yoseulsantong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007458)
-- **요슬연약**(腰膝軟弱, Yoseuryeonyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007459)
-- **요슬위약**(腰膝痿弱, Yoseurwiyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007460)
-- **요슬통**(腰膝痛, Yoseultong) — 슬통(gonalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007462)
-- **요슬허랭**(腰膝虛冷, Yoseulheoraeng) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007464)
-- **요슬허약**(腰膝虛弱, Yoseulheoyak) — 요부(lumbar) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007465)
-- **중족통**(中足痛, Jungjoktong) — 중족통증(metatarsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009341)
-- **학슬풍**(鶴膝風, Hakseulpung) — 무릎관절증(gonarthrosis[arthrosis of knee]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011005)
-- **각중산통**(脚中散痛, Gakjungsantong) — 다리통증(skelalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000069)
 - **변지**(胼胝, Byeonji) — 굳은살(callus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003195)
 - **보행불능**(步行不能, Bohaengbulleung) — 보행불능(atremia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003225)
-- **족근통**(足跟痛, Jokgeuntong) — 족근통(tarsalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009085)
 - **종외반족**(踵外反足, Jongoebanjok) — 종족 외반(valgus of pes calcaneus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009161)
 - **첨족**(尖足, Cheomjok) — 말발(horse foot) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009735)
 - **행주불리**(行走不利, Haengjubulli) — 보행곤란(walking difficulty) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012471)
-
 #### 모발 (11건)
 
-- **모발불윤**(毛髮不潤, Mobalburyun) — 모발마름증(hair xerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002690)
+모발 문의 11개 표제어는 아래 5개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 변색·건조형** — 성격: 변색·건조
+
 - **수발조백**(鬚髮早白, Subaljobaek) — 백색털증(leukotrichia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005317)
-- **수발탈락**(鬚髮脫落, Subaltallak) — 탈모증(alopecia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005318)
-- **수발황락**(鬚髮黃落, Subalhwangnak) — 탈모증(alopecia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005319)
-- **원형탈모증**(圓形脫毛症, Wonhyeongtalmojeung) — 원형탈모증(tinea decalvans) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007584)
-- **모절**(毛折, Mojeol) — 모발건조증(xerasia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002696)
-- **미락**(眉落, Mirak) — 속눈썹탈락증(milphosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002862)
-- **미발탈락**(眉髮脫落, Mibaltallak) — 속눈썹탈락증(milphosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002874)
 - **발고**(髮枯, Balgo) — 모발건조증(xerasia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002955)
 - **발백**(髮白, Balbaek) — 탈색 머리카락(depigmented capillus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002972)
+
+**② 탈모형** — 성격: 탈모(脫毛)
+
+- **수발탈락**(鬚髮脫落, Subaltallak) — 탈모증(alopecia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005318)
+- **미락**(眉落, Mirak) — 속눈썹탈락증(milphosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002862)
+- **미발탈락**(眉髮脫落, Mibaltallak) — 속눈썹탈락증(milphosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002874)
+
+**③ 황달 아형** — 위치: 간담(肝膽)
+
+- **수발황락**(鬚髮黃落, Subalhwangnak) — 탈모증(alopecia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005319)
+
+**④ 실열형** — 성격: 실열(實熱)
+
 - **발조**(髮燥, Baljo) — 모발마름증(hair xerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002988)
 
+**⑤ 기타** — 동반증상: 복합·잔여
+
+- **모발불윤**(毛髮不潤, Mobalburyun) — 모발마름증(hair xerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002690)
+- **원형탈모증**(圓形脫毛症, Wonhyeongtalmojeung) — 원형탈모증(tinea decalvans) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007584)
+- **모절**(毛折, Mojeol) — 모발건조증(xerasia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002696)
 #### 전음 (45건)
 
+전음 문의 45개 표제어는 아래 10개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 피부 발적·발진형** — 성격: 발적·발진
+
 - **경중양통**(莖中痒痛, Gyeongjungyangtong) — 귀두포피염(balanoposthitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000512)
+- **음경습양**(陰莖濕痒, Eumgyeongseubyang) — 음부습진(genital eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007916)
+- **음낭습양**(陰囊濕痒, Eumnangseubyang) — 음부습진(genital eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007933)
+- **음양**(陰痒, Eumyang) — 가려움증(pruritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008025)
+- **음양대하**(陰痒帶下, Eumyangdaeha) — 소양성 대하(pruritic discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008032)
+
+**② 통증형** — 성격: 통증(痛症)
+
 - **경중통**(莖中痛, Gyeongjungtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000513)
 - **고환종통**(睾丸腫痛, Gohwanjongtong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000652)
+- **산기동통**(疝氣疼痛, Sangidongtong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004060)
+- **산통**(疝痛, Santong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004099)
+- **외신종통**(外腎腫痛, Oesinjongtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007383)
+- **음경종통**(陰莖腫痛, Eumgyeongjongtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007918)
+- **음낭종통**(陰囊腫痛, Eumnangjongtong) — 음낭통(scrotal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007939)
+- **낭경추통**(囊莖抽痛, Nanggyeongchutong) — 고환, 음경 견인통(testis and penis dragging pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012486)
+- **음통**(陰痛, Eumtong) — 질통증(colpalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008091)
+
+**③ 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **부인음창**(婦人陰瘡, Buineumchang) — 외음부 궤양(pudendum ulcer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003489)
+- **여인음창**(女人陰瘡, Yeoineumchang) — 외음하감(cancrum pudendi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006777)
+
+**④ 적취·비만형** — 성격: 적취·비만(積聚痞滿)
+
+- **산하**(疝瘕, Sanha) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004104)
+- **징산**(癥疝, Jingsan) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009556)
+
+**⑤ 실열형** — 성격: 실열(實熱)
+
+- **습열산통**(濕熱疝痛, Seubyeolsantong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005567)
+
+**⑥ 풍병형** — 병인: 풍(風)
+
+- **신낭풍**(腎囊風, Sinnangpung) — 음낭습진(scrotal eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005862)
+
+**⑦ 부종·창만형** — 성격: 부종·창만(浮腫脹滿)
+
+- **외신종창통**(外腎腫脹痛, Oesinjongchangtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007382)
+- **음낭종창**(陰囊腫脹, Eumnangjongchang) — 음낭종창(scrotal swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012627)
+
+**⑧ 위축·무력형** — 강도: 위축·무력(痿弱)
+
+- **음위**(陰痿, Eumwi) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008051)
+
+**⑨ 한증형** — 성격: 한증(寒證)
+
+- **한산**(寒疝, Hansan) — 급성 전립샘염(acute prostatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011044)
+
+**⑩ 기타** — 동반증상: 복합·잔여
+
 - **근산**(筋疝, Geunsan) — 성기능장애(sexual dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001194)
 - **목신**(木腎, Moksin) — 고환경화(testicular sclerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002725)
 - **부인음정**(婦人陰挺, Buineumjeong) — 자궁하수(descensus uteri) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003485)
 - **부인음종**(婦人陰腫, Buineumjong) — 생식기 부종(genital edema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003486)
-- **부인음창**(婦人陰瘡, Buineumchang) — 외음부 궤양(pudendum ulcer) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003489)
 - **분돈산기**(奔豚疝氣, Bundonsangi) — 복통 증후군(abdominal pain syndrome) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003551)
 - **사종퇴산**(四種㿉疝, Sajongtoesan) — 음낭 융기(scrotal eminence) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003957)
-- **산기동통**(疝氣疼痛, Sangidongtong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004060)
 - **산기편추**(疝氣偏墜, Sangipyeonchu) — 고환 병증(orchiopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004064)
 - **산병**(疝病, Sanbyeong) — 고환 병증(orchiopathy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004076)
-- **산통**(疝痛, Santong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004099)
-- **산하**(疝瘕, Sanha) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004104)
 - **수산**(水疝, Susan) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005330)
-- **습열산통**(濕熱疝痛, Seubyeolsantong) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005567)
-- **신낭풍**(腎囊風, Sinnangpung) — 음낭습진(scrotal eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005862)
-- **여인음창**(女人陰瘡, Yeoineumchang) — 외음하감(cancrum pudendi) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006777)
 - **외신종대**(外腎腫大, Oesinjongdae) — 지속발기증(priapism) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007381)
-- **외신종창통**(外腎腫脹痛, Oesinjongchangtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007382)
-- **외신종통**(外腎腫痛, Oesinjongtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007383)
-- **음경습양**(陰莖濕痒, Eumgyeongseubyang) — 음부습진(genital eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007916)
-- **음경종통**(陰莖腫痛, Eumgyeongjongtong) — 음부통증(pennis pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007918)
-- **음낭습양**(陰囊濕痒, Eumnangseubyang) — 음부습진(genital eczema) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007933)
 - **음낭종대**(陰囊腫大, Eumnangjongdae) — 음낭 종창(scrotal swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007937)
-- **음낭종창**(陰囊腫脹, Eumnangjongchang) — 음낭종창(scrotal swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012627)
-- **음낭종통**(陰囊腫痛, Eumnangjongtong) — 음낭통(scrotal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007939)
-- **음양**(陰痒, Eumyang) — 가려움증(pruritis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008025)
-- **음양대하**(陰痒帶下, Eumyangdaeha) — 소양성 대하(pruritic discharge) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008032)
-- **음위**(陰痿, Eumwi) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008051)
 - **음정**(陰挺, Eumjeong) — 자궁하수(descensus uteri) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008062)
 - **음종**(陰腫, Eumjong) — 종창(swelling) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008066)
-- **징산**(癥疝, Jingsan) — 복통(abdominal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009556)
-- **한산**(寒疝, Hansan) — 급성 전립샘염(acute prostatitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011044)
 - **호산**(狐疝, Hosan) — 기타 복부헤르니아(other abdominal hernia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011554)
 - **고병**(蠱病, Gobyeong) — 전립샘의 고름집(농양)(abscess of prostate) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0000616)
-- **낭경추통**(囊莖抽痛, Nanggyeongchutong) — 고환, 음경 견인통(testis and penis dragging pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012486)
 - **낭축**(囊縮, Nangchuk) — 고환통증(orchialgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001516)
 - **무사**(無嗣, Musa) — 무정자(azoospermia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002846)
 - **불감증**(不感症, Bulgamjeung) — 불감증(sex frigidity) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003557)
 - **양사부진**(陽事不振, Yangsabujin) — 발기부전(erectile dysfunction) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006623)
 - **오불남**(五不男, Obullam) — 남성불임(male sterility) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007097)
 - **음란편추**(陰卵偏墜, Eumnanpyeonchu) — 고환 및 음낭의 선천 기형(congenital malformations of testis and scrotum) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007962)
-- **음통**(陰痛, Eumtong) — 질통증(colpalgia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008091)
-
 #### 후음 (23건)
+
+후음 문의 23개 표제어는 아래 3개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+
+**① 치질·항문형** — 위치: 치항(痔肛)
 
 - **내외치**(內外痔, Naeoechi) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001561)
 - **내치**(內痔, Naechi) — 내치질(internal hemorrhoid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001578)
@@ -2491,21 +3086,26 @@
 - **쇄항치**(鎖肛痔, Swaehangchi) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005263)
 - **아관치**(鵝管痔, Agwanchi) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006332)
 - **앵도치**(櫻桃痔, Aengdochi) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006515)
-- **옹종치루**(癰腫痔瘻, Ongjongchiru) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007307)
 - **외치**(外痔, Oechi) — 외치핵(external hemorrhoid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007396)
 - **외치핵**(外痔核, Oechihaek) — 외치핵(external hemorrhoid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007400)
 - **주치**(酒痔, Juchi) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009252)
 - **치루**(痔漏, Chiru) — 항문 샛길(누공)(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009932)
 - **치루**(痔瘻, Chiru) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009934)
 - **치질**(痔疾, Chijil) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009974)
-- **치창**(痔瘡, Chichang) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009976)
 - **치핵**(痔核, Chihaek) — 치핵(hemorrhoid) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009993)
-- **항문종통**(肛門腫痛, Hangmunjongtong) — 항문통(rectal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011141)
 - **항문탈출**(肛門脫出, Hangmuntalchul) — 항문탈출증, 탈항(proctoptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013177)
 - **항문탈출불수**(肛門脫出不收, Hangmuntalchulbulsu) — 항문탈출증, 탈항(proctoptosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013167)
-- **양독루**(楊毒瘻, Yangdongnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006576)
 - **항루**(肛瘻, Hangnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011136)
 
+**② 화농·종창형** — 성격: 화농·종창(癰疽瘡毒)
+
+- **옹종치루**(癰腫痔瘻, Ongjongchiru) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0007307)
+- **치창**(痔瘡, Chichang) — 치질(hemorrhoids) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009976)
+- **양독루**(楊毒瘻, Yangdongnu) — 치루(anal fistula) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006576)
+
+**③ 통증형** — 성격: 통증(痛症)
+
+- **항문종통**(肛門腫痛, Hangmunjongtong) — 항문통(rectal pain) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0011141)
 ### 잡병편(雜病篇) — 병인·치법
 
 #### 풍 (49건)
