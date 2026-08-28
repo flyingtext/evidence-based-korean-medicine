@@ -105,7 +105,7 @@ RUN.md                         # 작성·보강 명령어
 
 ## 라이선스
 
-이 저장소의 콘텐츠는 [CC BY 4.0(Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/) 라이선스로 배포됩니다. 출처 표시를 조건으로 자유롭게 복제·재배포·개작·상업적 이용이 가능합니다. 전문은 [LICENSE](./LICENSE) 참조.
+이 저장소의 콘텐츠는 [CC BY 4.0(Creative Commons Attribution 4.0 International)](https://creativecommons.org/licenses/by/4.0/) 라이선스로 배포됩니다. 출처 표시(작성자 이름 "윤지현" 포함)를 조건으로 자유롭게 복제·재배포·개작·상업적 이용이 가능합니다. 전문 및 출처표시 방법은 [LICENSE](./LICENSE) 참조.
 
 ## 사용 AI 엔진
 
