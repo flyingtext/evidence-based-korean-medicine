@@ -1243,7 +1243,7 @@
 
 #### 소변 (66건)
 
-소변 문의 66개 표제어는 아래 7개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
+소변 문의 66개 표제어는 아래 6개 하위 그룹으로 묶인다. 각 그룹에 가장 대표적인 변별 축 하나만 배당한다(그룹화 근거: 각 병증명의 한자 구성과 동반증상 표기에 기반한 자동·수동 혼합 판단이며, 원전이 명시적으로 이렇게 나눈 것은 아니다).
 
 **① 소변 이상형** — 위치: 소변(小便)
 
@@ -1304,18 +1304,15 @@
 
 - **삽통**(澁痛, Saptong) — 통증배뇨(strangury) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004317)
 - **소변만통**(小便滿痛, Sobyeonmantong) — 소변장애(dysuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0013285)
+- **소변삽삭**(小便澁數, Sobyeonsapsak) — 잦은 배뇨(frequent urination) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004841)
+- **소변적삽**(小便赤澁, Sobyeonjeoksap) — 피고름뇨(hematopyuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004853)
 
 **⑤ 기능 상실·불통형** — 성격: 기능 상실·불통
 
 - **소변불리**(小便不利, Sobyeonbulli) — 소변주저(hesitancy) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004835)
 - **소변불통**(小便不通, Sobyeonbultong) — 소변장애(dysuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004833)
 
-**⑥ 조음·발음장애형** — 성격: 구음장애(構音)
-
-- **소변삽삭**(小便澁數, Sobyeonsapsak) — 잦은 배뇨(frequent urination) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004841)
-- **소변적삽**(小便赤澁, Sobyeonjeoksap) — 피고름뇨(hematopyuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004853)
-
-**⑦ 기타** — 동반증상: 복합·잔여
+**⑥ 기타** — 동반증상: 복합·잔여
 
 - **변탁**(便濁, Byeontak) — 혼탁뇨(cloudy urine) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003196)
 - **소변난**(小便難, Sobyeonnan) — 소변장애(dysuria) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004821)
@@ -1822,7 +1819,7 @@
 - **작맹**(雀盲, Jangmaeng) — 야맹증(nyctalopia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008505)
 - **폭맹**(暴盲, Pongmaeng) — 실명(blindness) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010520)
 
-**⑮ 조음·발음장애형** — 성격: 구음장애(構音)
+**⑮ 안구건조형** — 성격: 건조(乾澁)
 
 - **목삽**(目澁, Moksap) — 눈마름증(ophthalmoxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0002718)
 - **안삽**(眼澁, Ansap) — 눈 불편감(eye discomfort) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006448)
@@ -2064,11 +2061,11 @@
 **④ 변색·건조형** — 성격: 변색·건조
 
 - **순백**(脣白, Sunbaek) — 탈색 입술(labial depigmented) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0005471)
+- **설삽**(舌澁, Seolsap) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004736)
 
 **⑤ 조음·발음장애형** — 성격: 구음장애(構音)
 
 - **설건**(舌蹇, Seolgeon) — 혀마비(glossoplegia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004711)
-- **설삽**(舌澁, Seolsap) — 혀건조증(lingualxerosis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004736)
 
 **⑥ 혈병형** — 병위: 혈병(血病)
 
@@ -2198,7 +2195,7 @@
 
 - **상한인통**(傷寒咽痛, Sanghanintong) — 인후통(sore throat) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0004547)
 
-**⑦ 코 형태·구조 이상형** — 성격: 구조 이상
+**⑦ 인후 폐색형** — 성격: 폐색(閉塞)
 
 - **인색**(咽塞, Insaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008258)
 - **인후폐색**(咽喉閉塞, Inhupyesaek) — 인후경직(gutturotetany) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008302)
