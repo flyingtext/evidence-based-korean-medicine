@@ -228,6 +228,53 @@ B-mode(brightness mode)는 조직의 해부학적 형태를 회색조 명암으�
 
 ---
 
+## 제8편 초음파 소견과 한의학적 변증(辨證)의 상관관계
+
+이 편은 초음파로 확인되는 객관적 소견(혈류 신호·조직 경도·삼출액·에코 구조 등)이 한의학적 변증(辨證)과 어떤 상관관계를 보이는지를 다룬다. 이는 앞선 제4~5편이 다룬 "초음파가 시술을 안전하게 유도한다"는 방법론과는 별개로, "초음파가 변증 진단 자체를 객관화할 수 있는가"라는 보다 근본적인 질문에 대한 초기 연구 동향을 정리한 것이다. 관련 연구는 아직 소규모 관찰연구 단계에 머물러 있으며, 변증을 대체할 진단 표준으로 확립된 것이 아니라는 점을 먼저 분명히 해 둔다.
+
+### 8-1. 총론 — 왜 초음파 소견이 변증의 객관적 지표가 될 수 있는가
+
+한의학의 변증은 전통적으로 망문문절(望聞問切)에 의존하는 주관적 판단 과정이며, 이 때문에 변증의 재현성·타당도를 높이기 위한 객관적 지표 발굴은 오랜 연구 과제였다. 초음파가 이 역할의 후보로 거론되는 이유는 크게 세 가지 병리 개념과의 대응 가능성에 있다. 첫째, 도플러 초음파로 측정되는 국소 혈류 속도·저항지수는 어혈(瘀血)·기체혈어(氣滯血瘀)의 병리적 실체인 미세순환 장애를 반영할 수 있다는 가설이다. 심뇌혈관 질환의 혈어(血瘀) 환자에서 미세혈류 속도가 유의하게 감소하고 이것이 혈소판 응집·적혈구 변형능 저하와 관련됨을 보고한 초기 관찰연구는, 어혈이라는 전통 병기 개념이 실제 혈류역학적 이상과 대응할 수 있음을 시사한 대표적 근거다[^97]. 둘째, 탄성초음파(제2-3절 참조)로 측정되는 조직 강직도(stiffness)는 담음(痰飮)·담습(痰濕)이 조직에 정체되어 발생하는 병리적 변화(섬유화, 간질 내 점액다당류 축적 등)를 정량화할 수 있다는 가설이다[교과서적 근거]. 셋째, B-mode 영상에서 확인되는 삼출액·낭종성 변화·조직 에코 구조의 변화는 습(濕)·담(痰)이 국소에 정체된 형상적 증거로 해석될 수 있다[교과서적 근거]. 다만 이러한 대응관계는 어디까지나 가설 수준이며, 개별 연구가 확인한 것은 어디까지나 "특정 변증군과 특정 초음파 소견 사이의 통계적 상관관계"이지, 인과 기전이 확립된 것은 아니라는 점을 유의해야 한다.
+
+### 8-2. 간·담도 영역 — 문맥 혈류·담도 소견과 변증
+
+간경변증(肝硬變症) 환자를 변증 유형별로 나누어 문맥(門脈)·비정맥(脾靜脈)의 혈류 역학과 간섬유화 지표를 비교한 관찰연구는, 변증 유형에 따라 문맥·비정맥 혈류 속도, 혈관 직경 등에 유의미한 차이가 있음을 확인해, 간경변증의 변증이 실제 문맥압항진(門脈壓亢進)의 정도와 대응할 가능성을 제시했다[^98]. 담도(膽道) 질환에서는 216명을 대상으로 한 초기 관찰연구가 컬러 스케일 B-초음파(color scale B-ultrasonography) 소견이 변증 유형에 따라 다르게 나타남을 보고해, 담도 질환 변증의 객관적 근거 마련에 기여했다[^99]. 지방간(脂肪肝) 영역에서는 담습정체형(痰濕停滯型) 지방간 환자에게 지간락(중국 특허 처방인 지간락 캡슐, Zhiganle capsule)을 투여했을 때 초음파 소견의 정상화가 대조군보다 더 우수했다는 임상시험이 있으며[^100], 변증론치(辨證論治)와 한양방 통합 접근이 결합될 때 초음파 상 지방간 지표가 유의하게 개선됨을 정리한 문헌 고찰도 있다[^101]. 최근에는 한랭습윤(寒濕) 체질(한의학적 변증)의 비알코올성 지방간 환자에게 화침(火鍼) 집중 치료를 시행했을 때 일반 침 치료보다 간 초음파 소견 및 간 기능 지표 개선이 더 컸다는 관찰연구도 보고되어[^102], 변증에 따른 맞춤 치료 반응을 초음파로 추적할 수 있는 가능성을 뒷받침한다.
+
+### 8-3. 심혈관 영역 — 관상동맥·경동맥 초음파와 담어혈증
+
+관상동맥질환(冠狀動脈疾患) 213명을 대상으로 혈관 내 초음파(intravascular ultrasound, IVUS)로 플라크 특성을 분석한 단면 연구는, 담어혈증(痰瘀血證, phlegm-blood stasis syndrome) 환자에서는 석회화 플라크와 심한 협착(높은 SYNTAX 점수)이 두드러진 반면, 어혈증(瘀血證) 환자에서는 플라크의 취약성이 높아 급성 관상동맥증후군 발생 위험이 상대적으로 큰 경향을 보였다고 보고했다. 이는 같은 "어혈" 범주 안에서도 담(痰)의 겸증 유무에 따라 플라크의 병태생리학적 특성이 다르게 나타날 수 있음을 시사하는 세분화된 근거다[^103]. 담음혈어증(痰飮血瘀症)을 동반한 관상동맥질환 환자에게 관상동맥 내 초음파 평가와 맞춤형 중의 간호를 결합한 임상시험도 협심증 증상·혈중 지질 개선을 보고했다[^104]. 경동맥(頸動脈) 영역에서는 담음증(痰飮症) 양상을 보이는 고혈압 환자가 비담음증 환자보다 좌심실 리모델링 지표가 더 뚜렷하게 악화되어 있음을 확인한 323명 규모의 관찰연구가 있으며[^105], 담탁어혈증후군(痰濁瘀血證候群)을 동반한 고혈압 환자에서 연성 플라크(soft plaque) 비율이 유의하게 높다는 180명 규모의 관찰연구도 있다[^106]. 담탁증(痰濁證) 고혈압 환자에게 온담환(溫膽丸)을 투여해 경동맥 내중막 두께(intima-media thickness, IMT) 감소와 혈관 내피세포 이완 기능 개선을 확인한 임상시험[^107], 기허담체증(氣虛痰滯證) 유형의 만성 심부전·관상동맥질환 환자에게 익기활혈통양설탁방(益氣活血通陽泄濁方)을 병행해 경동맥 IMT 감소를 확인한 임상시험[^108]도 경동맥 초음파가 담(痰) 계열 변증의 혈관 병리를 추적하는 지표로 활용될 수 있음을 뒷받침한다. 뇌혈관 영역에서는 경두개 도플러(transcranial Doppler, TCD)로 중대뇌동맥 혈류 속도를 측정해 간양상항증(肝陽上亢證)을 간화상염증(肝火上炎證)·간신음허증(肝腎陰虛證) 및 정상군과 감별할 수 있는 가능성을 제시한 예비 관찰연구도 있다[^109].
+
+### 8-4. 근골격계·관절 영역 — 활막 혈류·연부조직 소견과 변증
+
+무릎 골관절염(膝關節 骨關節炎) 환자 104명을 대상으로 한 관찰연구는, 한의학적 변증 유형에 따라 초음파 상 활막(滑膜) 혈류 신호와 관절 삼출액(關節 滲出液)의 양상에 유의미한 차이가 있음을 확인했다. 이는 앞서 서론에서 언급한 무릎 골관절염-초음파 상관 연구의 원출처다[^110]. 류마티스관절염(類風濕關節炎) 65명을 대상으로 손목 초음파 소견을 한열변증(寒熱辨證)에 따라 비교한 관찰연구는, 열증(熱證) 환자에서 활막 비후·혈류 신호가 더 뚜렷하게 나타나는 등 한열변증에 따른 뚜렷한 초음파 소견 차이를 확인했다[^111]. 같은 질환군에서 103명을 대상으로 관절 고주파 초음파 소견과 변증 유형의 상관성을 분석한 관찰연구는, 습열증(濕熱證) 환자에서 활막염·건초염·혈류 증가·골 미란(骨 微爛)이 가장 심하게 관찰됨을 보고해, 초음파 소견의 중증도가 습열이라는 병사(病邪)의 강도와 대응할 수 있음을 시사했다[^112].
+
+### 8-5. 유방·기타 영역 — 결절·림프부종 초음파와 변증
+
+유방 결절(乳房 結節) 환자 128명을 대상으로 한 관찰연구는, 초음파 소견(혈류 신호·BI-RADS 4등급·탄성초음파 UE 4점)이 담혈어체증(痰血瘀滯證) 변증과 높은 상관관계를 보임을 확인했다. 이는 서론에서 언급한 유방 결절 변증-초음파 상관 연구의 원출처다[^113]. 유방암(乳房癌) 환자 82명을 대상으로 수술 전 조영증강 초음파(contrast-enhanced ultrasound, CEUS) 소견과 변증 분류의 관계를 분석한 관찰연구도 유의한 상관관계를 보고했다[^114]. 사지 림프부종(四肢 淋巴浮腫) 환자 107명을 대상으로 한 관찰연구는, 변증 유형에 따라 초음파 영상상의 특징(진피·피하조직·근막의 두께 및 에코 강도)이 유의하게 다르게 나타남을 확인해, 부종성 질환에서도 변증과 초음파 소견의 대응관계가 성립할 수 있음을 보여주었다[^115].
+
+### 8-6. 방법론적 한계
+
+이 분야의 근거를 종합할 때 다음과 같은 방법론적 한계를 정직하게 인정해야 한다.
+
+| 한계 | 내용 |
+| --- | --- |
+| 연구 설계 | 대부분 단면(cross-sectional) 관찰연구로, 초음파 소견과 변증 사이의 인과관계가 아닌 상관관계만을 보여준다. |
+| 표본 규모 | 대부분 100~300명 내외의 단일기관 소규모 연구로, 대규모 다기관 검증이 부족하다. |
+| 지역·언어 편중 | 절대다수가 중국 단일기관에서 수행되어 중국어 저널에 발표되었으며, 국제적 재현 연구가 드물다. |
+| 변증 진단의 주관성 | 대조군인 변증 진단 자체가 관찰자 간 일치도(inter-rater reliability)를 완전히 확보하지 못한 상태에서 수행된 연구가 많아, "객관적 지표(초음파)-주관적 기준(변증)" 비교의 근본적 한계가 있다. |
+| 진단 기준 이질성 | 연구마다 변증 분류 기준·초음파 판독 기준이 상이해 메타분석으로 통합하기 어렵다. |
+| 문헌 신뢰도 문제 | 담혈어체증을 동반한 뇌경색·경동맥 죽상경화반 환자에서 침·중약 병용의 효과를 보고한 예비 무작위 대조시험이 사후에 철회(retraction)된 사례가 있어, 이 분야 문헌의 질 관리에 각별한 주의가 필요함을 보여준다[^116]. |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 개별 연구의 질적 수준은 원문을 직접 확인해 판단해야 한다.
+
+### 8-7. 임상적 함의 — 변증 진단 객관화 시도로서의 의의
+
+위의 근거들을 종합하면, 초음파 소견과 변증 사이의 상관관계는 여러 장부·질환 영역(간담·심혈관·근골격계·유방·부종성 질환)에서 반복적으로 관찰되는 흥미로운 연구 흐름이다. 이는 변증이 단순한 임상 경험칙이 아니라 미세순환·조직 강직도·삼출 등 측정 가능한 생물학적 변화와 대응할 수 있는 실체를 갖는다는 가설에 힘을 실어준다[교과서적 근거, 관련 방법론 논의는 신양허(腎陽虛) 문서 참조]. 다만 현재까지의 근거 수준으로는 초음파 소견 단독으로 변증을 진단하거나 변증을 대체하는 것은 시기상조이며, 초음파는 어디까지나 망문문절을 통한 종합적 변증 과정을 보조하는 참고 지표로 활용하는 것이 근거에 부합한다. 임상에서는 초음파로 확인된 국소 소견(혈류·강직도·삼출액)을 변증의 정황 증거 중 하나로 참고하되, 반드시 설진·맥진·문진을 포함한 전신적 변증 과정과 종합해 최종 진단을 내려야 한다.
+
+**변증 층화 강조**: 초음파 소견이 특정 변증과 통계적으로 연관된다는 것이, 초음파 소견만으로 변증을 자동 판정하거나 변증 없이 초음파 소견만으로 처방·취혈을 결정해도 된다는 뜻은 아니다. 변증 없는 관행적 취혈·처방은 근거에 부합하지 않으며, 초음파-변증 상관 연구는 향후 변증 진단의 객관성을 보강할 잠재적 도구로서의 의의를 가질 뿐이다.
+
+---
+
 ## Q&A
 
 **Q1. 임상에서 초음파를 활용할 때 무엇을 우선 갖추어야 하는가?**
@@ -257,6 +304,10 @@ B-mode(brightness mode)는 조직의 해부학적 형태를 회색조 명암으�
 **Q7. 초음파 검사만으로 X-ray나 MRI를 대체할 수 있는가?**
 
 부분적으로만 가능하다. 초음파는 표재 연부조직·혈류 평가에는 강점이 있지만 골 내부·심부 구조 평가에는 근본적 한계가 있다[교과서적 근거]. 소아 골절 선별에서 초음파가 유용한 보완 도구가 될 수 있다는 근거는 있으나[^38][^40], 확진이 필요한 경우 X-ray·CT와의 병행이 원칙이다. 초음파는 반복 추적관찰이 필요한 상황(성장기, 임신, 만성 질환 모니터링)에서 방사선 피폭 없는 대안으로서 가치가 크다.
+
+**Q8. 초음파 소견만으로 변증(辨證)을 판정할 수 있는가?**
+
+아니다. 유방 결절의 혈류 신호·BI-RADS 등급이 담혈어체증과[^113], 무릎 골관절염의 활막 혈류·삼출액이 변증 유형과[^110] 유의한 상관관계를 보인다는 연구들이 축적되고 있지만, 이는 모두 소규모 단면 관찰연구 수준의 상관관계이지 진단 표준으로 검증된 것이 아니다. 초음파 소견은 변증 진단 과정의 참고 정황 중 하나로 활용할 수 있을 뿐, 설진·맥진·문진을 포함한 종합적 변증 과정을 대체할 수 없다. 변증 없이 초음파 소견만으로 처방·취혈을 결정하는 것은 근거에 부합하지 않는다.
 
 ---
 
@@ -360,3 +411,23 @@ B-mode(brightness mode)는 조직의 해부학적 형태를 회색조 명암으�
 [^94]: Point-of-care ultrasound (POCUS): unnecessary gadgetry or evidence-based medicine? Smallwood N 외. _Clinical medicine (London, England)_. 2018-06. [문헌 고찰] [DOI 10.7861/clinmedicine.18-3-219](https://doi.org/10.7861/clinmedicine.18-3-219) [PMID 29858431](https://pubmed.ncbi.nlm.nih.gov/29858431/) — POCUS가 근거중심의학 도구로 자리잡기 위한 훈련·질 관리의 중요성을 강조.
 [^95]: Survey on the current usage of ultrasound-guided procedures in Korean Medicine Clinics and Hospitals. _Medicine_. 2024-04-05. [관찰연구] [DOI 10.1097/MD.0000000000037659](https://doi.org/10.1097/MD.0000000000037659) [PMID 38579082](https://pubmed.ncbi.nlm.nih.gov/38579082/) — 국내 한의 임상 현장의 초음파 유도 시술 활용 실태를 조사한 설문 연구.
 [^96]: Point-of-Care Ultrasound for Inpatient Management in a Korean Medicine Hospital: Case Series. _Journal of Korean Medicine_. 2025-06-01. [증례 보고] [DOI 10.13048/jkm.25026](https://doi.org/10.13048/jkm.25026) — 한방병원 입원 환자 관리에서 현장초음파를 활용한 증례군.
+[^97]: [Quantitative detection of microcirculation and multi-factorial analysis of patients with cardio-cerebrovascular diseases with blood-stasis syndrome]. Han XM 외. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1989-10. [관찰연구] [PMID 2605736](https://pubmed.ncbi.nlm.nih.gov/2605736/) — 혈어(血瘀) 환자의 미세혈류 속도 저하와 혈소판 응집·적혈구 변형능 저하의 관련성을 밝힌 초기 연구. 어혈이라는 병기 개념이 혈류역학적 이상과 대응할 수 있다는 이론적 근거.
+[^98]: [Portal hemodynamics in patients with different syndromes of cirrhosis]. Chen XR 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-05. [관찰연구, 147명] [DOI 10.3736/jcim20040307](https://doi.org/10.3736/jcim20040307) [PMID 15339437](https://pubmed.ncbi.nlm.nih.gov/15339437/) — 간경변증 환자의 변증 유형에 따라 문맥·비정맥 혈류 역학이 유의하게 다름을 확인한 관찰연구.
+[^99]: [Study of color scale B-ultrasonography in syndrome differentiation of biliary tract diseases]. Zhu DJ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1997-09. [관찰연구, 216명] [PMID 10322875](https://pubmed.ncbi.nlm.nih.gov/10322875/) — 담도 질환 환자의 변증 유형에 따라 컬러 스케일 B-초음파 소견이 다르게 나타남을 보고한 초기 관찰연구.
+[^100]: [Clinical and experimental study on treatment of fatty liver of phlegm-dampness stagnation type by zhiganle capsule]. Zhao WX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1997-08. [임상시험, 146명] [PMID 10322828](https://pubmed.ncbi.nlm.nih.gov/10322828/) — 담습정체형 지방간 환자에서 치료 후 초음파 소견 정상화를 대조군과 비교한 임상시험.
+[^101]: [Studies on treatment of fatty liver with traditional Chinese medicine]. Xu LM 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2003-07. [문헌 고찰] [DOI 10.3736/jcim20030216](https://doi.org/10.3736/jcim20030216) [PMID 15339589](https://pubmed.ncbi.nlm.nih.gov/15339589/) — 변증론치와 한양방 통합 접근이 지방간의 초음파 지표 개선에 기여함을 정리한 문헌 고찰.
+[^102]: Clinical Efficacy Observation of Fire Needle Short-term Intensive Treatment on Patients with Nonalcoholic Fatty Liver Disease (Cold-Dampness Constitution Type). Zhengwei Wang. _Journal of Contemporary Medical Practice_. 2026-02-25. [관찰연구, 100명] [DOI 10.53469/jcmp.2026.08(02).17](https://doi.org/10.53469/jcmp.2026.08(02).17) — 한랭습윤 체질(변증) 비알코올성 지방간 환자에서 화침 집중 치료 후 간 초음파·간기능 지표 개선을 확인한 관찰연구.
+[^103]: Correlation between Characteristics of Coronary Plaque and Chinese Medicine Syndromes of Coronary Heart Disease: A Cross-Sectional Study Analysed by Intravascular Ultrasound. Xu DP 외. _Chinese journal of integrative medicine_. 2022-09. [관찰연구, 213명] [DOI 10.1007/s11655-021-2874-z](https://doi.org/10.1007/s11655-021-2874-z) [PMID 35048239](https://pubmed.ncbi.nlm.nih.gov/35048239/) — 관상동맥 IVUS 상 플라크 특성이 담어혈증·어혈증 등 세부 변증에 따라 다르게 나타남을 확인한 단면 연구.
+[^104]: Intracoronary Ultrasound Imaging Combined with Traditional Chinese Medicine Nursing Applied in the Treatment of Coronary Heart Disease Patients with Phlegm and Blood Stasis Syndrome. Hui Zeng 외. _Contrast Media & Molecular Imaging_. 2022-01. [임상시험, 100명] [DOI 10.1155/2022/2820851](https://doi.org/10.1155/2022/2820851) — 담음혈어증 관상동맥질환 환자에서 관상동맥 내 초음파 평가와 맞춤형 중의 간호를 결합한 임상시험.
+[^105]: [Changes of left ventricular remodeling in hypertension patients with carotid atherosclerosis of phlegm-dampness syndrome]. Li N 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-04. [관찰연구, 323명] [PMID 24812892](https://pubmed.ncbi.nlm.nih.gov/24812892/) — 담음증을 동반한 고혈압 환자에서 좌심실 리모델링 지표 악화가 더 뚜렷함을 확인한 대규모 관찰연구.
+[^106]: [Correlation study between carotid atherosclerosis and hypertension]. Li N 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-07. [관찰연구, 180명] [PMID 21866660](https://pubmed.ncbi.nlm.nih.gov/21866660/) — 담탁어혈증후군을 동반한 고혈압 환자에서 경동맥 연성 플라크 비율이 유의하게 높음을 확인한 관찰연구.
+[^107]: [Ultrasonographic study on effects of Wendan Xiezhuo method in improving vascular endothelial diastolic function and atherosclerosis in hypertension patients with turbid-phlegm syndrome]. Zhao P 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-01. [임상시험, 43명] [PMID 17302058](https://pubmed.ncbi.nlm.nih.gov/17302058/) — 담탁증 고혈압 환자에서 온담환 투여 후 경동맥 IMT 감소·혈관내피 이완기능 개선을 확인한 임상시험.
+[^108]: [Treatment of Chronic Heart Failure with Carotid Plaque Patients by Yiqi Huoxue Tongyang Xezhuo Recipe]. Du WT 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-11. [임상시험, 69명] [PMID 26775478](https://pubmed.ncbi.nlm.nih.gov/26775478/) — 기허담체증 만성심부전·경동맥 플라크 환자에서 익기활혈통양설탁방 병용 후 경동맥 IMT 감소를 확인한 임상시험.
+[^109]: [A preliminary evaluation on transcranial Dopplor ultrasonic scanning for differentiation of symptoms and signs in patients with ganyang shangkangzheng]. Hu S 외. _Hunan yi ke da xue xue bao = Hunan yike daxue xuebao = Bulletin of Hunan Medical University_. 1997. [관찰연구, 32명] [PMID 9868054](https://pubmed.ncbi.nlm.nih.gov/9868054/) — 경두개 도플러로 중대뇌동맥 혈류 속도를 측정해 간양상항증을 유사 변증·정상군과 감별한 예비 연구.
+[^110]: Exploring the correlation between knee osteoarthritis and musculoskeletal ultrasound manifestations based on changes in traditional Chinese medical syndrome types. Qiang Q 외. _Medicine_. 2024-11-29. [관찰연구, 104명] [DOI 10.1097/MD.0000000000040718](https://doi.org/10.1097/MD.0000000000040718) [PMID 39612379](https://pubmed.ncbi.nlm.nih.gov/39612379/) — 무릎 골관절염 환자의 변증 유형에 따라 활막 혈류·관절 삼출액의 초음파 양상이 유의하게 다름을 확인한 관찰연구.
+[^111]: [Manifestations of rheumatoid arthritis patients of cold syndrome and heat syndrome using wrist ultrasound]. Xu Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-11. [관찰연구, 65명] [PMID 25566622](https://pubmed.ncbi.nlm.nih.gov/25566622/) — 류마티스관절염 환자의 한열변증에 따라 손목 초음파 소견에 뚜렷한 차이가 있음을 확인한 관찰연구.
+[^112]: [The correlation study on syndrome differentiation of rheumatoid arthritis and joint high frequency ultrasound performance]. Bi YN 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-01. [관찰연구, 103명] [PMID 25790669](https://pubmed.ncbi.nlm.nih.gov/25790669/) — 류마티스관절염 습열증 환자에서 활막염·건초염·혈류 증가·골 미란이 가장 심하게 관찰됨을 확인한 관찰연구.
+[^113]: Correlation Between Ultrasound Manifestations and Traditional Chinese Medicine Syndrome Differentiation of Breast Nodules. Ruo Chen 외. _International Journal of Chinese Medicine_. 2024-12-16. [관찰연구, 128명] [DOI 10.11648/j.ijcm.20240801.12](https://doi.org/10.11648/j.ijcm.20240801.12) — 유방 결절 환자의 초음파 소견(혈류 신호·BI-RADS 4등급·UE 4점)이 담혈어체증과 높은 상관관계를 보임을 확인한 관찰연구.
+[^114]: [Features of preoperative contrast-enhanced ultrasound of breast cancer: relationship with the syndrome classification in traditional Chinese medicine]. Cai LS 외. _Nan fang yi ke da xue xue bao = Journal of Southern Medical University_. 2010-06. [관찰연구, 82명] [PMID 20584690](https://pubmed.ncbi.nlm.nih.gov/20584690/) — 유방암 환자의 수술 전 조영증강 초음파 소견이 변증 분류와 유의한 상관관계가 있음을 확인한 관찰연구.
+[^115]: [Relationship between ultrasound imaging and traditional Chinese medicine syndrome in limb lymphedema]. Liu M 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2009-05. [관찰연구, 107명] [DOI 10.3736/jcim20090504](https://doi.org/10.3736/jcim20090504) [PMID 19435554](https://pubmed.ncbi.nlm.nih.gov/19435554/) — 사지 림프부종 환자의 변증 유형에 따라 초음파상 조직 두께·에코 강도가 유의하게 다름을 확인한 관찰연구.
+[^116]: Retracted: Acupuncture Combined with Traditional Chinese Medicine and Drug Therapy for the Treatment of Cerebral Infarction (Phlegm-Blood Stasis Syndrome) and Carotid Atherosclerotic Plaque: A Preliminary Randomized Controlled Study. _Applied bionics and biomechanics_. 2023. [기타] [DOI 10.1155/2023/9823108](https://doi.org/10.1155/2023/9823108) [PMID 37621499](https://pubmed.ncbi.nlm.nih.gov/37621499/) — 담혈어체증 뇌경색·경동맥 플라크 환자 대상 예비 무작위 대조시험이 사후 철회된 사례. 초음파-변증 상관 문헌의 질 관리 필요성을 보여주는 반면교사.
