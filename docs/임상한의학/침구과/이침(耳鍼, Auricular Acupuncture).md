@@ -89,6 +89,30 @@
 - 이침의 항진통 기전은 미주신경 활성화를 통한 자율신경 조절·항염 반응으로 설명된다. 이침 전기자극이 혈중 ACTH·GH에 미치는 영향이 실험연구에서 관찰되었고,[^57] 이명 환자에서 경부 전자이침·이침의 자율신경 효과가 평가되었다.[^58]
 - 이침 전자극이 외상성 뇌손상 후 의식 개선에 미치는 영향에 대한 무작위 시험 프로토콜이 개발되었다.[^59] 과민성 방광·염증성 장질환 등에서도 이침을 통한 미주신경 조절 연구가 진행되고 있다.[^60]
 
+#### 이개-미주신경 해부학적 경로 심화
+
+이개(귓바퀴)의 이갑개(concha)·외이도 후벽 일부는 미주신경의 이개분지(auricular branch of the vagus nerve, ABVN)가 유일하게 체표에 노출되는 영역이며, 이 신경분지는 연수 고립로핵(nucleus tractus solitarius, NTS)으로 구심성 신호를 전달한다[교과서적 근거].
+경피적 이개 미주신경 자극(transcutaneous auricular vagus nerve stimulation, taVNS)이라는 용어로 서양의학 영역에서도 이갑개 자극이 활발히 연구되고 있으며, 이는 전통적 이침 취혈 원리(이갑개 부위 심장·폐·위 등 장기 대응점)와 해부학적 신경 분포가 상당 부분 일치함을 시사한다.
+NTS는 고립로핵-미주신경 등쪽핵(dorsal motor nucleus of vagus)-청반(locus coeruleus)-봉선핵(raphe nuclei)으로 이어지는 뇌간 네트워크를 거쳐 대뇌변연계·전전두엽피질까지 신호를 확산시키며, 이 상행 경로가 이침의 전신적(진통·항염·자율신경·정서) 작용을 설명하는 해부학적 기반으로 제시된다[교과서적 근거].
+
+#### 미주신경 매개 항염 반사와 콜린성 항염 경로
+
+이개 미주신경 자극은 구심성 신호가 NTS를 거쳐 원심성 미주신경 효율신경(efferent vagal fiber)을 활성화하고, 비장에서 노르아드레날린-아세틸콜린 매개 콜린성 항염 경로(cholinergic anti-inflammatory pathway)를 통해 대식세포의 TNF-α 등 염증성 사이토카인 방출을 억제하는 기전이 제시되어 있다(이침·전침 공통 기전)[교과서적 근거].
+대동맥 박리 수술 후 합병증에서 경피적 이개 미주신경 자극(taVNS)의 장-뇌 축(gut-brain axis) 표적 임상 효과와 기전을 평가하는 무작위 대조 시험이 진행 중이며, 전신 염증 반응·장 기능 저하·불안·우울 등 복합 합병증에 대한 효과를 검증하고 있다[^61].
+위장관 질환에서 taVNS가 뇌-장 축 조절을 통해 자율신경 균형을 개선하고 염증·내장 민감도를 낮출 수 있다는 기전-임상 연계 문헌고찰도 이러한 항염 경로의 임상적 확장 가능성을 뒷받침한다[^62].
+
+#### 중추신경계 영상 연구(fMRI·fNIRS)로 본 이침 작용
+
+일차성 불면증 환자를 대상으로 한 taVNS 무작위 대조 시험 겸 fMRI 연구에서는 기저전뇌(basal forebrain)-피질 회로의 기저 기능적 연결성이 치료 반응을 예측하였으며, 시각·감각운동·내측 전전두엽피질 간 연결성 조절이 수면 질·불면 심각도·불안 개선과 연관되었다[^63].
+후속 연구에서는 섬엽(insula)과 다른 뇌 네트워크 간 과도한 연결성 감소가 시각적 과활동·과각성 완화의 기전으로 제시되었고[^64], 별도 연구에서는 기본모드네트워크(default mode network, DMN)·시각 네트워크(visual network)·감각운동 네트워크(sensorimotor network)의 활성 조절과 자율신경 안정화가 함께 관찰되었다[^65].
+뇌졸중 후 상지 기능장애 환자에서 taVNS를 과제지향훈련과 병행할 때 기능적 근적외선분광법(fNIRS)으로 측정한 피질 활성 패턴이 인지-운동 통합 능력 향상과 연관됨이 확인되어[^66], 이침·이개 미주신경 자극의 중추 작용이 단일 부위가 아닌 다중 네트워크 수준에서 일어남을 시사한다.
+
+#### 신경내분비·자율신경 조절과 정신과적 적용
+
+파킨슨병 환자에서 가정 기반 taVNS는 자율신경·뇌 기능 개선을 매개로 운동·비운동 증상을 유의하게 개선하였으며[^67], 치료저항성 조현병의 음성증상에 대한 taVNS 효과와 민감도 바이오마커를 평가한 무작위 임상시험도 보고되었다[^68].
+주요 우울장애에서 taVNS의 최신 근거와 향후 연구 방향을 정리한 문헌고찰은 미주신경 매개 신경내분비·자율신경 조절이 기분 장애 개선의 핵심 기전으로 작용할 가능성을 제시한다[^69].
+이러한 신경내분비·중추신경계 기전 연구들은 앞서 제시된 이침 전기자극의 혈중 ACTH·GH 변화 관찰[^57]과 함께, 이침이 단순 국소 자극이 아니라 시상하부-뇌하수체 축(HPA axis)과 자율신경계를 포괄하는 전신적 신경조절 수단임을 뒷받침한다.
+
 ## 임상 적용
 
 - 불면·수면 질환에는 이침(침·압두·자석)을 단독 또는 통상 치료·한약과 병행하여 수면 질 개선을 도모할 수 있다.[^16][^17][^18][^19]
@@ -196,3 +220,12 @@
 [^58]: A comparative study on the effects of systemic manual acupuncture, periauricular electroacupuncture, and digital electroacupuncture to treat tinnitus: A randomized, paralleled, open-labeled exploratory trial. 임상시험. DOI: [10.1186/s12906-017-1589-3](https://doi.org/10.1186/s12906-017-1589-3) · PMID: [28143471](https://pubmed.ncbi.nlm.nih.gov/28143471/). 이명의 경부 전자이침·체침 비교.
 [^59]: Effect of Electroacupuncture at Auricular Acupoints "Heart" and "Brainstem" in Improving the Consciousness of Patients after Traumatic Brain Injury: Study Protocol for a Randomized Controlled Trial. 임상시험(프로토콜). DOI: [10.21203/rs.2.209/v1](https://doi.org/10.21203/rs.2.209/v1). 외상성 뇌손상 의식 개선 이침전자극 프로토콜.
 [^60]: Vagus Nerve Stimulation Through Electro-acupuncture for Inflammatory Bowel Disease. 문헌고찰. DOI: [10.22246/jikm.2023.44.3.455](https://doi.org/10.22246/jikm.2023.44.3.455). 미주신경 조절을 통한 이침·전침의 항염 연구.
+[^61]: Clinical efficacy and mechanisms of transcutaneous auricular vagus nerve stimulation targeting the gut-brain axis for postoperative complications of aortic dissection: study protocol for a randomized controlled trial. Ning B 외. _Frontiers in medicine_. 2025. [임상시험] [DOI 10.3389/fmed.2025.1692356](https://doi.org/10.3389/fmed.2025.1692356) [PMID 41488091](https://pubmed.ncbi.nlm.nih.gov/41488091/) — 경피적 이개 미주신경 자극(taVNS)이 장-뇌 축을 표적으로 전신 염증·장 기능·정서 증상을 조절하는 기전을 임상시험으로 검증하는 프로토콜.
+[^62]: Bridging the gap from mechanism to clinic: a translational perspective on taVNS for gastrointestinal disorders. Cui J 외. _Frontiers in neuroscience_. 2026. [문헌 고찰] [DOI 10.3389/fnins.2026.1820521](https://doi.org/10.3389/fnins.2026.1820521) [PMID 42440937](https://pubmed.ncbi.nlm.nih.gov/42440937/) — taVNS가 뇌-장 축 조절을 통해 자율신경 균형을 개선하고 염증·내장 민감도를 낮추는 기전을 임상 근거와 연결한 종설.
+[^63]: Baseline functional connectivity of the basal forebrain-cortical circuit predict taVNS treatment response in primary insomnia: a randomized controlled trial and fMRI study. Qi M 외. _BMC medicine_. 2025-07-09. [임상시험, 70명] [DOI 10.1186/s12916-025-04126-7](https://doi.org/10.1186/s12916-025-04126-7) [PMID 40629377](https://pubmed.ncbi.nlm.nih.gov/40629377/) — taVNS가 기저전뇌-피질 회로의 기능적 연결성을 조절해 불면증·불안을 개선함을 fMRI로 입증.
+[^64]: Predicting treatment response to transcutaneous auricular vagus nerve stimulation in patients with insomnia: resting-state functional connectivity based multivoxel pattern analysis. Qi M 외. _BMC psychiatry_. 2026-01-06. [임상시험, 67명] [DOI 10.1186/s12888-025-07484-x](https://doi.org/10.1186/s12888-025-07484-x) [PMID 41495721](https://pubmed.ncbi.nlm.nih.gov/41495721/) — 섬엽과 다른 뇌 네트워크 간 과도한 연결성 감소가 taVNS의 과각성 완화 기전임을 시사.
+[^65]: Default mode network and visual network responsiveness to transcutaneous auricular vagus nerve stimulation predict its variable efficacy in primary insomnia disorder. Wu X 외. _Frontiers in neurology_. 2025. [임상시험, 100명] [DOI 10.3389/fneur.2025.1703747](https://doi.org/10.3389/fneur.2025.1703747) [PMID 41476747](https://pubmed.ncbi.nlm.nih.gov/41476747/) — taVNS가 DMN·시각·감각운동 네트워크 활성과 자율신경계를 함께 조절함을 확인.
+[^66]: Task-specific cortical mechanisms of taVNS-paired task-oriented training for post-stroke upper extremity dysfunction under cognitive load: an fNIRS study. Li SY 외. _Frontiers in human neuroscience_. 2025. [임상시험, 30명] [DOI 10.3389/fnhum.2025.1652612](https://doi.org/10.3389/fnhum.2025.1652612) [PMID 41070188](https://pubmed.ncbi.nlm.nih.gov/41070188/) — taVNS 병행 과제지향훈련이 뇌졸중 후 상지 기능·인지-운동 통합의 피질 기전을 fNIRS로 규명.
+[^67]: Home-based transcutaneous auricular vagus nerve stimulation (taVNS) improves motor and non-motor symptoms by improving autonomic and brain functions in patients with Parkinson's disease: A randomized clinical trial. Wang R 외. _Neurotherapeutics_. 2026-01. [임상시험] [DOI 10.1016/j.neurot.2026.e00832](https://doi.org/10.1016/j.neurot.2026.e00832) [PMID 41549029](https://pubmed.ncbi.nlm.nih.gov/41549029/) — 가정 기반 taVNS가 자율신경·뇌 기능 개선을 매개로 파킨슨병의 운동·비운동 증상을 개선.
+[^68]: Efficacy and safety of transcutaneous auricular vagus nerve stimulation for patients with treatment-resistant schizophrenia with predominantly negative symptoms: a randomized clinical trial and efficacy sensitivity biomarkers. Cui Y 외. _Molecular psychiatry_. 2025-11. [임상시험, 50명] [DOI 10.1038/s41380-025-03132-8](https://doi.org/10.1038/s41380-025-03132-8) [PMID 40858781](https://pubmed.ncbi.nlm.nih.gov/40858781/) — taVNS가 치료저항성 조현병의 음성 증상 개선에 안전하고 효과적인 보조 치료가 될 수 있음을 시사.
+[^69]: Transcutaneous auricular vagus nerve stimulation for major depressive disorder: current evidence and future research directions. Sun J 외. _Frontiers in psychiatry_. 2026. [문헌 고찰] [DOI 10.3389/fpsyt.2026.1788611](https://doi.org/10.3389/fpsyt.2026.1788611) [PMID 41890420](https://pubmed.ncbi.nlm.nih.gov/41890420/) — taVNS가 미주신경 매개 신경내분비·자율신경 조절을 통해 우울 증상을 완화할 가능성을 정리.

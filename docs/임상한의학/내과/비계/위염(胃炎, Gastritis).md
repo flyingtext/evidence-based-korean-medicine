@@ -130,6 +130,24 @@ H. pylori는 만성 위축성 위염의 핵심 병원균으로, 위점막에 지
 
 담즙 역류성 위염은 담즙산이 위점막 장벽을 손상시켜 염증을 유발하는 기전으로 발생하며, 통합의학 치료와 중성약 병용의 근거가 축적되고 있다[^36][^37]. 교원성 위염은 점막하 교원질 침착을 특징으로 하는 드문 형태로 내시경상 반흔양 변화를 보인다[^34].
 
+#### 2-5. Hp 독성인자(CagA·VacA)와 위점막 염증-암 전환의 분자기전 심화
+
+H. pylori의 CagA(cytotoxin-associated gene A) 단백은 제4형 분비계(type IV secretion system)를 통해 위상피세포 내로 주입되어 SHP-2 인산화효소의 이상 활성화·세포 극성 붕괴·상피간엽이행(EMT) 유사 변화를 유발하는 대표적 병독인자로 알려져 있으며, VacA(vacuolating cytotoxin A)는 세포 내 액포 형성과 미토콘드리아 기능장애를 통해 상피세포 손상을 가중시킨다[교과서적 근거].
+CagA·VacA를 포함한 H. pylori 독성인자와 위암 발생·임상 경과의 연관성을 정리한 체계적 고찰은 지역별로 균주의 독성인자 보유율과 위암 위험 상승 정도가 이질적임을 확인하였다[^158].
+동아시아 인구를 대상으로 한 메타분석(4,325명)에서 혈청 CagA 항체 양성이 위암 발생 위험 증가와 유의하게 연관되었으며[^159], 다중혈청검사(multiplex serology) 기반 CagA 항체를 이용한 대규모 메타분석(10,173명)에서도 동일한 연관성이 재확인되었다[^160].
+VacA를 포함한 H. pylori 독성인자의 임상적 유의성을 정리한 문헌 고찰은 CagA·VacA 아형 조합이 소화성 궤양·위암 등 서로 다른 임상 경과를 예측하는 데 기여할 수 있음을 제시하였다[^161].
+Epstein-Barr 바이러스(EBV) 연관 위암 환자 54명을 분석한 관찰연구에서는 H. pylori의 ureA 독성인자 발현 빈도가 유의하게 높았으나 실제 예후 지표와는 뚜렷한 연관을 보이지 않아, 바이러스-세균 공동 감염이 관여하는 위암 아형에서는 독성인자의 예후적 의미가 제한적일 수 있음을 시사하였다[^162].
+iceA 유전형의 전 세계 역학적 이질성과 병독 함의를 정리한 최근 관찰연구는 지역·인종에 따라 iceA1/iceA2 분포가 크게 다르며 단일 독성인자만으로 위험도를 일반화하기 어렵다는 점을 강조하였다[^163].
+임상 특징과 H. pylori 혈청 독성인자 검사를 결합한 조기발병 위암 위험층화모델(800명)은 상복부 통증·체중 감소·빈혈 등 임상 증상에 독성인자 혈청 지표를 더하면 예측력이 향상됨을 보고하였다[^164].
+최근 문헌 고찰은 H. pylori 감염·종양미세환경·장내미생물총 간의 다차원 상호작용이 위암 면역 반응 전반에 영향을 미친다고 정리하여, 단일 병원체 모델을 넘어 숙주-미생물총 통합적 관점의 필요성을 제시하였다[^165].
+이러한 독성인자 기반 위험층화 근거는 앞서 제시한 만성 위축성 위염의 중의 변증 유형과 H. pylori 감염 간 상관 관찰[^56][^81] 및 청열 계열 본초(황련·대황)의 항균 효과[^15]와 함께, 청열 위주 변증 치료가 단순 제균을 넘어 독성인자 발현이 높은 고위험군에서 보조적 의미를 가질 가능성을 시사한다.
+
+#### 2-6. 자가면역성 위염(自家免疫性 胃炎)의 병태생리
+
+자가면역성 위축성 위염(autoimmune atrophic gastritis)은 위체부(胃體部)에 국한된 벽세포(parietal cell) 파괴를 특징으로 하며, 항벽세포항체(anti-parietal cell antibody)·항내인자항체(anti-intrinsic factor antibody)가 위산 분비 저하와 비타민 B12 흡수장애를 유발해 악성빈혈(pernicious anemia)로 이행할 수 있다[교과서적 근거].
+H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 자가면역성 위염은 위체부·기저부에 국한되어 진행하며, 저가스트린혈증이 아닌 고가스트린혈증(G세포 대상성 증식)을 동반하는 것이 감별점으로 제시된다[교과서적 근거].
+자가면역성 위염은 장기간 저산증(hypochlorhydria)·무산증(achlorhydria) 환경에서 장형 신경내분비종양(type 1 gastric neuroendocrine tumor)의 위험을 높이는 것으로 알려져 있어[교과서적 근거], 만성 위축성 위염이 어혈(瘀血)·위암 전단계 병변으로 전변한다는 한의학적 병기 인식[^144]과 함께 장기 추적 관찰의 필요성을 뒷받침한다.
+
 ### 3. 전통 병기와 현대적 상관물 대응표
 
 | 전통 병기 | 현대적 상관물 | 근거 |
@@ -680,6 +698,14 @@ H. pylori는 만성 위축성 위염의 핵심 병원균으로, 위점막에 지
 [^155]: Research Progress on the Efficacy and Mechanism of Acupuncture in Treating Chronic Gastritis. He J 외. _Diseases (Basel, Switzerland)_. 2025-11-07. [문헌 고찰] [DOI 10.3390/diseases13110363](https://doi.org/10.3390/diseases13110363) [PMID 41294903](https://pubmed.ncbi.nlm.nih.gov/41294903/) — 침 치료의 효능·기전에 관한 연구 진전을 개관하였다.
 [^156]: A methodological review of acupuncture for chronic atrophic gastritis: toward a core outcome set. Zhang H 외. _Frontiers in medicine_. 2026. [체계적 고찰] [DOI 10.3389/fmed.2026.1818918](https://doi.org/10.3389/fmed.2026.1818918) [PMID 42305969](https://pubmed.ncbi.nlm.nih.gov/42305969/) — 침 치료 핵심 결과지표 표준화를 위한 방법론적 체계적 고찰이 수행되었다.
 [^157]: [Effect of Huazhuo Jiedu formula on HIF-1α, VEGF, and PTEN in chronic erosive gastritis patients with syndrome of accumulation of turbidity and toxicity]. Lyu JJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2018-06. [임상시험] [DOI 10.19540/j.cnki.cjcmm.2018.0072](https://doi.org/10.19540/j.cnki.cjcmm.2018.0072) [PMID 29945395](https://pubmed.ncbi.nlm.nih.gov/29945395/) — 화탁해독방(化濁解毒方)이 화열온독형(火熱蘊毒型) 만성 미란성 위염 환자의 HIF-1α·VEGF·PTEN 발현을 조절하였다.
+[^158]: Epidemiology of Helicobacter pylori and CagA-Positive Infections and Global Variations in Gastric Cancer. Park JY 외. _Toxins_. 2018-04-19. [체계적 고찰] [DOI 10.3390/toxins10040163](https://doi.org/10.3390/toxins10040163) [PMID 29671784](https://pubmed.ncbi.nlm.nih.gov/29671784/) — H. pylori CagA 양성 감염률과 위암 위험의 지역별 이질성을 정리한 체계적 고찰.
+[^159]: Serum Helicobacter pylori CagA antibody as a biomarker for gastric cancer in east-Asian countries. Shiota S 외. _Future microbiology_. 2010-12. [메타분석, 4325명] [DOI 10.2217/fmb.10.135](https://doi.org/10.2217/fmb.10.135) [PMID 21155667](https://pubmed.ncbi.nlm.nih.gov/21155667/) — 동아시아 인구에서 혈청 CagA 항체 양성이 위암 위험 증가와 유의하게 연관됨.
+[^160]: Association between Helicobacter pylori antibodies determined by multiplex serology and gastric cancer risk: A meta-analysis. El Hafa F 외. _Helicobacter_. 2022-06. [메타분석, 10173명] [DOI 10.1111/hel.12881](https://doi.org/10.1111/hel.12881) [PMID 35212073](https://pubmed.ncbi.nlm.nih.gov/35212073/) — 다중혈청검사 기반 CagA 항체와 위암 위험의 연관성을 재확인한 대규모 메타분석.
+[^161]: The significance of virulence factors in Helicobacter pylori. Shiota S 외. _Journal of digestive diseases_. 2013-07. [문헌 고찰] [DOI 10.1111/1751-2980.12054](https://doi.org/10.1111/1751-2980.12054) [PMID 23452293](https://pubmed.ncbi.nlm.nih.gov/23452293/) — CagA·VacA 등 H. pylori 독성인자 조합이 임상 경과 예측에 기여할 수 있음을 정리한 문헌 고찰.
+[^162]: Distribution and Clinical Impact of Helicobacter pylori Virulence Factors in Epstein-Barr-Virus-Associated Gastric Cancer. Noh JH 외. _Antibiotics (Basel, Switzerland)_. 2025-06-05. [관찰연구, 54명] [DOI 10.3390/antibiotics14060580](https://doi.org/10.3390/antibiotics14060580) [PMID 40558170](https://pubmed.ncbi.nlm.nih.gov/40558170/) — EBV 연관 위암에서 H. pylori ureA 독성인자 발현 빈도가 높았으나 예후와의 연관은 뚜렷하지 않음.
+[^163]: Global epidemiology of Helicobacter pylori iceA genotypes: heterogeneity and virulence implications. Ren Y 외. _Microbiology spectrum_. 2026-07-07. [관찰연구] [DOI 10.1128/spectrum.02024-25](https://doi.org/10.1128/spectrum.02024-25) [PMID 42214367](https://pubmed.ncbi.nlm.nih.gov/42214367/) — iceA 유전형의 전 세계 분포가 지역·인종에 따라 크게 다름을 확인한 관찰연구.
+[^164]: Development and validation of a risk stratification model for early-onset gastric cancer based on clinical features and Helicobacter pylori serological detection of virulence factors. Ye R 외. _Minerva gastroenterology_. 2026-06-17. [관찰연구, 800명] [DOI 10.23736/S2724-5985.26.04064-7](https://doi.org/10.23736/S2724-5985.26.04064-7) [PMID 42304894](https://pubmed.ncbi.nlm.nih.gov/42304894/) — 임상 증상에 H. pylori 독성인자 혈청 지표를 결합해 조기발병 위암 예측력을 높인 위험층화모델.
+[^165]: The impact of multidimensional interactions among Helicobacter pylori infection, tumor microenvironment, and gut microbiota on gastric cancer immune response. Xiong C 외. _European journal of pharmacology_. 2026-01-12. [문헌 고찰] [DOI 10.1016/j.ejphar.2025.178401](https://doi.org/10.1016/j.ejphar.2025.178401) [PMID 41308859](https://pubmed.ncbi.nlm.nih.gov/41308859/) — H. pylori 감염·종양미세환경·장내미생물총의 다차원 상호작용이 위암 면역 반응에 영향을 미침을 정리한 문헌 고찰.
 
 ---
 
