@@ -430,6 +430,7 @@
 급성 발열·피부홍반이 두드러진 습열침음형과 만성 소모·근위축이 두드러진 기혈양허·신정휴허형은 치법이 다르다. 실제로 증형에 따라 혈청 염증지표(IL-17)가 다르게 나타난 관찰연구도 있어[^30], 변증 없이 관행적으로 동일한 보익 처방을 반복 투여하는 것은 근거에 부합하지 않는다.
 
 ---
+
 [^1]: The risk of ischemic stroke in patients with idiopathic inflammatory myopathies: a systematic review and meta-analysis. Zhen C 외. _Clinical rheumatology_. 2021-10. [메타분석] [DOI 10.1007/s10067-021-05751-2](https://doi.org/10.1007/s10067-021-05751-2) [PMID 33934269](https://pubmed.ncbi.nlm.nih.gov/33934269/) — 특발성 염증성 근병증 환자는 대조군에 비해 허혈성 뇌졸중 위험이 유의하게 높았으며(RR = 2.41), 특히 피부근염(DM) 환자와 아시아인 환자에서 위험도가 증가하는 경향을 보였다.
 [^2]: Diagnostic efficacy of serum Krebs von den Lungen-6 for dermatomyositis/polymyositis-associated interstitial lung diseases: A systematic review and meta-analysis. Li Z 외. _Medicine_. 2025-09-05. [메타분석] [DOI 10.1097/MD.0000000000044396](https://doi.org/10.1097/MD.0000000000044396) [PMID 40922241](https://pubmed.ncbi.nlm.nih.gov/40922241/) — 혈청 KL-6 수치는 ILD가 있는 환자에서 유의하게 높았으며(민감도 0.82, 특이도 0.90, AUC 0.91), 폐 기능 지표와 유의한 상관관계를 보여 진단 마커로서의 효능과 질환 중증도와의 연관성이 확인되었다.
 [^3]: Influencing factors for rapidly progressive interstitial lung disease in patients with anti-MDA5 antibody-positive dermatomyositis: a systematic review and meta-analysis. Li H 외. _Frontiers in immunology_. 2026. [메타분석] [DOI 10.3389/fimmu.2026.1796496](https://doi.org/10.3389/fimmu.2026.1796496) [PMID 42039189](https://pubmed.ncbi.nlm.nih.gov/42039189/) — 남성, 고령, 질환 기간 3개월 미만, 발열, anti-Ro52 항체 양성, CRP, NLR, LDH, AST, ALT, 혈청 페리틴, CEA의 상승 및 림프구 감소증이 RP-ILD의 위험 인자로 나타났으며, 관절통/관절염 및 림프구 증가증은 보호 인자로 나타났다.

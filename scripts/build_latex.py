@@ -69,29 +69,43 @@ def shift_whole_file(text: str, target_level: int) -> str:
     return shift_headings(text, target_level - lvl)
 
 
-SETEXT_RULE_RE = re.compile(r"^\s*(-{3,}|={3,})\s*$")
+THEMATIC_RULE_RE = re.compile(r"^\s*(-{3,}|={3,}|\*{3,}|_{3,})\s*$")
 
 
 def isolate_thematic_breaks(text: str) -> str:
-    """구분선(`---`) 앞에 빈 줄이 없으면 넣어 준다.
+    """구분선(`---`)이 빈 줄로 앞뒤가 분리되도록 보정한다.
 
-    마크다운에서 본문 줄 바로 아래에 `---`가 오면 수평선이 아니라 **setext
-    헤딩(H2)** 이 된다. 저장소 문서는 헤딩을 전부 ATX(`#`)로 쓰므로 이런
-    배치는 언제나 실수이며, 방치하면 그 앞 줄이 통째로 제목이 되어버린다
-    (실제로 각주 정의 한 줄이 목차에 섹션으로 올라온 사례가 있었다).
+    양쪽 모두 문제가 된다.
+
+    - **앞에 빈 줄이 없으면**: 본문 줄 바로 아래의 `---`는 수평선이 아니라
+      setext 헤딩(H2)이 되어, 바로 앞 줄이 통째로 제목이 되어버린다.
+      (각주 정의 한 줄이 목차에 섹션으로 올라온 사례가 있었다.)
+    - **뒤에 빈 줄이 없으면**: pandoc의 pipe_tables는 머리글 없는 표를
+      허용하므로 `---`를 표의 구분행으로 읽고, 뒤따르는 헤딩·문단을 전부
+      표의 행으로 삼켜버린다. (`## 제2편 병태생리` 이하가 통째로 1열
+      longtable에 갇혀 글자가 한 자씩 세로로 흐른 사례가 있었다.)
+
+    저장소 문서는 헤딩을 전부 ATX(`#`)로 쓰므로 이런 배치는 언제나 실수다.
     표 구분선(`|---|`)은 `|`로 시작하므로 여기 걸리지 않는다.
     """
     lines = text.splitlines()
     out: list[str] = []
     in_code = False
+    pending_blank_after = False
     for line in lines:
         stripped = line.strip()
         if stripped.startswith("```") or stripped.startswith("~~~"):
             in_code = not in_code
+            pending_blank_after = False
             out.append(line)
             continue
-        if not in_code and SETEXT_RULE_RE.match(line) and out and out[-1].strip():
+        if pending_blank_after and stripped:
             out.append("")
+        pending_blank_after = False
+        if not in_code and THEMATIC_RULE_RE.match(line) and not stripped.startswith("|"):
+            if out and out[-1].strip():
+                out.append("")
+            pending_blank_after = True
         out.append(line)
     return "\n".join(out)
 

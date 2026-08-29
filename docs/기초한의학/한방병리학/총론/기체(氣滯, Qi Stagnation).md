@@ -1286,6 +1286,7 @@
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-17 조회 기준
 
 ---
+
 [^2]: The Quintessence of Traditional Chinese Medicine: Syndrome and Its Distribution among Advanced Cancer Patients with Constipation. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [관찰연구] 225명 [DOI 10.1155/2012/739642](https://doi.org/10.1155/2012/739642) [PMID 22778775](https://pubmed.ncbi.nlm.nih.gov/22778775/) — 기체 변증이 암 환자 변비에서 흔함
 [^3]: The comparative clinical study of efficacy of Gamisoyo-San (Jiaweixiaoyaosan) on generalized anxiety disorder. _J Ethnopharmacol_. 2014. [PMID 25456420](https://pubmed.ncbi.nlm.nih.gov/25456420/) — 기체가 복합 병기 형성에 관여
 [^7]: Association between traditional Chinese medicine constitution and depression in adolescents: A cross-sectional study. _Medicine_. 2026-01-23. [관찰연구] 5955명 [DOI 10.1097/MD.0000000000047310](https://doi.org/10.1097/MD.0000000000047310) [PMID 41578533](https://pubmed.ncbi.nlm.nih.gov/41578533/) — 기체 체질이 청소년 우울과 연관

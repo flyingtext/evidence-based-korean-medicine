@@ -195,6 +195,7 @@
 > 비증 변증은 이 기질적 질환들을 배제한 뒤, 또는 이들 질환과 병행하여 한의학적 치료의 병기·변증 틀을 적용하는 것이 원칙이다.
 
 ---
+
 ## 제2편 병태생리
 
 ### 6. 비증의 현대적 상관물
@@ -248,6 +249,7 @@
 이 표는 변증군 사이에 측정 가능한 생물학적 차이가 존재할 가능성을 보여주는 요약이며, 개별 연구의 방법론적 한계(표본 규모·설계·재현성)를 감안해 해석해야 한다. 변증이 독립된 생물학적 실체로 확정되었다기보다, 임상적으로 유의미한 이질성을 포착할 가능성이 있는 층화 도구로 활용하는 것이 근거 수준에 맞다.
 
 ---
+
 ## 제3편 치법·방약·침구
 
 ### 8. 치법의 위계
@@ -448,6 +450,7 @@
 앞의 근거들이 공통으로 시사하는 것은 **침구 기법(체침·전침·온침·화침·매선·뜸·부항)의 선택이 병기(풍한습열)와 무관하게 이루어져서는 안 된다** 는 점이다. 한습 우세형에는 온침·구법, 열비형에는 청열 위주의 사법·자락(刺絡), 어혈 겸협형에는 부항·자락을 우선 고려하는 것이 변증 층화의 실무 원칙이다.
 
 ---
+
 ## 제4편 KCD 질환군별 각론
 
 ### 12. 류마티스관절염군 (M05-M06)
@@ -557,6 +560,7 @@
 3. **평가 지표**: WOMAC(Western Ontario and McMaster Universities Osteoarthritis Index), VAS 통증 점수, K-L 등급(Kellgren-Lawrence grade), 6분 보행검사, 관절가동범위(ROM).
 
 ---
+
 ### 14. 강직성척추염군 (M45)
 
 #### ① KCD 코드
@@ -710,6 +714,7 @@
 3. **평가 지표**: 혈청 요산(sUA), 관절 초음파(이중윤곽징후), 통풍결절 크기, 발작 빈도, VAS 통증 점수.
 
 ---
+
 ## 제5편 예후와 관리
 
 ### 17. 예후
@@ -860,6 +865,7 @@
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준
 
 ---
+
 [^1]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 한냉습 응체형(착비 상당) 슬관절 골관절염에서 독활기생탕 계열 처방의 효과를 정리한 통합분석. 착비의 한습 병기와 현대 질환군의 대응근거.
 
 [^2]: Integrated multi-omics analysis of dampness-heat gout reveals diagnostic biomarkers and therapeutic targets. Le Yang 외. _Frontiers in Immunology_. 2026-02-06. [관찰연구] [DOI 10.3389/fimmu.2026.1677920](https://doi.org/10.3389/fimmu.2026.1677920) — 습열형 통풍의 다중오믹스 분석으로 진단 바이오마커·치료표적을 제시. 열비(습열비)의 생물학적 실체 지지 근거.
