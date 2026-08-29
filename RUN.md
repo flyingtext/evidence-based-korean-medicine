@@ -22,7 +22,7 @@ BASE="https://med.symbolicinfo.com"
 
 ## 0. 기준 문서와 작성 목표 (강제)
 
-**모든 신규·보강 문서는 `docs/기초한의학/한방병리학/간혈허 (肝血虛, Liver Blood Deficiency).md`, `docs/기초한의학/한방병리학/간기울결 (肝氣鬱結, Liver Qi Stagnation).md`, `docs/기초한의학/한방병리학/신양허(腎陽虛, Kidney Yang Deficiency).md`의 구조·깊이·인용 밀도를 기준(Azure/gold standard)으로 작성한다.** 작성 전 반부시 세 문서 중 하나를 먼저 읽고 동일한 수준의 문서를 만드는 것을 목표로 한다. 세 기준 문서가 공통으로 갖추고 있는 필수 요소는 다음과 같다.
+**모든 신규·보강 문서는 `docs/기초한의학/한방병리학/총론/변증논치와 논점 대응/간혈허 (肝血虛, Liver Blood Deficiency).md`, `docs/기초한의학/한방병리학/총론/변증논치와 논점 대응/간기울결 (肝氣鬱結, Liver Qi Stagnation).md`, `docs/기초한의학/한방병리학/총론/변증논치와 논점 대응/신양허(腎陽虛, Kidney Yang Deficiency).md`의 구조·깊이·인용 밀도를 기준(Azure/gold standard)으로 작성한다.** 작성 전 반부시 세 문서 중 하나를 먼저 읽고 동일한 수준의 문서를 만드는 것을 목표로 한다. 세 기준 문서가 공통으로 갖추고 있는 필수 요소는 다음과 같다.
 
 ### 0-1. 필수 구조 요소 (기준 문서에서 추출)
 
@@ -123,9 +123,9 @@ glob "docs/**/천마*.md"
 
 ```bash
 # 증후·병리 표제어인 경우
-read docs/기초한의학/한방병리학/간혈허\ \(肝血虛,\ Liver\ Blood\ Deficiency\).md
-read docs/기초한의학/한방병리학/간기울결\ \(肝氣鬱結,\ Liver\ Qi\ Stagnation\).md
-read docs/기초한의학/한방병리학/신양허\(腎陽虛,\ Kidney\ Yang\ Deficiency\).md
+read docs/기초한의학/한방병리학/총론/변증논치와\ 논점\ 대응/간혈허\ \(肝血虛,\ Liver\ Blood\ Deficiency\).md
+read docs/기초한의학/한방병리학/총론/변증논치와\ 논점\ 대응/간기울결\ \(肝氣鬱結,\ Liver\ Qi\ Stagnation\).md
+read docs/기초한의학/한방병리학/총론/변증논치와\ 논점\ 대응/신양허\(腎陽虛,\ Kidney\ Yang\ Deficiency\).md
 ```
 
 기준 문서의 다편 구조·인용 밀도·근거 한계 명시 방식·Q&A 형식·조섭표·환자 설명 단락·각주 부연 해석을 동일하게 적용하는 것을 목표로 한다.
