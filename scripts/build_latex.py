@@ -110,6 +110,26 @@ def isolate_thematic_breaks(text: str) -> str:
     return "\n".join(out)
 
 
+# 조판용 문자 치환표.
+#
+# 저장소 문서는 폴더 README의 상태 범례에 이모지(✅·🔄)를 쓰고, 본문에서는
+# 아래첨자 기호를 쓴다. 이 글자들은 컬러 이모지 폰트나 특수 폰트에만 있어
+# xelatex 본문 폰트 체인으로는 조판되지 않고 빈 네모(tofu)로 떨어진다.
+# 마크다운 원본의 관례는 그대로 두고, PDF로 낼 때만 같은 뜻의 텍스트로
+# 바꿔 준다.
+TYPESET_SUBSTITUTIONS = {
+    "\u2705": "[완료]",   # ✅
+    "\U0001F504": "[진행]",  # 🔄
+    "\u2099": "n",        # 아래첨자 n — 폰트에 글리프가 없어 일반 n으로 낮춘다
+}
+
+
+def apply_typeset_substitutions(text: str) -> str:
+    for src, dst in TYPESET_SUBSTITUTIONS.items():
+        text = text.replace(src, dst)
+    return text
+
+
 def namespace_footnotes(text: str, file_id: str) -> str:
     """각 파일이 독립적으로 [^1], [^2]...를 쓰므로, 하나의 문서로 합칠 때
     식별자가 서로 충돌하지 않도록 파일별 고유 접두어를 붙인다."""
@@ -190,6 +210,7 @@ class Collector:
         readme = dir_path / "README.md"
         if readme.exists():
             body = readme.read_text(encoding="utf-8")
+            body = apply_typeset_substitutions(body)
             body = isolate_thematic_breaks(body)
             body = namespace_footnotes(body, self.next_file_id())
             body = shift_whole_file(body, level)
@@ -202,6 +223,7 @@ class Collector:
     def add_file(self, file_path: Path, depth: int) -> None:
         level = min(struct_level_for_depth(depth) + 1, MAX_HEADING_LEVEL)
         body = file_path.read_text(encoding="utf-8")
+        body = apply_typeset_substitutions(body)
         body = isolate_thematic_breaks(body)
         body = namespace_footnotes(body, self.next_file_id())
         body = shift_whole_file(body, level)
@@ -246,8 +268,9 @@ class Collector:
 
 HEADER_INCLUDES_TEMPLATE = r"""
 \xeCJKsetup{{AutoFallBack = true}}
-\setCJKfallbackfamilyfont{{\CJKrmdefault}}{{{cjk_fallback_font}}}
-\setCJKfallbackfamilyfont{{\CJKrmdefault}}{{{cjk_fallback_font2}}}
+% 폴백 폰트는 반드시 한 번의 호출에 쉼표로 나열해야 한다. setCJKfallbackfamilyfont를
+% 여러 번 부르면 목록이 누적되지 않고 마지막 호출이 앞의 것을 덮어쓴다.
+\setCJKfallbackfamilyfont{{\CJKrmdefault}}{{{cjk_fallback_font}, {cjk_fallback_font2}, {cjk_fallback_font3}}}
 \XeTeXlinebreaklocale "ko"
 \XeTeXlinebreakskip = 0pt plus 1pt
 % 번호는 저장소 구조(폴더→문서 제목)까지만 매긴다. 그보다 깊은 헤딩은
@@ -268,9 +291,12 @@ HEADER_INCLUDES_TEMPLATE = r"""
   "25A0 -> "25FF,
   % 폴더 구조 아스키 아트(README의 트리 그림)에 쓰이는 괘선 문자와
   % 상태 범례 기호(☐ 등). 라틴 고정폭 폰트에는 대개 글리프가 없다.
+  "2100 -> "214F,
   "2500 -> "257F,
   "2580 -> "259F,
   "2600 -> "27BF,
+  % 화살표·수학 연산자(∛ 등). 본문 수식·단위 표기에 간간이 등장한다.
+  "2190 -> "22FF,
   "2C60 -> "2C7F,
   "3000 -> "303F
 }}
@@ -291,6 +317,8 @@ def main() -> int:
                      help="본문 폰트에 없는 한자(고전 원문 이체자 등)를 위한 1차 대체 폰트")
     ap.add_argument("--cjk-fallback-font2", default="Songti SC",
                      help="2차 대체 폰트")
+    ap.add_argument("--cjk-fallback-font3", default="Apple Symbols",
+                     help="3차 대체 폰트 — 단위·수학 기호(℃·∛·아래첨자 등) 담당")
     ap.add_argument("--date", default=None,
                      help="표지에 찍을 날짜 (기본: 빌드 당일, 예 '2026년 8월 29일')")
     ap.add_argument("--secnumdepth", type=int, default=None,
@@ -351,6 +379,7 @@ def main() -> int:
             HEADER_INCLUDES_TEMPLATE.format(
                 cjk_fallback_font=args.cjk_fallback_font,
                 cjk_fallback_font2=args.cjk_fallback_font2,
+                cjk_fallback_font3=args.cjk_fallback_font3,
                 secnumdepth=secnumdepth,
             ),
             encoding="utf-8",
