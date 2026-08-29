@@ -15,6 +15,18 @@ node_modules/
 .env
 .env.*
 
+# LaTeX/PDF 빌드 산출물 (scripts/build_latex.py)
+build/
+*.pdf
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.xdv
+*.merged.md
+
 # 추천 집계 DB / 진행 체크포인트 / 로그
 server/likes.db
 scripts/.progress.json

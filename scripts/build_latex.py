@@ -205,6 +205,11 @@ HEADER_INCLUDES_TEMPLATE = r"""
   "2150 -> "218F,
   "2460 -> "24FF,
   "25A0 -> "25FF,
+  % 폴더 구조 아스키 아트(README의 트리 그림)에 쓰이는 괘선 문자와
+  % 상태 범례 기호(☐ 등). 라틴 고정폭 폰트에는 대개 글리프가 없다.
+  "2500 -> "257F,
+  "2580 -> "259F,
+  "2600 -> "27BF,
   "2C60 -> "2C7F,
   "3000 -> "303F
 }}
@@ -272,7 +277,12 @@ def main() -> int:
             str(md_path),
             "-o", str(out_path),
             "--standalone",
-            "-f", "markdown+east_asian_line_breaks+pipe_tables+footnotes",
+            # yaml_metadata_block을 끄는 것이 중요하다. 문서 본문에서 구분선으로 쓰는
+            # `---`가 여러 파일에 흩어져 있는데, 하나로 병합하면 pandoc이 두 `---` 사이를
+            # YAML 메타데이터 블록으로 오인해 파싱에 실패한다(저장소 규칙상 문서에는
+            # YAML front matter를 두지 않으므로 이 확장은 애초에 필요 없다).
+            # 제목·저자는 아래 -M 옵션으로 전달하므로 영향받지 않는다.
+            "-f", "markdown-yaml_metadata_block+east_asian_line_breaks+pipe_tables+footnotes",
             "-t", "latex",
             "--pdf-engine=xelatex",
             "--toc", "--toc-depth=3",
