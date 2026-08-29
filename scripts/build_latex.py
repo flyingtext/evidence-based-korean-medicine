@@ -17,6 +17,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+from datetime import date
 from pathlib import Path
 
 MAX_STRUCT_LEVEL = 3   # 폴더 계층은 chapter(1)/section(2)/subsection(3)까지만 구조화
@@ -128,6 +129,12 @@ class Collector:
         self.parts: list[str] = []
         self._file_counter = 0
         self.file_count = 0
+        # 문서 파일의 제목이 배치되는 최대 헤딩 레벨. LaTeX 자동 번호를 이
+        # 레벨까지만 매기고 그보다 깊은(=각 문서 내부의) 헤딩은 번호를 붙이지
+        # 않기 위해 기록한다. 저장소 문서는 본문에서 이미 "제1편", "1.",
+        # "1-1." 같은 자체 번호를 쓰므로, 그 위에 LaTeX 번호까지 찍히면
+        # "2.1.1.1.1  1-1. 간의 배속" 처럼 번호가 이중으로 나온다.
+        self.max_file_level = 0
 
     def next_file_id(self) -> str:
         self._file_counter += 1
@@ -152,6 +159,7 @@ class Collector:
         body = namespace_footnotes(body, self.next_file_id())
         body = shift_whole_file(body, level)
         self.file_count += 1
+        self.max_file_level = max(self.max_file_level, level)
         self.parts.append(body)
         self.parts.append("")
 
@@ -168,8 +176,10 @@ class Collector:
         subdirs.sort(key=lambda p: order_key(p.name))
         files.sort(key=lambda p: order_key(p.name))
 
-        if depth >= 1:
-            self.add_folder_heading(dir_path, depth)
+        # 루트 폴더(depth 0)도 포함한다. 예전에는 depth >= 1 조건을 두어
+        # 루트 README를 통째로 빠뜨렸고, 그 결과 루트 바로 아래의 문서들이
+        # 앞선 chapter 없이 section으로 시작해 번호가 "0.1"부터 매겨졌다.
+        self.add_folder_heading(dir_path, max(depth, 1))
 
         for f in files:
             self.add_file(f, depth)
@@ -192,8 +202,11 @@ HEADER_INCLUDES_TEMPLATE = r"""
 \setCJKfallbackfamilyfont{{\CJKrmdefault}}{{{cjk_fallback_font2}}}
 \XeTeXlinebreaklocale "ko"
 \XeTeXlinebreakskip = 0pt plus 1pt
-\setcounter{{tocdepth}}{{3}}
-\setcounter{{secnumdepth}}{{4}}
+% 번호는 저장소 구조(폴더→문서 제목)까지만 매긴다. 그보다 깊은 헤딩은
+% 각 문서의 본문이며, 본문은 이미 "제1편", "1.", "1-1." 같은 자체 번호를
+% 쓰고 있어 LaTeX 번호를 겹쳐 매기면 이중 번호가 된다.
+% (tocdepth는 pandoc이 --toc-depth로 이 뒤에 다시 설정하므로 여기서 다루지 않는다)
+\setcounter{{secnumdepth}}{{{secnumdepth}}}
 
 % 원문 인용에 흔한 동그라미숫자(①-⑳)·전각/특수 대시·따옴표 등은
 % 라틴 메인폰트(Times New Roman 등)에 글리프가 없는 경우가 많으므로,
@@ -230,6 +243,12 @@ def main() -> int:
                      help="본문 폰트에 없는 한자(고전 원문 이체자 등)를 위한 1차 대체 폰트")
     ap.add_argument("--cjk-fallback-font2", default="Songti SC",
                      help="2차 대체 폰트")
+    ap.add_argument("--date", default=None,
+                     help="표지에 찍을 날짜 (기본: 빌드 당일, 예 '2026년 8월 29일')")
+    ap.add_argument("--secnumdepth", type=int, default=None,
+                     help="번호를 매길 최대 헤딩 깊이. 기본값은 문서 제목이 놓이는 "
+                          "레벨로 자동 설정되어, 각 문서 본문의 자체 번호(제1편·1-1. 등)와 "
+                          "LaTeX 번호가 겹치지 않게 한다.")
     ap.add_argument("--pdf", action="store_true", help="latexmk(xelatex)로 PDF까지 빌드")
     ap.add_argument("--keep-md", action="store_true", help="병합된 중간 마크다운(.merged.md)도 보존")
     args = ap.parse_args()
@@ -252,6 +271,22 @@ def main() -> int:
     merged_md = collector.build(root)
     print(f"      총 {collector.file_count}개 마크다운 조각(폴더 README 포함)을 병합했습니다.")
 
+    # 번호는 문서 제목 레벨까지만 매기고, 그보다 깊은 각 문서 본문은 자체
+    # 번호(제1편·1-1. 등)를 쓰므로 LaTeX 번호를 붙이지 않는다.
+    # 주의: LaTeX의 secnumdepth는 chapter=0 기준이라 마크다운 헤딩 레벨보다 1 작다
+    # (--top-level-division=chapter 기준: md 1=chapter(0), 2=section(1), 3=subsection(2)).
+    md_level = args.secnumdepth if args.secnumdepth is not None else max(collector.max_file_level, 2)
+    secnumdepth = md_level - 1
+    # 목차는 문서 제목보다 한 단계 더(각 문서의 편·막 수준까지) 보여준다.
+    # pandoc의 --toc-depth는 마크다운 레벨 단위다.
+    toc_depth_md = min(md_level + 1, MAX_HEADING_LEVEL)
+    print(f"      번호 매김: 마크다운 레벨 {md_level}까지 (LaTeX secnumdepth={secnumdepth}), "
+          f"목차: 마크다운 레벨 {toc_depth_md}까지")
+
+    doc_date = args.date if args.date is not None else (
+        f"{date.today().year}년 {date.today().month}월 {date.today().day}일"
+    )
+
     if args.keep_md:
         merged_md_path = out_path.with_suffix(".merged.md")
         merged_md_path.write_text(merged_md, encoding="utf-8")
@@ -268,6 +303,7 @@ def main() -> int:
             HEADER_INCLUDES_TEMPLATE.format(
                 cjk_fallback_font=args.cjk_fallback_font,
                 cjk_fallback_font2=args.cjk_fallback_font2,
+                secnumdepth=secnumdepth,
             ),
             encoding="utf-8",
         )
@@ -285,7 +321,7 @@ def main() -> int:
             "-f", "markdown-yaml_metadata_block+east_asian_line_breaks+pipe_tables+footnotes",
             "-t", "latex",
             "--pdf-engine=xelatex",
-            "--toc", "--toc-depth=3",
+            "--toc", f"--toc-depth={toc_depth_md}",
             "--top-level-division=chapter",
             "-V", "documentclass=report",
             "-V", "papersize=a4",
@@ -302,7 +338,7 @@ def main() -> int:
             "--include-in-header", str(header_path),
             "-M", f"title={args.title}",
             "-M", f"author={args.author}",
-            "-M", "date=\\today",
+            "-M", f"date={doc_date}",
             "--wrap=preserve",
         ]
         proc = subprocess.run(cmd, capture_output=True, text=True)
