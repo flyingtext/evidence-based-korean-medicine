@@ -1264,6 +1264,7 @@
 [^124]: Study on canceration law of gastric mucosal dysplasia based on syndromes of Chinese medicine. _Chinese journal of integrative medicine_. 2011-05. (환자 324명) [관찰연구] [DOI 10.1007/s11655-011-0616-3](https://doi.org/10.1007/s11655-011-0616-3) [PMID 21611897](https://pubmed.ncbi.nlm.nih.gov/21611897/) — 해당 근거의 임상적 의미.
 
 [^125]: Traditional Chinese medicine and formulations for the treatment of colorectal cancer: Preclinical studies based on the concept of strengthening the body and eliminating pathogens. _Cancer letters_. 2026-05-01. [문헌 고찰] [DOI 10.1016/j.canlet.2026.218390](https://doi.org/10.1016/j.canlet.2026.218390) [PMID 41780843](https://pubmed.ncbi.nlm.nih.gov/41780843/) — 해당 근거의 임상적 의미.
+
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(靈蘭秘典論, 六節臟象論, 五藏生成篇, 痿論, 舉痛論, 調經論), 『靈樞』(本神, 邪客, 經脈, 決氣, 平人絶穀), 『難經』(四十二難), 『傷寒論』, 『金匱要略』(血痺虛勞病脈證并治), 『濟生方』(歸脾湯), 『千金要方』, 『景岳全書』, 『醫宗金鑑』

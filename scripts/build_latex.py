@@ -69,6 +69,33 @@ def shift_whole_file(text: str, target_level: int) -> str:
     return shift_headings(text, target_level - lvl)
 
 
+SETEXT_RULE_RE = re.compile(r"^\s*(-{3,}|={3,})\s*$")
+
+
+def isolate_thematic_breaks(text: str) -> str:
+    """구분선(`---`) 앞에 빈 줄이 없으면 넣어 준다.
+
+    마크다운에서 본문 줄 바로 아래에 `---`가 오면 수평선이 아니라 **setext
+    헤딩(H2)** 이 된다. 저장소 문서는 헤딩을 전부 ATX(`#`)로 쓰므로 이런
+    배치는 언제나 실수이며, 방치하면 그 앞 줄이 통째로 제목이 되어버린다
+    (실제로 각주 정의 한 줄이 목차에 섹션으로 올라온 사례가 있었다).
+    표 구분선(`|---|`)은 `|`로 시작하므로 여기 걸리지 않는다.
+    """
+    lines = text.splitlines()
+    out: list[str] = []
+    in_code = False
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith("```") or stripped.startswith("~~~"):
+            in_code = not in_code
+            out.append(line)
+            continue
+        if not in_code and SETEXT_RULE_RE.match(line) and out and out[-1].strip():
+            out.append("")
+        out.append(line)
+    return "\n".join(out)
+
+
 def namespace_footnotes(text: str, file_id: str) -> str:
     """각 파일이 독립적으로 [^1], [^2]...를 쓰므로, 하나의 문서로 합칠 때
     식별자가 서로 충돌하지 않도록 파일별 고유 접두어를 붙인다."""
@@ -135,6 +162,10 @@ class Collector:
         # "1-1." 같은 자체 번호를 쓰므로, 그 위에 LaTeX 번호까지 찍히면
         # "2.1.1.1.1  1-1. 간의 배속" 처럼 번호가 이중으로 나온다.
         self.max_file_level = 0
+        # 가장 얕은 곳에 있는 문서의 레벨. 폴더 깊이가 뒤섞인 트리에서는
+        # 이 값을 번호 매김 한계로 삼아야 어떤 문서에서도 본문 헤딩에 번호가
+        # 겹치지 않는다(가장 얕은 문서의 본문이 곧 가장 낮은 번호 레벨이므로).
+        self.min_file_level = MAX_HEADING_LEVEL
 
     def next_file_id(self) -> str:
         self._file_counter += 1
@@ -145,6 +176,7 @@ class Collector:
         readme = dir_path / "README.md"
         if readme.exists():
             body = readme.read_text(encoding="utf-8")
+            body = isolate_thematic_breaks(body)
             body = namespace_footnotes(body, self.next_file_id())
             body = shift_whole_file(body, level)
             self.file_count += 1
@@ -156,10 +188,12 @@ class Collector:
     def add_file(self, file_path: Path, depth: int) -> None:
         level = min(struct_level_for_depth(depth) + 1, MAX_HEADING_LEVEL)
         body = file_path.read_text(encoding="utf-8")
+        body = isolate_thematic_breaks(body)
         body = namespace_footnotes(body, self.next_file_id())
         body = shift_whole_file(body, level)
         self.file_count += 1
         self.max_file_level = max(self.max_file_level, level)
+        self.min_file_level = min(self.min_file_level, level)
         self.parts.append(body)
         self.parts.append("")
 
@@ -275,7 +309,7 @@ def main() -> int:
     # 번호(제1편·1-1. 등)를 쓰므로 LaTeX 번호를 붙이지 않는다.
     # 주의: LaTeX의 secnumdepth는 chapter=0 기준이라 마크다운 헤딩 레벨보다 1 작다
     # (--top-level-division=chapter 기준: md 1=chapter(0), 2=section(1), 3=subsection(2)).
-    md_level = args.secnumdepth if args.secnumdepth is not None else max(collector.max_file_level, 2)
+    md_level = args.secnumdepth if args.secnumdepth is not None else max(collector.min_file_level, 2)
     secnumdepth = md_level - 1
     # 목차는 문서 제목보다 한 단계 더(각 문서의 편·막 수준까지) 보여준다.
     # pandoc의 --toc-depth는 마크다운 레벨 단위다.
