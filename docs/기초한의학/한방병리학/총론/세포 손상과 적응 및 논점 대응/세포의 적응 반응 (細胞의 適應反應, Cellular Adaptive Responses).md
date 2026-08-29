@@ -1137,7 +1137,10 @@ H. pylori 박멸 후 위축성 위염·장상피화생이 역전될 수 있다�
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(擧痛論, 痿論, 調經論, 通評虛實論, 骨空篇, 五藏生成篇), 『靈樞』(本神, 營衛生會, 脈度), 『難經』, 『金匱要略』, 『諸病源候論』, 『景岳全書』, 『醫宗金鑑』, 『臨證指南醫案』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-29 조회 기준[^1]: [Insulin-derived amyloidosis (insulin ball) and skin-related complications of insulin therapy].. Nagase T 외. _Nihon yakurigaku zasshi. Folia pharmacologica Japonica_. 2023. [문헌 고찰] [DOI 10.1254/fpj.22109](https://doi.org/10.1254/fpj.22109) [PMID 36858501](https://pubmed.ncbi.nlm.nih.gov/36858501/) — 인슐린 투여 부위의 아밀로이드증(인슐린 볼)은 지방비대보다 인슐린 흡수를 더 심하게 저하시켜 혈당 조절 실패와 인슐린 용량 증가를 유발할 수 있으므로 주의 깊은 감별 진단이 필요합니다. 임상에서는 인슐린 주사 부위를 주기적으로 관찰하고 올바른 주사 기법을 교육하여 예방하는 것이 중요하며, 이미 발생한 경우에는 해당 부위를 피해 주사하고 필요 시 인슐린 용량을 조절해야 합니다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-29 조회 기준
+
+
+[^1]: [Insulin-derived amyloidosis (insulin ball) and skin-related complications of insulin therapy].. Nagase T 외. _Nihon yakurigaku zasshi. Folia pharmacologica Japonica_. 2023. [문헌 고찰] [DOI 10.1254/fpj.22109](https://doi.org/10.1254/fpj.22109) [PMID 36858501](https://pubmed.ncbi.nlm.nih.gov/36858501/) — 인슐린 투여 부위의 아밀로이드증(인슐린 볼)은 지방비대보다 인슐린 흡수를 더 심하게 저하시켜 혈당 조절 실패와 인슐린 용량 증가를 유발할 수 있으므로 주의 깊은 감별 진단이 필요합니다. 임상에서는 인슐린 주사 부위를 주기적으로 관찰하고 올바른 주사 기법을 교육하여 예방하는 것이 중요하며, 이미 발생한 경우에는 해당 부위를 피해 주사하고 필요 시 인슐린 용량을 조절해야 합니다.
 
 [^1_MDS_BALL]: [Insulin-derived amyloidosis (insulin ball) and skin-related complications of insulin therapy].. Nagase T 외. _Nihon yakurigaku zasshi. Folia pharmacologica Japonica_. 2023. [문헌 고찰] [DOI 10.1254/fpj.22109](https://doi.org/10.1254/fpj.22109) [PMID 36858501](https://pubmed.ncbi.nlm.nih.gov/36858501/) — 인슐린 투여 부위의 아밀로이드증(인슐린 볼)은 지방비대보다 인슐린 흡수를 더 심하게 저하시켜 혈당 조절 실패와 인슐린 용량 증가를 유발할 수 있으므로 주의 깊은 감별 진단이 필요합니다. 임상에서는 인슐린 주사 부위를 주기적으로 관찰하고 올바른 주사 기법을 교육하여 예방하는 것이 중요하며, 이미 발생한 경우에는 해당 부위를 피해 주사하고 필요 시 인슐린 용량을 조절해야 합니다.
 
