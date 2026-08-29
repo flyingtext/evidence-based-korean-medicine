@@ -16,7 +16,7 @@
 
 | 문서 | 분량 | 인용 각주 |
 | --- | --- | --- |
-| 세포의 적응 반응 (細胞의 適應反應, Cellular Adaptive Responses) | 1,139줄 | — |
+| ✅ 세포의 적응 반응 (細胞의 適應反應, Cellular Adaptive Responses) | 1,572줄 | 216건 |
 | 정기와 세포 적응 예비능 (正氣-細胞適應豫備能, Zheng Qi and Cellular Adaptive Reserve) | 582줄 | 108건 |
 
 > 이 표는 폴더 내 문서의 작성 진척을 조망하기 위한 색인이며, 분량·각주 수가 문서의 임상적 중요도나 근거 수준을 뜻하지 않는다.
