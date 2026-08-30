@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%B0%91%E6%9E%97%E7%9C%9F%E5%82%B3%E5%82%B7%E7%A7%91%E7%A7%98%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "少林真傳傷科秘方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:33:26.977727+00:00",
+    "html_sha256": "ee759502dc9c5e532afeadb635a5a18475f434714d9a803261bde78456204a83",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/少林真傳傷科秘方(J008)/표점본.md",
+  "blocks": {
+    "total": 275,
+    "by_tag": {
+      "div": 269,
+      "h1": 1,
+      "h2": 5
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 11664,
+    "extracted_han_sha256": "38d9ecd46d5fa54af0c56f1c24be6f26643b0fedbded90e3ecd501592093fb99",
+    "source_han_characters": 10614,
+    "source_han_sha256": "553c5ac680d93b88e124a67e28cb8baaba92c0d6e9fc575fc679ba3d978807da",
+    "han_length_ratio": 1.098926,
+    "han_sequence_quick_ratio": 0.947212,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11802,
+    "output_non_punctuation_characters": 11802,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 93,
+    "insert": 154
+  }
+}

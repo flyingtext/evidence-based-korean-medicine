@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E6%80%A5%E6%95%91%E4%BE%BF%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "急救便方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:29:50.550164+00:00",
+    "html_sha256": "5270dff5002e891c4fbf1a7c13b147eeea6dbb0f012f8e94e549367a5b4b8287",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/急救便方(D035)/표점본.md",
+  "blocks": {
+    "total": 409,
+    "by_tag": {
+      "div": 239,
+      "h1": 17,
+      "h2": 153
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 14444,
+    "extracted_han_sha256": "0a065cd900ac16ee95883f44a27ad90cce459e6a55bc5d2d52a1a9e69cc488f5",
+    "source_han_characters": 12060,
+    "source_han_sha256": "4bb353bcffc879d03ede84446466939346307b0e8380a2a679fa2e26a9b6ada1",
+    "han_length_ratio": 1.197678,
+    "han_sequence_quick_ratio": 0.902883,
+    "han_exact_match": false,
+    "punctuation_density": 0.156973
+  },
+  "source_path": "D/D035.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.903155
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 14437,
+    "output_non_punctuation_characters": 14437,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 1,
+    "delete": 0,
+    "insert": 0
+  }
+}

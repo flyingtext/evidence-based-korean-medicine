@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html",
+    "site": "jicheng.tw",
+    "page_title": "奇經八脈考",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:29:52.494926+00:00",
+    "html_sha256": "2a679aa5982e5e142d02a513a839c27c9091468ff121af8ccc8e2637b27f9efc",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/奇經八脈考(O105)/표점본.md",
+  "blocks": {
+    "total": 193,
+    "by_tag": {
+      "div": 175,
+      "h1": 18
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 12155,
+    "extracted_han_sha256": "971d0fd5247b84e53fe7b429231d5849011d7ae8ddf6b06ca73db72399505486",
+    "source_han_characters": 12041,
+    "source_han_sha256": "0c6ef61a655484651a8d674c14f8f84c3f78c8e53c075ccecc733077f53da199",
+    "han_length_ratio": 1.009468,
+    "han_sequence_quick_ratio": 0.986444,
+    "han_exact_match": false,
+    "punctuation_density": 0.17602
+  },
+  "source_path": "O/O105.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.986438
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 12301,
+    "output_non_punctuation_characters": 12301,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 72,
+    "insert": 156
+  }
+}

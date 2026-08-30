@@ -1,0 +1,12 @@
+{
+  "source_path": "O/O055.txt",
+  "title": "韓氏醫通",
+  "source_fullwidth_spaces": 154,
+  "restored_or_normalized_positions": 45,
+  "preserved_layout_spaces": 109,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": ["jicheng 최신 전문", "CText 《周氏醫學叢書》 영인", "識典古籍·中醫世家 독립 전사 대조"],
+  "evidence_urls": ["https://jicheng.tw/tcm/book/%E9%9F%93%E6%B0%8F%E9%86%AB%E9%80%9A/index.html", "https://ctext.org/library.pl?if=gb&res=78957", "https://www.shidianguji.com/zh/book/NA08178/chapter/1kye5sqg2rwnd", "https://www.zysj.com.cn/lilunshuji/hanshiyitong5387/quanben.html"],
+  "corrected_body_sha256": "e7b33d33b90ac48994f9c0fbbe08bcf269bfe4c5f0014ad62a2f6e864696a6c7"
+}

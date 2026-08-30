@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%A6%AC%E7%8E%8B%E5%A0%86%E7%B0%A1%E5%B8%9B/index.html",
+    "site": "jicheng.tw",
+    "page_title": "馬王堆簡帛",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:33:28.666254+00:00",
+    "html_sha256": "97e1ccc12d0e27eb7d4b9d49f3f76d374a9693ca22d2739c9f4f48e636a9c3ec",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/馬王堆簡帛(A500)/표점본.md",
+  "blocks": {
+    "total": 192,
+    "by_tag": {
+      "div": 184,
+      "h2": 8
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 9627,
+    "extracted_han_sha256": "0b9ad8f79c5d1d019755bce129b3f46963b6236df3966b13f9c3b20efbf8a8e2",
+    "source_han_characters": 9603,
+    "source_han_sha256": "b4de6f1e865a8bd5aee08445742c702f1f1eb18cd9958b4ec0e7783065c8050c",
+    "han_length_ratio": 1.002499,
+    "han_sequence_quick_ratio": 0.997088,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11933,
+    "output_non_punctuation_characters": 11933,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 2192,
+    "delete": 72,
+    "insert": 0
+  }
+}

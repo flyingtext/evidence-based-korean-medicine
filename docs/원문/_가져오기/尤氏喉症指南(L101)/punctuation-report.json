@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%B0%A4%E6%B0%8F%E5%96%89%E7%97%87%E6%8C%87%E5%8D%97/index.html",
+    "site": "jicheng.tw",
+    "page_title": "尤氏喉症指南",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:33:28.008638+00:00",
+    "html_sha256": "518efd321c8e3238bdcbd99db3f03c2c82d88e93c72e3b15501816c9d5e8e90e",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/尤氏喉症指南(L101)/표점본.md",
+  "blocks": {
+    "total": 281,
+    "by_tag": {
+      "div": 254,
+      "h1": 27
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 11025,
+    "extracted_han_sha256": "4f0035f308301d80037a953251b1b27b9ed6810dd307ed663877e1e1d8583ccb",
+    "source_han_characters": 10989,
+    "source_han_sha256": "1f24f7623695682a8f046590f69807b2eb9cf85c1160d59ef652820190b620f2",
+    "han_length_ratio": 1.003276,
+    "han_sequence_quick_ratio": 0.988553,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11185,
+    "output_non_punctuation_characters": 11185,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 79,
+    "insert": 172
+  }
+}

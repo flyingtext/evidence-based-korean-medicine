@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E5%BF%83%E5%82%B3/index.html",
+    "site": "jicheng.tw",
+    "page_title": "證治心傳",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:29:51.215261+00:00",
+    "html_sha256": "3aeea21dc5fb4844ae734b87617ca70a9c5544c69a475fb0f6630f80a075eac9",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/證治心傳(N031)/표점본.md",
+  "blocks": {
+    "total": 79,
+    "by_tag": {
+      "div": 63,
+      "h1": 2,
+      "h2": 14
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 12730,
+    "extracted_han_sha256": "53cd7a11ef49d23f8f5205cad4a1a9757257e8bc3a7b5e4c3f3e97138976e2ff",
+    "source_han_characters": 12724,
+    "source_han_sha256": "8507599bb5a09376abf038d7c6ff4fa9095d00e661ad59c8dafcc04f643df066",
+    "han_length_ratio": 1.000472,
+    "han_sequence_quick_ratio": 0.992693,
+    "han_exact_match": false,
+    "punctuation_density": 0.160251
+  },
+  "source_path": "N/N031.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.99269
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 12724,
+    "output_non_punctuation_characters": 12724,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 2
+  }
+}

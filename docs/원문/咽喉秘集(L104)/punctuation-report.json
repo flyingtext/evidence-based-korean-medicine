@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%92%BD%E5%96%89%E7%A7%98%E9%9B%86/index.html",
+    "site": "jicheng.tw",
+    "page_title": "咽喉秘集",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:29:51.855755+00:00",
+    "html_sha256": "60477438a1a76bd221fe84b613dfd235c9117eaafc944fee426867695766327e",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/咽喉秘集(L104)/표점본.md",
+  "blocks": {
+    "total": 330,
+    "by_tag": {
+      "div": 227,
+      "h1": 4,
+      "h2": 99
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 12085,
+    "extracted_han_sha256": "4e42703d5c216af63c0e0dcb951691b5cb6766f1cc17b7e62e9974418892396f",
+    "source_han_characters": 12060,
+    "source_han_sha256": "bd55144abbdbff4b000a680fed566b724c161ea1c01f3b7d80eab73a5c1ed305",
+    "han_length_ratio": 1.002073,
+    "han_sequence_quick_ratio": 0.987285,
+    "han_exact_match": false,
+    "punctuation_density": 0.136781
+  },
+  "source_path": "L/L104.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.987198
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 12159,
+    "output_non_punctuation_characters": 12159,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 82
+  }
+}

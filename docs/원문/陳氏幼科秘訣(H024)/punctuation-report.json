@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%99%B3%E6%B0%8F%E5%B9%BC%E7%A7%91%E7%A7%98%E8%A8%A3/index.html",
+    "site": "jicheng.tw",
+    "page_title": "陳氏幼科秘訣",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:33:29.478905+00:00",
+    "html_sha256": "753d99e0554d1463303237b5c253a1dc9579a45321b38d1dacdb717320e82fca",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/陳氏幼科秘訣(H024)/표점본.md",
+  "blocks": {
+    "total": 240,
+    "by_tag": {
+      "div": 206,
+      "h1": 34
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 11440,
+    "extracted_han_sha256": "4422b6c308a6b16de3d517ffd14a190a1cbc16fa02875f47ae4307d6acaa416b",
+    "source_han_characters": 11413,
+    "source_han_sha256": "6daf3a8627a337cf2cdab657ef1ecbbc0c0d9254217d7b7111efed0cf611ac3f",
+    "han_length_ratio": 1.002366,
+    "han_sequence_quick_ratio": 0.988842,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11502,
+    "output_non_punctuation_characters": 11502,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 79,
+    "insert": 74
+  }
+}
