@@ -12,7 +12,7 @@ import unicodedata
 from pathlib import Path
 from urllib.parse import urlparse
 
-from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book
+from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book, load_corrections
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -205,7 +205,7 @@ def validate_report(
         if source_path and source_path.is_file():
             source_root = DEFAULT_SOURCE.resolve()
             book = load_book(source_path, source_root)
-            corrections = json.loads(DEFAULT_CORRECTIONS.read_text(encoding="utf-8"))
+            corrections = load_corrections(DEFAULT_CORRECTIONS)
             apply_corrections(book, corrections)
             if book.warnings:
                 errors.append(f"{label}: 현재 교정 오버레이 적용 경고 {len(book.warnings)}건")

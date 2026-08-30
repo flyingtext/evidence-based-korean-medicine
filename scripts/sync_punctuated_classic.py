@@ -10,7 +10,7 @@ import re
 import unicodedata
 from pathlib import Path
 
-from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book
+from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book, load_corrections
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -113,7 +113,7 @@ def main() -> int:
 
     source_path = DEFAULT_SOURCE / args.source_path
     book = load_book(source_path, DEFAULT_SOURCE)
-    corrections = json.loads(DEFAULT_CORRECTIONS.read_text(encoding="utf-8"))
+    corrections = load_corrections(DEFAULT_CORRECTIONS)
     apply_corrections(book, corrections)
     if book.warnings:
         raise SystemExit(f"교정 적용 경고 {len(book.warnings)}건: {book.warnings[:3]}")

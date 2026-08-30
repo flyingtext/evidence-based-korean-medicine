@@ -21,7 +21,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book
+from convert_classics import (
+    DEFAULT_CORRECTIONS,
+    DEFAULT_SOURCE,
+    apply_corrections,
+    corrections_sha256,
+    load_book,
+    load_corrections,
+)
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -313,8 +320,7 @@ def main() -> int:
     raw = source.read_bytes()
     source_sha256 = hashlib.sha256(raw).hexdigest()
     book = load_book(source, DEFAULT_SOURCE.resolve())
-    corrections_raw = DEFAULT_CORRECTIONS.read_bytes()
-    corrections = json.loads(corrections_raw.decode("utf-8"))
+    corrections = load_corrections(DEFAULT_CORRECTIONS)
     apply_corrections(book, corrections)
     applied_correction_count = len(book.corrections)
     if book.warnings:
@@ -334,7 +340,7 @@ def main() -> int:
 
     identity = {
         "source_sha256": source_sha256,
-        "corrections_sha256": hashlib.sha256(corrections_raw).hexdigest(),
+        "corrections_sha256": corrections_sha256(DEFAULT_CORRECTIONS),
         "applied_corrections": applied_correction_count,
         "title": args.title,
         "model": args.model or "codex-default",
@@ -460,7 +466,7 @@ def main() -> int:
         "source": {"path": str(args.source), "sha256": source_sha256},
         "correction_overlay": {
             "path": str(DEFAULT_CORRECTIONS.relative_to(ROOT)),
-            "sha256": hashlib.sha256(corrections_raw).hexdigest(),
+            "sha256": corrections_sha256(DEFAULT_CORRECTIONS),
             "applied_count": applied_correction_count,
         },
         "output": str(args.output),

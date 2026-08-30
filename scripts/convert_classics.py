@@ -22,7 +22,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT.parent / "source"
 DEFAULT_OUTPUT = ROOT / "docs" / "원문" / "_가져오기"
-DEFAULT_CORRECTIONS = ROOT / "data" / "classics_corrections.json"
+DEFAULT_CORRECTIONS = ROOT / "data" / "classics_corrections"
 DEFAULT_METADATA_OVERRIDES = ROOT / "data" / "classics_metadata_overrides.json"
 BOOK_RE = re.compile(r"\[book\](.*?)\[/book\]", re.DOTALL | re.IGNORECASE)
 LEGACY_CATALOG_RE = re.compile(
@@ -52,6 +52,35 @@ INLINE_TAGS = {
     # [id]는 조문·목록 번호를 감싸는 식별 표식이다. 번호 내용만 보존한다.
     "id": ("", ""),
 }
+
+
+def load_corrections(path: Path = DEFAULT_CORRECTIONS) -> dict[str, list[dict]]:
+    """교정 오버레이 단일 JSON 또는 분할 JSON 디렉터리를 읽는다."""
+    if path.is_file():
+        payload = json.loads(path.read_text(encoding="utf-8"))
+        if not isinstance(payload, dict):
+            raise ValueError(f"교정 오버레이가 객체가 아님: {path}")
+        return payload
+    if not path.is_dir():
+        return {}
+    merged: dict[str, list[dict]] = {}
+    for shard in sorted(path.glob("*.json")):
+        payload = json.loads(shard.read_text(encoding="utf-8"))
+        if not isinstance(payload, dict):
+            raise ValueError(f"교정 조각이 객체가 아님: {shard}")
+        overlap = merged.keys() & payload.keys()
+        if overlap:
+            raise ValueError(f"교정 조각 키 중복: {shard} ({sorted(overlap)[:3]})")
+        merged.update(payload)
+    return merged
+
+
+def corrections_sha256(path: Path = DEFAULT_CORRECTIONS) -> str:
+    """파일 배치와 무관한 정규 JSON 기준 교정 오버레이 해시를 만든다."""
+    canonical = json.dumps(
+        load_corrections(path), ensure_ascii=False, sort_keys=True, separators=(",", ":")
+    ).encode("utf-8")
+    return hashlib.sha256(canonical).hexdigest()
 
 
 @dataclass
@@ -512,9 +541,7 @@ def main() -> int:
         load_book(path, source, metadata_overrides)
         for path in discover(source, args.include)
     ]
-    corrections = {}
-    if args.corrections.exists():
-        corrections = json.loads(args.corrections.read_text(encoding="utf-8"))
+    corrections = load_corrections(args.corrections)
     for book in books:
         apply_corrections(book, corrections)
     converted = []

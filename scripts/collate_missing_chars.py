@@ -9,12 +9,13 @@ import re
 from pathlib import Path
 from urllib.parse import quote
 
+from convert_classics import load_corrections
 from extract_jicheng_punctuated import JichengParser, fetch
 
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_ROOT = ROOT.parent / "source"
-CORRECTIONS = ROOT / "data" / "classics_corrections.json"
+CORRECTIONS = ROOT / "data" / "classics_corrections"
 CATALOG = ROOT / "data" / "classics_online_catalog.json"
 BOOK_RE = re.compile(r"\[book\](.*?)\[/book\]", re.DOTALL | re.IGNORECASE)
 TAG_RE = re.compile(r"\[/?[A-Za-z][A-Za-z0-9]*(?:=[^\]]*)?\]", re.IGNORECASE)
@@ -135,12 +136,21 @@ def main() -> int:
         args.output.parent.mkdir(parents=True, exist_ok=True)
         args.output.write_text(rendered, encoding="utf-8")
     if args.apply:
-        corrections = json.loads(CORRECTIONS.read_text(encoding="utf-8")) if CORRECTIONS.exists() else {}
+        corrections = load_corrections(CORRECTIONS)
         existing = corrections.get(args.source_path, [])
         seen_positions = {position for item in existing if (position := correction_position(body, item)) is not None}
         added = [item for item in items if correction_position(body, item) not in seen_positions]
         corrections[args.source_path] = existing + added
-        CORRECTIONS.write_text(json.dumps(corrections, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        shard_name = args.source_path.split("/", 1)[0] + ".json"
+        shard_path = CORRECTIONS / shard_name
+        shard_payload = {
+            key: value for key, value in corrections.items()
+            if key.split("/", 1)[0] == args.source_path.split("/", 1)[0]
+        }
+        CORRECTIONS.mkdir(parents=True, exist_ok=True)
+        shard_path.write_text(
+            json.dumps(shard_payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
         print(f"교정안 {len(items)}건, 신규 적용 {len(added)}건")
     else:
         print(rendered, end="")
