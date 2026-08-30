@@ -1,0 +1,51 @@
+[
+  {
+    "before": "先天圖KT　在上在南，後天圖KT　",
+    "after": "先天圖☰在上在南，後天圖☰",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 역괘 도형 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "流水皮HT，毫無空隙",
+    "after": "流水皮㿹，毫無空隙",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "形肥而勤於針HT　",
+    "after": "形肥而勤於針黹",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 어휘 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "氣為之充周而布KT　",
+    "after": "氣為之充周而布𮑮",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "為一生之橐　，百病之綱領",
+    "after": "為一生之橐籥，百病之綱領",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "為氣竭而HT　",
+    "after": "為氣竭而㐫",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  },
+  {
+    "before": "亦用燒KT　散",
+    "after": "亦用燒裩散",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 방명 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%86%AB%E5%BD%99%E8%AC%9B/index.html"
+  }
+]
