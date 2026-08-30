@@ -42,7 +42,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 157,
       "punctuation_status": "source_present",
-      "note": "莫枚士 청대 고전. 결자57곳 교정; 공백143·KT14 보류"
+      "note": "최신 교정 뒤 전각 공백 143자리와 KT 14자리가 남는다. `骨　屈伸`, 희귀 질병명, 본문에서 자형 자체를 논증하는 `釋KT` 구절은 현대 통용자 치환 시 원문의 문자학적 논지를 훼손할 수 있어 영인 확인 전 전부 보류했다."
     },
     "N/N036.txt": {
       "collation_status": "in_progress",
@@ -82,9 +82,9 @@
     },
     "N/N006.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 195,
+      "unresolved_candidates": 183,
       "punctuation_status": "source_present",
-      "note": "명대 고전. 결자62곳 교정; 공백188·HT1·KT6 판독 전 보류"
+      "note": "최신 감사에서 확정된 교정과 겹치지 않도록 고유 좌우 문맥의 약명·병명 12곳만 제안했다."
     },
     "K/K001.txt": {
       "collation_status": "in_progress",
@@ -318,7 +318,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 178,
       "punctuation_status": "source_present",
-      "note": "청대 고전. 결자94곳 교정; 공백178곳 판독 전 보류. [u]7쌍→<ins>"
+      "note": "기존 규칙과 중복되는 후보는 제외했다. 최신 교정 적용 순서에 따라 한 규칙이 겹쳐 보일 수 있으므로 감사 기준의 완전 적용 수치를 사용했다."
     },
     "C/C015.txt": {
       "collation_status": "in_progress",
@@ -2974,9 +2974,9 @@
     },
     "C/C045.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 172,
+      "unresolved_candidates": 168,
       "punctuation_status": "source_present",
-      "note": "1904년 원간 공개 고전이며 현대 주석 의존 없음. 판면 공백598곳 확인. 공백168·[c] 외자4곳 판독이 남아 정본 이관 보류"
+      "note": "두 종류의 레거시 외자 코드 4곳을 각각 고유 문맥으로 복원했다. 기존 교정 규칙은 없다."
     },
     "C/C046.txt": {
       "collation_status": "in_progress",
@@ -3042,7 +3042,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 192,
       "punctuation_status": "source_present",
-      "note": "청대 공개 고전. jicheng 대조로 결자 131곳 복원·판면 공백 157곳 확인. 전각 공백 186·KT 6곳 판독이 남아 정본 이관 보류"
+      "note": "기존 규칙 중복·겹침을 피하기 위해 신규 규칙을 제안하지 않았다. 원판면 대조 전 승격 불가."
     },
     "B/B037.txt": {
       "collation_status": "in_progress",
@@ -3052,9 +3052,9 @@
     },
     "B/B039.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 182,
+      "unresolved_candidates": 163,
       "punctuation_status": "source_present",
-      "note": "1774년 공개 고전. jicheng 대조로 결자 190곳 복원·판면 공백 31곳 확인. 전각 공백 146·HT 1·KT 35곳 판독이 남아 정본 이관 보류"
+      "note": "기존 190개 규칙과 겹치지 않는 상한론 직접 인용·약명 19표식을 복원 제안했다."
     },
     "B/B013a.txt": {
       "collation_status": "complete",
@@ -3558,7 +3558,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 160,
       "punctuation_status": "source_present",
-      "note": "丁堯臣 1880년 청대 고전. jicheng 공개 전문으로 결자17곳을 복원했으나 전각 공백159·KT1이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+      "note": "최신 교정 뒤 전각 공백 159자리와 KT 1자리가 남는다. `黑豆至夜連皮研細KT眼上睡`의 KT는 `敷`·`罯` 계열 후보가 있으나 동일 처방의 독립 영인 또는 전사를 찾지 못해 확정하지 않았다."
     },
     "D/D057.txt": {
       "collation_status": "in_progress",
@@ -3636,7 +3636,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 191,
       "punctuation_status": "source_present",
-      "note": "馮兆張 1694년 청대 고전. jicheng·維基文庫 공개 전문으로 결자59곳을 복원했으나 전각 공백188·HT3이 결락·외자·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+      "note": "최신 59개 교정과 조판 공백 225개를 존중했다. 이번 재검토에서는 기존 규칙과 겹치지 않는 추가 확정 occurrence가 없어 전부 보류한다."
     },
     "G/G022.txt": {
       "collation_status": "in_progress",
@@ -3768,7 +3768,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 162,
       "punctuation_status": "source_present",
-      "note": "皇甫謐 256년 고전의 대체 전사본. [c] 외자 코드162곳은 현행 전문과의 전수 정렬 전 보류; 전각 공백·HT·KT·□ 없음"
+      "note": "[c] 외자 코드 162자리가 남는다. 동일 코드가 반복되는 경우에도 각 문맥을 별도로 점검했다. 예컨대 `bbapv`는 흉골 부위, `uumbc`는 안면 부위, `bwhd`는 肉의 해부 구조에서 반복되어 유력 대응자가 있으나, 코드표와 판본 정렬표 없이 코드 단위 일괄치환하지 않았다. occurrence-specific하게 확정할 독립 판면 좌표도 확보하지 못했다."
     },
     "I/I101.txt": {
       "collation_status": "in_progress",
@@ -3894,7 +3894,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 153,
       "punctuation_status": "source_present",
-      "note": "俞震 1778년 청대 고전. jicheng 공개 전문으로 결자280곳을 복원; 전각 공백153곳은 판면 전수 대조 전 보류. 원자료 저자 ‘俞震篡’은 ‘俞震纂’의 오기"
+      "note": "독립 공개 전사와 대조했으나 검색 가능한 범위가 일부 권차에 한정되고 잔여 표지를 직접 포함한 구절은 확인되지 않았다. `以　括其大略`, `入室HT之`, 지명 및 신체어 후보는 문맥 추정만으로 확정하지 않았다."
     },
     "N/N009.txt": {
       "collation_status": "in_progress",
@@ -3934,9 +3934,9 @@
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 169,
+      "unresolved_candidates": 153,
       "punctuation_status": "source_present",
-      "note": "石壽堂 1861년 청대 고전. 전각 공백144·HT18·KT7은 판면 전수 대조 전 보류. [u]6쌍은 <ins> 변환"
+      "note": "기존 규칙이 없는 원문에서 독립 대조가 가능한 성어·《大學》 직접 인용·《傷寒論》 고유 희자 8자리만 occurrence별로 제안했다."
     },
     "N/N059.txt": {
       "collation_status": "in_progress",
@@ -4162,9 +4162,9 @@
     },
     "O/O080.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 180,
+      "unresolved_candidates": 173,
       "punctuation_status": "source_present",
-      "note": "확정 correction 53건 준비; 잔여 180건. 1705-1758 청대 고전, 권리 안전. 원자료 표점 충분"
+      "note": "기존 준비·정본 규칙 53개와 중복되지 않는 인명 2곳과 희자 2자리만 occurrence별로 제안했다."
     },
     "O/O082.txt": {
       "collation_status": "in_progress",

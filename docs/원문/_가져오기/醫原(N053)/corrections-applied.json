@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "before": "（觀《大學》心有所忿HT　云云便知）",
+    "after": "（觀《大學》心有所忿懥云云便知）",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/text.pl?if=gb&node=588085",
+    "evidence_note": "《大學》의 직접 인용구 ‘心有所忿懥’가 독립 고전 전사에서 확인된다.",
+    "reason": "《大學》의 직접 인용구 ‘心有所忿懥’가 독립 고전 전사에서 확인된다."
+  },
+  {
+    "before": "其狀項強KT　KT　，此得之地氣",
+    "after": "其狀項強𠘧𠘧，此得之地氣",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "葛根湯 병후의 고유 표현 ‘項強𠘧𠘧’ 및 𠘧의 자형·풀이가 확인된다.",
+    "reason": "葛根湯 병후의 고유 표현 ‘項強𠘧𠘧’ 및 𠘧의 자형·풀이가 확인된다."
+  },
+  {
+    "before": "又多項背強KT　KT　（伸頸之貌，因強所致）一條",
+    "after": "又多項背強𠘧𠘧（伸頸之貌，因強所致）一條",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "《傷寒論》 桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’과 일치한다.",
+    "reason": "《傷寒論》 桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’과 일치한다."
+  },
+  {
+    "before": "而項背KT　KT　，邪近經脈",
+    "after": "而項背𠘧𠘧，邪近經脈",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다.",
+    "reason": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다."
+  }
+]

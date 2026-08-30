@@ -1518,5 +1518,45 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E7%B6%B1%E7%9B%AE/index.html",
     "evidence_note": "B/B039.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "太陽病。項背強KT　KT　。反汗出惡風者。桂枝加葛根湯主之",
+    "after": "太陽病。項背強𠘧𠘧。反汗出惡風者。桂枝加葛根湯主之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’.",
+    "reason": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’."
+  },
+  {
+    "before": "劇則如驚癇。時螈　",
+    "after": "劇則如驚癇。時螈瘲",
+    "expected_count": 3,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "화역 조문의 螈瘲; 같은 인용문 세 occurrence.",
+    "reason": "화역 조문의 螈瘲; 같은 인용문 세 occurrence."
+  },
+  {
+    "before": "宜小建中東加當歸。或四君子東加黃　",
+    "after": "宜小建中東加當歸。或四君子東加黃耆",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E7%B6%B1%E7%9B%AE/index.html",
+    "evidence_note": "처방 약명 黃耆.",
+    "reason": "처방 약명 黃耆."
+  },
+  {
+    "before": "而甚於懊　矣",
+    "after": "而甚於懊憹矣",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "상한 병후 懊憹.",
+    "reason": "상한 병후 懊憹."
+  },
+  {
+    "before": "補中益氣東加羌活、防風、升麻、　本",
+    "after": "補中益氣東加羌活、防風、升麻、藁本",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E7%B6%B1%E7%9B%AE/index.html",
+    "evidence_note": "풍약 藁本.",
+    "reason": "풍약 藁本."
   }
 ]

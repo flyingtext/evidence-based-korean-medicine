@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "before": "今之言補肺者。人參黃　",
+    "after": "今之言補肺者。人參黃耆",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "약명 人參·黃耆.",
+    "reason": "약명 人參·黃耆."
+  },
+  {
+    "before": "三曰風　。四曰風痹",
+    "after": "三曰風懿。四曰風痹",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "중풍 사분류 偏枯·風痱·風懿·風痹.",
+    "reason": "중풍 사분류 偏枯·風痱·風懿·風痹."
+  },
+  {
+    "before": "正氣引邪。　僻不遂",
+    "after": "正氣引邪。喎僻不遂",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E7%AD%8B",
+    "evidence_note": "경근 병후 喎僻不遂.",
+    "reason": "경근 병후 喎僻不遂."
+  },
+  {
+    "before": "若夫熱則生風者。不可謂盡得病於窗隙之風。縱有　斜等證",
+    "after": "若夫熱則生風者。不可謂盡得病於窗隙之風。縱有喎斜等證",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "중풍 병후 喎斜.",
+    "reason": "중풍 병후 喎斜."
+  },
+  {
+    "before": "即以黃　防風煮湯數十斛",
+    "after": "即以黃耆防風煮湯數十斛",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "熏治 약명 黃耆·防風.",
+    "reason": "熏治 약명 黃耆·防風."
+  },
+  {
+    "before": "用黃　一兩。當歸六錢",
+    "after": "用黃耆一兩。當歸六錢",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "當歸補血湯의 黃耆.",
+    "reason": "當歸補血湯의 黃耆."
+  },
+  {
+    "before": "而以黃　為主。陽旺能生陰血也",
+    "after": "而以黃耆為主。陽旺能生陰血也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "앞 처방 해설의 黃耆 반복.",
+    "reason": "앞 처방 해설의 黃耆 반복."
+  },
+  {
+    "before": "用參　歸芎黑薑以佐之",
+    "after": "用參耆歸芎黑薑以佐之",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "補氣藥 參耆.",
+    "reason": "補氣藥 參耆."
+  },
+  {
+    "before": "參　甘草補脾以固肺氣",
+    "after": "參耆甘草補脾以固肺氣",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "補脾固肺 약물 參耆·甘草.",
+    "reason": "補脾固肺 약물 參耆·甘草."
+  },
+  {
+    "before": "萆　（六兩壯筋骨）",
+    "after": "萆薢（六兩壯筋骨）",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+    "evidence_note": "약명 萆薢.",
+    "reason": "약명 萆薢."
+  }
+]

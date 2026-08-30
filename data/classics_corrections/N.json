@@ -17219,5 +17219,145 @@
       "evidence_note": "병증 㿉疝.",
       "reason": "병증 㿉疝."
     }
+  ],
+  "N/N053.txt": [
+    {
+      "before": "莫不探微抉奧，體用兼HT　。而又以其余力",
+      "after": "莫不探微抉奧，體用兼備。而又以其余力",
+      "expected_count": 1,
+      "evidence_url": "https://www.macaudata.mo/showbook?bno=j360075",
+      "evidence_note": "고정 성어 ‘體用兼備’가 독립 공개 문헌에서 확인되며 해당 서문의 문법과도 정확히 맞는다.",
+      "reason": "고정 성어 ‘體用兼備’가 독립 공개 문헌에서 확인되며 해당 서문의 문법과도 정확히 맞는다."
+    },
+    {
+      "before": "（觀《大學》心有所忿HT　云云便知）",
+      "after": "（觀《大學》心有所忿懥云云便知）",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/text.pl?if=gb&node=588085",
+      "evidence_note": "《大學》의 직접 인용구 ‘心有所忿懥’가 독립 고전 전사에서 확인된다.",
+      "reason": "《大學》의 직접 인용구 ‘心有所忿懥’가 독립 고전 전사에서 확인된다."
+    },
+    {
+      "before": "其狀項強KT　KT　，此得之地氣",
+      "after": "其狀項強𠘧𠘧，此得之地氣",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+      "evidence_note": "葛根湯 병후의 고유 표현 ‘項強𠘧𠘧’ 및 𠘧의 자형·풀이가 확인된다.",
+      "reason": "葛根湯 병후의 고유 표현 ‘項強𠘧𠘧’ 및 𠘧의 자형·풀이가 확인된다."
+    },
+    {
+      "before": "又多項背強KT　KT　（伸頸之貌，因強所致）一條",
+      "after": "又多項背強𠘧𠘧（伸頸之貌，因強所致）一條",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "《傷寒論》 桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’과 일치한다.",
+      "reason": "《傷寒論》 桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’과 일치한다."
+    },
+    {
+      "before": "而項背KT　KT　，邪近經脈",
+      "after": "而項背𠘧𠘧，邪近經脈",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다.",
+      "reason": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다."
+    }
+  ],
+  "N/N006.txt": [
+    {
+      "before": "今之言補肺者。人參黃　",
+      "after": "今之言補肺者。人參黃耆",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "약명 人參·黃耆.",
+      "reason": "약명 人參·黃耆."
+    },
+    {
+      "before": "三曰風　。四曰風痹",
+      "after": "三曰風懿。四曰風痹",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "중풍 사분류 偏枯·風痱·風懿·風痹.",
+      "reason": "중풍 사분류 偏枯·風痱·風懿·風痹."
+    },
+    {
+      "before": "正氣引邪。　僻不遂",
+      "after": "正氣引邪。喎僻不遂",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E7%AD%8B",
+      "evidence_note": "경근 병후 喎僻不遂.",
+      "reason": "경근 병후 喎僻不遂."
+    },
+    {
+      "before": "若夫熱則生風者。不可謂盡得病於窗隙之風。縱有　斜等證",
+      "after": "若夫熱則生風者。不可謂盡得病於窗隙之風。縱有喎斜等證",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "중풍 병후 喎斜.",
+      "reason": "중풍 병후 喎斜."
+    },
+    {
+      "before": "平素善飲。忽一日舌本硬強。語言不清。  口眼　斜",
+      "after": "平素善飲。忽一日舌本硬強。語言不清。  口眼喎斜",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "병후 口眼喎斜.",
+      "reason": "병후 口眼喎斜."
+    },
+    {
+      "before": "即以黃　防風煮湯數十斛",
+      "after": "即以黃耆防風煮湯數十斛",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "熏治 약명 黃耆·防風.",
+      "reason": "熏治 약명 黃耆·防風."
+    },
+    {
+      "before": "用黃　一兩。當歸六錢",
+      "after": "用黃耆一兩。當歸六錢",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "當歸補血湯의 黃耆.",
+      "reason": "當歸補血湯의 黃耆."
+    },
+    {
+      "before": "而以黃　為主。陽旺能生陰血也",
+      "after": "而以黃耆為主。陽旺能生陰血也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "앞 처방 해설의 黃耆 반복.",
+      "reason": "앞 처방 해설의 黃耆 반복."
+    },
+    {
+      "before": "用參　歸芎黑薑以佐之",
+      "after": "用參耆歸芎黑薑以佐之",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "補氣藥 參耆.",
+      "reason": "補氣藥 參耆."
+    },
+    {
+      "before": "二藥愈。男女俱有之。縱使引得火歸。  又須以參　補陽兼補陰",
+      "after": "二藥愈。男女俱有之。縱使引得火歸。  又須以參耆補陽兼補陰",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "補陽兼補陰 약물 參耆.",
+      "reason": "補陽兼補陰 약물 參耆."
+    },
+    {
+      "before": "參　甘草補脾以固肺氣",
+      "after": "參耆甘草補脾以固肺氣",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "補脾固肺 약물 參耆·甘草.",
+      "reason": "補脾固肺 약물 參耆·甘草."
+    },
+    {
+      "before": "萆　（六兩壯筋骨）",
+      "after": "萆薢（六兩壯筋骨）",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+      "evidence_note": "약명 萆薢.",
+      "reason": "약명 萆薢."
+    }
   ]
 }

@@ -1628,9 +1628,12 @@
       "output_directory": "傷寒論綱目(B039)",
       "markdown_files": 19,
       "translation_units": 222,
-      "corrections_applied": 190,
+      "corrections_applied": 195,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '太陽病。項背強KT\\u3000KT\\u3000。無汗惡風者。葛根湯主之' (3/2)",
+        "교정 불일치: '直視不能\\u3000。不得眠' (2/1)"
+      ]
     },
     {
       "source_path": "B/B040.txt",
@@ -2687,7 +2690,12 @@
       "translation_units": 121,
       "corrections_applied": 0,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '搗菟絲子苗絞取汁，敷之，不過三次，以菟絲子汁去面[c]wfmj[/c]' (0/1)",
+        "교정 불일치: '此方今之醫籍未載，敷之三次，面[c]wfmj[/c]焉得不去' (0/1)",
+        "교정 불일치: '產後腹中[c]kmvs[/c]痛，當歸芍藥散主之' (0/1)",
+        "교정 불일치: '當歸芍藥散治腹中[c]kmvs[/c]痛，及婦人一切腹中諸疾痛' (0/1)"
+      ]
     },
     {
       "source_path": "C/C046.txt",
@@ -9705,9 +9713,12 @@
       "output_directory": "醫貫(N006)",
       "markdown_files": 7,
       "translation_units": 41,
-      "corrections_applied": 0,
+      "corrections_applied": 10,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '二藥愈。男女俱有之。縱使引得火歸。  又須以參\\u3000補陽兼補陰' (0/1)",
+        "교정 불일치: '平素善飲。忽一日舌本硬強。語言不清。  口眼\\u3000斜' (0/1)"
+      ]
     },
     {
       "source_path": "N/N007.txt",
@@ -10510,9 +10521,11 @@
       "output_directory": "醫原(N053)",
       "markdown_files": 7,
       "translation_units": 31,
-      "corrections_applied": 0,
+      "corrections_applied": 4,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '莫不探微抉奧，體用兼HT\\u3000。而又以其余力' (0/1)"
+      ]
     },
     {
       "source_path": "N/N054.txt",
@@ -12438,7 +12451,7 @@
       "output_directory": "四聖心源(O080)",
       "markdown_files": 18,
       "translation_units": 119,
-      "corrections_applied": 53,
+      "corrections_applied": 56,
       "punctuated": false,
       "warnings": []
     },

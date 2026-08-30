@@ -422,5 +422,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
     "evidence_note": "O/O080.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "辛丑歲初夏，先君HT　樓公抱恙",
+    "after": "辛丑歲初夏，先君䔿樓公抱恙",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
+    "evidence_note": "공개 전문 서문에서 부친의 호가 ‘䔿樓公’으로 직접 확인된다.",
+    "reason": "공개 전문 서문에서 부친의 호가 ‘䔿樓公’으로 직접 확인된다."
+  },
+  {
+    "before": "先君HT　樓公，辛丑夏抱恙",
+    "after": "先君䔿樓公，辛丑夏抱恙",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
+    "evidence_note": "같은 인명의 두 번째 occurrence 역시 ‘䔿樓公’으로 확인된다.",
+    "reason": "같은 인명의 두 번째 occurrence 역시 ‘䔿樓公’으로 확인된다."
+  },
+  {
+    "before": "一目KTKT　，竟作小冠子夏",
+    "after": "一目䀮䀮，竟作小冠子夏",
+    "expected_count": 1,
+    "evidence_url": "https://dokumen.pub/e985eaa7c5381cac3aa9fa994b153d21.html",
+    "evidence_note": "《四聖心源》의 해당 문장을 인용한 독립 어휘 연구 자료에서 ‘一目䀮䀮，竟作小冠子夏’로 확인된다.",
+    "reason": "《四聖心源》의 해당 문장을 인용한 독립 어휘 연구 자료에서 ‘一目䀮䀮，竟作小冠子夏’로 확인된다."
   }
 ]
