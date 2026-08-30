@@ -1,0 +1,40 @@
+{
+  "source_path": "P/P0014.txt",
+  "title": "醫宗金鑑‧正骨心法要旨",
+  "source_audit": {
+    "fullwidth_spaces": 807,
+    "HT": 1,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 224,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 27
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 755,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 252,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 27
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인·학술 자료 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+    "https://zh.wikisource.org/zh-hant/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8",
+    "https://ctext.org/wiki.pl?if=gb&res=200755",
+    "https://www.shidianguji.com/book/SK1502/chapter/1laqnw92luha8"
+  ],
+  "corrected_body_sha256": "73106bd4fe46eedce62a22b7207e94861a483e48730070f6cc1367edc3ed3cb7",
+  "note": "전각 공백 807곳·HT 1곳·[u] 224곳·[i] 도판 27곳 전수 판정. jicheng 五彩書局·四庫 계통과 Wikisource·CText·識典古籍 대조로 결자·OCR·탈락 교정 및 도판 27곳 보존, 원자료 표점 충분"
+}

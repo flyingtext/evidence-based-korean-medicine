@@ -1,0 +1,39 @@
+{
+  "source_path": "G/G015.txt",
+  "title": "女科秘旨",
+  "source_audit": {
+    "fullwidth_spaces": 1124,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 1,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 1104,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 1,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인·학술 자료 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%A7%98%E6%97%A8/index.html",
+    "https://zh.wikisource.org/wiki/%E5%A5%B3%E7%A7%91%E7%A7%98%E6%97%A8",
+    "https://www.zysj.com.cn/lilunshuji/nvkemizhi/328-5-17.html"
+  ],
+  "corrected_body_sha256": "59692333a984a00290c01123025b3553bf867e831e8698a1f06ef5409bf717db",
+  "note": "전각 공백 1124곳·[u] 1곳 전수 판정. jicheng 최신 전문과 Wikisource·中醫世家 대조로 OCR·탈락 교정, 오류 연도 범위를 1771년으로 보정, 원자료 표점 충분"
+}

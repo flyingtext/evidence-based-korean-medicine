@@ -1,0 +1,39 @@
+{
+  "source_path": "I/I104.txt",
+  "title": "癘瘍機要",
+  "source_audit": {
+    "fullwidth_spaces": 864,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 111,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 865,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 111,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인·학술 자료 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E7%99%98%E7%98%8D%E6%A9%9F%E8%A6%81/index.html",
+    "https://catalog.digitalarchives.tw/item/00/08/68/08.html",
+    "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972491"
+  ],
+  "corrected_body_sha256": "a21df506441b30987f5b4edf4645878dc643995780d730a4c2dae195922b99d5",
+  "note": "전각 공백 864곳·[u] 111곳 전수 판정. jicheng 國家圖書館 日本承應三年刊本과 국가도서관 서지·학술 인용 대조로 결자·OCR·탈락 전문 교정, 원자료 표점 충분"
+}

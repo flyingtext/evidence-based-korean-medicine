@@ -1,0 +1,40 @@
+{
+  "source_path": "G/G027.txt",
+  "title": "達生編",
+  "source_audit": {
+    "fullwidth_spaces": 428,
+    "HT": 1,
+    "KT": 1,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 5,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 1
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 408,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 5,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 1
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인·학술 자료 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%81%94%E7%94%9F%E7%B7%A8/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%81%94%E7%94%9F%E7%B7%A8",
+    "https://ctext.org/wiki.pl?if=gb&res=856570",
+    "https://commons.wikimedia.org/wiki/File%3A%E9%81%94%E7%94%9F%E7%B7%A8.djvu"
+  ],
+  "corrected_body_sha256": "19502900a4f41f761e0bad6358cf56939a9cb67a7192cd9f8a7b6da8d932c69e",
+  "note": "전각 공백 428곳·HT 1곳·KT 1곳·[u] 5곳·[i] 도판 1곳 전수 판정. jicheng 北京大學圖書館 스캔본과 Wikisource·CText·CADAL 영인 대조로 결자·OCR·탈락 교정 및 도판 보존, 원자료 표점 충분"
+}
