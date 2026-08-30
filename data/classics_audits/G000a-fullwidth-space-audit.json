@@ -1,0 +1,20 @@
+{
+  "source_path": "G/G000a.txt",
+  "title": "女科切要",
+  "source_fullwidth_spaces": 0,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 0,
+  "unresolved": 0,
+  "method": [
+    "jicheng.tw 최신 전문과 문자 단위 전역 정렬",
+    "Wikisource 독립 공개 전사 교차 확인",
+    "HT·KT·□·U+FFFD 및 [u] 변환 잔존 전수 검사",
+    "전각 공백 전수 판정"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E5%88%87%E8%A6%81/index.html",
+    "https://zh.wikisource.org/wiki/%E5%A5%B3%E7%A7%91%E5%88%87%E8%A6%81"
+  ],
+  "corrected_body_sha256": "5c011ca70aebc46024c7281d476d2b4d20aaeea6f5f7d644f56429ee74577647",
+  "note": "jicheng 최신 전문과 독립 공개 전사를 전역 대조해 레거시 [c] 외자 표식 9곳(6개 근거 단위)을 복원. 전각 공백·HT·KT·□·U+FFFD 잔존 0, 원자료 표점 충분"
+}

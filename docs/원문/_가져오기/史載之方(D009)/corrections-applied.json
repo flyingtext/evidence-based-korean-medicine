@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "before": "眼澀KT　急",
+    "after": "眼澀𧌴急",
+    "expected_count": 1,
+    "reason": "jicheng 최신 전문 대조 KT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
+    "evidence_note": "眼澀𧌴急 확인"
+  },
+  {
+    "before": "不要KT　，只生搗",
+    "after": "不要𭵶，只生搗",
+    "expected_count": 1,
+    "reason": "jicheng 최신 전문 대조 KT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
+    "evidence_note": "不要𭵶 확인"
+  },
+  {
+    "before": "百宋一KT　",
+    "after": "百宋一胋",
+    "expected_count": 1,
+    "reason": "jicheng 최신 전문 대조 KT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
+    "evidence_note": "百宋一胋 확인"
+  }
+]
