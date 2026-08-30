@@ -1,0 +1,21 @@
+{
+  "source_path": "O/O087.txt",
+  "title": "諸脈主病詩",
+  "source_fullwidth_spaces": 17,
+  "restored_or_normalized_positions": 10,
+  "preserved_layout_spaces": 7,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "jicheng 최신 전문 정렬",
+    "Wikisource 동일 전사 교차 대조",
+    "古書網 乾隆三十九年甲午刻本 계통 전사 및 서지 대조"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%AB%B8%E8%84%88%E4%B8%BB%E7%97%85%E8%A9%A9/index.html",
+    "https://zh.wikisource.org/zh-hant/%E8%AB%B8%E7%97%85%E4%B8%BB%E7%97%85%E8%A9%A9",
+    "https://gushu.net.cn/book/%E8%AB%B8%E8%84%88%E4%B8%BB%E7%97%85%E8%A9%A9/index.html"
+  ],
+  "corrected_body_sha256": "ece88f2f150e88252556f25b1703c468bd93076ba18afe9843cddc9e7e191971",
+  "note": "원자료의 전각 공백 17곳 중 문맥상 결락자 10곳은 胻胕·痌·癥瘕·㿗·駸駸·癍·㿗淋 등으로 복원했고, 부록 항목명 뒤의 레이아웃 공백 7곳은 보존했다. 원자료 서지 《諸病主病詩》·東軒居士·宋도 최신 저본 서지에 따라 《諸脈主病詩》·沈金鰲·清으로 바로잡았다."
+}

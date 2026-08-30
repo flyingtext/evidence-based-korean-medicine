@@ -1,0 +1,23 @@
+{
+  "source_path": "F/F023.txt",
+  "title": "三消論",
+  "source_fullwidth_spaces": 65,
+  "restored_or_normalized_positions": 5,
+  "preserved_layout_spaces": 60,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 65자리 전수 판정",
+    "jicheng 《周氏醫學叢書》 정리본 전문 대조",
+    "識典 독립 전사 및 학술 논문 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E4%B8%89%E6%B6%88%E8%AB%96/index.html",
+    "https://www.shidianguji.com/book/CZSYX030/chapter/1kxs3sqbjhe0v",
+    "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001520870",
+    "https://ctext.org/library.pl?if=gb&res=78952"
+  ],
+  "corrected_body_sha256": "a2af917fd2b6ccca4915b41555dec0cab7d7bd77114fcc36ff76677bbadf4c78",
+  "note": "전각 결자 煿·胻·疿·慓·熯을 복원하고 비공백 결락 獖 및 전사 오류도 교정했다. 나머지 공백은 처방 판면 구분이다."
+}

@@ -1,0 +1,20 @@
+{
+  "source_path": "F/F027.txt",
+  "title": "輔行訣臟腑用藥法要",
+  "source_fullwidth_spaces": 195,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 195,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "jicheng 최신 전문 정렬",
+    "중醫寶典 독립 전사 조문별 대조",
+    "처방 약미·용량 및 증후 문맥 재검증"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%BC%94%E8%A1%8C%E8%A8%A3%E8%87%9F%E8%85%91%E7%94%A8%E8%97%A5%E6%B3%95%E8%A6%81/index.html",
+    "https://zhongyibaodian.com/archives/955.html"
+  ],
+  "corrected_body_sha256": "0fdc08afc585c140a0c0a14948c7758c9ab7f35c5e97ab0c95a09477edaaf505",
+  "note": "전각 공백 195곳은 저자 표시와 처방 약미 구분을 위한 의도적 레이아웃이므로 모두 보존했다. 결자는 없었고, 독립 전사에서 확인된 명백한 OCR 오기 10곳을 교정했다."
+}
