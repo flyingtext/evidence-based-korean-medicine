@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "before": "心為之主，缺盆為之道，　骨",
+    "after": "心為之主，缺盆為之道，䯏骨",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문·《靈樞》 문맥 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "　KT　",
+    "after": "𩩲𩨗",
+    "expected_count": 7,
+    "reason": "jicheng 공개 전문의 반복 해부명 대조 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "　KT小短舉",
+    "after": "𩩲𩨗小短舉",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 반복 해부명 대조 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "HTHT　（音旋）然",
+    "after": "㼐㼐（音旋）然",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문·음주 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "HT　、豆，視之審也",
+    "after": "㼐、豆，視之審也",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 주석 문맥 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "廣KT　",
+    "after": "廣䏖",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  },
+  {
+    "before": "目HT　絕系",
+    "after": "目睘絕系",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html"
+  }
+]
