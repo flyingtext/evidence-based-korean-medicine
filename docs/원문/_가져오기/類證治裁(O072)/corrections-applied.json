@@ -3622,5 +3622,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B2%BB%E8%A3%81/index.html",
     "evidence_note": "O/O072.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "丹溪以痛風先由血□□主用四物",
+    "after": "丹溪以痛風先由血熱，主用四物",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B2%BB%E8%A3%81_1/index.html",
+    "evidence_note": "공개 저본의 동일 문장이 ‘丹溪以痛風先由血熱，主用四物’로 확인된다.",
+    "reason": "공개 저본의 동일 문장이 ‘丹溪以痛風先由血熱，主用四物’로 확인된다."
+  },
+  {
+    "before": "耳目KT　KT　善恐",
+    "after": "耳目䀮䀮善恐",
+    "expected_count": 1,
+    "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+    "evidence_note": "肝虛의 내경 평행 증후 ‘目䀮䀮無所見…善恐’과 일치한다.",
+    "reason": "肝虛의 내경 평행 증후 ‘目䀮䀮無所見…善恐’과 일치한다."
   }
 ]

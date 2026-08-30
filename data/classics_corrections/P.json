@@ -29402,6 +29402,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%B9%BC%E7%A7%91/index.html",
       "evidence_note": "P/P0104.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "搜面裹三角HT　樣，燒黃熟",
+      "after": "搜面裹三角窗樣，燒黃熟",
+      "expected_count": 1,
+      "reason": "독립 공개 영인의 동일 처방 직접 판독",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SSID-12642423_%E5%85%AD%E7%A7%91%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%E5%B9%BC%E7%A7%91_1.pdf",
+      "evidence_note": "영인 OCR 표에 동일 구절이 川椒一兩捻麵裹三角窗樣燒熟로 확인된다."
     }
   ],
   "P/P0105.txt": [
@@ -96784,6 +96792,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
       "evidence_note": "P/P0402.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "視物羞明，不KT　則磨隱睛輪",
+      "after": "視物羞明，不治則磨隱睛輪",
+      "expected_count": 1,
+      "reason": "동일 병론의 치료 경고 문맥 및 공개 원문 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%94%BF%E5%92%8C%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/110",
+      "evidence_note": "눈꺼풀 풍속이 방치되면 각막을 마찰해 예가 생긴다는 문맥이므로 不治가 유일하게 성립한다."
     }
   ],
   "P/P0403.txt": [
@@ -105266,6 +105282,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
       "evidence_note": "P/P0403.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "耳中KT　KT　，心腹滿",
+      "after": "耳中嘈嘈，心腹滿",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/380/17",
+      "evidence_note": "聽宮穴 동일 주치가 ‘耳嘈嘈若蟬鳴…心腹痛滿’으로 확인된다.",
+      "reason": "聽宮穴 동일 주치가 ‘耳嘈嘈若蟬鳴…心腹痛滿’으로 확인된다."
+    },
+    {
+      "before": "耳鳴KT　KT　無所聞",
+      "after": "耳鳴嘈嘈無所聞",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/NAJDA-304-0249_%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1_%E5%B7%BB1.pdf",
+      "evidence_note": "鍼灸聚英 영인 평행문이 ‘耳鳴嘈嘈無所聞’으로 전한다.",
+      "reason": "鍼灸聚英 영인 평행문이 ‘耳鳴嘈嘈無所聞’으로 전한다."
+    },
+    {
+      "before": "耳聾KT　KT　無所聞",
+      "after": "耳聾嘈嘈無所聞",
+      "expected_count": 1,
+      "evidence_url": "https://research.pinedance.click/resources/2004-02.pdf",
+      "evidence_note": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다.",
+      "reason": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다."
     }
   ],
   "P/P0506.txt": [
@@ -117678,6 +117718,76 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
       "evidence_note": "P/P0800.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 7,
+      "evidence": "내경 및 침구 문헌의 정형 안증 표현 目䀮䀮.",
+      "reason": "내경 및 침구 문헌의 정형 안증 표현 目䀮䀮."
+    },
+    {
+      "before": "目視KT　KT　",
+      "after": "目視䀮䀮",
+      "expected_count": 6,
+      "evidence": "䀮䀮는 시야가 흐린 상태를 뜻하며 해당 안증·경혈 주치 문맥과 일치.",
+      "reason": "䀮䀮는 시야가 흐린 상태를 뜻하며 해당 안증·경혈 주치 문맥과 일치."
+    },
+    {
+      "before": "視物KT　KT　",
+      "after": "視物䀮䀮",
+      "expected_count": 1,
+      "evidence": "사물을 흐리게 본다는 안증 문맥의 䀮䀮.",
+      "reason": "사물을 흐리게 본다는 안증 문맥의 䀮䀮."
+    },
+    {
+      "before": "遠視KT　KT　",
+      "after": "遠視䀮䀮",
+      "expected_count": 5,
+      "evidence": "고전 침구 주치에 반복되는 정형 구문 ‘遠視䀮䀮’.",
+      "reason": "고전 침구 주치에 반복되는 정형 구문 ‘遠視䀮䀮’."
+    },
+    {
+      "before": "以HT　寫訛舛",
+      "after": "以傳寫訛舛",
+      "expected_count": 1,
+      "evidence": "책을 베껴 전하는 과정의 오류를 뜻하는 정형 구문 傳寫訛舛.",
+      "reason": "책을 베껴 전하는 과정의 오류를 뜻하는 정형 구문 傳寫訛舛."
+    },
+    {
+      "before": "布HT　著之",
+      "after": "布憿著之",
+      "expected_count": 1,
+      "evidence": "《素問·刺禁論》의 정문 ‘刺胸腹者，必以布憿著之’.",
+      "reason": "《素問·刺禁論》의 정문 ‘刺胸腹者，必以布憿著之’."
+    },
+    {
+      "before": "HT　而奔",
+      "after": "裸而奔",
+      "expected_count": 1,
+      "evidence": "광증에서 옷을 벗고 달리는 증상을 나타내는 정형 구문 裸而奔.",
+      "reason": "광증에서 옷을 벗고 달리는 증상을 나타내는 정형 구문 裸而奔."
+    },
+    {
+      "before": "KT　麻子一兩",
+      "after": "蓖麻子一兩",
+      "expected_count": 1,
+      "evidence": "적백리 처방 약재인 蓖麻子와 용량 一兩의 문맥.",
+      "reason": "적백리 처방 약재인 蓖麻子와 용량 一兩의 문맥."
+    },
+    {
+      "before": "身體強KT　KT　然",
+      "after": "身體強几几然",
+      "expected_count": 1,
+      "evidence": "《傷寒論》 계지탕증의 정형 구문 ‘身體強几几然’.",
+      "reason": "《傷寒論》 계지탕증의 정형 구문 ‘身體強几几然’."
+    },
+    {
+      "before": "HT　HT　欲吐者",
+      "after": "兀兀欲吐者",
+      "expected_count": 1,
+      "evidence": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐.",
+      "reason": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐."
     }
   ],
   "P/P0801.txt": [
@@ -125824,6 +125934,38 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
       "evidence_note": "P/P0801.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目視KTKT，所祈不得",
+      "after": "目視䀮䀮，所祈不得",
+      "expected_count": 1,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001876182",
+      "evidence_note": "동일 인용문이 ‘目視䀮䀮，所祈不能’ 계열로 확인된다.",
+      "reason": "동일 인용문이 ‘目視䀮䀮，所祈不能’ 계열로 확인된다."
+    },
+    {
+      "before": "目視KT　KT　",
+      "after": "目視䀮䀮",
+      "expected_count": 3,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001876182",
+      "evidence_note": "目視 증후 세 곳 모두 공개 평행문의 䀮䀮 표기와 일치한다.",
+      "reason": "目視 증후 세 곳 모두 공개 평행문의 䀮䀮 표기와 일치한다."
+    },
+    {
+      "before": "遠視KT　KT　夜不見",
+      "after": "遠視䀮䀮夜不見",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "경혈 평행문이 ‘遠視䀮䀮’으로 확인된다.",
+      "reason": "경혈 평행문이 ‘遠視䀮䀮’으로 확인된다."
+    },
+    {
+      "before": "肝虛則目KT　KT　無所見",
+      "after": "肝虛則目䀮䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "『素問·藏氣法時論』 직접 평행문과 일치한다.",
+      "reason": "『素問·藏氣法時論』 직접 평행문과 일치한다."
     }
   ]
 }

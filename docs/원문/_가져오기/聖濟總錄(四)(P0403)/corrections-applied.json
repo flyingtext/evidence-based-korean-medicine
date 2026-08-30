@@ -8478,5 +8478,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
     "evidence_note": "P/P0403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "耳中KT　KT　，心腹滿",
+    "after": "耳中嘈嘈，心腹滿",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/380/17",
+    "evidence_note": "聽宮穴 동일 주치가 ‘耳嘈嘈若蟬鳴…心腹痛滿’으로 확인된다.",
+    "reason": "聽宮穴 동일 주치가 ‘耳嘈嘈若蟬鳴…心腹痛滿’으로 확인된다."
+  },
+  {
+    "before": "耳鳴KT　KT　無所聞",
+    "after": "耳鳴嘈嘈無所聞",
+    "expected_count": 1,
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/NAJDA-304-0249_%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1_%E5%B7%BB1.pdf",
+    "evidence_note": "鍼灸聚英 영인 평행문이 ‘耳鳴嘈嘈無所聞’으로 전한다.",
+    "reason": "鍼灸聚英 영인 평행문이 ‘耳鳴嘈嘈無所聞’으로 전한다."
+  },
+  {
+    "before": "耳聾KT　KT　無所聞",
+    "after": "耳聾嘈嘈無所聞",
+    "expected_count": 1,
+    "evidence_url": "https://research.pinedance.click/resources/2004-02.pdf",
+    "evidence_note": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다.",
+    "reason": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다."
   }
 ]

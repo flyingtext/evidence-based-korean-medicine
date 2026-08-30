@@ -7990,5 +7990,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
     "evidence_note": "O/O108.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KT　KT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 5,
+    "evidence": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치.",
+    "reason": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치."
+  },
+  {
+    "before": "目KT　KT　然",
+    "after": "目䀮䀮然",
+    "expected_count": 1,
+    "evidence": "내경계 안병 표현 ‘目䀮䀮然’과 일치.",
+    "reason": "내경계 안병 표현 ‘目䀮䀮然’과 일치."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 1,
+    "evidence": "䀮䀮는 눈이 어두워 잘 보이지 않는다는 뜻이며 目視와 결합하는 정형 증후.",
+    "reason": "䀮䀮는 눈이 어두워 잘 보이지 않는다는 뜻이며 目視와 결합하는 정형 증후."
+  },
+  {
+    "before": "目HT　絕系",
+    "after": "目寰絕系",
+    "expected_count": 2,
+    "evidence": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’와 일치.",
+    "reason": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’와 일치."
+  },
+  {
+    "before": "下血HT　，血HT　篤重",
+    "after": "下血衄，血衄篤重",
+    "expected_count": 1,
+    "evidence": "《素問·刺禁論》의 사역 징후 정문 ‘後下血衄，血衄篤重’과 일치.",
+    "reason": "《素問·刺禁論》의 사역 징후 정문 ‘後下血衄，血衄篤重’과 일치."
+  },
+  {
+    "before": "□岩色赤出水",
+    "after": "乳岩色赤出水",
+    "expected_count": 1,
+    "evidence": "바로 앞의 유방 종괴가 오래되어 커지고 붉어져 물이 나오는 유암(乳岩) 문맥.",
+    "reason": "바로 앞의 유방 종괴가 오래되어 커지고 붉어져 물이 나오는 유암(乳岩) 문맥."
+  },
+  {
+    "before": "治KT　耳耳聾",
+    "after": "治聤耳耳聾",
+    "expected_count": 1,
+    "evidence": "농성 이질환을 뜻하는 전통 병명 聤耳와 耳聾의 병렬.",
+    "reason": "농성 이질환을 뜻하는 전통 병명 聤耳와 耳聾의 병렬."
+  },
+  {
+    "before": "KT　逆脹滿堪除",
+    "after": "呃逆脹滿堪除",
+    "expected_count": 1,
+    "evidence": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥.",
+    "reason": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥."
   }
 ]

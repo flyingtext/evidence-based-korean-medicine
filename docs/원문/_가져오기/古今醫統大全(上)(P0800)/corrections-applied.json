@@ -6390,5 +6390,75 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
     "evidence_note": "P/P0800.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 7,
+    "evidence": "내경 및 침구 문헌의 정형 안증 표현 目䀮䀮.",
+    "reason": "내경 및 침구 문헌의 정형 안증 표현 目䀮䀮."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 6,
+    "evidence": "䀮䀮는 시야가 흐린 상태를 뜻하며 해당 안증·경혈 주치 문맥과 일치.",
+    "reason": "䀮䀮는 시야가 흐린 상태를 뜻하며 해당 안증·경혈 주치 문맥과 일치."
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮䀮",
+    "expected_count": 1,
+    "evidence": "사물을 흐리게 본다는 안증 문맥의 䀮䀮.",
+    "reason": "사물을 흐리게 본다는 안증 문맥의 䀮䀮."
+  },
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 5,
+    "evidence": "고전 침구 주치에 반복되는 정형 구문 ‘遠視䀮䀮’.",
+    "reason": "고전 침구 주치에 반복되는 정형 구문 ‘遠視䀮䀮’."
+  },
+  {
+    "before": "以HT　寫訛舛",
+    "after": "以傳寫訛舛",
+    "expected_count": 1,
+    "evidence": "책을 베껴 전하는 과정의 오류를 뜻하는 정형 구문 傳寫訛舛.",
+    "reason": "책을 베껴 전하는 과정의 오류를 뜻하는 정형 구문 傳寫訛舛."
+  },
+  {
+    "before": "布HT　著之",
+    "after": "布憿著之",
+    "expected_count": 1,
+    "evidence": "《素問·刺禁論》의 정문 ‘刺胸腹者，必以布憿著之’.",
+    "reason": "《素問·刺禁論》의 정문 ‘刺胸腹者，必以布憿著之’."
+  },
+  {
+    "before": "HT　而奔",
+    "after": "裸而奔",
+    "expected_count": 1,
+    "evidence": "광증에서 옷을 벗고 달리는 증상을 나타내는 정형 구문 裸而奔.",
+    "reason": "광증에서 옷을 벗고 달리는 증상을 나타내는 정형 구문 裸而奔."
+  },
+  {
+    "before": "KT　麻子一兩",
+    "after": "蓖麻子一兩",
+    "expected_count": 1,
+    "evidence": "적백리 처방 약재인 蓖麻子와 용량 一兩의 문맥.",
+    "reason": "적백리 처방 약재인 蓖麻子와 용량 一兩의 문맥."
+  },
+  {
+    "before": "身體強KT　KT　然",
+    "after": "身體強几几然",
+    "expected_count": 1,
+    "evidence": "《傷寒論》 계지탕증의 정형 구문 ‘身體強几几然’.",
+    "reason": "《傷寒論》 계지탕증의 정형 구문 ‘身體強几几然’."
+  },
+  {
+    "before": "HT　HT　欲吐者",
+    "after": "兀兀欲吐者",
+    "expected_count": 1,
+    "evidence": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐.",
+    "reason": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐."
   }
 ]

@@ -2944,9 +2944,9 @@
     },
     "D/D012.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7270,
+      "unresolved_candidates": 11901,
       "punctuation_status": "codex_verified",
-      "note": "송대 공개 고전. Codex 표점 1118청크를 비표점 문자 198532자 완전 보존으로 검증 완료. jicheng 대조로 결자274곳을 복원했으며 공백7245·KT24·□1곳 교감은 계속 진행."
+      "note": "䀮 6자를 세 고유 좌표에서 복원했다. HT/[c]/PUA는 0. 잔여 후보 11901자리."
     },
     "D/D014.txt": {
       "collation_status": "in_progress",
@@ -3138,7 +3138,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6996,
       "punctuation_status": "source_present",
-      "note": "jicheng 대조 완료. [c] 203·[z] 4579곳과 판면/결자 판정이 필요한 전각 공백 2214곳이 남아 정본 이관 보류"
+      "note": "잔존 203개 [c] 코드는 자체 글리프 매핑표나 판본 영상 없이는 유일 복원이 불가능하다. 교주·태그와 얽힌 공백 6793건도 보존했다. 잔여 후보 6996자리."
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
@@ -3438,7 +3438,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6233,
       "punctuation_status": "source_present",
-      "note": "唐慎微 송대 고전. KT165·□5와 전각 공백6063이 약명·외자·결락 및 조판에 혼재하여 공개 고본 전수 판독 전 보류"
+      "note": "KT 165개는 본초명·지명·희귀 자형·교주가 혼재한다. 검색 가능한 전사도 동일 결자 표지를 다수 유지하여 영인 좌표 없이 복원하지 않았다. 잔여 후보 6233자리."
     },
     "C/C103.txt": {
       "collation_status": "complete",
@@ -3778,9 +3778,9 @@
     },
     "I/I102.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6377,
+      "unresolved_candidates": 6367,
       "punctuation_status": "source_present",
-      "note": "顧世澂 1760년 청대 고전. jicheng 공개 전문으로 결자1233곳을 복원했으나 전각 공백6325·HT31·KT21이 결락·외자·도형·조판에 혼재하여 1773년刊 공개 판면 전수 대조 전 보류"
+      "note": "기존 1233규칙을 순차 적용한 뒤 확인. 신규 4규칙은 1·1·1·2회 고유 일치하며 KT 10개를 해소한다. 잔여 후보 6367자리."
     },
     "I/I200.txt": {
       "collation_status": "in_progress",
@@ -3898,9 +3898,9 @@
     },
     "N/N009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6031,
+      "unresolved_candidates": 18672,
       "punctuation_status": "source_present",
-      "note": "葉桂 의안을 華岫雲 등이 1764~1766년 편찬·간행한 청대 고전. jicheng 공개 전문으로 결자389곳을 복원; 전각 공백6031곳은 판면 전수 대조 전 보류"
+      "note": "반복되는 炎氛 두 곳을 복원했다. 跗部·牙病·화염 비유의 세 HT는 독립 전사에서 확정하지 못해 보류했다. 잔여 후보 18672자리."
     },
     "N/N011.txt": {
       "collation_status": "in_progress",
@@ -4144,9 +4144,9 @@
     },
     "O/O072.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 8066,
+      "unresolved_candidates": 16784,
       "punctuation_status": "source_present",
-      "note": "林佩琴 청대 고전, 1837년序·1851년刊 계통. 공개 전문으로 결자453곳 복원; 공백8054·HT8·KT2·□2 보류. [u]3503쌍은 <ins> 변환"
+      "note": "□ 2자 자리에 ‘熱，’를 복원하고 KT 2자를 䀮䀮으로 복원했다. KT/□/[c]/PUA 잔여는 0. 잔여 후보 16784자리."
     },
     "O/O077.txt": {
       "collation_status": "in_progress",
@@ -4240,9 +4240,9 @@
     },
     "O/O108.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7054,
+      "unresolved_candidates": 7033,
       "punctuation_status": "source_present",
-      "note": "명대 고전. correction 999건 준비, 잔여 7054건. 표점 충분"
+      "note": "기존 999규칙 적용 뒤 신규 규칙은 각각 5·1·1·2·1·1·1·1회 고유 일치. 표지 21개를 해소했다. 잔여 후보 7033자리."
     },
     "O/O108a.txt": {
       "collation_status": "in_progress",
@@ -4336,9 +4336,9 @@
     },
     "P/P0104.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6299,
+      "unresolved_candidates": 15707,
       "punctuation_status": "source_present",
-      "note": "王肯堂 명대 고전. jicheng 공개 전문 대조로 결자 775곳 복원; 조판 공백 9384곳 확인; 6299곳 보류"
+      "note": "三角窗樣의 窗만 영인으로 확정했다. 주문·소아 희귀 병명·약재명에 남은 표지는 추가 판면 대조가 필요하다. 잔여 후보 15707자리."
     },
     "P/P0105.txt": {
       "collation_status": "in_progress",
@@ -4384,15 +4384,15 @@
     },
     "P/P0402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6083,
+      "unresolved_candidates": 16155,
       "punctuation_status": "source_present",
-      "note": "1111~1118년 북송 관찬 고전. 康熙影鈔元刊本 계통 대조로 결자1070곳 복원; 조판 공백10074곳 확인; 공백6082·KT1 보류"
+      "note": "유일한 KT를 不治로 복원했다. 잔여 전각 공백은 서식 공백과 결락 가능성이 혼재한다. 잔여 후보 16155자리."
     },
     "P/P0403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7663,
+      "unresolved_candidates": 16333,
       "punctuation_status": "source_present",
-      "note": "1111~1118년 북송 관찬 고전. 康熙影鈔元刊本 계통 대조로 결자1060곳 복원; 조판 공백8682곳 확인; 공백7622·KT41 보류"
+      "note": "嘈嘈 3구절 6자를 독립 영인·평행문으로 확정했다. HT/□/[c]/PUA는 0. 잔여 후보 16333자리."
     },
     "P/P0500.txt": {
       "collation_status": "in_progress",
@@ -4438,15 +4438,15 @@
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7228,
+      "unresolved_candidates": 7182,
       "punctuation_status": "source_present",
-      "note": "徐春甫 1556년 명대 고전. 1570년 NCL 간본 권1~50 대조로 결자799곳 복원; 조판8736곳; 공백7163·HT14·KT50·□1 보류"
+      "note": "기존 799규칙 적용 뒤 신규 10규칙은 7·6·1·5·1·1·1·1·1·1회 고유 일치. HT 5개와 KT 41개를 해소했다. 잔여 후보 7182자리."
     },
     "P/P0801.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7738,
+      "unresolved_candidates": 19071,
       "punctuation_status": "source_present",
-      "note": "徐春甫 1556년 명대 고전. 1570년 NCL 간본 권51 이후 대조로 결자1018곳 복원; 조판11355곳; 공백7701·HT8·KT21·□8 보류"
+      "note": "䀮 12자를 네 규칙으로 복원한다. [c]/PUA는 0. 잔여 후보 19071자리."
     },
     "C/C041.txt": {
       "collation_status": "complete",

@@ -6198,5 +6198,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%B9%BC%E7%A7%91/index.html",
     "evidence_note": "P/P0104.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "搜面裹三角HT　樣，燒黃熟",
+    "after": "搜面裹三角窗樣，燒黃熟",
+    "expected_count": 1,
+    "reason": "독립 공개 영인의 동일 처방 직접 판독",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SSID-12642423_%E5%85%AD%E7%A7%91%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%E5%B9%BC%E7%A7%91_1.pdf",
+    "evidence_note": "영인 OCR 표에 동일 구절이 川椒一兩捻麵裹三角窗樣燒熟로 확인된다."
   }
 ]

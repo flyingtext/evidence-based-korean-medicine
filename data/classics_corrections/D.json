@@ -12991,6 +12991,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%9B%9E%E5%B3%B0%E6%99%AE%E6%BF%9F%E6%96%B9/index.html",
       "evidence_note": "D/D012.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目暗KT　KT　項背拘急",
+      "after": "目暗䀮䀮項背拘急",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/13203/0",
+      "evidence_note": "고전 肝虛 평행 증후가 ‘目視䀮䀮’으로 확인된다.",
+      "reason": "고전 肝虛 평행 증후가 ‘目視䀮䀮’으로 확인된다."
+    },
+    {
+      "before": "目視KT　KT　眩暈",
+      "after": "目視䀮䀮眩暈",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/13203/0",
+      "evidence_note": "동일 肝虛·目暗 계열 평행문이 ‘目視䀮䀮’으로 전한다.",
+      "reason": "동일 肝虛·目暗 계열 평행문이 ‘目視䀮䀮’으로 전한다."
+    },
+    {
+      "before": "目視KT　KT　皆憂思",
+      "after": "目視䀮䀮皆憂思",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/13203/0",
+      "evidence_note": "고전 평행문 ‘目視䀮䀮’과 일치한다.",
+      "reason": "고전 평행문 ‘目視䀮䀮’과 일치한다."
     }
   ],
   "D/D014.txt": [

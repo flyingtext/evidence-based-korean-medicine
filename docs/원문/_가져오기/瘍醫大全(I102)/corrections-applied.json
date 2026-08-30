@@ -9862,5 +9862,33 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html",
     "evidence_note": "I/I102.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KTKT無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 1,
+    "evidence": "《素問·藏氣法時論》의 정문 ‘虛則目䀮䀮無所見’과 일치.",
+    "reason": "《素問·藏氣法時論》의 정문 ‘虛則目䀮䀮無所見’과 일치."
+  },
+  {
+    "before": "目KT　KT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 1,
+    "evidence": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치.",
+    "reason": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치."
+  },
+  {
+    "before": "目KT　KT無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 1,
+    "evidence": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치.",
+    "reason": "《素問·藏氣法時論》의 정문 ‘目䀮䀮無所見’과 일치."
+  },
+  {
+    "before": "目KT　KT　如無所見",
+    "after": "目䀮䀮如無所見",
+    "expected_count": 2,
+    "evidence": "《靈樞·經脈》 족소음경 병후의 정문 ‘目䀮䀮如無所見’과 일치.",
+    "reason": "《靈樞·經脈》 족소음경 병후의 정문 ‘目䀮䀮如無所見’과 일치."
   }
 ]

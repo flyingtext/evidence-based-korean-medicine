@@ -13321,6 +13321,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%87%A8%E8%AD%89%E6%8C%87%E5%8D%97%E9%86%AB%E6%A1%88/index.html",
       "evidence_note": "../source/N/N009.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "炎HT　",
+      "after": "炎氛",
+      "expected_count": 2,
+      "reason": "暑熱·長夏 문맥의 고정 문어 대조",
+      "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E6%B0%9B",
+      "evidence_note": "氛은 기운·기세를 뜻하며 雨露下降 뒤 炎氛自蕩掃 및 過月涼至炎氛去 두 문맥에 동일하게 맞는다."
     }
   ],
   "N/N011.txt": [
