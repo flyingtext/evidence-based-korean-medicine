@@ -8945,6 +8945,13 @@
       "expected_count": 1,
       "reason": "jicheng 대체 전문의 외자 코드 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97_1/index.html"
+    },
+    {
+      "before": "[c]eci[/c]",
+      "after": "作",
+      "expected_count": 1,
+      "reason": "氣味作臭의 완결 문구를 jicheng 공개 고전 전사로 재확인",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97_1/index.html"
     }
   ],
   "I/I101.txt": [

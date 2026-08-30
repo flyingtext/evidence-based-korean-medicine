@@ -3573,6 +3573,53 @@
       "evidence_note": "P/P0012.txt: 좌우 한자 각 14자 고유 일치"
     }
   ],
+  "P/P0013a.txt": [
+    {
+      "before": "",
+      "after": "虻",
+      "expected_count": 2,
+      "reason": "九針의 고정 표현 尖如蚊虻喙를 동일 원전 계통과 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+    },
+    {
+      "before": "\n　　   癲癇卒倒",
+      "after": "癲癇卒倒",
+      "expected_count": 1,
+      "reason": "직전 가결자와 다음 줄 癲癇이 중복된 전자화 잔재로, 동일 계통 P0013 평행문을 대조"
+    },
+    {
+      "before": "腸",
+      "after": "腨腸",
+      "expected_count": 1,
+      "reason": "장딴지의 고전 해부명 腨腸을 동일 계통 P0013 평행문과 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "上抵鼻",
+      "after": "上䪼抵鼻",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 수태양소장경 지맥의 정형 경문을 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/ling-shu-jing-mai/zh"
+    },
+    {
+      "before": "肩穴",
+      "after": "肩髎穴",
+      "expected_count": 1,
+      "reason": "표준 혈명 肩髎를 동일 계통 P0013 평행문과 대조"
+    },
+    {
+      "before": "浮穴",
+      "after": "浮郄穴",
+      "expected_count": 1,
+      "reason": "표준 혈명 浮郄를 동일 계통 P0013 평행문과 대조"
+    },
+    {
+      "before": "行頷下",
+      "after": "行腮頷下",
+      "expected_count": 1,
+      "reason": "地倉穴 위치 설명을 동일 계통 P0013 평행문과 대조"
+    }
+  ],
   "P/P0013.txt": [
     {
       "before": "之證即：項、頸、胸、膺、胯、股、脛、　、足跗疼痛，發狂妄言，高歌棄衣而走，",
