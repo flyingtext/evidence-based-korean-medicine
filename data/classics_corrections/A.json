@@ -48,6 +48,14 @@
       "expected_count": 1,
       "reason": "《素問》至真要大論 음훈 대조",
       "evidence_note": "禁同噤"
+    },
+    {
+      "before": "足肚也。KT。\n\n音淵。酸痛也",
+      "after": "足肚也。㾓。\n\n音淵。酸痛也",
+      "expected_count": 1,
+      "reason": "동일 저본 전사와 독립 《素問》 계열 음훈을 대조해 깨진 외자를 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E9%9D%88%E6%A8%9E%E9%A1%9E%E7%BA%82%E7%B4%84%E8%A8%BB/index.html",
+      "evidence_note": "清光緒六年 江左書林藏板 계통과 《黃帝素問直解》가 㾓，音淵 및 痿厥腨㾓으로 일치함"
     }
   ],
   "A/A009.txt": [

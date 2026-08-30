@@ -7,6 +7,14 @@
       "reason": "jicheng 최신 전문 대조 KT 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%AD%E5%AF%92%E8%AB%96%E8%BE%AF%E8%AD%89%E5%BB%A3%E8%A8%BB/index.html",
       "evidence_note": "𢬵從之 확인"
+    },
+    {
+      "before": "乃□病在裡之陰者用也",
+      "after": "乃治病在裡之陰者用也",
+      "expected_count": 1,
+      "reason": "인용 원전의 공개 영인 판면과 독립 전사 2종을 대조해 결자를 복원",
+      "evidence_url": "https://archive.wul.waseda.ac.jp/kosho/ya09/ya09_00607/ya09_00607_0003/ya09_00607_0003_p0003.jpg",
+      "evidence_note": "早稻田藏 1821년 樂群樓本 《金鏡內台方議》 권7 판면에 今此四逆湯乃治病在於裏之陰者用也로 선명하며 CText·jicheng 전사도 일치함"
     }
   ],
   "B/B025a.txt": [

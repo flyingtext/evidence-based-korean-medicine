@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "人自HT　地一聲以來",
+    "after": "人自㘞地一聲以來",
+    "expected_count": 1,
+    "reason": "동일 작품 공개 전사 2종과 고전 말뭉치의 관용구를 대조해 깨진 희자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%89%E6%8C%87%E7%A6%AA/index.html",
+    "evidence_note": "jicheng·Wikisource 《三指禪》과 CText 평행 용례가 모두 人自㘞地一聲以來로 일치함"
+  }
+]
