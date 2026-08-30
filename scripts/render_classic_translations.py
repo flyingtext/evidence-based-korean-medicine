@@ -171,10 +171,11 @@ def main() -> int:
     parser.add_argument("--results", type=Path, required=True, help="LLM 번역 결과 JSONL")
     parser.add_argument("--output", type=Path, required=True, help="Markdown 출력 폴더")
     parser.add_argument("--partial", action="store_true", help="연속된 일부 source_id만 검증·렌더링")
+    parser.add_argument("--tasks", type=Path, help="번역 작업 JSONL (기본: book-dir/translation-tasks.jsonl). 3문장 조각 입력을 사용할 때 지정")
     args = parser.parse_args()
 
     book_dir = args.book_dir.resolve()
-    task_path = book_dir / "translation-tasks.jsonl"
+    task_path = args.tasks.resolve() if args.tasks else book_dir / "translation-tasks.jsonl"
     if not book_dir.is_dir():
         raise ValueError(f"정본 폴더가 없음: {book_dir}")
     if "_가져오기" in book_dir.parts:
