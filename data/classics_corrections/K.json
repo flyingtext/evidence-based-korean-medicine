@@ -1,10 +1,40 @@
 {
   "K/K011.txt": [
-    {"before":"調勻要出□","after":"調勻要出針","expected_count":1,"reason":"침법 절차의 완결구 出針을 공개 고전 전사와 대조","evidence_url":"https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"},
-    {"before":"百會□加在指中","after":"百會穴加在指中","expected_count":1,"reason":"경혈명 百會穴을 공개 고전 전사와 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"},
-    {"before":"承漿HT　","after":"承漿穴","expected_count":1,"reason":"경혈명 承漿穴을 공개 고전 전사와 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"},
-    {"before":"男女氣喘HT證","after":"男女氣喘癋證","expected_count":1,"reason":"동일 문헌 공개 전사의 氣喘癋證 표제를 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"},
-    {"before":"有HT　無HT　","after":"有氣無氣","expected_count":1,"reason":"침 아래의 氣 유무를 설명하는 有氣無氣 문맥을 공개 전사로 대조","evidence_url":"https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"}
+    {
+      "before": "調勻要出□",
+      "after": "調勻要出針",
+      "expected_count": 1,
+      "reason": "침법 절차의 완결구 出針을 공개 고전 전사와 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+    },
+    {
+      "before": "百會□加在指中",
+      "after": "百會穴加在指中",
+      "expected_count": 1,
+      "reason": "경혈명 百會穴을 공개 고전 전사와 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+    },
+    {
+      "before": "承漿HT　",
+      "after": "承漿穴",
+      "expected_count": 1,
+      "reason": "경혈명 承漿穴을 공개 고전 전사와 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+    },
+    {
+      "before": "男女氣喘HT證",
+      "after": "男女氣喘癋證",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전사의 氣喘癋證 표제를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+    },
+    {
+      "before": "有HT　無HT　",
+      "after": "有氣無氣",
+      "expected_count": 1,
+      "reason": "침 아래의 氣 유무를 설명하는 有氣無氣 문맥을 공개 전사로 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+    }
   ],
   "K/K004.txt": [
     {
@@ -20525,6 +20555,92 @@
       "expected_count": 1,
       "reason": "공개 PDF 판면 직접 대조 서명과 탈락 복원",
       "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=106"
+    }
+  ],
+  "K/K012.txt": [
+    {
+      "before": "說者之HT　蝕",
+      "after": "說者之蠹蝕",
+      "expected_count": 1,
+      "reason": "문맥상 ‘학설을 좀먹음’의 고정어 蠹蝕이며 동일 공개 전문과 일치",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%B4%A0%E9%9B%A3%E8%A6%81%E6%97%A8/index.html"
+    },
+    {
+      "before": "腸胃HT　辟",
+      "after": "腸胃聶辟",
+      "expected_count": 1,
+      "reason": "《靈樞》 계통의 腸胃聶辟 평행문",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "必以布HT　著之",
+      "after": "必以布懦著之",
+      "expected_count": 1,
+      "reason": "《素問》 concordance가 ‘必以布懦著之，乃從單布上刺’로 직접 일치",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+    },
+    {
+      "before": "目HT　HT　然",
+      "after": "目眴眴然",
+      "expected_count": 1,
+      "reason": "《素問·刺瘧》 腎瘧 평행문 目眴眴然",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "骨癲疾者，HT　齒",
+      "after": "骨癲疾者，顑齒",
+      "expected_count": 1,
+      "reason": "《靈樞·癲狂》의 骨癲疾者顑齒",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "頭兩HT　，狂者多食",
+      "after": "頭兩顑，狂者多食",
+      "expected_count": 1,
+      "reason": "같은 癲狂 조문의 해부 명칭 顑",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "目KT　KT　然",
+      "after": "目䀮䀮然",
+      "expected_count": 4,
+      "reason": "經脈·腰痛·厥病의 반복 고정문 目䀮䀮然; occurrence 4곳",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "目KT　KT　無所見",
+      "after": "目䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "《素問·臟氣法時論》의 고정 경문 目䀮䀮無所見을 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "日KT　KT　如無所見",
+      "after": "目䀮䀮如無所見",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 足少陰 조문; 日은 目의 OCR 오자까지 함께 복원",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "中KT　兩旁各五",
+      "after": "中膂兩旁各五",
+      "expected_count": 1,
+      "reason": "수혈 열거의 中膂兩旁各五 평행문",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "缺盆以下至　KT　長九寸",
+      "after": "缺盆以下至𩩲𩨗長九寸",
+      "expected_count": 1,
+      "reason": "《靈樞·骨度》 원문은 𩩲𩨗. 膻中으로 바꾸면 안 됨",
+      "evidence_url": "https://ctext.org/text.pl?if=gb&node=81208&show=parallel"
+    },
+    {
+      "before": "　KT以下至天樞長八寸",
+      "after": "𩩲𩨗以下至天樞長八寸",
+      "expected_count": 1,
+      "reason": "바로 앞과 같은 해부 명칭의 반복",
+      "evidence_url": "https://ctext.org/text.pl?if=gb&node=81208&show=parallel"
     }
   ]
 }

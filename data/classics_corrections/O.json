@@ -69,6 +69,13 @@
       "expected_count": 1,
       "reason": "공개 고전 《古今醫鑑》 동일 문단 대조",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E9%91%92"
+    },
+    {
+      "before": "蠍即HT　蜥宜緊小",
+      "after": "蠍即全蠍宜緊小",
+      "expected_count": 1,
+      "reason": "《珍珠囊指掌補遺藥性賦》의 대응 본초 설명이 `全蠍宜緊小者佳`로 온전히 전하며, 《開寶本草》 계통도 `形緊小者良`로 일치한다. 따라서 HT는 全이고 뒤의 `蜥`은 문맥상 동일 약명 `蠍`의 OCR 형사 오기다. 보조 근거: https://jklohas.org/index.php/2009-12-09-17-26-52/2009-12-08-15-59-16-sp-490795991/2448-2010-06-22-01-01-03?start=11",
+      "evidence_url": "https://www.shidianguji.com/mid-page/7506267531180834843"
     }
   ],
   "O/O036.txt": [

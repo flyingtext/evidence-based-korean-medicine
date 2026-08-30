@@ -478,9 +478,9 @@
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 44,
+      "unresolved_candidates": 43,
       "punctuation_status": "source_present",
-      "note": "기존 52곳과 睘·𩩲骭을 복원. HT2·KT1 및 공백 후보 41곳은 판면 재확인 중."
+      "note": "기존 52곳과 골도 희자 𩩲骭을 복원한 데 더해 공개 영인으로 赤脈攢 1곳을 확정. HT2와 판면 미확인 공백 후보 41곳을 계속 대조 중."
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -508,9 +508,9 @@
     },
     "A/A204.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "공개 전문·평행문으로 懿·郄·膲와 외자 다수를 복원. 단일 유니코드가 없는 陰庭 IDS 1곳과 歲露 인용 HT1은 보류."
+      "note": "공개 전문·평행문으로 懿·郄·膲·欠㰦와 외자 다수를 복원. 단일 유니코드가 없는 陰庭 IDS는 복원 표기로 유지하고, 歲露 인용 HT1은 보류."
     },
     "A/A009a.txt": {
       "collation_status": "complete",
@@ -538,9 +538,9 @@
     },
     "A/A007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 13,
+      "unresolved_candidates": 12,
       "punctuation_status": "source_present",
-      "note": "공개 고전 평행문으로 KT10과 HT2를 䀮䀮·燔燎·火燒·獬豸·侵으로 복원. 심하게 손상된 HT1과 연속 결락 □12는 동일 저본 영인 판독 전 보류."
+      "note": "공개 고전 평행문으로 KT10과 HT2를 䀮䀮·燔燎·火燒·獬豸·侵으로 복원하고, 고정 연면어 霢霂 1곳을 추가 복원. 심하게 손상된 HT1과 연속 결락 □11은 동일 저본 영인 판독 전 보류."
     },
     "A/A009.txt": {
       "collation_status": "complete",
@@ -591,10 +591,10 @@
       "note": "jicheng 현행 전문과 공개 평행자료를 대조해 HT 6곳을 복원. 㕭의 정확한 어순을 ‘噦噫、㕭酸’으로 바로잡고, 세 조문의 동일 희자 𦗴를 모두 확인함."
     },
     "K/K012.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 22,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "1537년 고전 원저이나 HT7·KT15 및 다수 획/혈명 탈자의 공개 고본 정밀 판독 전 보류."
+      "note": "《內經》 평행문과 동일 공개 전문으로 HT7·KT15 및 인접 OCR 오자를 전부 복원. 骨度의 희자 𩩲𩨗를 원문대로 보존해 교감 완료."
     },
     "H/H031.txt": {
       "collation_status": "complete",
@@ -3333,10 +3333,10 @@
       "note": "1640년 명대 고전. HT·KT 9토큰과 □ 12자리를 공개 원전·영인 평행문으로 모두 복원. 마지막 연속 2자는 《祖劑》 권3 영인에서 一方으로 직접 판독. Codex 표점 815청크의 비표점 문자 47,360자를 전부 보존한 결과를 검증함."
     },
     "O/O049.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "공개 평행문으로 勉旃·重疸을 추가 복원. 蠍即HT蜥 1자는 영인 판독 전 보류."
+      "note": "공개 평행문으로 勉旃·重疸을 복원하고, 독립 본초 병행문으로 蠍即全蠍을 확정해 결자 교감을 완료."
     },
     "D/D001.txt": {
       "collation_status": "complete",
@@ -3922,9 +3922,9 @@
     },
     "N/N046.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 52,
+      "unresolved_candidates": 51,
       "punctuation_status": "source_present",
-      "note": "程杏軒 1805년 청대 의안. jicheng 공개 전문으로 결자60곳을 복원; 전각 공백52곳은 판면 전수 대조 전 보류. [u]8쌍은 <ins> 변환"
+      "note": "程杏軒 1805년 청대 의안. jicheng 공개 전문과 문맥으로 결자61곳을 복원하고 親繪一幀을 추가 확정; 전각 공백51곳은 판면 전수 대조 전 보류. [u]8쌍은 <ins> 변환"
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
@@ -4450,9 +4450,9 @@
     },
     "C/C041.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 26,
+      "unresolved_candidates": 18,
       "punctuation_status": "source_present",
-      "note": "明代 고전 藥鑑. jicheng 동일 전문 대조로 결자34곳 복원; 조판15곳; 미확정26곳 보류"
+      "note": "明代 고전 《藥鑑》. jicheng 동일 전문과 본초 평행문으로 결자42곳을 복원하고 기존 오교정 升耆·疥瘻를 升麻·疥癬으로 수정; 미확정18곳 보류."
     },
     "F/F005.txt": {
       "collation_status": "in_progress",

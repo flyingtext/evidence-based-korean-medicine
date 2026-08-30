@@ -478,5 +478,12 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/index.html",
     "evidence_note": "N/N046.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "病痊後，親繪一HT　贈予，並序其事",
+    "after": "病痊後，親繪一幀贈予，並序其事",
+    "expected_count": 1,
+    "reason": "문장 앞에서 공이 산수화를 잘 그렸다고 밝히고 ‘親繪一…贈予’라 하므로 그림 한 폭의 표준 양사 幀이 유일하게 문법·의미에 합치한다. jicheng 동일 문헌 공개 전문의 해당 HT occurrence와 대조했다. 단일자 복원이며 주변 문장은 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/index.html"
   }
 ]

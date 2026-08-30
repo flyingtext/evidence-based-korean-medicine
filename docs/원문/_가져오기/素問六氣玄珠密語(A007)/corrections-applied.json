@@ -32,5 +32,12 @@
     "expected_count": 1,
     "reason": "來侵入國의 완결 문맥과 동일 문헌 공개 전사를 대조",
     "evidence_url": "https://gushu.net.cn/book/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E/index.html"
+  },
+  {
+    "before": "土施雨令即　□　霏微即萬物潤澤也",
+    "after": "土施雨令即霢霂霏微即萬物潤澤也",
+    "expected_count": 1,
+    "reason": "동일 문헌 공개 전문과 霢霂의 고정 연면어·평행 용례를 대조",
+    "evidence_url": "https://cloudtcm.com/library/443/455780"
   }
 ]

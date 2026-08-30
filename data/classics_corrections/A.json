@@ -33,6 +33,13 @@
       "expected_count": 1,
       "reason": "來侵入國의 완결 문맥과 동일 문헌 공개 전사를 대조",
       "evidence_url": "https://gushu.net.cn/book/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E/index.html"
+    },
+    {
+      "before": "土施雨令即　□　霏微即萬物潤澤也",
+      "after": "土施雨令即霢霂霏微即萬物潤澤也",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전문과 霢霂의 고정 연면어·평행 용례를 대조",
+      "evidence_url": "https://cloudtcm.com/library/443/455780"
     }
   ],
   "A/A205.txt": [
@@ -15581,6 +15588,13 @@
       "reason": "《靈樞·骨度》 전승문 대조",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/SSID-13351502_%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E9%9D%88%E6%9F%A9_%E5%8D%B71-4.pdf",
       "evidence_note": "A/A304.txt:1085 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "龐安常有青筋索，赤脈KT　，黃肉隨",
+      "after": "龐安常有青筋索，赤脈攢，黃肉隨",
+      "expected_count": 1,
+      "reason": "퍼블릭 도메인 《傷寒總病論》 영인이 표제와 본문에서 ‘赤脈攢證’으로 명확히 판독된다. 공개 《傷寒九十論》 전사도 龐安常의 병명을 ‘赤脈攢’으로 인용한다: https://cloudtcm.com/shu/t1/481/53",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SBL062_%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96.pdf"
     }
   ],
   "A/A401.txt": [
@@ -37841,6 +37855,13 @@
       "after": "欠㰦",
       "expected_count": 1,
       "reason": "《靈樞·經脈》 열결락의 정형 경문을 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "欠KT，小便",
+      "after": "欠㰦，小便",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 열결락의 동일 정형 경문을 대조",
       "evidence_url": "https://ctext.org/huangdi-neijing/zh"
     },
     {

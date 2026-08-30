@@ -21205,7 +21205,7 @@
     },
     {
       "before": "然味尚甘美，於陰虛者，亦無妨也。臣升　而上行，固能補氣。兼當歸棗仁，又養心",
-      "after": "然味尚甘美，於陰虛者，亦無妨也。臣升耆而上行，固能補氣。兼當歸棗仁，又養心",
+      "after": "然味尚甘美，於陰虛者，亦無妨也。臣升麻而上行，固能補氣。兼當歸棗仁，又養心",
       "expected_count": 1,
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html",
@@ -21285,11 +21285,53 @@
     },
     {
       "before": "鎮養心神，通調血脈。除中惡腹痛，掃疥　瘡瘍。止渴除煩，安魂定魄。和大楓子研",
-      "after": "鎮養心神，通調血脈。除中惡腹痛，掃疥瘻瘡瘍。止渴除煩，安魂定魄。和大楓子研",
+      "after": "鎮養心神，通調血脈。除中惡腹痛，掃疥癬瘡瘍。止渴除煩，安魂定魄。和大楓子研",
       "expected_count": 1,
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html",
       "evidence_note": "C/C041.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "散瘰　鼠　頭瘡",
+      "after": "散瘰癧鼠瘻頭瘡",
+      "expected_count": 1,
+      "reason": "《證類本草》 夏枯草 고정문 ‘瘰癧、鼠瘻頭瘡’",
+      "evidence_url": "https://www.shidianguji.com/zh/mingju/7492185435377664038"
+    },
+    {
+      "before": "同參　麥　服良",
+      "after": "同參耆麥冬服良",
+      "expected_count": 1,
+      "reason": "처방 약명 人參·黃耆·麥冬의 병렬",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "胭脂滴　耳立效",
+      "after": "胭脂滴聤耳立效",
+      "expected_count": 1,
+      "reason": "耳疾명 聤耳",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "麥而曰　，尤含生發",
+      "after": "麥而曰蘖，尤含生發",
+      "expected_count": 1,
+      "reason": "발아한 보리의 명칭 麥蘖 및 生發 문맥",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "向為幾席，今為　矣",
+      "after": "向為幾席，今為糞矣",
+      "expected_count": 1,
+      "reason": "幾席/糞의 대조 문맥",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "酒　鼻，五內邪氣",
+      "after": "酒齄鼻，五內邪氣",
+      "expected_count": 1,
+      "reason": "질환명 酒齄鼻",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
     }
   ]
 }
