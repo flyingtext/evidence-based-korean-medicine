@@ -28642,6 +28642,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
       "evidence_note": "O/O045.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "是形HT　怛，或懷重慎",
+      "after": "是形𦞙怛，或懷重慎",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
+      "evidence_note": "공개 전사 서문에서 ‘是形𦞙怛’로 직접 확인된다.",
+      "reason": "공개 전사 서문에서 ‘是形𦞙怛’로 직접 확인된다."
+    },
+    {
+      "before": "張口欠KT　，或清朝小蘇",
+      "after": "張口欠㰦，或清朝小蘇",
+      "expected_count": 1,
+      "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+      "evidence_note": "고정어 欠㰦는 張口運氣의 뜻이다.",
+      "reason": "고정어 欠㰦는 張口運氣의 뜻이다."
+    },
+    {
+      "before": "先寒熱惡冷，欠KT　，筋急",
+      "after": "先寒熱惡冷，欠㰦，筋急",
+      "expected_count": 1,
+      "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+      "evidence_note": "같은 문단의 欠㰦 반복이다.",
+      "reason": "같은 문단의 欠㰦 반복이다."
+    },
+    {
+      "before": "手腳冷，欠KT　欲眠",
+      "after": "手腳冷，欠㰦欲眠",
+      "expected_count": 1,
+      "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+      "evidence_note": "張口欠伸 병후 欠㰦다.",
+      "reason": "張口欠伸 병후 欠㰦다."
+    },
+    {
+      "before": "[h4]二十二、食射KT肉中毒候[/h4]",
+      "after": "[h4]二十二、食射罔肉中毒候[/h4]",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/mid-page/7612768501190836270",
+      "evidence_note": "편명이 ‘食射罔肉中毒’으로 확인된다.",
+      "reason": "편명이 ‘食射罔肉中毒’으로 확인된다."
+    },
+    {
+      "before": "射獵人多用射KT　藥塗箭頭",
+      "after": "射獵人多用射罔藥塗箭頭",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+      "evidence_note": "烏頭汁 독화살 약명 射罔이다.",
+      "reason": "烏頭汁 독화살 약명 射罔이다."
+    },
+    {
+      "before": "KT　藥者，以生烏頭搗汁",
+      "after": "罔藥者，以生烏頭搗汁",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+      "evidence_note": "바로 앞 射罔藥의 축약 반복이다.",
+      "reason": "바로 앞 射罔藥의 축약 반복이다."
     }
   ],
   "O/O065.txt": [
@@ -95715,6 +95771,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E5%B7%B1%E4%BB%BB%E7%B7%A8/index.html",
       "evidence_note": "O/O089.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "皂莢。即皂角。維HT　。烏犀。懸刀。皆其名也",
+      "after": "皂莢。即皂角。雞栖。烏犀。懸刀。皆其名也",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/GJTS20/chapter/1lpfeopj0vmly",
+      "evidence_note": "皂莢 별명 ‘雞栖子’의 축약 표기 雞栖이며 烏犀·懸刀와 나란히 든다.",
+      "reason": "皂莢 별명 ‘雞栖子’의 축약 표기 雞栖이며 烏犀·懸刀와 나란히 든다."
+    },
+    {
+      "before": "日夜尋繹。如有夙HT　。噫",
+      "after": "日夜尋繹。如有夙緣。噫",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=412982&if=gb",
+      "evidence_note": "문맥상 오래전부터 맺어진 인연을 뜻하는 고정어 夙緣이다.",
+      "reason": "문맥상 오래전부터 맺어진 인연을 뜻하는 고정어 夙緣이다."
+    },
+    {
+      "before": "及背上簇簇一HT　先見。俱不祥",
+      "after": "及背上簇簇一片先見。俱不祥",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E5%B7%B1%E4%BB%BB%E7%B7%A8/index.html",
+      "evidence_note": "앞 문장의 ‘胸脯簇簇一片’과 대구를 이루는 동일 어구다.",
+      "reason": "앞 문장의 ‘胸脯簇簇一片’과 대구를 이루는 동일 어구다."
     }
   ],
   "O/O092.txt": [
@@ -97437,6 +97517,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%A7%E6%9D%BE%E5%9C%92%E9%86%AB%E9%8F%A1/index.html",
       "evidence_note": "O/O092.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "HT　求延挨時日，尚不可得",
+      "after": "苟求延挨時日，尚不可得",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%A1%A7%E6%9D%BE%E5%9C%92%E9%86%AB%E9%8F%A1",
+      "evidence_note": "‘겨우 시일을 끌기를 구하다’라는 문맥의 苟求다.",
+      "reason": "‘겨우 시일을 끌기를 구하다’라는 문맥의 苟求다."
+    },
+    {
+      "before": "溫氣淫HT　則汗出",
+      "after": "溫氣淫泆則汗出",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/dic/14526",
+      "evidence_note": "《靈樞·經脈》 주석의 고정 문구 ‘溫氣淫泆則汗出’다.",
+      "reason": "《靈樞·經脈》 주석의 고정 문구 ‘溫氣淫泆則汗出’다."
+    },
+    {
+      "before": "目KT　KT　如無所見",
+      "after": "目䀮䀮如無所見",
+      "expected_count": 1,
+      "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+      "evidence_note": "《靈樞·經脈》 직접 인용 ‘目䀮䀮如無所見’로 확인된다.",
+      "reason": "《靈樞·經脈》 직접 인용 ‘目䀮䀮如無所見’로 확인된다."
     }
   ],
   "O/O096.txt": [

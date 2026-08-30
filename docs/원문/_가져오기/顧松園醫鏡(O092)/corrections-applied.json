@@ -1718,5 +1718,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%A7%E6%9D%BE%E5%9C%92%E9%86%AB%E9%8F%A1/index.html",
     "evidence_note": "O/O092.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　求延挨時日，尚不可得",
+    "after": "苟求延挨時日，尚不可得",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%A1%A7%E6%9D%BE%E5%9C%92%E9%86%AB%E9%8F%A1",
+    "evidence_note": "‘겨우 시일을 끌기를 구하다’라는 문맥의 苟求다.",
+    "reason": "‘겨우 시일을 끌기를 구하다’라는 문맥의 苟求다."
+  },
+  {
+    "before": "溫氣淫HT　則汗出",
+    "after": "溫氣淫泆則汗出",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/dic/14526",
+    "evidence_note": "《靈樞·經脈》 주석의 고정 문구 ‘溫氣淫泆則汗出’다.",
+    "reason": "《靈樞·經脈》 주석의 고정 문구 ‘溫氣淫泆則汗出’다."
+  },
+  {
+    "before": "目KT　KT　如無所見",
+    "after": "目䀮䀮如無所見",
+    "expected_count": 1,
+    "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+    "evidence_note": "《靈樞·經脈》 직접 인용 ‘目䀮䀮如無所見’로 확인된다.",
+    "reason": "《靈樞·經脈》 직접 인용 ‘目䀮䀮如無所見’로 확인된다."
   }
 ]

@@ -918,5 +918,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E5%B7%B1%E4%BB%BB%E7%B7%A8/index.html",
     "evidence_note": "O/O089.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "皂莢。即皂角。維HT　。烏犀。懸刀。皆其名也",
+    "after": "皂莢。即皂角。雞栖。烏犀。懸刀。皆其名也",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/GJTS20/chapter/1lpfeopj0vmly",
+    "evidence_note": "皂莢 별명 ‘雞栖子’의 축약 표기 雞栖이며 烏犀·懸刀와 나란히 든다.",
+    "reason": "皂莢 별명 ‘雞栖子’의 축약 표기 雞栖이며 烏犀·懸刀와 나란히 든다."
+  },
+  {
+    "before": "日夜尋繹。如有夙HT　。噫",
+    "after": "日夜尋繹。如有夙緣。噫",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=412982&if=gb",
+    "evidence_note": "문맥상 오래전부터 맺어진 인연을 뜻하는 고정어 夙緣이다.",
+    "reason": "문맥상 오래전부터 맺어진 인연을 뜻하는 고정어 夙緣이다."
+  },
+  {
+    "before": "及背上簇簇一HT　先見。俱不祥",
+    "after": "及背上簇簇一片先見。俱不祥",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E5%B7%B1%E4%BB%BB%E7%B7%A8/index.html",
+    "evidence_note": "앞 문장의 ‘胸脯簇簇一片’과 대구를 이루는 동일 어구다.",
+    "reason": "앞 문장의 ‘胸脯簇簇一片’과 대구를 이루는 동일 어구다."
   }
 ]

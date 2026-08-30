@@ -582,5 +582,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%85%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91%E6%AD%8C%E6%8B%AC/index.html",
     "evidence_note": "G/G001.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "國變後，隱居崛HT　山中，四方仰望豐采。",
+    "after": "國變後，隱居崛圍山中，四方仰望豐采。",
+    "expected_count": 1,
+    "reason": "傅山의 은거지는 산서성 崛圍山이다.",
+    "evidence_url": "https://teacher.aedocenter.com/med-2/aee-13.htm",
+    "evidence_note": "동일 서문의 독립 공개 전사에서 `隱居崛（山圍）山中`으로 확인되고 지명 崛圍山과 일치한다."
   }
 ]

@@ -110,5 +110,53 @@
     "reason": "《難經》 평행문으로 䀮䀮 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%A8%BB%E8%A7%A3%E5%82%B7%E5%AF%92%E8%AB%96/index.html",
     "evidence_note": "B/B001.txt:3425 공개 고전 전사·영인 문맥 대조"
+  },
+  {
+    "before": "《難經》曰：氣主　之，血主濡之",
+    "after": "《難經》曰：氣主煦之，血主濡之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9B%A3%E7%B6%93",
+    "evidence_note": "難經 인용 ‘氣主煦之，血主濡之’.",
+    "reason": "難經 인용 ‘氣主煦之，血主濡之’."
+  },
+  {
+    "before": "脈（趙本注：「一云夏脈」）　，（趙本作：「累累」）",
+    "after": "脈（趙本注：「一云夏脈」）來，（趙本作：「累累」）",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%98%8E%E7%90%86%E8%AB%96/index.html",
+    "evidence_note": "문장 성분 ‘脈來’ 및 교감주 累累.",
+    "reason": "문장 성분 ‘脈來’ 및 교감주 累累."
+  },
+  {
+    "before": "脈浮，主　然汗出而解者",
+    "after": "脈浮，主翕然汗出而解者",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "상한 조문 ‘翕然汗出而解’.",
+    "reason": "상한 조문 ‘翕然汗出而解’."
+  },
+  {
+    "before": "唇吻反青，四肢　習者",
+    "after": "唇吻反青，四肢瞤習者",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%98%8E%E7%90%86%E8%AB%96/index.html",
+    "evidence_note": "肝絕 병후 瞤習.",
+    "reason": "肝絕 병후 瞤習."
+  },
+  {
+    "before": "設令向壁臥，聞師到，不驚起而　視",
+    "after": "設令向壁臥，聞師到，不驚起而眴視",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "詐病 판별 조문의 眴視.",
+    "reason": "詐病 판별 조문의 眴視."
+  },
+  {
+    "before": "夏傷於暑，春（趙本作「秋」）必病（醫統本作「　」）瘧",
+    "after": "夏傷於暑，春（趙本作「秋」）必病（醫統本作「痎」）瘧",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E9%99%B0%E9%99%BD%E6%87%89%E8%B1%A1%E5%A4%A7%E8%AB%96",
+    "evidence_note": "병명 痎瘧.",
+    "reason": "병명 痎瘧."
   }
 ]

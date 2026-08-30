@@ -1326,5 +1326,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
     "evidence_note": "O/O045.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "是形HT　怛，或懷重慎",
+    "after": "是形𦞙怛，或懷重慎",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
+    "evidence_note": "공개 전사 서문에서 ‘是形𦞙怛’로 직접 확인된다.",
+    "reason": "공개 전사 서문에서 ‘是形𦞙怛’로 직접 확인된다."
+  },
+  {
+    "before": "張口欠KT　，或清朝小蘇",
+    "after": "張口欠㰦，或清朝小蘇",
+    "expected_count": 1,
+    "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+    "evidence_note": "고정어 欠㰦는 張口運氣의 뜻이다.",
+    "reason": "고정어 欠㰦는 張口運氣의 뜻이다."
+  },
+  {
+    "before": "先寒熱惡冷，欠KT　，筋急",
+    "after": "先寒熱惡冷，欠㰦，筋急",
+    "expected_count": 1,
+    "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+    "evidence_note": "같은 문단의 欠㰦 반복이다.",
+    "reason": "같은 문단의 欠㰦 반복이다."
+  },
+  {
+    "before": "手腳冷，欠KT　欲眠",
+    "after": "手腳冷，欠㰦欲眠",
+    "expected_count": 1,
+    "evidence_url": "https://zdic.net/hans/%E6%AC%A0",
+    "evidence_note": "張口欠伸 병후 欠㰦다.",
+    "reason": "張口欠伸 병후 欠㰦다."
+  },
+  {
+    "before": "[h4]二十二、食射KT肉中毒候[/h4]",
+    "after": "[h4]二十二、食射罔肉中毒候[/h4]",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/mid-page/7612768501190836270",
+    "evidence_note": "편명이 ‘食射罔肉中毒’으로 확인된다.",
+    "reason": "편명이 ‘食射罔肉中毒’으로 확인된다."
+  },
+  {
+    "before": "射獵人多用射KT　藥塗箭頭",
+    "after": "射獵人多用射罔藥塗箭頭",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+    "evidence_note": "烏頭汁 독화살 약명 射罔이다.",
+    "reason": "烏頭汁 독화살 약명 射罔이다."
+  },
+  {
+    "before": "KT　藥者，以生烏頭搗汁",
+    "after": "罔藥者，以生烏頭搗汁",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+    "evidence_note": "바로 앞 射罔藥의 축약 반복이다.",
+    "reason": "바로 앞 射罔藥의 축약 반복이다."
   }
 ]

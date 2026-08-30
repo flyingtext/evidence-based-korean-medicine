@@ -686,5 +686,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
     "evidence_note": "B/B003.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "其身體KT　KT　。便為　也",
+    "after": "其身體𠘧𠘧。便為　也",
+    "expected_count": 1,
+    "reason": "痙병 조문의 `身體強𠘧𠘧然` 계열 희귀자다.",
+    "evidence_url": "https://yibian.hopto.org/shu/?sid=5661",
+    "evidence_note": "독립 경문 전사에서 `身體強，几几然`이 확인되며 저장소 기존 관례에 따라 원형 `𠘧𠘧`을 쓴다."
+  },
+  {
+    "before": "太陽病。項強KT　KT　。反汗出惡風者。此主之。",
+    "after": "太陽病。項強𠘧𠘧。反汗出惡風者。此主之。",
+    "expected_count": 1,
+    "reason": "桂枝加葛根湯의 고정 조문이다.",
+    "evidence_url": "https://www.shidianguji.com/zh/mid-page/7446892853344763954",
+    "evidence_note": "독립 공개 전사에서 `太陽病，項背強几几，反汗出惡風者`가 확인된다."
   }
 ]
