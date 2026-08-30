@@ -1,4 +1,14 @@
 {
+  "I/I105.txt": [
+    {
+      "before": "臟腑之蓋□既□，營衛之布□難周",
+      "after": "臟腑之蓋藏既鮮，營衛之布護難周",
+      "expected_count": 1,
+      "reason": "國家圖書館 공개 영인 판면에서 연속 결자 3자를 직접 판독",
+      "evidence_url": "https://taiwanebook.ncl.edu.tw/ebkFiles/NCL-9910015363/NCL-9910015363.PDF#page=23",
+      "evidence_note": "《瘍科綱要》 PDF 23면 판심 19, 오른쪽 둘째 열에 臟腑之蓋藏既鮮，營衛之布護難周로 선명함"
+    }
+  ],
   "I/I013.txt": [
     {
       "before": "腳力轉解周HT　，輕拽",

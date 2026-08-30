@@ -23,6 +23,14 @@
       "reason": "jicheng 전문 대조 KT 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%95%9F%E6%BA%90/index.html",
       "evidence_note": "目䀮䀮 확인"
+    },
+    {
+      "before": "〔壬辰遺失，□□□存者惟《醫學啟源》〕",
+      "after": "〔壬辰遺失，今之所存者惟《醫學啟源》〕",
+      "expected_count": 1,
+      "reason": "대괄호로 표시된 편집 보충문을 문맥과 공개 원판·독해 자료를 대조해 완성",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:CADAL02093600_%E9%86%AB%E5%AD%B8%E5%95%93%E6%BA%90%EF%BC%88%E4%B8%80%EF%BC%89.djvu",
+      "evidence_note": "CADAL 영인 3/71은 壬辰遺失惟醫學啟源으로 이어짐. 〔〕 안의 今之所는 원판 실자 판독이 아니라 現存的只有라는 공개 독해와 문법에 따른 명시적 편집 보충임"
     }
   ],
   "O/O006.txt": [
