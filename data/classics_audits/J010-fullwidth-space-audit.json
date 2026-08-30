@@ -1,0 +1,21 @@
+{
+  "source_path": "J/J010.txt",
+  "title": "金瘡秘傳禁方",
+  "source_fullwidth_spaces": 48,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 48,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "원 source의 전각 공백 48자리 문맥 전수 판정",
+    "jicheng 최신 정리본 전문과 문단 단위 대조",
+    "대규모 잘림·문단 접합·OCR 오기·자동번역 잔재 및 처방 결락 복원"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%87%91%E7%98%A1%E7%A7%98%E5%82%B3%E7%A6%81%E6%96%B9/index.html",
+    "https://cloudtcm.com/formula/list/ebookformula/278/0"
+  ],
+  "corrected_body_sha256": "149257a18418f6bdaaac5d9a8d377d26f131db144deb2cae9bf70b6a7944c345",
+  "note": "전각 공백은 모두 약물명 또는 구절을 나누는 판면 공백이었다. 공백 자체보다 원 전사본에 문장·처방 단위의 광범위한 잘림이 확인되어 jicheng 최신 정리본 전문으로 복원했다."
+}
