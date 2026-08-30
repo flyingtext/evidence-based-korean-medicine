@@ -39266,6 +39266,55 @@
       "expected_count": 32,
       "reason": "자전·의서 용례의 병증어 ‘㽲痛’과 대상의 모든 용례가 일치한다.",
       "evidence_url": "https://www.shidianguji.com/character/%E3%BD%B2"
+    },
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "膨",
+      "expected_count": 3,
+      "reason": "동일 처방 계통의 `脇肋膨脹` 평행문과 세 문맥이 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=790088&if=en"
+    },
+    {
+      "before": "[c]fkss[/c]",
+      "after": "熨",
+      "expected_count": 1,
+      "reason": "동일 고약 제조법이 `每使時看大小，用火熨紙上勻攤貼之`로 전한다.",
+      "evidence_url": "https://www.damacun.vip/static/upload/file/20211203/1638518397493245.pdf"
+    },
+    {
+      "before": "[c]kdam[/c]",
+      "after": "㾴",
+      "expected_count": 1,
+      "reason": "龍虎丹의 동일 연속 병증문이 `㾴風面生赤點`으로 전한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/NA06137/chapter/1l59re76fr38o"
+    },
+    {
+      "before": "[c]khuc[/c]",
+      "after": "㿗",
+      "expected_count": 2,
+      "reason": "의방 평행문의 고정 병증어 `陰㿗` 및 `陰腎㿗腫`과 두 occurrence가 일치한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/NA06186/chapter/1m63txv0d4ram"
+    },
+    {
+      "before": "[c]ksrb[/c]",
+      "after": "痿",
+      "expected_count": 1,
+      "reason": "耆婆萬病丸의 동일 효능문이 `十二種痿痺`로 전한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/mid-page/7371189879201398822"
+    },
+    {
+      "before": "[c]wfmj[/c]",
+      "after": "皯",
+      "expected_count": 7,
+      "reason": "외대·의학강목의 피부 반점어 `皯黯`, `去皯`과 7개 문맥이 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=980102&if=gb"
+    },
+    {
+      "before": "[c]wfcwa[/c]",
+      "after": "䵴",
+      "expected_count": 4,
+      "reason": "《外臺秘要》 평행문의 연면 병증어 `皯䵴`과 네 occurrence의 `皯[c]wfcwa[/c]`가 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=980102&if=gb"
     }
   ]
 }

@@ -21332,6 +21332,104 @@
       "expected_count": 1,
       "reason": "질환명 酒齄鼻",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "小腸膀胱屬太陽，　本羌活是本鄉",
+      "after": "小腸膀胱屬太陽，藁本羌活是本鄉",
+      "expected_count": 1,
+      "reason": "약명 藁本과 운문 문맥이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "諸　郁病痿，皆屬肺金",
+      "after": "諸氣膹郁病痿，皆屬肺金",
+      "expected_count": 1,
+      "reason": "《素問·至真要大論》의 독립 평행문 ‘諸氣膹鬱，皆屬於肺’로 두 결자를 확인했다.",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zhi-zhen-yao-da-lun"
+    },
+    {
+      "before": "諸暴強直，支痛　戾，裡急筋縮",
+      "after": "諸暴強直，支痛緛戾，裡急筋縮",
+      "expected_count": 1,
+      "reason": "같은 책의 바로 뒤 해설 ‘緛戾、筋縮也’ 및 동일 전문으로 확인했다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "火主　腫脹，故熱客陽明，而鼻中　脹窒塞也",
+      "after": "火主膹腫脹，故熱客陽明，而鼻中瞑脹窒塞也",
+      "expected_count": 1,
+      "reason": "독립 전사의 ‘火主…膹腫脹’ 및 ‘鼻中瞑脹則窒塞’ 평행문과 일치한다.",
+      "evidence_url": "https://yibian.hopto.org/"
+    },
+    {
+      "before": "驚駭。　腫酸疼，氣逆衝上",
+      "after": "驚駭。胕腫酸疼，氣逆衝上",
+      "expected_count": 1,
+      "reason": "병기십구조 평행문 ‘諸病胕腫，疼酸驚駭’로 확인했다.",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zhi-zhen-yao-da-lun"
+    },
+    {
+      "before": "目昧不明，暴注、　螈，暴病暴死",
+      "after": "目昧不明，暴注、瞤螈，暴病暴死",
+      "expected_count": 1,
+      "reason": "동일 전문의 열기 병증 열거 ‘暴注瞤螈’과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "此與濕門　腫有別",
+      "after": "此與濕門胕腫有別",
+      "expected_count": 1,
+      "reason": "앞뒤에서 정의하는 병증어 胕腫 및 내경 평행문으로 확인했다.",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zhi-zhen-yao-da-lun"
+    },
+    {
+      "before": "症瘕　疝，堅痞腹滿急痛",
+      "after": "症瘕㿗疝，堅痞腹滿急痛",
+      "expected_count": 1,
+      "reason": "의서의 고정 병증열 ‘癥瘕㿗疝’과 동일하다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "同參　煎服，定虛喘促神方",
+      "after": "同參耆煎服，定虛喘促神方",
+      "expected_count": 1,
+      "reason": "약명 병렬 人參·黃耆의 축약 ‘參耆’로 확인했다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "佐黃　、入牛膝",
+      "after": "佐黃耆、入牛膝",
+      "expected_count": 1,
+      "reason": "본초 약명 黃耆이며 동일 책의 반복 용례와 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "止痔　來血",
+      "after": "止痔瘻來血",
+      "expected_count": 1,
+      "reason": "병명 痔瘻와 문맥이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "乳癰瘰　殊功，腸風痔　立效",
+      "after": "乳癰瘰癧殊功，腸風痔瘻立效",
+      "expected_count": 1,
+      "reason": "독립 《本草蒙筌》 인용이 ‘乳癰瘰癧殊功，腸風痔瘻立效’로 완전 일치한다.",
+      "evidence_url": "https://yibian.hopto.org/shu/?sid=76019"
+    },
+    {
+      "before": "鐵　頭上也出汗",
+      "after": "鐵幞頭上也出汗",
+      "expected_count": 1,
+      "reason": "浮萍의 채평가 평행문에 보이는 ‘鐵幞頭上也出汗’으로 확인했다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "氣寒，味鹹苦，無毒。治項間瘰　，消頸下癭囊",
+      "after": "氣寒，味鹹苦，無毒。治項間瘰癧，消頸下癭囊",
+      "expected_count": 1,
+      "reason": "고정 병명 瘰癧 및 동일 책의 두 번째 海藻 본초 조문을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
     }
   ],
   "C/C018a.txt": [
@@ -21488,6 +21586,20 @@
       "expected_count": 2,
       "reason": "‘驚癇’·‘癲癇’ 병증명.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "皺",
+      "expected_count": 2,
+      "reason": "두 occurrence는 `肉胝而唇揭`와 그 음주 `，皮厚也`이다. 《素問·五藏生成》의 독립 평행문은 `多食酸，則肉胝皺而唇揭`로 전하며, 주석의 피부가 두껍다는 풀이도 皺에 대응한다.",
+      "evidence_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=101&code=110030&q=1&s=0101&t=Q"
+    },
+    {
+      "before": "",
+      "after": "臁",
+      "expected_count": 2,
+      "reason": "동일 문헌의 조목식 공개 전문이 `臁頑惡瘡`과 `有臁瘡赤腫而痛`으로 두 곳을 모두 전사한다. 《本草綱目》 桑 조문의 `陰瘡、瘰癧、流注、臁瘡、頑瘡、惡瘡` 평행문도 자형을 뒷받침한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81_%E6%A2%9D%E5%88%97%E7%89%88/index.html"
     }
   ]
 }

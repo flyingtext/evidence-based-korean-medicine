@@ -34,6 +34,20 @@
       "expected_count": 1,
       "reason": "침 아래의 氣 유무를 설명하는 有氣無氣 문맥을 공개 전사로 대조",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+    },
+    {
+      "before": "虛HT　補瀉，實HT　補瀉",
+      "after": "虛撞搓補瀉，實撞搓補瀉",
+      "expected_count": 1,
+      "reason": "동문헌 목차와 본문에 연속 술명 ‘虛撞搓十三法·實撞搓十四法’가 명시되어 두 HT가 함께 확정된다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+    },
+    {
+      "before": "胞肓並行下HT　邊",
+      "after": "胞肓並行下秩邊",
+      "expected_count": 1,
+      "reason": "방광경 경혈 순서에서 胞肓 다음 혈은 秩邊이며 공개 전사의 같은 행도 해당 위치를 보인다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
     }
   ],
   "K/K004.txt": [

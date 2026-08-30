@@ -89,9 +89,9 @@
     },
     {
       "before": "大法以口□為主，若膿成□□□而殞",
-      "after": "大法以□□為主，若膿成□□□而殞",
+      "after": "大法以〔闕二字〕為主，若膿成〔闕三字〕而殞",
       "expected_count": 1,
-      "reason": "독립 공개 영인 2종에서 OCR이 口로 오인한 결자틀을 원판대로 복원",
+      "reason": "독립 공개 영인 2종에서 OCR 口를 포함한 원판 결자틀 2칸+3칸을 확인해, 임의 보충 없이 결락 수를 명시",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/NAJDA-300-0206_%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B82.pdf#page=3",
       "evidence_note": "內閣文庫본과 SSID-12130371 모두 大法以□□為主，若膿成□□□而殞로 인쇄됨"
     },
@@ -44758,6 +44758,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%9F%B3%E5%AE%A4%E7%A7%98%E9%8C%84/index.html",
       "evidence_note": "O/O058.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "共奔毒□下者乎",
+      "after": "共奔毒氣之下者乎",
+      "expected_count": 1,
+      "reason": "〈假治法〉의 패잔병 비유에서 ‘共奔毒氣之下者乎’로 이어지는 공개 전문과 일치한다. □가 한 글자를 나타내지만 원문에는 ‘氣之’ 두 글자가 탈락한 경우다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%9F%B3%E5%AE%A4%E7%A7%98%E9%8C%84"
     }
   ],
   "O/O059.txt": [

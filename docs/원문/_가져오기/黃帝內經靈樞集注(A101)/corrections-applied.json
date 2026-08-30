@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "before": "猶HT　也。刺雖久",
+    "after": "猶閉也。刺雖久",
+    "expected_count": 1,
+    "reason": "《靈樞·九鍼十二原》 평행문 ‘猶閉也。刺雖久’.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "結雖久猶可解也。HT　雖久猶可決也",
+    "after": "結雖久猶可解也。閉雖久猶可決也",
+    "expected_count": 1,
+    "reason": "동일 편 원문이 ‘閉雖久，猶可決也’로 일치.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "猶解結也。猶決HT　也。疾雖久",
+    "after": "猶解結也。猶決閉也。疾雖久",
+    "expected_count": 1,
+    "reason": "동일 편 원문 ‘猶決閉也’.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "（HT　音卞摶也）",
+    "after": "（閉音卞摶也）",
+    "expected_count": 1,
+    "reason": "앞의 반복자 閉에 대한 음주이며 문맥상 동일자.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "飲食居處。猶結猶HT　。病由內生者也",
+    "after": "飲食居處。猶結猶閉。病由內生者也",
+    "expected_count": 1,
+    "reason": "주석이 앞 경문의 ‘結·閉’ 비유를 그대로 재사용한다.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "結在血脈HT　在筋骨",
+    "after": "結在血脈閉在筋骨",
+    "expected_count": 1,
+    "reason": "刺·污·結·閉의 네 비유를 조직 층위에 배속한 주석.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001972306"
+  },
+  {
+    "before": "太陰終者。腹脹HT　。不得息",
+    "after": "太陰終者。腹脹閉。不得息",
+    "expected_count": 1,
+    "reason": "《靈樞·終始》 평행문 ‘腹脹閉，不得息’.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B5%82%E5%A7%8B"
+  },
+  {
+    "before": "（HT　閉同）",
+    "after": "（閉閉同）",
+    "expected_count": 1,
+    "reason": "바로 앞 경문 결자의 교감주. 원자료의 ‘閉同’을 보존하는 최소 복원.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B5%82%E5%A7%8B"
+  },
+  {
+    "before": "坐而欲起。目KT　KT　如無所見",
+    "after": "坐而欲起。目䀮䀮如無所見",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 족소음 병후의 공개 평행문 ‘目䀮䀮如無所見’.",
+    "evidence_url": "https://www.nricm.edu.tw/var/file/0/1000/img/134/663749534.pdf"
+  },
+  {
+    "before": "骨之精為瞳子。目KT　KT　無所見者",
+    "after": "骨之精為瞳子。目䀮䀮無所見者",
+    "expected_count": 1,
+    "reason": "주석도 경문의 䀮䀮를 반복하며 ‘精氣不升也’로 해설한다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/318/85"
+  },
+  {
+    "before": "頭沉沉然。目KT　KT　然。腰脊強",
+    "after": "頭沉沉然。目䀮䀮然。腰脊強",
+    "expected_count": 1,
+    "reason": "《靈樞·雜病》 평행문 및 뒤 음주 ‘音荒’과 일치.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E9%9B%9C%E7%97%85"
+  }
+]
