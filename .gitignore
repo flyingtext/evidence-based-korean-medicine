@@ -33,6 +33,9 @@ scripts/.progress.json
 scripts/loop.log
 docs/원문/_가져오기/.catalog.lock
 data/*.json.lock
+data/**/*.json.lock
+data/*.tmp
+data/**/*.tmp
 data/.classics-json.lock
 
 # opencode local config
