@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "before": "斬關排HT　而後已",
+    "after": "斬關排䟾而後已",
+    "expected_count": 1,
+    "reason": "jicheng 1910년 석인본 계통 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html"
+  },
+  {
+    "before": "如HT　醬相似",
+    "after": "如⿳𠆢覀皿醬相似",
+    "expected_count": 1,
+    "reason": "jicheng 전문의 IDS 표기 보존",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html"
+  }
+]

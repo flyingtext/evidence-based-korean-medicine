@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "before": "肌膚　KT　，肺氣迫塞",
+    "after": "肌膚悗𤍜，肺氣迫塞",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 고유 문맥 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html"
+  },
+  {
+    "before": "男子如蠱女子如KT",
+    "after": "男子如蠱女子如怚",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문·후속 주석 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html"
+  }
+]
