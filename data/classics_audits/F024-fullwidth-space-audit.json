@@ -1,0 +1,20 @@
+{
+  "source_path": "F/F024.txt",
+  "title": "脾胃論",
+  "source_fullwidth_spaces": 584,
+  "restored_or_normalized_positions": 102,
+  "preserved_layout_spaces": 482,
+  "unresolved": 0,
+  "method": [
+    "jicheng.tw 최신 전문과 문자 단위 전역 정렬",
+    "독립 공개 고본·전사 및 평행 인용 교차 확인",
+    "HT·KT·□·U+FFFD 및 [u][c][i][z] 변환 잔존 전수 검사",
+    "전각 공백 전수 판정"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html",
+    "https://zh.wikisource.org/wiki/%E8%84%BE%E8%83%83%E8%AB%96"
+  ],
+  "corrected_body_sha256": "1eb91931a94af49dded4d29af960a315f24d03d33e3df53d08cdd75ae6b85737",
+  "note": "전각 공백 584곳 전수 판정: 결자·깨진 HT/KT 토큰 102자리 복원, 판면·처방 공백 482곳 보존. BMP 도판 표식 1곳 정규화, 연도 메타데이터 교정, 원자료 표점 충분"
+}
