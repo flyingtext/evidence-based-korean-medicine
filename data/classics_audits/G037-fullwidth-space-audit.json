@@ -1,0 +1,38 @@
+{
+  "source_path": "G/G037.txt",
+  "title": "衛生家寶產科備要",
+  "source_audit": {
+    "fullwidth_spaces": 493,
+    "HT": 1,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 81,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 460,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 81,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·강조 표지 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지·학술 인용 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E5%AE%B6%E5%AF%B6%E7%94%A2%E7%A7%91%E5%82%99%E8%A6%81/index.html",
+    "https://ctext.org/wiki.pl?if=en&res=113918",
+    "https://www.hkihss.hku.hk/filemanager/content/others/angela-ki-che-leung/pdf/books/2005_funu.pdf"
+  ],
+  "corrected_body_sha256": "12d82662bec2ffc79b14aa3aa7e2890c6fb390cdad2d8130ec6b1512f8eb75a0",
+  "note": "전각 공백 493곳·HT 1곳·[u] 81곳 전수 판정. jicheng Google Books 스캔 정리본과 CText OCR·학술 인용 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+}

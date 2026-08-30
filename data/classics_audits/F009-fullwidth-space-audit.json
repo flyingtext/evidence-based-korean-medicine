@@ -1,0 +1,38 @@
+{
+  "source_path": "F/F009.txt",
+  "title": "內外傷辨",
+  "source_audit": {
+    "fullwidth_spaces": 352,
+    "HT": 3,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 1,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 319,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 1,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·강조 표지 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지·학술 인용 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+    "https://zh.wikisource.org/zh-hans/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96",
+    "https://ctext.org/wiki.pl?if=gb&remap=gb&res=675331"
+  ],
+  "corrected_body_sha256": "2193d68f323e6a67032dd71033e54aa2056c850d2ab5f8c151c70c697032603f",
+  "note": "전각 공백 352곳·HT 3곳·[u] 1곳 전수 판정. jicheng 國家圖書館 明萬曆刊本과 Wikisource·CText 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+}

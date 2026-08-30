@@ -1,0 +1,38 @@
+{
+  "source_path": "I/I017.txt",
+  "title": "仙傳外科集驗方",
+  "source_audit": {
+    "fullwidth_spaces": 545,
+    "HT": 5,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 496,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·강조 표지 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지·학술 인용 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E4%BB%99%E5%82%B3%E5%A4%96%E7%A7%91%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+    "https://ctext.org/wiki.pl?if=gb&res=258085",
+    "https://www.shidianguji.com/zh/book/NGJ89241200000155087950/chapter/1lqj9dhzqfbxn"
+  ],
+  "corrected_body_sha256": "f1fa5f282a2cd27b71f24743c1a0a7376473552385127aa12376e33b9fae036a",
+  "note": "전각 공백 545곳·HT 5곳·[u] 2곳 전수 판정. jicheng 正統道藏本과 CText·識典古籍·학술 논문 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+}

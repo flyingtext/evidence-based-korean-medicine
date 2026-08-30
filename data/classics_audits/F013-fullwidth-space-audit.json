@@ -1,0 +1,37 @@
+{
+  "source_path": "F/F013.txt",
+  "title": "虛損啟微",
+  "source_audit": {
+    "fullwidth_spaces": 411,
+    "HT": 1,
+    "KT": 2,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 395,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·강조 표지 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지·학술 인용 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%99%9B%E6%90%8D%E5%95%9F%E5%BE%AE/index.html",
+    "https://cloudtcm.com/dic/4582"
+  ],
+  "corrected_body_sha256": "80e34d5b40507a9fc1fbe08186929433cf0e6d4aa62d2aae89e8740dbe7e6e08",
+  "note": "전각 공백 411곳·HT 1곳·KT 2곳·[u] 2곳 전수 판정. jicheng 北京大學圖書館 스캔 정리본과 저자·총서 서지 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+}
