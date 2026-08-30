@@ -35,10 +35,45 @@
     "evidence_url": "https://ctext.org/huangdi-neijing/zh"
   },
   {
+    "before": "欠KT　",
+    "after": "欠㰦",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 열결락의 정형 경문을 대조",
+    "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+  },
+  {
     "before": "肉胝KT　而唇揭",
     "after": "肉胝䐢而唇揭",
     "expected_count": 2,
     "reason": "《素問·五臟生成》의 정형 경문을 대조",
     "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "羲聖畫卦有奇耦HT　，表天地人之象也",
+    "after": "羲聖畫卦有奇耦懿，表天地人之象也",
+    "expected_count": 1,
+    "reason": "jicheng 최신 공개 전문과 독립 공개 인용의 동일 서문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E7%B4%A0%E7%AF%80%E6%B3%A8%E9%A1%9E%E7%B7%A8/index.html"
+  },
+  {
+    "before": "女子入系庭孔，即HT　漏之所，為陰庭",
+    "after": "女子入系庭孔，即⿰火⿱龷早漏之所，為陰庭",
+    "expected_count": 1,
+    "reason": "jicheng 전문과 검자 항목이 명시한 IDS 자형 복원",
+    "evidence_url": "https://jicheng.tw/hanzi/search?c=%E2%BF%B0%E7%81%AB%E2%BF%B1%E9%BE%B7%E6%97%A9&e=char"
+  },
+  {
+    "before": "毛髮堅，腠理　，煙垢著",
+    "after": "毛髮堅，腠理郄，煙垢著",
+    "expected_count": 1,
+    "reason": "《靈樞·歲露論》 공개 평행문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E7%B4%A0%E7%AF%80%E6%B3%A8%E9%A1%9E%E7%B7%A8/index.html"
+  },
+  {
+    "before": "毛髮殘，　理薄，煙垢落",
+    "after": "毛髮殘，膲理薄，煙垢落",
+    "expected_count": 1,
+    "reason": "《靈樞·歲露論》 공개 평행문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E7%B4%A0%E7%AF%80%E6%B3%A8%E9%A1%9E%E7%B7%A8/index.html"
   }
 ]

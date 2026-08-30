@@ -55,6 +55,20 @@
       "expected_count": 1,
       "reason": "《傷寒論》의 項背強几几 평행문을 대조",
       "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "勉□小子",
+      "after": "勉旃小子",
+      "expected_count": 1,
+      "reason": "崔嘉彥《脈訣》 평행문의 勉旃小子 대조",
+      "evidence_url": "https://www.shidianguji.com/mid-page/7484371424037339187"
+    },
+    {
+      "before": "五臟本病。熱爭重HT　(音捏)",
+      "after": "五臟本病。熱爭重疸(音捏)",
+      "expected_count": 1,
+      "reason": "공개 고전 《古今醫鑑》 동일 문단 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E9%91%92"
     }
   ],
   "O/O036.txt": [

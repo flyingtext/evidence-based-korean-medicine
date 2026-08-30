@@ -38,6 +38,20 @@
       "expected_count": 1,
       "reason": "《重修政和證類本草》 공개 영인의 인명 王珉을 직접 대조",
       "evidence_url": "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0383-%E5%94%90%E6%85%8E%E5%BE%AE-%E9%87%8D%E4%BF%AE%E6%94%BF%E5%92%8C%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89-12-08.djvu/192"
+    },
+    {
+      "before": "又呼為KT　病",
+      "after": "又呼為溪病",
+      "expected_count": 1,
+      "reason": "동일 절의 溪溫·溪毒 정의와 《諸病源候論》 평행문으로 외자 복원",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E4%BB%B2%E6%99%AF%E5%82%B7%E5%AF%92%E8%A3%9C%E4%BA%A1%E8%AB%96"
+    },
+    {
+      "before": "有傷寒身驗方云。KT　樺木皮濃汁冷凍飲料",
+      "after": "有傷寒身驗方云。煮樺木皮濃汁冷飲",
+      "expected_count": 1,
+      "reason": "《本草綱目》과 《重修政和證類本草》에 보존된 王珉 처방 대조로 외자와 자동번역 잔재 복원",
+      "evidence_url": "https://zh.wikisource.org/wiki/Page:Sibu_Congkan0383-%E5%94%90%E6%85%8E%E5%BE%AE-%E9%87%8D%E4%BF%AE%E6%94%BF%E5%92%8C%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89-12-08.djvu/192"
     }
   ],
   "B/B021a.txt": [

@@ -44,5 +44,19 @@
     "reason": "독립 평행 처방 2종의 연속 일치로 결자를 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html",
     "evidence_note": "《本草綱目拾遺》와 《瘍醫大全》 모두 ‘口上用舊髻鐵絲覆…’로 전함"
+  },
+  {
+    "before": "黃黑明亮，堅　者真",
+    "after": "黃黑明亮，堅實者真",
+    "expected_count": 1,
+    "reason": "《經驗丹方匯編》 명시 공개 약재 감별 인용문 대조",
+    "evidence_url": "https://whatsintcm.com/dt_articles/%E5%A4%A9%E5%8D%97%E6%98%9F/"
+  },
+  {
+    "before": "血竭一錢　朱丹　輕粉各二錢　白占□錢共末摻上。一日夜其肉四圍生起，兩日即平",
+    "after": "血竭一錢　朱丹　輕粉各二錢　白占三錢共末摻上。一日夜其肉四圍生起，兩日即平",
+    "expected_count": 1,
+    "reason": "퍼블릭 도메인 《公門果報錄》 동일 처방 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%85%AC%E9%96%80%E6%9E%9C%E5%A0%B1%E9%8C%84"
   }
 ]
