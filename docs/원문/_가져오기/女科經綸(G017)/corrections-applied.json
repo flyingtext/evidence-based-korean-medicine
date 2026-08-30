@@ -718,5 +718,77 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
     "evidence_note": "G/G017.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "芎歸東加參、　、白芍",
+    "after": "芎歸東加參、耆、白芍",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "처방 약명 參、耆.",
+    "reason": "처방 약명 參、耆."
+  },
+  {
+    "before": "寇宗　曰：人生以氣血為本",
+    "after": "寇宗奭曰：人生以氣血為本",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "인명 寇宗奭.",
+    "reason": "인명 寇宗奭."
+  },
+  {
+    "before": "寇宗　曰：凡看婦人病",
+    "after": "寇宗奭曰：凡看婦人病",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "인명 寇宗奭의 반복.",
+    "reason": "인명 寇宗奭의 반복."
+  },
+  {
+    "before": "婦人懷胎，腹中　痛，當歸芍藥散主之",
+    "after": "婦人懷胎，腹中㽲痛，當歸芍藥散主之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/%E5%A9%A6%E4%BA%BA%E5%A6%8A%E5%A8%A0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E7%AC%AC%E4%BA%8C%E5%8D%81",
+    "evidence_note": "《金匱要略》 평행문 ‘婦人懷妊，腹中㽲痛’.",
+    "reason": "《金匱要略》 평행문 ‘婦人懷妊，腹中㽲痛’."
+  },
+  {
+    "before": "婦人宿有　病，經斷未及三月",
+    "after": "婦人宿有癥病，經斷未及三月",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/%E5%A9%A6%E4%BA%BA%E5%A6%8A%E5%A8%A0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E7%AC%AC%E4%BA%8C%E5%8D%81",
+    "evidence_note": "桂枝茯苓丸 조문의 宿有癥病.",
+    "reason": "桂枝茯苓丸 조문의 宿有癥病."
+  },
+  {
+    "before": "其　不去故也。當下其　，桂枝茯苓丸主之",
+    "after": "其癥不去故也。當下其癥，桂枝茯苓丸主之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/%E5%A9%A6%E4%BA%BA%E5%A6%8A%E5%A8%A0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E7%AC%AC%E4%BA%8C%E5%8D%81",
+    "evidence_note": "같은 조문의 癥 두 occurrence.",
+    "reason": "같은 조문의 癥 두 occurrence."
+  },
+  {
+    "before": "故用朴硝、水銀、　砂之藥",
+    "after": "故用朴硝、水銀、硇砂之藥",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "광물 약명 硇砂.",
+    "reason": "광물 약명 硇砂."
+  },
+  {
+    "before": "產後中風，口眼　斜",
+    "after": "產後中風，口眼喎斜",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "중풍 병후 口眼喎斜.",
+    "reason": "중풍 병후 口眼喎斜."
+  },
+  {
+    "before": "升、柴、防、羌、　本、細辛",
+    "after": "升、柴、防、羌、藁本、細辛",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
+    "evidence_note": "풍약 藁本.",
+    "reason": "풍약 藁本."
   }
 ]

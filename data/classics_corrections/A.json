@@ -24421,6 +24421,70 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
       "evidence_note": "A/A201.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "顛癇螈　。與外筋不同",
+      "after": "顛癇螈瘲。與外筋不同",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+      "evidence_note": "병증 螈瘲.",
+      "reason": "병증 螈瘲."
+    },
+    {
+      "before": "諸氣　郁。皆屬於肺",
+      "after": "諸氣膹郁。皆屬於肺",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%87%B3%E7%9C%9F%E8%A6%81%E5%A4%A7%E8%AB%96",
+      "evidence_note": "병기십구조 평행문.",
+      "reason": "병기십구조 평행문."
+    },
+    {
+      "before": "久為腸　。夫下氣厥而上",
+      "after": "久為腸澼。夫下氣厥而上",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+      "evidence_note": "이어지는 전도지관 설명상 腸澼.",
+      "reason": "이어지는 전도지관 설명상 腸澼."
+    },
+    {
+      "before": "是以為腸　也。經曰。因而飽食",
+      "after": "是以為腸澼也。經曰。因而飽食",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E7%94%9F%E6%B0%A3%E9%80%9A%E5%A4%A9%E8%AB%96",
+      "evidence_note": "‘筋脈橫解，腸澼為痔’ 인용 직전의 병명.",
+      "reason": "‘筋脈橫解，腸澼為痔’ 인용 직전의 병명."
+    },
+    {
+      "before": "筋脈橫解。腸　為痔",
+      "after": "筋脈橫解。腸澼為痔",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E7%94%9F%E6%B0%A3%E9%80%9A%E5%A4%A9%E8%AB%96",
+      "evidence_note": "《素問·生氣通天論》 직접 인용.",
+      "reason": "《素問·生氣通天論》 직접 인용."
+    },
+    {
+      "before": "肺以熱移之。則必精鑠而骨　。是精無裨也。故為柔　",
+      "after": "肺以熱移之。則必精鑠而骨痿。是精無裨也。故為柔痙",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%A3%E5%8E%A5%E8%AB%96",
+      "evidence_note": "肺熱移腎의 柔痙을 해설하는 문맥; 骨痿와 柔痙.",
+      "reason": "肺熱移腎의 柔痙을 해설하는 문맥; 骨痿와 柔痙."
+    },
+    {
+      "before": "腎移熱於脾。傳為虛。腸　。死不可治",
+      "after": "腎移熱於脾。傳為虛。腸澼。死不可治",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%A3%E5%8E%A5%E8%AB%96",
+      "evidence_note": "《素問·氣厥論》 ‘傳為虛，腸澼，死不可治’.",
+      "reason": "《素問·氣厥論》 ‘傳為虛，腸澼，死不可治’."
+    },
+    {
+      "before": "是謂食　。  胃移熱於膽。亦曰食　",
+      "after": "是謂食亦。  胃移熱於膽。亦曰食亦",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%A3%E5%8E%A5%E8%AB%96",
+      "evidence_note": "氣厥論의 병명 食亦 두 occurrence.",
+      "reason": "氣厥論의 병명 食亦 두 occurrence."
     }
   ],
   "A/A202.txt": [

@@ -15895,6 +15895,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
       "evidence_note": "N/N038.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "香薷、滑石、葛根解暑止□為君",
+      "after": "香薷、滑石、葛根解暑止吐為君",
+      "expected_count": 1,
+      "evidence_url": "https://www.zzrvtc.edu.cn/_upload/article/files/d3/62/c2fdfafb4398b245fd7746a33525/b8d708af-5e2a-4b46-847c-0c183eae094e.pdf",
+      "evidence_note": "독립 공개 《續名醫類案》 PDF의 동일 孫竹野 의안이 ‘香薷、滑石、葛根，解暑止吐為君’으로 전재하며, 뒤 문장 ‘服三帖吐止’와도 일치한다.",
+      "reason": "독립 공개 《續名醫類案》 PDF의 동일 孫竹野 의안이 ‘香薷、滑石、葛根，解暑止吐為君’으로 전재하며, 뒤 문장 ‘服三帖吐止’와도 일치한다."
     }
   ],
   "N/N045.txt": [

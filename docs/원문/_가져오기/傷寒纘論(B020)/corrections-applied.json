@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "before": "必服藥時不如法不　熱粥助藥力",
+    "after": "必服藥時不如法不啜熱粥助藥力",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%8A",
+    "evidence_note": "桂枝湯 복용법의 ‘啜熱稀粥’ 평행문.",
+    "reason": "桂枝湯 복용법의 ‘啜熱稀粥’ 평행문."
+  },
+  {
+    "before": "心中懊　如飢",
+    "after": "心中懊憹如飢",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "傷寒論 병후 懊憹.",
+    "reason": "傷寒論 병후 懊憹."
+  },
+  {
+    "before": "筋惕肉　。此為逆也",
+    "after": "筋惕肉瞤。此為逆也",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "大青龍湯 오치 조문의 筋惕肉瞤.",
+    "reason": "大青龍湯 오치 조문의 筋惕肉瞤."
+  },
+  {
+    "before": "厥逆惕　。而速其陽之亡",
+    "after": "厥逆惕瞤。而速其陽之亡",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "앞 조문을 풀이한 동일자 瞤.",
+    "reason": "앞 조문을 풀이한 동일자 瞤."
+  },
+  {
+    "before": "直視不能　不得眠",
+    "after": "直視不能眴不得眠",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "衄家不可發汗 조문의 ‘直視不能眴’.",
+    "reason": "衄家不可發汗 조문의 ‘直視不能眴’."
+  },
+  {
+    "before": "心中懊　梔子豉湯主之",
+    "after": "心中懊憹梔子豉湯主之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "梔子豉湯 조문 懊憹.",
+    "reason": "梔子豉湯 조문 懊憹."
+  },
+  {
+    "before": "（　惱同）",
+    "after": "（憹惱同）",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "바로 앞 懊憹의 이체 주석.",
+    "reason": "바로 앞 懊憹의 이체 주석."
+  },
+  {
+    "before": "宜小建中加參　。頻服乃瘥",
+    "after": "宜小建中加參耆。頻服乃瘥",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B7%92%E8%AB%96/index.html",
+    "evidence_note": "처방 약명 人參·黃耆를 줄인 參耆.",
+    "reason": "처방 약명 人參·黃耆를 줄인 參耆."
+  },
+  {
+    "before": "厥陰之為病消渴氣上撞心。心中疼熱飢而不欲食。食則吐　下之利不止。（　蛔同）",
+    "after": "厥陰之為病消渴氣上撞心。心中疼熱飢而不欲食。食則吐蛕下之利不止。（蛕蛔同）",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%8E%A5%E9%99%B0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB",
+    "evidence_note": "厥陰 조문 원자의 蛕와 교감주 ‘蛕、蛔同’.",
+    "reason": "厥陰 조문 원자의 蛕와 교감주 ‘蛕、蛔同’."
+  },
+  {
+    "before": "食則吐　者胃中飢。　臭食則出也",
+    "after": "食則吐蛕者胃中飢。蛕臭食則出也",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%8E%A5%E9%99%B0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB",
+    "evidence_note": "蛔厥 해설에서 蛕 반복.",
+    "reason": "蛔厥 해설에서 蛕 반복."
+  }
+]

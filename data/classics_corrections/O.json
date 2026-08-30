@@ -46513,6 +46513,70 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E5%90%8D%E9%86%AB%E5%BD%99%E7%B2%B9/index.html",
       "evidence_note": "O/O060.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "或中風螈　，以精血之敗傷",
+      "after": "或中風螈瘲，以精血之敗傷",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E5%90%8D%E9%86%AB%E5%BD%99%E7%B2%B9/index.html",
+      "evidence_note": "병증 螈瘲.",
+      "reason": "병증 螈瘲."
+    },
+    {
+      "before": "病機云：諸氣　郁，皆屬於肺",
+      "after": "病機云：諸氣膹郁，皆屬於肺",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%87%B3%E7%9C%9F%E8%A6%81%E5%A4%A7%E8%AB%96",
+      "evidence_note": "《素問》 병기십구조 ‘諸氣膹鬱，皆屬於肺’.",
+      "reason": "《素問》 병기십구조 ‘諸氣膹鬱，皆屬於肺’."
+    },
+    {
+      "before": "其左　脅痛，不能轉側",
+      "after": "其左胠脅痛，不能轉側",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%87%B3%E7%9C%9F%E8%A6%81%E5%A4%A7%E8%AB%96",
+      "evidence_note": "燥勝 병후의 左胠脅痛.",
+      "reason": "燥勝 병후의 左胠脅痛."
+    },
+    {
+      "before": "丈夫　疝，婦人小腹痛",
+      "after": "丈夫㿉疝，婦人小腹痛",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%87%B3%E7%9C%9F%E8%A6%81%E5%A4%A7%E8%AB%96",
+      "evidence_note": "燥勝 병후 㿉疝.",
+      "reason": "燥勝 병후 㿉疝."
+    },
+    {
+      "before": "則飧泄、腸　，不一而起",
+      "after": "則飧泄、腸澼，不一而起",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E5%90%8D%E9%86%AB%E5%BD%99%E7%B2%B9/index.html",
+      "evidence_note": "병명 腸澼.",
+      "reason": "병명 腸澼."
+    },
+    {
+      "before": "如循琅　，曰心平",
+      "after": "如循琅玕，曰心平",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E5%B9%B3%E4%BA%BA%E6%B0%A3%E8%B1%A1%E8%AB%96",
+      "evidence_note": "平心脈 비유 ‘如循琅玕’.",
+      "reason": "平心脈 비유 ‘如循琅玕’."
+    },
+    {
+      "before": "脾脈外鼓，沉為腸　，久自己。肝脈小緩為腸　，易治。腎肝小搏沉，為腸　下血",
+      "after": "脾脈外鼓，沉為腸澼，久自己。肝脈小緩為腸澼，易治。腎肝小搏沉，為腸澼下血",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E5%A4%A7%E5%A5%87%E8%AB%96",
+      "evidence_note": "《素問·大奇論》의 腸澼 세 occurrence.",
+      "reason": "《素問·大奇論》의 腸澼 세 occurrence."
+    },
+    {
+      "before": "其脈小沉澀為腸　，其身熱者死",
+      "after": "其脈小沉澀為腸澼，其身熱者死",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E5%A4%A7%E5%A5%87%E8%AB%96",
+      "evidence_note": "동일 편 腸澼.",
+      "reason": "동일 편 腸澼."
     }
   ],
   "O/O061.txt": [
