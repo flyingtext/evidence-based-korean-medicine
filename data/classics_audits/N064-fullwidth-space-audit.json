@@ -1,0 +1,19 @@
+{
+  "source_path": "N/N064.txt",
+  "title": "仿寓意草",
+  "source_fullwidth_spaces": 0,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 0,
+  "unresolved": 0,
+  "method": [
+    "jicheng.tw 최신 전문과 원자료 문자 단위 전역 정렬",
+    "독립 공개 판본·서지 교차 확인",
+    "HT·KT·□·U+FFFD·[u]·[c] 전수 검사",
+    "전각 공백 전수 판정"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E4%BB%BF%E5%AF%93%E6%84%8F%E8%8D%89/index.html"
+  ],
+  "corrected_body_sha256": "cec3c807340c0f187ff3128f2844aee483605617fa498456bfcdf9642c07549d",
+  "note": "전각 공백·깨진 토큰 없음. jicheng 최신 전사의 다수 OCR 오염은 채택하지 않고 원자료의 문맥상 우세 독법을 보존했으며 서문·공개 서지를 대조, 원자료 표점 충분"
+}
