@@ -1,0 +1,17 @@
+{
+  "source_path": "O/O118.txt",
+  "title": "推篷寤語",
+  "source_fullwidth_spaces": 0,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": ["jicheng 최신 전문 정렬", "CText 독립 전문 대조", "Wikimedia Commons 명대 영인 계통 확인"],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E6%8E%A8%E7%AF%B7%E5%AF%A4%E8%AA%9E/index.html",
+    "https://ctext.org/wiki.pl?if=gb&res=471346",
+    "https://commons.wikimedia.org/wiki/Category:%E4%BA%94%E6%9C%9D%E5%B0%8F%E8%AA%AA%E5%A4%A7%E8%A7%80"
+  ],
+  "corrected_body_sha256": "3f9f8a2ea3ceb3775d8217df17a336c8353794f18802359f7ab17bfa85fb9a6f",
+  "note": "전각 공백과 placeholder는 없었다. 최신 전문과 독립 전사·영인 계통을 대조해 曰 오인식, 파손 문자열과 명백한 OCR 오기 40곳을 복원했다."
+}

@@ -25,7 +25,12 @@ def tree_files(root: Path) -> dict[str, Path]:
     return {
         path.relative_to(root).as_posix(): path
         for path in root.rglob("*")
-        if path.is_file() and path.name != "finalized.json"
+        if (
+            path.is_file()
+            and path.name != "finalized.json"
+            # 번역 산출물은 정본 원문의 staging 동일성 검사 대상이 아니다.
+            and "_번역" not in path.relative_to(root).parts
+        )
     }
 
 
