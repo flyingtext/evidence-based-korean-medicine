@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%A2%BA/index.html",
+    "site": "jicheng.tw",
+    "page_title": "脈確",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:39:08.016799+00:00",
+    "html_sha256": "8264c5b2c286807e2728429183fcb5f0d89754959c7f6ebea4b40b3468672eb2",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/脈確(M102)/표점본.md",
+  "blocks": {
+    "total": 192,
+    "by_tag": {
+      "div": 150,
+      "h1": 42
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 16474,
+    "extracted_han_sha256": "4c0486347dfc336d676296938e4d7b3452d0833984fb8e8b858a475d3761a39c",
+    "source_han_characters": 16430,
+    "source_han_sha256": "9ed49249265fa0a0edead5ab7bbd54b9f4ba8b90c05688923c4c1bceff1e3aba",
+    "han_length_ratio": 1.002678,
+    "han_sequence_quick_ratio": 0.992828,
+    "han_exact_match": false,
+    "punctuation_density": 0.190178
+  },
+  "source_path": "M/M102.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.992766
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 16470,
+    "output_non_punctuation_characters": 16470,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 51,
+    "insert": 0
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%AE%B6%E5%82%B3%E5%A5%B3%E7%A7%91%E7%B6%93%E9%A9%97%E6%91%98%E5%A5%87/index.html",
+    "site": "jicheng.tw",
+    "page_title": "家傳女科經驗摘奇",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:39:08.833878+00:00",
+    "html_sha256": "3680092c290a5a1a4506da081b50335160acdd582395858bc15fbdf5afcbb217",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/家傳女科經驗摘奇(G025)/표점본.md",
+  "blocks": {
+    "total": 345,
+    "by_tag": {
+      "div": 327,
+      "h1": 18
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 15354,
+    "extracted_han_sha256": "bb7982e610c68af807cfde6e7ef157138ca5f90ed4253f5da31e555f5d58eabb",
+    "source_han_characters": 15315,
+    "source_han_sha256": "4b806a72618a2c8dcc923121ca7447b24d487d49efe212df72bc8418ae2bf5ab",
+    "han_length_ratio": 1.002547,
+    "han_sequence_quick_ratio": 0.990186,
+    "han_exact_match": false,
+    "punctuation_density": 0.153901
+  },
+  "source_path": "G/G025.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.99018
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 15492,
+    "output_non_punctuation_characters": 15492,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 93,
+    "insert": 154
+  }
+}

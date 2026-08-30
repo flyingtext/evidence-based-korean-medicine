@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E7%A7%91%E7%A7%98%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "婦科秘方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:39:09.495471+00:00",
+    "html_sha256": "ebecd40a453b3904f55f882a143df2e6fd25087af4f2fa20ccfab3bab90cc07f",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/婦科秘方(G028)/표점본.md",
+  "blocks": {
+    "total": 572,
+    "by_tag": {
+      "div": 560,
+      "h1": 12
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 15100,
+    "extracted_han_sha256": "6e4d6a4f4afd49a79a74bfaec8d2ad047251b70a5287162d26bc9492e08b4a0c",
+    "source_han_characters": 15080,
+    "source_han_sha256": "fce353e418ae54454c4c6565e954425b4c957d6611255cc50c5c4331fdbd00a8",
+    "han_length_ratio": 1.001326,
+    "han_sequence_quick_ratio": 0.983234,
+    "han_exact_match": false,
+    "punctuation_density": 0.104305
+  },
+  "source_path": "G/G028.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.983229
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 15145,
+    "output_non_punctuation_characters": 15145,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 1,
+    "delete": 65,
+    "insert": 52
+  }
+}
