@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "before": "其眚燔KT　",
+    "after": "其眚燔焫",
+    "expected_count": 1,
+    "reason": "《素問》五常政大論 공개 전사 대조",
+    "evidence_note": "燔焫 확인"
+  },
+  {
+    "before": "及為痿厥　KT　",
+    "after": "及為痿厥腨㾓",
+    "expected_count": 1,
+    "reason": "《素問》陰陽別論 공개 전사 대조",
+    "evidence_note": "痿厥腨㾓 확인"
+  },
+  {
+    "before": "言先□□",
+    "after": "言先受邪",
+    "expected_count": 1,
+    "reason": "《素問》咳論 본문·주석 문맥 대조",
+    "evidence_note": "五藏受邪 문맥"
+  },
+  {
+    "before": "則各□本藏之病",
+    "after": "則各為本藏之病",
+    "expected_count": 1,
+    "reason": "주석 문맥 대조 결자 복원",
+    "evidence_note": "各為本藏之病"
+  },
+  {
+    "before": "咳則兩脅下□",
+    "after": "咳則兩脅下痛",
+    "expected_count": 1,
+    "reason": "《素問》咳論 대조",
+    "evidence_note": "肝咳之狀，咳則兩脅下痛"
+  },
+  {
+    "before": "（□在肩背。）",
+    "after": "（痛在肩背。）",
+    "expected_count": 1,
+    "reason": "주석 문맥 대조",
+    "evidence_note": "痛在肩背"
+  },
+  {
+    "before": "諸禁（HT　。）鼓栗",
+    "after": "諸禁（噤。）鼓栗",
+    "expected_count": 1,
+    "reason": "《素問》至真要大論 음훈 대조",
+    "evidence_note": "禁同噤"
+  }
+]

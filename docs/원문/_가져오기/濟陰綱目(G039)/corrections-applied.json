@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "設沉　當前，醫士環視",
+    "after": "設沉疴當前，醫士環視",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html",
+    "evidence_note": "서문의 設沉疴當前 확인"
+  }
+]

@@ -1,1 +1,658 @@
-[]
+[
+  {
+    "before": "非妙診靈劑，可以起廢保命，則雖有金玉　其室，骨肉環其前，割慈忍愛，痛心疾首",
+    "after": "非妙診靈劑，可以起廢保命，則雖有金玉牣其室，骨肉環其前，割慈忍愛，痛心疾首",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "則四時六氣運乎外。一失其道，則為災為　焉，其在人，則五味七情攻乎內，一失其",
+    "after": "則四時六氣運乎外。一失其道，則為災為沴焉，其在人，則五味七情攻乎內，一失其",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "麻黃（去根，一分）　木香（一分）　緙　（五個，糯米炒令黃，去米）　吳茱萸（",
+    "after": "麻黃（去根，一分）　木香（一分）　緙蛜（五個，糯米炒令黃，去米）　吳茱萸（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "十五味，同為末，以羊肝一具，如無，即　豬肝代之，分作三分，淨洗，去血脈脂膜",
+    "after": "十五味，同為末，以羊肝一具，如無，即獖豬肝代之，分作三分，淨洗，去血脈脂膜",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "子（半兩，炮，去皮臍）　丁香（半兩）　砂（半兩）　縮砂（半兩，去皮）　當歸",
+    "after": "子（半兩，炮，去皮臍）　丁香（半兩）硇砂（半兩）　縮砂（半兩，去皮）　當歸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "）　肉豆蔻（五個）　自然銅（一兩，火　，於醋內淬七遍）　木香（半兩）　防葵",
+    "after": "）　肉豆蔻（五個）　自然銅（一兩，火煅，於醋內淬七遍）　木香（半兩）　防葵",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "分）\n\n上五味，同為末，每服三錢，用　豬石子一個，去筋膜，以蔥白一寸椒末一",
+    "after": "分）\n\n上五味，同為末，每服三錢，用獖豬石子一個，去筋膜，以蔥白一寸椒末一",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "膜，以蔥白一寸椒末一錢，同研如糊，入　，與藥相和，用童子小便一小盞，煎三五",
+    "after": "膜，以蔥白一寸椒末一錢，同研如糊，入椀，與藥相和，用童子小便一小盞，煎三五",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "焙）　沉香（一兩）　鹿茸酥（炙）　萆　（二兩，薑汁浸）　甘草（一兩）　當歸",
+    "after": "焙）　沉香（一兩）　鹿茸酥（炙）　萆薢（二兩，薑汁浸）　甘草（一兩）　當歸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，肌膚瘦瘁。\n\n沉香　木香　人參　黃　紫巴戟（去心）　牛膝（去苗）　秦艽（",
+    "after": "，肌膚瘦瘁。\n\n沉香　木香　人參　黃耆紫巴戟（去心）　牛膝（去苗）　秦艽（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "食物無味、面黃力弱、積年腸風、痔疾、　癖氣，一切勞病。女人血症氣塊、赤白帶",
+    "after": "食物無味、面黃力弱、積年腸風、痔疾、痃癖氣，一切勞病。女人血症氣塊、赤白帶",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，薑汁炙，以上六味，另杵羅，留出半兩　末。）\n\n上件，用無灰好酒四升先煎上",
+    "after": "，薑汁炙，以上六味，另杵羅，留出半兩蘖末。）\n\n上件，用無灰好酒四升先煎上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "又添酒兩碗，煎成膏，取出，以留出者麥　末相和勻，再搗一千下，為丸如梧桐子大",
+    "after": "又添酒兩碗，煎成膏，取出，以留出者麥蘖末相和勻，再搗一千下，為丸如梧桐子大",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "當歸（去蘆）　官桂（去皮）　前胡　黃　枳殼（麩炒）　乾薑（炮，各半兩）　柴",
+    "after": "當歸（去蘆）　官桂（去皮）　前胡　黃耆枳殼（麩炒）　乾薑（炮，各半兩）　柴",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "聞香即住火，為度，放冷取出，淨去上面　子藥滓，令淨，研細末入下二味。\n\n馬",
+    "after": "聞香即住火，為度，放冷取出，淨去上面樻子藥滓，令淨，研細末入下二味。\n\n馬",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "大鱉甲（二兩，醋煮三五十沸後，淨去裙　，另用好醋，煮令香）　銀州柴胡（二兩",
+    "after": "大鱉甲（二兩，醋煮三五十沸後，淨去裙襴，另用好醋，煮令香）　銀州柴胡（二兩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痛，補暖。\n\n大木瓜（一個，去皮瓤入　砂一兩，去砂石，蒸令熟，研爛極）　補",
+    "after": "痛，補暖。\n\n大木瓜（一個，去皮瓤入硇砂一兩，去砂石，蒸令熟，研爛極）　補",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，有白朮）　羊脛骨（一條，去淨肉，用　砂二兩，醋二升同煎，旋煎旋蘸，骨炙焦",
+    "after": "，有白朮）　羊脛骨（一條，去淨肉，用硇砂二兩，醋二升同煎，旋煎旋蘸，骨炙焦",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　苦參　石膏　錫蘭紙　甘草（炙）　白　豆（各半兩，慢火炒）　鉛白霜（半兩）",
+    "after": "　苦參　石膏　錫蘭紙　甘草（炙）　白楄豆（各半兩，慢火炒）　鉛白霜（半兩）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，去皮木）　柴胡（一兩半，去苗）　黃　（一兩半）　生乾地黃（二兩）　桔梗鱉",
+    "after": "，去皮木）　柴胡（一兩半，去苗）　黃耆（一兩半）　生乾地黃（二兩）　桔梗鱉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "塞，咳嗽，涕唾稠黏，咽喉不利。\n\n黃　（去蘆，蒸出擘破，於槐砧上碎銼一兩）",
+    "after": "塞，咳嗽，涕唾稠黏，咽喉不利。\n\n黃耆（去蘆，蒸出擘破，於槐砧上碎銼一兩）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，心胸不快，肚腹膨脹，氣刺氣痛，元氣　疼，不思飲食，酒色過度，面黃口淡。\n",
+    "after": "，心胸不快，肚腹膨脹，氣刺氣痛，元氣㽲疼，不思飲食，酒色過度，面黃口淡。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　青皮（三分上一十四味，同杵為末，以　砂一兩半，用水飛過，去砂石，以川楝子",
+    "after": "　青皮（三分上一十四味，同杵為末，以硇砂一兩半，用水飛過，去砂石，以川楝子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "木香　青橘皮（去白）　神麯（炒）　麥　（炒）　人參　蓬莪朮（醋浸一宿，焙）",
+    "after": "木香　青橘皮（去白）　神麯（炒）　麥蘖（炒）　人參　蓬莪朮（醋浸一宿，焙）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "烏頭二兩炮，另杵為末，用米醋五升，浸　砂一兩，經一宿，澄去砂石，以此醋煮附",
+    "after": "烏頭二兩炮，另杵為末，用米醋五升，浸硇砂一兩，經一宿，澄去砂石，以此醋煮附",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "（一兩，去皮，以紙出油盡為度，另研）　砂（半兩，另研細，後入巴豆，入諸藥）",
+    "after": "（一兩，去皮，以紙出油盡為度，另研）硇砂（半兩，另研細，後入巴豆，入諸藥）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "遍身虛腫，涕唾稠濁，不下飲食。\n\n麥　（三錢）　馬兜鈴（三錢）　訶子（一枚",
+    "after": "遍身虛腫，涕唾稠濁，不下飲食。\n\n麥蘖（三錢）　馬兜鈴（三錢）　訶子（一枚",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "]\n蟬蛻　白蒺藜　川羌活　荊芥穗　黃　烏蛇皮（各等分，蛇皮蟬蛻二味，入罐子",
+    "after": "]\n蟬蛻　白蒺藜　川羌活　荊芥穗　黃耆烏蛇皮（各等分，蛇皮蟬蛻二味，入罐子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "芎　天麻　旋覆花　青皮　天南星（炮）　本（以上各一兩）　牽牛子（六兩，杵取",
+    "after": "芎　天麻　旋覆花　青皮　天南星（炮）藁本（以上各一兩）　牽牛子（六兩，杵取",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "）　青鹽（一字）　麝香（一字）　乳香　砂（半字）　當歸（半錢）　黃連（一錢",
+    "after": "）　青鹽（一字）　麝香（一字）　乳香硇砂（半字）　當歸（半錢）　黃連（一錢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，退翳膜，療風毒上攻，眼疼赤腫，或臉　癢爛，時多熱淚，昏澀大效槐嫩枝芽三十",
+    "after": "，退翳膜，療風毒上攻，眼疼赤腫，或臉眥癢爛，時多熱淚，昏澀大效槐嫩枝芽三十",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "及藥九分，入麝香一錢，白礬一字，飛過　砂一字，空青三錢，如無，只以生青代之",
+    "after": "及藥九分，入麝香一錢，白礬一字，飛過硇砂一字，空青三錢，如無，只以生青代之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "炒去汗）\n\n上四味，搗羅為末，每服用　豬石子一個，去筋膜，細切，蔥白薤白各",
+    "after": "炒去汗）\n\n上四味，搗羅為末，每服用獖豬石子一個，去筋膜，細切，蔥白薤白各",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，鹽一字，攪和令勻，以十重濕紙裹，於　灰內燒熟，空心，細嚼，酒解，粥下，十",
+    "after": "，鹽一字，攪和令勻，以十重濕紙裹，於煻灰內燒熟，空心，細嚼，酒解，粥下，十",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "梗）　細辛　莽草　升麻（各一兩）　木　（半兩上同杵為末，每服五錢，水二盞，",
+    "after": "梗）　細辛　莽草　升麻（各一兩）　木葎（半兩上同杵為末，每服五錢，水二盞，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "麻及地黃，菟絲都七味。固濟入瓷缸，火　須連日，黃烏終夜長。藥成將揩齒，功效",
+    "after": "麻及地黃，菟絲都七味。固濟入瓷缸，火煅須連日，黃烏終夜長。藥成將揩齒，功效",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "絲子上各四兩，入瓶內，以黃泥固臍，火　一日後，入地一尺二寸深窖，卻三伏時取",
+    "after": "絲子上各四兩，入瓶內，以黃泥固臍，火煅一日後，入地一尺二寸深窖，卻三伏時取",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "個，同入瓶子內，鹽、泥固濟，炭火三斤　，取出，入前二味）\n\n上同杵為末，煉",
+    "after": "個，同入瓶子內，鹽、泥固濟，炭火三斤煅，取出，入前二味）\n\n上同杵為末，煉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n舶上硫黃（一兩）　水銀（一兩）　砂（去砂石，秤一分用上三味，乳盆內滾",
+    "after": "。\n\n舶上硫黃（一兩）　水銀（一兩）硇砂（去砂石，秤一分用上三味，乳盆內滾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "一味，同杵為末，以細絹篩為散，每服以　豬肝四兩，切作片，每片用末一大錢，摻",
+    "after": "一味，同杵為末，以細絹篩為散，每服以獖豬肝四兩，切作片，每片用末一大錢，摻",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "等，令有滋味，一重重布了，麩片裹之，　灰火內煨令通熱，面焦黃色，即得，去面",
+    "after": "等，令有滋味，一重重布了，麩片裹之，煻灰火內煨令通熱，面焦黃色，即得，去面",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "入車螯，合內以蚯蚓泥裹，用炭火六斤，　，火盡為度，取出，研為細末，空心，溫",
+    "after": "入車螯，合內以蚯蚓泥裹，用炭火六斤，煅，火盡為度，取出，研為細末，空心，溫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "（去尖，麩炒黃色，各一兩）　桂心　芎　牡丹皮　延胡索（炒）　木香　赤芍藥（",
+    "after": "（去尖，麩炒黃色，各一兩）　桂心　芎藭牡丹皮　延胡索（炒）　木香　赤芍藥（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "分，入生薑汁，塗炙令香熱）　木香　黃　牛膝（各一兩，本法原不用此三味，好事",
+    "after": "分，入生薑汁，塗炙令香熱）　木香　黃耆牛膝（各一兩，本法原不用此三味，好事",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "後一切疾患大能安胎和氣，或子死腹中，　刺疼痛，產後血暈，血癖，血滯，血崩，",
+    "after": "後一切疾患大能安胎和氣，或子死腹中，㽲刺疼痛，產後血暈，血癖，血滯，血崩，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "（一兩半）　吳茱萸（四分，洗炒）　黃　（三分）　川烏頭（三分，炮，去皮臍）",
+    "after": "（一兩半）　吳茱萸（四分，洗炒）　黃耆（三分）　川烏頭（三分，炮，去皮臍）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　吳白芷　細辛　木香　牛膝左山寒水石　本　麻黃（去節）　甘草（炙）　蘭香菜",
+    "after": "　吳白芷　細辛　木香　牛膝左山寒水石藁本　麻黃（去節）　甘草（炙）　蘭香菜",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "著，及死胎在腹中，用醋湯下一丸。產前　噎用千金散子一字，熱水調下一丸。產前",
+    "after": "著，及死胎在腹中，用醋湯下一丸。產前欬噎用千金散子一字，熱水調下一丸。產前",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，月水不勻，飲食減少，夜多盜汗，面生　，齒搖發落，腳膝疼重，舉動少力，並宜",
+    "after": "，月水不勻，飲食減少，夜多盜汗，面生䵟，齒搖發落，腳膝疼重，舉動少力，並宜",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "薑汁炒令香）　蛇床子（各一兩半）　黃　乳香　白朮　蓯蓉（酒浸，炙）　官桂（",
+    "after": "薑汁炒令香）　蛇床子（各一兩半）　黃耆乳香　白朮　蓯蓉（酒浸，炙）　官桂（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "香（三分）　鱉甲（九肋者一枚，淨去裙　，醋炙令黃香用，一兩半）\n\n常山（一",
+    "after": "香（三分）　鱉甲（九肋者一枚，淨去裙襴，醋炙令黃香用，一兩半）\n\n常山（一",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣。\n\n沉香（半兩）　鱉甲（湯浸去裙　，炙令黃香用，一兩）　柴胡（半兩）　",
+    "after": "氣。\n\n沉香（半兩）　鱉甲（湯浸去裙襴，炙令黃香用，一兩）　柴胡（半兩）　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，用鹽泥固濟，先用文武火燒，次用大火　之令赤熱，放冷，取出，研細，每服半錢",
+    "after": "，用鹽泥固濟，先用文武火燒，次用大火煅之令赤熱，放冷，取出，研細，每服半錢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，面色痿黃，身生癮疹，腹內虛鳴，面生　，手足熱疼，並筋攣骨疼，兩筋攀急，起",
+    "after": "，面色痿黃，身生癮疹，腹內虛鳴，面生䵟，手足熱疼，並筋攣骨疼，兩筋攀急，起",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "）　縮砂仁（半兩）　石斛（三兩）　萆　（一兩末同炒熟）　白芷（一兩）\n\n上",
+    "after": "）　縮砂仁（半兩）　石斛（三兩）　萆薢（一兩末同炒熟）　白芷（一兩）\n\n上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "血熱及夜多煩躁，不用附子，山茱萸，萆　，乾薑，此四味，卻入柴胡，黃連，甘草",
+    "after": "血熱及夜多煩躁，不用附子，山茱萸，萆薢，乾薑，此四味，卻入柴胡，黃連，甘草",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "一丸，以衣被蓋，少時汗出，可愈。如天　搐搦，開口不得者，便用若柳草蒜入鹽同",
+    "after": "一丸，以衣被蓋，少時汗出，可愈。如天瘹搐搦，開口不得者，便用若柳草蒜入鹽同",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "和粟米飲溲和為丸。如雞豆大，每中惡風　緩，及五般癇疾，薄荷酒磨下一丸。老人",
+    "after": "和粟米飲溲和為丸。如雞豆大，每中惡風痑緩，及五般癇疾，薄荷酒磨下一丸。老人",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蜜和，硬軟得所，卻於石上捶三百下，用　器盛，每服二丸，薄荷湯下，大人白豆大",
+    "after": "蜜和，硬軟得所，卻於石上捶三百下，用垍器盛，每服二丸，薄荷湯下，大人白豆大",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "糧石　石膏（以上各一兩上四味，用炭火　通赤，傾在釅醋內淬，如此凡一七度，放",
+    "after": "糧石　石膏（以上各一兩上四味，用炭火煅通赤，傾在釅醋內淬，如此凡一七度，放",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "黃）　白龍砂（以白犬，先系定，將粟米　三日，取其第三日糞，淘取粟米，焙乾用",
+    "after": "黃）　白龍砂（以白犬，先系定，將粟米餧三日，取其第三日糞，淘取粟米，焙乾用",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，同為細末，研，入麝香少許，和勻，以　豬膽和，卻入膽內盛，用線子系定，於石",
+    "after": "，同為細末，研，入麝香少許，和勻，以獖豬膽和，卻入膽內盛，用線子系定，於石",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "羅為末後，再都入乳缽內，細研令勻，用　豬膽一枚，取汁熬過，浸蒸餅少許，為丸",
+    "after": "羅為末後，再都入乳缽內，細研令勻，用獖豬膽一枚，取汁熬過，浸蒸餅少許，為丸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "服二丸，各依湯使，如後。小兒患驚風天　，戴上眼睛，手足搐搦，狀候多端，但取",
+    "after": "服二丸，各依湯使，如後。小兒患驚風天瘹，戴上眼睛，手足搐搦，狀候多端，但取",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "湯化下二丸。久患五疳，四肢小，肚高，　眉吃土，咬指甲，發稀疏，肚上青筋，粥",
+    "after": "湯化下二丸。久患五疳，四肢小，肚高，撏眉吃土，咬指甲，發稀疏，肚上青筋，粥",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "之疾，凡有患但與服，必有功效。\n\n蚵　黃連丸治小兒疳食氣，頭面虛腫，腹內泄",
+    "after": "之疾，凡有患但與服，必有功效。\n\n蚵蚾黃連丸治小兒疳食氣，頭面虛腫，腹內泄",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "處杵羅為細末，於乳缽內，再研和勻，用　豬膽汁和蒸餅為丸，如綠豆大，每服五七",
+    "after": "處杵羅為細末，於乳缽內，再研和勻，用獖豬膽汁和蒸餅為丸，如綠豆大，每服五七",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蝕，齒作五色，或峭黑，口下疳白瘡，上　孔子，口中臭氣，唇齒稿爛，此乃口疳之",
+    "after": "蝕，齒作五色，或峭黑，口下疳白瘡，上齶孔子，口中臭氣，唇齒稿爛，此乃口疳之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "忌，若三五歲，患無辜瀉痢，並服得。\n\n治小兒三五歲患無辜，瀉痢，亦可服。\n\n硫黃一名石葶脂，一名金液，取三五兩至十兩，並　，得舶上黃為第一，余黃並使得，但無夾雜為上，碎碾入罐子內，可及八九分，無妨。\n\n上件藥，取　藥罐子一個，盛藥在內，下蓋子",
+    "after": "忌，若三五歲，患無辜瀉痢，並服得。\n\n治小兒三五歲患無辜，瀉痢，亦可服。\n\n硫黃一名石葶脂，一名金液，取三五兩至十兩，並煅，得舶上黃為第一，余黃並使得，但無夾雜為上，碎碾入罐子內，可及八九分，無妨。\n\n上件藥，取　藥罐子一個，盛藥在內，下蓋子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "藥末和，以粳米飯和為丸如豌豆大。小兒　風，桃柳枝一握，煎下。小兒肚脹，石榴",
+    "after": "藥末和，以粳米飯和為丸如豌豆大。小兒瘹風，桃柳枝一握，煎下。小兒肚脹，石榴",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "喘，杏仁湯下，小兒一切疾米飲下，小兒　，蜜湯下，小兒誤吞錢，膩粉湯下，小兒",
+    "after": "喘，杏仁湯下，小兒一切疾米飲下，小兒齁，蜜湯下，小兒誤吞錢，膩粉湯下，小兒",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蓋出汗，別服補藥，如是男子婦人疥癬瘰　，並須依前法洗浴，服三十丸，出汗，當",
+    "after": "蓋出汗，別服補藥，如是男子婦人疥癬瘰癧，並須依前法洗浴，服三十丸，出汗，當",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "]\n治腸風痔疾。\n\n羌活（去蘆）　黃　蔓荊子　狗脊火燎（去毛）　枳殼（麩炒",
+    "after": "]\n治腸風痔疾。\n\n羌活（去蘆）　黃耆蔓荊子　狗脊火燎（去毛）　枳殼（麩炒",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "字，中央書土字，上安盒子，用炭火二斤　之，耗及三分，漸漸去之，取去盒子，地",
+    "after": "字，中央書土字，上安盒子，用炭火二斤煅之，耗及三分，漸漸去之，取去盒子，地",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "久服神妙大有所益，如合時天色稍暖，其　下汁更不用經宿，其膏煎下，三兩載，並",
+    "after": "久服神妙大有所益，如合時天色稍暖，其拃下汁更不用經宿，其膏煎下，三兩載，並",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "石亭脂，一名金液，取三五兩至十兩，並　得舶上硫黃為第一，余黃並使得，但無夾",
+    "after": "石亭脂，一名金液，取三五兩至十兩，並煅得舶上硫黃為第一，余黃並使得，但無夾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "便於地上埋爐子，一宿，出火毒，凡逐度　了，刮去下面砂石妙，又取出爐子，於銚",
+    "after": "便於地上埋爐子，一宿，出火毒，凡逐度煅了，刮去下面砂石妙，又取出爐子，於銚",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "中熱，麻黃湯下；鬼箭，桃符湯下；小兒　，蜜湯下；漆瘡，椒湯下；虎風足筋骨痛",
+    "after": "中熱，麻黃湯下；鬼箭，桃符湯下；小兒齁，蜜湯下；漆瘡，椒湯下；虎風足筋骨痛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "後，鼻中出鮮血瘥，黑血不可治。小兒天　風，以蟬殼燒灰，入小便，調下。\n\n[",
+    "after": "後，鼻中出鮮血瘥，黑血不可治。小兒天瘹風，以蟬殼燒灰，入小便，調下。\n\n[",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疼，膝痛，酒下；水瀉，新汲水下；小兒　風，桃柳枝一握，煎湯下；小便秘，燈心",
+    "after": "疼，膝痛，酒下；水瀉，新汲水下；小兒瘹風，桃柳枝一握，煎湯下；小便秘，燈心",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "下；乍寒乍熱，桃心湯下；懷胎不安，芎　湯下；口吐酸水，訶子湯下；產前瀉痢，",
+    "after": "下；乍寒乍熱，桃心湯下；懷胎不安，芎藭湯下；口吐酸水，訶子湯下；產前瀉痢，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n凡搗羅藥竟，恐有鐵屑，以好磁石攪　取之。\n\n凡病在胸膈以上者，先食後服",
+    "after": "\n\n凡搗羅藥竟，恐有鐵屑，以好磁石攪㶸取之。\n\n凡病在胸膈以上者，先食後服",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+    "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

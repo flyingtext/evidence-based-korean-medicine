@@ -27,10 +27,11 @@ def tree_files(root: Path) -> dict[str, Path]:
         for path in root.rglob("*")
         if (
             path.is_file()
-            and path.name not in {"finalized.json", "교감감사.json"}
+            and path.name not in {"finalized.json", "교감감사.json", "교감기록.md"}
             # 교감감사는 정본 본문이 아니라 별도 검수 도구가 생성하는
             # 관리용 sidecar이므로 staging 원문 동일성 비교에서 제외한다.
-            # 번역 산출물은 정본 원문의 staging 동일성 검사 대상이 아니다.
+            # 교감기록도 외부 검수 도구가 누적하는 관리용 sidecar이며,
+            # 번역 산출물과 마찬가지로 정본 원문의 동일성 검사 대상이 아니다.
             and "_번역" not in path.relative_to(root).parts
         )
     }

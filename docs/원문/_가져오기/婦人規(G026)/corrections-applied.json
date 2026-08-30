@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "子嗣類、　瘕類、前陰類",
+    "after": "子嗣類、癥瘕類、前陰類",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E8%A6%8F/index.html",
+    "evidence_note": "婦人九證의 癥瘕類 확인"
+  },
+  {
+    "before": "寇宗　引黃帝之論曰",
+    "after": "寇宗奭引黃帝之論曰",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 인명 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E8%A6%8F/index.html",
+    "evidence_note": "寇宗奭 확인"
+  }
+]

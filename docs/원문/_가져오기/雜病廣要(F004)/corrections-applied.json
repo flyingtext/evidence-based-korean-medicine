@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "升陽去癢，瀉榮□□，辛溫散之",
+    "after": "升陽去癢，瀉榮，辛溫散之",
+    "expected_count": 1,
+    "reason": "인용 원전 《衛生寶鑑》 공개 전문 대조로 OCR 대체자 제거",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E5%AF%B6%E9%91%91/index.html",
+    "evidence_note": "補氣瀉榮湯 조문에 此藥破血散熱，升陽去癢，瀉榮，辛溫散之로 확인"
+  }
+]

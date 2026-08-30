@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "既不無濃薄之殊",
+    "after": "既不無厚薄之殊",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 OCR 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%83%8E%E7%94%A2%E5%BF%83%E6%B3%95/index.html",
+    "evidence_note": "稟氣厚薄 문맥 확인"
+  }
+]

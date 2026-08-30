@@ -1,1 +1,2578 @@
-[]
+[
+  {
+    "before": "且此非十三經之比，蓋彼無須類而此欲醒　指迷，則不容不類以求便也。由是，遍索",
+    "after": "且此非十三經之比，蓋彼無須類而此欲醒瞶指迷，則不容不類以求便也。由是，遍索",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不盡明於世者迨四千余祀矣；因敢忘陋效　，勉圖數負，固非敢弄斧班門，然不屑沿",
+    "after": "不盡明於世者迨四千余祀矣；因敢忘陋效矉，勉圖數負，固非敢弄斧班門，然不屑沿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，土爰稼穡。其為功用：則水主潤，火主　，木主敷，金主斂，土主溽。其為形體：",
+    "after": "，土爰稼穡。其為功用：則水主潤，火主熯，木主敷，金主斂，土主溽。其為形體：",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "克而成既濟之功；金之頑鈍，得火克而成　煉之器；木之曲直，得金克而成芟削之材",
+    "after": "克而成既濟之功；金之頑鈍，得火克而成煅煉之器；木之曲直，得金克而成芟削之材",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "也；淘於河沙，隱諸水也；草有汞，木有　，藏於木也；散可結；柔可剛，化於火也",
+    "after": "也；淘於河沙，隱諸水也；草有汞，木有鑞，藏於木也；散可結；柔可剛，化於火也",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　，降於桑以示蠶婦也，故曰女功興而戴　鳴。）\n\n（四月）\n\n立夏：初候，螻",
+    "after": "　，降於桑以示蠶婦也，故曰女功興而戴鵀鳴。）\n\n（四月）\n\n立夏：初候，螻",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "在卯，四陽卦大壯；三月建在辰，五陽卦　；四月建在巳，六陽卦乾；五月建在午，",
+    "after": "在卯，四陽卦大壯；三月建在辰，五陽卦夬；四月建在巳，六陽卦乾；五月建在午，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "建在巳，六陽卦乾；五月建在午，一陰卦　；六月建在未，二陰卦遁；七月建在申，",
+    "after": "建在巳，六陽卦乾；五月建在午，一陰卦姤；六月建在未，二陰卦遁；七月建在申，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n木蒼危室柳鬼宿，火丹牛女壁奎邊，土　心尾軫角度，金素亢氐昴畢前，水玄張翼",
+    "after": "\n木蒼危室柳鬼宿，火丹牛女壁奎邊，土黅心尾軫角度，金素亢氐昴畢前，水玄張翼",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "下臨戊癸之方，此戊癸之所以為火運也。　天之土氣，經於心尾角軫四宿之上，下臨",
+    "after": "下臨戊癸之方，此戊癸之所以為火運也。黅天之土氣，經於心尾角軫四宿之上，下臨",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "風火非常之化，故冬有爍石之熱，夏有淒　之涼，和則為生化，不和則為災傷，此蓋",
+    "after": "風火非常之化，故冬有爍石之熱，夏有淒凔之涼，和則為生化，不和則為災傷，此蓋",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "處。蓋即俗所云兩太陽也。一曰鬢骨。）　（音坎，又海敢切。釋義曰：飢而面黃。",
+    "after": "處。蓋即俗所云兩太陽也。一曰鬢骨。）顑（音坎，又海敢切。釋義曰：飢而面黃。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "胛（胛，音甲，肩解下成片骨也。亦名肩　。）巨骨（膺上橫骨。）膺（音英，胸前",
+    "after": "胛（胛，音甲，肩解下成片骨也。亦名肩髆。）巨骨（膺上橫骨。）膺（音英，胸前",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腹。臍下為少腹。）季脅（脅下小肋。）　（區去二音，腋之下，脅之上也。）鳩尾",
+    "after": "腹。臍下為少腹。）季脅（脅下小肋。）胠（區去二音，腋之下，脅之上也。）鳩尾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "髁（髁，苦瓦切，中原雅音作去聲，即腰　骨，自十六椎而下，挾脊附著之處也。）",
+    "after": "髁（髁，苦瓦切，中原雅音作去聲，即腰骻骨，自十六椎而下，挾脊附著之處也。）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "機後為臀，尻旁大肉也。）\n\n機（挾腰　骨兩旁為機。）髖（音寬，尻臀也，曰兩",
+    "after": "機後為臀，尻旁大肉也。）\n\n機（挾腰臗骨兩旁為機。）髖（音寬，尻臀也，曰兩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "尻臀也，曰兩股間也。）尻（開高切，尾　骨也，亦名窮骨。）肛（音工，又好綱切",
+    "after": "尻臀也，曰兩股間也。）尻（開高切，尾骶骨也，亦名窮骨。）肛（音工，又好綱切",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "大骨也。）成骨（膝外廉之骨獨起者。）　（音篆，一名腓腸，下腿肚也。）腓腸（",
+    "after": "大骨也。）成骨（膝外廉之骨獨起者。）腨（音篆，一名腓腸，下腿肚也。）腓腸（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "也。）\n\n絕骨（外踝上尖骨曰絕骨。）　（劬允切，筋肉結聚之處也。直音云：腸",
+    "after": "也。）\n\n絕骨（外踝上尖骨曰絕骨。）䐃（劬允切，筋肉結聚之處也。直音云：腸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "至岐骨際上中庭穴止，折作八寸四分。自　上岐骨際，下至臍心，折作八寸。臍心下",
+    "after": "至岐骨際上中庭穴止，折作八寸四分。自骬上岐骨際，下至臍心，折作八寸。臍心下",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "並依此。\n\n〔背部〕\n\n膂骨以下至尾　二十一節，長三尺。（膂骨，脊骨也。脊",
+    "after": "並依此。\n\n〔背部〕\n\n膂骨以下至尾骶二十一節，長三尺。（膂骨，脊骨也。脊",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "今云二十一節者，除項骨三節不在內。尾　骨男子者尖，女人者平。）\n\n背部折法",
+    "after": "今云二十一節者，除項骨三節不在內。尾骶骨男子者尖，女人者平。）\n\n背部折法",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "女人者平。）\n\n背部折法，自大椎至尾　通折三尺。上七節各長一寸四分一厘，共",
+    "after": "女人者平。）\n\n背部折法，自大椎至尾骶通折三尺。上七節各長一寸四分一厘，共",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "名指之外側，從關衝而絲竹空。膽從瞳子　穴，連竅陰於足之四指；肝因大敦而上，",
+    "after": "名指之外側，從關衝而絲竹空。膽從瞳子髎穴，連竅陰於足之四指；肝因大敦而上，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "門乳肋間。手外三陽誰在上，陽明食指肩　向。頰中鑽入下牙床，相逢鼻外迎香旁。",
+    "after": "門乳肋間。手外三陽誰在上，陽明食指肩髃向。頰中鑽入下牙床，相逢鼻外迎香旁。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "俱手少陽穴。）\n\n正面部中行五穴：素　水溝　兌端　齦交（俱督脈穴。）　承漿",
+    "after": "俱手少陽穴。）\n\n正面部中行五穴：素髎水溝　兌端　齦交（俱督脈穴。）　承漿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。）　客主人　聽會（俱足少陽。）　和　耳門（俱手少陽。）　聽宮（手太陽。）",
+    "after": "。）　客主人　聽會（俱足少陽。）　和髎耳門（俱手少陽。）　聽宮（手太陽。）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "二十八穴：缺盆（足陽明。）　巨骨　肩　（俱手陽明。）　肩中俞　肩外俞　曲垣",
+    "after": "二十八穴：缺盆（足陽明。）　巨骨　肩髃（俱手陽明。）　肩中俞　肩外俞　曲垣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "）　肩中俞　肩外俞　曲垣　秉風　天宗　俞肩貞（俱手太陽穴。）　肩井（足少陽",
+    "after": "）　肩中俞　肩外俞　曲垣　秉風　天宗臑俞肩貞（俱手太陽穴。）　肩井（足少陽",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "十二穴：（去中行任脈二寸。）\n\n俞府　中　神藏　靈墟　神封　步廊（俱足少陰",
+    "after": "十二穴：（去中行任脈二寸。）\n\n俞府彧中　神藏　靈墟　神封　步廊（俱足少陰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。）\n\n中衝　勞宮　大陵　內關　間使　門　曲澤　天泉手少陰心經，行臂內，左",
+    "after": "。）\n\n中衝　勞宮　大陵　內關　間使郄門　曲澤　天泉手少陰心經，行臂內，左",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣者，陽氣也，水穀之悍氣也。其浮氣之　疾滑利而不循於經者，為衛氣。衛氣出於",
+    "after": "氣者，陽氣也，水穀之悍氣也。其浮氣之慓疾滑利而不循於經者，為衛氣。衛氣出於",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "）然經絡遍身，無往非穴，今各經之井滎　經合穴，皆在手足而不逾肘膝者，正以手",
+    "after": "）然經絡遍身，無往非穴，今各經之井滎腧經合穴，皆在手足而不逾肘膝者，正以手",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "於太谿，膏之原出於鳩尾，肓之原出於脖　，凡此十二原者，主治五臟六腑之有疾者",
+    "after": "於太谿，膏之原出於鳩尾，肓之原出於脖胦，凡此十二原者，主治五臟六腑之有疾者",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "心主經穴，本篇直指為手少陰，而少明經　，別無載者。）邪客篇：帝曰：手少陰之",
+    "after": "心主經穴，本篇直指為手少陰，而少明經腧，別無載者。）邪客篇：帝曰：手少陰之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "載者。）邪客篇：帝曰：手少陰之脈獨無　何也？岐伯曰：諸邪之在於心者，皆在於",
+    "after": "載者。）邪客篇：帝曰：手少陰之脈獨無腧何也？岐伯曰：諸邪之在於心者，皆在於",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "十二原。在本輸篇則以前篇五臟之原為五　，復有六腑之原，而無膏肓之原，且手少",
+    "after": "十二原。在本輸篇則以前篇五臟之原為五腧，復有六腑之原，而無膏肓之原，且手少",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "脈所溜為滎；神門者土也，少陰脈所注為　；靈道者金也，少陰脈所行為經；少海者",
+    "after": "脈所溜為滎；神門者土也，少陰脈所注為腧；靈道者金也，少陰脈所行為經；少海者",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "入為合，而十二經之井滎始全矣。然詳求　原之義，如九針十二原篇及本輸篇所云，",
+    "after": "入為合，而十二經之井滎始全矣。然詳求腧原之義，如九針十二原篇及本輸篇所云，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "者肩也，顴後者臂也，臂下者手也，目內　上者膺乳也，挾繩而上者背也，循牙車以",
+    "after": "者肩也，顴後者臂也，臂下者手也，目內眥上者膺乳也，挾繩而上者背也，循牙車以",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n禁針穴道要先明，腦戶囟會及神庭。絡　、玉枕、角孫穴，顱囟承泣隨承靈。神道",
+    "after": "\n禁針穴道要先明，腦戶囟會及神庭。絡郄、玉枕、角孫穴，顱囟承泣隨承靈。神道",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "癰膿，兩熱爭者用之。\n\n圓利針：尖如　，且圓且銳，微大其末，反小其身，取法",
+    "after": "癰膿，兩熱爭者用之。\n\n圓利針：尖如犛，且圓且銳，微大其末，反小其身，取法",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "且圓且銳，微大其末，反小其身，取法於　，針長一寸六分，主取癰痹。\n\n毫針：",
+    "after": "且圓且銳，微大其末，反小其身，取法於犛，針長一寸六分，主取癰痹。\n\n毫針：",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目之下。（俱經絡二十七。）蹺脈屬目內　，氣不營則目不合。（經絡二十八。）足",
+    "after": "目之下。（俱經絡二十七。）蹺脈屬目內眥，氣不營則目不合。（經絡二十八。）足",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "瞑目。（俱針刺四十四。）足太陽起目內　。（經絡二。）足太陽之筋，支者為目上",
+    "after": "瞑目。（俱針刺四十四。）足太陽起目內眥。（經絡二。）足太陽之筋，支者為目上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陰連目系。（俱經絡二。）手少陰合目內　。（經絡三。）手陽明之別者，合於宗脈",
+    "after": "陰連目系。（俱經絡二。）手少陰合目內眥。（經絡三。）手陽明之別者，合於宗脈",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陰舌下。（經絡九。）足少陰之標，在背　與舌下兩脈。（經絡十二。）足之少陰，",
+    "after": "陰舌下。（經絡九。）足少陰之標，在背腧與舌下兩脈。（經絡十二。）足之少陰，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陽明循牙車。（經絡十三。）足太陽有入　遍齒者，名曰角孫，上齒齲取之。（針刺",
+    "after": "陽明循牙車。（經絡十三。）足太陽有入頄遍齒者，名曰角孫，上齒齲取之。（針刺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "頸，出走太陽之前。手陽明筋直者，從肩　上頸。（俱經絡四。）衝脈上者出於頏顙",
+    "after": "頸，出走太陽之前。手陽明筋直者，從肩髃上頸。（俱經絡四。）衝脈上者出於頏顙",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。（疾病八十一。）\n\n肩：足太陽循肩　內，下貫胛。足少陽至肩上。手太陽繞肩",
+    "after": "。（疾病八十一。）\n\n肩：足太陽循肩髆內，下貫胛。足少陽至肩上。手太陽繞肩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "；其支者，繞肩胛。手太陰之筋，結肩前　。（俱經絡四。）督脈之別，當肩胛左右",
+    "after": "；其支者，繞肩胛。手太陰之筋，結肩前髃。（俱經絡四。）督脈之別，當肩胛左右",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "肩胛左右走太陽。（經絡五。）督脈循肩　。（經絡二十七。）\n\n缺盆：足陽明入",
+    "after": "肩胛左右走太陽。（經絡五。）督脈循肩髆。（經絡二十七。）\n\n缺盆：足陽明入",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "叢毛之際。（俱經絡二。）手少陽三焦下　，在於足大指之前，少陽之後。（經絡十",
+    "after": "叢毛之際。（俱經絡二。）手少陽三焦下腧，在於足大指之前，少陽之後。（經絡十",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。足少陰絡膀胱。（俱經絡二。）三焦下　，並太陽之正，入絡膀胱，約下焦。（經",
+    "after": "。足少陰絡膀胱。（俱經絡二。）三焦下腧，並太陽之正，入絡膀胱，約下焦。（經",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "臂不得舉。此穴主瀉四肢之熱，其治與肩　、委中、腰俞大同。\n\n千金云：病癭上",
+    "after": "臂不得舉。此穴主瀉四肢之熱，其治與肩髃、委中、腰俞大同。\n\n千金云：病癭上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "病癭上氣胸滿，灸百壯。\n\n天府　在胸　內廉，腋下三寸，動脈陷中，以鼻取之。",
+    "after": "病癭上氣胸滿，灸百壯。\n\n天府　在胸臑內廉，腋下三寸，動脈陷中，以鼻取之。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "鬼注，惡語悲泣，善忘喘息，不得安臥，　瘧寒熱，目眩癭氣。\n\n千金翼云：身重",
+    "after": "鬼注，惡語悲泣，善忘喘息，不得安臥，痎瘧寒熱，目眩癭氣。\n\n千金翼云：身重",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n孔最　在腕上七寸陷中。手太陰之　。刺三分，留三呼，灸五壯。\n\n主治熱",
+    "after": "。\n\n孔最　在腕上七寸陷中。手太陰之郄。刺三分，留三呼，灸五壯。\n\n主治熱",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。慎酒面生冷等物。\n\n主治偏風口眼　斜，手肘痛無力，半身不遂，口噤不開，",
+    "after": "壯。慎酒面生冷等物。\n\n主治偏風口眼喎斜，手肘痛無力，半身不遂，口噤不開，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "斜，手肘痛無力，半身不遂，口噤不開，　瘧寒熱，煩躁咳嗽，喉痹嘔沫縱唇，健忘",
+    "after": "斜，手肘痛無力，半身不遂，口噤不開，痎瘧寒熱，煩躁咳嗽，喉痹嘔沫縱唇，健忘",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "留三呼。禁灸，灸則傷人神明。\n\n主治　瘧寒熱，胸背拘急膨脹，喉痹咳逆，上氣",
+    "after": "留三呼。禁灸，灸則傷人神明。\n\n主治痎瘧寒熱，胸背拘急膨脹，喉痹咳逆，上氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n太淵　在手掌後陷中。手太陰所注為　，即原也。脈會太淵，每日平旦寅時，脈",
+    "after": "\n\n太淵　在手掌後陷中。手太陰所注為腧，即原也。脈會太淵，每日平旦寅時，脈",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "死回生急救之妙穴。\n\n太乙歌云：男子　癖取少商。\n\n百證賦云：兼曲澤，治血",
+    "after": "死回生急救之妙穴。\n\n太乙歌云：男子痃癖取少商。\n\n百證賦云：兼曲澤，治血",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣滿喘咳，熱病汗不出，耳鳴耳聾，寒熱　瘧，口乾頤腫，齒痛目盲，惡寒，肩背肢",
+    "after": "氣滿喘咳，熱病汗不出，耳鳴耳聾，寒熱痎瘧，口乾頤腫，齒痛目盲，惡寒，肩背肢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "六呼，灸三壯。\n\n主治頷腫喉痹，肩背　痛，鼽衄齒痛，目黃口乾，口眼歪斜，飲",
+    "after": "六呼，灸三壯。\n\n主治頷腫喉痹，肩背臑痛，鼽衄齒痛，目黃口乾，口眼歪斜，飲",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "在食指本節後，內側陷中。手陽明所注為　。刺三分，留三呼，灸二壯。\n\n主治鼽",
+    "after": "在食指本節後，內側陷中。手陽明所注為腧。刺三分，留三呼，灸二壯。\n\n主治鼽",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，腸鳴洞泄，寒熱瘧，唇焦口乾，氣喘目　痛，善驚，寒熱結水多唾。\n\n席弘賦云",
+    "after": "，腸鳴洞泄，寒熱瘧，唇焦口乾，氣喘目眥痛，善驚，寒熱結水多唾。\n\n席弘賦云",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "在表，發熱惡寒，頭痛脊強，風疹，寒熱　瘧，熱病汗不出，偏正頭痛，面腫目翳，",
+    "after": "在表，發熱惡寒，頭痛脊強，風疹，寒熱痎瘧，熱病汗不出，偏正頭痛，面腫目翳，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不收，喑不能言，口噤不開，腰脊引痛痿　，小兒乳蛾。一云：能下死胎。\n\n婦人",
+    "after": "不收，喑不能言，口噤不開，腰脊引痛痿躄，小兒乳蛾。一云：能下死胎。\n\n婦人",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "賦云：兼解谿，治驚悸怔忡。又云：兼肩　，能消癮風之熱極。\n\n偏歷　在手腕後",
+    "after": "賦云：兼解谿，治驚悸怔忡。又云：兼肩髃，能消癮風之熱極。\n\n偏歷　在手腕後",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。）明堂云：腕後五寸、六寸間。手陽明　。刺三分，灸三壯。\n\n主治傷寒噦逆，",
+    "after": "。）明堂云：腕後五寸、六寸間。手陽明郄。刺三分，灸三壯。\n\n主治傷寒噦逆，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，小腹滿，小便血，小腸氣，面無顏色，　癖腹痛不可忍，食不化，氣喘涎出，乳癰",
+    "after": "，小腹滿，小便血，小腸氣，面無顏色，痃癖腹痛不可忍，食不化，氣喘涎出，乳癰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "乏羸瘦，霍亂遺失，失音，齒痛頰腫，瘰　，手痹不仁。\n\n席弘賦云：此穴治腰背",
+    "after": "乏羸瘦，霍亂遺失，失音，齒痛頰腫，瘰癧，手痹不仁。\n\n席弘賦云：此穴治腰背",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "中，平手取之。手陽明絡也，絡手少陽之　會。一曰手足太陽陽維之會。刺三分，灸",
+    "after": "中，平手取之。手陽明絡也，絡手少陽之臑會。一曰手足太陽陽維之會。刺三分，灸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰灸至百壯。\n\n主治臂痛無力，寒熱瘰　，頸項拘急。\n\n千金云：治癭氣，灸隨",
+    "after": "曰灸至百壯。\n\n主治臂痛無力，寒熱瘰癧，頸項拘急。\n\n千金云：治癭氣，灸隨",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不已，勞氣泄精憔悴，四肢熱，諸癭氣瘰　。昔有病風痹，臂痛無力，不能挽弓，甄",
+    "after": "不已，勞氣泄精憔悴，四肢熱，諸癭氣瘰癧。昔有病風痹，臂痛無力，不能挽弓，甄",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兩肩。\n\n天星秘訣云：手臂攣痛，取肩　。\n\n百證賦云：兼陽谿，能消癮風之熱",
+    "after": "兩肩。\n\n天星秘訣云：手臂攣痛，取肩髃。\n\n百證賦云：兼陽谿，能消癮風之熱",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "息，喉中如水雞，暴喑氣破項癭。\n\n禾　（一名長頻）　直鼻孔下，夾水溝旁五分",
+    "after": "息，喉中如水雞，暴喑氣破項癭。\n\n禾髎（一名長頻）　直鼻孔下，夾水溝旁五分",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "]\n\n四十五穴足陽明，承泣、四白、巨　經。地倉、大迎登頰車，下關、頭維對人",
+    "after": "]\n\n四十五穴足陽明，承泣、四白、巨髎經。地倉、大迎登頰車，下關、頭維對人",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "穴，大指次指之端終。\n\n承泣（一名面　，一名鼷穴）　在目下七分，上直瞳子陷",
+    "after": "穴，大指次指之端終。\n\n承泣（一名面髎，一名鼷穴）　在目下七分，上直瞳子陷",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治左。艾炷宜小如粗釵腳，若過大，口反　，卻灸承漿即愈。\n\n主治偏風口眼歪斜",
+    "after": "治左。艾炷宜小如粗釵腳，若過大，口反喎，卻灸承漿即愈。\n\n主治偏風口眼歪斜",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "止口流涎。\n\n玉龍賦云：兼頰車，療口　。\n\n大迎（一名髓孔）　在曲頷（頷，",
+    "after": "止口流涎。\n\n玉龍賦云：兼頰車，療口喎。\n\n大迎（一名髓孔）　在曲頷（頷，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。\n\n主治風痙口喑，口噤不開，唇吻　動，頰腫牙痛，舌強不能言，目痛不得閉",
+    "after": "壯。\n\n主治風痙口喑，口噤不開，唇吻瞤動，頰腫牙痛，舌強不能言，目痛不得閉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "：針齒痛。\n\n玉龍賦云：兼地倉，療口　。\n\n下關　在客主人下，耳前動脈下廉",
+    "after": "：針齒痛。\n\n玉龍賦云：兼地倉，療口喎。\n\n下關　在客主人下，耳前動脈下廉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n主治喘急息賁，咳嗽，胸滿水腫，瘰　寒熱，缺盆中腫外潰，傷寒胸中熱不已，",
+    "after": "\n\n主治喘急息賁，咳嗽，胸滿水腫，瘰癧寒熱，缺盆中腫外潰，傷寒胸中熱不已，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "生蝕瘡，瘡中有清汁膿血者可治，瘡中有　肉若蝕瘡者死。\n\n一傳胎衣不下，以乳",
+    "after": "生蝕瘡，瘡中有清汁膿血者可治，瘡中有瘜肉若蝕瘡者死。\n\n一傳胎衣不下，以乳",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "為二寸。刺五分，灸五壯。\n\n主治腹滿　癖，胸背肩脅引痛，心痛唾血，喘嗽嘔吐",
+    "after": "為二寸。刺五分，灸五壯。\n\n主治腹滿痃癖，胸背肩脅引痛，心痛唾血，喘嗽嘔吐",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，腸鳴切痛，泄痢不食，走氣挾臍急痛，　瘧振寒，遺溺。\n\n太乙　在關門下一寸",
+    "after": "，腸鳴切痛，泄痢不食，走氣挾臍急痛，痎瘧振寒，遺溺。\n\n太乙　在關門下一寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "嘔吐霍亂，寒瘧，不嗜食，身黃瘦，女人　瘕血結成塊，漏下月水不調，淋濁帶下。",
+    "after": "嘔吐霍亂，寒瘧，不嗜食，身黃瘦，女人癥瘕血結成塊，漏下月水不調，淋濁帶下。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "調，淋濁帶下。\n\n千金云：久冷及婦人　癖，小便不通，腸鳴瀉痢，繞臍絞痛，灸",
+    "after": "調，淋濁帶下。\n\n千金云：久冷及婦人癥癖，小便不通，腸鳴瀉痢，繞臍絞痛，灸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "分。\n\n主治小腹脹滿，煩渴，小便難，　疝，四肢不收，驚悸不眠。\n\n水道　在",
+    "after": "分。\n\n主治小腹脹滿，煩渴，小便難，㿉疝，四肢不收，驚悸不眠。\n\n水道　在",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主治逆氣上攻，心腹脹滿不得正臥，奔豚　疝，淫濼，大腸中熱，身熱腹痛，陰腫莖",
+    "after": "主治逆氣上攻，心腹脹滿不得正臥，奔豚㿗疝，淫濼，大腸中熱，身熱腹痛，陰腫莖",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "市，能驅腿足之乏力。\n\n通玄賦云：膝　痛陰市能醫。\n\n靈光賦云：專治兩足拘",
+    "after": "市，能驅腿足之乏力。\n\n通玄賦云：膝胻痛陰市能醫。\n\n靈光賦云：專治兩足拘",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n梁丘　在膝上二寸兩筋間。足陽明　。刺三分，灸三壯。\n\n主治腳膝痛，冷",
+    "after": "。\n\n梁丘　在膝上二寸兩筋間。足陽明郄。刺三分，灸三壯。\n\n主治腳膝痛，冷",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "可灸三壯、七壯。\n\n犢鼻　在膝髕下，　骨上，骨解大筋陷中，形如牛鼻，故名。",
+    "after": "可灸三壯、七壯。\n\n犢鼻　在膝髕下，胻骨上，骨解大筋陷中，形如牛鼻，故名。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "云：治心腹脹滿，胃氣不足，飲食不化，　癖氣塊吐血，腹內諸疾，五勞七傷，灸七",
+    "after": "云：治心腹脹滿，胃氣不足，飲食不化，痃癖氣塊吐血，腹內諸疾，五勞七傷，灸七",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，偏風腿痿，足不履地，熱風風濕冷痹，　腫足跗不收，女子乳癰。此穴主瀉胃中之",
+    "after": "，偏風腿痿，足不履地，熱風風濕冷痹，胻腫足跗不收，女子乳癰。此穴主瀉胃中之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "巨虛同。\n\n豐隆　在外踝上八寸，下廉　骨外廉陷中。足陽明絡，別走太陰。刺三",
+    "after": "巨虛同。\n\n豐隆　在外踝上八寸，下廉胻骨外廉陷中。足陽明絡，別走太陰。刺三",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "死。即此穴也。\n\n主治偏風面腫，口眼　斜，齒齲，傷寒發狂，振寒汗不出，腹堅",
+    "after": "死。即此穴也。\n\n主治偏風面腫，口眼喎斜，齒齲，傷寒發狂，振寒汗不出，腹堅",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "本節後陷中，去內庭二寸。足陽明所注為　。刺五分，留七呼，灸三壯。一曰刺三分",
+    "after": "本節後陷中，去內庭二寸。足陽明所注為腧。刺五分，留七呼，灸三壯。一曰刺三分",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，及水病善噫，腸鳴腹痛，汗不出，振寒　瘧，疝氣少腹痛，或胃脈弦者，瀉此則水",
+    "after": "，及水病善噫，腸鳴腹痛，汗不出，振寒痎瘧，疝氣少腹痛，或胃脈弦者，瀉此則水",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，腹滿不得息，惡聞人聲，振寒，咽痛口　，齒齲鼻衄，癮疹，赤白痢，瘧不嗜食。",
+    "after": "，腹滿不得息，惡聞人聲，振寒，咽痛口喎，齒齲鼻衄，癮疹，赤白痢，瘧不嗜食。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "脹。\n\n玉龍賦云：兼臨泣，能理小腹之　。\n\n通玄賦云：治腹膨，休遲。\n\n千",
+    "after": "脹。\n\n玉龍賦云：兼臨泣，能理小腹之䐜。\n\n通玄賦云：治腹膨，休遲。\n\n千",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "側核骨下，赤白肉際陷中。足太陰所注為　，即原也。刺三分，留七呼，灸三壯。\n",
+    "after": "側核骨下，赤白肉際陷中。足太陰所注為腧，即原也。刺三分，留七呼，灸三壯。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "便難，氣逆霍亂，腹中切痛，腸鳴，膝股　酸，轉筋身重骨痛。\n\n玉龍賦云：治痔",
+    "after": "便難，氣逆霍亂，腹中切痛，腸鳴，膝股胻酸，轉筋身重骨痛。\n\n玉龍賦云：治痔",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "飲食，脾病身重，四肢不舉，飧泄痢血，　癖臍下痛不可忍，中風卒厥不省人事，膝",
+    "after": "飲食，脾病身重，四肢不舉，飧泄痢血，痃癖臍下痛不可忍，中風卒厥不省人事，膝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。\n\n主治膝痹腳冷不仁，腸鳴腹脹，　癖冷氣，小腹痛，飲食不為肌膚，小便不",
+    "after": "壯。\n\n主治膝痹腳冷不仁，腸鳴腹脹，痃癖冷氣，小腹痛，飲食不為肌膚，小便不",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰在別走上一寸，孔在膝下五寸。足太陰　。刺三分，灸五壯。\n\n主治腰痛不可俯",
+    "after": "曰在別走上一寸，孔在膝下五寸。足太陰郄。刺三分，灸五壯。\n\n主治腰痛不可俯",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "嗜食，精不足，小便不利，足痹痛，女子　瘕。\n\n百證賦云：兼血海，治婦人經事",
+    "after": "嗜食，精不足，小便不利，足痹痛，女子癥瘕。\n\n百證賦云：兼血海，治婦人經事",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，治婦人經事之改常。又云：兼衝門，治　癖有驗。\n\n靈光賦云：兼氣海，療五淋",
+    "after": "，治婦人經事之改常。又云：兼衝門，治痃癖有驗。\n\n靈光賦云：兼氣海，療五淋",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兼氣衝，治帶下產崩。又云：兼血海，治　癖。\n\n府舍　在腹結下三寸，去腹中行",
+    "after": "兼氣衝，治帶下產崩。又云：兼血海，治痃癖。\n\n府舍　在腹結下三寸，去腹中行",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腹，絡胸，結心肺，從脅上至肩，此太陰　，三陰陽明支別。刺七分，灸五壯。\n\n",
+    "after": "腹，絡胸，結心肺，從脅上至肩，此太陰郄，三陰陽明支別。刺七分，灸五壯。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寸，伸肘舉臂取之。滑氏曰：自極泉下循　內後廉，行太陰心主兩經之後，歷青靈穴",
+    "after": "寸，伸肘舉臂取之。滑氏曰：自極泉下循臑內後廉，行太陰心主兩經之後，歷青靈穴",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吐涎沫，項不得回，頭風疼痛，氣逆，瘰　，肘臂腋脅痛攣不舉。\n\n千金云：主腋",
+    "after": "吐涎沫，項不得回，頭風疼痛，氣逆，瘰癧，肘臂腋脅痛攣不舉。\n\n千金云：主腋",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "臂腋脅痛攣不舉。\n\n千金云：主腋下瘰　，漏臂疼痛，風痹瘙漏，屈伸不得。針三",
+    "after": "臂腋脅痛攣不舉。\n\n千金云：主腋下瘰癧，漏臂疼痛，風痹瘙漏，屈伸不得。針三",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。\n\n主治熱病頭痛目眩，面熱無汗懊　，暴喑心悸，悲恐畏人，喉痹苦嘔，虛損",
+    "after": "壯。\n\n主治熱病頭痛目眩，面熱無汗懊憹，暴喑心悸，悲恐畏人，喉痹苦嘔，虛損",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "言嗜臥。\n\n馬丹陽云：欲言聲不出，懊　及怔忡，實則四肢重，頭腮面頰紅，聲平",
+    "after": "言嗜臥。\n\n馬丹陽云：欲言聲不出，懊憹及怔忡，實則四肢重，頭腮面頰紅，聲平",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "後銳骨端陷中，當小指後。手少陰所注為　。刺三分，留七呼，灸三壯。一云七壯。",
+    "after": "後銳骨端陷中，當小指後。手少陰所注為腧。刺三分，留七呼，灸三壯。一云七壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。刺二分，灸三壯。一曰七壯。\n\n主治　瘧久不愈，振寒煩滿，少氣，胸中痛，悲",
+    "after": "。刺二分，灸三壯。一曰七壯。\n\n主治痃瘧久不愈，振寒煩滿，少氣，胸中痛，悲",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "恐善驚，口熱咽酸，胸脅痛，乍寒乍熱，　臂內後廉痛，手攣不伸。\n\n玉龍賦云：",
+    "after": "恐善驚，口熱咽酸，胸脅痛，乍寒乍熱，臑臂內後廉痛，手攣不伸。\n\n玉龍賦云：",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，陽谷須同養老列，支正、小海上肩貞，　俞、天宗、秉風合，曲垣、肩外復肩中，",
+    "after": "，陽谷須同養老列，支正、小海上肩貞，臑俞、天宗、秉風合，曲垣、肩外復肩中，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "井。刺一分，留二呼，灸一壯。\n\n主治　瘧寒熱汗不出，喉痹舌強，心煩咳嗽，螈",
+    "after": "井。刺一分，留二呼，灸一壯。\n\n主治痎瘧寒熱汗不出，喉痹舌強，心煩咳嗽，螈",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "留三呼，灸三壯。\n\n主治熱病汗不出，　瘧癲疾，耳鳴喉痹，頸項頰腫引耳後，咳",
+    "after": "留三呼，灸三壯。\n\n主治熱病汗不出，痎瘧癲疾，耳鳴喉痹，頸項頰腫引耳後，咳",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "前外側，拳尖起骨下陷中。手太陽所注為　。刺一分，留二呼，灸一壯。一云三壯。",
+    "after": "前外側，拳尖起骨下陷中。手太陽所注為腧。刺一分，留二呼，灸一壯。一云三壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，留二呼，灸一壯。一云三壯。\n\n主治　瘧寒熱，目翳鼻衄耳聾，胸滿項強癲癇，",
+    "after": "，留二呼，灸一壯。一云三壯。\n\n主治痎瘧寒熱，目翳鼻衄耳聾，胸滿項強癲癇，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "肘疼，灸七壯。\n\n玉龍賦云：專治時疫　瘧。\n\n攔江賦云：專治督脈病癲狂。\n",
+    "after": "肘疼，灸七壯。\n\n玉龍賦云：專治時疫痎瘧。\n\n攔江賦云：專治督脈病癲狂。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。又云：偕勞宮，可治消疸。又云：同陰　，治盜汗之多出。\n\n通玄賦云：治頭頂",
+    "after": "。又云：偕勞宮，可治消疸。又云：同陰郄，治盜汗之多出。\n\n通玄賦云：治頭頂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "留七呼，灸五壯、七壯。\n\n主治肘臂肩　頸項痛，寒熱，齒根腫，風眩，瘍腫，小",
+    "after": "留七呼，灸五壯、七壯。\n\n主治肘臂肩臑頸項痛，寒熱，齒根腫，風眩，瘍腫，小",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "室連胞肓。\n\n秩邊、承扶、殷門穴，浮　相鄰是委陽。委中再下合陽去，承筋、承",
+    "after": "室連胞肓。\n\n秩邊、承扶、殷門穴，浮郄相鄰是委陽。委中再下合陽去，承筋、承",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "尋至陰。\n\n睛明（一名淚孔）　在目內　外一分宛宛中。氣府論注曰：手足太陽足",
+    "after": "尋至陰。\n\n睛明（一名淚孔）　在目內眥外一分宛宛中。氣府論注曰：手足太陽足",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "行間，可治雀目汗氣。\n\n靈光賦云：治　肉。\n\n攢竹（一名始光，一名員柱，一",
+    "after": "行間，可治雀目汗氣。\n\n靈光賦云：治胬肉。\n\n攢竹（一名始光，一名員柱，一",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　，淚出目眩，瞳子癢，眼中赤痛及腮臉　動不臥。\n\n玉龍賦云：兼頭維，治目疼",
+    "after": "　，淚出目眩，瞳子癢，眼中赤痛及腮臉瞤動不臥。\n\n玉龍賦云：兼頭維，治目疼",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "頭風風眩，嘔吐心煩，鼻塞不利，目翳口　。\n\n通天（一名天臼）　在承光後一寸",
+    "after": "頭風風眩，嘔吐心煩，鼻塞不利，目翳口喎。\n\n通天（一名天臼）　在承光後一寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n百證賦云：能去鼻內無聞之苦。\n\n絡　（一名強陽，一名腦蓋）　在通天後一寸",
+    "after": "\n百證賦云：能去鼻內無聞之苦。\n\n絡郄（一名強陽，一名腦蓋）　在通天後一寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "二寸，正坐取之。督脈足太陽之會。熱府　也。\n\n刺五分，留七呼，灸五壯。\n\n",
+    "after": "二寸，正坐取之。督脈足太陽之會。熱府腧也。\n\n刺五分，留七呼，灸五壯。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，膈胃寒痰暴痛，心滿氣急，吐食反胃，　癖五積，氣塊血塊，咳逆，四肢腫痛，怠",
+    "after": "，膈胃寒痰暴痛，心滿氣急，吐食反胃，痃癖五積，氣塊血塊，咳逆，四肢腫痛，怠",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "：兼少澤，可治攀睛。\n\n一傳治氣痛項　吐酸。\n\n膽俞　在十椎下，去脊中二寸",
+    "after": "：兼少澤，可治攀睛。\n\n一傳治氣痛項癧吐酸。\n\n膽俞　在十椎下，去脊中二寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "堅大如盤盂，胸腹脹滿，飲食不消，婦人　聚瘦瘠，灸三焦俞百壯，三報之，仍灸氣",
+    "after": "堅大如盤盂，胸腹脹滿，飲食不消，婦人癥聚瘦瘠，灸三焦俞百壯，三報之，仍灸氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "遺精滑，腳膝拘急，身熱頭重振寒，心腹　脹，兩脅滿痛引少腹，少氣溺血，便濁淫",
+    "after": "遺精滑，腳膝拘急，身熱頭重振寒，心腹䐜脹，兩脅滿痛引少腹，少氣溺血，便濁淫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治腰腎虛乏之夢遺。\n\n百證賦云：兼巨　穴，能除胸膈停留瘀血。\n\n通玄賦云：",
+    "after": "治腰腎虛乏之夢遺。\n\n百證賦云：兼巨髎穴，能除胸膈停留瘀血。\n\n通玄賦云：",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "津液少，便赤不利，淋瀝遺尿，小腹脹滿　痛，瀉痢膿血，腳腫心煩短氣，五痔疼痛",
+    "after": "津液少，便赤不利，淋瀝遺尿，小腹脹滿㽲痛，瀉痢膿血，腳腫心煩短氣，五痔疼痛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，腰脊腹痛，陰瘡，腳膝寒冷無力，女子　瘕。\n\n百證賦云：兼脾俞，治脾虛穀食",
+    "after": "，腰脊腹痛，陰瘡，腳膝寒冷無力，女子癥瘕。\n\n百證賦云：兼脾俞，治脾虛穀食",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "賦云：兼委中，治背連腰痛大驗。\n\n上　在腰髁骨下一寸，夾脊兩旁第一空陷中。",
+    "after": "賦云：兼委中，治背連腰痛大驗。\n\n上髎在腰髁骨下一寸，夾脊兩旁第一空陷中。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，陰中癢痛，陰挺出，赤白帶下。\n\n次　夾脊旁第二空陷中。刺三分，留七呼，灸",
+    "after": "，陰中癢痛，陰挺出，赤白帶下。\n\n次髎夾脊旁第二空陷中。刺三分，留七呼，灸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痛不可忍，腸鳴泄瀉，赤白帶下。\n\n中　夾脊旁三空陷中。刺二分，留十呼，灸三",
+    "after": "痛不可忍，腸鳴泄瀉，赤白帶下。\n\n中髎夾脊旁三空陷中。刺二分，留十呼，灸三",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "飧泄，婦人少子帶下，月經不調。\n\n下　夾脊旁四空陷中。刺腰痛篇及繆刺論王注",
+    "after": "飧泄，婦人少子帶下，月經不調。\n\n下髎夾脊旁四空陷中。刺腰痛篇及繆刺論王注",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "子淋濁不禁。\n\n百證賦云：濕熱濕寒下　定。\n\n會陽（一名利機）　在陰尾尻骨",
+    "after": "子淋濁不禁。\n\n百證賦云：濕熱濕寒下髎定。\n\n會陽（一名利機）　在陰尾尻骨",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰刺八分。\n\n主治腹中寒氣，泄瀉，腸　便血，久痔，陽氣虛乏，陰汗濕。\n\n附",
+    "after": "曰刺八分。\n\n主治腹中寒氣，泄瀉，腸澼便血，久痔，陽氣虛乏，陰汗濕。\n\n附",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "法灸之。其有不能久坐伸臂者，亦可伏衣　上，伸兩臂，令人挽兩胛骨，使相離遠；",
+    "after": "法灸之。其有不能久坐伸臂者，亦可伏衣襆上，伸兩臂，令人挽兩胛骨，使相離遠；",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腰痛五痔，小便赤澀。\n\n承扶（一名肉　，一名陰關，一名皮部）　在尻臀下，股",
+    "after": "腰痛五痔，小便赤澀。\n\n承扶（一名肉郄，一名陰關，一名皮部）　在尻臀下，股",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，小便不利。\n\n殷門　在承扶下六寸，　上兩筋之間。刺七分，留七呼，灸三壯。",
+    "after": "，小便不利。\n\n殷門　在承扶下六寸，膕上兩筋之間。刺七分，留七呼，灸三壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "脊不可俯仰，惡血流注，外股腫。\n\n浮　在委陽上一寸，屈膝得之。刺五分，灸三",
+    "after": "脊不可俯仰，惡血流注，外股腫。\n\n浮郄在委陽上一寸，屈膝得之。刺五分，灸三",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，慎之﹗此穴主瀉四肢之熱。委中者，血　也，凡熱病汗不出，小便難，衄血不止，",
+    "after": "，慎之﹗此穴主瀉四肢之熱。委中者，血郄也，凡熱病汗不出，小便難，衄血不止，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "合人中，除腰脊痛閃之難制。又云：兼居　、環跳，除腿風濕痛。\n\n百證賦云：兼",
+    "after": "合人中，除腰脊痛閃之難制。又云：兼居髎、環跳，除腿風濕痛。\n\n百證賦云：兼",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "頭難伸屈，針入即安康。\n\n合陽　在膝　約文下二寸。刺六分，灸五壯。\n\n主治",
+    "after": "頭難伸屈，針入即安康。\n\n合陽　在膝膕約文下二寸。刺六分，灸五壯。\n\n主治",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。\n\n主治腰脊強，引腹痛，陰股熱，　酸腫，寒疝偏墜，女子崩帶不止。\n\n百",
+    "after": "壯。\n\n主治腰脊強，引腹痛，陰股熱，胻酸腫，寒疝偏墜，女子崩帶不止。\n\n百",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治寒痹腰背拘急，腋腫，大便閉，五痔，　酸，腳跟痛引少腹，轉筋霍亂鼽衄。\n\n",
+    "after": "治寒痹腰背拘急，腋腫，大便閉，五痔，腨酸，腳跟痛引少腹，轉筋霍亂鼽衄。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寸，太陽前，少陽後，筋骨之間。陽蹺之　。刺五分，留七呼，灸三壯。一云七壯。",
+    "after": "寸，太陽前，少陽後，筋骨之間。陽蹺之郄。刺五分，留七呼，灸三壯。一云七壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "灸三壯。\n\n主治風眩癲疾，腰腳痛，膝　寒酸不能坐立，如在舟車中，氣逆，腿足",
+    "after": "灸三壯。\n\n主治風眩癲疾，腰腳痛，膝胻寒酸不能坐立，如在舟車中，氣逆，腿足",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "木不仁，手足瘙癢，不能握物，中風口眼　斜，牽連不已，角弓反張，眼目盲視，口",
+    "after": "木不仁，手足瘙癢，不能握物，中風口眼喎斜，牽連不已，角弓反張，眼目盲視，口",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "（一名關梁）　在足外踝下一寸。足太陽　，陽維別屬也。刺一分，灸三壯。一云刺",
+    "after": "（一名關梁）　在足外踝下一寸。足太陽郄，陽維別屬也。刺一分，灸三壯。一云刺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "瀉，瘧痔癲癇，發背癰疔，頭痛目眩，內　赤痛，耳聾腰膝痛，項強不可回顧。\n\n",
+    "after": "瀉，瘧痔癲癇，發背癰疔，頭痛目眩，內眥赤痛，耳聾腰膝痛，項強不可回顧。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "惡風。\n\n秦承祖云：治風熱苔赤，兩目　爛。\n\n通谷　在足小指外側，本節前陷",
+    "after": "惡風。\n\n秦承祖云：治風熱苔赤，兩目眥爛。\n\n通谷　在足小指外側，本節前陷",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "多不化失欠。\n\n千金云：諸結積留飲，　囊胸滿，飲食不消，灸通谷五十壯。\n\n",
+    "after": "多不化失欠。\n\n千金云：諸結積留飲，澼囊胸滿，飲食不消，灸通谷五十壯。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "熱喉痹，目眩頸痛，胸脅滿，小腹痛，腸　泄瀉，霍亂，轉胞不得尿，腰痛大便難，",
+    "after": "熱喉痹，目眩頸痛，胸脅滿，小腹痛，腸澼泄瀉，霍亂，轉胞不得尿，腰痛大便難，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "也。刺足心，立愈。\n\n千金云：陰中懊　痛，刺入三分。又鼻衄不止，灸二百壯。",
+    "after": "也。刺足心，立愈。\n\n千金云：陰中懊憹痛，刺入三分。又鼻衄不止，灸二百壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n靈光賦云：治婦人疾，並男蠱女孕而病　者，千金勿妄傳。\n\n天星秘訣云：兼陰",
+    "after": "\n靈光賦云：治婦人疾，並男蠱女孕而病痓者，千金勿妄傳。\n\n天星秘訣云：兼陰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，少氣涎出，小腹脹，痿厥寒疝，足跗腫　酸，足一寒一熱，不能久立，男子遺精，",
+    "after": "，少氣涎出，小腹脹，痿厥寒疝，足跗腫胻酸，足一寒一熱，不能久立，男子遺精，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "後五分，跟骨上動脈陷中。足少陰所注為　，即原也。刺三分，留七呼，灸三壯。\n",
+    "after": "後五分，跟骨上動脈陷中。足少陰所注為腧，即原也。刺三分，留七呼，灸三壯。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "足寒，嘔吐不嗜食善噫，腹疼瘠瘦，寒疝　癖。\n\n神農經云：治牙疼，可灸七壯。",
+    "after": "足寒，嘔吐不嗜食善噫，腹疼瘠瘦，寒疝痃癖。\n\n神農經云：治牙疼，可灸七壯。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "分，留三呼，灸五壯、七壯。\n\n主治腸　痔疾，腰脊內引痛不得俯仰，善怒多言，",
+    "after": "分，留三呼，灸五壯、七壯。\n\n主治腸澼痔疾，腰脊內引痛不得俯仰，善怒多言，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，癲疾吐舌發狂罵詈，腹痛嘔吐涎沫，足　痛。\n\n陰谷　在膝下內輔骨後，大筋下",
+    "after": "，癲疾吐舌發狂罵詈，腹痛嘔吐涎沫，足腨痛。\n\n陰谷　在膝下內輔骨後，大筋下",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "淋小便不通，陰器下縱引痛，小腹滿，目　赤痛，五臟虛。\n\n百證賦云：兼肓俞，",
+    "after": "淋小便不通，陰器下縱引痛，小腹滿，目眥赤痛，五臟虛。\n\n百證賦云：兼肓俞，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，石水奔豚臍下痛，女人月經不調，惡血　痛，並無子，可灸三十壯。\n\n中注　在",
+    "after": "，石水奔豚臍下痛，女人月經不調，惡血㽲痛，並無子，可灸三十壯。\n\n中注　在",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n主治小腹熱，大便堅燥，腰脊痛，目　痛，女子月事不調。\n\n肓俞　在商曲下",
+    "after": "\n\n主治小腹熱，大便堅燥，腰脊痛，目眥痛，女子月事不調。\n\n肓俞　在商曲下",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n主治腹痛寒疝，大便燥，目赤痛從內　始。\n\n百證賦云：兼橫骨，瀉五淋之久",
+    "after": "\n\n主治腹痛寒疝，大便燥，目赤痛從內眥始。\n\n百證賦云：兼橫骨，瀉五淋之久",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n主治腹中切痛，積聚不嗜食，目赤痛內　始。\n\n石關　在陰都下一寸，去中行五",
+    "after": "\n主治腹中切痛，積聚不嗜食，目赤痛內眥始。\n\n石關　在陰都下一寸，去中行五",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "搶嘔沫，大便難，脅下熱痛，目痛，寒熱　瘧，婦人無子，藏有惡血腹絞痛。\n\n通",
+    "after": "搶嘔沫，大便難，脅下熱痛，目痛，寒熱痎瘧，婦人無子，藏有惡血腹絞痛。\n\n通",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "灸五壯。\n\n主治同神封。\n\n神藏　在　中下一寸六分陷中，去中行二寸，仰而取",
+    "after": "灸五壯。\n\n主治同神封。\n\n神藏　在彧中下一寸六分陷中，去中行二寸，仰而取",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "瘧，熱病汗不出。\n\n千金云：治頸漏瘰　，灸百壯。\n\n百證賦云：兼委陽穴，腋",
+    "after": "瘧，熱病汗不出。\n\n千金云：治頸漏瘰癧，灸百壯。\n\n百證賦云：兼委陽穴，腋",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "心腹脹滿，脅肋下疼，心腹刺痛，痞塊食　不散，人漸羸瘦，血塊氣瘕，臟腑虛寒，",
+    "after": "心腹脹滿，脅肋下疼，心腹刺痛，痞塊食癥不散，人漸羸瘦，血塊氣瘕，臟腑虛寒，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "骨下橫文中，兩筋間陷中。手厥陰所注為　，即原也。刺三分，留七呼，灸三壯。\n",
+    "after": "骨下橫文中，兩筋間陷中。手厥陰所注為腧，即原也。刺三分，留七呼，灸三壯。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痹，大小便血熱痔。\n\n千金云：心中懊　痛，刺入五分補之。\n\n玉龍賦云：兼大",
+    "after": "痹，大小便血熱痔。\n\n千金云：心中懊憹痛，刺入五分補之。\n\n玉龍賦云：兼大",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n主治驚悸忘言，寒厥，臂痛不得上下，　瘧寒熱頭痛，目眩赤澀泣出，耳暴聾，咽",
+    "after": "\n主治驚悸忘言，寒厥，臂痛不得上下，痎瘧寒熱頭痛，目眩赤澀泣出，耳暴聾，咽",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "本節後間陷中，把拳取之。手少陽所注為　。刺二分，留三呼，灸三壯。\n\n主治熱",
+    "after": "本節後間陷中，把拳取之。手少陽所注為腧。刺二分，留三呼，灸三壯。\n\n主治熱",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三分，留七呼，灸三壯。\n\n主治耳聾渾　無聞，肘臂五指痛不能握，若脅肋痛者瀉",
+    "after": "三分，留七呼，灸三壯。\n\n主治耳聾渾焞無聞，肘臂五指痛不能握，若脅肋痛者瀉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "縮不能言，唇吻破裂，血出干痛，頭生瘰　結核，繞頸連胸，耳根頸項腫痛不消，目",
+    "after": "縮不能言，唇吻破裂，血出干痛，頭生瘰癧結核，繞頸連胸，耳根頸項腫痛不消，目",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "難開，風沿爛弦，迎風流淚，目風腫痛，　肉攀睛，暴赤腫痛。以上諸證，先以外關",
+    "after": "難開，風沿爛弦，迎風流淚，目風腫痛，胬肉攀睛，暴赤腫痛。以上諸證，先以外關",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "在腕後三寸空中。一云空中一寸。手少陽　。刺三分，灸三壯。一曰禁刺。\n\n主治",
+    "after": "在腕後三寸空中。一云空中一寸。手少陽郄。刺三分，灸三壯。一曰禁刺。\n\n主治",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疾，五癇風痹，頭頸肩背痛，耳聾，目銳　痛，頰腫，肘臂痛不得捉物，及瀉一切瘰",
+    "after": "疾，五癇風痹，頭頸肩背痛，耳聾，目銳眥痛，頰腫，肘臂痛不得捉物，及瀉一切瘰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痛，頰腫，肘臂痛不得捉物，及瀉一切瘰　瘡腫癮疹。\n\n神農經云：治咳嗽上氣，",
+    "after": "痛，頰腫，肘臂痛不得捉物，及瀉一切瘰癧瘡腫癮疹。\n\n神農經云：治咳嗽上氣，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三分，灸三壯。\n\n主治諸痹痛，肩臂肘　不能舉。\n\n席弘賦云：五般肘痛尋尺澤",
+    "after": "三分，灸三壯。\n\n主治諸痹痛，肩臂肘臑不能舉。\n\n席弘賦云：五般肘痛尋尺澤",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三壯。\n\n主治臂重肩痛不能舉。\n\n天　在肩缺盆中，上毖骨際，陷者中。（毖音",
+    "after": "三壯。\n\n主治臂重肩痛不能舉。\n\n天髎在肩缺盆中，上毖骨際，陷者中。（毖音",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。刺三分，灸七壯。\n\n主治耳聾，口眼　斜，口噤不開，脫頷腫頰，牙車急痛，暴",
+    "after": "。刺三分，灸七壯。\n\n主治耳聾，口眼喎斜，口噤不開，脫頷腫頰，牙車急痛，暴",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陽作手陽明。）寒熱病篇曰：足太陽有入　遍齒者，名曰角孫。則足太陽脈亦會於此",
+    "after": "陽作手陽明。）寒熱病篇曰：足太陽有入頄遍齒者，名曰角孫。則足太陽脈亦會於此",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三呼，灸三壯。一云禁灸。\n\n主治耳聾　耳膿汁，耳生瘡，齒齲唇吻強。\n\n席弘",
+    "after": "三呼，灸三壯。一云禁灸。\n\n主治耳聾聤耳膿汁，耳生瘡，齒齲唇吻強。\n\n席弘",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "日月、京門鄉。帶脈、五樞、維道續，居　、環跳下中瀆。陽關、陽陵復陽交，外丘",
+    "after": "日月、京門鄉。帶脈、五樞、維道續，居髎、環跳下中瀆。陽關、陽陵復陽交，外丘",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "足少陽足陽明三脈之會。本輸篇曰刺之則　不能欠者，即此穴。刺一分，留七呼，灸",
+    "after": "足少陽足陽明三脈之會。本輸篇曰刺之則呿不能欠者，即此穴。刺一分，留七呼，灸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "口噤不能嚼物。\n\n頷厭　在耳前曲角顳　上廉。（即腦空之上。）手足少陽足陽明",
+    "after": "口噤不能嚼物。\n\n頷厭　在耳前曲角顳顬上廉。（即腦空之上。）手足少陽足陽明",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，治偏頭痛。\n\n懸顱　在耳前曲角上顳　之中。寒熱病篇曰：足陽明有挾鼻入於面",
+    "after": "，治偏頭痛。\n\n懸顱　在耳前曲角上顳顬之中。寒熱病篇曰：足陽明有挾鼻入於面",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "呼，灸三壯。\n\n主治偏頭痛面腫，目銳　痛，熱病煩心汗不出。\n\n曲鬢　在耳上",
+    "after": "呼，灸三壯。\n\n主治偏頭痛面腫，目銳眥痛，熱病煩心汗不出。\n\n曲鬢　在耳上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主治頭痛頭風，耳鳴齒齲，牙車急，口眼　斜，喉痹頰腫，癭疾便赤，足痿不收。\n",
+    "after": "主治頭痛頭風，耳鳴齒齲，牙車急，口眼喎斜，喉痹頰腫，癭疾便赤，足痿不收。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "一曰禁灸。\n\n主治鼻塞，目眩生翳，眵　冷淚，眼目諸疾，驚癇反視，卒暴中風不",
+    "after": "一曰禁灸。\n\n主治鼻塞，目眩生翳，眵䁾冷淚，眼目諸疾，驚癇反視，卒暴中風不",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "刺三分，灸五壯。\n\n主治頭目眩痛引外　，遠視不明，面腫，寒熱汗不出。\n\n正",
+    "after": "刺三分，灸五壯。\n\n主治頭目眩痛引外眥，遠視不明，面腫，寒熱汗不出。\n\n正",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痛，惡風，鼻窒不通。\n\n腦空（一名顳　）　在承靈後一寸五分，夾玉枕骨下陷中",
+    "after": "痛，惡風，鼻窒不通。\n\n腦空（一名顳顬）　在承靈後一寸五分，夾玉枕骨下陷中",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "惡風，鼻窒不通。\n\n腦空（一名顳　）　在承靈後一寸五分，夾玉枕骨下陷中。氣",
+    "after": "惡風，鼻窒不通。\n\n腦空（一名顳　）顬在承靈後一寸五分，夾玉枕骨下陷中。氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n主治中風偏正頭痛，傷寒熱病汗不出，　瘧，頸項如拔痛不得回，目眩赤痛淚出，",
+    "after": "\n主治中風偏正頭痛，傷寒熱病汗不出，痃瘧，頸項如拔痛不得回，目眩赤痛淚出，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "上氣咳逆短氣風勞百病，灸二百壯。又灸　疝隨年壯。\n\n席弘賦云：針肩井，須針",
+    "after": "上氣咳逆短氣風勞百病，灸二百壯。又灸㿗疝隨年壯。\n\n席弘賦云：針肩井，須針",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治腸鳴洞泄，水道不利，少腹急痛，寒熱　脹，肩背腰髀引痛，不得俯仰久立。\n\n",
+    "after": "治腸鳴洞泄，水道不利，少腹急痛，寒熱䐜脹，肩背腰髀引痛，不得俯仰久立。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陽帶脈之會。刺一寸，灸五壯。\n\n主治　癖，小腸膀胱氣，攻兩脅小腹痛，腰腿痛",
+    "after": "陽帶脈之會。刺一寸，灸五壯。\n\n主治痃癖，小腸膀胱氣，攻兩脅小腹痛，腰腿痛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "逆不止，三焦不調，不食，水腫。\n\n居　在章門下八寸三分，監骨上陷中。足少陽",
+    "after": "逆不止，三焦不調，不食，水腫。\n\n居髎在章門下八寸三分，監骨上陷中。足少陽",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "除冷風膝痹並瘧疾。\n\n玉龍賦云：兼居　、委中，治腿風濕痛。\n\n天星秘訣云：",
+    "after": "除冷風膝痹並瘧疾。\n\n玉龍賦云：兼居髎、委中，治腿風濕痛。\n\n天星秘訣云：",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "云：中風宜刺此。又云：華佗兼絕骨，刺　足而立行。\n\n席弘賦云：兼腰俞，用燒",
+    "after": "云：中風宜刺此。又云：華佗兼絕骨，刺躄足而立行。\n\n席弘賦云：兼腰俞，用燒",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "故治筋病。\n\n陽交（一名別陽，一名足　）　在足外踝上七寸，斜屬三陽分肉間。",
+    "after": "故治筋病。\n\n陽交（一名別陽，一名足髎）　在足外踝上七寸，斜屬三陽分肉間。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "筋病。\n\n陽交（一名別陽，一名足　）　在足外踝上七寸，斜屬三陽分肉間。陽維",
+    "after": "筋病。\n\n陽交（一名別陽，一名足　）髎在足外踝上七寸，斜屬三陽分肉間。陽維",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "足外踝上七寸，斜屬三陽分肉間。陽維之　。刺六分，留七呼，灸三壯。\n\n主治胸",
+    "after": "足外踝上七寸，斜屬三陽分肉間。陽維之郄。刺六分，留七呼，灸三壯。\n\n主治胸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "外丘　在外踝上七寸。甲乙經曰：足少陽　。刺三分，灸三壯。\n\n主治頸項痛，胸",
+    "after": "外丘　在外踝上七寸。甲乙經曰：足少陽郄。刺三分，灸三壯。\n\n主治頸項痛，胸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "衝行氣。\n\n標幽賦云：兼環跳，華佗刺　足而立行。\n\n天星秘訣云：兼條口、衝",
+    "after": "衝行氣。\n\n標幽賦云：兼環跳，華佗刺躄足而立行。\n\n天星秘訣云：兼條口、衝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "間陷中，去俠谿一寸五分。足少陽所注為　。刺二分，留五呼，灸三壯。\n\n主治胸",
+    "after": "間陷中，去俠谿一寸五分。足少陽所注為腧。刺二分，留五呼，灸三壯。\n\n主治胸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯。\n\n玉龍賦云：兼內庭，能理小腹之　。\n\n捷法云：治足跗腫痛不消，手足麻",
+    "after": "壯。\n\n玉龍賦云：兼內庭，能理小腹之䐜。\n\n捷法云：治足跗腫痛不消，手足麻",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "行動，手足指拘攣疼痛，足心足踝足跗膝　發熱或為紅腫，兩手發熱，臂膊痛連肩背",
+    "after": "行動，手足指拘攣疼痛，足心足踝足跗膝胻發熱或為紅腫，兩手發熱，臂膊痛連肩背",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "土自安。\n\n玉龍賦云：兼期門，能治堅　疝氣。\n\n千金云：大便難，灸四壯。又",
+    "after": "土自安。\n\n玉龍賦云：兼期門，能治堅痃疝氣。\n\n千金云：大便難，灸四壯。又",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目中淚出，太息，癲疾短氣，肝積肥氣，　瘧洞泄，遺尿癃閉，崩漏白濁，寒疝少腹",
+    "after": "目中淚出，太息，癲疾短氣，肝積肥氣，痎瘧洞泄，遺尿癃閉，崩漏白濁，寒疝少腹",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寸骨罅間，動脈應手陷中。足厥陰所注為　，即原也。刺三分，留十呼，灸三壯。\n",
+    "after": "寸骨罅間，動脈應手陷中。足厥陰所注為腧，即原也。刺三分，留十呼，灸三壯。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "呼，灸三壯。千金云：五十壯。\n\n主治　瘧，色蒼蒼然善太息，如將死狀，振寒溲",
+    "after": "呼，灸三壯。千金云：五十壯。\n\n主治痎瘧，色蒼蒼然善太息，如將死狀，振寒溲",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "合。刺六分，留七呼，灸三壯。\n\n主治　疝陰股痛，小便難，少氣，泄痢膿血，腹",
+    "after": "合。刺六分，留七呼，灸三壯。\n\n主治㿉疝陰股痛，小便難，少氣，泄痢膿血，腹",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "今增入之。\n\n章門（一名長平，一名脅　）　在大橫外直臍季肋端，側臥屈上足伸",
+    "after": "今增入之。\n\n章門（一名長平，一名脅髎）　在大橫外直臍季肋端，側臥屈上足伸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "入之。\n\n章門（一名長平，一名脅　）　在大橫外直臍季肋端，側臥屈上足伸下足",
+    "after": "入之。\n\n章門（一名長平，一名脅　）髎在大橫外直臍季肋端，側臥屈上足伸下足",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "五十壯。\n\n玉龍賦云：兼大敦，能治堅　疝氣。\n\n席弘賦云：期門穴主傷寒患，",
+    "after": "五十壯。\n\n玉龍賦云：兼大敦，能治堅痃疝氣。\n\n席弘賦云：期門穴主傷寒患，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n主治小腹脹滿，水腫，小便淋澀，血癃　疝，小腹痛，失精虛冷，婦人赤白帶下。",
+    "after": "\n主治小腹脹滿，水腫，小便淋澀，血癃㿉疝，小腹痛，失精虛冷，婦人赤白帶下。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三分，陰動脈中三壯。\n\n氣海（一名脖　，一名下肓）　在臍下一寸半宛宛中。肓",
+    "after": "三分，陰動脈中三壯。\n\n氣海（一名脖胦，一名下肓）　在臍下一寸半宛宛中。肓",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "白帶下，月事不調，產後惡露不止，繞臍　痛，小兒遺尿。一云治卒厥，厥氣上攻兩",
+    "after": "白帶下，月事不調，產後惡露不止，繞臍㽲痛，小兒遺尿。一云治卒厥，厥氣上攻兩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯，三報之。\n\n玉龍賦云：兼璇璣，治　羸喘促。\n\n席弘賦云：治五淋，須更針",
+    "after": "壯，三報之。\n\n玉龍賦云：兼璇璣，治尫羸喘促。\n\n席弘賦云：治五淋，須更針",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "灸，只云禁針。銅人云：宜灸百壯。有徐　者，卒中不省，得桃源簿為灸臍中百壯始",
+    "after": "灸，只云禁針。銅人云：宜灸百壯。有徐伻者，卒中不省，得桃源簿為灸臍中百壯始",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "者為灸五百壯而赤，後年逾八十。向使徐　灸至三五百壯，安知其不永年耶？故神闕",
+    "after": "者為灸五百壯而赤，後年逾八十。向使徐伻灸至三五百壯，安知其不永年耶？故神闕",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "中，能除膈痛飲蓄難禁。\n\n鳩尾（一名　，一名尾翳）　在臆前蔽骨下五分。人無",
+    "after": "中，能除膈痛飲蓄難禁。\n\n鳩尾（一名骬，一名尾翳）　在臆前蔽骨下五分。人無",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，水飲不下。\n\n玉龍賦云：兼氣海，治　羸喘促。\n\n席弘賦云：治胃中有積，兼",
+    "after": "，水飲不下。\n\n玉龍賦云：兼氣海，治尫羸喘促。\n\n席弘賦云：治胃中有積，兼",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，灸三壯。\n\n主治偏風半身不遂，口眼　斜，口噤不開，暴喑不能言，刺三分，徐",
+    "after": "，灸三壯。\n\n主治偏風半身不遂，口眼喎斜，口噤不開，暴喑不能言，刺三分，徐",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "男子為七疝，女子為瘕聚。一云療偏風口　面腫，消渴飲水不休，口齒疳蝕生瘡，灸",
+    "after": "男子為七疝，女子為瘕聚。一云療偏風口喎面腫，消渴飲水不休，口齒疳蝕生瘡，灸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "排。百會、前頂通囟會，上星、神庭、素　對。水溝、兌端在唇上，齦交上齒縫之內",
+    "after": "排。百會、前頂通囟會，上星、神庭、素髎對。水溝、兌端在唇上，齦交上齒縫之內",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "羸瘦身黃，淫濼脛酸，四肢重痛，寒熱解　。一云灸三壯，治喘氣立已。\n\n神農經",
+    "after": "羸瘦身黃，淫濼脛酸，四肢重痛，寒熱解㑊。一云灸三壯，治喘氣立已。\n\n神農經",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，禁針。\n\n主治傷寒頭痛，寒熱往來，　瘧，悲愁健忘驚悸。牙車急，張口不合，",
+    "after": "，禁針。\n\n主治傷寒頭痛，寒熱往來，痎瘧，悲愁健忘驚悸。牙車急，張口不合，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "之。\n\n主治五勞七傷乏力，風勞食氣，　瘧久不愈，肺脹脅滿，嘔吐上氣，背膊拘",
+    "after": "之。\n\n主治五勞七傷乏力，風勞食氣，痎瘧久不愈，肺脹脅滿，嘔吐上氣，背膊拘",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，角弓反張，吐沫心神恍惚，驚悸健忘，　瘧，女人血風，胎前產後風疾，小兒風癇",
+    "after": "，角弓反張，吐沫心神恍惚，驚悸健忘，痎瘧，女人血風，胎前產後風疾，小兒風癇",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "弘賦云：小兒脫肛患多時，先灸百會後尾　。又云：兼太衝、照海、陰交，治咽喉疾",
+    "after": "弘賦云：小兒脫肛患多時，先灸百會後尾骶。又云：兼太衝、照海、陰交，治咽喉疾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n主治頭風頭痛，頭皮腫，面虛惡寒，　瘧寒熱汗不出，鼻血臭涕，鼻塞不聞香臭",
+    "after": "\n\n主治頭風頭痛，頭皮腫，面虛惡寒，痎瘧寒熱汗不出，鼻血臭涕，鼻塞不聞香臭",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "安寢。\n\n玉龍賦云：專理頭風。\n\n素　（一名面王）　在鼻端準頭。刺一分，禁",
+    "after": "安寢。\n\n玉龍賦云：專理頭風。\n\n素髎（一名面王）　在鼻端準頭。刺一分，禁",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，消渴多飲，水氣遍身浮腫，瘟疫，口眼　僻，俱宜刺之。若風水面腫，針此一穴出",
+    "after": "，消渴多飲，水氣遍身浮腫，瘟疫，口眼喎僻，俱宜刺之。若風水面腫，針此一穴出",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "之，灸三壯。\n\n主治面赤心煩痛，鼻生　肉不消，頭額中痛，頸項強，目淚多眵赤",
+    "after": "之，灸三壯。\n\n主治面赤心煩痛，鼻生瘜肉不消，頭額中痛，頸項強，目淚多眵赤",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，上股內後廉，貫脊屬腎，與太陽起目內　，上額交巔上，入絡腦，還出別下項，循",
+    "after": "，上股內後廉，貫脊屬腎，與太陽起目內眥，上額交巔上，入絡腦，還出別下項，循",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "則頭重。故難經曰：督脈者，起於下極之　，並於脊裡，上至風府，入屬於腦。上巔",
+    "after": "則頭重。故難經曰：督脈者，起於下極之腧，並於脊裡，上至風府，入屬於腦。上巔",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "論曰：邪客於足陽蹺之脈，令人目痛從內　始。\n\n二十九難曰：陽蹺為病，陰緩而",
+    "after": "論曰：邪客於足陽蹺之脈，令人目痛從內眥始。\n\n二十九難曰：陽蹺為病，陰緩而",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。）\n\n地倉（足陽明，口吻旁。）　巨　（足陽明，鼻旁。）　承泣（足陽明，目",
+    "after": "。）\n\n地倉（足陽明，口吻旁。）　巨髎（足陽明，鼻旁。）　承泣（足陽明，目",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "七尺五寸，而陰蹺所生在照海，以交信為　，陰蹺脈病者取此。\n\n然骨（即然谷之",
+    "after": "七尺五寸，而陰蹺所生在照海，以交信為郄，陰蹺脈病者取此。\n\n然骨（即然谷之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "則悵然失志。\n\n其脈氣所發者，陰維之　，名曰築賓，與足太陰會於腹哀、大橫，",
+    "after": "則悵然失志。\n\n其脈氣所發者，陰維之郄，名曰築賓，與足太陰會於腹哀、大橫，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "：耳風聾雷鳴，灸陽維五十壯。\n\n鼻交　中　千金翼云：主癲風，角弓反張羊鳴，",
+    "after": "：耳風聾雷鳴，灸陽維五十壯。\n\n鼻交頞中　千金翼云：主癲風，角弓反張羊鳴，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主治風眩鼻塞，灸三壯。\n\n魚尾　在目　外頭。\n\n玉龍賦云：兼睛明、太陽，治",
+    "after": "主治風眩鼻塞，灸三壯。\n\n魚尾　在目眥外頭。\n\n玉龍賦云：兼睛明、太陽，治",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "尤易且效。\n\n千金翼云：治腰痛灸腰目　，在尻上約左右。又云：在腎俞下三寸，",
+    "after": "尤易且效。\n\n千金翼云：治腰痛灸腰目窌，在尻上約左右。又云：在腎俞下三寸，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "名下極俞，主腹中疾，腰痛，膀胱寒，飲　注下，灸隨年壯十七椎穴　千金翼云：轉",
+    "after": "名下極俞，主腹中疾，腰痛，膀胱寒，飲澼注下，灸隨年壯十七椎穴　千金翼云：轉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "橫文，當臍孔直下，一百壯，及治胞落、　，須三報之。又治大小便不通。又治尿床",
+    "after": "橫文，當臍孔直下，一百壯，及治胞落、㿗，須三報之。又治大小便不通。又治尿床",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "尿不知時出，灸橫骨當陰門，七壯。又治　疝，在橫骨兩旁夾莖灸之。\n\n泉陰　在",
+    "after": "尿不知時出，灸橫骨當陰門，七壯。又治㿗疝，在橫骨兩旁夾莖灸之。\n\n泉陰　在",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "泉陰　在橫骨旁三寸。\n\n千金翼云：治　卵偏大，灸泉陰百壯，三報之。\n\n陰囊",
+    "after": "泉陰　在橫骨旁三寸。\n\n千金翼云：治㿗卵偏大，灸泉陰百壯，三報之。\n\n陰囊",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "外台秘要云：向前一指。又治諸惡漏中冷　肉出，灸足內踝上各三壯，二年六壯。\n",
+    "after": "外台秘要云：向前一指。又治諸惡漏中冷瘜肉出，灸足內踝上各三壯，二年六壯。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "拇指本節橫文中五壯。一曰隨年壯。又治　卵疝氣，灸足大指本節間三壯。又治　疝",
+    "after": "拇指本節橫文中五壯。一曰隨年壯。又治㿗卵疝氣，灸足大指本節間三壯。又治　疝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治　卵疝氣，灸足大指本節間三壯。又治　疝，灸足大指內側，去端一寸白肉際，隨",
+    "after": "治　卵疝氣，灸足大指本節間三壯。又治㿗疝，灸足大指內側，去端一寸白肉際，隨",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "間寸灸之，亦隨年壯，五日一報之。又治　疝，灸手小指端七壯，左灸右，右灸左。",
+    "after": "間寸灸之，亦隨年壯，五日一報之。又治㿗疝，灸手小指端七壯，左灸右，右灸左。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "大指與手同，各三壯，三日一報之。又治　病陰腫，令並足，合兩拇指爪甲，以一艾",
+    "after": "大指與手同，各三壯，三日一報之。又治㿗病陰腫，令並足，合兩拇指爪甲，以一艾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "向後，從足跟足肚貼肉直上，比至膝灣曲　中大橫文截斷，次令病者平身正坐，解發",
+    "after": "向後，從足跟足肚貼肉直上，比至膝灣曲膕中大橫文截斷，次令病者平身正坐，解發",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "若婦人足小者，難以為則，當取右臂自肩　穴起，以墨點記，伸手引繩向下，比至中",
+    "after": "若婦人足小者，難以為則，當取右臂自肩髃穴起，以墨點記，伸手引繩向下，比至中",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "去曲池二寸，曲池在肘節中央。肩端上肩　骨罅，鼻孔旁乃是迎香。\n\n〔胃經要穴",
+    "after": "去曲池二寸，曲池在肘節中央。肩端上肩髃骨罅，鼻孔旁乃是迎香。\n\n〔胃經要穴",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不遂〕（左患灸右，右患灸左。）\n\n肩　百會　肩井　客主人（主口歪。）　列缺",
+    "after": "不遂〕（左患灸右，右患灸左。）\n\n肩髃百會　肩井　客主人（主口歪。）　列缺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "；　向左者，是右脈中風而緩也，宜灸右　陷中二七壯。艾炷如麥粒可矣。\n\n〔口",
+    "after": "；　向左者，是右脈中風而緩也，宜灸右喎陷中二七壯。艾炷如麥粒可矣。\n\n〔口",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "俞　梁門（疼痛。）　天樞長桑君針積塊　瘕，先於塊上針之，甚者又於塊首一針，",
+    "after": "俞　梁門（疼痛。）　天樞長桑君針積塊癥瘕，先於塊上針之，甚者又於塊首一針，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "鬼語。）　身柱　神道　心俞　筋縮　骨　（二十壯。）　章門　天樞少衝（女灸此",
+    "after": "鬼語。）　身柱　神道　心俞　筋縮　骨骶（二十壯。）　章門　天樞少衝（女灸此",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "〔停耳〕\n\n聽宮　頰車　合谷\n\n〔鼻　鼻痔〕\n\n上星（流清濁涕。）　曲差　",
+    "after": "〔停耳〕\n\n聽宮　頰車　合谷\n\n〔鼻瘜鼻痔〕\n\n上星（流清濁涕。）　曲差　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　耳垂下盡骨上穴（三壯，如神。）　肩　（七壯，隨左右灸之。）　列缺（七壯，",
+    "after": "　耳垂下盡骨上穴（三壯，如神。）　肩髃（七壯，隨左右灸之。）　列缺（七壯，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯無害。\n\n〔臂痛不舉〕\n\n肩井　肩　淵腋　曲池　曲澤　後谿（項強肘痛。）",
+    "after": "壯無害。\n\n〔臂痛不舉〕\n\n肩井　肩髃淵腋　曲池　曲澤　後谿（項強肘痛。）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "白帶極效。）\n\n余用前五淋穴。\n\n〔　瘕〕\n\n三焦俞　腎俞　中極　會陰子宮",
+    "after": "白帶極效。）\n\n余用前五淋穴。\n\n〔癥瘕〕\n\n三焦俞　腎俞　中極　會陰子宮",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疔瘡一證，其形不一，其色不同，或如小　，或如水泡，或痛不可當，或癢而難忍，",
+    "after": "疔瘡一證，其形不一，其色不同，或如小癗，或如水泡，或痛不可當，或癢而難忍，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　乳毒　侵囊〕（近膻中者是。）\n\n肩　靈道（二七壯。）　溫溜（小人七壯，大",
+    "after": "　乳毒　侵囊〕（近膻中者是。）\n\n肩髃靈道（二七壯。）　溫溜（小人七壯，大",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。）　騎竹馬穴（三七壯。）\n\n〔瓜藤　〕　胸前生者。\n\n肘尖　少海　騎竹馬",
+    "after": "。）　騎竹馬穴（三七壯。）\n\n〔瓜藤癧〕　胸前生者。\n\n肘尖　少海　騎竹馬",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　騎竹馬穴（三七壯。）\n\n〔瓜藤　〕　胸前生者。\n\n肘尖　少海　騎竹馬穴\n",
+    "after": "　騎竹馬穴（三七壯。）\n\n〔瓜藤　〕癧胸前生者。\n\n肘尖　少海　騎竹馬穴\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，灸後再二三次報之，無有不愈。\n\n瘰　隔蒜灸法，用獨蒜片，先從後發核上灸起",
+    "after": "，灸後再二三次報之，無有不愈。\n\n瘰癧隔蒜灸法，用獨蒜片，先從後發核上灸起",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "潰未潰，經灸必愈。\n\n〔癭瘤〕\n\n肩　男左灸十八壯，右十七壯，女右灸十八壯",
+    "after": "潰未潰，經灸必愈。\n\n〔癭瘤〕\n\n肩髃男左灸十八壯，右十七壯，女右灸十八壯",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "七壯。若一時無艾，以火炭頭稱瘡孔大小　之。\n\n諸蟲毒　凡蛇蠍蜈蚣咬傷，痛極",
+    "after": "七壯。若一時無艾，以火炭頭稱瘡孔大小爇之。\n\n諸蟲毒　凡蛇蠍蜈蚣咬傷，痛極",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "：雷以動之，風以散之，雨以潤之，日以　之，艮以止之，兌以說之，乾以君之，坤",
+    "after": "：雷以動之，風以散之，雨以潤之，日以晅之，艮以止之，兌以說之，乾以君之，坤",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "地，為陽中太陽之十六，在人為四八；自　至師，當內卦巽坎之地，為陽中少陰之十",
+    "after": "地，為陽中太陽之十六，在人為四八；自姤至師，當內卦巽坎之地，為陽中少陰之十",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，以應前之一世；陰生於午而極於子，故　曰月窟，至坤為三十二卦，以應後之半生",
+    "after": "，以應前之一世；陰生於午而極於子，故姤曰月窟，至坤為三十二卦，以應後之半生",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。觀是陽衰之漸，遁藏陰長之因。姑象其　，無能贅陳。又若離火臨乾，非頭即藏；",
+    "after": "。觀是陽衰之漸，遁藏陰長之因。姑象其槩，無能贅陳。又若離火臨乾，非頭即藏；",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "外，大河為兩川於中，以成中國河山之勝　。由是四方立而有十二辰之會，二十八宿",
+    "after": "外，大河為兩川於中，以成中國河山之勝槩。由是四方立而有十二辰之會，二十八宿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "是為律歷之本原，數學之鼻祖也，故古人　律之妙，惟此二種而已。一以縱黍之長為",
+    "after": "是為律歷之本原，數學之鼻祖也，故古人筭律之妙，惟此二種而已。一以縱黍之長為",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "字，其義可見，則知異常者方為嘉種，且　之為言巨也，蓋謂最大者為佳。黍大則尺",
+    "after": "字，其義可見，則知異常者方為嘉種，且秬之為言巨也，蓋謂最大者為佳。黍大則尺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "最濁，是其本體，然則黍之最大者乃為真　黍耳。後人不知此理而泥於漢志中黍之文",
+    "after": "最濁，是其本體，然則黍之最大者乃為真秬黍耳。後人不知此理而泥於漢志中黍之文",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "也，是名古律尺，又名縱黍尺。選中式之　黍，一黍之縱長，命為一分，九分為一寸",
+    "after": "也，是名古律尺，又名縱黍尺。選中式之秬黍，一黍之縱長，命為一分，九分為一寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，又名古度尺，又名橫黍尺。選取中式之　黍，一黍之橫廣，命為一分，十分為一寸",
+    "after": "，又名古度尺，又名橫黍尺。選取中式之秬黍，一黍之橫廣，命為一分，十分為一寸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "豆。區為一斗六升，三百二十龠。區或作　。）\n\n五區為釜。（八斗也。為一千六",
+    "after": "豆。區為一斗六升，三百二十龠。區或作鏂。）\n\n五區為釜。（八斗也。為一千六",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "為釜。（八斗也。為一千六百龠。釜或作　，即所謂斛也。）\n\n倍釜為庾。（十六",
+    "after": "為釜。（八斗也。為一千六百龠。釜或作鬴，即所謂斛也。）\n\n倍釜為庾。（十六",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "衡有斤兩之數，生於黃鐘。黃鐘之管，容　黍千二百粒，是為一龠，二龠為合，合重",
+    "after": "衡有斤兩之數，生於黃鐘。黃鐘之管，容秬黍千二百粒，是為一龠，二龠為合，合重",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，未有得其量而不得其權者。今考羊頭山　黍，以時制等子秤之，其中者百粒得二分",
+    "after": "，未有得其量而不得其權者。今考羊頭山秬黍，以時制等子秤之，其中者百粒得二分",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "而取小，夫豈知適中之道哉？今選羊頭山　黍中者一千二百粒，實於黃鐘之龠無欠無",
+    "after": "而取小，夫豈知適中之道哉？今選羊頭山秬黍中者一千二百粒，實於黃鐘之龠無欠無",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，實又男女之通稱也。道家以先天真一之　藏乎此，為九還七返之基，故名之曰丹田",
+    "after": "，實又男女之通稱也。道家以先天真一之炁藏乎此，為九還七返之基，故名之曰丹田",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腎臟藏精之府也；腎臟者，主先天真一之　，北門鎖鑰之司也。而其所以為鎖鑰者，",
+    "after": "腎臟藏精之府也；腎臟者，主先天真一之炁，北門鎖鑰之司也。而其所以為鎖鑰者，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "丹者奇也，故統於北方天一之臟，而其外　命門一穴，正是督脈十四椎中，是命門原",
+    "after": "丹者奇也，故統於北方天一之臟，而其外腧命門一穴，正是督脈十四椎中，是命門原",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "杓建於析木，日月右行合在亥，辰次會於　訾，是陽進一月，則會退一宮，而太陽漸",
+    "after": "杓建於析木，日月右行合在亥，辰次會於娵訾，是陽進一月，則會退一宮，而太陽漸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "凡　痞最宜針，穴法須從著意尋。以手按　無轉動，隨深隨淺向中心。胃中有積取璇",
+    "after": "凡　痞最宜針，穴法須從著意尋。以手按痃無轉動，隨深隨淺向中心。胃中有積取璇",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蛔蟲並出傷寒病，金針直刺顯明醫。男子　癖取少商，女人血氣陰交當。虛汗盜汗須",
+    "after": "蛔蟲並出傷寒病，金針直刺顯明醫。男子痃癖取少商，女人血氣陰交當。虛汗盜汗須",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "針未出急須瀉，得氣之時不用留。小腹便　最難醫，間使針連氣海宜。中極也同三裡",
+    "after": "針未出急須瀉，得氣之時不用留。小腹便澼最難醫，間使針連氣海宜。中極也同三裡",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "癇失意。\n\n咳嗽風痰，太淵列缺宜刺，　羸喘促，璇璣氣海當知。期門大敦，能治",
+    "after": "癇失意。\n\n咳嗽風痰，太淵列缺宜刺，尫羸喘促，璇璣氣海當知。期門大敦，能治",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "喘促，璇璣氣海當知。期門大敦，能治堅　疝氣；勞宮大陵，可療心悶瘡痍。心悸虛",
+    "after": "喘促，璇璣氣海當知。期門大敦，能治堅痃疝氣；勞宮大陵，可療心悶瘡痍。心悸虛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疼兮，尺澤合於曲池。風濕摶於兩肩，肩　可療；壅熱盛於三焦，關衝最宜。手臂脛",
+    "after": "疼兮，尺澤合於曲池。風濕摶於兩肩，肩髃可療；壅熱盛於三焦，關衝最宜。手臂脛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "支溝，通大便之秘；內庭臨泣，理小腹之　。天突膻中，喘嗽者當覓；地倉頰車，口",
+    "after": "支溝，通大便之秘；內庭臨泣，理小腹之䐜。天突膻中，喘嗽者當覓；地倉頰車，口",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。天突膻中，喘嗽者當覓；地倉頰車，口　者宜尋。迎香攻鼻窒為最，肩井除臂痛難",
+    "after": "。天突膻中，喘嗽者當覓；地倉頰車，口喎者宜尋。迎香攻鼻窒為最，肩井除臂痛難",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "結閉，大陵合外關於支溝；腿風濕痛，居　兼環跳於委中。上脘中脘，治九種之心痛",
+    "after": "結閉，大陵合外關於支溝；腿風濕痛，居窌兼環跳於委中。上脘中脘，治九種之心痛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "與金門；眼癢眼疼，瀉光明於地五。瀉陰　止盜汗，治小兒骨蒸；刺偏歷利小便，醫",
+    "after": "與金門；眼癢眼疼，瀉光明於地五。瀉陰郄止盜汗，治小兒骨蒸；刺偏歷利小便，醫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。太白宣導於氣衝，陰陵開通於水道。腹　而脹，奪內庭以休遲；筋轉而疼，瀉承山",
+    "after": "。太白宣導於氣衝，陰陵開通於水道。腹䐜而脹，奪內庭以休遲；筋轉而疼，瀉承山",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "豈人知？小兒脫肛患多時，先灸百會次尾　。久患傷寒肩背痛，但針中渚得其宜。肩",
+    "after": "豈人知？小兒脫肛患多時，先灸百會次尾骶。久患傷寒肩背痛，但針中渚得其宜。肩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "竹空，治牙疼於頃刻；頰車地倉穴，正口　於片時。喉痛兮，液門魚際可療；轉筋兮",
+    "after": "竹空，治牙疼於頃刻；頰車地倉穴，正口喎於片時。喉痛兮，液門魚際可療；轉筋兮",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，中府意舍施治；胸膈停留瘀血，腎俞巨　當行。膈滿項強，神藏璇璣已試；背連腰",
+    "after": "，中府意舍施治；胸膈停留瘀血，腎俞巨髎當行。膈滿項強，神藏璇璣已試；背連腰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n至陰屋翳，治遍身風癢之疼多；肩　陽谿，消肌腠癮風之熱極。婦人經事改常",
+    "after": "。\n\n至陰屋翳，治遍身風癢之疼多；肩髃陽谿，消肌腠癮風之熱極。婦人經事改常",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "而極效，商丘痔漏而尤良。脫肛趨百會尾　之所，無子收陰交石關之鄉。中脘主乎積",
+    "after": "而極效，商丘痔漏而尤良。脫肛趨百會尾骶之所，無子收陰交石關之鄉。中脘主乎積",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，外丘收乎大腸。寒瘧兮，商陽太谿驗；　癖兮，衝門血海強。夫醫乃人之司命，非",
+    "after": "，外丘收乎大腸。寒瘧兮，商陽太谿驗；痃癖兮，衝門血海強。夫醫乃人之司命，非",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "交莫遲。如中鬼邪先間使，手臂攣痛取肩　。腳若轉筋並眼花，先針承山次內踝。香",
+    "after": "交莫遲。如中鬼邪先間使，手臂攣痛取肩髃。腳若轉筋並眼花，先針承山次內踝。香",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

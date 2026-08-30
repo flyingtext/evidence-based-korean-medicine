@@ -1,1 +1,474 @@
-[]
+[
+  {
+    "before": "，經行則發，怒極傷肝則有眩暈嘔血，瘰　血風瘡癢等病。加之經血滲漏，遂成竅血",
+    "after": "，經行則發，怒極傷肝則有眩暈嘔血，瘰癧血風瘡癢等病。加之經血滲漏，遂成竅血",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "淋瀝不斷，濕熱相搏為崩帶。血結於內變　瘕。凡此變證百出，不過血滯與血枯而已",
+    "after": "淋瀝不斷，濕熱相搏為崩帶。血結於內變癥瘕。凡此變證百出，不過血滯與血枯而已",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "經水不調、血塊氣痞、肚腹疼痛。\n\n生　（一斤）　老生薑（一斤）　玄胡索　當",
+    "after": "經水不調、血塊氣痞、肚腹疼痛。\n\n生苄（一斤）　老生薑（一斤）　玄胡索　當",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腰腿疼痛。\n\n當歸　川芎　白芍藥　熟　（各五錢）　牡丹皮　玄胡索（各二錢五",
+    "after": "腰腿疼痛。\n\n當歸　川芎　白芍藥　熟苄（各五錢）　牡丹皮　玄胡索（各二錢五",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "丹皮　玄胡索（各二錢五分）　人參　黃　（各一錢二分半）\n\n為末蜜丸桐子大，",
+    "after": "丹皮　玄胡索（各二錢五分）　人參　黃耆（各一錢二分半）\n\n為末蜜丸桐子大，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "勢也。若病愈，經血惡物已盡，必須以黃　、人參、甘草、當歸之類補之；若經血惡",
+    "after": "勢也。若病愈，經血惡物已盡，必須以黃耆、人參、甘草、當歸之類補之；若經血惡",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "或因損動漏血傷胎。\n\n阿膠（炒）　芎　甘草（炙，各二兩）　艾葉（炒，一兩）",
+    "after": "或因損動漏血傷胎。\n\n阿膠（炒）　芎藭甘草（炙，各二兩）　艾葉（炒，一兩）",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "（炒去毛）　柏子仁（炒。各二兩）　芎　茯神（去木）　當歸　小草（各一兩）　",
+    "after": "（炒去毛）　柏子仁（炒。各二兩）　芎藭茯神（去木）　當歸　小草（各一兩）　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "黃（懷慶者勿犯鐵器）　白朮（炒）　黃　（蜜炙）　川牛膝（酒炒）　牡丹皮（酒",
+    "after": "黃（懷慶者勿犯鐵器）　白朮（炒）　黃耆（蜜炙）　川牛膝（酒炒）　牡丹皮（酒",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "、小茴香鹽酒炒一錢五分，人參二錢，黃　一錢，巴戟二錢，當歸一錢，石斛七分，",
+    "after": "、小茴香鹽酒炒一錢五分，人參二錢，黃耆一錢，巴戟二錢，當歸一錢，石斛七分，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兩，青鹽三錢，人參二兩，蓮肉二兩，黃　二兩，川芎一兩，木瓜一兩。\n\n帶脈總",
+    "after": "兩，青鹽三錢，人參二兩，蓮肉二兩，黃耆二兩，川芎一兩，木瓜一兩。\n\n帶脈總",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n當歸（去蘆酒浸）　赤芍藥　牡蠣（火　取粉）　熟地（酒浸，蒸焙）　白芍藥　",
+    "after": "\n當歸（去蘆酒浸）　赤芍藥　牡蠣（火煅取粉）　熟地（酒浸，蒸焙）　白芍藥　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "錢）　官桂（不見火，五錢）　人參　黃　鹿茸（酥炙）　酸棗仁　鹿角霜　延胡索",
+    "after": "錢）　官桂（不見火，五錢）　人參　黃耆鹿茸（酥炙）　酸棗仁　鹿角霜　延胡索",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "次者如拳，因氣而成，如弦之狀，故名曰　。癖者，僻在兩肋之間，有時而痛，故名",
+    "after": "次者如拳，因氣而成，如弦之狀，故名曰痃。癖者，僻在兩肋之間，有時而痛，故名",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "癖者，僻在兩肋之間，有時而痛，故名曰　。癖者，僻在兩肋之間，有時而痛，故名",
+    "after": "癖者，僻在兩肋之間，有時而痛，故名曰痃。癖者，僻在兩肋之間，有時而痛，故名",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "與痛俱，痛即現，不痛即隱，在臍左右為　，在兩肋間為癖，在小腹牽引腰脅為疝，",
+    "after": "與痛俱，痛即現，不痛即隱，在臍左右為痃，在兩肋間為癖，在小腹牽引腰脅為疝，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "乳間，或硬或腫，疼痛有乳核，漸至皮膚　腫，寒熱往來，謂之乳癰。風多則硬腫色",
+    "after": "乳間，或硬或腫，疼痛有乳核，漸至皮膚焮腫，寒熱往來，謂之乳癰。風多則硬腫色",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "來，謂之乳癰。風多則硬腫色白，熱多則　腫色赤，不治則血不流通，氣為壅滯，而",
+    "after": "來，謂之乳癰。風多則硬腫色白，熱多則焮腫色赤，不治則血不流通，氣為壅滯，而",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "相搏，瘍化為膿。治之之法，凡初起寒熱　痛，即發表散邪，疏風清胃，速下乳汁，",
+    "after": "相搏，瘍化為膿。治之之法，凡初起寒熱焮痛，即發表散邪，疏風清胃，速下乳汁，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "膿出反痛，惡寒發熱，宜調榮衛；若晡熱　腫作痛，宜補陰血；若食少作嘔，宜補胃",
+    "after": "膿出反痛，惡寒發熱，宜調榮衛；若晡熱焮腫作痛，宜補陰血；若食少作嘔，宜補胃",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n有因婦人所乳之子膈有滯痰，口氣　熱，含乳而睡，熱氣吹入乳房，凝滯不散",
+    "after": "。\n\n有因婦人所乳之子膈有滯痰，口氣焮熱，含乳而睡，熱氣吹入乳房，凝滯不散",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "乃七情所傷，肝經氣血枯槁之證。治法：　痛寒熱初起，即發表散邪，疏肝之中，兼",
+    "after": "乃七情所傷，肝經氣血枯槁之證。治法：焮痛寒熱初起，即發表散邪，疏肝之中，兼",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "之類，以風藥從其性，氣藥行其滯，參、　、歸、芍補氣血，烏藥、木通疏積利壅，",
+    "after": "之類，以風藥從其性，氣藥行其滯，參、耆、歸、芍補氣血，烏藥、木通疏積利壅，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "怒傷損肝脾，其候兩脅小腹腫疼，或玉門　腫作痛，憎寒壯熱，小便澀滯，腹內急痛",
+    "after": "怒傷損肝脾，其候兩脅小腹腫疼，或玉門焮腫作痛，憎寒壯熱，小便澀滯，腹內急痛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "之類，《經》云：熱厥是也。\n\n婦人兩　生瘡，或胎產調理失宜，傷損脾胃，或憂",
+    "after": "之類，《經》云：熱厥是也。\n\n婦人兩臁生瘡，或胎產調理失宜，傷損脾胃，或憂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "虛濕熱下注，補中益氣湯或八珍湯，加萆　、金銀花之類。若膿水淋瀝，體倦少食，",
+    "after": "虛濕熱下注，補中益氣湯或八珍湯，加萆薢、金銀花之類。若膿水淋瀝，體倦少食，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "能射陰，弱陰不能攝陽，信斯言也。世有　羸之夫，祛弱之婦，屢屢受胎，而血氣方",
+    "after": "能射陰，弱陰不能攝陽，信斯言也。世有尫羸之夫，祛弱之婦，屢屢受胎，而血氣方",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "道之塞者也。皆非純氣，或感邪崇鬼怪之　氣，則成異類也。\n\n（張）按：《經》",
+    "after": "道之塞者也。皆非純氣，或感邪崇鬼怪之沴氣，則成異類也。\n\n（張）按：《經》",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "花瓣，乃太極靜而生陰，地二生火，謂之　，足少陽脈養之，吐逆惡阻，或偏嗜一物",
+    "after": "花瓣，乃太極靜而生陰，地二生火，謂之腪，足少陽脈養之，吐逆惡阻，或偏嗜一物",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "雖成另證，無大害也。丹溪曰：白朮、黃　為安胎之聖藥。俗醫謂溫劑可以養胎，不",
+    "after": "雖成另證，無大害也。丹溪曰：白朮、黃耆為安胎之聖藥。俗醫謂溫劑可以養胎，不",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "肥盛，子宮脂滿壅塞，不能孕育。\n\n芎　白朮　半夏曲　香附（一兩）　茯苓　神",
+    "after": "肥盛，子宮脂滿壅塞，不能孕育。\n\n芎藭白朮　半夏曲　香附（一兩）　茯苓　神",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "損諸疾，宜常服。\n\n川芎　白芍藥　黃　當歸　人參　陳皮（各五錢）　白朮　地",
+    "after": "損諸疾，宜常服。\n\n川芎　白芍藥　黃耆當歸　人參　陳皮（各五錢）　白朮　地",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "服後探吐，以提其氣自通。通後即用參、　大補，恐胎墮也。\n\n丹溪曰：有婦妊孕",
+    "after": "服後探吐，以提其氣自通。通後即用參、耆大補，恐胎墮也。\n\n丹溪曰：有婦妊孕",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "其胎，溺出如注，脹急頓解，隨以大劑參　補之。　至三日後，胎漸起，小便如故。",
+    "after": "其胎，溺出如注，脹急頓解，隨以大劑參耆補之。　至三日後，胎漸起，小便如故。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "若脾虛四肢無力，肺虛不任風寒，腎虛腰　，短氣不能行步，猝然氣喘不息，此脾肺",
+    "after": "若脾虛四肢無力，肺虛不任風寒，腎虛腰痠，短氣不能行步，猝然氣喘不息，此脾肺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "通呼吸，若子死腹中，胞臟氣寒，胎血凝　，氣不升降。古方多以行血順氣藥及硝石",
+    "after": "通呼吸，若子死腹中，胞臟氣寒，胎血凝沍，氣不升降。古方多以行血順氣藥及硝石",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "降。古方多以行血順氣藥及硝石、水銀、　砂之類。但其胎已死，則軀形已冷，血凝",
+    "after": "降。古方多以行血順氣藥及硝石、水銀、硇砂之類。但其胎已死，則軀形已冷，血凝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "慮胎受毒氣必然脹大，故用朴硝、水銀、　砂之藥，不惟使胎不脹，又能使胎形化爛",
+    "after": "慮胎受毒氣必然脹大，故用朴硝、水銀、硇砂之藥，不惟使胎不脹，又能使胎形化爛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "其死，害母失胎，千金神造散主之。是方　治雙胎，一胎生、一胎死者，用蟹爪以去",
+    "after": "其死，害母失胎，千金神造散主之。是方耑治雙胎，一胎生、一胎死者，用蟹爪以去",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "下、而下法最宜謹慎。如胎死腹中，心先　舌青、腹冷、口穢的確，方可用下，也必",
+    "after": "下、而下法最宜謹慎。如胎死腹中，心先蹎舌青、腹冷、口穢的確，方可用下，也必",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "從高墜下，腹痛下血、煩悶，加生地、黃　，補以安之，如因使內腹痛下血，加參、",
+    "after": "從高墜下，腹痛下血、煩悶，加生地、黃耆，補以安之，如因使內腹痛下血，加參、",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "防其欲墮，預宜服之。\n\n杜仲（去皮，　薑汁炒去絲）　川續斷（酒浸各二兩）\n",
+    "after": "防其欲墮，預宜服之。\n\n杜仲（去皮，剉薑汁炒去絲）　川續斷（酒浸各二兩）\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "白芍藥　川芎　阿膠（蛤粉炒成珠）　黃　當歸（酒浸）　甘草（炙各等分）\n\n用",
+    "after": "白芍藥　川芎　阿膠（蛤粉炒成珠）　黃耆當歸（酒浸）　甘草（炙各等分）\n\n用",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "四兩）　當歸　芍藥（各二兩）\n\n上細　以鯉魚一個，修事如食法煮取汁，去魚用",
+    "after": "四兩）　當歸　芍藥（各二兩）\n\n上細剉以鯉魚一個，修事如食法煮取汁，去魚用",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，米醋煮，麥糊丸如彈子大，每臨用炭火　藥通紅，投入生薑自然汁，浸碎之，以無",
+    "after": "，米醋煮，麥糊丸如彈子大，每臨用炭火煅藥通紅，投入生薑自然汁，浸碎之，以無",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "生受益無窮。\n\n兒生次日，即看口中上　，如有白泡子，即以銀挖宜輕輕刮破其泡",
+    "after": "生受益無窮。\n\n兒生次日，即看口中上齶，如有白泡子，即以銀挖宜輕輕刮破其泡",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "導行血之藥。\n\n《要略》曰：產後腹中　痛，當歸生薑羊肉湯主之。病痛者，緩緩",
+    "after": "導行血之藥。\n\n《要略》曰：產後腹中㽲痛，當歸生薑羊肉湯主之。病痛者，緩緩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "，所謂形不足補以味，況羊肉又能補氣，　痛屬氣弱，故宜之。\n\n寇氏曰：婦人產",
+    "after": "，所謂形不足補以味，況羊肉又能補氣，㽲痛屬氣弱，故宜之。\n\n寇氏曰：婦人產",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "故曰亡陽，其用藥與他證不同，輕則參、　、白朮，麻黃根、防風、桂枝，重則參、",
+    "after": "故曰亡陽，其用藥與他證不同，輕則參、耆、白朮，麻黃根、防風、桂枝，重則參、",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痹羸乏，不任少氣。凡筋脈挾寒，則攣急　僻，挾溫則縱緩虛弱。若入諸臟，恍惚驚",
+    "after": "痹羸乏，不任少氣。凡筋脈挾寒，則攣急喎僻，挾溫則縱緩虛弱。若入諸臟，恍惚驚",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "此虛象也。乃氣血虛極，宜大劑參、桂、　、朮、歸、地、溫養之，不應，再加附子",
+    "after": "此虛象也。乃氣血虛極，宜大劑參、桂、耆、朮、歸、地、溫養之，不應，再加附子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吃緊。如產前淋，或由氣虛不化，當用參　補氣安胎，不可過用滲利。產後淋，或由",
+    "after": "吃緊。如產前淋，或由氣虛不化，當用參耆補氣安胎，不可過用滲利。產後淋，或由",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣不從，逆於肉理也。如敗血瘀滯者，則　腫赤痛，而脈弦洪有力，當補血行血之中",
+    "after": "氣不從，逆於肉理也。如敗血瘀滯者，則焮腫赤痛，而脈弦洪有力，當補血行血之中",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "故也，十全大補湯。有初產陰戶腫脹，或　痛不閉，肝經虛熱也，加味逍遙散。若腫",
+    "after": "故也，十全大補湯。有初產陰戶腫脹，或焮痛不閉，肝經虛熱也，加味逍遙散。若腫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "丹溪立齋醫按，見症種種，而治療無非參　歸地，加以升提收澀耳。甚有子富腫大，",
+    "after": "丹溪立齋醫按，見症種種，而治療無非參耆歸地，加以升提收澀耳。甚有子富腫大，",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治產後虛勞不能食。\n\n白朮　茯苓　黃　（各一兩）　人參　川芎　熟地黃　芍藥",
+    "after": "治產後虛勞不能食。\n\n白朮　茯苓　黃耆（各一兩）　人參　川芎　熟地黃　芍藥",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　肉桂（一兩五錢）　甘草（炒，五錢）　咀，每服一兩，薑棗水煎，空心溫服。\n",
+    "after": "　肉桂（一兩五錢）　甘草（炒，五錢）㕮咀，每服一兩，薑棗水煎，空心溫服。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "發熱自汗，肢體疼痛，名曰蓐勞。\n\n黃　（一兩）　人參　當歸（七錢）　生薑（",
+    "after": "發熱自汗，肢體疼痛，名曰蓐勞。\n\n黃耆（一兩）　人參　當歸（七錢）　生薑（",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "筋脈拘攣，腰背強直，遍身疼痛。\n\n黃　當歸（酒浸）　官桂（不見火）　白朮　",
+    "after": "筋脈拘攣，腰背強直，遍身疼痛。\n\n黃耆當歸（酒浸）　官桂（不見火）　白朮　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+    "evidence_note": "G/G018.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

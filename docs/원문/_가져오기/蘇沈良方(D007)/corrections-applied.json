@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "before": "藏之有焙KT　",
+    "after": "藏之有焙㫰",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT 외자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 藏之有焙㫰"
+  },
+  {
+    "before": "療夫久疾KT　纏綿之苦",
+    "after": "療夫久疾𤴺疴纏綿之苦",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT에 유실된 두 외자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 久疾𤴺疴纏綿"
+  },
+  {
+    "before": "取一細繩KT　之",
+    "after": "取一細繩擸之",
+    "expected_count": 1,
+    "reason": "jicheng 전문과 공개 영인본 대조로 KT 외자를 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/NLC416-06jh009228-2646_%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9_%E7%AC%AC1%E5%8D%B7.pdf",
+    "evidence_note": "대조문: 取一細繩擸之"
+  },
+  {
+    "before": "薄切KT　藥中",
+    "after": "薄切裛藥中",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT 외자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 薄切裛藥中"
+  },
+  {
+    "before": "以軟帛KT　干",
+    "after": "以軟帛裛干",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT 외자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 以軟帛裛干"
+  },
+  {
+    "before": "熟絹KT　干",
+    "after": "熟絹裛干",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT 외자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 熟絹裛干"
+  },
+  {
+    "before": "免其罪而KT之",
+    "after": "免其罪而購之",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조로 KT 결자를 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "대조문: 免其罪而購之"
+  }
+]

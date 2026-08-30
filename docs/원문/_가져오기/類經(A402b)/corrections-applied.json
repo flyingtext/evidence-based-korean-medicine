@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "，必死無疑， \n　　　    余嘗於　司馬田宗伯輩見之，其脈則堅盛至極，其",
+    "after": "，必死無疑， \n　　　    余嘗於蒯司馬田宗伯輩見之，其脈則堅盛至極，其",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html",
+    "evidence_note": "A/A402b.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

@@ -1,1 +1,1914 @@
-[]
+[
+  {
+    "before": "精魅邪惡鬼。久服通神明。不老。能化為　。生山谷。\n\n符陵上藥。首紀丹巴。凝",
+    "after": "精魅邪惡鬼。久服通神明。不老。能化為澒。生山谷。\n\n符陵上藥。首紀丹巴。凝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "首紀丹巴。凝真調氣。御魅驅邪。液孳金　。光燦朱霞。宜家壽考。廖井澄華。\n\n",
+    "after": "首紀丹巴。凝真調氣。御魅驅邪。液孳金澒。光燦朱霞。宜家壽考。廖井澄華。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "人臨死服五斤。死三年。色不變。一名玉　。（初學記引云玉桃。太平御覽引同。\n",
+    "after": "人臨死服五斤。死三年。色不變。一名玉朼。（初學記引云玉桃。太平御覽引同。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "收。\n\n史記書。天神貴者太一。詩。干　以愆。庚辛玉冊。石黃性熱。有處其雪先",
+    "after": "收。\n\n史記書。天神貴者太一。詩。干餱以愆。庚辛玉冊。石黃性熱。有處其雪先",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "賦。乍搖紫影。歐陽詹賦。搏華上浮。沈　期詩。太史漏金探文。命泯開鑿。\n\n[",
+    "after": "賦。乍搖紫影。歐陽詹賦。搏華上浮。沈佺期詩。太史漏金探文。命泯開鑿。\n\n[",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "質謝藍成。品分蔥淺。蹈刃夷瘳。攻堅濡　。時有中空。還同萬選。\n\n名醫曰。生",
+    "after": "質謝藍成。品分蔥淺。蹈刃夷瘳。攻堅濡愞。時有中空。還同萬選。\n\n名醫曰。生",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寒熱邪氣。堅筋骨。長肌肉。倍力。金創　解毒。久服輕身延年。生川穀。\n\n春仲",
+    "after": "寒熱邪氣。堅筋骨。長肌肉。倍力。金創尰解毒。久服輕身延年。生川穀。\n\n春仲",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "身延年。生川穀。\n\n春仲秋仲。蠲吉除　。名符甘美。義致中和。草木蕪穢。乳石",
+    "after": "身延年。生川穀。\n\n春仲秋仲。蠲吉除疴。名符甘美。義致中和。草木蕪穢。乳石",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主續絕傷。補不足。益氣力肥健。汁去面　。久服明目。輕身。延年。一名菟蘆。生",
+    "after": "主續絕傷。補不足。益氣力肥健。汁去面皯。久服明目。輕身。延年。一名菟蘆。生",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不能動搖。跌筋結肉諸不足。久服去面黑　。好顏色潤澤。輕身不老。生山谷。\n\n",
+    "after": "不能動搖。跌筋結肉諸不足。久服去面黑疱。好顏色潤澤。輕身不老。生山谷。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "若防若葵。審名辨類。瘕結石堅。腹逆水　。頓席清涼。遂澄朗慧。介祉除邪。時維",
+    "after": "若防若葵。審名辨類。瘕結石堅。腹逆水沴。頓席清涼。遂澄朗慧。介祉除邪。時維",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "葉似葵。香味似防風。故名防葵。說文。　水不利也。黃庭經。飄飄三帝席清涼太清",
+    "after": "葉似葵。香味似防風。故名防葵。說文。沴水不利也。黃庭經。飄飄三帝席清涼太清",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "柴字。）\n\n求辭沮澤。美著華陽。懷新　白。耐老花黃。尾蟠鼠伏。香引鶴翔。陶",
+    "after": "柴字。）\n\n求辭沮澤。美著華陽。懷新蒻白。耐老花黃。尾蟠鼠伏。香引鶴翔。陶",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "頌曰。七月開黃花。根有赤毛如鼠尾。雷　論。茈胡生處。多有白鶴綠鶴來翔。是香",
+    "after": "頌曰。七月開黃花。根有赤毛如鼠尾。雷斆論。茈胡生處。多有白鶴綠鶴來翔。是香",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "味苦平。主風寒所擊。金創止痛。賁豚癇　。女子疝瘕。久服輕身耐老。一名羌活。",
+    "after": "味苦平。主風寒所擊。金創止痛。賁豚癇痓。女子疝瘕。久服輕身耐老。一名羌活。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "酥。虹晴春透。白玉能延。黃金共壽。小　頃筐。鼎烹察候。\n\n山海經曰。景山其",
+    "after": "酥。虹晴春透。白玉能延。黃金共壽。小劚頃筐。鼎烹察候。\n\n山海經曰。景山其",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "景山其草多薯蕷。又升山其草多薯蕷。龔　歌。綠薜紫藤湘色子。種玉綿延春透髓。",
+    "after": "景山其草多薯蕷。又升山其草多薯蕷。龔璛歌。綠薜紫藤湘色子。種玉綿延春透髓。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "起。四氣調神。經夏三月。此謂蕃秀。張　詞。云香酥膩老來便。廣雅。玉延薯蕷也",
+    "after": "起。四氣調神。經夏三月。此謂蕃秀。張鎡詞。云香酥膩老來便。廣雅。玉延薯蕷也",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "服輕身不老。葉名小草。一名棘菀。一名　繞。一名細草。生山谷。喻志決遠。出處",
+    "after": "服輕身不老。葉名小草。一名棘菀。一名葽繞。一名細草。生山谷。喻志決遠。出處",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "宿根勿剪。\n\n陳造詩。茹苦耐煎熬。李　歌。嘗膽不苦味若飴。馬志曰。葉如龍葵",
+    "after": "宿根勿剪。\n\n陳造詩。茹苦耐煎熬。李珣歌。嘗膽不苦味若飴。馬志曰。葉如龍葵",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "纖根。李當之曰。細辛一根一葉相連。雷　論。雙葉者。服之害人。晉書傳。非卿倫",
+    "after": "纖根。李當之曰。細辛一根一葉相連。雷斆論。雙葉者。服之害人。晉書傳。非卿倫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "假紫夤緣。\n\n李白詩。列戟何森森。沈　期詩。西南出巴峽。杜甫詩。蜀天常夜雨",
+    "after": "假紫夤緣。\n\n李白詩。列戟何森森。沈佺期詩。西南出巴峽。杜甫詩。蜀天常夜雨",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "俗名三蔓草。經冬不枯。司馬相如傳。的　江靡。顏延之詩。積翠亦蔥芊。蘇頌曰。",
+    "after": "俗名三蔓草。經冬不枯。司馬相如傳。的皪江靡。顏延之詩。積翠亦蔥芊。蘇頌曰。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "斂實。顧愷之賦。含馨揚鮮。蘇頌曰。山　根色白。土人以醋煮之色紫。\n\n雜巴戟",
+    "after": "斂實。顧愷之賦。含馨揚鮮。蘇頌曰。山葎根色白。土人以醋煮之色紫。\n\n雜巴戟",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。莖繁夏懊。花粲秋高。根蟠冬杪。雜綴　珠。赤光目了。\n\n陳藏器曰。一名白幕",
+    "after": "。莖繁夏懊。花粲秋高。根蟠冬杪。雜綴璫珠。赤光目了。\n\n陳藏器曰。一名白幕",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　詩。乃復見冬杪。郭璞曰。子赤色如耳　珠。蘇恭曰。一名鬼目草。韓駒詩。但存",
+    "after": "　詩。乃復見冬杪。郭璞曰。子赤色如耳璫珠。蘇恭曰。一名鬼目草。韓駒詩。但存",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。生川穀。\n\n標異赤芝。稈如立箭。角　羊蕃。膚函龍見。豆粒還筒。芋魁鋪練。",
+    "after": "。生川穀。\n\n標異赤芝。稈如立箭。角濈羊蕃。膚函龍見。豆粒還筒。芋魁鋪練。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "其實。而取其材。蘇軾詩。郁蔥佳氣夜充　。李時珍曰。\n\n葉似菊葉而薄。莖如艾",
+    "after": "其實。而取其材。蘇軾詩。郁蔥佳氣夜充䕡。李時珍曰。\n\n葉似菊葉而薄。莖如艾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。慈仁上瑞。肪白珊紅。金黃羽翠。漆抹　云。筍萌紫帔。大藥可求。龜龍百歲。\n",
+    "after": "。慈仁上瑞。肪白珊紅。金黃羽翠。漆抹黮云。筍萌紫帔。大藥可求。龜龍百歲。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n穿林間覓。橫理春分。蛇床蕊碎。雀　紋紛。翠含清露。香繞黃云。調羹淪茗。",
+    "after": "\n\n穿林間覓。橫理春分。蛇床蕊碎。雀堖紋紛。翠含清露。香繞黃云。調羹淪茗。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "菱。\n\n易。據於蒺藜。蘇軾碑。汗流籍　走且僵。李子卿賦。戈矛林森。白居易詩",
+    "after": "菱。\n\n易。據於蒺藜。蘇軾碑。汗流籍湜走且僵。李子卿賦。戈矛林森。白居易詩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。久敗創。排膿止痛。大風癩疾。五痔鼠　。補虛小兒百病。一名戴糝。生山谷。\n",
+    "after": "。久敗創。排膿止痛。大風癩疾。五痔鼠瘻。補虛小兒百病。一名戴糝。生山谷。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "端。花中蕊屑。細若金粉。中心入地。白　。啖之甘脆。蔣防賦。帶環抱之珥。謝惠",
+    "after": "端。花中蕊屑。細若金粉。中心入地。白蒻。啖之甘脆。蔣防賦。帶環抱之珥。謝惠",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "茸。叢生春乍。肥茁紅浮。脂凝白亞。菡　東西。蜻蜓高下。先攻心邪。神奇臭花。",
+    "after": "茸。叢生春乍。肥茁紅浮。脂凝白亞。菡蓞東西。蜻蜓高下。先攻心邪。神奇臭花。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "金櫻子核。方岳詩。真珠碎簇玉蝴蝶。蘇　詩。香饒點便風。韓保升曰。子若杜棠子",
+    "after": "金櫻子核。方岳詩。真珠碎簇玉蝴蝶。蘇頲詩。香饒點便風。韓保升曰。子若杜棠子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "種。吳寬詩。畦間香霧正氤氳。杜甫詩。　葉滿枝翠羽蓋。開花無數黃金錢。李時珍",
+    "after": "種。吳寬詩。畦間香霧正氤氳。杜甫詩。耆葉滿枝翠羽蓋。開花無數黃金錢。李時珍",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "通神明。一名水香。生池澤。\n\n沅湘紉　。溱洧湔裾。斜拋燕剪。初浴雞蘇。福祥",
+    "after": "通神明。一名水香。生池澤。\n\n沅湘紉珮。溱洧湔裾。斜拋燕剪。初浴雞蘇。福祥",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "輕身。一名蛇米。生川穀及田野。\n\n濕　幽墟。飢蛇凝戀。芎葉槎丫。蒿枝峭茜。",
+    "after": "輕身。一名蛇米。生川穀及田野。\n\n濕閟幽墟。飢蛇凝戀。芎葉槎丫。蒿枝峭茜。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "戀。韓保升曰。下濕地皆有。葉似小葉芎　。蘇頌曰。三月生苗。作叢似蒿枝。每枝",
+    "after": "戀。韓保升曰。下濕地皆有。葉似小葉芎藭。蘇頌曰。三月生苗。作叢似蒿枝。每枝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "宛轉沿涯。千心春滿。獨帚風斜。舌捫鴨　。眠起蠶沙。商秋斂實。沐浴光華。\n\n",
+    "after": "宛轉沿涯。千心春滿。獨帚風斜。舌捫鴨唼。眠起蠶沙。商秋斂實。沐浴光華。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "芬屋廣。火母名奇。丹砂就斂。\n\n寇宗　曰。折枝置土中。澆溉旬日便生。王粲賦",
+    "after": "芬屋廣。火母名奇。丹砂就斂。\n\n寇宗奭曰。折枝置土中。澆溉旬日便生。王粲賦",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不死。\n\n更因舊苗而生。故名茵陳。雷　論。凡使須用葉有八角者。李時珍曰。淮",
+    "after": "不死。\n\n更因舊苗而生。故名茵陳。雷斆論。凡使須用葉有八角者。李時珍曰。淮",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "如葵。臭如蘼蕪。名曰杜衡。杜甫詩。露　思藤架。煙霏想柱叢。嵇康序。仰眺崇岡",
+    "after": "如葵。臭如蘼蕪。名曰杜衡。杜甫詩。露裛思藤架。煙霏想柱叢。嵇康序。仰眺崇岡",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "煙霏想柱叢。嵇康序。仰眺崇岡。俯察幽　。劉圻父詩。素英綠葉紛可喜。爾雅疏。",
+    "after": "煙霏想柱叢。嵇康序。仰眺崇岡。俯察幽阪。劉圻父詩。素英綠葉紛可喜。爾雅疏。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。美識參形。尖長排齒。紫白懸鈴。乳流　液。肺沃神醒。孕金伏火。風扇泠泠。\n",
+    "after": "。美識參形。尖長排齒。紫白懸鈴。乳流溔液。肺沃神醒。孕金伏火。風扇泠泠。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。根莖皆有白汁。俗名羊婆奶。束晰賦。　液濡澤。李咸用歌。風搖兩拂精神醒。牛",
+    "after": "。根莖皆有白汁。俗名羊婆奶。束晰賦。溔液濡澤。李咸用歌。風搖兩拂精神醒。牛",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。攫公孫子之腓。吳志傳。蟲入其腹。李　曰。煮汁飲。搗末敷諸毒。阿含經。塗創",
+    "after": "。攫公孫子之腓。吳志傳。蟲入其腹。李珣曰。煮汁飲。搗末敷諸毒。阿含經。塗創",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。寄懷幽石。別訪仙蹤。桑苗纖繞。柳葉　茸。蠲疫驅瘧。不若不逢。\n\n家語。高",
+    "after": "。寄懷幽石。別訪仙蹤。桑苗纖繞。柳葉鬅茸。蠲疫驅瘧。不若不逢。\n\n家語。高",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "濕痹。歷節痛。驚癇吐舌。悸氣賊風。鼠　癰腫。一名糜銜。生川澤。\n\n叢如茺蔚",
+    "after": "濕痹。歷節痛。驚癇吐舌。悸氣賊風。鼠瘻癰腫。一名糜銜。生川澤。\n\n叢如茺蔚",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。高叢累尺。堅裹紋斑。醒含粒白。祝哽　根。聲通嗌。\n\n李時珍曰。三月開黃花",
+    "after": "。高叢累尺。堅裹紋斑。醒含粒白。祝哽鑱根。聲通嗌。\n\n李時珍曰。三月開黃花",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蔬菹涎滑。發沐云飄。丫歧分尾。銳末垂　。內守堅固。清夢逍遙李時珍曰。秋間取",
+    "after": "蔬菹涎滑。發沐云飄。丫歧分尾。銳末垂髾。內守堅固。清夢逍遙李時珍曰。秋間取",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "痛。生川穀。\n\n藍田玉暖。小燠別枝。　身重。酸痹愁羈。融通百節。安暢全肢。",
+    "after": "痛。生川穀。\n\n藍田玉暖。小燠別枝。䏨身重。酸痹愁羈。融通百節。安暢全肢。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。青逵春日。涼吹秋期。\n\n（魯猥切。　呼最切。）\n\n李商隱詩。藍田日暖玉生",
+    "after": "。青逵春日。涼吹秋期。\n\n（魯猥切。䏨呼最切。）\n\n李商隱詩。藍田日暖玉生",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "莢連珠綴。花裊金零。孟冬舉燭。上巳推　。參三取二。顯證長齡。\n\n周禮注。冬",
+    "after": "莢連珠綴。花裊金零。孟冬舉燭。上巳推蓂。參三取二。顯證長齡。\n\n周禮注。冬",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "對。秋果垂紅。春苗籠黛。仙杖晨飛。靈　夜吠。山北山南。詩人多慨。\n\n李時珍",
+    "after": "對。秋果垂紅。春苗籠黛。仙杖晨飛。靈厖夜吠。山北山南。詩人多慨。\n\n李時珍",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰。春生苗葉。劉禹錫詩。翠黛葉生籠石　。殷紅子熟照銅瓶。名醫曰。一名仙人杖",
+    "after": "曰。春生苗葉。劉禹錫詩。翠黛葉生籠石甃。殷紅子熟照銅瓶。名醫曰。一名仙人杖",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "人杖。史子玉賦。仙杖飛空。蘇軾詩。靈　或夜吠。詩。南山有杞。\n\n又陟彼北山",
+    "after": "人杖。史子玉賦。仙杖飛空。蘇軾詩。靈厖或夜吠。詩。南山有杞。\n\n又陟彼北山",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "太山尤良。舊唐書志。位當東向之尊。張　詩。捎球紫袖輕。范成大詩。垂垂萬星球",
+    "after": "太山尤良。舊唐書志。位當東向之尊。張祐詩。捎球紫袖輕。范成大詩。垂垂萬星球",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。心清聞妙香。蘇軾詩。坐對柏子香。雷　論。凡使柏子。先以酒浸。緩火煎成膏為",
+    "after": "。心清聞妙香。蘇軾詩。坐對柏子香。雷斆論。凡使柏子。先以酒浸。緩火煎成膏為",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "房商。\n\n韓保升曰。黃柏葉如紫椿。元　詩。散亂梔黃萼。李時珍曰。知母佐黃柏",
+    "after": "房商。\n\n韓保升曰。黃柏葉如紫椿。元禛詩。散亂梔黃萼。李時珍曰。知母佐黃柏",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "涵云宅仙。蘇頌曰。花作穗。淡紅色。雷　論。凡使實去蒂下白膜一重。孝子傳。古",
+    "after": "涵云宅仙。蘇頌曰。花作穗。淡紅色。雷斆論。凡使實去蒂下白膜一重。孝子傳。古",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n味辛溫。主五臟身體。寒風頭腦痛。面　。久服下氣。輕身明目。增年耐老。一名",
+    "after": "\n味辛溫。主五臟身體。寒風頭腦痛。面皯。久服下氣。輕身明目。增年耐老。一名",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "詩。潛苞絳實坼。李翰論。含光蓄銳。謝　詩。發萼初攢紫。李賀詩。細綠及團紅。",
+    "after": "詩。潛苞絳實坼。李翰論。含光蓄銳。謝脁詩。發萼初攢紫。李賀詩。細綠及團紅。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "木可為履。益腳。初生嫩葉。可食。謂之　牙。葉亦類柘。詩。七月烹葵及菽。爾雅",
+    "after": "木可為履。益腳。初生嫩葉。可食。謂之檰牙。葉亦類柘。詩。七月烹葵及菽。爾雅",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "如凝霜。謂之蠟花。李時珍曰。女貞實。　鵒喜食之。累累滿樹。黑似牛李子。\n\n",
+    "after": "如凝霜。謂之蠟花。李時珍曰。女貞實。鸜鵒喜食之。累累滿樹。黑似牛李子。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "關格不通。利小便水道。療小兒癇。大人　。仍自還神化。\n\n髓海精華。冠年儀表",
+    "after": "關格不通。利小便水道。療小兒癇。大人痓。仍自還神化。\n\n髓海精華。冠年儀表",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "梳。割分一繚。化儼伏雞。神驅飛鳥。余　僮僮。堆云妝曉。\n\n素問注。腦者髓之",
+    "after": "梳。割分一繚。化儼伏雞。神驅飛鳥。余髢僮僮。堆云妝曉。\n\n素問注。腦者髓之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。小兒熱氣驚癇。齒。主小兒大人驚癇。　疾狂走。心下結氣。不能喘息。諸痙。殺",
+    "after": "。小兒熱氣驚癇。齒。主小兒大人驚癇。瘨疾狂走。心下結氣。不能喘息。諸痙。殺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "黃庭堅詩。千金市骨今何有。士或不償五　皮。左傳。象有齒以焚其身。易。潛龍勿",
+    "after": "黃庭堅詩。千金市骨今何有。士或不償五羖皮。左傳。象有齒以焚其身。易。潛龍勿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "溫。主辟惡氣。殺鬼精物。溫瘧蠱毒。癇　。去三蟲。久服除邪。不夢寤厭寐。\n\n",
+    "after": "溫。主辟惡氣。殺鬼精物。溫瘧蠱毒。癇痓。去三蟲。久服除邪。不夢寤厭寐。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "鹿角。解蜩始鳴。謝偃賦。徒觀其粲兮如　。沈約詩。\n\n梢風有勁質。蘇軾歌。君",
+    "after": "鹿角。解蜩始鳴。謝偃賦。徒觀其粲兮如瑳。沈約詩。\n\n梢風有勁質。蘇軾歌。君",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "歸柔。坎功流下。滲漉膏凝。消堅形化。　黑珀黃。經春歷夏。\n\n名醫曰。出東阿",
+    "after": "歸柔。坎功流下。滲漉膏凝。消堅形化。瑿黑珀黃。經春歷夏。\n\n名醫曰。出東阿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "膠十二月二三月為上。黃透如琥珀。黑如　玉者良。夏月亦不濕軟。倪瓚詩。經春歷",
+    "after": "膠十二月二三月為上。黃透如琥珀。黑如瑿玉者良。夏月亦不濕軟。倪瓚詩。經春歷",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。鳥之孚卵。皆如其期。陶弘景曰。用欲　子黃白混雜煮作極似琥珀。惟不拾芥耳。",
+    "after": "。鳥之孚卵。皆如其期。陶弘景曰。用欲毈子黃白混雜煮作極似琥珀。惟不拾芥耳。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "不通利。久服益氣不飢。輕身耐老。一名　肪。生池澤北鄉南翔。知時識序。烹舍能",
+    "after": "不通利。久服益氣不飢。輕身耐老。一名鶩肪。生池澤北鄉南翔。知時識序。烹舍能",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n類自殊形。尾皆垂穎。馮木虛懸。　泥幽屏。毒菌生光。叢桑匿影。白蛹蠶瑩",
+    "after": "。\n\n類自殊形。尾皆垂穎。馮木虛懸。摙泥幽屏。毒菌生光。叢桑匿影。白蛹蠶瑩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。大黃蜂子作房在大木間。埤雅。土蜂好　泥作房。韓愈詩。即此是幽屏。酉陽雜俎",
+    "after": "。大黃蜂子作房在大木間。埤雅。土蜂好摙泥作房。韓愈詩。即此是幽屏。酉陽雜俎",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寒熱。溫瘧洒洒。驚恚怒氣。除拘緩。鼠　。女子帶下赤白。久服強骨節。殺邪氣。",
+    "after": "寒熱。溫瘧洒洒。驚恚怒氣。除拘緩。鼠瘻。女子帶下赤白。久服強骨節。殺邪氣。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蛤。生池澤。\n\n榮粹不知。止渴推厲。　房分。嵯峨山勢。纖指紛柔。圓蹄懸綴。",
+    "after": "蛤。生池澤。\n\n榮粹不知。止渴推厲。窱房分。嵯峨山勢。纖指紛柔。圓蹄懸綴。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "素曰。蛤蠣之厲。能止渴也。張衡賦。望　以徑廷。\n\n說文。嵯峨山高貌。蘇頌曰",
+    "after": "素曰。蛤蠣之厲。能止渴也。張衡賦。望窱以徑廷。\n\n說文。嵯峨山高貌。蘇頌曰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。生池澤。\n\n列前重寶。藏六懷靈。守　云覆。致墨炎熒。質兼金玉。神炳丹青。",
+    "after": "。生池澤。\n\n列前重寶。藏六懷靈。守耆云覆。致墨炎熒。質兼金玉。神炳丹青。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。效象洛龜。擢書丹青。周禮疏。龜蛇為　。龜有甲能捍難。吳球曰。龜板補陰。借",
+    "after": "。效象洛龜。擢書丹青。周禮疏。龜蛇為旐。龜有甲能捍難。吳球曰。龜板補陰。借",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "書傳。易可依固。詩疏。螟蛉。俗謂之桑　。色青而細小。李時珍曰。螳螂驤首奮臂",
+    "after": "書傳。易可依固。詩疏。螟蛉。俗謂之桑蟃。色青而細小。李時珍曰。螳螂驤首奮臂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吹沙。\n\n李時珍曰。道家指為水厭。齋　所忌。夜朝北斗。有自然之禮。故為之鱧",
+    "after": "吹沙。\n\n李時珍曰。道家指為水厭。齋籙所忌。夜朝北斗。有自然之禮。故為之鱧",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三十六鱗。漢書傳。路溫舒披大膽。新書　俯而加志。晉書紀。武帝銜膽棲冰。李　",
+    "after": "三十六鱗。漢書傳。路溫舒披大膽。新書僶俯而加志。晉書紀。武帝銜膽棲冰。李　",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　俯而加志。晉書紀。武帝銜膽棲冰。李　歌。嘗膽不苦味若飴。唐書傳。柳仲郢母",
+    "after": "　俯而加志。晉書紀。武帝銜膽棲冰。李珣歌。嘗膽不苦味若飴。唐書傳。柳仲郢母",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。漢書傳。東方朔目若懸珠。穀梁傳。六　先數聚辭也。目治也。李時珍曰。熊膽明",
+    "after": "。漢書傳。東方朔目若懸珠。穀梁傳。六鶂先數聚辭也。目治也。李時珍曰。熊膽明",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。誓畢賞於川阿。李綱賦。紅裳影斜。韓　詩。香囊獨立紅。許渾詩。煙開翠扇清風",
+    "after": "。誓畢賞於川阿。李綱賦。紅裳影斜。韓偓詩。香囊獨立紅。許渾詩。煙開翠扇清風",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "新叢入望苑。舊干冠層城。李時珍曰。蓬　覆盆。一類二種。分早熟晚熟。\n\n功用",
+    "after": "新叢入望苑。舊干冠層城。李時珍曰。蓬蘽覆盆。一類二種。分早熟晚熟。\n\n功用",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n嘉耦曰妃。雞肋編。胡麻性有八拗。雨　時薄收。大旱方熟。開花向下。結子向上",
+    "after": "\n嘉耦曰妃。雞肋編。胡麻性有八拗。雨暘時薄收。大旱方熟。開花向下。結子向上",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。陶隱居方。冬葵子柏子仁等分。治面上　瘡。武王帶銘。火滅修容。千金方。冬葵",
+    "after": "。陶隱居方。冬葵子柏子仁等分。治面上疱瘡。武王帶銘。火滅修容。千金方。冬葵",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "種需雨候。老怯風掀。丹還跛鱉。格壓膏　。荇呼哂誤。韭化機存。\n\n王十朋詩。",
+    "after": "種需雨候。老怯風掀。丹還跛鱉。格壓膏㹠。荇呼哂誤。韭化機存。\n\n王十朋詩。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "紅莧為跛鱉之還丹。方岳詩。琉璃蒸乳壓　膏。未抵齋廚格調高。顏氏家訓詩。參差",
+    "after": "紅莧為跛鱉之還丹。方岳詩。琉璃蒸乳壓㹠膏。未抵齋廚格調高。顏氏家訓詩。參差",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "披雙綴。青綠垂檐。東來風脆。\n\n劉子　詩。美實蠲煩喜及時。杜甫詩。許以秋蒂",
+    "after": "披雙綴。青綠垂檐。東來風脆。\n\n劉子翬詩。美實蠲煩喜及時。杜甫詩。許以秋蒂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。　瓣名齊。絮披虛練。囊貯排犀。花紅　面。酒苦明睇。瓜雌蒂曲。擷高種棲。\n",
+    "after": "。　瓣名齊。絮披虛練。囊貯排犀。花紅靧面。酒苦明睇。瓜雌蒂曲。擷高種棲。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "白。味極苦。今驗四月秀者。野人呼為苦　。\n\n春初取煮和米粉作餅食之。月令所",
+    "after": "白。味極苦。今驗四月秀者。野人呼為苦葽。\n\n春初取煮和米粉作餅食之。月令所",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "煮和米粉作餅食之。月令所書苦菜。即苦　也。穎達所見。別是一物。不可引以解此",
+    "after": "煮和米粉作餅食之。月令所書苦菜。即苦葽也。穎達所見。別是一物。不可引以解此",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "物。不可引以解此。黃正色詩。嫩綠浮羹　讓滑。王惲詩。今朝過喜一嚼快。詩。誰",
+    "after": "物。不可引以解此。黃正色詩。嫩綠浮羹蓴讓滑。王惲詩。今朝過喜一嚼快。詩。誰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "普曰。生山之陽。是丹之雄。唐書傳。蘇　居中制勝。吳志傳。周瑜除殘去穢。葛洪",
+    "after": "普曰。生山之陽。是丹之雄。唐書傳。蘇頲居中制勝。吳志傳。周瑜除殘去穢。葛洪",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "年而結。造化有夫婦之道。故曰雌雄。雷　論。凡修事勿令婦人雞犬及臭穢之地犯之",
+    "after": "年而結。造化有夫婦之道。故曰雌雄。雷斆論。凡修事勿令婦人雞犬及臭穢之地犯之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治皮膚熱。腸胃中結。\n\n胡震亨曰。火　細研醋調。封丹鼎。固密勝於脂膏。蘇軾",
+    "after": "治皮膚熱。腸胃中結。\n\n胡震亨曰。火煅細研醋調。封丹鼎。固密勝於脂膏。蘇軾",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "也。淮南子。磁石懸井。亡人自歸。寇宗　曰。磁石磨鐵鋒。能指南。然常偏丙位。",
+    "after": "也。淮南子。磁石懸井。亡人自歸。寇宗奭曰。磁石磨鐵鋒。能指南。然常偏丙位。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "足。句攣。一名白石。生山谷。\n\n氣結　蒸。山恆陽霽。根駐云叢。鋒銷雪瘞。鑿",
+    "after": "足。句攣。一名白石。生山谷。\n\n氣結熇蒸。山恆陽霽。根駐云叢。鋒銷雪瘞。鑿",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n味辛溫。主傷食不化。邪結氣。惡創疽　痔。利九竅。下乳汁。一名通石。生山谷",
+    "after": "\n味辛溫。主傷食不化。邪結氣。惡創疽瘻痔。利九竅。下乳汁。一名通石。生山谷",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "逆上氣。溫中止血。出汗。逐風濕痹。腸　下利。生者尤良。久服去臭氣。通神明。",
+    "after": "逆上氣。溫中止血。出汗。逐風濕痹。腸澼下利。生者尤良。久服去臭氣。通神明。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。贈甘非意。雪謗神超。\n\n張衡賦。蘇　紫薑。拂徹膻腥。呂氏春秋。和之美者。",
+    "after": "。贈甘非意。雪謗神超。\n\n張衡賦。蘇蔱紫薑。拂徹膻腥。呂氏春秋。和之美者。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "益氣。耳目聰明。\n\n強志輕身。一名胡　。一名地葵。生川穀。\n\n耳食長生。推",
+    "after": "益氣。耳目聰明。\n\n強志輕身。一名胡枲。一名地葵。生川穀。\n\n耳食長生。推",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "絕傷。一名地蔞。生川穀及山陰。\n\n果　兼名。幽根蟠結。粉沁秋霜。花霏瑞雪。",
+    "after": "絕傷。一名地蔞。生川穀及山陰。\n\n果蓏兼名。幽根蟠結。粉沁秋霜。花霏瑞雪。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰。栝蔞即果裸轉音。木上曰果。地下曰　。此物蔓生附木。故得兼名。潔白如雪。",
+    "after": "曰。栝蔞即果裸轉音。木上曰果。地下曰蓏。此物蔓生附木。故得兼名。潔白如雪。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "　名別菜。葉類驕槐。疏風齒固。遏氣腰　。患增偏勝。化變心裁。\n\n蘇頌曰。根",
+    "after": "　名別菜。葉類驕槐。疏風齒固。遏氣腰隤。患增偏勝。化變心裁。\n\n蘇頌曰。根",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "五莖並生。春生冬凋。李時珍曰。與菜苦　同名異物。陶弘景曰。葉極似槐葉。別錄",
+    "after": "五莖並生。春生冬凋。李時珍曰。與菜苦識同名異物。陶弘景曰。葉極似槐葉。別錄",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "者皮薄味甘。皆能通利。蘇頌曰。爾雅活　即通脫水也。李杲曰。通脫木亦有通草之",
+    "after": "者皮薄味甘。皆能通利。蘇頌曰。爾雅活莌即通脫水也。李杲曰。通脫木亦有通草之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "帚擁三堅。叢攢一本。倒薤參差。束蒲苯　。解異寒溫。事權益損。\n\n蘇恭曰。月",
+    "after": "帚擁三堅。叢攢一本。倒薤參差。束蒲苯䔿。解異寒溫。事權益損。\n\n蘇恭曰。月",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "挺出即此。蘇軾詩。荒澀旋鋤墾。爾雅。　馬帚也。何遜七召。擁帚者繼足。李時珍",
+    "after": "挺出即此。蘇軾詩。荒澀旋鋤墾。爾雅。荓馬帚也。何遜七召。擁帚者繼足。李時珍",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "荔似蒲而小。詩。不流束蒲。張衡賦。苯　蓬茸。韓保升曰。性寒。蘇頌曰。大溫有",
+    "after": "荔似蒲而小。詩。不流束蒲。張衡賦。苯䔿蓬茸。韓保升曰。性寒。蘇頌曰。大溫有",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "高節竹萌。垂陰柳弱。腸系鹿蟠。根潛蠶　。渙散氤氳。香馥百濯。\n\n張元素曰。",
+    "after": "高節竹萌。垂陰柳弱。腸系鹿蟠。根潛蠶噣。渙散氤氳。香馥百濯。\n\n張元素曰。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "邪氣。肢體浮腫。下水補不足益氣。一名　母。一名連母。\n\n一名野蓼。一名地參",
+    "after": "邪氣。肢體浮腫。下水補不足益氣。一名蚳母。一名連母。\n\n一名野蓼。一名地參",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n李時珍曰。宿根之旁生子根。如虻　之狀。禮。子產猶眾人之母也。名醫曰。",
+    "after": "。\n\n李時珍曰。宿根之旁生子根。如虻蚳之狀。禮。子產猶眾人之母也。名醫曰。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。大蒜為葫。陶弘景曰。形似聚貝子。雷　論。貝母中有獨顆者名丹龍精。誤服令人",
+    "after": "。大蒜為葫。陶弘景曰。形似聚貝子。雷斆論。貝母中有獨顆者名丹龍精。誤服令人",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "辟　兮。又豈惟紉乎蕙芷。又雜杜衡與芳　。史記傳。屈原其志潔。故其稱物芳。李",
+    "after": "辟　兮。又豈惟紉乎蕙芷。又雜杜衡與芳茝。史記傳。屈原其志潔。故其稱物芳。李",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "名腐腸。生川穀。\n\n修條尾似。黠鼠奔　。黃深北塞。黔雜西原。枯飄利表。堅實",
+    "after": "名腐腸。生川穀。\n\n修條尾似。黠鼠奔㹠。黃深北塞。黔雜西原。枯飄利表。堅實",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n陶弘景曰。一名鼠尾芩。蘇恭曰。一名　尾芩。李時珍曰。子芩新根。今謂之條芩",
+    "after": "\n陶弘景曰。一名鼠尾芩。蘇恭曰。一名㹠尾芩。李時珍曰。子芩新根。今謂之條芩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "須。金茸歧骨。髀膂僨盈。筋骸超越。黃　康強。清秋健鶻。\n\n名醫曰。一名強膂",
+    "after": "須。金茸歧骨。髀膂僨盈。筋骸超越。黃耉康強。清秋健鶻。\n\n名醫曰。一名強膂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吳普曰。葉端圓。青赤。皮白有赤脈。雷　論。凡修事火燎去須。蘇頌曰。根黑色。",
+    "after": "吳普曰。葉端圓。青赤。皮白有赤脈。雷斆論。凡修事火燎去須。蘇頌曰。根黑色。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "石邊。\n\n連叢泉石。陰濕潛涵。堇滑滌　。葚熟咀甘。劣區河北。勝選山南。天雄",
+    "after": "石邊。\n\n連叢泉石。陰濕潛涵。堇滑滌瀡。葚熟咀甘。劣區河北。勝選山南。天雄",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主咳逆上氣。胸中寒熱結氣。去蠱毒。痿　。安五臟。生山谷。\n\n有菀其特。上氣",
+    "after": "主咳逆上氣。胸中寒熱結氣。去蠱毒。痿蹷。安五臟。生山谷。\n\n有菀其特。上氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吞其實立產。一名醋醬。生川澤。\n\n苦　苦　。中貯山櫻。風搖鈴動。珠耀燈明。",
+    "after": "吞其實立產。一名醋醬。生川澤。\n\n苦葴苦　。中貯山櫻。風搖鈴動。珠耀燈明。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "中貯山櫻。風搖鈴動。珠耀燈明。洛神鳴　。王母垂纓。胚胎熱解。如達全生。\n\n",
+    "after": "中貯山櫻。風搖鈴動。珠耀燈明。洛神鳴珮。王母垂纓。胚胎熱解。如達全生。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "洛神珠。一名王母珠。李白詞。素女明珠　。王起賦。解彼珠纓。聖濟總錄。治婦人",
+    "after": "洛神珠。一名王母珠。李白詞。素女明珠珮。王起賦。解彼珠纓。聖濟總錄。治婦人",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疇生五臭。潤澤程功。本儕禾槁。論若芎　。毒披瘴霧。郁散寒風。四肢安暢。泮渙",
+    "after": "疇生五臭。潤澤程功。本儕禾槁。論若芎藭。毒披瘴霧。郁散寒風。四肢安暢。泮渙",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。根上苗下似禾槁。淮南子。論人者若芎　之與槁本也。陳元素曰。太陽經風藥其氣",
+    "after": "。根上苗下似禾槁。淮南子。論人者若芎藭之與槁本也。陳元素曰。太陽經風藥其氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "山谷石上。不聞水聲人聲者良。正韻。潺　水流貌。一曰水流聲。史記傳。項王喑啞",
+    "after": "山谷石上。不聞水聲人聲者良。正韻。潺湲水流貌。一曰水流聲。史記傳。項王喑啞",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "流貌。一曰水流聲。史記傳。項王喑啞叱　。易。通卦驗下如蟠石。論語。\n\n久要",
+    "after": "流貌。一曰水流聲。史記傳。項王喑啞叱吒。易。通卦驗下如蟠石。論語。\n\n久要",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "入水所化。楊云鶴賦。嗟楊花之漠漠。元　詩。池光漫油油。庾肩吾詩。風翻乍青紫",
+    "after": "入水所化。楊云鶴賦。嗟楊花之漠漠。元禛詩。池光漫油油。庾肩吾詩。風翻乍青紫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "池為鴨作茵褥。楊基詩。魚跳翠乍開。常　賦。同乎漂梗之人。南濠詩話引。魏仲先",
+    "after": "池為鴨作茵褥。楊基詩。魚跳翠乍開。常袞賦。同乎漂梗之人。南濠詩話引。魏仲先",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "野。及人家牆垣。詩箋。瓜瓞。瓜小狀似　。故謂之瓞。李時珍曰。\n\n其蔓多須。",
+    "after": "野。及人家牆垣。詩箋。瓜瓞。瓜小狀似瓝。故謂之瓞。李時珍曰。\n\n其蔓多須。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "開小黃花成簇。王勃序。紫電青霜。寇宗　曰。瓜殼徑寸。長二寸許。七八月熟。紅",
+    "after": "開小黃花成簇。王勃序。紫電青霜。寇宗奭曰。瓜殼徑寸。長二寸許。七八月熟。紅",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。南陔葉並。九畹莖方。遺思紉佩。具浴　湯。竊名蓀芷。引類都梁。\n\n嵇康詩。",
+    "after": "。南陔葉並。九畹莖方。遺思紉佩。具浴燂湯。竊名蓀芷。引類都梁。\n\n嵇康詩。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "豫防之。\n\n黃庭堅詩。不戰者善將。雷　論。凡使。勿用黃腥皮皺有丁足者。書。",
+    "after": "豫防之。\n\n黃庭堅詩。不戰者善將。雷斆論。凡使。勿用黃腥皮皺有丁足者。書。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "弘景曰。\n\n積雪草。以寒涼得名。寇宗　曰。形如水荇。葉葉各生。今人謂之連錢",
+    "after": "弘景曰。\n\n積雪草。以寒涼得名。寇宗奭曰。形如水荇。葉葉各生。今人謂之連錢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "浸萌生。摘元方。蚯蚓氣吹者。搗入黃丹　之。李時珍曰。黃蜂作窠。　漆姑草為蒂",
+    "after": "浸萌生。摘元方。蚯蚓氣吹者。搗入黃丹酓之。李時珍曰。黃蜂作窠。　漆姑草為蒂",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "時珍曰。原野甚多。方莖對節。大葉似香　。搓之不香。蘇恭曰。此草生平澤熟田。",
+    "after": "時珍曰。原野甚多。方莖對節。大葉似香葇。搓之不香。蘇恭曰。此草生平澤熟田。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "創。破結聚氣。下瘀血。除濕痹。一名鼠　。生川澤。（今名荊芥）\n\n如蘇久假。",
+    "after": "創。破結聚氣。下瘀血。除濕痹。一名鼠蓂。生川澤。（今名荊芥）\n\n如蘇久假。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "作湯益氣止渴。補虛下氣。汁。\n\n主風　。實。通神明。輕身益氣。\n\n縹節黃苞",
+    "after": "作湯益氣止渴。補虛下氣。汁。\n\n主風痓。實。通神明。輕身益氣。\n\n縹節黃苞",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。朱實山下開。潘岳賦。華實紛敷離騷。　（茱萸別名）\n\n又欲充夫佩幃。易洞林",
+    "after": "。朱實山下開。潘岳賦。華實紛敷離騷。樧（茱萸別名）\n\n又欲充夫佩幃。易洞林",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寒。主五內邪氣。胃中熱氣。面赤酒炮。　鼻白賴。赤癩。創瘍。一名木丹。生川穀",
+    "after": "寒。主五內邪氣。胃中熱氣。面赤酒炮。皶鼻白賴。赤癩。創瘍。一名木丹。生川穀",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "綠。群芳譜。實如訶子。中仁深紅。可染　帛。名醫曰。木戟。生山中。葉如卮子。",
+    "after": "綠。群芳譜。實如訶子。中仁深紅。可染繒帛。名醫曰。木戟。生山中。葉如卮子。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "塘。生川穀。\n\n山榆束莢。心赤維嘉。　鹽香溢。醞醬辛加。臭攻齒。蛀。暖化腹",
+    "after": "塘。生川穀。\n\n山榆束莢。心赤維嘉。擩鹽香溢。醞醬辛加。臭攻齒。蛀。暖化腹",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "身。生川澤。\n\n種枳編籬。鸞棲詎擬。　碧移情。楓紅著美。大小殊功。速詳具理",
+    "after": "身。生川澤。\n\n種枳編籬。鸞棲詎擬。櫾碧移情。楓紅著美。大小殊功。速詳具理",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。枳嫩棲鸞葉。列子。有大木焉。其名為　。樹碧而冬生。渡淮而北化而為枳。王逢",
+    "after": "。枳嫩棲鸞葉。列子。有大木焉。其名為櫾。樹碧而冬生。渡淮而北化而為枳。王逢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "而為枳。王逢詩。楓葉殷紅枳實肥。寇宗　曰。枳實小。則其性酷而速。大則其性詳",
+    "after": "而為枳。王逢詩。楓葉殷紅枳實肥。寇宗奭曰。枳實小。則其性酷而速。大則其性詳",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "小木芩高。溯源秦產。釵股黍苗。羸愈蝸　。兩鬢春新。雙眸月滿。試泛碧流。詳披",
+    "after": "小木芩高。溯源秦產。釵股黍苗。羸愈蝸睆。兩鬢春新。雙眸月滿。試泛碧流。詳披",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "簡。\n\n李時珍曰。木小而岑高。故又名　皮。或云本出秦地。白居易詩。根稀比黍",
+    "after": "簡。\n\n李時珍曰。木小而岑高。故又名梣皮。或云本出秦地。白居易詩。根稀比黍",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "茱萸。性殊治療。梅葉綠稠。杏枝紅鬧。　棘同酸。荊桃襲貌。春氣半含。雀酥同調",
+    "after": "茱萸。性殊治療。梅葉綠稠。杏枝紅鬧。樲棘同酸。荊桃襲貌。春氣半含。雀酥同調",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "桃襲貌。春氣半含。雀酥同調。\n\n寇宗　曰。山茱萸與吳茱萸甚不相類。治療大不",
+    "after": "桃襲貌。春氣半含。雀酥同調。\n\n寇宗奭曰。山茱萸與吳茱萸甚不相類。治療大不",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "利鉤縈。鴇來肅肅。\n\n蠅止營營。景風　至。赤實心誠。\n\n蘇恭曰。白棘根如粉",
+    "after": "利鉤縈。鴇來肅肅。\n\n蠅止營營。景風洊至。赤實心誠。\n\n蘇恭曰。白棘根如粉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "燭。陳束賦。\n\n頻兩瞳之夾鏡。說文。　目精也。明皇雜錄。上所乘有照夜白。白",
+    "after": "燭。陳束賦。\n\n頻兩瞳之夾鏡。說文。眹目精也。明皇雜錄。上所乘有照夜白。白",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。羝性好觸突。故從抵省。南史。江東謂　羊角為皂莢。鮑照詩。不受外嫌猜。益部",
+    "after": "。羝性好觸突。故從抵省。南史。江東謂羖羊角為皂莢。鮑照詩。不受外嫌猜。益部",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "宵瞑。\n\n張說表。效奇靈囿。爾雅疏。　大羊。今出建平宜都諸蠻中。及西域。有",
+    "after": "宵瞑。\n\n張說表。效奇靈囿。爾雅疏。麢大羊。今出建平宜都諸蠻中。及西域。有",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "及西域。有兩角一角者。\n\n角甚多節蹙　圓繞。晉書載記。龍以屈伸為靈。蘇頌曰",
+    "after": "及西域。有兩角一角者。\n\n角甚多節蹙蹷圓繞。晉書載記。龍以屈伸為靈。蘇頌曰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "腹受啄。淮南子。天下之美人。若使之蒙　皮。人莫不睥睨而掩鼻。五代史傳。王彥",
+    "after": "腹受啄。淮南子。天下之美人。若使之蒙蝟皮。人莫不睥睨而掩鼻。五代史傳。王彥",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "門戶。偃月斜縈。抱香分貯。雀卵莫容。　神托輔。\n\n魏志傳。管輅射覆。家室倒",
+    "after": "門戶。偃月斜縈。抱香分貯。雀卵莫容。禝神托輔。\n\n魏志傳。管輅射覆。家室倒",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蘇頌曰。陶隱居言。此是鳥所化。爾雅。　鳥　。李時珍曰。骨名海螵蛸。色白脆。",
+    "after": "蘇頌曰。陶隱居言。此是鳥所化。爾雅。鵅鳥　。李時珍曰。骨名海螵蛸。色白脆。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n味鹹。主小兒驚癇夜啼。去三蟲。滅黑　。令人面色好。男子陰瘍病。生平澤。\n",
+    "after": "\n味鹹。主小兒驚癇夜啼。去三蟲。滅黑皯。令人面色好。男子陰瘍病。生平澤。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "頭馬首者與。左傳。惟余馬首是瞻。趙孟　詩。蛾眉何娟娟。杜甫詩。淡掃蛾眉朝至",
+    "after": "頭馬首者與。左傳。惟余馬首是瞻。趙孟頫詩。蛾眉何娟娟。杜甫詩。淡掃蛾眉朝至",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "疥死肌。生池澤。\n\n肖生十二。五色潛　。橫飛沖岸。鼾睡盤渦。更傳砰磕。雨召",
+    "after": "疥死肌。生池澤。\n\n肖生十二。五色潛鮀。橫飛沖岸。鼾睡盤渦。更傳砰磕。雨召",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "色。補中。輕身。生川穀。行列秋梢。寒　同候時協雞鳴。氣含樗臭。六足鱗差。雙",
+    "after": "色。補中。輕身。生川穀。行列秋梢。寒螿同候時協雞鳴。氣含樗臭。六足鱗差。雙",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "裸背負殼者為蝸牛。無殼者曰蛞蝓。寇宗　曰。蝸牛四角。蛞蝓二角。身肉只一段。",
+    "after": "裸背負殼者為蝸牛。無殼者曰蛞蝓。寇宗奭曰。蝸牛四角。蛞蝓二角。身肉只一段。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。一名魂常生川澤。\n\n蚊為民害。虻亦　愁。嶺南霧集。塞北塵浮。卷從木葉。化",
+    "after": "。一名魂常生川澤。\n\n蚊為民害。虻亦甿愁。嶺南霧集。塞北塵浮。卷從木葉。化",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "溪流。蜩蟬形似。鼓翼鳴秋。\n\n埤雅。　害民。故曰蚊。虻害蚊。故曰虻。陳藏器",
+    "after": "溪流。蜩蟬形似。鼓翼鳴秋。\n\n埤雅。蟁害民。故曰蚊。虻害蚊。故曰虻。陳藏器",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。啖牛馬血。因其腹滿。掩取干之。寇宗　曰。大如蜜蜂。腹凹褊。微黃綠色。李時",
+    "after": "。啖牛馬血。因其腹滿。掩取干之。寇宗奭曰。大如蜜蜂。腹凹褊。微黃綠色。李時",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "甲而有鱗。小兒多捕以負物為戲。埤雅。　逢申日則過街。故名過街。曹植賦。邦換",
+    "after": "甲而有鱗。小兒多捕以負物為戲。埤雅。䗪逢申日則過街。故名過街。曹植賦。邦換",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。有倒飛腹向天者。有腦重頭垂者。寇宗　曰。此善服氣。冬月不食。唐明皇詩。芝",
+    "after": "。有倒飛腹向天者。有腦重頭垂者。寇宗奭曰。此善服氣。冬月不食。唐明皇詩。芝",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。謂孚甲始生。方岳詩。\n\n平明先視玉　磔。一夜怒長堪冰苴。田家五行。煮赤豆",
+    "after": "。謂孚甲始生。方岳詩。\n\n平明先視玉髥磔。一夜怒長堪冰苴。田家五行。煮赤豆",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "白汀洲晚。梅堯臣詩。無香結珠穗。寇宗　日。春初以水浸濕。懸火上使暖。生紅芽",
+    "after": "白汀洲晚。梅堯臣詩。無香結珠穗。寇宗奭日。春初以水浸濕。懸火上使暖。生紅芽",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "莖可作湯。主傷寒寒熱出汗中風面目腫。　。味辛溫。主金創。創敗。輕身不飢耐老",
+    "after": "莖可作湯。主傷寒寒熱出汗中風面目腫。䪥。味辛溫。主金創。創敗。輕身不飢耐老",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "對節。齒錯參差。腦含辛烈。調飪烹雞。　苴名別。\n\n李時珍曰。蘇乃荏類。此草",
+    "after": "對節。齒錯參差。腦含辛烈。調飪烹雞。蒩苴名別。\n\n李時珍曰。蘇乃荏類。此草",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "荀勖曰。此是勞薪所炊。蘇頌曰。又名石　。有二種。風化者。置風中自解。水化者",
+    "after": "荀勖曰。此是勞薪所炊。蘇頌曰。又名石鍜。有二種。風化者。置風中自解。水化者",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n山海經。皋塗之山。有白石焉。其名曰　。李時珍曰。石有蒼白二種。蒼者多特生",
+    "after": "\n山海經。皋塗之山。有白石焉。其名曰礜。李時珍曰。石有蒼白二種。蒼者多特生",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "金也。王好古曰。澀可去脫而固氣。寇宗　曰。鉛丹化鉛而成。禮。良冶之子。\n\n",
+    "after": "金也。王好古曰。澀可去脫而固氣。寇宗奭曰。鉛丹化鉛而成。禮。良冶之子。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "成丹。若轉丹為鉛。\n\n用蔥白汁拌丹。　成金汁。傾出即還鉛矣。日華子曰。鉛丹",
+    "after": "成丹。若轉丹為鉛。\n\n用蔥白汁拌丹。煅成金汁。傾出即還鉛矣。日華子曰。鉛丹",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "辟惡。名醫曰。色如雞冠。有澤者良。崔　曰。代赭陽石也。罨金色益赤。張華。以",
+    "after": "辟惡。名醫曰。色如雞冠。有澤者良。崔昉曰。代赭陽石也。罨金色益赤。張華。以",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三冬。寒灰沉質。火荻輝揚。燃藜煙密。　水漚絲。吹莩縵室。心地澄然。酒杯淋溢",
+    "after": "三冬。寒灰沉質。火荻輝揚。燃藜煙密。涗水漚絲。吹莩縵室。心地澄然。酒杯淋溢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蟄龍三冬臥。鮑照詩。寒灰滅更燃。寇宗　曰。冬灰經三四月方撒爐。其灰力燥體重",
+    "after": "蟄龍三冬臥。鮑照詩。寒灰滅更燃。寇宗奭曰。冬灰經三四月方撒爐。其灰力燥體重",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "珍曰。生於水者。為珊瑚。生於山者為琅　。可碾為珠。故得珠名。陸機賦。水懷珠",
+    "after": "珍曰。生於水者。為珊瑚。生於山者為琅玕。可碾為珠。故得珠名。陸機賦。水懷珠",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣溫中。金創。破症堅積聚血瘕。寒熱痿　。拘攣膝痛。不能行步。生山谷。\n\n附",
+    "after": "氣溫中。金創。破症堅積聚血瘕。寒熱痿躄。拘攣膝痛。不能行步。生山谷。\n\n附",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "淺綠色。似竹葉。論語。不以三隅反。雷　論。用白芥子末。浸湯洗去涎滑。陶弘景",
+    "after": "淺綠色。似竹葉。論語。不以三隅反。雷斆論。用白芥子末。浸湯洗去涎滑。陶弘景",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "牛舌形。蘇恭曰。根紅者。似宿羊蹄。雷　論。凡使細切。以文如水旋斑。緊重者良",
+    "after": "牛舌形。蘇恭曰。根紅者。似宿羊蹄。雷斆論。凡使細切。以文如水旋斑。緊重者良",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "沮澤。則累世不得一焉。蘇恭曰。桔梗薺　葉有差互者。有三四對者。\n\n皆一莖直",
+    "after": "沮澤。則累世不得一焉。蘇恭曰。桔梗薺苨葉有差互者。有三四對者。\n\n皆一莖直",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "柳根細。六月開花如菊。深黃色。爾雅。　盜庚。李時珍曰。庚者金也。\n\n夏開黃",
+    "after": "柳根細。六月開花如菊。深黃色。爾雅。蕧盜庚。李時珍曰。庚者金也。\n\n夏開黃",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "金也。\n\n夏開黃花。盜竊金氣也。寇宗　曰。花圓而覆下。故名旋覆。群芳譜。一",
+    "after": "金也。\n\n夏開黃花。盜竊金氣也。寇宗奭曰。花圓而覆下。故名旋覆。群芳譜。一",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。俗傳露水滴下即生。故名滴滴金。趙孟　詩。妙香清鼻觀。酉陽雜俎。李衛公言。",
+    "after": "。俗傳露水滴下即生。故名滴滴金。趙孟頫詩。妙香清鼻觀。酉陽雜俎。李衛公言。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "射干之名有三。此是草名。佛經。射干貂　是惡獸。能緣木。阮公詩云。射干臨層城",
+    "after": "射干之名有三。此是草名。佛經。射干貂㩆是惡獸。能緣木。阮公詩云。射干臨層城",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "主驚癇。寒熱邪氣。除熱。金創。疽痔鼠　。惡瘡頭瘍。一名蛇銜。生山谷。（合當",
+    "after": "主驚癇。寒熱邪氣。除熱。金創。疽痔鼠瘻。惡瘡頭瘍。一名蛇銜。生山谷。（合當",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "斷之指。直指方。研敷身面惡癬根斷。雷　論。勿用有柏尖葉者。號竟命草。其味澀",
+    "after": "斷之指。直指方。研敷身面惡癬根斷。雷斆論。勿用有柏尖葉者。號竟命草。其味澀",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。以甘遂末塗腹繞臍。服甘草水即消。王　曰。一切腫毒。敷甘遂末。飲甘草汁即愈",
+    "after": "。以甘遂末塗腹繞臍。服甘草水即消。王璆曰。一切腫毒。敷甘遂末。飲甘草汁即愈",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曰。此草多生於胡麻地中。胡麻葉亦名青　。音相近。豈以其相似而然耶。花葉似雞",
+    "after": "曰。此草多生於胡麻地中。胡麻葉亦名青蘘。音相近。豈以其相似而然耶。花葉似雞",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "過雨繁釘。輕虛酥脆。表裡光熒。攻蛔羹　。御虺塵腥。桑菰竹蓐。和美同馨。\n\n",
+    "after": "過雨繁釘。輕虛酥脆。表裡光熒。攻蛔羹臛。御虺塵腥。桑菰竹蓐。和美同馨。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "吐逆。一名邛鉅。\n\n儼森列戟。鋒畏喉　。凝漿中注。直干高充。披綿藏穎。攢紫",
+    "after": "吐逆。一名邛鉅。\n\n儼森列戟。鋒畏喉摏。凝漿中注。直干高充。披綿藏穎。攢紫",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。此為瀉水之藥。濕勝者苦燥除之也。雷　論。凡使勿用附生者。誤服令人泄氣。即",
+    "after": "。此為瀉水之藥。濕勝者苦燥除之也。雷斆論。凡使勿用附生者。誤服令人泄氣。即",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "比類差參。細萌銀莽。密蔭石楠。赤塗霞　。白碎星含。解搜風癇。頓換春酣。\n\n",
+    "after": "比類差參。細萌銀莽。密蔭石楠。赤塗霞暎。白碎星含。解搜風癇。頓換春酣。\n\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "滋益。翹尾摩翎。攢頭伏脊。煮豆療飢。　羹通嗌。\n\n李時珍曰。多生山陰近水處",
+    "after": "滋益。翹尾摩翎。攢頭伏脊。煮豆療飢。嚃羹通嗌。\n\n李時珍曰。多生山陰近水處",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。深紅色。如錦繡然。李時珍曰。紅者山　躅。一名映山紅。與此別類。江總詩。初",
+    "after": "。深紅色。如錦繡然。李時珍曰。紅者山蹢躅。一名映山紅。與此別類。江總詩。初",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蔬。取白根及紫色者。擘破作畦栽之。雷　論。一種赤目苗葉相類。傷筋骨不可服。",
+    "after": "蔬。取白根及紫色者。擘破作畦栽之。雷斆論。一種赤目苗葉相類。傷筋骨不可服。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "氣。破積聚飲食。寒熱。水氣。惡創。鼠　。疽蝕。鬼精。蠱毒。\n\n殺飛蟲走獸。",
+    "after": "氣。破積聚飲食。寒熱。水氣。惡創。鼠瘻。疽蝕。鬼精。蠱毒。\n\n殺飛蟲走獸。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。李時珍曰。女青有二。一是藤生。似蘿　者。一是草生。即蛇含根也。\n\n又有大",
+    "after": "。李時珍曰。女青有二。一是藤生。似蘿藦者。一是草生。即蛇含根也。\n\n又有大",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "記而讓。陶弘景文。可以安身靜臥。寇宗　曰。治馬疥尤善。虞集歌。飛鞍驚塵遍南",
+    "after": "記而讓。陶弘景文。可以安身靜臥。寇宗奭曰。治馬疥尤善。虞集歌。飛鞍驚塵遍南",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "苦平。主蠱毒。女子腰腹痛不樂。腸癰瘰　瘍氣。生山谷。\n\n溷生麥隴。名共葛苗",
+    "after": "苦平。主蠱毒。女子腰腹痛不樂。腸癰瘰癧瘍氣。生山谷。\n\n溷生麥隴。名共葛苗",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "微寒。主驚癇。搖頭弄舌。熱氣在腹中。　疾癰創。陰蝕。下三蟲。去蛇毒。一名蚩",
+    "after": "微寒。主驚癇。搖頭弄舌。熱氣在腹中。瘨疾癰創。陰蝕。下三蟲。去蛇毒。一名蚩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "陰痿。短氣不足。腳腫。生川穀。\n\n蒴　敷華。蕭秋啟候。五葉纏枝。百枚貯豆。",
+    "after": "陰痿。短氣不足。腳腫。生川穀。\n\n蒴藋敷華。蕭秋啟候。五葉纏枝。百枚貯豆。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兮三英。骨風效奏。\n\n蘇恭曰。此即蒴　也。古方惟言。陸英後人不識耳。蘇頌曰",
+    "after": "兮三英。骨風效奏。\n\n蘇恭曰。此即蒴藋也。古方惟言。陸英後人不識耳。蘇頌曰",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "其花時也。李時珍曰。每枝有五葉。寇宗　曰。子初青。如綠豆顆。每朵如盞而大。",
+    "after": "其花時也。李時珍曰。每枝有五葉。寇宗奭曰。子初青。如綠豆顆。每朵如盞而大。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "本似茱萸而小。有針刺。葉堅而滑。寇宗　曰。凡用蜀椒。去裡面黃殼。取紅用。李",
+    "after": "本似茱萸而小。有針刺。葉堅而滑。寇宗奭曰。凡用蜀椒。去裡面黃殼。取紅用。李",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "史傳。凡所資供。一無所受。\n\n農書。　雛食其實。淨住子能生善種。詩。尚求其",
+    "after": "史傳。凡所資供。一無所受。\n\n農書。鵷雛食其實。淨住子能生善種。詩。尚求其",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "喜暖日和風。澆用清水。以性潔故也。雷　論。核仁去皮尖。用生蜜浸一宿。研膏用",
+    "after": "喜暖日和風。澆用清水。以性潔故也。雷斆論。核仁去皮尖。用生蜜浸一宿。研膏用",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "結氣疥搔。殺蟲魚。生山谷。\n\n性工迷　。椒臭堪憎。茁空花實。蔓繞蘿藤。黠藏",
+    "after": "結氣疥搔。殺蟲魚。生山谷。\n\n性工迷菵。椒臭堪憎。茁空花實。蔓繞蘿藤。黠藏",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "茁空花實。蔓繞蘿藤。黠藏鼠磔。毒肆蟲　。攻熏剪氏。蠹物胥懲。\n\n陶弘景曰。",
+    "after": "茁空花實。蔓繞蘿藤。黠藏鼠磔。毒肆蟲殑。攻熏剪氏。蠹物胥懲。\n\n陶弘景曰。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兒百病。生山谷。\n\n苓寓松根。丸藏竹　。擊豈聞雷。添還過雨。疏利宜男。提防",
+    "after": "兒百病。生山谷。\n\n苓寓松根。丸藏竹隖。擊豈聞雷。添還過雨。疏利宜男。提防",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "子。肌膚若冰雪。\n\n鼠李。主寒熱。瘰　創。生田野。\n\n締構烏巢。緣林鼠咽。",
+    "after": "子。肌膚若冰雪。\n\n鼠李。主寒熱。瘰癧創。生田野。\n\n締構烏巢。緣林鼠咽。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "條垂。畸零枝戀。紫蓄漿濃。綠凝染練。　梓名同。北山偏擅。\n\n蘇頌曰。即烏巢",
+    "after": "條垂。畸零枝戀。紫蓄漿濃。綠凝染練。㮴梓名同。北山偏擅。\n\n蘇頌曰。即烏巢",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "即烏巢子也。高啟詩。林驚緣樹鼠。寇宗　曰。子於條上四邊生。生青熟紫。至秋葉",
+    "after": "即烏巢子也。高啟詩。林驚緣樹鼠。寇宗奭曰。子於條上四邊生。生青熟紫。至秋葉",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "十千為群。掘食草根。其處成泥。名曰麋　。埤雅。麋喜音聲。白虎通德論。麋為獸",
+    "after": "十千為群。掘食草根。其處成泥。名曰麋畯。埤雅。麋喜音聲。白虎通德論。麋為獸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。泥浦喧撈蛤。蘇頌曰。多生沙泥中。張　詩。夜蚌侵燈影。埤雅。蚌孚乳以秋。\n",
+    "after": "。泥浦喧撈蛤。蘇頌曰。多生沙泥中。張蠙詩。夜蚌侵燈影。埤雅。蚌孚乳以秋。\n",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "靈蛻。雪電藏形。風雷偃勢。蚓蟻失乘。　蛆殘噬。凡骨登仙。飽餐脫滯。\n\n莊子",
+    "after": "靈蛻。雪電藏形。風雷偃勢。蚓蟻失乘。蝍蛆殘噬。凡骨登仙。飽餐脫滯。\n\n莊子",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蛻乘煙。白居易賦。鱗甲晶以雪色。睛眸　其電光。李紳詩。已應蛻骨風雷後。韓非",
+    "after": "蛻乘煙。白居易賦。鱗甲晶以雪色。睛眸赩其電光。李紳詩。已應蛻骨風雷後。韓非",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蛇與蚓蟻同矣。則失其所乘也。關尹子。　蛆食蛇。陸游詩。凡骨已蛻身自輕。夏侯",
+    "after": "蛇與蚓蟻同矣。則失其所乘也。關尹子。蝍蛆食蛇。陸游詩。凡骨已蛻身自輕。夏侯",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "博物志。蛇虺見之。而蟠伏似施禁法。沈　期詩。截荒虺。鶴林玉露。蜘蛛以溺射之",
+    "after": "博物志。蛇虺見之。而蟠伏似施禁法。沈佺期詩。截荒虺。鶴林玉露。蜘蛛以溺射之",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "\n\n古詩。四時更變化。李時珍曰。一名　蝥。言其毒如矛刺也。春秋繁露。怒氣為",
+    "after": "\n\n古詩。四時更變化。李時珍曰。一名螌蝥。言其毒如矛刺也。春秋繁露。怒氣為",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三起。張志和詞。樂在風波不用仙。寇宗　曰。作絲繭長寸許。以蔽其身。其色如泥",
+    "after": "三起。張志和詞。樂在風波不用仙。寇宗奭曰。作絲繭長寸許。以蔽其身。其色如泥",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。此類多種。以鼻高目深者入藥。莊子。　蜣之智。在於轉丸。陶弘景曰。俗名推丸",
+    "after": "。此類多種。以鼻高目深者入藥。莊子。蛣蜣之智。在於轉丸。陶弘景曰。俗名推丸",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。在於轉丸。陶弘景曰。俗名推丸。寇宗　曰。腹翼有小黃。子附母而飛。晝伏夜出",
+    "after": "。在於轉丸。陶弘景曰。俗名推丸。寇宗奭曰。腹翼有小黃。子附母而飛。晝伏夜出",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "能穴不能藏身。能走不能絕人。山海經。　宵飛而晝伏。爾雅正義。雄者善鳴善飛。",
+    "after": "能穴不能藏身。能走不能絕人。山海經。鶡宵飛而晝伏。爾雅正義。雄者善鳴善飛。",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。惡創白禿。一名百足。生川穀。（即馬　大蜈蚣也）\n\n翠屏搖曳。逃影岩嵌。避",
+    "after": "。惡創白禿。一名百足。生川穀。（即馬蚿大蜈蚣也）\n\n翠屏搖曳。逃影岩嵌。避",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "登蜈蚣背。以涎繞之。其足自落。莊子。　憐蛇。注。以有而羨無也。黃庭堅詩。百",
+    "after": "登蜈蚣背。以涎繞之。其足自落。莊子。蚿憐蛇。注。以有而羨無也。黃庭堅詩。百",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。注。以有而羨無也。黃庭堅詩。百足馬　笑鱉跛。束晰記。雞以蜈蚣為酒。食之即",
+    "after": "。注。以有而羨無也。黃庭堅詩。百足馬蚿笑鱉跛。束晰記。雞以蜈蚣為酒。食之即",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "。\n\n白居易詩。未曾回眼向雞群。寇宗　曰。多足大者三四分。背有橫紋蹙起。詩",
+    "after": "。\n\n白居易詩。未曾回眼向雞群。寇宗奭曰。多足大者三四分。背有橫紋蹙起。詩",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "則黃色。既老則身有粉。視之如銀。寇宗　曰。其形似魚。\n\n尾分二歧。酉陽雜俎",
+    "after": "則黃色。既老則身有粉。視之如銀。寇宗奭曰。其形似魚。\n\n尾分二歧。酉陽雜俎",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "文。木裴然成章。故謂之榧。宋史傳。張　曰。李仁甫如霜松雪柏。蘇恭曰。其木如",
+    "after": "文。木裴然成章。故謂之榧。宋史傳。張栻曰。李仁甫如霜松雪柏。蘇恭曰。其木如",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治寸白蟲日食七枚。七日蟲化為水。劉子　詩。外澤中貞期是似。蘇軾詩。粲為金盤",
+    "after": "治寸白蟲日食七枚。七日蟲化為水。劉子翬詩。外澤中貞期是似。蘇軾詩。粲為金盤",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
+    "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

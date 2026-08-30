@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "宜用軟綿卷□棍子捆兒膝後彎內",
+    "after": "宜用軟綿卷如棍子捆兒膝後彎內",
+    "expected_count": 1,
+    "reason": "동일 조문 공개 영인 OCR 대조 결자 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/SSID-12500011_%E4%BB%99%E6%96%B9%E5%90%88%E9%9B%86%E4%B8%80.pdf",
+    "evidence_note": "用軟縑椀如梗子束兒膝後灣內 계통 확인"
+  }
+]

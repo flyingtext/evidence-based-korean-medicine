@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強𠘧𠘧",
+    "expected_count": 2,
+    "reason": "jicheng 및 《傷寒論》 평행문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+    "evidence_note": "項背強𠘧𠘧"
+  },
+  {
+    "before": "其人即KT　",
+    "after": "其人即𩜺",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+    "evidence_note": "其人即𩜺"
+  },
+  {
+    "before": "身體強KT　KT　然",
+    "after": "身體強𠘧𠘧然",
+    "expected_count": 1,
+    "reason": "jicheng 및 《金匱要略》 평행문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+    "evidence_note": "身體強𠘧𠘧然"
+  },
+  {
+    "before": "此為HT　劑",
+    "after": "此為翛劑",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+    "evidence_note": "此為翛劑"
+  },
+  {
+    "before": "白湯下KT　有人",
+    "after": "白湯下𥭕有人",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+    "evidence_note": "白湯下𥭕有人"
+  }
+]
