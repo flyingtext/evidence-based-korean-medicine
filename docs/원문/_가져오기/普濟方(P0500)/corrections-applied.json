@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "before": "目KTKT　",
+    "after": "目䀮䀮",
+    "expected_count": 1,
+    "evidence": "내경계 정형 안증 표현 目䀮䀮.",
+    "reason": "내경계 정형 안증 표현 目䀮䀮."
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 5,
+    "evidence": "《素問》·《靈樞》 및 의방 평행문의 目䀮䀮.",
+    "reason": "《素問》·《靈樞》 및 의방 평행문의 目䀮䀮."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 8,
+    "evidence": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 정형 구문.",
+    "reason": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 정형 구문."
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮䀮",
+    "expected_count": 1,
+    "evidence": "視物無所見 문맥의 안증어 䀮䀮.",
+    "reason": "視物無所見 문맥의 안증어 䀮䀮."
+  },
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 1,
+    "evidence": "침구·안과 문헌의 정형 주치문 遠視䀮䀮.",
+    "reason": "침구·안과 문헌의 정형 주치문 遠視䀮䀮."
+  },
+  {
+    "before": "眼KT　KT　淚出",
+    "after": "眼䀮䀮淚出",
+    "expected_count": 1,
+    "evidence": "뇌풍의 눈 흐림과 유루 증후를 나타내는 䀮䀮.",
+    "reason": "뇌풍의 눈 흐림과 유루 증후를 나타내는 䀮䀮."
+  },
+  {
+    "before": "腎神名KT　KT　",
+    "after": "腎神名玄冥",
+    "expected_count": 1,
+    "evidence": "도가·의학 장부신명 전승에서 신(腎)의 신명은 玄冥.",
+    "reason": "도가·의학 장부신명 전승에서 신(腎)의 신명은 玄冥."
+  },
+  {
+    "before": "豬KT　",
+    "after": "豬胰",
+    "expected_count": 5,
+    "evidence": "폐기·해수 처방에서 한 구(一具)로 쓰고 지방을 제거하는 동물 약재 豬胰이며 같은 처방명이 반복됨.",
+    "reason": "폐기·해수 처방에서 한 구(一具)로 쓰고 지방을 제거하는 동물 약재 豬胰이며 같은 처방명이 반복됨."
+  },
+  {
+    "before": "羊KT　亦可",
+    "after": "羊胰亦可",
+    "expected_count": 1,
+    "evidence": "앞의 豬胰를 대체할 수 있는 동일 장기 약재 羊胰.",
+    "reason": "앞의 豬胰를 대체할 수 있는 동일 장기 약재 羊胰."
+  },
+  {
+    "before": "HT　HT　（一作伏伏）",
+    "after": "伏伏（一作伏伏）",
+    "expected_count": 1,
+    "evidence": "괄호의 이본 표기가 바로 ‘一作伏伏’이라 본문 결자도 伏伏으로 확정 가능.",
+    "reason": "괄호의 이본 표기가 바로 ‘一作伏伏’이라 본문 결자도 伏伏으로 확정 가능."
+  }
+]

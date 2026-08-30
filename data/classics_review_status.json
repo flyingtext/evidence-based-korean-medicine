@@ -3472,15 +3472,15 @@
     },
     "D/D021.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28193,
+      "unresolved_candidates": 28181,
       "punctuation_status": "source_present",
-      "note": "董宿原撰·方賢編定 1436년 명대 고전. KT31과 전각 공백28162가 외자·도형·결락·조판에 혼재하여 国立公文書館 공개본 전수 판독 전 보류"
+      "note": "신규 규칙은 1·1·1·2·1·1회 고유 일치하고 비중첩이며 KT 12개를 해소. 잔여 후보 28181자리."
     },
     "D/D022.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 13046,
       "punctuation_status": "codex_verified",
-      "note": "丁毅 1554년 명대 고전. Codex 표점 447청크를 비표점 문자 142481자 완전 보존으로 검증 완료. HT4·KT15와 전각 공백13027의 판독·분류가 남아 정본 승격은 보류."
+      "note": "서문 고유명·희귀자와 본문 병명·약재명이 혼재한다. 공개 전사에서 원판 자형을 확정하지 못해 보류했다. 잔여 후보 13046자리."
     },
     "D/D033.txt": {
       "collation_status": "in_progress",
@@ -3676,9 +3676,9 @@
     },
     "H/H007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 16489,
+      "unresolved_candidates": 16485,
       "punctuation_status": "source_present",
-      "note": "王肯堂 1607년 명대 고전. jicheng 전문 접근 오류로 자동 결자 대조를 적용하지 못했으며 전각 공백16463·HT20·KT6이 남아 國立臺灣大學·故宮 공개 원간본 전수 판독 전 보류"
+      "note": "잔존 적용본에서 신규 규칙은 모두 1회 고유 일치하며 HT 3개·KT 1개를 해소. 주문·외자·불명 병후는 보류. 잔여 후보 16485자리."
     },
     "H/H009.txt": {
       "collation_status": "in_progress",
@@ -4036,9 +4036,9 @@
     },
     "O/O052.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 24536,
+      "unresolved_candidates": 24455,
       "punctuation_status": "source_present",
-      "note": "樓英 1565년 명대 고전, 浙江大學 공개 스캔 계통. 전각 공백24356·HT39·KT141은 전수 판독 전 보류. [u]2731쌍은 <ins> 변환"
+      "note": "신규 9규칙은 2·27·2·2·2·1·3·1·2회 고유 일치. 일반 目KT KT 규칙을 먼저 적용해도 나머지 접두 문맥과 겹치지 않으며 HT 3·KT 78개 해소. 잔여 후보 24455자리."
     },
     "O/O041.txt": {
       "collation_status": "in_progress",
@@ -4168,9 +4168,9 @@
     },
     "O/O082.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 14966,
+      "unresolved_candidates": 35043,
       "punctuation_status": "source_present",
-      "note": "확정 correction 1817건 준비; 잔여 14966건. 1556년 명대 고전, 권리 안전. 원자료 표점 충분"
+      "note": "䀮䀮 두 곳과 䐢를 복원했다. 남은 표지는 침구 주치·희귀 해부자·서명·지명 등에 분산되어 보류했다. 잔여 후보 35043자리."
     },
     "O/O073.txt": {
       "collation_status": "in_progress",
@@ -4360,15 +4360,15 @@
     },
     "P/P0300.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 14319,
+      "unresolved_candidates": 28781,
       "punctuation_status": "source_present",
-      "note": "992년 북송 관찬 고전. NCL 烏絲欄鈔本 계통 대조로 결자365곳 복원; 조판 공백14522곳 확인; 공백14213·HT1·KT105 보류"
+      "note": "반복 약재명 蒴藋 30곳을 복원했다. 남은 표지는 다양한 약재·도량형·동작어이므로 일괄 치환하지 않았다. 잔여 후보 28781자리."
     },
     "P/P0301.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 14349,
+      "unresolved_candidates": 28513,
       "punctuation_status": "source_present",
-      "note": "992년 북송 관찬 고전. NCL 烏絲欄鈔本 계통 대조로 결자493곳 복원; 조판 공백14172곳 확인; 공백14272·KT77 보류"
+      "note": "襁 두 곳과 䀮䀮 한 곳을 복원했다. 나머지는 희귀 약재·동물 부위·동작어가 혼재한다. 잔여 후보 28513자리."
     },
     "P/P0400.txt": {
       "collation_status": "in_progress",
@@ -4396,21 +4396,21 @@
     },
     "P/P0500.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 34098,
+      "unresolved_candidates": 34054,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 고전, 四庫·漢リポ 계통으로 권리 안전. 동일 32MB 페이지의 권1~60 경계 대조 미완으로 공백34033·HT2·KT62·□1 전량 보류"
+      "note": "신규 규칙은 1·5·8·1·1·1·1·5·1·1회 고유 일치하고 비중첩. HT 2개·KT 42개 해소. 잔여 후보 34054자리."
     },
     "P/P0501.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 40083,
+      "unresolved_candidates": 40075,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 고전, 권리 안전. 권61 이후 경계 대조 미완으로 공백40061·HT1·KT21 전량 보류"
+      "note": "마크다운 태그 경계를 가로지르는 별도 目視 결자는 변환 단계의 좌표 안정성을 위해 보류함. 잔여 후보 40075자리."
     },
     "P/P0502.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 37530,
+      "unresolved_candidates": 37513,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백37468·KT62 전량 보류"
+      "note": "평행 원전으로 직접 확정되는 䀮䀮 1구절과 几几 4구절만 제안함. 잔여 후보 37513자리."
     },
     "P/P0503.txt": {
       "collation_status": "in_progress",
@@ -4422,13 +4422,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 34168,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백34103·HT1·KT64 전량 보류"
+      "note": "문맥상 후보는 다수 있으나 독립 원문에서 해당 구절을 직접 확정하지 못해 보수적으로 전건 보류함. 잔여 후보 34168자리."
     },
     "P/P0505.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43296,
+      "unresolved_candidates": 43288,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백43269·KT27 전량 보류"
+      "note": "같은 처방 설명 안에서 반복된 시각 혼몽 표현 2건만 䀮䀮로 제안함. 잔여 후보 43288자리."
     },
     "P/P0506.txt": {
       "collation_status": "in_progress",

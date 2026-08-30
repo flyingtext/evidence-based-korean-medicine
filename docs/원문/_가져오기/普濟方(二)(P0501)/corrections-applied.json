@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "視物KT　KT　。耳鳴耳聾",
+    "after": "視物䀮䀮。耳鳴耳聾",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/SK1479/chapter/1lem85xyczz0z",
+    "evidence_note": "독립 공개 《普濟方》에서 ‘治目䀮䀮，視物不明’ 및 다수의 ‘目䀮䀮’ 용례가 확인됨.",
+    "reason": "독립 공개 《普濟方》에서 ‘治目䀮䀮，視物不明’ 및 다수의 ‘目䀮䀮’ 용례가 확인됨."
+  },
+  {
+    "before": "目視KT　KT　，不聞人",
+    "after": "目視䀮䀮，不聞人",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=238913&if=gb",
+    "evidence_note": "《普濟方》 권85의 ‘眼䀮䀮不明’이 같은 시각혼몽 증상의 글자를 직접 뒷받침함.",
+    "reason": "《普濟方》 권85의 ‘眼䀮䀮不明’이 같은 시각혼몽 증상의 글자를 직접 뒷받침함."
+  }
+]

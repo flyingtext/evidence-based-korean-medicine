@@ -14534,5 +14534,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
     "evidence_note": "O/O082.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "虛則目KT　KT　無所見",
+    "after": "虛則目䀮䀮無所見",
+    "expected_count": 2,
+    "reason": "《素問·藏氣法時論》 독립 평행문 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "동일 문장이 肝病者…虛則目䀮䀮無所見으로 수록되며 두 인용 위치가 같은 조문이다."
+  },
+  {
+    "before": "目KT　KT　無見，耳無所聞",
+    "after": "目䀮䀮無見，耳無所聞",
+    "expected_count": 1,
+    "reason": "동일 《內經》 조문의 반복 인용 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "바로 앞 조문의 해설에서 같은 䀮䀮를 반복한다."
+  },
+  {
+    "before": "多食酸，則肉胝KT　而唇揭",
+    "after": "多食酸，則肉胝䐢而唇揭",
+    "expected_count": 1,
+    "reason": "《素問》 오미소상 평행문 대조",
+    "evidence_url": "https://pdf.fengshui86.com/wzpdf/4842377.pdf",
+    "evidence_note": "독립 공개 자료가 동일 구절을 肉胝䐢而唇揭로 제시한다."
   }
 ]

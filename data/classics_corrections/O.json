@@ -77670,6 +77670,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
       "evidence_note": "O/O082.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "虛則目KT　KT　無所見",
+      "after": "虛則目䀮䀮無所見",
+      "expected_count": 2,
+      "reason": "《素問·藏氣法時論》 독립 평행문 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "동일 문장이 肝病者…虛則目䀮䀮無所見으로 수록되며 두 인용 위치가 같은 조문이다."
+    },
+    {
+      "before": "目KT　KT　無見，耳無所聞",
+      "after": "目䀮䀮無見，耳無所聞",
+      "expected_count": 1,
+      "reason": "동일 《內經》 조문의 반복 인용 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "바로 앞 조문의 해설에서 같은 䀮䀮를 반복한다."
+    },
+    {
+      "before": "多食酸，則肉胝KT　而唇揭",
+      "after": "多食酸，則肉胝䐢而唇揭",
+      "expected_count": 1,
+      "reason": "《素問》 오미소상 평행문 대조",
+      "evidence_url": "https://pdf.fengshui86.com/wzpdf/4842377.pdf",
+      "evidence_note": "독립 공개 자료가 동일 구절을 肉胝䐢而唇揭로 제시한다."
     }
   ],
   "O/O073.txt": [
@@ -114214,6 +114238,71 @@
       "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urwko6hcmq",
       "evidence_note": "동일한 의서 문맥에서 원시불명(遠視䀮䀮)의 고정 용례가 확인되며, 䀮䀮는 눈이 어두워 잘 보이지 않는 상태를 뜻한다.",
       "reason": "동일한 의서 문맥에서 원시불명(遠視䀮䀮)의 고정 용례가 확인되며, 䀮䀮는 눈이 어두워 잘 보이지 않는 상태를 뜻한다."
+    }
+  ],
+  "O/O052.txt": [
+    {
+      "before": "目KTKT",
+      "after": "目䀮䀮",
+      "expected_count": 2,
+      "evidence": "《素問》·《靈樞》의 정형 안증 표현 目䀮䀮.",
+      "reason": "《素問》·《靈樞》의 정형 안증 표현 目䀮䀮."
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 27,
+      "evidence": "내경 및 침구 평행문에 반복되는 정형 안증 표현 目䀮䀮.",
+      "reason": "내경 및 침구 평행문에 반복되는 정형 안증 표현 目䀮䀮."
+    },
+    {
+      "before": "目視KT　KT　",
+      "after": "目視䀮䀮",
+      "expected_count": 2,
+      "evidence": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 평행 구문.",
+      "reason": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 평행 구문."
+    },
+    {
+      "before": "視物KT　KT　",
+      "after": "視物䀮䀮",
+      "expected_count": 2,
+      "evidence": "視物無所見과 이어지는 안증어 䀮䀮.",
+      "reason": "視物無所見과 이어지는 안증어 䀮䀮."
+    },
+    {
+      "before": "遠視KT　KT　",
+      "after": "遠視䀮䀮",
+      "expected_count": 2,
+      "evidence": "침구 주치의 정형 구문 遠視䀮䀮.",
+      "reason": "침구 주치의 정형 구문 遠視䀮䀮."
+    },
+    {
+      "before": "目精KT　KT　者死",
+      "after": "目精䀮䀮者死",
+      "expected_count": 1,
+      "evidence": "음양절갈의 사후에서 눈이 흐릿한 상태를 나타내는 䀮䀮.",
+      "reason": "음양절갈의 사후에서 눈이 흐릿한 상태를 나타내는 䀮䀮."
+    },
+    {
+      "before": "目HT　絕系",
+      "after": "目寰絕系",
+      "expected_count": 3,
+      "evidence": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’.",
+      "reason": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’."
+    },
+    {
+      "before": "身體強KT　KT　",
+      "after": "身體強几几",
+      "expected_count": 1,
+      "evidence": "《傷寒論》 계지탕증의 정형 구문 身體強几几然.",
+      "reason": "《傷寒論》 계지탕증의 정형 구문 身體強几几然."
+    },
+    {
+      "before": "項背強KT　KT　",
+      "after": "項背強几几",
+      "expected_count": 2,
+      "evidence": "《傷寒論》 계지가갈근탕·갈근탕 조문의 정문 項背強几几.",
+      "reason": "《傷寒論》 계지가갈근탕·갈근탕 조문의 정문 項背強几几."
     }
   ]
 }

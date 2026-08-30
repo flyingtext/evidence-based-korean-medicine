@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "before": "目KTKT",
+    "after": "目䀮䀮",
+    "expected_count": 2,
+    "evidence": "《素問》·《靈樞》의 정형 안증 표현 目䀮䀮.",
+    "reason": "《素問》·《靈樞》의 정형 안증 표현 目䀮䀮."
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 27,
+    "evidence": "내경 및 침구 평행문에 반복되는 정형 안증 표현 目䀮䀮.",
+    "reason": "내경 및 침구 평행문에 반복되는 정형 안증 표현 目䀮䀮."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 2,
+    "evidence": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 평행 구문.",
+    "reason": "시야 혼암을 뜻하는 䀮䀮가 目視와 결합한 평행 구문."
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮䀮",
+    "expected_count": 2,
+    "evidence": "視物無所見과 이어지는 안증어 䀮䀮.",
+    "reason": "視物無所見과 이어지는 안증어 䀮䀮."
+  },
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 2,
+    "evidence": "침구 주치의 정형 구문 遠視䀮䀮.",
+    "reason": "침구 주치의 정형 구문 遠視䀮䀮."
+  },
+  {
+    "before": "目精KT　KT　者死",
+    "after": "目精䀮䀮者死",
+    "expected_count": 1,
+    "evidence": "음양절갈의 사후에서 눈이 흐릿한 상태를 나타내는 䀮䀮.",
+    "reason": "음양절갈의 사후에서 눈이 흐릿한 상태를 나타내는 䀮䀮."
+  },
+  {
+    "before": "目HT　絕系",
+    "after": "目寰絕系",
+    "expected_count": 3,
+    "evidence": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’.",
+    "reason": "《素問·診要經終論》의 삼양경 종말 정문 ‘目寰絕系’."
+  },
+  {
+    "before": "身體強KT　KT　",
+    "after": "身體強几几",
+    "expected_count": 1,
+    "evidence": "《傷寒論》 계지탕증의 정형 구문 身體強几几然.",
+    "reason": "《傷寒論》 계지탕증의 정형 구문 身體強几几然."
+  },
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強几几",
+    "expected_count": 2,
+    "evidence": "《傷寒論》 계지가갈근탕·갈근탕 조문의 정문 項背強几几.",
+    "reason": "《傷寒論》 계지가갈근탕·갈근탕 조문의 정문 項背強几几."
+  }
+]

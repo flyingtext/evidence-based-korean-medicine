@@ -3335,7 +3335,7 @@
       "output_directory": "奇效良方(D021)",
       "markdown_files": 69,
       "translation_units": 569,
-      "corrections_applied": 0,
+      "corrections_applied": 6,
       "punctuated": false,
       "warnings": []
     },
@@ -6508,7 +6508,7 @@
       "output_directory": "幼科證治準繩(H007)",
       "markdown_files": 10,
       "translation_units": 588,
-      "corrections_applied": 0,
+      "corrections_applied": 4,
       "punctuated": false,
       "warnings": []
     },
@@ -11888,7 +11888,7 @@
       "output_directory": "醫學綱目(O052)",
       "markdown_files": 47,
       "translation_units": 819,
-      "corrections_applied": 0,
+      "corrections_applied": 9,
       "punctuated": false,
       "warnings": []
     },
@@ -12494,7 +12494,7 @@
       "output_directory": "古今醫統大全(O082)",
       "markdown_files": 105,
       "translation_units": 1610,
-      "corrections_applied": 1817,
+      "corrections_applied": 1820,
       "punctuated": false,
       "warnings": []
     },
@@ -13731,7 +13731,7 @@
       "output_directory": "太平聖惠方(上)(P0300)",
       "markdown_files": 51,
       "translation_units": 976,
-      "corrections_applied": 365,
+      "corrections_applied": 366,
       "punctuated": false,
       "warnings": []
     },
@@ -13749,7 +13749,7 @@
       "output_directory": "太平聖惠方(下)(P0301)",
       "markdown_files": 50,
       "translation_units": 1007,
-      "corrections_applied": 493,
+      "corrections_applied": 495,
       "punctuated": false,
       "warnings": []
     },
@@ -13839,7 +13839,7 @@
       "output_directory": "普濟方(P0500)",
       "markdown_files": 60,
       "translation_units": 414,
-      "corrections_applied": 0,
+      "corrections_applied": 10,
       "punctuated": false,
       "warnings": []
     },
@@ -13857,7 +13857,7 @@
       "output_directory": "普濟方(二)(P0501)",
       "markdown_files": 60,
       "translation_units": 275,
-      "corrections_applied": 0,
+      "corrections_applied": 2,
       "punctuated": false,
       "warnings": []
     },
@@ -13875,9 +13875,11 @@
       "output_directory": "普濟方(三)(P0502)",
       "markdown_files": 60,
       "translation_units": 409,
-      "corrections_applied": 0,
+      "corrections_applied": 4,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '目視KT\\u3000KT</ins>' (0/1)"
+      ]
     },
     {
       "source_path": "P/P0503.txt",
@@ -13929,9 +13931,11 @@
       "output_directory": "普濟方(六)(P0505)",
       "markdown_files": 57,
       "translation_units": 336,
-      "corrections_applied": 0,
+      "corrections_applied": 1,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '致目</ins>\\n\\n<ins>KT\\u3000KT\\u3000而無所見' (0/1)"
+      ]
     },
     {
       "source_path": "P/P0506.txt",

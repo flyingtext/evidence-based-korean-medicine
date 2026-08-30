@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "before": "身體強。KT　KT　然脈反沉遲",
+    "after": "身體強。几几然脈反沉遲",
+    "expected_count": 1,
+    "evidence_url": "https://yibian.hopto.org/shu/?sid=5661",
+    "evidence_note": "《金匱要略》의 동일 조문이 ‘身體強，几几然，脈反沉遲’로 확인됨.",
+    "reason": "《金匱要略》의 동일 조문이 ‘身體強，几几然，脈反沉遲’로 확인됨."
+  },
+  {
+    "before": "項背強。KT　KT　然反汗出。惡風",
+    "after": "項背強。几几然反汗出。惡風",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/dic/24001",
+    "evidence_note": "《傷寒論》의 동일 계지加갈근탕 조문이 ‘項背強几几，反汗出惡風’으로 확인됨.",
+    "reason": "《傷寒論》의 동일 계지加갈근탕 조문이 ‘項背強几几，反汗出惡風’으로 확인됨."
+  },
+  {
+    "before": "項強KT　KT　。葛根湯證",
+    "after": "項強几几。葛根湯證",
+    "expected_count": 1,
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002197612",
+    "evidence_note": "갈근탕 조문의 고정 표현 ‘項背強几几’가 원전 연구 자료에서 확인됨.",
+    "reason": "갈근탕 조문의 고정 표현 ‘項背強几几’가 원전 연구 자료에서 확인됨."
+  },
+  {
+    "before": "何謂KTKT。曰也。",
+    "after": "何謂几几。曰也。",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/dic/24001",
+    "evidence_note": "바로 앞 갈근탕 증문의 술어가 ‘几几’임이 동일 원전 조문으로 확인됨. 뒤의 별도 결락은 건드리지 않음.",
+    "reason": "바로 앞 갈근탕 증문의 술어가 ‘几几’임이 동일 원전 조문으로 확인됨. 뒤의 별도 결락은 건드리지 않음."
+  }
+]

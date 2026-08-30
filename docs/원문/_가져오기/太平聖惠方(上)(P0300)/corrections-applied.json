@@ -2918,5 +2918,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E8%81%96%E6%83%A0%E6%96%B9/index.html",
     "evidence_note": "P/P0300.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蒴KT　",
+    "after": "蒴藋",
+    "expected_count": 30,
+    "reason": "동일 권 처방의 반복 약재명과 독립 전사 대조",
+    "evidence_url": "https://cloudtcm.com/shu/t1/85/514",
+    "evidence_note": "《太平聖惠方》 공개 전사가 蒼耳子·羊桃根과 함께 쓰인 동일 약재를 蒴藋으로 수록한다. 30곳 모두 처방명 또는 약재 목록의 같은 항목이다."
   }
 ]

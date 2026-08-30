@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 1,
+    "evidence": "침구·안과 평행문의 정형 안증 표현 遠視䀮䀮.",
+    "reason": "침구·안과 평행문의 정형 안증 표현 遠視䀮䀮."
+  },
+  {
+    "before": "兩目KT　KT　",
+    "after": "兩目䀮䀮",
+    "expected_count": 1,
+    "evidence": "두 눈의 시야 혼암을 뜻하는 䀮䀮.",
+    "reason": "두 눈의 시야 혼암을 뜻하는 䀮䀮."
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮䀮",
+    "expected_count": 1,
+    "evidence": "간신기허로 사물이 흐리게 보이는 증후의 䀮䀮.",
+    "reason": "간신기허로 사물이 흐리게 보이는 증후의 䀮䀮."
+  },
+  {
+    "before": "破KT　脫肉",
+    "after": "破䐃脫肉",
+    "expected_count": 2,
+    "evidence": "《靈樞·本神》의 정문 ‘破䐃脫肉，毛悴色夭’.",
+    "reason": "《靈樞·本神》의 정문 ‘破䐃脫肉，毛悴色夭’."
+  },
+  {
+    "before": "外無KT　赤疼痛",
+    "after": "外無焮赤疼痛",
+    "expected_count": 1,
+    "evidence": "외과에서 붉고 화끈거리는 상태를 뜻하는 정형 증후 焮赤疼痛.",
+    "reason": "외과에서 붉고 화끈거리는 상태를 뜻하는 정형 증후 焮赤疼痛."
+  },
+  {
+    "before": "KT　腫在外",
+    "after": "焮腫在外",
+    "expected_count": 1,
+    "evidence": "외부에 열성 종창이 드러난다는 외과 정형어 焮腫.",
+    "reason": "외부에 열성 종창이 드러난다는 외과 정형어 焮腫."
+  }
+]
