@@ -1,0 +1,20 @@
+{
+  "source_path": "B/B016.txt",
+  "title": "傷寒論注",
+  "source_fullwidth_spaces": 363,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 0,
+  "unresolved": 371,
+  "method": [
+    "jicheng.tw 대응 URL과 공개 전사 검색",
+    "HT·KT·□·PUA·[u] 및 전각 공백 전수 검사",
+    "대응 URL 404로 무근거 자동 복원을 하지 않음"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E6%B3%A8/index.html",
+    "https://www.zysj.com.cn/lilunshuji/shanghanlunzhu/index.html",
+    "https://dl.lib.ntu.edu.tw/s/tutsungming/item/1788211"
+  ],
+  "corrected_body_sha256": "8a6812019bf4003800536345c5f938dd9c665051da265221c93f8eadaa9b0e07",
+  "note": "청대 柯琴 고전이며 표점은 충분하다. jicheng 대응 주소가 404라 전각 공백 363곳과 KT 8곳을 공개 원판으로 직접 판독해야 하므로 보류."
+}
