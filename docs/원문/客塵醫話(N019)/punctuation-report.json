@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%AE%A2%E5%A1%B5%E9%86%AB%E8%A9%B1/index.html",
+    "site": "jicheng.tw",
+    "page_title": "客塵醫話",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:23:09.937068+00:00",
+    "html_sha256": "4c3a4c87f300af696ee91d74b4d7c24b37a0f7d363cc15fecd6164d9b4455747",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/客塵醫話(N019)/표점본.md",
+  "blocks": {
+    "total": 216,
+    "by_tag": {
+      "div": 208,
+      "h1": 4,
+      "h2": 3,
+      "h3": 1
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 13123,
+    "extracted_han_sha256": "78c22a3cf166b382025a3df26b5a38840ccb09faacbf0e7497831730a3f82662",
+    "source_han_characters": 13109,
+    "source_han_sha256": "afd52e935a793ed0f7fa8bd4ffa78d7f7fab6c6c26ba2a284897d3c1cfb4bcca",
+    "han_length_ratio": 1.001068,
+    "han_sequence_quick_ratio": 0.991461,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13137,
+    "output_non_punctuation_characters": 13137,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 22
+  }
+}

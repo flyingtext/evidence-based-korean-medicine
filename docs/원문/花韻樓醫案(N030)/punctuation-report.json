@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E8%8A%B1%E9%9F%BB%E6%A8%93%E9%86%AB%E6%A1%88/index.html",
+    "site": "jicheng.tw",
+    "page_title": "花韻樓醫案",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:23:10.633941+00:00",
+    "html_sha256": "2829b56655cd71fb999c0cb8d7b4ab436d8437df15b4b079f4ee74c69dc01345",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/花韻樓醫案(N030)/표점본.md",
+  "blocks": {
+    "total": 363,
+    "by_tag": {
+      "div": 361,
+      "h1": 2
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 12016,
+    "extracted_han_sha256": "bd84786256a6a4dc1e642136b436fef97baa11c765f696a75052e14984ee01f9",
+    "source_han_characters": 11989,
+    "source_han_sha256": "27d8539598e34d42ce370b6b7b7f3a9efe58ab1eacde2447f3ba62b83058d476",
+    "han_length_ratio": 1.002252,
+    "han_sequence_quick_ratio": 0.983628,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 12246,
+    "output_non_punctuation_characters": 12246,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 72,
+    "insert": 240
+  }
+}

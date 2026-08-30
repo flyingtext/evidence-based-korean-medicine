@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E9%A3%9F%E6%B2%BB/index.html",
+    "site": "jicheng.tw",
+    "page_title": "千金食治",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:23:11.782651+00:00",
+    "html_sha256": "e703cbb24d87a9a13a8a8db5778af89455aa712253ed614c01bf7f07f81ccf30",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/千金食治(C049)/표점본.md",
+  "blocks": {
+    "total": 210,
+    "by_tag": {
+      "div": 204,
+      "h1": 6
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 13143,
+    "extracted_han_sha256": "1a14a93b709b886da2e476f272746ba93c45a3460ee83f0c4f6b15c805136f15",
+    "source_han_characters": 13061,
+    "source_han_sha256": "5bc9f5f424da54bcc369f8a404d88e5921bda1a9c959bc6de3c0cec583e25191",
+    "han_length_ratio": 1.006278,
+    "han_sequence_quick_ratio": 0.987025,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13142,
+    "output_non_punctuation_characters": 13142,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 6
+  }
+}

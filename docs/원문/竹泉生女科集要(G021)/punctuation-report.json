@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E7%AB%B9%E6%B3%89%E7%94%9F%E5%A5%B3%E7%A7%91%E9%9B%86%E8%A6%81/index.html",
+    "site": "jicheng.tw",
+    "page_title": "竹泉生女科集要",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:23:55.332157+00:00",
+    "html_sha256": "ec00c49c764dfb0ae7fd4f4246e63c2f1858c0550ef8f711c35f6838a89b8c71",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/竹泉生女科集要(G021)/표점본.md",
+  "blocks": {
+    "total": 341,
+    "by_tag": {
+      "div": 259,
+      "h1": 7,
+      "h2": 4,
+      "h3": 71
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 14694,
+    "extracted_han_sha256": "8a97b14ed02cc48d362ca10573e6d06b494d35d084e3452c84d73d67046d5b05",
+    "source_han_characters": 14658,
+    "source_han_sha256": "993dd54059c2da6f68f8fc573464a30dabb08d32a5e17456723dc6c64daef981",
+    "han_length_ratio": 1.002456,
+    "han_sequence_quick_ratio": 0.992368,
+    "han_exact_match": false,
+    "punctuation_density": 0.141759
+  },
+  "source_path": "G/G021.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.992365
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 14716,
+    "output_non_punctuation_characters": 14716,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 86,
+    "insert": 36
+  }
+}
