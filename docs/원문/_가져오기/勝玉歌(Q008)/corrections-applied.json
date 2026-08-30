@@ -1,0 +1,146 @@
+[
+  {
+    "before": "勝玉歌兮不虛言，此是楊家真秘傳，或針或灸依法治",
+    "after": "楊氏勝玉歌兮不虛言，此是楊家真秘傳，或針或灸依法語",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 결락·전사 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 勝玉歌 첫 구절: 楊氏勝玉歌兮不虛言…或針或灸依法語"
+  },
+  {
+    "before": "頭痛暈眩百會好",
+    "after": "頭痛眩暈百會好",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 도치 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 頭痛眩暈百會好"
+  },
+  {
+    "before": "後谿鳩尾及神明",
+    "after": "後谿鳩尾及神門",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 혈명 문맥 대조 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 後溪、鳩尾及神門"
+  },
+  {
+    "before": "脾痛要針肩井穴",
+    "after": "髀疼要針肩井穴",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 병증명 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 髀疼要針肩井穴"
+  },
+  {
+    "before": "霍亂心痛吐痰涎",
+    "after": "霍亂心疼吐痰涎",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 운문 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 霍亂心疼吐痰涎"
+  },
+  {
+    "before": "脾痛背病中諸瀉",
+    "after": "脾疼背痛中渚瀉",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 혈명 문맥 대조 복합 전사 오류 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 脾疼背痛中渚瀉; 中渚는 수소양삼초경 혈명"
+  },
+  {
+    "before": "牙顋痛緊大迎全",
+    "after": "牙腮疼緊大迎全",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 전사 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 牙腮疼緊大迎全"
+  },
+  {
+    "before": "尺澤能醫筋拘牽",
+    "after": "尺澤能醫筋拘攣",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 인용 대조 오기 교정",
+    "evidence_url": "https://zh.wikipedia.org/wiki/%E5%B0%BA%E6%BE%A4%E7%A9%B4",
+    "evidence_note": "『勝玉歌』 인용 원구: 尺澤能醫筋拘攣急; 『針灸大成』 본문도 筋拘攣"
+  },
+  {
+    "before": "腹疼閉結支溝穴，頷腫咽喉少商前",
+    "after": "筋疼閉結支溝穴，頷腫喉閉少商前",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 병증 구절 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 筋疼閉結支溝穴，頷腫喉閉少商前"
+  },
+  {
+    "before": "目內紅腫苦皺眉，絲竹攢竹亦可醫",
+    "after": "目內紅痛苦皺眉，絲竹攢竹亦堪醫",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "독립 전재본과 『針灸大成』 본문이 모두 目內紅痛…亦堪醫로 일치"
+  },
+  {
+    "before": "兩手酸痛難執物，曲池合谷並肩顒",
+    "after": "兩手痠疼難執物，曲池合谷共肩髃",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 병증·혈명 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "독립 전재본 원구: 兩手痠疼難執物，曲池合谷共肩髃; 肩髃는 수양명대장경 혈명"
+  },
+  {
+    "before": "臂痛背痛針三里，頭痛頭風灸風池",
+    "after": "臂疼背痛針三里，頭風頭痛灸風池",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 대조 운문 오기 교정",
+    "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+    "evidence_note": "『針灸大成』 원구: 臂疼背痛針三里，頭風頭痛灸風池"
+  },
+  {
+    "before": "臍旁二寸灸天樞",
+    "after": "臍旁兩寸灸天樞",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 수사 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 원구: 臍旁兩寸灸天樞"
+  },
+  {
+    "before": "腰痛中空穴更奇",
+    "after": "腰痛中空穴最奇",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 원구: 腰痛中空穴最奇"
+  },
+  {
+    "before": "瀉卻全針病自除",
+    "after": "瀉卻金針病自除",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 원구: 瀉卻金針病自除"
+  },
+  {
+    "before": "熱瘡膁內年年發",
+    "after": "熱瘡臁內年年發",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 부위명 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 원구: 熱瘡臁內年年發"
+  },
+  {
+    "before": "更有絕骨與丘墟",
+    "after": "更有絕骨共丘墟",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 운문 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 원구: 更有絕骨共丘墟"
+  },
+  {
+    "before": "督脈兩旁腎俞治",
+    "after": "督脈兩旁腎俞除",
+    "expected_count": 1,
+    "reason": "『針灸大成』 본문판 및 독립 전재본 대조 압운 오기 교정",
+    "evidence_url": "https://www.kepub.net/book/52164/10007",
+    "evidence_note": "『勝玉歌』 결구: 督脈兩旁腎俞除"
+  }
+]

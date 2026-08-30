@@ -44,7 +44,8 @@ def main() -> int:
     for source in sorted(review):
         item = review[source]
         book = by_source.get(source, {})
-        title = book.get("metadata", {}).get("書名", source)
+        metadata = book.get("metadata", {})
+        title = metadata.get("書名") or metadata.get("篇名") or source
         directory = book.get("output_directory", "")
         has_punctuation = bool(directory and (STAGING / directory / "punctuation-report.json").is_file())
         punctuation_label = (

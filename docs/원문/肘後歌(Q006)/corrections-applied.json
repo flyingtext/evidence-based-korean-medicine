@@ -1,0 +1,18 @@
+[
+  {
+    "before": "骨寒隨冷火來燒",
+    "after": "骨寒髓冷火來燒",
+    "expected_count": 1,
+    "reason": "『肘後歌』 독립 인용 판본 대조 OCR 동음 오기 교정",
+    "evidence_url": "https://meeting.colife.org.tw/upload/speech_document/20120909222211693_%E4%B8%AD%E5%9C%8B%E9%87%9D%E7%81%B8%E5%AD%B8%E8%AC%9B%E7%BE%A9.pdf",
+    "evidence_note": "침구학 강의의 靈道 조문 인용: 骨寒髓冷火來燒，靈道妙穴分明記"
+  },
+  {
+    "before": "腰腿疼痛十年春，應針不了便惺惺",
+    "after": "腰腿疼痛十年春，應針環跳便惺惺",
+    "expected_count": 1,
+    "reason": "『肘後歌』 독립 학술 인용과 혈위 문맥 대조 깨진 토큰 교정",
+    "evidence_url": "https://www.tcmjc.com/doi/pdf/B208F692A04B45FB9C3252527DA8E56D",
+    "evidence_note": "학술 인용: 腰腿疼痛十年春，應針環跳便惺惺; 環跳는 요퇴통 혈위로 문맥과 일치"
+  }
+]

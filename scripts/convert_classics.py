@@ -38,6 +38,8 @@ INLINE_TAGS = {
     "i": ("*", "*"),
     "u": ("<ins>", "</ins>"),
     "s": ("~~", "~~"),
+    # 짧은 歌訣 자료의 [j]는 본문에 끼워 넣은 이문 주석이다.
+    "j": ("（", "）"),
 }
 
 
@@ -54,7 +56,7 @@ class Book:
 
     @property
     def title(self) -> str:
-        return self.metadata.get("書名", self.source_key)
+        return self.metadata.get("書名") or self.metadata.get("篇名") or self.source_key
 
 
 def read_text(path: Path) -> str:
@@ -65,14 +67,24 @@ def read_text(path: Path) -> str:
 
 def parse_metadata(block: str) -> dict[str, str]:
     result: dict[str, str] = {}
-    for line in block.splitlines():
+    pending_key: str | None = None
+    for raw_line in block.splitlines():
+        line = raw_line.strip()
+        if not line:
+            continue
         if "：" in line:
             key, value = line.split("：", 1)
         elif ":" in line:
             key, value = line.split(":", 1)
         else:
+            if pending_key is not None:
+                result[pending_key] = line
+                pending_key = None
             continue
-        result[key.strip()] = value.strip()
+        key = key.strip()
+        value = value.strip()
+        result[key] = value
+        pending_key = key if not value else None
     return result
 
 
@@ -96,7 +108,7 @@ def load_book(path: Path, source_root: Path) -> Book:
     warnings: list[str] = []
     if not match:
         warnings.append("book 메타데이터 없음")
-    if not metadata.get("書名"):
+    if not (metadata.get("書名") or metadata.get("篇名")):
         warnings.append("서명 없음")
     return Book(path, rel, key, metadata, body.strip(), hashlib.sha256(raw).hexdigest(), warnings)
 
@@ -284,7 +296,9 @@ def convert_part(book: Book, part_index: int, title: str, content: str) -> tuple
                 "source_path": book.relative_source,
                 "text": chunk,
             })
-    return "\n".join(lines).rstrip() + "\n", tasks
+    rendered = "\n".join(lines)
+    rendered = re.sub(r"[ \t]+$", "", rendered, flags=re.MULTILINE)
+    return rendered.rstrip() + "\n", tasks
 
 
 def book_readme(book: Book, outputs: list[tuple[str, str]], has_punctuated: bool = False) -> str:
@@ -299,7 +313,7 @@ def book_readme(book: Book, outputs: list[tuple[str, str]], has_punctuated: bool
         f"- 원본 파일: `{book.relative_source}`",
         f"- SHA-256: `{book.sha256}`",
     ]
-    for key in ("作者", "朝代", "年份", "更新"):
+    for key in ("作者", "朝代", "年份", "出處", "更新"):
         if meta.get(key):
             lines.append(f"- {key}: {meta[key]}")
     if book.corrections:
@@ -433,7 +447,8 @@ def collection_readme(manifest: list[dict]) -> str:
         if group != current_group:
             lines.extend([f"### {group}", ""])
             current_group = group
-        title = item.get("metadata", {}).get("書名") or item["source_key"]
+        metadata = item.get("metadata", {})
+        title = metadata.get("書名") or metadata.get("篇名") or item["source_key"]
         directory = item.get("output_directory")
         if directory:
             lines.append(f"- [{title} ({item['source_key']})]({directory}/README.md)")
