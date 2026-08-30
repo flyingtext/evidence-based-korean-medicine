@@ -3486,5 +3486,77 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%8E%9F%E6%97%A8/index.html",
     "evidence_note": "A/A401.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KT　KT　如無所見",
+    "after": "目䀮䀮如無所見",
+    "expected_count": 2,
+    "reason": "足少陰 맥증의 고정 경문이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
+    "evidence_note": "공개 원판 전사에서 `目䀮䀮如無所見`을 확인했다."
+  },
+  {
+    "before": "目KT　KT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 2,
+    "reason": "같은 경문의 축약 재인용이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
+    "evidence_note": "동일 판면의 `目䀮䀮無所見`과 일치한다."
+  },
+  {
+    "before": "目KTKT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "같은 경문의 태그 간격 오류까지 함께 복원한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
+    "evidence_note": "동일 판면과 일치한다."
+  },
+  {
+    "before": "目HT　絕系",
+    "after": "目睘絕系",
+    "expected_count": 1,
+    "reason": "少陽終 증후의 고정 경문이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "공개 원판에서 `目睘絕系`를 확인했다."
+  },
+  {
+    "before": "目HT　也。HT　者，直視如驚貌",
+    "after": "目睘也。睘者，直視如驚貌",
+    "expected_count": 1,
+    "reason": "직전 경문의 睘을 풀이하는 주석이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "공개 원판의 睘자와 주석 문맥이 일치한다."
+  },
+  {
+    "before": "HT　，音瓊。",
+    "after": "睘，音瓊。",
+    "expected_count": 1,
+    "reason": "직전 睘자의 음주이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "공개 원판과 문맥상 동일 글자이다."
+  },
+  {
+    "before": "禁犯　HT　、熱食、溫炙衣",
+    "after": "禁犯焠㶼、熱食、溫炙衣",
+    "expected_count": 1,
+    "reason": "腎病 금기의 고정 경문이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%B6%BC&if=gb&remap=gb",
+    "evidence_note": "공개 고전 전사에서 `禁犯焠㶼熱食溫炙衣`를 확인했다."
+  },
+  {
+    "before": "（　HT　，燒爆之物也",
+    "after": "（焠㶼，燒爆之物也",
+    "expected_count": 1,
+    "reason": "직전 焠㶼을 풀이하는 주석이다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E3%B6%BC",
+    "evidence_note": "공개 자전 인용의 `禁犯焠㶼`과 일치한다."
+  },
+  {
+    "before": "　，音翠。HT　，音哀。",
+    "after": "焠，音翠。㶼，音哀。",
+    "expected_count": 1,
+    "reason": "직전 두 글자의 음주가 각각 焠와 㶼을 확정한다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E3%B6%BC",
+    "evidence_note": "공개 자전의 고전 인용과 음주 문맥이 일치한다."
   }
 ]

@@ -838,5 +838,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%A4%A7%E7%99%BD/index.html",
     "evidence_note": "B/B023.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "KT　KT　",
+    "after": "几　几",
+    "expected_count": 17,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "傷寒論의 정형 조문 ‘項背強几几’; 동일 문헌 내 17개 반복 occurrence를 일괄 복원.",
+    "reason": "傷寒論의 정형 조문 ‘項背強几几’; 동일 문헌 내 17개 반복 occurrence를 일괄 복원."
   }
 ]

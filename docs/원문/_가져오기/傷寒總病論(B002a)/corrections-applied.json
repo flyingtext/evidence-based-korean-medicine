@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "before": "[c]rck[/c]咀",
+    "after": "㕮咀",
+    "expected_count": 98,
+    "reason": "탕제 약재를 썰어 달이는 고정 용어이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%95%AE&if=gb",
+    "evidence_note": "공개 고전 용례에서 `右伍味，㕮咀，以水柒升`을 확인했다."
+  },
+  {
+    "before": "[c]kmvs[/c]痛囊縮",
+    "after": "㽲痛囊縮",
+    "expected_count": 1,
+    "reason": "少腹이 당기며 아픈 증상을 나타내는 의학용자이다.",
+    "evidence_url": "https://www.zdic.net/hans/%E3%BD%B2",
+    "evidence_note": "자전의 㽲(腹中急痛) 뜻과 문맥이 일치한다."
+  },
+  {
+    "before": "□參[z]原本破損，以藥味次第考之，當是玄參[/z]",
+    "after": "玄參[z]原本破損，以藥味次第考之，當是玄參[/z]",
+    "expected_count": 1,
+    "reason": "원문 자체의 교감주가 결자를 玄으로 확정한다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/NLC416-06jh009206-17184_%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96.pdf",
+    "evidence_note": "공개 영인·부찰기 계통과 원문 교감주의 玄參 판정이 일치한다."
+  }
+]

@@ -622,5 +622,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%B0%E7%81%AB%E9%BB%9E%E9%9B%AA/index.html",
     "evidence_note": "F/F015.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "天門冬搗汁，入HT　酒、紫菀末丸服",
+    "after": "天門冬搗汁，入⿰酉台酒、紫菀末丸服",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%B0%E7%81%AB%E9%BB%9E%E9%9B%AA/index.html",
+    "evidence_note": "공개 전문이 원 외자를 IDS ‘⿰酉台’로 보존함.",
+    "reason": "공개 전문이 원 외자를 IDS ‘⿰酉台’로 보존함."
+  },
+  {
+    "before": "五穀濃盛，則HT　稗自滅矣",
+    "after": "五穀濃盛，則䄺稗自滅矣",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%B0%E7%81%AB%E9%BB%9E%E9%9B%AA/index.html",
+    "evidence_note": "jicheng 공개 전문에 ‘䄺稗自滅矣’로 확인됨.",
+    "reason": "jicheng 공개 전문에 ‘䄺稗自滅矣’로 확인됨."
   }
 ]

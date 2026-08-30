@@ -178,9 +178,9 @@
     },
     "F/F015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 617,
+      "unresolved_candidates": 615,
       "punctuation_status": "source_present",
-      "note": "명대 고전. 결자78곳 교정; 공백615·HT2 판독 전 보류. [u]73쌍→<ins>"
+      "note": "잔존 HT 2곳을 공개 전문의 희자·IDS 표기로 복원."
     },
     "F/F022.txt": {
       "collation_status": "in_progress",
@@ -232,9 +232,9 @@
     },
     "D/D051.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 557,
+      "unresolved_candidates": 543,
       "punctuation_status": "source_present",
-      "note": "청말 고전. 결자57곳 교정; 공백543·KT14 판독 전 보류. [u]1쌍→<ins>"
+      "note": "KT 14자리(7쌍)를 복원했고 전각 공백 543자리가 남는다."
     },
     "D/D052.txt": {
       "collation_status": "in_progress",
@@ -454,9 +454,9 @@
     },
     "B/B002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 588,
+      "unresolved_candidates": 488,
       "punctuation_status": "source_present",
-      "note": "[c]132·[z]435·□21이 전권에 분포. 四庫本·공개 고본으로 외자와 교주 경계를 전수 확정하기 전 보류."
+      "note": "[c] 99자리와 □ 1자리를 복원했다. 다른 [c]·[z]·파손 □는 별계통 판면에서 확정되지 않아 보류한다."
     },
     "B/B008.txt": {
       "collation_status": "complete",
@@ -484,9 +484,9 @@
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 605,
+      "unresolved_candidates": 586,
       "punctuation_status": "source_present",
-      "note": "청대 고전. jicheng 결자 436곳 교정; 공백547·HT17·KT41 판독 전 보류"
+      "note": "KT 10자리, HT 3자리, 전각 결자 3자리를 복원했다. 나머지는 원판면 대조 전 보류한다."
     },
     "A/A205.txt": {
       "collation_status": "complete",
@@ -2994,7 +2994,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 565,
       "punctuation_status": "source_present",
-      "note": "1695년 공개 고전. jicheng 대조로 결자 264곳 복원·판면 공백 530곳 확인. 전각 공백 565곳 판독이 남아 정본 이관 보류"
+      "note": "최신 교정 뒤 전각 공백 565자리가 남고 다른 표지는 없다. 판면 위치 대조 전 보류한다."
     },
     "C/C020.txt": {
       "collation_status": "in_progress",
@@ -3076,9 +3076,9 @@
     },
     "B/B023.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 622,
+      "unresolved_candidates": 588,
       "punctuation_status": "source_present",
-      "note": "1714년 공개 고전. jicheng 대조로 결자 105곳 복원·판면 공백 1063곳 확인. 전각 공백 588·KT 34곳 판독이 남아 정본 이관 보류"
+      "note": "KT 34개(‘KT　KT　’ 17회)를 ‘几　几’로 모두 복원."
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
@@ -3088,9 +3088,9 @@
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 604,
+      "unresolved_candidates": 590,
       "punctuation_status": "source_present",
-      "note": "1100년 공개 고전. jicheng 대조로 결자 75곳 복원·판면 공백 586곳 확인. 전각 공백 540·HT 4·KT 20·□ 40곳 판독이 남아 정본 이관 보류"
+      "note": "KT 10자리, □ 3자리, HT 1자리를 복원했다. 판독 불가능한 파손부와 특수 병명은 보류한다."
     },
     "B/B003.txt": {
       "collation_status": "in_progress",
@@ -3670,9 +3670,9 @@
     },
     "H/H003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 588,
+      "unresolved_candidates": 586,
       "punctuation_status": "source_present",
-      "note": "曾世榮 원대 고전. jicheng 공개 전문으로 결자106곳을 복원했으나 전각 공백586·HT2가 결락·외자·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+      "note": "결자 2자(嗷煎)를 복원했다. 다른 HT 1자리와 전각 공백은 확정 근거 부족으로 보류한다."
     },
     "H/H007.txt": {
       "collation_status": "in_progress",
@@ -3718,9 +3718,9 @@
     },
     "I/I002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 609,
+      "unresolved_candidates": 604,
       "punctuation_status": "source_present",
-      "note": "薛己 원저·薛師顏 정리 1571년 명대 고전. jicheng 공개 전문으로 결자115곳을 복원했으나 전각 공백604·HT3·KT2가 결락·외자·조판에 혼재하여 명대 판면 전수 대조 전 보류"
+      "note": "HT 3곳과 KT 2곳을 공개 독립 전사로 모두 복원."
     },
     "I/I004.txt": {
       "collation_status": "in_progress",
@@ -3994,9 +3994,9 @@
     },
     "O/O008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 609,
+      "unresolved_candidates": 635,
       "punctuation_status": "source_present",
-      "note": "日本·原昌克 1803년 저술, 1854년 재각본 계통. jicheng 공개 전문으로 결자207곳을 복원; 전각 공백604·□5는 판면 전수 판독 전 보류. [u]54쌍은 <ins> 변환"
+      "note": "□ 5자와 HT/KT 8 occurrence를 공개 전사·인용문으로 복원. 잔여 합계 635."
     },
     "O/O009.txt": {
       "collation_status": "in_progress",
@@ -4158,7 +4158,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 557,
       "punctuation_status": "source_present",
-      "note": "확정 correction 65건 준비; 잔여 557건. 청대 고전, 권리 안전. 원자료 표점 충분"
+      "note": "전각 공백과 HT가 혼재한다. 서문의 동사·인명 및 `王KT百一選方`은 유력 후보가 있으나 별계통 영인 근거 없이 확정하지 않았다."
     },
     "O/O080.txt": {
       "collation_status": "in_progress",
@@ -4236,7 +4236,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 548,
       "punctuation_status": "source_present",
-      "note": "周之幹 원저의 1825년 청대 중간 계통. 결자80곳 복원안; 조판481곳 확인; 공백548 보류. [u]229쌍은 <ins> 변환 대상"
+      "note": "최신 교정 뒤 전각 공백 548자리가 남는다. 공개 전사는 동일 계통이거나 판면 좌표가 없어 조판 간격과 결자를 확정 분리하지 않았다."
     },
     "O/O108.txt": {
       "collation_status": "in_progress",

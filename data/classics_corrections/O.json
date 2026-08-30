@@ -21102,6 +21102,86 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html",
       "evidence_note": "O/O008.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "若刺深令人欠而不得KT　",
+      "after": "若刺深令人欠而不得呿",
+      "expected_count": 1,
+      "evidence_url": "https://www.sohu.com/a/669625664_121196977",
+      "evidence_note": "素問 인용문 ‘欠而不得呿’로 확인됨.",
+      "reason": "素問 인용문 ‘欠而不得呿’로 확인됨."
+    },
+    {
+      "before": "HT　。古文動字",
+      "after": "動。古文動字",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html",
+      "evidence_note": "뒤의 자체 설명과 千金翼 인용이 動脈임을 직접 지시함.",
+      "reason": "뒤의 자체 설명과 千金翼 인용이 動脈임을 직접 지시함."
+    },
+    {
+      "before": "HT　俞（千金）一名厥陰俞",
+      "after": "闕俞（千金）一名厥陰俞",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%B6%93%E7%A9%B4%E5%8C%AF%E8%A7%A3",
+      "evidence_note": "공개 전사 목차와 본문에 闕俞로 확인됨.",
+      "reason": "공개 전사 목차와 본문에 闕俞로 확인됨."
+    },
+    {
+      "before": "按脈經曰。在第十六椎HT　其詳",
+      "after": "按脈經曰。在第十六椎闕其詳",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/library/370/455178",
+      "evidence_note": "독립 전사 원문에 ‘第十六椎𨷂其詳’; 통용자 闕로 복원.",
+      "reason": "독립 전사 원문에 ‘第十六椎𨷂其詳’; 통용자 闕로 복원."
+    },
+    {
+      "before": "靈台。入□□。陽關入膽經",
+      "after": "靈台。入督脈。陽關入膽經",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%B6%93%E7%A9%B4%E5%8C%AF%E8%A7%A3",
+      "evidence_note": "靈臺는 督脈 소속이며 문맥의 경맥 귀속 열거와 일치.",
+      "reason": "靈臺는 督脈 소속이며 문맥의 경맥 귀속 열거와 일치."
+    },
+    {
+      "before": "為入□□者。缺訂也",
+      "after": "為入督脈者。缺訂也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%B6%93%E7%A9%B4%E5%8C%AF%E8%A7%A3",
+      "evidence_note": "바로 앞 靈臺의 督脈 귀속을 재지칭하는 문장.",
+      "reason": "바로 앞 靈臺의 督脈 귀속을 재지칭하는 문장."
+    },
+    {
+      "before": "中矩　一名垂矩。在HT　下骨裡曲骨中。此一穴。出□華佗傳也",
+      "after": "中矩　一名垂矩。在頤下骨裡曲骨中。此一穴。出華佗傳也",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/dic/19345",
+      "evidence_note": "醫心方 인용의 독립 전사 ‘在頤下骨里曲骨中……出華佗傳也’에 따라 HT와 불필요한 □를 함께 정리.",
+      "reason": "醫心方 인용의 독립 전사 ‘在頤下骨里曲骨中……出華佗傳也’에 따라 HT와 불필요한 □를 함께 정리."
+    },
+    {
+      "before": "按燥。一本作KT　。誤也",
+      "after": "按燥。一本作濿。誤也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html",
+      "evidence_note": "jicheng 공개 전문에 ‘一本作濿’로 확인됨.",
+      "reason": "jicheng 공개 전문에 ‘一本作濿’로 확인됨."
+    },
+    {
+      "before": "KT　石子頭　還取病患手",
+      "after": "臂石子頭　還取病患手",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html",
+      "evidence_note": "이어지는 千金翼 이문 주석이 표제 첫 글자를 臂로 명시.",
+      "reason": "이어지는 千金翼 이문 주석이 표제 첫 글자를 臂로 명시."
+    },
+    {
+      "before": "按KT　。千金翼。作臂",
+      "after": "按臂。千金翼。作臂",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html",
+      "evidence_note": "자체 이문 주석 ‘千金翼。作臂’에 따라 복원.",
+      "reason": "자체 이문 주석 ‘千金翼。作臂’에 따라 복원."
     }
   ],
   "O/O009.txt": [

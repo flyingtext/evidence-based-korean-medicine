@@ -918,5 +918,45 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%A8%9E%E8%A6%81/index.html",
     "evidence_note": "I/I002.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "膿HT　不利",
+    "after": "膿㨮不利",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/SK1490/chapter/1kg4uwqy11ctg",
+    "evidence_note": "동일 薛己 의안의 독립 전사에 ‘膿㨮不利’로 확인됨.",
+    "reason": "동일 薛己 의안의 독립 전사에 ‘膿㨮不利’로 확인됨."
+  },
+  {
+    "before": "從侄孫年十四而HT　姻",
+    "after": "從侄孫年十四而畢姻",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/SK1490/chapter/1kg4uwqy11ctg",
+    "evidence_note": "독립 전사에 ‘從姪孫年十四而畢姻’으로 확인됨.",
+    "reason": "독립 전사에 ‘從姪孫年十四而畢姻’으로 확인됨."
+  },
+  {
+    "before": "患處開翻六寸許，HT　岩色赤",
+    "after": "患處開翻六寸許，㠁巗色赤",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/240/32",
+    "evidence_note": "공개 전문에 희자어 ‘㠁巗色赤’가 보존됨.",
+    "reason": "공개 전문에 희자어 ‘㠁巗色赤’가 보존됨."
+  },
+  {
+    "before": "正與嚙爪生KT　等生肝膽",
+    "after": "正與嚙爪生疣等生肝膽",
+    "expected_count": 1,
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book277/b277_26.html",
+    "evidence_note": "동일 의안의 독립 전사에 ‘嚙爪、生疣等症’로 확인됨.",
+    "reason": "동일 의안의 독립 전사에 ‘嚙爪、生疣等症’로 확인됨."
+  },
+  {
+    "before": "後手背結一KT　子",
+    "after": "後手背結一疣子",
+    "expected_count": 1,
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book277/b277_26.html",
+    "evidence_note": "동일 의안의 독립 전사에 ‘手背結一疣子’로 확인됨.",
+    "reason": "동일 의안의 독립 전사에 ‘手背結一疣子’로 확인됨."
   }
 ]
