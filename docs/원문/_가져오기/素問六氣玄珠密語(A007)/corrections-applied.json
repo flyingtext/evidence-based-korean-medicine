@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "before": "目視睛KT　KT　物璺",
+    "after": "目視睛䀮䀮物璺",
+    "expected_count": 1,
+    "reason": "내경 계통의 目䀮䀮 고정 문구를 대조",
+    "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "燔KT　",
+    "after": "燔燎",
+    "expected_count": 7,
+    "reason": "《素問》 운기 조문의 火見燔燎 평행문을 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "民間火KT　舍屋",
+    "after": "民間火燒舍屋",
+    "expected_count": 1,
+    "reason": "동일 단락의 天火燒宮殿·天火燒人舍 반복 표현을 대조"
+  },
+  {
+    "before": "獬HT　來騶虞見",
+    "after": "獬豸來騶虞見",
+    "expected_count": 1,
+    "reason": "고전 상서 동물명 獬豸를 공개 고전 자료로 대조",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=320804&if=en"
+  },
+  {
+    "before": "夷狄來HT　入國被屠",
+    "after": "夷狄來侵入國被屠",
+    "expected_count": 1,
+    "reason": "來侵入國의 완결 문맥과 동일 문헌 공개 전사를 대조",
+    "evidence_url": "https://gushu.net.cn/book/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E/index.html"
+  }
+]
