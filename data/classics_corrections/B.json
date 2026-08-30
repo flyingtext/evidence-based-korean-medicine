@@ -1,4 +1,29 @@
 {
+  "B/B021a.txt": [
+    {
+      "before": "[c]rck[/c]",
+      "after": "㕮",
+      "expected_count": 4,
+      "reason": "레거시 외자표와 공개 고판본 영인의 정형 제약 용어를 대조해 복원",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/SSID-13359129_%E5%82%B7%E5%AF%92%E8%AB%96%E8%B2%AB%E7%8F%A0%E9%9B%86_%E5%8D%B71.pdf",
+      "evidence_note": "rck=㕮 외자표 대응과 네 처방의 㕮咀 판독이 공개 영인·독립 전사에서 일치함"
+    },
+    {
+      "before": "[c]eeem[/c]",
+      "after": "疊",
+      "expected_count": 1,
+      "reason": "동일 문장의 독립 공개 전사 2종을 대조해 레거시 외자를 복원",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%B2%AB%E7%8F%A0%E9%9B%86",
+      "evidence_note": "Wikisource와 CText가 모두 吐下復汗，津液疊傷，邪氣陷入으로 전함"
+    },
+    {
+      "before": "[z]論見前[/z]",
+      "after": "（論見前）",
+      "expected_count": 1,
+      "reason": "레거시 주석 태그를 본문 의미를 보존하는 전각 괄호 주석으로 정규화",
+      "evidence_note": "論見前 텍스트는 그대로 보존하고 미지원 z 태그만 제거함"
+    }
+  ],
   "B/B036.txt": [
     {
       "before": "KT　從之",
@@ -10120,7 +10145,6 @@
       "evidence_note": "B/B021.txt: 좌우 한자 각 14자 고유 일치"
     }
   ],
-  "B/B021a.txt": [],
   "B/B026.txt": [
     {
       "before": "其為叔和所增入也。至於第二卷中如痙濕　三證。第七卷前如霍亂一證。亦系仲景原",
