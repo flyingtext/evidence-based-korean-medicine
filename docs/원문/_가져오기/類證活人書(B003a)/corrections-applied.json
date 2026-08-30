@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "before": "錢\n水一中盞棗子二枚同煎至五分溫服桂　白朮湯〔五十〕九治傷寒陰痙手足厥冷勇",
+    "after": "錢\n水一中盞棗子二枚同煎至五分溫服桂心白朮湯〔五十〕九治傷寒陰痙手足厥冷勇",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+    "evidence_note": "B/B003a.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "二七日夏月盛熱分作數劑逐旋浸酒每日空　溫服一盞或半盞日三四服常令酒氣\n醺醺",
+    "after": "二七日夏月盛熱分作數劑逐旋浸酒每日空心溫服一盞或半盞日三四服常令酒氣\n醺醺",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+    "evidence_note": "B/B003a.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "下桔梗半夏湯〔九十九〕治傷寒冷熱不和　腹痞滿時發疼痛順陰陽消痞滿桔梗\n〔一",
+    "after": "下桔梗半夏湯〔九十九〕治傷寒冷熱不和心腹痞滿時發疼痛順陰陽消痞滿桔梗\n〔一",
+    "expected_count": 1,
+    "reason": "온라인 판본 고유 문맥 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+    "evidence_note": "B/B003a.txt: 좌우 한자 각 14자 고유 일치"
+  }
+]

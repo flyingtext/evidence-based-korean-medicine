@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT.parent / "source"
 DEFAULT_OUTPUT = ROOT / "docs" / "원문" / "_가져오기"
 SOURCE_ID_RE = re.compile(r"<!-- source-id: ([^ ]+) -->")
-RAW_TAG_RE = re.compile(r"\[/?(?:book|h[1-6]|b|i|u|s|p|br)(?:=[^\]]*)?\]", re.IGNORECASE)
+RAW_TAG_RE = re.compile(r"\[/?(?:book|h[1-6]|b|i|u|s|p|br|c)(?:=[^\]]*)?\]", re.IGNORECASE)
 
 
 def main() -> int:

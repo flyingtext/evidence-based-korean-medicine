@@ -35,6 +35,7 @@ HEADING_RE = re.compile(
     re.MULTILINE | re.DOTALL | re.IGNORECASE,
 )
 TAG_RE = re.compile(r"\[(/?)([A-Za-z][A-Za-z0-9]*)(?:=[^\]]*)?\]", re.IGNORECASE)
+GAIJI_C_RE = re.compile(r"\[c\]([^\[\]\r\n]+)\[/c\]", re.IGNORECASE)
 INLINE_TAGS = {
     "b": ("**", "**"),
     "i": ("*", "*"),
@@ -185,6 +186,10 @@ def slug(value: str, fallback: str) -> str:
 
 
 def replace_inline_tags(text: str, warnings: list[str]) -> str:
+    # jicheng의 [c]는 표시할 한자 자체가 아니라 외자표를 가리키는 레거시
+    # 코드다. 원시 태그를 그대로 노출하지 않되 나중에 원판과 대조해 실제
+    # 글자로 치환할 수 있도록 코드값은 명시적인 자리표시자로 보존한다.
+    text = GAIJI_C_RE.sub(lambda match: f"〔외자:{match.group(1).strip()}〕", text)
     for name, (opening, closing) in INLINE_TAGS.items():
         text = re.sub(rf"\[{name}\]", opening, text, flags=re.IGNORECASE)
         text = re.sub(rf"\[/{name}\]", closing, text, flags=re.IGNORECASE)

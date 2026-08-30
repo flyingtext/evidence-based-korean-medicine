@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "before": "[c]kvvu[/c]",
+    "after": "癰",
+    "expected_count": 13,
+    "reason": "동일 저작 F/F002 및 jicheng 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96_1/index.html",
+    "evidence_note": "內癰·癰膿 문맥과 대응"
+  },
+  {
+    "before": "[c]itfi[/c]",
+    "after": "䗪",
+    "expected_count": 1,
+    "reason": "동일 저작 F/F002 및 jicheng 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96_1/index.html",
+    "evidence_note": "처방명 大黃䗪蟲丸"
+  },
+  {
+    "before": "[c]iflii[/c]",
+    "after": "䗪",
+    "expected_count": 5,
+    "reason": "동일 저작 F/F002 및 jicheng 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96_1/index.html",
+    "evidence_note": "䗪蟲 및 大黃䗪蟲丸 문맥"
+  },
+  {
+    "before": "[c]hnkss[/c]",
+    "after": "䬅",
+    "expected_count": 2,
+    "reason": "jicheng 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96_1/index.html",
+    "evidence_note": "涼䬅振落·金䬅夕起 확인"
+  },
+  {
+    "before": "[c]tijc[/c]",
+    "after": "朮",
+    "expected_count": 1,
+    "reason": "동일 저작 F/F002 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "evidence_note": "약명 莪朮 확인"
+  },
+  {
+    "before": "[c]ytic[/c]",
+    "after": "朮",
+    "expected_count": 3,
+    "reason": "동일 저작 F/F002 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "evidence_note": "약명 莪朮 확인"
+  },
+  {
+    "before": "[c]mnoiv[/c]",
+    "after": "飧",
+    "expected_count": 1,
+    "reason": "동일 저작 F/F002 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "evidence_note": "不化而飧泄 확인"
+  },
+  {
+    "before": "[c]bhej[/c]",
+    "after": "肝",
+    "expected_count": 1,
+    "reason": "동일 저작 F/F002 공개 전문 대조로 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "evidence_note": "獺肝 확인"
+  },
+  {
+    "before": "膀胱賢中之水陰",
+    "after": "膀胱腎中之水陰",
+    "expected_count": 1,
+    "reason": "동일 저작 F/F002 및 jicheng 공개 전문 대조로 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "evidence_note": "膀胱腎中之水陰 확인"
+  }
+]
