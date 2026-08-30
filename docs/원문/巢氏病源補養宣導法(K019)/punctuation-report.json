@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%B7%A2%E6%B0%8F%E7%97%85%E6%BA%90%E8%A3%9C%E9%A4%8A%E5%AE%A3%E5%B0%8E%E6%B3%95/index.html",
+    "site": "jicheng.tw",
+    "page_title": "巢氏病源補養宣導法",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:49:59.963585+00:00",
+    "html_sha256": "3b55e7b43c7260770d5c48a64f62156d9472c1b7625f2657174f8992e57a50ce",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/巢氏病源補養宣導法(K019)/표점본.md",
+  "blocks": {
+    "total": 570,
+    "by_tag": {
+      "div": 379,
+      "h1": 2,
+      "h2": 53,
+      "h3": 136
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 17874,
+    "extracted_han_sha256": "d7085c1d5552769f6b272608667f723c0100fd5fc154485a60457a17193521ed",
+    "source_han_characters": 17723,
+    "source_han_sha256": "f2571be55a74127003a3c3f33a29de820144bfb2ebb561413866cf5bb45b78c9",
+    "han_length_ratio": 1.00852,
+    "han_sequence_quick_ratio": 0.990533,
+    "han_exact_match": false,
+    "punctuation_density": 0.187591
+  },
+  "source_path": "K/K019.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.991028
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 17856,
+    "output_non_punctuation_characters": 17856,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 100,
+    "insert": 0
+  }
+}

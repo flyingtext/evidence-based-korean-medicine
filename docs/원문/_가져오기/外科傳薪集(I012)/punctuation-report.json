@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%82%B3%E8%96%AA%E9%9B%86/index.html",
+    "site": "jicheng.tw",
+    "page_title": "外科傳薪集",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:49:58.512068+00:00",
+    "html_sha256": "aaf4d16307005e792d2f5d7306492b4a1838565632393ae8c58abd9b54045616",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/外科傳薪集(I012)/표점본.md",
+  "blocks": {
+    "total": 615,
+    "by_tag": {
+      "div": 395,
+      "h1": 220
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 15038,
+    "extracted_han_sha256": "a4ce5f5600a017304deffef03c5ee740004354eafa9dd438c9f29ca7493f25f6",
+    "source_han_characters": 14940,
+    "source_han_sha256": "13715386ecb40d0a9b80d75a5c7812f17c233c8b3a1075dea208ca89483d1bca",
+    "han_length_ratio": 1.00656,
+    "han_sequence_quick_ratio": 0.984589,
+    "han_exact_match": false,
+    "punctuation_density": 0.105533
+  },
+  "source_path": "I/I012.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.985339
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 15030,
+    "output_non_punctuation_characters": 15030,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 72,
+    "insert": 2
+  }
+}

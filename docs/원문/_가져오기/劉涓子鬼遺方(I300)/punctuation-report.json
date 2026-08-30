@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%8A%89%E6%B6%93%E5%AD%90%E9%AC%BC%E9%81%BA%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "劉涓子鬼遺方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:49:59.222677+00:00",
+    "html_sha256": "77f389f043632bd35cbcd11e5860f8f2b83a2c0fd12aaaac9a0e4e433e7f9182",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/劉涓子鬼遺方(I300)/표점본.md",
+  "blocks": {
+    "total": 540,
+    "by_tag": {
+      "div": 531,
+      "h1": 5,
+      "h2": 4
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 16510,
+    "extracted_han_sha256": "f650201ebe156a2fab21bea1f6325e0ee411305eddcbf994da6004f9da0e2b9c",
+    "source_han_characters": 16239,
+    "source_han_sha256": "b41e452488a0657f00c440e8aad07c1ab7972ee5920a28a21f43f54091663ede",
+    "han_length_ratio": 1.016688,
+    "han_sequence_quick_ratio": 0.987084,
+    "han_exact_match": false,
+    "punctuation_density": 0.130353
+  },
+  "source_path": "I/I300.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.987894
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 16800,
+    "output_non_punctuation_characters": 16800,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 79,
+    "insert": 302
+  }
+}

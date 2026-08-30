@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E6%AD%A3%E9%AB%94%E9%A1%9E%E8%A6%81/index.html",
+    "site": "jicheng.tw",
+    "page_title": "正體類要",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:49:57.893556+00:00",
+    "html_sha256": "9ecbaaf891a03a2a923b7a078c96f9002a1cea397c64213ebed0653a54e7080f",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/正體類要(J001)/표점본.md",
+  "blocks": {
+    "total": 472,
+    "by_tag": {
+      "div": 329,
+      "h1": 3,
+      "h2": 5,
+      "h3": 135
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 16985,
+    "extracted_han_sha256": "81ce389e4311c94e8fce160cd32b001093911cf61cef8d4c3bf4274e80e60cc2",
+    "source_han_characters": 16870,
+    "source_han_sha256": "cb064b09b2d49792e058109c4f882d6a9bf7008328729d80dbb7dedbce402403",
+    "han_length_ratio": 1.006817,
+    "han_sequence_quick_ratio": 0.988628,
+    "han_exact_match": false,
+    "punctuation_density": 0.158992
+  },
+  "source_path": "J/J001.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.989238
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 16977,
+    "output_non_punctuation_characters": 16977,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 9,
+    "delete": 65,
+    "insert": 2
+  }
+}
