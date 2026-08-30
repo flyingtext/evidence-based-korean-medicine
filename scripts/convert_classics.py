@@ -23,6 +23,11 @@ DEFAULT_SOURCE = ROOT.parent / "source"
 DEFAULT_OUTPUT = ROOT / "docs" / "원문" / "_가져오기"
 DEFAULT_CORRECTIONS = ROOT / "data" / "classics_corrections.json"
 BOOK_RE = re.compile(r"\[book\](.*?)\[/book\]", re.DOTALL | re.IGNORECASE)
+LEGACY_CATALOG_RE = re.compile(
+    r"\A(?P<metadata>.*?)\s*<目錄>\s*<篇名>(?P<title>[^\n]+)\s*"
+    r"內容[：:]\s*(?P<body>.*?)(?:\s*更新[：:](?P<updated>[^\n]+))?\s*\Z",
+    re.DOTALL | re.IGNORECASE,
+)
 HEADING_RE = re.compile(
     r"^\[h([1-6])\]((?:(?!\[/?h[1-6]\]).)*?)\[/h\1\]\s*$",
     re.MULTILINE | re.DOTALL | re.IGNORECASE,
@@ -77,6 +82,15 @@ def load_book(path: Path, source_root: Path) -> Book:
     match = BOOK_RE.search(text)
     metadata = parse_metadata(match.group(1)) if match else {}
     body = (text[: match.start()] + text[match.end() :]) if match else text
+    # 초기 jicheng 내보내기 중 일부는 [book]을 서지 블록이 아니라 문서 전체를
+    # 감싸고, <目錄>/<篇名>/內容： 표식 뒤에 본문을 둔다. 이 형식을 일반
+    # [book] 메타데이터처럼 제거하면 본문이 통째로 사라지므로 먼저 풀어낸다.
+    legacy = LEGACY_CATALOG_RE.match(match.group(1).strip()) if match else None
+    if legacy:
+        metadata = parse_metadata(legacy.group("metadata"))
+        if legacy.group("updated"):
+            metadata["更新"] = legacy.group("updated").strip()
+        body = f'[h1]{legacy.group("title").strip()}[/h1]\n{legacy.group("body").strip()}'
     rel = path.relative_to(source_root).as_posix()
     key = path.stem
     warnings: list[str] = []

@@ -1,0 +1,55 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/M/M106.txt",
+    "sha256": "2668b84f92401afd76a4f961c900d9925f56f63cd1021358d83a3d8519df808c"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections.json",
+    "sha256": "d9c888dca7c992886c870546e12a724c9d6de0054c629f4e1ae928d7a6667a61",
+    "applied_count": 26
+  },
+  "output": "docs/원문/_가져오기/脈訣(M106)/표점본.md",
+  "chunks": {
+    "total": 2,
+    "resumable_completed": 2,
+    "min_chars": 929,
+    "max_chars": 2501,
+    "target_chars": 2500,
+    "attempts": [
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 2501,
+        "output_characters": 2999,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 500,
+        "punctuation_density": 0.25,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 929,
+        "output_characters": 1115,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 186,
+        "punctuation_density": 0.25,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 2744,
+    "output_nonpunctuation_characters": 2744
+  },
+  "punctuation": {
+    "ascii_count": 686,
+    "density_per_nonpunctuation_character": 0.25,
+    "chinese_punctuation_normalized": true
+  }
+}

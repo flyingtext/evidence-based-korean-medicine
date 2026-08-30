@@ -26,6 +26,10 @@ def signature(text: str) -> str:
     return "".join(char for char in text if significant(char))
 
 
+def punctuation_signature(text: str) -> str:
+    return "".join(char for char in text if unicodedata.category(char).startswith("P"))
+
+
 def split_title(text: str) -> tuple[str, str]:
     match = re.match(r"(\A# [^\n]*\n)", text)
     return (match.group(1), text[match.end() :]) if match else ("", text)
@@ -37,25 +41,38 @@ def sync_body(rendered: str, desired: str) -> tuple[str, dict[str, int]]:
     new = signature(desired)
     matcher = difflib.SequenceMatcher(a=old, b=new, autojunk=False)
     edits: list[tuple[int, int, str]] = []
+    punctuation_before = punctuation_signature(rendered)
     counts = {"replace": 0, "delete": 0, "insert": 0}
     for tag, i1, i2, j1, j2 in matcher.get_opcodes():
         if tag == "equal":
             continue
         replacement = new[j1:j2]
-        start = positions[i1] if i1 < len(positions) else len(rendered)
-        end = positions[i2 - 1] + 1 if i2 > i1 else start
+        old_positions = positions[i1:i2]
         if tag == "insert":
             counts["insert"] += len(replacement)
         elif tag == "delete":
             counts["delete"] += i2 - i1
         else:
             counts["replace"] += max(i2 - i1, len(replacement))
-        # 바뀐 비표점 문자 사이의 옛 표점은 교정 전 문맥에 속하므로 함께 걷어낸다.
-        edits.append((start, end, replacement))
+        common = min(len(old_positions), len(replacement))
+        for offset in range(common):
+            position = old_positions[offset]
+            edits.append((position, position + 1, replacement[offset]))
+        for position in old_positions[common:]:
+            edits.append((position, position + 1, ""))
+        if len(replacement) > common:
+            position = (
+                old_positions[-1] + 1
+                if old_positions
+                else positions[i1] if i1 < len(positions) else len(rendered)
+            )
+            edits.append((position, position, replacement[common:]))
     for start, end, replacement in reversed(edits):
         rendered = rendered[:start] + replacement + rendered[end:]
     if signature(rendered) != new:
         raise RuntimeError("동기화 후 비표점 문자 배열이 교정 원문과 일치하지 않음")
+    if punctuation_signature(rendered) != punctuation_before:
+        raise RuntimeError("동기화 과정에서 기존 표점 순서열이 변경됨")
     return rendered, counts
 
 

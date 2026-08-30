@@ -21,7 +21,10 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
+from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book
 
+
+ROOT = Path(__file__).resolve().parents[1]
 BOOK_RE = re.compile(r"\[book\].*?\[/book\]", re.DOTALL | re.IGNORECASE)
 HEADING_RE = re.compile(
     r"\[h([1-6])\](.*?)\[/h\1\]", re.DOTALL | re.IGNORECASE
@@ -279,7 +282,16 @@ def main() -> int:
     output = args.output.resolve()
     report_path = args.report.resolve()
     checkpoint = (args.checkpoint or output.with_suffix(output.suffix + ".checkpoint.json")).resolve()
-    body, source_sha256 = read_source(source)
+    raw = source.read_bytes()
+    source_sha256 = hashlib.sha256(raw).hexdigest()
+    book = load_book(source, DEFAULT_SOURCE.resolve())
+    corrections_raw = DEFAULT_CORRECTIONS.read_bytes()
+    corrections = json.loads(corrections_raw.decode("utf-8"))
+    apply_corrections(book, corrections)
+    applied_correction_count = len(book.corrections)
+    if book.warnings:
+        raise RuntimeError(f"교정 오버레이 적용 경고 {len(book.warnings)}건: {book.warnings[:3]}")
+    body = book.body
     blocks = parse_blocks(body)
 
     pieces: list[tuple[int, str]] = []
@@ -294,6 +306,8 @@ def main() -> int:
 
     identity = {
         "source_sha256": source_sha256,
+        "corrections_sha256": hashlib.sha256(corrections_raw).hexdigest(),
+        "applied_corrections": applied_correction_count,
         "title": args.title,
         "model": args.model or "codex-default",
         "target_chars": args.target_chars,
@@ -411,6 +425,11 @@ def main() -> int:
         "generator": "codex exec",
         "model": args.model or "codex-default",
         "source": {"path": str(args.source), "sha256": source_sha256},
+        "correction_overlay": {
+            "path": str(DEFAULT_CORRECTIONS.relative_to(ROOT)),
+            "sha256": hashlib.sha256(corrections_raw).hexdigest(),
+            "applied_count": applied_correction_count,
+        },
         "output": str(args.output),
         "chunks": {
             "total": len(pieces),
