@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%AF%9F%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+    "site": "jicheng.tw",
+    "page_title": "察病指南",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:30:23.720779+00:00",
+    "html_sha256": "b160101bddbfb0493ec1614162a0a1ce13b4ce6bbafa6e5c423fe5b109a6419a",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/察病指南(M006)/표점본.md",
+  "blocks": {
+    "total": 509,
+    "by_tag": {
+      "div": 429,
+      "h1": 6,
+      "h2": 49,
+      "h3": 25
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 15133,
+    "extracted_han_sha256": "7e74e8b0a976bca882137f8801ee0879e47ce5b867d0d18215ea9d3eb02b8f84",
+    "source_han_characters": 15103,
+    "source_han_sha256": "af99813cdb31682b95e56c97b8b44e222faa42eda6c8fdbc25ba65c115eb8dfa",
+    "han_length_ratio": 1.001986,
+    "han_sequence_quick_ratio": 0.991004,
+    "han_exact_match": false,
+    "punctuation_density": 0.179938
+  },
+  "source_path": "M/M006.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.991002
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 15187,
+    "output_non_punctuation_characters": 15187,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 62
+  }
+}

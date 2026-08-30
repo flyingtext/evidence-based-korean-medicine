@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%87%8C%E8%87%A8%E9%9D%88%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "凌臨靈方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:30:24.382222+00:00",
+    "html_sha256": "789a8fb55ad37ceb25ed0490d7082e0e0644376421840b2cfc6c29b5ca4f74a1",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/凌臨靈方(N037)/표점본.md",
+  "blocks": {
+    "total": 485,
+    "by_tag": {
+      "div": 364,
+      "h1": 121
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 14852,
+    "extracted_han_sha256": "23fec9ef809083885e106182d11e4896963a79d95c03f32cffc2cef380f90698",
+    "source_han_characters": 14822,
+    "source_han_sha256": "983214cb54c86cf9780a66f603b7285bce1deea0c8b34109b185a80bfe689e15",
+    "han_length_ratio": 1.002024,
+    "han_sequence_quick_ratio": 0.990632,
+    "han_exact_match": false,
+    "punctuation_density": 0.109346
+  },
+  "source_path": "N/N037.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.990562
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 14844,
+    "output_non_punctuation_characters": 14844,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 0
+  }
+}

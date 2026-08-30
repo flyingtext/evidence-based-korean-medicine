@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+    "site": "jicheng.tw",
+    "page_title": "溫病指南",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:30:25.789923+00:00",
+    "html_sha256": "59643e94ba585a38f35b3bd48dfc4933aa861c2fbd452a372724d328a6764b0d",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/溫病指南(E013)/표점본.md",
+  "blocks": {
+    "total": 479,
+    "by_tag": {
+      "div": 465,
+      "h1": 4,
+      "h2": 10
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 14864,
+    "extracted_han_sha256": "1c0220ff3a22dd208ccd711f1eb8a251d27063e48b561e21952a57fb55b2ab3d",
+    "source_han_characters": 14870,
+    "source_han_sha256": "22c56c055c091c559d89e38ffba0d4a84c543f9c7117b728529d0d32e6548e72",
+    "han_length_ratio": 0.999597,
+    "han_sequence_quick_ratio": 0.993206,
+    "han_exact_match": false,
+    "punctuation_density": 0.117667
+  },
+  "source_path": "E/E013.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.993205
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 15136,
+    "output_non_punctuation_characters": 15136,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

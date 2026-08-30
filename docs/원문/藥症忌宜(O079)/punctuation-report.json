@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E8%97%A5%E7%97%87%E5%BF%8C%E5%AE%9C/index.html",
+    "site": "jicheng.tw",
+    "page_title": "藥症忌宜",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:30:25.164313+00:00",
+    "html_sha256": "dc23c49dd5f405242526f8a133d7645fb9b1f88a906235c89d20a66f8e02bc84",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/藥症忌宜(O079)/표점본.md",
+  "blocks": {
+    "total": 821,
+    "by_tag": {
+      "div": 819,
+      "h1": 1,
+      "h2": 1
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 13380,
+    "extracted_han_sha256": "8648e7b591726a6fd3ed193ffc9e8826c529d7bfbb4c97fd70deed19be7b07b9",
+    "source_han_characters": 13320,
+    "source_han_sha256": "ce0197f063aa275dfe67bcf667c1910b773262b9ebe8b9350fb98b0f32f69fb1",
+    "han_length_ratio": 1.004505,
+    "han_sequence_quick_ratio": 0.990637,
+    "han_exact_match": false,
+    "punctuation_density": 0.143946
+  },
+  "source_path": "O/O079.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.990634
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13766,
+    "output_non_punctuation_characters": 13766,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
