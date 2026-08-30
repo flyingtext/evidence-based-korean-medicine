@@ -20384,5 +20384,140 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
       "evidence_note": "K/K101.txt: 좌우 한자 각 14자 고유 일치"
     }
+  ],
+  "K/K200.txt": [
+    {
+      "before": "孫君犢山任參校，HT　君實卿、劉君恕堂司音釋",
+      "after": "孫君犢山任參校，曹君實卿、劉君恕堂司音釋",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=11"
+    },
+    {
+      "before": "適族HT　中有善其術者",
+      "after": "適族䣊中有善其術者",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 희귀자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=13"
+    },
+    {
+      "before": "乃告推拿者，即按摩之異名也。余欣然借抄，意在推展流傳",
+      "after": "乃知推拿者，即按摩之異名也。余欣然借抄，意在推廣流傳",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 오자 교정",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=13"
+    },
+    {
+      "before": "余弗蕕已，因仿蕭翼",
+      "after": "余弗獲已，因仿蕭翼",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 오자 교정",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=13"
+    },
+    {
+      "before": "特出　此書，筱衫亦欣然色喜。為肩剞劂之任，特為之刪其繁蕪，祛其　駁",
+      "after": "特出示此書，筱衫亦欣然色喜。為肩剞劂之任，特為之刪其繁蕪，祛其踳駁",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 연속 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=13"
+    },
+    {
+      "before": "得以起沉　登仁壽者",
+      "after": "得以起沉疴登仁壽者",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=14"
+    },
+    {
+      "before": "是書分句處用HT　，緊要處用連○，醒目處用連　",
+      "after": "是書分句處用○，緊要處用連○，醒目處用連丶",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 판면 기호 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=18"
+    },
+    {
+      "before": "由項下大堆，直推至龜尾",
+      "after": "由項下大椎，直推至龜尾",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 혈위명 오자 교정",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=89"
+    },
+    {
+      "before": "肺俞在第三堆下兩旁",
+      "after": "肺俞在第三椎下兩旁",
+      "expected_count": 1,
+      "reason": "공개 PDF 판面 직접 대조 해부명 오자 교정",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=89"
+    },
+    {
+      "before": "左旋推HT　屬補，右旋推HT　屬泄",
+      "after": "左旋推⊙屬補，右旋推⊙屬瀉",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 회전 도식과 오자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=90"
+    },
+    {
+      "before": "由曲池推至總經",
+      "after": "由曲池推至總筋",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 혈위명 오자 교정",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=90"
+    },
+    {
+      "before": "長強督脈之別絡，脊　骨端",
+      "after": "長強督脈之別絡，脊骶骨端",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=104"
+    },
+    {
+      "before": "治小兒癲癇　瘕",
+      "after": "治小兒癲癇、癥瘕",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=104"
+    },
+    {
+      "before": "四肢不收，　癖積聚，腹痛不嗜食，並治　瘧寒熱黃膽",
+      "after": "四肢不收、痃癖、積聚，腹痛不嗜食，並治痎瘧、寒熱、黃疸",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자와 오자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=104"
+    },
+    {
+      "before": "治中風角弓反張，涎一、灸鬼哭穴",
+      "after": "治中風角弓反張、涎沫時吐。《大成》灸鬼哭穴",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 연속 탈락 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=105"
+    },
+    {
+      "before": "灸後，即是夕腹一、灸肘尖，治瘰　。",
+      "after": "灸後，即是夕腹響為驗。《大成》灸肘尖，治瘰癧。",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 연속 탈락과 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=105"
+    },
+    {
+      "before": "用HT　心一條，量病者口兩角為準",
+      "after": "用稈心一條，量病者口兩角為準",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 결자 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=106"
+    },
+    {
+      "before": "艾炷如粟米一、灸足大指次指中節橫紋當中處",
+      "after": "艾炷如粟米大，四十壯止。《大成》灸足大指次指中節橫紋當中處",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 연속 탈락 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=106"
+    },
+    {
+      "before": "(《針灸大成書不可不讀也。",
+      "after": "(《鍼灸大成》一書不可不讀也。",
+      "expected_count": 1,
+      "reason": "공개 PDF 판면 직접 대조 서명과 탈락 복원",
+      "evidence_url": "https://www.cmdevfund.hk/media/lazpz2ib/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93.pdf#page=106"
+    }
   ]
 }

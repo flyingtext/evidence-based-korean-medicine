@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "before": "或喜臥、噦HT　、噫酸",
+    "after": "或喜臥、噦㕭、噫酸",
+    "expected_count": 1,
+    "reason": "공개 전사의 고유 문맥에서 희귀자 결자를 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%A7%A3%E5%9C%8D%E5%85%83%E8%97%AA/%E5%8D%B7%E4%B8%80",
+    "evidence_note": "血風 조문에서 ‘噦㕭、噫酸’으로 확인"
+  },
+  {
+    "before": "HT　附、輕粉、砒霜切忌不可妄投",
+    "after": "白附、輕粉、砒霜切忌不可妄投",
+    "expected_count": 1,
+    "reason": "독성 약재 병렬 문맥과 공개 자료를 대조해 결자를 복원",
+    "evidence_url": "https://www.cmro.gov.hk/html/b5/useful_information/public_health/pamphlet/General_Knowledge_of_Toxic_Chinese_Herbal_Medicines.html",
+    "evidence_note": "白附·輕粉·砒霜의 독성 약재 병렬"
+  },
+  {
+    "before": "千金草〔(即HT　草九首頭香糙米菊回回草)二兩〕",
+    "after": "千金草〔(即蘭草九首頭香糙米菊回回草)二兩〕",
+    "expected_count": 1,
+    "reason": "蘭草의 별명 千金草와 약물 문맥을 대조해 결자를 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84",
+    "evidence_note": "蘭草의 별명으로 千金草가 확인됨"
+  }
+]
