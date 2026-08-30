@@ -10364,6 +10364,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%82%B7%E5%AF%92/index.html",
       "evidence_note": "B/B015.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "痰飲中人停留關節手腳HT曳口眼　斜半身不遂食已則嘔",
+      "after": "痰飲中人停留關節手腳嚲曳口眼喎斜半身不遂食已則嘔",
+      "expected_count": 1,
+      "reason": "동일 처방의 독립 고전 원문 대조로 병증 결자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%89%E5%9B%A0%E6%A5%B5%E4%B8%80%E7%97%85%E8%AD%89%E6%96%B9%E8%AB%96/index.html",
+      "evidence_note": "三因極一病證方論 參蘇飲의 동일 문장이 '手足嚲曳，口眼喎斜'로 수록됨"
     }
   ],
   "B/B021.txt": [

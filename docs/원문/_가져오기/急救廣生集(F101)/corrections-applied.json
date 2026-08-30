@@ -982,5 +982,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%80%A5%E6%95%91%E5%BB%A3%E7%94%9F%E9%9B%86/index.html",
     "evidence_note": "F/F101.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[u]產後HT　乳成癰[/u]",
+    "after": "[u]產後勒乳成癰[/u]",
+    "expected_count": 1,
+    "reason": "益母草 외용방의 원 출전 병명이다.",
+    "evidence_url": "https://www.pinguji.cn/bookContent/ff3d45ee88d04cb6bfade9eb46d87d0b_921617bd64db43f1aafe0a7658105569.html",
+    "evidence_note": "공개 《本草綱目》 전사에서 `勒乳成癰：益母草為末`을 직접 확인했다."
+  },
+  {
+    "before": "上用平底瓦HT　盛灰，火熨蔥上",
+    "after": "上用平底瓦罐盛灰，火熨蔥上",
+    "expected_count": 1,
+    "reason": "재를 담아 찜질하는 평저 질그릇이다.",
+    "evidence_url": "https://www.zysj.com.cn/zhongyaofang/congbaiyun/index.html",
+    "evidence_note": "독립 처방 전사에서 `平底瓦罐盛灰火熨蔥上`을 직접 확인했다."
+  },
+  {
+    "before": "用銀HT　少許，點之自落",
+    "after": "用銀硃少許，點之自落",
+    "expected_count": 1,
+    "reason": "점을 제거하는 외용 광물 약재 銀硃이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E9%87%91%E7%9F%B3%E4%B9%8B%E4%BA%94",
+    "evidence_note": "공개 본초 전사에서 외용 약재 銀硃를 확인했다."
+  },
+  {
+    "before": "芋（俗名芋HT　）",
+    "after": "芋（俗名芋艿）",
+    "expected_count": 1,
+    "reason": "芋의 통칭 芋艿이다.",
+    "evidence_url": "https://www.shidianguji.com/book/CADAL02093038/chapter/1lazji23jkdgp",
+    "evidence_note": "공개 고전 전사에서 `野芋艿` 항목을 확인했다."
+  },
+  {
+    "before": "患膈HT　翻胃者，愈後食之",
+    "after": "患膈噎翻胃者，愈後食之",
+    "expected_count": 1,
+    "reason": "膈噎·翻胃를 병렬로 든 식금 문장이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7%E4%B8%89%E5%8D%81%E4%BA%8C",
+    "evidence_note": "공개 고전에서 병명 膈噎과 翻胃의 병렬 용례를 확인했다."
+  },
+  {
+    "before": "「HT　」字，即古萬字",
+    "after": "「卍」字，即古萬字",
+    "expected_count": 1,
+    "reason": "문장 자체가 고대 萬자라고 풀이하는 불교 상징 卍이다.",
+    "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=100",
+    "evidence_note": "공개 자전의 卍자와 고대 萬자 설명을 대조했다."
+  },
+  {
+    "before": "HT　字，古佛胸中吉祥之相",
+    "after": "卍字，古佛胸中吉祥之相",
+    "expected_count": 1,
+    "reason": "직전 卍자의 반복 설명이다.",
+    "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=100",
+    "evidence_note": "공개 자전과 문맥이 일치한다."
   }
 ]

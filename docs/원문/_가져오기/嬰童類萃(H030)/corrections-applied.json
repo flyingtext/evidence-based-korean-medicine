@@ -702,5 +702,69 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html",
     "evidence_note": "H/H030.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　勻",
+    "after": "研勻",
+    "expected_count": 4,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "모두 분말 약재 또는 새로 넣은 辰砂·麝香·全蠍을 고르게 가는 제법 문맥.",
+    "reason": "모두 분말 약재 또는 새로 넣은 辰砂·麝香·全蠍을 고르게 가는 제법 문맥."
+  },
+  {
+    "before": "各HT　極細",
+    "after": "各研極細",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "이어지는 每服 이전의 표준 산제 제법 ‘各研極細’.",
+    "reason": "이어지는 每服 이전의 표준 산제 제법 ‘各研極細’."
+  },
+  {
+    "before": "俱HT　極細",
+    "after": "俱研極細",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "朱砂·雄黃의 제분 지시로 ‘俱研極細’가 문법과 제법에 일치.",
+    "reason": "朱砂·雄黃의 제분 지시로 ‘俱研極細’가 문법과 제법에 일치."
+  },
+  {
+    "before": "HT　細和勻",
+    "after": "研細和勻",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "百草霜·巴豆를 넣은 뒤의 표준 제환 공정 ‘研細和勻’.",
+    "reason": "百草霜·巴豆를 넣은 뒤의 표준 제환 공정 ‘研細和勻’."
+  },
+  {
+    "before": "HT　細末，新汲水調塗",
+    "after": "研細末，新汲水調塗",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "분말을 물에 개어 바르는 외용 제법의 고정 동사 研.",
+    "reason": "분말을 물에 개어 바르는 외용 제법의 고정 동사 研."
+  },
+  {
+    "before": "HT　細，綠豆粉打糊為丸",
+    "after": "研細，綠豆粉打糊為丸",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "분말 뒤 풀로 환을 만드는 표준 제법 ‘研細’.",
+    "reason": "분말 뒤 풀로 환을 만드는 표준 제법 ‘研細’."
+  },
+  {
+    "before": "肺痿肺HT　，一切勞症",
+    "after": "肺痿肺癰，一切勞症",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=77633&if=gb",
+    "evidence_note": "의서의 고정 병명 병렬은 肺痿·肺癰이며 공개 고전도 ‘肺癰肺痿’를 함께 열거.",
+    "reason": "의서의 고정 병명 병렬은 肺痿·肺癰이며 공개 고전도 ‘肺癰肺痿’를 함께 열거."
+  },
+  {
+    "before": "一切HT疽疔毒",
+    "after": "一切癰疽疔毒",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
+    "evidence_note": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’.",
+    "reason": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’."
   }
 ]

@@ -2574,5 +2574,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
     "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "寒熱瘰　，目視KT　KT　，　瘧。",
+    "after": "寒熱瘰癧，目視䀮䀮，痎瘧。",
+    "expected_count": 1,
+    "reason": "공개 원문 五里穴 주치 조문의 고유 문맥 대조로 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "공개 판본 五里 조문에 '寒熱瘰癧，目視䀮䀮，痎瘧'으로 수록됨"
+  },
+  {
+    "before": "主治冷淚出，瞳子癢，遠視KT　KT　，昏夜無見，口眼　斜。",
+    "after": "主治冷淚出，瞳子癢，遠視䀮䀮，昏夜無見，口眼喎斜。",
+    "expected_count": 1,
+    "reason": "공개 원문 承泣穴 주치 조문의 고유 문맥 대조로 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+    "evidence_note": "공개 판본 承泣 조문에 '遠視䀮䀮，昏夜無見，口眼喎斜'로 수록됨"
   }
 ]

@@ -118,9 +118,9 @@
     },
     "I/I011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1373,
+      "unresolved_candidates": 1372,
       "punctuation_status": "source_present",
-      "note": "명대 고전. 결자231곳 교정; 공백1360·HT10·□3 판독 전 보류"
+      "note": "HT 1자리를 복원했다. 희귀 골명·부위명과 다른 HT·□·공백은 원판 자형 확정 전 보류한다. 잔여 후보 1372자리."
     },
     "I/I018.txt": {
       "collation_status": "in_progress",
@@ -148,9 +148,9 @@
     },
     "H/H030.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1567,
+      "unresolved_candidates": 1556,
       "punctuation_status": "source_present",
-      "note": "고전 소아과 의서. 결자88곳 교정; 공백1553·HT14 판독 전 보류. [u]628쌍→<ins>"
+      "note": "제약 공정의 반복 동사와 고정 병명으로 HT 11자를 복원. 잔여 후보 1556자리."
     },
     "G/G039a.txt": {
       "collation_status": "complete",
@@ -190,9 +190,9 @@
     },
     "F/F101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1381,
+      "unresolved_candidates": 1374,
       "punctuation_status": "source_present",
-      "note": "1805년 청대 고전. 결자123곳 교정; 공백1354·HT20·KT7 판독 전 보류. [u]1349쌍→<ins>"
+      "note": "HT 7자리를 복원했다. 부적 3자·희귀 병명 등 나머지 HT·KT와 공백은 보류한다. 잔여 후보 1374자리."
     },
     "G/G001.txt": {
       "collation_status": "in_progress",
@@ -238,9 +238,9 @@
     },
     "D/D052.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1355,
+      "unresolved_candidates": 1354,
       "punctuation_status": "source_present",
-      "note": "1920년 공개 간본 계통. 결자119곳 교정; 공백1353·HT2 판독 전 보류. [u]4쌍→<ins>"
+      "note": "HT 1자리를 복원했다. 다른 痧名 HT와 전각 공백은 판본 대조 전 보류한다. 잔여 후보 1354자리."
     },
     "D/D053.txt": {
       "collation_status": "in_progress",
@@ -250,9 +250,9 @@
     },
     "D/D023.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1437,
+      "unresolved_candidates": 1435,
       "punctuation_status": "source_present",
-      "note": "1584년 명대 고전. 결자159곳 교정; 공백1435·KT2 판독 전 보류. [u]1쌍→<ins>"
+      "note": "고정 고사와 독립 본초 용례로 KT 2자를 모두 복원. 잔여 후보 1435자리."
     },
     "D/D024.txt": {
       "collation_status": "in_progress",
@@ -370,9 +370,9 @@
     },
     "B/B015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1312,
+      "unresolved_candidates": 3989,
       "punctuation_status": "alignment_approved",
-      "note": "명대 고전. 결자304곳 교정; 공백1271·HT1·KT40 판독 전 보류. 원자료 무표점, jicheng 정렬0.9448 승인"
+      "note": "최신 교정 뒤 3991자리 중 HT 1·결자 공백 1자리를 복원했다. 전각 공백 3949·KT 40자리 등 총 3989자리가 남아 승격하지 않는다. 잔여 후보 3989자리."
     },
     "B/B021.txt": {
       "collation_status": "in_progress",
@@ -424,9 +424,9 @@
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1319,
+      "unresolved_candidates": 2208,
       "punctuation_status": "source_present",
-      "note": "명대 고전. jicheng 결자322곳 교정; 공백1271·HT6·KT42 판독 전 보류. [u]70쌍 보존"
+      "note": "최신 교정 뒤 2219자리 중 고유 혈위 조문 두 곳의 KT 4·결자 공백 7자리를 복원했다. 나머지 2208자리는 판면·이체자 대조가 더 필요하다. 잔여 후보 2208자리."
     },
     "B/B003a.txt": {
       "collation_status": "complete",
@@ -3148,9 +3148,9 @@
     },
     "A/A003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1540,
+      "unresolved_candidates": 1502,
       "punctuation_status": "source_present",
-      "note": "청대 고전으로 권리 문제 없음. jicheng 원문 URL이 404여서 전각 공백 1449곳과 HT 20·KT 47·□ 14·BMP 표식 10곳을 독립 판본으로 대조해야 하므로 정본 이관 보류"
+      "note": "자체 음의·주해와 《素問》《靈樞》 대응문으로 총 38개 표지를 복원. 잔여 후보 1502자리."
     },
     "K/K021.txt": {
       "collation_status": "complete",
@@ -3562,9 +3562,9 @@
     },
     "D/D057.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1343,
+      "unresolved_candidates": 2585,
       "punctuation_status": "source_present",
-      "note": "王璆 1196년 남송 고전의 1799년 일본 교정간본 계통. jicheng 공개 전문으로 결자136곳을 복원했으나 전각 공백1325·KT18이 결락·조판에 혼재하여 書格 공개 영인 전수 판독 전 보류"
+      "note": "최신 교정 뒤 2587자리 중 KT 1·결자 공백 1자리를 복원했다. 전각 공백 2568·KT 17자리 등 총 2585자리가 남아 승격하지 않는다. 잔여 후보 2585자리."
     },
     "D/D059.txt": {
       "collation_status": "in_progress",
@@ -3846,7 +3846,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1359,
       "punctuation_status": "source_present",
-      "note": "顧錫 1809년 청대 고전. 공개 전문 대조로 결자75곳을 복원; 전각 공백1359곳은 판면 전수 대조 전 보류"
+      "note": "명시적 HT·KT·□ 표지는 없지만 전각 공백 1359자리가 남는다. 공개 판면에서 조판 공백과 결자를 안전하게 분리하지 못해 신규 제안 없음. 잔여 후보 1359자리."
     },
     "M/M100.txt": {
       "collation_status": "in_progress",
@@ -4186,9 +4186,9 @@
     },
     "O/O076.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1412,
+      "unresolved_candidates": 1411,
       "punctuation_status": "source_present",
-      "note": "丹波元胤 1831년 일본 에도시대 고전. 1936년 영인본·早稲田 공개 스캔 계통. 결자738곳 복원안; 조판1782곳 확인; 공백991·HT72·KT25·□324 보류"
+      "note": "인용된 원서 자서와 대조해 僭 1자를 복원. 잔여 후보 1411자리."
     },
     "O/O084.txt": {
       "collation_status": "in_progress",
@@ -4318,9 +4318,9 @@
     },
     "P/P0101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1317,
+      "unresolved_candidates": 4022,
       "punctuation_status": "codex_verified",
-      "note": "王肯堂 1604년 전후 명대 고전. Codex 표점 236청크를 비표점 문자 완전 보존으로 검증 완료. 결자 304곳 복원·조판 공백 2707곳 확인 후 남은 후보 1317곳의 교감은 계속 진행."
+      "note": "최신 교정 뒤 4024자리 중 HT 1·결자 공백 1자리를 복원했다. 전각 공백 3982·KT 40자리 등 총 4022자리가 남아 승격하지 않는다. 잔여 후보 4022자리."
     },
     "P/P0102.txt": {
       "collation_status": "in_progress",

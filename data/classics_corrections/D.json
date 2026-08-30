@@ -17592,6 +17592,22 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E8%80%83/index.html",
       "evidence_note": "D/D023.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "炎帝教民耒KT　，為養生也",
+      "after": "炎帝教民耒耜，為養生也",
+      "expected_count": 1,
+      "evidence_url": "https://www.dpm.org.cn/ancient/yuanmingqing/157413.html",
+      "evidence_note": "神農 고사의 고정 문구는 ‘造耒耜教民耕作’이며 耒와 병렬되는 농구명은 耜.",
+      "reason": "神農 고사의 고정 문구는 ‘造耒耜教民耕作’이며 耒와 병렬되는 농구명은 耜."
+    },
+    {
+      "before": "傷於粽KT　者宜用之",
+      "after": "傷於粽子者宜用之",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html",
+      "evidence_note": "曲으로 糯米를 발효한다는 앞 문장과, 공개 본초의 ‘傷粽子成積，用曲末’ 용례가 정확히 대응.",
+      "reason": "曲으로 糯米를 발효한다는 앞 문장과, 공개 본초의 ‘傷粽子成積，用曲末’ 용례가 정확히 대응."
     }
   ],
   "D/D025.txt": [
@@ -31966,6 +31982,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%8F%AF%E4%BD%97%E7%A5%9E%E6%96%B9/index.html",
       "evidence_note": "D/D052.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "當屈頸HT　息，須發盡白",
+      "after": "當屈頸鷮息，須發盡白",
+      "expected_count": 1,
+      "reason": "後漢書의 壽光 전기에 보이는 희귀 고정어이다.",
+      "evidence_url": "https://big5.quanben5.io/n/houhanshu/92.html",
+      "evidence_note": "공개 《後漢書》 전사에서 `常屈頸鷮息，須發盡白`을 직접 확인했다. 현 전사의 當은 그대로 보존한다."
     }
   ],
   "D/D026.txt": [
@@ -39151,6 +39175,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%98%AF%E9%BD%8B%E7%99%BE%E4%B8%80%E9%81%B8%E6%96%B9/index.html",
       "evidence_note": "D/D057.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "西外知宗趙士KT　賓老傳。",
+      "after": "西外知宗趙士𡨚賓老傳。",
+      "expected_count": 1,
+      "reason": "별도 공개 전사의 고유 인명 문맥 대조로 결자 복원",
+      "evidence_url": "https://cloudtcm.com/shu/t1/137/99",
+      "evidence_note": "별도 공개 전사 治耳聾 항목에 '西外知宗趙士𡨚賓老傳'으로 수록됨"
     }
   ],
   "D/D059.txt": [

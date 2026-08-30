@@ -29965,6 +29965,22 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
       "evidence_note": "A/A403.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "寒熱瘰　，目視KT　KT　，　瘧。",
+      "after": "寒熱瘰癧，目視䀮䀮，痎瘧。",
+      "expected_count": 1,
+      "reason": "공개 원문 五里穴 주치 조문의 고유 문맥 대조로 결자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+      "evidence_note": "공개 판본 五里 조문에 '寒熱瘰癧，目視䀮䀮，痎瘧'으로 수록됨"
+    },
+    {
+      "before": "主治冷淚出，瞳子癢，遠視KT　KT　，昏夜無見，口眼　斜。",
+      "after": "主治冷淚出，瞳子癢，遠視䀮䀮，昏夜無見，口眼喎斜。",
+      "expected_count": 1,
+      "reason": "공개 원문 承泣穴 주치 조문의 고유 문맥 대조로 결자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+      "evidence_note": "공개 판본 承泣 조문에 '遠視䀮䀮，昏夜無見，口眼喎斜'로 수록됨"
     }
   ],
   "A/A402.txt": [
@@ -38727,6 +38743,80 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E6%B0%A3%E7%A9%B4%E8%AB%96",
       "evidence_note": "집주의 정의문 ‘谿穀者，皮膚之分肉’.",
       "reason": "집주의 정의문 ‘谿穀者，皮膚之分肉’."
+    }
+  ],
+  "A/A003.txt": [
+    {
+      "before": "陰陽HT　HT　。",
+      "after": "陰陽沖沖。",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問》陰陽離合論의 ‘陰陽沖沖，積傳為一周’.",
+      "reason": "《素問》陰陽離合論의 ‘陰陽沖沖，積傳為一周’."
+    },
+    {
+      "before": "（HT　HT　、氣之往來也",
+      "after": "（沖沖、氣之往來也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "바로 앞 본문의 沖沖을 풀이하는 자체 주해.",
+      "reason": "바로 앞 본문의 沖沖을 풀이하는 자체 주해."
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 10,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "音荒·눈이 어두움이라는 자체 음의와 일치하는 희자 䀮의 반복.",
+      "reason": "音荒·눈이 어두움이라는 자체 음의와 일치하는 희자 䀮의 반복."
+    },
+    {
+      "before": "目KT　KT欲僵仆",
+      "after": "目䀮䀮欲僵仆",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "刺腰痛論의 정형 원문 ‘目䀮䀮欲僵仆’.",
+      "reason": "刺腰痛論의 정형 원문 ‘目䀮䀮欲僵仆’."
+    },
+    {
+      "before": "KT　KT　者。眼目不明",
+      "after": "䀮䀮者。眼目不明",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "주해가 해당 두 글자를 ‘眼目不明’으로 직접 풀이하여 䀮䀮로 확정.",
+      "reason": "주해가 해당 두 글자를 ‘眼目不明’으로 직접 풀이하여 䀮䀮로 확정."
+    },
+    {
+      "before": "KT　音荒",
+      "after": "䀮音荒",
+      "expected_count": 2,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "䀮의 음이 荒임을 명시한 자체 음의.",
+      "reason": "䀮의 음이 荒임을 명시한 자체 음의."
+    },
+    {
+      "before": "中KT　兩旁各五",
+      "after": "中膂兩旁各五",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%B4%E7%86%B1%E7%A9%B4%E8%AB%96",
+      "evidence_note": "水熱穴論 원문과 자체 주해 ‘膂同’으로 확정.",
+      "reason": "水熱穴論 원문과 자체 주해 ‘膂同’으로 확정."
+    },
+    {
+      "before": "（KT膂同",
+      "after": "（膂膂同",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%B4%E7%86%B1%E7%A9%B4%E8%AB%96",
+      "evidence_note": "앞의 中膂에 대한 이체·동자 주석.",
+      "reason": "앞의 中膂에 대한 이체·동자 주석."
+    },
+    {
+      "before": "背KT　筋",
+      "after": "背膂筋",
+      "expected_count": 6,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%97%85%E5%82%B3",
+      "evidence_note": "病傳 계열의 고정 문구 ‘背膂筋痛’이며 같은 단락 주해도 膂膀胱이라 명시.",
+      "reason": "病傳 계열의 고정 문구 ‘背膂筋痛’이며 같은 단락 주해도 膂膀胱이라 명시."
     }
   ]
 }

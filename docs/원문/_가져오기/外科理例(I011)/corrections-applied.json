@@ -1846,5 +1846,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%90%86%E4%BE%8B/index.html",
     "evidence_note": "I/I011.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "一兒眉HT　多啼。嘔吐清沫",
+    "after": "一兒眉皺多啼。嘔吐清沫",
+    "expected_count": 1,
+    "reason": "蛔疳의 고정 증후인 皺眉多啼이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%90%86%E4%BE%8B/index.html",
+    "evidence_note": "동일 문헌 공개 전사에서 `一兒眉皺多啼`를 직접 확인했다."
   }
 ]

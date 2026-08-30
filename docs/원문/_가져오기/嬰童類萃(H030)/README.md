@@ -7,7 +7,7 @@
 - 원본 파일: `H/H030.txt`
 - SHA-256: `7ee2f96df4c582c1c00e461d0d687fb1f6e6c8579c1e3d89da883fdb8844e42c`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 88건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 96건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차

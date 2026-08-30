@@ -93253,6 +93253,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%AD%E5%9C%8B%E9%86%AB%E7%B1%8D%E8%80%83/index.html",
       "evidence_note": "O/O076.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "辨釋條達。HT　名曰內經要旨",
+      "after": "辨釋條達。僭名曰內經要旨",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8",
+      "evidence_note": "《古今醫統大全》에 수록된 徐春甫 자서의 동일 문장이 ‘辨釋條達，僭名曰內經要旨’로 확인됨.",
+      "reason": "《古今醫統大全》에 수록된 徐春甫 자서의 동일 문장이 ‘辨釋條達，僭名曰內經要旨’로 확인됨."
     }
   ],
   "O/O084.txt": [
