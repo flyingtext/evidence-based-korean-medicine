@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%96%B9%E5%82%99%E8%A6%81%E6%96%B9%E8%AB%96/index.html",
+    "site": "jicheng.tw",
+    "page_title": "麻疹備要方論",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:24:00.162679+00:00",
+    "html_sha256": "4db3990fb1a4aca6c33f98495c95ca31987446e442c3642271d3fd9fa6b63853",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/麻疹備要方論(I203)/표점본.md",
+  "blocks": {
+    "total": 362,
+    "by_tag": {
+      "div": 327,
+      "h1": 11,
+      "h2": 24
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 10761,
+    "extracted_han_sha256": "8e75bb5cf0f1f6eeaefd5d40f73cf2b1b9e7cc4d7b997f079bb0e2b0d86b192e",
+    "source_han_characters": 10768,
+    "source_han_sha256": "557cb4270064c5b5905deb96186269de78c638176e40fb1a6826d43a06c55896",
+    "han_length_ratio": 0.99935,
+    "han_sequence_quick_ratio": 0.99085,
+    "han_exact_match": false,
+    "punctuation_density": 0.1498
+  },
+  "source_path": "I/I203.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.99167
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 10925,
+    "output_non_punctuation_characters": 10925,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 79,
+    "insert": 176
+  }
+}

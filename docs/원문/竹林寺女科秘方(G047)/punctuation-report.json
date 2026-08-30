@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E7%AB%B9%E6%9E%97%E5%AF%BA%E5%A5%B3%E7%A7%91%E7%A7%98%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "竹林寺女科秘方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:24:02.244074+00:00",
+    "html_sha256": "4633e972ed763fff1386fe03aa3c3c50f78087c124e379a7487a4d6d6b236c29",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/竹林寺女科秘方(G047)/표점본.md",
+  "blocks": {
+    "total": 363,
+    "by_tag": {
+      "div": 243,
+      "h2": 120
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 10974,
+    "extracted_han_sha256": "eb422754a98e4e50d10df6411dceabbf2e8cf6a96f918a090594419c5e89e36d",
+    "source_han_characters": 10997,
+    "source_han_sha256": "f8770defbdc7349ca1e367ec8522ad76ae11039baa0cd7cfe2a2d8ae4b4549b3",
+    "han_length_ratio": 0.997909,
+    "han_sequence_quick_ratio": 0.998498,
+    "han_exact_match": false,
+    "punctuation_density": 0.112265
+  },
+  "source_path": "G/G047.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.999909
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11001,
+    "output_non_punctuation_characters": 11001,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 86,
+    "insert": 0
+  }
+}

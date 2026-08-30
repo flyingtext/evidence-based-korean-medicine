@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%BA%9C%E7%A7%98%E5%82%B3%E7%B6%93%E9%A9%97%E5%A5%B3%E7%A7%91/index.html",
+    "site": "jicheng.tw",
+    "page_title": "內府秘傳經驗女科",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:24:01.642882+00:00",
+    "html_sha256": "3080c3a69628dde8696392c631af66e2ed2d0ab7be6fbeadd0c0fa93776bc7f1",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/內府秘傳經驗女科(G020)/표점본.md",
+  "blocks": {
+    "total": 298,
+    "by_tag": {
+      "div": 263,
+      "h1": 3,
+      "h2": 32
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 10525,
+    "extracted_han_sha256": "1cb45870cf7e52dc242fd2eda2fac36f724ab301ab2efc1a1418255c347d11bb",
+    "source_han_characters": 10514,
+    "source_han_sha256": "4795b76239e0b28706b88350926857876e8dbc3194ac4c01e8d0d0ff85c29130",
+    "han_length_ratio": 1.001046,
+    "han_sequence_quick_ratio": 0.991112,
+    "han_exact_match": false,
+    "punctuation_density": 0.140808
+  },
+  "source_path": "G/G020.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.99233
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 10597,
+    "output_non_punctuation_characters": 10597,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 93,
+    "insert": 88
+  }
+}
