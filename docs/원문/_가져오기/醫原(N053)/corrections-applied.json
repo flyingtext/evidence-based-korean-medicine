@@ -30,5 +30,12 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
     "evidence_note": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다.",
     "reason": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다."
+  },
+  {
+    "before": "布KT　穀氣，衛外而為固",
+    "after": "布護穀氣，衛外而為固",
+    "expected_count": 1,
+    "evidence": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣.",
+    "reason": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣."
   }
 ]

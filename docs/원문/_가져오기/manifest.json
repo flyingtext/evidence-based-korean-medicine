@@ -1074,7 +1074,7 @@
       "output_directory": "傷寒論條辨(B013)",
       "markdown_files": 22,
       "translation_units": 54,
-      "corrections_applied": 188,
+      "corrections_applied": 224,
       "punctuated": false,
       "warnings": []
     },
@@ -1608,12 +1608,9 @@
       "output_directory": "傷寒論綱目(B039)",
       "markdown_files": 19,
       "translation_units": 222,
-      "corrections_applied": 195,
+      "corrections_applied": 217,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '太陽病。項背強KT\\u3000KT\\u3000。無汗惡風者。葛根湯主之' (3/2)",
-        "교정 불일치: '直視不能\\u3000。不得眠' (2/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "B/B040.txt",
@@ -3960,7 +3957,7 @@
       "output_directory": "奇效簡便良方(D055)",
       "markdown_files": 8,
       "translation_units": 1472,
-      "corrections_applied": 17,
+      "corrections_applied": 18,
       "punctuated": false,
       "warnings": []
     },
@@ -9510,11 +9507,9 @@
       "output_directory": "望診遵經(M200)",
       "markdown_files": 3,
       "translation_units": 102,
-      "corrections_applied": 111,
+      "corrections_applied": 112,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '口眼\\u3000斜者。風中經絡也' (2/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "M/M201.txt",
@@ -9719,7 +9714,7 @@
       "output_directory": "古今醫案按(N007)",
       "markdown_files": 12,
       "translation_units": 187,
-      "corrections_applied": 280,
+      "corrections_applied": 281,
       "punctuated": false,
       "warnings": []
     },
@@ -10172,7 +10167,7 @@
       "output_directory": "研經言(N034)",
       "markdown_files": 7,
       "translation_units": 152,
-      "corrections_applied": 57,
+      "corrections_applied": 67,
       "punctuated": false,
       "warnings": []
     },
@@ -10505,7 +10500,7 @@
       "output_directory": "醫原(N053)",
       "markdown_files": 7,
       "translation_units": 31,
-      "corrections_applied": 4,
+      "corrections_applied": 5,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '莫不探微抉奧，體用兼HT\\u3000。而又以其余力' (0/1)"
@@ -10605,7 +10600,7 @@
       "output_directory": "讀醫隨筆(N059)",
       "markdown_files": 8,
       "translation_units": 141,
-      "corrections_applied": 15,
+      "corrections_applied": 21,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '虻蟲、\\u3000蟲、蠐螬' (2/1)"
@@ -12052,7 +12047,7 @@
       "output_directory": "軒岐救正論(O061)",
       "markdown_files": 13,
       "translation_units": 207,
-      "corrections_applied": 104,
+      "corrections_applied": 106,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '至如省客。來如彈石。去如解索。  命脈將絕。\\u3000游魚翔' (0/1)",

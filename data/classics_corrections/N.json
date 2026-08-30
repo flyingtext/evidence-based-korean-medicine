@@ -7248,6 +7248,80 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html",
       "evidence_note": "N/N034.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "張口欠KT　等候",
+      "after": "張口欠㰦等候",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html",
+      "evidence_note": "공개 원문 동일 구절에서 欠㰦로 확인됨.",
+      "reason": "공개 원문 동일 구절에서 欠㰦로 확인됨."
+    },
+    {
+      "before": "經脈目KT　KT　屬足少陰",
+      "after": "經脈目䀮䀮屬足少陰",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai",
+      "evidence_note": "《靈樞·經脈》 족소음 조문의 ‘目䀮䀮如無所見’과 일치함.",
+      "reason": "《靈樞·經脈》 족소음 조문의 ‘目䀮䀮如無所見’과 일치함."
+    },
+    {
+      "before": "偏僻在側曰癖，亦曰KT　。",
+      "after": "偏僻在側曰癖，亦曰㾫。",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html",
+      "evidence_note": "공개 전사 동일 문장에서 㾫으로 직접 확인됨.",
+      "reason": "공개 전사 동일 문장에서 㾫으로 직접 확인됨."
+    },
+    {
+      "before": "釋KT",
+      "after": "釋㩌",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html",
+      "evidence_note": "해당 절 제목이 釋㩌로 확인됨.",
+      "reason": "해당 절 제목이 釋㩌로 확인됨."
+    },
+    {
+      "before": "曰赤脈KT　。「KT　」字經傳少見",
+      "after": "曰赤脈㩌。「㩌」字經傳少見",
+      "expected_count": 1,
+      "reason": "동일 문장 두 글자를 하나의 고유 비중첩 규칙으로 복원",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
+    },
+    {
+      "before": "拂之別體作KT　，故又省作費",
+      "after": "拂之別體作㩌，故又省作費",
+      "expected_count": 1,
+      "reason": "저자의 자형 논증과 공개 전사가 일치",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
+    },
+    {
+      "before": "若KT　省貝為拂",
+      "after": "若㩌省貝為拂",
+      "expected_count": 1,
+      "reason": "저자의 자형 논증과 공개 전사가 일치",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
+    },
+    {
+      "before": "箋注皆云拂猶KT　也",
+      "after": "箋注皆云拂猶㩌也",
+      "expected_count": 1,
+      "reason": "공개 원문 고유 문맥 대조",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
+    },
+    {
+      "before": "《千金》赤脈KT　云者，謂邪氣KT　其脈氣也",
+      "after": "《千金》赤脈㩌云者，謂邪氣㩌其脈氣也",
+      "expected_count": 1,
+      "reason": "동일 문장 두 글자를 하나의 고유 비중첩 규칙으로 복원",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
+    },
+    {
+      "before": "赤脈攢，攢即KT　之誤，KT　語正本之《千金》",
+      "after": "赤脈攢，攢即㩌之誤，㩌語正本之《千金》",
+      "expected_count": 1,
+      "reason": "동일 문장 두 글자를 하나의 고유 비중첩 규칙으로 복원",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html"
     }
   ],
   "N/N036.txt": [
@@ -10276,6 +10350,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E6%A1%88%E6%8C%89/index.html",
       "evidence_note": "../source/N/N007.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "給病患入室HT　之",
+      "after": "給病患入室閉之",
+      "expected_count": 1,
+      "evidence": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之.",
+      "reason": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之."
     }
   ],
   "N/N009.txt": [
@@ -17616,6 +17697,48 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
       "evidence_note": "병증 㿉疝.",
       "reason": "병증 㿉疝."
+    },
+    {
+      "before": "破　脫肉",
+      "after": "破䐃脫肉",
+      "expected_count": 1,
+      "evidence": "《靈樞·本神》의 정문 破䐃脫肉.",
+      "reason": "《靈樞·本神》의 정문 破䐃脫肉."
+    },
+    {
+      "before": "萬物之橐　",
+      "after": "萬物之橐籥",
+      "expected_count": 1,
+      "evidence": "생성 운동을 풀무에 비유한 고정어 橐籥.",
+      "reason": "생성 운동을 풀무에 비유한 고정어 橐籥."
+    },
+    {
+      "before": "眼昏、　癢",
+      "after": "眼昏、目癢",
+      "expected_count": 1,
+      "evidence": "금기가 간목을 침범할 때 나타나는 안증 眼昏·目癢의 병렬.",
+      "reason": "금기가 간목을 침범할 때 나타나는 안증 眼昏·目癢의 병렬."
+    },
+    {
+      "before": "激怒起沉　",
+      "after": "激怒起沉痾",
+      "expected_count": 1,
+      "evidence": "고질을 낫게 한다는 정형 표현 起沉痾.",
+      "reason": "고질을 낫게 한다는 정형 표현 起沉痾."
+    },
+    {
+      "before": "去菀陳　",
+      "after": "去菀陳莝",
+      "expected_count": 1,
+      "evidence": "《素問·湯液醪醴論》의 정문 去菀陳莝.",
+      "reason": "《素問·湯液醪醴論》의 정문 去菀陳莝."
+    },
+    {
+      "before": "肌肉　脹",
+      "after": "肌肉䐜脹",
+      "expected_count": 1,
+      "evidence": "부육이 성내듯 부어오르는 병증어 䐜脹.",
+      "reason": "부육이 성내듯 부어오르는 병증어 䐜脹."
     }
   ],
   "N/N053.txt": [
@@ -17658,6 +17781,13 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
       "evidence_note": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다.",
       "reason": "바로 앞의 같은 병후를 줄여 반복한 문맥으로, 독립 전사의 희자 𠘧𠘧와 일치한다."
+    },
+    {
+      "before": "布KT　穀氣，衛外而為固",
+      "after": "布護穀氣，衛外而為固",
+      "expected_count": 1,
+      "evidence": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣.",
+      "reason": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣."
     }
   ],
   "N/N006.txt": [

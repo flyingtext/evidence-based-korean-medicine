@@ -830,5 +830,19 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
     "evidence_note": "가을바람을 뜻하는 商飆.",
     "reason": "가을바람을 뜻하는 商飆."
+  },
+  {
+    "before": "身熱脫肉破KT　。真藏見",
+    "after": "身熱脫肉破䐃。真藏見",
+    "expected_count": 1,
+    "evidence": "《靈樞·本神》 및 오장진법의 정형어 破䐃.",
+    "reason": "《靈樞·本神》 및 오장진법의 정형어 破䐃."
+  },
+  {
+    "before": "肩項身熱破KT　。肉脫",
+    "after": "肩項身熱破䐃。肉脫",
+    "expected_count": 1,
+    "evidence": "같은 진장 사후의 반복 병후 破䐃.",
+    "reason": "같은 진장 사후의 반복 병후 破䐃."
   }
 ]

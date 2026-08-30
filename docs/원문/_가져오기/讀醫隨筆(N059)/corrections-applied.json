@@ -116,5 +116,47 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
     "evidence_note": "병증 㿉疝.",
     "reason": "병증 㿉疝."
+  },
+  {
+    "before": "破　脫肉",
+    "after": "破䐃脫肉",
+    "expected_count": 1,
+    "evidence": "《靈樞·本神》의 정문 破䐃脫肉.",
+    "reason": "《靈樞·本神》의 정문 破䐃脫肉."
+  },
+  {
+    "before": "萬物之橐　",
+    "after": "萬物之橐籥",
+    "expected_count": 1,
+    "evidence": "생성 운동을 풀무에 비유한 고정어 橐籥.",
+    "reason": "생성 운동을 풀무에 비유한 고정어 橐籥."
+  },
+  {
+    "before": "眼昏、　癢",
+    "after": "眼昏、目癢",
+    "expected_count": 1,
+    "evidence": "금기가 간목을 침범할 때 나타나는 안증 眼昏·目癢의 병렬.",
+    "reason": "금기가 간목을 침범할 때 나타나는 안증 眼昏·目癢의 병렬."
+  },
+  {
+    "before": "激怒起沉　",
+    "after": "激怒起沉痾",
+    "expected_count": 1,
+    "evidence": "고질을 낫게 한다는 정형 표현 起沉痾.",
+    "reason": "고질을 낫게 한다는 정형 표현 起沉痾."
+  },
+  {
+    "before": "去菀陳　",
+    "after": "去菀陳莝",
+    "expected_count": 1,
+    "evidence": "《素問·湯液醪醴論》의 정문 去菀陳莝.",
+    "reason": "《素問·湯液醪醴論》의 정문 去菀陳莝."
+  },
+  {
+    "before": "肌肉　脹",
+    "after": "肌肉䐜脹",
+    "expected_count": 1,
+    "evidence": "부육이 성내듯 부어오르는 병증어 䐜脹.",
+    "reason": "부육이 성내듯 부어오르는 병증어 䐜脹."
   }
 ]
