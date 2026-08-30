@@ -1,0 +1,4464 @@
+{
+  "schema_version": 1,
+  "default_status": "pending",
+  "books": {
+    "N/N060.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2589,
+      "punctuation_status": "source_present",
+      "note": "청대 고전; 결자110 교정, 공백2584·HT3·KT2 보류"
+    },
+    "O/O000.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1588,
+      "punctuation_status": "source_present",
+      "note": "청대 고전; 결자304 교정, 공백1566·KT22 보류"
+    },
+    "O/O002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 318,
+      "punctuation_status": "source_present",
+      "note": "청대 고전; 결자53 교정, 공백318 보류"
+    },
+    "O/O004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1768,
+      "punctuation_status": "source_present",
+      "note": "1687년 청대 고전; 결자161 교정, 공백1762·HT3·KT3 보류"
+    },
+    "N/N027.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 271,
+      "punctuation_status": "source_present",
+      "note": "1786년 청대 고전. 결자75곳 교정; 공백266·HT4·KT1 보류"
+    },
+    "N/N032.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2271,
+      "punctuation_status": "source_present",
+      "note": "1882년 청대 고전. 결자98곳 교정; 공백2270·KT1 보류"
+    },
+    "N/N034.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 157,
+      "punctuation_status": "source_present",
+      "note": "莫枚士 청대 고전. 결자57곳 교정; 공백143·KT14 보류"
+    },
+    "N/N036.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 125,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자76곳 교정; 공백112·HT3·KT9·□1 보류"
+    },
+    "M/M200.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 141,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자105곳 교정; 공백114·HT7·KT20 판독 전 보류"
+    },
+    "N/N001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 696,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자81곳 교정; 공백691·HT3·KT2 판독 전 보류"
+    },
+    "N/N003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2541,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자102곳 교정; 공백2540·HT1 판독 전 보류"
+    },
+    "N/N003a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. [c] 외자 13곳을 䐜 10자·㿠 2자·塌 1자로 복원. ‘煮三杯，分三次服’이 유력한 복용법 공백 2곳은 직접 판면 판독 전 보류. 저자 吳瑭 보정."
+    },
+    "N/N004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 120,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자92곳 교정; 공백110·HT10 판독 전 보류"
+    },
+    "N/N006.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 195,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자62곳 교정; 공백188·HT1·KT6 판독 전 보류"
+    },
+    "K/K001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2599,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자344곳 교정; 공백2509·HT18·KT72 및 BMP 도판 판독 전 보류"
+    },
+    "K/K003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 892,
+      "punctuation_status": "source_present",
+      "note": "1529년 명대 고전. 결자291곳 교정; 공백846·HT4·KT42 판독 전 보류"
+    },
+    "K/K003a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1021,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자1곳 교정; 공백833·[c]188 판독 전 보류"
+    },
+    "K/K005.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 841,
+      "punctuation_status": "codex_verified",
+      "note": "1874년 청대 고전. 결자357곳 교정; 공백782·HT8·KT51 판독 전 보류. 원자료 무표점; Codex 증분 표점 269청크 문자 동일성 검증 완료"
+    },
+    "I/I010.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 655,
+      "punctuation_status": "source_present",
+      "note": "1604년 명대 고전. 결자135곳 교정; 공백609·HT23·KT10·□13 판독 전 보류"
+    },
+    "I/I011.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1373,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자231곳 교정; 공백1360·HT10·□3 판독 전 보류"
+    },
+    "I/I018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 738,
+      "punctuation_status": "source_present",
+      "note": "1831년 청대 고전. 결자103곳 교정; 공백734·HT4 판독 전 보류. [u]751쌍→<ins>"
+    },
+    "H/H016.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 723,
+      "punctuation_status": "source_present",
+      "note": "1549년 명대 고전. 결자55곳 교정; 공백722·HT1 판독 전 보류. [u]114쌍→<ins>"
+    },
+    "H/H018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1121,
+      "punctuation_status": "codex_verified",
+      "note": "명대 고전. 결자81곳 교정; 공백1112·HT6·KT2·□1 판독 전 보류. Codex 증분 표점 242청크 완료; 비표점 문자 70,342자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+    },
+    "H/H022.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2221,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자418곳 교정; 공백2209·HT7·KT5 판독 전 보류. [u]2589쌍→<ins>"
+    },
+    "H/H030.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1567,
+      "punctuation_status": "source_present",
+      "note": "고전 소아과 의서. 결자88곳 교정; 공백1553·HT14 판독 전 보류. [u]628쌍→<ins>"
+    },
+    "G/G039a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 89,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. [c] 외자89곳 외자표 판독 전 보류; 현대 저본 의존 없음"
+    },
+    "G/G040.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1194,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자103곳 교정; 공백1194곳 판독 전 보류. [u]502쌍→<ins>"
+    },
+    "G/G043.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "송 원저·명 교주 고전. [c] 외자 8곳을 외자 코드 대응·독립 평행문·처방 고정구로 모두 판독함."
+    },
+    "G/G044a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 384,
+      "punctuation_status": "source_present",
+      "note": "청대 傅山 원저. 조판138곳 확인; 공백384곳 판독 전 보류. 서지 보정"
+    },
+    "F/F015.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 617,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자78곳 교정; 공백615·HT2 판독 전 보류. [u]73쌍→<ins>"
+    },
+    "F/F022.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1199,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. 결자118곳 교정; 공백1189·HT4·KT3·□3 판독 전 보류"
+    },
+    "F/F101.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1381,
+      "punctuation_status": "source_present",
+      "note": "1805년 청대 고전. 결자123곳 교정; 공백1354·HT20·KT7 판독 전 보류. [u]1349쌍→<ins>"
+    },
+    "G/G001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 408,
+      "punctuation_status": "source_present",
+      "note": "도광기 청대 고전. 결자73곳 교정; 공백407·HT1 판독 전 보류. [u]407쌍→<ins>"
+    },
+    "D/D075a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 278,
+      "punctuation_status": "source_present",
+      "note": "1682년 청대 고전. PUA278곳 외자표·영인 판독 전 보류; 현대 저본 직접 의존 근거 없음"
+    },
+    "E/E004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 278,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자54곳 교정; 공백274·HT2·KT2 판독 전 보류. [u]245쌍→<ins>"
+    },
+    "E/E004a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. [c] 외자 8곳을 《內經》 정형 경문·동일 코드·본문의 자명 해설로 㿗 2자와 䐜 6자로 모두 복원. 저자 吳瑭 메타데이터 보정."
+    },
+    "E/E006.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 234,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자89곳 교정; 공백232·HT1·KT1 판독 전 보류. [u]118쌍→<ins>"
+    },
+    "D/D049.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1876,
+      "punctuation_status": "codex_verified",
+      "note": "청대 고전. 결자47곳 교정; 공백1861·KT15 판독 전 보류. Codex 증분 표점 298청크 완료; 비표점 문자 52,262자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+    },
+    "D/D051.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 557,
+      "punctuation_status": "source_present",
+      "note": "청말 고전. 결자57곳 교정; 공백543·KT14 판독 전 보류. [u]1쌍→<ins>"
+    },
+    "D/D052.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1355,
+      "punctuation_status": "source_present",
+      "note": "1920년 공개 간본 계통. 결자119곳 교정; 공백1353·HT2 판독 전 보류. [u]4쌍→<ins>"
+    },
+    "D/D053.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 780,
+      "punctuation_status": "source_present",
+      "note": "송대 고전. 결자101곳 교정; 공백779·KT1 판독 전 보류"
+    },
+    "D/D023.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1437,
+      "punctuation_status": "source_present",
+      "note": "1584년 명대 고전. 결자159곳 교정; 공백1435·KT2 판독 전 보류. [u]1쌍→<ins>"
+    },
+    "D/D024.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 203,
+      "punctuation_status": "source_present",
+      "note": "원대 고전. 결자92곳 교정; 공백199·KT4 판독 전 보류"
+    },
+    "D/D025.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 9879,
+      "punctuation_status": "source_present",
+      "note": "652년 당대 고전. 결자1630곳 교정; 공백9778·HT6·KT95 판독 전 보류"
+    },
+    "D/D025a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1621,
+      "punctuation_status": "source_present",
+      "note": "영송본 계통 당대 고전. 레거시 [c] 외자1621곳 외자표·영인 판독 전 보류"
+    },
+    "D/D004a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 811,
+      "punctuation_status": "source_present",
+      "note": "당대 고전. 레거시 [c] 외자811곳 외자표·영인 판독 전 보류"
+    },
+    "D/D005.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3687,
+      "punctuation_status": "source_present",
+      "note": "984년 일본 고전. 결자642곳 교정; 공백3324·HT8·KT326·□29 판독 전 보류. [u]42쌍→<ins>"
+    },
+    "D/D008.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1032,
+      "punctuation_status": "source_present",
+      "note": "1047년 송대 고전. 결자82곳 교정; 공백1023·KT8·□1 판독 전 보류"
+    },
+    "D/D010.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2825,
+      "punctuation_status": "source_present",
+      "note": "송대 관찬 고전. 결자136곳 교정; 공백2825곳 판독 전 보류. [u]3쌍→<ins>"
+    },
+    "C/C027.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1218,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자395곳 교정; 공백1213·KT1·□4 판독 전 보류. [u]306쌍→<ins>"
+    },
+    "C/C031.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 52,
+      "punctuation_status": "source_present",
+      "note": "광서기 청대 고전. 결자62곳 교정; 공백52곳 판독 전 보류. [u]7쌍→<ins>"
+    },
+    "C/C034.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 507,
+      "punctuation_status": "source_present",
+      "note": "1850년 청대 고전. 결자239곳 교정; 공백504·KT3 판독 전 보류. [u]1쌍→<ins>"
+    },
+    "C/C035.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 178,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. 결자94곳 교정; 공백178곳 판독 전 보류. [u]7쌍→<ins>"
+    },
+    "C/C015.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 83,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. jicheng 결자56곳 교정; 공백83곳 판독 전 보류. [u]357쌍은 강조 서식→<ins>"
+    },
+    "C/C016.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 876,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 결자194곳 교정; 공백876곳 판독 전 보류. [u]727쌍은 강조·교주→<ins>"
+    },
+    "C/C017.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 261,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 결자112곳 교정; 공백88·□173곳 판독 전 보류. [u]9쌍→<ins>"
+    },
+    "C/C018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 206,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 결자177곳 교정; 공백206곳 판독 전 보류. [u]86쌍→<ins>"
+    },
+    "B/B104.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 273,
+      "punctuation_status": "source_present",
+      "note": "1687년 청대 고전. 결자102곳 교정; 공백265·KT8 판독 전 보류. [u]209쌍은 강조 서식이며 변환 시 <ins>"
+    },
+    "B/B105.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 116,
+      "punctuation_status": "source_present",
+      "note": "일본 고전 주석서. 결자77곳 교정; 공백103·HT10·KT3 판독 전 보류. [u]154쌍은 강조 서식이며 <ins> 치환"
+    },
+    "B/B106.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 740,
+      "punctuation_status": "source_present",
+      "note": "1806년 일본 고전. 결자318곳 교정; 공백698·HT12·KT30 판독 전 보류. [u]249쌍은 강조 서식이며 <ins> 치환"
+    },
+    "B/B107.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 405,
+      "punctuation_status": "source_present",
+      "note": "1872년 청대 고전. 결자172곳 교정; 공백397·KT8 판독 전 보류. [u]473쌍은 조문번호 강조이며 <ins> 치환"
+    },
+    "B/B015.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1312,
+      "punctuation_status": "alignment_approved",
+      "note": "명대 고전. 결자304곳 교정; 공백1271·HT1·KT40 판독 전 보류. 원자료 무표점, jicheng 정렬0.9448 승인"
+    },
+    "B/B021.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 66,
+      "punctuation_status": "source_present",
+      "note": "1729년 청대 고전. 결자52곳 교정; 공백56·KT10 판독 전 보류"
+    },
+    "B/B021a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1729년 청대 고전. 레거시 외자 5곳을 외자표와 공개 고판본·독립 전사로 㕮 4자·疊 1자로 전부 복원."
+    },
+    "B/B026.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 380,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. jicheng 《傷寒論辯證廣註》 결자200곳 교정; 공백341·HT3·KT36 판독 전 보류"
+    },
+    "B/B014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT27자를 공개 고전 평행문으로 噎 7자·𠘧𠘧 18자·䀮䀮 2자로 모두 복원. 나머지 전각 공백 492자는 조문·처방 조판 공백."
+    },
+    "B/B018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 804,
+      "punctuation_status": "source_present",
+      "note": "KT38과 확정 HT·도량형 결자를 복원. 붕괴한 도량형 2곳과 전각 공백 후보 802곳은 추가 대조 중."
+    },
+    "B/B020.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 105,
+      "punctuation_status": "source_present",
+      "note": "KT17·□88. 특히 결흉·臟結 및 처방 구간에 연속 결락이 있어 원판면 대조 전 보류."
+    },
+    "B/B024.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 371곳은 조판 공백으로 확인. KT13은 공개 고전 평행문 대조로 䭇 5자·几 8자로 전부 복원. Codex 증분 표점 446청크 완료; 비표점 문자 71,437자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+    },
+    "A/A402b.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3976,
+      "punctuation_status": "source_present",
+      "note": "1624년 명대 고전. jicheng 결자1곳 교정; 공백3884·PUA92(25종) 외자표·원판면 판독 전 보류"
+    },
+    "A/A403.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1319,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. jicheng 결자322곳 교정; 공백1271·HT6·KT42 판독 전 보류. [u]70쌍 보존"
+    },
+    "B/B003a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "송대 고전. 기존 결자 3곳에 더해 공개 영인·jicheng·고전 평행문으로 남은 공백 3곳과 [c] 외자 15곳을 모두 복원함. kasm 계열은 뒤 숫자를 포함한 서로 다른 외자 키로 개별 판독함."
+    },
+    "B/B013.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 217,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. jicheng 결자169곳 교정; 공백169·HT7·KT41 판독 전 보류. [u]21쌍 보존"
+    },
+    "A/A402a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 447,
+      "punctuation_status": "source_present",
+      "note": "《類經》 레거시 [c] 외자 447곳과 PUA 계통 문자가 전권에 분포. 공개 고본 기반 외자 매핑 전수 확정 전 보류."
+    },
+    "B/B001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 512,
+      "punctuation_status": "source_present",
+      "note": "확정 가능한 HT4·KT23·□1을 복원. 판면별 전각 공백 후보 512곳은 추가 대조 중."
+    },
+    "B/B002a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 588,
+      "punctuation_status": "source_present",
+      "note": "[c]132·[z]435·□21이 전권에 분포. 四庫本·공개 고본으로 외자와 교주 경계를 전수 확정하기 전 보류."
+    },
+    "B/B008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공개 고전 평행문으로 HT1·KT16과 인명 王珉, 자동번역 잔재 冷凍飲料를 모두 복원. 잔여 0."
+    },
+    "A/A103.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2161,
+      "punctuation_status": "source_present",
+      "note": "에도기 고전. jicheng 결자 267곳 교정; 공백 2053·HT64·KT43·□1 판독 전 보류. [u]3190쌍 보존"
+    },
+    "A/A301.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 35,
+      "punctuation_status": "source_present",
+      "note": "HT·KT·□와 확정 가능한 전각 공백을 공개 四部叢刊 판면으로 복원. 35곳은 재판독 중."
+    },
+    "A/A304.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 44,
+      "punctuation_status": "source_present",
+      "note": "기존 52곳과 睘·𩩲骭을 복원. HT2·KT1 및 공백 후보 41곳은 판면 재확인 중."
+    },
+    "A/A401.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 605,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 결자 436곳 교정; 공백547·HT17·KT41 판독 전 보류"
+    },
+    "A/A205.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "《素問》 공개 고전 전사와 동일 저본 계통으로 HT1·KT3·□5 및 연관 탈자를 전부 복원. 마지막 음훈은 㾓。音淵。酸痛也로 확정."
+    },
+    "A/A101.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 57,
+      "punctuation_status": "source_present",
+      "note": "HT32·KT25 및 다수 무표식 PUA/해부·음훈 결자가 있어 공개 고본 전권 판면 대조 전 보류."
+    },
+    "A/A203.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "HT9·KT2·□1과 약물열의 무표식 탈자를 공개 고전 평행문으로 모두 복원. Codex 표점 76청크를 비표점 문자 완전 보존으로 검증 완료."
+    },
+    "A/A204.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2,
+      "punctuation_status": "source_present",
+      "note": "공개 전문·평행문으로 懿·郄·膲와 외자 다수를 복원. 단일 유니코드가 없는 陰庭 IDS 1곳과 歲露 인용 HT1은 보류."
+    },
+    "A/A009a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "본문 결자 없음. 서지행의 전각 공백 2곳은 조판 구분으로 확인하여 보존."
+    },
+    "A/A010.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1011,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 고유 문맥 결자 219곳 교정 반영. 전각 공백 946곳과 HT 18·KT 46·□ 1곳 판독 전 보류; [u] 4316쌍 보존"
+    },
+    "A/A011.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 711,
+      "punctuation_status": "source_present",
+      "note": "청대 고전. jicheng 고유 문맥 결자 424곳 교정 반영. 전각 공백 640곳과 HT 33·KT 35·□ 3곳 판독 전 보류"
+    },
+    "A/A013.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 220,
+      "punctuation_status": "alignment_approved",
+      "note": "원대 고전. jicheng 고유 문맥 결자 139곳 교정 반영. 전각 공백 178곳과 HT 12·KT 2·□ 28곳 판독 전 보류. 원자료 무표점, jicheng 정렬 7-gram 0.948 승인"
+    },
+    "A/A007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 13,
+      "punctuation_status": "source_present",
+      "note": "공개 고전 평행문으로 KT10과 HT2를 䀮䀮·燔燎·火燒·獬豸·侵으로 복원. 심하게 손상된 HT1과 연속 결락 □12는 동일 저본 영인 판독 전 보류."
+    },
+    "A/A009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공개 평행판으로 KT2·HT1을 복원하고 오삽입 연속 결자틀 5자를 제거. 잔여 0."
+    },
+    "F/F025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "汪蘊谷 1754년 청대 원저와 공개 고전 전사 계통 대조. 전각 공백 920곳 및 [u]264쌍 감사, 잔여 깨진 표식 0."
+    },
+    "F/F019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "王士雄 청대 원저. 인명 HT 2곳을 동일 저작 전사·독립 의안과 공개 영인으로 沈峻揚·𡸅庵으로 확정 복원."
+    },
+    "K/K200.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공개 PDF 판면을 직접 대조해 HT 6곳을 曹·䣊·○·⊙·⊙·稈으로 복원하고, 같은 판면의 연속 탈락 12곳과 명백한 오자 7곳을 함께 교정. 원자료 표점 충분."
+    },
+    "D/D048.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2,
+      "punctuation_status": "source_present",
+      "note": "공개 평행문으로 堅實·白占三錢을 추가 복원. 직접 판면 근거가 없는 KT1·□1은 보류."
+    },
+    "E/E009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "明張鶴騰 원저·清葉霖 증정본 공개 전사와 《傷寒總病論》 고본으로 HT·KT 각 1곳 복원."
+    },
+    "C/C032.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "臺大 공개 영인 계통과 jicheng 전문 대조. 전각 공백 168곳 감사, 깨진 표식 0."
+    },
+    "O/O101.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 현행 전문과 공개 평행자료를 대조해 HT 6곳을 복원. 㕭의 정확한 어순을 ‘噦噫、㕭酸’으로 바로잡고, 세 조문의 동일 희자 𦗴를 모두 확인함."
+    },
+    "K/K012.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 22,
+      "punctuation_status": "source_present",
+      "note": "1537년 고전 원저이나 HT7·KT15 및 다수 획/혈명 탈자의 공개 고본 정밀 판독 전 보류."
+    },
+    "H/H031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 공개 고전 전사와 jicheng 계통 대조. 전각 공백 142곳 감사, 깨진 표식 0."
+    },
+    "G/G023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 공개 고전 전사와 jicheng 계통 대조. 전각 공백 1958곳 및 [u]242쌍 감사, 깨진 표식 0."
+    },
+    "B/B036.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT 1곳 복원. 마지막 □는 1821년 樂群樓本 《金鏡內台方議》 공개 영인에서 治로 직접 확인하고 독립 전사 2종과 교차 검증함."
+    },
+    "O/O051.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2·KT2 복원. 서문의 □3은 CADAL 원판에 실자가 없는 편집 보충 자리임을 확인하고, 〔〕 표지를 유지한 채 문맥상 今之所로 보충했음을 교정 근거에 명시."
+    },
+    "O/O014a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "徐大椿 1757년 원저와 jicheng 공개 전문 대조. 결자·깨진 표식 없음."
+    },
+    "P/P0008a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1892년 공개 석인본·사고본 계통과 jicheng 전문 대조. 전각 공백 950곳 감사, 깨진 표식 없음."
+    },
+    "O/O062.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공개 영인 65–66쪽을 직접 대조해 人字·心字 설명에서 유실된 필획 24자(丨4·丿8·乀8·丶2·乚2)를 모두 복원함."
+    },
+    "J/J007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1,
+      "punctuation_status": "source_present",
+      "note": "1859년 고전. HT·KT는 동일 고유 문장의 공개 전사로 𠜎·䙀 복원. 水火丹의 山□引은 山楂가 유력하나 직접 판면·독립 전사가 없어 □1 보류."
+    },
+    "O/O014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "徐大椿 1757년 원저와 jicheng 공개 전문 대조. 전각 공백 37곳 및 [u] 2쌍 감사, 잔여 깨진 표식 0."
+    },
+    "K/K011.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5,
+      "punctuation_status": "source_present",
+      "note": "공개 고전 전사로 出針·百會穴·承漿穴·氣喘癋證·有氣無氣 6자를 복원. 黃□ 인명 1자와 침법 전문어 HT4는 영인 판독 전 보류."
+    },
+    "A/A303.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "浙江大·臺大 공개본 계통 및 jicheng 대조. [z] 교주 166쌍 괄호형 정규화."
+    },
+    "K/K004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "四庫本·공개 전사로 KT 6곳 복원. 잔여 깨진 표식 0."
+    },
+    "G/G014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공개 전사 대조로 결자 1곳 복원. 전각 공백 337곳 감사."
+    },
+    "I/I105.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "國家圖書館 공개 영인 《瘍科綱要》 PDF 23면에서 □3을 藏·鮮·護로 직접 판독하여 전부 복원."
+    },
+    "B/B025a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "美國國會圖書館 공개본·사고본 및 jicheng 전문으로 외자 4곳 복원. 잔여 깨진 표식 0."
+    },
+    "N/N033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "國家圖書館 공개 영인 계통과 jicheng 전문으로 HT 1곳 복원. 전각 공백 2912곳 감사."
+    },
+    "A/A303a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "浙江大·臺大 공개 스캔 계통과 jicheng 전문 대조. 전각 공백 29곳 감사, 잔여 깨진 표식 0."
+    },
+    "C/C038.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문으로 KT 1곳을 IDS로 복원. 전각 공백 99곳 감사, 잔여 깨진 표식 0."
+    },
+    "F/F014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 공개 고본 계통 대조. 전각 공백 279곳 및 [u] 2쌍 감사, 잔여 깨진 표식 0."
+    },
+    "H/H006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "道光刊 공개 스캔 계통과 jicheng 최신 전문 대조. 전각 공백 2016곳 및 [u] 82쌍 감사, 잔여 깨진 표식 0."
+    },
+    "P/P0011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1892년 공개 석인본·사고본 계통과 jicheng 최신 전문으로 HT 7곳 복원. 전각 공백 1085곳 및 [u] 278쌍 감사, 잔여 깨진 표식 0."
+    },
+    "D/D009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3,
+      "punctuation_status": "source_present",
+      "note": "KT 3곳 복원. 《素問》 영인으로 장문 탈락을 복원하고 水火相犯 앞 전자화 결자틀을 제거. 직접 판면 근거 없는 即□脈 1자와 此輕□□ 2자는 보류."
+    },
+    "P/P0011a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1892년 공개 석인본·사고본 계통 및 jicheng 최신 전문 대조. 전각 공백 13곳 전수 감사, 잔여 깨진 표식 0."
+    },
+    "F/F024a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1583년 공개 간본·사고본 계통 및 jicheng 최신 전문 대조. 전각 공백과 깨진 표식 0."
+    },
+    "O/O003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "北京大 공개 영인 계통 및 jicheng 최신 전문 대조. 전각 공백 1572곳과 [u] 292쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "G/G006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1862년 공개 중각본 계통 및 jicheng 최신 전문으로 HT 결자 1곳 복원. 전각 공백 359곳과 [u] 33쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "D/D065.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "臺大 영인 계통·jicheng 최신 전문으로 결자 및 KT 복원. 전각 공백 952자리 전수 감사, 잔여 깨진 표식 0."
+    },
+    "H/H019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "北京大 영인 계통·jicheng 최신 전문으로 결자 48자리 복원. 전각 공백 706자리와 [u] 96쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "O/O006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "明刊本·日本刊本 계통 및 jicheng 최신 전문으로 결자·HT 복원. 전각 공백 1201자리와 [u] 126쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "I/I013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "明嘉靖刊本 계통·jicheng 최신 전문으로 결자·HT 복원. 전각 공백 578자리와 [u] 217쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "G/G013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문으로 결자 41자리를 복원. 전각 공백 933자리와 [u] 418쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "F/F016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "道光본·臺大 영인 계통 및 jicheng 최신 전문으로 결자와 HT·KT를 복원. 전각 공백 1675자리와 [u] 248쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "N/N018.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "臺大 영인 계통 및 jicheng 최신 전문으로 결자 50자리를 복원. 전각 공백 2542자리 전수 감사, 잔여 깨진 표식 0."
+    },
+    "E/E019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "北京大 영인 계통·識典 공개 영인과 전수 대조. 전각 공백 2자리는 줄 조판으로 판정, 결자 및 깨진 토큰 0."
+    },
+    "O/O064.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 경혈 원전으로 결자 및 HT·KT 6건을 복원하고 ASCII 표점 공백 1건 보정. 전각 공백 282자리와 [u] 7쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "D/D050.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문으로 결자 및 HT·KT 5건을 복원. 전각 공백 108자리 전수 감사, 잔여 깨진 표식 0."
+    },
+    "B/B010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "乾隆刻本·四庫本 계통 및 Wikisource로 결자 및 HT 2건을 복원. 전각 공백 266자리와 [u] 58쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "E/E005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "北京大 영인 계통과 識典 공개 영인으로 결자 12자리 복원. 전각 공백 444자리와 [u] 88쌍 전수 감사, 잔여 깨진 표식 0."
+    },
+    "A/A000a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 25자리 전수 판정: 결자·깨진 토큰 18자리(교정 17건), 판면 공백 7자리. Codex 표점 검증 완료"
+    },
+    "A/A012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 92자리 전수 판정(결자 84자리, 판면 공백 8자리) 후 재감사에서 잔존 placeholder 6자(□□□□·□·□)를 독립 인용 근거로 추가 복원. 총 86개 교정 항목 적용, IDS·확장 한자·깨진 토큰 복원 및 Codex 표점 검증 완료"
+    },
+    "A/A400.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 107자리 전수 판정: 결자 104자리, 판면 공백 3자리. Codex 표점 검증 완료"
+    },
+    "B/B029.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 538자리 전수 판정: 결자 32자리(교정 30건), 판면 공백 506자리. Codex 표점 검증 완료"
+    },
+    "C/C005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "본문 전각 공백 35곳·KT 1곳 전수 판정: 모두 약명·질환명·희귀자 결락으로 복원하고 판면 공백은 없음. 메타데이터 정렬용 전각 공백 6곳은 변환 시 제거. 자동 번역 잔재와 복수 글자 결락도 교정. jicheng 최신판과 Wikisource·CText 독립 전사 및 공개 PDF 대조 완료, 원자료 표점 밀도 0.2312로 충분"
+    },
+    "C/C102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 505자리 전수 판정: 결자 치환 95자리, 판면 공백 410자리(복합결락 삽입 1곳 포함), 교정 100건. 깨진 토큰 복원 및 Codex 표점 검증 완료"
+    },
+    "N/N066a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 25곳·HT 3곳 전수 판정: 黃耆·銕·熓·癥·蚘·裯·槻 및 다수 인명 희귀자 결락을 복원하고 끝 공백 1곳도 정규화. jicheng 최신 교감 전문과 Wikisource 독립 중교본을 전역 대조해 반복 東/湯 OCR, 자동 번역식 外家, 인명 오기까지 전문 단위 교정 1건으로 정리. HT/KT/□/U+FFFD/[u] 잔존 0, 원자료 표점 충분"
+    },
+    "F/F000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "원자료의 광범위한 전문 탈락과 사실상 무표점인 본문을 jicheng 문연각 사고전서본 전문으로 복원·표점하고 Wikisource·CText·공개 영인본으로 문자 보존을 교차 검증. 전각 공백 15곳은 결자·깨진 토큰 9곳 복원, 판면·표제 공백 6곳으로 판정. 물음표형 깨진 문자와 자동 전사 오기까지 전문 단위 교정 1건으로 정리, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "M/M113.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 27곳 전수 판정: 병증 희귀자 결자 10곳 복원, 표제 들여쓰기 16곳 보존, 문장 중 불필요 공백 1곳 정규화. jicheng 최신 전문과 CloudTCM 독립 전사를 전문 대조해 공백 없는 臟 탈자와 洪脈 설명의 닫는 구두까지 총 12개 교정 항목으로 정리. 저자 沈金鰲·清·1774년 서지 보충, 원자료 표점 충분"
+    },
+    "N/N017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 187곳 전수 판정: 결자 11곳 복원, 처방·용량 및 표제 조판 공백 176곳 보존. 공백 없이 탈락한 艌·煅 2곳도 복원. jicheng 최신 전문과 CloudTCM 독립 전사를 전문 대조해 濃/厚 OCR 오기 2건을 포함한 총 15개 교정 항목으로 정리. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "N/N000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 748자리 전수 판정: 결자 88자리, 판면·목록 공백 660자리. HT/KT 깨진 토큰 전수 복원, 원자료 표점 충분"
+    },
+    "D/D047.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 789자리 전수 판정: 결자 39자리(교정 36건), 판면 공백 750자리. Codex 표점 검증 완료"
+    },
+    "D/D004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 23,425자리 판정: 결락·깨진 토큰 관련 공백 198자리를 포함해 교정 156건 적용, 나머지 23,227자리는 처방 약물·용량 및 판면 구분 공백으로 보존. HT/KT/□ 및 제어문자 잔존 0, jicheng 전문과 독립 자료 대조 완료, 원자료 표점 충분"
+    },
+    "H/H023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 840자리 전수 판정: 결자·깨진 토큰 191자리, 판면·약물 목록 공백 649자리. HT/KT/□ 복원 및 jicheng 표점 검증 완료"
+    },
+    "O/O053.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 960자리 전수 판정: 결자 54자리, 조제·판면 공백 906자리. Codex 표점 검증 완료"
+    },
+    "O/O070.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 1,064자리 전수 판정: 결자 42곳·43자 보충, 조판 공백 1,022자리. Codex 표점 18배치 및 문자 보존 검증 완료"
+    },
+    "E/E018.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·깨진 토큰 없음. jicheng 外感溫病篇_1과 溫熱經緯 권4를 교차 대조해 오기·오표점 33건 교정, 원자료 표점 충분"
+    },
+    "B/B040.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공백·깨진 토큰 없음. 叢書集成新編 영인본 전수 대조로 規繩之入→規繩之人 1건 교정, 원자료 표점 충분"
+    },
+    "B/B032.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 12곳 전수 판정: 결자 11곳 복원, 서명 판면 공백 1곳 보존. jicheng 최신판·Wikisource 일반본과 四庫全書本·東京大學 소장본 서지를 대조해 교정 20건 적용, HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "M/M106.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "비표준 원자료 구조 복구, 독립 판본 대조 교정 26건 적용. 무표점 원문에 Codex 표점 686개 추가·비표점 문자 2,744자 보존 검증"
+    },
+    "Q/Q008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공백·깨진 토큰 없음. 針灸大成 본문판과 독립 전재본 대조로 가결 본문 18건 교정, 원자료 표점 충분"
+    },
+    "Q/Q006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공백·깨진 토큰 없음. 독립 인용 자료로 骨寒髓冷·應針環跳 2건 교정하고 [j] 이문 주석 구조를 보존, 원자료 표점 충분"
+    },
+    "Q/Q007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공백·깨진 토큰 없음. 針灸大全 독립 본문판·영인본·후대 인용 대조로 18건 교정, 원자료 표점 충분"
+    },
+    "Q/Q010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "공백·깨진 토큰 없음. jicheng·CText·Wikisource 대조와 약명 근거로 3건 교정, 원자료 표점 충분"
+    },
+    "Q/Q000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "針灸大成·영인본·원전학 논문 대조로 명백한 오기 3건 교정, 판본 이문·이체자는 보존하고 원자료 표점 충분"
+    },
+    "Q/Q005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "깨진 외자 토큰 1건을 𥉂𥉂으로 복원하고 독립 영인 전사본의 이체 䀮䀮로 교차 확인, 원자료 표점 충분"
+    },
+    "Q/Q001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "醫宗金鑑 독립 본문 대조로 누락 혈명 5개와 오기·혈수 교주를 7건 교정, 14경 361혈 합계 확인 및 원자료 표점 충분"
+    },
+    "Q/Q004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "針灸大成·국가도서관 영인본 대조로 결자·혈명·깨진 토큰 20건 교정, 판본 이문은 보존하고 원자료 표점 충분"
+    },
+    "Q/Q002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "備急千金要方 계통·Wikisource·학술 자료 대조로 俞穴流注와 깨진 결자 虻 2건 교정, 판본 이문은 보존하고 원자료 표점 충분"
+    },
+    "E/E017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "續名醫類案·溫熱經緯 계통 대조로 咽喉와 깨진 결자 㽲 2건 교정, [dzb] 자주 구조를 보존하고 원자료 표점 충분"
+    },
+    "Q/Q003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "독립 출판본 대조로 還教·眼簾 2건 교정. 전각 공백 60곳은 7언 구 경계로 판정하고 원자료 표점 충분"
+    },
+    "Q/Q011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·Wikisource·CText·영인본·학술 인용 대조로 깨진 외자 㿗 2곳과 OCR 오류 등 9건 교정, 원자료 표점 충분"
+    },
+    "B/B012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 89곳 전수 판정: 결자 3곳(憹·痓·疴) 복원, 처방 약물·용량 및 설명문 조판 공백 86곳 보존. jicheng.tw 최신 전문과 동일 계통 독립 영인 전사를 전문 대조해 약명·방명 OCR 오기 4건을 포함한 총 7개 교정 항목으로 정리. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "B/B012a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "傷寒心要·河間傷寒心要·傷寒直格 대조로 결자·OCR·구두 7건 교정, 처방 용량 판본 차이는 보존하고 원자료 표점 충분"
+    },
+    "C/C051.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "독립 藥性賦 인용과 표준 본초명·병증 문맥으로 저품질 전사의 명백한 오류 13건 교정, 지역 이명은 보존하고 원자료 표점 충분"
+    },
+    "N/N070.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "독립 근거로 蔔姓→卜姓·年三下有八→年三十有八 2건 교정, 근거 부족 이문은 보존하고 원자료 표점 충분"
+    },
+    "N/N068.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·Wikisource·CText·원전 용례 대조로 결자 䐃·動과 처방명·약명·혼입 문자 등 21건 교정, 원자료 표점 충분"
+    },
+    "N/N086.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 景景醫話·Wikisource·東坡志林 대조로 OCR·결자·표점 52건 교정하고 [z] 교감표기 18쌍을 보존형으로 정규화, 원자료 표점 충분"
+    },
+    "O/O100.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "현재 jicheng 전사와 CJK 전역 정렬 및 Wikisource 독립 대조로 HT·결자·중간 탈락 문장 6건을 복원하고 전각 공백 155곳이 판면·약물 구분임을 확인, 원자료 표점 충분"
+    },
+    "K/K018.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 341곳·KT 1곳 전수 판정: 결자 포함 슬롯 24곳을 복원하고 질환·장부·혈위 목록 구분용 판면 공백 318곳은 보존. 중간 탈락 문장과 오수혈·오행 배속의 명백한 오기도 교정. jicheng 최신판과 Wikisource·CText 독립 전사 대조 완료, 원자료 표점 밀도 0.1542로 충분"
+    },
+    "K/K013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 978곳 전수 판정: jicheng 전문 정렬과 Wikisource·CTP 독립판본 대조로 실제 결자 882곳을 복원하고 장 제목 별칭·증후 목록의 판면 공백 96곳을 보존. HT·KT·[c]·U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "K/K105.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 47곳·KT 3곳 전수 판정: 혈위·해부·질환 희귀자 결자 44곳 복원, 불필요 공백 3곳 정규화. jicheng.tw 최신 전문과 원전 인용을 대조해 腧·顀·骶·浥·痎·胕·疴·痾 및 搽를 복원했고, 저자 莊綽·宋·1128년 서지도 보충. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "K/K104.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 116곳 전수 판정: 결자 31곳 복원, 목차·처방·판면 공백 85곳 보존. jicheng 최신판·京都大學 및 Wikimedia 공개 영인본·동계 騎竹馬灸法을 대조해 교정 35건 적용, HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "L/L102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 343곳 전수 판정: 결자 6곳 복원, 처방·용량 및 판면 공백 337곳 보존. jicheng 최신판·Wikisource 독립 전사·光緒九年思賢書局刻本 서지를 대조해 교정 6건 적용, HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "L/L009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 310곳 전수 판정: 결자 39곳 복원, 처방·용량·판면 공백 271곳 보존. jicheng 최신판·Wikisource·CTP·康熙五十一年鹿氏刻本 서지를 대조해 교정 39건 적용, HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "B/B038.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 10곳·HT 1곳 전수 판정 및 공백 없는 탈자 2곳을 복원하고 명백한 OCR·자동 번역 오기까지 총 20개 교정 항목으로 정리. jicheng 최신판·CloudTCM 독립 전사·1939년 영인본 및 원전 인용 대조 완료, 원자료 표점 밀도 0.2003으로 충분"
+    },
+    "I/I207.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 174곳·HT 1곳 전수 판정: 결자 포함 슬롯 20곳을 복원하고 약재·처방 열거 및 설명 선행 판면 공백 155곳은 보존. 자동 번역 잔재 11곳도 교정. jicheng 최신판과 Wikisource·CText 독립 전사 대조 완료, 원자료 표점 밀도 0.1828로 충분"
+    },
+    "H/H028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 19곳 전수 판정: 결자·깨진 토큰 19곳을 14개 교정 항목으로 복원하고 독립 전사와 일치하는 명백한 OCR 오기 3건을 추가 교정. jicheng 최신판·CloudTCM 독립 전사본 대조 완료, 원자료 표점 충분"
+    },
+    "D/D070.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 21곳 전수 판정: 결자·깨진 토큰 18곳 복원, 서지 인용 공백 1곳 정규화, 조판 공백 2곳 보존. jicheng.tw 최신 전문과 Wikisource 독립 전사를 전문 정렬해 원자료에서 연속 탈락한 구절들을 전체 본문 최소편집 교정 1건으로 복원. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "J/J006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 197곳 전수 판정: 결자 2곳(煅) 복원, 약물·용량 열거 조판 공백 195곳 보존. jicheng.tw 최신 전문과 Wikisource 독립 전사를 전역 정렬해 공백 없는 문장·처방 탈락 7구간과 괄호 오기까지 총 9개 교정 항목으로 복원. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "G/G031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 390곳 전수 판정: 黃耆·參耆·喎·煅·㿗 결자 19곳 복원, 처방·용량 조판 공백 371곳 보존. jicheng 최신 전문과 CloudTCM 十全濟陰丸 독립 처방 전사를 대조해 공백 없는 耆 1곳, 방명 東/湯 4곳, 濃朴 및 자동 번역식 外家 오기와 구두 2곳까지 총 16개 교정 항목으로 정리. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "G/G034.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 8곳 전수 판정: 서명 지명 결자 1곳(濛溪) 복원, 처방 약물 구분 공백 7곳 보존. jicheng.tw 최신 전사와 Wikisource 및 中醫世家 독립 전사를 전문 대조했고 HT/KT/□/U+FFFD·자동 번역 잔재는 없음. 원자료 표점 충분"
+    },
+    "O/O023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 25곳 전수 판정: 서문 연월·당호, 犨·揸·汩·齶·濛 결자·비정상 공백 14곳 복원·정규화, 도해 배치 공백 11곳 보존. □ 5곳은 공개 전사와 문맥을 재대조해 功行·安得·容·明으로 복원. jicheng·Wikisource·CText 및 공개 PDF 대조로 자동 번역식 外家 2곳과 OCR 오기까지 총 22개 교정 항목 적용, HT/KT/□/U+FFFD/[u] 잔존 0, 원자료 표점 충분"
+    },
+    "O/O093.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 35곳 전수 판정: 결자·깨진 토큰 21곳 복원, 문답 표제의 줄바꿈·밑줄 조판 공백 14곳 보존. jicheng.tw의 1936년 《珍本醫書集成》 저본 전사와 Wikisource 독립 전사를 전문 대조해 HT 및 공백 없는 결자 2곳, 자동 번역 잔재까지 총 25개 교정 항목으로 정리. 원자료 표점 충분"
+    },
+    "J/J000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 명洪武刻本 전문과 《急救仙方》 권6·7 독립 계통을 전면 대조해 KT·전각 공백 결자 및 공백 없는 처방·문장 탈락을 복원. 원자료 전각 공백 331자리 중 결자·비정상 공백 19자리 교정, 처방·판면 구분 312자리 보존. 원자료 표점 충분"
+    },
+    "D/D072.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신판 전문과 Wikisource·CTP·theqi 독립 전사 및 陳修園醫書二十一種 영인본을 대조해 KT·전각 공백 결자와 공백 없는 서문·처방·주석 탈락을 복원. 전각 공백 97자리 중 결자·비정상 16자리 교정, 처방 구분 81자리 보존. 원자료 표점 충분"
+    },
+    "J/J015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 珍本醫書集成 전사와 CTP 및 1931·1936년 영인 판본을 대조해 KT·전각 공백 결자와 공백 없는 조문·처방 탈락을 복원. 전각 공백 580자리 중 45자리 복원·정규화, 약물·용량·판면 구분 535자리 보존. 원자료 표점 충분"
+    },
+    "D/D067.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 표점 전사의 동일 4편 전문과 문헌 단위 정렬해 공백 없이 탈락·혼입된 처방·주석을 복원. 원문 전각 공백 4곳은 처방 구성 구분으로 보존(재조판 공백 1곳 추가), HT/KT/□ 잔존 0, 원자료 표점 충분"
+    },
+    "M/M202.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 표점 전사의 동일 16편 전문과 문헌 단위 정렬해 공백 없이 탈락·혼입된 서문·설진 원리·진단 조문을 복원. 원자료 전각 공백 및 HT/KT/□ 없음, [u]는 <ins>로 정상 변환, 원자료 표점 충분"
+    },
+    "M/M105.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 3곳 전부를 결자로 판정해 牴·惵·嶰를 복원하고, 원 인용문 및 독립 전사 대조로 形休·復·王敘和 오기까지 총 6건 교정. jicheng 최신 표점 전사·CloudTCM·Wikisource·원 인용문 대조 완료, 원자료 표점 충분"
+    },
+    "M/M103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 66곳·HT 1곳 전수 판정: 결자·깨진 토큰 50곳을 30개 교정 항목으로 복원하고 문단·판면 구분 16곳은 보존. jicheng 최신 중간본·CText·Wikisource 독립 전사를 대조해 오기까지 교정했으며 원자료 표점 충분"
+    },
+    "L/L200.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 承應3년(1654) 간본 전사와 Wikisource 독립 전사를 대조해 대량 문장·처방 탈락, KT 깨진 토큰과 전각 공백 결자를 복원. 원문 전각 공백 478자리 중 28자리 복원·정규화, 약물·용량·판면 구분 450자리 보존(재조판 위치 공백 26자리 포함). 원자료 표점 충분"
+    },
+    "D/D061.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "원자료 전각 공백 617자리 전수 정렬: 결자·깨진 토큰 관련 52자리 복원/정규화, 약물·용량·판면 구분 565자리 보존. jicheng 최신 정리본 전문과 《珍本醫書集成》第九冊 저본 스캔을 대조해 KT 1곳과 문장·처방 단위 누락 9,661자를 복원했으며 괄호 502쌍, placeholder 0, 원자료 표점 충분"
+    },
+    "J/J013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 정리본 전문 전수 정렬: KT+전각공백 3자리에서 희귀자 㩒 복원, 血 뒤 전각공백 1자리에서 疱 복원, 濃攤勻 오자를 厚攤勻으로 교정. 전각공백 4자리 모두 결자였고 판면 공백은 없음. 裡/里 표기는 저본의 번체 표기 裡를 보존했으며 placeholder 0, 원자료 표점 충분"
+    },
+    "O/O020.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 11자리 전수 판정: 결자 10자리(絪縕·澂 6자·窅·邨 복원), 서명 판면 공백 1자리 보존. jicheng 최신 정리본과 와세다 소장 《坤鑑寶鏡》 독립 판본을 대조해 溝血→溝洫 등 OCR 오자·번체 자형 및 本來野狼藉 자동번역 잔재를 교정. placeholder 0, 원자료 표점 충분"
+    },
+    "H/H033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 33자리 전수 판정: 𤼏 결자 1자리 복원, 항목·처방 판면 공백 32자리 보존. jicheng 五彩書局본·四庫全書본 정리와 Wikisource 독립 전사를 대조해 누락된 不·䐃, 項元→項無, 效如附應→效如響應, 毒瓦斯→毒氣 자동번역 잔재 등 30항목 교정. placeholder 0, 원자료 표점 충분"
+    },
+    "E/E002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 7자리는 모두 [book] 서지의 판면 정렬용으로 본문 변환 시 제거되며 결자는 없음. jicheng의 《溫熱經緯》 北京大學 스캔본·《周氏醫學叢書》 대조 정리와 관련 독립 판본을 전수 대조해 衛氣營血 어순, 戰汗 구절, 누락된 甘·或如·瘀·痰·證 및 깨진 `[c]kytr[/c]`를 희귀자 㾦로 교정. placeholder 0, 원자료 표점 충분"
+    },
+    "F/F018.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 표점 전문과 Wikisource 독립 전사를 대조해 전각 공백 결자·HT/KT 깨진 토큰·공백 없는 이명가 행 접합 및 오기를 복원. 원문 전각 공백 118자리 중 결자·비정상 27자리 교정, 처방 구성 구분 91자리 보존(재조판 공백 1자리 포함). [u] 18쌍은 <ins>로 정상 변환, placeholder 0, 원자료 표점 충분"
+    },
+    "J/J010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "본문 전각 공백 48자리 전수 판정: 모두 처방 약물·구절 구분용 판면 공백. jicheng 최신 정리본 전문 대조로 대규모 결락, 접합 오류, OCR·자동번역 잔재를 복원했으며 원자료 표점을 유지함"
+    },
+    "E/E016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 華岫雲本 전문과 Wikisource·theqi 독립 전사를 대조해 전각 공백 결자 2곳과 退場門·紅花東 자동번역 잔재, 募原 의학용어 오기를 총 7항목으로 교정. 원자료 전각 공백 2곳 모두 결자였고 placeholder 0, 원자료 표점 충분"
+    },
+    "K/K009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 137자리 전수 판정(모두 경맥·혈위 목록 판면 구분). jicheng 최신본으로 희귀자 결락을 복원하고 문단 경계 표점을 보완했으며, 표점 전후 CJK 문자열 보존 검증 완료"
+    },
+    "D/D073.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 Wikisource·CText 《飲膳正要》卷二 食療諸病을 처방 단위로 전면 대조해 결자·자동번역 잔재·제목 및 말미 처방 탈락을 복원. 원자료 전각 공백 16곳 전부 결자/비정상 공백으로 교정, 香港腳→腳氣 등 자동번역 잔재 제거, placeholder 0, 원자료 표점 충분"
+    },
+    "D/D003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 《珍本醫書集成》第十一冊 전사와 국립대만대학도서관 저본 스캔을 전문 대조해 결자·오기·자동번역 잔재 및 누락된 13개 병증가를 복원. 원자료 전각 공백 7곳 모두 결자로 교정, [u]는 <ins>로 정상 변환, placeholder 0, 원자료 표점 충분"
+    },
+    "J/J005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 《跌打秘方》 독립 서지·동계 상해 문헌을 대조해 臁 결자 1곳 및 紮·痠·摺·湧·繫·釐·甦·咬·麵 등 자형·용어 오기를 교정. 전각 공백 1곳 모두 결자였고 placeholder 0, 원자료 표점 충분"
+    },
+    "G/G004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 158자리 중 癥 결자 1자리 복원, 나머지 157자리는 처방·서명 판면 구분. □ 12자는 독립 인용 근거로 不一·為主·桃梟·若·竹雞草·樺皮를 복원하고 OCR·자동변환 오기 전수 대조. 원자료 표점 충분"
+    },
+    "F/F017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 268자리 중 체계적 癧 결자 등 30자리를 복원·정규화하고 나머지 238자리는 처방 판면 구분. 臁·髎·齶 등 희귀자 및 OCR·자동변환 오기 전수 복원, 원자료 표점 충분"
+    },
+    "O/O086.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 16편 전문과 Wikisource 일반 전사·四庫全書本 및 Commons 공개 스캔을 대조해 원자료에서 합쳐진 서문 3편 경계를 복원하고 餘·髮·製·釐·慄·託·僕·臺 등 자형·어휘 오기를 교정. 원자료 전각 공백/placeholder 없음, 원자료 표점 충분"
+    },
+    "H/H029.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 193자리 중 결자·깨진 토큰 관련 18자리를 복원하고 175자리는 처방·판면 구분. HT 3/KT 1 및 疴·煿·藭·臁·髎·莙薘·熁·疿·聤·薶·鱣 등 희귀자 전수 복원. 文淵閣四庫全書본에 따라 서지를 宋으로 교정, 원자료 표점 충분"
+    },
+    "I/I302.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 255자리 전수 판정: 黃耆의 耆 17자리와 筍·藁 2자리 결자 복원, 나머지 236자리는 처방 판면 구분. 薢 및 灰/鍛 등 비공백 결락·오기와 자동변환 자형도 전문 복원, 원자료 표점 충분"
+    },
+    "O/O119.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 공개 영인 판본 계통 및 문맥을 대조해 전각 공백 3곳과 □ 11곳, OCR 오기 및 표기를 교정. 원자료 표점 충분"
+    },
+    "E/E003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·□·�·HT·KT 없음. jicheng 최신 정리본과 《溫熱經緯》 계열 독립 전사 대조로 濕熬→濕熱, 外龑→外襲 2건 교정. [id]/[dzb]/[s] 구조는 내용 보존 변환, 원자료 표점 충분"
+    },
+    "O/O121.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 25자리 전수 판정: 모두 문단 들여쓰기용 판면 공백. □·�·HT·KT 및 깨진 태그 없음. jicheng 최신 전문과 CJK 문자 배열 100% 일치하고 Wikisource 및 《吳天士醫話醫案集》 서지를 교차 확인, 원자료 표점 충분"
+    },
+    "B/B006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 33자리 전부 결자 자리로 복원. HT 1/KT 4 및 痓·啘·䘌·瘈瘲·瞤·憹·潠·眴·暍·漐漐·裛·惵·銍·㾬 등 희귀자와 OCR·자동변환 오기 전수 복원. 하버드 옌칭 스캔 계열 전문 대조, 원자료 표점 충분"
+    },
+    "F/F027.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 중醫寶典 독립 전사를 대조해 명백한 OCR 오기 10곳(9개 규칙)을 교정. 전각 공백 195곳은 처방 약미 구분과 저자 표시를 위한 의도적 레이아웃으로 보존. 원자료 표점 충분"
+    },
+    "F/F023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 65자리 전수 판정: 煿·胻·疿·慓·熯 등 결자 5자리 복원, 나머지 60자리는 처방 판면 구분. 獖 등 비공백 결락과 OCR·자동변환 오기도 전문 복원, 원자료 표점 충분"
+    },
+    "O/O087.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "최신 jicheng 《諸脈主病詩》와 Wikisource·古書網의 乾隆三十九年甲午刻本 계통 전사를 대조해 잘못된 서명·저자·시대 및 결락자·OCR 오기·표점을 전문 교정. 전각 공백 17곳 중 결락 10곳 복원, 부록 항목 레이아웃 7곳 보존"
+    },
+    "J/J003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 684자리와 본문 전체를 jicheng 최신 전문 및 Wikisource 독립 전사로 대조. 공백은 처방 약미·용량 구분 판면을 보존하고, 공백 주변에 소실된 처방 구성·치법·용량과 耆·煅·羌·藁·薟 등 결락자를 전문 재구성했으며 OCR·자동변환 자형도 교정. placeholder 0, 원자료 표점 충분"
+    },
+    "N/N005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 21자리는 처방 약미 구분 조판 공백으로 최신 문단 구조에 맞춰 재배치. jicheng 최신 전문과 Wikisource 독립 전사를 대조해 黃耆·瘛瘲·紝·臁·荍·㕮·眥·瘜·齘·菾·䗪·猘·癧 등 결락·희귀자, 補中升氣湯 설명 탈락, 香港腳 자동번역 잔재 및 OCR 자형을 전문 교정. [u] 1쌍 제거 후 내용 보존, placeholder 0"
+    },
+    "G/G002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 NCL 咸豐五年 海昌鄒淦手鈔本 및 NTUL 《珍本醫書集成》 영인을 대조해 결락자·OCR·구절 경계를 전문 교정하고 저자·시대·저본 서지를 바로잡음. 전각 공백 193곳 중 결락·불필요 분절 27곳 복원·정규화, 처방 약미 구분 166곳 보존"
+    },
+    "L/L111.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 41자리 전수 판정: 槤 3곳·痓·耆 2곳·煅·水 등 결자 8자리 복원, 처방 약물 구분 33자리 보존 계통 확인. jicheng 최신 전문과 전역 대조해 연속 탈락 구절과 OCR 오기를 전문 복원, [u]는 <ins> 변환 대상으로 보존, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "G/G030.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 Wikisource·古代文獻藏書 공개 전사를 대조해 처방 행 구분·결락자·OCR 오기를 전문 교정. 원자료 전각 공백 759곳 중 결락·분절 6곳 복원·정규화, 약미 구분 753곳 보존. 제9문 原缺·제30문 原刪은 저본 자체의 명시적 결락으로 보존하며 미해결 OCR 후보에서 제외"
+    },
+    "J/J011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 20자리 전수 판정: 𭽬·胬·呴·𢵡·癀·耆 등 결자 6자리, 처방 조판 10자리, HT 결합 희귀자 𪅂 2곳·𤻎·䂱 4곳을 복원. jicheng 최신 전문과 전역 대조해 OCR·자동변환 오기까지 전문 교정, HT/KT/□/U+FFFD/[u] 잔존 0, 원자료 표점 충분"
+    },
+    "L/L100.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 221자리 전수 판정: 판면 공백 188자리 보존, 결락·깨진 토큰 33자리 복원. HT·희귀자·OCR 오기·[u] 마크업을 최신 jicheng 전문과 독립 전사·영인 서지로 교정; 원자료 표점 충분"
+    },
+    "L/L107.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 352자리 전수 판정: 疱 2·隲 2·煅 10·桕 2·𤷍·䘌·乂·癧 등 결자 20자리, 처방 약물 구분 조판 332자리. jicheng 최신 전문과 전역 대조해 OCR·자동변환 오기 복원, [u]/[i]는 의미 보존 변환, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "N/N047.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 23자리 전수 판정: 嶔 2·耆 2·糲·溻·憹·煅·槩 등 결자 9자리, 판면·문장 구분 14자리. jicheng 최신 전문과 전역 대조해 湯/東 자동변환 및 OCR 오기를 복원, [u]는 의미 보존 변환, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "G/G010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 730자리 전수 판정: 黃耆의 耆 결자 8자리 복원, 처방·분량 조판 722자리 보존 계통 확인. jicheng 최신 전문과 Wikisource·中醫寶典을 대조해 비공백 절단 19군 및 OCR·자동변환 오기를 전문 복원, HT/KT/□/U+FFFD/[u] 잔존 0"
+    },
+    "O/O118.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·□·HT/KT·U+FFFD·[u] 없음. jicheng 최신 전문과 CText 독립 전사·명대 영인 계통을 전문 대조하여 OCR 오기 40곳(曰 오인식, 결락·파손 문자열 포함)을 복원; 원자료 표점 충분"
+    },
+    "C/C029.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 57자리 전수 판정: 耆·煅·痃·茴·喎·枲·胬·蝟·澼·癧·䘌·薢·瘜·憹 등 결자 및 연속 주석 탈락 관련 56자리 복원, 판면 공백 1자리. 동일 저자 《壽世保元》 권1 최신 전문과 대조해 광범위한 괄호 주석 절단·OCR·자동변환 오기를 전문 복원, HT/KT/□/U+FFFD/[u] 잔존 0"
+    },
+    "O/O057.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 238자리 전수 판정: 처방 약미 구분 229자리 보존, 결락 9자리 복원. jicheng 文淵閣본과 Kanripo·Wikisource·CText 전문 대조로 황耆·萆薢·肝腧 등 결락과 OCR·문장 경계를 전문 교정; □/HT/KT/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "C/C001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "본문 전각 공백 36자리 전부 결자 자리로 판정해 墡·藭·蕑·䕔·醜·蓂·䖀·薢·蔰·苨·萹·𦳚·阯·鬼歺·夌·蒭·肬·蟫·蕡 등 희귀자를 복원. jicheng 최신 전문과 원문 자체의 《太平御覽》 등 인용 출전을 대조해 OCR·이체자·표점을 전문 교정, [u] 인용표식 보존, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "O/O027.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 27자리 전수 판정: 呬·脝·慆·槖籥·汩·齶·腧 등 결자·연속 탈락 18자리 복원, 세안 날짜 조판 9자리 보존 계통 확인. jicheng 최신 전문과 양생가결 전승문을 대조해 OCR·자동변환 오기를 전문 교정, [u] 표식 보존, HT/KT/□/U+FFFD 잔존 0"
+    },
+    "M/M101.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 663자리 전수 판정: 四言舉要 운문 구분 및 조판 658자리 보존, 결락 5자리 복원. [c]khuc[/c] 자동전사 잔재를 㿗로 복원하고 疴·胻·閟·橐籥·瘛瘲 등 결락/OCR을 최신 jicheng과 Wikisource·NCL·CText로 전문 교정; □/HT/KT/U+FFFD/[c] 잔존 0, 원자료 표점 충분"
+    },
+    "D/D045.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 52자리는 최신 전문 전역 교체로 결자·주석 절단을 복원하고 처방 조판 계통을 확인. 서명 이체자 彙編 URL의 jicheng 최신 전문과 동일 저자 《退思集類方歌註》를 대조해 광범위한 연속 탈락·OCR·자동변환 오기를 전문 복원, HT/KT/□/U+FFFD/[u] 잔존 0"
+    },
+    "C/C028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 52자리 전수 판정(결자·깨진 토큰 22자리, 조판 30자리). jicheng 최신 전문·Wikisource 독립 전사·Berkeley 영인본 대조 및 Codex 표점 검증 완료"
+    },
+    "L/L110.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 127자리 전수 판정(결자·깨진 토큰 32자리, 조판 95자리). jicheng 최신 전문·Wikisource 독립 전문 대조 및 Codex 표점 검증 완료"
+    },
+    "M/M114.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 44자리 전수 판정(결자·깨진 토큰 26자리, 조판 18자리). jicheng 최신 전문과 공개 영인본 계통·독립 목차 대조 및 Codex 표점 검증 완료"
+    },
+    "F/F028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 175자리는 처방 약물·용량 구분용 조판으로 전수 판정. 《傷寒六書》 동계 병증문과 방제 원전을 대조해 致·羌活·則·陰厥先厥·自熱·白朮·四君子湯 등 OCR/결락 10건 교정, HT/KT/□/U+FFFD/[u] 잔존 0, 원자료 표점 충분"
+    },
+    "N/N067.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 14곳은 조판 공백으로 보존. jicheng·Wikisource 대조로 [c]kytr[/c]와 조자식 잔재를 㾦로, 깨진 서명 괄호를 교정; 원문 분량 보존"
+    },
+    "J/J004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 536곳 전수 대조, 처방 조판 공백 보존. jicheng 1891년 전문과 독립 전문·서지로 결락/OCR·문장 경계 교정"
+    },
+    "L/L103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 91곳 전수 판정: 결락·깨진 토큰 12곳 복원, 조판 79곳 보존. 최신 전문과 독립 전사 대조, placeholder 잔존 0"
+    },
+    "I/I007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 352곳 전수 판정: 결락·깨진 토큰 11곳 복원, 처방 조판 341곳 보존. 저자 朱世杰 오기를 程國彭으로 바로잡고 《醫學心悟》권6 영인 대조, placeholder 잔존 0"
+    },
+    "L/L001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 165자리 전수 판정: 歔·煅·胬·鋡·耆 등 결자 11자리, 처방 조판 154자리. jicheng 최신 전문 대조로 OCR·자동변환 오기 전문 복원, [u] 보존, HT/KT/□/U+FFFD 잔존0"
+    },
+    "F/F026.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·□·HT/KT·U+FFFD/[u] 없음. jicheng 최신 전문과 대조해 반복 탈락한 㕮 17곳 및 㗜·㪷 희귀자와 OCR·표점을 전문 복원, 원자료 표점 충분"
+    },
+    "O/O030.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 37자리 전수 판정: 眥·胲·癥·癧·祐·絜·覙 등 결자·연속탈락 35자리 복원, 판면 2자리. jicheng 최신 전문·도가 인용 대조, [u] 보존, 잔존 placeholder 0"
+    },
+    "K/K100.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 98자리 전수 판정: 疴·腨·喎·髃·躄·䯒·窔·㿗·眥·䀮·癧·藭·痃 등 결자/깨진토큰 42자리, 처방·도해 조판 56자리. HT1/KT3 포함 전문 복원, [u] 보존, 잔존 placeholder0"
+    },
+    "M/M001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 26곳 전수 정규화, jicheng 최신 전문과 CText 영인 대조 전문 교정, placeholder 잔존 0"
+    },
+    "M/M115.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 및 placeholder 없음, jicheng 최신 전문과 Wikisource 독립 전사 대조 전문 교정"
+    },
+    "N/N043.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 368곳 중 2곳 정규화·366곳 처방 조판 보존, jicheng·Wikisource 전문 대조"
+    },
+    "B/B011a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "원자료 전각 공백 52곳 전수 판정 및 최신판 처방 조판 253곳 보충, Harvard 1601년 영인·Wikisource·CText 대조 전문 교정"
+    },
+    "I/I203.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 576자리 전수 판정: 결자·오염 후보 8자리 복원/정리, 판면·약물 구분 공백 568자리. jicheng 최신 전문과 독립 전사·영인본 대조 및 Codex 표점 검증 완료"
+    },
+    "J/J012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 860자리 전수 판정: 결자·오염 후보 21자리 복원/정리, 판면·약물 구분 공백 839자리. jicheng 최신 전문과 독립 전사·영인본 대조 및 Codex 표점 검증 완료"
+    },
+    "G/G020.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 423자리 전수 판정: 결자·오염 후보 19자리 복원/정리, 판면·약물 구분 공백 404자리. jicheng 최신 전문과 독립 전사·영인본 대조 및 Codex 표점 검증 완료"
+    },
+    "G/G047.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 118자리 전수 판정: 결자·오염 후보 0자리 복원/정리, 판면·약물 구분 공백 118자리. jicheng 최신 전문과 독립 전사·영인본 대조 및 Codex 표점 검증 완료"
+    },
+    "D/D035.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 38자리 전수 판정: 결자·오염 후보 26자리 복원/정리, 판면 공백 12자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "N/N031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 16자리 전수 판정: 결자·오염 후보 15자리 복원/정리, 판면 공백 1자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "L/L104.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 31자리 전수 판정: 결자·오염 후보 31자리 복원/정리, 판면 공백 0자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O105.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 211자리 전수 판정: 결자·오염 후보 114자리 복원/정리, 판면 공백 97자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O055.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 154곳 중 45곳 정규화·109곳 조판 보존, jicheng·CText 영인·識典古籍·中醫世家 전문 대조로 결락과 OCR 오기 교정"
+    },
+    "M/M201.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 383곳 중 3곳 정규화·380곳 조판 보존, jicheng 현행 전문과 의학사 연구 자료 대조 전문 교정"
+    },
+    "N/N025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1847곳 중 7곳 정규화·1840곳 조판 보존, jicheng 현행 전문과 독립 서지·전사 자료 대조 전문 교정"
+    },
+    "D/D074.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 및 placeholder 없음, jicheng 현행 전문과 NCL 1583刊本·Kanripo 文淵閣본 대조 전문 교정"
+    },
+    "J/J008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 774곳 전수 대조, 결자·깨진 토큰·탈락 구간 복원. jicheng 최신 전문과 Wikisource·공개 영인 자료 교차 대조"
+    },
+    "L/L101.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 433곳과 HT 11곳 전수 대조 및 복원. jicheng 최신 전문과 Wikisource 독립 전사 교차 대조"
+    },
+    "A/A500.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 4곳 전수 대조. 출토 죽간·백서의 판독 불능 결락 2192자는 임의 보충하지 않고 〔闕〕로 명시; 최신 정리본과 Wikisource 각 편 독립 전사 대조"
+    },
+    "H/H024.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 478곳 전수 대조, OCR 오기와 결자 복원. jicheng 최신 전문과 공개 전자판·서지 자료 교차 대조"
+    },
+    "I/I015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 788곳 및 HT 6곳 전수 대조·복원. jicheng 최신 전문과 공개 전자판·서지 자료 교차 대조"
+    },
+    "B/B011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 319곳 전수 대조. jicheng 최신 전문과 Wikisource·CText 독립 전사/영인 연결본 교차 대조"
+    },
+    "J/J002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 2046곳 전수 대조. jicheng 최신 전문과 Wikimedia 공개 영인본·Bunkankun 서지 교차 대조"
+    },
+    "N/N021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 41곳 전수 대조. jicheng 최신 전문과 Wikisource·CText 독립 전사/영인 연결본 교차 대조"
+    },
+    "K/K016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 125자리 전수 판정: 결자·오염 후보 70자리 복원/정리, 판면 공백 55자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "K/K102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 263자리 전수 판정: 결자·오염 후보 66자리 복원/정리, 판면 공백 197자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "D/D000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 492자리 전수 판정: 결자·오염 후보 478자리 복원/정리, 판면 공백 14자리. 최신 전문과 독립 전사·영인 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 21곳 정규화, jicheng·中華典藏 독립 전사·도교학 연구 인용 대조로 HT 및 결자·OCR 오기 전문 교정"
+    },
+    "L/L106.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 582곳 조판 보존. jicheng·CText 北京大學/CADAL 영인·Wikisource 및 병행문 대조로 肺·脈細·六 등 확정 복원; 영인 자체 훼손 12자는 〔原缺…字〕로 명시 보존, placeholder 0"
+    },
+    "J/J017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 73곳 정규화, jicheng·北京大學 영인·CText 독립 자료 대조로 HT 및 결자·OCR 오기 전문 교정"
+    },
+    "O/O117.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 101곳 전수 판정. 결자·깨진 토큰 없음; 현행 jicheng OCR 열화 구간은 원자료 독법을 유지하고 Wikisource 독립 전사로 대조"
+    },
+    "N/N019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 514곳 전수 대조. jicheng 최신 북경대도서관 스캔 저본 전문과 Wikimedia 공개 영인본 교차 대조"
+    },
+    "N/N030.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 1095곳 전수 대조. jicheng 최신 전문과 Google Books 전자판·현대 정리본 서지 교차 대조"
+    },
+    "C/C049.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 83곳, HT 3곳, KT 1곳 전수 대조·복원. jicheng 최신 전문과 Wikisource·CText·공개 교감 PDF 교차 대조"
+    },
+    "O/O095.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 50곳 중 19곳 정규화·31곳 조판 보존. jicheng·Wikisource·臺大 영인 서지 대조로 HT·결자·OCR 오기 전문 교정"
+    },
+    "M/M000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 84곳 정규화. jicheng 최신 전문·CText 周氏醫學叢書본·國家圖書館 영인 대조로 누락 문단·OCR 오기 전문 교정"
+    },
+    "P/P0005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 29곳 정규화. jicheng·香港中文大學 1892石印本·Kanripo 文淵閣본·古書網 전사 대조로 이체자·OCR 오기 전문 교정"
+    },
+    "B/B030.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 31곳 정규화. jicheng·Wikisource·中醫世家·北京大學 영인 대조로 HT/KT 6곳 및 결락·OCR 오기 전문 교정"
+    },
+    "I/I301.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1028자리 전수 판정: 결자·오염 후보 0자리 복원/정리, 판면·조문 구분 공백 1028자리. 공개 전문과 독립 전사 대조 및 표점 검증 완료"
+    },
+    "G/G021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 679자리 전수 판정: 결자·오염 후보 26자리 복원/정리, 판면·조문 구분 공백 653자리. 공개 전문과 독립 전사 대조 및 표점 검증 완료"
+    },
+    "J/J004a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 2019자리 전수 판정: 결자·오염 후보 0자리 복원/정리, 판면·조문 구분 공백 2019자리. 공개 전문과 독립 전사 대조 및 표점 검증 완료"
+    },
+    "G/G012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 404자리 전수 판정: 결자·오염 후보 33자리 복원/정리, 판면·조문 구분 공백 371자리. 공개 전문과 독립 전사 대조 및 표점 검증 완료"
+    },
+    "C/C030.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "전각 공백 2599곳·KT 22곳 전수 대조·복원; jicheng 최신 전문과 본초강목 공개 영인·디지털 소장 자료 교차 대조"
+    },
+    "F/F012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 211곳·KT 1곳 전수 대조·복원; jicheng 최신 전문과 CText 영인 연결 전사·정리본 서지 대조"
+    },
+    "N/N074.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 9곳·□ 29곳 전수 대조; 22곳 복원, 판독 불능 7곳은 〔闕〕로 명시. 최신 전문과 공개 서지 대조"
+    },
+    "O/O013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 375곳 전수 대조; jicheng 최신 전문과 CText 독립 전사 교차 대조"
+    },
+    "M/M006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 46자리 전수 판정: 결자·오염 후보 43자리 복원/정리, 판면 공백 3자리. jicheng 최신 전문과 독립 전사·서지 대조 및 Codex 표점 검증 완료"
+    },
+    "N/N037.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 1446자리 전수 판정: 결자·오염 후보 25자리 복원/정리, 판면 공백 1421자리. jicheng 최신 전문과 독립 전사·서지 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O079.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 2334자리 전수 판정: 결자·오염 후보 21자리 복원/정리, 판면 공백 2313자리. jicheng 최신 전문과 독립 전사·서지 대조 및 Codex 표점 검증 완료"
+    },
+    "E/E013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 549자리 전수 판정: 결자·오염 후보 10자리 복원/정리, 판면 공백 539자리. jicheng 최신 전문과 독립 전사·서지 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O120.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 원자료 제요를 결합 대조해 OCR 오기·자동전사 잔재 교정. 전각 공백 86곳은 처방 조판 보존, [u] 의미 표지 검증, 원자료 표점 충분"
+    },
+    "N/N040.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1788곳은 처방 약물·용량 조판 공백으로 판정. jicheng·Wikisource·CText 계통본 대조로 毒瓦斯 등 자동번역 잔재와 OCR 오기 교정, [u] 의미 표지 검증"
+    },
+    "N/N039.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 30곳 정규화. jicheng 최신 전문과 서지·학술 인용 대조로 제목·결락·OCR 오기 전문 교정, 원자료 표점 충분"
+    },
+    "D/D060.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 733곳·KT 2곳 전수 대조·복원 및 탈락 전문 보충. jicheng 최신 전문과 Wikisource 독립 전사 교차 대조"
+    },
+    "N/N050.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 26곳 전수 대조·복원. jicheng 최신 전문과 UC Berkeley 공개 영인본·학술 인용 교차 대조"
+    },
+    "H/H027.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 716곳은 약물·용량 조판 공백으로 판정. HT/KT/□/U+FFFD 없음, [u] 의미 표지 검증. Wikisource 독립 전사와 전문 대조, 원자료 표점 충분"
+    },
+    "B/B042.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 54곳 중 39곳 정규화·15곳 조판 보존. jicheng 최신 전문과 臺大 영인 저본 대조로 결자·OCR 오기 전문 교정, [u] 검증"
+    },
+    "F/F008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 23곳 중 22곳 정규화·1곳 조판 보존. jicheng 최신 전문·Wikisource·北京大學 영인 대조로 결락·OCR 오기 전문 교정, [u] 검증"
+    },
+    "I/I204.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 570자리 전수 판정: 결자·오염 후보 74자리 복원/정리, 판면 공백 496자리. jicheng 최신 전문과 독립 전사·영인·인용 대조 및 Codex 표점 검증 완료"
+    },
+    "M/M102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 66자리 전수 판정: 결자·오염 후보 65자리 복원/정리, 판면 공백 1자리. jicheng 최신 전문과 독립 전사·영인·인용 대조 및 Codex 표점 검증 완료"
+    },
+    "G/G025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 749자리 전수 판정: 결자·오염 후보 38자리 복원/정리, 판면 공백 711자리. jicheng 최신 전문과 독립 전사·영인·인용 대조 및 Codex 표점 검증 완료"
+    },
+    "G/G028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 2130자리 전수 판정: 결자·오염 후보 26자리 복원/정리, 판면 공백 2104자리. jicheng 최신 전문과 독립 전사·영인·인용 대조 및 Codex 표점 검증 완료"
+    },
+    "H/H008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 627곳 중 56곳 정규화·571곳 처방 조판 보존. jicheng·Wikisource·國家圖書館明嘉靖刊本 대조로 전문 교정, [u] 검증"
+    },
+    "L/L006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 723곳 중 24곳 정규화·699곳 처방 조판 보존. jicheng·SOAS 1811刻本 서지 대조로 毒瓦斯 등 자동번역 잔재·결자 전문 교정, [u] 검증"
+    },
+    "B/B031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 137곳 중 14곳 정규화·123곳 조판 보존. jicheng·國立公文書館 영인 대조로 결락·OCR 오기 전문 교정, [u] 검증"
+    },
+    "C/C104.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 279곳은 약물·炮炙法 조판 공백으로 판정. HT/KT/□/U+FFFD/[u] 없음, 공개 계통 전사 대조, 원자료 표점 충분"
+    },
+    "C/C000b.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "깨진 토큰·전각 공백 없음. jicheng 최신 전문과 Wikisource 孫星衍本·CText·와세다 영인 교차 대조"
+    },
+    "K/K002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1600곳·HT 2곳·KT 4곳·□ 2곳 전수 대조·복원. jicheng 최신 전문과 CText·CiNii·독립 침구 문헌 대조"
+    },
+    "J/J001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 418자리 전수 판정: 결자·오염 후보 85자리 복원/정리, 판면 공백 333자리. jicheng 최신 전문과 維基문헌 전문 대조 및 Codex 표점 검증 완료"
+    },
+    "I/I012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 1613자리 전수 판정: 결자·오염 후보 76자리 복원/정리, 판면 공백 1537자리. jicheng 최신 전문과 中醫世家·雲端中醫 공개 전문 대조 및 Codex 표점 검증 완료"
+    },
+    "I/I300.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 1383자리 전수 판정: 결자·오염 후보 276자리 복원/정리, 판면 공백 1107자리. jicheng 최신 전문과 維基문헌·中國哲學書電子化計劃 및 국가도서관 영인 대조 및 Codex 표점 검증 완료"
+    },
+    "K/K019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 48자리 전수 판정: 결자·오염 후보 48자리 복원/정리, 판면 공백 0자리. jicheng 최신 전문과 《巢氏諸病源候總論》 국가도서관 영인 대조 및 Codex 표점 검증 완료"
+    },
+    "F/F011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 185곳 전수 판정 후 jicheng 전문으로 결자·탈락·OCR 오기 복원; 최신본 처방 조판 공백 218곳 보존. 공개 독립 전사 대조, 원자료 표점 충분"
+    },
+    "N/N069.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 8곳 조판 보존. [c]klmc[/c] 2곳을 문맥·의서 용례로 癃疝·疝者 복원, jicheng·三三醫書 계통 대조, 원자료 표점 충분"
+    },
+    "F/F009a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 없음. jicheng CM027 정리본·CText 계통 전사 대조로 [c] 전사 잔재와 OCR 오기를 전문 교정, 원자료 표점 충분"
+    },
+    "O/O012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 868곳 중 26곳 정규화·842곳 조판 보존. jicheng 최신 전문으로 HT/KT 결자 전수 복원하고 [i] 이미지 경로 잔재 제거, 공개 침구 병행문 대조 Codex 문자보존 표점 86청크·3574개 표점 검증 완료."
+    },
+    "N/N057.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 23곳·HT 1곳·[u] 3곳 전수 판정. jicheng 최신 전문과 Wikisource 독립 전사 대조로 결자·OCR 오기 전문 교정, 원자료 표점 충분"
+    },
+    "N/N029.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 65곳·[u] 20곳 전수 판정. jicheng 최신 전문과 Wikisource 독립 전사 대조로 결자·OCR 오기 전문 교정, 원자료 표점 충분"
+    },
+    "G/G032.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 915곳·HT 1곳·□ 8곳·[u] 157곳 전수 판정. jicheng 최신 전문과 공개 서지 대조로 결자·OCR 오기를 교정하고 판본상 미상 8자는 〔闕〕로 명시, 원자료 표점 충분"
+    },
+    "L/L105.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 540곳·HT 4곳·[u] 80곳·[i] 2곳 전수 판정. jicheng 최신 전문과 공개 서지 대조로 결자·OCR 오기를 교정하고 그림 2곳을 설명 표지로 보존, 원자료 표점 충분"
+    },
+    "F/F021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 928자리 전수 판정: 결자·오염 후보 66자리 복원/정리, 판면 공백 862자리. jicheng 최신 전문과 위키문헌 및 일본 국립공문서관 江戶抄本 영인 대조 및 Codex 표점 검증 완료"
+    },
+    "I/I205.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 107자리 전수 판정: 결자·오염 후보 31자리 복원/정리, 판면 공백 76자리. jicheng 최신 전문과 中國哲學書電子化計劃 공개 전사 대조 및 Codex 표점 검증 완료"
+    },
+    "A/A102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 640자리 전수 판정: 결자·오염 후보 302자리 복원/정리, 판면 공백 338자리. jicheng 최신 전문과 공개 서지·경맥 원전 대조 자료 대조 및 Codex 표점 검증 완료"
+    },
+    "O/O010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "전각 공백 213자리 전수 판정: 결자·오염 후보 208자리 복원/정리, 판면 공백 5자리. jicheng 최신 전문과 위키문헌 및 공개 전문 대조 및 Codex 표점 검증 완료"
+    },
+    "K/K014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 277곳 중 55곳 정규화, 최신 전문 조판 공백 223곳 보존. jicheng 文淵閣/Kanripo본 대조로 KT·□·이미지 경로 잔재 전문 교정, [u] 검증"
+    },
+    "B/B004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 57곳 정규화. jicheng·Wikisource·CText·北京大學 영인 대조로 KT 결자·OCR 오기 전문 교정, 원자료 표점 충분"
+    },
+    "G/G007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 289곳 중 26곳 정규화·263곳 처방 조판 보존. jicheng 1896刊本 계통 전사 대조로 HT·OCR 오기 전문 교정, ASCII 표점 간격 보정"
+    },
+    "L/L112.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 414곳 중 38곳 정규화·376곳 처방 조판 보존. jicheng·공개 喉科 계통 전사 대조로 HT 결자·OCR 오기 전문 교정, ASCII 표점 간격 보정"
+    },
+    "G/G037.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 493곳·HT 1곳·[u] 81곳 전수 판정. jicheng Google Books 스캔 정리본과 CText OCR·학술 인용 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+    },
+    "F/F013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 411곳·HT 1곳·KT 2곳·[u] 2곳 전수 판정. jicheng 北京大學圖書館 스캔 정리본과 저자·총서 서지 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+    },
+    "F/F009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 352곳·HT 3곳·[u] 1곳 전수 판정. jicheng 國家圖書館 明萬曆刊本과 Wikisource·CText 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+    },
+    "I/I017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 545곳·HT 5곳·[u] 2곳 전수 판정. jicheng 正統道藏本과 CText·識典古籍·학술 논문 대조로 결자·OCR 오기·탈락 교정, 원자료 표점 충분"
+    },
+    "A/A008a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문으로 누락된 서문을 복원하고 [c] 깨진 토큰 8쌍을 실제 문자로 교감. 전각 공백 0, 미해결 0."
+    },
+    "P/P0004.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 27자리와 KT 4개를 jicheng·한籍 공개본으로 전수 복원. [i] 1쌍의 본문 의미를 보존, 미해결 0."
+    },
+    "O/O018.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 31자리(결락·깨진 토큰 4, 조판 27)와 HT 4개를 Wikisource·공개 PDF로 대조. [u] 14쌍·[i] 1쌍 보존, 미해결 0."
+    },
+    "G/G042.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "깨진 토큰과 전각 공백 없음. jicheng과 Wikisource 독립 전사를 전문 대조하고 문자·표점 정규화, 미해결 0."
+    },
+    "K/K103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 211곳·HT 1곳·KT 32곳·□ 1곳·[i] 도판 19곳 전수 판정. jicheng 國家圖書館 明刊本·四庫本과 국가도서관 서지 대조로 결자·OCR·탈락 복원 및 도판 표지 보존, 원자료 표점 충분"
+    },
+    "O/O109.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "[c] 깨진 토큰 37곳 전수 판정. jicheng 北京大學圖書館 스캔 정리본과 CText 영인본 대조로 희귀자·OCR·탈락 복원, 저자 李杲와 1315년 서지 보정, 원자료 표점 충분"
+    },
+    "C/C044.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 434곳·[c] 깨진 토큰 5곳 전수 판정. jicheng 美國國會圖書館·四庫 스캔 정리본과 CText·識典古籍 대조로 희귀자·OCR·탈락 복원, 원자료 표점 충분"
+    },
+    "N/N028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 87곳·[u] 2곳 전수 판정. jicheng 최신 전문과 中醫世家 독립 전문 대조로 OCR 오기·탈락 교정, 1849년 서지 보정, 원자료 표점 충분"
+    },
+    "C/C100.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 101자리(깨진 KT 관련 16, 조판 85)와 KT 16개를 jicheng·Wikisource로 복원. 미해결 0."
+    },
+    "H/H001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1,415자리(깨진 KT 관련 1, 약물·용량 조판 1,414)와 KT 1개 복원. [u] 189쌍 보존, 미해결 0."
+    },
+    "N/N055.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 79자리(깨진 KT 관련 2, 조판 77)와 KT 2개 복원. [u] 1쌍 보존, 미해결 0."
+    },
+    "O/O011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 171자리(HT/KT 관련 9, 조판 162), HT 7·KT 2 복원. [u] 24쌍·[i] 이미지 참조 31쌍 보존, 미해결 0."
+    },
+    "P/P0010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 944곳 전수 판정: 현행 전문 반영 후 900곳은 조판 공백으로 보존하고 44곳의 결자·불필요 공백을 복원·정규화. [u]/[i] 원시 태그와 이미지 경로 잔재 제거, jicheng·四庫·1892 석인본 계통 대조, 원자료 표점 충분"
+    },
+    "L/L109.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 944곳 전수 판정: 918곳 조판 공백 보존, 26곳 결자·불필요 공백 복원·정규화. [u]/[i] 원시 태그와 이미지 경로 잔재 제거, jicheng·Wikisource·1868 판본 서지 대조, 원자료 표점 충분"
+    },
+    "O/O005a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 없음. [c] 깨진 표지 23쌍을 현행 전문으로 전수 복원하고 jicheng·독립 서지 전사 대조 완료, 원자료 표점 충분"
+    },
+    "O/O083a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "[c] 깨진 토큰 2곳 전수 판정. jicheng CM033 정리본과 CText·CADAL 영인 대조로 희귀자·OCR·탈락 교정, 1347년 서지 보정, 원자료 표점 충분"
+    },
+    "O/O001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 234곳·[u] 45곳·[i] 도판 16곳 전수 판정. jicheng 北京大學圖書館 스캔본과 Wikisource·독립 영인본 대조로 OCR·탈락 교정 및 도판 16곳 순서 보존, 원자료 표점 충분"
+    },
+    "D/D017.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 604곳·[u] 4곳 전수 판정. jicheng 四庫文淵閣本과 CText 墨海金壺本·識典古籍 대조로 결자·OCR·탈락 교정, 원자료 표점 충분"
+    },
+    "O/O083.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 41곳·HT 1곳 전수 판정. jicheng 國家圖書館 日本鈔本·四庫本과 NDL·CText 대조로 결자·OCR·탈락 교정, 1347년 서지 보정, 원자료 표점 충분"
+    },
+    "N/N035.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백49 조판 판정, [u]1쌍 보존, 미해결0."
+    },
+    "K/K007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각854(깨진 토큰10/조판844), HT8·KT2 복원, [u]22쌍·[i]도판54쌍 보존, 미해결0."
+    },
+    "O/O085.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각58(결락1/조판57), KT1 복원, [u]2쌍 보존, 미해결0."
+    },
+    "N/N042.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각1967 전부 처방·용량 조판 판정, 깨진 토큰 없음, 미해결0."
+    },
+    "D/D013.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 574곳 전수 판정: 최신 전문 반영 후 조판 공백 513곳 보존, 61곳 결자·불필요 공백 복원. KT 5곳과 □ 3곳은 독립 전사 및 원각의 의도적 두식 설명에 따라 복원·명시, [u] 태그 제거. 원자료 표점 충분"
+    },
+    "G/G024.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1021곳 전수 판정: 조판 공백 1011곳 보존, 10곳 결자·불필요 공백 복원. [u] 138쌍 제거, jicheng 최신 전문·Wikisource·CText 영인 계통 전수 대조. 원자료 표점 충분"
+    },
+    "N/N065.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "원자료 전각 공백·깨진 토큰 없음. jicheng 최신 전문과 1855년 계통 148쪽 공개 영인본 및 Wikisource 전사를 전수 대조해 전문 교정, 원자료 표점 충분"
+    },
+    "O/O113.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 236곳 전수 판정·보존. [c] 2쌍은 熙熙로 복원하고 BR/인코딩 붕괴 3개 구간을 국가도서관 영인본·Wikisource·jicheng 전문으로 복원. HT/KT/□/U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "I/I104.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 864곳·[u] 111곳 전수 판정. jicheng 國家圖書館 日本承應三年刊本과 국가도서관 서지·학술 인용 대조로 결자·OCR·탈락 전문 교정, 원자료 표점 충분"
+    },
+    "G/G015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1124곳·[u] 1곳 전수 판정. jicheng 최신 전문과 Wikisource·中醫世家 대조로 OCR·탈락 교정, 오류 연도 범위를 1771년으로 보정, 원자료 표점 충분"
+    },
+    "G/G027.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 428곳·HT 1곳·KT 1곳·[u] 5곳·[i] 도판 1곳 전수 판정. jicheng 北京大學圖書館 스캔본과 Wikisource·CText·CADAL 영인 대조로 결자·OCR·탈락 교정 및 도판 보존, 원자료 표점 충분"
+    },
+    "P/P0014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 807곳·HT 1곳·[u] 224곳·[i] 도판 27곳 전수 판정. jicheng 五彩書局·四庫 계통과 Wikisource·CText·識典古籍 대조로 결자·OCR·탈락 교정 및 도판 27곳 보존, 원자료 표점 충분"
+    },
+    "O/O005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 286곳 전수 판정: 2곳 조판 공백 보존, 284곳 결자·이미지 경로·편집 잔재 정규화. HT 3·KT 2·[u] 5쌍·[i] 14쌍 제거 및 衺·䀮 등 희귀자 복원, 원자료 표점 충분"
+    },
+    "O/O081.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 119곳 전수 판정: 최신 전문에서 12곳 보존, 107곳 결자·불필요 공백 복원. HT 30·KT 2·[u] 1쌍을 원각·독립 영인 전사로 전수 복원, 원자료 표점 충분"
+    },
+    "J/J014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1317곳 전수 판정: 1305곳 조판 공백 보존, 12곳 결자 정규화. HT 1·KT 9·[u] 2쌍을 최신 전문과 1852년 판본 서지·독립 전사로 복원, 원자료 표점 충분"
+    },
+    "P/P0010a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각3418 전부 처방·도판 조판, 장본 추가 내용 보존, 미해결0."
+    },
+    "E/E020.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각236 조판 판정, [u]52·[i]도판4 보존, 미해결0."
+    },
+    "N/N056.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각203(결락2/조판201), KT2 복원, [u]3 보존, 미해결0."
+    },
+    "D/D076.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각828(결락5/조판823), □5와 [c]11 복원, 장본 추가 내용 보존, 미해결0."
+    },
+    "O/O094.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1212곳 전수 판정: 1193곳 조판 공백 보존, 19곳 복원·정규화. HT 1·[u] 145쌍을 jicheng 최신 전문과 Wikisource/CText로 전수 복원, 원자료 표점 충분"
+    },
+    "O/O001a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 128곳 전수 판정 및 최신 전문으로 174곳의 구조 공백 재배치. jicheng 북경대 스캔 계통·1830년 도광본 영인·Wikisource를 전문 대조, 깨진 토큰 없음, 원자료 표점 충분"
+    },
+    "I/I303.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 687곳 전수 판정: 665곳 조판 공백 보존, 22곳 복원·정규화. HT 1·[u] 94쌍을 jicheng 최신 전문과 국가중의약박물관 서지로 전수 복원, 원자료 표점 충분"
+    },
+    "B/B108a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각0, [c] 깨진 표지9쌍 실제 문자 복원, 미해결0."
+    },
+    "O/O022.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각798(결락1/조판797), HT1 복원, [u]54·[i]도판18 보존, 미해결0."
+    },
+    "B/B028.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각36(결락8/조판28), KT8 복원, [u]2 보존, 미해결0."
+    },
+    "B/B108.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각556(결락3/조판553), KT3 복원, 미해결0."
+    },
+    "N/N049.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 판본/전사를 대조한 전체 교감. 잔여 결자 표식 0."
+    },
+    "K/K015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "jicheng 최신 전문과 독립 공개 판본/전사를 대조한 전체 교감. 잔여 결자 표식 0."
+    },
+    "A/A008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 판본/전사를 대조한 전체 교감. 잔여 결자 표식 0."
+    },
+    "N/N051.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 판본/전사를 대조한 전체 교감. 잔여 결자 표식 0."
+    },
+    "O/O024.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 956곳 전수 판정: 920곳 보존, 36곳 복원·정규화. HT1·□7·[u]220쌍·[i]2쌍을 최신 전문과 독립 전사로 정리; 원판에서도 판독 불가인 7자는 〔原本缺字〕로 명시해 미상 문자를 숨기지 않음. 원자료 표점 충분"
+    },
+    "Z/Z000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 258곳 전수 판정·보존, 깨진 토큰·원시 태그 없음. jicheng 대응 URL 404를 재확인하고 CText의 武英殿十三經注疏·四部叢刊·四庫 계통 복수 영인과 장·괘 순서를 대조, 누락 후보 0. 원자료 표점 충분"
+    },
+    "O/O033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 573곳 전수 판정: 최신 전문 368곳 보존, 205곳 복원·정규화. HT6·KT1·□3·[u]367쌍을 독립 전사와 대조해 복원하고 원판 미상 3자는 〔原本缺字〕로 명시. 원자료 표점 충분"
+    },
+    "I/I016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 684곳 전수 판정: 657곳 보존, 27곳 복원·정규화. HT5·KT1·□6·[u]1쌍·[i]24쌍을 도장본·명각·청초 계통 전문으로 정리하고 탈락 본문을 복원; 원판 미상 9자는 〔原本缺字〕로 명시. 원자료 표점 충분"
+    },
+    "G/G041.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 공개 서지를 대조한 전체 교감. 결자·OCR 잔여 0."
+    },
+    "H/H026.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 CText·국가도서관 영인을 대조하여 원자료 대규모 탈락을 복원. 결자·OCR 잔여 0."
+    },
+    "C/C043.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 와세다 고전적 영인을 대조한 전체 교감. KT6 복원, 잔여 0."
+    },
+    "C/C101.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각146(결락12/조판134), HT9·KT3 복원, [u]3 보존, 미해결0."
+    },
+    "G/G035a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각0, [c]2쌍→攣 복원, 장본 보존, 미해결0."
+    },
+    "I/I006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각601 조판, [u]4 보존, 미해결0."
+    },
+    "O/O034.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각292(결락9/조판283), HT3·□6 복원, [u]70 보존, 미해결0."
+    },
+    "O/O102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT2·방형 결자1 및 공백을 최신 전문과 독립 판본으로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "P/P0006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2·KT5 및 공백을 최신 전문과 御纂醫宗金鑑 영인으로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "N/N012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT5 및 원자료 시대 오기를 최신 전문과 四庫 계통으로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "H/H015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT23·[i]15를 복원하고 도판 15개를 명시 표식으로 보존. 잔여 결자·OCR 표식 0."
+    },
+    "C/C042.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 404를 확인해 기록하고 독립 공개 전사와 대조했다. 근거가 불충분한 공백은 원자료를 보존했다."
+    },
+    "D/D032.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 합본·증보 전문은 전면 대체하지 않고 공통 범위에서 문맥이 유일한 결자 18건만 복원했다."
+    },
+    "G/G038.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문과 독립 공개 전사를 대조해 고유 문맥 결자 18건을 복원하고 나머지는 조판 공백으로 판정했다."
+    },
+    "L/L113.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문과 독립 공개 전사를 대조해 고유 문맥 결자 42건을 복원하고 나머지는 조판 공백으로 판정했다."
+    },
+    "H/H000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2·KT4와 원문 탈락·OCR 오염을 宋刊·武英殿聚珍本 계통으로 복원. 전각 공백 및 밑줄 태그 전수 감사, 잔여 결자 표식 0."
+    },
+    "G/G016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·中醫世家·CText 대조로 탈락·OCR를 복원하고 전각 공백 1600자리와 밑줄 태그를 전수 감사. 잔여 결자 표식 0."
+    },
+    "O/O040.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT1·□1 및 탈락·OCR·[i] 태그를 四庫全書·萬治刊本 계통으로 복원. 전각 공백 전수 감사, 잔여 결자 표식 0."
+    },
+    "G/G033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 전사로 OCR·탈락을 복원하고 전각 공백과 徐評 평주·밑줄 태그 전수 감사. 잔여 결자 표식 0."
+    },
+    "H/H020.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문과 독립 공개 전사·영인을 대조해 결자 56건을 복원하고 나머지 공백은 조판·구분 또는 근거 불충분 원자료 보존으로 판정. 미해결0."
+    },
+    "O/O099.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "jicheng_verified",
+      "note": "jicheng 전문과 독립 공개 전사·영인을 대조해 결자·깨진 토큰 30건을 복원했다. 저표점 전문은 문자 동일성을 보존하며 항목 경계 표점을 보충했고 미해결0."
+    },
+    "I/I014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문과 독립 공개 전사·영인을 대조해 결자 57건을 복원하고 나머지 공백은 조판·구분 또는 근거 불충분 원자료 보존으로 판정. 미해결0."
+    },
+    "L/L007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 전문과 독립 공개 전사·영인을 대조해 결자 42건을 복원하고 나머지 공백은 조판·구분 또는 근거 불충분 원자료 보존으로 판정. 미해결0."
+    },
+    "O/O031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2 및 전각 공백을 최신 전문과 영인 계통으로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "G/G035.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1309곳을 최신 전문과 독립 전사로 판정·정리. 잔여 결자·OCR 표식 0."
+    },
+    "G/G011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT1 및 본문 누락을 최신 전문과 서지 근거로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "D/D042.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT5와 본문 탈락·OCR를 光緒商務本·CText 계통으로 복원. 전각 공백 86자리와 밑줄 태그 전수 감사, 잔여 깨진 표식 0."
+    },
+    "H/H021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT1·□9·[i]2 및 탈락·OCR를 Harvard-Yenching 계통으로 정리하고 운기 도판 1개를 명시 보존. 식별 불가능한 원본 결자는 〔原本缺字〕로 표시."
+    },
+    "C/C040.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT2와 탈락·OCR를 涵芬樓影元刻本·Wikisource·CText로 복원. 전각 공백·밑줄 태그 전수 감사, 잔여 깨진 표식 0."
+    },
+    "F/F007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "본문 탈락·OCR를 北京大學 영인·Wikisource·독립 전사로 복원. 전각 공백·밑줄 태그 전수 감사, 잔여 깨진 표식 0."
+    },
+    "I/I019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT1·[i]11 복원 및 도판 11개 명시 보존. 잔여 결자·OCR 표식 0."
+    },
+    "L/L108.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "HT4·KT5·[i]2 복원, 도판 2개 보존 및 문자보존 표점본 작성. 잔여 결자·OCR 표식 0."
+    },
+    "D/D056.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "원자료에 탈락한 하권 등 대규모 본문을 최신 전문으로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "H/H014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2 및 누락 저자·연도 서지를 최신 전문과 독립 서지로 복원. 잔여 결자·OCR 표식 0."
+    },
+    "F/F020.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 공통 전문과 독립판 대조로 결자 41건 복원, 나머지는 조판 또는 원자료 보존. 미해결0."
+    },
+    "B/B005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 공통 전문과 독립판 대조로 결자 44건 복원, 나머지는 조판 또는 원자료 보존. 미해결0."
+    },
+    "D/D054.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 공통 전문과 독립판 대조로 결자 17건 복원, 나머지는 조판 또는 원자료 보존. 미해결0."
+    },
+    "P/P0014a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng URL 404를 확인하고 독립 醫宗金鑑 판본과 대조했다. 근거 불충분 공백은 원자료 보존. 미해결0."
+    },
+    "O/O074.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT2·KT3 및 탈락·OCR를 康熙刊本 계통과 Wikisource로 복원. 전각 공백·밑줄 태그 전수 감사, 잔여 깨진 표식 0."
+    },
+    "N/N054.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT4·KT1 및 탈락·OCR를 jicheng·CText로 복원. 전각 공백·밑줄 태그 전수 감사, 잔여 깨진 표식 0."
+    },
+    "F/F010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "日本承應三年刊本 복수 영인으로 결자·OCR·탈락을 복원하고 전각 공백 686자리 전수 감사. 잔여 깨진 표식 0."
+    },
+    "D/D019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "日復刻十五卷본과 四庫본 대조로 대규모 본문 탈락·KT2를 복원하고 구법 도판 9개를 원본 식별자로 명시 보존. 잔여 깨진 표식 0."
+    },
+    "B/B010a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사·영인을 장절 전체 정렬해 결자·OCR·탈락을 복원. 원자료 전각 공백 23자리와 깨진 표식 0건을 전수 판정했으며 식별 불가능한 원본 결자는 〔原本缺字〕로 명시. 잔여 깨진 표식 0, 원자료 표점 충분."
+    },
+    "H/H025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사·영인을 장절 전체 정렬해 결자·OCR·탈락을 복원. 원자료 전각 공백 425자리와 깨진 표식 3건을 전수 판정했으며 식별 불가능한 원본 결자는 〔原本缺字〕로 명시. 잔여 깨진 표식 0, 원자료 표점 충분."
+    },
+    "O/O019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사·영인을 장절 전체 정렬해 결자·OCR·탈락을 복원. 원자료 전각 공백 507자리와 깨진 표식 19건을 전수 판정했으며 식별 불가능한 원본 결자는 〔原本缺字〕로 명시. 잔여 깨진 표식 0, 원자료 표점 충분."
+    },
+    "J/J016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사·영인을 장절 전체 정렬해 결자·OCR·탈락을 복원. 원자료 전각 공백 108자리와 깨진 표식 4건을 전수 판정했으며 식별 불가능한 원본 결자는 〔原本缺字〕로 명시. 잔여 깨진 표식 0, 원자료 표점 충분."
+    },
+    "N/N016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 2045곳 전수 판정: 결자·깨진 토큰 47곳 복원, 나머지는 처방·용량 및 판면 공백으로 보존. jicheng 최신 전문과 독립 용례 대조, 원자료 표점 충분"
+    },
+    "O/O040a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 273곳은 문단·인용 및 판면 공백으로 판정. jicheng 최신 전문 대조로 레거시 외자 토큰 9곳(紝·㕮·䗶·䐜)을 복원하고 저자 王好古·元·1308년 서지를 교정, 원자료 표점 충분"
+    },
+    "M/M005.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 66곳 전수 판정: 결자·깨진 토큰 58곳 복원, 나머지는 판면 공백으로 보존. jicheng 최신 전문 대조, 원자료 표점 충분"
+    },
+    "M/M110.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 148곳 전수 판정: 결자·깨진 토큰 53곳 복원, 나머지는 판면 공백으로 보존. jicheng 최신 전문과 독립 經脈 인용 대조, 저자·연도 보충, 원자료 표점 충분"
+    },
+    "D/D015.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 218곳 전수 판정: 결자·깨진 토큰 85곳 복원, 판면 공백 136곳 보존. jicheng 최신 전문과 공개 영인 대조, 원자료 표점 충분"
+    },
+    "K/K006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 993곳 전수 판정: 혈명·희귀자 결자 및 깨진 토큰 96곳 복원, 판면·운문 구분 공백 899곳 보존. 明萬曆刊本 대조, 원자료 표점 충분"
+    },
+    "C/C047.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 598곳 전수 판정: 결자 46곳 복원, 판면·식재료 구분 공백 552곳 보존. □ 1곳은 영인과 독립 인용에 따라 무문자 조판 자리로 제거. 원자료 표점 충분"
+    },
+    "D/D034.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 128곳 전수 판정: 결자·외자 80곳 복원, 판면·처방 구분 공백 48곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "F/F100.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1121곳 전수 판정: 결자·깨진 HT 토큰 54건(55자리) 복원, 판면·처방 구분 공백 1066곳 보존. 저자·연대 보충, 원자료 표점 충분"
+    },
+    "I/I000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 937곳 전수 판정: 결자·깨진 KT 토큰 140건(140자리) 복원, 판면·처방 구분 공백 797곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "C/C033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 58곳 전수 판정: 결자·깨진 KT 토큰 44건(44자리) 복원, 판면 공백 14곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "G/G019.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 747곳 전수 판정: 결자·깨진 토큰 61곳 복원, 처방·용량 및 판면 공백 687곳 보존. 공개 고판본 대조, 원자료 표점 충분"
+    },
+    "N/N064.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·깨진 토큰 없음. jicheng 최신 전사의 다수 OCR 오염은 채택하지 않고 원자료의 문맥상 우세 독법을 보존했으며 서문·공개 서지를 대조, 원자료 표점 충분"
+    },
+    "B/B007a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "레거시 외자 토큰 9곳(𩜺 8곳·㕮 1곳)을 복원하고 [z] 교주 1곳을 괄호형으로 정규화. jicheng 최신 전문과 明萬曆刊本·四庫本 대조, 원자료 표점 충분"
+    },
+    "C/C026.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 114곳 전수 판정: 결자 72곳 복원, 판면 공백 42곳 보존. 清光緒 공개본 대조, 원자료 표점 충분"
+    },
+    "B/B007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 160곳 전수 판정: 결자·깨진 KT 토큰 59건(63자리) 복원, 판면 공백 97곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "B/B022.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 93곳 전수 판정: 결자·깨진 HT/KT 토큰 57건(64자리) 복원, 판면 공백 29곳 보존. 저자 시대·연대 보정, 원자료 표점 충분"
+    },
+    "E/E001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 193곳 전수 판정: 결자·깨진 HT 토큰 17건(17자리) 복원, 표점 공백 2건 정규화, 처방·판면 공백 176곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "B/B033.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 34곳 전수 판정, 깨진 KT 10토큰(幾幾 5곳)을 복원. 역사 간본·독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "D/D038.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 2041곳은 처방 약미 구획·판면 공백으로 판정해 보존. 광서 역사 간본 계통 대조, 잔존 깨진 표식 없음, 원자료 표점 충분"
+    },
+    "G/G029.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1104곳 전수 판정, 결자 2곳(吉·兜)을 복원. 독립 공개 전사와 동문 인용 대조, 원자료 표점 충분"
+    },
+    "O/O016.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 630곳은 처방 약미 구획·판면 공백으로 판정해 보존. jicheng 공개 전문과 역사 서지 대조, 잔존 깨진 표식 없음, 원자료 표점 충분"
+    },
+    "G/G000.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 1274곳과 [u] 187쌍 전수 감사. 역사 간본 공개 전문 대조, 잔존 깨진 표식 없음, 원자료 표점 충분"
+    },
+    "N/N079.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백·깨진 토큰 없음. ASCII 쉼표 3곳 정규화, 국가도서관 청대 초본·Wikisource 대조, 원자료 표점 충분"
+    },
+    "O/O091.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 2216곳과 [u] 1쌍 전수 감사. ASCII 쉼표 1곳 정규화, 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "N/N022.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 5113곳과 [u] 2쌍 전수 감사. 서문 결자·누락 1곳 복원, jicheng·ctext 공개 전사 대조, 원자료 표점 충분"
+    },
+    "O/O090.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 3388곳·[u] 447쌍 전수 감사, 잔존 깨진 표식 없음. 역사 공개본 대조, 원자료 표점 충분"
+    },
+    "E/E011a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "레거시 [c] 코드 7곳(溯3·斑2·嘈1·䗪1) 복원. 北京大學 공개본·jicheng 대조, 원자료 표점 충분"
+    },
+    "E/E011.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT 2곳과 결자·ASCII 표점 1곳 복원. 전각 공백 45곳 전수 감사, 공개본 대조, 원자료 표점 충분"
+    },
+    "D/D044.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT 6토큰을 幾幾 3곳으로 복원. 전각 공백 945곳·[u] 3쌍 전수 감사, 광서본 계통 대조, 원자료 표점 충분"
+    },
+    "I/I003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "□·HT·KT 각 1곳 복원. 전각 공백 1898곳·[u] 305쌍 전수 감사, 明嘉靖刊本 공개 전문 대조"
+    },
+    "M/M002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT 1곳(瓜) 복원. 전각 공백 154곳·[u] 73쌍·그림 표지 2곳 감사, 원자료 표점 충분"
+    },
+    "D/D039.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 87곳·[u] 2쌍 전수 감사, 잔존 깨진 표식 없음. 청대 공개본 대조, 원자료 표점 충분"
+    },
+    "E/E001a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "레거시 [c] 코드 6곳(瘤1·蟅1·䗪2·𤺋2) 복원. Wikisource·jicheng 대조, 원자료 표점 충분"
+    },
+    "D/D043.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "KT 12토큰을 幾幾 6곳으로 복원. 전각 공백 575곳 전수 감사, 원자료 표점 충분"
+    },
+    "O/O054.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "KT 10토큰과 HT 3곳을 䀮䀮·䵟𪒟·臊氣尻·𩿣로 복원. Codex 증분 표점 120청크 완료; 비표점 문자 44,173자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+    },
+    "E/E010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT 1곳을 啗으로 복원. 전각 공백 622곳·[u] 120쌍 전수 감사, 원자료 표점 충분"
+    },
+    "E/E008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "舌繹□渴을 舌絳口渴로 교정. 전각 공백 48곳 전수 감사, 원자료 표점 충분"
+    },
+    "N/N014.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 44곳 전수 판정: 결자·깨진 HT/KT 토큰 32건(32자리) 복원, 판면 공백 12곳 보존. 저자·연대 보충, 원자료 표점 충분"
+    },
+    "G/G000a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사를 전역 대조해 레거시 [c] 외자 표식 9곳(6개 근거 단위)을 복원. 전각 공백·HT·KT·□·U+FFFD 잔존 0, 원자료 표점 충분"
+    },
+    "G/G044.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 최신 전문과 독립 공개 전사를 전역 대조해 결자 □ 1곳과 레거시 [c] 외자 표식 1곳을 복원. 잔존 깨진 표식 0, 원자료 표점 충분"
+    },
+    "L/L114.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 334곳 전수 판정: 결자 42곳 복원, 판면·처방 구분 공백 292곳 보존. jicheng 본문의 일부 생략 구간은 채택하지 않고 일치 구간만 독립 공개 전사와 교차 확인, 원자료 표점 충분"
+    },
+    "N/N010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 124곳 전수 판정: 결자·깨진 HT 토큰 60자리 복원, 판면 공백 64곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 저자명 보정, 원자료 표점 충분"
+    },
+    "O/O103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 77곳 전수 판정: 결자·깨진 HT 토큰 54자리 복원, 판면 공백 23곳 보존. jicheng 최신 전문과 고전 인용문 평행 대조, 원자료 표점 충분"
+    },
+    "A/A006.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 407곳 전수 판정: 결자·깨진 HT 토큰 및 연속 □ 32자리 복원, 판면 공백 375곳 보존. BMP 도판 표식 5곳을 도판 자리표지로 정규화. jicheng·Wikisource 및 《普濟方》 도식 조문 대조, 원자료 표점 충분"
+    },
+    "B/B025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 487곳 전수 판정: 결자·깨진 KT 토큰 41자리 복원, 판면·처방 공백 446곳 보존. jicheng 최신 전문과 독립 공개 전사 대조, 원자료 표점 충분"
+    },
+    "D/D010a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 81,
+      "punctuation_status": "source_present",
+      "note": "송대 관찬 공개 고전. 공백·HT/KT/□는 없으나 [c] 레거시 외자81곳의 원판 자형 판독이 남아 정본 이관 보류"
+    },
+    "D/D012.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 7270,
+      "punctuation_status": "codex_verified",
+      "note": "송대 공개 고전. Codex 표점 1118청크를 비표점 문자 198532자 완전 보존으로 검증 완료. jicheng 대조로 결자274곳을 복원했으며 공백7245·KT24·□1곳 교감은 계속 진행."
+    },
+    "D/D014.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2831,
+      "punctuation_status": "source_present",
+      "note": "1178년 공개 고전. jicheng 대조로 결자134곳 복원·판면1586곳 확인. 전각 공백2831곳 판독이 남아 정본 이관 보류"
+    },
+    "D/D016.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1644,
+      "punctuation_status": "source_present",
+      "note": "명대 공개 고전. jicheng 대조로 결자187곳 복원·판면2573곳 확인. 공백1629·HT3·KT12곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C036.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 220,
+      "punctuation_status": "source_present",
+      "note": "1761년 서문 공개 고전. jicheng 대조로 결자132곳 복원·판면35곳 확인. 전각 공백220곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C039.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 297,
+      "punctuation_status": "source_present",
+      "note": "1773년 공개 고전. jicheng 대조로 결자69곳 복원·판면195곳 확인. 전각 공백296·KT1곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C045.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 172,
+      "punctuation_status": "source_present",
+      "note": "1904년 원간 공개 고전이며 현대 주석 의존 없음. 판면 공백598곳 확인. 공백168·[c] 외자4곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C046.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2443,
+      "punctuation_status": "source_present",
+      "note": "청대 공개 고전. 판면 공백270곳 확인. 전각 공백2150·[c] 외자292·[z]1곳의 공개 원판 판독이 남아 정본 이관 보류"
+    },
+    "C/C018a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 91,
+      "punctuation_status": "source_present",
+      "note": "1694년 공개 고전. 판면 공백 4곳 확인. 미판정 공백 6곳과 PUA 글리프 85자의 원판 자형 매핑이 남아 정본 이관 보류"
+    },
+    "C/C019.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 565,
+      "punctuation_status": "source_present",
+      "note": "1695년 공개 고전. jicheng 대조로 결자 264곳 복원·판면 공백 530곳 확인. 전각 공백 565곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C020.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 133,
+      "punctuation_status": "source_present",
+      "note": "1724년 서문 공개 고전. jicheng 대조로 결자 91곳 복원·판면 공백 143곳 확인. 전각 공백 133곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C021.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 351,
+      "punctuation_status": "source_present",
+      "note": "1757년 공개 고전. jicheng 대조로 결자 216곳 복원·판면 공백 18곳 확인. 전각 공백 350·KT 1곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C000.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1049,
+      "punctuation_status": "source_present",
+      "note": "1799년 공개 고전. jicheng 대조로 결자 105곳 복원·판면 공백 242곳 확인. 전각 공백 995·KT 54곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1681,
+      "punctuation_status": "source_present",
+      "note": "약 500년 성립 공개 고전. jicheng 주소 404로 전각 공백 1666·KT 15곳의 공개 영인 판독이 남아 정본 이관 보류"
+    },
+    "C/C003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 736,
+      "punctuation_status": "source_present",
+      "note": "659년 공개 고전. jicheng 대조로 결자 205곳 복원·판면 공백 32곳 확인. 전각 공백 686·KT 50곳 판독이 남아 정본 이관 보류"
+    },
+    "C/C006.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 323,
+      "punctuation_status": "source_present",
+      "note": "1061년 공개 고전. jicheng 대조로 결자 171곳 복원·판면 공백 11곳 확인. 전각 공백 323곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B027.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 456,
+      "punctuation_status": "source_present",
+      "note": "에도시대 공개 고전. 저자 오기 丹波元珍→丹波元簡 수정, 결자 116곳 복원·판면 공백 254곳 확인. 공백 406·HT 9·KT 40·□ 1곳 미해결. 마침표뿐인 저표점이라 현대식 재표점 필요"
+    },
+    "B/B035.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 192,
+      "punctuation_status": "source_present",
+      "note": "청대 공개 고전. jicheng 대조로 결자 131곳 복원·판면 공백 157곳 확인. 전각 공백 186·KT 6곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B037.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 216,
+      "punctuation_status": "source_present",
+      "note": "1445년 공개 고전. jicheng 대조로 결자 66곳 복원·판면 공백 286곳 확인. 전각 공백 207·HT 2·KT 7곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B039.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 182,
+      "punctuation_status": "source_present",
+      "note": "1774년 공개 고전. jicheng 대조로 결자 190곳 복원·판면 공백 31곳 확인. 전각 공백 146·HT 1·KT 35곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B013a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1592년 공개 고전. 공개 영인·고전 평행문·본문 음훈으로 [c] 레거시 외자 코드 26곳을 모두 복원. 현대 저작권 자료는 사용하지 않음."
+    },
+    "B/B016.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 371,
+      "punctuation_status": "source_present",
+      "note": "청대 공개 고전. jicheng 대응 주소가 404라 전각 공백 363곳과 KT 8곳의 공개 원판 판독이 남아 정본 이관 보류"
+    },
+    "B/B019.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 277,
+      "punctuation_status": "source_present",
+      "note": "1649년 공개 고전. jicheng 대조로 결자 60곳 복원·판면 공백 546곳 확인. 전각 공백 264·HT 2·KT 11곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B023.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 622,
+      "punctuation_status": "source_present",
+      "note": "1714년 공개 고전. jicheng 대조로 결자 105곳 복원·판면 공백 1063곳 확인. 전각 공백 588·KT 34곳 판독이 남아 정본 이관 보류"
+    },
+    "A/A402.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1858,
+      "punctuation_status": "source_present",
+      "note": "1624년 공개 고전. jicheng 대조로 결자 1052곳 복원·판면 공백 346곳 확인. 전각 공백 1676곳과 HT 75·KT 107곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 604,
+      "punctuation_status": "source_present",
+      "note": "1100년 공개 고전. jicheng 대조로 결자 75곳 복원·판면 공백 586곳 확인. 전각 공백 540·HT 4·KT 20·□ 40곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 413,
+      "punctuation_status": "source_present",
+      "note": "북송 공개 고전. jicheng 대조로 결자 86곳 복원·판면 공백 1030곳 확인. 전각 공백 404·HT 5·KT 4곳 판독이 남아 정본 이관 보류"
+    },
+    "B/B009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 81,
+      "punctuation_status": "source_present",
+      "note": "1854년 공개 고전. jicheng 대조로 결자 49곳 복원·판면 공백 328곳 확인. 전각 공백 60·KT 21곳 판독이 남아 정본 이관 보류"
+    },
+    "A/A014.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2325,
+      "punctuation_status": "source_present",
+      "note": "1806년 공개 고전. jicheng 대조로 결자 194곳 복원·판면 공백 1621곳 확인. 전각 공백 2325곳의 독립 판본 판독이 남아 정본 이관 보류"
+    },
+    "A/A200.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 134,
+      "punctuation_status": "source_present",
+      "note": "명대 1642년 공개 고전으로 잘못된 宋·1264년 서지를 수정. jicheng 대조로 결자 98곳 복원했으나 전각 공백 134곳 판독이 남아 정본 이관 보류"
+    },
+    "A/A201.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 101,
+      "punctuation_status": "source_present",
+      "note": "1675년 공개 고전. jicheng 대조로 결자 101곳 복원·판면 공백 15곳 확인. 전각 공백 101곳 판독이 남아 정본 이관 보류"
+    },
+    "A/A202.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 248,
+      "punctuation_status": "source_present",
+      "note": "1896년 공개 고전. jicheng 대조로 결자 225곳 복원·판면 공백 33곳 확인. 전각 공백 248곳 판독이 남아 정본 이관 보류"
+    },
+    "A/A000.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 372,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조로 전각 공백 결자 205곳 복원. 판면 공백 334곳과 HT 11·KT 24·□ 3곳의 원본 판독이 남아 정본 이관 보류"
+    },
+    "A/A001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6996,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조 완료. [c] 203·[z] 4579곳과 판면/결자 판정이 필요한 전각 공백 2214곳이 남아 정본 이관 보류"
+    },
+    "A/A002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1848,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조로 전각 공백 결자 628곳 복원. 전각 공백 1219곳과 HT 83·KT 54·□ 491·BMP 표식 1곳의 원본 판독이 남아 정본 이관 보류"
+    },
+    "A/A003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1540,
+      "punctuation_status": "source_present",
+      "note": "청대 고전으로 권리 문제 없음. jicheng 원문 URL이 404여서 전각 공백 1449곳과 HT 20·KT 47·□ 14·BMP 표식 10곳을 독립 판본으로 대조해야 하므로 정본 이관 보류"
+    },
+    "K/K021.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조로 레거시 외자 토큰 43개 복원, 잔여 0"
+    },
+    "C/C037.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 고전, jicheng 대조, 공백 81곳 감사"
+    },
+    "P/P0009a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1742년 관찬 고전, 깨진 표식 0, 공백 71곳 감사"
+    },
+    "C/C008.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 16,
+      "punctuation_status": "source_present",
+      "note": "원대 고전이나 BMP 도판 16개 유실로 문헌 단위 보류"
+    },
+    "M/M111.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조 교감 완료"
+    },
+    "N/N002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 판본, 잔여 마커 없음"
+    },
+    "M/M109.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "HT 5곳을 공개 판면·동일 작품 전사·《左傳》 평행문으로 㘞·馣馤·士匄 2곳·搉으로 전부 복원."
+    },
+    "O/O036.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5,
+      "punctuation_status": "source_present",
+      "note": "HT2는 㿗, KT2는 공개 영인 2종에서 䀮䀮으로 복원. 腸癰 구절의 口는 결자틀 □로 정정했으며 원판 자체가 결락인 □5는 보류."
+    },
+    "K/K004a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조로 레거시 외자 토큰 14개 복원, 잔여 마커 0"
+    },
+    "G/G003a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 대조로 레거시 외자 토큰 69개 복원, 잔여 마커 0"
+    },
+    "D/D037.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "四庫本 Wikisource와 평행 조문 대조로 KT 3곳 복원, 전각 공백 1357곳 감사, 원자료 표점 충분"
+    },
+    "I/I009.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·독립 공개 전사 대조로 HT 4곳 복원, BMP 도판 2곳 정규화, 전각 공백 579곳 감사"
+    },
+    "G/G003.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "남송 연대 메타데이터 교정. jicheng 대조로 HT 2곳 및 □ 복원, 전각 공백 1894곳 감사"
+    },
+    "D/D069.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청 태의원·1910년 계통. 烏金丸의 黃□를 黃芩으로, 救苦神膏의 浸瓷盆內□日을 동일 처방의 긴 평행 제법 문구에 따라 浸瓷盆內五日로 복원. 원자료 표점 충분."
+    },
+    "P/P0008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1742년 관찬 고전. jicheng 조문별 공개 전사 대조, 전각 공백 1134곳 감사, 잔여 깨진 표식 0"
+    },
+    "N/N008.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·Wikisource 대조로 HT 3곳 복원, 전각 공백 109곳 감사, 원자료 표점 충분"
+    },
+    "D/D071.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·Wikisource 및 평행 조문 대조로 KT 2곳 복원, BMP 도판 3곳 정규화, 전각 공백 1748곳 감사"
+    },
+    "D/D062.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1804년 《古方匯精》. KT 3곳을 抿·⿰身邕·蝲로 복원. ⿰身邕은 공개 영인과 독립 전사가 일치하는 미수록 합성자이므로 IDS로 보존했으며 원자료 표점 충분."
+    },
+    "O/O007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng·CTP 공개 전사 대조. 결자·탈자 복원 및 무문자 □ 제거, 전각 공백 1994곳 감사, 원자료 표점 충분"
+    },
+    "B/B034.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 공개 전사 대조로 KT 4곳 복원, 전각 공백 292곳 감사, 원자료 표점 충분"
+    },
+    "I/I103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 문헌 안전성 확인. jicheng 공개 전사 대조로 HT·□ 5곳 및 탈자 복원, 전각 공백 2515곳 감사, 원자료 표점 충분"
+    },
+    "H/H002.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "jicheng 및 독립 공개 전사 대조로 HT·KT 19곳 복원, 전각 공백 1328곳 감사, 원자료 표점 충분"
+    },
+    "F/F024.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "전각 공백 584곳 전수 판정: 결자·깨진 HT/KT 토큰 102자리 복원, 판면·처방 공백 482곳 보존. BMP 도판 표식 1곳 정규화, 연도 메타데이터 교정, 원자료 표점 충분"
+    },
+    "A/A305.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "청대 고전 및 1936년 공개 영인 계통. jicheng·Wikisource·CText 대조로 HT 3곳과 KT 1곳 복원, 원자료 표점 충분"
+    },
+    "P/P0007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1742년 관찬 고전. jicheng과 《素問》 평행 조문으로 KT 2자리를 䀮䀮로 복원, 원자료 표점 충분"
+    },
+    "D/D041.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1803년 청대 고전. jicheng 및 고전 평행 조문으로 HT 1곳·KT 6곳 복원, 원자료 표점 충분"
+    },
+    "N/N061.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1937년 공개 간본 계통. jicheng 전문 대조 및 전각 공백 2984자리 감사, 결자·깨진 표식 없음, 원자료 표점 충분"
+    },
+    "A/A302.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1727년 청대 고전. 공개 영인과 jicheng 대조, [z] 교주 801쌍과 외자 코드 2곳 정규화, 원자료 표점 충분"
+    },
+    "D/D007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 20,
+      "punctuation_status": "source_present",
+      "note": "북송 고전으로 권리는 안전. KT 7곳 복원했으나 무표지 탈자·OCR 결락이 다수 남아 전문 정렬 및 원 스캔 판독 전 승격 보류"
+    },
+    "D/D031.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "codex_verified",
+      "note": "1640년 명대 고전. HT·KT 9토큰과 □ 12자리를 공개 원전·영인 평행문으로 모두 복원. 마지막 연속 2자는 《祖劑》 권3 영인에서 一方으로 직접 판독. Codex 표점 815청크의 비표점 문자 47,360자를 전부 보존한 결과를 검증함."
+    },
+    "O/O049.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1,
+      "punctuation_status": "source_present",
+      "note": "공개 평행문으로 勉旃·重疸을 추가 복원. 蠍即HT蜥 1자는 영인 판독 전 보류."
+    },
+    "D/D001.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "고대 본초 문헌. jicheng 전문으로 KT 13토큰 및 인접 무표지 결자를 복원, 전각 공백 감사, 원자료 표점 충분"
+    },
+    "N/N023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1866년 일본 고전. jicheng 전문으로 HT 6곳·외자 코드 3곳과 U+FFFD 이후 탈락 문단을 복원, 원자료 표점 충분"
+    },
+    "C/C007.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1116년 송대 고전. jicheng 공개 전문 대조, 전각 공백 164자리 감사, 깨진 표식 없음, 원자료 표점 충분"
+    },
+    "N/N052.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1861년 청대 고전. jicheng 전문으로 HT 2·KT 5 및 무표지 결자 복원, 원자료 표점 충분"
+    },
+    "D/D078.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "1594년 명대 고전·1936 공개 영인 계통. 전각 공백 2534자리 및 [u] 669쌍 감사, 깨진 표식 없음, 원자료 표점 충분"
+    },
+    "B/B041.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "柯琴 1669년 청대 고전. 香港中文大學圖書館 공개 스캔 계통과 jicheng 전문으로 [c] 외자 코드 2곳을 㕮·㽲로 복원, 원자료 표점 충분"
+    },
+    "B/B101.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "尤怡 1768년 청대 고전. 北京大學圖書館 공개 스캔 계통과 jicheng 전문으로 KT 5토큰 및 인접 OCR 탈락·오염 구간 복원, 전각 공백 4112자리와 [u] 798쌍 감사, 원자료 표점 충분"
+    },
+    "B/B102.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "陳修園 청대 고전. jicheng 공개 전문으로 [c] 외자 코드 46곳(𠘧·䗪·㕮·㹠·䅽·㿗·㽲·𤺏)을 복원, 전각 공백 1067자리와 [u] 249쌍 감사, 원자료 표점 충분"
+    },
+    "B/B103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "尤怡 1729년 청대 고전. 早稲田大学圖書館 공개 스캔 계통과 jicheng 전문으로 HT 2·KT 8토큰 복원, 전각 공백 882자리와 [u] 251쌍 감사, 원자료 표점 충분"
+    },
+    "C/C010.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "蘭茂 1436년 명대 고전. jicheng 공개 전문 대조, 전각 공백 1231자리와 [u] 8쌍 감사, 결자·레거시 외자 태그 없음, 원자료 표점 충분"
+    },
+    "C/C011.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6677,
+      "punctuation_status": "needs_punctuation",
+      "note": "劉文泰等 1505년 명대 고전으로 서지 정정. KT 230곳과 전각 공백 6447자리가 외자·결락 및 조판 구분에 혼재하고 본문 표점이 사실상 없어, 浙江大學 공개 영인 전수 판독·표점 전 보류"
+    },
+    "C/C012.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "陳嘉謨 1565년 명대 고전. 國家圖書館 공개 崇禎刻本 계통과 jicheng 전문 대조, 전각 공백 608자리와 [u] 1082쌍 감사, 결자·레거시 외자 태그 없음, 원자료 표점 충분"
+    },
+    "C/C014.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1817,
+      "punctuation_status": "source_present",
+      "note": "盧之頤 1647년 고전. KT 19·□1과 전각 공백 1797자리가 명물명·죽류·우류 등 대형 열거문에서 결락과 조판 구분에 혼재. 國家圖書館·四庫 공개 영인 전수 판독 전 보류"
+    },
+    "C/C023.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "趙學敏 1765년 청대 고전. jicheng 공개 전문 대조, 전각 공백 1890자리와 [u] 117쌍 감사, 결자·레거시 외자 태그 없음, 원자료 표점 충분"
+    },
+    "C/C025.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "黃宮繡 1769년 청대 고전. 마지막 결자는 동일 저작의 上海錦章書局石印本 공개 영인 PDF 80면에서 石斑魚（專入胃）로 직접 판독해 복원."
+    },
+    "C/C025a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 110,
+      "punctuation_status": "source_present",
+      "note": "黃宮繡 청대 고전의 대체 전자본. [c] 외자 코드 110곳(29종)이 잔존하여 실제 변환에 `미처리 태그: c` 경고. 코드표·공개 원판면 대조 전 보류"
+    },
+    "C/C050.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6233,
+      "punctuation_status": "source_present",
+      "note": "唐慎微 송대 고전. KT165·□5와 전각 공백6063이 약명·외자·결락 및 조판에 혼재하여 공개 고본 전수 판독 전 보류"
+    },
+    "C/C103.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "李中梓(字士材) 1622년 명대 고전. 北京大學圖書館 공개 스캔 계통과 jicheng 전문 대조, 전각 공백102자리·[u]1쌍 감사, 깨진 표식 없음"
+    },
+    "D/D002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 12017,
+      "punctuation_status": "source_present",
+      "note": "孫思邈 682년 당대 고전. KT43과 전각 공백11974가 외자·도형·결락 및 조판에 혼재하여 香港中文大學 공개 掃葉山房本 전수 판독 전 보류"
+    },
+    "D/D002a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 909,
+      "punctuation_status": "source_present",
+      "note": "《千金翼方》 대체 전자본. [c] 외자 코드909곳이 실제 변환 후에도 남아 `미처리 태그: c` 경고. 외자 코드표·공개 영인 전수 대조 전 보류"
+    },
+    "D/D018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 11813,
+      "punctuation_status": "source_present",
+      "note": "楊士瀛 1264년 남송 고전. KT1과 전각 공백11812가 결락·조판에 혼재하여 國家圖書館 공개본 전수 판독 전 보류"
+    },
+    "D/D020.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 8657,
+      "punctuation_status": "source_present",
+      "note": "危亦林 1337년 원대 고전. KT8과 전각 공백8649가 외자·결락·조판에 혼재하여 美國國會圖書館·國家圖書館·四庫 공개본 전수 판독 전 보류"
+    },
+    "D/D021.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 28193,
+      "punctuation_status": "source_present",
+      "note": "董宿原撰·方賢編定 1436년 명대 고전. KT31과 전각 공백28162가 외자·도형·결락·조판에 혼재하여 国立公文書館 공개본 전수 판독 전 보류"
+    },
+    "D/D022.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 13046,
+      "punctuation_status": "codex_verified",
+      "note": "丁毅 1554년 명대 고전. Codex 표점 447청크를 비표점 문자 142481자 완전 보존으로 검증 완료. HT4·KT15와 전각 공백13027의 판독·분류가 남아 정본 승격은 보류."
+    },
+    "D/D033.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2672,
+      "punctuation_status": "source_present",
+      "note": "葉桂 원저·華岫雲 편 1752년 청대 고전. KT1·□1과 전각 공백2670이 처방 수치·결락·조판에 혼재하여 공개 판면 전수 대조 전 보류"
+    },
+    "D/D036.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "吳世昌 1719년 청대 고전. jicheng 공개 전문 대조, 전각 공백2398자리와 [u]119쌍 감사, 결자·레거시 태그 없음"
+    },
+    "D/D040.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3844,
+      "punctuation_status": "source_present",
+      "note": "吳儀洛 1761년 청대 고전·北京大學圖書館 공개 스캔 계통. KT7과 전각 공백3837이 외자·결락·조판에 혼재하여 전수 판독 전 보류"
+    },
+    "D/D046.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1054,
+      "punctuation_status": "source_present",
+      "note": "鮑相璈 1846년 청대 고전. HT2·KT19와 전각 공백1033이 인명·명물명·결락·조판에 혼재하여 공개 고본 전수 판독 전 보류"
+    },
+    "D/D026.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 208,
+      "punctuation_status": "source_present",
+      "note": "葛洪 동진 고전. jicheng 공개 전문으로 결자205곳을 복원했으나 전각 공백187·KT10·□11이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "D/D027.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 707,
+      "punctuation_status": "source_present",
+      "note": "許叔微 1132년 남송 고전. jicheng 공개 전문으로 결자77곳을 복원했으나 전각 공백698·HT2·KT7이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "D/D028.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1585,
+      "punctuation_status": "source_present",
+      "note": "嚴用和 1253년 남송 고전. jicheng 공개 전문으로 결자139곳을 복원했으나 전각 공백1584·KT1이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "D/D030.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3530,
+      "punctuation_status": "source_present",
+      "note": "張潔 1585년 명대 고전. jicheng 공개 전문으로 결자148곳을 복원했으나 전각 공백3528·□2가 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "D/D063.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1877,
+      "punctuation_status": "source_present",
+      "note": "鄒存檢 청대 고전. KT5와 전각 공백1872가 처방 동작·결락·조판에 혼재하여 공개 판면 전수 대조 전 보류"
+    },
+    "D/D064.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2147,
+      "punctuation_status": "source_present",
+      "note": "《文堂集驗方》 고전 원저. KT2와 전각 공백2145가 명물·상처명·결락·조판에 혼재하여 공개 판면 전수 대조 전 보류"
+    },
+    "D/D068.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1967,
+      "punctuation_status": "source_present",
+      "note": "《濟世神驗良方》 청대 고전. HT1·KT1·□33과 전각 공백1932가 약명·용량·문장 결락 및 조판에 혼재하여 공개 판면 전수 대조 전 보류"
+    },
+    "D/D075.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2303,
+      "punctuation_status": "source_present",
+      "note": "汪昂 1682년 청대 고전. KT11과 전각 공백2292가 외자·결락·조판에 혼재하여 北京大學 등 공개 고본 전수 판독 전 보류"
+    },
+    "D/D055.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 160,
+      "punctuation_status": "source_present",
+      "note": "丁堯臣 1880년 청대 고전. jicheng 공개 전문으로 결자17곳을 복원했으나 전각 공백159·KT1이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "D/D057.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1343,
+      "punctuation_status": "source_present",
+      "note": "王璆 1196년 남송 고전의 1799년 일본 교정간본 계통. jicheng 공개 전문으로 결자136곳을 복원했으나 전각 공백1325·KT18이 결락·조판에 혼재하여 書格 공개 영인 전수 판독 전 보류"
+    },
+    "D/D059.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1686,
+      "punctuation_status": "source_present",
+      "note": "陶承熹 1734년 청대 고전. jicheng·維基文庫 공개 전문으로 결자37곳을 복원했으나 전각 공백1682·KT4가 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "E/E007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 811,
+      "punctuation_status": "source_present",
+      "note": "何廉臣 1914년 초간 근대 고전(저자 1929년 사망). jicheng 공개 전문으로 결자120곳을 복원했으나 전각 공백811곳이 결락·조판에 혼재하여 원간본 전수 판독 전 보류"
+    },
+    "E/E012.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 360,
+      "punctuation_status": "source_present",
+      "note": "雷豐 1882년 청대 고전. jicheng·維基文庫 공개 전문으로 결자72곳을 복원했으나 전각 공백337·HT3·KT2·□18이 결락·외자·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "E/E012a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "《時病論》 대체 전자본. [c] 외자 코드 10곳을 동일 코드·jicheng 문맥·공개 고전 평행문으로 兜 4자·窗·䏶 2자·䅽·𭶟·痛으로 모두 복원함."
+    },
+    "E/E014.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 795,
+      "punctuation_status": "source_present",
+      "note": "劉奎 1785년 청대 고전. jicheng 공개 전문으로 결자103곳을 복원했으나 전각 공백554·HT15·KT11·□215가 결락·외자·조판에 혼재하여 1792년 五柳堂刊本 전수 판독 전 보류"
+    },
+    "F/F002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1248,
+      "punctuation_status": "source_present",
+      "note": "唐宗海 1884년 청대 고전. 전각 공백1248곳이 외자 결락·처방 조판에 혼재하여 北京大學圖書館 영인 전수 판독 전 보류; [u]202쌍은 <ins> 의미 보존 변환"
+    },
+    "F/F002a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "《血證論》 공개 고전 대체 전자본. [c] 외자 코드27곳을 동일 저작 F002와 jicheng 공개 전문으로 복원하고 腎 OCR 오기1곳 교정. HT·KT·□·PUA·전각 공백 미해결 없음."
+    },
+    "F/F004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 10165,
+      "punctuation_status": "source_present",
+      "note": "丹波元堅 1853년 일본 한문 고전. 인용 원전 대조로 □2곳 제거; 전각 공백10154·□11곳이 결락·외자·처방 조판에 혼재하여 공개 영인 전수 판독 전 보류; [u]1460쌍은 <ins> 의미 보존 변환"
+    },
+    "G/G005.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3592,
+      "punctuation_status": "source_present",
+      "note": "陳自明 1237년 남송 고전. jicheng 공개 전문으로 결자386곳을 복원했으나 전각 공백3585·KT7이 결락·외자·처방 조판에 혼재하여 四庫·元刊 공개 영인 전수 판독 전 보류"
+    },
+    "G/G017.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 98,
+      "punctuation_status": "source_present",
+      "note": "蕭塤 1684년 청대 고전. jicheng 공개 전문으로 결자90곳을 복원했으나 전각 공백97·HT1이 결락·외자에 혼재하여 원간 판면 대조 전 보류"
+    },
+    "G/G017a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "《女科經綸》 대체 전자본. [c] 외자 코드 8곳을 동일 코드 대응과 《金匱要略》 등 고전 평행문으로 㽲 4자·䘌 3자·㿗 1자로 모두 복원함."
+    },
+    "G/G018.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 191,
+      "punctuation_status": "source_present",
+      "note": "馮兆張 1694년 청대 고전. jicheng·維基文庫 공개 전문으로 결자59곳을 복원했으나 전각 공백188·HT3이 결락·외자·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "G/G022.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3006,
+      "punctuation_status": "source_present",
+      "note": "閻純璽 1730년 청대 고전. 서지와 OCR 오기1곳 교정; 전각 공백3006곳은 영인 전수 판독 전 보류. [u]725쌍은 <ins> 변환"
+    },
+    "G/G026.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1776,
+      "punctuation_status": "source_present",
+      "note": "張介賓 1637년 명대 고전. 癥·奭 결자2곳 복원; 나머지 전각 공백1776곳은 판면 전수 대조 전 보류. [u]756쌍은 <ins> 변환"
+    },
+    "G/G036.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4666,
+      "punctuation_status": "source_present",
+      "note": "1895년 錫山邊氏刊 청대 고전. □ 결자 如 1곳 복원; 전각 공백4666곳은 영인 전수 판독 전 보류. [u]741쌍은 <ins> 변환"
+    },
+    "G/G039.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 8189,
+      "punctuation_status": "source_present",
+      "note": "武之望 원찬·汪淇 1665년 중정 고전. 疴 결자1곳 복원; 나머지 전각 공백8189곳은 판면 전수 대조 전 보류. [u]1940쌍은 <ins> 변환"
+    },
+    "H/H000a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "결자·외자 토큰·의심 전각 공백 없음."
+    },
+    "H/H003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 588,
+      "punctuation_status": "source_present",
+      "note": "曾世榮 원대 고전. jicheng 공개 전문으로 결자106곳을 복원했으나 전각 공백586·HT2가 결락·외자·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+    },
+    "H/H007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 16489,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 1607년 명대 고전. jicheng 전문 접근 오류로 자동 결자 대조를 적용하지 못했으며 전각 공백16463·HT20·KT6이 남아 國立臺灣大學·故宮 공개 원간본 전수 판독 전 보류"
+    },
+    "H/H009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5313,
+      "punctuation_status": "source_present",
+      "note": "1156년 송대 익명 고전. 四庫文淵閣 계통이나 소스에 1924년 蕭耀南 서문·蕭北承 수교 기록 포함. 전각 공백5313곳은 판면 전수 대조 전 보류; [u]1544쌍은 <ins> 변환"
+    },
+    "H/H010.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3949,
+      "punctuation_status": "source_present",
+      "note": "陳復正 1750년 청대 고전. 일본文化11년刊·北京大學 영인 계통. 전각 공백3949곳은 판면 전수 대조 전 보류; [u]711쌍은 <ins> 변환"
+    },
+    "H/H013.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2417,
+      "punctuation_status": "source_present",
+      "note": "秦昌遇 1641년 명대 고전. 저자 서지 오기 보정; 전각 공백2417곳은 불완전 구초본 판면 전수 대조 전 보류; [u]467쌍은 <ins> 변환"
+    },
+    "H/H032.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1137,
+      "punctuation_status": "source_present",
+      "note": "沈金鰲 1774년 청대 고전. jicheng 공개 전문으로 결자108곳을 복원했으나 전각 공백1117·HT16·KT4가 결락·외자·조판에 혼재하여 国立公文書館 1784년刊 영인 전수 판독 전 보류"
+    },
+    "H/H034.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1192,
+      "punctuation_status": "source_present",
+      "note": "魯伯嗣 전칭 1506년 명대 고전. jicheng 공개 전문으로 결자133곳을 복원했으나 전각 공백1186·KT6이 결락·외자·조판에 혼재하여 國家圖書館 天啟刊 영인 전수 판독 전 보류"
+    },
+    "I/I001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 989,
+      "punctuation_status": "source_present",
+      "note": "薛己 1528년 명대 고전. jicheng 공개 전문으로 결자138곳을 복원했으나 전각 공백987·HT2가 결락·외자·조판에 혼재하여 早稲田大学 공개 영인 전수 판독 전 보류"
+    },
+    "I/I002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 609,
+      "punctuation_status": "source_present",
+      "note": "薛己 원저·薛師顏 정리 1571년 명대 고전. jicheng 공개 전문으로 결자115곳을 복원했으나 전각 공백604·HT3·KT2가 결락·외자·조판에 혼재하여 명대 판면 전수 대조 전 보류"
+    },
+    "I/I004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5964,
+      "punctuation_status": "source_present",
+      "note": "祁坤 1665년 청대 고전. 函三堂藏版 공개 전문으로 확정 결자·외자 6곳을 교정; 전각 공백5964곳은 LOC 영인 전수 판독 전 보류"
+    },
+    "I/I004a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "祁坤 1665년 청대 고전의 공개 대체 전사본. jicheng 현행 전문으로 [c] 외자 코드105곳을 모두 복원. HT·KT·□·PUA·전각 공백 미해결 없음."
+    },
+    "I/I005.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4402,
+      "punctuation_status": "source_present",
+      "note": "陳實功 1617년 명대 고전. 공개 전문으로 결문7자와 확정 외자4곳을 복원; 전각 공백4401곳과 판독 불명 HT 1곳은 NLC 영인 전수 판독 전 보류"
+    },
+    "I/I005a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "陳實功 1617년 명대 고전의 공개 대체 전사본. [c] 외자 코드10곳을 jicheng 공개 전사로 모두 복원. 전각 공백6곳은 들여쓰기·행말 조판 공백."
+    },
+    "I/I202.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2735,
+      "punctuation_status": "source_present",
+      "note": "謝玉瓊 1748년 청대 고전. 北京大學 공개 영인 계통 전문으로 외자14곳 복원; 전각 공백2735곳은 판면 전수 대조 전 보류. [u]495쌍은 <ins> 변환"
+    },
+    "I/I208.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 634,
+      "punctuation_status": "source_present",
+      "note": "郭志邃 1675년 청대 고전. 北京大學 공개 영인 계통 전문으로 외자1곳 복원; 전각 공백634곳은 판면 전수 대조 전 보류. [u]224쌍은 <ins> 변환"
+    },
+    "K/K000.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 866,
+      "punctuation_status": "source_present",
+      "note": "皇甫謐 256년 고전, 四庫全書文淵閣本 계통. 공개 전문으로 확정 외자20곳(표식35개)을 복원; 전각 공백821·HT17·KT28은 스캔 전수 판독 전 보류. [u]5쌍은 <ins> 변환"
+    },
+    "K/K000a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 162,
+      "punctuation_status": "source_present",
+      "note": "皇甫謐 256년 고전의 대체 전사본. [c] 외자 코드162곳은 현행 전문과의 전수 정렬 전 보류; 전각 공백·HT·KT·□ 없음"
+    },
+    "I/I101.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 929,
+      "punctuation_status": "source_present",
+      "note": "高秉鈞 1805년 청대 고전. jicheng 공개 전문으로 결자147곳을 복원했으나 전각 공백919·HT7·□3이 결락·외자·조판에 혼재하여 1806년 초간본 전수 판독 전 보류"
+    },
+    "I/I102.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6377,
+      "punctuation_status": "source_present",
+      "note": "顧世澂 1760년 청대 고전. jicheng 공개 전문으로 결자1233곳을 복원했으나 전각 공백6325·HT31·KT21이 결락·외자·도형·조판에 혼재하여 1773년刊 공개 판면 전수 대조 전 보류"
+    },
+    "I/I200.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 357,
+      "punctuation_status": "source_present",
+      "note": "凌德 1890년 청대 고전. jicheng 공개 전문으로 결자72곳을 복원했으나 전각 공백349·HT2·KT6이 결락·외자·조판에 혼재하여 자필본 계통 판면 전수 판독 전 보류"
+    },
+    "I/I201.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 300,
+      "punctuation_status": "source_present",
+      "note": "葉霖 1890년 청대 고전. jicheng 공개 전문으로 결자95곳을 복원했으나 전각 공백293·HT4·KT3이 결락·외자·조판에 혼재하여 원간 판면 전수 판독 전 보류"
+    },
+    "L/L003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3518,
+      "punctuation_status": "source_present",
+      "note": "傅仁宇 1644년 명대 고전, NLC 崇禎刊本 계통. 전각 공백3463·HT35·KT20은 스캔 전수 판독 전 보류; [u]436쌍은 <ins> 변환"
+    },
+    "L/L004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2156,
+      "punctuation_status": "source_present",
+      "note": "黃庭鏡 1741년 성고·1805년 간행 청대 고전. 北京大學 공개 영인 계통; 전각 공백2138·HT12·KT6은 전수 판독 전 보류. [u]61쌍은 <ins> 변환"
+    },
+    "L/L008.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2623,
+      "punctuation_status": "source_present",
+      "note": "葆光道人 명대 고전. 應永鈔本·大文堂藏板 공개 스캔 계통; 전각 공백2593·HT2·KT23·□5는 전수 판독 전 보류. [u]518쌍은 <ins> 변환"
+    },
+    "M/M003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 109,
+      "punctuation_status": "source_present",
+      "note": "林之瀚 1723년 청대 고전. 北京大學 공개 전문으로 HT·KT 2곳 복원; 전각 공백109곳은 판면 전수 대조 전 보류. [u]240쌍은 <ins> 변환"
+    },
+    "M/M004.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 214,
+      "punctuation_status": "source_present",
+      "note": "周學海 1894년 청대 원저. jicheng 공개 전문으로 확정 외자·결자13곳(표식20개) 복원; 전각 공백214곳은 판면 전수 대조 전 보류"
+    },
+    "K/K008.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2091,
+      "punctuation_status": "source_present",
+      "note": "李學川 1815년 청대 고전. 공개 전문 대조로 결자471곳을 복원; 전각 공백1996·HT16·KT35·□44는 판면 전수 판독 전 보류"
+    },
+    "K/K101.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1034,
+      "punctuation_status": "codex_verified",
+      "note": "吳亦鼎 1851년 성고·1853년 간행 청대 고전. 공개 영인 계통 대조로 결자143곳을 복원; 전각 공백1027·HT5·KT2는 판면 전수 판독 전 보류. 원자료는 사실상 무표점이므로 표점 필요; Codex 증분 표점 138청크 문자 동일성 검증 완료"
+    },
+    "L/L000.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 884,
+      "punctuation_status": "source_present",
+      "note": "佚名의 명대 이전 안과 고전(孫思邈 위탁은 신빙성 없음). 공개 영인 계통 대조로 결자102곳을 복원; 전각 공백876·HT3·KT5는 판면 전수 판독 전 보류"
+    },
+    "L/L002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1359,
+      "punctuation_status": "source_present",
+      "note": "顧錫 1809년 청대 고전. 공개 전문 대조로 결자75곳을 복원; 전각 공백1359곳은 판면 전수 대조 전 보류"
+    },
+    "M/M100.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 303,
+      "punctuation_status": "source_present",
+      "note": "王叔和 280년 고전. 공개 고판본 계통; 전각 공백273·HT5·KT25는 스캔 전수 판독 전 보류. [u]36쌍은 <ins> 변환"
+    },
+    "M/M100a.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "[c] 외자 코드 47곳을 공개 송본 전사와 평행문으로 전부 복원."
+    },
+    "M/M104.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 123,
+      "punctuation_status": "source_present",
+      "note": "王邦博 1891년 청대 원저, 1936년 공개 스캔 계통. HT 외자1곳 복원; 전각 공백123곳은 판면 전수 대조 전 보류"
+    },
+    "M/M107.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5389,
+      "punctuation_status": "source_present",
+      "note": "秦景明 1706년 명말·청초 고전. 저자·시대 서지 오기 수정, IDS 결자1곳 복원; 전각 공백5389곳은 판면 전수 대조 전 보류. [u]1436쌍은 <ins> 변환"
+    },
+    "M/M108.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1610,
+      "punctuation_status": "source_present",
+      "note": "吳正倫 1573년 명대 고전. 공개 전문으로 확정 외자8곳 복원; 전각 공백1608·HT1·□1은 판면 전수 대조 전 보류"
+    },
+    "N/N024.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2742,
+      "punctuation_status": "source_present",
+      "note": "王士維 1843년 청대 고전. 기계 결자 표식 없음; 전각 공백2742곳은 판면 전수 대조 전 보류. [u]1쌍은 <ins> 변환"
+    },
+    "N/N026.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 203,
+      "punctuation_status": "source_present",
+      "note": "唐大烈 1792년 청대 고전, 北京大學 공개 스캔 계통. HT3·KT4 및 확정 결자1곳을 복원; 전각 공백203곳은 판면 전수 대조 전 보류. [u]40쌍은 <ins> 변환"
+    },
+    "N/N007.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 153,
+      "punctuation_status": "source_present",
+      "note": "俞震 1778년 청대 고전. jicheng 공개 전문으로 결자280곳을 복원; 전각 공백153곳은 판면 전수 대조 전 보류. 원자료 저자 ‘俞震篡’은 ‘俞震纂’의 오기"
+    },
+    "N/N009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6031,
+      "punctuation_status": "source_present",
+      "note": "葉桂 의안을 華岫雲 등이 1764~1766년 편찬·간행한 청대 고전. jicheng 공개 전문으로 결자389곳을 복원; 전각 공백6031곳은 판면 전수 대조 전 보류"
+    },
+    "N/N011.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 643,
+      "punctuation_status": "source_present",
+      "note": "朱震亨 원저의 명대 1543년 高賓 간본 계통·1909년 蕭澍霖 중인본. jicheng 공개 전문으로 결자124곳을 복원; 전각 공백576·□67은 판면 전수 판독 전 보류. [u]2쌍은 <ins> 변환"
+    },
+    "N/N038.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 62,
+      "punctuation_status": "source_present",
+      "note": "孫一奎(1522~1619) 명대 의안. jicheng 공개 전문으로 결자104곳을 복원; 전각 공백61·□1은 판면 전수 판독 전 보류. [u]1쌍은 <ins> 변환"
+    },
+    "N/N045.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 103,
+      "punctuation_status": "source_present",
+      "note": "외자 토큰은 없으나 전각 공백 후보 103곳을 영인 면·행 단위로 대조 중."
+    },
+    "N/N046.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 52,
+      "punctuation_status": "source_present",
+      "note": "程杏軒 1805년 청대 의안. jicheng 공개 전문으로 결자60곳을 복원; 전각 공백52곳은 판면 전수 대조 전 보류. [u]8쌍은 <ins> 변환"
+    },
+    "N/N048.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 55,
+      "punctuation_status": "source_present",
+      "note": "1910년 顧夢熊 교정·보결 석인본 계통(116년 경과), 현대 번역·주석층 없음. HT2곳 복원; 전각 공백55곳은 판면 전수 대조 전 보류"
+    },
+    "N/N053.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 169,
+      "punctuation_status": "source_present",
+      "note": "石壽堂 1861년 청대 고전. 전각 공백144·HT18·KT7은 판면 전수 대조 전 보류. [u]6쌍은 <ins> 변환"
+    },
+    "N/N059.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 150,
+      "punctuation_status": "source_present",
+      "note": "周學海 1898년 청대 고전, 北京大學 공개 스캔 계통. KT2곳 및 인접 결자1곳 복원; 전각 공백150곳은 판면 전수 대조 전 보류"
+    },
+    "O/O017.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4074,
+      "punctuation_status": "source_present",
+      "note": "潘楫 1652년 청초 고전, 順治九年刊 공개 스캔 계통. 전각 공백4065·HT5·KT4는 전수 판독 전 보류. [u]975쌍은 <ins> 변환"
+    },
+    "O/O025.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 10959,
+      "punctuation_status": "source_present",
+      "note": "龔廷賢 1615년 명대 고전, 北京大學 공개 스캔 계통. 전각 공백10946·HT5·KT6·□2는 전수 판독 전 보류. [u]1229쌍은 <ins> 변환"
+    },
+    "O/O029.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 135,
+      "punctuation_status": "source_present",
+      "note": "胡文煥 1592년 명대 원문 선집. 현대 해설·번역층 없음; 전각 공백130·HT5는 원전 전수 대조 전 보류. [u]165쌍은 <ins> 변환"
+    },
+    "O/O032.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1727,
+      "punctuation_status": "source_present",
+      "note": "吳正倫 16세기 명대 고전. 현대 편집·주석 의존 없음; 전각 공백1704·HT13·KT3·□7은 원전 전수 대조 전 보류. [u]22쌍은 <ins> 변환"
+    },
+    "O/O035.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1893,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자283곳 교정, 조판2669곳 확인. 공백1859·HT3·KT31 판독 전 보류. 표점 충분."
+    },
+    "O/O037.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3704,
+      "punctuation_status": "codex_verified",
+      "note": "고전 의서. 결자648곳 교정, 조판3917곳 확인. 공백3679·HT10·KT15 판독 전 보류. Codex 증분 표점 863청크 완료; 비표점 문자 265,826자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+    },
+    "O/O038.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1641,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자247곳 교정, 조판2538곳 확인. 공백1637·HT4 판독 전 보류. 표점 충분."
+    },
+    "O/O039.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 630,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자119곳 교정, 조판932곳 확인. 공백628·HT2 판독 전 보류. 표점 충분."
+    },
+    "O/O008.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 609,
+      "punctuation_status": "source_present",
+      "note": "日本·原昌克 1803년 저술, 1854년 재각본 계통. jicheng 공개 전문으로 결자207곳을 복원; 전각 공백604·□5는 판면 전수 판독 전 보류. [u]54쌍은 <ins> 변환"
+    },
+    "O/O009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 290,
+      "punctuation_status": "source_present",
+      "note": "沈子祿 원고를 徐師曾이 1576년 교정한 명대 고전. jicheng 공개 전문으로 결자199곳을 복원; 전각 공백290곳은 판면 전수 대조 전 보류. [u]3쌍은 <ins> 변환"
+    },
+    "O/O015.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 65,
+      "punctuation_status": "source_present",
+      "note": "蒸·臧 2자를 영인으로 복원. □11곳과 판면별 전각 공백 후보 54곳은 추가 대조 중."
+    },
+    "O/O046.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1825,
+      "punctuation_status": "source_present",
+      "note": "張從正 1228년 고전의 공개 고판본 교차 계통. 전각 공백1800·HT23·KT2는 전수 판독 전 보류. [u]4쌍은 <ins> 변환"
+    },
+    "O/O047.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 8948,
+      "punctuation_status": "source_present",
+      "note": "龔信 원편·龔廷賢 편집 1589년 명대 고전. 전각 공백8932·HT13·□3은 원판 전수 판독 전 보류. [u]1568쌍은 <ins> 변환"
+    },
+    "O/O048.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 397,
+      "punctuation_status": "source_present",
+      "note": "張杲 1224년 고전의 명대刊·影宋鈔·四庫 교차 계통. 전각 공백379·HT12·KT4·□2는 전수 판독 전 보류"
+    },
+    "O/O050.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 5844,
+      "punctuation_status": "source_present",
+      "note": "李梃 1575년 명대 고전, 早稲田 공개 영인 계통. 저자 오기 수정; 전각 공백5784·HT35·KT25는 전수 판독 전 보류. [u]3580쌍은 <ins> 변환"
+    },
+    "O/O052.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 24536,
+      "punctuation_status": "source_present",
+      "note": "樓英 1565년 명대 고전, 浙江大學 공개 스캔 계통. 전각 공백24356·HT39·KT141은 전수 판독 전 보류. [u]2731쌍은 <ins> 변환"
+    },
+    "O/O041.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1677,
+      "punctuation_status": "source_present",
+      "note": "羅天益 1343년 원대 고전, 1417년 太醫院刊 공개 스캔 계통. 결자312곳 복원; 공백1667·HT4·KT6 보류. [u]822쌍은 <ins> 변환"
+    },
+    "O/O043.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 899,
+      "punctuation_status": "source_present",
+      "note": "舊題朱震亨撰·清湯望久校輯, 1775년 청대 고전. 결자69곳 복원; 공백894·HT1·KT4 보류. [u]810쌍은 <ins> 변환"
+    },
+    "O/O044.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2557,
+      "punctuation_status": "source_present",
+      "note": "朱震亨 원저·戴思恭 등 전승, 1482년 程充 교정 계통. 결자153곳 복원; 공백2549·KT5·□3 보류. [u]1275쌍은 <ins> 변환"
+    },
+    "O/O045.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 475,
+      "punctuation_status": "source_present",
+      "note": "巢元方 등 610년 隋代 고전. 공개 전문으로 결자166곳 복원; 공백431·HT21·KT23 보류. [u]2쌍은 <ins> 변환"
+    },
+    "O/O056.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2968,
+      "punctuation_status": "source_present",
+      "note": "虞摶 1515년 명대 고전, 明萬曆刊 공개 스캔 계통. 결자480곳 복원; 공백2932·HT8·KT28 보류. [u]1566쌍은 <ins> 변환"
+    },
+    "O/O058.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 57,
+      "punctuation_status": "source_present",
+      "note": "陳士鐸 1687년 청대 고전, 日本鈔本 공개 스캔 계통. 결자110곳 복원; 공백56·□1 보류. [u]128쌍은 <ins> 변환"
+    },
+    "O/O059.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1132,
+      "punctuation_status": "source_present",
+      "note": "黃濟之 1621년 명대 고전. 원자료 저자 朱丹溪는 오기. 결자71곳 복원; 공백1110·HT6·KT10·□6 보류. [u]952쌍은 <ins> 변환"
+    },
+    "O/O060.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 99,
+      "punctuation_status": "source_present",
+      "note": "羅美 1675년 청대 고전. jicheng 공개 전문 고유 문맥으로 결자147곳 복원, 조판18곳 확인; 공백91·HT2·KT6 보류. [u]48쌍은 <ins> 변환"
+    },
+    "O/O061.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 140,
+      "punctuation_status": "source_present",
+      "note": "蕭京 1644년 명대 고전. jicheng 공개 전문 고유 문맥으로 결자101곳 복원, 조판57곳 확인; 공백116·HT22·KT2 보류. [u]2쌍은 <ins> 변환"
+    },
+    "O/O063.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1775,
+      "punctuation_status": "source_present",
+      "note": "陳士鐸 1687년 청대 고전, 北京大學 공개 스캔 계통. 결자325곳 복원, 조판7748곳 확인; 공백1754·HT5·KT16 보류. [u]8쌍은 <ins> 변환"
+    },
+    "O/O063a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2688,
+      "punctuation_status": "source_present",
+      "note": "陳士鐸 1687년 청대 고전의 이본 전사. jicheng `_1` 전문으로 결자34곳 복원, 조판17075곳 확인; 공백2670·□18 보류"
+    },
+    "O/O065.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 480,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자79곳 교정, 조판1112곳 확인. 公백472·HT8 판독 전 보류. 표점 충분."
+    },
+    "O/O066.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 674,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자86곳 교정, 조판2328곳 확인. 공백662·HT1·KT11 판독 전 보류. 표점 충분."
+    },
+    "O/O067.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3264,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자949곳 교정, 조판4689곳 확인. 공백3224·HT31·KT9 판독 전 보류. 표점 충분."
+    },
+    "O/O068.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3606,
+      "punctuation_status": "source_present",
+      "note": "고전 의서. 결자325곳 교정, 조판6128곳 확인. 공백3590·HT10·KT6 판독 전 보류. 표점 충분."
+    },
+    "O/O069.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 665,
+      "punctuation_status": "source_present",
+      "note": "程文囿 1826년 청대 고전. 원자료 朝代·年份 오기 정정. 공개 전문으로 결자664곳 복원; 공백597·HT13·KT55 보류. [u]1148쌍은 <ins> 변환"
+    },
+    "O/O071.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 800,
+      "punctuation_status": "source_present",
+      "note": "程國彭 1732년 청대 고전. 공개 전문으로 결자82곳 복원; 공백795·HT4·KT1 보류. [u]263쌍은 <ins> 변환"
+    },
+    "O/O072.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 8066,
+      "punctuation_status": "source_present",
+      "note": "林佩琴 청대 고전, 1837년序·1851년刊 계통. 공개 전문으로 결자453곳 복원; 공백8054·HT8·KT2·□2 보류. [u]3503쌍은 <ins> 변환"
+    },
+    "O/O077.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2757,
+      "punctuation_status": "source_present",
+      "note": "확정 correction 155건 준비; 잔여 2757건. 1637년 명대 고전, 권리 안전. 원자료 표점 충분"
+    },
+    "O/O078.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 557,
+      "punctuation_status": "source_present",
+      "note": "확정 correction 65건 준비; 잔여 557건. 청대 고전, 권리 안전. 원자료 표점 충분"
+    },
+    "O/O080.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 180,
+      "punctuation_status": "source_present",
+      "note": "확정 correction 53건 준비; 잔여 180건. 1705-1758 청대 고전, 권리 안전. 원자료 표점 충분"
+    },
+    "O/O082.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 14966,
+      "punctuation_status": "source_present",
+      "note": "확정 correction 1817건 준비; 잔여 14966건. 1556년 명대 고전, 권리 안전. 원자료 표점 충분"
+    },
+    "O/O073.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4740,
+      "punctuation_status": "source_present",
+      "note": "何夢瑤 1751년 청대 고전, 北京大學 공개 스캔 계통. 결자303곳 복원안; 조판2345곳 확인; 공백4725·HT6·KT9 보류. [u]41쌍은 <ins> 변환 대상"
+    },
+    "O/O075.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2872,
+      "punctuation_status": "source_present",
+      "note": "張璐 1695년 청대 고전, 清康熙寳翰樓本 공개 스캔 계통. 결자981곳 복원안; 조판5461곳 확인; 공백2831·HT15·KT22·□4 보류. [u]1쌍은 <ins> 변환 대상"
+    },
+    "O/O076.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1412,
+      "punctuation_status": "source_present",
+      "note": "丹波元胤 1831년 일본 에도시대 고전. 1936년 영인본·早稲田 공개 스캔 계통. 결자738곳 복원안; 조판1782곳 확인; 공백991·HT72·KT25·□324 보류"
+    },
+    "O/O084.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2795,
+      "punctuation_status": "source_present",
+      "note": "許國禎 등 1267년 원대 고전, 北京大學 공개 스캔 계통. 결자149곳 복원; 공백2793·KT2 보류. [u]1쌍은 <ins> 변환"
+    },
+    "O/O088.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 256,
+      "punctuation_status": "source_present",
+      "note": "孫一奎 1573년 명대 고전. 결자71곳 복원; 공백243·HT6·KT7 보류. [u]35쌍은 <ins> 변환"
+    },
+    "O/O089.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 477,
+      "punctuation_status": "source_present",
+      "note": "楊乘六輯·王汝謙補注 1725년 청대 고전. 원자료 저자 高鼓峰은 원 의안 저자만 가리켜 서지 정정. 결자115곳 복원; 공백474·HT3 보류. [u]178쌍은 <ins> 변환"
+    },
+    "O/O092.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 488,
+      "punctuation_status": "source_present",
+      "note": "顧靖遠 1718년 청대 고전. 결자215곳 복원; 공백481·HT5·KT2 보류. [u]781쌍은 <ins> 변환"
+    },
+    "O/O096.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1009,
+      "punctuation_status": "source_present",
+      "note": "程玠 1600년 명대 고전, 1936년 공개 영인본 계통. 결자106곳 복원안; 조판1378곳 확인; 공백1007·KT2 보류. [u]68쌍은 <ins> 변환 대상"
+    },
+    "O/O097.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3177,
+      "punctuation_status": "source_present",
+      "note": "龔廷賢 1615년 명대 고전, 国立公文書館 공개 스캔 계통. 결자306곳 복원안; 조판6437곳 확인; 공백3173·KT4 보류. [u]1325쌍은 <ins> 변환 대상"
+    },
+    "O/O098.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 2451,
+      "punctuation_status": "source_present",
+      "note": "羅國綱 1789년 청대 고전. 결자408곳 복원안; 조판5270곳 확인; 공백2450·HT1 보류. [u]1093쌍은 <ins> 변환 대상"
+    },
+    "O/O104.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 548,
+      "punctuation_status": "source_present",
+      "note": "周之幹 원저의 1825년 청대 중간 계통. 결자80곳 복원안; 조판481곳 확인; 공백548 보류. [u]229쌍은 <ins> 변환 대상"
+    },
+    "O/O108.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 7054,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. correction 999건 준비, 잔여 7054건. 표점 충분"
+    },
+    "O/O108a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 381,
+      "punctuation_status": "source_present",
+      "note": "명대 고전. correction 0건 준비, 잔여 381건. 표점 충분"
+    },
+    "O/O128.txt": {
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
+      "punctuation_status": "source_present",
+      "note": "劉仕廉(號清臣) 1873~1874년 청대 고전. 전각 공백 1029곳 전수 판정: 맥상 표의 열 구분과 주석·운문 경계 등 모두 조판 공백이며 결자 없음. 원자료 표점 충분."
+    },
+    "P/P0001.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 381,
+      "punctuation_status": "source_present",
+      "note": "吳謙等 1742년 청대 고전의 1892년 石印本·四庫 공개 스캔 계통. 결자31곳 복원안; 조판223곳 확인; 공백343·KT38 보류. [u]120쌍은 <ins> 변환 대상"
+    },
+    "P/P0002.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 511,
+      "punctuation_status": "source_present",
+      "note": "吳謙等 1742년 청대 고전의 1892년 石印本·四庫 공개 스캔 계통. 결자53곳 복원안; 조판391곳 확인; 공백510·KT1 보류. [u]252쌍은 <ins> 변환 대상"
+    },
+    "P/P0002a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 69,
+      "punctuation_status": "source_present",
+      "note": "1742년 청대 관찬 고전. correction 0건 준비, 잔여 69건. 권리 안전, 표점 충분"
+    },
+    "P/P0003.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 513,
+      "punctuation_status": "source_present",
+      "note": "1742년 청대 관찬 고전. correction 37건 준비, 잔여 513건. 권리 안전, 표점 충분"
+    },
+    "P/P0003a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 638,
+      "punctuation_status": "source_present",
+      "note": "1742년 청대 관찬 고전. correction 3건 준비, 잔여 638건. 권리 안전, 표점 충분"
+    },
+    "P/P0009.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1116,
+      "punctuation_status": "source_present",
+      "note": "1742년 청대 관찬 고전. correction 21건 준비, 잔여 1116건. 권리 안전, 표점 충분"
+    },
+    "P/P0012.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1990,
+      "punctuation_status": "source_present",
+      "note": "吳謙等 1742년 청대 고전. jicheng 1892년 석인본·四庫 계통 대조로 결자 287곳 복원; 조판 공백 2104곳 확인; 1990곳 보류"
+    },
+    "P/P0013.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 681,
+      "punctuation_status": "source_present",
+      "note": "吳謙 등 1742년 청대 고전. jicheng 1892년 석인본·四庫 계통 대조로 결자 47곳 복원; 조판 공백 101곳 확인; 681곳 보류"
+    },
+    "P/P0013a.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 268,
+      "punctuation_status": "source_present",
+      "note": "1742년 관찬 고전. 공개 원문 및 동일 계통 전사로 레거시 PUA 8곳을 복원했으나, 원 배포 외자표 없이 안전하게 판독할 수 없는 PUA 28종 268곳과 구조화 저본 provenance 확인이 남아 정본 승격 보류."
+    },
+    "P/P0100.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 8325,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 명대 고전. jicheng 공개 전문 대조로 결자 876곳 복원; 조판 공백 15149곳 확인; 8325곳 보류"
+    },
+    "P/P0101.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 1317,
+      "punctuation_status": "codex_verified",
+      "note": "王肯堂 1604년 전후 명대 고전. Codex 표점 236청크를 비표점 문자 완전 보존으로 검증 완료. 결자 304곳 복원·조판 공백 2707곳 확인 후 남은 후보 1317곳의 교감은 계속 진행."
+    },
+    "P/P0102.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 631,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 명대 고전. 결자 548곳 복원; 조판 공백 15곳 확인; 631곳 보류"
+    },
+    "P/P0103.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3709,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 명대 고전. 결자 616곳 복원; 조판 공백 5897곳 확인; 3709곳 보류"
+    },
+    "P/P0104.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6299,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 명대 고전. jicheng 공개 전문 대조로 결자 775곳 복원; 조판 공백 9384곳 확인; 6299곳 보류"
+    },
+    "P/P0105.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4735,
+      "punctuation_status": "source_present",
+      "note": "王肯堂 명대 고전. jicheng 공개 전문 대조로 결자 810곳 복원; 조판 공백 6311곳 확인; 4735곳 보류"
+    },
+    "P/P0200.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 11323,
+      "punctuation_status": "source_present",
+      "note": "李時珍 1578년 명대 고전. jicheng 공개 전문 대조로 결자 2130곳 복원; 조판 공백 7706곳 확인; 11323곳 보류"
+    },
+    "P/P0201.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 3616,
+      "punctuation_status": "source_present",
+      "note": "李時珍 1578년 명대 고전. jicheng 공개 전문 대조로 결자 1491곳 복원; 조판 공백 117곳 확인; 3616곳 보류"
+    },
+    "P/P0300.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 14319,
+      "punctuation_status": "source_present",
+      "note": "992년 북송 관찬 고전. NCL 烏絲欄鈔本 계통 대조로 결자365곳 복원; 조판 공백14522곳 확인; 공백14213·HT1·KT105 보류"
+    },
+    "P/P0301.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 14349,
+      "punctuation_status": "source_present",
+      "note": "992년 북송 관찬 고전. NCL 烏絲欄鈔本 계통 대조로 결자493곳 복원; 조판 공백14172곳 확인; 공백14272·KT77 보류"
+    },
+    "P/P0400.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 9780,
+      "punctuation_status": "source_present",
+      "note": "1111~1118년 북송 관찬 고전. NCL 康熙影鈔元刊本 계통 대조로 결자1092곳 복원; 조판 공백11996곳 확인; 공백9773·KT7 보류"
+    },
+    "P/P0401.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 10008,
+      "punctuation_status": "source_present",
+      "note": "1111~1118년 북송 관찬 고전. NCL 康熙影鈔元刊本 계통 대조로 결자961곳 복원; 조판 공백11363곳 확인; 공백10001·KT7 보류"
+    },
+    "P/P0402.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 6083,
+      "punctuation_status": "source_present",
+      "note": "1111~1118년 북송 관찬 고전. 康熙影鈔元刊本 계통 대조로 결자1070곳 복원; 조판 공백10074곳 확인; 공백6082·KT1 보류"
+    },
+    "P/P0403.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 7663,
+      "punctuation_status": "source_present",
+      "note": "1111~1118년 북송 관찬 고전. 康熙影鈔元刊本 계통 대조로 결자1060곳 복원; 조판 공백8682곳 확인; 공백7622·KT41 보류"
+    },
+    "P/P0500.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 34098,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 고전, 四庫·漢リポ 계통으로 권리 안전. 동일 32MB 페이지의 권1~60 경계 대조 미완으로 공백34033·HT2·KT62·□1 전량 보류"
+    },
+    "P/P0501.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 40083,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 고전, 권리 안전. 권61 이후 경계 대조 미완으로 공백40061·HT1·KT21 전량 보류"
+    },
+    "P/P0502.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 37530,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백37468·KT62 전량 보류"
+    },
+    "P/P0503.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 43727,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백43682·KT45 전량 보류"
+    },
+    "P/P0504.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 34168,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백34103·HT1·KT64 전량 보류"
+    },
+    "P/P0505.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 43296,
+      "punctuation_status": "source_present",
+      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백43269·KT27 전량 보류"
+    },
+    "P/P0506.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 4401,
+      "punctuation_status": "source_present",
+      "note": "朱橚等 1406년 명대 普濟方 針灸門. 四庫·Kanripo 권409~426 동일 권차 대조로 결자748곳 복원; 조판2622곳; 공백4098·HT41·KT259·□3 보류; 원 헤더 저자 朱梓 오기 정정"
+    },
+    "P/P0800.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 7228,
+      "punctuation_status": "source_present",
+      "note": "徐春甫 1556년 명대 고전. 1570년 NCL 간본 권1~50 대조로 결자799곳 복원; 조판8736곳; 공백7163·HT14·KT50·□1 보류"
+    },
+    "P/P0801.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 7738,
+      "punctuation_status": "source_present",
+      "note": "徐春甫 1556년 명대 고전. 1570년 NCL 간본 권51 이후 대조로 결자1018곳 복원; 조판11355곳; 공백7701·HT8·KT21·□8 보류"
+    },
+    "C/C041.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 26,
+      "punctuation_status": "source_present",
+      "note": "明代 고전 藥鑑. jicheng 동일 전문 대조로 결자34곳 복원; 조판15곳; 미확정26곳 보류"
+    },
+    "F/F005.txt": {
+      "collation_status": "in_progress",
+      "unresolved_candidates": 785,
+      "punctuation_status": "source_present",
+      "note": "薑禮 계통 고전 風勞臌膈四大證治. jicheng 동일 전문 대조로 결자68곳 복원; 조판1040곳; 공백783·KT2 보류"
+    }
+  }
+}
