@@ -1,0 +1,22 @@
+{
+  "source_path": "K/K018.txt",
+  "title": "針經指南",
+  "source_fullwidth_spaces": 341,
+  "missing_character_spaces": 24,
+  "restored_broken_tokens": 1,
+  "preserved_layout_spaces_after_correction": 318,
+  "mixed_missing_and_layout_slots": 1,
+  "unresolved": 0,
+  "method": [
+    "jicheng.tw 최신 교감 전문과 전역 문맥 정렬",
+    "Wikisource 및 CText 독립 전사 교차 대조",
+    "질환·장부·혈위 목록 구분 공백과 실제 결자를 전수 수동 분류",
+    "생성 마크다운의 잔존 HT·KT·□·U+FFFD·[c] 검사"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "https://ctext.org/wiki.pl?if=gb&res=738986"
+  ],
+  "note": "전각 공백 341곳 중 24곳이 결자 위치다. 胃橫豎痃氣 뒤 한 곳은 결자를 복원한 뒤에도 장부 표지 구분 공백으로 유지했으며, 순수 판면 공백 317곳과 합쳐 교정 후 318곳을 보존했다. KT 1곳은 최신판의 IDS ⿰⺼答로 복원했다."
+}

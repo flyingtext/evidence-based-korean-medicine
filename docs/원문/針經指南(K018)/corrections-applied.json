@@ -1,0 +1,226 @@
+[
+  {
+    "before": "信知除　見於目下",
+    "after": "信知除疴見於目下",
+    "expected_count": 1,
+    "reason": "독립 전사 및 최신판 대조로 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "jicheng 최신판은 除疴見於目下로 수록함"
+  },
+  {
+    "before": "古　肥鄉人",
+    "after": "古洺肥鄉人",
+    "expected_count": 1,
+    "reason": "지명 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판의 지명은 古洺肥鄉임"
+  },
+  {
+    "before": "須明逆順；況陽之分；氣盛血多者，陽明之位。",
+    "after": "須明逆順；況乎陰陽，氣血多少為最。厥陰太陽，少氣多血；太陰少陰，少血多氣；而又氣多血少者，少陽之分；氣盛血多者，陽明之位。",
+    "expected_count": 1,
+    "reason": "두 독립 전사의 평행 전문 대조로 중간 탈락 문장 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "Wikisource와 jicheng 최신판 모두 음양 육경의 기혈 다소 설명 전체를 수록함"
+  },
+  {
+    "before": "據虛實而　氣",
+    "after": "據虛實而候氣",
+    "expected_count": 1,
+    "reason": "독립 전사와 침법 문맥으로 결자 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "독립 전사는 未至也，據虛實而候氣로 수록함"
+  },
+  {
+    "before": "毫針最微，七星可應",
+    "after": "毫針最微，七星上應",
+    "expected_count": 1,
+    "reason": "독립 전사 대조로 공백 없는 탈자 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "독립 전사는 七星上應으로 수록함"
+  },
+  {
+    "before": "有決疑開滯之機",
+    "after": "有決凝開滯之機",
+    "expected_count": 1,
+    "reason": "복수 전사 대조로 OCR 형사 오기 교정",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "독립 전사는 決凝開滯로 수록함"
+  },
+  {
+    "before": "在陰分　之間",
+    "after": "在陰分郄膕之間",
+    "expected_count": 1,
+    "reason": "해부 위치 문맥과 복수 전사 대조로 두 글자 결락 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판과 독립 전사가 모두 郄膕之間으로 일치함"
+  },
+  {
+    "before": "華佗刺　足而立行",
+    "after": "華佗刺躄足而立行",
+    "expected_count": 1,
+    "reason": "질환 표현 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 躄足而立行으로 수록함"
+  },
+  {
+    "before": "鬼免沉　",
+    "after": "鬼免沉疴",
+    "expected_count": 1,
+    "reason": "질환 표현 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 鬼免沉疴로 수록함"
+  },
+  {
+    "before": "眵　冷淚",
+    "after": "眵䁾冷淚",
+    "expected_count": 1,
+    "reason": "안과 증상 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 眵䁾冷淚로 수록함"
+  },
+  {
+    "before": "上柱骨（缺盆外橫骨是也。）　（顴外是也",
+    "after": "上柱骨（缺盆外橫骨是也。）䪼（顴外是也",
+    "expected_count": 1,
+    "reason": "해부 명칭 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판의 표제어는 䪼임"
+  },
+  {
+    "before": "脅（腋下是也。）　（屈心是也。）",
+    "after": "脅（腋下是也。）膕（屈心是也。）",
+    "expected_count": 1,
+    "reason": "해부 명칭 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판의 표제어는 膕임"
+  },
+  {
+    "before": "胳肘底胳KT　是也",
+    "after": "胳肘底胳⿰⺼答是也",
+    "expected_count": 1,
+    "reason": "깨진 KT 토큰과 결자를 IDS 표기로 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 해당 희귀자를 ⿰⺼答 IDS로 수록함"
+  },
+  {
+    "before": "腋下　內（臂節是也。）",
+    "after": "腋下臑內（臂節是也。）",
+    "expected_count": 1,
+    "reason": "해부 명칭 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 腋下臑內로 수록함"
+  },
+  {
+    "before": "上曰膺下曰胸，　骨（　骨是也。）",
+    "after": "上曰膺下曰胸，骭骨（䯒骨是也。）",
+    "expected_count": 1,
+    "reason": "복수 해부 명칭 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 骭骨（䯒骨是也）로 수록함"
+  },
+  {
+    "before": "核骨（孤拐骨是也。）　骨（脛足骨是也。）",
+    "after": "核骨（孤拐骨是也。）䯒骨（脛足骨是也。）",
+    "expected_count": 1,
+    "reason": "해부 명칭 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판의 표제어는 䯒骨임"
+  },
+  {
+    "before": "身體之橐　",
+    "after": "身體之橐籥",
+    "expected_count": 1,
+    "reason": "고전 어휘 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 橐籥으로 수록함"
+  },
+  {
+    "before": "胃橫豎　氣　肝胃",
+    "after": "胃橫豎痃氣　肝胃",
+    "expected_count": 1,
+    "reason": "증상명 결자 복원 및 목록 구분 공백 보존",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판의 대응 증상은 橫豎痃氣이며 뒤 공백은 장부 목록 구분임"
+  },
+  {
+    "before": "無刺　之熱",
+    "after": "無刺熇熇之熱",
+    "expected_count": 1,
+    "reason": "《針經》 인용 및 최신판 대조로 두 글자 결락 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 無刺熇熇之熱로 수록함"
+  },
+  {
+    "before": "平水閉邪　叟述",
+    "after": "平水閉邪瞶叟述",
+    "expected_count": 1,
+    "reason": "호칭 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 閉邪瞶叟로 수록함"
+  },
+  {
+    "before": "一　針，二員針，三　針",
+    "after": "一鑱針，二員針，三鍉針",
+    "expected_count": 1,
+    "reason": "《靈樞》 구침 명칭 대조로 두 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판과 구침 정식 명칭은 鑱針·鍉針임"
+  },
+  {
+    "before": "季夏刺　（土）",
+    "after": "季夏刺腧（土）",
+    "expected_count": 1,
+    "reason": "오수혈 명칭 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 季夏刺腧로 수록함"
+  },
+  {
+    "before": "所注為　（木）",
+    "after": "所注為腧（木）",
+    "expected_count": 1,
+    "reason": "오수혈 명칭 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 所注為腧로 수록함"
+  },
+  {
+    "before": "不若　功立排疾勢",
+    "after": "不若矻功立排疾勢",
+    "expected_count": 1,
+    "reason": "후서 문맥의 외자 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97/index.html",
+    "evidence_note": "최신판은 矻功立排疾勢로 수록함"
+  },
+  {
+    "before": "商陰陵泉。脾屬土",
+    "after": "商丘、陰陵泉。脾屬土",
+    "expected_count": 1,
+    "reason": "족태음비경 오수혈 목록 대조로 탈자·표점 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "비경 오수혈은 隱白·大都·太白·商丘·陰陵泉임"
+  },
+  {
+    "before": "心屬火，在支，在干為丁。",
+    "after": "心屬火，在支為午，在干為丁。",
+    "expected_count": 1,
+    "reason": "지간 배속 평행 구문 대조로 공백 없는 탈락 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "심의 지지 배속은 午이며 전후 경맥 설명과 같은 문형임"
+  },
+  {
+    "before": "此之謂陰陽表裡支足少陰腎經配足太陽膀胱經相為表裡",
+    "after": "此之謂陰陽表裡支干配合也。足少陰腎經配足太陽膀胱經相為表裡",
+    "expected_count": 1,
+    "reason": "반복 문형과 독립 전사 대조로 문장 말미 탈락 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "각 경맥 단락의 공통 종결문 支干配合也가 탈락해 두 단락이 붙은 것을 복원함"
+  },
+  {
+    "before": "膀胱屬火，在支為戌",
+    "after": "膀胱屬水，在支為戌",
+    "expected_count": 1,
+    "reason": "장부 오행 배속과 독립 전사 대조로 OCR 오기 교정",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%B6%93%E6%8C%87%E5%8D%97",
+    "evidence_note": "방광은 水에 속하며 같은 문장의 천간 壬과도 일치함"
+  }
+]
