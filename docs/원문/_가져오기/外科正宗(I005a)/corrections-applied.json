@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "before": "[c]hldam[/c]",
+    "after": "齄",
+    "expected_count": 6,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97_1/index.html"
+  },
+  {
+    "before": "[c]vfohg[/c]",
+    "after": "插",
+    "expected_count": 2,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97_1/index.html"
+  },
+  {
+    "before": "[c]ftlm[/c]",
+    "after": "熯",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97_1/index.html"
+  }
+]

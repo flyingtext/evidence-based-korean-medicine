@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "before": "氣稟有濃薄之殊",
+    "after": "氣稟有厚薄之殊",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  },
+  {
+    "before": "有辨大毒而忽小　者",
+    "after": "有辨大毒而忽小疴者",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  },
+  {
+    "before": "熱如KT　火",
+    "after": "熱如焫火",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  },
+  {
+    "before": "針孔膿KT　不利",
+    "after": "針孔膿不利",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 불필요 외자 표식 제거",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  },
+  {
+    "before": "四五日內逆。KT　之",
+    "after": "四五日內逆焫之",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 외자·구두 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  },
+  {
+    "before": "日HT　飯升余",
+    "after": "日噉飯升余",
+    "expected_count": 1,
+    "reason": "공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html"
+  }
+]

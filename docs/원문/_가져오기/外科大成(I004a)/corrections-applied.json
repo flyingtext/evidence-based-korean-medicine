@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "before": "[c]tijc[/c]",
+    "after": "麻",
+    "expected_count": 26,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]bitc[/c]",
+    "after": "𦢎",
+    "expected_count": 20,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]kwww[/c]",
+    "after": "㿔",
+    "expected_count": 11,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]ktmc[/c]",
+    "after": "𤷍",
+    "expected_count": 10,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]tjmv[/c]",
+    "after": "𦸅",
+    "expected_count": 10,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]kytr[/c]",
+    "after": "㾦",
+    "expected_count": 8,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]bbhon[/c]",
+    "after": "䯒",
+    "expected_count": 4,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]easm[/c]",
+    "after": "溻",
+    "expected_count": 3,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]rck[/c]",
+    "after": "㕮",
+    "expected_count": 2,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]wfmj[/c]",
+    "after": "䵟",
+    "expected_count": 2,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]hehaf[/c]",
+    "after": "𪄀",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]domc[/c]",
+    "after": "檳",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]hhlbu[/c]",
+    "after": "躭",
+    "expected_count": 1,
+    "reason": "jicheng 고문헌 전사층 대조 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]vfohg[/c]",
+    "after": "插",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]cgsk[/c]",
+    "after": "𨫼",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]litgi[/c]",
+    "after": "蜣",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]wfcwa[/c]",
+    "after": "𪒟",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]fjii[/c]",
+    "after": "𤍿",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  },
+  {
+    "before": "[c]tjwc[/c]",
+    "after": "𧁐",
+    "expected_count": 1,
+    "reason": "jicheng 대체 전문의 외자 코드 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90_1/index.html"
+  }
+]
