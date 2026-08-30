@@ -1,0 +1,39 @@
+{
+  "source_path": "K/K103.txt",
+  "title": "西方子明堂灸經",
+  "source_audit": {
+    "fullwidth_spaces": 211,
+    "HT": 1,
+    "KT": 32,
+    "raw_boxes": 1,
+    "replacement_char": 0,
+    "underline_open_tags": 0,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 19
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 3,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 0,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 19
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%A5%BF%E6%96%B9%E5%AD%90%E6%98%8E%E5%A0%82%E7%81%B8%E7%B6%93/index.html",
+    "https://square.umin.ac.jp/mayanagi/paper01/TwKokka.html",
+    "https://catalog.digitalarchives.tw/item/00/07/ec/45.html"
+  ],
+  "corrected_body_sha256": "e553f7cde4a19dba15085735fa35d0a509bd08b3964d0269af5047aa11a0bda9",
+  "note": "전각 공백 211곳·HT 1곳·KT 32곳·□ 1곳·[i] 도판 19곳 전수 판정. jicheng 國家圖書館 明刊本·四庫本과 국가도서관 서지 대조로 결자·OCR·탈락 복원 및 도판 표지 보존, 원자료 표점 충분"
+}

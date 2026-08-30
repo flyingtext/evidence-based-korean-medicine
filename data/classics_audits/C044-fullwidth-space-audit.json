@@ -1,0 +1,39 @@
+{
+  "source_path": "C/C044.txt",
+  "title": "神農本草經百種錄",
+  "source_audit": {
+    "fullwidth_spaces": 434,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 0,
+    "corrupt_c_tags": 5,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 0,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 1,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E7%99%BE%E7%A8%AE%E9%8C%84/index.html",
+    "https://ctext.org/wiki.pl?if=gb&remap=gb&res=201916",
+    "https://www.shidianguji.com/book/SK1510/chapter/1m1ent0h2p2q1"
+  ],
+  "corrected_body_sha256": "0287128baca80ee0db01d33fa7704047df988e8169276d66ff7307baaa79f36b",
+  "note": "전각 공백 434곳·[c] 깨진 토큰 5곳 전수 판정. jicheng 美國國會圖書館·四庫 스캔 정리본과 CText·識典古籍 대조로 희귀자·OCR·탈락 복원, 원자료 표점 충분"
+}

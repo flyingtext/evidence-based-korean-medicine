@@ -1,0 +1,38 @@
+{
+  "source_path": "N/N028.txt",
+  "title": "知醫必辨",
+  "source_audit": {
+    "fullwidth_spaces": 87,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 72,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 2,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔 기반 공개 전문 대조",
+    "독립 공개 전사·영인 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E7%9F%A5%E9%86%AB%E5%BF%85%E8%BE%A8/index.html",
+    "https://www.zysj.com.cn/lilunshuji/zhiyibibian5718/quanben.html"
+  ],
+  "corrected_body_sha256": "ab870600f1ce4e7c92ccb54026c92fd4f6f0ef6a26e662596583ad621fcfc563",
+  "note": "전각 공백 87곳·[u] 2곳 전수 판정. jicheng 최신 전문과 中醫世家 독립 전문 대조로 OCR 오기·탈락 교정, 1849년 서지 보정, 원자료 표점 충분"
+}
