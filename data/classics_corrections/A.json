@@ -37359,5 +37359,106 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html",
       "evidence_note": "A/A402.txt: 좌우 한자 각 14자 고유 일치"
     }
+  ],
+  "A/A203.txt": [
+    {
+      "before": "白僵蠶粟羚羊胡連安息香",
+      "after": "白僵蠶粟米羚羊角胡黃連安息香",
+      "expected_count": 1,
+      "reason": "직접 인용 원전 《元和紀用經》 약물열을 대조해 연속 탈자 복원",
+      "evidence_url": "https://www.shidianguji.com/book/HY5787/chapter/1kyavg82fomq7"
+    },
+    {
+      "before": "車前子雞　楮實秦椒",
+      "after": "車前子雞肶胵楮實秦椒",
+      "expected_count": 1,
+      "reason": "직접 인용 원전 약물열과 독립 본초 이명을 대조해 약물명 복원",
+      "evidence_url": "https://www.shidianguji.com/book/HY5787/chapter/1kyavg82fomq7",
+      "evidence_note": "《本草害利》도 雞肶胵를 雞內金의 이명으로 확인"
+    },
+    {
+      "before": "飲食衣藥溫□故以輕犯寒熱",
+      "after": "飲食衣藥溫涼故以輕犯寒熱",
+      "expected_count": 1,
+      "reason": "직접 인용 원전의 동일 문장을 대조해 결자 복원",
+      "evidence_url": "https://www.shidianguji.com/book/HY5787/chapter/1kyavg82fomq7"
+    },
+    {
+      "before": "發生之紀是謂啟東HT王冰曰",
+      "after": "發生之紀是謂啟𢽬王冰曰",
+      "expected_count": 1,
+      "reason": "공개 영인 연계 전사와 동일 권 판면 계통 대조 희귀자 복원",
+      "evidence_url": "https://www.shidianguji.com/zh/book/YCM294300031/chapter/1l9fnj4yhnkfm"
+    },
+    {
+      "before": "六歲化也HT　古陳字",
+      "after": "六歲化也𢽬古陳字",
+      "expected_count": 1,
+      "reason": "동일 글자의 자체 훈석과 공개 전사를 대조해 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "成開方病HT　風得之數大醉",
+      "after": "成開方病𱱎風得之數大醉",
+      "expected_count": 1,
+      "reason": "동일 인명·의안 문맥의 공개 전사를 대조해 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "任穀HT　曰此章論五臟六腑",
+      "after": "任穀⿸广𤲅曰此章論五臟六腑",
+      "expected_count": 1,
+      "reason": "공개 영인 연계 전사에서 주석자명 자형을 확인해 IDS로 보존",
+      "evidence_url": "https://www.shidianguji.com/book/YCM294300031/chapter/1l9fnjifcvk86"
+    },
+    {
+      "before": "左傳葵能衛其足者是HT　風七月烹葵及菽",
+      "after": "左傳葵能衛其足者是𥻿風七月烹葵及菽",
+      "expected_count": 1,
+      "reason": "공개 전사와 《詩經·豳風·七月》 인용을 대조해 이체자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "藿說文作HT之少也",
+      "after": "藿說文作𧆑尗之少也",
+      "expected_count": 1,
+      "reason": "공개 전사의 동일 설문 인용으로 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "爾雅釋草HT　鹿藿注今鹿豆也",
+      "after": "爾雅釋草蔨鹿藿注今鹿豆也",
+      "expected_count": 1,
+      "reason": "공개 전사의 동일 《爾雅》 인용으로 결자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "上角太角右角HT　角判角同調",
+      "after": "上角太角右角𮡧角判角同調",
+      "expected_count": 1,
+      "reason": "영인 연계 전사와 《靈樞》 오음 열을 대조해 판본 이체자 복원",
+      "evidence_url": "https://www.shidianguji.com/book/YCM294300031/chapter/1l9fnjifcvk86"
+    },
+    {
+      "before": "多食酸則肉胝KT　而唇揭",
+      "after": "多食酸則肉胝䐢而唇揭",
+      "expected_count": 1,
+      "reason": "공개 전사의 《生氣通天論》 인용으로 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "故肉胝KT　而唇皮揭舉",
+      "after": "故肉胝䐢而唇皮揭舉",
+      "expected_count": 1,
+      "reason": "주문과 주석의 평행 문구 및 공개 전사로 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    },
+    {
+      "before": "苦菜與苦HT　無異嫩莖葉可食",
+      "after": "苦菜與苦𦽿無異嫩莖葉可食",
+      "expected_count": 1,
+      "reason": "공개 전사의 동일 본초 문구로 희귀자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html"
+    }
   ]
 }
