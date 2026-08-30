@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "before": "區KT　物類",
+    "after": "區畛物類",
+    "expected_count": 1,
+    "evidence": "학술 인용문에 《本草經集注》 원문이 區畛物類로 수록됨. https://www11.ihp.sinica.edu.tw/storage/w2_file/4765dbCbGbW.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "[u]滅KT　[/u]",
+    "after": "[u]滅瘢[/u]",
+    "expected_count": 1,
+    "evidence": "동일 본초 항목의 효능 표제가 滅瘢으로 전승됨. https://homeinmists.ilotus.org/docs/Z21.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "出KT　縣界東八十裡",
+    "after": "出隨縣界東八十裡",
+    "expected_count": 1,
+    "evidence": "의양·무릉과 함께 열거되는 지명 문맥 및 隨縣 지명에 부합.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "洛陽城南KT　，常取少室",
+    "after": "洛陽城南嵩，常取少室",
+    "expected_count": 1,
+    "evidence": "少室은 嵩山의 봉우리이므로 洛陽城南嵩과 지리적으로 유일하게 연결됨.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "素白如KT　。今越人名為浣草",
+    "after": "素白如絨。今越人名為浣草",
+    "expected_count": 1,
+    "evidence": "《新修本草》 전자 대조본에 可以浣縑，素白如絨으로 확인됨. https://www.zysj.com.cn/lilunshuji/xinxiubencao5330/quanben.html",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "一名石KT　。生六安",
+    "after": "一名石蓫。生六安",
+    "expected_count": 1,
+    "evidence": "《新修本草》 인용 원문에 一名石蓫으로 확인됨. https://www.34485257.why3s.cc/2301/2301.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "味KT　，好作菹",
+    "after": "味辣，好作菹",
+    "expected_count": 1,
+    "evidence": "대조 전자본에 味辣，好作菹로 확인됨. https://qihuangzhishu.com/223/747.htm",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "甚KT　快",
+    "after": "甚辣快",
+    "expected_count": 1,
+    "evidence": "같은 문장의 대조 전자본에 甚辣快로 확인됨. https://qihuangzhishu.com/223/747.htm",
+    "reason": "공개 판본 대조로 결자 복원"
+  }
+]

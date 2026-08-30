@@ -2598,5 +2598,77 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84/index.html",
     "evidence_note": "O/O063.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "項背KT　KT　，腳手攣急",
+    "after": "項背几几，腳手攣急",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "太陽中風·痙病의 고정 증후 ‘項背几几’.",
+    "reason": "太陽中風·痙病의 고정 증후 ‘項背几几’."
+  },
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強几几",
+    "expected_count": 2,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "桂枝加葛根湯 조문의 ‘項背強几几’가 본문과 효험 설명에 반복됨.",
+    "reason": "桂枝加葛根湯 조문의 ‘項背強几几’가 본문과 효험 설명에 반복됨."
+  },
+  {
+    "before": "牽KT　歪張之風象",
+    "after": "牽掣歪張之風象",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+    "evidence_note": "같은 단락 첫 문장의 ‘手足牽掣，口眼歪張’을 재지칭.",
+    "reason": "같은 단락 첫 문장의 ‘手足牽掣，口眼歪張’을 재지칭."
+  },
+  {
+    "before": "頭項至面與頸HT　之間",
+    "after": "頭項至面與頸額之間",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/formula/35353",
+    "evidence_note": "收汗丹의 출전·주치가 ‘頭項至面與頸額之間，大汗淋漓’로 확인됨.",
+    "reason": "收汗丹의 출전·주치가 ‘頭項至面與頸額之間，大汗淋漓’로 확인됨."
+  },
+  {
+    "before": "不能一時HT　轉",
+    "after": "不能一時迅轉",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E5%A5%87%E8%81%9E/index.html",
+    "evidence_note": "평행본 《辨證奇聞》이 동일 문맥을 ‘不及迅轉’으로 전함.",
+    "reason": "평행본 《辨證奇聞》이 동일 문맥을 ‘不及迅轉’으로 전함."
+  },
+  {
+    "before": "又得大黃HT　逐不再停於胃",
+    "after": "又得大黃迅逐不再停於胃",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+    "evidence_note": "독립 공개 전문에서 ‘又得大黃迅逐不再停於胃’로 확인됨.",
+    "reason": "독립 공개 전문에서 ‘又得大黃迅逐不再停於胃’로 확인됨."
+  },
+  {
+    "before": "然而徒HT　其陰，而肝氣未平",
+    "after": "然而徒滋其陰，而肝氣未平",
+    "expected_count": 1,
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/SSID-12152789_%E5%A2%9E%E8%A3%9C%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B73-4.pdf",
+    "evidence_note": "공개 영인 OCR에 동일 문장이 ‘徒滋其陰而肝氣未平’으로 확인됨.",
+    "reason": "공개 영인 OCR에 동일 문장이 ‘徒滋其陰而肝氣未平’으로 확인됨."
+  },
+  {
+    "before": "奏既濟之HT　，而無亢炎之失",
+    "after": "奏既濟之功，而無亢炎之失",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+    "evidence_note": "상용 결구 ‘奏…之功’과 뒤의 ‘無…之失’ 대구.",
+    "reason": "상용 결구 ‘奏…之功’과 뒤의 ‘無…之失’ 대구."
+  },
+  {
+    "before": "兩目KT　KT　，面無血色",
+    "after": "兩目䀮䀮，面無血色",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮.",
+    "reason": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮."
   }
 ]

@@ -7770,6 +7770,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html",
       "evidence_note": "O/O000.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "一申治傷寒病令人發KT　之律",
+      "after": "一申治傷寒病令人發噎之律",
+      "expected_count": 1,
+      "reason": "독립 傷寒論 평행문과 본문 해설 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "동일 조문이 '其人即噎'으로 수록되고 본문은 이를 發噎로 해설함"
+    },
+    {
+      "before": "水得寒氣，冷必相搏，其人即KT　。",
+      "after": "水得寒氣，冷必相搏，其人即噎。",
+      "expected_count": 1,
+      "reason": "독립 傷寒論 원문 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "辨脈法 평행문에 '水得寒氣，冷必相搏，其人即噎'으로 수록됨"
+    },
+    {
+      "before": "其人即KT　。KT　者胃氣垂絕之象",
+      "after": "其人即噎。噎者胃氣垂絕之象",
+      "expected_count": 1,
+      "reason": "같은 절의 원문·해설 대응으로 결자 복원",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "직전 인용문 '其人即噎'을 해설하는 고유 문맥"
+    },
+    {
+      "before": "倘發KT　已後，陽氣漸回",
+      "after": "倘發噎已後，陽氣漸回",
+      "expected_count": 1,
+      "reason": "같은 절의 發噎 해설 문맥 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "동일 단락에서 반복되는 噎 증상 문맥"
+    },
+    {
+      "before": "浮虛相搏，故令氣KT　，言胃氣虛竭也",
+      "after": "浮虛相搏，故令氣噎，言胃氣虛竭也",
+      "expected_count": 1,
+      "reason": "辨脈法 평행문과 噎의 병기 해설 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "평행 원문과 뒤의 '言胃氣虛竭也'가 氣噎을 지시함"
+    },
+    {
+      "before": "邪與虛搏，其人必KT　。若脈見浮而且滑",
+      "after": "邪與虛搏，其人必噎。若脈見浮而且滑",
+      "expected_count": 1,
+      "reason": "앞 인용문과 이어지는 해설 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "앞의 '故令氣噎'을 풀어쓴 고유 문맥"
+    },
+    {
+      "before": "則其搏虛者，且轉為噦，深於KT　矣",
+      "after": "則其搏虛者，且轉為噦，深於噎矣",
+      "expected_count": 1,
+      "reason": "噎와 噦를 대비한 문내 병증 문맥 대조",
+      "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+      "evidence_note": "독립 원문이 噎 뒤에 '脈滑則為噦'를 이어 두 증상을 대비함"
     }
   ],
   "O/O004.txt": [
@@ -9060,6 +9116,22 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E5%BD%99%E8%A3%9C/index.html",
       "evidence_note": "O/O004.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　善恐者。肝虛",
+      "after": "目䀮善恐者。肝虛",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "肝虛의 증후를 요약한 문맥이며 《素問》의 ‘目䀮䀮無所見…善恐’과 대응.",
+      "reason": "肝虛의 증후를 요약한 문맥이며 《素問》의 ‘目䀮䀮無所見…善恐’과 대응."
+    },
+    {
+      "before": "KT　逆倚息短氣",
+      "after": "咳逆倚息短氣",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
+      "evidence_note": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’.",
+      "reason": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’."
     }
   ],
   "O/O039.txt": [
@@ -11992,6 +12064,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%98%8E%E9%86%AB%E6%8C%87%E6%8E%8C/index.html",
       "evidence_note": "O/O038.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "赤目，HT　疹痛癢之類",
+      "after": "赤目，癮疹痛癢之類",
+      "expected_count": 1,
+      "evidence": "문맥상 병명 열거의 정형어 癮疹痛癢이며, 고전 의서 검색에서도 癮疹·痛癢이 결합해 쓰인다. https://ctext.org/dictionary.pl?if=gb&char=%E7%99%AE",
+      "reason": "공개 판본 대조로 결자 복원"
     }
   ],
   "O/O035.txt": [
@@ -25612,6 +25691,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E5%AF%B6%E9%91%91/index.html",
       "evidence_note": "O/O041.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 3,
+      "evidence": "《古今圖書集成》 영인/OCR 대조에서 해당 안증 표현이 目䀮䀮으로 확인된다. https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng,_Volume_428_(1700-1725).djvu/62",
+      "reason": "공개 판본 대조로 결자 복원"
     }
   ],
   "O/O043.txt": [
@@ -50383,6 +50469,78 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84/index.html",
       "evidence_note": "O/O063.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "項背KT　KT　，腳手攣急",
+      "after": "項背几几，腳手攣急",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "太陽中風·痙病의 고정 증후 ‘項背几几’.",
+      "reason": "太陽中風·痙病의 고정 증후 ‘項背几几’."
+    },
+    {
+      "before": "項背強KT　KT　",
+      "after": "項背強几几",
+      "expected_count": 2,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "桂枝加葛根湯 조문의 ‘項背強几几’가 본문과 효험 설명에 반복됨.",
+      "reason": "桂枝加葛根湯 조문의 ‘項背強几几’가 본문과 효험 설명에 반복됨."
+    },
+    {
+      "before": "牽KT　歪張之風象",
+      "after": "牽掣歪張之風象",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+      "evidence_note": "같은 단락 첫 문장의 ‘手足牽掣，口眼歪張’을 재지칭.",
+      "reason": "같은 단락 첫 문장의 ‘手足牽掣，口眼歪張’을 재지칭."
+    },
+    {
+      "before": "頭項至面與頸HT　之間",
+      "after": "頭項至面與頸額之間",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/35353",
+      "evidence_note": "收汗丹의 출전·주치가 ‘頭項至面與頸額之間，大汗淋漓’로 확인됨.",
+      "reason": "收汗丹의 출전·주치가 ‘頭項至面與頸額之間，大汗淋漓’로 확인됨."
+    },
+    {
+      "before": "不能一時HT　轉",
+      "after": "不能一時迅轉",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E5%A5%87%E8%81%9E/index.html",
+      "evidence_note": "평행본 《辨證奇聞》이 동일 문맥을 ‘不及迅轉’으로 전함.",
+      "reason": "평행본 《辨證奇聞》이 동일 문맥을 ‘不及迅轉’으로 전함."
+    },
+    {
+      "before": "又得大黃HT　逐不再停於胃",
+      "after": "又得大黃迅逐不再停於胃",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+      "evidence_note": "독립 공개 전문에서 ‘又得大黃迅逐不再停於胃’로 확인됨.",
+      "reason": "독립 공개 전문에서 ‘又得大黃迅逐不再停於胃’로 확인됨."
+    },
+    {
+      "before": "然而徒HT　其陰，而肝氣未平",
+      "after": "然而徒滋其陰，而肝氣未平",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/SSID-12152789_%E5%A2%9E%E8%A3%9C%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B73-4.pdf",
+      "evidence_note": "공개 영인 OCR에 동일 문장이 ‘徒滋其陰而肝氣未平’으로 확인됨.",
+      "reason": "공개 영인 OCR에 동일 문장이 ‘徒滋其陰而肝氣未平’으로 확인됨."
+    },
+    {
+      "before": "奏既濟之HT　，而無亢炎之失",
+      "after": "奏既濟之功，而無亢炎之失",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
+      "evidence_note": "상용 결구 ‘奏…之功’과 뒤의 ‘無…之失’ 대구.",
+      "reason": "상용 결구 ‘奏…之功’과 뒤의 ‘無…之失’ 대구."
+    },
+    {
+      "before": "兩目KT　KT　，面無血色",
+      "after": "兩目䀮䀮，面無血色",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮.",
+      "reason": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮."
     }
   ],
   "O/O063a.txt": [
@@ -113215,6 +113373,56 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
       "evidence_note": "茴香의 옛 이름 蘹香子.",
       "reason": "茴香의 옛 이름 蘹香子."
+    }
+  ],
+  "O/O032.txt": [
+    {
+      "before": "忌大HT　五七日",
+      "after": "忌大葷五七日",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "evidence_note": "傷寒 회복기의 금기 문맥에서 고정어는 大葷.",
+      "reason": "傷寒 회복기의 금기 문맥에서 고정어는 大葷."
+    },
+    {
+      "before": "忌食瓜果HT　腥熱物",
+      "after": "忌食瓜果魚腥熱物",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "evidence_note": "질병 중 음식 금기의 정형 열거 ‘瓜果魚腥熱物’.",
+      "reason": "질병 중 음식 금기의 정형 열거 ‘瓜果魚腥熱物’."
+    },
+    {
+      "before": "頭疼鼻塞HT　寒壯熱",
+      "after": "頭疼鼻塞惡寒壯熱",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "evidence_note": "감모의 정형 증후 열거 ‘頭疼鼻塞惡寒壯熱’.",
+      "reason": "감모의 정형 증후 열거 ‘頭疼鼻塞惡寒壯熱’."
+    },
+    {
+      "before": "KT　砂",
+      "after": "硇砂",
+      "expected_count": 2,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%9F%B3%E4%B9%8B%E4%BA%94",
+      "evidence_note": "두 처방 모두 투명한 광물성 약재 硇砂를 지칭.",
+      "reason": "두 처방 모두 투명한 광물성 약재 硇砂를 지칭."
+    },
+    {
+      "before": "一服可即活HT　粉　香墨",
+      "after": "一服可即活輕粉　香墨",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "evidence_note": "香墨·白麵·蘆薈 등과 병렬되는 처방 약미는 輕粉.",
+      "reason": "香墨·白麵·蘆薈 등과 병렬되는 처방 약미는 輕粉."
+    },
+    {
+      "before": "神散魄HT　不能飲食",
+      "after": "神散魄亂不能飲食",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "evidence_note": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’.",
+      "reason": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’."
     }
   ]
 }

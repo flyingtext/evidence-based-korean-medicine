@@ -1974,5 +1974,12 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%98%8E%E9%86%AB%E6%8C%87%E6%8E%8C/index.html",
     "evidence_note": "O/O038.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "赤目，HT　疹痛癢之類",
+    "after": "赤目，癮疹痛癢之類",
+    "expected_count": 1,
+    "evidence": "문맥상 병명 열거의 정형어 癮疹痛癢이며, 고전 의서 검색에서도 癮疹·痛癢이 결합해 쓰인다. https://ctext.org/dictionary.pl?if=gb&char=%E7%99%AE",
+    "reason": "공개 판본 대조로 결자 복원"
   }
 ]

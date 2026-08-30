@@ -2430,5 +2430,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html",
     "evidence_note": "O/O000.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "一申治傷寒病令人發KT　之律",
+    "after": "一申治傷寒病令人發噎之律",
+    "expected_count": 1,
+    "reason": "독립 傷寒論 평행문과 본문 해설 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "동일 조문이 '其人即噎'으로 수록되고 본문은 이를 發噎로 해설함"
+  },
+  {
+    "before": "水得寒氣，冷必相搏，其人即KT　。",
+    "after": "水得寒氣，冷必相搏，其人即噎。",
+    "expected_count": 1,
+    "reason": "독립 傷寒論 원문 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "辨脈法 평행문에 '水得寒氣，冷必相搏，其人即噎'으로 수록됨"
+  },
+  {
+    "before": "其人即KT　。KT　者胃氣垂絕之象",
+    "after": "其人即噎。噎者胃氣垂絕之象",
+    "expected_count": 1,
+    "reason": "같은 절의 원문·해설 대응으로 결자 복원",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "직전 인용문 '其人即噎'을 해설하는 고유 문맥"
+  },
+  {
+    "before": "倘發KT　已後，陽氣漸回",
+    "after": "倘發噎已後，陽氣漸回",
+    "expected_count": 1,
+    "reason": "같은 절의 發噎 해설 문맥 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "동일 단락에서 반복되는 噎 증상 문맥"
+  },
+  {
+    "before": "浮虛相搏，故令氣KT　，言胃氣虛竭也",
+    "after": "浮虛相搏，故令氣噎，言胃氣虛竭也",
+    "expected_count": 1,
+    "reason": "辨脈法 평행문과 噎의 병기 해설 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "평행 원문과 뒤의 '言胃氣虛竭也'가 氣噎을 지시함"
+  },
+  {
+    "before": "邪與虛搏，其人必KT　。若脈見浮而且滑",
+    "after": "邪與虛搏，其人必噎。若脈見浮而且滑",
+    "expected_count": 1,
+    "reason": "앞 인용문과 이어지는 해설 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "앞의 '故令氣噎'을 풀어쓴 고유 문맥"
+  },
+  {
+    "before": "則其搏虛者，且轉為噦，深於KT　矣",
+    "after": "則其搏虛者，且轉為噦，深於噎矣",
+    "expected_count": 1,
+    "reason": "噎와 噦를 대비한 문내 병증 문맥 대조",
+    "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
+    "evidence_note": "독립 원문이 噎 뒤에 '脈滑則為噦'를 이어 두 증상을 대비함"
   }
 ]

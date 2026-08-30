@@ -1110,5 +1110,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%9A%B4%E6%B0%8F%E6%BF%9F%E7%94%9F%E6%96%B9/index.html",
     "evidence_note": "D/D028.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "循腳肚貼肉直上至曲KT　大橫紋截斷",
+    "after": "循腳肚貼肉直上至曲脈中大橫紋截斷",
+    "expected_count": 1,
+    "reason": "공개 영인의 동일 취혈 문맥 판독으로 결자 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/NLC416-06jh009228-2646_%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9_%E7%AC%AC1%E5%8D%B7.pdf",
+    "evidence_note": "蘇沈良方 공개 영인의 取穴法 평행문이 '循腳肚貼肉直上至曲脈中大橫紋'으로 판독됨"
   }
 ]

@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "before": "忌大HT　五七日",
+    "after": "忌大葷五七日",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+    "evidence_note": "傷寒 회복기의 금기 문맥에서 고정어는 大葷.",
+    "reason": "傷寒 회복기의 금기 문맥에서 고정어는 大葷."
+  },
+  {
+    "before": "忌食瓜果HT　腥熱物",
+    "after": "忌食瓜果魚腥熱物",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+    "evidence_note": "질병 중 음식 금기의 정형 열거 ‘瓜果魚腥熱物’.",
+    "reason": "질병 중 음식 금기의 정형 열거 ‘瓜果魚腥熱物’."
+  },
+  {
+    "before": "頭疼鼻塞HT　寒壯熱",
+    "after": "頭疼鼻塞惡寒壯熱",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+    "evidence_note": "감모의 정형 증후 열거 ‘頭疼鼻塞惡寒壯熱’.",
+    "reason": "감모의 정형 증후 열거 ‘頭疼鼻塞惡寒壯熱’."
+  },
+  {
+    "before": "KT　砂",
+    "after": "硇砂",
+    "expected_count": 2,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%9F%B3%E4%B9%8B%E4%BA%94",
+    "evidence_note": "두 처방 모두 투명한 광물성 약재 硇砂를 지칭.",
+    "reason": "두 처방 모두 투명한 광물성 약재 硇砂를 지칭."
+  },
+  {
+    "before": "一服可即活HT　粉　香墨",
+    "after": "一服可即活輕粉　香墨",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+    "evidence_note": "香墨·白麵·蘆薈 등과 병렬되는 처방 약미는 輕粉.",
+    "reason": "香墨·白麵·蘆薈 등과 병렬되는 처방 약미는 輕粉."
+  },
+  {
+    "before": "神散魄HT　不能飲食",
+    "after": "神散魄亂不能飲食",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+    "evidence_note": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’.",
+    "reason": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’."
+  }
+]

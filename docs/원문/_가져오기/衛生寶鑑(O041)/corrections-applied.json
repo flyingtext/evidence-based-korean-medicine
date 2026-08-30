@@ -2494,5 +2494,12 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E5%AF%B6%E9%91%91/index.html",
     "evidence_note": "O/O041.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 3,
+    "evidence": "《古今圖書集成》 영인/OCR 대조에서 해당 안증 표현이 目䀮䀮으로 확인된다. https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng,_Volume_428_(1700-1725).djvu/62",
+    "reason": "공개 판본 대조로 결자 복원"
   }
 ]
