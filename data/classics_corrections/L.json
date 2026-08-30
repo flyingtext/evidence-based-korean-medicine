@@ -3006,5 +3006,71 @@
       "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
       "evidence_note": "《黃帝內經》 공개 concordance가 目視䀮䀮를 그대로 수록하며, 뒤의 冷淚와 결합된 안증 문맥에도 부합한다."
     }
+  ],
+  "L/L003.txt": [
+    {
+      "before": "目視KT　KT　，此風勝目昏也",
+      "after": "目視䀮䀮，此風勝目昏也",
+      "expected_count": 1,
+      "reason": "《內經》 운기 평행문 대조",
+      "evidence_url": "https://daikei.blogspot.com/2019/11/",
+      "evidence_note": "고전 대조 자료가 目䀮䀮然을 확인한다."
+    },
+    {
+      "before": "目KT　KT　如無所見。又云：少陰病目KTKT無所見者，陰內奪，故目KT　KT　無所見也",
+      "after": "目䀮䀮如無所見。又云：少陰病目䀮䀮無所見者，陰內奪，故目䀮䀮無所見也",
+      "expected_count": 1,
+      "reason": "《內經》 세 평행 인용문 대조",
+      "evidence_url": "https://123dok.co/document/y96rl89v-%EF%80%80%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%91%EF%80%80%E9%8D%BC%E7%81%B8%E7%AF%87%EC%9D%98-%E9%86%AB%E5%8F%B2%E5%AD%B8%E7%9A%84-%E8%80%83%E5%AF%9F2.html",
+      "evidence_note": "자료가 腎足少陰之脈 조문과 目䀮䀮無所見을 그대로 인용한다."
+    },
+    {
+      "before": "視物KT　KT　，血少氣多",
+      "after": "視物䀮䀮，血少氣多",
+      "expected_count": 1,
+      "reason": "안증 고정 표현의 독립 평행문 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "공개 concordance가 目視䀮䀮를 수록한다."
+    },
+    {
+      "before": "翳膜青盲。遠視KT　KT　。淚出多眵",
+      "after": "翳膜青盲。遠視䀮䀮。淚出多眵",
+      "expected_count": 1,
+      "reason": "경혈 주치 독립 영인 대조",
+      "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
+      "evidence_note": "공개 침구 영인에 遠視䀮䀮가 판독된다."
+    },
+    {
+      "before": "遠視KT　KT　。昏花無見",
+      "after": "遠視䀮䀮。昏花無見",
+      "expected_count": 1,
+      "reason": "경혈 주치 독립 영인 대조",
+      "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
+      "evidence_note": "공개 침구 영인에 遠視䀮䀮가 판독된다."
+    },
+    {
+      "before": "目眩。視物KT　KT　。拳毛倒睫",
+      "after": "目眩。視物䀮䀮。拳毛倒睫",
+      "expected_count": 1,
+      "reason": "안증 고정 표현의 독립 평행문 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "공개 concordance가 目視䀮䀮를 수록한다."
+    },
+    {
+      "before": "主治目視KT　KT　。淚出目眩",
+      "after": "主治目視䀮䀮。淚出目眩",
+      "expected_count": 1,
+      "reason": "경혈 주치 독립 평행문 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/Page%3AGujin_Tushu_Jicheng%2C_Volume_434_%281700-1725%29.djvu/77",
+      "evidence_note": "공개 고전 영인 전사가 目䀮䀮를 확인한다."
+    },
+    {
+      "before": "青盲無見。遠視KT　KT　。面風",
+      "after": "青盲無見。遠視䀮䀮。面風",
+      "expected_count": 1,
+      "reason": "경혈 주치 독립 영인 대조",
+      "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
+      "evidence_note": "공개 침구 영인의 巨髎 조문이 青盲無所見遠視䀮䀮로 판독된다."
+    }
   ]
 }

@@ -6,5 +6,13 @@
     "reason": "jicheng 공개 전문 대조 OCR 교정",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%83%8E%E7%94%A2%E5%BF%83%E6%B3%95/index.html",
     "evidence_note": "稟氣厚薄 문맥 확인"
+  },
+  {
+    "before": "芫花薇HT　草三棱",
+    "after": "芫花薇銜草三棱",
+    "expected_count": 1,
+    "reason": "임신 금기약가의 독립 연구 영인 대조",
+    "evidence_url": "https://www.jstage.jst.go.jp/article/kampomed1950/31/4/31_4_239/_pdf/-char/en",
+    "evidence_note": "논문에 인용된 妊娠服藥禁忌歌가 같은 구절을 芫花薇銜草三棱으로 제시한다."
   }
 ]

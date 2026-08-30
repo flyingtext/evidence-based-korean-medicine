@@ -7,7 +7,7 @@
 - 원본 파일: `O/O068.txt`
 - SHA-256: `a2ae572b21b8a0c93abd04de37dcc21dc486a16659afda099efd9164c74ea953`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 325건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 332건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차

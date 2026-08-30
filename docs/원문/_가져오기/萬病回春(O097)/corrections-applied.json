@@ -2446,5 +2446,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%90%AC%E7%97%85%E5%9B%9E%E6%98%A5/index.html",
     "evidence_note": "O/O097.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "胞，KT　也，KT　，空虛之言也",
+    "after": "胞，鞄也，鞄，空虛之言也",
+    "expected_count": 1,
+    "reason": "《釋名·釋形體》 독립 평행문 직접 대조",
+    "evidence_url": "https://de.scribd.com/document/723236556/%E7%B4%A0%E5%95%8F-%E9%9D%88%E8%98%AD%E7%A7%98%E5%85%B8%E8%AB%96-%E4%B8%AD%E5%8D%81%E4%BA%8C%E5%AE%98%E4%B9%8B%E6%8E%A2%E8%A8%8E",
+    "evidence_note": "인용 원문이 脬，鞄也。鞄，空虛之言也로 수록되어 결자 두 곳을 鞄으로 확정한다."
+  },
+  {
+    "before": "目視KT　KT　氣不足",
+    "after": "目視䀮䀮氣不足",
+    "expected_count": 1,
+    "reason": "《內經》 독립 평행문 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "공개 concordance가 고정 안증 표현 目視䀮䀮를 수록한다."
   }
 ]

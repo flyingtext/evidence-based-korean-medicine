@@ -3086,5 +3086,40 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html",
     "evidence_note": "G/G005.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "懷KT　用",
+    "after": "懷中用",
+    "expected_count": 1,
+    "evidence": "불을 피해야 하는 향약을 급히 쓸 때 여러 겹 종이로 싸서 품속에 두는 조제 문맥; 공개 대조본도 紙裹懷…用을 보존한다. https://www.shidianguji.com/zh/book/NCM011X007437831/chapter/1kye64rhmhbt7",
+    "reason": "불을 피해야 하는 향약을 급히 쓸 때 여러 겹 종이로 싸서 품속에 두는 조제 문맥; 공개 대조본도 紙裹懷…用을 보존한다. https://www.shidianguji.com/zh/book/NCM011X007437831/chapter/1kye64rhmhbt7"
+  },
+  {
+    "before": "懷KT　為末",
+    "after": "懷中為末",
+    "expected_count": 1,
+    "evidence": "바로 앞과 동일한 懷中 처리 평행문.",
+    "reason": "바로 앞과 동일한 懷中 처리 평행문."
+  },
+  {
+    "before": "身體KT　KT　",
+    "after": "身體几几",
+    "expected_count": 1,
+    "evidence": "痙病의 전승 문구 身體強几几/項背強几几.",
+    "reason": "痙病의 전승 문구 身體強几几/項背強几几."
+  },
+  {
+    "before": "丁壬日占廚KT　",
+    "after": "丁壬日占廚廁",
+    "expected_count": 1,
+    "evidence": "태신 점방의 고정 열거 門、碓磨、井灶、廚廁、米倉.",
+    "reason": "태신 점방의 고정 열거 門、碓磨、井灶、廚廁、米倉."
+  },
+  {
+    "before": "KT　水蛭地膽蟲",
+    "after": "虻蟲水蛭地膽蟲",
+    "expected_count": 1,
+    "evidence": "본초 상오·상사 운문의 충류 열거 虻蟲、水蛭、地膽蟲.",
+    "reason": "본초 상오·상사 운문의 충류 열거 虻蟲、水蛭、地膽蟲."
   }
 ]

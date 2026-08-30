@@ -7590,5 +7590,45 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A6%AE%E6%B0%8F%E9%8C%A6%E5%9B%8A%E7%A7%98%E9%8C%84/index.html",
     "evidence_note": "O/O067.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "夫人HT　地一聲之後",
+    "after": "夫人呱地一聲之後",
+    "expected_count": 1,
+    "reason": "출생 울음의 고정 관용구와 독립 평행문 대조",
+    "evidence_url": "https://nhuir.nhu.edu.tw/bitstream/987654321/28946/1/110NHU00259001-001.pdf",
+    "evidence_note": "독립 고전 인용이 凡人自呱的一聲之後로 같은 표현을 보인다."
+  },
+  {
+    "before": "肉KT　（肉KT　分理也。）堅大者胃濃",
+    "after": "肉䐃（肉䐃分理也。）堅大者胃濃",
+    "expected_count": 1,
+    "reason": "《靈樞·本藏》 독립 원문·연구 대조",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001991645",
+    "evidence_note": "연구 원문이 肉䐃堅大者胃厚 및 肉䐃 용례를 명시한다."
+  },
+  {
+    "before": "目則KT　KT　，羞明怕日",
+    "after": "目則䀮䀮，羞明怕日",
+    "expected_count": 1,
+    "reason": "《內經》 안증 평행문 대조",
+    "evidence_url": "https://yibian.hopto.org/shu/?sid=68365",
+    "evidence_note": "공개 경의 자료에 目䀮䀮無所見이 수록된다."
+  },
+  {
+    "before": "目流KT　KT　無所見者",
+    "after": "目流䀮䀮無所見者",
+    "expected_count": 1,
+    "reason": "《內經》 안증 평행문 대조",
+    "evidence_url": "https://daikei.blogspot.com/2019/11/",
+    "evidence_note": "고전 원문 대조 자료가 目䀮䀮然 및 無所見 문맥을 확인한다."
+  },
+  {
+    "before": "肝虛則目KT　KT　無所見",
+    "after": "肝虛則目䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "《素問·藏氣法時論》 독립 영인 전사 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/Page%3AGujin_Tushu_Jicheng%2C_Volume_434_%281700-1725%29.djvu/77",
+    "evidence_note": "공개 영인 전사가 동일 문장을 肝虛則目䀮䀮無所見으로 제시한다."
   }
 ]

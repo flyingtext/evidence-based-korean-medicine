@@ -11926,5 +11926,40 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html",
     "evidence_note": "P/P0201.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "蔓生如KT　豆",
+    "after": "蔓生如勞豆",
+    "expected_count": 1,
+    "evidence": "뒤 釋名에서 해당 이명이 音勞라고 명시됨.",
+    "reason": "뒤 釋名에서 해당 이명이 音勞라고 명시됨."
+  },
+  {
+    "before": "蔓似KT　豆而細",
+    "after": "蔓似勞豆而細",
+    "expected_count": 1,
+    "evidence": "같은 鹿藿 항목의 勞豆 반복.",
+    "reason": "같은 鹿藿 항목의 勞豆 반복."
+  },
+  {
+    "before": "KT　豆（音勞",
+    "after": "勞豆（音勞",
+    "expected_count": 1,
+    "evidence": "주음 音勞와 일치.",
+    "reason": "주음 音勞와 일치."
+  },
+  {
+    "before": "俗呼KT　豆",
+    "after": "俗呼勞豆",
+    "expected_count": 1,
+    "evidence": "鹿藿의 속명 勞豆.",
+    "reason": "鹿藿의 속명 勞豆."
+  },
+  {
+    "before": "又名KT　豆",
+    "after": "又名勞豆",
+    "expected_count": 1,
+    "evidence": "동일 항목의 이명 반복.",
+    "reason": "동일 항목의 이명 반복."
   }
 ]

@@ -2598,5 +2598,54 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html",
     "evidence_note": "O/O068.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "身體強，KT　KT　然",
+    "after": "身體強，几几然",
+    "expected_count": 1,
+    "evidence": "栝蔞桂枝湯의 전승 원문 身體強几几然.",
+    "reason": "栝蔞桂枝湯의 전승 원문 身體強几几然."
+  },
+  {
+    "before": "目視KT　KT　，所祈不得",
+    "after": "目視䀮䀮，所祈不得",
+    "expected_count": 1,
+    "evidence": "《內經》 계통 안증 고정 표현 目䀮䀮.",
+    "reason": "《內經》 계통 안증 고정 표현 目䀮䀮."
+  },
+  {
+    "before": "合HT　之體",
+    "after": "合媾之體",
+    "expected_count": 1,
+    "evidence": "남녀의 조기 성교를 논하는 문맥의 고전어 合媾.",
+    "reason": "남녀의 조기 성교를 논하는 문맥의 고전어 合媾."
+  },
+  {
+    "before": "竟以合HT　。後月水",
+    "after": "竟以合媾。後月水",
+    "expected_count": 1,
+    "evidence": "같은 단락의 合媾 반복.",
+    "reason": "같은 단락의 合媾 반복."
+  },
+  {
+    "before": "HT　頭，癤毒",
+    "after": "疔頭，癤毒",
+    "expected_count": 1,
+    "evidence": "癰疽·疔毒·疔頭·癤毒의 외과 병명 열거.",
+    "reason": "癰疽·疔毒·疔頭·癤毒의 외과 병명 열거."
+  },
+  {
+    "before": "HT　頭毒、周身諸毒",
+    "after": "疔頭毒、周身諸毒",
+    "expected_count": 1,
+    "evidence": "같은 고약 적응증의 疔頭毒.",
+    "reason": "같은 고약 적응증의 疔頭毒."
+  },
+  {
+    "before": "火HT　入無灰白酒",
+    "after": "火淬入無灰白酒",
+    "expected_count": 1,
+    "evidence": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬.",
+    "reason": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬."
   }
 ]

@@ -19593,6 +19593,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%8E%89%E6%A9%9F%E5%BE%AE%E7%BE%A9/index.html",
       "evidence_note": "O/O037.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "視物目KT　KT　",
+      "after": "視物目䀮䀮",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "『素問·藏氣法時論』 평행문이 ‘目䀮䀮無所見’으로 확인된다.",
+      "reason": "『素問·藏氣法時論』 평행문이 ‘目䀮䀮無所見’으로 확인된다."
+    },
+    {
+      "before": "目視KT　KT　所祈不得",
+      "after": "目視䀮䀮所祈不得",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/152/0",
+      "evidence_note": "의서 평행문에 ‘目視䀮䀮’으로 전한다.",
+      "reason": "의서 평행문에 ‘目視䀮䀮’으로 전한다."
+    },
+    {
+      "before": "宜灸KT　",
+      "after": "宜灸焫",
+      "expected_count": 3,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=321256&if=en&remap=gb",
+      "evidence_note": "고전 평행문에서 灸法을 ‘灸焫’이라 하며 세 문맥 모두 灸法 논설이다.",
+      "reason": "고전 평행문에서 灸法을 ‘灸焫’이라 하며 세 문맥 모두 灸法 논설이다."
     }
   ],
   "O/O008.txt": [
@@ -32940,6 +32964,55 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html",
       "evidence_note": "O/O068.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "身體強，KT　KT　然",
+      "after": "身體強，几几然",
+      "expected_count": 1,
+      "evidence": "栝蔞桂枝湯의 전승 원문 身體強几几然.",
+      "reason": "栝蔞桂枝湯의 전승 원문 身體強几几然."
+    },
+    {
+      "before": "目視KT　KT　，所祈不得",
+      "after": "目視䀮䀮，所祈不得",
+      "expected_count": 1,
+      "evidence": "《內經》 계통 안증 고정 표현 目䀮䀮.",
+      "reason": "《內經》 계통 안증 고정 표현 目䀮䀮."
+    },
+    {
+      "before": "合HT　之體",
+      "after": "合媾之體",
+      "expected_count": 1,
+      "evidence": "남녀의 조기 성교를 논하는 문맥의 고전어 合媾.",
+      "reason": "남녀의 조기 성교를 논하는 문맥의 고전어 合媾."
+    },
+    {
+      "before": "竟以合HT　。後月水",
+      "after": "竟以合媾。後月水",
+      "expected_count": 1,
+      "evidence": "같은 단락의 合媾 반복.",
+      "reason": "같은 단락의 合媾 반복."
+    },
+    {
+      "before": "HT　頭，癤毒",
+      "after": "疔頭，癤毒",
+      "expected_count": 1,
+      "evidence": "癰疽·疔毒·疔頭·癤毒의 외과 병명 열거.",
+      "reason": "癰疽·疔毒·疔頭·癤毒의 외과 병명 열거."
+    },
+    {
+      "before": "HT　頭毒、周身諸毒",
+      "after": "疔頭毒、周身諸毒",
+      "expected_count": 1,
+      "evidence": "같은 고약 적응증의 疔頭毒.",
+      "reason": "같은 고약 적응증의 疔頭毒."
+    },
+    {
+      "before": "火HT　入無灰白酒",
+      "after": "火淬入無灰白酒",
+      "expected_count": 1,
+      "evidence": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬.",
+      "reason": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬."
     }
   ],
   "O/O067.txt": [
@@ -40534,6 +40607,46 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A6%AE%E6%B0%8F%E9%8C%A6%E5%9B%8A%E7%A7%98%E9%8C%84/index.html",
       "evidence_note": "O/O067.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "夫人HT　地一聲之後",
+      "after": "夫人呱地一聲之後",
+      "expected_count": 1,
+      "reason": "출생 울음의 고정 관용구와 독립 평행문 대조",
+      "evidence_url": "https://nhuir.nhu.edu.tw/bitstream/987654321/28946/1/110NHU00259001-001.pdf",
+      "evidence_note": "독립 고전 인용이 凡人自呱的一聲之後로 같은 표현을 보인다."
+    },
+    {
+      "before": "肉KT　（肉KT　分理也。）堅大者胃濃",
+      "after": "肉䐃（肉䐃分理也。）堅大者胃濃",
+      "expected_count": 1,
+      "reason": "《靈樞·本藏》 독립 원문·연구 대조",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001991645",
+      "evidence_note": "연구 원문이 肉䐃堅大者胃厚 및 肉䐃 용례를 명시한다."
+    },
+    {
+      "before": "目則KT　KT　，羞明怕日",
+      "after": "目則䀮䀮，羞明怕日",
+      "expected_count": 1,
+      "reason": "《內經》 안증 평행문 대조",
+      "evidence_url": "https://yibian.hopto.org/shu/?sid=68365",
+      "evidence_note": "공개 경의 자료에 目䀮䀮無所見이 수록된다."
+    },
+    {
+      "before": "目流KT　KT　無所見者",
+      "after": "目流䀮䀮無所見者",
+      "expected_count": 1,
+      "reason": "《內經》 안증 평행문 대조",
+      "evidence_url": "https://daikei.blogspot.com/2019/11/",
+      "evidence_note": "고전 원문 대조 자료가 目䀮䀮然 및 無所見 문맥을 확인한다."
+    },
+    {
+      "before": "肝虛則目KT　KT　無所見",
+      "after": "肝虛則目䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "《素問·藏氣法時論》 독립 영인 전사 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/Page%3AGujin_Tushu_Jicheng%2C_Volume_434_%281700-1725%29.djvu/77",
+      "evidence_note": "공개 영인 전사가 동일 문장을 肝虛則目䀮䀮無所見으로 제시한다."
     }
   ],
   "O/O056.txt": [
@@ -101615,6 +101728,22 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%90%AC%E7%97%85%E5%9B%9E%E6%98%A5/index.html",
       "evidence_note": "O/O097.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "胞，KT　也，KT　，空虛之言也",
+      "after": "胞，鞄也，鞄，空虛之言也",
+      "expected_count": 1,
+      "reason": "《釋名·釋形體》 독립 평행문 직접 대조",
+      "evidence_url": "https://de.scribd.com/document/723236556/%E7%B4%A0%E5%95%8F-%E9%9D%88%E8%98%AD%E7%A7%98%E5%85%B8%E8%AB%96-%E4%B8%AD%E5%8D%81%E4%BA%8C%E5%AE%98%E4%B9%8B%E6%8E%A2%E8%A8%8E",
+      "evidence_note": "인용 원문이 脬，鞄也。鞄，空虛之言也로 수록되어 결자 두 곳을 鞄으로 확정한다."
+    },
+    {
+      "before": "目視KT　KT　氣不足",
+      "after": "目視䀮䀮氣不足",
+      "expected_count": 1,
+      "reason": "《內經》 독립 평행문 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "공개 concordance가 고정 안증 표현 目視䀮䀮를 수록한다."
     }
   ],
   "O/O098.txt": [

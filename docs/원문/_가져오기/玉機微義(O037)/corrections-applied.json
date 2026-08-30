@@ -5182,5 +5182,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%8E%89%E6%A9%9F%E5%BE%AE%E7%BE%A9/index.html",
     "evidence_note": "O/O037.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "視物目KT　KT　",
+    "after": "視物目䀮䀮",
+    "expected_count": 1,
+    "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+    "evidence_note": "『素問·藏氣法時論』 평행문이 ‘目䀮䀮無所見’으로 확인된다.",
+    "reason": "『素問·藏氣法時論』 평행문이 ‘目䀮䀮無所見’으로 확인된다."
+  },
+  {
+    "before": "目視KT　KT　所祈不得",
+    "after": "目視䀮䀮所祈不得",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/152/0",
+    "evidence_note": "의서 평행문에 ‘目視䀮䀮’으로 전한다.",
+    "reason": "의서 평행문에 ‘目視䀮䀮’으로 전한다."
+  },
+  {
+    "before": "宜灸KT　",
+    "after": "宜灸焫",
+    "expected_count": 3,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=321256&if=en&remap=gb",
+    "evidence_note": "고전 평행문에서 灸法을 ‘灸焫’이라 하며 세 문맥 모두 灸法 논설이다.",
+    "reason": "고전 평행문에서 灸法을 ‘灸焫’이라 하며 세 문맥 모두 灸法 논설이다."
   }
 ]

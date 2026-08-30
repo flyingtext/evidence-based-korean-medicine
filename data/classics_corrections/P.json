@@ -23144,6 +23144,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%A5%B3%E7%A7%91/index.html",
       "evidence_note": "P/P0103.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "視物KT　KT無所見",
+      "after": "視物䀮䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "내경 직접 평행문 ‘目䀮䀮無所見’과 일치.",
+      "reason": "내경 직접 평행문 ‘目䀮䀮無所見’과 일치."
+    },
+    {
+      "before": "目中KT　KT　無所見",
+      "after": "目中䀮䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "같은 문단의 반복 증후로 직접 평행문과 일치.",
+      "reason": "같은 문단의 반복 증후로 직접 평행문과 일치."
+    },
+    {
+      "before": "目KT　KT　無所見",
+      "after": "目䀮䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "내경 직접 평행문과 일치.",
+      "reason": "내경 직접 평행문과 일치."
+    },
+    {
+      "before": "其身體KT　KT　，古人以強直為痙",
+      "after": "其身體𠘧𠘧，古人以強直為痙",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=en",
+      "evidence_note": "『金匱要略』의 痙證 평행문이 ‘身體強𠘧𠘧然’이다.",
+      "reason": "『金匱要略』의 痙證 평행문이 ‘身體強𠘧𠘧然’이다."
+    },
+    {
+      "before": "目視KT　KT　，宗筋弛縱",
+      "after": "目視䀮䀮，宗筋弛縱",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/152/0",
+      "evidence_note": "의서 평행문에 ‘目視䀮䀮’으로 전한다.",
+      "reason": "의서 평행문에 ‘目視䀮䀮’으로 전한다."
+    },
+    {
+      "before": "腰背苦冷而痛，目KT　KT　。",
+      "after": "腰背苦冷而痛，目䀮䀮。",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/882/0",
+      "evidence_note": "『備急千金要方』 동일 芍藥湯 문장이 ‘目䀮䀮’으로 확인된다.",
+      "reason": "『備急千金要方』 동일 芍藥湯 문장이 ‘目䀮䀮’으로 확인된다."
+    },
+    {
+      "before": "目KT　KT　，四肢無力",
+      "after": "目䀮䀮，四肢無力",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+      "evidence_note": "내경 증후의 관용 표기와 일치한다.",
+      "reason": "내경 증후의 관용 표기와 일치한다."
     }
   ],
   "P/P0104.txt": [
@@ -64800,6 +64856,41 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html",
       "evidence_note": "P/P0201.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "蔓生如KT　豆",
+      "after": "蔓生如勞豆",
+      "expected_count": 1,
+      "evidence": "뒤 釋名에서 해당 이명이 音勞라고 명시됨.",
+      "reason": "뒤 釋名에서 해당 이명이 音勞라고 명시됨."
+    },
+    {
+      "before": "蔓似KT　豆而細",
+      "after": "蔓似勞豆而細",
+      "expected_count": 1,
+      "evidence": "같은 鹿藿 항목의 勞豆 반복.",
+      "reason": "같은 鹿藿 항목의 勞豆 반복."
+    },
+    {
+      "before": "KT　豆（音勞",
+      "after": "勞豆（音勞",
+      "expected_count": 1,
+      "evidence": "주음 音勞와 일치.",
+      "reason": "주음 音勞와 일치."
+    },
+    {
+      "before": "俗呼KT　豆",
+      "after": "俗呼勞豆",
+      "expected_count": 1,
+      "evidence": "鹿藿의 속명 勞豆.",
+      "reason": "鹿藿의 속명 勞豆."
+    },
+    {
+      "before": "又名KT　豆",
+      "after": "又名勞豆",
+      "expected_count": 1,
+      "evidence": "동일 항목의 이명 반복.",
+      "reason": "동일 항목의 이명 반복."
     }
   ],
   "P/P0300.txt": [

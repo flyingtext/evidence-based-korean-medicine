@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強𠘧𠘧",
+    "expected_count": 2,
+    "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/893",
+    "evidence_note": "葛根湯·桂枝加葛根湯 평행문이 모두 ‘項背強𠘧𠘧’이다.",
+    "reason": "葛根湯·桂枝加葛根湯 평행문이 모두 ‘項背強𠘧𠘧’이다."
+  },
+  {
+    "before": "（KTKT　者，頸不根一味",
+    "after": "（𠘧𠘧者，頸不根一味",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/893",
+    "evidence_note": "바로 앞 葛根湯 구절의 𠘧𠘧을 풀이하는 주석이다.",
+    "reason": "바로 앞 葛根湯 구절의 𠘧𠘧을 풀이하는 주석이다."
+  }
+]
