@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E7%BA%8C%E9%86%AB%E8%AA%AA/index.html",
+    "site": "jicheng.tw",
+    "page_title": "續醫說",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T09:09:40.004635+00:00",
+    "html_sha256": "f2777b0d068204715757794b655d6b19d0fe6169361fb16d6e0b6bb011a34cf9",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/續醫說(O099)/표점본.md",
+  "blocks": {
+    "total": 522,
+    "by_tag": {
+      "div": 247,
+      "h1": 14,
+      "h2": 29,
+      "h3": 232
+    },
+    "unique_data_sec": 4,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 33952,
+    "extracted_han_sha256": "59807ff2926e93a4d72413ef7e485ad659f6b88374eddd8c8462b9020cdd06a9",
+    "source_han_characters": 33776,
+    "source_han_sha256": "ee58cee6dc9c083f8af853a81237358d11f0b31f1b5d9529683a094acc126250",
+    "han_length_ratio": 1.005211,
+    "han_sequence_quick_ratio": 0.987922,
+    "han_exact_match": false,
+    "punctuation_density": 0.000118
+  },
+  "source_path": "O/O099.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.9326
+  }
+}
