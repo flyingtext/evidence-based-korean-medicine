@@ -59,7 +59,7 @@ def main() -> int:
                 except (json.JSONDecodeError, KeyError) as exc:
                     errors.append(f"잘못된 JSONL: {task_path.relative_to(output)}:{line_no} ({exc})")
         file_ids: set[str] = set()
-        management_files = {"README.md", "교감기록.md"}
+        management_files = {"README.md", "교감기록.md", "표점본.md"}
         md_files = [p for p in book_dir.glob("*.md") if p.name not in management_files]
         if len(md_files) != book.get("markdown_files"):
             errors.append(f"Markdown 수 불일치: {book['output_directory']}")

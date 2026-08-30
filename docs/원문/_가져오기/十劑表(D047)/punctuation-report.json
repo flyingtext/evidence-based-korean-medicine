@@ -1,0 +1,220 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/D/D047.txt",
+    "sha256": "6113e619ace88f53a0ad7ca0d7475fcc740b0579a48642842744984d86222357"
+  },
+  "output": "docs/원문/_가져오기/十劑表(D047)/표점본.md",
+  "chunks": {
+    "total": 19,
+    "resumable_completed": 19,
+    "min_chars": 1,
+    "max_chars": 3289,
+    "target_chars": 3000,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 235,
+        "output_characters": 269,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 35,
+        "punctuation_density": 0.15555556,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 450,
+        "output_characters": 542,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 95,
+        "punctuation_density": 0.21252796,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 1,
+        "output_characters": 0,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 0,
+        "punctuation_density": 0.0,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 751,
+        "output_characters": 986,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 236,
+        "punctuation_density": 0.33618234,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 349,
+        "output_characters": 449,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 101,
+        "punctuation_density": 0.31464174,
+        "attempts": 1
+      },
+      {
+        "index": 6,
+        "input_characters": 327,
+        "output_characters": 369,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 43,
+        "punctuation_density": 0.14333333,
+        "attempts": 1
+      },
+      {
+        "index": 7,
+        "input_characters": 699,
+        "output_characters": 850,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 154,
+        "punctuation_density": 0.24175824,
+        "attempts": 1
+      },
+      {
+        "index": 8,
+        "input_characters": 587,
+        "output_characters": 715,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 129,
+        "punctuation_density": 0.24339623,
+        "attempts": 1
+      },
+      {
+        "index": 9,
+        "input_characters": 425,
+        "output_characters": 499,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 75,
+        "punctuation_density": 0.19582245,
+        "attempts": 1
+      },
+      {
+        "index": 10,
+        "input_characters": 142,
+        "output_characters": 170,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 29,
+        "punctuation_density": 0.22834646,
+        "attempts": 1
+      },
+      {
+        "index": 11,
+        "input_characters": 234,
+        "output_characters": 302,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 69,
+        "punctuation_density": 0.33495146,
+        "attempts": 1
+      },
+      {
+        "index": 12,
+        "input_characters": 942,
+        "output_characters": 1152,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 213,
+        "punctuation_density": 0.24709977,
+        "attempts": 1
+      },
+      {
+        "index": 13,
+        "input_characters": 167,
+        "output_characters": 207,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 41,
+        "punctuation_density": 0.28275862,
+        "attempts": 1
+      },
+      {
+        "index": 14,
+        "input_characters": 185,
+        "output_characters": 234,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 50,
+        "punctuation_density": 0.30674847,
+        "attempts": 1
+      },
+      {
+        "index": 15,
+        "input_characters": 123,
+        "output_characters": 149,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 27,
+        "punctuation_density": 0.25961538,
+        "attempts": 1
+      },
+      {
+        "index": 16,
+        "input_characters": 284,
+        "output_characters": 344,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 63,
+        "punctuation_density": 0.26033058,
+        "attempts": 1
+      },
+      {
+        "index": 17,
+        "input_characters": 881,
+        "output_characters": 1078,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 198,
+        "punctuation_density": 0.24874372,
+        "attempts": 1
+      },
+      {
+        "index": 18,
+        "input_characters": 3289,
+        "output_characters": 4058,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 772,
+        "punctuation_density": 0.25461741,
+        "attempts": 1
+      },
+      {
+        "index": 19,
+        "input_characters": 798,
+        "output_characters": 819,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 22,
+        "punctuation_density": 0.04066543,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 9763,
+    "output_nonpunctuation_characters": 9763
+  },
+  "punctuation": {
+    "ascii_count": 2352,
+    "density_per_nonpunctuation_character": 0.24090956,
+    "chinese_punctuation_normalized": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E6%B4%BB%E5%B9%BC%E5%8F%A3%E8%AD%B0/index.html",
+    "site": "jicheng.tw",
+    "page_title": "活幼口議",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T02:39:08.292950+00:00",
+    "html_sha256": "2be53c7ad8fdb31ab02f6076612eab416480f85aa79ef154f8cad53173bdc64e",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/活幼口議(H023)/표점본.md",
+  "blocks": {
+    "total": 1057,
+    "by_tag": {
+      "div": 767,
+      "h1": 23,
+      "h2": 109,
+      "h3": 154,
+      "h4": 4
+    },
+    "unique_data_sec": 5,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "h3",
+      "h4",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 63602,
+    "extracted_han_sha256": "097b445a43225e0f114ff37b53e544224fdde57bc11d3f3c52a3cf409050a0db",
+    "source_han_characters": 63159,
+    "source_han_sha256": "a7da58160bfed8e854244d545915cedf8b3822e1878838fd13151a2107b4c28c",
+    "han_length_ratio": 1.007014,
+    "han_sequence_quick_ratio": 0.987291,
+    "han_exact_match": false,
+    "punctuation_density": 0.187905
+  },
+  "source_path": "H/H023.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.9232
+  }
+}
