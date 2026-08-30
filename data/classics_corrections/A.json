@@ -26882,6 +26882,36 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
       "evidence_note": "足太陽 경맥 ‘入膕中’.",
       "reason": "足太陽 경맥 ‘入膕中’."
+    },
+    {
+      "before": "缺盆以下。至　KT　。長九寸",
+      "after": "缺盆以下。至𩩲骭。長九寸",
+      "expected_count": 1,
+      "evidence": "《靈樞·骨度》 평행문에서 결분 아래 흉골 검상돌기까지의 표기가 𩩲骭으로 확정된다."
+    },
+    {
+      "before": "　KT　以下至天樞。長八寸",
+      "after": "𩩲骭以下至天樞。長八寸",
+      "expected_count": 1,
+      "evidence": "같은 《靈樞·骨度》의 연속 문장 𩩲骭以下至天樞와 일치한다."
+    },
+    {
+      "before": "目KT　KT　如無所見。心如懸",
+      "after": "目䀮䀮如無所見。心如懸",
+      "expected_count": 1,
+      "evidence": "《靈樞·經脈》 족소음경 평행문과 독립 의서 인용이 모두 目䀮䀮로 전사한다."
+    },
+    {
+      "before": "虛則欠KT　小便遺數",
+      "after": "虛則欠㰦小便遺數",
+      "expected_count": 1,
+      "evidence": "《靈樞·經脈》 수태음 별락의 정문 虛則欠㰦와 일치한다."
+    },
+    {
+      "before": "此所謂候歲之風。HT　傷人者也",
+      "after": "此所謂候歲之風。賊傷人者也",
+      "expected_count": 1,
+      "evidence": "《靈樞·歲露論》의 동일 문장 此所謂候歲之風賊傷人者也."
     }
   ],
   "A/A301.txt": [

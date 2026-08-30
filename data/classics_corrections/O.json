@@ -95852,6 +95852,36 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
       "evidence_note": "當歸補血湯의 黃耆.",
       "reason": "當歸補血湯의 黃耆."
+    },
+    {
+      "before": "又曰：胞，KT　也。空虛之言也。主以虛，承水　也",
+      "after": "又曰：胞，鞄也。空虛之言也。主以虛，承水汋也",
+      "expected_count": 1,
+      "evidence": "識典古籍의 독립 《醫旨緒餘》 전사가 胞鞄也 및 承水汋也를 함께 확정한다."
+    },
+    {
+      "before": "經絡之間，腦項胸背腰膝HT　踝四肢百骸",
+      "after": "經絡之間，腦項胸背腰膝脛踝四肢百骸",
+      "expected_count": 1,
+      "evidence": "신체 부위의 상하 열거에서 膝脛踝가 정형 배열이다."
+    },
+    {
+      "before": "破KT　脫肉，毛悴色夭",
+      "after": "破䐃脫肉，毛悴色夭",
+      "expected_count": 1,
+      "evidence": "《靈樞·本神》 평행 정문 破䐃脫肉."
+    },
+    {
+      "before": "目KT　KT　如無所見，心如懸",
+      "after": "目䀮䀮如無所見，心如懸",
+      "expected_count": 1,
+      "evidence": "《靈樞·經脈》 족소음경 정문 目䀮䀮如無所見."
+    },
+    {
+      "before": "水銀　KT　砂　鱉甲肉積類：KT　砂　阿魏",
+      "after": "水銀　硇砂　鱉甲肉積類：硇砂　阿魏",
+      "expected_count": 1,
+      "evidence": "공적약·육적약에 쓰인 광물약명 硇砂가 두 위치의 처방 열거와 일치한다."
     }
   ],
   "O/O089.txt": [

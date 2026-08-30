@@ -411,7 +411,7 @@
       "output_directory": "內經評文(A202)",
       "markdown_files": 13,
       "translation_units": 82,
-      "corrections_applied": 236,
+      "corrections_applied": 241,
       "punctuated": false,
       "warnings": []
     },
@@ -2150,7 +2150,7 @@
       "output_directory": "本草備要(C018)",
       "markdown_files": 14,
       "translation_units": 487,
-      "corrections_applied": 177,
+      "corrections_applied": 215,
       "punctuated": false,
       "warnings": []
     },
@@ -2489,12 +2489,9 @@
       "output_directory": "得配本草(C036)",
       "markdown_files": 13,
       "translation_units": 676,
-      "corrections_applied": 140,
+      "corrections_applied": 142,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '鍛石[/h4] 伏雄黃、硫黃、\\u3000砂' (0/1)",
-        "교정 불일치: '雲母[/h4] 澤瀉為之使。畏\\u3000甲' (0/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "C/C037.txt",
@@ -12597,7 +12594,7 @@
       "output_directory": "醫旨緒餘(O088)",
       "markdown_files": 3,
       "translation_units": 93,
-      "corrections_applied": 77,
+      "corrections_applied": 82,
       "punctuated": false,
       "warnings": []
     },

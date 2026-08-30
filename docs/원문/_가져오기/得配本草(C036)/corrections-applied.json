@@ -1088,6 +1088,14 @@
     "reason": "광물 약명 硇砂."
   },
   {
+    "before": "雲母[/h4]\n澤瀉為之使。畏　甲",
+    "after": "雲母[/h4]\n澤瀉為之使。畏鮀甲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
+    "evidence_note": "雲母 배오 금기의 鮀甲. 실제 단락 개행 반영.",
+    "reason": "雲母 배오 금기의 鮀甲."
+  },
+  {
     "before": "惡　甲、黃連",
     "after": "惡鮀甲、黃連",
     "expected_count": 1,
@@ -1110,6 +1118,14 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
     "evidence_note": "광물 포제 煅用·火煅.",
     "reason": "광물 포제 煅用·火煅."
+  },
+  {
+    "before": "鍛石[/h4]\n伏雄黃、硫黃、　砂",
+    "after": "鍛石[/h4]\n伏雄黃、硫黃、硇砂",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
+    "evidence_note": "광물 약명 硇砂. 실제 단락 개행 반영.",
+    "reason": "광물 약명 硇砂."
   },
   {
     "before": "塗瘰　結核",

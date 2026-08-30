@@ -8502,6 +8502,272 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html",
       "evidence_note": "C/C018.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "寧八十老人　庵汪昂書於",
+      "after": "寧八十老人訒庵汪昂書於",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 訒 확정."
+    },
+    {
+      "before": "以氣名者，　、香薷之類",
+      "after": "以氣名者，稀簽、香薷之類",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 稀簽 확정."
+    },
+    {
+      "before": "生脈；得黃　、甘草，乃",
+      "after": "生脈；得黃耆、甘草，乃",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "垣曰：參、　、甘草，瀉",
+      "after": "垣曰：參、耆、甘草，瀉",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "有可代參、　之語，凡遇",
+      "after": "有可代參、耆之語，凡遇",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "禁用（同黃　、芍藥，又",
+      "after": "禁用（同黃耆、芍藥，又",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "止汗；合黃　、白朮，名",
+      "after": "止汗；合黃耆、白朮，名",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "表聖藥。黃　得防風而功",
+      "after": "表聖藥。黃耆得防風而功",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 耆 확정."
+    },
+    {
+      "before": "肛，腸風痔　，赤痢崩中",
+      "after": "肛，腸風痔漏，赤痢崩中",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 漏 확정."
+    },
+    {
+      "before": "甚益元氣（　辛苦氣寒，",
+      "after": "甚益元氣（豨薟辛苦氣寒，",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 豨薟 확정."
+    },
+    {
+      "before": "抽掣，口眼　斜，卒然眩",
+      "after": "抽掣，口眼喎斜，卒然眩",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 喎 확정."
+    },
+    {
+      "before": "）血閉，淋　風癢，血熱",
+      "after": "）血閉，淋閟風癢，血熱",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 閟 확정."
+    },
+    {
+      "before": "之氣也。韓　曰：黃連與",
+      "after": "之氣也。韓懋曰：黃連與",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 懋 확정."
+    },
+    {
+      "before": "用甘草、薺　汁浸三日，",
+      "after": "用甘草、薺苨汁浸三日，",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 苨 확정."
+    },
+    {
+      "before": "，太陽經目　紅筋（太陽",
+      "after": "，太陽經目眥紅筋（太陽",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 眥 확정."
+    },
+    {
+      "before": "太陽脈起目　）。\n\n番",
+      "after": "太陽脈起目眥品類）。\n\n番",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 眥品類 확정."
+    },
+    {
+      "before": "有白絮如苦　絮，子細長",
+      "after": "有白絮如苦買絮，子細長",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 買 확정."
+    },
+    {
+      "before": "毒，生肌除　（音旱，黑",
+      "after": "毒，生肌除皯（音旱，黑",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 皯 확정."
+    },
+    {
+      "before": "紫癜白癩，　瘡瘍（皮腠",
+      "after": "紫癜白癩，皰皻瘡瘍（皮腠",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 皰皻 확정."
+    },
+    {
+      "before": "之意），懊　消渴，腫脹",
+      "after": "之意），懊儂消渴，腫脹",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 儂 확정."
+    },
+    {
+      "before": "內痔，穀道　肉名舉痔，",
+      "after": "內痔，穀道努肉名舉痔，",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 努 확정."
+    },
+    {
+      "before": "腎氣（寇宗　曰：小兒不",
+      "after": "腎氣（寇宗奭曰：小兒不",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 奭 확정."
+    },
+    {
+      "before": "七穀矣。蓋　、稷同音，",
+      "after": "七穀矣。蓋穄、稷同音，",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 穄 확정."
+    },
+    {
+      "before": "所說，因是　黍，所以疑",
+      "after": "所說，因是穄黍，所以疑",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 穄 확정."
+    },
+    {
+      "before": "雀、玄武、　蛇、勾陳六",
+      "after": "雀、玄武、螣蛇、勾陳六",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 螣 확정."
+    },
+    {
+      "before": "熟。故魚肉　用之，不特",
+      "after": "熟。故魚肉鮓用之，不特",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 鮓 확정."
+    },
+    {
+      "before": "者良（寇宗　曰：食酸則",
+      "after": "者良（寇宗奭曰：食酸則",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 奭 확정."
+    },
+    {
+      "before": "渠、慈蔥、　蔥為五葷。",
+      "after": "渠、慈蔥、茖蔥為五葷。",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 茖 확정."
+    },
+    {
+      "before": "，冬蔥也；　蔥，山蔥也",
+      "after": "，冬蔥也；茖蔥，山蔥也",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 茖 확정."
+    },
+    {
+      "before": "正此義。韓　三子養親湯",
+      "after": "正此義。韓懋三子養親湯",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 懋 확정."
+    },
+    {
+      "before": "煎傷寒、火　（音謁，傷",
+      "after": "煎傷寒、火暍（音謁，傷",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 暍 확정."
+    },
+    {
+      "before": "仲冬之月，　不鳴，似與",
+      "after": "仲冬之月，鶡鴠不鳴，似與",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 鶡鴠 확정."
+    },
+    {
+      "before": "、發疾。韓　曰：凡肉皆",
+      "after": "、發疾。韓懋曰：凡肉皆",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 懋 확정."
+    },
+    {
+      "before": "器（牡羊曰　、曰羝，去",
+      "after": "器（牡羊曰羖、曰羝，去",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 羖 확정."
+    },
+    {
+      "before": "、酥炙、火　，亦有生用",
+      "after": "、酥炙、火煆，亦有生用",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 煆 확정."
+    },
+    {
+      "before": "腸），久嗽　瘧（老瘧也",
+      "after": "腸），久嗽欬瘧（老瘧也",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 欬 확정."
+    },
+    {
+      "before": "而黑陷者，　豬血調下一",
+      "after": "而黑陷者，積豬血調下一",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 積 확정."
+    },
+    {
+      "before": "為陰煉，火　為陽煉，盡",
+      "after": "為陰煉，火煆為陽煉，盡",
+      "expected_count": 1,
+      "evidence_url": "source/C/C018a.txt",
+      "evidence_note": "독립 전사 C018a의 고유 좌우 문맥 대조로 결자 煆 확정."
     }
   ],
   "C/C019.txt": [
@@ -20512,11 +20778,11 @@
       "reason": "광물 약명 硇砂."
     },
     {
-      "before": "雲母[/h4] 澤瀉為之使。畏　甲",
-      "after": "雲母[/h4] 澤瀉為之使。畏鮀甲",
+      "before": "雲母[/h4]\n澤瀉為之使。畏　甲",
+      "after": "雲母[/h4]\n澤瀉為之使。畏鮀甲",
       "expected_count": 1,
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
-      "evidence_note": "雲母 배오 금기의 鮀甲.",
+      "evidence_note": "雲母 배오 금기의 鮀甲. 실제 단락 개행 반영.",
       "reason": "雲母 배오 금기의 鮀甲."
     },
     {
@@ -20544,11 +20810,11 @@
       "reason": "광물 포제 煅用·火煅."
     },
     {
-      "before": "鍛石[/h4] 伏雄黃、硫黃、　砂",
-      "after": "鍛石[/h4] 伏雄黃、硫黃、硇砂",
+      "before": "鍛石[/h4]\n伏雄黃、硫黃、　砂",
+      "after": "鍛石[/h4]\n伏雄黃、硫黃、硇砂",
       "expected_count": 1,
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
-      "evidence_note": "광물 약명 硇砂.",
+      "evidence_note": "광물 약명 硇砂. 실제 단락 개행 반영.",
       "reason": "광물 약명 硇砂."
     },
     {
