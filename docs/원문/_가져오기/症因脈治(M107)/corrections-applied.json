@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "before": "濕熱熏蒸，HT　而成黃",
+    "after": "濕熱熏蒸，⿱盒西而成黃",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 IDS 표기 보존",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%87%E5%9B%A0%E8%84%88%E6%B2%BB/index.html"
+  }
+]

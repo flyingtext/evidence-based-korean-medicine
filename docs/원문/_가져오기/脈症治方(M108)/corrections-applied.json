@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "before": "惟小子HT　焉後之勝冠",
+    "after": "惟小子瞠焉後之勝冠",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "目睛上攛。HT　語不安",
+    "after": "目睛上攛。睧語不安",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "目HT　。溺血也",
+    "after": "目䁚。溺血也",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "眼目疳　則HT　脫為痔",
+    "after": "眼目疳䘌則齲脫為痔",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 고유 문맥 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "微者以酸KT　之",
+    "after": "微者以酸耎之",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "小腹繞HT　痛",
+    "after": "小腹繞𤹷痛",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "汗出HT　寒",
+    "after": "汗出㿉寒",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  },
+  {
+    "before": "HT　寒。發熱惡寒",
+    "after": "㿉寒。發熱惡寒",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+  }
+]
