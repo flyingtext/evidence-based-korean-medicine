@@ -1,0 +1,42 @@
+[
+  {
+    "before": "立起沉　。",
+    "after": "立起沉疴。",
+    "expected_count": 1,
+    "reason": "결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "卷上·外症用刀針法"
+  },
+  {
+    "before": "每逢痞塊，　瘕，腹痛",
+    "after": "每逢痞塊，癥瘕，腹痛",
+    "expected_count": 1,
+    "reason": "결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "卷上·外症用刀針法"
+  },
+  {
+    "before": "陽癰　腫，有日漸覺抽痛",
+    "after": "陽癰焮腫，有日漸覺抽痛",
+    "expected_count": 1,
+    "reason": "결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "卷上·外症用刀針法"
+  },
+  {
+    "before": "惟紅腫　痛，火毒旺者",
+    "after": "惟紅腫焮痛，火毒旺者",
+    "expected_count": 1,
+    "reason": "결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "卷上·火針不可輕用"
+  },
+  {
+    "before": "蘊於血分，而成　瘡。",
+    "after": "蘊於血分，而成臁瘡。",
+    "expected_count": 1,
+    "reason": "결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "卷上·臁瘡"
+  }
+]
