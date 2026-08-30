@@ -14,5 +14,13 @@
     "reason": "독립 공개 영인 2종에서 OCR이 口로 오인한 결자틀을 원판대로 복원",
     "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/NAJDA-300-0206_%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B82.pdf#page=3",
     "evidence_note": "內閣文庫본과 SSID-12130371 모두 大法以□□為主，若膿成□□□而殞로 인쇄됨"
+  },
+  {
+    "before": "治兩目KT　KT　不能視遠",
+    "after": "治兩目䀮䀮不能視遠",
+    "expected_count": 1,
+    "reason": "독립 공개 영인 2종에서 반복 희귀자를 직접 판독해 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/NAJDA-300-0206_%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B81.pdf#page=24",
+    "evidence_note": "內閣文庫본 24면과 SSID-12130371 21면 모두 ‘治兩目䀮䀮不能視遠’으로 일치"
   }
 ]
