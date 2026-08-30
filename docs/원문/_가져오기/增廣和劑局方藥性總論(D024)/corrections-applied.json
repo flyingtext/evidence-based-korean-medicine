@@ -734,5 +734,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A2%9E%E5%BB%A3%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9%E8%97%A5%E6%80%A7%E7%B8%BD%E8%AB%96/index.html",
     "evidence_note": "D/D024.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[h3]茗苦KT[/h3]",
+    "after": "[h3]茗苦荼[/h3]",
+    "expected_count": 1,
+    "reason": "본초 항목명 `茗、苦荼`의 희귀자가 KT로 유실됐다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/13",
+    "evidence_note": "독립 본초 전사에서 항목 제목과 본문을 `茗、苦荼`로 확인했다."
+  },
+  {
+    "before": "濕。苦KT　：主下氣，消宿食",
+    "after": "濕。苦荼：主下氣，消宿食",
+    "expected_count": 1,
+    "reason": "같은 항목의 약명과 효능 문구가 독립 전사와 일치한다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/13",
+    "evidence_note": "《證類本草》에 `苦荼，主下氣，消宿食`이 확인된다."
   }
 ]

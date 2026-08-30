@@ -1110,5 +1110,69 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E7%B4%A0%E5%95%8F%E9%88%94/index.html",
     "evidence_note": "A/A013.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "起於冬禁犯　HT（續煩熱也）熱食溫炙衣",
+    "after": "起於冬禁犯焠㶼（續煩熱也）熱食溫炙衣",
+    "expected_count": 1,
+    "evidence_url": "https://www.qhsxzh.com/wp-content/uploads/2026/05/01%E5%80%AA%E6%B3%A8%E5%86%85%E7%BB%8F2026.4.13.pdf",
+    "evidence_note": "《素問·藏氣法時論》 독립 전사의 ‘禁犯焠㶼熱食溫炙衣’로 확인된다.",
+    "reason": "《素問·藏氣法時論》 독립 전사의 ‘禁犯焠㶼熱食溫炙衣’로 확인된다."
+  },
+  {
+    "before": "虛則目KT　KT　無所見耳無所聞善恐如人將捕之",
+    "after": "虛則目䀮䀮無所見耳無所聞善恐如人將捕之",
+    "expected_count": 1,
+    "evidence_url": "https://contents.kocw.or.kr/KOCW/document/2015/pusan/lyujeongah/11.pdf",
+    "evidence_note": "《素問·藏氣法時論》의 해당 문장이 ‘目䀮䀮無所見’으로 직접 확인된다.",
+    "reason": "《素問·藏氣法時論》의 해당 문장이 ‘目䀮䀮無所見’으로 직접 확인된다."
+  },
+  {
+    "before": "少陽終者耳聾百節皆絕目HT絕系一日半死",
+    "after": "少陽終者耳聾百節皆絕目睘絕系一日半死",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "《診要經終論》 평행문 ‘目睘絕系’가 공개 영인 전사에서 확인된다.",
+    "reason": "《診要經終論》 평행문 ‘目睘絕系’가 공개 영인 전사에서 확인된다."
+  },
+  {
+    "before": "故見死矣HT謂直視如驚貌",
+    "after": "故見死矣睘謂直視如驚貌",
+    "expected_count": 1,
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=12134",
+    "evidence_note": "王注의 ‘睘謂直視如驚貌’가 독립 전사에서 확인된다.",
+    "reason": "王注의 ‘睘謂直視如驚貌’가 독립 전사에서 확인된다."
+  },
+  {
+    "before": "牧外為林林外為HT　HT　外為野",
+    "after": "牧外為林林外為坰坰外為野",
+    "expected_count": 1,
+    "evidence_url": "https://www.kanripo.org/text/KR1j0004/011",
+    "evidence_note": "《爾雅》 계열의 지리 구획 ‘林外謂之坰’과 문장 구조로 두 글자 모두 坰이다.",
+    "reason": "《爾雅》 계열의 지리 구획 ‘林外謂之坰’과 문장 구조로 두 글자 모두 坰이다."
+  },
+  {
+    "before": "故春善病HT　衄（續在氣以頭也HT　鼻出水衄鼻出血）",
+    "after": "故春善病鼽衄（續在氣以頭也鼽鼻出水衄鼻出血）",
+    "expected_count": 1,
+    "evidence_url": "https://contents.kocw.net/KOCW/document/2015/pusan/lyujeongah/8.pdf",
+    "evidence_note": "《素問·金匱真言論》의 ‘春善病鼽衄’ 및 주석의 鼽 정의와 일치한다.",
+    "reason": "《素問·金匱真言論》의 ‘春善病鼽衄’ 및 주석의 鼽 정의와 일치한다."
+  },
+  {
+    "before": "故冬不按蹺春HT　衄",
+    "after": "故冬不按蹺春鼽衄",
+    "expected_count": 1,
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "독립 색인의 《素問》 원문 ‘故冬不按蹻，春不鼽衄’와 일치한다.",
+    "reason": "독립 색인의 《素問》 원문 ‘故冬不按蹻，春不鼽衄’와 일치한다."
+  },
+  {
+    "before": "故冬不按蹺春不HT　衄HT　謂鼻流清水衄謂鼻中血出",
+    "after": "故冬不按蹺春不鼽衄鼽謂鼻流清水衄謂鼻中血出",
+    "expected_count": 1,
+    "evidence_url": "https://contents.kocw.net/KOCW/document/2015/pusan/lyujeongah/8.pdf",
+    "evidence_note": "같은 경문과 ‘鼽=鼻流清水’라는 주석 정의가 두 occurrence를 확정한다.",
+    "reason": "같은 경문과 ‘鼽=鼻流清水’라는 주석 정의가 두 occurrence를 확정한다."
   }
 ]

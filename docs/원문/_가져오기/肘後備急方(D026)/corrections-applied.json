@@ -1638,5 +1638,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html",
     "evidence_note": "D/D026.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "又方　豬KT　一具，薄切，以苦酒煮。",
+    "after": "又方　豬胰一具，薄切，以苦酒煮。",
+    "expected_count": 1,
+    "reason": "폐병·해수 처방 재료인 돼지 췌장 `豬胰`의 이체자 변환 잔재다.",
+    "evidence_url": "https://www.jendow.com.tw/wiki/%E8%B1%AC%E8%83%B0",
+    "evidence_note": "《肘後方》 계열 처방의 `豬胰一具` 용례와 효능이 확인된다."
+  },
+  {
+    "before": "諸藥治不瘥方。豬KT　三具，棗百枚。",
+    "after": "諸藥治不瘥方。豬胰三具，棗百枚。",
+    "expected_count": 1,
+    "reason": "독립 인용문에 동일한 약물·수량·배합이 보존된다.",
+    "evidence_url": "https://www.jendow.com.tw/wiki/%E8%B1%AC%E8%83%B0",
+    "evidence_note": "`治久咳嗽上氣十年二十年：豬胰三具，棗百枚，酒三升`이 직접 확인된다."
+  },
+  {
+    "before": "皮肉卒腫起，狹長赤痛名KT　。",
+    "after": "皮肉卒腫起，狹長赤痛名䐔。",
+    "expected_count": 1,
+    "reason": "질병명 희귀자 `䐔`의 gaiji 변환 잔재다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Shanghai_%E8%91%9B%E4%BB%99%E7%BF%81%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9%E5%85%AB%E5%8D%B7.pdf",
+    "evidence_note": "공개 《肘後備急方》 영인과 독립 해제에서 `皮肉卒腫起，狹長赤痛名䐔`이 확인된다."
   }
 ]

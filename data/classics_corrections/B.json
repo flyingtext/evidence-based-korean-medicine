@@ -5220,6 +5220,158 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E6%A2%9D%E8%BE%A8/index.html",
       "evidence_note": "B/B013.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "HT動也。振振。振作也。擗。拊心也。言心怔而忡。頭昏而暈。肉HT　而動",
+      "after": "瞤動也。振振。振作也。擗。拊心也。言心怔而忡。頭昏而暈。肉瞤而動",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "조문의 肉瞤 및 주석 첫머리의 표제어 瞤動과 일치한다.",
+      "reason": "조문의 肉瞤 및 주석 첫머리의 표제어 瞤動과 일치한다."
+    },
+    {
+      "before": "次脾而綴脊KT　。其中即人安生立命之門",
+      "after": "次脾而綴脊膂。其中即人安生立命之門",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=en&id=25015",
+      "evidence_note": "해부 어휘 ‘脊膂’와 문맥이 일치한다.",
+      "reason": "해부 어휘 ‘脊膂’와 문맥이 일치한다."
+    },
+    {
+      "before": "（五十五）太陽病。項背強KT　KT　。反汗出惡風者",
+      "after": "（五十五）太陽病。項背強𠘧𠘧。反汗出惡風者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’이다.",
+      "reason": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’이다."
+    },
+    {
+      "before": "KT　音殊。KT　KT　。鳥之短羽者。動則引頸KT　KT　然",
+      "after": "𠘧音殊。𠘧𠘧。鳥之短羽者。動則引頸𠘧𠘧然",
+      "expected_count": 1,
+      "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+      "evidence_note": "𠘧의 음과 ‘鳥之短羽’ 풀이 및 중첩형 𠘧𠘧이 독립 자전 인용과 일치한다.",
+      "reason": "𠘧의 음과 ‘鳥之短羽’ 풀이 및 중첩형 𠘧𠘧이 독립 자전 인용과 일치한다."
+    },
+    {
+      "before": "加陽明。則頸亦病。故曰KT　KT　也",
+      "after": "加陽明。則頸亦病。故曰𠘧𠘧也",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+      "evidence_note": "같은 병후를 가리키는 희자 𠘧𠘧이다.",
+      "reason": "같은 병후를 가리키는 희자 𠘧𠘧이다."
+    },
+    {
+      "before": "（四十一）太陽病。項背強KT　KT　。無汗惡風者",
+      "after": "（四十一）太陽病。項背強𠘧𠘧。無汗惡風者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "葛根湯 조문의 ‘項背強𠘧𠘧’이다.",
+      "reason": "葛根湯 조문의 ‘項背強𠘧𠘧’이다."
+    },
+    {
+      "before": "太陽病項背強KT　KT　與上編同者",
+      "after": "太陽病項背強𠘧𠘧與上編同者",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+      "evidence_note": "앞 조문을 재인용하는 같은 병후다.",
+      "reason": "앞 조문을 재인용하는 같은 병후다."
+    },
+    {
+      "before": "夫以太陽中風。項背強KT　KT　。汗出。惡風",
+      "after": "夫以太陽中風。項背強𠘧𠘧。汗出。惡風",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "桂枝加葛根湯 병후의 반복 인용이다.",
+      "reason": "桂枝加葛根湯 병후의 반복 인용이다."
+    },
+    {
+      "before": "則此太陽傷寒。項背強KT　KT　。無汗。惡風。當用麻黃加葛根。而用葛根湯者何哉。蓋KT　KT　乃加陽明之時",
+      "after": "則此太陽傷寒。項背強𠘧𠘧。無汗。惡風。當用麻黃加葛根。而用葛根湯者何哉。蓋𠘧𠘧乃加陽明之時",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+      "evidence_note": "한 문단에서 같은 병후를 두 번 지칭한다.",
+      "reason": "한 문단에서 같은 병후를 두 번 지칭한다."
+    },
+    {
+      "before": "其人即KT　。\n\nKT　。與噎通。飲。去聲。令。平聲。浮為氣。故曰無血。大為虛。故曰寒。KT　。俗謂之KT。義見下條",
+      "after": "其人即噎。\n\n噎。與噎通。飲。去聲。令。平聲。浮為氣。故曰無血。大為虛。故曰寒。噎。俗謂之噎。義見下條",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+      "evidence_note": "《傷寒論》의 ‘其人即噎’와 뒤 표제어·속칭 반복이 같은 글자다.",
+      "reason": "《傷寒論》의 ‘其人即噎’와 뒤 표제어·속칭 반복이 같은 글자다."
+    },
+    {
+      "before": "趺陽脈浮。浮則為虛。浮虛相搏。故令氣KT　。言胃氣虛竭也",
+      "after": "趺陽脈浮。浮則為虛。浮虛相搏。故令氣噎。言胃氣虛竭也",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+      "evidence_note": "평행 조문의 ‘故令氣噎’이다.",
+      "reason": "평행 조문의 ‘故令氣噎’이다."
+    },
+    {
+      "before": "問KT　KT　。\n\n曰。幾自說文以來。皆言鳥之短羽者。不能遠飛。動則引頸KT　KT　然",
+      "after": "問𠘧𠘧。\n\n曰。幾自說文以來。皆言鳥之短羽者。不能遠飛。動則引頸𠘧𠘧然",
+      "expected_count": 1,
+      "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+      "evidence_note": "문답의 표제와 자형 설명이 모두 𠘧𠘧을 가리킨다.",
+      "reason": "문답의 표제와 자형 설명이 모두 𠘧𠘧을 가리킨다."
+    },
+    {
+      "before": "莫如瓠KT　。即使奪化之工為之。止不過模舊式。描得出兩個扁扁圈子相累耳。置一渾淪圓瓠KT　質其旁而責之畫",
+      "after": "莫如瓠蘆。即使奪化之工為之。止不過模舊式。描得出兩個扁扁圈子相累耳。置一渾淪圓瓠蘆質其旁而責之畫",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E7%93%A0%E8%98%86",
+      "evidence_note": "두 개의 둥근 형상을 설명하는 사물명 瓠蘆다.",
+      "reason": "두 개의 둥근 형상을 설명하는 사물명 瓠蘆다."
+    },
+    {
+      "before": "故曰依樣畫瓠KT　。何以不得病情影向",
+      "after": "故曰依樣畫瓠蘆。何以不得病情影向",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E4%BE%9D%E6%A8%A3%E7%95%AB%E8%91%AB%E8%98%86",
+      "evidence_note": "성어 ‘依樣畫葫蘆’의 본문 표기 瓠蘆다.",
+      "reason": "성어 ‘依樣畫葫蘆’의 본문 표기 瓠蘆다."
+    },
+    {
+      "before": "憶病初項強KT　KT　之不能自勝",
+      "after": "憶病初項強𠘧𠘧之不能自勝",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+      "evidence_note": "앞서 논증한 項強𠘧𠘧 병후의 회고다.",
+      "reason": "앞서 논증한 項強𠘧𠘧 병후의 회고다."
+    },
+    {
+      "before": "太陽病。其證備。身體強。KT　KT　然。脈反沉遲",
+      "after": "太陽病。其證備。身體強。𠘧𠘧然。脈反沉遲",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/%E7%97%99%E6%BF%95%E6%9A%8D%E7%97%85%E8%84%88%E8%AD%89%E6%B2%BB%E7%AC%AC%E4%BA%8C",
+      "evidence_note": "栝蔞桂枝湯 조문의 ‘身體強，𠘧𠘧然’이다.",
+      "reason": "栝蔞桂枝湯 조문의 ‘身體強，𠘧𠘧然’이다."
+    },
+    {
+      "before": "KT　。音殊。其。承上指太陽也。證備。言頭項強痛汗出惡風寒具見也。身體強。太陽陽明合也。KT　KT　者",
+      "after": "𠘧。音殊。其。承上指太陽也。證備。言頭項強痛汗出惡風寒具見也。身體強。太陽陽明合也。𠘧𠘧者",
+      "expected_count": 1,
+      "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+      "evidence_note": "표제자·음주·중첩 병후가 모두 𠘧이다.",
+      "reason": "표제자·음주·중첩 병후가 모두 𠘧이다."
+    },
+    {
+      "before": "案成。藏諸金HT　以待。越明年",
+      "after": "案成。藏諸金匱以待。越明年",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E9%87%91%E5%8C%B1",
+      "evidence_note": "문서를 보관하는 상자를 뜻하는 고정어 金匱다.",
+      "reason": "문서를 보관하는 상자를 뜻하는 고정어 金匱다."
+    },
+    {
+      "before": "家人促歸。困頓已二日。啟HT　照案。急以寸匕灌之",
+      "after": "家人促歸。困頓已二日。啟匱照案。急以寸匕灌之",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E9%87%91%E5%8C%B1",
+      "evidence_note": "앞서 보관한 金匱를 열어 의안을 확인한다는 문맥이다.",
+      "reason": "앞서 보관한 金匱를 열어 의안을 확인한다는 문맥이다."
     }
   ],
   "B/B003.txt": [
@@ -13699,6 +13851,46 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%85%AD%E6%9B%B8/index.html",
       "evidence_note": "B/B037.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "項背強KT　KT　、無汗者，葛根湯",
+      "after": "項背強𠘧𠘧、無汗者，葛根湯",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "葛根湯 조문의 고유 병후 ‘項背強𠘧𠘧’으로 확인된다.",
+      "reason": "葛根湯 조문의 고유 병후 ‘項背強𠘧𠘧’으로 확인된다."
+    },
+    {
+      "before": "大抵KT　近於噦。KT　者，但胸間氣塞不得下通",
+      "after": "大抵噎近於噦。噎者，但胸間氣塞不得下通",
+      "expected_count": 1,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216106",
+      "evidence_note": "같은 咳逆·噦 절의 독립 학술 전사와 문맥상 噎의 정의가 일치한다.",
+      "reason": "같은 咳逆·噦 절의 독립 학술 전사와 문맥상 噎의 정의가 일치한다."
+    },
+    {
+      "before": "陽脈浮，則為氣KT　。又曰：脈滑",
+      "after": "陽脈浮，則為氣噎。又曰：脈滑",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+      "evidence_note": "《傷寒論》 평행 조문의 ‘陽脈浮，則為氣噎’이다.",
+      "reason": "《傷寒論》 평행 조문의 ‘陽脈浮，則為氣噎’이다."
+    },
+    {
+      "before": "乾嘔，發熱而咳，或KT　，小青龍湯去麻黃",
+      "after": "乾嘔，發熱而咳，或噎，小青龍湯去麻黃",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+      "evidence_note": "小青龍湯 가감 조문의 ‘若噎者’와 대응한다.",
+      "reason": "小青龍湯 가감 조문의 ‘若噎者’와 대응한다."
+    },
+    {
+      "before": "水得寒氣，冷必相搏，其人即KT　，豆蔻湯",
+      "after": "水得寒氣，冷必相搏，其人即噎，豆蔻湯",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+      "evidence_note": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다.",
+      "reason": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다."
     }
   ],
   "B/B039.txt": [

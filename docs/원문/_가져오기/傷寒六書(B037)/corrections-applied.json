@@ -526,5 +526,45 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%85%AD%E6%9B%B8/index.html",
     "evidence_note": "B/B037.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "項背強KT　KT　、無汗者，葛根湯",
+    "after": "項背強𠘧𠘧、無汗者，葛根湯",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "葛根湯 조문의 고유 병후 ‘項背強𠘧𠘧’으로 확인된다.",
+    "reason": "葛根湯 조문의 고유 병후 ‘項背強𠘧𠘧’으로 확인된다."
+  },
+  {
+    "before": "大抵KT　近於噦。KT　者，但胸間氣塞不得下通",
+    "after": "大抵噎近於噦。噎者，但胸間氣塞不得下通",
+    "expected_count": 1,
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216106",
+    "evidence_note": "같은 咳逆·噦 절의 독립 학술 전사와 문맥상 噎의 정의가 일치한다.",
+    "reason": "같은 咳逆·噦 절의 독립 학술 전사와 문맥상 噎의 정의가 일치한다."
+  },
+  {
+    "before": "陽脈浮，則為氣KT　。又曰：脈滑",
+    "after": "陽脈浮，則為氣噎。又曰：脈滑",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+    "evidence_note": "《傷寒論》 평행 조문의 ‘陽脈浮，則為氣噎’이다.",
+    "reason": "《傷寒論》 평행 조문의 ‘陽脈浮，則為氣噎’이다."
+  },
+  {
+    "before": "乾嘔，發熱而咳，或KT　，小青龍湯去麻黃",
+    "after": "乾嘔，發熱而咳，或噎，小青龍湯去麻黃",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "小青龍湯 가감 조문의 ‘若噎者’와 대응한다.",
+    "reason": "小青龍湯 가감 조문의 ‘若噎者’와 대응한다."
+  },
+  {
+    "before": "水得寒氣，冷必相搏，其人即KT　，豆蔻湯",
+    "after": "水得寒氣，冷必相搏，其人即噎，豆蔻湯",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+    "evidence_note": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다.",
+    "reason": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다."
   }
 ]

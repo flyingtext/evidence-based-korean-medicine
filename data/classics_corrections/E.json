@@ -2364,6 +2364,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
       "evidence_note": "E/E006.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "夏大旱，民多　死。故暑也、熱也、　也",
+      "after": "夏大旱，民多暍死。故暑也、熱也、暍也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%BC%A2%E6%9B%B8/%E5%8D%B706",
+      "evidence_note": "《漢書》의 暍死 및 暑·熱·暍 동의 해설.",
+      "reason": "《漢書》의 暍死 및 暑·熱·暍 동의 해설."
+    },
+    {
+      "before": "腰折，螈　，齒噤　也",
+      "after": "腰折，螈瘲，齒噤齘也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+      "evidence_note": "痙病의 螈瘲·齒噤齘.",
+      "reason": "痙病의 螈瘲·齒噤齘."
+    },
+    {
+      "before": "劇則如驚癇，時螈　",
+      "after": "劇則如驚癇，時螈瘲",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "상한 화역 조문의 螈瘲.",
+      "reason": "상한 화역 조문의 螈瘲."
+    },
+    {
+      "before": "心中懊　者，身必發黃",
+      "after": "心中懊憹者，身必發黃",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "陽明病 발황 조문의 懊憹.",
+      "reason": "陽明病 발황 조문의 懊憹."
+    },
+    {
+      "before": "其邪熱閉結，心中懊　",
+      "after": "其邪熱閉結，心中懊憹",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+      "evidence_note": "직전 조문 해설의 懊憹 반복.",
+      "reason": "직전 조문 해설의 懊憹 반복."
+    },
+    {
+      "before": "當歸、芎　、益母草",
+      "after": "當歸、芎藭、益母草",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+      "evidence_note": "약명 芎藭.",
+      "reason": "약명 芎藭."
     }
   ],
   "E/E007.txt": [

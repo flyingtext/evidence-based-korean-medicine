@@ -566,5 +566,53 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
     "evidence_note": "O/O088.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "《靈樞‧背　篇》有云：肺　在三焦之間，心　在五焦之間",
+    "after": "《靈樞‧背腧篇》有云：肺腧在三焦之間，心腧在五焦之間",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E8%83%8C%E8%85%A7",
+    "evidence_note": "편명 背腧 및 혈명 肺腧·心腧.",
+    "reason": "편명 背腧 및 혈명 肺腧·心腧."
+  },
+  {
+    "before": "據銅人圖，肺　在三椎下，心俞在五椎下",
+    "after": "據銅人圖，肺俞在三椎下，心俞在五椎下",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
+    "evidence_note": "경혈명 肺俞.",
+    "reason": "경혈명 肺俞."
+  },
+  {
+    "before": "卒暴僵仆，嘔噦吐酸，螈　狂亂",
+    "after": "卒暴僵仆，嘔噦吐酸，螈瘲狂亂",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "凡腫滿痞塞，　腫，大小便不利，腹疼　脹",
+    "after": "凡腫滿痞塞，浮腫，大小便不利，腹疼䐜脹",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
+    "evidence_note": "토울 증상의 浮腫·䐜脹.",
+    "reason": "토울 증상의 浮腫·䐜脹."
+  },
+  {
+    "before": "甚而螈　抽掣",
+    "after": "甚而螈瘲抽掣",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "東垣治血虛發熱，以黃　一兩",
+    "after": "東垣治血虛發熱，以黃耆一兩",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%97%A8%E7%B7%92%E9%A4%98/index.html",
+    "evidence_note": "當歸補血湯의 黃耆.",
+    "reason": "當歸補血湯의 黃耆."
   }
 ]
