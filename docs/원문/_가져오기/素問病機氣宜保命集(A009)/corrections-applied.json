@@ -5,5 +5,13 @@
     "expected_count": 1,
     "reason": "內經 계통 공개 전사 대조 KT 복원",
     "evidence_note": "目䀮䀮 관용 문맥"
+  },
+  {
+    "before": "丙寅HT　仙（朱權）書",
+    "after": "丙寅臞仙（朱權）書",
+    "expected_count": 1,
+    "reason": "서명 구조와 朱權의 공인된 자호를 대조해 인명 외자를 복원",
+    "evidence_url": "https://ctext.org/datawiki.pl?if=gb&res=63921",
+    "evidence_note": "《明史》 계통 인물자료와 교육부 사전이 朱權自號臞仙으로 일치함"
   }
 ]
