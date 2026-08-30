@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "before": "KT　石斛",
+    "after": "釵石斛",
+    "expected_count": 8,
+    "reason": "jicheng 공개 전문 대조 약명 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%A7%91%E6%B4%BB%E4%BA%BA%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "HT　米",
+    "after": "粳米",
+    "expected_count": 2,
+    "reason": "jicheng 공개 전문 대조 약명 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%A7%91%E6%B4%BB%E4%BA%BA%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "尿白HT　",
+    "after": "尿白垽",
+    "expected_count": 1,
+    "reason": "공개 전문 IDS와 본초 용례 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%A7%91%E6%B4%BB%E4%BA%BA%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "小兒KT　病",
+    "after": "小兒鬾病",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 병명 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%A7%91%E6%B4%BB%E4%BA%BA%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "KT　眼毛",
+    "after": "𢳄眼毛",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%A7%91%E6%B4%BB%E4%BA%BA%E5%85%A8%E6%9B%B8/index.html"
+  }
+]

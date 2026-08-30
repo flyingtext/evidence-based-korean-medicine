@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "before": "紛紛HT　HT　（普巴切）",
+    "after": "紛紛𤽉𤽉（普巴切）",
+    "expected_count": 1,
+    "reason": "四庫全書 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "赤色廣KT　",
+    "after": "赤色廣䏖",
+    "expected_count": 1,
+    "reason": "四庫全書 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 14,
+    "reason": "四庫全書 공개 전문의 반복 문맥 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "目KT　KT然",
+    "after": "目䀮䀮然",
+    "expected_count": 1,
+    "reason": "四庫全書 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "欠KT　（音掐開口也）",
+    "after": "欠㰦（音掐開口也）",
+    "expected_count": 1,
+    "reason": "四庫全書 공개 전문·음주 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "五巳KT　中",
+    "after": "五巳㽷中",
+    "expected_count": 1,
+    "reason": "四庫全書 공개 전문 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  }
+]
