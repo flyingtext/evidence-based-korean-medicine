@@ -27564,6 +27564,38 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95/index.html",
       "evidence_note": "O/O044.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　KT　無所見",
+      "after": "目䀮䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/594",
+      "evidence_note": "『素問·藏氣法時論』의 직접 평행문이 『目䀮䀮無所見』으로 확인된다.",
+      "reason": "『素問·藏氣法時論』의 직접 평행문이 『目䀮䀮無所見』으로 확인된다."
+    },
+    {
+      "before": "治以灸KT　；脈病攣痹者",
+      "after": "治以灸焫；脈病攣痹者",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=321256&if=en&remap=gb",
+      "evidence_note": "『仁齋直指』의 동일 장문 평행문에 『藏寒虛奪者治以灸焫脈病攣痹者』로 전한다.",
+      "reason": "『仁齋直指』의 동일 장문 평행문에 『藏寒虛奪者治以灸焫脈病攣痹者』로 전한다."
+    },
+    {
+      "before": "用蜜熬入皂角末少許作□以導之",
+      "after": "用蜜熬入皂角末少許作錠以導之",
+      "expected_count": 1,
+      "evidence_url": "https://www.nricm.edu.tw/var/file/0/1000/attach/73/pta_4000_5255533_91726.pdf",
+      "evidence_note": "논문의 중의문헌 대조표가 『丹溪心法·卷二·燥結十一』 동일문을 『作錠以導之』로 인용한다.",
+      "reason": "논문의 중의문헌 대조표가 『丹溪心法·卷二·燥結十一』 동일문을 『作錠以導之』로 인용한다."
+    },
+    {
+      "before": "芫花（慢火□紫色）",
+      "after": "芫花（慢火炒紫色）",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/SSID-13381060_%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95_%E5%8D%B74.pdf",
+      "evidence_note": "공개 영인본의 동일 처방 주석이 『慢火炒紫色』으로 확인된다.",
+      "reason": "공개 영인본의 동일 처방 주석이 『慢火炒紫色』으로 확인된다."
     }
   ],
   "O/O045.txt": [

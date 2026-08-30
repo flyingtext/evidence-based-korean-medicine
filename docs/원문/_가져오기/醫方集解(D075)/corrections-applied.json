@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "before": "KT　KT　",
+    "after": "几几",
+    "expected_count": 4,
+    "evidence": "葛根湯·栝蔞桂枝湯의 전승 원문은 項背強几几/身體強几几이다. https://yibian.hopto.org/shu/?sid=5661",
+    "reason": "葛根湯·栝蔞桂枝湯의 전승 원문은 項背強几几/身體強几几이다. https://yibian.hopto.org/shu/?sid=5661"
+  },
+  {
+    "before": "不宜KT　，KT　則邪氣未盡",
+    "after": "不宜截，截則邪氣未盡",
+    "expected_count": 1,
+    "evidence": "이어지는 變生他證 및 같은 절의 截瘧法 문맥으로 두 글자 모두 截. https://www.shidianguji.com/zh/book/HY1448/chapter/1koboqqnew2sn",
+    "reason": "이어지는 變生他證 및 같은 절의 截瘧法 문맥으로 두 글자 모두 截. https://www.shidianguji.com/zh/book/HY1448/chapter/1koboqqnew2sn"
+  }
+]

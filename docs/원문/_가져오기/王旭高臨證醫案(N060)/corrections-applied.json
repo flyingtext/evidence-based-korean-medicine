@@ -878,5 +878,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%8E%8B%E6%97%AD%E9%AB%98%E8%87%A8%E8%AD%89%E9%86%AB%E6%A1%88/index.html",
     "evidence_note": "N/N060.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "故目KT　KT　無所見",
+    "after": "故目䀮䀮無所見",
+    "expected_count": 1,
+    "evidence_url": "https://app.mediclassics.kr/books/%EB%8F%99%EC%9D%98%EB%B3%B4%EA%B0%90/pages/594",
+    "evidence_note": "본문이 인용한 『內經』 구절의 공개 평행문이 『目䀮䀮無所見』으로 확인된다.",
+    "reason": "본문이 인용한 『內經』 구절의 공개 평행문이 『目䀮䀮無所見』으로 확인된다."
   }
 ]

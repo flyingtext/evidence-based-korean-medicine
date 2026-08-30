@@ -8315,6 +8315,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E5%AC%B0%E6%92%AE%E8%A6%81/index.html",
       "evidence_note": "H/H022.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "治頭痛、項背強KT　KT　，汗出惡風者。",
+      "after": "治頭痛、項背強几几，汗出惡風者。",
+      "expected_count": 1,
+      "reason": "傷寒論 독립 평행문 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7041",
+      "evidence_note": "桂枝加葛根湯 평행 조문이 '項背強几几，反汗出惡風'으로 수록됨"
+    },
+    {
+      "before": "治太陽病，項強KT　KT　，惡風無汗，及惡寒剛痙。",
+      "after": "治太陽病，項強几几，惡風無汗，及惡寒剛痙。",
+      "expected_count": 1,
+      "reason": "傷寒論 독립 평행문 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7041",
+      "evidence_note": "葛根湯 평행 조문이 '項背強几几無汗惡風'으로 수록됨"
+    },
+    {
+      "before": "若骨HT　接而復脫者",
+      "after": "若骨𩨕接而復脫者",
+      "expected_count": 1,
+      "reason": "보嬰촬영 명각본 자형 및 동일 외상 문맥 대조",
+      "evidence_url": "https://www.shidianguji.com/character/%F0%A9%A8%95",
+      "evidence_note": "保嬰撮要 명각본 용례가 '骨出𩨕' 및 '接骨散治骨折碎或骨出𩨕'으로 제시됨"
+    },
+    {
+      "before": "一小兒臂骨出HT　接入，腫痛發熱",
+      "after": "一小兒臂骨出𩨕接入，腫痛發熱",
+      "expected_count": 1,
+      "reason": "명각본 및 접골 문맥 대조",
+      "evidence_url": "https://www.shidianguji.com/character/%F0%A9%A8%95",
+      "evidence_note": "保嬰撮要의 骨出𩨕 용례와 고유 문맥 일치"
+    },
+    {
+      "before": "一小兒跌傷臂骨出HT　，翌日接入",
+      "after": "一小兒跌傷臂骨出𩨕，翌日接入",
+      "expected_count": 1,
+      "reason": "명각본 및 접골 문맥 대조",
+      "evidence_url": "https://www.shidianguji.com/character/%F0%A9%A8%95",
+      "evidence_note": "保嬰撮要의 骨出𩨕 용례와 고유 문맥 일치"
+    },
+    {
+      "before": "後骨HT　內潰，青腫益深",
+      "after": "後骨𩨕內潰，青腫益深",
+      "expected_count": 1,
+      "reason": "같은 권의 骨𩨕 용례와 고유 문맥 대조",
+      "evidence_url": "https://www.shidianguji.com/character/%F0%A9%A8%95",
+      "evidence_note": "동일 명각본의 희귀 골부 자형 𩨕을 보존함"
+    },
+    {
+      "before": "治骨折碎，或骨出HT　，先整端正",
+      "after": "治骨折碎，或骨出𩨕，先整端正",
+      "expected_count": 1,
+      "reason": "명각본 원문 직접 대조",
+      "evidence_url": "https://www.shidianguji.com/character/%F0%A9%A8%95",
+      "evidence_note": "명각본 인용문이 정확히 '接骨散治骨折碎或骨出𩨕先整端正'으로 제시됨"
     }
   ],
   "H/H030.txt": [
@@ -11073,6 +11129,15 @@
       "reason": "桂枝加葛根湯의 고정 조문이다.",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96%E7%BF%BC",
       "evidence_note": "공개 독립 전사에서 `項背強𠘧𠘧`을 확인했다."
+    }
+  ],
+  "H/H013.txt": [
+    {
+      "before": "小KT　糕",
+      "after": "小米糕",
+      "expected_count": 1,
+      "evidence": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일.",
+      "reason": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일."
     }
   ]
 }
