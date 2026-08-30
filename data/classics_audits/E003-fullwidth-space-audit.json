@@ -1,0 +1,22 @@
+{
+  "source_path": "E/E003.txt",
+  "title": "濕熱病篇",
+  "source_fullwidth_spaces": 0,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 0,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "placeholder·깨진 토큰 및 레거시 태그 전수 검사",
+    "jicheng 《濕熱病篇》 최신 정리본 전문 대조",
+    "《溫熱經緯》 계열 독립 전사와 조문 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E6%BF%95%E7%86%B1%E7%97%85%E7%AF%87_1/index.html",
+    "https://www.cntcm.org/shu/672-9-2.html",
+    "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001712127"
+  ],
+  "corrected_body_sha256": "b9b964adf47bd57bb0c8c6507a27cf0cfbb946b961f91bb6f48c60bf7f3fe56c",
+  "note": "공백형 결자는 없으며 濕熬와 外龑 두 OCR 오기를 복원했다. [id]·[dzb]·[s]의 내부 문자는 변환 시 보존된다."
+}

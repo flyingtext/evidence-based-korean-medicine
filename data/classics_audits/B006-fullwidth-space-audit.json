@@ -1,0 +1,23 @@
+{
+  "source_path": "B/B006.txt",
+  "title": "傷寒發微論",
+  "source_fullwidth_spaces": 33,
+  "restored_or_normalized_positions": 33,
+  "preserved_layout_spaces": 0,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 33자리와 HT 1/KT 4 전수 판정",
+    "jicheng 하버드 옌칭 스캔 기반 정리본 전문 대조",
+    "Wikisource·CText 독립 전사 및 공개 PDF 영인본 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%99%BC%E5%BE%AE%E8%AB%96/index.html",
+    "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E7%99%BC%E5%BE%AE%E8%AB%96",
+    "https://ctext.org/wiki.pl?if=gb&res=296196",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/SSID-10858728_%E5%82%B7%E5%AF%92%E7%99%BC%E5%BE%AE%E8%AB%96.pdf"
+  ],
+  "corrected_body_sha256": "14069cf333505160776897fc174be807692eb640d176ac4b7ba660812f3addfd",
+  "note": "전각 공백 33자리는 모두 결자였으며 판면 공백은 없다. 깨진 HT/KT와 다수 확장·희귀 한자 및 비공백 OCR 오류까지 복원했다."
+}

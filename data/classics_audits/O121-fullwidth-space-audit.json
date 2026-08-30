@@ -1,0 +1,22 @@
+{
+  "source_path": "O/O121.txt",
+  "title": "醫醫十病",
+  "source_fullwidth_spaces": 25,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 25,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": false,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 25자리 및 placeholder 전수 검사",
+    "jicheng 최신 정리본 전문과 CJK 문자열 완전 일치 검증",
+    "Wikisource 독립 전사 및 출판 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%86%AB%E9%86%AB%E5%8D%81%E7%97%85/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%86%AB%E9%86%AB%E5%8D%81%E7%97%85",
+    "https://www.sanmin.com.tw/product/index/003561462"
+  ],
+  "corrected_body_sha256": "2b427dd9c42a2297ceb9f6b27d42f85a936a74a749298f98672ef1894043c8fc",
+  "note": "25개 전각 공백은 모두 문단 들여쓰기이며 결자나 깨진 토큰은 발견되지 않았다. 온라인 정리본과 원문의 CJK 배열이 완전히 일치한다."
+}
