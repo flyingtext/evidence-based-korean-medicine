@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E8%80%83/index.html",
+    "site": "jicheng.tw",
+    "page_title": "經絡考",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:59:44.163502+00:00",
+    "html_sha256": "59702334f7cbaebe22b5f25cfd02d50004b027cb8b60215a0052505b08d53e83",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/經絡考(O010)/표점본.md",
+  "blocks": {
+    "total": 187,
+    "by_tag": {
+      "div": 115,
+      "h1": 3,
+      "h2": 69
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 19153,
+    "extracted_han_sha256": "65cfe79a979df68733dc994834dd470d727d225934fffe165868830c5909bec2",
+    "source_han_characters": 19102,
+    "source_han_sha256": "45c243cc312beff3a4b43cd48e1dfe604de8fdc11d28d48ad4dc2a8fd5f79a08",
+    "han_length_ratio": 1.00267,
+    "han_sequence_quick_ratio": 0.978539,
+    "han_exact_match": false,
+    "punctuation_density": 0.166684
+  },
+  "source_path": "O/O010.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.979121
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 19767,
+    "output_non_punctuation_characters": 19767,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 58,
+    "insert": 620
+  }
+}

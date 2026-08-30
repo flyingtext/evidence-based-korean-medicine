@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E7%B6%93%E9%A9%97%E9%BA%BB%E7%A7%91/index.html",
+    "site": "jicheng.tw",
+    "page_title": "經驗麻科",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:59:42.679090+00:00",
+    "html_sha256": "5c1bde323e670f64829d52829dd669422f8e3e8046cf95beb5efd49c5ecd3ffc",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/經驗麻科(I205)/표점본.md",
+  "blocks": {
+    "total": 463,
+    "by_tag": {
+      "div": 340,
+      "h1": 116,
+      "h2": 7
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 18961,
+    "extracted_han_sha256": "31704823fb79b3504d852b03c1dec6b7074b0d03f0fb3ea0a27fa8b398fb21b9",
+    "source_han_characters": 18953,
+    "source_han_sha256": "c55687fc38305f282b336eabbaf3d830911fc62d533ee3f88cf5145f42022fc0",
+    "han_length_ratio": 1.000422,
+    "han_sequence_quick_ratio": 0.988237,
+    "han_exact_match": false,
+    "punctuation_density": 0.14957
+  },
+  "source_path": "I/I205.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.988625
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 18953,
+    "output_non_punctuation_characters": 18953,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 0
+  }
+}

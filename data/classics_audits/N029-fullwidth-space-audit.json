@@ -1,0 +1,37 @@
+{
+  "source_path": "N/N029.txt",
+  "title": "肯堂醫論",
+  "source_audit": {
+    "fullwidth_spaces": 65,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 20,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 49,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 20,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 특수 공백·깨진 토큰·강조/그림 표지 전수 계수",
+    "jicheng 최신 공개 전문 대조",
+    "독립 공개 전사·서지 및 문맥 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E8%82%AF%E5%A0%82%E9%86%AB%E8%AB%96/index.html",
+    "https://zh.wikisource.org/wiki/%E8%82%AF%E5%A0%82%E9%86%AB%E8%AB%96"
+  ],
+  "corrected_body_sha256": "611ccdd673dcf63aa85dd8d21afad5698789e362640e8300b7bc23e58cc8bb17",
+  "note": "전각 공백 65곳·[u] 20곳 전수 판정. jicheng 최신 전문과 Wikisource 독립 전사 대조로 결자·OCR 오기 전문 교정, 원자료 표점 충분"
+}

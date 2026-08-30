@@ -1,0 +1,36 @@
+{
+  "source_path": "L/L105.txt",
+  "title": "喉舌備要秘旨",
+  "source_audit": {
+    "fullwidth_spaces": 540,
+    "HT": 4,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 80,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 2
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 530,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 80,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 특수 공백·깨진 토큰·강조/그림 표지 전수 계수",
+    "jicheng 최신 공개 전문 대조",
+    "독립 공개 전사·서지 및 문맥 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%96%89%E8%88%8C%E5%82%99%E8%A6%81%E7%A7%98%E6%97%A8/index.html"
+  ],
+  "corrected_body_sha256": "a33320e38aaf750a1f414b0d17a362de065819e1767349d0a601fc6afdfce32c",
+  "note": "전각 공백 540곳·HT 4곳·[u] 80곳·[i] 2곳 전수 판정. jicheng 최신 전문과 공개 서지 대조로 결자·OCR 오기를 교정하고 그림 2곳을 설명 표지로 보존, 원자료 표점 충분"
+}

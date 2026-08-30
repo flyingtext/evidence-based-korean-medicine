@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E%E7%B6%93%E8%84%88%E7%BF%BC/index.html",
+    "site": "jicheng.tw",
+    "page_title": "靈樞經脈翼",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:59:43.425929+00:00",
+    "html_sha256": "23640a94805c8f67178903fbbcac9360d04c179e67314a9bb9540a2ceb32655e",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/靈樞經脈翼(A102)/표점본.md",
+  "blocks": {
+    "total": 585,
+    "by_tag": {
+      "div": 552,
+      "h1": 5,
+      "h2": 28
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 23166,
+    "extracted_han_sha256": "20dec9c36e5d9aa480b429f98467187ba568220bdb0c33f1d11f69650ee55923",
+    "source_han_characters": 22541,
+    "source_han_sha256": "c12bc18b1a9efa556bc6ea3dc9fc5aa2e8c4c0d3907b738dfd6e1912d0b5fef6",
+    "han_length_ratio": 1.027727,
+    "han_sequence_quick_ratio": 0.978187,
+    "han_exact_match": false,
+    "punctuation_density": 0.005698
+  },
+  "source_path": "A/A102.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.978607
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 23482,
+    "output_non_punctuation_characters": 23482,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 72,
+    "insert": 326
+  }
+}

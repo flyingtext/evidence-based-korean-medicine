@@ -1,0 +1,37 @@
+{
+  "source_path": "N/N057.txt",
+  "title": "醫醫醫",
+  "source_audit": {
+    "fullwidth_spaces": 23,
+    "HT": 1,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 3,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 0,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 3,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 특수 공백·깨진 토큰·강조/그림 표지 전수 계수",
+    "jicheng 최신 공개 전문 대조",
+    "독립 공개 전사·서지 및 문맥 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%86%AB%E9%86%AB%E9%86%AB/index.html",
+    "https://zh.wikisource.org/zh/%E9%86%AB%E9%86%AB%E9%86%AB"
+  ],
+  "corrected_body_sha256": "84149a7117af53543921dd766a6ce608b0fc2d400f83f696cc2828bbdc6cc465",
+  "note": "전각 공백 23곳·HT 1곳·[u] 3곳 전수 판정. jicheng 최신 전문과 Wikisource 독립 전사 대조로 결자·OCR 오기 전문 교정, 원자료 표점 충분"
+}

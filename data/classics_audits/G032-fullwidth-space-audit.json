@@ -1,0 +1,37 @@
+{
+  "source_path": "G/G032.txt",
+  "title": "產鑑",
+  "source_audit": {
+    "fullwidth_spaces": 915,
+    "HT": 1,
+    "KT": 0,
+    "raw_boxes": 8,
+    "replacement_char": 0,
+    "underline_open_tags": 157,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 828,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 157,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 특수 공백·깨진 토큰·강조/그림 표지 전수 계수",
+    "jicheng 최신 공개 전문 대조",
+    "독립 공개 전사·서지 및 문맥 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E7%94%A2%E9%91%91/index.html",
+    "https://www.newton.com.tw/wiki/%E7%94%A2%E9%91%92/12684358"
+  ],
+  "corrected_body_sha256": "902dcb30b1014b74df4c63e3fadfadb0de262e9ce198fea27d80ae5fe0194423",
+  "note": "전각 공백 915곳·HT 1곳·□ 8곳·[u] 157곳 전수 판정. jicheng 최신 전문과 공개 서지 대조로 결자·OCR 오기를 교정하고 판본상 미상 8자는 〔闕〕로 명시, 원자료 표점 충분"
+}

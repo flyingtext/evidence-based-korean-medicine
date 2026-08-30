@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%9B%9C%E7%97%85%E6%B2%BB%E4%BE%8B/index.html",
+    "site": "jicheng.tw",
+    "page_title": "雜病治例",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T07:59:41.697893+00:00",
+    "html_sha256": "8b6fb737136ff4ef5cd4036a2ce78f2bd6e7e89f2fad0d7e2c83e7e92911c1b3",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/雜病治例(F021)/표점본.md",
+  "blocks": {
+    "total": 769,
+    "by_tag": {
+      "div": 689,
+      "h1": 80
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 16240,
+    "extracted_han_sha256": "53a3e35911c18395393d86c1de1cc61102c43c2b803fa21f6d491ef22edcd433",
+    "source_han_characters": 15968,
+    "source_han_sha256": "ec7b658b9da55a1be5a84e6af103ea1ceaa7f36e345ed265f8112c267704ecbf",
+    "han_length_ratio": 1.017034,
+    "han_sequence_quick_ratio": 0.983917,
+    "han_exact_match": false,
+    "punctuation_density": 0.15468
+  },
+  "source_path": "F/F021.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.984184
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 17284,
+    "output_non_punctuation_characters": 17284,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 15,
+    "delete": 65,
+    "insert": 1037
+  }
+}
