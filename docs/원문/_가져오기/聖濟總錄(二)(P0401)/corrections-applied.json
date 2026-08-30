@@ -7686,5 +7686,12 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
     "evidence_note": "P/P0401.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "兩耳KT　KT　鳴",
+    "after": "兩耳嘈嘈鳴",
+    "expected_count": 1,
+    "evidence": "《聖濟總錄》 석곡음 주치의 평행문이 ‘兩耳嘈嘈鳴，甚即成聾’으로 전함.",
+    "reason": "《聖濟總錄》 석곡음 주치의 평행문이 ‘兩耳嘈嘈鳴，甚即成聾’으로 전함."
   }
 ]

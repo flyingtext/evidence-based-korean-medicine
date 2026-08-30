@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "before": "諸氣HT　郁病痿，皆屬肺金",
+    "after": "諸氣膹郁病痿，皆屬肺金",
+    "expected_count": 1,
+    "reason": "《素問·至真要大論》 병기 평행문 대조",
+    "evidence_url": "https://ctext.org/huangdi-neijing/zhizhen-yao-da-lun/zh",
+    "evidence_note": "고전 병기십구조가 諸氣膹鬱，皆屬於肺로 전한다."
+  },
+  {
+    "before": "共研勻HT　帛上貼之即消",
+    "after": "共研勻攤帛上貼之即消",
+    "expected_count": 1,
+    "reason": "외용 고약 조제·도포 문맥 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E6%94%A4",
+    "evidence_note": "약재를 고르게 갈아 천 위에 펼쳐 붙이는 동작은 攤帛上이다."
+  },
+  {
+    "before": "兼用針HT　導引其濕熱之氣外出也",
+    "after": "兼用針砭導引其濕熱之氣外出也",
+    "expected_count": 1,
+    "reason": "전통 치료법 고정 병렬어 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%A0%AD",
+    "evidence_note": "針砭은 침과 돌침을 뜻하는 고정어이며 導引과 병렬된다."
+  },
+  {
+    "before": "朱砂、硼砂、HT硝各一錢",
+    "after": "朱砂、硼砂、朴硝各一錢",
+    "expected_count": 1,
+    "reason": "방제 약재명 朴硝 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%9F%B3%E4%B9%8B%E4%BA%94",
+    "evidence_note": "硼砂와 함께 배합되는 초석류 약재명은 朴硝다."
+  },
+  {
+    "before": "大抵初HT　之時，孩兒口內亦有餘穢之毒",
+    "after": "大抵初生之時，孩兒口內亦有餘穢之毒",
+    "expected_count": 1,
+    "reason": "신생아 태독 문맥과 평행문 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%B9%BC%E7%A7%91",
+    "evidence_note": "평행 소아과 문헌이 嬰兒新產出胎 및 初生 문맥으로 동일 처치를 설명한다."
+  }
+]

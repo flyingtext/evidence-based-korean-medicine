@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "before": "遠視KT　KT　，見風淚下",
+    "after": "遠視䀮䀮，見風淚下",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urwko6hcmq",
+    "evidence_note": "독립 공개 《千金翼方》 본문에서 같은 구절이 ‘遠視䀮䀮’로 확인됨.",
+    "reason": "독립 공개 《千金翼方》 본문에서 같은 구절이 ‘遠視䀮䀮’로 확인됨."
+  },
+  {
+    "before": "風入目則遠視KTKT。",
+    "after": "風入目則遠視䀮䀮。",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urwko6hcmq",
+    "evidence_note": "같은 장의 앞선 ‘遠視䀮䀮’ 용례와 독립 판본의 동일 표현으로 확정함.",
+    "reason": "같은 장의 앞선 ‘遠視䀮䀮’ 용례와 독립 판본의 동일 표현으로 확정함."
+  },
+  {
+    "before": "目KT　KT　，脈大緩者，死。",
+    "after": "目䀮䀮，脈大緩者，死。",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/81/281",
+    "evidence_note": "고전 의서의 동일 증후 표현 ‘目暗䀮䀮’와 문자 용례가 확인됨.",
+    "reason": "고전 의서의 동일 증후 표현 ‘目暗䀮䀮’와 문자 용례가 확인됨."
+  },
+  {
+    "before": "鼻衄，目KT　KT　，眉頭脅下痛",
+    "after": "鼻衄，目䀮䀮，眉頭脅下痛",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+    "evidence_note": "독립 공개 《千金翼方》 침구편에서 䀮䀮의 안질 용례가 직접 확인됨.",
+    "reason": "독립 공개 《千金翼方》 침구편에서 䀮䀮의 안질 용례가 직접 확인됨."
+  },
+  {
+    "before": "主目視不明，KT　KT　目中熱痛",
+    "after": "主目視不明，䀮䀮目中熱痛",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+    "evidence_note": "독립 공개 판본에 같은 찬죽혈 문장이 ‘䀮䀮目中熱痛’으로 수록됨.",
+    "reason": "독립 공개 판본에 같은 찬죽혈 문장이 ‘䀮䀮目中熱痛’으로 수록됨."
+  },
+  {
+    "before": "眼赤痛，目KT　KT　，冷熱淚",
+    "after": "眼赤痛，目䀮䀮，冷熱淚",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+    "evidence_note": "독립 공개 판본의 승읍혈 문장에서 ‘目䀮䀮’로 확인됨.",
+    "reason": "독립 공개 판본의 승읍혈 문장에서 ‘目䀮䀮’로 확인됨."
+  }
+]

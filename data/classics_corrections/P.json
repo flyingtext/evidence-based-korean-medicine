@@ -11386,6 +11386,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E9%A1%9E%E6%96%B9/index.html",
       "evidence_note": "P/P0100.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "視物KT　KT　，血少氣多",
+      "after": "視物䀮䀮，血少氣多",
+      "expected_count": 1,
+      "reason": "《內經》 안증 평행문 대조",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "공개 concordance가 目視䀮䀮를 수록한다."
     }
   ],
   "P/P0101.txt": [
@@ -80540,6 +80548,20 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
       "evidence_note": "P/P0400.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "或因灸KT陽氣轉盛",
+      "after": "或因灸熨陽氣轉盛",
+      "expected_count": 1,
+      "evidence": "화열로 땀을 억지로 내는 火劫과 병렬된 외치법은 灸熨이며, 뒤의 陽氣轉盛과 연결된다.",
+      "reason": "화열로 땀을 억지로 내는 火劫과 병렬된 외치법은 灸熨이며, 뒤의 陽氣轉盛과 연결된다."
+    },
+    {
+      "before": "目視KT　KT　",
+      "after": "目視䀮䀮",
+      "expected_count": 2,
+      "evidence": "내경계 정형 안증 표현 目䀮䀮 및 目視䀮䀮의 평행문과 일치.",
+      "reason": "내경계 정형 안증 표현 目䀮䀮 및 目視䀮䀮의 평행문과 일치."
     }
   ],
   "P/P0401.txt": [
@@ -88230,6 +88252,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
       "evidence_note": "P/P0401.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "兩耳KT　KT　鳴",
+      "after": "兩耳嘈嘈鳴",
+      "expected_count": 1,
+      "evidence": "《聖濟總錄》 석곡음 주치의 평행문이 ‘兩耳嘈嘈鳴，甚即成聾’으로 전함.",
+      "reason": "《聖濟總錄》 석곡음 주치의 평행문이 ‘兩耳嘈嘈鳴，甚即成聾’으로 전함."
     }
   ],
   "P/P0402.txt": [

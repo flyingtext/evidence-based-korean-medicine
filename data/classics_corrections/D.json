@@ -30674,6 +30674,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html",
       "evidence_note": "D/D025.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "婦人絕HT　不生",
+      "after": "婦人絕嗣不生",
+      "expected_count": 1,
+      "evidence": "《千金》 관원구법의 평행문과 영인에 ‘婦人絕嗣不生，胞門閉塞’로 확인됨.",
+      "reason": "《千金》 관원구법의 평행문과 영인에 ‘婦人絕嗣不生，胞門閉塞’로 확인됨."
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 15,
+      "evidence": "《素問》·《靈樞》 및 침구 평행문의 정형 안증 표현 目䀮䀮.",
+      "reason": "《素問》·《靈樞》 및 침구 평행문의 정형 안증 표현 目䀮䀮."
+    },
+    {
+      "before": "目視KT　KT　",
+      "after": "目視䀮䀮",
+      "expected_count": 2,
+      "evidence": "눈이 어두운 증상을 뜻하는 䀮䀮가 目視와 결합한 평행 구문.",
+      "reason": "눈이 어두운 증상을 뜻하는 䀮䀮가 目視와 결합한 평행 구문."
+    },
+    {
+      "before": "遠視KT　KT　",
+      "after": "遠視䀮䀮",
+      "expected_count": 7,
+      "evidence": "침구 주치 평행문에 반복되는 정형 구문 遠視䀮䀮.",
+      "reason": "침구 주치 평행문에 반복되는 정형 구문 遠視䀮䀮."
+    },
+    {
+      "before": "眼暗KT　KT　",
+      "after": "眼暗䀮䀮",
+      "expected_count": 1,
+      "evidence": "眼暗과 같은 뜻을 거듭 설명하는 안증어 䀮䀮.",
+      "reason": "眼暗과 같은 뜻을 거듭 설명하는 안증어 䀮䀮."
+    },
+    {
+      "before": "眼青KT　KT　",
+      "after": "眼青䀮䀮",
+      "expected_count": 1,
+      "evidence": "간허한증 처방의 시물불명 문맥과 䀮䀮의 뜻이 일치.",
+      "reason": "간허한증 처방의 시물불명 문맥과 䀮䀮의 뜻이 일치."
+    },
+    {
+      "before": "目暗KT　KT　",
+      "after": "目暗䀮䀮",
+      "expected_count": 2,
+      "evidence": "目暗·見物不審 문맥의 정형 안증어 䀮䀮.",
+      "reason": "目暗·見物不審 문맥의 정형 안증어 䀮䀮."
+    },
+    {
+      "before": "目暗KTKT。",
+      "after": "目暗䀮䀮。",
+      "expected_count": 1,
+      "evidence": "앞뒤의 鼻口乾燥·憒憒不樂와 이어지는 시야 혼암 증상 目暗䀮䀮.",
+      "reason": "앞뒤의 鼻口乾燥·憒憒不樂와 이어지는 시야 혼암 증상 目暗䀮䀮."
     }
   ],
   "D/D049.txt": [
@@ -39681,6 +39737,74 @@
       "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/893",
       "evidence_note": "바로 앞 葛根湯 구절의 𠘧𠘧을 풀이하는 주석이다.",
       "reason": "바로 앞 葛根湯 구절의 𠘧𠘧을 풀이하는 주석이다."
+    }
+  ],
+  "D/D020.txt": [
+    {
+      "before": "中寒則急KT　置暖室",
+      "after": "中寒則急舁置暖室",
+      "expected_count": 1,
+      "reason": "중한 환자를 옮기는 고전 응급처치 문맥 대조",
+      "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E8%88%81",
+      "evidence_note": "舁는 사람을 함께 들어 옮긴다는 뜻으로 뒤의 置暖室 및 扶策 문맥에 정확히 부합한다."
+    },
+    {
+      "before": "內乳著金銀瓷KT　內任有用之，乃下鐺中令水沒KT　上一寸",
+      "after": "內乳著金銀瓷甕內任有用之，乃下鐺中令水沒甕上一寸",
+      "expected_count": 1,
+      "reason": "鐘乳 중탕 공정의 용기명과 반복 지시어 대조",
+      "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%94%95",
+      "evidence_note": "鐘乳를 담은 瓷甕을 솥물에 잠기게 하는 공정이며 두 결자가 동일 용기를 가리킨다."
+    }
+  ],
+  "D/D002.txt": [
+    {
+      "before": "遠視KT　KT　，見風淚下",
+      "after": "遠視䀮䀮，見風淚下",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urwko6hcmq",
+      "evidence_note": "독립 공개 《千金翼方》 본문에서 같은 구절이 ‘遠視䀮䀮’로 확인됨.",
+      "reason": "독립 공개 《千金翼方》 본문에서 같은 구절이 ‘遠視䀮䀮’로 확인됨."
+    },
+    {
+      "before": "風入目則遠視KTKT。",
+      "after": "風入目則遠視䀮䀮。",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urwko6hcmq",
+      "evidence_note": "같은 장의 앞선 ‘遠視䀮䀮’ 용례와 독립 판본의 동일 표현으로 확정함.",
+      "reason": "같은 장의 앞선 ‘遠視䀮䀮’ 용례와 독립 판본의 동일 표현으로 확정함."
+    },
+    {
+      "before": "目KT　KT　，脈大緩者，死。",
+      "after": "目䀮䀮，脈大緩者，死。",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/81/281",
+      "evidence_note": "고전 의서의 동일 증후 표현 ‘目暗䀮䀮’와 문자 용례가 확인됨.",
+      "reason": "고전 의서의 동일 증후 표현 ‘目暗䀮䀮’와 문자 용례가 확인됨."
+    },
+    {
+      "before": "鼻衄，目KT　KT　，眉頭脅下痛",
+      "after": "鼻衄，目䀮䀮，眉頭脅下痛",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+      "evidence_note": "독립 공개 《千金翼方》 침구편에서 䀮䀮의 안질 용례가 직접 확인됨.",
+      "reason": "독립 공개 《千金翼方》 침구편에서 䀮䀮의 안질 용례가 직접 확인됨."
+    },
+    {
+      "before": "主目視不明，KT　KT　目中熱痛",
+      "after": "主目視不明，䀮䀮目中熱痛",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+      "evidence_note": "독립 공개 판본에 같은 찬죽혈 문장이 ‘䀮䀮目中熱痛’으로 수록됨.",
+      "reason": "독립 공개 판본에 같은 찬죽혈 문장이 ‘䀮䀮目中熱痛’으로 수록됨."
+    },
+    {
+      "before": "眼赤痛，目KT　KT　，冷熱淚",
+      "after": "眼赤痛，目䀮䀮，冷熱淚",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL11203144/chapter/1l6urxdmcbax5",
+      "evidence_note": "독립 공개 판본의 승읍혈 문장에서 ‘目䀮䀮’로 확인됨.",
+      "reason": "독립 공개 판본의 승읍혈 문장에서 ‘目䀮䀮’로 확인됨."
     }
   ]
 }

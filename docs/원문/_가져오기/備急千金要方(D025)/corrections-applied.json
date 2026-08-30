@@ -13038,5 +13038,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html",
     "evidence_note": "D/D025.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "婦人絕HT　不生",
+    "after": "婦人絕嗣不生",
+    "expected_count": 1,
+    "evidence": "《千金》 관원구법의 평행문과 영인에 ‘婦人絕嗣不生，胞門閉塞’로 확인됨.",
+    "reason": "《千金》 관원구법의 평행문과 영인에 ‘婦人絕嗣不生，胞門閉塞’로 확인됨."
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 15,
+    "evidence": "《素問》·《靈樞》 및 침구 평행문의 정형 안증 표현 目䀮䀮.",
+    "reason": "《素問》·《靈樞》 및 침구 평행문의 정형 안증 표현 目䀮䀮."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 2,
+    "evidence": "눈이 어두운 증상을 뜻하는 䀮䀮가 目視와 결합한 평행 구문.",
+    "reason": "눈이 어두운 증상을 뜻하는 䀮䀮가 目視와 결합한 평행 구문."
+  },
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 7,
+    "evidence": "침구 주치 평행문에 반복되는 정형 구문 遠視䀮䀮.",
+    "reason": "침구 주치 평행문에 반복되는 정형 구문 遠視䀮䀮."
+  },
+  {
+    "before": "眼暗KT　KT　",
+    "after": "眼暗䀮䀮",
+    "expected_count": 1,
+    "evidence": "眼暗과 같은 뜻을 거듭 설명하는 안증어 䀮䀮.",
+    "reason": "眼暗과 같은 뜻을 거듭 설명하는 안증어 䀮䀮."
+  },
+  {
+    "before": "眼青KT　KT　",
+    "after": "眼青䀮䀮",
+    "expected_count": 1,
+    "evidence": "간허한증 처방의 시물불명 문맥과 䀮䀮의 뜻이 일치.",
+    "reason": "간허한증 처방의 시물불명 문맥과 䀮䀮의 뜻이 일치."
+  },
+  {
+    "before": "目暗KT　KT　",
+    "after": "目暗䀮䀮",
+    "expected_count": 2,
+    "evidence": "目暗·見物不審 문맥의 정형 안증어 䀮䀮.",
+    "reason": "目暗·見物不審 문맥의 정형 안증어 䀮䀮."
+  },
+  {
+    "before": "目暗KTKT。",
+    "after": "目暗䀮䀮。",
+    "expected_count": 1,
+    "evidence": "앞뒤의 鼻口乾燥·憒憒不樂와 이어지는 시야 혼암 증상 目暗䀮䀮.",
+    "reason": "앞뒤의 鼻口乾燥·憒憒不樂와 이어지는 시야 혼암 증상 目暗䀮䀮."
   }
 ]

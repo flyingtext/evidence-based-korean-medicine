@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "中寒則急KT　置暖室",
+    "after": "中寒則急舁置暖室",
+    "expected_count": 1,
+    "reason": "중한 환자를 옮기는 고전 응급처치 문맥 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E8%88%81",
+    "evidence_note": "舁는 사람을 함께 들어 옮긴다는 뜻으로 뒤의 置暖室 및 扶策 문맥에 정확히 부합한다."
+  },
+  {
+    "before": "內乳著金銀瓷KT　內任有用之，乃下鐺中令水沒KT　上一寸",
+    "after": "內乳著金銀瓷甕內任有用之，乃下鐺中令水沒甕上一寸",
+    "expected_count": 1,
+    "reason": "鐘乳 중탕 공정의 용기명과 반복 지시어 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%94%95",
+    "evidence_note": "鐘乳를 담은 瓷甕을 솥물에 잠기게 하는 공정이며 두 결자가 동일 용기를 가리킨다."
+  }
+]

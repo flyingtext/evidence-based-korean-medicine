@@ -8734,5 +8734,19 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%81%96%E6%BF%9F%E7%B8%BD%E9%8C%84/index.html",
     "evidence_note": "P/P0400.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "或因灸KT陽氣轉盛",
+    "after": "或因灸熨陽氣轉盛",
+    "expected_count": 1,
+    "evidence": "화열로 땀을 억지로 내는 火劫과 병렬된 외치법은 灸熨이며, 뒤의 陽氣轉盛과 연결된다.",
+    "reason": "화열로 땀을 억지로 내는 火劫과 병렬된 외치법은 灸熨이며, 뒤의 陽氣轉盛과 연결된다."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 2,
+    "evidence": "내경계 정형 안증 표현 目䀮䀮 및 目視䀮䀮의 평행문과 일치.",
+    "reason": "내경계 정형 안증 표현 目䀮䀮 및 目視䀮䀮의 평행문과 일치."
   }
 ]

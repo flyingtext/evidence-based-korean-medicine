@@ -6965,6 +6965,14 @@
       "reason": "jicheng 공개 전문 대조 결자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html",
       "evidence_note": "서문의 設沉疴當前 확인"
+    },
+    {
+      "before": "起於鼻交HT　中",
+      "after": "起於鼻交頞中",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 독립 평행문 직접 대조",
+      "evidence_url": "https://zh.wikipedia.org/wiki/%E8%B6%B3%E9%98%B3%E6%98%8E%E8%83%83%E7%BB%8F",
+      "evidence_note": "足陽明胃經 원문이 起於鼻，交頞中으로 인용되어 자형과 위치가 일치한다."
     }
   ]
 }
