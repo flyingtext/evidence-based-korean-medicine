@@ -1568,7 +1568,29 @@
       "evidence_note": "G/G001.txt: 좌우 한자 각 14자 고유 일치"
     }
   ],
-  "G/G039a.txt": [],
+  "G/G039a.txt": [
+    {
+      "before": "[c]rck[/c]",
+      "after": "㕮",
+      "expected_count": 87,
+      "reason": "87곳 모두 처방 말미의 관용구 ‘右㕮咀’ 문맥이다. 동일 문헌 공개 전문 및 역대 방서의 고정 용례와 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html"
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 1,
+      "reason": "‘㽲痛’이라는 병증명 문맥과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html"
+    },
+    {
+      "before": "[c]itfi[/c]",
+      "after": "䗪",
+      "expected_count": 1,
+      "reason": "약재명 ‘䗪蟲’의 고정 표기와 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html"
+    }
+  ],
   "G/G040.txt": [
     {
       "before": "水後期而行者。血虛有寒也。宜四物加黃　、陳皮。或香附芎歸湯。過期太甚。膠艾",

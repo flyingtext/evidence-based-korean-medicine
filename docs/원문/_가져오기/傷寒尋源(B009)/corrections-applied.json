@@ -390,5 +390,19 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%B0%8B%E6%BA%90/index.html",
     "evidence_note": "B/B009.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "KT　KT　",
+    "after": "𠘧𠘧",
+    "expected_count": 10,
+    "reason": "CTP 자전의 ‘鳥之短羽飛𠘧𠘧也’와 원문 주음 ‘音殊’, 의서의 정형 증후 ‘項背強𠘧𠘧’가 서로 일치한다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+  },
+  {
+    "before": "KT　音殊",
+    "after": "𠘧音殊",
+    "expected_count": 1,
+    "reason": "해당 자의 독음이 shū이고 본문도 바로 ‘音殊’라고 주음하므로 확정 가능하다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
   }
 ]

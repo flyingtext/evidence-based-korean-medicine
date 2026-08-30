@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "before": "[c]gehd[/c]",
+    "after": "漀",
+    "expected_count": 21,
+    "reason": "본문 자체의 교감주가 ‘字典無…當是漀字’라고 명시하고, 같은 자리가 반복되어 전역 대응이 확정적이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html"
+  },
+  {
+    "before": "[c]iflii[/c]",
+    "after": "䗪",
+    "expected_count": 14,
+    "reason": "모든 용례가 금궤요략의 처방명·약재명 ‘大黃䗪蟲丸/䗪蟲’과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html"
+  },
+  {
+    "before": "[c]rck[/c]",
+    "after": "㕮",
+    "expected_count": 7,
+    "reason": "CTP 자전과 고전 용례가 약재를 써는 말 ‘㕮咀’를 명시하며, 대상의 전 용례도 [c]rck[/c]咀이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E5%92%80&if=gb&remap=gb"
+  },
+  {
+    "before": "[c]kmvs[/c]",
+    "after": "㽲",
+    "expected_count": 7,
+    "reason": "자전 및 의서 평행문에 확인되는 병증어 ‘㽲痛’과 모든 문맥이 일치한다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E3%BD%B2"
+  },
+  {
+    "before": "[c]knbq[/c]",
+    "after": "疥",
+    "expected_count": 3,
+    "reason": "본문 주석이 해당 글자를 ‘疥同’이라고 직접 풀이한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html"
+  },
+  {
+    "before": "[c]oylc[/c]",
+    "after": "㑊",
+    "expected_count": 1,
+    "reason": "황제내경 평행문에 ‘解㑊’이 반복 확인되며 대상 문맥 ‘解[c]oylc[/c]病’과 정확히 대응한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=184641&if=en&remap=gb"
+  },
+  {
+    "before": "[c]klmc[/c]",
+    "after": "痿",
+    "expected_count": 1,
+    "reason": "문맥 ‘熱聚而肺痿也’가 금궤요략의 정형 구절과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html"
+  }
+]

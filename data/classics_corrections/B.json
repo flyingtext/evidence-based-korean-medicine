@@ -6304,6 +6304,20 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%B0%8B%E6%BA%90/index.html",
       "evidence_note": "B/B009.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　KT　",
+      "after": "𠘧𠘧",
+      "expected_count": 10,
+      "reason": "CTP 자전의 ‘鳥之短羽飛𠘧𠘧也’와 원문 주음 ‘音殊’, 의서의 정형 증후 ‘項背強𠘧𠘧’가 서로 일치한다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+    },
+    {
+      "before": "KT　音殊",
+      "after": "𠘧音殊",
+      "expected_count": 1,
+      "reason": "해당 자의 독음이 shū이고 본문도 바로 ‘音殊’라고 주음하므로 확정 가능하다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
     }
   ],
   "B/B019.txt": [
@@ -10480,6 +10494,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%B2%AB%E7%8F%A0%E9%9B%86/index.html",
       "evidence_note": "B/B021.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　KT　",
+      "after": "𠘧𠘧",
+      "expected_count": 5,
+      "reason": "《傷寒貫珠集》 공개 전문과 그 인용 원전 《傷寒論》의 `太陽病，項背強几几/𠘧𠘧` 두 조문이 일치한다. 같은 단락의 풀이 `𠘧𠘧，項強連背，不能展顧之貌`까지 포함해 원문 내 5 occurrence가 모두 같은 외자쌍이다. 저장소의 기존 B계열 교정도 이 외자를 U+200A7 `𠘧`로 정규화한다. 독립 영인 근거: https://upload.wikimedia.org/wikipedia/commons/e/e8/SSID-10225050_%E5%8F%A4%E6%9C%AC%E5%BA%B7%E5%B9%B3%E5%82%B7%E5%AF%92%E8%AB%96.pdf",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%B2%AB%E7%8F%A0%E9%9B%86"
     }
   ],
   "B/B026.txt": [

@@ -153,10 +153,10 @@
       "note": "고전 소아과 의서. 결자88곳 교정; 공백1553·HT14 판독 전 보류. [u]628쌍→<ins>"
     },
     "G/G039a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 89,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "명대 고전. [c] 외자89곳 외자표 판독 전 보류; 현대 저본 의존 없음"
+      "note": "명대 고전. 동일 공개 전문과 처방·병증의 고정 문맥으로 [c] 외자 89곳을 㕮 87자·㽲 1자·䗪 1자로 모두 복원해 교감 완료."
     },
     "G/G040.txt": {
       "collation_status": "in_progress",
@@ -376,9 +376,9 @@
     },
     "B/B021.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 66,
+      "unresolved_candidates": 56,
       "punctuation_status": "source_present",
-      "note": "1729년 청대 고전. 결자52곳 교정; 공백56·KT10 판독 전 보류"
+      "note": "1729년 청대 고전. 공개 전문과 독립 영인으로 項背強𠘧𠘧 5곳을 추가 복원; 남은 전각 공백 후보56곳은 판면 대조 전 보류."
     },
     "B/B021a.txt": {
       "collation_status": "complete",
@@ -2938,9 +2938,9 @@
     },
     "D/D010a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 81,
+      "unresolved_candidates": 19,
       "punctuation_status": "source_present",
-      "note": "송대 관찬 공개 고전. 공백·HT/KT/□는 없으나 [c] 레거시 외자81곳의 원판 자형 판독이 남아 정본 이관 보류"
+      "note": "송대 관찬 공개 고전. 자전·의방 평행문으로 [c] 외자 㕮 30곳과 㽲 32곳을 복원; 미확정 외자19곳은 영인 대조 전 보류."
     },
     "D/D012.txt": {
       "collation_status": "in_progress",
@@ -2986,9 +2986,9 @@
     },
     "C/C018a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 91,
+      "unresolved_candidates": 10,
       "punctuation_status": "source_present",
-      "note": "1694년 공개 고전. 판면 공백 4곳 확인. 미판정 공백 6곳과 PUA 글리프 85자의 원판 자형 매핑이 남아 정본 이관 보류"
+      "note": "1694년 공개 고전. 동일 공개 전문의 고정 약명·병증·인명으로 PUA 85자 중 81자를 복원; 판독 불충분 PUA4자와 미판정 공백6곳 보류."
     },
     "C/C019.txt": {
       "collation_status": "in_progress",
@@ -3100,9 +3100,9 @@
     },
     "B/B009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 81,
+      "unresolved_candidates": 60,
       "punctuation_status": "source_present",
-      "note": "1854년 공개 고전. jicheng 대조로 결자 49곳 복원·판면 공백 328곳 확인. 전각 공백 60·KT 21곳 판독이 남아 정본 이관 보류"
+      "note": "1854년 공개 고전. jicheng 대조 교정에 더해 자전·독음·傷寒論 평행문으로 KT21자를 𠘧로 복원; 전각 공백 후보60곳은 판면 대조 전 보류."
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
@@ -4006,9 +4006,9 @@
     },
     "O/O015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 65,
+      "unresolved_candidates": 32,
       "punctuation_status": "source_present",
-      "note": "蒸·臧 2자를 영인으로 복원. □11곳과 판면별 전각 공백 후보 54곳은 추가 대조 중."
+      "note": "蒸·臧 2자를 영인으로 복원. 최신 공백 감사 기준 결락 후보32곳(전각 공백21·□11)은 공개 전문도 동일 결락이라 판면 대조 전 보류."
     },
     "O/O046.txt": {
       "collation_status": "in_progress",
@@ -4270,9 +4270,9 @@
     },
     "P/P0002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 69,
+      "unresolved_candidates": 15,
       "punctuation_status": "source_present",
-      "note": "1742년 청대 관찬 고전. correction 0건 준비, 잔여 69건. 권리 안전, 표점 충분"
+      "note": "1742년 청대 관찬 고전. 본문 교감주·자전·평행문으로 [c] 외자 漀·䗪·㕮·㽲·疥·㑊·痿 54곳을 복원; 미확정 외자14곳과 공백1곳 보류."
     },
     "P/P0003.txt": {
       "collation_status": "in_progress",

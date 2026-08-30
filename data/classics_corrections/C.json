@@ -21333,5 +21333,161 @@
       "reason": "질환명 酒齄鼻",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
     }
+  ],
+  "C/C018a.txt": [
+    {
+      "before": "",
+      "after": "痼",
+      "expected_count": 2,
+      "reason": "두 곳 모두 ‘沈痼’의 고정 어휘.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "辛",
+      "expected_count": 1,
+      "reason": "‘辛散腠理’ 문맥.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "憹",
+      "expected_count": 4,
+      "reason": "‘懊憹’ 병증명 4회.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "癧",
+      "expected_count": 11,
+      "reason": "‘瘰癧’ 11회.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "瘻",
+      "expected_count": 11,
+      "reason": "鼠瘻·痔瘻·蟻瘻 및 주석 ‘漏也’와 일치.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "斅",
+      "expected_count": 8,
+      "reason": "인명 雷斅 8회.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "藁",
+      "expected_count": 6,
+      "reason": "약명 藁本 및 약칭 藁.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "頑",
+      "expected_count": 1,
+      "reason": "바로 뒤 음주 ‘音頑’ 및 ‘頑痺’와 일치.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "鉤",
+      "expected_count": 5,
+      "reason": "약명 鉤藤鉤와 ‘釣鉤’, ‘多鉤’ 문맥.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "䕡",
+      "expected_count": 2,
+      "reason": "약명 䕡茹와 菴䕡子.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "痃",
+      "expected_count": 7,
+      "reason": "‘痃癖’ 및 음주 ‘音賢’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "䐜",
+      "expected_count": 1,
+      "reason": "내경 인용 ‘濁氣在上則生䐜脹’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "㿉",
+      "expected_count": 2,
+      "reason": "칠산 분류의 ‘狐、㿉’ 및 㿉疝.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "㿉",
+      "expected_count": 4,
+      "reason": "‘陰㿉’와 음주 ‘音頹’. 동일 글자의 별도 PUA 인코딩.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "䗪",
+      "expected_count": 3,
+      "reason": "약재 䗪蟲.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "齼",
+      "expected_count": 1,
+      "reason": "‘食梅齒齼’의 고정 문구.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "薤",
+      "expected_count": 1,
+      "reason": "표제 薤 및 별명 ‘薤子’, 음주 ‘音叫’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "硇",
+      "expected_count": 5,
+      "reason": "광물 약명 硇砂.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "遍",
+      "expected_count": 1,
+      "reason": "‘以瓢揚萬遍’ 문맥.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "鯗",
+      "expected_count": 1,
+      "reason": "‘乾白魚鯗’의 어휘.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "蚺",
+      "expected_count": 2,
+      "reason": "약명 蚺蛇膽 및 ‘蚺稟己土之氣’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    },
+    {
+      "before": "",
+      "after": "癇",
+      "expected_count": 2,
+      "reason": "‘驚癇’·‘癲癇’ 병증명.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+    }
   ]
 }

@@ -39251,5 +39251,21 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%83%A0%E7%9B%B4%E5%A0%82%E7%B6%93%E9%A9%97%E6%96%B9/index.html",
       "evidence_note": "D/D059.txt: 좌우 한자 각 14자 고유 일치"
     }
+  ],
+  "D/D010a.txt": [
+    {
+      "before": "[c]rck[/c]",
+      "after": "㕮",
+      "expected_count": 30,
+      "reason": "CTP 자전과 의방 용례가 ‘㕮咀’를 명시하며 대상의 30건이 모두 같은 조제 문맥이다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E5%92%80&if=gb&remap=gb"
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 32,
+      "reason": "자전·의서 용례의 병증어 ‘㽲痛’과 대상의 모든 용례가 일치한다.",
+      "evidence_url": "https://www.shidianguji.com/character/%E3%BD%B2"
+    }
   ]
 }
