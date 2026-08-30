@@ -30,6 +30,7 @@ HAN_RE = re.compile(
     "[\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff"
     "\U00020000-\U0002fa1f]"
 )
+UNDERLINE_TAG_RE = re.compile(r"\[(/?)u\]", re.IGNORECASE)
 
 
 @dataclass
@@ -114,9 +115,12 @@ def fetch(url: str, timeout: float) -> tuple[str, str]:
 
 def korean_punctuation(text: str) -> str:
     """Apply the repository's punctuation convention without changing words."""
-    return text.translate(
+    text = text.translate(
         str.maketrans({"。": ".", "！": "!", "？": "?", "，": ",", "；": ";", "：": ":"})
     )
+    # jicheng.tw 본문에는 BBCode식 밑줄 표지가 문자 데이터로 남아 있다.
+    # Markdown에서 그대로 노출하지 않고 대응하는 안전한 HTML 표지로 렌더링한다.
+    return UNDERLINE_TAG_RE.sub(lambda match: "</u>" if match.group(1) else "<u>", text)
 
 
 def render_markdown(title: str, url: str, blocks: list[Block], page_title: str) -> str:
