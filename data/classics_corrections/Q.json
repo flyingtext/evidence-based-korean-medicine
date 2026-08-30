@@ -1,0 +1,704 @@
+{
+  "Q/Q001.txt": [
+    {
+      "before": "足太陽經六十三，睛明攢竹曲差參",
+      "after": "足太陽經六十七，睛明攢竹眉衝曲差參",
+      "expected_count": 1,
+      "reason": "원자료 교주와 현대 경혈 목록 대조 수효·眉衝 결락 보충",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+      "evidence_note": "원자료 말미가 足太陽의 누락 혈로 眉衝·督俞·氣海俞·關元俞를 명시; 네 혈 보충에 따라 63을 67로 바로잡음"
+    },
+    {
+      "before": "大杼風門引肺俞，厥陰心膈肝膽居，脾胃三焦腎俞次，大腸小腸膀胱如",
+      "after": "大杼風門引肺俞，厥陰心督膈肝膽居，脾胃三焦腎俞次，氣海大腸關元小腸膀胱如",
+      "expected_count": 1,
+      "reason": "원자료 교주와 『醫宗金鑑』 방광경 혈명 배열 대조 3혈 결락 보충",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+      "evidence_note": "원자료 교주가 명시한 督俞·氣海俞·關元俞를 등부 수혈 순서에 맞춰 각각 心俞 뒤, 腎俞 뒤, 大腸俞 뒤에 보충"
+    },
+    {
+      "before": "盲俞商曲石關蹲",
+      "after": "肓俞商曲石關蹲",
+      "expected_count": 1,
+      "reason": "『醫宗金鑑』 독립 본문판 및 표준 혈명 대조 오기 교정",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=533419&if=gb",
+      "evidence_note": "『刺灸心法要訣』 腎經穴歌 원문과 분촌가가 모두 肓俞이며, 肓俞는 족소음신경 KI16 혈명"
+    },
+    {
+      "before": "瘈脈顱息角耳門",
+      "after": "瘈脈顱息角孫耳門",
+      "expected_count": 1,
+      "reason": "『醫宗金鑑』 계통 독립 문헌 연구 및 삼초경 혈명 배열 대조 결락 보충",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001215556",
+      "evidence_note": "『刺灸心法要訣』 계통 원문 대조 연구가 瘈脈顱息角孫耳門으로 전재하며, 角孫은 삼초경 TE20 혈명"
+    },
+    {
+      "before": "足少陽經童子髎，四十三穴行迢迢",
+      "after": "足少陽經童子髎，四十四穴行迢迢",
+      "expected_count": 1,
+      "reason": "원자료 교주 및 족소양담경 표준 혈수 대조 수효 교정",
+      "evidence_url": "https://jicheng.tw/tcm/ge/%E5%8D%81%E5%9B%9B%E7%B6%93%E7%A9%B4%E6%AD%8C%E8%A8%A3_%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91.html",
+      "evidence_note": "원자료 말미가 四十四穴이 맞다고 명시하며, 실제 담경 표준 혈수도 44혈"
+    },
+    {
+      "before": "居髎環跳市中瀆",
+      "after": "居髎環跳風市中瀆",
+      "expected_count": 1,
+      "reason": "원자료 교주와 독립 담경 혈명 배열 대조 風자 결락 보충",
+      "evidence_url": "https://www1.cgmh.org.tw/intr/intr6/c5c000/BOOK.%E4%B8%AD%E9%86%AB%E9%87%9D%E7%81%B8%E7%A7%91%E8%87%A8%E5%BA%8A%E6%89%8B%E5%86%8A20120818.pdf",
+      "evidence_note": "居髎·環跳 다음 담경 혈은 風市이며, 이를 보충하면 교주가 지적한 44혈 수효와 일치"
+    },
+    {
+      "before": "足太陽：缺眉衝、督俞、氣海俞、關元俞\n足少陰：照海－大鍾與今日穴位順序不同\n足少陽：應為四十四穴",
+      "after": "足太陽：原資料缺眉衝、督俞、氣海俞、關元俞，本次校勘已補\n足少陰：照海－大鍾與今日穴位順序不同\n足少陽：原資料作四十三穴並缺風市，本次校勘已補正為四十四穴",
+      "expected_count": 1,
+      "reason": "본문 결락 보충 뒤 원자료 교주를 현재 교감 상태와 동기화",
+      "evidence_url": "https://jicheng.tw/tcm/ge/%E5%8D%81%E5%9B%9B%E7%B6%93%E7%A9%B4%E6%AD%8C%E8%A8%A3_%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91.html",
+      "evidence_note": "원자료 교주의 판정 내용은 보존하되, 해당 결락이 본문에 보충되었음을 명시"
+    }
+  ],
+  "Q/Q007.txt": [
+    {
+      "before": "氣針兩乳求太淵",
+      "after": "氣刺兩乳求太淵",
+      "expected_count": 1,
+      "reason": "『針灸大全』 본문판 및 독립 고전 인용 대조 오기 교정",
+      "evidence_url": "https://cloudtcm.com/acupoint/list/acupoint-dsname/283",
+      "evidence_note": "『針灸聚英』 등 독립 인용과 『針灸大全』 본문판이 氣刺兩乳求太淵으로 일치"
+    },
+    {
+      "before": "耳聾氣閉聽會針",
+      "after": "耳聾氣痞聽會針",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 병증명 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 耳聾氣痞聽會針"
+    },
+    {
+      "before": "合谷針時要天衝",
+      "after": "合谷針時要太衝",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 및 혈명 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 合谷針時要太沖; 太衝은 족궐음간경 혈명"
+    },
+    {
+      "before": "心痛手顫少海間",
+      "after": "心疼手顫少海間",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 운문 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 心疼手顫少海間"
+    },
+    {
+      "before": "委中專治腰脊痛",
+      "after": "委中專治腰間痛",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 委中專治腰間痛"
+    },
+    {
+      "before": "但向乳根兩肋間",
+      "after": "但向乳根二肋間",
+      "expected_count": 1,
+      "reason": "『針灸大全』 독립 본문 두 종 대조 수사 오기 교정",
+      "evidence_url": "https://www.zysj.com.cn/lilunshuji/zhenjiudaquan/838-4-22.html",
+      "evidence_note": "독립 『針灸大全』 본문 두 종이 모두 但向乳根二肋間으로 일치"
+    },
+    {
+      "before": "耳內蟬嗚腰欲折",
+      "after": "耳內蟬鳴腰欲折",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 耳內蟬鳴腰欲折"
+    },
+    {
+      "before": "且莫向人容易說",
+      "after": "且莫逢人容易說",
+      "expected_count": 1,
+      "reason": "『針灸大全』 독립 본문판 대조 오기 교정",
+      "evidence_url": "https://www.zysj.com.cn/lilunshuji/zhenjiudaquan/838-4-22.html",
+      "evidence_note": "『針灸大全』 원구: 且莫逢人容易說"
+    },
+    {
+      "before": "十二鬼穴不須饒",
+      "after": "十三鬼穴不須饒",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 및 고유 술어 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 十三鬼穴不須饒; 十三鬼穴은 정형화된 침구 술어"
+    },
+    {
+      "before": "二問陽谿疾怎逃",
+      "after": "二間陽谿疾怎逃",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 및 혈명 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 二間陽溪疾怎逃; 二間·陽谿는 수양명대장경 혈명"
+    },
+    {
+      "before": "膝問痛疼用針燒。委中腰痛腳牽急",
+      "after": "膝間疼痛用針燒。委中腰痛腳攣急",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 복합 전사 오류 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 膝間疼痛用針燒，委中腰痛腳攣急"
+    },
+    {
+      "before": "懸鍾二陵三陰交",
+      "after": "懸鐘二陵三陰交",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 및 표준 혈명 대조 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 懸鐘二陵三陰交; 懸鐘은 족소양담경 혈명"
+    },
+    {
+      "before": "肚痛須是公孫妙",
+      "after": "肚疼須是公孫妙",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 운문 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 肚疼須是公孫妙"
+    },
+    {
+      "before": "男子眩癖三里高",
+      "after": "男子痃癖三里高",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 병증명 오기 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 男子痃癖三里高"
+    },
+    {
+      "before": "大便閉塞大敦燒。髖骨腿痛三里瀉",
+      "after": "大便閉澀大敦燒。髖骨腿疼三里瀉",
+      "expected_count": 1,
+      "reason": "『針灸大全』·『針灸大成』 본문판 대조 복합 전사 오류 교정",
+      "evidence_url": "https://www.cntcm.org/shu/1043-5-4.html",
+      "evidence_note": "『席弘賦』 원구: 大便閉澀大敦燒，髖骨腿疼三里瀉"
+    },
+    {
+      "before": "小腸氣攝痛連臍",
+      "after": "小腸氣撮痛連臍",
+      "expected_count": 1,
+      "reason": "『針灸大全』 본문판 및 후대 독립 인용 대조 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+      "evidence_note": "『類經圖翼』의 『席弘賦』 인용과 독립 본문판이 小腸氣撮痛連臍로 일치"
+    },
+    {
+      "before": "肩上痛連臍不休",
+      "after": "肩上痛連膝不休",
+      "expected_count": 1,
+      "reason": "『針灸大成摘要』 공개 영인본 대조 전사 오기 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shanghai_%E9%8D%BC%E7%81%B8%E5%A4%A7%E6%88%90%E6%91%98%E8%A6%81%E4%B8%8D%E5%88%86%E5%8D%B7.pdf",
+      "evidence_note": "공개 영인본 해당 행은 肩上痛連膝不休로 판독되며 검색 OCR도 동일"
+    },
+    {
+      "before": "左右燃針尋子午，伸針行氣自迢迢",
+      "after": "左右撚針尋子午，抽針行氣自迢迢",
+      "expected_count": 1,
+      "reason": "『針灸大成摘要』 공개 영인본 및 독립 본문판 대조 복합 전사 오류 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shanghai_%E9%8D%BC%E7%81%B8%E5%A4%A7%E6%88%90%E6%91%98%E8%A6%81%E4%B8%8D%E5%88%86%E5%8D%B7.pdf",
+      "evidence_note": "영인본: 左右撚針尋子午，抽針行氣…; 燃·伸은 각각 撚·抽의 전사 오류"
+    }
+  ],
+  "Q/Q008.txt": [
+    {
+      "before": "勝玉歌兮不虛言，此是楊家真秘傳，或針或灸依法治",
+      "after": "楊氏勝玉歌兮不虛言，此是楊家真秘傳，或針或灸依法語",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 결락·전사 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 勝玉歌 첫 구절: 楊氏勝玉歌兮不虛言…或針或灸依法語"
+    },
+    {
+      "before": "頭痛暈眩百會好",
+      "after": "頭痛眩暈百會好",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 도치 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 頭痛眩暈百會好"
+    },
+    {
+      "before": "後谿鳩尾及神明",
+      "after": "後谿鳩尾及神門",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 혈명 문맥 대조 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 後溪、鳩尾及神門"
+    },
+    {
+      "before": "脾痛要針肩井穴",
+      "after": "髀疼要針肩井穴",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 병증명 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 髀疼要針肩井穴"
+    },
+    {
+      "before": "霍亂心痛吐痰涎",
+      "after": "霍亂心疼吐痰涎",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 운문 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 霍亂心疼吐痰涎"
+    },
+    {
+      "before": "脾痛背病中諸瀉",
+      "after": "脾疼背痛中渚瀉",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 혈명 문맥 대조 복합 전사 오류 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 脾疼背痛中渚瀉; 中渚는 수소양삼초경 혈명"
+    },
+    {
+      "before": "牙顋痛緊大迎全",
+      "after": "牙腮疼緊大迎全",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 전사 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 牙腮疼緊大迎全"
+    },
+    {
+      "before": "尺澤能醫筋拘牽",
+      "after": "尺澤能醫筋拘攣",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 인용 대조 오기 교정",
+      "evidence_url": "https://zh.wikipedia.org/wiki/%E5%B0%BA%E6%BE%A4%E7%A9%B4",
+      "evidence_note": "『勝玉歌』 인용 원구: 尺澤能醫筋拘攣急; 『針灸大成』 본문도 筋拘攣"
+    },
+    {
+      "before": "腹疼閉結支溝穴，頷腫咽喉少商前",
+      "after": "筋疼閉結支溝穴，頷腫喉閉少商前",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 병증 구절 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 筋疼閉結支溝穴，頷腫喉閉少商前"
+    },
+    {
+      "before": "目內紅腫苦皺眉，絲竹攢竹亦可醫",
+      "after": "目內紅痛苦皺眉，絲竹攢竹亦堪醫",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "독립 전재본과 『針灸大成』 본문이 모두 目內紅痛…亦堪醫로 일치"
+    },
+    {
+      "before": "兩手酸痛難執物，曲池合谷並肩顒",
+      "after": "兩手痠疼難執物，曲池合谷共肩髃",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 병증·혈명 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "독립 전재본 원구: 兩手痠疼難執物，曲池合谷共肩髃; 肩髃는 수양명대장경 혈명"
+    },
+    {
+      "before": "臂痛背痛針三里，頭痛頭風灸風池",
+      "after": "臂疼背痛針三里，頭風頭痛灸風池",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 운문 오기 교정",
+      "evidence_url": "https://www.shidianguji.com/book/NCM011X411999030508/chapter/1ly7mv7twe78u",
+      "evidence_note": "『針灸大成』 원구: 臂疼背痛針三里，頭風頭痛灸風池"
+    },
+    {
+      "before": "臍旁二寸灸天樞",
+      "after": "臍旁兩寸灸天樞",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 수사 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 원구: 臍旁兩寸灸天樞"
+    },
+    {
+      "before": "腰痛中空穴更奇",
+      "after": "腰痛中空穴最奇",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 원구: 腰痛中空穴最奇"
+    },
+    {
+      "before": "瀉卻全針病自除",
+      "after": "瀉卻金針病自除",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 원구: 瀉卻金針病自除"
+    },
+    {
+      "before": "熱瘡膁內年年發",
+      "after": "熱瘡臁內年年發",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 부위명 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 원구: 熱瘡臁內年年發"
+    },
+    {
+      "before": "更有絕骨與丘墟",
+      "after": "更有絕骨共丘墟",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 운문 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 원구: 更有絕骨共丘墟"
+    },
+    {
+      "before": "督脈兩旁腎俞治",
+      "after": "督脈兩旁腎俞除",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 전재본 대조 압운 오기 교정",
+      "evidence_url": "https://www.kepub.net/book/52164/10007",
+      "evidence_note": "『勝玉歌』 결구: 督脈兩旁腎俞除"
+    }
+  ],
+  "Q/Q002.txt": [
+    {
+      "before": "俞穴滲注，有高下淺深之差",
+      "after": "俞穴流注，有高下淺深之差",
+      "expected_count": 1,
+      "reason": "『備急千金要方』 판본 및 독립 의학윤리 문헌 대조 OCR 오기 교정",
+      "evidence_url": "https://www.ptch.org.tw/uploadFile/download/1699351636_528.pdf",
+      "evidence_note": "孫思邈 大醫精誠 인용 원문: 俞穴流注，有高下淺深之差"
+    },
+    {
+      "before": "其[c]yvlmi[/c]蟲、水蛭之屬",
+      "after": "其虻蟲、水蛭之屬",
+      "expected_count": 1,
+      "reason": "독립 판본과 학술 번역 대조 깨진 결자 표식 복원",
+      "evidence_url": "https://www.acupuncture.org.nz/assets/Uploads/Acupuncture-NZ-Journal-2017-final.pdf",
+      "evidence_note": "大醫精誠 원문·번역: 其虻蟲、水蛭之屬; 虻蟲은 약용 등에류"
+    }
+  ],
+  "Q/Q004.txt": [
+    {
+      "before": "傴者立身僂者起",
+      "after": "傴者立伸僂者起",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 傴者立伸僂者起"
+    },
+    {
+      "before": "穴取神庭始不差",
+      "after": "穴取神庭始不瘥",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 병증 문맥 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 穴取神庭始不瘥"
+    },
+    {
+      "before": "口眼喎針最可嗟",
+      "after": "口眼喎斜最可嗟",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 결자 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 口眼喎斜最可嗟"
+    },
+    {
+      "before": "宜從德會用針行",
+      "after": "宜從聽會用針行",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 宜從聽會用針行; 聽會는 족소양담경 혈명"
+    },
+    {
+      "before": "眉問疼痛苦難當",
+      "after": "眉間疼痛苦難當",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 眉間疼痛苦難當"
+    },
+    {
+      "before": "心火炎上兩眼紅",
+      "after": "心血炎上兩眼紅",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판·영인본 대조 오기 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NLC011-411999030508-1215_%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90_%E7%AC%AC4%E5%86%8A.pdf",
+      "evidence_note": "玉龍歌 원구: 心血炎上兩眼紅"
+    },
+    {
+      "before": "若知腎命二穴處",
+      "after": "若知腎俞二穴處",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 若知腎俞二穴處"
+    },
+    {
+      "before": "中脈太谿如再刺",
+      "after": "申脈太谿如再刺",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 申脈、太谿如再刺"
+    },
+    {
+      "before": "若向眉髃明補瀉",
+      "after": "若向肩髃明補瀉",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 若向肩髃明補瀉"
+    },
+    {
+      "before": "二焦熱氣壅上焦",
+      "after": "三焦熱氣壅上焦",
+      "expected_count": 1,
+      "reason": "장부명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 三焦熱氣壅上焦"
+    },
+    {
+      "before": "乳鵝之症少人醫",
+      "after": "乳蛾之症少人醫",
+      "expected_count": 1,
+      "reason": "병증명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 乳蛾之症少人醫"
+    },
+    {
+      "before": "不識尊卑妄罵人",
+      "after": "不識尊卑枉罵人",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판·문맥 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 不識尊卑枉罵人"
+    },
+    {
+      "before": "連日虛煩面赤壯",
+      "after": "連日虛煩面赤妝",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 連日虛煩面赤妝"
+    },
+    {
+      "before": "若須通田穴尋得",
+      "after": "若須通里穴尋得",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 若須通里穴尋得; 通里는 수소음심경 혈명"
+    },
+    {
+      "before": "膏盲二穴治病強",
+      "after": "膏肓二穴治病強",
+      "expected_count": 1,
+      "reason": "혈명 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 膏肓二穴治病強"
+    },
+    {
+      "before": "檀中著丈便安康",
+      "after": "膻中著艾便安康",
+      "expected_count": 1,
+      "reason": "혈명·시술어 및 『針灸大成』 본문판 대조 복합 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 膻中著艾便安康"
+    },
+    {
+      "before": "若然著丈宜七壯",
+      "after": "若然著艾宜七壯",
+      "expected_count": 1,
+      "reason": "침구 시술 문맥 및 『針灸大成』 본문판 대조 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 若然著艾宜七壯"
+    },
+    {
+      "before": "奔豚疝氣發甚頻",
+      "after": "腎強疝氣發甚頻",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판·영인본 대조 전사 오기 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NLC011-411999030508-1215_%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90_%E7%AC%AC4%E5%86%8A.pdf",
+      "evidence_note": "玉龍歌 원구: 腎強疝氣發甚頻"
+    },
+    {
+      "before": "若用金針疾自如",
+      "after": "若用金針疾自和",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 압운·OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 若用金針疾自和"
+    },
+    {
+      "before": "天樞之穴刺休差",
+      "after": "天樞之穴刺休瘥",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 대조 병증 문맥 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "玉龍歌 원구: 天樞二穴刺休瘥"
+    }
+  ],
+  "Q/Q000.txt": [
+    {
+      "before": "承山飛揚踝跗陽",
+      "after": "承山飛揚踝附陽",
+      "expected_count": 1,
+      "reason": "『針灸大成』 본문판 및 독립 침구 문헌 대조 혈명 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+      "evidence_note": "足太陽膀胱經穴歌 원구: 承山飛揚踝附陽; 附陽은 족태양방광경 혈명"
+    },
+    {
+      "before": "陰谷膝內跗骨後",
+      "after": "陰谷膝內附骨後",
+      "expected_count": 1,
+      "reason": "『針灸大成』 계통 본문과 독립 학술 대조 OCR 오기 교정",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002437841",
+      "evidence_note": "학술 판본 대조표의 『醫學入門』 원구: 陰谷膝內附骨後"
+    },
+    {
+      "before": "紫宮華蓋璇璣收",
+      "after": "紫宮華蓋璇璣夜",
+      "expected_count": 1,
+      "reason": "『針灸大成』 영인본·온라인 본문 및 독립 전재본 대조 OCR 오기 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NLC011-411999030508-1215_%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90_%E7%AC%AC4%E5%86%8A.pdf",
+      "evidence_note": "任脈經穴歌 영인본 원구: 紫宮華蓋璇璣夜"
+    }
+  ],
+  "Q/Q006.txt": [
+    {
+      "before": "骨寒隨冷火來燒",
+      "after": "骨寒髓冷火來燒",
+      "expected_count": 1,
+      "reason": "『肘後歌』 독립 인용 판본 대조 OCR 동음 오기 교정",
+      "evidence_url": "https://meeting.colife.org.tw/upload/speech_document/20120909222211693_%E4%B8%AD%E5%9C%8B%E9%87%9D%E7%81%B8%E5%AD%B8%E8%AC%9B%E7%BE%A9.pdf",
+      "evidence_note": "침구학 강의의 靈道 조문 인용: 骨寒髓冷火來燒，靈道妙穴分明記"
+    },
+    {
+      "before": "腰腿疼痛十年春，應針不了便惺惺",
+      "after": "腰腿疼痛十年春，應針環跳便惺惺",
+      "expected_count": 1,
+      "reason": "『肘後歌』 독립 학술 인용과 혈위 문맥 대조 깨진 토큰 교정",
+      "evidence_url": "https://www.tcmjc.com/doi/pdf/B208F692A04B45FB9C3252527DA8E56D",
+      "evidence_note": "학술 인용: 腰腿疼痛十年春，應針環跳便惺惺; 環跳는 요퇴통 혈위로 문맥과 일치"
+    }
+  ],
+  "Q/Q010.txt": [
+    {
+      "before": "阿膠百部五味子，棉州黃耆更湊靈。",
+      "after": "阿膠百部五味子，綿州黃耆更湊靈。",
+      "expected_count": 1,
+      "reason": "역사 지명과 약재 산지 문맥에 따른 OCR 동음 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/ge/%E5%8D%81%E4%BA%8C%E7%B6%93%E8%A3%9C%E7%80%89%E6%BA%AB%E6%B6%BC%E5%BC%95%E7%B6%93%E8%97%A5%E6%AD%8C.html",
+      "evidence_note": "전자 전사본들은 棉州를 공유하나, 역사 지명 綿州와 산지 수식어 문맥상 綿州黃耆가 타당함"
+    },
+    {
+      "before": "更添芒硝與大黃，多加石膏謝更急。",
+      "after": "更添芒硝與大黃，多加石膏瀉更急。",
+      "expected_count": 1,
+      "reason": "위화 사법 문맥에 따른 OCR 동음 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/ge/%E5%8D%81%E4%BA%8C%E7%B6%93%E8%A3%9C%E7%80%89%E6%BA%AB%E6%B6%BC%E5%BC%95%E7%B6%93%E8%97%A5%E6%AD%8C.html",
+      "evidence_note": "瀉胃火 조문에서 芒硝·大黃·石膏를 더하면 사하는 힘이 더 급하다는 뜻이므로 瀉更急이 타당함"
+    },
+    {
+      "before": "涼用黃芩天花粉；引用羌活與高本。",
+      "after": "涼用黃芩天花粉；引用羌活與藁本。",
+      "expected_count": 1,
+      "reason": "표준 약명과 인경약 문맥에 따른 OCR 오기 교정",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%AD%A3%E7%BE%A9/index.html",
+      "evidence_note": "藁本은 羌活과 함께 논하는 표준 약명이며, 高本은 이 문맥의 약명이 아님"
+    }
+  ],
+  "Q/Q005.txt": [
+    {
+      "before": "目覺[c]butyu[/c][c]butyu[/c]，急取養老、天柱。",
+      "after": "目覺𥉂𥉂，急取養老、天柱。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 및 독립 영인 전사본 대조 깨진 외자 토큰 복원",
+      "evidence_url": "https://jicheng.tw/tcm/ge/%E7%99%BE%E8%AD%89%E8%B3%A6.html",
+      "evidence_note": "jicheng.tw는 目覺𥉂𥉂, 識典古籍의 『鍼灸大成』 영인 전사본은 이체 䀮䀮으로 수록하며 같은 난자 두 글자에 대응함"
+    }
+  ],
+  "Q/Q003.txt": [
+    {
+      "before": "漫道經渠不可測　還數尺澤起蛟龍",
+      "after": "漫道經渠不可測　還教尺澤起蛟龍",
+      "expected_count": 1,
+      "reason": "독립 출판본과 시구 문맥 대조 OCR 유사자 오기 교정",
+      "evidence_url": "https://www.ecsponline.com/yz/BF77E83B3BD024B2CAFD82A26ACBC797D000.pdf",
+      "evidence_note": "『人體特效穴位之五輸穴』 수록본: 漫道經渠不可測，還教尺澤起蛟龍; 사역동사 教가 문맥에 부합함"
+    },
+    {
+      "before": "然谷太谿豁眼廉　復溜一帆陰谷去",
+      "after": "然谷太谿豁眼簾　復溜一帆陰谷去",
+      "expected_count": 1,
+      "reason": "독립 출판본과 시구 문맥 대조 OCR 동음 오기 교정",
+      "evidence_url": "https://www.ecsponline.com/yz/BF77E83B3BD024B2CAFD82A26ACBC797D000.pdf",
+      "evidence_note": "『人體特效穴位之五輸穴』 수록본: 然谷太溪豁眼帘; 눈앞이 트인다는 뜻의 眼簾이 문맥에 부합함"
+    }
+  ],
+  "Q/Q011.txt": [
+    {
+      "before": "渴痢[c]khuc[/c]淋看尺部",
+      "after": "渴痢㿗淋看尺部",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 학술 인용본 대조 깨진 외자 토큰 복원",
+      "evidence_url": "https://www.hkjtcm.org/journals/2022%E5%B9%B4%E7%AC%AC%E5%8D%81%E4%B8%83%E5%8D%B7%E7%AC%AC%E4%B8%80%E6%9C%9F/14.%20%E6%B7%BA%E6%9E%90%E8%84%88%E8%B1%A1%E8%88%87%E6%B0%A3%E8%A1%80%E7%B2%BE%E6%B4%A5%E6%B6%B2%E8%BC%B8%E5%B8%83%E7%9A%84%E9%97%9C%E4%BF%82.pdf",
+      "evidence_note": "학술 인용은 渴痢頹淋看尺部로 전재하며, 원전의 질병명 외자 㿗에 대응함"
+    },
+    {
+      "before": "疝[c]khuc[/c]癥瘕何愁也",
+      "after": "疝㿗癥瘕何愁也",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 학술 인용본 대조 깨진 외자 토큰 복원",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001662211",
+      "evidence_note": "원전 비교 연구 수록문: 疝㿗癥瘕何愁也"
+    },
+    {
+      "before": "咽痛[j]疼?[/j]舌強氣填胸",
+      "after": "咽疼舌強氣填胸",
+      "expected_count": 1,
+      "reason": "영인본 및 독립 원전 연구 대조 판독 주석 잔재 교정",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001662211",
+      "evidence_note": "원전 비교 연구 수록문: 寸實應知面熱風，咽疼舌強氣填胸"
+    },
+    {
+      "before": "【相類侍】洪脈來時拍拍然",
+      "after": "【相類詩】洪脈來時拍拍然",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 전사본과 문서 구조 대조 OCR 오기 교정",
+      "evidence_url": "https://zh.wikisource.org/zh/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/%E6%B4%AA",
+      "evidence_note": "위키문헌 『瀕湖脈學·洪』: 〖相類詩〗洪脈來時拍拍然"
+    },
+    {
+      "before": "陰虛泄痢可嚋躇",
+      "after": "陰虛泄痢可躊躇",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 전사본 대조 OCR 오기 교정",
+      "evidence_url": "https://zh.wikisource.org/zh/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/%E6%B4%AA",
+      "evidence_note": "위키문헌 『瀕湖脈學·洪』: 陰虛洩痢可躊躇"
+    },
+    {
+      "before": "腎與肺門，居兩尺部",
+      "after": "腎與命門，居兩尺部",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 영인본과 맥위 문맥 대조 OCR 오기 교정",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/SSID-11343836_%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83_%E4%B8%8A%E4%B8%8B.pdf",
+      "evidence_note": "영인본 본문: 心肝居左，肺脾居右，腎與命門，居兩尺部"
+    },
+    {
+      "before": "陽維寒熱，目弦僵仆",
+      "after": "陽維寒熱，目眩殭臥",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 전사본 대조 OCR 오기 교정",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=250438&if=gb",
+      "evidence_note": "中國哲學書電子化計劃 『瀕湖脈學』: 陽維寒熱，目眩殭臥"
+    },
+    {
+      "before": "癲癇契瘲，寒熱恍惚",
+      "after": "癲癇瘈瘲，寒熱恍惚",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 전사본과 표준 병명 대조 OCR 오기 교정",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=250438&if=gb",
+      "evidence_note": "中國哲學書電子化計劃 『瀕湖脈學』: 癲癇瘈瘲，寒熱恍惚"
+    },
+    {
+      "before": "肝絕之脈，循刃責責",
+      "after": "肝絕之脈，循刀責責",
+      "expected_count": 1,
+      "reason": "『瀕湖脈學』 독립 전사본 대조 OCR 형사 오기 교정",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=250438&if=gb",
+      "evidence_note": "中國哲學書電子化計劃 『瀕湖脈學』: 肝絕之脈，循刀責責"
+    }
+  ]
+}
