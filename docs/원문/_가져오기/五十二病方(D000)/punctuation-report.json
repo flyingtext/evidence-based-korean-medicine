@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E4%BA%94%E5%8D%81%E4%BA%8C%E7%97%85%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "五十二病方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:38:29.833651+00:00",
+    "html_sha256": "c78723baa3ef4ac1352d82cdb122cb295ab5fe5e030c78c97b3f2f50ef924af2",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/五十二病方(D000)/표점본.md",
+  "blocks": {
+    "total": 321,
+    "by_tag": {
+      "div": 277,
+      "h1": 44
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 10229,
+    "extracted_han_sha256": "57b0e91c0ae3470d140cb5fb159f6ed8237009a881ad22f507850c1013fb0368",
+    "source_han_characters": 9195,
+    "source_han_sha256": "bf188fe469cbbf0e84e96b38592d5e51024c4e174e6d51cc41d06ddeff8c867d",
+    "han_length_ratio": 1.112452,
+    "han_sequence_quick_ratio": 0.927512,
+    "han_exact_match": false,
+    "punctuation_density": 0.227434
+  },
+  "source_path": "D/D000.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.927887
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13217,
+    "output_non_punctuation_characters": 13217,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

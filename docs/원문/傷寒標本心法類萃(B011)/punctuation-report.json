@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+    "site": "jicheng.tw",
+    "page_title": "傷寒標本心法類萃",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:37:38.620550+00:00",
+    "html_sha256": "8175df89ed37bd7492bc761b3637b29ab7d62e8f6f4b4269fde573a80fbbc4f5",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/傷寒標本心法類萃(B011)/표점본.md",
+  "blocks": {
+    "total": 299,
+    "by_tag": {
+      "div": 251,
+      "h1": 2,
+      "h2": 46
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 11747,
+    "extracted_han_sha256": "c19ee1188294dcd407db39397205d90aa05fd6fa82d1098f96f56f5771a7b685",
+    "source_han_characters": 11733,
+    "source_han_sha256": "85538b8b24e11f5e829b2626ad7542c86059f3060a39de77615474c08e5573e3",
+    "han_length_ratio": 1.001193,
+    "han_sequence_quick_ratio": 0.989097,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11865,
+    "output_non_punctuation_characters": 11865,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 93,
+    "insert": 134
+  }
+}

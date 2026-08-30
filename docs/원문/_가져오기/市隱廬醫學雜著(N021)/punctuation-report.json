@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%B8%82%E9%9A%B1%E5%BB%AC%E9%86%AB%E5%AD%B8%E9%9B%9C%E8%91%97/index.html",
+    "site": "jicheng.tw",
+    "page_title": "市隱廬醫學雜著",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:37:39.954550+00:00",
+    "html_sha256": "243dc227ef6c491126f313ba21da7e534a11c182f322e50026a6e383fd34fac0",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/市隱廬醫學雜著(N021)/표점본.md",
+  "blocks": {
+    "total": 82,
+    "by_tag": {
+      "div": 64,
+      "h1": 18
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 13229,
+    "extracted_han_sha256": "418da6f3bf8693f9b62e9f44a606b465ba0d2cb16ca8e51d4e51458164c7d898",
+    "source_han_characters": 13221,
+    "source_han_sha256": "e95b7203972125654a70d7000804a10a82b644f6dc5f174cd011d55a3616eef3",
+    "han_length_ratio": 1.000605,
+    "han_sequence_quick_ratio": 0.994026,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13221,
+    "output_non_punctuation_characters": 13221,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 86,
+    "insert": 6
+  }
+}

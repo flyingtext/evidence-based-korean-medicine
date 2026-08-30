@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%AD%90%E5%8D%88%E6%B5%81%E6%B3%A8%E9%87%9D%E7%B6%93/index.html",
+    "site": "jicheng.tw",
+    "page_title": "子午流注針經",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:38:28.078504+00:00",
+    "html_sha256": "51d6b3dd80efc3de9ad148ae8f633537712c294a344d3818845df9e1b62e68fa",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/子午流注針經(K016)/표점본.md",
+  "blocks": {
+    "total": 346,
+    "by_tag": {
+      "div": 324,
+      "h1": 4,
+      "h2": 18
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 13238,
+    "extracted_han_sha256": "2c50c074bdcac6ac3ce31822778fcb35ba4dc9332c882ecb30d03f768b2c4863",
+    "source_han_characters": 13176,
+    "source_han_sha256": "ee00a40f5bfb6a6485972b80f8fccbec7de8b91578170ef64a13e9cc7bb1e4e3",
+    "han_length_ratio": 1.004706,
+    "han_sequence_quick_ratio": 0.984251,
+    "han_exact_match": false,
+    "punctuation_density": 0.175329
+  },
+  "source_path": "K/K016.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.984092
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 13288,
+    "output_non_punctuation_characters": 13288,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 79,
+    "insert": 62
+  }
+}

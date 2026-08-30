@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E8%B7%8C%E6%90%8D%E5%A6%99%E6%96%B9/index.html",
+    "site": "jicheng.tw",
+    "page_title": "跌損妙方",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:37:39.282545+00:00",
+    "html_sha256": "d0e593a93f6a3ece8e49036b688745301b467ac9f9425c967b2eed382ea96fae",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/跌損妙方(J002)/표점본.md",
+  "blocks": {
+    "total": 363,
+    "by_tag": {
+      "div": 347,
+      "h1": 16
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 11432,
+    "extracted_han_sha256": "c306812495c4a45b8bcf43752fb17629749854849775595133f3af4a4182ea01",
+    "source_han_characters": 11142,
+    "source_han_sha256": "eaf151d904313c85c5a143aa6f977bbd31f1b5703a3e2eee4c8cf68b9318b3c2",
+    "han_length_ratio": 1.026028,
+    "han_sequence_quick_ratio": 0.976079,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11696,
+    "output_non_punctuation_characters": 11696,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 272
+  }
+}

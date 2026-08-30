@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E6%98%8E%E5%A0%82%E7%81%B8%E7%B6%93/index.html",
+    "site": "jicheng.tw",
+    "page_title": "黃帝明堂灸經",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:38:28.935496+00:00",
+    "html_sha256": "a811053a2aa617b691137750a3da64cd0bd161fe1821b34ef3b20e4f3ccbc268",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "/Users/yunjihyeon/Documents/GitHub/evidence-based-korean-medicine/docs/원문/_가져오기/黃帝明堂灸經(K102)/표점본.md",
+  "blocks": {
+    "total": 335,
+    "by_tag": {
+      "div": 266,
+      "h1": 4,
+      "h2": 65
+    },
+    "unique_data_sec": 3,
+    "duplicate_data_sec": [
+      "h1",
+      "h2",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 12611,
+    "extracted_han_sha256": "1e8a2523de881fe814a51a23c96760118c1b6832e5d53d7a24792a85668d1b6e",
+    "source_han_characters": 12451,
+    "source_han_sha256": "4bc56f3af92d3f74111f917ee44405d89514d2e093ed6990e8c2467bd588131e",
+    "han_length_ratio": 1.01285,
+    "han_sequence_quick_ratio": 0.966483,
+    "han_exact_match": false,
+    "punctuation_density": 0.188724
+  },
+  "source_path": "K/K102.txt",
+  "approval": {
+    "status": "approved",
+    "basis": "CJK 7자 표본 일치율 0.92 이상",
+    "sampled_7gram_match_ratio": 0.966946
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 12927,
+    "output_non_punctuation_characters": 12927,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

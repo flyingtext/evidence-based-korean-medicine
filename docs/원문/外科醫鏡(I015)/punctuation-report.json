@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "source": {
+    "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E9%86%AB%E9%8F%A1/index.html",
+    "site": "jicheng.tw",
+    "page_title": "外科醫鏡",
+    "charset": "utf-8",
+    "retrieved_at": "2026-08-30T06:37:37.854890+00:00",
+    "html_sha256": "9edb1e3415281ea41f2820ed84af629dd3acb6d5e5fd76cd871bb41d6cd494ef",
+    "page_metadata": {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "msapplication-TileColor": "#da532c",
+      "theme-color": "#ffffff"
+    }
+  },
+  "output": "docs/원문/_가져오기/外科醫鏡(I015)/표점본.md",
+  "blocks": {
+    "total": 323,
+    "by_tag": {
+      "div": 319,
+      "h1": 4
+    },
+    "unique_data_sec": 2,
+    "duplicate_data_sec": [
+      "h1",
+      "p"
+    ]
+  },
+  "validation": {
+    "extracted_han_characters": 10940,
+    "extracted_han_sha256": "1f6c256c3f25efa6902e96c16f8bbcbb13dcaa5cc3cb4f066e4cac3ad7c55b60",
+    "source_han_characters": 10903,
+    "source_han_sha256": "3796839906c532d6e1cb4b3653dbe9b46d7af7acec709a309b334cac3a2db364",
+    "han_length_ratio": 1.003394,
+    "han_sequence_quick_ratio": 0.988234,
+    "han_exact_match": false
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 11144,
+    "output_non_punctuation_characters": 11144,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 65,
+    "insert": 212
+  }
+}
