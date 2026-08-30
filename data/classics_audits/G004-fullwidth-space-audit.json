@@ -15,8 +15,11 @@
   "evidence_urls": [
     "https://jicheng.tw/tcm/book/%E9%8C%A2%E6%B0%8F%E7%A7%98%E5%82%B3%E7%94%A2%E7%A7%91%E6%96%B9%E6%9B%B8%E5%90%8D%E8%A9%A6%E9%A9%97%E9%8C%84/index.html",
     "https://zh.wikisource.org/zh-hant/%E9%8C%A2%E6%B0%8F%E7%A7%98%E5%82%B3%E7%94%A2%E7%A7%91%E6%96%B9%E6%9B%B8%E5%90%8D%E8%A9%A6%E9%A9%97%E9%8C%84",
-    "https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf"
+    "https://info.mediclassics.kr/bookshelf/books/distBook/km_books_list/book.pdf",
+    "https://zhongyibaodian.com/shoushibaoyuan/572-11-14.html",
+    "https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng,_Volume_545_(1700-1725).djvu/6",
+    "https://www.theqi.com/cmed/oldbook/book132/b132_05.html"
   ],
-  "corrected_body_sha256": "847fb3693776f4580faba2686be0df65bfa9e6b7b1cd790a7e7e554c746feb00",
-  "note": "癥塊의 癥 결자를 복원했고, □ 12곳은 문맥과 최신본에 따라 耆로 복원했다. 나머지 전각 공백은 처방 약물 및 서명 구분이다."
+  "corrected_body_sha256": "5d5f6f22623947ff41e37342d335e5c4fc591ba26f4671a4547a89f4721aaeed",
+  "note": "癥塊의 癥 결자를 복원했다. □ 12자는 문맥과 독립 인용 근거로 不一·為主·桃梟·若·竹雞草·樺皮를 복원했으며, 나머지 전각 공백은 처방 약물 및 서명 구분이다."
 }

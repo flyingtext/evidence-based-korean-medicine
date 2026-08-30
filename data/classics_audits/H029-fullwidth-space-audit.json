@@ -1,0 +1,22 @@
+{
+  "source_path": "H/H029.txt",
+  "title": "顱顖經",
+  "source_fullwidth_spaces": 193,
+  "restored_or_normalized_positions": 18,
+  "preserved_layout_spaces": 175,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 193자리와 HT 3/KT 1 전수 판정",
+    "jicheng 文淵閣四庫全書 정리본 및 Kanripo KR3e0016 대조",
+    "Wikisource 독립 전사 교차 확인 및 서지 교정"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%A1%B1%E9%A1%96%E7%B6%93/index.html",
+    "https://www.kanripo.org/ed/KR3e0016/WYG/",
+    "https://zh.wikisource.org/wiki/%E9%A1%B1%E9%A1%96%E7%B6%93"
+  ],
+  "corrected_body_sha256": "60440b9de983ab1976882b06545b40a7364c076520ad0e6a6ce8575de6a3b0b9",
+  "note": "깨진 토큰과 결자뿐 아니라 疴·煿·藭·臁·髎·莙薘·熁·疿·聤·薶·鱣 등 희귀자를 복원했다. 잔존 전각 공백은 처방·판면 구분이다."
+}

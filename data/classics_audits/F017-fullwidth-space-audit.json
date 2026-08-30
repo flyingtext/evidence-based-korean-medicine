@@ -1,0 +1,22 @@
+{
+  "source_path": "F/F017.txt",
+  "title": "痰癧法門",
+  "source_fullwidth_spaces": 268,
+  "restored_or_normalized_positions": 30,
+  "preserved_layout_spaces": 238,
+  "reflowed_layout_spaces_in_corrected_text": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 268자리와 레거시 [u]/[i] 표식 전수 판정",
+    "jicheng 최신 정리본 전문 대조",
+    "癧 체계 결락 및 臁·髎·齶 등 희귀자와 OCR·자동변환 오기 복원"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E7%97%B0%E7%99%A7%E6%B3%95%E9%96%80/index.html",
+    "https://cloudtcm.com/formula/list/formula-dsname/33503/0",
+    "https://luckysafe.pixnet.net/blog/posts/11405188793"
+  ],
+  "corrected_body_sha256": "fbf2e9945f0cd5899c0164295666d77b9cca6d112e516dc269dc8eadd76ebd1d",
+  "note": "질환명 痰癧의 癧이 반복 누락된 자리들을 복원했다. 잔존 전각 공백은 처방 약물 구분이며, [u]/[i] 레거시 표식은 정상 문단과 도판 설명으로 변환했다."
+}
