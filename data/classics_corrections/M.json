@@ -7,6 +7,38 @@
       "reason": "동일 작품 공개 전사 2종과 고전 말뭉치의 관용구를 대조해 깨진 희자를 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%89%E6%8C%87%E7%A6%AA/index.html",
       "evidence_note": "jicheng·Wikisource 《三指禪》과 CText 평행 용례가 모두 人自㘞地一聲以來로 일치함"
+    },
+    {
+      "before": "四時　HT　。壁腳",
+      "after": "四時馣馤。壁腳",
+      "expected_count": 1,
+      "reason": "공개 판면과 교육부 이체자사전의 고정 향기 어휘를 대조해 복원",
+      "evidence_url": "https://hantang.health/wp/wp-content/uploads/2022/10/%E4%B8%89%E6%8C%87%E7%A6%AA_1.1_B5.pdf#page=64",
+      "evidence_note": "PDF 인쇄 64쪽의 四時馣馤와 교육부 사전 馣馤：香氣가 일치함; HT 한 토큰이 두 글자 어구 전체를 대신함"
+    },
+    {
+      "before": "晉荀偃、HT　伐逼陽",
+      "after": "晉荀偃、士匄伐逼陽",
+      "expected_count": 1,
+      "reason": "《左傳》襄公十年의 고유 인명과 사건 문장을 대조해 복원",
+      "evidence_url": "https://ctext.org/chun-qiu-zuo-zhuan/xiang-gong-shi-nian/zh",
+      "evidence_note": "원전이 荀偃、士匄請攻偪陽으로 전함"
+    },
+    {
+      "before": "荀偃、HT帥卒攻逼陽",
+      "after": "荀偃、士匄帥卒攻逼陽",
+      "expected_count": 1,
+      "reason": "《左傳》襄公十年의 완전한 인용문으로 인명을 복원",
+      "evidence_url": "https://ctext.org/chun-qiu-zuo-zhuan/xiang-gong-shi-nian/zh",
+      "evidence_note": "荀偃、士匄帥卒攻偪陽，親受矢石，甲午滅之와 완전히 일치함"
+    },
+    {
+      "before": "揚HT　指陳",
+      "after": "揚搉指陳",
+      "expected_count": 1,
+      "reason": "동일 작품 공개 PDF 판면에서 고정 어휘를 직접 판독",
+      "evidence_url": "https://hantang.health/wp/wp-content/uploads/2022/10/%E4%B8%89%E6%8C%87%E7%A6%AA_1.1_B5.pdf#page=122",
+      "evidence_note": "PDF 인쇄 122쪽에 揚搉指陳으로 선명함"
     }
   ],
   "M/M114.txt": [
