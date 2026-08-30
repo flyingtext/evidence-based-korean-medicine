@@ -1,42 +1,434 @@
 [
   {
-    "before": "立起沉　。",
-    "after": "立起沉疴。",
+    "before": "授，遇病始能按穴刺灸，立起沉　。奈其人罕觀，余曾得異傳，用",
+    "after": "授，遇病始能按穴刺灸，立起沉疴。奈其人罕觀，余曾得異傳，用",
     "expected_count": 1,
-    "reason": "결자 보충",
+    "reason": "온라인 판본 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
-    "evidence_note": "卷上·外症用刀針法"
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
   },
   {
-    "before": "每逢痞塊，　瘕，腹痛",
-    "after": "每逢痞塊，癥瘕，腹痛",
+    "before": "長五寸，銼尖兩頭，每逢痞塊，　瘕，腹痛，陰疽，風寒濕痹，周",
+    "after": "長五寸，銼尖兩頭，每逢痞塊，癥瘕，腹痛，陰疽，風寒濕痹，周",
     "expected_count": 1,
-    "reason": "결자 보충",
+    "reason": "온라인 판본 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
-    "evidence_note": "卷上·外症用刀針法"
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
   },
   {
-    "before": "陽癰　腫，有日漸覺抽痛",
-    "after": "陽癰焮腫，有日漸覺抽痛",
+    "before": "，能決膿癰，消散陰疽，惟紅腫　痛，火毒旺者。誤用，更腫痛深",
+    "after": "，能決膿癰，消散陰疽，惟紅腫焮痛，火毒旺者。誤用，更腫痛深",
     "expected_count": 1,
-    "reason": "결자 보충",
+    "reason": "온라인 판본 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
-    "evidence_note": "卷上·外症用刀針法"
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
   },
   {
-    "before": "惟紅腫　痛，火毒旺者",
-    "after": "惟紅腫焮痛，火毒旺者",
+    "before": "虛，濕盛化熱，蘊於血分，而成　瘡。初發紅片，破流臭水，極其",
+    "after": "虛，濕盛化熱，蘊於血分，而成臁瘡。初發紅片，破流臭水，極其",
     "expected_count": 1,
-    "reason": "결자 보충",
+    "reason": "온라인 판본 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
-    "evidence_note": "卷上·火針不可輕用"
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
   },
   {
-    "before": "蘊於血分，而成　瘡。",
-    "after": "蘊於血分，而成臁瘡。",
+    "before": "氣脈阻閉，或先干癢有日，繼而　疼異常，初生小紅肉，逐漸塞滿",
+    "after": "氣脈阻閉，或先干癢有日，繼而焮疼異常，初生小紅肉，逐漸塞滿",
     "expected_count": 1,
-    "reason": "결자 보충",
+    "reason": "온라인 판본 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
-    "evidence_note": "卷上·臁瘡"
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "而生菌也。宜針刺出污血水，搽　砂散（方見後），內服龍膽瀉肝",
+    "after": "而生菌也。宜針刺出污血水，搽硇砂散（方見後），內服龍膽瀉肝",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "外掛。先以針刺破，隨將棉花蘸　砂散塞鼻中。五日一次，漸化為",
+    "after": "外掛。先以針刺破，隨將棉花蘸硇砂散塞鼻中。五日一次，漸化為",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "為外症，尤當戒。誤犯者，隨加　腫潰痛，斂者復爛。醫者須囑咐",
+    "after": "為外症，尤當戒。誤犯者，隨加焮腫潰痛，斂者復爛。醫者須囑咐",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "處，斯際內受水泉之毒，外迫炎　之邪，易生時疫，互相傳染。更",
+    "after": "處，斯際內受水泉之毒，外迫炎熯之邪，易生時疫，互相傳染。更",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "救。即如斑蝥、番木鱉、砒霜、　雄黃、馬蝗、水銀、　砂、河豚",
+    "after": "救。即如斑蝥、番木鱉、砒霜、煅雄黃、馬蝗、水銀、　砂、河豚",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "、砒霜、　雄黃、馬蝗、水銀、　砂、河豚、巴豆、輕粉、莽草、",
+    "after": "、砒霜、　雄黃、馬蝗、水銀、硇砂、河豚、巴豆、輕粉、莽草、",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "關礙，乃不戒葷腥發物，致患處　赤腫痛，轉成疔瘡惡毒。病者與",
+    "after": "關礙，乃不戒葷腥發物，致患處焮赤腫痛，轉成疔瘡惡毒。病者與",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "治，及不戒口，其毒易散，紅腫　痛，爛深淌膿，在上身者，按癰",
+    "after": "治，及不戒口，其毒易散，紅腫焮痛，爛深淌膿，在上身者，按癰",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "上驟變，干枯無膿，四邊皮色，　紅起暈，鎖住患口。或針刺刀割",
+    "after": "上驟變，干枯無膿，四邊皮色，焮紅起暈，鎖住患口。或針刺刀割",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "片。一頭即將竹片夾住眼上胞內　，又以長線扎緊竹片外端，留線",
+    "after": "片。一頭即將竹片夾住眼上胞內眥，又以長線扎緊竹片外端，留線",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "腥，患處新肉，薄嫩未堅，每復　腫，潰穿膿水，否則患頂生肉，",
+    "after": "腥，患處新肉，薄嫩未堅，每復焮腫，潰穿膿水，否則患頂生肉，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "耗目中膏脂，或起白膜紅絲，或　肉牽攀，使目無全光，或至失明",
+    "after": "耗目中膏脂，或起白膜紅絲，或胬肉牽攀，使目無全光，或至失明",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "胃為倉廩之官，痰聚濕蒸，猶乎　醬曲然，無能外泄溢於肌膚，使",
+    "after": "胃為倉廩之官，痰聚濕蒸，猶乎盦醬曲然，無能外泄溢於肌膚，使",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "小後大，寒熱不退，痛不止，不　紅，延至日久，方潰膿水。因此",
+    "after": "小後大，寒熱不退，痛不止，不焮紅，延至日久，方潰膿水。因此",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "冬術　茯苓　陳皮　苦參　半夏　皂礬　針屑各藥研末，用黑棗煮",
+    "after": "冬術　茯苓　陳皮　苦參　半夏煅皂礬　針屑各藥研末，用黑棗煮",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "茯苓　陳皮　苦參　半夏　皂礬　針屑各藥研末，用黑棗煮熟去皮",
+    "after": "茯苓　陳皮　苦參　半夏　皂礬煅針屑各藥研末，用黑棗煮熟去皮",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "上熏肺金，使肺葉焦損，則生痿　，失治遂成廢人，須養陰清熱，",
+    "after": "上熏肺金，使肺葉焦損，則生痿躄，失治遂成廢人，須養陰清熱，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "。抑知前賢審症果虛，非藉參、　補氣，歸、芍養血，少加附子、",
+    "after": "。抑知前賢審症果虛，非藉參、耆補氣，歸、芍養血，少加附子、",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "足以救其陰。驟脫症，非重用參　，不足以接其元陽。與夫壯實之",
+    "after": "足以救其陰。驟脫症，非重用參耆，不足以接其元陽。與夫壯實之",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "辣之物熱結臟腑之內，日久皆能　伏生蟲，流入大腸，盤踞肛門，",
+    "after": "辣之物熱結臟腑之內，日久皆能盦伏生蟲，流入大腸，盤踞肛門，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "　山藥　百合　茯苓　白朮　生　玉竹　當歸　蓮子將藥晒脆，加",
+    "after": "　山藥　百合　茯苓　白朮　生耆玉竹　當歸　蓮子將藥晒脆，加",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "　黨參　白朮　陳皮　柴胡　黃　（炙）　升麻　甘草（炙）　紅",
+    "after": "　黨參　白朮　陳皮　柴胡　黃耆（炙）　升麻　甘草（炙）　紅",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "血脈，轉為陽，內服陽八味加黃　、黨參，扶助正氣，三日後烙以",
+    "after": "血脈，轉為陽，內服陽八味加黃耆、黨參，扶助正氣，三日後烙以",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "下無肛門，先用藥線，穿掛肛上　皮，四日吊豁，隨以披刀，挑破",
+    "after": "下無肛門，先用藥線，穿掛肛上羃皮，四日吊豁，隨以披刀，挑破",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "二穴四次，內服當歸、川芍、黃　、白芍、黨參、羌活、冬朮、細",
+    "after": "二穴四次，內服當歸、川芍、黃耆、白芍、黨參、羌活、冬朮、細",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "用當歸、冬朮、白芍、山藥、黃　、桂枝、木瓜、靈仙、秦艽、防",
+    "after": "用當歸、冬朮、白芍、山藥、黃耆、桂枝、木瓜、靈仙、秦艽、防",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "、白朮、陳皮、木香、草蔻、黃　、山藥、肉桂、乾薑、吳萸，六",
+    "after": "、白朮、陳皮、木香、草蔻、黃耆、山藥、肉桂、乾薑、吳萸，六",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "因肌肉久虛，故無濃膿。）與生　、白朮、芡實、蓮子、山藥、黨",
+    "after": "因肌肉久虛，故無濃膿。）與生耆、白朮、芡實、蓮子、山藥、黨",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "、山藥、黨參、附子，合炒老黃　米磨屑，加紅糖調食，接補正氣",
+    "after": "、山藥、黨參、附子，合炒老黃秈米磨屑，加紅糖調食，接補正氣",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "不能統血，上溢清道而出，以黃　、白朮、玉竹、黨參、山藥、當",
+    "after": "不能統血，上溢清道而出，以黃耆、白朮、玉竹、黨參、山藥、當",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "通，先刺破受藥力，次以棉花蘸　砂散塞之，復加棉花塞緊，難落",
+    "after": "通，先刺破受藥力，次以棉花蘸硇砂散塞之，復加棉花塞緊，難落",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "帖，再用當歸、杜仲、黨參、黃　、杞子、菟絲子、巴戟天、白芍",
+    "after": "帖，再用當歸、杜仲、黨參、黃耆、杞子、菟絲子、巴戟天、白芍",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "九節菖蒲、橘紅、遠志、沉香、　磁石、香附，解郁安神通竅，八",
+    "after": "九節菖蒲、橘紅、遠志、沉香、煅磁石、香附，解郁安神通竅，八",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "膏藥，服佩蘭，當歸、象貝，黃　、鬱金、茯神、香附，青皮、黨",
+    "after": "膏藥，服佩蘭，當歸、象貝，黃耆、鬱金、茯神、香附，青皮、黨",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "當歸　白朮　川斷　五加皮　黃　紅花　玉竹白芍　陳皮）六帖，",
+    "after": "當歸　白朮　川斷　五加皮　黃耆紅花　玉竹白芍　陳皮）六帖，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "人左耳下發馬刀　，大如杯狀，　硬痛甚，加之染患時疫，晝夜昏",
+    "after": "人左耳下發馬刀　，大如杯狀，焮硬痛甚，加之染患時疫，晝夜昏",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "故紙、冬朮、蓯蓉、菟絲子、黃　、續斷、巴戟天、山藥、杞子、",
+    "after": "故紙、冬朮、蓯蓉、菟絲子、黃耆、續斷、巴戟天、山藥、杞子、",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "耳下生馬刀　，漫腫如李，不覺　疼，此由肝氣與痰凝滯而成，（",
+    "after": "耳下生馬刀　，漫腫如李，不覺焮疼，此由肝氣與痰凝滯而成，（",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "，不時煩躁，能食脈數，此濕熱　伏成為陽黃，進茵陳、梔子、木",
+    "after": "，不時煩躁，能食脈數，此濕熱盦伏成為陽黃，進茵陳、梔子、木",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "、木通、車前子、滑石、澤瀉、　蓄、川黃柏，四帖，色皆轉白。",
+    "after": "、木通、車前子、滑石、澤瀉、萹蓄、川黃柏，四帖，色皆轉白。",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "濕熱。目赤唇焦者，熱病。兩目　紅者，欲發瘡疹。目白睛黃者，",
+    "after": "濕熱。目赤唇焦者，熱病。兩目眥紅者，欲發瘡疹。目白睛黃者，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "，時病。病患鼻尖山根明亮，目　黃者，病欲愈。無病患現黑色，",
+    "after": "，時病。病患鼻尖山根明亮，目眥黃者，病欲愈。無病患現黑色，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "，舌瘦而長者心絕。嚙舌者死。　舌者危。舌卷神昏者危。汗出不",
+    "after": "，舌瘦而長者心絕。嚙舌者死。餂舌者危。舌卷神昏者危。汗出不",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "肉黑者死。指爪枯毛折者死。足　腫，兩膝腫如斗者死。足　腫，",
+    "after": "肉黑者死。指爪枯毛折者死。足胕腫，兩膝腫如斗者死。足　腫，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "。足　腫，兩膝腫如斗者死。足　腫，頭重作吐者死。手足抽搐，",
+    "after": "。足　腫，兩膝腫如斗者死。足胕腫，頭重作吐者死。手足抽搐，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "，皮膚痛，喘咳失血便血，瘡瘍　腫心痛腹滿，肩背臂目痛，肺脹",
+    "after": "，皮膚痛，喘咳失血便血，瘡瘍胕腫心痛腹滿，肩背臂目痛，肺脹",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "陰濕土司天，主病骨痛，痹症，　腫，腰脊頭項皆痛，頭眩便難，",
+    "after": "陰濕土司天，主病骨痛，痹症，胕腫，腰脊頭項皆痛，頭眩便難，",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "鳴，腹痛便瀉，心疼喉干，腰痛　疝，目瘡瘍。少陰君火在泉，主",
+    "after": "鳴，腹痛便瀉，心疼喉干，腰痛㿗疝，目瘡瘍。少陰君火在泉，主",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
+  },
+  {
+    "before": "實，沉細而虛，岐黃無術。積聚　瘕，臟腑分治，實大可生，沉細",
+    "after": "實，沉細而虛，岐黃無術。積聚癥瘕，臟腑分治，實大可生，沉細",
+    "expected_count": 1,
+    "reason": "온라인 판본 대조 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+    "evidence_note": "jicheng.tw 저본: 《珍本醫書集成》第十四冊(1936)"
   }
 ]

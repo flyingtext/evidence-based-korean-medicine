@@ -8,6 +8,7 @@
 from __future__ import annotations
 
 import argparse
+import difflib
 import hashlib
 import json
 import re
@@ -87,16 +88,34 @@ def load_book(path: Path, source_root: Path) -> Book:
 
 
 def apply_corrections(book: Book, corrections: dict[str, list[dict]]) -> None:
+    original = book.body
+    edits: list[tuple[int, int, str]] = []
     for correction in corrections.get(book.relative_source, []):
         before = correction["before"]
         after = correction["after"]
         expected = correction.get("expected_count", 1)
-        actual = book.body.count(before)
+        actual = original.count(before)
         if actual != expected:
             book.warnings.append(f"교정 불일치: {before!r} ({actual}/{expected})")
             continue
-        book.body = book.body.replace(before, after)
+        starts = [match.start() for match in re.finditer(re.escape(before), original)]
+        local_edits = []
+        for start in starts:
+            matcher = difflib.SequenceMatcher(a=before, b=after, autojunk=False)
+            for tag, i1, i2, j1, j2 in matcher.get_opcodes():
+                if tag != "equal":
+                    local_edits.append((start + i1, start + i2, after[j1:j2]))
+        edits.extend(local_edits)
         book.corrections.append(correction)
+    # 모든 근거 문맥을 수정 전 원문에서 검증한 뒤 뒤쪽 좌표부터 적용한다.
+    # 이 방식은 가까운 결자의 문맥이 겹쳐도 앞선 치환이 뒤 교정을 막지 않는다.
+    occupied: list[tuple[int, int]] = []
+    for start, end, replacement in sorted(edits, reverse=True):
+        if any(start < used_end and end > used_start for used_start, used_end in occupied):
+            book.warnings.append(f"교정 좌표 중첩: {start}:{end}")
+            continue
+        book.body = book.body[:start] + replacement + book.body[end:]
+        occupied.append((start, end))
 
 
 def safe_name(value: str, fallback: str) -> str:
@@ -198,7 +217,8 @@ def convert_part(book: Book, part_index: int, title: str, content: str) -> tuple
         f"> 서명: {book.title}",
         f"> 원본 파일: `{book.relative_source}`",
         f"> 원본 SHA-256: `{book.sha256}`",
-        "> 상태: 자동 변환 원문·정본 미대조",
+        ("> 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전"
+         if book.corrections else "> 상태: 자동 변환 원문·정본 미대조"),
         "",
     ]
     tasks: list[dict] = []
@@ -270,6 +290,7 @@ def book_readme(book: Book, outputs: list[tuple[str, str]]) -> str:
             lines.append(f"- {key}: {meta[key]}")
     if book.corrections:
         lines.append(f"- 인터넷 대조 교정: {len(book.corrections)}건 (`corrections-applied.json` 참조)")
+        lines.append("- 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전")
     lines.extend(["", "## 원문 목차", ""])
     lines.extend(f"- [{title}]({filename})" for filename, title in outputs)
     lines.extend([
@@ -277,6 +298,38 @@ def book_readme(book: Book, outputs: list[tuple[str, str]]) -> str:
         "## 번역 작업 원칙",
         "",
         "번역은 `translation-tasks.jsonl`의 `source_id`를 유지해 별도 산출물로 작성한다. 원문의 글자·표점·결자를 번역 과정에서 수정하지 않으며, 직역과 역자 해설을 구분한다.",
+        "",
+    ])
+    return "\n".join(lines)
+
+
+def collation_record(book: Book) -> str:
+    """적용된 교정의 범위와 근거를 원서 단위로 명시한다."""
+    urls = sorted({item.get("evidence_url", "") for item in book.corrections if item.get("evidence_url")})
+    lines = [
+        f"# {book.title} 교감 기록",
+        "",
+        "## 현재 상태",
+        "",
+        "인터넷 판본과의 1차 결자 대조를 완료했다. 이 기록은 결락된 글자를 보충한 결과이며, 이체자·표점·판본 간 문구 차이까지 확정한 전면 교감본을 뜻하지 않는다.",
+        "",
+        "## 대조 범위",
+        "",
+        f"- 원자료: `{book.relative_source}`",
+        f"- 원자료 SHA-256: `{book.sha256}`",
+        f"- 확인·적용한 교정: {len(book.corrections)}건",
+        "- 적용 내역: `corrections-applied.json`",
+        "- 판정 방법: 원자료의 전각 공백 위치와 대조 판본의 문자를 장·절 순서와 앞뒤 문맥으로 대응시키고, 문맥이 유일하게 일치하는 항목만 반영",
+        "",
+        "## 대조 판본",
+        "",
+    ]
+    lines.extend(f"- {url}" for url in urls)
+    lines.extend([
+        "",
+        "## 유보 사항",
+        "",
+        "비결자 차이, 이체자, 표점 및 판본별 증감은 후속 교감에서 별도로 판정한다. 번역은 해당 판정이 끝나기 전까지 원문과 역자 주를 분리해 진행한다.",
         "",
     ])
     return "\n".join(lines)
@@ -310,6 +363,8 @@ def convert_book(book: Book, output_root: Path) -> dict:
     (book_dir / "corrections-applied.json").write_text(
         json.dumps(book.corrections, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+    if book.corrections:
+        (book_dir / "교감기록.md").write_text(collation_record(book), encoding="utf-8")
     with (book_dir / "translation-tasks.jsonl").open("w", encoding="utf-8") as handle:
         for task in tasks:
             handle.write(json.dumps(task, ensure_ascii=False) + "\n")
