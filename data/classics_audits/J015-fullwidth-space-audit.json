@@ -1,0 +1,22 @@
+{
+  "source_path": "J/J015.txt",
+  "title": "傷科方書",
+  "source_fullwidth_spaces": 580,
+  "restored_or_normalized_positions": 45,
+  "preserved_layout_spaces": 535,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "jicheng 최신 《珍本醫書集成》第8책 전문 최소편집 정렬",
+    "CTP 독립 전사 교차 확인",
+    "國立中央圖書館 1931년판 및 臺大圖書館 1936년 영인본 대조",
+    "잔존 대체문자·괄호 균형 검사"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%82%B7%E7%A7%91%E6%96%B9%E6%9B%B8/index.html",
+    "https://ctext.org/wiki.pl?chapter=131173&if=en",
+    "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-9910017763"
+  ],
+  "corrected_body_sha256": "ba91f9cb8feca1dbcef52fe7cedbae5e539fc83f289c2fe26b6986755075ef74",
+  "note": "원자료 전각 공백 580자리 중 약물·용량·판면 구분 535자리는 보존하고, 결자·깨진 토큰 또는 최신판 재조판과 대응하는 45자리는 복원·정규화. 공백 없는 중간 탈락도 전문 정렬로 보충."
+}
