@@ -16079,6 +16079,46 @@
       "evidence_url": "https://www.zzrvtc.edu.cn/_upload/article/files/d3/62/c2fdfafb4398b245fd7746a33525/b8d708af-5e2a-4b46-847c-0c183eae094e.pdf",
       "evidence_note": "독립 공개 《續名醫類案》 PDF의 동일 孫竹野 의안이 ‘香薷、滑石、葛根，解暑止吐為君’으로 전재하며, 뒤 문장 ‘服三帖吐止’와도 일치한다.",
       "reason": "독립 공개 《續名醫類案》 PDF의 동일 孫竹野 의안이 ‘香薷、滑石、葛根，解暑止吐為君’으로 전재하며, 뒤 문장 ‘服三帖吐止’와도 일치한다."
+    },
+    {
+      "before": "從兄HT年五旬左脅痛手足抽搐不能步履",
+      "after": "從兄䤾年五旬左脅痛手足抽搐不能步履",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "jicheng 공개 원문 데이터의 동일 의안 제목에서 인명이 ‘從兄䤾’로 확인됨.",
+      "reason": "jicheng 공개 원문 데이터의 동일 의안 제목에서 인명이 ‘從兄䤾’로 확인됨."
+    },
+    {
+      "before": "從兄HT　，年近五十",
+      "after": "從兄䤾，年近五十",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "같은 공개 원문의 본문에도 ‘從兄䤾，年近五十’으로 직접 수록됨.",
+      "reason": "같은 공개 원문의 본문에도 ‘從兄䤾，年近五十’으로 직접 수록됨."
+    },
+    {
+      "before": "莫不HT　弄化機",
+      "after": "莫不簸弄化機",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "독립 공개 《孫文垣醫案》 서문에서 동일 구절이 ‘莫不簸弄化機’로 확인됨.",
+      "reason": "독립 공개 《孫文垣醫案》 서문에서 동일 구절이 ‘莫不簸弄化機’로 확인됨."
+    },
+    {
+      "before": "呼至口氣HTHT　出不能回",
+      "after": "呼至口氣𠷺𠷺出不能回",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "공개 원문의 동일 중풍 의안에서 의성어가 ‘口氣𠷺𠷺出不能回’로 직접 확인됨.",
+      "reason": "공개 원문의 동일 중풍 의안에서 의성어가 ‘口氣𠷺𠷺出不能回’로 직접 확인됨."
+    },
+    {
+      "before": "口邊HT　HT　然，間作吐",
+      "after": "口邊𠷺𠷺然，間作吐",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "같은 의안의 후속 문장도 ‘口邊𠷺𠷺然，間作吐’로 직접 확인됨.",
+      "reason": "같은 의안의 후속 문장도 ‘口邊𠷺𠷺然，間作吐’로 직접 확인됨."
     }
   ],
   "N/N045.txt": [
@@ -16569,6 +16609,76 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
       "evidence_note": "‘範金’은 틀로 쇠를 주조한다는 관용 표현.",
       "reason": "‘範金’은 틀로 쇠를 주조한다는 관용 표현."
+    },
+    {
+      "before": "曲　",
+      "after": "曲蘖",
+      "expected_count": 2,
+      "evidence": "술을 빚는 누룩을 뜻하는 정형어 曲蘖.",
+      "reason": "술을 빚는 누룩을 뜻하는 정형어 曲蘖."
+    },
+    {
+      "before": "入水捉　蜞為戲",
+      "after": "入水捉蟛蜞為戲",
+      "expected_count": 1,
+      "evidence": "물에서 잡는 게류 명칭 蟛蜞.",
+      "reason": "물에서 잡는 게류 명칭 蟛蜞."
+    },
+    {
+      "before": "投參　苓術補脾之藥",
+      "after": "投參芪苓術補脾之藥",
+      "expected_count": 1,
+      "evidence": "보기건비 약물 人參·黃芪·茯苓·白朮의 축약 열거 參芪苓術.",
+      "reason": "보기건비 약물 人參·黃芪·茯苓·白朮의 축약 열거 參芪苓術."
+    },
+    {
+      "before": "頸筋　勁",
+      "after": "頸筋強勁",
+      "expected_count": 1,
+      "evidence": "목 근육이 뻣뻣하다는 정형 표현 頸筋強勁.",
+      "reason": "목 근육이 뻣뻣하다는 정형 표현 頸筋強勁."
+    },
+    {
+      "before": "喉間　有聲",
+      "after": "喉間痰有聲",
+      "expected_count": 1,
+      "evidence": "토혈 후 담이 목구멍에서 소리 나는 병후 喉間痰有聲.",
+      "reason": "토혈 후 담이 목구멍에서 소리 나는 병후 喉間痰有聲."
+    },
+    {
+      "before": "批　導　",
+      "after": "批郤導窾",
+      "expected_count": 2,
+      "evidence": "《莊子》에서 유래한 고정 성어 批郤導窾이며 독립 사전·평행문 확인.",
+      "reason": "《莊子》에서 유래한 고정 성어 批郤導窾이며 독립 사전·평행문 확인."
+    },
+    {
+      "before": "微患飲　三十年",
+      "after": "微患飲癖三十年",
+      "expected_count": 1,
+      "evidence": "許叔微 본사방의 자술 병명 飲癖.",
+      "reason": "許叔微 본사방의 자술 병명 飲癖."
+    },
+    {
+      "before": "口往右　",
+      "after": "口往右喎",
+      "expected_count": 1,
+      "evidence": "반신불수에서 입이 오른쪽으로 비뚤어진 상태 口往右喎.",
+      "reason": "반신불수에서 입이 오른쪽으로 비뚤어진 상태 口往右喎."
+    },
+    {
+      "before": "從左而　於右",
+      "after": "從左而喎於右",
+      "expected_count": 1,
+      "evidence": "바로 앞 口往右喎와 이어지는 동일 증후.",
+      "reason": "바로 앞 口往右喎와 이어지는 동일 증후."
+    },
+    {
+      "before": "從左　右",
+      "after": "從左喎右",
+      "expected_count": 1,
+      "evidence": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥.",
+      "reason": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥."
     }
   ],
   "N/N046.txt": [
@@ -17058,6 +17168,90 @@
       "expected_count": 1,
       "reason": "문장 앞에서 공이 산수화를 잘 그렸다고 밝히고 ‘親繪一…贈予’라 하므로 그림 한 폭의 표준 양사 幀이 유일하게 문법·의미에 합치한다. jicheng 동일 문헌 공개 전문의 해당 HT occurrence와 대조했다. 단일자 복원이며 주변 문장은 보존한다.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/index.html"
+    },
+    {
+      "before": "不揣　昧",
+      "after": "不揣冒昧",
+      "expected_count": 1,
+      "evidence": "서문의 정형 겸사 不揣冒昧.",
+      "reason": "서문의 정형 겸사 不揣冒昧."
+    },
+    {
+      "before": "潮熱等　，投之",
+      "after": "潮熱等證，投之",
+      "expected_count": 1,
+      "evidence": "앞의 여러 증상을 묶는 等證.",
+      "reason": "앞의 여러 증상을 묶는 等證."
+    },
+    {
+      "before": "螈　",
+      "after": "螈瘛",
+      "expected_count": 5,
+      "evidence": "경련 병명 螈瘛이며 뒤의 痙厥과 병렬.",
+      "reason": "경련 병명 螈瘛이며 뒤의 痙厥과 병렬."
+    },
+    {
+      "before": "沉　若失",
+      "after": "沉痾若失",
+      "expected_count": 1,
+      "evidence": "고질이 사라졌다는 정형어 沉痾若失.",
+      "reason": "고질이 사라졌다는 정형어 沉痾若失."
+    },
+    {
+      "before": "夾有紫　，顧謂",
+      "after": "夾有紫斑，顧謂",
+      "expected_count": 1,
+      "evidence": "두창 초기에 보이는 자색 반점 紫斑.",
+      "reason": "두창 초기에 보이는 자색 반점 紫斑."
+    },
+    {
+      "before": "此布痘　閉",
+      "after": "此布痘壅閉",
+      "expected_count": 1,
+      "evidence": "화독이 막혀 두창이 투발하지 못하는 壅閉.",
+      "reason": "화독이 막혀 두창이 투발하지 못하는 壅閉."
+    },
+    {
+      "before": "致成　閉",
+      "after": "致成壅閉",
+      "expected_count": 1,
+      "evidence": "같은 단락에서 반복되는 병기 壅閉.",
+      "reason": "같은 단락에서 반복되는 병기 壅閉."
+    },
+    {
+      "before": "　何由消?痘何由透",
+      "after": "斑何由消?痘何由透",
+      "expected_count": 1,
+      "evidence": "앞의 紫斑 및 뒤의 痘와 대구되는 ‘斑何由消’.",
+      "reason": "앞의 紫斑 및 뒤의 痘와 대구되는 ‘斑何由消’."
+    },
+    {
+      "before": "春回　穀",
+      "after": "春回黍穀",
+      "expected_count": 3,
+      "evidence": "따뜻함이 돌아와 곡식이 소생한다는 정형 비유 春回黍穀.",
+      "reason": "따뜻함이 돌아와 곡식이 소생한다는 정형 비유 春回黍穀."
+    },
+    {
+      "before": "參　建中湯",
+      "after": "參芪建中湯",
+      "expected_count": 1,
+      "evidence": "처방명 參芪建中湯.",
+      "reason": "처방명 參芪建中湯."
+    },
+    {
+      "before": "體素清　",
+      "after": "體素清癯",
+      "expected_count": 2,
+      "evidence": "체격이 본래 마르고 수척하다는 정형 표현 清癯.",
+      "reason": "체격이 본래 마르고 수척하다는 정형 표현 清癯."
+    },
+    {
+      "before": "細辛　本",
+      "after": "細辛藁本",
+      "expected_count": 1,
+      "evidence": "두 신온해표 약재 細辛·藁本의 열거.",
+      "reason": "두 신온해표 약재 細辛·藁本의 열거."
     }
   ],
   "N/N048.txt": [
@@ -17162,6 +17356,69 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
       "evidence_note": "補氣溫陽 약명 열거 參、附、耆、朮.",
       "reason": "補氣溫陽 약명 열거 參、附、耆、朮."
+    },
+    {
+      "before": "起沉　而不誤人",
+      "after": "起沉痾而不誤人",
+      "expected_count": 1,
+      "evidence": "고질병을 고친다는 정형어 起沉痾.",
+      "reason": "고질병을 고친다는 정형어 起沉痾."
+    },
+    {
+      "before": "邪氣已橫　矣",
+      "after": "邪氣已橫恣矣",
+      "expected_count": 1,
+      "evidence": "사기가 거리낌 없이 번성한다는 橫恣.",
+      "reason": "사기가 거리낌 없이 번성한다는 橫恣."
+    },
+    {
+      "before": "藉寇兵而　盜糧",
+      "after": "藉寇兵而資盜糧",
+      "expected_count": 1,
+      "evidence": "도적에게 병기와 군량을 보탠다는 병렬 비유 資盜糧.",
+      "reason": "도적에게 병기와 군량을 보탠다는 병렬 비유 資盜糧."
+    },
+    {
+      "before": "諸子各　精論",
+      "after": "諸子各有精論",
+      "expected_count": 1,
+      "evidence": "여러 학자에게 각각 정밀한 논설이 있다는 문법상 유일한 보충.",
+      "reason": "여러 학자에게 각각 정밀한 논설이 있다는 문법상 유일한 보충."
+    },
+    {
+      "before": "中暑中　中熱",
+      "after": "中暑中暍中熱",
+      "expected_count": 1,
+      "evidence": "여름철 병증의 고전적 삼분 中暑·中暍·中熱.",
+      "reason": "여름철 병증의 고전적 삼분 中暑·中暍·中熱."
+    },
+    {
+      "before": "風濕　三氣合而為邪",
+      "after": "風濕寒三氣合而為邪",
+      "expected_count": 1,
+      "evidence": "《金匱》 역절 병인의 평행 구문 風濕寒三氣.",
+      "reason": "《金匱》 역절 병인의 평행 구문 風濕寒三氣."
+    },
+    {
+      "before": "商　颯然倏動",
+      "after": "商飆颯然倏動",
+      "expected_count": 1,
+      "evidence": "가을바람을 뜻하는 정형어 商飆.",
+      "reason": "가을바람을 뜻하는 정형어 商飆."
+    },
+    {
+      "before": "炎　如失矣",
+      "after": "炎歊如失矣",
+      "expected_count": 1,
+      "evidence": "찌는 듯한 더위를 뜻하는 연면어 炎歊.",
+      "reason": "찌는 듯한 더위를 뜻하는 연면어 炎歊."
+    },
+    {
+      "before": "土德無　，水邪不溢",
+      "after": "土德無疆，水邪不溢",
+      "expected_count": 1,
+      "evidence": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현.",
+      "reason": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현."
     }
   ],
   "N/N059.txt": [

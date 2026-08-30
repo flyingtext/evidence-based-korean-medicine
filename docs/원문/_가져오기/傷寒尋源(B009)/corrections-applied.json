@@ -404,5 +404,61 @@
     "expected_count": 1,
     "reason": "해당 자의 독음이 shū이고 본문도 바로 ‘音殊’라고 주음하므로 확정 가능하다.",
     "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+  },
+  {
+    "before": "窺其奧　",
+    "after": "窺其奧旨",
+    "expected_count": 1,
+    "evidence": "학설의 깊은 뜻을 엿본다는 정형 구문 窺其奧旨.",
+    "reason": "학설의 깊은 뜻을 엿본다는 정형 구문 窺其奧旨."
+  },
+  {
+    "before": "痙濕　篇",
+    "after": "痙濕暍篇",
+    "expected_count": 1,
+    "evidence": "《傷寒論》의 편명 痙濕暍篇.",
+    "reason": "《傷寒論》의 편명 痙濕暍篇."
+  },
+  {
+    "before": "衛氣弱名曰　",
+    "after": "衛氣弱名曰惵",
+    "expected_count": 1,
+    "evidence": "《傷寒論·辨脈法》 평행문 ‘衛氣弱，名曰惵’.",
+    "reason": "《傷寒論·辨脈法》 평행문 ‘衛氣弱，名曰惵’."
+  },
+  {
+    "before": "惡寒將自罷。　然微汗出",
+    "after": "惡寒將自罷。濈然微汗出",
+    "expected_count": 1,
+    "evidence": "태양에서 양명으로 전하는 정형 병후 濈然微汗出.",
+    "reason": "태양에서 양명으로 전하는 정형 병후 濈然微汗出."
+  },
+  {
+    "before": "全在　熱稀粥以助藥力",
+    "after": "全在啜熱稀粥以助藥力",
+    "expected_count": 1,
+    "evidence": "계지탕 복법 정문 啜熱稀粥以助藥力.",
+    "reason": "계지탕 복법 정문 啜熱稀粥以助藥力."
+  },
+  {
+    "before": "取其　微似有汗",
+    "after": "取其漐漐微似有汗",
+    "expected_count": 1,
+    "evidence": "계지탕 복법 정문 漐漐微似有汗.",
+    "reason": "계지탕 복법 정문 漐漐微似有汗."
+  },
+  {
+    "before": "病患　然汗出者",
+    "after": "病患濈然汗出者",
+    "expected_count": 1,
+    "evidence": "양명 전속 조문의 정형어 濈然汗出.",
+    "reason": "양명 전속 조문의 정형어 濈然汗出."
+  },
+  {
+    "before": "遍身　微似有汗",
+    "after": "遍身漐漐微似有汗",
+    "expected_count": 2,
+    "evidence": "계지탕 원문과 해설에 반복되는 정문 遍身漐漐微似有汗.",
+    "reason": "계지탕 원문과 해설에 반복되는 정문 遍身漐漐微似有汗."
   }
 ]

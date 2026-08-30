@@ -485,34 +485,9 @@
       "output_directory": "難經集注(A301)",
       "markdown_files": 7,
       "translation_units": 22,
-      "corrections_applied": 65,
+      "corrections_applied": 43,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '氣主\\u3000之。' (2/1)",
-        "교정 좌표 중첩: 20137:20138",
-        "교정 좌표 중첩: 21182:21183",
-        "교정 좌표 중첩: 32131:32132",
-        "교정 좌표 중첩: 33562:33563",
-        "교정 좌표 중첩: 33820:33821",
-        "교정 좌표 중첩: 33842:33843",
-        "교정 좌표 중첩: 38013:38014",
-        "교정 좌표 중첩: 38128:38129",
-        "교정 좌표 중첩: 38888:38889",
-        "교정 좌표 중첩: 42171:42172",
-        "교정 좌표 중첩: 49445:49446",
-        "교정 좌표 중첩: 55166:55167",
-        "교정 좌표 중첩: 59356:59357",
-        "교정 좌표 중첩: 61073:61074",
-        "교정 좌표 중첩: 62393:62394",
-        "교정 좌표 중첩: 62469:62470",
-        "교정 좌표 중첩: 62521:62522",
-        "교정 좌표 중첩: 62568:62569",
-        "교정 좌표 중첩: 62600:62601",
-        "교정 좌표 중첩: 62662:62663",
-        "교정 좌표 중첩: 67997:67998",
-        "교정 좌표 중첩: 71526:71527",
-        "교정 좌표 중첩: 76073:76074"
-      ]
+      "warnings": []
     },
     {
       "source_path": "A/A302.txt",
@@ -965,9 +940,12 @@
       "output_directory": "傷寒尋源(B009)",
       "markdown_files": 5,
       "translation_units": 189,
-      "corrections_applied": 51,
+      "corrections_applied": 59,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '心中懊\\u3000' (7/1)",
+        "교정 불일치: '手足\\u3000然汗出' (2/1)"
+      ]
     },
     {
       "source_path": "B/B010.txt",
@@ -10271,7 +10249,7 @@
       "output_directory": "孫文垣醫案(N038)",
       "markdown_files": 6,
       "translation_units": 398,
-      "corrections_applied": 105,
+      "corrections_applied": 110,
       "punctuated": false,
       "warnings": []
     },
@@ -10371,9 +10349,10 @@
       "output_directory": "寓意草(N045)",
       "markdown_files": 67,
       "translation_units": 67,
-      "corrections_applied": 61,
+      "corrections_applied": 70,
       "punctuated": false,
       "warnings": [
+        "교정 불일치: '曲\\u3000' (3/2)",
         "교정 좌표 중첩: 58537:58538"
       ]
     },
@@ -10392,7 +10371,7 @@
       "output_directory": "程杏軒醫案(N046)",
       "markdown_files": 11,
       "translation_units": 197,
-      "corrections_applied": 61,
+      "corrections_applied": 73,
       "punctuated": false,
       "warnings": []
     },
@@ -10431,7 +10410,7 @@
       "output_directory": "葉選醫衡(N048)",
       "markdown_files": 8,
       "translation_units": 83,
-      "corrections_applied": 13,
+      "corrections_applied": 22,
       "punctuated": false,
       "warnings": []
     },

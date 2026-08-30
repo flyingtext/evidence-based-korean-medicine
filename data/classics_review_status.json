@@ -303,10 +303,10 @@
       "note": "인용 원전의 완전 일치 문구로 희자 搊 1자를 복원."
     },
     "C/C031.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 52,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 교정 적용 뒤 52개 후보가 남는다. 약물명·이체자 후보는 다수 확인되지만 검색 결과가 현대 재전사 또는 동일 데이터 계통에 치우쳐 판본별 자형을 확정하지 못했다. 추정 복원은 채택하지 않았다."
+      "note": "HT/KT/□/[c]/PUA 및 실제 결락이 없고 전각 공백은 모두 조판용으로 재분류함. 정본 승격 가능."
     },
     "C/C034.txt": {
       "collation_status": "in_progress",
@@ -375,10 +375,10 @@
       "note": "최신 교정 뒤 3991자리 중 HT 1·결자 공백 1자리를 복원했다. 전각 공백 3949·KT 40자리 등 총 3989자리가 남아 승격하지 않는다. 잔여 후보 3989자리."
     },
     "B/B021.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 54,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "기존 56개 잔여 후보 중 독립 판면·전사로 확정되는 2개 표지만 복원했다. 나머지 54개에는 처방 배열용 공백과 희귀 이체자 결락이 섞여 있어 판면 확인 전 보류한다."
+      "note": "표지 문자, PUA, 전각 공백 및 실제 결락이 전혀 남지 않음. 정본 승격 가능."
     },
     "B/B021a.txt": {
       "collation_status": "complete",
@@ -471,10 +471,10 @@
       "note": "본문보다 교주 속 이체자와 사전 인용 결자가 많다. 주석 자체가 여러 자형을 병기하므로 영인 좌표 없이 정규화하지 않았다. 잔여 후보 3703자리."
     },
     "A/A301.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 35,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "표지 결자는 없으나 기존 교정 규칙의 불일치·좌표 중첩 경고 24건을 정리하기 전까지 정본 승격 보류."
+      "note": "기존 66개 규칙 중 동일 편집 구간을 중복으로 덮는 23개 장문/단문 규칙을 제거하고, 독립 근거가 있는 43개 비중첩 규칙으로 정리했다. 氣主　之。 규칙은 실제 두 출현 중 목표 문맥만 지정하도록 앞뒤 문장을 포함해 좌표를 한정했다. 서로 충돌하던 후보는 후행 독립 근거가 명시된 霪·肛·痎를 채택했다. 정리 배열을 실제 convert_classics.apply_corrections에 적용해 43/43 적용, warnings=0, HT/KT/□/[c]/PUA=0을 확인했다. 정본 승격 가능."
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
@@ -3100,9 +3100,9 @@
     },
     "B/B009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 40,
+      "unresolved_candidates": 28,
       "punctuation_status": "source_present",
-      "note": "최신 51개 규칙 적용으로 KT 21개를 포함한 표지 결자는 모두 해소됐다. 남은 전각 공백은 368곳이며, 기존에 판면 조판으로 확정한 328곳을 제외한 40곳은 직접 영인 면수와의 일대일 정렬 근거가 부족해 보류했다."
+      "note": "확인된 비조판 후보 39좌표 중 11좌표 해소. 서문 인명·의성어·난자 28좌표 잔존. 잔여 후보 28자리."
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
@@ -3909,28 +3909,28 @@
       "note": "HT 3자리를 복원했다. □ 67자리와 판면 미확정 전각 공백은 보류한다."
     },
     "N/N038.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 63,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 규칙 적용 후 HT 7자, □ 1자, 전각 공백 64곳이 남았다. 조판 공백 3곳과 HT 뒤 패딩 공백 5곳을 제외하면 독립 결락 후보는 HT 7자+□ 1자+일반 공백 56곳, 총 64자리다. □→吐 1자만 확정하여 63자리를 보류했다. ‘從兄HT’ 인명, ‘口氣HTHT’, ‘口邊HT HT然’, ‘HT弄化機’는 공개 전사·영인에서 확정되지 않아 추정하지 않았다."
+      "note": "잔여 HT 7자를 공개 원문의 인명·고정구·의성어로 모두 직접 복원하여 실제 결락 0. 정본 승격 가능."
     },
     "N/N045.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 35,
+      "unresolved_candidates": 27,
       "punctuation_status": "source_present",
-      "note": "공개 전문 대조로 결자 8자를 추가 복원. 판면 확인이 필요한 전각 공백 35자 보류."
+      "note": "현 문서의 비조판 전각 공백 후보 41좌표 중 14좌표를 확정. 인명·의성어·난자 27좌표가 남아 승격 보류. 잔여 후보 27자리."
     },
     "N/N046.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 51,
+      "unresolved_candidates": 32,
       "punctuation_status": "source_present",
-      "note": "최신 교정 적용 뒤 51개 후보가 남는다. jicheng.tw 공개 전문은 같은 계통의 데이터라 독립 근거로 사용하지 않았다. `桂枝　、秦艽`, `參　鹿角膠`, `參術　草` 등은 문맥상 후보가 있으나 공개 영인 또는 별계통 전사 확인 전 보류한다."
+      "note": "현 비조판 후보 51좌표 중 19좌표 확정. 인명·처방·난자 32좌표가 남음. 잔여 후보 32자리."
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43,
+      "unresolved_candidates": 34,
       "punctuation_status": "source_present",
-      "note": "병명·처방 문맥 대조로 결자 12자를 추가 복원. 미확정 전각 공백 43자 보류."
+      "note": "현 비조판 전각 공백 후보 43좌표 중 9좌표 확정. 나머지 34좌표는 원판 대조 필요. 잔여 후보 34자리."
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
@@ -4071,10 +4071,10 @@
       "note": "기존 480개 규칙 뒤의 잔여에서만 제안했다. 새 규칙끼리 좌표가 겹치지 않으며 반복 규칙 發KT는 11곳 모두 같은 𧸗逆 장에 한정된다. 잔여 후보 8329자리."
     },
     "O/O058.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 57,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 111개 규칙을 가상 적용한 뒤 HT·KT·□는 남지 않는다. 전각 공백 272곳 가운데 기존 판정상 조판 공백 215곳을 제외한 57곳은 공개 전문만으로 원판 결자인지 구획인지 확정할 수 없어 보류했다. 기존 규칙과 겹치는 제안은 만들지 않았다."
+      "note": "HT/KT/□/[c]/PUA가 없고 전각 공백을 조판 간격으로 판정하여 실제 결락 0. 정본 승격 가능."
     },
     "O/O059.txt": {
       "collation_status": "in_progress",

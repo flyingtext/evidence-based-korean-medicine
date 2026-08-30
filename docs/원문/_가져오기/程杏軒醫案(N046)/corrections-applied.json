@@ -485,5 +485,89 @@
     "expected_count": 1,
     "reason": "문장 앞에서 공이 산수화를 잘 그렸다고 밝히고 ‘親繪一…贈予’라 하므로 그림 한 폭의 표준 양사 幀이 유일하게 문법·의미에 합치한다. jicheng 동일 문헌 공개 전문의 해당 HT occurrence와 대조했다. 단일자 복원이며 주변 문장은 보존한다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/index.html"
+  },
+  {
+    "before": "不揣　昧",
+    "after": "不揣冒昧",
+    "expected_count": 1,
+    "evidence": "서문의 정형 겸사 不揣冒昧.",
+    "reason": "서문의 정형 겸사 不揣冒昧."
+  },
+  {
+    "before": "潮熱等　，投之",
+    "after": "潮熱等證，投之",
+    "expected_count": 1,
+    "evidence": "앞의 여러 증상을 묶는 等證.",
+    "reason": "앞의 여러 증상을 묶는 等證."
+  },
+  {
+    "before": "螈　",
+    "after": "螈瘛",
+    "expected_count": 5,
+    "evidence": "경련 병명 螈瘛이며 뒤의 痙厥과 병렬.",
+    "reason": "경련 병명 螈瘛이며 뒤의 痙厥과 병렬."
+  },
+  {
+    "before": "沉　若失",
+    "after": "沉痾若失",
+    "expected_count": 1,
+    "evidence": "고질이 사라졌다는 정형어 沉痾若失.",
+    "reason": "고질이 사라졌다는 정형어 沉痾若失."
+  },
+  {
+    "before": "夾有紫　，顧謂",
+    "after": "夾有紫斑，顧謂",
+    "expected_count": 1,
+    "evidence": "두창 초기에 보이는 자색 반점 紫斑.",
+    "reason": "두창 초기에 보이는 자색 반점 紫斑."
+  },
+  {
+    "before": "此布痘　閉",
+    "after": "此布痘壅閉",
+    "expected_count": 1,
+    "evidence": "화독이 막혀 두창이 투발하지 못하는 壅閉.",
+    "reason": "화독이 막혀 두창이 투발하지 못하는 壅閉."
+  },
+  {
+    "before": "致成　閉",
+    "after": "致成壅閉",
+    "expected_count": 1,
+    "evidence": "같은 단락에서 반복되는 병기 壅閉.",
+    "reason": "같은 단락에서 반복되는 병기 壅閉."
+  },
+  {
+    "before": "　何由消?痘何由透",
+    "after": "斑何由消?痘何由透",
+    "expected_count": 1,
+    "evidence": "앞의 紫斑 및 뒤의 痘와 대구되는 ‘斑何由消’.",
+    "reason": "앞의 紫斑 및 뒤의 痘와 대구되는 ‘斑何由消’."
+  },
+  {
+    "before": "春回　穀",
+    "after": "春回黍穀",
+    "expected_count": 3,
+    "evidence": "따뜻함이 돌아와 곡식이 소생한다는 정형 비유 春回黍穀.",
+    "reason": "따뜻함이 돌아와 곡식이 소생한다는 정형 비유 春回黍穀."
+  },
+  {
+    "before": "參　建中湯",
+    "after": "參芪建中湯",
+    "expected_count": 1,
+    "evidence": "처방명 參芪建中湯.",
+    "reason": "처방명 參芪建中湯."
+  },
+  {
+    "before": "體素清　",
+    "after": "體素清癯",
+    "expected_count": 2,
+    "evidence": "체격이 본래 마르고 수척하다는 정형 표현 清癯.",
+    "reason": "체격이 본래 마르고 수척하다는 정형 표현 清癯."
+  },
+  {
+    "before": "細辛　本",
+    "after": "細辛藁本",
+    "expected_count": 1,
+    "evidence": "두 신온해표 약재 細辛·藁本의 열거.",
+    "reason": "두 신온해표 약재 細辛·藁本의 열거."
   }
 ]

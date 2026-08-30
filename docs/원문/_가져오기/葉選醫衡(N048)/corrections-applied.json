@@ -100,5 +100,68 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
     "evidence_note": "補氣溫陽 약명 열거 參、附、耆、朮.",
     "reason": "補氣溫陽 약명 열거 參、附、耆、朮."
+  },
+  {
+    "before": "起沉　而不誤人",
+    "after": "起沉痾而不誤人",
+    "expected_count": 1,
+    "evidence": "고질병을 고친다는 정형어 起沉痾.",
+    "reason": "고질병을 고친다는 정형어 起沉痾."
+  },
+  {
+    "before": "邪氣已橫　矣",
+    "after": "邪氣已橫恣矣",
+    "expected_count": 1,
+    "evidence": "사기가 거리낌 없이 번성한다는 橫恣.",
+    "reason": "사기가 거리낌 없이 번성한다는 橫恣."
+  },
+  {
+    "before": "藉寇兵而　盜糧",
+    "after": "藉寇兵而資盜糧",
+    "expected_count": 1,
+    "evidence": "도적에게 병기와 군량을 보탠다는 병렬 비유 資盜糧.",
+    "reason": "도적에게 병기와 군량을 보탠다는 병렬 비유 資盜糧."
+  },
+  {
+    "before": "諸子各　精論",
+    "after": "諸子各有精論",
+    "expected_count": 1,
+    "evidence": "여러 학자에게 각각 정밀한 논설이 있다는 문법상 유일한 보충.",
+    "reason": "여러 학자에게 각각 정밀한 논설이 있다는 문법상 유일한 보충."
+  },
+  {
+    "before": "中暑中　中熱",
+    "after": "中暑中暍中熱",
+    "expected_count": 1,
+    "evidence": "여름철 병증의 고전적 삼분 中暑·中暍·中熱.",
+    "reason": "여름철 병증의 고전적 삼분 中暑·中暍·中熱."
+  },
+  {
+    "before": "風濕　三氣合而為邪",
+    "after": "風濕寒三氣合而為邪",
+    "expected_count": 1,
+    "evidence": "《金匱》 역절 병인의 평행 구문 風濕寒三氣.",
+    "reason": "《金匱》 역절 병인의 평행 구문 風濕寒三氣."
+  },
+  {
+    "before": "商　颯然倏動",
+    "after": "商飆颯然倏動",
+    "expected_count": 1,
+    "evidence": "가을바람을 뜻하는 정형어 商飆.",
+    "reason": "가을바람을 뜻하는 정형어 商飆."
+  },
+  {
+    "before": "炎　如失矣",
+    "after": "炎歊如失矣",
+    "expected_count": 1,
+    "evidence": "찌는 듯한 더위를 뜻하는 연면어 炎歊.",
+    "reason": "찌는 듯한 더위를 뜻하는 연면어 炎歊."
+  },
+  {
+    "before": "土德無　，水邪不溢",
+    "after": "土德無疆，水邪不溢",
+    "expected_count": 1,
+    "evidence": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현.",
+    "reason": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현."
   }
 ]

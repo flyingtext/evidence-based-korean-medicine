@@ -486,5 +486,68 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
     "evidence_note": "‘範金’은 틀로 쇠를 주조한다는 관용 표현.",
     "reason": "‘範金’은 틀로 쇠를 주조한다는 관용 표현."
+  },
+  {
+    "before": "入水捉　蜞為戲",
+    "after": "入水捉蟛蜞為戲",
+    "expected_count": 1,
+    "evidence": "물에서 잡는 게류 명칭 蟛蜞.",
+    "reason": "물에서 잡는 게류 명칭 蟛蜞."
+  },
+  {
+    "before": "投參　苓術補脾之藥",
+    "after": "投參芪苓術補脾之藥",
+    "expected_count": 1,
+    "evidence": "보기건비 약물 人參·黃芪·茯苓·白朮의 축약 열거 參芪苓術.",
+    "reason": "보기건비 약물 人參·黃芪·茯苓·白朮의 축약 열거 參芪苓術."
+  },
+  {
+    "before": "頸筋　勁",
+    "after": "頸筋強勁",
+    "expected_count": 1,
+    "evidence": "목 근육이 뻣뻣하다는 정형 표현 頸筋強勁.",
+    "reason": "목 근육이 뻣뻣하다는 정형 표현 頸筋強勁."
+  },
+  {
+    "before": "喉間　有聲",
+    "after": "喉間痰有聲",
+    "expected_count": 1,
+    "evidence": "토혈 후 담이 목구멍에서 소리 나는 병후 喉間痰有聲.",
+    "reason": "토혈 후 담이 목구멍에서 소리 나는 병후 喉間痰有聲."
+  },
+  {
+    "before": "批　導　",
+    "after": "批郤導窾",
+    "expected_count": 2,
+    "evidence": "《莊子》에서 유래한 고정 성어 批郤導窾이며 독립 사전·평행문 확인.",
+    "reason": "《莊子》에서 유래한 고정 성어 批郤導窾이며 독립 사전·평행문 확인."
+  },
+  {
+    "before": "微患飲　三十年",
+    "after": "微患飲癖三十年",
+    "expected_count": 1,
+    "evidence": "許叔微 본사방의 자술 병명 飲癖.",
+    "reason": "許叔微 본사방의 자술 병명 飲癖."
+  },
+  {
+    "before": "口往右　",
+    "after": "口往右喎",
+    "expected_count": 1,
+    "evidence": "반신불수에서 입이 오른쪽으로 비뚤어진 상태 口往右喎.",
+    "reason": "반신불수에서 입이 오른쪽으로 비뚤어진 상태 口往右喎."
+  },
+  {
+    "before": "從左而　於右",
+    "after": "從左而喎於右",
+    "expected_count": 1,
+    "evidence": "바로 앞 口往右喎와 이어지는 동일 증후.",
+    "reason": "바로 앞 口往右喎와 이어지는 동일 증후."
+  },
+  {
+    "before": "從左　右",
+    "after": "從左喎右",
+    "expected_count": 1,
+    "evidence": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥.",
+    "reason": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥."
   }
 ]
