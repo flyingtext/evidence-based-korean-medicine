@@ -54,6 +54,14 @@
       "after": "百會加搓承漿瀉，後用氣下",
       "expected_count": 1,
       "reason": "침구가결의 `承漿瀉` 용례와 해당 구절의 보사법 문맥이 일치한다. HT는 `瀉`의 변환 잔재로 판정한다."
+    },
+    {
+      "before": "雷風頭緊項強HT　，脅氣耳聾",
+      "after": "雷風頭緊項強急，脅氣耳聾",
+      "expected_count": 1,
+      "reason": "침구 주치의 고정 증후어 項強急 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1",
+      "evidence_note": "독립 침구 문헌이 頸項強急痛을 동일 증후어로 수록하며 운문·문법에도 急이 맞는다."
     }
   ],
   "K/K004.txt": [

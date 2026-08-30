@@ -40,6 +40,13 @@
       "expected_count": 1,
       "reason": "동일 문헌 공개 전문과 霢霂의 고정 연면어·평행 용례를 대조",
       "evidence_url": "https://cloudtcm.com/library/443/455780"
+    },
+    {
+      "before": "吳王劉淖關HT　女海魚為監",
+      "after": "吳王劉淖關中女海魚為監",
+      "expected_count": 1,
+      "evidence": "지명·인물 기사에서 ‘關中女’로 이어지는 문법과 문맥이 유일하며 HT 뒤의 전각 공백은 같은 결자 좌표.",
+      "reason": "지명·인물 기사에서 ‘關中女’로 이어지는 문법과 문맥이 유일하며 HT 뒤의 전각 공백은 같은 결자 좌표."
     }
   ],
   "A/A205.txt": [
@@ -38834,6 +38841,158 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E6%B0%A3%E7%A9%B4%E8%AB%96",
       "evidence_note": "집주의 정의문 ‘谿穀者，皮膚之分肉’.",
       "reason": "집주의 정의문 ‘谿穀者，皮膚之分肉’."
+    },
+    {
+      "before": "腹中穀HT　HT　。便溲難",
+      "after": "腹中穀穀。便溲難",
+      "expected_count": 1,
+      "evidence_url": "https://acupun.site/huangdineijing/lingshu26.html",
+      "evidence_note": "《靈樞·雜病》 동일 조문이 ‘腹中穀穀，便溲難’으로 확인됨.",
+      "reason": "《靈樞·雜病》 동일 조문이 ‘腹中穀穀，便溲難’으로 확인됨."
+    },
+    {
+      "before": "（HT　音穀）",
+      "after": "（穀音穀）",
+      "expected_count": 1,
+      "evidence_url": "https://acupun.site/huangdineijing/lingshu26.html",
+      "evidence_note": "바로 앞 원문 술어 ‘穀穀’과 음주가 일치함.",
+      "reason": "바로 앞 원문 술어 ‘穀穀’과 음주가 일치함."
+    },
+    {
+      "before": "而HT　HT　然如水濕之聲",
+      "after": "而穀穀然如水濕之聲",
+      "expected_count": 1,
+      "evidence_url": "https://www11.ihp.sinica.edu.tw/storage/w2_file/3127nvyWhap.pdf",
+      "evidence_note": "논문이 《靈樞·雜病》 원문을 ‘腹中穀穀’으로 직접 인용함.",
+      "reason": "논문이 《靈樞·雜病》 원문을 ‘腹中穀穀’으로 직접 인용함."
+    },
+    {
+      "before": "愉愉然。HT　HT　然。豆豆然",
+      "after": "愉愉然。旋旋然。豆豆然",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/tong-tian",
+      "evidence_note": "《靈樞·通天》의 음양화평인 형용이 ‘旋旋然’으로 전함.",
+      "reason": "《靈樞·通天》의 음양화평인 형용이 ‘旋旋然’으로 전함."
+    },
+    {
+      "before": "愉愉。和悅也。HT　HT　。",
+      "after": "愉愉。和悅也。旋旋。",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/tong-tian",
+      "evidence_note": "주석이 해설하는 직전 원문 ‘旋旋然’에 대응함.",
+      "reason": "주석이 해설하는 직전 원문 ‘旋旋然’에 대응함."
+    },
+    {
+      "before": "紛紛HT　HT　。終而復始",
+      "after": "紛紛俥俥。終而復始",
+      "expected_count": 1,
+      "evidence_url": "https://www.xn--9kr97fy4e51lwqq10lz60c.tw/NewChineseArtDownload.ashx?bid=3930",
+      "evidence_note": "돈황 의경 문헌 연구의 교록문에 동일 구절이 ‘紛紛俥俥，終而復始’로 확인됨.",
+      "reason": "돈황 의경 문헌 연구의 교록문에 동일 구절이 ‘紛紛俥俥，終而復始’로 확인됨."
+    },
+    {
+      "before": "紛紛HTHT者",
+      "after": "紛紛俥俥者",
+      "expected_count": 1,
+      "evidence_url": "https://www.xn--9kr97fy4e51lwqq10lz60c.tw/NewChineseArtDownload.ashx?bid=3930",
+      "evidence_note": "직전 경문 ‘紛紛俥俥’를 풀이하는 주석이므로 같은 글자로 확정함.",
+      "reason": "직전 경문 ‘紛紛俥俥’를 풀이하는 주석이므로 같은 글자로 확정함."
+    },
+    {
+      "before": "英、HT　也。謂齒白如玉HT　也",
+      "after": "英、華也。謂齒白如玉華也",
+      "expected_count": 1,
+      "evidence_url": "https://www.theqi.com/cmed/oldbook/book293/b293_01.html",
+      "evidence_note": "집주 평행 원문과 ‘英華’의 고정 훈석에 따라 華로 확정함.",
+      "reason": "집주 평행 원문과 ‘英華’의 고정 훈석에 따라 華로 확정함."
+    },
+    {
+      "before": "腸胃HT　辟",
+      "after": "腸胃㒤辟",
+      "expected_count": 2,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%92%A4&if=gb",
+      "evidence_note": "중국철학서전자화계획이 《靈樞》 동일 문장을 ‘腸胃㒤辟’으로 제시함.",
+      "reason": "중국철학서전자화계획이 《靈樞》 동일 문장을 ‘腸胃㒤辟’으로 제시함."
+    },
+    {
+      "before": "HT　、虛怯也。辟、僻積也",
+      "after": "㒤、虛怯也。辟、僻積也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng%2C_Volume_426_%281700-1725%29.djvu/56",
+      "evidence_note": "영인 인용문은 ‘腸胃聶辟’으로 전하며 㒤/聶 이체와 ‘虛怯’ 훈이 일치함.",
+      "reason": "영인 인용문은 ‘腸胃聶辟’으로 전하며 㒤/聶 이체와 ‘虛怯’ 훈이 일치함."
+    },
+    {
+      "before": "肩HT上處為天柱骨",
+      "after": "肩胛上處為天柱骨",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?if=gb&id=80829",
+      "evidence_note": "해부 부위의 고정어 ‘肩胛’와 문맥상 견갑골 상부 설명이 일치함.",
+      "reason": "해부 부위의 고정어 ‘肩胛’와 문맥상 견갑골 상부 설명이 일치함."
+    },
+    {
+      "before": "虛則欠KT　。小便遺數",
+      "after": "虛則欠㰦。小便遺數",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai",
+      "evidence_note": "《靈樞·經脈》 수태음 별락의 동일 조문은 ‘虛則欠㰦’로 전함.",
+      "reason": "《靈樞·經脈》 수태음 별락의 동일 조문은 ‘虛則欠㰦’로 전함."
+    },
+    {
+      "before": "虛則欠KT　。\n",
+      "after": "虛則欠㰦。\n",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai",
+      "evidence_note": "직전 경문을 반복 풀이한 부분이므로 㰦로 확정함.",
+      "reason": "직전 경문을 반복 풀이한 부분이므로 㰦로 확정함."
+    },
+    {
+      "before": "（KT　同數葉朔）",
+      "after": "（㰦同數葉朔）",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai",
+      "evidence_note": "해당 음주는 경문의 㰦에 대응함.",
+      "reason": "해당 음주는 경문의 㰦에 대응함."
+    },
+    {
+      "before": "（KT　音荒）",
+      "after": "（䀮音荒）",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E4%80%AE&if=gb",
+      "evidence_note": "본문에 이미 복원된 ‘目䀮䀮’의 음주이며 䀮의 음가와 일치함.",
+      "reason": "본문에 이미 복원된 ‘目䀮䀮’의 음주이며 䀮의 음가와 일치함."
+    },
+    {
+      "before": "（KT　音荒強上聲）",
+      "after": "（䀮音荒強上聲）",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E4%80%AE&if=gb",
+      "evidence_note": "본문 ‘目䀮䀮如無所見’에 붙은 음주로 䀮의 음가와 일치함.",
+      "reason": "본문 ‘目䀮䀮如無所見’에 붙은 음주로 䀮의 음가와 일치함."
+    },
+    {
+      "before": "KT　不得息",
+      "after": "噎不得息",
+      "expected_count": 2,
+      "evidence_url": "https://ctext.org/huangdi-neijing/ci-jie-zhen-xie",
+      "evidence_note": "《靈樞·刺節真邪》 동일 문맥과 뒤의 음주 ‘音噎’로 확정함.",
+      "reason": "《靈樞·刺節真邪》 동일 문맥과 뒤의 음주 ‘音噎’로 확정함."
+    },
+    {
+      "before": "必審其KT　。當瀉則瀉",
+      "after": "必審其診。當瀉則瀉",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/zhang-lun",
+      "evidence_note": "뒤 음주가 ‘之忍切，與胗同’이며 문맥도 진찰을 살핀다는 뜻이므로 診으로 확정함.",
+      "reason": "뒤 음주가 ‘之忍切，與胗同’이며 문맥도 진찰을 살핀다는 뜻이므로 診으로 확정함."
+    },
+    {
+      "before": "三日背KT　筋痛。小便閉",
+      "after": "三日背膂筋痛。小便閉",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/huangdi-neijing/biao-ben-bing-chuan-lun",
+      "evidence_note": "《素問·標本病傳論》 동일 조문이 ‘背膂筋痛，小便閉’로 전함.",
+      "reason": "《素問·標本病傳論》 동일 조문이 ‘背膂筋痛，小便閉’로 전함."
     }
   ],
   "A/A003.txt": [

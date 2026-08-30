@@ -129,7 +129,7 @@
       "output_directory": "素問六氣玄珠密語(A007)",
       "markdown_files": 18,
       "translation_units": 31,
-      "corrections_applied": 6,
+      "corrections_applied": 7,
       "punctuated": false,
       "warnings": []
     },
@@ -315,7 +315,7 @@
       "output_directory": "黃帝內經靈樞集注(A101)",
       "markdown_files": 10,
       "translation_units": 106,
-      "corrections_applied": 18,
+      "corrections_applied": 37,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '中焦出氣如露。上注\\u3000穀。而滲孫脈' (4/1)",
@@ -752,9 +752,11 @@
       "output_directory": "註解傷寒論(B001)",
       "markdown_files": 12,
       "translation_units": 37,
-      "corrections_applied": 20,
+      "corrections_applied": 38,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '小促（趙本無「\\u3000」字）其間' (0/1)"
+      ]
     },
     {
       "source_path": "B/B002.txt",
@@ -3060,7 +3062,7 @@
       "output_directory": "蘇沈良方(D007)",
       "markdown_files": 12,
       "translation_units": 234,
-      "corrections_applied": 7,
+      "corrections_applied": 11,
       "punctuated": false,
       "warnings": []
     },
@@ -3098,7 +3100,7 @@
       "output_directory": "史載之方(D009)",
       "markdown_files": 4,
       "translation_units": 61,
-      "corrections_applied": 5,
+      "corrections_applied": 7,
       "punctuated": false,
       "warnings": []
     },
@@ -7868,7 +7870,7 @@
       "output_directory": "跌打損傷回生集(J007)",
       "markdown_files": 4,
       "translation_units": 23,
-      "corrections_applied": 2,
+      "corrections_applied": 3,
       "punctuated": false,
       "warnings": []
     },
@@ -8297,7 +8299,7 @@
       "output_directory": "針灸神書(K011)",
       "markdown_files": 5,
       "translation_units": 425,
-      "corrections_applied": 8,
+      "corrections_applied": 9,
       "punctuated": false,
       "warnings": [
         "교정 좌표 중첩: 18396:18399"
@@ -11211,7 +11213,7 @@
       "output_directory": "中西匯通醫經精義(O015)",
       "markdown_files": 4,
       "translation_units": 33,
-      "corrections_applied": 35,
+      "corrections_applied": 36,
       "punctuated": false,
       "warnings": []
     },

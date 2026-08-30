@@ -448,9 +448,9 @@
     },
     "B/B001.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 22,
+      "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "직접 인용과 교감주로 6곳 제안."
+      "note": "현재 문서에는 HT/KT/□가 없지만 결자형 전각 공백이 남아 있었다. 위 19개 고유 규칙으로 21개 결자 좌표를 해소했으며, 柔痓·剛痓·暍 등 이체자 군과 기타 11좌표는 판본 표기 정책 확정 전 보류. 잔여 후보 11자리."
     },
     "B/B002a.txt": {
       "collation_status": "in_progress",
@@ -474,13 +474,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 35,
       "punctuation_status": "source_present",
-      "note": "최신 교정 적용 뒤 35개 후보가 남는다. `金銀　釧`, 장부·해부 명칭, 충류 명칭 등에는 유력한 이체자 후보가 있으나, 검색 가능한 독립 전사만으로 해당 판본의 자형을 확정할 수 없어 신규 규칙을 만들지 않았다."
+      "note": "표지 결자는 없으나 기존 교정 규칙의 불일치·좌표 중첩 경고 24건을 정리하기 전까지 정본 승격 보류."
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 31,
       "punctuation_status": "source_present",
-      "note": "경맥·골도 문헌 대조로 희자 12자를 추가 복원. 미확정 전각 공백·HT 31자 보류."
+      "note": "유일한 결자 2자가 공개 전사에서도 결락되어 영인 재판독 전에는 승격 불가. 잔여 후보 31자리."
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -496,9 +496,9 @@
     },
     "A/A101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 32,
+      "unresolved_candidates": 997,
       "punctuation_status": "source_present",
-      "note": "침구 고정 용어 대조로 희자 11자를 추가 복원. 미확정 외자 32자 보류."
+      "note": "고전 본문·음주·독립 연구 교록으로 28개 표지 문자를 해소했으나 잔여 15자는 영인 재판독이 필요함. 잔여 후보 997자리."
     },
     "A/A203.txt": {
       "collation_status": "complete",
@@ -538,9 +538,9 @@
     },
     "A/A007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 12,
+      "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "공개 고전 평행문으로 KT10과 HT2를 䀮䀮·燔燎·火燒·獬豸·侵으로 복원하고, 고정 연면어 霢霂 1곳을 추가 복원. 심하게 손상된 HT1과 연속 결락 □11은 동일 저본 영인 판독 전 보류."
+      "note": "현 적용본의 실제 표지는 HT 1·□ 11. HT는 해소했으나 ‘寒化一…丁亥中’ 사이 연속 □ 11칸은 공개 전사도 해당 구간을 온전히 제공하지 않아 보류. 잔여 후보 11자리."
     },
     "A/A009.txt": {
       "collation_status": "complete",
@@ -568,9 +568,9 @@
     },
     "D/D048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "unresolved_candidates": 1314,
       "punctuation_status": "source_present",
-      "note": "공개 평행문으로 色·密蒙花湯을 추가 복원. 직접 판면 근거가 없는 결자 1자는 보류."
+      "note": "癲狂 조문의 ‘先將病患綁伏，□當心下來三指灸’에서 □는 자세상 ‘背’일 가능성이 높다. 그러나 검색 가능한 《經驗丹方匯編》·《衛生備要》 전사에서 동일 문장을 찾지 못했고, 영인 판면 좌표도 확보하지 못해 확정하지 않았다. 잔여 후보 1314자리."
     },
     "E/E009.txt": {
       "collation_status": "complete",
@@ -639,10 +639,10 @@
       "note": "공개 영인 65–66쪽을 직접 대조해 人字·心字 설명에서 유실된 필획 24자(丨4·丿8·乀8·丶2·乚2)를 모두 복원함."
     },
     "J/J007.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "1859년 고전. HT·KT는 동일 고유 문장의 공개 전사로 𠜎·䙀 복원. 水火丹의 山□引은 山楂가 유력하나 직접 판면·독립 전사가 없어 □1 보류."
+      "note": "유일한 □를 山甲으로 복원했다. 남은 전각 공백은 처방 조판·항목 구분용이며 결락 표지는 없다. 정본 승격 가능."
     },
     "O/O014.txt": {
       "collation_status": "complete",
@@ -652,9 +652,9 @@
     },
     "K/K011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "unresolved_candidates": 181,
       "punctuation_status": "source_present",
-      "note": "침구가결의 HT를 瀉로 복원. 太醫院官 黃□ 인명 1자는 판면 근거 부족으로 보류."
+      "note": "項強急은 확정했다. 남은 ‘太醫院官黃□’은 인명인데 공개 전사도 □를 유지하고, 해당 명대 관원 이름을 확인할 독립 명부나 선명 영인을 찾지 못해 승격을 보류한다. 잔여 후보 181자리."
     },
     "A/A303.txt": {
       "collation_status": "complete",
@@ -723,10 +723,10 @@
       "note": "1892년 공개 석인본·사고본 계통과 jicheng 최신 전문으로 HT 7곳 복원. 전각 공백 1085곳 및 [u] 278쌍 감사, 잔여 깨진 표식 0."
     },
     "D/D009.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 3,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "KT 3곳 복원. 《素問》 영인으로 장문 탈락을 복원하고 水火相犯 앞 전자화 결자틀을 제거. 직접 판면 근거 없는 即□脈 1자와 此輕□□ 2자는 보류."
+      "note": "□ 세 자를 胃·劑以로 복원했다. 최신 교정 뒤 결락 표지는 0이며 남은 전각 공백은 조판용이다. 정본 승격 가능."
     },
     "P/P0011a.txt": {
       "collation_status": "complete",
@@ -3172,9 +3172,9 @@
     },
     "C/C008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 16,
+      "unresolved_candidates": 7,
       "punctuation_status": "source_present",
-      "note": "원대 고전이나 BMP 도판 16개 유실로 문헌 단위 보류"
+      "note": "본문 특수문자 결자는 없으나 pt1.bmp~pt7.bmp의 고유 도판 참조 7개가 남고 실제 자산은 전부 없음. 과거 audit의 16은 중복 참조 수로 보이며 실제 고유 유실 자산은 7개. 도판을 확보하거나 검증된 벡터 재현을 넣기 전 승격 불가. 잔여 후보 7자리."
     },
     "M/M111.txt": {
       "collation_status": "complete",
@@ -3322,9 +3322,9 @@
     },
     "D/D007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 20,
+      "unresolved_candidates": 16,
       "punctuation_status": "source_present",
-      "note": "북송 고전으로 권리는 안전. KT 7곳 복원했으나 무표지 탈자·OCR 결락이 다수 남아 전문 정렬 및 원 스캔 판독 전 승격 보류"
+      "note": "특수 표지는 없지만 전문에서 별도 표지 없는 탈자 20곳을 재확인했고 4곳을 평행문·처방명으로 확정. 動花□沸·龜蛇玄武 주변 등 16곳은 원 스캔 판독 전 보류. 잔여 후보 16자리."
     },
     "D/D031.txt": {
       "collation_status": "complete",
@@ -4006,9 +4006,9 @@
     },
     "O/O015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 32,
+      "unresolved_candidates": 27,
       "punctuation_status": "source_present",
-      "note": "蒸·臧 2자를 영인으로 복원. 최신 공백 감사 기준 결락 후보32곳(전각 공백21·□11)은 공개 전문도 동일 결락이라 판면 대조 전 보류."
+      "note": "절명으로 확정되는 4자만 복원하고, 전사 계통 전체에 공통된 7자 결락은 보류함. 잔여 후보 27자리."
     },
     "O/O046.txt": {
       "collation_status": "in_progress",

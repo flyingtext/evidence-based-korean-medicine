@@ -54,5 +54,33 @@
     "reason": "jicheng 공개 전문 대조로 KT 결자를 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
     "evidence_note": "대조문: 免其罪而購之"
+  },
+  {
+    "before": "久成內外瘴，痛楚，　肉赤脈等",
+    "after": "久成內外障，痛楚，胬肉赤脈等",
+    "expected_count": 1,
+    "evidence": "안과 병증의 정형 표현 內外障·胬肉赤脈이며 瘴은 OCR 오기.",
+    "reason": "안과 병증의 정형 표현 內外障·胬肉赤脈이며 瘴은 OCR 오기."
+  },
+  {
+    "before": "醋心。　癖氣塊",
+    "after": "醋心。癥癖氣塊",
+    "expected_count": 1,
+    "evidence": "심복 적취의 정형 병명 癥癖氣塊.",
+    "reason": "심복 적취의 정형 병명 癥癖氣塊."
+  },
+  {
+    "before": "大黃甘遂輩下之，　胸丸之類",
+    "after": "大黃甘遂輩下之，陷胸丸之類",
+    "expected_count": 1,
+    "evidence": "결흉 수증을 공하하는 처방명 陷胸丸이며 바로 뒤 평행문에 大陷胸丸이 확인됨.",
+    "reason": "결흉 수증을 공하하는 처방명 陷胸丸이며 바로 뒤 평행문에 大陷胸丸이 확인됨."
+  },
+  {
+    "before": "淨紙藉板床上，　令冷",
+    "after": "淨紙藉板床上，攤令冷",
+    "expected_count": 1,
+    "evidence": "볶은 약재를 판 위 종이에 펼쳐 식히는 조제 동작 攤令冷.",
+    "reason": "볶은 약재를 판 위 종이에 펼쳐 식히는 조제 동작 攤令冷."
   }
 ]

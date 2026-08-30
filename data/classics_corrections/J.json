@@ -15,6 +15,14 @@
       "reason": "동일 표제와 고유 문장의 공개 고전 전사로 깨진 외자를 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%B7%8C%E6%89%93%E6%90%8D%E5%82%B7%E5%9B%9E%E7%94%9F%E9%9B%86/index.html",
       "evidence_note": "卷二 표제와 본문이 跌打傷䙀膝로 일치함"
+    },
+    {
+      "before": "水酒調下，山□引",
+      "after": "水酒調下，山甲引",
+      "expected_count": 1,
+      "reason": "跌打·활혈 방제의 인경약 고정어와 독립 의안 대조",
+      "evidence_url": "https://pdf.fengshui86.com/wzpdf/8237294.pdf",
+      "evidence_note": "독립 공개 《續名醫類案》에 ‘以山甲引之’가 동일한 활혈·통락 인경 용법으로 수록된다. 山甲은 穿山甲의 약명 약칭이다."
     }
   ],
   "J/J003.txt": [
