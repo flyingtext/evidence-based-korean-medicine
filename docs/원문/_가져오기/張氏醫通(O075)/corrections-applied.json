@@ -7846,5 +7846,69 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%BC%B5%E6%B0%8F%E9%86%AB%E9%80%9A/index.html",
     "evidence_note": "O/O075.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "而膝KT　大痛",
+    "after": "而膝䯊大痛",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/601/75",
+    "evidence_note": "『醫學正傳』에 전하는 동일 虞恆德 의안의 평행문이 ‘膝䯊大痛’이다.",
+    "reason": "『醫學正傳』에 전하는 동일 虞恆德 의안의 평행문이 ‘膝䯊大痛’이다."
+  },
+  {
+    "before": "目KT　KT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 3,
+    "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+    "evidence_note": "『素問·藏氣法時論』 직접 평행문이 ‘目䀮䀮無所見’이다.",
+    "reason": "『素問·藏氣法時論』 직접 평행문이 ‘目䀮䀮無所見’이다."
+  },
+  {
+    "before": "目KT　KT無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 1,
+    "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+    "evidence_note": "공백 하나가 빠진 동일 내경 인용의 변형 좌표.",
+    "reason": "공백 하나가 빠진 동일 내경 인용의 변형 좌표."
+  },
+  {
+    "before": "治腎虛目KT　KT　如無所見",
+    "after": "治腎虛目䀮䀮如無所見",
+    "expected_count": 1,
+    "evidence_url": "https://www.hantopic.com/kjopp/2206/6.pdf",
+    "evidence_note": "경맥 증후 평행문에서 ‘目䀮䀮如無所見’이 확인된다.",
+    "reason": "경맥 증후 평행문에서 ‘目䀮䀮如無所見’이 확인된다."
+  },
+  {
+    "before": "身體強KT　KT　",
+    "after": "身體強𠘧𠘧",
+    "expected_count": 2,
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=en",
+    "evidence_note": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이며 본문과 처방부 두 곳이 동일하다.",
+    "reason": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이며 본문과 처방부 두 곳이 동일하다."
+  },
+  {
+    "before": "鼻淵鼻鼽。當□寒熱",
+    "after": "鼻淵鼻鼽。當分寒熱",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E8%BF%B0/10",
+    "evidence_note": "張路玉 인용 평행문이 ‘鼻淵、鼻鼽，當分寒熱’로 전한다.",
+    "reason": "張路玉 인용 평행문이 ‘鼻淵、鼻鼽，當分寒熱’로 전한다."
+  },
+  {
+    "before": "或□。人有服地黃湯",
+    "after": "或問。人有服地黃湯",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BD%8A%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
+    "evidence_note": "독립 평행문이 ‘或問曰：人有服地黃湯而渴仍不止者’로 전한다.",
+    "reason": "독립 평행문이 ‘或問曰：人有服地黃湯而渴仍不止者’로 전한다."
+  },
+  {
+    "before": "飲水□厭也",
+    "after": "飲水無厭也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BD%8A%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
+    "evidence_note": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다.",
+    "reason": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다."
   }
 ]

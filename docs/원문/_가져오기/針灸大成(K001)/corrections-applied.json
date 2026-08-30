@@ -2750,5 +2750,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
     "evidence_note": "K/K001.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "瘰　，目視KT　KT　，　瘧。",
+    "after": "瘰癧，目視䀮䀮，痎瘧。",
+    "expected_count": 1,
+    "reason": "독립 공개 영인의 동일 경혈 주치문 대조",
+    "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
+    "evidence_note": "공개 고전 영인에서 안증의 고정 표현을 目視䀮䀮로 확인했고, 동일 경혈 주치문의 瘰癧·痎瘧 문맥까지 일치한다."
   }
 ]

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "治青盲。目無所見。遠視KT　KT　。白翳覆瞳子面。",
+    "after": "治青盲。目無所見。遠視䀮䀮。白翳覆瞳子面。",
+    "expected_count": 1,
+    "reason": "독립 공개 영인의 巨髎 주치문 직접 대조",
+    "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
+    "evidence_note": "영인에 巨髎 조문이 治青盲無所見遠視䀮䀮으로 판독되어 고유 문맥이 일치한다."
+  },
+  {
+    "before": "治目視KT　KT　，冷淚。",
+    "after": "治目視䀮䀮，冷淚。",
+    "expected_count": 1,
+    "reason": "동일 안증 용어의 독립 고전 평행문 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "《黃帝內經》 공개 concordance가 目視䀮䀮를 그대로 수록하며, 뒤의 冷淚와 결합된 안증 문맥에도 부합한다."
+  }
+]

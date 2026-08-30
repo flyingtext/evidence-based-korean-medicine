@@ -1238,5 +1238,103 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E8%87%BA%E7%8E%89%E6%A1%88/index.html",
     "evidence_note": "O/O077.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "心HT　苦之",
+    "after": "心竊苦之",
+    "expected_count": 1,
+    "evidence": "心竊苦之는 ‘마음속으로 괴롭게 여기다’의 고전 정형 구문이며 문맥상 유일.",
+    "reason": "心竊苦之는 ‘마음속으로 괴롭게 여기다’의 고전 정형 구문이며 문맥상 유일."
+  },
+  {
+    "before": "面上有HT　。蓋覆不開",
+    "after": "面上有膜。蓋覆不開",
+    "expected_count": 1,
+    "evidence": "煎銀將化 때 표면에 생겨 덮이는 것은 膜이며 蓋覆不開와 직접 호응.",
+    "reason": "煎銀將化 때 표면에 생겨 덮이는 것은 膜이며 蓋覆不開와 직접 호응."
+  },
+  {
+    "before": "上呼下HT　者方是",
+    "after": "上呼下應者方是",
+    "expected_count": 1,
+    "evidence": "상하의 상응을 뜻하는 고정 성어 上呼下應.",
+    "reason": "상하의 상응을 뜻하는 고정 성어 上呼下應."
+  },
+  {
+    "before": "[h3]HT症門[/h3]",
+    "after": "[h3]厥症門[/h3]",
+    "expected_count": 1,
+    "evidence": "직후 정의 厥者逆也 및 手足逆冷과 일치.",
+    "reason": "직후 정의 厥者逆也 및 手足逆冷과 일치."
+  },
+  {
+    "before": "HT　者逆也",
+    "after": "厥者逆也",
+    "expected_count": 1,
+    "evidence": "《素問》 이래 厥者逆也의 병명 정의.",
+    "reason": "《素問》 이래 厥者逆也의 병명 정의."
+  },
+  {
+    "before": "HT　逆之脈",
+    "after": "厥逆之脈",
+    "expected_count": 1,
+    "evidence": "같은 절의 厥症·厥者와 연결되는 병증명 厥逆.",
+    "reason": "같은 절의 厥症·厥者와 연결되는 병증명 厥逆."
+  },
+  {
+    "before": "加HT　麥。小薊",
+    "after": "加瞿麥。小薊",
+    "expected_count": 1,
+    "evidence": "혈뇨·임증에 쓰는 약물 짝 瞿麥·小薊의 처방 문맥.",
+    "reason": "혈뇨·임증에 쓰는 약물 짝 瞿麥·小薊의 처방 문맥."
+  },
+  {
+    "before": "亦HT　有胎傷寒",
+    "after": "亦豈有胎傷寒",
+    "expected_count": 1,
+    "evidence": "앞뒤 반문 既然有胎瘧，亦豈有胎傷寒과 호응.",
+    "reason": "앞뒤 반문 既然有胎瘧，亦豈有胎傷寒과 호응."
+  },
+  {
+    "before": "土馬HT　（五錢有足者",
+    "after": "土馬騣（五錢有足者",
+    "expected_count": 1,
+    "evidence": "고전 약물명 土馬騣.",
+    "reason": "고전 약물명 土馬騣."
+  },
+  {
+    "before": "尾HT　。尾HT　行至泥丸",
+    "after": "尾閭。尾閭行至泥丸",
+    "expected_count": 1,
+    "evidence": "내단 수련의 표준 관문명 尾閭이며 尾閭에서 泥丸으로 운행하는 평행 설명. https://repository.dl.itc.u-tokyo.ac.jp/record/27345/files/ioc05802.pdf",
+    "reason": "내단 수련의 표준 관문명 尾閭이며 尾閭에서 泥丸으로 운행하는 평행 설명. https://repository.dl.itc.u-tokyo.ac.jp/record/27345/files/ioc05802.pdf"
+  },
+  {
+    "before": "泄者如水之泄也。勢猶HT　緩",
+    "after": "泄者如水之泄也。勢猶舒緩",
+    "expected_count": 1,
+    "evidence": "泄과 瀉의 세기를 대조하는 문장에서 直下와 반대되는 舒緩.",
+    "reason": "泄과 瀉의 세기를 대조하는 문장에서 直下와 반대되는 舒緩."
+  },
+  {
+    "before": "即時HT　強。不能屈伸",
+    "after": "即時攣強。不能屈伸",
+    "expected_count": 1,
+    "evidence": "풍사가 들어 근육이 굳어 굴신하지 못하는 정형 병증 攣強.",
+    "reason": "풍사가 들어 근육이 굳어 굴신하지 못하는 정형 병증 攣強."
+  },
+  {
+    "before": "小腹HT　上陰囊等處",
+    "after": "小腹臍上陰囊等處",
+    "expected_count": 1,
+    "evidence": "赤游丹이 나타나는 신체부위 열거 小腹、臍上、陰囊.",
+    "reason": "赤游丹이 나타나는 신체부위 열거 小腹、臍上、陰囊."
+  },
+  {
+    "before": "貓毛燒灰KT　之",
+    "after": "貓毛燒灰塗之",
+    "expected_count": 1,
+    "evidence": "분말을 침에 개어 바르는 앞 문장과 호응하는 외치 동사 塗之.",
+    "reason": "분말을 침에 개어 바르는 앞 문장과 호응하는 외치 동사 塗之."
   }
 ]
