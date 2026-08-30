@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "before": "濕腫淋HT　作聖丹",
+    "after": "濕腫淋瀝作聖丹",
+    "expected_count": 1,
+    "reason": "동일 문헌 공개 전사의 淋瀝 문맥을 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+  },
+  {
+    "before": "苗名蜀漆一HT　看",
+    "after": "苗名蜀漆一般看",
+    "expected_count": 1,
+    "reason": "동일 문헌 공개 전사의 一般看을 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+  },
+  {
+    "before": "六極乃HT　",
+    "after": "六極乃備",
+    "expected_count": 1,
+    "reason": "동일 문헌 공개 전사의 六極乃備를 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+  },
+  {
+    "before": "誦之無HT　。HT　猶厭也",
+    "after": "誦之無斁。斁猶厭也",
+    "expected_count": 1,
+    "reason": "본문 자체의 음훈 斁猶厭也와 공개 전사를 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+  },
+  {
+    "before": "甲己HT　天其色黃",
+    "after": "甲己黅天其色黃",
+    "expected_count": 1,
+    "reason": "운기 고정 용어 黅天을 공개 고전 전사로 대조",
+    "evidence_url": "https://www.shidianguji.com/book/NA05951/chapter/1kiiw5v18xwqy"
+  },
+  {
+    "before": "鳴HT　千聲復萬聲",
+    "after": "鳴蜩千聲復萬聲",
+    "expected_count": 1,
+    "reason": "鳴蜩 고전 어휘를 동일 문헌 공개 전사로 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+  },
+  {
+    "before": "目視KT　KT　氣不足",
+    "after": "目視䀮䀮氣不足",
+    "expected_count": 1,
+    "reason": "내경 계통의 目䀮䀮 고정 문구를 대조",
+    "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "項強KT　KT太陽病",
+    "after": "項強几几太陽病",
+    "expected_count": 1,
+    "reason": "《傷寒論》의 項背強几几 평행문을 대조",
+    "evidence_url": "https://ctext.org/shang-han-lun/zh"
+  }
+]

@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "before": "調勻要出□",
+    "after": "調勻要出針",
+    "expected_count": 1,
+    "reason": "침법 절차의 완결구 出針을 공개 고전 전사와 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+  },
+  {
+    "before": "百會□加在指中",
+    "after": "百會穴加在指中",
+    "expected_count": 1,
+    "reason": "경혈명 百會穴을 공개 고전 전사와 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+  },
+  {
+    "before": "承漿HT　",
+    "after": "承漿穴",
+    "expected_count": 1,
+    "reason": "경혈명 承漿穴을 공개 고전 전사와 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+  },
+  {
+    "before": "男女氣喘HT證",
+    "after": "男女氣喘癋證",
+    "expected_count": 1,
+    "reason": "동일 문헌 공개 전사의 氣喘癋證 표제를 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html"
+  },
+  {
+    "before": "有HT　無HT　",
+    "after": "有氣無氣",
+    "expected_count": 1,
+    "reason": "침 아래의 氣 유무를 설명하는 有氣無氣 문맥을 공개 전사로 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6"
+  }
+]

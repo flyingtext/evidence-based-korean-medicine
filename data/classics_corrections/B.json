@@ -1,4 +1,12 @@
 {
+  "B/B008.txt": [
+    {"before":"其人即KT　","after":"其人即䭇","expected_count":1,"reason":"본문 음훈 音壹과 냉수 조문의 䭇 증후를 대조"},
+    {"before":"故令氣KT　","after":"故令氣䭇","expected_count":1,"reason":"같은 외자와 氣䭇 내부 평행문을 대조"},
+    {"before":"其人則KT　","after":"其人則䭇","expected_count":2,"reason":"동일 문헌의 반복된 냉수 조문을 대조"},
+    {"before":"KT　KT　","after":"幾幾","expected_count":5,"reason":"《傷寒論》《金匱要略》의 項背強幾幾·身體強幾幾 평행문을 대조","evidence_url":"https://ctext.org/shang-han-lun/zh"},
+    {"before":"手足指皆HT　開","after":"手足指皆擘開","expected_count":1,"reason":"손가락이 벌어진다는 擘開의 완결 문맥을 공개 전사로 대조","evidence_url":"https://ctext.org/wiki.pl?chapter=929949&if=gb"},
+    {"before":"東晉中書令王　","after":"東晉中書令王珉","expected_count":1,"reason":"《重修政和證類本草》 공개 영인의 인명 王珉을 직접 대조","evidence_url":"https://zh.wikisource.org/wiki/Page:Sibu_Congkan0383-%E5%94%90%E6%85%8E%E5%BE%AE-%E9%87%8D%E4%BF%AE%E6%94%BF%E5%92%8C%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89-12-08.djvu/192"}
+  ],
   "B/B021a.txt": [
     {
       "before": "[c]rck[/c]",
