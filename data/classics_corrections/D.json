@@ -22,6 +22,29 @@
       "reason": "동일 안과 병증의 고정 처방명으로 연속 결자 2자를 복원",
       "evidence_url": "https://gushu.net.cn/book/%E4%B8%8D%E7%9F%A5%E9%86%AB%E5%BF%85%E8%A6%81/index.html",
       "evidence_note": "공개 의서의 안과 처방명이 密蒙花湯으로 일치함"
+    },
+    {
+      "before": "粒粒槍KT　起者真；色暗粒細，無槍KT　者假",
+      "after": "粒粒槍鋒起者真；色暗粒細，無槍鋒者假",
+      "expected_count": 1,
+      "reason": "진품·위품 판별의 내부 대구와 완결 어휘 槍鋒을 대조해 반복 결자를 복원",
+      "evidence_note": "동일 문장에서 粒粒槍鋒起者真과 無槍鋒者假가 정확한 대구를 이룸"
+    },
+    {
+      "before": "[u]　KT　癤：[/u]",
+      "after": "[u]螻蛄癤：[/u]",
+      "expected_count": 1,
+      "reason": "舊鞋燒灰 이하 네 처방이 독립 의서의 螻蛄癤·鱔拱癤 처방열과 연속 일치하여 표제 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html",
+      "evidence_note": "《瘍醫大全》 鱔拱頭門과 《驗方新編》이 동일 처방을 螻蛄癤 계열로 확인"
+    },
+    {
+      "before": "口上用舊KT　鐵絲覆瓶上",
+      "after": "口上用舊髻鐵絲覆瓶上",
+      "expected_count": 1,
+      "reason": "독립 평행 처방 2종의 연속 일치로 결자를 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html",
+      "evidence_note": "《本草綱目拾遺》와 《瘍醫大全》 모두 ‘口上用舊髻鐵絲覆…’로 전함"
     }
   ],
   "D/D069.txt": [
