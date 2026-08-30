@@ -123,6 +123,13 @@
       "reason": "jicheng 최신 전문 대조 KT 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
       "evidence_note": "百宋一胋 확인"
+    },
+    {
+      "before": "赤白相等者，□水火相犯其氣相等",
+      "after": "赤白相等者，水火相犯其氣相等",
+      "expected_count": 1,
+      "reason": "공개 고전 영인에서 결자 없이 水火相犯으로 인쇄되어 있어 전자화 결자틀을 제거",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/NLC892-GBZX0301013215-260823_%E5%8F%A4%E6%96%B9%E5%85%AB%E9%99%A3_%E5%85%AB%E5%8D%B7_%E7%AC%AC8%E5%86%8A.pdf"
     }
   ],
   "D/D065.txt": [
