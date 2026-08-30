@@ -1,13 +1,61 @@
 {
   "O/O049.txt": [
-    {"before":"濕腫淋HT　作聖丹","after":"濕腫淋瀝作聖丹","expected_count":1,"reason":"동일 문헌 공개 전사의 淋瀝 문맥을 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"},
-    {"before":"苗名蜀漆一HT　看","after":"苗名蜀漆一般看","expected_count":1,"reason":"동일 문헌 공개 전사의 一般看을 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"},
-    {"before":"六極乃HT　","after":"六極乃備","expected_count":1,"reason":"동일 문헌 공개 전사의 六極乃備를 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"},
-    {"before":"誦之無HT　。HT　猶厭也","after":"誦之無斁。斁猶厭也","expected_count":1,"reason":"본문 자체의 음훈 斁猶厭也와 공개 전사를 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"},
-    {"before":"甲己HT　天其色黃","after":"甲己黅天其色黃","expected_count":1,"reason":"운기 고정 용어 黅天을 공개 고전 전사로 대조","evidence_url":"https://www.shidianguji.com/book/NA05951/chapter/1kiiw5v18xwqy"},
-    {"before":"鳴HT　千聲復萬聲","after":"鳴蜩千聲復萬聲","expected_count":1,"reason":"鳴蜩 고전 어휘를 동일 문헌 공개 전사로 대조","evidence_url":"https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"},
-    {"before":"目視KT　KT　氣不足","after":"目視䀮䀮氣不足","expected_count":1,"reason":"내경 계통의 目䀮䀮 고정 문구를 대조","evidence_url":"https://ctext.org/huangdi-neijing/zh"},
-    {"before":"項強KT　KT太陽病","after":"項強几几太陽病","expected_count":1,"reason":"《傷寒論》의 項背強几几 평행문을 대조","evidence_url":"https://ctext.org/shang-han-lun/zh"}
+    {
+      "before": "濕腫淋HT　作聖丹",
+      "after": "濕腫淋瀝作聖丹",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전사의 淋瀝 문맥을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+    },
+    {
+      "before": "苗名蜀漆一HT　看",
+      "after": "苗名蜀漆一般看",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전사의 一般看을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+    },
+    {
+      "before": "六極乃HT　",
+      "after": "六極乃備",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전사의 六極乃備를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+    },
+    {
+      "before": "誦之無HT　。HT　猶厭也",
+      "after": "誦之無斁。斁猶厭也",
+      "expected_count": 1,
+      "reason": "본문 자체의 음훈 斁猶厭也와 공개 전사를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+    },
+    {
+      "before": "甲己HT　天其色黃",
+      "after": "甲己黅天其色黃",
+      "expected_count": 1,
+      "reason": "운기 고정 용어 黅天을 공개 고전 전사로 대조",
+      "evidence_url": "https://www.shidianguji.com/book/NA05951/chapter/1kiiw5v18xwqy"
+    },
+    {
+      "before": "鳴HT　千聲復萬聲",
+      "after": "鳴蜩千聲復萬聲",
+      "expected_count": 1,
+      "reason": "鳴蜩 고전 어휘를 동일 문헌 공개 전사로 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%9C%8B%E5%B0%8F/index.html"
+    },
+    {
+      "before": "目視KT　KT　氣不足",
+      "after": "目視䀮䀮氣不足",
+      "expected_count": 1,
+      "reason": "내경 계통의 目䀮䀮 고정 문구를 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "項強KT　KT太陽病",
+      "after": "項強几几太陽病",
+      "expected_count": 1,
+      "reason": "《傷寒論》의 項背強几几 평행문을 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    }
   ],
   "O/O036.txt": [
     {
@@ -22829,6 +22877,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%AD%E8%A5%BF%E5%8C%AF%E9%80%9A%E9%86%AB%E7%B6%93%E7%B2%BE%E7%BE%A9/index.html",
       "evidence_note": "O/O015.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "全憑氣化以出。又謂水入小腸。至闌門飛渡入膀胱。無從入之路也。故曰氣化。醫林改錯。深叱其謬。西醫云。水入於胃。散走膜膈。胃之四面。全有微絲管出水。水入膜膈。走肝膈。入腎系。腎主瀝溺。由腎系出。下走連網。膀胱附著連網。溺入之口。即在連網油膜中也。中國人見牲畜已死。膀胱油膜收縮。不見竅道。遂謂膀胱。有下口無上口。疏漏之至。西醫此說。誠足罵盡今醫。然持此以薄古聖。則斷斷不可。蓋內經明言。下焦當膀胱上口。又言三焦者。決瀆之官。水道出焉。內經所謂三焦。即西醫所謂。連網油膜是也。故焦字。從HT　從　後人改省作焦。乃不知為何物矣。溺出膀胱實則三焦主之而膀胱所主者。則在於生津液。腎中之陽蒸動膀胱之水於是水中之氣。上升則為津液氣著於物仍化為水氣出皮毛為汗。氣退場門鼻為涕為唾。游溢臟腑內外則統名津液。實由腎陽蒸於下膀胱之水。化而上行。故曰腎合膀胱。而膀胱。為腎生津液之府也。又詳下條。",
+      "after": "全憑氣化以出。又謂水入小腸。至闌門飛渡入膀胱。無從入之路也。故曰氣化。醫林改錯。深叱其謬。西醫云。水入於胃。散走膜膈。胃之四面。全有微絲管出水。水入膜膈。走肝膈。入腎系。腎主瀝溺。由腎系出。下走連網。膀胱附著連網。溺入之口。即在連網油膜中也。中國人見牲畜已死。膀胱油膜收縮。不見竅道。遂謂膀胱。有下口無上口。疏漏之至。西醫此說。誠足罵盡今醫。然持此以薄古聖。則斷斷不可。蓋內經明言。下焦當膀胱上口。又言三焦者。決瀆之官。水道出焉。內經所謂三焦。即西醫所謂。連網油膜是也。故焦字。從蒸從臧後人改省作焦。乃不知為何物矣。溺出膀胱實則三焦主之而膀胱所主者。則在於生津液。腎中之陽蒸動膀胱之水於是水中之氣。上升則為津液氣著於物仍化為水氣出皮毛為汗。氣退場門鼻為涕為唾。游溢臟腑內外則統名津液。實由腎陽蒸於下膀胱之水。化而上行。故曰腎合膀胱。而膀胱。為腎生津液之府也。又詳下條。",
+      "expected_count": 1,
+      "reason": "퍼블릭 도메인 영인 판독으로 구성자 복원",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/NLC511-034031612010066-54218_%E9%86%AB%E7%B6%93%E7%B2%BE%E7%BE%A9.pdf",
+      "evidence_note": "O/O015.txt:773 공개 고전 전사·영인 문맥 대조"
     }
   ],
   "O/O041.txt": [

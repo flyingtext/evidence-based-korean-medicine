@@ -1741,5 +1741,327 @@
       "reason": "jicheng 공개 전문 대조 외자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
     }
+  ],
+  "M/M100a.txt": [
+    {
+      "before": "左手關後尺中陰實者，腎實也，苦恍惚健忘，目視[c]buyvu[/c][c]buyvu[/c]，耳聾悵悵善鳴，刺足少陰經，",
+      "after": "左手關後尺中陰實者，腎實也，苦恍惚健忘，目視䀮䀮，耳聾悵悵善鳴，刺足少陰經，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:261 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "僵仆，目黃失精[c]buyvu[/c][c]buyvu[/c]。",
+      "after": "僵仆，目黃失精䀮䀮。",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:307 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "故用牢根株也）陽氣上出，汗見於頭，五月枯[c]tvvj[/c]，胞中空虛，醫反下之，此為重虛也，",
+      "after": "故用牢根株也）陽氣上出，汗見於頭，五月枯暍，胞中空虛，醫反下之，此為重虛也，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:559 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "（月當為內，[c]tvvj[/c]當為乾，枯燥也，皆字誤耳，內字似月，由來遠矣，遂以傳焉，",
+      "after": "（月當為內，暍當為乾，枯燥也，皆字誤耳，內字似月，由來遠矣，遂以傳焉，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:560 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "破[c]bwhd[/c]脫肉，毛悴色夭，死于冬。夏心火王，其脈洪大而散，",
+      "after": "破䐃脫肉，毛悴色夭，死于冬。夏心火王，其脈洪大而散，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:576 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "微大為痞氣裹大膿血在腸胃之外，小甚為寒熱，微小為消癉，滑甚為[c]khuc[/c]癃，",
+      "after": "微大為痞氣裹大膿血在腸胃之外，小甚為寒熱，微小為消癉，滑甚為㿉癃，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:654 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "微滑為蟲毒、蚘腸鳴熱，濇甚為腸[c]khuc[/c]，微濇為內潰，多下膿血也。足太陰氣絕，",
+      "after": "微滑為蟲毒、蚘腸鳴熱，濇甚為腸㿉，微濇為內潰，多下膿血也。足太陰氣絕，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:655 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "大甚為脛腫，微大為肺痹，引胸背起腰內，小甚為[c]mnoiv[/c]泄，微小為消癉，滑甚為息賁，",
+      "after": "大甚為脛腫，微大為肺痹，引胸背起腰內，小甚為飧泄，微小為消癉，滑甚為息賁，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:714 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "冬脈太過與不及，其病皆如何，岐伯曰，太過、則令人解[c]oylc[/c]，脊脈痛，而少氣，",
+      "after": "冬脈太過與不及，其病皆如何，岐伯曰，太過、則令人解㑊，脊脈痛，而少氣，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:759 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "不欲言，不及、則令人心懸如病飢，[c]bfh[/c]中 清，脊中痛，小腹滿，小便黃赤。腎脈來，",
+      "after": "不欲言，不及、則令人心懸如病飢，䏚中 清，脊中痛，小腹滿，小便黃赤。腎脈來，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:760 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "微小為消癉，滑甚為癃[c]khuc[/c]，微滑為骨痿，坐不能起，目無所見，視見黑花，",
+      "after": "微小為消癉，滑甚為癃㿉，微滑為骨痿，坐不能起，目無所見，視見黑花，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:776 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "尺內弱解[c]oylc[/c]（○按甲乙經內作肉），安臥脫肉者寒熱也，尺膚濇者風痹也，",
+      "after": "尺內弱解㑊（○按甲乙經內作肉），安臥脫肉者寒熱也，尺膚濇者風痹也，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:844 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "緊急者死。洩注，脈緩時小結者生，浮大數者死。[c]srlmi[/c]蝕陰疰，其脈虛小者生，",
+      "after": "緊急者死。洩注，脈緩時小結者生，浮大數者死。䘌蝕陰疰，其脈虛小者生，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1039 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "沈遲細者難治），病若目[c]buyvu[/c][c]buyvu[/c]，脈反大而緩者死。左有病而右痛，右有病而左痛，",
+      "after": "沈遲細者難治），病若目䀮䀮，脈反大而緩者死。左有病而右痛，右有病而左痛，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1220 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "皆第九椎五十壯。肝病者必兩脇下痛引小腹，令人善怒，虛則目[c]buyvu[/c][c]buyvu[/c]，無所見，",
+      "after": "皆第九椎五十壯。肝病者必兩脇下痛引小腹，令人善怒，虛則目䀮䀮，無所見，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1302 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "上注肺中，是動則病腰痛，不可以俛仰，丈夫[c]khuc[/c]疝，婦人小腹，腫甚則嗌乾面塵，",
+      "after": "上注肺中，是動則病腰痛，不可以俛仰，丈夫㿉疝，婦人小腹，腫甚則嗌乾面塵，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1310 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "下大迎合手少陽於[c]uumbc[/c]（一本云，別兌眥上迎手少陽於巔），下加頰車，下頸，",
+      "after": "下大迎合手少陽於䪼（一本云，別兌眥上迎手少陽於巔），下加頰車，下頸，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1327 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "常暮發熱，明日復止，小腸脹者，小腹[c]bjbc[/c]脹引腹而痛，厥氣客於小腸，則夢聚邑街衢。",
+      "after": "常暮發熱，明日復止，小腸脹者，小腹䐜脹引腹而痛，厥氣客於小腸，則夢聚邑街衢。",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1390 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "其支者，別頰，上[c]uumbc[/c]，抵鼻，至目內眥，斜絡於顴，是動則病嗌痛，頷腫不可以顧，",
+      "after": "其支者，別頰，上䪼，抵鼻，至目內眥，斜絡於顴，是動則病嗌痛，頷腫不可以顧，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1394 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "三日之膀胱，背[c]brhr[/c]筋痛，小便閉，十日不已，死冬人定夏晏食。脾脈搏堅而長，",
+      "after": "三日之膀胱，背膂筋痛，小便閉，十日不已，死冬人定夏晏食。脾脈搏堅而長，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1403 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "背[c]brhr[/c]筋痛，小便閉，五日上之脾，閉塞不通，身痛體重（靈樞云上之心），",
+      "after": "背膂筋痛，小便閉，五日上之脾，閉塞不通，身痛體重（靈樞云上之心），",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1453 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "是為骭（一作[c]bbhon[/c]）厥，是主血（血一作胃）所生病者，",
+      "after": "是為骭（一作腨）厥，是主血（血一作胃）所生病者，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1468 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "並太陰之經，直入掌中，散入於魚際，其實則手兌掌起，虛則欠[c]gino[/c]，小便遺數，",
+      "after": "並太陰之經，直入掌中，散入於魚際，其實則手兌掌起，虛則欠㰦，小便遺數，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1508 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "還出俠口交人中，左之右，右之左，上俠鼻孔，是動，則病齒痛[c]uumbc[/c]腫，",
+      "after": "還出俠口交人中，左之右，右之左，上俠鼻孔，是動，則病齒痛頸腫，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1520 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "三日之膀胱，背[c]brhr[/c]筋痛，小便閉，二日上之心，心痛，三日之小腸，脹，四日不已死，",
+      "after": "三日之膀胱，背膂筋痛，小便閉，二日上之心，心痛，三日之小腸，脹，四日不已死，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1529 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "面黑如炭色（一作地色），欬唾，則有血，喉鳴而喘，坐而欲起，目[c]buyvu[/c][c]buyvu[/c]無所見，",
+      "after": "面黑如炭色（一作地色），欬唾，則有血，喉鳴而喘，坐而欲起，目䀮䀮無所見，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1553 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "病先發於膀胱者，背[c]brhr[/c]筋痛，小便閉，五日之腎，少腹腰脊痛，脛痠，一日之小腸，",
+      "after": "病先發於膀胱者，背膂筋痛，小便閉，五日之腎，少腹腰脊痛，脛痠，一日之小腸，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1566 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "俠耳後直上出耳上角，以屈下額（一作頞），至[c]uumbc[/c]，其支者，從耳後入耳中，",
+      "after": "俠耳後直上出耳上角，以屈下額（一作頞），至䪼，其支者，從耳後入耳中，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1585 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "虛者不可下，微則為欬，欬則吐涎沫，下之欬則止而利不休[c]ukb[/c]中如蟲齧粥，入則出，",
+      "after": "虛者不可下，微則為欬，欬則吐涎沫，下之欬則止而利不休胸中如蟲齧粥，入則出，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:1776 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "傍[c]jdok[/c]（傍[c]jdok[/c]大素作倚），煩悶、乾、脣嗌，取之以第一鍼五十九，膚脹口乾寒汗。",
+      "after": "傍倚（傍倚大素作倚），煩悶、乾、脣嗌，取之以第一鍼五十九，膚脹口乾寒汗。",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2043 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "水得寒氣，冷必相搏，其人即[c]oipgr[/c]。寸口脈濡而弱，濡即惡寒，弱即發熱，濡弱相搏，",
+      "after": "水得寒氣，冷必相搏，其人即䭇。寸口脈濡而弱，濡即惡寒，弱即發熱，濡弱相搏，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2068 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "熱病腹滿[c]bjbc[/c]脹，身熱者，不得大小便，脈濇小疾，一逆見、死。熱病腸鳴腹滿，",
+      "after": "熱病腹滿䐜脹，身熱者，不得大小便，脈濇小疾，一逆見、死。熱病腸鳴腹滿，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2185 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "遲則為寒，緩則為虛，榮緩則為亡血，衛遲則為中風，邪氣中經，則身癢而癮[c]kjjh[/c]，",
+      "after": "遲則為寒，緩則為虛，榮緩則為亡血，衛遲則為中風，邪氣中經，則身癢而癮疹，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2308 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "浮則為風，洪則為氣，風氣相搏，風強則為癮[c]kjjh[/c]，身體為癢，癢為泄風，久為痂癩，",
+      "after": "浮則為風，洪則為氣，風氣相搏，風強則為癮疹，身體為癢，癢為泄風，久為痂癩，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2350 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "傷爛，目[c]buyvu[/c][c]buyvu[/c]，骨中寒，主髓厥，善忘，其色黑。寸口脈沈而橫者，",
+      "after": "傷爛，目䀮䀮，骨中寒，主髓厥，善忘，其色黑。寸口脈沈而橫者，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2486 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "喘而頭痛，竹葉湯主之。婦人產後，腹中[c]kmvs[/c]痛，可與當歸羊肉湯。師曰產婦腹痛，",
+      "after": "喘而頭痛，竹葉湯主之。婦人產後，腹中㽲痛，可與當歸羊肉湯。師曰產婦腹痛，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2746 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "病，但苦背痛，時時腹中痛，少食多厭，喜[c]bjbc[/c]脹，其脈陽微關尺小緊，形脈不相應，",
+      "after": "病，但苦背痛，時時腹中痛，少食多厭，喜䐜脹，其脈陽微關尺小緊，形脈不相應，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2761 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "婦人少腹[c]mrapp[/c]（音袞）磊（力罪切），轉痛而復自解，發作無常，經反斷，",
+      "after": "婦人少腹䍽（音袞）磊（力罪切），轉痛而復自解，發作無常，經反斷，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2773 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "欲以腹按冷清也。小兒大便赤，青瓣，[c]mnoiv[/c]洩，脈小，手足寒，難已，脈小，手足溫，",
+      "after": "欲以腹按冷清也。小兒大便赤，青瓣，飧洩，脈小，手足寒，難已，脈小，手足溫，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2859 공개 고전 전사·영인 문맥 대조"
+    },
+    {
+      "before": "惡風、偏枯、僵仆、羊鳴、[c]ksrb[/c]痹、皮膚身體強（一作淫痹），直取陽蹻，",
+      "after": "惡風、偏枯、僵仆、羊鳴、痿痹、皮膚身體強（一作淫痹），直取陽蹻，",
+      "expected_count": 1,
+      "reason": "고전 평행문과 공개 송본 전사로 외자 코드 복원",
+      "evidence_url": "https://www.kanripo.org/text/KR3e0013/086",
+      "evidence_note": "M/M100a.txt:2900 공개 고전 전사·영인 문맥 대조"
+    }
   ]
 }
