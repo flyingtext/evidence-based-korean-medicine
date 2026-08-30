@@ -2414,11 +2414,11 @@
     },
     {
       "before": "[c]bppg[/c]",
-      "after": "肶",
+      "after": "䏶",
       "expected_count": 1,
-      "reason": "《千金方》 계통과 저장소 평행문의 약물명 雞肶胵을 대조",
+      "reason": "동일 외자 코드와 고전 약물명 雞䏶胵을 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%A0%A1%E8%A8%BB%E5%A9%A6%E4%BA%BA%E8%89%AF%E6%96%B9/index.html",
-      "evidence_note": "雞肶胵"
+      "evidence_note": "외자 코드 bppg의 일관된 해독값 䏶 및 雞䏶胵 용례"
     },
     {
       "before": "[c]iflii[/c]",
@@ -6256,6 +6256,32 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%B6%93%E7%B6%B8/index.html",
       "evidence_note": "G/G017.txt: 좌우 한자 각 14자 고유 일치"
+    }
+  ],
+  "G/G017a.txt": [
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 4,
+      "reason": "동일 외자 코드 대응과 《金匱要略》의 임신·산후 㽲痛 조문을 대조",
+      "evidence_url": "https://zh.wikisource.org/wiki/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/%E5%A9%A6%E4%BA%BA%E5%A6%8A%E5%A8%A0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E7%AC%AC%E4%BA%8C%E5%8D%81",
+      "evidence_note": "婦人懷妊，腹中㽲痛 및 產後腹中㽲痛"
+    },
+    {
+      "before": "[c]srlii[/c]",
+      "after": "䘌",
+      "expected_count": 3,
+      "reason": "동일 외자 코드와 濕䘌·䘌瘡·疳䘌의 고전 병명 어휘군을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E9%A1%9E%E6%96%B9/index.html",
+      "evidence_note": "陰中生蟲䘌·䘌瘡·疳䘌"
+    },
+    {
+      "before": "[c]khuc[/c]",
+      "after": "㿗",
+      "expected_count": 1,
+      "reason": "동일 외자 코드 대응과 고전 병명 㿗疝을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%B7%BA%E8%A8%BB/index.html",
+      "evidence_note": "子臟腸㿗"
     }
   ],
   "G/G018.txt": [
