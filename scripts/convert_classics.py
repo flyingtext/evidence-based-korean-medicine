@@ -23,6 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_SOURCE = ROOT.parent / "source"
 DEFAULT_OUTPUT = ROOT / "docs" / "원문" / "_가져오기"
 DEFAULT_CORRECTIONS = ROOT / "data" / "classics_corrections.json"
+DEFAULT_METADATA_OVERRIDES = ROOT / "data" / "classics_metadata_overrides.json"
 BOOK_RE = re.compile(r"\[book\](.*?)\[/book\]", re.DOTALL | re.IGNORECASE)
 LEGACY_CATALOG_RE = re.compile(
     r"\A(?P<metadata>.*?)\s*<目錄>\s*<篇名>(?P<title>[^\n]+)\s*"
@@ -95,7 +96,11 @@ def parse_metadata(block: str) -> dict[str, str]:
     return result
 
 
-def load_book(path: Path, source_root: Path) -> Book:
+def load_book(
+    path: Path,
+    source_root: Path,
+    metadata_overrides: dict[str, dict[str, str]] | None = None,
+) -> Book:
     raw = path.read_bytes()
     text = raw.decode("utf-8-sig").replace("\r\n", "\n").replace("\r", "\n")
     match = BOOK_RE.search(text)
@@ -111,9 +116,18 @@ def load_book(path: Path, source_root: Path) -> Book:
             metadata["更新"] = legacy.group("updated").strip()
         body = f'[h1]{legacy.group("title").strip()}[/h1]\n{legacy.group("body").strip()}'
     rel = path.relative_to(source_root).as_posix()
+    if metadata_overrides is None and DEFAULT_METADATA_OVERRIDES.exists():
+        metadata_overrides = json.loads(DEFAULT_METADATA_OVERRIDES.read_text(encoding="utf-8"))
+    override = (metadata_overrides or {}).get(rel, {})
+    if not isinstance(override, dict) or not all(
+        isinstance(key, str) and isinstance(value, str)
+        for key, value in override.items()
+    ):
+        raise ValueError(f"유효하지 않은 메타데이터 오버레이: {rel}")
+    metadata.update(override)
     key = path.stem
     warnings: list[str] = []
-    if not match:
+    if not match and not override:
         warnings.append("book 메타데이터 없음")
     if not (metadata.get("書名") or metadata.get("篇名")):
         warnings.append("서명 없음")
@@ -479,11 +493,18 @@ def main() -> int:
     parser.add_argument("--include", action="append", default=[], help="원본 상대경로 정규식(반복 가능)")
     parser.add_argument("--catalog-only", action="store_true")
     parser.add_argument("--corrections", type=Path, default=DEFAULT_CORRECTIONS)
+    parser.add_argument("--metadata-overrides", type=Path, default=DEFAULT_METADATA_OVERRIDES)
     args = parser.parse_args()
     source = args.source.resolve()
     output = args.output.resolve()
     output.mkdir(parents=True, exist_ok=True)
-    books = [load_book(path, source) for path in discover(source, args.include)]
+    metadata_overrides = {}
+    if args.metadata_overrides.exists():
+        metadata_overrides = json.loads(args.metadata_overrides.read_text(encoding="utf-8"))
+    books = [
+        load_book(path, source, metadata_overrides)
+        for path in discover(source, args.include)
+    ]
     corrections = {}
     if args.corrections.exists():
         corrections = json.loads(args.corrections.read_text(encoding="utf-8"))

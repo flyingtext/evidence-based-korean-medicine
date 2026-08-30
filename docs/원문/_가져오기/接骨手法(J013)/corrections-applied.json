@@ -1,0 +1,42 @@
+[
+  {
+    "before": "或出或折但KT　平",
+    "after": "或出或折但㩒平",
+    "expected_count": 1,
+    "reason": "jicheng 최신 정리본 대조 깨진 토큰 및 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%8E%A5%E9%AA%A8%E6%89%8B%E6%B3%95/index.html",
+    "evidence_note": "jicheng.tw 본문: 或出或折但㩒平"
+  },
+  {
+    "before": "就將圍藥濃攤勻",
+    "after": "就將圍藥厚攤勻",
+    "expected_count": 1,
+    "reason": "jicheng 최신 정리본 대조 오자 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%8E%A5%E9%AA%A8%E6%89%8B%E6%B3%95/index.html",
+    "evidence_note": "jicheng.tw 본문: 就將圍藥厚攤勻"
+  },
+  {
+    "before": "更用桑皮按KT　平",
+    "after": "更用桑皮按㩒平",
+    "expected_count": 1,
+    "reason": "jicheng 최신 정리본 대조 깨진 토큰 및 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%8E%A5%E9%AA%A8%E6%89%8B%E6%B3%95/index.html",
+    "evidence_note": "jicheng.tw 본문: 更用桑皮按㩒平"
+  },
+  {
+    "before": "急將手去KT　須平",
+    "after": "急將手去㩒須平",
+    "expected_count": 1,
+    "reason": "jicheng 최신 정리본 대조 깨진 토큰 및 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%8E%A5%E9%AA%A8%E6%89%8B%E6%B3%95/index.html",
+    "evidence_note": "jicheng.tw 본문: 急將手去㩒須平"
+  },
+  {
+    "before": "如包脹腫並血　，銀針",
+    "after": "如包脹腫並血疱，銀針",
+    "expected_count": 1,
+    "reason": "jicheng 최신 정리본 대조 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%8E%A5%E9%AA%A8%E6%89%8B%E6%B3%95/index.html",
+    "evidence_note": "jicheng.tw 본문: 如包脹腫並血疱，銀針挑破生肌抹"
+  }
+]
