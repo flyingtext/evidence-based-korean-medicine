@@ -1,5 +1,13 @@
 [
   {
+    "before": "血泄，鼽衄，善悲。□□時眩仆，腹滿，手熱",
+    "after": "血泄，鼽衄，善悲，時眩仆。運火炎烈，雨暴乃雹，胸腹滿，手熱",
+    "expected_count": 1,
+    "reason": "《素問·六元正紀大論》 공개 영인과 독립 concordance를 대조해 잘못 삽입된 결자틀을 제거하고 장문 탈락을 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/SSID-13351608_%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F_%E5%8D%B78%E4%B8%8B-%E5%8D%B79.pdf",
+    "evidence_note": "‘善悲時眩仆。運火炎烈，雨暴乃雹，胸腹滿’이 판면과 평행문에서 일치"
+  },
+  {
     "before": "眼澀KT　急",
     "after": "眼澀𧌴急",
     "expected_count": 1,
