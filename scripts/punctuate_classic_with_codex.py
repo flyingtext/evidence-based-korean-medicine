@@ -284,11 +284,22 @@ def load_checkpoint(path: Path, identity: dict[str, Any], count: int) -> dict[st
     if not path.exists():
         return {"identity": identity, "chunks": [None] * count}
     data = json.loads(path.read_text(encoding="utf-8"))
-    if data.get("identity") != identity:
+    saved_identity = data.get("identity")
+    comparable_saved = dict(saved_identity) if isinstance(saved_identity, dict) else {}
+    comparable_current = dict(identity)
+    # 다른 문헌의 교정 추가로 전역 corrections 파일 해시만 바뀌어도 기존
+    # 체크포인트를 재사용할 수 있다. 아래 처리 루프가 저장 청크의 비표점
+    # 문자 배열을 현재 입력과 다시 비교하므로, 해당 문헌 교정이 달라진
+    # 경우의 오래된 청크도 자동으로 재생성된다.
+    for key in ("corrections_sha256", "applied_corrections"):
+        comparable_saved.pop(key, None)
+        comparable_current.pop(key, None)
+    if comparable_saved != comparable_current:
         raise RuntimeError(f"입력 또는 실행 설정과 맞지 않는 체크포인트입니다: {path}")
     chunks = data.get("chunks")
     if not isinstance(chunks, list) or len(chunks) != count:
         raise RuntimeError(f"청크 수가 맞지 않는 체크포인트입니다: {path}")
+    data["identity"] = identity
     return data
 
 
