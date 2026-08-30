@@ -58,5 +58,11 @@
     "expected_count": 1,
     "reason": "퍼블릭 도메인 《公門果報錄》 동일 처방 대조",
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%85%AC%E9%96%80%E6%9E%9C%E5%A0%B1%E9%8C%84"
+  },
+  {
+    "before": "或枯干、或黑軟，KT　不明潤，可辨。",
+    "after": "或枯干、或黑軟，色不明潤，可辨。",
+    "expected_count": 1,
+    "reason": "문법과 병증의 색택 판별 문맥상 `色不明潤`으로 유일하게 연결된다. KT 표시는 문자 인코딩 잔재로 판정한다."
   }
 ]

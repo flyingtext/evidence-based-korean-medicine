@@ -69,10 +69,10 @@
       "note": "청대 고전. 결자102곳 교정; 공백2540·HT1 판독 전 보류"
     },
     "N/N003a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "청대 고전. [c] 외자 13곳을 䐜 10자·㿠 2자·塌 1자로 복원. ‘煮三杯，分三次服’이 유력한 복용법 공백 2곳은 직접 판면 판독 전 보류. 저자 吳瑭 보정."
+      "note": "청대 고전. 외자 13곳과 복용법 결자 2자를 복원하여 교감 완료."
     },
     "N/N004.txt": {
       "collation_status": "in_progress",
@@ -478,9 +478,9 @@
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43,
+      "unresolved_candidates": 31,
       "punctuation_status": "source_present",
-      "note": "기존 52곳과 골도 희자 𩩲骭을 복원한 데 더해 공개 영인으로 赤脈攢 1곳을 확정. HT2와 판면 미확인 공백 후보 41곳을 계속 대조 중."
+      "note": "경맥·골도 문헌 대조로 희자 12자를 추가 복원. 미확정 전각 공백·HT 31자 보류."
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -496,9 +496,9 @@
     },
     "A/A101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43,
+      "unresolved_candidates": 32,
       "punctuation_status": "source_present",
-      "note": "《靈樞》 평행문과 음주로 閉 8곳 및 䀮 6자를 복원. 남은 HT24·KT19는 서로 다른 희자를 가리켜 occurrence별 원전 대조 전 보류. 전각 공백1028곳은 감사상 조판 공백."
+      "note": "침구 고정 용어 대조로 희자 11자를 추가 복원. 미확정 외자 32자 보류."
     },
     "A/A203.txt": {
       "collation_status": "complete",
@@ -507,10 +507,10 @@
       "note": "HT9·KT2·□1과 약물열의 무표식 탈자를 공개 고전 평행문으로 모두 복원. Codex 표점 76청크를 비표점 문자 완전 보존으로 검증 완료."
     },
     "A/A204.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "공개 전문·평행문으로 懿·郄·膲·欠㰦와 외자 다수를 복원. 단일 유니코드가 없는 陰庭 IDS는 복원 표기로 유지하고, 歲露 인용 HT1은 보류."
+      "note": "《靈樞》 인용문의 변환 잔재 HT를 제거하여 교감 완료."
     },
     "A/A009a.txt": {
       "collation_status": "complete",
@@ -568,9 +568,9 @@
     },
     "D/D048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "공개 평행문으로 堅實·白占三錢을 추가 복원. 직접 판면 근거가 없는 KT1·□1은 보류."
+      "note": "공개 평행문으로 色·密蒙花湯을 추가 복원. 직접 판면 근거가 없는 결자 1자는 보류."
     },
     "E/E009.txt": {
       "collation_status": "complete",
@@ -652,9 +652,9 @@
     },
     "K/K011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "공개 전사의 술명·경혈 순서로 虛撞搓·實撞搓와 秩邊 3자를 추가 복원. 項強 HT1과 黃□ 인명1자는 영인 판독 전 보류."
+      "note": "침구가결의 HT를 瀉로 복원. 太醫院官 黃□ 인명 1자는 판면 근거 부족으로 보류."
     },
     "A/A303.txt": {
       "collation_status": "complete",
@@ -3916,9 +3916,9 @@
     },
     "N/N045.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43,
+      "unresolved_candidates": 35,
       "punctuation_status": "source_present",
-      "note": "공백 감사에서 jicheng 고유 문맥으로 55곳을 복원하고 조판 공백5곳을 확인. 미확정 전각 공백43곳은 영인 면·행 대조 전 보류."
+      "note": "공개 전문 대조로 결자 8자를 추가 복원. 판면 확인이 필요한 전각 공백 35자 보류."
     },
     "N/N046.txt": {
       "collation_status": "in_progress",
@@ -3928,9 +3928,9 @@
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 55,
+      "unresolved_candidates": 43,
       "punctuation_status": "source_present",
-      "note": "1910년 顧夢熊 교정·보결 석인본 계통(116년 경과), 현대 번역·주석층 없음. HT2곳 복원; 전각 공백55곳은 판면 전수 대조 전 보류"
+      "note": "병명·처방 문맥 대조로 결자 12자를 추가 복원. 미확정 전각 공백 43자 보류."
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
@@ -4449,10 +4449,10 @@
       "note": "徐春甫 1556년 명대 고전. 1570년 NCL 간본 권51 이후 대조로 결자1018곳 복원; 조판11355곳; 공백7701·HT8·KT21·□8 보류"
     },
     "C/C041.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "明代 고전 《藥鑑》. 내경·본초 평행문으로 藁本·氣膹·緛·胕·瞤·㿗·耆·瘻·癧·幞 등 16위치를 추가 복원. 參□苓術과 下部□瘡 2곳은 판면 판독 전 보류."
+      "note": "본초 문맥과 독립 전사를 대조해 잔여 결자 2자를 복원하여 교감 완료."
     },
     "F/F005.txt": {
       "collation_status": "in_progress",

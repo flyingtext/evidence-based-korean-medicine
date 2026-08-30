@@ -75,5 +75,61 @@
     "expected_count": 1,
     "reason": "《靈樞·雜病》 평행문 및 뒤 음주 ‘音荒’과 일치.",
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E9%9B%9C%E7%97%85"
+  },
+  {
+    "before": "血脈者。在　橫居",
+    "after": "血脈者。在腧橫居",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "九針十二原 평행문 ‘血脈者，在腧橫居’.",
+    "reason": "九針十二原 평행문 ‘血脈者，在腧橫居’."
+  },
+  {
+    "before": "一曰　針。長一寸六分",
+    "after": "一曰鑱針。長一寸六分",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "구침 첫째 鑱針.",
+    "reason": "구침 첫째 鑱針."
+  },
+  {
+    "before": "三曰　針。長三寸半",
+    "after": "三曰鍉針。長三寸半",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "구침 셋째 鍉針.",
+    "reason": "구침 셋째 鍉針."
+  },
+  {
+    "before": "　針者。頭大末銳",
+    "after": "鑱針者。頭大末銳",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "鑱針 형상 설명.",
+    "reason": "鑱針 형상 설명."
+  },
+  {
+    "before": "　針者。鋒如黍粟之銳",
+    "after": "鍉針者。鋒如黍粟之銳",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "鍉針 형상 설명.",
+    "reason": "鍉針 형상 설명."
+  },
+  {
+    "before": "圓利針者。大如　。且圓且銳",
+    "after": "圓利針者。大如氂。且圓且銳",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "圓利針 형상 ‘大如氂’.",
+    "reason": "圓利針 형상 ‘大如氂’."
+  },
+  {
+    "before": "夫　穀者。皮膚之分肉",
+    "after": "夫谿穀者。皮膚之分肉",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E6%B0%A3%E7%A9%B4%E8%AB%96",
+    "evidence_note": "집주의 정의문 ‘谿穀者，皮膚之分肉’.",
+    "reason": "집주의 정의문 ‘谿穀者，皮膚之分肉’."
   }
 ]

@@ -12,5 +12,93 @@
     "expected_count": 1,
     "reason": "jicheng 전문의 IDS 표기 보존",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html"
+  },
+  {
+    "before": "聚而為積痞　瘕　癖",
+    "after": "聚而為積痞癥瘕痃癖",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "병명 열거 ‘積痞、癥瘕、痃癖’.",
+    "reason": "병명 열거 ‘積痞、癥瘕、痃癖’."
+  },
+  {
+    "before": "切不可用參、　之屬",
+    "after": "切不可用參、耆之屬",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "補氣藥 짝 ‘參、耆’.",
+    "reason": "補氣藥 짝 ‘參、耆’."
+  },
+  {
+    "before": "必用參、　，恐肺熱傷肺",
+    "after": "必用參、耆，恐肺熱傷肺",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "같은 단락의 반복 약명 參、耆.",
+    "reason": "같은 단락의 반복 약명 參、耆."
+  },
+  {
+    "before": "故口眼　斜",
+    "after": "故口眼喎斜",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "중풍 병후 ‘口眼喎斜’.",
+    "reason": "중풍 병후 ‘口眼喎斜’."
+  },
+  {
+    "before": "皮毛枯燥而生痿　，名曰皮毛痿",
+    "after": "皮毛枯燥而生痿躄，名曰皮毛痿",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "痿證 고정어 ‘痿躄’.",
+    "reason": "痿證 고정어 ‘痿躄’."
+  },
+  {
+    "before": "劇則如驚癇，時螈　",
+    "after": "劇則如驚癇，時螈瘲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "《傷寒論》 화역 병후 ‘時瘛疭/螈瘲’ 계통; 이 판본의 앞 글자 螈에 맞춘 瘲.",
+    "reason": "《傷寒論》 화역 병후 ‘時瘛疭/螈瘲’ 계통; 이 판본의 앞 글자 螈에 맞춘 瘲."
+  },
+  {
+    "before": "痢疾即古所稱腸　也",
+    "after": "痢疾即古所稱腸澼也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "고대 이질명 腸澼.",
+    "reason": "고대 이질명 腸澼."
+  },
+  {
+    "before": "夏為飧泄腸　",
+    "after": "夏為飧泄腸澼",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "《內經》 계통 인용의 腸澼.",
+    "reason": "《內經》 계통 인용의 腸澼."
+  },
+  {
+    "before": "地黃、門冬、參、　、歸、芍",
+    "after": "地黃、門冬、參、耆、歸、芍",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "氣血雙補 약물 열거에서 參耆歸芍.",
+    "reason": "氣血雙補 약물 열거에서 參耆歸芍."
+  },
+  {
+    "before": "濁氣在上，則生　脹",
+    "after": "濁氣在上，則生䐜脹",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E9%99%B0%E9%99%BD%E6%87%89%E8%B1%A1%E5%A4%A7%E8%AB%96",
+    "evidence_note": "《素問·陰陽應象大論》 ‘濁氣在上，則生䐜脹’.",
+    "reason": "《素問·陰陽應象大論》 ‘濁氣在上，則生䐜脹’."
+  },
+  {
+    "before": "參、附、　、朮等藥",
+    "after": "參、附、耆、朮等藥",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+    "evidence_note": "補氣溫陽 약명 열거 參、附、耆、朮.",
+    "reason": "補氣溫陽 약명 열거 參、附、耆、朮."
   }
 ]

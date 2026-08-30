@@ -15595,6 +15595,54 @@
       "expected_count": 1,
       "reason": "퍼블릭 도메인 《傷寒總病論》 영인이 표제와 본문에서 ‘赤脈攢證’으로 명확히 판독된다. 공개 《傷寒九十論》 전사도 龐安常의 병명을 ‘赤脈攢’으로 인용한다: https://cloudtcm.com/shu/t1/481/53",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/SBL062_%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96.pdf"
+    },
+    {
+      "before": "循臂上廉，入肘外廉，上　外至肩，出　骨之前廉",
+      "after": "循臂上廉，入肘外廉，上臑外至肩，出髃骨之前廉",
+      "expected_count": 1,
+      "evidence_url": "https://acupun.site/FourteenChannel/LI.html",
+      "evidence_note": "手陽明大腸經 평행문 ‘上臑外前廉…出髃骨之前廉’. 이 판본의 축약 문맥에 맞춰 두 결자를 복원.",
+      "reason": "手陽明大腸經 평행문 ‘上臑外前廉…出髃骨之前廉’. 이 판본의 축약 문맥에 맞춰 두 결자를 복원."
+    },
+    {
+      "before": "至目銳　，卻入耳中。又有支者，別頰上　抵鼻，至目銳　",
+      "after": "至目銳眥，卻入耳中。又有支者，別頰上䪼抵鼻，至目銳眥",
+      "expected_count": 1,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001483691",
+      "evidence_note": "小腸經 평행문 ‘至目銳眥…別頰上䪼…至目內眥’; 원자료의 마지막 銳는 판본 문구대로 보존하고 결자만 眥로 복원.",
+      "reason": "小腸經 평행문 ‘至目銳眥…別頰上䪼…至目內眥’; 원자료의 마지막 銳는 판본 문구대로 보존하고 결자만 眥로 복원."
+    },
+    {
+      "before": "挾脊貫臀入　中。又有支者",
+      "after": "挾脊貫臀入膕中。又有支者",
+      "expected_count": 1,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001215556",
+      "evidence_note": "足太陽 경맥 평행문 ‘貫臀入膕中’.",
+      "reason": "足太陽 경맥 평행문 ‘貫臀入膕中’."
+    },
+    {
+      "before": "從後廉下合　中。以下貫　內",
+      "after": "從後廉下合膕中。以下貫腨內",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "evidence_note": "足太陽 경맥의 고정 문구 ‘下合膕中，以下貫腨內’.",
+      "reason": "足太陽 경맥의 고정 문구 ‘下合膕中，以下貫腨內’."
+    },
+    {
+      "before": "出於然谷之下，循內踝之後，別入跟中，以上　內。出　內廉",
+      "after": "出於然谷之下，循內踝之後，別入跟中，以上腨內。出膕內廉",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "evidence_note": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’.",
+      "reason": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’."
+    },
+    {
+      "before": "缺盆以下至　KT　，長九寸，過則肺大，不滿則肺小。　KT　以下至天樞",
+      "after": "缺盆以下至𩩲骭，長九寸，過則肺大，不滿則肺小。𩩲骭以下至天樞",
+      "expected_count": 1,
+      "evidence_url": "https://www.arteducation.com.tw/guwen/bookv_1058.html",
+      "evidence_note": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정.",
+      "reason": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정."
     }
   ],
   "A/A401.txt": [
@@ -37898,6 +37946,12 @@
       "expected_count": 1,
       "reason": "《靈樞·歲露論》 공개 평행문 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E7%B4%A0%E7%AF%80%E6%B3%A8%E9%A1%9E%E7%B7%A8/index.html"
+    },
+    {
+      "before": "此所以候歲之風，HT　殘傷人者也。",
+      "after": "此所以候歲之風，殘傷人者也。",
+      "expected_count": 1,
+      "reason": "`HT`는 문장 성분이 아닌 변환 잔재이며, 《靈樞·歲露論》 인용문은 `風` 뒤 곧바로 `殘傷人者也`로 이어진다."
     }
   ],
   "A/A101.txt": [
@@ -37977,6 +38031,78 @@
       "expected_count": 1,
       "reason": "《靈樞·雜病》 평행문 및 뒤 음주 ‘音荒’과 일치.",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E9%9B%9C%E7%97%85"
+    },
+    {
+      "before": "血脈者。在　橫居",
+      "after": "血脈者。在腧橫居",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "九針十二原 평행문 ‘血脈者，在腧橫居’.",
+      "reason": "九針十二原 평행문 ‘血脈者，在腧橫居’."
+    },
+    {
+      "before": "一曰　針。長一寸六分",
+      "after": "一曰鑱針。長一寸六分",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "구침 첫째 鑱針.",
+      "reason": "구침 첫째 鑱針."
+    },
+    {
+      "before": "三曰　針。長三寸半",
+      "after": "三曰鍉針。長三寸半",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "구침 셋째 鍉針.",
+      "reason": "구침 셋째 鍉針."
+    },
+    {
+      "before": "　針者。頭大末銳",
+      "after": "鑱針者。頭大末銳",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "鑱針 형상 설명.",
+      "reason": "鑱針 형상 설명."
+    },
+    {
+      "before": "　針者。鋒如黍粟之銳",
+      "after": "鍉針者。鋒如黍粟之銳",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "鍉針 형상 설명.",
+      "reason": "鍉針 형상 설명."
+    },
+    {
+      "before": "圓利針者。大如　。且圓且銳",
+      "after": "圓利針者。大如氂。且圓且銳",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "圓利針 형상 ‘大如氂’.",
+      "reason": "圓利針 형상 ‘大如氂’."
+    },
+    {
+      "before": "膏之原出於鳩尾。鳩尾一。  肓之原出於脖　。脖　一",
+      "after": "膏之原出於鳩尾。鳩尾一。  肓之原出於脖胦。脖胦一",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+      "evidence_note": "十二原의 肓原 ‘脖胦’ 두 occurrence.",
+      "reason": "十二原의 肓原 ‘脖胦’ 두 occurrence."
+    },
+    {
+      "before": "中焦出氣如露。上注　穀。而滲孫脈",
+      "after": "中焦出氣如露。上注谿穀。而滲孫脈",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%99%B0%E7%99%B2%E6%B4%A5%E6%B6%B2%E5%88%A5",
+      "evidence_note": "평행문 ‘上注於肺脈，乃化而為血’ 계통의 집주 문맥에서 谿穀 고정어.",
+      "reason": "평행문 ‘上注於肺脈，乃化而為血’ 계통의 집주 문맥에서 谿穀 고정어."
+    },
+    {
+      "before": "夫　穀者。皮膚之分肉",
+      "after": "夫谿穀者。皮膚之分肉",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E6%B0%A3%E7%A9%B4%E8%AB%96",
+      "evidence_note": "집주의 정의문 ‘谿穀者，皮膚之分肉’.",
+      "reason": "집주의 정의문 ‘谿穀者，皮膚之分肉’."
     }
   ]
 }

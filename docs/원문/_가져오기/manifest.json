@@ -315,9 +315,12 @@
       "output_directory": "黃帝內經靈樞集注(A101)",
       "markdown_files": 10,
       "translation_units": 106,
-      "corrections_applied": 11,
+      "corrections_applied": 18,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '中焦出氣如露。上注\\u3000穀。而滲孫脈' (4/1)",
+        "교정 불일치: '膏之原出於鳩尾。鳩尾一。  肓之原出於脖\\u3000。脖\\u3000一' (0/1)"
+      ]
     },
     {
       "source_path": "A/A102.txt",
@@ -444,7 +447,7 @@
       "output_directory": "靈素節注類編(A204)",
       "markdown_files": 13,
       "translation_units": 255,
-      "corrections_applied": 12,
+      "corrections_applied": 13,
       "punctuated": false,
       "warnings": []
     },
@@ -583,9 +586,12 @@
       "output_directory": "難經正義(A304)",
       "markdown_files": 7,
       "translation_units": 82,
-      "corrections_applied": 55,
+      "corrections_applied": 61,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 72136:72140",
+        "교정 좌표 중첩: 72156:72160"
+      ]
     },
     {
       "source_path": "A/A305.txt",
@@ -2596,7 +2602,7 @@
       "output_directory": "藥鑑(C041)",
       "markdown_files": 3,
       "translation_units": 171,
-      "corrections_applied": 54,
+      "corrections_applied": 56,
       "punctuated": false,
       "warnings": []
     },
@@ -3828,7 +3834,7 @@
       "output_directory": "經驗丹方匯編(D048)",
       "markdown_files": 8,
       "translation_units": 55,
-      "corrections_applied": 8,
+      "corrections_applied": 9,
       "punctuated": false,
       "warnings": []
     },
@@ -8276,9 +8282,11 @@
       "output_directory": "針灸神書(K011)",
       "markdown_files": 5,
       "translation_units": 425,
-      "corrections_applied": 7,
+      "corrections_applied": 8,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 18396:18399"
+      ]
     },
     {
       "source_path": "K/K012.txt",
@@ -9637,7 +9645,7 @@
       "output_directory": "吳鞠通醫案(N003a)",
       "markdown_files": 2,
       "translation_units": 35,
-      "corrections_applied": 3,
+      "corrections_applied": 4,
       "punctuated": false,
       "warnings": []
     },
@@ -10341,9 +10349,11 @@
       "output_directory": "寓意草(N045)",
       "markdown_files": 67,
       "translation_units": 67,
-      "corrections_applied": 55,
+      "corrections_applied": 61,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 58537:58538"
+      ]
     },
     {
       "source_path": "N/N046.txt",
@@ -10399,7 +10409,7 @@
       "output_directory": "葉選醫衡(N048)",
       "markdown_files": 8,
       "translation_units": 83,
-      "corrections_applied": 2,
+      "corrections_applied": 13,
       "punctuated": false,
       "warnings": []
     },

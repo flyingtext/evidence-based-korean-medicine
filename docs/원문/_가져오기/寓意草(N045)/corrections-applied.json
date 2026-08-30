@@ -438,5 +438,53 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
     "evidence_note": "N/N045.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "如靈雨　。日復一日",
+    "after": "如靈雨霈。日復一日",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "공개 전문의 동일 문장 및 ‘靈雨霈’ 관용구.",
+    "reason": "공개 전문의 동일 문장 및 ‘靈雨霈’ 관용구."
+  },
+  {
+    "before": "傷寒後飲食藥餌二法。足開聾　",
+    "after": "傷寒後飲食藥餌二法。足開聾瞶",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "‘開聾瞶’ 고정 어휘.",
+    "reason": "‘開聾瞶’ 고정 어휘."
+  },
+  {
+    "before": "病本腹脹。更兼腸　。腸　者",
+    "after": "病本腹脹。更兼腸澼。腸澼者",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "이어지는 대장 설사 설명과 병명 腸澼이 일치하며 두 occurrence를 한 고유 문맥으로 한정.",
+    "reason": "이어지는 대장 설사 설명과 병명 腸澼이 일치하며 두 occurrence를 한 고유 문맥으로 한정."
+  },
+  {
+    "before": "人參黃　等藥合末",
+    "after": "人參黃耆等藥合末",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "처방 약명 黃耆.",
+    "reason": "처방 약명 黃耆."
+  },
+  {
+    "before": "更有發　一證最毒。惟用人參入消　藥內",
+    "after": "更有發斑一證最毒。惟用人參入消斑藥內",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "시역의 發斑과 消斑藥이 대구를 이루며 공개 전문과 일치.",
+    "reason": "시역의 發斑과 消斑藥이 대구를 이루며 공개 전문과 일치."
+  },
+  {
+    "before": "如錐入木。如范　金",
+    "after": "如錐入木。如範金",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "‘範金’은 틀로 쇠를 주조한다는 관용 표현.",
+    "reason": "‘範金’은 틀로 쇠를 주조한다는 관용 표현."
   }
 ]

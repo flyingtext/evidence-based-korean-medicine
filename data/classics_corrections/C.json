@@ -21430,6 +21430,18 @@
       "expected_count": 1,
       "reason": "고정 병명 瘰癧 및 동일 책의 두 번째 海藻 본초 조문을 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%97%A5%E9%91%91/index.html"
+    },
+    {
+      "before": "方用參　苓術甘草以補氣虛",
+      "after": "方用參耆苓術甘草以補氣虛",
+      "expected_count": 1,
+      "reason": "십전대보탕 구성과 바로 뒤의 기허 보충 설명에 따라 `參耆苓術甘草`로 확정된다."
+    },
+    {
+      "before": "主下部　瘡，並金瘡積血作疼",
+      "after": "主下部疳瘡，並金瘡積血作疼",
+      "expected_count": 1,
+      "reason": "독립 공개 영인·전사에서 `下部疳瘡`이 확인되고 뒤의 `殺諸般疳蟲`과도 대응한다."
     }
   ],
   "C/C018a.txt": [

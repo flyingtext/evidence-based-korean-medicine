@@ -3110,6 +3110,12 @@
       "reason": "동일 문헌 공개 전사와 본문 내부의 반복 병명 塌癢을 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%9E%A0%E9%80%9A%E9%86%AB%E6%A1%88/index.html",
       "evidence_note": "九朝塌癢 및 동일 본문 塌癢 반복"
+    },
+    {
+      "before": "煮　杯，分　次服。",
+      "after": "煮三杯，分三次服。",
+      "expected_count": 1,
+      "reason": "같은 문헌 내부의 반복 용례와 독립 공개 전사에서 `煮成三杯，分三次服`이 반복 확인된다."
     }
   ],
   "N/N004.txt": [
@@ -16331,6 +16337,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
       "evidence_note": "N/N045.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "如靈雨　。日復一日",
+      "after": "如靈雨霈。日復一日",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "공개 전문의 동일 문장 및 ‘靈雨霈’ 관용구.",
+      "reason": "공개 전문의 동일 문장 및 ‘靈雨霈’ 관용구."
+    },
+    {
+      "before": "傷寒後飲食藥餌二法。足開聾　",
+      "after": "傷寒後飲食藥餌二法。足開聾瞶",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "‘開聾瞶’ 고정 어휘.",
+      "reason": "‘開聾瞶’ 고정 어휘."
+    },
+    {
+      "before": "病本腹脹。更兼腸　。腸　者",
+      "after": "病本腹脹。更兼腸澼。腸澼者",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "이어지는 대장 설사 설명과 병명 腸澼이 일치하며 두 occurrence를 한 고유 문맥으로 한정.",
+      "reason": "이어지는 대장 설사 설명과 병명 腸澼이 일치하며 두 occurrence를 한 고유 문맥으로 한정."
+    },
+    {
+      "before": "人參黃　等藥合末",
+      "after": "人參黃耆等藥合末",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "처방 약명 黃耆.",
+      "reason": "처방 약명 黃耆."
+    },
+    {
+      "before": "更有發　一證最毒。惟用人參入消　藥內",
+      "after": "更有發斑一證最毒。惟用人參入消斑藥內",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "시역의 發斑과 消斑藥이 대구를 이루며 공개 전문과 일치.",
+      "reason": "시역의 發斑과 消斑藥이 대구를 이루며 공개 전문과 일치."
+    },
+    {
+      "before": "如錐入木。如范　金",
+      "after": "如錐入木。如範金",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+      "evidence_note": "‘範金’은 틀로 쇠를 주조한다는 관용 표현.",
+      "reason": "‘範金’은 틀로 쇠를 주조한다는 관용 표현."
     }
   ],
   "N/N046.txt": [
@@ -16836,6 +16890,94 @@
       "expected_count": 1,
       "reason": "jicheng 전문의 IDS 표기 보존",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html"
+    },
+    {
+      "before": "聚而為積痞　瘕　癖",
+      "after": "聚而為積痞癥瘕痃癖",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "병명 열거 ‘積痞、癥瘕、痃癖’.",
+      "reason": "병명 열거 ‘積痞、癥瘕、痃癖’."
+    },
+    {
+      "before": "切不可用參、　之屬",
+      "after": "切不可用參、耆之屬",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "補氣藥 짝 ‘參、耆’.",
+      "reason": "補氣藥 짝 ‘參、耆’."
+    },
+    {
+      "before": "必用參、　，恐肺熱傷肺",
+      "after": "必用參、耆，恐肺熱傷肺",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "같은 단락의 반복 약명 參、耆.",
+      "reason": "같은 단락의 반복 약명 參、耆."
+    },
+    {
+      "before": "故口眼　斜",
+      "after": "故口眼喎斜",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "중풍 병후 ‘口眼喎斜’.",
+      "reason": "중풍 병후 ‘口眼喎斜’."
+    },
+    {
+      "before": "皮毛枯燥而生痿　，名曰皮毛痿",
+      "after": "皮毛枯燥而生痿躄，名曰皮毛痿",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "痿證 고정어 ‘痿躄’.",
+      "reason": "痿證 고정어 ‘痿躄’."
+    },
+    {
+      "before": "劇則如驚癇，時螈　",
+      "after": "劇則如驚癇，時螈瘲",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "《傷寒論》 화역 병후 ‘時瘛疭/螈瘲’ 계통; 이 판본의 앞 글자 螈에 맞춘 瘲.",
+      "reason": "《傷寒論》 화역 병후 ‘時瘛疭/螈瘲’ 계통; 이 판본의 앞 글자 螈에 맞춘 瘲."
+    },
+    {
+      "before": "痢疾即古所稱腸　也",
+      "after": "痢疾即古所稱腸澼也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "고대 이질명 腸澼.",
+      "reason": "고대 이질명 腸澼."
+    },
+    {
+      "before": "夏為飧泄腸　",
+      "after": "夏為飧泄腸澼",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "《內經》 계통 인용의 腸澼.",
+      "reason": "《內經》 계통 인용의 腸澼."
+    },
+    {
+      "before": "地黃、門冬、參、　、歸、芍",
+      "after": "地黃、門冬、參、耆、歸、芍",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "氣血雙補 약물 열거에서 參耆歸芍.",
+      "reason": "氣血雙補 약물 열거에서 參耆歸芍."
+    },
+    {
+      "before": "濁氣在上，則生　脹",
+      "after": "濁氣在上，則生䐜脹",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E9%99%B0%E9%99%BD%E6%87%89%E8%B1%A1%E5%A4%A7%E8%AB%96",
+      "evidence_note": "《素問·陰陽應象大論》 ‘濁氣在上，則生䐜脹’.",
+      "reason": "《素問·陰陽應象大論》 ‘濁氣在上，則生䐜脹’."
+    },
+    {
+      "before": "參、附、　、朮等藥",
+      "after": "參、附、耆、朮等藥",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%91%89%E9%81%B8%E9%86%AB%E8%A1%A1/index.html",
+      "evidence_note": "補氣溫陽 약명 열거 參、附、耆、朮.",
+      "reason": "補氣溫陽 약명 열거 參、附、耆、朮."
     }
   ],
   "N/N059.txt": [
