@@ -1,4 +1,14 @@
 {
+  "C/C025.txt": [
+    {
+      "before": "石斑魚（專入□）屬毒物",
+      "after": "石斑魚（專入胃）屬毒物",
+      "expected_count": 1,
+      "reason": "동일 저작의 공개 고판본 영인에서 귀경 결자를 직접 판독",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/SSID-12987153_%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%B1%82%E7%9C%9F_%E5%8D%B76-9.pdf#page=80",
+      "evidence_note": "上海錦章書局石印本 《註圖本草綱目求真》 PDF 80면에 石斑魚（專入胃）屬毒物로 선명함"
+    }
+  ],
   "C/C038.txt": [
     {
       "before": "散滿KT　濕",
