@@ -1,0 +1,285 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/K/K009.txt",
+    "sha256": "4ec069a0cc2435fb6235c7f122cd3acdb445568a38d65ce78acc78ecac3ce0e4"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections.json",
+    "sha256": "72b2562eb76385275540cc70417e9700c90aa6ae100b4949ad6ad6a950ece3ee",
+    "applied_count": 1
+  },
+  "output": "docs/원문/_가져오기/針經節要(K009)/표점본.md",
+  "chunks": {
+    "total": 25,
+    "resumable_completed": 25,
+    "min_chars": 2,
+    "max_chars": 643,
+    "target_chars": 1800,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 294,
+        "output_characters": 322,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 35,
+        "punctuation_density": 0.13565891,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 2,
+        "output_characters": 4,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 0,
+        "punctuation_density": 0.0,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 112,
+        "output_characters": 131,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 22,
+        "punctuation_density": 0.24175824,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 118,
+        "output_characters": 138,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 26,
+        "punctuation_density": 0.2826087,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 61,
+        "output_characters": 73,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 15,
+        "punctuation_density": 0.34090909,
+        "attempts": 1
+      },
+      {
+        "index": 6,
+        "input_characters": 105,
+        "output_characters": 123,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 21,
+        "punctuation_density": 0.23863636,
+        "attempts": 1
+      },
+      {
+        "index": 7,
+        "input_characters": 108,
+        "output_characters": 132,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 26,
+        "punctuation_density": 0.27659574,
+        "attempts": 1
+      },
+      {
+        "index": 8,
+        "input_characters": 48,
+        "output_characters": 57,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 11,
+        "punctuation_density": 0.32352941,
+        "attempts": 1
+      },
+      {
+        "index": 9,
+        "input_characters": 58,
+        "output_characters": 70,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 14,
+        "punctuation_density": 0.31818182,
+        "attempts": 1
+      },
+      {
+        "index": 10,
+        "input_characters": 82,
+        "output_characters": 100,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 22,
+        "punctuation_density": 0.34375,
+        "attempts": 1
+      },
+      {
+        "index": 11,
+        "input_characters": 155,
+        "output_characters": 184,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 31,
+        "punctuation_density": 0.21985816,
+        "attempts": 1
+      },
+      {
+        "index": 12,
+        "input_characters": 53,
+        "output_characters": 62,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 11,
+        "punctuation_density": 0.28205128,
+        "attempts": 1
+      },
+      {
+        "index": 13,
+        "input_characters": 89,
+        "output_characters": 110,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 23,
+        "punctuation_density": 0.30666667,
+        "attempts": 1
+      },
+      {
+        "index": 14,
+        "input_characters": 2,
+        "output_characters": 4,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 0,
+        "punctuation_density": 0.0,
+        "attempts": 1
+      },
+      {
+        "index": 15,
+        "input_characters": 496,
+        "output_characters": 622,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 136,
+        "punctuation_density": 0.297593,
+        "attempts": 1
+      },
+      {
+        "index": 16,
+        "input_characters": 576,
+        "output_characters": 700,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 136,
+        "punctuation_density": 0.25708885,
+        "attempts": 1
+      },
+      {
+        "index": 17,
+        "input_characters": 444,
+        "output_characters": 544,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 109,
+        "punctuation_density": 0.2691358,
+        "attempts": 1
+      },
+      {
+        "index": 18,
+        "input_characters": 505,
+        "output_characters": 613,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 119,
+        "punctuation_density": 0.25925926,
+        "attempts": 1
+      },
+      {
+        "index": 19,
+        "input_characters": 428,
+        "output_characters": 526,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 108,
+        "punctuation_density": 0.27763496,
+        "attempts": 1
+      },
+      {
+        "index": 20,
+        "input_characters": 489,
+        "output_characters": 588,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 111,
+        "punctuation_density": 0.25056433,
+        "attempts": 1
+      },
+      {
+        "index": 21,
+        "input_characters": 643,
+        "output_characters": 799,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 165,
+        "punctuation_density": 0.27363184,
+        "attempts": 1
+      },
+      {
+        "index": 22,
+        "input_characters": 572,
+        "output_characters": 688,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 127,
+        "punctuation_density": 0.24098672,
+        "attempts": 1
+      },
+      {
+        "index": 23,
+        "input_characters": 438,
+        "output_characters": 537,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 109,
+        "punctuation_density": 0.27525253,
+        "attempts": 1
+      },
+      {
+        "index": 24,
+        "input_characters": 643,
+        "output_characters": 785,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 153,
+        "punctuation_density": 0.25714286,
+        "attempts": 1
+      },
+      {
+        "index": 25,
+        "input_characters": 496,
+        "output_characters": 596,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 111,
+        "punctuation_density": 0.24611973,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 6318,
+    "output_nonpunctuation_characters": 6318
+  },
+  "punctuation": {
+    "ascii_count": 1641,
+    "density_per_nonpunctuation_character": 0.25973409,
+    "chinese_punctuation_normalized": true
+  }
+}

@@ -89,11 +89,11 @@
   },
   {
     "before": "合　窠浴",
-    "after": "合𮔳窠浴",
+    "after": "合蜂窠浴",
     "expected_count": 1,
-    "reason": "약재명 희귀자 결자 복원",
-    "evidence_url": "https://jicheng.tw/tcm/book/%E6%B5%B7%E8%97%A5%E6%9C%AC%E8%8D%89/index.html",
-    "evidence_note": "최신판은 𮔳窠로 수록함"
+    "reason": "문맥과 인용 원문에 따른 결자 복원 및 오자 교정",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/SSID-13358893_%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE_%E5%8D%B714.pdf",
+    "evidence_note": "《本草綱目》卷十四 艾納香條에 ‘合蜂窠浴腳氣’로 수록됨"
   },
   {
     "before": "遍身瘡　，以桃葉",

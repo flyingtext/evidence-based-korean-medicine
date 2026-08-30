@@ -1,0 +1,21 @@
+{
+  "source_path": "E/E016.txt",
+  "title": "溫熱論",
+  "source_fullwidth_spaces": 2,
+  "restored_or_normalized_positions": 2,
+  "preserved_layout_spaces": 0,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "jicheng 최신 華岫雲本 전문 대조",
+    "Wikisource와 theqi의 독립 전사 교차 확인",
+    "결자·의학용어 오기·자동번역 잔재 및 표점 전수 검사"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E8%AB%96/index.html",
+    "https://zh.wikisource.org/zh-hant/%E6%BA%AB%E7%86%B1%E8%AB%96",
+    "https://www.theqi.com/cmed/oldbook/book50/intro.html"
+  ],
+  "corrected_body_sha256": "1d2de07d03621fcfed2eb2801a958649bedea47032133156111fde25251a3e75",
+  "note": "전각 공백 2곳은 각각 徬과 㾦의 결자로 판정해 모두 복원했다. 退場門 두 곳과 桂枝紅花東은 자동번역 잔재로, 募原 두 곳은 膜原으로 교정했다."
+}
