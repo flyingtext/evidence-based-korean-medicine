@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "before": "語狂HT　亂",
+    "after": "語狂㲋亂",
+    "expected_count": 1,
+    "reason": "jicheng 전문 대조 HT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%95%9F%E6%BA%90/index.html",
+    "evidence_note": "語狂㲋亂 확인"
+  },
+  {
+    "before": "〔面〕赤HT　黃",
+    "after": "〔面〕赤目黃",
+    "expected_count": 1,
+    "reason": "jicheng 전문 대조 HT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%95%9F%E6%BA%90/index.html",
+    "evidence_note": "面赤目黃 확인"
+  },
+  {
+    "before": "目KT　KT　〔如〕無所見",
+    "after": "目䀮䀮〔如〕無所見",
+    "expected_count": 1,
+    "reason": "jicheng 전문 대조 KT 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%95%9F%E6%BA%90/index.html",
+    "evidence_note": "目䀮䀮 확인"
+  }
+]
