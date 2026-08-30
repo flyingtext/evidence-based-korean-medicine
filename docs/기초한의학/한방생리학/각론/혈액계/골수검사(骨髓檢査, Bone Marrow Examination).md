@@ -384,6 +384,7 @@ M:E ratio가 정상 범위(2:1~4:1) 안에 있다고 해서 조혈 기능이 정
 **고전 인용 출처**: 『黃帝內經素問』(五藏生成篇, 骨空論), 『黃帝內經靈樞』(海論, 決氣), 『難經』(骨髓 관련), 『東醫寶鑑』(內景篇 骨髓·精血 관련)
 
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-29 조회 기준
+
 [^1]: Cytochemistry and immunocytochemistry in bone marrow examination: contemporary techniques for the diagnosis of acute leukemia and myelodysplastic syndromes. A combined approach. Kass L 외. _Hematology/oncology clinics of North America_. 1988-12. [문헌 고찰] [PMID 3065317](https://pubmed.ncbi.nlm.nih.gov/3065317/) — 급성 백혈병·골수형성이상증후군 진단에 형태학과 세포화학·면역세포화학 염색을 결합한 통합적 접근이 필수적임을 제시, 흡인 도말이 여러 보조 검사의 출발점이 됨을 뒷받침.
 [^2]: [Histopathologic diagnosis of bone marrow in leukemia and related disorders]. Kikuchi M 외. _Rinsho byori. The Japanese journal of clinical pathology_. 1991-12. [문헌 고찰] [PMID 1779461](https://pubmed.ncbi.nlm.nih.gov/1779461/) — 세포학적 검사만으로는 한계가 있어 조직병리학적 골수 검사가 보완적 역할을 하며 dry tap·MDS·MPD 감별에 필수적임을 명시, 흡인 실패 시 생검의 대체적 위상을 뒷받침.
 [^3]: Etiological spectrum of pancytopenia based on bone marrow examination in children. Memon S 외. _Journal of the College of Physicians and Surgeons--Pakistan : JCPSP_. 2008-03. [관찰연구, 230명] [PMID 18460245](https://pubmed.ncbi.nlm.nih.gov/18460245/) — 소아 범혈구감소증의 가장 흔한 원인이 재생불량성 빈혈로 확인, 골수검사가 말초혈액만으로 구분 안 되는 원인을 감별하는 사례.
