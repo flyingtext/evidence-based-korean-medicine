@@ -43,6 +43,12 @@ def main() -> int:
         if "output_directory" not in book:
             continue
         book_dir = output / book["output_directory"]
+        punctuated_exists = (book_dir / "표점본.md").is_file()
+        report_exists = (book_dir / "punctuation-report.json").is_file()
+        if punctuated_exists != report_exists:
+            errors.append(f"표점본·보고서 짝 불일치: {book['output_directory']}")
+        if bool(book.get("punctuated")) != punctuated_exists:
+            errors.append(f"표점 상태 불일치: {book['output_directory']}")
         task_path = book_dir / "translation-tasks.jsonl"
         if not task_path.exists():
             errors.append(f"번역 작업 파일 없음: {task_path.relative_to(output)}")

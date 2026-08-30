@@ -1,0 +1,98 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/A/A012.txt",
+    "sha256": "bd0dfda128e27221f94e1b86a913ad8b1aad4caf090bca968972a34b516e83c0"
+  },
+  "output": "docs/원문/_가져오기/黃帝內經素問校義(A012)/표점본.md",
+  "chunks": {
+    "total": 6,
+    "resumable_completed": 6,
+    "min_chars": 627,
+    "max_chars": 2879,
+    "target_chars": 2500,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 877,
+        "output_characters": 1021,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 147,
+        "punctuation_density": 0.17053364,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 2408,
+        "output_characters": 2829,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 424,
+        "punctuation_density": 0.17740586,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 2512,
+        "output_characters": 2960,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 449,
+        "punctuation_density": 0.18281759,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 2879,
+        "output_characters": 3419,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 541,
+        "punctuation_density": 0.19293866,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 2490,
+        "output_characters": 2978,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 489,
+        "punctuation_density": 0.20115179,
+        "attempts": 1
+      },
+      {
+        "index": 6,
+        "input_characters": 627,
+        "output_characters": 729,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 102,
+        "punctuation_density": 0.16831683,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 11549,
+    "output_nonpunctuation_characters": 11549,
+    "input_non_punctuation_characters": 11643,
+    "output_non_punctuation_characters": 11643
+  },
+  "punctuation": {
+    "ascii_count": 2152,
+    "density_per_nonpunctuation_character": 0.18633648,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 13,
+    "delete": 0,
+    "insert": 81
+  }
+}

@@ -12,6 +12,8 @@ import unicodedata
 from pathlib import Path
 from urllib.parse import urlparse
 
+from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_corrections, load_book
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_OUTPUT = ROOT / "docs" / "원문" / "_가져오기"
@@ -132,12 +134,13 @@ def validate_report(
         if not isinstance(source_value, str):
             errors.append(f"{label}: Codex 원자료 경로 없음")
         else:
-            source_path = (ROOT / source_value).resolve()
+            source_path = (ROOT / source_value.split(" + ", 1)[0]).resolve()
             if not source_path.is_file():
                 errors.append(f"{label}: Codex 원자료 없음 ({source_value})")
             else:
                 raw = source_path.read_bytes()
-                if hashlib.sha256(raw).hexdigest() != source.get("sha256"):
+                expected_sha256 = source.get("raw_source_sha256", source.get("sha256"))
+                if hashlib.sha256(raw).hexdigest() != expected_sha256:
                     errors.append(f"{label}: Codex 원자료 SHA-256 불일치")
     else:
         source = report.get("source")
@@ -173,11 +176,19 @@ def validate_report(
         return errors
     if report.get("generator") == "codex exec" and isinstance(report.get("source"), dict):
         source_value = report["source"].get("path")
-        source_path = (ROOT / source_value).resolve() if isinstance(source_value, str) else None
+        source_path = (
+            (ROOT / source_value.split(" + ", 1)[0]).resolve()
+            if isinstance(source_value, str)
+            else None
+        )
         if source_path and source_path.is_file():
-            original = source_path.read_text(encoding="utf-8-sig")
-            original = BOOK_RE.sub("", original)
-            original = HEADING_TAG_RE.sub(lambda match: match.group(2), original)
+            source_root = DEFAULT_SOURCE.resolve()
+            book = load_book(source_path, source_root)
+            corrections = json.loads(DEFAULT_CORRECTIONS.read_text(encoding="utf-8"))
+            apply_corrections(book, corrections)
+            if book.warnings:
+                errors.append(f"{label}: 현재 교정 오버레이 적용 경고 {len(book.warnings)}건")
+            original = HEADING_TAG_RE.sub(lambda match: match.group(2), book.body)
             rendered_body = re.sub(r"\A# [^\n]*\n", "", text, count=1)
             rendered_body = re.sub(r"^#{2,6} +", "", rendered_body, flags=re.MULTILINE)
             if content_signature(original) != content_signature(rendered_body):

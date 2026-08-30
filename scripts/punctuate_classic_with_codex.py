@@ -145,6 +145,32 @@ def split_text(text: str, target: int, minimum: int, maximum: int) -> list[str]:
     return chunks
 
 
+def batch_indices(pieces: list[tuple[int, str]], target: int, maximum: int) -> list[list[int]]:
+    """짧은 절을 표식으로 묶어 호출 수를 줄인다."""
+    groups: list[list[int]] = []
+    current: list[int] = []
+    size = 0
+    for index, (_, chunk) in enumerate(pieces):
+        extra = len(chunk) + (32 if current else 0)
+        if current and size + extra > maximum:
+            groups.append(current)
+            current = []
+            size = 0
+        current.append(index)
+        size += extra
+        if size >= target:
+            groups.append(current)
+            current = []
+            size = 0
+    if current:
+        groups.append(current)
+    return groups
+
+
+def batch_delimiter(index: int) -> str:
+    return f"<<<CODEX_SEGMENT_{index:06d}>>>"
+
+
 def is_punctuation(char: str) -> bool:
     return unicodedata.category(char).startswith("P") or char in {"…", "—", "―"}
 
@@ -273,6 +299,7 @@ def main() -> int:
         "target_chars": args.target_chars,
         "min_chars": args.min_chars,
         "max_chars": args.max_chars,
+        "batch_version": 1,
     }
     state = load_checkpoint(checkpoint, identity, len(pieces))
     schema = {
@@ -284,33 +311,51 @@ def main() -> int:
     with tempfile.TemporaryDirectory(prefix="codex-punctuation-schema-") as temp_dir:
         schema_path = Path(temp_dir) / "schema.json"
         schema_path.write_text(json.dumps(schema), encoding="utf-8")
-        for index, (_, chunk) in enumerate(pieces):
-            saved = state["chunks"][index]
-            if isinstance(saved, dict) and isinstance(saved.get("text"), str):
-                candidate = saved["text"]
-                if without_punctuation(candidate) == without_punctuation(chunk):
-                    continue
+        for group in batch_indices(pieces, args.target_chars, args.max_chars):
+            pending = []
+            for index in group:
+                chunk = pieces[index][1]
+                saved = state["chunks"][index]
+                if isinstance(saved, dict) and isinstance(saved.get("text"), str):
+                    if without_punctuation(saved["text"]) == without_punctuation(chunk):
+                        continue
+                pending.append(index)
+            if not pending:
+                continue
+            combined = pieces[pending[0]][1]
+            for index in pending[1:]:
+                combined += "\n" + batch_delimiter(index) + "\n" + pieces[index][1]
             failures: list[str] = []
             for attempt in range(1, args.retries + 1):
                 try:
                     candidate = normalize_punctuation(
                         run_codex(
                             args.codex,
-                            chunk,
+                            combined,
                             args.model,
                             args.timeout,
                             schema_path,
                             source.parent,
                         )
                     )
-                    if without_punctuation(candidate) != without_punctuation(chunk):
-                        raise ValueError("비표점 문자 배열이 입력과 다릅니다")
-                    state["chunks"][index] = {
-                        "text": candidate,
-                        "input_sha256": hashlib.sha256(chunk.encode()).hexdigest(),
-                        "output_sha256": hashlib.sha256(candidate.encode()).hexdigest(),
-                        "attempts": attempt,
-                    }
+                    outputs = [candidate]
+                    if len(pending) > 1:
+                        pattern = "|".join(re.escape(batch_delimiter(index)) for index in pending[1:])
+                        outputs = re.split(pattern, candidate)
+                    if len(outputs) != len(pending):
+                        raise ValueError("묶음 표식이 보존되지 않았습니다")
+                    for index, output_chunk in zip(pending, outputs):
+                        chunk = pieces[index][1]
+                        if without_punctuation(output_chunk) != without_punctuation(chunk):
+                            raise ValueError(f"청크 {index + 1} 비표점 문자 배열이 입력과 다릅니다")
+                    for index, output_chunk in zip(pending, outputs):
+                        chunk = pieces[index][1]
+                        state["chunks"][index] = {
+                            "text": output_chunk,
+                            "input_sha256": hashlib.sha256(chunk.encode()).hexdigest(),
+                            "output_sha256": hashlib.sha256(output_chunk.encode()).hexdigest(),
+                            "attempts": attempt,
+                        }
                     atomic_json(checkpoint, state)
                     break
                 except (OSError, subprocess.SubprocessError, RuntimeError, ValueError) as exc:
@@ -320,7 +365,8 @@ def main() -> int:
             else:
                 atomic_json(checkpoint, state)
                 raise RuntimeError(
-                    f"청크 {index + 1}/{len(pieces)} 표점 실패: " + " | ".join(failures)
+                    f"청크 묶음 {pending[0] + 1}-{pending[-1] + 1}/{len(pieces)} 표점 실패: "
+                    + " | ".join(failures)
                 )
 
     chunk_outputs = [item["text"] for item in state["chunks"]]

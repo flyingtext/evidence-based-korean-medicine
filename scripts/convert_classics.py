@@ -273,7 +273,7 @@ def convert_part(book: Book, part_index: int, title: str, content: str) -> tuple
     return "\n".join(lines).rstrip() + "\n", tasks
 
 
-def book_readme(book: Book, outputs: list[tuple[str, str]]) -> str:
+def book_readme(book: Book, outputs: list[tuple[str, str]], has_punctuated: bool = False) -> str:
     meta = book.metadata
     lines = [
         f"# {book.title}",
@@ -300,6 +300,14 @@ def book_readme(book: Book, outputs: list[tuple[str, str]]) -> str:
         "번역은 `translation-tasks.jsonl`의 `source_id`를 유지해 별도 산출물로 작성한다. 원문의 글자·표점·결자를 번역 과정에서 수정하지 않으며, 직역과 역자 해설을 구분한다.",
         "",
     ])
+    if has_punctuated:
+        lines.extend([
+            "## 표점본",
+            "",
+            "- [표점본](표점본.md) — 원문 보존본과 분리된 검증 완료 파생본",
+            "- 검증 근거: `punctuation-report.json`",
+            "",
+        ])
     return "\n".join(lines)
 
 
@@ -337,7 +345,13 @@ def collation_record(book: Book) -> str:
 
 def convert_book(book: Book, output_root: Path) -> dict:
     book_dir = output_root / f"{safe_name(book.title, book.source_key)}({book.source_key})"
+    supplemental_names = {"표점본.md", "punctuation-report.json"}
+    supplemental: dict[str, bytes] = {}
     if book_dir.exists():
+        for name in supplemental_names:
+            path = book_dir / name
+            if path.is_file():
+                supplemental[name] = path.read_bytes()
         # book_dir는 output_root와 원본 키로 결정된 자동 산출물 경로다.
         # 재실행 때 이전 분할 파일이 남아 검증을 왜곡하지 않게 원서 단위로 교체한다.
         shutil.rmtree(book_dir)
@@ -359,12 +373,16 @@ def convert_book(book: Book, output_root: Path) -> dict:
         for task in part_tasks:
             task["target_original"] = f"{book_dir.relative_to(output_root).as_posix()}/{filename}"
         tasks.extend(part_tasks)
-    (book_dir / "README.md").write_text(book_readme(book, outputs), encoding="utf-8")
+    (book_dir / "README.md").write_text(
+        book_readme(book, outputs, has_punctuated="표점본.md" in supplemental), encoding="utf-8"
+    )
     (book_dir / "corrections-applied.json").write_text(
         json.dumps(book.corrections, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
     if book.corrections:
         (book_dir / "교감기록.md").write_text(collation_record(book), encoding="utf-8")
+    for name, content in supplemental.items():
+        (book_dir / name).write_bytes(content)
     with (book_dir / "translation-tasks.jsonl").open("w", encoding="utf-8") as handle:
         for task in tasks:
             handle.write(json.dumps(task, ensure_ascii=False) + "\n")
@@ -377,17 +395,20 @@ def convert_book(book: Book, output_root: Path) -> dict:
         "markdown_files": len(outputs),
         "translation_units": len(tasks),
         "corrections_applied": len(book.corrections),
+        "punctuated": "표점본.md" in supplemental,
         "warnings": sorted(set(book.warnings)),
     }
 
 
 def collection_readme(manifest: list[dict]) -> str:
+    corrected_count = sum(bool(item.get("corrections_applied")) for item in manifest)
+    punctuated_count = sum(bool(item.get("punctuated")) for item in manifest)
     lines = [
         "# 자동 변환 고전 원문",
         "",
         "> 이 문서들은 jicheng.tw의 고전 의서 데이터를 기반으로 자동 생성했다. 정본 대조와 교감이 완료된 판본이 아니며, 원본 경로와 SHA-256은 `manifest.json`에서 확인할 수 있다.",
         "",
-        f"총 {len(manifest)}개 원자료를 수록한다. 각 원서의 `translation-tasks.jsonl`은 `source_id`로 원문과 연결되는 Codex 번역 작업 단위다.",
+        f"총 {len(manifest)}개 원자료를 수록한다. 결자 교정이 적용된 문헌은 {corrected_count}권, 검증된 표점본이 있는 문헌은 {punctuated_count}권이다. 각 원서의 `translation-tasks.jsonl`은 `source_id`로 원문과 연결되는 Codex 번역 작업 단위다.",
         "",
         "## 원서 목록",
         "",
