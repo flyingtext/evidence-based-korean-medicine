@@ -50,6 +50,22 @@
       "reason": "전재 원전 《外科正宗》의 독립 학술 인용과 공개 영인 위치를 대조해 도구명을 복원",
       "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001819794",
       "evidence_note": "원문 인용이 用抿腳挑玉紅膏로 전하며 國圖 공개 영인 《外科正宗》第6冊의 동일 장과 일치함"
+    },
+    {
+      "before": "治耳內干痛時或有膿耳外紅腫結KT方（三）",
+      "after": "治耳內干痛時或有膿耳外紅腫結⿰身邕方（三）",
+      "expected_count": 1,
+      "reason": "《古方匯精》 공개 영인 판면과 독립 전사가 일치하는 미수록 합성자를 IDS로 보존",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:SSID-12694901_%E5%8F%A4%E6%96%B9%E5%8C%AF%E7%B2%BE.pdf",
+      "evidence_note": "상권 PDF 188면의 身+邕 자형과 CloudTcm의 ⿰身邕 전사가 일치"
+    },
+    {
+      "before": "一蜴KT　（俗名揚辣子）刺人",
+      "after": "一蜴蝲（俗名揚辣子）刺人",
+      "expected_count": 1,
+      "reason": "《古方匯精》 공개 영인에서 虫+剌 자형을 직접 판독해 복원",
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:SSID-12694902_%E5%8F%A4%E6%96%B9%E5%8C%AF%E7%B2%BE_%E4%B8%8B.pdf",
+      "evidence_note": "하권 PDF 137면에서 ‘一蜴蝲（俗名揚辣子）刺人’ 확인"
     }
   ],
   "D/D009.txt": [

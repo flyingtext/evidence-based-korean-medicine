@@ -2,9 +2,9 @@
   "source_path": "D/D062.txt",
   "title": "古方匯精",
   "source_fullwidth_spaces": 1256,
-  "restored_or_normalized_positions": 1,
-  "preserved_layout_spaces": 1256,
-  "unresolved": 2,
+  "restored_or_normalized_positions": 3,
+  "preserved_layout_spaces": 1255,
+  "unresolved": 0,
   "method": [
     "CTP OCR 연결 고본 및 공개 웹 전사 검색",
     "깨진 토큰 및 레거시 태그 잔존 전수 검사",
@@ -12,8 +12,10 @@
   ],
   "evidence_urls": [
     "https://ctext.org/wiki.pl?if=gb&res=299104",
-    "https://ctext.org/wiki.pl?chapter=99876&if=en"
+    "https://ctext.org/wiki.pl?chapter=99876&if=en",
+    "https://commons.wikimedia.org/wiki/File:SSID-12694901_%E5%8F%A4%E6%96%B9%E5%8C%AF%E7%B2%BE.pdf",
+    "https://commons.wikimedia.org/wiki/File:SSID-12694902_%E5%8F%A4%E6%96%B9%E5%8C%AF%E7%B2%BE_%E4%B8%8B.pdf"
   ],
   "corrected_body_sha256": "49d6e22a9452bf844744c813727b79336f68a1d265145cfbcf79761567c37829",
-  "note": "1804년 고전. 救自刎斷喉의 KT 1곳을 抿으로 복원. 나머지 KT 2곳은 직접 판면 근거 부족으로 보류."
+  "note": "1804년 《古方匯精》. KT 3곳을 抿·⿰身邕·蝲로 복원. 후자의 두 글자는 공개 영인 판면에서 직접 판독했으며 ⿰身邕은 IDS로 보존."
 }
