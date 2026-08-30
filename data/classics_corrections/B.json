@@ -3643,6 +3643,104 @@
       "evidence_note": "B/B002.txt: 좌우 한자 각 14자 고유 일치"
     }
   ],
+  "B/B014.txt": [
+    {
+      "before": "目KT　KT　。如無所見",
+      "after": "目䀮䀮。如無所見",
+      "expected_count": 1,
+      "reason": "《難經》 및 내경 계통의 정형 문구 目䀮䀮如無所見을 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "身體強。KT　KT　然",
+      "after": "身體強。𠘧𠘧然",
+      "expected_count": 1,
+      "reason": "《金匱要略》의 身體強𠘧𠘧然을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5/index.html"
+    },
+    {
+      "before": "項背強KT　KT　。反汗出",
+      "after": "項背強𠘧𠘧。反汗出",
+      "expected_count": 1,
+      "reason": "《傷寒論》의 項背強𠘧𠘧 정형 경문을 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "KT　KT　者。伸頸",
+      "after": "𠘧𠘧者。伸頸",
+      "expected_count": 1,
+      "reason": "본문의 𠘧𠘧 음훈 伸頸之貌를 대조"
+    },
+    {
+      "before": "項背KT　KT　者。當無汗",
+      "after": "項背𠘧𠘧者。當無汗",
+      "expected_count": 1,
+      "reason": "같은 주석의 項背𠘧𠘧 내부 평행문을 대조"
+    },
+    {
+      "before": "項背強KT　KT　。無汗惡風",
+      "after": "項背強𠘧𠘧。無汗惡風",
+      "expected_count": 1,
+      "reason": "《傷寒論》 葛根湯 조문을 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "項背強。KT　KT　。無汗。惡風",
+      "after": "項背強。𠘧𠘧。無汗。惡風",
+      "expected_count": 2,
+      "reason": "葛根湯 조문과 주석의 반복 평행문을 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "項背強。KT　KT　。汗出",
+      "after": "項背強。𠘧𠘧。汗出",
+      "expected_count": 1,
+      "reason": "桂枝加葛根湯·葛根湯 증후 대구를 대조"
+    },
+    {
+      "before": "項背強KT　KT　、惡風",
+      "after": "項背強𠘧𠘧、惡風",
+      "expected_count": 1,
+      "reason": "張卿子 주석의 두 葛根湯 증후 병렬문을 대조"
+    },
+    {
+      "before": "其人即KT　。",
+      "after": "其人即噎。",
+      "expected_count": 2,
+      "reason": "冷水·水寒相搏 조문의 고정 증후 噎를 공개 고전 평행문으로 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "故令KT　也",
+      "after": "故令噎也",
+      "expected_count": 1,
+      "reason": "같은 조문의 噎 음훈과 내부 평행문을 대조"
+    },
+    {
+      "before": "令胃虛竭。則為KT為噦",
+      "after": "令胃虛竭。則為噎為噦",
+      "expected_count": 1,
+      "reason": "噎·噦 병렬 증후 문맥과 공개 고전 평행문을 대조"
+    },
+    {
+      "before": "故令氣KT　。",
+      "after": "故令氣噎。",
+      "expected_count": 1,
+      "reason": "趺陽脈 조문의 氣噎 고정 문구를 대조"
+    },
+    {
+      "before": "趺陽脈浮為KT　。",
+      "after": "趺陽脈浮為噎。",
+      "expected_count": 1,
+      "reason": "같은 조문의 浮為噎·滑為噦 대구를 대조"
+    },
+    {
+      "before": "為KT　為噦",
+      "after": "為噎為噦",
+      "expected_count": 1,
+      "reason": "唐不岩 주석의 噎·噦 병렬 증후 문맥을 대조"
+    }
+  ],
   "B/B013a.txt": [
     {
       "before": "[c]rck[/c]",
