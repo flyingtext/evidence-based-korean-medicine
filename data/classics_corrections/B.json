@@ -2927,6 +2927,118 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
       "evidence_note": "B/B003a.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "[c]hohbt[/c]",
+      "after": "𧖴",
+      "expected_count": 2,
+      "reason": "jicheng 동일 문헌의 자형 해설을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "脈字又作𧖴·𧖴以血為陰"
+    },
+    {
+      "before": "[c]bapv[/c]",
+      "after": "𱿯",
+      "expected_count": 1,
+      "reason": "jicheng 고판 전사의 외자 원형을 보존",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "名曰重𱿯. 현행 교정층의 重暍과 구분"
+    },
+    {
+      "before": "[c]yno[/c]",
+      "after": "死",
+      "expected_count": 3,
+      "reason": "jicheng 동일 문헌의 세 고유 문맥을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "汗不出者死·下之則死·澀者死"
+    },
+    {
+      "before": "[c]kasm[/c]3",
+      "after": "妨",
+      "expected_count": 1,
+      "reason": "숫자를 포함한 외자 키를 jicheng 동일 문맥으로 판독",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "心下妨悶者"
+    },
+    {
+      "before": "[c]kasm[/c]4",
+      "after": "褚",
+      "expected_count": 1,
+      "reason": "숫자를 포함한 외자 키를 jicheng 동일 문맥으로 판독",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "廣州褚倅子"
+    },
+    {
+      "before": "[c]kasm[/c]5",
+      "after": "犯",
+      "expected_count": 1,
+      "reason": "숫자를 포함한 외자 키와 仲景 평행문을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "無犯胃氣及上二焦"
+    },
+    {
+      "before": "[c]rck[/c]",
+      "after": "㕮",
+      "expected_count": 1,
+      "reason": "동일 외자 코드와 처방 제법 고정구 㕮咀를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "古方凡稱㕮咀者"
+    },
+    {
+      "before": "[c]kjjh[/c]",
+      "after": "疹",
+      "expected_count": 1,
+      "reason": "jicheng 동일 문맥과 고전 병명 瘡疹을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "瘡疹已發未發皆可服"
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 1,
+      "reason": "동일 외자 코드와 《金匱》 평행문의 腹中㽲痛을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "天雄散 腹中㽲痛"
+    },
+    {
+      "before": "[c]kasm[/c]6",
+      "after": "㶸",
+      "expected_count": 1,
+      "reason": "숫자를 포함한 외자 키를 공개 영인과 동일 문맥으로 판독",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/NLC416-06jh009197-2590_%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8.pdf",
+      "evidence_note": "蔥熨法 先以火㶸一面"
+    },
+    {
+      "before": "[c]kasm[/c]7",
+      "after": "鬱",
+      "expected_count": 2,
+      "reason": "숫자를 포함한 외자 키를 공개 영인과 동일 문맥으로 판독",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/NLC416-06jh009197-2590_%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8.pdf",
+      "evidence_note": "熱氣鬱鬱入肌肉中"
+    },
+    {
+      "before": "勞　〔四升以杓洋之一千過名日勞水〕",
+      "after": "勞水〔四升以杓洋之一千過名日勞水〕",
+      "expected_count": 1,
+      "reason": "jicheng 동일 처방의 약물명과 뒤의 用勞水를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "勞水四升·右七味用勞水煎之"
+    },
+    {
+      "before": "一雙一　歲兒服",
+      "after": "一雙一歲兒服",
+      "expected_count": 1,
+      "reason": "공개 영인과 동일 전사의 문장 경계를 대조해 OCR 공백을 제거",
+      "evidence_url": "https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng%2C_Volume_457_%281700-1725%29.djvu/118",
+      "evidence_note": "一雙；一歲兒服"
+    },
+    {
+      "before": "半在表半在　裏之證",
+      "after": "半在表半在裏之證",
+      "expected_count": 1,
+      "reason": "jicheng 동일 문맥을 대조해 OCR 공백을 제거",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+      "evidence_note": "半在表半在裏之證"
     }
   ],
   "B/B002.txt": [
@@ -3529,6 +3641,78 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96/index.html",
       "evidence_note": "B/B002.txt: 좌우 한자 각 14자 고유 일치"
+    }
+  ],
+  "B/B013a.txt": [
+    {
+      "before": "[c]rck[/c]",
+      "after": "㕮",
+      "expected_count": 10,
+      "reason": "처방 제법의 고정구 㕮咀를 공개 고전 전사와 영인으로 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E9%A1%9E%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bsje[/c]",
+      "after": "瞤",
+      "expected_count": 2,
+      "reason": "傷寒論의 정형 증후어 瞤動·肉瞤而動을 대조",
+      "evidence_url": "https://ctext.org/shang-han-lun/zh"
+    },
+    {
+      "before": "[c]oipyr[/c]",
+      "after": "䭇",
+      "expected_count": 5,
+      "reason": "본문 자체의 음훈 䭇與噎通과 공개 전사를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E9%A1%9E%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ebou[/c]",
+      "after": "淫",
+      "expected_count": 1,
+      "reason": "《素問》 인용 고정구 風淫末疾을 대조",
+      "evidence_url": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "䐜",
+      "expected_count": 1,
+      "reason": "寒生䐜脹 및 䐜滿 계통의 고정 의학어를 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html"
+    },
+    {
+      "before": "[c]krobo[/c]",
+      "after": "瘕",
+      "expected_count": 1,
+      "reason": "본문 음훈 痂與瘕同音加를 대조",
+      "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%98%95"
+    },
+    {
+      "before": "[c]oimsu[/c]",
+      "after": "呃",
+      "expected_count": 1,
+      "reason": "본문의 寒䭇 속칭 및 뒤 조문의 呃逆 계통 풀이를 대조",
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=552746"
+    },
+    {
+      "before": "[c]itfi[/c]",
+      "after": "䗪",
+      "expected_count": 1,
+      "reason": "약명 䗪蟲을 공개 고전 전사와 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%B7%BA%E8%A8%BB/index.html"
+    },
+    {
+      "before": "[c]ymhvo[/c]",
+      "after": "蘆",
+      "expected_count": 3,
+      "reason": "瓠蘆 및 依樣畫瓠蘆를 동일 문헌 공개 영인에서 직접 확인",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SSID-10858732_%E5%82%B7%E5%AF%92%E8%AB%96%E6%A2%9D%E8%BE%A8.pdf"
+    },
+    {
+      "before": "[c]hdoma[/c]",
+      "after": "附",
+      "expected_count": 1,
+      "reason": "말미의 賦，附鑿也를 동일 문헌 공개 영인에서 직접 확인",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/SSID-10858732_%E5%82%B7%E5%AF%92%E8%AB%96%E6%A2%9D%E8%BE%A8.pdf"
     }
   ],
   "B/B013.txt": [

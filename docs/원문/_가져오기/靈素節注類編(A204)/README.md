@@ -7,6 +7,8 @@
 - 원본 파일: `A/A204.txt`
 - SHA-256: `3aebdb9dae5701bf1bafadb3887f038c4dd1d9d1fa4d0050301cca145ef852e9`
 - 更新: 2010年2月13日
+- 인터넷 대조 교정: 6건 (`corrections-applied.json` 참조)
+- 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차
 
