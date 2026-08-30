@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "before": "南方KT　濕，濕每襲虛",
+    "after": "南方卑濕，濕每襲虛",
+    "expected_count": 1,
+    "reason": "뒤의 北方地高無濕과 대응하는 고정 의학 지리 문구로 복원",
+    "evidence_note": "南方卑濕은 羅謙甫 논설의 고정 대구이며 공개 평행문과 일치함"
+  },
+  {
+    "before": "[u]KT　蛛傷[/u]",
+    "after": "[u]壁錢蛛傷[/u]",
+    "expected_count": 1,
+    "reason": "뒤 처방 문장이 《本草綱目》壁錢條와 연속 일치하여 표제 외자를 복원",
+    "evidence_url": "https://www.wentsing.com/bookContent/ff3d45ee88d04cb6bfade9eb46d87d0b_504d49f75e2c4d61bdcf8031d30d31af.html",
+    "evidence_note": "壁錢條의 其蟲咬人至死，惟以桑柴灰煎取汁調白礬末 문언과 정확히 대응함"
+  },
+  {
+    "before": "肉侵睛（□□花湯下）",
+    "after": "肉侵睛（密蒙花湯下）",
+    "expected_count": 1,
+    "reason": "동일 안과 병증의 고정 처방명으로 연속 결자 2자를 복원",
+    "evidence_url": "https://gushu.net.cn/book/%E4%B8%8D%E7%9F%A5%E9%86%AB%E5%BF%85%E8%A6%81/index.html",
+    "evidence_note": "공개 의서의 안과 처방명이 密蒙花湯으로 일치함"
+  }
+]

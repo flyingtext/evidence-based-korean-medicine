@@ -2,9 +2,9 @@
   "source_path": "O/O036.txt",
   "title": "扁鵲心書",
   "source_fullwidth_spaces": 457,
-  "restored_or_normalized_positions": 0,
+  "restored_or_normalized_positions": 3,
   "preserved_layout_spaces": 457,
-  "unresolved": 8,
+  "unresolved": 7,
   "method": [
     "jicheng.tw 공개 전문과 문맥 대조",
     "HT·KT·□·U+FFFD 및 레거시 태그 전수 검사",
@@ -14,5 +14,5 @@
     "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B8/index.html"
   ],
   "corrected_body_sha256": "cb1df804bc85cf92522eb90d8fae6adf177d132630aded4d3b61d803b05d1384",
-  "note": "남송 고전으로 권리는 안전하다. KT 2곳은 䀮䀮 후보가 확인되나 □ 4곳과 HT 2곳은 jicheng에도 대응 글자가 없어 문헌 전체를 원 스캔 판독 전 보류. 전각 공백 457곳 보존"
+  "note": "HT2는 공개 전사·영인으로 㿗 복원. 口 OCR 오인을 원판 결자틀 □로 정정. 원판 결락 □5와 KT2, 합계 7자리 보류. 전각 공백 457곳 보존."
 }

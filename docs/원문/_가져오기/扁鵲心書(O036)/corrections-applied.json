@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "從少腹而上逆臍，HT氣與橫弦，HT　疝也",
+    "after": "從少腹而上逆臍，㿗氣與橫弦，㿗疝也",
+    "expected_count": 1,
+    "reason": "동일 문장의 공개 전사와 공개 영인에서 반복 희자를 대조해 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/NAJDA-300-0206_%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B82.pdf#page=9",
+    "evidence_note": "內閣文庫본 PDF 9면의 두 동일 희자와 공개 전사 㿗氣與橫弦，㿗疝也가 일치함"
+  },
+  {
+    "before": "大法以口□為主，若膿成□□□而殞",
+    "after": "大法以□□為主，若膿成□□□而殞",
+    "expected_count": 1,
+    "reason": "독립 공개 영인 2종에서 OCR이 口로 오인한 결자틀을 원판대로 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/NAJDA-300-0206_%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B82.pdf#page=3",
+    "evidence_note": "內閣文庫본과 SSID-12130371 모두 大法以□□為主，若膿成□□□而殞로 인쇄됨"
+  }
+]
