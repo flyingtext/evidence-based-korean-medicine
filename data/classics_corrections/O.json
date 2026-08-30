@@ -45647,6 +45647,30 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E6%89%8B%E9%8F%A1/index.html",
       "evidence_note": "O/O059.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　砂",
+      "after": "硇砂",
+      "expected_count": 3,
+      "reason": "적취·정창 처방에 쓰는 광물 약재명이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%9F%B3%E4%B9%8B%E4%B8%89",
+      "evidence_note": "공개 본초 전사에서 약재 硇砂를 확인했다."
+    },
+    {
+      "before": "少陽如刺其皮，不可HT　仰",
+      "after": "少陽如刺其皮，不可俯仰",
+      "expected_count": 1,
+      "reason": "少陽腰痛에서 몸을 굽히고 펴지 못한다는 고정 표현이다.",
+      "evidence_url": "https://ctext.org/huangdi-neijing/ci-yao-tong-lun/zh",
+      "evidence_note": "《素問·刺腰痛論》 공개 전사에서 少陽腰痛의 `不可以俯仰`을 확인했다."
+    },
+    {
+      "before": "HT　（音滅，莫結反，眵也。）",
+      "after": "眜（音滅，莫結反，眵也。）",
+      "expected_count": 1,
+      "reason": "음과 뜻을 함께 단 자전 항목이다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E7%9C%9C&if=gb",
+      "evidence_note": "공개 자전에서 眜의 음과 눈곱 관련 뜻을 대조했다."
     }
   ],
   "O/O060.txt": [

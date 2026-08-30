@@ -2446,8 +2446,8 @@
     "verified": true,
     "input_nonpunctuation_characters": 69920,
     "output_nonpunctuation_characters": 69920,
-    "input_non_punctuation_characters": 70342,
-    "output_non_punctuation_characters": 70342
+    "input_non_punctuation_characters": 70341,
+    "output_non_punctuation_characters": 70341
   },
   "punctuation": {
     "ascii_count": 11962,
@@ -2456,8 +2456,8 @@
   },
   "correction_overlay_synchronized": true,
   "synchronization_edits": {
-    "replace": 0,
+    "replace": 4,
     "delete": 0,
-    "insert": 0
+    "insert": 1
   }
 }

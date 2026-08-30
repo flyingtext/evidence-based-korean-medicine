@@ -166,5 +166,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
     "evidence_note": "P/P0009.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "日久青筋肚大堅，面色青黃肌肉瘦，皮毛憔悴眼睛HT　。",
+    "after": "日久青筋肚大堅，面色青黃肌肉瘦，皮毛憔悴眼睛䀽。",
+    "expected_count": 1,
+    "reason": "공개 판본의 疳證總括 고유 문맥 대조로 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+    "evidence_note": "공개 페이지 疳證總括에 동일 문장이 '皮毛憔悴眼睛䀽'으로 수록됨; 좌우 문맥 고유 일치"
+  },
+  {
+    "before": "肌肉消瘦，皮毛憔悴，眼睛發HT　，而疳證成矣。",
+    "after": "肌肉消瘦，皮毛憔悴，眼睛發䀽，而疳證成矣。",
+    "expected_count": 1,
+    "reason": "동일 절의 운문과 산문 대응 및 공개 판본 자형에 따라 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+    "evidence_note": "바로 앞 疳證總括 운문의 '眼睛䀽'과 산문 풀이 '眼睛發…'가 대응하며 문헌 내 문맥이 고유함"
   }
 ]

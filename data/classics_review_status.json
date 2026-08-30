@@ -136,9 +136,9 @@
     },
     "H/H018.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1121,
+      "unresolved_candidates": 1119,
       "punctuation_status": "codex_verified",
-      "note": "명대 고전. 결자81곳 교정; 공백1112·HT6·KT2·□1 판독 전 보류. Codex 증분 표점 242청크 완료; 비표점 문자 70,342자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+      "note": "공개 고전 대조로 朴硝와 蘆籜을 추가 복원. 기존 重齶 규칙과 같은 좌표의 중복 제안은 제거했으며, 판면 확인이 필요한 잔여 1119자리 보류."
     },
     "H/H022.txt": {
       "collation_status": "in_progress",
@@ -162,7 +162,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1194,
       "punctuation_status": "source_present",
-      "note": "청대 고전. 결자103곳 교정; 공백1194곳 판독 전 보류. [u]502쌍→<ins>"
+      "note": "이번 대조에서 새로 확정할 수 있는 발생별 복원은 없음."
     },
     "G/G043.txt": {
       "collation_status": "complete",
@@ -184,9 +184,9 @@
     },
     "F/F022.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1199,
+      "unresolved_candidates": 1193,
       "punctuation_status": "source_present",
-      "note": "명대 고전. 결자118곳 교정; 공백1189·HT4·KT3·□3 판독 전 보류"
+      "note": "고정 약명·처방명과 탕화상 문맥으로 총 6개 표지를 복원."
     },
     "F/F101.txt": {
       "collation_status": "in_progress",
@@ -298,9 +298,9 @@
     },
     "C/C027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1218,
+      "unresolved_candidates": 1217,
       "punctuation_status": "source_present",
-      "note": "청대 고전. 결자395곳 교정; 공백1213·KT1·□4 판독 전 보류. [u]306쌍→<ins>"
+      "note": "인용 원전의 완전 일치 문구로 희자 搊 1자를 복원."
     },
     "C/C031.txt": {
       "collation_status": "in_progress",
@@ -3012,7 +3012,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1049,
       "punctuation_status": "source_present",
-      "note": "1799년 공개 고전. jicheng 대조로 결자 105곳 복원·판면 공백 242곳 확인. 전각 공백 995·KT 54곳 판독이 남아 정본 이관 보류"
+      "note": "최신 교정 뒤 전각 공백 995·KT 54자리가 남는다. 희귀 본초명과 교감 주기가 섞여 있어 동일 계통 전사 외의 독립 영인 근거가 없는 후보는 보류했다."
     },
     "C/C002.txt": {
       "collation_status": "in_progress",
@@ -3504,7 +3504,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1054,
       "punctuation_status": "source_present",
-      "note": "鮑相璈 1846년 청대 고전. HT2·KT19와 전각 공백1033이 인명·명물명·결락·조판에 혼재하여 공개 고본 전수 판독 전 보류"
+      "note": "최신 교정 뒤 전각 공백 1033·HT 2·KT 19자리가 남는다. 인명·방명 및 근대 이체자가 많아 공개 전사만으로 확정하지 않았다."
     },
     "D/D026.txt": {
       "collation_status": "in_progress",
@@ -3598,9 +3598,9 @@
     },
     "F/F002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1248,
+      "unresolved_candidates": 1247,
       "punctuation_status": "source_present",
-      "note": "唐宗海 1884년 청대 고전. 전각 공백1248곳이 외자 결락·처방 조판에 혼재하여 北京大學圖書館 영인 전수 판독 전 보류; [u]202쌍은 <ins> 의미 보존 변환"
+      "note": "공개 PDF의 동일 문장으로 苶 1자를 복원."
     },
     "F/F002a.txt": {
       "collation_status": "complete",
@@ -3700,15 +3700,15 @@
     },
     "H/H032.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1137,
+      "unresolved_candidates": 1130,
       "punctuation_status": "source_present",
-      "note": "沈金鰲 1774년 청대 고전. jicheng 공개 전문으로 결자108곳을 복원했으나 전각 공백1117·HT16·KT4가 결락·외자·조판에 혼재하여 国立公文書館 1784년刊 영인 전수 판독 전 보류"
+      "note": "HT 7자리를 복원했다. 나머지 HT·KT와 전각 공백은 확정 근거 부족으로 보류한다."
     },
     "H/H034.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1192,
+      "unresolved_candidates": 1186,
       "punctuation_status": "source_present",
-      "note": "魯伯嗣 전칭 1506년 명대 고전. jicheng 공개 전문으로 결자133곳을 복원했으나 전각 공백1186·KT6이 결락·외자·조판에 혼재하여 國家圖書館 天啟刊 영인 전수 판독 전 보류"
+      "note": "KT 6자리를 모두 복원했다. 전각 공백 1186자리는 결자로 확정되지 않아 보류한다."
     },
     "I/I001.txt": {
       "collation_status": "in_progress",
@@ -3834,7 +3834,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1034,
       "punctuation_status": "codex_verified",
-      "note": "吳亦鼎 1851년 성고·1853년 간행 청대 고전. 공개 영인 계통 대조로 결자143곳을 복원; 전각 공백1027·HT5·KT2는 판면 전수 판독 전 보류. 원자료는 사실상 무표점이므로 표점 필요; Codex 증분 표점 138청크 문자 동일성 검증 완료"
+      "note": "최신 교정 뒤 전각 공백 1027·HT 5·KT 2자리가 남는다. 거대 경혈·해부 문맥과 판면 공백이 혼재하여 공개 원문만으로 원판 자형을 확정하지 않았다."
     },
     "L/L000.txt": {
       "collation_status": "in_progress",
@@ -4078,9 +4078,9 @@
     },
     "O/O059.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1132,
+      "unresolved_candidates": 1127,
       "punctuation_status": "source_present",
-      "note": "黃濟之 1621년 명대 고전. 원자료 저자 朱丹溪는 오기. 결자71곳 복원; 공백1110·HT6·KT10·□6 보류. [u]952쌍은 <ins> 변환"
+      "note": "KT 3자리와 HT 2자리를 복원했다. 나머지 희자·파손부와 공백은 보류한다."
     },
     "O/O060.txt": {
       "collation_status": "in_progress",
@@ -4288,9 +4288,9 @@
     },
     "P/P0009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1116,
+      "unresolved_candidates": 1112,
       "punctuation_status": "source_present",
-      "note": "1742년 청대 관찬 고전. correction 21건 준비, 잔여 1116건. 권리 안전, 표점 충분"
+      "note": "HT 2자리와 각 토큰 뒤 결자용 전각 공백 2자리를 䀽 두 글자로 복원했다. 그 밖의 미해결 1112자리가 남아 승격하지 않는다."
     },
     "P/P0012.txt": {
       "collation_status": "in_progress",

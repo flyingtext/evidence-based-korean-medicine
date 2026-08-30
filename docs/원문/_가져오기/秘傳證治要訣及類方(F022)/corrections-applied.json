@@ -942,5 +942,37 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E8%AD%89%E6%B2%BB%E8%A6%81%E8%A8%A3%E5%8F%8A%E9%A1%9E%E6%96%B9/index.html",
     "evidence_note": "F/F022.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　砂水銀去肉積",
+    "after": "硇砂水銀去肉積",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E8%AD%89%E6%B2%BB%E8%A6%81%E8%A8%A3%E5%8F%8A%E9%A1%9E%E6%96%B9/index.html",
+    "evidence_note": "肉積을 제거하는 약재 열거의 정형 약명은 硇砂이며, 뒤의 水銀과 병렬된다.",
+    "reason": "肉積을 제거하는 약재 열거의 정형 약명은 硇砂이며, 뒤의 水銀과 병렬된다."
+  },
+  {
+    "before": "別暖HT　丹等分",
+    "after": "別暖䳢丹等分",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/1053/63",
+    "evidence_note": "동일 조문의 공개 전문에서 ‘別暖䳢丹等分’으로 확인.",
+    "reason": "동일 조문의 공개 전문에서 ‘別暖䳢丹等分’으로 확인."
+  },
+  {
+    "before": "HT　傷用蕨萁芒燒灰",
+    "after": "湯火傷用蕨萁芒燒灰",
+    "expected_count": 1,
+    "evidence_url": "https://cht.a-hospital.com/w/%E8%8A%92%E8%90%81%E9%AA%A8",
+    "evidence_note": "이어지는 香油調敷와 일치하는 芒萁의 정형 외용은 湯火傷이며, 공개 약물 자료도 芒萁莖心燒灰를 탕화상에 쓴다고 명시.",
+    "reason": "이어지는 香油調敷와 일치하는 芒萁의 정형 외용은 湯火傷이며, 공개 약물 자료도 芒萁莖心燒灰를 탕화상에 쓴다고 명시."
+  },
+  {
+    "before": "澤KT　",
+    "after": "澤漆",
+    "expected_count": 3,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
+    "evidence_note": "上氣而脈沉을 치료하는 처방명과 첫 약미는 澤漆湯·澤漆이며, 세 occurrence가 한 처방 안에서 반복됨.",
+    "reason": "上氣而脈沉을 치료하는 처방명과 첫 약미는 澤漆湯·澤漆이며, 세 occurrence가 한 처방 안에서 반복됨."
   }
 ]

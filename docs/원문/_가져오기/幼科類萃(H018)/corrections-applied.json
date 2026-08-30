@@ -646,5 +646,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%A1%9E%E8%90%83/index.html",
     "evidence_note": "H/H018.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　硝（半兩一方用一兩同礞石",
+    "after": "朴硝（半兩一方用一兩同礞石",
+    "expected_count": 1,
+    "reason": "礞石散에서 함께 불에 달구는 약재는 朴硝이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7%E4%B8%89%E5%8D%81%E4%B8%83",
+    "evidence_note": "공개 고전의 礞石散에서 青礞石과 朴硝의 배합을 확인했다."
+  },
+  {
+    "before": "如蘆HT盛水狀腫者名重　",
+    "after": "如蘆籜盛水狀腫者名重齶",
+    "expected_count": 1,
+    "reason": "蘆籜 모양의 종물을 重齶이라 정의한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E5%B9%BC%E6%96%B0%E6%9B%B8/index.html",
+    "evidence_note": "공개 전사에서 `如蘆籜盛水狀…名重齶`을 직접 확인했다."
   }
 ]

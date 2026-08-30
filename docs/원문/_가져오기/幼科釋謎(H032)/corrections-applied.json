@@ -862,5 +862,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%87%8B%E8%AC%8E/index.html",
     "evidence_note": "H/H032.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　煎",
+    "after": "㘂煎",
+    "expected_count": 4,
+    "reason": "소아의 초조한 울음소리를 뜻하는 병후 명칭이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%B9%BC%E7%A7%91/index.html",
+    "evidence_note": "공개 전사에서 `㘂煎聲`, `㘂煎煩躁病難安`을 직접 확인했다."
+  },
+  {
+    "before": "HT煎",
+    "after": "㘂煎",
+    "expected_count": 2,
+    "reason": "같은 㘂煎 병후의 태그 간격 변형이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%B9%BC%E7%A7%91/index.html",
+    "evidence_note": "동일 공개 전사와 일치한다."
+  },
+  {
+    "before": "醒吐HT　涎",
+    "after": "醒吐沫涎",
+    "expected_count": 1,
+    "reason": "癇 발작 뒤 침과 거품을 토하는 고정 증후이다.",
+    "evidence_url": "https://yibian.hopto.org/db/?lc=tw&sypno=37",
+    "evidence_note": "공개 의학 문헌에서 `醒時吐涎沫`을 확인했다."
   }
 ]
