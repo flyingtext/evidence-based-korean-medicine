@@ -1102,5 +1102,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%AB%8B%E9%BD%8B%E5%A4%96%E7%A7%91%E7%99%BC%E6%8F%AE/index.html",
     "evidence_note": "I/I001.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "凡人背近脊並HT　，皮裡有筋一層",
+    "after": "凡人背近脊並髀，皮裡有筋一層",
+    "expected_count": 1,
+    "reason": "등뼈 부근과 넓적다리의 근막층을 병렬로 든 문장이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%90%86%E4%BE%8B/index.html",
+    "evidence_note": "공개 독립 전사에서 `凡人背近脊，並髀皮里有筋一層`을 직접 확인했다."
+  },
+  {
+    "before": "一男子背HT　患之，微腫",
+    "after": "一男子背髀患之，微腫",
+    "expected_count": 1,
+    "reason": "등과 넓적다리에 생긴 동일 병증의 치험이다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=588954&if=gb",
+    "evidence_note": "공개 독립 전사에서 `一人背髀患之，微腫`을 직접 확인했다."
   }
 ]

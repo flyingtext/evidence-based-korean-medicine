@@ -550,5 +550,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E5%9B%A0%E8%AD%89%E6%B2%BB/index.html",
     "evidence_note": "O/O043.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目視KTKT　，所祈不能",
+    "after": "目視䀮䀮，所祈不能",
+    "expected_count": 1,
+    "reason": "肝氣 이상으로 눈이 어두운 상태를 나타내는 고정어이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
+    "evidence_note": "공개 원판에서 `目䀮䀮如無所見`을 확인했다."
+  },
+  {
+    "before": "思噎者，心怔悸，喜忘，目視KT　KT　。",
+    "after": "思噎者，心怔悸，喜忘，目視䀮䀮。",
+    "expected_count": 1,
+    "reason": "五噎 중 思噎의 고정 문장이다.",
+    "evidence_url": "https://www.shidianguji.com/book/SK1479/chapter/1lbea6jbaseuh",
+    "evidence_note": "독립 전사에서 `思噎者，心怔悸，善忘，目視䀮`을 확인했으며 원자료의 두 표지는 중첩형 䀮䀮을 보존한다."
   }
 ]

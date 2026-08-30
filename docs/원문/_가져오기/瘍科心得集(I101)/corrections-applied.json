@@ -1174,5 +1174,37 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E7%A7%91%E5%BF%83%E5%BE%97%E9%9B%86/index.html",
     "evidence_note": "I/I101.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[h3]辨懸癰HT舌論[/h3]",
+    "after": "[h3]辨懸癰重舌論[/h3]",
+    "expected_count": 1,
+    "reason": "懸癰과 重舌 두 병증을 함께 논한 장 제목이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%8D%B7%E5%85%AD%E5%8D%81%E5%85%AD",
+    "evidence_note": "공개 고전에서 舌下에 작은 혀가 겹쳐 생기는 병명을 重舌로 확인했다."
+  },
+  {
+    "before": "數日可愈。\n\nHT　舌者，舌根下生癰",
+    "after": "數日可愈。\n\n重舌者，舌根下生癰",
+    "expected_count": 1,
+    "reason": "바로 뒤에서 작은 혀가 하나 더 생긴다고 풀이한다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%8D%B7%E5%85%AD%E5%8D%81%E5%85%AD",
+    "evidence_note": "공개 고전의 重舌 정의와 일치한다."
+  },
+  {
+    "before": "而發外懸癰HT　舌者",
+    "after": "而發外懸癰重舌者",
+    "expected_count": 1,
+    "reason": "앞에서 정의한 懸癰·重舌 병명을 재인용한다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%8D%B7%E5%85%AD%E5%8D%81%E5%85%AD",
+    "evidence_note": "동일 병명 정의와 문맥이 일치한다."
+  },
+  {
+    "before": "俗名HT　HT　瘡。乃足太陽",
+    "after": "俗名瘌痢瘡。乃足太陽",
+    "expected_count": 1,
+    "reason": "白禿瘡의 통칭이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/30",
+    "evidence_note": "공개 고전 전사에서 `白禿瘡俗名瘌痢`를 직접 확인했다."
   }
 ]

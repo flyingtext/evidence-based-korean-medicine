@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "[c]rck[/c]咀",
+    "after": "㕮咀",
+    "expected_count": 402,
+    "reason": "약재를 잘게 썰어 달이는 탕제의 반복 고정어이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%95%AE&if=gb",
+    "evidence_note": "공개 고전 용례에서 `右伍味，㕮咀，以水柒升`을 확인했다."
+  }
+]

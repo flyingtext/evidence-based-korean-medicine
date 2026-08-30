@@ -10766,6 +10766,86 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E7%B4%A0%E5%95%8F%E7%9B%B4%E8%A7%A3/index.html",
       "evidence_note": "A/A010.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "歷代有□卿大儒互參考訂",
+      "after": "歷代有公卿大儒互參考訂",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E9%9B%86%E6%B3%A8/index.html",
+      "evidence_note": "서문의 관용 병렬어 公卿大儒.",
+      "reason": "서문의 관용 병렬어 公卿大儒."
+    },
+    {
+      "before": "陰陽HT　HT　，積傳為一周",
+      "after": "陰陽沖沖，積傳為一周",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "이어지는 주해가 沖沖을 직접 풀이함.",
+      "reason": "이어지는 주해가 沖沖을 직접 풀이함."
+    },
+    {
+      "before": "HT　，沖同。合上文",
+      "after": "沖，沖同。合上文",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "자체 음의 ‘沖同’에 따라 복원.",
+      "reason": "자체 음의 ‘沖同’에 따라 복원."
+    },
+    {
+      "before": "肉胝KT　",
+      "after": "肉胝胼",
+      "expected_count": 2,
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+      "evidence_note": "素問 원문의 ‘肉胝胼而唇揭’; 본문과 주해 두 occurrence.",
+      "reason": "素問 원문의 ‘肉胝胼而唇揭’; 본문과 주해 두 occurrence."
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮　䀮",
+      "expected_count": 11,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "腰痛·少陰·五運 조문의 정형 희자 目䀮䀮.",
+      "reason": "腰痛·少陰·五運 조문의 정형 희자 目䀮䀮."
+    },
+    {
+      "before": "云門、KT　骨、委中、髓空",
+      "after": "云門、髃骨、委中、髓空",
+      "expected_count": 2,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%A1%9E%E7%B6%93/16",
+      "evidence_note": "水熱穴論의 사지 열혈 열거에서 髃骨; 두 반복.",
+      "reason": "水熱穴論의 사지 열혈 열거에서 髃骨; 두 반복."
+    },
+    {
+      "before": "中KT　兩旁各五",
+      "after": "中膂兩旁各五",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%B4%E7%86%B1%E7%A9%B4%E8%AB%96",
+      "evidence_note": "본문 자체 주해가 ‘膂同’이라 명시.",
+      "reason": "본문 자체 주해가 ‘膂同’이라 명시."
+    },
+    {
+      "before": "背KT　筋",
+      "after": "背膂筋",
+      "expected_count": 4,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%97%85%E5%82%B3",
+      "evidence_note": "病傳 계열의 背膂筋 및 본문 주해 ‘之膂膀胱’.",
+      "reason": "病傳 계열의 背膂筋 및 본문 주해 ‘之膂膀胱’."
+    },
+    {
+      "before": "HT　上",
+      "after": "肌上",
+      "expected_count": 4,
+      "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC239%E5%8D%B7",
+      "evidence_note": "腎風 조문 ‘診在肌上，其色黑’과 그 주해.",
+      "reason": "腎風 조문 ‘診在肌上，其色黑’과 그 주해."
+    },
+    {
+      "before": "HT　，兩頰肉也",
+      "after": "肌，兩頰肉也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC239%E5%8D%B7",
+      "evidence_note": "바로 앞 診在肌上의 肌를 정의하는 주해.",
+      "reason": "바로 앞 診在肌上의 肌를 정의하는 주해."
     }
   ],
   "A/A011.txt": [

@@ -846,5 +846,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B4%96%E9%86%AB%E5%BE%91/index.html",
     "evidence_note": "O/O096.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[h4]KT瘡方法[/h4]",
+    "after": "[h4]㾾瘡方法[/h4]",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B4%96%E9%86%AB%E5%BE%91/index.html",
+    "evidence_note": "같은 처방 절의 공개 전문 표제가 㾾瘡이며 臁瘡의 이체 표기.",
+    "reason": "같은 처방 절의 공개 전문 표제가 㾾瘡이며 臁瘡의 이체 표기."
+  },
+  {
+    "before": "（治KT　瘡神效。）",
+    "after": "（治㾾瘡神效。）",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B4%96%E9%86%AB%E5%BE%91/index.html",
+    "evidence_note": "秘傳碧雲膏 주치가 ‘治㾾瘡神效’로 확인됨.",
+    "reason": "秘傳碧雲膏 주치가 ‘治㾾瘡神效’로 확인됨."
   }
 ]

@@ -6,5 +6,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
     "evidence_note": "K/K003a.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[c]buyvu[/c]",
+    "after": "䀮",
+    "expected_count": 52,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "모든 occurrence가 目視·遠視·昏夜無見 문맥의 䀮䀮이며 반복 코드 대응이 확정적.",
+    "reason": "모든 occurrence가 目視·遠視·昏夜無見 문맥의 䀮䀮이며 반복 코드 대응이 확정적."
+  },
+  {
+    "before": "[c]gino[/c]",
+    "after": "呿",
+    "expected_count": 4,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+    "evidence_note": "欠呿 및 欠不能呿의 정형 인용.",
+    "reason": "欠呿 및 欠不能呿의 정형 인용."
+  },
+  {
+    "before": "[c]kppa[/c]",
+    "after": "痎",
+    "expected_count": 7,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E7%98%A7%E8%AB%96",
+    "evidence_note": "모든 occurrence가 痎瘧 병명.",
+    "reason": "모든 occurrence가 痎瘧 병명."
   }
 ]

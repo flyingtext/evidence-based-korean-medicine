@@ -9667,6 +9667,46 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
       "evidence_note": "D/D008.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　侍家君之任滑台",
+      "after": "昔侍家君之任滑台",
+      "expected_count": 2,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+      "evidence_note": "王袞 자서와 제요가 인용한 동일 회고 문구 ‘昔侍家君之任滑臺’.",
+      "reason": "王袞 자서와 제요가 인용한 동일 회고 문구 ‘昔侍家君之任滑臺’."
+    },
+    {
+      "before": "瘡癬KT　癢",
+      "after": "瘡癬瘙癢",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+      "evidence_note": "피부 질환의 정형 병후 瘙癢.",
+      "reason": "피부 질환의 정형 병후 瘙癢."
+    },
+    {
+      "before": "癮疹KT　癢",
+      "after": "癮疹瘙癢",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+      "evidence_note": "癮疹의 정형 병후 瘙癢.",
+      "reason": "癮疹의 정형 병후 瘙癢."
+    },
+    {
+      "before": "強KT　氣用力",
+      "after": "強努氣用力",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+      "evidence_note": "분만 시 힘쓰는 행위의 정형어 努氣用力.",
+      "reason": "분만 시 힘쓰는 행위의 정형어 努氣用力."
+    },
+    {
+      "before": "亦須易為丸KT　",
+      "after": "亦須易為丸劑",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+      "evidence_note": "환약 조제 문맥의 丸劑.",
+      "reason": "환약 조제 문맥의 丸劑."
     }
   ],
   "D/D010.txt": [
@@ -39474,6 +39514,16 @@
       "expected_count": 4,
       "reason": "《外臺秘要》 평행문의 연면 병증어 `皯䵴`과 네 occurrence의 `皯[c]wfcwa[/c]`가 일치한다.",
       "evidence_url": "https://ctext.org/wiki.pl?chapter=980102&if=gb"
+    }
+  ],
+  "D/D002a.txt": [
+    {
+      "before": "[c]rck[/c]咀",
+      "after": "㕮咀",
+      "expected_count": 402,
+      "reason": "약재를 잘게 썰어 달이는 탕제의 반복 고정어이다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%95%AE&if=gb",
+      "evidence_note": "공개 고전 용례에서 `右伍味，㕮咀，以水柒升`을 확인했다."
     }
   ]
 }
