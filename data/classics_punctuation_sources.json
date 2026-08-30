@@ -1,0 +1,602 @@
+{
+  "schema_version": 1,
+  "method": {
+    "selection": "punctuation_count / CJK_count * 1000 < 1",
+    "cjk_ranges": "U+3400–U+4DBF, U+4E00–U+9FFF, U+F900–U+FAFF",
+    "online_extraction": "text inside HTML elements carrying data-sec; tags, punctuation, whitespace removed",
+    "shingle": "up to 10,000 deterministic 7-CJK source shingles, tested for exact presence online"
+  },
+  "approval_threshold": {
+    "sampled_7gram_match_ratio": 0.92
+  },
+  "books": [
+    {
+      "source_path": "A/A000a.txt",
+      "title": "黃帝內經素問遺篇",
+      "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E9%81%BA%E7%AF%87_1/index.html",
+      "source_cjk_length": 18142,
+      "online_cjk_length": 19058,
+      "length_ratio_online_to_source": 1.050491,
+      "difflib_quick_ratio": 0.967742,
+      "sampled_7gram_match_ratio": 0.9359,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "A/A007.txt",
+      "title": "素問六氣玄珠密語",
+      "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E/index.html",
+      "source_cjk_length": 78728,
+      "online_cjk_length": 78969,
+      "length_ratio_online_to_source": 1.003061,
+      "difflib_quick_ratio": 0.992866,
+      "sampled_7gram_match_ratio": 0.9431,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "A/A012.txt",
+      "title": "黃帝內經素問校義",
+      "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E6%A0%A1%E7%BE%A9/index.html",
+      "source_cjk_length": 11541,
+      "online_cjk_length": 11629,
+      "length_ratio_online_to_source": 1.007625,
+      "difflib_quick_ratio": 0.990073,
+      "sampled_7gram_match_ratio": 0.9221,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "A/A013.txt",
+      "title": "讀素問鈔",
+      "url": "https://jicheng.tw/tcm/book/%E8%AE%80%E7%B4%A0%E5%95%8F%E9%88%94/index.html",
+      "source_cjk_length": 114322,
+      "online_cjk_length": 114675,
+      "length_ratio_online_to_source": 1.003088,
+      "difflib_quick_ratio": 0.993297,
+      "sampled_7gram_match_ratio": 0.948,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "A/A102.txt",
+      "title": "靈樞經脈翼",
+      "url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E%E7%B6%93%E8%84%88%E7%BF%BC/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.978607
+    },
+    {
+      "source_path": "A/A203.txt",
+      "title": "內經藥瀹",
+      "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E8%97%A5%E7%80%B9/index.html",
+      "source_cjk_length": 115824,
+      "online_cjk_length": 115969,
+      "length_ratio_online_to_source": 1.001252,
+      "difflib_quick_ratio": 0.990789,
+      "sampled_7gram_match_ratio": 0.9373,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "A/A400.txt",
+      "title": "醫經讀",
+      "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E8%AE%80/index.html",
+      "source_cjk_length": 24051,
+      "online_cjk_length": 24163,
+      "length_ratio_online_to_source": 1.004657,
+      "difflib_quick_ratio": 0.992284,
+      "sampled_7gram_match_ratio": 0.937,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "B/B010a.txt",
+      "title": "傷寒直格",
+      "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%9B%B4%E6%A0%BC/index.html",
+      "source_cjk_length": 30290,
+      "online_cjk_length": 29845,
+      "length_ratio_online_to_source": 0.985309,
+      "difflib_quick_ratio": 0.963698,
+      "sampled_7gram_match_ratio": 0.963698,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "B/B015.txt",
+      "title": "傷寒證治準繩",
+      "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%82%B7%E5%AF%92/index.html",
+      "source_cjk_length": 282482,
+      "online_cjk_length": 282956,
+      "length_ratio_online_to_source": 1.001678,
+      "difflib_quick_ratio": 0.992197,
+      "sampled_7gram_match_ratio": 0.9448,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "B/B024.txt",
+      "title": "傷寒懸解",
+      "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%87%B8%E8%A7%A3/index.html",
+      "source_cjk_length": 71424,
+      "online_cjk_length": 71520,
+      "length_ratio_online_to_source": 1.001344,
+      "difflib_quick_ratio": 0.991199,
+      "sampled_7gram_match_ratio": 0.9373,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "B/B029.txt",
+      "title": "傷寒審證表",
+      "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%AF%A9%E8%AD%89%E8%A1%A8/index.html",
+      "source_cjk_length": 17781,
+      "online_cjk_length": 17819,
+      "length_ratio_online_to_source": 1.002137,
+      "difflib_quick_ratio": 0.993034,
+      "sampled_7gram_match_ratio": 0.948,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "C/C011.txt",
+      "title": "本草品匯精要",
+      "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%93%81%E5%BD%99%E7%B2%BE%E8%A6%81/index.html",
+      "source_cjk_length": 521050,
+      "online_cjk_length": 545969,
+      "length_ratio_online_to_source": 1.047825,
+      "difflib_quick_ratio": 0.965932,
+      "sampled_7gram_match_ratio": 0.8683,
+      "status": "review_required"
+    },
+    {
+      "source_path": "C/C030.txt",
+      "title": "本草綱目別名錄",
+      "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html",
+      "source_cjk_length": 9912,
+      "online_cjk_length": 10605,
+      "length_ratio_online_to_source": 1.069915,
+      "difflib_quick_ratio": 0.94702,
+      "sampled_7gram_match_ratio": 0.94,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "C/C102.txt",
+      "title": "炮炙大法",
+      "url": "https://jicheng.tw/tcm/book/%E7%82%AE%E7%82%99%E5%A4%A7%E6%B3%95/index.html",
+      "source_cjk_length": 23408,
+      "online_cjk_length": 23636,
+      "length_ratio_online_to_source": 1.00974,
+      "difflib_quick_ratio": 0.982867,
+      "sampled_7gram_match_ratio": 0.8763,
+      "status": "review_required"
+    },
+    {
+      "source_path": "D/D000.txt",
+      "title": "五十二病方",
+      "url": "https://jicheng.tw/tcm/book/%E4%BA%94%E5%8D%81%E4%BA%8C%E7%97%85%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.927887
+    },
+    {
+      "source_path": "D/D012.txt",
+      "title": "雞峰普濟方",
+      "url": "https://jicheng.tw/tcm/book/%E9%9B%9E%E5%B3%B0%E6%99%AE%E6%BF%9F%E6%96%B9/index.html",
+      "source_cjk_length": 198872,
+      "online_cjk_length": 259600,
+      "length_ratio_online_to_source": 1.305362,
+      "difflib_quick_ratio": 0.861845,
+      "sampled_7gram_match_ratio": 0.8413,
+      "status": "review_required"
+    },
+    {
+      "source_path": "D/D022.txt",
+      "title": "醫方集宜",
+      "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E5%AE%9C/index.html",
+      "source_cjk_length": 142807,
+      "online_cjk_length": 149864,
+      "length_ratio_online_to_source": 1.049416,
+      "difflib_quick_ratio": 0.961332,
+      "sampled_7gram_match_ratio": 0.8208,
+      "status": "review_required"
+    },
+    {
+      "source_path": "D/D031.txt",
+      "title": "祖劑",
+      "url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
+      "source_cjk_length": 50883,
+      "online_cjk_length": 60761,
+      "length_ratio_online_to_source": 1.194132,
+      "difflib_quick_ratio": 0.903085,
+      "sampled_7gram_match_ratio": 0.8167,
+      "status": "review_required"
+    },
+    {
+      "source_path": "D/D035.txt",
+      "title": "急救便方",
+      "url": "https://jicheng.tw/tcm/book/%E6%80%A5%E6%95%91%E4%BE%BF%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.903155
+    },
+    {
+      "source_path": "D/D047.txt",
+      "title": "十劑表",
+      "url": "https://jicheng.tw/tcm/book/%E5%8D%81%E5%8A%91%E8%A1%A8/index.html",
+      "source_cjk_length": 9846,
+      "online_cjk_length": 14051,
+      "length_ratio_online_to_source": 1.427077,
+      "difflib_quick_ratio": 0.818596,
+      "sampled_7gram_match_ratio": 0.822561,
+      "status": "review_required"
+    },
+    {
+      "source_path": "D/D049.txt",
+      "title": "方症會要",
+      "url": "https://jicheng.tw/tcm/book/%E6%96%B9%E7%97%87%E6%9C%83%E8%A6%81/index.html",
+      "source_cjk_length": 53506,
+      "online_cjk_length": 56534,
+      "length_ratio_online_to_source": 1.056592,
+      "difflib_quick_ratio": 0.96394,
+      "sampled_7gram_match_ratio": 0.8773,
+      "status": "review_required"
+    },
+    {
+      "source_path": "E/E013.txt",
+      "title": "溫病指南",
+      "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.993205
+    },
+    {
+      "source_path": "F/F021.txt",
+      "title": "雜病治例",
+      "url": "https://jicheng.tw/tcm/book/%E9%9B%9C%E7%97%85%E6%B2%BB%E4%BE%8B/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.984184
+    },
+    {
+      "source_path": "G/G012.txt",
+      "title": "女科指要",
+      "url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E6%8C%87%E8%A6%81/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.989766
+    },
+    {
+      "source_path": "G/G020.txt",
+      "title": "內府秘傳經驗女科",
+      "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%BA%9C%E7%A7%98%E5%82%B3%E7%B6%93%E9%A9%97%E5%A5%B3%E7%A7%91/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.99233
+    },
+    {
+      "source_path": "G/G021.txt",
+      "title": "竹泉生女科集要",
+      "url": "https://jicheng.tw/tcm/book/%E7%AB%B9%E6%B3%89%E7%94%9F%E5%A5%B3%E7%A7%91%E9%9B%86%E8%A6%81/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.992365
+    },
+    {
+      "source_path": "G/G025.txt",
+      "title": "家傳女科經驗摘奇",
+      "url": "https://jicheng.tw/tcm/book/%E5%AE%B6%E5%82%B3%E5%A5%B3%E7%A7%91%E7%B6%93%E9%A9%97%E6%91%98%E5%A5%87/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.99018
+    },
+    {
+      "source_path": "G/G028.txt",
+      "title": "婦科秘方",
+      "url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E7%A7%91%E7%A7%98%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.983229
+    },
+    {
+      "source_path": "G/G047.txt",
+      "title": "竹林寺女科秘方",
+      "url": "https://jicheng.tw/tcm/book/%E7%AB%B9%E6%9E%97%E5%AF%BA%E5%A5%B3%E7%A7%91%E7%A7%98%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.999909
+    },
+    {
+      "source_path": "H/H023.txt",
+      "title": "活幼口議",
+      "url": "https://jicheng.tw/tcm/book/%E6%B4%BB%E5%B9%BC%E5%8F%A3%E8%AD%B0/index.html",
+      "source_cjk_length": 63135,
+      "online_cjk_length": 63588,
+      "length_ratio_online_to_source": 1.007175,
+      "difflib_quick_ratio": 0.987445,
+      "sampled_7gram_match_ratio": 0.9232,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "H/H025.txt",
+      "title": "慈幼便覽",
+      "url": "https://jicheng.tw/tcm/book/%E6%85%88%E5%B9%BC%E4%BE%BF%E8%A6%BD/index.html",
+      "source_cjk_length": 28675,
+      "online_cjk_length": 28880,
+      "length_ratio_online_to_source": 1.007149,
+      "difflib_quick_ratio": 0.988029,
+      "sampled_7gram_match_ratio": 0.988029,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "I/I012.txt",
+      "title": "外科傳薪集",
+      "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%82%B3%E8%96%AA%E9%9B%86/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.985339
+    },
+    {
+      "source_path": "I/I203.txt",
+      "title": "麻疹備要方論",
+      "url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%96%B9%E5%82%99%E8%A6%81%E6%96%B9%E8%AB%96/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.99167
+    },
+    {
+      "source_path": "I/I204.txt",
+      "title": "麻疹闡註",
+      "url": "https://jicheng.tw/tcm/book/%E9%BA%BB%E7%96%B9%E9%97%A1%E8%A8%BB/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.984838
+    },
+    {
+      "source_path": "I/I205.txt",
+      "title": "經驗麻科",
+      "url": "https://jicheng.tw/tcm/book/%E7%B6%93%E9%A9%97%E9%BA%BB%E7%A7%91/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.988625
+    },
+    {
+      "source_path": "I/I300.txt",
+      "title": "劉涓子鬼遺方",
+      "url": "https://jicheng.tw/tcm/book/%E5%8A%89%E6%B6%93%E5%AD%90%E9%AC%BC%E9%81%BA%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.987894
+    },
+    {
+      "source_path": "J/J001.txt",
+      "title": "正體類要",
+      "url": "https://jicheng.tw/tcm/book/%E6%AD%A3%E9%AB%94%E9%A1%9E%E8%A6%81/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.989238
+    },
+    {
+      "source_path": "J/J012.txt",
+      "title": "秘傳劉伯溫家藏接骨金瘡禁方",
+      "url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E5%8A%89%E4%BC%AF%E6%BA%AB%E5%AE%B6%E8%97%8F%E6%8E%A5%E9%AA%A8%E9%87%91%E7%98%A1%E7%A6%81%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.98187
+    },
+    {
+      "source_path": "J/J016.txt",
+      "title": "傷科匯纂",
+      "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E7%A7%91%E5%BD%99%E7%BA%82/index.html",
+      "source_cjk_length": 29361,
+      "online_cjk_length": 29663,
+      "length_ratio_online_to_source": 1.010286,
+      "difflib_quick_ratio": 0.982109,
+      "sampled_7gram_match_ratio": 0.982109,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "K/K005.txt",
+      "title": "針灸集成",
+      "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+      "source_cjk_length": 118476,
+      "online_cjk_length": 117815,
+      "length_ratio_online_to_source": 0.994421,
+      "difflib_quick_ratio": 0.980681,
+      "sampled_7gram_match_ratio": 0.8868,
+      "status": "review_required"
+    },
+    {
+      "source_path": "K/K009.txt",
+      "title": "針經節要",
+      "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%B6%93%E7%AF%80%E8%A6%81/index.html",
+      "source_cjk_length": 6380,
+      "online_cjk_length": 6451,
+      "length_ratio_online_to_source": 1.011129,
+      "difflib_quick_ratio": 0.985426,
+      "sampled_7gram_match_ratio": 0.887669,
+      "status": "review_required"
+    },
+    {
+      "source_path": "K/K015.txt",
+      "title": "楊敬齋針灸全書",
+      "url": "https://jicheng.tw/tcm/book/%E6%A5%8A%E6%95%AC%E9%BD%8B%E9%87%9D%E7%81%B8%E5%85%A8%E6%9B%B8/index.html",
+      "source_cjk_length": 27692,
+      "online_cjk_length": 27692,
+      "length_ratio_online_to_source": 1.0,
+      "difflib_quick_ratio": 1.0,
+      "sampled_7gram_match_ratio": 1.0,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "K/K016.txt",
+      "title": "子午流注針經",
+      "url": "https://jicheng.tw/tcm/book/%E5%AD%90%E5%8D%88%E6%B5%81%E6%B3%A8%E9%87%9D%E7%B6%93/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.984092
+    },
+    {
+      "source_path": "K/K019.txt",
+      "title": "巢氏病源補養宣導法",
+      "url": "https://jicheng.tw/tcm/book/%E5%B7%A2%E6%B0%8F%E7%97%85%E6%BA%90%E8%A3%9C%E9%A4%8A%E5%AE%A3%E5%B0%8E%E6%B3%95/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.991028
+    },
+    {
+      "source_path": "K/K101.txt",
+      "title": "神灸經綸",
+      "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
+      "source_cjk_length": 64563,
+      "online_cjk_length": 65729,
+      "length_ratio_online_to_source": 1.01806,
+      "difflib_quick_ratio": 0.982792,
+      "sampled_7gram_match_ratio": 0.9135,
+      "status": "review_required"
+    },
+    {
+      "source_path": "K/K102.txt",
+      "title": "黃帝明堂灸經",
+      "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E6%98%8E%E5%A0%82%E7%81%B8%E7%B6%93/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.966946
+    },
+    {
+      "source_path": "L/L104.txt",
+      "title": "咽喉秘集",
+      "url": "https://jicheng.tw/tcm/book/%E5%92%BD%E5%96%89%E7%A7%98%E9%9B%86/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.987198
+    },
+    {
+      "source_path": "L/L108.txt",
+      "title": "喉科集腋",
+      "url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E9%9B%86%E8%85%8B/index.html",
+      "source_cjk_length": 33419,
+      "online_cjk_length": 33419,
+      "length_ratio_online_to_source": 1.0,
+      "difflib_quick_ratio": 1.0,
+      "sampled_7gram_match_ratio": 1.0,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "M/M006.txt",
+      "title": "察病指南",
+      "url": "https://jicheng.tw/tcm/book/%E5%AF%9F%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.991002
+    },
+    {
+      "source_path": "M/M102.txt",
+      "title": "脈確",
+      "url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%A2%BA/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.992766
+    },
+    {
+      "source_path": "N/N031.txt",
+      "title": "證治心傳",
+      "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E5%BF%83%E5%82%B3/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.99269
+    },
+    {
+      "source_path": "N/N037.txt",
+      "title": "凌臨靈方",
+      "url": "https://jicheng.tw/tcm/book/%E5%87%8C%E8%87%A8%E9%9D%88%E6%96%B9/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.990562
+    },
+    {
+      "source_path": "O/O010.txt",
+      "title": "經絡考",
+      "url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E8%80%83/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.979121
+    },
+    {
+      "source_path": "O/O019.txt",
+      "title": "心醫集",
+      "url": "https://jicheng.tw/tcm/book/%E5%BF%83%E9%86%AB%E9%9B%86/index.html",
+      "source_cjk_length": 29325,
+      "online_cjk_length": 29401,
+      "length_ratio_online_to_source": 1.002592,
+      "difflib_quick_ratio": 0.990532,
+      "sampled_7gram_match_ratio": 0.990532,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O032.txt",
+      "title": "養生類要",
+      "url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+      "source_cjk_length": 58622,
+      "online_cjk_length": 59615,
+      "length_ratio_online_to_source": 1.016939,
+      "difflib_quick_ratio": 0.980573,
+      "sampled_7gram_match_ratio": 0.9062,
+      "status": "review_required"
+    },
+    {
+      "source_path": "O/O037.txt",
+      "title": "玉機微義",
+      "url": "https://jicheng.tw/tcm/book/%E7%8E%89%E6%A9%9F%E5%BE%AE%E7%BE%A9/index.html",
+      "source_cjk_length": 265128,
+      "online_cjk_length": 265295,
+      "length_ratio_online_to_source": 1.00063,
+      "difflib_quick_ratio": 0.983947,
+      "sampled_7gram_match_ratio": 0.9253,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O048.txt",
+      "title": "醫說",
+      "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "source_cjk_length": 111425,
+      "online_cjk_length": 111800,
+      "length_ratio_online_to_source": 1.003365,
+      "difflib_quick_ratio": 0.989576,
+      "sampled_7gram_match_ratio": 0.9238,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O053.txt",
+      "title": "醫壘元戎",
+      "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%A3%98%E5%85%83%E6%88%8E/index.html",
+      "source_cjk_length": 11315,
+      "online_cjk_length": 11370,
+      "length_ratio_online_to_source": 1.004861,
+      "difflib_quick_ratio": 0.991669,
+      "sampled_7gram_match_ratio": 0.9313,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O054.txt",
+      "title": "蘭室秘藏",
+      "url": "https://jicheng.tw/tcm/book/%E8%98%AD%E5%AE%A4%E7%A7%98%E8%97%8F/index.html",
+      "source_cjk_length": 44695,
+      "online_cjk_length": 46167,
+      "length_ratio_online_to_source": 1.032934,
+      "difflib_quick_ratio": 0.978957,
+      "sampled_7gram_match_ratio": 0.8967,
+      "status": "review_required"
+    },
+    {
+      "source_path": "O/O070.txt",
+      "title": "辨症玉函",
+      "url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD/index.html",
+      "source_cjk_length": 39333,
+      "online_cjk_length": 39371,
+      "length_ratio_online_to_source": 1.000966,
+      "difflib_quick_ratio": 0.995451,
+      "sampled_7gram_match_ratio": 0.9679,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O079.txt",
+      "title": "藥症忌宜",
+      "url": "https://jicheng.tw/tcm/book/%E8%97%A5%E7%97%87%E5%BF%8C%E5%AE%9C/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.990634
+    },
+    {
+      "source_path": "O/O099.txt",
+      "title": "續醫說",
+      "url": "https://jicheng.tw/tcm/book/%E7%BA%8C%E9%86%AB%E8%AA%AA/index.html",
+      "source_cjk_length": 33754,
+      "online_cjk_length": 33943,
+      "length_ratio_online_to_source": 1.005599,
+      "difflib_quick_ratio": 0.988197,
+      "sampled_7gram_match_ratio": 0.9326,
+      "status": "alignment_approved"
+    },
+    {
+      "source_path": "O/O105.txt",
+      "title": "奇經八脈考",
+      "url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html",
+      "status": "alignment_approved",
+      "sampled_7gram_match_ratio": 0.986438
+    },
+    {
+      "source_path": "P/P0101.txt",
+      "title": "證治準繩‧傷寒",
+      "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%82%B7%E5%AF%92/index.html",
+      "source_cjk_length": 282453,
+      "online_cjk_length": 282956,
+      "length_ratio_online_to_source": 1.001781,
+      "difflib_quick_ratio": 0.992188,
+      "sampled_7gram_match_ratio": 0.9453,
+      "status": "alignment_approved"
+    }
+  ]
+}
