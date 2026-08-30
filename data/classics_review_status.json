@@ -226,9 +226,9 @@
     },
     "D/D049.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1876,
+      "unresolved_candidates": 1861,
       "punctuation_status": "codex_verified",
-      "note": "청대 고전. 결자47곳 교정; 공백1861·KT15 판독 전 보류. Codex 증분 표점 298청크 완료; 비표점 문자 52,262자 보존, 교정 오버레이 동기화, 문자 치환·삽입·삭제 0 검증 통과."
+      "note": "KT 15개가 한 절 안에서 모두 동일 글자 呃을 가리키며 전체 치환 횟수 15회 확인. 기존 규칙 좌표와 겹치지 않음. 무표점 전각 공백은 판면 대조 전 보류. 잔여 후보 1861자리."
     },
     "D/D051.txt": {
       "collation_status": "in_progress",
@@ -3082,9 +3082,9 @@
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1858,
+      "unresolved_candidates": 1823,
       "punctuation_status": "source_present",
-      "note": "1624년 공개 고전. jicheng 대조로 결자 1052곳 복원·판면 공백 346곳 확인. 전각 공백 1676곳과 HT 75·KT 107곳 판독이 남아 정본 이관 보류"
+      "note": "기존 1052개 규칙을 순차 적용한 결과 일부 선행 규칙의 포괄 문맥 때문에 후행 12개가 이미 흡수되어 0회가 되는 기존 규칙 중첩을 확인했다. 신규 규칙은 잔존 표지만 대상으로 하며 서로 좌표가 겹치지 않고 각 expected_count와 일치한다. 35개 결락 토큰 확정. 잔여 후보 1823자리."
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
@@ -3142,9 +3142,9 @@
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1848,
+      "unresolved_candidates": 1925,
       "punctuation_status": "source_present",
-      "note": "jicheng 대조로 전각 공백 결자 628곳 복원. 전각 공백 1219곳과 HT 83·KT 54·□ 491·BMP 표식 1곳의 원본 판독이 남아 정본 이관 보류"
+      "note": "원초·교주·평안 주석의 원결락 표지와 일본 고초본 이체자가 대량 혼재한다. 다른 현대 정리본만으로 원판 결자를 메우지 않았다. 잔여 후보 1925자리."
     },
     "A/A003.txt": {
       "collation_status": "in_progress",
@@ -3414,7 +3414,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1817,
       "punctuation_status": "source_present",
-      "note": "盧之頤 1647년 고전. KT 19·□1과 전각 공백 1797자리가 명물명·죽류·우류 등 대형 열거문에서 결락과 조판 구분에 혼재. 國家圖書館·四庫 공개 영인 전수 판독 전 보류"
+      "note": "희귀 동식물명·고전 훈고와 대량 결락이 혼재한다. 공개 전사도 같은 KT 표지를 보존하거나 판본 자형 근거가 없어 신규 확정을 보류했다. 잔여 후보 1817자리."
     },
     "C/C023.txt": {
       "collation_status": "complete",
@@ -3532,21 +3532,21 @@
     },
     "D/D063.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1877,
+      "unresolved_candidates": 1875,
       "punctuation_status": "source_present",
-      "note": "鄒存檢 청대 고전. KT5와 전각 공백1872가 처방 동작·결락·조판에 혼재하여 공개 판면 전수 대조 전 보류"
+      "note": "5개 KT 중 외치 동작과 용기 문맥 2개만 확정. 黏染 뒤 신체부위, 騙通法 문장, 乳癰 단락 경계는 판면 없이는 유일 복원 불가. 규칙별 1회 일치, 상호 비중첩. 잔여 후보 1875자리."
     },
     "D/D064.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2147,
+      "unresolved_candidates": 2145,
       "punctuation_status": "source_present",
-      "note": "《文堂集驗方》 고전 원저. KT2와 전각 공백2145가 명물·상처명·결락·조판에 혼재하여 공개 판면 전수 대조 전 보류"
+      "note": "평행 본초와 동일 처방 주치로 KT 2자를 모두 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 2145자리."
     },
     "D/D068.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1967,
+      "unresolved_candidates": 1965,
       "punctuation_status": "source_present",
-      "note": "《濟世神驗良方》 청대 고전. HT1·KT1·□33과 전각 공백1932가 약명·용량·문장 결락 및 조판에 혼재하여 공개 판면 전수 대조 전 보류"
+      "note": "고정 약명과 소아 추나 혈명으로 잔여 HT·KT를 모두 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 1965자리."
     },
     "D/D075.txt": {
       "collation_status": "in_progress",
@@ -3646,9 +3646,9 @@
     },
     "G/G026.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1776,
+      "unresolved_candidates": 1773,
       "punctuation_status": "source_present",
-      "note": "張介賓 1637년 명대 고전. 癥·奭 결자2곳 복원; 나머지 전각 공백1776곳은 판면 전수 대조 전 보류. [u]756쌍은 <ins> 변환"
+      "note": "HT 3개와 각 뒤 결자 공백 3개를 艱嗣·嗣續으로 복원했다. 나머지 전각 공백 1773자리는 판면 배열과 결락이 혼재해 승격하지 않는다. 잔여 후보 1773자리."
     },
     "G/G036.txt": {
       "collation_status": "in_progress",
@@ -3826,9 +3826,9 @@
     },
     "K/K008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2091,
+      "unresolved_candidates": 2074,
       "punctuation_status": "source_present",
-      "note": "李學川 1815년 청대 고전. 공개 전문 대조로 결자471곳을 복원; 전각 공백1996·HT16·KT35·□44는 판면 전수 판독 전 보류"
+      "note": "《內經》 평행문과 자체 음의로 䀮 12자, 呿 1자, 聶 2자, 脝 2자 등 총 17개 표지를 복원. 기존 규칙과 겹침 없음. 잔여 후보 2074자리."
     },
     "K/K101.txt": {
       "collation_status": "in_progress",
@@ -3970,9 +3970,9 @@
     },
     "O/O035.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1893,
+      "unresolved_candidates": 1870,
       "punctuation_status": "source_present",
-      "note": "고전 의서. 결자283곳 교정, 조판2669곳 확인. 공백1859·HT3·KT31 판독 전 보류. 표점 충분."
+      "note": "23개 결락 토큰 확정. 신규 before는 현재 보정 본문에서 기대 횟수대로 일치하며, KT氣와 KT　氣는 문자열·좌표가 달라 겹치지 않는다. 기존 규칙 적용 중 후행 14개가 선행 규칙에 흡수되는 기존 중첩도 별도 확인했으며 신규 좌표와는 무관하다. 잔여 후보 1870자리."
     },
     "O/O037.txt": {
       "collation_status": "in_progress",
@@ -4014,7 +4014,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1825,
       "punctuation_status": "source_present",
-      "note": "張從正 1228년 고전의 공개 고판본 교차 계통. 전각 공백1800·HT23·KT2는 전수 판독 전 보류. [u]4쌍은 <ins> 변환"
+      "note": "병증명·지명·속담·희귀 자형이 섞인 HT 23·KT 2자리를 독립 영인 없이 추정 치환하지 않았다. 잔여 후보 1825자리."
     },
     "O/O047.txt": {
       "collation_status": "in_progress",
@@ -4294,9 +4294,9 @@
     },
     "P/P0012.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1990,
+      "unresolved_candidates": 1987,
       "punctuation_status": "source_present",
-      "note": "吳謙等 1742년 청대 고전. jicheng 1892년 석인본·四庫 계통 대조로 결자 287곳 복원; 조판 공백 2104곳 확인; 1990곳 보류"
+      "note": "위키문헌의 동일 본문·주석으로 KT 3자를 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 1987자리."
     },
     "P/P0013.txt": {
       "collation_status": "in_progress",

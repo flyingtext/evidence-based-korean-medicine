@@ -19398,6 +19398,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%80%A2%E6%BA%90/index.html",
       "evidence_note": "K/K008.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　KT　",
+      "after": "目䀮䀮",
+      "expected_count": 6,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "모든 occurrence가 目昏黑·無所見 문맥이며 《內經》의 희자 䀮䀮.",
+      "reason": "모든 occurrence가 目昏黑·無所見 문맥이며 《內經》의 희자 䀮䀮."
+    },
+    {
+      "before": "欠KT　。(音去)",
+      "after": "欠呿。(音去)",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "evidence_note": "手太陰別絡의 원문 ‘虛則欠呿’이며 자체 음의 音去와도 일치.",
+      "reason": "手太陰別絡의 원문 ‘虛則欠呿’이며 자체 음의 音去와도 일치."
+    },
+    {
+      "before": "枯腸胃。HT　辟",
+      "after": "枯腸胃。聶辟",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E",
+      "evidence_note": "《靈樞》 계열의 ‘腸胃聶辟’과 뒤 자체 음의가 일치.",
+      "reason": "《靈樞》 계열의 ‘腸胃聶辟’과 뒤 자체 음의가 일치."
+    },
+    {
+      "before": "(HT　丑涉切畏怯也",
+      "after": "(聶丑涉切畏怯也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wiktionary.org/wiki/%E8%81%B6",
+      "evidence_note": "聶의 반절 丑涉切과 뜻 畏怯을 직접 제시하는 자체 주석.",
+      "reason": "聶의 반절 丑涉切과 뜻 畏怯을 직접 제시하는 자체 주석."
+    },
+    {
+      "before": "HT　腹　痛。形中上者",
+      "after": "脝腹　痛。形中上者",
+      "expected_count": 1,
+      "evidence_url": "https://www.zdic.net/hans/%E8%84%9D",
+      "evidence_note": "腹部가 팽만한 뜻의 희자 脝이며 바로 뒤 주석 音烹滿也와 일치.",
+      "reason": "腹部가 팽만한 뜻의 희자 脝이며 바로 뒤 주석 音烹滿也와 일치."
+    },
+    {
+      "before": "HT　音烹滿也",
+      "after": "脝音烹滿也",
+      "expected_count": 1,
+      "evidence_url": "https://www.zdic.net/hans/%E8%84%9D",
+      "evidence_note": "脝의 음과 뜻을 직접 풀이한 자체 음의.",
+      "reason": "脝의 음과 뜻을 직접 풀이한 자체 음의."
     }
   ],
   "K/K101.txt": [

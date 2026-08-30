@@ -31028,6 +31028,13 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%96%B9%E7%97%87%E6%9C%83%E8%A6%81/index.html",
       "evidence_note": "D/D049.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT",
+      "after": "呃",
+      "expected_count": 15,
+      "evidence": "해당 절은 噦와 呃逆을 명시적으로 구분하며 모든 KT가 發呃·呃逆·呃止 문맥이다. 평행 의서도 咳逆의 속칭을 呃逆으로 확인한다. https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E9%91%92",
+      "reason": "공개 판본 대조로 결자 복원"
     }
   ],
   "D/D052.txt": [
@@ -39564,6 +39571,58 @@
       "reason": "약재를 잘게 썰어 달이는 탕제의 반복 고정어이다.",
       "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%95%AE&if=gb",
       "evidence_note": "공개 고전 용례에서 `右伍味，㕮咀，以水柒升`을 확인했다."
+    }
+  ],
+  "D/D063.txt": [
+    {
+      "before": "密陀僧研細末KT　之",
+      "after": "密陀僧研細末撲之",
+      "expected_count": 1,
+      "evidence": "분말 외치의 정형 동사 研細末撲之이며 문맥상 유일.",
+      "reason": "공개 판본 대조로 결자 복원"
+    },
+    {
+      "before": "於KT　內搗爛",
+      "after": "於器內搗爛",
+      "expected_count": 1,
+      "evidence": "공개 평행 처방이 川楝子를 搗爛하되 忌用鐵器라고 명시해 器內를 지지한다. https://cloudtcm.com/shu/t1/282/81",
+      "reason": "공개 판본 대조로 결자 복원"
+    }
+  ],
+  "D/D068.txt": [
+    {
+      "before": "氣噎加香附、HT　芎、木香",
+      "after": "氣噎加香附、川芎、木香",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E4%B8%96%E7%A5%9E%E9%A9%97%E8%89%AF%E6%96%B9/index.html",
+      "evidence_note": "香附·木香·檳榔·砂仁과 병렬되는 고정 약명 川芎.",
+      "reason": "香附·木香·檳榔·砂仁과 병렬되는 고정 약명 川芎."
+    },
+    {
+      "before": "在兒KT尾穴，左轉十下",
+      "after": "在兒龜尾穴，左轉十下",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B9%BC%E7%A7%91%E9%90%B5%E9%8F%A1",
+      "evidence_note": "소아 추나에서 배변을 유도할 때 쓰는 정형 혈명은 龜尾穴.",
+      "reason": "소아 추나에서 배변을 유도할 때 쓰는 정형 혈명은 龜尾穴."
+    }
+  ],
+  "D/D064.txt": [
+    {
+      "before": "取腹中KT　肚。不見水切碎",
+      "after": "取腹中腸肚。不見水切碎",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=101005&if=gb",
+      "evidence_note": "蝦蟆를 약용하는 평행 본초에 ‘並腸肚搗碎’라고 하여 腸肚가 확정됨.",
+      "reason": "蝦蟆를 약용하는 평행 본초에 ‘並腸肚搗碎’라고 하여 腸肚가 확정됨."
+    },
+    {
+      "before": "〔KT　傷〕　皂礬二兩",
+      "after": "〔拶傷〕　皂礬二兩",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/formula/16218",
+      "evidence_note": "같은 구성·용법의 皂礬煎 주치가 拶傷手指이며 본문 뒤에도 ‘治夾傷末藥’이라 설명.",
+      "reason": "같은 구성·용법의 皂礬煎 주치가 拶傷手指이며 본문 뒤에도 ‘治夾傷末藥’이라 설명."
     }
   ]
 }

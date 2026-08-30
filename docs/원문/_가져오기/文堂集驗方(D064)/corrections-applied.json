@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "取腹中KT　肚。不見水切碎",
+    "after": "取腹中腸肚。不見水切碎",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=101005&if=gb",
+    "evidence_note": "蝦蟆를 약용하는 평행 본초에 ‘並腸肚搗碎’라고 하여 腸肚가 확정됨.",
+    "reason": "蝦蟆를 약용하는 평행 본초에 ‘並腸肚搗碎’라고 하여 腸肚가 확정됨."
+  },
+  {
+    "before": "〔KT　傷〕　皂礬二兩",
+    "after": "〔拶傷〕　皂礬二兩",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/formula/16218",
+    "evidence_note": "같은 구성·용법의 皂礬煎 주치가 拶傷手指이며 본문 뒤에도 ‘治夾傷末藥’이라 설명.",
+    "reason": "같은 구성·용법의 皂礬煎 주치가 拶傷手指이며 본문 뒤에도 ‘治夾傷末藥’이라 설명."
+  }
+]

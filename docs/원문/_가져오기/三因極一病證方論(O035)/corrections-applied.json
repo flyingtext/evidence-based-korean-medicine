@@ -2262,5 +2262,75 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%89%E5%9B%A0%E6%A5%B5%E4%B8%80%E7%97%85%E8%AD%89%E6%96%B9%E8%AB%96/index.html",
     "evidence_note": "O/O035.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強几几",
+    "expected_count": 2,
+    "evidence": "桂枝加葛根湯의 전승 원문 項背強几几 대조.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 3,
+    "evidence": "《內經》 계통 안증의 고정 표현 目䀮䀮. https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng,_Volume_428_(1700-1725).djvu/62",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮䀮",
+    "expected_count": 1,
+    "evidence": "동일 안증 표현.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "目視KTKT　",
+    "after": "目視䀮䀮",
+    "expected_count": 1,
+    "evidence": "동일 안증 표현의 붙임 변형.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "燒KT散",
+    "after": "燒褌散",
+    "expected_count": 1,
+    "evidence": "《傷寒論》 계통 처방명 燒褌散. https://www.scm.cuhk.edu.hk/zh-tw/elearning-platform/chinese-medicine-texts-collection-2/chinese-medicine-texts-collection-4/c19/",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "婦人KT　襠",
+    "after": "婦人褌襠",
+    "expected_count": 1,
+    "evidence": "동 처방 재료인 婦人中褌/褌襠 평행문. https://c.cnkgraph.com/eBooks/%E5%9B%9B%E5%BA%AB/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E7%96%8F%20%E6%98%8E%20%E7%B9%86%E5%B8%8C%E9%9B%8D/%E5%8D%B7%E4%BA%8C.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "赤脈KT",
+    "after": "赤脈攢",
+    "expected_count": 3,
+    "evidence": "《傷寒九十論》 평행문이 夏曰赤脈攢으로 확인된다. https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E4%B9%9D%E5%8D%81%E8%AB%96",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "KT氣",
+    "after": "䅽氣",
+    "expected_count": 2,
+    "evidence": "적취 평행문 問曰病有積有聚有䅽氣 및 䅽飪之邪 대조. https://www.lovelybigduck.top/upload/%E4%BC%A4%E5%AF%92%E6%9D%82%E7%97%85%E8%AE%BA%C2%B7%E6%A1%82%E6%9E%97%E5%8F%A4%E6%9C%AC%C2%B7%E7%B9%81%E4%BD%93%C2%B7%E6%B0%91%E9%97%B4%E4%B8%AD%E5%8C%BB%E6%A0%A1%E7%89%88.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "KT　氣者，即宿食也",
+    "after": "䅽氣者，即宿食也",
+    "expected_count": 1,
+    "evidence": "동일 적취 정의의 띄어쓰기 변형.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "由KT　飪之邪",
+    "after": "由䅽飪之邪",
+    "expected_count": 1,
+    "evidence": "평행문이 䅽飪之邪從口入者宿食也로 확인된다. https://www.lovelybigduck.top/upload/%E4%BC%A4%E5%AF%92%E6%9D%82%E7%97%85%E8%AE%BA%C2%B7%E6%A1%82%E6%9E%97%E5%8F%A4%E6%9C%AC%C2%B7%E7%B9%81%E4%BD%93%C2%B7%E6%B0%91%E9%97%B4%E4%B8%AD%E5%8C%BB%E6%A0%A1%E7%89%88.pdf",
+    "reason": "공개 판본 대조로 결자 복원"
   }
 ]

@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "before": "密陀僧研細末KT　之",
+    "after": "密陀僧研細末撲之",
+    "expected_count": 1,
+    "evidence": "분말 외치의 정형 동사 研細末撲之이며 문맥상 유일.",
+    "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "於KT　內搗爛",
+    "after": "於器內搗爛",
+    "expected_count": 1,
+    "evidence": "공개 평행 처방이 川楝子를 搗爛하되 忌用鐵器라고 명시해 器內를 지지한다. https://cloudtcm.com/shu/t1/282/81",
+    "reason": "공개 판본 대조로 결자 복원"
+  }
+]

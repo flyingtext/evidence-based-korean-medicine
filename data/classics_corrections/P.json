@@ -3863,6 +3863,22 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
       "evidence_note": "P/P0012.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "跌撲KT　墜等類",
+      "after": "跌撲閃墜等類",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%A4%96%E7%A7%91%E5%8D%B7%E4%B8%8A",
+      "evidence_note": "독립 공개 전문의 동일 주석이 ‘跌扑閃墜等類’로 확인됨.",
+      "reason": "독립 공개 전문의 동일 주석이 ‘跌扑閃墜等類’로 확인됨."
+    },
+    {
+      "before": "嘔KT　",
+      "after": "嘔呃",
+      "expected_count": 2,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%A4%96%E7%A7%91%E5%8D%B7%E4%B8%8A",
+      "evidence_note": "七惡歌와 바로 뒤 주석이 각각 ‘嘔呃繁’, ‘嘔呃，嘔而作格逆也’로 확인됨.",
+      "reason": "七惡歌와 바로 뒤 주석이 각각 ‘嘔呃繁’, ‘嘔呃，嘔而作格逆也’로 확인됨."
     }
   ],
   "P/P0013a.txt": [

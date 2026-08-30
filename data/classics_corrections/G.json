@@ -6886,6 +6886,22 @@
       "reason": "jicheng 공개 전문 대조 인명 결자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E8%A6%8F/index.html",
       "evidence_note": "寇宗奭 확인"
+    },
+    {
+      "before": "隨孕隨產，本無形跡，蓋明產者胎已成形，小產必覺；暗產者胎仍似水，直溜何知？故凡今之HT　HT　家，多無大產",
+      "after": "隨孕隨產，本無形跡，蓋明產者胎已成形，小產必覺；暗產者胎仍似水，直溜何知？故凡今之艱嗣家，多無大產",
+      "expected_count": 1,
+      "reason": "같은 단락의 반복 어구와 공개 판본 문맥으로 결자 복원",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A9%A6%E4%BA%BA%E8%A6%8F",
+      "evidence_note": "바로 앞 '艱嗣之家'와 뒤 '艱嗣求方者'가 동일 용어를 반복하고, 공개 婦人規 판본도 같은 위치를 艱嗣 문맥으로 제시함"
+    },
+    {
+      "before": "凡苦於是者，惟察之、信之，則祚HT　之猷，或非渺小",
+      "after": "凡苦於是者，惟察之、信之，則嗣續之猷，或非渺小",
+      "expected_count": 1,
+      "reason": "독립 공개 宜麟策 전사의 고유 문맥 대조로 결자와 인접 오기 복원",
+      "evidence_url": "https://www.jendow.com.tw/wiki/%E5%AE%9C%E9%BA%9F%E7%AD%96",
+      "evidence_note": "독립 전사에 동일 문장이 '惟察之信之，則嗣續之猷，或非渺小'로 수록됨"
     }
   ],
   "G/G036.txt": [

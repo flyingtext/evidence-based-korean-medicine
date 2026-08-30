@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "氣噎加香附、HT　芎、木香",
+    "after": "氣噎加香附、川芎、木香",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E4%B8%96%E7%A5%9E%E9%A9%97%E8%89%AF%E6%96%B9/index.html",
+    "evidence_note": "香附·木香·檳榔·砂仁과 병렬되는 고정 약명 川芎.",
+    "reason": "香附·木香·檳榔·砂仁과 병렬되는 고정 약명 川芎."
+  },
+  {
+    "before": "在兒KT尾穴，左轉十下",
+    "after": "在兒龜尾穴，左轉十下",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B9%BC%E7%A7%91%E9%90%B5%E9%8F%A1",
+    "evidence_note": "소아 추나에서 배변을 유도할 때 쓰는 정형 혈명은 龜尾穴.",
+    "reason": "소아 추나에서 배변을 유도할 때 쓰는 정형 혈명은 龜尾穴."
+  }
+]

@@ -374,5 +374,12 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%96%B9%E7%97%87%E6%9C%83%E8%A6%81/index.html",
     "evidence_note": "D/D049.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "KT",
+    "after": "呃",
+    "expected_count": 15,
+    "evidence": "해당 절은 噦와 呃逆을 명시적으로 구분하며 모든 KT가 發呃·呃逆·呃止 문맥이다. 평행 의서도 咳逆의 속칭을 呃逆으로 확인한다. https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E9%91%92",
+    "reason": "공개 판본 대조로 결자 복원"
   }
 ]
