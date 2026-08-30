@@ -393,11 +393,9 @@
       "output_directory": "內經博議(A201)",
       "markdown_files": 6,
       "translation_units": 62,
-      "corrections_applied": 108,
+      "corrections_applied": 109,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '是謂食\\u3000。  胃移熱於膽。亦曰食\\u3000' (0/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "A/A202.txt",
@@ -1209,7 +1207,7 @@
       "output_directory": "傷寒纘論(B020)",
       "markdown_files": 4,
       "translation_units": 135,
-      "corrections_applied": 10,
+      "corrections_applied": 16,
       "punctuated": false,
       "warnings": []
     },
@@ -1761,7 +1759,7 @@
       "output_directory": "金匱玉函要略述義(B105)",
       "markdown_files": 4,
       "translation_units": 25,
-      "corrections_applied": 77,
+      "corrections_applied": 83,
       "punctuated": false,
       "warnings": []
     },
@@ -5743,7 +5741,7 @@
       "output_directory": "女科經綸(G017)",
       "markdown_files": 9,
       "translation_units": 657,
-      "corrections_applied": 99,
+      "corrections_applied": 141,
       "punctuated": false,
       "warnings": []
     },
@@ -9131,7 +9129,7 @@
       "output_directory": "四診抉微(M003)",
       "markdown_files": 13,
       "translation_units": 221,
-      "corrections_applied": 2,
+      "corrections_applied": 6,
       "punctuated": false,
       "warnings": []
     },
@@ -9660,7 +9658,7 @@
       "output_directory": "冷廬醫話(N004)",
       "markdown_files": 8,
       "translation_units": 114,
-      "corrections_applied": 92,
+      "corrections_applied": 98,
       "punctuated": false,
       "warnings": [
         "미처리 태그: dz, l"
@@ -10212,7 +10210,7 @@
       "output_directory": "重慶堂隨筆(N036)",
       "markdown_files": 8,
       "translation_units": 17,
-      "corrections_applied": 89,
+      "corrections_applied": 92,
       "punctuated": false,
       "warnings": []
     },
@@ -11425,7 +11423,7 @@
       "output_directory": "養生導引秘籍(O029)",
       "markdown_files": 12,
       "translation_units": 153,
-      "corrections_applied": 9,
+      "corrections_applied": 12,
       "punctuated": false,
       "warnings": []
     },

@@ -113986,6 +113986,30 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
       "evidence_note": "도인법의 上齶.",
       "reason": "도인법의 上齶."
+    },
+    {
+      "before": "伸腰、HT　，小腹，五息止",
+      "after": "伸腰、填小腹，五息止",
+      "expected_count": 1,
+      "evidence_url": "https://discovery.ucl.ac.uk/10061324/1/Dolly%20Yang%20PhD%20thesis%20UCL%202018.pdf",
+      "evidence_note": "도인법 원문을 인용한 독립 연구에서 ‘伸腰，填小腹，五息止’로 확인됨.",
+      "reason": "도인법 원문을 인용한 독립 연구에서 ‘伸腰，填小腹，五息止’로 확인됨."
+    },
+    {
+      "before": "HT　者大努，使氣滿",
+      "after": "填者大努，使氣滿",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/SSID-13209620_%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%AD%B8%E5%A4%A7%E6%88%90_%E5%B7%A2%E6%B0%8F%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E7%B8%BD%E8%AB%96_2_%E9%80%9A%E6%B2%BB%E9%A1%9E.pdf",
+      "evidence_note": "독립 영인 OCR에 ‘填者大努使氣滿’의 평행문이 확인됨.",
+      "reason": "독립 영인 OCR에 ‘填者大努使氣滿’의 평행문이 확인됨."
+    },
+    {
+      "before": "小腹者，即HT　腹牽氣",
+      "after": "小腹者，即填腹牽氣",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/SSID-13209620_%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%AD%B8%E5%A4%A7%E6%88%90_%E5%B7%A2%E6%B0%8F%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E7%B8%BD%E8%AB%96_2_%E9%80%9A%E6%B2%BB%E9%A1%9E.pdf",
+      "evidence_note": "같은 평행문에서 동작 해설이 填腹으로 이어짐.",
+      "reason": "같은 평행문에서 동작 해설이 填腹으로 이어짐."
     }
   ],
   "O/O048.txt": [

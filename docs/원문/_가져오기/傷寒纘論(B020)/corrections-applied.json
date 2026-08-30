@@ -78,5 +78,47 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%8E%A5%E9%99%B0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB",
     "evidence_note": "蛔厥 해설에서 蛕 반복.",
     "reason": "蛔厥 해설에서 蛕 반복."
+  },
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強几几",
+    "expected_count": 4,
+    "evidence": "《傷寒論》 갈근탕 계열 조문의 정문 項背強几几.",
+    "reason": "《傷寒論》 갈근탕 계열 조문의 정문 項背強几几."
+  },
+  {
+    "before": "身體強KTKT然",
+    "after": "身體強几几然",
+    "expected_count": 1,
+    "evidence": "《金匱》 괄루계지탕 조문의 정문 身體強几几然.",
+    "reason": "《金匱》 괄루계지탕 조문의 정문 身體強几几然."
+  },
+  {
+    "before": "KT　KT　頸不舒也",
+    "after": "几几頸不舒也",
+    "expected_count": 1,
+    "evidence": "바로 앞 項背強几几의 음의·증후 해설.",
+    "reason": "바로 앞 項背強几几의 음의·증후 해설."
+  },
+  {
+    "before": "故令氣KT　言胃氣虛竭也",
+    "after": "故令氣䭇言胃氣虛竭也",
+    "expected_count": 1,
+    "evidence": "《傷寒論·辨脈法》 평행문의 난자 氣䭇.",
+    "reason": "《傷寒論·辨脈法》 평행문의 난자 氣䭇."
+  },
+  {
+    "before": "其人則KT　。",
+    "after": "其人則噎。",
+    "expected_count": 1,
+    "evidence": "물과 한기가 서로 부딪쳐 생기는 증후 噎.",
+    "reason": "물과 한기가 서로 부딪쳐 생기는 증후 噎."
+  },
+  {
+    "before": "故令KT　也",
+    "after": "故令噎也",
+    "expected_count": 1,
+    "evidence": "직전 본문 ‘其人則噎’의 해설 평행문.",
+    "reason": "직전 본문 ‘其人則噎’의 해설 평행문."
   }
 ]

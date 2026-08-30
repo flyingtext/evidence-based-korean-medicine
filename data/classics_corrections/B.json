@@ -18309,6 +18309,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
       "evidence_note": "B/B105.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "有HT　氣",
+      "after": "有檝氣",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
+      "evidence_note": "공개 원문 전사의 동일 문장이 ‘有檝氣’로 확인됨.",
+      "reason": "공개 원문 전사의 동일 문장이 ‘有檝氣’로 확인됨."
+    },
+    {
+      "before": "（脈經。HT　氣。並作系氣",
+      "after": "（脈經。檝氣。並作系氣",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
+      "evidence_note": "동일 원문의 교감주가 ‘檝氣，並作系氣’로 직접 확인됨.",
+      "reason": "동일 원문의 교감주가 ‘檝氣，並作系氣’로 직접 확인됨."
+    },
+    {
+      "before": "至HT　氣。則固屬易治",
+      "after": "至檝氣。則固屬易治",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
+      "evidence_note": "뒤의 논설에서도 같은 용어가 ‘檝氣’로 확인됨.",
+      "reason": "뒤의 논설에서도 같은 용어가 ‘檝氣’로 확인됨."
+    },
+    {
+      "before": "身體強KT　KT　然",
+      "after": "身體強𠘧𠘧然",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
+      "evidence_note": "공개 전사 및 《金匱玉函經》 평행문에서 ‘身體強𠘧𠘧然’으로 확인됨.",
+      "reason": "공개 전사 및 《金匱玉函經》 평행문에서 ‘身體強𠘧𠘧然’으로 확인됨."
+    },
+    {
+      "before": "即以帛微KT　。然傳灰囊",
+      "after": "即以帛微裛。然傳灰囊",
+      "expected_count": 1,
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html",
+      "evidence_note": "《海藥》 인용문의 동일 구절이 ‘即以帛微裛’으로 직접 확인됨.",
+      "reason": "《海藥》 인용문의 동일 구절이 ‘即以帛微裛’으로 직접 확인됨."
+    },
+    {
+      "before": "王氏HT洄集",
+      "after": "王氏溯洄集",
+      "expected_count": 1,
+      "evidence_url": "https://www.zysj.com.cn/lilunshuji/zhongyicidian2057/40459.html",
+      "evidence_note": "왕리의 서명이 《醫經溯洄集》임이 독립 서지 자료에서 확인됨.",
+      "reason": "왕리의 서명이 《醫經溯洄集》임이 독립 서지 자료에서 확인됨."
     }
   ],
   "B/B106.txt": [
@@ -22935,6 +22983,48 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%8E%A5%E9%99%B0%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB",
       "evidence_note": "蛔厥 해설에서 蛕 반복.",
       "reason": "蛔厥 해설에서 蛕 반복."
+    },
+    {
+      "before": "項背強KT　KT　",
+      "after": "項背強几几",
+      "expected_count": 4,
+      "evidence": "《傷寒論》 갈근탕 계열 조문의 정문 項背強几几.",
+      "reason": "《傷寒論》 갈근탕 계열 조문의 정문 項背強几几."
+    },
+    {
+      "before": "身體強KTKT然",
+      "after": "身體強几几然",
+      "expected_count": 1,
+      "evidence": "《金匱》 괄루계지탕 조문의 정문 身體強几几然.",
+      "reason": "《金匱》 괄루계지탕 조문의 정문 身體強几几然."
+    },
+    {
+      "before": "KT　KT　頸不舒也",
+      "after": "几几頸不舒也",
+      "expected_count": 1,
+      "evidence": "바로 앞 項背強几几의 음의·증후 해설.",
+      "reason": "바로 앞 項背強几几의 음의·증후 해설."
+    },
+    {
+      "before": "故令氣KT　言胃氣虛竭也",
+      "after": "故令氣䭇言胃氣虛竭也",
+      "expected_count": 1,
+      "evidence": "《傷寒論·辨脈法》 평행문의 난자 氣䭇.",
+      "reason": "《傷寒論·辨脈法》 평행문의 난자 氣䭇."
+    },
+    {
+      "before": "其人則KT　。",
+      "after": "其人則噎。",
+      "expected_count": 1,
+      "evidence": "물과 한기가 서로 부딪쳐 생기는 증후 噎.",
+      "reason": "물과 한기가 서로 부딪쳐 생기는 증후 噎."
+    },
+    {
+      "before": "故令KT　也",
+      "after": "故令噎也",
+      "expected_count": 1,
+      "evidence": "직전 본문 ‘其人則噎’의 해설 평행문.",
+      "reason": "직전 본문 ‘其人則噎’의 해설 평행문."
     }
   ],
   "B/B016.txt": [

@@ -24986,11 +24986,11 @@
       "reason": "《素問·氣厥論》 ‘傳為虛，腸澼，死不可治’."
     },
     {
-      "before": "是謂食　。  胃移熱於膽。亦曰食　",
-      "after": "是謂食亦。  胃移熱於膽。亦曰食亦",
+      "before": "是謂食　。\n\n胃移熱於膽。亦曰食　",
+      "after": "是謂食亦。\n\n胃移熱於膽。亦曰食亦",
       "expected_count": 1,
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%A3%E5%8E%A5%E8%AB%96",
-      "evidence_note": "氣厥論의 병명 食亦 두 occurrence.",
+      "evidence_note": "氣厥論의 병명 食亦 두 occurrence. 원문의 실제 단락 경계(개행 2자)에 맞춰 문맥 수정.",
       "reason": "氣厥論의 병명 食亦 두 occurrence."
     }
   ],

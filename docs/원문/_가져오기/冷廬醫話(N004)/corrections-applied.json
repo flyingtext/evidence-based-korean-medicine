@@ -734,5 +734,53 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
     "evidence_note": "N/N004.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "以HT　按：",
+    "after": "以湉按：",
+    "expected_count": 3,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1",
+    "evidence_note": "저자는 陸以湉이며 본문의 저자 자주 ‘以湉按’에 해당함.",
+    "reason": "저자는 陸以湉이며 본문의 저자 자주 ‘以湉按’에 해당함."
+  },
+  {
+    "before": "恆為以HT　言之",
+    "after": "恆為以湉言之",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1",
+    "evidence_note": "저자 자신의 이름 以湉을 가리키는 문장으로 저자 정보와 일치함.",
+    "reason": "저자 자신의 이름 以湉을 가리키는 문장으로 저자 정보와 일치함."
+  },
+  {
+    "before": "岩洞中HT　猱充仞",
+    "after": "岩洞中猿猱充仞",
+    "expected_count": 1,
+    "evidence_url": "https://www.piccc.com/lilunshuji/lengluyihua/701-10-6.html",
+    "evidence_note": "군원류를 뜻하는 고정 병렬어 ‘猿猱’이며 《金川鎖記》 인용 문맥과 일치함.",
+    "reason": "군원류를 뜻하는 고정 병렬어 ‘猿猱’이며 《金川鎖記》 인용 문맥과 일치함."
+  },
+  {
+    "before": "海寧許珊林觀察HT　，精醫理",
+    "after": "海寧許珊林觀察權，精醫理",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=3095637&if=en",
+    "evidence_note": "독립 전기 자료에서 珊林은 許權의 호이고 평도주를 지낸 인물로 확인됨.",
+    "reason": "독립 전기 자료에서 珊林은 許權의 호이고 평도주를 지낸 인물로 확인됨."
+  },
+  {
+    "before": "《元史》黃HT　傳孕二十四月",
+    "after": "《元史》黃溍傳孕二十四月",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "공개 《冷廬醫話》 전사의 동일 문장이 ‘黃溍傳’으로 확인됨.",
+    "reason": "공개 《冷廬醫話》 전사의 동일 문장이 ‘黃溍傳’으로 확인됨."
+  },
+  {
+    "before": "海寧許辛木部曹HT　精醫理",
+    "after": "海寧許辛木部曹楣精醫理",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=3095637&if=en",
+    "evidence_note": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함.",
+    "reason": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함."
   }
 ]

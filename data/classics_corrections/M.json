@@ -771,6 +771,34 @@
       "expected_count": 1,
       "reason": "jicheng 공개 전문 대조 운문 결자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%A8%BA%E6%8A%89%E5%BE%AE/index.html"
+    },
+    {
+      "before": "脫肉破　，真臟見",
+      "after": "脫肉破䐃，真臟見",
+      "expected_count": 1,
+      "evidence": "《靈樞·本神》의 정형 구문 破䐃脫肉과 같은 난자 䐃.",
+      "reason": "《靈樞·本神》의 정형 구문 破䐃脫肉과 같은 난자 䐃."
+    },
+    {
+      "before": "（破　者，臥久骨露",
+      "after": "（破䐃者，臥久骨露",
+      "expected_count": 1,
+      "evidence": "바로 앞 破䐃를 풀이하는 반복 주석.",
+      "reason": "바로 앞 破䐃를 풀이하는 반복 주석."
+    },
+    {
+      "before": "螈　",
+      "after": "螈瘛",
+      "expected_count": 2,
+      "evidence": "경련 병명 螈瘛.",
+      "reason": "경련 병명 螈瘛."
+    },
+    {
+      "before": "此即食　，亦云食疸",
+      "after": "此即食積，亦云食疸",
+      "expected_count": 1,
+      "evidence": "소아의 적열·벽괴를 설명하는 병명 食積.",
+      "reason": "소아의 적열·벽괴를 설명하는 병명 食積."
     }
   ],
   "M/M004.txt": [

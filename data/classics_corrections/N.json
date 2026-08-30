@@ -3854,6 +3854,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
       "evidence_note": "N/N004.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "以HT　按：",
+      "after": "以湉按：",
+      "expected_count": 3,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1",
+      "evidence_note": "저자는 陸以湉이며 본문의 저자 자주 ‘以湉按’에 해당함.",
+      "reason": "저자는 陸以湉이며 본문의 저자 자주 ‘以湉按’에 해당함."
+    },
+    {
+      "before": "恆為以HT　言之",
+      "after": "恆為以湉言之",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1",
+      "evidence_note": "저자 자신의 이름 以湉을 가리키는 문장으로 저자 정보와 일치함.",
+      "reason": "저자 자신의 이름 以湉을 가리키는 문장으로 저자 정보와 일치함."
+    },
+    {
+      "before": "岩洞中HT　猱充仞",
+      "after": "岩洞中猿猱充仞",
+      "expected_count": 1,
+      "evidence_url": "https://www.piccc.com/lilunshuji/lengluyihua/701-10-6.html",
+      "evidence_note": "군원류를 뜻하는 고정 병렬어 ‘猿猱’이며 《金川鎖記》 인용 문맥과 일치함.",
+      "reason": "군원류를 뜻하는 고정 병렬어 ‘猿猱’이며 《金川鎖記》 인용 문맥과 일치함."
+    },
+    {
+      "before": "海寧許珊林觀察HT　，精醫理",
+      "after": "海寧許珊林觀察權，精醫理",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=3095637&if=en",
+      "evidence_note": "독립 전기 자료에서 珊林은 許權의 호이고 평도주를 지낸 인물로 확인됨.",
+      "reason": "독립 전기 자료에서 珊林은 許權의 호이고 평도주를 지낸 인물로 확인됨."
+    },
+    {
+      "before": "《元史》黃HT　傳孕二十四月",
+      "after": "《元史》黃溍傳孕二十四月",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
+      "evidence_note": "공개 《冷廬醫話》 전사의 동일 문장이 ‘黃溍傳’으로 확인됨.",
+      "reason": "공개 《冷廬醫話》 전사의 동일 문장이 ‘黃溍傳’으로 확인됨."
+    },
+    {
+      "before": "海寧許辛木部曹HT　精醫理",
+      "after": "海寧許辛木部曹楣精醫理",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=3095637&if=en",
+      "evidence_note": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함.",
+      "reason": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함."
     }
   ],
   "N/N001.txt": [
@@ -7914,6 +7962,27 @@
       "evidence_url": "https://cloudtcm.com/shu/t1/415/49",
       "evidence_note": "독립 전사가 같은 조리 문장을 ‘必須清洗乾淨後立即取用’으로 옮기며 원문 어휘 洗淨을 뒷받침한다.",
       "reason": "독립 전사가 같은 조리 문장을 ‘必須清洗乾淨後立即取用’으로 옮기며 원문 어휘 洗淨을 뒷받침한다."
+    },
+    {
+      "before": "《說文》：　，傷暑也",
+      "after": "《說文》：暍，傷暑也",
+      "expected_count": 1,
+      "evidence": "《說文》의 정문 ‘暍，傷暑也’.",
+      "reason": "《說文》의 정문 ‘暍，傷暑也’."
+    },
+    {
+      "before": "故暑、熱、　三者",
+      "after": "故暑、熱、暍三者",
+      "expected_count": 1,
+      "evidence": "직전의 中熱曰暍 및 說文 인용과 같은 글자.",
+      "reason": "직전의 中熱曰暍 및 說文 인용과 같은 글자."
+    },
+    {
+      "before": "刺入甲　。時盛暑",
+      "after": "刺入甲溝。時盛暑",
+      "expected_count": 1,
+      "evidence": "발톱과 살 사이 홈을 뜻하는 해부 표현 甲溝.",
+      "reason": "발톱과 살 사이 홈을 뜻하는 해부 표현 甲溝."
     }
   ],
   "N/N026.txt": [

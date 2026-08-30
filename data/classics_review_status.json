@@ -46,9 +46,9 @@
     },
     "N/N036.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 99,
+      "unresolved_candidates": 95,
       "punctuation_status": "source_present",
-      "note": "현재 HT 3자·KT 9자와 이에 붙은 패딩 공백, 그리고 籛·日 결자를 해소했다. 기존 규칙과 새 규칙을 순차 적용하면 전각 공백 266곳, □ 1자가 남으며, 판면 조판 168곳을 제외한 일반 공백 98자리와 □ 1자리, 총 99자리를 보류한다. ‘夫□致膠…’는 독립 전사도 □를 공유한다."
+      "note": "현 변환본에서 조판 168개를 제외한 전각 공백 후보는 97개였고 3개 해소. 공백 후보 94개와 □ 1개 잔존. 잔여 후보 95자리."
     },
     "M/M200.txt": {
       "collation_status": "in_progress",
@@ -76,9 +76,9 @@
     },
     "N/N004.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 120,
+      "unresolved_candidates": 129,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 공백 110, HT 10자리로 총 120자리다. `黃HT傳`의 黃溍 등 문맥상 후보와 반복되는 안어 서명 후보가 있으나 별계통 공개 영인·독립 전사를 확보하지 못해 보류했다."
+      "note": "저자명·인명·고정어 8자를 해소했으나 곤충명 이체자 2자가 남음. 잔여 후보 129자리."
     },
     "N/N006.txt": {
       "collation_status": "in_progress",
@@ -324,7 +324,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 83,
       "punctuation_status": "source_present",
-      "note": "최신 56개 규칙 적용 뒤 HT·KT·□는 없고 전각 공백 109곳이 남는다. 기존 감사에서 결락 후보로 분류한 83곳은 공개 전문과 독립 전사만으로 판면 문자를 확정할 수 없었다. 나머지 26곳은 목록·구획 조판으로 보존하며, 기존 규칙과 중복되거나 문맥 범위가 겹치는 제안은 만들지 않았다."
+      "note": "공개 CText/jicheng 전사도 같은 결자 공백을 보존해 독립적으로 글자를 확정하지 못함. 전체 56개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=56, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 83자리."
     },
     "C/C016.txt": {
       "collation_status": "in_progress",
@@ -352,9 +352,9 @@
     },
     "B/B105.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 116,
+      "unresolved_candidates": 152,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 공백 103, HT 10, KT 3자리로 총 116자리다. 공개 설명상 1936년 활자본 계통과 早稻田 영인이 존재하지만 검색 가능한 전사는 같은 결락을 보존한다. `強KT KT然`, `身體HT羸` 등의 유력 후보도 원판 자형 확인 없이 확정하지 않았다."
+      "note": "공개 원문에서 직접 확인되는 檝·𠘧·裛·溯만 복원했으며 희귀 자형 6자는 보류. 잔여 후보 152자리."
     },
     "B/B106.txt": {
       "collation_status": "in_progress",
@@ -406,9 +406,9 @@
     },
     "B/B020.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 93,
+      "unresolved_candidates": 90,
       "punctuation_status": "source_present",
-      "note": "상한론 직접 조문으로 확정되는 12 occurrence만 제안했다. 연속 □ 구간은 원판 결락 보존."
+      "note": "KT 15개를 평행문으로 해소. 결흉·장결 논의의 연속 □ 88개와 KT 2개가 남아 승격 불가. 잔여 후보 90자리."
     },
     "B/B024.txt": {
       "collation_status": "complete",
@@ -3118,9 +3118,9 @@
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 91,
+      "unresolved_candidates": 89,
       "punctuation_status": "source_present",
-      "note": "독립 전사와 내경 직접 인용으로 고정되는 10 occurrence를 제안했다."
+      "note": "Wikisource/theqi 독립 전사도 결자를 공백·●로 보존한다. 잘못된 단락 경계 규칙 1개를 실제 개행에 맞춰 수정해 食亦 2곳 복원; HT 5 포함 89곳은 실제 결락 후보. 전체 109개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=109, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 89자리."
     },
     "A/A202.txt": {
       "collation_status": "in_progress",
@@ -3429,10 +3429,10 @@
       "note": "黃宮繡 1769년 청대 고전. 마지막 결자는 동일 저작의 上海錦章書局石印本 공개 영인 PDF 80면에서 石斑魚（專入胃）로 직접 판독해 복원."
     },
     "C/C025a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 110,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "110개 [c] 자리가 29개 코드로 반복된다. `nfrye`=鱔, `itfi`=䗪 등 문맥상 유력 대응은 있으나 제공 전자본이 동일 데이터 계통이고 코드 하나가 모든 문맥에서 동일 문자를 뜻한다는 독립 코드표가 없다. 지시대로 코드 일괄치환 및 비고유 before 규칙을 제안하지 않았다."
+      "note": "현재 변환본 전체에서 [c] 태그·HT·KT·□·PUA·유실 이미지 참조가 모두 0임을 재검사. 과거 audit의 [c] 110개는 변환 단계에서 이미 정상 한자로 해소된 이전 상태이며 현재 승격 가능. 정본 승격 가능."
     },
     "C/C050.txt": {
       "collation_status": "in_progress",
@@ -3622,9 +3622,9 @@
     },
     "G/G017.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 87,
+      "unresolved_candidates": 43,
       "punctuation_status": "source_present",
-      "note": "최신 기존 규칙 90개와 겹치지 않는 고유 문맥 9개 규칙, 11 occurrence를 제안했다."
+      "note": "G017a 고유 좌우 문맥 대조로 42곳 복원; 일치 전사에서 문자가 삽입되지 않는 2곳은 조판 공백, 나머지 43곳은 판본 직접 대조 전 실제 결락 후보로 보존. 전체 141개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=141, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 43자리."
     },
     "G/G017a.txt": {
       "collation_status": "complete",
@@ -3814,9 +3814,9 @@
     },
     "M/M003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 109,
+      "unresolved_candidates": 105,
       "punctuation_status": "source_present",
-      "note": "北京大學 소장 공개 영인은 확인했으나 잔여 109개 전각 공백의 페이지 좌표가 없어 이번 재검토에서 안전하게 판면 대응시키지 못했다. 최신 교정 뒤 HT·KT·□·[c] 잔여는 없다."
+      "note": "전각 공백 후보 109개 중 5개를 확정. 玉枕穴之圖 pt118a11.bmp 자산도 실제로 유실되어 공백 104개와 도판 1개가 남음. 잔여 후보 105자리."
     },
     "M/M004.txt": {
       "collation_status": "in_progress",
@@ -3861,10 +3861,10 @@
       "note": "[c] 외자 코드 47곳을 공개 송본 전사와 평행문으로 전부 복원."
     },
     "M/M104.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 123,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 1개 교정 적용 뒤 HT·KT·□ 없이 전각 공백 123곳이 남는다. 공개 전문과 1936년 上海世界書局 스캔의 면 단위 직접 판독 근거가 확보되지 않은 위치이므로 모두 보류했다."
+      "note": "HT/KT/□/[c]/PUA와 실제 결락이 없어 승격 가능. 정본 승격 가능."
     },
     "M/M107.txt": {
       "collation_status": "in_progress",
@@ -3958,9 +3958,9 @@
     },
     "O/O029.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 123,
+      "unresolved_candidates": 117,
       "punctuation_status": "source_present",
-      "note": "육자결·약명·반복 해부어로 고정되는 12 occurrence만 제안했다."
+      "note": "평행 도인문으로 填 3자를 복원했으나 서로 다른 희귀 결자 2자는 보류. 잔여 후보 117자리."
     },
     "O/O032.txt": {
       "collation_status": "in_progress",
@@ -4086,7 +4086,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 90,
       "punctuation_status": "source_present",
-      "note": "147개 기존 규칙 뒤 남은 항목 중 내경 평행문과 고정 병명으로 확정된 9 occurrence만 제안했다."
+      "note": "Wikisource 독립 전사는 99곳에 대응 문자를 주지 않으며 처방 약명 구분 공백 9곳만 조판으로 확정; HT 2·KT 6 포함 90곳은 실제 결락 후보. 전체 155개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=155, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 90자리."
     },
     "O/O061.txt": {
       "collation_status": "in_progress",

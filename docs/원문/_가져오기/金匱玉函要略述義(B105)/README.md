@@ -7,7 +7,7 @@
 - 원본 파일: `B/B105.txt`
 - SHA-256: `b892901e03d2f3f4c09eca4f3d2973d0b681816b1b5af0dff478c7453fc39ec1`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 77건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 83건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차
