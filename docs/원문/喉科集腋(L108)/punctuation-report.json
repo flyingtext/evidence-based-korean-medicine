@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generator": "codex exec",
+  "source": {
+    "path": "../source/L/L108.txt",
+    "raw_source_sha256": "9f0340b0d467a27d0198387af05c45628dd9932636e2c2b1e1ddd9f96a49c20e",
+    "url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E9%9B%86%E8%85%8B/index.html"
+  },
+  "output": "docs/원문/_가져오기/喉科集腋(L108)/표점본.md",
+  "validation": {
+    "punctuation_density": 0.057811424638678596
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 33431,
+    "output_non_punctuation_characters": 33431,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true
+}
