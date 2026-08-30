@@ -3086,6 +3086,32 @@
       "evidence_note": "𩻟魚"
     }
   ],
+  "N/N003a.txt": [
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "䐜",
+      "expected_count": 10,
+      "reason": "동일 외자 코드와 《內經》·청대 의서의 정형 병명 䐜脹을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%9E%A0%E9%80%9A%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "䐜脹의 반복 용례 10곳"
+    },
+    {
+      "before": "[c]hafmu[/c]",
+      "after": "㿠",
+      "expected_count": 2,
+      "reason": "동일 외자 코드와 설태 색깔을 나타내는 㿠白의 문맥을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%9E%A0%E9%80%9A%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "舌苔㿠白·唇舌㿠白"
+    },
+    {
+      "before": "[c]kasm[/c]",
+      "after": "塌",
+      "expected_count": 1,
+      "reason": "동일 문헌 공개 전사와 본문 내부의 반복 병명 塌癢을 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%9E%A0%E9%80%9A%E9%86%AB%E6%A1%88/index.html",
+      "evidence_note": "九朝塌癢 및 동일 본문 塌癢 반복"
+    }
+  ],
   "N/N004.txt": [
     {
       "before": "士龍為最著。近代亦多世其業者，青浦北　山何自元，至今已二十四世矣。\n\n張子",
