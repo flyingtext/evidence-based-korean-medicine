@@ -2854,5 +2854,85 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
     "evidence_note": "K/K005.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目KT　KT　",
+    "after": "目䀮　䀮",
+    "expected_count": 9,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "내경 및 침구 주치의 정형어 目䀮䀮.",
+    "reason": "내경 및 침구 주치의 정형어 目䀮䀮."
+  },
+  {
+    "before": "視KT　KT　",
+    "after": "視䀮　䀮",
+    "expected_count": 9,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "目視·遠視 뒤의 동일 희자 䀮䀮를 9회 복원.",
+    "reason": "目視·遠視 뒤의 동일 희자 䀮䀮를 9회 복원."
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮　䀮",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%AE%E6%BF%9F%E6%96%B9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7419",
+    "evidence_note": "시물 불명의 정형 주치 ‘視物䀮䀮’.",
+    "reason": "시물 불명의 정형 주치 ‘視物䀮䀮’."
+  },
+  {
+    "before": "虛則欠KT　小便遺數",
+    "after": "虛則欠呿小便遺數",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+    "evidence_note": "手太陰別絡의 정형 조문 ‘虛則欠呿，小便遺數’.",
+    "reason": "手太陰別絡의 정형 조문 ‘虛則欠呿，小便遺數’."
+  },
+  {
+    "before": "瘟KT　之類",
+    "after": "瘟疫之類",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+    "evidence_note": "침구 금기 문맥의 병명 瘟疫.",
+    "reason": "침구 금기 문맥의 병명 瘟疫."
+  },
+  {
+    "before": "犯著瘟KT　必殺人",
+    "after": "犯著瘟疫必殺人",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+    "evidence_note": "瘟疫 금기 가결의 반복 병명.",
+    "reason": "瘟疫 금기 가결의 반복 병명."
+  },
+  {
+    "before": "瘟KT　正羊二戌三居辰",
+    "after": "瘟疫正羊二戌三居辰",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+    "evidence_note": "瘟疫 금기 가결의 표제어.",
+    "reason": "瘟疫 금기 가결의 표제어."
+  },
+  {
+    "before": "去HT　骨容側指許",
+    "after": "去胛骨容側指許",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93",
+    "evidence_note": "膏肓取穴의 정형 문구 ‘去胛骨容側指許’.",
+    "reason": "膏肓取穴의 정형 문구 ‘去胛骨容側指許’."
+  },
+  {
+    "before": "曲HT　橫紋頭",
+    "after": "曲肘橫紋頭",
+    "expected_count": 2,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+    "evidence_note": "취혈 기준인 曲肘橫紋頭; 두 반복 occurrence 복원.",
+    "reason": "취혈 기준인 曲肘橫紋頭; 두 반복 occurrence 복원."
+  },
+  {
+    "before": "循HT　骨後交出厥陰之前",
+    "after": "循脛骨後交出厥陰之前",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+    "evidence_note": "足太陰經脈 조문의 ‘循脛骨後’.",
+    "reason": "足太陰經脈 조문의 ‘循脛骨後’."
   }
 ]

@@ -7,7 +7,7 @@
 - 원본 파일: `F/F005.txt`
 - SHA-256: `c1f46902d51d7ffeb86e03458dbc6acedf332a4e8ad407693bcf052a074290bb`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 68건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 69건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차

@@ -3863,7 +3863,16 @@
       "evidence_note": "一名𦸈"
     }
   ],
-  "D/D004a.txt": [],
+  "D/D004a.txt": [
+    {
+      "before": "[c]rck[/c]咀",
+      "after": "㕮咀",
+      "expected_count": 115,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+      "evidence_note": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치.",
+      "reason": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치."
+    }
+  ],
   "D/D005.txt": [
     {
       "before": "有赤色出而頰顴（距員反，《廣雅》曰：　也，頰骨也）上大如指者卒死，至鼻頭亦",
@@ -34393,6 +34402,14 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
       "evidence_note": "D/D053.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "豬KT　著熱酒中",
+      "after": "豬𦚟著熱酒中",
+      "expected_count": 1,
+      "reason": "手足皴裂 외용방의 약재명이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "evidence_note": "공개 전사에서 동일 문장을 `豬𦚟著熱酒中，以洗之`로 확인했다."
     }
   ],
   "D/D027.txt": [

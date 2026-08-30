@@ -56621,6 +56621,38 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F/index.html",
       "evidence_note": "O/O071.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "每HT　疾則纏綿難愈",
+      "after": "每罹疾則纏綿難愈",
+      "expected_count": 1,
+      "reason": "질병에 걸린다는 관용 표현이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F",
+      "evidence_note": "동일 문헌 공개 전사의 서문 문맥과 대조했다."
+    },
+    {
+      "before": "中及HT　友，下逮卑幼",
+      "after": "中及昆友，下逮卑幼",
+      "expected_count": 1,
+      "reason": "부모·형제·자녀를 차례로 가리키는 서문 대구이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F",
+      "evidence_note": "동일 문헌 공개 전사의 서문과 문맥을 대조했다."
+    },
+    {
+      "before": "HT地一聲，一事未知",
+      "after": "呱地一聲，一事未知",
+      "expected_count": 1,
+      "reason": "갓난아이가 태어나 우는 소리를 뜻하는 고정어이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F",
+      "evidence_note": "동일 문헌 공개 전사의 소아 문맥과 대조했다."
+    },
+    {
+      "before": "又牙HT　宣症，牙根盡腫",
+      "after": "又牙齦宣症，牙根盡腫",
+      "expected_count": 1,
+      "reason": "치은이 붓고 드러나는 牙齦宣 증상이다.",
+      "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/9251/0",
+      "evidence_note": "《醫學心悟》 인용문에서 해당 구절을 `牙齒宣宣症` 계통으로 확인했고, 뒤의 牙根·宣露 문맥상 결자는 齦이다."
     }
   ],
   "O/O072.txt": [

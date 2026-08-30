@@ -2542,5 +2542,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BC%AF%E7%BE%A9/index.html",
     "evidence_note": "B/B106.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "太陽病。其證備。身體強KT　KT　然。脈反沉遲。",
+    "after": "太陽病。其證備。身體強𠘧𠘧然。脈反沉遲。",
+    "expected_count": 1,
+    "reason": "栝蔞桂枝湯 조문의 희귀자 두 글자다.",
+    "evidence_url": "https://yibian.hopto.org/shu/?sid=5661",
+    "evidence_note": "독립 공개 전사에서 `身體強，几几然，脈反沉遲` 확인. 저장소 기존 교정 관례에 따라 원형 `𠘧𠘧` 사용."
+  },
+  {
+    "before": "項背強KT　KT　。是　之征兆。故用葛根。",
+    "after": "項背強𠘧𠘧。是　之征兆。故用葛根。",
+    "expected_count": 1,
+    "reason": "葛根을 쓰는 `項背強𠘧𠘧` 증상의 고정 표현이다.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002197612",
+    "evidence_note": "독립 문헌에서 桂枝加葛根湯·葛根湯 조문의 `項背強几几` 확인."
   }
 ]

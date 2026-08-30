@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "before": "[c]rck[/c]咀",
+    "after": "㕮咀",
+    "expected_count": 115,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치.",
+    "reason": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치."
+  }
+]

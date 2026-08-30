@@ -542,5 +542,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A2%A8%E5%8B%9E%E8%87%8C%E8%86%88%E5%9B%9B%E5%A4%A7%E8%AD%89%E6%B2%BB/index.html",
     "evidence_note": "F/F005.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "得濕則KT　，遇水則燔",
+    "after": "得濕則焫，遇水則燔",
+    "expected_count": 1,
+    "reason": "相火龍雷論의 고정 문장이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_442_%281700-1725%29.djvu/128",
+    "evidence_note": "공개 원판에서 `得濕則焫，遇水則燔`을 직접 확인했다."
   }
 ]

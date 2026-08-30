@@ -1188,9 +1188,11 @@
       "output_directory": "傷寒溯源集(B018)",
       "markdown_files": 14,
       "translation_units": 66,
-      "corrections_applied": 19,
+      "corrections_applied": 20,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '項背強。幾KT無汗惡風者' (0/1)"
+      ]
     },
     {
       "source_path": "B/B019.txt",
@@ -1797,7 +1799,7 @@
       "output_directory": "金匱玉函要略輯義(B106)",
       "markdown_files": 9,
       "translation_units": 53,
-      "corrections_applied": 318,
+      "corrections_applied": 320,
       "punctuated": false,
       "warnings": []
     },
@@ -3019,8 +3021,8 @@
       },
       "output_directory": "外臺秘要(D004a)",
       "markdown_files": 52,
-      "translation_units": 197,
-      "corrections_applied": 0,
+      "translation_units": 196,
+      "corrections_applied": 1,
       "punctuated": false,
       "warnings": []
     },
@@ -3939,7 +3941,7 @@
       "output_directory": "集驗方(D053)",
       "markdown_files": 13,
       "translation_units": 128,
-      "corrections_applied": 101,
+      "corrections_applied": 102,
       "punctuated": false,
       "warnings": []
     },
@@ -4730,7 +4732,7 @@
       "output_directory": "松峰說疫(E014)",
       "markdown_files": 9,
       "translation_units": 227,
-      "corrections_applied": 103,
+      "corrections_applied": 106,
       "punctuated": false,
       "warnings": []
     },
@@ -4918,7 +4920,7 @@
       "output_directory": "風勞臌膈四大證治(F005)",
       "markdown_files": 11,
       "translation_units": 23,
-      "corrections_applied": 68,
+      "corrections_applied": 69,
       "punctuated": false,
       "warnings": []
     },
@@ -8200,7 +8202,7 @@
       "output_directory": "針灸集成(K005)",
       "markdown_files": 5,
       "translation_units": 257,
-      "corrections_applied": 357,
+      "corrections_applied": 367,
       "punctuated": true,
       "warnings": []
     },
@@ -12282,7 +12284,7 @@
       "output_directory": "醫學心悟(O071)",
       "markdown_files": 8,
       "translation_units": 590,
-      "corrections_applied": 82,
+      "corrections_applied": 86,
       "punctuated": false,
       "warnings": []
     },
