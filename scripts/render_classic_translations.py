@@ -12,11 +12,18 @@ from pathlib import Path
 
 REQUIRED_RESULT_FIELDS = {
     "source_id",
+    "target_language",
     "translation",
     "translator_notes",
     "unresolved",
     "model",
     "status",
+}
+
+LANGUAGE_LABELS = {
+    "ko": ("번역", "원전", "번역 모델", "번역 상태", "원문", "직역", "역자 해설", "없음.", "미확정"),
+    "ja": ("翻訳", "原典", "翻訳モデル", "翻訳状態", "原文", "逐語訳", "訳注", "なし。", "未確定"),
+    "en": ("Translation", "Source work", "Translation model", "Translation status", "Source Text", "Literal Translation", "Translator's Notes", "None.", "Unresolved"),
 }
 
 
@@ -36,25 +43,36 @@ def read_jsonl(path: Path) -> list[dict]:
     return records
 
 
-def validate(tasks: list[dict], results: list[dict]) -> None:
-    if len(tasks) != len(results):
+def validate(tasks: list[dict], results: list[dict], partial: bool) -> list[dict]:
+    task_positions = {task.get("source_id"): index for index, task in enumerate(tasks)}
+    if len(task_positions) != len(tasks) or None in task_positions:
+        raise ValueError("입력 작업의 source_id가 없거나 중복됨")
+    if not partial and len(tasks) != len(results):
         raise ValueError(f"입출력 행 수 불일치: 입력 {len(tasks)}행, 출력 {len(results)}행")
+    if partial and not results:
+        raise ValueError("부분 결과가 비어 있음")
 
     seen: set[str] = set()
-    for index, (task, result) in enumerate(zip(tasks, results), 1):
-        source_id = task.get("source_id")
-        if not source_id:
-            raise ValueError(f"입력 {index}행에 source_id가 없음")
+    languages: set[str] = set()
+    selected_tasks: list[dict] = []
+    positions: list[int] = []
+    for index, result in enumerate(results, 1):
         missing = REQUIRED_RESULT_FIELDS - result.keys()
         if missing:
             raise ValueError(f"출력 {index}행 필드 누락: {', '.join(sorted(missing))}")
-        if result["source_id"] != source_id:
-            raise ValueError(
-                f"출력 {index}행 source_id 불일치: {source_id!r} != {result['source_id']!r}"
-            )
+        source_id = result["source_id"]
+        if source_id not in task_positions:
+            raise ValueError(f"입력에 없는 source_id: {source_id}")
         if source_id in seen:
             raise ValueError(f"중복 source_id: {source_id}")
         seen.add(source_id)
+        position = task_positions[source_id]
+        positions.append(position)
+        selected_tasks.append(tasks[position])
+        language = result["target_language"]
+        if language not in LANGUAGE_LABELS:
+            raise ValueError(f"지원하지 않는 target_language: {source_id}: {language!r}")
+        languages.add(language)
         if not isinstance(result["translation"], str) or not result["translation"].strip():
             raise ValueError(f"빈 번역: {source_id}")
         for field in ("translator_notes", "unresolved"):
@@ -64,6 +82,13 @@ def validate(tasks: list[dict], results: list[dict]) -> None:
                 raise ValueError(f"{field}는 문자열 배열이어야 함: {source_id}")
         if result["status"] not in {"machine_translated", "reviewed", "final"}:
             raise ValueError(f"알 수 없는 번역 상태: {source_id}: {result['status']!r}")
+    if len(languages) != 1:
+        raise ValueError(f"한 결과 파일에는 대상 언어가 하나여야 함: {sorted(languages)}")
+    if positions != list(range(positions[0], positions[0] + len(positions))):
+        raise ValueError("부분 결과는 입력에서 서로 겹치지 않는 연속 source_id 구간이어야 함")
+    if not partial and (positions[0] != 0 or len(positions) != len(tasks)):
+        raise ValueError("전체 결과가 모든 입력 작업을 포함하지 않음")
+    return selected_tasks
 
 
 def relative_target(task: dict, book_dir: Path) -> Path:
@@ -88,6 +113,8 @@ def relative_target(task: dict, book_dir: Path) -> Path:
 def markdown_document(book: str, source_file: Path, rows: list[tuple[dict, dict]]) -> str:
     model_names = sorted({str(result["model"]) for _, result in rows})
     statuses = sorted({str(result["status"]) for _, result in rows})
+    language = str(rows[0][1]["target_language"])
+    title_suffix, source_label, model_label, status_label, original_label, translation_label, notes_label, none_label, unresolved_label = LANGUAGE_LABELS[language]
     title = source_file.stem
     if source_file.exists():
         first_line = source_file.read_text(encoding="utf-8").splitlines()[:1]
@@ -95,12 +122,13 @@ def markdown_document(book: str, source_file: Path, rows: list[tuple[dict, dict]
             title = first_line[0][2:].strip()
 
     lines = [
-        f"# {title} 번역",
+        f"# {title} {title_suffix}",
         "",
-        f"> 원전: {book}",
-        f"> 번역 모델: {', '.join(model_names)}",
-        f"> 번역 상태: {', '.join(statuses)}",
-        "> 이 문서는 기계 번역 결과이며 `final` 검수 전에는 확정 번역으로 간주하지 않는다.",
+        f"> {source_label}: {book}",
+        f"> Language: {language}",
+        f"> {model_label}: {', '.join(model_names)}",
+        f"> {status_label}: {', '.join(statuses)}",
+        "> Machine translation; it is not definitive until its status is `final`.",
         "",
     ]
 
@@ -115,23 +143,23 @@ def markdown_document(book: str, source_file: Path, rows: list[tuple[dict, dict]
                 "",
                 f"## {heading}",
                 "",
-                "### 원문",
+                f"### {original_label}",
                 "",
                 str(task.get("text", "")).strip(),
                 "",
-                "### 직역",
+                f"### {translation_label}",
                 "",
                 result["translation"].strip(),
                 "",
-                "### 역자 해설",
+                f"### {notes_label}",
                 "",
             ]
         )
         if not notes and not unresolved:
-            lines.append("- 없음.")
+            lines.append(f"- {none_label}")
         else:
             lines.extend(f"- {note}" for note in notes)
-            lines.extend(f"- 미확정: {item}" for item in unresolved)
+            lines.extend(f"- {unresolved_label}: {item}" for item in unresolved)
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"
@@ -142,6 +170,7 @@ def main() -> int:
     parser.add_argument("--book-dir", type=Path, required=True, help="교감 완료 정본 폴더")
     parser.add_argument("--results", type=Path, required=True, help="LLM 번역 결과 JSONL")
     parser.add_argument("--output", type=Path, required=True, help="Markdown 출력 폴더")
+    parser.add_argument("--partial", action="store_true", help="연속된 일부 source_id만 검증·렌더링")
     args = parser.parse_args()
 
     book_dir = args.book_dir.resolve()
@@ -155,10 +184,10 @@ def main() -> int:
 
     tasks = read_jsonl(task_path)
     results = read_jsonl(args.results)
-    validate(tasks, results)
+    selected_tasks = validate(tasks, results, args.partial)
 
     grouped: dict[Path, list[tuple[dict, dict]]] = defaultdict(list)
-    for task, result in zip(tasks, results):
+    for task, result in zip(selected_tasks, results):
         grouped[relative_target(task, book_dir)].append((task, result))
 
     output = args.output.resolve()
