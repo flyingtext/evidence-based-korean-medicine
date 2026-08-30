@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generator": "codex exec",
+  "source": {
+    "path": "../source/K/K015.txt",
+    "raw_source_sha256": "f8795b4275251a618afe3bcbe7a4f97ca61dea0a6fe66c56db51c7cb66f468eb",
+    "url": "https://jicheng.tw/tcm/book/%E6%A5%8A%E6%95%AC%E9%BD%8B%E9%87%9D%E7%81%B8%E5%85%A8%E6%9B%B8/index.html"
+  },
+  "output": "docs/원문/_가져오기/楊敬齋針灸全書(K015)/표점본.md",
+  "validation": {
+    "punctuation_density": 0.010364004044489384
+  },
+  "character_preservation": {
+    "input_non_punctuation_characters": 28032,
+    "output_non_punctuation_characters": 28032,
+    "verified": true
+  },
+  "correction_overlay_synchronized": true
+}
