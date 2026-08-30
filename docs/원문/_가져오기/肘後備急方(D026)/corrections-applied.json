@@ -1662,5 +1662,40 @@
     "reason": "질병명 희귀자 `䐔`의 gaiji 변환 잔재다.",
     "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Shanghai_%E8%91%9B%E4%BB%99%E7%BF%81%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9%E5%85%AB%E5%8D%B7.pdf",
     "evidence_note": "공개 《肘後備急方》 영인과 독립 해제에서 `皮肉卒腫起，狹長赤痛名䐔`이 확인된다."
+  },
+  {
+    "before": "浴竟中拭KT　KT　如芒毛針刺熟",
+    "after": "浴竟中拭㹍㹍如芒毛針刺熟",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 반복 외자를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+  },
+  {
+    "before": "銀黃赤是KT　藥，久久者",
+    "after": "銀黃赤是𦵣藥，久久者",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 외자를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+  },
+  {
+    "before": "黃赤是KT　藥，俚人有解療者",
+    "after": "黃赤是𦵣藥，俚人有解療者",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 외자를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+  },
+  {
+    "before": "面上KT　子化面，並療",
+    "after": "面上𪿨礨子化面，並療",
+    "expected_count": 1,
+    "reason": "공개 원자료에서 한 개의 대체 표식에 대응하는 두 글자를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+  },
+  {
+    "before": "若注船，下暴KT　，以和此共帶之",
+    "after": "若注船，下暴𤶜，以和此共帶之",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 외자를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
   }
 ]

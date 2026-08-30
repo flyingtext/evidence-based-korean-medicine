@@ -14461,6 +14461,13 @@
       "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
       "evidence_note": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다.",
       "reason": "《傷寒論》 평행문 ‘水得寒氣，冷必相搏，其人即噎’로 확인된다."
+    },
+    {
+      "before": "才發聲於喉間則遽止，HT　HT　然連續數聲",
+      "after": "才發聲於喉間則遽止，𠮾𠮾然連續數聲",
+      "expected_count": 1,
+      "reason": "공개 원자료 전사의 고유 문맥에서 반복 외자를 직접 확인",
+      "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E5%85%AD%E6%9B%B8/index.html"
     }
   ],
   "B/B039.txt": [

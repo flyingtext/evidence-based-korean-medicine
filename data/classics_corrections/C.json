@@ -21776,35 +21776,35 @@
   ],
   "C/C045.txt": [
     {
-      "before": "當歸芍藥散治腹中[c]kmvs[/c]痛，及婦人一切腹中諸疾痛",
-      "after": "當歸芍藥散治腹中㽲痛，及婦人一切腹中諸疾痛",
+      "before": "當歸芍藥散治腹中[c]kmvs[/c]痛",
+      "after": "當歸芍藥散治腹中㽲痛",
       "expected_count": 1,
       "evidence_url": "https://cmedwiki.com/index.php?title=%E7%95%B6%E6%AD%B8%E8%8D%8D%E8%97%A5%E6%95%A3",
-      "evidence_note": "當歸芍藥散의 원 조문 ‘婦人懷妊，腹中㽲痛’으로 외자를 확인했다.",
+      "evidence_note": "當歸芍藥散의 원 조문 ‘婦人懷妊，腹中㽲痛’으로 외자를 확인했다. 실제 판본의 고유 문맥에 맞춰 범위를 한정.",
       "reason": "當歸芍藥散의 원 조문 ‘婦人懷妊，腹中㽲痛’으로 외자를 확인했다."
     },
     {
-      "before": "產後腹中[c]kmvs[/c]痛，當歸芍藥散主之",
-      "after": "產後腹中㽲痛，當歸芍藥散主之",
+      "before": "產後腹中[c]kmvs[/c]痛，取其氣熱味甘",
+      "after": "產後腹中㽲痛，取其氣熱味甘",
       "expected_count": 1,
       "evidence_url": "https://www.theqi.com/cmed/class/class2/kg_77.html",
-      "evidence_note": "《金匱要略》 산후 조문의 ‘產後腹中㽲痛’이 독립 전사에서 직접 확인된다.",
+      "evidence_note": "《金匱要略》 산후 조문의 ‘產後腹中㽲痛’이 독립 전사에서 직접 확인된다. 실제 판본의 고유 문맥에 맞춰 범위를 한정.",
       "reason": "《金匱要略》 산후 조문의 ‘產後腹中㽲痛’이 독립 전사에서 직접 확인된다."
     },
     {
-      "before": "搗菟絲子苗絞取汁，敷之，不過三次，以菟絲子汁去面[c]wfmj[/c]",
-      "after": "搗菟絲子苗絞取汁，敷之，不過三次，以菟絲子汁去面䵟",
+      "before": "菟絲子汁去面[c]wfmj[/c]，徐氏不解",
+      "after": "菟絲子汁去面䵟，徐氏不解",
       "expected_count": 1,
       "evidence_url": "https://www.uchidawakanyaku.co.jp/kampo/tamatebako/shoyaku.html?page=376",
-      "evidence_note": "菟絲子의 고전 효능 문구 ‘去面䵟’이 독립 약학 자료에서 확인된다.",
+      "evidence_note": "菟絲子의 고전 효능 문구 ‘去面䵟’이 독립 약학 자료에서 확인된다. 실제 판본의 고유 문맥에 맞춰 범위를 한정.",
       "reason": "菟絲子의 고전 효능 문구 ‘去面䵟’이 독립 약학 자료에서 확인된다."
     },
     {
-      "before": "此方今之醫籍未載，敷之三次，面[c]wfmj[/c]焉得不去",
-      "after": "此方今之醫籍未載，敷之三次，面䵟焉得不去",
+      "before": "面[c]wfmj[/c]焉得不去，竊愿",
+      "after": "面䵟焉得不去，竊愿",
       "expected_count": 1,
       "evidence_url": "https://www.iksaeng.com/disease/disease_Main.jsp?diseaseno=k35mzge3&from=dong",
-      "evidence_note": "질환명 ‘面䵟’과 菟絲子苗 외용 맥락이 독립 자료에서 확인된다.",
+      "evidence_note": "질환명 ‘面䵟’과 菟絲子苗 외용 맥락이 독립 자료에서 확인된다. 실제 판본의 고유 문맥에 맞춰 범위를 한정.",
       "reason": "질환명 ‘面䵟’과 菟絲子苗 외용 맥락이 독립 자료에서 확인된다."
     }
   ],

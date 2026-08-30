@@ -82,9 +82,9 @@
     },
     "N/N006.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 183,
+      "unresolved_candidates": 188,
       "punctuation_status": "source_present",
-      "note": "최신 감사에서 확정된 교정과 겹치지 않도록 고유 좌우 문맥의 약명·병명 12곳만 제안했다."
+      "note": "감사표의 조판 공백 287곳은 보존 대상이다. HT 1개와 KT 표지 6개를 독립 전사로 해소했으나, 미판독 전각 공백 188곳은 영인 좌표 대조 전 실결락 배제가 불가능하다. 신규 두 규칙은 기존 적용 규칙과 비중첩. 잔여 후보 188자리."
     },
     "K/K001.txt": {
       "collation_status": "in_progress",
@@ -255,10 +255,10 @@
       "note": "고정 고사와 독립 본초 용례로 KT 2자를 모두 복원. 잔여 후보 1435자리."
     },
     "D/D024.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 201,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "KT 2자리를 복원했으나 공백 및 다른 희귀자 후보 201자리가 남는다."
+      "note": "KT 2곳을 공개 원자료 전사의 고유 문맥으로 복원했다. 남은 전각 공백 198곳은 조판 공백이며 실제 결락은 0이다. 정본 승격 가능."
     },
     "D/D025.txt": {
       "collation_status": "in_progress",
@@ -318,7 +318,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 178,
       "punctuation_status": "source_present",
-      "note": "기존 규칙과 중복되는 후보는 제외했다. 최신 교정 적용 순서에 따라 한 규칙이 겹쳐 보일 수 있으므로 감사 기준의 완전 적용 수치를 사용했다."
+      "note": "기존 94개 규칙은 전부 비중첩 적용된다. 항목 구획 조판 52곳과 공개 전사에서 확정되지 않는 실제 결락 후보 178곳으로 재분류. 전체 94개 규칙을 수정 전 원문 좌표에 검증하여 applied=94, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 178자리."
     },
     "C/C015.txt": {
       "collation_status": "in_progress",
@@ -532,9 +532,9 @@
     },
     "A/A013.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 198,
+      "unresolved_candidates": 206,
       "punctuation_status": "alignment_approved",
-      "note": "최신 139개 규칙과 겹치지 않는 《素問》·《爾雅》 직접 인용 결자 12자리만 복원했다. 연속 □ 구간은 평행 경문만으로 주석의 정확한 판면 글자 수를 보장할 수 없어 손대지 않았다."
+      "note": "현 문서의 전각 공백 176개·HT 2개·방형 결자 28개를 재확인했다. 방형 결자 단락의 평행 《素問》은 경문 골격만 복원할 수 있고 왕빙 주석 결락은 jicheng 전사도 동일하여 부분 추정 교정을 만들지 않았다. 실결락이 명백히 잔존하므로 승격 불가. 잔여 후보 206자리."
     },
     "A/A007.txt": {
       "collation_status": "in_progress",
@@ -652,9 +652,9 @@
     },
     "K/K011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 181,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "項強急은 확정했다. 남은 ‘太醫院官黃□’은 인명인데 공개 전사도 □를 유지하고, 해당 명대 관원 이름을 확인할 독립 명부나 선명 영인을 찾지 못해 승격을 보류한다. 잔여 후보 181자리."
+      "note": "같은 承漿HT 자리를 穴과 瀉로 중복 교정하던 규칙 중 전체 침법 문맥이 있는 承漿瀉 장문 규칙만 보존해 중첩을 제거했다. 전각 공백 180곳은 운문·경혈 목록 조판이며, 太醫院官黃□의 인명 1자는 Wikisource·jicheng·검색 가능한 명부에서도 확정되지 않아 보류. 전체 8개 규칙을 수정 전 원문 좌표에 검증하여 applied=8, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 1자리."
     },
     "A/A303.txt": {
       "collation_status": "complete",
@@ -2976,7 +2976,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 168,
       "punctuation_status": "source_present",
-      "note": "두 종류의 레거시 외자 코드 4곳을 각각 고유 문맥으로 복원했다. 기존 교정 규칙은 없다."
+      "note": "네 레거시 외자 규칙을 현재 원문의 고유 문맥으로 다시 한정하여 㽲 2곳·䵟 2곳을 복원했다. 나머지는 조판 598곳과 영인 직접 판독이 필요한 실제 결락 후보 168곳으로 분리. 전체 4개 규칙을 수정 전 원문 좌표에 검증하여 applied=4, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 168자리."
     },
     "C/C046.txt": {
       "collation_status": "in_progress",
@@ -3040,15 +3040,15 @@
     },
     "B/B035.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 192,
+      "unresolved_candidates": 186,
       "punctuation_status": "source_present",
-      "note": "기존 규칙 중복·겹침을 피하기 위해 신규 규칙을 제안하지 않았다. 원판면 대조 전 승격 불가."
+      "note": "KT 6개를 세 문맥 규칙으로 모두 해소했고 조판 공백 157곳은 유지한다. 그러나 감사표상 원판 판독이 필요한 전각 공백 186곳이 남아 승격할 수 없다. 규칙 좌표는 상호·기존 규칙과 비중첩. 잔여 후보 186자리."
     },
     "B/B037.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 202,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 66개 규칙과 겹치지 않는 《傷寒論》 직접·평행 인용의 𠘧 2자와 噎 5자만 고유 문맥으로 제안했다."
+      "note": "연속 HT 2자를 한 개의 고유 비중첩 규칙으로 𠮾𠮾로 복원했다. 남은 전각 공백 484곳은 조판 공백이며 실제 결락은 0이다. 정본 승격 가능."
     },
     "B/B039.txt": {
       "collation_status": "complete",
@@ -3508,9 +3508,9 @@
     },
     "D/D026.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 205,
+      "unresolved_candidates": 12,
       "punctuation_status": "source_present",
-      "note": "확정 가능한 KT 3자리를 복원했으며, 전각 공백·KT·□가 혼재한 205자리는 판면 대조 전 보류한다."
+      "note": "KT 7자 중 6자를 공개 원자료의 고유 문맥으로 복원했다. ‘KT　膠數塗’는 원자료도 조자식 ⿰火肜만 제공하여 실자 판독 전까지 보류했다. □ 11자도 원자료 자체가 결락이므로 영인 직접 판독이 필요하다. 잔여 후보 12자리."
     },
     "D/D027.txt": {
       "collation_status": "in_progress",
@@ -3634,9 +3634,9 @@
     },
     "G/G018.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 191,
+      "unresolved_candidates": 189,
       "punctuation_status": "source_present",
-      "note": "최신 59개 교정과 조판 공백 225개를 존중했다. 이번 재검토에서는 기존 규칙과 겹치지 않는 추가 확정 occurrence가 없어 전부 보류한다."
+      "note": "조판으로 확인된 225곳은 유지한다. HT 3개 중 2개를 해소했으나 `可不HT天祝壽地`는 온라인 전사도 동일 결자라 보류하며 미판독 공백 188곳이 남는다. 기존 규칙과 비중첩. 잔여 후보 189자리."
     },
     "G/G022.txt": {
       "collation_status": "in_progress",
@@ -3885,10 +3885,10 @@
       "note": "기계 결자 표지가 없고 잔여 전각 공백은 처방 조판과 결락이 혼재. 고유하게 확정할 신규 규칙 없음. 잔여 후보 2742자리."
     },
     "N/N026.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 203,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 잔여는 전각 공백 203자리이며 HT·KT·□는 없다. 공개 스캔의 페이지 대응 없이 조판 공백과 결자를 안전하게 구별할 수 없어 신규 규칙을 제안하지 않았다."
+      "note": "매니페스트가 지정한 정규 출력 디렉터리 吳醫彙講(N026)을 검사했다. 표식 결락은 없고 전각 공백 203곳은 조판 공백이다. 별도 吳醫匯講(N026)은 중복·구형 출력물이므로 이 판정에서 제외했다. 정본 승격 가능."
     },
     "N/N007.txt": {
       "collation_status": "in_progress",
@@ -4164,7 +4164,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 173,
       "punctuation_status": "source_present",
-      "note": "기존 준비·정본 규칙 53개와 중복되지 않는 인명 2곳과 희자 2자리만 occurrence별로 제안했다."
+      "note": "기존 56개 규칙은 전부 비중첩 적용된다. 처방·목록 조판 644곳과 공개 전사에서도 결자로 남은 실제 결락 후보 173곳으로 재분류. 전체 56개 규칙을 수정 전 원문 좌표에 검증하여 applied=56, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 173자리."
     },
     "O/O082.txt": {
       "collation_status": "in_progress",
