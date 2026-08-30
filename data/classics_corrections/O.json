@@ -47387,6 +47387,46 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
       "evidence_note": "O/O061.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "虛火可補。參　之屬",
+      "after": "虛火可補。參耆之屬",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+      "evidence_note": "보익 약물 參耆.",
+      "reason": "보익 약물 參耆."
+    },
+    {
+      "before": "則病生痿　也",
+      "after": "則病生痿躄也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+      "evidence_note": "병명 痿躄.",
+      "reason": "병명 痿躄."
+    },
+    {
+      "before": "內經謂之腸　。金匱謂之滯下",
+      "after": "內經謂之腸澼。金匱謂之滯下",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+      "evidence_note": "내경의 이질명 腸澼.",
+      "reason": "내경의 이질명 腸澼."
+    },
+    {
+      "before": "猶當溽暑伊芳郁之時。而商　颯然倏動",
+      "after": "猶當溽暑伊芳郁之時。而商飆颯然倏動",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+      "evidence_note": "가을바람을 뜻하는 商飆.",
+      "reason": "가을바람을 뜻하는 商飆."
+    },
+    {
+      "before": "至如省客。來如彈石。去如解索。  命脈將絕。　游魚翔",
+      "after": "至如省客。來如彈石。去如解索。  命脈將絕。蝦游魚翔",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+      "evidence_note": "괴맥 형용 ‘蝦游魚翔’.",
+      "reason": "괴맥 형용 ‘蝦游魚翔’."
     }
   ],
   "O/O062.txt": [
@@ -112450,6 +112490,80 @@
       "reason": "jicheng 현행 전문의 雨癩 조문에서 희자를 직접 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%A7%A3%E5%9C%8D%E5%85%83%E8%97%AA/index.html",
       "evidence_note": "久則唇鼻𦗴皆爛毀"
+    }
+  ],
+  "O/O029.txt": [
+    {
+      "before": "吹、呼、唏、呵、噓、　，皆出氣也",
+      "after": "吹、呼、唏、呵、噓、呬，皆出氣也",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=95059",
+      "evidence_note": "육자결의 여섯 소리 중 마지막 呬.",
+      "reason": "육자결의 여섯 소리 중 마지막 呬."
+    },
+    {
+      "before": "噓以散滯，　以解極",
+      "after": "噓以散滯，呬以解極",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=95059",
+      "evidence_note": "육자결 평행문 ‘呬以解極’.",
+      "reason": "육자결 평행문 ‘呬以解極’."
+    },
+    {
+      "before": "凡人極者，則多噓　。道家行氣，率不欲噓　，噓　者",
+      "after": "凡人極者，則多噓呬。道家行氣，率不欲噓呬，噓呬者",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=95059",
+      "evidence_note": "噓呬 세 occurrence의 반복 문맥.",
+      "reason": "噓呬 세 occurrence의 반복 문맥."
+    },
+    {
+      "before": "吹、呼、噓、呵、唏、　吐之",
+      "after": "吹、呼、噓、呵、唏、呬吐之",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=95059",
+      "evidence_note": "육자결 소리 열거.",
+      "reason": "육자결 소리 열거."
+    },
+    {
+      "before": "芎　（六分），通草",
+      "after": "芎藭（六分），通草",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
+      "evidence_note": "약명 芎藭.",
+      "reason": "약명 芎藭."
+    },
+    {
+      "before": "防風（八分），　本（六分）",
+      "after": "防風（八分），藁本（六分）",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
+      "evidence_note": "약명 藁本.",
+      "reason": "약명 藁本."
+    },
+    {
+      "before": "舌攪上下　。仍以舌抵上　",
+      "after": "舌攪上下齶。仍以舌抵上齶",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
+      "evidence_note": "도인법의 해부 표현 上下齶·上齶.",
+      "reason": "도인법의 해부 표현 上下齶·上齶."
+    },
+    {
+      "before": "以舌抵上　，攪取津液滿口",
+      "after": "以舌抵上齶，攪取津液滿口",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
+      "evidence_note": "도인법에서 반복되는 上齶.",
+      "reason": "도인법에서 반복되는 上齶."
+    },
+    {
+      "before": "舌拄上　，目視頂門",
+      "after": "舌拄上齶，目視頂門",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
+      "evidence_note": "도인법의 上齶.",
+      "reason": "도인법의 上齶."
     }
   ]
 }

@@ -12,5 +12,109 @@
     "expected_count": 1,
     "reason": "jicheng 공개 전문·후속 주석 대조 외자 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html"
+  },
+  {
+    "before": "出其悍氣之　疾",
+    "after": "出其悍氣之慓疾",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%87%9F%E8%A1%9B%E7%94%9F%E6%9C%83",
+    "evidence_note": "衛氣의 성질 ‘慓疾’.",
+    "reason": "衛氣의 성질 ‘慓疾’."
+  },
+  {
+    "before": "皮膚，　悍滑疾",
+    "after": "皮膚，慓悍滑疾",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%87%9F%E8%A1%9B%E7%94%9F%E6%9C%83",
+    "evidence_note": "衛氣 성질 慓悍滑疾.",
+    "reason": "衛氣 성질 慓悍滑疾."
+  },
+  {
+    "before": "濁氣在上，則生　脹",
+    "after": "濁氣在上，則生䐜脹",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E9%99%B0%E9%99%BD%E6%87%89%E8%B1%A1%E5%A4%A7%E8%AB%96",
+    "evidence_note": "내경 직접 인용 ‘生䐜脹’.",
+    "reason": "내경 직접 인용 ‘生䐜脹’."
+  },
+  {
+    "before": "復以參、　、升、柴舉之",
+    "after": "復以參、耆、升、柴舉之",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "補氣 약명 參耆.",
+    "reason": "補氣 약명 參耆."
+  },
+  {
+    "before": "升、柴、參、　，氣之直升者也",
+    "after": "升、柴、參、耆，氣之直升者也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "補氣 약명 參耆의 반복.",
+    "reason": "補氣 약명 參耆의 반복."
+  },
+  {
+    "before": "有人於此焉，腸　赤　，腹痛後重",
+    "after": "有人於此焉，腸澼赤痢，腹痛後重",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "병증 腸澼·赤痢.",
+    "reason": "병증 腸澼·赤痢."
+  },
+  {
+    "before": "凡　瘕、積聚、痰凝、水溢、　腫",
+    "after": "凡癥瘕、積聚、痰凝、水溢、浮腫",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "병명 열거 癥瘕·浮腫.",
+    "reason": "병명 열거 癥瘕·浮腫."
+  },
+  {
+    "before": "其證為懊　煩躁",
+    "after": "其證為懊憹煩躁",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "병증 懊憹.",
+    "reason": "병증 懊憹."
+  },
+  {
+    "before": "防風、　本",
+    "after": "防風、藁本",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "약명 藁本; 고유 인접 약명으로 occurrence 한정.",
+    "reason": "약명 藁本; 고유 인접 약명으로 occurrence 한정."
+  },
+  {
+    "before": "穿山甲、　砂、雄黃",
+    "after": "穿山甲、硇砂、雄黃",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "약재 硇砂.",
+    "reason": "약재 硇砂."
+  },
+  {
+    "before": "所謂筋惕肉　也",
+    "after": "所謂筋惕肉瞤也",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "상한론 고정 병후 筋惕肉瞤.",
+    "reason": "상한론 고정 병후 筋惕肉瞤."
+  },
+  {
+    "before": "四肢微有螈　",
+    "after": "四肢微有螈瘲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "丈夫　疝，婦人癃閉",
+    "after": "丈夫㿉疝，婦人癃閉",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "병증 㿉疝.",
+    "reason": "병증 㿉疝."
   }
 ]

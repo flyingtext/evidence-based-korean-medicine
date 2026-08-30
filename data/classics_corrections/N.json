@@ -7778,6 +7778,110 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
       "evidence_note": "N/N036.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "塚孫HT　滄，余姊丈也",
+      "after": "塚孫𨵦滄，余姊丈也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "공개 전문의 弁言 인명이 ‘𨵦滄’으로 확인된다.",
+      "reason": "공개 전문의 弁言 인명이 ‘𨵦滄’으로 확인된다."
+    },
+    {
+      "before": "乃以余四姊為HT　滄室",
+      "after": "乃以余四姊為𨵦滄室",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "같은 인물의 반복 인명 ‘𨵦滄’이다.",
+      "reason": "같은 인물의 반복 인명 ‘𨵦滄’이다."
+    },
+    {
+      "before": "必得　祖之壽。因小字　龍",
+      "after": "必得籛祖之壽。因小字籛龍",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "공개 전문의 고유 문장 ‘必得籛祖之壽。因小字籛龍’과 일치한다.",
+      "reason": "공개 전문의 고유 문장 ‘必得籛祖之壽。因小字籛龍’과 일치한다."
+    },
+    {
+      "before": "吸亞片成KT　者",
+      "after": "吸亞片成疻者",
+      "expected_count": 1,
+      "evidence_url": "https://ksbookshelf2.sakura.ne.jp/DW/Kanjirin/KanjirinHB31.html",
+      "evidence_note": "뒤 자전 인용과 일치하는 疻이며 문맥상 저자가 비판하는 ‘疻’ 해석이다.",
+      "reason": "뒤 자전 인용과 일치하는 疻이며 문맥상 저자가 비판하는 ‘疻’ 해석이다."
+    },
+    {
+      "before": "按《說文》：KT　，瘢也",
+      "after": "按《說文》：疻，瘢也",
+      "expected_count": 1,
+      "evidence_url": "https://ksbookshelf2.sakura.ne.jp/DW/Kanjirin/KanjirinHB31.html",
+      "evidence_note": "疻의 자전 풀이와 이어지는 ‘杖痕腫也’가 일치한다.",
+      "reason": "疻의 자전 풀이와 이어지는 ‘杖痕腫也’가 일치한다."
+    },
+    {
+      "before": "病久破為KT　瘡是也",
+      "after": "病久破為疻瘡是也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "동일 문단의 같은 외자 疻이다.",
+      "reason": "동일 문단의 같은 외자 疻이다."
+    },
+    {
+      "before": "以婦女污KT　袒衣置諸前穴之口",
+      "after": "以婦女污褻袒衣置諸前穴之口",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "어휘 ‘污褻袒衣’ 및 뒤의 ‘褻穢氣’와 대응한다.",
+      "reason": "어휘 ‘污褻袒衣’ 및 뒤의 ‘褻穢氣’와 대응한다."
+    },
+    {
+      "before": "聞衣KT　穢氣",
+      "after": "聞衣褻穢氣",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "고정 어휘 ‘褻穢’로 확인된다.",
+      "reason": "고정 어휘 ‘褻穢’로 확인된다."
+    },
+    {
+      "before": "解KT　草葉如建蘭",
+      "after": "解痧草葉如建蘭",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/NCPSSD-70042439_%E6%B9%96%E9%9B%85%E4%B9%9D%E5%8D%B7_%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+      "evidence_note": "독립 공개 《湖雅》 영인의 吉祥草 항목이 같은 설명과 산후 ‘血痧’를 싣는다.",
+      "reason": "독립 공개 《湖雅》 영인의 吉祥草 항목이 같은 설명과 산후 ‘血痧’를 싣는다."
+    },
+    {
+      "before": "免血KT　",
+      "after": "免血痧",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/NCPSSD-70042439_%E6%B9%96%E9%9B%85%E4%B9%9D%E5%8D%B7_%E7%AC%AC%E4%BA%8C%E5%86%8C.pdf",
+      "evidence_note": "《湖雅》 평행문에 ‘解產厄免血痧’로 직접 확인된다.",
+      "reason": "《湖雅》 평행문에 ‘解產厄免血痧’로 직접 확인된다."
+    },
+    {
+      "before": "（注）KT　本作員，音「運」",
+      "after": "（注）暈本作員，音「運」",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "문단 끝의 ‘俗作暈’과 공개 전문으로 확인된다.",
+      "reason": "문단 끝의 ‘俗作暈’과 공개 전문으로 확인된다."
+    },
+    {
+      "before": "後人加　為KT　，俗作「暈」",
+      "after": "後人加日為暈，俗作「暈」",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "字形 설명 ‘員에 日을 더하여 暈’이라는 문맥이다.",
+      "reason": "字形 설명 ‘員에 日을 더하여 暈’이라는 문맥이다."
+    },
+    {
+      "before": "亦須HT　淨即取",
+      "after": "亦須洗淨即取",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/415/49",
+      "evidence_note": "독립 전사가 같은 조리 문장을 ‘必須清洗乾淨後立即取用’으로 옮기며 원문 어휘 洗淨을 뒷받침한다.",
+      "reason": "독립 전사가 같은 조리 문장을 ‘必須清洗乾淨後立即取用’으로 옮기며 원문 어휘 洗淨을 뒷받침한다."
     }
   ],
   "N/N026.txt": [
@@ -17002,6 +17106,118 @@
       "expected_count": 1,
       "reason": "jicheng 공개 전문·후속 주석 대조 외자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html"
+    },
+    {
+      "before": "出其悍氣之　疾",
+      "after": "出其悍氣之慓疾",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%87%9F%E8%A1%9B%E7%94%9F%E6%9C%83",
+      "evidence_note": "衛氣의 성질 ‘慓疾’.",
+      "reason": "衛氣의 성질 ‘慓疾’."
+    },
+    {
+      "before": "皮膚，　悍滑疾",
+      "after": "皮膚，慓悍滑疾",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%87%9F%E8%A1%9B%E7%94%9F%E6%9C%83",
+      "evidence_note": "衛氣 성질 慓悍滑疾.",
+      "reason": "衛氣 성질 慓悍滑疾."
+    },
+    {
+      "before": "濁氣在上，則生　脹",
+      "after": "濁氣在上，則生䐜脹",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E9%99%B0%E9%99%BD%E6%87%89%E8%B1%A1%E5%A4%A7%E8%AB%96",
+      "evidence_note": "내경 직접 인용 ‘生䐜脹’.",
+      "reason": "내경 직접 인용 ‘生䐜脹’."
+    },
+    {
+      "before": "復以參、　、升、柴舉之",
+      "after": "復以參、耆、升、柴舉之",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "補氣 약명 參耆.",
+      "reason": "補氣 약명 參耆."
+    },
+    {
+      "before": "升、柴、參、　，氣之直升者也",
+      "after": "升、柴、參、耆，氣之直升者也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "補氣 약명 參耆의 반복.",
+      "reason": "補氣 약명 參耆의 반복."
+    },
+    {
+      "before": "有人於此焉，腸　赤　，腹痛後重",
+      "after": "有人於此焉，腸澼赤痢，腹痛後重",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "병증 腸澼·赤痢.",
+      "reason": "병증 腸澼·赤痢."
+    },
+    {
+      "before": "凡　瘕、積聚、痰凝、水溢、　腫",
+      "after": "凡癥瘕、積聚、痰凝、水溢、浮腫",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "병명 열거 癥瘕·浮腫.",
+      "reason": "병명 열거 癥瘕·浮腫."
+    },
+    {
+      "before": "其證為懊　煩躁",
+      "after": "其證為懊憹煩躁",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "병증 懊憹.",
+      "reason": "병증 懊憹."
+    },
+    {
+      "before": "防風、　本",
+      "after": "防風、藁本",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "약명 藁本; 고유 인접 약명으로 occurrence 한정.",
+      "reason": "약명 藁本; 고유 인접 약명으로 occurrence 한정."
+    },
+    {
+      "before": "虻蟲、　蟲、蠐螬",
+      "after": "虻蟲、䗪蟲、蠐螬",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "파혈 약재 䗪蟲.",
+      "reason": "파혈 약재 䗪蟲."
+    },
+    {
+      "before": "穿山甲、　砂、雄黃",
+      "after": "穿山甲、硇砂、雄黃",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "약재 硇砂.",
+      "reason": "약재 硇砂."
+    },
+    {
+      "before": "所謂筋惕肉　也",
+      "after": "所謂筋惕肉瞤也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "상한론 고정 병후 筋惕肉瞤.",
+      "reason": "상한론 고정 병후 筋惕肉瞤."
+    },
+    {
+      "before": "四肢微有螈　",
+      "after": "四肢微有螈瘲",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "병증 螈瘲.",
+      "reason": "병증 螈瘲."
+    },
+    {
+      "before": "丈夫　疝，婦人癃閉",
+      "after": "丈夫㿉疝，婦人癃閉",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+      "evidence_note": "병증 㿉疝.",
+      "reason": "병증 㿉疝."
     }
   ]
 }

@@ -23611,6 +23611,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
       "evidence_note": "A/A200.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "二日少腹腰脊痛，脛　（胃傳腎也）",
+      "after": "二日少腹腰脊痛，脛痠（胃傳腎也）",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/wiki/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC119%E5%8D%B7",
+      "evidence_note": "《素問·標本病傳論》 독립 평행문이 ‘脛痠’으로 확인된다.",
+      "reason": "《素問·標本病傳論》 독립 평행문이 ‘脛痠’으로 확인된다."
+    },
+    {
+      "before": "三日背KT　筋痛，小便閉（三日而胃傳膂膀胱也）",
+      "after": "三日背𦛗筋痛，小便閉（三日而胃傳膂膀胱也）",
+      "expected_count": 1,
+      "evidence_url": "https://donglishuzhai.net/chapter/8773.html",
+      "evidence_note": "독립 吳注 본문이 ‘背𦛗筋痛’으로 싣고 𦛗=膂라고 주석한다.",
+      "reason": "독립 吳注 본문이 ‘背𦛗筋痛’으로 싣고 𦛗=膂라고 주석한다."
+    },
+    {
+      "before": "腎病少腹腰脊痛，　（腎主下部",
+      "after": "腎病少腹腰脊痛，胻痠（腎主下部",
+      "expected_count": 1,
+      "evidence_url": "https://donglishuzhai.net/chapter/8773.html",
+      "evidence_note": "같은 《標本病傳論》 평행문 ‘腎病，少腹腰脊痛，胻痠’과 일치한다.",
+      "reason": "같은 《標本病傳論》 평행문 ‘腎病，少腹腰脊痛，胻痠’과 일치한다."
+    },
+    {
+      "before": "三日背KT　筋痛，小便閉（三日而傳膂膀胱也）",
+      "after": "三日背𦛗筋痛，小便閉（三日而傳膂膀胱也）",
+      "expected_count": 1,
+      "evidence_url": "https://donglishuzhai.net/chapter/8773.html",
+      "evidence_note": "독립 평행문과 주석이 𦛗를 확정한다.",
+      "reason": "독립 평행문과 주석이 𦛗를 확정한다."
+    },
+    {
+      "before": "五日少腹腰脊痛，　（五日之腎也）",
+      "after": "五日少腹腰脊痛，胻痠（五日之腎也）",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC080%E5%8D%B7",
+      "evidence_note": "독립 張志聰 주석 인용이 ‘小腹腰脊痛胻痠’으로 확인된다.",
+      "reason": "독립 張志聰 주석 인용이 ‘小腹腰脊痛胻痠’으로 확인된다."
+    },
+    {
+      "before": "三日背KT　筋痛，小便閉（三日之膂膀胱也）",
+      "after": "三日背𦛗筋痛，小便閉（三日之膂膀胱也）",
+      "expected_count": 1,
+      "evidence_url": "https://donglishuzhai.net/chapter/8773.html",
+      "evidence_note": "동일 고전의 세 번째 반복도 𦛗로 확인된다.",
+      "reason": "동일 고전의 세 번째 반복도 𦛗로 확인된다."
+    },
+    {
+      "before": "冬夜半後，夏日　（丑、未司濕土之化",
+      "after": "冬夜半後，夏日昳（丑、未司濕土之化",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC080%E5%8D%B7",
+      "evidence_note": "《標本病傳論》 평행문 ‘冬夜半後，夏日昳’과 일치한다.",
+      "reason": "《標本病傳論》 평행문 ‘冬夜半後，夏日昳’과 일치한다."
     }
   ],
   "A/A201.txt": [

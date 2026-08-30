@@ -1664,6 +1664,62 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
       "evidence_note": "M/M200.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "腰痛引膺。目KT　KT　然",
+      "after": "腰痛引膺。目䀮䀮然",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E5%AF%92%E7%86%B1%E7%97%85",
+      "evidence_note": "昌陽脈 병후의 目䀮䀮然; 음과 평행문 일치.",
+      "reason": "昌陽脈 병후의 目䀮䀮然; 음과 평행문 일치."
+    },
+    {
+      "before": "產後發疾口噤。倒悶吐沫。螈　",
+      "after": "產後發疾口噤。倒悶吐沫。螈瘲",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+      "evidence_note": "병증 螈瘲.",
+      "reason": "병증 螈瘲."
+    },
+    {
+      "before": "口眼　斜者。風中經絡也",
+      "after": "口眼喎斜者。風中經絡也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+      "evidence_note": "중풍 병후 口眼喎斜.",
+      "reason": "중풍 병후 口眼喎斜."
+    },
+    {
+      "before": "口耳為僻。　急不能卒視者",
+      "after": "口耳為僻。目急不能卒視者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E7%AD%8B",
+      "evidence_note": "陽明·太陽 경근 병후의 目急不能卒視.",
+      "reason": "陽明·太陽 경근 병후의 目急不能卒視."
+    },
+    {
+      "before": "胸滿口噤。臥不著席。腳攣急。又　齒者。痙病也。痙者腰折螈　",
+      "after": "胸滿口噤。臥不著席。腳攣急。又齘齒者。痙病也。痙者腰折螈瘲",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+      "evidence_note": "痙病의 齘齒와 螈瘲.",
+      "reason": "痙病의 齘齒와 螈瘲."
+    },
+    {
+      "before": "迎香禾　之分。手陽明也。頰車巨　之分",
+      "after": "迎香禾髎之分。手陽明也。頰車巨髎之分",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+      "evidence_note": "경혈명 禾髎·巨髎.",
+      "reason": "경혈명 禾髎·巨髎."
+    },
+    {
+      "before": "螈　不定者。筋脈相引而難瘳",
+      "after": "螈瘲不定者。筋脈相引而難瘳",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+      "evidence_note": "병증 螈瘲.",
+      "reason": "병증 螈瘲."
     }
   ],
   "M/M104.txt": [

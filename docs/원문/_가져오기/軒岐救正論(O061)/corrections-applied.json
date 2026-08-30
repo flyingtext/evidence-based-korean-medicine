@@ -806,5 +806,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
     "evidence_note": "O/O061.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "則病生痿　也",
+    "after": "則病生痿躄也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+    "evidence_note": "병명 痿躄.",
+    "reason": "병명 痿躄."
+  },
+  {
+    "before": "內經謂之腸　。金匱謂之滯下",
+    "after": "內經謂之腸澼。金匱謂之滯下",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+    "evidence_note": "내경의 이질명 腸澼.",
+    "reason": "내경의 이질명 腸澼."
+  },
+  {
+    "before": "猶當溽暑伊芳郁之時。而商　颯然倏動",
+    "after": "猶當溽暑伊芳郁之時。而商飆颯然倏動",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
+    "evidence_note": "가을바람을 뜻하는 商飆.",
+    "reason": "가을바람을 뜻하는 商飆."
   }
 ]

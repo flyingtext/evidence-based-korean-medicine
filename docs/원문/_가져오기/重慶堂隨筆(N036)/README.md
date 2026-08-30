@@ -7,7 +7,7 @@
 - 원본 파일: `N/N036.txt`
 - SHA-256: `c64640f2d7ccdd7eb5d3a6712bcdcbab7d0567dbf65f4fefdf8849f60a1cabde`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 76건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 89건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차
