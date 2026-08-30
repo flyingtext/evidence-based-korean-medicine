@@ -1638,5 +1638,125 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
     "evidence_note": "A/A000.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "少陽終者，耳聾百節皆縱，目HT　絕系",
+    "after": "少陽終者，耳聾百節皆縱，目睘絕系",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "《診要經終論》 평행문 目睘絕系.",
+    "reason": "《診要經終論》 평행문 目睘絕系."
+  },
+  {
+    "before": "HT　（音瓊）",
+    "after": "睘（音瓊）",
+    "expected_count": 1,
+    "evidence_url": "https://www.zdic.net/hant/%E7%9D%98",
+    "evidence_note": "睘의 음과 경문 용례가 일치한다.",
+    "reason": "睘의 음과 경문 용례가 일치한다."
+  },
+  {
+    "before": "癉（都HT　切）",
+    "after": "癉（都但切）",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E7%99%89",
+    "evidence_note": "癉의 반절 都但切이다.",
+    "reason": "癉의 반절 都但切이다."
+  },
+  {
+    "before": "禁犯淬HT　熱食溫炙衣",
+    "after": "禁犯淬㶼熱食溫炙衣",
+    "expected_count": 1,
+    "evidence_url": "https://www.qhsxzh.com/wp-content/uploads/2026/05/01%E5%80%AA%E6%B3%A8%E5%86%85%E7%BB%8F2026.4.13.pdf",
+    "evidence_note": "藏氣法時論의 淬㶼 열 금기 문구다.",
+    "reason": "藏氣法時論의 淬㶼 열 금기 문구다."
+  },
+  {
+    "before": "淬（七內切）HT　（烏開切）",
+    "after": "淬（七內切）㶼（烏開切）",
+    "expected_count": 1,
+    "evidence_url": "https://www.qhsxzh.com/wp-content/uploads/2026/05/01%E5%80%AA%E6%B3%A8%E5%86%85%E7%BB%8F2026.4.13.pdf",
+    "evidence_note": "앞 경문의 두 표제자와 음주다.",
+    "reason": "앞 경문의 두 표제자와 음주다."
+  },
+  {
+    "before": "目KT　KT　無所見",
+    "after": "目䀮䀮無所見",
+    "expected_count": 3,
+    "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+    "evidence_note": "《素問》·《靈樞》의 반복 경문 目䀮䀮無所見.",
+    "reason": "《素問》·《靈樞》의 반복 경문 目䀮䀮無所見."
+  },
+  {
+    "before": "KT　KT　（音荒）",
+    "after": "䀮䀮（音荒）",
+    "expected_count": 1,
+    "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+    "evidence_note": "䀮의 음 荒과 일치한다.",
+    "reason": "䀮의 음 荒과 일치한다."
+  },
+  {
+    "before": "解脈令人腰痛，痛引肩，目KT　KT　然",
+    "after": "解脈令人腰痛，痛引肩，目䀮䀮然",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/ci-yao-tong-lun/zh",
+    "evidence_note": "《刺腰痛論》 평행문 目䀮䀮然.",
+    "reason": "《刺腰痛論》 평행문 目䀮䀮然."
+  },
+  {
+    "before": "昌陽之脈令人腰痛，痛引膺，目KT　KT　然",
+    "after": "昌陽之脈令人腰痛，痛引膺，目䀮䀮然",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/ci-yao-tong-lun/zh",
+    "evidence_note": "동편의 반복 병후 目䀮䀮然.",
+    "reason": "동편의 반복 병후 目䀮䀮然."
+  },
+  {
+    "before": "腰痛俠脊而痛至頭KT　KT　然，目KT　KT　欲僵仆",
+    "after": "腰痛俠脊而痛至頭𠘧𠘧然，目䀮䀮欲僵仆",
+    "expected_count": 1,
+    "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+    "evidence_note": "평행문과 자석이 頭𠘧𠘧然 및 目䀮䀮를 확인한다.",
+    "reason": "평행문과 자석이 頭𠘧𠘧然 및 目䀮䀮를 확인한다."
+  },
+  {
+    "before": "中KT　兩旁各五，凡十穴",
+    "after": "中膂兩旁各五，凡十穴",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/qi-xue-lun/zh",
+    "evidence_note": "氣穴論의 中膂兩旁 각 5혈이다.",
+    "reason": "氣穴論의 中膂兩旁 각 5혈이다."
+  },
+  {
+    "before": "背KT　筋痛小便閉",
+    "after": "背𦛗筋痛小便閉",
+    "expected_count": 3,
+    "evidence_url": "https://www.donglishuzhai.net/chapter/8773.html",
+    "evidence_note": "《標本病傳論》 반복문과 주석에서 𦛗=膂로 확인된다.",
+    "reason": "《標本病傳論》 반복문과 주석에서 𦛗=膂로 확인된다."
+  },
+  {
+    "before": "目視KT　KT　，物疏璺",
+    "after": "目視䀮䀮，物疏璺",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/qi-jiao-bian-da-lun/zh",
+    "evidence_note": "氣交變大論의 시각 병후 䀮䀮.",
+    "reason": "氣交變大論의 시각 병후 䀮䀮."
+  },
+  {
+    "before": "兩脅作痛，滿目KT　KT　",
+    "after": "兩脅作痛，滿目䀮䀮",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/zhi-zhen-yao-da-lun/zh",
+    "evidence_note": "평행 경문 滿目䀮䀮.",
+    "reason": "평행 경문 滿目䀮䀮."
+  },
+  {
+    "before": "其性為凜，其德為寒，其用為□，其色為黑，其化為肅，其蟲鱗，其政為靜，其令□□",
+    "after": "其性為凜，其德為寒，其用為屈，其色為黑，其化為肅，其蟲鱗，其政為靜，其令霰雪",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/wu-yun-xing-da-lun/zh",
+    "evidence_note": "五運行大論의 북방 수기 속성 ‘其用為屈’과 ‘其令霰雪’이다.",
+    "reason": "五運行大論의 북방 수기 속성 ‘其用為屈’과 ‘其令霰雪’이다."
   }
 ]

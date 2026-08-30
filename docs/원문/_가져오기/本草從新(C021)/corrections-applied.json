@@ -1726,5 +1726,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html",
     "evidence_note": "C/C021.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "宋大官作血KT　、誤落藕皮、血遂渙散不凝",
+    "after": "宋大官作血䘓、誤落藕皮、血遂渙散不凝",
+    "expected_count": 1,
+    "reason": "`䘓`은 음이 勘이며 혈갱을 뜻하는 희귀자로, 해당 본초 고사의 KT 변환 잔재다.",
+    "evidence_url": "https://zdic.net/hant/%E4%98%93",
+    "evidence_note": "《陶氏本草註》 인용 `宋時大官作䘓，削藕皮落其中，血不凝` 및 `䘓，血羹也`가 직접 확인된다."
   }
 ]

@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "before": "英國公李　許孝　蘇敬宗等奉詔",
+    "after": "英國公李勣許孝崇蘇敬宗等奉詔",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "《新修本草》 편찬자 李勣·許孝崇·蘇敬.",
+    "reason": "《新修本草》 편찬자 李勣·許孝崇·蘇敬."
+  },
+  {
+    "before": "醫　者秦之良醫也",
+    "after": "醫和者秦之良醫也",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B7%A6%E5%82%B3/%E6%98%AD%E5%85%83%E5%B9%B4",
+    "evidence_note": "秦의 명의 醫和.",
+    "reason": "秦의 명의 醫和."
+  },
+  {
+    "before": "虛而冷加當歸芎　乾薑",
+    "after": "虛而冷加當歸芎藭乾薑",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "약명 芎藭.",
+    "reason": "약명 芎藭."
+  },
+  {
+    "before": "白水黃　(白水地名)虛而冷用隴西黃　",
+    "after": "白水黃耆(白水地名)虛而冷用隴西黃耆",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "산지별 黃耆 두 occurrence.",
+    "reason": "산지별 黃耆 두 occurrence."
+  },
+  {
+    "before": "加桑螵蛸龍骨雞　",
+    "after": "加桑螵蛸龍骨雞䏶胵",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "약재 雞䏶胵.",
+    "reason": "약재 雞䏶胵."
+  },
+  {
+    "before": "至剔其肉滿貯巨　而食之",
+    "after": "至剔其肉滿貯巨觥而食之",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "큰 술잔 巨觥.",
+    "reason": "큰 술잔 巨觥."
+  },
+  {
+    "before": "入喉為鏌　",
+    "after": "入喉為鏌鋣",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "명검명 鏌鋣의 비유.",
+    "reason": "명검명 鏌鋣의 비유."
+  },
+  {
+    "before": "　香子即茴香也",
+    "after": "蘹香子即茴香也",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+    "evidence_note": "茴香의 옛 이름 蘹香子.",
+    "reason": "茴香의 옛 이름 蘹香子."
+  }
+]

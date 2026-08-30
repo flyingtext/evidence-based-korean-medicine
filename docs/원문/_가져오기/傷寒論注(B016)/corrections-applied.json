@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "before": "頸動KT　KT　、腳攣急",
+    "after": "頸動𠘧𠘧、腳攣急",
+    "expected_count": 1,
+    "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+    "evidence_note": "項頸 강직을 형용하는 희자 𠘧𠘧과 자형 풀이가 확인된다.",
+    "reason": "項頸 강직을 형용하는 희자 𠘧𠘧과 자형 풀이가 확인된다."
+  },
+  {
+    "before": "太陽病，項背強KT　KT　、無汗、惡風者",
+    "after": "太陽病，項背強𠘧𠘧、無汗、惡風者",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "葛根湯 원 조문의 項背強𠘧𠘧이다.",
+    "reason": "葛根湯 원 조문의 項背強𠘧𠘧이다."
+  },
+  {
+    "before": "太陽病，項背強KT　KT　而汗出惡風者",
+    "after": "太陽病，項背強𠘧𠘧而汗出惡風者",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "桂枝加葛根湯 원 조문의 項背強𠘧𠘧이다.",
+    "reason": "桂枝加葛根湯 원 조문의 項背強𠘧𠘧이다."
+  },
+  {
+    "before": "KTKT　，項背牽動之象",
+    "after": "𠘧𠘧，項背牽動之象",
+    "expected_count": 1,
+    "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+    "evidence_note": "바로 앞 병후의 표제어 𠘧𠘧이다.",
+    "reason": "바로 앞 병후의 표제어 𠘧𠘧이다."
+  }
+]

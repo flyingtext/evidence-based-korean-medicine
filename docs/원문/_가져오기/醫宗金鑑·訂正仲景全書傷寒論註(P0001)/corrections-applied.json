@@ -246,5 +246,53 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
     "evidence_note": "P/P0001.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "温病、痙、濕、　、霍亂",
+    "after": "温病、痙、濕、暍、霍亂",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
+    "evidence_note": "상한 병문 분류의 暍.",
+    "reason": "상한 병문 분류의 暍."
+  },
+  {
+    "before": "遍身　，微似有汗者益佳",
+    "after": "遍身漐漐，微似有汗者益佳",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "桂枝湯 복용법 ‘遍身漐漐微似有汗’.",
+    "reason": "桂枝湯 복용법 ‘遍身漐漐微似有汗’."
+  },
+  {
+    "before": "再加黃　，名黃建中湯",
+    "after": "再加黃耆，名黃耆建中湯",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
+    "evidence_note": "약명 및 처방명 黃耆建中湯.",
+    "reason": "약명 및 처방명 黃耆建中湯."
+  },
+  {
+    "before": "心中懊　，陽氣內陷",
+    "after": "心中懊憹，陽氣內陷",
+    "expected_count": 2,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "병후 懊憹; 동일 해설 문구 두 occurrence.",
+    "reason": "병후 懊憹; 동일 해설 문구 두 occurrence."
+  },
+  {
+    "before": "心中懊　者，亦以梔子豉湯",
+    "after": "心中懊憹者，亦以梔子豉湯",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "梔子豉湯증 懊憹.",
+    "reason": "梔子豉湯증 懊憹."
+  },
+  {
+    "before": "太陽經衇起於目內　，上額交巔",
+    "after": "太陽經衇起於目內眥，上額交巔",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+    "evidence_note": "足太陽 경맥의 目內眥.",
+    "reason": "足太陽 경맥의 目內眥."
   }
 ]

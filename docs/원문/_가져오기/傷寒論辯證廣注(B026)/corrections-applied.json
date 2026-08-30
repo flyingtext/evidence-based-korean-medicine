@@ -1598,5 +1598,109 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BE%AF%E8%AD%89%E5%BB%A3%E8%A8%BB/index.html",
     "evidence_note": "B/B026.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "過HT　骨後",
+    "after": "過核骨後",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai/zh",
+    "evidence_note": "足太陰脈의 核骨 부위다.",
+    "reason": "足太陰脈의 核骨 부위다."
+  },
+  {
+    "before": "（HT　骨一作核骨。足大指本節後內側圓骨",
+    "after": "（核骨一作核骨。足大指本節後內側圓骨",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/huangdi-neijing/jing-mai/zh",
+    "evidence_note": "주석 자체가 核骨의 이명을 명시한다.",
+    "reason": "주석 자체가 核骨의 이명을 명시한다."
+  },
+  {
+    "before": "太陽病項背強KT　KT　反汗出惡風者。桂枝加葛根湯主之。（KT　音殊。KT　KT　者。鳥飛羽短伸頸之貌。太陽病項背強矣。復KT　KT　然頸不得舒。頸之經屬陽明。項背與頸KT　KT　然其狀當無汗矣",
+    "after": "太陽病項背強𠘧𠘧反汗出惡風者。桂枝加葛根湯主之。（𠘧音殊。𠘧𠘧者。鳥飛羽短伸頸之貌。太陽病項背強矣。復𠘧𠘧然頸不得舒。頸之經屬陽明。項背與頸𠘧𠘧然其狀當無汗矣",
+    "expected_count": 1,
+    "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
+    "evidence_note": "조문·음주·鳥短羽 풀이가 모두 𠘧 및 𠘧𠘧을 가리킨다.",
+    "reason": "조문·음주·鳥短羽 풀이가 모두 𠘧 및 𠘧𠘧을 가리킨다."
+  },
+  {
+    "before": "今因其KT　KT　然。故加葛根",
+    "after": "今因其𠘧𠘧然。故加葛根",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "같은 병후 반복.",
+    "reason": "같은 병후 반복."
+  },
+  {
+    "before": "又復KT　KT　然而頸拘縮。夫KT　KT　者",
+    "after": "又復𠘧𠘧然而頸拘縮。夫𠘧𠘧者",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "頸拘縮을 풀이하는 𠘧𠘧.",
+    "reason": "頸拘縮을 풀이하는 𠘧𠘧."
+  },
+  {
+    "before": "因多KT　KT　然拘縮之狀",
+    "after": "因多𠘧𠘧然拘縮之狀",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "같은 병후 반복.",
+    "reason": "같은 병후 반복."
+  },
+  {
+    "before": "太陽病項背強KT　KT　無汗惡風。葛根湯主之。（太陽病項背強。KT　KT　前於反汗出條下已注明",
+    "after": "太陽病項背強𠘧𠘧無汗惡風。葛根湯主之。（太陽病項背強。𠘧𠘧前於反汗出條下已注明",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "葛根湯 조문과 앞 주석 표제어.",
+    "reason": "葛根湯 조문과 앞 주석 표제어."
+  },
+  {
+    "before": "項背強。KT　KT　然惡風",
+    "after": "項背強。𠘧𠘧然惡風",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "같은 병후 반복.",
+    "reason": "같은 병후 반복."
+  },
+  {
+    "before": "因KT　KT　然拘強",
+    "after": "因𠘧𠘧然拘強",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "拘強의 형용 𠘧𠘧.",
+    "reason": "拘強의 형용 𠘧𠘧."
+  },
+  {
+    "before": "且仲景云。KT　KT　無汗惡風",
+    "after": "且仲景云。𠘧𠘧無汗惡風",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "조문 축약 인용.",
+    "reason": "조문 축약 인용."
+  },
+  {
+    "before": "故項背強KT　KT　然而惡風",
+    "after": "故項背強𠘧𠘧然而惡風",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "같은 병후 반복.",
+    "reason": "같은 병후 반복."
+  },
+  {
+    "before": "治太陽病項背強KT　KT　無汗惡風者",
+    "after": "治太陽病項背強𠘧𠘧無汗惡風者",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "葛根湯 효능의 조문 인용.",
+    "reason": "葛根湯 효능의 조문 인용."
+  },
+  {
+    "before": "二經傷寒KT　KT　無汗者",
+    "after": "二經傷寒𠘧𠘧無汗者",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
+    "evidence_note": "앞 병후의 축약 반복.",
+    "reason": "앞 병후의 축약 반복."
   }
 ]

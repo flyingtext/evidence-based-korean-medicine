@@ -112641,7 +112641,48 @@
       "evidence_note": "O/O108.txt: 좌우 한자 각 14자 고유 일치"
     }
   ],
-  "O/O108a.txt": [],
+  "O/O108a.txt": [
+    {
+      "before": "[c]rck[/c]咀",
+      "after": "㕮咀",
+      "expected_count": 104,
+      "evidence_url": "https://zh.wikipedia.org/wiki/%E8%91%9B%E6%A0%B9%E6%B9%AF",
+      "evidence_note": "방제 조제 용어 上㕮咀/右㕮咀의 외자다.",
+      "reason": "방제 조제 용어 上㕮咀/右㕮咀의 외자다."
+    },
+    {
+      "before": "[c]fjii[/c]",
+      "after": "煿",
+      "expected_count": 23,
+      "evidence_url": "https://www.zysj.com.cn/zhongyaofang/baihudan/",
+      "evidence_note": "景岳全書의 식이 금기 고정어 炙煿 및 煎煿에 쓰이는 煿이다.",
+      "reason": "景岳全書의 식이 금기 고정어 炙煿 및 煎煿에 쓰이는 煿이다."
+    },
+    {
+      "before": "[c]kmvs[/c]痛",
+      "after": "㽲痛",
+      "expected_count": 6,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=573391&if=en",
+      "evidence_note": "景岳全書 처방 주치의 고정 병후 腹中㽲痛.",
+      "reason": "景岳全書 처방 주치의 고정 병후 腹中㽲痛."
+    },
+    {
+      "before": "[c]wfmj[/c]",
+      "after": "䵟",
+      "expected_count": 11,
+      "evidence_url": "https://www.uchidawakanyaku.co.jp/kampo/tamatebako/shoyaku.html?page=376",
+      "evidence_note": "면부 색소 병명·증상 䵟斑/面䵟의 외자.",
+      "reason": "면부 색소 병명·증상 䵟斑/面䵟의 외자."
+    },
+    {
+      "before": "[c]khuc[/c]疝",
+      "after": "㿗疝",
+      "expected_count": 15,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=353616&if=en",
+      "evidence_note": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝.",
+      "reason": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝."
+    }
+  ],
   "O/O101.txt": [
     {
       "before": "或喜臥、噦HT　、噫酸",
@@ -112764,6 +112805,72 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D/index.html",
       "evidence_note": "도인법의 上齶.",
       "reason": "도인법의 上齶."
+    }
+  ],
+  "O/O048.txt": [
+    {
+      "before": "英國公李　許孝　蘇敬宗等奉詔",
+      "after": "英國公李勣許孝崇蘇敬宗等奉詔",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "《新修本草》 편찬자 李勣·許孝崇·蘇敬.",
+      "reason": "《新修本草》 편찬자 李勣·許孝崇·蘇敬."
+    },
+    {
+      "before": "醫　者秦之良醫也",
+      "after": "醫和者秦之良醫也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B7%A6%E5%82%B3/%E6%98%AD%E5%85%83%E5%B9%B4",
+      "evidence_note": "秦의 명의 醫和.",
+      "reason": "秦의 명의 醫和."
+    },
+    {
+      "before": "虛而冷加當歸芎　乾薑",
+      "after": "虛而冷加當歸芎藭乾薑",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "약명 芎藭.",
+      "reason": "약명 芎藭."
+    },
+    {
+      "before": "白水黃　(白水地名)虛而冷用隴西黃　",
+      "after": "白水黃耆(白水地名)虛而冷用隴西黃耆",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "산지별 黃耆 두 occurrence.",
+      "reason": "산지별 黃耆 두 occurrence."
+    },
+    {
+      "before": "加桑螵蛸龍骨雞　",
+      "after": "加桑螵蛸龍骨雞䏶胵",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "약재 雞䏶胵.",
+      "reason": "약재 雞䏶胵."
+    },
+    {
+      "before": "至剔其肉滿貯巨　而食之",
+      "after": "至剔其肉滿貯巨觥而食之",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "큰 술잔 巨觥.",
+      "reason": "큰 술잔 巨觥."
+    },
+    {
+      "before": "入喉為鏌　",
+      "after": "入喉為鏌鋣",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "명검명 鏌鋣의 비유.",
+      "reason": "명검명 鏌鋣의 비유."
+    },
+    {
+      "before": "　香子即茴香也",
+      "after": "蘹香子即茴香也",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%AA%AA/index.html",
+      "evidence_note": "茴香의 옛 이름 蘹香子.",
+      "reason": "茴香의 옛 이름 蘹香子."
     }
   ]
 }

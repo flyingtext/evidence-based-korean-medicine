@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "before": "[c]rck[/c]咀",
+    "after": "㕮咀",
+    "expected_count": 104,
+    "evidence_url": "https://zh.wikipedia.org/wiki/%E8%91%9B%E6%A0%B9%E6%B9%AF",
+    "evidence_note": "방제 조제 용어 上㕮咀/右㕮咀의 외자다.",
+    "reason": "방제 조제 용어 上㕮咀/右㕮咀의 외자다."
+  },
+  {
+    "before": "[c]fjii[/c]",
+    "after": "煿",
+    "expected_count": 23,
+    "evidence_url": "https://www.zysj.com.cn/zhongyaofang/baihudan/",
+    "evidence_note": "景岳全書의 식이 금기 고정어 炙煿 및 煎煿에 쓰이는 煿이다.",
+    "reason": "景岳全書의 식이 금기 고정어 炙煿 및 煎煿에 쓰이는 煿이다."
+  },
+  {
+    "before": "[c]kmvs[/c]痛",
+    "after": "㽲痛",
+    "expected_count": 6,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=573391&if=en",
+    "evidence_note": "景岳全書 처방 주치의 고정 병후 腹中㽲痛.",
+    "reason": "景岳全書 처방 주치의 고정 병후 腹中㽲痛."
+  },
+  {
+    "before": "[c]wfmj[/c]",
+    "after": "䵟",
+    "expected_count": 11,
+    "evidence_url": "https://www.uchidawakanyaku.co.jp/kampo/tamatebako/shoyaku.html?page=376",
+    "evidence_note": "면부 색소 병명·증상 䵟斑/面䵟의 외자.",
+    "reason": "면부 색소 병명·증상 䵟斑/面䵟의 외자."
+  },
+  {
+    "before": "[c]khuc[/c]疝",
+    "after": "㿗疝",
+    "expected_count": 15,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=353616&if=en",
+    "evidence_note": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝.",
+    "reason": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝."
+  }
+]
