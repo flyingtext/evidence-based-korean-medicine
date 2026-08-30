@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "before": "KT　KT",
+    "after": "䀮䀮",
+    "expected_count": 5,
+    "reason": "깨진 KT 외자 토큰 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%AD%E5%AE%A4%E7%A7%98%E8%97%8F/index.html",
+    "evidence_note": "明初葉刊本·四庫本 및 동문 대조"
+  },
+  {
+    "before": "面有　HT　黎黑",
+    "after": "面有䵟𪒟",
+    "expected_count": 1,
+    "reason": "깨진 HT 외자 및 결자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%AD%E5%AE%A4%E7%A7%98%E8%97%8F/index.html",
+    "evidence_note": "jicheng 최신 전문 洗面藥 동문 대조"
+  },
+  {
+    "before": "小便後有餘滴HT　臀並前陰冷",
+    "after": "小便後有餘滴臊氣尻臀並前陰冷",
+    "expected_count": 1,
+    "reason": "깨진 HT 토큰과 누락 구문 복원",
+    "evidence_url": "https://yibian.hopto.org/tw/db/?sypno=240",
+    "evidence_note": "蘭室秘藏 인용 동문 대조"
+  },
+  {
+    "before": "HT砂(連皮)",
+    "after": "𩿣砂(連皮)",
+    "expected_count": 1,
+    "reason": "깨진 HT 외자 토큰 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%98%AD%E5%AE%A4%E7%A7%98%E8%97%8F/index.html",
+    "evidence_note": "jicheng 최신 전문·四庫本 대조"
+  }
+]

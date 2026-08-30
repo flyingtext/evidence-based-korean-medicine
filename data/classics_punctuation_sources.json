@@ -588,6 +588,17 @@
       "sampled_7gram_match_ratio": 0.986438
     },
     {
+      "source_path": "O/O054.txt",
+      "title": "蘭室秘藏",
+      "url": "https://jicheng.tw/tcm/book/%E8%98%AD%E5%AE%A4%E7%A7%98%E8%97%8F/index.html",
+      "source_cjk_length": 44721,
+      "online_cjk_length": 46175,
+      "length_ratio_online_to_source": 1.032513,
+      "difflib_quick_ratio": 0.978605,
+      "sampled_7gram_match_ratio": 0.8953,
+      "status": "alignment_rejected"
+    },
+    {
       "source_path": "P/P0101.txt",
       "title": "證治準繩‧傷寒",
       "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E5%82%B7%E5%AF%92/index.html",
