@@ -186,6 +186,22 @@ def normalize_punctuation(text: str) -> str:
     return text.translate(CHINESE_TO_ASCII)
 
 
+def space_after_punctuation(text: str) -> str:
+    pieces: list[str] = []
+    for index, char in enumerate(text):
+        pieces.append(char)
+        if char not in {",", "."} or index + 1 >= len(text):
+            continue
+        following = text[index + 1]
+        if following.isspace() or following in ",.!?;:)]}\"'":
+            continue
+        preceding = text[index - 1] if index else ""
+        if char == "." and preceding.isdigit() and following.isdigit():
+            continue
+        pieces.append(" ")
+    return "".join(pieces)
+
+
 def extract_response(value: str) -> str:
     value = value.strip()
     try:
@@ -394,7 +410,7 @@ def main() -> int:
         else:
             rendered.append(chunk_outputs[chunk_cursor].rstrip() + "\n\n")
             chunk_cursor += 1
-    markdown = "".join(rendered).strip() + "\n"
+    markdown = space_after_punctuation("".join(rendered).strip()) + "\n"
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown, encoding="utf-8")
 

@@ -86,6 +86,21 @@ def content_signature(text: str) -> str:
     )
 
 
+def missing_punctuation_spaces(text: str) -> int:
+    count = 0
+    for index, char in enumerate(text[:-1]):
+        if char not in {",", "."}:
+            continue
+        following = text[index + 1]
+        if following.isspace() or following in ",.!?;:)]}\"'":
+            continue
+        preceding = text[index - 1] if index else ""
+        if char == "." and preceding.isdigit() and following.isdigit():
+            continue
+        count += 1
+    return count
+
+
 def numeric_field(
     validation: object,
     field: str,
@@ -198,6 +213,9 @@ def validate_report(
         counts = {mark: forbidden.count(mark) for mark in sorted(set(forbidden))}
         rendered = ", ".join(f"{mark} {count}개" for mark, count in counts.items())
         errors.append(f"{punctuated_label}에 금지된 중국식 표점 존재 ({rendered})")
+    missing_spaces = missing_punctuation_spaces(text)
+    if missing_spaces:
+        errors.append(f"{punctuated_label}의 쉼표·마침표 뒤 공백 누락 {missing_spaces}곳")
     han_count = len(HAN_RE.findall(text))
     punctuation_count = len(ASCII_PUNCTUATION_RE.findall(text))
     if han_count == 0:
