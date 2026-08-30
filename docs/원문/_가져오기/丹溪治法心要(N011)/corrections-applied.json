@@ -990,5 +990,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E6%B2%BB%E6%B3%95%E5%BF%83%E8%A6%81/index.html",
     "evidence_note": "../source/N/N011.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[h3]HT瘡（第一百九）",
+    "after": "[h3]臁瘡（第一百九）",
+    "expected_count": 1,
+    "reason": "아랫다리 만성 창양의 병명이다.",
+    "evidence_url": "https://wk.100ke.info/zh-hant/%E4%B8%B9%E6%BA%AA%E6%B2%BB%E6%B3%95%E5%BF%83%E8%A6%81",
+    "evidence_note": "공개 독립 전사와 동일 문헌의 臁瘡 항목을 대조했다."
+  },
+  {
+    "before": "婦人腳脛HT　瘡",
+    "after": "婦人腳脛臁瘡",
+    "expected_count": 1,
+    "reason": "직전 臁瘡 항목의 본문이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_439_%281700-1725%29.djvu/83",
+    "evidence_note": "공개 원판 전사에서 腳脛 부위의 병명을 臁瘡으로 확인했다."
+  },
+  {
+    "before": "HT　瘡方，輕粉",
+    "after": "臁瘡方，輕粉",
+    "expected_count": 1,
+    "reason": "같은 항목의 처방 표제이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9C%A8%E4%B9%8B%E4%BA%8C",
+    "evidence_note": "공개 고전 전사의 `臁瘡熱瘡：黃柏末一兩，輕粉三錢`과 병명·약재가 일치한다."
   }
 ]

@@ -614,5 +614,45 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AE%E6%BF%9F%E6%9C%AC%E4%BA%8B%E6%96%B9/index.html",
     "evidence_note": "D/D027.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目視KT　KT　，少氣溺血",
+    "after": "目視䀮　䀮，少氣溺血",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "腎虛 병후의 정형 문구 目視䀮䀮.",
+    "reason": "腎虛 병후의 정형 문구 目視䀮䀮."
+  },
+  {
+    "before": "不須KT　粥",
+    "after": "不須啜粥",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "葛根湯 복법의 정형 문구 ‘不須啜粥’에 일치.",
+    "reason": "葛根湯 복법의 정형 문구 ‘不須啜粥’에 일치."
+  },
+  {
+    "before": "各二HT　末",
+    "after": "各二味末",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AE%E6%BF%9F%E6%9C%AC%E4%BA%8B%E6%96%B9/index.html",
+    "evidence_note": "硝石·硫黃 두 약미를 가리키는 ‘二味末’.",
+    "reason": "硝石·硫黃 두 약미를 가리키는 ‘二味末’."
+  },
+  {
+    "before": "次入玄精石末及前二HT　末拌勻",
+    "after": "次入玄精石末及前二味末拌勻",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AE%E6%BF%9F%E6%9C%AC%E4%BA%8B%E6%96%B9/index.html",
+    "evidence_note": "앞의 두 약미 분말을 재지칭하는 문맥.",
+    "reason": "앞의 두 약미 분말을 재지칭하는 문맥."
+  },
+  {
+    "before": "何謂KTKT　？予曰：KT　KT　者",
+    "after": "何謂几几？予曰：几　几者",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+    "evidence_note": "項背強几几의 자의 문답으로 확인됨.",
+    "reason": "項背強几几의 자의 문답으로 확인됨."
   }
 ]

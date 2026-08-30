@@ -646,5 +646,21 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%8B%E6%BC%81%E9%BD%8B%E9%86%AB%E8%A9%B1/index.html",
     "evidence_note": "N/N001.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　（和去聲）地一聲，脫胎出世",
+    "after": "呱（和去聲）地一聲，脫胎出世",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wiktionary.org/wiki/%E5%91%B1",
+    "evidence_note": "출생 울음의 정형어 呱呱와 주음 ‘和去聲’에 부합.",
+    "reason": "출생 울음의 정형어 呱呱와 주음 ‘和去聲’에 부합."
+  },
+  {
+    "before": "目KT　KT　然，（肝開竅於目",
+    "after": "目䀮　䀮然，（肝開竅於目",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "evidence_note": "肝虛 조문의 ‘目䀮䀮然/無所見’으로 확인됨.",
+    "reason": "肝虛 조문의 ‘目䀮䀮然/無所見’으로 확인됨."
   }
 ]

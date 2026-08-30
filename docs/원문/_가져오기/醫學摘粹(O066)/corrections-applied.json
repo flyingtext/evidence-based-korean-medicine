@@ -686,5 +686,37 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%91%98%E7%B2%B9/index.html",
     "evidence_note": "O/O066.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "項背強，KT　KT　無汗惡風者",
+    "after": "項背強，𠘧𠘧無汗惡風者",
+    "expected_count": 1,
+    "reason": "葛根湯 고정 조문이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
+    "evidence_note": "공개 고전 인용과 일치한다."
+  },
+  {
+    "before": "項背強KT　KT　，反汗出惡風者",
+    "after": "項背強𠘧𠘧，反汗出惡風者",
+    "expected_count": 1,
+    "reason": "桂枝加葛根湯 고정 조문이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96%E7%BF%BC",
+    "evidence_note": "공개 독립 전사에서 `項背強𠘧𠘧`을 확인했다."
+  },
+  {
+    "before": "目視KTKT而無所見",
+    "after": "目視䀮䀮而無所見",
+    "expected_count": 1,
+    "reason": "肝虛 경문의 고정 표현이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
+    "evidence_note": "공개 원판의 `目䀮䀮如無所見`과 일치한다."
+  },
+  {
+    "before": "身體強，KTKT然，脈反沉遲",
+    "after": "身體強，𠘧𠘧然，脈反沉遲",
+    "expected_count": 1,
+    "reason": "栝蔞桂枝湯 고정 조문이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
+    "evidence_note": "공개 고전 인용과 일치한다."
   }
 ]

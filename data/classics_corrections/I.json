@@ -4009,6 +4009,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%95%9F%E7%8E%84/index.html",
       "evidence_note": "I/I010.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　瘡",
+      "after": "臁瘡",
+      "expected_count": 8,
+      "reason": "습독·혈풍으로 다리에 생기는 창양 병명이다.",
+      "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_439_%281700-1725%29.djvu/83",
+      "evidence_note": "공개 원판 전사에서 다리의 裙風褲口瘡을 臁瘡이라 명시한다."
+    },
+    {
+      "before": "[h3]KT瘡[/h3]",
+      "after": "[h3]臁瘡[/h3]",
+      "expected_count": 1,
+      "reason": "이어지는 내외 臁瘡 처방의 장 제목이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%BA%8C%E5%90%8D%E9%86%AB%E9%A1%9E%E6%A1%88_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B754",
+      "evidence_note": "공개 고전 전사에서 `兩臁生瘡`과 관련 처방을 확인했다."
+    },
+    {
+      "before": "[h3]HT裂瘡口[/h3]",
+      "after": "[h3]皸裂瘡口[/h3]",
+      "expected_count": 1,
+      "reason": "추위와 노동으로 손발 피부가 갈라지는 皸裂이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9C%A8%E4%B9%8B%E4%BA%8C",
+      "evidence_note": "공개 고전 전사의 凍瘡裂痛 용례와 해당 문맥이 일치한다."
+    },
+    {
+      "before": "　HT　裂瘡口\\p04-a55a191.bmp",
+      "after": "　皸裂瘡口\\p04-a55a191.bmp",
+      "expected_count": 1,
+      "reason": "동일 그림의 캡션이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A4%96%E7%A7%91%E5%95%93%E7%8E%84",
+      "evidence_note": "동일 문헌 공개 전사와 장의 병증 설명을 대조했다."
+    },
+    {
+      "before": "冬月間手足HT　裂成瘡",
+      "after": "冬月間手足皸裂成瘡",
+      "expected_count": 1,
+      "reason": "겨울철 손발 피부 균열을 뜻하는 고정어이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E6%9C%A8%E4%B9%8B%E4%BA%8C",
+      "evidence_note": "凍瘡裂痛의 공개 고전 용례와 일치한다."
+    },
+    {
+      "before": "一名HT　瘡。又名悔氣瘡",
+      "after": "一名疣瘡。又名悔氣瘡",
+      "expected_count": 1,
+      "reason": "千日瘡의 이명이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/35",
+      "evidence_note": "《啟玄》 인용문에서 `千日瘡一名疣瘡，又名瘊子，又名晦氣瘡`을 직접 확인했다."
     }
   ],
   "I/I001.txt": [

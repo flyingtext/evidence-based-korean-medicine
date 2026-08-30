@@ -14160,6 +14160,86 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%B6%93%E6%B3%A8%E7%AF%80%E8%A7%A3/index.html",
       "evidence_note": "A/A011.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "易曰：「HT　為雞。」",
+      "after": "易曰：「巽為雞。」",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%91%A8%E6%98%93/%E8%AA%AA%E5%8D%A6",
+      "evidence_note": "說卦傳의 직접 인용 ‘巽為雞’.",
+      "reason": "說卦傳의 직접 인용 ‘巽為雞’."
+    },
+    {
+      "before": "氣虛宜HT　引之",
+      "after": "氣虛宜掣引之",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+      "evidence_note": "바로 뒤 甲乙經 이문이 掣로 명시.",
+      "reason": "바로 뒤 甲乙經 이문이 掣로 명시."
+    },
+    {
+      "before": "甲乙經「HT　」作「掣」",
+      "after": "甲乙經「掣」作「掣」",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+      "evidence_note": "교감주의 대상 글자도 문맥상 掣; 중복 표기는 원문 주석 구조를 보존.",
+      "reason": "교감주의 대상 글자도 문맥상 掣; 중복 표기는 원문 주석 구조를 보존."
+    },
+    {
+      "before": "陰陽HT　HT　，積傳為一周",
+      "after": "陰陽衝　衝，積傳為一周",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "본문 자체 이문 ‘一本作沖沖’ 및 왕래 문맥에 따라 衝衝.",
+      "reason": "본문 자체 이문 ‘一本作沖沖’ 및 왕래 문맥에 따라 衝衝."
+    },
+    {
+      "before": "（HT　HT　言氣之往來也",
+      "after": "（衝　衝言氣之往來也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "바로 앞 衝衝의 주해.",
+      "reason": "바로 앞 衝衝의 주해."
+    },
+    {
+      "before": "HT　HT　一本作沖沖",
+      "after": "衝　衝一本作沖沖",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "자체 이문이 해당 본문자를 직접 지시.",
+      "reason": "자체 이문이 해당 본문자를 직접 지시."
+    },
+    {
+      "before": "虛則目KT　KT　無所見",
+      "after": "虛則目䀮　䀮無所見",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "素問 肝病 조문 ‘虛則目䀮䀮無所見’.",
+      "reason": "素問 肝病 조문 ‘虛則目䀮䀮無所見’."
+    },
+    {
+      "before": "目視KTKT　，物疏璺",
+      "after": "目視䀮䀮，物疏璺",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+      "evidence_note": "五運 조문의 ‘目視䀮䀮’으로 확인됨.",
+      "reason": "五運 조문의 ‘目視䀮䀮’으로 확인됨."
+    },
+    {
+      "before": "其用為□，其色為黑",
+      "after": "其用為流，其色為黑",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E4%BA%94%E9%81%8B%E8%A1%8C%E5%A4%A7%E8%AB%96",
+      "evidence_note": "水의 用은 流로 열거됨.",
+      "reason": "水의 用은 流로 열거됨."
+    },
+    {
+      "before": "其政為靜，其令□□，其變凝冽",
+      "after": "其政為靜，其令流注，其變凝冽",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E4%BA%94%E9%81%8B%E8%A1%8C%E5%A4%A7%E8%AB%96",
+      "evidence_note": "水運의 정형 열거 ‘其令流注’.",
+      "reason": "水運의 정형 열거 ‘其令流注’."
     }
   ],
   "A/A013.txt": [

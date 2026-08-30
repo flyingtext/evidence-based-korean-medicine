@@ -374,5 +374,77 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
     "evidence_note": "P/P0013.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "曲HT　陷，外俞上HT　一寸從",
+    "after": "曲胛陷，外俞上胛一寸從",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/mid-page/7498844911723446281",
+    "evidence_note": "공개 독립 전사에 ‘曲胛陷中’ 및 ‘肩外俞肩胛上廉’으로 확인됨.",
+    "reason": "공개 독립 전사에 ‘曲胛陷中’ 및 ‘肩外俞肩胛上廉’으로 확인됨."
+  },
+  {
+    "before": "肩曲HT　骨下，大骨傍",
+    "after": "肩曲胛骨下，大骨傍",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/book/SK1502/chapter/1laqnv9g1gxsz",
+    "evidence_note": "醫宗金鑑 공개 전사의 肩曲胛骨 문맥.",
+    "reason": "醫宗金鑑 공개 전사의 肩曲胛骨 문맥."
+  },
+  {
+    "before": "HT　骨上廉陷中，舉臂取之",
+    "after": "胛骨上廉陷中，舉臂取之",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/book/SK1502/chapter/1laqnv9g1gxsz",
+    "evidence_note": "동일 경혈 설명의 胛骨上廉.",
+    "reason": "동일 경혈 설명의 胛骨上廉."
+  },
+  {
+    "before": "肩中央，曲HT　陷中",
+    "after": "肩中央，曲胛陷中",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/mid-page/7498844911723446281",
+    "evidence_note": "曲垣 위치 ‘肩中央，曲胛陷中’으로 확인됨.",
+    "reason": "曲垣 위치 ‘肩中央，曲胛陷中’으로 확인됨."
+  },
+  {
+    "before": "肩HT　上廉，去脊傍開三寸",
+    "after": "肩胛上廉，去脊傍開三寸",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/mid-page/7498844911723446281",
+    "evidence_note": "肩外俞 위치의 정형 문구.",
+    "reason": "肩外俞 위치의 정형 문구."
+  },
+  {
+    "before": "肩HT　內廉，去脊督衇之大椎",
+    "after": "肩胛內廉，去脊督衇之大椎",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/book/SK1502/chapter/1laqnv9g1gxsz",
+    "evidence_note": "肩中俞의 견갑 내측 위치 문맥.",
+    "reason": "肩中俞의 견갑 내측 위치 문맥."
+  },
+  {
+    "before": "脂KT之外，有細筋膜如絲",
+    "after": "脂膜之外，有細筋膜如絲",
+    "expected_count": 1,
+    "evidence_url": "https://www.zzrvtc.edu.cn/_upload/article/files/54/94/9a360017400399c4768a3a00962f/0e9605c6-a7af-4732-9003-8f3f0e22e2e8.pdf",
+    "evidence_note": "御纂醫宗金鑑 영인 전사에 ‘脂膜之外’로 확인됨.",
+    "reason": "御纂醫宗金鑑 영인 전사에 ‘脂膜之外’로 확인됨."
+  },
+  {
+    "before": "視物目KT　KT　",
+    "after": "視物目𥆨　𥆨",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%AE%E6%BF%9F%E6%96%B9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7419",
+    "evidence_note": "동일 경혈 주치의 공개 전사에 ‘遠視𥆨𥆨昏夜無見’.",
+    "reason": "동일 경혈 주치의 공개 전사에 ‘遠視𥆨𥆨昏夜無見’."
+  },
+  {
+    "before": "視物KT　KT　，昏夜無見",
+    "after": "視物𥆨　𥆨，昏夜無見",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%AE%E6%BF%9F%E6%96%B9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7419",
+    "evidence_note": "주문의 동일 증후를 같은 희자 𥆨𥆨으로 복원.",
+    "reason": "주문의 동일 증후를 같은 희자 𥆨𥆨으로 복원."
   }
 ]

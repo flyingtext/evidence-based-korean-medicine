@@ -58,9 +58,9 @@
     },
     "N/N001.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 696,
+      "unresolved_candidates": 693,
       "punctuation_status": "source_present",
-      "note": "청대 고전. 결자81곳 교정; 공백691·HT3·KT2 판독 전 보류"
+      "note": "확정 가능한 출생 의성어와 目䀮䀮 3자만 복원."
     },
     "N/N003.txt": {
       "collation_status": "in_progress",
@@ -112,9 +112,9 @@
     },
     "I/I010.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 655,
+      "unresolved_candidates": 642,
       "punctuation_status": "source_present",
-      "note": "1604년 명대 고전. 결자135곳 교정; 공백609·HT23·KT10·□13 판독 전 보류"
+      "note": "KT 9자리와 HT 4자리를 복원했다. 나머지 외자·파손부는 공개 전사에도 표지가 남거나 확정 근거가 부족하다."
     },
     "I/I011.txt": {
       "collation_status": "in_progress",
@@ -526,9 +526,9 @@
     },
     "A/A011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 711,
+      "unresolved_candidates": 694,
       "punctuation_status": "source_present",
-      "note": "청대 고전. jicheng 고유 문맥 결자 424곳 교정 반영. 전각 공백 640곳과 HT 33·KT 35·□ 3곳 판독 전 보류"
+      "note": "직접 인용·자체 이문·素問 정형문으로 16개 표지를 복원."
     },
     "A/A013.txt": {
       "collation_status": "in_progress",
@@ -3514,9 +3514,9 @@
     },
     "D/D027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 707,
+      "unresolved_candidates": 698,
       "punctuation_status": "source_present",
-      "note": "許叔微 1132년 남송 고전. jicheng 공개 전문으로 결자77곳을 복원했으나 전각 공백698·HT2·KT7이 결락·조판에 혼재하여 공개 판면 전수 판독 전 보류"
+      "note": "잔존 HT 2개와 KT 7개를 모두 복원."
     },
     "D/D028.txt": {
       "collation_status": "in_progress",
@@ -3756,7 +3756,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 634,
       "punctuation_status": "source_present",
-      "note": "郭志邃 1675년 청대 고전. 北京大學 공개 영인 계통 전문으로 외자1곳 복원; 전각 공백634곳은 판면 전수 대조 전 보류. [u]224쌍은 <ins> 변환"
+      "note": "최신 교정 뒤 전각 공백 634자리이며 다른 외자 표지는 없다. 北京大學 영인의 페이지 좌표 전수 대응 전 보류했다."
     },
     "K/K000.txt": {
       "collation_status": "in_progress",
@@ -3904,9 +3904,9 @@
     },
     "N/N011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 643,
+      "unresolved_candidates": 640,
       "punctuation_status": "source_present",
-      "note": "朱震亨 원저의 명대 1543년 高賓 간본 계통·1909년 蕭澍霖 중인본. jicheng 공개 전문으로 결자124곳을 복원; 전각 공백576·□67은 판면 전수 판독 전 보류. [u]2쌍은 <ins> 변환"
+      "note": "HT 3자리를 복원했다. □ 67자리와 판면 미확정 전각 공백은 보류한다."
     },
     "N/N038.txt": {
       "collation_status": "in_progress",
@@ -3990,7 +3990,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 630,
       "punctuation_status": "source_present",
-      "note": "고전 의서. 결자119곳 교정, 조판932곳 확인. 공백628·HT2 판독 전 보류. 표점 충분."
+      "note": "공백 628·HT 2자리가 남는다. 인명과 `確然…HT然`의 후보는 있으나 독립 판면 근거가 없어 보류했다."
     },
     "O/O008.txt": {
       "collation_status": "in_progress",
@@ -4114,9 +4114,9 @@
     },
     "O/O066.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 674,
+      "unresolved_candidates": 666,
       "punctuation_status": "source_present",
-      "note": "고전 의서. 결자86곳 교정, 조판2328곳 확인. 공백662·HT1·KT11 판독 전 보류. 표점 충분."
+      "note": "KT 8자리를 복원했다. HT 1자리와 그 밖의 공백·KT는 판면 대조 전 보류한다."
     },
     "O/O067.txt": {
       "collation_status": "in_progress",
@@ -4132,9 +4132,9 @@
     },
     "O/O069.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 665,
+      "unresolved_candidates": 641,
       "punctuation_status": "source_present",
-      "note": "程文囿 1826년 청대 고전. 원자료 朝代·年份 오기 정정. 공개 전문으로 결자664곳 복원; 공백597·HT13·KT55 보류. [u]1148쌍은 <ins> 변환"
+      "note": "KT 24자리를 복원했다. 서로 다른 희자·병명에 쓰인 나머지 HT·KT와 공백은 보류한다."
     },
     "O/O071.txt": {
       "collation_status": "in_progress",
@@ -4282,9 +4282,9 @@
     },
     "P/P0003a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 638,
+      "unresolved_candidates": 634,
       "punctuation_status": "source_present",
-      "note": "1742년 청대 관찬 고전. correction 3건 준비, 잔여 638건. 권리 안전, 표점 충분"
+      "note": "PUA 4자리를 복원했으나 다른 잔여 634자리가 남는다."
     },
     "P/P0009.txt": {
       "collation_status": "in_progress",
@@ -4300,9 +4300,9 @@
     },
     "P/P0013.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 681,
+      "unresolved_candidates": 670,
       "punctuation_status": "source_present",
-      "note": "吳謙 등 1742년 청대 고전. jicheng 1892년 석인본·四庫 계통 대조로 결자 47곳 복원; 조판 공백 101곳 확인; 681곳 보류"
+      "note": "잔존 HT 7개와 KT 5개를 모두 복원했으나 다수 판면 공백은 보류."
     },
     "P/P0013a.txt": {
       "collation_status": "in_progress",
@@ -4326,7 +4326,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 631,
       "punctuation_status": "source_present",
-      "note": "王肯堂 명대 고전. 결자 548곳 복원; 조판 공백 15곳 확인; 631곳 보류"
+      "note": "최신 교정 뒤 631자리가 남는다. 다수 희귀 해부·안과 용어와 HT·KT가 있으나 권질이 방대하고 위치별 영인 대조가 완료되지 않아 추정 복원하지 않았다."
     },
     "P/P0103.txt": {
       "collation_status": "in_progress",

@@ -22,5 +22,37 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
     "evidence_note": "P/P0003a.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "結於中, 心腹下痞滿硬痛, 三焦升降之氣阻隔難通.",
+    "after": "結於中, 心腹脇下痞滿硬痛, 三焦升降之氣阻隔難通.",
+    "expected_count": 1,
+    "reason": "PUA는 신체 부위 `脇`의 레거시 글리프다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91",
+    "evidence_note": "의종금감 계열의 동일 병리 문맥과 `脇下` 용례로 확인."
+  },
+  {
+    "before": "少陽脈循肋, 在腹陽背陰兩岐間",
+    "after": "少陽脈循脇肋, 在腹陽背陰兩岐間",
+    "expected_count": 1,
+    "reason": "소양경의 순행 부위는 `脇肋`이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Harvard_drs_430542888_%E5%BE%A1%E7%BA%82%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91_v.34.pdf",
+    "evidence_note": "Harvard 공개 영인 전사에서 `脈循脇肋在腹陽背陰兩岐間` 확인."
+  },
+  {
+    "before": "故寒往而熱來. 表裡相拒而留於岐分, 故胸苦滿.",
+    "after": "故寒往而熱來. 表裡相拒而留於岐分, 故胸脇苦滿.",
+    "expected_count": 1,
+    "reason": "소양병의 고정 증상은 `胸脇苦滿`이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Harvard_drs_430542888_%E5%BE%A1%E7%BA%82%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91_v.34.pdf",
+    "evidence_note": "동일 공개 영인에서 `故胸脇苦滿` 확인."
+  },
+  {
+    "before": "以安土, 加白芍以戢木也. 下痞硬者, 邪既留則木氣實",
+    "after": "以安土, 加白芍以戢木也. 脇下痞硬者, 邪既留則木氣實",
+    "expected_count": 1,
+    "reason": "小柴胡湯 가감법의 고정 문구 `脇下痞硬者`다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/NAJDA-300-0217_%E5%8C%BB%E5%A1%81%E5%85%83%E6%88%8E5.pdf",
+    "evidence_note": "국립공문서관 공개 판면에서 `若脇下痞硬者去大棗加牡蠣四兩` 확인."
   }
 ]
