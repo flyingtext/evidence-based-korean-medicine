@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "before": "而疾生HT　末，如肢廢",
+    "after": "而疾生四末，如肢廢",
+    "expected_count": 1,
+    "reason": "《左傳》 陰陽風雨晦明 병인 평행문 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B7%A6%E5%82%B3/%E6%98%AD%E5%85%83%E5%B9%B4",
+    "evidence_note": "風淫末疾의 末은 사지 말단인 四末을 풀이한 문맥이다."
+  },
+  {
+    "before": "有云鼽HT　喉痹者",
+    "after": "有云鼽衄喉痹者",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 평행 조문 대조",
+    "evidence_url": "https://ctext.org/huangdi-neijing/meridians/zh",
+    "evidence_note": "手陽明大腸經 소생병이 鼽衄喉痹로 전한다."
+  },
+  {
+    "before": "目乍黑乍明，KT　KT　不定也",
+    "after": "目乍黑乍明，瞀瞀不定也",
+    "expected_count": 1,
+    "reason": "眩의 고전 정의와 자형 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%9E%80",
+    "evidence_note": "瞀는 시야가 어둡고 어지러운 뜻으로 乍黑乍明 문맥에 일치한다."
+  },
+  {
+    "before": "目視KT　KT　，所祈不得",
+    "after": "目視䀮䀮，所祈不得",
+    "expected_count": 1,
+    "reason": "《內經》 안증 평행문 대조",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "공개 concordance가 目視䀮䀮를 수록한다."
+  },
+  {
+    "before": "如有鍋HT　，焙乾入在後藥",
+    "after": "如有鍋煤，焙乾入在後藥",
+    "expected_count": 1,
+    "reason": "제약 공정의 통상 용어와 문맥 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%87%88%E7%BA%8C%E7%84%B0/index.html",
+    "evidence_note": "熬膏 뒤 솥에 붙은 鍋煤를 말하는 제약 문맥이다."
+  },
+  {
+    "before": "黃婆媒合嬰HT　之理",
+    "after": "黃婆媒合嬰兒之理",
+    "expected_count": 1,
+    "reason": "도교 내단술 고정 용어 대조",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%82%9F%E7%9C%9F%E7%AF%87",
+    "evidence_note": "黃婆가 嬰兒를 매개한다는 내단술 관용어와 일치한다."
+  },
+  {
+    "before": "好HT　楚下賤",
+    "after": "好笞楚下賤",
+    "expected_count": 1,
+    "reason": "고전 형벌 관용어 笞楚 대조",
+    "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E7%AC%9E",
+    "evidence_note": "笞楚는 매질·형벌을 뜻하며 뒤의 枉用毒刑과 대응한다."
+  }
+]

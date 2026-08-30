@@ -418,9 +418,9 @@
     },
     "A/A402b.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3976,
+      "unresolved_candidates": 5659,
       "punctuation_status": "source_present",
-      "note": "1624년 명대 고전. jicheng 결자1곳 교정; 공백3884·PUA92(25종) 외자표·원판면 판독 전 보류"
+      "note": "92개 PUA는 반복되는 원자료 가이지 문자다. 코드표 또는 영인 좌표 없이 유니코드로 임의 치환하지 않았다. 잔여 후보 5659자리."
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
@@ -3652,9 +3652,9 @@
     },
     "G/G036.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4666,
+      "unresolved_candidates": 4668,
       "punctuation_status": "source_present",
-      "note": "1895년 錫山邊氏刊 청대 고전. □ 결자 如 1곳 복원; 전각 공백4666곳은 영인 전수 판독 전 보류. [u]741쌍은 <ins> 변환"
+      "note": "KT戶와 HT朮家는 원자료 OCR 오기까지 섞여 있어 한 글자 치환으로 유일하게 복원할 수 없음. 기존 규칙 1개는 정상 적용. 잔여 후보 4668자리."
     },
     "G/G039.txt": {
       "collation_status": "in_progress",
@@ -3682,15 +3682,15 @@
     },
     "H/H009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 5313,
+      "unresolved_candidates": 5305,
       "punctuation_status": "source_present",
-      "note": "1156년 송대 익명 고전. 四庫文淵閣 계통이나 소스에 1924년 蕭耀南 서문·蕭北承 수교 기록 포함. 전각 공백5313곳은 판면 전수 대조 전 보류; [u]1544쌍은 <ins> 변환"
+      "note": "기존 규칙 적용 후 骫 13자와 䀮 4자를 독립 판본으로 확정했다. PUA/□/[c]는 0. 잔여 후보 5305자리."
     },
     "H/H010.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 3949,
       "punctuation_status": "source_present",
-      "note": "陳復正 1750년 청대 고전. 일본文化11년刊·北京大學 영인 계통. 전각 공백3949곳은 판면 전수 대조 전 보류; [u]711쌍은 <ins> 변환"
+      "note": "水粉·磚 두 자를 복원했다. 音殊가 붙은 연속 KT는 희귀 자형을 영인 없이 확정할 수 없어 보류했다. 잔여 후보 3949자리."
     },
     "H/H013.txt": {
       "collation_status": "in_progress",
@@ -3726,7 +3726,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 5964,
       "punctuation_status": "source_present",
-      "note": "祁坤 1665년 청대 고전. 函三堂藏版 공개 전문으로 확정 결자·외자 6곳을 교정; 전각 공백5964곳은 LOC 영인 전수 판독 전 보류"
+      "note": "최신 교정 후 HT/KT/□/[c]/PUA 모두 0이고 적용 경고도 없다. 잔여 후보 5964자리."
     },
     "I/I004a.txt": {
       "collation_status": "complete",
@@ -3736,9 +3736,9 @@
     },
     "I/I005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4402,
+      "unresolved_candidates": 4401,
       "punctuation_status": "source_present",
-      "note": "陳實功 1617년 명대 고전. 공개 전문으로 결문7자와 확정 외자4곳을 복원; 전각 공백4401곳과 판독 불명 HT 1곳은 NLC 영인 전수 판독 전 보류"
+      "note": "기존 4규칙은 순차 적용 충돌 없음. 잔존 HT 1개를 고유 문맥으로 확정했으며 규칙 1회 일치. 잔여 후보 4401자리."
     },
     "I/I005a.txt": {
       "collation_status": "complete",
@@ -3870,7 +3870,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 5389,
       "punctuation_status": "source_present",
-      "note": "秦景明 1706년 명말·청초 고전. 저자·시대 서지 오기 수정, IDS 결자1곳 복원; 전각 공백5389곳은 판면 전수 대조 전 보류. [u]1436쌍은 <ins> 변환"
+      "note": "최신 교정 후 HT/KT/□/[c]/PUA 모두 0이고 적용 경고도 없다. 잔여 후보 5389자리."
     },
     "M/M108.txt": {
       "collation_status": "in_progress",
@@ -3946,9 +3946,9 @@
     },
     "O/O017.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4074,
+      "unresolved_candidates": 4056,
       "punctuation_status": "source_present",
-      "note": "潘楫 1652년 청초 고전, 順治九年刊 공개 스캔 계통. 전각 공백4065·HT5·KT4는 전수 판독 전 보류. [u]975쌍은 <ins> 변환"
+      "note": "표지 9자를 모두 고유 문맥으로 복원했다. 남은 전각 공백은 조판 공백과 결락 가능성이 혼재한다. 잔여 후보 4056자리."
     },
     "O/O025.txt": {
       "collation_status": "in_progress",
@@ -4030,9 +4030,9 @@
     },
     "O/O050.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 5844,
+      "unresolved_candidates": 5814,
       "punctuation_status": "source_present",
-      "note": "李梃 1575년 명대 고전, 早稲田 공개 영인 계통. 저자 오기 수정; 전각 공백5784·HT35·KT25는 전수 판독 전 보류. [u]3580쌍은 <ins> 변환"
+      "note": "䀮 14자와 𩚚 1자를 복원한다. 모든 신규 좌표는 비중첩이며 PUA/□/[c]는 0. 잔여 후보 5814자리."
     },
     "O/O052.txt": {
       "collation_status": "in_progress",
@@ -4174,9 +4174,9 @@
     },
     "O/O073.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4740,
+      "unresolved_candidates": 4727,
       "punctuation_status": "source_present",
-      "note": "何夢瑤 1751년 청대 고전, 北京大學 공개 스캔 계통. 결자303곳 복원안; 조판2345곳 확인; 공백4725·HT6·KT9 보류. [u]41쌍은 <ins> 변환 대상"
+      "note": "HT 5개·KT 8개 해소. 모든 규칙 1회 일치하고 서로 비중첩. 기존 303개 규칙의 선행흡수 충돌 4개는 별도이며 신규 좌표와 무관. 잔여 후보 4727자리."
     },
     "O/O075.txt": {
       "collation_status": "in_progress",
@@ -4342,9 +4342,9 @@
     },
     "P/P0105.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4735,
+      "unresolved_candidates": 4729,
       "punctuation_status": "source_present",
-      "note": "王肯堂 명대 고전. jicheng 공개 전문 대조로 결자 810곳 복원; 조판 공백 6311곳 확인; 4735곳 보류"
+      "note": "결락 표지 6개 해소. 각 규칙 1·2·1·1·1회 일치하고 비중첩. 기존 810규칙 중 선행흡수 충돌 10개는 신규 좌표와 무관. 잔여 후보 4729자리."
     },
     "P/P0200.txt": {
       "collation_status": "in_progress",
@@ -4432,9 +4432,9 @@
     },
     "P/P0506.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4401,
+      "unresolved_candidates": 7005,
       "punctuation_status": "source_present",
-      "note": "朱橚等 1406년 명대 普濟方 針灸門. 四庫·Kanripo 권409~426 동일 권차 대조로 결자748곳 복원; 조판2622곳; 공백4098·HT41·KT259·□3 보류; 원 헤더 저자 朱梓 오기 정정"
+      "note": "燧石 3곳과 䀮䀮 3곳을 복원했다. 대규모 KT/HT는 침구 희귀자·해부명·음역이 혼재해 개별 영인 대조가 필요하다. 잔여 후보 7005자리."
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",

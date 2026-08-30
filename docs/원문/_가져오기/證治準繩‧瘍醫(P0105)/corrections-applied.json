@@ -6478,5 +6478,40 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E7%98%8D%E9%86%AB/index.html",
     "evidence_note": "P/P0105.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "慎勿KT　啖",
+    "after": "慎勿妄啖",
+    "expected_count": 1,
+    "evidence": "금기 음식 열거를 맺는 정형 구문 慎勿妄啖.",
+    "reason": "금기 음식 열거를 맺는 정형 구문 慎勿妄啖."
+  },
+  {
+    "before": "膝HT　脛骨",
+    "after": "膝蓋脛骨",
+    "expected_count": 2,
+    "evidence": "해부 부위인 膝蓋와 脛骨의 열거; 같은 단락에서 두 차례 반복.",
+    "reason": "해부 부위인 膝蓋와 脛骨의 열거; 같은 단락에서 두 차례 반복."
+  },
+  {
+    "before": "井花水調，銀KT　打成膏",
+    "after": "井花水調，銀匙打成膏",
+    "expected_count": 1,
+    "evidence": "약을 개어 고약으로 만드는 도구 銀匙의 외과 처방 정형문.",
+    "reason": "약을 개어 고약으로 만드는 도구 銀匙의 외과 처방 정형문."
+  },
+  {
+    "before": "疵，疾HT　切",
+    "after": "疵，疾咨切",
+    "expected_count": 1,
+    "evidence": "疵의 전통 반절 疾咨切.",
+    "reason": "疵의 전통 반절 疾咨切."
+  },
+  {
+    "before": "膿KT　不利，仍復內攻",
+    "after": "膿水不利，仍復內攻",
+    "expected_count": 1,
+    "evidence": "앞 문장의 針得一孔 뒤 농수가 원활하지 않다는 병안 문맥 膿水不利.",
+    "reason": "앞 문장의 針得一孔 뒤 농수가 원활하지 않다는 병안 문맥 膿水不利."
   }
 ]

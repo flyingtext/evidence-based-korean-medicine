@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 5,
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001876182",
+    "evidence_note": "『醫學入門』 인용을 포함한 평행문이 ‘目視䀮䀮’으로 확인된다.",
+    "reason": "『醫學入門』 인용을 포함한 평행문이 ‘目視䀮䀮’으로 확인된다."
+  },
+  {
+    "before": "視物KT　KT　，耳鳴",
+    "after": "視物䀮䀮，耳鳴",
+    "expected_count": 1,
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001876182",
+    "evidence_note": "동일 증후의 䀮䀮 표기와 일치한다.",
+    "reason": "동일 증후의 䀮䀮 표기와 일치한다."
+  },
+  {
+    "before": "目睛KT　KT　無所見",
+    "after": "目睛䀮䀮無所見",
+    "expected_count": 1,
+    "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
+    "evidence_note": "내경 직접 평행문 ‘目䀮䀮無所見’과 일치한다.",
+    "reason": "내경 직접 평행문 ‘目䀮䀮無所見’과 일치한다."
+  },
+  {
+    "before": "KT　與呃通，乃氣逆上之名",
+    "after": "𩚚與呃通，乃氣逆上之名",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/601/104",
+    "evidence_note": "『醫學正傳』의 직접 평행 설명이 ‘𩚚與呃通’으로 확인된다.",
+    "reason": "『醫學正傳』의 직접 평행 설명이 ‘𩚚與呃通’으로 확인된다."
+  }
+]

@@ -11139,5 +11139,137 @@
       "evidence": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일.",
       "reason": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일."
     }
+  ],
+  "H/H010.txt": [
+    {
+      "before": "用水HT　一兩，以雞蛋清調勻",
+      "after": "用水粉一兩，以雞蛋清調勻",
+      "expected_count": 1,
+      "reason": "독립 처방 전사의 동일 구절 대조",
+      "evidence_url": "https://www.theqi.com/cmed/oldbook/book57/b57_10.html",
+      "evidence_note": "《驗方新編》의 동일 解煩法이 用水粉一兩，以雞蛋清調勻으로 수록된다."
+    },
+    {
+      "before": "地雞即扁蟲，人家HT　下有之",
+      "after": "地雞即扁蟲，人家磚下有之",
+      "expected_count": 1,
+      "reason": "독립 평행 처방의 서식 설명 대조",
+      "evidence_url": "https://cloudtcm.com/shu/t1/281/37",
+      "evidence_note": "동일 약재 설명이 扁蟲을 磚瓦縫中에서 찾는다고 명시한다."
+    }
+  ],
+  "H/H009.txt": [
+    {
+      "before": "耳與KT　骨",
+      "after": "耳與骫骨",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B703",
+      "evidence_note": "동일 變蒸 문장이 ‘耳與骫骨皆冷’로 확인된다.",
+      "reason": "동일 變蒸 문장이 ‘耳與骫骨皆冷’로 확인된다."
+    },
+    {
+      "before": "耳冷KT　冷",
+      "after": "耳冷骫冷",
+      "expected_count": 2,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=197893&if=gb",
+      "evidence_note": "동일 문헌 공개판 두 문맥이 ‘耳冷尻冷/耳冷骫冷’로 전하며 사쿠라본 문맥상 骫를 채택한다.",
+      "reason": "동일 문헌 공개판 두 문맥이 ‘耳冷尻冷/耳冷骫冷’로 전하며 사쿠라본 문맥상 骫를 채택한다."
+    },
+    {
+      "before": "耳熱KT　熱",
+      "after": "耳熱骫熱",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B703",
+      "evidence_note": "동일 문장이 ‘耳熱骫熱’로 확인된다.",
+      "reason": "동일 문장이 ‘耳熱骫熱’로 확인된다."
+    },
+    {
+      "before": "KT　骨成而獨坐戲",
+      "after": "骫骨成而獨坐戲",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B703",
+      "evidence_note": "韻文 평행문이 ‘尻骨成而獨坐戲’이며 대상 판본의 骫 계열 표기와 대응한다.",
+      "reason": "韻文 평행문이 ‘尻骨成而獨坐戲’이며 대상 판본의 骫 계열 표기와 대응한다."
+    },
+    {
+      "before": "冷浸KT　耳",
+      "after": "冷浸骫耳",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%8D%B703",
+      "evidence_note": "동일 韻文이 ‘冷浸骫耳’ 계열로 확인된다.",
+      "reason": "동일 韻文이 ‘冷浸骫耳’ 계열로 확인된다."
+    },
+    {
+      "before": "耳KT　冷。此為瘡疹候",
+      "after": "耳骫冷。此為瘡疹候",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=197893&if=gb",
+      "evidence_note": "동일 문장이 ‘耳尻冷’로 확인되며 대상 판본 표기 骫로 통일한다.",
+      "reason": "동일 문장이 ‘耳尻冷’로 확인되며 대상 판본 표기 骫로 통일한다."
+    },
+    {
+      "before": "傷寒耳KT　皆熱",
+      "after": "傷寒耳骫皆熱",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=197893&if=gb",
+      "evidence_note": "동일 문장이 ‘傷寒耳尻皆熱’로 확인된다.",
+      "reason": "동일 문장이 ‘傷寒耳尻皆熱’로 확인된다."
+    },
+    {
+      "before": "耳尖冷。KT　骨冷",
+      "after": "耳尖冷。骫骨冷",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%85%A8%E8%A6%BD",
+      "evidence_note": "瘡疹 후보 평행문이 ‘耳尖冷尻骨冷’로 전한다.",
+      "reason": "瘡疹 후보 평행문이 ‘耳尖冷尻骨冷’로 전한다."
+    },
+    {
+      "before": "但KT　冷耳冷者",
+      "after": "但骫冷耳冷者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%85%A8%E8%A6%BD",
+      "evidence_note": "동일 문맥이 ‘但骫冷耳冷者’ 계열로 확인된다.",
+      "reason": "동일 문맥이 ‘但骫冷耳冷者’ 계열로 확인된다."
+    },
+    {
+      "before": "KT耳俱屬於腎",
+      "after": "骫耳俱屬於腎",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%85%A8%E8%A6%BD",
+      "evidence_note": "동일 문장이 ‘骫耳俱屬於腎’ 계열로 확인된다.",
+      "reason": "동일 문장이 ‘骫耳俱屬於腎’ 계열로 확인된다."
+    },
+    {
+      "before": "黑陷KT　耳反熱者",
+      "after": "黑陷骫耳反熱者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%85%A8%E8%A6%BD",
+      "evidence_note": "동일 문장이 ‘瘡黑陷骫耳反熱者逆’로 전한다.",
+      "reason": "동일 문장이 ‘瘡黑陷骫耳反熱者逆’로 전한다."
+    },
+    {
+      "before": "耳KT　反熱者",
+      "after": "耳骫反熱者",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hans/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9_(%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC)/%E5%85%A8%E8%A6%BD",
+      "evidence_note": "동일 腎旺 사망후 문맥의 骫가 확인된다.",
+      "reason": "동일 腎旺 사망후 문맥의 骫가 확인된다."
+    },
+    {
+      "before": "視物KT　KT　。此名睛盲",
+      "after": "視物䀮䀮。此名睛盲",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/181/196",
+      "evidence_note": "동일 眼目病論이 ‘視物䀮䀮’으로 확인된다.",
+      "reason": "동일 眼目病論이 ‘視物䀮䀮’으로 확인된다."
+    },
+    {
+      "before": "治眼KT　KT　不見物",
+      "after": "治眼䀮䀮不見物",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/181/196",
+      "evidence_note": "같은 장의 䀮䀮 증후와 일치한다.",
+      "reason": "같은 장의 䀮䀮 증후와 일치한다."
+    }
   ]
 }

@@ -2422,5 +2422,75 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%A2%A5/index.html",
     "evidence_note": "O/O073.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "HT　為一書",
+    "after": "彙為一書",
+    "expected_count": 1,
+    "evidence": "앞의 芟繁蕪·疏湮鬱·參己見을 모아 책으로 만들었다는 문맥의 彙為一書.",
+    "reason": "앞의 芟繁蕪·疏湮鬱·參己見을 모아 책으로 만들었다는 문맥의 彙為一書."
+  },
+  {
+    "before": "此火布KT　於三焦",
+    "after": "此火布散於三焦",
+    "expected_count": 1,
+    "evidence": "相火가 삼초에 퍼진다는 정형 서술 布散於三焦.",
+    "reason": "相火가 삼초에 퍼진다는 정형 서술 布散於三焦."
+  },
+  {
+    "before": "坐HT　不得",
+    "after": "坐立不得",
+    "expected_count": 1,
+    "evidence": "手足不收 뒤의 일상 동작 병렬 坐立不得.",
+    "reason": "手足不收 뒤의 일상 동작 병렬 坐立不得."
+  },
+  {
+    "before": "視物KT　KT　無所見",
+    "after": "視物䀮䀮無所見",
+    "expected_count": 1,
+    "evidence": "《內經》 계통 안증 표현 目䀮䀮無所見.",
+    "reason": "《內經》 계통 안증 표현 目䀮䀮無所見."
+  },
+  {
+    "before": "炎HT如失",
+    "after": "炎威如失",
+    "expected_count": 1,
+    "evidence": "상풍이 불면 더위의 위세가 사라진다는 정형 구문 炎威如失.",
+    "reason": "상풍이 불면 더위의 위세가 사라진다는 정형 구문 炎威如失."
+  },
+  {
+    "before": "越HT　之蒼朮",
+    "after": "越鞠之蒼朮",
+    "expected_count": 1,
+    "evidence": "六鬱을 푸는 越鞠丸의 蒼朮·香附 설명. https://www.scm.cuhk.edu.hk/en-gb/elearning-platform/chinese-medicine-texts-collection-2/chinese-medicine-texts-collection-3/2024-07-03-e-learning/2024-07-03-e-learning-6/",
+    "reason": "六鬱을 푸는 越鞠丸의 蒼朮·香附 설명. https://www.scm.cuhk.edu.hk/en-gb/elearning-platform/chinese-medicine-texts-collection-2/chinese-medicine-texts-collection-3/2024-07-03-e-learning/2024-07-03-e-learning-6/"
+  },
+  {
+    "before": "身體強，KTKT　然",
+    "after": "身體強，几几然",
+    "expected_count": 1,
+    "evidence": "栝蔞桂枝湯 전승 원문 身體強几几然.",
+    "reason": "栝蔞桂枝湯 전승 원문 身體強几几然."
+  },
+  {
+    "before": "項背強KT　KT　",
+    "after": "項背強几几",
+    "expected_count": 1,
+    "evidence": "葛根湯 전승 원문 項背強几几.",
+    "reason": "葛根湯 전승 원문 項背強几几."
+  },
+  {
+    "before": "肉胝KT　而唇揭",
+    "after": "肉胝䐢而唇揭",
+    "expected_count": 1,
+    "evidence": "《素問》 평행문과 字書의 䐢音縐. https://ctext.org/dictionary.pl?char=%E4%90%A2&if=en",
+    "reason": "《素問》 평행문과 字書의 䐢音縐. https://ctext.org/dictionary.pl?char=%E4%90%A2&if=en"
+  },
+  {
+    "before": "HT　豬腰子細批破",
+    "after": "將豬腰子細批破",
+    "expected_count": 1,
+    "evidence": "처방 조리 지시의 연동 구문 將豬腰子細批破.",
+    "reason": "처방 조리 지시의 연동 구문 將豬腰子細批破."
   }
 ]

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "before": "用水HT　一兩，以雞蛋清調勻",
+    "after": "用水粉一兩，以雞蛋清調勻",
+    "expected_count": 1,
+    "reason": "독립 처방 전사의 동일 구절 대조",
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book57/b57_10.html",
+    "evidence_note": "《驗方新編》의 동일 解煩法이 用水粉一兩，以雞蛋清調勻으로 수록된다."
+  },
+  {
+    "before": "地雞即扁蟲，人家HT　下有之",
+    "after": "地雞即扁蟲，人家磚下有之",
+    "expected_count": 1,
+    "reason": "독립 평행 처방의 서식 설명 대조",
+    "evidence_url": "https://cloudtcm.com/shu/t1/281/37",
+    "evidence_note": "동일 약재 설명이 扁蟲을 磚瓦縫中에서 찾는다고 명시한다."
+  }
+]

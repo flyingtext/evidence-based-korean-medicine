@@ -35884,6 +35884,41 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E7%98%8D%E9%86%AB/index.html",
       "evidence_note": "P/P0105.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "慎勿KT　啖",
+      "after": "慎勿妄啖",
+      "expected_count": 1,
+      "evidence": "금기 음식 열거를 맺는 정형 구문 慎勿妄啖.",
+      "reason": "금기 음식 열거를 맺는 정형 구문 慎勿妄啖."
+    },
+    {
+      "before": "膝HT　脛骨",
+      "after": "膝蓋脛骨",
+      "expected_count": 2,
+      "evidence": "해부 부위인 膝蓋와 脛骨의 열거; 같은 단락에서 두 차례 반복.",
+      "reason": "해부 부위인 膝蓋와 脛骨의 열거; 같은 단락에서 두 차례 반복."
+    },
+    {
+      "before": "井花水調，銀KT　打成膏",
+      "after": "井花水調，銀匙打成膏",
+      "expected_count": 1,
+      "evidence": "약을 개어 고약으로 만드는 도구 銀匙의 외과 처방 정형문.",
+      "reason": "약을 개어 고약으로 만드는 도구 銀匙의 외과 처방 정형문."
+    },
+    {
+      "before": "疵，疾HT　切",
+      "after": "疵，疾咨切",
+      "expected_count": 1,
+      "evidence": "疵의 전통 반절 疾咨切.",
+      "reason": "疵의 전통 반절 疾咨切."
+    },
+    {
+      "before": "膿KT　不利，仍復內攻",
+      "after": "膿水不利，仍復內攻",
+      "expected_count": 1,
+      "evidence": "앞 문장의 針得一孔 뒤 농수가 원활하지 않다는 병안 문맥 膿水不利.",
+      "reason": "앞 문장의 針得一孔 뒤 농수가 원활하지 않다는 병안 문맥 膿水不利."
     }
   ],
   "P/P0200.txt": [
@@ -111217,6 +111252,38 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AE%E6%BF%9F%E6%96%B9/%E9%87%9D%E7%81%B8%E9%96%80/index.html",
       "evidence_note": "P/P0506.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "用鑌鐵擊KT　石。得火出",
+      "after": "用鑌鐵擊燧石。得火出",
+      "expected_count": 1,
+      "reason": "鑌鐵을 쳐 불을 얻는 고전 점화법 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A4%A9%E5%B7%A5%E9%96%8B%E7%89%A9",
+      "evidence_note": "문맥의 擊石取火 도구는 燧石이다."
+    },
+    {
+      "before": "其次用KT　石之火。天陰則用槐木之火。陽燧是以火珠向日下以艾於下承之。便得火也。KT　石似玉堅",
+      "after": "其次用燧石之火。天陰則用槐木之火。陽燧是以火珠向日下以艾於下承之。便得火也。燧石似玉堅",
+      "expected_count": 1,
+      "reason": "같은 단락의 燧石 점화법과 자형 설명 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A4%A9%E5%B7%A5%E9%96%8B%E7%89%A9",
+      "evidence_note": "두 결자는 뒤의 以此石擊鑌鐵即火出가 지시하는 동일한 燧石이다."
+    },
+    {
+      "before": "坐而欲起。目KT　KT　無所見",
+      "after": "坐而欲起。目䀮䀮無所見",
+      "expected_count": 2,
+      "reason": "足少陰 경맥 조문의 독립 평행문 대조",
+      "evidence_url": "https://123dok.co/document/y96rl89v-%EF%80%80%E6%9D%B1%E9%86%AB%E5%AF%B6%E9%91%91%EF%80%80%E9%8D%BC%E7%81%B8%E7%AF%87%EC%9D%98-%E9%86%AB%E5%8F%B2%E5%AD%B8%E7%9A%84-%E8%80%83%E5%AF%9F2.html",
+      "evidence_note": "자료가 腎足少陰之脈 조문을 目䀮䀮無所見으로 인용한다."
+    },
+    {
+      "before": "肝病者。兩脅下痛引少腹。令人善怒。虛則目KT　KT　。無所見",
+      "after": "肝病者。兩脅下痛引少腹。令人善怒。虛則目䀮䀮。無所見",
+      "expected_count": 1,
+      "reason": "《素問·藏氣法時論》 독립 영인 전사 대조",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/Page%3AGujin_Tushu_Jicheng%2C_Volume_434_%281700-1725%29.djvu/77",
+      "evidence_note": "공개 영인 전사가 동일 조문을 肝虛則目䀮䀮無所見으로 제시한다."
     }
   ],
   "P/P0800.txt": [
