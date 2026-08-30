@@ -20,6 +20,7 @@ FINAL_ROOT = ROOT / "docs" / "원문"
 REVIEW_STATUS = ROOT / "data" / "classics_review_status.json"
 PUNCTUATION_RE = re.compile(r"[。！？；，、：,.!?;:]")
 CJK_RE = re.compile(r"[\u3400-\u9fff\uf900-\ufaff]")
+PLACEHOLDER_RE = re.compile(r"HT|KT|\[/?c\]|�|□")
 
 # 같은 디렉터리의 독립 검증기를 승격 게이트에서도 재사용한다.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -30,6 +31,11 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("source_path", help="원자료 상대경로(예: N/N000.txt)")
     parser.add_argument("--dry-run", action="store_true")
+    parser.add_argument(
+        "--refresh",
+        action="store_true",
+        help="동일 source_path로 이미 승격된 정본을 검증 후 최신 가져오기 산출물로 갱신",
+    )
     args = parser.parse_args()
 
     manifest = json.loads((STAGING / "manifest.json").read_text(encoding="utf-8"))
@@ -49,6 +55,13 @@ def main() -> int:
         failures.append("미해결 결자 후보가 0으로 확인되지 않음")
     if book.get("warnings"):
         failures.append(f"변환 경고 {len(book['warnings'])}건")
+    placeholder_count = 0
+    for markdown in staging_dir.glob("*.md"):
+        if markdown.name == "교감기록.md":
+            continue
+        placeholder_count += len(PLACEHOLDER_RE.findall(markdown.read_text(encoding="utf-8")))
+    if placeholder_count:
+        failures.append(f"정본 본문에 깨진 토큰·미복원 결자 {placeholder_count}건")
     source_sha = hashlib.sha256(source_path.read_bytes()).hexdigest()
     if source_sha != book["sha256"]:
         failures.append("원자료 SHA-256 불일치")
@@ -77,12 +90,22 @@ def main() -> int:
 
     destination = FINAL_ROOT / book["output_directory"]
     if destination.exists():
-        raise SystemExit(f"정본 대상 폴더가 이미 존재함: {destination}")
+        finalized_path = destination / "finalized.json"
+        if not args.refresh:
+            raise SystemExit(f"정본 대상 폴더가 이미 존재함: {destination}")
+        if not finalized_path.is_file():
+            raise SystemExit(f"기존 폴더가 정본으로 확인되지 않음: {destination}")
+        existing = json.loads(finalized_path.read_text(encoding="utf-8"))
+        if existing.get("source_path") != args.source_path:
+            raise SystemExit(
+                f"기존 정본 source_path 불일치: {existing.get('source_path')} != {args.source_path}"
+            )
     if args.dry_run:
-        print(f"승격 가능: {staging_dir} → {destination}")
+        action = "정본 갱신 가능" if destination.exists() else "승격 가능"
+        print(f"{action}: {staging_dir} → {destination}")
         return 0
 
-    shutil.copytree(staging_dir, destination)
+    shutil.copytree(staging_dir, destination, dirs_exist_ok=args.refresh)
     finalized = {
         "source_path": args.source_path,
         "source_sha256": source_sha,
@@ -110,7 +133,8 @@ def main() -> int:
     index += "\n".join(f"- [{path.name}]({path.name}/README.md)" for path in finalized_dirs)
     index += "\n"
     index_path.write_text(index, encoding="utf-8")
-    print(f"승격 완료: {destination}")
+    action = "정본 갱신 완료" if args.refresh else "승격 완료"
+    print(f"{action}: {destination}")
     return 0
 
 

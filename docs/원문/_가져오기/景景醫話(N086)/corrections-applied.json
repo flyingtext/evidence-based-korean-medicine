@@ -1,1 +1,418 @@
-[]
+[
+  {
+    "before": "[z]",
+    "after": "〔",
+    "expected_count": 18,
+    "reason": "편집자 보충 주석 태그를 명시적 교감 괄호로 정규화",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "중의집성 판본은 해당 보충·교감 문자를 〔〕로 표시함"
+  },
+  {
+    "before": "[/z]",
+    "after": "〕",
+    "expected_count": 18,
+    "reason": "편집자 보충 주석 태그를 명시적 교감 괄호로 정규화",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "중의집성 판본은 해당 보충·교감 문자를 〔〕로 표시함"
+  },
+  {
+    "before": "斑蟊",
+    "after": "斑蝥",
+    "expected_count": 1,
+    "reason": "표준 약명 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "표준 약명은 斑蝥임"
+  },
+  {
+    "before": "某告渚公庭",
+    "after": "某告諸公庭",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "중의집성 판본은 告諸公庭으로 수록함"
+  },
+  {
+    "before": "和平之晶",
+    "after": "和平之品",
+    "expected_count": 1,
+    "reason": "정형 표현과 대조판본에 따른 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "약물의 성질을 가리키는 和平之品이 문맥에 맞음"
+  },
+  {
+    "before": "倒植渭為",
+    "after": "倒植謂為",
+    "expected_count": 1,
+    "reason": "문법 문맥 대조 OCR 동음 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "서술 동사는 謂為임"
+  },
+  {
+    "before": "陳吉老案",
+    "after": "陳古老案",
+    "expected_count": 1,
+    "reason": "인명 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본의 인명은 陳古老임"
+  },
+  {
+    "before": "搭干肺上",
+    "after": "搭於肺上",
+    "expected_count": 1,
+    "reason": "문법 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "개사 於가 문맥에 맞음"
+  },
+  {
+    "before": "目梘壁上",
+    "after": "目視壁上",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "벽을 본다는 뜻의 視가 맞음"
+  },
+  {
+    "before": "過飽面填息",
+    "after": "過飽而填息",
+    "expected_count": 1,
+    "reason": "문법 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "접속사 而가 맞음"
+  },
+  {
+    "before": "令其先眼",
+    "after": "令其先服",
+    "expected_count": 1,
+    "reason": "복약 문맥 대조 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "약을 먼저 복용시킨다는 先服이 맞음"
+  },
+  {
+    "before": "果也跟初方後",
+    "after": "果也服初方後",
+    "expected_count": 1,
+    "reason": "복약 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "초방을 복용한 뒤라는 뜻임"
+  },
+  {
+    "before": "並知哿物之性",
+    "after": "並知各物之性",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "각 사물의 성질이라는 문맥임"
+  },
+  {
+    "before": "視宮如神明",
+    "after": "視官如神明",
+    "expected_count": 1,
+    "reason": "관민 관계 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "백성이 관리를 신명처럼 본다는 뜻임"
+  },
+  {
+    "before": "賺艙中人",
+    "after": "嫌艙中人",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "선실 사람이 많음을 꺼린다는 뜻임"
+  },
+  {
+    "before": "入通干腎",
+    "after": "入通於腎",
+    "expected_count": 1,
+    "reason": "인용문 문법 대조 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "腎에 통한다는 개사 於가 맞음"
+  },
+  {
+    "before": "發干少腹",
+    "after": "發於少腹",
+    "expected_count": 1,
+    "reason": "인용문 문법 대조 OCR 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "少腹에서 발한다는 개사 於가 맞음"
+  },
+  {
+    "before": "清官湯主之",
+    "after": "清宮湯主之",
+    "expected_count": 1,
+    "reason": "표준 처방명 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "온병조변의 처방명은 清宮湯임"
+  },
+  {
+    "before": "仲聖淪用白虎湯",
+    "after": "仲聖論用白虎湯",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "논하여 사용했다는 論用이 맞음"
+  },
+  {
+    "before": "錯亂之渭",
+    "after": "錯亂之謂",
+    "expected_count": 1,
+    "reason": "정형 문구 대조 OCR 동음 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "之謂 정형구가 맞음"
+  },
+  {
+    "before": "《傷寒論》中儼語",
+    "after": "《傷寒論》中讝語",
+    "expected_count": 1,
+    "reason": "의학 용어와 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "譫語와 음의가 같은 글자를 논하는 문맥이므로 讝語가 맞음"
+  },
+  {
+    "before": "和尚浜",
+    "after": "和尚濱",
+    "expected_count": 1,
+    "reason": "상하이 지명 대조 OCR 이체 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본은 和尚濱으로 수록함"
+  },
+  {
+    "before": "群嘩為非",
+    "after": "群譁為非",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 글자 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "떠들며 비난한다는 譁가 맞음"
+  },
+  {
+    "before": "熱內追也",
+    "after": "熱內迫也",
+    "expected_count": 1,
+    "reason": "열궐 문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "열이 안에서 핍박한다는 內迫이 맞음"
+  },
+  {
+    "before": "孟英又云屍雖",
+    "after": "孟英又云雖",
+    "expected_count": 1,
+    "reason": "문법 문맥 대조 잉여 OCR 글자 삭제",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본에 屍가 없고 雖在로 이어짐"
+  },
+  {
+    "before": "其亦來明",
+    "after": "其亦未明",
+    "expected_count": 1,
+    "reason": "반문 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "아직 밝히지 못했다는 未明이 맞음"
+  },
+  {
+    "before": "盍昧之",
+    "after": "盍味之",
+    "expected_count": 1,
+    "reason": "독서 문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "뜻을 음미하라는 味之가 맞음"
+  },
+  {
+    "before": "長兄錦娘",
+    "after": "長兄錦烺",
+    "expected_count": 1,
+    "reason": "인명 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본의 인명은 錦烺임"
+  },
+  {
+    "before": "氣無所附南",
+    "after": "氣無所附麗",
+    "expected_count": 1,
+    "reason": "정형 표현과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "의지할 곳이 없다는 無所附麗가 맞음"
+  },
+  {
+    "before": "非其冶也",
+    "after": "非其治也",
+    "expected_count": 1,
+    "reason": "치료 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "치료가 잘못되었다는 治가 맞음"
+  },
+  {
+    "before": "蜷念同懷",
+    "after": "睠念同懷",
+    "expected_count": 1,
+    "reason": "추모 문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "그리워한다는 睠念이 맞음"
+  },
+  {
+    "before": "漲其食",
+    "after": "恣其食",
+    "expected_count": 1,
+    "reason": "과식 문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "먹고 싶은 대로 두었다는 恣其食이 맞음"
+  },
+  {
+    "before": "隨余上杭伍",
+    "after": "隨余上杭任",
+    "expected_count": 1,
+    "reason": "관직 이동 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "상항의 임지로 따라갔다는 上杭任이 맞음"
+  },
+  {
+    "before": "數十荊",
+    "after": "數十劑",
+    "expected_count": 1,
+    "reason": "처방 복용 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "수십 첩을 뜻하는 數十劑가 맞음"
+  },
+  {
+    "before": "何先生來否恤有確信",
+    "after": "何先生來否即有確信",
+    "expected_count": 1,
+    "reason": "문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "오는지 여부는 곧 확신이 있다는 문장임"
+  },
+  {
+    "before": "有婢出，亟詢之，白昨夜",
+    "after": "有婢出，亟詢之，曰昨夜",
+    "expected_count": 1,
+    "reason": "대화 인용 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "하녀가 답하는 인용 동사는 曰임"
+  },
+  {
+    "before": "先生尋思良久日",
+    "after": "先生尋思良久曰",
+    "expected_count": 1,
+    "reason": "대화 인용 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "인용 동사 曰이 맞음"
+  },
+  {
+    "before": "面色咣",
+    "after": "面色㿠",
+    "expected_count": 1,
+    "reason": "망진 용어와 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "창백한 얼굴빛을 뜻하는 의학 용어 㿠가 맞음"
+  },
+  {
+    "before": "健睥藥",
+    "after": "健脾藥",
+    "expected_count": 1,
+    "reason": "의학 용어 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "비장을 튼튼히 하는 약은 健脾藥임"
+  },
+  {
+    "before": "治以卒溫之荊防",
+    "after": "治以辛溫之荊防",
+    "expected_count": 1,
+    "reason": "약성 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "荊防의 약성을 가리키는 辛溫이 맞음"
+  },
+  {
+    "before": "辛涼之前蒡",
+    "after": "辛涼之牛蒡",
+    "expected_count": 1,
+    "reason": "표준 약명 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "辛涼 약물 牛蒡이 맞음"
+  },
+  {
+    "before": "古宋何必有此藥",
+    "after": "古來何必有此藥",
+    "expected_count": 1,
+    "reason": "문법 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "예로부터라는 古來가 맞음"
+  },
+  {
+    "before": "情狀；，沘筆為記",
+    "after": "情狀，筆為記",
+    "expected_count": 1,
+    "reason": "깨진 표점과 잉여 OCR 글자 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본은 잉여 沘 없이 筆為記로 이어짐"
+  },
+  {
+    "before": "醫談錄舊",
+    "after": "醫談錄",
+    "expected_count": 1,
+    "reason": "권말 부록 제목 경계와 편집자 주석 정리",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "중의집성 판본에서 舊는 삭제되고 陸晉笙弁言은 편집 주석으로 표시됨"
+  },
+  {
+    "before": "齊嘗大饑，群句相臠割",
+    "after": "齊嘗大饑，群狗相臠割",
+    "expected_count": 1,
+    "reason": "고전 인용문과 문맥 대조 OCR 형사 오기 교정",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9D%B1%E5%9D%A1%E5%BF%97%E6%9E%97/%E5%8D%B7%E4%B8%89",
+    "evidence_note": "동파지림 원문은 기근 때 群狗가 서로 잡아먹었다고 기록함"
+  },
+  {
+    "before": "安必遽天其天年",
+    "after": "安必遽夭其天年",
+    "expected_count": 1,
+    "reason": "요절 문맥과 대조판본에 따른 OCR 형사 오기 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "타고난 수명을 일찍 마친다는 夭其天年이 맞음"
+  },
+  {
+    "before": "香燥疏肝，加抽搐",
+    "after": "香燥疏肝，加以抽搐",
+    "expected_count": 1,
+    "reason": "문법 문맥과 대조판본에 따른 결자 보충",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "치료 뒤 경련이 더해졌다는 加以抽搐가 맞음"
+  },
+  {
+    "before": "延及於胃：，",
+    "after": "延及於胃，",
+    "expected_count": 1,
+    "reason": "중복·깨진 표점 정리",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본에서 문장이 쉼표로 이어짐"
+  },
+  {
+    "before": "濕滯薰蒸也。，",
+    "after": "濕滯薰蒸也。",
+    "expected_count": 1,
+    "reason": "중복·깨진 표점 정리",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본은 문장 종결점 하나만 둠"
+  },
+  {
+    "before": "曹融甫來？名醫",
+    "after": "曹融甫來，名醫",
+    "expected_count": 1,
+    "reason": "문장 구조와 대조판본에 따른 표점 교정",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "동격 설명으로 이어지므로 쉼표가 맞음"
+  },
+  {
+    "before": "恐病去而！氣液",
+    "after": "恐病去而氣液",
+    "expected_count": 1,
+    "reason": "문장 중간에 끼어든 깨진 표점 삭제",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "氣液與之俱去로 연속되는 문장임"
+  },
+  {
+    "before": "又食五枚．，",
+    "after": "又食五枚，",
+    "expected_count": 1,
+    "reason": "중복·깨진 표점 정리",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E6%99%AF%E9%86%AB%E8%A9%B1/index.html",
+    "evidence_note": "대조판본에서 뒤 문장과 쉼표로 이어짐"
+  }
+]

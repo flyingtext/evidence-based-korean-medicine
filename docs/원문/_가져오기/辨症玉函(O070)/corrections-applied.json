@@ -1,19 +1,27 @@
 [
   {
     "before": "期之　志未",
-    "after": "期之齎志未",
+    "after": "期之賁志未",
     "expected_count": 1,
     "reason": "온라인 판본 전역 문자 정렬 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD/index.html",
-    "evidence_note": "O/O070.txt: 전역 Unicode 정렬 고유 대응, 결자 齎"
+    "evidence_note": "중국철학서전자화계획의 독립 전사는 賁志未售로 수록함"
   },
   {
-    "before": "HT　肄習",
-    "after": "HT關肄習",
+    "before": "當途者HT　勤征聘",
+    "after": "當途者殷勤徵聘",
     "expected_count": 1,
-    "reason": "온라인 판본 전역 문자 정렬 대조 결자 보충",
-    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD/index.html",
-    "evidence_note": "O/O070.txt: 전역 Unicode 정렬 고유 대응, 결자 關"
+    "reason": "독립 전사 대조로 깨진 HT 토큰과 결자 복원",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=283467&if=en",
+    "evidence_note": "중국철학서전자화계획의 弁言은 當途者殷勤徵聘으로 수록함"
+  },
+  {
+    "before": "陳子掩HT　肄習",
+    "after": "陳子掩關肄習",
+    "expected_count": 1,
+    "reason": "독립 전사 대조로 깨진 HT 토큰과 결자 복원",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=283467&if=en",
+    "evidence_note": "중국철학서전자화계획의 弁言은 陳子掩關肄習으로 수록함"
   },
   {
     "before": "航跋　款門",
@@ -334,5 +342,29 @@
     "reason": "온라인 판본 전역 문자 정렬 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD/index.html",
     "evidence_note": "O/O070.txt: 전역 Unicode 정렬 고유 대응, 결자 耆"
+  },
+  {
+    "before": "若以為□□□□劑則邪未散而氣更壅滯矣故初起之□□□□風藥解散為第一惟世人治嗽實多其方□□□□者無幾也吾今酌定一方可以為永遠之□□□□名寧嗽丹",
+    "after": "若以為虛而動用補劑則邪未散而氣更壅滯矣故初起之嗽必須用風藥解散為第一惟世人治嗽實多其方然而得其法者無幾也吾今酌定一方可以為永遠之式名寧嗽丹",
+    "expected_count": 1,
+    "reason": "학술 교감 논문의 저본 전사 대조로 연속 결락군 복원",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001342706",
+    "evidence_note": "대한한의학원전학회 논문 233쪽은 해당 구절을 虛而動用補·嗽必須用·然而得其法·式으로 전사함"
+  },
+  {
+    "before": "此方無論傷食□可見□方中",
+    "after": "此方無論傷食亦可見效方中",
+    "expected_count": 1,
+    "reason": "문법과 처방 효능 서술 문맥에 따른 단자 결락 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD/index.html",
+    "evidence_note": "두 결락은 앞뒤 문법상 각각 亦·效이며, ‘상식에도 효험을 볼 수 있다’는 연속 문장이 됨"
+  },
+  {
+    "before": "吾符亦能卻病並傳於後□書此符於茶杯水碗之內",
+    "after": "吾符亦能卻病並傳於後〔太乙符圖〕書此符於茶杯水碗之內",
+    "expected_count": 1,
+    "reason": "문맥과 판본 구조 대조로 도상 자리표시자 명시",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%BE%A8%E7%97%87%E7%8E%89%E5%87%BD",
+    "evidence_note": "앞 문장에서 太乙符를 뒤에 전한다고 밝히고 뒤 문장은 부적을 쓰는 법을 설명하므로 □는 글자 결락이 아니라 太乙符 도상 위치임"
   }
 ]

@@ -561,11 +561,11 @@
   },
   {
     "before": "即從邑崩聲讀若倍凝為冰之或體而從疑聲HT　為繒之□文而從宰省聲周官司幾筵凶事仍",
-    "after": "即從邑崩聲讀若倍凝為冰之或體而從疑聲𦀓為繒之□文而從宰省聲周官司幾筵凶事仍",
+    "after": "即從邑崩聲讀若倍凝為冰之或體而從疑聲𦀓為繒之籀文而從宰省聲周官司幾筵凶事仍",
     "expected_count": 1,
-    "reason": "온라인 판본 전역 정렬 대조 결자 보충",
-    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E6%A0%A1%E7%BE%A9/index.html",
-    "evidence_note": "A/A012.txt: 전역 문자 정렬 및 좌우 고유 문맥 일치; 깨진 HT 토큰 복원"
+    "reason": "깨진 HT 토큰과 《說文解字》 인용의 결자를 독립 문헌 대조로 복원",
+    "evidence_url": "https://irlib.pccu.edu.tw/retrieve/48916/gsweb3.pdf",
+    "evidence_note": "A/A012.txt: HT 토큰은 𦀓으로 복원하고, 독립 연구문헌이 인용한 《說文》 원문 ‘𦀓，籀文繒，从宰省’를 대조해 결자는 籀로 복원함"
   },
   {
     "before": "記賈生傳品物馮生漢書馮作每司馬相如傳　橙若蓀漢書橙作持）今作征兆者後人狃於",
@@ -670,5 +670,21 @@
     "reason": "온라인 판본 전역 정렬 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E6%A0%A1%E7%BE%A9/index.html",
     "evidence_note": "A/A012.txt: 전역 문자 정렬 및 좌우 고유 문맥 일치"
+  },
+  {
+    "before": "穀梁傳弛侯荀子王制篇大事殆□□□□楊　並曰弛廢也",
+    "after": "穀梁傳弛侯荀子王制篇大事殆乎弛范甯楊　並曰弛廢也",
+    "expected_count": 1,
+    "reason": "인용 원문과 주석자명을 대조하여 연속 결자 복원",
+    "evidence_url": "https://www.zzrvtc.edu.cn/_upload/article/files/18/84/fa7ca7f94e4c887d67c1b511da7f/005e533b-656c-4dbd-a4da-b9c26528ccfc.pdf",
+    "evidence_note": "《黃帝內經研究大成·近代校釋珍本輯錄1》 검색 본문에 ‘荀子·王制篇：大事殆乎弛？範甯、楊倞並曰：弛，廢也’로 수록되며, 《荀子·王制》 독립 전사도 ‘大事殆乎弛，小事殆乎遂’로 확인됨"
+  },
+  {
+    "before": "唐風采苓首□之下與苦與韻",
+    "after": "唐風采苓首陽之下與苦與韻",
+    "expected_count": 1,
+    "reason": "《詩經·唐風·采苓》의 지명 대조로 결자 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E6%96%B9%E8%BC%BF%E5%BD%99%E7%B7%A8/%E5%B1%B1%E5%B7%9D%E5%85%B8/%E7%AC%AC037%E5%8D%B7",
+    "evidence_note": "독립 인용문은 《唐風·采苓》을 ‘采苓首陽之巔’으로 수록하므로 본문의 ‘首□之下’에서 지명 결자는 陽임"
   }
 ]

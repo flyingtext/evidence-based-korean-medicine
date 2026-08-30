@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import re
 from pathlib import Path
 
 
@@ -13,6 +14,7 @@ SOURCE = ROOT.parent / "source"
 FINAL_ROOT = ROOT / "docs" / "원문"
 STAGING = FINAL_ROOT / "_가져오기"
 REVIEW = ROOT / "data" / "classics_review_status.json"
+PLACEHOLDER_RE = re.compile(r"HT|KT|\[/?c\]|�|□")
 
 
 def file_hash(path: Path) -> str:
@@ -50,6 +52,13 @@ def main() -> int:
         status = review.get(source_rel, {}) if isinstance(source_rel, str) else {}
         if status.get("collation_status") != "complete" or status.get("unresolved_candidates") != 0:
             errors.append(f"{label}: review 완료 게이트 불일치")
+        placeholder_count = 0
+        for markdown in directory.glob("*.md"):
+            if markdown.name == "교감기록.md":
+                continue
+            placeholder_count += len(PLACEHOLDER_RE.findall(markdown.read_text(encoding="utf-8")))
+        if placeholder_count:
+            errors.append(f"{label}: 깨진 토큰·미복원 결자 {placeholder_count}건")
         staging_dir = STAGING / label
         if not staging_dir.is_dir():
             errors.append(f"{label}: 대응 staging 폴더 없음")

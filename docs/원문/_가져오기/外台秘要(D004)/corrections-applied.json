@@ -1,1 +1,1018 @@
-[]
+[
+  {
+    "before": "乃KT　便愈",
+    "after": "乃𧺫便愈",
+    "expected_count": 1,
+    "reason": "중의급성 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "해당 문장은 乃𧺫便愈로 수록됨"
+  },
+  {
+    "before": "冀HT　自瘥，須臾之間，以成痼疾小理，以時早療",
+    "after": "冀𣈂自瘥，須臾之間，以成痼疾，小兒女子益以滋甚，若天行不和，當自戒勒，若有小不和，則須救療，尋其邪由，及在腠理，以時早療",
+    "expected_count": 1,
+    "reason": "중의급성 교감본과 독립 『千金方』 판본 대조 외자·결락 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "冀𣈂 및 小兒女子益以滋甚 이하의 누락 구절을 복원함"
+  },
+  {
+    "before": "不須KT　粥",
+    "after": "不須歠粥",
+    "expected_count": 1,
+    "reason": "중의급성 교감본과 독립 『傷寒論』 판본 대조 깨진 외자 복원",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/SSID-12754338_%E5%82%B7%E5%AF%92%E8%AB%96_%E5%8D%B73.pdf",
+    "evidence_note": "麻黃湯 복약법의 정문은 不須歠粥임"
+  },
+  {
+    "before": "項背強KT　KT　，反汗不出惡風者",
+    "after": "項背強𠘧𠘧，反汗不出惡風者",
+    "expected_count": 1,
+    "reason": "중의급성 교감본과 『傷寒論』 정문 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "葛根湯 조문의 정문은 項背強𠘧𠘧임"
+  },
+  {
+    "before": "此作KT　熱利也",
+    "after": "此作恊熱利也",
+    "expected_count": 1,
+    "reason": "중의급성 교감본과 상한 조문 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "해당 조문은 此作恊熱利也로 수록됨"
+  },
+  {
+    "before": "小KT　（一升碎）",
+    "after": "小䔉（一升碎）",
+    "expected_count": 1,
+    "reason": "중의급성 교감본 대조 약재 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "香薷湯 구성 약재 小䔉 복원"
+  },
+  {
+    "before": "蘆蓬HT　一大把",
+    "after": "蘆蓬蕽一大把",
+    "expected_count": 1,
+    "reason": "중의급성 교감본 대조 식물명 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "蘆蓬蕽으로 수록된 외자를 복원함"
+  },
+  {
+    "before": "取KT　鱺魚淡炙令熟",
+    "after": "取𩻠鱺魚淡炙令熟",
+    "expected_count": 1,
+    "reason": "중의급성 교감본 대조 어류명 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "어류명 𩻠鱺魚의 결자를 복원함"
+  },
+  {
+    "before": "青KT　皮。青毛出；黃KT　皮。黃毛山；赤KT　皮。赤毛出；白KT　皮。白毛出；黑KT　皮。黑毛出",
+    "after": "青𬿚皮。青毛出；黃𬿚皮。黃毛山；赤𬿚皮。赤毛出；白𬿚皮。白毛出；黑𬿚皮。黑毛出",
+    "expected_count": 1,
+    "reason": "중의급성 교감본 대조 반복 외자 일괄 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "청·황·적·백·흑의 병렬 구절에 반복되는 𬿚를 복원함"
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 3,
+    "reason": "중의급성 교감본의 반복 용례 대조 안질 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "目視䀮䀮의 세 반복 용례를 동일하게 복원함"
+  },
+  {
+    "before": "足大KT　趾",
+    "after": "足大𧿹趾",
+    "expected_count": 3,
+    "reason": "중의급성 교감본과 경혈 문맥 대조 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "발가락을 뜻하는 足大𧿹趾의 세 용례를 복원함"
+  },
+  {
+    "before": "，仍KT頭洗",
+    "after": "，仍擳頭洗",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 擳로 복원"
+  },
+  {
+    "before": "中，KT　出之",
+    "after": "中，㬂出之",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 㬂로 복원"
+  },
+  {
+    "before": "獨頭KT　（一",
+    "after": "獨頭䔉（一",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "云，KT　KT　團團",
+    "after": "云，⿱𡖅月⿱𡖅月團團",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 ⿱𡖅月⿱𡖅月로 복원"
+  },
+  {
+    "before": "　小KT　（十",
+    "after": "　小䔉（十",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "，因KT　刻則",
+    "after": "，因𭌏刻則",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𭌏로 복원"
+  },
+  {
+    "before": "蔥、KT面、",
+    "after": "蔥、䔉面、",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "。忌KT　面、",
+    "after": "。忌䔉面、",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "。忌KT　、豬",
+    "after": "。忌䔉、豬",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "水、KT、蘆",
+    "after": "水、䔉、蘆",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "\n忌KT　面。",
+    "after": "\n忌䔉面。",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "醋、KT　面。",
+    "after": "醋、䔉面。",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "魚、KT　、蕪",
+    "after": "魚、䔉、蕪",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "魚、KT　、黏",
+    "after": "魚、䔉、黏",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "肉、KT、海",
+    "after": "肉、䔉、海",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䔉로 복원"
+  },
+  {
+    "before": "\n豬KT　（三",
+    "after": "\n豬𦚟（三",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𦚟로 복원"
+  },
+  {
+    "before": "）　HT　根（",
+    "after": "）　苧根（",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 苧로 복원"
+  },
+  {
+    "before": "來細KT　附骨",
+    "after": "來細䎡附骨",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䎡로 복원"
+  },
+  {
+    "before": "頭鉛KT　。（",
+    "after": "頭鉛⿰革共。（",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 ⿰革共로 복원"
+  },
+  {
+    "before": "近鉛KT　一云",
+    "after": "近鉛⿰革共一云",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 ⿰革共로 복원"
+  },
+  {
+    "before": "朝暮HT　（莫",
+    "after": "朝暮瞢（莫",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 瞢로 복원"
+  },
+  {
+    "before": "蒙）KT　。（",
+    "after": "蒙）𧄼。（",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧄼로 복원"
+  },
+  {
+    "before": "等。HT　病畢",
+    "after": "等。𣈂病畢",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𣈂로 복원"
+  },
+  {
+    "before": "目視KTKT　。不",
+    "after": "目視䀮䀮。不",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KTKT를 䀮䀮로 복원"
+  },
+  {
+    "before": "青盲KT　KT　不見",
+    "after": "青盲䀮䀮不見",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "當大KT　指大",
+    "after": "當大𧿹指大",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "足大KT　指本",
+    "after": "足大𧿹指本",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "食飲HT　力未",
+    "after": "食飲穀力未",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 穀로 복원"
+  },
+  {
+    "before": "遠視KT　KT　。咳",
+    "after": "遠視䀮䀮。咳",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "宜以KT　命茯",
+    "after": "宜以垂命茯",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 垂로 복원"
+  },
+  {
+    "before": "濕布KT　上。",
+    "after": "濕布𤄥上。",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𤄥로 복원"
+  },
+  {
+    "before": "\n又KT　方。",
+    "after": "\n又𤄥方。",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𤄥로 복원"
+  },
+  {
+    "before": "也，KT　石似",
+    "after": "也，䃈石似",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䃈로 복원"
+  },
+  {
+    "before": "羊肉HT　，及",
+    "after": "羊肉𦡱，及",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𦡱로 복원"
+  },
+  {
+    "before": "罐如KT　類也",
+    "after": "罐如甖類也",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 甖로 복원"
+  },
+  {
+    "before": "以傾KT　內，",
+    "after": "以傾甖內，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 甖로 복원"
+  },
+  {
+    "before": "納新KT　中，",
+    "after": "納新甖中，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 甖로 복원"
+  },
+  {
+    "before": "，目KT　KT　，視",
+    "after": "，目䀮䀮，視",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "眼視KT　KT　，面",
+    "after": "眼視䀮䀮，面",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "即以KT筒長",
+    "after": "即以𥯤筒長",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥯤로 복원"
+  },
+  {
+    "before": "口面KT　破方",
+    "after": "口面⿰皮單破方",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 ⿰皮單로 복원"
+  },
+  {
+    "before": "本作KT　音均",
+    "after": "本作皹音均",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 皹로 복원"
+  },
+  {
+    "before": "外以KT　針針",
+    "after": "外以鋒針針",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 鋒로 복원"
+  },
+  {
+    "before": "結筋KT　馳偽",
+    "after": "結筋腄馳偽",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 腄로 복원"
+  },
+  {
+    "before": "云赤KT　如三",
+    "after": "云赤𦋺如三",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𦋺로 복원"
+  },
+  {
+    "before": "）　KT　木根",
+    "after": "）　樧木根",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 樧로 복원"
+  },
+  {
+    "before": "一各KT　子即",
+    "after": "一各樧子即",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 樧로 복원"
+  },
+  {
+    "before": "舌香KT　木根",
+    "after": "舌香樧木根",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 樧로 복원"
+  },
+  {
+    "before": "腳大KT　趾去",
+    "after": "腳大𧿹趾去",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "及足KT　趾甲",
+    "after": "及足𧿹趾甲",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "刺擺KT　者，",
+    "after": "刺擺⿰扌𧴲者，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 ⿰扌𧴲로 복원"
+  },
+  {
+    "before": "如足KT　趾大",
+    "after": "如足𧿹趾大",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "取鈷KT　銅錯",
+    "after": "取鈷䥈銅錯",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䥈로 복원"
+  },
+  {
+    "before": "，瓠KT　燒麻",
+    "after": "，瓠𤬛燒麻",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𤬛로 복원"
+  },
+  {
+    "before": "開瓠KT　一枚",
+    "after": "開瓠𤬛一枚",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𤬛로 복원"
+  },
+  {
+    "before": "\n又KT　豆療",
+    "after": "\n又𦱌豆療",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𦱌로 복원"
+  },
+  {
+    "before": "如杏KT　法，",
+    "after": "如杏⿰氵藝法，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 ⿰氵藝로 복원"
+  },
+  {
+    "before": "　（HT　雞　",
+    "after": "　（⿰木⿱𫲽亐雞　",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 ⿰木⿱𫲽亐로 복원"
+  },
+  {
+    "before": "篩之HT　盡，",
+    "after": "篩之𱦵盡，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𱦵로 복원"
+  },
+  {
+    "before": "食諸HT　百物",
+    "after": "食諸䴵臛百物",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 䴵臛로 복원"
+  },
+  {
+    "before": "帝食HT　，魏",
+    "after": "帝食䴵，魏",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 䴵로 복원"
+  },
+  {
+    "before": "去黯HT　方。",
+    "after": "去黯⿰黑志方。",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 ⿰黑志로 복원"
+  },
+  {
+    "before": "面上KT　子化",
+    "after": "面上𪿨礧子化",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𪿨礧로 복원"
+  },
+  {
+    "before": "遠視KT　KT　，得",
+    "after": "遠視䀮䀮，得",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "三條HT　之，",
+    "after": "三條𢯆之，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𢯆로 복원"
+  },
+  {
+    "before": "丁香　KT　香（四",
+    "after": "丁香　𥴈香（四",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥴈로 복원"
+  },
+  {
+    "before": "香　KT　香　",
+    "after": "香　𥴈香　",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥴈로 복원"
+  },
+  {
+    "before": "）　KT　香（",
+    "after": "）　𥴈香（",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥴈로 복원"
+  },
+  {
+    "before": "黍粟HT　糠，",
+    "after": "黍粟麩糠，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 麩로 복원"
+  },
+  {
+    "before": "，以KT　囊盛",
+    "after": "，以縠囊盛",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 縠로 복원"
+  },
+  {
+    "before": "深水HT　池，",
+    "after": "深水洿池，",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 洿로 복원"
+  },
+  {
+    "before": "忤而KT　啼面",
+    "after": "忤而𠸯啼面",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𠸯로 복원"
+  },
+  {
+    "before": "，於KT竹筒",
+    "after": "，於𥯤竹筒",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥯤로 복원"
+  },
+  {
+    "before": "看腳KT　趾甲",
+    "after": "看腳𧿹趾甲",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "心下KT　KT　不消",
+    "after": "心下⿸疒畐⿸疒畐不消",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 ⿸疒畐⿸疒畐로 복원"
+  },
+  {
+    "before": "脈中HT　HT　如冷",
+    "after": "脈中⿸疒嗇⿸疒嗇如冷",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT　HT를 ⿸疒嗇⿸疒嗇로 복원"
+  },
+  {
+    "before": "。（HT　法）",
+    "after": "。（僧珎法）",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 僧珎로 복원"
+  },
+  {
+    "before": "下當KT　趾上",
+    "after": "下當𧿹趾上",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "，餐HT　失度",
+    "after": "，餐𩚵失度",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𩚵로 복원"
+  },
+  {
+    "before": "亦可KT　石以",
+    "after": "亦可䃈石以",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䃈로 복원"
+  },
+  {
+    "before": "咽懸HT　及足",
+    "after": "咽懸𦡈及足",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𦡈로 복원"
+  },
+  {
+    "before": "及足KT　趾）",
+    "after": "及足𧿹趾）",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𧿹로 복원"
+  },
+  {
+    "before": "時不KT　鬢一",
+    "after": "時不灸髮鬢一",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 灸髮로 복원"
+  },
+  {
+    "before": "（日KT　土也",
+    "after": "（日扶土也",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 扶로 복원"
+  },
+  {
+    "before": "汗不出KT　目目痛",
+    "after": "汗不出𥌰目目痛",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥌰로 복원"
+  },
+  {
+    "before": "煩心KT　目目",
+    "after": "煩心𥌰目目",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𥌰로 복원"
+  },
+  {
+    "before": "出目KT　KT　筋攣",
+    "after": "出目䀮䀮筋攣",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "遠視KT　KT　上齒",
+    "after": "遠視𥇀𥇀上齒",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 𥇀𥇀로 복원"
+  },
+  {
+    "before": "\n懸HT（在",
+    "after": "\n懸䘌（在",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 䘌로 복원"
+  },
+  {
+    "before": "中赤KTKT　臍風",
+    "after": "中赤𥇀𥇀臍風",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KTKT를 𥇀𥇀로 복원"
+  },
+  {
+    "before": "見遠視KT　KT　目中膚",
+    "after": "見遠視𥇀𥇀目中膚",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 𥇀𥇀로 복원"
+  },
+  {
+    "before": "上齒HT　痛口",
+    "after": "上齒齲痛口",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 齲로 복원"
+  },
+  {
+    "before": "上齒HT）\n",
+    "after": "上齒齲）\n",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 齲로 복원"
+  },
+  {
+    "before": "熱齒HT　痛狂",
+    "after": "熱齒齲痛狂",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 齲로 복원"
+  },
+  {
+    "before": "上齒HT　痛肩",
+    "after": "上齒齲痛肩",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 齲로 복원"
+  },
+  {
+    "before": "熱齒HT　痛風",
+    "after": "熱齒齲痛風",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 齲로 복원"
+  },
+  {
+    "before": "出目KTKT　然無",
+    "after": "出目䀮䀮然無",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KTKT를 䀮䀮로 복원"
+  },
+  {
+    "before": "起目KTKT　善怒",
+    "after": "起目䀮䀮善怒",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KTKT를 䀮䀮로 복원"
+  },
+  {
+    "before": "熱目KT　KT　喜咳",
+    "after": "熱目䀮䀮喜咳",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "疾目KT　KT　鼽衄",
+    "after": "疾目䀮䀮鼽衄",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "然目KT　KT　瘧頭",
+    "after": "然目䀮䀮瘧頭",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "俯仰KT　季脅",
+    "after": "俯仰䏚季脅",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䏚로 복원"
+  },
+  {
+    "before": "狀目KT　KT　淚出",
+    "after": "狀目䀮䀮淚出",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "滿目KT　KT　生白",
+    "after": "滿目䀮䀮生白",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "黑目KT　KT　喘咳",
+    "after": "黑目䀮䀮喘咳",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "腹控KT不可",
+    "after": "腹控䏚不可",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 䏚로 복원"
+  },
+  {
+    "before": "上痛KT　KT　不明",
+    "after": "上痛䀮䀮不明",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "許摩KT　去表",
+    "after": "許摩𦛗去表",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT를 𦛗로 복원"
+  },
+  {
+    "before": "覺下KT　KT　然流",
+    "after": "覺下𡃡𡃡然流",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 𡃡𡃡로 복원"
+  },
+  {
+    "before": "項痛目KT　KT　無所見",
+    "after": "項痛目䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT를 䀮䀮로 복원"
+  },
+  {
+    "before": "耳中KT　KT　KT　KT　）\n",
+    "after": "耳中𦗳𦗳䏆䏆）\n",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KT　KT　KT　KT를 𦗳𦗳䏆䏆로 복원"
+  },
+  {
+    "before": "耳聾KTKT　無所",
+    "after": "耳聾䏆䏆無所",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 KTKT를 䏆䏆로 복원"
+  },
+  {
+    "before": "，此HT　字作",
+    "after": "，此𧓽字作",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 𧓽로 복원"
+  },
+  {
+    "before": "巾拭HT　HT　，如",
+    "after": "巾拭㸁㸁，如",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT　HT를 㸁㸁로 복원"
+  },
+  {
+    "before": "病為HT　（呼",
+    "after": "病為㿗（呼",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 㿗로 복원"
+  },
+  {
+    "before": "使骨HT　血即",
+    "after": "使骨才血即",
+    "expected_count": 1,
+    "reason": "중의급성 전문 교감본 대조 깨진 외자 복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+    "evidence_note": "문맥 유일 대응으로 HT를 才로 복원"
+  }
+]

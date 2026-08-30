@@ -7,7 +7,7 @@
 - 원본 파일: `O/O070.txt`
 - SHA-256: `96530bbcbf4f158f6343a0946092ce05e73b7d8f009742f8f9ef5baaf40b43ed`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 42건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 46건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차

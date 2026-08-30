@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import argparse
 import difflib
+import fcntl
 import hashlib
 import json
 import re
@@ -488,10 +489,10 @@ def main() -> int:
         corrections = json.loads(args.corrections.read_text(encoding="utf-8"))
     for book in books:
         apply_corrections(book, corrections)
-    manifest = []
+    converted = []
     for book in books:
         if args.catalog_only:
-            manifest.append({
+            converted.append({
                 "source_path": book.relative_source,
                 "source_key": book.source_key,
                 "sha256": book.sha256,
@@ -499,13 +500,32 @@ def main() -> int:
                 "warnings": book.warnings,
             })
         else:
-            manifest.append(convert_book(book, output))
-    (output / "manifest.json").write_text(
-        json.dumps({"source_root": str(source), "count": len(manifest), "books": manifest}, ensure_ascii=False, indent=2) + "\n",
-        encoding="utf-8",
-    )
-    (output / "README.md").write_text(collection_readme(manifest), encoding="utf-8")
-    print(f"처리 완료: {len(manifest)}권 → {output}")
+            converted.append(convert_book(book, output))
+
+    # 부분 변환은 기존 전권 목록에 증분 병합한다. 파일 잠금과 원자적 교체로
+    # 여러 문헌을 병렬 교감해도 마지막 단권이 전체 목록을 덮어쓰지 않게 한다.
+    lock_path = output / ".catalog.lock"
+    with lock_path.open("w", encoding="utf-8") as lock:
+        fcntl.flock(lock.fileno(), fcntl.LOCK_EX)
+        manifest_path = output / "manifest.json"
+        if args.include and manifest_path.is_file():
+            existing = json.loads(manifest_path.read_text(encoding="utf-8")).get("books", [])
+            by_source = {item["source_path"]: item for item in existing}
+            by_source.update({item["source_path"]: item for item in converted})
+            manifest = sorted(by_source.values(), key=lambda item: item["source_path"])
+        else:
+            manifest = converted
+        payload = {"source_root": str(source), "count": len(manifest), "books": manifest}
+        manifest_tmp = output / ".manifest.json.tmp"
+        readme_tmp = output / ".README.md.tmp"
+        manifest_tmp.write_text(
+            json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+        )
+        readme_tmp.write_text(collection_readme(manifest), encoding="utf-8")
+        manifest_tmp.replace(manifest_path)
+        readme_tmp.replace(output / "README.md")
+        fcntl.flock(lock.fileno(), fcntl.LOCK_UN)
+    print(f"처리 완료: {len(converted)}권 → {output} (목록 {len(manifest)}권)")
     return 0
 
 

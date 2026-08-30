@@ -430,5 +430,13 @@
     "reason": "온라인 판본 전역 문자 정렬 및 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%A3%98%E5%85%83%E6%88%8E/index.html",
     "evidence_note": "O/O053.txt: 전역 CJK 정렬 후 좌우 일치; 결자 谿"
+  },
+  {
+    "before": "黃連(去□八錢)",
+    "after": "黃連(去鬚)八錢",
+    "expected_count": 1,
+    "reason": "독립 전승본의 약재 수치와 수치법을 교차 대조하여 결자 및 괄호 위치 복원",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC337%E5%8D%B7",
+    "evidence_note": "《古今圖書集成》은 萬病紫菀丸에서 黃連各八錢으로 수치를 확인하고, 《景岳全書》 동일 계열 처방은 黃連去鬚로 수치법을 확인함"
   }
 ]

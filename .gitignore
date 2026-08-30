@@ -31,6 +31,7 @@ build/
 server/likes.db
 scripts/.progress.json
 scripts/loop.log
+docs/원문/_가져오기/.catalog.lock
 
 # opencode local config
 opencode.json
