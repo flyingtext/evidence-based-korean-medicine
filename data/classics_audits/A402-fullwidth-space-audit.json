@@ -1,0 +1,20 @@
+{
+  "source_path": "A/A402.txt",
+  "title": "類經",
+  "source_fullwidth_spaces": 3074,
+  "restored_or_normalized_positions": 1052,
+  "preserved_layout_spaces": 346,
+  "unresolved": 1858,
+  "method": [
+    "jicheng.tw 전문과 좌우 한자 14자 고유 정렬",
+    "HT·KT·□·PUA·[u] 및 전각 공백 전수 검사",
+    "고유 정렬 결자만 corrections에 반영"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html",
+    "https://catalog.digitalarchives.tw/item/00/08/67/5e.html",
+    "https://zh.wikisource.org/wiki/%E9%A1%9E%E7%B6%93"
+  ],
+  "corrected_body_sha256": "f76da2cdd859f9bdb8cfac39b0ef42115fc8ab861e5df8ad99ea76e228ecb70a",
+  "note": "1624년 명대 고전. 결자 1052곳 복원·판면 공백 346곳 확인. 전각 공백 1676곳과 번호가 유실된 HT 75·KT 107곳은 원판 대조가 더 필요하여 보류."
+}
