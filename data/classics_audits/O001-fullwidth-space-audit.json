@@ -1,0 +1,39 @@
+{
+  "source_path": "O/O001.txt",
+  "title": "醫林改錯",
+  "source_audit": {
+    "fullwidth_spaces": 234,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 45,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 16
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 174,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 21,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 16
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔·전자정리 전문 대조",
+    "독립 공개 전사·영인 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF",
+    "https://www.ishibashikomorebi.com/book-204-yilingaicuo.pdf"
+  ],
+  "corrected_body_sha256": "bcf2a8812e0bacf564f86692add8315efe84282250d296abc8da80ac96184074",
+  "note": "전각 공백 234곳·[u] 45곳·[i] 도판 16곳 전수 판정. jicheng 北京大學圖書館 스캔본과 Wikisource·독립 영인본 대조로 OCR·탈락 교정 및 도판 16곳 순서 보존, 원자료 표점 충분"
+}

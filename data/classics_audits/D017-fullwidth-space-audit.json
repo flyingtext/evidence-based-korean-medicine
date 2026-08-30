@@ -1,0 +1,39 @@
+{
+  "source_path": "D/D017.txt",
+  "title": "全生指迷方",
+  "source_audit": {
+    "fullwidth_spaces": 604,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 4,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0
+  },
+  "corrected_audit": {
+    "fullwidth_spaces": 616,
+    "HT": 0,
+    "KT": 0,
+    "raw_boxes": 0,
+    "replacement_char": 0,
+    "underline_open_tags": 4,
+    "corrupt_c_tags": 0,
+    "italic_open_tags": 0,
+    "figure_markers": 0
+  },
+  "unresolved": 0,
+  "status": "complete",
+  "method": [
+    "원자료 전각 공백·깨진 토큰·태그 전수 계수와 문맥 판정",
+    "jicheng 최신 스캔·전자정리 전문 대조",
+    "독립 공개 전사·영인 서지 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E5%85%A8%E7%94%9F%E6%8C%87%E8%BF%B7%E6%96%B9/index.html",
+    "https://ctext.org/wiki.pl?if=gb&res=747524",
+    "https://www.shidianguji.com/book/SK1442/chapter/1l94rmcf7h6wm"
+  ],
+  "corrected_body_sha256": "5863b7c258ab0e176cd5adf64f46e094502e8e4cb45737019e3c7628181341b3",
+  "note": "전각 공백 604곳·[u] 4곳 전수 판정. jicheng 四庫文淵閣本과 CText 墨海金壺本·識典古籍 대조로 결자·OCR·탈락 교정, 원자료 표점 충분"
+}
