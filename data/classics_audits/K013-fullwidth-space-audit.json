@@ -1,0 +1,597 @@
+{
+  "source_path": "K/K013.txt",
+  "title": "針灸資生經",
+  "source_fullwidth_spaces": 978,
+  "restored_missing_character_spaces": 882,
+  "preserved_layout_spaces": 96,
+  "unresolved": 0,
+  "method": [
+    "jicheng 전문 유일 문맥 정렬",
+    "jicheng 전문 최소 편집 전역 정렬",
+    "Wikisource·CTP 독립판본 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93",
+    "https://ctext.org/wiki.pl?chapter=672744&if=en"
+  ],
+  "corrected_body_sha256": "c9d35e04cdbb20af06d47a85b1dce9db20f7038c1207982f7acb9573af24c260",
+  "preserved_spaces": [
+    {
+      "ordinal": 1,
+      "line_in_corrected_body": 151,
+      "category": "layout_or_enumeration_separator",
+      "context": "銅人經禾髎二穴。在鼻孔下。夾水溝旁五分。明堂下經作禾窌窌。　即髎也。上經乃作和皆云在鼻孔下、夾水溝旁五分。則是一穴也。而銅人手少陽穴復有和髎二穴。在耳"
+    },
+    {
+      "ordinal": 2,
+      "line_in_corrected_body": 1263,
+      "category": "layout_or_enumeration_separator",
+      "context": "（傳尸屍骨蒸　羸瘦）"
+    },
+    {
+      "ordinal": 3,
+      "line_in_corrected_body": 1287,
+      "category": "layout_or_enumeration_separator",
+      "context": "（消腎　消中）"
+    },
+    {
+      "ordinal": 4,
+      "line_in_corrected_body": 1359,
+      "category": "layout_or_enumeration_separator",
+      "context": "（諸疝氣　胎疝　寒疝　卒疝）"
+    },
+    {
+      "ordinal": 5,
+      "line_in_corrected_body": 1359,
+      "category": "layout_or_enumeration_separator",
+      "context": "（諸疝氣　胎疝　寒疝　卒疝）"
+    },
+    {
+      "ordinal": 6,
+      "line_in_corrected_body": 1359,
+      "category": "layout_or_enumeration_separator",
+      "context": "（諸疝氣　胎疝　寒疝　卒疝）"
+    },
+    {
+      "ordinal": 7,
+      "line_in_corrected_body": 1394,
+      "category": "layout_or_enumeration_separator",
+      "context": "（淋瀝　余見小便不通）"
+    },
+    {
+      "ordinal": 8,
+      "line_in_corrected_body": 1421,
+      "category": "layout_or_enumeration_separator",
+      "context": "（不通　不利）"
+    },
+    {
+      "ordinal": 9,
+      "line_in_corrected_body": 1512,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見痢　腸風）"
+    },
+    {
+      "ordinal": 10,
+      "line_in_corrected_body": 1521,
+      "category": "layout_or_enumeration_separator",
+      "context": "（瘻漏　余見瘍瘻）"
+    },
+    {
+      "ordinal": 11,
+      "line_in_corrected_body": 1587,
+      "category": "layout_or_enumeration_separator",
+      "context": "（筋緩急　余見手足攣）"
+    },
+    {
+      "ordinal": 12,
+      "line_in_corrected_body": 1619,
+      "category": "layout_or_enumeration_separator",
+      "context": "鬲關、治嘔噦多涎唾（見背痛。）率谷、治嘔吐不止。（見痰。）肺俞、治上氣嘔吐。（。）　府（見喘。）意舍、（見腹脹。）治嘔吐。鬲俞、治咳逆嘔逆。鬲胃（明作上。）寒痰。"
+    },
+    {
+      "ordinal": 13,
+      "line_in_corrected_body": 1804,
+      "category": "layout_or_enumeration_separator",
+      "context": "（健忘　無心力　失志）"
+    },
+    {
+      "ordinal": 14,
+      "line_in_corrected_body": 1804,
+      "category": "layout_or_enumeration_separator",
+      "context": "（健忘　無心力　失志）"
+    },
+    {
+      "ordinal": 15,
+      "line_in_corrected_body": 1813,
+      "category": "layout_or_enumeration_separator",
+      "context": "（哭泣　余見癲邪）"
+    },
+    {
+      "ordinal": 16,
+      "line_in_corrected_body": 1833,
+      "category": "layout_or_enumeration_separator",
+      "context": "（心痹　余見心氣）"
+    },
+    {
+      "ordinal": 17,
+      "line_in_corrected_body": 1878,
+      "category": "layout_or_enumeration_separator",
+      "context": "（鬼邪　○扁鵲針邪病十三穴見千金）"
+    },
+    {
+      "ordinal": 18,
+      "line_in_corrected_body": 1887,
+      "category": "layout_or_enumeration_separator",
+      "context": "（狂走　狂言）"
+    },
+    {
+      "ordinal": 19,
+      "line_in_corrected_body": 1936,
+      "category": "layout_or_enumeration_separator",
+      "context": "風痙。背強反折。螈瘛瘲癲疾頭重。（銅）五處、治頭風目眩。螈瘛瘲。目戴上不識人。巨髎、治螈　口喎。（明同。）上關、治螈瘛瘲口沫出。目眩。牙車不開。口噤。少澤、治臂痛螈瘛瘲。咳嗽。頸項"
+    },
+    {
+      "ordinal": 20,
+      "line_in_corrected_body": 1936,
+      "category": "layout_or_enumeration_separator",
+      "context": "驚恐眵瞢。目睛不明。（明同。）前頂、治小兒驚癇風癇螈瘛瘲。（見驚癇。）昆侖、治小兒發癇螈　。"
+    },
+    {
+      "ordinal": 21,
+      "line_in_corrected_body": 1939,
+      "category": "layout_or_enumeration_separator",
+      "context": "（癇附　余論見風癇）"
+    },
+    {
+      "ordinal": 22,
+      "line_in_corrected_body": 1967,
+      "category": "layout_or_enumeration_separator",
+      "context": "（小兒驚癇　急驚風　慢驚風）"
+    },
+    {
+      "ordinal": 23,
+      "line_in_corrected_body": 1967,
+      "category": "layout_or_enumeration_separator",
+      "context": "（小兒驚癇　急驚風　慢驚風）"
+    },
+    {
+      "ordinal": 24,
+      "line_in_corrected_body": 2013,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見頭目眩　余論見風癇）"
+    },
+    {
+      "ordinal": 25,
+      "line_in_corrected_body": 2031,
+      "category": "layout_or_enumeration_separator",
+      "context": "（中風寒熱　余論見偏風）"
+    },
+    {
+      "ordinal": 26,
+      "line_in_corrected_body": 2074,
+      "category": "layout_or_enumeration_separator",
+      "context": "（中風口噤附　余見口啞　口眼喎）"
+    },
+    {
+      "ordinal": 27,
+      "line_in_corrected_body": 2074,
+      "category": "layout_or_enumeration_separator",
+      "context": "（中風口噤附　余見口啞　口眼喎）"
+    },
+    {
+      "ordinal": 28,
+      "line_in_corrected_body": 2082,
+      "category": "layout_or_enumeration_separator",
+      "context": "之。中風口喎。灸手交脈三壯。左灸右。右灸左。炷如鼠屎形橫安兩頭下火。口喎、刺承泣。（見目　。）"
+    },
+    {
+      "ordinal": 29,
+      "line_in_corrected_body": 2085,
+      "category": "layout_or_enumeration_separator",
+      "context": "（偏枯　半身不遂）"
+    },
+    {
+      "ordinal": 30,
+      "line_in_corrected_body": 2100,
+      "category": "layout_or_enumeration_separator",
+      "context": "（痰飲　吐沫　余見唾）"
+    },
+    {
+      "ordinal": 31,
+      "line_in_corrected_body": 2100,
+      "category": "layout_or_enumeration_separator",
+      "context": "（痰飲　吐沫　余見唾）"
+    },
+    {
+      "ordinal": 32,
+      "line_in_corrected_body": 2111,
+      "category": "layout_or_enumeration_separator",
+      "context": "（嘔血　吐血　余見唾）"
+    },
+    {
+      "ordinal": 33,
+      "line_in_corrected_body": 2111,
+      "category": "layout_or_enumeration_separator",
+      "context": "（嘔血　吐血　余見唾）"
+    },
+    {
+      "ordinal": 34,
+      "line_in_corrected_body": 2161,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見咳逆上氣　喘　傷寒嘔噦）"
+    },
+    {
+      "ordinal": 35,
+      "line_in_corrected_body": 2161,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見咳逆上氣　喘　傷寒嘔噦）"
+    },
+    {
+      "ordinal": 36,
+      "line_in_corrected_body": 2174,
+      "category": "layout_or_enumeration_separator",
+      "context": "（上氣　又見咳逆）"
+    },
+    {
+      "ordinal": 37,
+      "line_in_corrected_body": 2191,
+      "category": "layout_or_enumeration_separator",
+      "context": "（短氣　乏氣　結氣）"
+    },
+    {
+      "ordinal": 38,
+      "line_in_corrected_body": 2191,
+      "category": "layout_or_enumeration_separator",
+      "context": "（短氣　乏氣　結氣）"
+    },
+    {
+      "ordinal": 39,
+      "line_in_corrected_body": 2210,
+      "category": "layout_or_enumeration_separator",
+      "context": "（伏梁氣　息賁）"
+    },
+    {
+      "ordinal": 40,
+      "line_in_corrected_body": 2283,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸脅脹附　心脹　余見心腹滿脹）"
+    },
+    {
+      "ordinal": 41,
+      "line_in_corrected_body": 2283,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸脅脹附　心脹　余見心腹滿脹）"
+    },
+    {
+      "ordinal": 42,
+      "line_in_corrected_body": 2322,
+      "category": "layout_or_enumeration_separator",
+      "context": "（雜腫　四肢腫　石水）"
+    },
+    {
+      "ordinal": 43,
+      "line_in_corrected_body": 2322,
+      "category": "layout_or_enumeration_separator",
+      "context": "（雜腫　四肢腫　石水）"
+    },
+    {
+      "ordinal": 44,
+      "line_in_corrected_body": 2358,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸脅滿　龜胸）"
+    },
+    {
+      "ordinal": 45,
+      "line_in_corrected_body": 2379,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸痹痛　余見胸滿）"
+    },
+    {
+      "ordinal": 46,
+      "line_in_corrected_body": 2388,
+      "category": "layout_or_enumeration_separator",
+      "context": "（五噎　氣哽）"
+    },
+    {
+      "ordinal": 47,
+      "line_in_corrected_body": 2395,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸背　背脊　余見肩背勞瘵）"
+    },
+    {
+      "ordinal": 48,
+      "line_in_corrected_body": 2395,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胸背　背脊　余見肩背勞瘵）"
+    },
+    {
+      "ordinal": 49,
+      "line_in_corrected_body": 2412,
+      "category": "layout_or_enumeration_separator",
+      "context": "（肩膊　肩臂　余見背痛）"
+    },
+    {
+      "ordinal": 50,
+      "line_in_corrected_body": 2412,
+      "category": "layout_or_enumeration_separator",
+      "context": "（肩膊　肩臂　余見背痛）"
+    },
+    {
+      "ordinal": 51,
+      "line_in_corrected_body": 2459,
+      "category": "layout_or_enumeration_separator",
+      "context": "（肘攣　不仁）"
+    },
+    {
+      "ordinal": 52,
+      "line_in_corrected_body": 2481,
+      "category": "layout_or_enumeration_separator",
+      "context": "（手掣痛　余論見手麻）"
+    },
+    {
+      "ordinal": 53,
+      "line_in_corrected_body": 2490,
+      "category": "layout_or_enumeration_separator",
+      "context": "（手寒　手清　手心熱）"
+    },
+    {
+      "ordinal": 54,
+      "line_in_corrected_body": 2490,
+      "category": "layout_or_enumeration_separator",
+      "context": "（手寒　手清　手心熱）"
+    },
+    {
+      "ordinal": 55,
+      "line_in_corrected_body": 2508,
+      "category": "layout_or_enumeration_separator",
+      "context": "（不能立　不收）"
+    },
+    {
+      "ordinal": 56,
+      "line_in_corrected_body": 2523,
+      "category": "layout_or_enumeration_separator",
+      "context": "（脛寒　又見足雜病）"
+    },
+    {
+      "ordinal": 57,
+      "line_in_corrected_body": 2530,
+      "category": "layout_or_enumeration_separator",
+      "context": "（跟股䯒脛腨腿　髀樞　余見腳膝攣）"
+    },
+    {
+      "ordinal": 58,
+      "line_in_corrected_body": 2530,
+      "category": "layout_or_enumeration_separator",
+      "context": "（跟股䯒脛腨腿　髀樞　余見腳膝攣）"
+    },
+    {
+      "ordinal": 59,
+      "line_in_corrected_body": 2586,
+      "category": "layout_or_enumeration_separator",
+      "context": "（手足不舉　余見手足麻痹）"
+    },
+    {
+      "ordinal": 60,
+      "line_in_corrected_body": 2633,
+      "category": "layout_or_enumeration_separator",
+      "context": "三裡、治膝　酸痛。（銅）陽交、治喉痹。面腫。寒痹。膝䯒不收。條口、治膝䯒寒。足緩履不收。濕痹足下熱。陰"
+    },
+    {
+      "ordinal": 61,
+      "line_in_corrected_body": 2659,
+      "category": "layout_or_enumeration_separator",
+      "context": "（腰強　腰屈）"
+    },
+    {
+      "ordinal": 62,
+      "line_in_corrected_body": 2733,
+      "category": "layout_or_enumeration_separator",
+      "context": "（明云　嘈嘈蟬鳴。）"
+    },
+    {
+      "ordinal": 63,
+      "line_in_corrected_body": 2784,
+      "category": "layout_or_enumeration_separator",
+      "context": "通谷、治頭重目眩。善驚引鼽衄。頸項痛。目𥆨𥆨。（銅）神庭、（見鼻涕。）上關、（見螈　。）涌泉、譩譆、（見肩背痛。）束骨、（見腰僂。）魚際、大都、（見腹滿。）治目眩。"
+    },
+    {
+      "ordinal": 64,
+      "line_in_corrected_body": 2799,
+      "category": "layout_or_enumeration_separator",
+      "context": "（目𥆨𥆨目暗　目眇）"
+    },
+    {
+      "ordinal": 65,
+      "line_in_corrected_body": 2822,
+      "category": "layout_or_enumeration_separator",
+      "context": "（白翳　睊目𥌰目）"
+    },
+    {
+      "ordinal": 66,
+      "line_in_corrected_body": 2831,
+      "category": "layout_or_enumeration_separator",
+      "context": "（目黃　目青）"
+    },
+    {
+      "ordinal": 67,
+      "line_in_corrected_body": 2842,
+      "category": "layout_or_enumeration_separator",
+      "context": "（雀目　疳眼）"
+    },
+    {
+      "ordinal": 68,
+      "line_in_corrected_body": 2847,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見中風　偏風不語）"
+    },
+    {
+      "ordinal": 69,
+      "line_in_corrected_body": 2853,
+      "category": "layout_or_enumeration_separator",
+      "context": "下作吻。）喎斜。失欠脫頷。口噤不開。吃不能言。頰腫牙車痛。承漿、治（明下同。）巨髎、治螈　口喎。顴　、治口喎眼瞤動。（見眼瞤。）承泣、治口眼喎斜。目瞤面葉葉動牽口眼。目視𥆨𥆨。冷淚"
+    },
+    {
+      "ordinal": 70,
+      "line_in_corrected_body": 2853,
+      "category": "layout_or_enumeration_separator",
+      "context": "喎斜。失欠脫頷。口噤不開。吃不能言。頰腫牙車痛。承漿、治（明下同。）巨髎、治螈　口喎。顴　、治口喎眼瞤動。（見眼瞤。）承泣、治口眼喎斜。目瞤面葉葉動牽口眼。目視𥆨𥆨。冷淚眼眥赤痛。"
+    },
+    {
+      "ordinal": 71,
+      "line_in_corrected_body": 2853,
+      "category": "layout_or_enumeration_separator",
+      "context": "、（下同。）地倉、（見偏風。）療口喎。巨髎、療面風寒。鼻準上腫、癰痛。招搖視瞻。螈瘛瘲口　。"
+    },
+    {
+      "ordinal": 72,
+      "line_in_corrected_body": 2858,
+      "category": "layout_or_enumeration_separator",
+      "context": "（舌不能言　余見中風失音）"
+    },
+    {
+      "ordinal": 73,
+      "line_in_corrected_body": 2870,
+      "category": "layout_or_enumeration_separator",
+      "context": "大迎、治舌強不能言。翳風、主不能言。（千見螈　。）"
+    },
+    {
+      "ordinal": 74,
+      "line_in_corrected_body": 2873,
+      "category": "layout_or_enumeration_separator",
+      "context": "（吐舌　重舌）"
+    },
+    {
+      "ordinal": 75,
+      "line_in_corrected_body": 2884,
+      "category": "layout_or_enumeration_separator",
+      "context": "（欠伸　失欠）"
+    },
+    {
+      "ordinal": 76,
+      "line_in_corrected_body": 2909,
+      "category": "layout_or_enumeration_separator",
+      "context": "（牙齒齦腫　牙關急）"
+    },
+    {
+      "ordinal": 77,
+      "line_in_corrected_body": 2920,
+      "category": "layout_or_enumeration_separator",
+      "context": "（口噤　余見中風）"
+    },
+    {
+      "ordinal": 78,
+      "line_in_corrected_body": 3039,
+      "category": "layout_or_enumeration_separator",
+      "context": "（頭眩　又見頭旋）"
+    },
+    {
+      "ordinal": 79,
+      "line_in_corrected_body": 3050,
+      "category": "layout_or_enumeration_separator",
+      "context": "（偏頭痛　余見傷寒頭痛）"
+    },
+    {
+      "ordinal": 80,
+      "line_in_corrected_body": 3064,
+      "category": "layout_or_enumeration_separator",
+      "context": "惡寒。神庭、水溝、主寒熱頭痛。喘渴。目不可視。消濼、主寒熱痹頭痛。五處等、主頭痛。（見螈　。）"
+    },
+    {
+      "ordinal": 81,
+      "line_in_corrected_body": 3108,
+      "category": "layout_or_enumeration_separator",
+      "context": "（面赤　面黑）"
+    },
+    {
+      "ordinal": 82,
+      "line_in_corrected_body": 3116,
+      "category": "layout_or_enumeration_separator",
+      "context": "（熱病　陰證　陽證）"
+    },
+    {
+      "ordinal": 83,
+      "line_in_corrected_body": 3116,
+      "category": "layout_or_enumeration_separator",
+      "context": "（熱病　陰證　陽證）"
+    },
+    {
+      "ordinal": 84,
+      "line_in_corrected_body": 3155,
+      "category": "layout_or_enumeration_separator",
+      "context": "（余見自汗　傷寒無汗）"
+    },
+    {
+      "ordinal": 85,
+      "line_in_corrected_body": 3160,
+      "category": "layout_or_enumeration_separator",
+      "context": "（又見傷寒寒熱　中風寒熱）"
+    },
+    {
+      "ordinal": 86,
+      "line_in_corrected_body": 3171,
+      "category": "layout_or_enumeration_separator",
+      "context": "（冷氣　又見勞）"
+    },
+    {
+      "ordinal": 87,
+      "line_in_corrected_body": 3182,
+      "category": "layout_or_enumeration_separator",
+      "context": "（濕痹不仁　又見手足痹不仁）"
+    },
+    {
+      "ordinal": 88,
+      "line_in_corrected_body": 3191,
+      "category": "layout_or_enumeration_separator",
+      "context": "（傷寒自汗　盜汗）"
+    },
+    {
+      "ordinal": 89,
+      "line_in_corrected_body": 3232,
+      "category": "layout_or_enumeration_separator",
+      "context": "（癰疽　瘍瘻余見痔漏）"
+    },
+    {
+      "ordinal": 90,
+      "line_in_corrected_body": 3279,
+      "category": "layout_or_enumeration_separator",
+      "context": "（瘍瘻魚臍瘡　窩瘡　疳瘡）"
+    },
+    {
+      "ordinal": 91,
+      "line_in_corrected_body": 3279,
+      "category": "layout_or_enumeration_separator",
+      "context": "（瘍瘻魚臍瘡　窩瘡　疳瘡）"
+    },
+    {
+      "ordinal": 92,
+      "line_in_corrected_body": 3294,
+      "category": "layout_or_enumeration_separator",
+      "context": "（白癜風　疣目）"
+    },
+    {
+      "ordinal": 93,
+      "line_in_corrected_body": 3346,
+      "category": "layout_or_enumeration_separator",
+      "context": "（乳少　吐奶）"
+    },
+    {
+      "ordinal": 94,
+      "line_in_corrected_body": 3384,
+      "category": "layout_or_enumeration_separator",
+      "context": "（崩中漏下　惡露不止）"
+    },
+    {
+      "ordinal": 95,
+      "line_in_corrected_body": 3406,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胞衣不出　子搶心　落胎）"
+    },
+    {
+      "ordinal": 96,
+      "line_in_corrected_body": 3406,
+      "category": "layout_or_enumeration_separator",
+      "context": "（胞衣不出　子搶心　落胎）"
+    }
+  ]
+}
