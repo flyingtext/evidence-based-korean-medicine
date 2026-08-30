@@ -16,18 +16,37 @@ from convert_classics import DEFAULT_CORRECTIONS, DEFAULT_SOURCE, apply_correcti
 ROOT = Path(__file__).resolve().parents[1]
 STAGING = ROOT / "docs" / "원문" / "_가져오기"
 HEADING_TAG_RE = re.compile(r"\[h([1-6])\](.*?)\[/h\1\]", re.DOTALL | re.IGNORECASE)
+INLINE_FORMAT_TAG_RE = re.compile(r"</?(?:ins|u)>|\[/?u\]", re.IGNORECASE)
 
 
 def significant(char: str) -> bool:
     return not char.isspace() and not unicodedata.category(char).startswith("P")
 
 
+def significant_positions(text: str) -> list[int]:
+    ignored: set[int] = set()
+    for match in INLINE_FORMAT_TAG_RE.finditer(text):
+        ignored.update(range(match.start(), match.end()))
+    return [
+        index
+        for index, char in enumerate(text)
+        if index not in ignored and significant(char)
+    ]
+
+
 def signature(text: str) -> str:
-    return "".join(char for char in text if significant(char))
+    return "".join(text[index] for index in significant_positions(text))
 
 
 def punctuation_signature(text: str) -> str:
-    return "".join(char for char in text if unicodedata.category(char).startswith("P"))
+    ignored: set[int] = set()
+    for match in INLINE_FORMAT_TAG_RE.finditer(text):
+        ignored.update(range(match.start(), match.end()))
+    return "".join(
+        char
+        for index, char in enumerate(text)
+        if index not in ignored and unicodedata.category(char).startswith("P")
+    )
 
 
 def split_title(text: str) -> tuple[str, str]:
@@ -36,7 +55,7 @@ def split_title(text: str) -> tuple[str, str]:
 
 
 def sync_body(rendered: str, desired: str) -> tuple[str, dict[str, int]]:
-    positions = [index for index, char in enumerate(rendered) if significant(char)]
+    positions = significant_positions(rendered)
     old = "".join(rendered[index] for index in positions)
     new = signature(desired)
     matcher = difflib.SequenceMatcher(a=old, b=new, autojunk=False)

@@ -63,6 +63,7 @@ CHINESE_TO_ASCII = str.maketrans(
     }
 )
 ASCII_PUNCT_RE = re.compile(r"[.,!?;:]")
+LEGACY_UNDERLINE_TAG_RE = re.compile(r"\[(/?)u\]", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -422,6 +423,11 @@ def main() -> int:
             rendered.append(chunk_outputs[chunk_cursor].rstrip() + "\n\n")
             chunk_cursor += 1
     markdown = space_after_punctuation("".join(rendered).strip()) + "\n"
+    # jicheng.tw의 [u] 표식은 결자가 아니라 밑줄/강조 서식이다. Markdown에서
+    # 그대로 노출되지 않도록 변환기의 표준 표현인 <ins>로 정규화한다.
+    markdown = LEGACY_UNDERLINE_TAG_RE.sub(
+        lambda match: "</ins>" if match.group(1) else "<ins>", markdown
+    )
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(markdown, encoding="utf-8")
 
