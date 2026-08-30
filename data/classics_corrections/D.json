@@ -3612,6 +3612,22 @@
       "reason": "jicheng 공개 전문 대조",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%96%E5%8A%91/index.html",
       "evidence_note": "白湯下𥭕有人"
+    },
+    {
+      "before": "肌肉重著□□□□□□無官桂",
+      "after": "肌肉重著四肢緩縱□□無官桂",
+      "expected_count": 1,
+      "reason": "처방 원출전과 공개 영인을 대조해 연속 결자 네 글자를 복원",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E4%B8%89%E5%9B%A0%E6%A5%B5%E4%B8%80%E7%97%85%E8%AD%89%E6%96%B9%E8%AB%96/index.html",
+      "evidence_note": "《三因極一病證方論》 附子湯과 早稻田 공개 영인 《古今醫鑑》이 肌肉重著四肢緩縱으로 일치함"
+    },
+    {
+      "before": "治少□□□□□□中和其背惡寒者",
+      "after": "治少陰病一二日口中和其背惡寒者",
+      "expected_count": 1,
+      "reason": "《傷寒論》 少陰病 조문과 후대 평행문을 대조해 연속 결자 여섯 글자를 복원",
+      "evidence_url": "https://archive.wul.waseda.ac.jp/kosho/ya09/ya09_00905/ya09_00905_0012/ya09_00905_0012.pdf",
+      "evidence_note": "康治本 《傷寒論》 및 《醫學綱目》《傷寒明理論》의 少陰病一二日口中和 조문과 일치함"
     }
   ],
   "D/D001.txt": [
