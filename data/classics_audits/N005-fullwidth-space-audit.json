@@ -1,0 +1,21 @@
+{
+  "source_path": "N/N005.txt",
+  "title": "柳洲醫話",
+  "source_fullwidth_spaces": 21,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 21,
+  "reflowed_layout_spaces_in_corrected_text": 21,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 21자리와 [u]·placeholder 전수 검사",
+    "jicheng 최신 정리본 221개 표제·문단 전문 대조",
+    "Wikisource 《柳洲醫話》 독립 전문으로 결락 구절과 희귀자 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E6%9F%B3%E6%B4%B2%E9%86%AB%E8%A9%B1/index.html",
+    "https://zh.wikisource.org/zh-hant/%E6%9F%B3%E6%B4%B2%E9%86%AB%E8%A9%B1"
+  ],
+  "corrected_body_sha256": "470c1d3a3b7eb708efb6de820d55243917bf054f6cb3ff59b61ae64ee4984e2d",
+  "note": "21개 전각 공백은 결자가 아니라 처방 약미 구분용 판면 공백으로 판정했으며 최신 문단 구조에서는 일반 구두점과 문단 경계로 재배치했다. 별도로 黃耆 등 단자 결락과 補中升氣湯 설명의 연속 탈락을 복원하고 香港腳 자동번역 잔재를 腳氣로 교정했다."
+}

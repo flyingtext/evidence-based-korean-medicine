@@ -1,0 +1,21 @@
+{
+  "source_path": "J/J003.txt",
+  "title": "江氏傷科學",
+  "source_fullwidth_spaces": 684,
+  "restored_or_normalized_positions": 0,
+  "preserved_layout_spaces": 684,
+  "reflowed_layout_spaces_in_corrected_text": 815,
+  "additional_non_space_omissions_restored": true,
+  "unresolved": 0,
+  "method": [
+    "전각 공백 684자리와 placeholder 전수 검사",
+    "jicheng 최신 정리본 282개 표제·문단 전문 대조",
+    "Wikisource 《江氏傷科學》 독립 전문으로 결락 처방과 용량 교차 확인"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E6%B1%9F%E6%B0%8F%E5%82%B7%E7%A7%91%E5%AD%B8/index.html",
+    "https://zh.wikisource.org/zh-hant/%E6%B1%9F%E6%B0%8F%E5%82%B7%E7%A7%91%E5%AD%B8"
+  ],
+  "corrected_body_sha256": "5599aa00f6ed5c0f58534c7ce6bf8f68421a976342dcad205950e852dca92325",
+  "note": "원자료의 전각 공백은 처방 약미·용량 구분용이므로 보존했다. 다수 공백 주변에서 처방 구성 전체 행과 단문이 소실되어 있어 두 공개 전문을 대조하여 재구성했고, 최신 정리본의 판면 공백 815자리를 반영했다."
+}
