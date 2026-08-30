@@ -1,0 +1,22 @@
+{
+  "source_path": "I/I207.txt",
+  "title": "集驗背疽方",
+  "source_fullwidth_spaces": 174,
+  "missing_character_spaces": 20,
+  "restored_broken_tokens": 1,
+  "preserved_layout_spaces_after_correction": 155,
+  "mixed_missing_and_layout_slots": 1,
+  "unresolved": 0,
+  "method": [
+    "jicheng.tw 최신 교감 전문과 전역 문맥 정렬",
+    "Wikisource 및 CText 독립 전사 교차 대조",
+    "약재 열거·용법 설명의 판면 공백과 실제 결자를 전수 수동 분류",
+    "생성 마크다운 잔존 HT·KT·□·U+FFFD·[c] 검사"
+  ],
+  "evidence_urls": [
+    "https://jicheng.tw/tcm/book/%E9%9B%86%E9%A9%97%E8%83%8C%E7%96%BD%E6%96%B9/index.html",
+    "https://zh.wikisource.org/zh-hant/%E9%9B%86%E9%A9%97%E8%83%8C%E7%96%BD%E6%96%B9",
+    "https://ctext.org/wiki.pl?if=gb&res=150080"
+  ],
+  "note": "전각 공백 174곳 중 20곳이 결자 위치이며, 이 가운데 黃耆와 杏仁 사이 한 곳은 결자 복원 뒤에도 약재 구분 공백을 보존했다. 순수 판면 공백 154곳과 이 혼합 슬롯 1곳을 합쳐 교정 후 155곳을 보존했다. HT 1곳은 확장 한자 𪗼로 복원했다."
+}
