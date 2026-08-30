@@ -430,5 +430,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html",
     "evidence_note": "E/E004.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "韓HT　和之《微旨》",
+    "after": "韓祗和之《微旨》",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=520657&if=en",
+    "evidence_note": "《傷寒微旨論》 저자 韓祗和의 인명이다.",
+    "reason": "《傷寒微旨論》 저자 韓祗和의 인명이다."
+  },
+  {
+    "before": "所有痙病現證，皆風木剛強屈HT　之象",
+    "after": "所有痙病現證，皆風木剛強屈伸之象",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html",
+    "evidence_note": "경련의 굴신을 뜻하는 대구 ‘剛強屈伸之象’으로 공개 전문과 문맥이 일치한다.",
+    "reason": "경련의 굴신을 뜻하는 대구 ‘剛強屈伸之象’으로 공개 전문과 문맥이 일치한다."
+  },
+  {
+    "before": "如所云太陽證體強，KT　KT　然，脈沉遲之類",
+    "after": "如所云太陽證體強，幾幾然，脈沉遲之類",
+    "expected_count": 1,
+    "evidence_url": "https://www.nricm.edu.tw/var/file/0/1000/attach/36/pta_3761_8287998_02463.pdf",
+    "evidence_note": "《溫病條辨·解兒難》의 해당 문장이 학술 자료에 ‘太陽證體強，幾幾然，脈沉遲’로 직접 인용되어 있다.",
+    "reason": "《溫病條辨·解兒難》의 해당 문장이 학술 자료에 ‘太陽證體強，幾幾然，脈沉遲’로 직접 인용되어 있다."
   }
 ]

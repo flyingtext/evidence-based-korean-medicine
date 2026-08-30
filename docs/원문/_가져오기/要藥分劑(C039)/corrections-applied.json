@@ -550,5 +550,69 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
     "evidence_note": "C/C039.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "三風　忽不知人",
+    "after": "三風懿忽不知人",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "중풍 사분류의 風懿.",
+    "reason": "중풍 사분류의 風懿."
+  },
+  {
+    "before": "惡黃　、山萸",
+    "after": "惡黃耆、山萸",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "약명 黃耆.",
+    "reason": "약명 黃耆."
+  },
+  {
+    "before": "入黃　四君子湯則補脾",
+    "after": "入黃耆四君子湯則補脾",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "약명 黃耆.",
+    "reason": "약명 黃耆."
+  },
+  {
+    "before": "主寒熱鼠　。瘰　生瘡",
+    "after": "主寒熱鼠瘻。瘰癧生瘡",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "병명 鼠瘻·瘰癧.",
+    "reason": "병명 鼠瘻·瘰癧."
+  },
+  {
+    "before": "寇宗　曰。小兒驚狂壯熱",
+    "after": "寇宗奭曰。小兒驚狂壯熱",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "인명 寇宗奭.",
+    "reason": "인명 寇宗奭."
+  },
+  {
+    "before": "小兒驚啼螈　",
+    "after": "小兒驚啼螈瘲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "胸滿咳逆上氣。溫中。出汗。逐風濕痹。腸　下痢",
+    "after": "胸滿咳逆上氣。溫中。出汗。逐風濕痹。腸澼下痢",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "병명 腸澼.",
+    "reason": "병명 腸澼."
+  },
+  {
+    "before": "采取煎淋結成。亦如硝石、　砂之類",
+    "after": "采取煎淋結成。亦如硝石、硇砂之類",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+    "evidence_note": "광물 약명 硇砂.",
+    "reason": "광물 약명 硇砂."
   }
 ]

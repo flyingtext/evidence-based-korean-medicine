@@ -478,5 +478,37 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%8B%AC%E8%A6%81/index.html",
     "evidence_note": "B/B019.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "恐成動悸水結胸咳嘔KT　噦腫滿下利等症",
+    "after": "恐成動悸水結胸咳嘔噎噦腫滿下利等症",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
+    "evidence_note": "傷寒의 수음 변증에서 나란히 드는 병후 ‘咳嘔噎噦’의 噎이다.",
+    "reason": "傷寒의 수음 변증에서 나란히 드는 병후 ‘咳嘔噎噦’의 噎이다."
+  },
+  {
+    "before": "又有四肢HT　HT　。動而不已。似螈",
+    "after": "又有四肢瞤瞤。動而不已。似螈",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E5%A4%AA%E9%99%BD%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB%E4%B8%AD",
+    "evidence_note": "근육이 떨려 움직이는 병후 瞤動과 같은 글자이며 중첩형 瞤瞤이다.",
+    "reason": "근육이 떨려 움직이는 병후 瞤動과 같은 글자이며 중첩형 瞤瞤이다."
+  },
+  {
+    "before": "主太陽病。項背強。KT　KT　。及汗出。惡風。　按詩豳風野狼跋云。赤寫KT　KT　。注云。KT　KT拘貌",
+    "after": "主太陽病。項背強。几几。及汗出。惡風。　按詩豳風野狼跋云。赤寫几几。注云。几几拘貌",
+    "expected_count": 1,
+    "evidence_url": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E7%A2%A9&title=%E5%87%A0%E5%87%A0",
+    "evidence_note": "본문이 직접 인용한 《詩經·豳風·狼跋》의 ‘赤舄几几’와 주석의 표제어가 모두 几几로 확인된다.",
+    "reason": "본문이 직접 인용한 《詩經·豳風·狼跋》의 ‘赤舄几几’와 주석의 표제어가 모두 几几로 확인된다."
+  },
+  {
+    "before": "主太陽病。項背強。KT　KT　。無汗惡風。KT　KT　。注見前",
+    "after": "主太陽病。項背強。几几。無汗惡風。几几。注見前",
+    "expected_count": 1,
+    "evidence_url": "https://www.tcmxs.com/showrepost-84-5642.html",
+    "evidence_note": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다.",
+    "reason": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다."
   }
 ]

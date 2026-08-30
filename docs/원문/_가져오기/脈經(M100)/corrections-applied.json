@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "before": "實脈，大而長，微強，按之隱指　然",
+    "after": "實脈，大而長，微強，按之隱指愊愊然",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "實脈 형용 愊愊然.",
+    "reason": "實脈 형용 愊愊然."
+  },
+  {
+    "before": "苦恍惚，健忘，目視KT　KT　，耳聾",
+    "after": "苦恍惚，健忘，目視䀮䀮，耳聾",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "腎病의 目視䀮䀮.",
+    "reason": "腎病의 目視䀮䀮."
+  },
+  {
+    "before": "腸　，便血，身熱則死",
+    "after": "腸澼，便血，身熱則死",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "병명 腸澼.",
+    "reason": "병명 腸澼."
+  },
+  {
+    "before": "腸　下白沫，脈沉則生",
+    "after": "腸澼下白沫，脈沉則生",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "병명 腸澼.",
+    "reason": "병명 腸澼."
+  },
+  {
+    "before": "腸　，下膿血，脈懸絕則死",
+    "after": "腸澼，下膿血，脈懸絕則死",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "병명 腸澼.",
+    "reason": "병명 腸澼."
+  },
+  {
+    "before": "心脈急甚，為螈　",
+    "after": "心脈急甚，為螈瘲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "脾脈急甚，為螈　",
+    "after": "脾脈急甚，為螈瘲",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "병증 螈瘲.",
+    "reason": "병증 螈瘲."
+  },
+  {
+    "before": "如循琅　，曰平",
+    "after": "如循琅玕，曰平",
+    "expected_count": 1,
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+    "evidence_note": "平心脈 형용 琅玕.",
+    "reason": "平心脈 형용 琅玕."
+  }
+]

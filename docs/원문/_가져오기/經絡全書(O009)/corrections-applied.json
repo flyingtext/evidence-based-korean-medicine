@@ -1590,5 +1590,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html",
     "evidence_note": "O/O009.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "[h3]八、〔HT〕[/h3]\n（眉目之間，闕庭之部也",
+    "after": "[h3]八、〔頞〕[/h3]\n（眉目之間，闕庭之部也",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/371",
+    "evidence_note": "眉目 사이 闕庭 부위를 가리키는 해부 표제 頞이며, 뒤의 頏顙·鼻 문맥과 일치한다.",
+    "reason": "眉目 사이 闕庭 부위를 가리키는 해부 표제 頞이며, 뒤의 頏顙·鼻 문맥과 일치한다."
+  },
+  {
+    "before": "少陽絡者，其百節縱，目HT　絕系。目系絕",
+    "after": "少陽絡者，其百節縱，目睘絕系。目系絕",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_435_%281700-1725%29.djvu/70",
+    "evidence_note": "《診要經終論》 평행문 ‘目睘絕系’가 공개 영인 전사에서 확인된다.",
+    "reason": "《診要經終論》 평행문 ‘目睘絕系’가 공개 영인 전사에서 확인된다."
+  },
+  {
+    "before": "足少陰之脈，是動則病目KT　KT　如無所見",
+    "after": "足少陰之脈，是動則病目䀮䀮如無所見",
+    "expected_count": 1,
+    "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+    "evidence_note": "《靈樞·經脈》 인용구 ‘目䀮䀮如無所見’로 직접 확인된다.",
+    "reason": "《靈樞·經脈》 인용구 ‘目䀮䀮如無所見’로 직접 확인된다."
+  },
+  {
+    "before": "其病虛則欠KT　，小便遺數",
+    "after": "其病虛則欠㰦，小便遺數",
+    "expected_count": 1,
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=75533",
+    "evidence_note": "《靈樞》 手太陰別絡 조문의 ‘虛則欠㰦，小便遺數’다.",
+    "reason": "《靈樞》 手太陰別絡 조문의 ‘虛則欠㰦，小便遺數’다."
+  },
+  {
+    "before": "其病實則手銳掌熱，虛則欠KT　，小便遺數，取之去腕半寸",
+    "after": "其病實則手銳掌熱，虛則欠㰦，小便遺數，取之去腕半寸",
+    "expected_count": 1,
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=75533",
+    "evidence_note": "같은 《靈樞》 조문의 두 번째 직접 인용이다.",
+    "reason": "같은 《靈樞》 조문의 두 번째 직접 인용이다."
+  },
+  {
+    "before": "欠KT　，張口伸腰也，虛固肺氣不足，故為欠KT　。及小便遺而且數",
+    "after": "欠㰦，張口伸腰也，虛固肺氣不足，故為欠㰦。及小便遺而且數",
+    "expected_count": 1,
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=75533",
+    "evidence_note": "앞 경문의 표제어 欠㰦를 풀이하고 반복한 문맥이다.",
+    "reason": "앞 경문의 표제어 欠㰦를 풀이하고 반복한 문맥이다."
+  },
+  {
+    "before": "體倦則伸，志倦則KT　也",
+    "after": "體倦則伸，志倦則㰦也",
+    "expected_count": 1,
+    "evidence_url": "https://ctext.org/dictionary.pl?if=en&char=%E3%B0%A6",
+    "evidence_note": "앞서 정의한 欠㰦의 단자 㰦 반복이다.",
+    "reason": "앞서 정의한 欠㰦의 단자 㰦 반복이다."
   }
 ]

@@ -21336,6 +21336,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
       "evidence_note": "I/I201.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "肝為水　，以淚出如水",
+      "after": "肝為水痘，以淚出如水",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "오장 배속의 水痘.",
+      "reason": "오장 배속의 水痘."
+    },
+    {
+      "before": "肺為膿　，以涕稠濁",
+      "after": "肺為膿痘，以涕稠濁",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "오장 배속의 膿痘.",
+      "reason": "오장 배속의 膿痘."
+    },
+    {
+      "before": "故膿　、水皆大",
+      "after": "故膿痘、水痘皆大",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "앞 병명 반복 두 occurrence.",
+      "reason": "앞 병명 반복 두 occurrence."
+    },
+    {
+      "before": "考命門背KT　七節間之穴",
+      "after": "考命門背脊七節間之穴",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "命門 위치 背脊七節間.",
+      "reason": "命門 위치 背脊七節間."
+    },
+    {
+      "before": "命門者，背KT　七節間之穴也。背KT　二十一節",
+      "after": "命門者，背脊七節間之穴也。背脊二十一節",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "背脊 반복 두 occurrence.",
+      "reason": "背脊 반복 두 occurrence."
+    },
+    {
+      "before": "切不可用參、　、甘、芷、朮、桂",
+      "after": "切不可用參、耆、甘、芷、朮、桂",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%97%A7%E7%96%B9%E8%BC%AF%E8%A6%81/index.html",
+      "evidence_note": "보약 參、耆.",
+      "reason": "보약 參、耆."
     }
   ],
   "I/I202.txt": [
