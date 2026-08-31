@@ -566,5 +566,327 @@
     "expected_count": 1,
     "reason": "癰 치료에 쓰는 連翹草 및 그 뿌리 문맥이다.",
     "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "小兒風癎陰[c]klmc[/c]脫肛",
+    "after": "小兒風癎陰痿脫肛",
+    "expected_count": 1,
+    "reason": "陰痿와 脫肛이 병렬된 본초 효능문이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "豬 [c]bsll[/c]（壹具去脂）",
+    "after": "豬 胰（壹具去脂）",
+    "expected_count": 1,
+    "reason": "具 단위로 쓰고 삶아 즙을 내는 약용 豬胰이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "面[c]bsll[/c]",
+    "after": "面皰",
+    "expected_count": 2,
+    "reason": "面皰瘡瘢·面皰甚의 피부병 문맥이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "鼻[c]bsll[/c]方",
+    "after": "鼻皰方",
+    "expected_count": 1,
+    "reason": "酒㾴鼻皰의 피부 병명 병렬이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "下崩血如腐[c]ilmi[/c]者",
+    "after": "下崩血如腐肉者",
+    "expected_count": 1,
+    "reason": "자매본이 ‘下崩血如腐肉者’로 직접 전한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "羊[c]ilmi[/c]當歸湯",
+    "after": "羊肉當歸湯",
+    "expected_count": 1,
+    "reason": "처방명 羊肉當歸湯이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "以水貳斗煮[c]ilmi[/c]取壹斗",
+    "after": "以水貳斗煮肉取壹斗",
+    "expected_count": 1,
+    "reason": "羊肉湯 조리 절차의 煮肉이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]hvajv[/c]鼠",
+    "after": "鼹鼠",
+    "expected_count": 2,
+    "reason": "공개 《千金翼方》 목차와 본초 항목이 鼹鼠로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]namvn[/c]帶灰",
+    "after": "甑帶灰",
+    "expected_count": 1,
+    "reason": "공개본의 초부 목록에 甑帶灰로 수록된다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]namvn[/c]本、棗葉",
+    "after": "藁本、棗葉",
+    "expected_count": 1,
+    "reason": "처방 약물 목록의 藁本이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "釣[c]ifytj[/c]根皮",
+    "after": "釣樟根皮",
+    "expected_count": 1,
+    "reason": "공개본 목부 목록이 釣樟根皮로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "木蝱、蜚[c]plmi[/c]、蜚蠊",
+    "after": "木蝱、蜚蝱、蜚蠊",
+    "expected_count": 1,
+    "reason": "공개본 충어부 목록의 木虻·蜚虻·蜚蠊 병렬과 일치한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]thdb[/c]豆（葉附）",
+    "after": "扁豆（葉附）",
+    "expected_count": 1,
+    "reason": "공개본 미곡부 항목이 扁豆로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "面上瘢[c]mwmj[/c]",
+    "after": "面上瘢皯",
+    "expected_count": 1,
+    "reason": "얼굴의 검은 반점인 瘢皯이며 자매본도 같은 위치를 결자로 표시한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "汁去面[c]mwmj[/c]",
+    "after": "汁去面皯",
+    "expected_count": 1,
+    "reason": "菟絲子 즙으로 제거하는 面皯이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "風頭腦痛面[c]mwmj[/c]",
+    "after": "風頭腦痛面皯",
+    "expected_count": 1,
+    "reason": "辛夷 효능의 面皯이며 얼굴 병증의 병렬에 맞는다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "滅黑[c]wfmj[/c]",
+    "after": "滅黑䵟",
+    "expected_count": 1,
+    "reason": "白殭蠶 효능의 黑䵟이며 코드 WFMJ의 유니코드 후보와 기존 교정이 일치한다.",
+    "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "[c]tgum[/c]根味甘寒平",
+    "after": "𧄍根味甘寒平",
+    "expected_count": 1,
+    "reason": "공개본 유명의약 목록이 𧄍根으로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "蠼[c]tgum[/c]尿瘡",
+    "after": "蠼螋尿瘡",
+    "expected_count": 1,
+    "reason": "곤충명 蠼螋와 그 요창의 고정어이다.",
+    "evidence": "https://dict.revised.moe.edu.tw/dictView.jsp?ID=103129"
+  },
+  {
+    "before": "一名蜂[c]wdks[/c]，生[c]hqtq[/c]牱山谷",
+    "after": "一名蜂窠，生牂牱山谷",
+    "expected_count": 1,
+    "reason": "露蜂房의 이명 蜂窠와 지명 牂牱이며 공개 본초 문맥과 일치한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "生熊耳川谷及[c]hqtq[/c]牱",
+    "after": "生熊耳川谷及牂牱",
+    "expected_count": 1,
+    "reason": "본초 산지 牂牱의 반복이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "即裝刀靶[c]nfta[/c]魚皮也",
+    "after": "即裝刀靶鮫魚皮也",
+    "expected_count": 1,
+    "reason": "바로 앞 약재 鮫魚皮를 풀이한 반복문이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]bitc[/c]石味甘平無毒",
+    "after": "陵石味甘平無毒",
+    "expected_count": 1,
+    "reason": "공개본 유명의약 목록에서 해당 항목을 陵石으로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]nltbc[/c]華味甘無毒",
+    "after": "𨹻華味甘無毒",
+    "expected_count": 1,
+    "reason": "공개본 유명의약 목록의 𨹻華와 일치한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]romm[/c]味甘無毒，主益氣延年",
+    "after": "腂味甘無毒，主益氣延年",
+    "expected_count": 1,
+    "reason": "공개본 유명의약 목록에서 해당 항목을 腂로 직접 식별한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]ipwk[/c]古味辛微溫無毒",
+    "after": "烏古味辛微溫無毒",
+    "expected_count": 1,
+    "reason": "공개본 유명의약 목록의 烏古와 해당 본문 문맥이 일치한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "主五[c]khem[/c]，破石淋",
+    "after": "主五癃，破石淋",
+    "expected_count": 1,
+    "reason": "비뇨기 병증 五癃과 石淋의 병렬이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "[c]dkmf[/c]花、梨花",
+    "after": "柰花、梨花",
+    "expected_count": 1,
+    "reason": "果部의 柰와 연속 꽃 약재 목록의 柰花이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "小薊根葉（剉）、[c]tofq[/c]母",
+    "after": "小薊根葉（剉）、貝母",
+    "expected_count": 1,
+    "reason": "처방 약재 貝母이며 공개본 약명 목록과 일치한다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "腹大如[c]bumvn[/c]，短氣欲死",
+    "after": "腹大如瓮，短氣欲死",
+    "expected_count": 1,
+    "reason": "월경폐색의 복대 형상을 ‘如瓮’으로 표현한 고정 비유다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "陽氣壯則夢涉大火而燔[c]ftlb[/c]",
+    "after": "陽氣壯則夢涉大火而燔爇",
+    "expected_count": 1,
+    "reason": "불에 타는 뜻의 고정 결합 燔爇이다.",
+    "evidence": "https://ctext.org/huangdi-neijing/yin-xie-fa-meng"
+  },
+  {
+    "before": "或煮或虀或炒或[c]komr[/c]",
+    "after": "或煮或虀或炒或蒸",
+    "expected_count": 1,
+    "reason": "식물 조리법 煮·虀·炒·蒸의 병렬이다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "忌生[c]tcip[/c]海藻",
+    "after": "忌生葱海藻",
+    "expected_count": 1,
+    "reason": "의방의 상용 복약 금기 ‘生葱、海藻’ 병렬이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "或如[c]htbou[/c]血凝停胃中",
+    "after": "或如衃血凝停胃中",
+    "expected_count": 1,
+    "reason": "응고된 검은 피를 뜻하는 고전 의학어 衃血이다.",
+    "evidence": "https://ctext.org/dictionary.pl?if=en&char=%E8%A1%83"
+  },
+  {
+    "before": "主[c]byrn[/c]耳中虺蛇毒",
+    "after": "主聤耳中虺蛇毒",
+    "expected_count": 1,
+    "reason": "귀에서 고름이 나는 병명 聤耳이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]kypu[/c]瘧（五服）",
+    "after": "痎瘧（五服）",
+    "expected_count": 1,
+    "reason": "학질 병명 痎瘧이며 공개본 목차에도 직접 수록된다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "名曰[c]kmbb[/c]風",
+    "after": "名曰癩風",
+    "expected_count": 1,
+    "reason": "전신 반점·인설·창양을 열거한 癩風의 정의다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "柏葉、[c]gehd[/c]皮、大黃",
+    "after": "柏葉、楮皮、大黃",
+    "expected_count": 1,
+    "reason": "처방 약재 楮皮이며 바로 앞에도 楮葉가 열거된다.",
+    "evidence": "https://qihuang.vip/book-48.html"
+  },
+  {
+    "before": "更[c]ymmb[/c]盛之",
+    "after": "更囊盛之",
+    "expected_count": 1,
+    "reason": "앞 문장의 ‘分作五袋’와 ‘薄袋’에 이어 다시 주머니에 담는 囊盛之이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "千金云食[c]mwp[/c]肉",
+    "after": "千金云食豬肉",
+    "expected_count": 1,
+    "reason": "해당 외대·천금 방주의 식육 표기는 豬肉이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "一息八至為無[c]mmii[/c]",
+    "after": "一息八至為無魂",
+    "expected_count": 1,
+    "reason": "자매본이 동일 문장을 ‘一息八至為無魂’으로 직접 전한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "一息九至為無[c]hahi[/c]",
+    "after": "一息九至為無魄",
+    "expected_count": 1,
+    "reason": "자매본이 동일 문장을 ‘一息九至為無魄’으로 직접 전한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "歸來下鼠[c]hvoto[/c]上一寸",
+    "after": "歸來下鼠鼷上一寸",
+    "expected_count": 1,
+    "reason": "氣衝穴 위치의 해부 지표 鼠鼷이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "卒中風口喎以[c]hdmq[/c]筒長五寸",
+    "after": "卒中風口喎以竹筒長五寸",
+    "expected_count": 1,
+    "reason": "귀 구멍에 넣고 뜸을 전달하는 도구 竹筒이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "咽懸[c]yvgb[/c]及足指",
+    "after": "咽懸雍及足指",
+    "expected_count": 1,
+    "reason": "목젖의 고전 명칭 懸雍이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "東方青氣入口[c]temb[/c]七咽",
+    "after": "東方青氣入口滿七咽",
+    "expected_count": 1,
+    "reason": "기운을 입에 가득 받아 일곱 번 삼키는 주술 절차의 滿이다.",
+    "evidence": "source/D/D002.txt"
   }
 ]

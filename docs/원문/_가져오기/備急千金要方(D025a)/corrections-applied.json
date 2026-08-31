@@ -352,5 +352,251 @@
     "after": "䖟",
     "expected_count": 17,
     "evidence": "Unicode 17.0 Unihan kCangjie=YVLMI의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]abq[/c]",
+    "after": "郁",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]anrrl[/c]",
+    "after": "鬥",
+    "expected_count": 3,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]bbapv[/c]",
+    "after": "𩩲",
+    "expected_count": 9,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]bbwl[/c]",
+    "after": "髆",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]brhr[/c]",
+    "after": "膂",
+    "expected_count": 4,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]bsll[/c]",
+    "after": "髓",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]buylc[/c]",
+    "after": "眇",
+    "expected_count": 3,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]cyta[/c]",
+    "after": "鏡",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]deice[/c]",
+    "after": "皸",
+    "expected_count": 4,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]elwo[/c]",
+    "after": "淹",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]fdir[/c]",
+    "after": "餳",
+    "expected_count": 7,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]ggj[/c]",
+    "after": "丸",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]hhhk[/c]",
+    "after": "傴",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]htln[/c]",
+    "after": "兜",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]je[/c]",
+    "after": "即",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]jntt[/c]",
+    "after": "羹",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]kdam[/c]",
+    "after": "皶",
+    "expected_count": 4,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]khoo[/c]",
+    "after": "㿅",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]klwp[/c]",
+    "after": "曳",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]liijc[/c]",
+    "after": "蟆",
+    "expected_count": 4,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]lisew[/c]",
+    "after": "蠮",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]litaa[/c]",
+    "after": "艾",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]lphn[/c]",
+    "after": "兜",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]mrbhg[/c]",
+    "after": "屑",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]plk[/c]",
+    "after": "哯",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]pma[/c]",
+    "after": "常",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]ptcl[/c]",
+    "after": "懶",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]qyki[/c]",
+    "after": "攪",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]rgno[/c]",
+    "after": "嚏",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]rsav[/c]",
+    "after": "夜",
+    "expected_count": 4,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]shoir[/c]",
+    "after": "鬇",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tble[/c]",
+    "after": "蔻",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tbmk[/c]",
+    "after": "蓂",
+    "expected_count": 3,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]thdb[/c]",
+    "after": "扁",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tjmp[/c]",
+    "after": "威",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tkg[/c]",
+    "after": "翮",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tmso[/c]",
+    "after": "葳",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tqjr[/c]",
+    "after": "白",
+    "expected_count": 2,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]trrv[/c]",
+    "after": "虎",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tthaf[/c]",
+    "after": "吻",
+    "expected_count": 1,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]ysf[/c]",
+    "after": "頓",
+    "expected_count": 5,
+    "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
   }
 ]

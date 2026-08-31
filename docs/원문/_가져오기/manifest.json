@@ -2933,15 +2933,18 @@
       "output_directory": "千金翼方(D002a)",
       "markdown_files": 30,
       "translation_units": 212,
-      "corrections_applied": 81,
+      "corrections_applied": 127,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '[c]cimvn[/c]' (16/13)",
         "교정 불일치: '[c]jcpkp[/c]' (15/11)",
         "교정 불일치: '[c]khpu[/c]' (13/10)",
         "교정 불일치: '[c]kjjh[/c]' (15/14)",
+        "교정 불일치: '[c]klmc[/c]' (5/4)",
         "교정 불일치: '[c]lbe[/c]' (25/23)",
         "교정 불일치: '[c]ukb[/c]' (78/57)",
+        "교정 불일치: '[c]wfmj[/c]黶' (0/1)",
+        "교정 불일치: '㾴[c]bsll[/c]' (0/1)",
         "교정 불일치: '豬[c]bsll[/c]' (8/7)"
       ]
     },
@@ -3400,7 +3403,7 @@
       "output_directory": "備急千金要方(D025a)",
       "markdown_files": 36,
       "translation_units": 247,
-      "corrections_applied": 59,
+      "corrections_applied": 100,
       "punctuated": false,
       "warnings": []
     },
@@ -12349,7 +12352,7 @@
       "output_directory": "中國醫籍考(O076)",
       "markdown_files": 80,
       "translation_units": 154,
-      "corrections_applied": 739,
+      "corrections_applied": 745,
       "punctuated": false,
       "warnings": []
     },

@@ -276,10 +276,10 @@
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 146,
+      "unresolved_candidates": 60,
       "punctuation_status": "source_present",
-      "note": "기존 6개 규칙을 CRLF 정규화 후 순차 적용하면 129코드 354좌표가 남는다. Unicode 17.0 Unihan kCangjie에서 코드가 단 하나의 문자로 역해석되고 D025/천금방 문맥과 모순이 없는 53코드 208좌표만 확정했다. 복수 후보 또는 Unihan 미등재인 76코드 146좌표는 희귀 원자형 추정을 피하기 위해 보류했다. 기존 6개 규칙은 모두 기대 횟수대로 적용되어 remove_rules 대상이 없었다. 전각 공백은 유지했다.",
-      "remaining_count": 146,
+      "note": "배치91 적용 후 잔여 76코드 146좌표를 재대조하여, 자매본·공개 천금방·직접 인용의 고정어/약재명/해부명으로 전 출현이 일치하는 41코드 86좌표를 확정했다. 남은 35코드 60좌표는 동일 코드의 이체자 복수 후보, 원문 자체의 교감 논의, 또는 공개본 결자로 인해 보류했다. 전각 공백은 유지했다.",
+      "remaining_count": 60,
       "status": "in_progress"
     },
     "D/D004a.txt": {
@@ -3484,10 +3484,10 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 119,
+      "unresolved_candidates": 64,
       "punctuation_status": "source_present",
-      "note": "기존 51개 교정을 순차 적용한 뒤 잔여 [c] 좌표 337개를 재집계했다. 이 중 문맥·자매본·공개 평행문·유니코드 kCangjie로 안전하게 확정되는 218좌표를 해소한다. 코드가 같아도 문맥별 정규자가 달라지는 사례는 일괄 치환하지 않았고, 전각 공백은 변경·집계하지 않았다.",
-      "remaining_count": 119,
+      "note": "배치91 적용 후 남은 119좌표 중 공개 《千金翼方》 목차·본문, 자매본, 직접 인용 및 고정 의약 문맥으로 확정되는 좌표만 추가 해소했다. 전각 공백은 유지했다.",
+      "remaining_count": 64,
       "status": "in_progress"
     },
     "D/D018.txt": {
@@ -4222,9 +4222,11 @@
     },
     "O/O076.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1411,
+      "unresolved_candidates": 1404,
       "punctuation_status": "source_present",
-      "note": "대규모 인용 집성이라 남은 HT·KT·□가 서로 다른 문헌과 판본에 걸쳐 있다. 현행 공개 전사도 동일 결락을 포함하는 경우가 많아 이번 감사에서는 추정 복원을 하지 않았고 기존 비조판 공백 감사값을 유지했다. 기존 비조판 공백 감사 기준을 유지해 잔여 1411자리로 보정했다."
+      "note": "기존 739개 교정 적용 산출물에서 [c]는 0개이며, 명시 표식은 HT 71·KT 25·□ 324였다. 이번에 독립 평행문과 서지 고정구로 HT 7좌표를 6개 occurrence-specific 규칙으로 확정했다(첫 규칙이 HT 2좌표). 나머지 HT/KT/□는 대규모 인용문·인명·연속 판면 손상으로 독립 자형을 확보하지 못해 보류한다. 전각 공백은 유지하고 기존 status 1411에서 실제 7좌표만 차감했다.",
+      "remaining_count": 1404,
+      "status": "in_progress"
     },
     "O/O084.txt": {
       "collation_status": "in_progress",

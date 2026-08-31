@@ -94665,6 +94665,42 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8",
       "evidence_note": "《古今醫統大全》에 수록된 徐春甫 자서의 동일 문장이 ‘辨釋條達，僭名曰內經要旨’로 확인됨.",
       "reason": "《古今醫統大全》에 수록된 徐春甫 자서의 동일 문장이 ‘辨釋條達，僭名曰內經要旨’로 확인됨."
+    },
+    {
+      "before": "余性好醫方。問道無HT　。斯經章句。特承師授。既而耽研無HT　。十載於茲。",
+      "after": "余性好醫方。問道無倦。斯經章句。特承師授。既而耽研無斁。十載於茲。",
+      "expected_count": 1,
+      "evidence": "《難經集注》楊玄操序의 독립 전사가 `問道無倦…既而耽研無斁`으로 보존한다. https://cloudtcm.com/library/774/411689"
+    },
+    {
+      "before": "有道士。過求飲。留一瓠HT　與之。曰。君子孫宜以道術救世。",
+      "after": "有道士。過求飲。留一瓠𤬛與之。曰。君子孫宜以道術救世。",
+      "expected_count": 1,
+      "evidence": "《南史·徐文伯傳》 계열의 독립 인용과 연구 논문이 모두 `留一瓠𤬛與之`로 보존한다. https://www.ch.ntnu.edu.tw/BOC/downloadfile.php?issue_id=71&paper_id=642"
+    },
+    {
+      "before": "非不微有發明。未暇HT　梓。而汲汲是編。不敢隱秘自私。",
+      "after": "非不微有發明。未暇付梓。而汲汲是編。不敢隱秘自私。",
+      "expected_count": 1,
+      "evidence": "`付梓`는 저술을 판각한다는 고정 서지어이며, 해당 열거 뒤의 `未暇付梓`가 문법·서지 문맥상 유일하다. 동일 저작 공개본 대조: https://zh.wikisource.org/zh-hant/%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%B1%8D%E8%80%83"
+    },
+    {
+      "before": "其用心亦良矣。江南醫士。HT　所未睹。今虞成夫喜得茲本。",
+      "after": "其用心亦良矣。江南醫士。咸所未睹。今虞成夫喜得茲本。",
+      "expected_count": 1,
+      "evidence": "동 문헌의 공개 영인 OCR과 문장 구조가 `江南醫士，咸所未睹`를 지지한다. https://upload.wikimedia.org/wikipedia/commons/c/cb/NLC511-023031404016588-25587_%E5%AE%8B%E4%BB%A5%E5%89%8D%E9%86%AB%E7%B1%8D%E8%80%83._%E7%AC%AC%E4%BA%8C%E8%BC%AF.pdf"
+    },
+    {
+      "before": "推展活人之惠。其志尤可嘉。以HT　見潔古之有功於叔和。",
+      "after": "推展活人之惠。其志尤可嘉。以是見潔古之有功於叔和。",
+      "expected_count": 1,
+      "evidence": "앞 문장을 받아 결론을 내리는 고정 문형 `以是見…`이며 동일 인용문의 논리와 일치한다. 동일 저작 공개본: https://zh.wikisource.org/zh-hant/%E4%B8%AD%E5%9B%BD%E5%8C%BB%E7%B1%8D%E8%80%83"
+    },
+    {
+      "before": "脈要新括一卷。通真子撰。以叔和脈訣。有　HT　鄙俗處。疑非叔和作。",
+      "after": "脈要新括一卷。通真子撰。以叔和脈訣。有俚鄙俗處。疑非叔和作。",
+      "expected_count": 1,
+      "evidence": "독립 《中國醫籍考》 전사가 같은 서지 인용을 `有俚鄙俗處`로 제시한다. https://www.theqi.com/cmed/oldbook/book91/b91_18.html"
     }
   ],
   "O/O084.txt": [
