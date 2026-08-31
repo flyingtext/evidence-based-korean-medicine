@@ -17640,6 +17640,42 @@
       "expected_count": 1,
       "reason": "공개 원자료 전사와 공개 판면의 희귀 미곡명을 그대로 보존",
       "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+    },
+    {
+      "before": "然KT　KT　溫溫劑頸擗地之類",
+      "after": "然𠘧𠘧溫溫劑頸擗地之類",
+      "expected_count": 1,
+      "reason": "凡例가 뒤 본문의 자훈 대상 ‘項背強𠘧𠘧’을 열거한 문맥."
+    },
+    {
+      "before": "〔柯〕KT　KT　更甚於項強",
+      "after": "〔柯〕𠘧𠘧更甚於項強",
+      "expected_count": 1,
+      "reason": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’에 대한 주석."
+    },
+    {
+      "before": "即生HT　癤瘡痍",
+      "after": "即生疿癤瘡痍",
+      "expected_count": 1,
+      "reason": "오장 열증 뒤 피부 병변의 정형 병명 열거 疿癤瘡痍."
+    },
+    {
+      "before": "豆豉。HT　熟而輕浮",
+      "after": "豆豉。蒸熟而輕浮",
+      "expected_count": 1,
+      "reason": "豆豉의 제조·약성을 설명하는 문맥에서 ‘蒸熟’이 문법과 제법에 부합."
+    },
+    {
+      "before": "脈微（【原注】一作□）而復利",
+      "after": "脈微（【原注】一作遲）而復利",
+      "expected_count": 1,
+      "reason": "《傷寒論》 四逆加人參湯 조문의 교감 이문 ‘脈微（一作遲）而復利’."
+    },
+    {
+      "before": "若食餅KT　黍飴　炙膾棗栗",
+      "after": "若食餅餤黍飴　炙膾棗栗",
+      "expected_count": 1,
+      "reason": "병후 음식 금기의 고전 정형 열거 ‘餅餤、黍飴、炙膾、棗栗’."
     }
   ],
   "B/B104.txt": [
@@ -23976,6 +24012,216 @@
       "reason": "원문 자체의 교감주가 결자를 玄으로 확정한다.",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/NLC416-06jh009206-17184_%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96.pdf",
       "evidence_note": "공개 영인·부찰기 계통과 원문 교감주의 玄參 판정이 일치한다."
+    },
+    {
+      "before": "茵蔯丸，療瘴氣及黃病[c]kppa[/c]瘧。\n茵＠、梔子、鱉",
+      "after": "茵蔯丸，療瘴氣及黃病痎瘧。\n茵＠、梔子、鱉",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kppa: 동일 조문의 병명 `黃病痰癖，時氣傷食痎瘧` 및 痎瘧의 고전 용례로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "若黃病痰癖，時氣傷食[c]kppa[/c]瘧，\n小兒驚熱欲發癇",
+      "after": "若黃病痰癖，時氣傷食痎瘧，\n小兒驚熱欲發癇",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kppa: 동일 조문의 병명 `黃病痰癖，時氣傷食痎瘧` 및 痎瘧의 고전 용례로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "眼中頻顏用之。\n下部[c]mtki[/c]瘡雄黃散，\n雄黃、青",
+      "after": "眼中頻顏用之。\n下部䘌瘡雄黃散，\n雄黃、青",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "溫飲，日二服。\n\n治[c]mtki[/c]瘡青黛丸，\n青黛、丁",
+      "after": "溫飲，日二服。\n\n治䘌瘡青黛丸，\n青黛、丁",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "湯半升，投吐，之下部[c]mtki[/c]自差，神良。\n\n天行",
+      "after": "湯半升，投吐，之下部䘌自差，神良。\n\n天行",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "、雄黃〔各壹分〕、([c]mrbtv[/c])砂〔半分〕、草烏頭",
+      "after": "、雄黃〔各壹分〕、(硇)砂〔半分〕、草烏頭",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mrbtv: 처방 약명 `硇砂`와 동일 문헌의 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "、重舌、木舌、遁蟲、[c]lilwl[/c]喋、飛系入喉，\n元祐",
+      "after": "、重舌、木舌、遁蟲、蚛喋、飛系入喉，\n元祐",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 lilwl: 동일 문헌의 열거 `遁蟲、蚛喋、飛糸入喉`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "藥。\n霜梅上白鹽、([c]mrbtv[/c])砂、焰消〔各等分〕",
+      "after": "藥。\n霜梅上白鹽、(硇)砂、焰消〔各等分〕",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mrbtv: 처방 약명 `硇砂`와 동일 문헌의 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "發，出於肌膚，斑爛隱[c]kjjh[/c]如錦文也。\n治溫毒發",
+      "after": "發，出於肌膚，斑爛隱軫如錦文也。\n治溫毒發",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kjjh: `斑爛隱軫如錦文`의 고전 직접 인용과 본문 교주 `薛本…作疹`이 원문 표제어 軫을 뒷받침. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "始發於肌中，斑爛隱\n[c]kjjh[/c]如錦紋，而欬悶嘔吐清",
+      "after": "始發於肌中，斑爛隱\n軫如錦紋，而欬悶嘔吐清",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kjjh: `斑爛隱軫如錦文`의 고전 직접 인용과 본문 교주 `薛本…作疹`이 원문 표제어 軫을 뒷받침. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "有青筋牽，\n夏有赤脈[c]qlnc[/c]，秋有白氣貍，冬有黑",
+      "after": "有青筋牽，\n夏有赤脈㩌，秋有白氣貍，冬有黑",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "盞。\n\n[h4]赤脈[c]qlnc[/c]證[/h4]\n夏三月",
+      "after": "盞。\n\n[h4]赤脈㩌證[/h4]\n夏三月",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "h4]\n夏三月行赤脈[c]qlnc[/c]病，其源自少陰太陽。",
+      "after": "h4]\n夏三月行赤脈㩌病，其源自少陰太陽。",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "作驚發癇，不乳，溫壯[c]rndk[/c]啀，皆可斟酌與服，以",
+      "after": "作驚發癇，不乳，溫壯嗞啀，皆可斟酌與服，以",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 rndk: 직접 인용 `嗞啀不定是躁` 및 해당 문맥 `溫壯嗞啀`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "證，漐〔丑入切，汗出[c]hac[/c]〕，怫〔扶物切，意不",
+      "after": "證，漐〔丑入切，汗出然〕，怫〔扶物切，意不",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 hac: 각 음훈 문장의 `漐然`·`曈曈…然`·`張目…然` 문법과 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "徒東切，曈曈，日欲明[c]hac[/c]〕，晡〔布胡切，申時",
+      "after": "徒東切，曈曈，日欲明然〕，晡〔布胡切，申時",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 hac: 각 음훈 문장의 `漐然`·`曈曈…然`·`張目…然` 문법과 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "疾也〕。\n不可下證，[c]hsks[/c]〔居員切〕。\n結胸證",
+      "after": "疾也〕。\n不可下證，卷〔居員切〕。\n結胸證",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 hsks: 바로 뒤 음주 `居員切`이 卷의 반절과 일치하여 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "相連\n之意〕。\n赤脈[c]qlnc[/c]證，[c]qlnc[",
+      "after": "相連\n之意〕。\n赤脈㩌證，[c]qlnc[",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "qlnc[/c]證，[c]qlnc[/c]〔芳未切，擊化也，赤",
+      "after": "qlnc[/c]證，㩌〔芳未切，擊化也，赤",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "火，火性炎上，故好爭[c]qlnc[/c]\n者，相擊化也，故有",
+      "after": "火，火性炎上，故好爭㩌\n者，相擊化也，故有",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "黃肉隨所次列之於赤脈[c]qlnc[/c]之後〕，顳〔仁\n涉切",
+      "after": "黃肉隨所次列之於赤脈㩌之後〕，顳〔仁\n涉切",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "上，虛牙切，唅呀張目[c]hac[/c]，下，呼甲切，說文云",
+      "after": "上，虛牙切，唅呀張目然，下，呼甲切，說文云",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 hac: 각 음훈 문장의 `漐然`·`曈曈…然`·`張目…然` 문법과 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "惟荊芥散生用〕。\n([c]mrbtv[/c])砂〔研〕。\n白礬〔",
+      "after": "惟荊芥散生用〕。\n(硇)砂〔研〕。\n白礬〔",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mrbtv: 처방 약명 `硇砂`와 동일 문헌의 공개 전사로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "筋牽柴胡地黃湯，赤脈[c]qlnc[/c]石膏地黃湯，黃\n肉隨",
+      "after": "筋牽柴胡地黃湯，赤脈㩌石膏地黃湯，黃\n肉隨",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 qlnc: 음훈 `芳未切，擊化也` 및 공개 전사의 병명 `赤脈㩌證`으로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "。\n七十三面，一行，[c]mtki[/c]瘡[z]薛本作[c]",
+      "after": "。\n七十三面，一行，䘌瘡[z]薛本作[c]",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "/c]瘡[z]薛本作[c]mtki[/c]，按此誤，當作[c]",
+      "after": "/c]瘡[z]薛本作䘌，按此誤，當作[c]",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "/c]，按此誤，當作[c]mtki[/c]，後四行同[/z]。",
+      "after": "/c]，按此誤，當作䘌，後四行同[/z]。",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 mtki: 동일 처방의 직접 표제 `下部䘌瘡雄黃散`과 후속 `䘌瘡青黛丸`로 판독. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "\n九十一面，二行，隱[c]kjjh[/c][z]薛本[c]kj",
+      "after": "\n九十一面，二行，隱軫[z]薛本[c]kj",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kjjh: `斑爛隱軫如錦文`의 고전 직접 인용과 본문 교주 `薛本…作疹`이 원문 표제어 軫을 뒷받침. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "h[/c][z]薛本[c]kjjh[/c]作疹[/z]。\n九十",
+      "after": "h[/c][z]薛本軫作疹[/z]。\n九十",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 kjjh: `斑爛隱軫如錦文`의 고전 직접 인용과 본문 교주 `薛本…作疹`이 원문 표제어 軫을 뒷받침. occurrence 고유 좌우 문맥."
+    },
+    {
+      "before": "\n一二六面，三行，足[c]imoin[/c][z]薛本顧本皆作冷",
+      "after": "\n一二六面，三行，足冷[z]薛本顧本皆作冷",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html",
+      "evidence_note": "B002a 외자 imoin: 본문 교주가 `足…薛本顧本皆作冷`이라고 직접 밝힌 이문으로 판독. occurrence 고유 좌우 문맥."
     }
   ]
 }

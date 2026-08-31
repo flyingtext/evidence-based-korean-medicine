@@ -174,7 +174,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 384,
       "punctuation_status": "source_present",
-      "note": "현재 correction shard 항목이 없다. 전각 공백 522곳 중 기존 감사상 처방표 조판을 제외한 384곳은 공개 판면과 자리별 대조가 되지 않아 신규 없음. 검증 applied=0/0, warnings=0, overlaps=0."
+      "note": "기존 조판·미확정 분류를 유지했다. 이번 재교감에서 occurrence 단위로 추가 확정 가능한 독립 근거가 없어 신규 없음."
     },
     "F/F015.txt": {
       "collation_status": "in_progress",
@@ -198,7 +198,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 407,
       "punctuation_status": "source_present",
-      "note": "최신 shard 74규칙 적용 문서에는 HT/KT/□/PUA/[c]가 남지 않았다. review status의 비조판 전각공백 후보 407좌표는 독립 판면 없이 신규 확정 규칙을 만들 수 없어 보류."
+      "note": "HT/KT/□ 잔여 0. 전각 공백 1255개는 歌括·처방 조판 비중이 높아 결자 marker와 분리. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 407자리로 유지한다."
     },
     "D/D075a.txt": {
       "collation_status": "in_progress",
@@ -366,7 +366,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 386,
       "punctuation_status": "source_present",
-      "note": "최신 shard 178규칙을 유지한다. 하나의 occurrence-고유 문맥 규칙으로 KT 6좌표를 복원하여 review status 392에서 386으로 감소. 잔여 비조판 공백은 판면 대조 전 보류."
+      "note": "HT/KT/□ 잔여 0. 전각 공백 1147개는 金匱 처방 조판과 희귀자 결락이 혼재하나 이번 결자 집중 감사에서 독립 확정할 marker는 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 386자리로 유지한다."
     },
     "B/B015.txt": {
       "collation_status": "in_progress",
@@ -444,7 +444,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 447,
       "punctuation_status": "source_present",
-      "note": "최신 shard 규칙은 없으며 변환된 Markdown에는 HT·KT·□·PUA·전각 공백·[c] 문자열이 보이지 않는다. 그러나 감사표와 review status가 원자료 [c] 외자 447좌표의 변환 전 소실 또는 미매핑을 기록한다. 현재 Markdown에 occurrence 좌표가 없어 고유 before 규칙을 안전하게 만들 수 없으므로 신규 0개, warnings=0, overlap=0이다."
+      "note": "현재 Markdown에는 HT·KT·□·PUA·전각공백·legacy [c]가 없고, 감사표의 원자료 [c] 447좌표는 변환 과정에서 occurrence 좌표가 소실된 상태다. 안전한 before 문맥을 만들 수 없어 보류한다."
     },
     "B/B001.txt": {
       "collation_status": "in_progress",
@@ -454,9 +454,9 @@
     },
     "B/B002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 382,
+      "unresolved_candidates": 352,
       "punctuation_status": "source_present",
-      "note": "기존 3개 규칙은 㕮咀·㽲痛·玄參을 교정한다. B002와의 고유 문맥 정렬에서 안전한 단일 문자 대응이 없어 신규 없음. 잔여 [c]33·[z]329·□20을 합산했다. 검증 applied=3/3, warnings=0, overlaps=0."
+      "note": "B002 및 공개 《傷寒總病論》 전사·본문 자체 음훈/교주로 외자 30 occurrence를 고유 문맥 규칙으로 복원. thvo 3곳은 동일 코드가 문맥상 불명확하여 보류."
     },
     "B/B008.txt": {
       "collation_status": "complete",
@@ -3034,9 +3034,9 @@
     },
     "B/B027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 419,
+      "unresolved_candidates": 411,
       "punctuation_status": "source_present",
-      "note": "최신 B shard 121규칙을 유지하는 증분안이다. 현재 출력에서 각 before는 1회이며 8규칙은 서로 및 기존 적용 좌표와 비중첩이다. 가상 적용 후 HT 2·KT 28·□ 1, 전각 공백 642곳이다. 기존 조판 254곳을 빼면 비조판 공백 388곳이고 총 잔여는 419좌표다. IDS로만 확인되는 ⿸疒背 및 자형 논설의 KT는 영인 재판독 전 보류. warnings=0, overlap=0."
+      "note": "초기 HT2·KT28·□1 중 8표지를 고전 정문·자체 주석으로 확정. 나머지는 𠘧 자형론 및 噎/䭇 계열 희귀자라 occurrence별 판면 대조 전 보류. 표점본은 장문에 마침표 위주로 표점 밀도가 낮지만 이는 결자 교감과 별도 개선 과제임. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 411자리로 유지한다."
     },
     "B/B035.txt": {
       "collation_status": "in_progress",
@@ -3096,7 +3096,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 404,
       "punctuation_status": "source_present",
-      "note": "최신 shard 88규칙을 유지하는 신규 3규칙으로 HT 5좌표를 모두 해소했다. 다만 review status 409에는 비조판 공백 404좌표가 포함되어 있어 승격 불가."
+      "note": "HT/KT/□ 잔여 0. 전각 공백 1425개는 처방·주석 조판과 혼재하여 별도 판면 감사 대상. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 404자리로 유지한다."
     },
     "B/B009.txt": {
       "collation_status": "in_progress",
@@ -4026,7 +4026,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 385,
       "punctuation_status": "source_present",
-      "note": "최신 shard 8규칙을 유지하는 증분안. review status 387에서 인명 HT 2좌표를 해소했다. 남은 HT/KT/□는 접근 가능한 전사도 이형·결자를 보존하거나 문맥상 복수 후보라 보류."
+      "note": "기존 목표 글자 裴頠를 《晉書》로 재확인했다. 잘못된 변환 후 Markdown 문맥 `### 裴HT`를 실제 raw source `[h4]裴HT[/h4]`로 수선하여 미적용 1좌표를 해소했다."
     },
     "O/O050.txt": {
       "collation_status": "in_progress",
@@ -4060,9 +4060,9 @@
     },
     "O/O045.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 462,
+      "unresolved_candidates": 461,
       "punctuation_status": "source_present",
-      "note": "최신 O shard 173규칙이 반영된 현재 출력은 HT 20·KT 17·전각 공백 437곳이다. 감사 분류의 조판 12곳을 제외한 비조판 공백 425곳과 표식 37곳이 남는다. 공개 jicheng 전사가 남은 희귀 병명·자형 결락을 공유해 독립 판면 없이 유일 확정하지 않았다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "최신 잔여462에서 蠱毒 감별법 1좌표만 확정했다. 나머지 HT20·KT17 계열 희귀 병명·외자와 비조판 공백은 원판 없이 보류한다. 기존173규칙과 중첩 없음."
     },
     "O/O056.txt": {
       "collation_status": "in_progress",
@@ -4110,7 +4110,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 480,
       "punctuation_status": "source_present",
-      "note": "기존 79개 규칙은 모두 정상 적용된다. 판면 조판 1112곳을 제외한 전각 후보472와 HT8은 공개 전사도 동일 결자를 공유해 신규 없음. 검증 applied=79/79, warnings=0, overlaps=0."
+      "note": "전각 후보472와 HT8을 재검토했다. HT는 心字 소전 도형·편집 괄호·희자 문맥이며 공개 전사도 동일 표식을 공유한다. 도형을 임의 문자화하지 않고 기존 조판1112 및 79규칙을 유지한다."
     },
     "O/O066.txt": {
       "collation_status": "in_progress",
@@ -4206,7 +4206,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 471,
       "punctuation_status": "source_present",
-      "note": "최신 O shard 118규칙이 반영되어 HT·KT·□·PUA·[c]는 0이다. 전각 공백 1168곳 중 기존 조판 판정 697곳을 제외한 471곳은 공개 jicheng 전사도 같은 결락을 공유하여 신규 확정 규칙을 만들지 않았다. warnings=0, overlap=0이다."
+      "note": "명시적 특수표지는 0이며 전각공백1168 중 조판697을 제외한471이 남는다. 공개 전사도 같은 결락을 공유해 신규 확정 없음."
     },
     "O/O092.txt": {
       "collation_status": "in_progress",
@@ -4260,7 +4260,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 374,
       "punctuation_status": "source_present",
-      "note": "기존 37개 규칙은 모두 적용된다. 남은 KT38은 噎·𠘧 등 유력 반복군이 있으나 같은 코드가 문맥별로 다른 희자를 대표하므로 occurrence별 독립 판독 전 신규 없음. 검증 applied=37/37, warnings=0, overlaps=0."
+      "note": "기존 조판·미확정 분류를 유지했다. 이번 재교감에서 occurrence 단위로 추가 확정 가능한 독립 근거가 없어 신규 없음."
     },
     "P/P0002.txt": {
       "collation_status": "in_progress",

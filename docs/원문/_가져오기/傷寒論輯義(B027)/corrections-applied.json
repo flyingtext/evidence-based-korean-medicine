@@ -1022,5 +1022,41 @@
     "expected_count": 1,
     "reason": "공개 원자료 전사와 공개 판면의 희귀 미곡명을 그대로 보존",
     "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "然KT　KT　溫溫劑頸擗地之類",
+    "after": "然𠘧𠘧溫溫劑頸擗地之類",
+    "expected_count": 1,
+    "reason": "凡例가 뒤 본문의 자훈 대상 ‘項背強𠘧𠘧’을 열거한 문맥."
+  },
+  {
+    "before": "〔柯〕KT　KT　更甚於項強",
+    "after": "〔柯〕𠘧𠘧更甚於項強",
+    "expected_count": 1,
+    "reason": "桂枝加葛根湯 조문의 ‘項背強𠘧𠘧’에 대한 주석."
+  },
+  {
+    "before": "即生HT　癤瘡痍",
+    "after": "即生疿癤瘡痍",
+    "expected_count": 1,
+    "reason": "오장 열증 뒤 피부 병변의 정형 병명 열거 疿癤瘡痍."
+  },
+  {
+    "before": "豆豉。HT　熟而輕浮",
+    "after": "豆豉。蒸熟而輕浮",
+    "expected_count": 1,
+    "reason": "豆豉의 제조·약성을 설명하는 문맥에서 ‘蒸熟’이 문법과 제법에 부합."
+  },
+  {
+    "before": "脈微（【原注】一作□）而復利",
+    "after": "脈微（【原注】一作遲）而復利",
+    "expected_count": 1,
+    "reason": "《傷寒論》 四逆加人參湯 조문의 교감 이문 ‘脈微（一作遲）而復利’."
+  },
+  {
+    "before": "若食餅KT　黍飴　炙膾棗栗",
+    "after": "若食餅餤黍飴　炙膾棗栗",
+    "expected_count": 1,
+    "reason": "병후 음식 금기의 고전 정형 열거 ‘餅餤、黍飴、炙膾、棗栗’."
   }
 ]

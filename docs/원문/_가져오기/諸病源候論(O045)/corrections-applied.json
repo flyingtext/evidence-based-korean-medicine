@@ -1382,5 +1382,13 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
     "evidence_note": "바로 앞 射罔藥의 축약 반복이다.",
     "reason": "바로 앞 射罔藥의 축약 반복이다."
+  },
+  {
+    "before": "日晚口含，以齒微微微HT　之，勿令破，作兩炊時",
+    "after": "日晚口含，以齒微微齧之，勿令破，作兩炊時",
+    "expected_count": 1,
+    "reason": "蠱毒 감별법의 독립 전사와 같은 책의 평행 설명이 삶은 달걀 흰자를 이로 살짝 깨문 뒤 깨뜨리지는 말라는 동작을 보존한다. ‘微微齧之’가 문법과 동작에 맞으며 중복 微와 HT는 OCR 산물이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+    "evidence_note": "공개 전문의 평행문은 ‘令病人齒齧雞子白處’로 직접 확인된다. 대상 권25에서 전체 문맥 1회 발생한다."
   }
 ]

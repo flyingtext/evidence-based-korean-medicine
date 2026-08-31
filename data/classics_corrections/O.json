@@ -29022,6 +29022,14 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
       "evidence_note": "바로 앞 射罔藥의 축약 반복이다.",
       "reason": "바로 앞 射罔藥의 축약 반복이다."
+    },
+    {
+      "before": "日晚口含，以齒微微微HT　之，勿令破，作兩炊時",
+      "after": "日晚口含，以齒微微齧之，勿令破，作兩炊時",
+      "expected_count": 1,
+      "reason": "蠱毒 감별법의 독립 전사와 같은 책의 평행 설명이 삶은 달걀 흰자를 이로 살짝 깨문 뒤 깨뜨리지는 말라는 동작을 보존한다. ‘微微齧之’가 문법과 동작에 맞으며 중복 微와 HT는 OCR 산물이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96_1/index.html",
+      "evidence_note": "공개 전문의 평행문은 ‘令病人齒齧雞子白處’로 직접 확인된다. 대상 권25에서 전체 문맥 1회 발생한다."
     }
   ],
   "O/O065.txt": [
@@ -114254,10 +114262,13 @@
       "reason": "茴香의 옛 이름 蘹香子."
     },
     {
-      "before": "### 裴HT",
-      "after": "### 裴頠",
+      "before": "[h4]裴HT[/h4]",
+      "after": "[h4]裴頠[/h4]",
       "expected_count": 1,
-      "evidence": "《晉書》 계열 인명 및 독립 《醫說》 영인 전사가 裴頠(간체 확장자 𫖮)로 확정한다."
+      "evidence": "《晉書》 계열 인명 및 독립 《醫說》 영인 전사가 裴頠(간체 확장자 𫖮)로 확정한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%89%E6%9B%B8/%E5%8D%B735",
+      "evidence_note": "《晉書》卷35 裴秀傳의 `頠字逸民，弘雅有遠識，博學稽古` 및 河東聞喜 인물 정보로 裴頠 확정. 기존 규칙의 목표 글자는 옳고, 변환 후 Markdown 표제(###)를 raw source 태그에 잘못 사용한 before/after 형식만 수선.",
+      "reason": "《晉書》 인명 裴頠 재확인 및 raw [h4] 태그 문맥 수선"
     },
     {
       "before": "裴HT　字逸之河東人也",

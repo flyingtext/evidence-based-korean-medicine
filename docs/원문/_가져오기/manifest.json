@@ -757,7 +757,7 @@
       "output_directory": "傷寒總病論(B002a)",
       "markdown_files": 10,
       "translation_units": 80,
-      "corrections_applied": 3,
+      "corrections_applied": 33,
       "punctuated": false,
       "warnings": []
     },
@@ -1367,7 +1367,7 @@
       "output_directory": "傷寒論輯義(B027)",
       "markdown_files": 10,
       "translation_units": 50,
-      "corrections_applied": 129,
+      "corrections_applied": 135,
       "punctuated": false,
       "warnings": []
     },
@@ -11705,7 +11705,7 @@
       "output_directory": "諸病源候論(O045)",
       "markdown_files": 51,
       "translation_units": 1737,
-      "corrections_applied": 173,
+      "corrections_applied": 174,
       "punctuated": false,
       "warnings": []
     },
@@ -11765,11 +11765,9 @@
       "output_directory": "醫說(O048)",
       "markdown_files": 11,
       "translation_units": 911,
-      "corrections_applied": 9,
+      "corrections_applied": 10,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '### 裴HT' (0/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "O/O049.txt",

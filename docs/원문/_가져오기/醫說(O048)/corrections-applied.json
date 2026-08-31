@@ -64,6 +64,15 @@
     "reason": "茴香의 옛 이름 蘹香子."
   },
   {
+    "before": "[h4]裴HT[/h4]",
+    "after": "[h4]裴頠[/h4]",
+    "expected_count": 1,
+    "evidence": "《晉書》 계열 인명 및 독립 《醫說》 영인 전사가 裴頠(간체 확장자 𫖮)로 확정한다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%89%E6%9B%B8/%E5%8D%B735",
+    "evidence_note": "《晉書》卷35 裴秀傳의 `頠字逸民，弘雅有遠識，博學稽古` 및 河東聞喜 인물 정보로 裴頠 확정. 기존 규칙의 목표 글자는 옳고, 변환 후 Markdown 표제(###)를 raw source 태그에 잘못 사용한 before/after 형식만 수선.",
+    "reason": "《晉書》 인명 裴頠 재확인 및 raw [h4] 태그 문맥 수선"
+  },
+  {
     "before": "裴HT　字逸之河東人也",
     "after": "裴頠字逸之河東人也",
     "expected_count": 1,
