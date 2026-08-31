@@ -518,5 +518,40 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html",
     "evidence_note": "O/O078.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "壯歲棄去。HT　家學濟世幾三十年。功大溥。頃之又HT為施諸利濟。不若垂之於言。功益大溥。爰著傷寒醫徹一書。勒成一家言。自余雜症　次舉。遂貽顧子",
+    "after": "壯歲棄去。㠯家學濟世幾三十年。功大溥。頃之又㠯為施諸利濟。不若垂之於言。功益大溥。爰著傷寒醫徹一書。勒成一家言。自余雜症㠯次舉。遂貽顧子",
+    "expected_count": 1,
+    "reason": "서문의 연속 세 용례가 공개 원자료 전사에서 모두 저본 자형 㠯로 확인됨",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html"
+  },
+  {
+    "before": "聽聲HT　至寫形",
+    "after": "聽聲㠯至寫形",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 㠯를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html"
+  },
+  {
+    "before": "有仲景氏HT　神功聞",
+    "after": "有仲景氏㠯神功聞",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 㠯를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html"
+  },
+  {
+    "before": "生民脆薄日HT　甚",
+    "after": "生民脆薄日㠯甚",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 㠯를 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html"
+  },
+  {
+    "before": "出王KT　百一選方",
+    "after": "出王璆百一選方",
+    "expected_count": 1,
+    "reason": "공개 원자료에서 서명·인명 구절 王璆百一選方을 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E5%BE%B9/index.html"
   }
 ]

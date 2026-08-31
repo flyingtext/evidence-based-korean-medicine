@@ -874,6 +874,559 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
       "evidence_note": "痙病 조문의 齘齒.",
       "reason": "痙病 조문의 齘齒."
+    },
+    {
+      "before": "多死，千般　難，不越三",
+      "after": "多死，千般疢難，不越三",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 疢 확정."
+    },
+    {
+      "before": "\n高世FS　曰：實脾專",
+      "after": "\n高世FS栻曰：實脾專",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 栻 확정."
+    },
+    {
+      "before": "\n太陽中熱者，　是也。汗出惡寒",
+      "after": "\n太陽中熱者，暍是也。汗出惡寒",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "惡寒也。中　暑邪，由表",
+      "after": "惡寒也。中暍暑邪，由表",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "過欲飲，中　之渴，初病",
+      "after": "過欲飲，中暍之渴，初病",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "病不一；中　則不傳，不",
+      "after": "病不一；中暍則不傳，不",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "汗不渴，中　初起即汗出",
+      "after": "汗不渴，中暍初起即汗出",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "\n\n太陽中　，發熱惡寒",
+      "after": "\n\n太陽中暍，發熱惡寒",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "陽。\n\n李　曰：百合病",
+      "after": "陽。\n\n李彣曰：百合病",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "。\n\n高世　曰：百合色",
+      "after": "。\n\n高世栻曰：百合色",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 栻 확정."
+    },
+    {
+      "before": "：蟲動則令　心，是以有",
+      "after": "：蟲動則令悗心，是以有",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 悗 확정."
+    },
+    {
+      "before": "蘊於血，故　絡赤也。七",
+      "after": "蘊於血，故眥絡赤也。七",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "。七八日四　皆黑者，是",
+      "after": "。七八日四眥皆黑者，是",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "瘀血腐，故　絡黑也。若",
+      "after": "瘀血腐，故眥絡黑也。若",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "曰：此結為　瘕，名曰瘧",
+      "after": "曰：此結為癥瘕，名曰瘧",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "味為末，取　灶下灰一斗",
+      "after": "味為末，取鍛灶下灰一斗",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鍛 확정."
+    },
+    {
+      "before": "邪養正，合　灶灰所浸酒",
+      "after": "邪養正，合煆灶灰所浸酒",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 煆 확정."
+    },
+    {
+      "before": "身肢偏重，　斜不遂也；",
+      "after": "身肢偏重，喎斜不遂也；",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 喎 확정."
+    },
+    {
+      "before": "痛也。身體　羸，即上條",
+      "after": "痛也。身體尪羸，即上條",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 尪 확정."
+    },
+    {
+      "before": "風痹狀，黃　桂枝五物湯",
+      "after": "風痹狀，黃耆桂枝五物湯",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "痛也。主黃　桂枝五物湯",
+      "after": "痛也。主黃耆桂枝五物湯",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "\n[u]黃　桂枝五物湯",
+      "after": "\n[u]黃耆桂枝五物湯",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "也。\n\n李　曰：此脾、",
+      "after": "也。\n\n李彣曰：此脾、",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "之謂也。黃　建中湯，建",
+      "after": "之謂也。黃耆建中湯，建",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "。膠飴、黃　，則補固中",
+      "after": "。膠飴、黃耆，則補固中",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "，故便難兩　痛也。然非",
+      "after": "，故便難兩胠痛也。然非",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 胠 확정."
+    },
+    {
+      "before": "即首條之兩　疼痛也。何",
+      "after": "即首條之兩胠疼痛也。何",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 胠 확정."
+    },
+    {
+      "before": "煩重，皮目　而短氣。\n",
+      "after": "煩重，皮目瞤瞤而短氣。\n",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 瞤瞤 확정."
+    },
+    {
+      "before": "而重，皮目　，動而氣短",
+      "after": "而重，皮目瞤瞤，動而氣短",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 瞤瞤 확정."
+    },
+    {
+      "before": "睛也。不能　，目睫不合",
+      "after": "睛也。不能眴，目睫不合",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 眴 확정."
+    },
+    {
+      "before": "古之所謂腸　為痔下血，",
+      "after": "古之所謂腸澼為痔下血，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 澼 확정."
+    },
+    {
+      "before": "，而振振身　。如此劇者",
+      "after": "，而振振身瞤。如此劇者",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 瞤 확정."
+    },
+    {
+      "before": "。十棗、神　之類，酌而",
+      "after": "。十棗、神祐之類，酌而",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 祐 확정."
+    },
+    {
+      "before": "【集解】李　曰：枳實消",
+      "after": "【集解】李彣曰：枳實消",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "，脾氣衰則　溏，胃氣衰",
+      "after": "，脾氣衰則鶩溏，胃氣衰",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鶩 확정."
+    },
+    {
+      "before": "癩，疥癬、　癩之類是也",
+      "after": "癩，疥癬、癘癩之類是也",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癘 확정."
+    },
+    {
+      "before": "得之，宜黃　芍藥桂枝苦",
+      "after": "得之，宜黃耆芍藥桂枝苦",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "，入水浴則　愴之水寒，",
+      "after": "，入水浴則悽愴之水寒，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 悽 확정."
+    },
+    {
+      "before": "則黃。用黃　、桂枝，芍",
+      "after": "則黃。用黃耆、桂枝，芍",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "\n[u]黃　芍藥桂枝苦",
+      "after": "\n[u]黃耆芍藥桂枝苦",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "\n\n[u]桂枝加黃　湯方[/u]\n\n桂",
+      "after": "\n\n[u]桂枝加黃耆湯方[/u]\n\n桂",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "治。心中懊　而熱，不能",
+      "after": "治。心中懊憹而熱，不能",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 憹 확정."
+    },
+    {
+      "before": "宜桂枝加黃　湯。於此推",
+      "after": "宜桂枝加黃耆湯。於此推",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "\n\n[u]桂枝加黃　湯方[/u]\n\n（",
+      "after": "\n\n[u]桂枝加黃耆湯方[/u]\n\n（",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "以桂枝加黃　湯汗之；小",
+      "after": "以桂枝加黃耆湯汗之；小",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "胃中煩亂懊　欲吐，非吐",
+      "after": "胃中煩亂懊憹欲吐，非吐",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 憹 확정."
+    },
+    {
+      "before": "證熱深則懊　欲吐，今微",
+      "after": "證熱深則懊憹欲吐，今微",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 憹 확정."
+    },
+    {
+      "before": "\n高世FS　曰：支飲者",
+      "after": "\n高世FS栻曰：支飲者",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 栻 확정."
+    },
+    {
+      "before": "之。\n\n李　曰：傷寒發",
+      "after": "之。\n\n李彣曰：傷寒發",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "煩，心中懊　，內熱之嘔",
+      "after": "煩，心中懊憹，內熱之嘔",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 憹 확정."
+    },
+    {
+      "before": "【集解】李　曰：文蛤湯",
+      "after": "【集解】李彣曰：文蛤湯",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "【集解】李　曰：氣利者",
+      "after": "【集解】李彣曰：氣利者",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "時許，遍身　微似有汗益",
+      "after": "時許，遍身漐漐微似有汗益",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 漐漐 확정."
+    },
+    {
+      "before": "、逐痛；蒴　亦通利氣血",
+      "after": "、逐痛；蒴藋亦通利氣血",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 藋 확정."
+    },
+    {
+      "before": "也。\n\n李　曰：此節病",
+      "after": "也。\n\n李彣曰：此節病",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "\n婦人宿有　病，經斷未",
+      "after": "\n婦人宿有癥病，經斷未",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "後斷三月，　也，所以血",
+      "after": "後斷三月，衃也，所以血",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 衃 확정."
+    },
+    {
+      "before": "不足者，其　不去故也，",
+      "after": "不足者，其癥不去故也，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "也，當下其　，桂枝茯苓",
+      "after": "也，當下其癥，桂枝茯苓",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "安者，此亦　痼害之也。",
+      "after": "安者，此亦癥痼害之也。",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "也。然有血　成塊者，以",
+      "after": "也。然有血衃成塊者，以",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 衃 확정."
+    },
+    {
+      "before": "，未可下其　痼也。後三",
+      "after": "，未可下其癥痼也。後三",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "丸，當下其　痼也。此示",
+      "after": "丸，當下其癥痼也。此示",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "血不止，皆　痼之為害，",
+      "after": "血不止，皆癥痼之為害，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "【集解】李　曰：方名腎",
+      "after": "【集解】李彣曰：方名腎",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "【集解】李　曰：人卒得",
+      "after": "【集解】李彣曰：人卒得",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "[u]凡中　死，不可使",
+      "after": "[u]凡中暍死，不可使",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "恐此物冷。　既在夏月，",
+      "after": "恐此物冷。暍既在夏月，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "馬肝一名懸　）\n\n雄鼠",
+      "after": "馬肝一名懸熢）\n\n雄鼠",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 熢 확정."
+    },
+    {
+      "before": "此物，必發　瘡。\n\n[",
+      "after": "此物，必發瘻瘡。\n\n[",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 瘻 확정."
+    },
+    {
+      "before": "。\n\n鯉魚　不可合小豆",
+      "after": "。\n\n鯉魚鮓不可合小豆",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鮓 확정."
+    },
+    {
+      "before": "。\n\n青魚　不可合胡荽",
+      "after": "。\n\n青魚鮓不可合胡荽",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鮓 확정."
+    },
+    {
+      "before": "不消，結為　病。治之方",
+      "after": "不消，結為癥病。治之方",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "\n[u]食　魚中毒方[",
+      "after": "\n[u]食鯸鮧魚中毒方[",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鯸鮧 확정."
+    },
+    {
+      "before": "\n【方解】　即河豚魚，",
+      "after": "\n【方解】鯸鮧即河豚魚，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 鯸鮧 확정."
+    },
+    {
+      "before": "【集解】李　曰：心主笑",
+      "after": "【集解】李彣曰：心主笑",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "【集解】李　曰：煩出於",
+      "after": "【集解】李彣曰：煩出於",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 彣 확정."
+    },
+    {
+      "before": "時，宜煮薺　，甘草汁飲",
+      "after": "時，宜煮薺苨，甘草汁飲",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 苨 확정."
+    },
+    {
+      "before": "實而瀉之，　然汗出則愈",
+      "after": "實而瀉之，濈然汗出則愈",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0002a.txt",
+      "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 濈 확정."
     }
   ],
   "P/P0002a.txt": [
@@ -1321,6 +1874,24 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
       "evidence_note": "黃耆 약성 해설.",
       "reason": "黃耆 약성 해설."
+    },
+    {
+      "before": "身體强KT　KT　然，衇反沉遲",
+      "after": "身體强𠘧𠘧然，衇反沉遲",
+      "expected_count": 1,
+      "evidence": "《金匱要略》 평행 조문과 관찬 《醫宗金鑑》 영인이 身體強𠘧𠘧然으로 판독한다."
+    },
+    {
+      "before": "治項背KT　KT　，用桂枝加葛根湯矣",
+      "after": "治項背𠘧𠘧，用桂枝加葛根湯矣",
+      "expected_count": 1,
+      "evidence": "《傷寒論》 項背強𠘧𠘧 인용과 동일한 자형이다."
+    },
+    {
+      "before": "傷寒項背KT　KT　，無汗惡風者",
+      "after": "傷寒項背𠘧𠘧，無汗惡風者",
+      "expected_count": 1,
+      "evidence": "葛根湯 조문의 독립 평행 전사 項背強𠘧𠘧와 일치한다."
     }
   ],
   "P/P0003a.txt": [

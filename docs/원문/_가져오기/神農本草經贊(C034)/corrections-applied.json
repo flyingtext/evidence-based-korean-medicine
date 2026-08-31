@@ -1910,5 +1910,11 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%B4%8A/index.html",
     "evidence_note": "C/C034.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "以攻KT　攻之。以　草熏之",
+    "after": "以攻禜攻之。以莽草熏之",
+    "expected_count": 1,
+    "evidence": "《周禮·秋官·翦氏》의 직접 평행문 以攻禜攻之，以莽草熏之와 일치한다."
   }
 ]
