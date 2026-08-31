@@ -26370,6 +26370,14 @@
       "reason": "五噎 중 思噎의 고정 문장이다.",
       "evidence_url": "https://www.shidianguji.com/book/SK1479/chapter/1lbea6jbaseuh",
       "evidence_note": "독립 전사에서 `思噎者，心怔悸，善忘，目視䀮`을 확인했으며 원자료의 두 표지는 중첩형 䀮䀮을 보존한다."
+    },
+    {
+      "before": "為痰涎，目HT　吐，痴癇不省人事",
+      "after": "為痰涎，目眩吐，痴癇不省人事",
+      "expected_count": 1,
+      "reason": "공개 《脈因證治》 영인 전사에서 해당 구절의 目眩吐를 직접 확인",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NLC511-023031404013521-29020_%E8%84%88%E5%9B%A0%E8%AD%89%E6%B2%BB._%E5%9B%9B.pdf",
+      "evidence_note": "공개 판면 OCR이 ‘驚為痰涎目眩吐…不省人事’로 수록한다."
     }
   ],
   "O/O044.txt": [
@@ -57235,6 +57243,13 @@
       "reason": "치은이 붓고 드러나는 牙齦宣 증상이다.",
       "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/9251/0",
       "evidence_note": "《醫學心悟》 인용문에서 해당 구절을 `牙齒宣宣症` 계통으로 확인했고, 뒤의 牙根·宣露 문맥상 결자는 齦이다."
+    },
+    {
+      "before": "[h4]呃逆[/h4]\n即KT　也，氣自臍下直衝胸也",
+      "after": "[h4]呃逆[/h4]\n即䭇也，氣自臍下直衝胸也",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/NA08101/chapter/1kiivh65eu0ib",
+      "evidence_note": "《醫學心悟》 독립 전사의 동일 문장이 呃逆卽䭇也로 확인된다."
     }
   ],
   "O/O072.txt": [

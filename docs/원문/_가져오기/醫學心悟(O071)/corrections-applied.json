@@ -686,5 +686,12 @@
     "reason": "치은이 붓고 드러나는 牙齦宣 증상이다.",
     "evidence_url": "https://cloudtcm.com/formula/list/formula-dsname/9251/0",
     "evidence_note": "《醫學心悟》 인용문에서 해당 구절을 `牙齒宣宣症` 계통으로 확인했고, 뒤의 牙根·宣露 문맥상 결자는 齦이다."
+  },
+  {
+    "before": "[h4]呃逆[/h4]\n即KT　也，氣自臍下直衝胸也",
+    "after": "[h4]呃逆[/h4]\n即䭇也，氣自臍下直衝胸也",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/NA08101/chapter/1kiivh65eu0ib",
+    "evidence_note": "《醫學心悟》 독립 전사의 동일 문장이 呃逆卽䭇也로 확인된다."
   }
 ]

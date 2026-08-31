@@ -2385,6 +2385,21 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%8A%80%E6%B5%B7%E7%B2%BE%E5%BE%AE/index.html",
       "evidence_note": "L/L000.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "治肝腎氣虛，視物KT　KT，血少氣多",
+      "after": "治肝腎氣虛，視物䀮䀮，血少氣多",
+      "expected_count": 1,
+      "reason": "《銀海精微》의 시각 병후를 독립 전사와 안과 문헌에서 확인",
+      "evidence_url": "https://yibian.hopto.org/shu/?sid=4374",
+      "evidence_note": "독립 자료가 《銀海精微》의 병후를 ‘視物䀮䀮’으로 직접 든다."
+    },
+    {
+      "before": "予應之曰：HT　非精於岐黃龍木之奧者",
+      "after": "予應之曰：苟非精於岐黃龍木之奧者",
+      "expected_count": 1,
+      "reason": "조건문 고정어 苟非이며 공개 판면의 서문 문맥과 일치",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shanghai_%E9%8A%80%E6%B5%B7%E7%B2%BE%E5%BE%AE%E4%BA%8C%E5%8D%B7.pdf"
     }
   ],
   "L/L002.txt": [

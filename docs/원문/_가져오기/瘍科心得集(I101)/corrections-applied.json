@@ -1206,5 +1206,20 @@
     "reason": "白禿瘡의 통칭이다.",
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/30",
     "evidence_note": "공개 고전 전사에서 `白禿瘡俗名瘌痢`를 직접 확인했다."
+  },
+  {
+    "before": "亦有HT傷，或毒蚊虼蚤咬傷而起者",
+    "after": "亦有跌傷，或毒蚊虼蚤咬傷而起者",
+    "expected_count": 1,
+    "reason": "외상과 벌레 물림을 병렬한 문맥의 고정어 跌傷",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A4%96%E7%A7%91%E5%95%93%E7%8E%84"
+  },
+  {
+    "before": "《內經》然後可以臨證。故其HT　瘍也，先究乎色聲味之淫",
+    "after": "《內經》然後可以臨證。故其治瘍也，先究乎色聲味之淫",
+    "expected_count": 1,
+    "reason": "서문의 목적어 瘍과 결합하는 고정어 治瘍",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E7%A7%91%E5%BF%83%E5%BE%97%E9%9B%86/index.html",
+    "evidence_note": "공개 전사의 저자 치료론 문맥 및 이어지는 ‘先究’와 일치한다."
   }
 ]

@@ -96,7 +96,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 892,
       "punctuation_status": "source_present",
-      "note": "공백 846·HT 4·KT 42자리가 남는다. 반복되는 시각 증상 외자는 유력 대응이 있으나 동일 표지가 다른 문맥에서도 쓰여 판면 전수 검증 없이 규칙화하지 않았다."
+      "note": "최신 K shard 291규칙이 반영된 현재 출력에는 HT 4·KT 42·전각 공백 1557곳이 남는다. 기존 조판 판정 711곳을 제외한 비조판 공백 846곳과 표식 46곳, 합계 892좌표다. 반복 경혈명과 시각 증상 외자는 동일 표지가 서로 다른 문맥에 쓰여 occurrence별 판면 전수 검증 없이 추가 치환하지 않았다. 신규 0개, warnings=0, overlap=0이다."
     },
     "K/K003a.txt": {
       "collation_status": "in_progress",
@@ -108,7 +108,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 795,
       "punctuation_status": "codex_verified",
-      "note": "직접 인용과 반복 병명으로 46개 표지를 복원."
+      "note": "기존 367개 규칙은 모두 정상 적용된다. HT4·KT9 및 비조판 후보는 판본별 외자 대응이 유일하지 않아 신규 없음. 검증 applied=367/367, warnings=0, overlaps=0."
     },
     "I/I010.txt": {
       "collation_status": "in_progress",
@@ -330,7 +330,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 876,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 전각 공백 876자리다. 강조·교주 조판과 결락이 혼재하여 페이지 단위 영인 대조 전 보류했다."
+      "note": "최신 shard 194규칙 이후 외자 표지는 없고 전각공백 876좌표가 남는다. 강조·교주 조판과 결락이 혼재하므로 영인 페이지 대조 전 신규안 없음."
     },
     "C/C017.txt": {
       "collation_status": "in_progress",
@@ -402,7 +402,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 801,
       "punctuation_status": "source_present",
-      "note": "잔존 HT 2개와 KT 1개를 모두 복원."
+      "note": "최신 shard 21규칙에 잔존 `項背強。幾KT無汗惡風者`를 幾幾로 복원하는 규칙이 이미 포함되어 있어 중복 제안하지 않았다. 현재 Markdown은 shard 재생성 전 상태이며 신규 규칙은 없다."
     },
     "B/B020.txt": {
       "collation_status": "in_progress",
@@ -3576,7 +3576,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 811,
       "punctuation_status": "source_present",
-      "note": "최신 120개 교정을 유지하고 신규 제안 없음."
+      "note": "최신 shard 120규칙 적용 문서에는 특수 외자 표지가 없고 비조판 전각공백만 남는다. 페이지별 영인 대조 없이 신규 결자를 확정하지 않았다."
     },
     "E/E012.txt": {
       "collation_status": "in_progress",
@@ -3594,7 +3594,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 789,
       "punctuation_status": "source_present",
-      "note": "KT 6자리를 복원했다. 부적·주문 글자와 대규모 파손 □, 나머지 외자는 판면 확인 전 보류한다."
+      "note": "기존 106개 규칙은 모두 정상 적용된다. HT15·KT5·□215는 부적·주문 및 대규모 판면 파손에 집중되어 영인 판독 전 신규 없음. 검증 applied=106/106, warnings=0, overlaps=0."
     },
     "F/F002.txt": {
       "collation_status": "in_progress",
@@ -3760,9 +3760,9 @@
     },
     "K/K000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 866,
+      "unresolved_candidates": 861,
       "punctuation_status": "source_present",
-      "note": "공백 821·HT 17·KT 28자리가 남는다. 이체자와 교주가 섞인 四庫全書 계통으로, 현대 통용문만으로 판본 자형을 확정하지 않았다."
+      "note": "최신 shard 6규칙을 유지하는 신규 4규칙으로 KT 2·HT 3, 총 5좌표를 해소해 review status 866에서 861로 감소. 기존 전역형 `目KT KT` 규칙과 겹치는 안구 문맥은 이번 제안에서 제외했다."
     },
     "K/K000a.txt": {
       "collation_status": "complete",
@@ -3772,9 +3772,9 @@
     },
     "I/I101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 924,
+      "unresolved_candidates": 917,
       "punctuation_status": "source_present",
-      "note": "HT 5자리를 복원했다. 다른 HT 2자리와 □ 3자리, 전각 공백은 판면 대조 전 보류한다."
+      "note": "최신 I shard 151규칙을 유지하는 증분안이다. 두 고유 규칙으로 잔여 HT 2자를 해소한다. 각 before는 1회이고 상호 비중첩이다. 가상 적용 후 □ 3자, 전각 공백 2218곳이며 기존 조판 1304곳을 제외한 비조판 공백 914곳과 □ 3곳을 합쳐 잔여 917좌표다. 연속 □ 3자는 독립 판면에서 확정하지 못해 보류했다. warnings=0, overlap=0."
     },
     "I/I102.txt": {
       "collation_status": "in_progress",
@@ -3838,9 +3838,9 @@
     },
     "L/L000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 884,
+      "unresolved_candidates": 879,
       "punctuation_status": "source_present",
-      "note": "공백 876·HT 3·KT 5자리가 남는다. 안과 희귀 용어와 약명이므로 동일 영인 위치를 확인하지 못한 후보는 확정하지 않았다."
+      "note": "최신 L shard 102규칙을 유지하는 증분안이다. 두 고유 규칙으로 KT 2·HT 1자를 해소한다. 각 before는 현재 출력에서 1회이며 상호 비중첩이다. 가상 적용 후 HT 2·KT 3, 전각 공백 2891곳이고 기존 조판 2017곳을 제외한 비조판 공백 874곳과 표식 5곳을 합쳐 잔여 879좌표다. warnings=0, overlap=0."
     },
     "L/L002.txt": {
       "collation_status": "in_progress",
@@ -4048,9 +4048,9 @@
     },
     "O/O043.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 895,
+      "unresolved_candidates": 890,
       "punctuation_status": "source_present",
-      "note": "KT 4자리를 복원했다. 驚 항목 HT와 전각 공백은 확정 근거 부족으로 보류한다."
+      "note": "최신 O shard 71규칙을 유지하는 증분안이다. 잔여 HT 1자를 고유 문맥으로 해소한다. before는 1회이며 기존 규칙과 비중첩이다. 가상 적용 후 표식은 0, 전각 공백은 2822곳이고 기존 조판 1932곳을 제외한 잔여는 890좌표다. warnings=0, overlap=0."
     },
     "O/O044.txt": {
       "collation_status": "in_progress",
@@ -4138,9 +4138,9 @@
     },
     "O/O071.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 796,
+      "unresolved_candidates": 795,
       "punctuation_status": "source_present",
-      "note": "HT 4자리를 복원했다. 呃逆 항목 KT와 전각 공백은 희자 원형을 확정하지 못해 보류한다."
+      "note": "《醫學心悟》 독립 전사의 동일 문장 `呃逆卽䭇也`로 잔여 KT를 䭇로 복원했다. 나머지 비조판 후보는 보류. 검증 applied=87/87, warnings=0, overlaps=0."
     },
     "O/O072.txt": {
       "collation_status": "in_progress",
@@ -4458,7 +4458,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 784,
       "punctuation_status": "source_present",
-      "note": "KT 1자리를 복원했다. 서문의 다른 KT와 전각 공백은 대조 근거 부족으로 보류한다."
+      "note": "기존 69개 규칙은 모두 정상 적용된다. 잔여 KT1과 비조판 후보는 서문 이본의 직접 판독 근거가 없어 신규 없음. 검증 applied=69/69, warnings=0, overlaps=0."
     }
   }
 }

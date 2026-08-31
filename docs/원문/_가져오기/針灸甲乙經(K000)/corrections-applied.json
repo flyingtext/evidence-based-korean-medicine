@@ -40,5 +40,29 @@
     "expected_count": 1,
     "reason": "四庫全書 공개 전문 대조 외자 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+  },
+  {
+    "before": "太陽病，其證備，其身體強，KT　KT　然，脈反沉遲者",
+    "after": "太陽病，其證備，其身體強，几几然，脈反沉遲者",
+    "expected_count": 1,
+    "evidence": "《金匱要略》 직접 평행문 身體強几几然과 일치한다."
+  },
+  {
+    "before": "小腸移熱於大腸，為HT　瘕，為沉",
+    "after": "小腸移熱於大腸，為虙瘕，為沉",
+    "expected_count": 1,
+    "evidence": "《素問·氣厥論》의 직접 평행문 小腸移熱於大腸，為虙瘕，為沉."
+  },
+  {
+    "before": "腹中熱渴HT　（音涎）者，是　蛟也",
+    "after": "腹中熱渴涎（音涎）者，是　蛟也",
+    "expected_count": 1,
+    "evidence": "자체 음주가 결자를 涎으로 직접 확정한다."
+  },
+  {
+    "before": "目橐（一作HT　，一本無此字）系絕",
+    "after": "目橐（一作瞏，一本無此字）系絕",
+    "expected_count": 1,
+    "evidence": "《素問·診要經終論》 소양종의 판본 이문 目瞏絕系이며 瞏의 음은 瓊이다."
   }
 ]
