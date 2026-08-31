@@ -9856,6 +9856,20 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
       "evidence_note": "환약 조제 문맥의 丸劑.",
       "reason": "환약 조제 문맥의 丸劑."
+    },
+    {
+      "before": "檳榔KT（以盛盡藥為度",
+      "after": "檳榔　栝樓（以盛盡藥為度",
+      "expected_count": 1,
+      "reason": "《博濟方》 권5 黑神散의 공개 처방 구성은 檳榔 다음 약재를 ‘栝樓（以盛盡藥為度…）’로 직접 제시한다.",
+      "evidence": "https://www.zysj.com.cn/zhongyaofang/heishensan/index.html"
+    },
+    {
+      "before": "上等分杵羅為末，入　KT　中",
+      "after": "上等分杵羅為末，入栝樓中",
+      "expected_count": 1,
+      "reason": "《博濟》 권5 黑神散의 공개 평행 처방이 제법을 ‘上為末，入栝樓中’으로 직접 보존한다.",
+      "evidence": "https://www.cntcm.org/fang/heishensan.html; https://www.zysj.com.cn/zhongyaofang/heishensan/index.html"
     }
   ],
   "D/D010.txt": [
@@ -38714,20 +38728,6 @@
       "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
     },
     {
-      "before": "水飲下之，蟲即蚊蟲，",
-      "after": "水飲下之，虻蟲即蚊蟲，",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 虻로 확정."
-    },
-    {
-      "before": "中外無不周，若標本相",
-      "after": "中外無不周偏，若標本相",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 偏로 확정."
-    },
-    {
       "before": "風氣，木邪土，故完穀",
       "after": "風氣，木邪克土，故完穀",
       "expected_count": 1,
@@ -38826,32 +38826,11 @@
       "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
     },
     {
-      "before": "心則迷成癲，\n  入",
-      "after": "心則迷成癲癇，\n  入",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
-    },
-    {
-      "before": "或為失志癲，\n  或",
-      "after": "或為失志癲癇，\n  或",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
-    },
-    {
       "before": "止，心中痞，服瀉心湯",
       "after": "止，心中痞硬，服瀉心湯",
       "expected_count": 1,
       "evidence_url": "source/D/D075.txt",
       "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
-    },
-    {
-      "before": "反張，名子。{陰主靜",
-      "after": "反張，名子癇。{陰主靜",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
     },
     {
       "before": "痛，心腹腰痛，名子懸",
@@ -38880,13 +38859,6 @@
       "expected_count": 1,
       "evidence_url": "source/D/D075.txt",
       "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
-    },
-    {
-      "before": "於風，夏為泄，夏傷於",
-      "after": "於風，夏為飧泄，夏傷於",
-      "expected_count": 1,
-      "evidence_url": "source/D/D075.txt",
-      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 飧로 확정."
     },
     {
       "before": "，大便弗，\n  又恐初",
@@ -39301,6 +39273,336 @@
       "after": "蓖",
       "expected_count": 2,
       "evidence": "U+F0F4 2회. 두 출현이 蓖麻油·蓖麻子다."
+    },
+    {
+      "before": "  飲食不為肌膚，四損肝，筋緩不自收持，五損腎，骨痿不起于，五勞者，志勞，",
+      "after": "  飲食不為肌膚，四損肝，筋緩不自收持，五損腎，骨痿不起于床，五勞者，志勞，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  心惕惕然動不自安也，丹溪曰：怔忡大屬血虛與痰，經曰：血並于下，氣並于上，",
+      "after": "  心惕惕然動不自安也，丹溪曰：怔忡大概屬血虛與痰，經曰：血並于下，氣並于上，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  衰而不用，不知硫黃性雖燥而利，",
+      "after": "  衰而不用，不知硫黃性雖燥而疏利，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  且二茯下行利水，又以泄腎中之邪火也，桔梗清肺散滯，木香肝和脾。",
+      "after": "  且二茯下行利水，又以泄腎中之邪火也，桔梗清肺散滯，木香疏肝和脾。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  〔行氣故肝，肝則木不剋土而脾和。 〕丹砂鎮心安神，麝香通竅解鬱，",
+      "after": "  〔行氣故疏肝，肝疏則木不剋土而脾和。 〕丹砂鎮心安神，麝香通竅解鬱，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  治虛熱潮熱，身體倦怠，六君子加烏梅草等分，薑棗煎，名四獸飲，〔三因，",
+      "after": "  治虛熱潮熱，身體倦怠，六君子加烏梅草果等分，薑棗煎，名四獸飲，〔三因，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  汗出終日，至且而愈，次以胃風湯和其臟腑，食進而安，經曰：春傷于風，夏必泄，",
+      "after": "  汗出終日，至且而愈，次以胃風湯和其臟腑，食進而安，經曰：春傷于風，夏必飧泄，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  或嘔或利，小青龍湯主之，表已解，有時頭痛惡寒，心下有水，乾嘔痛引兩，",
+      "after": "  或嘔或利，小青龍湯主之，表已解，有時頭痛惡寒，心下有水，乾嘔痛引兩脅，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  〕而又加芍藥和陰氣于發汗之中，加甘草和陽氣于利之隊也。 ｛吳綬曰：",
+      "after": "  〕而又加芍藥和陰氣于發汗之中，加甘草和陽氣于疏利之隊也。 ｛吳綬曰：",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  是傷風也，傷風應有汗，若無汗，是挾寒也，泄下利者，清陽不升，木邪剋土，",
+      "after": "  是傷風也，傷風應有汗，若無汗，是挾寒也，飧泄下利者，清陽不升，木邪剋土，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  癰疽，產後，初時不敢用，而虛人之遇重病，可生之機，悉置不理矣，",
+      "after": "  癰疽，產後，初時概不敢用，而虛人之遇重病，可生之機，悉置不理矣，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  三日少陽受之，少陽主膽，其脈循絡於耳，故胸痛而耳聾，四日太陰受之，",
+      "after": "  三日少陽受之，少陽主膽，其脈循脅絡於耳，故胸脅痛而耳聾，四日太陰受之，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  有痛耳聾，而又囊縮厥逆也，此陰陽表裏俱，欲汗之則裏證，欲下之則有表證，",
+      "after": "  有脅痛耳聾，而又囊縮厥逆也，此陰陽表裏俱，欲汗之則裏證，欲下之則有表證，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  後治其本，治不與風補虛，而先吐其痰涎，白礬酸苦，能湧泄，鹹能軟頑痰，",
+      "after": "  後治其本，治不與疏風補虛，而先吐其痰涎，白礬酸苦，能湧泄，鹹能軟頑痰，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  而舌上燥渴，邪入陽明，則日晡潮熱，或水飲結於胸，但頭微汗。 餘處無汗，",
+      "after": "  而舌上燥渴，邪入陽明，則日晡潮熱，或水飲結於胸脅，但頭微汗。 餘處無汗，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  胸間氣塞滿悶也，非心下滿滿者，肋脹滿也，非腹中滿，蓋表邪傳裏，",
+      "after": "  胸間氣塞滿悶也，非心下滿脅滿者，脅肋脹滿也，非腹中滿，蓋表邪傳裏，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  必先胸以至心腹入胃，是以胸滿多帶表證，宜微汗，滿多帶半表半裏，宜和中，",
+      "after": "  必先胸以至心腹入胃，是以胸滿多帶表證，宜微汗，脅滿多帶半表半裏，宜和中，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "主治：治一切積聚痰飲，心引痛",
+      "after": "主治：治一切積聚痰飲，心脅引痛",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  黃蘗〔酒炒〕、黃連〔茱萸湯炒〕、三稜〔醋煮〕、莪〔醋煮五錢〕、",
+      "after": "  黃蘗〔酒炒〕、黃連〔茱萸湯炒〕、三稜〔醋煮〕、莪朮〔醋煮五錢〕、",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  則有防風通聖參蘇五積諸劑，姑採數方以其餘，善用者審證而消息之可也。",
+      "after": "  則有防風通聖參蘇五積諸劑，姑採數方以概其餘，善用者審證而消息之可也。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  後以加芒硝湯主之。 〔傷寒十三日，為再傳經盡，當解之時，滿而嘔，少陽也，",
+      "after": "  後以加芒硝湯主之。 〔傷寒十三日，為再傳經盡，當解之時，脅滿而嘔，少陽也，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  或下痛，或渴，或欬，或利或悸，小便不利，口苦耳聾，脈弦，或汗後餘熱不解，",
+      "after": "  或脅下痛，或渴，或欬，或利或悸，小便不利，口苦耳聾，脈弦，或汗後餘熱不解，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  今人治傷寒，不分陰陽表裏， 用此方去參投之，以為平穩，殺人多矣，",
+      "after": "  今人治傷寒，不分陰陽表裏，概 用此方去參投之，以為平穩，殺人多矣，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  用乾薑之辣以開之，仲景聖法灼然矣，昂按：上下未有不分表裏者，大上焦屬表，",
+      "after": "  用乾薑之辣以開之，仲景聖法灼然矣，昂按：上下未有不分表裏者，大概上焦屬表，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  草〔炙〕、草、加薑煎，一方加檳榔，大渴加麥冬知母，瘧不止，",
+      "after": "  草〔炙〕、草果、加薑煎，一方加檳榔，大渴加麥冬知母，瘧不止，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  而脾部為之一清也，劉宗厚因草之辛熱而譏焉，是未達嚴用和氏之精矣，張子和曰：",
+      "after": "  而脾部為之一清也，劉宗厚因草果之辛熱而譏焉，是未達嚴用和氏之精矣，張子和曰：",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  脾胃虛則火上于肺故喘，金受火，不能生水故渴，脾虛不能統血，則血妄行而吐下，",
+      "after": "  脾胃虛則火上于肺故喘，金受火克，不能生水故渴，脾虛不能統血，則血妄行而吐下，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  蘇子降肺氣，黃芩清肺熱，半夏燥溼痰，相加為理，以成散寒壅之功。",
+      "after": "  蘇子降肺氣，黃芩清肺熱，半夏燥溼痰，相加為理，以成散寒疏壅之功。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  然必其人真氣先虛，營衛空，然後外邪乘虛而入，經所謂邪之所湊，其氣必虛是也，",
+      "after": "  然必其人真氣先虛，營衛空疏，然後外邪乘虛而入，經所謂邪之所湊，其氣必虛是也，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "方義：此足太陽厥陰藥也，辛能散寒，風能勝溼，防風羌活，除溼而風，氣通則血活，",
+      "after": "方義：此足太陽厥陰藥也，辛能散寒，風能勝溼，防風羌活，除溼而疏風，氣通則血活，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  荔枝核〔〕等分為末，空心長流水下二錢。",
+      "after": "  荔枝核〔炒〕等分為末，空心長流水下二錢。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  與此湯導飲和中，益陽固衛。 ｝金匱用治心下有痰飲，胸支滿，目眩。",
+      "after": "  與此湯導飲和中，益陽固衛。 ｝金匱用治心下有痰飲，胸脅支滿，目眩。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  亦同此意，大黃細辛各二兩，附子一枚，炮，治下偏痛，發熱，脈弦緊，此寒也，",
+      "after": "  亦同此意，大黃細辛各二兩，附子一枚，炮，治脅下偏痛，發熱，脈弦緊，此寒也，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "主治：治肝膽經實火溼熱，痛耳聾，膽溢口苦，筋痿陰汗，陰腫陰痛，白濁溲血。",
+      "after": "主治：治肝膽經實火溼熱，脅痛耳聾，膽溢口苦，筋痿陰汗，陰腫陰痛，白濁溲血。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  芎歸之類補血，若作尋常痛治則殆矣。 ｝",
+      "after": "  芎歸之類補血，若作尋常脅痛治則殆矣。 ｝",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  名抑青丸，大瀉肝火，治左作痛，單黃連煎服，名瀉心湯，治心熱。",
+      "after": "  名抑青丸，大瀉肝火，治左脅作痛，單黃連煎服，名瀉心湯，治心熱。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  行為兩，風火干之，故臥不安，肝在志為怒，故多怒，肝虛膽怯，故多驚，肝主筋，",
+      "after": "  行為兩脅，風火干之，故臥不安，肝在志為怒，故多怒，肝虛膽怯，故多驚，肝主筋，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  狂而妄言妄見，皆足陽明肩背熱，及足外脛踝後熱，皆足太陽，口熱舌乾，",
+      "after": "  狂而妄言妄見，皆足陽明肩背熱，及足外臁脛踝後熱，皆足太陽，口熱舌乾，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  肝膽居，肝膽熱則亦熱，肺居胸背，肺熱則胸背亦熱，腎居腰，腎熱則腰亦熱，",
+      "after": "  肝膽居脅，肝膽熱則脅亦熱，肺居胸背，肺熱則胸背亦熱，腎居腰，腎熱則腰亦熱，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  陰類而甲屬骨，能引諸藥入骨而補陰，甘草甘平，能和諸藥而退虛熱也。",
+      "after": "  鱉陰類而甲屬骨，能引諸藥入骨而補陰，甘草甘平，能和諸藥而退虛熱也。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  在頭則眩，在心則悸，在背則冷，在則脹，其變不可勝窮也。 ｝",
+      "after": "  在頭則眩，在心則悸，在背則冷，在脅則脹，其變不可勝窮也。 ｝",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  氣痰加香附枳殼，痰在皮裏膜外，加白芥子，四肢痰加竹瀝。",
+      "after": "  氣痰加香附枳殼，脅痰在皮裏膜外，加白芥子，四肢痰加竹瀝。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  則胸支滿，痰飲阻其胞中之陽，水精不能上布，故目眩。 ｝",
+      "after": "  則胸脅支滿，痰飲阻其胞中之陽，水精不能上布，故目眩。 ｝",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  曬乾，火，石色如金為度，研末和諸藥水丸，量人虛實服之，薑湯送下，服後仰臥，",
+      "after": "  曬乾，火炒，石色如金為度，研末和諸藥水丸，量人虛實服之，薑湯送下，服後仰臥，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  朮、黃芩、澤瀉，加柴胡、莪述、皁角、昆布、甘草、名肥氣丸，治肝積在左下，",
+      "after": "  朮、黃芩、澤瀉，加柴胡、莪述、皁角、昆布、甘草、名肥氣丸，治肝積在左脅下，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  治肺積在右下，令人灑淅寒熱，欬喘發肺癰，秋冬黃連減半，",
+      "after": "  治肺積在右脅下，令人灑淅寒熱，欬喘發肺癰，秋冬黃連減半，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "主治：治瘧久不愈，腹中結塊名曰瘧母。 ｛瘧久不愈為溫瘧，多成癖於左之下，",
+      "after": "主治：治瘧久不愈，腹中結塊名曰瘧母。 ｛瘧久不愈為溫瘧，多成癖於左脅之下，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "   若飲食不慎，氣血虛衰，又能變生諸蟲，不可名狀，如髮癥瘕勞瘵傳尸之類，",
+      "after": "   若飲食不慎，氣血虛衰，又能變生諸蟲，不可名狀，如髮癥鱉瘕勞瘵傳尸之類，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "組成：寒水石 [[]] 、滑石 [[二兩]] 、龍骨、海螵蛸 [[一兩]]",
+      "after": "組成：寒水石 [[炒]] 、滑石 [[二兩]] 、龍骨、海螵蛸 [[一兩]]",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  四物四兩，加柴胡黃芩各七錢，名柴胡六合湯，治妊娠傷寒，胸滿痛而脈弦，",
+      "after": "  四物四兩，加柴胡黃芩各七錢，名柴胡六合湯，治妊娠傷寒，胸脅滿痛而脈弦，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  故用乾薑，黑能止血，{水勝火也} 故並用。",
+      "after": "  故用乾薑，黑能止血，{水勝火也} 故並炒用。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "組成：樗皮 [[兩半]] 、白芍 [[五錢]] 、良薑 [[黑]] 、黃蘗 [[黑三錢]] ，",
+      "after": "組成：樗皮 [[兩半]] 、白芍 [[五錢]] 、良薑 [[炒黑]] 、黃蘗 [[炒黑三錢]] ，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  [[粉一兩]] 、地榆 [[炒黑三錢]] 醋糊丸，米飲下",
+      "after": "  [[炒粉一兩]] 、地榆 [[炒黑三錢]] 醋糊丸，米飲下",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  髮者血之餘，補陰消瘀，黑又能止血也。",
+      "after": "  髮者血之餘，補陰消瘀，炒黑又能止血也。",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+    },
+    {
+      "before": "  早起露首跣足，則病身熱頭痛，納涼陰室，則病身熱惡寒，多食涼水瓜，",
+      "after": "  早起露首跣足，則病身熱頭痛，納涼陰室，則病身熱惡寒，多食涼水瓜果，",
+      "expected_count": 1,
+      "evidence": "D075 자매 전사와 공개 《醫方集解》 평행문을 대조했다. 잔여 코드는 문맥별로 床·概·疏·果·飧·脅·硬·朮·克·炒·臁·鱉로 일치한다. Jicheng: https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
     }
   ],
   "D/D057.txt": [

@@ -315,7 +315,7 @@
       "output_directory": "黃帝內經靈樞集注(A101)",
       "markdown_files": 10,
       "translation_units": 106,
-      "corrections_applied": 45,
+      "corrections_applied": 54,
       "punctuated": false,
       "warnings": []
     },
@@ -3043,7 +3043,7 @@
       "output_directory": "博濟方(D008)",
       "markdown_files": 8,
       "translation_units": 350,
-      "corrections_applied": 87,
+      "corrections_applied": 89,
       "punctuated": false,
       "warnings": []
     },
@@ -4307,16 +4307,9 @@
       "output_directory": "醫方集解(D075a)",
       "markdown_files": 1,
       "translation_units": 47,
-      "corrections_applied": 117,
+      "corrections_applied": 166,
       "punctuated": false,
-      "warnings": [
-        "교정 좌표 중첩: 106622:106623",
-        "교정 좌표 중첩: 116056:116057",
-        "교정 좌표 중첩: 207323:207324",
-        "교정 좌표 중첩: 209161:209162",
-        "교정 좌표 중첩: 245212:245213",
-        "교정 좌표 중첩: 264285:264286"
-      ]
+      "warnings": []
     },
     {
       "source_path": "D/D076.txt",

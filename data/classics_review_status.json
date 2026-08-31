@@ -203,12 +203,12 @@
       "note": "HT/KT/□ 잔여 0. 전각 공백 1255개는 歌括·처방 조판 비중이 높아 결자 marker와 분리. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 407자리로 유지한다."
     },
     "D/D075a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 190,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "PUA 전수 집계: 278자·42코드 — U+EF5F:46, EF69:5, EF6C:8, EF6E:13, EF87:18, EF8A:5, EF8D:6, EF8F:2, EF96:2, EFA7:4, EFAD:2, EFBD:4, EFC3:5, EFC4:2, EFC5:11, EFD5:2, EFD6:17, EFDF:5, EFE1:4, EFE7:1, EFF1:9, F004:49, F007:1, F033:4, F089:1, F08E:8, F0C7:1, F0CB:3, F0CF:2, F0D0:5, F0D1:2, F0D3:4, F0D4:3, F0D7:6, F0D8:5, F0DE:4, F0DF:2, F0E0:1, F0E9:2, F0EC:1, F0F2:1, F0F4:2. 기존 shard가 일부 또는 전부 다룬 코드는 신규 계산에서 제외했다. 미복원 코드 중 D075 동일 문장과 공개 의서 평행문으로 전 출현이 고정된 29코드/132자를 신규 확정하여 현 remaining 190에서만 차감했다. 공개 대조 기본 URL: https://jicheng.tw/tcm/book/%E5%90%8C%E4%BA%BA%E6%B4%BB%E5%A3%BD%E6%96%B9/index.html",
-      "remaining_count": 58,
-      "status": "in_progress"
+      "note": "상태 파일은 잔여 58좌표라 기록하지만, CRLF 정규화 후 기존 117개 교정 규칙을 실제 순차 적용하면 잔여는 12코드 65좌표다. 이 65좌표를 58개가 아니라 전부 문맥별 복원했다. 코드별: F0D8=床 1, F0D7=概 5, EFC5=疏 9, F0D0=果 4, F0CB=飧 2, EF5F=脅 30, F004=硬 1, F0DF=朮 1, F0DE=克 1, F08E=炒 8, EFE7=臁 1, F033=鱉 2. 각 before는 기존 교정 적용 상태에서 1회 일치한다.",
+      "remaining_count": 0,
+      "status": "completed"
     },
     "E/E004.txt": {
       "collation_status": "in_progress",
@@ -290,9 +290,11 @@
     },
     "D/D008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "잔여는 黑神散의 檳榔 뒤 KT, ‘入 KT 中’의 KT, 杏仁 조문의 ‘肚腰□’ 각 1개. 공개 전사도 앞 두 곳을 KT로 보존하며 원 조제문이 훼손되어 확정 불가; 마지막도 평행문을 찾지 못해 보류."
+      "note": "잔여 3좌표 중 黑神散의 KT 두 곳은 독립 공개 처방의 구성·제법으로 栝樓를 확정했다. 마지막 ‘能去膈上熱，肚腰□’는 jicheng.tw, 岐黃之術 및 공개 PDF가 모두 □를 그대로 전하며 독립 평행문이나 영인 판독 근거를 찾지 못해 보류한다.",
+      "remaining_count": 1,
+      "status": "in_progress"
     },
     "D/D010.txt": {
       "collation_status": "in_progress",
@@ -503,10 +505,12 @@
       "note": "《素問》 공개 고전 전사와 동일 저본 계통으로 HT1·KT3·□5 및 연관 탈자를 전부 복원. 마지막 음훈은 㾓。音淵。酸痛也로 확정."
     },
     "A/A101.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 8,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "신규 규칙은 6개이나 두 번째 규칙이 KT 2자를 복원하므로 총 7자 해소되어 잔여15에서8로 감소한다. 모든 before는 본문 1회이며 기존39개 규칙과 문자열·좌표 중첩이 없다."
+      "note": "판정: A101에서는 皅皅가 정본이다. 돈황 Дх00613/P.3287 교록의 俥俥은 고대 별도 전승의 판독으로서 자료 가치는 있으나, 해당 연구가 그 문헌을 《素問》·《靈樞》·《難經》을 섞은 익명 초본이며 통행본과 편차가 있다고 설명한다. 반면 A101은 표제자 바로 뒤에 ‘普巴切’을 두었고, 《說文》은 皅(葩)의 반절 普巴切과 ‘靈樞經曰紛紛皅皅終而復始’를 동시에 보존한다. 따라서 기존 俥俥 두 규칙을 제거하고 동일 before의 皅皅 두 규칙으로 교체한다. 교체는 기존 좌표의 오복원 수정이므로 batch88-B의 remaining_count 0에는 증감이 없다.",
+      "remaining_count": 0,
+      "status": "completed"
     },
     "A/A203.txt": {
       "collation_status": "complete",

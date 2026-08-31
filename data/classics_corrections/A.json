@@ -39590,22 +39590,6 @@
       "reason": "주석이 해설하는 직전 원문 ‘旋旋然’에 대응함."
     },
     {
-      "before": "紛紛HT　HT　。終而復始",
-      "after": "紛紛俥俥。終而復始",
-      "expected_count": 1,
-      "evidence_url": "https://www.xn--9kr97fy4e51lwqq10lz60c.tw/NewChineseArtDownload.ashx?bid=3930",
-      "evidence_note": "돈황 의경 문헌 연구의 교록문에 동일 구절이 ‘紛紛俥俥，終而復始’로 확인됨.",
-      "reason": "돈황 의경 문헌 연구의 교록문에 동일 구절이 ‘紛紛俥俥，終而復始’로 확인됨."
-    },
-    {
-      "before": "紛紛HTHT者",
-      "after": "紛紛俥俥者",
-      "expected_count": 1,
-      "evidence_url": "https://www.xn--9kr97fy4e51lwqq10lz60c.tw/NewChineseArtDownload.ashx?bid=3930",
-      "evidence_note": "직전 경문 ‘紛紛俥俥’를 풀이하는 주석이므로 같은 글자로 확정함.",
-      "reason": "직전 경문 ‘紛紛俥俥’를 풀이하는 주석이므로 같은 글자로 확정함."
-    },
-    {
       "before": "英、HT　也。謂齒白如玉HT　也",
       "after": "英、華也。謂齒白如玉華也",
       "expected_count": 1,
@@ -39742,6 +39726,83 @@
       "expected_count": 1,
       "evidence_url": "https://cloudtcm.com/shu/t1/469/99",
       "evidence_note": "바로 앞 경문 `顳顬目𤬓脈痛`을 재인용해 해설하는 occurrence이므로 같은 외자 𤬓로 확정된다."
+    },
+    {
+      "before": "（肓音荒KT　之忍切與胗同）",
+      "after": "（肓音荒診之忍切與胗同）",
+      "expected_count": 1,
+      "reason": "본문 ‘必審其診’에 붙은 음주이며 ‘之忍切，與胗同’가 診의 음과 이체 관계를 직접 밝힌다.",
+      "evidence": "https://ctext.org/huangdi-neijing/zhang-lun"
+    },
+    {
+      "before": "惡去聲KT　音噎",
+      "after": "惡去聲噎音噎",
+      "expected_count": 1,
+      "reason": "바로 앞 경문의 ‘噎不得息’에 대응하는 표제자이며 뒤 음주 ‘音噎’가 글자를 직접 확정한다.",
+      "evidence": "https://ctext.org/huangdi-neijing/ci-jie-zhen-xie"
+    },
+    {
+      "before": "（HT　普巴切）",
+      "after": "（皅普巴切）",
+      "expected_count": 1,
+      "reason": "《說文》은 皅를 ‘普巴切’로 풀이하면서 《靈樞》의 동일 구절 ‘紛紛皅皅，終而復始’를 직접 인용한다.",
+      "evidence": "https://www.shuowen.org/view/4914"
+    },
+    {
+      "before": "此所以候歲之風HT　人者也",
+      "after": "此所以候歲之風賊傷人者也",
+      "expected_count": 1,
+      "reason": "《靈樞·歲露論》 평행문과 《黃帝內經太素》 교감문이 동일 문장을 ‘此所以候歲之風賊傷人者也’로 보존한다.",
+      "evidence": "https://cht.a-hospital.com/w/太素/八正风候; https://aeam.jp/wp/wp-content/uploads/2024/03/reisu.pdf"
+    },
+    {
+      "before": "其狀如穀實　KT　。常苦寒熱",
+      "after": "其狀如穀實　藪　。常苦寒熱",
+      "expected_count": 1,
+      "reason": "《靈樞·癰疽》의 약물·형상명 ‘𦸈藪’에서 둘째 글자에 해당한다. 공개 자전은 동일 경문과 藪의 독음 lóu를 함께 제시한다.",
+      "evidence": "https://www.zdic.net/hans/𦸈; https://cloudtcm.com/library/449/456018"
+    },
+    {
+      "before": "狀如穀實　KT　者。如米穀如栝蔞",
+      "after": "狀如穀實　藪　者。如米穀如栝蔞",
+      "expected_count": 1,
+      "reason": "직전 ‘𦸈藪’ 경문을 재인용해 栝蔞의 열매와 비교하는 해설이므로 둘째 글자는 藪이다.",
+      "evidence": "https://www.zdic.net/hans/𦸈; https://cloudtcm.com/library/449/456018"
+    },
+    {
+      "before": "（音括KT　音樓）",
+      "after": "（音括藪音樓）",
+      "expected_count": 1,
+      "reason": "‘𦸈藪’ 두 글자의 연속 음주에서 ‘音樓’ 앞 표제자는 藪이며 공개 자전의 독음 lóu와 일치한다.",
+      "evidence": "https://www.zdic.net/hans/𦸈"
+    },
+    {
+      "before": "紛紛HT　HT　。終而復始",
+      "after": "紛紛皅皅。終而復始",
+      "expected_count": 1,
+      "reason": "A101 자체 음주가 목표 글자를 ‘普巴切’로 밝히고, 《說文解字注》가 皅/葩의 반절을 普巴切로 제시하면서 《靈樞》의 바로 이 문장을 ‘紛紛皅皅，終而復始’로 직접 인용한다. 통행 《靈樞》 중언 연구도 皅皅로 수록한다.",
+      "evidence": "https://www.shuowen.org/view/4914; https://zdic.net/hant/葩; https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12353867"
+    },
+    {
+      "before": "紛紛HTHT者",
+      "after": "紛紛皅皅者",
+      "expected_count": 1,
+      "reason": "직전 경문 ‘紛紛皅皅’를 재인용해 해설하는 동일 판본의 주석이다. A101의 ‘皅普巴切’ 음주와 《說文》의 직접 《靈樞》 인용에 따라 같은 글자로 통일한다.",
+      "evidence": "https://www.shuowen.org/view/4914; https://zdic.net/hant/葩"
+    },
+    {
+      "before": "夫寒熱者。厥陰陽明之氣病也。如穀實　KT　者",
+      "after": "夫寒熱者。厥陰陽明之氣病也。如穀實　藪　者",
+      "expected_count": 1,
+      "reason": "직전 𦸈藪 경문을 재인용하는 해설이므로 결자는 藪이다.",
+      "evidence": "https://www.zdic.net/hans/𦸈; https://cloudtcm.com/library/449/456018"
+    },
+    {
+      "before": "留於脈絡之間。即如竄　寒熱之毒。其本在臟",
+      "after": "留於脈絡之間。即如竄藪寒熱之毒。其本在臟",
+      "expected_count": 1,
+      "reason": "앞의 𦸈藪를 다시 가리키는 문맥으로 공백은 藪이다.",
+      "evidence": "https://www.zdic.net/hans/𦸈; https://cloudtcm.com/library/449/456018"
     }
   ],
   "A/A003.txt": [

@@ -694,5 +694,19 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
     "evidence_note": "환약 조제 문맥의 丸劑.",
     "reason": "환약 조제 문맥의 丸劑."
+  },
+  {
+    "before": "檳榔KT（以盛盡藥為度",
+    "after": "檳榔　栝樓（以盛盡藥為度",
+    "expected_count": 1,
+    "reason": "《博濟方》 권5 黑神散의 공개 처방 구성은 檳榔 다음 약재를 ‘栝樓（以盛盡藥為度…）’로 직접 제시한다.",
+    "evidence": "https://www.zysj.com.cn/zhongyaofang/heishensan/index.html"
+  },
+  {
+    "before": "上等分杵羅為末，入　KT　中",
+    "after": "上等分杵羅為末，入栝樓中",
+    "expected_count": 1,
+    "reason": "《博濟》 권5 黑神散의 공개 평행 처방이 제법을 ‘上為末，入栝樓中’으로 직접 보존한다.",
+    "evidence": "https://www.cntcm.org/fang/heishensan.html; https://www.zysj.com.cn/zhongyaofang/heishensan/index.html"
   }
 ]
