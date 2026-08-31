@@ -93,5 +93,41 @@
     "reason": "두 출현이 각각 眵䁾 및 眵䁾冷淚로 동일하며 K003 평행 판본의 해당 구절과 일치한다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
     "expected_count": 2
+  },
+  {
+    "before": "[c]vfohg[/c]",
+    "after": "紝",
+    "expected_count": 1,
+    "reason": "翠霞錠子를 瘡內에 넣는 구절이 공개 전사에서 `紝入瘡內`로 확인된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1_1/index.html",
+    "evidence_note": "동일 구절을 보존한 外科理例 공개 전사도 `紝入瘡內，歹肉盡去`이다."
+  },
+  {
+    "before": "[c]oylc[/c]",
+    "after": "㑊",
+    "expected_count": 1,
+    "reason": "유일 출현이 병명 `寒熱解㑊`이며 K003 평행본과 공개 의서 용례가 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "[c]llhwp[/c]",
+    "after": "窗",
+    "expected_count": 1,
+    "reason": "足陽明胃經 혈자리 순서 `屋翳、膺窗、乳中、乳根`으로 유일하게 확정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "[c]hacsh[/c]",
+    "after": "切",
+    "expected_count": 1,
+    "reason": "유일 출현 `繞臍切痛`이 K003 평행본 및 침구 고전의 정형 주치문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "[c]clmy[/c]",
+    "after": "䤵",
+    "expected_count": 1,
+    "reason": "목설을 베는 도구가 공개 針灸聚英의 동일 문장에서 `䤵鍼銳而小者`로 확인된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1_1/index.html"
   }
 ]

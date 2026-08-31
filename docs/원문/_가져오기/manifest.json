@@ -4305,9 +4305,16 @@
       "output_directory": "醫方集解(D075a)",
       "markdown_files": 1,
       "translation_units": 47,
-      "corrections_applied": 88,
+      "corrections_applied": 117,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 106622:106623",
+        "교정 좌표 중첩: 116056:116057",
+        "교정 좌표 중첩: 207323:207324",
+        "교정 좌표 중첩: 209161:209162",
+        "교정 좌표 중첩: 245212:245213",
+        "교정 좌표 중첩: 264285:264286"
+      ]
     },
     {
       "source_path": "D/D076.txt",
@@ -8112,7 +8119,7 @@
       "output_directory": "針灸聚英(K003a)",
       "markdown_files": 10,
       "translation_units": 185,
-      "corrections_applied": 13,
+      "corrections_applied": 18,
       "punctuated": false,
       "warnings": []
     },
@@ -13493,7 +13500,7 @@
       "output_directory": "醫宗金鑑-刺灸心法要訣(P0013a)",
       "markdown_files": 1,
       "translation_units": 14,
-      "corrections_applied": 7,
+      "corrections_applied": 30,
       "punctuated": false,
       "warnings": []
     },

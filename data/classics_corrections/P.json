@@ -4504,6 +4504,167 @@
       "after": "行腮頷下",
       "expected_count": 1,
       "reason": "地倉穴 위치 설명을 동일 계통 P0013 평행문과 대조"
+    },
+    {
+      "before": "",
+      "after": "髎",
+      "expected_count": 94,
+      "reason": "PUA U+EF56 94회. 禾髎·巨髎·顴髎·肩髎 등 전 출현이 혈명·골공의 髎로 고정되며 P0013과 공개 전사가 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "骶",
+      "expected_count": 4,
+      "reason": "PUA U+EF59 4회. 骶端·尾骶 및 그 해설에만 출현하고 자매본과 공개 전사가 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "髃",
+      "expected_count": 19,
+      "reason": "PUA U+EF5B 19회. 髃骨·肩髃穴 및 동일 골명 해설로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "腨",
+      "expected_count": 18,
+      "reason": "PUA U+EF5D 18회. 하퇴 해부명 腨과 腨內·上腨 문맥으로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "䏚",
+      "expected_count": 2,
+      "reason": "PUA U+EF64 2회. ‘䏚者，脅下無肋骨空軟處’의 표제와 해설로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "䀮",
+      "expected_count": 6,
+      "reason": "PUA U+EF67 6회. 전부 視物䀮䀮의 흐린 시야 문맥이며 공개 의서 평행문도 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/針灸資生經/index.html"
+    },
+    {
+      "before": "",
+      "after": "瘂",
+      "expected_count": 16,
+      "reason": "PUA U+EF68 16회. 전 출현이 독맥 혈명 瘂門으로 고정되고 공개 전사와 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "㿗",
+      "expected_count": 2,
+      "reason": "PUA U+EF6D 2회. 두 출현 모두 曲泉穴 주치의 㿗疝이다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "癇",
+      "expected_count": 20,
+      "reason": "PUA U+EF6E 20회. 癲癇·羊癇·驚癇 등 동일 병증자로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "郄",
+      "expected_count": 19,
+      "reason": "PUA U+EF73 19회. 郄門·陰郄 및 經絡郄隙의 郄로 모든 출현이 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "䪼",
+      "expected_count": 9,
+      "reason": "PUA U+EF78 9회. 目下眶骨·鼻旁 해부명 䪼과 그 표제·해설로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "噫",
+      "expected_count": 8,
+      "reason": "PUA U+EF7C 8회. 전 출현이 족태양 혈명 噫譆이다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "顬",
+      "expected_count": 1,
+      "reason": "PUA U+EF85 1회. 고정 해부명 顳顬穴의 顬로 자매본과 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "瞤",
+      "expected_count": 2,
+      "reason": "PUA U+EF87 2회. 두 출현 모두 眼目瞤動의 본문과 해설이다.",
+      "evidence": "https://jicheng.tw/tcm/book/針灸資生經/index.html"
+    },
+    {
+      "before": "",
+      "after": "囟",
+      "expected_count": 5,
+      "reason": "PUA U+EF88 5회. 전 출현이 독맥 혈명 囟會이다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "癧",
+      "expected_count": 14,
+      "reason": "PUA U+EF8A 14회. 모두 瘰癧 및 해당 혈위 주치 문맥이다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "癥",
+      "expected_count": 2,
+      "reason": "PUA U+EF8B 2회. 두 출현 모두 고정 병명열 痰瘧癥癖이다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "憹",
+      "expected_count": 3,
+      "reason": "PUA U+EF8D 3회. 모두 懊憹·心悸 문맥으로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "痎",
+      "expected_count": 3,
+      "reason": "PUA U+EF8E 3회. 夜發痎·晝發痎의 학질 병명으로 고정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "腮",
+      "expected_count": 7,
+      "reason": "PUA U+EFEE 7회. 面頰腮腫·腮項 등 안면 해부 문맥으로 고정되며 기존 shard의 동일 계열 복원과도 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "胛",
+      "expected_count": 1,
+      "reason": "PUA U+EFEF 1회. ‘肩胛…俗名胛板子骨’의 자명한 해설로 확정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "膕",
+      "expected_count": 1,
+      "reason": "PUA U+EFFE 1회. 委中穴의 고정 위치구 ‘委中曲膕裏’와 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
+    },
+    {
+      "before": "",
+      "after": "輒",
+      "expected_count": 1,
+      "reason": "PUA U+F150 1회. 족소양담경의 표준 혈명 輒筋으로 확정된다.",
+      "evidence": "https://jicheng.tw/tcm/book/醫宗金鑑/刺灸心法要訣/index.html"
     }
   ],
   "P/P0013.txt": [

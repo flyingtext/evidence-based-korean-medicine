@@ -102,7 +102,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 860,
       "punctuation_status": "source_present",
-      "note": "기존 remaining 958에서 모든 출현이 동일 글자로 확정되는 레거시 코드 98곳만 차감했다. 같은 코드가 서로 다른 글자를 가리키는 khuc 등 27개 코드와 비조판 전각공백 833곳은 보류했다."
+      "note": "기존 shard 미복원 코드 가운데 전 출현(각 1회)이 자매본과 공개 전사에서 고정되는 5개만 해소했다. klmc는 㿉와 潰, khuc는 疹과 㿗 등 동일 코드가 문맥별로 달라 전역 규칙에서 제외했다.",
+      "remaining_count": 855,
+      "status": "in_progress"
     },
     "K/K005.txt": {
       "collation_status": "in_progress",
@@ -204,7 +206,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 190,
       "punctuation_status": "source_present",
-      "note": "같은 PUA U+F004의 잔여 30회를 전부 硬으로 검증했다. 나머지 PUA는 코드별 의미가 단일하다고 입증되지 않아 보류했고 유일한 전각 공백은 처방 조판이다."
+      "note": "PUA 전수 집계: 278자·42코드 — U+EF5F:46, EF69:5, EF6C:8, EF6E:13, EF87:18, EF8A:5, EF8D:6, EF8F:2, EF96:2, EFA7:4, EFAD:2, EFBD:4, EFC3:5, EFC4:2, EFC5:11, EFD5:2, EFD6:17, EFDF:5, EFE1:4, EFE7:1, EFF1:9, F004:49, F007:1, F033:4, F089:1, F08E:8, F0C7:1, F0CB:3, F0CF:2, F0D0:5, F0D1:2, F0D3:4, F0D4:3, F0D7:6, F0D8:5, F0DE:4, F0DF:2, F0E0:1, F0E9:2, F0EC:1, F0F2:1, F0F4:2. 기존 shard가 일부 또는 전부 다룬 코드는 신규 계산에서 제외했다. 미복원 코드 중 D075 동일 문장과 공개 의서 평행문으로 전 출현이 고정된 29코드/132자를 신규 확정하여 현 remaining 190에서만 차감했다. 공개 대조 기본 URL: https://jicheng.tw/tcm/book/%E5%90%8C%E4%BA%BA%E6%B4%BB%E5%A3%BD%E6%96%B9/index.html",
+      "remaining_count": 58,
+      "status": "in_progress"
     },
     "E/E004.txt": {
       "collation_status": "in_progress",
@@ -456,7 +460,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 352,
       "punctuation_status": "source_present",
-      "note": "B002 및 공개 《傷寒總病論》 전사·본문 자체 음훈/교주로 외자 30 occurrence를 고유 문맥 규칙으로 복원. thvo 3곳은 동일 코드가 문맥상 불명확하여 보류."
+      "note": "코드 132개 중 129개는 기존 shard가 이미 복원한다. 남은 thvo 3회는 교감주에서 서로 다른 대상 문자를 대신한다(支結의 結과 瓜蒂 교감 항목)고 판단되어 전역 치환 규칙을 만들지 않았다.",
+      "remaining_count": 352,
+      "status": "in_progress"
     },
     "B/B008.txt": {
       "collation_status": "complete",
@@ -4308,7 +4314,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 268,
       "punctuation_status": "source_present",
-      "note": "잔여 28종 PUA 268자를 재좌표화했으나 동일 코드가 다수 문맥에 걸쳐 있고 배포 외자표가 없어 전역 매핑을 검증할 수 없다. occurrence별 독립 판독도 이번 감사에서 추가 확정되지 않아 보류한다."
+      "note": "PUA 276좌표를 코드포인트별 전수 집계하고 기존 shard가 처리하는 8좌표를 제외했다. 미복원 28종 268좌표 중 P0013 자매본과 공개 《醫宗金鑑·刺灸心法要訣》 및 평행 의서에서 전 출현이 고정되는 23종 257좌표만 복원했다. U+EF57·EF5C·EF60·EFD5·EFE7의 11좌표는 자매본도 공백이거나 문맥 대조가 충분하지 않아 보류한다.",
+      "remaining_count": 11,
+      "status": "in_progress"
     },
     "P/P0100.txt": {
       "collation_status": "in_progress",

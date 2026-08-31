@@ -644,5 +644,179 @@
     "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
     "evidence_url": "source/D/D075.txt",
     "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+  },
+  {
+    "before": "",
+    "after": "飧",
+    "expected_count": 5,
+    "evidence": "U+EF69 5회. 전 출현이 飧泄이며 D075·공개 평행문과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "㿗",
+    "expected_count": 8,
+    "evidence": "U+EF6C 8회. 전 출현이 㿗疝·腸㿗·卵㿗·水㿗·氣㿗의 고정 병명이다."
+  },
+  {
+    "before": "",
+    "after": "癇",
+    "expected_count": 13,
+    "evidence": "U+EF6E 13회. 전 출현이 驚癇·癲癇·風癇 등 癇 병명이며 D075 평행문과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "瞤",
+    "expected_count": 18,
+    "evidence": "U+EF87 18회. 전 출현이 肉瞤·瞤惕·振瞤이며 자매본과 의학 평행문에서 고정된다."
+  },
+  {
+    "before": "",
+    "after": "癧",
+    "expected_count": 5,
+    "evidence": "U+EF8A 5회. 전 출현이 瘰癧이며 자매본·공개본과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "憹",
+    "expected_count": 6,
+    "evidence": "U+EF8D 6회. 전 출현이 懊憹이며 공개 의서의 동일 조문과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "鬥",
+    "expected_count": 2,
+    "evidence": "U+EF8F 2회. 두 출현 모두 ‘渴而穿井，鬥而鑄兵’ 고유 성구다."
+  },
+  {
+    "before": "",
+    "after": "賊",
+    "expected_count": 2,
+    "evidence": "U+EF96 2회. 두 출현 모두 약재 烏賊骨이다."
+  },
+  {
+    "before": "",
+    "after": "虻",
+    "expected_count": 4,
+    "evidence": "U+EFA7 4회. 전 출현이 약재 虻蟲이며 ‘即蚊蟲’ 주석과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "遍",
+    "expected_count": 2,
+    "evidence": "U+EFAD 2회. 周身·三焦 문맥의 周遍으로 고정된다."
+  },
+  {
+    "before": "",
+    "after": "譫",
+    "expected_count": 4,
+    "evidence": "U+EFBD 4회. 전 출현이 傷寒 조문의 譫語다."
+  },
+  {
+    "before": "",
+    "after": "鉤",
+    "expected_count": 5,
+    "evidence": "U+EFC3 5회. 전 출현이 처방·약재 鉤藤이다."
+  },
+  {
+    "before": "",
+    "after": "微",
+    "expected_count": 2,
+    "evidence": "U+EFC4 2회. 연속 출현이 ‘微微汗出’로 고정된다."
+  },
+  {
+    "before": "",
+    "after": "疴",
+    "expected_count": 2,
+    "evidence": "U+EFD5 2회. 두 출현 모두 沉疴다."
+  },
+  {
+    "before": "",
+    "after": "藁",
+    "expected_count": 17,
+    "evidence": "U+EFD6 17회. 전 출현이 약재 藁本이다."
+  },
+  {
+    "before": "",
+    "after": "腭",
+    "expected_count": 5,
+    "evidence": "U+EFDF 5회. 전 출현이 도인법의 ‘舌抵上腭’이다."
+  },
+  {
+    "before": "",
+    "after": "㽲",
+    "expected_count": 4,
+    "evidence": "U+EFE1 4회. 전 출현이 心腹㽲痛이며 音鳩·絞 주석 및 공개 평행문과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "硇",
+    "expected_count": 9,
+    "evidence": "U+EFF1 9회. 전 출현이 약재 硇砂다."
+  },
+  {
+    "before": "",
+    "after": "樟",
+    "expected_count": 1,
+    "evidence": "U+F007 1회. 해독법의 烏樟樹根葉이다."
+  },
+  {
+    "before": "",
+    "after": "衄",
+    "expected_count": 1,
+    "evidence": "U+F089 1회. ‘鼻衄不止’ 병명으로 고정된다."
+  },
+  {
+    "before": "",
+    "after": "脈",
+    "expected_count": 1,
+    "evidence": "U+F0C7 1회. ‘寒熱脈緊不大’의 脈이다."
+  },
+  {
+    "before": "",
+    "after": "奼",
+    "expected_count": 2,
+    "evidence": "U+F0CF 2회. 전 출현이 도가 용어 嬰兒奼女의 奼다."
+  },
+  {
+    "before": "",
+    "after": "朮",
+    "expected_count": 4,
+    "evidence": "U+F0D3 4회. 전 출현이 약재 莪朮이다."
+  },
+  {
+    "before": "",
+    "after": "窨",
+    "expected_count": 3,
+    "evidence": "U+F0D4 3회. 전 출현이 神麴 설명 ‘蒸窨之物’ 및 그 음주다."
+  },
+  {
+    "before": "",
+    "after": "薑",
+    "expected_count": 1,
+    "evidence": "U+F0E0 1회. 瘀血 가감법의 薑汁이다."
+  },
+  {
+    "before": "",
+    "after": "肶",
+    "expected_count": 2,
+    "evidence": "U+F0E9 2회. 전 출현이 雞肶胵이며 ‘雞之脾也’ 주석과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "祗",
+    "expected_count": 1,
+    "evidence": "U+F0EC 1회. 출전 저자 韓祗和의 祗다."
+  },
+  {
+    "before": "",
+    "after": "樞",
+    "expected_count": 1,
+    "evidence": "U+F0F2 1회. 少陽 설명의 ‘謂之樞’다."
+  },
+  {
+    "before": "",
+    "after": "蓖",
+    "expected_count": 2,
+    "evidence": "U+F0F4 2회. 두 출현이 蓖麻油·蓖麻子다."
   }
 ]
