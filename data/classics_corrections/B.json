@@ -19105,6 +19105,20 @@
       "evidence_url": "https://www.zysj.com.cn/lilunshuji/zhongyicidian2057/40459.html",
       "evidence_note": "왕리의 서명이 《醫經溯洄集》임이 독립 서지 자료에서 확인됨.",
       "reason": "왕리의 서명이 《醫經溯洄集》임이 독립 서지 자료에서 확인됨."
+    },
+    {
+      "before": "諸肢節疼痛。身體HT　羸。（脈經。作魁瘰",
+      "after": "諸肢節疼痛。身體尫羸。（脈經。作魁瘰",
+      "expected_count": 1,
+      "evidence_url": "https://www.hkjtcm.org/journals/2022%E5%B9%B4%E7%AC%AC%E5%8D%81%E4%B8%83%E5%8D%B7%E7%AC%AC%E4%B8%80%E6%9C%9F/10.%20%E6%A1%82%E6%9E%9D%E9%A1%9E%E6%96%B9%E8%BE%A8%E6%B2%BB%E7%9A%AE%E8%86%9A%E7%97%85.pdf",
+      "evidence_note": "학술 PDF가 《金匱要略》 동일 조문을 `諸肢節疼痛，身體尫羸，腳腫如脫`로 직접 인용한다."
+    },
+    {
+      "before": "按HT　羸。恐以魁瘰為是。爾雅",
+      "after": "按尫羸。恐以魁瘰為是。爾雅",
+      "expected_count": 1,
+      "evidence_url": "https://cnwm.nricm.edu.tw/cnwm/PDF/ch07.pdf",
+      "evidence_note": "국가중의약연구소 자료의 《金匱要略》 인용도 `身體尫羸`로 전사하며, 바로 앞 원문을 재지칭하는 주석의 표제 역시 尫羸로 확정된다."
     }
   ],
   "B/B106.txt": [

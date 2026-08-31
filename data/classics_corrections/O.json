@@ -114160,6 +114160,22 @@
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/SSID-13209620_%E4%B8%AD%E5%9C%8B%E9%86%AB%E5%AD%B8%E5%A4%A7%E6%88%90_%E5%B7%A2%E6%B0%8F%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E7%B8%BD%E8%AB%96_2_%E9%80%9A%E6%B2%BB%E9%A1%9E.pdf",
       "evidence_note": "같은 평행문에서 동작 해설이 填腹으로 이어짐.",
       "reason": "같은 평행문에서 동작 해설이 填腹으로 이어짐."
+    },
+    {
+      "before": "烏梅，味苦平。主下氣，除煩熱，安心神，支體疼痛、偏枯不仁，止下痢、好睡、口乾。\n\nHT　，寒。益心氣，補中焦不足。\n\n櫻桃",
+      "after": "烏梅，味苦平。主下氣，除煩熱，安心神，支體疼痛、偏枯不仁，止下痢、好睡、口乾。\n\n𧁲，寒。益心氣，補中焦不足。\n\n櫻桃",
+      "expected_count": 1,
+      "reason": "烏梅와 櫻桃 사이에 열거된 과실명은 𧁲이다.",
+      "evidence_url": "https://dollyyang.com/yangsheng-daoyin-miji-%E9%A4%8A%E7%94%9F%E5%B0%8E%E5%BC%95%E7%A7%98%E7%B1%8D-secret-guide-to-therapeutic-exercises-and-nourishing-life/",
+      "evidence_note": "독립 공개 전사가 동일 문단을 `𧁲，寒。益心氣，補中焦不足`로 제시한다."
+    },
+    {
+      "before": "若卒得中風病，宿固　HT　不隨，耳聾不聞",
+      "after": "若卒得中風病，宿固萎退不隨，耳聾不聞",
+      "expected_count": 1,
+      "reason": "중풍 뒤 사지가 위축되어 움직이지 못한다는 도인법 병증문이다.",
+      "evidence_url": "https://discovery.ucl.ac.uk/10061324/1/Dolly%20Yang%20PhD%20thesis%20UCL%202018.pdf",
+      "evidence_note": "원문과 번역을 함께 제시한 독립 연구에서 `宿固萎退不隨`로 확인된다."
     }
   ],
   "O/O048.txt": [
