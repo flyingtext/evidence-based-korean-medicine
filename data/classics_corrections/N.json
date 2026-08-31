@@ -8078,6 +8078,13 @@
       "expected_count": 1,
       "evidence": "발톱과 살 사이 홈을 뜻하는 해부 표현 甲溝.",
       "reason": "발톱과 살 사이 홈을 뜻하는 해부 표현 甲溝."
+    },
+    {
+      "before": "夫□致膠煎以伏流之阿水，則名阿膠",
+      "after": "夫驢皮膠煎以伏流之阿水，則名阿膠",
+      "expected_count": 1,
+      "reason": "阿膠의 재료와 명명 원리를 설명하는 문장으로, 같은 책 권하의 ‘驢皮煎膠而用阿井水者，取濟水之伏流也’와 정확히 평행한다.",
+      "evidence_note": "현재 ‘□致膠’는 문맥상 성립하지 않으며 내부 평행문의 驢皮·煎膠·伏流·阿井水 네 요소가 모두 일치한다. 교감 대상 권상에서 1회 발생한다."
     }
   ],
   "N/N026.txt": [
@@ -17424,6 +17431,70 @@
       "expected_count": 1,
       "evidence": "두 신온해표 약재 細辛·藁本의 열거.",
       "reason": "두 신온해표 약재 細辛·藁本의 열거."
+    },
+    {
+      "before": "[h2]自序[/h2]\n醫之有案也，　於漢之倉公",
+      "after": "[h2]自序[/h2]\n醫之有案也，昉於漢之倉公",
+      "expected_count": 1,
+      "reason": "醫案의 기원을 倉公에서 시작되었다고 서술한 문장이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E5%88%9D%E9%9B%86",
+      "evidence_note": "독립 Wikisource 전사에 `醫之有案也，昉於漢之倉公`으로 확인."
+    },
+    {
+      "before": "因夏傷於暑，秋發　瘧，邪伏於陰",
+      "after": "因夏傷於暑，秋發痎瘧，邪伏於陰",
+      "expected_count": 1,
+      "reason": "여름 더위 뒤 가을에 발생하는 병명 痎瘧이다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "독립 영인 계통의 동일 문맥으로 확인."
+    },
+    {
+      "before": "家弟瑞生，昔游新安，適遘　瘧，觀泉先生為之蠲　，歸述盛名",
+      "after": "家弟瑞生，昔游新安，適遘痎瘧，觀泉先生為之蠲疴，歸述盛名",
+      "expected_count": 1,
+      "reason": "병명 痎瘧과 병을 제거한다는 관용어 蠲疴가 대구를 이룬다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "侯序의 독립 영인 전사에서 두 글자를 확인."
+    },
+    {
+      "before": "再考古人論積聚，分　瘕兩端。　者征也，有塊可征，其病在血",
+      "after": "再考古人論積聚，分癥瘕兩端。癥者征也，有塊可征，其病在血",
+      "expected_count": 1,
+      "reason": "고정 병명 癥瘕와 이어지는 어원 풀이 `癥者征也`이다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "독립 영인 OCR에 `分癥瘕兩端，癥者徵也`에 해당하는 문장이 확인."
+    },
+    {
+      "before": "手抖目竄，齒　唇干，舌黃肌熱",
+      "after": "手抖目竄，齒噤唇干，舌黃肌熱",
+      "expected_count": 1,
+      "reason": "痙厥 증후에서 이를 악무는 상태는 齒噤이다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "독립 영인 계통의 동일 증후 문맥으로 확인."
+    },
+    {
+      "before": "語云：昌陽引年，欲進　苓，其斯之謂歟",
+      "after": "語云：昌陽引年，欲進豨苓，其斯之謂歟",
+      "expected_count": 1,
+      "reason": "韓愈 〈進學解〉의 직접 인용 `欲進其豨苓也`이다.",
+      "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=37652&la=0&powerMode=2",
+      "evidence_note": "교육부 이체자사전과 〈進學解〉 원문에서 豨苓을 확인."
+    },
+    {
+      "before": "夜不安寐，方內酌除　朮，加以玉竹，本草言其用代參　，不寒不燥，且能治風淫濕毒，寒熱　瘧",
+      "after": "夜不安寐，方內酌除白朮，加以玉竹，本草言其用代參耆，不寒不燥，且能治風淫濕毒，寒熱痎瘧",
+      "expected_count": 1,
+      "reason": "약명 白朮·參耆와 병명 痎瘧의 연속 문맥이다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "독립 영인 계통에서 해당 약명과 병명을 대조 확인."
+    },
+    {
+      "before": "今早閱劑內生黃芩，藥店錯發生黃　，比令換去，得無昨劑中誤服黃　耶?",
+      "after": "今早閱劑內生黃芩，藥店錯發生黃耆，比令換去，得無昨劑中誤服黃耆耶?",
+      "expected_count": 1,
+      "reason": "약점이 生黃芩 대신 잘못 내준 약과 환자가 전날 잘못 복용한 약은 뒤에서 이미 확정된 `誤服黃耆`와 같은 黃耆이다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+      "evidence_note": "같은 단락의 후속 명시 `誤服黃耆`와 독립 영인 계통으로 두 자리를 교차 확인."
     }
   ],
   "N/N048.txt": [
@@ -17591,6 +17662,26 @@
       "expected_count": 1,
       "evidence": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현.",
       "reason": "비토의 덕이 굳건하고 끝없다는 土德無疆의 고정 표현."
+    },
+    {
+      "before": "燥萬物者，莫　乎火",
+      "after": "燥萬物者，莫熯乎火",
+      "expected_count": 1,
+      "reason": "《周易·說卦》 정문 ‘燥萬物者，莫熯乎火’를 직접 인용한 문장.",
+      "evidence_note": "앞의 ‘燥萬物者’부터 정문과 일치함."
+    },
+    {
+      "before": "則參、　、桂、附，在所必用",
+      "after": "則參、耆、桂、附，在所必用",
+      "expected_count": 1,
+      "reason": "溫補 처방의 정형 약물 열거 人參·黃耆·肉桂·附子.",
+      "evidence_note": "앞 문장이 命門火衰와 補益元氣를 논함."
+    },
+    {
+      "before": "八卦之中，離為　物。五行之中，火能焚物",
+      "after": "八卦之中，離為火物。五行之中，火能焚物",
+      "expected_count": 1,
+      "reason": "離卦의 오행 배속은 火이며 곧이어 火能焚物이라 평행 설명함."
     }
   ],
   "N/N059.txt": [

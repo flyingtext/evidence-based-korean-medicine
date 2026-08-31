@@ -569,5 +569,69 @@
     "expected_count": 1,
     "evidence": "두 신온해표 약재 細辛·藁本의 열거.",
     "reason": "두 신온해표 약재 細辛·藁本의 열거."
+  },
+  {
+    "before": "[h2]自序[/h2]\n醫之有案也，　於漢之倉公",
+    "after": "[h2]自序[/h2]\n醫之有案也，昉於漢之倉公",
+    "expected_count": 1,
+    "reason": "醫案의 기원을 倉公에서 시작되었다고 서술한 문장이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E5%88%9D%E9%9B%86",
+    "evidence_note": "독립 Wikisource 전사에 `醫之有案也，昉於漢之倉公`으로 확인."
+  },
+  {
+    "before": "因夏傷於暑，秋發　瘧，邪伏於陰",
+    "after": "因夏傷於暑，秋發痎瘧，邪伏於陰",
+    "expected_count": 1,
+    "reason": "여름 더위 뒤 가을에 발생하는 병명 痎瘧이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "독립 영인 계통의 동일 문맥으로 확인."
+  },
+  {
+    "before": "家弟瑞生，昔游新安，適遘　瘧，觀泉先生為之蠲　，歸述盛名",
+    "after": "家弟瑞生，昔游新安，適遘痎瘧，觀泉先生為之蠲疴，歸述盛名",
+    "expected_count": 1,
+    "reason": "병명 痎瘧과 병을 제거한다는 관용어 蠲疴가 대구를 이룬다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "侯序의 독립 영인 전사에서 두 글자를 확인."
+  },
+  {
+    "before": "再考古人論積聚，分　瘕兩端。　者征也，有塊可征，其病在血",
+    "after": "再考古人論積聚，分癥瘕兩端。癥者征也，有塊可征，其病在血",
+    "expected_count": 1,
+    "reason": "고정 병명 癥瘕와 이어지는 어원 풀이 `癥者征也`이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "독립 영인 OCR에 `分癥瘕兩端，癥者徵也`에 해당하는 문장이 확인."
+  },
+  {
+    "before": "手抖目竄，齒　唇干，舌黃肌熱",
+    "after": "手抖目竄，齒噤唇干，舌黃肌熱",
+    "expected_count": 1,
+    "reason": "痙厥 증후에서 이를 악무는 상태는 齒噤이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "독립 영인 계통의 동일 증후 문맥으로 확인."
+  },
+  {
+    "before": "語云：昌陽引年，欲進　苓，其斯之謂歟",
+    "after": "語云：昌陽引年，欲進豨苓，其斯之謂歟",
+    "expected_count": 1,
+    "reason": "韓愈 〈進學解〉의 직접 인용 `欲進其豨苓也`이다.",
+    "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=37652&la=0&powerMode=2",
+    "evidence_note": "교육부 이체자사전과 〈進學解〉 원문에서 豨苓을 확인."
+  },
+  {
+    "before": "夜不安寐，方內酌除　朮，加以玉竹，本草言其用代參　，不寒不燥，且能治風淫濕毒，寒熱　瘧",
+    "after": "夜不安寐，方內酌除白朮，加以玉竹，本草言其用代參耆，不寒不燥，且能治風淫濕毒，寒熱痎瘧",
+    "expected_count": 1,
+    "reason": "약명 白朮·參耆와 병명 痎瘧의 연속 문맥이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "독립 영인 계통에서 해당 약명과 병명을 대조 확인."
+  },
+  {
+    "before": "今早閱劑內生黃芩，藥店錯發生黃　，比令換去，得無昨劑中誤服黃　耶?",
+    "after": "今早閱劑內生黃芩，藥店錯發生黃耆，比令換去，得無昨劑中誤服黃耆耶?",
+    "expected_count": 1,
+    "reason": "약점이 生黃芩 대신 잘못 내준 약과 환자가 전날 잘못 복용한 약은 뒤에서 이미 확정된 `誤服黃耆`와 같은 黃耆이다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
+    "evidence_note": "같은 단락의 후속 명시 `誤服黃耆`와 독립 영인 계통으로 두 자리를 교차 확인."
   }
 ]

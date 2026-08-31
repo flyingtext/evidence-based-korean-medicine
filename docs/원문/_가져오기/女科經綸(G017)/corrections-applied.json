@@ -1084,5 +1084,23 @@
     "expected_count": 1,
     "evidence_url": "source/G/G017a.txt",
     "evidence_note": "독립 전사 G017a의 고유 좌우 문맥 대조로 결자 臁 확정."
+  },
+  {
+    "before": "汗之則變筋惕肉　，或郁冒昏迷",
+    "after": "汗之則變筋惕肉瞤，或郁冒昏迷",
+    "expected_count": 1,
+    "reason": "산후 망혈 뒤 발한의 정형 병후 ‘筋惕肉瞤’."
+  },
+  {
+    "before": "黑崩者形如　血",
+    "after": "黑崩者形如衃血",
+    "expected_count": 1,
+    "reason": "오색대하·붕루에서 검은 색상을 묘사하는 정형어 ‘黑如衃血’."
+  },
+  {
+    "before": "腸干者，濃煎黃　湯",
+    "after": "腸干者，濃煎黃耆湯",
+    "expected_count": 1,
+    "reason": "산후 탈항·장탈의 기허를 보하는 정형 약명 黃耆湯."
   }
 ]

@@ -884,5 +884,13 @@
     "expected_count": 1,
     "evidence_url": "https://cloudtcm.com/shu/t1/442/29",
     "evidence_note": "《內經博議》 독립 전문의 동일 문장이 `則當清謐以寧心，固精以養神，節勞以養筋`으로 전사된다."
+  },
+  {
+    "before": "聚如蟹HT　。其病如今之痢",
+    "after": "聚如蟹。其病如今之痢",
+    "expected_count": 1,
+    "reason": "《內經博議》 독립 전사의 동일 문장이 ‘聚如蟹。其病如今之痢’로 이어져 蟹 뒤 표식은 글자가 아니라 잉여 OCR 표식임을 확인.",
+    "evidence_url": "https://gushu.net.cn/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence_note": "교감 대상 권4 마크다운에서 이 문맥은 1회이며 기존 A201 규칙과 중첩하지 않는다."
   }
 ]

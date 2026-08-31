@@ -46,9 +46,9 @@
     },
     "N/N036.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 95,
+      "unresolved_candidates": 94,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백262·HT0·KT0·□1이다. 감사에서 확정된 조판168을 빼면 공백 후보94와 □1, 합계95로 최신 상태와 일치한다. `夫□致膠煎`은 주변 OCR 오염까지 얽혀 단일 글자만 확정할 수 없으므로 보류했다."
+      "note": "최신 잔여 95에서 □ 좌표 1건을 내부 평행문으로 확정했다. 주변의 致도 皮의 OCR 오기이므로 occurrence 고유 문맥 안에서 함께 바로잡는다. 기존 조판 168곳은 유지한다."
     },
     "M/M200.txt": {
       "collation_status": "in_progress",
@@ -352,9 +352,9 @@
     },
     "B/B105.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 95,
+      "unresolved_candidates": 84,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력은 전각 공백146·HT6·KT0·□0·PUA0이다. HT6은 모두 뒤 공백과 동일 좌표이며 조판49를 제외한 교정 전 실제 잔여는97이다. 고유 문맥 2건은 각각 1회이고 기존 규칙과 중첩하지 않아 적용 뒤95다. 기존 상태152는 실제 출력보다55 많았다."
+      "note": "최신 잔여 95에서 說文 자형 설명 4좌표와 北囂山·暍 용례 7좌표, 합계 11좌표를 확정했다. 기존 尫羸 등 규칙 및 조판 49곳과 중첩하지 않는다. 汲古閣刊宋本의 오자는 판본 영인 없이 확정하지 않아 보류한다."
     },
     "B/B106.txt": {
       "collation_status": "in_progress",
@@ -408,7 +408,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 90,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백556·HT0·KT2·□88이다. 전각 공백은 판면 조판으로 분리되며 실결락 후보는 KT2와 연속 □88, 합계90이다. 연속 파손부와 KT는 독립 판독 근거가 없어 신규 없음. 중첩·경고 없음."
+      "note": "KT 2곳과 손상 구간의 □ 88곳을 재검토했으나 독립 전사로 글자를 확정하지 못했다. 조판 공백 분류는 유지하고 신규 규칙을 제안하지 않는다."
     },
     "B/B024.txt": {
       "collation_status": "complete",
@@ -3010,9 +3010,9 @@
     },
     "C/C000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 44,
+      "unresolved_candidates": 45,
       "punctuation_status": "source_present",
-      "note": "KT 10자와 공백 결자 1자를 8개 고유 문맥 규칙으로 제안. 나머지는 희귀 자형 인용이 많아 보류."
+      "note": "최신 출력 KT 45, HT/□ 0. 희귀 자전·본초명 인용이 대부분이며 기존 대량 규칙과 중첩 위험이 커 이번 감사에서는 새 규칙 없이 보류. 전각 공백 1228개는 조판과 결락 혼재. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 45자리로 유지한다."
     },
     "C/C002.txt": {
       "collation_status": "in_progress",
@@ -3102,7 +3102,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 28,
       "punctuation_status": "source_present",
-      "note": "기존 짧은 `手足　然汗出`, `心中懊　` 규칙이 각각 2/1, 7/1 불일치하며 선행 고유 규칙과 중첩된다. 두 규칙을 삭제하고 미적용 occurrence 각 1건만 고유 문맥으로 교체해야 한다. 처방 약미 사이 등 조판 공백 328개는 잔여 결락에서 제외."
+      "note": "최신 shard에서 手足濈然·心中懊憹의 짧은 규칙 충돌은 이미 해소되어 61/61 정상 적용된다. 전각 공백 356개 중 처방 조판 328개와 실결락 후보 28개로 기존 분류를 유지했다."
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
@@ -3118,9 +3118,9 @@
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 87,
+      "unresolved_candidates": 86,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백106·HT5·KT0·□0이다. 확인된 조판 공백을 분리한 최신 잔여 89에서 HT 2건을 해소하면 87이다. 두 문맥은 각각 1회이고 기존 109개 규칙과 중첩하지 않는다."
+      "note": "최신 잔여 87에서 독립 전사로 확인된 잉여 HT 좌표 1건만 제거한다. 나머지 ‘至使 HT 不食’, ‘脾以HT之膽’ 등은 확정 근거가 없어 보류한다."
     },
     "A/A202.txt": {
       "collation_status": "in_progress",
@@ -3324,7 +3324,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 16,
       "punctuation_status": "source_present",
-      "note": "특수 표지는 없지만 전문에서 별도 표지 없는 탈자 20곳을 재확인했고 4곳을 평행문·처방명으로 확정. 動花□沸·龜蛇玄武 주변 등 16곳은 원 스캔 판독 전 보류. 잔여 후보 16자리."
+      "note": "기존 11개 규칙은 정상 적용된다. 전각 공백 826개 중 조판 810개를 제외한 무표지 결락 후보 16개는 공개 전사·부분 영인으로 정확한 증감을 확정하지 못했다."
     },
     "D/D031.txt": {
       "collation_status": "complete",
@@ -3622,9 +3622,9 @@
     },
     "G/G017.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 45,
+      "unresolved_candidates": 42,
       "punctuation_status": "source_present",
-      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 45개에는 癥瘕 관련 희귀자 결락 의심 문맥이 있으나 기존 규칙 적용 결과와 원판 대조 전에는 확정하지 않음. 전각 공백 45곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
+      "note": "HT/KT/□ 잔여는 원래 0. 전각 공백 45개 중 명백한 정형 병후·약명 3 occurrence만 복원하고 癥瘕 희귀자 및 서명 결락은 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 42자리로 유지한다."
     },
     "G/G017a.txt": {
       "collation_status": "complete",
@@ -3918,19 +3918,19 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 27,
       "punctuation_status": "source_present",
-      "note": "기존 짧은 `曲　` 규칙이 3/2 불일치 및 기존 고유 규칙과 중첩되어 적용되지 않았다. 그 규칙을 삭제하고 아직 미적용인 두 occurrence를 고유 문맥 규칙으로 교체해야 한다. 이미 고유 규칙이 있는 중복 `人參黃　等藥合末`도 삭제 대상이다. 적용 후 비조판 결락 후보 27개 잔존."
+      "note": "최신 shard에서 앞선 짧은 규칙 충돌은 이미 고유 문맥 규칙으로 정리되어 71/71 정상 적용된다. 남은 전각 공백 27개는 인명·의성어·난자이며 독립 판본 근거가 없어 보류했다."
     },
     "N/N046.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 32,
+      "unresolved_candidates": 19,
       "punctuation_status": "source_present",
-      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 32개는 약명 구분 조판과 실결락 의심 문맥이 혼재하므로 이번 자동 잔여 수에는 합산하지 않고 보류. 전각 공백 32곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
+      "note": "독립 전사·영인, 본문 내부의 반복 문맥 및 고전 직접 인용으로 13개 공백을 8개 고유 규칙으로 확정했다. 적용 후 남은 전각 공백 19개는 인명·난자·판본 고유 문구로 직접 판독 전 보류한다."
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 34,
+      "unresolved_candidates": 31,
       "punctuation_status": "source_present",
-      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 34개는 조판 공백과 실결락이 혼재하여 독립 대조 없이 치환하지 않음. 전각 공백 34곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
+      "note": "HT/KT/□ 잔여는 원래 0. 전각 공백 34개 중 고전·약명·평행문으로 확정되는 3 occurrence만 추가 제안하고 나머지는 조판/불확실 결락으로 유지. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 31자리로 유지한다."
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
@@ -4086,7 +4086,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 86,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백99·HT2·KT6·□0이다. 처방 약명 구분 등 확인 조판을 제외한 최신 잔여90에서 KT 4자를 해소하면 86이다. 두 고유 문맥은 각각 1회이고 O060 기존 155개 규칙과 중첩하지 않는다."
+      "note": "HT 두 곳은 ‘肝固內HT脅’과 ‘怒氣逆，HT脅或脹’. 肝脈·脅部 문맥은 분명하나 원 글자가 循/絡/脹 등 여러 가능성이 있어 독립 전사 없이 보류. 전각 공백 94개는 별도 조판/결락 혼재. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 86자리로 유지한다."
     },
     "O/O061.txt": {
       "collation_status": "in_progress",
