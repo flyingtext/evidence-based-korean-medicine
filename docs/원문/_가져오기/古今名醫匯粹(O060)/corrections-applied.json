@@ -1252,5 +1252,11 @@
     "expected_count": 1,
     "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001201948",
     "evidence_note": "《靈樞》 경문을 인용·대조한 학술 PDF가 `目䀮䀮如無所見`의 외자형을 직접 보존하며, 같은 문장 안의 두 반복 위치를 함께 한정한다."
+  },
+  {
+    "before": "如肝性急，怒氣逆，HT　脅或脹，火時上炎，治以苦寒辛散而不愈者",
+    "after": "如肝性急，怒氣逆，胠脅或脹，火時上炎，治以苦寒辛散而不愈者",
+    "expected_count": 1,
+    "evidence": "《古今醫統大全》의 동일 木鬱達之 논설이 `如肝性急怒氣逆，胠脅或脹，火時上炎`으로 보존한다. https://cloudtcm.com/shu/t1/634/672"
   }
 ]

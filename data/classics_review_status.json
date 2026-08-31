@@ -100,10 +100,10 @@
     },
     "K/K003a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 860,
+      "unresolved_candidates": 833,
       "punctuation_status": "source_present",
-      "note": "기존 shard 미복원 코드 가운데 전 출현(각 1회)이 자매본과 공개 전사에서 고정되는 5개만 해소했다. klmc는 㿉와 潰, khuc는 疹과 㿗 등 동일 코드가 문맥별로 달라 전역 규칙에서 제외했다.",
-      "remaining_count": 855,
+      "note": "기존 18개 교정을 CRLF 정규화 뒤 순차 적용하면 [c] 코드는 6종 22좌표가 남는다(status의 855는 태그 좌표 수와 일치하지 않음). 가변 코드 khuc는 疹 1·㿗 4, klmc는 㿉 11·潰 1, hlcim은 鞕 1·鼽 1로 occurrence별 분리했고, 나머지는 ksrb=痱, bbapv+bbmms=𩩲骭으로 확정했다. 제안 규칙 적용 후 [c] 태그는 0개다. 코드 표지는 모두 해소했으나 판독 대기 전각 결락 후보를 포함해 문헌 전체 잔여는 833좌표로 유지한다.",
+      "remaining_count": 833,
       "status": "in_progress"
     },
     "K/K005.txt": {
@@ -442,9 +442,11 @@
     },
     "B/B013.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 97,
+      "unresolved_candidates": 94,
       "punctuation_status": "source_present",
-      "note": "자매 전사 B013a와 기존 224개 규칙을 재검증했으나 잔여 HT 3·KT 2는 자매본도 외자 코드/불완전 자형이다. 전각 공백 429개 중 기존 조판 337·실결락 92 분류를 유지했다."
+      "note": "기존 교정 적용 후 잔여 HT/KT 13좌표를 전수 재검토해 11좌표를 확정했다. 연속 규칙 두 개는 각각 2좌표를 복원하고 ‘故曰寒…俗謂之…’ 규칙도 2좌표를 복원한다. 마지막 두 HT는 跋文의 ‘習○ HT 以治鐘 琴瑟’와 ‘欲伸長○ HT 而擬望六律正’에 있으며, 공개 영인에서도 ○·특수 악률 기호·결손이 혼재해 정확한 문자와 범위를 확정할 수 없어 보류했다. 전각 공백은 변경하지 않았다. 전각 결락 후보 92곳과 악률 표지 2곳을 합쳐 문헌 전체 잔여는 94좌표다.",
+      "remaining_count": 94,
+      "status": "in_progress"
     },
     "A/A402a.txt": {
       "collation_status": "in_progress",
@@ -3132,9 +3134,11 @@
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 86,
+      "unresolved_candidates": 85,
       "punctuation_status": "source_present",
-      "note": "최신 잔여 87에서 독립 전사로 확인된 잉여 HT 좌표 1건만 제거한다. 나머지 ‘至使 HT 不食’, ‘脾以HT之膽’ 등은 확정 근거가 없어 보류한다."
+      "note": "잔여 HT/KT 2곳을 전수 대조하여 `至使 HT 不食`은 怢慓로 확정했다. `營循隧道。脾以HT之膽。以行之`는 jicheng·Wikisource 전사도 HT를 유지하고 문장 자체의 탈락 범위가 불명확하여 보류한다. 전각 조판 공백은 대상에서 제외했다.",
+      "remaining_count": 85,
+      "status": "in_progress"
     },
     "A/A202.txt": {
       "collation_status": "in_progress",
@@ -4098,9 +4102,11 @@
     },
     "O/O060.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 86,
+      "unresolved_candidates": 85,
       "punctuation_status": "source_present",
-      "note": "HT 두 곳은 ‘肝固內HT脅’과 ‘怒氣逆，HT脅或脹’. 肝脈·脅部 문맥은 분명하나 원 글자가 循/絡/脹 등 여러 가능성이 있어 독립 전사 없이 보류. 전각 공백 94개는 별도 조판/결락 혼재. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 86자리로 유지한다."
+      "note": "잔여 HT/KT 2곳 중 `怒氣逆，HT脅或脹`은 직접 평행문으로 胠를 확정했다. `肝固內HT脅`은 동일 저작 공개 전사도 HT이고 공개 영인 OCR은 여러 글자가 혼입되어 occurrence-specific 자형을 신뢰할 수 없어 보류했다. 전각 조판 공백은 제외했다.",
+      "remaining_count": 85,
+      "status": "in_progress"
     },
     "O/O061.txt": {
       "collation_status": "in_progress",

@@ -25396,6 +25396,12 @@
       "reason": "《內經博議》 독립 전사의 동일 문장이 ‘聚如蟹。其病如今之痢’로 이어져 蟹 뒤 표식은 글자가 아니라 잉여 OCR 표식임을 확인.",
       "evidence_url": "https://gushu.net.cn/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
       "evidence_note": "교감 대상 권4 마크다운에서 이 문맥은 1회이며 기존 A201 규칙과 중첩하지 않는다."
+    },
+    {
+      "before": "其寒則能衰飲食。其熱則能消肌肉。至使　HT　不食。此寒熱交作之劇也。",
+      "after": "其寒則能衰飲食。其熱則能消肌肉。至使怢慓不食。此寒熱交作之劇也。",
+      "expected_count": 1,
+      "evidence": "동일 저작의 jicheng 공개 전사가 이 고유 문맥을 `至使怢慓不食`으로 보존한다. https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html"
     }
   ],
   "A/A202.txt": [

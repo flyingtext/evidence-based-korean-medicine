@@ -129,5 +129,71 @@
     "expected_count": 1,
     "reason": "목설을 베는 도구가 공개 針灸聚英의 동일 문장에서 `䤵鍼銳而小者`로 확인된다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1_1/index.html"
+  },
+  {
+    "before": "風癮[c]khuc[/c]，喉痹不能言",
+    "after": "風癮疹，喉痹不能言",
+    "expected_count": 1,
+    "evidence": "風癮疹은 침구 고전의 고정 병명이며 K003 대응문 및 Jicheng 《鍼灸聚英》과 일치한다."
+  },
+  {
+    "before": "[c]khuc[/c]疝",
+    "after": "㿗疝",
+    "expected_count": 4,
+    "evidence": "네 출현 모두 丈夫·陰股·曲泉 등 산증 문맥의 고정 병명 㿗疝이며 K003 및 공개 《鍼灸聚英》 평행문과 일치한다."
+  },
+  {
+    "before": "風瘓風[c]ksrb[/c]風病",
+    "after": "風瘓風痱風病",
+    "expected_count": 1,
+    "evidence": "偏風·風瘓과 병렬되는 고전 병명 風痱이며 공개 《鍼灸聚英》 판본과 일치한다."
+  },
+  {
+    "before": "缺盆中腫，外[c]klmc[/c]則生",
+    "after": "缺盆中腫，外㿉則生",
+    "expected_count": 1,
+    "evidence": "Jicheng 《鍼灸聚英》과 《鍼灸大成》이 동일 구절을 ‘缺盆中腫，外㿉則生’으로 전한다: https://cloudtcm.com/acupoint/list/acupoint-dsname/156656"
+  },
+  {
+    "before": "[c]klmc[/c]疝",
+    "after": "㿉疝",
+    "expected_count": 7,
+    "evidence": "일곱 출현 모두 氣淋·小腸·陰急·小腹痛과 결합한 고정 병명 㿉疝이며 K003·Jicheng 평행문과 일치한다."
+  },
+  {
+    "before": "婦人乳腫，[c]klmc[/c]癰。",
+    "after": "婦人乳腫，潰癰。",
+    "expected_count": 1,
+    "evidence": "《鍼灸甲乙經》 계통 天谿 주치의 동일 문장이 ‘婦人乳腫，潰癰’으로 전한다. 공개 연구의 원문 인용도 이를 확인한다."
+  },
+  {
+    "before": "灸而不痛者，先及其[c]klmc[/c]，所以不痛",
+    "after": "灸而不痛者，先及其㿉，所以不痛",
+    "expected_count": 1,
+    "evidence": "Jicheng 《鍼灸聚英》의 동일 灸瘡 논설이 정확히 ‘先及其㿉，所以不痛’으로 전한다: https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1_1/index.html"
+  },
+  {
+    "before": "先及其未[c]klmc[/c]，所以痛，次及將[c]klmc[/c]，",
+    "after": "先及其未㿉，所以痛，次及將㿉，",
+    "expected_count": 1,
+    "evidence": "같은 공개본의 후속 문장이 ‘先及其未㿉，所以痛，次及將㿉’로 전한다."
+  },
+  {
+    "before": "心下否[c]hlcim[/c]者，當刺大椎第一間",
+    "after": "心下否鞕者，當刺大椎第一間",
+    "expected_count": 1,
+    "evidence": "《傷寒論》 및 국립공문서관 소장 《鍼灸聚英》의 정형문 ‘心下痞鞕者，當刺大椎第一間’에 대응한다. 이 판본은 痞를 否로 썼으므로 결자는 鞕이다: https://upload.wikimedia.org/wikipedia/commons/9/98/NAJDA-304-0249_%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1_%E5%B7%BB1.pdf"
+  },
+  {
+    "before": "兩鼻[c]hlcim[/c]衂鍼禾窌",
+    "after": "兩鼻鼽衂鍼禾窌",
+    "expected_count": 1,
+    "evidence": "鼽衂는 《內經》 이래의 고정 병증이며, 禾窌가 鼻鼽衂을 치료한다는 《甲乙經》 공개 원문과 일치한다: https://www.kanripo.org/text/KR3e0005/012"
+  },
+  {
+    "before": "一名[c]bbapv[/c][c]bbmms[/c]）蔽骨之端",
+    "after": "一名𩩲骭）蔽骨之端",
+    "expected_count": 1,
+    "evidence": "《甲乙經》·《經穴匯解》·《金針秘傳》의 鳩尾 이명이 ‘𩩲骭’으로 일치한다: https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html"
   }
 ]

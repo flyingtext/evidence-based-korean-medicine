@@ -1424,28 +1424,12 @@
     "reason": "한 문단에서 같은 병후를 두 번 지칭한다."
   },
   {
-    "before": "其人即KT　。\n\nKT　。與噎通。飲。去聲。令。平聲。浮為氣。故曰無血。大為虛。故曰寒。KT　。俗謂之KT。義見下條",
-    "after": "其人即噎。\n\n噎。與噎通。飲。去聲。令。平聲。浮為氣。故曰無血。大為虛。故曰寒。噎。俗謂之噎。義見下條",
-    "expected_count": 1,
-    "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
-    "evidence_note": "《傷寒論》의 ‘其人即噎’와 뒤 표제어·속칭 반복이 같은 글자다.",
-    "reason": "《傷寒論》의 ‘其人即噎’와 뒤 표제어·속칭 반복이 같은 글자다."
-  },
-  {
     "before": "趺陽脈浮。浮則為虛。浮虛相搏。故令氣KT　。言胃氣虛竭也",
     "after": "趺陽脈浮。浮則為虛。浮虛相搏。故令氣噎。言胃氣虛竭也",
     "expected_count": 1,
     "evidence_url": "https://ctext.org/wiki.pl?chapter=131508&if=en",
     "evidence_note": "평행 조문의 ‘故令氣噎’이다.",
     "reason": "평행 조문의 ‘故令氣噎’이다."
-  },
-  {
-    "before": "問KT　KT　。\n\n曰。幾自說文以來。皆言鳥之短羽者。不能遠飛。動則引頸KT　KT　然",
-    "after": "問𠘧𠘧。\n\n曰。幾自說文以來。皆言鳥之短羽者。不能遠飛。動則引頸𠘧𠘧然",
-    "expected_count": 1,
-    "evidence_url": "https://www.donglishuzhai.net/chapter/8502.html",
-    "evidence_note": "문답의 표제와 자형 설명이 모두 𠘧𠘧을 가리킨다.",
-    "reason": "문답의 표제와 자형 설명이 모두 𠘧𠘧을 가리킨다."
   },
   {
     "before": "莫如瓠KT　。即使奪化之工為之。止不過模舊式。描得出兩個扁扁圈子相累耳。置一渾淪圓瓠KT　質其旁而責之畫",
@@ -1754,5 +1738,61 @@
     "expected_count": 1,
     "evidence_url": "source/B/B013a.txt",
     "evidence_note": "독립 전사 B013a의 고유 좌우 문맥 대조로 결자 絺 확정."
+  },
+  {
+    "before": "噎與KT　咽同。水寒窒氣也",
+    "after": "噎與䭇咽同。水寒窒氣也",
+    "expected_count": 1,
+    "reason": "자매본 B013a의 OIPYR은 䭇의 창힐 계열 코드이며, 䭇은 噎의 이체자로 ‘식물·기운이 막힘’을 뜻한다. 문장도 噎·咽과의 통용을 직접 설명한다.",
+    "evidence": "https://www.zdic.net/hant/䭇; https://ctext.org/dictionary.pl?char=寒氣&if=en&remap=gb"
+  },
+  {
+    "before": "痂。與HT　同。音加。素問曰",
+    "after": "痂。與瘸同。音加。素問曰",
+    "expected_count": 1,
+    "reason": "자매본 B013a의 동일 위치 KROBO는 瘸의 창힐 코드(KROBO)이며, 해당 주석은 痂의 자형·독음을 설명하는 표제자 출현이다.",
+    "evidence": "https://zi.tools/痂; https://jicheng.tw/tcm/book/傷寒論條辨/index.html"
+  },
+  {
+    "before": "其人即KT　。",
+    "after": "其人即䭇。",
+    "expected_count": 1,
+    "reason": "《傷寒論》 평행문이 ‘水得寒氣，冷必相搏，其人即䭇’로 직접 전하며 자매본 B013a도 같은 코드 OIPYR을 쓴다.",
+    "evidence": "https://ctext.org/dictionary.pl?char=寒氣&if=en&remap=gb; https://static.nbessay.cc/books/9c5521b1290766f5807354994c47880a.pdf"
+  },
+  {
+    "before": "KT　。與噎通。飲。去聲",
+    "after": "䭇。與噎通。飲。去聲",
+    "expected_count": 1,
+    "reason": "직전 경문의 䭇을 표제어로 재인용한 주석이며 스스로 ‘與噎通’이라 밝힌다.",
+    "evidence": "https://www.zdic.net/hant/䭇"
+  },
+  {
+    "before": "故曰寒。KT　。俗謂之KT。義見下條",
+    "after": "故曰寒。䭇。俗謂之䭇。義見下條",
+    "expected_count": 1,
+    "reason": "같은 주석 안에서 병후 표제자와 속칭을 두 번 반복한 자리로, 자매본 B013a가 두 곳 모두 OIPYR로 보존하고 자전이 䭇=噎를 확인한다.",
+    "evidence": "https://www.zdic.net/hant/䭇; https://ctext.org/dictionary.pl?char=寒氣&if=en&remap=gb"
+  },
+  {
+    "before": "不當向　KT　漉上清滋味",
+    "after": "不當向　篘　漉上清滋味",
+    "expected_count": 1,
+    "reason": "자매본 B013a의 동일 문장은 ‘不當向醟釀處篘漉上清滋味’로 전한다. 술을 거르는 동작의 고정어 篘漉이며, 지시대로 주변 전각 공백은 보존한다.",
+    "evidence": "https://jicheng.tw/tcm/book/傷寒論條辨/index.html"
+  },
+  {
+    "before": "問KT　KT　。",
+    "after": "問𠘧𠘧。",
+    "expected_count": 1,
+    "reason": "문답 표제 뒤에서 곧바로 《說文》의 ‘鳥之短羽者’ 풀이를 드는 희자 𠘧𠘧이며, 같은 책의 項背強 조문에 이미 동일 글자가 확인된다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html; https://zh.wikisource.org/zh-hant/傷寒論/辨太陽病脈證並治中"
+  },
+  {
+    "before": "不能遠飛。動則引頸KT　KT　然",
+    "after": "不能遠飛。動則引頸𠘧𠘧然",
+    "expected_count": 1,
+    "reason": "바로 앞 문답 표제 𠘧𠘧을 《說文》의 새 움직임으로 풀이하는 반복 출현이다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
   }
 ]
