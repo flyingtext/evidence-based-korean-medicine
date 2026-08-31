@@ -3470,5 +3470,47 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E4%BA%94%E9%81%8B%E8%A1%8C%E5%A4%A7%E8%AB%96",
     "evidence_note": "水運의 정형 열거 ‘其令流注’.",
     "reason": "水運의 정형 열거 ‘其令流注’."
+  },
+  {
+    "before": "恐謂恐懼，魂不安也。按：KT　音荒",
+    "after": "恐謂恐懼，魂不安也。按：䀮音荒",
+    "expected_count": 1,
+    "evidence": "바로 앞 본문의 目䀮䀮와 자체 음주 荒이 글자 䀮을 직접 확정한다."
+  },
+  {
+    "before": "螈，動掣也。KT　KT　，目不明也。璺",
+    "after": "螈，動掣也。䀮䀮，目不明也。璺",
+    "expected_count": 1,
+    "evidence": "자체 자의주 目不明也 및 《靈樞》 평행 용례가 䀮䀮를 확정한다."
+  },
+  {
+    "before": "如云切。KT　音荒。璺音問",
+    "after": "如云切。䀮音荒。璺音問",
+    "expected_count": 1,
+    "evidence": "같은 글자표의 음주 荒 및 앞선 자의주와 일치한다."
+  },
+  {
+    "before": "痛引肩，目KT　KT　然，時遺溲",
+    "after": "痛引肩，目䀮䀮然，時遺溲",
+    "expected_count": 1,
+    "evidence": "《素問·刺腰痛》 해맥 병후 평행문 目䀮䀮然."
+  },
+  {
+    "before": "痛引膺，目KTKT　然，甚則反折",
+    "after": "痛引膺，目䀮䀮然，甚則反折",
+    "expected_count": 1,
+    "evidence": "같은 편 창양맥 병후의 目䀮䀮然."
+  },
+  {
+    "before": "起則目KT　KT　無所見者，萬物陰陽不定",
+    "after": "起則目䀮䀮無所見者，萬物陰陽不定",
+    "expected_count": 1,
+    "evidence": "《素問·脈解》 소음 병후 정문 目䀮䀮無所見."
+  },
+  {
+    "before": "故目KTKT　無所見也。（按：內爭故外亂也。）",
+    "after": "故目䀮䀮無所見也。（按：內爭故外亂也。）",
+    "expected_count": 1,
+    "evidence": "동일 소음 병후의 반복 경문 目䀮䀮無所見."
   }
 ]

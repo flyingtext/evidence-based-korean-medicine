@@ -4947,6 +4947,265 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%99%AE%E6%BF%9F%E6%96%B9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7419",
       "evidence_note": "주문의 동일 증후를 같은 희자 𥆨𥆨으로 복원.",
       "reason": "주문의 동일 증후를 같은 희자 𥆨𥆨으로 복원."
+    },
+    {
+      "before": "者，取法於　鍼，微大其",
+      "after": "者，取法於氂鍼，微大其",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 氂 확정."
+    },
+    {
+      "before": "病，項膺股　足跗疼，狂",
+      "after": "病，項膺股胻足跗疼，狂",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 胻 확정."
+    },
+    {
+      "before": "如廢同，目　耳後喉腫痛",
+      "after": "如廢同，目眥耳後喉腫痛",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "不能用，目　、耳後、咽",
+      "after": "不能用，目眥、耳後、咽",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "，自汗，肩　內外側疼。",
+      "after": "，自汗，肩臑內外側疼。",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "，在於目內　、頸、項、",
+      "after": "，在於目內眥、頸、項、",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "不省人事，　抽掣，頭痛",
+      "after": "不省人事，瘛瘲抽掣，頭痛",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 瘛瘲 확정."
+    },
+    {
+      "before": "，橫出腋下　肘中，循臂",
+      "after": "，橫出腋下臑肘中，循臂",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "肘外廉，上　外前廉，上",
+      "after": "肘外廉，上臑外前廉，上",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "關抵膝臏，　跗足趾內間",
+      "after": "關抵膝臏，胻跗足趾內間",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 胻 확정."
+    },
+    {
+      "before": "犢鼻下行，　骨外側大筋",
+      "after": "犢鼻下行，胻骨外側大筋",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 胻 확정."
+    },
+    {
+      "before": "肺出腋下，　後肘內少海",
+      "after": "肺出腋下，臑後肘內少海",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "從小海上循　外後廉，出",
+      "after": "從小海上循臑外後廉，出",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "上行肩端，　上肩骨下，",
+      "after": "上行肩端，臑上肩骨下，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "從後廉下合　中，以下貫",
+      "after": "從後廉下合膕中，以下貫",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 膕 확정."
+    },
+    {
+      "before": "，臂內後廉　中合，下貫",
+      "after": "，臂內後廉膕中合，下貫",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 膕 확정."
+    },
+    {
+      "before": "陽穴，下合　中委中穴，",
+      "after": "陽穴，下合膕中委中穴，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 膕 확정."
+    },
+    {
+      "before": "胱經，目內　角始睛明，",
+      "after": "胱經，目內眥角始睛明，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "堂尊，第六　膈關七，第",
+      "after": "堂尊，第六噫嘻膈關七，第",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 噫嘻 확정."
+    },
+    {
+      "before": "其痛也。從　下行第七椎",
+      "after": "其痛也。從譆下行第七椎",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 譆 확정."
+    },
+    {
+      "before": "與會陽下合　中也。從委",
+      "after": "與會陽下合膕中也。從委",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 膕 확정."
+    },
+    {
+      "before": "。從天池循　內至天泉，",
+      "after": "。從天池循臑內至天泉，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "肘分肉端，　會肩端前二",
+      "after": "肘分肉端，臑會肩端前二",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "消濼上行，　外去肩端三",
+      "after": "消濼上行，臑外去肩端三",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 臑 확정."
+    },
+    {
+      "before": "依次第。外　五分瞳子，",
+      "after": "依次第。外眥五分瞳子，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "面，入目內　之足太陽睛",
+      "after": "面，入目內眥之足太陽睛",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "下，始合內　絡太陽，上",
+      "after": "下，始合內眥絡太陽，上",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "信真，目內　外宛中取，",
+      "after": "信真，目內眥外宛中取，",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "金門疆，從　背肩項面頭",
+      "after": "金門疆，從胻背肩項面頭",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 胻 확정."
+    },
+    {
+      "before": "天主鼻淵，　肉痔塞灸能",
+      "after": "天主鼻淵，瘜肉痔塞灸能",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 瘜 확정."
+    },
+    {
+      "before": "最靈，中風　斜病，牙車",
+      "after": "最靈，中風瘈瘲喎斜病，牙車",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 瘈瘲喎 확정."
+    },
+    {
+      "before": "，迎風流淚　癢痛，雀目",
+      "after": "，迎風流淚眥癢痛，雀目",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "臍腹鼓脹，　瘕等證。鍼",
+      "after": "臍腹鼓脹，癥瘕等證。鍼",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "，耳門耳聾　耳病，絲竹",
+      "after": "，耳門耳聾聤耳病，絲竹",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 聤 확정."
+    },
+    {
+      "before": "主治耳聾；　耳膿汁。鍼",
+      "after": "主治耳聾；聤耳膿汁。鍼",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 聤 확정."
+    },
+    {
+      "before": "及婦人血蠱　瘕，渾身腫",
+      "after": "及婦人血蠱癥瘕，渾身腫",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 癥 확정."
+    },
+    {
+      "before": "眼下三寸，　骨外廉，大",
+      "after": "眼下三寸，胻骨外廉，大",
+      "expected_count": 1,
+      "evidence_url": "source/P/P0013a.txt",
+      "evidence_note": "독립 전사 P0013a의 고유 좌우 문맥으로 결자 胻 확정."
     }
   ],
   "P/P0100.txt": [

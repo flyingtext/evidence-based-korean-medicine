@@ -2558,5 +2558,37 @@
     "reason": "葛根을 쓰는 `項背強𠘧𠘧` 증상의 고정 표현이다.",
     "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002197612",
     "evidence_note": "독립 문헌에서 桂枝加葛根湯·葛根湯 조문의 `項背強几几` 확인."
+  },
+  {
+    "before": "鼻口乾燥。目暗KT　KT　。憒憒不樂",
+    "after": "鼻口乾燥。目暗䀮䀮。憒憒不樂",
+    "expected_count": 1,
+    "reason": "《備急千金要方》 大建中湯 평행 처방문에서 직접 확인",
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=13945",
+    "evidence_note": "독립 전사가 ‘鼻口乾燥，目暗䀮䀮，憒憒不樂’로 수록한다."
+  },
+  {
+    "before": "上重下輕。目視KT　KT　。恍惚志損",
+    "after": "上重下輕。目視䀮䀮。恍惚志損",
+    "expected_count": 1,
+    "reason": "동일 허로 처방군의 시각 병후 䀮䀮",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E4%80%AE&if=gb",
+    "evidence_note": "고전 경문에서 눈앞이 어른거리는 병후를 䀮䀮으로 쓴다."
+  },
+  {
+    "before": "失精氣短。目KT　KT　惚惚多忘",
+    "after": "失精氣短。目䀮䀮惚惚多忘",
+    "expected_count": 1,
+    "reason": "《備急千金要方》 大建中湯 평행 처방문에서 직접 확인",
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=13945",
+    "evidence_note": "독립 전사가 ‘目䀮䀮忽忽多忘’으로 수록한다."
+  },
+  {
+    "before": "此則虛寒而冷HT者也",
+    "after": "此則虛寒而冷積者也",
+    "expected_count": 1,
+    "reason": "穀疸 주석의 고정어 冷積을 평행 의서에서 확인",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9B%9C%E7%97%85%E5%BB%A3%E8%A6%81/%E5%85%A7%E5%9B%A0%E9%A1%9E",
+    "evidence_note": "虛寒·胃冷 문맥의 冷積 표현과 일치한다."
   }
 ]
