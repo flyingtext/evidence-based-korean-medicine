@@ -46100,6 +46100,13 @@
       "reason": "음과 뜻을 함께 단 자전 항목이다.",
       "evidence_url": "https://ctext.org/dictionary.pl?char=%E7%9C%9C&if=gb",
       "evidence_note": "공개 자전에서 眜의 음과 눈곱 관련 뜻을 대조했다."
+    },
+    {
+      "before": "驚　為潮涎，目HT　吐，痴癇不省人事",
+      "after": "驚　為潮涎，目眩吐，痴癇不省人事",
+      "expected_count": 1,
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NLC511-023031404013521-29020_%E8%84%88%E5%9B%A0%E8%AD%89%E6%B2%BB._%E5%9B%9B.pdf",
+      "evidence_note": "《脈因證治》 공개 영인·전사의 평행 구절이 `驚為痰涎目眩吐痙癲不省人事`로 이어져 결자가 眩임을 직접 확인한다. 주변의 潮/痰·痴癇/痙癲 이문은 건드리지 않는다."
     }
   ],
   "O/O060.txt": [

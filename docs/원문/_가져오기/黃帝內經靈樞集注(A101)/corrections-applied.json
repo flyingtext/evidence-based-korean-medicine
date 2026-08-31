@@ -125,6 +125,22 @@
     "reason": "圓利針 형상 ‘大如氂’."
   },
   {
+    "before": "膏之原出於鳩尾。鳩尾一。\n\n肓之原出於脖　。脖　一",
+    "after": "膏之原出於鳩尾。鳩尾一。\n\n肓之原出於脖胦。脖胦一",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E4%B9%9D%E9%87%9D%E5%8D%81%E4%BA%8C%E5%8E%9F",
+    "evidence_note": "十二原의 肓原 ‘脖胦’ 두 occurrence. 실제 단락 개행 반영.",
+    "reason": "十二原의 肓原 ‘脖胦’ 두 occurrence."
+  },
+  {
+    "before": "中焦出氣如露。上注　穀。而滲孫脈",
+    "after": "中焦出氣如露。上注谿穀。而滲孫脈",
+    "expected_count": 4,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%99%B0%E7%99%B2%E6%B4%A5%E6%B6%B2%E5%88%A5",
+    "evidence_note": "평행문 ‘上注於肺脈，乃化而為血’ 계통의 집주 문맥에서 谿穀 고정어. 동일 직접 인용 4회에 적용.",
+    "reason": "평행문 ‘上注於肺脈，乃化而為血’ 계통의 집주 문맥에서 谿穀 고정어."
+  },
+  {
     "before": "夫　穀者。皮膚之分肉",
     "after": "夫谿穀者。皮膚之分肉",
     "expected_count": 1,

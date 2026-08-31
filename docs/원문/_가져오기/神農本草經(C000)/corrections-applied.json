@@ -838,5 +838,61 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
     "evidence_note": "C/C000.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "馬KT　，荔也",
+    "after": "馬薤，荔也",
+    "expected_count": 1,
+    "reason": "바로 뒤 鄭注가 ‘荔挺，馬薤也’라고 동일 식물명을 명시함.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+    "evidence_note": "동일 단락 내부의 명시적 병행문으로 복원."
+  },
+  {
+    "before": "《說文》云：KT　，草之相　者，《玉篇》作KT　，居包切",
+    "after": "《說文》云：艽，草之相糾者，《玉篇》作艽，居包切",
+    "expected_count": 1,
+    "reason": "秦艽의 자해 ‘艽，草之相糾者’와 반절 居包切에 따라 두 결자와 한 공백 결자를 함께 복원.",
+    "evidence_url": "https://ctext.org/shuo-wen-jie-zi/hao-bu/zh",
+    "evidence_note": "뒤 문장도 ‘雲秦艽，藥艽同’이라 표제자를 직접 확인해 줌."
+  },
+  {
+    "before": "《說文》云：KT　，似豪豬者，或作猥",
+    "after": "《說文》云：彙，似豪豬者，或作猥",
+    "expected_count": 1,
+    "reason": "《說文》의 彙 자해와 뒤의 이체 ‘或作猥’에 따라 복원.",
+    "evidence_url": "https://ctext.org/shuo-wen-jie-zi/wei-bu/zh",
+    "evidence_note": "같은 단락의 《爾雅》 인용 ‘匯，毛刺’도 음·뜻을 뒷받침."
+  },
+  {
+    "before": "KT　，菜也，葉似韭",
+    "after": "薤，菜也，葉似韭",
+    "expected_count": 1,
+    "reason": "《說文》 薤의 자해 ‘菜也，葉似韭’에 따라 복원.",
+    "evidence_url": "https://ctext.org/shuo-wen-jie-zi/bei-bu7/zh",
+    "evidence_note": "같은 절의 표제와 蔥 비교가 薤임을 독립적으로 확인."
+  },
+  {
+    "before": "《廣雅》云：韭，KT　，蕎",
+    "after": "《廣雅》云：韭，薤，蕎",
+    "expected_count": 1,
+    "reason": "연속된 채소명 열거 및 해당 薤 절 문맥에 따라 복원.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+    "evidence_note": "동일 절의 《說文》 자해와 상호 확인됨."
+  },
+  {
+    "before": "《爾雅》云：KT鴻薈。郭璞云：即KT　菜也",
+    "after": "《爾雅》云：薤鴻薈。郭璞云：即薤菜也",
+    "expected_count": 1,
+    "reason": "《爾雅》의 薤 별명 鴻薈와 郭注의 ‘即薤菜也’에 따라 두 결자를 복원.",
+    "evidence_url": "https://ctext.org/er-ya/shi-cao/zh",
+    "evidence_note": "인용문 자체가 표제 식물 薤의 이름과 주석을 연속 제시."
+  },
+  {
+    "before": "考蔥實，宜與KT　同條",
+    "after": "考蔥實，宜與薤同條",
+    "expected_count": 1,
+    "reason": "직전의 ‘蔥、薤異物，而今共條’와 동일한 蔥·薤 합조 논의에 따라 복원.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+    "evidence_note": "같은 절 내부의 명시적 선행문이 결자를 확정함."
   }
 ]

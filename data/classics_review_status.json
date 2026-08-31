@@ -102,7 +102,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 958,
       "punctuation_status": "source_present",
-      "note": "반복 의미가 고정된 3종 코드, 총 63자를 복원."
+      "note": "기존 4개 규칙이 반복 외자 63자를 처리한다. 잔여 [c]125와 판면 공백 후보는 코드별 의미가 고정되지 않아 신규 없음. 검증 applied=4/4, warnings=0, overlaps=0."
     },
     "K/K005.txt": {
       "collation_status": "in_progress",
@@ -138,7 +138,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1119,
       "punctuation_status": "codex_verified",
-      "note": "공개 고전 대조로 朴硝와 蘆籜을 추가 복원. 기존 重齶 규칙과 같은 좌표의 중복 제안은 제거했으며, 판면 확인이 필요한 잔여 1119자리 보류."
+      "note": "기존 83개 규칙 이후 남은 표식 가운데 繃HT, 血色 문맥 등은 통행문으로 추정할 수 있으나 해당 판본의 독립 전사·영인 판독 없이 확정하지 않았다. 신규 규칙 및 중첩 없음."
     },
     "H/H022.txt": {
       "collation_status": "in_progress",
@@ -286,9 +286,9 @@
     },
     "D/D008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1026,
+      "unresolved_candidates": 3,
       "punctuation_status": "source_present",
-      "note": "회고문·병후·제형 문맥으로 KT 6자를 복원."
+      "note": "檳榔 뒤의 KT 두 곳과 ‘肚腰□’ 한 곳은 현재 문맥만으로 글자를 독립 확정하기 어려워 보류."
     },
     "D/D010.txt": {
       "collation_status": "in_progress",
@@ -496,9 +496,9 @@
     },
     "A/A101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 997,
+      "unresolved_candidates": 15,
       "punctuation_status": "source_present",
-      "note": "고전 본문·음주·독립 연구 교록으로 28개 표지 문자를 해소했으나 잔여 15자는 영인 재판독이 필요함. 잔여 후보 997자리."
+      "note": "기존 39개 중 脖胦 규칙의 실제 개행을 반영하고 上注谿穀 직접 인용의 expected_count를 4로 수정한 전체 replacement 배열. 잔여 HT5·KT10은 영인 재판독 필요. 검증 applied=39/39, warnings=0, overlaps=0."
     },
     "A/A203.txt": {
       "collation_status": "complete",
@@ -522,7 +522,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 971,
       "punctuation_status": "source_present",
-      "note": "직접 인용·자체 주해로 40개 표지를 복원."
+      "note": "기존 229개 규칙은 모두 정상 적용된다. HT10·KT15 및 비조판 후보는 영인 판독 전 신규 없음. 검증 applied=229/229, warnings=0, overlaps=0."
     },
     "A/A011.txt": {
       "collation_status": "in_progress",
@@ -3010,9 +3010,9 @@
     },
     "C/C000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1049,
+      "unresolved_candidates": 44,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 전각 공백 995·KT 54자리가 남는다. 희귀 본초명과 교감 주기가 섞여 있어 동일 계통 전사 외의 독립 영인 근거가 없는 후보는 보류했다."
+      "note": "KT 10자와 공백 결자 1자를 8개 고유 문맥 규칙으로 제안. 나머지는 희귀 자형 인용이 많아 보류."
     },
     "C/C002.txt": {
       "collation_status": "in_progress",
@@ -3504,7 +3504,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1054,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 전각 공백 1033·HT 2·KT 19자리가 남는다. 인명·방명 및 근대 이체자가 많아 공개 전사만으로 확정하지 않았다."
+      "note": "기존 규칙은 없으며, 잔여 HT2·KT19와 비조판 공백은 인명·약명·별칭 등 판본별 이형 가능성이 커 독립 근거 없이 신규 제안하지 않았다. 고유 문맥 중첩 없음."
     },
     "D/D026.txt": {
       "collation_status": "in_progress",
@@ -3714,7 +3714,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 987,
       "punctuation_status": "source_present",
-      "note": "HT 2자리를 모두 복원했다. 전각 공백 987자리는 판면에서 결자로 확정되지 않아 보류한다."
+      "note": "기존 140개 규칙은 모두 정상 적용되고 표지 결자는 0이다. 비조판 전각 공백 후보987은 판면 대조 전 신규 없음. 검증 applied=140/140, warnings=0, overlaps=0."
     },
     "I/I002.txt": {
       "collation_status": "in_progress",
@@ -3832,9 +3832,9 @@
     },
     "K/K101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1034,
+      "unresolved_candidates": 2,
       "punctuation_status": "codex_verified",
-      "note": "최신 교정 뒤 전각 공백 1027·HT 5·KT 2자리가 남는다. 거대 경혈·해부 문맥과 판면 공백이 혼재하여 공개 원문만으로 원판 자형을 확정하지 않았다."
+      "note": "확정 가능한 KT 2자와 HT 3자를 4개 고유 문맥 규칙으로 제안. 나머지 표식은 희귀 해부자·전사 손상이 섞여 보류."
     },
     "L/L000.txt": {
       "collation_status": "in_progress",
@@ -4078,9 +4078,9 @@
     },
     "O/O059.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1127,
+      "unresolved_candidates": 1126,
       "punctuation_status": "source_present",
-      "note": "KT 3자리와 HT 2자리를 복원했다. 나머지 희자·파손부와 공백은 보류한다."
+      "note": "고유 문맥은 현재 출력에서 1회만 나타나며 기존 74개 규칙과 겹치지 않는다. 제안 규칙 적용 시 HT 1건이 해소된다. 나머지 HT·KT·□는 외자 또는 판면 판독이 필요해 보류했다."
     },
     "O/O060.txt": {
       "collation_status": "in_progress",
@@ -4215,10 +4215,10 @@
       "note": "기존 218개 규칙은 모두 정상 적용된다. HT3 및 비조판 공백 후보는 별계통 영인에서 유일 판독되지 않아 신규 없음. 검증 applied=218/218, warnings=0, overlaps=0."
     },
     "O/O096.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1007,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "잔존 KT 2개를 모두 복원."
+      "note": "비표점 원문에서 HT·KT·□ 잔여 표식을 찾지 못함."
     },
     "O/O097.txt": {
       "collation_status": "in_progress",
@@ -4290,7 +4290,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1112,
       "punctuation_status": "source_present",
-      "note": "HT 2자리와 각 토큰 뒤 결자용 전각 공백 2자리를 䀽 두 글자로 복원했다. 그 밖의 미해결 1112자리가 남아 승격하지 않는다."
+      "note": "기존 23개 규칙 적용 뒤 HT·KT·□ 표식은 남지 않는다. 잔여 비조판 공백은 직접 판독 근거가 없어 신규 없음. 기존 규칙과 신규 중첩 없음."
     },
     "P/P0012.txt": {
       "collation_status": "in_progress",

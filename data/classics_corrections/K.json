@@ -20625,6 +20625,38 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
       "evidence_note": "K/K101.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "目KT　KT　如無所見",
+      "after": "目䀮䀮如無所見",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 족소음 병후의 정형문 ‘目䀮䀮如無所見’에 따라 결자를 복원.",
+      "evidence_url": "https://ctext.org/wiki.pl?if=gb&chapter=777906",
+      "evidence_note": "인접 문장 전체가 족소음신경 병후 인용이며 䀮䀮는 눈이 어두운 모양을 뜻함."
+    },
+    {
+      "before": "為人身之HT　龠",
+      "after": "為人身之橐龠",
+      "expected_count": 1,
+      "reason": "폐의 호흡 작용을 풀어 쓴 문맥과 고정어 橐龠에 따라 복원.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
+      "evidence_note": "앞의 ‘吸之則滿呼之則虛’가 풀무를 뜻하는 橐龠의 비유와 정확히 이어짐."
+    },
+    {
+      "before": "脂HT　之外有細筋膜如絲",
+      "after": "脂膏之外有細筋膜如絲",
+      "expected_count": 1,
+      "reason": "심장을 싸는 황색 지방을 서술하는 해부 문맥의 고정어 脂膏에 따라 복원.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
+      "evidence_note": "직전의 ‘黃脂裹者心也’와 뒤의 외막 설명 사이에서 脂膏가 문법·의미상 성립."
+    },
+    {
+      "before": "腎病黑如HT　血",
+      "after": "腎病黑如衃血",
+      "expected_count": 1,
+      "reason": "오색대하의 신장 병색을 ‘黑如衃血’이라 하는 정형 표현에 따라 복원.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
+      "evidence_note": "肝·心·肺·脾·腎의 색과 형상을 차례로 열거하는 동일 문장 안의 신장 항목."
     }
   ],
   "K/K200.txt": [
