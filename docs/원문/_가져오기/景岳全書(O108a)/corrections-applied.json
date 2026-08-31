@@ -38,5 +38,21 @@
     "evidence_url": "https://ctext.org/wiki.pl?chapter=353616&if=en",
     "evidence_note": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝.",
     "reason": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝."
+  },
+  {
+    "before": "[c]oitwa[/c]",
+    "after": "嘈",
+    "expected_count": 24,
+    "reason": "창힐형 코드 oitwa의 24개 전 출현이 嘈雜 표제·본문과 食已而復嘈 문맥에 놓이며, 자매 원본 O108의 대응 구절이 모두 嘈로 확정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+    "evidence_note": "코드 oitwa, 총 24회. O108 대응문의 嘈雜·復嘈와 전 출현 문맥을 대조했다."
+  },
+  {
+    "before": "[c]buyvu[/c]",
+    "after": "䀮",
+    "expected_count": 12,
+    "reason": "창힐형 코드 buyvu의 12개 전 출현이 目䀮䀮 및 肝虛則目䀮䀮無所見의 중첩 위치이며, 공개 고전 전사의 동일 인용문도 䀮䀮으로 고정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
+    "evidence_note": "코드 buyvu, 총 12회. 針灸甲乙經·脈經의 동일 문구 肝虛則目䀮䀮無所見과 대조했다."
   }
 ]

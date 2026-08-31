@@ -3136,9 +3136,9 @@
     },
     "A/A001.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6996,
+      "unresolved_candidates": 6793,
       "punctuation_status": "source_present",
-      "note": "잔존 203개 [c] 코드는 자체 글리프 매핑 또는 해당 판본 영상 없이 문자값을 유일하게 정할 수 없다. 교주·태그와 얽힌 공백도 임의 복원하지 않고 status를 유지한다."
+      "note": "legacy [c] 외자 23코드 203출현을 전수 집계했다. 각 코드는 모든 출현에서 동일 원문자로 고정됨을 A000/A000a/A002/A003, 공개 素問 전사 및 Unicode Unihan·외자 DB로 확인했다. 현 status 6996에서 [c] 203좌표만 차감했으며 [z] 교주와 기존 전각 공백 분류는 변경하지 않는다."
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
@@ -3402,7 +3402,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6677,
       "punctuation_status": "codex_verified",
-      "note": "표점 완료 상태와 분리해 결자만 감사했다. 잔존 KT 230곳은 고자·희귀 동식물명·주음이 섞여 있고 공개 전사도 동일하게 손실된 곳이 많아 영인 좌표 없이 유일 복원할 수 없다. 표점 상태와 remaining을 그대로 유지한다."
+      "note": "KT는 230회이나 하나의 문자 코드가 아니라 희귀 동식물·약물명, 지명, 음훈, 산문 결자를 함께 표시한 범용 결자 표지다. 출현별 글자가 서로 달라 전역 규칙을 만들 수 없으며, 개별 좌표 교감이 필요하다."
     },
     "C/C012.txt": {
       "collation_status": "complete",
@@ -4102,9 +4102,9 @@
     },
     "O/O063a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 20321,
+      "unresolved_candidates": 19778,
       "punctuation_status": "source_present",
-      "note": "현 status 20321을 유지한다. PUA 558자는 코드별 원문자 매핑이나 영인 판독이 선행되어야 하며, 문맥상 익숙한 黃耆·神麯 등의 반복도 동일 코드의 전 출현 의미가 검증되지 않아 임의 정규화하지 않았다."
+      "note": "PUA 전수 집계: 총 558자, 24코드. 확정 20코드/543자: U+EF5F=脅(111), U+EF87=瞤(2), U+EF8A=癧(9), U+EF8D=憹(9), U+EF8E=痓(3), U+EFD6=藁(2), U+EFF9=誤(2), U+EFFF=蝟(1), U+F004=硬(3), U+F018=蟹(1), U+F023=麯(138), U+F02A=芪(238), U+F08E=煅(14), U+F10B=䗪(1), U+F1AC=葉(1), U+F1E7=訛(1), U+F280=虻(2), U+F378=蘖(3), U+F465=𣕌(1), U+F577=豬(1). 보류 4코드/15자: U+EF65(2), U+EF67(2), U+EFD5(10: 疴·症 등 대응이 갈려 전역 매핑 불가), U+F3E6(1). 공개 원문: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html. 현 20321에서 확정 543좌표만 차감했다."
     },
     "O/O065.txt": {
       "collation_status": "in_progress",
@@ -4246,9 +4246,9 @@
     },
     "O/O108a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 222,
+      "unresolved_candidates": 186,
       "punctuation_status": "source_present",
-      "note": "legacy [c] 표지 222개는 35종 창힐형 코드로 남아 있다. 동일 코드의 모든 문맥을 확정할 외자표·영인 대조가 부족하여 이번 배치에는 추정 치환을 제안하지 않았다."
+      "note": "현재 미해결 222개에서 전 출현이 고정되는 oitwa 24개와 buyvu 12개만 해소한다. kasm·bjbc·vfohg 등은 자매본도 결자이거나 문맥만으로 전 출현의 동일 글자를 보장할 수 없어 보류한다."
     },
     "O/O128.txt": {
       "collation_status": "complete",

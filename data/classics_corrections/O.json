@@ -51375,6 +51375,126 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html",
       "evidence_note": "O/O063a.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "",
+      "after": "脅",
+      "expected_count": 111,
+      "evidence": "U+EF5F, 111회. O063의 고유 대응 문맥 74곳이 모두 脅이고 나머지도 脅痛·胸脅·兩脅 문맥으로 고정된다. 공개본: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "瞤",
+      "expected_count": 2,
+      "evidence": "U+EF87, 2회. 두 출현이 같은 痙病 조문의 肉瞤胸脹이며 공개본 원문과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "癧",
+      "expected_count": 9,
+      "evidence": "U+EF8A, 9회. 전 출현이 瘰癧門 및 瘰癧 병명이고 공개본의 동일 문단과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "憹",
+      "expected_count": 9,
+      "evidence": "U+EF8D, 9회. 전 출현이 懊憹이며 공개본 酒疸 조문의 ‘懊憹者，欲痛不痛之狀’과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "痓",
+      "expected_count": 3,
+      "evidence": "U+EF8E, 3회. 전 출현이 痙痓門의 표제·본문이고 공개본 표제 ‘痙痓門 十一則’과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "藁",
+      "expected_count": 2,
+      "evidence": "U+EFD6, 2회. 두 출현 모두 약재 藁本이며 O063 대응 문맥도 동일하다. 공개본: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "誤",
+      "expected_count": 2,
+      "evidence": "U+EFF9, 2회. 각각 誤服·誤食의 고정 문맥이며 공개본 ‘誤服濛汗之藥’·‘誤食竹間之蕈’과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "蝟",
+      "expected_count": 1,
+      "evidence": "U+EFFF, 1회. ‘狀如刺蝟’ 고유 구절로 O063 대응문과 일치한다. 공개본: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "硬",
+      "expected_count": 3,
+      "evidence": "U+F004, 3회. 糟粕硬屎·大便微硬·微硬解의 동일 어휘이며 O063 고유 대응 3곳이 모두 硬이다."
+    },
+    {
+      "before": "",
+      "after": "蟹",
+      "expected_count": 1,
+      "evidence": "U+F018, 1회. ‘痰一似蟹涎’이며 공개본의 ‘吐痰如蟹涎白沫’과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "麯",
+      "expected_count": 138,
+      "evidence": "U+F023, 138회. 전 출현이 약재 神麯 또는 麯蘖의 麯이고 O063 고유 대응 및 공개본 처방의 神麯과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "芪",
+      "expected_count": 238,
+      "evidence": "U+F02A, 238회. 전 출현이 黃芪의 둘째 글자이며 기존 고유 대응 규칙과 공개본 처방의 黃芪가 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "煅",
+      "expected_count": 14,
+      "evidence": "U+F08E, 14회. 전 출현이 煅過·火煅·煅煉·不煅의 제약 문맥이고 기존 고유 대응 규칙 및 공개본과 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "䗪",
+      "expected_count": 1,
+      "evidence": "U+F10B, 1회. 약재 䗪蟲이며 기존 O063a 고유 대응 규칙에서도 䗪로 판독되었다."
+    },
+    {
+      "before": "",
+      "after": "葉",
+      "expected_count": 1,
+      "evidence": "U+F1AC, 1회. 枝桑清肺丹의 약재 ‘桑葉五錢’으로 고정되며 공개본의 반복 桑葉 처방 표기와 일치한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "訛",
+      "expected_count": 1,
+      "evidence": "U+F1E7, 1회. ‘年久訛寫誤傳’이며 O063 고유 대응이 訛로 일치한다."
+    },
+    {
+      "before": "",
+      "after": "虻",
+      "expected_count": 2,
+      "evidence": "U+F280, 2회. 두 출현 모두 약재 虻蟲이며 水蛭과 병용되는 동일 처방·해설 문맥이다."
+    },
+    {
+      "before": "",
+      "after": "蘖",
+      "expected_count": 3,
+      "evidence": "U+F378, 3회. 전 출현이 麯蘖·解蘖湯의 蘖로서 술·酒積 문맥에 고정된다."
+    },
+    {
+      "before": "",
+      "after": "𣕌",
+      "expected_count": 1,
+      "evidence": "U+F465, 1회. 공개본 동일 문장이 ‘木蜜乃枳𣕌也’로 전한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+    },
+    {
+      "before": "",
+      "after": "豬",
+      "expected_count": 1,
+      "evidence": "U+F577, 1회. 五苓散 계열 처방의 ‘人參、豬苓各三錢’으로 고정되며 공개본에서 豬苓 표기가 반복 확인된다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
     }
   ],
   "O/O069.txt": [
@@ -114372,6 +114492,22 @@
       "evidence_url": "https://ctext.org/wiki.pl?chapter=353616&if=en",
       "evidence_note": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝.",
       "reason": "景岳全書 疝氣篇에서 직접 반복되는 병명 㿗疝."
+    },
+    {
+      "before": "[c]oitwa[/c]",
+      "after": "嘈",
+      "expected_count": 24,
+      "reason": "창힐형 코드 oitwa의 24개 전 출현이 嘈雜 표제·본문과 食已而復嘈 문맥에 놓이며, 자매 원본 O108의 대응 구절이 모두 嘈로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+      "evidence_note": "코드 oitwa, 총 24회. O108 대응문의 嘈雜·復嘈와 전 출현 문맥을 대조했다."
+    },
+    {
+      "before": "[c]buyvu[/c]",
+      "after": "䀮",
+      "expected_count": 12,
+      "reason": "창힐형 코드 buyvu의 12개 전 출현이 目䀮䀮 및 肝虛則目䀮䀮無所見의 중첩 위치이며, 공개 고전 전사의 동일 인용문도 䀮䀮으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
+      "evidence_note": "코드 buyvu, 총 12회. 針灸甲乙經·脈經의 동일 문구 肝虛則目䀮䀮無所見과 대조했다."
     }
   ],
   "O/O101.txt": [
