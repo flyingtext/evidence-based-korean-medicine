@@ -10086,6 +10086,12 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%98%8E%E9%86%AB%E9%9B%9C%E8%91%97/index.html",
       "evidence_note": "O/O039.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "非曰確然不可移而HT　然不可動者也",
+      "after": "非曰確然不可移而介然不可動者也",
+      "expected_count": 1,
+      "reason": "처방은 고정불변이 아니라는 대구에서 ‘確然不可移、介然不可動’의 형용 구조가 성립."
     }
   ],
   "O/O038.txt": [
@@ -56574,6 +56580,90 @@
       "expected_count": 1,
       "reason": "태양경 痙病 병후의 項背𠘧𠘧",
       "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+    },
+    {
+      "before": "KT　KT　，鳥之短羽者，動則引頸",
+      "after": "𠘧𠘧，鳥之短羽者，動則引頸",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
+      "evidence_note": "《傷寒論》 項背強𠘧𠘧의 자형 풀이와 직접 이어지는 고유 occurrence."
+    },
+    {
+      "before": "KT　KT　然，形容病患之頸項俱病",
+      "after": "𠘧𠘧然，形容病患之頸項俱病",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
+      "evidence_note": "직전 𠘧𠘧의 병후를 풀이하는 동일 고유 문맥."
+    },
+    {
+      "before": "若作鳥羽釋，則KT　當音殊",
+      "after": "若作鳥羽釋，則𠘧當音殊",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
+      "evidence_note": "바로 앞 𠘧𠘧의 자음 논증이 지시하는 단일 occurrence."
+    },
+    {
+      "before": "《詩》云：赤舄KT　KT　。注",
+      "after": "《詩》云：赤舄几几。注",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%A9%A9%E7%B6%93/%E7%8B%BC%E8%B7%8B",
+      "evidence_note": "《詩經·豳風·狼跋》 직접 인용 `赤舄几几`."
+    },
+    {
+      "before": "。注：KT　KT　，安重貌",
+      "after": "。注：几几，安重貌",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%A9%A9%E7%B6%93/%E7%8B%BC%E8%B7%8B",
+      "evidence_note": "《詩經》 `几几`의 毛傳·주석 `安重貌` 직접 인용."
+    },
+    {
+      "before": "心胸高起如饅HT　者不治",
+      "after": "心胸高起如饅頭者不治",
+      "expected_count": 1,
+      "evidence_url": "https://www.theqi.com/cmed/oldbook/shen/shen21.html",
+      "evidence_note": "《痧脹玉衡》 평행문 `心胸高起如饅頭者，不治`."
+    },
+    {
+      "before": "則或為　肉，或為瘢HT　，此皆有餘",
+      "after": "則或為　肉，或為瘢痕，此皆有餘",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wiktionary.org/wiki/%E7%98%A2%E7%97%95",
+      "evidence_note": "고정어 瘢痕 및 안과 외장 문맥."
+    },
+    {
+      "before": "又有陰中KT　瘡，痛癢如蟲行狀",
+      "after": "又有陰中䘌瘡，痛癢如蟲行狀",
+      "expected_count": 1,
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216095",
+      "evidence_note": "의서 병명 䘌瘡과 하부 충식성 창양의 직접 평행 용례."
+    },
+    {
+      "before": "呼吸缺乏，視物KT　KT　，小便赤數",
+      "after": "呼吸缺乏，視物䀮䀮，小便赤數",
+      "expected_count": 1,
+      "evidence_url": "https://www.hanyuguoxue.com/kangxi/zi-16430?words=H",
+      "evidence_note": "고전 의서 병후 䀮䀮(눈이 어두워 보이지 않음)와 일치."
+    },
+    {
+      "before": "童便一盞，豬KT　一枚，豬脊髓一條",
+      "after": "童便一盞，豬膽一枚，豬脊髓一條",
+      "expected_count": 1,
+      "evidence_url": "https://jicheng.tw",
+      "evidence_note": "처방 계량 단위 `豬膽一枚`와 고유 약재 배열."
+    },
+    {
+      "before": "或收采非時，則良HT異質",
+      "after": "或收采非時，則良楛異質",
+      "expected_count": 1,
+      "evidence_url": "https://read01.com/B2ad7o8.amp",
+      "evidence_note": "동일 문장 독립 전사 `或收采非時，則良楛異質`."
+    },
+    {
+      "before": "曰飛、曰伏、曰鎊、曰HT　、曰晒",
+      "after": "曰飛、曰伏、曰鎊、曰榝、曰晒",
+      "expected_count": 1,
+      "evidence_url": "https://9lib.co/document/y6e92j27-%E5%9C%8B%EF%A7%B7%E5%AE%9C%EF%A4%9F%E5%A4%A7%E5%AD%B8%E9%A3%9F%E5%93%81%E7%A7%91%E5%AD%B8%E7%B3%BB.html",
+      "evidence_note": "炮製十七法의 독립 인용 `曰鎊、曰榝、曰晒`."
     }
   ],
   "O/O071.txt": [

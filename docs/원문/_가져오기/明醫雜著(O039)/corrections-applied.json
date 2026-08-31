@@ -950,5 +950,11 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%98%8E%E9%86%AB%E9%9B%9C%E8%91%97/index.html",
     "evidence_note": "O/O039.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "非曰確然不可移而HT　然不可動者也",
+    "after": "非曰確然不可移而介然不可動者也",
+    "expected_count": 1,
+    "reason": "처방은 고정불변이 아니라는 대구에서 ‘確然不可移、介然不可動’의 형용 구조가 성립."
   }
 ]
