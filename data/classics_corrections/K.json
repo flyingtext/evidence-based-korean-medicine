@@ -12621,6 +12621,48 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
       "evidence_note": "K/K003.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　KT　",
+      "after": "䀮䀮",
+      "reason": "21개 출현이 모두 目視·遠視·目眩 등 시야 불명 문맥의 정형어 䀮䀮이다. K003a 평행 판본도 같은 자리에서 䀮䀮으로 확인된다.",
+      "evidence_url": "https://www.shidianguji.com/book/CADAL02093081/chapter/1lcsfdply1wdf",
+      "expected_count": 19
+    },
+    {
+      "before": "欠KT　",
+      "after": "欠呿",
+      "reason": "세 출현 모두 《靈樞·經脈》 계통의 정형구 欠呿 또는 欠不能呿이며 K003a 평행 판본도 呿로 일치한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "expected_count": 2
+    },
+    {
+      "before": "欠不能KT　",
+      "after": "欠不能呿",
+      "reason": "《靈樞·經脈》 계통의 정형구 欠不能呿이며 K003a 평행 판본도 呿로 일치한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "expected_count": 1
+    },
+    {
+      "before": "欠而不得KT　",
+      "after": "欠而不得呿",
+      "reason": "《靈樞·經脈》 계통의 欠呿 병증을 옮긴 문맥이며 K003a 평행 판본도 呿로 일치한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
+      "expected_count": 1
+    },
+    {
+      "before": "顱HT　",
+      "after": "顱囟",
+      "reason": "세 출현이 모두 경혈명 顱囟이며, K003a의 동일 가결·금침혈가 평행문으로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 3
+    },
+    {
+      "before": "氣海（一名脖HT　一名下肓）",
+      "after": "氣海（一名脖胦　一名下肓）",
+      "reason": "氣海의 이명 脖胦은 침구 문헌의 정형 명칭이며 해당 출현은 한 곳뿐이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 1
     }
   ],
   "K/K003a.txt": [
@@ -12655,6 +12697,69 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E7%98%A7%E8%AB%96",
       "evidence_note": "모든 occurrence가 痎瘧 병명.",
       "reason": "모든 occurrence가 痎瘧 병명."
+    },
+    {
+      "before": "[c]bbhon[/c]",
+      "after": "䯒",
+      "reason": "40개 출현 모두 䯒骨·脛䯒·䯒痠 등 동일 자형이며 K003 평행 판본의 해당 구절과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 40
+    },
+    {
+      "before": "[c]uumbc[/c]",
+      "after": "䪼",
+      "reason": "16개 출현 모두 頰上䪼·目下為䪼·鼻䪼腫·顳䪼 등 얼굴 부위명 䪼이며 K003 평행문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 16
+    },
+    {
+      "before": "[c]vohg[/c]",
+      "after": "妊",
+      "reason": "12개 출현 모두 妊娠·妊婦·妊脈·妊孕 문맥으로 자가 확정되며 K003 평행문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 12
+    },
+    {
+      "before": "[c]kjjh[/c]",
+      "after": "疹",
+      "reason": "7개 출현 모두 風疹·癮疹·痼疹 문맥이고 K003 평행 판본에서 疹으로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 7
+    },
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "䐜",
+      "reason": "7개 출현 모두 心腹䐜滿·腹䐜堅痛·腹䐜而脹·小腹之䐜의 정형 병증 문맥으로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 7
+    },
+    {
+      "before": "[c]mnoiv[/c]",
+      "after": "飧",
+      "reason": "5개 출현 모두 飧泄·飧洩이며 K003 평행 판본의 동일 구절과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 5
+    },
+    {
+      "before": "[c]kgi[/c]",
+      "after": "痃",
+      "reason": "5개 출현 모두 痃癖·痃氣의 정형 병명이고 K003 평행 판본과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 5
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "reason": "4개 출현 모두 小腹㽲痛·惡血㽲痛·繞臍㽲痛·腹㽲刺痛의 정형 병증 문맥이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 4
+    },
+    {
+      "before": "[c]butwi[/c]",
+      "after": "䁾",
+      "reason": "두 출현이 각각 眵䁾 및 眵䁾冷淚로 동일하며 K003 평행 판본의 해당 구절과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+      "expected_count": 2
     }
   ],
   "K/K005.txt": [
@@ -15593,6 +15698,70 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
       "evidence_note": "足太陰經脈 조문의 ‘循脛骨後’.",
       "reason": "足太陰經脈 조문의 ‘循脛骨後’."
+    },
+    {
+      "before": "經脈空虛血氣枯竭腸胃HT　僻皮膚薄著毛腠夭焦",
+      "after": "經脈空虛血氣枯竭腸胃㒤僻皮膚薄著毛腠夭焦",
+      "reason": "《靈樞·根結》 평행문이 ‘腸胃㒤僻’으로 일치하며 㒤은 僧旁이 아니라 人旁聶의 외자이다.",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216093",
+      "expected_count": 1
+    },
+    {
+      "before": "膏肓穴壯數既多當有所下KT　KT　然如流水之壯者是痰下也",
+      "after": "膏肓穴壯數既多當有所下嚨嚨然如流水之壯者是痰下也",
+      "reason": "《針灸資生經》 인용 평행문과 동의보감 침구편 대조문이 모두 ‘當有所下嚨嚨然如流水’로 일치한다.",
+      "evidence_url": "https://pinedance.github.io/research/resources/2004-01.pdf",
+      "expected_count": 1
+    },
+    {
+      "before": "主治尸厥口不可開鼻瘡　肉鼻塞鼽衄",
+      "after": "主治尸厥口不可開鼻瘡息肉鼻塞鼽衄",
+      "reason": "동계 침구서 《針灸聚英》 및 저장소의 K/K003·K/K003a 평행문이 ‘鼻瘡息肉’으로 일치한다.",
+      "expected_count": 1
+    },
+    {
+      "before": "迎香鼻窪紋中針三分禁灸主治鼻塞不聞香臭　肉多涕有瘡鼽衄",
+      "after": "迎香鼻窪紋中針三分禁灸主治鼻塞不聞香臭息肉多涕有瘡鼽衄",
+      "reason": "迎香의 전통 주치문과 바로 앞 禾髎 조문의 동일 병명이 ‘息肉’이며 문맥상 ‘香臭息肉多涕’로 이어진다.",
+      "expected_count": 1
+    },
+    {
+      "before": "飲食不收水漿漏落眼　動遠視KTKT　昏夜無見",
+      "after": "飲食不收水漿漏落眼瞤動遠視䀮䀮昏夜無見",
+      "reason": "《甲乙經》 계열 承泣·地倉 주치의 독립 평행문이 ‘眼瞤動’과 ‘遠視䀮䀮，昏夜無見’으로 일치한다.",
+      "expected_count": 1
+    },
+    {
+      "before": "足不任身目瞑不欲視○連養老治目中KT　KT　又連束骨治項強多惡風",
+      "after": "足不任身目瞑不欲視○連養老治目中眩眩又連束骨治項強多惡風",
+      "reason": "《類經圖翼》의 天柱 조문이 百證賦를 그대로 인용하여 ‘連養老治目中眩眩’으로 전한다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SSID-12754304_%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC_7%E5%8D%B7.pdf",
+      "expected_count": 1
+    },
+    {
+      "before": "心肺二經嘔血藏毒便血不止○HT　脹脅腹滿灸百壯三報之",
+      "after": "心肺二經嘔血藏毒便血不止○臚脹脅腹滿灸百壯三報之",
+      "reason": "《千金》 인용을 보존한 《外臺秘要》의 동일 灸法이 ‘療臚脹脅腹滿，灸膈俞百壯三報’로 일치한다.",
+      "expected_count": 1
+    },
+    {
+      "before": "通谷二穴在幽門下一寸(銅人)○在上HT　旁(資生)",
+      "after": "通谷二穴在幽門下一寸(銅人)○在上脘旁(資生)",
+      "reason": "腹通谷의 표준 위치와 《針灸聚英》 평행문이 모두 ‘上脘旁五分’으로 일치한다.",
+      "evidence_url": "https://cloudtcm.com/acupoint/list/acupoint-dsname/10007",
+      "expected_count": 1
+    },
+    {
+      "before": "上關若刺深令人欠而不得KT　下關若久留針即KT　而不得欠",
+      "after": "上關若刺深令人欠而不得㰦下關若久留針即㰦而不得欠",
+      "reason": "《針灸資生經》의 동일 문장이 ‘上關若刺深，令人欠而不得㰦；下關久留針，即㰦而不得欠’으로 전한다.",
+      "expected_count": 1
+    },
+    {
+      "before": "(腹中)鳩尾一穴一名　KT　一名尾翳在臆前蔽骨下五分",
+      "after": "(腹中)鳩尾一穴一名骬一名尾翳在臆前蔽骨下五分",
+      "reason": "《類經圖翼》 등 任脈 穴名 평행문이 ‘鳩尾（一名骬，一名尾翳）’로 일치한다.",
+      "expected_count": 1
     }
   ],
   "K/K000.txt": [
@@ -15661,6 +15830,41 @@
       "after": "目橐（一作瞏，一本無此字）系絕",
       "expected_count": 1,
       "evidence": "《素問·診要經終論》 소양종의 판본 이문 目瞏絕系이며 瞏의 음은 瓊이다."
+    },
+    {
+      "before": "刺上關者，KT　不能欠；刺下關者，欠不能KT　。",
+      "after": "刺上關者，呿不能欠；刺下關者，欠不能呿。",
+      "reason": "《靈樞·本輸》의 직접 평행문이 ‘刺上關者，呿不能欠；刺下關者，欠不能呿’로 두 결자를 확정한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/mingju/7623799384584617994",
+      "expected_count": 1
+    },
+    {
+      "before": "心痛有三蟲，多HT　，不得反側，上脘主之。",
+      "after": "心痛有三蟲，多涎，不得反側，上脘主之。",
+      "reason": "동일 《針灸甲乙經》 구절의 공개 번역·평행 전사가 병후를 ‘多涎’으로 풀이·수록한다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/326/111",
+      "expected_count": 1
+    },
+    {
+      "before": "[h3]欠噦唏振寒噫嚏泣出太息HT下耳鳴嚙舌善忘善飢第一[/h3]",
+      "after": "[h3]欠噦唏振寒噫嚏泣出太息涎下耳鳴嚙舌善忘善飢第一[/h3]",
+      "reason": "같은 편 본문의 ‘涎下’ 및 《黃帝內經太素》 직접 평행문 ‘舌縱涎下’로 편목 결자를 확정한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+      "expected_count": 1
+    },
+    {
+      "before": "胃緩則廉泉開，故HT　下。補足少陰。",
+      "after": "胃緩則廉泉開，故涎下。補足少陰。",
+      "reason": "廉泉이 열리면 침이 흐른다는 자체 문맥과 같은 편명·《太素》 평행문의 ‘涎下’가 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+      "expected_count": 1
+    },
+    {
+      "before": "舌縱HT　下，煩悶，陰交主之。",
+      "after": "舌縱涎下，煩悶，陰交主之。",
+      "reason": "《黃帝內經太素》가 이 《甲乙經》 이문을 직접 언급하면서 본문을 ‘舌縱涎下’로 제시한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+      "expected_count": 1
     }
   ],
   "K/K008.txt": [

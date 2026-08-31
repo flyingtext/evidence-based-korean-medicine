@@ -1830,5 +1830,54 @@
     "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC239%E5%8D%B7",
     "evidence_note": "바로 앞 診在肌上의 肌를 정의하는 주해.",
     "reason": "바로 앞 診在肌上의 肌를 정의하는 주해."
+  },
+  {
+    "before": "至頭，KT　KT　然",
+    "after": "至頭，几几然",
+    "reason": "본문과 주해 두 출현 모두 《素問·刺腰痛》의 정형구 至頭几几然이며, 바로 뒤 음의가 几音殊로 설명한다.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "expected_count": 2
+  },
+  {
+    "before": "KT　，音殊。腰痛俠脊而痛",
+    "after": "几，音殊。腰痛俠脊而痛",
+    "reason": "직전 인용문의 几几를 풀이하는 자체 음의이며 공개 素問 색인의 几(shu)와 일치한다.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "expected_count": 1
+  },
+  {
+    "before": "三日皆KT　筋痛，小便閉",
+    "after": "三日皆膂筋痛，小便閉",
+    "reason": "두 출현 모두 《素問·標本病傳》 계통의 背膂筋痛이며 주변 평행 인용도 膂膀胱·背膂筋痛으로 자가 확정한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+    "expected_count": 2
+  },
+  {
+    "before": "KT　，膂同，余篇仿此",
+    "after": "膂，膂同，余篇仿此",
+    "reason": "직전 본문 中膂의 자체 음의로서 결자는 膂임이 명시돼 있다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E7%B4%A0%E5%95%8F%E7%9B%B4%E8%A7%A3/index.html",
+    "expected_count": 1
+  },
+  {
+    "before": "目視KT　KT　，物疏璺",
+    "after": "目視䀮䀮，物疏璺",
+    "reason": "본문과 주해 두 출현 모두 시야 불명의 정형어 目視䀮䀮이며 같은 책의 다른 䀮䀮 용례와 일치한다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
+    "expected_count": 1
+  },
+  {
+    "before": "夏日　。　，HT　也。胃病脹滿",
+    "after": "夏日昳。昳，昃也。胃病脹滿",
+    "reason": "《素問·標本病傳》의 夏日昳과 이를 풀이한 자체 주석 昳，昃也로 문장 전체가 확정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+    "expected_count": 1
+  },
+  {
+    "before": "貉，音HT　。",
+    "after": "貉，音鶴。",
+    "reason": "貉의 독음을 밝힌 자체 음의로, 貉의 정음 鶴과 문맥상 유일하게 일치한다.",
+    "evidence_url": "https://www.zdic.net/hans/%E8%B2%89",
+    "expected_count": 1
   }
 ]

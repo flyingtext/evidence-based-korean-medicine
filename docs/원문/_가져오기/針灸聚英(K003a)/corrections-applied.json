@@ -30,5 +30,68 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E7%98%A7%E8%AB%96",
     "evidence_note": "모든 occurrence가 痎瘧 병명.",
     "reason": "모든 occurrence가 痎瘧 병명."
+  },
+  {
+    "before": "[c]bbhon[/c]",
+    "after": "䯒",
+    "reason": "40개 출현 모두 䯒骨·脛䯒·䯒痠 등 동일 자형이며 K003 평행 판본의 해당 구절과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 40
+  },
+  {
+    "before": "[c]uumbc[/c]",
+    "after": "䪼",
+    "reason": "16개 출현 모두 頰上䪼·目下為䪼·鼻䪼腫·顳䪼 등 얼굴 부위명 䪼이며 K003 평행문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 16
+  },
+  {
+    "before": "[c]vohg[/c]",
+    "after": "妊",
+    "reason": "12개 출현 모두 妊娠·妊婦·妊脈·妊孕 문맥으로 자가 확정되며 K003 평행문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 12
+  },
+  {
+    "before": "[c]kjjh[/c]",
+    "after": "疹",
+    "reason": "7개 출현 모두 風疹·癮疹·痼疹 문맥이고 K003 평행 판본에서 疹으로 확인된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 7
+  },
+  {
+    "before": "[c]bjbc[/c]",
+    "after": "䐜",
+    "reason": "7개 출현 모두 心腹䐜滿·腹䐜堅痛·腹䐜而脹·小腹之䐜의 정형 병증 문맥으로 확인된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 7
+  },
+  {
+    "before": "[c]mnoiv[/c]",
+    "after": "飧",
+    "reason": "5개 출현 모두 飧泄·飧洩이며 K003 평행 판본의 동일 구절과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 5
+  },
+  {
+    "before": "[c]kgi[/c]",
+    "after": "痃",
+    "reason": "5개 출현 모두 痃癖·痃氣의 정형 병명이고 K003 평행 판본과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 5
+  },
+  {
+    "before": "[c]kmvs[/c]",
+    "after": "㽲",
+    "reason": "4개 출현 모두 小腹㽲痛·惡血㽲痛·繞臍㽲痛·腹㽲刺痛의 정형 병증 문맥이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 4
+  },
+  {
+    "before": "[c]butwi[/c]",
+    "after": "䁾",
+    "reason": "두 출현이 각각 眵䁾 및 眵䁾冷淚로 동일하며 K003 평행 판본의 해당 구절과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html",
+    "expected_count": 2
   }
 ]

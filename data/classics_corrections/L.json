@@ -2400,6 +2400,20 @@
       "expected_count": 1,
       "reason": "조건문 고정어 苟非이며 공개 판면의 서문 문맥과 일치",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Shanghai_%E9%8A%80%E6%B5%B7%E7%B2%BE%E5%BE%AE%E4%BA%8C%E5%8D%B7.pdf"
+    },
+    {
+      "before": "故金井不圓，上下東西如鋸齒，HT　缺參差，久則漸漸細小",
+      "after": "故金井不圓，上下東西如鋸齒，䱇缺參差，久則漸漸細小",
+      "reason": "공개 《銀海精微》 동일 장의 고유 문장이 ‘䱇缺參差’로 전사되어 결자를 직접 확정한다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/317/28",
+      "expected_count": 1
+    },
+    {
+      "before": "琥珀　珍珠（各三錢）　硼砂（五分）　珊瑚（一錢五分）　朱砂　KT　砂（各五分）",
+      "after": "琥珀　珍珠（各三錢）　硼砂（五分）　珊瑚（一錢五分）　朱砂　硇砂（各五分）",
+      "reason": "같은 책의 점안약 처방들에서 반복되는 약명이 硇砂이며, 현 규칙에도 ‘煉過甘石…硇砂〔白的〕’ 및 ‘乳香　沒藥硇砂’의 직접 대조 복원이 존재한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%8A%80%E6%B5%B7%E7%B2%BE%E5%BE%AE",
+      "expected_count": 1
     }
   ],
   "L/L002.txt": [

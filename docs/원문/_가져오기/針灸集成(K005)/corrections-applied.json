@@ -2934,5 +2934,69 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
     "evidence_note": "足太陰經脈 조문의 ‘循脛骨後’.",
     "reason": "足太陰經脈 조문의 ‘循脛骨後’."
+  },
+  {
+    "before": "經脈空虛血氣枯竭腸胃HT　僻皮膚薄著毛腠夭焦",
+    "after": "經脈空虛血氣枯竭腸胃㒤僻皮膚薄著毛腠夭焦",
+    "reason": "《靈樞·根結》 평행문이 ‘腸胃㒤僻’으로 일치하며 㒤은 僧旁이 아니라 人旁聶의 외자이다.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216093",
+    "expected_count": 1
+  },
+  {
+    "before": "膏肓穴壯數既多當有所下KT　KT　然如流水之壯者是痰下也",
+    "after": "膏肓穴壯數既多當有所下嚨嚨然如流水之壯者是痰下也",
+    "reason": "《針灸資生經》 인용 평행문과 동의보감 침구편 대조문이 모두 ‘當有所下嚨嚨然如流水’로 일치한다.",
+    "evidence_url": "https://pinedance.github.io/research/resources/2004-01.pdf",
+    "expected_count": 1
+  },
+  {
+    "before": "主治尸厥口不可開鼻瘡　肉鼻塞鼽衄",
+    "after": "主治尸厥口不可開鼻瘡息肉鼻塞鼽衄",
+    "reason": "동계 침구서 《針灸聚英》 및 저장소의 K/K003·K/K003a 평행문이 ‘鼻瘡息肉’으로 일치한다.",
+    "expected_count": 1
+  },
+  {
+    "before": "迎香鼻窪紋中針三分禁灸主治鼻塞不聞香臭　肉多涕有瘡鼽衄",
+    "after": "迎香鼻窪紋中針三分禁灸主治鼻塞不聞香臭息肉多涕有瘡鼽衄",
+    "reason": "迎香의 전통 주치문과 바로 앞 禾髎 조문의 동일 병명이 ‘息肉’이며 문맥상 ‘香臭息肉多涕’로 이어진다.",
+    "expected_count": 1
+  },
+  {
+    "before": "飲食不收水漿漏落眼　動遠視KTKT　昏夜無見",
+    "after": "飲食不收水漿漏落眼瞤動遠視䀮䀮昏夜無見",
+    "reason": "《甲乙經》 계열 承泣·地倉 주치의 독립 평행문이 ‘眼瞤動’과 ‘遠視䀮䀮，昏夜無見’으로 일치한다.",
+    "expected_count": 1
+  },
+  {
+    "before": "足不任身目瞑不欲視○連養老治目中KT　KT　又連束骨治項強多惡風",
+    "after": "足不任身目瞑不欲視○連養老治目中眩眩又連束骨治項強多惡風",
+    "reason": "《類經圖翼》의 天柱 조문이 百證賦를 그대로 인용하여 ‘連養老治目中眩眩’으로 전한다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/SSID-12754304_%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC_7%E5%8D%B7.pdf",
+    "expected_count": 1
+  },
+  {
+    "before": "心肺二經嘔血藏毒便血不止○HT　脹脅腹滿灸百壯三報之",
+    "after": "心肺二經嘔血藏毒便血不止○臚脹脅腹滿灸百壯三報之",
+    "reason": "《千金》 인용을 보존한 《外臺秘要》의 동일 灸法이 ‘療臚脹脅腹滿，灸膈俞百壯三報’로 일치한다.",
+    "expected_count": 1
+  },
+  {
+    "before": "通谷二穴在幽門下一寸(銅人)○在上HT　旁(資生)",
+    "after": "通谷二穴在幽門下一寸(銅人)○在上脘旁(資生)",
+    "reason": "腹通谷의 표준 위치와 《針灸聚英》 평행문이 모두 ‘上脘旁五分’으로 일치한다.",
+    "evidence_url": "https://cloudtcm.com/acupoint/list/acupoint-dsname/10007",
+    "expected_count": 1
+  },
+  {
+    "before": "上關若刺深令人欠而不得KT　下關若久留針即KT　而不得欠",
+    "after": "上關若刺深令人欠而不得㰦下關若久留針即㰦而不得欠",
+    "reason": "《針灸資生經》의 동일 문장이 ‘上關若刺深，令人欠而不得㰦；下關久留針，即㰦而不得欠’으로 전한다.",
+    "expected_count": 1
+  },
+  {
+    "before": "(腹中)鳩尾一穴一名　KT　一名尾翳在臆前蔽骨下五分",
+    "after": "(腹中)鳩尾一穴一名骬一名尾翳在臆前蔽骨下五分",
+    "reason": "《類經圖翼》 등 任脈 穴名 평행문이 ‘鳩尾（一名骬，一名尾翳）’로 일치한다.",
+    "expected_count": 1
   }
 ]

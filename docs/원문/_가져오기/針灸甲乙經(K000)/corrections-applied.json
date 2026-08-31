@@ -64,5 +64,40 @@
     "after": "目橐（一作瞏，一本無此字）系絕",
     "expected_count": 1,
     "evidence": "《素問·診要經終論》 소양종의 판본 이문 目瞏絕系이며 瞏의 음은 瓊이다."
+  },
+  {
+    "before": "刺上關者，KT　不能欠；刺下關者，欠不能KT　。",
+    "after": "刺上關者，呿不能欠；刺下關者，欠不能呿。",
+    "reason": "《靈樞·本輸》의 직접 평행문이 ‘刺上關者，呿不能欠；刺下關者，欠不能呿’로 두 결자를 확정한다.",
+    "evidence_url": "https://www.shidianguji.com/zh/mingju/7623799384584617994",
+    "expected_count": 1
+  },
+  {
+    "before": "心痛有三蟲，多HT　，不得反側，上脘主之。",
+    "after": "心痛有三蟲，多涎，不得反側，上脘主之。",
+    "reason": "동일 《針灸甲乙經》 구절의 공개 번역·평행 전사가 병후를 ‘多涎’으로 풀이·수록한다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/326/111",
+    "expected_count": 1
+  },
+  {
+    "before": "[h3]欠噦唏振寒噫嚏泣出太息HT下耳鳴嚙舌善忘善飢第一[/h3]",
+    "after": "[h3]欠噦唏振寒噫嚏泣出太息涎下耳鳴嚙舌善忘善飢第一[/h3]",
+    "reason": "같은 편 본문의 ‘涎下’ 및 《黃帝內經太素》 직접 평행문 ‘舌縱涎下’로 편목 결자를 확정한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+    "expected_count": 1
+  },
+  {
+    "before": "胃緩則廉泉開，故HT　下。補足少陰。",
+    "after": "胃緩則廉泉開，故涎下。補足少陰。",
+    "reason": "廉泉이 열리면 침이 흐른다는 자체 문맥과 같은 편명·《太素》 평행문의 ‘涎下’가 일치한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+    "expected_count": 1
+  },
+  {
+    "before": "舌縱HT　下，煩悶，陰交主之。",
+    "after": "舌縱涎下，煩悶，陰交主之。",
+    "reason": "《黃帝內經太素》가 이 《甲乙經》 이문을 직접 언급하면서 본문을 ‘舌縱涎下’로 제시한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=878463&if=en",
+    "expected_count": 1
   }
 ]
