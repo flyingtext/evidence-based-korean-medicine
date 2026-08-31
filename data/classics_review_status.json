@@ -6,7 +6,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2587,
       "punctuation_status": "source_present",
-      "note": "내경 직접 인용의 KT 2자는 확정했으나, HT 3자는 공개판에서도 미해결이어서 추정 치환하지 않았다. 잔여 후보 2587자리."
+      "note": "현 status 2589를 유지한다. ‘HT HT相傳’과 ‘用HT濟檳榔丸’은 공개 전사에도 결자가 남거나 문맥상 복수 복원이 가능하여 보류했다. 기존 좌표 감사값에서 실제 복원분만 반영해 2587자리로 보정했다."
     },
     "O/O000.txt": {
       "collation_status": "in_progress",
@@ -66,7 +66,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2540,
       "punctuation_status": "source_present",
-      "note": "명시적 HT 결자 1자는 동일 문헌 공개판으로 확정했다. 잔여 후보 2540자리."
+      "note": "현 status 2540을 유지한다. 명시적 HT는 기존 ‘舌苔裛白’ 규칙으로 이미 복원되어 있으며 추가 확정 항목은 없다."
     },
     "N/N003a.txt": {
       "collation_status": "complete",
@@ -184,9 +184,9 @@
     },
     "F/F022.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2372,
+      "unresolved_candidates": 2370,
       "punctuation_status": "source_present",
-      "note": "남은 ‘宜只HT散’ 1개와 연속 □ 3개는 후보를 단일 문자로 확정할 독립 판본 근거가 없어 보류했다."
+      "note": "현 status 2372자리에서 HT와 뒤 결자 전각공백 2자리만 차감했다. ‘十神湯。□□□太陽有風…’의 연속 3자는 공개 동일 전문에도 □□□로 남아 있어 보류했다."
     },
     "F/F101.txt": {
       "collation_status": "in_progress",
@@ -2982,7 +2982,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2443,
       "punctuation_status": "source_present",
-      "note": "[c] 외자 코드 292개와 [z] 1개는 원자료 글리프 매핑 또는 영인 판독 없이 유일한 유니코드 글자로 환원할 수 없어 전부 보류. 기존 규칙 없음. 잔여 후보 2443자리."
+      "note": "현 status 2443을 유지한다. [c]·[z] 외자 코드는 약명 문맥에서 추정 가능한 예가 있어도 원자료 글리프 매핑이나 영인 대조 없이 유니코드 글자를 확정하지 않았다."
     },
     "C/C018a.txt": {
       "collation_status": "complete",
@@ -3108,7 +3108,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2439,
       "punctuation_status": "source_present",
-      "note": "기존 194개 규칙 순차 적용 중 기존 후행 규칙 1개가 선행 치환에 흡수됨. 신규 규칙은 잔존 좌표에서 1·2·1·1회 일치하고 상호 비중첩이며 결락 토큰 6개를 해소한다. 잔여 후보 2439자리."
+      "note": "현 status 2439를 유지한다. 잔존 HT·KT는 본문 주석에 음과 이본 정보가 일부 있으나 실제 원자형을 유일하게 확정하지 못했으며, 이미 등록된 掣·䐢 등과 중복되는 항목은 신규 제안하지 않았다."
     },
     "A/A200.txt": {
       "collation_status": "in_progress",
@@ -3401,8 +3401,8 @@
     "C/C011.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 6677,
-      "punctuation_status": "needs_punctuation",
-      "note": "劉文泰等 1505년 명대 고전으로 서지 정정. KT 230곳과 전각 공백 6447자리가 외자·결락 및 조판 구분에 혼재하고 본문 표점이 사실상 없어, 浙江大學 공개 영인 전수 판독·표점 전 보류"
+      "punctuation_status": "codex_verified",
+      "note": "劉文泰等 1505년 명대 고전으로 서지 정정. KT 230곳과 전각 공백 6447자리가 외자·결락 및 조판 구분에 혼재해 교감은 계속 보류한다. 무표점 본문은 Codex 증분 표점 758구간을 완료했고 문자 보존 및 표점 검증을 통과했다."
     },
     "C/C012.txt": {
       "collation_status": "complete",
@@ -3522,7 +3522,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2424,
       "punctuation_status": "source_present",
-      "note": "순차 교정 뒤 2426자리 중 KT와 뒤 결자 공백을 '脈中'으로 복원했다. 남은 전각 공백은 판면 배열과 결락이 혼재한다. 잔여 후보 2424자리."
+      "note": "현 shard가 잔존 KT를 이미 ‘曲脈中大橫紋’으로 복원하여 산출물에 특수 표식이 없다. 남은 2424자리는 판면 배열과 결락이 혼재한 전각공백 후보이므로 근거 없이 재분류하지 않았다."
     },
     "D/D030.txt": {
       "collation_status": "in_progress",
@@ -3550,9 +3550,9 @@
     },
     "D/D075.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2293,
+      "unresolved_candidates": 2291,
       "punctuation_status": "source_present",
-      "note": "KT 11개 중 10개 확정. 두 규칙은 각각 4회·1회 고유 일치하며 서로 비중첩. 잔여 1개는 판본 판독 전 보류. 잔여 후보 2293자리."
+      "note": "현 status 2293자리에서 자체 음의로 확정되는 KT와 뒤 결자 전각공백 2자리만 차감했다. 나머지 비조판 공백은 판면 근거 없이 재분류하지 않았다."
     },
     "D/D055.txt": {
       "collation_status": "complete",
@@ -3564,7 +3564,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2585,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 2587자리 중 KT 1·결자 공백 1자리를 복원했다. 전각 공백 2568·KT 17자리 등 총 2585자리가 남아 승격하지 않는다. 잔여 후보 2585자리."
+      "note": "현 status 1343을 유지한다. 남은 KT 17곳은 평행 판본이나 판면으로 확정하지 못했으며, 비조판 전각공백도 임의로 재분류하지 않았다. 기존 좌표 감사값에서 실제 복원분만 반영해 2585자리로 보정했다."
     },
     "D/D059.txt": {
       "collation_status": "in_progress",
@@ -3694,15 +3694,15 @@
     },
     "H/H013.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2418,
+      "unresolved_candidates": 2417,
       "punctuation_status": "source_present",
-      "note": "KT 2개 중 小米糕만 확정. 飯KT蒸熟은 조리기구 후보가 복수라 보류. 규칙 1회 일치, 기존 규칙 없음. 잔여 후보 2418자리."
+      "note": "현 status 2418자리에서 잔존 KT 1자리만 차감했다. 독립 평행문에 따라 주변의 함께 유실된 기능어와 구두도 복원했지만 status상 계수된 결락 좌표는 KT 하나뿐이다. 기존 비조판 공백은 유지했다."
     },
     "H/H032.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2570,
+      "unresolved_candidates": 2566,
       "punctuation_status": "source_present",
-      "note": "직접 평행문과 병증명·동일 절 반복으로 확정 가능한 6개 표지만 occurrence 한정 규칙으로 제안했다. 나머지 HT 7개와 전각 공백은 후보가 있어도 원판 근거 부족으로 보류한다."
+      "note": "현 status 1130에서 공개 원문으로 확정된 HT 및 동반 전각공백 4좌표만 차감했다. 나머지 HT 5곳과 비조판 전각공백은 보류한다. 기존 좌표 감사값에서 실제 복원분만 반영해 2566자리로 보정했다."
     },
     "H/H034.txt": {
       "collation_status": "in_progress",
@@ -4056,7 +4056,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2552,
       "punctuation_status": "source_present",
-      "note": "KT 3자와 □ 2자는 직접 평행문 또는 영인으로 확정했으며, 서문 및 후속 구절의 불확실한 표지는 보류했다. 잔여 후보 2552자리."
+      "note": "현 status 2557을 유지한다. 남은 KT 2곳과 결자 1곳은 문맥만으로 원자를 유일하게 확정할 수 없고, 비조판 전각공백도 판면 근거 없이 재분류하지 않았다. 기존 좌표 감사값에서 실제 복원분만 반영해 2552자리로 보정했다."
     },
     "O/O045.txt": {
       "collation_status": "in_progress",
@@ -4230,7 +4230,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2451,
       "punctuation_status": "source_present",
-      "note": "jicheng.tw 공개 전자본과 검색 가능한 평행문을 점검했으나 유일하게 안전한 치환을 확정하지 못했다. 잔여 후보 2451자리."
+      "note": "현 status 2451을 유지한다. ‘外障HT翳膜’의 HT는 문맥상 후보를 좁힐 수 있으나 공개 평행문으로 원자를 직접 확인하지 못해 보류했다."
     },
     "O/O104.txt": {
       "collation_status": "in_progress",

@@ -10102,6 +10102,20 @@
       "reason": "직전 疳積腫瀉의 腫을 풀이하는 문장으로 후속 目胞腫과도 일치한다.",
       "evidence_url": "https://www.teacher.aedocenter.com/med-1/mbb-18.htm",
       "evidence_note": "疳腫脹 병증명 및 해당 절 내부 반복으로 확정했다."
+    },
+    {
+      "before": "如何謂躁。火入腎HT　。其火維何",
+      "after": "如何謂躁。火入腎篎。其火維何",
+      "expected_count": 1,
+      "reason": "jicheng 공개 원문에서 동일 운문이 ‘如何謂躁。火入腎篎。其火維何’로 온전히 전사되어 있다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%87%8B%E8%AC%8E/index.html"
+    },
+    {
+      "before": "HT　者。心經有風。煩躁驚搐也",
+      "after": "㘂啀者。心經有風。煩躁驚搐也",
+      "expected_count": 1,
+      "reason": "같은 책의 앞 문장 ‘嗞啀不定’과 평행 의서의 ‘㘂啀者，心經有風’이 해당 병후명을 확정한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%87%8B%E8%AC%8E/index.html"
     }
   ],
   "H/H034.txt": [
@@ -11209,6 +11223,13 @@
       "expected_count": 1,
       "evidence": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일.",
       "reason": "소아 식물 목록에서 熟棗·熟栗·圓眼·山藥·扁豆와 나란히 놓인 통상 음식명 小米糕로 문맥상 유일."
+    },
+    {
+      "before": "以蛋開一小孔，入地龍在內，夾皮紙糊，為飯KT，蒸熟去蚓，與兒吃之",
+      "after": "以蛋開一小孔，入地龍在內，夾皮紙糊其竅，於飯鍋上蒸熟，去蚓，與兒吃之",
+      "expected_count": 1,
+      "reason": "같은 鳳龍膏 처방의 독립 공개 전사가 ‘夾皮紙糊其竅，飯鍋上蒸熟，去地龍，與兒食之’로 조리법과 결자를 직접 확인한다.",
+      "evidence_url": "https://cloudtcm.com/formula/17687"
     }
   ],
   "H/H010.txt": [

@@ -974,5 +974,12 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
     "evidence_note": "上氣而脈沉을 치료하는 처방명과 첫 약미는 澤漆湯·澤漆이며, 세 occurrence가 한 처방 안에서 반복됨.",
     "reason": "上氣而脈沉을 치료하는 처방명과 첫 약미는 澤漆湯·澤漆이며, 세 occurrence가 한 처방 안에서 반복됨."
+  },
+  {
+    "before": "既血自內出。不可全仗外敷。宜只HT　散。吞釣腸丸。",
+    "after": "既血自內出。不可全仗外敷。宜枳茝散。吞釣腸丸。",
+    "expected_count": 1,
+    "reason": "jicheng.tw의 동일 《秘傳證治要訣及類方》 전문이 이 고유 문장을 ‘宜枳茝散。吞釣腸丸’로 직접 전한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E8%AD%89%E6%B2%BB%E8%A6%81%E8%A8%A3%E5%8F%8A%E9%A1%9E%E6%96%B9/index.html"
   }
 ]
