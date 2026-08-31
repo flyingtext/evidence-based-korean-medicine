@@ -58,7 +58,65 @@ def sync_body(rendered: str, desired: str) -> tuple[str, dict[str, int]]:
     positions = significant_positions(rendered)
     old = "".join(rendered[index] for index in positions)
     new = signature(desired)
-    matcher = difflib.SequenceMatcher(a=old, b=new, autojunk=False)
+    # 결자 교감의 가장 흔한 형태는 두 글자 표지(HT/KT)를 한 글자로
+    # 복원하는 것이다. 이 경우에는 전체 LCS를 구할 필요 없이 한 번의
+    # 선형 순회로 정확한 편집 위치를 얻을 수 있다.
+    marker_edits: list[tuple[int, int, str]] = []
+    i = j = 0
+    while i < len(old) and j < len(new):
+        if old[i] == new[j]:
+            i += 1
+            j += 1
+            continue
+        if old[i : i + 2] in {"HT", "KT"}:
+            run_start = i
+            marker_count = 0
+            while old[i : i + 2] in {"HT", "KT"}:
+                marker_count += 1
+                i += 2
+            next_markers = [position for position in (old.find("HT", i), old.find("KT", i)) if position >= 0]
+            anchor_end = min(i + 24, min(next_markers)) if next_markers else i + 24
+            anchor = old[i:anchor_end]
+            search_end = min(len(new), j + max(32, marker_count * 8) + len(anchor))
+            anchor_at = new.find(anchor, j + marker_count, search_end) if anchor else len(new)
+            if anchor_at < 0:
+                marker_edits = []
+                break
+            replacement = new[j:anchor_at]
+            if len(replacement) < marker_count:
+                marker_edits = []
+                break
+            offset = 0
+            for marker_index in range(marker_count):
+                take = 1 if marker_index + 1 < marker_count else len(replacement) - offset
+                source_index = run_start + marker_index * 2
+                marker_edits.append(
+                    (
+                        positions[source_index],
+                        positions[source_index + 1] + 1,
+                        replacement[offset : offset + take],
+                    )
+                )
+                offset += take
+            j = anchor_at
+            continue
+        marker_edits = []
+        break
+    if marker_edits and i == len(old) and j == len(new):
+        punctuation_before = punctuation_signature(rendered)
+        for start, end, replacement in reversed(marker_edits):
+            rendered = rendered[:start] + replacement + rendered[end:]
+        if signature(rendered) != new:
+            raise RuntimeError("동기화 후 비표점 문자 배열이 교정 원문과 일치하지 않음")
+        if punctuation_signature(rendered) != punctuation_before:
+            raise RuntimeError("동기화 과정에서 기존 표점 순서열이 변경됨")
+        return rendered, {"replace": len(marker_edits) * 2, "delete": 0, "insert": 0}
+
+    # 대형 고전은 같은 한자가 수천 번 반복된다. autojunk를 끄면
+    # SequenceMatcher가 반복 문자마다 후보 좌표를 모두 훑어 수 분 이상
+    # 걸릴 수 있다. 여기서는 결과를 아래의 완전한 서명 비교로 다시
+    # 검증하므로, 빈출 문자를 앵커에서 제외해도 안전하다.
+    matcher = difflib.SequenceMatcher(a=old, b=new, autojunk=True)
     edits: list[tuple[int, int, str]] = []
     punctuation_before = punctuation_signature(rendered)
     counts = {"replace": 0, "delete": 0, "insert": 0}

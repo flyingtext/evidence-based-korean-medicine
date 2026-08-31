@@ -7605,11 +7605,19 @@
   "character_preservation": {
     "verified": true,
     "input_nonpunctuation_characters": 524868,
-    "output_nonpunctuation_characters": 524868
+    "output_nonpunctuation_characters": 524868,
+    "input_non_punctuation_characters": 524860,
+    "output_non_punctuation_characters": 524860
   },
   "punctuation": {
     "ascii_count": 98822,
     "density_per_nonpunctuation_character": 0.18827972,
     "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 22,
+    "delete": 0,
+    "insert": 0
   }
 }

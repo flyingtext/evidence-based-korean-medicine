@@ -3160,9 +3160,11 @@
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2439,
+      "unresolved_candidates": 2347,
       "punctuation_status": "source_present",
-      "note": "현 status 2439를 유지한다. 잔존 HT·KT는 본문 주석에 음과 이본 정보가 일부 있으나 실제 원자형을 유일하게 확정하지 못했으며, 이미 등록된 掣·䐢 등과 중복되는 항목은 신규 제안하지 않았다."
+      "note": "2차 감사. jicheng.tw 완문과 《內經難字音義》를 대조해 희자 원자형을 보존. batch104-B의 㿗·潮·瘲·癰·鼷·䯏 제안은 각각 㾽·𣶃·𤸪·癕·𦢂·𩩻로 대체해야 함. 전각공백 자체는 교정하지 않음.",
+      "remaining_count": 2347,
+      "status": "in_progress"
     },
     "A/A200.txt": {
       "collation_status": "in_progress",
@@ -3460,9 +3462,11 @@
     },
     "C/C011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6677,
+      "unresolved_candidates": 6603,
       "punctuation_status": "codex_verified",
-      "note": "KT는 230회이나 하나의 문자 코드가 아니라 희귀 동식물·약물명, 지명, 음훈, 산문 결자를 함께 표시한 범용 결자 표지다. 출현별 글자가 서로 달라 전역 규칙을 만들 수 없으며, 개별 좌표 교감이 필요하다."
+      "note": "배치104 적용 후 잔여 167 KT를 재감사. 신뢰 가능한 전승 원문으로 확정되는 11개 결자만 9개 문맥 규칙으로 제안했으며 전각공백은 결자로 계산하지 않음. 적용 후 KT 156, 전각공백 6447 유지 예상.",
+      "remaining_count": 6603,
+      "status": "in_progress"
     },
     "C/C012.txt": {
       "collation_status": "complete",
@@ -4530,9 +4534,11 @@
     },
     "P/P0506.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7005,
+      "unresolved_candidates": 6802,
       "punctuation_status": "source_present",
-      "note": "현 status 7005를 유지한다. 잔존 KT·HT는 침구 희귀자, 해부명, 음역이 혼재하여 개별 영인 좌표 없이 일괄 복원하지 않았다."
+      "note": "배치104가 HEAD에 병합된 757개 규칙 적용 후 HT 41, KT 70, □ 3이 남았다. 직접 인용·표준 혈명·본초 칠정으로 HT 2개와 KT 21개, 합계 23개 표지를 추가 복원했다. 나머지 HT 39, KT 49, □ 3 및 전각공백은 유지했다.",
+      "remaining_count": 6802,
+      "status": "in_progress"
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",

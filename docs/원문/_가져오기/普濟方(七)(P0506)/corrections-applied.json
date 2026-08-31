@@ -6014,5 +6014,145 @@
     "reason": "《素問·藏氣法時論》 독립 영인 전사 대조",
     "evidence_url": "https://zh.wikisource.org/zh-hant/Page%3AGujin_Tushu_Jicheng%2C_Volume_434_%281700-1725%29.djvu/77",
     "evidence_note": "공개 영인 전사가 동일 조문을 肝虛則目䀮䀮無所見으로 제시한다."
+  },
+  {
+    "before": "目視KT　KT　",
+    "after": "目視䀮䀮",
+    "expected_count": 11,
+    "reason": "《素問》《靈樞》 및 혈위 주치의 정형어 ‘目視䀮䀮’. ‘目䀮䀮’ 규칙과 겹치지 않는 고정 결합이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "遠視KT　KT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 17,
+    "reason": "원거리 시야 불명의 반복 정형어 ‘遠視䀮䀮’.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "視物KT　KT　",
+    "after": "視物䀮䀮",
+    "expected_count": 1,
+    "reason": "시물 불명의 고정 병증어 ‘視物䀮䀮’.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "遠視KTKT　",
+    "after": "遠視䀮䀮",
+    "expected_count": 2,
+    "reason": "공백 없이 연속 입력된 두 KT도 동일 혈위 주치문 ‘遠視䀮䀮’이며 두 위치 모두 좌우 문맥이 일치한다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "臨泣、目HT　、正營、承靈、腦空",
+    "after": "臨泣、目窗、正營、承靈、腦空",
+    "expected_count": 1,
+    "reason": "두부 足少陽 경혈 배열의 표준 혈명 目窗.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "在曲HT　內兩筋兩骨中宛宛是",
+    "after": "在曲膕內兩筋兩骨中宛宛是",
+    "expected_count": 1,
+    "reason": "委中穴의 표준 위치인 무릎 뒤 曲膕.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "在小KT　後手太陽陽明手足少陽之會",
+    "after": "在小髃後手太陽陽明手足少陽之會",
+    "expected_count": 1,
+    "reason": "肩部 해부 표지 小髃와 경맥 회합 위치.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "虛則欠KT　。小便遺數。",
+    "after": "虛則欠呿。小便遺數。",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 手太陰 별락의 정형문 ‘虛則欠呿’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "令人欠而不得KT　。下關久留針。即KT　而不得欠。",
+    "after": "令人欠而不得呿。下關久留針。即呿而不得欠。",
+    "expected_count": 1,
+    "reason": "상관·하관 자침 금기의 대구 ‘欠而不得呿 / 呿而不得欠’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "又不止令人欠而不得KT　而已。",
+    "after": "又不止令人欠而不得呿而已。",
+    "expected_count": 1,
+    "reason": "직전 자침 금기문 ‘欠而不得呿’의 반복 인용.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "治腰痛夾脊至頭。KT　KT　然。",
+    "after": "治腰痛夾脊至頭。沉沉然。",
+    "expected_count": 1,
+    "reason": "腰痛·夾脊 증후의 고정 표현 ‘沉沉然’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+  },
+  {
+    "before": "互引目中赤KT　KT　。臍風目上插",
+    "after": "互引目中赤䀮䀮。臍風目上插",
+    "expected_count": 1,
+    "reason": "같은 혈위 주치군에 반복되는 시야 혼몽어 䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "目澀KT　KT　。頭痛泣出也",
+    "after": "目澀䀮䀮。頭痛泣出也",
+    "expected_count": 1,
+    "reason": "안과 주치의 시야 혼몽 정형어 䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "目翳KT　KT　。鼻塞不通",
+    "after": "目翳䀮䀮。鼻塞不通",
+    "expected_count": 1,
+    "reason": "백예와 병렬된 시야 혼몽 정형어 䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "牽引KT　KT　。不能遠視",
+    "after": "牽引䀮䀮。不能遠視",
+    "expected_count": 1,
+    "reason": "뒤의 ‘不能遠視’가 확정하는 䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "治昏頭旋目。KT　KT　遠視不明",
+    "after": "治昏頭旋目。䀮䀮遠視不明",
+    "expected_count": 1,
+    "reason": "‘遠視不明’과 결합하는 시야 혼몽어 䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "烏頭、烏喙（許穢切。莽草為使。反半夏。　KT貝母。白蘞。白芨",
+    "after": "烏頭、烏喙（許穢切。莽草為使。反半夏。　栝蔞、貝母。白蘞。白芨",
+    "expected_count": 1,
+    "reason": "烏頭 十八反의 고정 약물열 ‘反半夏、栝蔞、貝母、白蘞、白芨’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html"
+  },
+  {
+    "before": "蜀漆（　KT為使。惡貫眾）",
+    "after": "蜀漆（　栝蔞為使。惡貫眾）",
+    "expected_count": 1,
+    "reason": "蜀漆의 본초 칠정 고정문 ‘栝蔞為使’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/index.html"
+  },
+  {
+    "before": "秦椒（惡　KT　防葵。畏雄黃）",
+    "after": "秦椒（惡　栝蔞、防葵。畏雄黃）",
+    "expected_count": 1,
+    "reason": "秦椒의 본초 칠정 ‘惡栝蔞、防葵，畏雄黃’. 표점만 치환문 안에서 정상화.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/index.html"
+  },
+  {
+    "before": "烏頭反半夏。　KT　、貝母、白蘞。",
+    "after": "烏頭反半夏。　栝蔞、貝母、白蘞。",
+    "expected_count": 1,
+    "reason": "十八反의 반복 요약 ‘烏頭反半夏、栝蔞、貝母、白蘞’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/index.html"
   }
 ]

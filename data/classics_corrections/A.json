@@ -24104,6 +24104,455 @@
       "expected_count": 1,
       "evidence": "《內經》 안증 고정 표현 目䀮䀮無所見의 평행문.",
       "reason": "《內經》 안증 고정 표현 目䀮䀮無所見의 평행문."
+    },
+    {
+      "before": "千金。作HT　瘧。（說具於瘧論。）",
+      "after": "千金。作痎瘧。（說具於瘧論。）",
+      "expected_count": 1,
+      "reason": "《千金》 인용문의 痎瘧 복원",
+      "evidence_note": "질병명 痎瘧의 직접 문맥"
+    },
+    {
+      "before": "說文。脈。血理分　行體中者。從HT　從血。",
+      "after": "說文。脈。血理分　行體中者。從肉從血。",
+      "expected_count": 1,
+      "reason": "《說文》 脈 자해의 구성자 복원",
+      "evidence_note": "脈: 從肉從血"
+    },
+    {
+      "before": "肉粗疏胝KT　。而唇掀揭也。",
+      "after": "肉粗疏胝䐢。而唇掀揭也。",
+      "expected_count": 1,
+      "reason": "후속 음의 ‘䐢 集韻仄遇切皺也’에 따른 복원",
+      "evidence_note": "단락 자체 음의"
+    },
+    {
+      "before": "KT。脯也。簡按巢源。",
+      "after": "䐢。脯也。簡按巢源。",
+      "expected_count": 1,
+      "reason": "표제어 胝䐢의 동일 결자 복원",
+      "evidence_note": "같은 단락 표제어와 음의"
+    },
+    {
+      "before": "KT　。集韻。仄遇切。皺也。蓋胝KT　者。",
+      "after": "䐢。集韻。仄遇切。皺也。蓋胝䐢者。",
+      "expected_count": 1,
+      "reason": "《集韻》 음의가 직접 지시하는 䐢 복원",
+      "evidence_note": "仄遇切·皺也"
+    },
+    {
+      "before": "莊子　篋云。必攝緘HT　。固扃　。",
+      "after": "莊子　篋云。必攝緘縢。固扃　。",
+      "expected_count": 1,
+      "reason": "《莊子·胠篋》 직접 인용 대조",
+      "evidence_note": "必攝緘縢，固扃鐍"
+    },
+    {
+      "before": "[u]目HT　絕系[/u]",
+      "after": "[u]目睘絕系[/u]",
+      "expected_count": 1,
+      "reason": "후속 《說文》 자해·음瓊에 따른 睘 복원",
+      "evidence_note": "睘: 目驚視也, 音瓊"
+    },
+    {
+      "before": "馬云。目HT　者。猶俗云眼圈也。",
+      "after": "馬云。目睘者。猶俗云眼圈也。",
+      "expected_count": 1,
+      "reason": "동일 표제어 睘 복원",
+      "evidence_note": "같은 단락의 說文·韻會 근거"
+    },
+    {
+      "before": "吳。HT　。作環。注云。",
+      "after": "吳。睘。作環。注云。",
+      "expected_count": 1,
+      "reason": "異本作環과 대비된 본자 睘 복원",
+      "evidence_note": "같은 단락의 說文·韻會 근거"
+    },
+    {
+      "before": "簡按HT　。音釋。音瓊。",
+      "after": "簡按睘。音釋。音瓊。",
+      "expected_count": 1,
+      "reason": "음瓊인 睘 복원",
+      "evidence_note": "韻會 葵營切 音瓊"
+    },
+    {
+      "before": "說文作HT　。目驚視也。",
+      "after": "說文作睘。目驚視也。",
+      "expected_count": 1,
+      "reason": "《說文》 자해가 직접 지시하는 睘 복원",
+      "evidence_note": "睘: 目驚視也"
+    },
+    {
+      "before": "[u]　HT　[/u]",
+      "after": "[u]　㶼[/u]",
+      "expected_count": 1,
+      "reason": "Cangjie 역색인 fiok 및 자매본 코드 대조",
+      "evidence_note": "A402a fiok=㶼"
+    },
+    {
+      "before": "HT　。音哀。　HT　。燒爆之物也。",
+      "after": "㶼。音哀。　㶼。燒爆之物也。",
+      "expected_count": 1,
+      "reason": "Cangjie 역색인 fiok 및 자체 음의 복원",
+      "evidence_note": "㶼 音哀, 燒爆之物"
+    },
+    {
+      "before": "簡案說文。尻。HT　也。從尸。九聲。",
+      "after": "簡案說文。尻。脽也。從尸。九聲。",
+      "expected_count": 1,
+      "reason": "《說文》 尻 자해 직접 인용",
+      "evidence_note": "尻，脽也"
+    },
+    {
+      "before": "高本。肌。作HT　。注云。HT　。舊本訛肌。",
+      "after": "高本。肌。作𦠄。注云。𦠄。舊本訛肌。",
+      "expected_count": 1,
+      "reason": "고본 주석이 직접 밝힌 𦠄 복원",
+      "evidence_note": "高本 및 舊本訛肌 자체 근거"
+    },
+    {
+      "before": "則肌不必改HT　。",
+      "after": "則肌不必改𦠄。",
+      "expected_count": 1,
+      "reason": "동일 단락의 高本 𦠄 복원",
+      "evidence_note": "동일 결자 반복"
+    },
+    {
+      "before": "云。HT　氣也。從　從HT　從欠。",
+      "after": "云。屰氣也。從　從屰從欠。",
+      "expected_count": 1,
+      "reason": "《說文》 瘚 자해의 구성자 屰 복원",
+      "evidence_note": "屰氣 및 从屰 문맥"
+    },
+    {
+      "before": "溲。溺KT　也。涇溲不利。",
+      "after": "溲。溺液也。涇溲不利。",
+      "expected_count": 1,
+      "reason": "溲의 훈석 ‘溺液’ 문맥 복원",
+      "evidence_note": "소변을 뜻하는 溺液"
+    },
+    {
+      "before": "[u]中KT　兩旁[/u]",
+      "after": "[u]中膂兩旁[/u]",
+      "expected_count": 1,
+      "reason": "후속 주석 ‘膂同’의 직접 지시",
+      "evidence_note": "張云 KT 膂同"
+    },
+    {
+      "before": "張云。KT　。膂同。",
+      "after": "張云。膂。膂同。",
+      "expected_count": 1,
+      "reason": "주석이 직접 밝힌 표준자 膂 복원",
+      "evidence_note": "膂同"
+    },
+    {
+      "before": "[u]背KT　[/u]",
+      "after": "[u]背膂[/u]",
+      "expected_count": 1,
+      "reason": "후속 주석 ‘膂同’의 직접 지시",
+      "evidence_note": "馬云 KT 膂同"
+    },
+    {
+      "before": "馬云。KT　。膂同。腎自傳於膀胱腑。故背KT　筋痛。",
+      "after": "馬云。膂。膂同。腎自傳於膀胱腑。故背膂筋痛。",
+      "expected_count": 1,
+      "reason": "주석이 직접 밝힌 표준자 膂 복원",
+      "evidence_note": "膂同 및 背膂 문맥"
+    },
+    {
+      "before": "高本。衄。作HT　。注云。音忸。",
+      "after": "高本。衄。作䶊。注云。音忸。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E8%AD%98/index.html",
+      "evidence_note": "高本作䶊"
+    },
+    {
+      "before": "篇海。HT　。",
+      "after": "篇海。䶊。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "篇海䶊，通作衄"
+    },
+    {
+      "before": "說文無HT　字。",
+      "after": "說文無䶊字。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "說文無䶊字"
+    },
+    {
+      "before": "甲乙。HT　。作掣。吳云。HT　。掣同。",
+      "after": "甲乙。𤙲。作掣。吳云。𤙲。掣同。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 및 자체 음의 대조",
+      "evidence_note": "𤙲音誓"
+    },
+    {
+      "before": "字書。HT　。音誓。牛兩角豎者名HT　。",
+      "after": "字書。𤙲。音誓。牛兩角豎者名𤙲。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "牛兩角豎者名𤙲"
+    },
+    {
+      "before": "[u]HT　HT　[/u]",
+      "after": "[u]𩅞𩅞[/u]",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "표제어 𩅞𩅞"
+    },
+    {
+      "before": "熊。音中。高云。HT　。沖同。蓋本於新校正別本。簡按HT　。",
+      "after": "熊。音中。高云。𩅞。沖同。蓋本於新校正別本。簡按𩅞。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𩅞音沖"
+    },
+    {
+      "before": "古素問作HT　HT。",
+      "after": "古素問作𩅞𩅞。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "古素問作𩅞𩅞"
+    },
+    {
+      "before": "丸頹。又作HT　。陰病也。",
+      "after": "丸頹。又作㾽。陰病也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "㾽은 인용 원자형; 㿗은 후속 표준 표기"
+    },
+    {
+      "before": "此以淖為HT　。HT　即俗作潮。",
+      "after": "此以淖為𣶃。𣶃即俗作潮。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𣶃即俗作潮"
+    },
+    {
+      "before": "馬云。　。當作HT　。布巾也。",
+      "after": "馬云。　。當作𢅎。布巾也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "布憿 단락의 當作𢅎"
+    },
+    {
+      "before": "滑云。HT　。如纏繳也。簡按字書。HT　。又作繳。",
+      "after": "滑云。𢅎。如纏繳也。簡按字書。𢅎。又作繳。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𢅎又作繳"
+    },
+    {
+      "before": "古名行HT　。乃滑注似是。",
+      "after": "古名行縢。乃滑注似是。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "古名行縢"
+    },
+    {
+      "before": "又HT　。引縱曰HT　。別作　。",
+      "after": "又𤸪。引縱曰𤸪。別作　。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𤸪，引縱曰𤸪"
+    },
+    {
+      "before": "考說文。　。又作HT　。鼻液也。蓋HT　涕通用。",
+      "after": "考說文。　。又作𪖦。鼻液也。蓋𪖦涕通用。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𪖦，鼻液也"
+    },
+    {
+      "before": "玉篇。HT　。他計切。鼻HT　。",
+      "after": "玉篇。𪖦。他計切。鼻𪖦。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "玉篇 𪖦 他計切"
+    },
+    {
+      "before": "[u]KT　KT　[/u]",
+      "after": "[u]𠘧𠘧[/u]",
+      "expected_count": 1,
+      "reason": "jicheng.tw 및 《內經難字音義》 대조",
+      "evidence_note": "𠘧，市朱切，鳥之短羽"
+    },
+    {
+      "before": "說文。KT　。鳥之短羽。飛KT　KT　也。孫　收作KT　。",
+      "after": "說文。𠘧。鳥之短羽。飛𠘧𠘧也。孫　收作𠘧。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 및 《內經難字音義》 대조",
+      "evidence_note": "說文 직접 인용"
+    },
+    {
+      "before": "不鉤挑者為KT　。音朱。鳥短羽也。",
+      "after": "不鉤挑者為𠘧。音朱。鳥短羽也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𠘧音朱"
+    },
+    {
+      "before": "至頭KT　KT　然。KT　。音　。",
+      "after": "至頭𠘧𠘧然。𠘧。音　。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "內經 인용 至頭𠘧𠘧然"
+    },
+    {
+      "before": "與幾字不同。幾字尾上引。KT　字則否。",
+      "after": "與幾字不同。幾字尾上引。𠘧字則否。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𠘧과 幾를 명시적으로 구별"
+    },
+    {
+      "before": "張似為KT　字而釋。",
+      "after": "張似為𠘧字而釋。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "동일 단락 반복"
+    },
+    {
+      "before": "缺盆以下。至　KT　。長九寸。",
+      "after": "缺盆以下。至　𩨗。長九寸。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "원문 至𩩲𩨗 중 명시 표지 부분"
+    },
+    {
+      "before": "虛腫之KT　。上浮本大也。",
+      "after": "虛腫之癕。上浮本大也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "高云 雍作癕"
+    },
+    {
+      "before": "喜著鼠HT　髂頭　膝間。知是　HT　同義。",
+      "after": "喜著鼠𦢂髂頭　膝間。知是　𦢂同義。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "巢源 인용의 鼠𦢂"
+    },
+    {
+      "before": "[u]皮HT　[/u]",
+      "after": "[u]皮𩩻[/u]",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 자형 보존",
+      "evidence_note": "표제 원자형 皮𩩻; 張注는 䯏로 교정"
+    },
+    {
+      "before": "則HT　可作。左傳桓公六年。",
+      "after": "則𩩻可作。左傳桓公六年。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𩩻可作腯"
+    },
+    {
+      "before": "簡按HT　。字書無所考。熊音。徒骨切。",
+      "after": "簡按𩩻。字書無所考。熊音。徒骨切。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𩩻字書無所考"
+    },
+    {
+      "before": "髂。又作KT　。玉篇。腰骨也。",
+      "after": "髂。又作䯊。玉篇。腰骨也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "髂又作䯊"
+    },
+    {
+      "before": "膃上曰KT　。程式醫彀云。",
+      "after": "膃上曰䯊。程式醫彀云。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "膃上曰䯊"
+    },
+    {
+      "before": "（音襖）膃上為KT　。沈彤釋骨云。",
+      "after": "（音襖）膃上為䯊。沈彤釋骨云。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "동일 단락 반복"
+    },
+    {
+      "before": "蓋肩。HT　同。KT　也。說文。KT　。屋櫨也。",
+      "after": "蓋肩。𣓖同。枅也。說文。枅。屋櫨也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "肩𣓖同; 枅屋櫨也"
+    },
+    {
+      "before": "亦名KT　。疏。柱上方木。是也。集韻。KT　。",
+      "after": "亦名枅。疏。柱上方木。是也。集韻。枅。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "동일 건축 자형 枅"
+    },
+    {
+      "before": "或作HT　。闔HT　者。謂闔扉上容樞之KT　與。",
+      "after": "或作𣓖。闔𣓖者。謂闔扉上容樞之枅與。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "枅或作𣓖"
+    },
+    {
+      "before": "[u]HT　下[/u]",
+      "after": "[u]𦙆下[/u]",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "표제 𦙆下; 諸本作骶下"
+    },
+    {
+      "before": "考督。又作HT　。劉熙釋名曰。",
+      "after": "考督。又作𧝴裻。劉熙釋名曰。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "督又作𧝴裻"
+    },
+    {
+      "before": "龍龕手鑒云。HT　。音藥。淫病也。KT　。病消也。",
+      "after": "龍龕手鑒云。㿑。音藥。淫病也。𤻲。病消也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "龍龕手鑑 직접 인용"
+    },
+    {
+      "before": "骸上者。HT　之上端也。",
+      "after": "骸上者。𩩋之上端也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "骸上者 𩩋之上端"
+    },
+    {
+      "before": "一切經音義云。HT　。聲類云。項中有所枕也。",
+      "after": "一切經音義云。䪴。聲類云。項中有所枕也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "䪴，項中有所枕也"
+    },
+    {
+      "before": "今謂之玉HT　。知枕又作HT　。",
+      "after": "今謂之玉䪴。知枕又作䪴。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "玉䪴; 枕又作䪴"
+    },
+    {
+      "before": "又HT　。尻骨也。知橛骨。即是HT　骨。",
+      "after": "又𩪗。尻骨也。知橛骨。即是𩪗骨。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "𩪗，尻骨也"
+    },
+    {
+      "before": "如以布HT　著之。",
+      "after": "如以布𢅎著之。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 원문 대조",
+      "evidence_note": "如以布𢅎著之"
     }
   ],
   "A/A200.txt": [
