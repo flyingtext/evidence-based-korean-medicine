@@ -4382,5 +4382,89 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9/%E9%9B%9C%E7%97%85/index.html",
     "evidence_note": "P/P0102.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "目中流火，視物KT　KT　，耳鳴耳聾",
+    "after": "目中流火，視物䀮䀮，耳鳴耳聾",
+    "expected_count": 1,
+    "evidence": "《靈樞·經脈》과 후대 의서의 시야불명 정형어 䀮䀮."
+  },
+  {
+    "before": "並目KT　KT昏風淚出，見物不審",
+    "after": "並目䀮䀮昏風淚出，見物不審",
+    "expected_count": 1,
+    "evidence": "目䀮䀮의 자의가 바로 뒤 昏·見物不審과 일치한다."
+  },
+  {
+    "before": "頭沉沉然，目KT　KT　然，腰脊強",
+    "after": "頭沉沉然，目䀮䀮然，腰脊強",
+    "expected_count": 1,
+    "evidence": "《靈樞》 족태양 병후 평행문 目䀮䀮然."
+  },
+  {
+    "before": "目視KT　KT　，多悲健忘",
+    "after": "目視䀮䀮，多悲健忘",
+    "expected_count": 1,
+    "evidence": "시각 혼매를 뜻하는 䀮䀮의 고정 용례."
+  },
+  {
+    "before": "少腹滿，目KT　KT生白翳，咳引胸痛",
+    "after": "少腹滿，目䀮䀮生白翳，咳引胸痛",
+    "expected_count": 1,
+    "evidence": "침구 병후 평행 전사의 目䀮䀮."
+  },
+  {
+    "before": "少腹急痛，熱，面急，（一作黑。）目KT　KT　，久喘咳",
+    "after": "少腹急痛，熱，面急，（一作黑。）目䀮䀮，久喘咳",
+    "expected_count": 1,
+    "evidence": "동일 병후 열거의 시야불명 용어 䀮䀮."
+  },
+  {
+    "before": "寒熱，目KT　KT　，善咳，喘逆",
+    "after": "寒熱，目䀮䀮，善咳，喘逆",
+    "expected_count": 1,
+    "evidence": "통곡혈 주치 평행문에서 目䀮䀮로 판독된다."
+  },
+  {
+    "before": "肝虛則目KT　KT　無所見，耳無所聞，善恐",
+    "after": "肝虛則目䀮䀮無所見，耳無所聞，善恐",
+    "expected_count": 1,
+    "evidence": "《靈樞·本神》 직접 인용 정문 目䀮䀮無所見."
+  },
+  {
+    "before": "目中溜火，而視物KT　KT無所見，小便頻數",
+    "after": "目中溜火，而視物䀮䀮無所見，小便頻數",
+    "expected_count": 1,
+    "evidence": "시야불명 병후의 정형어 䀮䀮無所見."
+  },
+  {
+    "before": "其病虛則欠KT　，小便遺數",
+    "after": "其病虛則欠㰦，小便遺數",
+    "expected_count": 1,
+    "evidence": "《靈樞·經脈》 수태음 별락 정문 虛則欠㰦，小便遺數."
+  },
+  {
+    "before": "身體強，KT　KT　然，脈反沉遲",
+    "after": "身體強，几几然，脈反沉遲",
+    "expected_count": 1,
+    "evidence": "《金匱要略》 직접 평행 조문 身體強几几然."
+  },
+  {
+    "before": "許HT　宗治王太後中風口噤",
+    "after": "許胤宗治王太後中風口噤",
+    "expected_count": 1,
+    "evidence": "당대 의가 許胤宗이 왕태후의 중풍구금을 훈증으로 치료한 고사와 일치한다."
+  },
+  {
+    "before": "心中寒者，其脈人迎並左寸緊而洪，其證如HT韭，甚則心痛掣背",
+    "after": "心中寒者，其脈人迎並左寸緊而洪，其證如啖韭齏狀，甚則心痛掣背",
+    "expected_count": 1,
+    "evidence": "《三因極一病證方論》의 직접 평행문 心中寒之狀，其人如啖韭齏狀과 일치한다."
+  },
+  {
+    "before": "以蠕動HT血之物行死血",
+    "after": "以蠕動噉血之物行死血",
+    "expected_count": 1,
+    "evidence": "大黃䗪蟲丸의 충류 약물이 피를 먹는다는 정형 설명 蠕動噉血之物."
   }
 ]

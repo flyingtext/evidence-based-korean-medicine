@@ -3776,6 +3776,265 @@
       "reason": "같은 교감주가 바로 뒤에서 `項`으로 고쳤다고 명시한다.",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96",
       "evidence_note": "공개 전사의 `強項` 교감 설명과 일치한다."
+    },
+    {
+      "before": "逆，筋惕肉　，此為逆也",
+      "after": "逆，筋惕肉瞤，此為逆也",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 瞤 확정."
+    },
+    {
+      "before": "攻之。其人　汗出，發作",
+      "after": "攻之。其人僅僅汗出，發作",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 僅僅 확정."
+    },
+    {
+      "before": "亦強，如柔　狀，下之則",
+      "after": "亦強，如柔痓狀，下之則",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "日則兩目四　周皆黑。若",
+      "after": "日則兩目四眥周皆黑。若",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 眥 확정."
+    },
+    {
+      "before": "寒，名曰剛　。\n\n太陽",
+      "after": "寒，名曰剛痓。\n\n太陽",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "寒，名曰柔　。（《病源",
+      "after": "寒，名曰柔痓。（《病源",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "背反張者，　病。\n\n太",
+      "after": "背反張者，痓病。\n\n太",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "。）\n\n剛　宜\n\n[u",
+      "after": "。）\n\n剛痓宜\n\n[u",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "）\n\n剛柔　加減葛根麻",
+      "after": "）\n\n剛柔痓加減葛根麻",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 痓 확정."
+    },
+    {
+      "before": "u]附子黃　湯[/u]",
+      "after": "u]附子黃耆湯[/u]",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "甲二十枚，　近隱處一尺",
+      "after": "甲二十枚，褌近隱處一尺",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 褌 확정."
+    },
+    {
+      "before": "熱爭則項痛　澹澹然，戊",
+      "after": "熱爭則項痛員員澹澹然，戊",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 員員 확정."
+    },
+    {
+      "before": "，以臘月豬　一斤，煎調",
+      "after": "，以臘月豬膋一斤，煎調",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 膋 확정."
+    },
+    {
+      "before": "行熱氣生瘡　，身痛壯熱",
+      "after": "行熱氣生瘡疱，身痛壯熱",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 疱 확정."
+    },
+    {
+      "before": "，秋有白氣　，冬有黑骨",
+      "after": "，秋有白氣貍，冬有黑骨",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 貍 확정."
+    },
+    {
+      "before": "根別傳曰：　川太守到官",
+      "after": "根別傳曰：潁川太守到官",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 潁 확정."
+    },
+    {
+      "before": "灸脾肝腎三　，治丹毒、",
+      "after": "灸脾肝腎三腧，治丹毒、",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 腧 확정."
+    },
+    {
+      "before": "有熱，飲水暴冷　，\n\n[u]茅",
+      "after": "有熱，飲水暴冷啘，\n\n[u]茅",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啘 확정."
+    },
+    {
+      "before": "蘊結不散變　，\n\n[u",
+      "after": "蘊結不散變啘，\n\n[u",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啘 확정."
+    },
+    {
+      "before": "溫病胃冷變　，\n\n[u",
+      "after": "溫病胃冷變啘，\n\n[u",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啘 확정."
+    },
+    {
+      "before": "溫飲一盞，　止停後服。",
+      "after": "溫飲一盞，啘止停後服。",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啘 확정."
+    },
+    {
+      "before": "有熱，飲水暴冷　，\n\n[u]枇",
+      "after": "有熱，飲水暴冷啘，\n\n[u]枇",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啘 확정."
+    },
+    {
+      "before": "濕，因而中　，濕熱相搏",
+      "after": "濕，因而中暍，濕熱相搏",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "u]犀角黃　湯[/u]",
+      "after": "u]犀角黃耆湯[/u]",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "，溫壯KT　，皆可斟酌",
+      "after": "，溫壯啀，皆可斟酌",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 啀 확정."
+    },
+    {
+      "before": "律切，悚懼　愴也。下，",
+      "after": "律切，悚懼悽愴也。下，",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 悽 확정."
+    },
+    {
+      "before": "疾也。）懊　（上，於報",
+      "after": "疾也。）懊憹（上，於報",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 憹 확정."
+    },
+    {
+      "before": "名曰芤。）　（如倫切，",
+      "after": "名曰芤。）瞤（如倫切，",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 瞤 확정."
+    },
+    {
+      "before": "豕也。謂之　鼠矢者，得",
+      "after": "豕也。謂之豭鼠矢者，得",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 豭 확정."
+    },
+    {
+      "before": "\n暑病表證　（於歇切，",
+      "after": "\n暑病表證暍（於歇切，",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "用刺法。）　（胡讒切，",
+      "after": "用刺法。）諴（胡讒切，",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 諴 확정."
+    },
+    {
+      "before": "\n\n陵鯉甲　皮（殺鬼丸",
+      "after": "\n\n陵鯉甲蝟皮（殺鬼丸",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 蝟 확정."
+    },
+    {
+      "before": "證之當作「　」，今改正",
+      "after": "證之當作「蝟」，今改正",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 蝟 확정."
+    },
+    {
+      "before": "刻也。HT　置坊間，有",
+      "after": "刻也。雜置坊間，有",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 雜 확정."
+    },
+    {
+      "before": "五硯樓袁壽　知之，余亦",
+      "after": "五硯樓袁壽階知之，余亦",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 階 확정."
+    },
+    {
+      "before": "知之。因壽　先與議易，",
+      "after": "知之。因壽階先與議易，",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 階 확정."
+    },
+    {
+      "before": "厥後余與壽　以影鈔易宋",
+      "after": "厥後余與壽階以影鈔易宋",
+      "expected_count": 1,
+      "evidence_url": "source/B/B002a.txt",
+      "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 階 확정."
     }
   ],
   "B/B014.txt": [

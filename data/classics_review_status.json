@@ -180,7 +180,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 615,
       "punctuation_status": "source_present",
-      "note": "잔존 HT 2곳을 공개 전문의 희자·IDS 표기로 복원."
+      "note": "최신 shard 80규칙 적용 뒤 특수표지는 없고 review status상 비조판 공백 615좌표가 남는다. 공개 전사와 판면의 위치별 대응 없이 신규 결자를 단정하지 않았다."
     },
     "F/F022.txt": {
       "collation_status": "in_progress",
@@ -3078,7 +3078,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 588,
       "punctuation_status": "source_present",
-      "note": "KT 34개(‘KT　KT　’ 17회)를 ‘几　几’로 모두 복원."
+      "note": "기존 106개 규칙은 전부 정상 적용된다. 남은 전각 공백은 조판과 결락이 혼재하며 독립 판면의 occurrence별 대응이 없어 신규 없음. 검증 applied=106/106, warnings=0, overlaps=0."
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
@@ -3088,9 +3088,9 @@
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 590,
+      "unresolved_candidates": 553,
       "punctuation_status": "source_present",
-      "note": "KT 10자리, □ 3자리, HT 1자리를 복원했다. 판독 불가능한 파손부와 특수 병명은 보류한다."
+      "note": "독립 전사 B002a에서 고유 좌우 문맥이 일치하는 37곳을 추가 복원했다. 잔여 HT2·KT8·□37 및 비조판 후보는 대응 구간이 다문자이거나 판독 불가해 보류. 검증 applied=122/122, warnings=0, overlaps=0."
     },
     "B/B003.txt": {
       "collation_status": "in_progress",
@@ -3672,7 +3672,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 586,
       "punctuation_status": "source_present",
-      "note": "결자 2자(嗷煎)를 복원했다. 다른 HT 1자리와 전각 공백은 확정 근거 부족으로 보류한다."
+      "note": "기존 107개 규칙은 전부 정상 적용된다. 잔여 HT1과 비조판 후보는 공개 교주본에서도 유일 판독되지 않아 신규 없음. 검증 applied=107/107, warnings=0, overlaps=0."
     },
     "H/H007.txt": {
       "collation_status": "in_progress",
@@ -3720,7 +3720,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 604,
       "punctuation_status": "source_present",
-      "note": "HT 3곳과 KT 2곳을 공개 독립 전사로 모두 복원."
+      "note": "기존 120개 규칙은 전부 정상 적용되고 HT/KT/□/PUA는 0이다. 전각 공백 1150곳 중 기존 감사의 비조판 후보604는 독립 판면 없이 확정 불가하여 신규 없음. 검증 applied=120/120, warnings=0, overlaps=0."
     },
     "I/I004.txt": {
       "collation_status": "in_progress",
@@ -3756,7 +3756,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 634,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 전각 공백 634자리이며 다른 외자 표지는 없다. 北京大學 영인의 페이지 좌표 전수 대응 전 보류했다."
+      "note": "최신 shard 1규칙 뒤 외자 표지는 없고 전각공백 634좌표만 남는다. 북경대 영인 페이지 좌표와의 전수 대응 전에는 신규 결락을 확정하지 않는다."
     },
     "K/K000.txt": {
       "collation_status": "in_progress",
@@ -3904,9 +3904,9 @@
     },
     "N/N011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 640,
+      "unresolved_candidates": 641,
       "punctuation_status": "source_present",
-      "note": "HT 3자리를 복원했다. □ 67자리와 판면 미확정 전각 공백은 보류한다."
+      "note": "최신 N shard 127규칙이 반영되어 HT·KT·PUA·레거시 외자는 0이다. 현재 □ 67자와 전각 공백 2018곳이 남고, 기존 조판 판정 1444곳을 제외한 비조판 공백은 574곳이므로 총 잔여는 641좌표다. 공개 전사는 □ 결락을 공유하여 영인 직접 판독 전에는 확정하지 않았다. review status 640과 1좌표 차이가 있으나 현재 출력 기준 수를 기록했다. 신규 0개, warnings=0, overlap=0이다."
     },
     "N/N038.txt": {
       "collation_status": "complete",
@@ -3990,13 +3990,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 630,
       "punctuation_status": "source_present",
-      "note": "공백 628·HT 2자리가 남는다. 인명과 `確然…HT然`의 후보는 있으나 독립 판면 근거가 없어 보류했다."
+      "note": "최신 shard 119규칙 이후 공백 628·HT 2가 남는다. `確然而HT然` 및 인명 `沈HT文`은 검색 가능한 전사만으로 자형을 독립 확증하지 못해 기존 status의 보류 판정을 유지했다."
     },
     "O/O008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 635,
+      "unresolved_candidates": 627,
       "punctuation_status": "source_present",
-      "note": "□ 5자와 HT/KT 8 occurrence를 공개 전사·인용문으로 복원. 잔여 합계 635."
+      "note": "최신 O shard 217규칙이 반영된 현재 출력에는 HT 26·KT 5·전각 공백 804곳이 남는다. 기존 조판 판정 208곳을 제외한 비조판 공백 596곳과 표식 31곳, 합계 627좌표다. 잔여는 자형 자체를 논하는 주석과 희귀 해부명이라 공개 jicheng의 동일 계통 전사만으로는 유일 판독할 수 없다. 신규 0개, warnings=0, overlap=0이다."
     },
     "O/O009.txt": {
       "collation_status": "in_progress",
@@ -4132,9 +4132,9 @@
     },
     "O/O069.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 641,
+      "unresolved_candidates": 602,
       "punctuation_status": "source_present",
-      "note": "KT 24자리를 복원했다. 서로 다른 희자·병명에 쓰인 나머지 HT·KT와 공백은 보류한다."
+      "note": "최신 O shard 668규칙을 유지하는 증분안이다. 5개 occurrence 고유 규칙으로 KT 8자를 해소한다. 모든 before는 현재 출력에서 1회이며 서로 비중첩이다. 가상 적용 후 HT 13·KT 23, 전각 공백 750곳이며 기존 조판 184곳을 제외한 비조판 공백 566곳과 표식 36곳을 합쳐 잔여 602좌표다. warnings=0, overlap=0."
     },
     "O/O071.txt": {
       "collation_status": "in_progress",
@@ -4282,9 +4282,9 @@
     },
     "P/P0003a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 634,
+      "unresolved_candidates": 638,
       "punctuation_status": "source_present",
-      "note": "PUA 4자리를 복원했으나 다른 잔여 634자리가 남는다."
+      "note": "최신 P shard 7규칙이 반영되어 HT·KT·□·PUA·레거시 외자는 0이다. 현재 전각 공백 1195곳 중 기존 조판 판정 557곳을 제외하면 638좌표가 남는다. review status의 634는 후속 PUA 4자 복원을 공백 후보에서도 차감한 것으로 보이나 현재 Markdown의 실제 공백 좌표는 638이다. 독립 판면 정렬 없이 추가 문자를 확정하지 않았다. 신규 0개, warnings=0, overlap=0이다."
     },
     "P/P0009.txt": {
       "collation_status": "in_progress",
@@ -4324,9 +4324,9 @@
     },
     "P/P0102.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 631,
+      "unresolved_candidates": 605,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 631자리가 남는다. 다수 희귀 해부·안과 용어와 HT·KT가 있으나 권질이 방대하고 위치별 영인 대조가 완료되지 않아 추정 복원하지 않았다."
+      "note": "최신 shard 548규칙을 유지하는 증분안. review status 631에서 KT 23좌표(䀮 20, 㰦 1, 几 2)와 HT 3좌표를 해소해 605. 희귀 안과 외자는 영인 대조 전 보류."
     },
     "P/P0103.txt": {
       "collation_status": "in_progress",

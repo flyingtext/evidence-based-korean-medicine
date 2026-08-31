@@ -56510,6 +56510,41 @@
       "reason": "같은 경문의 태그 간격 오류이다.",
       "evidence_url": "https://zh.wikisource.org/wiki/Page%3AGujin_Tushu_Jicheng%2C_Volume_428_%281700-1725%29.djvu/62",
       "evidence_note": "동일 공개 원판과 일치한다."
+    },
+    {
+      "before": "味過於辛，筋脈沮弛，精神乃央。○多食咸，則脈凝泣而變色；多食苦，則皮槁而毛拔；多食辛，則筋急而爪枯；多食酸，則肉胝KT　而唇揭；多食甘，則骨痛而發落",
+      "after": "味過於辛，筋脈沮弛，精神乃央。○多食咸，則脈凝泣而變色；多食苦，則皮槁而毛拔；多食辛，則筋急而爪枯；多食酸，則肉胝䐢而唇揭；多食甘，則骨痛而發落",
+      "expected_count": 1,
+      "reason": "《素問·五臟生成》 고정 경문을 독립 전사에서 확인",
+      "evidence_url": "https://ctext.org/dictionary.pl?chapter=65556&if=gb&sid=6690&trid=1883752"
+    },
+    {
+      "before": "脾之合肉也，其榮唇也。○多食酸，則肉胝KT　而唇揭。○脾、胃、大腸",
+      "after": "脾之合肉也，其榮唇也。○多食酸，則肉胝䐢而唇揭。○脾、胃、大腸",
+      "expected_count": 1,
+      "reason": "같은 《素問》 경문의 별도 occurrence를 고유 좌우 문맥으로 한정",
+      "evidence_url": "https://ctext.org/dictionary.pl?chapter=65556&if=gb&sid=6690&trid=1883752"
+    },
+    {
+      "before": "眼目下視，即《金匱》之項背KT　KT　、海藏之低頭下視者",
+      "after": "眼目下視，即《金匱》之項背𠘧𠘧、海藏之低頭下視者",
+      "expected_count": 1,
+      "reason": "《金匱》 계열의 項背𠘧𠘧 고정 경문",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+    },
+    {
+      "before": "如太陽之傳陽明，項背KT　KT　，少陽之頸項強",
+      "after": "如太陽之傳陽明，項背𠘧𠘧，少陽之頸項強",
+      "expected_count": 1,
+      "reason": "葛根湯 경문의 병후를 재인용한 occurrence",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
+    },
+    {
+      "before": "則頭強急，項背KT　KT　，脊強反張",
+      "after": "則頭強急，項背𠘧𠘧，脊強反張",
+      "expected_count": 1,
+      "reason": "태양경 痙病 병후의 項背𠘧𠘧",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb"
     }
   ],
   "O/O071.txt": [
