@@ -477,5 +477,23 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
     "evidence_note": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’.",
     "reason": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’."
+  },
+  {
+    "before": "其既出HT　HT　，流利未暢，故謂之滎。",
+    "after": "其既出濴濴，流利未暢，故謂之滎。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 《難經正義》 卷五 육십삼난의 동일 문장이 `其既出濴濴，流利未暢，故謂之滎`으로 확인된다. https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%AD%A3%E7%BE%A9/index.html"
+  },
+  {
+    "before": "缺盆以下至　KT　，長九寸，過則肺大",
+    "after": "缺盆以下至𩩲𩨗，長九寸，過則肺大",
+    "expected_count": 1,
+    "evidence": "《靈樞·骨度》 신뢰 원문이 `缺盆以下至𩩲𩨗，長九寸，過則肺大`로 확인된다. https://ctext.org/huangdi-neijing/gu-du/zh"
+  },
+  {
+    "before": "　KT　以下至天樞，長八寸，過則胃大",
+    "after": "𩩲𩨗以下至天樞，長八寸，過則胃大",
+    "expected_count": 1,
+    "evidence": "《靈樞·骨度》의 연속 문장이 `𩩲𩨗以下至天樞，長八寸，過則胃大`로 확인되며 앞 문장의 동일 해부 명칭과 일치한다. https://ctext.org/huangdi-neijing/gu-du/zh"
   }
 ]

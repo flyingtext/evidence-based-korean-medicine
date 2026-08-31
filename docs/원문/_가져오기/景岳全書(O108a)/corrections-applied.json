@@ -299,5 +299,13 @@
     "expected_count": 1,
     "reason": "약액으로 환부를 적셔 치료하는 외치법 ‘溻潰’ 문맥이며 EASM의 문자 대응도 溻이다.",
     "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "治疹後喫食太早，咬指甲，撕口唇，[c]qyso[/c]眼毛，看手，咬人等證。",
+    "after": "治疹後喫食太早，咬指甲，撕口唇，𢳄眼毛，看手，咬人等證。",
+    "expected_count": 1,
+    "reason": "Cangjie 역색인·자매본·교육부 이체자 사전의 의미 대조",
+    "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=86530",
+    "evidence_note": "qyso는 㨗/𢳄 중복 코드이나 𢳄은 ‘以手挑物’이며, O108 자매본의 평행문은 ‘及撕眼札毛者’이다. 속눈썹을 잡아 뜯는 문맥이므로 𢳄으로 확정."
   }
 ]

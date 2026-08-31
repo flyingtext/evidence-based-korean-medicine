@@ -510,10 +510,12 @@
       "remaining_count": 0
     },
     "A/A304.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "유일한 표지 결락은 `其既出HT　HT　，流利未暢` 2자다. 검색 가능한 동일 저작 전사도 `○ ○`로 결락되어 있고 수류 의태어 후보를 판본 없이 확정할 수 없다. 전각 공백 29개는 기존 판정대로 조판."
+      "note": "현재 correction overlay에서 원문과 일치해 적용 가능한 59규칙을 반영한 뒤 HT 2, KT 2, □ 0, BMP PUA 0을 확인했다. 기존 1규칙은 선행 교정으로 before가 사라져 직접 적용되지 않았다. 잔여 두 후보군은 각각 HT×2의 `濴濴`, KT×2의 `𩩲𩨗`로 신뢰 원문에서 확정되어 명시 표지 4개를 모두 해소한다. 전각공백 33개는 감사 대상에서 제외했다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -1042,7 +1044,7 @@
     "Q/Q002.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "備急千金要方 계통·Wikisource·학술 자료 대조로 俞穴流注와 깨진 결자 虻 2건 교정, 판본 이문은 보존하고 원자료 표점 충분"
     },
     "E/E017.txt": {
@@ -3914,10 +3916,12 @@
       "status": "in_progress"
     },
     "K/K101.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "codex_verified",
-      "note": "五色帶下 평행 영인으로 `肝病色青如青泥`의 青 1자를 확정했다. 남은 1자는 `陰股HT間`이며 독립 전사에서도 자형을 확보하지 못했다. 전각 공백은 대규모 경혈·처방 목록의 조판 간격으로 분리했다."
+      "note": "CRLF를 LF로 정규화하고 기존 K/K101 오버레이를 가상 적용한 뒤 잔여 후보를 전수 감사했다. 새 규칙 적용 후 HT 0, KT 0, □ 0, PUA 0이다. 전각공백은 잔여 집계에서 제외했다. 원판 직접 판독으로 유일 후보가 확정되어 정본 승격 가능하다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "L/L000.txt": {
       "collation_status": "in_progress",
@@ -4344,12 +4348,12 @@
       "status": "in_progress"
     },
     "O/O108a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "배치86 뒤 잔여 87좌표를 전수 검토했다. 공개 《景岳全書》·자매본·직접 인용된 《內經》 평행문과 문맥 한정 규칙으로 86좌표를 안전 확정했다. GEJCM·EMU·BUTYU는 각각 expected_count 1인 연속 문자열 규칙이지만 실제 코드 좌표는 2개씩 복원한다. QYSO 1좌표는 ‘눈썹/속눈썹을 뜯다’ 문맥만으로 정확한 이체자를 확정하기 부족하여 보류한다.",
-      "remaining_count": 1,
-      "status": "in_progress"
+      "note": "HEAD overlay 42개 중 41개 적용·1개 stale. HT/KT/□ 및 BMP PUA는 0이나 레거시 [c] 코드가 qyso와 stale로 남은 kdam 두 곳에 존재했다. qyso=𢳄, kdam=㾴를 occurrence-specific 규칙으로 확정해 실제 레거시 코드도 0. review_status의 유일 미해결 후보를 해소했으므로 정본 승격 가능.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "O/O128.txt": {
       "collation_status": "complete",

@@ -1,0 +1,63 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q002.txt",
+    "sha256": "cce50f500c926514a80fb0807b21a8b0df85efe34716832aba5ddba4b9d035b1"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "c4cf5acb6047eb905a9604bcba2c37444db2fd92062712bb5cd140cad9ef67d5",
+    "applied_count": 2
+  },
+  "output": "docs/원문/_가져오기/大醫精誠(Q002)/표점본.md",
+  "chunks": {
+    "total": 2,
+    "resumable_completed": 2,
+    "min_chars": 396,
+    "max_chars": 661,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 661,
+        "output_characters": 659,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 103,
+        "punctuation_density": 0.18727273,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 396,
+        "output_characters": 396,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 63,
+        "punctuation_density": 0.19504644,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 873,
+    "output_nonpunctuation_characters": 873,
+    "input_non_punctuation_characters": 873,
+    "output_non_punctuation_characters": 873
+  },
+  "punctuation": {
+    "ascii_count": 166,
+    "density_per_nonpunctuation_character": 0.19014891,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

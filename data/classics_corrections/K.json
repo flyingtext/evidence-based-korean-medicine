@@ -21430,6 +21430,12 @@
       "reason": "五色帶下에서 肝經 병색은 青이며 뒤의 `如青泥`와 일치한다.",
       "evidence_url": "https://www.kanripo.org/ed/KR3e0070/WYG/026",
       "evidence_note": "《薛氏醫案》 영인 전사에 `傷足厥隂肝經色如青泥，傷手少隂心經色如紅津`이 연속해서 확인된다."
+    },
+    {
+      "before": "或筋攣腫痛當陰股HT　間足厥陰之脈",
+      "after": "或筋攣腫痛當陰股拘間足厥陰之脈",
+      "expected_count": 1,
+      "reason": "《神灸經綸》 권4 원판 스캔 7면의 해당 세로줄은 ‘腫痛當陰股拘間足厥陰之脈’으로 명확히 판각되어 있다. 따라서 HT는 拘로 확정하며 토큰 뒤 전각공백은 결자 표식에 딸린 공백이라 함께 제거한다. 원판: https://commons.wikimedia.org/wiki/File:CADAL02093093_%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8%EF%BC%88%E5%9B%9B%EF%BC%89.djvu (page 7); 공개 전사 대조: https://www.shidianguji.com/zh/book/CADAL02093090/chapter/1lay899c3f9cf"
     }
   ],
   "K/K200.txt": [
