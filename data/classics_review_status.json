@@ -477,10 +477,12 @@
       "status": "complete"
     },
     "B/B001.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 11,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "현재 HT·KT·□는 없고 잔여 11좌표는 柔痓·剛痓·暍 등 판본 이체자 표기와 결자형 전각 공백이다. 통행본 간 이체 정책이 달라 신규 문자 복원이나 layout 확정을 하지 않았다. 기존 규칙과 신규 중첩·경고 없음."
+      "note": "기존 B/B001 오버레이 39개 규칙 적용 후 HT 0, KT 0, □ 0, PUA 0, 레거시 코드 0을 확인했다. 잔여 후보는 전각공백으로 소실된 痓·暍 계열 글자였으며 공개 《註解傷寒論》과 송본 계열 인용으로 모두 확정했다. 같은 대목의 확정 OCR 오기 ‘不惡汗’도 ‘不惡寒’으로 바로잡았다. 규칙 적용 후 결자·PUA·레거시 코드는 모두 0이므로 정본 승격 가능하다. 근거 원문: https://jicheng.tw/tcm/book/%E8%A8%BB%E8%A7%A3%E5%82%B7%E5%AF%92%E8%AB%96/index.html",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "B/B002a.txt": {
       "collation_status": "in_progress",
@@ -587,7 +589,8 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "잔여는 `寒化一□□□□□至也…□□□□□□丁亥中`의 연속 □11이다. 공개 전사도 같은 손상 구간을 온전히 제공하지 않고 운기 문맥만으로 정확한 원문 길이와 글자를 확정할 수 없어 전부 보류했다."
+      "note": "HEAD correction overlay 7개 전부 expected_count 조건으로 적용·stale 0. 적용 후 HT/KT 0개, □ 11개, BMP PUA 0개, [c] 레거시 코드 0개. 잔여는 丙戌 운기 단락의 연속 결락 두 곳: `寒化一□□□□□至也天令也邪化日失政□□□□□□丁亥中`. Wikisource(https://zh.wikisource.org/zh-hant/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E)와 gushu.net.cn의 독립 공개 전사 모두 같은 5자·6자 결락을 그대로 보존한다. 주변 문장에도 전도·중복 흔적이 있어 운기 상용구만으로 정확한 글자와 순서를 확정할 수 없다. 원 영인 페이지 판독 전까지 11자 전부 보류하며 promote 불가.",
+      "remaining_count": 11
     },
     "A/A009.txt": {
       "collation_status": "complete",
@@ -1026,7 +1029,7 @@
     "Q/Q005.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "깨진 외자 토큰 1건을 𥉂𥉂으로 복원하고 독립 영인 전사본의 이체 䀮䀮로 교차 확인, 원자료 표점 충분"
     },
     "Q/Q001.txt": {
@@ -3584,9 +3587,10 @@
     },
     "D/D026.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 11,
+      "unresolved_candidates": 6,
       "punctuation_status": "source_present",
-      "note": "KT 1자를 복원해 12에서 11로 감소한다. `好□□□□茱萸。末`은 독립 인용에서 `好茱萸末`로 확인되지만, 해당 네 좌표가 기존 射菵 복원 규칙의 before 범위와 겹쳐 중첩 금지 원칙상 신규 제안에서 제외했다. 나머지 □7도 영인 손상으로 보류."
+      "note": "기존 D026 교정 214개를 expected_count대로 전부 적용한 뒤 HT 0, KT 0, □ 11, BMP PUA 0을 확인했다. 확정 규칙 2개가 □ 5자를 해소하며 6자는 원판 결락으로 보류한다. 이번 확정 규칙은 promote한다.",
+      "remaining_count": 6
     },
     "D/D027.txt": {
       "collation_status": "in_progress",

@@ -1,0 +1,63 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q005.txt",
+    "sha256": "637345e6d61c1975d7b08ad4b7abd30cb6ed584e88ec2aeb83ad88b044aa96c4"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "eb74b04b942698a2f15c73f8d0051d01a9f9db79e8df1c9e29bdd3e258f40496",
+    "applied_count": 1
+  },
+  "output": "docs/원문/_가져오기/百證賦(Q005)/표점본.md",
+  "chunks": {
+    "total": 2,
+    "resumable_completed": 2,
+    "min_chars": 596,
+    "max_chars": 709,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 596,
+        "output_characters": 655,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 114,
+        "punctuation_density": 0.25,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 709,
+        "output_characters": 709,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 126,
+        "punctuation_density": 0.22909091,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 1006,
+    "output_nonpunctuation_characters": 1006,
+    "input_non_punctuation_characters": 1006,
+    "output_non_punctuation_characters": 1006
+  },
+  "punctuation": {
+    "ascii_count": 240,
+    "density_per_nonpunctuation_character": 0.23856859,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

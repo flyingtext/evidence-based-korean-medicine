@@ -35123,6 +35123,20 @@
       "expected_count": 1,
       "evidence_url": "https://chicagoloopacupuncture.com/wp-content/uploads/2023/08/Gehong-Capstone-Final-Version.pdf",
       "evidence_note": "《肘後備急方》 영인 기반 전사·번역 자료가 동일 구절을 `又，熱腫癤烿膠數塗，一日十數度，即差`로 직접 제시하고 烿을 'melt'로 풀이한다."
+    },
+    {
+      "before": "又方，茱萸三升，碎之，以酒和煮，令熟布帛物裹以熨症上，冷更均番用之，症當移去，復逐熨，須臾消止，亦可用好□□□□茱萸。末，以雞子白和射菵，服之。",
+      "after": "又方，茱萸三升，碎之，以酒和煮，令熟布帛物裹以熨症上，冷更均番用之，症當移去，復逐熨，須臾消止，亦可用好茱萸末，以雞子白和射菵，服之。",
+      "expected_count": 1,
+      "reason": "네 개의 상자는 결자가 아니라 중복 삽입된 결락 표지이다. 독립 인용과 영인 전사가 모두 ‘亦可用好茱萸末’로 바로 이어진다.",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001215554"
+    },
+    {
+      "before": "其色緗黃，一名緗膏，□人又用龍銜藤一兩，合煎，名為龍銜膏。",
+      "after": "其色緗黃，一名緗膏，時人又用龍銜藤一兩，合煎，名為龍銜膏。",
+      "expected_count": 1,
+      "reason": "《肘後備急方》 공개 전사본의 동일 문장이 ‘時人又用龍銜藤一兩’로 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=550292&if=en"
     }
   ],
   "D/D053.txt": [

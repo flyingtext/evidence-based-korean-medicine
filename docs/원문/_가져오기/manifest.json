@@ -786,7 +786,7 @@
       "output_directory": "註解傷寒論(B001)",
       "markdown_files": 12,
       "translation_units": 37,
-      "corrections_applied": 38,
+      "corrections_applied": 53,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '小促（趙本無「\\u3000」字）其間' (0/1)"
@@ -3491,9 +3491,11 @@
       "output_directory": "肘後備急方(D026)",
       "markdown_files": 12,
       "translation_units": 75,
-      "corrections_applied": 214,
+      "corrections_applied": 215,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '又方，茱萸三升，碎之，以酒和煮，令熟布帛物裹以熨症上，冷更均番用之，症當移去，復逐熨，須臾消止，亦可用好□□□□茱萸。末，以雞子白和射菵，服之。' (0/1)"
+      ]
     },
     {
       "source_path": "D/D027.txt",
@@ -14366,7 +14368,7 @@
       "markdown_files": 1,
       "translation_units": 1,
       "corrections_applied": 1,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {
