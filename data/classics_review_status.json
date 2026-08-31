@@ -3206,9 +3206,11 @@
     },
     "A/A003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1464,
+      "unresolved_candidates": 1454,
       "punctuation_status": "source_present",
-      "note": "기존 remaining 1540에서 자체 음의와 素問 평행문으로 확정된 표식·비조판 공백 38개만 차감했다. □ 14곳과 나머지 HT·KT 및 전각공백·유실 도판은 보류했다. 기존 비조판 공백 감사 기준을 유지해 잔여 1464자리로 보정했다."
+      "note": "HEAD A003 기존 교정 21개 expected_count 전부 검증 후 적용. 잔여 HT 9, KT 1, □ 14, 전각공백 1390회. 자체 음주·《素問》《靈樞》《莊子》 직접 인용으로 HT 9와 KT 1을 모두 복원하여 status 1464에서 10회 순감한 remaining_count 1454. □ 14개는 북방 오행 속성의 판본 원결 및 장문 훼손으로 안전한 단일 판독이 없어 보류. 모든 전각공백 유지.",
+      "remaining_count": 1454,
+      "status": "in_progress"
     },
     "K/K021.txt": {
       "collation_status": "complete",
@@ -3824,9 +3826,11 @@
     },
     "K/K000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 855,
+      "unresolved_candidates": 831,
       "punctuation_status": "source_present",
-      "note": "현 산출물 기준 미복원 표식 40개와 기존 감사의 비조판 전각공백 821곳을 합쳐 861곳이다. 위 규칙은 표식 6개를 복원하므로 855곳을 보류한다. 전각공백은 판면 전수 판독 전 0으로 축소하지 않았다."
+      "note": "HEAD 기존 교정 뒤 실제 명시 표지 31개 중 자매본·직접 인용·혈명 반복·자체 음주로 24좌표를 교감했다(status 855→831). 남은 7좌표는 廣骸의 《太素》 희귀자 1, 인물 태도 희귀 중첩자 2, 大杼 조문의 누락 혼재 2, 안과 주치의 별도 희귀자 2로 안전하게 보류했다.",
+      "remaining_count": 831,
+      "status": "in_progress"
     },
     "K/K000a.txt": {
       "collation_status": "complete",
@@ -3842,9 +3846,11 @@
     },
     "I/I102.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6360,
+      "unresolved_candidates": 6339,
       "punctuation_status": "source_present",
-      "note": "현 status 6367에서 瞥瞥의 HT·동반 공백 4좌표와 螻蛄漏의 결락 공백·HT·동반 공백 3좌표만 차감했다. 나머지 희귀 외과 용어는 보류한다."
+      "note": "HEAD 1239개 규칙 적용 후 HT 28개, KT 11개가 남았다. 직접 인용·고정 병명·약재명으로 HT 13개와 KT 8개, 합계 21개 표지를 복원했다. 나머지 HT 15개와 KT 3개 및 전각공백은 유지했다.",
+      "remaining_count": 6339,
+      "status": "in_progress"
     },
     "I/I200.txt": {
       "collation_status": "in_progress",

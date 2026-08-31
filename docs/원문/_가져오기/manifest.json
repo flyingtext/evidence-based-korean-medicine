@@ -93,7 +93,7 @@
       "output_directory": "黃帝內經素問集注(A003)",
       "markdown_files": 11,
       "translation_units": 116,
-      "corrections_applied": 21,
+      "corrections_applied": 30,
       "punctuated": false,
       "warnings": []
     },
@@ -7412,7 +7412,7 @@
       "output_directory": "瘍醫大全(I102)",
       "markdown_files": 44,
       "translation_units": 1350,
-      "corrections_applied": 1239,
+      "corrections_applied": 1256,
       "punctuated": false,
       "warnings": []
     },
@@ -8048,9 +8048,12 @@
       "output_directory": "針灸甲乙經(K000)",
       "markdown_files": 15,
       "translation_units": 138,
-      "corrections_applied": 15,
+      "corrections_applied": 28,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '主頭項KT\\u3000KT\\u3000，目䀮䀮然' (0/1)",
+        "교정 불일치: '腰痛俠脊至頭KT\\u3000KT\\u3000然，目䀮䀮，委中主之' (0/1)"
+      ]
     },
     {
       "source_path": "K/K000a.txt",

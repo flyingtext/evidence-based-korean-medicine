@@ -20347,6 +20347,125 @@
       "expected_count": 1,
       "reason": "원출전 《外科啟玄》의 병명과 공개 의학 사전의 동일 정의가 모두 螻蛄漏이다.",
       "evidence_url": "https://cloudtcm.com/dic/7240"
+    },
+    {
+      "before": "《靈樞》曰：　HT　以下至天樞，長八寸。",
+      "after": "《靈樞》曰：　𩩲骭以下至天樞，長八寸。",
+      "expected_count": 1,
+      "reason": "《靈樞·骨度》 직접 인용의 정형문 ‘𩩲骭以下至天樞，長八寸’. 선행 전각공백 유지.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A9%A9%B2&if=gb"
+    },
+    {
+      "before": "其狀如穀實，　KT　，常苦寒熱",
+      "after": "其狀如穀實，　栝蔞，常苦寒熱",
+      "expected_count": 1,
+      "reason": "《靈樞·癰疽》 甘疽 조문의 직접 인용 ‘其狀如穀實、栝蔞，常苦寒熱’. 선행 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+    },
+    {
+      "before": "癰發四五日，逆KT　之。",
+      "after": "癰發四五日，逆焫之。",
+      "expected_count": 1,
+      "reason": "《靈樞·癰疽》 疵癰 조문의 직접 인용 ‘癰發四五日，逞焫之’ 계열에서 불로 지지는 동사 焫.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+    },
+    {
+      "before": "洞棚之下中央為　KT　骨者一。（無髓。俚人呼為鳩尾。）　KT　直下為天樞骨者一。",
+      "after": "洞棚之下中央為　𩩲骭骨者一。（無髓。俚人呼為鳩尾。）　𩩲骭直下為天樞骨者一。",
+      "expected_count": 1,
+      "reason": "鳩尾의 이명 𩩲骭과 그 아래 天樞를 잇는 골도 문맥.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/356/27"
+    },
+    {
+      "before": "復次，　KT　之下左右前後至初步",
+      "after": "復次，　𩩲骭之下左右前後至初步",
+      "expected_count": 1,
+      "reason": "직전 골격 목록의 鳩尾骨인 𩩲骭을 이어 받는다. 선행 전각공백 유지.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A9%A9%B2&if=gb"
+    },
+    {
+      "before": "KT　之下為心蔽骨者一。（無髓。）　KT　之左名為脅骨者",
+      "after": "𩩲骭之下為心蔽骨者一。（無髓。）　𩩲骭之左名為脅骨者",
+      "expected_count": 1,
+      "reason": "心蔽骨·脅骨의 기준점은 앞에서 鳩尾라 밝힌 𩩲骭이다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/356/27"
+    },
+    {
+      "before": "季隱骨者共二。（無髓。）　KT　之右為肘骨者",
+      "after": "季隱骨者共二。（無髓。）　𩩲骭之右為肘骨者",
+      "expected_count": 1,
+      "reason": "동일 골격 목록에서 좌우 기준점으로 반복되는 𩩲骭.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A9%A9%B2&if=gb"
+    },
+    {
+      "before": "[h4]牙HT門方論[/h4]\n奎光曰：牙HT　屬胃火",
+      "after": "[h4]牙疳門方論[/h4]\n奎光曰：牙疳屬胃火",
+      "expected_count": 1,
+      "reason": "치은에 생기는 외과 병명과 장 제목의 고정어 ‘牙疳’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "與熱證乳蛾HT　舌之痰壅一處",
+      "after": "與熱證乳蛾重舌之痰壅一處",
+      "expected_count": 1,
+      "reason": "咽喉 병증의 고정 병명 ‘重舌’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "又曰：HT　舌、喉癰，肥人感熱性燥者多患此。凡舌下生如小舌為HT　舌",
+      "after": "又曰：重舌、喉癰，肥人感熱性燥者多患此。凡舌下生如小舌為重舌",
+      "expected_count": 1,
+      "reason": "‘舌下生如小舌’은 重舌의 정의이며 같은 문장 표제와 본문에 반복된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "又曰：凡患HT　舌、喉癰，如大便秘",
+      "after": "又曰：凡患重舌、喉癰，如大便秘",
+      "expected_count": 1,
+      "reason": "연속 장절에서 반복되는 병명 ‘重舌’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "又曰：HT　舌、喉癰用加減犀角地黃湯",
+      "after": "又曰：重舌、喉癰用加減犀角地黃湯",
+      "expected_count": 1,
+      "reason": "연속 치료 조문의 병명 ‘重舌’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "若水泡，與血HT　（音　。皮起也。）無異",
+      "after": "若水泡，與血皰（音　。皮起也。）無異",
+      "expected_count": 1,
+      "reason": "물집과 병렬되고 ‘皮起也’라 풀이한 병명은 血皰이다. 음주 앞 전각공백은 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "生瘭HT　而潰成瘡，故名之。",
+      "after": "生瘭疽而潰成瘡，故名之。",
+      "expected_count": 1,
+      "reason": "문단 표제 瘭瘡과 외과 고정 병명 ‘瘭疽’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "活松絲　松HT　槿桑柚根炭",
+      "after": "活松絲　松香　槿桑柚根炭",
+      "expected_count": 1,
+      "reason": "외용 처방의 고정 약재명 松香. 주변 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "獨核肥皂（一斤）　HT　米（一升）",
+      "after": "獨核肥皂（一斤）　糯米（一升）",
+      "expected_count": 1,
+      "reason": "처방 계량 단위와 결합하는 고정 재료명 糯米. 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "楊HT　蟲即楊辣蟲，又有瓦　蟲",
+      "after": "楊瘌蟲即楊辣蟲，又有瓦　蟲",
+      "expected_count": 1,
+      "reason": "바로 뒤의 속명 楊辣蟲과 대응하는 충명 楊瘌蟲. 뒤쪽 별도 결자는 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html"
     }
   ],
   "I/I200.txt": [
