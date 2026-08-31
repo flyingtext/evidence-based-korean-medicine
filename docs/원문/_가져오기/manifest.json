@@ -9739,7 +9739,7 @@
       "output_directory": "臨證指南醫案(N009)",
       "markdown_files": 11,
       "translation_units": 130,
-      "corrections_applied": 390,
+      "corrections_applied": 391,
       "punctuated": false,
       "warnings": []
     },
@@ -13781,9 +13781,11 @@
       "output_directory": "聖濟總錄(四)(P0403)",
       "markdown_files": 50,
       "translation_units": 389,
-      "corrections_applied": 1063,
+      "corrections_applied": 1067,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 449367:449368"
+      ]
     },
     {
       "source_path": "P/P0500.txt",

@@ -3118,5 +3118,12 @@
     "reason": "暑熱·長夏 문맥의 고정 문어 대조",
     "evidence_url": "https://ctext.org/dictionary.pl?if=gb&char=%E6%B0%9B",
     "evidence_note": "氛은 기운·기세를 뜻하며 雨露下降 뒤 炎氛自蕩掃 및 過月涼至炎氛去 두 문맥에 동일하게 맞는다."
+  },
+  {
+    "before": "然非雷藏龍　。何能無燥無濕。勢有冒明燎上之HT　。如果土奠水安。",
+    "after": "然非雷藏龍　。何能無燥無濕。勢有冒明燎上之眚。如果土奠水安。",
+    "expected_count": 1,
+    "reason": "《醫述》이 인용한 동일 《臨證指南》 문장이 ‘勢有冒明燎上之眚，如果土奠水安’으로 전해 결자를 眚으로 직접 확정한다.",
+    "evidence_url": "https://www.cntcm.org/shu/472-19-2.html"
   }
 ]

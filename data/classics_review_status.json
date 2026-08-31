@@ -3480,7 +3480,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 13046,
       "punctuation_status": "codex_verified",
-      "note": "서문 고유명·희귀자와 본문 병명·약재명이 혼재한다. 공개 전사에서 원판 자형을 확정하지 못해 보류했다. 잔여 후보 13046자리."
+      "note": "서문 고유명·희귀자와 본문 병명·약재명이 혼재하며, 공개 전사와 평행문만으로 원판 자형을 유일하게 확정할 수 없어 현 status를 유지한다."
     },
     "D/D033.txt": {
       "collation_status": "in_progress",
@@ -3678,7 +3678,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 16485,
       "punctuation_status": "source_present",
-      "note": "잔존 적용본에서 신규 규칙은 모두 1회 고유 일치하며 HT 3개·KT 1개를 해소. 주문·외자·불명 병후는 보류. 잔여 후보 16485자리."
+      "note": "현 status 16485를 유지한다. 잔존 표지는 주문, 희귀 외자, 불명 병후가 혼재하며 동일 코드가 전 출현에서 같은 뜻임을 확인할 수 없어 보류했다."
     },
     "H/H009.txt": {
       "collation_status": "in_progress",
@@ -3898,9 +3898,9 @@
     },
     "N/N009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 18672,
+      "unresolved_candidates": 18670,
       "punctuation_status": "source_present",
-      "note": "반복되는 炎氛 두 곳을 복원했다. 跗部·牙病·화염 비유의 세 HT는 독립 전사에서 확정하지 못해 보류했다. 잔여 후보 18672자리."
+      "note": "현 status 18672에서 HT와 뒤 결자 전각공백 2좌표만 차감했다. 跗部와 치과 병명 결자는 독립 판독이 없어 보류했다."
     },
     "N/N011.txt": {
       "collation_status": "in_progress",
@@ -4038,7 +4038,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 24455,
       "punctuation_status": "source_present",
-      "note": "신규 9규칙은 2·27·2·2·2·1·3·1·2회 고유 일치. 일반 目KT KT 규칙을 먼저 적용해도 나머지 접두 문맥과 겹치지 않으며 HT 3·KT 78개 해소. 잔여 후보 24455자리."
+      "note": "현 status 24455를 유지한다. 기존 대량 규칙 적용 뒤 남은 HT·KT는 인명·지명·경혈 해부어·본초명·음주가 혼재하며 반복 표식의 의미도 고정되지 않아 추가 일괄 치환하지 않았다."
     },
     "O/O041.txt": {
       "collation_status": "in_progress",
@@ -4104,7 +4104,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 20321,
       "punctuation_status": "source_present",
-      "note": "PUA 558자는 저본 가이지 코드 매핑 또는 영인 대조가 선행되어야 한다. 코드값을 임의 정규화하지 않았다. 잔여 후보 20321자리."
+      "note": "현 status 20321을 유지한다. PUA 558자는 코드별 원문자 매핑이나 영인 판독이 선행되어야 하며, 문맥상 익숙한 黃耆·神麯 등의 반복도 동일 코드의 전 출현 의미가 검증되지 않아 임의 정규화하지 않았다."
     },
     "O/O065.txt": {
       "collation_status": "in_progress",
@@ -4146,7 +4146,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 16784,
       "punctuation_status": "source_present",
-      "note": "□ 2자 자리에 ‘熱，’를 복원하고 KT 2자를 䀮䀮으로 복원했다. KT/□/[c]/PUA 잔여는 0. 잔여 후보 16784자리."
+      "note": "현 status 16784를 유지한다. 잔존 HT에는 인명 가이지와 IDS로만 전사된 희귀 병명 글자가 포함되어 표준 유니코드 원자를 확정하지 않았다."
     },
     "O/O077.txt": {
       "collation_status": "in_progress",
@@ -4314,7 +4314,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 23473,
       "punctuation_status": "source_present",
-      "note": "䀮䀮 한 곳을 복원했다. 癘風 명칭의 남은 KT는 희귀 자형을 독립 판본에서 확인하지 못해 보류했다. 잔여 후보 23473자리."
+      "note": "현 status 23473을 유지한다. 잔존 ‘KT風’의 癘風 세부 명칭은 독립 판본에서 해당 희귀 자형을 확인하지 못해 추정 복원하지 않았다."
     },
     "P/P0101.txt": {
       "collation_status": "in_progress",
@@ -4338,7 +4338,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 15707,
       "punctuation_status": "source_present",
-      "note": "三角窗樣의 窗만 영인으로 확정했다. 주문·소아 희귀 병명·약재명에 남은 표지는 추가 판면 대조가 필요하다. 잔여 후보 15707자리."
+      "note": "잔여 표지는 주문·희귀 소아 병명·약재명에 걸쳐 서로 다른 글자를 나타내므로 반복 코드만으로 규칙화할 수 없다. 판면에서 확정되지 않은 글자는 제안하지 않고 현 status를 유지한다."
     },
     "P/P0105.txt": {
       "collation_status": "in_progress",
@@ -4350,7 +4350,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 19135,
       "punctuation_status": "source_present",
-      "note": "희귀 본초명에 대한 추정 교정을 피하고 전건을 후속 판본 대조 대상으로 보류함. 잔여 후보 19135자리."
+      "note": "현 status 19135를 유지한다. 잔존 KT는 자서 인용, 희귀 본초명·곡물명·지명과 음주가 혼재하고 같은 코드의 의미가 전 출현에서 고정되지 않아 전역 규칙화하지 않았다."
     },
     "P/P0201.txt": {
       "collation_status": "in_progress",
@@ -4386,13 +4386,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 16155,
       "punctuation_status": "source_present",
-      "note": "유일한 KT를 不治로 복원했다. 잔여 전각 공백은 서식 공백과 결락 가능성이 혼재한다. 잔여 후보 16155자리."
+      "note": "유일한 KT는 기존 규칙의 不治로 이미 복원된다. 잔여 전각 공백은 서식과 결락 가능성이 혼재하므로 추가 제안 없이 현 status를 유지한다."
     },
     "P/P0403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 16333,
+      "unresolved_candidates": 16328,
       "punctuation_status": "source_present",
-      "note": "嘈嘈 3구절 6자를 독립 영인·평행문으로 확정했다. HT/□/[c]/PUA는 0. 잔여 후보 16333자리."
+      "note": "睛明穴 조문의 독립 평행문으로 5개 후보 좌표(內 뒤 공백 2곳, KT+전각 공백 2자리, 大와肉 사이 공백 1곳)를 확정했다. 나머지 KT는 골명·혈명·병증 등 서로 다른 글자를 나타내어 전역 규칙화하지 않는다."
     },
     "P/P0500.txt": {
       "collation_status": "in_progress",
@@ -4446,7 +4446,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 19071,
       "punctuation_status": "source_present",
-      "note": "䀮 12자를 네 규칙으로 복원한다. [c]/PUA는 0. 잔여 후보 19071자리."
+      "note": "현 status 19071을 유지한다. 대형 총서의 잔존 HT·KT·□는 인명·약재·음식·희귀자에 걸쳐 의미가 달라 반복 코드 일괄 치환을 하지 않았다."
     },
     "C/C041.txt": {
       "collation_status": "complete",

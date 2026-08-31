@@ -8502,5 +8502,29 @@
     "evidence_url": "https://research.pinedance.click/resources/2004-02.pdf",
     "evidence_note": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다.",
     "reason": "天容 주치 평행문이 ‘耳聾嘈嘈無所聞’으로 확인된다."
+  },
+  {
+    "before": "睛明二穴，一名淚孔，在目內　，",
+    "after": "睛明二穴，一名淚孔，在目內眥，",
+    "expected_count": 1,
+    "evidence": "『秘傳眼科龍木論』의 동일 睛明穴 조문이 ‘在目內眥’로 전하며 문맥과 자리가 일치한다: https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "惡風淚出，目內　癢痛",
+    "after": "惡風淚出，目內眥癢痛",
+    "expected_count": 1,
+    "evidence": "『秘傳眼科龍木論』의 동일 조문 ‘目內眥癢痛’과 일치한다: https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "大人氣眼冷淚，KT　目視物不明",
+    "after": "大人氣眼冷淚，𥌰目視物不明",
+    "expected_count": 1,
+    "evidence": "『秘傳眼科龍木論』의 동일 조문이 ‘大人氣眼冷淚。𥌰目視物不明’으로 전한다: https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "目視物不明，大　肉侵睛",
+    "after": "目視物不明，大眥胬肉侵睛",
+    "expected_count": 1,
+    "evidence": "『秘傳眼科龍木論』의 동일 조문 ‘大眥胬肉侵睛’과 일치한다: https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
   }
 ]
