@@ -7826,6 +7826,55 @@
       "reason": "噎와 噦를 대비한 문내 병증 문맥 대조",
       "evidence_url": "https://www.qj.hk/mobile/jingdian/book/449/13922.html",
       "evidence_note": "독립 원문이 噎 뒤에 '脈滑則為噦'를 이어 두 증상을 대비함"
+    },
+    {
+      "before": "其證備，身體強。KT　KT　然，脈反沉遲",
+      "after": "其證備，身體強。𠘧𠘧然，脈反沉遲",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문의 동일 《金匱》 인용문이 𠘧𠘧然이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "治項背KT　KT　，用桂枝加葛根湯",
+      "after": "治項背𠘧𠘧，用桂枝加葛根湯",
+      "expected_count": 1,
+      "reason": "같은 공개 전문에서 項背𠘧𠘧로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "項背KT　KT　，無汗惡風者",
+      "after": "項背𠘧𠘧，無汗惡風者",
+      "expected_count": 1,
+      "reason": "공개 전문의 《傷寒論》 인용이 項背𠘧𠘧로 온전히 남아 있다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "太陽之傳陽明項背KT　KT　，少陽",
+      "after": "太陽之傳陽明項背𠘧𠘧，少陽",
+      "expected_count": 1,
+      "reason": "jicheng 동일 痙病論 문장이 項背𠘧𠘧이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "其證備，身體強，KT　KT　然，脈反沉遲",
+      "after": "其證備，身體強，𠘧𠘧然，脈反沉遲",
+      "expected_count": 1,
+      "reason": "뒤 痙脈論에서 거듭 인용한 동일 조문도 공개 전문이 𠘧𠘧然으로 전사한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "腳攣KT　KT　，陽之欲亡",
+      "after": "腳攣𠘧𠘧，陽之欲亡",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문의 痙脈論 동일 문맥에서 腳攣𠘧𠘧로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
+    },
+    {
+      "before": "頭搖口噤，背張KT　KT　，陽之欲亡",
+      "after": "頭搖口噤，背張𠘧𠘧，陽之欲亡",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문의 동일 논설이 背張𠘧𠘧로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html"
     }
   ],
   "O/O004.txt": [
@@ -33067,13 +33116,6 @@
       "evidence_note": "O/O068.txt: 좌우 한자 각 14자 고유 일치"
     },
     {
-      "before": "身體強，KT　KT　然",
-      "after": "身體強，几几然",
-      "expected_count": 1,
-      "evidence": "栝蔞桂枝湯의 전승 원문 身體強几几然.",
-      "reason": "栝蔞桂枝湯의 전승 원문 身體強几几然."
-    },
-    {
       "before": "目視KT　KT　，所祈不得",
       "after": "目視䀮䀮，所祈不得",
       "expected_count": 1,
@@ -33114,6 +33156,20 @@
       "expected_count": 1,
       "evidence": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬.",
       "reason": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬."
+    },
+    {
+      "before": "咳逆（即呃、KT　，吃忒：）",
+      "after": "咳逆（即呃、䭇，吃忒：）",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문의 傷寒 변증 조문에서 희귀자 䭇을 직접 확인",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html"
+    },
+    {
+      "before": "身體強，KT　KT　然，脈反沉遲",
+      "after": "身體強，𠘧𠘧然，脈反沉遲",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문과 《金匱要略》 평행문에서 𠘧𠘧을 직접 확인; 기존 几几 복원은 자형 오류",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html"
     }
   ],
   "O/O067.txt": [

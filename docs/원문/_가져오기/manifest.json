@@ -1,6 +1,6 @@
 {
   "source_root": "/Users/yunjihyeon/Documents/GitHub/source",
-  "count": 744,
+  "count": 743,
   "books": [
     {
       "source_path": "A/A000.txt",
@@ -6535,7 +6535,7 @@
       "output_directory": "幼幼集成(H010)",
       "markdown_files": 10,
       "translation_units": 241,
-      "corrections_applied": 2,
+      "corrections_applied": 3,
       "punctuated": false,
       "warnings": []
     },
@@ -8058,7 +8058,7 @@
       "output_directory": "針灸大成(K001)",
       "markdown_files": 10,
       "translation_units": 299,
-      "corrections_applied": 345,
+      "corrections_applied": 348,
       "punctuated": false,
       "warnings": []
     },
@@ -10823,7 +10823,7 @@
       "output_directory": "醫門法律(O000)",
       "markdown_files": 7,
       "translation_units": 83,
-      "corrections_applied": 311,
+      "corrections_applied": 318,
       "punctuated": false,
       "warnings": []
     },
@@ -12183,7 +12183,7 @@
       "output_directory": "簡明醫彀(O068)",
       "markdown_files": 14,
       "translation_units": 422,
-      "corrections_applied": 332,
+      "corrections_applied": 333,
       "punctuated": false,
       "warnings": []
     },
@@ -14159,23 +14159,6 @@
       "corrections_applied": 1,
       "punctuated": false,
       "warnings": []
-    },
-    {
-      "source_path": "test.txt",
-      "source_key": "test",
-      "sha256": "af52c1f07029092366258b0661a1c6b055f777c3da51ab6ec8e903194407cc30",
-      "metadata": {},
-      "output_directory": "test(test)",
-      "markdown_files": 2,
-      "translation_units": 2,
-      "corrections_applied": 0,
-      "punctuated": false,
-      "warnings": [
-        "book 메타데이터 없음",
-        "미처리 태그: box, ds, dsb, dz, jb, sb, wj, zb",
-        "미처리 태그: img, test, url",
-        "서명 없음"
-      ]
     }
   ]
 }

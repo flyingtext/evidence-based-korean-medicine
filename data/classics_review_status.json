@@ -10,9 +10,9 @@
     },
     "O/O000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4140,
+      "unresolved_candidates": 4112,
       "punctuation_status": "source_present",
-      "note": "순차 교정 뒤 4156자리 중 噎에 해당하는 KT 8개와 각 뒤 결자 공백 8개를 복원했다. 나머지 KT 14개는 几几 계열 등 별도 자형 검증이 필요하다. 잔여 후보 4140자리."
+      "note": "현 status 4140에서 남은 KT 14개와 각 동반 전각공백 14개, 합계 28좌표를 공개 전문의 𠘧𠘧 일곱 occurrence로 모두 해소했다. 다른 전각 공백은 유지한다."
     },
     "O/O002.txt": {
       "collation_status": "in_progress",
@@ -88,9 +88,9 @@
     },
     "K/K001.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4231,
+      "unresolved_candidates": 4221,
       "punctuation_status": "source_present",
-      "note": "고유한 경혈 주치문 한 곳만 복원했다. 나머지는 경혈별 문구 차이와 희귀 자형이 있어 영인 좌표 없이 보류했다. 잔여 후보 4231자리."
+      "note": "현 status 4231에서 䀮䀮 두 occurrence의 KT·동반 공백 8좌표와 李醯의 HT·동반 공백 2좌표만 차감했다. 나머지 희귀 자형은 별도 판독을 위해 보류한다."
     },
     "K/K003.txt": {
       "collation_status": "in_progress",
@@ -294,7 +294,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3982,
       "punctuation_status": "source_present",
-      "note": "기존 136개 규칙이 순차 적용되며 경고·좌표 중첩이 없었다. HT/KT/□/[c] 잔여는 0이다. 잔여 후보 3982자리."
+      "note": "현 status 3982를 유지한다. 기존 136개 규칙 적용 후 명시적 HT·KT·□·[c] 잔여가 없어 전각공백을 임의로 결락 재분류하지 않았다."
     },
     "C/C027.txt": {
       "collation_status": "complete",
@@ -372,7 +372,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3989,
       "punctuation_status": "alignment_approved",
-      "note": "최신 교정 뒤 3991자리 중 HT 1·결자 공백 1자리를 복원했다. 전각 공백 3949·KT 40자리 등 총 3989자리가 남아 승격하지 않는다. 잔여 후보 3989자리."
+      "note": "현 status 3989를 유지한다. 잔존 KT에는 𠘧𠘧 반복과 서로 다른 결자가 혼재하여 이번 회차에는 독립 판본 좌표가 확인된 occurrence만 특정하지 못했다."
     },
     "B/B021.txt": {
       "collation_status": "complete",
@@ -468,7 +468,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3703,
       "punctuation_status": "source_present",
-      "note": "본문보다 교주 속 이체자와 사전 인용 결자가 많다. 주석 자체가 여러 자형을 병기하므로 영인 좌표 없이 정규화하지 않았다. 잔여 후보 3703자리."
+      "note": "잔여 표지는 교주가 병기한 이체자·사전 인용 외자가 대부분이다. 공개 전문도 해당 자형을 안정적으로 제시하지 않아 추정 복원하지 않고 status를 유지한다."
     },
     "A/A301.txt": {
       "collation_status": "complete",
@@ -3498,7 +3498,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3833,
       "punctuation_status": "source_present",
-      "note": "KT 6자를 직접 상한론 평행문으로 복원한다. 두 규칙의 좌표는 겹치지 않고 PUA/HT/□/[c] 잔여는 0이다. 잔여 후보 3833자리."
+      "note": "기존 𠘧𠘧 두 규칙 외에 확정 가능한 PUA/HT/KT/□/[c] 잔여가 없다. 남은 전각 공백은 조판과 결락이 혼재하므로 status를 유지한다."
     },
     "D/D046.txt": {
       "collation_status": "in_progress",
@@ -3688,9 +3688,9 @@
     },
     "H/H010.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3949,
+      "unresolved_candidates": 3945,
       "punctuation_status": "source_present",
-      "note": "水粉·磚 두 자를 복원했다. 音殊가 붙은 연속 KT는 희귀 자형을 영인 없이 확정할 수 없어 보류했다. 잔여 후보 3949자리."
+      "note": "현 status 3949에서 KT 두 자리와 각 뒤 결자 전각공백 두 자리, 총 4좌표를 차감했다."
     },
     "H/H013.txt": {
       "collation_status": "in_progress",
@@ -3738,7 +3738,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 4401,
       "punctuation_status": "source_present",
-      "note": "기존 4규칙은 순차 적용 충돌 없음. 잔존 HT 1개를 고유 문맥으로 확정했으며 규칙 1회 일치. 잔여 후보 4401자리."
+      "note": "현 status 4401을 유지한다. 기존 규칙 적용 뒤 명시 표식이 없고 남은 전각 공백을 판면 근거 없이 재분류하지 않았다."
     },
     "I/I005a.txt": {
       "collation_status": "complete",
@@ -3948,7 +3948,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 4056,
       "punctuation_status": "source_present",
-      "note": "표지 9자를 모두 고유 문맥으로 복원했다. 남은 전각 공백은 조판 공백과 결락 가능성이 혼재한다. 잔여 후보 4056자리."
+      "note": "현 status 4056을 유지한다. 명시 표식은 모두 기존 규칙으로 해소되었고, 남은 전각 공백은 공개 전문만으로 조판과 결락을 occurrence-고유하게 구분할 수 없다."
     },
     "O/O025.txt": {
       "collation_status": "in_progress",
@@ -4126,9 +4126,9 @@
     },
     "O/O068.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3597,
+      "unresolved_candidates": 3595,
       "punctuation_status": "source_present",
-      "note": "HT 5개와 KT 4개 해소. 모든 신규 before는 1회 일치하고 비중첩. 기존 325개 규칙의 선행흡수 충돌 14개는 신규 좌표와 무관. 잔여 후보 3597자리."
+      "note": "현 status 3597자리에서 새로 확정된 䭇의 KT와 뒤 비조판 공백 2좌표만 차감했다. 𠘧𠘧 규칙은 기존 4좌표의 오복원을 교체하므로 remaining 증감에 반영하지 않았다. 나머지는 보류한다."
     },
     "O/O069.txt": {
       "collation_status": "in_progress",
@@ -4320,7 +4320,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 4022,
       "punctuation_status": "codex_verified",
-      "note": "최신 교정 뒤 4024자리 중 HT 1·결자 공백 1자리를 복원했다. 전각 공백 3982·KT 40자리 등 총 4022자리가 남아 승격하지 않는다. 잔여 후보 4022자리."
+      "note": "현 status 4022를 유지한다. B/B015와 같은 잔존 KT 군에 여러 원자가 혼재하므로 문맥별 판본 대조 없이 일괄 치환하지 않았다."
     },
     "P/P0102.txt": {
       "collation_status": "in_progress",
@@ -4356,7 +4356,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3611,
       "punctuation_status": "source_present",
-      "note": "KT 140개 중 주음과 항목 내부 반복으로 勞豆 5개만 확정. 나머지는 희귀 이체자·동식물명이라 영인 판독 전 보류. 규칙별 1회 일치·비중첩. 기존 1491개 규칙 중 기존 중첩 6개 확인. 잔여 후보 3611자리."
+      "note": "잔여 KT가 《說文》 고자·희귀 동식물명·주음에 집중되어 있고 영인 좌표 없이 단정할 수 없다. 기존 status를 유지한다."
     },
     "P/P0300.txt": {
       "collation_status": "in_progress",

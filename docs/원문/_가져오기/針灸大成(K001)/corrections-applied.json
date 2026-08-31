@@ -2758,5 +2758,26 @@
     "reason": "독립 공개 영인의 동일 경혈 주치문 대조",
     "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
     "evidence_note": "공개 고전 영인에서 안증의 고정 표현을 目視䀮䀮로 확인했고, 동일 경혈 주치문의 瘰癧·痎瘧 문맥까지 일치한다."
+  },
+  {
+    "before": "目KT　KT　然如無所見",
+    "after": "目䀮䀮然如無所見",
+    "expected_count": 1,
+    "reason": "《靈樞》 足少陰 是動病의 정형문이 ‘目䀮䀮如無所見’이며 공개 평행문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "目視KT　KT　氣不足",
+    "after": "目視䀮䀮氣不足",
+    "expected_count": 1,
+    "reason": "같은 足少陰 경맥 병후의 반복으로 䀮䀮가 확정되며 공개 평행문도 동일하다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "李HT　刺死於道路之旁",
+    "after": "李醯刺死於道路之旁",
+    "expected_count": 1,
+    "reason": "扁鵲을 해친 秦太醫令의 고유명은 李醯로 전승되는 고정 사적이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html"
   }
 ]

@@ -2600,13 +2600,6 @@
     "evidence_note": "O/O068.txt: 좌우 한자 각 14자 고유 일치"
   },
   {
-    "before": "身體強，KT　KT　然",
-    "after": "身體強，几几然",
-    "expected_count": 1,
-    "evidence": "栝蔞桂枝湯의 전승 원문 身體強几几然.",
-    "reason": "栝蔞桂枝湯의 전승 원문 身體強几几然."
-  },
-  {
     "before": "目視KT　KT　，所祈不得",
     "after": "目視䀮䀮，所祈不得",
     "expected_count": 1,
@@ -2647,5 +2640,19 @@
     "expected_count": 1,
     "evidence": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬.",
     "reason": "石膏를 달군 뒤 술·미감수에 담금질하는 포제 동사 淬."
+  },
+  {
+    "before": "咳逆（即呃、KT　，吃忒：）",
+    "after": "咳逆（即呃、䭇，吃忒：）",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 傷寒 변증 조문에서 희귀자 䭇을 직접 확인",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html"
+  },
+  {
+    "before": "身體強，KT　KT　然，脈反沉遲",
+    "after": "身體強，𠘧𠘧然，脈反沉遲",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문과 《金匱要略》 평행문에서 𠘧𠘧을 직접 확인; 기존 几几 복원은 자형 오류",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B0%A1%E6%98%8E%E9%86%AB%E5%BD%80/index.html"
   }
 ]

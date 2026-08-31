@@ -519,7 +519,9 @@ def collection_readme(manifest: list[dict]) -> str:
 
 
 def discover(source: Path, patterns: list[str]) -> list[Path]:
-    paths = sorted(source.rglob("*.txt"))
+    # 실제 문헌은 분류 문자 하위 폴더에 있다. 원자료 루트의 test.txt 같은
+    # 변환기 시험 fixture를 문헌 목록에 포함하지 않는다.
+    paths = sorted(path for path in source.rglob("*.txt") if path.parent != source)
     if not patterns:
         return paths
     return [p for p in paths if any(re.search(pattern, p.relative_to(source).as_posix()) for pattern in patterns)]

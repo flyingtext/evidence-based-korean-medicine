@@ -11248,6 +11248,13 @@
       "reason": "독립 평행 처방의 서식 설명 대조",
       "evidence_url": "https://cloudtcm.com/shu/t1/281/37",
       "evidence_note": "동일 약재 설명이 扁蟲을 磚瓦縫中에서 찾는다고 명시한다."
+    },
+    {
+      "before": "眼目下竄，即《金匱》之頸項KT　KT　（音殊）",
+      "after": "眼目下竄，即《金匱》之頸項𠘧𠘧（音殊）",
+      "expected_count": 1,
+      "reason": "원문 음주 ‘音殊’와 《說文》의 𠘧 ‘鳥之短羽飛𠘧𠘧也，讀若殊’, 그리고 상한 계통의 고정어 ‘項背強𠘧𠘧’가 자형·음·문맥을 함께 확정한다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?id=28218&if=gb"
     }
   ],
   "H/H009.txt": [

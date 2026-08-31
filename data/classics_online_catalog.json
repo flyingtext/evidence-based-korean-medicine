@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "generated_at": "2026-08-30T02:33:13+00:00",
-  "source_count": 744,
-  "checked_count": 744,
+  "source_count": 743,
+  "checked_count": 743,
   "summary": {
     "http_200": 634,
-    "http_404": 110,
+    "http_404": 109,
     "with_data_sec": 634,
     "request_errors": 0
   },
@@ -11148,21 +11148,6 @@
       "url": "https://jicheng.tw/tcm/book/%E6%98%93%E7%B6%93%EF%BC%88%E5%91%A8%E6%98%93%EF%BC%89/index.html",
       "http_status": 404,
       "final_url": "https://jicheng.tw/tcm/book/%E6%98%93%E7%B6%93%EF%BC%88%E5%91%A8%E6%98%93%EF%BC%89/index.html",
-      "has_data_sec": false,
-      "data_sec_count": 0,
-      "html_bytes": 146,
-      "checked_at": "2026-08-30T02:33:08+00:00",
-      "attempts": 1,
-      "error": "HTTP 404"
-    },
-    {
-      "source": "test.txt",
-      "source_id": "test",
-      "title": "test",
-      "url_slug": "test",
-      "url": "https://jicheng.tw/tcm/book/test/index.html",
-      "http_status": 404,
-      "final_url": "https://jicheng.tw/tcm/book/test/index.html",
       "has_data_sec": false,
       "data_sec_count": 0,
       "html_bytes": 146,
