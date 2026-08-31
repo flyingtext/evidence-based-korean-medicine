@@ -758,5 +758,21 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
     "evidence_note": "약명 芎藭.",
     "reason": "약명 芎藭."
+  },
+  {
+    "before": "醫者疑古藥品之蘭蕙正如儒者。疑古食品之HT。皆不通古今之變者也",
+    "after": "醫者疑古藥品之蘭蕙正如儒者。疑古食品之蚳螷。皆不通古今之變者也",
+    "expected_count": 1,
+    "reason": "고대 식품의 예로 든 `蚳螷`이다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/1009/107",
+    "evidence_note": "독립 해설·번역에 원문의 두 고대 식품을 蚳·螷으로 명시."
+  },
+  {
+    "before": "匡坐篷窗，間回環KT　誦，奇情妙緒",
+    "after": "匡坐篷窗，間回環雒誦，奇情妙緒",
+    "expected_count": 1,
+    "reason": "여러 번 되풀이해 읽는다는 문맥의 `雒誦`이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+    "evidence_note": "독립 공개 전사에서 `間迴環雒誦`으로 확인."
   }
 ]

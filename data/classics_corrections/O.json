@@ -95988,6 +95988,24 @@
       "after": "水銀　硇砂　鱉甲肉積類：硇砂　阿魏",
       "expected_count": 1,
       "evidence": "공적약·육적약에 쓰인 광물약명 硇砂가 두 위치의 처방 열거와 일치한다."
+    },
+    {
+      "before": "目KT　KT　如無所見",
+      "after": "目䀮䀮如無所見",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 족소음 병후의 정문 ‘目䀮䀮如無所見’."
+    },
+    {
+      "before": "水銀　KT　砂　鱉甲",
+      "after": "水銀　硇砂　鱉甲",
+      "expected_count": 1,
+      "reason": "積聚 약물 열거의 광물약 硇砂."
+    },
+    {
+      "before": "肉積類：KT　砂　阿魏",
+      "after": "肉積類：硇砂　阿魏",
+      "expected_count": 1,
+      "reason": "肉積 치료 약물의 정형 배합 硇砂·阿魏."
     }
   ],
   "O/O089.txt": [

@@ -6017,6 +6017,20 @@
       "expected_count": 1,
       "evidence_url": "https://ctext.org/wiki.pl?chapter=56443&if=gb",
       "evidence_note": "《說文》 계통의 衃=凝血 정의와 혈림이 응고된 형상 문맥으로 衃 확정."
+    },
+    {
+      "before": "而膝KT　大痛，蓋痰飲隨氣升降故也",
+      "after": "而膝䯊大痛，蓋痰飲隨氣升降故也",
+      "expected_count": 1,
+      "reason": "《名醫類案》 동일 의안의 독립 전사가 ‘膝䯊大痛’으로 보존한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=76348&if=en&remap=gb"
+    },
+    {
+      "before": "口目張HT　，唇口嚼爛，抖擻之狀如線引傀儡",
+      "after": "口目張睒，唇口嚼爛，抖擻之狀如線引傀儡",
+      "expected_count": 1,
+      "reason": "원 출전 《儒門事親》의 동일 新寨馬叟 의안이 ‘口目張睒’으로 직접 전사된다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/HY1469/chapter/1km213ls1is5n"
     }
   ],
   "N/N032.txt": [

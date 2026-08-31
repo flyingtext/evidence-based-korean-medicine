@@ -38703,6 +38703,246 @@
       "expected_count": 1,
       "evidence_url": "source/D/D075.txt",
       "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 飧로 확정."
+    },
+    {
+      "before": "，大便弗，\n  又恐初",
+      "after": "，大便弗硬，\n  又恐初",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "恐初後溏，未可妄攻，故",
+      "after": "恐初硬後溏，未可妄攻，故",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "之痞，諸四逆厥者，\n ",
+      "after": "之痞硬，諸四逆厥者，\n ",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "滿而痛，或重汗而復下之",
+      "after": "滿而硬痛，或重汗而復下之",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "。 ｛按之痛者為結胸，",
+      "after": "。 ｛按之硬痛者為結胸，",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "胸，而不痛者為痞氣，不",
+      "after": "胸，硬而不痛者為痞氣，不",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "，不不痛，心下滿悶為支",
+      "after": "，不硬不痛，心下滿悶為支",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "故石而痛，重汗不下，內",
+      "after": "故石硬而痛，重汗不下，內",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下痞，\n  引下痛，",
+      "after": "下痞硬，\n  引下痛，",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "痛痞引下痛，乾嘔短氣",
+      "after": "痛痞硬引下痛，乾嘔短氣",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下痞，嘔而下利，或往來",
+      "after": "下痞硬，嘔而下利，或往來",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "，痞，燥渴，譫狂，便秘",
+      "after": "，痞硬，燥渴，譫狂，便秘",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下痞，嘔吐而不利者，此",
+      "after": "下痞硬，嘔吐而不利者，此",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "大便，脈細者，\n  為",
+      "after": "大便硬，脈細者，\n  為",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下痞，去大棗，加牡蠣，",
+      "after": "下痞硬，去大棗，加牡蠣，",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "：痞噫氣\n出處：仲景\n",
+      "after": "：痞硬噫氣\n出處：仲景\n",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "故痞，噫氣，即俗所謂噯",
+      "after": "故痞硬，噫氣，即俗所謂噯",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "曰：則氣堅，\n  旋覆",
+      "after": "曰：硬則氣堅，\n  旋覆",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "軟痞，怯則氣浮，代赭之",
+      "after": "軟痞硬，怯則氣浮，代赭之",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "腹當，小便自利，\n  ",
+      "after": "腹當硬，小便自利，\n  ",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "少腹滿，小便自利者，必",
+      "after": "少腹硬滿，小便自利者，必",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "少腹滿而小便不利者，為",
+      "after": "少腹硬滿而小便不利者，為",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "濇，滿而小便利者，為畜",
+      "after": "濇，硬滿而小便利者，為畜",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下痞，表裏不解者，\n ",
+      "after": "下痞硬，表裏不解者，\n ",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "便反，名曰陰結，李東垣",
+      "after": "便反硬，名曰陰結，李東垣",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "下滿而痛者，為結胸，為",
+      "after": "下滿硬而痛者，為結胸，為",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "故使也。 ｛為不使裏虛",
+      "after": "故使硬也。 ｛為不使裏虛",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "中痞，乾噫〔噯同〕食臭",
+      "after": "中痞硬，乾噫〔噯同〕食臭",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "故痞，中氣不和，故乾噯",
+      "after": "故痞硬，中氣不和，故乾噯",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
+    },
+    {
+      "before": "無痞之證也。 ｝\n加減",
+      "after": "無痞硬之證也。 ｝\n加減",
+      "expected_count": 1,
+      "reason": "이 occurrence는 大便硬·痞硬·硬痛·硬滿 등 `단단하다`의 문맥이며 동일 PUA의 기존 확정 occurrence와 뜻이 일치한다.",
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "자매 전사, 기존 확정 규칙 및 해당 occurrence의 양측 고유 문맥으로 硬을 확인."
     }
   ],
   "D/D057.txt": [

@@ -7681,6 +7681,24 @@
       "evidence_url": "https://www.tcmxs.com/showrepost-84-5642.html",
       "evidence_note": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다.",
       "reason": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다."
+    },
+    {
+      "before": "誤作發　。（發　多見於胸腹",
+      "after": "誤作發斑。（發斑多見於胸腹",
+      "expected_count": 1,
+      "reason": "蚊跡과 감별하는 정형 병명 發斑이 뒤에서 반복됨."
+    },
+    {
+      "before": "其經起於目銳　。上頭角",
+      "after": "其經起於目銳眥。上頭角",
+      "expected_count": 1,
+      "reason": "족소양담경 유주의 정문 ‘起於目銳眥’."
+    },
+    {
+      "before": "或痞滿燥實。　黃狂閉揭去衣被",
+      "after": "或痞滿燥實。發黃狂閉揭去衣被",
+      "expected_count": 1,
+      "reason": "양명 이증 열거의 정형 병후 發黃."
     }
   ],
   "B/B023.txt": [
@@ -18458,6 +18476,30 @@
       "reason": "葛根湯 조문의 희귀자 두 글자다.",
       "evidence_url": "https://ftcmp.co.uk/wp-content/uploads/2021/06/%E8%8B%B1%E5%9B%BD%E4%B8%AD%E5%8C%BB2020.02-1.pdf",
       "evidence_note": "독립 문헌 인용에서 `項背強几几`가 확인되며, 원형 이체자는 저장소 기존 교정과 동일하게 `𠘧𠘧`으로 기록한다."
+    },
+    {
+      "before": "防己（三兩）　黃　（三兩）　桂枝",
+      "after": "防己（三兩）　黃耆（三兩）　桂枝",
+      "expected_count": 1,
+      "reason": "防己茯苓湯의 정문 약재 黃耆."
+    },
+    {
+      "before": "宜　芍桂酒湯主之",
+      "after": "宜黃耆芍桂酒湯主之",
+      "expected_count": 1,
+      "reason": "《金匱要略》 黃耆芍藥桂枝苦酒湯 조문과 바로 뒤 방제명."
+    },
+    {
+      "before": "黃　芍藥桂枝苦酒湯方",
+      "after": "黃耆芍藥桂枝苦酒湯方",
+      "expected_count": 1,
+      "reason": "바로 아래 처방 구성과 일치하는 방제 정식 명칭."
+    },
+    {
+      "before": "黃　（五兩）　芍藥（三兩）",
+      "after": "黃耆（五兩）　芍藥（三兩）",
+      "expected_count": 1,
+      "reason": "黃耆芍藥桂枝苦酒湯의 첫 약재 黃耆."
     }
   ],
   "B/B105.txt": [

@@ -28,9 +28,9 @@
     },
     "N/N027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 268,
+      "unresolved_candidates": 266,
       "punctuation_status": "source_present",
-      "note": "《楓窗別記》 서명의 窗, 평행문 失驚吐舌의 吐, 凝血 정의에 맞는 衃를 occurrence 고유 문맥으로 복원. 잔여 HT 1·KT 1 및 비조판 후보는 직접 영인 판독 전 보류. 검증 applied=78/78, warnings=0, overlaps=0."
+      "note": "최신 잔여268 중 유일한 HT·KT 두 좌표를 각각 원 출전과 자매 전사로 확정했다. 기존 78규칙과 문맥 중첩 없음."
     },
     "N/N032.txt": {
       "collation_status": "in_progress",
@@ -202,15 +202,15 @@
     },
     "D/D075a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 220,
+      "unresolved_candidates": 190,
       "punctuation_status": "source_present",
-      "note": "현재 numbered Markdown 재계수는 전각 공백1·HT0·KT0·□0·BMP PUA220·레거시[c]0이다. 전각 공백1은 감사에서 조판으로 확정되어 제외하고 PUA220만 실질 잔여다. 동일 서명 D075와 단일문자 고유 정렬되는58좌표는 이미 복원되었고, 나머지는 다문자 정렬·불일치라 추가 확정하지 않았다. 기존58개 규칙 applied=58/58, warnings=0, overlaps=0."
+      "note": "같은 PUA U+F004의 잔여 30회를 전부 硬으로 검증했다. 나머지 PUA는 코드별 의미가 단일하다고 입증되지 않아 보류했고 유일한 전각 공백은 처방 조판이다."
     },
     "E/E004.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 270,
       "punctuation_status": "source_present",
-      "note": "기존 correction shard 57규칙은 현재 출력에 반영되어 HT·KT가 0이다. 남은 비조판 공백 270자는 공개 jicheng 전문도 같은 결락을 공유한다. 별도 E004a는 동일 문헌의 직접 대교 가능한 판면 좌표가 아니라 독립 항목이므로 자동 전용하지 않았다. 신규 규칙 0개로 중첩·경고 없음."
+      "note": "HT·KT·□·PUA는 0이며 비조판 전각공백270만 남는다. 자매 항목 E004a는 판면 좌표가 직접 대응하지 않고 공개 전문도 같은 결락을 공유하므로 신규 확정 없음."
     },
     "E/E004a.txt": {
       "collation_status": "complete",
@@ -220,9 +220,9 @@
     },
     "E/E006.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 226,
+      "unresolved_candidates": 576,
       "punctuation_status": "source_present",
-      "note": "최신 review status 기준 미확정 226좌표. 과거 감사표의 234좌표 이후 8 occurrence가 shard에 추가된 상태다. `疑古食品之HT`는 검색 가능한 독립 전사에서 확정자를 얻지 못했고, 추측 복원은 배제했다. 기존 E shard의 95개 적용 규칙을 대체하지 않는 신규분만 조사했다."
+      "note": "독립 《溫熱經緯》 전사와 해설로 유일한 HT·KT를 모두 확정했다. 남은 전각 공백은 별도 결락 좌표로 보류한다."
     },
     "D/D049.txt": {
       "collation_status": "in_progress",
@@ -336,7 +336,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 261,
       "punctuation_status": "source_present",
-      "note": "기존 correction shard 112규칙은 현재 출력에 반영되어 있다. 남은 □ 173자와 비조판 전각 공백 88자는 공개 jicheng 전사도 동일 결락을 보존하고, 후반부에는 문장 단위 연속 결락이 있어 독립 판면 없이 확정하지 않았다. 신규 규칙 0개이므로 기존 규칙과 중첩·경고 없음."
+      "note": "□173자는 여러 문장에 걸친 장문 유실로 단일 글자 결락이 아님. 일부 어구 추정만으로 행 전체를 복원할 수 없어 영인 대조 전 보류. FW89. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 261자리로 유지한다."
     },
     "C/C018.txt": {
       "collation_status": "in_progress",
@@ -346,9 +346,9 @@
     },
     "B/B104.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 265,
+      "unresolved_candidates": 261,
       "punctuation_status": "source_present",
-      "note": "기존 correction shard 106규칙(초기 102규칙과 후속 KT 8자 복원 규칙 포함)은 현재 출력에 반영되어 HT·KT가 0이다. 남은 비조판 공백 265자는 공개 jicheng 전사가 같은 결락을 공유하며 독립 판면 좌표 없이 확정할 수 없다. 신규 규칙 0개이므로 중첩·경고 없음."
+      "note": "marker 잔여는 원래 0. FW796 중 동일 金匱 처방 정문으로 확정되는 黃耆 4 occurrence만 제안. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 261자리로 유지한다."
     },
     "B/B105.txt": {
       "collation_status": "in_progress",
@@ -3070,9 +3070,9 @@
     },
     "B/B019.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 252,
+      "unresolved_candidates": 248,
       "punctuation_status": "source_present",
-      "note": "현 문서에는 HT/KT/□/PUA가 남지 않았고, 과거 감사표 이후 shard가 64규칙으로 늘었다. 최신 review status의 미확정 비조판 전각공백 후보 252좌표가 남는다. 현재 문서에서 occurrence-고유하게 확정할 신규 규칙은 제안하지 않는다."
+      "note": "marker 잔여는 원래 0. 전각 공백 798개 중 고전 유주·병명으로 확정되는 3개 문맥만 복원. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 248자리로 유지한다."
     },
     "B/B023.txt": {
       "collation_status": "in_progress",
@@ -3124,9 +3124,9 @@
     },
     "A/A202.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 223,
+      "unresolved_candidates": 258,
       "punctuation_status": "source_present",
-      "note": "기존 A shard 236규칙을 유지하고 신규 5규칙으로 결자 좌표 8개(전각공백 2, HT 1, KT 5)를 해소하는 증분안이다. 최신 review status 231좌표에서 8을 차감했다. 다른 HT/KT는 평행문 대조가 더 필요하다."
+      "note": "《靈樞》 독립 전사와 직접 인용으로 11개 고유 규칙을 확정했다. 나머지는 희귀자·평문 고유 표현과 다수 전각 공백이 혼재하여 직접 영인 판독 전 보류한다."
     },
     "A/A000.txt": {
       "collation_status": "in_progress",
@@ -3850,9 +3850,9 @@
     },
     "M/M100.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 278,
+      "unresolved_candidates": 270,
       "punctuation_status": "source_present",
-      "note": "최신 shard 8규칙을 유지하는 신규 8규칙. review status 292에서 HT 1자리와 KT 13자리(䀮 8, 䐃 1, 几 4)를 해소해 278. 다른 특수표지는 이체자 판독이 불충분해 보류."
+      "note": "최신 잔여278에서 背膂 4좌표, 惡 1좌표, 𠘧 2좌표, 䍽 1좌표 등 8좌표를 추가 확정했다. `五月枯HT` 등은 기존 규칙과 중첩하므로 제안에서 제외했다. 신규 문맥은 기존16규칙과 중첩하지 않는다."
     },
     "M/M100a.txt": {
       "collation_status": "complete",
@@ -4198,9 +4198,9 @@
     },
     "O/O088.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 239,
+      "unresolved_candidates": 233,
       "punctuation_status": "source_present",
-      "note": "기존 O shard 77규칙을 대체하지 않는 신규 5규칙이며 총 8좌표(전각공백 1, HT 1, KT 6)를 해소한다. 최신 review status 247좌표에서 차감. `人有KT肉` 등 독립 자형 확증이 부족한 곳은 보류했다. 동명 이중 폴더 중 실제 원자료 계보인 `醫旨緒餘(O088)`를 검사했다."
+      "note": "실제 대상 폴더가 醫旨緒余/醫旨緒餘 두 사본으로 중복 존재함. 표식이 더 많은 緒余 출력 기준 HT6·KT7 중 KT4자를 확정; 나머지 희귀 인용은 보류. FW701. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 233자리로 유지한다."
     },
     "O/O089.txt": {
       "collation_status": "in_progress",
@@ -4248,7 +4248,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 222,
       "punctuation_status": "source_present",
-      "note": "현재 numbered Markdown 표면 재계수는 전각 공백0·HT0·KT0·□0·BMP PUA0·리터럴[c]0이다. 다만 변환 전 원자료의 레거시 [c] 코드 중 기존5개 반복 규칙이159 occurrence를 실자로 바꾸고, 대응 미확정 코드 좌표222는 출력 과정에서 표면 표식 없이 보존되는 감사 대상이다. 코드 대응표나 영인 좌표 없이 신규 제안하지 않았다. 기존5개 규칙 applied=5/5, warnings=0, overlaps=0."
+      "note": "legacy [c] 표지 222개는 35종 창힐형 코드로 남아 있다. 동일 코드의 모든 문맥을 확정할 외자표·영인 대조가 부족하여 이번 배치에는 추정 치환을 제안하지 않았다."
     },
     "O/O128.txt": {
       "collation_status": "complete",
@@ -4308,7 +4308,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 268,
       "punctuation_status": "source_present",
-      "note": "기존 correction shard 7규칙은 현재 출력에 반영되어 있다. 잔여는 28종 PUA 268자뿐이다. 위키문헌·공개 영인·평행 혈명에서 일부 후보(예: 郄·髎·啞·囟·痓)를 확인했지만, 원 배포 외자표 없이 코드 단위 전역 매핑하면 서로 다른 occurrence를 합칠 위험이 있고 268곳 각각의 고유 문맥 규칙을 독립 검증하지 못했으므로 신규 치환을 제안하지 않는다. 신규 규칙 0개로 중첩·경고 없음."
+      "note": "잔여 28종 PUA 268자를 재좌표화했으나 동일 코드가 다수 문맥에 걸쳐 있고 배포 외자표가 없어 전역 매핑을 검증할 수 없다. occurrence별 독립 판독도 이번 감사에서 추가 확정되지 않아 보류한다."
     },
     "P/P0100.txt": {
       "collation_status": "in_progress",

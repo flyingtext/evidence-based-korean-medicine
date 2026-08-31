@@ -846,5 +846,29 @@
     "reason": "葛根湯 조문의 희귀자 두 글자다.",
     "evidence_url": "https://ftcmp.co.uk/wp-content/uploads/2021/06/%E8%8B%B1%E5%9B%BD%E4%B8%AD%E5%8C%BB2020.02-1.pdf",
     "evidence_note": "독립 문헌 인용에서 `項背強几几`가 확인되며, 원형 이체자는 저장소 기존 교정과 동일하게 `𠘧𠘧`으로 기록한다."
+  },
+  {
+    "before": "防己（三兩）　黃　（三兩）　桂枝",
+    "after": "防己（三兩）　黃耆（三兩）　桂枝",
+    "expected_count": 1,
+    "reason": "防己茯苓湯의 정문 약재 黃耆."
+  },
+  {
+    "before": "宜　芍桂酒湯主之",
+    "after": "宜黃耆芍桂酒湯主之",
+    "expected_count": 1,
+    "reason": "《金匱要略》 黃耆芍藥桂枝苦酒湯 조문과 바로 뒤 방제명."
+  },
+  {
+    "before": "黃　芍藥桂枝苦酒湯方",
+    "after": "黃耆芍藥桂枝苦酒湯方",
+    "expected_count": 1,
+    "reason": "바로 아래 처방 구성과 일치하는 방제 정식 명칭."
+  },
+  {
+    "before": "黃　（五兩）　芍藥（三兩）",
+    "after": "黃耆（五兩）　芍藥（三兩）",
+    "expected_count": 1,
+    "reason": "黃耆芍藥桂枝苦酒湯의 첫 약재 黃耆."
   }
 ]

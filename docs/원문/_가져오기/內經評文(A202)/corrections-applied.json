@@ -1916,5 +1916,93 @@
     "after": "此所謂候歲之風。賊傷人者也",
     "expected_count": 1,
     "evidence": "《靈樞·歲露論》의 동일 문장 此所謂候歲之風賊傷人者也."
+  },
+  {
+    "before": "腸胃HT　辟。皮膚薄著。毛腠天　。",
+    "after": "腸胃㒤辟。皮膚薄著。毛腠夭焦。",
+    "expected_count": 1,
+    "reason": "〈終始〉의 정문이다.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001216093",
+    "evidence_note": "독립 논문 인용과 영인 계통에 `腸胃㒤辟，皮膚薄著，毛腠夭焦`로 확인."
+  },
+  {
+    "before": "取天柱。HT　癉。內逆",
+    "after": "取天柱。腹癉。內逆",
+    "expected_count": 1,
+    "reason": "〈寒熱病〉의 병증 `腹癉`이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9D%88%E6%A8%9E%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD",
+    "evidence_note": "독립 《靈樞經》 평행문으로 확인."
+  },
+  {
+    "before": "灸骨二十壯。風逆HT　。四肢腫",
+    "after": "灸骨二十壯。風逆暴。四肢腫",
+    "expected_count": 1,
+    "reason": "〈癲狂〉의 정문 `風逆暴四肢腫`이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9D%88%E6%A8%9E%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD",
+    "evidence_note": "독립 《靈樞經》 평행문으로 확인."
+  },
+  {
+    "before": "厥逆為病也。足HT　清。胸若將裂",
+    "after": "厥逆為病也。足逆清。胸若將裂",
+    "expected_count": 1,
+    "reason": "厥逆 병증의 정문 `足逆清`이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9D%88%E6%A8%9E%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD",
+    "evidence_note": "독립 《靈樞經》 평행문으로 확인."
+  },
+  {
+    "before": "熱病頭痛。顳　目HT　。脈痛。善衄",
+    "after": "熱病頭痛。顳顬目𤸪。脈痛。善衄",
+    "expected_count": 1,
+    "reason": "〈熱病〉의 정문 `顳顬目𤸪`이다.",
+    "evidence_url": "https://brill.com/view/journals/bcl/12/2/article-p149_149.pdf",
+    "evidence_note": "독립 논문의 원문 인용으로 희귀자 𤸪까지 확인."
+  },
+  {
+    "before": "氣下乃止。心疝。HT　痛。取足太陰厥陰",
+    "after": "氣下乃止。心疝。暴痛。取足太陰厥陰",
+    "expected_count": 1,
+    "reason": "〈熱病〉의 정문 `心疝暴痛`이다.",
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART002134408",
+    "evidence_note": "독립 논문과 평행문으로 확인."
+  },
+  {
+    "before": "厥胸滿。面腫。唇漯漯。HT　言難。甚則不能言",
+    "after": "厥胸滿。面腫。唇漯漯然。暴言難。甚則不能言",
+    "expected_count": 1,
+    "reason": "〈雜病〉의 정문 `唇漯漯然，暴言難`이다.",
+    "evidence_url": "https://www.ocf.berkeley.edu/~darvard/CMBook2.pdf",
+    "evidence_note": "독립 원문 전사에서 문장 전체를 확인."
+  },
+  {
+    "before": "厥而腹向向然。多寒氣。腹中HT　HT　。\n\n便溲難",
+    "after": "厥而腹向向然。多寒氣。腹中穀穀。\n\n便溲難",
+    "expected_count": 1,
+    "reason": "〈雜病〉의 정문 `腹中穀穀`이다.",
+    "evidence_url": "https://www11.ihp.sinica.edu.tw/storage/w2_file/3127nvyWhap.pdf",
+    "evidence_note": "중앙연구원 논문의 《靈樞·雜病》 직접 인용으로 확인."
+  },
+  {
+    "before": "又無怵HT　之恐。然不免於病者",
+    "after": "又無怵惕之恐。然不免於病者",
+    "expected_count": 1,
+    "reason": "〈本藏〉의 정문 `怵惕之恐`이다.",
+    "evidence_url": "https://www.arteducation.com.tw/guwen/bookv_1091.html",
+    "evidence_note": "독립 전사에서 동일 문장을 확인."
+  },
+  {
+    "before": "摩灸熨刺KT　飲藥之一者",
+    "after": "摩灸熨刺焫飲藥之一者",
+    "expected_count": 1,
+    "reason": "〈病傳〉의 치료법 열거 중 火鍼을 뜻하는 `刺焫`이다.",
+    "evidence_url": "https://www.moshuyuan.com/zh-tw/chapter/zibu/huang-di-nei-jing/xia-juan-ling-shu-pian-bing-chuan.html",
+    "evidence_note": "독립 원문·번역 계통의 치료법 열거로 확인."
+  },
+  {
+    "before": "陽氣盛則夢大火而燔KT　。陰陽俱盛",
+    "after": "陽氣盛則夢大火而燔灼。陰陽俱盛",
+    "expected_count": 1,
+    "reason": "〈淫邪發夢〉의 정문 `夢大火而燔灼`이다.",
+    "evidence_url": "https://www.ihp.sinica.edu.tw/~linfs/fslin/tiger%24dream.PDF",
+    "evidence_note": "중앙연구원 논문의 직접 인용으로 확인."
   }
 ]

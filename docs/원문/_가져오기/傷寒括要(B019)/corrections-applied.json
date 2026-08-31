@@ -510,5 +510,23 @@
     "evidence_url": "https://www.tcmxs.com/showrepost-84-5642.html",
     "evidence_note": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다.",
     "reason": "바로 앞 주석의 几几 표기를 재사용한 葛根湯 조문이다."
+  },
+  {
+    "before": "誤作發　。（發　多見於胸腹",
+    "after": "誤作發斑。（發斑多見於胸腹",
+    "expected_count": 1,
+    "reason": "蚊跡과 감별하는 정형 병명 發斑이 뒤에서 반복됨."
+  },
+  {
+    "before": "其經起於目銳　。上頭角",
+    "after": "其經起於目銳眥。上頭角",
+    "expected_count": 1,
+    "reason": "족소양담경 유주의 정문 ‘起於目銳眥’."
+  },
+  {
+    "before": "或痞滿燥實。　黃狂閉揭去衣被",
+    "after": "或痞滿燥實。發黃狂閉揭去衣被",
+    "expected_count": 1,
+    "reason": "양명 이증 열거의 정형 병후 發黃."
   }
 ]
