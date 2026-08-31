@@ -356,5 +356,215 @@
     "expected_count": 4,
     "reason": "코드 KYTR 4회가 㾦瘰·肉㾦·膚㾦의 병증 문맥으로 고정되고 Unihan KYTR=㾦 및 공개 전사가 일치한다.",
     "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FA6; https://jicheng.tw/tcm/book/千金翼方/index.html"
+  },
+  {
+    "before": "羊[c]bsll[/c]",
+    "after": "羊胰",
+    "expected_count": 2,
+    "reason": "具 단위와 지방·수질을 씻는 처방 문맥상 羊胰이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "菥[c]tbmk[/c]",
+    "after": "菥蓂",
+    "expected_count": 8,
+    "reason": "본초명 菥蓂 및 菥蓂子의 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "一名鼠[c]tbmk[/c]一名薑芥",
+    "after": "一名鼠蓂一名薑芥",
+    "expected_count": 1,
+    "reason": "假蘇의 이명 鼠蓂이며 이어지는 薑芥와 병렬된다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "蝦[c]liijc[/c]",
+    "after": "蝦蟆",
+    "expected_count": 7,
+    "reason": "蝦蟆를 약재 또는 주술 동물명으로 쓴 일곱 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]mtyj[/c]",
+    "after": "斗",
+    "expected_count": 8,
+    "reason": "貳斗伍升·水貳斗·壹斗柒升 등 용량 단위 문맥이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]pma[/c]山",
+    "after": "恒山",
+    "expected_count": 5,
+    "reason": "처방 약명 恒山의 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]pma[/c] 山",
+    "after": "恒 山",
+    "expected_count": 1,
+    "reason": "전각이 아닌 원래 반각 띄어쓰기를 유지한 恒山 약명이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "蒺[c]thnd[/c]",
+    "after": "蒺藜",
+    "expected_count": 5,
+    "reason": "蒺藜 및 蒺藜子의 반복 약명이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "角[c]nbwp[/c]",
+    "after": "角䚡",
+    "expected_count": 6,
+    "reason": "牛角䚡·羊角䚡 및 角䚡末의 반복 약재명이며 코드 NBWP의 유니코드 후보도 䚡이다.",
+    "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "四[c]temb[/c]",
+    "after": "四滿",
+    "expected_count": 2,
+    "reason": "족소음경 혈명 四滿의 위치 설명이 두 번 반복된다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "承[c]temb[/c]",
+    "after": "承滿",
+    "expected_count": 2,
+    "reason": "족양명위경 혈명 承滿의 위치 설명이 두 번 반복된다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]wwmmm[/c]茹",
+    "after": "䕡茹",
+    "expected_count": 2,
+    "reason": "본초 및 독약 목록의 약명 䕡茹이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]wwmmm[/c]蟲",
+    "after": "䗪蟲",
+    "expected_count": 4,
+    "reason": "熬하여 쓰는 약재 䗪蟲의 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]wwmmm[/c]譆",
+    "after": "噫譆",
+    "expected_count": 1,
+    "reason": "등의 혈명 噫譆이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]ebou[/c]",
+    "after": "淫",
+    "expected_count": 4,
+    "reason": "浸淫·浸淫瘍이라는 피부병 고정어의 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]dtof[/c]",
+    "after": "荼",
+    "expected_count": 3,
+    "reason": "茗苦荼·苦荼의 본초명 반복이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]gehd[/c][c]gehd[/c]汗出",
+    "after": "漐漐汗出",
+    "expected_count": 1,
+    "reason": "《傷寒論》 양명병 평행문 ‘手足漐漐汗出’과 일치한다.",
+    "evidence": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E9%99%BD%E6%98%8E%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB"
+  },
+  {
+    "before": "[c]wfnwa[/c]",
+    "after": "黶",
+    "expected_count": 2,
+    "reason": "皯黶 및 面皯黶은 얼굴의 검은 반점을 뜻하는 고정 병명이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]kdam[/c]",
+    "after": "㾴",
+    "expected_count": 2,
+    "reason": "面㾴 및 酒㾴鼻의 피부병명이며 기존 자매 교정과 동일하다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]sjyiu[/c][c]sjyiu[/c]風淚出",
+    "after": "䀮䀮風淚出",
+    "expected_count": 1,
+    "reason": "눈이 흐릿한 상태를 나타내는 䀮䀮의 중첩어이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]tqjr[/c]羊角",
+    "after": "羚羊角",
+    "expected_count": 2,
+    "reason": "처방명과 약재명이 연속된 羚羊角이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]kcwa[/c][c]kcwa[/c]",
+    "after": "𤺧𤺧",
+    "expected_count": 1,
+    "reason": "종통의 모습을 나타내는 중첩어이며 기존 교정 자료의 동일 코드 판독과 일치한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]mrtvp[/c]石",
+    "after": "礠石",
+    "expected_count": 2,
+    "reason": "금창에 가루 내어 바르는 광물 약재 礠石이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]brhr[/c]上",
+    "after": "膂上",
+    "expected_count": 1,
+    "reason": "등에 화살이 박힌 부위인 膂上이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "摩[c]brhr[/c]去表肋間",
+    "after": "摩膂去表肋間",
+    "expected_count": 1,
+    "reason": "등뼈 안쪽을 더듬는 침구 위치 문맥상 膂이다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]rck[/c]微欲絕",
+    "after": "脈微欲絕",
+    "expected_count": 1,
+    "reason": "《傷寒論》 사역탕증의 고정문 ‘脈微欲絕’이다.",
+    "evidence": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96"
+  },
+  {
+    "before": "[c]romm[/c][c]romm[/c]",
+    "after": "噏噏",
+    "expected_count": 1,
+    "reason": "심열의 증상을 나타내는 중첩어이며 ROMM의 유니코드 倉頡 후보는 噏이다.",
+    "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "[c]vfohg[/c]之，展卻汁令乾",
+    "after": "絍之，展卻汁令乾",
+    "expected_count": 1,
+    "reason": "종이끈을 꼬아 처리하는 동사 絍이며 코드 VFOHG의 유니코드 후보와 일치한다.",
+    "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "[c]bwhd[/c]肉端",
+    "after": "䐃肉端",
+    "expected_count": 1,
+    "reason": "臂臑 혈의 해부 위치를 나타내는 䐃肉端이며 기존 교정 자료와 코드가 일치한다.",
+    "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "[c]tnle[/c]翹草",
+    "after": "連翹草",
+    "expected_count": 1,
+    "reason": "癰 치료에 쓰는 連翹草 및 그 뿌리 문맥이다.",
+    "evidence": "source/D/D002.txt"
   }
 ]

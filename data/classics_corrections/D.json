@@ -16584,6 +16584,324 @@
       "after": "𪒟",
       "expected_count": 17,
       "evidence": "倉頡 코드 wfcwa. 17회 모두 䵟 뒤의 피부 병변 𪒟이며 공개본 五香散의 ‘治䵟疱黶𪒟’과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]aub[/c]",
+      "after": "䐴",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=AUB의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bfh[/c]",
+      "after": "䏚",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BFH의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bhdf[/c]",
+      "after": "䐐",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BHDF의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "䐜",
+      "expected_count": 11,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BJBC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bjbm[/c]",
+      "after": "䐈",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BJBM의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bnl[/c]",
+      "after": "䏖",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BNL의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bppg[/c]",
+      "after": "䏶",
+      "expected_count": 7,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BPPG의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]butwi[/c]",
+      "after": "䁾",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BUTWI의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]bwhd[/c]",
+      "after": "䐃",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=BWHD의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ddoe[/c]",
+      "after": "㯃",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=DDOE의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]dsuu[/c]",
+      "after": "㭾",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=DSUU의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ebuc[/c]",
+      "after": "浿",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=EBUC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]eyid[/c]",
+      "after": "㳿",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=EYID의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]fhaf[/c]",
+      "after": "䲴",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=FHAF의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]fiok[/c]",
+      "after": "㶼",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=FIOK의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]fka[/c]",
+      "after": "暼",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=FKA의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ghni[/c]",
+      "after": "堸",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=GHNI의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]gino[/c]",
+      "after": "㰦",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=GINO의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]hhlmo[/c]",
+      "after": "䠷",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=HHLMO의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]hnwgf[/c]",
+      "after": "䵩",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=HNWGF의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]hxhnq[/c]",
+      "after": "䑕",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=HXHNQ의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]itfi[/c]",
+      "after": "䗪",
+      "expected_count": 34,
+      "evidence": "Unicode 17.0 Unihan kCangjie=ITFI의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]jcpkp[/c]",
+      "after": "䆫",
+      "expected_count": 19,
+      "evidence": "Unicode 17.0 Unihan kCangjie=JCPKP의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]khpu[/c]",
+      "after": "㹠",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KHPU의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]khuc[/c]",
+      "after": "㿗",
+      "expected_count": 32,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KHUC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]khvo[/c]",
+      "after": "㽿",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KHVO의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KMVS의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]koln[/c]",
+      "after": "㓨",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KOLN의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kppa[/c]",
+      "after": "㾬",
+      "expected_count": 10,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KPPA의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kwmv[/c]",
+      "after": "㾯",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KWMV의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kwww[/c]",
+      "after": "㿔",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KWWW의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kyav[/c]",
+      "after": "㾼",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KYAV의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]kytr[/c]",
+      "after": "㾦",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=KYTR의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]lbb[/c]",
+      "after": "䙀",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=LBB의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]litav[/c]",
+      "after": "䗶",
+      "expected_count": 4,
+      "evidence": "Unicode 17.0 Unihan kCangjie=LITAV의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]llhsb[/c]",
+      "after": "牖",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=LLHSB의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]mrtvp[/c]",
+      "after": "礠",
+      "expected_count": 7,
+      "evidence": "Unicode 17.0 Unihan kCangjie=MRTVP의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]nbwp[/c]",
+      "after": "䚡",
+      "expected_count": 5,
+      "evidence": "Unicode 17.0 Unihan kCangjie=NBWP의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]nfbm[/c]",
+      "after": "䱉",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=NFBM의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]nup[/c]",
+      "after": "怨",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=NUP의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]oijbf[/c]",
+      "after": "𩟔",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=OIJBF의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ouypu[/c]",
+      "after": "𧇍",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=OUYPU의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]oylc[/c]",
+      "after": "㑊",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=OYLC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]qlnc[/c]",
+      "after": "㩌",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=QLNC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]qomm[/c]",
+      "after": "捡",
+      "expected_count": 2,
+      "evidence": "Unicode 17.0 Unihan kCangjie=QOMM의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]tcip[/c]",
+      "after": "䓗",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=TCIP의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]tmnm[/c]",
+      "after": "薤",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=TMNM의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]ufno[/c]",
+      "after": "㱁",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=UFNO의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]uumbc[/c]",
+      "after": "䪼",
+      "expected_count": 3,
+      "evidence": "Unicode 17.0 Unihan kCangjie=UUMBC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]vohg[/c]",
+      "after": "姙",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=VOHG의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]yobuc[/c]",
+      "after": "賌",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=YOBUC의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]yrmlm[/c]",
+      "after": "䛩",
+      "expected_count": 1,
+      "evidence": "Unicode 17.0 Unihan kCangjie=YRMLM의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "[c]yvlmi[/c]",
+      "after": "䖟",
+      "expected_count": 17,
+      "evidence": "Unicode 17.0 Unihan kCangjie=YVLMI의 유일 대응 문자이며, D025 자매본과 Jicheng 《備急千金要方》의 해당 처방·병증 문맥을 대조해 일치함을 확인했다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip ; https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
     }
   ],
   "D/D023.txt": [
@@ -41438,6 +41756,265 @@
       "expected_count": 4,
       "reason": "코드 KYTR 4회가 㾦瘰·肉㾦·膚㾦의 병증 문맥으로 고정되고 Unihan KYTR=㾦 및 공개 전사가 일치한다.",
       "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FA6; https://jicheng.tw/tcm/book/千金翼方/index.html"
+    },
+    {
+      "before": "[c]ukb[/c]",
+      "after": "胸",
+      "expected_count": 57,
+      "reason": "잔여 57례가 모두 胸滿·胸脅·胸中·胸背·胸堂 등 고정 신체어를 이룬다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]lbe[/c]",
+      "after": "肉",
+      "expected_count": 23,
+      "reason": "羊肉·鹿肉·麞肉 및 煮肉/去肉의 연속 처방군이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "豬[c]bsll[/c]",
+      "after": "豬胰",
+      "expected_count": 7,
+      "reason": "具 단위와 挼汁·和麵·煮爛 문맥은 약용 돼지 췌장인 豬胰이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "羊[c]bsll[/c]",
+      "after": "羊胰",
+      "expected_count": 2,
+      "reason": "具 단위와 지방·수질을 씻는 처방 문맥상 羊胰이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]kjjh[/c]",
+      "after": "疹",
+      "expected_count": 14,
+      "reason": "전례가 癮疹·風疹의 병명 및 처방 제목이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]cimvn[/c]",
+      "after": "瓮",
+      "expected_count": 13,
+      "reason": "盛之·瓮底·瓮口·不津瓮 등 양조 용기 문맥이 연속된다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]jcpkp[/c]",
+      "after": "窗",
+      "expected_count": 11,
+      "reason": "目窗·天窗 혈명으로만 나타나는 연속 침구 문맥이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]khpu[/c]",
+      "after": "豚",
+      "expected_count": 10,
+      "reason": "豚卵·賁豚·奔豚 및 돼지고기 금기 문맥으로 전례가 확정된다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "菥[c]tbmk[/c]",
+      "after": "菥蓂",
+      "expected_count": 8,
+      "reason": "본초명 菥蓂 및 菥蓂子의 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "一名鼠[c]tbmk[/c]一名薑芥",
+      "after": "一名鼠蓂一名薑芥",
+      "expected_count": 1,
+      "reason": "假蘇의 이명 鼠蓂이며 이어지는 薑芥와 병렬된다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "蝦[c]liijc[/c]",
+      "after": "蝦蟆",
+      "expected_count": 7,
+      "reason": "蝦蟆를 약재 또는 주술 동물명으로 쓴 일곱 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]mtyj[/c]",
+      "after": "斗",
+      "expected_count": 8,
+      "reason": "貳斗伍升·水貳斗·壹斗柒升 등 용량 단위 문맥이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]pma[/c]山",
+      "after": "恒山",
+      "expected_count": 5,
+      "reason": "처방 약명 恒山의 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]pma[/c] 山",
+      "after": "恒 山",
+      "expected_count": 1,
+      "reason": "전각이 아닌 원래 반각 띄어쓰기를 유지한 恒山 약명이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "蒺[c]thnd[/c]",
+      "after": "蒺藜",
+      "expected_count": 5,
+      "reason": "蒺藜 및 蒺藜子의 반복 약명이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "角[c]nbwp[/c]",
+      "after": "角䚡",
+      "expected_count": 6,
+      "reason": "牛角䚡·羊角䚡 및 角䚡末의 반복 약재명이며 코드 NBWP의 유니코드 후보도 䚡이다.",
+      "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+    },
+    {
+      "before": "四[c]temb[/c]",
+      "after": "四滿",
+      "expected_count": 2,
+      "reason": "족소음경 혈명 四滿의 위치 설명이 두 번 반복된다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "承[c]temb[/c]",
+      "after": "承滿",
+      "expected_count": 2,
+      "reason": "족양명위경 혈명 承滿의 위치 설명이 두 번 반복된다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]wwmmm[/c]茹",
+      "after": "䕡茹",
+      "expected_count": 2,
+      "reason": "본초 및 독약 목록의 약명 䕡茹이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]wwmmm[/c]蟲",
+      "after": "䗪蟲",
+      "expected_count": 4,
+      "reason": "熬하여 쓰는 약재 䗪蟲의 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]wwmmm[/c]譆",
+      "after": "噫譆",
+      "expected_count": 1,
+      "reason": "등의 혈명 噫譆이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]ebou[/c]",
+      "after": "淫",
+      "expected_count": 4,
+      "reason": "浸淫·浸淫瘍이라는 피부병 고정어의 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]dtof[/c]",
+      "after": "荼",
+      "expected_count": 3,
+      "reason": "茗苦荼·苦荼의 본초명 반복이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]gehd[/c][c]gehd[/c]汗出",
+      "after": "漐漐汗出",
+      "expected_count": 1,
+      "reason": "《傷寒論》 양명병 평행문 ‘手足漐漐汗出’과 일치한다.",
+      "evidence": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96/%E8%BE%A8%E9%99%BD%E6%98%8E%E7%97%85%E8%84%88%E8%AD%89%E4%B8%A6%E6%B2%BB"
+    },
+    {
+      "before": "[c]wfnwa[/c]",
+      "after": "黶",
+      "expected_count": 2,
+      "reason": "皯黶 및 面皯黶은 얼굴의 검은 반점을 뜻하는 고정 병명이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]kdam[/c]",
+      "after": "㾴",
+      "expected_count": 2,
+      "reason": "面㾴 및 酒㾴鼻의 피부병명이며 기존 자매 교정과 동일하다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]sjyiu[/c][c]sjyiu[/c]風淚出",
+      "after": "䀮䀮風淚出",
+      "expected_count": 1,
+      "reason": "눈이 흐릿한 상태를 나타내는 䀮䀮의 중첩어이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]tqjr[/c]羊角",
+      "after": "羚羊角",
+      "expected_count": 2,
+      "reason": "처방명과 약재명이 연속된 羚羊角이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]kcwa[/c][c]kcwa[/c]",
+      "after": "𤺧𤺧",
+      "expected_count": 1,
+      "reason": "종통의 모습을 나타내는 중첩어이며 기존 교정 자료의 동일 코드 판독과 일치한다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]mrtvp[/c]石",
+      "after": "礠石",
+      "expected_count": 2,
+      "reason": "금창에 가루 내어 바르는 광물 약재 礠石이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]brhr[/c]上",
+      "after": "膂上",
+      "expected_count": 1,
+      "reason": "등에 화살이 박힌 부위인 膂上이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "摩[c]brhr[/c]去表肋間",
+      "after": "摩膂去表肋間",
+      "expected_count": 1,
+      "reason": "등뼈 안쪽을 더듬는 침구 위치 문맥상 膂이다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]rck[/c]微欲絕",
+      "after": "脈微欲絕",
+      "expected_count": 1,
+      "reason": "《傷寒論》 사역탕증의 고정문 ‘脈微欲絕’이다.",
+      "evidence": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96"
+    },
+    {
+      "before": "[c]romm[/c][c]romm[/c]",
+      "after": "噏噏",
+      "expected_count": 1,
+      "reason": "심열의 증상을 나타내는 중첩어이며 ROMM의 유니코드 倉頡 후보는 噏이다.",
+      "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+    },
+    {
+      "before": "[c]vfohg[/c]之，展卻汁令乾",
+      "after": "絍之，展卻汁令乾",
+      "expected_count": 1,
+      "reason": "종이끈을 꼬아 처리하는 동사 絍이며 코드 VFOHG의 유니코드 후보와 일치한다.",
+      "evidence": "https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+    },
+    {
+      "before": "[c]bwhd[/c]肉端",
+      "after": "䐃肉端",
+      "expected_count": 1,
+      "reason": "臂臑 혈의 해부 위치를 나타내는 䐃肉端이며 기존 교정 자료와 코드가 일치한다.",
+      "evidence": "source/D/D002.txt"
+    },
+    {
+      "before": "[c]tnle[/c]翹草",
+      "after": "連翹草",
+      "expected_count": 1,
+      "reason": "癰 치료에 쓰는 連翹草 및 그 뿌리 문맥이다.",
+      "evidence": "source/D/D002.txt"
     }
   ],
   "D/D063.txt": [

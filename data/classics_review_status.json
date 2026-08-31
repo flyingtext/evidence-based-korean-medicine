@@ -276,9 +276,11 @@
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 354,
+      "unresolved_candidates": 146,
       "punctuation_status": "source_present",
-      "note": "[c] 표식 전수 집계는 총 1621회·135코드다. 확정 6코드/1267회: rck=㕮(1069), buyvu=䀮(68), tanr=䕡(46), srlmi=䘌(37), wfmj=䵟(30), wfcwa=𪒟(17). 전체 코드별 횟수: abq:1, anrrl:3, aub:3, bbapv:9, bbwl:1, bbyut:1, bfh:2, bhdf:2, bjbc:11, bjbm:1, bnl:1, bppg:7, brhr:4, bsll:2, butwi:3, buylc:3, buyvu:68, bwhd:2, cakn:1, ceii:1, cyta:1, ddoe:3, deice:4, dsuu:1, ebuc:1, ejce:1, elwo:1, emfi:2, eyid:1, eyra:3, fdir:7, fhaf:1, fiok:1, fjii:1, fka:1, ggj:1, ghni:1, gino:2, hanj:1, hhhk:1, hhlmo:1, hmobo:1, hnwgf:1, htln:1, htmjk:1, hxhnq:1, iflii:3, itfi:34, jcpkp:19, jdmbc:1, je:1, jjm:2, jntt:1, kdam:4, kddd:1, ke:1, khem:11, khlo:1, khoo:2, khpu:1, khsb:3, khuc:32, khvc:1, khvo:1, kjjh:1, klwp:1, kmvs:1, koln:1, kppa:10, ksrb:1, kwmv:1, kwww:3, kyav:1, kytr:3, lbb:1, liijc:4, liklu:2, lisew:1, litaa:1, litav:4, llhsb:1, lphn:2, mrbhg:1, mrtvp:7, nbwp:5, nfbm:2, nimt:1, nup:1, oijbf:1, ouypu:2, oylc:1, plk:1, pma:2, ptcl:1, qlnc:1, qomm:2, qyki:1, rck:1069, rgno:1, rll:2, rmomm:1, rmyiu:1, rmypb:4, rsav:4, rwr:1, shahu:1, shoir:1, smfli:1, srlmi:37, tanr:46, tble:1, tbmk:3, tcip:1, thdb:2, thob:2, tia:1, tjmp:1, tkg:1, tmnm:1, tmso:1, tqjr:2, trrv:1, tthaf:1, tvo:2, tyjc:1, ufno:1, uumbc:3, vohg:1, wfcwa:17, wfmj:30, wfmjk:1, yobuc:1, yrmlm:1, ysf:5, yvlmi:17. 나머지 129코드/354회는 자매본이 공백·KT로 남거나 대응 정렬이 불충분하여 보류했다. 현 1621에서 확정 출현 1267회만 차감했다."
+      "note": "기존 6개 규칙을 CRLF 정규화 후 순차 적용하면 129코드 354좌표가 남는다. Unicode 17.0 Unihan kCangjie에서 코드가 단 하나의 문자로 역해석되고 D025/천금방 문맥과 모순이 없는 53코드 208좌표만 확정했다. 복수 후보 또는 Unihan 미등재인 76코드 146좌표는 희귀 원자형 추정을 피하기 위해 보류했다. 기존 6개 규칙은 모두 기대 횟수대로 적용되어 remove_rules 대상이 없었다. 전각 공백은 유지했다.",
+      "remaining_count": 146,
+      "status": "in_progress"
     },
     "D/D004a.txt": {
       "collation_status": "in_progress",
@@ -3482,9 +3484,11 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 337,
+      "unresolved_candidates": 119,
       "punctuation_status": "source_present",
-      "note": "correction shard에 이미 존재하는 코드는 제외했다. 신규 6코드의 전 출현 126좌표만 자매본 D002·공개 《千金翼方》·Unihan으로 확정하여 현 status 463에서 차감했다. 다른 코드는 동코드 이자·판본 공백 또는 문맥 불일치 가능성 때문에 보류한다."
+      "note": "기존 51개 교정을 순차 적용한 뒤 잔여 [c] 좌표 337개를 재집계했다. 이 중 문맥·자매본·공개 평행문·유니코드 kCangjie로 안전하게 확정되는 218좌표를 해소한다. 코드가 같아도 문맥별 정규자가 달라지는 사례는 일괄 치환하지 않았고, 전각 공백은 변경·집계하지 않았다.",
+      "remaining_count": 119,
+      "status": "in_progress"
     },
     "D/D018.txt": {
       "collation_status": "in_progress",

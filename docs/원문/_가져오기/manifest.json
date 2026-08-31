@@ -2933,9 +2933,17 @@
       "output_directory": "千金翼方(D002a)",
       "markdown_files": 30,
       "translation_units": 212,
-      "corrections_applied": 51,
+      "corrections_applied": 81,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '[c]cimvn[/c]' (16/13)",
+        "교정 불일치: '[c]jcpkp[/c]' (15/11)",
+        "교정 불일치: '[c]khpu[/c]' (13/10)",
+        "교정 불일치: '[c]kjjh[/c]' (15/14)",
+        "교정 불일치: '[c]lbe[/c]' (25/23)",
+        "교정 불일치: '[c]ukb[/c]' (78/57)",
+        "교정 불일치: '豬[c]bsll[/c]' (8/7)"
+      ]
     },
     {
       "source_path": "D/D003.txt",
@@ -3392,7 +3400,7 @@
       "output_directory": "備急千金要方(D025a)",
       "markdown_files": 36,
       "translation_units": 247,
-      "corrections_applied": 6,
+      "corrections_applied": 59,
       "punctuated": false,
       "warnings": []
     },
