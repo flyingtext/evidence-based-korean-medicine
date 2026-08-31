@@ -3863,5 +3863,131 @@
     "expected_count": 1,
     "reason": "《傷寒論》 桂枝加葛根湯 조문의 정형문.",
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96"
+  },
+  {
+    "before": "病惡埃煙。KT　(古噎字)不得息。",
+    "after": "病惡埃煙。𩜺(古噎字)不得息。",
+    "expected_count": 1,
+    "evidence": "《靈樞·刺節真邪》의 평행 경문과 《靈樞識》 음주가 `病惡埃煙𩜺不得息`, `𩜺、音噎`로 확정한다. https://cloudtcm.com/shu/t1/469/202"
+  },
+  {
+    "before": "日三。稍益□知為度○秫米。",
+    "after": "日三。稍益以知為度○秫米。",
+    "expected_count": 1,
+    "evidence": "《靈樞·邪客》 반하탕 원문은 `日三飲，以知為度`이며 문맥상 `稍益以知為度`이다. https://ctext.org/huangdi-neijing/xie-ke/zh"
+  },
+  {
+    "before": "足陽明絡別□大陰",
+    "after": "足陽明絡別走大陰",
+    "expected_count": 1,
+    "evidence": "침구 자매본과 《千金要方》 혈문이 豐隆을 `足陽明絡，別走太陰`으로 보존한다. https://ctext.org/wiki.pl?chapter=524998&if=gb"
+  },
+  {
+    "before": "發背癰□項強不可回顧。",
+    "after": "發背癰疽項強不可回顧。",
+    "expected_count": 1,
+    "evidence": "침구 주치문에서 고정 병명은 `發背癰疽`이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_04.html"
+  },
+  {
+    "before": "絲竹空(一名目□)",
+    "after": "絲竹空(一名目髎)",
+    "expected_count": 1,
+    "evidence": "絲竹空의 고전 이명은 目髎이며 표준 혈명 자료와 침구 자매본이 일치한다. https://www.theqi.com/cmed/oldbook/book295/b295_04.html"
+  },
+  {
+    "before": "氣海(一名脖HT　。一名下肓)",
+    "after": "氣海(一名脖胦。一名下肓)",
+    "expected_count": 1,
+    "evidence": "氣海의 고전 이명은 脖胦이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_04.html"
+  },
+  {
+    "before": "督脈之HT　。別走任脈",
+    "after": "督脈之絡。別走任脈",
+    "expected_count": 1,
+    "evidence": "長強은 督脈絡穴이며 고정 경맥 설명은 `督脈之絡，別走任脈`이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_04.html"
+  },
+  {
+    "before": "HT　身以腹挺地。兩手相重支額。",
+    "after": "舒身以腹挺地。兩手相重支額。",
+    "expected_count": 1,
+    "evidence": "腰腧 취혈법의 침구서 평행문은 `舒身以腹挺地，兩手相重支額`로 보존한다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_04.html"
+  },
+  {
+    "before": "又過□絡原太陵。返本還原",
+    "after": "又過包絡原太陵。返本還原",
+    "expected_count": 1,
+    "evidence": "太陵(大陵)은 심포락 원혈이므로 자오유주 고정구는 `包絡原太陵`이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_03.html"
+  },
+  {
+    "before": "丙寅(小腸合小□)",
+    "after": "丙寅(小腸合小海)",
+    "expected_count": 1,
+    "evidence": "手太陽小腸經의 合穴은 小海이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_03.html"
+  },
+  {
+    "before": "癸酉(腎俞太　並過□原太白)",
+    "after": "癸酉(腎俞太　並過脾原太白)",
+    "expected_count": 1,
+    "evidence": "足太陰 原穴은 太白이므로 `並過脾原太白`이 된다. 앞의 판독 대기 전각 공백은 그대로 유지했다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_03.html"
+  },
+  {
+    "before": "(HT　洄集)王安道曰。",
+    "after": "(溯洄集)王安道曰。",
+    "expected_count": 1,
+    "evidence": "王履(王安道)의 저서명은 《醫經溯洄集》이다. https://zh.wikisource.org/wiki/醫經溯洄集"
+  },
+  {
+    "before": "尖如KT　且員且銳微大其末反小其身取法於KT　針長一寸六分",
+    "after": "尖如氂且員且銳微大其末反小其身取法於氂針長一寸六分",
+    "expected_count": 1,
+    "evidence": "《靈樞·九針十二原》의 員利針 평행문은 `尖如氂，且圓且銳…取法於氂`로 두 자를 모두 보존한다. https://ctext.org/huangdi-neijing/jiu-zhen-shi-er-yuan/zh"
+  },
+  {
+    "before": "血余灰　白HT　藤黃",
+    "after": "血余灰　白蠟　藤黃",
+    "expected_count": 1,
+    "evidence": "외용 산제의 고정 약물명은 白蠟이며 乳香·沒藥·血竭·藤黃 열거와도 일치한다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_03.html"
+  },
+  {
+    "before": "HT　曰血會膈俞。",
+    "after": "難經曰血會膈俞。",
+    "expected_count": 1,
+    "evidence": "`血會膈俞`는 《難經》 八會穴의 직접 인용이다. https://ctext.org/nan-jing/forty-five-difficult-issues/zh"
+  },
+  {
+    "before": "陰交(當膀胱之上□故灸此)",
+    "after": "陰交(當膀胱之上際故灸此)",
+    "expected_count": 1,
+    "evidence": "陰交의 해부 설명은 `當膀胱之上際`로 전승된다. https://123dok.co/document/zgw6j536-%ED%98%88%EB%AA%85-%ED%92%80%EC%9D%B4.html"
+  },
+  {
+    "before": "刺肘中內陷(□澤)氣歸之",
+    "after": "刺肘中內陷(曲澤)氣歸之",
+    "expected_count": 1,
+    "evidence": "수궐음 심포경의 肘中內陷 혈명은 曲澤이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_02.html"
+  },
+  {
+    "before": "絡(□絡)之與孫絡。俱輸於經。",
+    "after": "絡(大絡)之與孫絡。俱輸於經。",
+    "expected_count": 1,
+    "evidence": "《素問·調經論》 평행 경문은 大絡과 孫絡의 경맥 유주를 대조하므로 주석 결자는 大이다. https://ctext.org/huangdi-neijing/tiao-jing-lun/zh"
+  },
+  {
+    "before": "則陽氣外泄經脈□滯是生大痹。",
+    "after": "則陽氣外泄經脈凝滯是生大痹。",
+    "expected_count": 1,
+    "evidence": "한사로 경맥이 막히는 고정 의학 표현은 `經脈凝滯`이며 앞의 陽氣外泄과 문법적으로 이어진다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_02.html"
+  },
+  {
+    "before": "歲水太過寒氣流行□害心火。",
+    "after": "歲水太過寒氣流行水害心火。",
+    "expected_count": 1,
+    "evidence": "《素問·氣交變大論》의 水運太過 설명과 주석 문맥상 주어는 水이며 `水害心火`의 오행 상극 설명이다. https://ctext.org/huangdi-neijing/qi-jiao-bian-da-lun/zh"
+  },
+  {
+    "before": "挾郁陽而為□痰閉塞經絡",
+    "after": "挾郁陽而為濕痰閉塞經絡",
+    "expected_count": 1,
+    "evidence": "뒤의 `轉蒸飲食之物為痰` 및 풍담 논의에 대응하는 고정 병리어는 濕痰이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_10.html"
   }
 ]

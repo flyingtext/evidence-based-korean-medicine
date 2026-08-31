@@ -241,9 +241,15 @@
       "output_directory": "素問經注節解(A011)",
       "markdown_files": 7,
       "translation_units": 110,
-      "corrections_applied": 470,
+      "corrections_applied": 480,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '沈霒淫雨。（HT\\u3000音陰。）' (0/1)",
+        "교정 불일치: '至頭，𠘧KT\\u3000然，目KT\\u3000KT\\u3000然欲僵仆' (0/1)",
+        "교정 불일치: '至頭，𠘧𠘧然，目KT\\u3000KT\\u3000然欲僵仆' (0/1)",
+        "교정 불일치: '靈樞經言之膂，蓋謂此也。KT\\u3000音呂' (0/1)",
+        "교정 좌표 중첩: 98428:98431"
+      ]
     },
     {
       "source_path": "A/A012.txt",
@@ -2130,7 +2136,7 @@
       "output_directory": "本草新編(C017)",
       "markdown_files": 15,
       "translation_units": 282,
-      "corrections_applied": 112,
+      "corrections_applied": 114,
       "punctuated": false,
       "warnings": []
     },
@@ -8239,7 +8245,7 @@
       "output_directory": "針灸逢源(K008)",
       "markdown_files": 10,
       "translation_units": 318,
-      "corrections_applied": 484,
+      "corrections_applied": 505,
       "punctuated": false,
       "warnings": []
     },

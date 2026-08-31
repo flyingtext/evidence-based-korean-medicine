@@ -14843,6 +14843,104 @@
       "expected_count": 1,
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
       "evidence_note": "고정어 `市肆之間`. occurrence 고유 문맥."
+    },
+    {
+      "before": "禁犯淬HT　熱食溫炙衣",
+      "after": "禁犯淬㗜熱食溫炙衣",
+      "expected_count": 1,
+      "reason": "《素問》 관련 공개 판본의 고유 경문 대조",
+      "evidence": "https://cloudtcm.com/shu/t1/472/72 — 腎病禁犯淬㗜熱食溫炙衣"
+    },
+    {
+      "before": "小便閉，（按：腎傳膀胱故便閉。KT　，脊肉也。",
+      "after": "小便閉，（按：腎傳膀胱故便閉。膂，脊肉也。",
+      "expected_count": 1,
+      "reason": "직전 경문 背膂筋痛과 자체 자의주로 확정",
+      "evidence": "《素問·標本病傳論》 背膂筋痛; 본문 자체 주석 膂，脊肉也"
+    },
+    {
+      "before": "靈樞經言之膂，蓋謂此也。KT　音呂",
+      "after": "靈樞經言之膂，蓋謂此也。膂音呂",
+      "expected_count": 1,
+      "reason": "자체 음주가 표제자를 직접 확정",
+      "evidence": "본문 자체 음주 膂音呂"
+    },
+    {
+      "before": "是自傳於腑及之KT　也。",
+      "after": "是自傳於腑及之膂也。",
+      "expected_count": 1,
+      "reason": "동일 문단의 반복어와 자체 음주로 확정",
+      "evidence": "《素問·標本病傳論》 背膂筋痛 및 본문 膂音呂"
+    },
+    {
+      "before": "沈霒淫雨。（HT　音陰。）",
+      "after": "沈霒淫雨。（霒音陰。）",
+      "expected_count": 1,
+      "reason": "직전 경문의 표제자와 자체 음주 일치",
+      "evidence": "https://www.shidianguji.com/zh/book/NGJ89241199901573087030/chapter/1lm1qf03qc9ai — 沈霒淫雨"
+    },
+    {
+      "before": "上關二穴。（針經所謂刺之則KT　不能欠者也",
+      "after": "上關二穴。（針經所謂刺之則呿不能欠者也",
+      "expected_count": 1,
+      "reason": "《針經》 직접 인용의 공개 판본 대조",
+      "evidence": "https://cloudtcm.com/library/448/455956 — 刺之則呿不能欠"
+    },
+    {
+      "before": "下關二穴。（針經所謂刺之則欠不能KT　者也",
+      "after": "下關二穴。（針經所謂刺之則欠不能呿者也",
+      "expected_count": 1,
+      "reason": "상관·하관 대구 경문의 공개 판본 대조",
+      "evidence": "《針經》 대구: 上關刺之則呿不能欠 / 下關刺之則欠不能呿"
+    },
+    {
+      "before": "音HT　，平聲，手臂也。",
+      "after": "音鬧，平聲，手臂也。",
+      "expected_count": 1,
+      "reason": "臑의 고유 음주와 자의로 확정",
+      "evidence": "고전 의서의 臑音鬧，平聲，手臂也"
+    },
+    {
+      "before": "又HT　，舊音瓊，注言直視如驚。",
+      "after": "又環，舊音瓊，注言直視如驚。",
+      "expected_count": 1,
+      "reason": "직전 目環 경문 및 반복 자의주로 확정",
+      "evidence": "《素問·終始》 目環絕系; 본문 環謂直視如驚貌"
+    },
+    {
+      "before": "灸三壯。HT　謂兩踝胂也。",
+      "after": "灸三壯。髁謂兩踝胂也。",
+      "expected_count": 1,
+      "reason": "자체 자의주와 해부 문맥으로 확정",
+      "evidence": "고전 의서 주석 髁謂兩踝胂也"
+    },
+    {
+      "before": "至頭，𠘧KT　然，目KT　KT　然欲僵仆",
+      "after": "至頭，𠘧𠘧然，目KT　KT　然欲僵仆",
+      "expected_count": 1,
+      "reason": "《素問·刺腰痛》 직접 경문 대조",
+      "evidence": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F — 頭𠘧𠘧然"
+    },
+    {
+      "before": "至頭，𠘧𠘧然，目KT　KT　然欲僵仆",
+      "after": "至頭，𠘧𠘧然，目䀮䀮然欲僵仆",
+      "expected_count": 1,
+      "reason": "《素問·刺腰痛》 직접 경문 대조",
+      "evidence": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F — 目䀮䀮然欲僵仆"
+    },
+    {
+      "before": "病在少腹，有積，刺皮HT　以下至少腹而止",
+      "after": "病在少腹，有積，刺皮䯏以下至少腹而止",
+      "expected_count": 1,
+      "reason": "《素問》 직접 경문 및 骨端 자의 대조",
+      "evidence": "공개 《素問》 판본 刺皮䯏以下; 본문 후속 교감주 䯏，骨端也"
+    },
+    {
+      "before": "皮HT　謂齊下五寸橫約文",
+      "after": "皮䯏謂齊下五寸橫約文",
+      "expected_count": 1,
+      "reason": "직전 경문의 표제어 반복과 후속 자의주로 확정",
+      "evidence": "동일 문단 刺皮䯏以下 및 䯏，骨端也"
     }
   ],
   "A/A013.txt": [

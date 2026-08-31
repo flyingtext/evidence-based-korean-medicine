@@ -7174,6 +7174,18 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%96%B0%E7%B7%A8/index.html",
       "evidence_note": "C/C017.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "往往有一種□氣親人，不見之，知氣從青蒿中出",
+      "after": "往往有一種香氣親人，不見之，知氣從青蒿中出",
+      "expected_count": 1,
+      "evidence": "청호의 냄새를 논하면서 곧이어 ‘是青蒿氣香，非臭也’라고 직접 풀이하므로 香으로 확정된다. https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%96%B0%E7%B7%A8/index.html"
+    },
+    {
+      "before": "曰：病□□陽無陰者，不得不用地漿之水",
+      "after": "曰：病於有陽無陰者，不得不用地漿之水",
+      "expected_count": 1,
+      "evidence": "문답의 문법과 바로 앞의 ‘取其純陰’ 설명을 대조하면 ‘病於有陽無陰者’로 이어지는 고유 문맥이다. https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%96%B0%E7%B7%A8/index.html"
     }
   ],
   "C/C018.txt": [
