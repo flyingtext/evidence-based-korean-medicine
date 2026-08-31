@@ -22319,5 +22319,84 @@
     }
   ],
   "C/C006.txt": [],
-  "C/C014.txt": []
+  "C/C014.txt": [],
+  "C/C046.txt": [
+    {
+      "before": "[c]srlii[/c]",
+      "after": "䘌",
+      "expected_count": 39,
+      "reason": "39회 전부 䘌瘡·下部䘌 등 충식성 피부병 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]tbuc[/c]",
+      "after": "貝",
+      "expected_count": 38,
+      "reason": "38회 전부 약명 貝母 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]klmc[/c]",
+      "after": "㿉",
+      "expected_count": 34,
+      "reason": "34회 전부 陰㿉·暴㿉 및 下腫·陰病이라는 자체 훈석과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]wfmj[/c]",
+      "after": "皯",
+      "expected_count": 16,
+      "reason": "16회 전부 面黑皯·面皯·滅黑皯의 피부 반점 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]buyvu[/c]",
+      "after": "䀮",
+      "expected_count": 14,
+      "reason": "14회 전부 目䀮䀮 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]kmvs[/c]",
+      "after": "㽲",
+      "expected_count": 11,
+      "reason": "11회 전부 㽲痛 병증 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]tanr[/c]",
+      "after": "䕡",
+      "expected_count": 9,
+      "reason": "9회 전부 庵䕡·䕡茹의 약물명 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]tjji[/c]",
+      "after": "戟",
+      "expected_count": 8,
+      "reason": "8회 전부 巴戟天·大戟의 약물명 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]thq[/c]",
+      "after": "牛",
+      "expected_count": 6,
+      "reason": "6회 전부 약명 牛膝의 첫 글자로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]oylc[/c]",
+      "after": "㑊",
+      "expected_count": 4,
+      "reason": "4회 전부 병명 食㑊 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    },
+    {
+      "before": "[c]oipgr[/c]",
+      "after": "噎",
+      "expected_count": 4,
+      "reason": "4회 전부 噎症 및 小青龍湯 若噎 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+    }
+  ]
 }

@@ -314,5 +314,47 @@
     "expected_count": 1,
     "evidence_url": "source/D/D002.txt",
     "evidence_note": "D002a 외자 wwmmm: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `妖`로 대응."
+  },
+  {
+    "before": "[c]srlmi[/c]",
+    "after": "䘌",
+    "expected_count": 26,
+    "reason": "코드 SRLMI 26회가 모두 疥蟲䘌瘡·下部䘌瘡 등 충식성 창양명으로 고정되고 자매본·공개 《千金翼方》의 䘌瘡과 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/千金翼方/index.html"
+  },
+  {
+    "before": "[c]tanr[/c]",
+    "after": "䕡",
+    "expected_count": 40,
+    "reason": "코드 TANR 40회가 䕡茹와 菴䕡子·菴䕡花에만 출현하며 자매본과 공개 본초의 약명이 모두 䕡으로 일치한다.",
+    "evidence": "https://www.zdic.net/hant/䕡; https://jicheng.tw/tcm/book/千金翼方/index.html"
+  },
+  {
+    "before": "[c]khuc[/c]",
+    "after": "㿗",
+    "expected_count": 23,
+    "reason": "코드 KHUC 23회가 陰㿗·㿗卵腫·氣㿗 등 동일 산증명으로 고정되며 Unihan KHUC=㿗 및 자매본과 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FD7; https://jicheng.tw/tcm/book/千金翼方/index.html"
+  },
+  {
+    "before": "[c]buyvu[/c]",
+    "after": "䀮",
+    "expected_count": 22,
+    "reason": "코드 BUYVU 22회가 目䀮䀮·遠視䀮䀮 등 흐린 시야 문맥에 고정되고 Unihan BUYVU=䀮 및 내경계 평행문과 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=402E; https://jicheng.tw/hanzi/search?c=䀮&e=char"
+  },
+  {
+    "before": "[c]itfi[/c]",
+    "after": "䗪",
+    "expected_count": 11,
+    "reason": "코드 ITFI 11회가 모두 약물 䗪蟲의 본초·처방 문맥이며 Unihan ITFI=䗪와 자매본이 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=45EA; https://jicheng.tw/tcm/book/千金翼方/index.html"
+  },
+  {
+    "before": "[c]kytr[/c]",
+    "after": "㾦",
+    "expected_count": 4,
+    "reason": "코드 KYTR 4회가 㾦瘰·肉㾦·膚㾦의 병증 문맥으로 고정되고 Unihan KYTR=㾦 및 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FA6; https://jicheng.tw/tcm/book/千金翼方/index.html"
   }
 ]

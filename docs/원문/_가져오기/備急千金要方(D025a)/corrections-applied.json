@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "before": "[c]rck[/c]",
+    "after": "㕮",
+    "expected_count": 1069,
+    "evidence": "倉頡 코드 rck. 1069회 모두 㕮咀의 㕮이며 자매본·공개본의 ‘凡湯酒膏藥，舊方皆云㕮咀者’ 및 처방별 ‘上…味㕮咀’와 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]buyvu[/c]",
+    "after": "䀮",
+    "expected_count": 68,
+    "evidence": "倉頡 코드 buyvu. 68회 모두 目䀮䀮·眼青䀮䀮 등 시각 문맥이며 공개본의 동일 문장 ‘目䀮䀮’과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]tanr[/c]",
+    "after": "䕡",
+    "expected_count": 46,
+    "evidence": "倉頡 코드 tanr. 46회 모두 약재 菴䕡子·䕡茹의 䕡이며 공개본의 乾漆丸·桂心酒·䕡茹 처방군과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]srlmi[/c]",
+    "after": "䘌",
+    "expected_count": 37,
+    "evidence": "倉頡 코드 srlmi. 37회 모두 疳䘌·濕䘌·䘌蟲 등 병충명 문맥이며 공개본의 ‘腹中生䘌蟲’ 조문과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]wfmj[/c]",
+    "after": "䵟",
+    "expected_count": 30,
+    "evidence": "倉頡 코드 wfmj. 30회 모두 피부 병변 䵟이며 wfcwa와 연속될 때 공개본 五香散의 ‘治䵟疱黶𪒟’과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "[c]wfcwa[/c]",
+    "after": "𪒟",
+    "expected_count": 17,
+    "evidence": "倉頡 코드 wfcwa. 17회 모두 䵟 뒤의 피부 병변 𪒟이며 공개본 五香散의 ‘治䵟疱黶𪒟’과 일치한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  }
+]

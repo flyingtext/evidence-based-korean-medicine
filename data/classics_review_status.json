@@ -268,15 +268,15 @@
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1621,
+      "unresolved_candidates": 354,
       "punctuation_status": "source_present",
-      "note": "남은 1621개 [c]code[/c]는 서로 다른 외자 코드여서 코드표·판면 없이 일괄 치환할 수 없다. occurrence-고유하게 확정되는 항목을 찾지 못해 전부 보류했다."
+      "note": "[c] 표식 전수 집계는 총 1621회·135코드다. 확정 6코드/1267회: rck=㕮(1069), buyvu=䀮(68), tanr=䕡(46), srlmi=䘌(37), wfmj=䵟(30), wfcwa=𪒟(17). 전체 코드별 횟수: abq:1, anrrl:3, aub:3, bbapv:9, bbwl:1, bbyut:1, bfh:2, bhdf:2, bjbc:11, bjbm:1, bnl:1, bppg:7, brhr:4, bsll:2, butwi:3, buylc:3, buyvu:68, bwhd:2, cakn:1, ceii:1, cyta:1, ddoe:3, deice:4, dsuu:1, ebuc:1, ejce:1, elwo:1, emfi:2, eyid:1, eyra:3, fdir:7, fhaf:1, fiok:1, fjii:1, fka:1, ggj:1, ghni:1, gino:2, hanj:1, hhhk:1, hhlmo:1, hmobo:1, hnwgf:1, htln:1, htmjk:1, hxhnq:1, iflii:3, itfi:34, jcpkp:19, jdmbc:1, je:1, jjm:2, jntt:1, kdam:4, kddd:1, ke:1, khem:11, khlo:1, khoo:2, khpu:1, khsb:3, khuc:32, khvc:1, khvo:1, kjjh:1, klwp:1, kmvs:1, koln:1, kppa:10, ksrb:1, kwmv:1, kwww:3, kyav:1, kytr:3, lbb:1, liijc:4, liklu:2, lisew:1, litaa:1, litav:4, llhsb:1, lphn:2, mrbhg:1, mrtvp:7, nbwp:5, nfbm:2, nimt:1, nup:1, oijbf:1, ouypu:2, oylc:1, plk:1, pma:2, ptcl:1, qlnc:1, qomm:2, qyki:1, rck:1069, rgno:1, rll:2, rmomm:1, rmyiu:1, rmypb:4, rsav:4, rwr:1, shahu:1, shoir:1, smfli:1, srlmi:37, tanr:46, tble:1, tbmk:3, tcip:1, thdb:2, thob:2, tia:1, tjmp:1, tkg:1, tmnm:1, tmso:1, tqjr:2, trrv:1, tthaf:1, tvo:2, tyjc:1, ufno:1, uumbc:3, vohg:1, wfcwa:17, wfmj:30, wfmjk:1, yobuc:1, yrmlm:1, ysf:5, yvlmi:17. 나머지 129코드/354회는 자매본이 공백·KT로 남거나 대응 정렬이 불충분하여 보류했다. 현 1621에서 확정 출현 1267회만 차감했다."
     },
     "D/D004a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 696,
+      "unresolved_candidates": 323,
       "punctuation_status": "source_present",
-      "note": "최신 Markdown 출력에 HT/KT/□ 및 전각 공백 잔여 0. legacy 외자는 기존 occurrence 규칙 적용 결과로 보이며 전역 코드 치환을 추가하지 않음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 696자리로 유지한다."
+      "note": "기존 correction shard의 RCK 코드는 제외했다. 신규 15코드의 전 출현 373좌표만 자매본 D004·공개 《外臺秘要》·관련 평행문·Unihan으로 확정하여 현 status 696에서 차감했다. 나머지는 코드 중의성 또는 자매본에서도 결락된 자리라 보류한다."
     },
     "D/D005.txt": {
       "collation_status": "in_progress",
@@ -418,9 +418,9 @@
     },
     "A/A402b.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 5659,
+      "unresolved_candidates": 5567,
       "punctuation_status": "source_present",
-      "note": "현 status 5659를 유지한다. 반복 PUA 92자는 원자료 가이지 코드표 또는 영인 좌표가 없어 유니코드로 임의 치환하지 않았다."
+      "note": "PUA 25종 92개 전부를 자매본 A402와 공개 類經의 고유 문맥 및 파일 자체 훈석으로 확정했다. 현 미해결 5659에서 92개만 차감했다."
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
@@ -442,9 +442,9 @@
     },
     "A/A402a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 447,
+      "unresolved_candidates": 169,
       "punctuation_status": "source_present",
-      "note": "현재 Markdown에는 HT·KT·□·PUA·전각공백·legacy [c]가 없고, 감사표의 원자료 [c] 447좌표는 변환 과정에서 occurrence 좌표가 소실된 상태다. 안전한 before 문맥을 만들 수 없어 보류한다."
+      "note": "미해결 447개 중 문헌 전 출현과 자매본·공개 類經이 함께 고정하는 278개만 해소했다. 나머지 코드는 자매본도 결자이거나 전 출현 확정 근거가 부족해 보류했다."
     },
     "B/B001.txt": {
       "collation_status": "in_progress",
@@ -2980,9 +2980,9 @@
     },
     "C/C046.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2443,
+      "unresolved_candidates": 2260,
       "punctuation_status": "source_present",
-      "note": "현 status 2443을 유지한다. [c]·[z] 외자 코드는 약명 문맥에서 추정 가능한 예가 있어도 원자료 글리프 매핑이나 영인 대조 없이 유니코드 글자를 확정하지 않았다."
+      "note": "미해결 2443개 중 공개 本經疏證 전사와 전 출현 문맥이 고정되는 183개만 해소했다. 나머지는 희귀 약명·이체자별 개별 정렬이 필요하다."
     },
     "C/C018a.txt": {
       "collation_status": "complete",
@@ -3454,9 +3454,9 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 463,
+      "unresolved_candidates": 337,
       "punctuation_status": "source_present",
-      "note": "자매 전사 D002와 좌우 한자 12~14자 고유 정렬 및 중간 단일문자 대응이 성립한 legacy 외자 44 occurrence만 복원. 코드 전역치환은 하지 않음."
+      "note": "correction shard에 이미 존재하는 코드는 제외했다. 신규 6코드의 전 출현 126좌표만 자매본 D002·공개 《千金翼方》·Unihan으로 확정하여 현 status 463에서 차감했다. 다른 코드는 동코드 이자·판본 공백 또는 문맥 불일치 가능성 때문에 보류한다."
     },
     "D/D018.txt": {
       "collation_status": "in_progress",

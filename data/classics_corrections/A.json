@@ -27760,6 +27760,181 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html",
       "evidence_note": "A/A402b.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "",
+      "after": "髎",
+      "expected_count": 1,
+      "reason": "和髎穴 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "骶",
+      "expected_count": 2,
+      "reason": "尾骶 및 尻臀之間이라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "腨",
+      "expected_count": 2,
+      "reason": "經脈의 上腨·貫腨內 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "䐃",
+      "expected_count": 4,
+      "reason": "破䐃과 筋肉結聚之處라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "眇",
+      "expected_count": 1,
+      "reason": "季脅下의 眇中 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "啞",
+      "expected_count": 1,
+      "reason": "瘖은 聲啞라는 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "酸",
+      "expected_count": 3,
+      "reason": "酸心·酸痛 및 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "瘻",
+      "expected_count": 4,
+      "reason": "痿瘻·鼠瘻 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "㿗",
+      "expected_count": 1,
+      "reason": "㿉와 㿗同이라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "㿉",
+      "expected_count": 16,
+      "reason": "㿉疝·㿉癃·腸㿉·陰㿉 전 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "癎",
+      "expected_count": 3,
+      "reason": "癎瘛筋攣·為癎為厥 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "炲",
+      "expected_count": 2,
+      "reason": "黑如炲 및 煙煤라는 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "蛕",
+      "expected_count": 1,
+      "reason": "蟲毒蛕蝎 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "㑊",
+      "expected_count": 9,
+      "reason": "9회 전부 解㑊 병명 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "癧",
+      "expected_count": 1,
+      "reason": "瘰癧 병명 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "疏",
+      "expected_count": 12,
+      "reason": "乍疏乍數·親疏·麤疏의 12개 전 문맥에서 疏로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "槁",
+      "expected_count": 5,
+      "reason": "5회 전부 大骨枯槁 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "耎",
+      "expected_count": 2,
+      "reason": "두 출현 모두 耎은 軟同이라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "譖",
+      "expected_count": 1,
+      "reason": "讒譖之小人 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "衄",
+      "expected_count": 5,
+      "reason": "嘔衄·血衄·鼻衄 및 鼻血이라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "飧",
+      "expected_count": 4,
+      "reason": "4회 전부 赤瓣飧泄·飧泄 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "麥",
+      "expected_count": 2,
+      "reason": "두 출현 모두 절기 표현 麥英으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "沈",
+      "expected_count": 3,
+      "reason": "沈濁 및 深也라는 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "眇",
+      "expected_count": 1,
+      "reason": "季脅下의 眇中 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "",
+      "after": "衛",
+      "expected_count": 6,
+      "reason": "營衛之氣·衛氣失常·營衛陰陽의 전 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
     }
   ],
   "A/A403.txt": [
@@ -39888,6 +40063,78 @@
       "expected_count": 1,
       "reason": "코드 YMA 1회. Unihan 매핑 㫖(U+3AD6)이고 遺編의 ‘全神養真之㫖’ 평행문과 일치한다.",
       "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3AD6; https://zh.wikisource.org/zh-hant/黃帝內經/素問"
+    }
+  ],
+  "A/A402a.txt": [
+    {
+      "before": "[c]hmb[/c]",
+      "after": "眚",
+      "expected_count": 49,
+      "reason": "49회 전부 운기문의 재해를 뜻하는 眚 문맥이며 자매본 대응문과 음주 詩梗切가 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bwhd[/c]",
+      "after": "䐃",
+      "expected_count": 47,
+      "reason": "47회 전부 筋肉結聚之處 및 破䐃·䐃肉 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bjbc[/c]",
+      "after": "䐜",
+      "expected_count": 44,
+      "reason": "44회 전부 䐜脹·肺䐜 문맥이고 본문 음주 音嗔과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]klmc[/c]",
+      "after": "㿉",
+      "expected_count": 29,
+      "reason": "29회 전부 㿉疝·陰㿉 계열 문맥이며 㿗同이라는 자체 주석과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]buyvu[/c]",
+      "after": "䀮",
+      "expected_count": 25,
+      "reason": "25회 전부 目䀮䀮 문맥이고 자체 음주 音荒과 공개 전사가 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]oylc[/c]",
+      "after": "㑊",
+      "expected_count": 24,
+      "reason": "24회 전부 解㑊 병명 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]uumbc[/c]",
+      "after": "䪼",
+      "expected_count": 17,
+      "reason": "17회 전부 頰上䪼·目下為䪼의 해부 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bfh[/c]",
+      "after": "䏚",
+      "expected_count": 15,
+      "reason": "15회 전부 脇部의 䏚 및 자체 음주 音秒 문맥과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]sjyiu[/c]",
+      "after": "䀮",
+      "expected_count": 14,
+      "reason": "14회 전부 目䀮䀮如無所見 문맥이고 자체 음주 音荒과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]khuc[/c]",
+      "after": "㿗",
+      "expected_count": 14,
+      "reason": "14회 전부 㿗疝 및 㿉㿗同이라는 자체 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
     }
   ]
 }

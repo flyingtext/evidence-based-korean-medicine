@@ -6,5 +6,110 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
     "evidence_note": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치.",
     "reason": "방제 조제 동사 㕮咀가 115회 반복되는 안정적 코드 대응이며 D/D004의 독립 변환본과도 일치."
+  },
+  {
+    "before": "[c]kjjh[/c]",
+    "after": "疹",
+    "expected_count": 98,
+    "reason": "코드 KJJH 98회가 癮疹·風疹·疹癢 등 동일 피부 병증으로 고정되며 D002a의 기확정 대응과 공개 《外臺秘要》가 疹으로 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]srlmi[/c]",
+    "after": "䘌",
+    "expected_count": 49,
+    "reason": "코드 SRLMI 49회가 傷寒䘌瘡·䘌齒·䘌蟲蝕下部 등 벌레먹음 의미로 고정되고 공개 전사의 䘌과 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]tanr[/c]",
+    "after": "䕡",
+    "expected_count": 48,
+    "reason": "코드 TANR 48회가 䕡茹 또는 菴䕡子 등 고정 약명에만 출현하고 공개 본초·《外臺秘要》가 䕡으로 일치한다.",
+    "evidence": "https://www.zdic.net/hant/䕡; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]khuc[/c]",
+    "after": "㿗",
+    "expected_count": 54,
+    "reason": "코드 KHUC 54회가 疝氣及㿗·㿗卵·陰㿗 등 산증명으로 고정되고 Unihan KHUC=㿗 및 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FD7; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]lwo[/c]",
+    "after": "㬰",
+    "expected_count": 26,
+    "reason": "코드 LWO 26회가 모두 시간 부사 須㬰이며 Unihan LWO=㬰, D002a 기확정 臾 대응과 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3B30; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]bsll[/c]",
+    "after": "胰",
+    "expected_count": 25,
+    "reason": "코드 BSLL 25회가 豬胰·羊胰 및 胰汁의 동일 동물성 약재에 고정되며 D002a 기확정 대응과 공개 전사가 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]bjbc[/c]",
+    "after": "䐜",
+    "expected_count": 17,
+    "reason": "코드 BJBC 17회가 䐜腹·䐜脹 등 팽창 의미로 고정되고 Unihan BJBC=䐜 및 평행문과 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=441C; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]imoiv[/c]",
+    "after": "飡",
+    "expected_count": 13,
+    "reason": "코드 IMOIV 13회가 飡腥膾·飡乳酪·飡之 등 섭식 동사로 고정되고 Unihan IMOIV=飡과 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=98E1; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]itfi[/c]",
+    "after": "䗪",
+    "expected_count": 10,
+    "reason": "코드 ITFI 10회가 모두 처방 약물 䗪蟲이며 Unihan ITFI=䗪와 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=45EA; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]uumbc[/c]",
+    "after": "䪼",
+    "expected_count": 9,
+    "reason": "코드 UUMBC 9회가 䪼腫·䪼頰·穴名 禾䪼 등 동일 안면 해부자로 고정되고 Unihan UUMBC=䪼와 침구 평행문이 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=4ABC; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]kppa[/c]",
+    "after": "㾬",
+    "expected_count": 9,
+    "reason": "코드 KPPA 9회가 모두 㾬瘧 병명이며 Unihan KPPA=㾬 및 공개 전사와 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FAC; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]krb[/c]",
+    "after": "㾓",
+    "expected_count": 6,
+    "reason": "코드 KRB 6회가 勞㾓·手足㾓疼·痠㾓 등 통증 의미로 고정되고 Unihan KRB=㾓과 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3F93; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]kytr[/c]",
+    "after": "㾦",
+    "expected_count": 4,
+    "reason": "코드 KYTR 4회가 모두 㾦 병증 문맥이며 Unihan KYTR=㾦 및 공개 전사와 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=3FA6; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]bbhon[/c]",
+    "after": "䯒",
+    "expected_count": 3,
+    "reason": "코드 BBHON 3회가 䯒骨 또는 䯒에서 시작하는 해부 문맥으로 고정되고 Unihan BBHON=䯒와 공개 전사가 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=4BD2; https://jicheng.tw/tcm/book/外臺秘要/index.html"
+  },
+  {
+    "before": "[c]oylc[/c]",
+    "after": "㑊",
+    "expected_count": 2,
+    "reason": "코드 OYLC 2회가 모두 解㑊 병증이며 Unihan OYLC=㑊와 《素問》 평행문이 일치한다.",
+    "evidence": "https://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=344A; https://zh.wikisource.org/zh-hant/黃帝內經/素問"
   }
 ]
