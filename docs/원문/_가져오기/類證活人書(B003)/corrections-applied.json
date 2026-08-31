@@ -702,5 +702,23 @@
     "reason": "桂枝加葛根湯의 고정 조문이다.",
     "evidence_url": "https://www.shidianguji.com/zh/mid-page/7446892853344763954",
     "evidence_note": "독립 공개 전사에서 `太陽病，項背強几几，反汗出惡風者`가 확인된다."
+  },
+  {
+    "before": "名曰重HT　。如此死者。醫殺之耳",
+    "after": "名曰重暍。如此死者。醫殺之耳",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 문단의 교정 전사와 습온 오한 뒤 발한 금기를 다룬 평행문이 重暍을 확정한다."
+  },
+  {
+    "before": "風池穴在HT　後發際陷者。中是穴",
+    "after": "風池穴在擿顬後發際陷者。中是穴",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 《類證活人書》 및 《甲乙經》 인용 전사가 擿顬後髮際로 판독한다."
+  },
+  {
+    "before": "脈之字。從肉從HT　。又作HT　。蓋脈以肉為陽。HT　以血為陰",
+    "after": "脈之字。從肉從䗃。又作𧖴。蓋脈以肉為陽。𧖴以血為陰",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 원문 전사와 교육부 이체자 자료가 䗃·𧖴의 자형 및 脈과의 관계를 뒷받침한다."
   }
 ]

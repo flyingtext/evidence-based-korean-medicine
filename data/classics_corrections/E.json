@@ -3992,6 +3992,223 @@
       "reason": "서명은 《醫醇賸義》이고 관용구는 `振聾發聵`이다. 하나의 고유 문맥에서 KT와 전각 결락을 함께 복원한다.",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E9%86%87%E8%B3%B8%E7%BE%A9",
       "evidence_note": "공개 고전의 정식 서명이 《醫醇賸義》로 확인되며 `振聾發聵`는 해당 문장의 완결된 고정 성어다."
+    },
+    {
+      "before": "中絡，口眼　斜，肌膚不",
+      "after": "中絡，口眼喎斜，肌膚不",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 喎 확정."
+    },
+    {
+      "before": "邪自解，而　斜自愈矣。",
+      "after": "邪自解，而喎斜自愈矣。",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 喎 확정."
+    },
+    {
+      "before": "不遂，口眼　斜。\n\n烏",
+      "after": "不遂，口眼喎斜。\n\n烏",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 喎 확정."
+    },
+    {
+      "before": "治中風口眼　斜，無他證",
+      "after": "治中風口眼喎斜，無他證",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 喎 확정."
+    },
+    {
+      "before": "\n[u]黃　五物湯[/",
+      "after": "\n[u]黃耆五物湯[/",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "u]防風黃　湯[/u]",
+      "after": "u]防風黃耆湯[/u]",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "方，皆用黃　，是治氣虛",
+      "after": "方，皆用黃耆，是治氣虛",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "夏生後泄腸　之訓，是獨",
+      "after": "夏生後泄腸澼之訓，是獨",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 澼 확정."
+    },
+    {
+      "before": "其瀉出如鴨　之糞也。又",
+      "after": "其瀉出如鴨騖之糞也。又",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 騖 확정."
+    },
+    {
+      "before": "夏生後泄腸　，此之謂也",
+      "after": "夏生後泄腸澼，此之謂也",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 澼 확정."
+    },
+    {
+      "before": "分）\n\n加　二枚為引。",
+      "after": "分）\n\n加胵二枚為引。",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 胵 확정."
+    },
+    {
+      "before": "u]洞泄之　虛實兼治得",
+      "after": "u]洞泄之痾虛實兼治得",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 痾 확정."
+    },
+    {
+      "before": "乃曰：此屬　之邪，團結",
+      "after": "乃曰：此屬飥之邪，團結",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 飥 확정."
+    },
+    {
+      "before": "；潞黨、黃　，補脾益氣",
+      "after": "；潞黨、黃耆，補脾益氣",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "]\n（即中　附：暑厥）",
+      "after": "]\n（即中暍附：暑厥）",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "：治太陽中　，身熱汗出",
+      "after": "：治太陽中暍，身熱汗出",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 暍 확정."
+    },
+    {
+      "before": "加冬桑葉、　豆衣、省頭",
+      "after": "加冬桑葉、穭豆衣、省頭",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 穭 확정."
+    },
+    {
+      "before": "第三劑，諸　皆屏矣。\n",
+      "after": "第三劑，諸痾皆屏矣。\n",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 痾 확정."
+    },
+    {
+      "before": "於暑，秋必　瘧。謂夏令",
+      "after": "於暑，秋必痎瘧。謂夏令",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 痎 확정."
+    },
+    {
+      "before": "者倍加參、　，血虛者倍",
+      "after": "者倍加參、耆，血虛者倍",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "患瘧三年，　羸之至，無",
+      "after": "患瘧三年，尪羸之至，無",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 尪 확정."
+    },
+    {
+      "before": "方，非參、　、朮、草，",
+      "after": "方，非參、耆、朮、草，",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "、牡蠣、炙　、桂枝，薑",
+      "after": "、牡蠣、炙耆、桂枝，薑",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 耆 확정."
+    },
+    {
+      "before": "炎蒸，汗出　，肌肉潮潤",
+      "after": "炎蒸，汗出濈濈，肌肉潮潤",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 濈濈 확정."
+    },
+    {
+      "before": "服下稍知中　，繼進三劑",
+      "after": "服下稍知中竅，繼進三劑",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 竅 확정."
+    },
+    {
+      "before": "吸洋煙，清　弱體，自孟",
+      "after": "吸洋煙，清癯弱體，自孟",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 癯 확정."
+    },
+    {
+      "before": "熱者，為鸕　瘟。遍身紫",
+      "after": "熱者，為鸕鶿瘟。遍身紫",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 鶿 확정."
+    },
+    {
+      "before": "、蝦蟆、鸕　、楊梅、葡",
+      "after": "、蝦蟆、鸕鶿、楊梅、葡",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 鶿 확정."
+    },
+    {
+      "before": "瘟，字又從　。溫、瘟兩",
+      "after": "瘟，字又從疒。溫、瘟兩",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 疒 확정."
+    },
+    {
+      "before": "應變，則沉　未有不起也",
+      "after": "應變，則沉痾未有不起也",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 痾 확정."
+    },
+    {
+      "before": "胎前產後之　，用藥勿宜",
+      "after": "胎前產後之痾，用藥勿宜",
+      "expected_count": 1,
+      "evidence_url": "source/E/E012a.txt",
+      "evidence_note": "독립 전사 E012a의 고유 좌우 문맥으로 결자 痾 확정."
     }
   ],
   "E/E014.txt": [

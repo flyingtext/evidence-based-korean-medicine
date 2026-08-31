@@ -966,5 +966,61 @@
     "reason": "葛根湯 조문을 인용하는 주석의 동일 어구다.",
     "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SSID-13367075_%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9_%E5%8D%B72_1.pdf",
     "evidence_note": "공개 《傷寒論輯義》 권2 전사에서 `大發其汗將無項背強几几者`가 직접 확인된다."
+  },
+  {
+    "before": "遂KT　熱而利。利下不止。心下痞硬。表裡不解者。桂枝人參湯主之。（KT　。成本。作協。",
+    "after": "遂協熱而利。利下不止。心下痞硬。表裡不解者。桂枝人參湯主之。（協。成本。作協。",
+    "expected_count": 1,
+    "reason": "주문과 바로 뒤 교감주가 모두 協으로 자증하며 공개 전사와 일치",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "（今以文HT　。",
+    "after": "（今以文𱾗。",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사와 영인의 희귀 자형을 그대로 보존",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/NAJDA-%E5%AD%90269-0006_%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A92.pdf"
+  },
+  {
+    "before": "於石HT　內。煎至一碗",
+    "after": "於石㸠內。煎至一碗",
+    "expected_count": 1,
+    "reason": "공개 원자료의 조리 기물명 石㸠로 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "則腳HT　得伸",
+    "after": "則腳踁得伸",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사의 고유 문맥에서 踁을 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "虛寒而冷HT　者也",
+    "after": "虛寒而冷積者也",
+    "expected_count": 1,
+    "reason": "독립 문맥과 공개 전사가 고정어 冷積으로 일치",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "則濕熱窨HT　。而身必發黃",
+    "after": "則濕熱窨𪑳。而身必發黃",
+    "expected_count": 1,
+    "reason": "공개 원자료와 공개 판면의 희귀 자형을 그대로 보존",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/SSID-13367075_%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9_%E5%8D%B72_1.pdf"
+  },
+  {
+    "before": "屢HT利則藝進",
+    "after": "屢𠠇利則藝進",
+    "expected_count": 1,
+    "reason": "서문의 공개 전사와 영인에서 희귀 자형을 직접 확인",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
+  },
+  {
+    "before": "漿水。乃HT　米和曲釀成",
+    "after": "漿水。乃𬖔米和曲釀成",
+    "expected_count": 1,
+    "reason": "공개 원자료 전사와 공개 판면의 희귀 미곡명을 그대로 보존",
+    "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%BC%AF%E7%BE%A9/index.html"
   }
 ]

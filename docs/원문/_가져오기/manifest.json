@@ -783,7 +783,7 @@
       "output_directory": "類證活人書(B003)",
       "markdown_files": 23,
       "translation_units": 29,
-      "corrections_applied": 88,
+      "corrections_applied": 91,
       "punctuated": false,
       "warnings": []
     },
@@ -1376,7 +1376,7 @@
       "output_directory": "傷寒論輯義(B027)",
       "markdown_files": 10,
       "translation_units": 50,
-      "corrections_applied": 121,
+      "corrections_applied": 129,
       "punctuated": false,
       "warnings": []
     },
@@ -1792,7 +1792,7 @@
       "output_directory": "高注金匱要略(B107)",
       "markdown_files": 21,
       "translation_units": 44,
-      "corrections_applied": 178,
+      "corrections_applied": 179,
       "punctuated": false,
       "warnings": []
     },
@@ -4641,7 +4641,7 @@
       "output_directory": "時病論(E012)",
       "markdown_files": 12,
       "translation_units": 120,
-      "corrections_applied": 74,
+      "corrections_applied": 105,
       "punctuated": false,
       "warnings": []
     },
@@ -11773,9 +11773,11 @@
       "output_directory": "醫說(O048)",
       "markdown_files": 11,
       "translation_units": 911,
-      "corrections_applied": 8,
+      "corrections_applied": 9,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '### 裴HT' (0/1)"
+      ]
     },
     {
       "source_path": "O/O049.txt",
