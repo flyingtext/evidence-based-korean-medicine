@@ -31051,6 +31051,69 @@
       "expected_count": 1,
       "reason": "침구가결의 정형구 目視䀮䀮.",
       "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "缺盆以下至　KT　之中，長九寸。",
+      "after": "缺盆以下至𩩲骭之中，長九寸。",
+      "expected_count": 1,
+      "reason": "《靈樞·骨度》의 정형문 ‘缺盆以下至𩩲骭，長九寸’과 바로 뒤의 동일 해부 표지를 따른다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A9%A9%B2&if=gb"
+    },
+    {
+      "before": "KT　中下至天樞長八寸。（天樞",
+      "after": "𩩲骭中下至天樞長八寸。（天樞",
+      "expected_count": 1,
+      "reason": "앞 문장의 𩩲骭을 이어 받는 《靈樞·骨度》의 정형 척도이다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/356/27"
+    },
+    {
+      "before": "靈光賦云：刺兩鼻HT　衄。",
+      "after": "靈光賦云：刺兩鼻齆衄。",
+      "expected_count": 1,
+      "reason": "《鍼灸聚英·靈光賦》 및 같은 파일 뒤쪽 가결의 ‘兩鼻齆衄’ 평행문.",
+      "evidence_url": "https://zh.wikisource.org/wiki/%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1/%E9%9D%88%E5%85%89%E8%B3%A6"
+    },
+    {
+      "before": "（　一作HT　，音摘。）",
+      "after": "（　一作適之，音摘。）",
+      "expected_count": 1,
+      "reason": "下關 조문의 이문 주석은 ‘一作適之’이며 音摘과도 부합한다. 선행 비조판 전각공백은 유지한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%A9%B4%E5%BD%99%E8%A7%A3/index.html"
+    },
+    {
+      "before": "以羅KT　復律口，氣至吹灰動KT　，而有",
+      "after": "以羅縠復律口，氣至吹灰動縠，而有",
+      "expected_count": 1,
+      "reason": "候氣법의 직접 인용 정형문은 ‘以羅縠覆之，氣至則吹灰動縠’이다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/CADAL02045991/chapter/1l7pav19egbhw"
+    },
+    {
+      "before": "謂管如HT　而小，並兩而吹。",
+      "after": "謂管如篴而小，並兩而吹。",
+      "expected_count": 1,
+      "reason": "관악기 설명의 전승문 ‘謂管如篴而小，並兩而吹’에 따른다.",
+      "evidence_url": "https://zdic.net/hant/%E7%AE%A1"
+    },
+    {
+      "before": "謂管除HT　子外，長六寸余。",
+      "after": "謂管除嘂子外，長六寸余。",
+      "expected_count": 1,
+      "reason": "《續通典》에 인용된 朱載堉의 동일 문장은 ‘除嘂子外’이다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=227273&if=en"
+    },
+    {
+      "before": "音諱。HT　音叫。）",
+      "after": "音諱。嘂音叫。）",
+      "expected_count": 1,
+      "reason": "앞의 嘂子에 대한 음주이며 사전에도 ‘大塤謂之嘂，音叫’로 확인된다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?chapter=661490&if=en&sid=2490&trid=196801"
+    },
+    {
+      "before": "兩鼻HT　衄針禾　，鼻窒不聞迎香專。",
+      "after": "兩鼻齆衄針禾　，鼻窒不聞迎香專。",
+      "expected_count": 1,
+      "reason": "《鍼灸聚英·靈光賦》의 ‘兩鼻齆衄鍼禾窌’ 평행문. 禾 뒤 전각공백은 별도 후보라 유지한다.",
+      "evidence_url": "https://zh.wikisource.org/wiki/%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1/%E9%9D%88%E5%85%89%E8%B3%A6"
     }
   ],
   "A/A402.txt": [

@@ -1126,5 +1126,113 @@
     "reason": "千日瘡의 이명이다.",
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/35",
     "evidence_note": "《啟玄》 인용문에서 `千日瘡一名疣瘡，又名瘊子，又名晦氣瘡`을 직접 확인했다."
+  },
+  {
+    "before": "宗兄斗垣公以儒生早歲游俠建康。HT　牛首燕磯棲霞茅君洞天諸名勝。",
+    "after": "宗兄斗垣公以儒生早歲游俠建康。䁥　牛首燕磯棲霞茅君洞天諸名勝。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 外科啟玄 후서 동일 문맥: 遊俠建康，䁥牛首、燕磯、棲霞、茅君洞天諸名勝."
+  },
+  {
+    "before": "公之陰行善使學醫者HT　。用仁心何深摯哉。",
+    "after": "公之陰行善使學醫者曙　。用仁心何深摯哉。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 서문 문맥이 學醫者曙。로 판독됨."
+  },
+  {
+    "before": "再遇HT　磕惡血積之。",
+    "after": "再遇碰　磕惡血積之。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 논문 문맥: 再遇碰磕，惡血積之. 전각공백은 보존."
+  },
+  {
+    "before": "箕HT癰",
+    "after": "箕門癰",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 권5 표제: 箕門癰."
+  },
+  {
+    "before": "箕HT　癰",
+    "after": "箕門　癰",
+    "expected_count": 1,
+    "evidence": "동일 표제의 도판 캡션도 箕門癰으로 확정; 전각공백 보존."
+  },
+  {
+    "before": "七曰　HT　漏。是平肉上生孔竅出膿血是也。",
+    "after": "七曰　瘻㽽　漏。是平肉上生孔竅出膿血是也。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 팔루 열거: 七曰瘻㽽漏."
+  },
+  {
+    "before": "蜂叮蠍HT　。蟲喇箭毒。",
+    "after": "蜂叮蠍𧎴　。蟲喇箭毒。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 문맥: 蜂叮蠍𧎴。蟲喇箭毒."
+  },
+  {
+    "before": "其頭一射中人。HT　雖拔出。",
+    "after": "其頭一射中人。𠏉　雖拔出。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 箭毒瘡 동일 문맥이 𠏉雖拔出으로 판독됨."
+  },
+  {
+    "before": "驚HT　。噴嚏等症。",
+    "after": "驚悸　。噴嚏等症。",
+    "expected_count": 1,
+    "evidence": "증상 고정구 驚悸 및 jicheng.tw 본문 내 동일 용례로 확정; 전각공백 보존."
+  },
+  {
+    "before": "初病汗濕疫癘瘟KT　氣。",
+    "after": "初病汗濕疫癘瘟疫　氣。",
+    "expected_count": 1,
+    "evidence": "문맥상 고정어 瘟疫氣; KT 결자를 疫으로 복원하고 전각공백 보존."
+  },
+  {
+    "before": "一發即出蚤蚊HT　。耳下鼻邊承地閣。",
+    "after": "一發即出蚤蚊殃　。耳下鼻邊承地閣。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 痘疹歌 동일 구절: 一發即出蚤蚊殃."
+  },
+  {
+    "before": "能點諸癰疽癤HT　疔腫便毒等瘡。",
+    "after": "能點諸癰疽癤𤸚　疔腫便毒等瘡。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 鐵罐點毒膏 효능문: 癰疽癤𤸚疔腫便毒."
+  },
+  {
+    "before": "在心HT　間最難治之。",
+    "after": "在心𦞴　間最難治之。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 回陽玉龍膏 가감법 동일 문맥: 在心𦞴間."
+  },
+  {
+    "before": "若遲則毒在心HT　。令腐肉。",
+    "after": "若遲則毒在心𦞴　。令腐肉。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 단락: 若遲則毒在心𦞴，令腐肉."
+  },
+  {
+    "before": "膝HT　脛骨",
+    "after": "膝𦚐　脛骨",
+    "expected_count": 2,
+    "evidence": "jicheng.tw 鶴膝風 조문 두 곳 모두 膝𦚐脛骨."
+  },
+  {
+    "before": "敷膝HT　骨上腿腫處。",
+    "after": "敷膝𦚐　骨上腿腫處。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 조문: 敷膝𦚐骨上腿腫處."
+  },
+  {
+    "before": "已破者名曰　。　有八般氣風陰冷痔血　HT　痿腮等八症。",
+    "after": "已破者名曰　。　有八般氣風陰冷痔血　瘻㽽　痿腮等八症。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 痔漏론: 瘺有八般氣風陰冷痔血瘻㽽痿腮等八症. 기존 전각공백은 유지."
+  },
+  {
+    "before": "HT　HT　瘡方在圖。",
+    "after": "⿸疒村　⿸疒裂　瘡方在圖。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 권12 도방 목록의 동일 순서가 ⿸疒村⿸疒裂瘡方在圖로 판독됨; 전각공백 보존."
   }
 ]

@@ -118,9 +118,11 @@
     },
     "I/I010.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 642,
+      "unresolved_candidates": 622,
       "punctuation_status": "source_present",
-      "note": "기존 교정 및 조판 분류 유지. 추가 확정 가능한 독립 근거 없음."
+      "note": "HEAD 141개 규칙 expected_count 전부 검증 후 동시 적용. 적용 뒤 명시 표지는 HT 19, KT 1, □ 13과 전각공백 1188회였으며, jicheng.tw 직접 대조로 HT 19회와 KT 1회를 모두 복원한다. □ 13회는 jicheng.tw에도 그대로 남아 원영상 판독 없이는 안전하지 않아 보류한다. 기존 audit의 status 642(전각공백 미해결 609 + HT/KT/□ 33) 기준 20개 명시 표지 순감으로 remaining_count 622. 전각공백은 모든 규칙에서 그대로 유지했다.",
+      "remaining_count": 622,
+      "status": "in_progress"
     },
     "I/I011.txt": {
       "collation_status": "in_progress",
@@ -442,9 +444,11 @@
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2174,
+      "unresolved_candidates": 2164,
       "punctuation_status": "source_present",
-      "note": "status 1319에서 확정된 KT 34좌표만 차감. 흉복부 척도 KT와 HT·비조판 공백은 보류. 기존 좌표 감사값에서 실제 복원분만 차감해 2174자리로 보정했다."
+      "note": "HEAD 기존 341개 규칙 적용 후 남은 명시 표지는 HT 6개와 KT 4개였다. occurrence-specific 9개 규칙으로 이 10개 표지를 모두 복원한다(한 규칙이 KT 2개를 동시에 처리). 전각공백은 유지했으며 unresolved_candidates는 표지 10자리만 2174에서 차감했다.",
+      "remaining_count": 2164,
+      "status": "in_progress"
     },
     "B/B003a.txt": {
       "collation_status": "complete",
@@ -4304,9 +4308,11 @@
     },
     "O/O108.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7020,
+      "unresolved_candidates": 7002,
       "punctuation_status": "source_present",
-      "note": "현 status 7033에서 HT 7자리와 뒤 결자 전각공백 6자리, 총 13좌표를 차감했다. 나머지는 개별 판본 근거가 없어 보류한다."
+      "note": "HEAD 기존 교정 후 실제 명시 표지 20개 중 O108a·《景岳全書》《內經》 직접 인용으로 18좌표 교감. 복합 이비인후 병명과 희귀 약초명 2좌표 보류. status 7020→7002.",
+      "remaining_count": 7002,
+      "status": "in_progress"
     },
     "O/O108a.txt": {
       "collation_status": "in_progress",

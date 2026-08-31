@@ -8073,5 +8073,103 @@
     "expected_count": 1,
     "reason": "《素問·氣交變大論》 직접 평행문이 ‘災眚者，傷之始’로 전한다.",
     "evidence_url": "http://www.ocf.berkeley.edu/~darvard/CMBook1.pdf"
+  },
+  {
+    "before": "而三焦之普KT　，乃各見其候",
+    "after": "而三焦之普濩，乃各見其候",
+    "expected_count": 1,
+    "reason": "O108a 자매본 동일 문장",
+    "evidence": "O108a: 三焦之普濩，乃各見其候"
+  },
+  {
+    "before": "其人即KT　。",
+    "after": "其人即噎。",
+    "expected_count": 1,
+    "reason": "O108a 자매본과 《金匱要略》 문맥",
+    "evidence": "O108a: 水得寒氣…其人即噎"
+  },
+  {
+    "before": "此等證候，當KT　KT　以元氣為念",
+    "after": "此等證候，當惓惓以元氣為念",
+    "expected_count": 1,
+    "reason": "O108a 자매본 동일 문장",
+    "evidence": "O108a: 當惓惓以元氣為念"
+  },
+  {
+    "before": "赤白青烏斑駁，名曰KT　風。",
+    "after": "赤白青烏斑駁，名曰癩風。",
+    "expected_count": 1,
+    "reason": "공개 의서의 직접 인용",
+    "evidence": "《證治準繩》: 如連錢團圓，赤白青烏斑駁，名曰癩風"
+  },
+  {
+    "before": "蟲不動，乃出針也。HT　腹　痛，形中上者。",
+    "after": "蟲不動，乃出針也。滿腹　痛，形中上者。",
+    "expected_count": 1,
+    "reason": "O108a 자매본 동일 경문",
+    "evidence": "O108a: 滿腹憹痛，形中上者"
+  },
+  {
+    "before": "白起金用，草木HT　。",
+    "after": "白起金用，草木眚。",
+    "expected_count": 2,
+    "reason": "《素問·五常政大論》 직접 경문",
+    "evidence": "少陽·少陰司天: 白起金用，草木眚"
+  },
+  {
+    "before": "蒼起木用而立，土乃HT　。",
+    "after": "蒼起木用而立，土乃眚。",
+    "expected_count": 1,
+    "reason": "《素問·五常政大論》 직접 경문",
+    "evidence": "陽明司天: 土乃眚"
+  },
+  {
+    "before": "而火且明，丹起金乃HT　。",
+    "after": "而火且明，丹起金乃眚。",
+    "expected_count": 1,
+    "reason": "《素問·五常政大論》 직접 경문",
+    "evidence": "太陽司天: 丹起，金乃眚"
+  },
+  {
+    "before": "而土且隆，黃起水乃HT　。",
+    "after": "而土且隆，黃起水乃眚。",
+    "expected_count": 1,
+    "reason": "《素問·五常政大論》 직접 경문",
+    "evidence": "厥陰司天: 黃起，水乃眚"
+  },
+  {
+    "before": "在泉為甘化，司氣為HT　化，間氣為柔化",
+    "after": "在泉為甘化，司氣為黅化，間氣為柔化",
+    "expected_count": 1,
+    "reason": "《素問·至真要大論》 직접 경문",
+    "evidence": "太陰司天為濕化…司氣為黅化"
+  },
+  {
+    "before": "驚氣所致，為潮涎，為目HT　，為口噤",
+    "after": "驚氣所致，為潮涎，為目瞏，為口噤",
+    "expected_count": 1,
+    "reason": "O108a 자매본 동일 문장",
+    "evidence": "O108a: 驚氣所致…為目瞏"
+  },
+  {
+    "before": "黑如　者死，赤如HT　血者死",
+    "after": "黑如　者死，赤如衃血者死",
+    "expected_count": 1,
+    "reason": "《素問·五藏生成》 직접 경문",
+    "evidence": "赤如衃血者死"
+  },
+  {
+    "before": "三日背KT　筋痛小便閉",
+    "after": "三日背膂筋痛小便閉",
+    "expected_count": 3,
+    "reason": "《素問·標本病傳論》 반복 직접 경문",
+    "evidence": "O108a 및 素問: 三日背膂筋痛，小便閉"
+  },
+  {
+    "before": "其狀如穀實　KT　，常苦寒熱",
+    "after": "其狀如穀實　栝蔞，常苦寒熱",
+    "expected_count": 1,
+    "reason": "《靈樞·癰疽》와 고유 형상명",
+    "evidence": "甘疽其狀如穀實栝蔞"
   }
 ]
