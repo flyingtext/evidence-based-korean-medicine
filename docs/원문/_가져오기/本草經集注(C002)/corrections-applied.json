@@ -54,5 +54,40 @@
     "expected_count": 1,
     "evidence": "같은 문장의 대조 전자본에 甚辣快로 확인됨. https://qihuangzhishu.com/223/747.htm",
     "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "一名雞足，一名思益，一名KT　實。生漢中山谷",
+    "after": "一名雞足，一名思益，一名鬾實。生漢中山谷",
+    "expected_count": 1,
+    "reason": "《新修本草》의 山茱萸 직접 평행문이 이 이명 열거를 ‘一名鬾實’로 수록한다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/8/127"
+  },
+  {
+    "before": "莽草，字亦有作KT　字，今世呼為KT　草也。",
+    "after": "莽草，字亦有作䒽字，今世呼為䒽草也。",
+    "expected_count": 1,
+    "reason": "공개 《本草經集注》 동일 항목이 문장 전체를 ‘莽草，字亦有作䒽字，今世呼為䒽草也’로 전사한다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/6/83"
+  },
+  {
+    "before": "一名蟾蜍，一名KT　，一名去甫，一名苦　。生江湖池澤。",
+    "after": "一名蟾蜍，一名𪓰，一名去甫，一名苦　。生江湖池澤。",
+    "expected_count": 1,
+    "reason": "《神農本草經》 蝦蟆 항목의 직접 평행문이 해당 이명을 𪓰로 수록한다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/1/81"
+  },
+  {
+    "before": "雖名土蜂，不就土中為窟，謂KT　土作房爾。今一種黑色",
+    "after": "雖名土蜂，不就土中為窟，謂摙土作房爾。今一種黑色",
+    "expected_count": 1,
+    "reason": "해당 陶弘景 주석의 공개 전사가 ‘不就土中為窟，謂摙土作房’으로 자형을 제시한다.",
+    "evidence_url": "https://boolehgee.blogspot.com/2009/06/"
+  },
+  {
+    "before": "一名負KT　，一名　，一名　。生魏郡平谷及人家地上",
+    "after": "一名負蟠，一名　，一名　。生魏郡平谷及人家地上",
+    "expected_count": 1,
+    "reason": "《重修政和證類本草》 공개 판면·전사가 鼠婦의 이명을 ‘一名負蟠’으로 수록한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/Page%3ASibu_Congkan0385-%E5%94%90%E6%85%8E%E5%BE%AE-%E9%87%8D%E4%BF%AE%E6%94%BF%E5%92%8C%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89-12-10.djvu/207"
   }
 ]

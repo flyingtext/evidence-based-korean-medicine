@@ -1824,6 +1824,12 @@
       "expected_count": 1,
       "reason": "jicheng 공개 전문 대조 외자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%97%87%E6%B2%BB%E6%96%B9/index.html"
+    },
+    {
+      "before": "若汗出。HT　寒。而加頭項強痛者。桂枝葛根湯主之。",
+      "after": "若汗出。惡寒。而加頭項強痛者。桂枝葛根湯主之。",
+      "expected_count": 1,
+      "reason": "같은 책의 처방 가감문에 동일 병후가 ‘汗出HT　寒。加桂枝、葛根’으로 반복되고, 상한 계통의 정형 병후가 汗出惡寒이므로 결자는 惡으로 확정된다."
     }
   ],
   "M/M100a.txt": [

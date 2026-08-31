@@ -9132,6 +9132,13 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
       "evidence_note": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’.",
       "reason": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’."
+    },
+    {
+      "before": "腰背痛。身惕HT而淚出",
+      "after": "腰背痛。身惕𢡞而淚出",
+      "expected_count": 1,
+      "reason": "識典의 고판 전사가 동일 구절을 身惕𢡞而淚出로 판독하며, 伏飲의 몸 떨림을 뜻하는 병증어이다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/NA06088/chapter/1m2unkm0phf61"
     }
   ],
   "O/O039.txt": [
@@ -12077,6 +12084,12 @@
       "expected_count": 1,
       "evidence": "문맥상 병명 열거의 정형어 癮疹痛癢이며, 고전 의서 검색에서도 癮疹·痛癢이 결합해 쓰인다. https://ctext.org/dictionary.pl?if=gb&char=%E7%99%AE",
       "reason": "공개 판본 대조로 결자 복원"
+    },
+    {
+      "before": "如魚、龍、蛟、HT　之形",
+      "after": "如魚、龍、蛟、鯉之形",
+      "expected_count": 1,
+      "reason": "저장소의 독립 평행문 P/P0800이 동일 구절을 ‘如魚龍蛟鯉之形’으로 전해 결자를 직접 확정한다."
     }
   ],
   "O/O035.txt": [
@@ -50974,6 +50987,27 @@
       "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
       "evidence_note": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮.",
       "reason": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮."
+    },
+    {
+      "before": "冬月傷寒，頭痛KT　KT　，下利",
+      "after": "冬月傷寒，頭痛几几，下利",
+      "expected_count": 1,
+      "reason": "공개 영인이 동일 구절을 冬月傷寒頭痛几几下利로 판독한다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
+    },
+    {
+      "before": "夫頭痛太陽之症也，KT　KT　陽明之症也",
+      "after": "夫頭痛太陽之症也，几几陽明之症也",
+      "expected_count": 1,
+      "reason": "공개 영인이 동일 구절을 頭痛太陽之症也几几陽明之症也로 판독한다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
+    },
+    {
+      "before": "二劑而KT　KT　頭痛之病頓愈",
+      "after": "二劑而几几頭痛之病頓愈",
+      "expected_count": 1,
+      "reason": "같은 조문의 반복 병증어 几几頭痛이며 앞의 공개 영인 판독과 일치한다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
     }
   ],
   "O/O063a.txt": [
@@ -114464,6 +114498,26 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
       "evidence_note": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’.",
       "reason": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’."
+    },
+    {
+      "before": "臥不厭HT　覺貴舒飽則入浴飢則梳",
+      "after": "臥不厭縮覺貴舒飽則入浴飢則梳",
+      "expected_count": 1,
+      "reason": "《遵生八箋》이 인용한 真西山先生衛生歌의 직접 평행문은 ‘臥不厭縮，覺貴舒’이다.",
+      "evidence_url": "https://www.musashino.ac.jp/mggs/wp/wp-content/uploads/2021/01/hakase_sya_hyo2_hyo4.pdf"
+    },
+    {
+      "before": "睡HT　燈燭令人神不安",
+      "after": "睡留燈燭令人神不安",
+      "expected_count": 1,
+      "reason": "《活人心》 계통의 직접 평행문이 ‘睡留燈燭，令人神不安’으로 전한다.",
+      "evidence_url": "https://omagod.tistory.com/247"
+    },
+    {
+      "before": "上五味將細布包定再用HT　綿裹之以糯米三斗",
+      "after": "上五味將細布包定再用絲綿裹之以糯米三斗",
+      "expected_count": 1,
+      "reason": "細布로 싼 약물을 다시 감싸는 재료를 말하는 고정 결합 ‘絲綿裹之’이며, 앞뒤 제작 문맥이 직접 지시한다."
     }
   ],
   "O/O017.txt": [

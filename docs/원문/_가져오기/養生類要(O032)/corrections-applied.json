@@ -46,5 +46,25 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
     "evidence_note": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’.",
     "reason": "과음의 결과를 설명하는 고정 병렬 ‘神散魄亂’."
+  },
+  {
+    "before": "臥不厭HT　覺貴舒飽則入浴飢則梳",
+    "after": "臥不厭縮覺貴舒飽則入浴飢則梳",
+    "expected_count": 1,
+    "reason": "《遵生八箋》이 인용한 真西山先生衛生歌의 직접 평행문은 ‘臥不厭縮，覺貴舒’이다.",
+    "evidence_url": "https://www.musashino.ac.jp/mggs/wp/wp-content/uploads/2021/01/hakase_sya_hyo2_hyo4.pdf"
+  },
+  {
+    "before": "睡HT　燈燭令人神不安",
+    "after": "睡留燈燭令人神不安",
+    "expected_count": 1,
+    "reason": "《活人心》 계통의 직접 평행문이 ‘睡留燈燭，令人神不安’으로 전한다.",
+    "evidence_url": "https://omagod.tistory.com/247"
+  },
+  {
+    "before": "上五味將細布包定再用HT　綿裹之以糯米三斗",
+    "after": "上五味將細布包定再用絲綿裹之以糯米三斗",
+    "expected_count": 1,
+    "reason": "細布로 싼 약물을 다시 감싸는 재료를 말하는 고정 결합 ‘絲綿裹之’이며, 앞뒤 제작 문맥이 직접 지시한다."
   }
 ]

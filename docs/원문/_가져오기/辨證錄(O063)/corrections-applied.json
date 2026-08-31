@@ -2670,5 +2670,26 @@
     "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE",
     "evidence_note": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮.",
     "reason": "肝血不足으로 두 눈이 어두운 문맥의 희자 䀮䀮."
+  },
+  {
+    "before": "冬月傷寒，頭痛KT　KT　，下利",
+    "after": "冬月傷寒，頭痛几几，下利",
+    "expected_count": 1,
+    "reason": "공개 영인이 동일 구절을 冬月傷寒頭痛几几下利로 판독한다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
+  },
+  {
+    "before": "夫頭痛太陽之症也，KT　KT　陽明之症也",
+    "after": "夫頭痛太陽之症也，几几陽明之症也",
+    "expected_count": 1,
+    "reason": "공개 영인이 동일 구절을 頭痛太陽之症也几几陽明之症也로 판독한다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
+  },
+  {
+    "before": "二劑而KT　KT　頭痛之病頓愈",
+    "after": "二劑而几几頭痛之病頓愈",
+    "expected_count": 1,
+    "reason": "같은 조문의 반복 병증어 几几頭痛이며 앞의 공개 영인 판독과 일치한다.",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/SSID-13388220_%E8%BE%A8%E8%AD%89%E9%8C%84_%E5%8D%B71.pdf"
   }
 ]

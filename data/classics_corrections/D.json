@@ -15631,6 +15631,34 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html",
       "evidence_note": "D/D016.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "治野雞痔下血腸痛　用鱧魚一頭，作　KT　食之。",
+      "after": "治野雞痔下血腸痛　用鱧魚一頭，作鱠虀食之。",
+      "expected_count": 1,
+      "reason": "jicheng.tw의 동일 《衛生易簡方》 전문이 이 처방을 ‘用鱧魚一頭，作鱠虀食之’로 전한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+    },
+    {
+      "before": "發焦液出，KT取治小兒壯熱",
+      "after": "發焦液出，𢳄取液盡為度，以此液敷瘡，即以苦參末摻之。\n\n治小兒壯熱",
+      "expected_count": 1,
+      "reason": "jicheng.tw의 동일 전문이 두 처방의 경계를 포함해 ‘發焦液出，𢳄取液盡為度，以此液敷瘡，即以苦參末摻之。’ 다음에 ‘治小兒壯熱’이 시작됨을 직접 확인한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+    },
+    {
+      "before": "什襲緘HT　，藏之秘府",
+      "after": "什襲緘縢，藏之秘府",
+      "expected_count": 1,
+      "reason": "jicheng.tw의 동일 후서가 ‘什襲緘縢，藏之秘府’로 전한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+    },
+    {
+      "before": "按轡咨KT　，所以宣上德，達下情",
+      "after": "按轡咨諏，所以宣上德，達下情",
+      "expected_count": 1,
+      "reason": "jicheng.tw의 동일 후서가 ‘按轡咨諏，所以宣上德，達下情’으로 전한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
     }
   ],
   "D/D024.txt": [
@@ -40339,6 +40367,20 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E6%83%A0%E7%9B%B4%E5%A0%82%E7%B6%93%E9%A9%97%E6%96%B9/index.html",
       "evidence_note": "D/D059.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "將糞杓竹KT　燒灰。香油調敷立好。",
+      "after": "將糞杓竹箍燒灰。香油調敷立好。",
+      "expected_count": 1,
+      "reason": "동일 민간 처방의 평행문이 糞杓의 대나무 테를 ‘糞杓上竹箍燒灰’로 직접 수록한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%80%A5%E6%95%91%E5%BB%A3%E7%94%9F%E9%9B%86/index.html"
+    },
+    {
+      "before": "其癢難忍。KT　撥不盡。用蒼朮為末。",
+      "after": "其癢難忍。擠撥不盡。用蒼朮為末。",
+      "expected_count": 1,
+      "reason": "공개 병증 평행문이 동일 怪病 구절을 ‘匍匐難忍，撥擠不盡’으로 수록하여 擠를 확정한다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/SSID-12129888_%E4%BB%8A%E5%8F%A4%E5%90%8D%E9%86%AB%E9%A9%97%E6%96%B9%E9%A1%9E%E7%B7%A8_%E7%AC%AC8%E5%86%8A.pdf"
     }
   ],
   "D/D010a.txt": [

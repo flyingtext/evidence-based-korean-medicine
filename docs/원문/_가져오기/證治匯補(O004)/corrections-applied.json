@@ -1302,5 +1302,12 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5",
     "evidence_note": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’.",
     "reason": "支飲 증후의 정형 원문 ‘咳逆倚息，短氣不得臥’."
+  },
+  {
+    "before": "腰背痛。身惕HT而淚出",
+    "after": "腰背痛。身惕𢡞而淚出",
+    "expected_count": 1,
+    "reason": "識典의 고판 전사가 동일 구절을 身惕𢡞而淚出로 판독하며, 伏飲의 몸 떨림을 뜻하는 병증어이다.",
+    "evidence_url": "https://www.shidianguji.com/zh/book/NA06088/chapter/1m2unkm0phf61"
   }
 ]

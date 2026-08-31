@@ -1494,5 +1494,33 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html",
     "evidence_note": "D/D016.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "治野雞痔下血腸痛　用鱧魚一頭，作　KT　食之。",
+    "after": "治野雞痔下血腸痛　用鱧魚一頭，作鱠虀食之。",
+    "expected_count": 1,
+    "reason": "jicheng.tw의 동일 《衛生易簡方》 전문이 이 처방을 ‘用鱧魚一頭，作鱠虀食之’로 전한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+  },
+  {
+    "before": "發焦液出，KT取治小兒壯熱",
+    "after": "發焦液出，𢳄取液盡為度，以此液敷瘡，即以苦參末摻之。\n\n治小兒壯熱",
+    "expected_count": 1,
+    "reason": "jicheng.tw의 동일 전문이 두 처방의 경계를 포함해 ‘發焦液出，𢳄取液盡為度，以此液敷瘡，即以苦參末摻之。’ 다음에 ‘治小兒壯熱’이 시작됨을 직접 확인한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+  },
+  {
+    "before": "什襲緘HT　，藏之秘府",
+    "after": "什襲緘縢，藏之秘府",
+    "expected_count": 1,
+    "reason": "jicheng.tw의 동일 후서가 ‘什襲緘縢，藏之秘府’로 전한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
+  },
+  {
+    "before": "按轡咨KT　，所以宣上德，達下情",
+    "after": "按轡咨諏，所以宣上德，達下情",
+    "expected_count": 1,
+    "reason": "jicheng.tw의 동일 후서가 ‘按轡咨諏，所以宣上德，達下情’으로 전한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E6%98%93%E7%B0%A1%E6%96%B9/index.html"
   }
 ]

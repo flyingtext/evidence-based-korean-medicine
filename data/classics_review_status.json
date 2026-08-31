@@ -22,9 +22,9 @@
     },
     "O/O004.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1766,
+      "unresolved_candidates": 1765,
       "punctuation_status": "source_present",
-      "note": "《素問》《金匱要略》의 직접 평행문으로 KT 2자를 복원. 기존 규칙과 겹침 없음. 잔여 후보 1766자리."
+      "note": "현재 status 1768에서 영인 기반 공개 전사로 확정된 HT 1좌표만 차감했다. 나머지 HT·KT와 비조판 전각공백은 보류했다. 기존 status 좌표에서 실제 복원분만 차감해 1765자리로 보정했다."
     },
     "N/N027.txt": {
       "collation_status": "in_progress",
@@ -270,7 +270,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1621,
       "punctuation_status": "source_present",
-      "note": "[c]코드[/c] 1621개가 전권에 분포한다. 코드는 외자 식별자이므로 동일 코드의 전역 치환이나 여닫는 태그별 이중 계수를 하지 않았으며, 코드표·영인 전수 대조 전에는 승격할 수 없다. 잔여 후보 1621자리."
+      "note": "남은 1621개 [c]code[/c]는 서로 다른 외자 코드여서 코드표·판면 없이 일괄 치환할 수 없다. occurrence-고유하게 확정되는 항목을 찾지 못해 전부 보류했다."
     },
     "D/D004a.txt": {
       "collation_status": "in_progress",
@@ -2956,9 +2956,9 @@
     },
     "D/D016.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1644,
+      "unresolved_candidates": 1636,
       "punctuation_status": "source_present",
-      "note": "HT 3곳과 KT 12곳을 전수 검토했으나 동일 판본 또는 영인으로 글자를 유일하게 확정할 근거가 부족함. 특히 HT茹는 약명 후보가 복수라 보류. 제안 규칙 없음. 잔여 후보 1644자리."
+      "note": "현 status 1644자리에서 표식 4자리와 표식에 붙은 비조판 전각공백 4자리, 합계 8자리만 차감했다. 나머지 11개 표식은 판본 자형 또는 결락 범위를 직접 확정하지 못해 보류했다."
     },
     "C/C036.txt": {
       "collation_status": "in_progress",
@@ -3016,9 +3016,9 @@
     },
     "C/C002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1673,
+      "unresolved_candidates": 1667,
       "punctuation_status": "source_present",
-      "note": "KT 15개 중 독립 대조와 고유 문맥으로 8개 확정. 나머지 異名·곤충명 7개는 자형 후보가 복수여서 보류. 모든 before는 1회씩만 나타나며 상호 비중첩. 잔여 후보 1673자리."
+      "note": "현재 status 1673에서 실제 표식 좌표 6개만 차감했다. 䒽 규칙은 한 문맥 안의 KT 2개를 함께 복원하고, 나머지 세 규칙은 각 1개씩 복원한다. 蛤類 문장의 마지막 KT 1개와 여타 비조판 공백은 보류한다."
     },
     "C/C003.txt": {
       "collation_status": "in_progress",
@@ -3414,7 +3414,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1817,
       "punctuation_status": "source_present",
-      "note": "희귀 동식물명·고전 훈고와 대량 결락이 혼재한다. 공개 전사도 같은 KT 표지를 보존하거나 판본 자형 근거가 없어 신규 확정을 보류했다. 잔여 후보 1817자리."
+      "note": "명물·축산·식물·광물 열거문의 KT 19, □ 1 및 전각공백 결락이 혼재한다. 동일 표식도 항목마다 서로 다른 희자를 나타내므로 영인 전수 판독 없이 추정 복원하지 않고 status 1817을 유지했다. 기존 status 좌표에서 실제 복원분만 차감해 1817자리로 보정했다."
     },
     "C/C023.txt": {
       "collation_status": "complete",
@@ -3568,9 +3568,9 @@
     },
     "D/D059.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1686,
+      "unresolved_candidates": 1684,
       "punctuation_status": "source_present",
-      "note": "신규 확정 복원 없음. 기존 규칙과 겹치는 제안도 없음. 잔여 후보 1686자리."
+      "note": "현재 status 1686에서 직접 확정한 두 KT 좌표만 차감했다. ‘各KT千萬如塵’과 ‘入KT盆內’은 판면의 정확한 글자를 확정하지 못해 그대로 보류한다."
     },
     "E/E007.txt": {
       "collation_status": "in_progress",
@@ -3648,7 +3648,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1773,
       "punctuation_status": "source_present",
-      "note": "HT 3개와 각 뒤 결자 공백 3개를 艱嗣·嗣續으로 복원했다. 나머지 전각 공백 1773자리는 판면 배열과 결락이 혼재해 승격하지 않는다. 잔여 후보 1773자리."
+      "note": "기존 4개 규칙 적용 후 명시 표식은 남지 않으나 status가 전각공백 1776곳을 전부 미판독 결락 후보로 유지하고 있어 근거 없이 재분류하지 않았다. 기존 status 좌표에서 실제 복원분만 차감해 1773자리로 보정했다."
     },
     "G/G036.txt": {
       "collation_status": "in_progress",
@@ -3874,9 +3874,9 @@
     },
     "M/M108.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1610,
+      "unresolved_candidates": 1608,
       "punctuation_status": "source_present",
-      "note": "HT가 든 구절은 별도 전사도 비정상 자형으로 남고, '一錢□分'의 숫자도 독립 판면을 확인하지 못해 보류했다. 잔여 후보 1610자리."
+      "note": "현 status 1610자리에서 HT와 뒤 결자 전각공백 2자리만 복원한다. ‘白朮（各一錢□分）’의 수치는 독립 판본 근거가 없어 보류했다."
     },
     "N/N024.txt": {
       "collation_status": "in_progress",
@@ -3964,9 +3964,9 @@
     },
     "O/O032.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1720,
+      "unresolved_candidates": 1717,
       "punctuation_status": "source_present",
-      "note": "증후·금기·약명과 고정 병렬로 7개 표지를 복원. 기존 규칙과 겹침 없음. 잔여 후보 1720자리."
+      "note": "현재 status 1720에서 직접 확정한 HT 3좌표만 차감했다. 서문·어류명·처방명·도형 표식과 기존 비조판 공백은 재분류하지 않았다."
     },
     "O/O035.txt": {
       "collation_status": "in_progress",
@@ -3982,9 +3982,9 @@
     },
     "O/O038.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1640,
+      "unresolved_candidates": 1638,
       "punctuation_status": "source_present",
-      "note": "HT 4곳 중 癮疹만 독립적으로 확정. 石瘕 문장, 蛟 뒤 동물명, 처방 표제의 결락은 대조본 없이는 특정 불가. 기존 규칙과 중복·겹침 없음. 잔여 후보 1640자리."
+      "note": "현 status 1640자리에서 HT와 뒤 결자 전각공백 2자리만 복원한다. 石瘕 문장은 어순 자체가 훼손되어 있고 ‘下　HT　’ 표제의 벽자 범위도 불명확하므로 추정하지 않았다."
     },
     "O/O039.txt": {
       "collation_status": "in_progress",
@@ -4044,7 +4044,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1671,
       "punctuation_status": "source_present",
-      "note": "目KT KT 3곳(토큰 6개)은 동일 표현 目䀮䀮으로 확정. HT然 4곳은 같은 일화의 반복이나 결락 글자를 독립 판본으로 확정하지 못해 보류. 규칙은 3회 비중첩 일치. 잔여 후보 1671자리."
+      "note": "현재 status 1671을 유지한다. 남은 HT然 4곳은 같은 일화의 반복이지만 공개 OCR이 蕉然·芍然 등으로 엇갈리고 판면 자형을 확정하지 못했으므로 추정 복원하지 않았다."
     },
     "O/O043.txt": {
       "collation_status": "in_progress",
@@ -4096,9 +4096,9 @@
     },
     "O/O063.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1761,
+      "unresolved_candidates": 1755,
       "punctuation_status": "source_present",
-      "note": "《傷寒論》·평행본·독립 전문과 반복 문맥으로 14개 표지를 복원. HT 5곳은 모두 해소되며 기존 규칙과 겹침 없음. 잔여 후보 1761자리."
+      "note": "현재 status 1775에서 공개 영인으로 확정된 KT 6좌표만 차감했다. 膝KT 및 기존 비조판 전각공백은 판독 근거가 부족해 보류했다. 기존 status 좌표에서 실제 복원분만 차감해 1755자리로 보정했다."
     },
     "O/O063a.txt": {
       "collation_status": "in_progress",

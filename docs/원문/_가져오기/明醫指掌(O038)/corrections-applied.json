@@ -1981,5 +1981,11 @@
     "expected_count": 1,
     "evidence": "문맥상 병명 열거의 정형어 癮疹痛癢이며, 고전 의서 검색에서도 癮疹·痛癢이 결합해 쓰인다. https://ctext.org/dictionary.pl?if=gb&char=%E7%99%AE",
     "reason": "공개 판본 대조로 결자 복원"
+  },
+  {
+    "before": "如魚、龍、蛟、HT　之形",
+    "after": "如魚、龍、蛟、鯉之形",
+    "expected_count": 1,
+    "reason": "저장소의 독립 평행문 P/P0800이 동일 구절을 ‘如魚龍蛟鯉之形’으로 전해 결자를 직접 확정한다."
   }
 ]
