@@ -33844,6 +33844,13 @@
       "expected_count": 1,
       "reason": "공개 원자료 전사의 고유 문맥에서 외자를 직접 확인",
       "evidence_url": "https://gitlab.com/jicheng/jc.data/-/raw/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+    },
+    {
+      "before": "KT　膠數塗，一日十數度，即瘥。療小兒癤子",
+      "after": "烿膠數塗，一日十數度，即瘥。療小兒癤子",
+      "expected_count": 1,
+      "evidence_url": "https://chicagoloopacupuncture.com/wp-content/uploads/2023/08/Gehong-Capstone-Final-Version.pdf",
+      "evidence_note": "《肘後備急方》 영인 기반 전사·번역 자료가 동일 구절을 `又，熱腫癤烿膠數塗，一日十數度，即差`로 직접 제시하고 烿을 'melt'로 풀이한다."
     }
   ],
   "D/D053.txt": [

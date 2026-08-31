@@ -288,7 +288,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3,
       "punctuation_status": "source_present",
-      "note": "檳榔 뒤의 KT 두 곳과 ‘肚腰□’ 한 곳은 현재 문맥만으로 글자를 독립 확정하기 어려워 보류."
+      "note": "잔여는 黑神散의 檳榔 뒤 KT, ‘入 KT 中’의 KT, 杏仁 조문의 ‘肚腰□’ 각 1개. 공개 전사도 앞 두 곳을 KT로 보존하며 원 조제문이 훼손되어 확정 불가; 마지막도 평행문을 찾지 못해 보류."
     },
     "D/D010.txt": {
       "collation_status": "in_progress",
@@ -297,10 +297,10 @@
       "note": "기존 136개 규칙이 순차 적용되며 경고·좌표 중첩이 없었다. HT/KT/□/[c] 잔여는 0이다. 잔여 후보 3982자리."
     },
     "C/C027.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 4,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "驚·消癉·木舌·咽喉 뒤의 □는 처방군과 처방명 사이 구조 표식으로 보이나 원래 조판 형식을 확정하기 어려워 보류."
+      "note": "네 □ 모두 글자 결락이 아니라 병증 소분류와 처방명 사이의 동일 반복 조판 구조로 판정해 전각 공백으로 통일."
     },
     "C/C031.txt": {
       "collation_status": "complete",
@@ -450,7 +450,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "현재 문서에는 HT/KT/□가 없지만 결자형 전각 공백이 남아 있었다. 위 19개 고유 규칙으로 21개 결자 좌표를 해소했으며, 柔痓·剛痓·暍 등 이체자 군과 기타 11좌표는 판본 표기 정책 확정 전 보류. 잔여 후보 11자리."
+      "note": "현재 HT·KT·□는 없고 잔여 11좌표는 柔痓·剛痓·暍 등 판본 이체자 표기와 결자형 전각 공백이다. 통행본 간 이체 정책이 달라 신규 문자 복원이나 layout 확정을 하지 않았다. 기존 규칙과 신규 중첩·경고 없음."
     },
     "B/B002a.txt": {
       "collation_status": "in_progress",
@@ -480,7 +480,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2,
       "punctuation_status": "source_present",
-      "note": "실제 적용본의 실결락 표지는 `其既出HT　HT　，流利未暢`의 HT 2개뿐이며 공개 전사도 결락 상태다. 전각 공백 29개는 조판 또는 판독 미확정으로 신규 복원하지 않았다. 긴 고유 규칙과 중복된 짧은 `缺盆以下至…天樞` 규칙을 삭제하면 기존 좌표 중첩 경고 2건도 해소된다."
+      "note": "유일한 표지 결락은 `其既出HT　HT　，流利未暢` 2자다. 검색 가능한 동일 저작 전사도 `○ ○`로 결락되어 있고 수류 의태어 후보를 판본 없이 확정할 수 없다. 전각 공백 29개는 기존 판정대로 조판."
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -496,9 +496,9 @@
     },
     "A/A101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 15,
+      "unresolved_candidates": 8,
       "punctuation_status": "source_present",
-      "note": "기존 39개 중 脖胦 규칙의 실제 개행을 반영하고 上注谿穀 직접 인용의 expected_count를 4로 수정한 전체 replacement 배열. 잔여 HT5·KT10은 영인 재판독 필요. 검증 applied=39/39, warnings=0, overlaps=0."
+      "note": "신규 규칙은 6개이나 두 번째 규칙이 KT 2자를 복원하므로 총 7자 해소되어 잔여15에서8로 감소한다. 모든 before는 본문 1회이며 기존39개 규칙과 문자열·좌표 중첩이 없다."
     },
     "A/A203.txt": {
       "collation_status": "complete",
@@ -540,7 +540,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "현 적용본의 실제 표지는 HT 1·□ 11. HT는 해소했으나 ‘寒化一…丁亥中’ 사이 연속 □ 11칸은 공개 전사도 해당 구간을 온전히 제공하지 않아 보류. 잔여 후보 11자리."
+      "note": "잔여는 `寒化一□□□□□至也…□□□□□□丁亥中`의 연속 □11이다. 공개 전사도 같은 손상 구간을 온전히 제공하지 않고 운기 문맥만으로 정확한 원문 길이와 글자를 확정할 수 없어 전부 보류했다."
     },
     "A/A009.txt": {
       "collation_status": "complete",
@@ -570,7 +570,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "‘綁伏，□當心下來三指灸’의 □는 지시 부사 또는 조판 표식일 수 있어 독립 확정 근거가 부족하므로 보류."
+      "note": "유일한 실결락은 `先將病患綁伏，□當心下來三指灸`의 □ 1자다. `背`·`正` 후보가 있으나 검색 가능한 동일 처방 전사가 없어 확정하지 않았다. 전각 공백 1313개는 약명 표제·목록 조판으로 판정."
     },
     "E/E009.txt": {
       "collation_status": "complete",
@@ -654,7 +654,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "같은 承漿HT 자리를 穴과 瀉로 중복 교정하던 규칙 중 전체 침법 문맥이 있는 承漿瀉 장문 규칙만 보존해 중첩을 제거했다. 전각 공백 180곳은 운문·경혈 목록 조판이며, 太醫院官黃□의 인명 1자는 Wikisource·jicheng·검색 가능한 명부에서도 확정되지 않아 보류. 전체 8개 규칙을 수정 전 원문 좌표에 검증하여 applied=8, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 1자리."
+      "note": "유일한 실결락은 `太醫院官黃□`의 인명 1자다. ctext 및 공개 《針灸神書》 전사도 □를 유지하고 명대 太醫院 명부에서 동일 인물을 특정하지 못했다. 전각 공백 180개는 운문·경혈 목록 조판."
     },
     "A/A303.txt": {
       "collation_status": "complete",
@@ -3174,7 +3174,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7,
       "punctuation_status": "source_present",
-      "note": "본문 특수문자 결자는 없으나 pt1.bmp~pt7.bmp의 고유 도판 참조 7개가 남고 실제 자산은 전부 없음. 과거 audit의 16은 중복 참조 수로 보이며 실제 고유 유실 자산은 7개. 도판을 확보하거나 검증된 벡터 재현을 넣기 전 승격 불가. 잔여 후보 7자리."
+      "note": "잔여 7건은 문자 표식이 아니라 변환 과정에서 유실된 도판. 공개 영인 자산 확인: CText 사본 https://ctext.org/library.pl?if=gb&remap=gb&res=5263 ; Wikimedia Commons 229쪽 PDF https://commons.wikimedia.org/wiki/File:SSID-12129644_湯液本草_1.pdf (원본 파일 21.21MB, public-domain scan 표기). 페이지 대응·도판 crop 전에는 자동 승격하지 않음."
     },
     "M/M111.txt": {
       "collation_status": "complete",
@@ -3508,9 +3508,9 @@
     },
     "D/D026.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 12,
+      "unresolved_candidates": 11,
       "punctuation_status": "source_present",
-      "note": "KT 7자 중 6자를 공개 원자료의 고유 문맥으로 복원했다. ‘KT　膠數塗’는 원자료도 조자식 ⿰火肜만 제공하여 실자 판독 전까지 보류했다. □ 11자도 원자료 자체가 결락이므로 영인 직접 판독이 필요하다. 잔여 후보 12자리."
+      "note": "KT 1자를 복원해 12에서 11로 감소한다. `好□□□□茱萸。末`은 독립 인용에서 `好茱萸末`로 확인되지만, 해당 네 좌표가 기존 射菵 복원 규칙의 before 범위와 겹쳐 중첩 금지 원칙상 신규 제안에서 제외했다. 나머지 □7도 영인 손상으로 보류."
     },
     "D/D027.txt": {
       "collation_status": "in_progress",
@@ -3832,9 +3832,9 @@
     },
     "K/K101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2,
+      "unresolved_candidates": 1,
       "punctuation_status": "codex_verified",
-      "note": "확정 가능한 KT 2자와 HT 3자를 4개 고유 문맥 규칙으로 제안. 나머지 표식은 희귀 해부자·전사 손상이 섞여 보류."
+      "note": "五色帶下 평행 영인으로 `肝病色青如青泥`의 青 1자를 확정했다. 남은 1자는 `陰股HT間`이며 독립 전사에서도 자형을 확보하지 못했다. 전각 공백은 대규모 경혈·처방 목록의 조판 간격으로 분리했다."
     },
     "L/L000.txt": {
       "collation_status": "in_progress",
@@ -4008,7 +4008,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7,
       "punctuation_status": "source_present",
-      "note": "실제 적용본에서 □ 7개는 `故生則□□□□□□□。後能發音` 한 곳에 남고 독립 공개 전사도 같은 결락이다. 전각 공백 20개는 조판·구두 간격으로 분리 보존."
+      "note": "실제 잔여는 ‘故生則□□□□□□□。後能發音’의 연속 7자. 공개 검색에서 동일 문장을 확보하지 못했고 문법상 여러 복원이 가능하여 보류."
     },
     "O/O046.txt": {
       "collation_status": "in_progress",

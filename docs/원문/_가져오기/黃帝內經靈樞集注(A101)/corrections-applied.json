@@ -299,5 +299,47 @@
     "evidence_url": "https://ctext.org/huangdi-neijing/biao-ben-bing-chuan-lun",
     "evidence_note": "《素問·標本病傳論》 동일 조문이 ‘背膂筋痛，小便閉’로 전함.",
     "reason": "《素問·標本病傳論》 동일 조문이 ‘背膂筋痛，小便閉’로 전함."
+  },
+  {
+    "before": "其為人赤色。廣KT　銳面。小頭",
+    "after": "其為人赤色。廣䏖銳面。小頭",
+    "expected_count": 1,
+    "evidence_url": "https://www.hantopic.com/kjopp/2201/25.pdf",
+    "evidence_note": "《靈樞·陰陽二十五人》 인용 연구가 火形人 원문을 `赤色，廣䏖，銳面，小頭`로 직접 제시한다."
+  },
+  {
+    "before": "KT　、脊肉也。廣KT　者",
+    "after": "䏖、脊肉也。廣䏖者",
+    "expected_count": 1,
+    "evidence_url": "https://www.hantopic.com/kjopp/2201/25.pdf",
+    "evidence_note": "같은 평행문과 주석 자체의 `脊肉也`가 주석 표제와 반복 어구 두 자 모두 䏖임을 확인한다."
+  },
+  {
+    "before": "肩背肉滿者。即KT　廣也",
+    "after": "肩背肉滿者。即䏖廣也",
+    "expected_count": 1,
+    "evidence_url": "https://www.hantopic.com/kjopp/2201/25.pdf",
+    "evidence_note": "앞의 `廣䏖`을 역순으로 풀이하는 동일 주석 문맥이므로 䏖으로 확정된다."
+  },
+  {
+    "before": "沖而瀉之。以待日之將HT　。",
+    "after": "沖而瀉之。以待日之將晏。",
+    "expected_count": 1,
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/SSID-13351534_%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E9%9D%88%E6%9F%A9%E9%9B%86%E6%B3%A8_%E5%8D%B78.pdf",
+    "evidence_note": "《黃帝內經靈樞集注》 공개 영인 OCR 표가 동일 문장을 `以待日之將晏`으로 직접 보존한다."
+  },
+  {
+    "before": "熱病頭痛。顳　目HT　。脈痛善衄。厥熱病也",
+    "after": "熱病頭痛。顳　目𤬓。脈痛善衄。厥熱病也",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/469/99",
+    "evidence_note": "《靈樞識·熱病》 독립 교감문이 해당 경문을 `顳顬目𤬓脈痛`으로 제시한다. 앞의 顳 뒤 공백은 별도 결락으로 유지한다."
+  },
+  {
+    "before": "肝脈上巔頂。熱病頭痛者。表邪之熱。交於肝脈也。顳　目HT　者",
+    "after": "肝脈上巔頂。熱病頭痛者。表邪之熱。交於肝脈也。顳　目𤬓者",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/469/99",
+    "evidence_note": "바로 앞 경문 `顳顬目𤬓脈痛`을 재인용해 해설하는 occurrence이므로 같은 외자 𤬓로 확정된다."
   }
 ]
