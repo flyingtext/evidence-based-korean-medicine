@@ -894,5 +894,110 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
     "evidence_note": "병증 螈瘲.",
     "reason": "병증 螈瘲."
+  },
+  {
+    "before": "虛則目KT　KT　無所見",
+    "after": "虛則目䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "《黃帝內經》 간허증 평행문이 ‘肝虛者，目䀮䀮無所見’으로 전한다.",
+    "evidence": "https://ctext.org/huangdi-neijing/jing-mai"
+  },
+  {
+    "before": "目KT　KT　如無所見",
+    "after": "目䀮䀮如無所見",
+    "expected_count": 1,
+    "reason": "족소음맥 병후의 《靈樞·經脈》 평행문이 ‘目䀮䀮如無所見’으로 일치한다.",
+    "evidence": "https://ctext.org/huangdi-neijing/jing-mai"
+  },
+  {
+    "before": "善忘。目KT　KT　。骨中寒者",
+    "after": "善忘。目䀮䀮。骨中寒者",
+    "expected_count": 1,
+    "reason": "같은 망진 문맥의 반복 어형과 《黃帝內經》의 ‘目䀮䀮’ 용례가 일치한다.",
+    "evidence": "https://ctext.org/huangdi-neijing/jing-mai"
+  },
+  {
+    "before": "HT　土之人丑",
+    "after": "耗土之人丑",
+    "expected_count": 1,
+    "reason": "《易本命》 인용의 정문은 ‘息土之人美，耗土之人醜’이다.",
+    "evidence": "https://pedia.cloud.edu.tw/Entry/Detail/?search=%E6%81%AF%E5%9C%9F&title=%E6%81%AF%E5%9C%9F"
+  },
+  {
+    "before": "目HT　系絕。色先青白",
+    "after": "目眶絕系。色先青白",
+    "expected_count": 1,
+    "reason": "《素問·診要經終論》의 해당 구절은 ‘耳聾百節皆縱，目眶絕系’로 전한다.",
+    "evidence": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "眼睛發HT　。腹堅且大",
+    "after": "眼睛發晛。腹堅且大",
+    "expected_count": 1,
+    "reason": "《醫宗金鑑》 疳證 총괄과 주석이 모두 ‘眼睛發晛’으로 전한다.",
+    "evidence": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%8D%B7%E4%BA%94"
+  },
+  {
+    "before": "目HT　戴眼者。陽經之死候也",
+    "after": "目反戴眼者。陽經之死候也",
+    "expected_count": 1,
+    "reason": "의서에서 위로 뒤집혀 응시하는 사후를 ‘反戴眼’이라 하며 해당 문장의 문법에도 정확히 맞는다.",
+    "evidence": "https://www.zysj.com.cn/lilunshuji/pujifangzhenjiu/601-14-10.html"
+  },
+  {
+    "before": "目HT　系絕者。少陽終也",
+    "after": "目眶絕系者。少陽終也",
+    "expected_count": 1,
+    "reason": "같은 책의 앞선 인용 및 《素問·診要經終論》 정문 ‘目眶絕系’와 일치한다.",
+    "evidence": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "耳則為之KT　黑焦癖",
+    "after": "耳則為之黯黑焦癖",
+    "expected_count": 1,
+    "reason": "《備急千金要方》 영인 OCR가 해당 구절을 ‘耳為之黯黑焦癥’으로 판독하며 문맥상 黯黑이 성립한다.",
+    "evidence": "https://upload.wikimedia.org/wikipedia/commons/c/c5/NTUL-9910003304_%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9_%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8D%B7_v.18.pdf"
+  },
+  {
+    "before": "虛則欠KT　",
+    "after": "虛則欠㰦",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 수태음 별락의 정문은 ‘虛則欠㰦’이다.",
+    "evidence": "https://ctext.org/huangdi-neijing/jing-mai"
+  },
+  {
+    "before": "曰KT　KT　。曰振振",
+    "after": "曰𠘧𠘧。曰振振",
+    "expected_count": 1,
+    "reason": "상한 태양병의 항배강 증후 및 짧은 깃의 새 비유에 쓰인 어형은 ‘𠘧𠘧’이다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
+  },
+  {
+    "before": "曰栗。KT　KT　者何。項背強",
+    "after": "曰栗。𠘧𠘧者何。項背強",
+    "expected_count": 1,
+    "reason": "동일 단락의 정의문에서 ‘𠘧𠘧’이 항배강을 가리킨다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
+  },
+  {
+    "before": "項背強。KT　KT　然。猶短羽之鳥",
+    "after": "項背強。𠘧𠘧然。猶短羽之鳥",
+    "expected_count": 1,
+    "reason": "‘猶短羽之鳥’ 비유를 포함한 공개 평행문이 ‘𠘧𠘧然’으로 전한다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
+  },
+  {
+    "before": "故其為病也。KT　KT　者太陽實",
+    "after": "故其為病也。𠘧𠘧者太陽實",
+    "expected_count": 1,
+    "reason": "같은 논설 내부의 반복 표기는 모두 ‘𠘧𠘧’이다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
+  },
+  {
+    "before": "且KT　KT　者。太陽實",
+    "after": "且𠘧𠘧者。太陽實",
+    "expected_count": 1,
+    "reason": "같은 논설 내부의 반복 표기는 모두 ‘𠘧𠘧’이다.",
+    "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
   }
 ]

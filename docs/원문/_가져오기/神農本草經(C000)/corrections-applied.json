@@ -894,5 +894,23 @@
     "reason": "직전의 ‘蔥、薤異物，而今共條’와 동일한 蔥·薤 합조 논의에 따라 복원.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
     "evidence_note": "같은 절 내부의 명시적 선행문이 결자를 확정함."
+  },
+  {
+    "before": "萍，蘋也。KT　，大萍也。",
+    "after": "萍，蘋也。薸，大萍也。",
+    "expected_count": 1,
+    "evidence": "《爾雅》郭璞注와 方言·廣韻 계통에서 浮萍을 ‘薸’라 하고 ‘江東謂之薸’라 한다. 동일 단락의 세 용례가 모두 이 글자다."
+  },
+  {
+    "before": "《廣雅》云：KT，萍也。",
+    "after": "《廣雅》云：薸，萍也。",
+    "expected_count": 1,
+    "evidence": "《廣雅·釋草》의 공개 인용이 ‘薸（瓢），萍也’로 전한다."
+  },
+  {
+    "before": "江東謂之KT　。",
+    "after": "江東謂之薸。",
+    "expected_count": 1,
+    "evidence": "《爾雅·釋草》郭璞注 및 《廣韻》 인용의 고정문 ‘江東謂之薸’로 독립 확인된다: https://sign.hakka.gov.tw/File/Get?filename=%5CAttach%5C1990%5C1%5C841010163371.pdf"
   }
 ]

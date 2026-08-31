@@ -15895,6 +15895,18 @@
       "evidence_url": "https://contents.kocw.net/KOCW/document/2015/pusan/lyujeongah/8.pdf",
       "evidence_note": "같은 경문과 ‘鼽=鼻流清水’라는 주석 정의가 두 occurrence를 확정한다.",
       "reason": "같은 경문과 ‘鼽=鼻流清水’라는 주석 정의가 두 occurrence를 확정한다."
+    },
+    {
+      "before": "六氣相生循環不窮豈歲間斷於傳承之際HT　然則終始乎艮者",
+      "after": "六氣相生循環不窮豈歲間斷於傳承之際哉然則終始乎艮者",
+      "expected_count": 1,
+      "evidence": "《古今圖書集成》 영인·전사가 동일 운기 논설을 `六氣相生，循環不窮，豈歲歲間斷於傳承之際哉？然則…`로 보존한다. https://zh.wikisource.org/wiki/Page:Gujin_Tushu_Jicheng,_Volume_015_(1700-1725).djvu/75"
+    },
+    {
+      "before": "其繼往開來之功甚偉吾HT　好事者為之刻梓以公於天下後世",
+      "after": "其繼往開來之功甚偉吾䣊好事者為之刻梓以公於天下後世",
+      "expected_count": 1,
+      "evidence": "독립 《讀素問鈔》 전사가 서문 해당 문장을 `其繼往開來之功甚偉吾䣊好事者`로 보존한다. https://www.donglishuzhai.net/chapter/4796.html"
     }
   ],
   "A/A304.txt": [

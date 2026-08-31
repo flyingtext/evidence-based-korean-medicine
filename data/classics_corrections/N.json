@@ -3902,6 +3902,13 @@
       "evidence_url": "https://ctext.org/wiki.pl?chapter=3095637&if=en",
       "evidence_note": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함.",
       "reason": "許權 전기에서 동생 辛木의 이름이 楣로 확인되며 본문 직함·호와 일치함."
+    },
+    {
+      "before": "《玉篇》曰　HT　，《博雅》曰HT　，晶黎詩",
+      "after": "《玉篇》曰　蛷螋　，《博雅》曰螋蛷　，晶黎詩",
+      "expected_count": 1,
+      "reason": "《冷廬醫話》 공개 전사본의 동일 조항은 《玉篇》 ‘蛷螋’, 《博雅》 ‘螋蛷’로 전하며, 두 HT가 각각 두 글자 어휘를 대신한 자리다.",
+      "evidence": "https://cloudtcm.com/shu/t1/384/109"
     }
   ],
   "N/N001.txt": [

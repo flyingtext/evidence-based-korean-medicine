@@ -47538,6 +47538,12 @@
       "after": "如肝性急，怒氣逆，胠脅或脹，火時上炎，治以苦寒辛散而不愈者",
       "expected_count": 1,
       "evidence": "《古今醫統大全》의 동일 木鬱達之 논설이 `如肝性急怒氣逆，胠脅或脹，火時上炎`으로 보존한다. https://cloudtcm.com/shu/t1/634/672"
+    },
+    {
+      "before": "脅痛舊從肝治，不知肝固內HT　脅，何以異於足少陽，手心主所過而痛者哉",
+      "after": "脅痛舊從肝治，不知肝固內應脅，何以異於足少陽，手心主所過而痛者哉",
+      "expected_count": 1,
+      "evidence": "이 문단의 자매 수록본 《醫衡》 공개 영인에서 해당 구절의 자형이 `肝固內應脅`로 판독되며, 뒤의 ‘若謂肝經所過’와 대조되는 장부 내응 논리에도 일치한다. https://upload.wikimedia.org/wikipedia/commons/8/8a/SSID-13367121_%E9%86%AB%E8%A1%A1_%E4%B9%BE%E9%9B%86.pdf"
     }
   ],
   "O/O061.txt": [
@@ -96519,6 +96525,18 @@
       "after": "肉積類：硇砂　阿魏",
       "expected_count": 1,
       "reason": "肉積 치료 약물의 정형 배합 硇砂·阿魏."
+    },
+    {
+      "before": "冷生氣，是復卦HT　。熱生風，是　卦HT　。",
+      "after": "冷生氣，是復卦亨。熱生風，是　卦亨。",
+      "expected_count": 1,
+      "evidence": "《醫旨緒餘·醫通諸論》을 직접 인용한 원전학 연구가 ‘冷生氣，復卦亨；熱生風，是姤卦亨’으로 전한다: https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001901015"
+    },
+    {
+      "before": "地有聚邑，人有KT　肉。",
+      "after": "地有聚邑，人有䐃肉。",
+      "expected_count": 1,
+      "evidence": "직접 인용 원전 《靈樞·邪客》의 고정문은 ‘地有聚邑，人有䐃肉’이며 복수 공개 강독·연구에서 같은 희귀자를 보존한다: https://contents.kocw.or.kr/KOCW/document/2016/pusan/lyujeongah/1.pdf"
     }
   ],
   "O/O089.txt": [
