@@ -3785,5 +3785,29 @@
     "expected_count": 1,
     "reason": "직전 경문의 표제어 반복과 후속 자의주로 확정",
     "evidence": "동일 문단 刺皮䯏以下 및 䯏，骨端也"
+  },
+  {
+    "before": "（按，HT　，注解誤矣。",
+    "after": "（按，𤙲，注解誤矣。",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 《素問經注節解》 陰陽應象大論 절의 동일 문장이 `氣虛宜𤙲引之。（按，𤙲，註解誤矣`로 확인된다. https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%B6%93%E6%B3%A8%E7%AF%80%E8%A7%A3/index.html"
+  },
+  {
+    "before": "釋音，皮HT　作皮　，苦末反",
+    "after": "釋音，皮𩩻作皮　，苦末反",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 《素問經注節解》 長刺節論의 신교정 인용이 `釋音，皮𩩻作皮䯏，苦末反`으로 확인된다. 전각공백 결락은 본 규칙에서 별도 복원하지 않았다. https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%B6%93%E6%B3%A8%E7%AF%80%E8%A7%A3/index.html"
+  },
+  {
+    "before": "是　誤作HT　也。及遍尋篇韻中",
+    "after": "是　誤作𩩻也。及遍尋篇韻中",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 주석이 `是䯏誤作𩩻也`로 확인되어 HT 위치의 글자는 𩩻이다. 전각공백은 감사 대상에서 제외했다. https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%B6%93%E6%B3%A8%E7%AF%80%E8%A7%A3/index.html"
+  },
+  {
+    "before": "及遍尋篇韻中無HT　字，只有　字",
+    "after": "及遍尋篇韻中無𩩻字，只有　字",
+    "expected_count": 1,
+    "evidence": "jicheng.tw 동일 주석이 `及遍尋篇韻中無𩩻字，只有䯏字`로 확인된다. 본 규칙은 명시 HT만 복원한다. https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%B6%93%E6%B3%A8%E7%AF%80%E8%A7%A3/index.html"
   }
 ]

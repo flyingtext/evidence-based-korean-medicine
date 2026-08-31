@@ -1,0 +1,53 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q006.txt",
+    "sha256": "586973f2d82039911b61952d18d778abf936c102f12b8ccdb98d879c249683aa"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "db69744a92c83e7f00223b118019166a5166ea4ad830629cc864c6c53413cf69",
+    "applied_count": 2
+  },
+  "output": "docs/원문/_가져오기/肘後歌(Q006)/표점본.md",
+  "chunks": {
+    "total": 1,
+    "resumable_completed": 1,
+    "min_chars": 854,
+    "max_chars": 854,
+    "target_chars": 600,
+    "attempts": [
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 854,
+        "output_characters": 854,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 102,
+        "punctuation_density": 0.14166667,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 720,
+    "output_nonpunctuation_characters": 720,
+    "input_non_punctuation_characters": 720,
+    "output_non_punctuation_characters": 720
+  },
+  "punctuation": {
+    "ascii_count": 102,
+    "density_per_nonpunctuation_character": 0.14166667,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

@@ -106,10 +106,10 @@
     },
     "K/K003a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 833,
+      "unresolved_candidates": 1240,
       "punctuation_status": "source_present",
-      "note": "기존 18개 교정을 CRLF 정규화 뒤 순차 적용하면 [c] 코드는 6종 22좌표가 남는다(status의 855는 태그 좌표 수와 일치하지 않음). 가변 코드 khuc는 疹 1·㿗 4, klmc는 㿉 11·潰 1, hlcim은 鞕 1·鼽 1로 occurrence별 분리했고, 나머지는 ksrb=痱, bbapv+bbmms=𩩲骭으로 확정했다. 제안 규칙 적용 후 [c] 태그는 0개다. 코드 표지는 모두 해소했으나 판독 대기 전각 결락 후보를 포함해 문헌 전체 잔여는 833좌표로 유지한다.",
-      "remaining_count": 833,
+      "note": "CRLF를 LF로 정규화한 뒤 기존 K/K003a 오버레이를 순차 적용해 감사했다. 추가 규칙 적용 후 HT 0, KT 0, □ 0, PUA 0이며 전각공백은 교감 대상에서 제외했다. 전각공백을 포함한 종전 집계 방식의 잔여 수는 1240이다.",
+      "remaining_count": 1240,
       "status": "in_progress"
     },
     "K/K005.txt": {
@@ -124,7 +124,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 622,
       "punctuation_status": "source_present",
-      "note": "HEAD 141개 규칙 expected_count 전부 검증 후 동시 적용. 적용 뒤 명시 표지는 HT 19, KT 1, □ 13과 전각공백 1188회였으며, jicheng.tw 직접 대조로 HT 19회와 KT 1회를 모두 복원한다. □ 13회는 jicheng.tw에도 그대로 남아 원영상 판독 없이는 안전하지 않아 보류한다. 기존 audit의 status 642(전각공백 미해결 609 + HT/KT/□ 33) 기준 20개 명시 표지 순감으로 remaining_count 622. 전각공백은 모든 규칙에서 그대로 유지했다.",
+      "note": "현재 source에 HEAD correction overlay 159개를 expected_count 조건으로 순차 검사하면 97개 적용·62개 stale. 적용 후 HT/KT 0개, □ 13개, BMP PUA 0개. jicheng.tw 및 인터넷의 동일 구절을 재검색했으나 남은 □는 원문에서도 판독 누락이거나 처방 분량·장문 결락으로 안전한 복원이 불가능했다. 전각공백 제외, remaining_count 622 유지.",
       "remaining_count": 622,
       "status": "in_progress"
     },
@@ -566,12 +566,12 @@
       "status": "in_progress"
     },
     "A/A011.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 612,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "기존 교정 순차 적용 뒤 실제 명시 표지 19개 중 15개를 직접 경문·자체 음주·반복 자의주로 교감. 글자 자체를 논하는 후반 교감문 3개와 문맥 불명 주석 1개는 보류. status 627→612.",
-      "remaining_count": 612,
-      "status": "in_progress"
+      "note": "현재 correction overlay에서 원문과 일치해 적용 가능한 476규칙을 반영한 뒤 HT 4, KT 0, □ 0, BMP PUA 0을 확인했다. 기존 8규칙은 선행 문맥 교정으로 before가 이미 사라져 직접 적용되지 않았다. 전각공백 751개는 감사 대상에서 제외했다. jicheng.tw 동일 본문으로 HT 4개를 모두 확정하여 잔여 명시 표지는 0이다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "A/A013.txt": {
       "collation_status": "in_progress",
@@ -998,7 +998,7 @@
     "Q/Q006.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "공백·깨진 토큰 없음. 독립 인용 자료로 骨寒髓冷·應針環跳 2건 교정하고 [j] 이문 주석 구조를 보존, 원자료 표점 충분"
     },
     "Q/Q007.txt": {
