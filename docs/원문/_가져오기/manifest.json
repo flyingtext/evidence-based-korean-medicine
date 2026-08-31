@@ -2089,7 +2089,7 @@
       "output_directory": "本草徵要(C015)",
       "markdown_files": 1,
       "translation_units": 548,
-      "corrections_applied": 56,
+      "corrections_applied": 57,
       "punctuated": false,
       "warnings": []
     },
@@ -2204,7 +2204,7 @@
       "output_directory": "本草經解(C020)",
       "markdown_files": 7,
       "translation_units": 210,
-      "corrections_applied": 91,
+      "corrections_applied": 95,
       "punctuated": false,
       "warnings": []
     },
@@ -9699,7 +9699,7 @@
       "output_directory": "古今醫案按(N007)",
       "markdown_files": 12,
       "translation_units": 187,
-      "corrections_applied": 281,
+      "corrections_applied": 283,
       "punctuated": false,
       "warnings": []
     },
@@ -10582,7 +10582,7 @@
       "output_directory": "讀醫隨筆(N059)",
       "markdown_files": 8,
       "translation_units": 141,
-      "corrections_applied": 21,
+      "corrections_applied": 23,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '虻蟲、\\u3000蟲、蠐螬' (2/1)"
@@ -12031,12 +12031,9 @@
       "output_directory": "軒岐救正論(O061)",
       "markdown_files": 13,
       "translation_units": 207,
-      "corrections_applied": 106,
+      "corrections_applied": 107,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '至如省客。來如彈石。去如解索。  命脈將絕。\\u3000游魚翔' (0/1)",
-        "교정 불일치: '虛火可補。參\\u3000之屬' (3/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "O/O062.txt",

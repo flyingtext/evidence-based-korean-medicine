@@ -48175,14 +48175,6 @@
       "evidence_note": "O/O061.txt: 좌우 한자 각 14자 고유 일치"
     },
     {
-      "before": "虛火可補。參　之屬",
-      "after": "虛火可補。參耆之屬",
-      "expected_count": 1,
-      "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
-      "evidence_note": "보익 약물 參耆.",
-      "reason": "보익 약물 參耆."
-    },
-    {
       "before": "則病生痿　也",
       "after": "則病生痿躄也",
       "expected_count": 1,
@@ -48207,11 +48199,11 @@
       "reason": "가을바람을 뜻하는 商飆."
     },
     {
-      "before": "至如省客。來如彈石。去如解索。  命脈將絕。　游魚翔",
-      "after": "至如省客。來如彈石。去如解索。  命脈將絕。蝦游魚翔",
+      "before": "至如省客。來如彈石。去如解索。\n\n命脈將絕。　游魚翔",
+      "after": "至如省客。來如彈石。去如解索。\n\n命脈將絕。蝦游魚翔",
       "expected_count": 1,
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%BB%92%E5%B2%90%E6%95%91%E6%AD%A3%E8%AB%96/index.html",
-      "evidence_note": "괴맥 형용 ‘蝦游魚翔’.",
+      "evidence_note": "실제 source의 개행 2개와 전각 공백 1개에 맞춘 고유 문맥; 괴맥 형용 `蝦游魚翔`.",
       "reason": "괴맥 형용 ‘蝦游魚翔’."
     },
     {

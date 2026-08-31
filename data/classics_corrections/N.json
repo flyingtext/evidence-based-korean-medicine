@@ -10399,6 +10399,20 @@
       "expected_count": 1,
       "evidence": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之.",
       "reason": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之."
+    },
+    {
+      "before": "張戴人治HT　陽劉氏男子。年二十余。病勞嗽咯血",
+      "after": "張戴人治隱陽劉氏男子。年二十余。病勞嗽咯血",
+      "expected_count": 1,
+      "reason": "원 출전 계통 《醫方類聚》가 동일 의안을 ‘隱陽劉氏一男子’로 직접 보존한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/7589183229018505251/chapter/1lql4tsip4k6c"
+    },
+    {
+      "before": "至晚胸中痛止而膝KT　大痛。蓋痰飲隨氣升降故也",
+      "after": "至晚胸中痛止而膝䯊大痛。蓋痰飲隨氣升降故也",
+      "expected_count": 1,
+      "reason": "《名醫類案》 동일 虞恆德 의안의 독립 전사가 ‘膝䯊大痛’으로 보존한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=76348&if=en&remap=gb"
     }
   ],
   "N/N009.txt": [
@@ -17866,6 +17880,18 @@
       "expected_count": 1,
       "evidence": "부육이 성내듯 부어오르는 병증어 䐜脹.",
       "reason": "부육이 성내듯 부어오르는 병증어 䐜脹."
+    },
+    {
+      "before": "焦查、竹茹、石膏、　瓦楞子",
+      "after": "焦查、竹茹、石膏、煅瓦楞子",
+      "expected_count": 1,
+      "reason": "熱痰을 내리는 약물 열거에서 瓦楞子의 정형 포제는 煅瓦楞子."
+    },
+    {
+      "before": "宜甘潤咸潤以填陰，佐以參、　、升、柴",
+      "after": "宜甘潤咸潤以填陰，佐以參、耆、升、柴",
+      "expected_count": 1,
+      "reason": "補氣建中 약물의 정형 열거 人參、黃耆、升麻、柴胡."
     }
   ],
   "N/N053.txt": [

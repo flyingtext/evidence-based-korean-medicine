@@ -446,5 +446,13 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%B5%E8%A6%81/index.html",
     "evidence_note": "C/C015.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "味甘，性溫，無毒。入肺、小腸、膀胱三經。畏萆　。",
+    "after": "味甘，性溫，無毒。入肺、小腸、膀胱三經。畏萆薢。",
+    "expected_count": 1,
+    "reason": "防風의 배오 금기 약명 萆薢이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%85%A8%E8%A6%BD1",
+    "evidence_note": "독립 《本草綱目》 배오표에 萆薢로 확인."
   }
 ]

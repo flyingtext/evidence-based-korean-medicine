@@ -2245,5 +2245,19 @@
     "expected_count": 1,
     "evidence": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之.",
     "reason": "생강즙을 둔 방에 환자를 들여보내 문을 닫는 치료 절차 入室閉之."
+  },
+  {
+    "before": "張戴人治HT　陽劉氏男子。年二十余。病勞嗽咯血",
+    "after": "張戴人治隱陽劉氏男子。年二十余。病勞嗽咯血",
+    "expected_count": 1,
+    "reason": "원 출전 계통 《醫方類聚》가 동일 의안을 ‘隱陽劉氏一男子’로 직접 보존한다.",
+    "evidence_url": "https://www.shidianguji.com/zh/book/7589183229018505251/chapter/1lql4tsip4k6c"
+  },
+  {
+    "before": "至晚胸中痛止而膝KT　大痛。蓋痰飲隨氣升降故也",
+    "after": "至晚胸中痛止而膝䯊大痛。蓋痰飲隨氣升降故也",
+    "expected_count": 1,
+    "reason": "《名醫類案》 동일 虞恆德 의안의 독립 전사가 ‘膝䯊大痛’으로 보존한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=76348&if=en&remap=gb"
   }
 ]

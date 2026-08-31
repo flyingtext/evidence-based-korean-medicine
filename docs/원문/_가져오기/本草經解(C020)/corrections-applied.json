@@ -726,5 +726,29 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%93%E8%A7%A3/index.html",
     "evidence_note": "C/C020.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "大棗、黃。名黃　建中湯",
+    "after": "大棗、黃耆。名黃耆建中湯",
+    "expected_count": 1,
+    "reason": "黃耆建中湯의 약재와 방제명에서 黃耆가 연속 두 번 쓰이는 문맥."
+  },
+  {
+    "before": "杞子、黃、甘草、北味。治虛勞",
+    "after": "杞子、黃耆、甘草、北味。治虛勞",
+    "expected_count": 1,
+    "reason": "補肺益氣 약물 열거의 黃耆."
+  },
+  {
+    "before": "桑葉同黃　、歸身",
+    "after": "桑葉同黃耆、歸身",
+    "expected_count": 1,
+    "reason": "血虛身熱 처방의 정형 약물 黃耆·當歸."
+  },
+  {
+    "before": "同附子、黃　。治裡氣虛寒",
+    "after": "同附子、黃耆。治裡氣虛寒",
+    "expected_count": 1,
+    "reason": "附子와 배합해 裡氣虛寒을 다스리는 補氣藥 黃耆."
   }
 ]

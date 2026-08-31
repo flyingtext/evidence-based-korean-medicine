@@ -54,7 +54,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 134,
       "punctuation_status": "source_present",
-      "note": "실제 비표점 출력: HT 7, KT 18, □ 0, PUA 0, 전각 공백 109. 䀮䀮 등 희귀 의학자와 공표식이 섞여 있어 기존 규칙 중첩을 피하고 occurrence별 원판 대조 전 보류. 미분류 전각 공백을 실결락 가능 후보에서 제외할 독립 근거가 없어 보수적 잔여 134자리로 유지한다."
+      "note": "HT7·KT18·전각공백109를 재좌표화했다. 目系·目睘, 項背強 희자, 지형·이체자 문맥이 섞여 있으며 공개 전사도 표식을 계승하거나 판본 어순이 달라 occurrence 고유 확정을 못 했다. 기존 조판 분류와 잔여를 유지한다."
     },
     "N/N001.txt": {
       "collation_status": "in_progress",
@@ -78,7 +78,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 129,
       "punctuation_status": "source_present",
-      "note": "실제 비표점 출력: HT 2, KT 0, □ 0, PUA 0, 전각 공백 127. HT는 蠷螋 관련 희귀 자전 인용에 집중되어 원판 대조 전 보류; 전각 공백은 조판과 결락 혼재. 미분류 전각 공백을 실결락 가능 후보에서 제외할 독립 근거가 없어 보수적 잔여 129자리로 유지한다."
+      "note": "HT 2, 전각 공백 127. HT는 蠷螋의 玉篇·博雅 희귀 자형 인용으로 웹 평문만으로 확정하기 어려워 보류. 나머지 공백도 인명·자전·약명 혼재. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 129자리로 유지한다."
     },
     "N/N006.txt": {
       "collation_status": "in_progress",
@@ -322,9 +322,9 @@
     },
     "C/C015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 105,
+      "unresolved_candidates": 82,
       "punctuation_status": "source_present",
-      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 105개는 약명·포제법 결락 의심과 조판 구분이 혼재하여 occurrence별 원판 대조가 필요함. 전각 공백 105곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
+      "note": "독립 본초 배오표로 기존 규칙과 겹치지 않는 萆薢 1개 occurrence를 확정했다. 黃鱨魚는 기존 규칙이 이미 같은 좌표를 처리하므로 중복 제안에서 제외했다. 전각 공백은 105→104, 기존 조판22를 유지하여 실결락 잔여는 82이다."
     },
     "C/C016.txt": {
       "collation_status": "in_progress",
@@ -438,7 +438,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 97,
       "punctuation_status": "source_present",
-      "note": "독립 전사 B013a까지 적용한 현 규칙은 모두 정상이다. 잔여 HT 3·KT 2는 B013a에서도 [c] 코드 또는 불완전 자형이고, 비표지 전각 공백 92곳도 직접 판독이 없어 보류했다. 전각 공백 429개 중 337개는 처방·구두 조판 간격."
+      "note": "자매 전사 B013a와 기존 224개 규칙을 재검증했으나 잔여 HT 3·KT 2는 자매본도 외자 코드/불완전 자형이다. 전각 공백 429개 중 기존 조판 337·실결락 92 분류를 유지했다."
     },
     "A/A402a.txt": {
       "collation_status": "in_progress",
@@ -2976,7 +2976,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 168,
       "punctuation_status": "source_present",
-      "note": "기존 4개 고유 규칙으로 㽲 2곳·䵟 2곳이 정상 복원된다. 실제 출력의 전각 공백 766곳을 항목·처방 조판 598곳과 직접 영인 판독이 필요한 결락 후보 168곳으로 재확인했으며, 추가 확정 근거는 찾지 못했다."
+      "note": "명시적 HT·KT·□는 없고 전각공백766 중 기존 조판598·실결락 후보168이다. 기존 㽲·䵟 규칙 외에는 공개 전사와 판면 근거로 추가 확정할 occurrence가 없어 보류한다."
     },
     "C/C046.txt": {
       "collation_status": "in_progress",
@@ -2998,9 +2998,9 @@
     },
     "C/C020.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 133,
+      "unresolved_candidates": 128,
       "punctuation_status": "source_present",
-      "note": "실제 비표점 출력: HT/KT/□/PUA 0, 전각 공백 276. 다수는 반복 표제 ‘制　方’ 같은 조판 간격이므로 실결락 잔여와 분리하여 marker 잔여 0으로 계수. 미분류 전각 공백을 실결락 가능 후보에서 제외할 독립 근거가 없어 보수적 잔여 133자리로 유지한다."
+      "note": "marker 잔여 0. 전각 공백 276개는 반복 표제 ‘制　方’가 대부분이며, 그와 분리해 黃耆 결락 문맥만 제안. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 128자리로 유지한다."
     },
     "C/C021.txt": {
       "collation_status": "in_progress",
@@ -3114,7 +3114,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 127,
       "punctuation_status": "source_present",
-      "note": "기존 105개 규칙은 경고·중첩 없이 적용된다. 잔여 전각 공백 127개는 모두 주석 판본의 희자·결자 후보이나 직접 판독 없이 확정할 수 없어 보류했다."
+      "note": "HT/KT/□ 잔여 0. 전각 공백 127개는 經脈 해부 희귀자·易經 인용과 조판 간격이 혼재해 독립 영인 대조 전 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 127자리로 유지한다."
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
@@ -3816,7 +3816,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 103,
       "punctuation_status": "source_present",
-      "note": "HT·KT·□·PUA는 없다. 전각 공백 104개 중 권두 서명 뒤 1개는 조판 간격으로 분리하고 103개는 실결락 후보로 보류했다. `玉枕穴之圖 pt118a11.bmp` 도판 유실은 문자 잔여 수와 별도다."
+      "note": "전각 공백 104개 중 조판1·실결락103 분류를 유지했다. `玉枕穴之圖 pt118a11.bmp`는 텍스트 미러에서도 결락이지만 CADAL/CTP 권1 영인과 《續修四庫全書》第0999冊 공개 스캔이 대체 원판 후보다. 검색 색인만으로 정확 페이지와 독립 추출 자산은 확정하지 못했다."
     },
     "M/M004.txt": {
       "collation_status": "in_progress",
@@ -3892,9 +3892,9 @@
     },
     "N/N007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 152,
+      "unresolved_candidates": 150,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백153·HT2·KT1·□0·PUA0이다. 세 표식 모두 뒤 공백과 같은 좌표이고 조판1을 빼면 실제 잔여152로 최신 상태와 일치한다. `治HT陽`과 `膝KT大痛`은 독립 전사도 미상자로 남아 신규 없음."
+      "note": "최신 잔여152에서 유일한 HT·KT 두 좌표를 원 출전과 독립 평행문으로 확정했다. 두 occurrence는 각 1회이며 기존 규칙과 중첩하지 않는다. 나머지 전각공백과 조판1은 유지한다."
     },
     "N/N009.txt": {
       "collation_status": "in_progress",
@@ -3936,13 +3936,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 139,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백136·HT17·KT0·□0·PUA0이다. HT14는 뒤 공백과 동일 좌표이고 HT3은 독립 좌표이므로 실제 잔여는136+3=139다. 최신 상태154는 실제 출력보다15 많다. 심자 도형·소전 해설과 희귀 자형은 원판 판독 없이 확정하지 않았다."
+      "note": "전각공백136·HT17을 실제 문맥에서 재검토했다. HT 대부분은 心字 소전 도형과 조자 해설이고, ‘甘涼猶不中HT’ 등도 공개 전사가 같은 결락을 공유해 원판 없이 확정하지 않았다. 기존 조판·도형 분류 유지."
     },
     "N/N059.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 129,
+      "unresolved_candidates": 127,
       "punctuation_status": "source_present",
-      "note": "실제 비표점 출력: HT/KT/□/PUA 0, 전각 공백 129. 표식 잔여는 없으며 전각 공백은 약물 열거 조판과 결락 의심 문맥이 혼재해 별도 보류. 미분류 전각 공백을 실결락 가능 후보에서 제외할 독립 근거가 없어 보수적 잔여 129자리로 유지한다."
+      "note": "marker 잔여 0. 전각 공백 129개 중 약명·포제법으로 확정되는 2 occurrence만 제안, 나머지는 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 127자리로 유지한다."
     },
     "O/O017.txt": {
       "collation_status": "in_progress",
@@ -4092,7 +4092,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 111,
       "punctuation_status": "source_present",
-      "note": "현재 numbered 출력 재계수는 전각 공백168·HT22·KT0·□0·PUA0이다. HT22는 모두 바로 뒤 전각 공백과 같은 결락 좌표이므로 중복 가산하지 않고, 감사에서 확정한 조판57을 빼면 실제 잔여111이다. 기존 상태138은 최신 출력보다 27 많다. 온라인 전사가 HT를 그대로 계승해 신규 확정 없음."
+      "note": "광역 중복 규칙 1개를 제거하고 실제 source의 개행·공백에 맞춰 蝦游魚翔 규칙을 수정했다. 기존 세 고유 參耆 규칙은 그대로 유지한다. remaining_count는 배치65-A 감사 기준 111을 유지한다."
     },
     "O/O063.txt": {
       "collation_status": "in_progress",
