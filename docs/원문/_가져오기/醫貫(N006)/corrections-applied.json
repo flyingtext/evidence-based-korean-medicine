@@ -78,5 +78,29 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
     "evidence_note": "약명 萆薢.",
     "reason": "약명 萆薢."
+  },
+  {
+    "before": "目KT　KT　如無所見",
+    "after": "目䀮䀮如無所見",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 족소음 병후 정형문 ‘目䀮䀮如無所見’."
+  },
+  {
+    "before": "目KTKT無所見者",
+    "after": "目䀮䀮無所見者",
+    "expected_count": 1,
+    "reason": "바로 앞뒤에 반복 인용된 동일 병후의 중첩어."
+  },
+  {
+    "before": "故目KT　KT　無所見也",
+    "after": "故目䀮䀮無所見也",
+    "expected_count": 1,
+    "reason": "같은 문단에서 반복 풀이한 동일 병후의 중첩어."
+  },
+  {
+    "before": "未濟而預有衣HT　之備",
+    "after": "未濟而預有衣袽之備",
+    "expected_count": 1,
+    "reason": "《周易》既濟 육사 ‘繻有衣袽，終日戒’의 고사를 인용한 문맥."
   }
 ]

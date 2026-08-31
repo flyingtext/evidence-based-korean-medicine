@@ -14170,6 +14170,25 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%8C%87%E6%8E%8C/index.html",
       "evidence_note": "B/B035.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "牽引KT　KT　。脈浮",
+      "after": "牽引几几。脈浮",
+      "expected_count": 1,
+      "reason": "太陽痙病의 정형어 ‘項背强几几’와 같은 頸項 강직 모양.",
+      "evidence_note": "같은 책 뒤 주석이 ‘即頸項強之貌’라고 직접 풀이함."
+    },
+    {
+      "before": "身體強KT　KT　然。脈反沉遲",
+      "after": "身體強几几然。脈反沉遲",
+      "expected_count": 1,
+      "reason": "《傷寒論》栝蔞桂枝湯 조문의 정문 ‘身體强几几然’."
+    },
+    {
+      "before": "KT　KT　即頸項強之貌",
+      "after": "几几即頸項強之貌",
+      "expected_count": 1,
+      "reason": "직전 정문을 자해한 동일어 반복."
     }
   ],
   "B/B037.txt": [
