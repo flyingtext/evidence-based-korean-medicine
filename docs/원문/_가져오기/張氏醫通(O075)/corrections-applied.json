@@ -7910,5 +7910,40 @@
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%BD%8A%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
     "evidence_note": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다.",
     "reason": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다."
+  },
+  {
+    "before": "目必損壞。輕則HT　凸。重則結白",
+    "after": "目必損壞。輕則⿰米厭凸。重則結白",
+    "expected_count": 1,
+    "reason": "《審視瑤函》의 동일 大小雷頭風症 원문이 ‘輕則⿰米厭凸’이며 앞서 확인한 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "失治必有青黃牒出HT　凸之禍",
+    "after": "失治必有青黃牒出⿰米厭凸之禍",
+    "expected_count": 1,
+    "reason": "같은 안과 문맥에서 돌출 병후를 가리키는 동일 희귀자 ⿰米厭의 반복이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "失治者。有HT　凸之患",
+    "after": "失治者。有⿰米厭凸之患",
+    "expected_count": 1,
+    "reason": "《審視瑤函》 평행 절의 ⿰米厭凸 병후와 문장이 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "止可救其HT凸而已",
+    "after": "止可救其⿰米厭凸而已",
+    "expected_count": 1,
+    "reason": "같은 안과 장에서 반복되는 ⿰米厭凸의 무공백 변형이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "免其HT　凸而已",
+    "after": "免其⿰米厭凸而已",
+    "expected_count": 1,
+    "reason": "동일 장의 ⿰米厭凸 병후 반복이며 공개 원출전의 자형과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
   }
 ]

@@ -36,7 +36,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6496,
       "punctuation_status": "source_present",
-      "note": "유일한 KT와 뒤 결자 공백을 판본 자형 䏿으로 복원했다. 나머지 전각 공백은 조판과 결락이 혼재한다. 잔여 후보 6496자리."
+      "note": "유일한 KT는 기존 규칙으로 이미 䏿으로 복원된다. 나머지는 전각 공백의 조판·결락이 혼재하여 추가 확정 좌표가 없으므로 status를 유지한다."
     },
     "N/N034.txt": {
       "collation_status": "complete",
@@ -282,7 +282,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6816,
       "punctuation_status": "source_present",
-      "note": "최신 기존 규칙 적용 경고는 없고 PUA/[c] 잔여는 0이다. 표지 밀도와 판본 특성상 이번 감사에서는 추정 규칙을 만들지 않았다. 잔여 후보 6816자리."
+      "note": "기존 642개 규칙 적용 후에도 HT/KT/□가 다수 남지만 일본 전사 고자와 판면 결락이 밀집해 있다. 공개 원전만으로 occurrence 단위 확정이 불가능하여 status를 유지한다."
     },
     "D/D008.txt": {
       "collation_status": "in_progress",
@@ -3138,7 +3138,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6996,
       "punctuation_status": "source_present",
-      "note": "잔존 203개 [c] 코드는 자체 글리프 매핑표나 판본 영상 없이는 유일 복원이 불가능하다. 교주·태그와 얽힌 공백 6793건도 보존했다. 잔여 후보 6996자리."
+      "note": "잔존 203개 [c] 코드는 자체 글리프 매핑 또는 해당 판본 영상 없이 문자값을 유일하게 정할 수 없다. 교주·태그와 얽힌 공백도 임의 복원하지 않고 status를 유지한다."
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
@@ -3402,7 +3402,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 6677,
       "punctuation_status": "codex_verified",
-      "note": "劉文泰等 1505년 명대 고전으로 서지 정정. KT 230곳과 전각 공백 6447자리가 외자·결락 및 조판 구분에 혼재해 교감은 계속 보류한다. 무표점 본문은 Codex 증분 표점 758구간을 완료했고 문자 보존 및 표점 검증을 통과했다."
+      "note": "표점 완료 상태와 분리해 결자만 감사했다. 잔존 KT 230곳은 고자·희귀 동식물명·주음이 섞여 있고 공개 전사도 동일하게 손실된 곳이 많아 영인 좌표 없이 유일 복원할 수 없다. 표점 상태와 remaining을 그대로 유지한다."
     },
     "C/C012.txt": {
       "collation_status": "complete",
@@ -3660,7 +3660,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 8188,
       "punctuation_status": "source_present",
-      "note": "유일한 HT를 《靈樞》 평행문으로 복원했다. 남은 전각 공백은 서식과 결락 가능성이 혼재한다. 잔여 후보 8188자리."
+      "note": "현 status 8188을 유지한다. 기존 규칙 적용 뒤 명시 표식은 없고 남은 전각 공백의 조판·결락 여부를 판면 없이 재분류하지 않았다."
     },
     "H/H000a.txt": {
       "collation_status": "complete",
@@ -3978,7 +3978,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7607,
       "punctuation_status": "codex_verified",
-      "note": "기존  교정 뒤 잔여 좌표만 사용했고, 두 䀮䀮 좌표와 반복 灸焫 좌표는 서로 겹치지 않는다. 잔여 후보 7607자리."
+      "note": "현 status 7607을 유지한다. 잔존 표지는 처방명·희귀자·결락이 혼재하며 이번 대조에서 occurrence-고유 원자를 확정하지 못했다."
     },
     "O/O038.txt": {
       "collation_status": "in_progress",
@@ -4066,9 +4066,9 @@
     },
     "O/O056.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 8329,
+      "unresolved_candidates": 8325,
       "punctuation_status": "source_present",
-      "note": "기존 480개 규칙 뒤의 잔여에서만 제안했다. 새 규칙끼리 좌표가 겹치지 않으며 반복 규칙 發KT는 11곳 모두 같은 𧸗逆 장에 한정된다. 잔여 후보 8329자리."
+      "note": "현 status 8329에서 䀮䀮의 KT 2좌표와 동반 전각공백 2좌표만 차감했다. 나머지 특수 표식은 근거 부족으로 유지한다."
     },
     "O/O058.txt": {
       "collation_status": "complete",
@@ -4122,7 +4122,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7935,
       "punctuation_status": "source_present",
-      "note": "呱·䐃 및 䀮䀮 세 곳을 복원했다. 나머지 HT 30·KT 1은 본초명·안과 희귀자·방언이 혼재해 보류했다. 잔여 후보 7935자리."
+      "note": "현 status 7935를 유지한다. 남은 HT·KT는 본초명·안과 희귀자·방언과 외자 표기가 혼재하며 공개 전사만으로 원자를 유일하게 확정할 수 없다."
     },
     "O/O068.txt": {
       "collation_status": "in_progress",
@@ -4180,9 +4180,9 @@
     },
     "O/O075.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 8301,
+      "unresolved_candidates": 8292,
       "punctuation_status": "source_present",
-      "note": "기존 981개 규칙 뒤의 잔여에서만 제안했다. 새 규칙의 원문 좌표는 모두 고유하거나 기대 횟수가 검증되며 서로 겹치지 않는다. 잔여 후보 8301자리."
+      "note": "현 status 8301에서 ⿰米厭凸 다섯 occurrence의 HT 5좌표와 동반 전각공백 4좌표만 차감했다. 나머지 안과 희귀자와 비조판 공백은 보류한다."
     },
     "O/O076.txt": {
       "collation_status": "in_progress",
@@ -4240,9 +4240,9 @@
     },
     "O/O108.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7033,
+      "unresolved_candidates": 7020,
       "punctuation_status": "source_present",
-      "note": "기존 999규칙 적용 뒤 신규 규칙은 각각 5·1·1·2·1·1·1·1회 고유 일치. 표지 21개를 해소했다. 잔여 후보 7033자리."
+      "note": "현 status 7033에서 HT 7자리와 뒤 결자 전각공백 6자리, 총 13좌표를 차감했다. 나머지는 개별 판본 근거가 없어 보류한다."
     },
     "O/O108a.txt": {
       "collation_status": "in_progress",
@@ -4434,13 +4434,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7005,
       "punctuation_status": "source_present",
-      "note": "燧石 3곳과 䀮䀮 3곳을 복원했다. 대규모 KT/HT는 침구 희귀자·해부명·음역이 혼재해 개별 영인 대조가 필요하다. 잔여 후보 7005자리."
+      "note": "현 status 7005를 유지한다. 잔존 KT·HT는 침구 희귀자, 해부명, 음역이 혼재하여 개별 영인 좌표 없이 일괄 복원하지 않았다."
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 7182,
       "punctuation_status": "source_present",
-      "note": "기존 799규칙 적용 뒤 신규 10규칙은 7·6·1·5·1·1·1·1·1·1회 고유 일치. HT 5개와 KT 41개를 해소했다. 잔여 후보 7182자리."
+      "note": "현 status 7182를 유지한다. 기존 대량 교정 후 남은 HT·KT·□는 서로 다른 인명·지명·의학 희귀자가 혼재하여 독립 좌표 근거 없이 추정하지 않았다."
     },
     "P/P0801.txt": {
       "collation_status": "in_progress",

@@ -8046,5 +8046,32 @@
     "expected_count": 1,
     "evidence": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥.",
     "reason": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥."
+  },
+  {
+    "before": "腎脈微大為石水，起臍已下至小腹HT　HT　然，上至胃脘，死不治。",
+    "after": "腎脈微大為石水，起臍已下至小腹腄腄然，上至胃脘，死不治。",
+    "expected_count": 1,
+    "reason": "《靈樞·邪氣藏府病形》 직접 평행문이 해당 구절을 ‘小腹腄腄然’으로 전한다.",
+    "evidence_url": "https://yibian.hopto.org/shu/?sid=67944"
+  },
+  {
+    "before": "木不及，其HT　東，其臟肝，其病內舍　脅，外在關節。火不及，其HT　南，其臟心，其病內舍膺脅，外在經絡。金不及，其HT　西，其臟肺",
+    "after": "木不及，其位東，其臟肝，其病內舍　脅，外在關節。火不及，其位南，其臟心，其病內舍膺脅，外在經絡。金不及，其位西，其臟肺",
+    "expected_count": 1,
+    "reason": "《素問》 오행 방위의 정형 대구 ‘其位東/南/西，其藏…’가 세 반복의 동일 결자를 직접 확정한다."
+  },
+  {
+    "before": "非太過非不及，則至當時，非是者HT　也。",
+    "after": "非太過非不及，則至當時，非是者眚也。",
+    "expected_count": 1,
+    "reason": "《素問·六元正紀大論》 동일 문장이 ‘非是者眚也’로 전한다.",
+    "evidence_url": "https://acupun.site/huangdineijing/suwen71.html"
+  },
+  {
+    "before": "變易者，復之紀。災HT者，傷之始。",
+    "after": "變易者，復之紀。災眚者，傷之始。",
+    "expected_count": 1,
+    "reason": "《素問·氣交變大論》 직접 평행문이 ‘災眚者，傷之始’로 전한다.",
+    "evidence_url": "http://www.ocf.berkeley.edu/~darvard/CMBook1.pdf"
   }
 ]

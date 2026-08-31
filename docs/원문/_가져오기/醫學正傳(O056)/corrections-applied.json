@@ -3950,5 +3950,12 @@
     "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=en",
     "evidence_note": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이다.",
     "reason": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이다."
+  },
+  {
+    "before": "KT　KT　無所見，身重如山",
+    "after": "䀮䀮無所見，身重如山",
+    "expected_count": 1,
+    "reason": "jicheng의 《醫學正傳》 동일 酒煮當歸丸 주치문이 ‘目青，䀮䀮無所見’으로 온전히 전사되어 있다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%AD%A3%E5%82%B3/index.html"
   }
 ]

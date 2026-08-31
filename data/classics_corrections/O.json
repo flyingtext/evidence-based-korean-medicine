@@ -44758,6 +44758,13 @@
       "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=en",
       "evidence_note": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이다.",
       "reason": "『金匱要略』 직접 평행문이 ‘身體強𠘧𠘧然’이다."
+    },
+    {
+      "before": "KT　KT　無所見，身重如山",
+      "after": "䀮䀮無所見，身重如山",
+      "expected_count": 1,
+      "reason": "jicheng의 《醫學正傳》 동일 酒煮當歸丸 주치문이 ‘目青，䀮䀮無所見’으로 온전히 전사되어 있다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%AD%A3%E5%82%B3/index.html"
     }
   ],
   "O/O058.txt": [
@@ -88498,6 +88505,41 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%BD%8A%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
       "evidence_note": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다.",
       "reason": "동일 하소 논설의 평행문이 ‘飲水無厭也’로 전한다."
+    },
+    {
+      "before": "目必損壞。輕則HT　凸。重則結白",
+      "after": "目必損壞。輕則⿰米厭凸。重則結白",
+      "expected_count": 1,
+      "reason": "《審視瑤函》의 동일 大小雷頭風症 원문이 ‘輕則⿰米厭凸’이며 앞서 확인한 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+    },
+    {
+      "before": "失治必有青黃牒出HT　凸之禍",
+      "after": "失治必有青黃牒出⿰米厭凸之禍",
+      "expected_count": 1,
+      "reason": "같은 안과 문맥에서 돌출 병후를 가리키는 동일 희귀자 ⿰米厭의 반복이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+    },
+    {
+      "before": "失治者。有HT　凸之患",
+      "after": "失治者。有⿰米厭凸之患",
+      "expected_count": 1,
+      "reason": "《審視瑤函》 평행 절의 ⿰米厭凸 병후와 문장이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+    },
+    {
+      "before": "止可救其HT凸而已",
+      "after": "止可救其⿰米厭凸而已",
+      "expected_count": 1,
+      "reason": "같은 안과 장에서 반복되는 ⿰米厭凸의 무공백 변형이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+    },
+    {
+      "before": "免其HT　凸而已",
+      "after": "免其⿰米厭凸而已",
+      "expected_count": 1,
+      "reason": "동일 장의 ⿰米厭凸 병후 반복이며 공개 원출전의 자형과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
     }
   ],
   "O/O076.txt": [
@@ -114254,6 +114296,33 @@
       "expected_count": 1,
       "evidence": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥.",
       "reason": "구역·애부·반위와 함께 열거되는 소화기 증상 呃逆의 정형 문맥."
+    },
+    {
+      "before": "腎脈微大為石水，起臍已下至小腹HT　HT　然，上至胃脘，死不治。",
+      "after": "腎脈微大為石水，起臍已下至小腹腄腄然，上至胃脘，死不治。",
+      "expected_count": 1,
+      "reason": "《靈樞·邪氣藏府病形》 직접 평행문이 해당 구절을 ‘小腹腄腄然’으로 전한다.",
+      "evidence_url": "https://yibian.hopto.org/shu/?sid=67944"
+    },
+    {
+      "before": "木不及，其HT　東，其臟肝，其病內舍　脅，外在關節。火不及，其HT　南，其臟心，其病內舍膺脅，外在經絡。金不及，其HT　西，其臟肺",
+      "after": "木不及，其位東，其臟肝，其病內舍　脅，外在關節。火不及，其位南，其臟心，其病內舍膺脅，外在經絡。金不及，其位西，其臟肺",
+      "expected_count": 1,
+      "reason": "《素問》 오행 방위의 정형 대구 ‘其位東/南/西，其藏…’가 세 반복의 동일 결자를 직접 확정한다."
+    },
+    {
+      "before": "非太過非不及，則至當時，非是者HT　也。",
+      "after": "非太過非不及，則至當時，非是者眚也。",
+      "expected_count": 1,
+      "reason": "《素問·六元正紀大論》 동일 문장이 ‘非是者眚也’로 전한다.",
+      "evidence_url": "https://acupun.site/huangdineijing/suwen71.html"
+    },
+    {
+      "before": "變易者，復之紀。災HT者，傷之始。",
+      "after": "變易者，復之紀。災眚者，傷之始。",
+      "expected_count": 1,
+      "reason": "《素問·氣交變大論》 직접 평행문이 ‘災眚者，傷之始’로 전한다.",
+      "evidence_url": "http://www.ocf.berkeley.edu/~darvard/CMBook1.pdf"
     }
   ],
   "O/O108a.txt": [
