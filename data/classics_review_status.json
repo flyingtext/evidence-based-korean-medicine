@@ -3072,9 +3072,11 @@
     },
     "B/B027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 411,
+      "unresolved_candidates": 388,
       "punctuation_status": "source_present",
-      "note": "초기 HT2·KT28·□1 중 8표지를 고전 정문·자체 주석으로 확정. 나머지는 𠘧 자형론 및 噎/䭇 계열 희귀자라 occurrence별 판면 대조 전 보류. 표점본은 장문에 마침표 위주로 표점 밀도가 낮지만 이는 결자 교감과 별도 개선 과제임. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 411자리로 유지한다."
+      "note": "HEAD 기존 교정 135개 적용 후 남은 명시 표지 KT 23좌표를 전수 검토해 모두 직접 인용·자체 자해·이체자 교감으로 확정했다. 𠘧 14, 几 3, 鳥 1, 䭇 4, 濇 1로 총 23좌표를 status 411에서 차감했다. 전각공백은 모두 유지했다.",
+      "remaining_count": 388,
+      "status": "in_progress"
     },
     "B/B035.txt": {
       "collation_status": "in_progress",
