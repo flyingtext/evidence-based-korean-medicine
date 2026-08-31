@@ -296,10 +296,10 @@
     },
     "D/D005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6778,
+      "unresolved_candidates": 6758,
       "punctuation_status": "source_present",
-      "note": "현 HEAD의 기존 교정 642개를 순차 적용했다. exact before가 사라진 5건은 앞선 규칙이 인접 공백을 먼저 보충해 생긴 중첩으로, 결과 글자는 이미 반영되어 remove 대상이 아니다. 적용 후 명시적 표지는 363좌표였으며 이번에는 공개 평행문과 고정 의약 문맥으로 확정되는 좌표만 순감했다. 전각 공백은 유지했다.",
-      "remaining_count": 6778,
+      "note": "HEAD 667개 교정 오버레이 적용 후 명시 표지는 HT 6, KT 290, □ 29로 총 325개였다. 전각공백은 집계·교정에서 제외했다. 직접 인용과 고정 병명·용법으로 KT 20개를 복원하여 명시 표지 잔존은 305개다. 기존 상태와 같은 집계 기준으로 전각공백 6453개를 포함한 remaining_count는 6758.",
+      "remaining_count": 6758,
       "status": "in_progress"
     },
     "D/D008.txt": {
@@ -4186,10 +4186,10 @@
     },
     "O/O063a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 19778,
+      "unresolved_candidates": 19801,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 후 잔여 PUA 4코드/15좌표를 전수 대조했다. U+EF65 2좌표는 䐜, U+EF67 2좌표는 䀮, 가변 코드 U+EFD5 10좌표는 문맥별로 疴 7·症 3으로 확정하여 총 14좌표를 해소했다. U+F3E6 1좌표(‘膝□大痛’)는 자매본도 KT이고 공개 평행문이 글자를 생략하거나 ‘膝部’로 의역하여 원판 글자를 유일하게 확정할 수 없어 보류했다. 현 status 19778에서 실제 확정 14좌표만 차감했다.",
-      "remaining_count": 19764,
+      "note": "교정 오버레이 없음. 전각공백 19779개는 결자에서 제외하고, 레거시 PUA 558개 중 문맥과 전승 원문으로 확정되는 554개를 복원. 적용 뒤 명시 미해결은 □ 18개와 불확정 PUA 4개이며 전각공백은 그대로 유지.",
+      "remaining_count": 19801,
       "status": "in_progress"
     },
     "O/O065.txt": {
@@ -4332,10 +4332,10 @@
     },
     "O/O108.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7002,
+      "unresolved_candidates": 7000,
       "punctuation_status": "source_present",
-      "note": "HEAD 기존 교정 후 실제 명시 표지 20개 중 O108a·《景岳全書》《內經》 직접 인용으로 18좌표 교감. 복합 이비인후 병명과 희귀 약초명 2좌표 보류. status 7020→7002.",
-      "remaining_count": 7002,
+      "note": "HEAD 교정 1025개를 expected_count 조건으로 순차 적용: 614개 적용, 411개 stale. 실제 명시 HT/KT 잔여 2개를 모두 원문 대조로 확정하여 status 7002→7000. 전각공백·FS는 제외.",
+      "remaining_count": 7000,
       "status": "in_progress"
     },
     "O/O108a.txt": {

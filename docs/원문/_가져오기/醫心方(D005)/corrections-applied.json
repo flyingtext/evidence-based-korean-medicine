@@ -5309,5 +5309,103 @@
     "expected_count": 1,
     "reason": "형용 병렬의 고정 구문 ‘肉淖而澤’이다.",
     "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+  },
+  {
+    "before": "[h3]月殺厄月KT日法第十[/h3]",
+    "after": "[h3]月殺厄月厄日法第十[/h3]",
+    "expected_count": 1,
+    "reason": "이어지는 十二支별 大厄·小厄와 해당 厄月을 열거하는 장 제목.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　六月、十二月。",
+    "after": "厄六月、十二月。",
+    "expected_count": 2,
+    "reason": "子年·午年의 大小厄月을 밝히는 고정 서술. 두 occurrence를 월 조합으로 한정.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　五月、十一月。",
+    "after": "厄五月、十一月。",
+    "expected_count": 2,
+    "reason": "丑年·未年의 厄月 고정 서술.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　四月、十月。",
+    "after": "厄四月、十月。",
+    "expected_count": 2,
+    "reason": "寅年·申年의 厄月 고정 서술.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　三月、九月。",
+    "after": "厄三月、九月。",
+    "expected_count": 2,
+    "reason": "卯年·酉年의 厄月 고정 서술.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　二月、八月。",
+    "after": "厄二月、八月。",
+    "expected_count": 2,
+    "reason": "辰年·戌年 항목의 厄月 고정 서술.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "KT　正月、七月。",
+    "after": "厄正月、七月。",
+    "expected_count": 2,
+    "reason": "巳年·亥年의 厄月 고정 서술.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "上次以KT　石之火，大常槐木之",
+    "after": "上次以燧石之火，大常槐木之",
+    "expected_count": 1,
+    "reason": "陽燧 다음 등급의 취화법인 燧石之火.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "大上用陽燧之火，其次KT石之火也。",
+    "after": "大上用陽燧之火，其次燧石之火也。",
+    "expected_count": 1,
+    "reason": "바로 앞 구법 서술의 반복 ‘其次燧石之火’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "《如意方》治KT　痣術",
+    "after": "《如意方》治黑痣術",
+    "expected_count": 1,
+    "reason": "뒤 처방과 이어지는 고정 외과 병명 黑痣.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "《葛氏方》去KT　痣方",
+    "after": "《葛氏方》去黑痣方",
+    "expected_count": 1,
+    "reason": "연속 장절에서 반복되는 병명 黑痣.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "治肺實熱則胸KT　仰息泄氣除熱方",
+    "after": "治肺實熱則胸滿仰息泄氣除熱方",
+    "expected_count": 1,
+    "reason": "폐실열의 고정 증후 ‘胸滿、仰息’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "治髓實，勇KT　驚熱，主肝熱",
+    "after": "治髓實，勇悍驚熱，主肝熱",
+    "expected_count": 1,
+    "reason": "肝膽·髓實의 성정 증후 고정어 勇悍.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
+  },
+  {
+    "before": "以苦酒煮青布裹KT　（音奄，漬也，又作踏，徒合反）之",
+    "after": "以苦酒煮青布裹熨（音奄，漬也，又作踏，徒合反）之",
+    "expected_count": 1,
+    "reason": "전근에 데운 천을 싸서 찜질하는 용법 熨之. 뒤 음주는 이본자를 설명하나 처치 문맥은 熨로 확정.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html"
   }
 ]

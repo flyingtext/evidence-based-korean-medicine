@@ -462,5 +462,53 @@
     "after": "寧非鬱塞之症。左寸滑",
     "expected_count": 1,
     "evidence": "동일 婦人脈訣 문맥의 ‘鬱塞之症’으로 자매본과 일치한다."
+  },
+  {
+    "before": "",
+    "after": "麴",
+    "expected_count": 138,
+    "reason": "神麴·麴蘖 등 처방 약명과 《辨證錄》 전승 처방 대조."
+  },
+  {
+    "before": "",
+    "after": "結",
+    "expected_count": 3,
+    "reason": "糟粕結屎·大便微結 문맥과 대조."
+  },
+  {
+    "before": "",
+    "after": "椇",
+    "expected_count": 1,
+    "reason": "木蜜乃枳椇也라는 본초 고정문과 대조."
+  },
+  {
+    "before": "",
+    "after": "象",
+    "expected_count": 10,
+    "reason": "之象 고정 구문과 각 문맥 대조."
+  },
+  {
+    "before": "",
+    "after": "蝱",
+    "expected_count": 2,
+    "reason": "移尸滅怪湯의 蝱蟲과 《血證論》 인용 처방 대조."
+  },
+  {
+    "before": "",
+    "after": "蟅",
+    "expected_count": 1,
+    "reason": "三清丸의 蟅蟲과 《辨證錄》 전승 처방 대조."
+  },
+  {
+    "before": "",
+    "after": "脛",
+    "expected_count": 1,
+    "reason": "膝脛大痛 병증 문맥 대조."
+  },
+  {
+    "before": "",
+    "after": "謄",
+    "expected_count": 1,
+    "reason": "《內經》年久謄寫誤傳 문맥 대조."
   }
 ]

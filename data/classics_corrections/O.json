@@ -51579,6 +51579,54 @@
       "after": "寧非鬱塞之症。左寸滑",
       "expected_count": 1,
       "evidence": "동일 婦人脈訣 문맥의 ‘鬱塞之症’으로 자매본과 일치한다."
+    },
+    {
+      "before": "",
+      "after": "麴",
+      "expected_count": 138,
+      "reason": "神麴·麴蘖 등 처방 약명과 《辨證錄》 전승 처방 대조."
+    },
+    {
+      "before": "",
+      "after": "結",
+      "expected_count": 3,
+      "reason": "糟粕結屎·大便微結 문맥과 대조."
+    },
+    {
+      "before": "",
+      "after": "椇",
+      "expected_count": 1,
+      "reason": "木蜜乃枳椇也라는 본초 고정문과 대조."
+    },
+    {
+      "before": "",
+      "after": "象",
+      "expected_count": 10,
+      "reason": "之象 고정 구문과 각 문맥 대조."
+    },
+    {
+      "before": "",
+      "after": "蝱",
+      "expected_count": 2,
+      "reason": "移尸滅怪湯의 蝱蟲과 《血證論》 인용 처방 대조."
+    },
+    {
+      "before": "",
+      "after": "蟅",
+      "expected_count": 1,
+      "reason": "三清丸의 蟅蟲과 《辨證錄》 전승 처방 대조."
+    },
+    {
+      "before": "",
+      "after": "脛",
+      "expected_count": 1,
+      "reason": "膝脛大痛 병증 문맥 대조."
+    },
+    {
+      "before": "",
+      "after": "謄",
+      "expected_count": 1,
+      "reason": "《內經》年久謄寫誤傳 문맥 대조."
     }
   ],
   "O/O069.txt": [
@@ -114764,6 +114812,22 @@
       "expected_count": 1,
       "reason": "《靈樞·癰疽》와 고유 형상명",
       "evidence": "甘疽其狀如穀實栝蔞"
+    },
+    {
+      "before": "療癲狂喉痹，風熱赤眼，KT　耳鼻　，瘰　，陰囊熱腫",
+      "after": "療癲狂喉痹，風熱赤眼，聤耳鼻　，瘰　，陰囊熱腫",
+      "expected_count": 1,
+      "reason": "《景岳全書·本草正》 지룡 조문 직접 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%AD%A3/index.html",
+      "evidence_note": "온라인 완문은 ‘療癲狂、喉痹、風熱赤眼、聤耳、鼻息、瘰癧’로 전함. 명시 KT만 聤으로 복원하고 전각공백은 유지."
+    },
+    {
+      "before": "天龍　大黃（各一錢）　石HT　FS　（五錢，此草藥也）",
+      "after": "天龍　大黃（各一錢）　石礍FS　（五錢，此草藥也）",
+      "expected_count": 1,
+      "reason": "《景岳全書》 장옹 처방 및 동일 처방 전승 대조",
+      "evidence_url": "https://www.jendow.com.tw/wiki/%E5%A4%A7%E8%A1%80%E8%97%A4",
+      "evidence_note": "동일 처방은 ‘天龍、大黃各一錢，石礍蚆五錢（此草藥）’로 전함. 명시 HT만 礍으로 복원하고 FS는 유지."
     }
   ],
   "O/O108a.txt": [
