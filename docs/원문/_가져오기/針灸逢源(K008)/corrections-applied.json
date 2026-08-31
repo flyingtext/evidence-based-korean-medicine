@@ -3814,5 +3814,54 @@
     "evidence_url": "https://www.zdic.net/hans/%E8%84%9D",
     "evidence_note": "脝의 음과 뜻을 직접 풀이한 자체 음의.",
     "reason": "脝의 음과 뜻을 직접 풀이한 자체 음의."
+  },
+  {
+    "before": "腰痛俠脊而痛至頭。KT　KT　然",
+    "after": "腰痛俠脊而痛至頭。几几然",
+    "expected_count": 1,
+    "reason": "《素問·刺腰痛》 정형문 至頭几几然.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "眼中漠漠。即尋攢竹三間。目視KT　KT　。急取養老天柱",
+    "after": "眼中漠漠。即尋攢竹三間。目視䀮䀮。急取養老天柱",
+    "expected_count": 1,
+    "reason": "침구가결의 정형구 目視䀮䀮이며 평행본과 일치.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "治頭項痛。目KT　KT鼽衄善驚",
+    "after": "治頭項痛。目䀮䀮鼽衄善驚",
+    "expected_count": 1,
+    "reason": "通谷 주치의 정형 병증 目䀮䀮.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "治目眩視物KT　KT　風癇戴眼",
+    "after": "治目眩視物䀮䀮風癇戴眼",
+    "expected_count": 1,
+    "reason": "시야 불명의 정형어 視物䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "治目癢翳膜青盲遠視KT　KT　淚出多眵",
+    "after": "治目癢翳膜青盲遠視䀮䀮淚出多眵",
+    "expected_count": 1,
+    "reason": "瞳子髎 주치의 정형어 遠視䀮䀮.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "太陽之傳陽明。項背KT　KT　。少陽之頸項強",
+    "after": "太陽之傳陽明。項背几几。少陽之頸項強",
+    "expected_count": 1,
+    "reason": "《傷寒論》 정형문 項背强几几.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96"
+  },
+  {
+    "before": "傷寒論曰太陽病項背強。KT　KT汗出惡風者",
+    "after": "傷寒論曰太陽病項背強。几几汗出惡風者",
+    "expected_count": 1,
+    "reason": "《傷寒論》 桂枝加葛根湯 조문의 정형문.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96"
   }
 ]

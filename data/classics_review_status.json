@@ -228,7 +228,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1861,
       "punctuation_status": "codex_verified",
-      "note": "KT 15개가 한 절 안에서 모두 동일 글자 呃을 가리키며 전체 치환 횟수 15회 확인. 기존 규칙 좌표와 겹치지 않음. 무표점 전각 공백은 판면 대조 전 보류. 잔여 후보 1861자리."
+      "note": "KT 15개 呃 복원은 현 shard에 이미 반영되어 산출물에 특수 표식이 없다. 남은 1861자리는 무표점 원자료의 비조판 전각공백 후보이므로 판면 근거 없이 재분류하지 않았다."
     },
     "D/D051.txt": {
       "collation_status": "in_progress",
@@ -424,9 +424,9 @@
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2208,
+      "unresolved_candidates": 2174,
       "punctuation_status": "source_present",
-      "note": "최신 교정 뒤 2219자리 중 고유 혈위 조문 두 곳의 KT 4·결자 공백 7자리를 복원했다. 나머지 2208자리는 판면·이체자 대조가 더 필요하다. 잔여 후보 2208자리."
+      "note": "status 1319에서 확정된 KT 34좌표만 차감. 흉복부 척도 KT와 HT·비조판 공백은 보류. 기존 좌표 감사값에서 실제 복원분만 차감해 2174자리로 보정했다."
     },
     "B/B003a.txt": {
       "collation_status": "complete",
@@ -3082,9 +3082,9 @@
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1823,
+      "unresolved_candidates": 1796,
       "punctuation_status": "source_present",
-      "note": "기존 1052개 규칙을 순차 적용한 결과 일부 선행 규칙의 포괄 문맥 때문에 후행 12개가 이미 흡수되어 0회가 되는 기존 규칙 중첩을 확인했다. 신규 규칙은 잔존 표지만 대상으로 하며 서로 좌표가 겹치지 않고 각 expected_count와 일치한다. 35개 결락 토큰 확정. 잔여 후보 1823자리."
+      "note": "현 status 1823자리에서 표식 13자와 결자 전각공백 14자리, 합계 27자리만 차감했다. ‘KT，膂同’의 표제자는 별도 이체자일 수 있어 보존했으며, 고자 자형이나 번호가 확정되지 않는 나머지 HT·KT 및 비조판 공백도 보류했다."
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
@@ -3142,9 +3142,9 @@
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1925,
+      "unresolved_candidates": 1899,
       "punctuation_status": "source_present",
-      "note": "원초·교주·평안 주석의 원결락 표지와 일본 고초본 이체자가 대량 혼재한다. 다른 현대 정리본만으로 원판 결자를 메우지 않았다. 잔여 후보 1925자리."
+      "note": "현 status 1925에서 본문·주석이 직접 확정하는 HT 13자리와 그 뒤 결자 전각공백 13자리, 총 26좌표만 차감했다. 원결락 표지와 판본 이체자의 나머지는 보류한다."
     },
     "A/A003.txt": {
       "collation_status": "in_progress",
@@ -3534,19 +3534,19 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1875,
       "punctuation_status": "source_present",
-      "note": "5개 KT 중 외치 동작과 용기 문맥 2개만 확정. 黏染 뒤 신체부위, 騙通法 문장, 乳癰 단락 경계는 판면 없이는 유일 복원 불가. 규칙별 1회 일치, 상호 비중첩. 잔여 후보 1875자리."
+      "note": "현 status 1875를 유지한다. 남은 黏染 뒤 신체부위, 騙通法 문장, 乳癰 단락 경계는 판면 없이 occurrence-고유하게 확정할 수 없다."
     },
     "D/D064.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 2145,
       "punctuation_status": "source_present",
-      "note": "평행 본초와 동일 처방 주치로 KT 2자를 모두 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 2145자리."
+      "note": "기존 규칙 적용 후 명시 표식은 없으나 status의 비조판 전각공백 2147곳을 근거 없이 재분류하지 않음. 기존 좌표 감사값에서 실제 복원분만 차감해 2145자리로 보정했다."
     },
     "D/D068.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 1965,
       "punctuation_status": "source_present",
-      "note": "고정 약명과 소아 추나 혈명으로 잔여 HT·KT를 모두 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 1965자리."
+      "note": "현 status 1965를 유지한다. 남은 HT·KT는 기존 川芎·龜尾 규칙으로 이미 복원되었고, 잔여 □ 및 전각공백은 직접 판본 근거 없이 확정하지 않는다."
     },
     "D/D075.txt": {
       "collation_status": "in_progress",
@@ -3802,9 +3802,9 @@
     },
     "L/L004.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2156,
+      "unresolved_candidates": 2152,
       "punctuation_status": "source_present",
-      "note": "안과 희귀 자형·운문·지명 결자가 혼재한다. 공개 전사나 평행문에서 원판 자형까지 확정되지 않은 후보는 보류했다. 잔여 후보 2156자리."
+      "note": "status 2156에서 확정된 KT 4좌표만 차감. HT 및 비조판 공백은 보류."
     },
     "L/L008.txt": {
       "collation_status": "in_progress",
@@ -3826,9 +3826,9 @@
     },
     "K/K008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2074,
+      "unresolved_candidates": 2060,
       "punctuation_status": "source_present",
-      "note": "《內經》 평행문과 자체 음의로 䀮 12자, 呿 1자, 聶 2자, 脝 2자 등 총 17개 표지를 복원. 기존 규칙과 겹침 없음. 잔여 후보 2074자리."
+      "note": "status 2091에서 공개 평행문으로 확정된 KT 14좌표만 차감. 氣下KTKT 및 나머지 표식·비조판 공백은 보류. 기존 좌표 감사값에서 실제 복원분만 차감해 2060자리로 보정했다."
     },
     "K/K101.txt": {
       "collation_status": "in_progress",
@@ -3970,9 +3970,9 @@
     },
     "O/O035.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1870,
+      "unresolved_candidates": 1853,
       "punctuation_status": "source_present",
-      "note": "23개 결락 토큰 확정. 신규 before는 현재 보정 본문에서 기대 횟수대로 일치하며, KT氣와 KT　氣는 문자열·좌표가 달라 겹치지 않는다. 기존 규칙 적용 중 후행 14개가 선행 규칙에 흡수되는 기존 중첩도 별도 확인했으며 신규 좌표와는 무관하다. 잔여 후보 1870자리."
+      "note": "현 status 1870자리에서 표식 8자와 결자 전각공백 9자리, 합계 17자리만 차감했다. 기존 shard의 䀮䀮·几几·褌·䅽 관련 규칙은 중복 제안하지 않았고 불명 외자는 보류했다."
     },
     "O/O037.txt": {
       "collation_status": "in_progress",
@@ -4014,7 +4014,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1825,
       "punctuation_status": "source_present",
-      "note": "병증명·지명·속담·희귀 자형이 섞인 HT 23·KT 2자리를 독립 영인 없이 추정 치환하지 않았다. 잔여 후보 1825자리."
+      "note": "잔존 HT 23·KT 2는 희귀 병증명·속담·지명·외자와 혼재한다. 공개 전사는 같은 결락을 포함하거나 판본 차이를 보여 occurrence-고유하게 확정할 새 좌표가 없어 기존 값을 유지했다."
     },
     "O/O047.txt": {
       "collation_status": "in_progress",
@@ -4296,7 +4296,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1987,
       "punctuation_status": "source_present",
-      "note": "위키문헌의 동일 본문·주석으로 KT 3자를 복원. 기존 규칙과 중복·좌표 겹침 없음. 잔여 후보 1987자리."
+      "note": "현 status 1987을 유지한다. 남은 KT 세 자리는 기존 閃·呃 규칙으로 모두 복원되었고, 추가 occurrence-고유 확정 항목은 없다."
     },
     "P/P0013.txt": {
       "collation_status": "in_progress",

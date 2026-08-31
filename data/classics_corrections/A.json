@@ -9067,6 +9067,54 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E5%A4%AA%E7%B4%A0/index.html",
       "evidence_note": "A/A002.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "髓海不足，則腦轉耳鳴，酸眩HT　，目無所見",
+      "after": "髓海不足，則腦轉耳鳴，酸眩冒，目無所見",
+      "expected_count": 1,
+      "reason": "직후 주석이 ‘眩冒無所見’으로 풀이하고 평안이 《靈樞》《甲乙》 모두 冒라고 명시한다."
+    },
+    {
+      "before": "眩，元遍反，瞑目亂也。HT　，亡到反，覆也。平按：滿脹《甲乙》作脹滿。　《靈樞》作脛，《甲乙》作脛　。HT　《靈樞》、《甲乙》均作冒",
+      "after": "眩，元遍反，瞑目亂也。冒，亡到反，覆也。平按：滿脹《甲乙》作脹滿。　《靈樞》作脛，《甲乙》作脛　。冒《靈樞》、《甲乙》均作冒",
+      "expected_count": 1,
+      "reason": "반절 ‘亡到反’과 평안의 명시적 대조가 두 결자를 모두 冒로 확정한다."
+    },
+    {
+      "before": "昔彭HT　以道怡性，壽命遐長",
+      "after": "昔彭祖以道怡性，壽命遐長",
+      "expected_count": 1,
+      "reason": "장수의 대표 인물 彭祖를 인용하는 고정 고사이며 뒤의 ‘壽命遐長’과 정확히 호응한다."
+    },
+    {
+      "before": "橫入髀HT中；（街，街道也。足陽明脈及足少陽脈氣所行之道，故曰氣街。股外髀樞，名曰髀HT　也。）其直者，從缺盆下掖，循胸過季脅，下合髀HT　中",
+      "after": "橫入髀厭中；（街，街道也。足陽明脈及足少陽脈氣所行之道，故曰氣街。股外髀樞，名曰髀厭也。）其直者，從缺盆下掖，循胸過季脅，下合髀厭中",
+      "expected_count": 1,
+      "reason": "같은 문장 말미 평안이 《靈樞》《甲乙》 모두 厭이라고 명시하여 세 반복을 확정한다."
+    },
+    {
+      "before": "尺膚HT　然先熱後寒者，寒熱也；（按尺皮膚，先熱後冷，病寒熱也。平按：HT　然《靈樞》作炬然",
+      "after": "尺膚炬然先熱後寒者，寒熱也；（按尺皮膚，先熱後冷，病寒熱也。平按：炬然《靈樞》作炬然",
+      "expected_count": 1,
+      "reason": "평안이 《靈樞》의 대응어를 炬然으로 직접 제시한다."
+    },
+    {
+      "before": "尺HT　然熱人迎大者，當奪血。（尺之皮膚HT　然而熱",
+      "after": "尺炬然熱人迎大者，當奪血。（尺之皮膚炬然而熱",
+      "expected_count": 1,
+      "reason": "바로 뒤 평안이 이 구절의 《靈樞》《甲乙》 대응자를 炬라고 명시한다."
+    },
+    {
+      "before": "腹脹前後不通HT瞀。此謂五實",
+      "after": "腹脹前後不通悶瞀。此謂五實",
+      "expected_count": 1,
+      "reason": "직후 주석이 다섯째 실증을 ‘悶瞀不醒’이라고 그대로 풀이한다."
+    },
+    {
+      "before": "悶瞀不醒。五實也。HT　音悶瞀木。候反HT　目也。",
+      "after": "悶瞀不醒。五實也。悶音悶瞀木。候反瞀目也。",
+      "expected_count": 1,
+      "reason": "앞의 완전한 표제어 ‘悶瞀’와 이어지는 음주 ‘音悶’, ‘瞀木候反’이 두 결자를 각각 悶·瞀로 확정한다."
     }
   ],
   "A/A010.txt": [
@@ -30306,6 +30354,125 @@
       "reason": "공개 원문 承泣穴 주치 조문의 고유 문맥 대조로 결자 복원",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
       "evidence_note": "공개 판본 承泣 조문에 '遠視䀮䀮，昏夜無見，口眼喎斜'로 수록됨"
+    },
+    {
+      "before": "癲疾多言，目視KT　KT　，耳鳴喉痹",
+      "after": "癲疾多言，目視䀮䀮，耳鳴喉痹",
+      "expected_count": 1,
+      "reason": "偏歷 주치의 정형어 目視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "青盲無見，遠視KT　KT　，面風鼻",
+      "after": "青盲無見，遠視䀮䀮，面風鼻",
+      "expected_count": 1,
+      "reason": "巨髎 주치의 정형어 遠視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "水漿漏落，眼動，遠視KT　KT　，昏夜無見",
+      "after": "水漿漏落，眼動，遠視䀮䀮，昏夜無見",
+      "expected_count": 1,
+      "reason": "地倉 주치 평행문의 遠視䀮䀮.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+    },
+    {
+      "before": "兼天柱，治目視KT　KT　。\n\n張仲文",
+      "after": "兼天柱，治目視䀮䀮。\n\n張仲文",
+      "expected_count": 1,
+      "reason": "百證賦 정형구 目視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "主治目視KT　KT　，淚出目眩",
+      "after": "主治目視䀮䀮，淚出目眩",
+      "expected_count": 1,
+      "reason": "攢竹 주치의 정형어 目視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "連養老，治目中KT　KT　。又云",
+      "after": "連養老，治目中䀮䀮。又云",
+      "expected_count": 1,
+      "reason": "百證賦 평행문의 目中䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "增治法云：治目KT　KT　如脫",
+      "after": "增治法云：治目䀮䀮如脫",
+      "expected_count": 1,
+      "reason": "시야 불명의 정형 병증 目䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "項痛鼽衄，善驚，目KT　KT　，結積留飲",
+      "after": "項痛鼽衄，善驚，目䀮䀮，結積留飲",
+      "expected_count": 1,
+      "reason": "通谷 주치 평행문의 目䀮䀮.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+    },
+    {
+      "before": "喘咳有血，目視KT　KT　無所見",
+      "after": "喘咳有血，目視䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "《素問·藏氣法時論》 정형문.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%97%8F%E6%B0%A3%E6%B3%95%E6%99%82%E8%AB%96"
+    },
+    {
+      "before": "主治目KT　KT　不能遠視，女子月事",
+      "after": "主治目䀮䀮不能遠視，女子月事",
+      "expected_count": 1,
+      "reason": "水泉 주치의 정형어 目䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "足痿　寒不得履，目視KT　KT，腸鳴腹痛",
+      "after": "足痿　寒不得履，目視䀮䀮，腸鳴腹痛",
+      "expected_count": 1,
+      "reason": "復溜 주치 평행문의 目視䀮䀮.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+    },
+    {
+      "before": "刺三分，灸三壯。\n\n主治目KT　KT　不明",
+      "after": "刺三分，灸三壯。\n\n主治目䀮䀮不明",
+      "expected_count": 1,
+      "reason": "天泉 주치의 정형어 目䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "目赤目眩，視物KT　KT　，拳毛倒睫",
+      "after": "目赤目眩，視物䀮䀮，拳毛倒睫",
+      "expected_count": 1,
+      "reason": "絲竹空 주치의 정형어 視物䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "翳膜青盲，遠視KT　KT　，淚出多眵",
+      "after": "翳膜青盲，遠視䀮䀮，淚出多眵",
+      "expected_count": 1,
+      "reason": "瞳子髎 주치의 정형어 遠視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "汗不出，目KT　KT　，發狂衄血",
+      "after": "汗不出，目䀮䀮，發狂衄血",
+      "expected_count": 1,
+      "reason": "曲泉 주치의 정형어 目䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "目黃，遠視KT　KT　，可灸五壯",
+      "after": "目黃，遠視䀮䀮，可灸五壯",
+      "expected_count": 1,
+      "reason": "脅堂 주치의 정형어 遠視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "眼中漠漠，即尋攢行三間；目視KT　KT　，急取養老天柱",
+      "after": "眼中漠漠，即尋攢行三間；目視䀮䀮，急取養老天柱",
+      "expected_count": 1,
+      "reason": "침구가결의 정형구 目視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
     }
   ],
   "A/A402.txt": [
@@ -38787,6 +38954,81 @@
       "expected_count": 1,
       "evidence": "같은 안증 표현의 공백 없는 변형.",
       "reason": "공개 판본 대조로 결자 복원"
+    },
+    {
+      "before": "特從會稽過KT　水，見余於崢嶸山下",
+      "after": "特從會稽過縠水，見余於崢嶸山下",
+      "expected_count": 1,
+      "reason": "자매 전사 A402a의 동일 서문이 ‘會稽過縠水見余於崢山下’로 직접 전한다."
+    },
+    {
+      "before": "其狀如穀實　KT　，常苦寒熱",
+      "after": "其狀如穀實栝蔞，常苦寒熱",
+      "expected_count": 1,
+      "reason": "《靈樞》 계통의 甘疽 평행문이 ‘其狀如穀實栝蔞’로 일치한다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=720204&if=en"
+    },
+    {
+      "before": "病惡埃煙，KT　不得息",
+      "after": "病惡埃煙，䭇不得息",
+      "expected_count": 1,
+      "reason": "바로 뒤 자체 주석이 해당 글자를 ‘古噎字，食不下也’라고 명시하므로 噎의 고자 䭇로 확정된다."
+    },
+    {
+      "before": "說文曰：嬰，頸KT　也。故頸側之筋曰嬰筋",
+      "after": "說文曰：嬰，頸飾也。故頸側之筋曰嬰筋",
+      "expected_count": 1,
+      "reason": "《說文》 嬰의 훈고는 ‘頸飾也’이고 뒤 문장이 이를 받아 嬰筋을 설명한다."
+    },
+    {
+      "before": "熱病頭痛，顳目HT　脈痛，善衄",
+      "after": "熱病頭痛，顳目𤸪脈痛，善衄",
+      "expected_count": 1,
+      "reason": "《類經》 사쿠전서 평행문이 ‘顳顬目𤸪脈痛’으로 전하며 자체 음의도 ‘音翅’로 일치한다.",
+      "evidence_url": "https://zh.wikisource.org/wiki/%E9%A1%9E%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B721"
+    },
+    {
+      "before": "HT　音翅。衄，女六切",
+      "after": "𤸪音翅。衄，女六切",
+      "expected_count": 1,
+      "reason": "직전 目𤸪의 자체 음의이며 사쿠전서 평행문도 𤸪로 확인된다.",
+      "evidence_url": "https://zh.wikisource.org/wiki/%E9%A1%9E%E7%B6%93_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B721"
+    },
+    {
+      "before": "少陽終者，耳聾百節皆縱，目HT　絕系",
+      "after": "少陽終者，耳聾百節皆縱，目睘絕系",
+      "expected_count": 1,
+      "reason": "《素問·診要經終論》 정형문은 ‘目睘絕系’이며 아래 자체 음의 ‘音瓊’도 睘과 일치한다."
+    },
+    {
+      "before": "故為耳聾目HT　也。HT　者，直視如驚貌",
+      "after": "故為耳聾目睘也。睘者，直視如驚貌",
+      "expected_count": 1,
+      "reason": "앞의 目睘을 반복하여 자체 훈고하는 문장이므로 두 결자 모두 睘으로 확정된다."
+    },
+    {
+      "before": "HT　音瓊。）陽明終者",
+      "after": "睘音瓊。）陽明終者",
+      "expected_count": 1,
+      "reason": "직전 睘의 자체 음의가 瓊이라고 직접 명시한다."
+    },
+    {
+      "before": "三日背KT　筋痛、小便閉，（即三日而之膂膀胱也。KT　，膂同，音呂。",
+      "after": "三日背膂筋痛、小便閉，（即三日而之膂膀胱也。KT　，膂同，音呂。",
+      "expected_count": 1,
+      "reason": "본문 병후는 정형문 背膂筋痛이고 주석도 ‘膂同，音呂’라고 뒷받침한다. 다만 주석 표제자는 별도 이체자일 수 있어 그대로 보류한다."
+    },
+    {
+      "before": "腎病少腹腰脊痛、　，（腎主下部，其經脈行於少腹腰脊　骨之間也。　音杭。　音酸。）三日背KT　筋痛",
+      "after": "腎病少腹腰脊痛、　，（腎主下部，其經脈行於少腹腰脊　骨之間也。　音杭。　音酸。）三日背膂筋痛",
+      "expected_count": 1,
+      "reason": "같은 전병 정형문이 반복되며 바로 앞 조문의 자체 주석으로 膂가 확정된다."
+    },
+    {
+      "before": "胃病脹滿，（胃脈布於腹裡也。）五日少腹腰脊痛、　，（即五日而之腎也。）三日背KT　筋痛",
+      "after": "胃病脹滿，（胃脈布於腹裡也。）五日少腹腰脊痛、　，（即五日而之腎也。）三日背膂筋痛",
+      "expected_count": 1,
+      "reason": "같은 전병 정형문이 반복되며 앞 조문의 자체 주석으로 膂가 확정된다."
     }
   ],
   "A/A203.txt": [

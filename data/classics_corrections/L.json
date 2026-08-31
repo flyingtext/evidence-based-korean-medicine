@@ -3101,5 +3101,21 @@
       "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
       "evidence_note": "공개 침구 영인의 巨髎 조문이 青盲無所見遠視䀮䀮로 판독된다."
     }
+  ],
+  "L/L004.txt": [
+    {
+      "before": "復則大風暴發，目視KT　KT　。人或素有厥疾",
+      "after": "復則大風暴發，目視䀮䀮。人或素有厥疾",
+      "expected_count": 1,
+      "reason": "《素問》 운기 조문의 정형어 目視䀮䀮.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "瞳神有油氣，視而KT　KT　，大益榮衛",
+      "after": "瞳神有油氣，視而䀮䀮，大益榮衛",
+      "expected_count": 1,
+      "reason": "目不明을 뜻하는 䀮䀮이며 같은 책의 자체 반복 용례와 일치.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    }
   ]
 }

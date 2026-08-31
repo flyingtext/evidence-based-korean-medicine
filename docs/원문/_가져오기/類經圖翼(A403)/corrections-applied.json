@@ -2590,5 +2590,124 @@
     "reason": "공개 원문 承泣穴 주치 조문의 고유 문맥 대조로 결자 복원",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
     "evidence_note": "공개 판본 承泣 조문에 '遠視䀮䀮，昏夜無見，口眼喎斜'로 수록됨"
+  },
+  {
+    "before": "癲疾多言，目視KT　KT　，耳鳴喉痹",
+    "after": "癲疾多言，目視䀮䀮，耳鳴喉痹",
+    "expected_count": 1,
+    "reason": "偏歷 주치의 정형어 目視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "青盲無見，遠視KT　KT　，面風鼻",
+    "after": "青盲無見，遠視䀮䀮，面風鼻",
+    "expected_count": 1,
+    "reason": "巨髎 주치의 정형어 遠視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "水漿漏落，眼動，遠視KT　KT　，昏夜無見",
+    "after": "水漿漏落，眼動，遠視䀮䀮，昏夜無見",
+    "expected_count": 1,
+    "reason": "地倉 주치 평행문의 遠視䀮䀮.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "兼天柱，治目視KT　KT　。\n\n張仲文",
+    "after": "兼天柱，治目視䀮䀮。\n\n張仲文",
+    "expected_count": 1,
+    "reason": "百證賦 정형구 目視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "主治目視KT　KT　，淚出目眩",
+    "after": "主治目視䀮䀮，淚出目眩",
+    "expected_count": 1,
+    "reason": "攢竹 주치의 정형어 目視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "連養老，治目中KT　KT　。又云",
+    "after": "連養老，治目中䀮䀮。又云",
+    "expected_count": 1,
+    "reason": "百證賦 평행문의 目中䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "增治法云：治目KT　KT　如脫",
+    "after": "增治法云：治目䀮䀮如脫",
+    "expected_count": 1,
+    "reason": "시야 불명의 정형 병증 目䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "項痛鼽衄，善驚，目KT　KT　，結積留飲",
+    "after": "項痛鼽衄，善驚，目䀮䀮，結積留飲",
+    "expected_count": 1,
+    "reason": "通谷 주치 평행문의 目䀮䀮.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "喘咳有血，目視KT　KT　無所見",
+    "after": "喘咳有血，目視䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "《素問·藏氣法時論》 정형문.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%97%8F%E6%B0%A3%E6%B3%95%E6%99%82%E8%AB%96"
+  },
+  {
+    "before": "主治目KT　KT　不能遠視，女子月事",
+    "after": "主治目䀮䀮不能遠視，女子月事",
+    "expected_count": 1,
+    "reason": "水泉 주치의 정형어 目䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "足痿　寒不得履，目視KT　KT，腸鳴腹痛",
+    "after": "足痿　寒不得履，目視䀮䀮，腸鳴腹痛",
+    "expected_count": 1,
+    "reason": "復溜 주치 평행문의 目視䀮䀮.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%81%9A%E8%8B%B1/index.html"
+  },
+  {
+    "before": "刺三分，灸三壯。\n\n主治目KT　KT　不明",
+    "after": "刺三分，灸三壯。\n\n主治目䀮䀮不明",
+    "expected_count": 1,
+    "reason": "天泉 주치의 정형어 目䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "目赤目眩，視物KT　KT　，拳毛倒睫",
+    "after": "目赤目眩，視物䀮䀮，拳毛倒睫",
+    "expected_count": 1,
+    "reason": "絲竹空 주치의 정형어 視物䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "翳膜青盲，遠視KT　KT　，淚出多眵",
+    "after": "翳膜青盲，遠視䀮䀮，淚出多眵",
+    "expected_count": 1,
+    "reason": "瞳子髎 주치의 정형어 遠視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "汗不出，目KT　KT　，發狂衄血",
+    "after": "汗不出，目䀮䀮，發狂衄血",
+    "expected_count": 1,
+    "reason": "曲泉 주치의 정형어 目䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "目黃，遠視KT　KT　，可灸五壯",
+    "after": "目黃，遠視䀮䀮，可灸五壯",
+    "expected_count": 1,
+    "reason": "脅堂 주치의 정형어 遠視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "眼中漠漠，即尋攢行三間；目視KT　KT　，急取養老天柱",
+    "after": "眼中漠漠，即尋攢行三間；目視䀮䀮，急取養老天柱",
+    "expected_count": 1,
+    "reason": "침구가결의 정형구 目視䀮䀮.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
   }
 ]
