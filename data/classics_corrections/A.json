@@ -31612,6 +31612,22 @@
       "expected_count": 1,
       "reason": "《鍼灸聚英·靈光賦》의 ‘兩鼻齆衄鍼禾窌’ 평행문. 禾 뒤 전각공백은 별도 후보라 유지한다.",
       "evidence_url": "https://zh.wikisource.org/wiki/%E9%8D%BC%E7%81%B8%E8%81%9A%E8%8B%B1/%E9%9D%88%E5%85%89%E8%B3%A6"
+    },
+    {
+      "before": "百證賦云：兼天柱，治目視KT　KT　。",
+      "after": "百證賦云：兼天柱，治目視眩眩。",
+      "expected_count": 1,
+      "reason": "《類經圖翼》 원간본 및 《百證賦》 인용 대조",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Harvard_drs_430542923_%E9%A1%9E%E7%B6%93_v.20.pdf",
+      "evidence_note": "스캔 OCR 완문 ‘百證賦云兼天柱治目視眩眩’"
+    },
+    {
+      "before": "主治目KT　KT　不明，頭痛，胸脅煩滿，咳逆",
+      "after": "主治目眩眩不明，頭痛，胸脅煩滿，咳逆",
+      "expected_count": 1,
+      "reason": "동일 혈위 주치의 원문 및 후대 직접 전승 대조",
+      "evidence_url": "https://meeting.colife.org.tw/upload/speech_document/20120909222211693_%E4%B8%AD%E5%9C%8B%E9%87%9D%E7%81%B8%E5%AD%B8%E8%AC%9B%E7%BE%A9.pdf",
+      "evidence_note": "동일 열거가 ‘目眩暈不明、頭痛、胸脅煩滿…’으로 전하며 원간본의 眩眩과 부합"
     }
   ],
   "A/A402.txt": [

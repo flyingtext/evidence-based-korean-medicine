@@ -20203,6 +20203,41 @@
       "after": "挾郁陽而為濕痰閉塞經絡",
       "expected_count": 1,
       "evidence": "뒤의 `轉蒸飲食之物為痰` 및 풍담 논의에 대응하는 고정 병리어는 濕痰이다. 동일 책 평행 전사: https://www.theqi.com/cmed/oldbook/book295/b295_10.html"
+    },
+    {
+      "before": "次兩旁白環俞中KT　俞。膀胱俞小腸俞大腸俞。",
+      "after": "次兩旁白環俞中膂俞。膀胱俞小腸俞大腸俞。",
+      "expected_count": 1,
+      "reason": "尻上 足太陽 방광경 배열의 표준 혈명 中膂俞.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+    },
+    {
+      "before": "循摩。舊本HT　。聲按道家演法必從泥丸宮運祖氣HT　的一聲HT　聲是也針家不用此法。",
+      "after": "循摩。舊本呵。聲按道家演法必從泥丸宮運祖氣呵的一聲呵聲是也針家不用此法。",
+      "expected_count": 1,
+      "reason": "주석 자체가 ‘一聲’이라 풀이하는 호기 발성 呵聲이며 세 표지가 동일 어구 안에서 반복된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E9%80%A2%E6%BA%90/index.html"
+    },
+    {
+      "before": "KT　中(KT　音杪季脅下兩旁空軟處也)",
+      "after": "䏚中(䏚音杪季脅下兩旁空軟處也)",
+      "expected_count": 1,
+      "reason": "季脅 아래 양옆의 해부 명칭 䏚中이며 음주 杪와 일치한다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E4%8F%9A&if=zh"
+    },
+    {
+      "before": "顴　(一名兌端)　在面HT　骨下廉銳骨端陷中。",
+      "after": "顴　(一名兌端)　在面顴骨下廉銳骨端陷中。",
+      "expected_count": 1,
+      "reason": "顴穴의 표준 위치 ‘面顴骨下廉’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
+    },
+    {
+      "before": "灸後當氣下KT　KT　然如水流。",
+      "after": "灸後當氣下礱礱然如水流。",
+      "expected_count": 1,
+      "reason": "膏肓灸 뒤 기감의 정형 표현 ‘氣下礱礱然如流水之狀’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html"
     }
   ],
   "K/K101.txt": [

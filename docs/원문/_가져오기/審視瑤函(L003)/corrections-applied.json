@@ -244,5 +244,95 @@
     "expected_count": 1,
     "reason": "도가 내단술의 고정 대구",
     "evidence": "黃婆媒合嬰姹"
+  },
+  {
+    "before": "黑花隱隱HT　疼",
+    "after": "黑花隱隱作　疼",
+    "expected_count": 1,
+    "reason": "jicheng.tw 본문 및 문맥의 '隱隱作疼' 대조."
+  },
+  {
+    "before": "當慮乎HT　翻之患",
+    "after": "當慮乎睥　翻之患",
+    "expected_count": 1,
+    "reason": "본서의 병명 睥翻粘瞼 및 해당 문맥 대조."
+  },
+  {
+    "before": "HT　疼似擊若鶻眼",
+    "after": "頭　疼似擊若鶻眼",
+    "expected_count": 1,
+    "reason": "두부 통증을 서술하는 대구 문맥과 대조."
+  },
+  {
+    "before": "白HT　俱青，肝邪蒸逼氣輪藍",
+    "after": "白珠　俱青，肝邪蒸逼氣輪藍",
+    "expected_count": 1,
+    "reason": "본서의 白珠俱青 병명 및 jicheng.tw 대조."
+  },
+  {
+    "before": "則睛出乎HT　外",
+    "after": "則睛出乎眶　外",
+    "expected_count": 1,
+    "reason": "睛突出眶의 고정 병증 표현과 대조."
+  },
+  {
+    "before": "輕手HT　之，熱在皮毛血脈也",
+    "after": "輕手捫　之，熱在皮毛血脈也",
+    "expected_count": 1,
+    "reason": "東垣의 手按辨熱 문장 '輕手捫之' 대조."
+  },
+  {
+    "before": "痘後睛HT　突出",
+    "after": "痘後睛𥅲　突出",
+    "expected_count": 1,
+    "reason": "胎兔丸 전승문에 보존된 '痘後睛𥅲突出' 정확 대조."
+  },
+  {
+    "before": "障滿睛HT　，視亦不見",
+    "after": "障滿睛珠　，視亦不見",
+    "expected_count": 1,
+    "reason": "눈 구조를 가리키는 睛珠 및 문맥 대조."
+  },
+  {
+    "before": "民病目HT　瘍",
+    "after": "民病目眥　瘍",
+    "expected_count": 1,
+    "reason": "《素問》 운기 조문의 '民病目赤眥瘍/目眥瘍' 대조."
+  },
+  {
+    "before": "劉河間曰：目HT　不明，熱也",
+    "after": "劉河間曰：目昧　不明，熱也",
+    "expected_count": 1,
+    "reason": "劉河間 《原病式》의 '目昧不明，目赤腫痛…皆為熱也' 대조."
+  },
+  {
+    "before": "黃婆媒合嬰HT　之理",
+    "after": "黃婆媒合嬰兒　之理",
+    "expected_count": 1,
+    "reason": "도교 내단 문맥의 嬰兒 및 문장 대조."
+  },
+  {
+    "before": "目KT　KT",
+    "after": "目䀮　䀮",
+    "expected_count": 2,
+    "reason": "《素問》 및 안과 전승문의 目䀮䀮 대조."
+  },
+  {
+    "before": "視KT　KT",
+    "after": "視䀮　䀮",
+    "expected_count": 5,
+    "reason": "目視·遠視䀮䀮 병증어 대조."
+  },
+  {
+    "before": "視物KT　KT",
+    "after": "視物䀮　䀮",
+    "expected_count": 2,
+    "reason": "視物䀮䀮 병증어 대조."
+  },
+  {
+    "before": "目KTKT無所見者",
+    "after": "目䀮䀮無所見者",
+    "expected_count": 1,
+    "reason": "《素問》 계통의 '目䀮䀮無所見' 대조."
   }
 ]

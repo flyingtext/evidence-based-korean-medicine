@@ -448,10 +448,10 @@
     },
     "A/A403.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2164,
+      "unresolved_candidates": 2160,
       "punctuation_status": "source_present",
-      "note": "HEAD 기존 341개 규칙 적용 후 남은 명시 표지는 HT 6개와 KT 4개였다. occurrence-specific 9개 규칙으로 이 10개 표지를 모두 복원한다(한 규칙이 KT 2개를 동시에 처리). 전각공백은 유지했으며 unresolved_candidates는 표지 10자리만 2174에서 차감했다.",
-      "remaining_count": 2164,
+      "note": "HEAD 기존 correction 350개 중 expected_count 조건으로 162개 적용·188개 stale. 적용 후 명시 표지 KT 4개·PUA 0개를 두 occurrence-specific 규칙으로 전부 복원하여 2164→2160. 전각공백 제외.",
+      "remaining_count": 2160,
       "status": "in_progress"
     },
     "B/B003a.txt": {
@@ -3870,10 +3870,10 @@
     },
     "L/L003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3442,
+      "unresolved_candidates": 3487,
       "punctuation_status": "source_present",
-      "note": "HEAD 기존 교정 후 실제 명시 표지 28개 중 공개 《審視瑤函》 직접 문장과 반복 병형으로 26좌표 교감. 漫HT結과 도형 설명 1좌표 보류. status 3468→3442.",
-      "remaining_count": 3442,
+      "note": "교정 오버레이 없음. HT 35개 중 원문으로 확정 가능한 11개와 KT 20개 전부를 복원. 전각공백 3463개는 제외·유지하며, 잔여 명시 결자는 판본에서 IDS ⿰米厭 등으로만 전해지거나 도형·의성어가 불확정한 HT 24개.",
+      "remaining_count": 3487,
       "status": "in_progress"
     },
     "L/L004.txt": {
@@ -3902,10 +3902,10 @@
     },
     "K/K008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2038,
+      "unresolved_candidates": 2029,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 산출물에서 명시 표식은 HT12·KT9·□74, 합계95좌표였다. 직접 인용, 혈명·경맥 고정구, 침구 자매본으로 21개 occurrence-specific 규칙에서 22좌표(員利針 규칙은 2좌표)를 확정했다. 나머지 73좌표는 장문 판면 훼손, 희귀 해부자·도상 또는 문맥만으로 자형을 유일하게 정할 수 없는 곳이어서 보류한다. 전각 공백은 모두 유지하고 status 2060에서 실제 명시 표식 22좌표만 차감했다.",
-      "remaining_count": 2038,
+      "note": "HEAD 505개 교정 오버레이 적용 후 HT 6, KT 5, □ 31, PUA 0으로 명시 표지는 42개였다. 전각공백은 제외했다. 표준 혈명·해부명·직접 주석으로 HT 4개와 KT 5개, 합계 9개를 복원해 33개가 남는다. 기존 상태와 동일한 집계 기준으로 전각공백 1996개를 포함한 remaining_count는 2029.",
+      "remaining_count": 2029,
       "status": "in_progress"
     },
     "K/K101.txt": {

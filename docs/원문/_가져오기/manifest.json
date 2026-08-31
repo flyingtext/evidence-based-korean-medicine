@@ -700,9 +700,12 @@
       "output_directory": "類經圖翼(A403)",
       "markdown_files": 16,
       "translation_units": 146,
-      "corrections_applied": 350,
+      "corrections_applied": 352,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 83864:83870",
+        "교정 좌표 중첩: 99235:99241"
+      ]
     },
     {
       "source_path": "A/A500.txt",
@@ -8261,7 +8264,7 @@
       "output_directory": "針灸逢源(K008)",
       "markdown_files": 10,
       "translation_units": 318,
-      "corrections_applied": 505,
+      "corrections_applied": 510,
       "punctuated": false,
       "warnings": []
     },
@@ -8659,9 +8662,31 @@
       "output_directory": "審視瑤函(L003)",
       "markdown_files": 8,
       "translation_units": 99,
-      "corrections_applied": 34,
+      "corrections_applied": 49,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 132409:132415",
+        "교정 좌표 중첩: 132735:132741",
+        "교정 좌표 중첩: 133327:133333",
+        "교정 좌표 중첩: 134441:134447",
+        "교정 좌표 중첩: 134819:134825",
+        "교정 좌표 중첩: 19323:19325",
+        "교정 좌표 중첩: 19478:19480",
+        "교정 좌표 중첩: 19485:19487",
+        "교정 좌표 중첩: 19957:19959",
+        "교정 좌표 중첩: 20129:20131",
+        "교정 좌표 중첩: 49838:49840",
+        "교정 좌표 중첩: 70098:70100",
+        "교정 좌표 중첩: 70408:70410",
+        "교정 좌표 중첩: 82480:82482",
+        "교정 좌표 중첩: 89941:89947",
+        "교정 좌표 중첩: 90013:90019",
+        "교정 좌표 중첩: 90031:90035",
+        "교정 좌표 중첩: 90046:90052",
+        "교정 좌표 중첩: 90081:90083",
+        "교정 좌표 중첩: 93155:93161",
+        "교정 좌표 중첩: 99027:99029"
+      ]
     },
     {
       "source_path": "L/L004.txt",
