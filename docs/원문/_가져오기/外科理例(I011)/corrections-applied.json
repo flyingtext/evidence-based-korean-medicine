@@ -1854,5 +1854,19 @@
     "reason": "蛔疳의 고정 증후인 皺眉多啼이다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%90%86%E4%BE%8B/index.html",
     "evidence_note": "동일 문헌 공개 전사에서 `一兒眉皺多啼`를 직접 확인했다."
+  },
+  {
+    "before": "一後生HT　骨痛。以風藥飲酒一年",
+    "after": "一後生叉骨痛。以風藥飲酒一年",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/Page:Gujin_Tushu_Jicheng,_Volume_453_(1700-1725).djvu/64",
+    "evidence_note": "《古今圖書集成》 수록 평행문이 `一後生叉骨痛，以風藥飲酒一年`으로 직접 전사한다."
+  },
+  {
+    "before": "一少年天寒極勞。HT　骨痛。兩月後生疽",
+    "after": "一少年天寒極勞。叉骨痛。兩月後生疽",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/Page:Gujin_Tushu_Jicheng,_Volume_453_(1700-1725).djvu/64",
+    "evidence_note": "같은 공개 판면의 연속 사례가 `一少年天寒極，勞叉骨痛，兩月後生疽`로 전사되어 골명 叉骨을 확인한다."
   }
 ]

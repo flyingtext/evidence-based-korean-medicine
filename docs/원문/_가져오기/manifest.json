@@ -3889,7 +3889,7 @@
       "output_directory": "華佗神方(D052)",
       "markdown_files": 24,
       "translation_units": 1212,
-      "corrections_applied": 120,
+      "corrections_applied": 121,
       "punctuated": false,
       "warnings": []
     },
@@ -5384,9 +5384,11 @@
       "output_directory": "急救廣生集(F101)",
       "markdown_files": 13,
       "translation_units": 468,
-      "corrections_applied": 130,
+      "corrections_applied": 131,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '<ins>鬢HT\\u3000瘡</ins>' (0/1)"
+      ]
     },
     {
       "source_path": "G/G000.txt",
@@ -6901,7 +6903,7 @@
       "output_directory": "幼科釋謎(H032)",
       "markdown_files": 8,
       "translation_units": 138,
-      "corrections_applied": 111,
+      "corrections_applied": 114,
       "punctuated": false,
       "warnings": []
     },
@@ -7192,7 +7194,7 @@
       "output_directory": "外科理例(I011)",
       "markdown_files": 12,
       "translation_units": 423,
-      "corrections_applied": 232,
+      "corrections_applied": 234,
       "punctuated": false,
       "warnings": []
     },

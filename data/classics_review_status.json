@@ -118,9 +118,9 @@
     },
     "I/I011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1372,
+      "unresolved_candidates": 1370,
       "punctuation_status": "source_present",
-      "note": "HT 1자리를 복원했다. 희귀 골명·부위명과 다른 HT·□·공백은 원판 자형 확정 전 보류한다. 잔여 후보 1372자리."
+      "note": "두 고유 문맥은 numbered 본문에서 각각 1회이며 기존 232개 규칙과 일치·중첩하지 않는다. 적용 시 HT 2자리가 해소된다. 나머지 희귀 부위명·외자는 보류."
     },
     "I/I018.txt": {
       "collation_status": "in_progress",
@@ -160,9 +160,9 @@
     },
     "G/G040.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1194,
+      "unresolved_candidates": 3084,
       "punctuation_status": "source_present",
-      "note": "이번 대조에서 새로 확정할 수 있는 발생별 복원은 없음."
+      "note": "현재 HT·KT·□·PUA 표지는 없고 전각 공백만 남았다. 원판 대조 없이 결자로 단정하지 않았다."
     },
     "G/G043.txt": {
       "collation_status": "complete",
@@ -184,15 +184,15 @@
     },
     "F/F022.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1193,
+      "unresolved_candidates": 2372,
       "punctuation_status": "source_present",
-      "note": "고정 약명·처방명과 탕화상 문맥으로 총 6개 표지를 복원."
+      "note": "남은 ‘宜只HT散’ 1개와 연속 □ 3개는 후보를 단일 문자로 확정할 독립 판본 근거가 없어 보류했다."
     },
     "F/F101.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1374,
+      "unresolved_candidates": 1372,
       "punctuation_status": "source_present",
-      "note": "HT 7자리를 복원했다. 부적 3자·희귀 병명 등 나머지 HT·KT와 공백은 보류한다. 잔여 후보 1374자리."
+      "note": "두 문맥은 numbered 본문에서 각각 1회이고 기존 130개 규칙과 중첩하지 않는다. 적용 시 HT 2자리가 해소된다. 부적 문자와 나머지 희귀 병명은 보류."
     },
     "G/G001.txt": {
       "collation_status": "in_progress",
@@ -237,10 +237,10 @@
       "note": "최신 shard 64규칙 적용 뒤 특수표지는 모두 해소됐고 review status상 비조판 전각공백 543좌표만 남는다. 독립 판면 없이 실제 결락을 확정할 고유 문맥 신규안은 없다."
     },
     "D/D052.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1354,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "HT 1자리를 복원했다. 다른 痧名 HT와 전각 공백은 판본 대조 전 보류한다. 잔여 후보 1354자리."
+      "note": "동일 번호 공개 전사로 HT가 결자가 아닌 잔재임을 확인해 삭제하는 고유 표제 규칙 1건을 제안."
     },
     "D/D053.txt": {
       "collation_status": "in_progress",
@@ -298,9 +298,9 @@
     },
     "C/C027.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1217,
+      "unresolved_candidates": 4,
       "punctuation_status": "source_present",
-      "note": "인용 원전의 완전 일치 문구로 희자 搊 1자를 복원."
+      "note": "驚·消癉·木舌·咽喉 뒤의 □는 처방군과 처방명 사이 구조 표식으로 보이나 원래 조판 형식을 확정하기 어려워 보류."
     },
     "C/C031.txt": {
       "collation_status": "complete",
@@ -568,9 +568,9 @@
     },
     "D/D048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1314,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "癲狂 조문의 ‘先將病患綁伏，□當心下來三指灸’에서 □는 자세상 ‘背’일 가능성이 높다. 그러나 검색 가능한 《經驗丹方匯編》·《衛生備要》 전사에서 동일 문장을 찾지 못했고, 영인 판면 좌표도 확보하지 못해 확정하지 않았다. 잔여 후보 1314자리."
+      "note": "‘綁伏，□當心下來三指灸’의 □는 지시 부사 또는 조판 표식일 수 있어 독립 확정 근거가 부족하므로 보류."
     },
     "E/E009.txt": {
       "collation_status": "complete",
@@ -3597,10 +3597,10 @@
       "note": "기존 106개 규칙은 모두 정상 적용된다. HT15·KT5·□215는 부적·주문 및 대규모 판면 파손에 집중되어 영인 판독 전 신규 없음. 검증 applied=106/106, warnings=0, overlaps=0."
     },
     "F/F002.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1247,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "공개 PDF의 동일 문장으로 苶 1자를 복원."
+      "note": "비표점 원문에서 HT·KT·□ 잔여 표식을 찾지 못함."
     },
     "F/F002a.txt": {
       "collation_status": "complete",
@@ -3700,15 +3700,15 @@
     },
     "H/H032.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1130,
+      "unresolved_candidates": 2570,
       "punctuation_status": "source_present",
-      "note": "HT 7자리를 복원했다. 나머지 HT·KT와 전각 공백은 확정 근거 부족으로 보류한다."
+      "note": "직접 평행문과 병증명·동일 절 반복으로 확정 가능한 6개 표지만 occurrence 한정 규칙으로 제안했다. 나머지 HT 7개와 전각 공백은 후보가 있어도 원판 근거 부족으로 보류한다."
     },
     "H/H034.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1186,
+      "unresolved_candidates": 3563,
       "punctuation_status": "source_present",
-      "note": "KT 6자리를 모두 복원했다. 전각 공백 1186자리는 결자로 확정되지 않아 보류한다."
+      "note": "현재 HT·KT·□·PUA 표지는 없고 전각 공백만 남았다. 결락과 조판 간격을 판별할 독립 근거가 없어 신규 제안 없음."
     },
     "I/I001.txt": {
       "collation_status": "in_progress",
@@ -3846,7 +3846,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1359,
       "punctuation_status": "source_present",
-      "note": "명시적 HT·KT·□ 표지는 없지만 전각 공백 1359자리가 남는다. 공개 판면에서 조판 공백과 결자를 안전하게 분리하지 못해 신규 제안 없음. 잔여 후보 1359자리."
+      "note": "기존 75개 규칙 적용 후 명시적 HT·KT·□는 없고 비조판 가능 전각 공백만 남는다. 공개 전문만으로 조판 공백과 결자를 occurrence별로 분리할 수 없어 신규 없음. 중첩·경고 없음."
     },
     "M/M100.txt": {
       "collation_status": "in_progress",
@@ -4188,7 +4188,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1411,
       "punctuation_status": "source_present",
-      "note": "인용된 원서 자서와 대조해 僭 1자를 복원. 잔여 후보 1411자리."
+      "note": "기존 739개 규칙 적용 후에도 인명·서명·대규모 인용 결락과 HT·KT·□가 남는다. 온라인 전사 다수가 같은 표식을 계승하고 있어 원판 또는 독립 판본 없이 신규 확정하지 않았다. 신규 중첩·경고 없음."
     },
     "O/O084.txt": {
       "collation_status": "in_progress",

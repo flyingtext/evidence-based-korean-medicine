@@ -32135,6 +32135,14 @@
       "reason": "後漢書의 壽光 전기에 보이는 희귀 고정어이다.",
       "evidence_url": "https://big5.quanben5.io/n/houhanshu/92.html",
       "evidence_note": "공개 《後漢書》 전사에서 `常屈頸鷮息，須發盡白`을 직접 확인했다. 현 전사의 當은 그대로 보존한다."
+    },
+    {
+      "before": "[h3]四○九六‧華佗治HT痧神方[/h3]",
+      "after": "[h3]四○九六‧華佗治痧神方[/h3]",
+      "expected_count": 1,
+      "reason": "공개 전사의 동일 번호 표제가 ‘華佗治痧神方’이며 HT 자리에 글자가 없는 비조판 잔재임.",
+      "evidence_url": "https://gushu.net.cn/book/%E8%8F%AF%E4%BD%97%E7%A5%9E%E6%96%B9/index.html",
+      "evidence_note": "四○九六의 표제와 뒤 四○九七 ‘治斑痧神方’, 四○九八 ‘治各種痧症神方’의 연속 배열을 직접 대조함."
     }
   ],
   "D/D026.txt": [

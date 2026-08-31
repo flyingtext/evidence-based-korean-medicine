@@ -10031,6 +10031,30 @@
       "reason": "癇 발작 뒤 침과 거품을 토하는 고정 증후이다.",
       "evidence_url": "https://yibian.hopto.org/db/?lc=tw&sypno=37",
       "evidence_note": "공개 의학 문헌에서 `醒時吐涎沫`을 확인했다."
+    },
+    {
+      "before": "HT　不定",
+      "after": "嗞啀不定",
+      "expected_count": 2,
+      "reason": "소아 煩躁를 구별하는 고정 술어로 嗞煎不安과 대구한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E8%AA%A0%E6%B1%82%E9%9B%86/index.html",
+      "evidence_note": "독립 평행문에 ‘嗞煎不安是煩，嗞啀不定是躁’ 및 ‘嗞啀者，心經有風’이 온전히 남아 있다."
+    },
+    {
+      "before": "疳積KT　瀉",
+      "after": "疳積腫瀉",
+      "expected_count": 3,
+      "reason": "疳病의 병증명 疳腫·疳瀉를 합칭한 문맥이다.",
+      "evidence_url": "https://www.teacher.aedocenter.com/med-1/mbb-18.htm",
+      "evidence_note": "병증 명명례 ‘疳瀉、疳痢、疳腫脹…’로 腫을 확인했으며 세 occurrence가 같은 절 안에서 반복된다."
+    },
+    {
+      "before": "KT　者脹也。其症必目胞腫",
+      "after": "腫者脹也。其症必目胞腫",
+      "expected_count": 1,
+      "reason": "직전 疳積腫瀉의 腫을 풀이하는 문장으로 후속 目胞腫과도 일치한다.",
+      "evidence_url": "https://www.teacher.aedocenter.com/med-1/mbb-18.htm",
+      "evidence_note": "疳腫脹 병증명 및 해당 절 내부 반복으로 확정했다."
     }
   ],
   "H/H034.txt": [

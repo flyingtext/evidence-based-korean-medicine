@@ -4933,6 +4933,20 @@
       "reason": "직전 卍자의 반복 설명이다.",
       "evidence_url": "https://dict.variants.moe.edu.tw/dictView.jsp?ID=100",
       "evidence_note": "공개 자전과 문맥이 일치한다."
+    },
+    {
+      "before": "人生欲事，寡則少病而多壽，至老耳目聰明，齒發不落。惟縱欲之人，必多疾而早夭。蓋百邪皆乘虛而入，入輕則易愈，入重則難痊，極重則死矣。郭開符曰：三十以前不知愛惜精神，我去尋疾病。四十以後才知愛惜精神，疾病又來尋我。故寡欲者，養身之要也。（《全人矩HT　》）",
+      "after": "人生欲事，寡則少病而多壽，至老耳目聰明，齒發不落。惟縱欲之人，必多疾而早夭。蓋百邪皆乘虛而入，入輕則易愈，入重則難痊，極重則死矣。郭開符曰：三十以前不知愛惜精神，我去尋疾病。四十以後才知愛惜精神，疾病又來尋我。故寡欲者，養身之要也。（《全人矩矱》）",
+      "expected_count": 1,
+      "evidence_url": "https://commons.wikimedia.org/wiki/File:Harvard_drs_428481076_%E5%85%A8%E4%BA%BA%E7%9F%A9%E7%9F%B1.pdf",
+      "evidence_note": "하버드 소장 공개 영인의 정식 서명이 《全人矩矱》이며 국가도서관 서지의 정제명도 동일하다."
+    },
+    {
+      "before": "<ins>鬢HT　瘡</ins>",
+      "after": "<ins>鬢𧓿瘡</ins>",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/282/94",
+      "evidence_note": "《急救廣生集》 독립 전문이 해당 소제목을 `鬢𧓿瘡（或作臘梨）`로 전사한다."
     }
   ],
   "F/F002a.txt": [
