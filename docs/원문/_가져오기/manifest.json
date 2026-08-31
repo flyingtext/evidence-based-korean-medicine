@@ -638,9 +638,15 @@
       "output_directory": "類經(A402)",
       "markdown_files": 33,
       "translation_units": 379,
-      "corrections_applied": 1073,
+      "corrections_applied": 1132,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 288488:288494",
+        "교정 좌표 중첩: 292876:292882",
+        "교정 좌표 중첩: 299531:299537",
+        "교정 좌표 중첩: 461981:461984",
+        "교정 좌표 중첩: 576256:576262"
+      ]
     },
     {
       "source_path": "A/A402a.txt",
@@ -2750,7 +2756,7 @@
       "output_directory": "證類本草(C050)",
       "markdown_files": 36,
       "translation_units": 1773,
-      "corrections_applied": 0,
+      "corrections_applied": 37,
       "punctuated": false,
       "warnings": []
     },
@@ -13692,7 +13698,7 @@
       "output_directory": "本草綱目(下)(P0201)",
       "markdown_files": 27,
       "translation_units": 908,
-      "corrections_applied": 1496,
+      "corrections_applied": 1506,
       "punctuated": false,
       "warnings": []
     },

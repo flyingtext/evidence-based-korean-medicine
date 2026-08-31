@@ -11961,5 +11961,65 @@
     "expected_count": 1,
     "evidence": "동일 항목의 이명 반복.",
     "reason": "동일 항목의 이명 반복."
+  },
+  {
+    "before": "虛則欠KT　、小便遺數。",
+    "after": "虛則欠欬、小便遺數。",
+    "expected_count": 1,
+    "evidence": "직접 인용된 《靈樞·經脈》 영인과 평행문이 `虛則欠欬，小便遺數`로 보존한다. https://upload.wikimedia.org/wikipedia/commons/a/a1/NAJDA-300-0160_%E9%BB%84%E5%B8%9D%E5%86%85%E7%B5%8C%E9%9C%8A%E6%9E%A21.pdf"
+  },
+  {
+    "before": "白曰KT　，赤曰　，駁曰犁。",
+    "after": "白曰㹊，赤曰　，駁曰犁。",
+    "expected_count": 1,
+    "evidence": "《本草綱目·牛》의 독립 전사는 소의 백색 명칭을 `白色的牛稱為㹊`로 보존한다. https://cloudtcm.com/shu/t1/34/1965"
+  },
+  {
+    "before": "無角曰KT　。子曰犢",
+    "after": "無角曰洿。子曰犢",
+    "expected_count": 1,
+    "evidence": "《本草綱目·牛》의 독립 전사는 `無角的牛稱為洿`로 보존한다. https://cloudtcm.com/shu/t1/34/1965"
+  },
+  {
+    "before": "其子曰KT　，其肉曰瓤。",
+    "after": "其子曰𤬓，其肉曰瓤。",
+    "expected_count": 1,
+    "evidence": "《廣雅》 및 평행 농서 전사는 `瓜大曰瓜，小曰瓞，子曰𤬓，肉曰瓤`으로 보존한다. https://www.shidianguji.com/character/%F0%A4%AC%93"
+  },
+  {
+    "before": "浙人以麥KT　、稻稈，吳人以繭",
+    "after": "浙人以麥稭、稻稈，吳人以繭",
+    "expected_count": 1,
+    "evidence": "제지 원료를 열거하는 고정어는 `麥稭、稻稈`이며 稭는 탈곡 뒤의 줄기라는 뜻이다. https://www.zdic.net/hant/%E9%BA%A6%E7%A8%AD"
+  },
+  {
+    "before": "謂KT　土作房爾。",
+    "after": "謂壘土作房爾。",
+    "expected_count": 1,
+    "evidence": "토봉이 흙으로 집을 짓는다는 문맥의 동사는 `壘土`이며 동일 《本草綱目》 계열 문장과 합치한다. https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E8%9F%B2%E4%B9%8B%E4%B8%80"
+  },
+  {
+    "before": "一名箬，一名KT　，一名茁，一名初篁。",
+    "after": "一名箬，一名虇，一名茁，一名初篁。",
+    "expected_count": 1,
+    "evidence": "《筍譜》를 옮긴 독립 《本草綱目》 전사가 `一名萌，一名箬，一名虇，一名茁，一名初篁`으로 보존한다. https://www.shidianguji.com/book/GJTS20/chapter/1lpfeflo8krhm"
+  },
+  {
+    "before": "KT　仙《神隱書》言：園旁水側宜廣種之",
+    "after": "臞仙《神隱書》言：園旁水側宜廣種之",
+    "expected_count": 1,
+    "evidence": "인용 서명은 명 寧獻王 朱權의 《臞仙神隱書》이며 관련 연구도 이 표기를 확인한다. https://www.medhist.or.kr/upload/pdf/kjmh-21-2-193.pdf"
+  },
+  {
+    "before": "宋時太官作血KT　（音勘），庖人削藕皮",
+    "after": "宋時太官作血䘓（音勘），庖人削藕皮",
+    "expected_count": 1,
+    "evidence": "《本草》 도홍경 주의 직접 평행문과 자전은 `宋時大官作血䘓` 및 䘓의 음을 勘, 뜻을 血羹으로 확정한다. https://zdic.net/hant/%E4%98%93"
+  },
+  {
+    "before": "KT　者，血羹也。",
+    "after": "䘓者，血羹也。",
+    "expected_count": 1,
+    "evidence": "동일 직접 인용의 용어 정의로, 자전이 䘓을 `血羹`으로 풀이한다. https://zdic.net/hant/%E4%98%93"
   }
 ]

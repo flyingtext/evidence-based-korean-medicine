@@ -3116,9 +3116,11 @@
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1796,
+      "unresolved_candidates": 1711,
       "punctuation_status": "source_present",
-      "note": "현 status 1823자리에서 표식 13자와 결자 전각공백 14자리, 합계 27자리만 차감했다. ‘KT，膂同’의 표제자는 별도 이체자일 수 있어 보존했으며, 고자 자형이나 번호가 확정되지 않는 나머지 HT·KT 및 비조판 공백도 보류했다."
+      "note": "기존 교정 순차 적용 뒤 실제 명시 표지 150개 중 85개를 자매 문맥·《類經》《內經》 직접 인용·자체 음주로 교감. 명시 표지 65개 보류. status 1796→1711.",
+      "remaining_count": 1711,
+      "status": "in_progress"
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
@@ -3474,9 +3476,11 @@
     },
     "C/C050.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6233,
+      "unresolved_candidates": 6192,
       "punctuation_status": "source_present",
-      "note": "현 status 6233을 유지한다. 남은 KT·□는 본초명, 지명, 자서 인용과 교주가 혼재하며 공개 전사에도 결자가 많아 영인 판독 없이 추정 복원하지 않았다."
+      "note": "status 6233에서 직접 인용 고전·본문의 명시적 풀이로 확정한 KT 41좌표만 차감했다. 동일 KT가 수십 종의 서로 다른 희귀자를 대표하므로 occurrence-specific 규칙만 사용했다. 전각공백 6063과 □ 5좌표는 모두 유지했다.",
+      "remaining_count": 6192,
+      "status": "in_progress"
     },
     "C/C103.txt": {
       "collation_status": "complete",
@@ -4410,9 +4414,11 @@
     },
     "P/P0201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3611,
+      "unresolved_candidates": 3601,
       "punctuation_status": "source_present",
-      "note": "잔여 KT가 《說文》 고자·희귀 동식물명·주음에 집중되어 있고 영인 좌표 없이 단정할 수 없다. 기존 status를 유지한다."
+      "note": "기존 교정 적용 산출물의 명시 표식은 KT 135좌표였다(raw marker 140과 5 차이). P0200 자매본 구조와 《本草綱目》 계열 평행문, 직접 인용·자전으로 KT 10좌표를 10개 occurrence-specific 규칙으로 확정했다. 나머지 125좌표는 《說文》 고자, 희귀 동식물명·의성어 및 손상된 장문에 집중되어 영인 자형 없이 유일하게 확정할 수 없어 보류한다. 전각 공백은 모두 유지하고 status 3611에서 실제 명시 표식 10좌표만 차감했다.",
+      "remaining_count": 3601,
+      "status": "in_progress"
     },
     "P/P0300.txt": {
       "collation_status": "in_progress",

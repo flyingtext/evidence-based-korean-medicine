@@ -1,1 +1,224 @@
-[]
+[
+  {
+    "before": "蜀本作KT　，音糜",
+    "after": "蜀本作燼　，音糜",
+    "expected_count": 1,
+    "evidence": "‘文籍焚靡’ 교감주와 音糜가 燼의 문맥·음가에 대응한다."
+  },
+  {
+    "before": "寒氣堅，故其味可用以KT　；熱氣KT　，故其味可用以堅",
+    "after": "寒氣堅，故其味可用以軟　；熱氣軟　，故其味可用以堅",
+    "expected_count": 1,
+    "evidence": "《本草綱目》가 인용한 寇宗奭 원문 ‘寒氣堅…用以軟；熱氣軟…用以堅’과 일치한다."
+  },
+  {
+    "before": "脈KT　則和，故咸可以養脈",
+    "after": "脈軟　則和，故咸可以養脈",
+    "expected_count": 1,
+    "evidence": "寇宗奭 직접 인용문 ‘脈軟則和，故咸可以養脈’과 일치한다."
+  },
+  {
+    "before": "堅之而後可以KT　，收之而後可以散",
+    "after": "堅之而後可以軟　，收之而後可以散",
+    "expected_count": 1,
+    "evidence": "寇宗奭 직접 인용문 ‘堅之而後可以軟’과 일치한다."
+  },
+  {
+    "before": "一名KT　（忙庚切）也。臣禹錫等謹按爾雅云：KT　，貝母",
+    "after": "一名莔　（忙庚切）也。臣禹錫等謹按爾雅云：莔　，貝母",
+    "expected_count": 1,
+    "evidence": "《爾雅》 ‘莔，貝母’ 및 忙庚切로 확정된다."
+  },
+  {
+    "before": "《　詩》言采其KT　（音虻）。陸機疏云：貝母也",
+    "after": "《　詩》言采其莔　（音虻）。陸機疏云：貝母也",
+    "expected_count": 1,
+    "evidence": "《詩》의 貝母 별칭 莔과 音虻이 일치한다."
+  },
+  {
+    "before": "氍KT　五木香",
+    "after": "氍毹　五木香",
+    "expected_count": 1,
+    "evidence": "고악부 고정어 ‘氍毹五木香’으로 확정된다."
+  },
+  {
+    "before": "佛經云：夜干貂KT　，此是惡獸",
+    "after": "佛經云：夜干貂鼠　，此是惡獸",
+    "expected_count": 1,
+    "evidence": "불전의 동물 병칭 ‘夜干貂鼠’와 뒤 설명이 일치한다."
+  },
+  {
+    "before": "《爾雅》曰：車，KT　（音乞）輿",
+    "after": "《爾雅》曰：車，芣　（音乞）輿",
+    "expected_count": 1,
+    "evidence": "《爾雅》 고정문 ‘車，芣輿’로 확정된다."
+  },
+  {
+    "before": "語訛為仆公KT　是也",
+    "after": "語訛為仆公英　是也",
+    "expected_count": 1,
+    "evidence": "바로 앞에서 속칭 蒲公英을 직접 제시한다."
+  },
+  {
+    "before": "漢書云：出KT　賓國",
+    "after": "漢書云：出罽　賓國",
+    "expected_count": 1,
+    "evidence": "《漢書》 서역 지명 罽賓國으로 확정된다."
+  },
+  {
+    "before": "凝成乃堅KT　，光彩甚麗",
+    "after": "凝成乃堅硬　，光彩甚麗",
+    "expected_count": 1,
+    "evidence": "琥珀 응결 상태를 기술하는 고정어 ‘凝成乃堅硬’이다."
+  },
+  {
+    "before": "按之心下KT　者，虛煩也",
+    "after": "按之心下濡　者，虛煩也",
+    "expected_count": 1,
+    "evidence": "梔子豉湯의 직접 인용문 ‘按之心下濡者’와 일치한다."
+  },
+  {
+    "before": "[h3]茗、苦KT[/h3]",
+    "after": "[h3]茗、苦荼[/h3]",
+    "expected_count": 1,
+    "evidence": "동일 항목 본문이 ‘蜀人名之苦荼’라고 직접 명시한다."
+  },
+  {
+    "before": "[i]茗、苦KT　\\pd333.bmp[/i]",
+    "after": "[i]茗、苦荼　\\pd333.bmp[/i]",
+    "expected_count": 1,
+    "evidence": "동일 항목 표제 ‘茗、苦荼’의 도판 캡션이다."
+  },
+  {
+    "before": "苦KT　，主下氣，消宿食",
+    "after": "苦荼　，主下氣，消宿食",
+    "expected_count": 1,
+    "evidence": "동일 항목의 별칭 苦荼로 확정된다."
+  },
+  {
+    "before": "《爾雅‧釋木》云：　，苦KT　",
+    "after": "《爾雅‧釋木》云：　，苦荼　",
+    "expected_count": 1,
+    "evidence": "《爾雅》 인용과 동일 단락의 ‘苦荼’ 명시가 일치한다."
+  },
+  {
+    "before": "茗、苦KT　，寒。破熱氣",
+    "after": "茗、苦荼　，寒。破熱氣",
+    "expected_count": 1,
+    "evidence": "동일 항목이 苦荼를 직접 명시한다."
+  },
+  {
+    "before": "圖經曰：茗、苦KT　，舊不著所出州郡",
+    "after": "圖經曰：茗、苦荼　，舊不著所出州郡",
+    "expected_count": 1,
+    "evidence": "圖經의 茗·苦荼 항목 인용이다."
+  },
+  {
+    "before": "《爾雅》所謂　，苦KT　。郭璞云",
+    "after": "《爾雅》所謂　，苦荼　。郭璞云",
+    "expected_count": 1,
+    "evidence": "《爾雅》 苦荼 인용과 뒤의 차 설명이 일치한다."
+  },
+  {
+    "before": "衍義曰：茗、苦KT　，今茶也",
+    "after": "衍義曰：茗、苦荼　，今茶也",
+    "expected_count": 1,
+    "evidence": "‘今茶也’라는 직접 풀이로 苦荼가 확정된다."
+  },
+  {
+    "before": "故苦KT　（與茶同條）云",
+    "after": "故苦荼　（與茶同條）云",
+    "expected_count": 1,
+    "evidence": "괄호 ‘與茶同條’ 및 동일 항목의 苦荼 명시로 확정된다."
+  },
+  {
+    "before": "江東KT　船，多是樟木",
+    "after": "江東造　船，多是樟木",
+    "expected_count": 1,
+    "evidence": "樟木의 조선 용도를 말하는 고정구 ‘江東造船’이다."
+  },
+  {
+    "before": "以KT　米，米釋炊之。KT　，即溲字也",
+    "after": "以溲　米，米釋炊之。溲　，即溲字也",
+    "expected_count": 1,
+    "evidence": "뒤에서 ‘即溲字也’라고 두 표제자를 직접 확정한다."
+  },
+  {
+    "before": "狐之類KT　（音湍），似犬而矮",
+    "after": "狐之類貒　（音湍），似犬而矮",
+    "expected_count": 1,
+    "evidence": "《爾雅》 동물명 貒과 音湍 및 형상 설명이 일치한다."
+  },
+  {
+    "before": "郭璞注《爾雅》云：KT一名獾",
+    "after": "郭璞注《爾雅》云：貒一名獾",
+    "expected_count": 1,
+    "evidence": "《爾雅》 주석의 고정문 ‘貒一名獾’이다."
+  },
+  {
+    "before": "KT　肉主虛勞，行風氣",
+    "after": "貒　肉主虛勞，行風氣",
+    "expected_count": 1,
+    "evidence": "같은 문장에서 音湍으로 제시한 貒을 가리킨다."
+  },
+  {
+    "before": "[h3]KT（音湍）肉、胞、膏[/h3]",
+    "after": "[h3]貒（音湍）肉、胞、膏[/h3]",
+    "expected_count": 1,
+    "evidence": "음가와 본초 동물 항목명으로 貒이 확정된다."
+  },
+  {
+    "before": "今按陳藏器今草云：KT　脂",
+    "after": "今按陳藏器今草云：貒　脂",
+    "expected_count": 1,
+    "evidence": "貒 항목 안의 지방 약재명이다."
+  },
+  {
+    "before": "臣禹錫等謹按孟詵云：KT　，主服丹石",
+    "after": "臣禹錫等謹按孟詵云：貒　，主服丹石",
+    "expected_count": 1,
+    "evidence": "貒 항목의 동일 동물 인용이다."
+  },
+  {
+    "before": "聖惠方：治KT肉半斤",
+    "after": "聖惠方：治貒肉半斤",
+    "expected_count": 1,
+    "evidence": "貒 항목의 聖惠方 직접 인용이다."
+  },
+  {
+    "before": "煎成KT　豬膏，一合暖酒和服",
+    "after": "煎成貒　豬膏，一合暖酒和服",
+    "expected_count": 1,
+    "evidence": "貒 항목의 동물성 膏 처방 문맥이다."
+  },
+  {
+    "before": "衍義曰：KT　，肥矮",
+    "after": "衍義曰：貒　，肥矮",
+    "expected_count": 1,
+    "evidence": "貒의 형상 ‘肥矮’ 및 동일 항목 문맥으로 확정된다."
+  },
+  {
+    "before": "野獸中KT　肉最甘美",
+    "after": "野獸中貒　肉最甘美",
+    "expected_count": 1,
+    "evidence": "같은 貒 항목의 육질 설명이다."
+  },
+  {
+    "before": "臣禹錫等謹按爾雅云：KT　，山韭",
+    "after": "臣禹錫等謹按爾雅云：蒮　，山韭",
+    "expected_count": 1,
+    "evidence": "《爾雅》 고정문 ‘蒮，山韭’로 확정된다."
+  },
+  {
+    "before": "山中生者名KT　。《韓詩》云：六月食郁及KT　是也",
+    "after": "山中生者名蒮　。《韓詩》云：六月食郁及蒮　是也",
+    "expected_count": 1,
+    "evidence": "앞의 《爾雅》 직접 인용에서 山韭를 蒮으로 명시한다."
+  },
+  {
+    "before": "《爾雅》所謂KT（羊六切），山韭",
+    "after": "《爾雅》所謂蒮（羊六切），山韭",
+    "expected_count": 1,
+    "evidence": "《爾雅》 ‘蒮，山韭’와 반절 羊六切이 일치한다."
+  }
+]

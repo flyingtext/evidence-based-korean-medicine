@@ -8552,5 +8552,418 @@
     "after": "胃病脹滿，（胃脈布於腹裡也。）五日少腹腰脊痛、　，（即五日而之腎也。）三日背膂筋痛",
     "expected_count": 1,
     "reason": "같은 전병 정형문이 반복되며 앞 조문의 자체 주석으로 膂가 확정된다."
+  },
+  {
+    "before": "HT　HT　然，豆豆然，眾人皆曰君子",
+    "after": "䁢䁢然，豆豆然，眾人皆曰君子",
+    "expected_count": 1,
+    "reason": "《靈樞·通天》 직접 경문",
+    "evidence": "教育部異體字字典 䁢: 陰陽和平之人…䁢䁢然，豆豆然"
+  },
+  {
+    "before": "愉愉，悅樂也。HT　HT　，周旋也。",
+    "after": "愉愉，悅樂也。䁢䁢，周旋也。",
+    "expected_count": 1,
+    "reason": "직전 경문의 반복 표제어",
+    "evidence": "《靈樞·通天》 䁢䁢然 및 䁢音旋"
+  },
+  {
+    "before": "愉音余。HT　音旋。",
+    "after": "愉音余。䁢音旋。",
+    "expected_count": 1,
+    "reason": "자체 음주로 확정",
+    "evidence": "䁢의 독음 旋"
+  },
+  {
+    "before": "其為人赤色，（火之色也。）廣KT　，（KT　，音引，當脊肉也。）",
+    "after": "其為人赤色，（火之色也。）廣䏖，（䏖，音引，當脊肉也。）",
+    "expected_count": 1,
+    "reason": "《靈樞·陰陽二十五人》 및 자체 음주",
+    "evidence": "Cangjie/廣韻: 䏖䏖當脊肉, 音引"
+  },
+  {
+    "before": "肩背肉滿，（即上文廣KT　好肩背之意。）",
+    "after": "肩背肉滿，（即上文廣䏖好肩背之意。）",
+    "expected_count": 1,
+    "reason": "동일 문단의 廣䏖 반복",
+    "evidence": "《靈樞·陰陽二十五人》 廣䏖"
+  },
+  {
+    "before": "（HT　亦大也。左右之上俱可言HT　，故上文云HT　角者",
+    "after": "（釱亦大也。左右之上俱可言釱，故上文云釱角者",
+    "expected_count": 1,
+    "reason": "오음 분류의 고유 명칭",
+    "evidence": "《靈樞·陰陽二十五人》 釱角·釱商"
+  },
+  {
+    "before": "此HT　商者比於左手陽明之上也。",
+    "after": "此釱商者比於左手陽明之上也。",
+    "expected_count": 1,
+    "reason": "오음 분류의 고유 명칭",
+    "evidence": "《靈樞·陰陽二十五人》 釱商之人"
+  },
+  {
+    "before": "HT　商與上商調，右足陽明下。",
+    "after": "釱商與上商調，右足陽明下。",
+    "expected_count": 1,
+    "reason": "《靈樞·五音五味》 직접 경문",
+    "evidence": "識典古籍《類經》: 釱商與上商調"
+  },
+  {
+    "before": "HT　商與上角調，左足太陽下。",
+    "after": "釱商與上角調，左足太陽下。",
+    "expected_count": 1,
+    "reason": "자매 목록의 고유 오음명",
+    "evidence": "《類經》 오음 목록의 釱商"
+  },
+  {
+    "before": "虛則欠KT　，小便遺數",
+    "after": "虛則欠㰦，小便遺數",
+    "expected_count": 2,
+    "reason": "《靈樞·經脈》 직접 경문과 후반 재인용",
+    "evidence": "手太陰之別 경문 欠㰦"
+  },
+  {
+    "before": "欠KT　，張口伸腰也。虛因肺氣不足，故為欠KT　及小便",
+    "after": "欠㰦，張口伸腰也。虛因肺氣不足，故為欠㰦及小便",
+    "expected_count": 1,
+    "reason": "반복 경문과 자체 자의주",
+    "evidence": "㰦: 張口伸腰"
+  },
+  {
+    "before": "志倦則KT　也。治此者取列缺",
+    "after": "志倦則㰦也。治此者取列缺",
+    "expected_count": 1,
+    "reason": "통속문 직접 인용과 문맥",
+    "evidence": "通俗文: 志倦則㰦"
+  },
+  {
+    "before": "以相通也。他經皆然。KT　音去。",
+    "after": "以相通也。他經皆然。㰦音去。",
+    "expected_count": 1,
+    "reason": "자체 음주로 확정",
+    "evidence": "㰦音去"
+  },
+  {
+    "before": "中KT　兩旁各五凡十穴",
+    "after": "中膂兩旁各五凡十穴",
+    "expected_count": 1,
+    "reason": "《素問》 직접 경문",
+    "evidence": "熱俞五十九穴: 中膂兩旁各五"
+  },
+  {
+    "before": "共十穴。KT　，膂同。",
+    "after": "共十穴。膂，膂同。",
+    "expected_count": 1,
+    "reason": "자체 동자주로 확정",
+    "evidence": "본문 膂同"
+  },
+  {
+    "before": "缺盆以下至　KT　長九寸",
+    "after": "缺盆以下至　𩩲𩨗長九寸",
+    "expected_count": 1,
+    "reason": "《靈樞·骨度》 직접 경문",
+    "evidence": "鳩尾骨 𩩲𩨗"
+  },
+  {
+    "before": "（KT　，一名鳩尾，一名尾翳，蔽心骨也。",
+    "after": "（𩩲𩨗，一名鳩尾，一名尾翳，蔽心骨也。",
+    "expected_count": 1,
+    "reason": "자체 동의어 주석",
+    "evidence": "𩩲𩨗即鳩尾骨"
+  },
+  {
+    "before": "故胸大則肺亦大，胸小則肺亦小也。　KT　音結於。）",
+    "after": "故胸大則肺亦大，胸小則肺亦小也。　𩩲𩨗音結於。）",
+    "expected_count": 1,
+    "reason": "자체 음주로 복합 글자 확정",
+    "evidence": "𩩲𩨗音結於"
+  },
+  {
+    "before": "）　KT　以下至天樞長八寸",
+    "after": "）　𩩲𩨗以下至天樞長八寸",
+    "expected_count": 1,
+    "reason": "《靈樞·骨度》 반복 표제어",
+    "evidence": "𩩲𩨗以下至天樞"
+  },
+  {
+    "before": "自KT　之下，臍之上，是為中焦",
+    "after": "自𩩲𩨗之下，臍之上，是為中焦",
+    "expected_count": 1,
+    "reason": "동일 문단 해부 위치 반복",
+    "evidence": "𩩲𩨗之下至臍"
+  },
+  {
+    "before": "紛紛HT　HT　，終而復始",
+    "after": "紛紛皅皅，終而復始",
+    "expected_count": 1,
+    "reason": "《靈樞·衛氣行》 직접 경문",
+    "evidence": "說文解字注 인용: 靈樞經曰紛紛皅皅，終而復始"
+  },
+  {
+    "before": "（紛紛HT　HT　，言於紛紜叢雜",
+    "after": "（紛紛皅皅，言於紛紜叢雜",
+    "expected_count": 1,
+    "reason": "직전 경문 반복",
+    "evidence": "《靈樞·衛氣行》 紛紛皅皅"
+  },
+  {
+    "before": "HT　，普巴切。）",
+    "after": "皅，普巴切。）",
+    "expected_count": 1,
+    "reason": "자체 반절로 확정",
+    "evidence": "說文 皅，普巴切"
+  },
+  {
+    "before": "陰陽HT　HT　，積傳為一周",
+    "after": "陰陽沖沖，積傳為一周",
+    "expected_count": 1,
+    "reason": "《素問·陰陽離合論》 공개 판본",
+    "evidence": "雲端中醫《素問懸解》: 陰陽沖沖，積傳為一周"
+  },
+  {
+    "before": "（HT　HT　一作沖沖，言陰陽之氣",
+    "after": "（沖沖一作沖沖，言陰陽之氣",
+    "expected_count": 1,
+    "reason": "본문 이문주가 목표 글자를 직접 명시",
+    "evidence": "본문 一作沖沖"
+  },
+  {
+    "before": "遇草而KT　，得木而燔",
+    "after": "遇草而爇，得木而燔",
+    "expected_count": 1,
+    "reason": "고유 대구 문맥",
+    "evidence": "人火遇草而爇，得木而燔"
+  },
+  {
+    "before": "氣虛宜HT　引之。（HT　，甲乙經作掣，挽也。",
+    "after": "氣虛宜掣引之。（掣，甲乙經作掣，挽也。",
+    "expected_count": 1,
+    "reason": "《甲乙經》 이문 및 자체 자의주",
+    "evidence": "본문 甲乙經作掣，挽也"
+  },
+  {
+    "before": "毒藥、灸KT　、九針",
+    "after": "毒藥、灸焫、九針",
+    "expected_count": 1,
+    "reason": "《素問·異法方宜論》 직접 경문",
+    "evidence": "砭石、毒藥、灸焫、九針、導引按蹺"
+  },
+  {
+    "before": "其治宜灸KT　，故灸KT　者亦從北方來。（灸KT　，艾灸火灼也",
+    "after": "其治宜灸焫，故灸焫者亦從北方來。（灸焫，艾灸火灼也",
+    "expected_count": 1,
+    "reason": "《素問·異法方宜論》 반복 경문",
+    "evidence": "其治宜灸焫，故灸焫者亦從北方來"
+  },
+  {
+    "before": "故後世所用灸KT　之法，亦自北方來也。KT　，如瑞切。",
+    "after": "故後世所用灸焫之法，亦自北方來也。焫，如瑞切。",
+    "expected_count": 1,
+    "reason": "반복 표제어와 자체 음주",
+    "evidence": "焫音如瑞切"
+  },
+  {
+    "before": "注曰：招以召祥，梗以御癘，HT　以除災害，禳以弭變異",
+    "after": "注曰：招以召祥，梗以御癘，禬以除災害，禳以弭變異",
+    "expected_count": 1,
+    "reason": "《周禮·女祝》 직접 인용",
+    "evidence": "女祝掌招梗禬禳，禬以除災害"
+  },
+  {
+    "before": "腎氣內奪則目KT　KT　如無所見",
+    "after": "腎氣內奪則目䀮䀮如無所見",
+    "expected_count": 1,
+    "reason": "《素問》 반복 경문",
+    "evidence": "少陰病候 目䀮䀮如無所見"
+  },
+  {
+    "before": "故目KT　KT　無所見也",
+    "after": "故目䀮䀮無所見也",
+    "expected_count": 1,
+    "reason": "《素問》 직접·반복 경문",
+    "evidence": "目䀮䀮無所見"
+  },
+  {
+    "before": "虛則目KT　KT　無所見",
+    "after": "虛則目䀮䀮無所見",
+    "expected_count": 2,
+    "reason": "《素問》 직접 인용",
+    "evidence": "肝虛則目䀮䀮無所見"
+  },
+  {
+    "before": "KT　音荒。）",
+    "after": "䀮音荒。）",
+    "expected_count": 3,
+    "reason": "자체 음주 및 반복 표제어",
+    "evidence": "䀮音荒"
+  },
+  {
+    "before": "必審其KT　，當瀉則瀉",
+    "after": "必審其胗，當瀉則瀉",
+    "expected_count": 1,
+    "reason": "《靈樞·脹論》 경문과 후속 동자주",
+    "evidence": "唇瘍曰胗，胗同疹"
+  },
+  {
+    "before": "（唇瘍曰KT　，蓋脹之微甚",
+    "after": "（唇瘍曰胗，蓋脹之微甚",
+    "expected_count": 1,
+    "reason": "자체 자의주",
+    "evidence": "唇瘍曰胗"
+  },
+  {
+    "before": "然KT　字未妥，必脈字之誤也。KT　，疹同。",
+    "after": "然胗字未妥，必脈字之誤也。胗，疹同。",
+    "expected_count": 1,
+    "reason": "자체 동자주로 확정",
+    "evidence": "胗，疹同"
+  },
+  {
+    "before": "若伏空室，HT　HT　綿乎屬不滿日",
+    "after": "若伏空室，綿綿乎屬不滿日",
+    "expected_count": 1,
+    "reason": "《素問》 공개 판본 직접 경문",
+    "evidence": "求陽不得…綿綿乎屬不滿日"
+  },
+  {
+    "before": "乃病則HT　HT不解",
+    "after": "乃病則綿綿不解",
+    "expected_count": 1,
+    "reason": "직전 경문의 풀이 반복",
+    "evidence": "綿綿不解"
+  },
+  {
+    "before": "HT　，古綿字）",
+    "after": "綿，古綿字）",
+    "expected_count": 1,
+    "reason": "자체 고자주로 확정",
+    "evidence": "본문 古綿字"
+  },
+  {
+    "before": "即三日而之膂膀胱也。KT　，膂同，音呂。",
+    "after": "即三日而之膂膀胱也。膂，膂同，音呂。",
+    "expected_count": 1,
+    "reason": "자체 동자·음주",
+    "evidence": "膂同，音呂"
+  },
+  {
+    "before": "胸腹虛淺近臟，故必以布HT　著之而後刺，所以護心腹",
+    "after": "胸腹虛淺近臟，故必以布憿著之而後刺，所以護心腹",
+    "expected_count": 1,
+    "reason": "직전 경문과 자체 음주",
+    "evidence": "刺胸腹必以布憿著之；憿音皎"
+  },
+  {
+    "before": "HT　音皎，布也。",
+    "after": "憿音皎，布也。",
+    "expected_count": 1,
+    "reason": "자체 음주·자의",
+    "evidence": "憿音皎，布也"
+  },
+  {
+    "before": "KT　不得息等證",
+    "after": "噎不得息等證",
+    "expected_count": 1,
+    "reason": "후속 고자주로 확정",
+    "evidence": "본문 噎，古噎字，食不下也"
+  },
+  {
+    "before": "KT　，古噎字，食不下也。",
+    "after": "噎，古噎字，食不下也。",
+    "expected_count": 1,
+    "reason": "자체 고자·자의주",
+    "evidence": "噎，古噎字"
+  },
+  {
+    "before": "邪氣盛大，難以HT　除",
+    "after": "邪氣盛大，難以卒除",
+    "expected_count": 1,
+    "reason": "문맥상 고정어",
+    "evidence": "難以卒除，日促小之"
+  },
+  {
+    "before": "病在少腹有積，刺皮HT　，以下至少腹而止",
+    "after": "病在少腹有積，刺皮䯏，以下至少腹而止",
+    "expected_count": 1,
+    "reason": "《素問·長刺節論》 직접 경문",
+    "evidence": "刺皮䯏以下；䯏，骨端也"
+  },
+  {
+    "before": "（《素問‧長刺節論》。HT　字，編考韻篇皆無。",
+    "after": "（《素問‧長刺節論》。䯏字，編考韻篇皆無。",
+    "expected_count": 1,
+    "reason": "직전 표제어 반복",
+    "evidence": "長刺節論 皮䯏"
+  },
+  {
+    "before": "新校正云當作皮　，HT　字誤也",
+    "after": "新校正云當作皮　，䯏字誤也",
+    "expected_count": 1,
+    "reason": "동일 교감문 표제어 반복",
+    "evidence": "후속 䯏，骨端也"
+  },
+  {
+    "before": "自KT　源縣，西至沙洲",
+    "after": "自汧源縣，西至沙洲",
+    "expected_count": 1,
+    "reason": "역사 지명 대조",
+    "evidence": "汧源縣，即汧陽縣，今陝西鳳翔府"
+  },
+  {
+    "before": "自開封縣，西至KT　源縣",
+    "after": "自開封縣，西至汧源縣",
+    "expected_count": 1,
+    "reason": "역사 지명 대조",
+    "evidence": "汧源縣"
+  },
+  {
+    "before": "自開封至KT　源",
+    "after": "自開封至汧源",
+    "expected_count": 1,
+    "reason": "동일 문단 지명 반복",
+    "evidence": "汧源"
+  },
+  {
+    "before": "自KT　源縣西至蕃界磧石",
+    "after": "自汧源縣西至蕃界磧石",
+    "expected_count": 1,
+    "reason": "동일 문단 지명 반복",
+    "evidence": "汧源縣"
+  },
+  {
+    "before": "KT　源縣，即KT　陽縣，今屬陝西鳳翔府。自KT　源西至沙洲",
+    "after": "汧源縣，即汧陽縣，今屬陝西鳳翔府。自汧源西至沙洲",
+    "expected_count": 1,
+    "reason": "역사 지명과 자체 정의",
+    "evidence": "汧源縣，即汧陽縣"
+  },
+  {
+    "before": "自開封西至KT　源，中宮也",
+    "after": "自開封西至汧源，中宮也",
+    "expected_count": 1,
+    "reason": "동일 문단 지명 반복",
+    "evidence": "汧源"
+  },
+  {
+    "before": "發生之紀，是謂啟柬HT　",
+    "after": "發生之紀，是謂啟柬陳",
+    "expected_count": 1,
+    "reason": "자체 고자주와 《四氣調神論》",
+    "evidence": "春三月此謂發陳；陳，古陳字"
+  },
+  {
+    "before": "HT　，布也。布散陽和",
+    "after": "陳，布也。布散陽和",
+    "expected_count": 1,
+    "reason": "직전 표제어와 후속 고자주",
+    "evidence": "啟陳；陳，古陳字"
+  },
+  {
+    "before": "HT　，古陳字。）",
+    "after": "陳，古陳字。）",
+    "expected_count": 1,
+    "reason": "자체 고자주",
+    "evidence": "陳，古陳字"
   }
 ]
