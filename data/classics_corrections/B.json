@@ -21882,6 +21882,30 @@
       "reason": "穀疸 주석의 고정어 冷積을 평행 의서에서 확인",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%9B%9C%E7%97%85%E5%BB%A3%E8%A6%81/%E5%85%A7%E5%9B%A0%E9%A1%9E",
       "evidence_note": "虛寒·胃冷 문맥의 冷積 표현과 일치한다."
+    },
+    {
+      "before": "蕎麥。一名KT　（音翹）麥",
+      "after": "蕎麥。一名翹（音翹）麥",
+      "expected_count": 1,
+      "reason": "자체 음주 ‘音翹’와 蕎麥의 이명 翹麥으로 확정."
+    },
+    {
+      "before": "心腹HT　痛。頓悶欲絕",
+      "after": "心腹㽲痛。頓悶欲絕",
+      "expected_count": 1,
+      "reason": "心腹의 급박한 통증을 뜻하는 고전 병후 㽲痛."
+    },
+    {
+      "before": "泄利下重。而赤白曰HT　。是也",
+      "after": "泄利下重。而赤白曰痢。是也",
+      "expected_count": 1,
+      "reason": "赤白痢의 정의를 제시하는 문맥으로 표제 병명 痢."
+    },
+    {
+      "before": "邪風者。乃飄HT　之風。肅殺萬物",
+      "after": "邪風者。乃飄暴之風。肅殺萬物",
+      "expected_count": 1,
+      "reason": "만물을 해치는 사나운 바람의 정형 표현 飄暴之風."
     }
   ],
   "B/B107.txt": [

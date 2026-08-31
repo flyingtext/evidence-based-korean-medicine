@@ -438,5 +438,11 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E7%99%BC%E6%8F%AE/index.html",
     "evidence_note": "H/H016.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "如火炙流銅。往下HT　走",
+    "after": "如火炙流銅。往下流走",
+    "expected_count": 1,
+    "reason": "소아 악성 종독이 아래로 번져 이동함을 뜻하는 정형 서술 ‘往下流走’."
   }
 ]

@@ -718,5 +718,33 @@
     "reason": "栝蔞桂枝湯 고정 조문이다.",
     "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A0%98%A7&if=gb",
     "evidence_note": "공개 고전 인용과 일치한다."
+  },
+  {
+    "before": "栗謂心內發HT　也",
+    "after": "栗謂心內發㦗也",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/YCM294300254/chapter/1l0ke3t0grx2a",
+    "evidence_note": "《醫宗金鑑》 동일 주석의 `慄，謂心㦗` 및 해당 글자의 직접 전사로 확정."
+  },
+  {
+    "before": "今之名曰呃逆，即古之名曰KT　也",
+    "after": "今之名曰呃逆，即古之名曰䭇也",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/YCM294300254/chapter/1l0ke3t0grx2a",
+    "evidence_note": "《醫宗金鑑》 동일 문장 `即古之名曰䭇也`."
+  },
+  {
+    "before": "。KT　者氣噎結有聲也",
+    "after": "。䭇者氣噎結有聲也",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/YCM294300254/chapter/1l0ke3t0grx2a",
+    "evidence_note": "동일 주석의 자의문 `䭇者，氣噎結有聲也`."
+  },
+  {
+    "before": "不似KT　之格格連聲",
+    "after": "不似䭇之格格連聲",
+    "expected_count": 1,
+    "evidence_url": "https://www.shidianguji.com/zh/book/YCM294300254/chapter/1l0ke3t0grx2a",
+    "evidence_note": "동일 주석의 고유 문맥 `不似䭇之格格連聲`."
   }
 ]

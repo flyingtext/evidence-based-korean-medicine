@@ -14417,6 +14417,209 @@
       "after": "故目䀮䀮無所見也。（按：內爭故外亂也。）",
       "expected_count": 1,
       "evidence": "동일 소음 병후의 반복 경문 目䀮䀮無所見."
+    },
+    {
+      "before": "解，注不明言，止將真臟脈象引HT　，殊欠發揮。竊謂真者本色之謂",
+      "after": "解，注不明言，止將真臟脈象引證，殊欠發揮。竊謂真者本色之謂",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "문맥상 고정어 `引證`. occurrence 고유 문맥."
+    },
+    {
+      "before": "，脛　，（胃傳於腎。）三日背KT　筋痛，小便閉，（按：腎傳膀胱",
+      "after": "，脛　，（胃傳於腎。）三日背膂筋痛，小便閉，（按：腎傳膀胱",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "經脈，邪傳入故痛。靈樞經言之KT　，蓋謂此也。KT　音呂。）十",
+      "after": "經脈，邪傳入故痛。靈樞經言之膂，蓋謂此也。KT　音呂。）十",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "靈樞經言之KT　，蓋謂此也。KT　音呂。）十日不已死，冬人定，",
+      "after": "靈樞經言之KT　，蓋謂此也。膂音呂。）十日不已死，冬人定，",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "본문 자체 음주 `膂音呂`가 목표 글자를 직접 확정. occurrence 고유 문맥."
+    },
+    {
+      "before": "（臟真下於腎故如是。）三日背KT　筋痛，小便閉，自傳於腑。\n\n",
+      "after": "（臟真下於腎故如是。）三日背膂筋痛，小便閉，自傳於腑。\n\n",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "\n按：新校正云：「靈樞經云之KT　膀胱，是自傳於腑及之KT　也",
+      "after": "\n按：新校正云：「靈樞經云之膂膀胱，是自傳於腑及之KT　也",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "之KT　膀胱，是自傳於腑及之KT　也。」三日腹脹，膀胱傳於小腸",
+      "after": "之KT　膀胱，是自傳於腑及之膂也。」三日腹脹，膀胱傳於小腸",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "痛，　，（胃傳於腎。）三日背KT　筋痛，小便閉，（自傳於腑，及",
+      "after": "痛，　，（胃傳於腎。）三日背膂筋痛，小便閉，（自傳於腑，及",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "痛，小便閉，（自傳於腑，及之KT　也。）五日身體重，（膀胱水腑",
+      "after": "痛，小便閉，（自傳於腑，及之膂也。）五日身體重，（膀胱水腑",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·標本病傳論》의 `背膂筋痛`과 자체 음주 `膂音呂`. occurrence 고유 문맥."
+    },
+    {
+      "before": "。」）其主驟注，雷霆震驚，沈HT　淫雨。（HT　音陰。）卑監之",
+      "after": "。」）其主驟注，雷霆震驚，沈霒淫雨。（HT　音陰。）卑監之",
+      "expected_count": 1,
+      "evidence_url": "https://www.shidianguji.com/zh/book/NGJ89241199901573087030/chapter/1lm1qf03qc9ai",
+      "evidence_note": "五運 경문 `沈霒淫雨` 및 자체 음주 陰. occurrence 고유 문맥."
+    },
+    {
+      "before": "然乎。）\n\n發生之紀，是謂啟HT　，（物乘木氣以發生，而啟陳其",
+      "after": "然乎。）\n\n發生之紀，是謂啟陳，（物乘木氣以發生，而啟陳其",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "바로 뒤 자체 주석이 `古陳字`라고 명시. occurrence 고유 문맥."
+    },
+    {
+      "before": "壬寅壬戌壬子之六歲化也。\n\nHT，古陳字。）土疏泄，蒼氣達，",
+      "after": "壬寅壬戌壬子之六歲化也。\n\n陳，古陳字。）土疏泄，蒼氣達，",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "자체 고자 주석으로 확정. occurrence 고유 문맥."
+    },
+    {
+      "before": "暈，或為痛腫等疾。注將巔疾分HT　，非。）\n\n其德鳴靡啟坼，（",
+      "after": "暈，或為痛腫等疾。注將巔疾分解，非。）\n\n其德鳴靡啟坼，（",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "문맥상 고정어 `分解`. occurrence 고유 문맥."
+    },
+    {
+      "before": "，非屬火也。吾鄉張景岳、馬玄HT　及諸名公，並仍王氏之誤。\n\n",
+      "after": "，非屬火也。吾鄉張景岳、馬玄臺及諸名公，並仍王氏之誤。\n\n",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "의가 인명 馬玄臺. occurrence 고유 문맥."
+    },
+    {
+      "before": "，其可得乎。故余愿為東垣之左HT　，而特表出之，欲人之視此者，",
+      "after": "，其可得乎。故余愿為東垣之左袒，而特表出之，欲人之視此者，",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "고정어 `左袒`. occurrence 고유 문맥."
+    },
+    {
+      "before": "未拈出，以故深咎夫劉氏而愿左HT　東垣也，悲夫﹗）故大要曰：謹",
+      "after": "未拈出，以故深咎夫劉氏而愿左袒東垣也，悲夫﹗）故大要曰：謹",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "고정어 `左袒`. occurrence 고유 문맥."
+    },
+    {
+      "before": "。（亦熱俞之五十九穴也。）中KT　兩旁各五，凡十穴。（謂五臟之",
+      "after": "。（亦熱俞之五十九穴也。）中膂兩旁各五，凡十穴。（謂五臟之",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "침구 해부 위치 `中膂兩旁`. occurrence 고유 문맥."
+    },
+    {
+      "before": "有大腸俞、小腸俞、膀胱俞、中KT　內俞、白環俞，當其處也。又次",
+      "after": "有大腸俞、小腸俞、膀胱俞、中膂內俞、白環俞，當其處也。又次",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "혈명 `中膂內俞`. occurrence 고유 문맥."
+    },
+    {
+      "before": "。少陽終者耳聾，百節皆縱，目HT　絕系，一日半死，其死也。色先",
+      "after": "。少陽終者耳聾，百節皆縱，目環絕系，一日半死，其死也。色先",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·終始》 직접 경문 `目環絕系`. occurrence 고유 문맥."
+    },
+    {
+      "before": "耳中，出走耳前。故終則耳聾目HT　絕系也。少陽主骨，故氣終則百",
+      "after": "耳中，出走耳前。故終則耳聾目環絕系也。少陽主骨，故氣終則百",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·終始》 직접 경문 `目環絕系`. occurrence 고유 문맥."
+    },
+    {
+      "before": "者，金木相薄也，故見則死矣。HT　謂直視如驚貌。按：注言少陽主",
+      "after": "者，金木相薄也，故見則死矣。環謂直視如驚貌。按：注言少陽主",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "직전 경문 目環의 자체 자의주. occurrence 고유 문맥."
+    },
+    {
+      "before": "其言百節皆縱者，大筋弛也。目HT　絕系者，小筋斷也。筋屬肝，肝",
+      "after": "其言百節皆縱者，大筋弛也。目環絕系者，小筋斷也。筋屬肝，肝",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·終始》 직접 경문 `目環絕系`. occurrence 고유 문맥."
+    },
+    {
+      "before": "，肝與膽合，腑病而及於臟也。HT　者，環字之誤，蓋目之眶也。目",
+      "after": "，肝與膽合，腑病而及於臟也。環者，環字之誤，蓋目之眶也。目",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "본문 자체가 목표 글자를 環으로 명시. occurrence 고유 문맥."
+    },
+    {
+      "before": "七呼。」）腰痛挾脊而痛至頭，KT　KT　然，目KT　KT　然欲",
+      "after": "七呼。」）腰痛挾脊而痛至頭，𠘧KT　然，目KT　KT　然欲",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·刺腰痛》의 `頭𠘧𠘧然` 및 자체 음주 殊. occurrence 고유 문맥."
+    },
+    {
+      "before": "」）腰痛挾脊而痛至頭，KT　KT　然，目KT　KT　然欲僵仆，",
+      "after": "」）腰痛挾脊而痛至頭，KT　𠘧然，目KT　KT　然欲僵仆，",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "《素問·刺腰痛》의 `頭𠘧𠘧然` 및 자체 음주 殊. occurrence 고유 문맥."
+    },
+    {
+      "before": "而痛至頭，KT　KT　然，目KT　KT　然欲僵仆，刺足太陰　中",
+      "after": "而痛至頭，KT　KT　然，目䀮KT　然欲僵仆，刺足太陰　中",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "같은 경문의 `目䀮䀮然`. occurrence 고유 문맥."
+    },
+    {
+      "before": "頭，KT　KT　然，目KT　KT　然欲僵仆，刺足太陰　中出血。",
+      "after": "頭，KT　KT　然，目KT　䀮然欲僵仆，刺足太陰　中出血。",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "같은 경문의 `目䀮䀮然`. occurrence 고유 문맥."
+    },
+    {
+      "before": "校正云：「太素作頭沉沉然。」KT　音殊，鳥短羽也。）腰痛上寒，",
+      "after": "校正云：「太素作頭沉沉然。」𠘧音殊，鳥短羽也。）腰痛上寒，",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "자체 음주 殊와 자의 `鳥短羽`. occurrence 고유 문맥."
+    },
+    {
+      "before": "。（按：不學無術，徒　賣於市KT　之間，偶或一中，便爾矜夸，以",
+      "after": "。（按：不學無術，徒　賣於市肆之間，偶或一中，便爾矜夸，以",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F",
+      "evidence_note": "고정어 `市肆之間`. occurrence 고유 문맥."
     }
   ],
   "A/A013.txt": [

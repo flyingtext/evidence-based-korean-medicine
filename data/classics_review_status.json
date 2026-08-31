@@ -60,7 +60,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 693,
       "punctuation_status": "source_present",
-      "note": "기존 83개 규칙은 모두 정상 적용된다. 남은 HT2와 비조판 공백은 희자 정의까지 결락되어 영인 판독 전 신규 없음. 검증 applied=83/83, warnings=0, overlaps=0."
+      "note": "기존 교정 및 조판 분류 유지. 추가 확정 가능한 독립 근거 없음."
     },
     "N/N003.txt": {
       "collation_status": "in_progress",
@@ -114,7 +114,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 642,
       "punctuation_status": "source_present",
-      "note": "기존 141개 규칙은 모두 정상 적용된다. HT19·KT1·□13 및 비조판 후보는 공개 전사에도 파손 표지가 남아 신규 없음. 검증 applied=141/141, warnings=0, overlaps=0."
+      "note": "기존 교정 및 조판 분류 유지. 추가 확정 가능한 독립 근거 없음."
     },
     "I/I011.txt": {
       "collation_status": "in_progress",
@@ -126,13 +126,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 738,
       "punctuation_status": "source_present",
-      "note": "최신 I shard 103규칙이 반영되어 현재 출력에는 HT 4자와 전각 공백 1755곳이 남는다. 기존 조판 판정 1021곳을 제외한 비조판 공백 734곳과 HT 4곳, 합계 738좌표다. `辟虼HT`, `中銀HT毒` 및 도상 설명의 외자는 검색 가능한 전사에서 글자 자형을 직접 확정하지 못해 보류했다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "HT4와 비조판 공백734를 재검토했다. `辟虼HT`, `中銀HT毒`, 도상·시술 설명은 독립 판면 없이 자형이 유일하지 않아 보류한다. 기존103규칙·조판1021 유지."
     },
     "H/H016.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 723,
+      "unresolved_candidates": 721,
       "punctuation_status": "source_present",
-      "note": "최신 shard 55규칙 이후 공백 722·HT 1좌표가 남는다. `往下HT走`은 竄·流 등 문맥 후보가 복수이고 동일 구절의 독립 판면이 없어 추정 복원을 보류했다."
+      "note": "유일 HT를 병세 이동의 고정 동사 流走로 복원. FW1657은 처방 조판과 별도. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 721자리로 유지한다."
     },
     "H/H018.txt": {
       "collation_status": "in_progress",
@@ -246,7 +246,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 778,
       "punctuation_status": "source_present",
-      "note": "최신 D shard 102규칙으로 유일한 KT가 해소되어 HT·KT·□·PUA·레거시 외자는 0이다. 현재 전각 공백 1444곳 중 기존 조판 판정 666곳을 제외하면 778좌표가 남는다. review status 779는 KT 치환 시 함께 제거된 전각 공백 1곳을 반영하지 않은 값으로 보인다. 독립 판면에서 결자로 확정되지 않은 공백은 보존했다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "명시적 표식은 0이고 전각공백1444 중 조판666을 제외한778만 남는다. 독립 판면에서 글자로 확정되지 않은 공백은 보존한다."
     },
     "D/D023.txt": {
       "collation_status": "in_progress",
@@ -276,7 +276,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 696,
       "punctuation_status": "source_present",
-      "note": "현재 생성 Markdown에는 외자 표지가 노출되지 않지만 최신 status는 원자료 외자 696좌표를 미해결로 관리한다. 기존 shard의 위치 규칙 1개 외에는 코드표·영인 없이 전역 치환하지 않았다."
+      "note": "최신 Markdown 출력에 HT/KT/□ 및 전각 공백 잔여 0. legacy 외자는 기존 occurrence 규칙 적용 결과로 보이며 전역 코드 치환을 추가하지 않음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 696자리로 유지한다."
     },
     "D/D005.txt": {
       "collation_status": "in_progress",
@@ -358,9 +358,9 @@
     },
     "B/B106.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 719,
+      "unresolved_candidates": 711,
       "punctuation_status": "source_present",
-      "note": "최신 B shard 320규칙을 유지하는 증분안이다. 4개 occurrence 고유 규칙으로 KT 6·HT 1자를 해소한다. 모든 before는 현재 출력에서 1회이며 상호 비중첩이다. 가상 적용 후 HT 11·KT 20, 전각 공백 1322곳이고 기존 조판 634곳을 제외한 비조판 공백 688곳과 표식 31곳을 합쳐 잔여 719좌표다. warnings=0, overlap=0."
+      "note": "초기 HT11·KT20 중 자체 음주·정형 병후로 4표지를 확정. 나머지는 𠘧 자형론 및 희귀 자전 인용이어서 영인 전 보류. FW1322. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 711자리로 유지한다."
     },
     "B/B107.txt": {
       "collation_status": "in_progress",
@@ -526,9 +526,9 @@
     },
     "A/A011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 684,
+      "unresolved_candidates": 627,
       "punctuation_status": "source_present",
-      "note": "최신 shard 434규칙을 유지하는 증분안. review status 694에서 KT 10좌표를 자체 음주·자의주와 《素問》 평행문으로 해소했다. 다른 희귀 해부·운기 외자는 영인 좌표 대조 전 보류."
+      "note": "고전 직접 인용·자체 음주·독립 전사에 맞는 29 occurrence 규칙만 추가. 기존 조판 분류 유지."
     },
     "A/A013.txt": {
       "collation_status": "in_progress",
@@ -3024,7 +3024,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 736,
       "punctuation_status": "source_present",
-      "note": "최신 C shard 205규칙이 반영된 현재 출력에는 KT 50자와 전각 공백 718곳이 남는다. 기존 조판 판정 32곳을 제외한 비조판 공백 686곳과 KT 50곳, 합계 736좌표다. 희귀 약명·동식물명과 문자학 주석이 혼재하고 공개 전사도 결락을 공유해 원판 자형 없이 확정하지 않았다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "KT50과 비조판 공백686을 본초명·동식물명별로 재검토했으나 공개 전사도 결락을 공유하고 희자 후보가 복수라 원판 없이 확정하지 않았다. 기존205규칙·조판32 유지."
     },
     "C/C006.txt": {
       "collation_status": "in_progress",
@@ -3516,7 +3516,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 698,
       "punctuation_status": "source_present",
-      "note": "최신 shard 82규칙으로 HT·KT는 모두 복원됐고 현재 문서에는 전각공백만 남는다. review status의 비조판 후보 698좌표는 독립 판면 대조 전 신규 확정 규칙이 없다."
+      "note": "HT/KT/□ 잔여 0. FW1492는 처방 약재 조판과 혼재하며 새 marker 규칙 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 698자리로 유지한다."
     },
     "D/D028.txt": {
       "collation_status": "in_progress",
@@ -4114,9 +4114,9 @@
     },
     "O/O066.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 666,
+      "unresolved_candidates": 658,
       "punctuation_status": "source_present",
-      "note": "기존 90개 규칙은 모두 정상 적용된다. HT1·KT3 및 비조판 후보는 독립 판면에서 유일하게 확정되지 않아 신규 없음. 검증 applied=90/90, warnings=0, overlaps=0."
+      "note": "고전 직접 인용·자체 음주·독립 전사에 맞는 4 occurrence 규칙만 추가. 기존 조판 분류 유지."
     },
     "O/O067.txt": {
       "collation_status": "in_progress",
@@ -4456,9 +4456,9 @@
     },
     "F/F005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 784,
+      "unresolved_candidates": 781,
       "punctuation_status": "source_present",
-      "note": "기존 69개 규칙은 모두 정상 적용된다. 잔여 KT1과 비조판 후보는 서문 이본의 직접 판독 근거가 없어 신규 없음. 검증 applied=69/69, warnings=0, overlaps=0."
+      "note": "최신 잔여784에서 `痌瘝` 2좌표와 `誨` 1좌표를 하나의 고유 서문 문맥으로 확정했다. 기존69규칙과 중첩 없음."
     }
   }
 }
