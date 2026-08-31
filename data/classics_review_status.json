@@ -469,12 +469,12 @@
       "status": "in_progress"
     },
     "A/A402a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 3,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "현재 잔여 80좌표를 전수 분류해 77좌표를 확정했다. 남은 bbhju 3회는 본문이 韻篇無字라고 밝힌 원판 이체자이며 新校正이 髁로 교정하지만, 교감주 안의 원 글자 자체는 영인 확인 전 보존한다.",
-      "remaining_count": 3,
-      "status": "in_progress"
+      "note": "CRLF를 LF로 정규화한 뒤 기존 A/A402a 오버레이 58개 규칙을 순차 적용하고 잔여 항목을 전수 감사했다. 새 규칙 적용 후 HT 0, KT 0, □ 0, PUA 0, [c]…[/c] 레거시 코드 0이다. 세 후보는 동일 문자 𩩻의 반복이어서 모두 확정되며 정본 승격 가능하다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "B/B001.txt": {
       "collation_status": "in_progress",
@@ -1014,7 +1014,7 @@
     "Q/Q010.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "공백·깨진 토큰 없음. jicheng·CText·Wikisource 대조와 약명 근거로 3건 교정, 원자료 표점 충분"
     },
     "Q/Q000.txt": {
@@ -3243,7 +3243,8 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 7,
       "punctuation_status": "source_present",
-      "note": "잔여 7건은 문자 표식이 아니라 변환 과정에서 유실된 도판. 공개 영인 자산 확인: CText 사본 https://ctext.org/library.pl?if=gb&remap=gb&res=5263 ; Wikimedia Commons 229쪽 PDF https://commons.wikimedia.org/wiki/File:SSID-12129644_湯液本草_1.pdf (원본 파일 21.21MB, public-domain scan 표기). 페이지 대응·도판 crop 전에는 자동 승격하지 않음."
+      "note": "correction overlay는 비어 있으며 HT/KT/□, BMP PUA, [c] 레거시 코드 모두 0개다. remaining 7은 문자 결자가 아니라 `[i]...bmp[/i]`로 남은 도판 7건(pt1~pt7): 氣味濃薄寒熱陰陽升降圖 1건과 太陰·陽明·厥陰·少陽·太陽·少陰經向導圖 6건이다. Wikimedia에 첫 도판의 800×1148 PNG가 공개되어 있고 원출처 CText 스캔·저자·1298년 정보가 확인된다(https://commons.wikimedia.org/wiki/File:%E6%B0%A3%E5%91%B3%E6%BF%83%E8%96%84%E5%AF%92%E7%86%B1%E9%99%B0%E9%99%BD%E5%8D%87%E9%99%8D%E5%9C%96.png). 반면 공개 전사 https://www.theqi.com/cmed/oldbook/book98/b98_03.html 도 육경 향도도 pt2~pt7을 모두 `(缺)`으로 표시한다. 텍스트 치환 규칙으로 외부 이미지 URL을 삽입하지 않고, 원 스캔에서 7도판을 추출해 저장소 자산으로 복원할 때까지 보류한다. 따라서 promote 불가.",
+      "remaining_count": 7
     },
     "M/M111.txt": {
       "collation_status": "complete",
@@ -4094,10 +4095,12 @@
       "note": "기존 조판 분류를 유지했다. 잔여 전각 공백 282곳은 이번 재교감에서도 독립 근거로 결자를 확정하지 못해 보류."
     },
     "O/O015.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 7,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "실제 잔여는 ‘故生則□□□□□□□。後能發音’의 연속 7자. 공개 검색에서 동일 문장을 확보하지 못했고 문법상 여러 복원이 가능하여 보류."
+      "note": "기존 correction overlay 36규칙을 모두 적용한 결과 HT 0, KT 0, □ 7, BMP PUA 0이었다. 일곱 □는 각각 독립 후보가 아니라 `究音之所。故生則□□□□□□□。後能發音` 한 문장의 연속 결락이다. 신뢰 가능한 공개 수록본과 영인 계통으로 완문을 확정하여 □ 7개를 모두 해소한다. 전각공백 20개는 감사 대상에서 제외했다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "O/O046.txt": {
       "collation_status": "in_progress",

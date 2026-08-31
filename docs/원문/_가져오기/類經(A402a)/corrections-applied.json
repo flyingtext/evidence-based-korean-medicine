@@ -397,5 +397,11 @@
     "expected_count": 2,
     "reason": "파일 자체가 `殘同`이라 명시한다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+  },
+  {
+    "before": "[c]bbhju[/c]",
+    "after": "𩩻",
+    "expected_count": 3,
+    "reason": "세 출현은 《素問·長刺節論》 경문의 ‘皮𩩻’과 이를 논평하는 張介賓의 ‘𩩻字，偏考韻篇皆無’, ‘𩩻字誤也’이다. 저자는 원 경문 글자를 보존하면서 全元起本의 髓 및 新校正의 皮髁를 이문·교정안으로 소개하므로, 편집적 정자화 없이 레거시 Cangjie 코드 bbhju를 저자가 실제 제시한 𩩻으로 복원한다. 《類經》 공개본: https://www.shidianguji.com/book/YCM294300081/chapter/1l0jk2a7ie59g ; 교감 설명을 보존한 《素問識》: https://www.donglishuzhai.net/chapter/8516.html"
   }
 ]

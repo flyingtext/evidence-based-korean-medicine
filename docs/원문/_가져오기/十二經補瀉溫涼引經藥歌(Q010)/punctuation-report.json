@@ -1,0 +1,163 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q010.txt",
+    "sha256": "77fdfc10ab6bc95d8938b9c9c2381019b284538e14b53713ffdde748284b5923"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "59f6ebd68ccd949aef34404027961d1525ad4ecc51525a7472c189c701eceb59",
+    "applied_count": 3
+  },
+  "output": "docs/원문/_가져오기/十二經補瀉溫涼引經藥歌(Q010)/표점본.md",
+  "chunks": {
+    "total": 12,
+    "resumable_completed": 12,
+    "min_chars": 33,
+    "max_chars": 151,
+    "target_chars": 600,
+    "attempts": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 85,
+        "output_characters": 93,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 11,
+        "punctuation_density": 0.15942029,
+        "attempts": 2
+      },
+      {
+        "index": 2,
+        "input_characters": 68,
+        "output_characters": 77,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 9,
+        "punctuation_density": 0.16363636,
+        "attempts": 2
+      },
+      {
+        "index": 3,
+        "input_characters": 85,
+        "output_characters": 95,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 11,
+        "punctuation_density": 0.15942029,
+        "attempts": 2
+      },
+      {
+        "index": 4,
+        "input_characters": 134,
+        "output_characters": 150,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 18,
+        "punctuation_density": 0.16363636,
+        "attempts": 2
+      },
+      {
+        "index": 5,
+        "input_characters": 134,
+        "output_characters": 147,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 18,
+        "punctuation_density": 0.16363636,
+        "attempts": 2
+      },
+      {
+        "index": 6,
+        "input_characters": 151,
+        "output_characters": 151,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 19,
+        "punctuation_density": 0.152,
+        "attempts": 1
+      },
+      {
+        "index": 7,
+        "input_characters": 52,
+        "output_characters": 54,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 6,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      },
+      {
+        "index": 8,
+        "input_characters": 101,
+        "output_characters": 103,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 13,
+        "punctuation_density": 0.15662651,
+        "attempts": 1
+      },
+      {
+        "index": 9,
+        "input_characters": 66,
+        "output_characters": 68,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 8,
+        "punctuation_density": 0.14814815,
+        "attempts": 1
+      },
+      {
+        "index": 10,
+        "input_characters": 68,
+        "output_characters": 70,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 9,
+        "punctuation_density": 0.16363636,
+        "attempts": 1
+      },
+      {
+        "index": 11,
+        "input_characters": 68,
+        "output_characters": 67,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 9,
+        "punctuation_density": 0.16363636,
+        "attempts": 1
+      },
+      {
+        "index": 12,
+        "input_characters": 33,
+        "output_characters": 32,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 5,
+        "punctuation_density": 0.18518519,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 854,
+    "output_nonpunctuation_characters": 854,
+    "input_non_punctuation_characters": 883,
+    "output_non_punctuation_characters": 883
+  },
+  "punctuation": {
+    "ascii_count": 136,
+    "density_per_nonpunctuation_character": 0.15925059,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
