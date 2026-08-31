@@ -8965,5 +8965,233 @@
     "expected_count": 1,
     "reason": "자체 고자주",
     "evidence": "陳，古陳字"
+  },
+  {
+    "before": "胝音支。KT　音縐",
+    "after": "胝音支。䐢　音縐",
+    "expected_count": 1,
+    "evidence": "본문의 ‘肉胝䐢’와 A402a Cangjie bpuu 및 자체 음주 音縐가 일치한다."
+  },
+  {
+    "before": "其焦理縱，　KT　短而小",
+    "after": "其焦理縱，　骬　短而小",
+    "expected_count": 1,
+    "evidence": "A402a 대응문의 𩩲骬 및 Cangjie bbmms 역색인으로 확정된다."
+  },
+  {
+    "before": "其焦理縱者，肉理不橫也。　KT　短小者",
+    "after": "其焦理縱者，肉理不橫也。　骬　短小者",
+    "expected_count": 1,
+    "evidence": "동일 문단 표제어 𩩲骬와 A402a 대응문이 일치한다."
+  },
+  {
+    "before": "縱，平聲。　KT　，音結於",
+    "after": "縱，平聲。　骬　，音結於",
+    "expected_count": 1,
+    "evidence": "A402a의 𩩲骬와 骬의 음주가 일치한다."
+  },
+  {
+    "before": "無　KT　者心高，　KT　小短舉者心下。　KT長者心下堅，　KT　弱小以薄者心脆。　KT　直下不舉者心端正，　KT　倚一方者心偏傾",
+    "after": "無　骬　者心高，　骬　小短舉者心下。　骬長者心下堅，　骬　弱小以薄者心脆。　骬　直下不舉者心端正，　骬　倚一方者心偏傾",
+    "expected_count": 1,
+    "evidence": "A402a의 동일 《靈樞》 문장이 모든 자리를 𩩲骬로 적고 Cangjie bbmms가 骬로 역색인된다."
+  },
+  {
+    "before": "　KT，音結於，鳩尾骨也",
+    "after": "　骬，音結於，鳩尾骨也",
+    "expected_count": 1,
+    "evidence": "鳩尾骨 𩩲骬의 자체 음주와 A402a 대응문으로 확정된다."
+  },
+  {
+    "before": "骷骨有餘，以候　KT　",
+    "after": "骷骨有餘，以候　骬　",
+    "expected_count": 1,
+    "evidence": "A402a 직접 대응문은 ‘以候𩩲骬’이다."
+  },
+  {
+    "before": "骷，廣雅曰HT　KT　也，HT　KT即膝骨之名",
+    "after": "骷，廣雅曰𩩲　骬　也，𩩲　骬即膝骨之名",
+    "expected_count": 1,
+    "evidence": "A402a가 두 곳 모두 Cangjie bbapv+bbmms로 적으며 역색인은 𩩲骬이다."
+  },
+  {
+    "before": "　KT　，蔽心之骨，亦名鳩尾",
+    "after": "　骬　，蔽心之骨，亦名鳩尾",
+    "expected_count": 1,
+    "evidence": "같은 주석의 표제어 𩩲骬 및 A402a 대응문으로 확정된다."
+  },
+  {
+    "before": "　音結。KT　音於",
+    "after": "　音結。骬　音於",
+    "expected_count": 1,
+    "evidence": "𩩲骬 두 글자의 분리 음주이며 A402a Cangjie bbmms가 骬이다."
+  },
+  {
+    "before": "大角左角HT　角判角少陽者",
+    "after": "大角左角釱　角判角少陽者",
+    "expected_count": 1,
+    "evidence": "바로 뒤 본문에 釱角 및 ‘釱音代’가 명시된다."
+  },
+  {
+    "before": "HT　音代。）判角之人",
+    "after": "釱　音代。）判角之人",
+    "expected_count": 1,
+    "evidence": "직전 표제 釱角의 자체 음주이다."
+  },
+  {
+    "before": "從耳後顳HT　間",
+    "after": "從耳後顳顬　間",
+    "expected_count": 1,
+    "evidence": "해부 고정어 顳顬와 담경의 귀 뒤 문맥으로 확정된다."
+  },
+  {
+    "before": "骨度篇曰：　KT　以下至天樞長八寸",
+    "after": "骨度篇曰：　骬　以下至天樞長八寸",
+    "expected_count": 1,
+    "evidence": "A402a 및 《靈樞》 骨度篇의 𩩲骬以下 문구로 확정된다."
+  },
+  {
+    "before": "起則目KTKT　無所見者",
+    "after": "起則目䀮䀮　無所見者",
+    "expected_count": 1,
+    "evidence": "같은 문장 뒤에 ‘故目䀮䀮無所見’이 직접 제시되고 A402a Cangjie도 䀮이다."
+  },
+  {
+    "before": "目則KT　KT無所見",
+    "after": "目則䀮　䀮無所見",
+    "expected_count": 1,
+    "evidence": "바로 앞의 ‘目䀮䀮無所見’과 A402a 대응문으로 확정된다."
+  },
+  {
+    "before": "禁犯　HT　熱食溫灸衣。　HT　，燒爆之物也",
+    "after": "禁犯　㶼　熱食溫灸衣。　㶼　，燒爆之物也",
+    "expected_count": 1,
+    "evidence": "A402a Cangjie fiok 역색인과 《素問》 ‘焠㶼熱食’ 대응문으로 확정된다."
+  },
+  {
+    "before": "HT　音哀",
+    "after": "㶼　音哀",
+    "expected_count": 1,
+    "evidence": "직전 표제 㶼의 자체 음주이며 A402a fiok와 일치한다."
+  },
+  {
+    "before": "目HT脈痛，目脈抽掣而痛也",
+    "after": "目眥脈痛，目脈抽掣而痛也",
+    "expected_count": 1,
+    "evidence": "《靈樞》 직접 대응구 ‘目眥脈痛’으로 확정된다."
+  },
+  {
+    "before": "HT　腹　痛，形中上者。HT　，滿也",
+    "after": "恲　腹　痛，形中上者。恲　，滿也",
+    "expected_count": 1,
+    "evidence": "A402a Cangjie ttp 역색인과 《靈樞》 ‘恲腹憹痛’ 직접 대응문으로 확정된다."
+  },
+  {
+    "before": "即當以蟲治之也。HT　，並同，音烹",
+    "after": "即當以蟲治之也。恲　，並同，音烹",
+    "expected_count": 1,
+    "evidence": "직전 표제 恲의 자체 음주 音烹과 A402a 역색인이 일치한다."
+  },
+  {
+    "before": "KT　音荒。　，隙同",
+    "after": "䀮　音荒。　，隙同",
+    "expected_count": 1,
+    "evidence": "해당 요통 문단의 目䀮䀮 표제 음주이며 A402a buyvu가 䀮이다."
+  },
+  {
+    "before": "幾幾，憑伏貌。KT　KT　，目亂不明也",
+    "after": "幾幾，憑伏貌。䀮　䀮　，目亂不明也",
+    "expected_count": 1,
+    "evidence": "직전 본문 ‘目䀮䀮’ 및 A402a 대응문으로 확정된다."
+  },
+  {
+    "before": "腹中HT　HT　，便溲難",
+    "after": "腹中穀　穀　，便溲難",
+    "expected_count": 1,
+    "evidence": "《靈樞》 직접 대응문 ‘腹中穀穀，便溲難’과 일치한다."
+  },
+  {
+    "before": "又HT　HT　然，水穀不分之聲也",
+    "after": "又穀　穀　然，水穀不分之聲也",
+    "expected_count": 1,
+    "evidence": "직접 대응문 및 주석 ‘水穀不分之聲’으로 穀穀가 확정된다."
+  },
+  {
+    "before": "HT　音斛",
+    "after": "穀　音斛",
+    "expected_count": 1,
+    "evidence": "직전 穀穀의 자체 음주이다."
+  },
+  {
+    "before": "膝痛，痛及KT　指",
+    "after": "膝痛，痛及拇　指",
+    "expected_count": 1,
+    "evidence": "A402a와 《靈樞》 대응문이 ‘痛及拇指’로 일치한다."
+  },
+  {
+    "before": "腸胃HT　辟，皮膚薄著",
+    "after": "腸胃慴　辟，皮膚薄著",
+    "expected_count": 1,
+    "evidence": "A402a Cangjie osjj 역색인 및 동일 《靈樞》 대응문으로 慴이 확정된다."
+  },
+  {
+    "before": "HT　，畏怯也。辟，邪僻不正也",
+    "after": "慴　，畏怯也。辟，邪僻不正也",
+    "expected_count": 1,
+    "evidence": "주석이 慴의 뜻 畏怯을 직접 풀이한다."
+  },
+  {
+    "before": "HT　，丑涉切。辟，僻同",
+    "after": "慴　，丑涉切。辟，僻同",
+    "expected_count": 1,
+    "evidence": "慴의 반절 丑涉切 및 A402a osjj 역색인이 일치한다."
+  },
+  {
+    "before": "　KT　，栝蔞也，軟而不潰",
+    "after": "　樓　，栝蔞也，軟而不潰",
+    "expected_count": 1,
+    "evidence": "A402a 대응문은 Cangjie thro+tlvo(栝樓)이며 선행 전각공백은 유지했다."
+  },
+  {
+    "before": "　KT　，古栝樓字",
+    "after": "　樓　，古栝樓字",
+    "expected_count": 1,
+    "evidence": "주석 자체가 표제어를 栝樓라고 직접 명시한다."
+  },
+  {
+    "before": "壽者如彭HT　之百千",
+    "after": "壽者如彭祖　之百千",
+    "expected_count": 1,
+    "evidence": "장수의 전형 彭祖를 가리키는 고정 인용이다."
+  },
+  {
+    "before": "目視KT　KT　，物疏璺",
+    "after": "目視䀮　䀮　，物疏璺",
+    "expected_count": 1,
+    "evidence": "A402a 동일 운기 문장이 buyvu 두 글자이며 역색인은 䀮䀮이다."
+  },
+  {
+    "before": "KT　KT　，目不明也",
+    "after": "䀮　䀮　，目不明也",
+    "expected_count": 1,
+    "evidence": "직전 본문의 䀮䀮를 풀이하는 주석이다."
+  },
+  {
+    "before": "螈音熾。KT　音荒。璺音問",
+    "after": "螈音熾。䀮　音荒。璺音問",
+    "expected_count": 1,
+    "evidence": "직전 표제 䀮䀮의 자체 음주이며 A402a buyvu와 일치한다."
+  },
+  {
+    "before": "輩，俗作HT　",
+    "after": "輩，俗作軰　",
+    "expected_count": 1,
+    "evidence": "輩의 통용 이체자 軰를 설명하는 고정 주석이다."
+  },
+  {
+    "before": "匐，伏、HT二音",
+    "after": "匐，伏、蒲二音",
+    "expected_count": 1,
+    "evidence": "匐의 두 음 伏·蒲를 제시하는 사전식 음주이다."
   }
 ]

@@ -276,10 +276,10 @@
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 60,
+      "unresolved_candidates": 24,
       "punctuation_status": "source_present",
-      "note": "배치91 적용 후 잔여 76코드 146좌표를 재대조하여, 자매본·공개 천금방·직접 인용의 고정어/약재명/해부명으로 전 출현이 일치하는 41코드 86좌표를 확정했다. 남은 35코드 60좌표는 동일 코드의 이체자 복수 후보, 원문 자체의 교감 논의, 또는 공개본 결자로 인해 보류했다. 전각 공백은 유지했다.",
-      "remaining_count": 60,
+      "note": "배치92 후 잔여 60좌표 중 D025 자매본·《千金要方》《內經》 직접 인용·교감문 자체 명시로 36좌표를 확정. 24좌표 보류.",
+      "remaining_count": 24,
       "status": "in_progress"
     },
     "D/D004a.txt": {
@@ -3116,10 +3116,10 @@
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1711,
+      "unresolved_candidates": 1656,
       "punctuation_status": "source_present",
-      "note": "기존 교정 순차 적용 뒤 실제 명시 표지 150개 중 85개를 자매 문맥·《類經》《內經》 직접 인용·자체 음주로 교감. 명시 표지 65개 보류. status 1796→1711.",
-      "remaining_count": 1711,
+      "note": "HEAD의 기존 1132개 교정 적용 후 명시 표지 57좌표를 전수 검토해 A402a Cangjie 역색인·《類經/內經》 직접 대응문·자체 음주로 확정되는 55좌표를 복원했다. 전체 remaining 1711에서 55만 차감했다. 선행 전각공백은 모두 유지했으며, 卦象 문장의 HT와 ‘殘同’ 음주의 HT 두 좌표는 복수 후보/원판 이체자라 보류했다.",
+      "remaining_count": 1656,
       "status": "in_progress"
     },
     "B/B002.txt": {
@@ -3496,10 +3496,10 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 64,
+      "unresolved_candidates": 23,
       "punctuation_status": "source_present",
-      "note": "배치91 적용 후 남은 119좌표 중 공개 《千金翼方》 목차·본문, 자매본, 직접 인용 및 고정 의약 문맥으로 확정되는 좌표만 추가 해소했다. 전각 공백은 유지했다.",
-      "remaining_count": 64,
+      "note": "배치92 뒤 실제 잔여 [c] 64좌표를 원 source에 기존 137개 규칙을 순차 적용해 재현했다. D002 자매본, 공개 《千金翼方》·본초/의서 직접 인용, Unicode Unihan 창힐 유일 후보를 문맥 교차검증하여 36개 occurrence-specific 규칙으로 41좌표를 확정했다(expected_count 합계41). 잔여 23좌표는 희귀 본초 이명·주문/부적 문자 또는 자매본도 결락·상이하여 추정 없이 보류한다.",
+      "remaining_count": 23,
       "status": "in_progress"
     },
     "D/D018.txt": {

@@ -598,5 +598,229 @@
     "after": "頓",
     "expected_count": 5,
     "evidence": "D025 자매본과 Jicheng 《備急千金要方》 및 해당 직접 인용 고전의 모든 출현 문맥을 대조해 동일 글자로 확인했다. https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "衣食不能適，參不治也，陰陽[c]nimt[/c]藏氣不定",
+    "after": "衣食不能適，參不治也，陰陽并藏氣不定",
+    "expected_count": 1,
+    "reason": "《史記·扁鵲倉公列傳》 직접 인용",
+    "evidence": "病有六不治: 陰陽并藏，氣不定"
+  },
+  {
+    "before": "獨活（[c]smfli[/c]實為使）",
+    "after": "獨活（蠡實為使）",
+    "expected_count": 1,
+    "reason": "D025 자매본의 동일 약재 상사 문구",
+    "evidence": "D025: 獨活（蠡實為使）"
+  },
+  {
+    "before": "[c]ejce[/c][c]rmyiu[/c]（漏蘆為使）",
+    "after": "溲疏（漏蘆為使）",
+    "expected_count": 1,
+    "reason": "D025 자매본의 동일 약재명",
+    "evidence": "D025: 溲疏（漏蘆為使）"
+  },
+  {
+    "before": "[c]iflii[/c]蟲（畏皂莢、昌蒲）",
+    "after": "䗪蟲（畏皂莢、昌蒲）",
+    "expected_count": 1,
+    "reason": "본초 약재명과 상오 문맥",
+    "evidence": "《千金要方》 약재 䗪蟲, 畏皂莢·菖蒲"
+  },
+  {
+    "before": "黃芩（各十八銖）、[c]iflii[/c]蟲、",
+    "after": "黃芩（各十八銖）、䗪蟲、",
+    "expected_count": 1,
+    "reason": "《千金要方》 처방 약재명",
+    "evidence": "䗪蟲·䖟蟲 병렬 약재"
+  },
+  {
+    "before": "石南[c]iflii[/c]蟲各半兩",
+    "after": "石南䗪蟲各半兩",
+    "expected_count": 1,
+    "reason": "《千金要方》 치질 처방 약재명",
+    "evidence": "처방 구성 䗪蟲"
+  },
+  {
+    "before": "不胡臭癭痿氣欶瘑疥癡[c]khem[/c]白禿",
+    "after": "不胡臭癭痿氣欶瘑疥癡癃白禿",
+    "expected_count": 1,
+    "reason": "후반 교감기가 해당 글자를 癃으로 직접 명시",
+    "evidence": "D025a 교감기: 敧癡癃, 外臺引作瘙"
+  },
+  {
+    "before": "若[c]khem[/c]遺溺難言，脅下有邪氣",
+    "after": "若癃遺溺難言，脅下有邪氣",
+    "expected_count": 1,
+    "reason": "간맥 병후의 고정 병증명",
+    "evidence": "《千金要方》 癃遺溺難言"
+  },
+  {
+    "before": "腰背痛，足為寒時[c]khem[/c]女人月事不來",
+    "after": "腰背痛，足為寒時癃女人月事不來",
+    "expected_count": 1,
+    "reason": "동일 코드의 癃 병증과 자매 문맥",
+    "evidence": "D025 간병 문맥의 癃"
+  },
+  {
+    "before": "洞泄狐疝，遺溺閉[c]khem[/c]，盛者",
+    "after": "洞泄狐疝，遺溺閉癃，盛者",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 직접 인용",
+    "evidence": "足厥陰病候 遺溺閉癃"
+  },
+  {
+    "before": "腎乘心必[c]khem[/c]。",
+    "after": "腎乘心必癃。",
+    "expected_count": 1,
+    "reason": "수기가 심을 승한 병후 癃",
+    "evidence": "《千金要方》 오행 승복 병후"
+  },
+  {
+    "before": "水道不利故[c]khem[/c]也",
+    "after": "水道不利故癃也",
+    "expected_count": 1,
+    "reason": "직전 癃 병리 설명",
+    "evidence": "《靈樞·五味論》 水道不利故癃也"
+  },
+  {
+    "before": "除寒熱貫豚五[c]khem[/c]邪氣攣縮",
+    "after": "除寒熱貫豚五癃邪氣攣縮",
+    "expected_count": 1,
+    "reason": "본초 효능의 병명 五癃",
+    "evidence": "豚卵 효능 五癃"
+  },
+  {
+    "before": "逐不祥邪氣破五[c]khem[/c]，利小便",
+    "after": "逐不祥邪氣破五癃，利小便",
+    "expected_count": 1,
+    "reason": "이뇨 효능과 병명 五癃",
+    "evidence": "越燕屎 효능 破五癃，利小便"
+  },
+  {
+    "before": "外臺引雀氏[c]khem[/c]作瘙醫心方引小品作癤瘙",
+    "after": "外臺引雀氏癃作瘙醫心方引小品作癤瘙",
+    "expected_count": 1,
+    "reason": "교감문 자체가 표제자를 癃으로 명시",
+    "evidence": "직전 원문 敧癡癃"
+  },
+  {
+    "before": "故淺人安以瘙改[c]khem[/c]今得據醫心方",
+    "after": "故淺人安以瘙改癃今得據醫心方",
+    "expected_count": 1,
+    "reason": "같은 교감 단락의 표제자 반복",
+    "evidence": "癃作瘙 이문 논의"
+  },
+  {
+    "before": "上入頑[c]jdmbc[/c]連目系",
+    "after": "上入頑顙連目系",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 직접 경문",
+    "evidence": "足厥陰脈 上入頏顙，連目系; 표지는 顙 위치"
+  },
+  {
+    "before": "飲食不下，[c]rwr[/c]乾頭痛",
+    "after": "飲食不下，咽乾頭痛",
+    "expected_count": 1,
+    "reason": "D025 자매본 동일 문장",
+    "evidence": "D025: 飲食不下，咽乾頭痛"
+  },
+  {
+    "before": "八種大風，十二種[c]ksrb[/c]痺。",
+    "after": "八種大風，十二種痺。",
+    "expected_count": 1,
+    "reason": "《千金要方·耆婆萬病丸》 직접 인용",
+    "evidence": "Wikisource: 十種水病，八種大風，十二種痺"
+  },
+  {
+    "before": "神名[c]emfi[/c]，[c]emfi[/c]主臟精",
+    "after": "神名憰憰，憰憰主臟精",
+    "expected_count": 1,
+    "reason": "공개 《千金要方》 및 연구 인용",
+    "evidence": "千金要方·腎藏脈論: 神名憰憰，主藏精"
+  },
+  {
+    "before": "滑甚為癃[c]khvc[/c]微滑為骨痿",
+    "after": "滑甚為癃閉微滑為骨痿",
+    "expected_count": 1,
+    "reason": "신맥 병후의 고정어 癃閉",
+    "evidence": "《千金要方》 腎脈 滑甚為癃閉"
+  },
+  {
+    "before": "耳則為之[c]wfmjk[/c]黑焦癖",
+    "after": "耳則為之黧黑焦癖",
+    "expected_count": 1,
+    "reason": "안색·귀색 병후의 고정 색명",
+    "evidence": "腎死 귀색 黧黑焦枯 문맥"
+  },
+  {
+    "before": "代指者，先腫[c]khlo[/c]熱痛，色不黯",
+    "after": "代指者，先腫焮熱痛，色不黯",
+    "expected_count": 1,
+    "reason": "D025 자매본 및 외과 고정어",
+    "evidence": "代指病 先腫焮熱痛"
+  },
+  {
+    "before": "皮肉瘮痛壯熱[c]kddd[/c]索惡寒是也",
+    "after": "皮肉瘮痛壯熱索索惡寒是也",
+    "expected_count": 1,
+    "reason": "D025 자매본의 惡核 병후",
+    "evidence": "D025: 壯熱惡寒; 고정어 索索惡寒"
+  },
+  {
+    "before": "眉毛[c]shahu[/c]髮火燒瘡瘢毛不生方",
+    "after": "眉毛鬚髮火燒瘡瘢毛不生方",
+    "expected_count": 1,
+    "reason": "신체 털의 고정 병렬어",
+    "evidence": "眉毛鬚髮"
+  },
+  {
+    "before": "著銅器中於[c]cakn[/c]中五斗大豆上蒸之",
+    "after": "著銅器中於甑中五斗大豆上蒸之",
+    "expected_count": 1,
+    "reason": "제약법의 기물명",
+    "evidence": "甑中大豆上蒸之"
+  },
+  {
+    "before": "三家甑[c]hanj[/c]各一兩",
+    "after": "三家甑箄各一兩",
+    "expected_count": 1,
+    "reason": "공개 의서 인용과 희자 교감 연구",
+    "evidence": "《千金要方》 骨疽方: 三家甑箄各一兩"
+  },
+  {
+    "before": "腹中雷鳴轉[c]rll[/c]嘔逆不食",
+    "after": "腹中雷鳴轉叫嘔逆不食",
+    "expected_count": 1,
+    "reason": "증상 문맥의 고정 동사",
+    "evidence": "雷鳴轉叫，嘔逆不食"
+  },
+  {
+    "before": "疾痛煩躁，啼[c]rll[/c]不得臥方",
+    "after": "疾痛煩躁，啼叫不得臥方",
+    "expected_count": 1,
+    "reason": "고정어 啼叫",
+    "evidence": "墮傷 병후 啼叫不得臥"
+  },
+  {
+    "before": "熱氣不散多作[c]rmypb[/c]病，漏蘆湯主之",
+    "after": "熱氣不散多作趺病，漏蘆湯主之",
+    "expected_count": 1,
+    "reason": "D025 자매본 동일 문장",
+    "evidence": "D025: 多作趺病"
+  },
+  {
+    "before": "膘疽第六多作[c]rmypb[/c]病巢源作變作虺病",
+    "after": "膘疽第六多作趺病巢源作變作虺病",
+    "expected_count": 1,
+    "reason": "교감문 자체가 표제어 趺病을 논함",
+    "evidence": "직후 按趺即腫之症"
+  },
+  {
+    "before": "按[c]rmypb[/c]即腫之症故並足作[c]rmypb[/c]耳",
+    "after": "按趺即腫之症故並足作趺耳",
+    "expected_count": 1,
+    "reason": "교감문이 足변 글자 趺를 직접 해설",
+    "evidence": "D025 본문 多作趺病 및 교감기"
   }
 ]

@@ -888,5 +888,215 @@
     "expected_count": 1,
     "reason": "기운을 입에 가득 받아 일곱 번 삼키는 주술 절차의 滿이다.",
     "evidence": "source/D/D002.txt"
+  },
+  {
+    "before": "是以[c]pke[/c]其大意",
+    "after": "是以忮其大意",
+    "expected_count": 1,
+    "evidence": "D002 자매본의 동일 좌우 문맥이 忮로 직접 대응하며 창힐 PKE와도 일치한다."
+  },
+  {
+    "before": "苦參、薺[c]tfd[/c]、黃連",
+    "after": "苦參、薺苨、黃連",
+    "expected_count": 1,
+    "evidence": "직접 본초 인용의 약명 薺苨이며 공개 《千金翼方》 본초 목록과 일치한다. https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html"
+  },
+  {
+    "before": "主益氣，療[c]hllbu[/c]鼻，止洩痢",
+    "after": "主益氣，療鼽鼻，止洩痢",
+    "expected_count": 1,
+    "evidence": "고정 병명 鼽鼻이며 공개 본초 평행문과 일치한다. https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html"
+  },
+  {
+    "before": "生山之陰[c]mrhxg[/c]中，色青白",
+    "after": "生山之陰穴中，色青白",
+    "expected_count": 1,
+    "evidence": "광물 산지를 나타내는 고정구 `山之陰穴中`이며 D002/공개본 문맥 대조."
+  },
+  {
+    "before": "一名羽[c]mrhxg[/c]，一名羽澤",
+    "after": "一名羽青，一名羽澤",
+    "expected_count": 1,
+    "evidence": "曾青의 이명 羽青·羽澤를 나란히 든 본초 인용이며 공개본과 일치한다."
+  },
+  {
+    "before": "去[c]lidlc[/c]瘕，療惡瘡",
+    "after": "去癥瘕，療惡瘡",
+    "expected_count": 1,
+    "evidence": "고정 병명 癥瘕이며 D002 자매 문맥과 공개 의서 인용이 일치한다."
+  },
+  {
+    "before": "一名即[c]thnd[/c]，一名茨",
+    "after": "一名即藜，一名茨",
+    "expected_count": 1,
+    "evidence": "蒺藜의 이명 열거로 即藜이며 공개 《千金翼方》 본초문과 일치한다."
+  },
+  {
+    "before": "生[c]hdnl[/c]歸川谷及冤句",
+    "after": "生秭歸川谷及冤句",
+    "expected_count": 1,
+    "evidence": "黃芩 산지의 고정 지명 秭歸이며 본초 평행문과 일치한다."
+  },
+  {
+    "before": "一名石[c]tjitf[/c]，一名石皮",
+    "after": "一名石韋，一名石皮",
+    "expected_count": 1,
+    "evidence": "약재 石韋의 본초 이명 열거이며 황모를 제거한다는 뒤 문장과 일치한다."
+  },
+  {
+    "before": "一名鴻[c]tgrf[/c]，如馬蓼",
+    "after": "一名鴻䕵，如馬蓼",
+    "expected_count": 1,
+    "evidence": "Unicode Unihan kCangjie=TGRF의 유일 대응 䕵이며 鴻䕵라는 약명 문맥과 일치한다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "目中眵[c]butwi[/c]，利大腸",
+    "after": "目中眵䁾，利大腸",
+    "expected_count": 1,
+    "evidence": "Unicode Unihan kCangjie=BUTWI의 유일 대응 䁾이며 안질 고정어 眵䁾 문맥과 일치한다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "一名馬[c]tlmo[/c]生園中久腐",
+    "after": "一名馬疕生園中久腐",
+    "expected_count": 1,
+    "evidence": "공개 《千金翼方·馬勃》가 `一名馬疕，生園中久腐處`로 직접 보존한다. https://cloudtcm.com/shu/t1/81/52"
+  },
+  {
+    "before": "圊廁溺坑中青[c]cyia[/c]，\n療喉痺",
+    "after": "圊廁溺坑中青泥，\n療喉痺",
+    "expected_count": 1,
+    "evidence": "재료를 가리키는 `溺坑中青泥`이며 D002 자매본 및 공개 처방문과 일치한다."
+  },
+  {
+    "before": "芒消、\n[c]cyia[/c]衣、印成鹽",
+    "after": "芒消、\n蛇衣、印成鹽",
+    "expected_count": 1,
+    "evidence": "약재 열거의 蛇衣이며 D002 자매본과 공개 의서 처방이 일치한다."
+  },
+  {
+    "before": "寒熱酸[c]ptcl[/c]無子",
+    "after": "寒熱酸痛無子",
+    "expected_count": 1,
+    "evidence": "목맹의 주치문 고정구 `寒熱酸痛`이며 공개 본초 인용과 일치한다."
+  },
+  {
+    "before": "面脂主面及[c]deice[/c]黶黑皯",
+    "after": "面脂主面及䵟黶黑皯",
+    "expected_count": 1,
+    "evidence": "피부 병변 열거 `䵟黶黑皯`이며 동일 책의 확정된 䵟 용례 및 공개본과 일치한다."
+  },
+  {
+    "before": "[c]eyra[/c]",
+    "after": "漆",
+    "expected_count": 4,
+    "evidence": "네 좌표 모두 `取漆塗之`, `汁名漆`, `燒取漆`, `槐枝漆塗之`의 고정 재료·동사 문맥이며 D002가 漆로 직접 대응한다."
+  },
+  {
+    "before": "禁[c]lidlc[/c]法（捻蛇目閉氣向王為之）",
+    "after": "禁蛇法（捻蛇目閉氣向王為之）",
+    "expected_count": 1,
+    "evidence": "표제와 괄호가 모두 뱀 금주를 명시하므로 禁蛇法이다."
+  },
+  {
+    "before": "蠕[c]lidlc[/c]神祇，八節九枝",
+    "after": "蠕蛇神祇，八節九枝",
+    "expected_count": 1,
+    "evidence": "바로 앞 禁蛇法에 이어지는 주문 첫 구이며 D002/공개본의 蠕蛇와 일치한다."
+  },
+  {
+    "before": "赤[c]jnjmu[/c]味甘無毒",
+    "after": "赤芝味甘無毒",
+    "expected_count": 1,
+    "evidence": "본초 표제 赤芝이며 공개 《千金翼方》 본초문이 직접 보존한다. https://www.shidianguji.com/zh/book/SDZJ0087/chapter/1kcbtavy2g6r6"
+  },
+  {
+    "before": "一名[c]jnjmu[/c]子黃蒸磨小麥",
+    "after": "一名䴷子黃蒸磨小麥",
+    "expected_count": 1,
+    "evidence": "女麴 이명은 䴷子이며 《本草綱目》 평행문이 직접 보존한다. https://zh.wikisource.org/zh-hant/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B725"
+  },
+  {
+    "before": "大麥[c]jnjmu[/c]",
+    "after": "大麥奴",
+    "expected_count": 2,
+    "evidence": "두 좌표 모두 처방명과 약재명의 大麥奴이며 뒤 문장도 `大麥奴（葉是陰乾）`로 풀이한다."
+  },
+  {
+    "before": "冷歇心[c]hdhuk[/c]煩熱",
+    "after": "冷歇心中煩熱",
+    "expected_count": 1,
+    "evidence": "증상 고정구 心中煩熱이며 공개 의서 평행문과 일치한다."
+  },
+  {
+    "before": "藏氣不足，[c]hdhuk[/c]中煩燥",
+    "after": "藏氣不足，心中煩燥",
+    "expected_count": 1,
+    "evidence": "胸賁湯 주치의 고정구 心中煩燥이며 D002/공개 처방문과 일치한다."
+  },
+  {
+    "before": "瀉白於瓷[c]jbbuc[/c]中，以粉置其上",
+    "after": "瀉白於瓷甌中，以粉置其上",
+    "expected_count": 1,
+    "evidence": "달걀흰자를 담는 도구 瓷甌이며 뒤의 瓷椀과 조응하고 자매본과 일치한다."
+  },
+  {
+    "before": "夏月常多[c]jbbuc[/c]此藥屑入水浴",
+    "after": "夏月常多貯此藥屑入水浴",
+    "expected_count": 1,
+    "evidence": "약가루를 미리 저장한다는 `多貯此藥屑`이며 공개 처방문과 일치한다."
+  },
+  {
+    "before": "所居[c]liijc[/c]里皆無病",
+    "after": "所居鄉里皆無病",
+    "expected_count": 1,
+    "evidence": "고정어 鄉里이며 D002 자매본과 공개 방서 문맥이 일치한다."
+  },
+  {
+    "before": "桑螵蛸、菴[c]liijc[/c]子、\n茯苓",
+    "after": "桑螵蛸、菴䕡子、\n茯苓",
+    "expected_count": 1,
+    "evidence": "처방 약재 菴䕡子이며 같은 책에서 확정된 䕡 및 공개본과 일치한다."
+  },
+  {
+    "before": "胡蔥主諸惡[c]ilmi[/c]狐尿剌毒",
+    "after": "胡蔥主諸惡蟲狐尿剌毒",
+    "expected_count": 1,
+    "evidence": "독물 열거 `諸惡蟲、狐尿刺毒`이며 D002/공개본과 일치한다."
+  },
+  {
+    "before": "似[c]ilmi[/c]雞子中黃",
+    "after": "似段雞子中黃",
+    "expected_count": 1,
+    "evidence": "D002 자매본의 동일 고유 문맥이 段으로 직접 대응한다."
+  },
+  {
+    "before": "鬼臼、太一餘[c]mbmvn[/c]（各貳兩半）",
+    "after": "鬼臼、太一餘糧（各貳兩半）",
+    "expected_count": 1,
+    "evidence": "고정 약재명 太一餘糧이며 D002 자매본과 공개 처방문이 일치한다."
+  },
+  {
+    "before": "次下[c]tgum[/c]脂都消盡訖乃內藥",
+    "after": "次下豬脂都消盡訖乃內藥",
+    "expected_count": 1,
+    "evidence": "연고 조제에서 松脂 다음 녹이는 재료 豬脂이며 공개 처방문과 일치한다."
+  },
+  {
+    "before": "豬脂以紙，[c]vfohg[/c]沾取內瘡孔中",
+    "after": "豬脂以紙，絍沾取內瘡孔中",
+    "expected_count": 1,
+    "evidence": "Unicode Unihan kCangjie=VFOHG의 유일 대응 絍이며 종이에 묻혀 창구에 넣는 문맥과 일치한다. https://www.unicode.org/Public/UCD/latest/ucd/Unihan.zip"
+  },
+  {
+    "before": "量使肋[c]ouypu[/c]於繩頭",
+    "after": "量使肋端於繩頭",
+    "expected_count": 1,
+    "evidence": "취혈용 줄의 끝에 갈비 끝을 맞춘다는 `肋端於繩頭`이며 D002/공개 침구 인용과 일치한다."
+  },
+  {
+    "before": "九天仙公以[c]gogi[/c]，\n急急如律令",
+    "after": "九天仙公以赴刑，\n急急如律令",
+    "expected_count": 1,
+    "evidence": "D002 자매본의 동일 좌우 12자 고유 문맥이 赴刑 두 글자로 직접 대응한다."
   }
 ]
