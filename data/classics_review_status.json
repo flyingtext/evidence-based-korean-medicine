@@ -3500,10 +3500,10 @@
     },
     "C/C050.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6192,
+      "unresolved_candidates": 6165,
       "punctuation_status": "source_present",
-      "note": "status 6233에서 직접 인용 고전·본문의 명시적 풀이로 확정한 KT 41좌표만 차감했다. 동일 KT가 수십 종의 서로 다른 희귀자를 대표하므로 occurrence-specific 규칙만 사용했다. 전각공백 6063과 □ 5좌표는 모두 유지했다.",
-      "remaining_count": 6192,
+      "note": "HEAD 기존 37규칙 전부 적용 후 명시 표지 102개·PUA 0개. jicheng.tw 완문과 좌우 문맥이 고유 일치한 27표지만 복원하여 6192→6165. IDS로만 표시되는 합성자, 불명 희자, 전각공백, 판기 □는 유보.",
+      "remaining_count": 6165,
       "status": "in_progress"
     },
     "C/C103.txt": {
@@ -4454,10 +4454,10 @@
     },
     "P/P0201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3601,
+      "unresolved_candidates": 3583,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 산출물의 명시 표식은 KT 135좌표였다(raw marker 140과 5 차이). P0200 자매본 구조와 《本草綱目》 계열 평행문, 직접 인용·자전으로 KT 10좌표를 10개 occurrence-specific 규칙으로 확정했다. 나머지 125좌표는 《說文》 고자, 희귀 동식물명·의성어 및 손상된 장문에 집중되어 영인 자형 없이 유일하게 확정할 수 없어 보류한다. 전각 공백은 모두 유지하고 status 3611에서 실제 명시 표식 10좌표만 차감했다.",
-      "remaining_count": 3601,
+      "note": "HEAD 1506개 교정 오버레이 적용 후 HT/□/레거시 PUA는 0, KT는 125개였다. 전각공백은 제외했다. 고정 별명·직접 인용·인명으로 KT 18개를 복원해 명시 표지 잔존은 107개다. 기존 상태와 동일한 집계 기준으로 전각공백 3476개를 포함한 remaining_count는 3583.",
+      "remaining_count": 3583,
       "status": "in_progress"
     },
     "P/P0300.txt": {
@@ -4542,10 +4542,10 @@
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7171,
+      "unresolved_candidates": 16698,
       "punctuation_status": "source_present",
-      "note": "HEAD 809개 규칙 적용 후 HT 9개, KT 9개, □ 1개가 남았다. 직접 인용·처방 및 병증 고정구로 HT 4개, KT 6개, □ 1개, 합계 11개 표지를 복원했다. 나머지 HT 5개와 KT 3개 및 전각공백은 유지했다.",
-      "remaining_count": 7171,
+      "note": "교정 오버레이 없음. HT 14개, KT 50개, □ 1개를 신뢰 원문과 문맥으로 전부 확정 복원. 전각공백 16698개는 결자에서 제외하고 그대로 유지.",
+      "remaining_count": 16698,
       "status": "in_progress"
     },
     "P/P0801.txt": {

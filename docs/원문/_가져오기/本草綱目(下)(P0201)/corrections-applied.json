@@ -12021,5 +12021,103 @@
     "after": "䘓者，血羹也。",
     "expected_count": 1,
     "evidence": "동일 직접 인용의 용어 정의로, 자전이 䘓을 `血羹`으로 풀이한다. https://zdic.net/hant/%E4%98%93"
+  },
+  {
+    "before": "【釋名】KT　棗（《千金》作軟棗）",
+    "after": "【釋名】㮕棗（《千金》作軟棗）",
+    "expected_count": 1,
+    "reason": "君遷子의 《本草綱目》 표준 별명 㮕棗이며 《千金》의 軟棗와 대응한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "KT　棗，其形似棗而軟也。",
+    "after": "㮕棗，其形似棗而軟也。",
+    "expected_count": 1,
+    "reason": "‘其形似棗而軟’이라는 자의 풀이가 확정하는 㮕棗.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "牛奶柿即KT　棗，葉如柿",
+    "after": "牛奶柿即㮕棗，葉如柿",
+    "expected_count": 1,
+    "reason": "牛奶柿과 동일물인 君遷子의 별명 㮕棗.",
+    "evidence_url": "https://www.zysj.com.cn/zhongyaocai/junqianzi/index.html"
+  },
+  {
+    "before": "不知君遷、KT棗",
+    "after": "不知君遷、㮕棗",
+    "expected_count": 1,
+    "reason": "君遷과 병기된 동일 별명 㮕棗.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "時珍曰：君遷即KT　棗",
+    "after": "時珍曰：君遷即㮕棗",
+    "expected_count": 1,
+    "reason": "君遷子 동정문의 㮕棗.",
+    "evidence_url": "https://www.zysj.com.cn/zhongyaocai/junqianzi/index.html"
+  },
+  {
+    "before": "《廣志》云：KT　棗，小柿也。",
+    "after": "《廣志》云：㮕棗，小柿也。",
+    "expected_count": 1,
+    "reason": "小柿로 풀이되는 君遷子 별명 㮕棗.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "【釋名】KT　（音殺）、",
+    "after": "【釋名】欓（音黨）、",
+    "expected_count": 1,
+    "reason": "食茱萸의 표준 별명 欓子. 원문의 음주 ‘殺’은 문맥상 오탈자라 欓의 표준음 黨으로 함께 바로잡는다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "俗中呼為KT　子",
+    "after": "俗中呼為欓子",
+    "expected_count": 1,
+    "reason": "食茱萸의 고정 별명 欓子.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "《爾雅》云：椒KT　丑　。陸機《詩疏》云：椒，KT　屬也。並有KT　名",
+    "after": "《爾雅》云：椒欓丑　。陸機《詩疏》云：椒，欓屬也。並有欓名",
+    "expected_count": 1,
+    "reason": "《爾雅》 및 陸機 인용에서 반복되는 食茱萸 명칭 欓.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "古人謂之　及KT　子。",
+    "after": "古人謂之　及欓子。",
+    "expected_count": 1,
+    "reason": "문단 전체에서 반복되는 별명 欓子. 선행 별도 결자는 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E5%88%A5%E5%90%8D%E9%8C%84/index.html"
+  },
+  {
+    "before": "皮中毛縷如馬之鬃KT　，故名。KT　，俗作棕。KT　，音閭，鬣也。",
+    "after": "皮中毛縷如馬之鬃鬣，故名。鬃，俗作棕。鬣，音閭，鬣也。",
+    "expected_count": 1,
+    "reason": "종려 명칭의 자의 풀이 ‘如馬之鬃鬣’; 鬃/鬣의 속자와 음주를 문장 구조에 맞게 복원.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "水牛尾一條，細切，作　KT　食",
+    "after": "水牛尾一條，細切，作　膾食",
+    "expected_count": 1,
+    "reason": "고기를 잘게 썰어 먹는 고정 조리어 ‘作膾食’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%A3%9F%E9%86%AB%E5%BF%83%E9%8F%A1/index.html"
+  },
+  {
+    "before": "《後漢書》云：冉KT　夷出",
+    "after": "《後漢書》云：冉駹夷出",
+    "expected_count": 1,
+    "reason": "《後漢書》의 서남 종족명 冉駹夷.",
+    "evidence_url": "https://ctext.org/hou-han-shu/xi-nan-yi-lie-zhuan/zh"
+  },
+  {
+    "before": "胡KT　《易簡方》云",
+    "after": "胡洽《易簡方》云",
+    "expected_count": 1,
+    "reason": "의가 胡洽 및 저술 인용의 고정 인명.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
   }
 ]

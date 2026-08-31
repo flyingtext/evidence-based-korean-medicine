@@ -6530,5 +6530,173 @@
     "expected_count": 1,
     "reason": "紫河車가 태아를 싣는다는 설명의 고정어 ‘胚胎將兆’.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+  },
+  {
+    "before": "以HT　寫訛舛",
+    "after": "以傳　寫訛舛",
+    "expected_count": 1,
+    "reason": "문맥상 傳寫訛舛의 고정어로 복원."
+  },
+  {
+    "before": "官婺州HT　陽趙志皋撰",
+    "after": "官婺州東　陽趙志皋撰",
+    "expected_count": 1,
+    "reason": "趙志皋의 관향 婺州東陽 대조."
+  },
+  {
+    "before": "字時澤，號HT　川，浙之義烏人",
+    "after": "字時澤，號慶　川，浙之義烏人",
+    "expected_count": 1,
+    "reason": "傅濟의 자·호 전승 기록 '字時澤，號慶川' 대조."
+  },
+  {
+    "before": "《脈訣》有　HT鄙俗",
+    "after": "《脈訣》有　臲卼鄙俗",
+    "expected_count": 1,
+    "reason": "《直齋書錄解題》의 '有臲卼鄙俗處' 대조."
+  },
+  {
+    "before": "禁犯　HT　（煩熱也。）",
+    "after": "禁犯　焠㶼　（煩熱也。）",
+    "expected_count": 1,
+    "reason": "《素問·藏氣法時論》 '禁犯焠㶼，熱食溫炙衣' 대조."
+  },
+  {
+    "before": "必以布HT　著之，乃從單布上刺",
+    "after": "必以布憿　著之，乃從單布上刺",
+    "expected_count": 1,
+    "reason": "《素問·診要經終論》 전승문 '必以布憿著之' 대조."
+  },
+  {
+    "before": "褫去裳衣，HT　而奔",
+    "after": "褫去裳衣，羸　而奔",
+    "expected_count": 1,
+    "reason": "宋濂 문집 周漢卿 의안의 '羸而奔' 대조."
+  },
+  {
+    "before": "腸胃HT　僻，皮膚薄著",
+    "after": "腸胃㒤　僻，皮膚薄著",
+    "expected_count": 1,
+    "reason": "《靈樞·終始》 계통의 '腸胃㒤辟' 대조."
+  },
+  {
+    "before": "撫芎（即HT　蕪芎",
+    "after": "撫芎（即川　蕪芎",
+    "expected_count": 1,
+    "reason": "撫芎의 이명 川芎 및 이어지는 蕪芎 문맥 대조."
+  },
+  {
+    "before": "驚風所致為潮涎，為目HT　，為口噤",
+    "after": "驚風所致為潮涎，為目寰　，為口噤",
+    "expected_count": 1,
+    "reason": "張子和 계통 문장 '為潮涎，為目睘/寰，為口噤' 대조; 본문 자형 寰 채택."
+  },
+  {
+    "before": "如坐舟車，HT　HT　欲吐者",
+    "after": "如坐舟車，兀　兀　欲吐者",
+    "expected_count": 1,
+    "reason": "眩運 병증의 고정문 '如坐舟車，兀兀欲吐' 대조."
+  },
+  {
+    "before": "咒曰：　嗚HT　哞　呢",
+    "after": "咒曰：　嗚呼　哞　呢",
+    "expected_count": 1,
+    "reason": "주문 문맥의 嗚呼 대조."
+  },
+  {
+    "before": "胚HT　將兆，九九數足",
+    "after": "胚胎　將兆，九九數足",
+    "expected_count": 1,
+    "reason": "人胞·紫河車 본초문 '胚胎將兆，九九數足' 대조."
+  },
+  {
+    "before": "目KT　KT",
+    "after": "目䀮　䀮",
+    "expected_count": 7,
+    "reason": "《素問》 및 침구 전승문의 目䀮䀮 병증 대조."
+  },
+  {
+    "before": "視KT　KT",
+    "after": "視䀮　䀮",
+    "expected_count": 11,
+    "reason": "目視·遠視䀮䀮의 고정 병증어 대조."
+  },
+  {
+    "before": "視物KT　KT",
+    "after": "視物䀮　䀮",
+    "expected_count": 1,
+    "reason": "視物䀮䀮 문맥 대조."
+  },
+  {
+    "before": "身體強KT　KT　然",
+    "after": "身體強几　几　然",
+    "expected_count": 1,
+    "reason": "《金匱要略》 栝蔞桂枝湯 조문의 '身體強几几然' 대조."
+  },
+  {
+    "before": "（明尚書胡KT　集。）",
+    "after": "（明尚書胡濙　集。）",
+    "expected_count": 1,
+    "reason": "《衛生易簡方》 저자 명대 胡濙 대조."
+  },
+  {
+    "before": "肉胝KT　而唇揭",
+    "after": "肉胝皺　而唇揭",
+    "expected_count": 1,
+    "reason": "《素問·五藏生成》 전승문 '肉胝皺而唇揭' 대조."
+  },
+  {
+    "before": "多恃KT　名價，不能精心研習",
+    "after": "多恃炫　名價，不能精心研習",
+    "expected_count": 1,
+    "reason": "《醫燈續焰》 인용문 '多恃炫名價' 대조."
+  },
+  {
+    "before": "缺盆以下至　KT　長九寸",
+    "after": "缺盆以下至　膻中　長九寸",
+    "expected_count": 1,
+    "reason": "《靈樞·骨度》의 缺盆以下至膻中 대조."
+  },
+  {
+    "before": "KT　以下至天樞長八寸",
+    "after": "膻中　以下至天樞長八寸",
+    "expected_count": 1,
+    "reason": "《靈樞·骨度》의 膻中以下至天樞 대조."
+  },
+  {
+    "before": "但見KT　檻橫排",
+    "after": "但見竹　檻橫排",
+    "expected_count": 1,
+    "reason": "해당 의안 전승문 '但見竹檻橫排' 대조."
+  },
+  {
+    "before": "治赤白痢，用KT　麻子一兩",
+    "after": "治赤白痢，用蓖　麻子一兩",
+    "expected_count": 1,
+    "reason": "楊氏《產寶》 처방의 蓖麻子 대조."
+  },
+  {
+    "before": "忪悸，　KT　寒熱，疼痛腫滿",
+    "after": "忪悸，　憎　寒熱，疼痛腫滿",
+    "expected_count": 1,
+    "reason": "痰음 병증의 憎寒熱 문맥 대조."
+  },
+  {
+    "before": "胸中痛止而膝KT　大痛",
+    "after": "胸中痛止而膝脛　大痛",
+    "expected_count": 1,
+    "reason": "虞摶 의안의 膝脛大痛 대조."
+  },
+  {
+    "before": "下尸彭KT　出，輒不得為害",
+    "after": "下尸彭矯　出，輒不得為害",
+    "expected_count": 1,
+    "reason": "《雲笈七籤》 등 삼시명 '下尸彭矯' 대조."
+  },
+  {
+    "before": "先以湯洗手足□之，卻取下穴",
+    "after": "先以湯洗手足，數數易之，卻取下穴",
+    "expected_count": 1,
+    "reason": "침구 전승문의 '急先用湯洗手足，數數易之，卻取下穴' 대조."
   }
 ]

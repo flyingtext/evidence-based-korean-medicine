@@ -22746,6 +22746,188 @@
       "after": "《爾雅》所謂蒮（羊六切），山韭",
       "expected_count": 1,
       "evidence": "《爾雅》 ‘蒮，山韭’와 반절 羊六切이 일치한다."
+    },
+    {
+      "before": "多恃KT　名價，亦不能精心研習",
+      "after": "多恃衒名價，亦不能精心研習",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 고유 문맥 대조",
+      "evidence_note": "多恃衒名價"
+    },
+    {
+      "before": "禹餘糧一枚，狀如酸KT　者，入地埋一半",
+      "after": "禹餘糧一枚，狀如酸䭑者，入地埋一半",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "狀如酸䭑者"
+    },
+    {
+      "before": "天行熱病，若發赤黑斑如KT　。青木香二兩",
+      "after": "天行熱病，若發赤黑斑如㽿。青木香二兩",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "若發赤黑斑如㽿"
+    },
+    {
+      "before": "時聞階除間悉KT　之聲，崔問為誰",
+      "after": "時聞階除間悉窣之聲，崔問為誰",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "悉窣之聲"
+    },
+    {
+      "before": "治耳卒得風，覺耳中KT　KT　。栝蔞根削令可入耳",
+      "after": "治耳卒得風，覺耳中㤨㤨。栝蔞根削令可入耳",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "覺耳中㤨㤨"
+    },
+    {
+      "before": "其萌筍皆名KT　（音綣）",
+      "after": "其萌筍皆名䀵（音綣）",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "萌筍名䀵，音綣"
+    },
+    {
+      "before": "今市人用KT　（音零）筋草為之",
+      "after": "今市人用𪕌（音零）筋草為之",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "𪕌筋草"
+    },
+    {
+      "before": "今人作布及索、KT　麻也。",
+      "after": "今人作布及索、䔛麻也。",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "䔛麻"
+    },
+    {
+      "before": "食之宜熱，冷即聚痰。KT　是茗嫩葉",
+      "after": "食之宜熱，冷即聚痰。𣗪是茗嫩葉",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "𣗪是茗嫩葉"
+    },
+    {
+      "before": "木似茶KT　，高五、七尺",
+      "after": "木似茶𣗪，高五、七尺",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "木似茶𣗪"
+    },
+    {
+      "before": "如熏KT　著外腎，以黃丹塗",
+      "after": "如熏匽著外腎，以黃丹塗",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "熏匽著外腎"
+    },
+    {
+      "before": "昔有神巫曰，瑤KT　，能符，劾百鬼",
+      "after": "昔有神巫曰，瑤㲘，能符，劾百鬼",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "神巫瑤㲘"
+    },
+    {
+      "before": "去毛細切，作　KT　極熟吃之",
+      "after": "去毛細切，作　𦽅極熟吃之",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "완문은 作腤𦽅; 전각공백은 유지하고 명시 KT만 𦽅으로 복원"
+    },
+    {
+      "before": "端如瑪KT　紅玉者最善",
+      "after": "端如瑪䭸紅玉者最善",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "瑪䭸紅玉"
+    },
+    {
+      "before": "又有KT　，亦是其類，微小而黃",
+      "after": "又有𪀢鶹，亦是其類，微小而黃",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "又有𪀢鶹"
+    },
+    {
+      "before": "鹽淹之作KT　，有氣味。和酢食之",
+      "after": "鹽淹之作𧓺，有氣味。和酢食之",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "作𧓺"
+    },
+    {
+      "before": "《山海經》云：KT　，彘身人面",
+      "after": "《山海經》云：貐，彘身人面",
+      "expected_count": 1,
+      "reason": "jicheng.tw 및 《山海經》 인용 대조",
+      "evidence_note": "貐，彘身人面"
+    },
+    {
+      "before": "黃KT　，遍身黃色，腹下有臍帶",
+      "after": "黃𧋷，遍身黃色，腹下有臍帶",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "黃𧋷"
+    },
+    {
+      "before": "圖經曰：馬刀，生江湖池澤及東海，今處處有之。　KT　（亦謂之蚌",
+      "after": "圖經曰：馬刀，生江湖池澤及東海，今處處有之。　蝏䗒（亦謂之蚌",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "馬刀는 蝏䗒之類"
+    },
+    {
+      "before": "一名畢KT　伽，一名覆盆子",
+      "after": "一名畢㮙伽，一名覆盆子",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "畢㮙伽"
+    },
+    {
+      "before": "戎菽一名驢豆，一名KT　豆",
+      "after": "戎菽一名驢豆，一名䬪豆",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "一名䬪豆"
+    },
+    {
+      "before": "又云糗，一名KT　（昌少切）",
+      "after": "又云糗，一名𪍑（昌少切）",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "糗一名𪍑"
+    },
+    {
+      "before": "又有KT　根，細而過辛，不宜服之",
+      "after": "又有𦯼根，細而過辛，不宜服之",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "𦯼根"
+    },
+    {
+      "before": "東人呼為KT　（音魚），以其似蘇字",
+      "after": "東人呼為䔡（音魚），以其似蘇字",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "䔡音魚"
+    },
+    {
+      "before": "野生者，又名KT　苣。今人家常食為白苣",
+      "after": "野生者，又名𥚹苣。今人家常食為白苣",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "野苣又名𥚹苣"
+    },
+    {
+      "before": "小兒白禿髮不生，汁出，KT　痛",
+      "after": "小兒白禿髮不生，汁出，濿痛",
+      "expected_count": 1,
+      "reason": "jicheng.tw 완문 대조",
+      "evidence_note": "汁出濿痛"
     }
   ],
   "C/C011.txt": [
