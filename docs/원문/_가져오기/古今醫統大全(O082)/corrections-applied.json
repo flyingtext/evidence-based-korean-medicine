@@ -14558,5 +14558,12 @@
     "reason": "《素問》 오미소상 평행문 대조",
     "evidence_url": "https://pdf.fengshui86.com/wzpdf/4842377.pdf",
     "evidence_note": "독립 공개 자료가 동일 구절을 肉胝䐢而唇揭로 제시한다."
+  },
+  {
+    "before": "公博古好善，以HT　寫訛舛，則不無誤人",
+    "after": "公博古好善，以謄寫訛舛，則不無誤人",
+    "expected_count": 1,
+    "reason": "공개된 《古今醫統大全》 동일 서문의 평행문에서 '以謄寫訛舛'을 직접 확인하여 HT와 동반 전각 결자 2좌표를 謄 한 글자로 복원",
+    "evidence_url": "https://www.shidianguji.com/zh/book/HY5790/chapter/1kzwefctdg5c0"
   }
 ]

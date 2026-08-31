@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "before": "唇裡生瘡。目視KT　KT　。此是驚黃",
+    "after": "唇裡生瘡。目視䀮䀮。此是驚黃",
+    "expected_count": 1,
+    "reason": "目視가 흐릿함을 나타내는 고정 의학 용례 䀮䀮이며 《靈樞》 및 다수 공개 평행문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
+  },
+  {
+    "before": "臟氣起臥少腹玉莖目視KT　KT　。心中怵惕",
+    "after": "臟氣起臥少腹玉莖目視䀮䀮。心中怵惕",
+    "expected_count": 1,
+    "reason": "같은 視物昏蒙 병후에서 ‘目視䀮䀮’가 고정 술어이며 공개 경맥 평행문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
+  }
+]

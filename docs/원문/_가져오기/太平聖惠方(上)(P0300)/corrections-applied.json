@@ -2926,5 +2926,29 @@
     "reason": "동일 권 처방의 반복 약재명과 독립 전사 대조",
     "evidence_url": "https://cloudtcm.com/shu/t1/85/514",
     "evidence_note": "《太平聖惠方》 공개 전사가 蒼耳子·羊桃根과 함께 쓰인 동일 약재를 蒴藋으로 수록한다. 30곳 모두 처방명 또는 약재 목록의 같은 항목이다."
+  },
+  {
+    "before": "豬KT　",
+    "after": "豬胰",
+    "expected_count": 17,
+    "evidence": "17곳 모두 酒方 또는 세면·미용 처방의 동일 동물성 약재이며, 『備急千金要方』의 평행 처방도 ‘豬胰（三具）’, ‘豬胰（五具細切）’로 전한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "豬KT（六具細切上件藥",
+    "after": "豬胰（六具細切上件藥",
+    "expected_count": 1,
+    "evidence": "같은 세면 처방군의 평행문이 豬胰를 사용하고 ‘豬胰（兩具大者細切）’ 등으로 전한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+  },
+  {
+    "before": "苣KT　",
+    "after": "苣蕂",
+    "expected_count": 4,
+    "evidence": "네 곳 모두 백발을 검게 하는 연속 처방군의 동일 약재이며 공개 聖惠方 전사도 ‘苣蕂（二斤）’으로 전한다: https://cloudtcm.com/library/85/339792"
+  },
+  {
+    "before": "若加以風熱乘之。則HT成",
+    "after": "若加以風熱乘之。則𩊅成",
+    "expected_count": 1,
+    "evidence": "『太平聖惠方』 권36의 동일 耳耵聹 조문이 ‘若加以風熱乘之。則𩊅成丸核塞耳’로 전한다: https://cloudtcm.com/shu/t1/85/869"
   }
 ]

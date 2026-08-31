@@ -68833,6 +68833,30 @@
       "reason": "동일 권 처방의 반복 약재명과 독립 전사 대조",
       "evidence_url": "https://cloudtcm.com/shu/t1/85/514",
       "evidence_note": "《太平聖惠方》 공개 전사가 蒼耳子·羊桃根과 함께 쓰인 동일 약재를 蒴藋으로 수록한다. 30곳 모두 처방명 또는 약재 목록의 같은 항목이다."
+    },
+    {
+      "before": "豬KT　",
+      "after": "豬胰",
+      "expected_count": 17,
+      "evidence": "17곳 모두 酒方 또는 세면·미용 처방의 동일 동물성 약재이며, 『備急千金要方』의 평행 처방도 ‘豬胰（三具）’, ‘豬胰（五具細切）’로 전한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "豬KT（六具細切上件藥",
+      "after": "豬胰（六具細切上件藥",
+      "expected_count": 1,
+      "evidence": "같은 세면 처방군의 평행문이 豬胰를 사용하고 ‘豬胰（兩具大者細切）’ 등으로 전한다: https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+    },
+    {
+      "before": "苣KT　",
+      "after": "苣蕂",
+      "expected_count": 4,
+      "evidence": "네 곳 모두 백발을 검게 하는 연속 처방군의 동일 약재이며 공개 聖惠方 전사도 ‘苣蕂（二斤）’으로 전한다: https://cloudtcm.com/library/85/339792"
+    },
+    {
+      "before": "若加以風熱乘之。則HT成",
+      "after": "若加以風熱乘之。則𩊅成",
+      "expected_count": 1,
+      "evidence": "『太平聖惠方』 권36의 동일 耳耵聹 조문이 ‘若加以風熱乘之。則𩊅成丸核塞耳’로 전한다: https://cloudtcm.com/shu/t1/85/869"
     }
   ],
   "P/P0301.txt": [
@@ -72795,6 +72819,24 @@
       "reason": "《內經》 안증 평행문 대조",
       "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
       "evidence_note": "공개 concordance가 目䀮䀮 및 無所見의 결합을 확인한다."
+    },
+    {
+      "before": "苣KT　",
+      "after": "苣蕂",
+      "expected_count": 17,
+      "evidence": "문헌 내 기존 확정 규칙이 같은 약재를 苣蕂로 복원하며, 聖惠方 인용문 ‘黑豆　苣蕂〈各三合〉　訶黎勒皮’도 일치한다: https://zh.wikisource.org/zh/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7098"
+    },
+    {
+      "before": "[h3]神仙服苣KT法[/h3]",
+      "after": "[h3]神仙服苣蕂法[/h3]",
+      "expected_count": 1,
+      "evidence": "인접 처방의 동일 약재가 모두 苣蕂이며, 공개 고전 전사에서도 苣蕂를 延年·駐形神 약물로 적는다: https://zh.wikisource.org/zh/%E9%9B%B2%E7%AC%88%E4%B8%83%E7%B1%96_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83%E5%8D%81%E5%9B%9B"
+    },
+    {
+      "before": "川升麻（三兩）　苣KT（五兩）",
+      "after": "川升麻（三兩）　苣蕂（五兩）",
+      "expected_count": 1,
+      "evidence": "동일 문헌의 기존 규칙과 공개 평행 처방에서 약재명이 苣蕂로 고정된다: https://zh.wikisource.org/zh/%E9%9B%B2%E7%AC%88%E4%B8%83%E7%B1%96_%28%E5%9B%9B%E9%83%A8%E5%8F%A2%E5%88%8A%E6%9C%AC%29/%E5%8D%B7%E7%AC%AC%E4%B8%83%E5%8D%81%E5%9B%9B"
     }
   ],
   "P/P0400.txt": [
@@ -127154,6 +127196,22 @@
       "evidence_url": "https://ctext.org/wiki.pl?chapter=238913&if=gb",
       "evidence_note": "《普濟方》의 동일 안질 술어 ‘眼䀮䀮不明’이 직접 확인됨.",
       "reason": "《普濟方》의 동일 안질 술어 ‘眼䀮䀮不明’이 직접 확인됨."
+    }
+  ],
+  "P/P0503.txt": [
+    {
+      "before": "唇裡生瘡。目視KT　KT　。此是驚黃",
+      "after": "唇裡生瘡。目視䀮䀮。此是驚黃",
+      "expected_count": 1,
+      "reason": "目視가 흐릿함을 나타내는 고정 의학 용례 䀮䀮이며 《靈樞》 및 다수 공개 평행문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
+    },
+    {
+      "before": "臟氣起臥少腹玉莖目視KT　KT　。心中怵惕",
+      "after": "臟氣起臥少腹玉莖目視䀮䀮。心中怵惕",
+      "expected_count": 1,
+      "reason": "같은 視物昏蒙 병후에서 ‘目視䀮䀮’가 고정 술어이며 공개 경맥 평행문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E7%B5%A1%E5%85%A8%E6%9B%B8/index.html"
     }
   ]
 }

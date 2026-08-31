@@ -40,5 +40,11 @@
     "expected_count": 1,
     "evidence": "외부에 열성 종창이 드러난다는 외과 정형어 焮腫.",
     "reason": "외부에 열성 종창이 드러난다는 외과 정형어 焮腫."
+  },
+  {
+    "before": "皮）　苣KT　子　川烏頭",
+    "after": "皮）　苣蕂子　川烏頭",
+    "expected_count": 1,
+    "evidence": "苣蕂는 胡麻의 고전 약명이며 『證治準繩』의 聖惠方 인용에도 ‘黑豆　苣蕂〈各三合〉　訶黎勒皮’로 확인된다: https://zh.wikisource.org/zh/%E8%AD%89%E6%B2%BB%E6%BA%96%E7%B9%A9_%28%E5%9B%9B%E5%BA%AB%E5%85%A8%E6%9B%B8%E6%9C%AC%29/%E5%8D%B7098"
   }
 ]

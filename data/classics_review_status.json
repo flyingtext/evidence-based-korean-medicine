@@ -3472,9 +3472,9 @@
     },
     "D/D021.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28181,
+      "unresolved_candidates": 28179,
       "punctuation_status": "source_present",
-      "note": "신규 규칙은 1·1·1·2·1·1회 고유 일치하고 비중첩이며 KT 12개를 해소. 잔여 후보 28181자리."
+      "note": "고유 약재명 苣蕂子의 KT+전각 공백 2자리만 평행문으로 확정했다. 나머지 KT는 안색·소아병·골명·의태어 등이 혼재하므로 전역 치환하지 않는다."
     },
     "D/D022.txt": {
       "collation_status": "in_progress",
@@ -4168,9 +4168,9 @@
     },
     "O/O082.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 35043,
+      "unresolved_candidates": 35041,
       "punctuation_status": "source_present",
-      "note": "䀮䀮 두 곳과 䐢를 복원했다. 남은 표지는 침구 주치·희귀 해부자·서명·지명 등에 분산되어 보류했다. 잔여 후보 35043자리."
+      "note": "현 status 35043에서 동일 서문 평행문으로 확정된 HT 1좌표와 동반 전각 결자 1좌표만 차감했다. 나머지 표지는 침구 주치·희귀 해부자·서명·지명 등에 분산되어 보류한다."
     },
     "O/O073.txt": {
       "collation_status": "in_progress",
@@ -4360,15 +4360,15 @@
     },
     "P/P0300.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28781,
+      "unresolved_candidates": 28737,
       "punctuation_status": "source_present",
-      "note": "반복 약재명 蒴藋 30곳을 복원했다. 남은 표지는 다양한 약재·도량형·동작어이므로 일괄 치환하지 않았다. 잔여 후보 28781자리."
+      "note": "평행 처방으로 豬胰 18곳(전각 공백 동반 17곳), 苣蕂 4곳, 耵聹 조문의 𩊅 1곳을 확정하여 총 44개 후보 좌표를 해소했다. 다른 KT는 약재·도량형·동작·시각 증상이 혼재하므로 보류한다."
     },
     "P/P0301.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28513,
+      "unresolved_candidates": 28477,
       "punctuation_status": "source_present",
-      "note": "襁 두 곳과 䀮䀮 한 곳을 복원했다. 나머지는 희귀 약재·동물 부위·동작어가 혼재한다. 잔여 후보 28513자리."
+      "note": "모든 苣KT 출현이 처방명·약물 목록·복용법에서 동일 약재 苣蕂를 뜻함을 확인했다. 전각 공백을 동반한 17곳은 각 2자리, 비동반 2곳은 각 1자리로 총 36개 후보 좌표를 해소했다. 다른 KT는 서로 다른 부위·약재·동작어라 보류한다."
     },
     "P/P0400.txt": {
       "collation_status": "in_progress",
@@ -4398,37 +4398,37 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 34054,
       "punctuation_status": "source_present",
-      "note": "신규 규칙은 1·5·8·1·1·1·1·5·1·1회 고유 일치하고 비중첩. HT 2개·KT 42개 해소. 잔여 후보 34054자리."
+      "note": "현 status 34054를 유지한다. 남은 KT·HT·전각 공백은 안과 희귀자, 병명, 신명, 약물·곡물명 등 서로 다른 글자를 나타내며 독립 원문에서 직접 확정되지 않은 자리는 보류한다."
     },
     "P/P0501.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 40075,
       "punctuation_status": "source_present",
-      "note": "마크다운 태그 경계를 가로지르는 별도 目視 결자는 변환 단계의 좌표 안정성을 위해 보류함. 잔여 후보 40075자리."
+      "note": "현 status 40075를 유지한다. 남은 HT·KT는 약재·용기·인명·동작어가 혼재하고, 태그 경계를 가로지르는 目視 결자는 좌표 안정성 때문에 보류한다."
     },
     "P/P0502.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 37513,
       "punctuation_status": "source_present",
-      "note": "평행 원전으로 직접 확정되는 䀮䀮 1구절과 几几 4구절만 제안함. 잔여 후보 37513자리."
+      "note": "현 status 37513을 유지한다. 남은 KT는 噦·咳逆 관련 술어, 병명, 약재·동물명 등에 서로 다른 뜻으로 쓰여 동일 코드 의미가 전 출현에서 고정되지 않는다."
     },
     "P/P0503.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43727,
+      "unresolved_candidates": 43719,
       "punctuation_status": "source_present",
-      "note": "朱橚 1406년 명대 관찬 普濟方 연속 권차, 권리 안전. 동일 판본 전문 확보 전 공백43682·KT45 전량 보류"
+      "note": "현 status 43727에서 태그 경계를 건너지 않는 두 目視䀮䀮 occurrence의 KT 4좌표와 동반 전각공백 4좌표만 차감했다. 나머지 目視 결자와 반복 본초명은 보류한다."
     },
     "P/P0504.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 34168,
       "punctuation_status": "source_present",
-      "note": "문맥상 후보는 다수 있으나 독립 원문에서 해당 구절을 직접 확정하지 못해 보수적으로 전건 보류함. 잔여 후보 34168자리."
+      "note": "현 status 34168을 유지한다. 같은 KT 코드가 병증·약재·동물명·처방명 등 여러 의미로 쓰이므로 반복만으로 규칙화하지 않았고, 동일 판본의 해당 구절을 직접 확인하지 못한 후보는 전건 보류한다."
     },
     "P/P0505.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 43288,
       "punctuation_status": "source_present",
-      "note": "같은 처방 설명 안에서 반복된 시각 혼몽 표현 2건만 䀮䀮로 제안함. 잔여 후보 43288자리."
+      "note": "현 status 43288을 유지한다. 남은 KT는 신체 부위·약재·동식물명·동작어와 태그 경계 결자가 혼재하여 전역 코드 규칙으로 확정할 수 없다."
     },
     "P/P0506.txt": {
       "collation_status": "in_progress",
