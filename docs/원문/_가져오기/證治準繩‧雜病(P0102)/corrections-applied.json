@@ -4478,5 +4478,117 @@
     "after": "（睘音瓊。）目系絕",
     "expected_count": 1,
     "reason": "바로 앞 睘의 음을 瓊이라 명시한 자체 음주."
+  },
+  {
+    "before": "肝虛則目KT　KT　，KT　無所見",
+    "after": "肝虛則目䀮䀮，䀮䀮無所見",
+    "expected_count": 1,
+    "reason": "《靈樞》 직접 인용의 정형문 ‘肝虛則目䀮䀮無所見’. 반복된 䀮䀮을 문장 단위로 복원.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "大風暴發，目視KTKT　。此風勝",
+    "after": "大風暴發，目視䀮䀮。此風勝",
+    "expected_count": 1,
+    "reason": "운기 경문의 정형어 ‘目視䀮䀮’.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "經云：肝虛則目KT　KT　無所見，耳汨汨",
+    "after": "經云：肝虛則目䀮䀮無所見，耳汨汨",
+    "expected_count": 1,
+    "reason": "《靈樞》 직접 인용 ‘肝虛則目䀮䀮無所見’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "坐而欲起，目KT　KT　如無所見。又云",
+    "after": "坐而欲起，目䀮䀮如無所見。又云",
+    "expected_count": 1,
+    "reason": "足少陰 경맥 병후의 정형문 ‘目䀮䀮如無所見’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "起則目KT　KT無所見者，陰內奪故目KT　KT　無所見也",
+    "after": "起則目䀮䀮無所見者，陰內奪故目䀮䀮無所見也",
+    "expected_count": 1,
+    "reason": "《靈樞》 해설의 동일 어구가 한 문장에 두 번 반복된다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "　KT　弱小以薄者心脆，肩背薄者肺脆",
+    "after": "　𩩲𩨗弱小以薄者心脆，肩背薄者肺脆",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》 직접 인용 ‘𩩲𩨗弱小以薄者，心脆’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E_%E6%A2%9D%E5%88%97%E7%89%88/index.html"
+  },
+  {
+    "before": "目必損壞，輕則HT　凸，重則結毒",
+    "after": "目必損壞，輕則枯凸，重則結毒",
+    "expected_count": 1,
+    "reason": "중증 안질의 정형 병명 ‘枯凸’이며 뒤 문단에도 ‘外為枯凸’이 명시된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "青黃牒出HT　凸之禍。凡見白珠",
+    "after": "青黃牒出枯凸之禍。凡見白珠",
+    "expected_count": 1,
+    "reason": "안구 고손의 정형 병명 ‘枯凸’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "失治者，目有HT　凸之患。（通脾",
+    "after": "失治者，目有枯凸之患。（通脾",
+    "expected_count": 1,
+    "reason": "같은 안과 장절에서 반복되는 ‘枯凸之患’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "止可救其HT凸而已。（知母飲子",
+    "after": "止可救其枯凸而已。（知母飲子",
+    "expected_count": 1,
+    "reason": "직전 장절의 ‘外為枯凸’과 일치하는 정형 병명.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "膏盡珠HT　。有因自破牒出",
+    "after": "膏盡珠枯。有因自破牒出",
+    "expected_count": 1,
+    "reason": "神膏가 다하여 눈알이 마른다는 병기 문맥의 ‘珠枯’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "但可免其HT　凸而已。珠上膏水",
+    "after": "但可免其枯凸而已。珠上膏水",
+    "expected_count": 1,
+    "reason": "같은 문단에 반복되는 안질명 ‘枯凸’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "等證之重而目HT　凸者，有餘邪",
+    "after": "等證之重而目枯凸者，有餘邪",
+    "expected_count": 1,
+    "reason": "중증 안질의 결과를 가리키는 정형 병명 ‘目枯凸’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "凝脂翳、黃膜上衝、痕HT　成窟",
+    "after": "凝脂翳、黃膜上衝、痕陷成窟",
+    "expected_count": 1,
+    "reason": "각막 손상의 ‘痕陷’이 심해져 구멍을 이룬다는 병기 문맥.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "凡風輪有痕HT　者，點服不久",
+    "after": "凡風輪有痕陷者，點服不久",
+    "expected_count": 1,
+    "reason": "안과 병명 ‘痕陷’의 고정 결합.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
+  },
+  {
+    "before": "芒刺金石棱角之物，失取礙久及擦重者，則壞損輪膏，如痕HT　凝脂等病",
+    "after": "芒刺金石棱角之物，失取礙久及擦重者，則壞損輪膏，如痕陷凝脂等病",
+    "expected_count": 1,
+    "reason": "이물 손상 뒤 생기는 안과 병증의 병렬 ‘痕陷、凝脂’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E7%B6%B1%E7%9B%AE/index.html"
   }
 ]

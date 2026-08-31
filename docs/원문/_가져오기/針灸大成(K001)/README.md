@@ -7,7 +7,7 @@
 - 원본 파일: `K/K001.txt`
 - SHA-256: `df4bd52e7d270098a39ac2cdf1039e9619c3dae4ef0f7e574555b3df55f917f8`
 - 更新: 2010年2月13日
-- 인터넷 대조 교정: 348건 (`corrections-applied.json` 참조)
+- 인터넷 대조 교정: 366건 (`corrections-applied.json` 참조)
 - 교감 상태: 인터넷 판본 1차 결자 대조 완료·전면 교감 전
 
 ## 원문 목차

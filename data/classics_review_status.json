@@ -92,9 +92,11 @@
     },
     "K/K001.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 4221,
+      "unresolved_candidates": 4149,
       "punctuation_status": "source_present",
-      "note": "현 status 4231에서 䀮䀮 두 occurrence의 KT·동반 공백 8좌표와 李醯의 HT·동반 공백 2좌표만 차감했다. 나머지 희귀 자형은 별도 판독을 위해 보류한다."
+      "note": "HEAD K001 기존 교정 348개 expected_count 전부 검증 후 적용. 잔여는 HT 17, KT 66, 전각공백 4138회였다. 같은 KT가 䀮·几·𦛗·㰦·髃·摔 및 복수자 별명 𩩲𩨗을 대신하므로 occurrence-specific 규칙으로 분리했다. 총 72개 명시 표지(HT 8, KT 64)를 복원하여 status 4221에서 remaining_count 4149. KT 2개(교감 주석 속 불명 쌍)와 HT 9개(소아 지문 도형 7개 및 판독 불충분 2개)는 보류. 모든 전각공백 유지.",
+      "remaining_count": 4149,
+      "status": "in_progress"
     },
     "K/K003.txt": {
       "collation_status": "in_progress",
@@ -554,9 +556,11 @@
     },
     "A/A010.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 957,
+      "unresolved_candidates": 946,
       "punctuation_status": "source_present",
-      "note": "기존 remaining 971에서 확정 가능한 KT 10개, HT 2개, 비조판 전각공백 2개만 차감했다. 淬HT, 皮HT, 雍作KT 등 판본 영상 없이는 확정하기 어려운 표식과 기존 감사의 비조판 전각공백은 보류했다."
+      "note": "HEAD 기존 교정 후 실제 명시 표지 13개 중 공개 《黃帝素問直解》·직접 경문·자체 음주로 11좌표 교감. 통행본 䯏과 자의가 다른 皮HT 두 좌표는 보류. status 957→946.",
+      "remaining_count": 946,
+      "status": "in_progress"
     },
     "A/A011.txt": {
       "collation_status": "in_progress",
@@ -4404,9 +4408,11 @@
     },
     "P/P0102.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 602,
+      "unresolved_candidates": 578,
       "punctuation_status": "source_present",
-      "note": "초기 HT33·KT20 중 睘 3표지를 직접 인용·자체 음주로 확정. 나머지는 안과 희귀자와 䀮 계열 전사 혼선이 많아 판면 대조 전 보류. FW550. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 602자리로 유지한다."
+      "note": "HEAD 564개 규칙 적용 후 HT 30개, KT 20개가 남았다. 직접 인용과 고정 안질명으로 KT 14개 및 HT 10개, 합계 24개 표지를 안전하게 복원했다. 나머지 HT 20개와 KT 6개 및 전각공백은 유지했다.",
+      "remaining_count": 578,
+      "status": "in_progress"
     },
     "P/P0103.txt": {
       "collation_status": "in_progress",

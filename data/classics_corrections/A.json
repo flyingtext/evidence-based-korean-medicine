@@ -11124,6 +11124,55 @@
       "reason": "貉의 독음을 밝힌 자체 음의로, 貉의 정음 鶴과 문맥상 유일하게 일치한다.",
       "evidence_url": "https://www.zdic.net/hans/%E8%B2%89",
       "expected_count": 1
+    },
+    {
+      "before": "寰，舊本訛HT　，今改。",
+      "after": "寰，舊本訛環，今改。",
+      "expected_count": 1,
+      "reason": "교감문 자체가 寰으로 고친 구자형을 확정",
+      "evidence": "《素問·診要經終論》 통행본 目環絕系; 본문 寰，舊本訛環"
+    },
+    {
+      "before": "禁犯淬HT　熱食、溫炙衣",
+      "after": "禁犯淬㶼熱食、溫炙衣",
+      "expected_count": 1,
+      "reason": "공개 《黃帝素問直解》 동일 경문",
+      "evidence": "雲端中醫《藏氣法時論》: 禁犯淬㶼熱食、溫炙衣"
+    },
+    {
+      "before": "HT　，音衰。淬HT　熱食",
+      "after": "㶼，音衰。淬㶼熱食",
+      "expected_count": 1,
+      "reason": "직전 경문과 자체 음주 반복",
+      "evidence": "《黃帝素問直解》 淬㶼 및 본문 음주"
+    },
+    {
+      "before": "故禁犯　HT　熱食，溫炙衣",
+      "after": "故禁犯　㶼熱食，溫炙衣",
+      "expected_count": 1,
+      "reason": "동일 문단의 경문 반복",
+      "evidence": "앞 경문 淬㶼熱食"
+    },
+    {
+      "before": "HT　，舊本訛肌，今改。腎者水也",
+      "after": "𦠄，舊本訛肌，今改。腎者水也",
+      "expected_count": 1,
+      "reason": "공개 《黃帝素問直解》 동일 교감문",
+      "evidence": "雲端中醫《風論》: 𦠄，舊本訛肌，今改"
+    },
+    {
+      "before": "雍，作KT　。懸KT　，虛腫之KT　。",
+      "after": "雍，作癰。懸癰，虛腫之癰。",
+      "expected_count": 1,
+      "reason": "자체 동자·자의주로 확정",
+      "evidence": "雍通癰; 懸癰，虛腫之癰"
+    },
+    {
+      "before": "風氣勝，故目視KT　KT　，而氣血不和",
+      "after": "風氣勝，故目視䀮䀮，而氣血不和",
+      "expected_count": 1,
+      "reason": "《素問·氣交變大論》 직접 경문",
+      "evidence": "수운 불급의 복기 병후 目視䀮䀮"
     }
   ],
   "A/A011.txt": [
