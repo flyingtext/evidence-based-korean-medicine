@@ -30,5 +30,26 @@
     "evidence_url": "https://cloudtcm.com/shu/t1/601/104",
     "evidence_note": "『醫學正傳』의 직접 평행 설명이 ‘𩚚與呃通’으로 확인된다.",
     "reason": "『醫學正傳』의 직접 평행 설명이 ‘𩚚與呃通’으로 확인된다."
+  },
+  {
+    "before": "太陽　仆足難行，經曰",
+    "after": "太陽眴仆足難行，經曰",
+    "expected_count": 1,
+    "reason": "직후 《素問·厥論》 인용과 공개 원문이 모두 太陽(巨陽)之厥의 병후를 眴仆로 기록한다.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "足不能行，發為HT　仆，而僵仆倒地",
+    "after": "足不能行，發為眴仆，而僵仆倒地",
+    "expected_count": 1,
+    "reason": "《素問·厥論》의 정형문 ‘足不能行，發為眴仆’과 직접 일치한다.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+  },
+  {
+    "before": "不能省而簡HT　八九帙者",
+    "after": "不能省而簡䎼八九帙者",
+    "expected_count": 1,
+    "reason": "jicheng의 《醫學入門》 동일 集例 문장이 ‘不能省而簡䎼八九帙者’로 온전히 전사되어 있다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%85%A5%E9%96%80/index.html"
   }
 ]

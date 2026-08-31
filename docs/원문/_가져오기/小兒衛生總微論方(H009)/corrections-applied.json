@@ -110,5 +110,12 @@
     "evidence_url": "https://cloudtcm.com/shu/t1/181/196",
     "evidence_note": "같은 장의 䀮䀮 증후와 일치한다.",
     "reason": "같은 장의 䀮䀮 증후와 일치한다."
+  },
+  {
+    "before": "[u]螺肉酒[/u]\n\n治如前。取田螺肉一二十個。作KT　剁酒服之。",
+    "after": "[u]螺肉酒[/u]\n\n治如前。取田螺肉一二十個。作剖剁酒服之。",
+    "expected_count": 1,
+    "reason": "공개 《小兒衛生總微論方》 동일 처방이 ‘取田螺肉一二十個，作剖刴酒服之’로 전해 결자를 剖로 직접 확정한다.",
+    "evidence_url": "https://www.shidianguji.com/mid-page/7622046646109110281"
   }
 ]

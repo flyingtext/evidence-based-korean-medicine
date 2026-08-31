@@ -20225,6 +20225,20 @@
       "expected_count": 2,
       "evidence": "《靈樞·經脈》 족소음경 병후의 정문 ‘目䀮䀮如無所見’과 일치.",
       "reason": "《靈樞·經脈》 족소음경 병후의 정문 ‘目䀮䀮如無所見’과 일치."
+    },
+    {
+      "before": "HT　HT　如羹上肥者，陽氣微也",
+      "after": "瞥瞥如羹上肥者，陽氣微也",
+      "expected_count": 1,
+      "reason": "《傷寒論·辨脈法》의 고정 원문과 다수 공개 판본이 ‘脈瞥瞥如羹上肥者，陽氣微也’로 일치한다.",
+      "evidence_url": "https://aeam.jp/wp/wp-content/uploads/2024/03/shanghanlun.pdf"
+    },
+    {
+      "before": "。　HT　漏，是平肉上生孔竅，出膿血者是也",
+      "after": "。螻蛄漏，是平肉上生孔竅，出膿血者是也",
+      "expected_count": 1,
+      "reason": "원출전 《外科啟玄》의 병명과 공개 의학 사전의 동일 정의가 모두 螻蛄漏이다.",
+      "evidence_url": "https://cloudtcm.com/dic/7240"
     }
   ],
   "I/I200.txt": [

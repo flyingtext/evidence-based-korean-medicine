@@ -2466,20 +2466,6 @@
     "reason": "六鬱을 푸는 越鞠丸의 蒼朮·香附 설명. https://www.scm.cuhk.edu.hk/en-gb/elearning-platform/chinese-medicine-texts-collection-2/chinese-medicine-texts-collection-3/2024-07-03-e-learning/2024-07-03-e-learning-6/"
   },
   {
-    "before": "身體強，KTKT　然",
-    "after": "身體強，几几然",
-    "expected_count": 1,
-    "evidence": "栝蔞桂枝湯 전승 원문 身體強几几然.",
-    "reason": "栝蔞桂枝湯 전승 원문 身體強几几然."
-  },
-  {
-    "before": "項背強KT　KT　",
-    "after": "項背強几几",
-    "expected_count": 1,
-    "evidence": "葛根湯 전승 원문 項背強几几.",
-    "reason": "葛根湯 전승 원문 項背強几几."
-  },
-  {
     "before": "肉胝KT　而唇揭",
     "after": "肉胝䐢而唇揭",
     "expected_count": 1,
@@ -2492,5 +2478,19 @@
     "expected_count": 1,
     "evidence": "처방 조리 지시의 연동 구문 將豬腰子細批破.",
     "reason": "처방 조리 지시의 연동 구문 將豬腰子細批破."
+  },
+  {
+    "before": "身體強，KTKT　然",
+    "after": "身體強，𠘧𠘧然",
+    "expected_count": 1,
+    "reason": "《金匱要略》 및 다수 공개 평행문에서 身體強𠘧𠘧然을 직접 확인; 기존 几几는 자형 오복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%96%B9%E5%AF%A6%E9%A9%97%E9%8C%84/index.html"
+  },
+  {
+    "before": "項背強KT　KT　，",
+    "after": "項背強𠘧𠘧，",
+    "expected_count": 1,
+    "reason": "《傷寒論》 공개 평행문에서 項背強𠘧𠘧을 직접 확인; 기존 几几는 자形 오복원",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E5%BD%99%E8%A8%BB%E7%B2%BE%E8%8F%AF/index.html"
   }
 ]

@@ -6,5 +6,12 @@
     "reason": "동일 조문 공개 영인 OCR 대조 결자 복원",
     "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/SSID-12500011_%E4%BB%99%E6%96%B9%E5%90%88%E9%9B%86%E4%B8%80.pdf",
     "evidence_note": "用軟縑椀如梗子束兒膝後灣內 계통 확인"
+  },
+  {
+    "before": "此月未有宮羅，在KT　戶之間未入腹內",
+    "after": "此月未有宮羅，在祖戶之間未入腹內",
+    "expected_count": 1,
+    "reason": "공개 영인 《葉天士女科》의 동일 初月胎形 조문에서 祖戶를 직접 확인",
+    "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SSID-13574459_%E8%91%89%E5%A4%A9%E5%A3%AB%E5%A5%B3%E7%A7%91.pdf"
   }
 ]
