@@ -290,9 +290,11 @@
     },
     "D/D005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 6816,
+      "unresolved_candidates": 6778,
       "punctuation_status": "source_present",
-      "note": "기존 642개 규칙 적용 후에도 HT/KT/□가 다수 남지만 일본 전사 고자와 판면 결락이 밀집해 있다. 공개 원전만으로 occurrence 단위 확정이 불가능하여 status를 유지한다."
+      "note": "현 HEAD의 기존 교정 642개를 순차 적용했다. exact before가 사라진 5건은 앞선 규칙이 인접 공백을 먼저 보충해 생긴 중첩으로, 결과 글자는 이미 반영되어 remove 대상이 아니다. 적용 후 명시적 표지는 363좌표였으며 이번에는 공개 평행문과 고정 의약 문맥으로 확정되는 좌표만 순감했다. 전각 공백은 유지했다.",
+      "remaining_count": 6778,
+      "status": "in_progress"
     },
     "D/D008.txt": {
       "collation_status": "in_progress",
@@ -3172,9 +3174,11 @@
     },
     "A/A002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1899,
+      "unresolved_candidates": 1868,
       "punctuation_status": "source_present",
-      "note": "현 status 1925에서 본문·주석이 직접 확정하는 HT 13자리와 그 뒤 결자 전각공백 13자리, 총 26좌표만 차감했다. 원결락 표지와 판본 이체자의 나머지는 보류한다."
+      "note": "현 status 1899에서 직접 인용 고전·본문 자체의 명시적 풀이로 확정되는 HT/KT 31좌표만 차감했다. 동일 토큰이 서로 다른 글자를 나타내므로 occurrence-specific 문맥 규칙만 사용했고, 전각 공백은 모두 유지했다. 기존 교정 적용 후 표식+전각공백 실측은 1900으로 status와 1 차이가 있으나 기준값 1899는 변경하지 않았다.",
+      "remaining_count": 1868,
+      "status": "in_progress"
     },
     "A/A003.txt": {
       "collation_status": "in_progress",
@@ -3624,9 +3628,11 @@
     },
     "E/E014.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 789,
+      "unresolved_candidates": 785,
       "punctuation_status": "source_present",
-      "note": "기존 106개 규칙은 모두 정상 적용된다. HT15·KT5·□215는 부적·주문 및 대규모 판면 파손에 집중되어 영인 판독 전 신규 없음. 검증 applied=106/106, warnings=0, overlaps=0."
+      "note": "기존 106개 교정 적용 산출물을 재검사한 결과 명시 표식은 HT 15·KT 5·□ 215([c]·PUA 0), 합계 235좌표였다. 독립 본초 인용과 《靈樞》 주석본으로 HT 2좌표·KT 2좌표를 확정했다. 나머지는 부적·주문 자형, 조류·병명 이칭, 연속 판면 손상으로 자형 근거가 부족하여 보류한다. 전각 공백은 교정 대상 주변 이외에는 유지했으며 status 789에서 실제 4좌표만 차감했다.",
+      "remaining_count": 785,
+      "status": "in_progress"
     },
     "F/F002.txt": {
       "collation_status": "complete",

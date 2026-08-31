@@ -9115,6 +9115,132 @@
       "after": "悶瞀不醒。五實也。悶音悶瞀木。候反瞀目也。",
       "expected_count": 1,
       "reason": "앞의 완전한 표제어 ‘悶瞀’와 이어지는 음주 ‘音悶’, ‘瞀木候反’이 두 결자를 각각 悶·瞀로 확정한다."
+    },
+    {
+      "before": "起目KT　KT　，如無所見",
+      "after": "起目䀮　䀮　，如無所見",
+      "expected_count": 1,
+      "evidence": "《黃帝內經太素》 해당 문맥과 공개 고전 인용의 고정구 目䀮䀮를 대조했다."
+    },
+    {
+      "before": "故KT　KT　無所見也。莫郎反",
+      "after": "故䀮　䀮　無所見也。莫郎反",
+      "expected_count": 1,
+      "evidence": "반절 莫郎反과 공개 고전 인용의 目䀮䀮 문맥이 일치한다."
+    },
+    {
+      "before": "KT　KT　作　。",
+      "after": "䀮　䀮　作　。",
+      "expected_count": 1,
+      "evidence": "바로 앞 본문·주석의 동일 표제어 䀮䀮를 가리키는 교감주이다."
+    },
+    {
+      "before": "坐起則目KTKT　無所見者",
+      "after": "坐起則目𣆖䀮　無所見者",
+      "expected_count": 1,
+      "evidence": "《備急千金要方》의 직접 인용문 ‘坐起則目𣆖䀮無所見’과 일치한다."
+    },
+    {
+      "before": "故曰目KT　KT　無所見也",
+      "after": "故曰目𣆖　䀮　無所見也",
+      "expected_count": 1,
+      "evidence": "동일 단락의 직접 인용 고전에서 目𣆖䀮로 확인된다."
+    },
+    {
+      "before": "虛則欠KT　，小便遺數",
+      "after": "虛則欠呿　，小便遺數",
+      "expected_count": 1,
+      "evidence": "《靈樞》 고정구 ‘虛則欠呿，小便遺數’와 일치한다."
+    },
+    {
+      "before": "濕而下HT　，陰陽相移",
+      "after": "濕而下漬　，陰陽相移",
+      "expected_count": 1,
+      "evidence": "같은 문장의 교감주가 ‘HT與浸同，漬也’라고 직접 풀이한다."
+    },
+    {
+      "before": "故津液HT　根",
+      "after": "故津液漬　根",
+      "expected_count": 1,
+      "evidence": "같은 문장의 교감주가 해당 글자를 漬라고 직접 풀이한다."
+    },
+    {
+      "before": "平按：濕而下HT　《靈樞》",
+      "after": "平按：濕而下漬　《靈樞》",
+      "expected_count": 1,
+      "evidence": "같은 교감주 안의 표제어이며 뒤에서 漬라고 직접 풀이한다."
+    },
+    {
+      "before": "考HT　與浸同，漬也",
+      "after": "考漬　與浸同，漬也",
+      "expected_count": 1,
+      "evidence": "주석 자체가 해당 글자를 漬라고 명시한다."
+    },
+    {
+      "before": "名曰HT　關也",
+      "after": "名曰陽　關也",
+      "expected_count": 1,
+      "evidence": "寒府(膝外解營)의 혈명 陽關 문맥으로 확정된다."
+    },
+    {
+      "before": "《甲乙》作稿HT　，注云：「《黃帝古針經》作稿臘。」",
+      "after": "《甲乙》作稿臘　，注云：「《黃帝古針經》作稿臘。」",
+      "expected_count": 1,
+      "evidence": "바로 뒤 직접 인용문이 같은 어구를 稿臘으로 제시한다."
+    },
+    {
+      "before": "《素問》作病在少腹，刺腹臍以下作刺皮HT　以下",
+      "after": "《素問》作病在少腹，刺腹臍以下作刺皮䯏　以下",
+      "expected_count": 1,
+      "evidence": "《素問》 신교정의 해당 해부명은 皮䯏이며 뒤 설명 ‘骨端’과 일치한다."
+    },
+    {
+      "before": "新校正云：「皮HT　應作皮",
+      "after": "新校正云：「皮䯏　應作皮",
+      "expected_count": 1,
+      "evidence": "신교정 원문과 공개 주석에서 皮䯏로 확인된다."
+    },
+    {
+      "before": "《靈樞》作目HT　脈痛",
+      "after": "《靈樞》作目眥　脈痛",
+      "expected_count": 1,
+      "evidence": "《靈樞》 해당 병증의 고정구 ‘目眥脈痛’과 일치한다."
+    },
+    {
+      "before": "以春病者KT　風，以夏病者多汗",
+      "after": "以春病者惡　風，以夏病者多汗",
+      "expected_count": 1,
+      "evidence": "《素問》 원문 ‘以春病者惡風’ 및 이어지는 주석과 일치한다."
+    },
+    {
+      "before": "（KT　，於路反，畏KT　也",
+      "after": "（惡　，於路反，畏惡　也",
+      "expected_count": 1,
+      "evidence": "반절 於路反과 풀이 畏惡가 글자 惡을 직접 확정한다."
+    },
+    {
+      "before": "頭沉沉然，目KT　KT　然，腰脊強",
+      "after": "頭沉沉然，目䀮　䀮　然，腰脊強",
+      "expected_count": 1,
+      "evidence": "《靈樞》·《甲乙經》 관련 구절과 공개 고전 인용에서 目䀮䀮然으로 확인된다."
+    },
+    {
+      "before": "解脈令人腰痛引膺，目KT　KT　然",
+      "after": "解脈令人腰痛引膺，目䀮　䀮　然",
+      "expected_count": 1,
+      "evidence": "《素問》 腰痛論의 직접 대응 구절 ‘目䀮䀮然’과 일치한다."
+    },
+    {
+      "before": "昌陽之脈令人腰痛，痛引膺，目KT　KT　然",
+      "after": "昌陽之脈令人腰痛，痛引膺，目䀮　䀮　然",
+      "expected_count": 1,
+      "evidence": "《素問》 腰痛論의 직접 대응 구절 ‘目䀮䀮然’과 일치한다."
+    },
+    {
+      "before": "頭沉沉然，目HT　HT　欲僵",
+      "after": "頭沉沉然，目䀮　䀮　欲僵",
+      "expected_count": 1,
+      "evidence": "《素問》·《甲乙經》 대응문 ‘目䀮䀮欲僵仆’로 확인된다."
     }
   ],
   "A/A010.txt": [

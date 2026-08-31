@@ -846,5 +846,23 @@
     "reason": "눈이 어두워 잘 보이지 않는 증상의 고정어이다.",
     "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
     "evidence_note": "《素問》 대조표에서 `目視䀮䀮`을 확인했다."
+  },
+  {
+    "before": "HT　荷汁　治傷寒瘟病，初得頭痛壯熱脈盛者。HT　荷連根葉搗，絞汁服。",
+    "after": "蘘荷汁　治傷寒瘟病，初得頭痛壯熱脈盛者。蘘荷連根葉搗，絞汁服。",
+    "expected_count": 1,
+    "evidence": "《本草綱目》 계열의 독립 전사가 같은 처방을 `傷寒時氣瘟病，初得頭痛壯熱脈盛者：用生蘘荷根葉，合搗絞汁`로 보존하므로 처방명과 약재 첫 글자는 모두 蘘이다. https://zh.wikisource.org/wiki/欽定古今圖書集成/博物彙編/草木典/第143卷"
+  },
+  {
+    "before": "《靈樞》則謂之KT　，（音噎。）",
+    "after": "《靈樞》則謂之𩜺，（音噎。）",
+    "expected_count": 1,
+    "evidence": "《靈樞識·刺節真邪》의 독립 전사가 해당 글자를 `𩜺`로 보존하고 바로 `𩜺、音噎`이라 주석한다. https://cloudtcm.com/shu/t1/469/202"
+  },
+  {
+    "before": "所謂KT　不得息者是也。",
+    "after": "所謂𩜺不得息者是也。",
+    "expected_count": 1,
+    "evidence": "《靈樞識·刺節真邪》에 같은 경문이 `病惡埃煙𩜺不得息` 및 `𩜺不得息`으로 보존된다. https://cloudtcm.com/shu/t1/469/202"
   }
 ]

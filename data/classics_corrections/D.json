@@ -9158,6 +9158,181 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%BF%83%E6%96%B9/index.html",
       "evidence_note": "D/D005.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "KT　肉端。刺入三分灸三壯。KT　肉謂分肉塊也",
+      "after": "䐃肉端。刺入三分灸三壯。䐃肉謂分肉塊也",
+      "expected_count": 1,
+      "reason": "臂臑穴의 해부 위치와 자체 주석이 모두 䐃肉을 가리킨다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "胸中KT　滿",
+      "after": "胸中支滿",
+      "expected_count": 1,
+      "reason": "흉중이 그득하고 막히는 침구 주치어 胸中支滿이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "胸脅KT　滿",
+      "after": "胸脅支滿",
+      "expected_count": 1,
+      "reason": "침구 주치의 고정 증후 胸脅支滿이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "胸脅KT滿",
+      "after": "胸脅支滿",
+      "expected_count": 3,
+      "reason": "동일 혈위 목록에서 반복되는 고정 증후 胸脅支滿이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "小KT　",
+      "after": "小衰　",
+      "expected_count": 8,
+      "reason": "《考命書》 八卦法 공개 평행문이 각 괘의 해당 항목을 小衰로 직접 전한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT日時",
+      "after": "衰日時",
+      "expected_count": 2,
+      "reason": "같은 八卦法 공개 평행문의 항목명은 衰日時이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　離。（年一、八、十六",
+      "after": "☲離。（年一、八、十六",
+      "expected_count": 1,
+      "reason": "공개 평행문이 離 앞의 괘상을 ☲로 직접 제시한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　坤。（年二、九、十七",
+      "after": "☷坤。（年二、九、十七",
+      "expected_count": 1,
+      "reason": "공개 평행문이 坤 앞의 괘상을 ☷로 직접 제시한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　兌卦。（年三、十、十八",
+      "after": "☱兌卦。（年三、十、十八",
+      "expected_count": 1,
+      "reason": "공개 평행문이 兌 앞의 괘상을 ☱로 직접 제시한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　乾。（年四、十一、十九",
+      "after": "☰乾。（年四、十一、十九",
+      "expected_count": 1,
+      "reason": "공개 평행문이 乾 앞의 괘상을 ☰로 직접 제시한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　艮。（六、十三、二十一",
+      "after": "☶艮。（六、十三、二十一",
+      "expected_count": 1,
+      "reason": "八卦 순서와 공개 평행문에 따른 艮 괘상 ☶이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　震。（七、十四、二十二",
+      "after": "☳震。（七、十四、二十二",
+      "expected_count": 1,
+      "reason": "八卦 순서와 공개 평행문에 따른 震 괘상 ☳이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "KT　巽。（年十五、二十三",
+      "after": "☴巽。（年十五、二十三",
+      "expected_count": 1,
+      "reason": "八卦 순서와 공개 평행문에 따른 巽 괘상 ☴이다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=560966&if=gb"
+    },
+    {
+      "before": "野狼HT　子三升",
+      "after": "野狼毒子三升",
+      "expected_count": 1,
+      "reason": "癲疾 처방 약재 狼毒子이며 앞의 野狼은 狼의 중복 표기다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "取HT　宕子，燒",
+      "after": "取莨宕子，燒",
+      "expected_count": 1,
+      "reason": "치통 훈증에 쓰는 약재 莨菪子의 본문 이체 표기 莨宕子이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "[h3]治唇面KT方第四十二[/h3]",
+      "after": "[h3]治唇面皴方第四十二[/h3]",
+      "expected_count": 1,
+      "reason": "다음 처방이 원행 중 입술과 얼굴의 갈라짐을 다루므로 篇名은 唇面皴이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "治遠行唇口面KT　裂方",
+      "after": "治遠行唇口面皴裂方",
+      "expected_count": 1,
+      "reason": "돼지기름을 발라 예방하는 병증의 고정어 面皴裂이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "檳榔KT　為灰，敷上",
+      "after": "檳榔燒　為灰，敷上",
+      "expected_count": 1,
+      "reason": "檳榔을 태워 재로 만들어 바르는 처치문이므로 燒為灰이다. 기존 전각 공백은 유지했다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "常宜含豆KT　即愈",
+      "after": "常宜含豆蔻　即愈",
+      "expected_count": 1,
+      "reason": "구취에 입에 머금는 향신 약재 豆蔻이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "陟KT　紙二十枚，水KT　之",
+      "after": "陟厘　紙二十枚，水漬　之",
+      "expected_count": 1,
+      "reason": "약재·종이명 陟厘紙를 물에 담그는 조제문 ‘水漬之’이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "冬日溫足凍KT　，春秋KT　足俱凍",
+      "after": "冬日溫足凍腦　，春秋腦　足俱凍",
+      "expected_count": 1,
+      "reason": "양생 금기의 신체 부위 병렬 ‘冬日溫足凍腦，春秋腦足俱凍’ 공개 전사와 일치한다.",
+      "evidence": "https://ctext.org/wiki.pl?if=gb&res=156143"
+    },
+    {
+      "before": "恆須KT　目，非有要事不肯輒開",
+      "after": "恆須瞑　目，非有要事不肯輒開",
+      "expected_count": 1,
+      "reason": "눈을 보호하기 위해 늘 눈을 감는다는 문맥의 瞑目이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "KT　其氣，所以全其身",
+      "after": "嗇　其氣，所以全其身",
+      "expected_count": 1,
+      "reason": "《抱朴子》 양생 인용의 고정구 ‘嗇其氣，所以全其身’이다.",
+      "evidence": "https://ctext.org/baopuzi"
+    },
+    {
+      "before": "以舌熟KT　二七過",
+      "after": "以舌舐齒　二七過",
+      "expected_count": 1,
+      "reason": "새벽 양생법에서 혀로 이를 핥는 동작 舐齒이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
+    },
+    {
+      "before": "肉淖KT　澤，清白薄膚",
+      "after": "肉淖而　澤，清白薄膚",
+      "expected_count": 1,
+      "reason": "형용 병렬의 고정 구문 ‘肉淖而澤’이다.",
+      "evidence": "https://www.zysj.com.cn/lilunshuji/yixinfang/quanben.html"
     }
   ],
   "D/D008.txt": [
