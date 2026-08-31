@@ -448,7 +448,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 169,
       "punctuation_status": "source_present",
-      "note": "미해결 447개 중 문헌 전 출현과 자매본·공개 類經이 함께 고정하는 278개만 해소했다. 나머지 코드는 자매본도 결자이거나 전 출현 확정 근거가 부족해 보류했다."
+      "note": "기존 교정 적용 후 remaining 169에서 전 출현이 고정되는 89개를 추가 해소한다. hovbu 등 문맥별 대응자가 갈리는 코드는 제외했다.",
+      "remaining_count": 80,
+      "status": "in_progress"
     },
     "B/B001.txt": {
       "collation_status": "in_progress",
@@ -2988,7 +2990,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2260,
       "punctuation_status": "source_present",
-      "note": "미해결 2443개 중 공개 本經疏證 전사와 전 출현 문맥이 고정되는 183개만 해소했다. 나머지는 희귀 약명·이체자별 개별 정렬이 필요하다."
+      "note": "기존 교정 적용 후 remaining 2260에서 전 출현이 고정되는 21개를 추가 해소한다. 고빈도라도 원문이 이체자 논의를 보존하거나 판독 근거가 부족한 코드는 보류했다.",
+      "remaining_count": 2239,
+      "status": "in_progress"
     },
     "C/C018a.txt": {
       "collation_status": "complete",
@@ -4110,7 +4114,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 19778,
       "punctuation_status": "source_present",
-      "note": "PUA 전수 집계: 총 558자, 24코드. 확정 20코드/543자: U+EF5F=脅(111), U+EF87=瞤(2), U+EF8A=癧(9), U+EF8D=憹(9), U+EF8E=痓(3), U+EFD6=藁(2), U+EFF9=誤(2), U+EFFF=蝟(1), U+F004=硬(3), U+F018=蟹(1), U+F023=麯(138), U+F02A=芪(238), U+F08E=煅(14), U+F10B=䗪(1), U+F1AC=葉(1), U+F1E7=訛(1), U+F280=虻(2), U+F378=蘖(3), U+F465=𣕌(1), U+F577=豬(1). 보류 4코드/15자: U+EF65(2), U+EF67(2), U+EFD5(10: 疴·症 등 대응이 갈려 전역 매핑 불가), U+F3E6(1). 공개 원문: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html. 현 20321에서 확정 543좌표만 차감했다."
+      "note": "기존 교정 적용 후 잔여 PUA 4코드/15좌표를 전수 대조했다. U+EF65 2좌표는 䐜, U+EF67 2좌표는 䀮, 가변 코드 U+EFD5 10좌표는 문맥별로 疴 7·症 3으로 확정하여 총 14좌표를 해소했다. U+F3E6 1좌표(‘膝□大痛’)는 자매본도 KT이고 공개 평행문이 글자를 생략하거나 ‘膝部’로 의역하여 원판 글자를 유일하게 확정할 수 없어 보류했다. 현 status 19778에서 실제 확정 14좌표만 차감했다.",
+      "remaining_count": 19764,
+      "status": "in_progress"
     },
     "O/O065.txt": {
       "collation_status": "in_progress",
@@ -4254,7 +4260,9 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 186,
       "punctuation_status": "source_present",
-      "note": "현재 미해결 222개에서 전 출현이 고정되는 oitwa 24개와 buyvu 12개만 해소한다. kasm·bjbc·vfohg 등은 자매본도 결자이거나 문맥만으로 전 출현의 동일 글자를 보장할 수 없어 보류한다."
+      "note": "현 status 186은 기존 correction 적용 뒤의 잔여다. 이번에는 O108 자매본과 jicheng 공개본 및 직접 인용된 《內經》 평행문에서 전 출현이 고정되는 신규 15코드 99좌표만 차감했다. 별도 HT·KT·□·U+FFFD 표지는 없었다. KASM·VFOHG·기존 부분 규칙 뒤 남은 KHUC/KMVS 등은 코드 중의성 또는 기존 규칙과의 중첩을 피하기 위해 보류한다.",
+      "remaining_count": 87,
+      "status": "in_progress"
     },
     "O/O128.txt": {
       "collation_status": "complete",

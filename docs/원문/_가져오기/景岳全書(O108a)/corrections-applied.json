@@ -54,5 +54,110 @@
     "reason": "창힐형 코드 buyvu의 12개 전 출현이 目䀮䀮 및 肝虛則目䀮䀮無所見의 중첩 위치이며, 공개 고전 전사의 동일 인용문도 䀮䀮으로 고정된다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
     "evidence_note": "코드 buyvu, 총 12회. 針灸甲乙經·脈經의 동일 문구 肝虛則目䀮䀮無所見과 대조했다."
+  },
+  {
+    "before": "[c]bjbc[/c]",
+    "after": "䐜",
+    "expected_count": 35,
+    "reason": "코드 BJBC 35회가 肌肉䐜脹·憤䐜 등 팽창 의미로 전 출현에서 고정되며 O108 및 공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]srlmi[/c]",
+    "after": "䘌",
+    "expected_count": 13,
+    "reason": "코드 SRLMI 13회가 疳䘌·䘌蟲·乾䘌·濕䘌 등 충식 병증으로 고정되며 공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]klmc[/c]",
+    "after": "㿉",
+    "expected_count": 10,
+    "reason": "코드 KLMC 10회가 㿉陰·內㿉·㿉疝 등 동일 병증자로 고정되고 자매본·공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]hmb[/c]",
+    "after": "眚",
+    "expected_count": 10,
+    "reason": "코드 HMB 10회가 오운 불급문의 ‘其眚東·南·西·北’에만 출현하며 《內經》 인용문과 공개본이 眚으로 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "[c]bwhd[/c]",
+    "after": "䐃",
+    "expected_count": 10,
+    "reason": "코드 BWHD 10회가 䐃破·破䐃脫肉 및 해당 해부 해설로 고정되며 공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]oylc[/c]",
+    "after": "㑊",
+    "expected_count": 4,
+    "reason": "코드 OYLC 4회가 解㑊·食㑊의 《內經》 병명으로 고정되며 평행 경문이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "[c]brhr[/c]",
+    "after": "膂",
+    "expected_count": 3,
+    "reason": "코드 BRHR 3회가 모두 ‘背膂筋痛’의 동일 《內經》 인용문이다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "[c]bfh[/c]",
+    "after": "䏚",
+    "expected_count": 3,
+    "reason": "코드 BFH 3회가 䏚絡·䏚引季脇의 동일 해부자이며 공개 《內經》 평행문이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "[c]romm[/c]",
+    "after": "噏",
+    "expected_count": 2,
+    "reason": "코드 ROMM 2회가 연속어 噏噏然內虛의 두 글자이며 O108과 공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]ksrb[/c]",
+    "after": "頑",
+    "expected_count": 2,
+    "reason": "코드 KSRB 2회가 頑痺 병명으로 고정되며 자매본·공개본이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]kod[/c]",
+    "after": "瘤",
+    "expected_count": 2,
+    "reason": "코드 KOD 2회가 ‘生瘤’와 ‘結一瘤子’의 동일 종괴명으로 고정된다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]bppg[/c]",
+    "after": "䏶",
+    "expected_count": 2,
+    "reason": "코드 BPPG 2회가 처방 약물 雞䏶胵로 고정되며 공개본과 동일하다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]kppa[/c]",
+    "after": "㾬",
+    "expected_count": 1,
+    "reason": "코드 KPPA 1회가 고정 병명 㾬瘧이며 공개본·《內經》 평행문과 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+  },
+  {
+    "before": "[c]clmy[/c]",
+    "after": "䤵",
+    "expected_count": 1,
+    "reason": "코드 CLMY 1회가 안과 자락에 쓰는 䤵鍼이며 공개본과 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+  },
+  {
+    "before": "[c]bpuu[/c]",
+    "after": "䐢",
+    "expected_count": 1,
+    "reason": "코드 BPUU 1회가 《內經》 고정 경문 ‘肉胝䐢而唇揭’이며 평행문이 일치한다.",
+    "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
   }
 ]

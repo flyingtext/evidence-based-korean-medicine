@@ -75,5 +75,40 @@
     "expected_count": 4,
     "reason": "4회 전부 噎症 및 小青龍湯 若噎 문맥으로 고정된다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+  },
+  {
+    "before": "[c]tbde[/c]",
+    "after": "膝",
+    "expected_count": 5,
+    "reason": "5회 모두 약명 牛膝의 둘째 글자로 고정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+  },
+  {
+    "before": "[c]htlm[/c]",
+    "after": "䈽",
+    "expected_count": 5,
+    "reason": "5회 모두 약용 죽종 䈽竹·䈽竹葉이며 공개 본초 전사의 동일 설명과 일치한다.",
+    "evidence_url": "https://www.shidianguji.com/zh/book/DZ0769/chapter/1kd4wcr1id4wa"
+  },
+  {
+    "before": "[c]ksrb[/c]",
+    "after": "頑",
+    "expected_count": 5,
+    "reason": "5회 모두 冷氣頑痹·四肢頑痹·頑痹의 정형 병증으로 고정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+  },
+  {
+    "before": "[c]gmtu[/c]",
+    "after": "脫",
+    "expected_count": 3,
+    "reason": "莢脫乃生葉 및 龜甲片片可脫의 세 출현 모두 脫로 고정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html"
+  },
+  {
+    "before": "[c]bsll[/c]",
+    "after": "蹄",
+    "expected_count": 3,
+    "reason": "3회 모두 산후 하유 약물 豬蹄이며 공개 산과·본초 전사가 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html"
   }
 ]

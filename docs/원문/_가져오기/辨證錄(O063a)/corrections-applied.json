@@ -390,5 +390,77 @@
     "after": "豬",
     "expected_count": 1,
     "evidence": "U+F577, 1회. 五苓散 계열 처방의 ‘人參、豬苓各三錢’으로 고정되며 공개본에서 豬苓 표기가 반복 확인된다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+  },
+  {
+    "before": "",
+    "after": "䐜",
+    "expected_count": 2,
+    "evidence": "U+EF65 2회. Jicheng 공개본 동일 두 조문이 각각 ‘四肢䐜膜脹憤懣’, ‘心脅相連䐜脹’으로 전한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+  },
+  {
+    "before": "",
+    "after": "䀮",
+    "expected_count": 2,
+    "evidence": "U+EF67 2회. 동일 문장 안에서 연속된 ‘兩目䀮䀮’이며, 『辨證錄』의 療瘵湯 조문 및 고전 의서의 고정 시각어 䀮䀮와 문맥이 일치한다."
+  },
+  {
+    "before": "無棄衣而走之，正以濕邪",
+    "after": "無棄衣而走之疴，正以濕邪",
+    "expected_count": 1,
+    "evidence": "Jicheng 동일 痙痓 조문이 ‘無棄衣而走之疴’로 전한다: https://jicheng.tw/tcm/book/%E8%BE%A8%E8%AD%89%E9%8C%84_1/index.html"
+  },
+  {
+    "before": "水積少則成黃癉之，故黃癉",
+    "after": "水積少則成黃癉之疴，故黃癉",
+    "expected_count": 1,
+    "evidence": "Jicheng 동일 腎疸 조문이 ‘水積少則成黃癉之疴’로 전한다."
+  },
+  {
+    "before": "非變為癆瘵之，必成為怯弱",
+    "after": "非變為癆瘵之疴，必成為怯弱",
+    "expected_count": 1,
+    "evidence": "질병을 뜻하는 고유 결합 癆瘵之疴이며 O063 평행문과 일치한다."
+  },
+  {
+    "before": "故能除舊疾而去陳也",
+    "after": "故能除舊疾而去陳疴也",
+    "expected_count": 1,
+    "evidence": "고정 어휘 陳疴이며 O063·공개본 평행문과 일치한다."
+  },
+  {
+    "before": "愈宿疾沉於旦夕耳",
+    "after": "愈宿疾沉疴於旦夕耳",
+    "expected_count": 1,
+    "evidence": "Jicheng 瘰癧 조문의 동일 문장이 ‘宿疾沉疴’로 전한다."
+  },
+  {
+    "before": "雖十載沉，尚可奏功",
+    "after": "雖十載沉疴，尚可奏功",
+    "expected_count": 1,
+    "evidence": "고정 어휘 十載沉疴이며 O063 평행문과 일치한다."
+  },
+  {
+    "before": "滑而兼芤，痰血為；滑而兼緊",
+    "after": "滑而兼芤，痰血為疴；滑而兼緊",
+    "expected_count": 1,
+    "evidence": "脈訣 문맥에서 痰血이 이루는 질병을 뜻하는 疴이며 자매본 문맥과 일치한다."
+  },
+  {
+    "before": "頭痛之，生於浮滑",
+    "after": "頭痛之症，生於浮滑",
+    "expected_count": 1,
+    "evidence": "동일 脈訣 열거에서 반복되는 ‘…之症’ 구조로 자매본과 일치한다."
+  },
+  {
+    "before": "歪斜之，數大可治",
+    "after": "歪斜之症，數大可治",
+    "expected_count": 1,
+    "evidence": "동일 脈訣 열거의 고정 구조 ‘歪斜之症’으로 확인된다."
+  },
+  {
+    "before": "寧非鬱塞之。左寸滑",
+    "after": "寧非鬱塞之症。左寸滑",
+    "expected_count": 1,
+    "evidence": "동일 婦人脈訣 문맥의 ‘鬱塞之症’으로 자매본과 일치한다."
   }
 ]

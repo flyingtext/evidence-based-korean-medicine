@@ -40135,6 +40135,97 @@
       "expected_count": 14,
       "reason": "14회 전부 㿗疝 및 㿉㿗同이라는 자체 주석으로 확정된다.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bbapv[/c]",
+      "after": "𩩲",
+      "expected_count": 16,
+      "reason": "항상 다음 코드와 결합한 鳩尾骨 별명 𩩲骬이며 자체 음주 音結於와 공개 類經이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bbmms[/c]",
+      "after": "骬",
+      "expected_count": 15,
+      "reason": "항상 앞 코드와 결합한 鳩尾骨 별명 𩩲骬이며 자체 음주 音結於와 공개 類經이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]krb[/c]",
+      "after": "㾓",
+      "expected_count": 8,
+      "reason": "8회 모두 㾓心·㾓痛·腨㾓이며 자체 주석 音淵，酸疼也와 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ke[/c]",
+      "after": "水",
+      "expected_count": 8,
+      "reason": "8회 모두 風水·徒水와 水盡의 문맥이고 파일 자체가 `水同`이라 명시한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]hby[/c]",
+      "after": "再",
+      "expected_count": 6,
+      "reason": "6회 모두 再有·再結·再拜·再至·再治·再結의 문법으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]buyso[/c]",
+      "after": "眴",
+      "expected_count": 5,
+      "reason": "전 출현이 인품 묘사 眴眴然과 그 음주 音旋에 집중되어 공개 類經과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]brhr[/c]",
+      "after": "膂",
+      "expected_count": 5,
+      "reason": "5회 모두 背膂·膂筋이며 파일 자체가 `膂同，音呂`라고 확정한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]hacsh[/c]",
+      "after": "皅",
+      "expected_count": 5,
+      "reason": "5회 모두 紛紛皅皅 및 자체 음주 普巴切이고 공개 고전 전사와 일치한다.",
+      "evidence_url": "https://www.shuowen.org/view/4914"
+    },
+    {
+      "before": "[c]gejcm[/c]",
+      "after": "空",
+      "expected_count": 5,
+      "reason": "5회 모두 피부창의 空空然과 鼓聲也·音空이라는 자체 주석으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]gino[/c]",
+      "after": "呿",
+      "expected_count": 4,
+      "reason": "4회 모두 欠呿·呿也이고 자체 음주 音去와 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]tnle[/c]",
+      "after": "菱",
+      "expected_count": 4,
+      "reason": "4회 모두 菱翹草根이며 자체 훈석 `菱，芰也`와 音陵로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]tgum[/c]",
+      "after": "翹",
+      "expected_count": 4,
+      "reason": "4회 모두 菱翹草根이며 자체 훈석 `翹，連翹也`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ytku[/c]",
+      "after": "入",
+      "expected_count": 4,
+      "reason": "4회 모두 기를 丹田으로 入·傳入하는 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
     }
   ]
 }
