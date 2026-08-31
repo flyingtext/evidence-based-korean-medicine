@@ -39399,6 +39399,90 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%97%85%E5%82%B3",
       "evidence_note": "病傳 계열의 고정 문구 ‘背膂筋痛’이며 같은 단락 주해도 膂膀胱이라 명시.",
       "reason": "病傳 계열의 고정 문구 ‘背膂筋痛’이며 같은 단락 주해도 膂膀胱이라 명시."
+    },
+    {
+      "before": "目HT　絕系",
+      "after": "目睘絕系",
+      "expected_count": 1,
+      "reason": "《素問·診要經終論》 정형문 目睘絕系이며 이어지는 자체 음의가 睘音瓊이라 확증한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%A8%BA%E8%A6%81%E7%B6%93%E7%B5%82%E8%AB%96"
+    },
+    {
+      "before": "（HT　音瓊",
+      "after": "（睘音瓊",
+      "expected_count": 1,
+      "reason": "직전 目睘의 자체 음의이며 睘의 독음 瓊으로 확정된다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%A8%BA%E8%A6%81%E7%B6%93%E7%B5%82%E8%AB%96"
+    },
+    {
+      "before": "HT　、目驚貌",
+      "after": "睘、目驚貌",
+      "expected_count": 1,
+      "reason": "睘의 자체 훈고 睘、目驚貌이다.",
+      "evidence_url": "https://www.zdic.net/hans/%E7%9D%98"
+    },
+    {
+      "before": "脾病者。日　慧。日出甚。下晡靜。（　音迭。　、日HT　也",
+      "after": "脾病者。日昳慧。日出甚。下晡靜。（昳音迭。昳、日昃也",
+      "expected_count": 1,
+      "reason": "《素問·藏氣法時論》의 日昳慧와 자체 주석 昳、日昃也로 전 구절이 확정된다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%97%8F%E6%B0%A3%E6%B3%95%E6%99%82%E8%AB%96"
+    },
+    {
+      "before": "禁犯　HT　熱食。溫炙衣。（　音翠HT　音埃。　HT　、瀑漬之熱食也",
+      "after": "禁犯淬㶼熱食。溫炙衣。（淬音翠㶼音埃。淬㶼、瀑漬之熱食也",
+      "expected_count": 1,
+      "reason": "《素問·藏氣法時論》의 淬㶼熱食이며 자체 음의 淬音翠、㶼音埃와 풀이가 글자를 직접 확정한다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E8%97%8F%E6%B0%A3%E6%B3%95%E6%99%82%E8%AB%96"
+    },
+    {
+      "before": "KT　、不明也。肝藏血而開竅於目。肝虛。故KT　KT無所見",
+      "after": "䀮、不明也。肝藏血而開竅於目。肝虛。故䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "직전 본문 目䀮䀮無所見을 풀이한 주석으로 䀮、不明也가 자가 확정한다.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+    },
+    {
+      "before": "至頭KT　KT　然",
+      "after": "至頭几几然",
+      "expected_count": 1,
+      "reason": "《素問·刺腰痛》 정형문 至頭几几然이다.",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+    },
+    {
+      "before": "（KT　音除",
+      "after": "（几音除",
+      "expected_count": 1,
+      "reason": "직전 几几의 자체 음의로 해당 판본의 반절 표기를 보존해 복원한다.",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+    },
+    {
+      "before": "KT　KT　短羽之鳥",
+      "after": "几几短羽之鳥",
+      "expected_count": 1,
+      "reason": "几几의 형상을 풀이하는 자체 주석으로 정형 인용과 일치한다.",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
+    },
+    {
+      "before": "（KT　膂同",
+      "after": "（膂膂同",
+      "expected_count": 1,
+      "reason": "직전 背膂筋痛의 膂를 풀이하는 자체 주석이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html"
+    },
+    {
+      "before": "背KT筋痛。小便閉",
+      "after": "背膂筋痛。小便閉",
+      "expected_count": 1,
+      "reason": "《素問·標本病傳》의 정형문 背膂筋痛小便閉이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html"
+    },
+    {
+      "before": "目視KT　KT　。物疏璺",
+      "after": "目視䀮䀮。物疏璺",
+      "expected_count": 1,
+      "reason": "시야 불명을 뜻하는 정형어 目視䀮䀮이며 자체 주석도 䀮音荒으로 이어진다.",
+      "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
     }
   ]
 }

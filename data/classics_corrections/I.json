@@ -8013,6 +8013,27 @@
       "expected_count": 1,
       "evidence_url": "https://zh.wikisource.org/zh-hant/Page:Gujin_Tushu_Jicheng,_Volume_453_(1700-1725).djvu/64",
       "evidence_note": "같은 공개 판면의 연속 사례가 `一少年天寒極，勞叉骨痛，兩月後生疽`로 전사되어 골명 叉骨을 확인한다."
+    },
+    {
+      "before": "一人髀HT　患毒痛甚。服消毒藥不減。飲槐花酒一服。",
+      "after": "一人髀𩨹患毒痛甚。服消毒藥不減。飲槐花酒一服。",
+      "expected_count": 1,
+      "reason": "《外科心法》의 직접 평행 의안이 동일 환부를 ‘髀𩨹患毒痛甚’으로 전사한다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/1233/65"
+    },
+    {
+      "before": "一侍御髀HT　患毒。痛甚。服消毒藥不減。",
+      "after": "一侍御髀𩨹患毒。痛甚。服消毒藥不減。",
+      "expected_count": 1,
+      "reason": "같은 槐花酒 치험의 반복 문장이 공개 평행문에서 ‘髀𩨹患毒’으로 확인된다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/1233/65"
+    },
+    {
+      "before": "一水部年逾四十。髀HT　患毒已半月。頭甚多。",
+      "after": "一水部年逾四十。髀𩨹患毒已半月。頭甚多。",
+      "expected_count": 1,
+      "reason": "동일 책에서 반복되는 해부 부위명 髀𩨹이며, 앞의 직접 평행 치험으로 자형이 확정된다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/1233/65"
     }
   ],
   "I/I018.txt": [

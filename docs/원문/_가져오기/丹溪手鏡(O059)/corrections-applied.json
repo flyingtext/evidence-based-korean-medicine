@@ -597,5 +597,26 @@
     "expected_count": 1,
     "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/NLC511-023031404013521-29020_%E8%84%88%E5%9B%A0%E8%AD%89%E6%B2%BB._%E5%9B%9B.pdf",
     "evidence_note": "《脈因證治》 공개 영인·전사의 평행 구절이 `驚為痰涎目眩吐痙癲不省人事`로 이어져 결자가 眩임을 직접 확인한다. 주변의 潮/痰·痴癇/痙癲 이문은 건드리지 않는다."
+  },
+  {
+    "before": "KT　者，但胸喉間氣塞不得下通然，而無聲也。",
+    "after": "䭇者，但胸喉間氣塞不得下通然，而無聲也。",
+    "expected_count": 1,
+    "reason": "《傷寒明理論》 계통의 해당 문장은 䭇(音噎)을 噦와 대비해 설명하며, 공개 의서도 ‘䭇者，氣噎結有聲也’라고 자형을 확정한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html"
+  },
+  {
+    "before": "二者皆胃受疾也，趺陽浮為KT　，滑為噦。",
+    "after": "二者皆胃受疾也，趺陽浮為䭇，滑為噦。",
+    "expected_count": 1,
+    "reason": "직전 정의의 䭇과 噦를 맥상으로 다시 대비하는 동일 문단의 반복이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html"
+  },
+  {
+    "before": "滑為噦。KT　者，胃虛水寒相搏，宜小青龍去麻黃加附子；",
+    "after": "滑為噦。䭇者，胃虛水寒相搏，宜小青龍去麻黃加附子；",
+    "expected_count": 1,
+    "reason": "같은 문단에서 앞서 정의한 䭇의 병기를 이어 설명하는 반복 표식이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html"
   }
 ]

@@ -766,5 +766,19 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
     "evidence_note": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’.",
     "reason": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’."
+  },
+  {
+    "before": "印堂急灸莫HT　嗟",
+    "after": "印堂急灸莫咨嗟",
+    "expected_count": 1,
+    "reason": "七言歌訣의 정형 종결 莫咨嗟이며 앞 구절 寒·牙와 운문 구조가 맞는다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html"
+  },
+  {
+    "before": "杯卷之小，不可容巨HT　之物",
+    "after": "杯卷之小，不可容巨觥之物",
+    "expected_count": 1,
+    "reason": "작은 잔과 큰 술잔을 대조한 杯卷之小、不可容巨觥之物의 문맥으로 확정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html"
   }
 ]

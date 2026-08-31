@@ -4117,6 +4117,33 @@
       "reason": "蘆籜 모양의 종물을 重齶이라 정의한다.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E5%B9%BC%E6%96%B0%E6%9B%B8/index.html",
       "evidence_note": "공개 전사에서 `如蘆籜盛水狀…名重齶`을 직접 확인했다."
+    },
+    {
+      "before": "若沉濡而滑色見如HT　血血者豈能順乎",
+      "after": "若沉濡而滑色見如衃血者豈能順乎",
+      "expected_count": 1,
+      "reason": "《素問》 오색 생사문과 《小兒衛生總微論方》의 평행문이 심장의 사색을 ‘赤如衃血’로 전한다.",
+      "evidence_url": "https://cloudtcm.com/shu/t1/181/21"
+    },
+    {
+      "before": "何則用方之雜□也余曰傳來非一治之乃殊耳",
+      "after": "何則用方之雜遝也余曰傳來非一治之乃殊耳",
+      "expected_count": 1,
+      "reason": "《傷寒瑣言》 동일 문단 영인이 ‘何其用方之雜遝也。余曰傳來非一，治之乃殊耳’로 확인된다.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/NLC416-06jh009211-17215_%E5%82%B7%E5%AF%92%E7%91%A3%E8%A8%80_%E5%82%B7%E5%AF%92%E5%AE%B6%E7%A7%98%E7%9A%84%E6%9C%AC.pdf"
+    },
+    {
+      "before": "中脘從　KT　下取病兒四指頭是章門",
+      "after": "中脘從骭下取病兒四指頭是章門",
+      "expected_count": 1,
+      "reason": "동일 灸法을 인용한 《衛生寶鑑》 평행문이 ‘中脘從骭下，取病兒四指頭是’로 전한다."
+    },
+    {
+      "before": "喉內生瘡或狀如肉腐為KT　為痛窒塞不通",
+      "after": "喉內生瘡或狀如肉腐為腫為痛窒塞不通",
+      "expected_count": 1,
+      "reason": "《幼科類萃》 독립 공개 전사가 동일 문장을 ‘或狀如肉腐，為腫為痛，窒塞不通’으로 전한다.",
+      "evidence_url": "https://ziyangyiguan.com/sys-nr/?_reqArgs=%7B%22args%22%3A%7B%22m31pageno%22%3A65%7D%2C%22type%22%3A0%7D"
     }
   ],
   "H/H003.txt": [
@@ -9147,6 +9174,20 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83",
       "evidence_note": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’.",
       "reason": "외과 병명 열거의 고정 결합 ‘癰疽疔毒’."
+    },
+    {
+      "before": "印堂急灸莫HT　嗟",
+      "after": "印堂急灸莫咨嗟",
+      "expected_count": 1,
+      "reason": "七言歌訣의 정형 종결 莫咨嗟이며 앞 구절 寒·牙와 운문 구조가 맞는다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html"
+    },
+    {
+      "before": "杯卷之小，不可容巨HT　之物",
+      "after": "杯卷之小，不可容巨觥之物",
+      "expected_count": 1,
+      "reason": "작은 잔과 큰 술잔을 대조한 杯卷之小、不可容巨觥之物의 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html"
     }
   ],
   "H/H032.txt": [
