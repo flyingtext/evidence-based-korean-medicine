@@ -114685,6 +114685,146 @@
       "expected_count": 1,
       "reason": "코드 BPUU 1회가 《內經》 고정 경문 ‘肉胝䐢而唇揭’이며 평행문이 일치한다.",
       "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "[c]kasm[/c]",
+      "after": "塌",
+      "expected_count": 40,
+      "reason": "KASM 40회는 癢塌·平塌·塌伏·塌陷 등 전 문맥에서 塌으로 고정되며 공개본의 癢塌 조문과 일치한다.",
+      "evidence": "https://yibian.hopto.org/shu/?sid=71640"
+    },
+    {
+      "before": "[c]vfohg[/c]",
+      "after": "絍",
+      "expected_count": 21,
+      "reason": "VFOHG 21회는 모두 약을 상처 안에 넣는 絍瘡內·絍入·絍之 문맥이며 공개본과 문자 코드표가 絍으로 일치한다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=407011&if=en"
+    },
+    {
+      "before": "血，氣，狐，[c]khuc[/c]，也，專主肝經",
+      "after": "血，氣，狐，㿗，也，專主肝經",
+      "expected_count": 1,
+      "reason": "기존 ‘KHUC+疝’ 규칙과 겹치지 않는 단독 출현으로, 열거된 병명과 자매본에 따라 㿗로 확정한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "而為[c]khuc[/c]，為木，難於愈矣",
+      "after": "而為㿗，為木，難於愈矣",
+      "expected_count": 1,
+      "reason": "疝론의 동일 병증을 가리키는 단독 KHUC이며 자매본의 㿗와 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "[c]khuc[/c]癃疝",
+      "after": "㿗癃疝",
+      "expected_count": 3,
+      "reason": "《內經》의 고정 병명 㿗癃疝 3회로, 기존 ‘KHUC+疝’ 규칙이 포착하지 못한 출현만 문맥 한정한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html; https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "[c]khuc[/c]卵偏大",
+      "after": "㿗卵偏大",
+      "expected_count": 1,
+      "reason": "疝 치료 혈위 문맥의 ‘㿗卵偏大’이며 자매본과 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "胎氣不安，上[c]kmvs[/c]作痛，名曰子懸",
+      "after": "胎氣不安，上㽲作痛，名曰子懸",
+      "expected_count": 1,
+      "reason": "기존 ‘KMVS+痛’ 규칙 밖에 남은 1회도 임신 중 상㽲作痛 문맥이므로 㽲로 확정한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "[c]hafmu[/c]白",
+      "after": "㿠白",
+      "expected_count": 2,
+      "reason": "두 출현 모두 안색이 창백한 ‘面色㿠白’ 계열의 고정 의학 표현이며 HAFMU의 문자 대응도 㿠이다.",
+      "evidence": "https://cloudtcm.com/formula/list/formula-dsname/6246/0"
+    },
+    {
+      "before": "[c]gejcm[/c][c]gejcm[/c]然不堅",
+      "after": "𪔣𪔣然不堅",
+      "expected_count": 1,
+      "reason": "《靈樞·水脹》의 고정 경문 ‘𪔣𪔣然不堅’이며 한 규칙으로 연속된 두 좌표를 복원한다.",
+      "evidence": "https://zh.wikisource.org/zh-hant/靈樞經_(四庫全書本)/卷09; https://zh.wikisource.org/zh-hant/景岳全書_(四庫全書本)/卷22"
+    },
+    {
+      "before": "涎沫[c]emu[/c][c]emu[/c]者，寒邪為嘔也",
+      "after": "涎沫𣲍𣲍者，寒邪為嘔也",
+      "expected_count": 1,
+      "reason": "嘔吐론의 고정 표현 ‘涎沫𣲍𣲍’으로, 연속된 두 EMU 좌표를 한정 문맥에서 복원한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "[c]dvvn[/c]傷",
+      "after": "桚傷",
+      "expected_count": 2,
+      "reason": "제목과 본문의 두 출현 모두 손가락 압착 손상인 桚傷이며 해당 치료 내용과 일치한다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "目[c]butyu[/c][c]butyu[/c]無所見",
+      "after": "目䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "《內經》의 고정 경문 ‘肝虛則目䀮䀮無所見’으로 연속 두 좌표를 복원한다.",
+      "evidence": "https://ctext.org/huangdi-neijing/zh"
+    },
+    {
+      "before": "筆幹[c]qddf[/c]住牙關",
+      "after": "筆幹㩒住牙關",
+      "expected_count": 1,
+      "reason": "단단한 붓대로 이를 눌러 고정하는 문맥의 㩒住이며 QDDF의 문자 대응도 㩒이다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "或為瘢[c]mkdhe[/c]",
+      "after": "或為瘢𥀬",
+      "expected_count": 1,
+      "reason": "흉터·피부 장해를 뜻하는 瘢𥀬 문맥이며 MKDHE의 문자 대응이 𥀬이다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "石[c]litav[/c]蚆",
+      "after": "石蛤蚆",
+      "expected_count": 1,
+      "reason": "처방 약재명은 공개 의서에서 확인되는 ‘石蛤蚆’이므로 코드의 기계적 문자 대응보다 완전 약명을 우선한다.",
+      "evidence": "https://jicheng.tw/tcm/book/本草綱目拾遺/index.html; https://www.shidianguji.com/mid-page/7555621451724013606"
+    },
+    {
+      "before": "名曰[c]ktmc[/c]癧癰",
+      "after": "名曰癀癧癰",
+      "expected_count": 1,
+      "reason": "결핵성 냉증 병명 ‘癀癧癰’이며 KTMC의 문자 대응도 癀이다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
+    },
+    {
+      "before": "名曰[c]kmbb[/c]風",
+      "after": "名曰癩風",
+      "expected_count": 1,
+      "reason": "적백청오색 반박과 전신 피부 병변을 설명하는 고정 병명 癩風이 공개 의서와 일치한다.",
+      "evidence": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Harvard_drs_428499226_證治準繩_v.73.pdf"
+    },
+    {
+      "before": "頭面[c]wfmj[/c]斑[c]kdam[/c]皰",
+      "after": "頭面[c]wfmj[/c]斑㾴皰",
+      "expected_count": 1,
+      "reason": "다른 미확정 좌표 WFMJ는 보존하면서 KDAM만 고친다. 공개 교감 자료가 《景岳全書》 권49의 정확한 구절을 ‘頭面䵟斑㾴皰’로 인용한다.",
+      "evidence": "https://www.fdgwz.org.cn/Web/Show/1900"
+    },
+    {
+      "before": "則得其[c]gyj[/c]而失其常耳",
+      "after": "則得其聲而失其常耳",
+      "expected_count": 1,
+      "reason": "공개 《景岳全書》의 같은 宜麟策 문장이 ‘不知所用，則得其聲而失其常耳’로 확인된다.",
+      "evidence": "https://ctext.org/wiki.pl?chapter=563599&if=en"
+    },
+    {
+      "before": "浴毒湯[c]easm[/c]潰之類",
+      "after": "浴毒湯溻潰之類",
+      "expected_count": 1,
+      "reason": "약액으로 환부를 적셔 치료하는 외치법 ‘溻潰’ 문맥이며 EASM의 문자 대응도 溻이다.",
+      "evidence": "https://jicheng.tw/tcm/book/景岳全書/index.html"
     }
   ],
   "O/O101.txt": [

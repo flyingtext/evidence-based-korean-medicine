@@ -446,10 +446,10 @@
     },
     "A/A402a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 169,
+      "unresolved_candidates": 3,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 후 remaining 169에서 전 출현이 고정되는 89개를 추가 해소한다. hovbu 등 문맥별 대응자가 갈리는 코드는 제외했다.",
-      "remaining_count": 80,
+      "note": "현재 잔여 80좌표를 전수 분류해 77좌표를 확정했다. 남은 bbhju 3회는 본문이 韻篇無字라고 밝힌 원판 이체자이며 新校正이 髁로 교정하지만, 교감주 안의 원 글자 자체는 영인 확인 전 보존한다.",
+      "remaining_count": 3,
       "status": "in_progress"
     },
     "B/B001.txt": {
@@ -4258,10 +4258,10 @@
     },
     "O/O108a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 186,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "현 status 186은 기존 correction 적용 뒤의 잔여다. 이번에는 O108 자매본과 jicheng 공개본 및 직접 인용된 《內經》 평행문에서 전 출현이 고정되는 신규 15코드 99좌표만 차감했다. 별도 HT·KT·□·U+FFFD 표지는 없었다. KASM·VFOHG·기존 부분 규칙 뒤 남은 KHUC/KMVS 등은 코드 중의성 또는 기존 규칙과의 중첩을 피하기 위해 보류한다.",
-      "remaining_count": 87,
+      "note": "배치86 뒤 잔여 87좌표를 전수 검토했다. 공개 《景岳全書》·자매본·직접 인용된 《內經》 평행문과 문맥 한정 규칙으로 86좌표를 안전 확정했다. GEJCM·EMU·BUTYU는 각각 expected_count 1인 연속 문자열 규칙이지만 실제 코드 좌표는 2개씩 복원한다. QYSO 1좌표는 ‘눈썹/속눈썹을 뜯다’ 문맥만으로 정확한 이체자를 확정하기 부족하여 보류한다.",
+      "remaining_count": 1,
       "status": "in_progress"
     },
     "O/O128.txt": {
@@ -4319,12 +4319,12 @@
       "note": "P0013a와 재정렬했으나 기존37건 외의 후보는 다문자 결락 또는 반복 문맥이라 occurrence 고유 대응이 성립하지 않았다. 기존93규칙과 조판 분류 유지."
     },
     "P/P0013a.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 268,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "PUA 276좌표를 코드포인트별 전수 집계하고 기존 shard가 처리하는 8좌표를 제외했다. 미복원 28종 268좌표 중 P0013 자매본과 공개 《醫宗金鑑·刺灸心法要訣》 및 평행 의서에서 전 출현이 고정되는 23종 257좌표만 복원했다. U+EF57·EF5C·EF60·EFD5·EFE7의 11좌표는 자매본도 공백이거나 문맥 대조가 충분하지 않아 보류한다.",
-      "remaining_count": 11,
-      "status": "in_progress"
+      "note": "잔여 PUA 5종 11좌표를 occurrence별 문맥으로 분리해 독립 공개본과 대조했다. U+EF57 5좌표=𩩲(그중 ‘𩩲肝’은 공개본에 따라 인접 OCR 오기까지 ‘𩩲骭’으로 교정), U+EF5C=胻, U+EF60 2좌표=瞖, U+EFD5 2좌표=疴, U+EFE7=臁으로 모두 확정했다. 각 before는 원천 파일에서 정확히 1회씩 존재한다.",
+      "remaining_count": 0,
+      "status": "completed"
     },
     "P/P0100.txt": {
       "collation_status": "in_progress",

@@ -40226,6 +40226,251 @@
       "expected_count": 4,
       "reason": "4회 모두 기를 丹田으로 入·傳入하는 문맥으로 고정된다.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "如許[c]hovbu[/c]宗用黃芪",
+      "after": "如許叔宗用黃芪",
+      "expected_count": 1,
+      "reason": "인명 許叔宗으로 A402 평행문에서 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]hovbu[/c]",
+      "after": "拔",
+      "expected_count": 8,
+      "reason": "인명 1회를 먼저 분리한 뒤 남은 8회는 拔之·如拔·摧拔·發根의 문맥으로 모두 拔이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bpuu[/c]",
+      "after": "皺",
+      "expected_count": 3,
+      "reason": "肉胝皺 및 자체 음주 音縐로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]vfmms[/c]",
+      "after": "紆",
+      "expected_count": 3,
+      "reason": "胃紆曲·紆曲과 자체 음주 音於로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bnl[/c]",
+      "after": "䏖",
+      "expected_count": 3,
+      "reason": "廣䏖 및 `音引，當脊肉也`라는 자체 주석과 공개 類經이 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bbhon[/c]",
+      "after": "䯒",
+      "expected_count": 3,
+      "reason": "䯒骨曰脛·膝䯒·髀腨䯒足의 해부 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]nopd[/c]",
+      "after": "弛",
+      "expected_count": 3,
+      "reason": "節弛肘廢와 筋脈沮弛의 평행문으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]fiok[/c]",
+      "after": "㶼",
+      "expected_count": 3,
+      "reason": "禁犯焠㶼·焠㶼 및 자체 음주 音哀가 공개 영인 용례와 일치한다.",
+      "evidence_url": "https://www.shidianguji.com/character/%E3%B6%BC"
+    },
+    {
+      "before": "[c]tanr[/c]",
+      "after": "藘",
+      "expected_count": 3,
+      "reason": "藘茹 및 `藘俱音閭`라는 자체 음주로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]thro[/c]",
+      "after": "栝",
+      "expected_count": 3,
+      "reason": "栝樓이며 파일 자체가 `古栝樓字`라고 밝힌다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]tlvo[/c]",
+      "after": "樓",
+      "expected_count": 3,
+      "reason": "栝樓이며 파일 자체가 `古栝樓字`라고 밝힌다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]mnoiv[/c]",
+      "after": "飧",
+      "expected_count": 3,
+      "reason": "3회 모두 飧泄이고 자체 음주 音孫과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]tjcv[/c]",
+      "after": "囊",
+      "expected_count": 2,
+      "reason": "如囊裏漿水와 卵縮囊拳의 A402 평행문으로 두 출현 모두 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ytmfb[/c]",
+      "after": "瘛",
+      "expected_count": 4,
+      "reason": "目瘛脈痛·目瘛抽掣과 자체 음주 音翅로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ttp[/c]",
+      "after": "恲",
+      "expected_count": 3,
+      "reason": "恲腹憹痛·恲滿心 및 파일 자체의 `恲同` 주석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]bbhjr[/c]",
+      "after": "髁",
+      "expected_count": 4,
+      "reason": "4회 모두 皮髁·髁以下·骨端이며 자체 음주 音括과 新校正의 `當作皮髁`가 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]osjj[/c]",
+      "after": "慴",
+      "expected_count": 3,
+      "reason": "慴辟·畏怯也 및 자체 음주 丑涉切로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ksrb[/c]",
+      "after": "頑",
+      "expected_count": 3,
+      "reason": "皮頑肉苛 및 `頑，痺而重也`라는 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "復下一度，皆如前法，[c]qhke[/c]相降也",
+      "after": "復下一度，皆如前法，遞相降也",
+      "expected_count": 1,
+      "reason": "A402 평행문의 `遞相降也`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "留而勿[c]qhke[/c]，",
+      "after": "留而勿拔，",
+      "expected_count": 1,
+      "reason": "報刺법의 A402 평행문 `留而勿拔`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ikp[/c]",
+      "after": "伍",
+      "expected_count": 1,
+      "reason": "`參伍同，副配也`의 자체 훈석으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]yhqb[/c]",
+      "after": "每",
+      "expected_count": 1,
+      "reason": "연령 주기의 `皆每加九年者` 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]qypn[/c]",
+      "after": "考",
+      "expected_count": 1,
+      "reason": "`今考本經所載` 문맥으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ebou[/c]",
+      "after": "淫",
+      "expected_count": 1,
+      "reason": "關尹子 인용의 `心蔽男女者，淫鬼攝之` 평행문으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]ifmlk[/c]",
+      "after": "禜",
+      "expected_count": 2,
+      "reason": "女祝의 `招禜禬禳`과 `禜祭禦厲` 문맥으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]kbmp[/c]",
+      "after": "癮",
+      "expected_count": 1,
+      "reason": "隱軫 즉 癮疹이라는 자체 풀이로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]jvmn[/c]",
+      "after": "夢",
+      "expected_count": 1,
+      "reason": "`令人益嗜臥，又且善夢`의 素問·甲乙經 평행문으로 확정된다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/%E5%8D%B705"
+    },
+    {
+      "before": "[c]oipgr[/c]",
+      "after": "噎",
+      "expected_count": 1,
+      "reason": "振埃편 평행문의 `噎不得息`과 주석 `古噎字`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]buanj[/c]",
+      "after": "瞤",
+      "expected_count": 1,
+      "reason": "운기 병증 열거 `瞤瘛腫脹`의 평행문으로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]kppa[/c]",
+      "after": "痎",
+      "expected_count": 1,
+      "reason": "병명 痎瘧으로 고정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]kjjh[/c]",
+      "after": "疹",
+      "expected_count": 1,
+      "reason": "丹瘤疹瘡瘍의 병증 열거로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]lbhsk[/c]",
+      "after": "帛",
+      "expected_count": 1,
+      "reason": "素問 평행문의 `必以布帛著之`로 확정된다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=708595&if=gb"
+    },
+    {
+      "before": "[c]ehg[/c]飲食不節",
+      "after": "故飲食不節",
+      "expected_count": 1,
+      "reason": "A402 평행문의 문장 시작 `故飲食不節`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]nhokb[/c]",
+      "after": "瞀",
+      "expected_count": 1,
+      "reason": "운기 병증 열거 `瞀鬱注下`로 확정된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
+    },
+    {
+      "before": "[c]htii[/c]",
+      "after": "殘",
+      "expected_count": 2,
+      "reason": "파일 자체가 `殘同`이라 명시한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html"
     }
   ]
 }
