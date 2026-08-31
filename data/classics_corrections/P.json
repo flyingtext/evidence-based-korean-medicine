@@ -24141,6 +24141,34 @@
       "evidence_url": "https://daikei.blogspot.com/2024/03/?m=0",
       "evidence_note": "내경 증후의 관용 표기와 일치한다.",
       "reason": "내경 증후의 관용 표기와 일치한다."
+    },
+    {
+      "before": "《衍義》誤人苦HT　條。即曰三葉酸漿草",
+      "after": "《衍義》誤人苦蘡條。即曰三葉酸漿草",
+      "expected_count": 1,
+      "reason": "공개 전문의 동일 赤白帶下 조문에서 苦蘡을 직접 확인; 이번 규칙은 결자만 복원하고 별도 OCR 오기는 건드리지 않음",
+      "evidence_url": "https://cloudtcm.com/shu/t1/160/63"
+    },
+    {
+      "before": "豈苦HT　即酸漿歟？（苦HT　有子",
+      "after": "豈苦蘡即酸漿歟？（苦蘡有子",
+      "expected_count": 1,
+      "reason": "공개 전문의 동일 조문에서 두 苦蘡을 직접 확인",
+      "evidence_url": "https://cloudtcm.com/shu/t1/160/63"
+    },
+    {
+      "before": "飲以莨KT　藥一撮，以酒飲之，旋乳",
+      "after": "飲以莨碭藥一撮，以酒飲之，旋乳",
+      "expected_count": 1,
+      "reason": "《史記·倉公列傳》 공개 원전 평행문에서 莨碭藥을 직접 확인",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E8%8E%A8&if=en"
+    },
+    {
+      "before": "每拓湯，可人行十裡許，即KT　干，捻取甘濕散",
+      "after": "每拓湯，可人行十裡許，即裛干，捻取甘濕散",
+      "expected_count": 1,
+      "reason": "학술 논문에 인용된 《證治準繩》 동일 洗搨湯 조문에서 即裛干을 직접 확인",
+      "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001215554"
     }
   ],
   "P/P0104.txt": [

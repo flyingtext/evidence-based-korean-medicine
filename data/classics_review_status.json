@@ -262,9 +262,9 @@
     },
     "D/D025.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 9820,
+      "unresolved_candidates": 9816,
       "punctuation_status": "source_present",
-      "note": "기존 1630규칙 적용본에서 신규 8규칙은 1·15·2·7·1·1·2·1회 고유 일치하고 상호 비중첩. HT 1개와 KT 58개를 해소한다. 잔여 후보 9820자리."
+      "note": "현 status 9820에서 KT 두 자리와 뒤 결자 전각공백 두 자리, 총 4좌표만 차감했다. 나머지 희귀자·의학 용어는 개별 영인 근거 없이 추정하지 않았다."
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
@@ -2946,7 +2946,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11901,
       "punctuation_status": "codex_verified",
-      "note": "䀮 6자를 세 고유 좌표에서 복원했다. HT/[c]/PUA는 0. 잔여 후보 11901자리."
+      "note": "현 status 11901을 유지한다. 잔존 KT·□는 희귀 약물명, 동식물명, 단위와 문장 결락이 혼재하고 공개 전사도 불완전하여 추정 복원하지 않았다."
     },
     "D/D014.txt": {
       "collation_status": "in_progress",
@@ -3450,7 +3450,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11995,
       "punctuation_status": "source_present",
-      "note": "독립 공개 판본과 의학적 고정 용례가 일치하는 䀮䀮 6개 구절(12자)만 고유 문맥 규칙으로 제안함. 잔여 후보 11995자리."
+      "note": "현 status 11995를 유지한다. 잔존 KT는 본초 이명·금경 문자·경혈 해부어와 결락이 섞여 있고 일부는 원 교주도 미상이라 명시하므로, 공개 평행문으로 유일하게 확정되지 않는 항목을 보류했다."
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
@@ -3462,13 +3462,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 11813,
       "punctuation_status": "source_present",
-      "note": "유사 병명만으로 ‘游’를 확정하지 않고 보류함. 잔여 후보 11813자리."
+      "note": "현 status 11813을 유지한다. 잔존 ‘紫KT丹’은 유사 병명만으로 游 등 특정 글자를 확정할 수 없어 보류하고 전각 공백 분류도 변경하지 않았다."
     },
     "D/D020.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 8651,
       "punctuation_status": "source_present",
-      "note": "舁와 瓷甕 두 자리를 복원했다. 남은 KT는 약초명·고유명·동작어가 섞여 있어 보류했다. 잔여 후보 8651자리."
+      "note": "舁와 瓷甕은 기존 규칙으로 이미 복원된다. 남은 KT 8곳은 약초명·고유명·동작어가 서로 달라 반복 치환할 수 없고 공개 전사만으로 유일 판독되지 않아 status를 유지한다."
     },
     "D/D021.txt": {
       "collation_status": "in_progress",
@@ -3612,7 +3612,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 10190,
       "punctuation_status": "source_present",
-      "note": "기존 2규칙 적용본에서 신규 규칙은 4·2·1·1회 고유 일치하고 비중첩. 기존 감사가 누락한 HT 19·KT 17도 이번 잔여 합계에 포함했다. 잔여 후보 10190자리."
+      "note": "현 status 10190을 유지한다. 잔존 HT·KT·□는 반절이 붙은 희귀자와 수치 결락, 처방·병후가 혼재하여 원전 좌표 없이 복원하지 않았다."
     },
     "G/G005.txt": {
       "collation_status": "in_progress",
@@ -3954,7 +3954,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 10955,
       "punctuation_status": "source_present",
-      "note": "독립 공개 원문으로 의미와 글자가 확실한 䀮䀮 한 건만 제안함. 잔여 후보 10955자리."
+      "note": "현 status 10955를 유지한다. 남은 HT·KT·□는 처방 재료, 외과 용어, 인명·서명과 조판 공백이 혼재하며 공개 전문으로 원자를 occurrence-고유하게 확정하지 못했다. 반복 ‘茄HT’ 등도 판면 근거 없이 일괄 복원하지 않았다."
     },
     "O/O029.txt": {
       "collation_status": "complete",
@@ -4020,7 +4020,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 8939,
       "punctuation_status": "source_present",
-      "note": "膹·攤·砭·朴·生 다섯 자를 복원했다. 서문 희귀어, 주문 부호, 인명 및 □는 영인 대조 전까지 보류했다. 잔여 후보 8939자리."
+      "note": "기존 다섯 복원 외 잔여 HT·□는 서문 희귀어, 주문 부호, 인명과 처방 분량에 걸쳐 있다. 영인 좌표 없이 단정하지 않고 status를 유지한다."
     },
     "O/O048.txt": {
       "collation_status": "in_progress",
@@ -4224,7 +4224,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 9606,
       "punctuation_status": "source_present",
-      "note": "KT 네 자를 두 고유 문맥에서 모두 복원했다. 남은 전각 공백은 판면·띄어쓰기와 결락이 혼재한다. 잔여 후보 9606자리."
+      "note": "KT 네 자는 기존 두 규칙으로 이미 鞄과 䀮䀮으로 복원된다. 남은 전각 공백은 판면·띄어쓰기와 결락이 혼재하여 status를 유지한다."
     },
     "O/O098.txt": {
       "collation_status": "in_progress",
@@ -4330,9 +4330,9 @@
     },
     "P/P0103.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 9579,
+      "unresolved_candidates": 9569,
       "punctuation_status": "source_present",
-      "note": "KT 14자를 7개 고유 문맥으로 복원하며 모든 좌표가 비중첩이다. PUA/□/[c] 잔여는 0이다. 잔여 후보 9579자리."
+      "note": "현 status 9579에서 실제 해소된 표지 10좌표만 차감했다. 첫 규칙 HT+공백 2좌표, 둘째의 두 HT+공백 4좌표, 셋째 KT+공백 2좌표, 넷째 KT+공백 2좌표다. 별도 OCR 오기 `誤人`은 수정하지 않았다."
     },
     "P/P0104.txt": {
       "collation_status": "in_progress",
@@ -4374,13 +4374,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 9775,
       "punctuation_status": "source_present",
-      "note": "기존 1092규칙 적용본에서 신규 규칙이 각각 1·2회 고유 일치하며 KT 5개를 해소한다. 잔존 身體KT KT痛癢은 판본 근거 부족으로 보류. 잔여 후보 9775자리."
+      "note": "현 status 9775를 유지한다. 기존 교정 후 ‘身體KT KT痛癢’ 두 자는 공개 평행문에서 원자형을 직접 확인하지 못해 보류했다."
     },
     "P/P0401.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 10006,
       "punctuation_status": "source_present",
-      "note": "기존 961규칙 적용본에서 신규 규칙 1회 고유 일치, KT 2개 해소. 나머지 약재·병후 결자는 독립 판본 근거 부족으로 보류. 잔여 후보 10006자리."
+      "note": "현 status 10006을 유지한다. 잔존 KT는 음식명·병후·약재에서 서로 다른 자형이며 공개 전사만으로 원자를 유일하게 판독하지 못했다."
     },
     "P/P0402.txt": {
       "collation_status": "in_progress",
