@@ -3993,6 +3993,54 @@
       "evidence_url": "https://ctext.org/huangdi-neijing/wu-yun-xing-da-lun/zh",
       "evidence_note": "五運行大論의 북방 수기 속성 ‘其用為屈’과 ‘其令霰雪’이다.",
       "reason": "五運行大論의 북방 수기 속성 ‘其用為屈’과 ‘其令霰雪’이다."
+    },
+    {
+      "before": "毖（音秘）HT　（音仇）",
+      "after": "毖（音秘）㼌（音仇）",
+      "expected_count": 1,
+      "reason": "氣府論 난자 음주의 표제자와 독립 전사가 일치",
+      "evidence_url": "https://cloudtcm.com/shu/t1/26/56",
+      "evidence_note": "독립 전사에 ‘毖（音秘）、㼌（音仇）’로 확인된다."
+    },
+    {
+      "before": "病在少腹有積，刺皮，HT　以下，至少腹而止",
+      "after": "病在少腹有積，刺皮，𩩻以下，至少腹而止",
+      "expected_count": 1,
+      "reason": "《素問·長刺節論》의 동일 경문으로 직접 확인",
+      "evidence_url": "https://ctext.org/huangdi-neijing/chang-ci-jie-lun/zh",
+      "evidence_note": "중국철학서전자화계획 본문이 ‘刺皮𩩻以下’로 전사한다."
+    },
+    {
+      "before": "血實宜決之，氣虛宜HT　引之",
+      "after": "血實宜決之，氣虛宜掣引之",
+      "expected_count": 1,
+      "reason": "《素問·陰陽應象大論》의 정형 경문",
+      "evidence_url": "https://ctext.org/huangdi-neijing/yin-yang-ying-xiang-da-lun/zh",
+      "evidence_note": "평행 경문 ‘血實宜決之，氣虛宜掣引之’로 확정된다."
+    },
+    {
+      "before": "槁（苦老切）瞼（音檢）HT　（音接）蠹",
+      "after": "槁（苦老切）瞼（音檢）睫（音接）蠹",
+      "expected_count": 1,
+      "reason": "‘音接’ 음주와 氣交變大論 난자 목록이 일치",
+      "evidence_url": "https://ctext.org/huangdi-neijing/qi-jiao-bian-da-lun/zh",
+      "evidence_note": "본문의 눈 관련 난자 睫과 음주 音接이 일치한다."
+    },
+    {
+      "before": "請問有HT　愚仆漏之問，不在經者",
+      "after": "請問有毚愚仆漏之問，不在經者",
+      "expected_count": 1,
+      "reason": "《素問·解精微論》 독립 전사 및 난자 음의로 확인",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "evidence_note": "‘解精微論第八十一有毚愚僕漏之問：毚，士咸切’로 직접 확인된다."
+    },
+    {
+      "before": "解精微論：HT　（士銜切）湊",
+      "after": "解精微論：毚（士銜切）湊",
+      "expected_count": 1,
+      "reason": "같은 편 본문의 毚과 음주 士銜切이 일치",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "evidence_note": "난자음의의 ‘毚，士咸切’과 동일한 표제자다."
     }
   ],
   "A/A002.txt": [

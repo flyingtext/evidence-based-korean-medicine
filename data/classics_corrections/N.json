@@ -5996,6 +5996,27 @@
       "reason": "온라인 판본 고유 문맥 대조 결자 보충",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%97%87%E5%BD%99/index.html",
       "evidence_note": "N/N027.txt: 좌우 한자 각 14자 고유 일치"
+    },
+    {
+      "before": "《楓HT　別記》云：毀仲堪父",
+      "after": "《楓窗別記》云：毀仲堪父",
+      "expected_count": 1,
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%A5%87%E7%97%87%E5%8C%AF",
+      "evidence_note": "서명 《楓窗小牘》 계통과 해당 인용의 楓窗別記 표기를 대조해 窗 확정."
+    },
+    {
+      "before": "有大賈觀偈示，失驚HT　舌，遂不能復入",
+      "after": "有大賈觀偈示，失驚吐舌，遂不能復入",
+      "expected_count": 1,
+      "evidence_url": "https://mail.jklohas.org/index.php/2009-12-09-17-26-52/2009-12-08-15-59-16-sp-746157063/148-2011-03-26-05-13-21/4072-01--sp-1928348392",
+      "evidence_note": "《揮塵餘話》 평행문이 睹揭示失驚，吐舌遂不能復入으로 전사."
+    },
+    {
+      "before": "患血淋流下，便在盆內，凝如HT　，久而有變如鼠形",
+      "after": "患血淋流下，便在盆內，凝如衃，久而有變如鼠形",
+      "expected_count": 1,
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=56443&if=gb",
+      "evidence_note": "《說文》 계통의 衃=凝血 정의와 혈림이 응고된 형상 문맥으로 衃 확정."
     }
   ],
   "N/N032.txt": [

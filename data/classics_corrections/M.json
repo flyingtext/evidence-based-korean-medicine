@@ -2212,6 +2212,54 @@
       "evidence_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
       "evidence_note": "平心脈 형용 琅玕.",
       "reason": "平心脈 형용 琅玕."
+    },
+    {
+      "before": "病若目KT　KT　，脈反大而緩者",
+      "after": "病若目䀮䀮，脈反大而緩者",
+      "expected_count": 1,
+      "evidence": "《靈樞·經脈》 및 독립 의서가 시야 불명 증상을 目䀮䀮로 전사한다."
+    },
+    {
+      "before": "少腹裡急，口乾，咽腫傷爛，目KT　KT　，骨中寒",
+      "after": "少腹裡急，口乾，咽腫傷爛，目䀮䀮，骨中寒",
+      "expected_count": 1,
+      "evidence": "족소음 병후의 평행문 目䀮䀮와 일치한다."
+    },
+    {
+      "before": "虛則目KT　KT　無所見，耳無所聞",
+      "after": "虛則目䀮䀮無所見，耳無所聞",
+      "expected_count": 1,
+      "evidence": "《靈樞·本神》 계열 평행 병후 目䀮䀮無所見."
+    },
+    {
+      "before": "坐而欲起，目KTKT無所見，心懸若飢狀",
+      "after": "坐而欲起，目䀮䀮無所見，心懸若飢狀",
+      "expected_count": 1,
+      "evidence": "《靈樞·經脈》 족소음경 직접 인용의 정문."
+    },
+    {
+      "before": "五月枯HT　，胞中空虛，醫反下之",
+      "after": "五月枯剓，胞中空虛，醫反下之",
+      "expected_count": 1,
+      "evidence": "독립 《脈經》 전사가 五月枯剓로 판독하며 현문 자체 교주도 해당 결자를 干의 뜻으로 설명한다."
+    },
+    {
+      "before": "恐懼自失，破KT　脫肉，毛悴色夭",
+      "after": "恐懼自失，破䐃脫肉，毛悴色夭",
+      "expected_count": 1,
+      "evidence": "《靈樞·本神》 평행 정문 破䐃脫肉."
+    },
+    {
+      "before": "太陽病，項背強KT　KT　，反汗出惡風",
+      "after": "太陽病，項背強几几，反汗出惡風",
+      "expected_count": 1,
+      "evidence": "사부총간 《王氏脈經》 영인 전사와 독립 《脈經》 전사가 모두 項背強几几로 판독한다."
+    },
+    {
+      "before": "太陽病，項背強KT　KT　，無汗惡風",
+      "after": "太陽病，項背強几几，無汗惡風",
+      "expected_count": 1,
+      "evidence": "같은 판본의 연속 조문 및 《傷寒論》 평행문 項背強几几."
     }
   ]
 }

@@ -38282,7 +38282,414 @@
       "reason": "공개 원문의 동일 안과 처방에서 동작 글자가 𨢴으로 직접 확인됨."
     }
   ],
-  "D/D075a.txt": [],
+  "D/D075a.txt": [
+    {
+      "before": "。 ｛吳鶴曰：凡人之",
+      "after": "。 ｛吳鶴皋曰：凡人之",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 皋로 확정."
+    },
+    {
+      "before": "。 ｛吳鶴曰：戴元禮",
+      "after": "。 ｛吳鶴皋曰：戴元禮",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 皋로 확정."
+    },
+    {
+      "before": "者腎也，司泄者肝也，",
+      "after": "者腎也，司疏泄者肝也，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 疏로 확정."
+    },
+    {
+      "before": "耳，寇氏一擯斥，殊非",
+      "after": "耳，寇氏一概擯斥，殊非",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 概로 확정."
+    },
+    {
+      "before": "張子和曰：泄以風為根",
+      "after": "張子和曰：飧泄以風為根",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 飧로 확정."
+    },
+    {
+      "before": "，按之心下者急下之，",
+      "after": "，按之心下硬者急下之，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "有病循衣摸，兩手撮空",
+      "after": "有病循衣摸床，兩手撮空",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 床로 확정."
+    },
+    {
+      "before": "嘗治循衣摸數人，皆用",
+      "after": "嘗治循衣摸床數人，皆用",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 床로 확정."
+    },
+    {
+      "before": "，譫語，便，潮熱而喘",
+      "after": "，譫語，便硬，潮熱而喘",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "寒，腹滿便者，宜大承",
+      "after": "寒，腹滿便硬者，宜大承",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "\n  大便者，陽明病",
+      "after": "\n  大便硬者，陽明病",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "從心至小腹滿，痛不可",
+      "after": "從心至小腹硬滿，痛不可",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "，\n  為為痛，非虛",
+      "after": "，\n  為硬為痛，非虛",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "  心下因則為結胸，",
+      "after": "  心下因硬則為結胸，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "陷，心下因而可迅攻之",
+      "after": "陷，心下因硬而可迅攻之",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "前證上下俱，\n  此",
+      "after": "前證上下俱硬，\n  此",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "，\n  引下痛，乾嘔",
+      "after": "，\n  引脅下痛，乾嘔",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "，\n  莪能破氣中血",
+      "after": "，\n  莪朮能破氣中血",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 朮로 확정."
+    },
+    {
+      "before": "矣，雖大便不可攻之，",
+      "after": "矣，雖大便硬不可攻之，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "陽也，洪者在陽明也，",
+      "after": "陽也，洪者邪在陽明也，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 邪로 확정."
+    },
+    {
+      "before": "下利心下痞，張兼善曰",
+      "after": "下利心下痞硬，張兼善曰",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "日不解，胸滿而嘔，日",
+      "after": "日不解，胸脅滿而嘔，日",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "來寒熱，胸痞滿，默默",
+      "after": "來寒熱，胸脅痞滿，默默",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "脈，行於兩，手少陽三",
+      "after": "脈，行於兩脅，手少陽三",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "芍藥。 〔為肝膽之部",
+      "after": "芍藥。 〔脅為肝膽之部",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "以清熱，草辛熱，能散",
+      "after": "以清熱，草果辛熱，能散",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 果로 확정."
+    },
+    {
+      "before": "，夏時毛竅通，而不為",
+      "after": "，夏時毛竅疏通，而不為",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 疏로 확정."
+    },
+    {
+      "before": "解後心下痞，噫氣不除",
+      "after": "解後心下痞硬，噫氣不除",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "，病解後痞噫氣，不下",
+      "after": "，病解後痞硬噫氣，不下",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "賊邪，木來土，芍藥能",
+      "after": "賊邪，木來克土，芍藥能",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 克로 확정."
+    },
+    {
+      "before": "，循衣摸  撮空，閉",
+      "after": "，循衣摸 床 撮空，閉",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 床로 확정."
+    },
+    {
+      "before": "病，循衣摸，證同，自",
+      "after": "病，循衣摸床，證同，自",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 床로 확정."
+    },
+    {
+      "before": "  曰少腹滿，曰小便",
+      "after": "  曰少腹硬滿，曰小便",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "水飲下之，蟲即蚊蟲，",
+      "after": "水飲下之，虻蟲即蚊蟲，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 虻로 확정."
+    },
+    {
+      "before": "中外無不周，若標本相",
+      "after": "中外無不周偏，若標本相",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 偏로 확정."
+    },
+    {
+      "before": "風氣，木邪土，故完穀",
+      "after": "風氣，木邪克土，故完穀",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 克로 확정."
+    },
+    {
+      "before": "屬肝木，能脾土，故用",
+      "after": "屬肝木，能克脾土，故用",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 克로 확정."
+    },
+    {
+      "before": "實，\n  滿而不痛者",
+      "after": "實，\n  硬滿而不痛者",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "若心下滿而痛者，此為",
+      "after": "若心下滿而硬痛者，此為",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "鳴，心下痞而滿，乾嘔",
+      "after": "鳴，心下痞硬而滿，乾嘔",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "，完穀不化，下有水氣，\n",
+      "after": "，完穀不化，脅下有水氣，\n",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "故完穀不化，下有水氣，土",
+      "after": "故完穀不化，脅下有水氣，土",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "胃燥澀，兩痛引少腹，",
+      "after": "胃燥澀，兩脅痛引少腹，",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "咽不利，兩少腹，\n ",
+      "after": "咽不利，兩脅少腹，\n ",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "。\n  ｛者肝膽之部",
+      "after": "。\n  ｛脅者肝膽之部",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "｛肝火盛則痛，\n  ",
+      "after": "｛肝火盛則脅痛，\n  ",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "寒後心下不，腹中不滿",
+      "after": "寒後心下不硬，腹中不滿",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "連、秦艽、甲〔童便炙",
+      "after": "連、秦艽、鱉甲〔童便炙",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 鱉로 확정."
+    },
+    {
+      "before": "心下有痰飲，胸支滿，目眩。 ",
+      "after": "心下有痰飲，胸脅支滿，目眩。 ",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "心則迷成癲，\n  入",
+      "after": "心則迷成癲癇，\n  入",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
+    },
+    {
+      "before": "或為失志癲，\n  或",
+      "after": "或為失志癲癇，\n  或",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
+    },
+    {
+      "before": "止，心中痞，服瀉心湯",
+      "after": "止，心中痞硬，服瀉心湯",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 硬로 확정."
+    },
+    {
+      "before": "反張，名子。{陰主靜",
+      "after": "反張，名子癇。{陰主靜",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 癇로 확정."
+    },
+    {
+      "before": "痛，心腹腰痛，名子懸",
+      "after": "痛，心腹腰脅痛，名子懸",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "惡心吐酸，痛無力，酒",
+      "after": "惡心吐酸，脅痛無力，酒",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "炒]] 、甲 [[童",
+      "after": "炒]] 、鱉甲 [[童",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 鱉로 확정."
+    },
+    {
+      "before": "心胸攻築，肋刺痛，月",
+      "after": "心胸攻築，脅肋刺痛，月",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 脅로 확정."
+    },
+    {
+      "before": "於風，夏為泄，夏傷於",
+      "after": "於風，夏為飧泄，夏傷於",
+      "expected_count": 1,
+      "evidence_url": "source/D/D075.txt",
+      "evidence_note": "동일 서명의 독립 전사 D075에서 고유 좌우 문맥을 대조해 PUA를 飧로 확정."
+    }
+  ],
   "D/D057.txt": [
     {
       "before": "載：《是齋百一選方》，三十卷，山陰王　孟玉撰，百一言其選之精也。又宋陳造《",
