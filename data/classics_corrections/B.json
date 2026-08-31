@@ -4035,6 +4035,48 @@
       "expected_count": 1,
       "evidence_url": "source/B/B002a.txt",
       "evidence_note": "독립 전사 B002a의 고유 좌우 문맥으로 결자 階 확정."
+    },
+    {
+      "before": "赤脈KT　證　KT　（芳末切，擊化也。赤，南方之色，脈主心，心屬火，火性炎上，故好爭KT者",
+      "after": "赤脈㪍證　㪍（芳末切，擊化也。赤，南方之色，脈主心，心屬火，火性炎上，故好爭㪍者",
+      "expected_count": 1,
+      "reason": "음훈이 芳末切·擊化也라고 직접 자해하는 희귀자 㪍이며 동일 행 세 표지가 같은 표제자."
+    },
+    {
+      "before": "赤脈KT　之後",
+      "after": "赤脈㪍之後",
+      "expected_count": 1,
+      "reason": "직전 음훈의 사시 온독 병명 赤脈㪍."
+    },
+    {
+      "before": "夏有赤脈KT　，秋有白氣貍",
+      "after": "夏有赤脈㪍，秋有白氣貍",
+      "expected_count": 1,
+      "reason": "사시 온독 병명 평행 열거와 자체 음훈으로 확정."
+    },
+    {
+      "before": "### 赤脈KT證",
+      "after": "### 赤脈㪍證",
+      "expected_count": 1,
+      "reason": "해당 병증 절의 표제 赤脈㪍證."
+    },
+    {
+      "before": "行赤脈KT　病，其源自少陰",
+      "after": "行赤脈㪍病，其源自少陰",
+      "expected_count": 1,
+      "reason": "표제 바로 아래 동일 병명 반복."
+    },
+    {
+      "before": "赤脈KT　石膏地黃湯",
+      "after": "赤脈㪍　石膏地黃湯",
+      "expected_count": 1,
+      "reason": "사시 온독 병명과 대응 처방의 반복 열거."
+    },
+    {
+      "before": "後二行：足HT　（薛本、顧本皆作「冷」。）",
+      "after": "後二行：足冷（薛本、顧本皆作「冷」。）",
+      "expected_count": 1,
+      "reason": "札記 자체가 薛本·顧本의 판독 ‘冷’을 명시함."
     }
   ],
   "B/B014.txt": [

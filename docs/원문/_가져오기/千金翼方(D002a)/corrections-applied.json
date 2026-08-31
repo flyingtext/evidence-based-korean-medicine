@@ -6,5 +6,313 @@
     "reason": "약재를 잘게 썰어 달이는 탕제의 반복 고정어이다.",
     "evidence_url": "https://ctext.org/dictionary.pl?char=%E3%95%AE&if=gb",
     "evidence_note": "공개 고전 용례에서 `右伍味，㕮咀，以水柒升`을 확인했다."
+  },
+  {
+    "before": "大小便，補中益氣，除浮腫[c]bypm[/c]脹，\n痞滿寒熱通身疼痛，",
+    "after": "大小便，補中益氣，除浮腫臚脹，\n痞滿寒熱通身疼痛，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 bypm: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `臚`로 대응."
+  },
+  {
+    "before": "無子，輕身不老長年，一名[c]gmhne[/c]，玉，生藍田。\n白玉髓味",
+    "after": "無子，輕身不老長年，一名穀，玉，生藍田。\n白玉髓味",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 gmhne: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `穀`로 대응."
+  },
+  {
+    "before": "，輕身辟穀，生常山中丘如[c]nmgyp[/c]肪。\n紫石華味甘平無毒，",
+    "after": "，輕身辟穀，生常山中丘如彘肪。\n紫石華味甘平無毒，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 nmgyp: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `彘`로 대응."
+  },
+  {
+    "before": "味苦寒，主頭禿惡瘡疥瘙痂[c]khoo[/c]，生蜀郡。犀洛味甘無毒，",
+    "after": "味苦寒，主頭禿惡瘡疥瘙痂癬，生蜀郡。犀洛味甘無毒，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 khoo: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `癬`로 대응."
+  },
+  {
+    "before": "宿不食，\n酒服五丸，臥須[c]lwo[/c]，當下，黃者，心腹積也，",
+    "after": "宿不食，\n酒服五丸，臥須臾，當下，黃者，心腹積也，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 lwo: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `臾`로 대응."
+  },
+  {
+    "before": "拭瘢上令赤，以塗之，勿見[c]hnni[/c]，\n塗之二十日，十年瘢並",
+    "after": "拭瘢上令赤，以塗之，勿見風，\n塗之二十日，十年瘢並",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 hnni: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `風`로 대응."
+  },
+  {
+    "before": "皴裂血出疼痛方   取豬[c]bsll[/c]著熱酒中以洗之即瘥。\n治",
+    "after": "皴裂血出疼痛方   取豬胰著熱酒中以洗之即瘥。\n治",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 bsll: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胰`로 대응."
+  },
+  {
+    "before": "[/h3]\n薤白湯治產後[c]ukb[/c]中煩熱逆氣方\n薤白（切）",
+    "after": "[/h3]\n薤白湯治產後胸中煩熱逆氣方\n薤白（切）",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "良。\n治產後虛熱往來，心[c]ukb[/c]中煩滿，骨節疼及頭痛，壯",
+    "after": "良。\n治產後虛熱往來，心胸中煩滿，骨節疼及頭痛，壯",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "腹大短氣不得飲食，上衝心[c]ukb[/c]，時時煩憒逆滿，\n手足煩",
+    "after": "腹大短氣不得飲食，上衝心胸，時時煩憒逆滿，\n手足煩",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "（方四首）[/h3]\n羊[c]lbe[/c]桂心湯主產後虛冷心痛方\n",
+    "after": "（方四首）[/h3]\n羊肉桂心湯主產後虛冷心痛方\n",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 lbe: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `肉`로 대응."
+  },
+  {
+    "before": "\n吳茱萸湯主婦人先有寒冷[c]ukb[/c]滿痛，或心腹刺痛，或嘔吐",
+    "after": "\n吳茱萸湯主婦人先有寒冷胸滿痛，或心腹刺痛，或嘔吐",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "一服。（千金有乾薑）\n羊[c]lbe[/c]生地黃湯主產後三日補中理",
+    "after": "一服。（千金有乾薑）\n羊肉生地黃湯主產後三日補中理",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 lbe: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `肉`로 대응."
+  },
+  {
+    "before": "亦愈。\n青羊脂膏主風熱赤[c]kjjh[/c]癢搔之逐手作瘡方\n青羊脂",
+    "after": "亦愈。\n青羊脂膏主風熱赤疹癢搔之逐手作瘡方\n青羊脂",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 kjjh: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `疹`로 대응."
+  },
+  {
+    "before": "熱寒冷，婦人寒勞氣逆，及[c]ukb[/c]腹苦滿而急繞臍痛寒，心吞",
+    "after": "熱寒冷，婦人寒勞氣逆，及胸腹苦滿而急繞臍痛寒，心吞",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "風眩腦鳴及凍瘡，\n血主奔[c]khpu[/c]暴氣中風頭眩淋瀝乳汁主小",
+    "after": "風眩腦鳴及凍瘡，\n血主奔豚暴氣中風頭眩淋瀝乳汁主小",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 khpu: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `豚`로 대응."
+  },
+  {
+    "before": "鬼逐邪氣，鬼擊客忤，中惡[c]ukb[/c]中結氣，咽中閉塞．有進有",
+    "after": "鬼逐邪氣，鬼擊客忤，中惡胸中結氣，咽中閉塞．有進有",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "湯主惡注邪氣，往來心痛徹[c]ukb[/c]背，\n或走入皮膚，移動不",
+    "after": "湯主惡注邪氣，往來心痛徹胸背，\n或走入皮膚，移動不",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "等固病，終日吐唾逆氣上衝[c]ukb[/c]脅及咽喉者，\n此皆胃口積",
+    "after": "等固病，終日吐唾逆氣上衝胸脅及咽喉者，\n此皆胃口積",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "，自外鹽以上皆不食。諸卒[c]ukb[/c]膈熱眼暗口臭，\n以水煮苦",
+    "after": "，自外鹽以上皆不食。諸卒胸膈熱眼暗口臭，\n以水煮苦",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "三七日，然後與苦參同入酒[c]cimvn[/c]中，盛浸之七日，\n漸漸服",
+    "after": "三七日，然後與苦參同入酒瓮中，盛浸之七日，\n漸漸服",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 cimvn: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `瓮`로 대응."
+  },
+  {
+    "before": "藥者無有不效，又生造藥入[c]cimvn[/c]中時，\n令童子小兒和合訖",
+    "after": "藥者無有不效，又生造藥入瓮中時，\n令童子小兒和合訖",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 cimvn: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `瓮`로 대응."
+  },
+  {
+    "before": "訖，即告符書鎮藥，符鎮在[c]cimvn[/c]腹令藥不壞，久久為好，\n",
+    "after": "訖，即告符書鎮藥，符鎮在瓮腹令藥不壞，久久為好，\n",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 cimvn: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `瓮`로 대응."
+  },
+  {
+    "before": "服隔一兩日不用，食木耳竹[c]butwi[/c]，又人年四十以下服二大兩",
+    "after": "服隔一兩日不用，食木耳竹筍，又人年四十以下服二大兩",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 butwi: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `筍`로 대응."
+  },
+  {
+    "before": "更生散治男子女人宿寒虛羸[c]ukb[/c]脅逆滿，手足煩熱，四肢不",
+    "after": "更生散治男子女人宿寒虛羸胸脅逆滿，手足煩熱，四肢不",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "下止。\n治虛石發內有客熱[c]ukb[/c]中痞，外有風濕不解，肌中",
+    "after": "下止。\n治虛石發內有客熱胸中痞，外有風濕不解，肌中",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "水氣，色白者無血，色黃者[c]ukb[/c]上有寒，\n色赤者為風，色",
+    "after": "水氣，色白者無血，色黃者胸上有寒，\n色赤者為風，色",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "血，嘔汁出。寸口弱而弦，[c]ukb[/c]中脅下腰背並痛。寸口雙弦",
+    "after": "血，嘔汁出。寸口弱而弦，胸中脅下腰背並痛。寸口雙弦",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "\n滑即為實，血實內結入絡[c]ukb[/c]臆肺痿色薄不能喘息，\n而",
+    "after": "\n滑即為實，血實內結入絡胸臆肺痿色薄不能喘息，\n而",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "直扶突氣舍後一寸半。\n天[c]jcpkp[/c]在曲頰下扶突後動應手陷中",
+    "after": "直扶突氣舍後一寸半。\n天窗在曲頰下扶突後動應手陷中",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 jcpkp: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `窗`로 대응."
+  },
+  {
+    "before": "在庫房下一寸六分陷中。膺[c]jcpkp[/c]在屋翳下一寸六分。乳中不",
+    "after": "在庫房下一寸六分陷中。膺窗在屋翳下一寸六分。乳中不",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 jcpkp: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `窗`로 대응."
+  },
+  {
+    "before": "氣叉心，灸巨闕百壯。心痛[c]ukb[/c]脅滿，灸期門，隨年壯。\n",
+    "after": "氣叉心，灸巨闕百壯。心痛胸脅滿，灸期門，隨年壯。\n",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "一寸百壯。狂邪鬼語，灸天[c]jcpkp[/c]九壯。\n又灸口吻十五壯。",
+    "after": "一寸百壯。狂邪鬼語，灸天窗九壯。\n又灸口吻十五壯。",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 jcpkp: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `窗`로 대응."
+  },
+  {
+    "before": "。癲狂二三十年者，\n灸天[c]jcpkp[/c]次肩井次風門次肝俞次腎俞",
+    "after": "。癲狂二三十年者，\n灸天窗次肩井次風門次肝俞次腎俞",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 jcpkp: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `窗`로 대응."
+  },
+  {
+    "before": "凡肺風氣痿絕四肢脹滿喘逆[c]ukb[/c]滿，灸肺俞各兩壯，肺俞對",
+    "after": "凡肺風氣痿絕四肢脹滿喘逆胸滿，灸肺俞各兩壯，肺俞對",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "下一寸名太倉七壯。\n治奔[c]khpu[/c]上氣法  章門一名長平，",
+    "after": "下一寸名太倉七壯。\n治奔豚上氣法  章門一名長平，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 khpu: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `豚`로 대응."
+  },
+  {
+    "before": "名玉泉，在臍下四寸，主奔[c]khpu[/c]搶心不得息，灸五十壯。\n",
+    "after": "名玉泉，在臍下四寸，主奔豚搶心不得息，灸五十壯。\n",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 khpu: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `豚`로 대응."
+  },
+  {
+    "before": "矢大。第四椎名巨闕俞，主[c]ukb[/c]膈中氣，灸隨年壯。\n太倉",
+    "after": "矢大。第四椎名巨闕俞，主胸膈中氣，灸隨年壯。\n太倉",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "年壯。第四椎名厥陰俞，主[c]ukb[/c]中膈氣，積聚好吐，\n隨年",
+    "after": "年壯。第四椎名厥陰俞，主胸中膈氣，積聚好吐，\n隨年",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "uc[/c]卵法   以[c]temb[/c]橫度口如橫折之一倍增之，",
+    "after": "uc[/c]卵法   以蒲橫度口如橫折之一倍增之，",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 temb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `蒲`로 대응."
+  },
+  {
+    "before": "陽明、十五日遍身、十六日[c]ukb[/c]乳、\n十七日氣衝及脅、十",
+    "after": "陽明、十五日遍身、十六日胸乳、\n十七日氣衝及脅、十",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "日在目、丑日在耳、寅日在[c]ukb[/c]（一云面及口）、\n卯日在",
+    "after": "日在目、丑日在耳、寅日在胸（一云面及口）、\n卯日在",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "在乳（一云在肩）、午時在[c]ukb[/c]脅、未時在腹、申時在心、",
+    "after": "在乳（一云在肩）、午時在胸脅、未時在腹、申時在心、",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 ukb: 자매 전사 D002에서 좌우 한자 각 14자 문맥이 단 한 번 일치하고 중간 단일 글자가 `胸`로 대응."
+  },
+  {
+    "before": "雪霜，當吾者死值吾者亡，[c]wwmmm[/c]精魍魎自受其殃，\n急急如",
+    "after": "雪霜，當吾者死值吾者亡，妖精魍魎自受其殃，\n急急如",
+    "expected_count": 1,
+    "evidence_url": "source/D/D002.txt",
+    "evidence_note": "D002a 외자 wwmmm: 자매 전사 D002에서 좌우 한자 각 12자 문맥이 단 한 번 일치하고 중간 단일 글자가 `妖`로 대응."
   }
 ]

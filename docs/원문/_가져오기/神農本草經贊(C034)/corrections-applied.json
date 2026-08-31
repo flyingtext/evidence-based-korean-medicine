@@ -1916,5 +1916,19 @@
     "after": "以攻禜攻之。以莽草熏之",
     "expected_count": 1,
     "evidence": "《周禮·秋官·翦氏》의 직접 평행문 以攻禜攻之，以莽草熏之와 일치한다."
+  },
+  {
+    "before": "元漆光浮。KT　筋細紫。藥物何求",
+    "after": "元漆光浮。筀筋細紫。藥物何求",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/65/40",
+    "evidence_note": "독립 《神農本草經贊》 전사의 동일 운문 `元漆光浮。筀筋細紫。藥物何求`로 확정."
+  },
+  {
+    "before": "蘇恭曰。市人以KT筋草",
+    "after": "蘇恭曰。市人以筀筋草",
+    "expected_count": 1,
+    "evidence_url": "https://cloudtcm.com/shu/t1/65/40",
+    "evidence_note": "《新修本草》 인용 및 독립 전사의 약초명 `筀筋草`로 확정."
   }
 ]

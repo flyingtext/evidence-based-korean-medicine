@@ -222,7 +222,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 576,
       "punctuation_status": "source_present",
-      "note": "독립 《溫熱經緯》 전사와 해설로 유일한 HT·KT를 모두 확정했다. 남은 전각 공백은 별도 결락 좌표로 보류한다."
+      "note": "최근 독립 《溫熱經緯》 전사로 HT·KT를 모두 복원한 상태를 유지한다. 남은576은 별도 전각공백 결락 후보이며 기존 분류를 보존하고 신규 규칙을 만들지 않는다."
     },
     "D/D049.txt": {
       "collation_status": "in_progress",
@@ -234,7 +234,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 543,
       "punctuation_status": "source_present",
-      "note": "최신 shard 64규칙 적용 뒤 특수표지는 모두 해소됐고 review status상 비조판 전각공백 543좌표만 남는다. 독립 판면 없이 실제 결락을 확정할 고유 문맥 신규안은 없다."
+      "note": "HT/KT/□ 잔여 0. FW1145는 類方歌注의 처방·가사 조판과 혼재하며 이번 감사에서 새 marker 규칙 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 543자리로 유지한다."
     },
     "D/D052.txt": {
       "collation_status": "complete",
@@ -310,9 +310,9 @@
     },
     "C/C034.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 505,
+      "unresolved_candidates": 503,
       "punctuation_status": "source_present",
-      "note": "최신 shard 239규칙을 유지한다. review status 507에서 KT 1좌표와 인접 결자 공백 1좌표를 해소했다. 石長生 항목의 `KT筋` 두 곳은 독립 전사도 KT를 보존하여 추정하지 않았다."
+      "note": "石長生 항목의 두 KT를 독립 전사와 《新修本草》 직접 인용의 `筀筋草`로 복원."
     },
     "C/C035.txt": {
       "collation_status": "in_progress",
@@ -486,7 +486,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 569,
       "punctuation_status": "source_present",
-      "note": "최신 A shard 445규칙이 반영된 현재 출력에는 HT 10·KT 31·전각 공백 550곳이 남는다. 기존 조판 판정 22곳을 제외한 비조판 공백 528곳과 표식 41곳, 합계 569좌표다. 공개 jicheng 전사가 남은 희귀자 결락을 공유하고 《內經》 평행문만으로 자형을 유일 확정할 수 없는 주석도 섞여 있어 신규 규칙을 만들지 않았다. review status 586은 후속 규칙의 표식 및 동반 공백 감소를 모두 반영하지 않은 값으로 보인다. warnings=0, overlap=0."
+      "note": "HT10·KT31·비조판 공백528을 재검토했다. 《內經》 직접 인용으로 의미는 추정되는 좌표가 있으나 희자 자형·주석 어순이 여러 판본에서 달라 occurrence 고유 글자를 추가 확정하지 않았다. 기존 조판22와445규칙 유지."
     },
     "A/A205.txt": {
       "collation_status": "complete",
@@ -2994,7 +2994,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 565,
       "punctuation_status": "source_present",
-      "note": "최신 C shard 264규칙이 반영되어 HT·KT·□·PUA·레거시 [c]는 0이다. 전각 공백 1095곳 중 기존 조판 판정 530곳을 제외한 565곳은 동일 계통 공개 전사도 결락을 공유하므로 occurrence별 독립 판면 확인 전에는 치환하지 않았다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "최신264규칙 적용 뒤 명시적 표식은 0이다. 전각공백1095 중 기존 조판530을 제외한565는 동일 계통 공개 전사도 결락을 공유하므로 독립 판면 없이 보류한다."
     },
     "C/C020.txt": {
       "collation_status": "in_progress",
@@ -3088,9 +3088,9 @@
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 553,
+      "unresolved_candidates": 544,
       "punctuation_status": "source_present",
-      "note": "독립 전사 B002a에서 고유 좌우 문맥이 일치하는 37곳을 추가 복원했다. 잔여 HT2·KT8·□37 및 비조판 후보는 대응 구간이 다문자이거나 판독 불가해 보류. 검증 applied=122/122, warnings=0, overlaps=0."
+      "note": "KT8 전부를 자체 음훈으로 㪍로 확정하고 HT1을 자매 전사 명시로 冷 복원. 남은 HT1은 간기 문구 판독 불명. □37은 대부분 札記가 원본 파손·타본 □를 문자 그대로 인용한 교감 기호이며 실결락 자동복원 대상이 아니므로 보존 분류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 544자리로 유지한다."
     },
     "B/B003.txt": {
       "collation_status": "in_progress",
@@ -3454,9 +3454,9 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 507,
+      "unresolved_candidates": 463,
       "punctuation_status": "source_present",
-      "note": "생성된 현재 Markdown에는 HT/KT/□/PUA/[c]/전각공백이 노출되지 않지만 최신 status는 원자료 외자 코드 507좌표를 미해결로 관리한다. 코드표·영인 좌표 없이 전역 코드 치환하거나 생성문에 가상 규칙을 만들지 않았다."
+      "note": "자매 전사 D002와 좌우 한자 12~14자 고유 정렬 및 중간 단일문자 대응이 성립한 legacy 외자 44 occurrence만 복원. 코드 전역치환은 하지 않음."
     },
     "D/D018.txt": {
       "collation_status": "in_progress",
@@ -3672,7 +3672,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 586,
       "punctuation_status": "source_present",
-      "note": "기존 107개 규칙은 전부 정상 적용된다. 잔여 HT1과 비조판 후보는 공개 교주본에서도 유일 판독되지 않아 신규 없음. 검증 applied=107/107, warnings=0, overlaps=0."
+      "note": "잔여 HT1 문맥 `五心煩熱，睡臥不穩，無時　HT`를 원문 공개 전사·후대 평행문과 대조했으나 공개 원문도 HT를 유지하고 후보가 啼哭·煩啼 등으로 갈려 확정하지 않았다. 기존107규칙과 조판 분류 유지."
     },
     "H/H007.txt": {
       "collation_status": "in_progress",
@@ -4158,7 +4158,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 544,
       "punctuation_status": "source_present",
-      "note": "최신 O shard 65규칙을 유지하는 증분안이다. 5개 규칙으로 HT 5·KT 1과 표식 없는 전각 결자 1곳을 복원한다. 각 before는 현재 출력에서 1회이며 상호·기존 적용 좌표와 비중첩이다. 가상 적용 후 표식은 0, 전각 공백은 1558곳이고 기존 조판 1014곳을 제외한 잔여는 544좌표다. warnings=0, overlap=0."
+      "note": "HT/KT/□ 잔여 0. FW1558은 처방 열거 조판 비중이 높아 marker 교감과 분리. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 544자리로 유지한다."
     },
     "O/O080.txt": {
       "collation_status": "in_progress",
@@ -4212,7 +4212,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 480,
       "punctuation_status": "source_present",
-      "note": "기존 218개 규칙은 모두 정상 적용된다. HT3 및 비조판 공백 후보는 별계통 영인에서 유일 판독되지 않아 신규 없음. 검증 applied=218/218, warnings=0, overlaps=0."
+      "note": "기존 분류 유지. 이번 재교감에서 추가로 확정할 독립 근거가 없어 신규 없음."
     },
     "O/O096.txt": {
       "collation_status": "complete",
@@ -4236,7 +4236,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 548,
       "punctuation_status": "source_present",
-      "note": "최신 O shard 80규칙이 현재 출력에 반영되어 HT·KT·□·PUA·레거시 [c]는 0이다. 전각 공백 1029곳 중 기존 조판 판정 481곳을 제외한 548곳은 공개 jicheng 전사도 같은 결락을 공유하여 독립 판면 좌표 없이 확정하지 않았다. 신규 0개, warnings=0, overlap=0이다."
+      "note": "HT/KT/□ 잔여 0. FW1029는 약재·단락 조판과 결락 후보가 혼재하나 추가 확정 marker 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 548자리로 유지한다."
     },
     "O/O108.txt": {
       "collation_status": "in_progress",
@@ -4278,7 +4278,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 498,
       "punctuation_status": "source_present",
-      "note": "최신 shard 44규칙을 유지하는 신규 3규칙으로 KT 6좌표를 해소했다. review status 504에서 498로 감소하며 비조판 공백은 여전히 판면 대조가 필요하다."
+      "note": "기존 분류 유지. 이번 재교감에서 추가로 확정할 독립 근거가 없어 신규 없음."
     },
     "P/P0003a.txt": {
       "collation_status": "in_progress",

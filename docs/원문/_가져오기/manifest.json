@@ -739,9 +739,12 @@
       "output_directory": "傷寒總病論(B002)",
       "markdown_files": 12,
       "translation_units": 78,
-      "corrections_applied": 122,
+      "corrections_applied": 127,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '### 赤脈KT證' (0/1)",
+        "교정 불일치: '夏有赤脈KT\\u3000，秋有白氣貍' (0/1)"
+      ]
     },
     {
       "source_path": "B/B002a.txt",
@@ -2444,7 +2447,7 @@
       "output_directory": "神農本草經贊(C034)",
       "markdown_files": 4,
       "translation_units": 345,
-      "corrections_applied": 240,
+      "corrections_applied": 242,
       "punctuated": false,
       "warnings": []
     },
@@ -2928,7 +2931,7 @@
       "output_directory": "千金翼方(D002a)",
       "markdown_files": 30,
       "translation_units": 212,
-      "corrections_applied": 1,
+      "corrections_applied": 45,
       "punctuated": false,
       "warnings": []
     },
