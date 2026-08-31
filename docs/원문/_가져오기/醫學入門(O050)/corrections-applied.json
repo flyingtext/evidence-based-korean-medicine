@@ -51,5 +51,75 @@
     "expected_count": 1,
     "reason": "jicheng의 《醫學入門》 동일 集例 문장이 ‘不能省而簡䎼八九帙者’로 온전히 전사되어 있다.",
     "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%85%A5%E9%96%80/index.html"
+  },
+  {
+    "before": "無KT　者，心高，心高則滿於肺中",
+    "after": "無𩩲𩨗者，心高，心高則滿於肺中",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》 직접 인용의 정형문 ‘無𩩲𩨗者，心高’.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E_%E6%A2%9D%E5%88%97%E7%89%88/index.html"
+  },
+  {
+    "before": "　KT　小短舉者，心下，心下則臟外",
+    "after": "　𩩲𩨗小短舉者，心下，心下則臟外",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》 직접 인용 ‘𩩲𩨗小短舉者，心下’. 선행 전각공백은 유지한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "；　KT　長者，心堅，心堅則臟安守固",
+    "after": "；　𩩲𩨗長者，心堅，心堅則臟安守固",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》의 연속 평행문 ‘𩩲𩨗長者’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E_%E6%A2%9D%E5%88%97%E7%89%88/index.html"
+  },
+  {
+    "before": "；　KT　弱小以薄者，心脆",
+    "after": "；　𩩲𩨗弱小以薄者，心脆",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》의 연속 평행문 ‘𩩲𩨗弱小以薄者’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "；　KT　直下不舉者，心端正",
+    "after": "；　𩩲𩨗直下不舉者，心端正",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》의 연속 평행문 ‘𩩲𩨗直下不舉者’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html"
+  },
+  {
+    "before": "；　KT　倚一方者，心偏傾",
+    "after": "；　𩩲𩨗倚一方者，心偏傾",
+    "expected_count": 1,
+    "reason": "《靈樞·本臟》의 연속 평행문 ‘𩩲𩨗倚一方者’. 선행 전각공백 유지.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E_%E6%A2%9D%E5%88%97%E7%89%88/index.html"
+  },
+  {
+    "before": "風旋目KT　無見，或面浮咳水",
+    "after": "風旋目䀮䀮無見，或面浮咳水",
+    "expected_count": 1,
+    "reason": "같은 책과 의서 전반에 반복되는 시야 불명 정형어 ‘目䀮䀮無所見’에 따른다.",
+    "evidence_url": "https://www.shidianguji.com/character/%E4%80%AE"
+  },
+  {
+    "before": "[u]　KT　[/u]\n\n　肉，甘，平，無毒。",
+    "after": "[u]　獬豸[/u]\n\n　肉，甘，平，無毒。",
+    "expected_count": 1,
+    "reason": "이어지는 ‘尋邪而逐害’는 선악을 가려 해를 물리친다는 신수 獬豸의 고사이며 표제 문맥도 일치한다. 표제 앞과 본문 첫 전각공백은 유지한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%8D%B8%E4%B9%8B%E4%BA%8C"
+  },
+  {
+    "before": "古云　KT　尋邪而逐害是也。",
+    "after": "古云　獬豸尋邪而逐害是也。",
+    "expected_count": 1,
+    "reason": "동일 항목 표제와 이어지는 獬豸 고사의 반복이다. ‘古云’ 뒤 전각공백은 유지한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/%E7%8D%B8%E4%B9%8B%E4%BA%8C"
+  },
+  {
+    "before": "心下悸，乾嘔KT　逆者，茯苓桂甘湯",
+    "after": "心下悸，乾嘔噦逆者，茯苓桂甘湯",
+    "expected_count": 1,
+    "reason": "수증 문맥에서 胃氣上逆의 정형 병증인 ‘乾嘔噦逆’으로 확정된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%85%A5%E9%96%80/index.html"
   }
 ]

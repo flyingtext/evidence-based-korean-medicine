@@ -112,9 +112,11 @@
     },
     "K/K005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 768,
+      "unresolved_candidates": 767,
       "punctuation_status": "codex_verified",
-      "note": "현재 status 795자리(출력 잔존 HT4·KT9와 비조판 전각공백 포함)를 기준으로, 독립 평행문으로 확정되는 10개 고유 규칙이 표식 12자와 결자 전각공백 15자, 합계 27자리를 제거한다. ‘針兩鼻HT　衄’은 원 구절의 어순·결자 범위를 단정할 수 없어 보류했다."
+      "note": "HEAD의 K005 기존 교정 377개를 순서대로 적용하기 전 expected_count를 전부 검증했다. 적용 뒤 명시 표지는 HT 1회뿐이며 KT·□·[c]·PUA는 0회, 전각공백은 1290회다. 유일한 HT를 직접 인용문과 1874년 판본 계통으로 齆으로 확정하여 status 768에서 1회 순감한 767로 계산한다. 전각공백은 변경하지 않는다.",
+      "remaining_count": 767,
+      "status": "in_progress"
     },
     "I/I010.txt": {
       "collation_status": "in_progress",
@@ -3854,9 +3856,11 @@
     },
     "L/L003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3468,
+      "unresolved_candidates": 3442,
       "punctuation_status": "source_present",
-      "note": "현 status 3480에서 두 𧬊𧬊 구절의 HT·동반 전각공백 8좌표, 摸와 ⿰米厭의 HT·동반 공백 4좌표만 차감했다. 나머지 희귀 안과 자형과 비조판 전각공백은 보류한다."
+      "note": "HEAD 기존 교정 후 실제 명시 표지 28개 중 공개 《審視瑤函》 직접 문장과 반복 병형으로 26좌표 교감. 漫HT結과 도형 설명 1좌표 보류. status 3468→3442.",
+      "remaining_count": 3442,
+      "status": "in_progress"
     },
     "L/L004.txt": {
       "collation_status": "in_progress",
@@ -4090,9 +4094,11 @@
     },
     "O/O050.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 5809,
+      "unresolved_candidates": 5799,
       "punctuation_status": "source_present",
-      "note": "현 status 5814에서 표제의 결락 전각공백 1좌표, 본문의 HT·동반 공백 2좌표, 䎼의 HT·동반 공백 2좌표만 차감했다. 나머지 희귀자와 비조판 공백은 보류한다."
+      "note": "HEAD 기존 7개 규칙 적용 후 HT 33개와 KT 10개가 남았다. 직접 인용·반복 표제로 확정되는 KT 10개를 occurrence-specific 규칙 10개로 모두 복원했다. 근거가 충분하지 않은 HT 33개와 비조판 전각공백은 유지했으며 unresolved_candidates는 명시 표지 10자리만 5809에서 차감했다.",
+      "remaining_count": 5799,
+      "status": "in_progress"
     },
     "O/O052.txt": {
       "collation_status": "in_progress",

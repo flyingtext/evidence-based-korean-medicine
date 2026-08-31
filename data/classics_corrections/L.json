@@ -3205,6 +3205,160 @@
       "expected_count": 1,
       "reason": "jicheng 공개 전문의 같은 大小雷頭風症 문장이 IDS 자형 ‘⿰米厭凸’로 전사되어 있다.",
       "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+    },
+    {
+      "before": "肝膽虧弱目始病臟腑火盛HT　方痛",
+      "after": "肝膽虧弱目始病臟腑火盛脈方痛",
+      "expected_count": 1,
+      "reason": "공개 《審視瑤函》 동일 문장",
+      "evidence": "醫砭《識病辨症詳明金玉賦》: 臟腑火盛脈方痛"
+    },
+    {
+      "before": "內多黑花隱隱HT　疼",
+      "after": "內多黑花隱隱𥅲疼",
+      "expected_count": 1,
+      "reason": "공개 원문 직접 대조",
+      "evidence": "醫砭: 虛淫者內多黑花，隱隱𥅲疼"
+    },
+    {
+      "before": "當慮乎HT　翻之患，HT　疼似擊若鶻眼",
+      "after": "當慮乎𥅲翻之患，𥅲疼似擊若鶻眼",
+      "expected_count": 1,
+      "reason": "공개 원문 직접 대조",
+      "evidence": "醫砭: 當慮乎𥅲翻之患，𥅲疼似擊若鶻眼"
+    },
+    {
+      "before": "白HT　俱青，肝邪蒸逼氣輪藍",
+      "after": "白𥅲俱青，肝邪蒸逼氣輪藍",
+      "expected_count": 1,
+      "reason": "공개 원문 직접 대조",
+      "evidence": "醫砭: 白𥅲俱青"
+    },
+    {
+      "before": "則睛出乎HT　外",
+      "after": "則睛出乎𥅲外",
+      "expected_count": 1,
+      "reason": "공개 원문 직접 대조",
+      "evidence": "醫砭: 則睛出乎𥅲外"
+    },
+    {
+      "before": "痕HT　成窟，花翳白陷",
+      "after": "痕陷成窟，花翳白陷",
+      "expected_count": 1,
+      "reason": "동일 문장의 陷·窟 의미와 반복 병형",
+      "evidence": "凝脂翳의 痕陷成窟 문맥"
+    },
+    {
+      "before": "失治者必有青黃牒出HT　凸之禍",
+      "after": "失治者必有青黃牒出睛凸之禍",
+      "expected_count": 1,
+      "reason": "안구 돌출 병형의 고정어",
+      "evidence": "睛凸之禍"
+    },
+    {
+      "before": "若上衝失治，凸HT　之患必矣",
+      "after": "若上衝失治，凸睛之患必矣",
+      "expected_count": 1,
+      "reason": "직전 睛凸의 도치 반복",
+      "evidence": "凸睛之患"
+    },
+    {
+      "before": "有HT　或無HT　，嫩而帶黃色",
+      "after": "有陷或無陷，嫩而帶黃色",
+      "expected_count": 1,
+      "reason": "凝脂翳의 함몰 유무 병형",
+      "evidence": "후속 반복 中有陷·無陷·變出陷"
+    },
+    {
+      "before": "色白，中有HT　，如針刺傷",
+      "after": "色白，中有陷，如針刺傷",
+      "expected_count": 1,
+      "reason": "병형 설명으로 직접 확정",
+      "evidence": "中有陷，如針刺傷"
+    },
+    {
+      "before": "變為黃色，HT　亦漸大為窟者",
+      "after": "變為黃色，陷亦漸大為窟者",
+      "expected_count": 1,
+      "reason": "함몰이 커져 窟이 되는 병형",
+      "evidence": "陷亦漸大為窟"
+    },
+    {
+      "before": "有初起如星，色白無HT　，後漸大而變",
+      "after": "有初起如星，色白無陷，後漸大而變",
+      "expected_count": 1,
+      "reason": "앞뒤 有陷/無陷 대구",
+      "evidence": "凝脂翳 병형 無陷"
+    },
+    {
+      "before": "色黃始變出HT　者",
+      "after": "色黃始變出陷者",
+      "expected_count": 1,
+      "reason": "반복 병형 變出陷",
+      "evidence": "凝脂翳 병형 變出陷"
+    },
+    {
+      "before": "或有HT　無HT　，後漸漸變大者",
+      "after": "或有陷無陷，後漸漸變大者",
+      "expected_count": 1,
+      "reason": "동일 단락의 함몰 유무 대구",
+      "evidence": "有陷無陷"
+    },
+    {
+      "before": "或色淡黃，或有HT　無HT　而變者",
+      "after": "或色淡黃，或有陷無陷而變者",
+      "expected_count": 1,
+      "reason": "동일 단락의 함몰 유무 대구",
+      "evidence": "有陷無陷"
+    },
+    {
+      "before": "或先有痕HT　，後變出凝脂一片者",
+      "after": "或先有痕陷，後變出凝脂一片者",
+      "expected_count": 1,
+      "reason": "반복 병형 痕陷",
+      "evidence": "先有痕陷"
+    },
+    {
+      "before": "大凡風輪有痕HT　的，點服不久",
+      "after": "大凡風輪有痕陷的，點服不久",
+      "expected_count": 1,
+      "reason": "동일 병형의 痕陷 반복",
+      "evidence": "風輪有痕陷"
+    },
+    {
+      "before": "障滿睛HT　，視亦不見",
+      "after": "障滿睛珠，視亦不見",
+      "expected_count": 1,
+      "reason": "안구 해부 고정어",
+      "evidence": "睛珠"
+    },
+    {
+      "before": "燥淫所勝。民病目HT　瘍。",
+      "after": "燥淫所勝。民病目赤瘍。",
+      "expected_count": 1,
+      "reason": "《素問》 직접 경문",
+      "evidence": "陽明司天，燥淫所勝，民病目赤瘍"
+    },
+    {
+      "before": "痘後睛HT　突出",
+      "after": "痘後睛珠突出",
+      "expected_count": 1,
+      "reason": "안구 돌출 병형의 고정어",
+      "evidence": "睛珠突出"
+    },
+    {
+      "before": "劉河間曰：目HT　不明，熱也。",
+      "after": "劉河間曰：目昏不明，熱也。",
+      "expected_count": 1,
+      "reason": "劉河間 직접 인용의 고정어",
+      "evidence": "目昏不明，熱也"
+    },
+    {
+      "before": "乃道家黃婆媒合嬰HT　之理",
+      "after": "乃道家黃婆媒合嬰姹之理",
+      "expected_count": 1,
+      "reason": "도가 내단술의 고정 대구",
+      "evidence": "黃婆媒合嬰姹"
     }
   ],
   "L/L004.txt": [
