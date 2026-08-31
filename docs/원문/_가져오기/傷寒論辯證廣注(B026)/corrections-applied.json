@@ -1702,5 +1702,19 @@
     "evidence_url": "https://cloudtcm.com/shu/t1/481/20",
     "evidence_note": "앞 병후의 축약 반복.",
     "reason": "앞 병후의 축약 반복."
+  },
+  {
+    "before": "熱病頭痛顳　目HT　。脈痛。善衄",
+    "after": "熱病頭痛顳顬目脈痛。善衄",
+    "expected_count": 1,
+    "reason": "《靈樞·熱病》 정문 ‘熱病頭痛，顳顬目脈痛，善衄’의 직접 인용.",
+    "evidence_note": "顳 뒤 결자 顬를 복원하고 OCR이 삽입한 HT 및 잘못 끊긴 구두점을 함께 정상화."
+  },
+  {
+    "before": "夏有赤脈KT　秋。有白氣狸",
+    "after": "夏有赤脈剝。秋有白氣狸",
+    "expected_count": 1,
+    "reason": "龐安時의 사시 온독 명칭 열거 ‘春青筋牽、夏赤脈剝、秋白氣狸、冬黑骨溫’의 평행 구조.",
+    "evidence_note": "KT는 여름 병명 끝 글자 剝이며 秋 앞 전각 공백은 문장 경계 조판 손상."
   }
 ]

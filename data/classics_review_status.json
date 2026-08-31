@@ -18,7 +18,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 309,
       "punctuation_status": "source_present",
-      "note": "최신 shard 62규칙 적용 문서에는 HT/KT/□/PUA가 남지 않았다. review status의 비조판 전각공백 후보 309좌표는 판면 대조 없이 확정할 occurrence-고유 신규 규칙이 없어 보류."
+      "note": "실제 출력 HT/KT/□ 0, 전각 공백 1146. 처방 약재 열거 조판 비중이 높고 이번 대조에서 독립 확정할 새 고유 규칙은 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 309자리로 유지한다."
     },
     "O/O004.txt": {
       "collation_status": "in_progress",
@@ -388,9 +388,9 @@
     },
     "B/B026.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 310,
+      "unresolved_candidates": 308,
       "punctuation_status": "source_present",
-      "note": "최신 shard 213규칙 이후에도 HT 1·KT 3과 비조판 공백이 남는다. `其人即KTKT`, `顳…目HT`, `赤脈KT秋`은 접근 가능한 전사 사이 자형·구두가 일치하지 않아 추정 복원을 배제했다."
+      "note": "HT1과 KT1을 고전 직접 인용·사시 평행문으로 복원. 남은 KT2는 ‘其人即KTKT，與噎同猶言咽也’의 희귀 자형으로 판면 없이는 확정하지 않음. FW871. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 308자리로 유지한다."
     },
     "B/B014.txt": {
       "collation_status": "complete",
@@ -2970,7 +2970,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 287,
       "punctuation_status": "source_present",
-      "note": "《證類本草》 密蒙花 평행문 小兒麩豆로 남은 KT 1자를 麩로 확정. 그 밖의 비조판 전각 공백 후보는 보류. 검증 applied=78/78, warnings=0, overlaps=0."
+      "note": "기존 조판 194곳 분류를 유지했다. 비조판 잔여 287곳은 이번 재교감에서도 독립 근거로 확정하지 못해 보류."
     },
     "C/C045.txt": {
       "collation_status": "in_progress",
@@ -3006,7 +3006,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 349,
       "punctuation_status": "source_present",
-      "note": "최신 C shard 217규칙은 현재 출력에 반영되어 HT·KT·□·PUA가 0이다. 현재 전각 공백 367곳 중 기존 감사의 조판 18곳을 제외한 349곳은 공개 jicheng 계통 전사도 같은 결락을 공유하여 독립 판면 없이 확정하지 않았다. 신규 규칙 0개, overlap=0, warnings=0이다. review status의 350은 KT 치환 뒤 동반 전각 공백 감소를 반영하지 않은 값으로 보인다."
+      "note": "명시적 HT·KT·□·PUA는 0이며 전각공백367 중 조판18을 제외한349가 남는다. 공개 전사도 같은 결락을 공유하여 원판 없이 추가 확정하지 않았다."
     },
     "C/C000.txt": {
       "collation_status": "in_progress",
@@ -3030,7 +3030,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 323,
       "punctuation_status": "source_present",
-      "note": "최신 shard에는 규칙이 없고 현재 출력에는 전각 공백 505곳만 남는다. 감사표는 그중 조판 11·복원 또는 정규화 좌표 171·미확정 323으로 분류하지만, 복원 171좌표가 correction shard로 제공되지 않아 재구성하지 않았다. 공개 jicheng·위키문헌도 희귀 본초명 결락을 공유하므로 신규 확정 규칙 0개, overlap=0, warnings=0이다."
+      "note": "현재 marker는 0, FW505. 감사표는 restored_or_normalized_positions=171, layout=11, unresolved=323이라고 집계하지만 171개 좌표·before/after 목록은 저장하지 않고 corrected_body_sha256만 남겼으며 shard도 빈 배열이다. 따라서 현 자료만으로 171좌표를 안전하게 재구성할 수 없고, 당시 jicheng 전문 스냅샷/정렬 산출물 또는 영인 페이지별 재대조가 필요함."
     },
     "B/B027.txt": {
       "collation_status": "in_progress",
@@ -3066,7 +3066,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 356,
       "punctuation_status": "source_present",
-      "note": "최신 B shard 4규칙으로 KT 8자는 현재 출력에서 모두 해소되었다. 남은 전각 공백 356곳은 비조판 후보이며, 공개 전사·원 조문으로 occurrence별 문자를 유일하게 확정할 수 있는 추가 좌표를 찾지 못했다. 신규 규칙 0개, overlap=0, warnings=0이다."
+      "note": "기존4규칙 적용 뒤 명시적 특수표지는 없고 비조판 전각공백356만 남는다. 원 조문·공개 전사로 occurrence별 글자가 유일하게 고정되지 않아 보류한다."
     },
     "B/B019.txt": {
       "collation_status": "in_progress",
@@ -3132,7 +3132,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 299,
       "punctuation_status": "source_present",
-      "note": "최신 A shard 220규칙을 유지하는 증분안이다. 잔여 HT 6곳을 현재 수정 전 출력에서 각각 1회인 비중첩 문맥으로 복원한다. 가상 적용 후 HT·KT·□·PUA는 0, 전각 공백은 633이며 그중 기존 조판 판정 334를 제외한 비조판 후보는 299다. warnings=0, overlap=0."
+      "note": "실제 출력 HT/KT/□ 0, 전각 공백 633. 고전 원문 특유의 단락·약재 조판과 희귀자 결락이 혼재하며 최신 shard 적용 뒤 marker 잔여는 없음. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 299자리로 유지한다."
     },
     "A/A001.txt": {
       "collation_status": "in_progress",
@@ -3580,9 +3580,9 @@
     },
     "E/E012.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 326,
+      "unresolved_candidates": 323,
       "punctuation_status": "source_present",
-      "note": "독립 전사 E012a에서 고유 좌우 문맥이 일치하는 31곳을 추가 복원했다. 32번째 후보는 원문 내 고유 치환 문맥을 만들 수 없어 제외. 잔여 HT2·KT1·□18 및 비조판 후보는 보류. 검증 applied=105/105, warnings=0, overlaps=0."
+      "note": "최신 잔여326에서 商飆 1좌표와 炎威 2좌표를 고유 문맥 두 규칙으로 확정했다. KT 1·□18 및 나머지 비조판 후보는 독립 판독 없이 보류한다. 기존105규칙과 중첩 없음."
     },
     "E/E012a.txt": {
       "collation_status": "complete",
@@ -3786,13 +3786,13 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 357,
       "punctuation_status": "source_present",
-      "note": "기존 72개 규칙은 모두 적용된다. 자필본 계통의 HT2·KT6 및 비조판 후보는 별계통 전사나 영인 판독 없이 유일하게 확정되지 않아 신규 없음. 검증 applied=72/72, warnings=0, overlaps=0."
+      "note": "HT2·KT6과 전각공백을 재검토했다. 耳部 희자, 痘疹 외자, 자필본 계통 어휘는 공개 jicheng 전사도 표식을 유지해 글자 단위 확정이 불가능하다. 기존72규칙 및 조판 분류 유지."
     },
     "I/I201.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 287,
       "punctuation_status": "source_present",
-      "note": "최신 shard 101규칙을 유지하는 증분안. review status 289좌표 중 본문과 음주에 반복된 동일 글자 HT 2좌표를 한 occurrence 규칙으로 해소했다. `江HTHT汗出`는 독립 전사에서도 확정되지 않아 보류."
+      "note": "기존 분류를 유지했다. `江HT HT 汗出`는 공개 전사에도 같은 미복원 표지가 남아 있고 영인 근거가 없어 추정 교정을 보류."
     },
     "L/L003.txt": {
       "collation_status": "in_progress",
@@ -4002,7 +4002,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 282,
       "punctuation_status": "source_present",
-      "note": "기존 206개 규칙이 전부 적용되고 HT/KT/□/PUA는 0이다. 잔여 전각 공백 282곳은 공개 평행문으로 글자를 유일하게 확정하지 못해 신규 제안 없음. 검증 applied=206/206, warnings=0, overlaps=0."
+      "note": "기존 조판 분류를 유지했다. 잔여 전각 공백 282곳은 이번 재교감에서도 독립 근거로 결자를 확정하지 못해 보류."
     },
     "O/O015.txt": {
       "collation_status": "in_progress",
@@ -4264,9 +4264,9 @@
     },
     "P/P0002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 295,
+      "unresolved_candidates": 294,
       "punctuation_status": "source_present",
-      "note": "독립 전사 P0002a에서 고유 좌우 문맥이 일치하는 79곳을 추가 복원했다. 같은 문맥을 만들 수 없는 KT1 및 비조판 후보는 보류. 검증 applied=138/138, warnings=0, overlaps=0."
+      "note": "`KT　麥面多食之` 한 occurrence를 《醫宗金鑑》 동일 조문으로 `蕎麥面多食之`로 확정. 전각 공백은 KT와 한 글자 결자를 중복 표기한 OCR 잔재이므로 좌표 1개로 계산했다."
     },
     "P/P0002a.txt": {
       "collation_status": "complete",

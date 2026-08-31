@@ -1023,5 +1023,12 @@
     "expected_count": 1,
     "evidence_url": "source/P/P0002a.txt",
     "evidence_note": "독립 전사 P0002a의 고유 좌우 문맥으로 결자 濈 확정."
+  },
+  {
+    "before": "KT　麥面多食之，令人發落。",
+    "after": "蕎麥面多食之，令人發落。",
+    "expected_count": 1,
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%92/%E5%8D%B7%E4%B8%89",
+    "evidence_note": "《醫宗金鑑》卷三의 동일 조문 및 통행 조문 「蕎麥麵多食之，令人髮落」와 고유 문맥이 일치한다. 원 자료의 KT와 뒤 전각 공백은 한 글자 蕎의 결자/OCR 잔재로 판정."
   }
 ]
