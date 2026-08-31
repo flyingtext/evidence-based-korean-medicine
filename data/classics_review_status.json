@@ -3022,9 +3022,9 @@
     },
     "C/C046.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2260,
+      "unresolved_candidates": 2239,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 후 remaining 2260에서 전 출현이 고정되는 21개를 추가 해소한다. 고빈도라도 원문이 이체자 논의를 보존하거나 판독 근거가 부족한 코드는 보류했다.",
+      "note": "HEAD correction overlay 16개를 expected_count 조건으로 적용한 결과 16개 전부 적용·stale 0. 적용 후 HT/KT/□ 명시 표지 0개, BMP PUA 0개. jicheng.tw 《本經疏證》 완문을 재대조했으나 전각공백을 제외하고 신규로 확정할 수 있는 오탈자는 없었다. 따라서 remaining_count 2239 유지.",
       "remaining_count": 2239,
       "status": "in_progress"
     },
@@ -3132,10 +3132,10 @@
     },
     "A/A402.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1656,
+      "unresolved_candidates": 3198,
       "punctuation_status": "source_present",
-      "note": "HEAD의 기존 1132개 교정 적용 후 명시 표지 57좌표를 전수 검토해 A402a Cangjie 역색인·《類經/內經》 직접 대응문·자체 음주로 확정되는 55좌표를 복원했다. 전체 remaining 1711에서 55만 차감했다. 선행 전각공백은 모두 유지했으며, 卦象 문장의 HT와 ‘殘同’ 음주의 HT 두 좌표는 복수 후보/원판 이체자라 보류했다.",
-      "remaining_count": 1656,
+      "note": "교정 오버레이 없음. HT 7개와 KT 51개를 확정 복원. 전각공백 3074개는 제외·유지. 《素問》《靈樞》 및 역사 지명·음주로 확정 가능한 결자만 복원하고, 나머지 희자와 자형 불명 표지는 보류.",
+      "remaining_count": 3198,
       "status": "in_progress"
     },
     "B/B002.txt": {
@@ -4274,10 +4274,10 @@
     },
     "O/O076.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 1404,
+      "unresolved_candidates": 1387,
       "punctuation_status": "source_present",
-      "note": "기존 739개 교정 적용 산출물에서 [c]는 0개이며, 명시 표식은 HT 71·KT 25·□ 324였다. 이번에 독립 평행문과 서지 고정구로 HT 7좌표를 6개 occurrence-specific 규칙으로 확정했다(첫 규칙이 HT 2좌표). 나머지 HT/KT/□는 대규모 인용문·인명·연속 판면 손상으로 독립 자형을 확보하지 못해 보류한다. 전각 공백은 유지하고 기존 status 1411에서 실제 7좌표만 차감했다.",
-      "remaining_count": 1404,
+      "note": "기존 correction overlay 적용 후 명시 표지 HT 64, KT 25, □ 324(합계 413), BMP PUA 0. 전각공백은 감사 대상에서 제외했다. 확정 규칙 16개가 HT/KT 표지 17개를 해소하므로 잔여 명시 표지는 396개다. 결락이 큰 □와 판독 근거가 부족한 표지는 보류했다. 기존 상태와 동일한 집계 기준으로 전각공백 991개를 포함한 remaining_count는 1387.",
+      "remaining_count": 1387,
       "status": "in_progress"
     },
     "O/O084.txt": {

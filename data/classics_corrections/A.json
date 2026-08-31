@@ -40825,6 +40825,102 @@
       "after": "匐，伏、蒲二音",
       "expected_count": 1,
       "evidence": "匐의 두 음 伏·蒲를 제시하는 사전식 음주이다."
+    },
+    {
+      "before": "肉胝KT　而唇揭",
+      "after": "肉胝皺　而唇揭",
+      "expected_count": 1,
+      "reason": "《素問·五藏生成》 '肉胝皺而唇揭' 대조."
+    },
+    {
+      "before": "KT　音縐",
+      "after": "皺　音縐",
+      "expected_count": 1,
+      "reason": "바로 앞 글자의 음주가 音縐이므로 皺로 복원."
+    },
+    {
+      "before": "目KT　KT",
+      "after": "目䀮　䀮",
+      "expected_count": 12,
+      "reason": "《素問》과 《類經》 전승문의 目䀮䀮無所見 대조."
+    },
+    {
+      "before": "KT　音荒",
+      "after": "䀮　音荒",
+      "expected_count": 5,
+      "reason": "䀮의 독음 荒을 명시한 주석에 따라 복원."
+    },
+    {
+      "before": "KT　源縣",
+      "after": "汧　源縣",
+      "expected_count": 4,
+      "reason": "왕빙 지리 주석의 唐 汧源縣 및 역사 지명 자료 대조."
+    },
+    {
+      "before": "KT　陽縣",
+      "after": "汧　陽縣",
+      "expected_count": 1,
+      "reason": "鳳翔府의 역사 지명 汧陽縣 대조."
+    },
+    {
+      "before": "欠KT　",
+      "after": "欠呿　",
+      "expected_count": 4,
+      "reason": "《靈樞》 계통의 欠呿와 주석 '音去' 대조."
+    },
+    {
+      "before": "志倦則KT　也",
+      "after": "志倦則呿　也",
+      "expected_count": 1,
+      "reason": "통속문 欠呿 용례와 문맥 대조."
+    },
+    {
+      "before": "KT　音去",
+      "after": "呿　音去",
+      "expected_count": 1,
+      "reason": "呿의 독음 去를 명시한 주석."
+    },
+    {
+      "before": "中KT　兩旁各五",
+      "after": "中膂　兩旁各五",
+      "expected_count": 1,
+      "reason": "背部 中膂 및 경혈 전승문 대조."
+    },
+    {
+      "before": "KT　，膂同",
+      "after": "膂　，膂同",
+      "expected_count": 2,
+      "reason": "주석이 결자를 膂와 같다고 직접 명시."
+    },
+    {
+      "before": "啟柬HT　，",
+      "after": "啟柬陳　，",
+      "expected_count": 1,
+      "reason": "아래 주석의 '古陳字'에 따라 陳으로 복원."
+    },
+    {
+      "before": "HT　，古陳字",
+      "after": "陳　，古陳字",
+      "expected_count": 1,
+      "reason": "주석이 해당 결자를 古陳字로 직접 명시."
+    },
+    {
+      "before": "風，HT　傷人者也",
+      "after": "風，殘　傷人者也",
+      "expected_count": 1,
+      "reason": "뒤 주석 '殘同'에 따라 殘으로 복원."
+    },
+    {
+      "before": "HT　，殘同",
+      "after": "殘　，殘同",
+      "expected_count": 1,
+      "reason": "주석이 해당 결자를 殘과 같다고 직접 명시."
+    },
+    {
+      "before": "布HT　著之",
+      "after": "布憿　著之",
+      "expected_count": 3,
+      "reason": "《素問·診要經終論》 전승문 '必以布憿著之' 대조."
     }
   ],
   "A/A203.txt": [
