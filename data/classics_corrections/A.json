@@ -20174,6 +20174,167 @@
       "reason": "직전 두 글자의 음주가 각각 焠와 㶼을 확정한다.",
       "evidence_url": "https://www.shidianguji.com/character/%E3%B6%BC",
       "evidence_note": "공개 자전의 고전 인용과 음주 문맥이 일치한다."
+    },
+    {
+      "before": "其焦理縱，　KT　短而小",
+      "after": "其焦理縱，　𩩲𩨗短而小",
+      "expected_count": 1,
+      "reason": "《靈樞·論勇》 해부명과 자체 음주",
+      "evidence": "𩩲𩨗音結於，鳩尾骨"
+    },
+    {
+      "before": "其焦理縱者，肉理不橫也。　KT　短小者",
+      "after": "其焦理縱者，肉理不橫也。　𩩲𩨗短小者",
+      "expected_count": 1,
+      "reason": "직전 경문의 반복 해설",
+      "evidence": "𩩲𩨗短小"
+    },
+    {
+      "before": "縱，平聲。　KT　，音結於。",
+      "after": "縱，平聲。　𩩲𩨗，音結於。",
+      "expected_count": 1,
+      "reason": "자체 음주로 복합 글자 확정",
+      "evidence": "𩩲𩨗音結於"
+    },
+    {
+      "before": "無KT　者心高，　KT　小短舉者心下，　KT　長者心堅，　KT　弱小以薄者心脆，　KT　直下不舉者心端正",
+      "after": "無𩩲𩨗者心高，　𩩲𩨗小短舉者心下，　𩩲𩨗長者心堅，　𩩲𩨗弱小以薄者心脆，　𩩲𩨗直下不舉者心端正",
+      "expected_count": 1,
+      "reason": "《靈樞·本藏》 직접 경문",
+      "evidence": "無𩩲𩨗者心高…𩩲𩨗直下不舉者心端正"
+    },
+    {
+      "before": "（理，肉理上。　KT　，鳩尾骨也。",
+      "after": "（理，肉理上。　𩩲𩨗，鳩尾骨也。",
+      "expected_count": 1,
+      "reason": "자체 동의어 주석",
+      "evidence": "𩩲𩨗即鳩尾骨"
+    },
+    {
+      "before": "骷骨有餘，以候　KT　。",
+      "after": "骷骨有餘，以候　𩩲𩨗。",
+      "expected_count": 1,
+      "reason": "《靈樞·本藏》 해부 문맥",
+      "evidence": "缺盆·鳩尾골로 심장의 고하를 살핌"
+    },
+    {
+      "before": "　KT　，蔽心之骨，亦名鳩尾。",
+      "after": "　𩩲𩨗，蔽心之骨，亦名鳩尾。",
+      "expected_count": 1,
+      "reason": "자체 동의어·자의주",
+      "evidence": "𩩲𩨗，蔽心之骨，亦名鳩尾"
+    },
+    {
+      "before": "愉愉然，HT　HT　然，豆豆然",
+      "after": "愉愉然，䁢䁢然，豆豆然",
+      "expected_count": 1,
+      "reason": "《靈樞·通天》 직접 경문",
+      "evidence": "陰陽和平之人…䁢䁢然，豆豆然"
+    },
+    {
+      "before": "愉愉，悅樂也。HT　HT　，周旋也。",
+      "after": "愉愉，悅樂也。䁢䁢，周旋也。",
+      "expected_count": 1,
+      "reason": "직전 표제어 반복과 자의주",
+      "evidence": "䁢䁢，周旋也"
+    },
+    {
+      "before": "愉，音余。HT　，音旋。",
+      "after": "愉，音余。䁢，音旋。",
+      "expected_count": 1,
+      "reason": "자체 음주로 확정",
+      "evidence": "䁢音旋"
+    },
+    {
+      "before": "其為人赤色，（火之色也。）廣KT　，（KT　，音引，當脊肉也。）",
+      "after": "其為人赤色，（火之色也。）廣䏖，（䏖，音引，當脊肉也。）",
+      "expected_count": 1,
+      "reason": "《靈樞·陰陽二十五人》 및 자체 음주",
+      "evidence": "廣䏖；䏖音引，當脊肉"
+    },
+    {
+      "before": "肩背肉滿，（即廣KT　、好肩背之意。）",
+      "after": "肩背肉滿，（即廣䏖、好肩背之意。）",
+      "expected_count": 1,
+      "reason": "동일 문단의 廣䏖 반복",
+      "evidence": "火形人 廣䏖"
+    },
+    {
+      "before": "肩端骨罅為KT　骨，以上肩KT　，巨骨也。KT　、隅同。",
+      "after": "肩端骨罅為髃骨，以上肩髃，巨骨也。髃、隅同。",
+      "expected_count": 1,
+      "reason": "혈명·해부명과 자체 동자주",
+      "evidence": "髃骨·肩髃；髃與隅同"
+    },
+    {
+      "before": "上結於手太陽顴HT　之分。",
+      "after": "上結於手太陽顴髎之分。",
+      "expected_count": 1,
+      "reason": "수태양 혈명",
+      "evidence": "顴髎穴"
+    },
+    {
+      "before": "其病實則手銳掌熱，虛則欠KT　，小便遺數",
+      "after": "其病實則手銳掌熱，虛則欠㰦，小便遺數",
+      "expected_count": 1,
+      "reason": "《靈樞·經脈》 직접 경문",
+      "evidence": "手太陰絡병 虛則欠㰦，小便遺數"
+    },
+    {
+      "before": "欠KT　，張口伸腰也。虛因肺氣不足，故為欠KT　及小便遺而且數",
+      "after": "欠㰦，張口伸腰也。虛因肺氣不足，故為欠㰦及小便遺而且數",
+      "expected_count": 1,
+      "reason": "반복 경문과 자체 자의주",
+      "evidence": "㰦，張口伸腰也"
+    },
+    {
+      "before": "體倦則呻，志倦則KT　也。",
+      "after": "體倦則呻，志倦則㰦也。",
+      "expected_count": 1,
+      "reason": "직접 인용의 고정 문구",
+      "evidence": "體倦則伸，志倦則㰦"
+    },
+    {
+      "before": "以相通也。他經皆然。KT　，音去。",
+      "after": "以相通也。他經皆然。㰦，音去。",
+      "expected_count": 1,
+      "reason": "자체 음주로 확정",
+      "evidence": "㰦音去"
+    },
+    {
+      "before": "必真水虧於腎也。KT　，音荒。",
+      "after": "必真水虧於腎也。䀮，音荒。",
+      "expected_count": 1,
+      "reason": "직전 경문의 표제자와 자체 음주",
+      "evidence": "目䀮䀮；䀮音荒"
+    },
+    {
+      "before": "目則KT　KT　無所見",
+      "after": "目則䀮䀮無所見",
+      "expected_count": 1,
+      "reason": "《素問》 반복 경문",
+      "evidence": "目䀮䀮無所見"
+    },
+    {
+      "before": "其狀如穀實、　KT　，常苦寒熱",
+      "after": "其狀如穀實、　栝蔞，常苦寒熱",
+      "expected_count": 1,
+      "reason": "《靈樞·癰疽》 약물·형상명과 후속 고자주",
+      "evidence": "후속 주석 栝蔞也，古栝樓字"
+    },
+    {
+      "before": "形如穀實之累累也。　KT　，瓜蔞也。",
+      "after": "形如穀實之累累也。　栝蔞，瓜蔞也。",
+      "expected_count": 1,
+      "reason": "자체 동의어 주석",
+      "evidence": "栝蔞，瓜蔞也"
+    },
+    {
+      "before": "蓋即乳癰之屬。　KT　，古栝樓字。",
+      "after": "蓋即乳癰之屬。　栝蔞，古栝樓字。",
+      "expected_count": 1,
+      "reason": "자체 고자주로 확정",
+      "evidence": "栝蔞，古栝樓字"
     }
   ],
   "A/A103.txt": [

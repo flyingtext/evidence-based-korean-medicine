@@ -508,9 +508,11 @@
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 569,
+      "unresolved_candidates": 535,
       "punctuation_status": "source_present",
-      "note": "HT10·KT31·비조판 공백528을 재검토했다. 《內經》 직접 인용으로 의미는 추정되는 좌표가 있으나 희자 자형·주석 어순이 여러 판본에서 달라 occurrence 고유 글자를 추가 확정하지 않았다. 기존 조판22와445규칙 유지."
+      "note": "HEAD 기존 교정 후 실제 명시 표지 40개 중 직접 경문·자체 음주로 34좌표 교감. 《廣雅》 자형 논의 4좌표와 훼손 문맥 2좌표는 보류. status 569→535.",
+      "remaining_count": 535,
+      "status": "in_progress"
     },
     "A/A205.txt": {
       "collation_status": "complete",
@@ -3056,9 +3058,11 @@
     },
     "C/C003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 736,
+      "unresolved_candidates": 713,
       "punctuation_status": "source_present",
-      "note": "KT50과 비조판 공백686을 본초명·동식물명별로 재검토했으나 공개 전사도 결락을 공유하고 희자 후보가 복수라 원판 없이 확정하지 않았다. 기존205규칙·조판32 유지."
+      "note": "기존 205개 교정 적용 산출물의 명시 표식 KT 50좌표를 전수 재검토했다. 반복 병명 䘌瘡·疳䘌·濕䘌와 직접 본초 인용(血䘓, 羽青, 陰蝕, 熱匿, 令煙)으로 10개 안전 규칙, 실제 23좌표를 확정했다. 나머지 KT 27좌표는 희귀 동식물 이명·《爾雅》 고자 및 손상 문장으로 공개 전사도 결락을 공유하여 보류한다. 전각 공백은 모두 유지하고 status 736에서 실제 23좌표만 차감했다.",
+      "remaining_count": 713,
+      "status": "in_progress"
     },
     "C/C006.txt": {
       "collation_status": "in_progress",
@@ -3124,9 +3128,11 @@
     },
     "B/B002.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 544,
+      "unresolved_candidates": 542,
       "punctuation_status": "source_present",
-      "note": "KT8 전부를 자체 음훈으로 㪍로 확정하고 HT1을 자매 전사 명시로 冷 복원. 남은 HT1은 간기 문구 판독 불명. □37은 대부분 札記가 원본 파손·타본 □를 문자 그대로 인용한 교감 기호이며 실결락 자동복원 대상이 아니므로 보존 분류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 544자리로 유지한다."
+      "note": "status 544에서 B002a Cangjie·자체 음훈·공개 판본 간기로 확정되는 명시 표지 2좌표만 차감했다. 기존 교정 적용 뒤 실측 명시 표지는 KT 1, HT 1, □ 37이었으며 두 규칙 적용 후 □ 37만 남는다. □는 원판 파손을 설명하는 교감기 또는 처방 난외의 장문 결락이고 B002a도 같은 결락을 보존하므로 보류했다. 전각공백은 유지했다. HEAD 기존 규칙 129개 중 1개는 앞선 교정 결과(白氣貍)를 before로 요구하고, 1개는 원자료 [h4] 대신 Markdown ###를 요구하여 source 원문 기준 expected_count가 0인 기존 불일치다. 나머지 127개와 신규 2개는 검증된다.",
+      "remaining_count": 542,
+      "status": "in_progress"
     },
     "B/B003.txt": {
       "collation_status": "in_progress",

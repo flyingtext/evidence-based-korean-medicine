@@ -967,5 +967,17 @@
     "after": "後二行：足冷（薛本、顧本皆作「冷」。）",
     "expected_count": 1,
     "reason": "札記 자체가 薛本·顧本의 판독 ‘冷’을 명시함."
+  },
+  {
+    "before": "[h4]赤脈KT證[/h4]",
+    "after": "[h4]赤脈㪍證[/h4]",
+    "expected_count": 1,
+    "evidence": "B002a의 동일 제목은 Cangjie qlnc이며 본문 자체가 ‘㪍（芳末切，擊化也）’라고 자해한다. 공개 《傷寒總病論》도 赤脈㪍로 확인된다. https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96_1/index.html"
+  },
+  {
+    "before": "道光癸未歲吳門黃氏士禮HT　開雕同邑施南金書",
+    "after": "道光癸未歲吳門黃氏士禮居　開雕同邑施南金書",
+    "expected_count": 1,
+    "evidence": "B002a 동일 간기의 특수 표지 자리이며 공개 소장본 간기가 ‘黃氏士禮居開雕’로 판독된다. https://old.shuge.org/ebook/shang-han-zong-bing-lun/"
   }
 ]

@@ -1638,5 +1638,65 @@
     "reason": "온라인 판본 고유 문맥 대조 결자 보충",
     "evidence_url": "https://jicheng.tw/tcm/book/%E6%96%B0%E4%BF%AE%E6%9C%AC%E8%8D%89/index.html",
     "evidence_note": "C/C003.txt: 좌우 한자 각 14자 고유 일치"
+  },
+  {
+    "before": "KT　瘡",
+    "after": "䘌瘡",
+    "expected_count": 10,
+    "evidence": "10좌표 모두 下部·陰부 및 기생충성 피부병 문맥의 고정 병명 䘌瘡이다. 《新修本草》·본초 자매문과 동일하다. https://jicheng.tw/tcm/book/%E6%96%B0%E4%BF%AE%E6%9C%AC%E8%8D%89/index.html"
+  },
+  {
+    "before": "KT瘡",
+    "after": "䘌瘡",
+    "expected_count": 2,
+    "evidence": "두 좌표 모두 `下部䘌瘡`과 약물 주치의 `䘌瘡`이며 공개 본초 평행문과 일치한다."
+  },
+  {
+    "before": "疳KT　",
+    "after": "疳䘌",
+    "expected_count": 2,
+    "evidence": "獸部 주치에서 반복되는 고정 병명 疳䘌이며 공개 《新修本草》 본문과 일치한다."
+  },
+  {
+    "before": "濕KT　",
+    "after": "濕䘌",
+    "expected_count": 3,
+    "evidence": "세 좌표가 각각 甘濕䘌·疳濕䘌·瘡濕䘌의 기생충성 피부병 문맥이며 본초 평행문과 일치한다."
+  },
+  {
+    "before": "羊血KT　，庖人削藕皮",
+    "after": "羊血䘓，庖人削藕皮",
+    "expected_count": 1,
+    "evidence": "도홍경 본초 주의 직접 인용은 `太官作血䘓`이며 䘓은 血羹이다. https://zdic.net/hant/%E4%98%93"
+  },
+  {
+    "before": "一名羽KT，一名羽澤",
+    "after": "一名羽青，一名羽澤",
+    "expected_count": 1,
+    "evidence": "曾青의 본초 이명 羽青·羽澤를 나란히 열거한 직접 인용이며 공개본과 일치한다."
+  },
+  {
+    "before": "陰KT　爛瘡",
+    "after": "陰蝕爛瘡",
+    "expected_count": 1,
+    "evidence": "고정 병명 陰蝕爛瘡이며 전통 의서 병명 자료와 일치한다. https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012181&tempLang=ko"
+  },
+  {
+    "before": "主熱KT　煩滿，不能食",
+    "after": "主熱匿煩滿，不能食",
+    "expected_count": 1,
+    "evidence": "豨薟 주치의 공개 평행문이 `主熱匿煩滿，不能食`으로 직접 보존한다. https://yibian.hopto.org/tw/shu/?sid=75837"
+  },
+  {
+    "before": "微炒令KT　，散著濕地",
+    "after": "微炒令煙，散著濕地",
+    "expected_count": 1,
+    "evidence": "葵子 처리법의 평행 인용은 `微炒令煙，散著濕地`로 보존한다. https://upload.wikimedia.org/wikipedia/commons/7/74/NLC511-023031404025290-52138_%E7%88%BE%E9%9B%85%E7%BF%BC_%E4%B8%80.pdf"
+  },
+  {
+    "before": "皮主甘KT　。樗木根葉尤良",
+    "after": "皮主甘䘌。樗木根葉尤良",
+    "expected_count": 1,
+    "evidence": "椿木皮 주치의 본초 평행문은 疳䘌이며 현 전사는 앞 글자를 甘으로 오기했으나 결자 자체는 䘌로 확정된다. https://www.theqi.com/cmed/oldbook/book303/b303_20.html"
   }
 ]
