@@ -3978,9 +3978,11 @@
     },
     "N/N011.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 641,
+      "unresolved_candidates": 631,
       "punctuation_status": "source_present",
-      "note": "□67과 비조판 전각공백574를 실제 문맥에서 재검토했다. 서문·의안의 연속 손상 구간은 공개 전사도 □를 공유해 영인 없이 occurrence별 글자를 확정할 수 없다. 기존127규칙과 조판1444 유지."
+      "note": "HEAD N011 기존 교정 127개 expected_count 전부 검증 후 적용. 잔여는 □ 67회, 전각공백 2025회이며 HT·KT·[c]·PUA는 0회. 자매본과 직접 일치하는 세 규칙에서 □ 10개를 복원하여 status 641에서 remaining_count 631. 서문·각주·족부 의안 등 나머지 □ 57개는 jicheng.tw에도 원판 공란/장문 훼손으로 남아 보류. 전각공백은 변경하지 않음.",
+      "remaining_count": 631,
+      "status": "in_progress"
     },
     "N/N038.txt": {
       "collation_status": "complete",
@@ -4212,9 +4214,11 @@
     },
     "O/O069.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 569,
+      "unresolved_candidates": 554,
       "punctuation_status": "source_present",
-      "note": "고전 직접 인용·독립 전사로 12개 occurrence 규칙에서 특수표식 17자와 인접 결자 패딩 공백 16자를 복원했다. 기존 조판 184곳 분류 유지."
+      "note": "HEAD 교정을 유효 expected_count 규칙에 한해 순차 적용한 뒤 실제 명시 표지 18개 중 직접 인용·자매본·자체 자해·Cangjie 역색인으로 15좌표를 교감했다(status 569→554). 잔여 3좌표는 喻昌 인용의 ‘背張 KTKT’ 2좌표(원 인용 계열도 결자)와 痘疹 저자명 ‘管HT’ 1좌표(인명 미확정)로 보류했다.",
+      "remaining_count": 554,
+      "status": "in_progress"
     },
     "O/O071.txt": {
       "collation_status": "in_progress",
@@ -4532,9 +4536,11 @@
     },
     "P/P0800.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 7182,
+      "unresolved_candidates": 7171,
       "punctuation_status": "source_present",
-      "note": "현 status 7182를 유지한다. 기존 대량 교정 후 남은 HT·KT·□는 서로 다른 인명·지명·의학 희귀자가 혼재하여 독립 좌표 근거 없이 추정하지 않았다."
+      "note": "HEAD 809개 규칙 적용 후 HT 9개, KT 9개, □ 1개가 남았다. 직접 인용·처방 및 병증 고정구로 HT 4개, KT 6개, □ 1개, 합계 11개 표지를 복원했다. 나머지 HT 5개와 KT 3개 및 전각공백은 유지했다.",
+      "remaining_count": 7171,
+      "status": "in_progress"
     },
     "P/P0801.txt": {
       "collation_status": "in_progress",

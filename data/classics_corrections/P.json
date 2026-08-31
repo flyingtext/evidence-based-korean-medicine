@@ -119267,6 +119267,76 @@
       "expected_count": 1,
       "evidence": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐.",
       "reason": "담훈에서 메스꺼워 토하려는 상태를 뜻하는 정형 구문 兀兀欲吐."
+    },
+    {
+      "before": "（明尚書胡KT　集。）",
+      "after": "（明尚書胡松集。）",
+      "expected_count": 1,
+      "reason": "명대 상서 胡松의 인명과 편집 표기.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "叔和《脈訣》有　HT鄙俗，實非叔和之作",
+      "after": "叔和《脈訣》有　粗鄙俗，實非叔和之作",
+      "expected_count": 1,
+      "reason": "문헌 비평의 고정 결합 ‘粗鄙俗’. 선행 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "今之承藉者，多恃KT　名價，不能精心研習",
+      "after": "今之承藉者，多恃虛名價，不能精心研習",
+      "expected_count": 1,
+      "reason": "뒤의 ‘委命虛名’과 호응하는 고정어 ‘恃虛名價’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "缺盆以下至　KT　長九寸，過則肺大，不滿則肺小。　KT　以下至天樞長八寸",
+      "after": "缺盆以下至　𩩲骭長九寸，過則肺大，不滿則肺小。　𩩲骭以下至天樞長八寸",
+      "expected_count": 1,
+      "reason": "《靈樞·骨度》 직접 인용의 연속 정형문. 각 표지 앞 전각공백 유지.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%F0%A9%A9%B2&if=gb"
+    },
+    {
+      "before": "撫芎（即HT　蕪芎　苗頭小個是也。",
+      "after": "撫芎（即小蕪芎　苗頭小個是也。",
+      "expected_count": 1,
+      "reason": "撫芎의 본초 이명 설명 ‘即小蕪芎’이며 뒤의 ‘苗頭小個’와도 호응한다. 약재 구분 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html"
+    },
+    {
+      "before": "先以湯洗手足□之，卻取下穴。",
+      "after": "先以湯洗手足熨之，卻取下穴。",
+      "expected_count": 1,
+      "reason": "더운 물로 손발을 데워 찜질하는 고정 용법 ‘熨之’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "驚風所致為潮涎，為目HT　，為口噤",
+      "after": "驚風所致為潮涎，為目瞪，為口噤",
+      "expected_count": 1,
+      "reason": "경풍의 고정 증후열 ‘潮涎、目瞪、口噤’. 전각공백 제거.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "眩運嘈雜，煩心忪悸，　KT　寒熱，疼痛腫滿",
+      "after": "眩運嘈雜，煩心忪悸，　往來寒熱，疼痛腫滿",
+      "expected_count": 1,
+      "reason": "痰飲 증후열의 고정어 ‘往來寒熱’. 선행 전각공백 유지.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "至晚，胸中痛止而膝KT　大痛，蓋痰飲隨氣升降",
+      "after": "至晚，胸中痛止而膝髕大痛，蓋痰飲隨氣升降",
+      "expected_count": 1,
+      "reason": "무릎뼈 부위의 고정 해부 명칭 ‘膝髕’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
+    },
+    {
+      "before": "胚HT　將兆，九九數足，我則載而乘",
+      "after": "胚胎將兆，九九數足，我則載而乘",
+      "expected_count": 1,
+      "reason": "紫河車가 태아를 싣는다는 설명의 고정어 ‘胚胎將兆’.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html"
     }
   ],
   "P/P0801.txt": [
