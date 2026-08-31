@@ -506,7 +506,8 @@
       "collation_status": "complete",
       "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "기존 66개 규칙 중 동일 편집 구간을 중복으로 덮는 23개 장문/단문 규칙을 제거하고, 독립 근거가 있는 43개 비중첩 규칙으로 정리했다. 氣主　之。 규칙은 실제 두 출현 중 목표 문맥만 지정하도록 앞뒤 문장을 포함해 좌표를 한정했다. 서로 충돌하던 후보는 후행 독립 근거가 명시된 霪·肛·痎를 채택했다. 정리 배열을 실제 convert_classics.apply_corrections에 적용해 43/43 적용, warnings=0, HT/KT/□/[c]/PUA=0을 확인했다. 정본 승격 가능."
+      "note": "현재 source에 HEAD correction overlay 43개를 순차 검사하면 27개 적용·16개 stale(이미 반영된 문맥 포함). 적용 후 HT/KT/□ 명시 표지 0개, BMP PUA 0개이며 review_status도 complete/unresolved 0이다. 인터넷 신뢰 원문 대조에서 전각공백을 제외한 신규 확정 오탈자는 발견되지 않았다. 정본 승격 상태 유지 가능.",
+      "remaining_count": 0
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
@@ -543,10 +544,12 @@
       "note": "HT9·KT2·□1과 약물열의 무표식 탈자를 공개 고전 평행문으로 모두 복원. Codex 표점 76청크를 비표점 문자 완전 보존으로 검증 완료."
     },
     "A/A204.txt": {
-      "collation_status": "complete",
-      "unresolved_candidates": 0,
+      "collation_status": "in_progress",
+      "unresolved_candidates": 700,
       "punctuation_status": "source_present",
-      "note": "《靈樞》 인용문의 변환 잔재 HT를 제거하여 교감 완료."
+      "note": "확정 결자 20개를 복원하는 규칙이다. 독립적인 전각공백은 지시대로 교정 대상으로 삼지 않았으며, 결자 토큰 사이에 끼어 있던 전각공백만 토큰 복원과 함께 제거된다. 공개 원문에서도 판독이 충돌하거나 자리표시자가 남은 ‘即HT漏之所’와 ‘HT　殘傷人者也’의 HT 2개는 추정하지 않았다. 적용 후 잔여 집계는 HT 2, KT 0, □ 0, PUA 0, 전각공백 698로 총 700이다.",
+      "status": "in_progress",
+      "remaining_count": 700
     },
     "A/A009a.txt": {
       "collation_status": "complete",
@@ -989,7 +992,7 @@
     "Q/Q008.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "공백·깨진 토큰 없음. 針灸大成 본문판과 독립 전재본 대조로 가결 본문 18건 교정, 원자료 표점 충분"
     },
     "Q/Q006.txt": {
@@ -3660,10 +3663,10 @@
     },
     "E/E014.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 785,
+      "unresolved_candidates": 776,
       "punctuation_status": "source_present",
-      "note": "기존 106개 교정 적용 산출물을 재검사한 결과 명시 표식은 HT 15·KT 5·□ 215([c]·PUA 0), 합계 235좌표였다. 독립 본초 인용과 《靈樞》 주석본으로 HT 2좌표·KT 2좌표를 확정했다. 나머지는 부적·주문 자형, 조류·병명 이칭, 연속 판면 손상으로 자형 근거가 부족하여 보류한다. 전각 공백은 교정 대상 주변 이외에는 유지했으며 status 789에서 실제 4좌표만 차감했다.",
-      "remaining_count": 785,
+      "note": "현재 correction overlay에서 원문과 일치해 적용 가능한 103규칙을 반영한 뒤 HT 13, KT 3, □ 215(합계 231), BMP PUA 0을 확인했다. 기존 6규칙은 선행 문맥 교정으로 before가 이미 사라져 직접 적용되지 않았다. 전각공백 1327개는 감사 대상에서 제외했다. 확정 규칙 7개가 HT/KT 표지 9개를 해소하여 잔여 명시 표지는 222개다. 부적·주문의 도형 문자와 대규모 □ 결락은 추정하지 않았다. 기존 상태와 같은 집계 기준으로 전각공백 554개를 포함한 remaining_count는 776.",
+      "remaining_count": 776,
       "status": "in_progress"
     },
     "F/F002.txt": {

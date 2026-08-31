@@ -5106,6 +5106,48 @@
       "after": "所謂𩜺不得息者是也。",
       "expected_count": 1,
       "evidence": "《靈樞識·刺節真邪》에 같은 경문이 `病惡埃煙𩜺不得息` 및 `𩜺不得息`으로 보존된다. https://cloudtcm.com/shu/t1/469/202"
+    },
+    {
+      "before": "又名KT　，多對啼，其鳴云：但南不北。",
+      "after": "又名樢，多對啼，其鳴云：但南不北。",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 《松峰說疫》 해당 문장이 `又名樢，多對啼`로 전사되어 있다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
+    },
+    {
+      "before": "喘咳、KT　（同噎。）噦，腫滿泄瀉",
+      "after": "喘咳、䭇（同噎。）噦，腫滿泄瀉",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 《松峰說疫》 渴 조문에 `喘咳、䭇（同噎。）噦`로 확인된다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
+    },
+    {
+      "before": "夏三月行赤脈KT　病",
+      "after": "夏三月行赤脈攢病",
+      "expected_count": 1,
+      "evidence": "공개 영인 《傷寒總病論》의 해당 편명이 `赤脈攢證`, 본문이 `夏三月行赤脈攢病`으로 확인된다. https://upload.wikimedia.org/wikipedia/commons/f/f1/SBL062_%E5%82%B7%E5%AF%92%E7%B8%BD%E7%97%85%E8%AB%96.pdf"
+    },
+    {
+      "before": "[u]HT　胎散[/u]",
+      "after": "[u]𦋐胎散[/u]",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 《松峰說疫》 妊娠瘟疫 조의 처방명이 `𦋐胎散`으로 확인된다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
+    },
+    {
+      "before": "、HT　等鳥專食以上諸蟲。",
+      "after": "、𪄕等鳥專食以上諸蟲。",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 《松峰說疫》 痧病類傷寒 조가 `鸂、鶒、鸀、𪄕等鳥`로 전사한다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
+    },
+    {
+      "before": "[h3]HT脖子猴HT[/h3]",
+      "after": "[h3]⿸虎手脖子猴⿸虎手[/h3]",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 해당 표제가 `⿸虎手脖子猴⿸虎手`로 보존되어 있으며 바로 아래 주석도 같은 글자의 구성과 음을 설명한다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
+    },
+    {
+      "before": "（恝平聲。即用手HT　物HT　字。）",
+      "after": "（恝平聲。即用手⿸虎手物⿸虎手字。）",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 해당 주석이 `即用手⿸虎手物⿸虎手字`로 확인되어 표제의 IDS 글자와 일치한다. https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html"
     }
   ]
 }

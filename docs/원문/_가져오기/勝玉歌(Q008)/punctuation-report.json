@@ -1,0 +1,53 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q008.txt",
+    "sha256": "4818eb334afb7c6ab0642c0f6e1a89191ca0ed41de96c907db76357b096bfeda"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "29a7e4b1aee7004537d126a67b07c19421feedfb4344a1fe30092c9bc4893a08",
+    "applied_count": 18
+  },
+  "output": "docs/원문/_가져오기/勝玉歌(Q008)/표점본.md",
+  "chunks": {
+    "total": 1,
+    "resumable_completed": 1,
+    "min_chars": 628,
+    "max_chars": 628,
+    "target_chars": 600,
+    "attempts": [
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 628,
+        "output_characters": 628,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 76,
+        "punctuation_density": 0.1423221,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 534,
+    "output_nonpunctuation_characters": 534,
+    "input_non_punctuation_characters": 534,
+    "output_non_punctuation_characters": 534
+  },
+  "punctuation": {
+    "ascii_count": 76,
+    "density_per_nonpunctuation_character": 0.1423221,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
