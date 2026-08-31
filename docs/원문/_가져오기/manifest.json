@@ -390,7 +390,7 @@
       "output_directory": "內經博議(A201)",
       "markdown_files": 6,
       "translation_units": 62,
-      "corrections_applied": 109,
+      "corrections_applied": 111,
       "punctuated": false,
       "warnings": []
     },
@@ -558,12 +558,9 @@
       "output_directory": "難經正義(A304)",
       "markdown_files": 7,
       "translation_units": 82,
-      "corrections_applied": 61,
+      "corrections_applied": 60,
       "punctuated": false,
-      "warnings": [
-        "교정 좌표 중첩: 72136:72140",
-        "교정 좌표 중첩: 72156:72160"
-      ]
+      "warnings": []
     },
     {
       "source_path": "A/A305.txt",
@@ -935,12 +932,9 @@
       "output_directory": "傷寒尋源(B009)",
       "markdown_files": 5,
       "translation_units": 189,
-      "corrections_applied": 59,
+      "corrections_applied": 61,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '心中懊\\u3000' (7/1)",
-        "교정 불일치: '手足\\u3000然汗出' (2/1)"
-      ]
+      "warnings": []
     },
     {
       "source_path": "B/B010.txt",
@@ -10333,12 +10327,9 @@
       "output_directory": "寓意草(N045)",
       "markdown_files": 67,
       "translation_units": 67,
-      "corrections_applied": 70,
+      "corrections_applied": 71,
       "punctuated": false,
-      "warnings": [
-        "교정 불일치: '曲\\u3000' (3/2)",
-        "교정 좌표 중첩: 58537:58538"
-      ]
+      "warnings": []
     },
     {
       "source_path": "N/N046.txt",
@@ -12020,7 +12011,7 @@
       "output_directory": "古今名醫匯粹(O060)",
       "markdown_files": 9,
       "translation_units": 110,
-      "corrections_applied": 155,
+      "corrections_applied": 157,
       "punctuated": false,
       "warnings": []
     },

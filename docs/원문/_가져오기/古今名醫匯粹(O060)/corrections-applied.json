@@ -1238,5 +1238,19 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E5%A4%A7%E5%A5%87%E8%AB%96",
     "evidence_note": "동일 편 腸澼.",
     "reason": "동일 편 腸澼."
+  },
+  {
+    "before": "許學士云，經曰足少陰之脈，是動則病坐而欲起，目KT　KT　如無所見",
+    "after": "許學士云，經曰足少陰之脈，是動則病坐而欲起，目䀮䀮如無所見",
+    "expected_count": 1,
+    "evidence_url": "https://aeam.jp/wp/wp-content/uploads/2024/03/reisu.pdf",
+    "evidence_note": "《靈樞·經脈》 공개 교감 텍스트가 해당 경문을 `坐而欲起，目䀮䀮如無所見`으로 제시한다."
+  },
+  {
+    "before": "又曰：少陰所謂起則目KT　KT無所見者，陰內奪，故目KT　KT　無所見也",
+    "after": "又曰：少陰所謂起則目䀮䀮無所見者，陰內奪，故目䀮䀮無所見也",
+    "expected_count": 1,
+    "evidence_url": "https://journal.kci.go.kr/jkmc/archive/articlePdf?artiId=ART001201948",
+    "evidence_note": "《靈樞》 경문을 인용·대조한 학술 PDF가 `目䀮䀮如無所見`의 외자형을 직접 보존하며, 같은 문장 안의 두 반복 위치를 함께 한정한다."
   }
 ]

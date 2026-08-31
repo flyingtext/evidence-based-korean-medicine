@@ -7146,13 +7146,6 @@
       "reason": "양명 전속 조문의 정형어 濈然汗出."
     },
     {
-      "before": "手足　然汗出",
-      "after": "手足濈然汗出",
-      "expected_count": 1,
-      "evidence": "양명 위가실 조문의 정문 手足濈然汗出.",
-      "reason": "양명 위가실 조문의 정문 手足濈然汗出."
-    },
-    {
       "before": "遍身　微似有汗",
       "after": "遍身漐漐微似有汗",
       "expected_count": 2,
@@ -7160,11 +7153,20 @@
       "reason": "계지탕 원문과 해설에 반복되는 정문 遍身漐漐微似有汗."
     },
     {
-      "before": "心中懊　",
-      "after": "心中懊憹",
+      "before": "手足汗乃專屬陽明證。經云。手足　然汗出者。此大便已硬也",
+      "after": "手足汗乃專屬陽明證。經云。手足濈然汗出者。此大便已硬也",
       "expected_count": 1,
-      "evidence": "치자시탕증의 정형 병후 心中懊憹.",
-      "reason": "치자시탕증의 정형 병후 心中懊憹."
+      "reason": "《傷寒論》 陽明病의 정문 濈然汗出이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "평행문 手足濈然汗出과 일치."
+    },
+    {
+      "before": "此則心中懊　。心中結痛。心下濡",
+      "after": "此則心中懊憹。心中結痛。心下濡",
+      "expected_count": 1,
+      "reason": "梔子豉湯證의 고정 증후 心中懊憹이다.",
+      "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
+      "evidence_note": "평행 조문의 心中懊憹과 일치."
     }
   ],
   "B/B019.txt": [

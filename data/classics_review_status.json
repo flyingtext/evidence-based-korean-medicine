@@ -48,7 +48,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 95,
       "punctuation_status": "source_present",
-      "note": "현 변환본에서 조판 168개를 제외한 전각 공백 후보는 97개였고 3개 해소. 공백 후보 94개와 □ 1개 잔존. 잔여 후보 95자리."
+      "note": "현재 numbered 출력 재계수는 전각 공백262·HT0·KT0·□1이다. 감사에서 확정된 조판168을 빼면 공백 후보94와 □1, 합계95로 최신 상태와 일치한다. `夫□致膠煎`은 주변 OCR 오염까지 얽혀 단일 글자만 확정할 수 없으므로 보류했다."
     },
     "M/M200.txt": {
       "collation_status": "in_progress",
@@ -322,9 +322,9 @@
     },
     "C/C015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 83,
+      "unresolved_candidates": 105,
       "punctuation_status": "source_present",
-      "note": "공개 CText/jicheng 전사도 같은 결자 공백을 보존해 독립적으로 글자를 확정하지 못함. 전체 56개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=56, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 83자리."
+      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 105개는 약명·포제법 결락 의심과 조판 구분이 혼재하여 occurrence별 원판 대조가 필요함. 전각 공백 105곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
     },
     "C/C016.txt": {
       "collation_status": "in_progress",
@@ -408,7 +408,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 90,
       "punctuation_status": "source_present",
-      "note": "KT 15개를 평행문으로 해소. 결흉·장결 논의의 연속 □ 88개와 KT 2개가 남아 승격 불가. 잔여 후보 90자리."
+      "note": "현재 numbered 출력 재계수는 전각 공백556·HT0·KT2·□88이다. 전각 공백은 판면 조판으로 분리되며 실결락 후보는 KT2와 연속 □88, 합계90이다. 연속 파손부와 KT는 독립 판독 근거가 없어 신규 없음. 중첩·경고 없음."
     },
     "B/B024.txt": {
       "collation_status": "complete",
@@ -478,9 +478,9 @@
     },
     "A/A304.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 31,
+      "unresolved_candidates": 2,
       "punctuation_status": "source_present",
-      "note": "유일한 결자 2자가 공개 전사에서도 결락되어 영인 재판독 전에는 승격 불가. 잔여 후보 31자리."
+      "note": "실제 적용본의 실결락 표지는 `其既出HT　HT　，流利未暢`의 HT 2개뿐이며 공개 전사도 결락 상태다. 전각 공백 29개는 조판 또는 판독 미확정으로 신규 복원하지 않았다. 긴 고유 규칙과 중복된 짧은 `缺盆以下至…天樞` 규칙을 삭제하면 기존 좌표 중첩 경고 2건도 해소된다."
     },
     "A/A401.txt": {
       "collation_status": "in_progress",
@@ -3102,7 +3102,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 28,
       "punctuation_status": "source_present",
-      "note": "확인된 비조판 후보 39좌표 중 11좌표 해소. 서문 인명·의성어·난자 28좌표 잔존. 잔여 후보 28자리."
+      "note": "기존 짧은 `手足　然汗出`, `心中懊　` 규칙이 각각 2/1, 7/1 불일치하며 선행 고유 규칙과 중첩된다. 두 규칙을 삭제하고 미적용 occurrence 각 1건만 고유 문맥으로 교체해야 한다. 처방 약미 사이 등 조판 공백 328개는 잔여 결락에서 제외."
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
@@ -3118,9 +3118,9 @@
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 89,
+      "unresolved_candidates": 87,
       "punctuation_status": "source_present",
-      "note": "Wikisource/theqi 독립 전사도 결자를 공백·●로 보존한다. 잘못된 단락 경계 규칙 1개를 실제 개행에 맞춰 수정해 食亦 2곳 복원; HT 5 포함 89곳은 실제 결락 후보. 전체 109개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=109, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 89자리."
+      "note": "현재 numbered 출력 재계수는 전각 공백106·HT5·KT0·□0이다. 확인된 조판 공백을 분리한 최신 잔여 89에서 HT 2건을 해소하면 87이다. 두 문맥은 각각 1회이고 기존 109개 규칙과 중첩하지 않는다."
     },
     "A/A202.txt": {
       "collation_status": "in_progress",
@@ -3622,9 +3622,9 @@
     },
     "G/G017.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 43,
+      "unresolved_candidates": 45,
       "punctuation_status": "source_present",
-      "note": "G017a 고유 좌우 문맥 대조로 42곳 복원; 일치 전사에서 문자가 삽입되지 않는 2곳은 조판 공백, 나머지 43곳은 판본 직접 대조 전 실제 결락 후보로 보존. 전체 141개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=141, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 43자리."
+      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 45개에는 癥瘕 관련 희귀자 결락 의심 문맥이 있으나 기존 규칙 적용 결과와 원판 대조 전에는 확정하지 않음. 전각 공백 45곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
     },
     "G/G017a.txt": {
       "collation_status": "complete",
@@ -3918,19 +3918,19 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 27,
       "punctuation_status": "source_present",
-      "note": "현 문서의 비조판 전각 공백 후보 41좌표 중 14좌표를 확정. 인명·의성어·난자 27좌표가 남아 승격 보류. 잔여 후보 27자리."
+      "note": "기존 짧은 `曲　` 규칙이 3/2 불일치 및 기존 고유 규칙과 중첩되어 적용되지 않았다. 그 규칙을 삭제하고 아직 미적용인 두 occurrence를 고유 문맥 규칙으로 교체해야 한다. 이미 고유 규칙이 있는 중복 `人參黃　等藥合末`도 삭제 대상이다. 적용 후 비조판 결락 후보 27개 잔존."
     },
     "N/N046.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 32,
       "punctuation_status": "source_present",
-      "note": "현 비조판 후보 51좌표 중 19좌표 확정. 인명·처방·난자 32좌표가 남음. 잔여 후보 32자리."
+      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 32개는 약명 구분 조판과 실결락 의심 문맥이 혼재하므로 이번 자동 잔여 수에는 합산하지 않고 보류. 전각 공백 32곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
       "unresolved_candidates": 34,
       "punctuation_status": "source_present",
-      "note": "현 비조판 전각 공백 후보 43좌표 중 9좌표 확정. 나머지 34좌표는 원판 대조 필요. 잔여 후보 34자리."
+      "note": "최신 비표점 변환 출력에서 HT·KT·□ 잔여 0. 전각 공백 34개는 조판 공백과 실결락이 혼재하여 독립 대조 없이 치환하지 않음. 전각 공백 34곳에 실결락 의심 문맥이 남아 완료가 아닌 잔여 후보로 유지한다."
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
@@ -4006,9 +4006,9 @@
     },
     "O/O015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 27,
+      "unresolved_candidates": 7,
       "punctuation_status": "source_present",
-      "note": "절명으로 확정되는 4자만 복원하고, 전사 계통 전체에 공통된 7자 결락은 보류함. 잔여 후보 27자리."
+      "note": "실제 적용본에서 □ 7개는 `故生則□□□□□□□。後能發音` 한 곳에 남고 독립 공개 전사도 같은 결락이다. 전각 공백 20개는 조판·구두 간격으로 분리 보존."
     },
     "O/O046.txt": {
       "collation_status": "in_progress",
@@ -4084,9 +4084,9 @@
     },
     "O/O060.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 90,
+      "unresolved_candidates": 86,
       "punctuation_status": "source_present",
-      "note": "Wikisource 독립 전사는 99곳에 대응 문자를 주지 않으며 처방 약명 구분 공백 9곳만 조판으로 확정; HT 2·KT 6 포함 90곳은 실제 결락 후보. 전체 155개 규칙을 수정 전 원문 좌표에 동시 검증하여 applied=155, warnings=0, 좌표 중첩=0을 확인. 잔여 후보 90자리."
+      "note": "현재 numbered 출력 재계수는 전각 공백99·HT2·KT6·□0이다. 처방 약명 구분 등 확인 조판을 제외한 최신 잔여90에서 KT 4자를 해소하면 86이다. 두 고유 문맥은 각각 1회이고 O060 기존 155개 규칙과 중첩하지 않는다."
     },
     "O/O061.txt": {
       "collation_status": "in_progress",

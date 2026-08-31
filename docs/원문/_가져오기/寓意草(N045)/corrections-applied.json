@@ -464,14 +464,6 @@
     "reason": "이어지는 대장 설사 설명과 병명 腸澼이 일치하며 두 occurrence를 한 고유 문맥으로 한정."
   },
   {
-    "before": "人參黃　等藥合末",
-    "after": "人參黃耆等藥合末",
-    "expected_count": 1,
-    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
-    "evidence_note": "처방 약명 黃耆.",
-    "reason": "처방 약명 黃耆."
-  },
-  {
     "before": "更有發　一證最毒。惟用人參入消　藥內",
     "after": "更有發斑一證最毒。惟用人參入消斑藥內",
     "expected_count": 1,
@@ -549,5 +541,21 @@
     "expected_count": 1,
     "evidence": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥.",
     "reason": "뒤 문장의 ‘則左喎矣’와 대구되는 문맥."
+  },
+  {
+    "before": "又助之以曲　。五臟翻覆",
+    "after": "又助之以曲蘖。五臟翻覆",
+    "expected_count": 1,
+    "reason": "曲蘖은 술을 빚는 누룩이며 음주·방사 문맥의 고정 약물명이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "동일 저작 전사와 曲蘖 용례를 대조한 occurrence 한정 규칙."
+  },
+  {
+    "before": "胃中之熱。有如曲　。俟穀飲一入",
+    "after": "胃中之熱。有如曲蘖。俟穀飲一入",
+    "expected_count": 1,
+    "reason": "곡물이 위에서 酢味로 발효되는 비유이므로 누룩 曲蘖이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+    "evidence_note": "동일 저작 전사와 바로 뒤 釀成酢味 문맥으로 확인."
   }
 ]

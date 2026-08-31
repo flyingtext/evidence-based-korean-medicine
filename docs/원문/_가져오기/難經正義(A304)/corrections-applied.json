@@ -477,13 +477,5 @@
     "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
     "evidence_note": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’.",
     "reason": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’."
-  },
-  {
-    "before": "缺盆以下至　KT　，長九寸，過則肺大，不滿則肺小。　KT　以下至天樞",
-    "after": "缺盆以下至𩩲骭，長九寸，過則肺大，不滿則肺小。𩩲骭以下至天樞",
-    "expected_count": 1,
-    "evidence_url": "https://www.arteducation.com.tw/guwen/bookv_1058.html",
-    "evidence_note": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정.",
-    "reason": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정."
   }
 ]

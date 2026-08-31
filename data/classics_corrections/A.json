@@ -16076,14 +16076,6 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E9%9D%88%E6%A8%9E/%E7%B6%93%E8%84%88",
       "evidence_note": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’.",
       "reason": "足少陰 경맥 평행문 ‘以上腨內，出膕內廉’."
-    },
-    {
-      "before": "缺盆以下至　KT　，長九寸，過則肺大，不滿則肺小。　KT　以下至天樞",
-      "after": "缺盆以下至𩩲骭，長九寸，過則肺大，不滿則肺小。𩩲骭以下至天樞",
-      "expected_count": 1,
-      "evidence_url": "https://www.arteducation.com.tw/guwen/bookv_1058.html",
-      "evidence_note": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정.",
-      "reason": "《靈樞·骨度》의 두 번 반복되는 해부 표지 𩩲骭. 일부 전승본은 胛肋·餲 등 이문이 있어 해당 판본 표기만 occurrence 한정."
     }
   ],
   "A/A401.txt": [
@@ -25082,6 +25074,20 @@
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93/%E7%B4%A0%E5%95%8F/%E6%B0%A3%E5%8E%A5%E8%AB%96",
       "evidence_note": "氣厥論의 병명 食亦 두 occurrence. 원문의 실제 단락 경계(개행 2자)에 맞춰 문맥 수정.",
       "reason": "氣厥論의 병명 食亦 두 occurrence."
+    },
+    {
+      "before": "驚氣所至。為潮涎目HT　口　。為痴癇不省人僵仆",
+      "after": "驚氣所至。為潮涎目寰口　。為痴癇不省人僵仆",
+      "expected_count": 1,
+      "evidence_url": "https://daikei.blogspot.com/2014/03/?m=0",
+      "evidence_note": "《鍼灸大成》 동일 열거문의 독립 전사가 `驚氣所致、為潮涎、為目寰、為癡癇、為不省人事、僵仆`으로 글자 寰을 직접 보존한다. 뒤의 `口　`은 별도 결락으로 유지한다."
+    },
+    {
+      "before": "則當清HT　以寧心。固精以養神。節勞以養筋",
+      "after": "則當清謐以寧心。固精以養神。節勞以養筋",
+      "expected_count": 1,
+      "evidence_url": "https://cloudtcm.com/shu/t1/442/29",
+      "evidence_note": "《內經博議》 독립 전문의 동일 문장이 `則當清謐以寧心，固精以養神，節勞以養筋`으로 전사된다."
     }
   ],
   "A/A202.txt": [
