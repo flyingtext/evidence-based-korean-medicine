@@ -10143,6 +10143,12 @@
       "expected_count": 1,
       "reason": "《博濟》 권5 黑神散의 공개 평행 처방이 제법을 ‘上為末，入栝樓中’으로 직접 보존한다.",
       "evidence": "https://www.cntcm.org/fang/heishensan.html; https://www.zysj.com.cn/zhongyaofang/heishensan/index.html"
+    },
+    {
+      "before": "性不下氣，能去膈上熱，肚腰□，服者當自知之。",
+      "after": "性不下氣，能去膈上熱，壯腰脚，服者當自知之。",
+      "expected_count": 1,
+      "reason": "남은 □ 한 글자만의 결자가 아니라 ‘肚腰□’ 전체의 오기이다. 사고전서 계열 《博濟方》 공개 원문은 같은 張果先生服杏仁法 문장을 ‘性不下氣，能去膈上熱，壯腰脚，服者當自知之’로 전한다. 근거: https://www.shidianguji.com/zh/book/SK1432/chapter/1llpz9sf5niu2"
     }
   ],
   "D/D010.txt": [

@@ -303,12 +303,12 @@
       "status": "in_progress"
     },
     "D/D008.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "잔여 3좌표 중 黑神散의 KT 두 곳은 독립 공개 처방의 구성·제법으로 栝樓를 확정했다. 마지막 ‘能去膈上熱，肚腰□’는 jicheng.tw, 岐黃之術 및 공개 PDF가 모두 □를 그대로 전하며 독립 평행문이나 영인 판독 근거를 찾지 못해 보류한다.",
-      "remaining_count": 1,
-      "status": "in_progress"
+      "note": "CRLF를 LF로 정규화한 뒤 기존 D/D008 오버레이 89개 규칙을 순차 적용하고 남은 후보를 전수 감사했다. 본 규칙까지 적용하면 HT 0, KT 0, □ 0, PUA 0이다. 전각공백은 감사·잔여 집계에서 제외했다. 미해결 결자가 없어 정본 승격 가능하다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "D/D010.txt": {
       "collation_status": "in_progress",
@@ -615,7 +615,8 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "유일한 실결락은 `先將病患綁伏，□當心下來三指灸`의 □ 1자다. `背`·`正` 후보가 있으나 검색 가능한 동일 처방 전사가 없어 확정하지 않았다. 전각 공백 1313개는 약명 표제·목록 조판으로 판정."
+      "note": "HEAD correction overlay 9개 전부 expected_count 조건으로 적용·stale 0. 적용 후 HT/KT 0개, □ 1개, BMP PUA 0개. 유일 후보는 ‘先將病患綁伏，□當心下來三指灸七艾或九艾’의 1자이다. ‘背當心下’와 ‘正當心下’가 모두 문법적으로 가능하나 jicheng.tw 및 인터넷에서 《衛生備要》 동일 처방 전사를 찾지 못해 판본 근거 없이 확정할 수 없다. 원영상 판독 전까지 보류하며 promote 불가.",
+      "remaining_count": 1
     },
     "E/E009.txt": {
       "collation_status": "complete",
@@ -699,7 +700,8 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "유일한 실결락은 `太醫院官黃□`의 인명 1자다. ctext 및 공개 《針灸神書》 전사도 □를 유지하고 명대 太醫院 명부에서 동일 인물을 특정하지 못했다. 전각 공백 180개는 운문·경혈 목록 조판."
+      "note": "기존 correction overlay 8규칙을 모두 적용한 결과 HT 0, KT 0, □ 1, BMP PUA 0이다(전각공백 180개는 감사 대상에서 제외). 유일한 잔여는 `聖旨：差令太醫院官黃□、侍郎張忠，同考攝、彈、搓、搜合宜四法。`의 인명 한 글자다. jicheng.tw 《針灸神書》도 동일 위치를 `黃□`로 남기며, 위키문헌과 CTP의 공개 전사에서도 이를 확정할 별도 판독이 제공되지 않는다. 주변에 劉瑢·張忠 등 다른 인명이 있으나 성 黃 뒤의 이름을 유일하게 추정할 계보·서지 근거가 없어 보류한다. 근거: https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%A5%9E%E6%9B%B8/index.html ; https://zh.wikisource.org/zh-hant/%E9%92%88%E7%81%B8%E7%A5%9E%E4%B9%A6 ; https://ctext.org/wiki.pl?if=gb&res=63611",
+      "remaining_count": 1
     },
     "A/A303.txt": {
       "collation_status": "complete",
@@ -1004,7 +1006,7 @@
     "Q/Q007.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "공백·깨진 토큰 없음. 針灸大全 독립 본문판·영인본·후대 인용 대조로 18건 교정, 원자료 표점 충분"
     },
     "Q/Q010.txt": {

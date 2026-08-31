@@ -1,0 +1,63 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q007.txt",
+    "sha256": "2cc770ca051681f285f149a6505c11f3bd3dcb73ad16527a62dacdc544171d7d"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "d9c06ebe8445307af4056d34f6eca1a0076c31e57d33c155ba170d490d9cf2b8",
+    "applied_count": 18
+  },
+  "output": "docs/원문/_가져오기/席弘賦(Q007)/표점본.md",
+  "chunks": {
+    "total": 2,
+    "resumable_completed": 2,
+    "min_chars": 412,
+    "max_chars": 594,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 594,
+        "output_characters": 594,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 72,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 412,
+        "output_characters": 412,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 50,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 854,
+    "output_nonpunctuation_characters": 854,
+    "input_non_punctuation_characters": 854,
+    "output_non_punctuation_characters": 854
+  },
+  "punctuation": {
+    "ascii_count": 122,
+    "density_per_nonpunctuation_character": 0.14285714,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
