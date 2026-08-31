@@ -3121,5 +3121,12 @@
     "expected_count": 1,
     "evidence": "본초 상오·상사 운문의 충류 열거 虻蟲、水蛭、地膽蟲.",
     "reason": "본초 상오·상사 운문의 충류 열거 虻蟲、水蛭、地膽蟲."
+  },
+  {
+    "before": "面黃，耳葉焦枯，　KT　痛，小便白濁",
+    "after": "面黃，耳輪焦枯，䯒骨㾓痛，小便白濁",
+    "expected_count": 1,
+    "reason": "jicheng의 《婦人大全良方》 동일 傳屍 조문이 ‘面黃，耳輪焦枯，䯒骨㾓痛，小便白濁’로 온전히 전사되어 결자와 葉의 오기를 함께 확정한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html"
   }
 ]

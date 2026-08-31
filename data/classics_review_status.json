@@ -162,7 +162,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3084,
       "punctuation_status": "source_present",
-      "note": "현재 HT·KT·□·PUA 표지는 없고 전각 공백만 남았다. 원판 대조 없이 결자로 단정하지 않았다."
+      "note": "현 status 3084를 유지한다. 현재 명시적 결자·외자 표지는 없고 전각공백만 남아 원판 대조 없이 결락으로 재분류하지 않았다."
     },
     "G/G043.txt": {
       "collation_status": "complete",
@@ -3484,9 +3484,9 @@
     },
     "D/D033.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2672,
+      "unresolved_candidates": 2670,
       "punctuation_status": "source_present",
-      "note": "坑KT　 및 □錢의 후보는 찾았으나 공개 전사에서 원문 글자를 확정하지 못해 보류했다. 잔여 후보 2672자리."
+      "note": "현 status 2672자리에서 확정된 외자와 뒤 조판 공백 2좌표만 차감했다. 滑石末□錢은 공개 전문에서 직접 확인되지 않아 보류한다."
     },
     "D/D036.txt": {
       "collation_status": "complete",
@@ -3528,7 +3528,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3530,
       "punctuation_status": "source_present",
-      "note": "기존 148개 규칙 중 4개 후행 before가 선행 치환에 흡수되는 기존 중첩 확인. 잔여 □口瘡 두 표제는 동일 글자라고 단정할 판본 근거가 없어 보류. 잔여 후보 3530자리."
+      "note": "현 status 3530을 유지한다. 남은 두 ‘□口瘡’ 표제의 □는 목록 기호일 가능성과 결자 가능성을 판면 없이 구별할 수 없고, 비조판 전각공백도 재분류하지 않았다."
     },
     "D/D063.txt": {
       "collation_status": "in_progress",
@@ -3616,9 +3616,9 @@
     },
     "G/G005.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3586,
+      "unresolved_candidates": 3583,
       "punctuation_status": "source_present",
-      "note": "KT 7개 중 6개 결락 토큰 확정. 모든 규칙이 1회 일치하고 상호 비중첩. 기존 386개 규칙 중 기존 중첩 2개는 신규 좌표와 무관. 잔여 후보 3586자리."
+      "note": "현 status 3586에서 해당 occurrence의 KT와 양옆 비조판 전각공백 3좌표만 차감했다. 같은 대조로 耳葉도 耳輪으로 바로잡되 이는 후보 좌표 차감에는 더하지 않았다."
     },
     "G/G017.txt": {
       "collation_status": "in_progress",
@@ -3642,7 +3642,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3007,
       "punctuation_status": "source_present",
-      "note": "薇銜만 독립 자료로 확정했다. 子死腹中論의 연속 KT 두 자는 공개 전사에도 미복원 상태여서 보류했다. 잔여 후보 3007자리."
+      "note": "현 status 3007을 유지한다. 子死腹中論의 연속 KT 두 자는 문맥상 후보가 있으나 직접 평행문이나 영인 판독이 없어 추정 복원하지 않았다."
     },
     "G/G026.txt": {
       "collation_status": "in_progress",
@@ -3708,7 +3708,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 3563,
       "punctuation_status": "source_present",
-      "note": "현재 HT·KT·□·PUA 표지는 없고 전각 공백만 남았다. 결락과 조판 간격을 판별할 독립 근거가 없어 신규 제안 없음."
+      "note": "현 status 3563을 유지한다. 명시 결자 표식은 없으며 남은 전각 공백을 공개 전문만으로 조판 간격과 결락으로 occurrence-고유하게 구분할 수 없다."
     },
     "I/I001.txt": {
       "collation_status": "in_progress",
@@ -3750,7 +3750,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2735,
       "punctuation_status": "source_present",
-      "note": "기존 5개 규칙은 모두 expected_count대로 순차 적용되며 충돌 없음. 잔여는 전각 공백뿐이고 독립 판면 없이 결자와 조판을 구별할 수 없어 보류. 잔여 후보 2735자리."
+      "note": "기존 5개 규칙 적용 후 남은 후보는 전각 공백뿐이며, 이번 대조에서 확정적인 추가 결자를 찾지 못했다. status 수치를 유지한다."
     },
     "I/I208.txt": {
       "collation_status": "in_progress",
@@ -3796,9 +3796,9 @@
     },
     "L/L003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3480,
+      "unresolved_candidates": 3468,
       "punctuation_status": "source_present",
-      "note": "KT 20개를 고유 문맥 여덟 규칙으로 모두 복원했다. HT는 ⿰米厭 같은 IDS 희귀자와 안과 전문 자형이 많아 별도 영인 판독이 필요하다. 잔여 후보 3480자리."
+      "note": "현 status 3480에서 두 𧬊𧬊 구절의 HT·동반 전각공백 8좌표, 摸와 ⿰米厭의 HT·동반 공백 4좌표만 차감했다. 나머지 희귀 안과 자형과 비조판 전각공백은 보류한다."
     },
     "L/L004.txt": {
       "collation_status": "in_progress",
@@ -3808,9 +3808,9 @@
     },
     "L/L008.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2615,
+      "unresolved_candidates": 2587,
       "punctuation_status": "source_present",
-      "note": "䀮䀮 두 곳을 독립 영인·평행문으로 복원했다. 남은 표지는 안과 희귀 자형과 판면 결락이어서 보류했다. 잔여 후보 2615자리."
+      "note": "현 status 2615자리에서 공개 전문으로 실제 확인된 28좌표만 차감했다. 나머지 희귀 자형·판면 결락은 추정하지 않고 보류한다."
     },
     "M/M003.txt": {
       "collation_status": "in_progress",
@@ -3882,7 +3882,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2742,
       "punctuation_status": "source_present",
-      "note": "기계 결자 표지가 없고 잔여 전각 공백은 처방 조판과 결락이 혼재. 고유하게 확정할 신규 규칙 없음. 잔여 후보 2742자리."
+      "note": "잔여 후보가 혼합 조판·전각 공백이고 확정 가능한 결자 좌표가 없어 status 수치를 유지한다."
     },
     "N/N026.txt": {
       "collation_status": "complete",
@@ -4150,9 +4150,9 @@
     },
     "O/O077.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 2742,
+      "unresolved_candidates": 2740,
       "punctuation_status": "source_present",
-      "note": "신규 규칙은 현재 순차 보정문에서 모두 1회 일치하고 상호 비중첩이며 HT 14개와 KT 1개를 해소. 기존 155개 규칙 중 6개 후행 규칙이 선행 치환에 흡수되는 기존 중첩을 확인했으나 신규 좌표와는 무관. □ 4개와 잔여 HT 4개는 보류. 잔여 후보 2742자리."
+      "note": "현 status 2742에서 평행문으로 확정된 HT와 뒤 결자 전각공백 2좌표만 차감했다. 自貴 잠언, 임신 식기, 소아 망진의 잔여 HT 및 □는 판면 근거가 부족해 보류한다."
     },
     "O/O078.txt": {
       "collation_status": "in_progress",
@@ -4194,7 +4194,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 2795,
       "punctuation_status": "source_present",
-      "note": "KT 2곳(秘固…流之術, 去…子)은 판본 없이는 후보가 복수라 보류. 기존 149개 규칙 중 후행 3개가 선행 치환에 흡수되는 기존 중첩이 있으나 잔존 좌표와 무관. 잔여 후보 2795자리."
+      "note": "현 status 2795를 유지한다. ‘秘固…流之術’과 鐘乳粉散의 ‘去…子’는 공개 전사에서도 결자가 남아 원자를 유일하게 확정하지 못했다."
     },
     "O/O088.txt": {
       "collation_status": "in_progress",

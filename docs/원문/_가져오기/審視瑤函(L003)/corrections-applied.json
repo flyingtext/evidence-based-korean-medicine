@@ -62,5 +62,33 @@
     "reason": "경혈 주치 독립 영인 대조",
     "evidence_url": "https://tile.loc.gov/storage-services/service/gdc/gdcwdl/wd/l_/11/42/1_/00/4/wdl_11421_004/wdl_11421_004.pdf",
     "evidence_note": "공개 침구 영인의 巨髎 조문이 青盲無所見遠視䀮䀮로 판독된다."
+  },
+  {
+    "before": "渴而易飢。能食而瘦。腹脹不利。作HT　HT　聲。日遠",
+    "after": "渴而易飢。能食而瘦。腹脹不利。作𧬊𧬊聲。日遠",
+    "expected_count": 1,
+    "reason": "jicheng의 《審視瑤函》 공개 전문과 같은 문단의 원출전 《原機啟微》가 모두 ‘作𧬊𧬊聲’으로 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "治小兒易飢而渴。瘦瘠腹脹不利。作HT　HT　聲。目病",
+    "after": "治小兒易飢而渴。瘦瘠腹脹不利。作𧬊𧬊聲。目病",
+    "expected_count": 1,
+    "reason": "바로 앞 본문을 되풀이한 처방 주치이며 공개 전문에도 ‘作𧬊𧬊聲’으로 온전히 남아 있다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "元氣虛損而熱，輕手HT　之，熱在皮毛",
+    "after": "元氣虛損而熱，輕手摸之，熱在皮毛",
+    "expected_count": 1,
+    "reason": "공개 전문의 동일 東垣 인용문이 ‘輕手摸之’이며 뒤의 ‘重手按之’와 대구한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
+  },
+  {
+    "before": "目必損壞，輕則HT　凸，重則結毒",
+    "after": "目必損壞，輕則⿰米厭凸，重則結毒",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 같은 大小雷頭風症 문장이 IDS 자형 ‘⿰米厭凸’로 전사되어 있다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html"
   }
 ]

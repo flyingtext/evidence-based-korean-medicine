@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "before": "用尿坑內鑿下坑KT　，名坑砂",
+    "after": "用尿坑內鑿下坑𪣩，名坑砂",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문에서 외자 𪣩을 직접 확인",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%AE%E7%A6%8F%E5%A0%82%E5%85%AC%E9%81%B8%E8%89%AF%E6%96%B9/index.html"
+  }
+]

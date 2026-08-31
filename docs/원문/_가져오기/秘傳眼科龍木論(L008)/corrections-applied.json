@@ -14,5 +14,82 @@
     "reason": "동일 안증 용어의 독립 고전 평행문 대조",
     "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
     "evidence_note": "《黃帝內經》 공개 concordance가 目視䀮䀮를 그대로 수록하며, 뒤의 冷淚와 결합된 안증 문맥에도 부합한다."
+  },
+  {
+    "before": "治目外　赤痛。忽頭旋。目KT　KT　。",
+    "after": "治目外眥赤痛。忽頭旋。目䀮䀮。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 目窗 조문 직접 대조로 결자와 희귀 안증어를 확인",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "治目KT　KT　。視物不明。",
+    "after": "治目䀮䀮。視物不明。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 攢竹 조문 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "在目內　。手足太陽少陽足陽明五脈之會",
+    "after": "在目內眥。手足太陽少陽足陽明五脈之會",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 睛明 조문 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "目內　癢痛。小兒雀目疳眼。",
+    "after": "目內眥癢痛。小兒雀目疳眼。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 睛明 조문 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "大人氣眼冷淚。KT　目視物不明。大　肉侵睛。",
+    "after": "大人氣眼冷淚。𥌰目視物不明。大眥胬肉侵睛。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 睛明 조문에서 외자 𥌰와 大眥胬肉을 직접 확인",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "[u]肝　[/u]",
+    "after": "[u]肝腧[/u]",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 背腧部 항목명 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "目KT　KT　生白翳。",
+    "after": "目䀮䀮生白翳。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 肝腧 조문 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "治目眩。頸項痛。目KT　KT　。",
+    "after": "治目眩。頸項痛。目䀮䀮。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 通谷 조문 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "主目失明。取　肝一斤。",
+    "after": "主目失明。取羖肝一斤。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 青羊膽 항목 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "又敷目KTKT　。青羊肝內銅器內煮。",
+    "after": "又敷目䀮䀮。青羊肝內銅器內煮。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문과 《千金方》 평행문에서 目䀮䀮를 확인",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
+  },
+  {
+    "before": "　羊角主青盲。明目癢氣風頭痛。",
+    "after": "羖羊角主青盲。明目癢氣風頭痛。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문의 青羊膽 항목 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html"
   }
 ]

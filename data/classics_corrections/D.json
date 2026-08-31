@@ -40992,5 +40992,14 @@
       "reason": "문장 자체가 ‘KT字即生字’라고 명시하고 공개 전사도 동일 주석을 보존하므로 세 KT가 모두 生임이 직접 확인된다.",
       "evidence_url": "https://healthchina2030.com/%E3%80%8A%E9%AA%8C%E6%96%B9%E6%96%B0%E7%BC%96%E3%80%8B/150/"
     }
+  ],
+  "D/D033.txt": [
+    {
+      "before": "用尿坑內鑿下坑KT　，名坑砂",
+      "after": "用尿坑內鑿下坑𪣩，名坑砂",
+      "expected_count": 1,
+      "reason": "jicheng 공개 전문에서 외자 𪣩을 직접 확인",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E7%A8%AE%E7%A6%8F%E5%A0%82%E5%85%AC%E9%81%B8%E8%89%AF%E6%96%B9/index.html"
+    }
   ]
 }
