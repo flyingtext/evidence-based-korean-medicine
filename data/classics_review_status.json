@@ -1041,7 +1041,7 @@
     "Q/Q004.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "針灸大成·국가도서관 영인본 대조로 결자·혈명·깨진 토큰 20건 교정, 판본 이문은 보존하고 원자료 표점 충분"
     },
     "Q/Q002.txt": {
@@ -3064,10 +3064,10 @@
     },
     "C/C000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 42,
+      "unresolved_candidates": 30,
       "punctuation_status": "source_present",
-      "note": "기존 status 45에서 독립 자전 근거로 유일하게 확정되는 薸 3좌표만 순감했다. 나머지 42 KT는 희귀 원자형·본초명·古文 자형이 많아 추정하지 않았다. 전각 공백은 대상에서 제외했다.",
-      "remaining_count": 42,
+      "note": "HEAD 오버레이 후 남은 KT 42좌표를 전수 감사했다. 《爾雅》《說文》《廣雅》 직접 인용으로 薤 2, 菉 5, 鼯鼠 2, 蜾 2, 螜 1의 합계 12좌표를 확정한다. 나머지 KT 30좌표는 희귀 본초명·古文·어류/곤충 자형으로 jicheng 및 공개 전사에도 동일 표지가 남아 원영인 판독 없이 추정하지 않는다. 적용 후 HT·□·BMP PUA·[c] 레거시는 0, KT 30이 남으므로 정본 승격 불가.",
+      "remaining_count": 30,
       "status": "in_progress"
     },
     "C/C002.txt": {
@@ -3707,9 +3707,10 @@
     },
     "G/G017.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 42,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "HT/KT/□ 잔여는 원래 0. 전각 공백 45개 중 명백한 정형 병후·약명 3 occurrence만 복원하고 癥瘕 희귀자 및 서명 결락은 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 42자리로 유지한다."
+      "note": "기존 G017 교정 144개 전부 적용 후 HT 0, KT 0, □ 0, [c] 0, PUA 0, 전각 공백 후보 42를 확인했다. 공개 《女科經綸》 전문과 평행 원문으로 32규칙 41좌표를 해소하고 인명 결락 1좌표만 보류한다. 확정 규칙은 promote한다.",
+      "remaining_count": 1
     },
     "G/G017a.txt": {
       "collation_status": "complete",
@@ -4028,9 +4029,10 @@
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 31,
+      "unresolved_candidates": 3,
       "punctuation_status": "source_present",
-      "note": "HT/KT/□ 잔여는 원래 0. 전각 공백 34개 중 고전·약명·평행문으로 확정되는 3 occurrence만 추가 제안하고 나머지는 조판/불확실 결락으로 유지. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 31자리로 유지한다."
+      "note": "기존 오버레이 25건 적용 후 전각공백 31곳. 조판 공백 1곳(此何以故？　蓋)은 유지. 26곳 복원 제안. 3곳은 대조 전문에도 공백이 남거나 원문 판독이 불충분하여 보류: 醫非夙　習辭, 少愈焉　，六日傳, 喉痹耳鳴　等證. 서문의 使 1건은 문법과 문맥으로 복원했으나 승격 전 영인 재확인을 권고. 제안 적용 후 HT=0, KT=0, □=0, PUA=0, legacy=0, 미확정=3. promote=false.",
+      "remaining_count": 3
     },
     "N/N053.txt": {
       "collation_status": "in_progress",

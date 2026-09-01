@@ -1914,7 +1914,7 @@
       "output_directory": "神農本草經(C000)",
       "markdown_files": 7,
       "translation_units": 374,
-      "corrections_applied": 115,
+      "corrections_applied": 121,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '## KT\\n\\n<!-- source-id: C000:p005:s0110 -->' (0/1)"
@@ -5811,7 +5811,7 @@
       "output_directory": "女科經綸(G017)",
       "markdown_files": 9,
       "translation_units": 657,
-      "corrections_applied": 144,
+      "corrections_applied": 176,
       "punctuated": false,
       "warnings": []
     },
@@ -10509,9 +10509,11 @@
       "output_directory": "葉選醫衡(N048)",
       "markdown_files": 8,
       "translation_units": 83,
-      "corrections_applied": 25,
+      "corrections_applied": 50,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '氣逆膹脹，瞀\\u3000冒昧' (0/1)"
+      ]
     },
     {
       "source_path": "N/N049.txt",
@@ -14358,7 +14360,7 @@
       "markdown_files": 1,
       "translation_units": 1,
       "corrections_applied": 20,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {

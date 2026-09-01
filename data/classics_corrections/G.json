@@ -6712,6 +6712,198 @@
       "after": "腸干者，濃煎黃耆湯",
       "expected_count": 1,
       "reason": "산후 탈항·장탈의 기허를 보하는 정형 약명 黃耆湯."
+    },
+    {
+      "before": "康熙甲子歲孟秋七月　李棘人蕭　賡六氏漫識",
+      "after": "康熙甲子歲孟秋七月槜李棘人蕭壎賡六氏漫識",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 서문: 康熙甲子歲孟秋七月槜李棘人蕭壎賡六氏漫識."
+    },
+    {
+      "before": "久久血結於內，變為　瘕。",
+      "after": "久久血結於內，變為癥瘕。",
+      "expected_count": 1,
+      "evidence": "동일 전문 및 정형 병명 癥瘕."
+    },
+    {
+      "before": "遇冷則血留而為症。　者，有形可征。",
+      "after": "遇冷則血留而為症。癥者，有形可征。",
+      "expected_count": 1,
+      "evidence": "癥者，有形可徵의 정의문."
+    },
+    {
+      "before": "然　病女人恆有",
+      "after": "然癥病女人恆有",
+      "expected_count": 1,
+      "evidence": "동일 문단의 癥病."
+    },
+    {
+      "before": "因　氣相妨而為漏下",
+      "after": "因癥氣相妨而為漏下",
+      "expected_count": 1,
+      "evidence": "동일 문단의 癥氣."
+    },
+    {
+      "before": "故曰　痼害。",
+      "after": "故曰癥痼害。",
+      "expected_count": 1,
+      "evidence": "《金匱要略》 桂枝茯苓丸 조문의 癥痼害."
+    },
+    {
+      "before": "濃鋪　褥，遮圍四壁",
+      "after": "濃鋪茵褥，遮圍四壁",
+      "expected_count": 1,
+      "evidence": "《婦人大全良方》 평행문: 厚鋪茵褥，遮圍四壁."
+    },
+    {
+      "before": "產後腹中　痛，當歸生薑羊肉湯主之。注曰：　痛者",
+      "after": "產後腹中㽲痛，當歸生薑羊肉湯主之。注曰：㽲痛者",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 및 《金匱要略》: 產後腹中㽲痛; 㽲痛者，緩緩痛也."
+    },
+    {
+      "before": "羊肉補氣，　疼屬氣弱",
+      "after": "羊肉補氣，㽲疼屬氣弱",
+      "expected_count": 1,
+      "evidence": "동일 주석의 㽲疼."
+    },
+    {
+      "before": "故成積聚　塊也。",
+      "after": "故成積聚癥塊也。",
+      "expected_count": 1,
+      "evidence": "문맥상 고정 병명 積聚癥塊."
+    },
+    {
+      "before": "或下赤白，　脅　脹，或痛走不定",
+      "after": "或下赤白，胸脅滿脹，或痛走不定",
+      "expected_count": 1,
+      "evidence": "산후 하리의 평행 증후열 胸脅滿脹."
+    },
+    {
+      "before": "芫花、黑丑、　青，群隊大毒",
+      "after": "芫花、黑丑、蚖青，群隊大毒",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 椒仁丸 비평: 黑醜、蚖青."
+    },
+    {
+      "before": "腹中瘀血　、痞食　，凡七門。　者，在腹內",
+      "after": "腹中瘀血癥、痞食癥，凡七門。痃者，在腹內",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 직접 전문: 腹中瘀血癥、痞食癥…痃者."
+    },
+    {
+      "before": "雖推之不移，名曰　，言其病形可征驗也。",
+      "after": "雖推之不移，名曰癥，言其病形可征驗也。",
+      "expected_count": 1,
+      "evidence": "직접 전문: 名曰癥，言其病形可徵驗也."
+    },
+    {
+      "before": "名曰食　。瘀血成塊，堅而不移，名曰血　。",
+      "after": "名曰食癥。瘀血成塊，堅而不移，名曰血癥。",
+      "expected_count": 1,
+      "evidence": "직접 전문: 食癥·血癥."
+    },
+    {
+      "before": "當與　癖諸證治同",
+      "after": "當與痃癖諸證治同",
+      "expected_count": 1,
+      "evidence": "직접 전문: 當與痃癖諸證治同."
+    },
+    {
+      "before": "《大全》曰：婦人　痞，由飲食失節",
+      "after": "《大全》曰：婦人癥痞，由飲食失節",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 소제 및 본문: 婦人癥痞."
+    },
+    {
+      "before": "故名曰症　。",
+      "after": "故名曰症癥。",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 현전 전문이 症癥으로 보존."
+    },
+    {
+      "before": "《大全》曰：　癖二者",
+      "after": "《大全》曰：痃癖二者",
+      "expected_count": 1,
+      "evidence": "직접 전문: 痃癖二者."
+    },
+    {
+      "before": "夫　癖　瘕，血氣塊硬",
+      "after": "夫痃癖癥瘕，血氣塊硬",
+      "expected_count": 1,
+      "evidence": "직접 전문: 夫痃癖癥瘕."
+    },
+    {
+      "before": "曲　治米瘕",
+      "after": "曲糵治米瘕",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 직접 전문: 曲糵治米瘕."
+    },
+    {
+      "before": "而血食　之內，未嘗無痰",
+      "after": "而血食癥之內，未嘗無痰",
+      "expected_count": 1,
+      "evidence": "직접 전문: 血癥食癥之內; 원문의 어순에 맞춰 食癥 복원."
+    },
+    {
+      "before": "李氏曰：善治　瘕者",
+      "after": "李氏曰：善治癥瘕者",
+      "expected_count": 1,
+      "evidence": "직접 전문: 善治癥瘕者."
+    },
+    {
+      "before": "武叔卿曰：　瘕積聚",
+      "after": "武叔卿曰：癥瘕積聚",
+      "expected_count": 1,
+      "evidence": "직접 전문: 癥瘕積聚."
+    },
+    {
+      "before": "夫痞癖　瘕，不外氣之所聚",
+      "after": "夫痞癖癥瘕，不外氣之所聚",
+      "expected_count": 1,
+      "evidence": "직접 전문: 痞癖癥瘕."
+    },
+    {
+      "before": "治法：　痛寒熱初起",
+      "after": "治法：焮痛寒熱初起",
+      "expected_count": 1,
+      "evidence": "乳癰 정형 증후 焮痛寒熱."
+    },
+    {
+      "before": "腫　痛甚，宜清肝消毒",
+      "after": "腫焮痛甚，宜清肝消毒",
+      "expected_count": 1,
+      "evidence": "薛立齋 유방증 평행문: 腫焮痛甚."
+    },
+    {
+      "before": "唯立齋　於扶持脾胃",
+      "after": "唯立齋於扶持脾胃",
+      "expected_count": 1,
+      "evidence": "학술 인용과 평행 전사는 唯立齋於扶持脾胃로 이어지므로 공백은 조판 잔재."
+    },
+    {
+      "before": "大約子臟腸　之屬",
+      "after": "大約子臟腸㿗之屬",
+      "expected_count": 1,
+      "evidence": "공개 전문: 大約子臟腸㿗之屬."
+    },
+    {
+      "before": "用黃丹、枯礬、　蓄、　本、硫黃",
+      "after": "用黃丹、枯礬、萹蓄、藁本、硫黃",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 직접 전문: 黃丹、枯礬、萹蓄、藁本、硫黃."
+    },
+    {
+      "before": "外邪所侵。外　屬足三陽，可治",
+      "after": "外邪所侵。外臁屬足三陽，可治",
+      "expected_count": 1,
+      "evidence": "직접 전문: 外臁屬足三陽."
+    },
+    {
+      "before": "以上序婦人有　、足瘡、　瘡、血風諸證也。",
+      "after": "以上序婦人有𤵄痃、足瘡、臁瘡、血風諸證也。",
+      "expected_count": 1,
+      "evidence": "jicheng.tw 직접 전문: 𤵄痃、足瘡、臁瘡、血風諸證."
     }
   ],
   "G/G017a.txt": [

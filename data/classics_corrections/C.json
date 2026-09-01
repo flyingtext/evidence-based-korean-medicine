@@ -3080,6 +3080,48 @@
       "after": "江東謂之薸。",
       "expected_count": 1,
       "evidence": "《爾雅·釋草》郭璞注 및 《廣韻》 인용의 고정문 ‘江東謂之薸’로 독립 확인된다: https://sign.hakka.gov.tw/File/Get?filename=%5CAttach%5C1990%5C1%5C841010163371.pdf"
+    },
+    {
+      "before": "[h3]KT[/h3]",
+      "after": "[h3]薤[/h3]",
+      "expected_count": 1,
+      "reason": "뒤의 본문 전체가 薤 조문이며 《爾雅》의 `薤，鴻薈`를 직접 인용한다.",
+      "evidence_url": "https://ctext.org/er-ya/shi-cao/zh"
+    },
+    {
+      "before": "陶弘景云：蔥、KT　異物",
+      "after": "陶弘景云：蔥、薤異物",
+      "expected_count": 1,
+      "reason": "같은 조문의 표제와 이어지는 `考蔥實，宜與薤同條`가 薤를 확정한다.",
+      "evidence_url": "https://zh.wikisource.org/wiki/神農本草經_(孫星衍)"
+    },
+    {
+      "before": "案：《說文》云：藎草也。KT　，王芻也。《爾雅》云：KT　，王芻。郭璞云：KT　，蓐也，今呼鴟腳莎。《毛詩》云：綠竹猗猗。《傳》云：KT　，王芻也。《唐本》注云：藎草，俗名KT　蓐草",
+      "after": "案：《說文》云：藎草也。菉，王芻也。《爾雅》云：菉，王芻。郭璞云：菉，蓐也，今呼鴟腳莎。《毛詩》云：綠竹猗猗。《傳》云：菉，王芻也。《唐本》注云：藎草，俗名菉蓐草",
+      "expected_count": 1,
+      "reason": "《爾雅·釋草》의 `菉，王芻`와 郭注 및 藎草의 별명 菉蓐이 일치한다.",
+      "evidence_url": "https://ctext.org/er-ya/shi-cao/zh"
+    },
+    {
+      "before": "《廣雅》云：KT　KT　，飛也。",
+      "after": "《廣雅》云：鼯鼠，飛也。",
+      "expected_count": 1,
+      "reason": "앞 문장이 `鼠形，飛走且乳之鳥`로 풀이하고 《廣雅》의 동물명 鼯鼠를 인용한다.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/NGJ89241200000281915154/chapter/1lqqqwmbcshm2"
+    },
+    {
+      "before": "案：《說文》云：KT　，KT　蠃，蒲盧，細要土蜂也。",
+      "after": "案：《說文》云：蜾，蜾蠃，蒲盧，細要土蜂也。",
+      "expected_count": 1,
+      "reason": "《說文》과 《爾雅》가 모두 세요토봉을 `蜾蠃，蒲盧`로 기록한다.",
+      "evidence_url": "https://ctext.org/dictionary.pl?char=%E8%A0%83&if=en"
+    },
+    {
+      "before": "三月，　則鳴。KT　，天螻也。",
+      "after": "三月，　則鳴。螜，天螻也。",
+      "expected_count": 1,
+      "reason": "《爾雅·釋蟲》의 직접 문구는 `螜，天螻`이다.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=539374&if=en"
     }
   ],
   "C/C003.txt": [
