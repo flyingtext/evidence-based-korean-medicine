@@ -282,10 +282,10 @@
     },
     "D/D025a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 24,
+      "unresolved_candidates": 4,
       "punctuation_status": "source_present",
-      "note": "배치92 후 잔여 60좌표 중 D025 자매본·《千金要方》《內經》 직접 인용·교감문 자체 명시로 36좌표를 확정. 24좌표 보류.",
-      "remaining_count": 24,
+      "note": "D025 자매본, jicheng 공개 전문, NTU 영인 및 독립 전사로 20후보군 21자를 확정했다. 일본 교감본 서명의 관직 1자와 후대 교감기 난독 3자는 판본 영인 없이 추정하지 않아 보류한다.",
+      "remaining_count": 4,
       "status": "in_progress"
     },
     "D/D004a.txt": {
@@ -1109,7 +1109,7 @@
     "O/O100.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "현재 jicheng 전사와 CJK 전역 정렬 및 Wikisource 독립 대조로 HT·결자·중간 탈락 문장 6건을 복원하고 전각 공백 155곳이 판면·약물 구분임을 확인, 원자료 표점 충분"
     },
     "K/K018.txt": {
@@ -3166,10 +3166,10 @@
     },
     "B/B009.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28,
+      "unresolved_candidates": 20,
       "punctuation_status": "source_present",
-      "note": "기존 규칙을 순차 적용해 HT·KT·□·[c]·PUA가 모두 0임을 확인했다. 61개 중 60개만 실제 적용되고 1개는 앞 규칙과 중첩되어 stale 상태다. 남은 356개 전각 공백은 현행 상태 기록상 처방 조판 328개와 실결락 후보 28개로 분류된다. 28개는 좌표별 신뢰 원문 대조가 완료되지 않아 전부 보류하며 promote=false이다.",
-      "remaining_count": 28
+      "note": "jicheng.tw 공개 《傷寒尋源》 동일 문단과 직접 대조해 惵卑·濈濈·濈然·漐漐·涼飈·炎熇 등 7규칙 8좌표를 복원했다. 나머지 20후보는 처방 조판 공백과의 구별 또는 직접 판본 근거가 부족해 보류한다.",
+      "remaining_count": 20
     },
     "A/A014.txt": {
       "collation_status": "in_progress",

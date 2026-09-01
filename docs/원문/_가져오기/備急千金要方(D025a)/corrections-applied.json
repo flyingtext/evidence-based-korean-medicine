@@ -822,5 +822,89 @@
     "expected_count": 1,
     "reason": "교감문이 足변 글자 趺를 직접 해설",
     "evidence": "D025 본문 多作趺病 및 교감기"
+  },
+  {
+    "before": "[c]eyra[/c]",
+    "after": "𣿉",
+    "expected_count": 3,
+    "reason": "jicheng.tw 공개 전문의 取𣿉·大麻𣿉과 일치."
+  },
+  {
+    "before": "[c]thob[/c]",
+    "after": "扁",
+    "expected_count": 2,
+    "reason": "NTU 영인 및 공개 전문의 扁豆와 일치."
+  },
+  {
+    "before": "[c]ceii[/c]",
+    "after": "𨪊",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문의 大𨪊과 일치."
+  },
+  {
+    "before": "[c]htmjk[/c]",
+    "after": "𧗐",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문의 或如切𧗐과 일치."
+  },
+  {
+    "before": "[c]liklu[/c][c]liklu[/c]",
+    "after": "㤿㤿",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문의 體中但自㤿㤿然과 일치."
+  },
+  {
+    "before": "夫久咳為[c]ke[/c]咳而時發熱",
+    "after": "夫久咳為㽷，咳而時發熱",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문과 일치."
+  },
+  {
+    "before": "[c]khsb[/c]",
+    "after": "㾫",
+    "expected_count": 3,
+    "reason": "jicheng.tw 공개 전문의 병명 㾫病과 일치."
+  },
+  {
+    "before": "宜針灸熨[c]fjii[/c]諸服治風藥即愈",
+    "after": "宜針灸熨𤍿，服諸治風藥即愈",
+    "expected_count": 1,
+    "reason": "공개본과 저장소 평행 복원으로 熨𤍿을 확정."
+  },
+  {
+    "before": "[c]jjm[/c]",
+    "after": "𨊧",
+    "expected_count": 2,
+    "reason": "jicheng.tw 공개 전문의 車𨊧中脂·車𨊧脂와 일치."
+  },
+  {
+    "before": "治食魚鯽及[c]hmobo[/c]住胷膈中不化。",
+    "after": "治食魚鱠及生肉在胸膈中不化。",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문의 표제와 일치."
+  },
+  {
+    "before": "治馬齧人及[c]rmomm[/c]人作瘡毒腫熱痛方。",
+    "after": "治馬齧人及踏人作瘡毒腫熱痛方。",
+    "expected_count": 1,
+    "reason": "jicheng.tw 공개 전문의 及踏人과 일치."
+  },
+  {
+    "before": "多食酸令人[c]khem[/c]，",
+    "after": "多食酸令人癃，",
+    "expected_count": 1,
+    "reason": "《靈樞·五味論》과 D025 자매본의 癃에 근거."
+  },
+  {
+    "before": "小兒丹[c]kjjh[/c]，不可久食",
+    "after": "小兒丹疹，不可久食",
+    "expected_count": 1,
+    "reason": "jicheng.tw 및 저장소 평행본의 小兒丹疹과 일치."
+  },
+  {
+    "before": "一名[c]tyjc[/c]，一名感米",
+    "after": "一名𧆐，一名感米",
+    "expected_count": 1,
+    "reason": "독립 공개 전사의 薏苡仁 이명 𧆐과 일치."
   }
 ]

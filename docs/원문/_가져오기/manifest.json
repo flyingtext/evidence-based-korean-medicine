@@ -1002,7 +1002,7 @@
       "output_directory": "傷寒尋源(B009)",
       "markdown_files": 5,
       "translation_units": 189,
-      "corrections_applied": 61,
+      "corrections_applied": 68,
       "punctuated": false,
       "warnings": []
     },
@@ -3487,7 +3487,7 @@
       "output_directory": "備急千金要方(D025a)",
       "markdown_files": 36,
       "translation_units": 247,
-      "corrections_applied": 132,
+      "corrections_applied": 146,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '多食酸令人[c]khem[/c]，\\r\\n不知何以然' (0/1)"
@@ -13125,7 +13125,7 @@
       "markdown_files": 1,
       "translation_units": 3,
       "corrections_applied": 6,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {

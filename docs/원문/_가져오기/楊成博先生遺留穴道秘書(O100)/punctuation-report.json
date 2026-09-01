@@ -1,0 +1,93 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/O/O100.txt",
+    "sha256": "bbe8875ea957ac36b0f7d31eb545daf9772c5c313bb408100d4009a5ce13895b"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "06c58990c79f6dfc75277041a119e3b6e016b2a09bf7e6e8207490703f2f96f1",
+    "applied_count": 6
+  },
+  "output": "docs/원문/_가져오기/楊成博先生遺留穴道秘書(O100)/표점본.md",
+  "chunks": {
+    "total": 5,
+    "resumable_completed": 5,
+    "min_chars": 399,
+    "max_chars": 602,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 399,
+        "output_characters": 410,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 62,
+        "punctuation_density": 0.18181818,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 436,
+        "output_characters": 448,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 74,
+        "punctuation_density": 0.20108696,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 602,
+        "output_characters": 650,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 54,
+        "punctuation_density": 0.12217195,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 602,
+        "output_characters": 648,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 78,
+        "punctuation_density": 0.195,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 532,
+        "output_characters": 556,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 28,
+        "punctuation_density": 0.08022923,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 1900,
+    "output_nonpunctuation_characters": 1900,
+    "input_non_punctuation_characters": 1906,
+    "output_non_punctuation_characters": 1906
+  },
+  "punctuation": {
+    "ascii_count": 296,
+    "density_per_nonpunctuation_character": 0.15578947,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

@@ -7261,6 +7261,48 @@
       "reason": "梔子豉湯證의 고정 증후 心中懊憹이다.",
       "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%82%B7%E5%AF%92%E8%AB%96",
       "evidence_note": "평행 조문의 心中懊憹과 일치."
+    },
+    {
+      "before": "營氣弱名曰卑。　卑相搏名曰損",
+      "after": "營氣弱名曰卑。惵卑相搏名曰損",
+      "expected_count": 1,
+      "reason": "jicheng.tw 동일 문단의 惵卑相搏과 일치."
+    },
+    {
+      "before": "則惡寒將自罷。即　汗出。而不惡寒",
+      "after": "則惡寒將自罷。即濈濈汗出。而不惡寒",
+      "expected_count": 1,
+      "reason": "jicheng.tw 동일 문장의 濈濈汗出과 일치."
+    },
+    {
+      "before": "手足　汗出。大便難而譫語者",
+      "after": "手足濈然汗出。大便難而譫語者",
+      "expected_count": 1,
+      "reason": "jicheng.tw 동일 문맥의 手足濈然汗出과 일치."
+    },
+    {
+      "before": "按太陽病當取　微似有汗者佳",
+      "after": "按太陽病當取漐漐微似有汗者佳",
+      "expected_count": 1,
+      "reason": "jicheng.tw와 상한론 고정구 漐漐微似有汗에 근거."
+    },
+    {
+      "before": "譬如涼　荐爽。而炎　若失也",
+      "after": "譬如涼飈荐爽。而炎熇若失也",
+      "expected_count": 1,
+      "reason": "jicheng.tw 동일 비유문의 涼飈薦爽·炎熇若失과 일치."
+    },
+    {
+      "before": "其人　汗出。發作有時",
+      "after": "其人漐漐汗出。發作有時",
+      "expected_count": 1,
+      "reason": "jicheng.tw 동일 조문의 漐漐汗出과 일치."
+    },
+    {
+      "before": "必須表罷可攻。　汗出。有似表證",
+      "after": "必須表罷可攻。漐漐汗出。有似表證",
+      "expected_count": 1,
+      "reason": "jicheng.tw 연속 해설문의 漐漐汗出과 일치."
     }
   ],
   "B/B019.txt": [
