@@ -378,9 +378,13 @@
       "output_directory": "內經知要(A200)",
       "markdown_files": 3,
       "translation_units": 18,
-      "corrections_applied": 105,
+      "corrections_applied": 122,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '曰甘疽，色青，其狀如穀實\\u3000藪，常苦寒熱，急治之，去' (0/1)",
+        "교정 불일치: '生肉，大如赤小豆。銼䔖、\\u3000草根各一升，以水一斗六升' (0/1)",
+        "교정 불일치: '部，經脈行於少腹，腰脊，\\u3000骨之間），三日背𦛗筋痛，' (0/1)"
+      ]
     },
     {
       "source_path": "A/A201.txt",
@@ -9669,7 +9673,7 @@
       "markdown_files": 16,
       "translation_units": 16,
       "corrections_applied": 1,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {
@@ -9777,9 +9781,11 @@
       "output_directory": "冷廬醫話(N004)",
       "markdown_files": 8,
       "translation_units": 114,
-      "corrections_applied": 99,
+      "corrections_applied": 136,
       "punctuated": false,
       "warnings": [
+        "교정 불일치: '蛷\\u3000，晶黎詩' (0/1)",
+        "교정 불일치: '黃\\u3000' (19/3)",
         "미처리 태그: dz, l"
       ]
     },
@@ -10732,7 +10738,7 @@
       "output_directory": "讀醫隨筆(N059)",
       "markdown_files": 8,
       "translation_units": 141,
-      "corrections_applied": 23,
+      "corrections_applied": 33,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '虻蟲、\\u3000蟲、蠐螬' (2/1)"

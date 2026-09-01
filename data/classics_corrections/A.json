@@ -25458,6 +25458,166 @@
       "evidence_url": "https://zh.wikisource.org/zh/%E6%AC%BD%E5%AE%9A%E5%8F%A4%E4%BB%8A%E5%9C%96%E6%9B%B8%E9%9B%86%E6%88%90/%E5%8D%9A%E7%89%A9%E5%BD%99%E7%B7%A8/%E8%97%9D%E8%A1%93%E5%85%B8/%E7%AC%AC080%E5%8D%B7",
       "evidence_note": "《標本病傳論》 평행문 ‘冬夜半後，夏日昳’과 일치한다.",
       "reason": "《標本病傳論》 평행문 ‘冬夜半後，夏日昳’과 일치한다."
+    },
+    {
+      "before": "。目內上者，膺乳也（目內　上者，闕下兩旁也。胸兩旁",
+      "after": "。目內上者，膺乳也（目內眥上者，闕下兩旁也。胸兩旁",
+      "expected_count": 1,
+      "reason": "해부 부위 `目內眥上`이며 동일 저작 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "해부 부위 `目內眥上`이며 동일 저작 공개 전문과 일치한다."
+    },
+    {
+      "before": "並於腎也。腎因虧損，腰脊　疼，不能起坐。冬令水旺，",
+      "after": "並於腎也。腎因虧損，腰脊痠疼，不能起坐。冬令水旺，",
+      "expected_count": 1,
+      "reason": "신허 병후 `腰脊痠疼`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "신허 병후 `腰脊痠疼`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "，循臂上廉，入肘外廉，上　外前廉，上肩，出骨之前廉",
+      "after": "，循臂上廉，入肘外廉，上臑外前廉，上肩，出骨之前廉",
+      "expected_count": 1,
+      "reason": "대장경 순행의 `上臑外前廉`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "대장경 순행의 `上臑外前廉`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "，出骨之前廉（肩端骨罅為　骨），上出於柱骨之會上（",
+      "after": "，出骨之前廉（肩端骨罅為髃骨），上出於柱骨之會上（",
+      "expected_count": 1,
+      "reason": "견단의 해부명 `髃骨`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "견단의 해부명 `髃骨`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "肩後骨縫曰肩解。肩胛者，　、天宗等處。肩上者，秉風",
+      "after": "肩後骨縫曰肩解。肩胛者，臑腧、天宗等處。肩上者，秉風",
+      "expected_count": 1,
+      "reason": "경혈명 `臑腧`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "경혈명 `臑腧`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "，循天牖，系耳後之翳風、　脈、顱息，出耳上角，過足",
+      "after": "，循天牖，系耳後之翳風、瘈脈、顱息，出耳上角，過足",
+      "expected_count": 1,
+      "reason": "경혈명 `瘈脈`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "경혈명 `瘈脈`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "之懸厘、頷厭，下行耳頰至　）；其支者，從耳後入耳中",
+      "after": "之懸厘、頷厭，下行耳頰至䪼）；其支者，從耳後入耳中",
+      "expected_count": 1,
+      "reason": "관골 부위 희자 `䪼`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "관골 부위 희자 `䪼`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "液混濁，皆屬於火（轉筋攣　，燥熱所致，小便混濁，清",
+      "after": "液混濁，皆屬於火（轉筋攣踡，燥熱所致，小便混濁，清",
+      "expected_count": 1,
+      "reason": "근육이 오그라드는 `攣踡`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "근육이 오그라드는 `攣踡`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "寒熱，下為癰腫，及為痿厥　，其傳為索澤，其傳為頹疝",
+      "after": "寒熱，下為癰腫，及為痿厥腨㾓，其傳為索澤，其傳為頹疝",
+      "expected_count": 1,
+      "reason": "《素問》 병후 `痿厥腨㾓`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "《素問》 병후 `痿厥腨㾓`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "，目黃淚出鼽衄，項背腰尻　腳皆痛，小指不用。（皆本",
+      "after": "，目黃淚出鼽衄，項背腰尻膕踹腳皆痛，小指不用。（皆本",
+      "expected_count": 1,
+      "reason": "족태양 병후 `膕踹`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "족태양 병후 `膕踹`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "火刑金也）。坐而欲起，目　如無所見（坐而欲起，陰虛",
+      "after": "火刑金也）。坐而欲起，目䀮䀮如無所見（坐而欲起，陰虛",
+      "expected_count": 1,
+      "reason": "시야가 흐린 모양 `目䀮䀮`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "시야가 흐린 모양 `目䀮䀮`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "腋腫，甚則胸脅支滿，心中　大動（皆經脈之所及），面",
+      "after": "腋腫，甚則胸脅支滿，心中憺憺大動（皆經脈之所及），面",
+      "expected_count": 1,
+      "reason": "심포경 병후 `憺憺大動`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "심포경 병후 `憺憺大動`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "陽也〕是動則病耳聾，渾渾　，嗌腫喉痹（經脈所過之病",
+      "after": "陽也〕是動則病耳聾，渾渾焞焞，嗌腫喉痹（經脈所過之病",
+      "expected_count": 1,
+      "reason": "귀가 먹먹한 모양 `渾渾焞焞`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "귀가 먹먹한 모양 `渾渾焞焞`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "系，癖而內著，惡氣乃起，　肉乃生（覃之為義，延布而",
+      "after": "系，癖而內著，惡氣乃起，瘜肉乃生（覃之為義，延布而",
+      "expected_count": 1,
+      "reason": "병리 조직 `瘜肉`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "병리 조직 `瘜肉`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "曰甘疽，色青，其狀如穀實　藪，常苦寒熱，急治之，去",
+      "after": "曰甘疽，色青，其狀如穀實𦸈藪，常苦寒熱，急治之，去",
+      "expected_count": 1,
+      "reason": "감저 형상 묘사 `穀實𦸈藪`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "감저 형상 묘사 `穀實𦸈藪`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "木克土也。層房累累，狀如　實瓜蔞，軟而不潰，中有所",
+      "after": "木克土也。層房累累，狀如穀實瓜蔞，軟而不潰，中有所",
+      "expected_count": 1,
+      "reason": "형상 비유 `狀如穀實瓜蔞`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "형상 비유 `狀如穀實瓜蔞`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "生肉，大如赤小豆。銼䔖、　草根各一升，以水一斗六升",
+      "after": "生肉，大如赤小豆。銼䔖、𧄍草根各一升，以水一斗六升",
+      "expected_count": 1,
+      "reason": "약재명 `𧄍草根`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "약재명 `𧄍草根`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "部，經脈行於少腹，腰脊，　骨之間），三日背𦛗筋痛，",
+      "after": "部，經脈行於少腹，腰脊，胻骨之間），三日背𦛗筋痛，",
+      "expected_count": 1,
+      "reason": "정강이뼈 `胻骨`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "정강이뼈 `胻骨`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "閉，五日少腹脹，腰脊痛，　（五日而之腎也），一日腹",
+      "after": "閉，五日少腹脹，腰脊痛，胻痠（五日而之腎也），一日腹",
+      "expected_count": 1,
+      "reason": "신경 병후 `胻痠`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "신경 병후 `胻痠`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "則血敗，足少陰氣絕則色如　，故面黑也。腎主骨，齒者",
+      "after": "則血敗，足少陰氣絕則色如炤，故面黑也。腎主骨，齒者",
+      "expected_count": 1,
+      "reason": "색상 비유 `色如炤`가 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+      "evidence": "색상 비유 `色如炤`가 공개 전문과 일치한다."
     }
   ],
   "A/A201.txt": [

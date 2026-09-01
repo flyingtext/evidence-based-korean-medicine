@@ -1,0 +1,203 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/M/M202.txt",
+    "sha256": "73d395b7314c2664f3467b7401278cdc5dc629f0d3b7c17befc21b1329a42cf1"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "aa08be18fa9c6ed1b0234c1cf4c0d45845f44e569f764ae26ed44e455adc58c8",
+    "applied_count": 1
+  },
+  "output": "docs/원문/_가져오기/察舌辨症新法(M202)/표점본.md",
+  "chunks": {
+    "total": 16,
+    "resumable_completed": 16,
+    "min_chars": 83,
+    "max_chars": 669,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 561,
+        "output_characters": 549,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 73,
+        "punctuation_density": 0.15565032,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 467,
+        "output_characters": 467,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 69,
+        "punctuation_density": 0.17468354,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 220,
+        "output_characters": 220,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 37,
+        "punctuation_density": 0.24666667,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 151,
+        "output_characters": 166,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 16,
+        "punctuation_density": 0.12121212,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 215,
+        "output_characters": 237,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 21,
+        "punctuation_density": 0.11111111,
+        "attempts": 1
+      },
+      {
+        "index": 6,
+        "input_characters": 178,
+        "output_characters": 201,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 25,
+        "punctuation_density": 0.16666667,
+        "attempts": 1
+      },
+      {
+        "index": 7,
+        "input_characters": 575,
+        "output_characters": 574,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 80,
+        "punctuation_density": 0.17021277,
+        "attempts": 1
+      },
+      {
+        "index": 8,
+        "input_characters": 669,
+        "output_characters": 739,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 90,
+        "punctuation_density": 0.16363636,
+        "attempts": 1
+      },
+      {
+        "index": 9,
+        "input_characters": 406,
+        "output_characters": 452,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 59,
+        "punctuation_density": 0.184375,
+        "attempts": 1
+      },
+      {
+        "index": 10,
+        "input_characters": 237,
+        "output_characters": 275,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 39,
+        "punctuation_density": 0.2,
+        "attempts": 1
+      },
+      {
+        "index": 11,
+        "input_characters": 176,
+        "output_characters": 202,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 29,
+        "punctuation_density": 0.20138889,
+        "attempts": 1
+      },
+      {
+        "index": 12,
+        "input_characters": 98,
+        "output_characters": 114,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 15,
+        "punctuation_density": 0.1875,
+        "attempts": 1
+      },
+      {
+        "index": 13,
+        "input_characters": 95,
+        "output_characters": 110,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 15,
+        "punctuation_density": 0.19480519,
+        "attempts": 1
+      },
+      {
+        "index": 14,
+        "input_characters": 169,
+        "output_characters": 190,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 27,
+        "punctuation_density": 0.1942446,
+        "attempts": 1
+      },
+      {
+        "index": 15,
+        "input_characters": 83,
+        "output_characters": 95,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 14,
+        "punctuation_density": 0.21875,
+        "attempts": 1
+      },
+      {
+        "index": 16,
+        "input_characters": 187,
+        "output_characters": 215,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 28,
+        "punctuation_density": 0.17721519,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 3682,
+    "output_nonpunctuation_characters": 3682,
+    "input_non_punctuation_characters": 3776,
+    "output_non_punctuation_characters": 3776
+  },
+  "punctuation": {
+    "ascii_count": 637,
+    "density_per_nonpunctuation_character": 0.1730038,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

@@ -170,5 +170,95 @@
     "after": "宜甘潤咸潤以填陰，佐以參、耆、升、柴",
     "expected_count": 1,
     "reason": "補氣建中 약물의 정형 열거 人參、黃耆、升麻、柴胡."
+  },
+  {
+    "before": "下為漏　。",
+    "after": "下為漏病。",
+    "expected_count": 1,
+    "reason": "인용된 《素問·著至教論》의 정문은 ‘上為巔疾，下為漏病’이다.",
+    "evidence_url": "https://yibian.hopto.org/tw/shu/?sid=4466",
+    "evidence_note": "해당 편 원문에 ‘上為巔疾，下為漏病’으로 수록되어 결자를 직접 확정한다.",
+    "evidence": "인용된 《素問·著至教論》의 정문은 ‘上為巔疾，下為漏病’이다."
+  },
+  {
+    "before": "潰潰乎若壞都，(都，堤防也。高士宗曰國都。)　乎不可以止",
+    "after": "潰潰乎若壞都，(都，堤防也。高士宗曰國都。)汩汩乎不可以止",
+    "expected_count": 1,
+    "reason": "《素問·生氣通天論》 인용문의 정문이 ‘潰潰乎若壞都，汩汩乎不可止’이다.",
+    "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf",
+    "evidence_note": "《黃帝內經素問》 concordance가 같은 연속 구절을 ‘潰潰乎若壞都，汩汩乎不可以止’로 제시한다.",
+    "evidence": "《素問·生氣通天論》 인용문의 정문이 ‘潰潰乎若壞都，汩汩乎不可止’이다."
+  },
+  {
+    "before": "意傷則　亂",
+    "after": "意傷則慮亂",
+    "expected_count": 1,
+    "reason": "《靈樞·本神》의 정문은 ‘意傷則慮亂，四肢不舉’이다.",
+    "evidence_url": "https://c.nknu.edu.tw/aca/UploadFile/userfiles/files/nknupaper/excerpt/49/C01.pdf",
+    "evidence_note": "학술 논문이 《靈樞·本神論》 원문을 ‘意傷則慮亂，四肢不舉’로 인용한다.",
+    "evidence": "《靈樞·本神》의 정문은 ‘意傷則慮亂，四肢不舉’이다."
+  },
+  {
+    "before": "甚則水閉　腫",
+    "after": "甚則水閉胕腫",
+    "expected_count": 1,
+    "reason": "《素問·六元正紀大論》의 정문은 ‘濕勝則濡泄，甚則水閉胕腫’이다.",
+    "evidence_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=101&code=104100&q=1&s=0101&t=Q",
+    "evidence_note": "대만 고시원 공개 시험 원문이 해당 고전 구절을 ‘水閉胕腫’으로 제시한다.",
+    "evidence": "《素問·六元正紀大論》의 정문은 ‘濕勝則濡泄，甚則水閉胕腫’이다."
+  },
+  {
+    "before": "支痛　戾",
+    "after": "支痛緛戾",
+    "expected_count": 1,
+    "reason": "劉河間 계열의 육기 병기 정문은 ‘諸暴強直，支痛緛戾，裡急筋縮’이다.",
+    "evidence_url": "https://cloudtcm.com/shu/t1/1496/18",
+    "evidence_note": "《醫學啓源》 공개 원문에 앞뒤 문맥까지 동일하게 ‘支痛緛戾’로 수록된다.",
+    "evidence": "劉河間 계열의 육기 병기 정문은 ‘諸暴強直，支痛緛戾，裡急筋縮’이다."
+  },
+  {
+    "before": "氣之性情　悍滑疾",
+    "after": "氣之性情慓悍滑疾",
+    "expected_count": 1,
+    "reason": "衛氣의 성질을 표현하는 《靈樞》의 관용 정문은 ‘慓悍滑疾’이며 현 문맥도 그 표현을 풀이한다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=604643&if=en",
+    "evidence_note": "《讀醫隨筆》 권2상 동일 항목과 연결된 저본 영인/OCR 대조 페이지이며, 결락 위치는 고전의 고정 표현 ‘慓悍滑疾’에 해당한다.",
+    "evidence": "衛氣의 성질을 표현하는 《靈樞》의 관용 정문은 ‘慓悍滑疾’이며 현 문맥도 그 표현을 풀이한다."
+  },
+  {
+    "before": "五心　熱",
+    "after": "五心煩熱",
+    "expected_count": 1,
+    "reason": "앞뒤가 ‘故人有五心煩熱，骨蒸煩熱者’로 이어지는 고정 증후 표현이다.",
+    "evidence_url": "https://ctext.org/wiki.pl?chapter=604643&if=en",
+    "evidence_note": "동일 저작 권2상 해당 문장 및 연결 영인을 근거로 결락 한 글자를 ‘煩’으로 판독한다.",
+    "evidence": "앞뒤가 ‘故人有五心煩熱，骨蒸煩熱者’로 이어지는 고정 증후 표현이다."
+  },
+  {
+    "before": "《內經》以痿　為肺熱葉焦",
+    "after": "《內經》以痿躄為肺熱葉焦",
+    "expected_count": 1,
+    "reason": "동일 저작의 공개 전사에 해당 문장이 ‘內經以痿躄爲肺熱葉焦’로 보존되어 있다.",
+    "evidence_url": "https://www.shidianguji.com/zh/book/CADAL02093821/chapter/1lb05a0ho8suz",
+    "evidence_note": "識典古籍의 《讀醫隨筆》 권3 원문이 앞뒤 문맥까지 일치하는 ‘痿躄’ 판독을 제공한다.",
+    "evidence": "동일 저작의 공개 전사에 해당 문장이 ‘內經以痿躄爲肺熱葉焦’로 보존되어 있다."
+  },
+  {
+    "before": "口眼　斜",
+    "after": "口眼喎斜",
+    "expected_count": 2,
+    "reason": "두 자리 모두 중풍 증상을 열거하는 동일한 관용 표현 ‘口眼喎斜’이다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86",
+    "evidence_note": "위키문헌의 동일 저작 전체 전사와 문맥을 대조하고, 같은 책 후문에 명시된 ‘口眼歪斜’ 및 전통 표기 ‘喎斜’로 결자를 확정한다.",
+    "evidence": "두 자리 모두 중풍 증상을 열거하는 동일한 관용 표현 ‘口眼喎斜’이다."
+  },
+  {
+    "before": "太陽中　，是先傷於暑",
+    "after": "太陽中暍，是先傷於暑",
+    "expected_count": 1,
+    "reason": "《金匱要略》의 병명 및 본문의 ‘先傷於暑’ 설명에 맞는 고정 표현은 ‘太陽中暍’이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E8%AE%80%E9%86%AB%E9%9A%A8%E7%AD%86/index.html",
+    "evidence_note": "jicheng.tw의 북경대 도서관 영인 기반 동일 저작 문맥과 《金匱要略·痙濕暍病》의 병명을 대조해 ‘暍’을 확정한다.",
+    "evidence": "《金匱要略》의 병명 및 본문의 ‘先傷於暑’ 설명에 맞는 고정 표현은 ‘太陽中暍’이다."
   }
 ]

@@ -79,10 +79,10 @@
     },
     "N/N004.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 127,
+      "unresolved_candidates": 84,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 뒤 남은 HT 2좌표를 한 개의 출현별 규칙으로 모두 해소한다. 주변 전각 공백은 원문 레이아웃으로 보고 변경·집계하지 않았다. 명시적 코드 외 전각 결락 후보를 포함해 문헌 전체 잔여는 127좌표로 유지한다.",
-      "remaining_count": 127,
+      "note": "기존 99규칙 적용 후 남은 전각 결락 후보 127좌표 가운데 jicheng.tw 스캔 기반 전문과 고유 양방향 문맥이 직접 일치한 43좌표를 복원 제안했다. 나머지 84좌표는 추가 영인 판독이 필요해 보류한다. promote=false.",
+      "remaining_count": 84,
       "status": "in_progress"
     },
     "N/N006.txt": {
@@ -1230,7 +1230,7 @@
     "M/M202.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "jicheng 최신 표점 전사의 동일 16편 전문과 문헌 단위 정렬해 공백 없이 탈락·혼입된 서문·설진 원리·진단 조문을 복원. 원자료 전각 공백 및 HT/KT/□ 없음, [u]는 <ins>로 정상 변환, 원자료 표점 충분"
     },
     "M/M105.txt": {
@@ -3182,9 +3182,10 @@
     },
     "A/A200.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 127,
+      "unresolved_candidates": 108,
       "punctuation_status": "source_present",
-      "note": "HT/KT/□ 잔여 0. 전각 공백 127개는 經脈 해부 희귀자·易經 인용과 조판 간격이 혼재해 독립 영인 대조 전 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 127자리로 유지한다."
+      "note": "기존 105규칙 적용 후 남은 전각 공백 128곳 중 동일 저작 공개 전문과 고유 문맥이 일치하는 고립 후보 20곳을 확정했다. 공개 전문은 일본 국립공문서관 소장 명 숭정 16년 간본 영인을 저본으로 명시한다. 나머지 108곳은 보류한다. promote=false.",
+      "remaining_count": 108
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
@@ -4046,9 +4047,10 @@
     },
     "N/N059.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 127,
+      "unresolved_candidates": 116,
       "punctuation_status": "source_present",
-      "note": "marker 잔여 0. 전각 공백 129개 중 약명·포제법으로 확정되는 2 occurrence만 제안, 나머지는 보류. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 127자리로 유지한다."
+      "note": "현재 교정 규칙을 가상 적용한 뒤 남은 결락 가운데 동일 저작 평행 전사 또는 직접 인용된 고전 정문으로 확정되는 10개 규칙(11 occurrence)만 제안했다. 나머지 전각 공백은 조판 간격과 미확정 결락이 섞여 있어 보류한다.",
+      "remaining_count": 116
     },
     "O/O017.txt": {
       "collation_status": "in_progress",

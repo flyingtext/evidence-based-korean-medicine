@@ -789,5 +789,264 @@
     "expected_count": 1,
     "reason": "《冷廬醫話》 공개 전사본의 동일 조항은 《玉篇》 ‘蛷螋’, 《博雅》 ‘螋蛷’로 전하며, 두 HT가 각각 두 글자 어휘를 대신한 자리다.",
     "evidence": "https://cloudtcm.com/shu/t1/384/109"
+  },
+  {
+    "before": "割　之術",
+    "after": "割𤺏之術",
+    "expected_count": 1,
+    "reason": "jicheng 직접 대조",
+    "evidence": "jicheng 직접 대조"
+  },
+  {
+    "before": "《溫病條辨雜說》辨之謂：　字",
+    "after": "《溫病條辨雜說》辨之謂：𤺏字",
+    "expected_count": 1,
+    "reason": "동일 단락 반복 및 jicheng 직접 대조",
+    "evidence": "동일 단락 반복 및 jicheng 직접 대조"
+  },
+  {
+    "before": "　妙常在傍",
+    "after": "丱妙常在傍",
+    "expected_count": 1,
+    "reason": "jicheng 직접 대조",
+    "evidence": "jicheng 직접 대조"
+  },
+  {
+    "before": "喉中須　作聲",
+    "after": "喉中須嘓嘓作聲",
+    "expected_count": 1,
+    "reason": "jicheng 희귀 의성어 직접 대조",
+    "evidence": "jicheng 희귀 의성어 직접 대조"
+  },
+  {
+    "before": "寇宗　云",
+    "after": "寇宗奭云",
+    "expected_count": 1,
+    "reason": "인명 寇宗奭 및 jicheng 대조",
+    "evidence": "인명 寇宗奭 및 jicheng 대조"
+  },
+  {
+    "before": "錢塘呂　村司馬",
+    "after": "錢塘呂𣗪村司馬",
+    "expected_count": 1,
+    "reason": "인명·호를 jicheng 본문에서 직접 판독",
+    "evidence": "인명·호를 jicheng 본문에서 직접 판독"
+  },
+  {
+    "before": "提酒　訪知己",
+    "after": "提酒榼訪知己",
+    "expected_count": 1,
+    "reason": "jicheng 직접 대조",
+    "evidence": "jicheng 직접 대조"
+  },
+  {
+    "before": "蕭然環　中",
+    "after": "蕭然環闠中",
+    "expected_count": 1,
+    "reason": "jicheng 희귀어 직접 대조",
+    "evidence": "jicheng 희귀어 직접 대조"
+  },
+  {
+    "before": "魏玉璜先生之　",
+    "after": "魏玉璜先生之琇",
+    "expected_count": 1,
+    "reason": "인명 魏之琇 및 jicheng 대조",
+    "evidence": "인명 魏之琇 및 jicheng 대조"
+  },
+  {
+    "before": "魏玉璜之　",
+    "after": "魏玉璜之琇",
+    "expected_count": 1,
+    "reason": "인명 魏之琇 반복",
+    "evidence": "인명 魏之琇 반복"
+  },
+  {
+    "before": "發　，用石膏至十四斤而　始退",
+    "after": "發癍，用石膏至十四斤而癍始退",
+    "expected_count": 1,
+    "reason": "병명 癍 반복, jicheng 직접 대조",
+    "evidence": "병명 癍 반복, jicheng 직접 대조"
+  },
+  {
+    "before": "齊侯疥遂　",
+    "after": "齊侯疥遂痁",
+    "expected_count": 1,
+    "reason": "《左傳》 및 jicheng 대조",
+    "evidence": "《左傳》 및 jicheng 대조"
+  },
+  {
+    "before": "《說文》　二日一發之瘧，　有熱瘧",
+    "after": "《說文》痁二日一發之瘧，痁有熱瘧",
+    "expected_count": 1,
+    "reason": "《說文》 痁 정의와 jicheng 직접 대조",
+    "evidence": "《說文》 痁 정의와 jicheng 직접 대조"
+  },
+  {
+    "before": "朱竹　先生",
+    "after": "朱竹垞先生",
+    "expected_count": 1,
+    "reason": "인명 朱竹垞 및 jicheng 대조",
+    "evidence": "인명 朱竹垞 및 jicheng 대조"
+  },
+  {
+    "before": "《韓詩》解　之詩，謂蔡人之妻",
+    "after": "《韓詩》解芣苢之詩，謂蔡人之妻",
+    "expected_count": 1,
+    "reason": "《詩經》 편명 芣苢",
+    "evidence": "《詩經》 편명 芣苢"
+  },
+  {
+    "before": "遂謂歌其　，正指是也",
+    "after": "遂謂歌其芣苢，正指是也",
+    "expected_count": 1,
+    "reason": "같은 단락 식물명 반복",
+    "evidence": "같은 단락 식물명 반복"
+  },
+  {
+    "before": "伯牛癩。又　草可療癩也",
+    "after": "伯牛癩。又芣苢草可療癩也",
+    "expected_count": 1,
+    "reason": "jicheng 직접 대조",
+    "evidence": "jicheng 직접 대조"
+  },
+  {
+    "before": "余按：　即車前",
+    "after": "余按：芣苢即車前",
+    "expected_count": 1,
+    "reason": "芣苢=車前 직접 정의",
+    "evidence": "芣苢=車前 직접 정의"
+  },
+  {
+    "before": "蓖麻子、　草、甘參",
+    "after": "蓖麻子、豨薟草、甘參",
+    "expected_count": 1,
+    "reason": "약명 豨薟草, jicheng 대조",
+    "evidence": "약명 豨薟草, jicheng 대조"
+  },
+  {
+    "before": "糞門生　",
+    "after": "糞門生瘻",
+    "expected_count": 1,
+    "reason": "병증 瘻, jicheng 대조",
+    "evidence": "병증 瘻, jicheng 대조"
+  },
+  {
+    "before": "　腮之症",
+    "after": "痄腮之症",
+    "expected_count": 1,
+    "reason": "병명 痄腮",
+    "evidence": "병명 痄腮"
+  },
+  {
+    "before": "姚　云《本草分經》",
+    "after": "姚涴云《本草分經》",
+    "expected_count": 1,
+    "reason": "인명 jicheng 직접 대조",
+    "evidence": "인명 jicheng 직접 대조"
+  },
+  {
+    "before": "頭二蠶即　珍",
+    "after": "頭二蠶即蚖珍",
+    "expected_count": 1,
+    "reason": "jicheng 희귀명 직접 대조",
+    "evidence": "jicheng 희귀명 직접 대조"
+  },
+  {
+    "before": "字書作　。《本草》有晚蠶沙",
+    "after": "字書作𧔞。《本草》有晚蠶沙",
+    "expected_count": 1,
+    "reason": "jicheng 외자 직접 대조",
+    "evidence": "jicheng 외자 직접 대조"
+  },
+  {
+    "before": "言其地產　，取乳恆在夏月",
+    "after": "言其地產麞，取乳恆在夏月",
+    "expected_count": 1,
+    "reason": "동물명 麞, jicheng 대조",
+    "evidence": "동물명 麞, jicheng 대조"
+  },
+  {
+    "before": "蔡孝廉　毒不飲酒",
+    "after": "蔡孝廉焜毒不飲酒",
+    "expected_count": 1,
+    "reason": "인명 jicheng 직접 대조",
+    "evidence": "인명 jicheng 직접 대조"
+  },
+  {
+    "before": "萆　八錢",
+    "after": "萆薢八錢",
+    "expected_count": 1,
+    "reason": "약명 萆薢",
+    "evidence": "약명 萆薢"
+  },
+  {
+    "before": "《　狗傷補編》",
+    "after": "《瘈狗傷補編》",
+    "expected_count": 1,
+    "reason": "서명·병명 瘈狗, jicheng 대조",
+    "evidence": "서명·병명 瘈狗, jicheng 대조"
+  },
+  {
+    "before": "鮮桑枝火　患處",
+    "after": "鮮桑枝火爇患處",
+    "expected_count": 1,
+    "reason": "동작어 爇, jicheng 직접 대조",
+    "evidence": "동작어 爇, jicheng 직접 대조"
+  },
+  {
+    "before": "火　用入煎劑",
+    "after": "火煅用入煎劑",
+    "expected_count": 1,
+    "reason": "포제어 煅",
+    "evidence": "포제어 煅"
+  },
+  {
+    "before": "　、飢古異義",
+    "after": "饑、飢古異義",
+    "expected_count": 1,
+    "reason": "두 이체자 饑·飢 대조",
+    "evidence": "두 이체자 饑·飢 대조"
+  },
+  {
+    "before": "為當　",
+    "after": "為當魱",
+    "expected_count": 1,
+    "reason": "어명 jicheng 직접 대조",
+    "evidence": "어명 jicheng 직접 대조"
+  },
+  {
+    "before": "　味寒家饋到遲",
+    "after": "鯹味寒家饋到遲",
+    "expected_count": 1,
+    "reason": "어명 鯹, jicheng 대조",
+    "evidence": "어명 鯹, jicheng 대조"
+  },
+  {
+    "before": "吾鄉俗呼為　蛸",
+    "after": "吾鄉俗呼為蛒蛸",
+    "expected_count": 1,
+    "reason": "곤충명 蛒蛸, jicheng 대조",
+    "evidence": "곤충명 蛒蛸, jicheng 대조"
+  },
+  {
+    "before": "嘉興本　李地",
+    "after": "嘉興本槜李地",
+    "expected_count": 1,
+    "reason": "지명 槜李",
+    "evidence": "지명 槜李"
+  },
+  {
+    "before": "文人賦　李者",
+    "after": "文人賦槜李者",
+    "expected_count": 1,
+    "reason": "지명 반복",
+    "evidence": "지명 반복"
+  },
+  {
+    "before": "前哲有　李譜之輯",
+    "after": "前哲有槜李譜之輯",
+    "expected_count": 1,
+    "reason": "지명 반복",
+    "evidence": "지명 반복"
   }
 ]
