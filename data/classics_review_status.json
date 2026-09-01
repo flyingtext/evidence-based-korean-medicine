@@ -430,10 +430,10 @@
     },
     "B/B020.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 89,
+      "unresolved_candidates": 75,
       "punctuation_status": "source_present",
-      "note": "기존 교정 뒤 명시 표지는 KT 2곳과 □ 88곳이다. `頭項強KT` 한 곳만 동일 저작 평행구 `頭項強痛`으로 확정했다. `(KT 同)`은 판본 대조 약칭의 글자 수가 불명확하고, □ 88곳은 처방·결흉론의 연속 판면 손상이라 부분 추정으로 메우지 않았다. 전각 공백 제외, 기존 status 90에서 1만 차감했다.",
-      "remaining_count": 89,
+      "note": "기존 B020 교정 적용 뒤 남은 KT 1좌표와 □ 88좌표를 검토했다. jicheng.tw의 동일 저작·동일 장 직접 평행문으로 첫 손상 구간의 □ 14좌표와 동반 오접을 한 규칙으로 복원한다. `(KT　同)`은 판본 대조 약칭의 원문을 확정하지 못했고, 卷下 결흉론 및 후반 처방의 나머지 연속 □ 74좌표는 손상 범위가 커 이번 배치에서 부분 추정하지 않았다. 따라서 남은 후보는 75좌표이며 정본 승격은 불가하다.",
+      "remaining_count": 75,
       "status": "in_progress"
     },
     "B/B024.txt": {
@@ -1235,7 +1235,7 @@
     "M/M105.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "전각 공백 3곳 전부를 결자로 판정해 牴·惵·嶰를 복원하고, 원 인용문 및 독립 전사 대조로 形休·復·王敘和 오기까지 총 6건 교정. jicheng 최신 표점 전사·CloudTCM·Wikisource·원 인용문 대조 완료, 원자료 표점 충분"
     },
     "M/M103.txt": {
@@ -3066,10 +3066,10 @@
     },
     "C/C000.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 30,
+      "unresolved_candidates": 20,
       "punctuation_status": "source_present",
-      "note": "HEAD 오버레이 후 남은 KT 42좌표를 전수 감사했다. 《爾雅》《說文》《廣雅》 직접 인용으로 薤 2, 菉 5, 鼯鼠 2, 蜾 2, 螜 1의 합계 12좌표를 확정한다. 나머지 KT 30좌표는 희귀 본초명·古文·어류/곤충 자형으로 jicheng 및 공개 전사에도 동일 표지가 남아 원영인 판독 없이 추정하지 않는다. 적용 후 HT·□·BMP PUA·[c] 레거시는 0, KT 30이 남으므로 정본 승격 불가.",
-      "remaining_count": 30,
+      "note": "기존 오버레이 적용 후 남은 KT 30좌표 가운데 직접 인용과 독립 공개 전사로 10좌표를 확정했다: 㪍 4좌표, 桑上寄生 이체자 𩔣 1좌표, 梣 1좌표, 薰 2좌표, 球 1좌표, 苦 1좌표. 희귀 어류·곤충·고문 자형의 나머지 20좌표는 영인 직접 판독 없이 확정하지 않는다. remaining_count=20, promote=false.",
+      "remaining_count": 20,
       "status": "in_progress"
     },
     "C/C002.txt": {
@@ -3187,10 +3187,10 @@
     },
     "A/A201.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 85,
+      "unresolved_candidates": 68,
       "punctuation_status": "source_present",
-      "note": "잔여 HT/KT 2곳을 전수 대조하여 `至使 HT 不食`은 怢慓로 확정했다. `營循隧道。脾以HT之膽。以行之`는 jicheng·Wikisource 전사도 HT를 유지하고 문장 자체의 탈락 범위가 불명확하여 보류한다. 전각 조판 공백은 대상에서 제외했다.",
-      "remaining_count": 85,
+      "note": "기존 113규칙 적용 후 상태에 기록된 미해결 85후보를 재대조했다. jicheng 동일 저작 공개 전문에서 좌우 고유 문맥이 일치하는 17후보군 25자를 확정했다. 기존 유일 HT도 `脾以㪚之膽`로 복원되어 HT/KT/□/PUA는 0이 된다. 나머지 68후보는 복수자 탈락과 조판 공백이 혼재하므로 추정하지 않고 보류한다. promote=false.",
+      "remaining_count": 68,
       "status": "in_progress"
     },
     "A/A202.txt": {

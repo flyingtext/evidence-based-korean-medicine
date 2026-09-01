@@ -898,5 +898,133 @@
     "after": "其寒則能衰飲食。其熱則能消肌肉。至使怢慓不食。此寒熱交作之劇也。",
     "expected_count": 1,
     "evidence": "동일 저작의 jicheng 공개 전사가 이 고유 문맥을 `至使怢慓不食`으로 보존한다. https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html"
+  },
+  {
+    "before": "而　為鈴法",
+    "after": "而懜為鈴法",
+    "expected_count": 1,
+    "reason": "동일 저작 공개 전문의 고유 문맥 `而懜為鈴法，貽笑千古耳`.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "동일 저작 공개 전문의 고유 문맥 `而懜為鈴法，貽笑千古耳`."
+  },
+  {
+    "before": "營循隧道。脾以HT　之膽。",
+    "after": "營循隧道。脾以㪚之膽。",
+    "expected_count": 1,
+    "reason": "jicheng 공개 전문이 난해한 원문을 `脾以㪚之膽`로 직접 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "jicheng 공개 전문이 난해한 원문을 `脾以㪚之膽`로 직접 보존한다."
+  },
+  {
+    "before": "虛則目　無所見",
+    "after": "虛則目𥉂𥉂無所見",
+    "expected_count": 1,
+    "reason": "간허 시각 증상의 중첩 희자이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "간허 시각 증상의 중첩 희자이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "筋骨繇復肌肉　善怒",
+    "after": "筋骨繇復肌肉瞤痠善怒",
+    "expected_count": 1,
+    "reason": "土運不及 병후 열거를 공개 전문이 `肌肉瞤痠善怒`로 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "土運不及 병후 열거를 공개 전문이 `肌肉瞤痠善怒`로 보존한다."
+  },
+  {
+    "before": "注泄　溏。咳為肺家自傷",
+    "after": "注泄鶩溏。咳為肺家自傷",
+    "expected_count": 1,
+    "reason": "燥淫 병후의 `注泄鶩溏`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "燥淫 병후의 `注泄鶩溏`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "腰痛　疝。肝感寒清",
+    "after": "腰痛㿗疝。肝感寒清",
+    "expected_count": 1,
+    "reason": "간경 한결 병후 `㿗疝`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "간경 한결 병후 `㿗疝`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "陽和者物之生。　斂者物之死",
+    "after": "陽和者物之生。揫斂者物之死",
+    "expected_count": 1,
+    "reason": "생성·수렴 대구의 `揫斂`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "생성·수렴 대구의 `揫斂`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "腰股痛發　。股膝不便",
+    "after": "腰股痛發膕腨。股膝不便",
+    "expected_count": 1,
+    "reason": "허리·오금·장딴지 병후 `腰股痛發膕腨`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "허리·오금·장딴지 병후 `腰股痛發膕腨`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "腎熱病者。先腰痛　。苦渴欲飲",
+    "after": "腎熱病者。先腰痛胻痠。苦渴欲飲",
+    "expected_count": 1,
+    "reason": "《素問·刺熱》 계통 병후이며 공개 전문이 `胻痠`을 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "《素問·刺熱》 계통 병후이며 공개 전문이 `胻痠`을 보존한다."
+  },
+  {
+    "before": "故經言毋刺　之熱",
+    "after": "故經言毋刺熇熇之熱",
+    "expected_count": 1,
+    "reason": "《靈樞·瘧論》 계통 인용 `毋刺熇熇之熱`과 공개 전문이 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "《靈樞·瘧論》 계통 인용 `毋刺熇熇之熱`과 공개 전문이 일치한다."
+  },
+  {
+    "before": "先寒後熱。　焰然。熱止汗出難已",
+    "after": "先寒後熱。熇熇暍焰然。熱止汗出難已",
+    "expected_count": 1,
+    "reason": "足太陽瘧 병후를 공개 전문이 `熇熇暍焰然`으로 직접 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "足太陽瘧 병후를 공개 전문이 `熇熇暍焰然`으로 직접 보존한다."
+  },
+  {
+    "before": "陽不勝陰則為　脹",
+    "after": "陽不勝陰則為䐜脹",
+    "expected_count": 1,
+    "reason": "濁氣 상역 병후 `䐜脹`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "濁氣 상역 병후 `䐜脹`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "寒氣聚沫留著則為　積",
+    "after": "寒氣聚沫留著則為澼積",
+    "expected_count": 1,
+    "reason": "腸澼 해설의 병명 `澼積`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "腸澼 해설의 병명 `澼積`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "而為足　。肢節痛而不便利也",
+    "after": "而為足悗悗。肢節痛而不便利也",
+    "expected_count": 1,
+    "reason": "적병 성립 과정의 족부 병후 `足悗悗`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "적병 성립 과정의 족부 병후 `足悗悗`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "堅痞腹滿。急痛　疝",
+    "after": "堅痞腹滿。急痛癥㿗疝",
+    "expected_count": 1,
+    "reason": "한기 소지 병후 열거를 공개 전문이 `急痛癥㿗疝`으로 보존한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "한기 소지 병후 열거를 공개 전문이 `急痛癥㿗疝`으로 보존한다."
+  },
+  {
+    "before": "桑螵蛸雞　。頻數不能少忍",
+    "after": "桑螵蛸雞䏶胵。頻數不能少忍",
+    "expected_count": 1,
+    "reason": "방광허 보익 약물 `雞䏶胵`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+    "evidence": "방광허 보익 약물 `雞䏶胵`이며 공개 전문과 일치한다."
   }
 ]
