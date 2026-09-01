@@ -1035,7 +1035,7 @@
     "Q/Q001.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "醫宗金鑑 독립 본문 대조로 누락 혈명 5개와 오기·혈수 교주를 7건 교정, 14경 361혈 합계 확인 및 원자료 표점 충분"
     },
     "Q/Q004.txt": {
@@ -3394,10 +3394,12 @@
       "note": "1727년 청대 고전. 공개 영인과 jicheng 대조, [z] 교주 801쌍과 외자 코드 2곳 정규화, 원자료 표점 충분"
     },
     "D/D007.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 16,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "기존 11개 규칙은 정상 적용된다. 전각 공백 826개 중 조판 810개를 제외한 무표지 결락 후보 16개는 공개 전사·부분 영인으로 정확한 증감을 확정하지 못했다."
+      "note": "CRLF를 LF로 정규화하고 기존 D/D007 오버레이 11개를 적용한 뒤, 무표지 전각공백 결락 후보 16좌표를 전수 감사했다. 위 11개 규칙이 16좌표를 모두 복원한다. 적용 후 HT 0, KT 0, □ 0, PUA 0, [c] 레거시 코드 0이며 나머지 전각공백은 처방 약물 구분용 조판이다. 정본 승격 가능하다. 주요 근거: https://upload.wikimedia.org/wikipedia/commons/5/58/NLC416-06jh009228-2646_%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9_%E7%AC%AC1%E5%8D%B7.pdf ; https://ctext.org/wiki.pl?chapter=982439 ; https://krx.kanripo.org/ed/KR3j0092/SBCK/026",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "D/D031.txt": {
       "collation_status": "complete",
@@ -3531,10 +3533,10 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 23,
+      "unresolved_candidates": 5,
       "punctuation_status": "source_present",
-      "note": "배치92 뒤 실제 잔여 [c] 64좌표를 원 source에 기존 137개 규칙을 순차 적용해 재현했다. D002 자매본, 공개 《千金翼方》·본초/의서 직접 인용, Unicode Unihan 창힐 유일 후보를 문맥 교차검증하여 36개 occurrence-specific 규칙으로 41좌표를 확정했다(expected_count 합계41). 잔여 23좌표는 희귀 본초 이명·주문/부적 문자 또는 자매본도 결락·상이하여 추정 없이 보류한다.",
-      "remaining_count": 23,
+      "note": "기존 D002a 교정 173개를 expected_count대로 전부 적용한 뒤 HT 0, KT 0, □ 0, PUA 0, [c] 23을 확인했다. 제안 13규칙이 [c] 18좌표를 해소하고 5좌표는 판본 결락·부적 도형이라 보류한다. 확정 규칙은 promote한다.",
+      "remaining_count": 5,
       "status": "in_progress"
     },
     "D/D018.txt": {
@@ -4015,10 +4017,12 @@
       "note": "최신 shard에서 앞선 짧은 규칙 충돌은 이미 고유 문맥 규칙으로 정리되어 71/71 정상 적용된다. 남은 전각 공백 27개는 인명·의성어·난자이며 독립 판본 근거가 없어 보류했다."
     },
     "N/N046.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 19,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "독립 전사·영인, 본문 내부의 반복 문맥 및 고전 직접 인용으로 13개 공백을 8개 고유 규칙으로 확정했다. 적용 후 남은 전각 공백 19개는 인명·난자·판본 고유 문구로 직접 판독 전 보류한다."
+      "note": "HEAD 오버레이 후 잔여 19후보를 전수 감사했다. Wikisource 初集·續錄·輯錄, 공개 영인, 직접 인용 평행문으로 19좌표를 모두 복원했다. 이와 별도로 남는 전각공백 6곳(서명 2, 약물 열거 구두 3, 인명 구두 1)은 조판 공백으로 보존한다. 적용 후 HT·KT·□·BMP PUA·[c] 레거시 결자는 0이며, 미해결 결자가 없으므로 정본 승격 가능하다.",
+      "remaining_count": 0,
+      "status": "complete"
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
