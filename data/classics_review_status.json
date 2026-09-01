@@ -342,9 +342,10 @@
     },
     "C/C015.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 82,
+      "unresolved_candidates": 38,
       "punctuation_status": "source_present",
-      "note": "독립 본초 배오표로 기존 규칙과 겹치지 않는 萆薢 1개 occurrence를 확정했다. 黃鱨魚는 기존 규칙이 이미 같은 좌표를 처리하므로 중복 제안에서 제외했다. 전각 공백은 105→104, 기존 조판22를 유지하여 실결락 잔여는 82이다."
+      "note": "기존 57규칙 적용 후 본문 전각공백 104곳(메타데이터 4곳 제외). 기존 분류상 조판 22, 실결락 후보 82. jicheng.tw 本草徵要 전문과 고유 양방향 문맥이 직접 일치한 44개 좌표를 복원 제안했으며 나머지 후보 38건은 보류. 전체 HT=0, KT=0, □=0, BMP PUA=0, legacy=0. 완전 교감 전이므로 promote=false. 모든 제안의 근거 URL: https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%B5%E8%A6%81/index.html",
+      "remaining_count": 38
     },
     "C/C016.txt": {
       "collation_status": "in_progress",
@@ -374,9 +375,10 @@
     },
     "B/B105.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 84,
+      "unresolved_candidates": 45,
       "punctuation_status": "source_present",
-      "note": "최신 잔여 95에서 說文 자형 설명 4좌표와 北囂山·暍 용례 7좌표, 합계 11좌표를 확정했다. 기존 尫羸 등 규칙 및 조판 49곳과 중첩하지 않는다. 汲古閣刊宋本의 오자는 판본 영인 없이 확정하지 않아 보류한다."
+      "note": "HEAD 후 잔여 84좌표 전수 감사. 黃耆15·芎藭5·䗪蟲4·暍9·HT의 固1·戾1·慓1·痓3, 합계 39좌표를 직접 원문·자전·반복 문맥으로 복원한다. 나머지 45좌표는 汲古閣刊宋本의 희귀 이체자·일본 한문 주석 및 판본 오자 논의로, 원영인 없이 유일 판독이 어려워 보류한다. 적용 후 HT·KT·□·BMP PUA·[c]는 0이나 비조판 전각 공백 후보 45가 남아 승격하지 않는다.",
+      "remaining_count": 45
     },
     "B/B106.txt": {
       "collation_status": "in_progress",
@@ -981,7 +983,7 @@
     "B/B040.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "공백·깨진 토큰 없음. 叢書集成新編 영인본 전수 대조로 規繩之入→規繩之人 1건 교정, 원자료 표점 충분"
     },
     "B/B032.txt": {
@@ -4192,7 +4194,7 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 84,
       "punctuation_status": "source_present",
-      "note": "마지막 HT를 자매본 《醫衡》 영인으로 재대조해 應으로 확정했다. 앞선 胠 교정 반영 후 명시 표지는 0이다. 전각 공백 제외, 기존 status 85에서 1을 차감했다.",
+      "note": "기존 O060 교정 159개를 expected_count대로 모두 적용했다. 적용 후 HT·KT·□·[c]·PUA는 0이며 전각 공백은 92개다. 현행 감사 분류의 조판 공백 8개를 제외한 84개 후보는 좌표별 신뢰 원문 대조가 완료되지 않아 전부 보류한다. 신규 확정 규칙이 없어 promote=false이다.",
       "remaining_count": 84,
       "status": "in_progress"
     },

@@ -1689,7 +1689,7 @@
       "markdown_files": 1,
       "translation_units": 7,
       "corrections_applied": 1,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {
@@ -1817,9 +1817,27 @@
       "output_directory": "金匱玉函要略述義(B105)",
       "markdown_files": 4,
       "translation_units": 25,
-      "corrections_applied": 87,
+      "corrections_applied": 101,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '\\u3000蟲' (6/2)",
+        "교정 불일치: '大黃\\u3000蟲' (3/2)",
+        "교정 불일치: '黃\\u3000' (21/15)",
+        "교정 좌표 중첩: 20127:20128",
+        "교정 좌표 중첩: 4472:4473",
+        "교정 좌표 중첩: 4791:4792",
+        "교정 좌표 중첩: 4845:4846",
+        "교정 좌표 중첩: 56734:56735",
+        "교정 좌표 중첩: 58824:58825",
+        "교정 좌표 중첩: 58934:58935",
+        "교정 좌표 중첩: 8559:8560",
+        "교정 좌표 중첩: 909:910",
+        "교정 좌표 중첩: 9358:9359",
+        "교정 좌표 중첩: 9406:9407",
+        "교정 좌표 중첩: 9499:9500",
+        "교정 좌표 중첩: 9752:9753",
+        "교정 좌표 중첩: 9776:9777"
+      ]
     },
     {
       "source_path": "B/B106.txt",
@@ -2159,7 +2177,7 @@
       "output_directory": "本草徵要(C015)",
       "markdown_files": 1,
       "translation_units": 548,
-      "corrections_applied": 57,
+      "corrections_applied": 101,
       "punctuated": false,
       "warnings": []
     },

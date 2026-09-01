@@ -692,5 +692,103 @@
     "reason": "《山海經·北山經》의 北囂山 새 이름은 𪄀𪃑이고 ‘食之已暍’이라 하며, 뒤의 《莊子·則陽》 정문도 ‘暍者反冬乎冷風’으로 동일 글자를 반복한다.",
     "evidence_url": "https://www.with.org/classics_chuangtzu_ch25.html",
     "evidence_note": "《莊子》 독립 전사가 ‘夫凍者假衣於春，暍者反冬乎冷風’을 직접 보존한다. 《山海經》의 새 이름은 般鳥·冒鳥 합자인 𪄀𪃑이며, 이어지는 方氏·史記·淮南子 예문은 모두 傷暑의 暍을 열거한다. 전체 문맥은 교감 대상 권상에서 1회 발생한다."
+  },
+  {
+    "before": "芎　",
+    "after": "芎藭",
+    "expected_count": 5,
+    "reason": "川芎의 고명 芎藭으로 처방 가감 문맥에서 반복된다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E8%8A%8E"
+  },
+  {
+    "before": "太陽中　",
+    "after": "太陽中暍",
+    "expected_count": 3,
+    "reason": "《金匱要略》 痓濕暍篇의 직접 원문 `太陽中暍`.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "太陽中熱者。　是也",
+    "after": "太陽中熱者。暍是也",
+    "expected_count": 1,
+    "reason": "《金匱要略》의 정의 `太陽中熱者，暍是也`.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "中　虛實",
+    "after": "中暍虛實",
+    "expected_count": 1,
+    "reason": "바로 앞의 두 太陽中暍 조문을 虛實로 비교하는 문장이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "痙濕　。合為一篇",
+    "after": "痙濕暍。合為一篇",
+    "expected_count": 1,
+    "reason": "편명 痙濕暍病脈證治의 직접 지칭이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "與濕　為篇",
+    "after": "與濕暍為篇",
+    "expected_count": 1,
+    "reason": "痙濕暍篇을 가리키는 반복 문맥이다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "濕也。　也。其脈因證治",
+    "after": "濕也。暍也。其脈因證治",
+    "expected_count": 1,
+    "reason": "痙·濕·暍 세 병의 열거다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "而　證之理。無出於此二端",
+    "after": "而暍證之理。無出於此二端",
+    "expected_count": 1,
+    "reason": "직전의 太陽中暍 두 조문을 총괄한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "汲古閣刊宋本。作HT　。訛",
+    "after": "汲古閣刊宋本。作固。訛",
+    "expected_count": 1,
+    "reason": "앞에서 《說文》의 `痼，久病也`를 제시하고 汲古閣本의 固를 오자로 지적한다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E7%97%BC"
+  },
+  {
+    "before": "令弗相　也",
+    "after": "令弗相戾也",
+    "expected_count": 1,
+    "reason": "두 장부를 조화시켜 서로 어그러지지 않게 한다는 고정어 `相戾`.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E7%8E%89%E5%87%BD%E8%A6%81%E7%95%A5%E8%BF%B0%E7%BE%A9/index.html"
+  },
+  {
+    "before": "寒性　悍",
+    "after": "寒性慓悍",
+    "expected_count": 1,
+    "reason": "빠르고 사나운 성질을 뜻하는 고전 정형어 慓悍.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E6%85%93"
+  },
+  {
+    "before": "夫風病。下之則　。",
+    "after": "夫風病。下之則痓。",
+    "expected_count": 1,
+    "reason": "《金匱》 汲古閣 계통의 痓濕暍篇 문구이며 문헌 자체가 痓 자형을 논한다.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "〔徐〕　家之脈。總不離於沉緊",
+    "after": "〔徐〕痓家之脈。總不離於沉緊",
+    "expected_count": 1,
+    "reason": "앞 조문의 痓病을 이어 받는 `痓家之脈`.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+  },
+  {
+    "before": "夫　脈。按之緊如弦",
+    "after": "夫痓脈。按之緊如弦",
+    "expected_count": 1,
+    "reason": "《金匱》 痓病 맥문과 해당 문헌의 판본 교감 문맥.",
+    "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
   }
 ]
