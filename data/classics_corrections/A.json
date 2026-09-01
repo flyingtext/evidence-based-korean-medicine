@@ -16204,6 +16204,27 @@
       "after": "其繼往開來之功甚偉吾䣊好事者為之刻梓以公於天下後世",
       "expected_count": 1,
       "evidence": "독립 《讀素問鈔》 전사가 서문 해당 문장을 `其繼往開來之功甚偉吾䣊好事者`로 보존한다. https://www.donglishuzhai.net/chapter/4796.html"
+    },
+    {
+      "before": "諸氣者皆屬於肺（續肺藏魄□□□□□□□□）□則血歸於肝",
+      "after": "諸氣者皆屬於肺（續肺藏魄而主氣故也）故人臥則血歸於肝",
+      "expected_count": 1,
+      "reason": "《素問·五藏生成篇》의 연속 경문은 `諸氣者皆屬於肺…故人臥血歸於肝`이며 王冰 주석은 肺가 魄을 간직하고 氣를 주관함을 풀이한다. 결락 뒤의 `則`을 살려 `故人臥則血歸於肝`으로 복원했다.",
+      "evidence_url": "https://pdf.fengshui86.com/wzpdf/7077836.pdf"
+    },
+    {
+      "before": "人靜則血歸□□□於肝藏以肝主血□□□□□而能視",
+      "after": "人靜則血歸於肝藏何者肝主血海故也）肝受血而能視",
+      "expected_count": 1,
+      "reason": "王冰의 해당 주석 전문 `人靜則血歸於肝藏。何者？肝主血海故也`와 이어지는 경문 `肝受血而能視`가 독립 《黃帝內經素問補注釋文》 전사에서 직접 확인된다.",
+      "evidence_url": "https://www.shidianguji.com/zh/mid-page/7400876393535537161"
+    },
+    {
+      "before": "足受血而能步掌受血而□□□指受血而能攝",
+      "after": "足受血而能步掌受血而能握指受血而能攝",
+      "expected_count": 1,
+      "reason": "《素問·五藏生成篇》의 고정 경문 `足受血而能步，掌受血而能握，指受血而能攝`으로 여러 독립 전사·색인이 일치한다.",
+      "evidence_url": "https://content.ucpress.edu/ancillaries/10970/concordance_9780520253582.pdf"
     }
   ],
   "A/A304.txt": [

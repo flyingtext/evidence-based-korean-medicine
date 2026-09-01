@@ -579,10 +579,10 @@
     },
     "A/A013.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 28,
+      "unresolved_candidates": 8,
       "punctuation_status": "alignment_approved",
-      "note": "잔여 HT 2곳은 哉·䣊로 모두 독립 확정했다. □ 28곳은 권하4 주석의 연속 행 유실로 남겨 두었다. 전각 공백 제외, 기존 status 30에서 2를 차감했다.",
-      "remaining_count": 28,
+      "note": "HEAD 오버레이 뒤 남은 □ 28개를 전수 감사했다. 五藏生成篇 본문·王冰 주석의 연속 결락 20개는 독립 《黃帝內經素問補注釋文》과 원문 색인으로 복원한다. 권말 論治抄의 `熱藥寒服而無格拒之患必破積潰堅而服□□□□□□□□者宜也` 8개는 jicheng·Wikisource도 동일하게 결락되어 있고, 《至真要大論》 경문만으로 汪機의 초록 문구를 유일하게 확정할 수 없어 보류한다. 적용 후 HT·KT·BMP PUA·[c] 레거시는 0이고 □ 8개만 남으므로 아직 정본 승격하지 않는다.",
+      "remaining_count": 8,
       "status": "in_progress"
     },
     "A/A007.txt": {
@@ -1023,7 +1023,7 @@
     "Q/Q000.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "針灸大成·영인본·원전학 논문 대조로 명백한 오기 3건 교정, 판본 이문·이체자는 보존하고 원자료 표점 충분"
     },
     "Q/Q005.txt": {
@@ -3166,7 +3166,8 @@
       "collation_status": "in_progress",
       "unresolved_candidates": 28,
       "punctuation_status": "source_present",
-      "note": "최신 shard에서 手足濈然·心中懊憹의 짧은 규칙 충돌은 이미 해소되어 61/61 정상 적용된다. 전각 공백 356개 중 처방 조판 328개와 실결락 후보 28개로 기존 분류를 유지했다."
+      "note": "기존 규칙을 순차 적용해 HT·KT·□·[c]·PUA가 모두 0임을 확인했다. 61개 중 60개만 실제 적용되고 1개는 앞 규칙과 중첩되어 stale 상태다. 남은 356개 전각 공백은 현행 상태 기록상 처방 조판 328개와 실결락 후보 28개로 분류된다. 28개는 좌표별 신뢰 원문 대조가 완료되지 않아 전부 보류하며 promote=false이다.",
+      "remaining_count": 28
     },
     "A/A014.txt": {
       "collation_status": "in_progress",
@@ -4012,9 +4013,10 @@
     },
     "N/N045.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 27,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "최신 shard에서 앞선 짧은 규칙 충돌은 이미 고유 문맥 규칙으로 정리되어 71/71 정상 적용된다. 남은 전각 공백 27개는 인명·의성어·난자이며 독립 판본 근거가 없어 보류했다."
+      "note": "기존 오버레이 71건 적용 후 전각공백 27곳. 문단 들여쓰기 10곳은 조판 공백으로 유지. 결자 후보 17곳 중 16곳 확정, 1곳(爾胸背肩間。　岩如亂石插天)은 직접 근거 부족으로 보류. 제안 적용 후 HT=0, KT=0, □=0, PUA=0, legacy=0, 미확정 결자=1. 완전 교감 전이므로 promote=false.",
+      "remaining_count": 1
     },
     "N/N046.txt": {
       "collation_status": "complete",
