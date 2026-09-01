@@ -1,0 +1,83 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/O/O020.txt",
+    "sha256": "efc15f8d881aa5c397784d20b1f5e60465e6100c4e83b337409adf1ca2d3d7ac"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "06c58990c79f6dfc75277041a119e3b6e016b2a09bf7e6e8207490703f2f96f1",
+    "applied_count": 27
+  },
+  "output": "docs/원문/_가져오기/西池集(O020)/표점본.md",
+  "chunks": {
+    "total": 4,
+    "resumable_completed": 4,
+    "min_chars": 309,
+    "max_chars": 854,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 341,
+        "output_characters": 340,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 54,
+        "punctuation_density": 0.19636364,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 600,
+        "output_characters": 666,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 90,
+        "punctuation_density": 0.19438445,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 854,
+        "output_characters": 854,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 123,
+        "punctuation_density": 0.18608169,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 309,
+        "output_characters": 349,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 45,
+        "punctuation_density": 0.18518519,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 1642,
+    "output_nonpunctuation_characters": 1642,
+    "input_non_punctuation_characters": 1646,
+    "output_non_punctuation_characters": 1646
+  },
+  "punctuation": {
+    "ascii_count": 312,
+    "density_per_nonpunctuation_character": 0.19001218,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
