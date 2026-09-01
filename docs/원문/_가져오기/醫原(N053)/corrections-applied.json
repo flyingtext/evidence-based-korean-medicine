@@ -37,5 +37,165 @@
     "expected_count": 1,
     "evidence": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣.",
     "reason": "胃者衛也의 자의 풀이와 이어지는 정형 구문 布護穀氣."
+  },
+  {
+    "before": "際之翔，出於豐屋之上，奧　之間，畢生莫睹。二者雖異",
+    "after": "際之翔，出於豐屋之上，奧窔之間，畢生莫睹。二者雖異",
+    "expected_count": 1,
+    "reason": "실내 깊숙한 곳을 뜻하는 `奧窔`이며 동일 저작 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "실내 깊숙한 곳을 뜻하는 `奧窔`이며 동일 저작 공개 전문과 일치한다."
+  },
+  {
+    "before": "雖一鄉一邑之設施，而洞見　結，因地制宜，亦如隨證立",
+    "after": "雖一鄉一邑之設施，而洞見癥結，因地制宜，亦如隨證立",
+    "expected_count": 1,
+    "reason": "문제의 핵심을 뜻하는 `癥結`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "문제의 핵심을 뜻하는 `癥結`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "通。所以人病肺痿，足即痿　不能行；外感阻遏肺氣，足",
+    "after": "通。所以人病肺痿，足即痿躄不能行；外感阻遏肺氣，足",
+    "expected_count": 1,
+    "reason": "병증명 `痿躄`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "병증명 `痿躄`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "且陰氣上升於天，得天之布　，而陰氣乃彌綸於無際。冬",
+    "after": "且陰氣上升於天，得天之布濩，而陰氣乃彌綸於無際。冬",
+    "expected_count": 1,
+    "reason": "널리 퍼짐을 뜻하는 `布濩`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "널리 퍼짐을 뜻하는 `布濩`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "以統束之，而後氣中之水，　煦育，上蒸下布。氣中有水",
+    "after": "以統束之，而後氣中之水，絪縕煦育，上蒸下布。氣中有水",
+    "expected_count": 1,
+    "reason": "기운이 감돌아 화육하는 `絪縕煦育`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "기운이 감돌아 화육하는 `絪縕煦育`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "陰、主水。腎中真陽之氣，　煦育，上通各臟腑之陽，而",
+    "after": "陰、主水。腎中真陽之氣，絪縕煦育，上通各臟腑之陽，而",
+    "expected_count": 1,
+    "reason": "같은 저작에서 반복되는 `絪縕煦育`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "같은 저작에서 반복되는 `絪縕煦育`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "（焦，熱也。滿腔中熱氣布　，能通調水道也。按三焦從",
+    "after": "（焦，熱也。滿腔中熱氣布濩，能通調水道也。按三焦從",
+    "expected_count": 1,
+    "reason": "열기가 널리 퍼진다는 `布濩`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "열기가 널리 퍼진다는 `布濩`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "盆，交肩，貫頸頰，至目銳　（目外角），卻入耳中；其",
+    "after": "盆，交肩，貫頸頰，至目銳眥（目外角），卻入耳中；其",
+    "expected_count": 1,
+    "reason": "눈 바깥 모서리 `目銳眥`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "눈 바깥 모서리 `目銳眥`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "。足太陽膀胱脈，外起目內　，上額交巔，分一小支，從",
+    "after": "。足太陽膀胱脈，外起目內眥，上額交巔，分一小支，從",
+    "expected_count": 1,
+    "reason": "경맥 기시점 `目內眥`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "경맥 기시점 `目內眥`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "者，從腰下外行，貫臀，入　中（膝後曲處委中穴）；一",
+    "after": "者，從腰下外行，貫臀，入膕中（膝後曲處委中穴）；一",
+    "expected_count": 1,
+    "reason": "오금 부위 `膕中`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "오금 부위 `膕中`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "陽。足少陽膽脈，外起目銳　，上頭角，下耳後，循頸側",
+    "after": "陽。足少陽膽脈，外起目銳眥，上頭角，下耳後，循頸側",
+    "expected_count": 1,
+    "reason": "담경 기시점 `目銳眥`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "담경 기시점 `目銳眥`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "寸三分動脈陷中），還行於　，合三焦經，下加頰車（耳",
+    "after": "寸三分動脈陷中），還行於䪼，合三焦經，下加頰車（耳",
+    "expected_count": 1,
+    "reason": "관골 부위 희자 `䪼`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "관골 부위 희자 `䪼`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "，走內踝，出脾脈之後，入　中，循股陰，內行，繞陰器",
+    "after": "，走內踝，出脾脈之後，入膕中，循股陰，內行，繞陰器",
+    "expected_count": 1,
+    "reason": "간경 순행의 `入膕中`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "간경 순행의 `入膕中`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "少陰經），側行而上於目內　之睛明穴（屬足太陽經）；",
+    "after": "少陰經），側行而上於目內眥之睛明穴（屬足太陽經）；",
+    "expected_count": 1,
+    "reason": "경혈 위치 `目內眥之睛明穴`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "경혈 위치 `目內眥之睛明穴`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "陽經），側行而亦上於目內　之睛明穴。陰維、陽維、陰",
+    "after": "陽經），側行而亦上於目內眥之睛明穴。陰維、陽維、陰",
+    "expected_count": 1,
+    "reason": "반복되는 경혈 위치 `目內眥`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "반복되는 경혈 위치 `目內眥`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "急。若純熱無濕，則又為中　之暑燥矣。若夫火，藏於金",
+    "after": "急。若純熱無濕，則又為中暍之暑燥矣。若夫火，藏於金",
+    "expected_count": 1,
+    "reason": "서열 손상 병명 `中暍`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "서열 손상 병명 `中暍`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "強與之食，則邪氣愈遏，是　盜糧也。總之，食與不食，",
+    "after": "強與之食，則邪氣愈遏，是齎盜糧也。總之，食與不食，",
+    "expected_count": 1,
+    "reason": "도둑에게 양식을 대준다는 관용구 `齎盜糧`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "도둑에게 양식을 대준다는 관용구 `齎盜糧`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "黑如炱（煙煤）者死，赤如　血者死，白如枯骨者死。此",
+    "after": "黑如炱（煙煤）者死，赤如衃血者死，白如枯骨者死。此",
+    "expected_count": 1,
+    "reason": "어혈 색상 `衃血`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "어혈 색상 `衃血`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "淚而干澀，濕甚則目珠黃而　爛，或眼胞腫如臥蠶；陽明",
+    "after": "淚而干澀，濕甚則目珠黃而眥爛，或眼胞腫如臥蠶；陽明",
+    "expected_count": 1,
+    "reason": "눈초리가 짓무르는 `眥爛`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "눈초리가 짓무르는 `眥爛`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "春必病溫，夏傷於暑，秋成　瘧之類，皆逾時而發。或曰",
+    "after": "春必病溫，夏傷於暑，秋成痎瘧之類，皆逾時而發。或曰",
+    "expected_count": 1,
+    "reason": "학질 병명 `痎瘧`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%8E%9F/index.html",
+    "evidence": "학질 병명 `痎瘧`이며 공개 전문과 일치한다."
   }
 ]

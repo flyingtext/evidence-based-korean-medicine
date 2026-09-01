@@ -12064,6 +12064,203 @@
       "after": "同附子、黃耆。治裡氣虛寒",
       "expected_count": 1,
       "reason": "附子와 배합해 裡氣虛寒을 다스리는 補氣藥 黃耆."
+    },
+    {
+      "before": "黃　",
+      "after": "黃耆",
+      "expected_count": 12,
+      "reason": "약명 黃耆, jicheng 스캔 기반 동일 저작 전문 대조",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%93%E8%A7%A3/index.html",
+      "evidence": "약명 黃耆, jicheng 스캔 기반 동일 저작 전문 대조"
+    },
+    {
+      "before": "腸　",
+      "after": "腸澼",
+      "expected_count": 4,
+      "reason": "병명 腸澼, 동일 저작 직접 대조",
+      "evidence": "병명 腸澼, 동일 저작 직접 대조"
+    },
+    {
+      "before": "瘰　",
+      "after": "瘰癧",
+      "expected_count": 10,
+      "reason": "병명 瘰癧, 동일 저작 직접 대조",
+      "evidence": "병명 瘰癧, 동일 저작 직접 대조"
+    },
+    {
+      "before": "痿　",
+      "after": "痿躄",
+      "expected_count": 2,
+      "reason": "병명 痿躄, 동일 저작 직접 대조",
+      "evidence": "병명 痿躄, 동일 저작 직접 대조"
+    },
+    {
+      "before": "嘔　",
+      "after": "嘔啘",
+      "expected_count": 2,
+      "reason": "병증 嘔啘, 동일 저작 직접 대조",
+      "evidence": "병증 嘔啘, 동일 저작 직접 대조"
+    },
+    {
+      "before": "酒　鼻",
+      "after": "酒疱皶鼻",
+      "expected_count": 3,
+      "reason": "병명 酒疱皶鼻, 동일 저작 직접 대조",
+      "evidence": "병명 酒疱皶鼻, 동일 저작 직접 대조"
+    },
+    {
+      "before": "凡　然刀圭漫試",
+      "after": "凡訑訑然刀圭漫試",
+      "expected_count": 1,
+      "reason": "jicheng 희귀어 訑訑 직접 대조",
+      "evidence": "jicheng 희귀어 訑訑 직접 대조"
+    },
+    {
+      "before": "顧物藥則其權　也",
+      "after": "顧物藥則其權輿也",
+      "expected_count": 1,
+      "reason": "고정어 權輿, jicheng 대조",
+      "evidence": "고정어 權輿, jicheng 대조"
+    },
+    {
+      "before": "金瘡熱則　。氣平則清。所以治　",
+      "after": "金瘡熱則尰。氣平則清。所以治尰",
+      "expected_count": 1,
+      "reason": "병증 尰 반복, jicheng 직접 대조",
+      "evidence": "병증 尰 반복, jicheng 직접 대조"
+    },
+    {
+      "before": "飲酒人腳　",
+      "after": "飲酒人腳耎",
+      "expected_count": 1,
+      "reason": "jicheng 본문 직접 대조",
+      "evidence": "jicheng 본문 직접 대조"
+    },
+    {
+      "before": "萆　、　、杜仲",
+      "after": "萆薢、豨薟、杜仲",
+      "expected_count": 1,
+      "reason": "약명 萆薢·豨薟, jicheng 대조",
+      "evidence": "약명 萆薢·豨薟, jicheng 대조"
+    },
+    {
+      "before": "治發　咽痛",
+      "after": "治發癍咽痛",
+      "expected_count": 1,
+      "reason": "병명 發癍, jicheng 대조",
+      "evidence": "병명 發癍, jicheng 대조"
+    },
+    {
+      "before": "熱氣目痛　傷淚出",
+      "after": "熱氣目痛眥傷淚出",
+      "expected_count": 1,
+      "reason": "해부명 眥, jicheng 대조",
+      "evidence": "해부명 眥, jicheng 대조"
+    },
+    {
+      "before": "主　瘧",
+      "after": "主痎瘧",
+      "expected_count": 1,
+      "reason": "병명 痎瘧, jicheng 대조",
+      "evidence": "병명 痎瘧, jicheng 대조"
+    },
+    {
+      "before": "主氣　。下食",
+      "after": "主氣殢。下食",
+      "expected_count": 1,
+      "reason": "병증 氣殢, jicheng 대조",
+      "evidence": "병증 氣殢, jicheng 대조"
+    },
+    {
+      "before": "敷治　肉",
+      "after": "敷治胬肉",
+      "expected_count": 1,
+      "reason": "병명 胬肉, jicheng 대조",
+      "evidence": "병명 胬肉, jicheng 대조"
+    },
+    {
+      "before": "主卒　不止",
+      "after": "主卒啘不止",
+      "expected_count": 1,
+      "reason": "병증 啘, jicheng 대조",
+      "evidence": "병증 啘, jicheng 대조"
+    },
+    {
+      "before": "主身熱泄　",
+      "after": "主身熱泄澼",
+      "expected_count": 1,
+      "reason": "병증 泄澼, jicheng 대조",
+      "evidence": "병증 泄澼, jicheng 대조"
+    },
+    {
+      "before": "小兒熱氣驚癇。（　）",
+      "after": "小兒熱氣驚癇。（煅）",
+      "expected_count": 1,
+      "reason": "포제 표기 煅, jicheng 대조",
+      "evidence": "포제 표기 煅, jicheng 대조"
+    },
+    {
+      "before": "再　研。以米醋",
+      "after": "再煅研。以米醋",
+      "expected_count": 1,
+      "reason": "포제어 煅, jicheng 대조",
+      "evidence": "포제어 煅, jicheng 대조"
+    },
+    {
+      "before": "面　皮黑",
+      "after": "面䵟皮黑",
+      "expected_count": 2,
+      "reason": "jicheng 외자 䵟의 반복 문맥 직접 대조",
+      "evidence": "jicheng 외자 䵟의 반복 문맥 직접 대조"
+    },
+    {
+      "before": "自巔頂縋巨　而下",
+      "after": "自巔頂縋巨絙而下",
+      "expected_count": 1,
+      "reason": "희귀어 巨絙, jicheng 대조",
+      "evidence": "희귀어 巨絙, jicheng 대조"
+    },
+    {
+      "before": "粳同　。稻黏者為糯",
+      "after": "粳同秔。稻黏者為糯",
+      "expected_count": 1,
+      "reason": "穀名 이체자 秔, jicheng 대조",
+      "evidence": "穀名 이체자 秔, jicheng 대조"
+    },
+    {
+      "before": "淮間於糯之外。統名為　。不復稱粳。於此種早　",
+      "after": "淮間於糯之外。統名為秈。不復稱粳。於此種早秈",
+      "expected_count": 1,
+      "reason": "穀名 秈 반복, jicheng 대조",
+      "evidence": "穀名 秈 반복, jicheng 대조"
+    },
+    {
+      "before": "兩足廢曰　",
+      "after": "兩足廢曰躄",
+      "expected_count": 1,
+      "reason": "躄의 자훈, jicheng 대조",
+      "evidence": "躄의 자훈, jicheng 대조"
+    },
+    {
+      "before": "　（音匿。食肛小蟲。）",
+      "after": "䘌（音匿。食肛小蟲。）",
+      "expected_count": 1,
+      "reason": "음과 정의로 외자 䘌 확정, jicheng 대조",
+      "evidence": "음과 정의로 외자 䘌 확정, jicheng 대조"
+    },
+    {
+      "before": "　（音炮租。酒赤鼻也。",
+      "after": "疱皶（音炮租。酒赤鼻也。",
+      "expected_count": 1,
+      "reason": "酒赤鼻 병명 疱皶, jicheng 대조",
+      "evidence": "酒赤鼻 병명 疱皶, jicheng 대조"
+    },
+    {
+      "before": "　（音抉。）沃",
+      "after": "啘（音抉。）沃",
+      "expected_count": 1,
+      "reason": "음주가 표시된 외자 啘, jicheng 대조",
+      "evidence": "음주가 표시된 외자 啘, jicheng 대조"
     }
   ],
   "C/C021.txt": [

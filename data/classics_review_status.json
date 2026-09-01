@@ -1284,7 +1284,7 @@
     "F/F018.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "jicheng 최신 표점 전문과 Wikisource 독립 전사를 대조해 전각 공백 결자·HT/KT 깨진 토큰·공백 없는 이명가 행 접합 및 오기를 복원. 원문 전각 공백 118자리 중 결자·비정상 27자리 교정, 처방 구성 구분 91자리 보존(재조판 공백 1자리 포함). [u] 18쌍은 <ins>로 정상 변환, placeholder 0, 원자료 표점 충분"
     },
     "J/J010.txt": {
@@ -3055,9 +3055,10 @@
     },
     "C/C020.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 128,
+      "unresolved_candidates": 69,
       "punctuation_status": "source_present",
-      "note": "marker 잔여 0. 전각 공백 276개는 반복 표제 ‘制　方’가 대부분이며, 그와 분리해 黃耆 결락 문맥만 제안. 특수 표식 외 기존 비조판 전각 결락 후보를 포함해 잔여 128자리로 유지한다."
+      "note": "기존 95규칙 적용 뒤 보고된 잔여 후보 128좌표 가운데 jicheng.tw 스캔 기반 전문과 직접 일치한 59좌표를 복원 제안했다. 반복 표제 `制　方`은 조판 요소로 변경하지 않았다. 나머지 69좌표는 추가 영인 판독이 필요해 보류한다. promote=false.",
+      "remaining_count": 69
     },
     "C/C021.txt": {
       "collation_status": "in_progress",
@@ -3993,9 +3994,10 @@
     },
     "N/N007.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 150,
+      "unresolved_candidates": 131,
       "punctuation_status": "source_present",
-      "note": "최신 잔여152에서 유일한 HT·KT 두 좌표를 원 출전과 독립 평행문으로 확정했다. 두 occurrence는 각 1회이며 기존 규칙과 중첩하지 않는다. 나머지 전각공백과 조판1은 유지한다."
+      "note": "기존 283개 규칙을 가상 적용한 뒤 남은 153자리 가운데 동일 저작 평행본과 내부 반복 문맥으로 확정되는 18개 규칙(22 occurrence)만 제안했다. 나머지 전각 공백과 HT 표지는 판면 직접 대조가 더 필요해 보류한다.",
+      "remaining_count": 131
     },
     "N/N009.txt": {
       "collation_status": "in_progress",
@@ -4041,9 +4043,10 @@
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 139,
+      "unresolved_candidates": 133,
       "punctuation_status": "source_present",
-      "note": "전각공백136·HT17을 실제 문맥에서 재검토했다. HT 대부분은 心字 소전 도형과 조자 해설이고, ‘甘涼猶不中HT’ 등도 공개 전사가 같은 결락을 공유해 원판 없이 확정하지 않았다. 기존 조판·도형 분류 유지."
+      "note": "기존 6규칙 적용 후 남은 HT 17개와 전각 공백 136개 중 동일 저작 공개 전문의 고유 문맥으로 확정되는 고립 후보 20곳을 제안했다. 나머지 133곳은 인접 결자군과 조판 공백이 혼재하므로 보류한다. promote=false.",
+      "remaining_count": 133
     },
     "N/N059.txt": {
       "collation_status": "in_progress",

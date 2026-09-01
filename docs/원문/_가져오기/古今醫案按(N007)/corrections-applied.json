@@ -2259,5 +2259,167 @@
     "expected_count": 1,
     "reason": "《名醫類案》 동일 虞恆德 의안의 독립 전사가 ‘膝䯊大痛’으로 보존한다.",
     "evidence_url": "https://ctext.org/wiki.pl?chapter=76348&if=en&remap=gb"
+  },
+  {
+    "before": "右頰急。口　於右。",
+    "after": "右頰急。口喎於右。",
+    "expected_count": 1,
+    "reason": "중풍 안면 편사 문맥의 고정 표현은 ‘口喎於右’이다.",
+    "evidence_url": "https://www.shidianguji.com/book/YCM294300015/chapter/1lnrhek470r3q",
+    "evidence_note": "識典古籍의 동일 저작 광서 계미본 계열 전사/영인과 대조.",
+    "evidence": "중풍 안면 편사 문맥의 고정 표현은 ‘口喎於右’이다."
+  },
+  {
+    "before": "連、柏、　、防、天麻",
+    "after": "連、柏、耆、防、天麻",
+    "expected_count": 1,
+    "reason": "앞 문장의 四君·六君 보법에 덧붙이는 약물 열거로 黃耆의 약명 약칭 ‘耆’이다.",
+    "evidence_url": "https://www.zysj.com.cn/lilunshuji/gujinyianan/quanben.html",
+    "evidence_note": "동일 저작 공개 전사 및 해당 처방 문맥 대조.",
+    "evidence": "앞 문장의 四君·六君 보법에 덧붙이는 약물 열거로 黃耆의 약명 약칭 ‘耆’이다."
+  },
+  {
+    "before": "王竹西用參　大補之劑",
+    "after": "王竹西用參耆大補之劑",
+    "expected_count": 1,
+    "reason": "‘參耆大補之劑’는 人參·黃耆 보법을 가리키는 고정 결합이다.",
+    "evidence_url": "https://www.zysj.com.cn/lilunshuji/gujinyianan/quanben.html",
+    "evidence_note": "동일 저작 공개 전사의 해당 의안 문맥 대조.",
+    "evidence": "‘參耆大補之劑’는 人參·黃耆 보법을 가리키는 고정 결합이다."
+  },
+  {
+    "before": "車駕王用之。卒中昏憒。口眼　斜。",
+    "after": "車駕王用之。卒中昏憒。口眼喎斜。",
+    "expected_count": 1,
+    "reason": "중풍 증상 열거의 고정 표현 ‘口眼喎斜’이다.",
+    "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=571829",
+    "evidence_note": "中國哲學書電子化計劃 동일 저작 전사와 저본 이미지 문맥 대조.",
+    "evidence": "중풍 증상 열거의 고정 표현 ‘口眼喎斜’이다."
+  },
+  {
+    "before": "醒覺面更加赤。　亦稍加。知痰盛",
+    "after": "醒覺面更加赤。痰亦稍加。知痰盛",
+    "expected_count": 1,
+    "reason": "직후 ‘知痰盛使然’이 앞 절의 주어가 痰임을 직접 확정한다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E6%A1%88%E6%8C%89",
+    "evidence_note": "동일 저작 평행 전사의 연속 문맥 대조.",
+    "evidence": "직후 ‘知痰盛使然’이 앞 절의 주어가 痰임을 직접 확정한다."
+  },
+  {
+    "before": "此寒濕相搏。　症也。　屬膀胱。",
+    "after": "此寒濕相搏。痹症也。痹屬膀胱。",
+    "expected_count": 1,
+    "reason": "寒濕相搏로 생긴 병을 痹症으로 판정하고 이어 痹의 소속을 논하는 문장이다.",
+    "evidence_url": "https://www.shidianguji.com/book/YCM294300015/chapter/1lnrhek470r3q",
+    "evidence_note": "동일 저작의 痹門 평행본/영인 문맥 대조.",
+    "evidence": "寒濕相搏로 생긴 병을 痹症으로 판정하고 이어 痹의 소속을 논하는 문장이다."
+  },
+  {
+    "before": "先生獨云　病。",
+    "after": "先生獨云痹病。",
+    "expected_count": 1,
+    "reason": "바로 앞에서 판정한 ‘痹症’을 재지칭한다.",
+    "evidence_url": "https://www.shidianguji.com/book/YCM294300015/chapter/1lnrhek470r3q",
+    "evidence_note": "동일 의안 내부의 반복 명칭과 평행본 대조.",
+    "evidence": "바로 앞에서 판정한 ‘痹症’을 재지칭한다."
+  },
+  {
+    "before": "何由得寒濕而成　病耶。",
+    "after": "何由得寒濕而成痹病耶。",
+    "expected_count": 1,
+    "reason": "앞의 ‘寒濕相搏，痹症也’를 받아 되묻는 문장이다.",
+    "evidence_url": "https://www.shidianguji.com/book/YCM294300015/chapter/1lnrhek470r3q",
+    "evidence_note": "동일 의안 반복 문맥 및 평행본 대조.",
+    "evidence": "앞의 ‘寒濕相搏，痹症也’를 받아 되묻는 문장이다."
+  },
+  {
+    "before": "神昏似中風。痰流唇口動。螈　與癇同。",
+    "after": "神昏似中風。痰流唇口動。螈瘈與癇同。",
+    "expected_count": 1,
+    "reason": "경련 증상을 뜻하는 고정 병증명은 ‘螈瘈’이다.",
+    "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=571829",
+    "evidence_note": "동일 저작 해당 의안과 전통 병증명 대조.",
+    "evidence": "경련 증상을 뜻하는 고정 병증명은 ‘螈瘈’이다."
+  },
+  {
+    "before": "一武官為寇執。置舟中　板。",
+    "after": "一武官為寇執。置舟中艙板。",
+    "expected_count": 1,
+    "reason": "배 안에서 가두어 둔 장소를 뜻하는 문맥상 ‘艙板’이다.",
+    "evidence_url": "https://www.zysj.com.cn/lilunshuji/gujinyianan/quanben.html",
+    "evidence_note": "동일 저작 공개 평행 전사의 해당 의안 대조.",
+    "evidence": "배 안에서 가두어 둔 장소를 뜻하는 문맥상 ‘艙板’이다."
+  },
+  {
+    "before": "遂變肉　身振搖。",
+    "after": "遂變肉瞤身振搖。",
+    "expected_count": 1,
+    "reason": "과다 발한 뒤 근육이 떨리는 傷寒의 고정 증상 표현 ‘肉瞤身振搖’이다.",
+    "evidence_url": "https://ctext.org/wiki.pl?if=gb&res=571829",
+    "evidence_note": "동일 저작 傷寒門 평행 전사와 고전 의안 문맥 대조.",
+    "evidence": "과다 발한 뒤 근육이 떨리는 傷寒의 고정 증상 표현 ‘肉瞤身振搖’이다."
+  },
+  {
+    "before": "下後諸證悉除。但少腹微冷作痛。又與燒　散一服。",
+    "after": "下後諸證悉除。但少腹微冷作痛。又與燒褌散一服。",
+    "expected_count": 1,
+    "reason": "陰陽易에 쓰는 고방명은 ‘燒褌散’이다.",
+    "evidence_url": "https://www.zysj.com.cn/lilunshuji/gujinyianan/quanben.html",
+    "evidence_note": "동일 저작 傷寒·陰陽易 항목의 반복 방명과 평행본 대조.",
+    "evidence": "陰陽易에 쓰는 고방명은 ‘燒褌散’이다."
+  },
+  {
+    "before": "得病已瘥未健。詣華　視脈。　曰。",
+    "after": "得病已瘥未健。詣華佗視脈。佗曰。",
+    "expected_count": 1,
+    "reason": "인물명 華佗와 이어지는 주어 ‘佗曰’이 함께 결락했다.",
+    "evidence_url": "https://zh.wikisource.org/zh-hant/%E5%8F%A4%E4%BB%8A%E9%86%AB%E6%A1%88%E6%8C%89",
+    "evidence_note": "동일 저작 평행 전사의 華佗 고사 문맥 대조.",
+    "evidence": "인물명 華佗와 이어지는 주어 ‘佗曰’이 함께 결락했다."
+  },
+  {
+    "before": "故夫之燒　散更巧。",
+    "after": "故夫之燒褌散更巧。",
+    "expected_count": 1,
+    "reason": "앞서 나온 陰陽易 처방 ‘燒褌散’을 재지칭한다.",
+    "evidence_url": "https://www.zysj.com.cn/lilunshuji/gujinyianan/quanben.html",
+    "evidence_note": "같은 항목 내부의 반복 방명과 평행본 대조.",
+    "evidence": "앞서 나온 陰陽易 처방 ‘燒褌散’을 재지칭한다."
+  },
+  {
+    "before": "瘟有蝦蟆瘟、鸕　瘟",
+    "after": "瘟有蝦蟆瘟、鸕鷀瘟",
+    "expected_count": 1,
+    "reason": "역병 유형명은 ‘鸕鷀瘟’이다.",
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book219/b219_02.html",
+    "evidence_note": "동일 저작 권2 공개 전사의 瘟疫 항목 대조.",
+    "evidence": "역병 유형명은 ‘鸕鷀瘟’이다."
+  },
+  {
+    "before": "治足　冷。",
+    "after": "治足脛冷。",
+    "expected_count": 1,
+    "reason": "앞뒤에서 반복되는 ‘足脛尤甚’ 및 하지 냉증 문맥에 따라 ‘足脛冷’이다.",
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book219/b219_02.html",
+    "evidence_note": "동일 저작 권2 大頭瘟 의안 평행 전사 대조.",
+    "evidence": "앞뒤에서 반복되는 ‘足脛尤甚’ 및 하지 냉증 문맥에 따라 ‘足脛冷’이다."
+  },
+  {
+    "before": "手常　住陰囊。為灸百會尾　。",
+    "after": "手常搵住陰囊。為灸百會尾閭。",
+    "expected_count": 1,
+    "reason": "‘손으로 음낭을 누르다’는 搵住, 경혈 부위는 尾閭이다.",
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book219/b219_02.html",
+    "evidence_note": "동일 저작 권2 暑門 의안 평행 전사의 연속 문맥 대조.",
+    "evidence": "‘손으로 음낭을 누르다’는 搵住, 경혈 부위는 尾閭이다."
+  },
+  {
+    "before": "夫夏之暑　。猶冬之寒冷也。指　為陽。",
+    "after": "夫夏之暑暍。猶冬之寒冷也。指暍為陽。",
+    "expected_count": 1,
+    "reason": "바로 앞에서 논한 ‘暑暍’ 두 병명을 재차 나누어 말하는 문장이다.",
+    "evidence_url": "https://www.theqi.com/cmed/oldbook/book219/b219_02.html",
+    "evidence_note": "동일 저작 권2 暑門 평행 전사와 전후 논설 대조.",
+    "evidence": "바로 앞에서 논한 ‘暑暍’ 두 병명을 재차 나누어 말하는 문장이다."
   }
 ]

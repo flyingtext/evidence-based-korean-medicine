@@ -2298,9 +2298,16 @@
       "output_directory": "本草經解(C020)",
       "markdown_files": 7,
       "translation_units": 210,
-      "corrections_applied": 95,
+      "corrections_applied": 117,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 불일치: '主\\u3000瘧' (2/1)",
+        "교정 불일치: '嘔\\u3000' (3/2)",
+        "교정 불일치: '痿\\u3000' (7/2)",
+        "교정 불일치: '瘰\\u3000' (14/10)",
+        "교정 불일치: '腸\\u3000' (11/4)",
+        "교정 불일치: '黃\\u3000' (40/12)"
+      ]
     },
     {
       "source_path": "C/C021.txt",
@@ -5245,7 +5252,7 @@
       "markdown_files": 4,
       "translation_units": 4,
       "corrections_applied": 1,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {
@@ -9844,7 +9851,7 @@
       "output_directory": "古今醫案按(N007)",
       "markdown_files": 12,
       "translation_units": 187,
-      "corrections_applied": 283,
+      "corrections_applied": 301,
       "punctuated": false,
       "warnings": []
     },
@@ -10638,7 +10645,7 @@
       "output_directory": "醫原(N053)",
       "markdown_files": 7,
       "translation_units": 31,
-      "corrections_applied": 5,
+      "corrections_applied": 25,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '莫不探微抉奧，體用兼HT\\u3000。而又以其余力' (0/1)"

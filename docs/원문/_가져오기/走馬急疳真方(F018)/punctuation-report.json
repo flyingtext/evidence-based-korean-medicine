@@ -1,0 +1,123 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/F/F018.txt",
+    "sha256": "d7ae24bef7a13d0d1641304fcf1739f7389f56b13c86362f5303dd7fe7943c2d"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "00baf57482703d7c78fa5fa7f25d5de80fb1a5f86ed2a12475dcb513772608e3",
+    "applied_count": 1
+  },
+  "output": "docs/원문/_가져오기/走馬急疳真方(F018)/표점본.md",
+  "chunks": {
+    "total": 8,
+    "resumable_completed": 8,
+    "min_chars": 342,
+    "max_chars": 609,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 489,
+        "output_characters": 553,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 71,
+        "punctuation_density": 0.17617866,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 562,
+        "output_characters": 558,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 81,
+        "punctuation_density": 0.17344754,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 489,
+        "output_characters": 554,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 77,
+        "punctuation_density": 0.1925,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 609,
+        "output_characters": 659,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 62,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 592,
+        "output_characters": 593,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 64,
+        "punctuation_density": 0.14814815,
+        "attempts": 1
+      },
+      {
+        "index": 6,
+        "input_characters": 596,
+        "output_characters": 594,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 57,
+        "punctuation_density": 0.1373494,
+        "attempts": 1
+      },
+      {
+        "index": 7,
+        "input_characters": 596,
+        "output_characters": 596,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 65,
+        "punctuation_density": 0.15151515,
+        "attempts": 1
+      },
+      {
+        "index": 8,
+        "input_characters": 342,
+        "output_characters": 380,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 40,
+        "punctuation_density": 0.14184397,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 3262,
+    "output_nonpunctuation_characters": 3262,
+    "input_non_punctuation_characters": 3236,
+    "output_non_punctuation_characters": 3236
+  },
+  "punctuation": {
+    "ascii_count": 517,
+    "density_per_nonpunctuation_character": 0.15849172,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
