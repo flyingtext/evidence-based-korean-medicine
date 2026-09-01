@@ -6904,6 +6904,12 @@
       "after": "以上序婦人有𤵄痃、足瘡、臁瘡、血風諸證也。",
       "expected_count": 1,
       "evidence": "jicheng.tw 직접 전문: 𤵄痃、足瘡、臁瘡、血風諸證."
+    },
+    {
+      "before": "有以兆之耶。\n\n張　璜按：產婦有稟質瘦熱",
+      "after": "有以兆之耶。\n\n張嶟璜按：產婦有稟質瘦熱",
+      "expected_count": 1,
+      "evidence": "평행 전사 G/G017a.txt의 동일 문단과 G017 내부 반복 인명으로 張嶟璜을 확정."
     }
   ],
   "G/G017a.txt": [

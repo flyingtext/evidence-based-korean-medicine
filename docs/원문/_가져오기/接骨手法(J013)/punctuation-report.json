@@ -1,0 +1,73 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/J/J013.txt",
+    "sha256": "1f7ef9b37fa023cb8be39250ac12f1f2190a3d739245f489b966095c22443606"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "228e67ce9e0dbea11b4bbcc28e1e8ff40b273d63006ae18b85b773e79c493465",
+    "applied_count": 5
+  },
+  "output": "docs/원문/_가져오기/接骨手法(J013)/표점본.md",
+  "chunks": {
+    "total": 3,
+    "resumable_completed": 3,
+    "min_chars": 1,
+    "max_chars": 734,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 1,
+        "output_characters": 2,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 0,
+        "punctuation_density": 0.0,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 585,
+        "output_characters": 586,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 71,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 734,
+        "output_characters": 734,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 89,
+        "punctuation_density": 0.14285714,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 1120,
+    "output_nonpunctuation_characters": 1120,
+    "input_non_punctuation_characters": 1127,
+    "output_non_punctuation_characters": 1127
+  },
+  "punctuation": {
+    "ascii_count": 160,
+    "density_per_nonpunctuation_character": 0.14285714,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
