@@ -637,5 +637,11 @@
     "before": "少年　朴不凋",
     "after": "少年芚朴不凋",
     "evidence": "jicheng.tw 본문 직접 대조"
+  },
+  {
+    "before": "爾胸背肩間。　岩如亂石插天",
+    "after": "爾胸背肩髃間。巉巖如亂石插天",
+    "expected_count": 1,
+    "evidence": "jicheng.tw와 cloudtcm 공개 전문이 모두 爾胸背肩髃間。巉巖如亂石插天으로 일치."
   }
 ]

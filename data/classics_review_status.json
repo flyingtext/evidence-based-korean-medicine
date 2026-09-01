@@ -1187,7 +1187,7 @@
     "G/G034.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "전각 공백 8곳 전수 판정: 서명 지명 결자 1곳(濛溪) 복원, 처방 약물 구분 공백 7곳 보존. jicheng.tw 최신 전사와 Wikisource 및 中醫世家 독립 전사를 전문 대조했고 HT/KT/□/U+FFFD·자동 번역 잔재는 없음. 원자료 표점 충분"
     },
     "O/O023.txt": {
@@ -3536,10 +3536,10 @@
     },
     "D/D002a.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 5,
+      "unresolved_candidates": 4,
       "punctuation_status": "source_present",
-      "note": "기존 D002a 교정 173개를 expected_count대로 전부 적용한 뒤 HT 0, KT 0, □ 0, PUA 0, [c] 23을 확인했다. 제안 13규칙이 [c] 18좌표를 해소하고 5좌표는 판본 결락·부적 도형이라 보류한다. 확정 규칙은 promote한다.",
-      "remaining_count": 5,
+      "note": "기존 교정 적용 후 남은 [c] 5좌표 중 bcymh를 《本草經集註·鼠姑》 평행문과 창힐 코드로 𧸗이라 확정했다. 금牙酒 불명자 1좌표와 부적 도형 3좌표는 보류한다.",
+      "remaining_count": 4,
       "status": "in_progress"
     },
     "D/D018.txt": {
@@ -4015,11 +4015,11 @@
       "note": "잔여 HT 7자를 공개 원문의 인명·고정구·의성어로 모두 직접 복원하여 실제 결락 0. 정본 승격 가능."
     },
     "N/N045.txt": {
-      "collation_status": "in_progress",
-      "unresolved_candidates": 1,
+      "collation_status": "complete",
+      "unresolved_candidates": 0,
       "punctuation_status": "source_present",
-      "note": "기존 오버레이 71건 적용 후 전각공백 27곳. 문단 들여쓰기 10곳은 조판 공백으로 유지. 결자 후보 17곳 중 16곳 확정, 1곳(爾胸背肩間。　岩如亂石插天)은 직접 근거 부족으로 보류. 제안 적용 후 HT=0, KT=0, □=0, PUA=0, legacy=0, 미확정 결자=1. 완전 교감 전이므로 promote=false.",
-      "remaining_count": 1
+      "note": "마지막 결락 구절을 jicheng.tw 및 독립 공개 전사와 대조해 爾胸背肩髃間。巉巖如亂石插天으로 확정했다. 적용 후 미확정 결자·오자 후보 0건으로 교감 완료.",
+      "remaining_count": 0
     },
     "N/N046.txt": {
       "collation_status": "complete",
@@ -4031,10 +4031,10 @@
     },
     "N/N048.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 3,
+      "unresolved_candidates": 1,
       "punctuation_status": "source_present",
-      "note": "기존 오버레이 25건 적용 후 전각공백 31곳. 조판 공백 1곳(此何以故？　蓋)은 유지. 26곳 복원 제안. 3곳은 대조 전문에도 공백이 남거나 원문 판독이 불충분하여 보류: 醫非夙　習辭, 少愈焉　，六日傳, 喉痹耳鳴　等證. 서문의 使 1건은 문법과 문맥으로 복원했으나 승격 전 영인 재확인을 권고. 제안 적용 후 HT=0, KT=0, □=0, PUA=0, legacy=0, 미확정=3. promote=false.",
-      "remaining_count": 3
+      "note": "미확정 3곳을 재감사해 少愈焉　，六日傳과 喉痹耳鳴　等證는 공개 평행 전문 및 1937년 대동서국 영인 판면에서 글자 없는 조판 공백임을 확인했다. 실질 미해결은 醫非夙　習辭 1자뿐이며 所가 유력하나 독립 판독 전까지 보류한다.",
+      "remaining_count": 1
     },
     "N/N053.txt": {
       "collation_status": "in_progress",
