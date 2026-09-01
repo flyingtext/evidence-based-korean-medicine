@@ -1264,5 +1264,89 @@
     "after": "脅痛舊從肝治，不知肝固內應脅，何以異於足少陽，手心主所過而痛者哉",
     "expected_count": 1,
     "evidence": "이 문단의 자매 수록본 《醫衡》 공개 영인에서 해당 구절의 자형이 `肝固內應脅`로 판독되며, 뒤의 ‘若謂肝經所過’와 대조되는 장부 내응 논리에도 일치한다. https://upload.wikimedia.org/wikipedia/commons/8/8a/SSID-13367121_%E9%86%AB%E8%A1%A1_%E4%B9%BE%E9%9B%86.pdf"
+  },
+  {
+    "before": "芎　",
+    "after": "芎藭",
+    "expected_count": 2,
+    "reason": "神麯·川芎 문맥의 약명 芎藭이며 고전 본초의 정식 이명이다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E8%97%AD&if=en",
+    "evidence": "神麯·川芎 문맥의 약명 芎藭이며 고전 본초의 정식 이명이다."
+  },
+  {
+    "before": "為　仆",
+    "after": "為眴仆",
+    "expected_count": 2,
+    "reason": "《素問》 맥론 원문과 평행 주석이 ‘浮而散者，為眴僕’으로 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E6%87%B8%E8%A7%A3/index.html",
+    "evidence": "《素問》 맥론 원문과 평행 주석이 ‘浮而散者，為眴僕’으로 일치한다."
+  },
+  {
+    "before": "目昧　瘡",
+    "after": "目昧眥瘡",
+    "expected_count": 1,
+    "reason": "《素問》 肝病 증후의 目昧眥瘡 문구를 직접 대조했다.",
+    "evidence_url": "https://ctext.org/huangdi-neijing/ci-re/zh",
+    "evidence": "《素問》 肝病 증후의 目昧眥瘡 문구를 직접 대조했다."
+  },
+  {
+    "before": "恍若陰霾見　，寒穀回春",
+    "after": "恍若陰霾見日，寒穀回春",
+    "expected_count": 1,
+    "reason": "陰霾見日와 寒谷回春이 짝을 이루는 비유이며 日 이외의 글자가 성립하지 않는다.",
+    "evidence": "陰霾見日와 寒谷回春이 짝을 이루는 비유이며 日 이외의 글자가 성립하지 않는다."
+  },
+  {
+    "before": "火淫寡畏而　金",
+    "after": "火淫寡畏而侮金",
+    "expected_count": 1,
+    "reason": "오행 상극 문맥의 고정 표현 ‘火淫寡畏而侮金’을 동일 논설과 대조했다.",
+    "evidence_url": "https://www.ishibashikomorebi.com/book-589-gujinmingyihuicui.pdf",
+    "evidence": "오행 상극 문맥의 고정 표현 ‘火淫寡畏而侮金’을 동일 논설과 대조했다."
+  },
+  {
+    "before": "口雖　而口之輔頰車未嘗　",
+    "after": "口雖喎而口之輔頰車未嘗喎",
+    "expected_count": 1,
+    "reason": "바로 앞뒤의 口眼喎斜 논설에서 동일 술어 喎가 반복된다.",
+    "evidence": "바로 앞뒤의 口眼喎斜 논설에서 동일 술어 喎가 반복된다."
+  },
+  {
+    "before": "痿　。　者，足不能伸而行也",
+    "after": "痿躄。躄者，足不能伸而行也",
+    "expected_count": 1,
+    "reason": "張子和 痿論의 병명 痿躄과 이어지는 자훈 ‘躄者，足不能伸而行也’가 직접 확정한다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E8%BA%84&if=en",
+    "evidence": "張子和 痿論의 병명 痿躄과 이어지는 자훈 ‘躄者，足不能伸而行也’가 직접 확정한다."
+  },
+  {
+    "before": "懊　囊縮",
+    "after": "懊憹囊縮",
+    "expected_count": 1,
+    "reason": "의학 증후어 懊憹이며 뒤의 囊縮과 병렬된다.",
+    "evidence_url": "https://ctext.org/dictionary.pl?char=%E6%86%B9&if=en",
+    "evidence": "의학 증후어 懊憹이며 뒤의 囊縮과 병렬된다."
+  },
+  {
+    "before": "痙之為病，即《內經》之　病也。以痙作　",
+    "after": "痙之為病，即《內經》之痓病也。以痙作痓",
+    "expected_count": 1,
+    "reason": "張景岳의 원론은 痙과 《內經》의 痓를 자형 전이로 설명하는 문장이다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+    "evidence": "張景岳의 원론은 痙과 《內經》의 痓를 자형 전이로 설명하는 문장이다."
+  },
+  {
+    "before": "風、濕、　三氣，合而成霍亂",
+    "after": "風、濕、暑三氣，合而成霍亂",
+    "expected_count": 1,
+    "reason": "뒤에서 각각 風應肝木、濕應脾土、吐者暍也로 풀이하므로 셋째 기는 暑이다.",
+    "evidence": "뒤에서 각각 風應肝木、濕應脾土、吐者暍也로 풀이하므로 셋째 기는 暑이다."
+  },
+  {
+    "before": "故　痹，肌肉熱極",
+    "after": "故脈痹，肌肉熱極",
+    "expected_count": 1,
+    "reason": "문단 표제와 첫 구절이 모두 脈痹이며 같은 병명을 이어 받는다.",
+    "evidence": "문단 표제와 첫 구절이 모두 脈痹이며 같은 병명을 이어 받는다."
   }
 ]

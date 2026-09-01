@@ -8106,6 +8106,238 @@
       "expected_count": 1,
       "reason": "阿膠의 재료와 명명 원리를 설명하는 문장으로, 같은 책 권하의 ‘驢皮煎膠而用阿井水者，取濟水之伏流也’와 정확히 평행한다.",
       "evidence_note": "현재 ‘□致膠’는 문맥상 성립하지 않으며 내부 평행문의 驢皮·煎膠·伏流·阿井水 네 요소가 모두 일치한다. 교감 대상 권상에서 1회 발생한다."
+    },
+    {
+      "before": "不知能服參、　之證",
+      "after": "不知能服參、耆之證",
+      "expected_count": 1,
+      "reason": "동일 저작 공개 전문의 고유 문맥이 `不知能服參、耆之證`으로 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "동일 저작 공개 전문의 고유 문맥이 `不知能服參、耆之證`으로 일치한다."
+    },
+    {
+      "before": "寒從　，　為地下之水，故　字在下",
+      "after": "寒從冫，冫為地下之水，故冫字在下",
+      "expected_count": 1,
+      "reason": "`暑從日`과 대구를 이루는 설문 해설이며 공개 전문이 세 글자 모두 `冫`으로 보존한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "`暑從日`과 대구를 이루는 설문 해설이며 공개 전문이 세 글자 모두 `冫`으로 보존한다."
+    },
+    {
+      "before": "靈明復　，日間所作所為",
+      "after": "靈明覆蘖，日間所作所為",
+      "expected_count": 1,
+      "reason": "맹자의 `夜氣梏亡` 문맥을 잇는 표현이며 공개 전문이 `靈明覆蘖`로 보존한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "맹자의 `夜氣梏亡` 문맥을 잇는 표현이며 공개 전문이 `靈明覆蘖`로 보존한다."
+    },
+    {
+      "before": "而元人伊芳世珍輯《　記》",
+      "after": "而元人伊世珍輯《嫏嬛記》",
+      "expected_count": 1,
+      "reason": "인명과 서명이 공개 전문의 `元人伊世珍輯《嫏嬛記》`로 확인된다. `芳`은 OCR 혼입이다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "인명과 서명이 공개 전문의 `元人伊世珍輯《嫏嬛記》`로 확인된다. `芳`은 OCR 혼입이다."
+    },
+    {
+      "before": "蓋痘有痘疫，　有　疫",
+      "after": "蓋痘有痘疫，瘄有瘄疫",
+      "expected_count": 1,
+      "reason": "痘疫과 瘄疫을 병렬한 문장으로 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "痘疫과 瘄疫을 병렬한 문장으로 공개 전문과 일치한다."
+    },
+    {
+      "before": "劫其真津，而成　之勢，熾若燎原",
+      "after": "劫其真津，而成熇熇之勢，熾若燎原",
+      "expected_count": 1,
+      "reason": "불길처럼 치성한 열세를 뜻하는 `熇熇之勢`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "불길처럼 치성한 열세를 뜻하는 `熇熇之勢`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "熟地　炙黃　白芍",
+      "after": "熟地　炙黃耆　白芍",
+      "expected_count": 1,
+      "reason": "처방 약명 `炙黃耆`가 공개 전문에 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "처방 약명 `炙黃耆`가 공개 전문에 확인된다."
+    },
+    {
+      "before": "加香附以承流　、朮之宣化",
+      "after": "加香附以承流耆、朮之宣化",
+      "expected_count": 1,
+      "reason": "바로 뒤 `黃耆得歸、芍`과 호응하며 공개 전문이 `承流耆、術之宣化`로 보존한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "바로 뒤 `黃耆得歸、芍`과 호응하며 공개 전문이 `承流耆、術之宣化`로 보존한다."
+    },
+    {
+      "before": "治婦女　瘕等病",
+      "after": "治婦女癥瘕等病",
+      "expected_count": 1,
+      "reason": "병명 `癥瘕`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "병명 `癥瘕`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "燈草心　麥上七味",
+      "after": "燈草心　麥蘖上七味",
+      "expected_count": 1,
+      "reason": "保嬰湯의 일곱째 약재가 공개 전문에서 `麥蘖`로 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "保嬰湯의 일곱째 약재가 공개 전문에서 `麥蘖`로 확인된다."
+    },
+    {
+      "before": "治小兒痙厥螈　",
+      "after": "治小兒痙厥瘛瘲",
+      "expected_count": 1,
+      "reason": "병증명 `瘛瘲`이며 현행 `螈`은 유사자 OCR 오기까지 함께 바로잡았다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "병증명 `瘛瘲`이며 현행 `螈`은 유사자 OCR 오기까지 함께 바로잡았다."
+    },
+    {
+      "before": "放炭火內，　令通紅",
+      "after": "放炭火內，煅令通紅",
+      "expected_count": 1,
+      "reason": "약물 포제 문맥의 `煅令通紅`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "약물 포제 문맥의 `煅令通紅`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "必有煤　之污",
+      "after": "必有煤炲之污",
+      "expected_count": 1,
+      "reason": "굴뚝 가까운 지붕의 그을음을 뜻하는 `煤炲`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "굴뚝 가까운 지붕의 그을음을 뜻하는 `煤炲`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "其山必　，或為砒礬毒藥之所產",
+      "after": "其山必嶮巇，或為砒礬毒藥之所產",
+      "expected_count": 1,
+      "reason": "산세가 험준하다는 `嶮巇`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "산세가 험준하다는 `嶮巇`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "高一、二寸以　盤",
+      "after": "高一、二寸以搘盤",
+      "expected_count": 1,
+      "reason": "나무로 쟁반을 받친다는 뜻의 `搘盤`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "나무로 쟁반을 받친다는 뜻의 `搘盤`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "言來　之所服也",
+      "after": "言來麰之所服也",
+      "expected_count": 1,
+      "reason": "蘆菔의 별명 來服을 보리 `來麰`가 복종한다는 훈석이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "蘆菔의 별명 來服을 보리 `來麰`가 복종한다는 훈석이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "不亦　哉",
+      "after": "不亦傎哉",
+      "expected_count": 1,
+      "reason": "회륜주를 어리석다고 비판하는 `不亦傎哉`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "회륜주를 어리석다고 비판하는 `不亦傎哉`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "砂有二種：一種鹽　，出西戎",
+      "after": "硇砂有二種：一種鹽硇，出西戎",
+      "expected_count": 1,
+      "reason": "항목명과 첫 종류가 모두 `硇砂`·`鹽硇`임을 공개 전문이 보존한다. 표지 없는 선두 결자도 함께 복원했다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "항목명과 첫 종류가 모두 `硇砂`·`鹽硇`임을 공개 전문이 보존한다. 표지 없는 선두 결자도 함께 복원했다."
+    },
+    {
+      "before": "李氏所引皆鹽　也，真藏　能化血肉為水，雖　煉",
+      "after": "李氏所引皆鹽硇也，真藏硇能化血肉為水，雖煅煉",
+      "expected_count": 1,
+      "reason": "硇砂의 산지·성질 설명이며 공개 전문의 `鹽硇`·`藏硇`·`煅煉`과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "硇砂의 산지·성질 설명이며 공개 전문의 `鹽硇`·`藏硇`·`煅煉`과 일치한다."
+    },
+    {
+      "before": "《江賦》：　腹蟹。以為即此物，則又大誤。不知　又非海鏡也",
+      "after": "《江賦》：璅𤥐腹蟹。以為即此物，則又大誤。不知璅𤥐又非海鏡也",
+      "expected_count": 1,
+      "reason": "희귀 해산물명 `璅𤥐`가 공개 전문의 두 위치에 동일하게 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "희귀 해산물명 `璅𤥐`가 공개 전문의 두 위치에 동일하게 확인된다."
+    },
+    {
+      "before": "《海南志》：　狀似珠蚌",
+      "after": "《海南志》：璅𤥐狀似珠蚌",
+      "expected_count": 1,
+      "reason": "앞 문장의 해산물 `璅𤥐`를 이어 설명하며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "앞 문장의 해산물 `璅𤥐`를 이어 설명하며 공개 전문과 일치한다."
+    },
+    {
+      "before": "然　清潔不食，但寄其腹於蟹，蟹為　而食，食在蟹而飽在　",
+      "after": "然璅𤥐清潔不食，但寄其腹於蟹，蟹為璅𤥐而食，食在蟹而飽在璅𤥐",
+      "expected_count": 1,
+      "reason": "동일 생물명 `璅𤥐`의 세 차례 반복이 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "동일 생물명 `璅𤥐`의 세 차례 반복이 공개 전문과 일치한다."
+    },
+    {
+      "before": "田鼠化　，　化田鼠",
+      "after": "田鼠化鴽，鴽化田鼠",
+      "expected_count": 1,
+      "reason": "《禮記》 월령의 상호 변화 표현 `田鼠化鴽，鴽化田鼠`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "《禮記》 월령의 상호 변화 표현 `田鼠化鴽，鴽化田鼠`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "載桐鄉顧　《書目合編》",
+      "after": "載桐鄉顧菉厓《書目合編》",
+      "expected_count": 1,
+      "reason": "인명 `顧菉厓`가 공개 전문에 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "인명 `顧菉厓`가 공개 전문에 확인된다."
+    },
+    {
+      "before": "層剝寸　，批　導　，毫發無不推勘",
+      "after": "層剝寸刲，批郤導窾，毫發無不推勘",
+      "expected_count": 1,
+      "reason": "해부 동작을 묘사한 `寸刲，批郤導窾`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "해부 동작을 묘사한 `寸刲，批郤導窾`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "不過批導　，推測其所當然而已",
+      "after": "不過批導窾，推測其所當然而已",
+      "expected_count": 1,
+      "reason": "앞의 `批郤導窾`를 줄여 받는 `批導窾`이며 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "앞의 `批郤導窾`를 줄여 받는 `批導窾`이며 공개 전문과 일치한다."
+    },
+    {
+      "before": "鼓　元牝出奧竅",
+      "after": "鼓楟元牝出奧竅",
+      "expected_count": 1,
+      "reason": "공개 전문이 희자 `楟`을 보존한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "공개 전문이 희자 `楟`을 보존한다."
+    },
+    {
+      "before": "使人垣洞見　結，昭揭日月殊　捫",
+      "after": "使人垣洞見癥結，昭揭日月殊槃捫",
+      "expected_count": 1,
+      "reason": "시구의 `癥結`·`槃捫`이 공개 전문과 일치한다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "시구의 `癥結`·`槃捫`이 공개 전문과 일치한다."
+    },
+    {
+      "before": "余按《佩　集》吉凶形兆謂之聯。　字從目。所云眼模，正　兆之初萌也",
+      "after": "余按《佩觿集》吉凶形兆謂之聯。眹字從目。所云眼模，正眹兆之初萌也",
+      "expected_count": 1,
+      "reason": "서명 `佩觿集`과 눈에서 형상이 싹튼다는 `眹` 두 글자가 공개 전문에 확인된다.",
+      "evidence_url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%85%B6%E5%A0%82%E9%9A%A8%E7%AD%86/index.html",
+      "evidence": "서명 `佩觿集`과 눈에서 형상이 싹튼다는 `眹` 두 글자가 공개 전문에 확인된다."
     }
   ],
   "N/N026.txt": [

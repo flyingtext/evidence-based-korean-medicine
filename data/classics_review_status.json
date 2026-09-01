@@ -46,9 +46,10 @@
     },
     "N/N036.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 94,
+      "unresolved_candidates": 53,
       "punctuation_status": "source_present",
-      "note": "최신 잔여 95에서 □ 좌표 1건을 내부 평행문으로 확정했다. 주변의 致도 皮의 OCR 오기이므로 occurrence 고유 문맥 안에서 함께 바로잡는다. 기존 조판 168곳은 유지한다."
+      "note": "기존 93규칙 적용 뒤 남은 미해결 94후보 중 41개 전각 공백 위치를 동일 저작 공개 전문의 고유 문맥으로 확정했다. 인명 伊芳世珍의 OCR 혼입과 표지 없는 硇砂 선두 결자도 같은 문맥 안에서 함께 교정한다. 나머지 53후보는 조판 공백과 결자가 혼재하므로 보류한다. promote=false.",
+      "remaining_count": 53
     },
     "M/M200.txt": {
       "collation_status": "in_progress",
@@ -1223,7 +1224,7 @@
     "D/D067.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "jicheng 최신 표점 전사의 동일 4편 전문과 문헌 단위 정렬해 공백 없이 탈락·혼입된 처방·주석을 복원. 원문 전각 공백 4곳은 처방 구성 구분으로 보존(재조판 공백 1곳 추가), HT/KT/□ 잔존 0, 원자료 표점 충분"
     },
     "M/M202.txt": {
@@ -4192,10 +4193,10 @@
     },
     "O/O060.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 84,
+      "unresolved_candidates": 44,
       "punctuation_status": "source_present",
-      "note": "기존 O060 교정 159개를 expected_count대로 모두 적용했다. 적용 후 HT·KT·□·[c]·PUA는 0이며 전각 공백은 92개다. 현행 감사 분류의 조판 공백 8개를 제외한 84개 후보는 좌표별 신뢰 원문 대조가 완료되지 않아 전부 보류한다. 신규 확정 규칙이 없어 promote=false이다.",
-      "remaining_count": 84,
+      "note": "기존 교정 159규칙 적용 후 남은 비조판 전각공백 후보 84좌표 가운데 경전 직접 인용, 동일 문단 반복, 고정 병명·약명으로 확정되는 40좌표를 17규칙으로 복원 제안했다. 나머지 44좌표는 희귀 자형 또는 판본 문구의 직접 대조가 더 필요하므로 보류한다. remaining_count=44, promote=false.",
+      "remaining_count": 44,
       "status": "in_progress"
     },
     "O/O061.txt": {
