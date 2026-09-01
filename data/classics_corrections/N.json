@@ -17555,6 +17555,132 @@
       "reason": "약점이 生黃芩 대신 잘못 내준 약과 환자가 전날 잘못 복용한 약은 뒤에서 이미 확정된 `誤服黃耆`와 같은 黃耆이다.",
       "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf",
       "evidence_note": "같은 단락의 후속 명시 `誤服黃耆`와 독립 영인 계통으로 두 자리를 교차 확인."
+    },
+    {
+      "before": "軒埃綿藐，岐風　寥。",
+      "after": "軒埃綿藐，岐風閴寥。",
+      "expected_count": 1,
+      "reason": "Wikisource 初集 서문의 독립 전사에서 `岐風閴寥`로 확인.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案初集"
+    },
+    {
+      "before": "醫之有案也，　於漢之倉公。",
+      "after": "醫之有案也，昉於漢之倉公。",
+      "expected_count": 1,
+      "reason": "Wikisource 初集 自序의 독립 전사에서 `昉於漢之倉公`으로 확인.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案初集"
+    },
+    {
+      "before": "游昆陵幕，抱　半載，百治不痊",
+      "after": "游昆陵幕，抱疴半載，百治不痊",
+      "expected_count": 1,
+      "reason": "Wikisource 初集의 동일 의안은 `抱疴半載`이며 문맥상 병을 앓았다는 관용구와 일치.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案初集"
+    },
+    {
+      "before": "予曰：無故發　，事屬罕聞。",
+      "after": "予曰：無故發癍，事屬罕聞。",
+      "expected_count": 1,
+      "reason": "같은 단락 앞 문장과 Wikisource가 모두 병명 `無故發癍`을 명시.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案初集"
+    },
+    {
+      "before": "尚可啖干面　數枚",
+      "after": "尚可啖干面餅數枚",
+      "expected_count": 1,
+      "reason": "앞뒤의 飯·米飲·面 대조와 수량사 枚가 가리키는 음식은 面餅이며, 영인 계통의 결자 위치와 합치.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf"
+    },
+    {
+      "before": "思治虛怯沉　，參　歸地有用數斤愈者",
+      "after": "思治虛怯沉疴，參耆歸地有用數斤愈者",
+      "expected_count": 1,
+      "reason": "`沉疴`는 오래된 중병, `參耆歸地`는 보허 약물 열거로 문맥과 영인 계통에 부합.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf"
+    },
+    {
+      "before": "洪大登為人　役，體虛多勞",
+      "after": "洪大登為人僕役，體虛多勞",
+      "expected_count": 1,
+      "reason": "`為人僕役`과 뒤의 `體虛多勞`가 문법·의미상 이어지며 영인 판면의 결자와 부합.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf"
+    },
+    {
+      "before": "仍依原方加入　朮、茯、神、棗仁",
+      "after": "仍依原方加入白朮、茯、神、棗仁",
+      "expected_count": 1,
+      "reason": "歸脾湯 가감 문맥의 약명은 白朮이며 뒤의 茯神·棗仁과 연속 열거됨.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案續錄"
+    },
+    {
+      "before": "服藥　消痘透，庶可無虞",
+      "after": "服藥癍消痘透，庶可無虞",
+      "expected_count": 1,
+      "reason": "같은 의안 뒤에서 치료 결과를 `癍消痘透`라고 그대로 반복함.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案續錄"
+    },
+    {
+      "before": "方定羌活散　湯，加石膏燈心",
+      "after": "方定羌活散鬱湯，加石膏燈心",
+      "expected_count": 1,
+      "reason": "痘瘡의 열독 옹알에 쓰는 고정 방명 羌活散鬱湯으로 확인.",
+      "evidence_url": "https://www.shidianguji.com/zh/book/NGJ89241199900574987925/chapter/1lnnlm3pdi2vv"
+    },
+    {
+      "before": "大孔　遺出如瀉水狀",
+      "after": "大孔便遺出如瀉水狀",
+      "expected_count": 1,
+      "reason": "급히 대변을 보려다 항문으로 변이 저절로 쏟아졌다는 문맥이며 `大孔便遺出`으로 판독.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案續錄"
+    },
+    {
+      "before": "宵小潛伏裡　，乘其行動犯竊",
+      "after": "宵小潛伏裡閭，乘其行動犯竊",
+      "expected_count": 1,
+      "reason": "도둑이 마을에 숨어 있다는 고정 표현 `潛伏里閭`이며 비유 문맥에 정확히 대응.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案輯錄"
+    },
+    {
+      "before": "酒者熟穀之液，其氣　悍",
+      "after": "酒者熟穀之液，其氣慓悍",
+      "expected_count": 1,
+      "reason": "《靈樞·論勇》의 직접 경문 `酒者水穀之精，熟穀之液也，其氣慓悍`.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=501"
+    },
+    {
+      "before": "故歸地養陰，參　益氣",
+      "after": "故歸地養陰，參耆益氣",
+      "expected_count": 1,
+      "reason": "補氣 약물의 고정 병칭 參耆이며 養陰의 歸地와 대구.",
+      "evidence_url": "https://zh.wikisource.org/wiki/杏軒醫案/杏軒醫案輯錄"
+    },
+    {
+      "before": "治以四烏　骨慮茹丸",
+      "after": "治以四烏賊骨慮茹丸",
+      "expected_count": 1,
+      "reason": "《素問·腹中論》 血枯 치료의 고정 방명 `四烏賊骨一藘茹丸`.",
+      "evidence_url": "https://ctext.org/wiki.pl?chapter=831790"
+    },
+    {
+      "before": "遍體骨節皆松懈而多　，故懨懨悒悒",
+      "after": "遍體骨節皆松懈而多痛，故懨懨悒悒",
+      "expected_count": 1,
+      "reason": "骨痿·解㑊 증후 설명에서 관절이 이완되고 많이 아프다는 문맥이며 영인 결자 판독은 痛.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf"
+    },
+    {
+      "before": "考金匱雖有　蟲丸治虛癆血痹之法",
+      "after": "考金匱雖有䗪蟲丸治虛癆血痹之法",
+      "expected_count": 1,
+      "reason": "《金匱要略》 虛勞篇의 고정 방명 大黃䗪蟲丸.",
+      "evidence_url": "https://zh.wikisource.org/wiki/金匱要略"
+    },
+    {
+      "before": "形倦膚干，熱仍　，心煩口渴",
+      "after": "形倦膚干，熱仍熾，心煩口渴",
+      "expected_count": 1,
+      "reason": "뒤의 `心內如焚`·焦煩과 이어지는 정형 표현 `熱仍熾`이며 영인 판면과 합치.",
+      "evidence_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/SSID-13339906_%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88%E4%B8%89%E8%BC%AF%E9%8C%84.pdf"
     }
   ],
   "N/N048.txt": [

@@ -2998,7 +2998,7 @@
       "output_directory": "千金翼方(D002a)",
       "markdown_files": 30,
       "translation_units": 212,
-      "corrections_applied": 162,
+      "corrections_applied": 175,
       "punctuated": false,
       "warnings": [
         "교정 불일치: '[c]cimvn[/c]' (16/13)",
@@ -3102,7 +3102,7 @@
       "output_directory": "蘇沈良方(D007)",
       "markdown_files": 12,
       "translation_units": 234,
-      "corrections_applied": 11,
+      "corrections_applied": 22,
       "punctuated": false,
       "warnings": []
     },
@@ -10463,9 +10463,16 @@
       "output_directory": "程杏軒醫案(N046)",
       "markdown_files": 11,
       "translation_units": 197,
-      "corrections_applied": 81,
+      "corrections_applied": 99,
       "punctuated": false,
-      "warnings": []
+      "warnings": [
+        "교정 좌표 중첩: 26300:26301",
+        "교정 좌표 중첩: 62161:62162",
+        "교정 좌표 중첩: 62247:62248",
+        "교정 좌표 중첩: 745:746",
+        "교정 좌표 중첩: 75482:75483",
+        "교정 좌표 중첩: 8374:8375"
+      ]
     },
     {
       "source_path": "N/N047.txt",
@@ -14298,7 +14305,7 @@
       "markdown_files": 1,
       "translation_units": 1,
       "corrections_applied": 7,
-      "punctuated": false,
+      "punctuated": true,
       "warnings": []
     },
     {

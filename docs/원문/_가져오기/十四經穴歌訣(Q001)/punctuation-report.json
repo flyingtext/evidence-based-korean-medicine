@@ -1,0 +1,63 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/Q/Q001.txt",
+    "sha256": "3e53664e0363e0ac0787665d80a3fc20676e49c07e60b409972e91efe7a75205"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "4668a8013aa027feed14ab4a50180f20ea4b13ea7afbc9b86d56eb4a63be7857",
+    "applied_count": 7
+  },
+  "output": "docs/원문/_가져오기/十四經穴歌訣(Q001)/표점본.md",
+  "chunks": {
+    "total": 2,
+    "resumable_completed": 2,
+    "min_chars": 672,
+    "max_chars": 694,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 694,
+        "output_characters": 694,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 82,
+        "punctuation_density": 0.14113597,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 672,
+        "output_characters": 675,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 80,
+        "punctuation_density": 0.14466546,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 1134,
+    "output_nonpunctuation_characters": 1134,
+    "input_non_punctuation_characters": 1134,
+    "output_non_punctuation_characters": 1134
+  },
+  "punctuation": {
+    "ascii_count": 162,
+    "density_per_nonpunctuation_character": 0.14285714,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}
