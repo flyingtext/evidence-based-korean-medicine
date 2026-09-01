@@ -53,10 +53,10 @@
     },
     "M/M200.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 111,
+      "unresolved_candidates": 70,
       "punctuation_status": "source_present",
-      "note": "기존 교정 적용 뒤 25개 표지 중 근거가 확정되는 23개를 해소한다. ‘肌上之肌。高士宗作HT。HT、頰肉也’의 2개 HT는 공개 전사본에서도 글자가 탈락하고 자형을 확정할 영인을 확보하지 못해 남긴다. 전각 공백은 집계하지 않았다. 명시적 코드 외 전각 결락 후보를 포함해 문헌 전체 잔여는 111좌표로 유지한다.",
-      "remaining_count": 111,
+      "note": "기존 127규칙 적용 후 남은 HT 2개와 전각 공백 86개 중, 동일 저작 공개 전문 및 그 저본(북경대도서관 영인)과 고유 문맥이 일치하는 고립 후보 18곳을 확정했다. 인접 복수 결자군과 조판 공백 70곳은 추정하지 않고 보류한다. promote=false.",
+      "remaining_count": 70,
       "status": "in_progress"
     },
     "N/N001.txt": {
@@ -978,7 +978,7 @@
     "E/E018.txt": {
       "collation_status": "complete",
       "unresolved_candidates": 0,
-      "punctuation_status": "source_present",
+      "punctuation_status": "codex_verified",
       "note": "전각 공백·깨진 토큰 없음. jicheng 外感溫病篇_1과 溫熱經緯 권4를 교차 대조해 오기·오표점 33건 교정, 원자료 표점 충분"
     },
     "B/B040.txt": {
@@ -3909,9 +3909,10 @@
     },
     "M/M003.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 103,
+      "unresolved_candidates": 50,
       "punctuation_status": "source_present",
-      "note": "전각 공백 104개 중 조판1·실결락103 분류를 유지했다. `玉枕穴之圖 pt118a11.bmp`는 텍스트 미러에서도 결락이지만 CADAL/CTP 권1 영인과 《續修四庫全書》第0999冊 공개 스캔이 대체 원판 후보다. 검색 색인만으로 정확 페이지와 독립 추출 자산은 확정하지 못했다."
+      "note": "기존 6규칙 적용 후 비조판 후보 103좌표 가운데 jicheng.tw의 北京大學圖書館 스캔 기반 전문과 고유 양방향 문맥이 직접 일치한 53좌표를 복원 제안했다. 나머지 50좌표는 도판 표지·조판 혼입 가능성 또는 추가 판독이 필요한 희귀자이므로 보류한다. promote=false.",
+      "remaining_count": 50
     },
     "M/M004.txt": {
       "collation_status": "in_progress",
@@ -4201,9 +4202,10 @@
     },
     "O/O061.txt": {
       "collation_status": "in_progress",
-      "unresolved_candidates": 111,
+      "unresolved_candidates": 110,
       "punctuation_status": "source_present",
-      "note": "광역 중복 규칙 1개를 제거하고 실제 source의 개행·공백에 맞춰 蝦游魚翔 규칙을 수정했다. 기존 세 고유 參耆 규칙은 그대로 유지한다. remaining_count는 배치65-A 감사 기준 111을 유지한다."
+      "note": "기존 O061 교정 오버레이 뒤 HT/KT 22좌표와 상태 기록상 전각 결락 후보를 재검토했다. 공개 교정 전사에서 동일 문장이 직접 확인되는 `得HT　然一聲`만 `得㘞然一聲`으로 복원한다. 나머지 명시 표지는 Wikisource·GitHub 계열 전사에도 HT로 남아 있거나 인명·지명·사례 문맥만으로 추정 가능한 수준이어서 보류한다. 기존 remaining_count 111에서 확정 1좌표만 차감하며 정본 승격은 하지 않는다.",
+      "remaining_count": 110
     },
     "O/O063.txt": {
       "collation_status": "in_progress",

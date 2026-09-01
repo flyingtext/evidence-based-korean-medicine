@@ -1,0 +1,93 @@
+{
+  "generator": "codex exec",
+  "model": "codex-default",
+  "source": {
+    "path": "../source/E/E018.txt",
+    "sha256": "ade10747da9835336282f1aa0c3e6d68eaedd633547c2ac90f9235458585b320"
+  },
+  "correction_overlay": {
+    "path": "data/classics_corrections",
+    "sha256": "b346a6460938186bb293785d188ad10fd02eeb3279832eec20002a944cfd3507",
+    "applied_count": 33
+  },
+  "output": "docs/원문/_가져오기/外感溫熱篇(E018)/표점본.md",
+  "chunks": {
+    "total": 5,
+    "resumable_completed": 5,
+    "min_chars": 591,
+    "max_chars": 700,
+    "target_chars": 600,
+    "attempts": [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "items": [
+      {
+        "index": 1,
+        "input_characters": 675,
+        "output_characters": 753,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 96,
+        "punctuation_density": 0.17112299,
+        "attempts": 1
+      },
+      {
+        "index": 2,
+        "input_characters": 591,
+        "output_characters": 594,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 86,
+        "punctuation_density": 0.17659138,
+        "attempts": 1
+      },
+      {
+        "index": 3,
+        "input_characters": 607,
+        "output_characters": 608,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 82,
+        "punctuation_density": 0.16432866,
+        "attempts": 1
+      },
+      {
+        "index": 4,
+        "input_characters": 668,
+        "output_characters": 739,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 92,
+        "punctuation_density": 0.16819013,
+        "attempts": 1
+      },
+      {
+        "index": 5,
+        "input_characters": 700,
+        "output_characters": 704,
+        "nonpunctuation_characters_preserved": true,
+        "punctuation_count": 102,
+        "punctuation_density": 0.17647059,
+        "attempts": 1
+      }
+    ]
+  },
+  "character_preservation": {
+    "verified": true,
+    "input_nonpunctuation_characters": 2672,
+    "output_nonpunctuation_characters": 2672,
+    "input_non_punctuation_characters": 2680,
+    "output_non_punctuation_characters": 2680
+  },
+  "punctuation": {
+    "ascii_count": 458,
+    "density_per_nonpunctuation_character": 0.17140719,
+    "chinese_punctuation_normalized": true
+  },
+  "correction_overlay_synchronized": true,
+  "synchronization_edits": {
+    "replace": 0,
+    "delete": 0,
+    "insert": 0
+  }
+}

@@ -40,5 +40,335 @@
     "expected_count": 1,
     "evidence": "소아의 적열·벽괴를 설명하는 병명 食積.",
     "reason": "소아의 적열·벽괴를 설명하는 병명 食積."
+  },
+  {
+    "before": "般　難舍繩墨",
+    "after": "般倕難舍繩墨",
+    "expected_count": 1,
+    "reason": "jicheng 北京大學圖書館底本 직접 대조",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%A8%BA%E6%8A%89%E5%BE%AE/index.html",
+    "evidence": "jicheng 北京大學圖書館底本 직접 대조"
+  },
+  {
+    "before": "其聲　以殺者，哀心之感；其聲　以緩者",
+    "after": "其聲噍以殺者，哀心之感；其聲嘽以緩者",
+    "expected_count": 1,
+    "reason": "jicheng 본문 및 《樂記》 직접 대조",
+    "evidence": "jicheng 본문 및 《樂記》 직접 대조"
+  },
+  {
+    "before": "（　，音焦。殺，音帥，言音之燥清而低怯。注云：　則竭而無澤，殺則減而不降可見矣。　，音闡",
+    "after": "（噍，音焦。殺，音帥，言音之燥清而低怯。注云：噍則竭而無澤，殺則減而不降可見矣。嘽，音闡",
+    "expected_count": 1,
+    "reason": "jicheng 北京大學圖書館底本 직접 대조",
+    "evidence": "jicheng 北京大學圖書館底本 직접 대조"
+  },
+  {
+    "before": "恐遺　亂玉之譏",
+    "after": "恐遺碔砆亂玉之譏",
+    "expected_count": 1,
+    "reason": "jicheng 본문이 희귀어 碔砆를 직접 보존",
+    "evidence": "jicheng 본문이 희귀어 碔砆를 직접 보존"
+  },
+  {
+    "before": "瘦削清　",
+    "after": "瘦削清癯",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "肝病者　青",
+    "after": "肝病者眥青",
+    "expected_count": 1,
+    "reason": "《靈樞·五閱五使》와 jicheng 본문 직접 대조",
+    "evidence": "《靈樞·五閱五使》와 jicheng 본문 직접 대조"
+  },
+  {
+    "before": "內　挾鼻",
+    "after": "內眥挾鼻",
+    "expected_count": 1,
+    "reason": "《靈樞·五色》 면부 구획과 jicheng 본문 대조",
+    "evidence": "《靈樞·五色》 면부 구획과 jicheng 본문 대조"
+  },
+  {
+    "before": "目內　",
+    "after": "目內眥",
+    "expected_count": 2,
+    "reason": "睛明穴·면부의 고정 해부명 目內眥, jicheng 직접 대조",
+    "evidence": "睛明穴·면부의 고정 해부명 目內眥, jicheng 직접 대조"
+  },
+  {
+    "before": "不若前實證之炎　也",
+    "after": "不若前實證之炎歊也",
+    "expected_count": 1,
+    "reason": "jicheng 본문 희귀어 炎歊 직접 대조",
+    "evidence": "jicheng 본문 희귀어 炎歊 직접 대조"
+  },
+  {
+    "before": "赤而　堅，營血之充",
+    "after": "赤而䐃堅，營血之充",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "筋骨勞　也",
+    "after": "筋骨勞勩也",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "陽氣盛則　目",
+    "after": "陽氣盛則瞋目",
+    "expected_count": 1,
+    "reason": "경문 및 jicheng 본문 직접 대조",
+    "evidence": "경문 및 jicheng 본문 직접 대조"
+  },
+  {
+    "before": "參、　",
+    "after": "參、耆",
+    "expected_count": 2,
+    "reason": "처방 약명 人參·黃耆 및 jicheng 대조",
+    "evidence": "처방 약명 人參·黃耆 및 jicheng 대조"
+  },
+  {
+    "before": "黃　",
+    "after": "黃耆",
+    "expected_count": 2,
+    "reason": "처방 약명 黃耆 및 jicheng 대조",
+    "evidence": "처방 약명 黃耆 및 jicheng 대조"
+  },
+  {
+    "before": "遍體　疼",
+    "after": "遍體痠疼",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "瘰　",
+    "after": "瘰癧",
+    "expected_count": 1,
+    "reason": "병명 瘰癧, jicheng 직접 대조",
+    "evidence": "병명 瘰癧, jicheng 직접 대조"
+  },
+  {
+    "before": "目正圓者，太陽經絕，　病不治",
+    "after": "目正圓者，太陽經絕，痓病不治",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "目　黃，起色",
+    "after": "目眥黃，起色",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "口　唇疹",
+    "after": "口喎唇疹",
+    "expected_count": 1,
+    "reason": "足陽明 병증과 jicheng 대조",
+    "evidence": "足陽明 병증과 jicheng 대조"
+  },
+  {
+    "before": "有懊　者",
+    "after": "有懊憹者",
+    "expected_count": 1,
+    "reason": "병증어 懊憹, jicheng 직접 대조",
+    "evidence": "병증어 懊憹, jicheng 직접 대조"
+  },
+  {
+    "before": "四肢　汗出者",
+    "after": "四肢漐漐汗出者",
+    "expected_count": 1,
+    "reason": "jicheng 본문이 연면어 漐漐를 직접 보존",
+    "evidence": "jicheng 본문이 연면어 漐漐를 직접 보존"
+  },
+  {
+    "before": "內　作癇",
+    "after": "內瘹作癇",
+    "expected_count": 1,
+    "reason": "jicheng 본문 희귀 병증자 瘹 직접 대조",
+    "evidence": "jicheng 본문 희귀 병증자 瘹 직접 대조"
+  },
+  {
+    "before": "食積　傷",
+    "after": "食積癥傷",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "必見疳　氣滿形",
+    "after": "必見疳癥氣滿形",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "下腫足　",
+    "after": "下腫足胻",
+    "expected_count": 1,
+    "reason": "jicheng 본문 해부명 胻 직접 대조",
+    "evidence": "jicheng 본문 해부명 胻 직접 대조"
+  },
+  {
+    "before": "聲啞氣粗，肺　",
+    "after": "聲啞氣粗，肺瘻",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "在　痞必有形證",
+    "after": "在癥痞必有形證",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "即和　之分",
+    "after": "即和髎之分",
+    "expected_count": 1,
+    "reason": "手少陽 경혈 和髎, jicheng 직접 대조",
+    "evidence": "手少陽 경혈 和髎, jicheng 직접 대조"
+  },
+  {
+    "before": "動禾　",
+    "after": "動禾髎",
+    "expected_count": 1,
+    "reason": "手少陽 경혈 禾髎, jicheng 직접 대조",
+    "evidence": "手少陽 경혈 禾髎, jicheng 직접 대조"
+  },
+  {
+    "before": "為腎經之　穴",
+    "after": "為腎經之腧穴",
+    "expected_count": 1,
+    "reason": "경혈 용어 腧穴, jicheng 직접 대조",
+    "evidence": "경혈 용어 腧穴, jicheng 직접 대조"
+  },
+  {
+    "before": "足少陰所注為　地也",
+    "after": "足少陰所注為腧地也",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "脾脈外鼓沉為腸　",
+    "after": "脾脈外鼓沉為腸澼",
+    "expected_count": 1,
+    "reason": "《素問》 경문 腸澼 및 jicheng 대조",
+    "evidence": "《素問》 경문 腸澼 및 jicheng 대조"
+  },
+  {
+    "before": "與桃仁煎，下　血如豚肝",
+    "after": "與桃仁煎，下衃血如豚肝",
+    "expected_count": 1,
+    "reason": "jicheng 본문 희귀어 衃血 직접 대조",
+    "evidence": "jicheng 본문 희귀어 衃血 직접 대조"
+  },
+  {
+    "before": "溝渠溢滿，　沛妄行",
+    "after": "溝渠溢滿，霶沛妄行",
+    "expected_count": 1,
+    "reason": "연면어 霶沛, jicheng 직접 대조",
+    "evidence": "연면어 霶沛, jicheng 직접 대조"
+  },
+  {
+    "before": "督脈起於下極之　",
+    "after": "督脈起於下極之腧",
+    "expected_count": 1,
+    "reason": "《內經》 인용 및 jicheng 대조",
+    "evidence": "《內經》 인용 및 jicheng 대조"
+  },
+  {
+    "before": "故雖過無　",
+    "after": "故雖過無疴",
+    "expected_count": 1,
+    "reason": "바로 앞 운문 太無疴의 주석 반복, jicheng 대조",
+    "evidence": "바로 앞 운문 太無疴의 주석 반복, jicheng 대조"
+  },
+  {
+    "before": "腰及髖　下連陰痛",
+    "after": "腰及髖髎下連陰痛",
+    "expected_count": 1,
+    "reason": "경혈·해부명 髖髎, jicheng 대조",
+    "evidence": "경혈·해부명 髖髎, jicheng 대조"
+  },
+  {
+    "before": "沉痼　瘕仔細看",
+    "after": "沉痼癥瘕仔細看",
+    "expected_count": 1,
+    "reason": "병명 癥瘕, jicheng 대조",
+    "evidence": "병명 癥瘕, jicheng 대조"
+  },
+  {
+    "before": "太無　",
+    "after": "太無疴",
+    "expected_count": 1,
+    "reason": "운문의 無疴, jicheng 대조",
+    "evidence": "운문의 無疴, jicheng 대조"
+  },
+  {
+    "before": "重著　疼",
+    "after": "重著痠疼",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "胃氣　塞",
+    "after": "胃氣阨塞",
+    "expected_count": 1,
+    "reason": "jicheng 본문 희귀자 阨 직접 대조",
+    "evidence": "jicheng 본문 희귀자 阨 직접 대조"
+  },
+  {
+    "before": "腰背　疼",
+    "after": "腰背痠疼",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "寒熱　瘕察左關",
+    "after": "寒熱癥瘕察左關",
+    "expected_count": 1,
+    "reason": "병명 癥瘕, jicheng 대조",
+    "evidence": "병명 癥瘕, jicheng 대조"
+  },
+  {
+    "before": "見於肌肉間者曰　，結於隱癖處曰癖",
+    "after": "見於肌肉間者曰痃，結於隱癖處曰癖",
+    "expected_count": 1,
+    "reason": "痃癖 정의 및 jicheng 직접 대조",
+    "evidence": "痃癖 정의 및 jicheng 직접 대조"
+  },
+  {
+    "before": "雨　，燥金用事",
+    "after": "雨濛濛，燥金用事",
+    "expected_count": 1,
+    "reason": "jicheng 본문 운문 직접 대조",
+    "evidence": "jicheng 본문 운문 직접 대조"
+  },
+  {
+    "before": "男子為足軟腰　",
+    "after": "男子為足軟腰痠",
+    "expected_count": 1,
+    "reason": "jicheng 본문 직접 대조",
+    "evidence": "jicheng 본문 직접 대조"
+  },
+  {
+    "before": "志愈　，業愈精",
+    "after": "志愈耑，業愈精",
+    "expected_count": 1,
+    "reason": "jicheng 北京大學圖書館底본 跋 직접 대조",
+    "evidence": "jicheng 北京大學圖書館底본 跋 직접 대조"
   }
 ]

@@ -999,5 +999,141 @@
     "expected_count": 1,
     "reason": "같은 논설 내부의 반복 표기는 모두 ‘𠘧𠘧’이다.",
     "evidence": "https://www.donglishuzhai.net/chapter/8502.html"
+  },
+  {
+    "before": "緒元年三月上浣新安汪宏廣　氏書於西安航埠[/u]\n",
+    "after": "緒元年三月上浣新安汪宏廣菴氏書於西安航埠[/u]\n",
+    "expected_count": 1,
+    "reason": "서문의 서명 `汪宏廣菴氏`가 동일 저작 공개 전문에 확인된다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "서문의 서명 `汪宏廣菴氏`가 동일 저작 공개 전문에 확인된다."
+  },
+  {
+    "before": "與真。有疾音容俱轉變。無　色脈自調勻。常經萬世皆師",
+    "after": "與真。有疾音容俱轉變。無疴色脈自調勻。常經萬世皆師",
+    "expected_count": 1,
+    "reason": "유질·무아의 대구 `無疴色脈自調勻`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "유질·무아의 대구 `無疴色脈自調勻`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "肩背痛。汗出。尻陰股膝髀　足皆痛。虛則少氣不能報息",
+    "after": "肩背痛。汗出。尻陰股膝髀腨胻足皆痛。虛則少氣不能報息",
+    "expected_count": 1,
+    "reason": "《靈樞·經脈》 폐경 병후 `髀腨胻足皆痛`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "《靈樞·經脈》 폐경 병후 `髀腨胻足皆痛`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "目黃淚出。鼽衄。項背腰尻　腳皆痛。小指不用。為此諸",
+    "after": "目黃淚出。鼽衄。項背腰尻膕踹腳皆痛。小指不用。為此諸",
+    "expected_count": 1,
+    "reason": "족태양 경맥 병후 `腰尻膕踹腳皆痛`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "족태양 경맥 병후 `腰尻膕踹腳皆痛`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "腋腫。甚則胸脅支滿。心中　大動。面赤目黃。喜笑不休",
+    "after": "腋腫。甚則胸脅支滿。心中憺憺大動。面赤目黃。喜笑不休",
+    "expected_count": 1,
+    "reason": "심포경 병후 `心中憺憺大動`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "심포경 병후 `心中憺憺大動`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "病腰痛。不可以俯仰。丈夫　疝。婦人少腹腫。甚則嗌干",
+    "after": "病腰痛。不可以俯仰。丈夫㿉疝。婦人少腹腫。甚則嗌干",
+    "expected_count": 1,
+    "reason": "족궐음 경맥 병후의 `丈夫㿉疝`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "족궐음 경맥 병후의 `丈夫㿉疝`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "者。時過救之。恐不及也。　青者。肝病也。色微蒼。嗌",
+    "after": "者。時過救之。恐不及也。眥青者。肝病也。色微蒼。嗌",
+    "expected_count": 1,
+    "reason": "눈초리 색을 말하는 `眥青者`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "눈초리 색을 말하는 `眥青者`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "散者。病將愈。易治也。兩　有黃色起者。病方愈也。承",
+    "after": "散者。病將愈。易治也。兩眥有黃色起者。病方愈也。承",
+    "expected_count": 1,
+    "reason": "양쪽 눈초리를 뜻하는 `兩眥`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "양쪽 눈초리를 뜻하는 `兩眥`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "疸也。陰黃面色黧黑。冷汗　者。死證也。陽黃黃如煙熏",
+    "after": "疸也。陰黃面色黧黑。冷汗漐漐者。死證也。陽黃黃如煙熏",
+    "expected_count": 1,
+    "reason": "땀이 연이어 나는 모양 `冷汗漐漐`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "땀이 연이어 나는 모양 `冷汗漐漐`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "形如醉人。腹中煩重。皮目　而短氣者。脾中風也。眼皮",
+    "after": "形如醉人。腹中煩重。皮目瞤瞤而短氣者。脾中風也。眼皮",
+    "expected_count": 1,
+    "reason": "피부와 눈이 떨리는 병후 `皮目瞤瞤`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "피부와 눈이 떨리는 병후 `皮目瞤瞤`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "亦病焉。可比例交參也。此　目之形容也。\n\n[h3]",
+    "after": "亦病焉。可比例交參也。此眥目之形容也。\n\n[h3]",
+    "expected_count": 1,
+    "reason": "절의 결구 `此眥目之形容也`가 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "절의 결구 `此眥目之形容也`가 공개 전문과 일치한다."
+  },
+  {
+    "before": "之變者。切牙為邪入於胃。　齒為風入其經。下齒齲者手",
+    "after": "之變者。切牙為邪入於胃。齘齒為風入其經。下齒齲者手",
+    "expected_count": 1,
+    "reason": "이를 가는 증상 `齘齒`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "이를 가는 증상 `齘齒`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "者。絕候也。因疳積而發亂　者。可療。因氣竭而發直干",
+    "after": "者。絕候也。因疳積而發亂鬇鬡者。可療。因氣竭而發直干",
+    "expected_count": 1,
+    "reason": "머리털이 어지럽게 흐트러진 모양 `鬇鬡`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "머리털이 어지럽게 흐트러진 모양 `鬇鬡`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "痛。飧泄不化者。屬大腸。　脹經溲不利者。為脾。喘而",
+    "after": "痛。飧泄不化者。屬大腸。䐜脹經溲不利者。為脾。喘而",
+    "expected_count": 1,
+    "reason": "복부 팽창 병후 `䐜脹`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "복부 팽창 병후 `䐜脹`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "治。石水起臍以下至小腹。　然。上至胃脘者。死不治。",
+    "after": "治。石水起臍以下至小腹。腄腄然。上至胃脘者。死不治。",
+    "expected_count": 1,
+    "reason": "석수로 배가 늘어진 모양 `腄腄然`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "석수로 배가 늘어진 모양 `腄腄然`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "微似欲汗出者。風濕俱去。　如水流漓者。病必不除。黃",
+    "after": "微似欲汗出者。風濕俱去。漐漐如水流漓者。病必不除。黃",
+    "expected_count": 1,
+    "reason": "땀이 줄줄 흐르는 모양 `漐漐如水流漓`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "땀이 줄줄 흐르는 모양 `漐漐如水流漓`이며 공개 전문과 일치한다."
+  },
+  {
+    "before": "兩髀。腎有邪。其氣留於兩　。風勝則動。熱勝則腫。燥",
+    "after": "兩髀。腎有邪。其氣留於兩膕。風勝則動。熱勝則腫。燥",
+    "expected_count": 1,
+    "reason": "신사의 정체 부위 `兩膕`이며 공개 전문과 일치한다.",
+    "evidence_url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+    "evidence": "신사의 정체 부위 `兩膕`이며 공개 전문과 일치한다."
   }
 ]
