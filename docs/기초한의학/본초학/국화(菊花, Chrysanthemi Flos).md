@@ -76,9 +76,9 @@
 
 기국지황환(枸杞子·菊花·熟地黃 등)은 육미지황환(六味地黃丸)의 기본 방의(方義)에 구기자(枸杞子)와 국화(菊花)를 더한 처방으로, 육미지황환의 자보간신(滋補肝腎) 효능에 국화의 청간명목 작용을 더하여 시력 저하 및 안과 질환 치료에 특화된 처방으로 정리된다. 이 처방을 다룬 리뷰는 간과 신장의 음액이 부족하여 발생하는 시력 장애 환자에게 적용할 수 있으며, 단순한 음허 증상보다 안과적 증상이 두드러질 때 육미지황환보다 우선적으로 고려될 수 있다고 설명하였다.[^17] 기국지황환의 본태성 고혈압에 대한 효과를 체계적으로 고찰·메타분석한 국내 연구는 간신음허(肝腎陰虛)형 고혈압 환자에서 기국지황환 병용이 혈압 조절과 관련 증상 개선에 유의한 효과를 나타냄을 확인하여, 국화가 포함된 자보간신 처방이 음허형 고혈압의 보조 관리 수단으로 활용될 수 있음을 시사하였다.[^18]
 
-### 3-2. 오위소독음(五味消毒飲) — 청열해독(淸熱解毒) 배오(야국화)
+### 3-2. 오미소독음(五味消毒飲) — 청열해독(淸熱解毒) 배오(야국화)
 
-오위소독음(금은화·야국화·포공영·자화지정·자배천규자)은 청열해독약 계열의 대표 처방으로, 야국화(野菊花, C. indicum)가 핵심 구성 약재 중 하나로 배오된다. 이 처방의 경락 귀속·전통 효능·식물화학·품질관리·약리·임상 적용을 종합한 리뷰는 오위소독탕이 강력한 항염증·항균·항암 효과를 지녀 안면 여드름 치료 및 수술 후 감염 예방에 임상적으로 유용하게 적용될 수 있다고 정리하였으며, 처방 구성 약재가 대부분 차가운 성질(寒性)을 가지므로 환자의 체질에 따른 금기 사항을 신중히 고려해야 한다고 지적하였다.[^19] 이는 국화(및 근연 야국화)의 청열해독 효능이 단미(單味)뿐 아니라 복합 처방 수준에서도 임상적으로 재확인되는 사례로 참고할 수 있다.
+오미소독음(금은화·야국화·포공영·자화지정·자배천규자)은 청열해독약 계열의 대표 처방으로, 야국화(野菊花, C. indicum)가 핵심 구성 약재 중 하나로 배오된다. 이 처방의 경락 귀속·전통 효능·식물화학·품질관리·약리·임상 적용을 종합한 리뷰는 오미소독탕이 강력한 항염증·항균·항암 효과를 지녀 안면 여드름 치료 및 수술 후 감염 예방에 임상적으로 유용하게 적용될 수 있다고 정리하였으며, 처방 구성 약재가 대부분 차가운 성질(寒性)을 가지므로 환자의 체질에 따른 금기 사항을 신중히 고려해야 한다고 지적하였다.[^19] 이는 국화(및 근연 야국화)의 청열해독 효능이 단미(單味)뿐 아니라 복합 처방 수준에서도 임상적으로 재확인되는 사례로 참고할 수 있다.
 
 ### 3-3. 상국음(桑菊飮)류 — 소산풍열(疏散風熱) 배오
 
@@ -90,7 +90,7 @@
 |---|---|---|
 | 소산풍열·해표 | 상엽(桑葉) | 상국음(桑菊飮) |
 | 자보간신·명목 | 구기자(枸杞子)·숙지황(熟地黃) | 기국지황환(杞菊地黃丸)[^17][^18] |
-| 청열해독(야국화) | 금은화(金銀花)·포공영(蒲公英)·자화지정(紫花地丁) | 오위소독음(五味消毒飮)[^19] |
+| 청열해독(야국화) | 금은화(金銀花)·포공영(蒲公英)·자화지정(紫花地丁) | 오미소독음(五味消毒飮)[^19] |
 | 평간잠양 | 결명자(決明子)·구기자 | 안과·고혈압 관련 처방[^18] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 변증 없는 관행적 배오는 근거에 부합하지 않는다. 개별 환자의 증후(풍열표증인지, 간신음허인지, 열독치성인지)에 따라 국화의 배합 약재와 용법을 조정해야 한다.
@@ -244,7 +244,7 @@
 [^16]: Research progress on pharmacological effects against liver and eye diseases of flavonoids present in Chrysanthum indicum L., Chrysanthemum morifolium Ramat., Buddleja officinalis Maxim. and Sophora japonica L. Xiong S 외. _Journal of ethnopharmacology_. 2025-02-10. [문헌 고찰] [DOI 10.1016/j.jep.2024.119094](https://doi.org/10.1016/j.jep.2024.119094) [PMID 39532220](https://pubmed.ncbi.nlm.nih.gov/39532220/) — 청간명목 관련 4종 약재 플라보노이드의 간-안구 보호 기전 종합.
 [^17]: Qi Ju Di Huang Wan (Lycium Fruit, Chrysanthemum and Rehmannia Pill). Signe Beebe. _American Journal of Traditional Chinese Veterinary Medicine_. 2021-02-01. [문헌 고찰] [DOI 10.59565/bdhh8837](https://doi.org/10.59565/bdhh8837) — 기국지황환의 방의와 안과 적용 특화 근거.
 [^18]: 본태성 고혈압에 대한 杞菊地黄丸의 효과에 관한 체계적 고찰 및 메타 분석. 한인식 외. _동의생리병리학회지_. 2017-04. [체계적 고찰] [DOI 10.15188/kjopp.2017.04.31.2.118](https://doi.org/10.15188/kjopp.2017.04.31.2.118) — 국화 함유 기국지황환의 간신음허형 고혈압 개선 효과에 대한 체계적 근거.
-[^19]: A comprehensive review of the classical prescription Wuwei Xiaodu Decoction: meridian tropism and traditional efficacy, phytochemistry, quality control, pharmacology and clinical applications. Li X 외. _Journal of ethnopharmacology_. 2026-05-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.121298](https://doi.org/10.1016/j.jep.2026.121298) [PMID 41621763](https://pubmed.ncbi.nlm.nih.gov/41621763/) — 야국화가 배오된 오위소독음의 청열해독 효능 종합.
+[^19]: A comprehensive review of the classical prescription Wuwei Xiaodu Decoction: meridian tropism and traditional efficacy, phytochemistry, quality control, pharmacology and clinical applications. Li X 외. _Journal of ethnopharmacology_. 2026-05-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.121298](https://doi.org/10.1016/j.jep.2026.121298) [PMID 41621763](https://pubmed.ncbi.nlm.nih.gov/41621763/) — 야국화가 배오된 오미소독음의 청열해독 효능 종합.
 [^20]: 문헌 연구와 실험 연구의 분석을 통한구기자와 감국의 안과질환에 대한 활용. 김봉현 외. _한방안이비인후피부과학회지_. 2018-05. [문헌 고찰] [DOI 10.6114/jkood.2018.31.2.001](https://doi.org/10.6114/jkood.2018.31.2.001) — 구기자·감국(국화)의 안과질환 활용 근거를 문헌·실험연구로 정리.
 [^21]: [A multicenter, randomized, double-masked, placebo-controlled trial of compound wild chrysanthemum eye masks for mild and moderate dry eye]. Wu JL 외. _Chinese journal of ophthalmology_. 2021-08-11. [임상시험] [DOI 10.3760/cma.j.cn112142-20210413-00173](https://doi.org/10.3760/cma.j.cn112142-20210413-00173) [PMID 34344121](https://pubmed.ncbi.nlm.nih.gov/34344121/) — 야국화 안첩의 경도·중등도 안구건조증 개선 다기관 RCT.
 [^22]: [Observation on therapeutic effect of runmushu oral liquid in treating xerophthalmia in postmenopausal women]. Wei D 외. _Chinese journal of integrated traditional and Western medicine_. 2009-07. [임상시험] [PMID 19852302](https://pubmed.ncbi.nlm.nih.gov/19852302/) — 국화 등 청간명목 약재 포함 윤목수구강액의 안구건조증 개선 임상시험.
