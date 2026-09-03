@@ -140,7 +140,7 @@ med.symbolicinfo.com 데이터베이스에서 "정전가미이진탕", "Gamiyiji
 
 ### 18. 비만형 다낭성 난소 증후군(PCOS)에서의 담습(痰濕) 치법 근거
 
-비만형 PCOS는 담습저체(痰濕阻滯) 변증이 흔히 동반되는 대표적 영역으로, 건비보신화담(健脾補腎化痰) 원칙의 한약을 정리한 네트워크 메타분석에서는 비만형 PCOS에 대한 다양한 처방의 효능이 비교되어, 전반적 효능은 기황증민탕, BMI 감소는 창부다단탕, 인슐린 저항성 개선은 건비보신방, 테스토스테론 감소는 합석산 병용 시 유리한 것으로 나타났다[^49]. 이 연구에서 다룬 창부다단탕(蒼附導痰湯) 계열 처방은 창출·향부자를 군약으로 하는 담습 치법의 전형으로, 정전가미이진탕의 창출·향부자 가미 방향과 이론적으로 상통한다. Guijiaosan(귀가산) 신궐혈(神闕穴) 패치 요법을 담습저체 변증의 비만형 PCOS 환자에게 병용한 임상시험에서는 체중 감소·내분비 기능 개선·인슐린 저항성 완화 효과가 확인되었다[^44].
+비만형 PCOS는 담습저체(痰濕阻滯) 변증이 흔히 동반되는 대표적 영역으로, 건비보신화담(健脾補腎化痰) 원칙의 한약을 정리한 네트워크 메타분석에서는 비만형 PCOS에 대한 다양한 처방의 효능이 비교되어, 전반적 효능은 기황증민탕, BMI 감소는 창부도담탕, 인슐린 저항성 개선은 건비보신방, 테스토스테론 감소는 합석산 병용 시 유리한 것으로 나타났다[^49]. 이 연구에서 다룬 창부도담탕(蒼附導痰湯) 계열 처방은 창출·향부자를 군약으로 하는 담습 치법의 전형으로, 정전가미이진탕의 창출·향부자 가미 방향과 이론적으로 상통한다. Guijiaosan(귀가산) 신궐혈(神闕穴) 패치 요법을 담습저체 변증의 비만형 PCOS 환자에게 병용한 임상시험에서는 체중 감소·내분비 기능 개선·인슐린 저항성 완화 효과가 확인되었다[^44].
 
 ### 19. 개별 처방·성분 수준의 비만 임상시험
 
@@ -251,7 +251,7 @@ RCM-104라는 복합 한약 제제의 무작위 위약대조 임상시험에서�
 
 **Q3. 정전가미이진탕 자체를 직접 다룬 임상 논문이 있는가?**
 
-med.symbolicinfo.com 데이터베이스 검색 결과, "정전가미이진탕"이라는 처방명을 직접 다룬 국제 학술 논문은 확인되지 않았다. 이는 이 처방이 한국 한의원 임상에서 관행적으로 활용되어 온 상대적으로 협소한 처방이기 때문으로 판단된다. 본 문서는 대신 처방을 구성하는 개별 약물, 유사 처방(황련해독탕·감비산·창부다단탕 등), 담음형 비만 전반에 대한 근거를 종합하여 처방의 치법적 타당성을 뒷받침하였다. 이는 정직하게 인정해야 할 근거의 한계다.
+med.symbolicinfo.com 데이터베이스 검색 결과, "정전가미이진탕"이라는 처방명을 직접 다룬 국제 학술 논문은 확인되지 않았다. 이는 이 처방이 한국 한의원 임상에서 관행적으로 활용되어 온 상대적으로 협소한 처방이기 때문으로 판단된다. 본 문서는 대신 처방을 구성하는 개별 약물, 유사 처방(황련해독탕·감비산·창부도담탕 등), 담음형 비만 전반에 대한 근거를 종합하여 처방의 치법적 타당성을 뒷받침하였다. 이는 정직하게 인정해야 할 근거의 한계다.
 
 **Q4. 조각(皂角)이 들어가는데 안전한가?**
 
@@ -326,7 +326,7 @@ med.symbolicinfo.com 데이터베이스 검색 결과, "정전가미이진탕"�
 [^46]: [Observation on therapeutic effect of acupoint sticking therapy on simple obesity]. Yin LL 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2008-06. [임상시험, 108명] [PMID 18630534](https://pubmed.ncbi.nlm.nih.gov/18630534/) — 혈점 부착 요법(한약 플라스터)이 단순 비만 환자의 체중·BMI·허리둘레·임상 증상을 개선하는 데 효과적이었다.
 [^47]: Effects of electroacupuncture and Chinese kidney-nourishing medicine on polycystic ovary syndrome in obese patients. Yu L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2013-06. [임상시험, 67명] [DOI 10.1016/s0254-6272(13)60166-1](https://doi.org/10.1016/s0254-6272(13)60166-1) [PMID 24024320](https://pubmed.ncbi.nlm.nih.gov/24024320/) — 전침과 보신 한약제제 병행이 전침 단독보다 체중 감소·인슐린 민감성·아디포넥틴 개선에 더 효과적이었다.
 [^48]: The Effects and Safety of Chinese Herbal Medicine on Blood Lipid Profiles in Placebo-Controlled Weight-Loss Trials: A Systematic Review and Meta-Analysis. Ann Rann Wong 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-01-17. [메타분석, 1533명] [DOI 10.1155/2022/1368576](https://doi.org/10.1155/2022/1368576) — 한약 처방이 과체중·비만 환자의 중성지방을 감소시키고 HDL 콜레스테롤을 증가시키는 지질 조절 효과를 보였다.
-[^49]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. Yueqiao Lyu 외. _Frontiers in Medicine_. 2025-07-28. [메타분석, 1163명] [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131) — 건비보신화담 원칙의 한약이 비만형 PCOS 환자의 증상 개선에 효과적이며, 창부다단탕 계열이 BMI 감소에 유리하였다.
+[^49]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. Yueqiao Lyu 외. _Frontiers in Medicine_. 2025-07-28. [메타분석, 1163명] [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131) — 건비보신화담 원칙의 한약이 비만형 PCOS 환자의 증상 개선에 효과적이며, 창부도담탕 계열이 BMI 감소에 유리하였다.
 [^50]: Effectiveness of herbal medicines for weight loss: A systematic review and meta-analysis of randomized controlled trials. Maunder A 외. _Diabetes, obesity & metabolism_. 2020-06. [메타분석] [DOI 10.1111/dom.13973](https://doi.org/10.1111/dom.13973) [PMID 31984610](https://pubmed.ncbi.nlm.nih.gov/31984610/) — 다양한 한약재가 체중 감량에 사용되지만, 대다수가 임상적으로 유의미한(2.5kg 이상) 체중 감소를 입증하지 못했다.
 [^51]: Meta-analysis of Tuina combined with other treatments for obesity. Zhang TY 외. _Medicine_. 2025-06-13. [메타분석, 695명] [DOI 10.1097/MD.0000000000042720](https://doi.org/10.1097/MD.0000000000042720) [PMID 40527832](https://pubmed.ncbi.nlm.nih.gov/40527832/) — 추나를 이침이나 침 치료와 병행하는 것이 비만 환자의 체중·BMI 감소에 효과적임을 시사한다.
 [^52]: Comparison of efficacy of acupuncture-related therapy in the treatment of perimenopausal obesity: a network meta-analysis of randomized controlled trials. Wang L 외. _Frontiers in medicine_. 2025. [메타분석, 1268명] [DOI 10.3389/fmed.2025.1642421](https://doi.org/10.3389/fmed.2025.1642421) [PMID 41377806](https://pubmed.ncbi.nlm.nih.gov/41377806/) — 폐경전기 비만 여성에게 침 관련 요법이 양약·한약보다 전반적 임상 효과가 우수하였다.
