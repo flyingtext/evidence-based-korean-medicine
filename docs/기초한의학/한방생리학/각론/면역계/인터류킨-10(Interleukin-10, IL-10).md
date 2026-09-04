@@ -134,7 +134,7 @@ IL-10/IL10RA 결핍에 의한 영아기 발병 IBD는 일반적인 면역억제�
 
 #### 16-3. 병태생리
 
-패혈증에서 IL-10은 초기 과도한 전신 염증반응을 가라앉히는 보상적 항염증 반응(compensatory anti-inflammatory response syndrome, CARS)의 핵심 매개물질이지만, 그 상승 정도가 지나치면 오히려 면역마비를 유발하는 예후 불량 인자로 작용하는 이중적 성격을 지닌다. 패혈증 관련 뇌증(sepsis-associated encephalopathy)에서 IL-6>5000pg/mL·IL-10>1000pg/mL·헤파린결합단백(HBP)>300ng/mL의 조합이 조기 진단과 28일 사망률 예측에 유용하다는 관찰연구[^96]는, IL-10의 과도한 상승 자체가 중증도의 지표로 활용될 수 있음을 보여준다. 신부주사액(參附注射液 계열)이 중증패혈증에서 APACHE II 점수·IL-6·CRP를 유의하게 낮췄으나 28일 사망률과 IL-10 수치에는 유의한 차이가 없었다는 임상시험[^73]은, 사이토카인 지표 하나의 변화가 곧바로 생존율 개선으로 이어지지는 않을 수 있음을 정직하게 보여주는 근거다.
+패혈증에서 IL-10은 초기 과도한 전신 염증반응을 가라앉히는 보상적 항염증 반응(compensatory anti-inflammatory response syndrome, CARS)의 핵심 매개물질이지만, 그 상승 정도가 지나치면 오히려 면역마비를 유발하는 예후 불량 인자로 작용하는 이중적 성격을 지닌다. 패혈증 관련 뇌증(sepsis-associated encephalopathy)에서 IL-6>5000pg/mL·IL-10>1000pg/mL·헤파린결합단백(HBP)>300ng/mL의 조합이 조기 진단과 28일 사망률 예측에 유용하다는 관찰연구[^96]는, IL-10의 과도한 상승 자체가 중증도의 지표로 활용될 수 있음을 보여준다. 삼부주사액(參附注射液 계열)이 중증패혈증에서 APACHE II 점수·IL-6·CRP를 유의하게 낮췄으나 28일 사망률과 IL-10 수치에는 유의한 차이가 없었다는 임상시험[^73]은, 사이토카인 지표 하나의 변화가 곧바로 생존율 개선으로 이어지지는 않을 수 있음을 정직하게 보여주는 근거다.
 
 #### 16-4. 치료
 
@@ -144,7 +144,7 @@ IL-10/IL10RA 결핍에 의한 영아기 발병 IBD는 일반적인 면역억제�
 
 #### 16-5. 예후
 
-패혈증의 예후는 원인 병원체·조기 항생제 투여 시점·장기부전 정도에 크게 좌우되며, IL-10을 포함한 사이토카인 프로파일이 예후 예측에 실용적으로 활용될 수 있다[^94][^96]. 신부주사액 병용이 임상 지표는 개선했으나 사망률 자체를 유의하게 낮추지는 못했다는 근거[^73]는 사이토카인 지표 개선과 생존율 개선을 동일시해서는 안 됨을 시사한다.
+패혈증의 예후는 원인 병원체·조기 항생제 투여 시점·장기부전 정도에 크게 좌우되며, IL-10을 포함한 사이토카인 프로파일이 예후 예측에 실용적으로 활용될 수 있다[^94][^96]. 삼부주사액 병용이 임상 지표는 개선했으나 사망률 자체를 유의하게 낮추지는 못했다는 근거[^73]는 사이토카인 지표 개선과 생존율 개선을 동일시해서는 안 됨을 시사한다.
 
 #### 16-6. 관리
 
@@ -497,7 +497,7 @@ IL-10 관련 이상이 의심되는 임상 상황의 감별진단표는 다음�
 [^70]: Immune dysregulation in endometrial tuberculosis: elevated HLA-G and IL-1Ra as key modulators. Huang D 외. _Frontiers in cellular and infection microbiology_. 2025. [관찰연구, 20명] [DOI 10.3389/fcimb.2025.1548238](https://doi.org/10.3389/fcimb.2025.1548238) [PMID 40375897](https://pubmed.ncbi.nlm.nih.gov/40375897/) — 자궁내막결핵은 폐결핵보다 HLA-G·IL-1Ra·IL-10 등 면역조절인자 발현이 높아 국소 면역관용 기전이 강하게 작동함.
 [^71]: Multiple cytokine analysis based on QuantiFERON-TB gold plus in different tuberculosis infection status: an exploratory study. Zhang L 외. _BMC infectious diseases_. 2024-01-02. [관찰연구, 55명] [DOI 10.1186/s12879-023-08943-0](https://doi.org/10.1186/s12879-023-08943-0) [PMID 38166667](https://pubmed.ncbi.nlm.nih.gov/38166667/) — QFT-Plus 기반 다중 사이토카인 분석에서 IP-10·IL-1Ra가 결핵 감염상태 감별에 IFN-γ 단독보다 유용함.
 [^72]: Immunomodulation with recombinant interferon-gamma1b in pulmonary tuberculosis. Dawson R 외. _PloS one_. 2009-09-15. [임상시험, 89명] [DOI 10.1371/journal.pone.0006984](https://doi.org/10.1371/journal.pone.0006984) [PMID 19753300](https://pubmed.ncbi.nlm.nih.gov/19753300/) — 공동성 폐결핵에 재조합 인터페론감마1b 보조요법이 폐내 염증사이토카인을 낮추고 균음전을 촉진.
-[^73]: [Clinical efficacy of shenfu injection in treating severe sepsis and its effects on serum levels of interleukin-6 and interleukin-10]. Qiu ZL 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-03. [임상시험, 68명] [PMID 22686081](https://pubmed.ncbi.nlm.nih.gov/22686081/) — 신부주사액이 중증패혈증에서 APACHE II·IL-6·CRP를 유의하게 낮췄으나 28일 사망률·IL-10에는 유의한 차이가 없었음.
+[^73]: [Clinical efficacy of shenfu injection in treating severe sepsis and its effects on serum levels of interleukin-6 and interleukin-10]. Qiu ZL 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-03. [임상시험, 68명] [PMID 22686081](https://pubmed.ncbi.nlm.nih.gov/22686081/) — 삼부주사액이 중증패혈증에서 APACHE II·IL-6·CRP를 유의하게 낮췄으나 28일 사망률·IL-10에는 유의한 차이가 없었음.
 [^74]: Dominant-negative mutations in the DNA-binding domain of STAT3 cause hyper-IgE syndrome. Minegishi Y 외. _Nature_. 2007-08-30. [실험연구] [DOI 10.1038/nature06096](https://doi.org/10.1038/nature06096) [PMID 17676033](https://pubmed.ncbi.nlm.nih.gov/17676033/) — STAT3 DNA결합영역의 우성음성 돌연변이가 IL-6·IL-10 등 사이토카인 신호전달을 저해해 고IgE증후군을 유발함을 규명.
 [^75]: The Impact of Complementary Cupping Therapy on Immunity Changes (Interleukin-10) in Coastal Fishermen with Hypertension. Indriono Hadi 외. _Poltekita: Jurnal Ilmu Kesehatan_. 2025-03-30. [임상시험, 40명] [DOI 10.33860/jik.v19i1.3921](https://doi.org/10.33860/jik.v19i1.3921) — 습식부항이 고혈압 환자의 혈압을 낮추고 IL-10을 높이는 보조적 면역조절 효과를 보인 소규모 임상시험.
 [^76]: Interleukin-10 genotype correlated to deficiency syndrome in hepatitis B cirrhosis. Li QY 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [관찰연구, 343명] [DOI 10.1155/2012/298925](https://doi.org/10.1155/2012/298925) [PMID 22690243](https://pubmed.ncbi.nlm.nih.gov/22690243/) — B형간염 간경변 환자에서 IL-10-819C/T 유전자형이 한의학적 허증 변증과 유의하게 연관됨을 보인 근거.

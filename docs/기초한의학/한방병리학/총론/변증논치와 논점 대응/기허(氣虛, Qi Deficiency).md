@@ -696,7 +696,7 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 
 > 심부전 신찬통맥 과립 280명 다기관시험 [^50][^71]·심부전 심복리과립 356명 시험 [^15]·심부전 기허혈어 238명 시험 [^16]·심부전 부심리과립 150명 시험 [^68]·심부전 신기보기과립 단백체 분석 [^70]·심부전 참부주사 160명 시험 [^65]·심부전 기허혈어 변증 200명 관찰 [^72]·심실기수축 심비허증 귀비혼합물 200명 프로토콜 [^62]·협심증 통심서캡슐 120명 시험 [^69]·협심증 기허혈어 보기양혈 160명 시험 [^14]·협심증 240명 신락통편 시험 [^90]·협심증 240명 복로보심평 시험 [^91]·협심증 158명 이안령캡슐 시험 [^87]·협심증 239명 신락통편 LDL·심박 분석 [^92]·협심증 보중익기탕 계열 비교효과 160명 [^93]·협심증 안정형 기허혈어 120명 통심서캡슐 [^69]·협심증 기허혈어 이안령 158명 [^87]·안정형 협심증 154명 이안령캡슐 [^94]·허혈성 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 단기 예후 기허·화열 변증 예측 [^23]·기허혈어 뇌졸중 회복기 뇌심통 캡슐 [^95]·심뇌혈관 질환 보기보혈 중약 정리 [^66]·심부전 한약 RCT 결과 지표 체계적 고찰 [^96]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기허혈어·기음양허·심양허 등 병형에 따라 처방이 다르다 [^34].
 >
-> 심부전 중약 주사제 5종(신부·신맥·생맥·단홍·황기)의 변증별 메타분석 [^145]·심부전 신맥롱 주사액 2104명 다기관시험 [^149]·심부전 신부강심환 352명 위약대조시험 [^150]·심부전 황기과립 용량-반응 90명 시험 [^151]·심부전 급성악화기 신부주사제 160명 위약대조시험 [^152]·기허혈어 흉비증후군 양심탕+침 체계적 고찰 프로토콜 [^146]·기허혈어 뇌경색·협심증 뇌신통 캡슐 종합평가 [^147]·기허담탁형 심방세동 화담정기탕 프로토콜 [^148]이 추가로 보고되어, 심부전·협심증·부정맥 전 영역에서 변증별 보기 치료의 근거가 축적되고 있음을 보여준다.
+> 심부전 중약 주사제 5종(신부·신맥·생맥·단홍·황기)의 변증별 메타분석 [^145]·심부전 신맥롱 주사액 2104명 다기관시험 [^149]·심부전 신부강심환 352명 위약대조시험 [^150]·심부전 황기과립 용량-반응 90명 시험 [^151]·심부전 급성악화기 삼부주사제 160명 위약대조시험 [^152]·기허혈어 흉비증후군 양심탕+침 체계적 고찰 프로토콜 [^146]·기허혈어 뇌경색·협심증 뇌신통 캡슐 종합평가 [^147]·기허담탁형 심방세동 화담정기탕 프로토콜 [^148]이 추가로 보고되어, 심부전·협심증·부정맥 전 영역에서 변증별 보기 치료의 근거가 축적되고 있음을 보여준다.
 
 **침구**: 심수(BL15)·폐수(BL13)·내관(PC6)·신문(HT7)·전중(CV17)·족삼리(ST36)·삼음교(SP6). 심부전·협심증·부정맥에서 내관(PC6)·족삼리(ST36) 보법이 핵심. 심기허·기허혈어에는 혈해(SP10)·격유(BL17) 배합. 내관 혈위 주사 황기주사액 200명 시험 [^80]이 보고되었다.
 
@@ -1587,7 +1587,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^151]: Clinical effect of Astragalus granule of different dosages on quality of life in patients with chronic heart failure. Yang QY 외. _Chinese journal of integrative medicine_. 2011-02. [임상시험] [DOI 10.1007/s11655-011-0647-9](https://doi.org/10.1007/s11655-011-0647-9) [PMID 21390582](https://pubmed.ncbi.nlm.nih.gov/21390582/) — 만성심부전 환자 90명에서 황기과립이 삶의 질·심기능을 개선했고, 고용량일수록 보행거리·삶의 질 개선이 더 뚜렷한 용량-반응 관계를 보임.
 
-[^152]: Randomized, Double-Blinded, Multicenter, Placebo-Controlled Trial of Shenfu Injection for Treatment of Patients with Chronic Heart Failure during the Acute Phase of Symptom Aggravation (Yang and Qi Deficiency Syndrome). Wang X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험] [DOI 10.1155/2019/9297163](https://doi.org/10.1155/2019/9297163) [PMID 30930952](https://pubmed.ncbi.nlm.nih.gov/30930952/) — 양기·기허 증후군의 급성 악화기 만성심부전 환자 160명에서 신부주사제 병용이 심기능·임상증상·삶의 질을 유의하게 개선.
+[^152]: Randomized, Double-Blinded, Multicenter, Placebo-Controlled Trial of Shenfu Injection for Treatment of Patients with Chronic Heart Failure during the Acute Phase of Symptom Aggravation (Yang and Qi Deficiency Syndrome). Wang X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험] [DOI 10.1155/2019/9297163](https://doi.org/10.1155/2019/9297163) [PMID 30930952](https://pubmed.ncbi.nlm.nih.gov/30930952/) — 양기·기허 증후군의 급성 악화기 만성심부전 환자 160명에서 삼부주사제 병용이 심기능·임상증상·삶의 질을 유의하게 개선.
 
 [^153]: Efficacy of Bimin decoction for patients with perennial allergic rhinitis: an open-label non-inferiority randomized controlled trial. Zhao J 외. _Trials_. 2019-12-30. [임상시험] [DOI 10.1186/s13063-019-3763-z](https://doi.org/10.1186/s13063-019-3763-z) [PMID 31888713](https://pubmed.ncbi.nlm.nih.gov/31888713/) — 폐기허한증형 다년성 알레르기 비염 환자 108명에서 비민탕이 로라타딘+플루티카손 병용과 비열등한 효과를 보였고 삶의 질(RQLQ) 개선에서 우세.
 

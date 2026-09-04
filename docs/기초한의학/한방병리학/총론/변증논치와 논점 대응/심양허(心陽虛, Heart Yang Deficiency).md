@@ -420,7 +420,7 @@
 
 > **참고 근거** — 통양부맥탕이 동결절병(서맥성부정맥) 환자에서 대조군(테오필린)보다 평균 심박수 증가·최장 R-R 간격 단축·삶의 질(SF-36)·불안(SAS)·우울(SDS) 개선에서 유의하게 우수했다[^107]. 인공심박동기 삽입이 불가능하거나 거부하는 동결절부전증후군 환자에게 수매령구복액을 투여해 1일 만에 임상증상·홀터 지표가 회복된 증례도 있다[^106]. 다만 이들은 인공심박동기 삽입의 명백한 적응증(실신·심한 증상성 서맥)이 있는 환자를 대체하는 근거가 아니라, **삽입이 지연되거나 불가능한 경증~중등도 환자의 보조·가교 치료** 로 이해해야 한다.
 
-#### 10-7. 신부강심환(神福強心丸)·신부주사(蔘附注射液) 계열 — 현대 경험방·주사제
+#### 10-7. 신부강심환(神福強心丸)·삼부주사(蔘附注射液) 계열 — 현대 경험방·주사제
 
 심신양허형 만성심부전을 표적으로 하는 현대 경험방으로, 다기관 위약대조 RCT 프로토콜이 등록되어 NT-proBNP·NYHA 등급을 지표로 평가되고 있다[^74]. 삼부주사(蔘附注射液)는 인삼·부자를 정맥 주사 가능한 형태로 제제화한 것으로, 삼부탕(參附湯)의 현대적 임상 적용에 해당하며 상세 근거는 10-2절 및 제4편 4-4·4-5군에서 다룬다.
 
@@ -933,7 +933,7 @@
 [^54]: Effect of Danqi Buxin Decoction on Chronic Function Indexes and Life Quality in Patients with Chronic Heart Failure of Yang Deficiency Type. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] — 단기보심탕 병용이 양허형 만성심부전의 심기능·삶의 질을 개선한 임상시험.
 [^55]: A study of the immunofunction in patients of coronary heart disease with the fundamental deficiency and outward excess syndrome. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1989-12. [관찰연구] — 관상동맥질환 본허외실 변증의 세포성·체액성 면역 특징을 밝힌 관찰연구.
 [^56]: [Methylation in Promoter Region of SLC6A2 Gene in Heart Failure Patients and Its Correlation with Qi Deficiency/Blood Stasis Syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi_. 2015-12. [관찰연구] — 심부전 환자의 SLC6A2 유전자 메틸화가 기허혈어 점수와 정적 상관을 보인 후성유전학 연구.
-[^57]: Randomized, Double-Blinded, Multicenter, Placebo-Controlled Trial of Shenfu Injection for Treatment of Patients with Chronic Heart Failure during the Acute Phase of Symptom Aggravation (Yang and Qi Deficiency Syndrome). _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험] — 삼부주사(신부주사)가 양기허 증후군을 동반한 심부전 급성악화기 환자의 NYHA·증후점수·보행거리를 개선한 다기관 위약대조 이중맹검 RCT — 삼부탕의 현대 주사제형 근거.
+[^57]: Randomized, Double-Blinded, Multicenter, Placebo-Controlled Trial of Shenfu Injection for Treatment of Patients with Chronic Heart Failure during the Acute Phase of Symptom Aggravation (Yang and Qi Deficiency Syndrome). _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험] — 삼부주사(삼부주사)가 양기허 증후군을 동반한 심부전 급성악화기 환자의 NYHA·증후점수·보행거리를 개선한 다기관 위약대조 이중맹검 RCT — 삼부탕의 현대 주사제형 근거.
 [^59]: Screening differentially expressed proteins of coronary heart disease with congenital cold syndrome based on tandem mass tag (TMT) technology. _Bioengineered_. 2021-12. [실험연구] — 관상동맥질환 선천성 오한 증후군(심양허 유사)의 단백체 마커를 발굴한 실험연구.
 [^62]: The application of yin-yang concept on heart rate variability patterns in menopausal women with insomnia. _Chinese journal of integrative medicine_. 2016-06-29. [관찰연구] — 폐경기 불면증 환자의 HRV 패턴을 음양·허실로 분류 — 허증군이 HRV 저하·수면잠복기 연장을 보임.
 [^64]: [Effect of "tranquilization needling" on the sleep quality in patients with insomnia of heart-spleen deficiency type]. _Zhen ci yan jiu = Acupuncture research_. 2010-06. [임상시험] — 안신침법이 심비양허형 불면증의 수면의 질을 팔맥교회혈보다 유의하게 개선한 임상시험.

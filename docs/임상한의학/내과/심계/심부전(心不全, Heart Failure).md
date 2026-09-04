@@ -57,7 +57,7 @@
 - 서양의학적으로 심부전은 심근 수축·이완 기능 저하, 신경호르몬계(RAAS·교감신경) 과활성, 염증·산화 스트레스, 심근 섬유화·리모델링 등이 복합적으로 작용하여 진행한다.[^1][^19]
 - 한약(韓藥)은 다성분-다표적(multi-component, multi-target) 작용으로 심근 보호, 항염증·항산화, 심근 섬유화 억제, 신경호르몬계 조절 등을 통해 심부전 진행을 늦춘다.[^19][^20]
 - 황기(黃芪)는 세포사멸 관련 인자(sFas·sFasL·TNF-α)를 감소시켜 심근 세포사멸을 억제하고 심기능을 회복시킨다.[^11]
-- 신부주사액(參附注射液)은 BNP·III형 전교원 아미노말단 펩티드(NP III)를 감소시켜 심근 허혈/재관류 손상을 보호하고 심근 섬유화를 억제한다.[^21]
+- 삼부주사액(參附注射液)은 BNP·III형 전교원 아미노말단 펩티드(NP III)를 감소시켜 심근 허혈/재관류 손상을 보호하고 심근 섬유화를 억제한다.[^21]
 - 오령산(五苓散)은 아쿠아포린(aquaporin) 시스템을 통해 체내 수분 균형을 조절하여 신장에 부담을 주지 않고 체액 정체를 개선한다.[^8][^22]
 - 초여과(ultrafiltration) 치료는 급성 심부전 환자의 한의학적 변증 상태를 변화시키며, 대사체학적 분석으로 17가지 잠재적 바이오마커와 관련 대사 경로가 확인되어 변증-치료반응 상관의 객관적 근거를 제시한다(관찰연구, 17명).[^83]
 - 중의학은 장내 미생물군(gut microbiota) 및 그 대사물질을 조절함으로써 만성 심부전의 경과를 안정시키고 심장 기능을 개선할 수 있음을 시사하는 기전 연구가 축적되고 있다(문헌 고찰).[^103]
@@ -124,7 +124,7 @@
 - 신부리과립(心復力顆粒, Xinfuli)은 기허혈어 만성 심부전 환자에게 사망·입원 위험을 유의하게 감소시키고 LVEF·NT-proBNP·삶의 질을 개선하며 우울·불안 완화에도 효과적이다(무작위 대조 시험, 356명).[^12]
 - 황기주사액(黃芪注射液, Astragalus injection)은 만성 심부전 환자의 세포사멸 관련 인자와 면역 상태(CD4·CD4/CD8)를 개선하고 LVEF를 증가시킨다(임상시험).[^11][^26]
 - 신맥주사액(參麥注射液, Shenmai injection)은 울혈성 심부전·확장성 심근병증 환자의 혈역학적 지표와 심기능을 개선한다(임상시험).[^15][^27]
-- 신부주사액(參附注射液, Shenfu injection)은 급성 심근경색 환자에게 BNP·NP III를 감소시켜 심근 허혈/재관류 손상을 보호한다(임상시험, 93명).[^21]
+- 삼부주사액(參附注射液, Shenfu injection)은 급성 심근경색 환자에게 BNP·NP III를 감소시켜 심근 허혈/재관류 손상을 보호한다(임상시험, 93명).[^21]
 - 오령산(五苓散, Oryeongsan)은 심부전 환자에게 표준 치료와 병용 시 LVEF·심기능·삶의 질을 개선하고 이뇨제 부작용을 보완한다(체계적 고찰·메타분석, 5,069명).[^8]
 - 목보이탕(木防已湯, Mokuboito)은 급성 심부전 환자의 임상 증상·울혈을 개선하고, 장기 투여 시 주요 심혈관 사건(MACE) 발생률을 유의하게 감소시킨다(임상시험·관찰연구).[^10][^28]
 - 부정양심과립(扶正養心顆粒, Fuzheng Yangxin)은 기음양허·혈어 HFpEF 환자 대상 무작위 대조 시험 프로토콜이 진행 중이다.[^7]
@@ -151,11 +151,11 @@
 - 칠리강심(七釐强心, Qiliqiangxin) 캡슐은 표준 치료와 병용 시 심부전 환자의 심혈관 사건 발생·재입원율을 유의하게 낮추고 삶의 질·심기능을 개선한다(메타분석, 11,547명).[^145]
 - PCI 시술 후 급성 관상동맥증후군 환자에게 기혈을 보하고 혈행을 개선하는 한약 치료를 표준 치료와 병행하면 장기적으로 주요 심혈관 사건(MACE)·재입원율을 유의하게 낮출 수 있다(다기관 무작위 대조 시험, 702명).[^146]
 
-### 15. 기허혈어·양허수범 변증 대표 처방 각론 — 생맥산·신부주사액·황기 계열
+### 15. 기허혈어·양허수범 변증 대표 처방 각론 — 생맥산·삼부주사액·황기 계열
 
 - 생맥산(生脈散)을 표준 치료와 병용 투여했을 때 심부전 환자의 NYHA 기능적 분류가 유의하게 개선되고 사망률·TNF-α 수치가 낮아진다(코크란 체계적 고찰).[^127][^138]
-- 신부주사액(參附注射液)은 관상동맥질환으로 인한 만성 심부전 환자의 심박출량·좌심실 박출률 등 수축 기능을 유의하게 개선시키며, 말초혈액 CD34+ 줄기세포 동원을 촉진한다(임상시험, 63명).[^128]
-- 신부주사액을 병용하는 것이 심부전 환자의 임상적 유효율·사망률·심기능(NT-proBNP·6분 보행 거리)에 긍정적인 효과가 있다는 메타분석이 보고된다.[^74]
+- 삼부주사액(參附注射液)은 관상동맥질환으로 인한 만성 심부전 환자의 심박출량·좌심실 박출률 등 수축 기능을 유의하게 개선시키며, 말초혈액 CD34+ 줄기세포 동원을 촉진한다(임상시험, 63명).[^128]
+- 삼부주사액을 병용하는 것이 심부전 환자의 임상적 유효율·사망률·심기능(NT-proBNP·6분 보행 거리)에 긍정적인 효과가 있다는 메타분석이 보고된다.[^74]
 - 신맥주사액(參麥注射液)은 조직 도플러 영상(TDI) 평가에서 만성 심부전 환자의 좌심실 이완 기능을 유의하게 개선한다(임상시험, 64명).[^129]
 - 신맥주사액은 혈장 신경펩타이드Y(NPY)·엔도텔린(ET)·심방나트륨이뇨펩티드(ANP) 수치를 감소시켜 심기능 개선에 기여한다(임상시험, 60명).[^114]
 - 신맥주사액은 혈액 응고 지표(P-selectin·vWF·D-dimer)를 유의하게 감소시켜 혈전 형성 위험을 낮추는 부가적 이점을 보인다(임상시험, 60명).[^119]
@@ -202,7 +202,7 @@
 - 심근경색 환자에게 표준 치료와 중약 병용은 전원인 사망률·심장 원인 사망률을 유의하게 감소시킬 수 있다(메타분석, 12,022명).[^75]
 - 복합 단삼 적하환(CDDP)은 급성 심근경색 환자의 심장사·심부전 위험을 낮추고 삶의 질·좌심실 구출률을 개선하는 잠재적 이점이 있다(체계적 고찰, 1,215명).[^76]
 - 급성 심근경색 환자에게 혈전용해제 치료와 중약을 병용하는 것이 단독 치료보다 관상동맥 개통률을 높이고 사망률·심부전·부정맥 등 주요 합병증 발생률을 유의하게 낮출 수 있다(임상시험, 101명).[^115]
-- ST분절 상승 급성 심근경색 환자에게 신부주사액을 병용하면 심부전 발생률 자체는 낮추지 못하지만 발생한 심부전의 중증도를 유의하게 완화할 수 있다(임상시험, 97명).[^124]
+- ST분절 상승 급성 심근경색 환자에게 삼부주사액을 병용하면 심부전 발생률 자체는 낮추지 못하지만 발생한 심부전의 중증도를 유의하게 완화할 수 있다(임상시험, 97명).[^124]
 - 신쇄혼합물(新衰, Xinshuai mistura)은 심부전 환자의 혈장 안지오텐신II·ANP·NT-proBNP 수치를 유의하게 감소시켜 과도한 신경내분비 활성을 억제한다(임상시험, 59명).[^125]
 - 심신양허·수습내정 증후군 만성 심부전 환자에게 서양의학 치료와 함께 장신령(壯腎靈, Zhuangshenling) 처방을 특정 혈위에 외용하는 방식이 심기능 개선·BNP 감소에 효과적임을 시사한다(임상시험, 140명).[^139]
 - 미국바퀴(Periplaneta americana) 추출물 기반의 신맥룡주사(Xinmailong Injection)는 만성 심부전 치료에 임상적으로 응용되는 현대적 제제로 소개된다(문헌 고찰).[^70]
@@ -280,7 +280,7 @@
 ① **KCD 코드**: I50 계열 + I21(급성 심근경색) 병발.
 ② **병인병기**: 어혈조체(瘀血阻滯)가 관상동맥을 막아 심근 손상 후 심기능 저하로 이행한다고 본다.[^18]
 ③ **병태생리**: 심근 괴사·리모델링으로 좌심실 구출률이 저하되며, 허혈성 심부전 환자의 변증 유형은 말초혈액 줄기세포 수와 밀접히 관련된다.[^89]
-④ **치료**: 뇌신통·단홍주사액·신부주사액이 MACE·사망률·심부전 위험을 낮추며,[^13][^14][^124][^128] 복합 단삼 적하환이 심장사·심부전 위험을 낮춘다.[^76]
+④ **치료**: 뇌신통·단홍주사액·삼부주사액이 MACE·사망률·심부전 위험을 낮추며,[^13][^14][^124][^128] 복합 단삼 적하환이 심장사·심부전 위험을 낮춘다.[^76]
 ⑤ **예후**: 재관류 시기·경색 범위가 예후를 좌우하며, 조기 통합 치료가 합병증을 낮춘다.[^115]
 ⑥ **관리**: 재관류 시술 후 항혈소판제·스타틴 등 이차예방 약물을 유지하며 한의 중재를 병행한다.
 
@@ -380,7 +380,7 @@
 저염식·운동·체중 관리 등 생활습관 교정은 치료의 핵심입니다. 여기에 한약·침·뜸 등 한의 중재를 병행하면 심기능 개선과 재입원 감소에 추가 이점이 있습니다.[^1][^4] 다만 중증 심부전 환자는 의사의 판단에 따라 양방 약물과 한의 중재를 통합적으로 병행하는 것이 안전합니다.
 
 **Q6. 심부전에도 변증에 따라 처방이 달라져야 하나요?**
-그렇습니다. 심부전은 심기허에서 심음허·심양허로 진행하는 경과를 보이며,[^88] NYHA 등급이 악화될수록 양허·수습 변증이 증가하는 경향이 있습니다.[^56] **변증 없는 관행적 처방은 근거에 부합하지 않으며**, 기허혈어에는 기력강심캡슐·신부주사액, 양허수범에는 오령산·저령탕, 확장성 심근병증 동반 시에는 신맥룡주사액 계열을 고려하는 등 변증별 접근이 필요합니다.[^4][^85][^107]
+그렇습니다. 심부전은 심기허에서 심음허·심양허로 진행하는 경과를 보이며,[^88] NYHA 등급이 악화될수록 양허·수습 변증이 증가하는 경향이 있습니다.[^56] **변증 없는 관행적 처방은 근거에 부합하지 않으며**, 기허혈어에는 기력강심캡슐·삼부주사액, 양허수범에는 오령산·저령탕, 확장성 심근병증 동반 시에는 신맥룡주사액 계열을 고려하는 등 변증별 접근이 필요합니다.[^4][^85][^107]
 
 **Q7. 한의학적 치료가 ARNI·베타차단제 같은 표준 심부전 약물을 대체할 수 있나요?**
 아니요. 한의학적 치료는 심부전 표준 치료(four pillars 요법)를 대체하는 것이 아니라 **병용하는 보조 요법** 입니다.[^151] 다수의 임상시험도 표준 치료를 유지한 상태에서 한약·침을 추가했을 때의 이점을 평가한 것이며, 표준 치료 단독 대비 한약 단독의 우월성을 입증한 근거는 아닙니다. 심부전은 급성 악화 시 생명을 위협할 수 있으므로 표준 치료를 임의로 중단해서는 안 됩니다.
@@ -393,7 +393,7 @@
 - 기력강심캡슐 병용이 HFrEF 환자의 심혈관 사망·입원 위험을 유의하게 낮췄다(체계적 고찰·메타분석).[^4]
 - 생맥산·오령산 병용이 LVEF·심기능·삶의 질을 개선했다(체계적 고찰·메타분석).[^6][^8]
 - 익기복맥주사제가 급성 악화 허혈성 심부전 환자의 BNP를 유의하게 낮췄다(다기관 무작위 대조 시험).[^5]
-- 황기주사액·신맥주사액·신부주사액이 심기능·면역·세포사멸 지표를 개선했다(임상시험).[^11][^15][^21][^26]
+- 황기주사액·신맥주사액·삼부주사액이 심기능·면역·세포사멸 지표를 개선했다(임상시험).[^11][^15][^21][^26]
 - 전침·내관혈 약침이 심실 재형성 억제·심기능·삶의 질을 개선했다(무작위 대조 시험).[^38][^39]
 - 침 치료 병행이 심부전 환자의 사망률을 낮추는 것과 연관되었다(전국 코호트).[^41][^42]
 - 목보이탕이 장기 투여 시 주요 심혈관 사건 발생률을 유의하게 감소시켰다(관찰연구).[^28]
@@ -437,7 +437,7 @@
 [^18]: Exploring molecular characteristics and interactions of blood stasis syndrome in ischemic heart failure by integrated multi-omics. 관찰연구. DOI: [10.3389/fmolb.2025.1627849](https://doi.org/10.3389/fmolb.2025.1627849) · PMID: 41158877. 혈어 상태가 면역·염증·응고와 연관.
 [^19]: Mitochondrial dysfunction: a new target for traditional Chinese medicine in the treatment of heart failure. 문헌고찰. DOI: [10.1016/S1875-5364(26)61104-1](https://doi.org/10.1016/S1875-5364(26)61104-1). 한약이 미토콘드리아 기능 조절.
 [^20]: Natural metabolites used in traditional Chinese medicine for cardiovascular diseases: pharmacological mechanisms. 문헌고찰. DOI: [10.3389/fphar.2025.1656751](https://doi.org/10.3389/fphar.2025.1656751). 한약이 심혈관 보호 기전.
-[^21]: Effect of shenfu injection on brain natriuretic polypeptide and aminoterminal peptide of precollagen type III in patients with acute myocardial infarction during intervention treatment. 임상시험, 93명. PMID: [15957835](https://pubmed.ncbi.nlm.nih.gov/15957835/). 신부주사액이 BNP·NP III 감소, 심근 보호.
+[^21]: Effect of shenfu injection on brain natriuretic polypeptide and aminoterminal peptide of precollagen type III in patients with acute myocardial infarction during intervention treatment. 임상시험, 93명. PMID: [15957835](https://pubmed.ncbi.nlm.nih.gov/15957835/). 삼부주사액이 BNP·NP III 감소, 심근 보호.
 [^22]: Goreisan as a successful adjuvant therapy of heart failure with preserved ejection fraction and advanced chronic kidney disease: a case report. 증례, 1명. DOI: [10.1093/omcr/omad116](https://doi.org/10.1093/omcr/omad116) · PMID: 37881268. 오령산이 신부담 없이 체액 균형 조절.
 [^23]: Prognostic value of neutrophil-to-lymphocyte ratio combined with platelet-to-lymphocyte ratio, serum creatinine and NT-proBNP in HFpEF patients with qi deficiency and blood stasis syndrome. 관찰연구, 154명. DOI: [10.21203/rs.3.rs-10003440/v1](https://doi.org/10.21203/rs.3.rs-10003440/v1). 결합 모델이 MACE 예측 성능 우수.
 [^24]: Electroacupuncture and conventional drugs treatment combination improved quality of life in patients with heart failure reduced ejection fraction: a single-blinded randomized controlled trial. 임상시험, 34명. DOI: [10.1186/s43044-025-00698-0](https://doi.org/10.1186/s43044-025-00698-0) · PMID: 41162792. 전침 병용이 LVEF·6MWD·KCCQ-23 개선.
@@ -490,7 +490,7 @@
 [^71]: Traditional Chinese medicine in the treatment of heart failure: A case study. Xiaoli Huang. _Open Journal of Clinical and Medical Images_. 2022-09-29. [증례 보고, 1명] [DOI 10.52768/2833-2725/1059](https://doi.org/10.52768/2833-2725/1059) — 본 연구는 심부전 환자에게 중의학(한방치료)을 적용한 사례를 통해 그 가능성을 제시하고 있습니다.
 [^72]: Efficacy and Safety of TCMI in Patients With Combined Coronary Heart Disease and Heart Failure: A Systematic Review and Network Meta-Analysis.. Wei P 외. _Frontiers in pharmacology_. 2021. [메타분석, 5567명] [DOI 10.3389/fphar.2021.741261](https://doi.org/10.3389/fphar.2021.741261) [PMID 34899296](https://pubmed.ncbi.nlm.nih.gov/34899296/) — 관상동맥성 심장질환과 심부전이 동반된 환자에게 표준 치료와 함께 중의약 주사제(TCMI)를 병용하는 것이 표준 치료 단독보다 치료 효과가 우수하며, 주사제의 종류에 따라 개선되는 지표가 다르게 나타났다.
 [^73]: Development of a Core Outcome Set for the Benefits and Adverse Events of Acute Heart Failure in Clinical Trials of Traditional Chinese Medicine and Western Medicine: A Study Protocol.. Qiu R 외. _Frontiers in medicine_. 2021. [기타] [DOI 10.3389/fmed.2021.677068](https://doi.org/10.3389/fmed.2021.677068) [PMID 34026800](https://pubmed.ncbi.nlm.nih.gov/34026800/) — 본 연구는 급성 심부전(AHF) 치료를 위한 중의학과 서양 의학 임상시험에서 공통적으로 측정해야 할 핵심 결과 지표(COS)를 개발하는 프로토콜이다.
-[^74]: Chinese medicine shenfu injection for heart failure: a systematic review and meta-analysis.. Wen-Ting S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [메타분석] [DOI 10.1155/2012/713149](https://doi.org/10.1155/2012/713149) [PMID 22611430](https://pubmed.ncbi.nlm.nih.gov/22611430/) — 신부주사제(SFI)를 표준 치료와 병용하는 것이 심부전 환자의 임상적 유효율, 사망률, 심기능(NT-proBNP, 6분 보행 거리 등) 개선에 긍정적인 효과를 줄 수 있음을 시사한다.
+[^74]: Chinese medicine shenfu injection for heart failure: a systematic review and meta-analysis.. Wen-Ting S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [메타분석] [DOI 10.1155/2012/713149](https://doi.org/10.1155/2012/713149) [PMID 22611430](https://pubmed.ncbi.nlm.nih.gov/22611430/) — 삼부주사제(SFI)를 표준 치료와 병용하는 것이 심부전 환자의 임상적 유효율, 사망률, 심기능(NT-proBNP, 6분 보행 거리 등) 개선에 긍정적인 효과를 줄 수 있음을 시사한다.
 [^75]: Add-on effect of chinese herbal medicine on mortality in myocardial infarction: systematic review and meta-analysis of randomized controlled trials.. Chung VC 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [메타분석, 12022명] [DOI 10.1155/2013/675906](https://doi.org/10.1155/2013/675906) [PMID 23365612](https://pubmed.ncbi.nlm.nih.gov/23365612/) — 심근경색 환자에게 표준 생의학적 치료와 중약을 병용 투여하는 것이 단독 치료보다 전원 사망률 및 심장 원인 사망률을 유의하게 감소시킬 수 있음을 시사한다.
 [^76]: Systematic review of compound danshen dropping pill: a chinese patent medicine for acute myocardial infarction.. Luo J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [체계적 고찰, 1215명] [DOI 10.1155/2013/808076](https://doi.org/10.1155/2013/808076) [PMID 23843882](https://pubmed.ncbi.nlm.nih.gov/23843882/) — 복합 단삼 적하환(CDDP)은 급성 심근경색 환자의 심장사 및 심부전 위험을 낮추고, 삶의 질과 좌심실 구출률을 개선하는 잠재적 이점이 있음이 확인되었습니다.
 [^77]: Effects of Cardiac Rehabilitation Training in Patients with Heart Failure Based on Traditional Chinese Exercise: A Systematic Review and Meta-Analysis.. Yao F 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석, 721명] [DOI 10.1155/2021/1068623](https://doi.org/10.1155/2021/1068623) [PMID 34819979](https://pubmed.ncbi.nlm.nih.gov/34819979/) — 전통 중국 운동(TCE) 기반의 심장 재활 훈련은 심부전 환자의 운동 기능, 지구력 및 심장 기능을 개선하고 BNP 수치를 낮추는 보조적 치료법으로서의 잠재적 이점이 있다.
@@ -540,11 +540,11 @@
 [^121]: [Clinical observation of the curative effect of Qiangxin Mixture on congestive heart failure].. Chen ZS 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2003-05. [임상시험, 60명] [DOI 10.3736/jcim20030111](https://doi.org/10.3736/jcim20030111) [PMID 15339608](https://pubmed.ncbi.nlm.nih.gov/15339608/) — 강심혼합액은 울혈성 심부전 환자의 심수축력을 강화하고 혈역학적 지표(EF, CO)를 개선하며, 심장 리모델링 관련 인자(ET, Ang II)를 감소시켜 심부전 진행을 늦추는 효과가 있다.
 [^122]: [Effect of shengmai injection on TRAIL death receptor of patients with congestive heart failure].. Hong Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-12. [임상시험, 94명] [PMID 16398429](https://pubmed.ncbi.nlm.nih.gov/16398429/) — 생맥주사(SI)는 울혈성 심부전 환자의 혈청 내 sDR4 및 sDR5 수치를 감소시켜 심근세포의 사멸을 억제하고 심기능을 개선하는 효과가 있다.
 [^123]: [Effects of yiqi huoxue method on cardiac function in patients with congestive heart failure].. Li DP 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-06. [임상시험, 80명] [PMID 16841677](https://pubmed.ncbi.nlm.nih.gov/16841677/) — 울혈성 심부전 환자에게 표준 치료와 함께 익기활혈(益氣活血) 요법을 병행하는 것이 기(氣)를 보하거나 혈(血)을 활성화하는 단독 요법보다 심장 기능 개선 및 증상 완화에 더 효과적이다.
-[^124]: [Clinical research on effects of shenfu injection in different dosage in preventing heart failure occurred in patients of acute myocardial infarction with elevated ST segment].. Li ZE. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-06. [임상시험, 97명] [PMID 16841678](https://pubmed.ncbi.nlm.nih.gov/16841678/) — ST분절 상승 급성 심근경색 환자에게 기존 치료와 함께 신부주사액(Shenfu Injection)을 병용 투여하면 심부전의 발생률 자체를 낮추지는 못하지만, 발생한 심부전의 중증도를 유의하게 완화할 수 있다.
+[^124]: [Clinical research on effects of shenfu injection in different dosage in preventing heart failure occurred in patients of acute myocardial infarction with elevated ST segment].. Li ZE. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-06. [임상시험, 97명] [PMID 16841678](https://pubmed.ncbi.nlm.nih.gov/16841678/) — ST분절 상승 급성 심근경색 환자에게 기존 치료와 함께 삼부주사액(Shenfu Injection)을 병용 투여하면 심부전의 발생률 자체를 낮추지는 못하지만, 발생한 심부전의 중증도를 유의하게 완화할 수 있다.
 [^125]: [Effects of xinshuai mistura on plasma angiotensin II, atrial natriuretic peptide and N terminal pro-brain natriuretic peptide in patients with heart failure].. Dai M 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-10. [임상시험, 59명] [PMID 17121038](https://pubmed.ncbi.nlm.nih.gov/17121038/) — 심부전 환자에게 신쇄혼합물(XM)을 투여했을 때 혈장 Ang II, ANP, Nt-proBNP 수치가 유의하게 감소하여 과도한 신경내분비 활성을 억제하는 효과가 확인되었다.
 [^126]: [Effect of Xuezhikang on cardiac function, serum C-reactive protein and blood lipid in patients with chronic heart failure].. Liu ZQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-03. [임상시험, 68명] [PMID 17432681](https://pubmed.ncbi.nlm.nih.gov/17432681/) — 만성 심부전 환자에게 표준 치료와 함께 혈지강(血止康)을 병용 투여했을 때, 단독 치료보다 심박출률(EF) 개선 및 좌심실 크기 감소 등 심기능 향상 효과가 더 뛰어나며 염증 지표인 CRP 수치를 유의하게 낮추는 것으로 나타났다.
 [^127]: Shengmai (a traditional Chinese herbal medicine) for heart failure.. Chen J 외. _The Cochrane database of systematic reviews_. 2007-10-17. [메타분석] [DOI 10.1002/14651858.CD005052.pub2](https://doi.org/10.1002/14651858.CD005052.pub2) [PMID 17943836](https://pubmed.ncbi.nlm.nih.gov/17943836/) — 심부전 환자에게 표준 치료와 함께 생맥산(生脈散)을 병용 투여했을 때 임상적 상태(NYHA 등급) 및 사망률 개선, TNF-alpha 수치 감소 등의 긍정적인 결과가 나타났다.
-[^128]: [Influence of shenfu injection on heart function and bone marrow stem cell mobilization in patients with chronic heart failure of coronary heart disease].. Hu YH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-04. [임상시험, 63명] [PMID 19526754](https://pubmed.ncbi.nlm.nih.gov/19526754/) — 신부주사액(SFI)은 관상동맥질환으로 인한 만성 심부전 환자의 심박출량과 좌심실 박출률 등 심실 수축 기능을 유의하게 개선시키며, 말초혈액 내 CD34+ 줄기세포의 동원을 촉진하는 효과가 있다.
+[^128]: [Influence of shenfu injection on heart function and bone marrow stem cell mobilization in patients with chronic heart failure of coronary heart disease].. Hu YH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-04. [임상시험, 63명] [PMID 19526754](https://pubmed.ncbi.nlm.nih.gov/19526754/) — 삼부주사액(SFI)은 관상동맥질환으로 인한 만성 심부전 환자의 심박출량과 좌심실 박출률 등 심실 수축 기능을 유의하게 개선시키며, 말초혈액 내 CD34+ 줄기세포의 동원을 촉진하는 효과가 있다.
 [^129]: Effect of Shenmai Injection on ventricular diastolic function in patients with chronic heart failure: An assessment by tissue Doppler imaging.. Ma RG 외. _Chinese journal of integrative medicine_. 2010-04. [임상시험, 64명] [DOI 10.1007/s11655-010-0173-1](https://doi.org/10.1007/s11655-010-0173-1) [PMID 20473745](https://pubmed.ncbi.nlm.nih.gov/20473745/) — 신맥주사제(SMI)는 만성 심부전 환자의 좌심실 이완 기능을 유의하게 개선하는 효과가 있음이 조직 도플러 영상(TDI)을 통해 확인되었습니다.
 [^130]: [Tissue Doppler imaging observation on effect of long-term use of gingko biloba tablet on left ventricular function in patients with chronic heart failure].. Zhang H 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-05. [임상시험, 84명] [PMID 20681276](https://pubmed.ncbi.nlm.nih.gov/20681276/) — 은행엽(Ginkgo biloba) 추출물을 장기간 투여하는 것이 만성 심부전 환자의 좌심실 수축 및 이완 기능을 유의하게 개선할 수 있음을 시사한다.
 [^131]: [Effects of astragalus on cardiac function and serum tumor necrosis factor-alpha level in patients with chronic heart failure].. Yang QY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-07. [임상시험, 45명] [PMID 20929124](https://pubmed.ncbi.nlm.nih.gov/20929124/) — 만성 심부전 환자에게 표준 치료와 함께 황기(黃芪)를 병용 투여했을 때, TNF-alpha 수치가 유의하게 감소하고 좌심실 구출률(LVEF)과 운동 능력이 개선됨이 확인되었다.
