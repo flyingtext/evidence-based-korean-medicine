@@ -117,7 +117,7 @@
 | 관상동맥질환·협심증 | 단삼·천궁(川芎) 등 활혈통맥약 가 | 가감당귀사역탕 SR/MA[^4] |
 | 하지동맥경화폐색증 | 우슬(牛膝)·천산갑(대용 활혈산결약) 가, 수술적 재관류술과 병용 | ASO RCT[^3] |
 | 원발성 월경통 | 향부자(香附子)·연호색(延胡索) 등 이기지통약 가 | 원발성 월경통 메타분석[^5] |
-| 화학요법 유발 말초신경병증(OIPN) | 황기계지오미탕과 병용 또는 교대 투여 | OIPN 예방 프로토콜[^11] |
+| 화학요법 유발 말초신경병증(OIPN) | 황기계지오물탕과 병용 또는 교대 투여 | OIPN 예방 프로토콜[^11] |
 | 동상(凍瘡)·한랭 노출 손상 | 부자(附子) 소량 가(양허 겸협이 뚜렷할 때 한정) | [교과서적 근거] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
@@ -128,7 +128,7 @@
 
 **② 동상(凍瘡)·한랭 손상 겸증**: 반복적인 동상·궤양이 있는 경우 국소 순환 회복을 위해 계지 용량을 늘리고, 궤양·조직 손상이 동반되면 활혈생기(活血生肌)약(당귀 용량 증량, 황기 가)을 병용한다. 괴저(壞疽)를 동반한 중증 사례에서는 궐음병 이론에 기반한 오매환·백부자탕과의 교대·병용 투여가 ABI(발목상완지수)·최대 보행거리 개선으로 이어진 메타분석 근거가 있다[^6].
 
-**③ 말초신경병증 겸증**: 당뇨병성 말초신경병증이나 항암화학요법(옥살리플라틴 등) 유발 말초신경병증에서는 익기(益氣) 약물(황기)을 배오한 황기계지오미탕과의 병용·교대 투여가 검토되고 있다[^11]. 신경병증성 통증·저림이 두드러지면 계지·세신의 통규지통(通竅止痛) 작용을 활용하되, 세신의 용량 상한을 반드시 준수해야 한다(제6편 안전성 참조).
+**③ 말초신경병증 겸증**: 당뇨병성 말초신경병증이나 항암화학요법(옥살리플라틴 등) 유발 말초신경병증에서는 익기(益氣) 약물(황기)을 배오한 황기계지오물탕과의 병용·교대 투여가 검토되고 있다[^11]. 신경병증성 통증·저림이 두드러지면 계지·세신의 통규지통(通竅止痛) 작용을 활용하되, 세신의 용량 상한을 반드시 준수해야 한다(제6편 안전성 참조).
 
 **④ 월경통 겸증**: 하복부 냉통과 함께 월경혈 색이 어둡고 혈괴가 있으면 향부자·연호색·오수유를 가하여 이기활혈(理氣活血)·산한지통(散寒止痛)을 강화한다[^5]. 냉증형 월경통에서 온경탕(溫經湯)·당귀작약산과의 감별이 필요하며, 당귀사역탕은 사지 궐랭이 뚜렷한 혈허한궐형에, 온경탕은 하복부 냉감과 구건(口乾)이 겸한 충임허한(衝任虛寒) 겸 어혈형에 더 적합하다.[교과서적 근거]
 
@@ -136,7 +136,7 @@
 
 ### 3. 병용 요법
 
-당귀사역탕과 오수유생강탕(吳茱萸生薑湯)의 복합 처방이 정상인의 적혈구 변형능을 일시적으로 유의하게 증가시켰다는 교차시험 결과는[^13] 당귀사역탕 계열 처방이 혈액 유변학적 성질을 개선할 가능성을 뒷받침하며, 이는 원방의 당귀사역가오수유생강탕 가감 논리와도 부합한다. 궐음병 이론에 기반해 오매환·백부자탕과 함께 사용하는 방식은 만성 한열착잡·한담 병기가 혼재된 괴저 환자에서 검토되었다[^6]. 옥살리플라틴 유발 말초신경병증 예방을 위해 황기계지오미탕과 당귀사역탕을 함께 검증하는 다기관 RCT 프로토콜도 진행 중이다[^11].
+당귀사역탕과 오수유생강탕(吳茱萸生薑湯)의 복합 처방이 정상인의 적혈구 변형능을 일시적으로 유의하게 증가시켰다는 교차시험 결과는[^13] 당귀사역탕 계열 처방이 혈액 유변학적 성질을 개선할 가능성을 뒷받침하며, 이는 원방의 당귀사역가오수유생강탕 가감 논리와도 부합한다. 궐음병 이론에 기반해 오매환·백부자탕과 함께 사용하는 방식은 만성 한열착잡·한담 병기가 혼재된 괴저 환자에서 검토되었다[^6]. 옥살리플라틴 유발 말초신경병증 예방을 위해 황기계지오물탕과 당귀사역탕을 함께 검증하는 다기관 RCT 프로토콜도 진행 중이다[^11].
 
 ## 제4편 본초 각론
 
@@ -188,7 +188,7 @@
 
 Wagner 0단계 당뇨병성 족부궤양 환자 72명을 대상으로 한 무작위대조시험에서, 혈어·신양허 증상을 동반한 환자에게 가감당귀사역탕을 투여한 결과 혈장 최종당화산물(advanced glycation end products, AGEs) 수치가 유의하게 감소하고 하지 혈류·신경전도속도가 개선되었다(임상시험)[^2]. 네트워크 약리학과 메타분석을 결합한 최근 연구에서는 당귀사역탕이 AGE-RAGE 및 PI3K-AKT 신호전달 경로를 통해 염증 반응 억제, 산화스트레스 감소, 혈관신생 촉진 등의 기전으로 당뇨병성 족부궤양 치료에 기여할 가능성이 제시되었다(메타분석)[^8].
 
-당뇨병성 말초신경병증(diabetic peripheral neuropathy, DPN) 환자를 대상으로 당귀사역탕의 치료 효과·안전성을 검증하기 위한 체계적 고찰·메타분석 프로토콜이 등록되어 있으며(기타/프로토콜)[^9], 옥살리플라틴 화학요법으로 유발되는 말초신경병증(OIPN) 예방을 위해 황기계지오미탕과 당귀사역탕의 효능·안전성을 검증하는 360명 규모의 다기관 무작위 이중맹검 위약대조 프로토콜도 진행되고 있다(임상시험)[^11]. 이는 당귀사역탕의 적응증이 원발성 한궐(寒厥)을 넘어 대사성·독성 말초신경병증까지 확장될 가능성을 시사하나, 확증적 결과는 아직 축적 단계임을 밝혀둔다.
+당뇨병성 말초신경병증(diabetic peripheral neuropathy, DPN) 환자를 대상으로 당귀사역탕의 치료 효과·안전성을 검증하기 위한 체계적 고찰·메타분석 프로토콜이 등록되어 있으며(기타/프로토콜)[^9], 옥살리플라틴 화학요법으로 유발되는 말초신경병증(OIPN) 예방을 위해 황기계지오물탕과 당귀사역탕의 효능·안전성을 검증하는 360명 규모의 다기관 무작위 이중맹검 위약대조 프로토콜도 진행되고 있다(임상시험)[^11]. 이는 당귀사역탕의 적응증이 원발성 한궐(寒厥)을 넘어 대사성·독성 말초신경병증까지 확장될 가능성을 시사하나, 확증적 결과는 아직 축적 단계임을 밝혀둔다.
 
 ### 3. 하지 동맥경화 폐색증(ASO)·괴저(壞疽) — 궐음병(厥陰病) 이론 기반 응용
 
@@ -336,7 +336,7 @@ Wagner 0단계 당뇨병성 족부궤양 환자 72명을 대상으로 한 무작
 [^8]: Discussion on the mechanism of Danggui Sini decoction in treating diabetic foot based on network pharmacology and molecular docking and verification of the curative effect by meta-analysis. Ni X 외. _Frontiers in endocrinology_. 2024. [메타분석] [DOI 10.3389/fendo.2024.1347021](https://doi.org/10.3389/fendo.2024.1347021) [PMID 38464966](https://pubmed.ncbi.nlm.nih.gov/38464966/) — 당귀사역탕(DSD)이 AGE-RAGE·PI3K-AKT 신호전달 경로를 통해 염증 억제·산화스트레스 감소·혈관신생 촉진 기전으로 당뇨병성 족부궤양에 기여할 가능성을 네트워크 약리학과 메타분석으로 교차 검증.
 [^9]: Danggui Sini decoction for treating diabetic peripheral neuropathy: A protocol of systematic review and meta-analysis of randomized controlled trials. Zhang X 외. _Medicine_. 2020-05-22. [기타] [DOI 10.1097/MD.0000000000020482](https://doi.org/10.1097/MD.0000000000020482) [PMID 32481353](https://pubmed.ncbi.nlm.nih.gov/32481353/) — 당뇨병성 말초신경병증(DPN) 환자 대상 당귀사역탕의 치료 효과·안전성을 검증하는 체계적 고찰·메타분석 프로토콜.
 [^10]: Herbal Medicines for Cold Hypersensitivity in the Hands and Feet: A Systematic Review and Meta-Analysis. Yu JS 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2018-12. [메타분석] [DOI 10.1089/acm.2018.0009](https://doi.org/10.1089/acm.2018.0009) [PMID 29993255](https://pubmed.ncbi.nlm.nih.gov/29993255/) — 한약 치료가 수족냉증·레이노 현상 환자에서 양약 단독이나 위약보다 유효율이 높고, 피부 온도·말초 혈류량을 증가시킨다는 메타분석. 당귀사역탕 계열 온경산한 처방이 다수 포함.
-[^11]: Preventive Efficacy and Safety of Yiqi-Wenjing-Fang Granules on Oxaliplatin-Induced Peripheral Neuropathy: A Protocol for a Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. Gu Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [DOI 10.1155/2021/5551568](https://doi.org/10.1155/2021/5551568) [PMID 34630609](https://pubmed.ncbi.nlm.nih.gov/34630609/) — 옥살리플라틴 유발 말초신경병증(OIPN) 예방을 위해 익기온경방 계열인 황기계지오미탕과 당귀사역탕(當歸四逆湯)의 효능·안전성을 검증하는 다기관 RCT 프로토콜. 온경산한(溫經散寒) 처방군의 화학요법 유발 신경병증 적용 가능성을 시사.
+[^11]: Preventive Efficacy and Safety of Yiqi-Wenjing-Fang Granules on Oxaliplatin-Induced Peripheral Neuropathy: A Protocol for a Randomized, Double-Blind, Placebo-Controlled, Multicenter Trial. Gu Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [DOI 10.1155/2021/5551568](https://doi.org/10.1155/2021/5551568) [PMID 34630609](https://pubmed.ncbi.nlm.nih.gov/34630609/) — 옥살리플라틴 유발 말초신경병증(OIPN) 예방을 위해 익기온경방 계열인 황기계지오물탕과 당귀사역탕(當歸四逆湯)의 효능·안전성을 검증하는 다기관 RCT 프로토콜. 온경산한(溫經散寒) 처방군의 화학요법 유발 신경병증 적용 가능성을 시사.
 [^12]: Exploring the mechanism of Danggui Sini Decoction in the treatment of myocardial infarction: A systematic review, network pharmacology, and molecular docking. Li Z 외. _Medicine_. 2024-10-18. [체계적 고찰] [DOI 10.1097/MD.0000000000040073](https://doi.org/10.1097/MD.0000000000040073) [PMID 39432628](https://pubmed.ncbi.nlm.nih.gov/39432628/) — 당귀사역탕이 다성분-다경로-다표적 기전으로 심근경색의 염증 반응을 조절하고 세포 증식을 도울 가능성. 근거 수준은 예측적 네트워크 약리학 단계.
 [^13]: Effect of the herbal medicine Danggui Sini plus Wuzhuyu Shengjiang Tang on erythrocyte deformability in normal subjects: a cross-over trial. Ji EL 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2018-10. [임상시험] [PMID 32185995](https://pubmed.ncbi.nlm.nih.gov/32185995/) — 당귀사역탕+오수유생강탕 복합 처방이 정상인의 적혈구 변형능을 일시적으로 유의하게 증가시킴. 미세순환 개선 기전을 뒷받침하는 생리학적 인간 자료.
 [^14]: [Licorice of 'shakuyaku kanzou tou' induced pseudoaldosteronism]. Kanda H 외. _Hinyokika kiyo. Acta urologica Japonica_. 2004-03. [증례 보고] [PMID 15148778](https://pubmed.ncbi.nlm.nih.gov/15148778/) — 작약감초탕(芍藥甘草湯, 당귀사역탕과 작약·감초를 공유하는 처방)의 장기 복용으로 가성알도스테론증이 유발된 증례. 감초 배합 처방 전반에 적용되는 안전성 시사점.
