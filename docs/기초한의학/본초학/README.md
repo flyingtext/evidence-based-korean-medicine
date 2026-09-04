@@ -383,7 +383,7 @@
 ### 15-1. 평간식풍약(平肝熄風藥, Liver-Calming Wind-Extinguishing Herbs)
 
 - 영양각(羚羊角, Saigae Tataricae Cornu) — (작성 예정)
-- 조구등(釣鉤藤, Uncaria)
+- 조구등(釣鉤藤, Uncariae Ramulus et Uncus)
 - 천마(天麻, Gastrodia)
 - 백강잠(白殭蠶, Bombyx Batryticatus) — (작성 예정)
 - 전갈(全蝎, Scorpio) — (작성 예정)
