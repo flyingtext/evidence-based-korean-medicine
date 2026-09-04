@@ -320,7 +320,7 @@ T세포 의존성 항원에 대한 B세포 반응은 배중심에서 체세포 �
 | --- | --- | --- |
 | 위분(초기 발열) | 갈근탕(葛根湯, 마오토) | [^99][^102][^54] |
 | 풍열범위(소아) | 소아풍열청구복액 vs 오셀타미비르 | [^13] |
-| 외감풍열 | 차이거칭러·시습퇴열 과립, 금화청간 과립 | [^67][^33][^175] |
+| 외감풍열 | 차이거칭러·시습퇴열 과립, 금화청감 과립 | [^67][^33][^175] |
 | 기분·열독(중증) | 연화청온캡슐 | [^100][^104] |
 | 해열·대증 | 대추(GV14) 전침 | [^6][^12] |
 
@@ -813,7 +813,7 @@ T세포 의존성 항원에 대한 B세포 반응은 배중심에서 체세포 �
 
 [^32]: [Therapeutic effects of common cold of wind-cold type at early stage treated by different cupping duration]. Ye XF 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-04. [임상시험] [환자 60명] [PMID 21528605](https://pubmed.ncbi.nlm.nih.gov/21528605/) — 초기 풍한형 감기 환자에게 부항 치료를 시행할 때, 15분보다 25-30분 동안 유지하는 것이 치료 효과가 유의하게 더 높음을 시사한다. 임상에서 풍한형 감기 환자의 증상 완화를 위해 대추혈과 배수혈 위주의 장시간 부항 요법을 고려할 수 있다..
 
-[^33]: [Treating influenza patients of wind-heat affecting Fei syndrome by jinhua qinggan granule: a double-blinded randomized control trial]. Li GQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-12. [임상시험] [환자 136명] [PMID 24517059](https://pubmed.ncbi.nlm.nih.gov/24517059/) — 풍열범폐증(風熱犯肺證)을 동반한 인플루엔자 환자에게 금화청간과립(金花清肝顆粒)을 투여했을 때, 위약 대비 해열 시간 단축 및 TCM 증상 개선 효과가 유의하게 나타났다. 특히 고용량(10g)보다 저용량(5g) 투여군에서 더 우수한 회복률과 유효율이 관찰되어, 저용량이 최적 용량인 것으로 판단된다. 임상적으로 해당 증후군 환자에게 안전하고 효과적인 치료 옵션으로 고려될 수 있다..
+[^33]: [Treating influenza patients of wind-heat affecting Fei syndrome by jinhua qinggan granule: a double-blinded randomized control trial]. Li GQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-12. [임상시험] [환자 136명] [PMID 24517059](https://pubmed.ncbi.nlm.nih.gov/24517059/) — 풍열범폐증(風熱犯肺證)을 동반한 인플루엔자 환자에게 금화청감과립(金花淸感顆粒)을 투여했을 때, 위약 대비 해열 시간 단축 및 TCM 증상 개선 효과가 유의하게 나타났다. 특히 고용량(10g)보다 저용량(5g) 투여군에서 더 우수한 회복률과 유효율이 관찰되어, 저용량이 최적 용량인 것으로 판단된다. 임상적으로 해당 증후군 환자에게 안전하고 효과적인 치료 옵션으로 고려될 수 있다..
 
 [^34]: [Efficacy and safety of Regan Syrup in treatment of common cold (wind-heat syndrome):a multicenter, randomized, double-blind, double-dummy, placebo and positive drug-controlled, parallel, phase Ⅱb clinical trial]. Hu YM 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2023-04. [임상시험] [환자 119명] [DOI 10.19540/j.cnki.cjcmm.20221201.501](https://doi.org/10.19540/j.cnki.cjcmm.20221201.501) [PMID 37282911](https://pubmed.ncbi.nlm.nih.gov/37282911/) — 리건 시럽(Regan Syrup)은 풍열증후군(wind-heat syndrome)으로 인한 감기 환자에게 투여 시, 해열 효과 발현 시간을 단축시키고 인후통 및 발열 증상을 유의하게 완화하며 임상 회복률을 높이는 효과가 있다. 특히 양성 대조군인 슈펑지에두 캡슐보다 모든 증상의 소실 시간을 유의하게 단축시키는 결과가 확인되어, 급성기 풍열 감기 환자의 증상 완화 및 빠른 회복을 위한 치료제로.
 

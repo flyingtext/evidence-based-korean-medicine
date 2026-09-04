@@ -71,9 +71,9 @@ UDCA의 간세포 보호 기전을 정리한 리뷰는, UDCA가 미토콘드리�
 
 소아 재발성 이하선염(recurrent parotitis) 환자에게 황기(黃芪)와 웅담을 병용 투여한 임상시험은, 단순 마사지나 비타민 C 섭취보다 재발률을 낮추고 회복률을 높이는 데 유의하게 효과적이었다고 보고하였다.[^8] 이는 보기고표(補氣固表) 효능의 황기와 청열해독 효능의 웅담이 배오되어, 반복되는 염증성 병리와 정기허약(正氣虛弱)을 함께 다스리는 전통적 배오 원리(부정거사扶正祛邪)를 반영한 사례로 해석할 수 있다.[교과서적 근거]
 
-### 3-3. 복합 청열해독 방제 내 웅담 — 탄열청주사액(痰熱淸注射液)
+### 3-3. 복합 청열해독 방제 내 웅담 — 담열청주사액(痰熱淸注射液)
 
-중국에서 임상적으로 널리 쓰이는 탄열청주사액(痰熱淸注射液, Tanreqing Injection)은 황금(黃芩)·산양각(山羊角)·금은화(金銀花)·연교(連翹)와 함께 웅담분(熊膽粉)을 소량 배합한 정맥주사 제형이다.[교과서적 근거] 급성 기관지염으로 인한 기침 치료에서 탄열청주사액의 유효성·안전성을 평가한 체계적 고찰·메타분석은, 이 제형을 양약과 병용 투여했을 때 양약 단독 투여보다 기침·가래 증상의 소실 시간이 유의하게 단축되고 폐 기능(FVC·FEV1)이 개선되었으며, 이상반응 발생률은 양약 단독군과 유의한 차이가 없어 안전성 측면에서도 수용 가능했다고 보고하였다. 다만 포함된 연구들의 방법론적 엄밀성이 부족해 추가적인 고품질 연구가 필요하다는 한계도 함께 지적되었다.[^94] 이 근거는 탄열청주사액이라는 복합 처방 전체의 효과를 다룬 것이며, 웅담 단일 성분의 기여도를 분리해 검증한 것은 아니라는 점에 유의해야 한다.
+중국에서 임상적으로 널리 쓰이는 담열청주사액(痰熱淸注射液, Tanreqing Injection)은 황금(黃芩)·산양각(山羊角)·금은화(金銀花)·연교(連翹)와 함께 웅담분(熊膽粉)을 소량 배합한 정맥주사 제형이다.[교과서적 근거] 급성 기관지염으로 인한 기침 치료에서 담열청주사액의 유효성·안전성을 평가한 체계적 고찰·메타분석은, 이 제형을 양약과 병용 투여했을 때 양약 단독 투여보다 기침·가래 증상의 소실 시간이 유의하게 단축되고 폐 기능(FVC·FEV1)이 개선되었으며, 이상반응 발생률은 양약 단독군과 유의한 차이가 없어 안전성 측면에서도 수용 가능했다고 보고하였다. 다만 포함된 연구들의 방법론적 엄밀성이 부족해 추가적인 고품질 연구가 필요하다는 한계도 함께 지적되었다.[^94] 이 근거는 담열청주사액이라는 복합 처방 전체의 효과를 다룬 것이며, 웅담 단일 성분의 기여도를 분리해 검증한 것은 아니라는 점에 유의해야 한다.
 
 ### 3-4. 대체 약재·화학물질과의 배오 원리
 
@@ -85,7 +85,7 @@ UDCA의 간세포 보호 기전을 정리한 리뷰는, UDCA가 미토콘드리�
 |---|---|---|---|
 | 청열개규·소어지통 | 우황(단일 또는 사향 추가) | BU/BUM 약침(요추염좌·화병) | 증례군[^93][^95] |
 | 부정거사(보기+청열해독) | 황기 | 소아 재발성 이하선염 | 임상시험[^8] |
-| 청열화담·해독 | 황금·산양각·금은화·연교 | 탄열청주사액 | 메타분석(복합처방)[^94] |
+| 청열화담·해독 | 황금·산양각·금은화·연교 | 담열청주사액 | 메타분석(복합처방)[^94] |
 | 대체(한성·고미 담즙산) | 우담·저담, 합성 UDCA | 인공 웅담 | 문헌 고찰[^3][^7] |
 | 대체(청열해독 식물성) | 황련·황금·황백·치자, 천심련, 대황 | 황련해독탕 계열 대체 | 문헌 고찰[^12] |
 
@@ -336,7 +336,7 @@ UDCA는 1902년대 초 웅담에서 처음 분리된 이래, 현재는 콜산(ch
 [^91]: Clinical efficacy of Jiawei Yinchenhao decoction combined with ursodeoxycholic acid and probiotics in the management of nonalcoholic fatty liver disease. Chen D 외. _Arab journal of gastroenterology : the official publication of the Pan-Arab Association of Gastroenterology_. 2026-05. [임상시험] [DOI 10.1016/j.ajg.2026.01.007](https://doi.org/10.1016/j.ajg.2026.01.007) [PMID 41833459](https://pubmed.ncbi.nlm.nih.gov/41833459/) — 가미인진호탕+UDCA+프로바이오틱스 병용이 NAFLD 다면적 개선을 보인 최신 임상시험.
 [^92]: Mechanistic Basis and Translational Potential of Traditional Chinese Medicine in the Treatment of Cholestasis: A Narrative Review. Yuan S 외. _Hepatic medicine : evidence and research_. 2026. [문헌 고찰] [DOI 10.2147/HMER.S609530](https://doi.org/10.2147/HMER.S609530) [PMID 42482852](https://pubmed.ncbi.nlm.nih.gov/42482852/) — 중의약의 FXR 중심 담즙정체 조절 기전과 UDCA 병용 잠재력을 정리한 서술적 리뷰.
 [^93]: Case Series Study on the Use of BU Pharmacopuncture Treatment in Patients with Acute Lumbar Sprain. Yang M 외. _Journal of pharmacopuncture_. 2018-06. [증례 보고] [DOI 10.3831/KPI.2018.21.015](https://doi.org/10.3831/KPI.2018.21.015) [PMID 30151313](https://pubmed.ncbi.nlm.nih.gov/30151313/) — 웅담+우황 약침(BU)이 급성 요추염좌 통증·기능장애를 개선한 국내 증례군 연구.
-[^94]: Efficacy and safety of Tanreqing injection for cough caused by acute trachea-bronchitis disease: A systematic review and meta-analysis of randomized controlled trials. Ma N 외. _Journal of ethnopharmacology_. 2024-03-01. [메타분석] [DOI 10.1016/j.jep.2023.117429](https://doi.org/10.1016/j.jep.2023.117429) [PMID 38007165](https://pubmed.ncbi.nlm.nih.gov/38007165/) — 웅담분 함유 탄열청주사액의 급성기관지염 기침 치료 효과·안전성을 정리한 메타분석.
+[^94]: Efficacy and safety of Tanreqing injection for cough caused by acute trachea-bronchitis disease: A systematic review and meta-analysis of randomized controlled trials. Ma N 외. _Journal of ethnopharmacology_. 2024-03-01. [메타분석] [DOI 10.1016/j.jep.2023.117429](https://doi.org/10.1016/j.jep.2023.117429) [PMID 38007165](https://pubmed.ncbi.nlm.nih.gov/38007165/) — 웅담분 함유 담열청주사액의 급성기관지염 기침 치료 효과·안전성을 정리한 메타분석.
 [^95]: Hwa-Byung Treated by Using Ascending Kidney Water and Descending Heart Fire Pharmacopuncture: Three Case Studies. Jo N 외. _Journal of pharmacopuncture_. 2017-06. [증례 보고] [DOI 10.3831/KPI.2017.20.018](https://doi.org/10.3831/KPI.2017.20.018) [PMID 30087791](https://pubmed.ncbi.nlm.nih.gov/30087791/) — 웅담·우황·사향(BUM) 약침 병용이 화병 증상을 개선한 국내 증례군 연구.
 [^96]: Mechanisms Underlying the Prevention and Treatment of Cholelithiasis Using Traditional Chinese Medicine. Chen Q 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [문헌 고찰] [DOI 10.1155/2019/2536452](https://doi.org/10.1155/2019/2536452) [PMID 31316569](https://pubmed.ncbi.nlm.nih.gov/31316569/) — 중약의 담석증 예방·치료 다면적 기전(담즙역학·간보호·지질·염증)을 정리한 리뷰.
 [^97]: Association of Serum and Fecal Bile Acid Patterns With Liver Fibrosis in Biopsy-Proven Nonalcoholic Fatty Liver Disease: An Observational Study. Kasai Y 외. _Clinical and translational gastroenterology_. 2022-07-01. [관찰연구] [DOI 10.14309/ctg.0000000000000503](https://doi.org/10.14309/ctg.0000000000000503) [PMID 35616321](https://pubmed.ncbi.nlm.nih.gov/35616321/) — NAFLD 섬유화 진행과 혈청·분변 담즙산 농도 증가의 연관성을 확인한 관찰연구.

@@ -77,7 +77,7 @@ SARS 유행 당시 활용된 한약재를 독성·안전성 기준으로 재평�
 
 ### 기타 연교 함유 처방
 
-담낭방(膽囊方) 2호는 연교가 배합된 처방으로 복강경 담낭절제술 주술기 장관 운동 회복과 염증 지표 개선에 효과적임이 보고되었다.[^65] 련교온담탕(連翹溫膽湯, Lian Qiao Wen Dan Decoction)은 산화적 인산화 기능 저하를 완화해 위암 전구 병변의 악화를 억제하는 기전이 실험연구에서 확인되었다(인간 데이터 한정).[^66] 藍芩連翹(Langenlianqiao) 경구액은 경증 COVID-19 환자에서 위약 대비 입원·감염 기간을 유의하게 단축시키고 기침 개선에 효과적이었다.[^46] 탄열청(痰熱淸) 주사액은 연교가 배합된 제제로 급성 기관-기관지염 기침 환자에서 증상 소실 시간 단축과 폐기능(FVC·FEV1) 개선을 보였다(메타분석).[^56] 익기양음해독탕은 연교가 배합되어 진행성 비소세포폐암 환자의 기음양허 증상과 면역 기능을 개선하는 임상 근거를 제시하였고,[^63] 항이신(抗爾心)-I은 금은화·연교가 배합되어 바이러스성 심근염 환자의 임상 지표를 개선하는 것으로 보고되었다.[^64]
+담낭방(膽囊方) 2호는 연교가 배합된 처방으로 복강경 담낭절제술 주술기 장관 운동 회복과 염증 지표 개선에 효과적임이 보고되었다.[^65] 련교온담탕(連翹溫膽湯, Lian Qiao Wen Dan Decoction)은 산화적 인산화 기능 저하를 완화해 위암 전구 병변의 악화를 억제하는 기전이 실험연구에서 확인되었다(인간 데이터 한정).[^66] 藍芩連翹(Langenlianqiao) 경구액은 경증 COVID-19 환자에서 위약 대비 입원·감염 기간을 유의하게 단축시키고 기침 개선에 효과적이었다.[^46] 담열청(痰熱淸) 주사액은 연교가 배합된 제제로 급성 기관-기관지염 기침 환자에서 증상 소실 시간 단축과 폐기능(FVC·FEV1) 개선을 보였다(메타분석).[^56] 익기양음해독탕은 연교가 배합되어 진행성 비소세포폐암 환자의 기음양허 증상과 면역 기능을 개선하는 임상 근거를 제시하였고,[^63] 항이신(抗爾心)-I은 금은화·연교가 배합되어 바이러스성 심근염 환자의 임상 지표를 개선하는 것으로 보고되었다.[^64]
 
 이 절의 처방-약재 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 변증 없는 관행적 처방 선택은 근거에 부합하지 않는다.
 
@@ -320,7 +320,7 @@ SARS 유행 당시 활용된 한약재를 독성·안전성 기준으로 재평�
 
 [^55]: Prospective proof-of-concept observational RESEarch about traditional herbal preparation Treatment for Chronic Obstructive Pulmonary Disease (RESET-COPD-1). Park D 외. _Frontiers in pharmacology_. 2024. [관찰연구] [DOI 10.3389/fphar.2024.1437253](https://doi.org/10.3389/fphar.2024.1437253) [PMID 39391690](https://pubmed.ncbi.nlm.nih.gov/39391690/) — 청상보하탕(연교 함유 처방)을 병용한 COPD 환자에서 CAT 점수·호흡곤란 VAS가 유의하게 개선된 전향적 관찰연구.
 
-[^56]: Efficacy and safety of Tanreqing injection for cough caused by acute trachea-bronchitis disease: A systematic review and meta-analysis of randomized controlled trials. Ma N 외. _Journal of ethnopharmacology_. 2024-03-01. [메타분석] [DOI 10.1016/j.jep.2023.117429](https://doi.org/10.1016/j.jep.2023.117429) [PMID 38007165](https://pubmed.ncbi.nlm.nih.gov/38007165/) — 연교가 배합된 탄열청 주사액이 급성 기관-기관지염 기침 환자에서 증상 소실 시간 단축과 폐기능 개선을 보인 메타분석.
+[^56]: Efficacy and safety of Tanreqing injection for cough caused by acute trachea-bronchitis disease: A systematic review and meta-analysis of randomized controlled trials. Ma N 외. _Journal of ethnopharmacology_. 2024-03-01. [메타분석] [DOI 10.1016/j.jep.2023.117429](https://doi.org/10.1016/j.jep.2023.117429) [PMID 38007165](https://pubmed.ncbi.nlm.nih.gov/38007165/) — 연교가 배합된 담열청 주사액이 급성 기관-기관지염 기침 환자에서 증상 소실 시간 단축과 폐기능 개선을 보인 메타분석.
 
 [^57]: Clinical efficacy, pharmacodynamic components, and molecular mechanisms of antiviral granules in the treatment of influenza: A systematic review. Su J 외. _Journal of ethnopharmacology_. 2024-01-10. [체계적 고찰] [DOI 10.1016/j.jep.2023.117011](https://doi.org/10.1016/j.jep.2023.117011) [PMID 37567423](https://pubmed.ncbi.nlm.nih.gov/37567423/) — 연교 함유 항바이러스 과립제가 다성분·다경로·다타겟 작용으로 인플루엔자 바이러스 복제 억제와 염증 조절에 효과적임을 정리한 체계적 고찰.
 
