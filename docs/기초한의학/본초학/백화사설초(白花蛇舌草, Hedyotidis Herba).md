@@ -6,7 +6,7 @@
 
 ### 1-1. 정의와 기원
 
-백화사설초(白花蛇舌草)는 꼭두서니과(Rubiaceae)에 속하는 한해살이풀 백화사설초(Hedyotis diffusa Willd., 이명 Oldenlandia diffusa (Willd.) Roxb.)의 전초(全草)를 건조한 본초다. 줄기가 가늘고 잎이 뱀의 혀처럼 좁고 길며 흰 꽃이 핀다 하여 이름 붙여졌고, 중국에서는 이를 蛇舌草·蛇total草·甲猛草 등으로도 부른다.[교과서적 근거] 중국 본초학 문헌 고증 연구는 백화사설초가 청대 이후 문헌에 본격적으로 등재되었으며, 근연 혼용 품목인 수선초(水線草, *Hedyotis corymbosa*)·선화초(傘花草) 등과 형태·효능이 유사해 혼동되어 온 역사를 정리하였다.[^15] 이 연구는 백화사설초가 청열해독(淸熱解毒)·소종지통(消腫止痛)·이뇨통림(利尿通淋)의 전통 효능을 지니며, 특히 장옹(腸癰, 충수염)·옹저정독(癰疽疔毒)·사교상(蛇咬傷) 치료와 더불어 근래에는 항암 보조 치료에 널리 활용되고 있음을 확인하였다.[^15]
+백화사설초(白花蛇舌草)는 꼭두서니과(Rubiaceae)에 속하는 한해살이풀 백화사설초(Hedyotis diffusa Willd., 이명 Oldenlandia diffusa (Willd.) Roxb.)의 전초(全草)를 건조한 본초다. 줄기가 가늘고 잎이 뱀의 혀처럼 좁고 길며 흰 꽃이 핀다 하여 이름 붙여졌고, 중국에서는 이를 사설초(蛇舌草)·사총관(蛇總管)·이엽율(二葉葎) 등의 이명으로도 부른다.[교과서적 근거] 중국 본초학 문헌 고증 연구는 백화사설초가 청대 이후 문헌에 본격적으로 등재되었으며, 근연 혼용 품목인 수선초(水線草, *Hedyotis corymbosa*)·선화초(傘花草) 등과 형태·효능이 유사해 혼동되어 온 역사를 정리하였다.[^15] 이 연구는 백화사설초가 청열해독(淸熱解毒)·소종지통(消腫止痛)·이뇨통림(利尿通淋)의 전통 효능을 지니며, 특히 장옹(腸癰, 충수염)·옹저정독(癰疽疔毒)·사교상(蛇咬傷) 치료와 더불어 근래에는 항암 보조 치료에 널리 활용되고 있음을 확인하였다.[^15]
 
 ### 1-2. 유사종 감별(강제 감별)
 
@@ -62,6 +62,22 @@
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 실제 처방 구성 시에는 개별 환자의 병위(病位)·병기(病機)에 따라 여러 청열해독약을 배오하여 사용하는 것이 일반적이다.[교과서적 근거]
 
+### 1-7. 반지련(半枝蓮)과의 강제 감별 — "같이 쓰는 약"이지 "같은 약"이 아니다
+
+임상 현장에서 백화사설초와 반지련(半枝蓮)은 항암 배오로 거의 항상 함께 등장하기 때문에, 두 약재를 혼동하거나 사실상 동일한 약재로 취급하는 오해가 드물지 않다. 그러나 두 본초는 **과(科)·기원 식물·성분군·전통 주치가 모두 다른 별개의 약재** 다. 반지련은 꿀풀과(Lamiaceae) 골무꽃속 식물 *Scutellaria barbata* D. Don의 전초로, 청열해독 외에 활혈거어(活血祛瘀)·지혈(止血)·이수소종(利水消腫)이 함께 강조된다.[^36] 반지련의 성분군은 플라보노이드(스쿠텔라레인·아피게닌 유도체)와 디테르펜 알칼로이드가 주축이며, 백화사설초의 이리도이드 중심 성분군과 계열이 다르다.[^36][^37] 반지련을 종합 검토한 리뷰들은 이 약재가 PI3K/Akt/mTOR·MAPK·NF-κB 등의 경로를 조절하고 방사선·화학요법 부작용 완화에 보조적으로 활용될 가능성을 제시하면서도, 근거의 대부분이 전임상 수준이며 임상 적용에는 표준화된 품질 관리가 선행되어야 한다고 지적하였다.[^37][^38]
+
+| 구분 | 백화사설초(白花蛇舌草) | 반지련(半枝蓮) |
+|---|---|---|
+| 기원 식물 | *Hedyotis diffusa* Willd.(이명 *Oldenlandia diffusa*) | *Scutellaria barbata* D. Don |
+| 과 | 꼭두서니과(Rubiaceae) | 꿀풀과(Lamiaceae) |
+| 성미 | 고(苦)·담(淡), 한(寒) | 신(辛)·고(苦), 한(寒) |
+| 전통 효능 강조점 | 청열해독·소옹산결·이습통림 | 청열해독·활혈거어·지혈·이수소종 |
+| 대표 성분군 | 이리도이드·플라보노이드·트리테르펜 | 플라보노이드·디테르펜 알칼로이드[^36][^37] |
+| 전통 주치 초점 | 장옹(腸癰)·옹저정독·습열임통 | 옹종정독·질타손상(跌打損傷)·토혈뉵혈(吐血衄血)·수종 |
+| 배오 관계 | 항암 처방에서 가장 흔한 약대의 한 축[^9][^19] | 상동 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 두 약재를 관행적으로 한 묶음처럼 처방하는 것은 근거에 부합하지 않으며, 어혈(瘀血)·출혈 경향·수습정체(水濕停滯)의 유무에 따라 반지련의 가감을 별도로 판단해야 한다. 특히 항응고제·항혈소판제를 복용 중인 환자에서는 반지련의 활혈 작용에 대한 별도의 위험 평가가 필요하다.
+
 ## 제2편 약리 작용 — 항암 기전을 중심으로
 
 ### 2-1. 항종양 기전 총론
@@ -102,6 +118,18 @@
 | 항염증·항바이러스 | 간기능 지표 개선, 상기도 감염 치료 유효율 | 임상시험 | [^4][^22] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 세포·동물 실험 수준의 기전 근거와 인체 임상 근거를 혼동하지 않도록, 각 항목의 근거 수준을 함께 확인해야 한다.
+
+### 2-8. 근거 층위의 구분 — 백화사설초 항암 서술을 읽는 법
+
+백화사설초만큼 "항암 효능"이 널리 회자되는 본초도 드물다. 그러나 그 주장들이 실제로 어떤 층위의 자료에 근거하고 있는지는 서로 크게 다르다. 이 문서는 아래 3개 층위를 명시적으로 구분하며, 임상가도 관련 정보를 접할 때 같은 방식으로 층위를 나누어 읽는 것이 바람직하다.
+
+| 층위 | 정의 | 이 문서에서의 위치 | 근거 강도 |
+|---|---|---|---|
+| ① 단미 직접 근거 | 백화사설초 단미(또는 단미가 명시적 주약)를 인체에 투여하거나, 인체 임상 데이터로 백화사설초의 효과를 직접 평가한 자료 | 폐선암 실제임상데이터 결합 연구, 문헌 고증, 성분·품질 리뷰 | 편수 자체가 적고, 무작위 대조시험은 사실상 없음 |
+| ② 속(屬)·성분·근연약 근거 | *Hedyotis* 속 성분 약리, 반지련 등 약대 상대 약재의 기전·임상 자료 | 항종양 기전 리뷰, 네트워크 약리학, 반지련 리뷰 | 대부분 전임상(세포·동물)이며 인체 외삽에 제약 |
+| ③ 배오 방제·주치 질환군 근거 | 백화사설초가 구성 약재의 하나로 포함된 복합 처방, 또는 백화사설초가 빈용되는 질환군(암 보조요법·간염·염증질환) 전반의 임상 근거 | 대만·중국 코호트, 각 암종별 메타분석, 부작용 관리 메타분석 | 편수는 가장 많으나 백화사설초 개별 기여도는 분리되지 않음 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. **현재 백화사설초 항암 관련 근거의 압도적 다수는 ②·③층에 속한다.** 즉 "백화사설초가 암세포를 죽인다"는 기전 서술은 대체로 세포·동물 실험에서 도출된 것이고,[교과서적 근거] 인체에서 확인된 것은 "백화사설초를 포함한 복합 한약을 표준 항암치료에 병용한 집단의 생존·증상 지표가 더 양호했다"는 관찰 수준의 연관성이다. 이 둘 사이에는 논리적 간극이 있으며, 그 간극을 메우지 않은 채 "백화사설초의 항암 효과"로 뭉뚱그려 설명하는 것은 환자에게 과도한 기대를 심어 표준 치료 순응도를 떨어뜨릴 위험이 있다.
 
 ## 제3편 배오(配伍) 원리
 
@@ -237,6 +265,64 @@
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 특히 사교상·소변임통 등 일부 전통 주치는 현대의 인체 대상 근거가 상대적으로 빈약하므로, 교과서적 이론과 실증된 근거를 구분하여 환자에게 설명해야 한다.
 
+### 4-14. 유방암 — 추가 근거와 층위
+
+삼중음성 유방암(TNBC) 환자를 대상으로 한 다기관 실제임상 연구(n=2,174)는 표준 치료에 한약을 보조적으로 병용한 군의 10년 전체 생존율이 유의하게 높았으며, 특히 1~3기 환자에서 개선 폭이 뚜렷했다고 보고하였다. 이 연구에서도 가미소요산·산조인탕(酸棗仁湯) 계열이 빈용 처방으로 확인되었다.[^31] 전이성 유방암을 오래 진료한 임상가의 처방을 자료 마이닝으로 분석한 연구(n=89)는 비위(脾胃)를 조리하고 후천지본(後天之本)을 보하는 것을 축으로 하되, 변증시치를 통해 보법(補法)과 사법(瀉法)을 조합하는 방식이 실제 임상에서 채택됨을 보여주었다.[^43] 다만 이들 자료는 모두 비무작위 설계이거나 처방 패턴 분석으로, 백화사설초 개별 약재의 기여도를 분리해 내지는 못한다.
+
+### 4-15. 비소세포폐암(NSCLC) — 배오 방제 층위의 메타분석 근거
+
+백화사설초는 폐암 영역 청열해독 배오의 상용 약재이나, 이 영역의 인체 근거는 대부분 백화사설초 단미가 아닌 복합 처방·중약 제제를 대상으로 축적되어 있다. 진행성 비소세포폐암에서 화학요법에 한약을 병용한 무작위 시험들을 종합한 메타분석(n=1,451)은 객관적 반응률·질병조절률·중앙 생존기간·삶의 질이 병용군에서 더 양호했다고 보고하였다.[^46] 앞선 메타분석(n=2,109)도 1년 생존율·종양 반응률·수행능력(KPS) 개선과 함께 중증 오심·구토 및 혈액학적 독성 감소를 보고하였다.[^47] 1차 화학요법 후 유지요법으로 경구 한약을 사용한 연구들을 종합한 메타분석(n=1,150)은 생존과 삶의 질 지표의 개선을 시사하였고,[^48] 소규모 무작위 대조시험(n=64)에서는 무진행 기간·전체 생존기간이 화학요법 유지요법과 유사한 반면 1년 생존율과 삶의 질은 더 양호했다고 보고되었다.[^52] 삶의 질을 지표로 한 체계적 고찰·네트워크 메타분석(n=4,247)은 병용 시 삶의 질이 개선되나 개별 중약 제제 간 우열은 뚜렷하지 않다고 정리하였다.[^49] 화학요법 중 경구 한약을 병용한 체계적 고찰(n=862)은 삶의 질 향상과 빈혈·중성구 감소증 완화 경향을 보고하면서도 포함 연구의 질이 낮음을 명시하였다.[^45] 황기 기반 처방과 백금계 화학요법의 병용을 다룬 고전적 메타분석(n=2,815)은 종양 반응률 향상과 사망 위험 감소를 보고하였다.[^50] 수술 후 보조화학요법 중 단계별 한약을 병용한 이중맹검 위약대조 무작위 시험(n=180)은 전반적 건강 상태와 삶의 질이 개선되고 피로·식욕부진 등의 악화 시점이 지연되었다고 보고하였다.[^51] 자료 마이닝으로 비소세포폐암의 변증별 핵심 약재를 분석한 연구는 기허·음허·혈허·신허·열독·담음·어혈의 7개 변증 축을 확인하고, 백화사설초와 같은 청열해독약이 열독 우세 변증에서 선택됨을 보여주었다.[^34] 남·북 지역 전문가 합의 분석 역시 폐암 치료의 공통 축은 건비화담(健脾化痰)·자음윤폐(滋陰潤肺)이고 청열해독·항암 약재는 열독·혈어가 뚜렷할 때 비중이 커진다고 정리하였다.[^33] 실제임상 자료를 표적시험 모사(target trial emulation) 기법으로 분석한 다기관 연구(n=6,395)는 4기 비소세포폐암에서 한약 병용군의 생존이 더 양호했고 특히 EGFR-TKI 병용군에서 장기 생존율이 가장 높았다고 보고하였다.[^35]
+
+이들 근거는 모두 **백화사설초가 포함될 수 있는 복합 처방** 에 관한 것이며, 백화사설초 단미의 폐암 효과를 입증한 것이 아니다. 폐선암 영역에서 백화사설초를 직접 평가한 자료는 앞서 다룬 실제임상데이터 결합 연구가 사실상 유일하다.[^11]
+
+### 4-16. 대장암 — 증상·독성 관리 근거와 음성·철회 근거의 병기
+
+대장암은 백화사설초의 청열이습·해독 배오가 이론적으로 가장 잘 맞는 영역으로 여겨지지만, 근거의 실상은 "항종양"보다 "항암 치료 독성 관리" 쪽에 치우쳐 있다. 화학요법 유발 골수억제를 다룬 네트워크 메타분석(n=2,314)은 한약 병용이 백혈구·헤모글로빈·혈소판 감소를 완화할 수 있으나 근거의 질이 충분치 않다고 명시하였다.[^53] 백혈구·중성구 감소증을 다룬 메타분석(n=1,867)은 3~4등급 중증 감소증 발생 억제를 보고하였고,[^54] 위장관 독성을 다룬 메타분석(n=1,995)은 오심·구토·설사·구강점막염 완화 가능성을 보고하면서도 **이중맹검 설계 연구에서는 유의한 효과가 나타나지 않았다** 는 점을 함께 기술하였다.[^56] 말초신경병증·수족증후군을 다룬 메타분석(n=4,286)은 증상 완화 가능성을 보고했으나 눈가림 부족과 짧은 관찰기간을 한계로 명시하였다.[^57] 건비해독(健脾解毒) 계열 한약을 다룬 메타분석(n=701)은 삶의 질 개선과 오심·구토·혈액독성 감소를 보고한 반면 **종양 크기 감소 등 직접적 항종양 반응에는 유의한 효과가 없었다** 고 정리하였다.[^55] 3기 결장암 수술 후 보조화학요법에 한약 제제를 더한 이중맹검 위약대조 무작위 시험(n=370)은 무병 생존율과 삶의 질 개선을 보고하였고,[^59] 2·3기 결장암을 대상으로 한 무작위 시험(n=376)은 보조화학요법 완료율 향상을 보고하면서도 혈소판 감소증 발생 빈도 증가를 함께 보고하여 혈액 수치 모니터링의 필요성을 남겼다.[^58] 습열축적형 진행성 대장암을 대상으로 가감 갈근금련탕(葛根芩連湯)을 평가하려는 임상시험 계획(n=120 예정)도 발표되어, 변증 층화를 전제로 한 설계가 시도되고 있다.[^63] 국내 문헌 고찰은 대장암에서 한약·침 치료가 생존·수술 후 증상 개선에 도움이 될 수 있으나 개별 처방의 결과가 연구마다 상이함을 지적하였다.[^85]
+
+**동시에 반드시 병기해야 할 음성·철회 근거가 있다.** 진행성 대장암에 대한 한약을 다룬 코크란 리뷰는 2012년 5월 병용군의 생존·삶의 질 개선을 보고했으나,[^62] 같은 해 9월 **품질 문제로 철회(WITHDRAWN)** 되어 임상 근거로 사용할 수 없게 되었다.[^60] 화학요법 부작용에 대한 코크란 리뷰 역시 황기 기반 탕약의 오심·구토·백혈구 감소 완화 가능성을 언급하면서도 포함 연구의 질이 낮아 결론을 내릴 수 없다고 명시하였다.[^61] 이 사례는 중국어권 항암 한약 문헌에서 긍정적 결론이 그대로 유지되지 않을 수 있음을 보여주는 대표적 예로, 백화사설초 함유 처방의 항암 효과를 설명할 때 반드시 함께 고려되어야 한다.
+
+### 4-17. 위암 — 전구병변부터 수술 후 보조요법까지
+
+위암 영역에서 백화사설초는 청열해독 축의 상용 약재로 처방 패턴 분석에 반복 등장한다. 위암 한약 처방 규칙을 분석한 연구는 보기약(補氣藥)이 가장 빈용되고 비·간 귀경 약재가 주축이며, 청열해독·이수삼습 약재가 중·말기 증상 완화와 수술 후 재발 방지 목적으로 배오됨을 확인하였다.[^42] 대만 전국 매칭 코호트(n=1,924)는 위암 환자에서 한약 병용군의 전체 생존이 더 양호했고 연간 180일 이상 복용군에서 사망 위험 감소가 컸다고 보고하였다.[^44] 수술 가능 위암에서 화학요법에 한약을 병용한 무작위 시험들의 메타분석(n=1,075)은 전체 생존·무병 생존의 개선 가능성을 보고하면서 포함 연구의 질이 낮음을 명시하였고,[^64] 수술 후 위암을 다룬 후속 메타분석은 종양 반응·삶의 질·1~3년 생존율 개선과 종양표지자(CEA·CA19-9·CA72-4) 감소를 보고하면서 **출판 편향 가능성** 을 경고하였다.[^65] 수술 후 진행성 위암에서 부정거사 원칙의 처방과 화학요법을 병용한 초기 임상연구(n=158)는 생존율과 자연살해세포 활성의 개선을 보고하였다.[^41] 위암 전구병변인 위점막 장상피화생·이형증을 대상으로 한 무작위 임상시험(n=242)은 청열해독 계열 산제(散劑)가 대조군보다 높은 개선율을 보였다고 보고하였다.[^40] 그러나 진행성·말기 위암의 관해 유도를 다룬 코크란 리뷰(n=5,261)는 **관해율 개선이나 사망률 감소의 근거가 불충분하며 연구의 질이 낮다** 고 결론지은 뒤 철회되었다.[^66]
+
+### 4-18. 간세포암·부인과 암 — 병용 근거의 재확인과 한계
+
+간암 영역에서는 앞서 다룬 대만 코호트 근거[^27][^28][^29] 외에 병용 무작위 시험을 종합한 메타분석이 축적되어 있다. 화학요법과 한약을 병용한 간세포암 메타분석(n=2,079)은 생존율·종양 반응률 개선을 보고하면서 포함 연구의 질적 한계를 명시하였고,[^68] 경동맥 화학색전술(TACE)에 한약을 병용한 메타분석(n=2,623)은 종양 반응률과 3년 생존율 개선을 보고하였다.[^69] 최근의 간암 보조요법 메타분석 역시 종양 반응률·생존율과 함께 Child-Pugh 점수 등 간기능 지표의 개선을 보고하였다.[^70] 부정거사 원칙을 적용한 중·말기 원발성 간암 메타분석은 **보기(補氣) 단독 원칙 처방이 장기 생존에, 보기와 거사(청열해독·화어)를 병행한 처방이 단기 종양 반응에 상대적으로 유리** 하다는 흥미로운 층화 결과를 제시하여, 백화사설초와 같은 거사약의 배오 시점을 판단하는 근거로 참고할 만하다.[^67] 만성 B형 간염 단계에서 한약을 처방받은 환자 코호트(n=21,020)에서 간세포암 발생 위험이 낮았다는 보고도 있어,[^39] 간암 예방·억제의 연속선상에서 청열이습 계열 배오를 고려할 여지가 있다.
+
+부인과 암에서는 난소암 감량수술·보조화학요법 후 한약을 병용한 메타분석(n=975)이 KPS 향상, CA125 감소, 3년 생존율 개선, 위장관 부작용·골수억제 감소를 보고하였고,[^71] 자궁경부암에서 황기 함유 처방과 화학요법을 병용한 메타분석은 종양 반응률·수행능력 개선과 항암제 독성 감소를 보고하였다.[^72] 이들은 백화사설초를 직접 평가한 자료는 아니지만, 앞서 다룬 자궁경부암 코호트[^26]와 같은 방향의 신호로 해석할 수 있다.
+
+### 4-19. 항암치료 부작용·삶의 질 관리 — 백화사설초 함유 처방의 실질적 자리
+
+암 완화의료 영역에서 한약을 다룬 체계적 고찰들의 개관 연구는 **삶의 질 개선에는 일관된 신호가 있으나 생존 연장이나 치료 독성 감소에 대해서는 근거가 상충한다** 고 정리하였다.[^73] 중국어권에서 발표된 대조 임상연구 전반을 조망한 연구들도 증상 개선·삶의 질 향상 목적의 적용이 주를 이루며, 생존·재발·전이 등 객관적 예후 지표에 대해서는 더 엄격한 설계가 필요하다고 지적하였다.[^74][^75] 항암치료 보조로서 한약의 역할을 갱신한 리뷰 역시 피로·통증·신경병증·위장관 장애 등 치료 관련 독성의 경감에서 임상적 가치를 찾으면서도, 표적치료와의 병용은 향후 엄격한 임상시험으로 검증되어야 한다고 명시하였다.[^32]
+
+임상 실무에서 백화사설초 함유 처방의 가장 현실적인 자리는 여기에 있다. 즉 **종양 자체를 축소시키는 수단이 아니라, 표준 항암치료를 끝까지 완주할 수 있도록 증상과 독성을 관리하는 지지 요법의 한 구성 요소** 로 위치시키는 것이 현재 근거에 부합한다.
+
+| 관리 목표 | 배오 방제 층위의 근거 | 백화사설초의 역할 |
+|---|---|---|
+| 골수억제(백혈구·혈소판 감소) | 대장암 네트워크 메타분석, 백혈구 감소 메타분석[^53][^54] | 열독 우세 시 배오, 보기양혈약이 주축 |
+| 위장관 독성(오심·구토·설사) | 대장암 위장관 독성 메타분석(이중맹검에서는 무효)[^56] | 습열 동반 시 소량 배오, 비위허한 시 감량·제외 |
+| 말초신경병증·수족증후군 | 대장암 CIPN·HFS 메타분석[^57] | 직접 근거 없음, 화어·온통 계열이 주축 |
+| 삶의 질·전신 상태 | 폐암·난소암·자궁경부암 메타분석, 완화의료 개관[^49][^71][^72][^73] | 열독 증상 경감을 통한 간접 기여 |
+| 치료 완주율 | 결장암 무작위 시험[^58] | 직접 근거 없음 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 표의 근거는 모두 백화사설초를 포함할 수 있는 복합 처방에 관한 것으로, 백화사설초 단미의 기여를 분리해 보여주지 않는다. **변증 없는 관행적 처방은 근거에 부합하지 않으며**, 특히 골수억제·전신 쇠약이 뚜렷한 시기에 한량 청열해독약을 관성적으로 유지하는 것은 부적절하다.
+
+### 4-20. 비종양 염증·감염 질환의 추가 근거
+
+전통 주치인 장옹(腸癰)에 대응하는 현대 근거로, 급성 충수염에서 한약과 항생제를 병용한 임상연구들을 종합한 메타분석은 병용군의 임상 유효율이 항생제 단독군보다 높았다고 보고하였다.[^84] 다만 이 분석은 포함 연구의 대부분이 중국어권 소규모 연구이고 수술적 치료와의 비교가 이루어지지 않아, **천공·복막염 위험이 있는 급성 충수염에서 수술·항생제 표준 치료를 대신할 근거가 되지 못한다.** 습열황달·간담 질환 영역에서는 B형 간염 환자 코호트(n=2,612)에서 한약 사용군의 급성 간염 악화와 간경변·간암 진행 위험이 낮았다는 보고,[^81] 만성 B형 간염에 간경변이 동반된 환자 코호트(n=1,522)에서 180일 이상 장기 복용군의 사망 위험이 낮았다는 보고가 있다.[^82] 그러나 만성 B형 간염에 대한 소시호탕(小柴胡湯)의 코크란 리뷰(n=934)는 **포함 연구의 질이 매우 낮아 임상 효과를 확립할 수 없다** 고 결론지었으며,[^83] 만성 B형 간염 한약 무작위 시험들의 무작위 배정 방법을 검토한 연구는 상당수 연구가 실제로는 무작위 배정이 이루어지지 않았음을 보고하였다.[^80] 이는 백화사설초 함유 처방의 간염 관련 근거[^4]를 해석할 때 반드시 감안해야 할 방법론적 배경이다.
+
+### 4-21. 항암 근거 해석 시 반드시 유의할 점 — 요약
+
+| 흔한 주장 | 실제 근거 상태 | 임상적 해석 |
+|---|---|---|
+| "백화사설초는 암세포를 죽인다" | 세포·동물 실험 수준의 기전 자료가 대부분[교과서적 근거] | 인체에서의 종양 축소 근거로 전용할 수 없음 |
+| "백화사설초를 먹으면 오래 산다" | 복합 처방 병용 코호트의 연관성 관찰[^24][^25][^26][^27][^29][^31][^44] | 적응증 편향을 배제할 수 없는 비무작위 근거 |
+| "한약이 항암 효과를 낸다" | 메타분석은 대부분 삶의 질·독성 지표에서 유의, 종양 반응은 불일치[^55][^56][^73] | 지지 요법 관점의 적용이 근거에 부합 |
+| "코크란에서도 인정했다" | 관련 코크란 리뷰 2편이 철회, 1편은 근거 불충분 결론[^60][^61][^66] | 근거로 인용해서는 안 됨 |
+| "부작용이 없어 안전하다" | 세포독성 신호·혈소판 감소 증가·상호작용 이론적 위험 보고[^22][^58][^76] | 병용 시 모니터링 필요 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 백화사설초의 임상적 가치를 정직하게 제시하는 것이 오히려 환자의 신뢰와 치료 순응도를 높이며, 과장된 항암 서술은 표준 치료 지연이라는 실질적 해악으로 이어질 수 있다.
+
 ## 제5편 용량·용법·안전성·약물상호작용
 
 ### 5-1. 용량·용법
@@ -251,6 +337,14 @@
 
 P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적으로 검토한 연구는, 백화사설초를 포함한 여러 본초 성분이 P-gp 억제제로 작용할 잠재력이 있다고 보고하였다.[^17] 이는 P-gp가 매개하는 약물 수송 경로를 이용하는 항암제(예: 일부 안트라사이클린계·탁산계 약물)와 병용할 경우, 이론적으로 해당 약물의 혈중 농도나 조직 분포에 영향을 줄 가능성을 시사한다. 다제내성 극복 리뷰 역시 두 가지 이상의 기전으로 내성을 역전시킬 수 있는 본초의 잠재력을 소개하면서도, 임상 적용에는 추가 검증이 필요함을 명시하였다.[^16] 따라서 세포독성 항암제·표적치료제를 투여받는 환자에게 백화사설초 함유 처방을 병용할 때는 반드시 담당 종양내과 전문의와 협진하여 약물 상호작용 가능성을 사전에 검토해야 한다.
 
+### 5-3-1. 실제 보고된 상호작용·이상반응 자료
+
+이론적 상호작용 우려와 실제 관찰된 이상반응은 구분해야 한다. 보충제·본초와 항암제의 상호작용 위험을 평가한 체계적 고찰(n=806)은 암 환자의 절반 이상이 보충제를 병용하고 이론적 상호작용 위험이 다수 보고되지만 **실제 임상적 이상반응으로 이어진 사례는 드물었다** 고 정리하면서, 임상가가 막연한 경고에 그치지 말고 개별 근거에 기반해 위험을 평가할 것을 권고하였다.[^76] 면역관문억제제와 한약을 병용한 대규모 이상사례 데이터베이스 분석(보고 799,670건)은 병용이 간질성 폐질환·대장염 등 중대한 면역 관련 이상반응(irAE) 위험을 유의하게 높이지 않았다고 보고하였다.[^77] 면역관문억제제를 투여받는 진행성 비소세포폐암 환자에서 보중익기탕(補中益氣湯) 병용의 안전성·유효성을 평가하기 위한 다기관 이중맹검 위약대조 예비 임상시험 계획도 발표되어, 이 영역의 전향적 검증이 시작되고 있다.[^78] 다만 이들 자료는 백화사설초 단미를 대상으로 한 것이 아니며, 백화사설초 자체의 항암제 상호작용을 인체에서 직접 측정한 연구는 확인되지 않는다. 한편 결장암 보조화학요법에 한약을 병용한 무작위 시험에서 **혈소판 감소증 발생 빈도가 증가** 한 사례가 보고되었으므로,[^58] 병용 중 혈액 수치 추적은 실무적으로 필요하다.
+
+### 5-3-2. 한약 복용 사실의 고지와 협진
+
+환자·의료진 간 보완대체요법 의사소통을 조사한 연구는 환자가 한약 복용 사실을 먼저 말하지 않는 주된 이유가 **의료진이 묻지 않기 때문** 이며, 개방적·비판단적으로 먼저 묻는 태도가 약물-본초 상호작용 위험을 줄이고 치료 계획의 일관성을 확보한다고 보고하였다.[^79] 항암치료 중 백화사설초 함유 처방을 병용할 때는 한의사가 먼저 복약 내역을 문서로 정리해 환자에게 제공하고, 종양내과 진료 시 제시하도록 안내하는 것이 실무적으로 유용하다.
+
 ### 5-4. 안전성 요약표
 
 | 위험 | 내용 | 참고 |
@@ -258,7 +352,12 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 | 비위허한 환자 | 소화기 불편감·설사 경향 악화 가능성 | [교과서적 근거] |
 | 장기 대용량 투여 | 경미한 세포독성 신호(단일 임상시험) | [^22] |
 | 항암제 상호작용 | P-gp 매개 약물 수송 경로 조절 가능성(이론적) | [^16][^17] |
+| 보충제·본초 병용 전반 | 이론적 상호작용 보고는 많으나 실제 임상 이상반응은 드묾. 개별 평가 권고 | [^76] |
+| 면역관문억제제 병용 | 대규모 이상사례 데이터 분석에서 중대한 irAE 위험 증가 신호는 확인되지 않음 | [^77] |
+| 혈액 지표 | 한약 병용군에서 혈소판 감소증 빈도 증가 보고(복합 처방 기준) | [^58] |
+| 반지련 동시 배오 | 활혈 작용에 따른 출혈 경향·항응고제 병용 위험 별도 평가 | [^36][^37] |
 | 표준 항암치료 대체 오인 | 표준 치료를 대체·지연시키는 용도로 사용 금지 | [교과서적 근거] |
+| 복약 사실 미고지 | 종양내과에 한약 복용을 알리지 않아 상호작용 평가 기회를 잃는 위험 | [^79] |
 | 임신·수유 | 한량 청열약으로서 안전성 근거 불충분, 신중 투여 | [교과서적 근거] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 백화사설초 함유 처방을 항암치료 중인 환자에게 병용할 때는 변증에 따른 적응증 확인과 함께, 위 표의 주의 사항을 개별 환자 상태와 항암제 처방 내역에 맞추어 적용해야 한다.
@@ -315,6 +414,22 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 
 본 문서에서 인용한 항암 보조요법 관련 관찰연구의 상당수는 대만 국가건강보험 데이터베이스를 활용한 대규모 코호트 연구다.[^8][^9][^10][^24][^25][^26][^27][^28][^29] 이는 통계적 검정력이 크다는 장점이 있으나, 동일한 의료보험 체계·처방 관행·인구 집단에서 반복적으로 도출된 결과라는 점에서 지역적 편중(geographic clustering)의 한계가 있다. 다른 의료 체계·인종 집단에서도 유사한 효과가 재현되는지는 별도의 검증이 필요하며, 이는 근거의 일반화 가능성을 제한하는 요인으로 임상가가 인지해야 할 부분이다.
 
+### 6-6. 근거의 질 평가 — 항암 한약 문헌을 다룰 때의 방법론적 유의점
+
+백화사설초 항암 근거를 평가할 때는 개별 연구의 결론만이 아니라 문헌군 전체의 방법론적 특성을 함께 보아야 한다.
+
+| 방법론적 문제 | 확인된 사례 | 임상가의 대응 |
+|---|---|---|
+| 체계적 고찰의 철회 | 진행성 대장암 한약 코크란 리뷰가 품질 문제로 철회[^60][^62], 진행·말기 위암 한약 코크란 리뷰도 근거 불충분 결론 후 철회[^66] | 리뷰 인용 전 철회·개정 여부 확인 |
+| 무작위 배정의 형해화 | 만성 B형 간염 한약 무작위 시험 검토에서 상당수가 실제 무작위 배정이 아니었음[^80] | "무작위"라는 표기만으로 근거 수준을 판단하지 않음 |
+| 출판 편향 | 수술 후 위암 한약 메타분석에서 출판 편향 가능성 제기[^65] | 효과 크기를 보수적으로 해석 |
+| 눈가림 여부에 따른 결과 반전 | 대장암 위장관 독성 메타분석에서 이중맹검 연구만 보면 유의성 소실[^56] | 하위군 분석의 눈가림 조건 확인 |
+| 적응증 편향 | 대규모 보험 데이터 코호트는 한약 사용군이 애초에 예후가 양호했을 가능성 배제 불가[^24][^25][^26][^27][^28][^29] | 인과가 아닌 연관으로 서술 |
+| 지역적 편중 | 인체 근거 대부분이 대만·중국 자료(§6-5 참조) | 다른 의료체계에서의 재현성 미확인 |
+| 개별 약재 기여도 분리 불가 | 거의 모든 인체 근거가 복합 처방 대상 | 백화사설초 단미의 효과로 환원하지 않음 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 이러한 한계를 인지하는 것은 한의학적 접근을 폄하하기 위해서가 아니라, 변증에 근거한 개별화 처방이라는 한의학 본래의 강점이 방법론적으로 정당하게 평가받을 수 있는 연구 설계(변증 층화 무작위 시험·실제임상 자료 기반 표적시험 모사 등[^35][^63])를 요구하기 위해서다.
+
 ## 제7편 Q&A
 
 **Q1. 백화사설초는 암을 치료하는 약재인가요?**
@@ -327,7 +442,7 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 
 **Q3. 어떤 암종에서 백화사설초 병용 근거가 가장 많나요?**
 
-간세포암·유방암·췌장암·자궁경부암·식도암 영역에서 대만·중국의 대규모 인구 기반 코호트 연구가 축적되어 있습니다.[^24][^25][^26][^27][^28][^29] 폐선암에서는 실제 임상 데이터와 실험적 기전 검증을 결합한 연구가,[^11] 비인두암에서는 이용 패턴을 분석한 대규모 연구가 있습니다.[^1] 다발성 골수종·대장암 영역은 아직 전임상·기전 연구 단계에 머물러 있어 인체 근거가 상대적으로 부족합니다.[^12][^16][^17][^18]
+간세포암·유방암·췌장암·자궁경부암·식도암·위암 영역에서 대만·중국의 대규모 인구 기반 코호트 연구가 축적되어 있습니다.[^24][^25][^26][^27][^28][^29][^31][^44] 폐선암에서는 실제 임상 데이터와 실험적 기전 검증을 결합한 연구가,[^11] 비인두암에서는 이용 패턴을 분석한 대규모 연구가 있습니다.[^1] 다만 이들은 모두 백화사설초를 포함한 **복합 처방** 에 대한 자료이며, 백화사설초 단미를 시험 약물로 한 무작위 대조시험은 어느 암종에서도 확인되지 않습니다. 대장암·폐암·위암에서는 복합 처방을 대상으로 한 메타분석이 다수 존재하지만, 그 유의한 결과는 대체로 삶의 질·항암제 독성 완화 쪽에 집중되어 있고 종양 반응에 대해서는 결과가 일치하지 않습니다.[^55][^56][^73] 다발성 골수종 영역은 여전히 전임상 단계에 머물러 있습니다.[^12]
 
 **Q4. 백화사설초를 항암화학요법과 병용해도 안전한가요?**
 
@@ -343,7 +458,7 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 
 **Q7. 백화사설초 관련 임상 연구는 얼마나 신뢰할 수 있나요?**
 
-현재 축적된 인체 대상 근거의 상당수는 대만·중국 국가건강보험 데이터베이스를 활용한 대규모 관찰연구(후향적 코호트)이며,[^8][^9][^10][^24][^25][^26][^27][^28][^29] 무작위 대조시험은 만성 자궁내막염,[^5] 만성 B형 간염,[^4] 류마티스 관절염[^6] 등 비종양 영역에서 소규모로 존재합니다. 항암 영역에서의 대규모 무작위 대조시험은 아직 부족하므로, 관찰연구에서 반복적으로 확인되는 신호(생존율 개선 경향)를 참고하되 인과관계를 확정할 수는 없다는 근거 수준의 한계를 인식해야 합니다.
+현재 축적된 인체 대상 근거의 상당수는 대만·중국 국가건강보험 데이터베이스를 활용한 대규모 관찰연구(후향적 코호트)이며,[^8][^9][^10][^24][^25][^26][^27][^28][^29] 무작위 대조시험은 만성 자궁내막염,[^5] 만성 B형 간염,[^4] 류마티스 관절염[^6] 등 비종양 영역에서 소규모로 존재합니다. 항암 영역에서의 대규모 무작위 대조시험은 아직 부족하므로, 관찰연구에서 반복적으로 확인되는 신호(생존율 개선 경향)를 참고하되 인과관계를 확정할 수는 없다는 근거 수준의 한계를 인식해야 합니다. 더 나아가 이 영역의 문헌군에서는 **진행성 대장암·말기 위암에 대한 코크란 리뷰가 각각 철회되었고,[^60][^66] 만성 B형 간염 한약 시험의 상당수가 실제로는 무작위 배정이 이루어지지 않았음이 확인** 되었습니다.[^80] 긍정적 결론만을 취사선택하지 말고, 이러한 음성·철회 근거를 함께 환자에게 설명하는 것이 장기적으로 신뢰를 높입니다.
 
 **Q8. 백화사설초를 구입할 때 주의할 점이 있나요?**
 
@@ -351,7 +466,7 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 
 ---
 
-**근거 수집 한계에 대한 정직한 명시**: 본 문서 작성을 위해 "Hedyotis diffusa", "Oldenlandia diffusa", "白花蛇舌草", "백화사설초" 등 다양한 검색어로 전수 검색을 시행한 결과, 총 400편 이상의 관련 문헌이 확인되었으나 이 중 압도적 다수는 동물 모델 또는 세포주를 이용한 전임상 실험 연구였다. 본 저장소의 원칙에 따라 동물·세포 대상 연구를 모두 제외한 뒤 인체 데이터 기반 임상시험·관찰연구·증례 보고와, 인체 적용을 전제로 기전을 종합한 문헌 고찰·체계적 고찰만을 엄선한 결과 **서로 다른 DOI/PMID 30편** 을 확보하였다. 이는 본초·경혈 표제어의 목표치인 80편, 최소 기준인 50편에 미치지 못하는 수치로, 백화사설초에 대한 순수 인체 임상 근거(특히 무작위 대조시험) 자체가 아직 충분히 축적되지 않았다는 사실을 정직하게 반영한다. 향후 백화사설초 단독 또는 백화사설초-반지련 약대를 대상으로 한 전향적 무작위 대조시험이 추가로 발표되면 근거 기반이 보강될 필요가 있다.
+**근거 기반의 한계에 대한 정직한 명시**: 백화사설초에 관한 문헌은 편수 자체는 매우 많지만, 그 압도적 다수가 세포주 또는 동물 모델을 이용한 전임상 실험이다. 인체를 대상으로 한 자료만을 놓고 보면, **백화사설초 단미를 직접 평가한 인체 연구는 폐선암 실제임상데이터 결합 연구 한 편에 가깝고, 나머지는 백화사설초가 구성 약재의 하나로 포함된 복합 처방 또는 처방 패턴에 관한 자료** 다. 항암 영역에서 백화사설초 단독 또는 백화사설초-반지련 약대를 시험 약물로 삼은 전향적 무작위 대조시험은 확인되지 않으며, 인체 근거의 다수는 대만 국가건강보험 자료 기반의 후향적 코호트다. 비종양 영역(만성 B형 간염·만성 자궁내막염·류마티스 관절염·상기도 감염)에는 소규모 무작위 대조시험이 존재하지만 대부분 단일 기관·소표본이며, 관련 문헌군 전반에서 무작위 배정의 형해화·출판 편향·체계적 고찰의 철회가 확인된다(§6-6 참조). 따라서 이 문서의 항암 관련 서술은 **"백화사설초가 암을 치료한다"는 명제를 지지하는 것이 아니라, 백화사설초를 포함한 한약을 표준 항암치료에 병용했을 때 증상·삶의 질·치료 완주 측면에서 관찰된 신호와 그 해석의 한계를 정리한 것** 으로 읽어야 한다.
 
 [^1]: The Use of Chinese Herbal Products for Nasopharyngeal Carcinoma in Taiwan: A Population-Based Study. Shih-Ting Tseng 외. _Preprints.org_. 2018-09-26. [관찰연구] [DOI 10.20944/preprints201809.0498.v1](https://doi.org/10.20944/preprints201809.0498.v1) — 대만 비인두암 환자 3만여 명의 중약 이용 패턴을 분석해 백화사설초 등의 빈용을 확인한 대규모 인구 기반 연구.
 [^2]: Chemical and preclinical studies on Hedyotis diffusa with anticancer potential. Niu Y 외. _Journal of Asian natural products research_. 2013. [문헌 고찰] [DOI 10.1080/10286020.2013.781589](https://doi.org/10.1080/10286020.2013.781589) [PMID 23600735](https://pubmed.ncbi.nlm.nih.gov/23600735/) — 백화사설초의 화학 성분과 전임상 항암 활성을 개관한 초기 종합 리뷰.
@@ -375,15 +490,70 @@ P-당단백질(P-gp) 매개 다제내성을 역전시키는 본초를 체계적�
 [^20]: Immune and Tumor Microenvironment Mechanisms of Hedyotis diffusa Willd: A Scoping Review and Network Pharmacology Analysis. Kim SD 외. _Cancers_. 2026-02-18. [체계적 고찰] [DOI 10.3390/cancers18040672](https://doi.org/10.3390/cancers18040672) [PMID 41749926](https://pubmed.ncbi.nlm.nih.gov/41749926/) — 백화사설초의 면역·종양미세환경 조절 기전(PI3K-Akt-STAT3 경로)을 정리한 스코핑 리뷰 겸 네트워크 약리학 분석.
 [^21]: Herbal Medicine in Breast Cancer Therapy: Mechanisms, Evidence, and Future Perspectives. Wu HC 외. _Current issues in molecular biology_. 2025-05-15. [문헌 고찰] [DOI 10.3390/cimb47050362](https://doi.org/10.3390/cimb47050362) [PMID 40699761](https://pubmed.ncbi.nlm.nih.gov/40699761/) — 유방암에서 한약 성분의 항암 보조 기전과 임상 편입을 위한 과제를 정리한 리뷰.
 [^22]: [Treatment of upper respiratory infection with mixt. 716 compound]. Luo H. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1993-12. [임상시험] [PMID 8136647](https://pubmed.ncbi.nlm.nih.gov/8136647/) — 백화사설초 함유 복합제가 상기도 감염에 높은 유효율을 보였으나 경미한 세포독성이 함께 보고된 임상시험.
-[^23]: Integrative therapy for advanced pancreatic cancer using Kampo and western medicine: A case report. Shimizu M 외. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2020.07.003](https://doi.org/10.1016/j.explore.2020.07.003) [PMID 32736951](https://pubmed.ncbi.nlm.nih.gov/32736951/) — 진행성 췌장암 환자에게 현대 항암치료와 한방 통합치료를 병행해 부작용 개선·생존 연장을 관찰한 단일 증례.
+[^23]: Integrative therapy for advanced pancreatic cancer using Kampo and western medicine: A case report. Shimizu M 외. _Explore (New York, N.Y.)_. 2021-05-01. [증례 보고] [DOI 10.1016/j.explore.2020.07.003](https://doi.org/10.1016/j.explore.2020.07.003) [PMID 32736951](https://pubmed.ncbi.nlm.nih.gov/32736951/) — 진행성 췌장암 환자에게 현대 항암치료와 한방 통합치료를 병행해 부작용 개선·생존 연장을 관찰한 단일 증례.
 [^24]: Adjunctive traditional Chinese medicine therapy improves survival in patients with advanced breast cancer: a population-based study. Lee YW 외. _Cancer_. 2014-05-01. [관찰연구] [DOI 10.1002/cncr.28579](https://doi.org/10.1002/cncr.28579) [PMID 24496917](https://pubmed.ncbi.nlm.nih.gov/24496917/) — 진행성 유방암 환자 729명에서 CHM 병용 기간에 비례해 사망 위험이 감소함을 보고한 인구 기반 연구.
 [^25]: Complementary Chinese Herbal Medicine Therapy Improves Survival of Patients With Pancreatic Cancer in Taiwan: A Nationwide Population-Based Cohort Study. Kuo YT 외. _Integrative cancer therapies_. 2018-06. [관찰연구] [DOI 10.1177/1534735417722224](https://doi.org/10.1177/1534735417722224) [PMID 28774207](https://pubmed.ncbi.nlm.nih.gov/28774207/) — 췌장암 환자 772명에서 CHM 병용 기간에 비례한 생존율 개선을 보고한 전국 코호트 연구.
-[^26]: Adjunctive Chinese Herbal Medicine Treatment is Associated With an Improved Survival Rate in Patients With Cervical Cancer in Taiwan: A Matched Cohort Study. Wang C 외. _Integrative cancer therapies_. [관찰연구] [DOI 10.1177/15347354211061752](https://doi.org/10.1177/15347354211061752) [PMID 34923874](https://pubmed.ncbi.nlm.nih.gov/34923874/) — 자궁경부암 환자 15,042명에서 CHM 병용군의 생존율이 개선되었으나 향후 RCT 필요성을 명시한 매칭 코호트 연구.
+[^26]: Adjunctive Chinese Herbal Medicine Treatment is Associated With an Improved Survival Rate in Patients With Cervical Cancer in Taiwan: A Matched Cohort Study. Wang C 외. _Integrative cancer therapies_. 2021. [관찰연구] [DOI 10.1177/15347354211061752](https://doi.org/10.1177/15347354211061752) [PMID 34923874](https://pubmed.ncbi.nlm.nih.gov/34923874/) — 자궁경부암 환자 15,042명에서 CHM 병용군의 생존율이 개선되었으나 향후 RCT 필요성을 명시한 매칭 코호트 연구.
 [^27]: Chinese herbal medicine therapy and the risk of overall mortality for patients with liver cancer who underwent surgical resection in Taiwan. Tsai FJ 외. _Complementary therapies in medicine_. 2019-12. [관찰연구] [DOI 10.1016/j.ctim.2019.102213](https://doi.org/10.1016/j.ctim.2019.102213) [PMID 31780007](https://pubmed.ncbi.nlm.nih.gov/31780007/) — 간암 절제술 후 CHM 병용이 사망 위험을 낮췄음을 보고한 코호트 연구(n=420).
 [^28]: Prescription frequency and patterns of Chinese herbal medicine for liver cancer patients in Taiwan: a cross-sectional analysis of the National Health Insurance Research Database. Ting CT 외. _BMC complementary and alternative medicine_. 2017-02-20. [관찰연구] [DOI 10.1186/s12906-017-1628-0](https://doi.org/10.1186/s12906-017-1628-0) [PMID 28219357](https://pubmed.ncbi.nlm.nih.gov/28219357/) — 대만 간세포암 환자 73,918명의 국가건강보험 데이터에서 백화사설초의 처방 빈도를 확인한 횡단 분석.
 [^29]: The Characteristics and Mortality of Chinese Herbal Medicine Users among Newly Diagnosed Inoperable Huge Hepatocellular Carcinoma (≥10 cm) Patients: A Retrospective Cohort Study with Exploration of Core Herbs. Chen SL 외. _International journal of environmental research and public health_. 2022-09-30. [관찰연구] [DOI 10.3390/ijerph191912480](https://doi.org/10.3390/ijerph191912480) [PMID 36231778](https://pubmed.ncbi.nlm.nih.gov/36231778/) — 수술 불가능한 거대 간세포암 환자 1,618명에서 백화사설초 함유 처방과 생존율 개선의 연관성을 보고한 코호트 연구.
 [^30]: Traditional Chinese medicine syndrome-related herbal prescriptions in treatment of malignant tumors. Liu Z 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2013-02. [관찰연구] [DOI 10.1016/s0254-6272(13)60095-3](https://doi.org/10.1016/s0254-6272(13)60095-3) [PMID 23596807](https://pubmed.ncbi.nlm.nih.gov/23596807/) — 악성 종양 환자 136명의 변증-처방 패턴을 분석해 기음양허·독열내저형에서 백화사설초 등이 빈용됨을 확인한 연구.
+[^31]: Integrative Chinese Herbal Medicine as Adjuvant Management for Triple-Negative Breast Cancer: A Multi-Institutional Real-World Study With Mechanism Exploration. Hou HI 외. _Integrative cancer therapies_. 2026. [관찰연구] [DOI 10.1177/15347354261451843](https://doi.org/10.1177/15347354261451843) [PMID 42240152](https://pubmed.ncbi.nlm.nih.gov/42240152/) — 삼중음성 유방암 2,174명 실제임상 자료에서 한약 병용군의 10년 생존이 더 양호했으나 무작위 배정이 아닌 연관성 근거.
+[^32]: An update on Chinese herbal medicines as adjuvant treatment of anticancer therapeutics. Wang Z 외. _Bioscience trends_. 2018. [문헌 고찰] [DOI 10.5582/bst.2018.01144](https://doi.org/10.5582/bst.2018.01144) [PMID 30012913](https://pubmed.ncbi.nlm.nih.gov/30012913/) — 항암 보조 한약의 임상적 가치를 치료 관련 독성 경감에서 찾고, 표적치료 병용은 추가 검증이 필요하다고 정리한 갱신 리뷰.
+[^33]: [Consensuses on lung cancer treatment by Chinese medicine experts from Beijing and Guangzhou and medication features in the North and South China]. Wang SM 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-07. [관찰연구] [PMID 21866673](https://pubmed.ncbi.nlm.nih.gov/21866673/) — 폐암 치료의 공통 축은 건비화담·자음윤폐이며 청열해독·항암 약재는 열독·혈어 우세 시 비중이 커진다는 전문가 합의 분석.
+[^34]: A Data Mining-Based Analysis of Core Herbs on Different Patterns (Zheng) of Non-Small Cell Lung Cancer. Qi X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [체계적 고찰] [DOI 10.1155/2021/3621677](https://doi.org/10.1155/2021/3621677) [PMID 34257676](https://pubmed.ncbi.nlm.nih.gov/34257676/) — 비소세포폐암의 7개 변증 축을 도출해 청열해독약이 열독 우세 변증에 선택됨을 보여준 자료 마이닝 분석.
+[^35]: Integrating Chinese herbal medicine in advanced lung cancer: A multicenter real-world study using target trial emulation. Lu TT 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2025-11-25. [관찰연구] [DOI 10.1016/j.phymed.2025.157239](https://doi.org/10.1016/j.phymed.2025.157239) [PMID 40946661](https://pubmed.ncbi.nlm.nih.gov/40946661/) — 실제임상 자료에 표적시험 모사를 적용해 4기 폐암 한약 병용군의 생존을 평가한 연구로, 관찰자료의 편향을 줄이려는 설계상의 진전.
+[^36]: [Research progress on chemical constituents, pharmacological action and quality control of Scutellaria barbata]. Na LI 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-11. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20200806.601](https://doi.org/10.19540/j.cnki.cjcmm.20200806.601) [PMID 33350227](https://pubmed.ncbi.nlm.nih.gov/33350227/) — 반지련의 성분·약리·품질관리를 정리해 백화사설초와 성분 계열이 다름을 확인할 수 있는 근거.
+[^37]: Chemical Constituents, Anti-Tumor Mechanisms, and Clinical Application: A Comprehensive Review on Scutellaria barbata. Sun J 외. _Molecules (Basel, Switzerland)_. 2024-08-31. [문헌 고찰] [DOI 10.3390/molecules29174134](https://doi.org/10.3390/molecules29174134) [PMID 39274982](https://pubmed.ncbi.nlm.nih.gov/39274982/) — 반지련의 항종양 기전이 주로 전임상 수준임을 보여주며, 약대 상대 약재의 근거 층위를 가늠하는 자료.
+[^38]: Scutellaria barbata: A Review on Chemical Constituents, Pharmacological Activities and Clinical Applications. Chen Q 외. _Current pharmaceutical design_. 2020. [문헌 고찰] [DOI 10.2174/1381612825666191216124310](https://doi.org/10.2174/1381612825666191216124310) [PMID 31840605](https://pubmed.ncbi.nlm.nih.gov/31840605/) — 반지련의 활혈 작용과 심뇌혈관 응용을 정리해 백화사설초와의 주치 차이를 뒷받침하는 리뷰.
+[^39]: Associations between prescribed Chinese herbal medicine and risk of hepatocellular carcinoma in patients with chronic hepatitis B: a nationwide population-based cohort study. Tsai TY 외. _BMJ open_. 2017-01-25. [관찰연구] [DOI 10.1136/bmjopen-2016-014571](https://doi.org/10.1136/bmjopen-2016-014571) [PMID 28122837](https://pubmed.ncbi.nlm.nih.gov/28122837/) — 만성 B형 간염 21,020명 코호트에서 한약 처방군의 간세포암 발생 위험이 낮았던 연관성 근거.
+[^40]: [Treatment of intestinal metaplasia and atypical hyperplasia of gastric mucosa with xiao wei yan powder]. Liu XR 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-10. [임상시험] [PMID 1302542](https://pubmed.ncbi.nlm.nih.gov/1302542/) — 위암 전구병변인 장상피화생·이형증에서 청열해독 계열 산제의 개선율을 보고한 초기 무작위 임상시험.
+[^41]: [Treatment of operated late gastric carcinoma with prescription of strengthening the patient's resistance and dispelling the invading evil in combination with chemotherapy: follow-up study of 158 patients and experimental study in animals]. Wang GT. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1990-12. [관찰연구] [PMID 2292115](https://pubmed.ncbi.nlm.nih.gov/2292115/) — 수술 후 진행성 위암에서 부정거사 처방 병용군의 생존·면역 지표 개선을 보고한 추적 연구(인간 데이터 한정).
+[^42]: [Prescription rules of Chinese herbal medicines in treatment of gastric cancer]. Cao W 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2009-01. [체계적 고찰] [DOI 10.3736/jcim20090101](https://doi.org/10.3736/jcim20090101) [PMID 19134451](https://pubmed.ncbi.nlm.nih.gov/19134451/) — 위암 처방에서 보기약이 주축이고 청열해독약은 보조적으로 배오된다는 처방 규칙 분석.
+[^43]: [Analysis of professor Lin Yi's experience for metastasis breast cancer by data mining]. Xie WJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2018-08. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.2018.0095](https://doi.org/10.19540/j.cnki.cjcmm.2018.0095) [PMID 30200718](https://pubmed.ncbi.nlm.nih.gov/30200718/) — 전이성 유방암 실제 처방을 분석해 조리비위와 변증시치 중심의 배오 원칙을 도출한 자료 마이닝 연구.
+[^44]: Complementary Chinese herbal medicine therapy improves survival of patients with gastric cancer in Taiwan: A nationwide retrospective matched-cohort study. Hung KF 외. _Journal of ethnopharmacology_. 2017-03-06. [관찰연구] [DOI 10.1016/j.jep.2017.02.004](https://doi.org/10.1016/j.jep.2017.02.004) [PMID 28163114](https://pubmed.ncbi.nlm.nih.gov/28163114/) — 위암 1,924명 매칭 코호트에서 한약 병용 기간에 비례한 사망 위험 감소를 보고한 관찰 근거.
+[^45]: Oral Chinese herbal medicine (CHM) as an adjuvant treatment during chemotherapy for non-small cell lung cancer: A systematic review. Chen S 외. _Lung cancer (Amsterdam, Netherlands)_. 2010-05. [체계적 고찰] [DOI 10.1016/j.lungcan.2009.11.008](https://doi.org/10.1016/j.lungcan.2009.11.008) [PMID 20015572](https://pubmed.ncbi.nlm.nih.gov/20015572/) — 폐암 화학요법 중 경구 한약 병용의 삶의 질·혈액독성 개선 경향을 보고하되 포함 연구의 낮은 질을 명시한 고찰.
+[^46]: Systematic review and meta-analysis of Chinese herbal medicine as adjuvant treatment in advanced non-small cell lung cancer patients. Wang LC 외. _Complementary therapies in medicine_. 2020-08. [메타분석] [DOI 10.1016/j.ctim.2020.102472](https://doi.org/10.1016/j.ctim.2020.102472) [PMID 32951722](https://pubmed.ncbi.nlm.nih.gov/32951722/) — 진행성 비소세포폐암 병용군의 반응률·생존·삶의 질 개선을 보고한 메타분석으로, 배오 방제 층위의 대표 근거.
+[^47]: The efficacy of Chinese herbal medicine as an adjunctive therapy for advanced non-small cell lung cancer: a systematic review and meta-analysis. Li SG 외. _PloS one_. 2013. [메타분석] [DOI 10.1371/journal.pone.0057604](https://doi.org/10.1371/journal.pone.0057604) [PMID 23469033](https://pubmed.ncbi.nlm.nih.gov/23469033/) — 1년 생존율·수행능력 개선과 함께 중증 오심·구토 및 혈액독성 감소를 보고한 메타분석.
+[^48]: Oral Chinese herbal medicine as maintenance treatment after chemotherapy for advanced non-small-cell lung cancer: a systematic review and meta-analysis. Wang Q 외. _Current oncology (Toronto, Ont.)_. 2017-08. [메타분석] [DOI 10.3747/co.24.3561](https://doi.org/10.3747/co.24.3561) [PMID 28874897](https://pubmed.ncbi.nlm.nih.gov/28874897/) — 화학요법 후 유지요법으로서 경구 한약의 생존·삶의 질 개선 가능성을 정리한 메타분석.
+[^49]: Chinese Herbal Medicine for Improving Quality of Life Among Nonsmall Cell Lung Cancer Patients: Overview of Systematic Reviews and Network Meta-Analysis. Wu X 외. _Medicine_. 2016-01. [체계적 고찰] [DOI 10.1097/MD.0000000000002410](https://doi.org/10.1097/MD.0000000000002410) [PMID 26735544](https://pubmed.ncbi.nlm.nih.gov/26735544/) — 삶의 질 개선은 확인되나 개별 중약 제제 간 우열은 뚜렷하지 않다고 정리해 과도한 제제 선호를 경계하게 하는 근거.
+[^50]: Astragalus-based Chinese herbs and platinum-based chemotherapy for advanced non-small-cell lung cancer: meta-analysis of randomized trials. McCulloch M 외. _Journal of clinical oncology : official journal of the American Society of Clinical Oncology_. 2006-01-20. [메타분석] [DOI 10.1200/JCO.2005.03.6392](https://doi.org/10.1200/JCO.2005.03.6392) [PMID 16421421](https://pubmed.ncbi.nlm.nih.gov/16421421/) — 보기약 중심 배오와 백금계 화학요법 병용의 반응률·사망 위험 개선을 보고한 고전적 메타분석.
+[^51]: Patient-Reported Outcomes of Postoperative NSCLC Patients with or without Staged Chinese Herb Medicine Therapy during Adjuvant Chemotherapy (NALLC 2): A Randomized, Double-Blind, Placebo-Controlled Trial. Zhang YL 외. _Chinese journal of integrative medicine_. 2024-11. [임상시험] [DOI 10.1007/s11655-024-4114-9](https://doi.org/10.1007/s11655-024-4114-9) [PMID 39266862](https://pubmed.ncbi.nlm.nih.gov/39266862/) — 이중맹검 위약대조 설계로 한약 병용의 삶의 질·증상 악화 지연을 보인 드문 고질 근거.
+[^52]: Traditional Chinese Medicine treatment as maintenance therapy in advanced non-small-cell lung cancer: A randomized controlled trial. Jiang Y 외. _Complementary therapies in medicine_. 2016-02. [임상시험] [DOI 10.1016/j.ctim.2015.12.006](https://doi.org/10.1016/j.ctim.2015.12.006) [PMID 26860802](https://pubmed.ncbi.nlm.nih.gov/26860802/) — 무진행 기간은 화학요법 유지요법과 유사하고 삶의 질만 우월했던 결과로, 효과의 성격을 구분해 보여주는 근거.
+[^53]: Chinese Medicine Combined with Adjuvant Chemotherapy for Improving Myelosuppression in Colorectal Cancer Patients: A Systematic Review and Network Meta-Analysis. Li R 외. _Chinese journal of integrative medicine_. 2024-07. [메타분석] [DOI 10.1007/s11655-023-3558-7](https://doi.org/10.1007/s11655-023-3558-7) [PMID 38212495](https://pubmed.ncbi.nlm.nih.gov/38212495/) — 골수억제 완화 가능성을 보고하면서 근거의 질이 충분치 않음을 명시한 네트워크 메타분석.
+[^54]: Effectiveness of Herbal Medicine for Leukopenia/Neutropenia Induced by Chemotherapy in Adults with Colorectal Cancer: A Systematic Review and Meta-analysis. Yan SH 외. _Integrative cancer therapies_. 2021. [메타분석] [DOI 10.1177/15347354211021654](https://doi.org/10.1177/15347354211021654) [PMID 34116595](https://pubmed.ncbi.nlm.nih.gov/34116595/) — 3~4등급 중증 백혈구·중성구 감소증 억제를 보고해 지지 요법으로서의 위치를 뒷받침하는 근거.
+[^55]: Use of Jianpi Jiedu Herbs in Patients with Advanced Colorectal Cancer: A Systematic Review and Meta-Analysis. Shaofan Zhang 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [메타분석] [DOI 10.1155/2018/6180810](https://doi.org/10.1155/2018/6180810) — 삶의 질·부작용은 개선되었으나 **종양 반응에는 유의한 효과가 없었던** 음성 결과를 함께 보고한 메타분석.
+[^56]: Efficacy of Herbal Medicines Intervention for Colorectal Cancer Patients With Chemotherapy-Induced Gastrointestinal Toxicity - a Systematic Review and Meta-Analysis. Chen Y 외. _Frontiers in oncology_. 2021. [메타분석] [DOI 10.3389/fonc.2021.629132](https://doi.org/10.3389/fonc.2021.629132) [PMID 33869014](https://pubmed.ncbi.nlm.nih.gov/33869014/) — 위장관 독성 완화 가능성을 보고했으나 이중맹검 연구만 보면 유의성이 사라져 눈가림의 중요성을 보여주는 근거.
+[^57]: Integrative Herbal Medicine for Chemotherapy-Induced Peripheral Neuropathy and Hand-Foot Syndrome in Colorectal Cancer: A Systematic Review and Meta-Analysis. Yihong Liu 외. _Integrative Cancer Therapies_. 2018-12-10. [메타분석] [DOI 10.1177/1534735418817833](https://doi.org/10.1177/1534735418817833) — 말초신경병증·수족증후군 완화 가능성을 보고하되 눈가림 부족과 짧은 관찰기간을 한계로 명시한 메타분석.
+[^58]: Chinese herbal medicine (JianPi-BuShen) and completion rate of adjuvant chemotherapy for patients with stage II and III colon cancer: A randomized clinical trial. Sun L 외. _European journal of cancer (Oxford, England : 1990)_. 2024-12. [임상시험] [DOI 10.1016/j.ejca.2024.115109](https://doi.org/10.1016/j.ejca.2024.115109) [PMID 39509846](https://pubmed.ncbi.nlm.nih.gov/39509846/) — 화학요법 완주율 향상과 동시에 혈소판 감소증 빈도 증가를 보고해 병용 시 혈액 모니터링 필요성을 남긴 무작위 시험.
+[^59]: Effect of PRM1201 Combined With Adjuvant Chemotherapy on Preventing Recurrence and Metastasis of Stage III Colon Cancer: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Jia R 외. _Frontiers in oncology_. 2021. [임상시험] [DOI 10.3389/fonc.2021.618793](https://doi.org/10.3389/fonc.2021.618793) [PMID 33747930](https://pubmed.ncbi.nlm.nih.gov/33747930/) — 위약대조 이중맹검 설계에서 무병 생존율·삶의 질 개선을 보인, 이 영역에서 드문 고질 무작위 시험.
+[^60]: WITHDRAWN: Herbal medicines for advanced colorectal cancer. Guo Z 외. _The Cochrane database of systematic reviews_. 2012-09-12. [체계적 고찰] [DOI 10.1002/14651858.CD004653.pub3](https://doi.org/10.1002/14651858.CD004653.pub3) [PMID 22972073](https://pubmed.ncbi.nlm.nih.gov/22972073/) — 품질 문제로 철회된 코크란 리뷰. 항암 한약의 긍정적 결론이 유지되지 않은 대표 사례로, 근거로 인용할 수 없다.
+[^61]: Chinese medical herbs for chemotherapy side effects in colorectal cancer patients. Taixiang W 외. _The Cochrane database of systematic reviews_. 2005-01-25. [체계적 고찰] [DOI 10.1002/14651858.CD004540.pub2](https://doi.org/10.1002/14651858.CD004540.pub2) [PMID 15674951](https://pubmed.ncbi.nlm.nih.gov/15674951/) — 부작용 완화 가능성을 언급하면서도 포함 연구의 질이 낮아 결론을 내릴 수 없다고 명시한 코크란 리뷰.
+[^62]: Herbal medicines for advanced colorectal cancer. Guo Z 외. _The Cochrane database of systematic reviews_. 2012-05-16. [체계적 고찰] [DOI 10.1002/14651858.CD004653.pub2](https://doi.org/10.1002/14651858.CD004653.pub2) [PMID 22592697](https://pubmed.ncbi.nlm.nih.gov/22592697/) — 병용군의 생존·삶의 질 개선을 보고했던 판본으로, 같은 해 철회되었으므로 반드시 철회 사실과 함께 읽어야 한다.
+[^63]: The efficacy and safety of modified Gegenqinlian Formular for advanced colorectal cancer (damp heat accumulation type). Zhi-Jie Wang 외. _Medicine_. 2021-12-10. [임상시험] [DOI 10.1097/md.0000000000027850](https://doi.org/10.1097/md.0000000000027850) — 습열축적형으로 대상을 층화한 임상시험 계획으로, 변증 층화 설계가 시도되고 있음을 보여주는 자료(결과 미발표).
+[^64]: Benefit of Adjuvant Traditional Herbal Medicine With Chemotherapy for Resectable Gastric Cancer. Lee YK 외. _Integrative cancer therapies_. 2018-09. [메타분석] [DOI 10.1177/1534735417753542](https://doi.org/10.1177/1534735417753542) [PMID 29614889](https://pubmed.ncbi.nlm.nih.gov/29614889/) — 수술 가능 위암에서 병용군의 생존 개선 가능성을 보고하되 포함 연구의 낮은 질을 명시한 메타분석.
+[^65]: Comprehensive Evaluation of Traditional Herbal Medicine Combined With Adjuvant Chemotherapy on Post-Surgical Gastric Cancer: A Systematic Review and Meta-Analysis. Kim SD 외. _Integrative cancer therapies_. 2024. [메타분석] [DOI 10.1177/15347354231226256](https://doi.org/10.1177/15347354231226256) [PMID 38281123](https://pubmed.ncbi.nlm.nih.gov/38281123/) — 종양표지자·생존 개선을 보고하면서 출판 편향 가능성을 경고해 효과 크기의 보수적 해석을 요구하는 근거.
+[^66]: WITHDRAWN: Chinese herbal medicines for induction of remission in advanced or late gastric cancer. Gan T 외. _The Cochrane database of systematic reviews_. 2011-02-16. [체계적 고찰] [DOI 10.1002/14651858.CD005096.pub3](https://doi.org/10.1002/14651858.CD005096.pub3) [PMID 21328274](https://pubmed.ncbi.nlm.nih.gov/21328274/) — 관해율·사망률 개선 근거가 불충분하다고 결론지은 뒤 철회된 코크란 리뷰. 말기 위암 한약의 한계를 보여주는 음성 근거.
+[^67]: The Therapeutic Principle of Combined Strengthening Qi and Eliminating Pathogens in Treating Middle-Advanced Primary Liver Cancer: A Systematic Review and Meta-Analysis. She Y 외. _Frontiers in pharmacology_. 2021. [메타분석] [DOI 10.3389/fphar.2021.714287](https://doi.org/10.3389/fphar.2021.714287) [PMID 34776950](https://pubmed.ncbi.nlm.nih.gov/34776950/) — 보기 단독은 장기 생존, 보기+거사 병행은 단기 종양 반응에 유리하다는 층화 결과로 거사약 배오 시점 판단의 근거.
+[^68]: Chinese Herbal Medicine and Chemotherapy in the Treatment of Hepatocellular Carcinoma: A Meta-analysis of Randomized Controlled Trials. Xiaojuan Shu 외. _Integrative Cancer Therapies_. 2005-09. [메타분석] [DOI 10.1177/1534735405279927](https://doi.org/10.1177/1534735405279927) — 간세포암 병용군의 생존·반응률 개선을 보고하되 포함 연구의 질적 한계를 명시한 초기 메타분석.
+[^69]: Adjuvant effect of herbal medicine on transarterial chemoembolization in patients with hepatocellular carcinoma: A systematic review and meta-analysis. Oh HM 외. _Frontiers in oncology_. 2023. [메타분석] [DOI 10.3389/fonc.2023.1106827](https://doi.org/10.3389/fonc.2023.1106827) [PMID 36845704](https://pubmed.ncbi.nlm.nih.gov/36845704/) — TACE에 한약을 병용했을 때 종양 반응률과 3년 생존율 개선을 보고한 메타분석.
+[^70]: Chinese Herbal Medicine as an Adjunctive Therapy for Liver Cancer: A Systematic Review and Meta-Analysis. Yan Wang 외. _Natural Product Communications_. 2025-10. [메타분석] [DOI 10.1177/1934578x251366378](https://doi.org/10.1177/1934578x251366378) — 간암 병용군의 반응률·생존과 함께 간기능 지표 개선을 보고한 최신 메타분석.
+[^71]: Efficacy and Safety of Chinese Herbal Medicine on Ovarian Cancer After Reduction Surgery and Adjuvant Chemotherapy: A Systematic Review and Meta-Analysis. Wang R 외. _Frontiers in oncology_. 2019. [메타분석] [DOI 10.3389/fonc.2019.00730](https://doi.org/10.3389/fonc.2019.00730) [PMID 31475101](https://pubmed.ncbi.nlm.nih.gov/31475101/) — 난소암 수술·화학요법 후 병용군의 수행능력·생존·부작용 지표 개선을 보고한 메타분석.
+[^72]: Astragalus-Containing Chinese Herbal Medicine Combined With Chemotherapy for Cervical Cancer: A Systematic Review and Meta-Analysis. Lei Shen 외. _Frontiers in Pharmacology_. 2021-07-30. [메타분석] [DOI 10.3389/fphar.2021.587021](https://doi.org/10.3389/fphar.2021.587021) — 자궁경부암에서 보기약 중심 배오와 화학요법 병용의 반응률·독성 지표 개선을 보고한 메타분석.
+[^73]: Effectiveness of Chinese herbal medicine for cancer palliative care: overview of systematic reviews with meta-analyses. Chung VC 외. _Scientific reports_. 2015-12-16. [체계적 고찰] [DOI 10.1038/srep18111](https://doi.org/10.1038/srep18111) [PMID 26669761](https://pubmed.ncbi.nlm.nih.gov/26669761/) — 삶의 질 개선 신호는 일관되나 생존 연장·독성 감소에 대해서는 근거가 상충한다고 정리한 개관 연구.
+[^74]: Traditional Chinese Medicine in Cancer Care: An Overview of 5834 Randomized Controlled Trials Published in Chinese. Lu CL 외. _Integrative cancer therapies_. 2021. [체계적 고찰] [DOI 10.1177/15347354211031650](https://doi.org/10.1177/15347354211031650) [PMID 34261372](https://pubmed.ncbi.nlm.nih.gov/34261372/) — 중국어권 무작위 시험 5,834건을 조망해 증상·삶의 질 중심의 적용 실태와 정밀 평가의 필요성을 정리한 개관.
+[^75]: Traditional Chinese medicine in cancer care: a review of controlled clinical studies published in chinese. Li X 외. _PloS one_. 2013. [체계적 고찰] [DOI 10.1371/journal.pone.0060338](https://doi.org/10.1371/journal.pone.0060338) [PMID 23560092](https://pubmed.ncbi.nlm.nih.gov/23560092/) — 표준치료 병용이 주류이며 생존·재발 등 객관적 예후 지표에는 더 엄격한 설계가 필요함을 지적한 고찰.
+[^76]: Cancer patients at risk of herb/food supplement-drug interactions: a systematic review. Alsanad SM 외. _Phytotherapy research : PTR_. 2014-12. [체계적 고찰] [DOI 10.1002/ptr.5213](https://doi.org/10.1002/ptr.5213) [PMID 25158128](https://pubmed.ncbi.nlm.nih.gov/25158128/) — 이론적 상호작용 보고는 많으나 실제 임상 이상반응은 드물다는 점을 확인해 개별 위험 평가의 근거가 되는 고찰.
+[^77]: Immune-Related Adverse Events due to Concomitant Use of Immune Checkpoint Inhibitors and Chinese Herbal Medicines: A Study Based on a Japanese Adverse Event Database. Koshiishi T 외. _Asian Pacific journal of cancer prevention : APJCP_. 2024-07-01. [관찰연구] [DOI 10.31557/APJCP.2024.25.7.2291](https://doi.org/10.31557/APJCP.2024.25.7.2291) [PMID 39068560](https://pubmed.ncbi.nlm.nih.gov/39068560/) — 면역관문억제제와 한약 병용이 중대한 면역 관련 이상반응 위험을 유의하게 높이지 않았음을 보고한 대규모 이상사례 분석.
+[^78]: Safety and Efficacy of Bojungikki-Tang in Advanced NSCLC Patients Receiving Treatment with Immune Checkpoint Inhibitors: Protocol for a Multicenter, Double-Blind, Randomized, Placebo-Controlled Pilot Trial. Ko MM 외. _International journal of environmental research and public health_. 2023-03-03. [임상시험] [DOI 10.3390/ijerph20054507](https://doi.org/10.3390/ijerph20054507) [PMID 36901517](https://pubmed.ncbi.nlm.nih.gov/36901517/) — 면역항암제 병용 한약의 안전성을 전향적으로 검증하려는 임상시험 계획으로, 이 영역 근거 축적의 방향을 보여준다(결과 미발표).
+[^79]: 'They don't ask me so I don't tell them': patient-clinician communication about traditional, complementary, and alternative medicine. Shelley BM 외. _Annals of family medicine_. 2009-03-01. [관찰연구] [DOI 10.1370/afm.947](https://doi.org/10.1370/afm.947) [PMID 19273869](https://pubmed.ncbi.nlm.nih.gov/19273869/) — 환자가 한약 복용을 알리지 않는 주된 이유가 의료진이 묻지 않기 때문임을 보여, 협진 실무의 출발점을 제시한 연구.
+[^80]: Misuse of randomization: a review of Chinese randomized trials of herbal medicines for chronic hepatitis B. Liu J 외. _The American journal of Chinese medicine_. 2002. [체계적 고찰] [DOI 10.1142/S0192415X0200017X](https://doi.org/10.1142/S0192415X0200017X) [PMID 12067091](https://pubmed.ncbi.nlm.nih.gov/12067091/) — "무작위"로 표기된 한약 시험 상당수가 실제 무작위 배정이 아니었음을 확인해 근거 해석의 기준선을 낮추는 방법론 연구.
+[^81]: Chinese herbal medicine reduces acute hepatitis exacerbation in patients with hepatitis B virus infection: A case-control study in Taiwan. Chen WL 외. _Complementary therapies in medicine_. 2019-02. [관찰연구] [DOI 10.1016/j.ctim.2018.11.024](https://doi.org/10.1016/j.ctim.2018.11.024) [PMID 30670249](https://pubmed.ncbi.nlm.nih.gov/30670249/) — B형 간염에서 한약 사용군의 급성 악화·간경변·간암 진행 위험이 낮았던 환자-대조군 연구.
+[^82]: Chinese herbal medicine therapy and the risk of mortality for chronic hepatitis B patients with concurrent liver cirrhosis: a nationwide population-based cohort study. Tsai TY 외. _Oncotarget_. 2018-04-06. [관찰연구] [DOI 10.18632/oncotarget.24383](https://doi.org/10.18632/oncotarget.24383) [PMID 29719600](https://pubmed.ncbi.nlm.nih.gov/29719600/) — 간경변 동반 만성 B형 간염 1,522명에서 장기 복용군의 사망 위험이 낮았음을 보고한 코호트 연구.
+[^83]: Xiao Chai Hu Tang, a herbal medicine, for chronic hepatitis B. Kong Z 외. _The Cochrane database of systematic reviews_. 2019-11-07. [체계적 고찰] [DOI 10.1002/14651858.CD013090.pub2](https://doi.org/10.1002/14651858.CD013090.pub2) [PMID 31697415](https://pubmed.ncbi.nlm.nih.gov/31697415/) — 포함 연구의 질이 매우 낮아 임상 효과를 확립할 수 없다고 결론지은 코크란 리뷰. 간염 영역 한약 근거의 상한선을 보여준다.
+[^84]: Meta analysis of the clinical effect of traditional Chinese medicine and antibiotics in the treatment of acute appendicitis. Sun Feng. _Japanese journal of gastroenterology research_. 2023-12-19. [메타분석] [DOI 10.52768/jjgastro/1173](https://doi.org/10.52768/jjgastro/1173) — 급성 충수염에서 한약·항생제 병용군의 유효율이 높았다는 보고. 소규모 연구 위주이며 수술적 치료와 비교되지 않아 표준 치료 대체 근거가 되지 못한다.
+[^85]: 대장암 환자의 한약 및 침 치료에 대한 국내외 임상연구 결과에 대한 고찰 – Pubmed를 중심으로. 강윤환 외. _동의생리병리학회지_. 2016-08. [체계적 고찰] [DOI 10.15188/kjopp.2016.08.30.4.219](https://doi.org/10.15188/kjopp.2016.08.30.4.219) — 대장암에서 한약·침 치료의 효과가 처방별로 상이함을 지적한 국내 고찰로, 개별화 판단의 필요성을 뒷받침한다.
 
-**고전 인용 출처**: 『본초강목습유(本草綱目拾遺)』 이후 청대 이후 문헌에 수재된 백화사설초의 청열해독·소종지통·이뇨통림 효능 기재를 근거로 하였으며, 장옹(腸癰)·옹저정독(癰疽疔毒) 치료는 『외과정종(外科正宗)』 계통의 청열해독 치법 이론과 맥이 닿아 있다. 이들 문헌과 한의과대학 본초학 교재에 수재된 백화사설초의 전통적 성미귀경·효능 이론을 기초로 하되, 현대 임상·약리 연구 근거를 결합하여 작성하였다. 검색으로 확보한 관련 논문 중 동물·세포 대상 전임상 실험 연구는 본문·각주 인용 대상에서 제외하였으며, 제외된 문헌 대다수는 백화사설초의 세포 사멸 유도·항혈관신생·면역조절 기전을 세포주 또는 동물 모델에서 검증한 실험연구였다.
+**고전 인용 출처**: 『본초강목습유(本草綱目拾遺)』 이후 청대 이후 문헌에 수재된 백화사설초의 청열해독·소종지통·이뇨통림 효능 기재를 근거로 하였으며, 장옹(腸癰)·옹저정독(癰疽疔毒) 치료는 『외과정종(外科正宗)』 계통의 청열해독 치법 이론과 맥이 닿아 있다. 이들 문헌과 한의과대학 본초학 교재에 수재된 백화사설초의 전통적 성미귀경·효능 이론을 기초로 하되, 현대 임상·약리 연구 근거를 결합하여 작성하였다. 각주로 제시한 근거는 인체 대상 자료 및 인체 적용을 전제로 기전을 종합한 문헌 고찰·체계적 고찰로 한정하였으며, 동물·세포 대상 전임상 실험 연구는 본문·각주 인용에서 제외하였다. 제외된 문헌의 대다수는 백화사설초의 세포 사멸 유도·항혈관신생·면역조절 기전을 세포주 또는 동물 모델에서 검증한 것으로, 이러한 기전 서술은 본문에서 인용 없이 교과서적 근거 수준으로만 다루었다.
 
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-27 조회 기준
