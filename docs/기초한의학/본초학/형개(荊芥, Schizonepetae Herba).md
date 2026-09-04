@@ -834,7 +834,7 @@
 
 [^54]: 두드러기의한의치료 임상-국내 증례연구 분석. 하재운 외. _대한예방한의학회지_. 2023-04. [체계적 고찰, 523명] [DOI 10.25153/spkom.2023.27.1.001](https://doi.org/10.25153/spkom.2023.27.1.001) — 두드러기 치료에 있어 風熱(풍열) 및 소화기 기능 관련 증후군 식별이 빈번하게 활용되며, 한약과 鍼(침, acupuncture) 치료를 병행하는 것이 일반적이다.
 
-[^55]: Identifying core herbal treatments for urticaria using Taiwan's nationwide prescription database. Lin YH 외. _Journal of ethnopharmacology_. 2013-07-09. [관찰연구, 12498명] [DOI 10.1016/j.jep.2013.04.052](https://doi.org/10.1016/j.jep.2013.04.052) [PMID 23684721](https://pubmed.ncbi.nlm.nih.gov/23684721/) — 대만 전국 처방 데이터를 분석한 결과, 두드러기 치료에 있어 소풍산(消風散)이 가장 핵심적인 처방으로 사용되고 있으며, 특히 연각초(Cryptotympana pustulata Fabricius)와의 조합이 가장 빈번하게 활용됨을 확인하였다.
+[^55]: Identifying core herbal treatments for urticaria using Taiwan's nationwide prescription database. Lin YH 외. _Journal of ethnopharmacology_. 2013-07-09. [관찰연구, 12498명] [DOI 10.1016/j.jep.2013.04.052](https://doi.org/10.1016/j.jep.2013.04.052) [PMID 23684721](https://pubmed.ncbi.nlm.nih.gov/23684721/) — 대만 전국 처방 데이터를 분석한 결과, 두드러기 치료에 있어 소풍산(消風散)이 가장 핵심적인 처방으로 사용되고 있으며, 특히 선태(蟬蛻, Cryptotympana pustulata Fabricius)와의 조합이 가장 빈번하게 활용됨을 확인하였다.
 
 [^56]: Frequency and pattern of Chinese herbal medicine prescriptions for urticaria in Taiwan during 2009: analysis of the national health insurance database. Pei-Shan Chien 외. _BMC Complementary and Alternative Medicine_. 2013-08-15. [관찰연구, 37386명] [DOI 10.1186/1472-6882-13-209](https://doi.org/10.1186/1472-6882-13-209) — 대만 내 두드러기 환자들에게 가장 널리 처방된 중약은 소풍산(消風散)과 백현피(白鮮皮)이며, 특히 풍열(Wind-heat) 패턴의 치료에 자주 활용됨을 확인하였다.
 
