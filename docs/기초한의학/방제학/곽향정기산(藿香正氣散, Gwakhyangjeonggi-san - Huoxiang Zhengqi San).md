@@ -92,7 +92,7 @@
 
 과민성 대장 증후군 환자를 대상으로 한 후향적 차트 리뷰에서, 가감곽향정기산합통사요방(건장환)이 식이 조절 없이도 설사형·변비형·혼합형 모든 유형에서 임상적으로 의미 있는 증상 개선 효과를 보였다(관찰연구, 5명).[^30] 곽향정기산과 프로바이오틱스(듀락7S) 병용 요법의 안전성·유효성을 평가하는 프로토콜이 수립되었고,[^6] 실제 이중맹검 위약대조시험에서 곽향정기산과 프로바이오틱스 병용이 설사형 과민성 대장 증후군 환자의 전반적 증상을 완화하고 유익균 수치를 시너지 효과로 증가시켰다(임상시험, 53명).[^13]
 
-가감 곽박하령탕(藿朴夏苓湯 가감)은 비위습열증후군 환자의 증상 개선 및 설태 제거에 돔페리돈보다 유의하게 효과적이었다(임상시험, 50명).[^31] 초기 SARS 환자에게 시호적환과 향소정기적환(곽향정기 계열)을 병용 투여하면 폐 손상과 중성구 의존성 염증 반응을 완화하고 CK·LDH 등의 지표를 개선할 수 있었다(임상시험, 22명).[^15]
+가감 곽박하령탕(藿朴夏苓湯 가감)은 비위습열증후군 환자의 증상 개선 및 설태 제거에 돔페리돈보다 유의하게 효과적이었다(임상시험, 50명).[^31] 초기 SARS 환자에게 시호적환과 곽향정기적환(곽향정기 계열)을 병용 투여하면 폐 손상과 중성구 의존성 염증 반응을 완화하고 CK·LDH 등의 지표를 개선할 수 있었다(임상시험, 22명).[^15]
 
 > **변증 없는 관행적 처방은 근거에 부합하지 않는다.** 곽향정기산은 습(濕)이 주된 병기임이 확인될 때 근거가 가장 두터우며, 풍열감기나 순수 표증에는 다른 처방(은교산·감모청열과립 등)이 더 적합하다.[^12][^8]
 
@@ -152,7 +152,7 @@
 
 ### 16. 감염성 질환군(SARS·COVID-19)
 
-초기 SARS 환자에게 시호적환과 향소정기적환(곽향정기 계열)을 병용 투여하면 폐 손상과 중성구 의존성 염증 반응을 완화하고 CK·LDH 등의 지표를 개선할 수 있었다(임상시험, 22명).[^15] COVID-19를 한습(寒濕)이라는 병리적 관점에서 해석한 '한습역병(寒濕疫病)' 이론이 제시되었으며, 질환 단계(경증·중등증·중증·회복기)에 따라 차별화된 한약 처방 적용 가능성이 제기되었다(문헌 고찰).[^3]
+초기 SARS 환자에게 시호적환과 곽향정기적환(곽향정기 계열)을 병용 투여하면 폐 손상과 중성구 의존성 염증 반응을 완화하고 CK·LDH 등의 지표를 개선할 수 있었다(임상시험, 22명).[^15] COVID-19를 한습(寒濕)이라는 병리적 관점에서 해석한 '한습역병(寒濕疫病)' 이론이 제시되었으며, 질환 단계(경증·중등증·중증·회복기)에 따라 차별화된 한약 처방 적용 가능성이 제기되었다(문헌 고찰).[^3]
 
 COVID-19 환자에게 곽향정기낙타환과 연화청온과립을 양방 치료와 병용 투여했을 때, 전반적 증상 개선율은 유사했으나 오심·구토·사지 통증 개선에 특히 효과적이었다(임상시험, 283명).[^10] 중국 내 가이드라인·전문가 합의에서 추천된 상위 10종의 특허약(곽향정기 계열 포함)이 항바이러스·항염증·폐기능 강화 효과를 보이며 안전성이 높은 것으로 나타났다(문헌 고찰).[^16]. COVID-19 관련 등록 임상시험을 조망한 스코핑 리뷰에서도 청폐배독탕·연화청온캡슐 등과 함께 곽향정기 계열 제제가 치료·예방·재활 목적으로 활용되고 있음이 확인되었다(체계적 고찰).[^7]. 홍콩 시민 대상 COVID-19 예방·치료 행태 조사에서도 연화청온교낭과 곽향정기산이 빈번하게 사용되는 중약 처방으로 확인되었다(관찰연구, 311명).[^29]
 
@@ -323,7 +323,7 @@ COVID-19 팬데믹 기간 중 지역사회 예방(임상시험, 22065명)[^9][^9
 [^12]: Guidelines on common cold for traditional Chinese medicine based on pattern differentiation. Jiao Y 외. _Journal of traditional Chinese medicine_. 2013-08. [임상진료지침] [DOI 10.1016/s0254-6272(13)60141-7](https://doi.org/10.1016/s0254-6272(13)60141-7) [PMID 24187858](https://pubmed.ncbi.nlm.nih.gov/24187858/) — 감기 4변증 유형별 처방(감모청열과립·은교결독과립·곽향정기환·신수환) 권고.
 [^13]: Effect of korean herbal medicine combined with a probiotic mixture on diarrhea-dominant irritable bowel syndrome: a double-blind, randomized, placebo-controlled trial. Ko SJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [임상시험, 53명] [DOI 10.1155/2013/824605](https://doi.org/10.1155/2013/824605) [PMID 24381638](https://pubmed.ncbi.nlm.nih.gov/24381638/) — 곽향정기산+프로바이오틱스가 D-IBS 전반적 증상 완화, 유익균 시너지 증가.
 [^14]: Huoxiang Zhengqi oral liquid for irritable bowel syndrome with diarrhea: a multicenter, double-blind, randomized controlled trial. Guo X 외. _Phytomedicine_. 2025-12. [임상시험, 212명] [DOI 10.1016/j.phymed.2025.157567](https://doi.org/10.1016/j.phymed.2025.157567) [PMID 41297321](https://pubmed.ncbi.nlm.nih.gov/41297321/) — 곽향정기 경구액이 IBS-D 증상·IBS-SSS 유의 개선, 안전성 확인.
-[^15]: [Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill]. Li H 외. _Zhongguo Zhong xi yi jie he za zhi_. 2004-04. [임상시험, 22명] [PMID 15143718](https://pubmed.ncbi.nlm.nih.gov/15143718/) — 시호적환+향소정기적환이 SARS 초기 폐손상·염증반응 완화, CK·LDH 개선.
+[^15]: [Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill]. Li H 외. _Zhongguo Zhong xi yi jie he za zhi_. 2004-04. [임상시험, 22명] [PMID 15143718](https://pubmed.ncbi.nlm.nih.gov/15143718/) — 시호적환+곽향정기적환이 SARS 초기 폐손상·염증반응 완화, CK·LDH 개선.
 [^16]: Chinese Patent Medicines in the Treatment of Coronavirus Disease 2019 (COVID-19) in China. Zhuang W 외. _Frontiers in pharmacology_. 2020. [문헌 고찰] [DOI 10.3389/fphar.2020.01066](https://doi.org/10.3389/fphar.2020.01066) [PMID 32848729](https://pubmed.ncbi.nlm.nih.gov/32848729/) — 가이드라인 추천 상위 10종 중성약이 항바이러스·항염증·폐기능 강화 효과, 안전성 높음.
 [^16note]: [Comparative study on acute toxicity and pharmacological effect of huoxiang zhengqi microemulsion and huoxiang zhengqi tincture]. _Zhongguo Zhong yao za zhi_. [실험연구] [DOI 10.4268/cjcmm20101520](https://doi.org/10.4268/cjcmm20101520) [PMID 20931856](https://pubmed.ncbi.nlm.nih.gov/20931856/) — 마이크로에멀전·팅크제 제형 비교 연구; 급성 독성 시험 부분은 동물실험이므로 본문에서 제형 개발 동향으로만 소개.
 [^17]: Multi-omics analysis of Gwakhyangjeonggi-san for gastrointestinal complications in atopic dermatitis: A randomized, double-blinded, placebo-controlled, parallel-group clinical trial. Ko MM 외. _Journal of ethnopharmacology_. 2024-01-30. [임상시험, 52명] [DOI 10.1016/j.jep.2023.117256](https://doi.org/10.1016/j.jep.2023.117256) [PMID 37778520](https://pubmed.ncbi.nlm.nih.gov/37778520/) — 곽향정기산이 AD 피부증상엔 유의차 없으나 위장관 증상·삶의 질 유의 개선.

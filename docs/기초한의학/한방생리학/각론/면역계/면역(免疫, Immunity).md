@@ -40,7 +40,7 @@ graph TD
 
 ### 3. 사이토카인과 케모카인
 
-사이토카인은 면역세포 간 신호전달물질로, IL-1·IL-6·TNF-α(전염증·급성기반응), IL-2·IFN-γ(Th1·세포성 면역), IL-4·IL-5·IL-13(Th2·알레르기), IL-17·IL-22(점막방어·자가면역), IL-10·TGF-β(조절·항염) 등의 축으로 기능이 분업되어 있다[교과서적 근거]. 침구 요법이 케모카인 조절을 통해 질환의 예방·치료에 작용한다는 문헌 고찰은 침구의 면역 조절 기전을 화학주성 축에서 설명하는 틀을 제시한다[^8]. 뇌경색 환자에서 율다한소탕(律痰漢消湯)이 세포성 매개 사이토카인(IL-2·IFN-γ)의 과잉 생산을 조절했다는 임상시험은 한약이 사이토카인 네트워크에 개입할 수 있음을 인체 데이터로 확인한다[^9].
+사이토카인은 면역세포 간 신호전달물질로, IL-1·IL-6·TNF-α(전염증·급성기반응), IL-2·IFN-γ(Th1·세포성 면역), IL-4·IL-5·IL-13(Th2·알레르기), IL-17·IL-22(점막방어·자가면역), IL-10·TGF-β(조절·항염) 등의 축으로 기능이 분업되어 있다[교과서적 근거]. 침구 요법이 케모카인 조절을 통해 질환의 예방·치료에 작용한다는 문헌 고찰은 침구의 면역 조절 기전을 화학주성 축에서 설명하는 틀을 제시한다[^8]. 뇌경색 환자에서 열다한소탕(熱多寒少湯)이 세포성 매개 사이토카인(IL-2·IFN-γ)의 과잉 생산을 조절했다는 임상시험은 한약이 사이토카인 네트워크에 개입할 수 있음을 인체 데이터로 확인한다[^9].
 
 ### 4. 보체계
 
@@ -212,7 +212,7 @@ graph TD
 [^6]: Serum IgG, IgA, IgM, and IgE Levels after Electroacupuncture and Diet Therapy in Obese Women. Cabioglu MT 외. _The American Journal of Chinese Medicine_. 2007-01. [임상시험] [DOI 10.1142/s0192415x07005429](https://doi.org/10.1142/s0192415x07005429) — 전침과 식이요법 병행이 비만 여성의 혈청 면역글로불린 4종을 조절. 침구가 체액성 면역 지표에 개입하는 대표 인체 데이터.
 [^7]: Comparing the Effects of Aerobic Exercise and Wet Cupping on the Serum Concentration of Immunoglobulins in the Immune System of Older Women. Delshad A 외. _Salmand_. 2024-10-01. [임상시험] [DOI 10.32598/sija.2023.2800.6](https://doi.org/10.32598/sija.2023.2800.6) — 습식 부항이 노년 여성의 혈청 Ig 농도를 유산소 운동과 유사하게 개선. 외치법(부항)의 면역 근거.
 [^8]: Effects of Acupuncture in Prevention and Treatment of Diseases by Regulating Chemokines. Zhao TT 외. _Acupuncture & Electro-Therapeutics Research_. 2021-05. [문헌 고찰] [DOI 10.3727/036012921x16164310686806](https://doi.org/10.3727/036012921x16164310686806) — 침구의 질환 예방·치료 효과가 케모카인 조절 매개임을 정리한 고찰. 면역세포 이동(화학주성) 축의 침구 기전 틀.
-[^9]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. Shin HY 외. _Immunopharmacology and Immunotoxicology_. 2000-05. [임상시험] [DOI 10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414) [PMID 10952025](https://pubmed.ncbi.nlm.nih.gov/10952025/) — 뇌경색 환자에서 율다한소탕이 IL-2·IFN-γ 등 세포성 사이토카인 과잉 생산을 조절. 한약의 사이토카인 네트워크 개입을 인체에서 확인.
+[^9]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. Shin HY 외. _Immunopharmacology and Immunotoxicology_. 2000-05. [임상시험] [DOI 10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414) [PMID 10952025](https://pubmed.ncbi.nlm.nih.gov/10952025/) — 뇌경색 환자에서 열다한소탕이 IL-2·IFN-γ 등 세포성 사이토카인 과잉 생산을 조절. 한약의 사이토카인 네트워크 개입을 인체에서 확인.
 [^10]: Acupuncture stimulation and neuroendocrine regulation. _The American Journal of Chinese Medicine_. [문헌 고찰] — 침 자극이 감각신경(A-δ·C섬유)을 통해 시상하부에 도달하고 신경펩타이드·호르몬 분비를 조절함을 정리. 침구의 신경-내분비-면역 네트워크 개입의 기전 틀.
 [^11]: Acupuncture's Multisystem Neuroimmunomodulation: Central-Peripheral Interactions in Gastroenteric, Psychiatric, and Chronic Pain Disorders. Zhang L 외. _CNS Neuroscience & Therapeutics_. 2025-11. [문헌 고찰] [DOI 10.1111/cns.70625](https://doi.org/10.1111/cns.70625) [PMID 41199561](https://pubmed.ncbi.nlm.nih.gov/41199561/) — 침구가 소화기·정신과·만성통증에서 중추-말초 상호작용의 신경면역조절을 매개함을 정리. 다계통 면역 조절의 통합 기전 고찰.
 [^12]: Emotional Stress and Immune Response in Surgery: A Psychoneuroimmunological Perspective. Reza T 외. _Cureus_. 2023-11. [문헌 고찰] [DOI 10.7759/cureus.48727](https://doi.org/10.7759/cureus.48727) [PMID 38094516](https://pubmed.ncbi.nlm.nih.gov/38094516/) — 정신적 스트레스가 수술 환자의 면역반응을 억제하고 감염·상처치유 지연으로 이어짐을 정리. "정허사침(正虛邪侵)"의 정신신경면역학적 실증 사례.

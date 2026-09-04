@@ -109,7 +109,7 @@ IL-1·IL-6는 뇌실주위기관·능동수송을 통해 시상하부에 도달�
 
 ### 1. 침구 — 콜린성 경로·Treg·사이토카인 조절 근거
 
-침구의 조율 근거는 세 층위에서 축적되어 있다. ① 신경면역 회로 — 패혈증 전침의 CAP·미주신경-부신 축 활성화[^19], 자가면역질환에서의 미주신경·콜린성 경로 매개 Treg 활성화·사이토카인 억제 고찰[^20], 전침의 자율신경-sIgA 조절[^21]. ② 사이토카인 재조정 — 불면증 침의 TNF-α·IL-1β/IL-6 재조정[^18], 태음인 뇌경색 급성기 율다한소탕의 Th1/Th2 사이토카인 재조정(한약 병행)[^29]. ③ Th축 균형 — 만성두드러기 침·뜸 병행의 Th1/Th2 균형 개선[^30], 알레르기비염 내영향(內迎香) 혈 침 병행의 IgE 감소·증상 완화[^31]. 암 보조 영역에서 경피침자극(TEAS)의 T세포·NK세포 상향·피로 완화[^32], 악성종양 환자 침의 CD4/CD8·sIL-2R 개선[^33]은 조율 축의 회복이 임상 증상(피로·회복)으로 이어짐을 보여준다.
+침구의 조율 근거는 세 층위에서 축적되어 있다. ① 신경면역 회로 — 패혈증 전침의 CAP·미주신경-부신 축 활성화[^19], 자가면역질환에서의 미주신경·콜린성 경로 매개 Treg 활성화·사이토카인 억제 고찰[^20], 전침의 자율신경-sIgA 조절[^21]. ② 사이토카인 재조정 — 불면증 침의 TNF-α·IL-1β/IL-6 재조정[^18], 태음인 뇌경색 급성기 열다한소탕의 Th1/Th2 사이토카인 재조정(한약 병행)[^29]. ③ Th축 균형 — 만성두드러기 침·뜸 병행의 Th1/Th2 균형 개선[^30], 알레르기비염 내영향(內迎香) 혈 침 병행의 IgE 감소·증상 완화[^31]. 암 보조 영역에서 경피침자극(TEAS)의 T세포·NK세포 상향·피로 완화[^32], 악성종양 환자 침의 CD4/CD8·sIL-2R 개선[^33]은 조율 축의 회복이 임상 증상(피로·회복)으로 이어짐을 보여준다.
 
 ### 2. 한약 — 변증 처방의 조율 근거
 
@@ -203,7 +203,7 @@ IL-1·IL-6는 뇌실주위기관·능동수송을 통해 시상하부에 도달�
 
 **Q4. 자가면역질환 환자가 한의학 치료를 받아도 됩니까?**
 
-보조 관리로서의 근거는 있다 — 율다한소탕의 Th1/Th2 재조정[^29], 자가면역 갑상선질환에서의 항체 감소·T세포 균형 정상화[^38], 궤양성 대장염 변증형별 차별 접근[^25]. 원칙은 ① 표준 면역치료를 대체하지 않고 병행 ② 주치의와 병용 목록 공유 ③ 조절 방향의 처방이다.
+보조 관리로서의 근거는 있다 — 열다한소탕의 Th1/Th2 재조정[^29], 자가면역 갑상선질환에서의 항체 감소·T세포 균형 정상화[^38], 궤양성 대장염 변증형별 차별 접근[^25]. 원칙은 ① 표준 면역치료를 대체하지 않고 병행 ② 주치의와 병용 목록 공유 ③ 조절 방향의 처방이다.
 
 **Q5. 면역관문억제제(항암 면역치료)를 맞는 환자인데요?**
 
@@ -253,7 +253,7 @@ IL-1·IL-6는 뇌실주위기관·능동수송을 통해 시상하부에 도달�
 [^26]: Efficacy and Safety of Guizhi Decoction Associated Formulas for Allergic Rhinitis: A Systematic Review. Yang S 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-01-13. [체계적 고찰] [DOI 10.1155/2021/3548740](https://doi.org/10.1155/2021/3548740) — 계지탕 계열이 알레르기비염에서 양약 단독보다 유효. 조영위(調營衛) 고전 처방의 임상 접점.
 [^27]: A Pilot Study of Whether the Cold-Heat Syndrome Type is Associated with Treatment Response and Immune Status in Patients with Non-Small Cell Lung Cancer. Choi Y 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-06-22. [관찰연구] [DOI 10.1155/2021/9920469](https://doi.org/10.1155/2021/9920469) — 한열변증형이 관문억제제 반응·CD8 T세포 분화와 연관. 변증-조율 상태 상관의 파일럿 근거.
 [^28]: CD206+ dendritic cells might be associated with Heat-pattern and induced regulatory T cells after treatment with bee venom pharmacopuncture. Jung WS 외. _Journal of Korean Medicine_. 2022-06-01. [실험연구(인체 데이터 한정)] [DOI 10.13048/jkm.22015](https://doi.org/10.13048/jkm.22015) — 봉독 PLA2가 CD206+ 수지상세포-Treg 축을 활성화하고 그 발현이 열증 변증과 상관. 약침의 DC-Treg 조율 개입의 한국 인체 근거.
-[^29]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. Shin HY 외. _Immunopharmacology and Immunotoxicology_. 2000-05. [임상시험] [DOI 10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414) [PMID 10952025](https://pubmed.ncbi.nlm.nih.gov/10952025/) — 태음인 뇌경색 급성기 율다한소탕이 Th1(IFN-γ·IL-2) 상승·Th2(IL-4·IL-6·IgE) 하강의 사이토카인 재조정. 사상체질 처방의 조율 근거.
+[^29]: Regulatory effect of cytokine production in patients with cerebral infarction by Yulda-Hanso-Tang. Shin HY 외. _Immunopharmacology and Immunotoxicology_. 2000-05. [임상시험] [DOI 10.3109/08923970009016414](https://doi.org/10.3109/08923970009016414) [PMID 10952025](https://pubmed.ncbi.nlm.nih.gov/10952025/) — 태음인 뇌경색 급성기 열다한소탕이 Th1(IFN-γ·IL-2) 상승·Th2(IL-4·IL-6·IgE) 하강의 사이토카인 재조정. 사상체질 처방의 조율 근거.
 [^30]: Efficacy of Acupuncture and Moxibustion in the Treatment of Chronic Urticaria and Its Effect on Cellular Immune Indexes and Th1/Th2 Cell Dysfunction. Xu X 외. _Acupuncture & Electro-Therapeutics Research_. 2026-01-13. [임상시험] [DOI 10.1177/03601293251412415](https://doi.org/10.1177/03601293251412415) — 만성두드러기 침·뜸 병행이 Th1/Th2 균형 개선·유효율 상승. 침구의 Th축 조율 근거.
 [^31]: Effect and Safety Evaluation of Acupuncture at Neiyingxiang Acupoint Combined with Routine Symptomatic Treatment for Allergic Rhinitis. Zhou XY 외. _Acupuncture & Electro-Therapeutics Research_. 2026-02-05. [임상시험] [DOI 10.1177/03601293251411943](https://doi.org/10.1177/03601293251411943) — 알레르기비염 내영향 혈 침 병행이 TNSS·IgE 감소. 국소 혈위 자극의 점막 면역 조절.
 [^32]: Effect of Somatosensory Interaction Transcutaneous Electrical Acupoint Stimulation on Cancer-related Fatigue and Immunity. Shu J 외. _American Journal of Clinical Oncology_. 2022-05-26. [임상시험] [DOI 10.1097/coc.0000000000000922](https://doi.org/10.1097/coc.0000000000000922) — 암 관련 피로의 경피 전침자극이 T세포·NK세포 상향과 피로 완화. 조율 회복의 임상 증상 연결.
