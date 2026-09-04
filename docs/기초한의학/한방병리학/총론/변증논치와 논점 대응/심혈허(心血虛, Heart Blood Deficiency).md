@@ -1019,15 +1019,15 @@
 
 [^2]: [Treatment of Chronic Heart Failure Patients with Qi-Yang Deficiency and Blood Stasis Resistance Syndrome by Xnmallong Injection: a Multi-center Randomized Control Study]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-07. (환자 238명) [임상시험] [PMID 26380441](https://pubmed.ncbi.nlm.nih.gov/26380441/) — 만성심부전 기양허 변증 환자에서 한약+통상치료 병용의 효과. 심혈허→심기허·심양허 전변의 치료 근거.
 
-[^3]: Meta-Analysis on the Efficacy of Traditional Chinese Medicine Decoction in the Treatment of Cardiac Neurosis Complicated with Depression and Anxiety. _Evidence-Based Complementary and Alternative Medicine_. 2022-09-23. (환자 686명) [메타분석] [DOI 10.1155/2022/6016757](https://doi.org/10.1155/2022/6016757) [PMID 10.1155/2022/6016757](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/6016757/) — 심장신경증(심계·흉통·호흡곤란)에 보익안신 한약 탕제가 심박수·우울·불안 유의 개선. 심비양허 치료의 메타 근거.
+[^3]: Meta-Analysis on the Efficacy of Traditional Chinese Medicine Decoction in the Treatment of Cardiac Neurosis Complicated with Depression and Anxiety. _Evidence-Based Complementary and Alternative Medicine_. 2022-09-23. (환자 686명) [메타분석] [DOI 10.1155/2022/6016757](https://doi.org/10.1155/2022/6016757) — 심장신경증(심계·흉통·호흡곤란)에 보익안신 한약 탕제가 심박수·우울·불안 유의 개선. 심비양허 치료의 메타 근거.
 
 [^4]: Symptom Distribution Regularity of Insomnia: Network and Spectral Clustering Analysis. _JMIR medical informatics_. 2020-04-16. (환자 807명) [관찰연구] [DOI 10.2196/16749](https://doi.org/10.2196/16749) [PMID 32297869](https://pubmed.ncbi.nlm.nih.gov/32297869/) — 불면증 801명 증상 네트워크에서 수면·정서·인지가 하나의 클러스터. 심혈허 신실조 병기의 임상 표현형 지지.
 
-[^5]: Study on the Correlation between Chinese Medicine Syndrome and Cognitive Dysfunction in Mild Cognitive Impairment. _Evidence-Based Complementary and Alternative Medicine_. 2022-06-24. (환자 121명) [관찰연구] [DOI 10.1155/2022/7117704](https://doi.org/10.1155/2022/7117704) [PMID 10.1155/2022/7117704](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/7117704/) — 경도인지장애에서 한의학 변증과 인지 기능 유의 상관. 심혈허·심비양허 변증의 인지 영역 근거.
+[^5]: Study on the Correlation between Chinese Medicine Syndrome and Cognitive Dysfunction in Mild Cognitive Impairment. _Evidence-Based Complementary and Alternative Medicine_. 2022-06-24. (환자 121명) [관찰연구] [DOI 10.1155/2022/7117704](https://doi.org/10.1155/2022/7117704) — 경도인지장애에서 한의학 변증과 인지 기능 유의 상관. 심혈허·심비양허 변증의 인지 영역 근거.
 
 [^6]: Prescription patterns of Chinese herbal products for patients with sleep disorder and major depressive disorder in Taiwan. _Journal of ethnopharmacology_. 2015-08-02. (환자 22601명) [관찰연구] [DOI 10.1016/j.jep.2015.05.045](https://doi.org/10.1016/j.jep.2015.05.045) [PMID 26068429](https://pubmed.ncbi.nlm.nih.gov/26068429/) — 우울증 9601명 한약 처방에서 심·비·간 계 보혈안신 처방 고빈도. 심혈허 변증의 임상 빈도.
 
-[^7]: Analysis of the Efficacy and Compliance of Traditional Chinese Medicine Combined with Cinnamon Powder/Zizao Seed Powder Acupoint Application in the Treatment of Community Insomnia (Heart and Spleen Deficiency Syndrome, Heart and Kidney Disharmony Syndrome). _Journal of Medicines Development Sciences_. 2026-06-23. (환자 84명) [임상시험] [DOI 10.18063/jmds.v11i2.1997](https://doi.org/10.18063/jmds.v11i2.1997) [PMID 10.18063/jmds.v11i2.1997](https://pubmed.ncbi.nlm.nih.gov/10.18063/jmds.v11i2.1997/) — 심비양허·심신불교형 불면증에서 계피/산조인 혈위 부착이 중의약 단독 대비 PSQI·순응도 유의 개선.
+[^7]: Analysis of the Efficacy and Compliance of Traditional Chinese Medicine Combined with Cinnamon Powder/Zizao Seed Powder Acupoint Application in the Treatment of Community Insomnia (Heart and Spleen Deficiency Syndrome, Heart and Kidney Disharmony Syndrome). _Journal of Medicines Development Sciences_. 2026-06-23. (환자 84명) [임상시험] [DOI 10.18063/jmds.v11i2.1997](https://doi.org/10.18063/jmds.v11i2.1997) — 심비양허·심신불교형 불면증에서 계피/산조인 혈위 부착이 중의약 단독 대비 PSQI·순응도 유의 개선.
 
 [^8]: [Treatment of Chronic Heart Failure with Qi-Yang Deficiency, Blockage of Static Blood Syndrome by Xinmailong Injection: an Open Multi-center Clinical Study]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-03. (환자 2104명) [임상시험] [PMID 30650475](https://pubmed.ncbi.nlm.nih.gov/30650475/) — 만성심부전 기양허 2104명에서 변증시치 한약+통상치료 병용 효과. 심혈허→심기허·심양허 전변의 대규모 근거.
 
@@ -1067,7 +1067,7 @@
 
 [^26]: Complex networks approach for analyzing the correlation of traditional chinese medicine syndrome evolvement and cardiovascular events in patients with stable coronary heart disease. _Evidence-based complementary and alternative medicine : eCAM_. 2015. [관찰연구] [DOI 10.1155/2015/824850](https://doi.org/10.1155/2015/824850) [PMID 25821500](https://pubmed.ncbi.nlm.nih.gov/25821500/) — 해당 근거의 임상적 의미.
 
-[^27]: Efficacy of Fufang E’jiao Jiang in the Treatment of Patients with Qi and Blood Deficiency Syndrome: A Real‐World Prospective Multicenter Study with a Patient Registry. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. (환자 3203명) [관찰연구] [DOI 10.1155/2023/3179489](https://doi.org/10.1155/2023/3179489) [PMID 10.1155/2023/3179489](https://pubmed.ncbi.nlm.nih.gov/10.1155/2023/3179489/) — 해당 근거의 임상적 의미.
+[^27]: Efficacy of Fufang E’jiao Jiang in the Treatment of Patients with Qi and Blood Deficiency Syndrome: A Real‐World Prospective Multicenter Study with a Patient Registry. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. (환자 3203명) [관찰연구] [DOI 10.1155/2023/3179489](https://doi.org/10.1155/2023/3179489) — 해당 근거의 임상적 의미.
 
 [^28]: [Effect on tranquilizing and allaying excitement needling method on brain blood flow in the patients of insomnia of heart and spleen deficiency]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-02. (환자 60명) [임상시험] [PMID 20214067](https://pubmed.ncbi.nlm.nih.gov/20214067/) — 해당 근거의 임상적 의미.
 
@@ -1091,7 +1091,7 @@
 
 [^38]: Anshen Buxin Liuwei Pill for the treatment of cardiac neurosis (heyisheng-type palpitation): a randomized, double-blind clinical trial. _Journal of thoracic disease_. 2026-07-31. (환자 200명) [임상시험] [DOI 10.21037/jtd-2026-1612](https://doi.org/10.21037/jtd-2026-1612) [PMID 42583339](https://pubmed.ncbi.nlm.nih.gov/42583339/) — 해당 근거의 임상적 의미.
 
-[^39]: Analysis of the distribution of traditional Chinese medicine syndrome types and related factors in insomnia patients. _Medicine_. 2025-05-09. (환자 468명) [관찰연구] [DOI 10.1097/md.0000000000042375](https://doi.org/10.1097/md.0000000000042375) [PMID 10.1097/md.0000000000042375](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000042375/) — 해당 근거의 임상적 의미.
+[^39]: Analysis of the distribution of traditional Chinese medicine syndrome types and related factors in insomnia patients. _Medicine_. 2025-05-09. (환자 468명) [관찰연구] [DOI 10.1097/md.0000000000042375](https://doi.org/10.1097/md.0000000000042375) — 해당 근거의 임상적 의미.
 
 [^40]: Prescriptions of Chinese Herbal Medicines for Insomnia in Taiwan during 2002. _Evidence-based complementary and alternative medicine : eCAM_. 2011. (환자 16134명) [관찰연구] [DOI 10.1093/ecam/nep018](https://doi.org/10.1093/ecam/nep018) [PMID 19339485](https://pubmed.ncbi.nlm.nih.gov/19339485/) — 해당 근거의 임상적 의미.
 
@@ -1103,7 +1103,7 @@
 
 [^44]: Effects of the herbal prescription Kami Guibi-tang on brain function in amnestic mild cognitive impairment: a task-based and resting-state fMRI study. _Brain imaging and behavior_. 2026-03-23. (환자 84명) [임상시험] [DOI 10.1007/s11682-026-01138-6](https://doi.org/10.1007/s11682-026-01138-6) [PMID 41866633](https://pubmed.ncbi.nlm.nih.gov/41866633/) — 해당 근거의 임상적 의미.
 
-[^45]: Association Between Kamikihito Treatment and Nocturnal Voiding Frequency in Patients With Sleep Disturbance: A Retrospective Clinical Study. _Traditional & Kampo Medicine_. 2026-05-31. (환자 13명) [관찰연구] [DOI 10.1002/tkm2.70062](https://doi.org/10.1002/tkm2.70062) [PMID 10.1002/tkm2.70062](https://pubmed.ncbi.nlm.nih.gov/10.1002/tkm2.70062/) — 해당 근거의 임상적 의미.
+[^45]: Association Between Kamikihito Treatment and Nocturnal Voiding Frequency in Patients With Sleep Disturbance: A Retrospective Clinical Study. _Traditional & Kampo Medicine_. 2026-05-31. (환자 13명) [관찰연구] [DOI 10.1002/tkm2.70062](https://doi.org/10.1002/tkm2.70062) — 해당 근거의 임상적 의미.
 
 [^46]: Acupoint Catgut Embedding Alleviates Insomnia in Different Chinese Medicine Syndrome Types: A Randomized Controlled Trial. _Chinese journal of integrative medicine_. 2019-07. (환자 510명) [임상시험] [DOI 10.1007/s11655-018-2770-3](https://doi.org/10.1007/s11655-018-2770-3) [PMID 30484016](https://pubmed.ncbi.nlm.nih.gov/30484016/) — 해당 근거의 임상적 의미.
 
@@ -1113,7 +1113,7 @@
 
 [^49]: Proteomic Analysis of the Antidepressant Effects of Shen-Zhi-Ling in Depressed Patients: Identification of Proteins Associated with Platelet Activation and Lipid Metabolism. _Cellular and molecular neurobiology_. 2018-07. [관찰연구] [DOI 10.1007/s10571-018-0582-9](https://doi.org/10.1007/s10571-018-0582-9) [PMID 29564590](https://pubmed.ncbi.nlm.nih.gov/29564590/) — 해당 근거의 임상적 의미.
 
-[^50]: Research progress in inflammation and reward mechanisms and traditional Chinese medicine regulation of depression. _Guidelines and Standards of Chinese Medicine_. 2024-10-07. [문헌 고찰] [DOI 10.1097/gscm.0000000000000031](https://doi.org/10.1097/gscm.0000000000000031) [PMID 10.1097/gscm.0000000000000031](https://pubmed.ncbi.nlm.nih.gov/10.1097/gscm.0000000000000031/) — 해당 근거의 임상적 의미.
+[^50]: Research progress in inflammation and reward mechanisms and traditional Chinese medicine regulation of depression. _Guidelines and Standards of Chinese Medicine_. 2024-10-07. [문헌 고찰] [DOI 10.1097/gscm.0000000000000031](https://doi.org/10.1097/gscm.0000000000000031) — 해당 근거의 임상적 의미.
 
 [^51]: Circulating MicroRNA Profiles Differ between Qi-Stagnation and Qi-Deficiency in Coronary Heart Disease Patients with Blood Stasis Syndrome. _Evidence-based complementary and alternative medicine : eCAM_. 2014. (환자 29명) [관찰연구] [DOI 10.1155/2014/926962](https://doi.org/10.1155/2014/926962) [PMID 25548593](https://pubmed.ncbi.nlm.nih.gov/25548593/) — 해당 근거의 임상적 의미.
 
@@ -1135,11 +1135,11 @@
 
 [^60]: Effectiveness of Japanese traditional medicine (Kamikihito and Saikokeishito) for treating long COVID: a prospective observational study. _Frontiers in medicine_. 2025. (환자 112명) [관찰연구] [DOI 10.3389/fmed.2025.1609812](https://doi.org/10.3389/fmed.2025.1609812) [PMID 40761857](https://pubmed.ncbi.nlm.nih.gov/40761857/) — 해당 근거의 임상적 의미.
 
-[^61]: A Case Report of Complete Atrioventricular Block Treatment with &lt;italic&gt;Samulanshin-tang-gamibang&lt;/italic&gt; and Acupuncture. _The Journal of Internal Korean Medicine_. 2022-05-31. (환자 1명) [증례 보고] [DOI 10.22246/jikm.2022.43.2.274](https://doi.org/10.22246/jikm.2022.43.2.274) [PMID 10.22246/jikm.2022.43.2.274](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2022.43.2.274/) — 해당 근거의 임상적 의미.
+[^61]: A Case Report of Complete Atrioventricular Block Treatment with &lt;italic&gt;Samulanshin-tang-gamibang&lt;/italic&gt; and Acupuncture. _The Journal of Internal Korean Medicine_. 2022-05-31. (환자 1명) [증례 보고] [DOI 10.22246/jikm.2022.43.2.274](https://doi.org/10.22246/jikm.2022.43.2.274) — 해당 근거의 임상적 의미.
 
 [^62]: The short-term therapeutic effect of the three-part massotherapy for insomnia due to deficiency of both the heart and the spleen--a report of 100 cases. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2007-12. (환자 200명) [임상시험] [PMID 18246681](https://pubmed.ncbi.nlm.nih.gov/18246681/) — 해당 근거의 임상적 의미.
 
-[^63]: Guipi Decoction Combined with Acupuncture in the Treatment of Cervical Vertigo from Qi–Blood Deficiency: Efficacy and Effects on Hemodynamics. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-01-06. (환자 120명) [임상시험] [DOI 10.1177/03601293251411548](https://doi.org/10.1177/03601293251411548) [PMID 10.1177/03601293251411548](https://pubmed.ncbi.nlm.nih.gov/10.1177/03601293251411548/) — 해당 근거의 임상적 의미.
+[^63]: Guipi Decoction Combined with Acupuncture in the Treatment of Cervical Vertigo from Qi–Blood Deficiency: Efficacy and Effects on Hemodynamics. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-01-06. (환자 120명) [임상시험] [DOI 10.1177/03601293251411548](https://doi.org/10.1177/03601293251411548) — 해당 근거의 임상적 의미.
 
 [^64]: [Effect of renshen jianxin capsule for alleviating insulin resistance in patients with coronary heart disease and glucose tolerance impairment]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-09. (환자 80명) [임상시험] [PMID 19960983](https://pubmed.ncbi.nlm.nih.gov/19960983/) — 해당 근거의 임상적 의미.
 
@@ -1171,13 +1171,13 @@
 
 [^78]: [Analysis of the first questionnaires on common TCM syndromes of depression]. _Hunan yi ke da xue xue bao = Hunan yike daxue xuebao = Bulletin of Hunan Medical University_. 2002-12-28. [관찰연구] [PMID 12658927](https://pubmed.ncbi.nlm.nih.gov/12658927/) — 해당 근거의 임상적 의미.
 
-[^79]: The core pattern of Chinese herbal formulae and drug–herb concurrent usage in patients with dementia. _Medicine_. 2019-01. (환자 18141명) [관찰연구] [DOI 10.1097/md.0000000000013931](https://doi.org/10.1097/md.0000000000013931) [PMID 10.1097/md.0000000000013931](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000013931/) — 해당 근거의 임상적 의미.
+[^79]: The core pattern of Chinese herbal formulae and drug–herb concurrent usage in patients with dementia. _Medicine_. 2019-01. (환자 18141명) [관찰연구] [DOI 10.1097/md.0000000000013931](https://doi.org/10.1097/md.0000000000013931) — 해당 근거의 임상적 의미.
 
 [^80]: [Epidemiologic study on basic TCM syndrome in the subhealth population in the Zhengzhou area]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-07. (환자 2133명) [관찰연구] [PMID 18822910](https://pubmed.ncbi.nlm.nih.gov/18822910/) — 해당 근거의 임상적 의미.
 
 [^81]: [Analysis of symptom compositions in sub-health insomnia patients of Yin deficiency fire hyperactivity syndrome and Xin-Pi deficiency syndrome]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-04. [관찰연구] [PMID 21608222](https://pubmed.ncbi.nlm.nih.gov/21608222/) — 해당 근거의 임상적 의미.
 
-[^82]: Study on Syndrome of Traditional Chinese Medicine for Nonsuicidal Self-Injury. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2025-07-28. [문헌 고찰] [DOI 10.1177/03601293251355019](https://doi.org/10.1177/03601293251355019) [PMID 10.1177/03601293251355019](https://pubmed.ncbi.nlm.nih.gov/10.1177/03601293251355019/) — 해당 근거의 임상적 의미.
+[^82]: Study on Syndrome of Traditional Chinese Medicine for Nonsuicidal Self-Injury. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2025-07-28. [문헌 고찰] [DOI 10.1177/03601293251355019](https://doi.org/10.1177/03601293251355019) — 해당 근거의 임상적 의미.
 
 [^83]: [Clinical observation on electroacupuncture combined with catgut implantation at acupoints for treatment of simple obesity of heart and spleen deficiency type]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-09. (환자 65명) [임상시험] [PMID 19803235](https://pubmed.ncbi.nlm.nih.gov/19803235/) — 해당 근거의 임상적 의미.
 
@@ -1185,7 +1185,7 @@
 
 [^85]: Herbal prescription for managing menopausal disorders: A practice survey in Korean medicine doctors. _Complementary therapies in clinical practice_. 2020-02. [관찰연구] [DOI 10.1016/j.ctcp.2019.101073](https://doi.org/10.1016/j.ctcp.2019.101073) [PMID 31765985](https://pubmed.ncbi.nlm.nih.gov/31765985/) — 해당 근거의 임상적 의미.
 
-[^86]: Prescription patterns of herbal medicine for polycystic ovarian syndrome in major Korean medicine hospitals: a multicenter retrospective study. _Clinical and Experimental Obstetrics & Gynecology_. 2021-06-15. (환자 120명) [관찰연구] [DOI 10.31083/j.ceog.2021.03.2471](https://doi.org/10.31083/j.ceog.2021.03.2471) [PMID 10.31083/j.ceog.2021.03.2471](https://pubmed.ncbi.nlm.nih.gov/10.31083/j.ceog.2021.03.2471/) — 해당 근거의 임상적 의미.
+[^86]: Prescription patterns of herbal medicine for polycystic ovarian syndrome in major Korean medicine hospitals: a multicenter retrospective study. _Clinical and Experimental Obstetrics & Gynecology_. 2021-06-15. (환자 120명) [관찰연구] [DOI 10.31083/j.ceog.2021.03.2471](https://doi.org/10.31083/j.ceog.2021.03.2471) — 해당 근거의 임상적 의미.
 
 [^87]: Altered default mode network homogeneity in chronic insomnia disorder: modulation by modified suanzaoren decoction and estazolam, and machine learning classification. _Brain research_. 2026-08-03. (환자 147명) [임상시험] [DOI 10.1016/j.brainres.2026.150482](https://doi.org/10.1016/j.brainres.2026.150482) [PMID 42546895](https://pubmed.ncbi.nlm.nih.gov/42546895/) — 해당 근거의 임상적 의미.
 
@@ -1197,11 +1197,11 @@
 
 [^91]: Traditional Chinese medicine as an alternative therapy for chronic immune thrombocytopenia in children: A case report. _Explore (New York, N.Y.)_. . (환자 1명) [증례 보고] [DOI 10.1016/j.explore.2025.103190](https://doi.org/10.1016/j.explore.2025.103190) [PMID 40411952](https://pubmed.ncbi.nlm.nih.gov/40411952/) — 해당 근거의 임상적 의미.
 
-[^92]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. _Traditional & Kampo Medicine_. 2017-10-28. (환자 9명) [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) [PMID 10.1002/tkm2.1087](https://pubmed.ncbi.nlm.nih.gov/10.1002/tkm2.1087/) — 해당 근거의 임상적 의미.
+[^92]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. _Traditional & Kampo Medicine_. 2017-10-28. (환자 9명) [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) — 해당 근거의 임상적 의미.
 
-[^93]: Effect of kamikihito on platelet count: Retrospective pilot study. _Traditional & Kampo Medicine_. 2019-09-06. (환자 13명) [관찰연구] [DOI 10.1002/tkm2.1227](https://doi.org/10.1002/tkm2.1227) [PMID 10.1002/tkm2.1227](https://pubmed.ncbi.nlm.nih.gov/10.1002/tkm2.1227/) — 해당 근거의 임상적 의미.
+[^93]: Effect of kamikihito on platelet count: Retrospective pilot study. _Traditional & Kampo Medicine_. 2019-09-06. (환자 13명) [관찰연구] [DOI 10.1002/tkm2.1227](https://doi.org/10.1002/tkm2.1227) — 해당 근거의 임상적 의미.
 
-[^94]: The Comparison of Two Method Effectiveness on Postmenopausal Hot Flash Therapy: Acupuncture versus Hormone Therapy. _Galen Medical Journal_. 2015-05-17. (환자 20명) [임상시험] [DOI 10.31661/gmj.v4i2.303](https://doi.org/10.31661/gmj.v4i2.303) [PMID 10.31661/gmj.v4i2.303](https://pubmed.ncbi.nlm.nih.gov/10.31661/gmj.v4i2.303/) — 해당 근거의 임상적 의미.
+[^94]: The Comparison of Two Method Effectiveness on Postmenopausal Hot Flash Therapy: Acupuncture versus Hormone Therapy. _Galen Medical Journal_. 2015-05-17. (환자 20명) [임상시험] [DOI 10.31661/gmj.v4i2.303](https://doi.org/10.31661/gmj.v4i2.303) — 해당 근거의 임상적 의미.
 
 [^95]: Herbal prescription for managing menopausal disorders: A practice survey in Korean medicine doctors. _Complementary therapies in clinical practice_. 2020-02. [관찰연구] [DOI 10.1016/j.ctcp.2019.101073](https://doi.org/10.1016/j.ctcp.2019.101073) [PMID 31765985](https://pubmed.ncbi.nlm.nih.gov/31765985/) — 해당 근거의 임상적 의미.
 
@@ -1209,9 +1209,9 @@
 
 [^97]: The characteristics and prescription patterns of Chinese herbal medicine in clinical practice for the treatment of anemia. _Taiwanese journal of obstetrics & gynecology_. 2018-08. (환자 41028명) [관찰연구] [DOI 10.1016/j.tjog.2018.06.030](https://doi.org/10.1016/j.tjog.2018.06.030) [PMID 30122581](https://pubmed.ncbi.nlm.nih.gov/30122581/) — 해당 근거의 임상적 의미.
 
-[^98]: Evaluation on Effect of Acupoint Application to Treat Idiopathic Edema of Perimenopausal Women Using the Segmentation Dictionary Learning Algorithm. _Computational Intelligence and Neuroscience_. 2022-06-27. [임상시험] [DOI 10.1155/2022/2196782](https://doi.org/10.1155/2022/2196782) [PMID 10.1155/2022/2196782](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/2196782/) — 해당 근거의 임상적 의미.
+[^98]: Evaluation on Effect of Acupoint Application to Treat Idiopathic Edema of Perimenopausal Women Using the Segmentation Dictionary Learning Algorithm. _Computational Intelligence and Neuroscience_. 2022-06-27. [임상시험] [DOI 10.1155/2022/2196782](https://doi.org/10.1155/2022/2196782) — 해당 근거의 임상적 의미.
 
-[^99]: Clinical Research Progress of Different Acupuncture and Moxibustion Therapy for Perimenstrual Insomnia. _Journal of Clinical Medicine Research_. 2022-01-21. [문헌 고찰] [DOI 10.32629/jcmr.v3i1.611](https://doi.org/10.32629/jcmr.v3i1.611) [PMID 10.32629/jcmr.v3i1.611](https://pubmed.ncbi.nlm.nih.gov/10.32629/jcmr.v3i1.611/) — 해당 근거의 임상적 의미.
+[^99]: Clinical Research Progress of Different Acupuncture and Moxibustion Therapy for Perimenstrual Insomnia. _Journal of Clinical Medicine Research_. 2022-01-21. [문헌 고찰] [DOI 10.32629/jcmr.v3i1.611](https://doi.org/10.32629/jcmr.v3i1.611) — 해당 근거의 임상적 의미.
 
 [^100]: Perceptions of using herbal medicines for managing menopausal symptoms: a web-based survey of Korean medicine doctors. _Integrative medicine research_. 2019-12. (환자 48명) [관찰연구] [DOI 10.1016/j.imr.2019.08.004](https://doi.org/10.1016/j.imr.2019.08.004) [PMID 31646139](https://pubmed.ncbi.nlm.nih.gov/31646139/) — 해당 근거의 임상적 의미.
 
@@ -1223,13 +1223,13 @@
 
 [^104]: Therapeutic Potential of Combined Herbal Medicine and Electroacupuncture in Mild Cognitive Impairment Through Cytokine Modulation: An Observational Study. _Neuropsychiatric disease and treatment_. 2024. (환자 6명) [관찰연구] [DOI 10.2147/NDT.S465650](https://doi.org/10.2147/NDT.S465650) [PMID 38919562](https://pubmed.ncbi.nlm.nih.gov/38919562/) — 해당 근거의 임상적 의미.
 
-[^105]: An Observational Study of 28 Cases of Herbal Treatment for Patients with COVID-19 Sequelae During the Pandemic in Gwangju. _The Journal of Internal Korean Medicine_. 2026-03-30. (환자 28명) [관찰연구] [DOI 10.22246/jikm.2026.47.1.42](https://doi.org/10.22246/jikm.2026.47.1.42) [PMID 10.22246/jikm.2026.47.1.42](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2026.47.1.42/) — 해당 근거의 임상적 의미.
+[^105]: An Observational Study of 28 Cases of Herbal Treatment for Patients with COVID-19 Sequelae During the Pandemic in Gwangju. _The Journal of Internal Korean Medicine_. 2026-03-30. (환자 28명) [관찰연구] [DOI 10.22246/jikm.2026.47.1.42](https://doi.org/10.22246/jikm.2026.47.1.42) — 해당 근거의 임상적 의미.
 
 [^106]: Chronic fatigue in adult survivors of childhood cancer: associated symptoms, neuroendocrine markers, and autonomic cardiovascular responses. _Psychosomatics_. . (환자 87명) [관찰연구] [DOI 10.1016/j.psym.2013.12.005](https://doi.org/10.1016/j.psym.2013.12.005) [PMID 24656688](https://pubmed.ncbi.nlm.nih.gov/24656688/) — 해당 근거의 임상적 의미.
 
 [^107]: Kampo Medicines for Frailty in Locomotor Disease. _Frontiers in nutrition_. 2018. [문헌 고찰] [DOI 10.3389/fnut.2018.00031](https://doi.org/10.3389/fnut.2018.00031) [PMID 29755984](https://pubmed.ncbi.nlm.nih.gov/29755984/) — 해당 근거의 임상적 의미.
 
-[^108]: Research Progress of Traditional Chinese Medicine in the Treatment of Chronic Heart Failure. _Journal of Contemporary Medical Practice_. 2024-08-21. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(08).38](https://doi.org/10.53469/jcmp.2024.06(08).38) [PMID 10.53469/jcmp.2024.06(08).38](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2024.06(08).38/) — 해당 근거의 임상적 의미.
+[^108]: Research Progress of Traditional Chinese Medicine in the Treatment of Chronic Heart Failure. _Journal of Contemporary Medical Practice_. 2024-08-21. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(08).38](https://doi.org/10.53469/jcmp.2024.06(08).38) — 해당 근거의 임상적 의미.
 
 [^109]: Pattern, clinical presentations and management of thyroid diseases in national endocrine referral clinics, Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia. _Ethiopian medical journal_. 2012-10. (환자 376명) [관찰연구] [PMID 23930473](https://pubmed.ncbi.nlm.nih.gov/23930473/) — 해당 근거의 임상적 의미.
 
@@ -1253,13 +1253,13 @@
 
 [^119]: [Correlation between serum thyroid hormone and dopamine levels and Chinese medicine syndrome types]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-03. (환자 150명) [관찰연구] [PMID 21485074](https://pubmed.ncbi.nlm.nih.gov/21485074/) — 해당 근거의 임상적 의미.
 
-[^120]: Study of Correlation between Intestinal Microbiota and Traditional Chinese Medicine Syndrome of Patients with Colon Cancer. _Evidence-Based Complementary and Alternative Medicine_. 2022-07-11. (환자 108명) [관찰연구] [DOI 10.1155/2022/2989456](https://doi.org/10.1155/2022/2989456) [PMID 10.1155/2022/2989456](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/2989456/) — 해당 근거의 임상적 의미.
+[^120]: Study of Correlation between Intestinal Microbiota and Traditional Chinese Medicine Syndrome of Patients with Colon Cancer. _Evidence-Based Complementary and Alternative Medicine_. 2022-07-11. (환자 108명) [관찰연구] [DOI 10.1155/2022/2989456](https://doi.org/10.1155/2022/2989456) — 해당 근거의 임상적 의미.
 
 [^121]: Apriori Correlation Analysis of Geriatric Malnutrition, Sarcopenia, Frailty, and Traditional Chinese Medicine Syndromes Based on Data Mining Techniques. _Complementary medicine research_. 2026-07-06. (환자 1049명) [관찰연구] [DOI 10.1159/000553380](https://doi.org/10.1159/000553380) [PMID 42406648](https://pubmed.ncbi.nlm.nih.gov/42406648/) — 해당 근거의 임상적 의미.
 
 [^122]: A Study on the Diagnostic Value of Commonly Used Clinical Nutritional Quantitative Indicators for the Diagnosis of Qi and Blood Deficiency Syndrome in Elderly Patients. _Journal of integrative and complementary medicine_. 2026-08-04. (환자 1049명) [관찰연구] [DOI 10.1177/27683605261475455](https://doi.org/10.1177/27683605261475455) [PMID 42552737](https://pubmed.ncbi.nlm.nih.gov/42552737/) — 해당 근거의 임상적 의미.
 
-[^123]: A Case Report of Induced Remission-Level Improvement in Crohn’s Disease with Recurrent Hematochezia Following Integrative Korean Medicine Treatment. _The Journal of Internal Korean Medicine_. 2025-12-30. (환자 1명) [증례 보고] [DOI 10.22246/jikm.2025.46.6.1758](https://doi.org/10.22246/jikm.2025.46.6.1758) [PMID 10.22246/jikm.2025.46.6.1758](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2025.46.6.1758/) — 해당 근거의 임상적 의미.
+[^123]: A Case Report of Induced Remission-Level Improvement in Crohn’s Disease with Recurrent Hematochezia Following Integrative Korean Medicine Treatment. _The Journal of Internal Korean Medicine_. 2025-12-30. (환자 1명) [증례 보고] [DOI 10.22246/jikm.2025.46.6.1758](https://doi.org/10.22246/jikm.2025.46.6.1758) — 해당 근거의 임상적 의미.
 
 [^124]: Study on canceration law of gastric mucosal dysplasia based on syndromes of Chinese medicine. _Chinese journal of integrative medicine_. 2011-05. (환자 324명) [관찰연구] [DOI 10.1007/s11655-011-0616-3](https://doi.org/10.1007/s11655-011-0616-3) [PMID 21611897](https://pubmed.ncbi.nlm.nih.gov/21611897/) — 해당 근거의 임상적 의미.
 

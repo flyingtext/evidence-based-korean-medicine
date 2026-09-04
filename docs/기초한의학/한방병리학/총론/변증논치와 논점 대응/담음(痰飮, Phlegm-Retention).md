@@ -1031,13 +1031,13 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 ---
 
-[^4]: Research Progress of Zhenfang Baimaru Powder on the Treatment of Acute Cerebral Infarction with Wind-phlegm-blocked Collaterals by Acupuncture Points. _Journal of Contemporary Medical Practice_. 문헌고찰. [DOI 10.53469/jcmp.2025.07(03).33](https://doi.org/10.53469/jcmp.2025.07(03).33) [PMID 10.53469/jcmp.2025.07(03).33](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2025.07(03).33/)
+[^4]: Research Progress of Zhenfang Baimaru Powder on the Treatment of Acute Cerebral Infarction with Wind-phlegm-blocked Collaterals by Acupuncture Points. _Journal of Contemporary Medical Practice_. 문헌고찰. [DOI 10.53469/jcmp.2025.07(03).33](https://doi.org/10.53469/jcmp.2025.07(03).33)
 
 [^10]: Professor Wei Pin-kang's experience in treating chemotherapy induced nausea and vomiting: an analysis of herbal medication. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 관찰연구. [PMID 22803443](https://pubmed.ncbi.nlm.nih.gov/22803443/)
 
 [^16]: Eight therapies of resolving phlegm and dispersing nodules in treatment of gastric cancer: experience from Professor Wei Pin-kang. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 증례. [DOI 10.3736/jcim20111005](https://doi.org/10.3736/jcim20111005) [PMID 22015186](https://pubmed.ncbi.nlm.nih.gov/22015186/)
 
-[^20]: Development of the 8-Item Phlegm Pattern Questionnaire (PPQ-8) Using Rasch Analysis. _Evidence-Based Complementary and Alternative Medicine_. 실험연구. [DOI 10.1155/2021/6528891](https://doi.org/10.1155/2021/6528891) [PMID 10.1155/2021/6528891](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/6528891/)
+[^20]: Development of the 8-Item Phlegm Pattern Questionnaire (PPQ-8) Using Rasch Analysis. _Evidence-Based Complementary and Alternative Medicine_. 실험연구. [DOI 10.1155/2021/6528891](https://doi.org/10.1155/2021/6528891)
 
 [^21]: Penetrating needling on head points for vertigo caused by vertebral-basilar arterial blood-supply insufficiency. 임상시험. [PMID 21739689](https://pubmed.ncbi.nlm.nih.gov/21739689/)
 
@@ -1063,23 +1063,23 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^51]: Clinical observation on acupuncture for treatment of hypertension of phlegm-stasis blocking collateral type. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 임상시험. [PMID 17663100](https://pubmed.ncbi.nlm.nih.gov/17663100/)
 
-[^52]: Self-Control Study on the Impact of Buzhong Yiqi Prescription on the Gut Microbiota of Obese Patients with PCOS and Phlegm-Dampness Syndrome Caused by Spleen Deficiency. __. 임상시험. [DOI 10.21203/rs.3.rs-117891/v1](https://doi.org/10.21203/rs.3.rs-117891/v1) [PMID 10.21203/rs.3.rs-117891/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-117891/v1/)
+[^52]: Self-Control Study on the Impact of Buzhong Yiqi Prescription on the Gut Microbiota of Obese Patients with PCOS and Phlegm-Dampness Syndrome Caused by Spleen Deficiency. __. 임상시험. [DOI 10.21203/rs.3.rs-117891/v1](https://doi.org/10.21203/rs.3.rs-117891/v1)
 
-[^54]: Clinical Study on the Treatment of Alzheimer's Disease of Spleen Deficiency and Phlegm Obstruction Type by Wenpi Tongluo Kaiqiao Formula Combined with Acupuncture. _Advances in Precision Medicine_. 임상시험. [DOI 10.18063/apm.v10i3.610](https://doi.org/10.18063/apm.v10i3.610) [PMID 10.18063/apm.v10i3.610](https://pubmed.ncbi.nlm.nih.gov/10.18063/apm.v10i3.610/)
+[^54]: Clinical Study on the Treatment of Alzheimer's Disease of Spleen Deficiency and Phlegm Obstruction Type by Wenpi Tongluo Kaiqiao Formula Combined with Acupuncture. _Advances in Precision Medicine_. 임상시험. [DOI 10.18063/apm.v10i3.610](https://doi.org/10.18063/apm.v10i3.610)
 
 [^55]: Clinical study on effect of luohuo capsule in treating essential hypertension of phlegm-stasis blocking collateral type. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 15307699](https://pubmed.ncbi.nlm.nih.gov/15307699/)
 
 [^56]: Potential of using pattern diagnosis of traditional Chinese medicine to improve the clinical use of antihypertensive agents. 문헌고찰. [PMID 17498482](https://pubmed.ncbi.nlm.nih.gov/17498482/)
 
-[^57]: Clinical Observation on Qi-Jun Xiao-Zhi Decoction Combined with Acupoint Catgut Embedding Therapy for Metabolic Dysfunction-Associated Steatotic Liver Disease of Phlegm-Dampness Stagnation Type. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 임상시험. [DOI 10.1177/03601293261447920](https://doi.org/10.1177/03601293261447920) [PMID 10.1177/03601293261447920](https://pubmed.ncbi.nlm.nih.gov/10.1177/03601293261447920/)
+[^57]: Clinical Observation on Qi-Jun Xiao-Zhi Decoction Combined with Acupoint Catgut Embedding Therapy for Metabolic Dysfunction-Associated Steatotic Liver Disease of Phlegm-Dampness Stagnation Type. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 임상시험. [DOI 10.1177/03601293261447920](https://doi.org/10.1177/03601293261447920)
 
 [^58]: Review of clinical and experimental studies on treatment of atherosclerosis with expelling phlegm and relieving blood stasis principle. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 문헌고찰. [PMID 17205830](https://pubmed.ncbi.nlm.nih.gov/17205830/)
 
 [^62]: Study on relationship between polymorphism of apolipoprotein E gene and syndromes of phlegm and blood stasis in patients with coronary heart disease. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 관찰연구. [DOI 10.3736/jcim20050605](https://doi.org/10.3736/jcim20050605) [PMID 16282051](https://pubmed.ncbi.nlm.nih.gov/16282051/)
 
-[^63]: Clinical study on the intervention of Tangdi prescription on spleen deficiency and phlegm-dampness syndrome of prediabetes and its mechanism of targeted regulation of intestinal flora–BCAA. _Medicine: Case Reports and Study Protocols_. 임상시험. [DOI 10.1097/md9.0000000000000389](https://doi.org/10.1097/md9.0000000000000389) [PMID 10.1097/md9.0000000000000389](https://pubmed.ncbi.nlm.nih.gov/10.1097/md9.0000000000000389/)
+[^63]: Clinical study on the intervention of Tangdi prescription on spleen deficiency and phlegm-dampness syndrome of prediabetes and its mechanism of targeted regulation of intestinal flora–BCAA. _Medicine: Case Reports and Study Protocols_. 임상시험. [DOI 10.1097/md9.0000000000000389](https://doi.org/10.1097/md9.0000000000000389)
 
-[^64]: Efficacy of Jianpi Huatan Dingxuan Decoction in the Treatment of Vertigo and Phlegm Obstruction Syndrome. _E3S Web of Conferences_. 임상시험. [DOI 10.1051/e3sconf/202123302041](https://doi.org/10.1051/e3sconf/202123302041) [PMID 10.1051/e3sconf/202123302041](https://pubmed.ncbi.nlm.nih.gov/10.1051/e3sconf/202123302041/)
+[^64]: Efficacy of Jianpi Huatan Dingxuan Decoction in the Treatment of Vertigo and Phlegm Obstruction Syndrome. _E3S Web of Conferences_. 임상시험. [DOI 10.1051/e3sconf/202123302041](https://doi.org/10.1051/e3sconf/202123302041)
 
 [^65]: Epidemic survey on TCM syndrome typing and preliminary discussion on TCM etiology and pathogenesis of fatty liver. 관찰연구. [PMID 15768875](https://pubmed.ncbi.nlm.nih.gov/15768875/)
 
@@ -1097,9 +1097,9 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^75]: Herbal Medicine for Metabolic Dysfunction-Associated Steatotic Liver Disease: Clinical Effectiveness and Research Trends - A Systematic Review and Meta-Analysis. 메타분석. [DOI 10.22246/jikm.2025.46.4.774](https://doi.org/10.22246/jikm.2025.46.4.774)
 
-[^77]: Metabolic Profiles Distinguish Non-Dampness-Phlegm and Dampness-Phlegm Patterns among Korean Patients with Acute Cerebral Infarction. _Evidence-Based Complementary and Alternative Medicine_. 관찰연구. [DOI 10.1155/2013/517018](https://doi.org/10.1155/2013/517018) [PMID 10.1155/2013/517018](https://pubmed.ncbi.nlm.nih.gov/10.1155/2013/517018/)
+[^77]: Metabolic Profiles Distinguish Non-Dampness-Phlegm and Dampness-Phlegm Patterns among Korean Patients with Acute Cerebral Infarction. _Evidence-Based Complementary and Alternative Medicine_. 관찰연구. [DOI 10.1155/2013/517018](https://doi.org/10.1155/2013/517018)
 
-[^78]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. _Evidence-Based Complementary and Alternative Medicine_. 관찰연구. [DOI 10.1155/2013/508918](https://doi.org/10.1155/2013/508918) [PMID 10.1155/2013/508918](https://pubmed.ncbi.nlm.nih.gov/10.1155/2013/508918/)
+[^78]: A Study of Tongue and Pulse Diagnosis in Traditional Korean Medicine for Stroke Patients Based on Quantification Theory Type II. _Evidence-Based Complementary and Alternative Medicine_. 관찰연구. [DOI 10.1155/2013/508918](https://doi.org/10.1155/2013/508918)
 
 [^80]: Impact of qutan huayu jiedu herbs on monocyte subpopulations abnormality in patients with hyperlipidemia of phlegm-stagnancy obstruction syndrome pattern. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 21434338](https://pubmed.ncbi.nlm.nih.gov/21434338/)
 
@@ -1117,7 +1117,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^90]: Evaluation by survival analysis on effect of traditional Chinese medicine in treating children with respiratory syncytial viral pneumonia of phlegm-heat blocking Fei syndrome. _Chinese journal of integrative medicine_. 임상시험. [DOI 10.1007/s11655-009-0095-y](https://doi.org/10.1007/s11655-009-0095-y) [PMID 19407945](https://pubmed.ncbi.nlm.nih.gov/19407945/)
 
-[^91]: Origin of Phlegm-Stasis-Toxin Theory and Its Empirical Application in Syndrome Differentiation of Carotid Atherosclerosis. _Research in Health Science_. 증례. [DOI 10.22158/rhs.v11n2p177](https://doi.org/10.22158/rhs.v11n2p177) [PMID 10.22158/rhs.v11n2p177](https://pubmed.ncbi.nlm.nih.gov/10.22158/rhs.v11n2p177/)
+[^91]: Origin of Phlegm-Stasis-Toxin Theory and Its Empirical Application in Syndrome Differentiation of Carotid Atherosclerosis. _Research in Health Science_. 증례. [DOI 10.22158/rhs.v11n2p177](https://doi.org/10.22158/rhs.v11n2p177)
 
 [^92]: Efficacy of Wendan Decoction combined with conventional medicine for depression: a systematic review and meta-analysis. _Journal of ethnopharmacology_. 메타분석. [DOI 10.1016/j.jep.2026.121638](https://doi.org/10.1016/j.jep.2026.121638) [PMID 41936834](https://pubmed.ncbi.nlm.nih.gov/41936834/)
 
@@ -1157,7 +1157,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^116]: Efficacy and safety of Danlou tablets in the treatment of stable angina pectoris with intermingled phlegm and blood stasis syndrome in coronary heart disease: a multicenter randomized controlled study. _Frontiers in cardiovascular medicine_. 임상시험. [DOI 10.3389/fcvm.2024.1462730](https://doi.org/10.3389/fcvm.2024.1462730) [PMID 39559795](https://pubmed.ncbi.nlm.nih.gov/39559795/)
 
-[^117]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness. _Medicine_. 임상시험. [DOI 10.1097/md.0000000000019045](https://doi.org/10.1097/md.0000000000019045) [PMID 10.1097/md.0000000000019045](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000019045/)
+[^117]: Clinical effects of Shou-Wu Jiang-Qi Decoction combined acupuncture on the treatment of Polycystic Ovarian Syndrome with kidney deficiency, phlegm and blood stasisness. _Medicine_. 임상시험. [DOI 10.1097/md.0000000000019045](https://doi.org/10.1097/md.0000000000019045)
 
 [^118]: Clinical Efficacy of Modified San'ao Decoction and Erchen Decoction for Esophageal Dysphagia (Shi Bi) with Phlegm-Dampness and Blood Stasis Syndrome. _Journal of visualized experiments : JoVE_. 임상시험. [DOI 10.3791/71675](https://doi.org/10.3791/71675) [PMID 42406624](https://pubmed.ncbi.nlm.nih.gov/42406624/)
 
@@ -1165,7 +1165,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^122]: Effect of TCM treatment for dissolving phlegm and dispelling stasis on plasma protein and thrombomodulin in patients with acute cerebral infarction. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 18173153](https://pubmed.ncbi.nlm.nih.gov/18173153/)
 
-[^123]: Clinical Observation of Xiaochaihu Decoction Combined with Xiaoxianxiong Decoction in the Treatment of Post-stroke Pneumonia. _Journal of Clinical and Nursing Research_. 임상시험. [DOI 10.26689/jcnr.v9i8.11794](https://doi.org/10.26689/jcnr.v9i8.11794) [PMID 10.26689/jcnr.v9i8.11794](https://pubmed.ncbi.nlm.nih.gov/10.26689/jcnr.v9i8.11794/)
+[^123]: Clinical Observation of Xiaochaihu Decoction Combined with Xiaoxianxiong Decoction in the Treatment of Post-stroke Pneumonia. _Journal of Clinical and Nursing Research_. 임상시험. [DOI 10.26689/jcnr.v9i8.11794](https://doi.org/10.26689/jcnr.v9i8.11794)
 
 [^124]: Efficacy of Jiangzhi Mai'an Granules in the treatment of stable angina pectoris with phlegm and blood stasis obstruction and carotid artery plaque: A prospective randomized study. _Medicine_. 임상시험. [DOI 10.1097/MD.0000000000040787](https://doi.org/10.1097/MD.0000000000040787) [PMID 39654241](https://pubmed.ncbi.nlm.nih.gov/39654241/)
 
@@ -1173,9 +1173,9 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^127]: Therapeutic Mechanism of Yihuo Huatan Formula in Stable Chronic Obstructive Pulmonary Disease: A Randomized Controlled Trial Integrating Metabolomics and 16S rRNA Gene Sequencing. _Chinese journal of integrative medicine_. 임상시험. [DOI 10.1007/s11655-025-3943-5](https://doi.org/10.1007/s11655-025-3943-5) [PMID 41498901](https://pubmed.ncbi.nlm.nih.gov/41498901/)
 
-[^128]: Clinical Observation on the Treatment of Hypertension by Combination of Modified Banxia Baizhu Tianma Decoction and Auricular Acupuncture. _Journal of Clinical and Nursing Research_. 임상시험. [DOI 10.26689/jcnr.v5i3.2078](https://doi.org/10.26689/jcnr.v5i3.2078) [PMID 10.26689/jcnr.v5i3.2078](https://pubmed.ncbi.nlm.nih.gov/10.26689/jcnr.v5i3.2078/)
+[^128]: Clinical Observation on the Treatment of Hypertension by Combination of Modified Banxia Baizhu Tianma Decoction and Auricular Acupuncture. _Journal of Clinical and Nursing Research_. 임상시험. [DOI 10.26689/jcnr.v5i3.2078](https://doi.org/10.26689/jcnr.v5i3.2078)
 
-[^129]: The Chinese herbal formula pediatric Anshen Bunao Granules for the treatment of tic disorder: study protocol for a randomized, double-blind, active-controlled trial. _Frontiers in Neurology_. 임상시험. [DOI 10.3389/fneur.2026.1822528](https://doi.org/10.3389/fneur.2026.1822528) [PMID 10.3389/fneur.2026.1822528](https://pubmed.ncbi.nlm.nih.gov/10.3389/fneur.2026.1822528/)
+[^129]: The Chinese herbal formula pediatric Anshen Bunao Granules for the treatment of tic disorder: study protocol for a randomized, double-blind, active-controlled trial. _Frontiers in Neurology_. 임상시험. [DOI 10.3389/fneur.2026.1822528](https://doi.org/10.3389/fneur.2026.1822528)
 
 [^130]: Intervention of the Syndrome-Position Point Selection Method on Idiopathic Tinnitus of Phlegm-Fire Stagnation Pattern: A Randomized Controlled Study. _Journal of healthcare engineering_. 임상시험. [DOI 10.1155/2022/9664078](https://doi.org/10.1155/2022/9664078) [PMID 35368921](https://pubmed.ncbi.nlm.nih.gov/35368921/)
 
@@ -1191,25 +1191,25 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^140]: Observation on clinical efficacy of Baoerkang san on spleen-deficiency and dampness-obstructing diarrhea in children. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 임상시험. [PMID 26281607](https://pubmed.ncbi.nlm.nih.gov/26281607/)
 
-[^141]: Clinical Study on the Treatment of Cold Dampness Arthralgia Type Periarthritis of Shoulder. _Chinese Medicine Research and Development_. 임상시험. [DOI 10.57237/j.cmrd.2025.01.001](https://doi.org/10.57237/j.cmrd.2025.01.001) [PMID 10.57237/j.cmrd.2025.01.001](https://pubmed.ncbi.nlm.nih.gov/10.57237/j.cmrd.2025.01.001/)
+[^141]: Clinical Study on the Treatment of Cold Dampness Arthralgia Type Periarthritis of Shoulder. _Chinese Medicine Research and Development_. 임상시험. [DOI 10.57237/j.cmrd.2025.01.001](https://doi.org/10.57237/j.cmrd.2025.01.001)
 
-[^142]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. _Malawi Medical Journal_. 임상시험. [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15) [PMID 10.4314/mmj.v37i5.15](https://pubmed.ncbi.nlm.nih.gov/10.4314/mmj.v37i5.15/)
+[^142]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. _Malawi Medical Journal_. 임상시험. [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15)
 
-[^145]: Correction: Auricular Acupressure Versus an Intermittent Low-Carbohydrate Diet in Children With Overweight or Obesity With Gastric-Heat and Dampness-Obstruction Syndrome: Protocol for a Randomized Controlled Trial (Preprint). __. 임상시험. [DOI 10.2196/preprints.74014](https://doi.org/10.2196/preprints.74014) [PMID 10.2196/preprints.74014](https://pubmed.ncbi.nlm.nih.gov/10.2196/preprints.74014/)
+[^145]: Correction: Auricular Acupressure Versus an Intermittent Low-Carbohydrate Diet in Children With Overweight or Obesity With Gastric-Heat and Dampness-Obstruction Syndrome: Protocol for a Randomized Controlled Trial (Preprint). __. 임상시험. [DOI 10.2196/preprints.74014](https://doi.org/10.2196/preprints.74014)
 
-[^147]: Effects of external application of compound Qingbi granules on acute gouty arthritis with dampness-heat syndrome: a randomized controlled trial. _Chinese Medicine_. 임상시험. [DOI 10.1186/s13020-020-00398-8](https://doi.org/10.1186/s13020-020-00398-8) [PMID 10.1186/s13020-020-00398-8](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13020-020-00398-8/)
+[^147]: Effects of external application of compound Qingbi granules on acute gouty arthritis with dampness-heat syndrome: a randomized controlled trial. _Chinese Medicine_. 임상시험. [DOI 10.1186/s13020-020-00398-8](https://doi.org/10.1186/s13020-020-00398-8)
 
-[^150]: Sanjin tablets for acute uncomplicated lower urinary tract infection (syndrome of dampness-heat in the lower jiao): protocol for randomized, double-blind, double dummy, parallel control of positive drug, multicentre clinical trial. __. 임상시험. [DOI 10.21203/rs.2.75/v2](https://doi.org/10.21203/rs.2.75/v2) [PMID 10.21203/rs.2.75/v2](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.2.75/v2/)
+[^150]: Sanjin tablets for acute uncomplicated lower urinary tract infection (syndrome of dampness-heat in the lower jiao): protocol for randomized, double-blind, double dummy, parallel control of positive drug, multicentre clinical trial. __. 임상시험. [DOI 10.21203/rs.2.75/v2](https://doi.org/10.21203/rs.2.75/v2)
 
-[^152]: Therapeutic effect of San Bi Tang combined with glucosamine sulfate capsules in cold-dampness-type knee osteoarthritis. _World Journal of Clinical Cases_. 임상시험. [DOI 10.12998/wjcc.v12.i19.3854](https://doi.org/10.12998/wjcc.v12.i19.3854) [PMID 10.12998/wjcc.v12.i19.3854](https://pubmed.ncbi.nlm.nih.gov/10.12998/wjcc.v12.i19.3854/)
+[^152]: Therapeutic effect of San Bi Tang combined with glucosamine sulfate capsules in cold-dampness-type knee osteoarthritis. _World Journal of Clinical Cases_. 임상시험. [DOI 10.12998/wjcc.v12.i19.3854](https://doi.org/10.12998/wjcc.v12.i19.3854)
 
-[^153]: Zhuifeng Tougu capsules in the treatment of knee osteoarthritis (cold dampness obstruction syndrome): a randomized, double blind, multicenter clinical study. _Chinese Medicine_. 임상시험. [DOI 10.1186/s13020-024-00880-7](https://doi.org/10.1186/s13020-024-00880-7) [PMID 10.1186/s13020-024-00880-7](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13020-024-00880-7/)
+[^153]: Zhuifeng Tougu capsules in the treatment of knee osteoarthritis (cold dampness obstruction syndrome): a randomized, double blind, multicenter clinical study. _Chinese Medicine_. 임상시험. [DOI 10.1186/s13020-024-00880-7](https://doi.org/10.1186/s13020-024-00880-7)
 
-[^158]: Chinese Herbal Formula Huoxiang Zhengqi for Dampness Pattern in Atopic Dermatitis and Diarrhea-Predominant Irritable Bowel Syndrome: Rationale and Design of a Master Protocol. _Evidence-Based Complementary and Alternative Medicine_. 임상시험. [DOI 10.1155/2021/5125568](https://doi.org/10.1155/2021/5125568) [PMID 10.1155/2021/5125568](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/5125568/)
+[^158]: Chinese Herbal Formula Huoxiang Zhengqi for Dampness Pattern in Atopic Dermatitis and Diarrhea-Predominant Irritable Bowel Syndrome: Rationale and Design of a Master Protocol. _Evidence-Based Complementary and Alternative Medicine_. 임상시험. [DOI 10.1155/2021/5125568](https://doi.org/10.1155/2021/5125568)
 
-[^160]: Clinical study of Tongdu Shujin decoction in the treatment of ankylosing spondylitis with cold-dampness obstruction type: Study protocol for a randomized controlled trial. _Medicine_. 임상시험. [DOI 10.1097/md.0000000000032852](https://doi.org/10.1097/md.0000000000032852) [PMID 10.1097/md.0000000000032852](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000032852/)
+[^160]: Clinical study of Tongdu Shujin decoction in the treatment of ankylosing spondylitis with cold-dampness obstruction type: Study protocol for a randomized controlled trial. _Medicine_. 임상시험. [DOI 10.1097/md.0000000000032852](https://doi.org/10.1097/md.0000000000032852)
 
-[^161]: Clinical efficacy of fire-needle warming therapy in the treatment of knee osteoarthritis of cold-dampness type and its effect on serum IL-1β and MMP-3. _Clinical Rheumatology_. 임상시험. [DOI 10.1007/s10067-025-07497-7](https://doi.org/10.1007/s10067-025-07497-7) [PMID 10.1007/s10067-025-07497-7](https://pubmed.ncbi.nlm.nih.gov/10.1007/s10067-025-07497-7/)
+[^161]: Clinical efficacy of fire-needle warming therapy in the treatment of knee osteoarthritis of cold-dampness type and its effect on serum IL-1β and MMP-3. _Clinical Rheumatology_. 임상시험. [DOI 10.1007/s10067-025-07497-7](https://doi.org/10.1007/s10067-025-07497-7)
 
 [^163]: Effect of Sanhuang Yilong Decoction combined MTX on the expression of serum IL-1, IL-6, and IL-17 in rheumatoid arthritis patients of accumulated dampness-heat syndrome. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 25790671](https://pubmed.ncbi.nlm.nih.gov/25790671/)
 
@@ -1219,7 +1219,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^169]: Clinical observation on simple obesity of spleen deficiency and dampness excess treated by hour-prescription of points. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 임상시험. [PMID 21442813](https://pubmed.ncbi.nlm.nih.gov/21442813/)
 
-[^174]: A Placebo‐Controlled Study on the Treatment of Metabolic Syndrome of Qi Stagnation and Dampness Obstruction Related to Atypical Antipsychotics with Traditional Chinese Medicine (TCM). _Evidence-Based Complementary and Alternative Medicine_. 임상시험. [DOI 10.1155/2020/5103046](https://doi.org/10.1155/2020/5103046) [PMID 10.1155/2020/5103046](https://pubmed.ncbi.nlm.nih.gov/10.1155/2020/5103046/)
+[^174]: A Placebo‐Controlled Study on the Treatment of Metabolic Syndrome of Qi Stagnation and Dampness Obstruction Related to Atypical Antipsychotics with Traditional Chinese Medicine (TCM). _Evidence-Based Complementary and Alternative Medicine_. 임상시험. [DOI 10.1155/2020/5103046](https://doi.org/10.1155/2020/5103046)
 
 [^179]: Effect of Qianlie Huazhuo Capsule for treatment of chronic prostatitis of dampness-heat stagnancy type. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 18476432](https://pubmed.ncbi.nlm.nih.gov/18476432/)
 
@@ -1229,15 +1229,15 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^190]: Different operation sequences between acupuncture and cupping therapy for lumbar muscle strain with cold and dampness: a randomized controlled trial. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 임상시험. [DOI 10.13703/j.0255-2930.20220719-k0003](https://doi.org/10.13703/j.0255-2930.20220719-k0003) [PMID 37313557](https://pubmed.ncbi.nlm.nih.gov/37313557/)
 
-[^191]: The Chinese herbal formula Huoxiang Zhengqi for atopic dermatitis with dampness pattern (CHARM): a study protocol for a double-blinded randomized controlled trial. _Trials_. 임상시험. [DOI 10.1186/s13063-020-05014-6](https://doi.org/10.1186/s13063-020-05014-6) [PMID 10.1186/s13063-020-05014-6](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13063-020-05014-6/)
+[^191]: The Chinese herbal formula Huoxiang Zhengqi for atopic dermatitis with dampness pattern (CHARM): a study protocol for a double-blinded randomized controlled trial. _Trials_. 임상시험. [DOI 10.1186/s13063-020-05014-6](https://doi.org/10.1186/s13063-020-05014-6)
 
-[^193]: Correction: Auricular Acupressure Versus an Intermittent Low-Carbohydrate Diet in Children With Overweight or Obesity With Gastric-Heat and Dampness-Obstruction Syndrome: Protocol for a Randomized Controlled Trial (Preprint). __. 임상시험. [DOI 10.2196/preprints.74014](https://doi.org/10.2196/preprints.74014) [PMID 10.2196/preprints.74014](https://pubmed.ncbi.nlm.nih.gov/10.2196/preprints.74014/)
+[^193]: Correction: Auricular Acupressure Versus an Intermittent Low-Carbohydrate Diet in Children With Overweight or Obesity With Gastric-Heat and Dampness-Obstruction Syndrome: Protocol for a Randomized Controlled Trial (Preprint). __. 임상시험. [DOI 10.2196/preprints.74014](https://doi.org/10.2196/preprints.74014)
 
 [^197]: Efficacy and safety of Qing Zhu Granules for acute gouty arthritis with dampness-heat obstruction syndrome: study protocol for a phase 3, multicenter, randomized, double-blind, placebo-controlled trial. _Frontiers in medicine_. 임상시험. [DOI 10.3389/fmed.2026.1839780](https://doi.org/10.3389/fmed.2026.1839780) [PMID 42582081](https://pubmed.ncbi.nlm.nih.gov/42582081/)
 
 [^198]: Thermo-electroacupuncture at yaosanzhen for chronic lumbar muscle strain of cold dampness: a randomized controlled trial. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 임상시험. [DOI 10.13703/j.0255-2930.20240924-k0001](https://doi.org/10.13703/j.0255-2930.20240924-k0001) [PMID 41074517](https://pubmed.ncbi.nlm.nih.gov/41074517/)
 
-[^199]: Effect of Fu Yan Qing prescription on pelvic effusion, mass absorption and microenvironment of pelvic blood stasis in patients with sequelae of pelvic inflammatory disease of accumulation of dampness heat and blood stasis type. _Pakistan Journal of Medical Sciences_. 임상시험. [DOI 10.12669/pjms.38.5.4641](https://doi.org/10.12669/pjms.38.5.4641) [PMID 10.12669/pjms.38.5.4641](https://pubmed.ncbi.nlm.nih.gov/10.12669/pjms.38.5.4641/)
+[^199]: Effect of Fu Yan Qing prescription on pelvic effusion, mass absorption and microenvironment of pelvic blood stasis in patients with sequelae of pelvic inflammatory disease of accumulation of dampness heat and blood stasis type. _Pakistan Journal of Medical Sciences_. 임상시험. [DOI 10.12669/pjms.38.5.4641](https://doi.org/10.12669/pjms.38.5.4641)
 
 [^202]: Combination Therapy for Simple Obesity: Acupoint Needling and Auricular Acupressure Effects. _Complementary medicine research_. 임상시험. [DOI 10.1159/000547693](https://doi.org/10.1159/000547693) [PMID 40911521](https://pubmed.ncbi.nlm.nih.gov/40911521/)
 
@@ -1251,47 +1251,47 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^213]: Clinical observation on effect of modified huanglian wendan decoction in treating diabetic asymptomatic myocardial ischemia. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 16248239](https://pubmed.ncbi.nlm.nih.gov/16248239/)
 
-[^215]: Expert Consensus of Syndrome Differentiation for Phlegm Turbidity Syndrome for Coronary Heart Disease. _Evidence-Based Complementary and Alternative Medicine_. 가이드라인. [DOI 10.1155/2018/8184673](https://doi.org/10.1155/2018/8184673) [PMID 10.1155/2018/8184673](https://pubmed.ncbi.nlm.nih.gov/10.1155/2018/8184673/)
+[^215]: Expert Consensus of Syndrome Differentiation for Phlegm Turbidity Syndrome for Coronary Heart Disease. _Evidence-Based Complementary and Alternative Medicine_. 가이드라인. [DOI 10.1155/2018/8184673](https://doi.org/10.1155/2018/8184673)
 
-[^219]: The Relationship Between Clinical Syndromes of Phlegm-Dampness and Blood Lipid Profiles in Patients with Dyslipidemia at Hai Phong Traditional Medicine Hospital. _Journal of Health Sciences_. 관찰연구. [DOI 10.59070/jhs030325006](https://doi.org/10.59070/jhs030325006) [PMID 10.59070/jhs030325006](https://pubmed.ncbi.nlm.nih.gov/10.59070/jhs030325006/)
+[^219]: The Relationship Between Clinical Syndromes of Phlegm-Dampness and Blood Lipid Profiles in Patients with Dyslipidemia at Hai Phong Traditional Medicine Hospital. _Journal of Health Sciences_. 관찰연구. [DOI 10.59070/jhs030325006](https://doi.org/10.59070/jhs030325006)
 
 [^221]: 1H nuclear magnetic resonance-based metabolomic study on efficacy of Qingrehuatan decoction against abundant phlegm-heat syndrome in young adults with essential hypertension. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 임상시험. [DOI 10.1016/s0254-6272(15)30005-4](https://doi.org/10.1016/s0254-6272(15)30005-4) [PMID 25842725](https://pubmed.ncbi.nlm.nih.gov/25842725/)
 
-[^224]: Study on the differences of gut microbiota composition between phlegm-dampness syndrome and qi-yin deficiency syndrome in patients with metabolic syndrome. _Frontiers in Endocrinology_. 관찰연구. [DOI 10.3389/fendo.2022.1063579](https://doi.org/10.3389/fendo.2022.1063579) [PMID 10.3389/fendo.2022.1063579](https://pubmed.ncbi.nlm.nih.gov/10.3389/fendo.2022.1063579/)
+[^224]: Study on the differences of gut microbiota composition between phlegm-dampness syndrome and qi-yin deficiency syndrome in patients with metabolic syndrome. _Frontiers in Endocrinology_. 관찰연구. [DOI 10.3389/fendo.2022.1063579](https://doi.org/10.3389/fendo.2022.1063579)
 
-[^225]: Association of the triglyceride-glucose index and phlegm-dampness constitution with subclinical carotid atherosclerosis in overweight and obese individuals. _Frontiers in Cardiovascular Medicine_. 관찰연구. [DOI 10.3389/fcvm.2026.1907694](https://doi.org/10.3389/fcvm.2026.1907694) [PMID 10.3389/fcvm.2026.1907694](https://pubmed.ncbi.nlm.nih.gov/10.3389/fcvm.2026.1907694/)
+[^225]: Association of the triglyceride-glucose index and phlegm-dampness constitution with subclinical carotid atherosclerosis in overweight and obese individuals. _Frontiers in Cardiovascular Medicine_. 관찰연구. [DOI 10.3389/fcvm.2026.1907694](https://doi.org/10.3389/fcvm.2026.1907694)
 
-[^226]: Investigating the Gut Microbiota Profile in Prehypertensive Individuals Exhibiting Phlegm-Dampness Constitution. _Frontiers in Cellular and Infection Microbiology_. 관찰연구. [DOI 10.3389/fcimb.2025.1507076](https://doi.org/10.3389/fcimb.2025.1507076) [PMID 10.3389/fcimb.2025.1507076](https://pubmed.ncbi.nlm.nih.gov/10.3389/fcimb.2025.1507076/)
+[^226]: Investigating the Gut Microbiota Profile in Prehypertensive Individuals Exhibiting Phlegm-Dampness Constitution. _Frontiers in Cellular and Infection Microbiology_. 관찰연구. [DOI 10.3389/fcimb.2025.1507076](https://doi.org/10.3389/fcimb.2025.1507076)
 
-[^227]: Obese Individuals With and Without Phlegm-Dampness Constitution Show Different Gut Microbial Composition Associated With Risk of Metabolic Disorders. _Frontiers in Cellular and Infection Microbiology_. 관찰연구. [DOI 10.3389/fcimb.2022.859708](https://doi.org/10.3389/fcimb.2022.859708) [PMID 10.3389/fcimb.2022.859708](https://pubmed.ncbi.nlm.nih.gov/10.3389/fcimb.2022.859708/)
+[^227]: Obese Individuals With and Without Phlegm-Dampness Constitution Show Different Gut Microbial Composition Associated With Risk of Metabolic Disorders. _Frontiers in Cellular and Infection Microbiology_. 관찰연구. [DOI 10.3389/fcimb.2022.859708](https://doi.org/10.3389/fcimb.2022.859708)
 
-[^231]: Identification of Differential Serum Metabolic Biomarkers in Polycystic Ovary Syndrome with Phlegm-Dampness Syndrome Based on Metabolomics and Machine Learning. __. 관찰연구. [DOI 10.21203/rs.3.rs-10376586/v1](https://doi.org/10.21203/rs.3.rs-10376586/v1) [PMID 10.21203/rs.3.rs-10376586/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-10376586/v1/)
+[^231]: Identification of Differential Serum Metabolic Biomarkers in Polycystic Ovary Syndrome with Phlegm-Dampness Syndrome Based on Metabolomics and Machine Learning. __. 관찰연구. [DOI 10.21203/rs.3.rs-10376586/v1](https://doi.org/10.21203/rs.3.rs-10376586/v1)
 
-[^233]: Weight changes in hypertensive patients with phlegm-dampness syndrome: an integrated proteomics and metabolomics approach. _Chinese Medicine_. 관찰연구. [DOI 10.1186/s13020-021-00462-x](https://doi.org/10.1186/s13020-021-00462-x) [PMID 10.1186/s13020-021-00462-x](https://pubmed.ncbi.nlm.nih.gov/10.1186/s13020-021-00462-x/)
+[^233]: Weight changes in hypertensive patients with phlegm-dampness syndrome: an integrated proteomics and metabolomics approach. _Chinese Medicine_. 관찰연구. [DOI 10.1186/s13020-021-00462-x](https://doi.org/10.1186/s13020-021-00462-x)
 
-[^234]: Chronic cough and phlegm in young adults. _European Respiratory Journal_. 관찰연구. [DOI 10.1183/09031936.03.00121103](https://doi.org/10.1183/09031936.03.00121103) [PMID 10.1183/09031936.03.00121103](https://pubmed.ncbi.nlm.nih.gov/10.1183/09031936.03.00121103/)
+[^234]: Chronic cough and phlegm in young adults. _European Respiratory Journal_. 관찰연구. [DOI 10.1183/09031936.03.00121103](https://doi.org/10.1183/09031936.03.00121103)
 
-[^235]: Clearing heat and resolving phlegm for acute exacerbation of chronic obstructive pulmonary disease with the syndrome of phlegm-heat obstruction of the lung. _Journal of International Medical Research_. 관찰연구. [DOI 10.1177/0300060520945502](https://doi.org/10.1177/0300060520945502) [PMID 10.1177/0300060520945502](https://pubmed.ncbi.nlm.nih.gov/10.1177/0300060520945502/)
+[^235]: Clearing heat and resolving phlegm for acute exacerbation of chronic obstructive pulmonary disease with the syndrome of phlegm-heat obstruction of the lung. _Journal of International Medical Research_. 관찰연구. [DOI 10.1177/0300060520945502](https://doi.org/10.1177/0300060520945502)
 
-[^236]: Prospective Study of Dietary Patterns and Persistent Cough with Phlegm among Chinese Singaporeans. _American Journal of Respiratory and Critical Care Medicine_. 관찰연구. [DOI 10.1164/rccm.200506-901oc](https://doi.org/10.1164/rccm.200506-901oc) [PMID 10.1164/rccm.200506-901oc](https://pubmed.ncbi.nlm.nih.gov/10.1164/rccm.200506-901oc/)
+[^236]: Prospective Study of Dietary Patterns and Persistent Cough with Phlegm among Chinese Singaporeans. _American Journal of Respiratory and Critical Care Medicine_. 관찰연구. [DOI 10.1164/rccm.200506-901oc](https://doi.org/10.1164/rccm.200506-901oc)
 
-[^238]: Dietary Fiber and Reduced Cough with Phlegm. _American Journal of Respiratory and Critical Care Medicine_. 관찰연구. [DOI 10.1164/rccm.200306-789oc](https://doi.org/10.1164/rccm.200306-789oc) [PMID 10.1164/rccm.200306-789oc](https://pubmed.ncbi.nlm.nih.gov/10.1164/rccm.200306-789oc/)
+[^238]: Dietary Fiber and Reduced Cough with Phlegm. _American Journal of Respiratory and Critical Care Medicine_. 관찰연구. [DOI 10.1164/rccm.200306-789oc](https://doi.org/10.1164/rccm.200306-789oc)
 
-[^239]: Genome-Wide DNA Methylation Profiles of Phlegm-Dampness Constitution. _Cellular Physiology and Biochemistry_. 관찰연구. [DOI 10.1159/000487976](https://doi.org/10.1159/000487976) [PMID 10.1159/000487976](https://pubmed.ncbi.nlm.nih.gov/10.1159/000487976/)
+[^239]: Genome-Wide DNA Methylation Profiles of Phlegm-Dampness Constitution. _Cellular Physiology and Biochemistry_. 관찰연구. [DOI 10.1159/000487976](https://doi.org/10.1159/000487976)
 
-[^240]: Analyses of Long Noncoding RNA and mRNA Profiles in Subjects with the Phlegm‐Dampness Constitution. _BioMed Research International_. 관찰연구. [DOI 10.1155/2021/4896282](https://doi.org/10.1155/2021/4896282) [PMID 10.1155/2021/4896282](https://pubmed.ncbi.nlm.nih.gov/10.1155/2021/4896282/)
+[^240]: Analyses of Long Noncoding RNA and mRNA Profiles in Subjects with the Phlegm‐Dampness Constitution. _BioMed Research International_. 관찰연구. [DOI 10.1155/2021/4896282](https://doi.org/10.1155/2021/4896282)
 
-[^241]: Phlegm production and lung function among cigarette smokers changing tar groups during the 1970s. _Journal of Epidemiology and Community Health_. 관찰연구. [DOI 10.1136/jech.40.2.110](https://doi.org/10.1136/jech.40.2.110) [PMID 10.1136/jech.40.2.110](https://pubmed.ncbi.nlm.nih.gov/10.1136/jech.40.2.110/)
+[^241]: Phlegm production and lung function among cigarette smokers changing tar groups during the 1970s. _Journal of Epidemiology and Community Health_. 관찰연구. [DOI 10.1136/jech.40.2.110](https://doi.org/10.1136/jech.40.2.110)
 
-[^245]: Phlegm production in plain cigarette smokers who changed to filter cigarettes or quitted smoking. _Journal of Internal Medicine_. 관찰연구. [DOI 10.1111/j.1365-2796.1990.tb00203.x](https://doi.org/10.1111/j.1365-2796.1990.tb00203.x) [PMID 10.1111/j.1365-2796.1990.tb00203.x](https://pubmed.ncbi.nlm.nih.gov/10.1111/j.1365-2796.1990.tb00203.x/)
+[^245]: Phlegm production in plain cigarette smokers who changed to filter cigarettes or quitted smoking. _Journal of Internal Medicine_. 관찰연구. [DOI 10.1111/j.1365-2796.1990.tb00203.x](https://doi.org/10.1111/j.1365-2796.1990.tb00203.x)
 
-[^246]: Therapeutic effects of Naohuan Dan combined with idebenone in treating mild cognitive impairment with kidney deficiency and phlegm stasis: A retrospective study. _Science of Traditional Chinese Medicine_. 관찰연구. [DOI 10.1097/st9.0000000000000012](https://doi.org/10.1097/st9.0000000000000012) [PMID 10.1097/st9.0000000000000012](https://pubmed.ncbi.nlm.nih.gov/10.1097/st9.0000000000000012/)
+[^246]: Therapeutic effects of Naohuan Dan combined with idebenone in treating mild cognitive impairment with kidney deficiency and phlegm stasis: A retrospective study. _Science of Traditional Chinese Medicine_. 관찰연구. [DOI 10.1097/st9.0000000000000012](https://doi.org/10.1097/st9.0000000000000012)
 
-[^247]: Metabolic markers of tongue coating in healthy people with phlegm dampness constitution and damp-heat constitution. _Discover Life_. 관찰연구. [DOI 10.1007/s11084-024-09674-1](https://doi.org/10.1007/s11084-024-09674-1) [PMID 10.1007/s11084-024-09674-1](https://pubmed.ncbi.nlm.nih.gov/10.1007/s11084-024-09674-1/)
+[^247]: Metabolic markers of tongue coating in healthy people with phlegm dampness constitution and damp-heat constitution. _Discover Life_. 관찰연구. [DOI 10.1007/s11084-024-09674-1](https://doi.org/10.1007/s11084-024-09674-1)
 
-[^249]: Etiology Exploration of Non-alcoholic Fatty Liver Disease From Traditional Chinese Medicine Constitution Perspective: A Cross-Sectional Study. _Frontiers in Public Health_. 관찰연구. [DOI 10.3389/fpubh.2021.635818](https://doi.org/10.3389/fpubh.2021.635818) [PMID 10.3389/fpubh.2021.635818](https://pubmed.ncbi.nlm.nih.gov/10.3389/fpubh.2021.635818/)
+[^249]: Etiology Exploration of Non-alcoholic Fatty Liver Disease From Traditional Chinese Medicine Constitution Perspective: A Cross-Sectional Study. _Frontiers in Public Health_. 관찰연구. [DOI 10.3389/fpubh.2021.635818](https://doi.org/10.3389/fpubh.2021.635818)
 
-[^251]: Correlation between Traditional Chinese Medicine Constitution and Dyslipidemia: A Systematic Review and Meta‐Analysis. _Evidence-Based Complementary and Alternative Medicine_. 메타분석. [DOI 10.1155/2017/1896746](https://doi.org/10.1155/2017/1896746) [PMID 10.1155/2017/1896746](https://pubmed.ncbi.nlm.nih.gov/10.1155/2017/1896746/)
+[^251]: Correlation between Traditional Chinese Medicine Constitution and Dyslipidemia: A Systematic Review and Meta‐Analysis. _Evidence-Based Complementary and Alternative Medicine_. 메타분석. [DOI 10.1155/2017/1896746](https://doi.org/10.1155/2017/1896746)
 
 [^258]: 1H nuclear magnetic resonance-based metabolomic study on efficacy of Qingrehuatan decoction against abundant phlegm-heat syndrome in young adults with essential hypertension. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 임상시험. [DOI 10.1016/s0254-6272(15)30005-4](https://doi.org/10.1016/s0254-6272(15)30005-4) [PMID 25842725](https://pubmed.ncbi.nlm.nih.gov/25842725/)
 
@@ -1299,7 +1299,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^137M]: GAO Xiyan's clinical experience in treating Ménière's disease with penetrating moxibustion at Baihui (GV20). _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 증례. [DOI 10.13703/j.0255-2930.20250511-k0003](https://doi.org/10.13703/j.0255-2930.20250511-k0003) [PMID 41741993](https://pubmed.ncbi.nlm.nih.gov/41741993/)
 
-[^153Z]: Effect of the Zushima patch combined with celecoxib on pain and inflammatory factor expression in knee osteoarthritis with cold‐dampness obstruction. _iLABMED_. 임상시험. [DOI 10.1002/ila2.66](https://doi.org/10.1002/ila2.66) [PMID 10.1002/ila2.66](https://pubmed.ncbi.nlm.nih.gov/10.1002/ila2.66/)
+[^153Z]: Effect of the Zushima patch combined with celecoxib on pain and inflammatory factor expression in knee osteoarthritis with cold‐dampness obstruction. _iLABMED_. 임상시험. [DOI 10.1002/ila2.66](https://doi.org/10.1002/ila2.66)
 
 [^234G]: metabonomics research on coronary heart disease patients of phlegm turbidity syndrome and qi deficiency syndrome. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 관찰연구. [PMID 25881465](https://pubmed.ncbi.nlm.nih.gov/25881465/)
 
@@ -1307,19 +1307,19 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^258REV]: Chinese patent medicine for chronic obstructive pulmonary disease based on principles of tonifying Qi, promoting blood circulation by removing blood stasis, and resolving phlegm: a systematic review of randomized controlled trials. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 체계적 고찰. [DOI 10.1016/s0254-6272(15)30001-7](https://doi.org/10.1016/s0254-6272(15)30001-7) [PMID 25842721](https://pubmed.ncbi.nlm.nih.gov/25842721/)
 
-[^49PROT]: Cardio-Cerebral Protective Effect of Moxibustion on Phlegm-Dampness Type Hypertension: Protocol for a Randomized Controlled Trial. _JMIR Research Protocols_. 임상시험. [DOI 10.2196/79158](https://doi.org/10.2196/79158) [PMID 10.2196/79158](https://pubmed.ncbi.nlm.nih.gov/10.2196/79158/)
+[^49PROT]: Cardio-Cerebral Protective Effect of Moxibustion on Phlegm-Dampness Type Hypertension: Protocol for a Randomized Controlled Trial. _JMIR Research Protocols_. 임상시험. [DOI 10.2196/79158](https://doi.org/10.2196/79158)
 
-[^51YLTZ]: YLTZ in the treatment of primary hyperlipidemia (phlegm-turbid obstruction type): study protocol for randomized, double-blind, parallel dose control and multi-center phase II a dose exploration. __. 임상시험. [DOI 10.21203/rs.3.rs-38442/v1](https://doi.org/10.21203/rs.3.rs-38442/v1) [PMID 10.21203/rs.3.rs-38442/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-38442/v1/)
+[^51YLTZ]: YLTZ in the treatment of primary hyperlipidemia (phlegm-turbid obstruction type): study protocol for randomized, double-blind, parallel dose control and multi-center phase II a dose exploration. __. 임상시험. [DOI 10.21203/rs.3.rs-38442/v1](https://doi.org/10.21203/rs.3.rs-38442/v1)
 
-[^53PRED]: Intervention strategy of Traditional Chinese Medicine for prediabetes(the syndrome of spleen-deficiency phlegm-dampness ) based on the reversal of blood glucose and the improvement of fatigue. __. 임상시험. [DOI 10.21203/rs.2.10293/v1](https://doi.org/10.21203/rs.2.10293/v1) [PMID 10.21203/rs.2.10293/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.2.10293/v1/)
+[^53PRED]: Intervention strategy of Traditional Chinese Medicine for prediabetes(the syndrome of spleen-deficiency phlegm-dampness ) based on the reversal of blood glucose and the improvement of fatigue. __. 임상시험. [DOI 10.21203/rs.2.10293/v1](https://doi.org/10.21203/rs.2.10293/v1)
 
-[^56PCOS]: Efficacy of Bushen Huatan Decoction Combined with Baduanjin in the Treatment of Polycystic Ovary Syndrome with Insulin Resistance (IR-PCOS), Kidney Deficiency and Phlegm Dampness: Study Protocol for a Randomized Controlled Trial. __. 임상시험. [DOI 10.21203/rs.3.rs-650053/v1](https://doi.org/10.21203/rs.3.rs-650053/v1) [PMID 10.21203/rs.3.rs-650053/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-650053/v1/)
+[^56PCOS]: Efficacy of Bushen Huatan Decoction Combined with Baduanjin in the Treatment of Polycystic Ovary Syndrome with Insulin Resistance (IR-PCOS), Kidney Deficiency and Phlegm Dampness: Study Protocol for a Randomized Controlled Trial. __. 임상시험. [DOI 10.21203/rs.3.rs-650053/v1](https://doi.org/10.21203/rs.3.rs-650053/v1)
 
 [^65AP]: Effectiveness of the Kampo kami-shoyo-san (TJ-24) for tremor of antipsychotic-induced parkinsonism. 임상시험. [PMID 11043809](https://pubmed.ncbi.nlm.nih.gov/11043809/)
 
 [^67D]: Treatment of type 2 diabetic peripheral neuropathy patients of qi-yin deficiency complicated phlegm-dampness blocking collaterals syndrome by internal application of qigui mixture and external application of qigui huoxue lotion: a clinical study. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 25335327](https://pubmed.ncbi.nlm.nih.gov/25335327/)
 
-[^6LUNG]: Application Value of Lung-Fire-Clearing, Phlegm-Resolving, and Bowels-Relaxing Decoction in Treating Lung Cancer of Phlegm-Heat Pattern. _Proceedings of Anticancer Research_. 임상시험. [DOI 10.26689/par.v5i4.2358](https://doi.org/10.26689/par.v5i4.2358) [PMID 10.26689/par.v5i4.2358](https://pubmed.ncbi.nlm.nih.gov/10.26689/par.v5i4.2358/)
+[^6LUNG]: Application Value of Lung-Fire-Clearing, Phlegm-Resolving, and Bowels-Relaxing Decoction in Treating Lung Cancer of Phlegm-Heat Pattern. _Proceedings of Anticancer Research_. 임상시험. [DOI 10.26689/par.v5i4.2358](https://doi.org/10.26689/par.v5i4.2358)
 
 [^73D]: Treatment of type 2 diabetes mellitus patients of qi-yin deficiency phlegm-stasis inter-obstruction syndrome by jiangtang xiaozhi capsule and pioglitazone tablet: a non-inferiority randomized controlled trial. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 임상시험. [PMID 25335325](https://pubmed.ncbi.nlm.nih.gov/25335325/)
 
@@ -1329,55 +1329,55 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^86REF]: Interaction of carbamazepine with herbs, dietary supplements, and food: a systematic review. 체계적 고찰. [PMID 24023584](https://pubmed.ncbi.nlm.nih.gov/24023584/)
 
-[^ATOPIC]: Meta-Analysis of Heat-Clearing and Dampness-Resolving Chinese Herbal Medicines in Treating Atopic Dermatitis Animal Models. _Journal of Contemporary Medical Practice_. 메타분석. [DOI 10.53469/jcmp.2026.08(03).49](https://doi.org/10.53469/jcmp.2026.08(03).49) [PMID 10.53469/jcmp.2026.08(03).49](https://pubmed.ncbi.nlm.nih.gov/10.53469/jcmp.2026.08(03).49/)
+[^ATOPIC]: Meta-Analysis of Heat-Clearing and Dampness-Resolving Chinese Herbal Medicines in Treating Atopic Dermatitis Animal Models. _Journal of Contemporary Medical Practice_. 메타분석. [DOI 10.53469/jcmp.2026.08(03).49](https://doi.org/10.53469/jcmp.2026.08(03).49)
 
-[^CANGFU]: Cangfu Daotan decoction with Diane-35 in phlegm-dampness polycystic ovary syndrome: a meta-analysis and systematic review. _Frontiers in Medicine_. 메타분석. [DOI 10.3389/fmed.2026.1761111](https://doi.org/10.3389/fmed.2026.1761111) [PMID 10.3389/fmed.2026.1761111](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2026.1761111/)
+[^CANGFU]: Cangfu Daotan decoction with Diane-35 in phlegm-dampness polycystic ovary syndrome: a meta-analysis and systematic review. _Frontiers in Medicine_. 메타분석. [DOI 10.3389/fmed.2026.1761111](https://doi.org/10.3389/fmed.2026.1761111)
 
-[^DHJS]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. _BioMed Research International_. 메타분석. [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) [PMID 10.1155/2022/2350404](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/2350404/)
+[^DHJS]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. _BioMed Research International_. 메타분석. [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404)
 
-[^ENDO]: LC–MS‐Based Metabolomics Reveals Distinct Oxidative Stress Characteristics and Mechanisms in Endothelial Cells Stimulated by Sera From Dyslipidemia Patients With Phlegm‐Dampness Retention Syndrome and Spleen and Kidney Yang Deficiency Syndrome. _Biomedical Chromatography_. 실험연구. [DOI 10.1002/bmc.70348](https://doi.org/10.1002/bmc.70348) [PMID 10.1002/bmc.70348](https://pubmed.ncbi.nlm.nih.gov/10.1002/bmc.70348/)
+[^ENDO]: LC–MS‐Based Metabolomics Reveals Distinct Oxidative Stress Characteristics and Mechanisms in Endothelial Cells Stimulated by Sera From Dyslipidemia Patients With Phlegm‐Dampness Retention Syndrome and Spleen and Kidney Yang Deficiency Syndrome. _Biomedical Chromatography_. 실험연구. [DOI 10.1002/bmc.70348](https://doi.org/10.1002/bmc.70348)
 
-[^ERCHEN]: Effects of Erchen Decoction on Oxidative Stress-Related Cytochrome P450 Metabolites of Arachidonic Acid in Dyslipidemic Mice with Phlegm-Dampness Retention Syndrome: A Randomized, Controlled Trial on the Correspondence between Prescription and Syndrome. _Evidence-Based Complementary and Alternative Medicine_. 실험연구. [DOI 10.1155/2022/1079803](https://doi.org/10.1155/2022/1079803) [PMID 10.1155/2022/1079803](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/1079803/)
+[^ERCHEN]: Effects of Erchen Decoction on Oxidative Stress-Related Cytochrome P450 Metabolites of Arachidonic Acid in Dyslipidemic Mice with Phlegm-Dampness Retention Syndrome: A Randomized, Controlled Trial on the Correspondence between Prescription and Syndrome. _Evidence-Based Complementary and Alternative Medicine_. 실험연구. [DOI 10.1155/2022/1079803](https://doi.org/10.1155/2022/1079803)
 
-[^FLAV]: A decrease in Flavonifractor plautii and its product, phytosphingosine, predisposes individuals with phlegm-dampness constitution to metabolic disorders. _Cell Discovery_. 실험연구. [DOI 10.1038/s41421-025-00789-x](https://doi.org/10.1038/s41421-025-00789-x) [PMID 10.1038/s41421-025-00789-x](https://pubmed.ncbi.nlm.nih.gov/10.1038/s41421-025-00789-x/)
+[^FLAV]: A decrease in Flavonifractor plautii and its product, phytosphingosine, predisposes individuals with phlegm-dampness constitution to metabolic disorders. _Cell Discovery_. 실험연구. [DOI 10.1038/s41421-025-00789-x](https://doi.org/10.1038/s41421-025-00789-x)
 
-[^HTCS]: Nontargeted Metabolomic Profiling of Huo-Tan-Chu-Shi Decoction in the Treatment of Coronary Heart Disease with Phlegm-damp Syndrome. _Cardiology Research and Practice_. 실험연구. [DOI 10.1155/2022/6532003](https://doi.org/10.1155/2022/6532003) [PMID 10.1155/2022/6532003](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/6532003/)
+[^HTCS]: Nontargeted Metabolomic Profiling of Huo-Tan-Chu-Shi Decoction in the Treatment of Coronary Heart Disease with Phlegm-damp Syndrome. _Cardiology Research and Practice_. 실험연구. [DOI 10.1155/2022/6532003](https://doi.org/10.1155/2022/6532003)
 
-[^HWL]: A Study on the Mechanism of Action of Huanglian Wendan Decoction in Mice with Insomnia Caused by Phlegm-Heat Disturbing the Heart, Based on the Brain-Gut Axis Theory. __. 실험연구. [DOI 10.2139/ssrn.7068569](https://doi.org/10.2139/ssrn.7068569) [PMID 10.2139/ssrn.7068569](https://pubmed.ncbi.nlm.nih.gov/10.2139/ssrn.7068569/)
+[^HWL]: A Study on the Mechanism of Action of Huanglian Wendan Decoction in Mice with Insomnia Caused by Phlegm-Heat Disturbing the Heart, Based on the Brain-Gut Axis Theory. __. 실험연구. [DOI 10.2139/ssrn.7068569](https://doi.org/10.2139/ssrn.7068569)
 
 [^INF]: Expressions of TNF-alpha, IL-6, CRP, and MCP-1 in phlegm-damp constitution population detected by multiplexed Luminex assay. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 관찰연구. [PMID 24063213](https://pubmed.ncbi.nlm.nih.gov/24063213/)
 
 [^INF2]: A comparative study of inflammatory factor expression of phlegm-heat syndrome and phlegm-dampness syndrome model with acute exacerbation of chronic obstructive pulmonary disease. _Zhonghua wei zhong bing ji jiu yi xue_. 실험연구. [DOI 10.3760/cma.j.issn.2095-4352.2013.06.007](https://doi.org/10.3760/cma.j.issn.2095-4352.2013.06.007) [PMID 23739567](https://pubmed.ncbi.nlm.nih.gov/23739567/)
 
-[^MAC]: Two-Way Impacts Between Macrophages on Vascular Endothelium and Characteristics of TCM Syndromes in Dyslipidemic Mice with the Phlegm-Dampness Retention syndrome and the Spleen and Kidney Yang Deficiency syndrome Using RNA-Seq. __. 실험연구. [DOI 10.21203/rs.3.rs-259192/v1](https://doi.org/10.21203/rs.3.rs-259192/v1) [PMID 10.21203/rs.3.rs-259192/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-259192/v1/)
+[^MAC]: Two-Way Impacts Between Macrophages on Vascular Endothelium and Characteristics of TCM Syndromes in Dyslipidemic Mice with the Phlegm-Dampness Retention syndrome and the Spleen and Kidney Yang Deficiency syndrome Using RNA-Seq. __. 실험연구. [DOI 10.21203/rs.3.rs-259192/v1](https://doi.org/10.21203/rs.3.rs-259192/v1)
 
-[^META1]: Effectiveness and safety of treating carotid atherosclerotic plaques with the method of nourishing qi, promoting blood circulation and expelling phlegm: A systematic review and meta-analysis. _Frontiers in Pharmacology_. 메타분석. [DOI 10.3389/fphar.2022.1059737](https://doi.org/10.3389/fphar.2022.1059737) [PMID 10.3389/fphar.2022.1059737](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2022.1059737/)
+[^META1]: Effectiveness and safety of treating carotid atherosclerotic plaques with the method of nourishing qi, promoting blood circulation and expelling phlegm: A systematic review and meta-analysis. _Frontiers in Pharmacology_. 메타분석. [DOI 10.3389/fphar.2022.1059737](https://doi.org/10.3389/fphar.2022.1059737)
 
-[^META2]: Clinical efficacy and safety of removing blood stasis and resolving phlegm in the treatment of epilepsy with cognitive impairment: A systematic review and meta-analysis. _Medicine_. 메타분석. [DOI 10.1097/md.0000000000030212](https://doi.org/10.1097/md.0000000000030212) [PMID 10.1097/md.0000000000030212](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000030212/)
+[^META2]: Clinical efficacy and safety of removing blood stasis and resolving phlegm in the treatment of epilepsy with cognitive impairment: A systematic review and meta-analysis. _Medicine_. 메타분석. [DOI 10.1097/md.0000000000030212](https://doi.org/10.1097/md.0000000000030212)
 
-[^META3]: Efficacy and safety of traditional Chinese medicine for the treatment of epilepsy by wind quenching and phlegm resolving: A systematic review and meta-analysis. _Medicine_. 메타분석. [DOI 10.1097/md.0000000000039942](https://doi.org/10.1097/md.0000000000039942) [PMID 10.1097/md.0000000000039942](https://pubmed.ncbi.nlm.nih.gov/10.1097/md.0000000000039942/)
+[^META3]: Efficacy and safety of traditional Chinese medicine for the treatment of epilepsy by wind quenching and phlegm resolving: A systematic review and meta-analysis. _Medicine_. 메타분석. [DOI 10.1097/md.0000000000039942](https://doi.org/10.1097/md.0000000000039942)
 
-[^NAFLD]: Comparative Efficacy of Chinese Patent Medicines for Clearing Heat and Dampness in the Treatment of NAFLD: A Network Meta-Analysis of Real-World Evidence. _Evidence-Based Complementary and Alternative Medicine_. 메타분석. [DOI 10.1155/2022/4138555](https://doi.org/10.1155/2022/4138555) [PMID 10.1155/2022/4138555](https://pubmed.ncbi.nlm.nih.gov/10.1155/2022/4138555/)
+[^NAFLD]: Comparative Efficacy of Chinese Patent Medicines for Clearing Heat and Dampness in the Treatment of NAFLD: A Network Meta-Analysis of Real-World Evidence. _Evidence-Based Complementary and Alternative Medicine_. 메타분석. [DOI 10.1155/2022/4138555](https://doi.org/10.1155/2022/4138555)
 
-[^PCOS]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. _Frontiers in Medicine_. 메타분석. [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131) [PMID 10.3389/fmed.2025.1609131](https://pubmed.ncbi.nlm.nih.gov/10.3389/fmed.2025.1609131/)
+[^PCOS]: Method of invigorating spleen and replenishing kidney and resolving phlegm for obesity-type polycystic ovary syndrome: a network meta-analysis and summary of herbal prescription regularity. _Frontiers in Medicine_. 메타분석. [DOI 10.3389/fmed.2025.1609131](https://doi.org/10.3389/fmed.2025.1609131)
 
-[^PM]: Mechanistic Study of Poria-Mediated Gut Microbiota-Bile Acid-FXR Axis in Improving Phlegm- Dampness-Type Precocious Puberty. __. 실험연구. [DOI 10.21203/rs.3.rs-8439758/v1](https://doi.org/10.21203/rs.3.rs-8439758/v1) [PMID 10.21203/rs.3.rs-8439758/v1](https://pubmed.ncbi.nlm.nih.gov/10.21203/rs.3.rs-8439758/v1/)
+[^PM]: Mechanistic Study of Poria-Mediated Gut Microbiota-Bile Acid-FXR Axis in Improving Phlegm- Dampness-Type Precocious Puberty. __. 실험연구. [DOI 10.21203/rs.3.rs-8439758/v1](https://doi.org/10.21203/rs.3.rs-8439758/v1)
 
-[^VD]: Professor Jun Li Treating Vascular Dementia from Mutual Conclusion of Phlegm and Blood Stasis. _Journal of Clinical and Nursing Research_. 증례. [DOI 10.26689/jcnr.v6i1.2904](https://doi.org/10.26689/jcnr.v6i1.2904) [PMID 10.26689/jcnr.v6i1.2904](https://pubmed.ncbi.nlm.nih.gov/10.26689/jcnr.v6i1.2904/)
+[^VD]: Professor Jun Li Treating Vascular Dementia from Mutual Conclusion of Phlegm and Blood Stasis. _Journal of Clinical and Nursing Research_. 증례. [DOI 10.26689/jcnr.v6i1.2904](https://doi.org/10.26689/jcnr.v6i1.2904)
 
-[^WEI]: Chinese Herbal Medicine (<i>Weijing</i> Decoction) Combined with Pharmacotherapy for the Treatment of Acute Exacerbations of Chronic Obstructive Pulmonary Disease. _Evidence-Based Complementary and Alternative Medicine_. 체계적 고찰. [DOI 10.1155/2014/257012](https://doi.org/10.1155/2014/257012) [PMID 10.1155/2014/257012](https://pubmed.ncbi.nlm.nih.gov/10.1155/2014/257012/)
+[^WEI]: Chinese Herbal Medicine (<i>Weijing</i> Decoction) Combined with Pharmacotherapy for the Treatment of Acute Exacerbations of Chronic Obstructive Pulmonary Disease. _Evidence-Based Complementary and Alternative Medicine_. 체계적 고찰. [DOI 10.1155/2014/257012](https://doi.org/10.1155/2014/257012)
 
-[^ZEXIE]: Modified Zexie decoction improves phlegm-dampness type stage I hypertension by regulating the gut-immune-kidney axis. _Frontiers in Pharmacology_. 임상시험. [DOI 10.3389/fphar.2025.1578815](https://doi.org/10.3389/fphar.2025.1578815) [PMID 10.3389/fphar.2025.1578815](https://pubmed.ncbi.nlm.nih.gov/10.3389/fphar.2025.1578815/)
+[^ZEXIE]: Modified Zexie decoction improves phlegm-dampness type stage I hypertension by regulating the gut-immune-kidney axis. _Frontiers in Pharmacology_. 임상시험. [DOI 10.3389/fphar.2025.1578815](https://doi.org/10.3389/fphar.2025.1578815)
 
-[^BXHPT1]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Hsin-Fu Yeh 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) [PMID 10.1097/jcma.0000000000001237](https://pubmed.ncbi.nlm.nih.gov/10.1097/jcma.0000000000001237/) — 반하후박탕을 표준 양약 치료와 병용했을 때, 단독 양약 치료보다 후두경 소견(RFS)을 유의하게 더 개선시켰다. 매핵기·기체담결에 대한 반하후박탕의 임상 근거.
+[^BXHPT1]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Hsin-Fu Yeh 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕을 표준 양약 치료와 병용했을 때, 단독 양약 치료보다 후두경 소견(RFS)을 유의하게 더 개선시켰다. 매핵기·기체담결에 대한 반하후박탕의 임상 근거.
 
 [^BXHPT2]: Clinical observations on 46 cases of globus hystericus treated with modified Banxia Houpu decoction. Bo P 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-06. [임상시험, 95명] [DOI 10.1016/s0254-6272(10)60023-4](https://doi.org/10.1016/s0254-6272(10)60023-4) [PMID 20653165](https://pubmed.ncbi.nlm.nih.gov/20653165/) — 가감 반하후박탕이 매핵기 환자의 우울과 불안을 완화하고 심리 상태를 개선하는 데 효과적이었다.
 
-[^BXHPT3]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Jung-hwa Hong 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) [PMID 10.22246/jikm.2023.44.2.244](https://pubmed.ncbi.nlm.nih.gov/10.22246/jikm.2023.44.2.244/) — COVID-19 감염 후 발생하는 매핵기(목의 이물감) 증상에 반하후박탕·소시호탕 병용이 증상 완화에 유용할 수 있음을 시사한다.
+[^BXHPT3]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Jung-hwa Hong 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) — COVID-19 감염 후 발생하는 매핵기(목의 이물감) 증상에 반하후박탕·소시호탕 병용이 증상 완화에 유용할 수 있음을 시사한다.
 
 [^BXHPT4]: Effect of Koso-san on globus pharyngeus. Motoo Y 외. _The American journal of Chinese medicine_. 1999. [임상시험, 23명] [DOI 10.1142/S0192415X9900032X](https://doi.org/10.1142/S0192415X9900032X) [PMID 10467462](https://pubmed.ncbi.nlm.nih.gov/10467462/) — 기체(氣滯) 증상을 동반한 매핵기 환자에게 향소산(香蘇散)을 투여했을 때 높은 증상 개선율을 보였다.
 
-[^BXHPT5]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Tomoko Suzuki 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) [PMID 10.1002/tkm2.1373](https://pubmed.ncbi.nlm.nih.gov/10.1002/tkm2.1373/) — 반하후박탕(HKT)은 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 있다.
+[^BXHPT5]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Tomoko Suzuki 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) — 반하후박탕(HKT)은 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 있다.
 
 [^WD1]: Wendan decoction for primary insomnia: Protocol for a systematic review and meta-analysis. Yan X 외. _Medicine_. 2017-11. [체계적 고찰] [DOI 10.1097/MD.0000000000008906](https://doi.org/10.1097/MD.0000000000008906) [PMID 29382025](https://pubmed.ncbi.nlm.nih.gov/29382025/) — 일차성 불면증 환자 대상 온담탕의 유효성·안전성을 평가하는 체계적 문헌고찰·메타분석 프로토콜.
 
@@ -1441,7 +1441,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^MET2]: A review on the treatment of hyperlipidemia with Erchen Decoction. Tian X 외. _Frontiers in pharmacology_. 2024. [문헌 고찰] [DOI 10.3389/fphar.2024.1445950](https://doi.org/10.3389/fphar.2024.1445950) [PMID 39605912](https://pubmed.ncbi.nlm.nih.gov/39605912/) — 이진탕은 고지혈증 환자의 혈중 지질 수치를 조절하고 심혈관 위험을 낮추는 보조적 치료제로 활용될 가능성이 있다.
 
-[^MET3]: Efficacy of acupoint catgut embedding therapy for phlegm-turbidity and blood-stasis metabolic dysfunction-associated fatty liver disease. Qiu-Hong Hu 외. _World Journal of Gastrointestinal Surgery_. 2025-12-27. [관찰연구, 80명] [DOI 10.4240/wjgs.v17.i12.112063](https://doi.org/10.4240/wjgs.v17.i12.112063) [PMID 10.4240/wjgs.v17.i12.112063](https://pubmed.ncbi.nlm.nih.gov/10.4240/wjgs.v17.i12.112063/) — 담탁혈어증을 동반한 대사 이상 관련 지방간질환(MAFLD-PTBS) 환자에게 매선 요법(ACET)을 적용했을 때, 간 기능 지표(ALT·AST)·대사 지표(BMI·TC·TG)·간 섬유화 관련 바이오마커(PDGF·TGF-β1·CK-18)가 유의하게 개선되었다.
+[^MET3]: Efficacy of acupoint catgut embedding therapy for phlegm-turbidity and blood-stasis metabolic dysfunction-associated fatty liver disease. Qiu-Hong Hu 외. _World Journal of Gastrointestinal Surgery_. 2025-12-27. [관찰연구, 80명] [DOI 10.4240/wjgs.v17.i12.112063](https://doi.org/10.4240/wjgs.v17.i12.112063) — 담탁혈어증을 동반한 대사 이상 관련 지방간질환(MAFLD-PTBS) 환자에게 매선 요법(ACET)을 적용했을 때, 간 기능 지표(ALT·AST)·대사 지표(BMI·TC·TG)·간 섬유화 관련 바이오마커(PDGF·TGF-β1·CK-18)가 유의하게 개선되었다.
 
 [^MET4]: Serum metabolomics model and its metabolic characteristics in patients with different syndromes of dyslipidemia based on nuclear magnetic resonance. Chen J 외. _Journal of pharmaceutical and biomedical analysis_. 2019-04-15. [관찰연구, 80명] [DOI 10.1016/j.jpba.2018.12.042](https://doi.org/10.1016/j.jpba.2018.12.042) [PMID 30763881](https://pubmed.ncbi.nlm.nih.gov/30763881/) — 이상지질혈증 환자의 변증(비신양허증·담습저체증)을 NMR 기반 혈청 대사체 분석으로 객관화하였으며, 각 증후군이 서로 다른 대사적 특징(담습저체증은 유해 대사물질 축적)을 가짐을 확인하였다.
 
@@ -1451,7 +1451,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^ONC1]: Analysis of Gut Microbiota as a Diagnostic Biomarker for Lung Adenocarcinoma with Qi-Deficiency and Phlegm-Turbid Stagnation. Chen J 외. _Combinatorial chemistry & high throughput screening_. 2025. [관찰연구, 90명] [DOI 10.2174/0113862073303081240521083505](https://doi.org/10.2174/0113862073303081240521083505) [PMID 38847243](https://pubmed.ncbi.nlm.nih.gov/38847243/) — 폐선암 환자의 기허담탁(氣虛痰濁) 증후군을 진단하기 위해 장내 미생물 분석을 통한 바이오마커를 발굴하고 진단 모델을 구축하였다.
 
-[^CARDIOREN1]: Utilizing data mining techniques to analyze traditional Chinese medicine patterns in patients with acute cardiorenal syndrome. Deshuang Yang 외. _Advanced Chinese Medicine_. 2024-04. [관찰연구] [DOI 10.1002/acm4.14](https://doi.org/10.1002/acm4.14) [PMID 10.1002/acm4.14](https://pubmed.ncbi.nlm.nih.gov/10.1002/acm4.14/) — 급성 심신 증후군(ACRS) 치료 시 온성·평성 성질의 감미·신미 약재가 주로 사용되며, 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 유용하고 폐·비 경락으로 귀경하는 약재 조합이 핵심이다.
+[^CARDIOREN1]: Utilizing data mining techniques to analyze traditional Chinese medicine patterns in patients with acute cardiorenal syndrome. Deshuang Yang 외. _Advanced Chinese Medicine_. 2024-04. [관찰연구] [DOI 10.1002/acm4.14](https://doi.org/10.1002/acm4.14) — 급성 심신 증후군(ACRS) 치료 시 온성·평성 성질의 감미·신미 약재가 주로 사용되며, 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 유용하고 폐·비 경락으로 귀경하는 약재 조합이 핵심이다.
 
 **고전 인용 출처**: 『金匱要略』(痰飮病脈證治), 『素問』(至眞要大論, 痿論), 『靈樞』, 『難經』, 『傷寒論』(小陷胸湯), 『諸病源候論』, 『丹溪心法』, 『醫學心悟』(半夏白朮天麻湯), 『太平惠民和劑局方』(二陳湯), 『三因極一病證方論』(溫膽湯), 『萬病回春』(蒼附導痰湯), 『外科正宗』(海藻玉壺湯), 『溫病條辨』(安宮牛黃丸), 『醫學衷中參西錄』
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-17 조회 기준

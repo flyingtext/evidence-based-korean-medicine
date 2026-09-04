@@ -462,15 +462,15 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^43]: Lead and arsenic intoxications by traditional and alternative medicine: men are more sensitive than women. Gerke L 외. _Naunyn-Schmiedeberg's archives of pharmacology_. 2025-01. [체계적 고찰] [DOI 10.1007/s00210-024-03317-y](https://doi.org/10.1007/s00210-024-03317-y) [PMID 39066909](https://pubmed.ncbi.nlm.nih.gov/39066909/) — 전통의학 제품의 중금속 오염 위험과 성별·연령별 민감도 차이를 정리하였다.
 
-[^44]: Natural History of Chronic Urticaria in Korea. 정보영 외. _Annals of Dermatology_. 2020-02. [관찰연구] [DOI 10.5021/ad.2020.32.1.38](https://doi.org/10.5021/ad.2020.32.1.38) [PMID ART002555914](https://pubmed.ncbi.nlm.nih.gov/ART002555914/) — 한국인 만성 두드러기의 5년 자연 회복률(약 32.9%)과 평균 유병 기간(6.3년)을 제시한다.
+[^44]: Natural History of Chronic Urticaria in Korea. 정보영 외. _Annals of Dermatology_. 2020-02. [관찰연구] [DOI 10.5021/ad.2020.32.1.38](https://doi.org/10.5021/ad.2020.32.1.38) — 한국인 만성 두드러기의 5년 자연 회복률(약 32.9%)과 평균 유병 기간(6.3년)을 제시한다.
 
 [^45]: Epidemiology of Chronic Urticaria in Korea Using the Korean Health Insurance Database, 2010-2014. Lee N 외. _Allergy, asthma & immunology research_. 2017-09. [관찰연구] [DOI 10.4168/aair.2017.9.5.438](https://doi.org/10.4168/aair.2017.9.5.438) [PMID 28677358](https://pubmed.ncbi.nlm.nih.gov/28677358/) — 한국인 만성 두드러기 유병률이 매년 증가하며 여성·고령층에서 더 높음을 보여준다.
 
-[^46]: The burden of symptomatic patients with chronic spontaneous urticaria: a real-world study in Korea. Young-Min Ye 외. _The Korean Journal of Internal Medicine_. 2022-09. [관찰연구] [DOI 10.3904/kjim.2022.078](https://doi.org/10.3904/kjim.2022.078) [PMID ART002868613](https://pubmed.ncbi.nlm.nih.gov/ART002868613/) — 항히스타민제 불응성 CSU 환자의 삶의 질 저하·의료자원 이용 증가를 실증하였다.
+[^46]: The burden of symptomatic patients with chronic spontaneous urticaria: a real-world study in Korea. Young-Min Ye 외. _The Korean Journal of Internal Medicine_. 2022-09. [관찰연구] [DOI 10.3904/kjim.2022.078](https://doi.org/10.3904/kjim.2022.078) — 항히스타민제 불응성 CSU 환자의 삶의 질 저하·의료자원 이용 증가를 실증하였다.
 
-[^47]: Anxiety, depression, and stress in Korean patients with chronic urticaria. Gil-Soon Choi 외. _The Korean Journal of Internal Medicine_. 2020-11. [관찰연구] [DOI 10.3904/kjim.2019.320](https://doi.org/10.3904/kjim.2019.320) [PMID ART002638230](https://pubmed.ncbi.nlm.nih.gov/ART002638230/) — 한국인 CSU 환자에서 높은 불안·우울 유병률과 삶의 질 저하의 연관성을 확인하였다.
+[^47]: Anxiety, depression, and stress in Korean patients with chronic urticaria. Gil-Soon Choi 외. _The Korean Journal of Internal Medicine_. 2020-11. [관찰연구] [DOI 10.3904/kjim.2019.320](https://doi.org/10.3904/kjim.2019.320) — 한국인 CSU 환자에서 높은 불안·우울 유병률과 삶의 질 저하의 연관성을 확인하였다.
 
-[^48]: Biomarkers for Short-Term Omalizumab Response in Chronic Spontaneous Urticaria. 김완진 외. _Annals of Dermatology_. 2024-12. [관찰연구] [DOI 10.5021/ad.24.004](https://doi.org/10.5021/ad.24.004) [PMID ART003142039](https://pubmed.ncbi.nlm.nih.gov/ART003142039/) — 짧은 유병 기간·높은 초기 총 IgE가 오말리주맙 치료 반응 예측 인자임을 제시하였다.
+[^48]: Biomarkers for Short-Term Omalizumab Response in Chronic Spontaneous Urticaria. 김완진 외. _Annals of Dermatology_. 2024-12. [관찰연구] [DOI 10.5021/ad.24.004](https://doi.org/10.5021/ad.24.004) — 짧은 유병 기간·높은 초기 총 IgE가 오말리주맙 치료 반응 예측 인자임을 제시하였다.
 
 [^49]: IgE and IgG Anti-Thyroid Autoantibodies in Chinese Patients With Chronic Spontaneous Urticaria and a Literature Review. Zhang L 외. _Allergy, asthma & immunology research_. 2022-01. [관찰연구] [DOI 10.4168/aair.2022.14.1.131](https://doi.org/10.4168/aair.2022.14.1.131) [PMID 34983113](https://pubmed.ncbi.nlm.nih.gov/34983113/) — CSU 환자의 항갑상선 자가항체 유병률이 유의하게 높음을 확인하였다.
 
@@ -544,7 +544,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^84]: Multi-center study for acupuncture combined with Chinese medicine in the treatment of chronic spontaneous urticaria based on the theory of taking shu-stream points when the disease is aggravated. Qin Y 외. _Medicine_. 2020-08-14. [임상시험] [DOI 10.1097/MD.0000000000021266](https://doi.org/10.1097/MD.0000000000021266) [PMID 32871985](https://pubmed.ncbi.nlm.nih.gov/32871985/) — 당귀음자와 발병 시 수혈 취혈 병용의 다기관 임상 근거를 제공한다.
 
-[^85]: Prevalence of anaphylaxis and prescription rates of epinephrine auto-injectors in urban and rural areas of Korea. 조현석 외. _The Korean Journal of Internal Medicine_. 2019-05. [관찰연구] [DOI 10.3904/kjim.2018.094](https://doi.org/10.3904/kjim.2018.094) [PMID ART002460103](https://pubmed.ncbi.nlm.nih.gov/ART002460103/) — 농촌 지역의 아나필락시스 유병률-EAI 처방률 불균형을 확인하였다.
+[^85]: Prevalence of anaphylaxis and prescription rates of epinephrine auto-injectors in urban and rural areas of Korea. 조현석 외. _The Korean Journal of Internal Medicine_. 2019-05. [관찰연구] [DOI 10.3904/kjim.2018.094](https://doi.org/10.3904/kjim.2018.094) — 농촌 지역의 아나필락시스 유병률-EAI 처방률 불균형을 확인하였다.
 
 [^86]: Anaphylaxis: Five Years' Experience in the Emergency Rooms of Five University Hospitals in Korea. Chung BY 외. _Medicina (Kaunas, Lithuania)_. 2020-12-14. [관찰연구] [DOI 10.3390/medicina56120695](https://doi.org/10.3390/medicina56120695) [PMID 33327374](https://pubmed.ncbi.nlm.nih.gov/33327374/) — 한국인 아나필락시스의 주요 원인과 연령별 임상 양상 차이를 규명하였다.
 
@@ -552,7 +552,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^88]: Risk factors of anaphylaxis in Korea: Identifying drug-induced anaphylaxis culprits using big data. Ahn KM 외. _Medicine_. 2022-09-02. [관찰연구] [DOI 10.1097/MD.0000000000030224](https://doi.org/10.1097/MD.0000000000030224) [PMID 36107532](https://pubmed.ncbi.nlm.nih.gov/36107532/) — 한국인 아나필락시스 고위험 약물 5종을 빅데이터로 식별하였다.
 
-[^89]: Causes and Diagnostic Usefulness of Tryptase Measurements for Anaphylaxis in a Korean Tertiary Care General Hospital. Lin Liang 외. _Yonsei Medical Journal_. 2022-12. [관찰연구] [DOI 10.3349/ymj.2022.0172](https://doi.org/10.3349/ymj.2022.0172) [PMID ART002897413](https://pubmed.ncbi.nlm.nih.gov/ART002897413/) — 알고리즘 기반 트립타제 해석이 진단 민감도를 높임을 확인하였다.
+[^89]: Causes and Diagnostic Usefulness of Tryptase Measurements for Anaphylaxis in a Korean Tertiary Care General Hospital. Lin Liang 외. _Yonsei Medical Journal_. 2022-12. [관찰연구] [DOI 10.3349/ymj.2022.0172](https://doi.org/10.3349/ymj.2022.0172) — 알고리즘 기반 트립타제 해석이 진단 민감도를 높임을 확인하였다.
 
 [^90]: Incidence Rate of Bee Venom Acupuncture Related Anaphylaxis: A Systematic Review. Seong-Hwan Ko 외. _Toxins_. 2022-03-26. [체계적 고찰] [DOI 10.3390/toxins14040238](https://doi.org/10.3390/toxins14040238) — 봉침 아나필락시스 발생률(0.045%)과 여성에서의 위험 증가 경향을 확인하였다.
 
