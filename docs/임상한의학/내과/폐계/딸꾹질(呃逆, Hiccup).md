@@ -260,7 +260,7 @@
 
 - **소시호탕(小柴胡湯)**: 교통사고 후 원인 불명 난치성 딸꾹질 환자에서 소시호탕과 침·뜸·부항·추나·약침을 병행한 통합 한의학 치료로 딸꾹질 소실 및 삶의 질 유의 개선 증례가 국내에 보고되었다 [^26].
 - **귤피죽여탕(橘皮竹茹湯)·전씨이공산(全氏二陳散)·이진탕(二陳湯)**: 중추신경계 질환 동반 난치성 딸꾹질 환자에서 귤피죽여탕·전씨이공산·이진탕과 전침을 30일 병행해 딸꾹질 빈도·지속시간 유의 감소 증례가 보고되었다 [^32].
-- **복령오령반하후박탕(茯苓五苓半夏厚朴湯, Bukuryoingohangekobokuto)**: 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 투여해 수일 내 증상 현저 개선, 퇴원 가능해진 증례가 있다. 기혈부족·기체·수독 변증 기반 적용 사례다 [^35].
+- **복령음합반하후박탕(茯苓飮合半夏厚朴湯, Bukuryoingohangekobokuto)**: 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 투여해 수일 내 증상 현저 개선, 퇴원 가능해진 증례가 있다. 기혈부족·기체·수독 변증 기반 적용 사례다 [^35].
 - **한개후박탕(半夏厚朴湯 한방 변방, Hange-koboku-to)**: 혈액투석 환자의 지속성 딸꾹질(기관지폐렴 초기 비전형 증상)에서 클로나제팜·클로르프로마진과 병용 투여해 2일 만에 증상 소실된 증례가 있다 [^39].
 - **바클로펜+한약 병용**: 인두염으로 인한 설인신경 자극→난치성 딸꾹질→실신 증례에서 바클로펜과 한약 병용 투여로 실신 즉시 소실, 딸꾹질 6일 후 완전 소실 증례 [^9].
 
@@ -395,7 +395,7 @@
 - 대사성 자극이 중추 화학수용체/반사궁을 활성화.
 
 #### ④ 치료
-- 복령오령반하후박탕이 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 유효 증례 [^35].
+- 복령음합반하후박탕이 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 유효 증례 [^35].
 - 바클로펜+한약 병용이 설인신경 자극 난치성 딸꾹질에 유효 증례 [^9].
 - 전해질 교정·원인 약물 조정을 우선, 한의학 치료는 보조.
 
@@ -568,7 +568,7 @@
 [^32]: A Case Report of Central Nervous System Disorder Induced Intractable Hiccups Treated with Korean Medicine. _The Journal of Internal Korean Medicine_. 2022-05-31. [증례 보고] [DOI 10.22246/jikm.2022.43.2.191](https://doi.org/10.22246/jikm.2022.43.2.191) — 중추신경계 질환 동반 난치성 딸꾹질에서 귤피죽여탕·전씨이공산·이진탕+전침 30일 병행으로 빈도·지속 감소. 한약+전침 병행 증례.
 [^33]: Effectiveness and safety of acupuncture therapies for intractable hiccups: a systematic review and network meta-analysis. _Frontiers in medicine_. 2025. [메타분석] [DOI 10.3389/fmed.2025.1676850](https://doi.org/10.3389/fmed.2025.1676850) [PMID 41346981](https://pubmed.ncbi.nlm.nih.gov/41346981/) — 난치성 딸꾹질에서 침 안전·유효, 수침+혈위주사 병용이 총유효율·삶의 질 최상, 전침+약물 병용이 증상 완화 최상. 복합 요법 권고 핵심 근거.
 [^34]: Effectiveness and safety of acupuncture for cancer-related hiccups: a systematic review and meta-analysis. _Frontiers in neurology_. 2024. [메타분석] [DOI 10.3389/fneur.2024.1480656](https://doi.org/10.3389/fneur.2024.1480656) [PMID 39722696](https://pubmed.ncbi.nlm.nih.gov/39722696/) — 암 관련 딸꾹질에서 침이 약물 대비 완화율·발현시간·수면·식욕 유의 우수. 족삼리·내관 빈용. 암 관련 딸꾹질 핵심 근거.
-[^35]: Intractable cough and hiccups after resuscitation and acute coronary syndrome treatment successfully treated using the Kampo medicine bukuyoingohangekobokuto: A case report. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2024.04.005](https://doi.org/10.1016/j.explore.2024.04.005) [PMID 38688807](https://pubmed.ncbi.nlm.nih.gov/38688807/) — 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 복령오령반하후박탕으로 수일 내 증상 현저 개선. 기혈부족·기체·수독 변증 한약 증례.
+[^35]: Intractable cough and hiccups after resuscitation and acute coronary syndrome treatment successfully treated using the Kampo medicine bukuyoingohangekobokuto: A case report. _Explore (New York, N.Y.)_. [증례 보고] [DOI 10.1016/j.explore.2024.04.005](https://doi.org/10.1016/j.explore.2024.04.005) [PMID 38688807](https://pubmed.ncbi.nlm.nih.gov/38688807/) — 급성관상증후군 소생술 후 난치성 기침·딸꾹질에 복령음합반하후박탕으로 수일 내 증상 현저 개선. 기혈부족·기체·수독 변증 한약 증례.
 [^36]: Acupuncture for post-stroke hiccup: an overview of systematic reviews. _Frontiers in neurology_. 2025. [체계적 고찰] [DOI 10.3389/fneur.2025.1684772](https://doi.org/10.3389/fneur.2025.1684772) [PMID 41200441](https://pubmed.ncbi.nlm.nih.gov/41200441/) — 뇌졸중 후 딸꾹질 침 치료가 증상 완화·삶의 질 개선 가능성이 있으나 근거 확실성 부족·안전성 데이터 불충분. 뇌졸중 후 딸꾹질 근거 종합.
 [^37]: Gentian root bitters for the rapid suppression of post-propofol singultus: a case report. _Wiener klinische Wochenschrift_. [증례 보고] [DOI 10.1007/s00508-025-02607-6](https://doi.org/10.1007/s00508-025-02607-6) [PMID 40900241](https://pubmed.ncbi.nlm.nih.gov/40900241/) — propofol 마취 후 딸꾹질을 용담근 쓴맛 추출물로 빠르게 억제한 증례. 마취 후 딸꾹질 비약물 대안 참고.
 [^38]: Acupuncture and cupping for treatment of hiccup in cases of cerebrovascular accident. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2006-09. [임상시험] [PMID 17078440](https://pubmed.ncbi.nlm.nih.gov/17078440/) — 뇌혈관 사고 딸꾹질에서 침+부항 병행이 리탈린 단독 대비 총유효율 92.5% vs 72.5%로 유의 우수. 침+부항 복합 요법 근거.
