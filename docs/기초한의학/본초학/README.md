@@ -415,7 +415,7 @@
 
 - 인삼(人蔘, Panax ginseng)
 - 당삼(黨蔘, Codonopsis Radix) — (작성 예정)
-- 황기(黃芪, Astragalus)
+- 황기(黃芪, Astragali Radix)
 - 백출(白朮, Atractylodes)
 - 산약(山藥, Dioscoreae Rhizoma)
 - 백편두(白扁豆, Lablab Semen Album) — (작성 예정)
