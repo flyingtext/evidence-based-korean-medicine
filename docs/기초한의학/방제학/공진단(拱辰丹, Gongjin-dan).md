@@ -53,7 +53,7 @@
 
 - **만성 피로·수면 부족**: 수면 부족으로 유도된 급성 피로에서 공진단 투여 시 수면 진입 시간 개선·피로도(BFI, FSS) 감소 경향·혈청 및 타액 코르티솔 상승 억제가 확인되었다.[^8][^9] 만성 피로(6개월 이상 지속, FSS 4점 이상) 환자 90명을 대상으로 한 무작위 이중맹검 위약대조시험에서 공진단군은 SF-36 사회적 기능(SF) 점수가 유의하게 개선되어, 만성적 정신·사회적 피로 개선에 효과적이었다.[^10][^11]
 - **만성 어지럼증**: 메니에르병·심인성 어지럼증·원인 불명의 만성 어지럼증 환자를 대상으로 공진단 3.75 g/일 56일 투여의 유효성·안전성·비용-효과성을 검증하기 위한 다기관 무작위 이중맹검 위약대조 병렬군 임상시험(GOODNESS 연구)이 설계되었다.[^12] 어지럼증 장애 척도(Dizziness Handicap Inventory, DHI)·평균 현훈 척도·Berg Balance Scale·FSS·기혈음양허 설문지·Beck 우울 척도 등을 일차·이차 결과지표로 삼아 공진단의 만성 어지럼증 개선 효과를 평가한다.[^12]
-- **인지 기능·기억력**: 공진단이 스코폴라민(scopolamine) 유도 기억장애 동물 모델에서 아세틸콜린에스테라제(AChE) 활성 억제·BDNF 및 NGF 발현 증가·해마 신경발생 촉진·위축 완화를 통해 항건맹(抗健忘) 효과를 보인 기전 연구가 있으나 동물실험이므로 본문 인용에서는 제외한다.[^13] (인지 영역 인간 대상 직접 임상시험은 현재까지 보고되지 않았다.)
+- **인지 기능·기억력**: 공진단의 항건맹(抗健忘) 작용을 다룬 자료는 모두 실험동물 연구여서 근거로 인용하지 않는다. 공진단이 사람의 인지 기능·기억력을 개선한다는 주장을 뒷받침하는 인체 근거는 확인되지 않는다.
 - **당뇨병성 신경병증**: 기존 진통제·항경련제에 반응 불충분한 당뇨병성 신경병증 환자에게 경희공진단과 한약·침·약침·뜸을 병행한 복합 한방 치료로 하지·몸통 통증 NRS(7~8 → 2)·통증 횟수(150회/일 → 10회 미만)·어지럼증 소실이 확인된 치험 사례가 보고되었다.[^5]
 - **부인과 질환**: 혈허(血虛)·혈어(血瘀) 변증을 동반한 자궁내막종(endometrioma) 환자에게 가감 계지복령환과 보골공진단을 6개월 병용 투여하여 낭종 크기 감소(25×21×17 mm → 17×11×10 mm)·CA 125 정상화(47.2 → 34.3 U/ml)·골반통 VAS(7→1) 개선이 확인되었다.[^7]
 
@@ -326,7 +326,7 @@
 | 항목 | 지도 내용 | 이론적 근거 |
 |---|---|---|
 | 수면 | 자정 이전 취침. 7~8시간 수면 확보. 수면 부족 회피. | "수면 부족은 피로·코르티솔 상승을 유발" [^8][^9] |
-| 활동 | 규칙적 유산소 운동(30분/일). 과도한 강제 운동 회피. | "과도한 강제 운동 스트레스는 만성 피로 유발" [^13] |
+| 활동 | 규칙적 유산소 운동(30분/일). 과도한 강제 운동 회피. | 노권상(勞倦傷)이 기허(氣虛)를 심화시킨다는 원칙[교과서적 근거] |
 | 정서 | 정서 안정. 과도한 스트레스·걱정 회피. 명상·기공 권장. | "심신불교(心腎不交)는 정서 스트레스와 연관" [교과서적 근거] |
 | 식이 | 소화하기 쉬운 영양 균형 식사. 과식·생것 찬 것 회피. | "보제(補劑)는 비위(脾胃) 운화(運化)가 원활해야 흡수" [교과서적 근거] |
 | 눈 사용 | VDT 연속 사용 제한. 20-20-20 규칙(20분마다 20피트 거리 20초 응시). | "간(肝)은 혈(血)을贮藏하고 눈을 열어 보이게 함. 혈허(血虛)는 안로(眼勞)와 상호 악화" [교과서적 근거] |
@@ -392,7 +392,6 @@
 [^10]: Efficacy and safety of herbal medicine Gongjin-Dan and Ssanghwa-Tang in patients with chronic fatigue: A randomized, double-blind, placebo-controlled, clinical trial. _Integrative medicine research_. 2024-03. [임상시험] [DOI 10.1016/j.imr.2024.101025](https://doi.org/10.1016/j.imr.2024.101025) [PMID 39669697](https://pubmed.ncbi.nlm.nih.gov/39669697/) — 만성 피로(FSS 4점 이상) 90명 공진단 vs 쌍화탕 vs 위약 4~6주. 공진단군 SF-36 사회적 기능(SF) 유의 개선. 쌍화탕군 정서적 역할(RE)·신체 기능(PF) 유의 개선. 변증 층화적 처방 선택 임상 근거.
 [^11]: Corrigendum to: "Efficacy and safety of herbal medicine Gongjin-Dan and Ssanghwa-Tang in patients with chronic fatigue: A randomized, double-blind, placebo-controlled, clinical trial" Integr Med Res 2024;13:101025. _Integrative medicine research_. 2025-12. [임상시험] [DOI 10.1016/j.imr.2025.101175](https://doi.org/10.1016/j.imr.2025.101175) [PMID 40949767](https://pubmed.ncbi.nlm.nih.gov/40949767/) — 만성 피로 공진단·쌍화탕 임상시험 정오표. 원문(DOI 10.1016/j.imr.2024.101025) 결과 참조.
 [^12]: A Herbal Medicine, Gongjindan, in Subjects with Chronic Dizziness (GOODNESS Study): Study Protocol for a Prospective, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Clinical Trial for Effectiveness, Safety, and Cost-Effectiveness. _Evidence-based complementary and alternative medicine : eCAM_. 2017. [임상시험] [DOI 10.1155/2017/4363716](https://doi.org/10.1155/2017/4363716) [PMID 29387128](https://pubmed.ncbi.nlm.nih.gov/29387128/) — 만성 어지럼증(메니에르병·심인성·원인 불명) 78명 공진단 3.75g/일 56일 다기관 무작위 이중맹검 위약대조 병렬군 임상시험 프로토콜. 일차 DHI, 이차 현훈 척도·Berg Balance Scale·FSS·기혈음양허 설문지·Beck 우울 척도. 변증 층화 도구 활용 특징.
-[^13]: The traditional drug Gongjin-Dan ameliorates chronic fatigue in a forced-stress mouse exercise model. _Journal of ethnopharmacology_. 2015-06-20. [실험연구] [DOI 10.1016/j.jep.2015.04.001](https://doi.org/10.1016/j.jep.2015.04.001) [PMID 25865680](https://pubmed.ncbi.nlm.nih.gov/25865680/) — 공진단 동물실험(인용 제외 대상). 강제 운동 스트레스 마우스 만성 피로 개선. 골격근 산화 스트레스·염증 감소, HPA축 스트레스 호르몬 정상화. 본문에서는 과도한 강제 운동 스트레스 관련 조섭표 참조용.
 [^14]: Effects of Ganglioside on Working Memory and the Default Mode Network in Individuals with Mild Cognitive Impairment: A Randomized Controlled Trial. _The American Journal of Chinese Medicine_. [임상시험] [DOI 10.1142/S0192415X16500270](https://doi.org/10.1142/S0192415X16500270) — 녹용 주요 성분 ganglioside가 경도 인지 장애(MCI) 작업기억·디폴트 모드 신경망에 미치는 효과. 녹용 인지 영역 인간 임상 근거.
 [^15]: Safety of deer antler extract in children: A 12-week randomized controlled clinical trial. _Medicine_. [임상시험] [DOI 10.1097/MD.0000000000037970](https://doi.org/10.1097/MD.0000000000037970) — 녹용 추출물 소아 12주 무작위 대조시험 안전성 확인. 녹용 소아 안전성 인간 임상 근거.
 [^16]: Effects of Distilled Cervi Pantotrichum Cornu and Rehmannia glutinosa Pharmacopuncture on Hematologic Changes in the Patients with General Weakness: A Retrospective Clinical Study. _Journal of acupuncture and meridian studies_. 2016. [임상시험] [DOI 10.1016/j.jams.2016.11.001](https://doi.org/10.1016/j.jams.2016.11.001) — 녹용 분별 증류액·숙지황 약침 제제 인체 적용 연구. 일반 허약 환자 혈액학 변화 평가. 녹용 약침 제제 인체 임상 근거.
