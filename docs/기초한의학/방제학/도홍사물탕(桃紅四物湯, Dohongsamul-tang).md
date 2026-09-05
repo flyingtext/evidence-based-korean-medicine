@@ -28,7 +28,7 @@
 
 교과서적 해석에 따르면 사물탕이 혈(血)을 보하고, 도인·홍화가 어혈(瘀血)을 깨뜨려 혈행(血行)을 촉진함으로써, 혈허겸어(血虛兼瘀) 상태에서 보혈과 활혈을 겸행한다.(교과서적 근거) 현대 약리 연구는 이 기전을 뒷받침한다. 도인(桃仁)·홍화(紅花) 약대(藥對, herb-pair)의 조합이 PI3K-Akt 신호 경로를 통해 산화 스트레스를 조절함으로써 간섬유화를 억제할 수 있음이 네트워크 약리학·분자 도킹 분석으로 확인되었다(문헌 고찰)[^1]. 도홍사물탕의 화학 성분·약리 작용·임상 응용과 품질 마커에 대한 연구 진전을 정리한 문헌 고찰에서는, 도홍사물탕이 활혈거어(活血祛瘀) 및 보혈(補血) 작용을 통해 부인과 질환뿐만 아니라 골절 치유·골다공증·염증성 질환·대사 질환 등 광범위한 임상 영역에 적용 가능함이 확인되었다[^2].
 
-도홍사물탕은 사물탕 계열 처방 가운데 활혈화어 작용이 가장 강화된 방제로, 왕청임(王淸任)의 흉중혈어탕(血府逐瘀湯)이 사역산(四逆散)·도홍사물탕·길경(桔梗)·우슬(牛膝) 등으로 대표되는 복합적인 어혈 증후군을 치료한다는 분석에서도 도홍사물탕의 이론적 위치가 확인된다(문헌 고찰)[^3]. 한약 처방 구성의 원리를 단일 약재에서 처방에 이르는 약성 조합의 자기유사성(self-similarity) 모델로 분석한 이론 연구도 도홍사물탕과 같은 가감(加減) 방식의 처방 구성 원리를 뒷받침한다(문헌 고찰)[^4].
+도홍사물탕은 사물탕 계열 처방 가운데 활혈화어 작용이 가장 강화된 방제로, 왕청임(王淸任)의 혈부축어탕(血府逐瘀湯)이 사역산(四逆散)·도홍사물탕·길경(桔梗)·우슬(牛膝) 등으로 대표되는 복합적인 어혈 증후군을 치료한다는 분석에서도 도홍사물탕의 이론적 위치가 확인된다(문헌 고찰)[^3]. 한약 처방 구성의 원리를 단일 약재에서 처방에 이르는 약성 조합의 자기유사성(self-similarity) 모델로 분석한 이론 연구도 도홍사물탕과 같은 가감(加減) 방식의 처방 구성 원리를 뒷받침한다(문헌 고찰)[^4].
 
 ### 3. 병인·병기(病因病機)
 
@@ -243,7 +243,7 @@
 
 [^1]: The mechanism of peach kernel and safflower herb-pair for the treatment of liver fibrosis based on network pharmacology and molecular docking technology: A review. Huang L 외. _Medicine_. 2023-04-21. [문헌 고찰] [DOI 10.1097/MD.0000000000033593](https://doi.org/10.1097/MD.0000000000033593) [PMID 37083803](https://pubmed.ncbi.nlm.nih.gov/37083803/) — 도인·홍화 약대가 PI3K-Akt 경로 통한 산화스트레스 조절로 간섬유화 억제.
 [^2]: [Research progress on chemical constituents, pharmacological effects, and clinical application of classic Taohong Siwu Decoction and predictive analysis of quality markers]. Cai M 외. _Zhongguo Zhong yao za zhi_. 2025-10. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20250618.201](https://doi.org/10.19540/j.cnki.cjcmm.20250618.201) [PMID 41508199](https://pubmed.ncbi.nlm.nih.gov/41508199/) — 도홍사물탕이 부인과·골절·골다공증·염증·대사 질환에 광범위 적용 가능.
-[^3]: [Explaining syndromes of decoction for removing blood stasis in chest]. Xiong X 외. _Zhongguo Zhong yao za zhi_. 2011-11. [문헌 고찰] [PMID 22308696](https://pubmed.ncbi.nlm.nih.gov/22308696/) — 왕청임 흉중혈어탕이 사역산·도홍사물탕·길경·우슬로 대표되는 복합 증후군 치료.
+[^3]: [Explaining syndromes of decoction for removing blood stasis in chest]. Xiong X 외. _Zhongguo Zhong yao za zhi_. 2011-11. [문헌 고찰] [PMID 22308696](https://pubmed.ncbi.nlm.nih.gov/22308696/) — 왕청임 혈부축어탕이 사역산·도홍사물탕·길경·우슬로 대표되는 복합 증후군 치료.
 [^4]: [Study on self-similarity of property combination mode of traditional Chinese medicines]. Sun J 외. _Zhongguo Zhong yao za zhi_. 2014-07. [문헌 고찰] [PMID 25276946](https://pubmed.ncbi.nlm.nih.gov/25276946/) — 약성 조합의 자기유사성 모델로 한약 처방 구성 원리 분석.
 [^5]: An Analysis of the Clinical Medication Rules of Traditional Chinese Medicine for Polycystic Ovary Syndrome Based on Data Mining. Dan Xu 외. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. [관찰연구, 382명] [DOI 10.1155/2023/6198001](https://doi.org/10.1155/2023/6198001) — PCOS 치료에 보신·건비·거습화담·활혈거어 원칙 한약. 도홍사물탕 빈용.
 [^6]: Endometriosis treated by the method of resolving blood stasis to eliminate obstruction in the lower-jiao. Wang D 외. _Journal of traditional Chinese medicine_. 1998-03. [임상시험, 48명] [PMID 10437253](https://pubmed.ncbi.nlm.nih.gov/10437253/) — 내이 2호 환(활혈거어)이 자궁내막증 통증·병변·불임 개선.
