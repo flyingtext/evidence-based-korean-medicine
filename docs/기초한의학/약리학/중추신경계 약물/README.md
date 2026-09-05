@@ -16,7 +16,7 @@
 
 한의학에서 정신·의식·수면·정서를 관장하는 핵심 개념은 신(神)이며, 심장혈맥지신(心臟血脈之神)·간장혼(肝藏魂)·비장의(脾藏意)·폐장백(肺藏魄)·신장지(腎藏志)의 오장신지(五臟神志) 이론이 그 병리적 기반을 이룬다[교과서적 근거]. 불면·불안·경계정충(驚悸怔忡)·전간(癲癎) 등은 심신불교(心腎不交)·간양상항(肝陽上亢)·담화요심(痰火擾心)·심비양허(心脾兩虛) 등의 병기로 설명되며, 치법으로는 안신정지(安神定志)·진심안신(鎭心安神)·자음안신(滋陰安神)·양혈안신(養血安神)의 원칙이 적용된다[교과서적 근거]. 안신약(安神藥) 범주는 다시 중진안신약(重鎭安神藥, 용골龍骨·모려牡蠣·자석磁石 등 광물성 약물로 진정·평충 작용)과 양심안신약(養心安神藥, 산조인酸棗仁·백자인柏子仁·원지遠志·합환피合歡皮 등 식물성 약물로 자양·보혈 작용)으로 구분된다[교과서적 근거].
 
-현대 약리학적 관점에서 안신약의 다수가 GABA-A 수용체 알로스테릭 부위 작용, 세로토닌계 조절, 모노아민산화효소 억제 등 벤조디아제핀·항우울제와 유사한 표적에 작용한다는 근거가 축적되고 있다. 산조인(酸棗仁, Ziziphi Spinosae Semen)은 위약 대비 주관적 수면의 질을 유의하게 개선하고 벤조디아제핀이나 인지행동치료와 견줄 만한 불면증 개선 효과를 보였으며 중대한 이상반응 증가는 없었다[^31]. 산조인탕(酸棗仁湯)의 불면증 치료 근거도 체계적으로 축적되고 있다[^32]. 귀비탕(歸脾湯)·시호룡골모려탕(柴胡龍骨牡蠣湯) 등 안신 계열 처방은 네트워크 메타분석에서 기존 약물 치료와 대등하거나 우수한 수면 개선 효과를 보였다[^33]. 이는 중진안신약(용골·모려류)과 양심안신약(산조인류)이 각각 진정 축(GABA계·항경련 축)과 자양 축(세로토닌·HPA축 조절)에서 서로 다른 약리학적 경로로 작용할 가능성을 시사하며, 변증에 따른 안신약 선별의 약리학적 근거가 될 수 있다. 다만 안신약의 약리 기전 연구는 아직 초기 단계이며, 개별 성분의 수용체 결합 친화도·용량-반응 관계에 대한 인체 대상 정량 자료는 벤조디아제핀 계열에 비해 부족하다는 근거 한계를 인식해야 한다.
+현대 약리학적 관점에서 안신약의 다수가 GABA-A 수용체 알로스테릭 부위 작용, 세로토닌계 조절, 모노아민산화효소 억제 등 벤조디아제핀·항우울제와 유사한 표적에 작용한다는 근거가 축적되고 있다. 산조인(酸棗仁, Ziziphi Spinosae Semen)은 위약 대비 주관적 수면의 질을 유의하게 개선하고 벤조디아제핀이나 인지행동치료와 견줄 만한 불면증 개선 효과를 보였으며 중대한 이상반응 증가는 없었다[^31]. 산조인탕(酸棗仁湯)의 불면증 치료 근거도 체계적으로 축적되고 있다[^32]. 귀비탕(歸脾湯)·시호용골모려탕(柴胡龍骨牡蠣湯) 등 안신 계열 처방은 네트워크 메타분석에서 기존 약물 치료와 대등하거나 우수한 수면 개선 효과를 보였다[^33]. 이는 중진안신약(용골·모려류)과 양심안신약(산조인류)이 각각 진정 축(GABA계·항경련 축)과 자양 축(세로토닌·HPA축 조절)에서 서로 다른 약리학적 경로로 작용할 가능성을 시사하며, 변증에 따른 안신약 선별의 약리학적 근거가 될 수 있다. 다만 안신약의 약리 기전 연구는 아직 초기 단계이며, 개별 성분의 수용체 결합 친화도·용량-반응 관계에 대한 인체 대상 정량 자료는 벤조디아제핀 계열에 비해 부족하다는 근거 한계를 인식해야 한다.
 
 > 이 절은 중추신경계 약물과 안신 이론의 총론적 대응을 개관한 것이며, 개별 안신약의 성미귀경·포제·용량은 본초학 폴더에서, 개별 처방의 군신좌사는 방제학 폴더에서 상세히 다룬다.
 
@@ -122,7 +122,7 @@
 
 #### 2-2. 침과 산조인 계열 한약의 비교 근거
 
-일차성 불면증 환자를 대상으로 한 무작위대조시험에서 침 치료군과 졸피뎀 투여군 모두 수면의 질(PSQI)이 유의하게 개선되었으며 두 군 간 개선 속도·정도에 유의한 차이가 없어, 침이 졸피뎀의 효과적인 비약물적 대안이 될 수 있음을 시사한다[^34]. 산조인은 앞서 언급한 바와 같이 위약 대비 수면 개선 효과가 유의하며 벤조디아제핀·인지행동치료와 견줄 만하다[^31]. 귀비탕·시호룡골모려탕 등 한약 제제가 기존 약물 치료와 대등하거나 더 우수한 수면 개선 효과를 보인 네트워크 메타분석도 있다[^33].
+일차성 불면증 환자를 대상으로 한 무작위대조시험에서 침 치료군과 졸피뎀 투여군 모두 수면의 질(PSQI)이 유의하게 개선되었으며 두 군 간 개선 속도·정도에 유의한 차이가 없어, 침이 졸피뎀의 효과적인 비약물적 대안이 될 수 있음을 시사한다[^34]. 산조인은 앞서 언급한 바와 같이 위약 대비 수면 개선 효과가 유의하며 벤조디아제핀·인지행동치료와 견줄 만하다[^31]. 귀비탕·시호용골모려탕 등 한약 제제가 기존 약물 치료와 대등하거나 더 우수한 수면 개선 효과를 보인 네트워크 메타분석도 있다[^33].
 
 ### 3. 부스피론(Buspirone)과 아자피론(Azapirone) 계열
 
@@ -406,7 +406,7 @@
 [^30]: Pain Alleviation by Electronic Acupuncture Pen versus Ethyl Chloride Spray during Local Anesthetic Injection Procedures: A Randomized Split-mouth Clinical Trial. Bhargava M 외. _International journal of clinical pediatric dentistry_. 2026-07. [임상시험] (환자수 24) [DOI 10.5005/jp-journals-10005-3546](https://doi.org/10.5005/jp-journals-10005-3546) [PMID 42582223](https://pubmed.ncbi.nlm.nih.gov/42582223/) — 전자침 자극이 국소마취 주사 시 통증 완화에서 냉각분무보다 열등함을 보인 RCT.
 [^31]: The Herbal Medicine Suanzaoren ( Ziziphi Spinosae Semen ) for Sleep Quality Improvements: A Systematic Review and Meta-analysis. Mingxiao Yang 외. _Integrative Cancer Therapies_. 2023-01. [메타분석] (환자수 905) [DOI 10.1177/15347354231162080](https://doi.org/10.1177/15347354231162080) — 산조인이 위약 대비 수면의 질을 개선하고 벤조디아제핀·인지행동치료와 견줄 수 있음을 보인 메타분석.
 [^32]: Suan-Zao-Ren decoction for insomnia. Zhijian Song 외. _Medicine_. 2020-08-21. [체계적 고찰] [DOI 10.1097/md.0000000000021658](https://doi.org/10.1097/md.0000000000021658) — 산조인탕의 불면증 치료 근거를 체계적으로 정리한 문헌.
-[^33]: Chinese herbal medicine for insomnia: A systematic review and network meta-analysis. Weiwei Li 외. _Medicine_. 2025-08-15. [메타분석] [DOI 10.1097/md.0000000000043789](https://doi.org/10.1097/md.0000000000043789) — 귀비탕·시호룡골모려탕 등 한약 제제가 기존 약물 치료와 대등하거나 우수한 수면 개선을 보인 네트워크 메타분석.
+[^33]: Chinese herbal medicine for insomnia: A systematic review and network meta-analysis. Weiwei Li 외. _Medicine_. 2025-08-15. [메타분석] [DOI 10.1097/md.0000000000043789](https://doi.org/10.1097/md.0000000000043789) — 귀비탕·시호용골모려탕 등 한약 제제가 기존 약물 치료와 대등하거나 우수한 수면 개선을 보인 네트워크 메타분석.
 [^34]: A comparison between acupuncture versus zolpidem in the treatment of primary insomnia. Tu JH 외. _Asian journal of psychiatry_. 2012-09. [임상시험] (환자수 33) [DOI 10.1016/j.ajp.2011.12.003](https://doi.org/10.1016/j.ajp.2011.12.003) [PMID 22981051](https://pubmed.ncbi.nlm.nih.gov/22981051/) — 침이 졸피뎀과 유사한 수준으로 일차성 불면증의 수면의 질을 개선한다는 임상시험.
 [^35]: Psychosocial intervention for discontinuing benzodiazepine hypnotics in patients with chronic insomnia: A systematic review and meta-analysis. Takaesu Y 외. _Sleep medicine reviews_. 2019-12. [메타분석] [DOI 10.1016/j.smrv.2019.101214](https://doi.org/10.1016/j.smrv.2019.101214) [PMID 31648145](https://pubmed.ncbi.nlm.nih.gov/31648145/) — 인지행동치료 병행이 벤조디아제핀 수면제 중단 성공률을 단기적으로 높인다는 메타분석.
 [^36]: The treatments of chronic insomnia: a review of benzodiazepine receptor agonists and psychological and behavioral therapies. Riemann D 외. _Sleep medicine reviews_. 2009-06. [체계적 고찰] [DOI 10.1016/j.smrv.2008.06.001](https://doi.org/10.1016/j.smrv.2008.06.001) [PMID 19201632](https://pubmed.ncbi.nlm.nih.gov/19201632/) — 벤조디아제핀 수용체 작용제는 단기 효과에 그치고 심리행동치료가 장기 지속성에서 우월하다는 체계적 고찰.

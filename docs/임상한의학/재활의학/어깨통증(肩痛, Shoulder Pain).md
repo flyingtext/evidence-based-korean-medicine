@@ -623,7 +623,7 @@
 - 뇌졸중 후 어깨 통증에 대한 다양한 중재(침·보툴리눔·전기자극 등)의 효과를 종합한 체계적 고찰의 개관에서 통증 감소 효과가 확인되었다[^11]. 다만 어깨-손 증후군에 대한 개별 연구들은 표본 크기가 작고 방법론적 질이 낮은 경우가 많아, 종합적 해석에는 주의가 필요하다.
 - 만성적인 목과 어깨 통증을 겪는 여성 사무직 근로자에게 집중적인 침 치료를 시행했을 때, 통증 완화뿐 아니라 업무 활동 장애 개선, 수면의 질 향상, 불안·우울 감소, 삶의 만족도 증가와 같은 심리사회적 이점이 확인되었다[^125].
 - 요양시설 거주 노인에게 시행한 침과 뜸 치료는 요통(86%), 슬관절통(84%), 견비통(82%) 등 근골격계 통증 개선에 매우 효과적이며, 수면·식욕·배변·일상생활수행능력(ADL)을 전반적으로 향상시킨다[^126]. 지역사회 거주 고령층은 근골격계 질환 발생 시 병원·클리닉을 가장 많이 이용하며, 그다음으로 유도정복사(judo therapist)를 찾는 경향이 있다[^127].
-- 스트레스·피로·견비통을 동반한 청소년의 긴장성 두통에 시호룡골모려탕(柴胡龍骨牡蠣湯)을 처방하여 증상을 완전히 개선하고 장기적 재발 방지 효과를 확인한 증례가 있다[^129]. 이는 정지(情志) 요인이 겸한 견비통에서 시호 계열 처방의 활용 가능성을 시사한다.
+- 스트레스·피로·견비통을 동반한 청소년의 긴장성 두통에 시호용골모려탕(柴胡龍骨牡蠣湯)을 처방하여 증상을 완전히 개선하고 장기적 재발 방지 효과를 확인한 증례가 있다[^129]. 이는 정지(情志) 요인이 겸한 견비통에서 시호 계열 처방의 활용 가능성을 시사한다.
 
 이 치료 요약은 임상 참고 틀이며, 근거 수준(메타분석부터 프로토콜·증례까지)이 상이하므로 동일한 권고 강도로 해석해서는 안 된다. **변증 없는 관행적 취혈·처방은 근거에 부합하지 않으며**, 근막성·뇌졸중 후·수술 후라는 임상 맥락에 따라 치료 강도·기법을 개별화해야 한다.
 
@@ -702,7 +702,7 @@
 
 ### 7. 한약·훈증·기공
 
-한약은 뇌졸중 후 편마비 어깨 통증(훈증 병행)[^103], 견비통(대시호탕·시호룡골모려탕)[^124][^129], 경항부 만성 연조직 손상(온경양혈)[^116] 등에서 보조적 근거가 있다. 태극권·기공은 유방암 관련 어깨 통증·삶의 질 개선에 활용된다[^105].
+한약은 뇌졸중 후 편마비 어깨 통증(훈증 병행)[^103], 견비통(대시호탕·시호용골모려탕)[^124][^129], 경항부 만성 연조직 손상(온경양혈)[^116] 등에서 보조적 근거가 있다. 태극권·기공은 유방암 관련 어깨 통증·삶의 질 개선에 활용된다[^105].
 
 ### 8. 운동치료·자세 교정
 
@@ -998,7 +998,7 @@
 [^126]: [Influence of acupuncture and moxibustion on QOL of the elderly living in nursing home and care house]. _Nihon Ronen Igakkai zasshi. Japanese journal of geriatrics_. 2001-03. [관찰연구] [DOI 10.3143/geriatrics.38.205](https://doi.org/10.3143/geriatrics.38.205) [PMID 11305035](https://pubmed.ncbi.nlm.nih.gov/11305035/) — 요양시설 거주 노인에게 시행한 침과 뜸 치료는 요통(86%), 슬관절통(84%), 견비통(82%) 등 근골격계 통증 개선에 매우 효과적이며, 수면, 식욕, 배변 및 일상생활수행능력(ADL)을 전반적으로 향상시킨다.
 [^127]: Coping behaviors for skeletal muscle injuries and disorders among community-dwelling elderly persons in Japan. _Journal of physical therapy science_. 2019-07. [관찰연구] [DOI 10.1589/jpts.31.536](https://doi.org/10.1589/jpts.31.536) [PMID 31417217](https://pubmed.ncbi.nlm.nih.gov/31417217/) — 지역사회 거주 고령층은 골절, 요통 등 주요 근골격계 질환 발생 시 병원이나 일반 클리닉을 가장 많이 이용하며, 그 다음으로 유도정복사(Judo therapist)를 찾는 경향이 있다.
 [^128]: A comparative study of the usefulness of toki-shakuyaku-san and an oral iron preparation in the treatment of hypochromic anemia in cases of uterine myoma. _Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan_. 2003-09. [임상시험] [DOI 10.1248/yakushi.123.817](https://doi.org/10.1248/yakushi.123.817) [PMID 14513774](https://pubmed.ncbi.nlm.nih.gov/14513774/) — 자궁근종으로 인한 경증 및 중등도 빈혈 환자에게 당귀작약산(當歸芍藥散)은 혈액 수치 자체를 빠르게 올리지는 못하지만, 안면 창백이나 어지럼증 같은 빈혈 증상과 월경과다, 월경통 등의 부인과 증상을 개선하는 데 유용하며 철분제보다 부작용이 적다.
-[^129]: Complete recovery from tension-type headache through Kampo medicine. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2009-07. [증례 보고] [DOI 10.1089/acm.2008.0538](https://doi.org/10.1089/acm.2008.0538) [PMID 19552596](https://pubmed.ncbi.nlm.nih.gov/19552596/) — 스트레스, 피로, 견비통을 동반한 청소년의 긴장성 두통에 柴胡龍骨牡蛎湯(시호룡골모려탕)을 처방하여 증상을 완전히 개선하고 장기적인 재발 방지 효과를 확인하였다.
+[^129]: Complete recovery from tension-type headache through Kampo medicine. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2009-07. [증례 보고] [DOI 10.1089/acm.2008.0538](https://doi.org/10.1089/acm.2008.0538) [PMID 19552596](https://pubmed.ncbi.nlm.nih.gov/19552596/) — 스트레스, 피로, 견비통을 동반한 청소년의 긴장성 두통에 柴胡龍骨牡蛎湯(시호용골모려탕)을 처방하여 증상을 완전히 개선하고 장기적인 재발 방지 효과를 확인하였다.
 [^130]: Cupping therapy versus acupuncture for pain-related conditions: a systematic review of randomized controlled trials and trial sequential analysis. _Chinese medicine_. 2017. [체계적 고찰] [DOI 10.1186/s13020-017-0142-0](https://doi.org/10.1186/s13020-017-0142-0) [PMID 28770000](https://pubmed.ncbi.nlm.nih.gov/28770000/) — 부항요법과 침치료는 통증 완화에 있어 유사한 임상적 효과와 안전성을 보이며, 특히 경추증, 외측대퇴피신경통, 견비통 환자의 증상 개선율에서 비슷한 효능이 확인되었다.
 [^131]: [Observation on the transient analgesic effect of abdominal acupuncture TENS on pain of neck, shoulder, loin and legs]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2007-09. [임상시험] [PMID 17926616](https://pubmed.ncbi.nlm.nih.gov/17926616/) — 복부 침 TENS가 목, 어깨, 허리, 다리의 통증 완화에 유의미한 일시적 진통 효과를 나타내어 임상적으로 활용 가능함을 시사한다. 특히 적은 수의 자극점으로도 높은 유효율(96.
 [^132]: [A Randomized Controlled Clinical Trial for Treatment of Shoulder-back Myofascial Pain Syndrome with Mild Moxibustion at Trigger Points]. _Zhen ci yan jiu = Acupuncture research_. 2016-08-25. [임상시험] [PMID 29071929](https://pubmed.ncbi.nlm.nih.gov/29071929/) — 어깨와 등 부위의 근막통증증후군 치료에 있어 트리거 포인트에 시행하는 온구(Mild Moxibustion) 요법은 침 치료와 유사한 통증 감소 효과를 보이며, 특히 완치 및 현저한 개선율 면에서 침 치료보다 우수한 결과를 나타냈다.

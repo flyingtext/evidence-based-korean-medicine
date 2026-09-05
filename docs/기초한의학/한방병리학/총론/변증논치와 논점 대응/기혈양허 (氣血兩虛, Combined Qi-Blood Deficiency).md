@@ -776,7 +776,7 @@
 
 #### ③ 병태생리
 
-가미귀비탕과 시호가룡골모려탕을 병용한 롱코비드 증례 보고는 안신(불안 완화·신경발생 지원)과 신경염증 억제(미세아교세포 활성 억제)를 동시에 겨냥한 전략을 제시했다[^128] — 심비양허 치법이 단순 진정 이상의 신경면역 조절 기전을 가질 가능성을 시사한다.
+가미귀비탕과 시호가용골모려탕을 병용한 롱코비드 증례 보고는 안신(불안 완화·신경발생 지원)과 신경염증 억제(미세아교세포 활성 억제)를 동시에 겨냥한 전략을 제시했다[^128] — 심비양허 치법이 단순 진정 이상의 신경면역 조절 기전을 가질 가능성을 시사한다.
 
 #### ④ 치료 근거
 
@@ -786,7 +786,7 @@
 - 항우울제 보조요법으로서 귀비탕의 메타분석(620명)은 우울 증상·유효율·회복률의 유의한 개선을 확인했다[^66].
 - 우울증을 동반한 고혈압 환자에서 가감귀비탕이 설트랄린보다 우울·불안·삶의 질 개선에서 우수했다[^67].
 - 롱코비드 환자 112명의 전향적 관찰연구는 가미귀비탕·시호계지탕 병용이 3개월 후 삶의 질 개선과 유의하게 연관됨을 확인했으며, 특히 브레인포그 환자군에서 더 큰 개선을 보였다[^75].
-- 롱코비드 신경정신 증상의 증례에서는 가미귀비탕으로 불안 완화·신경발생 지원 후 시호가룡골모려탕으로 미세아교세포 활성을 억제하는 단계적 전략이 브레인포그·피로·불안의 유의한 개선과 업무 복귀로 이어졌다[^128].
+- 롱코비드 신경정신 증상의 증례에서는 가미귀비탕으로 불안 완화·신경발생 지원 후 시호가용골모려탕으로 미세아교세포 활성을 억제하는 단계적 전략이 브레인포그·피로·불안의 유의한 개선과 업무 복귀로 이어졌다[^128].
 
 #### ⑤ 예후
 
@@ -1086,7 +1086,7 @@ Evidence from Randomized Controlled Trials. Jinlong Zhao 외. _Combinatorial Che
 [^125]: Symptoms Based on Deficiency Syndrome in Traditional Chinese Medicine Might Be Predictor of Frailty in Elderly Community Dwellers. Zhen Qi 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-08-26. [관찰연구, 2249명] [DOI 10.1155/2021/9918811](https://doi.org/10.1155/2021/9918811) — 한의학적 허증 관련 증상(사지냉증, 무기력, 하지무력 등)을 기존의 노쇠 평가 지표에 추가함으로써 지역사회 노인의 노쇠 위험을 더 정확하게 예측할 수 있다.
 [^126]: Kampo Medicines for Frailty in Locomotor Disease. Nakae H 외. _Frontiers in nutrition_. 2018. [문헌 고찰] [DOI 10.3389/fnut.2018.00031](https://doi.org/10.3389/fnut.2018.00031) [PMID 29755984](https://pubmed.ncbi.nlm.nih.gov/29755984/) — 근골격계 질환으로 인한 노쇠 환자에게 환자의 상태(신허, 어혈, 기허, 기혈양허)에 맞춘 한방 제제를 선택적으로 투여함으로써 신체적, 심리적 기능을 개선할 수 있다.
 [^127]: A Short Commentary on Traditional Chinese Sports on Elderly Adults with Frailty or Sarcopenia. Wen Zhong. _Journal of Alternative, Complementary &amp; Integrative Medicine_. 2022-12-31. [문헌 고찰] [DOI 10.24966/acim-7562/100308](https://doi.org/10.24966/acim-7562/100308) — 노쇠는 가역적인 특성이 있으므로, 전노쇠(pre-frail).
-[^128]: Integrative strategy for Long COVID neuropsychiatric symptoms: A case report on Kamikihito and Bupleurum-Scutellaria formulas guided by pharmacological rationale. Ono R 외. _Explore (New York, N.Y.)_. . [증례 보고, 1명] [DOI 10.1016/j.explore.2026.103353](https://doi.org/10.1016/j.explore.2026.103353) [PMID 41785725](https://pubmed.ncbi.nlm.nih.gov/41785725/) — Long COVID로 인한 브레인 포그와 신경정신과적 증상에 대해 신경발생 촉진(가미귀비탕)과 신경염증 억제(시호가룡골모려탕 등)를 동시에 겨냥한 통합적 한방 치료 전략이 효과적일 수 있음을 시사한다.
+[^128]: Integrative strategy for Long COVID neuropsychiatric symptoms: A case report on Kamikihito and Bupleurum-Scutellaria formulas guided by pharmacological rationale. Ono R 외. _Explore (New York, N.Y.)_. . [증례 보고, 1명] [DOI 10.1016/j.explore.2026.103353](https://doi.org/10.1016/j.explore.2026.103353) [PMID 41785725](https://pubmed.ncbi.nlm.nih.gov/41785725/) — Long COVID로 인한 브레인 포그와 신경정신과적 증상에 대해 신경발생 촉진(가미귀비탕)과 신경염증 억제(시호가용골모려탕 등)를 동시에 겨냥한 통합적 한방 치료 전략이 효과적일 수 있음을 시사한다.
 [^129]: A Discussion on the Pathogenesis and Current Treatment of Vitiligo of the Qi and Blood Deficiency Type Based on the Theory of Qi and Blood Disharmony. Taofei Han 외. _Journal of Artificial Intelligence and Information_. 2026-07-30. [문헌 고찰] [DOI 10.66069/ojspub.27450780](https://doi.org/10.66069/ojspub.27450780) — 백반증의 병태생리에서 기혈부족(氣血不足)이 핵심적인 병리적 연결 고리임을 확인하였으며, 이를 타겟으로 한 치료가 질환의 진행을 효과적으로 억제할 수 있음을 시사한다.
 
 **고전 인용 출처**: 『黃帝內經素問』, 『靈樞』(決氣), 『金匱要略』(婦人産後病脈證幷治), 『正體類要』(八珍湯), 『太平惠民和劑局方』(十全大補湯, 人蔘養榮湯), 『濟生方』·『內科摘要』(歸脾湯, 加味歸脾湯), 『內外傷辨惑論』(當歸補血湯), 『景岳全書』

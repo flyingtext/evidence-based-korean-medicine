@@ -67,7 +67,7 @@
 | 귀비탕(歸脾湯) | 심비양허(心脾兩虛) | 심계·건망·핍력·식소, 황기·용안육·산조인 |
 | 산조인탕(酸棗仁湯) | 간혈허(肝血虛)로 인한 허번불면 | 허번불면·심계 위주, 화열 증상 뚜렷하지 않음 |
 | 반하후박탕(半夏厚朴湯) | 담기울결(痰氣鬱結, 매핵기) | 인후 이물감·흉민, 반하·후박·자소엽 위주 |
-| 시호가룡골모려탕(柴胡加龍骨牡蠣湯) | 간담화왕(肝膽火旺)으로 인한 경계·불면 | 흉만번경·불안·불면이 더 뚜렷, 용골·모려 진정 배합 |
+| 시호가용골모려탕(柴胡加龍骨牡蠣湯) | 간담화왕(肝膽火旺)으로 인한 경계·불면 | 흉만번경·불안·불면이 더 뚜렷, 용골·모려 진정 배합 |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
@@ -97,7 +97,7 @@
 
 ### 10. 시호(柴胡) — 소간해울의 군약(君藥)
 
-시호는 소간해울(疏肝解鬱)·승양거함(升陽擧陷)의 효능을 가진 군약(君藥)으로, 사이코사포닌(saikosaponin) 등의 성분이 항염증·신경내분비 조절 작용을 나타낸다.(교과서적 근거) 시호를 포함한 캄포 방제(가미소요산·시호가룡골모려탕 등)가 일본 임상에서 빈용되는 배경에는 시호의 정서·자율신경 조절 효능에 대한 오랜 임상 경험이 축적되어 있다.[^50][^54]
+시호는 소간해울(疏肝解鬱)·승양거함(升陽擧陷)의 효능을 가진 군약(君藥)으로, 사이코사포닌(saikosaponin) 등의 성분이 항염증·신경내분비 조절 작용을 나타낸다.(교과서적 근거) 시호를 포함한 캄포 방제(가미소요산·시호가용골모려탕 등)가 일본 임상에서 빈용되는 배경에는 시호의 정서·자율신경 조절 효능에 대한 오랜 임상 경험이 축적되어 있다.[^50][^54]
 
 ### 11. 당귀(當歸)·작약(芍藥) — 양혈유간의 신약(臣藥)
 
@@ -123,7 +123,7 @@
 
 가미소요산(Modified Xiaoyao Pill)과 아미트립틸린 병용은 플루옥세틴과 유사한 우울증 치료 효과를 보이면서 부작용이 적고 경제적이며 재발률이 낮았다.[^18] 카바마제핀과 가미소요산 병용은 양극성 장애의 우울 삽화 환자에서 단독 요법보다 우수한 증상 개선·높은 임상 반응률을 보였고, 어지러움·피로감 부작용이 감소하였다.[^20] 가미소요산 캡슐은 경증~중등도 불안 동반 주요우울장애 환자에서 설트랄린과 우울 개선 효과가 동등하면서 불안·수면·신체 증상 개선은 더 빠르고 우수하였다.[^65] 우울증 환자에게 소요산·가미소요산 계열과 약물 병용 시 장-뇌 축 회복을 통한 증상 개선이 기대된다.[^2]
 
-가미소요산이 포함된 우울증 처방 네트워크 메타분석(17종 중약 비교)에서도 다수 처방이 항우울제와 유사하거나 더 나은 효능을 보이면서 부작용률은 현저히 낮았다. 대만 전국 처방 데이터에서 우울장애의 핵심 처방 패턴에 감맥대조탕(甘麥大棗湯)·가미소요산·시호가룡골모려탕의 조합이 확인되어, 실제 임상에서 가미소요산이 정서장애 처방군의 핵심축으로 기능하고 있음을 보여준다.[^72]
+가미소요산이 포함된 우울증 처방 네트워크 메타분석(17종 중약 비교)에서도 다수 처방이 항우울제와 유사하거나 더 나은 효능을 보이면서 부작용률은 현저히 낮았다. 대만 전국 처방 데이터에서 우울장애의 핵심 처방 패턴에 감맥대조탕(甘麥大棗湯)·가미소요산·시호가용골모려탕의 조합이 확인되어, 실제 임상에서 가미소요산이 정서장애 처방군의 핵심축으로 기능하고 있음을 보여준다.[^72]
 
 범불안장애(GAD) 환자를 대상으로 한 다기관 무작위 이중맹검 위약대조 임상시험에서는 가미소요산이 불안 척도 자체는 유의하게 개선하지 못했으나, 삶의 질을 유의하게 향상시키고 우울·신체 증상을 감소시켰으며, 특히 심혈허(心血虛) 변증 환자에서 다성분 복합 추출물의 효과가 더 우수하였다.[^66] 이는 가미소요산이 불안장애 전반보다는 간울화화·심혈허가 겸협된 변증군에서 더 특이적으로 작용함을 시사한다.
 
@@ -378,7 +378,7 @@ HRT 금기 환자에서 가미소요산이 HRT와 유사한 증상 완화 효과
 [^69]: The utilization of traditional Chinese medicine in patients with dysfunctional uterine bleeding in Taiwan: a nationwide population-based study. Lin YR 외. _BMC Complementary and Alternative Medicine_. 2017-08. [관찰연구] [DOI 10.1186/s12906-017-1939-1](https://doi.org/10.1186/s12906-017-1939-1) [PMID 28851349](https://pubmed.ncbi.nlm.nih.gov/28851349/) — 대만 기능성 자궁출혈 환자 89.69%가 중의학 이용, 최다 처방은 가미소요산.
 [^70]: Coprescription of Chinese herbal medicine and Western medication among female patients with breast cancer in Taiwan: analysis of national insurance claims. Wang BR 외. _Patient Preference and Adherence_. 2014. [관찰연구] [DOI 10.2147/PPA.S61280](https://doi.org/10.2147/PPA.S61280) [PMID 24855343](https://pubmed.ncbi.nlm.nih.gov/24855343/) — 대만 유방암 환자 중 중약 사용자 80%가 양약과 병용, 최다 사용 중약은 가미소요산.
 [^71]: Identifying Chinese herbal medicine for premenstrual syndrome: implications from a nationwide database. Chen HY 외. _BMC Complementary and Alternative Medicine_. 2014-06. [관찰연구] [DOI 10.1186/1472-6882-14-206](https://doi.org/10.1186/1472-6882-14-206) [PMID 24969368](https://pubmed.ncbi.nlm.nih.gov/24969368/) — PMS 처방 네트워크에서 가미소요산이 전체 처방의 37.5%로 핵심 처방.
-[^72]: Core prescription pattern of Chinese herbal medicine for depressive disorders in Taiwan: a nationwide population-based study. Tran DNH 외. _Integrative Medicine Research_. 2021-09. [관찰연구] [DOI 10.1016/j.imr.2020.100707](https://doi.org/10.1016/j.imr.2020.100707) [PMID 33665095](https://pubmed.ncbi.nlm.nih.gov/33665095/) — 우울장애 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가룡골모려탕 조합 확인.
+[^72]: Core prescription pattern of Chinese herbal medicine for depressive disorders in Taiwan: a nationwide population-based study. Tran DNH 외. _Integrative Medicine Research_. 2021-09. [관찰연구] [DOI 10.1016/j.imr.2020.100707](https://doi.org/10.1016/j.imr.2020.100707) [PMID 33665095](https://pubmed.ncbi.nlm.nih.gov/33665095/) — 우울장애 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가용골모려탕 조합 확인.
 [^73]: Pharmacokinetic characteristics of ferulic acid in patients with different syndromes of deficiency of spleen qi, stagnation of liver qi and spleen deficiency, and excess of stomach heat. Ren P 외. _Journal of Chinese Integrative Medicine_. 2006-03. [관찰연구] [DOI 10.3736/jcim20060208](https://doi.org/10.3736/jcim20060208) [PMID 16529690](https://pubmed.ncbi.nlm.nih.gov/16529690/) — 변증(간기울결·비기허 등)에 따라 당귀 성분 페룰산의 흡수·분포·제거 약동학이 뚜렷하게 차이남.
 [^74]: Traditional Chinese Medicine Treatment Associated with Female Infertility in Taiwan: A Population-Based Case-Control Study. Liao YH 외. _Evidence-Based Complementary and Alternative Medicine_. 2020. [관찰연구] [DOI 10.1155/2020/3951741](https://doi.org/10.1155/2020/3951741) [PMID 33381200](https://pubmed.ncbi.nlm.nih.gov/33381200/) — 한의학 치료 여성이 임신 성공률 유의하게 높음(OR=1.48), 사물탕·계지복령환·가미소요산이 강한 연관.
 [^75]: Investigation on the Use of Traditional Chinese Medicine for Polycystic Ovary Syndrome in a Nationwide Prescription Database in Taiwan. Liao WT 외. _Journal of Clinical Medicine_. 2018-07. [관찰연구] [DOI 10.3390/jcm7070179](https://doi.org/10.3390/jcm7070179) [PMID 30037150](https://pubmed.ncbi.nlm.nih.gov/30037150/) — 신규 진단 PCOS 여성 89.22%가 중의학 치료, 최다 처방은 가미소요산.

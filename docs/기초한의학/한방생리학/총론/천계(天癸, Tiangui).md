@@ -182,7 +182,7 @@
 | 이지환(二至丸) 및 이지천귀과립 계열 | 『의방집해(醫方集解)』 및 현대 경험방 | 간신음허, 천계 개념을 직접 결합한 현대 처방 |
 | 지백지황환(知柏地黃丸) | 『의종금감(醫宗金鑑)』 | 음허화왕형 성조숙증 |
 | 당귀보혈탕(當歸補血湯) | 『내외상변혹론(內外傷辨惑論)』 | 혈허 겸 갱년기 혈관운동증상 |
-| 시호가룡골모려탕(柴胡加龍骨牡蠣湯) | 『상한론(傷寒論)』 | 증상성 정상성선증형 LOH, 간기울결 겸증 |
+| 시호가용골모려탕(柴胡加龍骨牡蠣湯) | 『상한론(傷寒論)』 | 증상성 정상성선증형 LOH, 간기울결 겸증 |
 
 > 위 처방 개관표는 임상 틀이며 동일 근거수준의 권고가 아니다. 실제 처방 선택은 반드시 개별 환자의 변증과 겸증을 종합해 결정해야 하며, 이 표만으로 처방을 선택해서는 안 된다. 각 처방의 상세한 임상 근거는 이 문서 제3~4편의 해당 병증 절(초경·PCOS·DOR·POI·갱년기·LOH)에서 확인할 수 있다.
 
@@ -425,7 +425,7 @@ LOH의 한약 치료 근거는 진성 저테스토스테론혈증에 대한 단�
 | 복방현주캡슐(復方玄駒膠囊) | LOH, TRT 대안 | 성욕·발기부전 개선, 테스토스테론 수치 불변(TRT 금기자 대안)(107명)[^141] |
 | 기린환(麒麟丸) | TRT 병용 | IIEF-5·TT 개선, AMS 감소가 TRT 단독보다 우수(63명)[^142] |
 | 가융정(加茸片, JRT) | TUC 병용 | AMS·IIEF-5·테스토스테론 개선, 적혈구증가·PSA상승 없음(200명)[^143] |
-| 시호가룡골모려탕(柴胡加龍骨牡蠣湯) | 증상성 정상성선증 | 사이토카인(IL-8·IL-13·IFN-γ·TNF-α) 조절 통해 AMS 개선(호르몬 비의존적 기전)[^144][^145] |
+| 시호가용골모려탕(柴胡加龍骨牡蠣湯) | 증상성 정상성선증 | 사이토카인(IL-8·IL-13·IFN-γ·TNF-α) 조절 통해 AMS 개선(호르몬 비의존적 기전)[^144][^145] |
 | 간포(Kampo) 개별 맞춤 치료 | 실태 조사 | 약 71%에서 SMI 점수 개선(151명)[^146] |
 | 인삼베리 추출물(SIRTBERRY™) | 위약대조 이중맹검 | 성기능·삶의 질 개선(116명)[^147] |
 | TESTOPEAK™ | 8주 무작위 | 갱년기증상·성기능·지질프로필·체성분 개선(96명)[^148] |
@@ -434,7 +434,7 @@ LOH의 한약 치료 근거는 진성 저테스토스테론혈증에 대한 단�
 
 > 위 LOH 한약치료 근거표는 임상 틀이지 동일 근거수준의 권고가 아니다. LOH는 반드시 전립선암·심혈관질환 등 TRT 금기를 배제한 뒤 접근해야 하며, 증상성 정상성선증(테스토스테론 정상이나 증상 호소)과 진성 저테스토스테론혈증을 감별하지 않은 관행적 보신 처방 적용은 근거에 부합하지 않는다.
 
-이 표에서 특히 주목할 부분은 시호가룡골모려탕처럼 혈청 테스토스테론 수치를 직접 높이지 않으면서도 사이토카인 조절을 통해 증상을 개선하는 처방이 존재한다는 점이다. 이는 임상적으로 "테스토스테론 수치가 정상이니 LOH가 아니다"라고 단순히 배제하기보다, 증상성 정상성선증이라는 별도의 임상 단위를 인정하고 이에 맞는 치법(간기소통·안신)을 적용할 필요가 있음을 시사한다.
+이 표에서 특히 주목할 부분은 시호가용골모려탕처럼 혈청 테스토스테론 수치를 직접 높이지 않으면서도 사이토카인 조절을 통해 증상을 개선하는 처방이 존재한다는 점이다. 이는 임상적으로 "테스토스테론 수치가 정상이니 LOH가 아니다"라고 단순히 배제하기보다, 증상성 정상성선증이라는 별도의 임상 단위를 인정하고 이에 맞는 치법(간기소통·안신)을 적용할 필요가 있음을 시사한다.
 
 > 위 LOH 한약치료 근거표는 임상 틀이지 동일 근거수준의 권고가 아니다. LOH는 반드시 전립선암·심혈관질환 등 TRT 금기를 배제한 뒤 접근해야 하며, 증상성 정상성선증(테스토스테론 정상이나 증상 호소)과 진성 저테스토스테론혈증을 감별하지 않은 관행적 보신 처방 적용은 근거에 부합하지 않는다.
 
@@ -919,8 +919,8 @@ AMH는 발달 중인 난포의 과립막세포에서 분비되어 원시난포�
 [^141]: Clinical efficacy of Chinese traditional herbal medicine (Fufang Xuanju capsule) on males of late-onset hypogonadism presenting with sexual dysfunction. _Medicine_. 2025-01-03. [임상시험, 107명] [DOI 10.1097/md.0000000000041160](https://doi.org/10.1097/md.0000000000041160) — 복방현주캡슐은 후기 발현 성선기능저하증(LOH) 남성의 성욕 및 발기부전 증상을 개선하는 데 효과적이며 안전한 치료제임이 확인되었다.
 [^142]: [Oral Testosterone Undecanoate Capsules combined with Qilin Pills for late-onset hypogonadism in males].. _Zhonghua nan ke xue = National journal of andrology_. 2017-05. [임상시험, 63명] [PMID 29717839](https://pubmed.ncbi.nlm.nih.gov/29717839/) — 남성 지발성 성선기능저하증(LOH) 환자에게 테스토스테론 보충 요법과 기린환(麒麟丸)을 병용 투여했을 때, 단독 요법보다 성기능(IIEF-5) 및 호르몬 수치(TT) 개선 효과가 더 뛰어나고 노화 증상(AMS)은 더 효과적으로 감소시켰다.
 [^143]: [Jiarong Tablets combined with Testosterone Undecanoate Capsules for late-onset hypogonadism in males: A multicentered clinical trial].. _Zhonghua nan ke xue = National journal of andrology_. 2020-04. [임상시험, 200명] [PMID 33351303](https://pubmed.ncbi.nlm.nih.gov/33351303/) — 남성 갱년기 증후군(LOH) 환자에게 가융정(JRT)을 테스토스테론 운데카노에이트(TUC)와 병용 투여했을 때, TUC 단독 투여보다 남성 갱년기 증상(AMS)과 성기능(IIEF-5) 및 혈청 테스토스테론 수치를 유의하게 개선시키는 것으로 나타났다.
-[^144]: Change in cytokine levels after administration of saikokaryuukotsuboreito or testosterone in patients with symptoms of late-onset hypogonadism.. _The aging male : the official journal of the International Society for the Study of the Aging Male_. 2011-03. [임상시험, 31명] [DOI 10.3109/13685538.2010.502268](https://doi.org/10.3109/13685538.2010.502268) [PMID 20712429](https://pubmed.ncbi.nlm.nih.gov/20712429/) — 본 연구는 테스토스테론 수치가 정상임에도 남성 갱년기 증상을 겪는 환자에게 시호가룡골모려탕(SKRBT)이 효과적일 수 있음을 시사한다.
-[^145]: Clinical trial of treatment with saikokaryukotsuboreito for eugonadal patients with late-inset hypogonadism-related symptoms.. _The aging male : the official journal of the International Society for the Study of the Aging Male_. 2008-06. [임상시험, 22명] [DOI 10.1080/13685530802172529](https://doi.org/10.1080/13685530802172529) [PMID 18570062](https://pubmed.ncbi.nlm.nih.gov/18570062/) — 정상적인 테스토스테론 수치를 유지하고 있음에도 불구하고 LOH(후기 발현 성선기능저하증) 관련 증상을 호소하는 중년 남성 환자에게 시호가룡골모려탕(SKRBT) 투여가 증상 개선에 효과적일 수 있음을 시사한다.
+[^144]: Change in cytokine levels after administration of saikokaryuukotsuboreito or testosterone in patients with symptoms of late-onset hypogonadism.. _The aging male : the official journal of the International Society for the Study of the Aging Male_. 2011-03. [임상시험, 31명] [DOI 10.3109/13685538.2010.502268](https://doi.org/10.3109/13685538.2010.502268) [PMID 20712429](https://pubmed.ncbi.nlm.nih.gov/20712429/) — 본 연구는 테스토스테론 수치가 정상임에도 남성 갱년기 증상을 겪는 환자에게 시호가용골모려탕(SKRBT)이 효과적일 수 있음을 시사한다.
+[^145]: Clinical trial of treatment with saikokaryukotsuboreito for eugonadal patients with late-inset hypogonadism-related symptoms.. _The aging male : the official journal of the International Society for the Study of the Aging Male_. 2008-06. [임상시험, 22명] [DOI 10.1080/13685530802172529](https://doi.org/10.1080/13685530802172529) [PMID 18570062](https://pubmed.ncbi.nlm.nih.gov/18570062/) — 정상적인 테스토스테론 수치를 유지하고 있음에도 불구하고 LOH(후기 발현 성선기능저하증) 관련 증상을 호소하는 중년 남성 환자에게 시호가용골모려탕(SKRBT) 투여가 증상 개선에 효과적일 수 있음을 시사한다.
 [^146]: Clinical efficacy of Japanese traditional herbal medicine (Kampo) in patients with late-onset hypogonadism.. _The aging male : the official journal of the International Society for the Study of the Aging Male_. 2010-09. [관찰연구, 151명] [DOI 10.3109/13685530903536684](https://doi.org/10.3109/13685530903536684) [PMID 20143961](https://pubmed.ncbi.nlm.nih.gov/20143961/) — 남성 갱년기 증후군(LOH) 환자에게 환자 개별 상태에 맞춘 한약(Kampo) 치료를 시행했을 때, 약 71%의 환자에서 증상 완화 또는 SMI 점수 개선 효과가 나타났으며 안전성 또한 양호하였다.
 [^147]: Efficacy and Safety of Ginseng Berry Extract (SIRTBERRY™) in Treating Andropause Symptoms: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial.. _The world journal of men's health_. 2026-01. [임상시험, 116명] [DOI 10.5534/wjmh.240311](https://doi.org/10.5534/wjmh.240311) [PMID 40583012](https://pubmed.ncbi.nlm.nih.gov/40583012/) — 인삼베리 추출물(SIRTBERRY™)은 고령 남성의 갱년기 증상, 특히 성기능(발기능) 및 전반적인 삶의 질 지표를 유의하게 개선하며 안전성이 확인되었다.
 [^148]: Efficacy and Safety of TESTOPEAK(™) in Improving Symptoms of Andropause in Korean Men: An 8-Week, Single-Center, Randomized, Parallel-Group, Placebo-Controlled Trial.. _American journal of men's health_. 2026-08-13. [임상시험, 96명] [DOI 10.1177/15579883261423878](https://doi.org/10.1177/15579883261423878) [PMID 41923399](https://pubmed.ncbi.nlm.nih.gov/41923399/) — TESTOPEAK™는 중장년 및 노년 남성의 갱년기 증상을 완화하고 성기능 및 호르몬 수치, 지질 프로필 및 체성분을 개선하는 데 효과적이고 안전한 천연 화합물임이 확인되었다.

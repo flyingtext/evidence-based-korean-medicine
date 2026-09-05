@@ -61,7 +61,7 @@
 | 산조인탕(酸棗仁湯) | 간혈허(肝血虛)로 인한 허번불면 | 허번불면·심계 위주, 산조인·지모·천궁 배합 |
 | 귀비탕(歸脾湯) | 심비양허(心脾兩虛) | 심계·건망·핍력·식소, 황기·용안육·산조인 배합 |
 | 천왕보심단(天王補心丹) | 심신음허(心腎陰虛) | 심계불면·건망·구생창, 생지황·인삼(人蔘)·단삼 배합 |
-| 시호가룡골모려탕(柴胡加龍骨牡蠣湯) | 간담화왕(肝膽火旺)으로 인한 경계·불면 | 흉만번경·불안이 더 뚜렷, 용골·모려 진정 배합 |
+| 시호가용골모려탕(柴胡加龍骨牡蠣湯) | 간담화왕(肝膽火旺)으로 인한 경계·불면 | 흉만번경·불안이 더 뚜렷, 용골·모려 진정 배합 |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
@@ -108,7 +108,7 @@
 
 기존 항우울제의 부작용·효능 한계를 극복하기 위한 천연물·한약(감맥대조탕 포함)의 항우울 잠재력을 종합한 리뷰가 존재한다.[^7] 감맥대조탕을 포함한 9개 항우울 한약 처방의 민족약리학·성분·약리학적 개관에서도 감맥대조탕의 항우울 기전이 정리되었다.[^24] 우울증 치료에서 한약이 신경내분비 생물학적 지표(HPA축·시상하부-뇌하수체-부신축)를 조절하는 근거를 정리한 메타분석이 있다.[^14] 장-뇌 축 및 NLRP3/TLR4 염증 경로와 장내 미생물 조절을 통해 한약이 우울증을 개선하는 기전을 정리한 고찰이 있다.[^20]
 
-대만 전국 처방 데이터에서 우울장애의 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가룡골모려탕의 조합이 확인되어, 실제 임상에서 감맥대조탕이 정서장애 처방군의 핵심축으로 기능하고 있음을 보여준다.[^30]
+대만 전국 처방 데이터에서 우울장애의 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가용골모려탕의 조합이 확인되어, 실제 임상에서 감맥대조탕이 정서장애 처방군의 핵심축으로 기능하고 있음을 보여준다.[^30]
 
 > 변증 없는 관행적 처방은 근거에 부합하지 않는다. 우울 증상을 호소하는 환자에서 장조증·심비허·간기울결 등 변증을 먼저 파악하고, 그에 맞는 처방을 선택하는 것이 원칙이다.[^1][^19]
 
@@ -132,9 +132,9 @@
 
 건강한 성인을 대상으로 한 무작위 대조 시험에서 감맥대조탕(50ml, 3주)이 스트레스 수준을 유의하게 감소시켰으며, 상태-불안·삶의 질 지표에는 유의한 차이가 없었다.[^3] 감맥대조탕은 정서 안정·스트레스 완화 목적으로 적용 근거가 있으며, 불안 증상에 대한 추가 검증이 필요하다.[^3][^7]
 
-범불안장애에서 감맥대조탕과 유사 계열의 안신(安神) 한약 제제(구미진심과립)의 유효성·안전성을 평가한 메타분석에서는 불안 척도 자체의 개선은 뚜렷하지 않았으나 관련 신체·정서 증상 개선이 확인되었다.[^27] 관상동맥질환에 불안이 동반된 환자에서 중약 치료(안신제 포함)의 효과를 검증한 체계적 고찰,[^44] 그리고 관상동맥질환 환자의 불안·우울 동반 시 중약 치료의 효과·특징을 정리한 메타분석에서도 안신 계열 한약의 보조적 가치가 뒷받침된다.[^49] 시호가룡골모려탕(안신 계열 비교 처방)의 불안 동반 빈맥부정맥 치료에 대한 델파이 합의 지침도 이러한 안신제의 임상 활용 범위를 보여준다.[^45] 소아·청소년 불안장애에 대한 중성약(안신제 포함) 비교 효과·안전성 평가 프로토콜도 등록되어 있다.[^50]
+범불안장애에서 감맥대조탕과 유사 계열의 안신(安神) 한약 제제(구미진심과립)의 유효성·안전성을 평가한 메타분석에서는 불안 척도 자체의 개선은 뚜렷하지 않았으나 관련 신체·정서 증상 개선이 확인되었다.[^27] 관상동맥질환에 불안이 동반된 환자에서 중약 치료(안신제 포함)의 효과를 검증한 체계적 고찰,[^44] 그리고 관상동맥질환 환자의 불안·우울 동반 시 중약 치료의 효과·특징을 정리한 메타분석에서도 안신 계열 한약의 보조적 가치가 뒷받침된다.[^49] 시호가용골모려탕(안신 계열 비교 처방)의 불안 동반 빈맥부정맥 치료에 대한 델파이 합의 지침도 이러한 안신제의 임상 활용 범위를 보여준다.[^45] 소아·청소년 불안장애에 대한 중성약(안신제 포함) 비교 효과·안전성 평가 프로토콜도 등록되어 있다.[^50]
 
-> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 불안·스트레스 증상에서도 심비허 위주인지 간담화왕 위주인지 감별한 뒤 감맥대조탕·시호가룡골모려탕 등을 선택하는 것이 원칙이다.[^27][^45]
+> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 불안·스트레스 증상에서도 심비허 위주인지 간담화왕 위주인지 감별한 뒤 감맥대조탕·시호가용골모려탕 등을 선택하는 것이 원칙이다.[^27][^45]
 
 ### 17. 소아 야제증·수면 장애군
 
@@ -312,7 +312,7 @@ COVID-19 생존자의 정신 건강 문제(불안·우울·불면)에 대한 중
 [^27]: Efficacy and Safety of a Formulated Herbal Granula, Jiu Wei Zhen Xin, for Generalized Anxiety Disorder: A Meta-Analysis. Wang S 외. _Evidence-Based Complementary and Alternative Medicine_. 2018. [메타분석] [DOI 10.1155/2018/9090181](https://doi.org/10.1155/2018/9090181) [PMID 29707037](https://pubmed.ncbi.nlm.nih.gov/29707037/) — 범불안장애에서 감맥대조탕과 유사 계열의 안신(安神) 한약 제제(구미진심과립)의 유효성·안전성 메타분석.
 [^28]: Traditional Chinese Medicine Formulas against Insomnia: A Systematic Review and Meta-analysis. JENCHIN LIN 외. 2022-05. [메타분석] [DOI 10.21203/rs.3.rs-1591771/v1](https://doi.org/10.21203/rs.3.rs-1591771/v1) — 불면증에 대한 중약 처방(감맥대조탕 포함)의 체계적 고찰·메타분석, 9,620명 분석.
 [^29]: From the perspective of Traditional Chinese Medicine: Treatment of mental disorders in COVID-19 survivors. Ma K 외. _Biomedicine & Pharmacotherapy_. 2020-12. [문헌고찰] [DOI 10.1016/j.biopha.2020.110810](https://doi.org/10.1016/j.biopha.2020.110810) [PMID 33053508](https://pubmed.ncbi.nlm.nih.gov/33053508/) — COVID-19 생존자의 정신 건강 문제(불안·우울·불면)에 대한 중의학적 치료 관점 개관.
-[^30]: Core prescription pattern of Chinese herbal medicine for depressive disorders in Taiwan: a nationwide population-based study. Tran DNH 외. _Integrative Medicine Research_. 2021-09. [관찰연구] [DOI 10.1016/j.imr.2020.100707](https://doi.org/10.1016/j.imr.2020.100707) [PMID 33665095](https://pubmed.ncbi.nlm.nih.gov/33665095/) — 대만 전국 처방 데이터에서 우울장애 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가룡골모려탕 조합 확인.
+[^30]: Core prescription pattern of Chinese herbal medicine for depressive disorders in Taiwan: a nationwide population-based study. Tran DNH 외. _Integrative Medicine Research_. 2021-09. [관찰연구] [DOI 10.1016/j.imr.2020.100707](https://doi.org/10.1016/j.imr.2020.100707) [PMID 33665095](https://pubmed.ncbi.nlm.nih.gov/33665095/) — 대만 전국 처방 데이터에서 우울장애 핵심 처방 패턴에 감맥대조탕·가미소요산·시호가용골모려탕 조합 확인.
 [^31]: [Clinical characteristics of five elderly patients with severe hypokalemia induced by glycyrrhizin derivatives]. Yamamoto T 외. _Nihon Jinzo Gakkai Shi_. 2010. [증례] [PMID 20166546](https://pubmed.ncbi.nlm.nih.gov/20166546/) — 감초 유래 글리시르리진 제제로 인한 고령 환자의 중증 저칼륨혈증 증례.
 [^32]: 3-Monoglucuronyl glycyrrhretinic acid is a possible marker compound related to licorice-induced pseudoaldosteronism. Makino T. _Biological & Pharmaceutical Bulletin_. 2014. [문헌고찰] [DOI 10.1248/bpb.b13-00997](https://doi.org/10.1248/bpb.b13-00997) [PMID 24882402](https://pubmed.ncbi.nlm.nih.gov/24882402/) — 감초 유발 가성알도스테론증의 원인 표지 물질 규명 연구.
 [^33]: 18β-glycyrrhetyl-3-O-sulfate would be a causative agent of licorice-induced pseudoaldosteronism. Ishiuchi K 외. _Scientific Reports_. 2019-02. [실험연구] [DOI 10.1038/s41598-018-38182-2](https://doi.org/10.1038/s41598-018-38182-2) [PMID 30733510](https://pubmed.ncbi.nlm.nih.gov/30733510/) — 감초 유발 가성알도스테론증의 원인 물질을 인체 대사 데이터로 규명.
@@ -327,7 +327,7 @@ COVID-19 생존자의 정신 건강 문제(불안·우울·불면)에 대한 중
 [^42]: Treatment of Insomnia With Traditional Chinese Herbal Medicine. Singh A 외. _International Review of Neurobiology_. 2017. [문헌고찰] [DOI 10.1016/bs.irn.2017.02.006](https://doi.org/10.1016/bs.irn.2017.02.006) [PMID 28807167](https://pubmed.ncbi.nlm.nih.gov/28807167/) — 전통 한약(감맥대조탕·산조인탕 등 안신제)의 불면증 치료 활용을 정리한 개관.
 [^43]: Efficacy of oral administration of licorice as an adjunct therapy on improving the symptoms of patients with Parkinson's disease, A randomized double blinded clinical trial. Petramfar P 외. _Journal of Ethnopharmacology_. 2020-01. [임상시험] [DOI 10.1016/j.jep.2019.112226](https://doi.org/10.1016/j.jep.2019.112226) [PMID 31574343](https://pubmed.ncbi.nlm.nih.gov/31574343/) — 감초 경구 투여가 파킨슨병 보조 치료로서 증상 개선에 유효, 감초 단일 약재의 임상 근거.
 [^44]: Chinese herbal medicine therapy for coronary heart disease complicated with anxiety: a systematic review of randomized controlled trials. Wang C 외. _Journal of Traditional Chinese Medicine_. 2020-02. [체계적 고찰] [PMID 32227761](https://pubmed.ncbi.nlm.nih.gov/32227761/) — 관상동맥질환에 불안이 동반된 환자에서 중약 치료(안신제 포함)의 효과를 검증한 체계적 고찰.
-[^45]: [Prescriptions and syndromes of Chaihu and Longgu Muli Decoction for treatment of tachyarrhythmia accompanied by anxiety state based on Delphi method]. Liu G 외. _China Journal of Chinese Materia Medica_. 2025-03. [임상진료지침] [DOI 10.19540/j.cnki.cjcmm.20241126.501](https://doi.org/10.19540/j.cnki.cjcmm.20241126.501) [PMID 40350955](https://pubmed.ncbi.nlm.nih.gov/40350955/) — 시호가룡골모려탕(안신 계열 비교 처방)의 불안 동반 빈맥부정맥 치료 처방·변증에 대한 델파이 합의 지침.
+[^45]: [Prescriptions and syndromes of Chaihu and Longgu Muli Decoction for treatment of tachyarrhythmia accompanied by anxiety state based on Delphi method]. Liu G 외. _China Journal of Chinese Materia Medica_. 2025-03. [임상진료지침] [DOI 10.19540/j.cnki.cjcmm.20241126.501](https://doi.org/10.19540/j.cnki.cjcmm.20241126.501) [PMID 40350955](https://pubmed.ncbi.nlm.nih.gov/40350955/) — 시호가용골모려탕(안신 계열 비교 처방)의 불안 동반 빈맥부정맥 치료 처방·변증에 대한 델파이 합의 지침.
 [^46]: Complementary therapies as adjuncts in the treatment of postpartum depression. Weier KM 외. _Journal of Midwifery & Women's Health_. 2003. [문헌고찰] [DOI 10.1016/j.jmwh.2003.12.013](https://doi.org/10.1016/j.jmwh.2003.12.013) [PMID 15010661](https://pubmed.ncbi.nlm.nih.gov/15010661/) — 산후우울증 치료에서 보완요법(한약 포함)의 보조적 역할을 정리한 개관.
 [^47]: Herbalism for Modern Obstetrics. Feigel ML 외. _Clinical Obstetrics and Gynecology_. 2021-09. [문헌고찰] [DOI 10.1097/GRF.0000000000000637](https://doi.org/10.1097/GRF.0000000000000637) [PMID 34323236](https://pubmed.ncbi.nlm.nih.gov/34323236/) — 현대 산부인과 진료에서 본초학적 접근(감맥대조탕 등 안신제 포함)의 활용을 정리.
 [^48]: Appraisal of systematic reviews on interventions for postpartum depression: systematic review. Chow R 외. _BMC Pregnancy and Childbirth_. 2021-01. [체계적 고찰] [DOI 10.1186/s12884-020-03496-5](https://doi.org/10.1186/s12884-020-03496-5) [PMID 33407226](https://pubmed.ncbi.nlm.nih.gov/33407226/) — 산후우울증 중재에 대한 기존 체계적 고찰들의 방법론적 질을 평가.
