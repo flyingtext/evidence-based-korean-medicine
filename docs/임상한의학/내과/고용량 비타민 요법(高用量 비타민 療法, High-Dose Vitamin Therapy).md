@@ -75,7 +75,7 @@
 
 고용량 비타민C의 면역 지지 기전을 뒷받침하는 가장 풍부한 인간 임상 근거는 역설적으로 항암 영역이 아니라 **감기(상기도 감염)** 영역에서 축적되어 있다. 이는 아스코르브산의 전신 면역 조절 기전이 종양 특이적이지 않음을 보여주는 동시에, 정맥 대비 경구 투여의 한계를 재확인하는 자료로서 중요하다.
 
-- 평소 비타민C를 매일 복용하는 사람이 감기에 걸렸을 때 추가 치료 용량의 비타민C를 투여하면 감기 지속 기간과 실내 격리 시간이 단축되고 발열·오한·흉통 등의 증상이 완화됨을 9편의 무작위 대조 시험을 종합한 메타분석이 보여주었다[^10].
+- 평소 비타민C를 매일 복용하는 사람이 감기에 걸렸을 때 추가 치료 용량의 비타민C를 투여하면 감기 지속 기간과 실내 격리 시간이 단축되고 발열·오한·흉통 등의 증상이 완화됨을 9편의 무작위 대조 시험을 종합한 메타분석이 보여주었다[^10](철회된 논문으로 유효 근거가 아니다).
 - 비타민C·D, 아연, 에키네시아가 감기의 예방·치료에 관여하는 3대 면역 상호작용 클러스터(물리적 장벽, 선천면역, 획득면역)에서 각기 다른 역할을 하며, 비타민C는 특히 지속 기간과 중증도를 줄이는 데 기여한다는 체계적 고찰이 있다[^11].
 - 감기 예방을 위한 비타민C 섭취가 권장되며 특히 추운 환경 노출자에게 더 유용할 수 있다는 보완대체의학 체계적 고찰도 있다[^12].
 - 감기 증상이 있을 때 비타민C 2,000mg을 경구 투여하면 혈장 농도가 상승하고, 특히 여성에서는 백혈구 내 농도까지 유의하게 증가하여 조직 결핍을 보충하는 효과가 있다는 약동학 연구가 있다[^13]. 이 연구는 남성이 여성보다 감기 증상이 심한 경향을 보였고, 백혈구 내 농도를 충분히 높이려면 2,000mg보다 더 높은 경구 용량이 필요할 수 있음을 시사하여, **경구 투여의 흡수 포화 한계** 를 실측 자료로 보여준다.
@@ -291,7 +291,7 @@
 
 - 항암화학요법 병용 시 IVC의 **안전성·내약성** 은 여러 소규모 임상시험에서 반복적으로 확인되었다[^6][^18][^20].
 - 항암화학요법 부작용(피로·구역·우울감) 완화와 삶의 질 개선 가능성은 체계적 고찰 수준에서 지지된다[^17].
-- 감기 등 급성 바이러스 감염에서 면역 지지 효과의 인간 근거는 상대적으로 풍부하다[^10][^11][^16].
+- 감기 등 급성 바이러스 감염에서 면역 지지 효과의 인간 근거는 상대적으로 풍부하다[^10](철회된 논문으로 유효 근거가 아니다)[^11][^16].
 
 #### 14-2. 아직 확립되지 않은 영역
 
@@ -416,7 +416,7 @@ G6PD 결핍 환자는 산화적 스트레스에 매우 취약하여 특정 약�
 [^7]: High-dose parenteral ascorbate enhanced chemosensitivity of ovarian cancer and reduced toxicity of chemotherapy. Ma Y 외. _Science translational medicine_. 2014-02-05. [실험연구, 인간 데이터 한정] [DOI 10.1126/scitranslmed.3007154](https://doi.org/10.1126/scitranslmed.3007154) — 마우스 모델과 난소암 환자 자료를 함께 제시한 연구로, 인간 환자 자료에서 IVC가 카보플라틴·파클리탁셀 화학요법의 독성을 경감시킬 가능성을 시사(본 문서는 인간 데이터만 인용).
 [^8]: The antiaging effects of a product containing collagen and ascorbic acid: In vitro, ex vivo, and pre-post intervention clinical trial. Ryu TK 외. _PloS one_. 2022. [임상시험] [DOI 10.1371/journal.pone.0277188](https://doi.org/10.1371/journal.pone.0277188) [PMID 36508415](https://pubmed.ncbi.nlm.nih.gov/36508415/) — 콜라겐·아스코르브산 복합제제가 피부 주름·처짐·진피 밀도를 유의하게 개선해 인간 결합조직에서 아스코르브산의 콜라겐 합성 보조 기능을 방증.
 [^9]: Optimal Nutritional Status for a Well-Functioning Immune System Is an Important Factor to Protect against Viral Infections. Calder PC 외. _Nutrients_. 2020-04-23. [문헌 고찰] [DOI 10.3390/nu12041181](https://doi.org/10.3390/nu12041181) — 비타민C·D를 포함한 미량영양소의 적정 보충이 안전하고 비용 효율적인 면역 최적화 전략이며 바이러스 감염 예방에 기여할 수 있음을 제시.
-[^10]: Extra Dose of Vitamin C Based on a Daily Supplementation Shortens the Common Cold: A Meta-Analysis of 9 Randomized Controlled Trials. Ran L 외. _BioMed research international_. 2018. [메타분석] [DOI 10.1155/2018/1837634](https://doi.org/10.1155/2018/1837634) [PMID 30069463](https://pubmed.ncbi.nlm.nih.gov/30069463/) — 일일 복용자의 감기 이환 시 추가 치료 용량 투여가 지속 기간·증상을 유의하게 완화함을 종합.
+[^10]: Extra Dose of Vitamin C Based on a Daily Supplementation Shortens the Common Cold: A Meta-Analysis of 9 Randomized Controlled Trials. Ran L 외. _BioMed research international_. 2018. [메타분석, 철회됨] [DOI 10.1155/2018/1837634](https://doi.org/10.1155/2018/1837634) [PMID 30069463](https://pubmed.ncbi.nlm.nih.gov/30069463/) — **철회(Retraction Notice: [PMID 37078007](https://pubmed.ncbi.nlm.nih.gov/37078007/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 일일 복용자의 감기 이환 시 추가 치료 용량 투여가 지속 기간·증상을 유의하게 완화함을 종합.
 [^11]: Self-Care for Common Colds: The Pivotal Role of Vitamin D, Vitamin C, Zinc, and Echinacea in Three Main Immune Interactive Clusters. Rondanelli M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [체계적 고찰] [DOI 10.1155/2018/5813095](https://doi.org/10.1155/2018/5813095) [PMID 29853961](https://pubmed.ncbi.nlm.nih.gov/29853961/) — 비타민C·D·아연·에키네시아의 면역 클러스터별 역할과 용량·시점별 실무 권고를 정리.
 [^12]: Complementary and alternative medicine for prevention and treatment of the common cold. Nahas R 외. _Canadian family physician Medecin de famille canadien_. 2011-01. [체계적 고찰] [PMID 21322286](https://pubmed.ncbi.nlm.nih.gov/21322286/) — 감기 예방을 위한 비타민C 섭취 권장 및 추운 환경 노출자에서의 상대적 유용성을 정리.
 [^13]: The metabolism of supplementary vitamin C during the common cold. Wilson CW 외. _Journal of clinical pharmacology_. 1976-01. [실험연구] [DOI 10.1002/j.1552-4604.1976.tb01487.x](https://doi.org/10.1002/j.1552-4604.1976.tb01487.x) [PMID 1245605](https://pubmed.ncbi.nlm.nih.gov/1245605/) — 경구 2,000mg 투여 시 혈장·백혈구 내 아스코르브산 농도 상승을 실측하여 경구 흡수의 한계와 성별 차이를 확인.

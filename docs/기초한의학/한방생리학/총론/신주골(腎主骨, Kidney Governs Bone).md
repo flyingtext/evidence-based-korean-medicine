@@ -456,7 +456,7 @@
 
 #### 19-5. 예후
 
-한약 치료를 표준 항골다공증 약물(비스포스포네이트 등)과 병용했을 때 골밀도 개선과 부작용 감소 측면에서 상가 효과가 다수 보고되었으며, 보신약(KTCMs)을 비스포스포네이트와 병용하는 것이 단독 투여보다 효과적이고 안전하다는 네트워크 메타분석 결론도 이를 뒷받침한다[^99][^107][^110][^146]. 다만 대부분의 연구가 수개월~1년 내외의 단기 추적에 그쳐, 장기적 골절 예방 효과에 대한 근거는 상대적으로 제한적이다. 신허(腎虛) 증상을 동반한 골감소증(osteopenia) 단계에서 음양을 동시에 보하는 처방의 효과를 검증하는 무작위 대조 시험 프로토콜[^20], 한약 제제 BHH10의 2상 임상시험 프로토콜[^56]은 골다공증으로 진행하기 이전 단계에서의 조기 개입 근거가 축적되고 있음을 보여준다.
+한약 치료를 표준 항골다공증 약물(비스포스포네이트 등)과 병용했을 때 골밀도 개선과 부작용 감소 측면에서 상가 효과가 다수 보고되었으며, 보신약(KTCMs)을 비스포스포네이트와 병용하는 것이 단독 투여보다 효과적이고 안전하다는 네트워크 메타분석 결론도 이를 뒷받침한다[^99][^107][^110](철회된 논문으로 유효 근거가 아니다)[^146]. 다만 대부분의 연구가 수개월~1년 내외의 단기 추적에 그쳐, 장기적 골절 예방 효과에 대한 근거는 상대적으로 제한적이다. 신허(腎虛) 증상을 동반한 골감소증(osteopenia) 단계에서 음양을 동시에 보하는 처방의 효과를 검증하는 무작위 대조 시험 프로토콜[^20], 한약 제제 BHH10의 2상 임상시험 프로토콜[^56]은 골다공증으로 진행하기 이전 단계에서의 조기 개입 근거가 축적되고 있음을 보여준다.
 
 #### 19-6. 관리
 
@@ -769,7 +769,7 @@
 |---|---|---|
 | 숙지황·자음 처방의 소화 부담 | 자니(滋膩)한 성질로 비위가 약한 환자에서 복부팽만·식욕부진 유발 가능 | [교과서적 근거]; 사군자탕 등 건비제 병용 고려 |
 | 부자·육계 등 온양 본초 | 과량·장기 복용 시 구건(口乾)·변비, 심혈관 부담 가능성 | [교과서적 근거]; 신양허가 명확한 경우로 적응증 제한 |
-| 항골다공증 표준약과의 병용 | 한약을 비스포스포네이트·항RANKL제·부갑상선호르몬제와 병용할 때 상호작용 정보가 제한적임 | [^99][^107][^110] — 병용 시 정기적 모니터링 필요 |
+| 항골다공증 표준약과의 병용 | 한약을 비스포스포네이트·항RANKL제·부갑상선호르몬제와 병용할 때 상호작용 정보가 제한적임 | [^99][^107][^110](철회된 논문으로 유효 근거가 아니다) — 병용 시 정기적 모니터링 필요 |
 | 임신·수유 금기 | 녹각교·부자 등 일부 온신 본초는 임신 중 금기이거나 신중 투여 필요 | [교과서적 근거] |
 | 스테로이드성 골다공증에서의 주의 | 스테로이드 장기 복용 환자는 반드시 원인 약물 관리가 우선이며, 한약 병용 시에도 스테로이드 감량 계획을 임의로 변경하지 않도록 안내 | [^116] |
 | 항류마티스제·생물학적 제제와의 병용 | DMARDs·생물학적 제제 복용 중인 류마티스 관절염·강직성 척추염 환자에서 한약 병용 시 간·신 기능 모니터링 권장 | [^76][^91] |
@@ -805,7 +805,7 @@
 
 **Q2. 골다공증 진단을 받았는데 한약만으로 치료가 가능한가?**
 
-아니다. 골다공증, 특히 골절 위험이 높은 중등도 이상의 골다공증은 표준 항골다공증 약물(비스포스포네이트 등)과 칼슘·비타민 D 보충이 우선되어야 한다. 한약·침구는 이러한 표준 치료와 **병용하는 보조 요법** 으로 위치하며, 다수의 연구에서 한약을 표준 치료와 병용했을 때 상가 효과가 보고되었다[^99][^107][^110]. 표준 치료를 임의로 중단하고 한약으로 대체하는 것은 권장되지 않는다.
+아니다. 골다공증, 특히 골절 위험이 높은 중등도 이상의 골다공증은 표준 항골다공증 약물(비스포스포네이트 등)과 칼슘·비타민 D 보충이 우선되어야 한다. 한약·침구는 이러한 표준 치료와 **병용하는 보조 요법** 으로 위치하며, 다수의 연구에서 한약을 표준 치료와 병용했을 때 상가 효과가 보고되었다[^99][^107][^110](철회된 논문으로 유효 근거가 아니다). 표준 치료를 임의로 중단하고 한약으로 대체하는 것은 권장되지 않는다.
 
 **Q3. 신음허형과 신양허형은 어떻게 구별하는가?**
 
@@ -1068,7 +1068,7 @@
 [^107]: Emerging Roles of Natural Compounds in Osteoporosis: Regulation, Molecular Mechanisms and Bone Regeneration.. Ilyas S 외. _Pharmaceuticals (Basel, Switzerland)_. 2024-07-25. [문헌 고찰] [DOI 10.3390/ph17080984](https://doi.org/10.3390/ph17080984) [PMID 39204089](https://pubmed.ncbi.nlm.nih.gov/39204089/) — 동양의학(EAHM)의 천연 화합물들이 골모세포 활성화와 파골세포 억제, 항염증 작용 및 후성유전학적 조절을 통해 골다공증 치료와 골 재생에 기여할 수 있음을 시사합니다.
 [^108]: Overview of the Research Progress of Traditional Chinese Medicine in the Intervention of Kidney Deficiency and Blood Stasis Type Osteoporosis by Regulating the PI3K/Akt Signalling Pathway. Rui Zhou 외. _Journal of Contemporary Medical Practice_. 2024-08-21. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(08).50](https://doi.org/10.53469/jcmp.2024.06(08).50) — 본 논문은 신허혈어(腎虛血瘀) 유형의 골다공증 치료에 있어 PI3K/Akt 신호 경로 조절을 통한 중의학적 접근의 기전을 설명하고 있습니다.
 [^109]: Efficacy and safety of traditional Chinese medicine in managing bone loss post-endocrine therapy in hormone receptor-positive breast cancer patients. Liuxiang Chen 외. _Medicine_. 2024-10-11. [메타분석] [DOI 10.1097/md.0000000000039961](https://doi.org/10.1097/md.0000000000039961) — 호르몬 수용체 양성 유방암 환자의 내분비 요법 후 발생하는 골손실 및 골다공증 관리에 한의학적 보신법(補腎法)이 요추 및 대퇴경부의 골밀도를 유의하게 개선하며 안전성이 높음을 확인하였다.
-[^110]: Meta-analysis of the synergistic effect of traditional Chinese medicine compounds combined with conventional Western medicine in the treatment of osteoporosis.. Jin H 외. _Frontiers in endocrinology_. 2025. [메타분석] [DOI 10.3389/fendo.2025.1606753](https://doi.org/10.3389/fendo.2025.1606753) [PMID 40510481](https://pubmed.ncbi.nlm.nih.gov/40510481/) — 골다공증 치료 시 한약 복합제와 양약을 병용하는 것이 양약 단독 치료보다 요추 및 대퇴경부 골밀도 개선과 통증 감소에 더 효과적이며, 특히 3-6개월의 단기 치료에서 더 강한 효과를 보였다.
+[^110]: Meta-analysis of the synergistic effect of traditional Chinese medicine compounds combined with conventional Western medicine in the treatment of osteoporosis.. Jin H 외. _Frontiers in endocrinology_. 2025. [메타분석, 철회됨] [DOI 10.3389/fendo.2025.1606753](https://doi.org/10.3389/fendo.2025.1606753) [PMID 40510481](https://pubmed.ncbi.nlm.nih.gov/40510481/) — **철회(Retraction Notice: [PMID 41685230](https://pubmed.ncbi.nlm.nih.gov/41685230/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 골다공증 치료 시 한약 복합제와 양약을 병용하는 것이 양약 단독 치료보다 요추 및 대퇴경부 골밀도 개선과 통증 감소에 더 효과적이며, 특히 3-6개월의 단기 치료에서 더 강한 효과를 보였다.
 [^111]: Efficacy of acupuncture-related therapy for postmenopausal osteoporosis: a systematic review and network meta-analysis based on randomized controlled trials.. Deng B 외. _Frontiers in medicine_. 2025. [메타분석] [DOI 10.3389/fmed.2025.1483819](https://doi.org/10.3389/fmed.2025.1483819) [PMID 40270507](https://pubmed.ncbi.nlm.nih.gov/40270507/) — 침 관련 요법은 폐경 후 골다공증 환자에게 단독 또는 서양의학적 치료와 병행하여 사용할 때 기존의 서양의학적 치료 단독보다 임상 유효율 및 골밀도 개선 효과가 뛰어났다.
 [^112]: [Clinical observation on treatment of patients with kidney-yang deficiency type ankylosing spondylitis by using Bushen Tongdu external treatment].. Zhou XY 외. _Zhen ci yan jiu = Acupuncture research_. 2025-02-25. [임상시험, 72명] [DOI 10.13702/j.1000-0607.20231040](https://doi.org/10.13702/j.1000-0607.20231040) [PMID 40059052](https://pubmed.ncbi.nlm.nih.gov/40059052/) — 신양구허형 강직성 척추염 환자에게 임독주천구와 혈위매선을 결합한 보신통독 외치법을 적용했을 때, 중의 증후 점수와 BASDAI 점수가 유의하게 감소하고 혈청 내 염증 지표(IL-6, TNF-α, MMP-3)가 개선됨을 확인하였다.
 [^113]: The Role of Ferroptosis in Osteoporosis and Advances in Chinese Herbal Interventions.. Li P 외. _Biology_. 2025-04-02. [문헌 고찰] [DOI 10.3390/biology14040367](https://doi.org/10.3390/biology14040367) [PMID 40282232](https://pubmed.ncbi.nlm.nih.gov/40282232/) — 본 문헌은 골다공증의 병리 기전에서 철분 의존적 세포사멸인 페로토시스(Ferroptosis)의 핵심적인 역할을 규명하고, 이를 억제하는 중약의 치료 가능성을 제시한다.

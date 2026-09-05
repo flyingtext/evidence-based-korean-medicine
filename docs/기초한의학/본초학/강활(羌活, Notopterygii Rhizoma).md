@@ -164,7 +164,7 @@ COVID-19 대응을 위한 한약 처방 전문가 합의 가이드라인은 예�
 |---|---|---|---|
 | 자음강화탕(滋陰降火湯) | 로마자 'Zi-Ying-Jiang-Huo-Tang'의 'Jiang-Huo'가 강활 'Qianghuo'와 유사 | 미포함 | 자음강화(滋陰降火) 처방으로 신온조열한 강활과 치법 방향이 정반대[^25] |
 | 형개연교탕(荊芥連翹湯) | 거풍 해표약이 다수 배오되어 강활도 포함된 것으로 오인 | 미포함 | 형개·연교·방풍·백지 중심의 소풍청열 처방[^24] |
-| 독활기생탕(獨活寄生湯) | 강활·독활을 묶어 부르는 관행 | 미포함(독활만 배오) | 간신부족(肝腎不足)의 하초 비증이 주치. 상초 표증에는 적합하지 않음[^69][^70][^71][^72][^73][^74] |
+| 독활기생탕(獨活寄生湯) | 강활·독활을 묶어 부르는 관행 | 미포함(독활만 배오) | 간신부족(肝腎不足)의 하초 비증이 주치. 상초 표증에는 적합하지 않음[^69][^70][^71](철회된 논문으로 유효 근거가 아니다)[^72][^73][^74] |
 | 오적산(五積散) | 신온 해표·거습 처방으로 주치가 겹침 | 미포함 | 창출·마황·백지 중심의 온중산한 처방 |
 | 신통축어탕(身痛逐瘀湯) | 비증·요통에 함께 쓰여 혼동 | 미포함 | 활혈거어(活血祛瘀) 축의 처방[^64] |
 
@@ -320,7 +320,7 @@ COVID-19 한약 처방에 대한 전문가 합의 가이드라인은 예방·노
 독활 축의 대표 방제인 독활기생탕은 **독활·상기생(桑寄生)·두충(杜仲)·우슬·세신·진교(秦艽)·복령·육계심(肉桂心)·방풍·천궁·인삼·감초·당귀·백작약·건지황(乾地黃)** 으로 구성되며 강활은 배오되지 않는다.[교과서적 근거] 이 처방의 근거는 강활 축 처방보다 오히려 더 두텁게 축적되어 있어, 강활과 독활의 임상 위치를 비교하는 준거로 유용하다.
 
 - 요추 추간판 탈출증: 가감 독활기생탕의 메타분석(1,560명)은 디클로페낙 등 소염진통제 대비 총 유효율·완치율이 높고 VAS 점수 감소가 컸으며 안전성도 양호하였다고 보고하였다.[^69] 다른 체계적 고찰(3,915명)도 통증과 하지직거상 검사 개선을 확인하였으나 포함 연구의 방법론적 질이 낮다는 한계를 명시하였다. 기체혈어(氣滯血瘀)에 간신부족을 겸한 추간판 탈출증 환자 104명 대상 무작위 대조 시험은 독활기생탕 단독보다 **신수(腎兪)·대장수(大腸兪) 등에 온침구를 4주간 병행** 한 군이 통증·요추 기능·가동 범위·요배근력·염증 지표에서 우수하였다고 보고하였다.[^74]
-- 강직성 척추염: 메타분석(860명)은 VAS·조조강직·ESR·CRP·IL-6의 유의한 개선과 위장관·피부 이상반응 감소를 보고하였으나, BASFI·BASDAI 등 기능 지표와 골대사 지표에는 유의한 영향이 없었다.[^71] 양약 병용 메타분석 역시 임상 유효율·흉추 가동성·조조강직·염증 지표 개선과 이상반응 감소 경향을 확인하였다.
+- 강직성 척추염: 메타분석(860명)은 VAS·조조강직·ESR·CRP·IL-6의 유의한 개선과 위장관·피부 이상반응 감소를 보고하였으나, BASFI·BASDAI 등 기능 지표와 골대사 지표에는 유의한 영향이 없었다.[^71](철회된 논문으로 유효 근거가 아니다) 양약 병용 메타분석 역시 임상 유효율·흉추 가동성·조조강직·염증 지표 개선과 이상반응 감소 경향을 확인하였다.
 - 류마티스 관절염: 42편의 무작위 대조 시험을 종합한 메타분석(3,635명)은 독활기생탕이 통상 항류마티스제보다 우수하거나 보완적인 증상·염증 지표 개선을 보이면서 부작용 발생률은 낮았다고 보고하였다. 다만 일부 하위군 분석에서 결과가 일관되지 않았다.[^72]
 - 무릎 골관절염: 한습비조증(寒濕痺阻證) 유형에 한정한 통합 분석(895명)은 VAS·WOMAC의 유의한 개선과 IL-6·TNF-α 감소를 보고하였고, 글루코사민 또는 온침 병용 시 더 우수하였다.[^73]
 - 골다공증: 비스포스포네이트에 독활기생탕을 병용한 메타분석(1,526명)은 요추 골밀도 증가와 통증 완화, 전체 이상반응 감소를 확인하였다.[^70]
@@ -527,7 +527,7 @@ COVID-19 한약 처방에 대한 전문가 합의 가이드라인은 예방·노
 아닙니다. 형개연교탕은 형개·연교·방풍·백지 중심의 소풍청열 처방으로 강활이 들어가지 않으며, 독활기생탕은 독활만 배오되고 강활은 포함되지 않습니다. 로마자 표기가 유사한 자음강화탕(滋陰降火湯, Zi-Ying-Jiang-Huo-Tang) 역시 강활과 무관한 자음 처방입니다. 문헌을 인용하거나 처방을 선택할 때는 번역명·로마자 표기가 아니라 **원방의 구성 약재 목록** 으로 확인해야 하며, 강활이 없는 처방의 임상 결과를 강활의 근거로 제시해서는 안 됩니다.[^24][^25][^69]
 
 **Q12. 강활과 독활 중 무엇을 먼저 고려해야 하나요?**
-통증 부위와 표증 유무로 나눕니다. 두항·견배·상지 중심이고 오한·무한·부맥 등 표증이 있으면 강활 축(구미강활탕·강활승습탕·천궁차조산)을, 요슬·하지 중심이고 만성 경과에 간신부족이 동반되면 독활 축(독활기생탕)을 우선합니다. 근거 지형을 보아도 독활기생탕은 요추 추간판 탈출증·강직성 척추염·류마티스 관절염·골다공증에서 메타분석 수준의 근거가 축적되어 있는 반면,[^69][^70][^71][^72][^73] 강활 축은 무릎 골관절염 2상 시험 등 상대적으로 얇은 편입니다.[^13] 전신 비통이나 상하 병발 비증에는 강독활을 함께 배오하되, 발산·조열이 중첩되므로 음혈 손상 여부를 함께 살펴야 합니다.
+통증 부위와 표증 유무로 나눕니다. 두항·견배·상지 중심이고 오한·무한·부맥 등 표증이 있으면 강활 축(구미강활탕·강활승습탕·천궁차조산)을, 요슬·하지 중심이고 만성 경과에 간신부족이 동반되면 독활 축(독활기생탕)을 우선합니다. 근거 지형을 보아도 독활기생탕은 요추 추간판 탈출증·강직성 척추염·류마티스 관절염·골다공증에서 메타분석 수준의 근거가 축적되어 있는 반면,[^69][^70][^71](철회된 논문으로 유효 근거가 아니다)[^72][^73] 강활 축은 무릎 골관절염 2상 시험 등 상대적으로 얇은 편입니다.[^13] 전신 비통이나 상하 병발 비증에는 강독활을 함께 배오하되, 발산·조열이 중첩되므로 음혈 손상 여부를 함께 살펴야 합니다.
 
 **Q13. 강활 함유 처방의 반응은 언제 평가해야 하나요?**
 급성 표증 목적이라면 수일 이내에 오한·항강·두통의 변화를 확인합니다. 만성 비증 목적이라면 관련 임상시험의 관찰 기간을 참고해 **최소 4~8주 단위** 로 평가하는 것이 합리적입니다. 무릎 골관절염은 VAS·K-WOMAC, 류마티스 관절염은 DAS28·ESR·CRP, 요통은 VAS·ODI, 두통은 두통 일지(빈도·강도·지속시간)를 사용합니다.[^13][^16][^17][^19][^76] 동시에 구건·인건·불면·야간 발한 같은 조열 손상 신호를 매 진료마다 확인해, 반응이 없으면서 조열 증상만 나타나는 경우에는 처방 축을 재검토해야 합니다.
@@ -612,7 +612,7 @@ COVID-19 한약 처방에 대한 전문가 합의 가이드라인은 예방·노
 [^68]: Tuina-focused integrative chinese medical therapies for inpatients with low back pain: a systematic review and meta-analysis. Kong LJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [메타분석] [DOI 10.1155/2012/578305](https://doi.org/10.1155/2012/578305) [PMID 23346207](https://pubmed.ncbi.nlm.nih.gov/23346207/) — 추나에 한약 또는 침을 병행하는 조합이 단독·온열요법 병행보다 효과적이었음을 보고. 포함 연구의 질이 낮다는 한계가 명시되어 있다.
 [^69]: Efficacy and Safety of Modified Duhuo Jisheng Decoction in the Treatment of Lumbar Disc Herniation: A Systematic Review and Meta-Analysis. Zhencheng Xiong 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석, 1560명] [DOI 10.1155/2020/2381462](https://doi.org/10.1155/2020/2381462) — 가감 독활기생탕이 소염진통제 대비 유효율·완치율이 높고 VAS 감소가 컸음을 보고. 독활 축 처방의 근거 두께를 보여주는 대표 자료.
 [^70]: Efficacy and safety of Duhuo Jisheng Decoction add-on bisphosphonate medications in patients with osteoporosis: A meta-analysis of randomized controlled trials. Huang CY 외. _Journal of ethnopharmacology_. 2022-01-30. [메타분석, 1526명] [DOI 10.1016/j.jep.2021.114732](https://doi.org/10.1016/j.jep.2021.114732) [PMID 34637967](https://pubmed.ncbi.nlm.nih.gov/34637967/) — 비스포스포네이트에 독활기생탕을 병용해 요추 골밀도 증가·통증 완화·이상반응 감소를 확인. 하초 간신부족 축의 장기 관리 근거.
-[^71]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. Wang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 860명] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — 강직성 척추염에서 VAS·조조강직·염증 지표 개선과 이상반응 감소를 보고하되 BASFI·BASDAI에는 유의한 영향이 없었음을 함께 명시.
+[^71]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. Wang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 860명, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 강직성 척추염에서 VAS·조조강직·염증 지표 개선과 이상반응 감소를 보고하되 BASFI·BASDAI에는 유의한 영향이 없었음을 함께 명시.
 [^72]: Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials. Qu P 외. _Medicine_. 2023-11-03. [메타분석, 3635명] [DOI 10.1097/MD.0000000000035513](https://doi.org/10.1097/MD.0000000000035513) [PMID 37933004](https://pubmed.ncbi.nlm.nih.gov/37933004/) — 독활기생탕이 통상 항류마티스제 대비 증상·염증 지표 개선과 낮은 부작용률을 보였으나 하위군 결과가 일관되지 않았음을 보고.
 [^73]: Efficacy of Duhuo Jisheng Decoction for Treating Cold-Dampness Obstruction Syndrome-Type Knee Osteoarthritis: A Pooled Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석, 895명] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 한습비조증으로 변증된 무릎 골관절염에 한정해 VAS·WOMAC 개선과 IL-6·TNF-α 감소를 보고. 변증 층화가 효과 크기와 연결됨을 보여주는 사례.
 [^74]: [Warming acupuncture combined with Duhuo Jisheng decoction for lumbar disc herniation of qi stagnation and blood stasis accompanied with liver-kidney deficiency: a randomized controlled trial]. Zhang J 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2026-04-12. [임상시험, 104명] [DOI 10.13703/j.0255-2930.20250228-0001](https://doi.org/10.13703/j.0255-2930.20250228-0001) [PMID 41987442](https://pubmed.ncbi.nlm.nih.gov/41987442/) — 변증이 일치하는 환자군에서 독활기생탕에 온침구를 병행하면 통증·기능·근력·염증 지표가 더 개선되었음을 보고.

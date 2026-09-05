@@ -212,7 +212,7 @@
 
 - **혈위 선택**: 체열 진단 기반으로 환자별 온도 차가 나는 혈위를 객관적으로 선택해 치료하면 치료율을 높이고 기간·횟수를 단축할 수 있다[^3]. 안면 체열 비대칭을 정량화한 예비 연구들도 이 접근을 뒷받침한다[^140][^153][^155].
 - **전침(電鍼)**: 표준 약물 치료와 함께 전침 및 견정산(牽正散)을 병용하면 단독 치료보다 반응률·안면신경 기능·근전도 지표가 유의하게 개선된다[^14]. 전침의 유효성은 여러 메타분석에서도 일관되게 확인된다[^49][^100]. 다만 **전침 파형·강도에 따라 안전성·효과가 달라질 수 있어** [^92], 급성기에는 과도한 자극 강도를 피하는 것이 안전하다(§14 참조). 전침·경피신경전기자극의 감각 역치를 정량 분석한 연구는 급성기 자극 강도 설정의 안전 근거를 제공한다[^85].
-- **자침 시점**: 급성기부터 침을 시작하는 것이 효과적이라는 근거와, 지나치게 강한 초기 자극은 오히려 신경 손상을 악화시킬 수 있다는 우려가 공존한다. 침 치료 개입 시점에 대한 메타분석은 급성기·비급성기 개입의 상대적 이점을 비교한다[^53][^76]. 병기별로 자침 강도·기법을 조정하는 것이 표준적 접근이다[^90][^91][^103][^121].
+- **자침 시점**: 급성기부터 침을 시작하는 것이 효과적이라는 근거와, 지나치게 강한 초기 자극은 오히려 신경 손상을 악화시킬 수 있다는 우려가 공존한다. 침 치료 개입 시점에 대한 메타분석은 급성기·비급성기 개입의 상대적 이점을 비교한다[^53](철회된 논문으로 유효 근거가 아니다)[^76]. 병기별로 자침 강도·기법을 조정하는 것이 표준적 접근이다[^90][^91][^103][^121].
 - **매선침**: 안면근 위축·후유증에서 근육 두께와 안면 기능 회복 개선에 활용될 수 있다[^4][^22][^23][^104].
 - **화침·두피침**: 뇌졸중 후 중추성 안면마비에서 TCM 기준으로 화침·두피침이 효과적일 수 있다[^6].
 - **부항·혈척침**: 부항 요법과 혈척침(플럼블라썸) 요법이 난치성 말초성 안면신경마비에 응용된다[^17][^18][^81]. 부항 요법의 전반적 유효성을 개관한 문헌도 이 접근을 지지한다[^81].
@@ -617,7 +617,7 @@
 
 **병용·비교 요법**: 침과 추나(투나)를 비교한 네트워크메타분석[^48], 여러 한의 치료법을 비교한 네트워크메타분석[^58], 다양한 침구 요법을 비교하는 프로토콜[^80]은 병용 전략별 상대적 유효성 순위 규명을 목표로 한다. 혈위첩부(약물 첩부) 요법의 메타분석[^51], 혈위첩부-뜸 시점별 메타분석[^52]도 비침습적 외치법의 근거를 보탠다.
 
-**개입 시점**: 침 치료 개입 시점(급성기 대 회복기)에 대한 메타분석은 조기 개입의 임상적 중요성을 뒷받침하며[^53], 관련 근거중심 임상 관행 분석[^76]도 같은 방향을 가리킨다.
+**개입 시점**: 침 치료 개입 시점(급성기 대 회복기)에 대한 메타분석은 조기 개입의 임상적 중요성을 뒷받침하며[^53](철회된 논문으로 유효 근거가 아니다), 관련 근거중심 임상 관행 분석[^76]도 같은 방향을 가리킨다.
 
 **개관·스코핑 리뷰**: 여러 체계적 고찰을 다시 개관하는 스코핑 리뷰[^59], 급성기 침 치료 근거를 재검토하는 프로토콜[^60][^66], 여러 체계적 고찰을 재종합하는 개관 연구[^73][^71]는 근거 지형 전체를 조망하는 방법론적 시도다. 안면신경마비 침구 치료의 근거 기반 임상 권고안[^75]과 개별 프로토콜 연구들[^69][^72]은 향후 고품질 근거 종합을 예고한다.
 
@@ -857,7 +857,7 @@
 [^50]: Effect of electric stimulation on patients with facial paralysis: A systematic review and Meta-analysis of randomized controlled trials. Jiangna Zhao 외. 2022-01-05. [메타분석] [DOI 10.37766/inplasy2022.1.0016](https://doi.org/10.37766/inplasy2022.1.0016) — 전기자극 치료의 무작위대조시험을 종합해 안면신경마비 재활에서 전기자극의 보조적 가치를 확인한다.
 [^51]: [Meta-analysis on acupoint sticking therapy for facial paralysis]. Zhou XG 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2005-11. [메타분석] [PMID 16335210](https://pubmed.ncbi.nlm.nih.gov/16335210/) — 혈위첩부(약물 첩부) 요법의 메타분석으로, 비침습적 외치법도 안면신경마비 보조요법으로 근거를 갖춤을 보여준다.
 [^52]: [Efficacy of acupuncture-moxibustion on peripheral facial paralysis at different time points: a Meta-analysis]. Jin DD 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-06-12. [메타분석] [DOI 10.13703/j.0255-2930.20190721-k0003](https://doi.org/10.13703/j.0255-2930.20190721-k0003) [PMID 32538021](https://pubmed.ncbi.nlm.nih.gov/32538021/) — 침 치료 개입 시점(급성기 대 회복기)이 예후에 미치는 영향을 정리해, 조기 개입의 임상적 중요성을 뒷받침한다.
-[^53]: Timing of Acupuncture Treatment in Peripheral Facial Paralysis: A Systematic Review and Meta-Analysis. Yu Z 외. _Computational and mathematical methods in medicine_. 2021. [메타분석] [DOI 10.1155/2021/4221955](https://doi.org/10.1155/2021/4221955) [PMID 34956397](https://pubmed.ncbi.nlm.nih.gov/34956397/) — 침 치료 개입 시점(급성기 대 회복기)이 예후에 미치는 영향을 정리해, 조기 개입의 임상적 중요성을 뒷받침한다.
+[^53]: Timing of Acupuncture Treatment in Peripheral Facial Paralysis: A Systematic Review and Meta-Analysis. Yu Z 외. _Computational and mathematical methods in medicine_. 2021. [메타분석, 철회됨] [DOI 10.1155/2021/4221955](https://doi.org/10.1155/2021/4221955) [PMID 34956397](https://pubmed.ncbi.nlm.nih.gov/34956397/) — **철회(Retraction Notice: [PMID 37416268](https://pubmed.ncbi.nlm.nih.gov/37416268/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 침 치료 개입 시점(급성기 대 회복기)이 예후에 미치는 영향을 정리해, 조기 개입의 임상적 중요성을 뒷받침한다.
 [^54]: Systematic evaluation and meta-analysis of the efficacy of Jingjin acupuncture therapy in the treatment of peripheral facial palsy. Kang X 외. _Frontiers in neurology_. 2024. [메타분석] [DOI 10.3389/fneur.2024.1459738](https://doi.org/10.3389/fneur.2024.1459738) [PMID 39748861](https://pubmed.ncbi.nlm.nih.gov/39748861/) — 경근침법(經筋鍼法)의 메타분석으로, 경근 이론에 기반한 자침이 안면신경 기능 회복에 유효할 수 있음을 시사한다.
 [^55]: Acupuncture combined with mouse nerve growth factor in the treatment of peripheral facial palsies: systematic review and meta-analysis. Hu Y 외. _Frontiers in medicine_. 2025. [메타분석] [DOI 10.3389/fmed.2025.1657641](https://doi.org/10.3389/fmed.2025.1657641) [PMID 40951001](https://pubmed.ncbi.nlm.nih.gov/40951001/) — 침과 신경성장인자 병용의 체계적 고찰로, 한양방 병용 전략의 근거 축적을 보여준다.
 [^56]: [Clinical effect and safety of filiform-fire needle in treatment of peripheral facial paralysis: a Meta-analysis]. Sun CY 외. _Zhen ci yan jiu = Acupuncture research_. 2022-03-25. [메타분석] [DOI 10.10372/j.1000-0607.20210559](https://doi.org/10.10372/j.1000-0607.20210559) [PMID 35319847](https://pubmed.ncbi.nlm.nih.gov/35319847/) — 화침(火鍼) 요법의 메타분석으로, 특수 자침법의 안전성·유효성 근거를 제공한다.

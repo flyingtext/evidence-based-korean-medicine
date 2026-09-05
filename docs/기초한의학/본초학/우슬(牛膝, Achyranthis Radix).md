@@ -116,7 +116,7 @@
 
 ### 4-1. 관절·근골격계 질환
 
-**골관절염**: 다기전 복합 한약제인 신바로(SHINBARO, 우슬 등 포함)를 이용한 첫 치료적 적용 연구는 셀레콕시브(celecoxib)와 유사한 효능을 보이면서도 우수한 안전성 프로파일을 나타내어, 한국 식약처 승인 천연물 신약으로서 골관절염 통증 완화와 연골 보호에 임상 활용 가능성을 시사하였다.[^43] 골관절염의 포식작용(efferocytosis) 관련 유전자를 바이오인포매틱스·머신러닝으로 규명한 연구는 UCP2·EGLN3·IL1B가 진단 마커로서 가치가 있으며, 구기자·음양곽·생지황·고삼·천궁·우슬과 같은 보허·청열·활혈화어 성질의 약재들이 잠재적 치료 후보로 예측됨을 보고하였다.[^45] 무릎 골관절염 훈증세욕요법의 처방 구성 분석에서도 우슬이 핵심 약재로 반복 확인되었다.[^35]
+**골관절염**: 다기전 복합 한약제인 신바로(SHINBARO, 우슬 등 포함)를 이용한 첫 치료적 적용 연구는 셀레콕시브(celecoxib)와 유사한 효능을 보이면서도 우수한 안전성 프로파일을 나타내어, 한국 식약처 승인 천연물 신약으로서 골관절염 통증 완화와 연골 보호에 임상 활용 가능성을 시사하였다.[^43](철회된 논문으로 유효 근거가 아니다) 골관절염의 포식작용(efferocytosis) 관련 유전자를 바이오인포매틱스·머신러닝으로 규명한 연구는 UCP2·EGLN3·IL1B가 진단 마커로서 가치가 있으며, 구기자·음양곽·생지황·고삼·천궁·우슬과 같은 보허·청열·활혈화어 성질의 약재들이 잠재적 치료 후보로 예측됨을 보고하였다.[^45] 무릎 골관절염 훈증세욕요법의 처방 구성 분석에서도 우슬이 핵심 약재로 반복 확인되었다.[^35]
 
 **류마티스 관절염**: 영지(靈芝)와 삼묘산(三妙散, 창출·황백·우슬)의 병용 투여 임상시험은 전신 면역세포 수나 대부분의 혈장 사이토카인 농도에는 큰 영향을 주지 않았으나, 24주 투여 후 염증성 사이토카인 IL-18의 ex vivo 유도 수치를 유의하게 감소시켜, 과도한 염증 반응을 조절하는 보조적 면역조절 요법으로서의 가능성을 시사하였다.[^39] 강활·독활·우슬·생강 약제를 도포한 뒤 독맥·협척혈에 산구법(散灸)을 시행한 임상시험(n=56)은 단순 침치료보다 임상적 유효율을 유의하게 높였다.[^40]
 
@@ -146,7 +146,7 @@
 
 | 영역 | 근거 수준 | 핵심 소견 |
 |---|---|---|
-| 골관절염 | 실험연구(인체)·관찰연구 | 신바로 등 복합제로 통증·기능 개선[^43][^45] |
+| 골관절염 | 실험연구(인체)·관찰연구 | 신바로 등 복합제로 통증·기능 개선[^43](철회된 논문으로 유효 근거가 아니다)[^45] |
 | 류마티스 관절염 | 임상시험 | 삼묘산+영지 IL-18 억제, 산구법 유효율 개선[^39][^40] |
 | 골다공증·강직성 척추염 | 임상시험 + 동물 메타분석 | 보신강골탕 골밀도 개선[^42], 전임상 골밀도·강도 개선[^23][^24] |
 | 골절 불유합 | 실험연구 | 우슬 투여 후 바이오마커 발현 변화[^44] |
@@ -188,7 +188,7 @@
 
 | 영역 | 추적 지표 | 관련 근거 |
 |---|---|---|
-| 관절 통증 | VAS(시각아날로그척도), WOMAC 점수 | [^39][^40][^43] |
+| 관절 통증 | VAS(시각아날로그척도), WOMAC 점수 | [^39][^40][^43](철회된 논문으로 유효 근거가 아니다) |
 | 골대사 | 골밀도(BMD, T-score), 골표지자(칼슘·인) | [^23][^24][^42] |
 | 안구건조증 | 눈물막 파괴시간(BUT), 쉬르머 검사 | [^41] |
 | 부인과 | 배란 여부, 자궁내막 두께, AMH 수치 | [^46][^47] |
@@ -284,7 +284,7 @@
 [^40]: Observation on therapeutic effect of the spreading moxibustion on rheumatoid arthritis. Xie XX 외. _Zhongguo zhen jiu_. 2008-10. [임상시험] [PMID 18972729](https://pubmed.ncbi.nlm.nih.gov/18972729/) — 강활·독활·우슬·생강 도포 후 산구법이 류마티스 관절염(n=56)에서 유효율을 높인 임상시험.
 [^41]: Observation on therapeutic effect of runmushu oral liquid in treating xerophthalmia in postmenopausal women. Wei D 외. _Zhongguo Zhong xi yi jie he za zhi_. 2009-07. [임상시험] [PMID 19852302](https://pubmed.ncbi.nlm.nih.gov/19852302/) — 우슬 함유 윤목수구강액 병용이 폐경 후 안구건조증(n=72)의 눈물 분비·안정성을 개선한 임상시험.
 [^42]: Effect of bushen qiangdu recipe on osteoporosis and bone loss of patients with ankylosing spondylitis. Wang H 외. _Zhongguo Zhong xi yi jie he za zhi_. 2011-04. [임상시험] [PMID 21608215](https://pubmed.ncbi.nlm.nih.gov/21608215/) — 보신강골탕(우슬 포함)이 강직성 척추염 환자(n=360)의 골밀도·골대사·염증을 개선한 임상시험.
-[^43]: SHINBARO, a new herbal medicine with multifunctional mechanism for joint disease: first therapeutic application for the treatment of osteoarthritis. Lee SY 외. _Archives of pharmacal research_. 2011-11. [실험연구] [DOI 10.1007/s12272-011-1121-0](https://doi.org/10.1007/s12272-011-1121-0) [PMID 22139679](https://pubmed.ncbi.nlm.nih.gov/22139679/) — 우슬 등을 포함한 복합제 신바로가 셀레콕시브에 준하는 효능과 우수한 안전성을 보인 임상 연구.
+[^43]: SHINBARO, a new herbal medicine with multifunctional mechanism for joint disease: first therapeutic application for the treatment of osteoarthritis. Lee SY 외. _Archives of pharmacal research_. 2011-11. [실험연구, 철회됨] [DOI 10.1007/s12272-011-1121-0](https://doi.org/10.1007/s12272-011-1121-0) [PMID 22139679](https://pubmed.ncbi.nlm.nih.gov/22139679/) — **철회(Retraction Notice: [PMID 22553070](https://pubmed.ncbi.nlm.nih.gov/22553070/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 우슬 등을 포함한 복합제 신바로가 셀레콕시브에 준하는 효능과 우수한 안전성을 보인 임상 연구.
 [^44]: Bioinformatic analysis and experimental identification of blood biomarkers for chronic nonunion. Wu J 외. _Journal of orthopaedic surgery and research_. 2020-06-05. [실험연구] [DOI 10.1186/s13018-020-01735-1](https://doi.org/10.1186/s13018-020-01735-1) [PMID 32503597](https://pubmed.ncbi.nlm.nih.gov/32503597/) — 만성 불유합 환자(n=55)에서 우슬 투여 후 CA1·MMP9·QPCT 발현 변화가 확인된 인체 대상 연구.
 [^45]: [Identification of efferocytosis-related genes in osteoarthritis and prediction of traditional Chinese medicines based on bioinformatics and machine learning]. Xiang K 외. _Nan fang yi ke da xue xue bao_. 2026-03-20. [실험연구] [DOI 10.12122/j.issn.1673-4254.2026.03.23](https://doi.org/10.12122/j.issn.1673-4254.2026.03.23) [PMID 41887709](https://pubmed.ncbi.nlm.nih.gov/41887709/) — 골관절염 진단 마커 규명과 함께 우슬 등을 잠재적 치료 후보 약재로 예측한 바이오인포매틱스 연구.
 [^46]: Observation on clinical efficacy of activating renal blood circulation and ovarian stimulation formula in treating ovulation failure infertility. Fan XD 외. _Zhongguo Zhong yao za zhi_. 2013-01. [임상시험] [PMID 23596887](https://pubmed.ncbi.nlm.nih.gov/23596887/) — 우슬 포함 활혈통경 처방이 배란부전 불임(n=86)에서 클로미펜보다 임신율을 유의하게 높인 임상시험.

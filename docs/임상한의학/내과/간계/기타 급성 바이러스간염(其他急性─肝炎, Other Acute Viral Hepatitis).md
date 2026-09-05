@@ -177,7 +177,7 @@ B17 코드군의 정치법(正治法)은 병원체·숙주 상태에 따라 갈�
 
 - HEV 만성 감염(주로 면역저하자)은 표준적으로 리바비린(ribavirin) 투여가 고려되며, 일본의 심장·신장 이식 수혜자 전국 조사에서는 만성 E형 간염이 발생한 환자에게 리바비린을 투여했을 때 간 수치가 정상화되고 바이러스가 소실되는 등 좋은 치료 반응을 보였다[^8]. 이 경우 한약 병용은 항바이러스제 치료를 대체하지 않고 부작용 경감·간 기능 보조의 위치에 있어야 한다(교과서적 근거).
 - HDV 감염에서는 최근 개발 중인 신약(예: libevitug 등 신규 진입 억제제)이 HDV RNA 감소·ALT 정상화에서 우수한 항바이러스 활성을 보였으며[^27], 국내 임상에서는 아직 도입 초기 단계이므로 표준 치료 선택지가 제한적인 상황에서 한약 병용의 보조적 가치를 신중하게 평가해야 한다.
-- CMV·EBV 중증 감염에서는 간시클로버(ganciclovir)·발간시클로버, 스테로이드 병용이 표준 치료이며[^38][^40][^43], 소아 EBV 연관 전염성단핵구증에서는 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율이 더 우수한 것으로 보고된다[^40]. 한약 병용은 소아 CMV 간염 영역에서 빌리루빈 감소 속도를 높이는 보조적 근거가 확인되므로[^36], 표준 항바이러스제 치료를 우선하되 한약 병용을 통한 회복 촉진을 고려할 수 있다.
+- CMV·EBV 중증 감염에서는 간시클로버(ganciclovir)·발간시클로버, 스테로이드 병용이 표준 치료이며[^38][^40](철회된 논문으로 유효 근거가 아니다)[^43], 소아 EBV 연관 전염성단핵구증에서는 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율이 더 우수한 것으로 보고된다[^40](철회된 논문으로 유효 근거가 아니다). 한약 병용은 소아 CMV 간염 영역에서 빌리루빈 감소 속도를 높이는 보조적 근거가 확인되므로[^36], 표준 항바이러스제 치료를 우선하되 한약 병용을 통한 회복 촉진을 고려할 수 있다.
 
 ---
 
@@ -283,7 +283,7 @@ B17 코드군은 병원체가 서로 다른 4개 하위 질환군으로 나뉘�
 | 병형/상황 | 근거 요지 |
 | --- | --- |
 | 영아 CMV 간염 | 간시클로버 등 항바이러스제에 한약(청간리담탕·이간강매탕) 병용 시 유효율 상승, 빌리루빈 감소 가속[^36] |
-| 소아 EBV 연관 전염성단핵구증 | 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율에서 우수[^40] |
+| 소아 EBV 연관 전염성단핵구증 | 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율에서 우수[^40](철회된 논문으로 유효 근거가 아니다) |
 | 중증 EBV 급성 간염(용혈성 빈혈 동반) | 항바이러스제+스테로이드 병용으로 관해 유도, 간이식 등 극단적 조치 이전 적극적 약물 치료 고려[^38] |
 | 만성 활성 EBV 감염(재생불량성 빈혈 동반) | 예후 불량, 다학제적 접근·세심한 모니터링 필요[^39] |
 | CMV/EBV 동시 폐렴(면역저하자) | 간시클로버+스테로이드 병용, 스테로이드 사용 중 기회감염(아스페르길루스증 등) 모니터링 필수[^43] |
@@ -314,7 +314,7 @@ B17 코드군은 병원체가 서로 다른 4개 하위 질환군으로 나뉘�
 | **HAV 유전자형 중복감염에서의 IgM 교차반응** | 급성 담즙정체·자가면역 용혈성 빈혈 동반 시 anti-HEV IgM 위양성 보고 | [^16] |
 | **HDV 중복감염 미인지** | 만성 B형 간염 보유자의 원인 불명 급성 악화를 HDV 중복 감염 배제 없이 관행적으로 관리하면 간경변 진행을 놓칠 위험 | [^22] |
 | **침구·의료 시술 관련 혈액매개감염** | 비멸균·재사용 침 사용 시 급성 C형·B형 간염 전파 위험 | [^28][^48] |
-| **면역저하자 표준 항바이러스제 대체 금지** | 리바비린(HEV)·간시클로버(CMV/EBV)·항HDV 신약 등 표준 치료를 한약으로 대체하면 안 됨. 한약은 병용 보조로 한정 | [^8][^27][^38][^40] |
+| **면역저하자 표준 항바이러스제 대체 금지** | 리바비린(HEV)·간시클로버(CMV/EBV)·항HDV 신약 등 표준 치료를 한약으로 대체하면 안 됨. 한약은 병용 보조로 한정 | [^8][^27][^38][^40](철회된 논문으로 유효 근거가 아니다) |
 | **임신 중 급성 간염** | HEV 임신부 급성 간부전·사망률 상승. 산과·간질환 협진 필수, 무분별한 한약 투여 회피 | [^1] |
 | **면역조절요법 전 미검진 CVID** | 면역글로불린 스크리닝 없이 면역조절요법 시행 시 EBV 재활성화로 간부전 위험 | [^44] |
 | **스테로이드 병용 시 기회감염** | CMV/EBV 중증 감염에 스테로이드 병용 시 아스페르길루스증 등 기회감염 위험 증가, 엄격한 모니터링 필요 | [^43] |
@@ -434,7 +434,7 @@ E형 간염 백신은 현재 중국 등 일부 국가에서 상용화되어 있�
 [^37]: Changes in Sero-immunological Status for Infectious Diseases in Solid Organ Transplantation: A 20-Year Single-Center Study in Korea. Yang J 외. _Annals of laboratory medicine_. 2026-01-13. [관찰연구, 51096명] [DOI 10.3343/alm.2025.0459](https://doi.org/10.3343/alm.2025.0459) [PMID 41526222](https://pubmed.ncbi.nlm.nih.gov/41526222/) — 국내 고형장기이식 대상자의 세대별 VZV·HSV·CMV·A형 간염·홍역 혈청양성률 변화를 20년간 추적, 맞춤형 스크리닝 전략 필요성 시사.
 [^38]: Severe acute hepatitis and cold agglutinin-related hemolytic anemia secondary to prime infection with Epstein-Barr virus. Ontanilla Clavijo G 외. _Revista espanola de enfermedades digestivas_. 2017-05. [증례 보고, 1명] [DOI 10.17235/reed.2017.4072/2015](https://doi.org/10.17235/reed.2017.4072/2015) [PMID 28376627](https://pubmed.ncbi.nlm.nih.gov/28376627/) — EBV 초회 감염으로 중증 급성 간염과 냉응집소 용혈성 빈혈이 동반된 증례에서 항바이러스제·스테로이드 병용으로 간이식 없이 관해 유도.
 [^39]: [A Case of Severe Chronic Active Epstein-Barr Virus Infection with Aplastic Anemia and Hepatitis]. Lee JI 외. _The Korean journal of gastroenterology = Taehan Sohwagi Hakhoe chi_. 2016-01-25. [증례 보고, 1명] [DOI 10.4166/kjg.2016.67.1.39](https://doi.org/10.4166/kjg.2016.67.1.39) [PMID 26809631](https://pubmed.ncbi.nlm.nih.gov/26809631/) — 성인 만성 활성 EBV 감염이 재생불량성 빈혈과 지속성 간염을 동시에 유발한 국내 증례, 예후 불량으로 다학제 접근 필요.
-[^40]: Difference between Acyclovir and Ganciclovir in the Treatment of Children with Epstein-Barr Virus-Associated Infectious Mononucleosis. Zhang S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 128명] [DOI 10.1155/2021/8996934](https://doi.org/10.1155/2021/8996934) [PMID 34721648](https://pubmed.ncbi.nlm.nih.gov/34721648/) — 소아 EBV 연관 전염성단핵구증에서 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율이 우수함을 확인.
+[^40]: Difference between Acyclovir and Ganciclovir in the Treatment of Children with Epstein-Barr Virus-Associated Infectious Mononucleosis. Zhang S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 128명, 철회됨] [DOI 10.1155/2021/8996934](https://doi.org/10.1155/2021/8996934) [PMID 34721648](https://pubmed.ncbi.nlm.nih.gov/34721648/) — **철회(Retraction Notice: [PMID 37387896](https://pubmed.ncbi.nlm.nih.gov/37387896/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 소아 EBV 연관 전염성단핵구증에서 간시클로버가 아시클로버보다 임상 유효율·EBV-DNA 음전율이 우수함을 확인.
 [^41]: Comprehensive insights into pediatric infectious mononucleosis: a retrospective study. Wang C 외. _Journal of infection in developing countries_. 2025-09-30. [관찰연구, 288명] [DOI 10.3855/jidc.21351](https://doi.org/10.3855/jidc.21351) [PMID 41060733](https://pubmed.ncbi.nlm.nih.gov/41060733/) — 소아 전염성단핵구증에서 발열이 높은 EBV-DNA 부하를 예측하며, LDH·페리틴 상승과 간종대가 간 손상·입원 연장의 위험 인자임을 확인.
 [^42]: EBV-DNA viral load and lymphocyte subsets correlation in pediatric infectious mononucleosis with hepatic injury a retrospective cohort study. Yang Z 외. _Frontiers in pediatrics_. 2026. [관찰연구, 202명] [DOI 10.3389/fped.2026.1735179](https://doi.org/10.3389/fped.2026.1735179) [PMID 41960032](https://pubmed.ncbi.nlm.nih.gov/41960032/) — 소아 전염성단핵구증에서 EBV-DNA 부하량과 CD8+ T세포 비율 상승이 간 손상과 독립적으로 연관됨을 확인.
 [^43]: Co-infection of cytomegalovirus and Epstein-Barr virus-induced pneumonitis following hepatitis B reactivation in an esophageal cancer patient: A case report. Thanh Dung Q 외. _Medicine_. 2026-03-27. [증례 보고, 1명] [DOI 10.1097/MD.0000000000048035](https://doi.org/10.1097/MD.0000000000048035) [PMID 41894262](https://pubmed.ncbi.nlm.nih.gov/41894262/) — 면역저하 암 환자에서 CMV·EBV 동시 감염 폐렴이 항생제 불응 발열로 발현, 간시클로버·스테로이드 병용 시 기회감염 모니터링 필요성 강조.

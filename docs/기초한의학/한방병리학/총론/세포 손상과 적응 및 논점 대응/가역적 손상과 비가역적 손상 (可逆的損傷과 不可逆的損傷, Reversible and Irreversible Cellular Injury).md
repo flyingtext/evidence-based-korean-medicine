@@ -119,7 +119,7 @@ ATP 고갈은 가역적 손상의 출발점이다 [교과서적 근거. 허혈·
 
 심근 허혈의 초기 단계는 가역적이며, 혈류 재개 시 수축 기능이 회복될 수 있다 [교과서적 근거. 허혈성 전처치(ischemic preconditioning)는 짧은 허혈·재관류 반복으로 심근을 보호하는 가역적 적응 기전이다. 하지 허혈 전처치가 개심술 후 심·폐 손상을 경감한다는 임상시험 [^18_limb_preconditioning]이 보고되었다.
 
-폐쇄성 수면 무호흡증(OSA) 환자의 심장 구조·기능 손상이 TRPC5 단백질 발현 증가 및 산화 스트레스와 연관된다는 연구 [^3_TRPC5]는 가역적 심 손상의 분자 기전을 시사한다. 단삼(丹參, Salvia miltiorrhiza) 복합 주사가 심판막 교체술 환자의 산화 스트레스에 미치는 효과를 평가한 임상시험 [^712_surgery_oxidative]도 가역적 심 손상의 한의학 치료 근거를 제공한다.
+폐쇄성 수면 무호흡증(OSA) 환자의 심장 구조·기능 손상이 TRPC5 단백질 발현 증가 및 산화 스트레스와 연관된다는 연구 [^3_TRPC5]는 가역적 심 손상의 분자 기전을 시사한다. 단삼(丹參, Salvia miltiorrhiza) 복합 주사가 심판막 교체술 환자의 산화 스트레스에 미치는 효과를 평가한 임상시험 [^712_surgery_oxidative](철회된 논문으로 유효 근거가 아니다)도 가역적 심 손상의 한의학 치료 근거를 제공한다.
 
 #### 8-3. 신 — 급성 신손상(가역기)
 
@@ -630,7 +630,7 @@ COPD 급성 악화에서 SPG7 단백질이 mPTP의 일시적 개방(mitochondria
 
 [^239_DOMS_EA]: Protocol for a feasibility randomised controlled trial of targeted oxygen therapy in mechanically ventilated critically ill patients.. Martin DS 외. _BMJ open_. 2019-01-17. [임상시험] [DOI 10.1136/bmjopen-2018-021674](https://doi.org/10.1136/bmjopen-2018-021674) [PMID 30659035](https://pubmed.ncbi.nlm.nih.gov/30659035/) — 본 연구는 중증 환자에게 산소포화도 목표치를 낮게 설정하는 허용적 저산소혈증 전략의 적용 가능성을 평가하는 타당성 시험(feasibility trial)이다. 이를 통해 향후 대규모 무작위 대조 시험(RCT)을 위한 표본 크기와 수행 가능성을 확인하며, 산소 투여량 조절이 환자의 산화 스트레스 및 임상 결과에 미치는 영향을 분석하고자 한다.
 
-[^712_surgery_oxidative]: Efficacy of Different Preemptive Analgesia on Postoperative Analgesia, Oxidative Stress, and Inflammatory Response after Gynecological Laparoscopic Surgery.. Sun C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 64명] [DOI 10.1155/2021/4233716](https://doi.org/10.1155/2021/4233716) [PMID 34745282](https://pubmed.ncbi.nlm.nih.gov/34745282/) — 부인과 복강경 수술 전 옥시코돈, 펜타조신, 케토롤락 트로메타민을 투여하는 선제적 진통법은 수술 후 통증을 감소시키고 염증 반응 및 스트레스 반응을 억제하는 데 효과적이고 안전하다. 특히 옥시코돈은 스트레스 반응을 효과적으로 완화하여 다른 약제보다 더 우수한 수술 후 진통 효과를 나타내므로, 통증 조절이 중요한 복강경 수술 환자에게 고려될 수 있다.
+[^712_surgery_oxidative]: Efficacy of Different Preemptive Analgesia on Postoperative Analgesia, Oxidative Stress, and Inflammatory Response after Gynecological Laparoscopic Surgery.. Sun C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 64명, 철회됨] [DOI 10.1155/2021/4233716](https://doi.org/10.1155/2021/4233716) [PMID 34745282](https://pubmed.ncbi.nlm.nih.gov/34745282/) — **철회(Retraction Notice: [PMID 37387833](https://pubmed.ncbi.nlm.nih.gov/37387833/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 부인과 복강경 수술 전 옥시코돈, 펜타조신, 케토롤락 트로메타민을 투여하는 선제적 진통법은 수술 후 통증을 감소시키고 염증 반응 및 스트레스 반응을 억제하는 데 효과적이고 안전하다. 특히 옥시코돈은 스트레스 반응을 효과적으로 완화하여 다른 약제보다 더 우수한 수술 후 진통 효과를 나타내므로, 통증 조절이 중요한 복강경 수술 환자에게 고려될 수 있다.
 
 [^721_baihui_cognitive]: [Clinical observation of long-time needle retaining at Baihui (GV 20) on post-stroke cognitive disorder of qi deficiency and blood stasis].. Yang F 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-11-12. [임상시험, 67명] [DOI 10.13703/j.0255-2930.2018.11.004](https://doi.org/10.13703/j.0255-2930.2018.11.004) [PMID 30672194](https://pubmed.ncbi.nlm.nih.gov/30672194/) — 기허혈어(氣虛血瘀) 변증의 뇌졸중 후 인지장애 환자에게 표준 재활치료와 함께 百會(백회, GV20) 혈의 장침유침(long-time needle retaining)을 병행하는 것이 인지기능(MMSE, MoCA) 및 신경학적 결손(NIHSS) 개선에 유의미한 효과가 있음을 시사한다. 실제 임상에서 뇌졸중 후 인지저하를 보이는 환자에게 안전하고 효과적인 보조 요법으로 적용할 수 있다.
 

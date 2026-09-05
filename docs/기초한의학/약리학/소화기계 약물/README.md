@@ -386,7 +386,7 @@ NSAID 유발 궤양은 COX-1 억제에 의한 PGE2 감소로 점막방어가 저
 
 **③ 병태생리(양방)**: 화학요법제가 장관 크롬친화세포에서 세로토닌을 유리시켜 급성기 구토를, 이후 P물질·NK1 경로를 통해 지연기 구토를 유발하는 이중 기전이 핵심이다[교과서적 근거].
 
-**④ 치료**: 5-HT3길항제+NK1길항제+덱사메타손의 삼중 병용 표준요법[^52][^66]에 더해, 통합의학적 중재(생강[^102], 최면요법[^103])가 보조적으로 활용된다. 이침(耳鍼) 요법의 근거를 정리한 체계적 고찰[^104], 뜸 치료의 메타분석[^105], 내관(PC6) 전기자극의 메타분석[^106], 대장암 화학요법 환자의 오심구토에 대한 통합의학적 중재 메타분석[^107], 침 자극 전반의 메타분석[^108]이 비약물적 병용요법의 근거를 뒷받침한다. 통합적 중재의 생물학적 기전을 정리한 스코핑 리뷰[^109]도 참고할 수 있다.
+**④ 치료**: 5-HT3길항제+NK1길항제+덱사메타손의 삼중 병용 표준요법[^52][^66]에 더해, 통합의학적 중재(생강[^102](철회된 논문으로 유효 근거가 아니다), 최면요법[^103])가 보조적으로 활용된다. 이침(耳鍼) 요법의 근거를 정리한 체계적 고찰[^104], 뜸 치료의 메타분석[^105], 내관(PC6) 전기자극의 메타분석[^106], 대장암 화학요법 환자의 오심구토에 대한 통합의학적 중재 메타분석[^107], 침 자극 전반의 메타분석[^108]이 비약물적 병용요법의 근거를 뒷받침한다. 통합적 중재의 생물학적 기전을 정리한 스코핑 리뷰[^109]도 참고할 수 있다.
 
 **⑤ 예후**: 예방적 항구토 요법이 적절히 시행되면 대부분 조절 가능하나, 지연기 구토·예기성 구토(anticipatory nausea)는 상대적으로 조절이 어렵다.
 
@@ -423,7 +423,7 @@ NSAID 유발 궤양은 COX-1 억제에 의한 PGE2 감소로 점막방어가 저
 
 - 향사평위산(香砂-Pyeongwi-san, HPS)의 삶의 질 개선 효과를 다룬 임상시험이 보고되었다[^103].
 - 한국 실제 임상 데이터에서 평위산·향사평위산이 기능성 소화불량에 가장 흔히 처방되는 한약임이 전국 단위 관찰연구로 확인되었다[^101].
-- 향련평위산 가감방(Modified Xianglian Pingwei Powder)에 항생제를 병용한 헬리코박터 관련 질환 치료 임상시험에서 병용 요법의 유효성이 보고되었다[^102].
+- 향련평위산 가감방(Modified Xianglian Pingwei Powder)에 항생제를 병용한 헬리코박터 관련 질환 치료 임상시험에서 병용 요법의 유효성이 보고되었다[^102](철회된 논문으로 유효 근거가 아니다).
 - 이중탕·평위산·시호소간탕의 표준화를 위한 처방 투여 연구도 진행되고 있다[^116].
 
 평위산은 프로키네틱제·소화성궤양 보조요법 영역에서 실제 임상 처방 빈도가 높게 확인된 처방으로, 기능성소화불량군의 1차 한의학적 개입으로 위치시킬 근거가 있다. 상세한 방해·가감법은 방제학 폴더의 평위산(平胃散) 문서를 참조한다.
@@ -662,7 +662,7 @@ NSAID 유발 궤양은 COX-1 억제에 의한 PGE2 감소로 점막방어가 저
 [^99]: Acupuncture is effective in the treatment of postprandial distress syndrome: A systematic review and meta-analysis. _(저자 미상)_. 2023-06-23. [메타분석] [DOI 10.1097/md.0000000000033968](https://doi.org/10.1097/md.0000000000033968) — 식후불편감증후군에 대한 침 치료의 효과를 메타분석으로 확인하였다.
 [^100]: Evaluating traditional Chinese medicine diagnostic instruments for functional dyspepsia: systematic review. _(저자 미상)_. 2021-09. [체계적 고찰] [DOI 10.1016/j.imr.2020.100713](https://doi.org/10.1016/j.imr.2020.100713) [PMID 33665098](https://pubmed.ncbi.nlm.nih.gov/33665098/) — 기능성 소화불량의 한의학적 변증·진단 도구를 표준화하려는 체계적 고찰이다.
 [^101]: Herbal Medicine Prescriptions for Functional Dyspepsia: A Nationwide Population-Based Study in Korea. Boram Lee 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-01-29. [관찰연구] [DOI 10.1155/2022/3306420](https://doi.org/10.1155/2022/3306420) — 한국 한의 의료기관에서 기능성 소화불량 치료에 가장 많이 처방되는 한약이 평위산과 향사평위산임을 확인한 전국 단위 관찰연구다.
-[^102]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients. _(저자 미상)_. 2022. [임상시험] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — 향련평위산 가감방에 글루타치온·레보플록사신을 병용한 임상시험으로, 소화기 질환 치료에서 평위산 계열 가감방과 항생제 병용의 유효성을 보고하였다.
+[^102]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients. _(저자 미상)_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — **철회(Retraction Notice: [PMID 38125141](https://pubmed.ncbi.nlm.nih.gov/38125141/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 향련평위산 가감방에 글루타치온·레보플록사신을 병용한 임상시험으로, 소화기 질환 치료에서 평위산 계열 가감방과 항생제 병용의 유효성을 보고하였다.
 [^103]: A traditional herbal formula, Hyangsa-Pyeongwi san (HPS), improves quality of life (QoL) of the patients with functional dyspepsia. _(저자 미상)_. 2014. [임상시험] [DOI 10.1016/j.jep.2013.10.033](https://doi.org/10.1016/j.jep.2013.10.033) [PMID 24239600](https://pubmed.ncbi.nlm.nih.gov/24239600/) — 향사평위산이 기능성 소화불량 환자의 삶의 질을 유의하게 개선했음을 확인한 임상시험이다.
 [^104]: Current Evidence on Auricular Therapy for Chemotherapy-Induced Nausea and Vomiting in Cancer Patients. _(저자 미상)_. 2014-01. [체계적 고찰] [DOI 10.1155/2014/430796](https://doi.org/10.1155/2014/430796) — 화학요법 유발 오심구토에 대한 이침 요법의 근거를 정리한 체계적 고찰이다.
 [^105]: Moxibustion for Chemotherapy-Induced Nausea and Vomiting: A Systematic Review and Meta-Analysis. _(저자 미상)_. 2017-01. [메타분석] [DOI 10.1155/2017/9854893](https://doi.org/10.1155/2017/9854893) — 화학요법 유발 오심구토에 대한 뜸 치료의 효과를 메타분석으로 확인하였다.

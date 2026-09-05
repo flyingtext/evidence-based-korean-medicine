@@ -202,7 +202,7 @@ COPD 급성 악화(AECOPD) 환자를 대상으로 이프라트로피움 브로�
 
 #### 2-2. NAC의 COPD·만성기관지염 임상 근거
 
-COPD 환자의 가래 증상에 대한 네뷸라이저 NAC 투여 효과를 평가한 한국의 다기관 임상시험(NEWEST 연구)은, 12주간의 NAC 네뷸라이저 요법이 가래 증상을 유의하게 개선하고 심각한 부작용 없이 안전하게 적용 가능함을 보여주었다[^54]. 그러나 경증-중등도 COPD 환자에서 고용량 경구 NAC를 2년간 투여한 대규모 무작위대조시험(중국)에서는 연간 악화율 감소나 폐기능 개선에 유의한 효과가 없어, 해당 단계의 COPD 환자에게 항산화·점액용해 목적의 고용량 NAC 사용을 일차적으로 권장하기에는 근거가 부족함을 보여준다[^55]. 만성기관지염을 동반한 COPD 환자를 대상으로 한 또 다른 임상시험에서도 고용량 NAC가 호흡기 건강상태(SGRQ 점수) 개선에 위약 대비 유의한 효과를 보이지 못했다[^56]. COPD 환자에서 다양한 점액용해제의 효능·안전성을 비교한 네트워크 메타분석은, 에르도스테인(erdosteine) 900mg이 폐기능 개선(FEV1 상승)과 산화스트레스 감소에 가장 효과적이었던 반면 시네올(cineole)은 이상반응·급성악화 발생률을 낮추는 데 가장 유리하여, 환자의 우선순위(폐기능 개선 대 안전성·악화 방지)에 따라 약제를 선택할 수 있음을 시사한다[^53].
+COPD 환자의 가래 증상에 대한 네뷸라이저 NAC 투여 효과를 평가한 한국의 다기관 임상시험(NEWEST 연구)은, 12주간의 NAC 네뷸라이저 요법이 가래 증상을 유의하게 개선하고 심각한 부작용 없이 안전하게 적용 가능함을 보여주었다[^54]. 그러나 경증-중등도 COPD 환자에서 고용량 경구 NAC를 2년간 투여한 대규모 무작위대조시험(중국)에서는 연간 악화율 감소나 폐기능 개선에 유의한 효과가 없어, 해당 단계의 COPD 환자에게 항산화·점액용해 목적의 고용량 NAC 사용을 일차적으로 권장하기에는 근거가 부족함을 보여준다[^55]. 만성기관지염을 동반한 COPD 환자를 대상으로 한 또 다른 임상시험에서도 고용량 NAC가 호흡기 건강상태(SGRQ 점수) 개선에 위약 대비 유의한 효과를 보이지 못했다[^56](철회된 논문으로 유효 근거가 아니다). COPD 환자에서 다양한 점액용해제의 효능·안전성을 비교한 네트워크 메타분석은, 에르도스테인(erdosteine) 900mg이 폐기능 개선(FEV1 상승)과 산화스트레스 감소에 가장 효과적이었던 반면 시네올(cineole)은 이상반응·급성악화 발생률을 낮추는 데 가장 유리하여, 환자의 우선순위(폐기능 개선 대 안전성·악화 방지)에 따라 약제를 선택할 수 있음을 시사한다[^53].
 
 이처럼 NAC의 COPD 임상 근거는 투여경로(네뷸라이저 대 경구)와 중증도에 따라 결과가 엇갈리며, 이는 거담제·점액용해제 선택이 단일 약제의 우월성보다 환자군·투여방식에 따른 개별화가 필요한 영역임을 보여준다. 한편 특발성 폐섬유증(IPF)의 약물치료를 비교한 네트워크 메타분석에서는, NAC와 록시트로마이신 병용이 폐활량(VC)·FEV1/FVC 개선에 상대적으로 효과적이라는 신호가 확인되어, NAC의 임상적 유용성이 적응증에 따라 다르게 평가될 수 있음을 보여준다[^57].
 
@@ -217,7 +217,7 @@ COPD 환자의 가래 증상에 대한 네뷸라이저 NAC 투여 효과를 평�
 | 중추성 마약성 진해제 | 코데인 | μ-오피오이드 수용체, 기침중추 억제 | 남용·의존[^44][^45] |
 | 중추성 비마약성 진해제 | 덱스트로메토르판 | 시그마-1·NMDA 수용체 | 청소년 오남용[^51][^52] |
 | 거담제(반사성) | 구아이페네신 | 위점막 자극→분비 촉진 | 호흡기 근거 상대적으로 제한적[^58] |
-| 점액용해제 | N-아세틸시스테인 | 이황화결합 절단, 항산화 | 투여경로·중증도별 효과 차이[^54][^55][^56] |
+| 점액용해제 | N-아세틸시스테인 | 이황화결합 절단, 항산화 | 투여경로·중증도별 효과 차이[^54][^55][^56](철회된 논문으로 유효 근거가 아니다) |
 
 ---
 
@@ -360,7 +360,7 @@ COPD는 비가역적 기도폐쇄와 만성 염증을 특징으로 하며, LAMA�
 
 **Q7. N-아세틸시스테인(NAC)은 모든 COPD 환자의 가래에 효과가 있는가?**
 
-투여경로와 중증도에 따라 결과가 다르다. 네뷸라이저 NAC는 가래 증상 개선에 효과적이었지만[^54], 경구 고용량 NAC의 대규모 임상시험은 경증-중등도 COPD에서 악화율·폐기능에 유의한 효과를 보이지 못했다[^55][^56]. 따라서 NAC를 일률적으로 권하기보다 환자의 증상(가래의 양·점도)과 투여경로를 함께 고려해야 한다.
+투여경로와 중증도에 따라 결과가 다르다. 네뷸라이저 NAC는 가래 증상 개선에 효과적이었지만[^54], 경구 고용량 NAC의 대규모 임상시험은 경증-중등도 COPD에서 악화율·폐기능에 유의한 효과를 보이지 못했다[^55][^56](철회된 논문으로 유효 근거가 아니다). 따라서 NAC를 일률적으로 권하기보다 환자의 증상(가래의 양·점도)과 투여경로를 함께 고려해야 한다.
 
 **Q8. 알레르기비염에 침구·한약을 병행할 때 항히스타민제를 끊어도 되는가?**
 
@@ -426,7 +426,7 @@ COPD는 비가역적 기도폐쇄와 만성 염증을 특징으로 하며, LAMA�
 [^53]: Efficacy and safety of mucolytic agents in patients with chronic obstructive pulmonary disease: a systematic review and network meta-analysis. Zhao Y 외. _BMC pulmonary medicine_. 2026-02-13. [메타분석] (환자수 4408) [DOI 10.1186/s12890-026-04166-6](https://doi.org/10.1186/s12890-026-04166-6) [PMID 41688985](https://pubmed.ncbi.nlm.nih.gov/41688985/) — 에르도스테인은 폐기능 개선, 시네올은 안전성·악화 예방에서 우수.
 [^54]: The effect of nebulized N-acetylcysteine on the phlegm of chronic obstructive pulmonary disease: the NEWEST study. Rhee CK 외. _BMC pulmonary medicine_. 2024-09-02. [임상시험] (환자수 100) [DOI 10.1186/s12890-024-03243-y](https://doi.org/10.1186/s12890-024-03243-y) [PMID 39223526](https://pubmed.ncbi.nlm.nih.gov/39223526/) — 네뷸라이저 NAC가 COPD 가래 증상을 유의하게 개선.
 [^55]: Effect of high-dose N-acetylcysteine on exacerbations and lung function in patients with mild-to-moderate COPD. Zhou Y 외. _Nature communications_. 2024-09-30. [임상시험] (환자수 968) [DOI 10.1038/s41467-024-51079-1](https://doi.org/10.1038/s41467-024-51079-1) [PMID 39349461](https://pubmed.ncbi.nlm.nih.gov/39349461/) — 경증-중등도 COPD에서 고용량 경구 NAC가 악화율·폐기능에 유의한 효과 없음.
-[^56]: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis. Zhang L 외. _BioMed research international_. 2022. [임상시험] (환자수 100) [DOI 10.1155/2022/9133777](https://doi.org/10.1155/2022/9133777) [PMID 35795313](https://pubmed.ncbi.nlm.nih.gov/35795313/) — 고용량 NAC가 SGRQ 점수 개선에 위약 대비 유의한 효과 없음.
+[^56]: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis. Zhang L 외. _BioMed research international_. 2022. [임상시험, 철회됨] (환자수 100) [DOI 10.1155/2022/9133777](https://doi.org/10.1155/2022/9133777) [PMID 35795313](https://pubmed.ncbi.nlm.nih.gov/35795313/) — **철회(Retraction Notice: [PMID 38075328](https://pubmed.ncbi.nlm.nih.gov/38075328/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 고용량 NAC가 SGRQ 점수 개선에 위약 대비 유의한 효과 없음.
 [^57]: Network meta-analysis of pharmacological treatments for idiopathic pulmonary fibrosis: evaluating effects on lung function. Yin Y 외. _Frontiers in pharmacology_. 2026. [메타분석] (환자수 16525) [DOI 10.3389/fphar.2026.1761899](https://doi.org/10.3389/fphar.2026.1761899) [PMID 41808863](https://pubmed.ncbi.nlm.nih.gov/41808863/) — IPF에서 NAC+록시트로마이신 병용이 폐기능 일부 지표 개선과 연관.
 [^58]: Guaifenesin as a treatment for primary dysmenorrhea. Marsden JS 외. _The Journal of the American Board of Family Practice_. [임상시험] (환자수 34) [DOI 10.3122/jabfm.17.4.240](https://doi.org/10.3122/jabfm.17.4.240) [PMID 15243011](https://pubmed.ncbi.nlm.nih.gov/15243011/) — 구아이페네신의 비호흡기 적응증 근거가 통계적 유의성에 이르지 못해, 호흡기 영역에서도 대규모 근거가 더 필요함을 시사.
 [^59]: Exposure of Fexofenadine, but Not Pseudoephedrine, Is Markedly Decreased by Green Tea Extract in Healthy Volunteers. Misaka S 외. _Clinical pharmacology and therapeutics_. 2022-09. [임상시험] (환자수 10) [DOI 10.1002/cpt.2682](https://doi.org/10.1002/cpt.2682) [PMID 35678032](https://pubmed.ncbi.nlm.nih.gov/35678032/) — 녹차추출물이 펙소페나딘 흡수는 감소시키나 슈도에페드린 약동학에는 영향 없음.

@@ -174,7 +174,7 @@ HBV 양성 간세포암 환자에서 특히 높게 발현되는 SLC16A3가 쿠�
 
 #### 14-1. 보기(補氣)·보허(補虛) 계열 한약과 대식세포 활성
 
-원인 불명의 반복적 체외수정 실패를 겪는 여성에게 대식세포 활성 한약 혼합물(macrophage-activating Chinese mixed herbs, MACH)을 투여한 임상시험에서는, 배반포의 질적 개선과 FSH 농도의 유의미한 감소가 관찰되었다[^64]. 소화기계 암 환자에게 신기부정주사제(SQFZI)를 화학요법과 병용했을 때 암 관해율·안정률이 향상되고 체중 증가·삶의 질 개선이 관찰된 임상시험[^65]과, 위암 환자에게 동일 계열의 신기부정주사제를 화학요법과 병용했을 때 관해율·안정률이 유의하게 향상되었으며 특히 기허(氣虛) 증상이 있는 환자에게 더 효과적이었던 임상시험[^66]은, 보기(補氣) 치법이 대식세포·NK세포를 포함한 선천면역 활성을 부스팅하여 화학요법의 임상적 효과를 보조할 가능성을 시사한다. 태국 전통 민간요법 약제가 유방암 환자의 면역체계를 자극하여 NK세포 결합 활성을 높이고 면역 반응을 조절할 가능성을 보인 임상시험[^67]도 유사한 맥락에서 참고할 수 있다.
+원인 불명의 반복적 체외수정 실패를 겪는 여성에게 대식세포 활성 한약 혼합물(macrophage-activating Chinese mixed herbs, MACH)을 투여한 임상시험에서는, 배반포의 질적 개선과 FSH 농도의 유의미한 감소가 관찰되었다[^64](철회된 논문으로 유효 근거가 아니다). 소화기계 암 환자에게 신기부정주사제(SQFZI)를 화학요법과 병용했을 때 암 관해율·안정률이 향상되고 체중 증가·삶의 질 개선이 관찰된 임상시험[^65]과, 위암 환자에게 동일 계열의 신기부정주사제를 화학요법과 병용했을 때 관해율·안정률이 유의하게 향상되었으며 특히 기허(氣虛) 증상이 있는 환자에게 더 효과적이었던 임상시험[^66]은, 보기(補氣) 치법이 대식세포·NK세포를 포함한 선천면역 활성을 부스팅하여 화학요법의 임상적 효과를 보조할 가능성을 시사한다. 태국 전통 민간요법 약제가 유방암 환자의 면역체계를 자극하여 NK세포 결합 활성을 높이고 면역 반응을 조절할 가능성을 보인 임상시험[^67]도 유사한 맥락에서 참고할 수 있다.
 
 #### 14-2. 익기활혈(益氣活血) 계열 한약과 대식세포 CD40
 
@@ -288,7 +288,7 @@ TAM 침윤 밀도·M1/M2 비율은 다수 암종에서 독립적 예후 인자�
 
 #### 18-3. 병태생리
 
-류마티스 관절염 환자에서 NLR·PLR·LMR과 같은 단순 혈액 지표가 질병 활성도·치료 반응을 평가하는 독립적 예측 인자로 활용될 수 있음이 확인되었고[^64], 쇼그렌증후군의 발병 과정에서 대식세포가 선천면역과 적응면역을 연결하며 외분비선의 염증 환경을 유지하고 림프구를 활성화하는 핵심 역할을 한다는 서술 종설[^62]과, 원발성 쇼그렌증후군의 병태생리에서 miR-216a-3p·miR-31-5p·miR-155-5p가 NF-κB·JAK/STAT·PI3K/AKT 경로를 통해 면역 불균형을 조절함을 설명한 문헌 고찰[^63]은 대식세포-마이크로RNA 축이 자가면역 외분비선 질환의 핵심 병태생리로 부상하고 있음을 보여준다. 전신성 홍반성 루푸스 신규 발병 환자에서 Tyro3 자가항체 증가가 질병 활성도와 상관관계를 보이며 대식세포의 자멸세포 제거 능력을 저해함이 확인되었고[^14], 전신성 홍반성 루푸스 환자의 약 20%에서 림프구·단핵구 표면에 열충격단백질90(Hsp90)이 발현되며 이것이 질병 활성도와 양의 상관관계를 보인 초기 관찰연구도[^75] 자가항원·스트레스 단백질이 단핵구·대식세포 매개 자가면역 증폭에 관여함을 시사한다. anti-MDA5 항체 양성 피부근염에 MAS가 동반되면 사망률이 매우 높고 특히 고령 환자에서 위험도가 증가함이 확인되었으며[^19], 기존 치료에 반응하지 않는 불응성 류마티스 질환 관련 MAS 환자에게 룩솔리티닙을 투여했을 때 생존율이 유의하게 향상되고 스테로이드 의존도가 감소한 관찰연구도[^18] 자가면역질환에서 대식세포 활성이 통제를 잃을 때 나타나는 치명적 합병증(MAS)의 중요성을 재확인시킨다.
+류마티스 관절염 환자에서 NLR·PLR·LMR과 같은 단순 혈액 지표가 질병 활성도·치료 반응을 평가하는 독립적 예측 인자로 활용될 수 있음이 확인되었고[^64](철회된 논문으로 유효 근거가 아니다), 쇼그렌증후군의 발병 과정에서 대식세포가 선천면역과 적응면역을 연결하며 외분비선의 염증 환경을 유지하고 림프구를 활성화하는 핵심 역할을 한다는 서술 종설[^62]과, 원발성 쇼그렌증후군의 병태생리에서 miR-216a-3p·miR-31-5p·miR-155-5p가 NF-κB·JAK/STAT·PI3K/AKT 경로를 통해 면역 불균형을 조절함을 설명한 문헌 고찰[^63]은 대식세포-마이크로RNA 축이 자가면역 외분비선 질환의 핵심 병태생리로 부상하고 있음을 보여준다. 전신성 홍반성 루푸스 신규 발병 환자에서 Tyro3 자가항체 증가가 질병 활성도와 상관관계를 보이며 대식세포의 자멸세포 제거 능력을 저해함이 확인되었고[^14], 전신성 홍반성 루푸스 환자의 약 20%에서 림프구·단핵구 표면에 열충격단백질90(Hsp90)이 발현되며 이것이 질병 활성도와 양의 상관관계를 보인 초기 관찰연구도[^75] 자가항원·스트레스 단백질이 단핵구·대식세포 매개 자가면역 증폭에 관여함을 시사한다. anti-MDA5 항체 양성 피부근염에 MAS가 동반되면 사망률이 매우 높고 특히 고령 환자에서 위험도가 증가함이 확인되었으며[^19], 기존 치료에 반응하지 않는 불응성 류마티스 질환 관련 MAS 환자에게 룩솔리티닙을 투여했을 때 생존율이 유의하게 향상되고 스테로이드 의존도가 감소한 관찰연구도[^18] 자가면역질환에서 대식세포 활성이 통제를 잃을 때 나타나는 치명적 합병증(MAS)의 중요성을 재확인시킨다.
 
 #### 18-4. 치료
 
@@ -302,7 +302,7 @@ MAS가 동반된 자가면역질환은 급격히 중증화될 수 있어 조기 
 
 #### 18-6. 관리
 
-질병 활성도 지표(ESR·CRP·자가항체가)와 함께 NLR·PLR·LMR과 같은 단순 혈액 지표를 병행 추적하는 것이 비용 효율적인 관리 전략이 될 수 있다[^64].
+질병 활성도 지표(ESR·CRP·자가항체가)와 함께 NLR·PLR·LMR과 같은 단순 혈액 지표를 병행 추적하는 것이 비용 효율적인 관리 전략이 될 수 있다[^64](철회된 논문으로 유효 근거가 아니다).
 
 ### 19. 군5 — 감염성·전신염증반응 질환
 
@@ -485,7 +485,7 @@ MAS는 급격히 진행하는 치명적 응급 상태이므로, 급격한 발열
 [^61]: [Significance of serum MMP-3, TIMP-1, and monocyte CD147 in rheumatoid arthritis patients of damp-heat Bi-syndrome and of cold-damp Bi-syndrome]. Wang ZZ 외. _Zhongguo Zhong xi yi jie he za zhi_. 2013-06. [관찰연구, 22명] [PMID 23980356](https://pubmed.ncbi.nlm.nih.gov/23980356/) — 류마티스 관절염 환자에서 습열비증후군 유형이 한습비증후군 유형보다 혈청 MMP-3 수준·단핵구 CD147의 평균형광강도가 유의하게 높다.
 [^62]: The Complex Roles of Macrophages in Sjögren's Syndrome: A Narrative Review. Ren Y 외. _Cureus_. 2025-08. [문헌 고찰] [DOI 10.7759/cureus.89486](https://doi.org/10.7759/cureus.89486) [PMID 40918838](https://pubmed.ncbi.nlm.nih.gov/40918838/) — 쇼그렌증후군의 발병 과정에서 대식세포가 선천면역과 적응면역을 연결하며 외분비선의 염증 환경을 유지하고 림프구를 활성화하는 핵심 역할을 한다.
 [^63]: The role of microRNAs in primary Sjögren's disease: deciphering regulatory networks and assessing current therapeutic perspectives. Chengzhi W 외. _Frontiers in immunology_. 2025. [문헌 고찰] [DOI 10.3389/fimmu.2025.1669382](https://doi.org/10.3389/fimmu.2025.1669382) [PMID 41181100](https://pubmed.ncbi.nlm.nih.gov/41181100/) — 원발성 쇼그렌증후군의 병태생리에서 miR-216a-3p·miR-31-5p·miR-155-5p가 NF-κB·JAK/STAT·PI3K/AKT 경로를 통해 면역 불균형을 조절한다.
-[^64]: Correlation between NLR, PLR, and LMR and Disease Activity, Efficacy Assessment in Rheumatoid Arthritis. Li M 외. _Evidence-based complementary and alternative medicine_. 2021. [관찰연구, 132명] [DOI 10.1155/2021/4433141](https://doi.org/10.1155/2021/4433141) [PMID 34721631](https://pubmed.ncbi.nlm.nih.gov/34721631/) — NLR·PLR·LMR과 같은 단순 혈액 지표가 류마티스 관절염 환자의 질병 활성도·치료 반응을 평가하는 독립적 예측 인자로 활용될 수 있다.
+[^64]: Correlation between NLR, PLR, and LMR and Disease Activity, Efficacy Assessment in Rheumatoid Arthritis. Li M 외. _Evidence-based complementary and alternative medicine_. 2021. [관찰연구, 132명, 철회됨] [DOI 10.1155/2021/4433141](https://doi.org/10.1155/2021/4433141) [PMID 34721631](https://pubmed.ncbi.nlm.nih.gov/34721631/) — **철회(Retraction Notice: [PMID 37387836](https://pubmed.ncbi.nlm.nih.gov/37387836/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: NLR·PLR·LMR과 같은 단순 혈액 지표가 류마티스 관절염 환자의 질병 활성도·치료 반응을 평가하는 독립적 예측 인자로 활용될 수 있다.
 [^65]: [Clinical study on Shenqi Fuzheng injection combined with chemotherapy in treating malignant tumor of digestive tract]. Xin M 외. _Zhongguo Zhong xi yi jie he za zhi_. 1998-11. [임상시험, 182명] [PMID 11477858](https://pubmed.ncbi.nlm.nih.gov/11477858/) — 신기부정주사제를 화학요법과 병용할 경우 소화기계 암 환자의 암 관해율·안정률을 높이고 체중 증가·삶의 질 개선에 유의미한 효과가 있다.
 [^66]: [Clinical study on effect of shenqi fuzheng injection combined with chemotherapy in treating gastric cancer]. Zhou K 외. _Zhongguo Zhong xi yi jie he za zhi_. 1999-01. [임상시험, 120명] [PMID 11783251](https://pubmed.ncbi.nlm.nih.gov/11783251/) — 신기부정주사제를 화학요법과 병용 투여했을 때 위암 환자의 관해율·안정률이 유의하게 향상되었으며 특히 기허 증상이 있는 환자에게 효과적이다.
 [^67]: Immunostimulating effect of a well-known Thai folkloric remedy in breast cancer patients. Thisoda P 외. _Asian Pacific journal of cancer prevention_. 2013. [임상시험, 46명] [DOI 10.7314/apjcp.2013.14.4.2599](https://doi.org/10.7314/apjcp.2013.14.4.2599) [PMID 23725182](https://pubmed.ncbi.nlm.nih.gov/23725182/) — 태국 전통 민간요법 약제가 유방암 환자의 면역체계를 자극하여 NK세포 결합 활성을 높이고 면역 반응을 조절할 가능성을 시사한다.

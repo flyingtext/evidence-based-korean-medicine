@@ -218,7 +218,7 @@ NK 세포 활성·수치의 회복이 암 환자의 전반적 생존율 개선�
 
 #### 16-3. 병태생리
 
-ME/CFS 환자의 NK 세포 세포독성 활성 저하는 이 질환의 가장 재현성 높은 면역학적 소견 중 하나로 오랫동안 보고되어 왔다. 식이·지질·면역세포와 만성피로증후군 사이의 인과관계를 멘델무작위분석으로 검증한 연구는, 치즈 섭취가 HDL-콜레스테롤·ApoA1을 증가시키고 이것이 특정 면역세포(CD3-NK 림프구, IgD+CD38+ B세포)의 표현형 변화를 유도해 CFS를 예방하는 보호 효과를 가질 가능성을 시사하였다[^77]. 유전적으로 추론된 면역세포·염증성 사이토카인과 ME/CFS의 인과적 역할을 평가한 대규모 연구는, 면역 기능부전과 특정 염증성 사이토카인(CXCL5·CCL20 증가, TNF 감소)이 질환 위험과 인과적으로 연관됨을 보여주어[^78], 향후 진단 바이오마커·표적 치료 전략 개발의 기초 자료로 참고된다.
+ME/CFS 환자의 NK 세포 세포독성 활성 저하는 이 질환의 가장 재현성 높은 면역학적 소견 중 하나로 오랫동안 보고되어 왔다. 식이·지질·면역세포와 만성피로증후군 사이의 인과관계를 멘델무작위분석으로 검증한 연구는, 치즈 섭취가 HDL-콜레스테롤·ApoA1을 증가시키고 이것이 특정 면역세포(CD3-NK 림프구, IgD+CD38+ B세포)의 표현형 변화를 유도해 CFS를 예방하는 보호 효과를 가질 가능성을 시사하였다[^77](철회된 논문으로 유효 근거가 아니다). 유전적으로 추론된 면역세포·염증성 사이토카인과 ME/CFS의 인과적 역할을 평가한 대규모 연구는, 면역 기능부전과 특정 염증성 사이토카인(CXCL5·CCL20 증가, TNF 감소)이 질환 위험과 인과적으로 연관됨을 보여주어[^78], 향후 진단 바이오마커·표적 치료 전략 개발의 기초 자료로 참고된다.
 
 #### 16-4. 치료
 
@@ -328,7 +328,7 @@ CD56 발현·EBV 양성 여부·JAK-STAT 변이 여부가 예후를 좌우하는
 | 수면 | 충분한 수면과 규칙적 생활, 과로 회피 | 「정기존내, 사불가간」 |
 | 활동 | 무리하지 않는 범위의 규칙적 유산소 운동·기공·태극권 | [^65][^66][^43] |
 | 정서 | 스트레스 관리, 심리적 지지, 필요 시 심리 상담 병행 | [^61][^62][^81] |
-| 식이 | 균형 잡힌 식이, 과도한 금식·편식 회피 | [^77] |
+| 식이 | 균형 잡힌 식이, 과도한 금식·편식 회피 | [^77](철회된 논문으로 유효 근거가 아니다) |
 | 감염 예방 | 손위생, 계절별 백신 접종, 헤르페스바이러스 재활성화 징후 조기 인지 | [^14][^15] |
 | 호흡·이완 | 규칙적 심호흡·명상 수련 | [^63][^64][^67] |
 
@@ -350,7 +350,7 @@ CD56 발현·EBV 양성 여부·JAK-STAT 변이 여부가 예후를 좌우하는
 
 **Q3. 만성피로증후군은 NK세포 수치를 재면 진단할 수 있는가?**
 
-아니다. ME/CFS는 NK 세포 세포독성 활성 저하가 재현성 높은 소견으로 보고되지만[^77][^78] 진단 자체는 임상 증상(6개월 이상의 원인 불명 피로, 운동 후 불쾌감 등)에 기반한 배제 진단이며, NK 세포 검사가 확립된 진단 기준으로 사용되지는 않는다. 갑상선기능이상·빈혈·수면무호흡증·우울증 등 기질적 원인을 먼저 배제해야 한다.
+아니다. ME/CFS는 NK 세포 세포독성 활성 저하가 재현성 높은 소견으로 보고되지만[^77](철회된 논문으로 유효 근거가 아니다)[^78] 진단 자체는 임상 증상(6개월 이상의 원인 불명 피로, 운동 후 불쾌감 등)에 기반한 배제 진단이며, NK 세포 검사가 확립된 진단 기준으로 사용되지는 않는다. 갑상선기능이상·빈혈·수면무호흡증·우울증 등 기질적 원인을 먼저 배제해야 한다.
 
 **Q4. 기공·태극권을 하면 정말 면역력이 좋아지는가?**
 
@@ -454,7 +454,7 @@ CD56 발현·EBV 양성 여부·JAK-STAT 변이 여부가 예후를 좌우하는
 [^74]: Heterogeneous immune cell composition in patients with combined immunodeficiency. Pérez-Caraballo JJ 외. _Frontiers in immunology_. 2026. [관찰연구, 4명] [DOI 10.3389/fimmu.2026.1830231](https://doi.org/10.3389/fimmu.2026.1830231) [PMID 42367780](https://pubmed.ncbi.nlm.nih.gov/42367780/) — 복합면역결핍증(CID)은 동일한 임상 분류 내에서도 원인 유전자(ARPC1B, EZR, BCL10, IRF4)에 따라 면역세포 구성과 분화 양상이 매우 다르게 나타나는 이질적인 질환임을 확인하였다. 따라서 CID 환자의 정밀한 진단과 맞춤형 치료 전략 수립을 위해서는 단순한 분류를 넘어 유전자 변이에 따른 상세한 면역표현형 분석(Immunophenotypic profiling)이 필수적이다.
 [^75]: Deficiencies of Circulating Mucosal-associated Invariant T Cells and Natural Killer T Cells in Patients with Multiple Trauma. Jo YG 외. _Journal of Korean medical science_. 2017-05. [관찰연구, 36명] [DOI 10.3346/jkms.2017.32.5.750](https://doi.org/10.3346/jkms.2017.32.5.750) [PMID 28378547](https://pubmed.ncbi.nlm.nih.gov/28378547/) — 다발성 외상 환자에서 말초혈액 내 MAIT 세포와 NKT 세포의 수치가 유의하게 감소하며, 이는 APACHE II, SAPS II, ISS와 같은 중증도 지표와 밀접하게 관련되어 있음을 시사한다. 따라서 이러한 불변 T 세포의 수치 변화를 통해 외상 환자의 중증도 및 예후를 예측하는 바이오마커로 활용할 수 있을 것이다.
 [^76]: Effective Immunotherapy of Glioblastoma in an Adolescent with Constitutional Mismatch Repair-Deficiency Syndrome. Pavelka Z 외. _Klinicka onkologie : casopis Ceske a Slovenske onkologicke spolecnosti_. . [증례 보고, 1명] [DOI 10.14735/amko201970](https://doi.org/10.14735/amko201970) [PMID 30764633](https://pubmed.ncbi.nlm.nih.gov/30764633/) — 선천성 미스매치 복구 결핍 증후군(CMMR-D) 환자의 교모세포종은 높은 종양 변이 부하를 가지는 특성이 있어 면역관문억제제 및 백신을 활용한 면역요법에 긍정적인 반응을 보일 수 있다. 따라서 CMMR-D 환자에게는 단순한 완화 치료보다는 정밀한 분자 분석을 통한 생물학적 프로파일 기반의 개별화된 면역치료 계획을 고려하는 것이 임상적으로 유용할 수 있다.
-[^77]: Causal Relationship Between Diet, Lipids, Immune Cells, and Chronic Fatigue Syndrome: A Two-Mediation Mendelian Randomization Study. Li J 외. _Food science & nutrition_. 2025-06. [실험연구] [DOI 10.1002/fsn3.70424](https://doi.org/10.1002/fsn3.70424) [PMID 40552329](https://pubmed.ncbi.nlm.nih.gov/40552329/) — 본 연구는 식이, 지질 수치, 면역세포가 만성피로증후군(CFS) 발생에 미치는 인과 관계를 분석하였다. 특히 치즈 섭취가 HDL-콜레스테롤과 ApoA1을 증가시키고, 이것이 특정 면역세포(CD3-NK 림프구, IgD+ CD38+ B세포)의 표현형 변화를 유도하여 CFS를 예방하는 보호 효과가 있음을 시사한다.
+[^77]: Causal Relationship Between Diet, Lipids, Immune Cells, and Chronic Fatigue Syndrome: A Two-Mediation Mendelian Randomization Study. Li J 외. _Food science & nutrition_. 2025-06. [실험연구, 철회됨] [DOI 10.1002/fsn3.70424](https://doi.org/10.1002/fsn3.70424) [PMID 40552329](https://pubmed.ncbi.nlm.nih.gov/40552329/) — **철회(Retraction Notice: [PMID 41111881](https://pubmed.ncbi.nlm.nih.gov/41111881/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 본 연구는 식이, 지질 수치, 면역세포가 만성피로증후군(CFS) 발생에 미치는 인과 관계를 분석하였다. 특히 치즈 섭취가 HDL-콜레스테롤과 ApoA1을 증가시키고, 이것이 특정 면역세포(CD3-NK 림프구, IgD+ CD38+ B세포)의 표현형 변화를 유도하여 CFS를 예방하는 보호 효과가 있음을 시사한다.
 [^78]: Evaluating the Causal Role of Genetically Inferred Immune Cells and Inflammatory Cytokines on Myalgic Encephalomyelitis/Chronic Fatigue Syndrome. Duan L 외. _Biomedicines_. 2025-05-15. [실험연구, 462933명] [DOI 10.3390/biomedicines13051200](https://doi.org/10.3390/biomedicines13051200) [PMID 40427027](https://pubmed.ncbi.nlm.nih.gov/40427027/) — 본 연구는 면역 체계의 기능 부전과 특정 염증성 사이토카인이 ME/CFS의 발생에 인과적인 영향을 미친다는 점을 시사합니다. 특히 CXCL5, CCL20의 증가와 TNF의 감소가 질환 위험과 연관되어 있어, 향후 이러한 염증 인자들을 활용한 진단 바이오마커 개발이나 표적 치료 전략 수립에 기초 자료로 활용될 수 있습니다.
 [^79]: Chinese herbal medicine for the treatment of chronic fatigue syndrome: A systematic review and meta-analysis. Yang Zhang 외. _Frontiers in Pharmacology_. 2022-09-29. [메타분석, 6944명] [DOI 10.3389/fphar.2022.958005](https://doi.org/10.3389/fphar.2022.958005) — 한약(CHM)은 만성피로증후군 환자의 피로도, 불안, 우울 및 전반적인 임상 증상을 유의하게 개선하며 안전성이 확보된 치료 옵션이 될 수 있습니다. 다만, 분석에 포함된 개별 연구들의 방법론적 질이 낮으므로 임상 적용 시 결과 해석에 주의가 필요하며, 환자 개개인의 상태에 맞는 처방 선택이 중요합니다.
 [^80]: [Effect of lixu jieyu recipe in treating 75 patients with chronic fatigue syndrome]. Zhang ZX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-06. [임상시험, 75명] [PMID 19702080](https://pubmed.ncbi.nlm.nih.gov/19702080/) — Lixu Jieyu Recipe(LJR)는 만성피로증후군 환자의 피로 증상 및 심리적 고통(SCL-90)을 유의하게 감소시키며, 면역 세포(Th, Ts)의 개선 및 CD4/CD8 비율 조절에 있어 대조군(비타민 B, ATP, 오리자놀)보다 우월한 효과를 보인다. 따라서 만성피로 환자의 신체적 증상 완화와 면역 기능 회복을 위해 해당 처방을 임상적으로 고려할 수 있다.

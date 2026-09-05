@@ -165,7 +165,7 @@
 ### 4. 영상·기능 검사
 
 - 초음파는 회전근개 건·활액낭·관절낭·상완이두근건 상태를 실시간 동적으로 평가할 수 있는 1차 영상 검사로, 표준화된 초음파 검사 프로토콜은 MRI·관절경 소견과 상관관계가 높다[^97].
-- 실시간 동적 초음파와 MRI는 회전근개 파열 진단에 모두 유용한 도구이며, 두 검사를 병행했을 때 부분 파열의 진단 정확도가 가장 높다[^58].
+- 실시간 동적 초음파와 MRI는 회전근개 파열 진단에 모두 유용한 도구이며, 두 검사를 병행했을 때 부분 파열의 진단 정확도가 가장 높다[^58](철회된 논문으로 유효 근거가 아니다).
 - 파열 너비·건 부종·활막 삼출·혈관 점수를 결합한 다변수 초음파 정량 점수 체계는 회전근개 손상 등급 분류에서 높은 진단 정확도(AUC 0.92)를 보인다[^65].
 - 초음파 유도 하에 도침·약침을 정밀 시술하면 치료 효율을 높일 수 있다[^19].
 - 뇌졸중 후 어깨 아탈구 평가 시 초음파·X-ray가 사용되며, 아탈구 거리·통증·기능을 종합 평가한다[^20].
@@ -313,7 +313,7 @@
 - **건침(드라이 니들링) — 수술 후 재활**: 회전근개 봉합술 후 다모드 재활에 근막 유발점 건침을 추가하는 것에 대해서는 상반된 근거가 있다. 일부 무작위 대조군 연구에서는 표준 다모드 재활 단독과 비교해 통증·기능에 유의한 추가 이점을 제공하지 못했다고 보고했으나[^68][^69], 이는 수술 후 조직 치유 단계에서의 특수한 상황이며, 비수술적 회전근개 건병증에서의 건침 효과와는 구분해서 해석해야 한다.
 - **운동치료**: 회전근개 건병증 환자에게 어깨 근육 강화 운동은 통증 감소·기능 개선에 효과적이며 1차 치료로 고려된다는 네트워크 메타분석 근거가 있다[^112]. 통증성 호(painful arc) 증후군에서는 건침과 운동사슬 활성화 기법(KCAT)을 병행한 운동 프로그램 모두 통증 감소·기능 개선에 효과적이었다[^107].
 - **수술적 치료와의 비교 근거(참고)**: 수술 불가능한 광범위 파열(MRCT)에는 관절경하 상부관절낭 재건술(SCR)이 통증 완화·기능 개선을 제공하는 유효한 대안이 될 수 있다[^60]. 한국 어깨 전문의 설문에서는 파열 크기·환자의 신체적 요구도에 따라 재활 프로토콜이 개별화되어 적용된다[^122]. 관절경 수술 후에는 인지 과제를 결합한 이중 과제 훈련이 일반 재활보다 어깨 기능 개선·운동 공포증 완화에 더 효과적이라는 근거도 있다[^121]. 수술 전 회복탄력성 수준이 수술 후 기능적 결과(ASES 점수)를 예측하지 못한다는 체계적 고찰은[^123], 심리적 요인보다 조직학적·수술적 요인이 예후에 더 크게 작용함을 시사한다.
-- 진단 정확도를 높이기 위한 초음파·원격의료 검사도 임상 흐름에 참고할 수 있다[^57][^58][^65].
+- 진단 정확도를 높이기 위한 초음파·원격의료 검사도 임상 흐름에 참고할 수 있다[^57][^58](철회된 논문으로 유효 근거가 아니다)[^65].
 
 이 치료 요약은 임상 참고 틀이며, 각 중재의 근거 수준(메타분석부터 프로토콜·증례까지)이 상이하므로 동일한 권고 강도로 해석해서는 안 된다. **변증 없는 관행적 취혈은 근거에 부합하지 않으며**, 회전근개 파열의 중증도(부분/전층, 크기)에 따라 수술 여부를 먼저 판단한 뒤 한의 중재를 병행·보조적으로 계획해야 한다.
 
@@ -827,7 +827,7 @@
 
 **사례 1. 50대 여성, 수개월 전부터 서서히 진행된 우측 어깨 통증, 야간통 동반**
 
-병력상 급격한 외상은 없고 가사노동으로 반복적 상지 거상이 있었다. Hawkins-Kennedy 검사 양성, empty can 검사에서 경미한 근력 저하가 확인되어 견봉하 충돌 증후군 및 회전근개 건병증이 의심되었다. 초음파에서 극상근건의 부분 파열이 확인되었다(제3편-4 참조[^58][^65]). 설담태백·맥유완 소견으로 풍한습비 변증에 기혈허약을 겸한 것으로 판단, 국소 침(견우·견료)에 원위 보기혈(족삼리)을 배합하고[^7][^112] 흉추 가동성 저하가 동반되어 흉추 수기를 병행하였다(제5편-2)[^85][^86]. 4주 추적 시 SPADI 점수가 유의하게 개선되었다.
+병력상 급격한 외상은 없고 가사노동으로 반복적 상지 거상이 있었다. Hawkins-Kennedy 검사 양성, empty can 검사에서 경미한 근력 저하가 확인되어 견봉하 충돌 증후군 및 회전근개 건병증이 의심되었다. 초음파에서 극상근건의 부분 파열이 확인되었다(제3편-4 참조[^58](철회된 논문으로 유효 근거가 아니다)[^65]). 설담태백·맥유완 소견으로 풍한습비 변증에 기혈허약을 겸한 것으로 판단, 국소 침(견우·견료)에 원위 보기혈(족삼리)을 배합하고[^7][^112] 흉추 가동성 저하가 동반되어 흉추 수기를 병행하였다(제5편-2)[^85][^86]. 4주 추적 시 SPADI 점수가 유의하게 개선되었다.
 
 **사례 2. 65대 남성, 당뇨병 병력, 어깨 수동·능동 가동범위 모두 심하게 제한**
 
@@ -927,7 +927,7 @@
 [^55]: Guidelines for the Diagnosis and Treatment of Rotator Cuff Tear with Integrated Traditional Chinese and Western Medicine. _Combinatorial Chemistry & High Throughput Screening_. 2024-09. [임상진료지침] [DOI 10.2174/0113862073276030231219115111](https://doi.org/10.2174/0113862073276030231219115111) — 회전근개 파열 환자를 위해 중의학과 서양의학을 결합한 통합 진단 및 치료 지침을 제공하여 임상 기술의 표준화를 도모한다.
 [^56]: Risk factors for full-thickness rotator cuff tears: a systematic review and meta-analysis. _EFORT open reviews_. 2021-11. [메타분석] [DOI 10.1302/2058-5241.6.210027](https://doi.org/10.1302/2058-5241.6.210027) [PMID 34909227](https://pubmed.ncbi.nlm.nih.gov/34909227/) — 전층 회전근개 파열의 주요 위험 요인으로 연령 증가, 고혈압, 그리고 임계 어깨각(CSA)의 증가가 확인되었다.
 [^57]: Comparison of the accuracy of telehealth examination versus clinical examination in the detection of shoulder pathology. _Journal of shoulder and elbow surgery_. 2021-05. [임상시험] [DOI 10.1016/j.jse.2020.08.016](https://doi.org/10.1016/j.jse.2020.08.016) [PMID 32871264](https://pubmed.ncbi.nlm.nih.gov/32871264/) — 의사의 가이드 하에 환자가 직접 수행하는 원격 어깨 검사(STE)는 회전근개 파열(RCT) 진단에 있어 대면 검사(SCE)와 비교해 비열등한(non-inferior) 진단 효과를 보였다.
-[^58]: Comparative Analysis of Real-Time Dynamic Ultrasound and Magnetic Resonance Imaging in the Diagnosis of Rotator Cuff Tear Injury. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구] [DOI 10.1155/2021/2107693](https://doi.org/10.1155/2021/2107693) [PMID 34887929](https://pubmed.ncbi.nlm.nih.gov/34887929/) — 회전근개 손상 진단 시 실시간 동적 초음파와 MRI 모두 유용한 도구이며, 특히 두 검사를 병행했을 때 부분 파열(Partial tear)의 진단 정확도가 가장 높게 나타났다.
+[^58]: Comparative Analysis of Real-Time Dynamic Ultrasound and Magnetic Resonance Imaging in the Diagnosis of Rotator Cuff Tear Injury. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구, 철회됨] [DOI 10.1155/2021/2107693](https://doi.org/10.1155/2021/2107693) [PMID 34887929](https://pubmed.ncbi.nlm.nih.gov/34887929/) — **철회(Retraction Notice: [PMID 37388047](https://pubmed.ncbi.nlm.nih.gov/37388047/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 회전근개 손상 진단 시 실시간 동적 초음파와 MRI 모두 유용한 도구이며, 특히 두 검사를 병행했을 때 부분 파열(Partial tear)의 진단 정확도가 가장 높게 나타났다.
 [^59]: Critical shoulder angle in an East Asian population: correlation to the incidence of rotator cuff tear and glenohumeral osteoarthritis. _Journal of shoulder and elbow surgery_. 2018-09. [관찰연구] [DOI 10.1016/j.jse.2018.03.013](https://doi.org/10.1016/j.jse.2018.03.013) [PMID 29731396](https://pubmed.ncbi.nlm.nih.gov/29731396/) — 동아시아인(일본인)에게서 임계 견갑각(CSA)의 증가가 회전근개 파열의 독립적인 위험 인자가 될 수 있음을 시사한다. 임상적으로 전후면 방사선 사진을 통해 CSA를 측정함으로써 회전근개 파열 고위험군 환자를 조기에 선별하는 보조적 지표로 활용할 수 있다.
 [^60]: Superior Capsule Reconstruction for Irreparable Massive Rotator Cuff Tears: Does It Make Sense? A Systematic Review of Early Clinical Evidence. _The American journal of sports medicine_. 2020-11. [체계적 고찰] [DOI 10.1177/0363546520904378](https://doi.org/10.1177/0363546520904378) [PMID 32191494](https://pubmed.ncbi.nlm.nih.gov/32191494/) — 수술 불가능한 광범위 회전근개 파열(MRCT) 환자에게 관절경하 상부 관절낭 재건술(SCR)은 통증 완화와 기능적 개선을 제공하는 유효한 대안적 수술법이 될 수 있습니다.
 [^61]: Acupuncture and manual therapy for rotator cuff tears: A protocol for systematic review and meta analysis. _Medicine_. 2020-05-22. [체계적 고찰] [DOI 10.1097/MD.0000000000020377](https://doi.org/10.1097/MD.0000000000020377) [PMID 32481335](https://pubmed.ncbi.nlm.nih.gov/32481335/) — 본 연구는 회전근개 파열 환자를 대상으로 침 치료와 수기 치료의 병행 또는 단독 사용이 통증 및 신체 기능 회복에 미치는 유효성과 안전성을 체계적으로 검토하는 프로토콜입니다.

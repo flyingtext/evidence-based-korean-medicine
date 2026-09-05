@@ -55,8 +55,8 @@
 
 독활은 기원·제형·배오(配伍)에 따라 여러 하위 유형으로 세분된다.
 
-- **독활(獨活, Angelicae Pubescentis Radix)**: 거풍습·지비통의 대표본초로, 풍한습비 변증의 근골격계 질환에 쓰인다[^6][^7][^8][^9][^15][^16][^17][^18][^20][^23][^25][^26].
-- **독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction)**: 독활을 군약(君藥)로 하는 대표 처방. 간신부족(肝腎不足)·기혈허약(氣血虛弱)을 겸한 만성 비증에 활용된다[^6][^7][^8][^9][^15][^17][^18][^20][^25][^26].
+- **독활(獨活, Angelicae Pubescentis Radix)**: 거풍습·지비통의 대표본초로, 풍한습비 변증의 근골격계 질환에 쓰인다[^6][^7][^8][^9](철회된 논문으로 유효 근거가 아니다)[^15][^16][^17][^18][^20][^23][^25][^26].
+- **독활기생탕(獨活寄生湯, Duhuo Jisheng Decoction)**: 독활을 군약(君藥)로 하는 대표 처방. 간신부족(肝腎不足)·기혈허약(氣血虛弱)을 겸한 만성 비증에 활용된다[^6][^7][^8][^9](철회된 논문으로 유효 근거가 아니다)[^15][^17][^18][^20][^25][^26].
 - **독활기생환(獨活寄生丸)**: 독활기생탕의 환제(丸劑) 제형. 무릎 골관절염 증상 완화에 디클로페낙과 유사한 효능을 보인 임상시험이 있다[^34].
 - **독활지황탕(獨活地黃湯)**: 『동의수세보원(東醫壽世保元)』에 수록된 사상체질의학(四象體質醫學) 소양인(少陽人) 처방. 하초(下焦) 한습(寒濕)·요통·관절통에 활용된다 [교과서적 근거].
 - **가감 독활기생탕(加減獨活寄生湯, Modified Duhuo Jisheng Decoction)**: 원방에서 증·병기에 따라 가감한 변방(變方). 요추 추간판 탈출증에서 양약(딜클로페낙) 대비 유의하게 유효하다는 메타분석이 있다[^6].
@@ -80,7 +80,7 @@
 
 ### 7. 골관절·연골 보호 작용
 
-독활기생탕은 연골 세포외기질(ECM) 보호와 관절 연골 퇴행 억제 효과가 인간 임상에서 간접 지지된다. 관절경 수술과 병용한 가감 독활기생탕 임상시험(82명)에서 **골대사 지표·산화스트레스·혈청 TLR4·TGF-β1** 이 개선되어, 독활기생탕이 연골·골 대사 양방향 조절에 기여할 가능성이 시사되었다[^13].
+독활기생탕은 연골 세포외기질(ECM) 보호와 관절 연골 퇴행 억제 효과가 인간 임상에서 간접 지지된다. 관절경 수술과 병용한 가감 독활기생탕 임상시험(82명)에서 **골대사 지표·산화스트레스·혈청 TLR4·TGF-β1** 이 개선되어, 독활기생탕이 연골·골 대사 양방향 조절에 기여할 가능성이 시사되었다[^13](철회된 논문으로 유효 근거가 아니다).
 
 대만 국민건강보험 데이터 분석(20,059명)에서 독활기생탕과 두충(杜仲)이 골관절염 환자에게 가장 빈번하게 처방되는 처방·본초로 확인되어, 실제 임상에서 독활기생탕의 골관절염 활용이 광범위함이 확인되었다[^84]. 12년 인구기반 코호트(125,023명)에서는 한약 보조 사용이 관절 치환술의 필요성을 낮추는 것과 연관되었다[^94]. 5년 매치 코호트(3,850명)에서도 한약 사용군이 골관절염 예후 개선과 연관되었다[^95].
 
@@ -112,7 +112,7 @@
 
 ### 12. 기타 약리 작용 (항산화·항종양·항균)
 
-독활기생탕 가감방이 관절경 수술과 병용 시 **산화스트레스 지표 개선** 이 보고되었다[^13]. 한약 전반의 항산화·항염 작용은 골관절염·골다공증·류마티스 관절염에서 공통 기전으로 작용할 가능성이 있다.
+독활기생탕 가감방이 관절경 수술과 병용 시 **산화스트레스 지표 개선** 이 보고되었다[^13](철회된 논문으로 유효 근거가 아니다). 한약 전반의 항산화·항염 작용은 골관절염·골다공증·류마티스 관절염에서 공통 기전으로 작용할 가능성이 있다.
 
 항종양 영역에서는 소양인(少陽人) 직장암 폐전이 환자 1명에게 사상체질의학 기반 독활지황탕(獨活地黃湯)과 표준화 옻나무(*Rhus verniciflua*) 추출물을 7주간 투여한 뒤 폐전이 병변의 퇴행과 2년 이상 추적 관찰 중 재발 부재가 보고된 증례가 있다[^87]. 이는 한약 치료의 보완적 가능성을 제시하는 단일 증례이며, 표준 항암치료를 대체하지 않는다.
 
@@ -135,7 +135,7 @@
 
 **방의(方義)**: 독활·상기생이 군약으로 거풍습·보간신을 겸하고, 두충·우슬이 하초(腰膝)에 작용하여 강근골한다. 사물탕 계열(당귀·천궁·작약·숙지황)이 기체혈어(氣滯血瘀)를 예방하면서 간혈을 자양하고, 사군자탕 계열(인삼·복령·감초)이 비기(脾氣)를 보하여 생화지원(生化之源)을 세운다. 이는 **"거사(祛邪)와 부정(扶正)을 동시에 구사"** 하는 대표적 배오 원리로, 만성 비증에서 정기(正氣)가 부족한 상태에서 사기(邪氣)를 거하기 위한 구조다 [교과서적 근거].
 
-**방제의 임상 근거**: 독활기생탕은 무릎 골관절염[^7][^16][^20][^23][^34][^56], 요추 추간판 탈출증[^6][^21][^25][^26], 폐경 후 골다공증[^8][^15], 강직성척추염[^9][^17], 류마티스 관절염[^14][^18]에서 메타분석·체계적 고찰 수준의 근거가 축적되어, 단일 처방 기준으로는 한의학 근거 기반에서 가장 폭넓게 검증된 처방 중 하나다.
+**방제의 임상 근거**: 독활기생탕은 무릎 골관절염[^7][^16][^20][^23][^34][^56], 요추 추간판 탈출증[^6][^21][^25][^26], 폐경 후 골다공증[^8][^15], 강직성척추염[^9](철회된 논문으로 유효 근거가 아니다)[^17], 류마티스 관절염[^14][^18]에서 메타분석·체계적 고찰 수준의 근거가 축적되어, 단일 처방 기준으로는 한의학 근거 기반에서 가장 폭넓게 검증된 처방 중 하나다.
 
 > 대만 건강보험 데이터 분석에서 독활기생탕과 두충(杜仲)이 골관절염 환자에게 가장 빈번하게 처방되는 처방·본초로 확인되었다[^84]. 이는 독활기생탕이 실제 임상에서도 만성 근골격계 질환의 핵심 처방으로 자리 잡고 있음을 보여준다.
 
@@ -187,7 +187,7 @@ KCD-8: M17 (슬관절증(膝關節症, Gonarthrosis) / 골관절염). M17.0 일�
 #### ④ 치료
 독활기생탕은 무릎 골관절염에서 가장 근거가 풍부한 한약 처방이다. 한랭습체증(寒冷濕滯證) 유형 무릎 골관절염 895명을 종합한 통합분석에서 독활기생탕이 통증(VAS)·관절 기능(WOMAC)을 유의하게 개선하고 IL-6·TNF-α를 감소시켰다[^7]. 독활기생탕 단독 효과를 정리한 메타분석 프로토콜[^56]·체계적 고찰[^80]도 보고되었다. 982명 체계적 고찰에서는 글루코사민·멜록시캄·히알루론산과 병용 시 통증·기능 지표 개선 경향이 확인되었다[^20].
 
-독활기생환(獨活寄生丸) 200명 무작위대조시험에서 4주 치료 후 디클로페낙과 유사한 진통 효능을 보였다[^34]. 68명 전향적 관찰연구에서 4주 투여 시 통증·강직 유의 감소, 신체 기능 개선이 확인되었다[^16]. 추나(Tui-na) 요법과 병용한 70명 무작위대조시험에서는 통증 완화·강직도 개선·삶의 질 향상의 추가 효과가 보고되었다[^23][^90][^91]. 관절경 수술과 병용한 가감 독활기생탕 82명 임상시험에서 골대사·산화스트레스·TLR4·TGF-β1이 개선되었다[^13].
+독활기생환(獨活寄生丸) 200명 무작위대조시험에서 4주 치료 후 디클로페낙과 유사한 진통 효능을 보였다[^34]. 68명 전향적 관찰연구에서 4주 투여 시 통증·강직 유의 감소, 신체 기능 개선이 확인되었다[^16]. 추나(Tui-na) 요법과 병용한 70명 무작위대조시험에서는 통증 완화·강직도 개선·삶의 질 향상의 추가 효과가 보고되었다[^23][^90][^91]. 관절경 수술과 병용한 가감 독활기생탕 82명 임상시험에서 골대사·산화스트레스·TLR4·TGF-β1이 개선되었다[^13](철회된 논문으로 유효 근거가 아니다).
 
 한약 전반의 무릎 골관절염 근거도 풍부하다 — 5,350명 56편 RCT 메타분석[^31], 3,115명 메타분석[^50], 침+한약 병용 3,954명 메타분석[^49], 한약욕 1,618명 메타분석[^54], 국소 한약 도포 1,546명 메타분석[^69]이 일관되게 통증·기능 개선을 보고한다. 통합진료 지침[^33]·한약 처방 패턴 분석[^84]·한약 보조 사용이 관절 치환술 필요성 감소와 연관된 12년 코호트(125,023명)[^94]·5년 코호트(3,850명)[^95]도 장기적 관점의 근거다. 한국 한의학 병동 입원 치료 180명 관찰연구도 보고되었다[^71]. 개별 처방으로는 선령고보(仙靈骨葆)[^36][^52], SKCPT[^66], Thai herbal formulation[^28], Sri Lankan traditional medicine[^27], 부항+한약[^73], 약침[^46], 무연구(無煙灸)[^37], 화침(火針) 네트워크메타분석[^59], 신침도(神鍼刀) 한약 병용[^60], Lục VI 복합처방[^68], 양하탕(陽和湯)[^55] 등의 근거가 축적되어 있다. SKI306X[^43][^44]·보이오기토(防己黃耆湯)[^40]·오두탕(烏頭湯)[^48]·당귀사역탕[^65]·대황(大黃) 부자세시환(附子細辛湯) 계열 처방의 체계적 고찰도 있다.
 
@@ -259,7 +259,7 @@ KCD-8: M45 (강직성척추염, Ankylosing Spondylitis).
 서양의학적으로 강직성척추염은 HLA-B27 연관 만성 염증성 자가면역질환으로, 척추관절(SI joint·척추 추체)의 염증·골화·강직이 특징이다. TNF-α·IL-6·IL-17이 주요 염증 매개물이다.
 
 #### ④ 치료
-독활기생탕은 강직성척추염에서 메타분석 수준의 근거가 있다. 860명 메타분석에서 독활기생탕의 임상 효과와 잠재 기전이 정리되었다[^9]. 양방치료와 병용한 메타분석에서도 효과·안전성이 확인되었다[^17]. 양하탕(陽和湯)·화담축어해독탕(化痰逐瘀解毒湯)·보신통독(補腎通督) 계열 처방의 체계적 고찰 프로토콜[^3][^5]도 보고되었다.
+독활기생탕은 강직성척추염에서 메타분석 수준의 근거가 있다. 860명 메타분석에서 독활기생탕의 임상 효과와 잠재 기전이 정리되었다[^9](철회된 논문으로 유효 근거가 아니다). 양방치료와 병용한 메타분석에서도 효과·안전성이 확인되었다[^17]. 양하탕(陽和湯)·화담축어해독탕(化痰逐瘀解毒湯)·보신통독(補腎通督) 계열 처방의 체계적 고찰 프로토콜[^3][^5]도 보고되었다.
 
 강직성척추염에서 한약 전반의 기전 정리 문헌 고찰[^89]·항류마티스 한약 기전 체계적 고찰[^135]도 독활 배오 처방의 배경 근거를 제공한다. 장내미생물-한약 상호작용 관찰연구(66명)[^2]는 한약의 면역조절 기전 중 하나로 장내미생물 조성 변화를 제시한다.
 
@@ -568,8 +568,8 @@ KCD-8: M79 (기타 연조직 질환, 산후풍 통증 포함), O26 (산후 관�
 [^6]: Efficacy and Safety of Modified Duhuo Jisheng Decoction in the Treatment of Lumbar Disc Herniation: A Systematic Review and Meta‐Analysis. Zhencheng Xiong 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석, 1560명] [DOI 10.1155/2020/2381462](https://doi.org/10.1155/2020/2381462) —
 [^7]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석, 895명] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) —
 [^8]: Efficacy and Safety of Duhuo Jisheng Decoction for Postmenopausal Osteoporosis: A Systematic Review and Meta‐Analysis. Jinyu Li 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석, 650명] [DOI 10.1155/2020/6957825](https://doi.org/10.1155/2020/6957825) —
-[^9]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms.. Wang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 860명] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) —
-[^13]: Effects of Modified Duhuo Jisheng Decoction Combined with Arthroscopic Surgery on Bone Metabolism, Oxidative Stress, and Serum TLR4 and TGF-β1 in Patients with Knee Osteoarthritis.. Zeng X 외. _Journal of environmental and public health_. 2022. [임상시험, 82명] [DOI 10.1155/2022/1933504](https://doi.org/10.1155/2022/1933504) [PMID 36267557](https://pubmed.ncbi.nlm.nih.gov/36267557/) —
+[^9]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms.. Wang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 860명, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다.
+[^13]: Effects of Modified Duhuo Jisheng Decoction Combined with Arthroscopic Surgery on Bone Metabolism, Oxidative Stress, and Serum TLR4 and TGF-β1 in Patients with Knee Osteoarthritis.. Zeng X 외. _Journal of environmental and public health_. 2022. [임상시험, 82명, 철회됨] [DOI 10.1155/2022/1933504](https://doi.org/10.1155/2022/1933504) [PMID 36267557](https://pubmed.ncbi.nlm.nih.gov/36267557/) — — **철회(Retraction Notice: [PMID 37811432](https://pubmed.ncbi.nlm.nih.gov/37811432/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다.
 [^14]: A comparative study of the efficacy of Chinese herbal medicine Duhuo Jisheng decoction combined with DMARDs vs isolated DMARDs for rheumatoid arthritis: A protocol for systematic review and meta analysis.. Zhou X 외. _Medicine_. 2020-12-11. [체계적 고찰] [DOI 10.1097/MD.0000000000023479](https://doi.org/10.1097/MD.0000000000023479) [PMID 33327279](https://pubmed.ncbi.nlm.nih.gov/33327279/) —
 [^15]: Efficacy and safety of Duhuo Jisheng Decoction add-on bisphosphonate medications in patients with osteoporosis: A meta-analysis of randomized controlled trials.. Huang CY 외. _Journal of ethnopharmacology_. 2022-01-30. [메타분석, 1526명] [DOI 10.1016/j.jep.2021.114732](https://doi.org/10.1016/j.jep.2021.114732) [PMID 34637967](https://pubmed.ncbi.nlm.nih.gov/34637967/) —
 [^16]: Duhuo jisheng tang for treating osteoarthritis of the knee: a prospective clinical observation.. Lai JN 외. _Chinese medicine_. 2007-03-30. [관찰연구, 68명] [DOI 10.1186/1749-8546-2-4](https://doi.org/10.1186/1749-8546-2-4) [PMID 17394666](https://pubmed.ncbi.nlm.nih.gov/17394666/) —

@@ -159,7 +159,7 @@ Verapamil·diltiazem은 방실결절의 L형 Ca²⁺ 통로를 차단해 방실�
 
 ### 4. 한의학 활혈화어·익기양심 치법의 관상동맥질환 적용 근거
 
-관상동맥심장질환(冠狀動脈心臟病) 영역에서 활혈화어·익기양심(益氣養心) 병용 한약과 표준 서양의학 치료의 병용 효과에 관한 근거가 풍부하다. 관상동맥 미세혈관 기능장애(coronary microvascular dysfunction)에 대한 중성약(中成藥) 주사제의 효과를 비교한 메타분석[^28], 급성 관상동맥증후군에서 중의약 병용의 임상 지표 개선을 다룬 메타분석[^4]이 보고되어 있다. 안정형 협심증 환자에서 신죽관심방과립(神竹冠心, Shenzhu Guanxin)이 운동 내약능을 개선했다는 임상시험[^3], 혈부축어탕(血府逐瘀湯) 계열 처방인 혈부축어과립(血府逐瘀顆粒)이 안정형 관상동맥질환 환자의 임상 지표를 개선했다는 이중맹검 무작위 대조시험[^29], 익기활혈(益氣活血) 치법의 중성약을 네트워크메타분석으로 비교한 연구[^30]가 협심증에서 활혈화어 치법의 임상적 가치를 뒷받침한다.
+관상동맥심장질환(冠狀動脈心臟病) 영역에서 활혈화어·익기양심(益氣養心) 병용 한약과 표준 서양의학 치료의 병용 효과에 관한 근거가 풍부하다. 관상동맥 미세혈관 기능장애(coronary microvascular dysfunction)에 대한 중성약(中成藥) 주사제의 효과를 비교한 메타분석[^28], 급성 관상동맥증후군에서 중의약 병용의 임상 지표 개선을 다룬 메타분석[^4]이 보고되어 있다. 안정형 협심증 환자에서 신죽관심방과립(神竹冠心, Shenzhu Guanxin)이 운동 내약능을 개선했다는 임상시험[^3], 혈부축어탕(血府逐瘀湯) 계열 처방인 혈부축어과립(血府逐瘀顆粒)이 안정형 관상동맥질환 환자의 임상 지표를 개선했다는 이중맹검 무작위 대조시험[^29](철회된 논문으로 유효 근거가 아니다), 익기활혈(益氣活血) 치법의 중성약을 네트워크메타분석으로 비교한 연구[^30]가 협심증에서 활혈화어 치법의 임상적 가치를 뒷받침한다.
 
 **단삼(丹參)-스타틴 병용의 항염증 상승효과**: sodium tanshinone IIA sulfate(단삼 유래 성분)와 simvastatin(스타틴)을 병용했을 때 염증 지표(hs-CRP 등)가 단독 투여보다 더 개선되었다는 임상시험이 보고되어[^31], 단삼 기반 활혈화어 제제와 스타틴의 병용이 항염증·항동맥경화 측면에서 상보적일 가능성을 시사한다. 다만 단삼은 CYP450 억제·항혈소판 작용을 겸하므로, 와파린 등 항응고제와의 병용 시 출혈 위험은 제5편의 안전성 원칙을 별도로 따라야 한다.
 
@@ -326,7 +326,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 
 ### 3. 협심증·허혈성 심장질환군 (KCD-8: I20-I25)
 
-①**코드**: I20(협심증), I21(급성 심근경색증), I25(만성 허혈성 심장병). ②**병인병기**: 흉비(胸痺)·심통(心痛) 범주로, 심혈어조(心血瘀阻)·담탁저조(痰濁阻遇)·기체혈어(氣滯血瘀)·한응심맥(寒凝心脈)이 대표 변증이다[교과서적 근거]. ③**병태생리**: 관상동맥 죽상경화·혈전에 의한 산소 공급-요구 불균형(제1편 2-3절 참조). ④**치료**: 질산염제제·베타차단제·CCB·항혈소판제·스타틴이 표준치료이며, 급성기에는 재관류 치료(PCI·혈전용해)가 필수다. 익기활혈 한약의 보조 병용 근거가 풍부하다(제4편 4절 참조)[^3][^4][^28][^29][^30]. ⑤**예후**: 급성 관상동맥증후군의 조기 재관류 여부가 예후를 좌우한다. ⑥**관리**: 이중항혈소판요법 기간 관리, 스타틴 지속, 활혈화어 한약 병용 시 출혈 위험 모니터링(제5편 참조).
+①**코드**: I20(협심증), I21(급성 심근경색증), I25(만성 허혈성 심장병). ②**병인병기**: 흉비(胸痺)·심통(心痛) 범주로, 심혈어조(心血瘀阻)·담탁저조(痰濁阻遇)·기체혈어(氣滯血瘀)·한응심맥(寒凝心脈)이 대표 변증이다[교과서적 근거]. ③**병태생리**: 관상동맥 죽상경화·혈전에 의한 산소 공급-요구 불균형(제1편 2-3절 참조). ④**치료**: 질산염제제·베타차단제·CCB·항혈소판제·스타틴이 표준치료이며, 급성기에는 재관류 치료(PCI·혈전용해)가 필수다. 익기활혈 한약의 보조 병용 근거가 풍부하다(제4편 4절 참조)[^3][^4][^28][^29](철회된 논문으로 유효 근거가 아니다)[^30]. ⑤**예후**: 급성 관상동맥증후군의 조기 재관류 여부가 예후를 좌우한다. ⑥**관리**: 이중항혈소판요법 기간 관리, 스타틴 지속, 활혈화어 한약 병용 시 출혈 위험 모니터링(제5편 참조).
 
 ### 4. 심부전군 (KCD-8: I50)
 
@@ -394,7 +394,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 
 **Q1. 활혈화어 한약이 항응고제·항혈소판제를 대체할 수 있는가?**
 
-아니다. 활혈화어 한약은 관상동맥질환·정맥혈전색전증 등에서 표준치료의 **보조 요법**으로 참고할 만한 임상 근거를 갖지만[^3][^4][^28][^29], 뇌졸중·심근경색·정맥혈전색전증 예방 목적의 항응고제·항혈소판제를 대체할 근거는 없다. 오히려 병용 시 출혈 위험이 상승할 수 있어, 대체가 아닌 **신중한 병용 관리**의 관점으로 접근해야 한다[^39][^42][^43].
+아니다. 활혈화어 한약은 관상동맥질환·정맥혈전색전증 등에서 표준치료의 **보조 요법**으로 참고할 만한 임상 근거를 갖지만[^3][^4][^28][^29](철회된 논문으로 유효 근거가 아니다), 뇌졸중·심근경색·정맥혈전색전증 예방 목적의 항응고제·항혈소판제를 대체할 근거는 없다. 오히려 병용 시 출혈 위험이 상승할 수 있어, 대체가 아닌 **신중한 병용 관리**의 관점으로 접근해야 한다[^39][^42][^43].
 
 **Q2. 와파린 복용 환자에게 단삼이 든 한약을 처방해도 되는가?**
 
@@ -422,7 +422,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 
 **Q8. 협심증 환자가 활혈화어 한약을 병용하면서 스타틴·항혈소판제도 함께 복용해도 되는가?**
 
-임상적으로 흔한 조합이며, 관상동맥질환에서 활혈화어·익기양심 한약이 표준치료의 보조 요법으로 유용하다는 근거가 축적되어 있다[^3][^4][^28][^29][^31]. 다만 이 조합은 정의상 항혈소판 효과가 중복될 가능성이 있으므로, 출혈 소인(잇몸출혈·멍이 잘 드는 경향·흑색변 등)을 정기적으로 문진하고, 침습적 시술 전에는 병용 한약의 중단 여부도 함께 검토해야 한다.
+임상적으로 흔한 조합이며, 관상동맥질환에서 활혈화어·익기양심 한약이 표준치료의 보조 요법으로 유용하다는 근거가 축적되어 있다[^3][^4][^28][^29](철회된 논문으로 유효 근거가 아니다)[^31]. 다만 이 조합은 정의상 항혈소판 효과가 중복될 가능성이 있으므로, 출혈 소인(잇몸출혈·멍이 잘 드는 경향·흑색변 등)을 정기적으로 문진하고, 침습적 시술 전에는 병용 한약의 중단 여부도 함께 검토해야 한다.
 
 ---
 
@@ -456,7 +456,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 [^26]: Shen Song Yang Xin Capsule Combined with Antiarrhythmic Drugs, a New Integrative Medicine Therapy. Wang J 외. _Evidence-based complementary and alternative medicine_. 2014. [메타분석] [DOI 10.1155/2014/976713](https://doi.org/10.1155/2014/976713) [PMID 24772186](https://pubmed.ncbi.nlm.nih.gov/24772186/) — 신송양심캡슐과 항부정맥제 병용의 통합의학적 근거.
 [^27]: Interaction between Chinese medicine and digoxin: Clinical and research update. Zhuang W 외. _Frontiers in pharmacology_. 2023. [체계적 고찰] [DOI 10.3389/fphar.2023.1040778](https://doi.org/10.3389/fphar.2023.1040778) [PMID 36825153](https://pubmed.ncbi.nlm.nih.gov/36825153/) — 한약-디곡신 약동학·약력학 상호작용 종합, 좁은 치료역 약물 병용 주의.
 [^28]: Efficacy of Different Traditional Chinese Medicine Injections in the Treatment of Coronary Microvascular Dysfunction. Peng S 외. _Natural Product Communications_. 2025-11. [메타분석] [DOI 10.1177/1934578x251401418](https://doi.org/10.1177/1934578x251401418) — 관상동맥 미세혈관 기능장애에 대한 중성약 주사제 비교 효과.
-[^29]: Effects of Xuefu Zhuyu Granules on Patients with Stable Coronary Heart Disease: A Double-Blind Randomized Trial. Li Y 외. _Oxidative medicine and cellular longevity_. 2021. [임상시험] [DOI 10.1155/2021/8877296](https://doi.org/10.1155/2021/8877296) [PMID 34326921](https://pubmed.ncbi.nlm.nih.gov/34326921/) — 혈부축어탕 계열 처방의 안정형 관상동맥질환 임상 지표 개선.
+[^29]: Effects of Xuefu Zhuyu Granules on Patients with Stable Coronary Heart Disease: A Double-Blind Randomized Trial. Li Y 외. _Oxidative medicine and cellular longevity_. 2021. [임상시험, 철회됨] [DOI 10.1155/2021/8877296](https://doi.org/10.1155/2021/8877296) [PMID 34326921](https://pubmed.ncbi.nlm.nih.gov/34326921/) — **철회(Retraction Notice: [PMID 37565163](https://pubmed.ncbi.nlm.nih.gov/37565163/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 혈부축어탕 계열 처방의 안정형 관상동맥질환 임상 지표 개선.
 [^30]: Network Meta-analysis of Yiqi Huoxue Chinese patent medicine for coronary heart disease with angina. Ji ZC 외. _Zhongguo Zhong yao za zhi_. 2019-05. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20190114.001](https://doi.org/10.19540/j.cnki.cjcmm.20190114.001) [PMID 31342723](https://pubmed.ncbi.nlm.nih.gov/31342723/) — 익기활혈 중성약의 네트워크메타분석 비교.
 [^31]: The Effect of Sodium Tanshinone IIA Sulfate and Simvastatin on Elevated Serum Levels of Inflammatory Markers. Shang Q 외. _Evidence-based complementary and alternative medicine_. 2013. [임상시험] [DOI 10.1155/2013/756519](https://doi.org/10.1155/2013/756519) [PMID 23983803](https://pubmed.ncbi.nlm.nih.gov/23983803/) — 단삼 성분과 스타틴 병용의 항염증 상승효과.
 [^32]: Antiplatelet and myocardial protective effect of Shexiang Tongxin Dropping Pill in patients undergoing PCI. Lin YJ 외. _Journal of integrative medicine_. 2022-03. [임상시험] [DOI 10.1016/j.joim.2022.01.001](https://doi.org/10.1016/j.joim.2022.01.001) [PMID 35101369](https://pubmed.ncbi.nlm.nih.gov/35101369/) — 중성약의 PCI 환자 항혈소판·심근보호 효과.

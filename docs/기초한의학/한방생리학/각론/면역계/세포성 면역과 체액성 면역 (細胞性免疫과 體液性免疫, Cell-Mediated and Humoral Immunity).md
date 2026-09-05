@@ -109,7 +109,7 @@ T세포 의존성 항원에 대한 B세포 반응은 림프절의 배중심(germ
 
 ### 13. 면역기억 B세포·장기형질세포 — 2차 반응
 
-1차 반응이 끝나도 장기형질세포는 골수·점막에서 수년~수십 년 항체를 분비하고, 기억 B세포는 재노출 시 1~3일 내 증식·고친화도 항체 재생산에 나선다[교과서적 근거]. 2차 반응은 IgG 우선·고친화도·대량 생산이라는 질적 도약을 보이며, 이것이 백신 부스터의 원리다. 광범위 중화 항체를 낼 수 있는 기억 B세포의 수렴(convergence)이 백신 접종 후 장기 추적에서 확인되었다[^198][^156]. HIV Env DNA 전기천공 백신이 견고한 T세포·기억 B세포 반응을 유도했다는 1상 시험[^33], 플라비바이러스 백신의 내구성·광범위 보호를 위한 체액성 면역 최적화 전략[^84]은 기억 형성의 설계 과학을 보여준다. 질환 영역 확장도 주목할 만하다 — 알츠하이머병에서 항원을 찾는 체액성 면역 연구[^16], 고IgE(잡) 증후군 환자의 침구 증상 관리 증례[^131], 유지(감초·생강 계열) 요법의 소아 가을 설사 임상 관찰[^175]까지 두 축의 사고 틀은 감염을 넘어 신경·피부·소화기 임상으로 확장된다. 자연감염·백신의 혼합 면역(hybrid immunity)이 가장 강력한 체액성 보호를 만든다는 관찰[^192], 돌파감염이 항체 반응을 추가로 강화한다는 관찰[^3]은 기억 축적의 실용적 함의다. 반면 고령·면역저하에서 항체 형성이 지연·감소하고[^26][^87], 비타민 D 결핍이 항체 지속 감소와 연관된다는 관찰[^149]은 체액성 축의 조건을 보여준다. 비타민 A·체중은 홍역·볼거리·풍진 항체에 유의한 영향을 주지 않았다는 대조 관찰[^86], 말초구역(marginal zone) B세포가 백신·자연감염 유래 체액성 면역을 매개한다는 연구[^38], BK 폴리오마바이러스의 집단 체액성 면역 역학[^111], 수두백신 변이주 간 교차 반응[^112], 일본 건강인의 항원 특이 IgE 양성률[^96], 중국 대학생 집단의 BA.5/BA.7 감염 관찰[^108], 아나필락시스 환자의 혈청 Ig·사이토카인 변화[^12], HIV 노출 미감염 소아의 성장·감염·체액성 면역[^115], 장액 뇌수막염 중추신경질환의 IgG 자가항체 반응[^72], 타액 항-열충격단백질 항체의 임상 상관[^119], 사구체신염의 P42 에피톱 항체 반응[^188], 코로나19 백신 관련 길랭-바레 중첩 증례[^174]까지 — 체액성 축의 임상 관찰은 감염·자가면역·백신 전반에 걸쳐 축적되어 있다.## 제4편 두 축의 협동과 조율
+1차 반응이 끝나도 장기형질세포는 골수·점막에서 수년~수십 년 항체를 분비하고, 기억 B세포는 재노출 시 1~3일 내 증식·고친화도 항체 재생산에 나선다[교과서적 근거]. 2차 반응은 IgG 우선·고친화도·대량 생산이라는 질적 도약을 보이며, 이것이 백신 부스터의 원리다. 광범위 중화 항체를 낼 수 있는 기억 B세포의 수렴(convergence)이 백신 접종 후 장기 추적에서 확인되었다[^198](철회된 논문으로 유효 근거가 아니다)[^156]. HIV Env DNA 전기천공 백신이 견고한 T세포·기억 B세포 반응을 유도했다는 1상 시험[^33], 플라비바이러스 백신의 내구성·광범위 보호를 위한 체액성 면역 최적화 전략[^84]은 기억 형성의 설계 과학을 보여준다. 질환 영역 확장도 주목할 만하다 — 알츠하이머병에서 항원을 찾는 체액성 면역 연구[^16], 고IgE(잡) 증후군 환자의 침구 증상 관리 증례[^131], 유지(감초·생강 계열) 요법의 소아 가을 설사 임상 관찰[^175]까지 두 축의 사고 틀은 감염을 넘어 신경·피부·소화기 임상으로 확장된다. 자연감염·백신의 혼합 면역(hybrid immunity)이 가장 강력한 체액성 보호를 만든다는 관찰[^192], 돌파감염이 항체 반응을 추가로 강화한다는 관찰[^3]은 기억 축적의 실용적 함의다. 반면 고령·면역저하에서 항체 형성이 지연·감소하고[^26][^87], 비타민 D 결핍이 항체 지속 감소와 연관된다는 관찰[^149]은 체액성 축의 조건을 보여준다. 비타민 A·체중은 홍역·볼거리·풍진 항체에 유의한 영향을 주지 않았다는 대조 관찰[^86], 말초구역(marginal zone) B세포가 백신·자연감염 유래 체액성 면역을 매개한다는 연구[^38], BK 폴리오마바이러스의 집단 체액성 면역 역학[^111], 수두백신 변이주 간 교차 반응[^112], 일본 건강인의 항원 특이 IgE 양성률[^96], 중국 대학생 집단의 BA.5/BA.7 감염 관찰[^108], 아나필락시스 환자의 혈청 Ig·사이토카인 변화[^12], HIV 노출 미감염 소아의 성장·감염·체액성 면역[^115], 장액 뇌수막염 중추신경질환의 IgG 자가항체 반응[^72], 타액 항-열충격단백질 항체의 임상 상관[^119], 사구체신염의 P42 에피톱 항체 반응[^188], 코로나19 백신 관련 길랭-바레 중첩 증례[^174]까지 — 체액성 축의 임상 관찰은 감염·자가면역·백신 전반에 걸쳐 축적되어 있다.## 제4편 두 축의 협동과 조율
 
 ## 제4편 두 축의 협동과 조율
 
@@ -182,7 +182,7 @@ Th1/Th2 균형은 두 축 관계를 임상에서 가장 자주 쓰는 읽기 틀
 | 황기 메타분석[^37] | 인체 연구 통합 | 세포성·체액성 지표 모두 개선 | 부정(扶正) 약물의 양축 작용 |
 | 삼칠엽·운지·단삼(건강인)[^234] | 건강 성인 | 면역지표 상향 | 보조 약물의 상태 의존 효과 |
 | 맥문동·온담 계열(TJ-9)[^5] | 인체 세포 연구 | IFN-γ·항체 생산 조절 | 한방 처방의 양축 실험실 근거 |
-| 보신탸충요법(임신)[^68] | 불임 여성 | Th1/Th2 편향 교정·호르몬·임신 | 축 균형의 부인과 응용 |
+| 보신탸충요법(임신)[^68](철회된 논문으로 유효 근거가 아니다) | 불임 여성 | Th1/Th2 편향 교정·호르몬·임신 | 축 균형의 부인과 응용 |
 | 트리팔라(건강인)[^157] | 건강 성인 | CTL·NK 증가 | 본초 복합제의 세포성 상향 |
 | 상지·단삼·운지(건강인)[^234] | 건강 성인 | 면역지표 상향 | 본초 보조의 무작위 근거 |
 
@@ -324,7 +324,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 | 국면 | 치법/처방 | 근거 |
 | --- | --- | --- |
 | 알레르기비염 (관해기) | 침구 — Th1/Th2 교정·삶의 질 개선 | [^66][^191][^166][^25] |
-| 알레르기비염 (폐기허) | 맥립뜸·옥병풍산 계열 | [^215][^213] |
+| 알레르기비염 (폐기허) | 맥립뜸·옥병풍산 계열 | [^215](철회된 논문으로 유효 근거가 아니다)[^213] |
 | 두드러기 (만성) | 침·뜸 병용 — 세포성 지표·Th1/Th2 개선 | [^66] |
 | 두드러기 (만성) | 윤조지양캡슐 메타분석 | [^211] |
 | 소아 천식·기관지염 | 마행석감탕 — 세포성·체액성 지표 개선 | [^207] |
@@ -418,7 +418,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 #### ③ 병태생리
 
-만성 바이러스 감염에서 CTL은 항원 지속 노출로 소진(exhaustion, PD-1↑)되고[^128], Tfh-활성화 혈액 세포가 항-HBs 항체 보호와 상관한다[^85]. B형간염의 자연사 — 면역 관용기→면역 청소기→저복제기 — 는 두 축 균형의 시간축 변화로 읽을 수 있다[교과서적 근거]. 간암 발암에서 만성 염증-면역 미세환경이 세포성·체액성 매개를 모두 동원한다[^231].
+만성 바이러스 감염에서 CTL은 항원 지속 노출로 소진(exhaustion, PD-1↑)되고[^128], Tfh-활성화 혈액 세포가 항-HBs 항체 보호와 상관한다[^85]. B형간염의 자연사 — 면역 관용기→면역 청소기→저복제기 — 는 두 축 균형의 시간축 변화로 읽을 수 있다[교과서적 근거]. 간암 발암에서 만성 염증-면역 미세환경이 세포성·체액성 매개를 모두 동원한다[^231](철회된 논문으로 유효 근거가 아니다).
 
 #### ④ 치료
 
@@ -465,7 +465,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 #### ③ 병태생리
 
-종양은 MHC-I 하향·관문(PD-L1) 발현·면역억제 미세환경(Treg·MDSC·TAM)으로 CTL 감시를 회피한다[^28][^58]. 종양 상주 기억 T세포 아집단이 PD-1/CTLA-4 억제제 반응을 결정한다[^58], CD4 T세포의 TCR/GSDMD/IL-2 축이 항종양 면역을 촉진한다[^65], 세포독성 프로그램에 선분화된 줄기기억 CD8 아집단[^15], 딥러닝 BCR 레퍼토리 분석의 종양 원성 예측[^23], 다중오믹스 NK세포 표적 확인[^92] 등이 이 군의 세포성 축 연구 지형이다. 암종에서 순환 자가항체 서명이 조기진단·예후 표지로 부상[^231]하는 것은 체액성 축의 관찰적 활용이다. 운동 유래 미생물 대사물이 CD8 항종양 면역을 증강[^76]한다는 데이터는 조섭(운동)의 표적 근거다.
+종양은 MHC-I 하향·관문(PD-L1) 발현·면역억제 미세환경(Treg·MDSC·TAM)으로 CTL 감시를 회피한다[^28][^58]. 종양 상주 기억 T세포 아집단이 PD-1/CTLA-4 억제제 반응을 결정한다[^58], CD4 T세포의 TCR/GSDMD/IL-2 축이 항종양 면역을 촉진한다[^65], 세포독성 프로그램에 선분화된 줄기기억 CD8 아집단[^15], 딥러닝 BCR 레퍼토리 분석의 종양 원성 예측[^23], 다중오믹스 NK세포 표적 확인[^92] 등이 이 군의 세포성 축 연구 지형이다. 암종에서 순환 자가항체 서명이 조기진단·예후 표지로 부상[^231](철회된 논문으로 유효 근거가 아니다)하는 것은 체액성 축의 관찰적 활용이다. 운동 유래 미생물 대사물이 CD8 항종양 면역을 증강[^76]한다는 데이터는 조섭(운동)의 표적 근거다.
 
 #### ④ 치료
 
@@ -476,7 +476,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 | 항암 병행 (세포성 보조) | 신기부정주사·사군자탕 계열 — CD4/CD8·NK 개선 | [^200][^158][^159] |
 | 폐암 병행 | 화학요법+한약 — 세포성 면역·유효율 | [^124] |
 | 두경부 방사선 병행 | 덕승주사 병행 관찰 | [^163] |
-| 간암 면역 미세환경 | 항종양 CTL·T세포 반응 보조 | [^231][^194] |
+| 간암 면역 미세환경 | 항종양 CTL·T세포 반응 보조 | [^231](철회된 논문으로 유효 근거가 아니다)[^194] |
 | 침구·외치 | 침구의 수술 중 면역억제 완화·항암기 면역 지지 | [^210][^161] |
 | 췌장암 병행 (극단 사례) | 지십감 등 한약 병행 후 CTL 반응·장기 생존 증례 | [^194] |
 
@@ -562,7 +562,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 | --- | --- | --- |
 | 세포성 | 침술의 백혈구 아집단 조절[^129][^178], 뜸의 말초 림프구 변화[^178], 침구 자극의 면역 반응 고찰[^160], 전침의 수술 중 면역억제 완화[^209], 패혈증 침구 메타분석[^179], AI 결합 침구 관찰[^180], 뇌수술 전침[^209], 태국 마사지·노인 CD4[^74] | 상태 의존적 상향·조절 |
 | 세포성(본초·처방) | 황기 메타분석[^35][^37], 소시호탕(TJ-9)의 IFN-γ·항체[^5], 삼칠엽·운지·단삼[^233], 트리팔라 CTL·NK[^157], 마행석감탕 소아[^206], 마황지수 계열[^207], 인삼(人蔘)·홍삼 계열[^158] | 변증 대상군 중심 |
-| 체액성 | 혈위첩부의 IgA·IgG 상승[^81], 시호계지탕 IgG[^111], 보신탸충요법[^68], 맥립뜸 알레르기비염[^214], 귀인탕 면역불임[^61], 익신 계열[^176], 청열지혈 유뇨[^130], 상지·단삼·운지[^233] | 점막·항체 지표 추적 |
+| 체액성 | 혈위첩부의 IgA·IgG 상승[^81], 시호계지탕 IgG[^111], 보신탸충요법[^68](철회된 논문으로 유효 근거가 아니다), 맥립뜸 알레르기비염[^214], 귀인탕 면역불임[^61], 익신 계열[^176], 청열지혈 유뇨[^130], 상지·단삼·운지[^233] | 점막·항체 지표 추적 |
 | 양축(균형) | 침·뜸 두드러기 Th1/Th2[^66], 온침구 비염[^133][^165], 혈위주입 류마티스[^204], 첩부 급성 발작 예방[^169], 소아 첩부[^172], 안마·수기[^74] | 조(調) 방향 |
 | 기초·방법 | 침구 면역 기전 고찰[^160], NET-수지상세포 단백체[^219], 병리 면역 프로파일[^139], 사이토카인 네트워크[^224] | 기전 연구 |
 
@@ -782,7 +782,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 [^67]: Effect of omega-3 fatty acids on TH1/TH2 polarization in individuals with high exposure to particulate matter ≤ 2.5 μm (PM2.5): a randomized, double-blind, placebo-controlled clinical study. Wang X 외. _Trials_. 2022-02-24. [임상시험] [환자 120명] [DOI 10.1186/s13063-022-06091-5](https://doi.org/10.1186/s13063-022-06091-5) [PMID 35209939](https://pubmed.ncbi.nlm.nih.gov/35209939/) — 초미세먼지(PM2.5)에 고도로 노출된 환경에서 근무하는 성인에게 오메가-3 지방산을 투여하여 면역 불균형(TH1/TH2 분극) 및 호흡기·심혈관 건강에 미치는 영향을 평가하는 연구입니다. 결과가 유의미할 경우, 대기 오염 노출이 심한 직업군에서 오메가-3 보충이 면역 보호 및 질환 예방을 위한 임상적 전략으로 활용될 수 있을 것입니다..
 
-[^68]: Influence of Bushen Tiaochong Cycle Therapy on Th1/Th2 Deviation, Sex Hormone Level, and Pregnancy Outcome of Alloimmune Recurrent Spontaneous Abortion. Wang P 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [환자 130명] [DOI 10.1155/2021/8624414](https://doi.org/10.1155/2021/8624414) [PMID 34594392](https://pubmed.ncbi.nlm.nih.gov/34594392/) — 동종면역성 반복 유산 환자에게 기존의 림프구 면역요법과 보신조충 주기 요법을 병행하는 것이 면역 불균형(Th1/Th2 비율)을 개선하고 성호르몬 수치를 높이며, 결과적으로 임신 성공률을 향상시키는 데 효과적이다. 실제 임상에서 면역학적 원인으로 유산이 반복되는 환자에게 양방의 면역치료와 한방의 보신조충 요법을 결합하여 적용하는 전략을 고려할 수 있다..
+[^68]: Influence of Bushen Tiaochong Cycle Therapy on Th1/Th2 Deviation, Sex Hormone Level, and Pregnancy Outcome of Alloimmune Recurrent Spontaneous Abortion. Wang P 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 철회됨] [환자 130명] [DOI 10.1155/2021/8624414](https://doi.org/10.1155/2021/8624414) [PMID 34594392](https://pubmed.ncbi.nlm.nih.gov/34594392/) — **철회(Retraction Notice: [PMID 38125102](https://pubmed.ncbi.nlm.nih.gov/38125102/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 동종면역성 반복 유산 환자에게 기존의 림프구 면역요법과 보신조충 주기 요법을 병행하는 것이 면역 불균형(Th1/Th2 비율)을 개선하고 성호르몬 수치를 높이며, 결과적으로 임신 성공률을 향상시키는 데 효과적이다. 실제 임상에서 면역학적 원인으로 유산이 반복되는 환자에게 양방의 면역치료와 한방의 보신조충 요법을 결합하여 적용하는 전략을 고려할 수 있다.
 
 [^69]: Seropositive rate of the anti-hepatitis A immunoglobulin G antibody in maintenance hemodialysis subjects from two hospitals in Korea. 김현석 외. _TheKoreanJournal of InternalMedicine_. 2019-11. [관찰연구] [환자 170명] [DOI 10.3904/kjim.2017.293](https://doi.org/10.3904/kjim.2017.293) — 한국 혈액투석 환자의 A형 간염 항체 양성률은 약 95.9%로 일반 인구와 유사하게 높았으나, 40세 미만 환자군에서는 양성률이 50%로 현저히 낮았다. 따라서 혈액투석 환자, 특히 40세 미만의 젊은 환자들에게는 항체 검사 후 음성인 경우 A형 간염 백신 접종(active immunization)을 강력히 권고한다..
 
@@ -1042,7 +1042,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 [^197]: Long-lasting B cell convergence to distinct broadly reactive epitopes following vaccination with chimeric influenza virus hemagglutinins. Guthmiller JJ 외. _Immunity_. 2025-04-08. [임상시험] [DOI 10.1016/j.immuni.2025.02.025](https://doi.org/10.1016/j.immuni.2025.02.025) [PMID 40132593](https://pubmed.ncbi.nlm.nih.gov/40132593/) — 키메라 헤마글루티닌(cHA) 백신이 인플루엔자 바이러스의 보존된 HA stalk 도메인에 대해 강력하고 지속적인 B 세포 반응을 유도함을 확인하였다. 이는 광범위한 보호 효과를 가진 에피토프에 대한 기억 B 세포 풀을 형성함으로써, 다양한 인플루엔자 변이에 대응할 수 있는 범용 백신 개발의 가능성을 시사한다..
 
-[^198]: Risk Factors for Thyroid Dysfunction in Patients with Advanced Non-Small-Cell Lung Cancer Treated with PD-1 Antibody. Zhang J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구] [환자 100명] [DOI 10.1155/2022/9086962](https://doi.org/10.1155/2022/9086962) [PMID 35990831](https://pubmed.ncbi.nlm.nih.gov/35990831/) — PD-1 항체 치료를 받는 진행성 비소세포폐암 환자 중 여성, 질병 기간 1년 이상, 갑상선 결절이 있는 환자는 갑상선 기능 이상 발생 위험이 높습니다. 따라서 해당 위험 요인을 가진 환자들을 집중 모니터링하고 조기 개입을 통해 갑상선 기능 저하 및 항진증을 관리하는 것이 임상적으로 중요합니다..
+[^198]: Risk Factors for Thyroid Dysfunction in Patients with Advanced Non-Small-Cell Lung Cancer Treated with PD-1 Antibody. Zhang J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구, 철회됨] [환자 100명] [DOI 10.1155/2022/9086962](https://doi.org/10.1155/2022/9086962) [PMID 35990831](https://pubmed.ncbi.nlm.nih.gov/35990831/) — **철회(Retraction Notice: [PMID 37501855](https://pubmed.ncbi.nlm.nih.gov/37501855/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: PD-1 항체 치료를 받는 진행성 비소세포폐암 환자 중 여성, 질병 기간 1년 이상, 갑상선 결절이 있는 환자는 갑상선 기능 이상 발생 위험이 높습니다. 따라서 해당 위험 요인을 가진 환자들을 집중 모니터링하고 조기 개입을 통해 갑상선 기능 저하 및 항진증을 관리하는 것이 임상적으로 중요합니다.
 
 [^199]: The Effect of ShenQi FuZheng Injection in Combination with Chemotherapy versus Chemotherapy Alone on the Improvement of Efficacy and Immune Function in Patients with Advanced Non-Small Cell Lung Cancer: A Meta-Analysis. Dedong C 외. _PloS one_. 2016. [메타분석] [환자 1006명] [DOI 10.1371/journal.pone.0152270](https://doi.org/10.1371/journal.pone.0152270) [PMID 27015629](https://pubmed.ncbi.nlm.nih.gov/27015629/) — 신기부정주(SFI)를 화학요법과 병용 투여할 경우, 진행성 비소세포폐암 환자의 임상적 치료 효능을 높이고 CD3+, CD4+ 세포 및 NK 세포 등 세포성 면역 기능을 유의하게 개선할 수 있다. 따라서 항암 화학요법 중 면역 저하를 겪는 폐암 환자에게 보조적으로 적용할 수 있으나, 출판 편향(Publication bias)의 가능성이 있으므로 실제 적용 시 최신 고품질 RCT 근거를 함께 고려해야 한다..
 
@@ -1076,7 +1076,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 [^214]: [Modified painless wheat-grain blistering moxibustion for allergic rhinitis of lung deficiency and cold attacking: a randomized controlled trial]. Zhang Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-09-12. [임상시험] [환자 98명] [DOI 10.13703/j.0255-2930.20231107-0005](https://doi.org/10.13703/j.0255-2930.20231107-0005) [PMID 39318288](https://pubmed.ncbi.nlm.nih.gov/39318288/) — 폐허감한형(肺虛感寒型) 알레르기 비염 환자에게 일반적인 스테로이드 비강 스프레이 치료와 함께 개량 무통 맥립 화농구(Modified painless wheat-grain blistering moxibustion)를 병용하면 비강 증상 개선 및 삶의 질 향상에 더 효과적이며, 재발률을 낮추어 장기적인 치료 효과를 공고히 할 수 있다. 이는 혈청 IgE와 IL-10 수치 조절을 통한 면역 조절 기전과 관련이 있을.
 
-[^215]: Efficacy and Safety of Rupatadine Fumarate Combined with Acupoint Application in Allergic Rhinitis Complicated with Diabetes. Liu Y 외. _Computational intelligence and neuroscience_. 2022. [임상시험] [환자 80명] [DOI 10.1155/2022/6935758](https://doi.org/10.1155/2022/6935758) [PMID 35747720](https://pubmed.ncbi.nlm.nih.gov/35747720/) — 당뇨병을 동반한 알레르기성 비염 환자에게 루파타딘 푸마르산염과 혈위 응용 요법(Acupoint application)을 병용하는 것이 단독 약물 치료보다 임상적 증상 개선 및 항알레르기 효과(IgE 및 EOS 감소) 면에서 더 효과적이며 안전함이 확인되었다. 따라서 당뇨병 환자의 알레르기성 비염 치료 시 약물 요법에 한방 혈위 자극 요법을 병행하는 것이 치료 효율을 높이는 유용한 전략이 될 수 있다..
+[^215]: Efficacy and Safety of Rupatadine Fumarate Combined with Acupoint Application in Allergic Rhinitis Complicated with Diabetes. Liu Y 외. _Computational intelligence and neuroscience_. 2022. [임상시험, 철회됨] [환자 80명] [DOI 10.1155/2022/6935758](https://doi.org/10.1155/2022/6935758) [PMID 35747720](https://pubmed.ncbi.nlm.nih.gov/35747720/) — **철회(Retraction Notice: [PMID 38124823](https://pubmed.ncbi.nlm.nih.gov/38124823/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 당뇨병을 동반한 알레르기성 비염 환자에게 루파타딘 푸마르산염과 혈위 응용 요법(Acupoint application)을 병용하는 것이 단독 약물 치료보다 임상적 증상 개선 및 항알레르기 효과(IgE 및 EOS 감소) 면에서 더 효과적이며 안전함이 확인되었다. 따라서 당뇨병 환자의 알레르기성 비염 치료 시 약물 요법에 한방 혈위 자극 요법을 병행하는 것이 치료 효율을 높이는 유용한 전략이 될 수 있다.
 
 [^216]: PATHOGENESIS OF IMMUNE DYSFUNCTION IN THE SETTING OF METABOLIK SYNDROME IN CORONARY HEAT DISEASE. QUALIFYING SCENTIFYING WORK ON THE RIGHTS OF THE MANUSCRIPT. M. M. Shchurko 외. _Ukrainian Journal of Laboratory Medicine_. 2023-12-30. [관찰연구] [환자 150명] [DOI 10.62151/2786-9288.1.2.2023.04](https://doi.org/10.62151/2786-9288.1.2.2023.04) — 본 연구는 대사증후군을 동반한 관상동맥성 심장질환 환자가 단순 심장질환 환자보다 더 심각한 심근 기능 저하, 염증 반응 및 면역 불균형을 보임을 시사한다. 특히 ST 2, NT-proBNP 및 전염증성 사이토카인(IL-6, IL-8 등)의 수치 상승이 뚜렷하며, 이는 대사증후군 동반 시 심혈관 위험도가 더욱 높아짐을 의미한다. 따라서 임상에서는 심장질환 환자의 당 및 지질 대사 상태와 면역 마커를 종합적으로 .
 
@@ -1108,7 +1108,7 @@ B세포 분화 차단(XLA[^125][^159])·CSR/SHM 결함(고IgM 증후군, CD40-CD
 
 [^230]: Circulating tumor-associated autoantibody signatures for diagnosis and prognosis in small-cell lung cancer and lung adenocarcinoma. Liu C 외. _British journal of cancer_. 2026-06-25. [관찰연구] [환자 695명] [DOI 10.1038/s41416-026-03504-z](https://doi.org/10.1038/s41416-026-03504-z) [PMID 42350789](https://pubmed.ncbi.nlm.nih.gov/42350789/) — 종양 관련 자가항체(TAAbs) 패널이 소세포폐암과 폐선암의 진단 및 조기 발견에 있어 기존 표지자(ProGRP, CEA)보다 우수한 성능을 보임을 확인하였다. 특히 진단 전 최대 2년 전부터 검출이 가능하여 조기 스크리닝에 활용될 수 있으며, 암종에 따라 생존율 예측 결과가 다르게 나타나므로(SCLC는 불량, LUAD는 양호) 맞춤형 예후 판정에 적용 가능하다..
 
-[^231]: Risk Factors of Arteriovenous Fistula Stenosis of Patients with Maintenance Hemodialysis. Gao M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구] [환자 80명] [DOI 10.1155/2022/2968122](https://doi.org/10.1155/2022/2968122) [PMID 36387371](https://pubmed.ncbi.nlm.nih.gov/36387371/) — 유지 혈액투석 환자의 동정맥루 협착 위험을 낮추기 위해 당뇨, 고혈압 및 면역 상태에 대한 관리가 필요하며, 특히 활혈거어(活血祛瘀) 목적의 한약 치료가 협착 예방에 긍정적인 영향을 줄 수 있음을 시사한다. 임상에서는 면역 기능 저하 환자와 한약 치료를 받지 않는 환자를 고위험군으로 분류하여 집중적인 모니터링을 시행하는 것이 권장된다..
+[^231]: Risk Factors of Arteriovenous Fistula Stenosis of Patients with Maintenance Hemodialysis. Gao M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구, 철회됨] [환자 80명] [DOI 10.1155/2022/2968122](https://doi.org/10.1155/2022/2968122) [PMID 36387371](https://pubmed.ncbi.nlm.nih.gov/36387371/) — **철회(Retraction Notice: [PMID 37501862](https://pubmed.ncbi.nlm.nih.gov/37501862/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 유지 혈액투석 환자의 동정맥루 협착 위험을 낮추기 위해 당뇨, 고혈압 및 면역 상태에 대한 관리가 필요하며, 특히 활혈거어(活血祛瘀) 목적의 한약 치료가 협착 예방에 긍정적인 영향을 줄 수 있음을 시사한다. 임상에서는 면역 기능 저하 환자와 한약 치료를 받지 않는 환자를 고위험군으로 분류하여 집중적인 모니터링을 시행하는 것이 권장된다.
 
 [^232]: [Acupoint-injection of BCG polysaccharide nuclear acid for treatment of condyloma acuminatum and its immunoregulatory action on the patient]. Yuan SY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2007-06. [임상시험] [환자 200명] [PMID 17663101](https://pubmed.ncbi.nlm.nih.gov/17663101/) — BCG-PSN을 穴(혈, acupoint)에 주입하는 방법이 일반적인 근육 주사나 인터페론 치료보다 첨규(condyloma acuminatum)의 완치율을 높이고 재발률을 낮추는 데 더 효과적임이 확인되었다. 이는 CD4+ T세포 증가 및 NK 세포 활성화와 같은 세포성 면역 조절 작용을 통해 이루어지며, 레이저 제거술 후 보조 요법으로 임상 적용을 고려할 수 있다..
 

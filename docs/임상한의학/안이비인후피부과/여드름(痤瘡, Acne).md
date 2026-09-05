@@ -197,7 +197,7 @@
 
 #### 11-5. 간울화화증(肝鬱化火證)·충임불조증
 
-**주증**: 월경 전 악화, 정서 긴장·유방창통 동반, 성인 여성에 호발. **치법**: 소간해울(疏肝解鬱)·자음강화(滋陰降火)·조섭충임(調攝衝任). **대표방**: 청열착창정[^45], 단지소요산(丹梔逍遙散, 주사비 병발 시)[^105].
+**주증**: 월경 전 악화, 정서 긴장·유방창통 동반, 성인 여성에 호발. **치법**: 소간해울(疏肝解鬱)·자음강화(滋陰降火)·조섭충임(調攝衝任). **대표방**: 청열착창정[^45], 단지소요산(丹梔逍遙散, 주사비 병발 시)[^105](철회된 논문으로 유효 근거가 아니다).
 
 #### 11-6. 음허내열증(陰虛內熱證)·특이체질형
 
@@ -273,7 +273,7 @@
 | 청열이습(淸熱利濕) | 습열증 | 가감 거풍윤면산[^97] |
 | 양혈청열(涼血淸熱)·거어(祛瘀) | 혈열증·담어증 | 자락·사혈·부항[^32][^184] |
 | 화담산결(化痰散結) | 담어증(결절낭종) | 포위침·사혈·부항 병행[^51] |
-| 소간해울(疏肝解鬱)·조섭충임 | 간울화화증 | 청열착창정, 단지소요산[^45][^105] |
+| 소간해울(疏肝解鬱)·조섭충임 | 간울화화증 | 청열착창정, 단지소요산[^45][^105](철회된 논문으로 유효 근거가 아니다) |
 | 자음청열(滋陰淸熱) | 음허내열증 | 현수구[^68] |
 
 이 위계는 임상 틀이지 동일 근거수준의 권고가 아니다.
@@ -374,7 +374,7 @@
 
 #### 16-8. 단지소요산(丹梔逍遙散)
 
-주사비(장미증) 환자에서 광역동 치료(PDT)와 단지소요산 병용이 PDT 단독보다 염증성 구진·홍반 조절 속도가 빠르고 화끈거림·가려움 개선 효과가 유의하게 높았다(100명)[^105].
+주사비(장미증) 환자에서 광역동 치료(PDT)와 단지소요산 병용이 PDT 단독보다 염증성 구진·홍반 조절 속도가 빠르고 화끈거림·가려움 개선 효과가 유의하게 높았다(100명)[^105](철회된 논문으로 유효 근거가 아니다).
 
 #### 16-9. 가감비파청폐탕(加減枇杷淸肺湯)
 
@@ -879,7 +879,7 @@ EGFR-TKI 유발 여드름양 발진에 대한 최적 치료를 규명하기 위�
 [^102]: Clinical study on acupuncture treatment of gastrointestinal damp-heat acne. Duan PP 외. _Medicine_. 2021-11-05. [임상시험, 76명] [DOI 10.1097/MD.0000000000027503](https://doi.org/10.1097/MD.0000000000027503) [PMID 34871212](https://pubmed.ncbi.nlm.nih.gov/34871212/) — 위장습열(胃腸濕熱) 유형의 여드름 환자에게 비위귀원침법(SSGA)을 적용하여 치료의 타당성, 예비 효능 및 안전성을 평가하는 연구이다.
 [^103]: [Efficacy and action mechanism of ZHU Lian inhibition type Ⅰacupuncture for acne with spleen-stomach dampness-heat]. Pang RK 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-11-12. [임상시험, 82명] [DOI 10.13703/j.0255-2930.20201007-k0002](https://doi.org/10.13703/j.0255-2930.20201007-k0002) [PMID 34762377](https://pubmed.ncbi.nlm.nih.gov/34762377/) — 脾胃湿热(비위습열) 유형의 여드름 환자에게 주련억제 Ⅰ형 침법(ZHU Lian inhibition type Ⅰ acupuncture)을 적용하는 것이 피부 병변 개선과 삶의 질 향상에 효과적이며 재발률이 낮음을 시사한다.
 [^104]: Effect and Safety Analysis of PRP and Yifu Combined with Ultrapulsed CO(2) Lattice Laser in Patients with Sunken Acne Scar. Wang Y 외. _Journal of healthcare engineering_. 2022. [임상시험, 700명] [DOI 10.1155/2022/6803988](https://doi.org/10.1155/2022/6803988) [PMID 35126939](https://pubmed.ncbi.nlm.nih.gov/35126939/) — 함몰성 여드름 흉터 치료 시 초단파 CO2 격자 레이저에 PRP와 Yifu를 병합하여 사용하는 것이 레이저 단독 치료보다 임상적 유효율을 높이고 이상반응 발생률을 낮추는 데 효과적이다.
-[^105]: Evaluation of Therapeutic Effect and Prognosis of Danzhi Xiaoyao Powder Combined with Photodynamic Therapy in the Treatment of Rose Acne. Yu X 외. _Computational and mathematical methods in medicine_. 2022. [임상시험, 100명] [DOI 10.1155/2022/1636839](https://doi.org/10.1155/2022/1636839) [PMID 35309844](https://pubmed.ncbi.nlm.nih.gov/35309844/) — 주사비 환자에게 광역동 치료(PDT)와 단지소요산(丹芝逍遙散)을 병용 투여했을 때, PDT 단독 치료보다 염증성 구진과 홍반의 조절 속도가 빠르고 화끈거림, 가려움 등의 임상 증상 개선 효과가 유의하게 높았다.
+[^105]: Evaluation of Therapeutic Effect and Prognosis of Danzhi Xiaoyao Powder Combined with Photodynamic Therapy in the Treatment of Rose Acne. Yu X 외. _Computational and mathematical methods in medicine_. 2022. [임상시험, 100명, 철회됨] [DOI 10.1155/2022/1636839](https://doi.org/10.1155/2022/1636839) [PMID 35309844](https://pubmed.ncbi.nlm.nih.gov/35309844/) — **철회(Retraction Notice: [PMID 37771406](https://pubmed.ncbi.nlm.nih.gov/37771406/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 주사비 환자에게 광역동 치료(PDT)와 단지소요산(丹芝逍遙散)을 병용 투여했을 때, PDT 단독 치료보다 염증성 구진과 홍반의 조절 속도가 빠르고 화끈거림, 가려움 등의 임상 증상 개선 효과가 유의하게 높았다.
 [^106]: Efficacy of acupuncture in improving symptoms and quality of life of patients with acne vulgaris: a randomized sham acupuncture-controlled trial. Ruimin Jiao 외. _Acupuncture in Medicine_. 2022-04-18. [임상시험] [DOI 10.1177/09645284221076506](https://doi.org/10.1177/09645284221076506) — 본 연구 결과, 4주간의 단기 침 치료는 중등도 및 중증 보통 여드름 환자의 증상 완화와 삶의 질 개선에 가짜 침 대비 유의미한 효과를 보이지 못했다.
 [^107]: [Clinical observation on different frequency of auricular bloodletting combined with auricular point sticking for acne vulgaris]. Gao YY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-06-12. [임상시험, 90명] [DOI 10.13703/j.0255-2930.20210519-k0006](https://doi.org/10.13703/j.0255-2930.20210519-k0006) [PMID 35712946](https://pubmed.ncbi.nlm.nih.gov/35712946/) — 이혈자락(auricular bloodletting)과 이혈압박(auricular point sticking)을 병행한 치료는 여드름 환자의 피부 병변을 개선하고 삶의 질을 높이는 데 효과적이다.
 [^108]: Efficacy and safety of silymarin containing antioxidant serum as an adjuvant treatment of mild-to-moderate acne vulgaris: A prospective, open-label pilot study. Kim J 외. _Journal of cosmetic dermatology_. 2023-02. [임상시험, 22명] [DOI 10.1111/jocd.15439](https://doi.org/10.1111/jocd.15439) [PMID 36204969](https://pubmed.ncbi.nlm.nih.gov/36204969/) — 0.5% 실리마린 항산화 세럼은 경증 및 중등도 여드름 환자의 임상적 중증도와 병변 수를 유의하게 감소시키며, 피부 색소 침착 개선에도 효과적이다.

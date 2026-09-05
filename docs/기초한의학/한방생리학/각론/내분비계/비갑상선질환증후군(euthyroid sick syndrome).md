@@ -44,7 +44,7 @@ T4·T3와 말초 탈요오드화효소 문서, 호르몬 수용체와 신호전�
 
 ### 2-4. 뇌수술·중증 외상에서의 갑상선호르몬-코르티솔 동반 변화
 
-중증 두개뇌손상 환자를 대상으로 갑상선호르몬과 코르티솔의 동적 변화 및 예후의 관계를 조사한 연구는[^3], 저T3 상태가 단독으로 나타나기보다 HPA축 변화(코르티솔 동태)와 함께 나타나는 경우가 많으며, 두 축의 변화 양상이 예후 예측에 함께 참고될 수 있음을 시사하였다. 이는 신경내분비·면역내분비 상호작용 문서에서 다룬 HPA축-갑상선축 상호작용의 구체적 임상 사례다.
+중증 두개뇌손상 환자를 대상으로 갑상선호르몬과 코르티솔의 동적 변화 및 예후의 관계를 조사한 연구는[^3](철회된 논문으로 유효 근거가 아니다), 저T3 상태가 단독으로 나타나기보다 HPA축 변화(코르티솔 동태)와 함께 나타나는 경우가 많으며, 두 축의 변화 양상이 예후 예측에 함께 참고될 수 있음을 시사하였다. 이는 신경내분비·면역내분비 상호작용 문서에서 다룬 HPA축-갑상선축 상호작용의 구체적 임상 사례다.
 
 ### 2-5. 급성 신손상·간부전에서의 갑상선호르몬 변화
 
@@ -100,7 +100,7 @@ T4·T3와 말초 탈요오드화효소 문서, 호르몬 수용체와 신호전�
 | 질환군 | 대표 KCD-8 분류 | 저T3 상태와의 관계 | 예후 방향 | 관련 절·근거 |
 | --- | --- | --- | --- | --- |
 | 패혈증·중증 감염 | A40–A41 | 흔히 동반, 중증도에 비례 | 저T3 심할수록 사망률 상승 | 2-2 [^1][^2] |
-| 중증 두개뇌손상 | S06 | HPA축 변화와 동반 | 두 축 변화가 함께 예후 예측 | 2-4 [^3] |
+| 중증 두개뇌손상 | S06 | HPA축 변화와 동반 | 두 축 변화가 함께 예후 예측 | 2-4 [^3](철회된 논문으로 유효 근거가 아니다) |
 | 급성 신손상·대동맥박리 | N17, I71 | 장기부전과 동반 | 저T3 심할수록 AKI 중증도 상승 | 2-5 [^4] |
 | 간부전 | K72 | D1 저하로 이중 경로 형성 | 간기능-저T3 상호 악화 | 2-5 [^5] |
 | 악성종양(비인두암 등) | C11 | 만성 소모성 경과와 동반 | 기저 저T3가 예후와 연관 | 2-5 [^18] |
@@ -457,7 +457,7 @@ NTIS가 원인질환의 회복과 함께 자연히 호전되는 경과를 밟는
 
 [^1]: The Value of Decreased Thyroid Hormone for Predicting Mortality in Adult Septic Patients: A Systematic Review and Meta-Analysis. Kim JG 외. _Scientific Reports_. 2018-09-20. [메타분석, 1578명] [DOI 10.1038/s41598-018-32543-7](https://doi.org/10.1038/s41598-018-32543-7) [PMID 30237537](https://pubmed.ncbi.nlm.nih.gov/30237537/) — 패혈증 환자에서 저갑상선호르몬 소견이 사망률 예측에 실제로 유의미함을 확인.
 [^2]: Thyroid function and risk of sepsis: a population-based prospective cohort study with traditional and genetic epidemiological analyses. Thorkildsen MS 외. _Frontiers in Endocrinology_. 2026. [관찰연구, 45364명] [DOI 10.3389/fendo.2026.1852413](https://doi.org/10.3389/fendo.2026.1852413) [PMID 42445872](https://pubmed.ncbi.nlm.nih.gov/42445872/) — 갑상선기능 저하가 패혈증의 결과뿐 아니라 유전적 경로를 통한 위험 요인일 가능성도 제기.
-[^3]: Relationship between Prognosis with Dynamic Changes of Thyroid Hormone and Cortisol Hormone in Patients with Severe Craniocerebral Injury. Ding C 외. _Evidence-Based Complementary and Alternative Medicine_. 2022. [관찰연구, 48명] [DOI 10.1155/2022/1883107](https://doi.org/10.1155/2022/1883107) [PMID 36193136](https://pubmed.ncbi.nlm.nih.gov/36193136/) — 중증 두개뇌손상에서 갑상선호르몬-코르티솔 동반 변화와 예후의 연관.
+[^3]: Relationship between Prognosis with Dynamic Changes of Thyroid Hormone and Cortisol Hormone in Patients with Severe Craniocerebral Injury. Ding C 외. _Evidence-Based Complementary and Alternative Medicine_. 2022. [관찰연구, 48명, 철회됨] [DOI 10.1155/2022/1883107](https://doi.org/10.1155/2022/1883107) [PMID 36193136](https://pubmed.ncbi.nlm.nih.gov/36193136/) — **철회(Retraction Notice: [PMID 38093883](https://pubmed.ncbi.nlm.nih.gov/38093883/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 중증 두개뇌손상에서 갑상선호르몬-코르티솔 동반 변화와 예후의 연관.
 [^4]: [The impact and prognostic value of thyroid hormones on postoperative acute kidney injury in patients with acute type A aortic dissection]. Song S 외. _Zhonghua Wei Zhong Bing Ji Jiu Yi Xue_. 2026-05. [관찰연구, 176명] [DOI 10.3760/cma.j.cn121430-20250927-00496](https://doi.org/10.3760/cma.j.cn121430-20250927-00496) [PMID 42281542](https://pubmed.ncbi.nlm.nih.gov/42281542/) — 대동맥박리 수술 후 갑상선호르몬 수치와 급성 신손상 예후의 관계.
 [^5]: Mechanisms and Prognostic Assessment Value of Thyroid Hormone in Liver Failure. Zhou H 외. _Journal of Clinical and Translational Hepatology_. 2026-05-28. [문헌 고찰] [DOI 10.14218/JCTH.2025.00657](https://doi.org/10.14218/JCTH.2025.00657) [PMID 42273380](https://pubmed.ncbi.nlm.nih.gov/42273380/) — 간부전에서 갑상선호르몬의 기전적·예후적 의미를 정리, 간이 T4→T3 전환의 주요 장기라는 점과의 연결.
 [^6]: The variability of weight reduction during fasting: predictive value of thyroid hormone measurements. Sörbris R 외. _International Journal of Obesity_. 1982. [관찰연구, 14명] [PMID 7068312](https://pubmed.ncbi.nlm.nih.gov/7068312/) — 기아 상태에 준하는 체중 감량 중 갑상선호르몬 변화와 체중 감소 속도의 연동, 에너지 절약 가설의 오래된 경험적 근거.

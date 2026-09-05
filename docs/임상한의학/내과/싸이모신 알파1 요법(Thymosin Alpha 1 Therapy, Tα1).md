@@ -70,7 +70,7 @@
 
 #### 5-1. IL-6·IL-10 축
 
-흉강경 폐암 수술을 받은 환자에서 싸이모신 병용군은 대조군보다 수술 후 IL-6가 낮고 IL-10이 높게 유지되었으며, 삶의 질 점수도 유의하게 개선되었다[^12]. IL-6는 전신 염증 반응의 대표적 촉진 인자, IL-10은 대표적 억제 인자로, 이 방향성은 수술 스트레스로 인한 과잉 염증 반응을 싸이모신이 완충했을 가능성을 시사한다.
+흉강경 폐암 수술을 받은 환자에서 싸이모신 병용군은 대조군보다 수술 후 IL-6가 낮고 IL-10이 높게 유지되었으며, 삶의 질 점수도 유의하게 개선되었다[^12](철회된 논문으로 유효 근거가 아니다). IL-6는 전신 염증 반응의 대표적 촉진 인자, IL-10은 대표적 억제 인자로, 이 방향성은 수술 스트레스로 인한 과잉 염증 반응을 싸이모신이 완충했을 가능성을 시사한다.
 
 #### 5-2. 염증 지표 — CRP
 
@@ -104,7 +104,7 @@
 
 **① 병인병기 개요**: 비소세포폐암은 항암화학요법(백금 기반 병용요법)이 표준 치료의 근간이며, 화학요법 자체가 골수억제·면역저하를 유발하는 것이 임상적 난점이다.
 
-**② 치료 근거**: 시스플라틴에 비노렐빈 또는 젬시타빈을 병용한 표준 화학요법에 싸이모신을 추가한 무작위대조시험을 종합한 메타분석(724명)에서, 싸이모신 병용군은 전체 반응률·질병조절률·삶의 질·면역세포(CD4, NK cell) 수치가 대조군보다 유의하게 향상되었고, 특히 시스플라틴+비노렐빈 병용 시 1년 생존율이 증가하였다[^14]. 근치적 흉강경 폐암 수술을 받은 환자를 대상으로 한 무작위대조시험(120명)에서는 싸이모신 병용군의 술후 CD4+·CD8+·NK세포 비율이 더 높게 유지되었고, IL-6는 낮고 IL-10은 높게 유지되었으며 삶의 질 점수도 유의하게 개선되었다[^12].
+**② 치료 근거**: 시스플라틴에 비노렐빈 또는 젬시타빈을 병용한 표준 화학요법에 싸이모신을 추가한 무작위대조시험을 종합한 메타분석(724명)에서, 싸이모신 병용군은 전체 반응률·질병조절률·삶의 질·면역세포(CD4, NK cell) 수치가 대조군보다 유의하게 향상되었고, 특히 시스플라틴+비노렐빈 병용 시 1년 생존율이 증가하였다[^14]. 근치적 흉강경 폐암 수술을 받은 환자를 대상으로 한 무작위대조시험(120명)에서는 싸이모신 병용군의 술후 CD4+·CD8+·NK세포 비율이 더 높게 유지되었고, IL-6는 낮고 IL-10은 높게 유지되었으며 삶의 질 점수도 유의하게 개선되었다[^12](철회된 논문으로 유효 근거가 아니다).
 
 **③ 예후·관리**: 두 연구 모두 생존율·부작용의 유의한 악화 없이 면역 지표와 삶의 질을 개선한 결과를 보고하여, 화학요법·수술이라는 표준치료의 골격을 유지하면서 면역 기능 저하를 완충하는 보조적 역할로 자리매김한다.
 
@@ -305,7 +305,7 @@ COVID-19에 대한 잠재적 보조 치료제의 약리학적 개발 현황을 �
 
 **Q2. 모든 암 환자에게 효과가 있는가?**
 
-아니다. 확보된 근거는 비소세포폐암[^14][^12]·식도암[^16]·담관암(서황환 병용)[^8]·악성 흉수[^18]·특정 진행성 고형암(방사선-면역 병용)[^15] 등 개별 암종에서 개별적으로 축적된 것이며, 암종을 통틀어 일관되게 검증된 것이 아니다. 각 암종의 표준치료를 대체하는 것이 아니라 **보조요법** 으로만 근거가 형성되어 있다[^14][^16].
+아니다. 확보된 근거는 비소세포폐암[^14][^12](철회된 논문으로 유효 근거가 아니다)·식도암[^16]·담관암(서황환 병용)[^8]·악성 흉수[^18]·특정 진행성 고형암(방사선-면역 병용)[^15] 등 개별 암종에서 개별적으로 축적된 것이며, 암종을 통틀어 일관되게 검증된 것이 아니다. 각 암종의 표준치료를 대체하는 것이 아니라 **보조요법** 으로만 근거가 형성되어 있다[^14][^16].
 
 **Q3. 패혈증에 효과가 있다고 들었는데, 실제로는 어떤가?**
 
@@ -348,7 +348,7 @@ COVID-19에 대한 잠재적 보조 치료제의 약리학적 개발 현황을 �
 [^9]: Interventions for preventing infection in nephrotic syndrome. Wu HM 외. _The Cochrane database of systematic reviews_. 2012-04-18. [체계적 고찰, 762명] [DOI 10.1002/14651858.CD003964.pub3](https://doi.org/10.1002/14651858.CD003964.pub3) [PMID 22513919](https://pubmed.ncbi.nlm.nih.gov/22513919/) — 싸이모신을 포함한 여러 중재가 소아 신증후군 감염 위험을 낮췄으나 근거질이 낮았던 코크란 고찰.
 [^10]: The efficacy and safety of thymosin α1 for sepsis (TESTS): multicentre, double blinded, randomised, placebo controlled, phase 3 trial. Wu J 외. _BMJ (Clinical research ed.)_. 2025-01-15. [임상시험, 1106명] [DOI 10.1136/bmj-2024-082583](https://doi.org/10.1136/bmj-2024-082583) [PMID 39814420](https://pubmed.ncbi.nlm.nih.gov/39814420/) — 성인 패혈증 대규모 3상 위약대조시험에서 28일 사망률에 유의한 차이가 없었던 음성 결과. 당뇨병 하위군에서만 탐색적 신호.
 [^11]: The efficacy of thymosin α1 as immunomodulatory treatment for sepsis: a systematic review of randomized controlled trials. Liu F 외. _BMC infectious diseases_. 2016-09-15. [메타분석, 1019명] [DOI 10.1186/s12879-016-1823-5](https://doi.org/10.1186/s12879-016-1823-5) [PMID 27633969](https://pubmed.ncbi.nlm.nih.gov/27633969/) — 싸이모신 알파1이 패혈증 사망률을 낮췄다는 이전 메타분석(RR 0.59). 근거질 낮음을 스스로 명시. TESTS 3상과 상충하는 근거.
-[^12]: Effect of Thymosin on Inflammatory Factor Levels, Immune Function, and Quality of Life in Lung Cancer Patients Undergoing Radical Thoracoscopic Surgery. Zhao J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 120명] [DOI 10.1155/2022/8749999](https://doi.org/10.1155/2022/8749999) [PMID 35832513](https://pubmed.ncbi.nlm.nih.gov/35832513/) — 싸이모신 병용이 흉강경 폐암 수술 후 IL-6·IL-10·삶의 질을 개선한 시험. Th1/Th2 균형 조절의 임상 지표.
+[^12]: Effect of Thymosin on Inflammatory Factor Levels, Immune Function, and Quality of Life in Lung Cancer Patients Undergoing Radical Thoracoscopic Surgery. Zhao J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 120명, 철회됨] [DOI 10.1155/2022/8749999](https://doi.org/10.1155/2022/8749999) [PMID 35832513](https://pubmed.ncbi.nlm.nih.gov/35832513/) — **철회(Retraction Notice: [PMID 38125125](https://pubmed.ncbi.nlm.nih.gov/38125125/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 싸이모신 병용이 흉강경 폐암 수술 후 IL-6·IL-10·삶의 질을 개선한 시험. Th1/Th2 균형 조절의 임상 지표.
 [^13]: Therapeutic effect of Xuebijing combined with thymosin on hemorrhagic fever with renal syndrome: A protocol of systematic review and meta-analysis. Li CM 외. _Medicine_. 2020-05. [체계적 고찰] [DOI 10.1097/MD.0000000000020262](https://doi.org/10.1097/MD.0000000000020262) [PMID 32443367](https://pubmed.ncbi.nlm.nih.gov/32443367/) — 혈필정+싸이모신 병용 HFRS 치료 효과를 평가하려는 체계적 고찰 프로토콜. 결과 데이터 미확보.
 [^14]: Thymosin plus cisplatin with vinorelbine or gemcitabine for non-small cell lung cancer: A systematic review and meta-analysis of randomized controlled trials. Jiang J 외. _Thoracic cancer_. 2011-11. [메타분석, 724명] [DOI 10.1111/j.1759-7714.2011.00057.x](https://doi.org/10.1111/j.1759-7714.2011.00057.x) [PMID 27755854](https://pubmed.ncbi.nlm.nih.gov/27755854/) — 싸이모신 병용이 비소세포폐암 화학요법의 반응률·생존율·면역지표를 개선한 메타분석.
 [^15]: Hypofractionated radiotherapy combined with a PD-1 inhibitor, granulocyte macrophage-colony stimulating factor, and thymosin-α1 in advanced metastatic solid tumors: a multicenter Phase II clinical trial. Yu J 외. _Cancer immunology, immunotherapy : CII_. 2025-02-04. [임상시험, 37명] [DOI 10.1007/s00262-024-03934-9](https://doi.org/10.1007/s00262-024-03934-9) [PMID 39904914](https://pubmed.ncbi.nlm.nih.gov/39904914/) — 방사선+PD-1억제제+GM-CSF+싸이모신 알파1 병용이 표준치료 실패 전이성 고형암에서 압스코팔 효과를 포함한 반응을 보인 2상 시험.

@@ -158,7 +158,7 @@
 ### 3-2. 청력·심리음향·설문 평가
 
 - 순음청력검사(PTA)·어음청력검사로 난청 동반 여부 및 유형(전음성/감각신경성/혼합성)을 확인한다.
-- 이명도검사(pitch/loudness matching), 차폐역치검사(minimum masking level)로 이명의 심리음향학적 특성을 정량화한다. 한의학적 변증 유형에 따라 심리음향학적 지표에 차이가 있다는 관찰연구가 보고되어, 변증이 단순한 증상 분류를 넘어 생물학적·기능적 실체를 반영할 가능성을 시사한다.[^76]
+- 이명도검사(pitch/loudness matching), 차폐역치검사(minimum masking level)로 이명의 심리음향학적 특성을 정량화한다. 한의학적 변증 유형에 따라 심리음향학적 지표에 차이가 있다는 관찰연구가 보고되어, 변증이 단순한 증상 분류를 넘어 생물학적·기능적 실체를 반영할 가능성을 시사한다.[^76](철회된 논문으로 유효 근거가 아니다)
 - 왜곡산물 이음향방사(DPOAE)는 와우 외유모세포 기능을 평가하는 객관적 지표로, 특정 경혈 자극이 DPOAE 반응에 미치는 영향이 연구되고 있다.[^77][^78]
 - 이명 중증도·장애 평가에는 이명장애지수(Tinnitus Handicap Inventory, THI)·이명장애질문지(TEQ)·시각아날로그척도(VAS)·이명중증도지수(TSI)를 활용하며, 한국어판 THI는 라쉬 분석을 통해 타당도가 검증되었다.[^79] 이명 임상시험에서 사용되는 결과 지표·평가 도구의 표준화도 체계적으로 검토되었다.[^39]
 - 정서 상태 평가를 위해 벡 우울척도(BDI)·해밀턴 불안척도(HAM-A) 등을 병용할 수 있으며, 수면의 질은 피츠버그 수면질지수(PSQI)로 평가한다. 이러한 부가 척도는 이명이 정서·수면에 미치는 영향을 정량화하여 치료 목표 설정에 활용된다.[교과서적 근거]
@@ -260,7 +260,7 @@
 
 ### 4-1. 변증 개관
 
-이명의 변증은 크게 실증(간양상항·간화상염·담화상요·기체혈어)과 허증(신정휴손·기혈양허·비위허약)으로 나뉘며, 만성 이명에서는 허실협잡이 흔하다.[교과서적 근거] 한의학적 변증 유형에 따라 특발성 이명 환자의 임상 특징·심리음향학적 지표(이명 강도, 청력 역치와의 관계 등)에 유의한 차이가 있다는 관찰연구가 있어,[^76] 변증이 단순한 증상 분류 체계에 그치지 않고 병태생리적 실체를 반영할 가능성을 뒷받침한다.
+이명의 변증은 크게 실증(간양상항·간화상염·담화상요·기체혈어)과 허증(신정휴손·기혈양허·비위허약)으로 나뉘며, 만성 이명에서는 허실협잡이 흔하다.[교과서적 근거] 한의학적 변증 유형에 따라 특발성 이명 환자의 임상 특징·심리음향학적 지표(이명 강도, 청력 역치와의 관계 등)에 유의한 차이가 있다는 관찰연구가 있어,[^76](철회된 논문으로 유효 근거가 아니다) 변증이 단순한 증상 분류 체계에 그치지 않고 병태생리적 실체를 반영할 가능성을 뒷받침한다.
 
 ### 4-2. 신정휴손(腎精虧損)
 
@@ -872,7 +872,7 @@
 [^73]: Clinical investigation on the beneficial effects of the Chinese medicinal herb Gushen Pian on sensorineural deafness and tinnitus. Zhai S 외. _Cell biochemistry and biophysics_. 2013-11. [임상시험] [DOI 10.1007/s12013-013-9536-5](https://doi.org/10.1007/s12013-013-9536-5) [PMID 23516092](https://pubmed.ncbi.nlm.nih.gov/23516092/) — 고신편(固腎片) 한약이 감각신경성 난청·이명에 미치는 유익한 효과를 평가한 임상 연구..
 [^74]: Bimodal neuromodulation combining sound and tongue stimulation reduces tinnitus symptoms in a large randomized clinical study. Conlon B 외. _Science translational medicine_. 2020-10-07. [임상시험] [DOI 10.1126/scitranslmed.abb2830](https://doi.org/10.1126/scitranslmed.abb2830) [PMID 33028707](https://pubmed.ncbi.nlm.nih.gov/33028707/) — 소리와 혀 자극을 결합한 이중모달 신경조절이 대규모 무작위임상연구에서 이명 증상을 감소시켰음을 보고..
 [^75]: Transauricular vagus nerve stimulation at auricular acupoints Kindey (CO10), Yidan (CO11), Liver (CO12) and Shenmen (TF4) can induce auditory and limbic cortices activation measured by fMRI. Peng L 외. _Hearing research_. 2018-03. [실험연구] [DOI 10.1016/j.heares.2017.12.003](https://doi.org/10.1016/j.heares.2017.12.003) [PMID 29305037](https://pubmed.ncbi.nlm.nih.gov/29305037/) — 신문(TF4) 등 이개 미주신경 지배 혈위 자극이 청각·변연계 피질을 활성화함을 fMRI로 확인한 실험연구..
-[^76]: Analysis of Clinical Characteristics and Psychoacoustic Indexes in Different TCM Syndromes of Idiopathic Tinnitus. Niu Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구] [DOI 10.1155/2021/2446357](https://doi.org/10.1155/2021/2446357) [PMID 34608396](https://pubmed.ncbi.nlm.nih.gov/34608396/) — 특발성 이명의 한의학적 변증 유형별 임상 특징·정신음향학적 지표 차이를 분석한 관찰연구. 변증이 생물학적·기능적 실체를 반영함을 시사..
+[^76]: Analysis of Clinical Characteristics and Psychoacoustic Indexes in Different TCM Syndromes of Idiopathic Tinnitus. Niu Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구, 철회됨] [DOI 10.1155/2021/2446357](https://doi.org/10.1155/2021/2446357) [PMID 34608396](https://pubmed.ncbi.nlm.nih.gov/34608396/) — **철회(Retraction Notice: [PMID 37388099](https://pubmed.ncbi.nlm.nih.gov/37388099/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 특발성 이명의 한의학적 변증 유형별 임상 특징·정신음향학적 지표 차이를 분석한 관찰연구. 변증이 생물학적·기능적 실체를 반영함을 시사.
 [^77]: The Effect of Instant Stimulation to Kidney 3 Acupuncture Point on DPOAE Responses in Patients With Tinnitus. Berkay Arslan 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2025-06-17. [임상시험] [DOI 10.1177/03601293251346977](https://doi.org/10.1177/03601293251346977) — 태계(KI3) 즉각 자극이 이명 환자의 왜곡산물 이음향방사(DPOAE) 반응에 미치는 영향을 평가한 임상시험..
 [^78]: Impact of acupuncture on otoacoustic emissions in patients with tinnitus. de Azevedo RF 외. _Brazilian journal of otorhinolaryngology_. [임상시험] [DOI 10.1016/s1808-8694(15)30119-1](https://doi.org/10.1016/s1808-8694(15)30119-1) [PMID 18094800](https://pubmed.ncbi.nlm.nih.gov/18094800/) — 침 치료가 이명 환자의 이음향방사에 미치는 영향을 평가한 임상시험..
 [^79]: Rasch Analysis of the Korean Version of the Tinnitus Handicap Inventory. Kim GY 외. _Journal of clinical medicine_. 2023-09-05. [관찰연구] [DOI 10.3390/jcm12185785](https://doi.org/10.3390/jcm12185785) [PMID 37762724](https://pubmed.ncbi.nlm.nih.gov/37762724/) — 한국어판 이명장애지수(THI)의 라쉬 분석을 통한 타당도 검증 연구..

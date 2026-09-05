@@ -70,7 +70,7 @@
 
 ### 3-1. 평위산(平胃散) — 조습화탁의 기본방
 
-평위산은 창출(君)·후박(臣)·진피(佐)·감초(使)로 구성되어 습조중초(濕阻中焦)로 인한 완복창만·식욕부진·오심구토·설사를 다스리는 조습화탁(燥濕化濁)의 대표 기본방이다[교과서적 근거]. 창출은 이 처방에서 조습건비(燥濕健脾)의 군약(君藥)으로 작용하여 비위에 정체된 습사를 몰아내는 핵심 역할을 담당한다. 향사평위산(香砂平胃散)은 평위산에 목향·사인을 더해 행기지통(行氣止痛) 작용을 강화한 가감방으로, 기능성 소화불량(functional dyspepsia, FD) 환자의 삶의 질을 유의하게 개선하는 근거가 확인되었다.[^35] 향련평위산(香連平胃散)은 황련을 더해 청열조습(淸熱燥濕) 작용을 보강한 가감방으로, 간경변증을 동반한 소장 세균 과증식(SIBO) 환자에서 양약 병용 시 간 기능·염증 지표 개선 효과가 보고되었다.[^34]
+평위산은 창출(君)·후박(臣)·진피(佐)·감초(使)로 구성되어 습조중초(濕阻中焦)로 인한 완복창만·식욕부진·오심구토·설사를 다스리는 조습화탁(燥濕化濁)의 대표 기본방이다[교과서적 근거]. 창출은 이 처방에서 조습건비(燥濕健脾)의 군약(君藥)으로 작용하여 비위에 정체된 습사를 몰아내는 핵심 역할을 담당한다. 향사평위산(香砂平胃散)은 평위산에 목향·사인을 더해 행기지통(行氣止痛) 작용을 강화한 가감방으로, 기능성 소화불량(functional dyspepsia, FD) 환자의 삶의 질을 유의하게 개선하는 근거가 확인되었다.[^35] 향련평위산(香連平胃散)은 황련을 더해 청열조습(淸熱燥濕) 작용을 보강한 가감방으로, 간경변증을 동반한 소장 세균 과증식(SIBO) 환자에서 양약 병용 시 간 기능·염증 지표 개선 효과가 보고되었다.[^34](철회된 논문으로 유효 근거가 아니다)
 
 | 배오 원리 | 구성 | 역할 |
 |---|---|---|
@@ -134,7 +134,7 @@
 |---|---|
 | 금기·주의 | 음허·다한·조열 경향 환자에서는 신중 투여 |
 | 중금속 오염 관리 | 카드뮴 등 중금속 잔류 모니터링이 품질관리 지표로 제시됨[^51] |
-| 병용 시 고려 | 향련평위산 등 청열 가감방과 양약(항생제·간 보호제) 병용 시 임상적 상승 효과가 보고되나, 개별 환자 상태에 따른 조정 필요[^34] |
+| 병용 시 고려 | 향련평위산 등 청열 가감방과 양약(항생제·간 보호제) 병용 시 임상적 상승 효과가 보고되나, 개별 환자 상태에 따른 조정 필요[^34](철회된 논문으로 유효 근거가 아니다) |
 | 임신·수유 | 조습·발한 작용이 강해 임신 중에는 신중한 변증 하에 적용 |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 개별 환자의 병력·병용 약물을 반드시 확인한 뒤 적용해야 한다.
@@ -148,7 +148,7 @@
 | 기능성 소화불량 | 소화불량 증상 점수(예: Nepean Dyspepsia Index), 삶의 질(QoL) 척도[^35] |
 | 비만·대사증후군 | 체중, 허리둘레, 공복혈당, 인슐린 저항성(HOMA-IR), 혈중 지질(LDL-C·TC)[^21][^23] |
 | 두드러기·피부염 | 소양감 VAS, 두드러기 활동성 점수(UAS) |
-| 간질환 동반 SIBO | 간 기능 지표(AST·ALT), 세균 과증식 관련 지표, 염증 지표(TLR2·TLR4)[^34] |
+| 간질환 동반 SIBO | 간 기능 지표(AST·ALT), 세균 과증식 관련 지표, 염증 지표(TLR2·TLR4)[^34](철회된 논문으로 유효 근거가 아니다) |
 | ALS | K-ALSFRS-R 점수[^25] |
 | 수술 후 부종 | 둘레 측정, 통증 VAS[^26] |
 
@@ -180,7 +180,7 @@
 창출은 조습(燥濕)·발한(發汗)·거풍(祛風)·건위(健胃) 작용이 강하고, 백출은 보기건비(補氣健脾)에 더 특화되어 있습니다. 문헌학적으로도 두 본초는 원래 '朮(출)'로 통칭되다가 후대로 갈수록 기원 식물이 분화되어 별도 약재로 정착한 것으로 분석됩니다.[^1] 임상적으로 창출은 습조중초(濕阻中焦)·수습(水濕) 정체·비만·대사 질환에, 백출은 비위기허(脾胃氣虛)로 인한 소화불량·권태감·자한(自汗)에 주로 활용됩니다.[^2]
 
 **Q2. 창출이 들어간 대표 처방에는 무엇이 있나요?**
-평위산(창출·후박·진피·감초)이 가장 대표적인 조습화탁 기본방이며, 여기에 목향·사인을 더한 향사평위산, 황련을 더한 향련평위산 등으로 가감됩니다.[^33][^34][^35] 하초습열에는 창출·황백으로 구성된 이묘산이 활용됩니다. 대사 조절 목적으로는 복방창출탕이 대표적입니다.[^21]
+평위산(창출·후박·진피·감초)이 가장 대표적인 조습화탁 기본방이며, 여기에 목향·사인을 더한 향사평위산, 황련을 더한 향련평위산 등으로 가감됩니다.[^33][^34](철회된 논문으로 유효 근거가 아니다)[^35] 하초습열에는 창출·황백으로 구성된 이묘산이 활용됩니다. 대사 조절 목적으로는 복방창출탕이 대표적입니다.[^21]
 
 **Q3. 창출이 소화기 질환에 효과가 있다는 근거가 있나요?**
 평위산·향사평위산은 국내 한의 의료기관에서 기능성 소화불량 치료에 가장 많이 처방되는 한약이며,[^33] 무작위 대조 시험에서 향사평위산이 기능성 소화불량 환자의 삶의 질을 유의하게 개선하는 근거가 확인되었습니다.[^35] 다만 반응률에는 개인차가 있어 변증에 따른 처방 선택이 중요하며, 이를 표준화하기 위한 다기관 임상시험과 머신러닝 기반 예측 연구가 진행되고 있습니다.[^31][^39][^41]
@@ -239,7 +239,7 @@
 [^31]: 기능성 소화불량한의 변증 표준화를 위한 이중탕, 평위산 및 시호소간탕 투여 : 무작위 배정, 평가자 눈가림, 3군 비교, 평행 설계, 공개, 다기관 임상시험 프로토콜. 조민진 외. _대한한방내과학회지_. 2022-12. [기타]
 [^32]: 표준 치료를 받고 있는 제2형 당뇨병 환자에서 혈당강하제와 평위산 및 향사평위산 병용 투여가 혈당에 미치는 영향 및 안정성 연구. 정우녕 외. _대한한방내과학회지_. 2023-09. [기타]
 [^33]: Herbal Medicine Prescriptions for Functional Dyspepsia: A Nationwide Population-Based Study in Korea. Boram Lee 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-01-29. [관찰연구] [DOI 10.1155/2022/3306420](https://doi.org/10.1155/2022/3306420) — 한국의 한의 의료기관에서 기능성 소화불량(FD) 치료를 위해 가장 많이 처방되는 한약은 평위산(平胃散)과 향사평위산(香砂平胃散)이며, 여성과 고령층에서 사용 빈도가 높았다.
-[^34]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients with Liver Cirrhosis and Positive Small Intestinal Bacterial Overgrowth.. Su S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 100명] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — 간경변증을 동반한 소장 세균 과증식(SIBO) 환자에게 향련평위산을 양약(글루타치온, 레보플록사신)과 병용 투여했을 때, 양약 단독 투여보다 간 기능 지표 개선, 세균 과증식 억제 및 염증 지표(TLR2, TLR4) 감소 효과가 더 뛰어났다.
+[^34]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients with Liver Cirrhosis and Positive Small Intestinal Bacterial Overgrowth.. Su S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 100명, 철회됨] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — **철회(Retraction Notice: [PMID 38125141](https://pubmed.ncbi.nlm.nih.gov/38125141/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 간경변증을 동반한 소장 세균 과증식(SIBO) 환자에게 향련평위산을 양약(글루타치온, 레보플록사신)과 병용 투여했을 때, 양약 단독 투여보다 간 기능 지표 개선, 세균 과증식 억제 및 염증 지표(TLR2, TLR4) 감소 효과가 더 뛰어났다.
 [^35]: A traditional herbal formula, Hyangsa-Pyeongwi san (HPS), improves quality of life (QoL) of the patient with functional dyspepsia (FD): randomized double-blinded controlled trial.. Kim JB 외. _Journal of ethnopharmacology_. 2014. [임상시험, 170명] [DOI 10.1016/j.jep.2013.10.033](https://doi.org/10.1016/j.jep.2013.10.033) [PMID 24239600](https://pubmed.ncbi.nlm.nih.gov/24239600/) — 향사평위산은 기능성 소화불량 환자의 삶의 질(QoL)을 유의하게 개선하며, 특히 식사/음용 방해 정도와 활력, 역할 수행 능력을 향상시키는 효과가 있다.
 [^36]: Integrated Chinese Herbal Medicine and Western Medicine on the Survival in Patients with Colorectal Cancer: A Retrospective Study of Medical Records.. Yeh MH 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [관찰연구, 535명] [DOI 10.1155/2020/4561040](https://doi.org/10.1155/2020/4561040) [PMID 32089722](https://pubmed.ncbi.nlm.nih.gov/32089722/) — 대장암 환자에게 양방 치료와 한약을 병용 투여하는 것이 단독 양방 치료보다 생존율을 유의하게 향상시킬 수 있음을 시사한다.
 [^37]: Traditional Chinese medicine modulates hypothalamic neuropeptides for appetite regulation: A comprehensive review.. Wang Y 외. _Bioscience trends_. 2025-07-04. [문헌 고찰] [DOI 10.5582/bst.2025.01087](https://doi.org/10.5582/bst.2025.01087) [PMID 40518285](https://pubmed.ncbi.nlm.nih.gov/40518285/) — 중의학적 중재가 시상하부의 AgRP/NPY 및 POMC/CART 신경펩타이드 경로와 렙틴 신호를 조절하여 식욕을 억제하고 비만을 개선할 수 있음을 시사한다.

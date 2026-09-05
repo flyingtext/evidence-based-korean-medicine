@@ -608,7 +608,7 @@
 
 간담습열형(肝膽濕熱型) 만성 담낭염 치료에 효과적인 상용 중의약을 정리한 체계적 고찰[^100], 담낭염에 대한 한약 치료 효과를 평가한 체계적 고찰[^101]은 만성·경증 담낭염에서 한약 치료의 근거를 정리한다.
 
-만성 담낭염을 동반한 담낭결석증 환자에서 복강경 담낭절제술의 치료 효과 및 수술 후 삶의 질을 평가한 임상시험[^102], 담낭 질환 환자에서 식이 섭취와 복강경 담낭절제술 후 증상의 관계를 조사한 관찰연구[^103]는 수술 전후 관리에서 식이·생활습관 지도가 중요함을 보여준다.
+만성 담낭염을 동반한 담낭결석증 환자에서 복강경 담낭절제술의 치료 효과 및 수술 후 삶의 질을 평가한 임상시험[^102](철회된 논문으로 유효 근거가 아니다), 담낭 질환 환자에서 식이 섭취와 복강경 담낭절제술 후 증상의 관계를 조사한 관찰연구[^103]는 수술 전후 관리에서 식이·생활습관 지도가 중요함을 보여준다.
 
 급성 담도계 감염을 내시경 담즙 배액술과 한약을 병용해 치료한 임상시험[^104]은 표준 치료(배액술)와 한의학적 개입을 병용하는 통합적 접근의 사례를 제공한다.
 
@@ -1015,7 +1015,7 @@
 [^99]: Traditional herbal medicine therapy of gallbladder ascariasis: a case report. _Journal of Medical Case Reports_. 2021-01-30. [증례 보고] [DOI 10.1186/s13256-020-02571-x](https://doi.org/10.1186/s13256-020-02571-x) — 담낭 회충증(gallbladder ascariasis)을 전통 한약으로 치료한 증례 보고.
 [^100]: Effective Common Chinese Herbal Medicines Used in Treating Chronic Cholecystitis with Liver-Gallbladder Dampness-Heat Syndrome. _World Journal of Traditional Chinese Medicine_. 2023-01. [체계적 고찰] [DOI 10.4103/2311-8571.364414](https://doi.org/10.4103/2311-8571.364414) — 간담습열형(肝膽濕熱型) 만성 담낭염 치료에 효과적인 상용 중의약을 정리한 체계적 고찰.
 [^101]: Treatment of cholecystitis with Chinese herbal medicines: a systematic review of the literature. _World journal of gastroenterology_. 2012-04-14. [체계적 고찰] [DOI 10.3748/wjg.v18.i14.1689](https://doi.org/10.3748/wjg.v18.i14.1689) [PMID 22529700](https://pubmed.ncbi.nlm.nih.gov/22529700/) — 담낭염에 대한 한약 치료 효과를 평가한 체계적 고찰.
-[^102]: Therapeutic Effect of Laparoscopic Cholecystectomy on Patients with Cholecystolithiasis Complicated with Chronic Cholecystitis and Postoperative Quality of Life. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험] [DOI 10.1155/2022/6813756](https://doi.org/10.1155/2022/6813756) [PMID 35911139](https://pubmed.ncbi.nlm.nih.gov/35911139/) — 만성 담낭염을 동반한 담낭결석증 환자에서 복강경 담낭절제술의 치료 효과를 평가한 임상시험.
+[^102]: Therapeutic Effect of Laparoscopic Cholecystectomy on Patients with Cholecystolithiasis Complicated with Chronic Cholecystitis and Postoperative Quality of Life. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/6813756](https://doi.org/10.1155/2022/6813756) [PMID 35911139](https://pubmed.ncbi.nlm.nih.gov/35911139/) — **철회(Retraction Notice: [PMID 37387859](https://pubmed.ncbi.nlm.nih.gov/37387859/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 만성 담낭염을 동반한 담낭결석증 환자에서 복강경 담낭절제술의 치료 효과를 평가한 임상시험.
 [^103]: Association between dietary intake and postlaparoscopic cholecystectomic symptoms in patients with gallbladder disease. _The Korean Journal of Internal Medicine_. 2018-07. [관찰연구] [DOI 10.3904/kjim.2016.223](https://doi.org/10.3904/kjim.2016.223) — 담낭 질환 환자에서 식이 섭취와 복강경 담낭절제술 후 증상의 관계를 조사한 관찰연구.
 [^104]: [Clinical study on treatment of acute biliary tract infection with biliary drainage via endoscope combined with Chinese drug medication]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-05. [임상시험] [PMID 17650792](https://pubmed.ncbi.nlm.nih.gov/17650792/) — 급성 담도계 감염을 내시경 담즙 배액술과 한약을 병용해 치료한 임상시험.
 [^105]: The Treatment of Cholecystitis and Cholelithiasis by Tibetan Medicine. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [문헌 고찰] [DOI 10.1155/2021/9502609](https://doi.org/10.1155/2021/9502609) [PMID 34630620](https://pubmed.ncbi.nlm.nih.gov/34630620/) — 티벳 전통의학에 의한 담낭염·담석증 치료를 정리한 문헌 고찰.

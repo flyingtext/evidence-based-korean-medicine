@@ -163,7 +163,7 @@ LDH 한약 치료의 근거 축적을 위해 표준화된 핵심 결과 지표 �
 
 ### 16. 강직성 척추염군
 
-독활기생탕은 강직성 척추염(AS)의 통증·염증 지표(ESR, CRP) 개선에 활용되어 왔다[^21][^17]. AS에 특화된 메타분석에서 독활기생탕의 임상적 근거와 잠재적 기전이 정리되었다[^17]. 화담축어해독탕(化痰逐瘀解毒湯) 병용 임상관찰에서도 100명 규모에서 통증·염증 지표 개선이 보고되었다[^21].
+독활기생탕은 강직성 척추염(AS)의 통증·염증 지표(ESR, CRP) 개선에 활용되어 왔다[^21][^17](철회된 논문으로 유효 근거가 아니다). AS에 특화된 메타분석에서 독활기생탕의 임상적 근거와 잠재적 기전이 정리되었다[^17](철회된 논문으로 유효 근거가 아니다). 화담축어해독탕(化痰逐瘀解毒湯) 병용 임상관찰에서도 100명 규모에서 통증·염증 지표 개선이 보고되었다[^21].
 
 AS 영역의 한약 전반에 대한 근거로는, 양화탕(陽和湯)의 체계적 고찰 프로토콜[^94]과 한약+양약 병용의 체계적 고찰 프로토콜[^95]이 있으며, AS 환자의 장내 미생물 조성 변화와 전통 한약 치료 효과를 분석한 메타게놈 연구도 있다[^93]. AS 관리의 대안 요법 전반을 정리한 문헌고찰은 뜸과 한약이 염증·골 형성 이상 조절의 유망한 대안이 될 수 있다고 제시하며[^96], 침 치료를 포함한 비전통 요법의 효과는 아직 데이터상 충분히 입증되지 않았다는 신중한 평가도 있다[^92].
 
@@ -281,7 +281,7 @@ AS 영역의 한약 전반에 대한 근거로는, 양화탕(陽和湯)의 체�
 
 **Q4. 류마티스 관절염이나 강직성 척추염에도 쓸 수 있나요?**
 
-독활기생탕은 류마티스 관절염과 강직성 척추염의 변증 치료에서 대표 처방으로 제시되며, 항류마티스제(DMARDs)와 병용했을 때의 유효성을 평가하는 연구가 진행되고 있습니다[^11][^17][^21]. 다만 이 영역의 근거는 방법론적 질이 낮은 연구가 많으므로, 표준 치료(DMARDs·생물학적 제제)를 대체하지 않고 반드시 병용 보조로 적용해야 합니다[^61].
+독활기생탕은 류마티스 관절염과 강직성 척추염의 변증 치료에서 대표 처방으로 제시되며, 항류마티스제(DMARDs)와 병용했을 때의 유효성을 평가하는 연구가 진행되고 있습니다[^11][^17](철회된 논문으로 유효 근거가 아니다)[^21]. 다만 이 영역의 근거는 방법론적 질이 낮은 연구가 많으므로, 표준 치료(DMARDs·생물학적 제제)를 대체하지 않고 반드시 병용 보조로 적용해야 합니다[^61].
 
 **Q5. 폐경 후 골다공증에도 효과가 있나요?**
 
@@ -319,7 +319,7 @@ AS 영역의 한약 전반에 대한 근거로는, 양화탕(陽和湯)의 체�
 [^14]: Vascular response of Raynaud's phenomenon to nifedipine or herbal medication (duhuo-tisheng tang with danggui-sini tang): a preliminary study. Wu YJ 외. _Chang Gung medical journal_. 2008. [임상시험, 47명] [PMID 19097597](https://pubmed.ncbi.nlm.nih.gov/19097597/) — 니페디핀은 레이노 현상의 VAS·PGA·혈류량을 개선했으나 독활기생탕+당귀사역탕 병용은 유의한 개선을 보이지 않음. 급성 혈관 반응에는 표준 약물이 우월.
 [^15]: Efficacy and Safety of Modified Duhuo Jisheng Decoction in the Treatment of Lumbar Disc Herniation: A Systematic Review and Meta-Analysis. Zhencheng Xiong 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석] [DOI 10.1155/2020/2381462](https://doi.org/10.1155/2020/2381462) — 개작 독활기생탕이 요추 추간판 탈출증의 통증·기능 지표를 유의하게 개선.
 [^16]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Systematic Review and Meta‐Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 냉습조체형 무릎 골관절염에서 독활기생탕의 증상 개선 효과 확인.
-[^17]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanism. Wang Y 외. _Evidence-based complementary and alternative medicine_. 2022. [메타분석] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — 독활기생탕이 강직성 척추염의 임상 증상 개선에 유효할 가능성과 잠재 기전 정리.
+[^17]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanism. Wang Y 외. _Evidence-based complementary and alternative medicine_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 독활기생탕이 강직성 척추염의 임상 증상 개선에 유효할 가능성과 잠재 기전 정리.
 [^18]: Efficacy and safety of Duhuo Jisheng Decoction add-on bisphosphonate medications in patients with osteoporosis. Huang CY 외. _Journal of ethnopharmacology_. 2022-01-30. [메타분석] [DOI 10.1016/j.jep.2021.114732](https://doi.org/10.1016/j.jep.2021.114732) [PMID 34637967](https://pubmed.ncbi.nlm.nih.gov/34637967/) — 독활기생탕+비스포스포네이트 병용이 골밀도·골대사 지표 개선에 부가 효과.
 [^19]: A review of Duhuo Jisheng decoction mechanisms in intervertebral disc degeneration in vitro and animal studies. Zhou D 외. _Journal of orthopaedic surgery and research_. 2023-06-16. [문헌 고찰] [DOI 10.1186/s13018-023-03869-4](https://doi.org/10.1186/s13018-023-03869-4) [PMID 37322524](https://pubmed.ncbi.nlm.nih.gov/37322524/) — 독활기생탕이 추간판 퇴행성 변화의 세포외기질 분해·염증 경로에 작용할 가능성(동물·시험관 자료 포함이므로 인체 근거는 제한적).
 [^20]: Efficacy and Safety of Duhuo Jisheng Decoction for Postmenopausal Osteoporosis: A Systematic Review and Meta-Analysis. Jinyu Li 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석, 650명] [DOI 10.1155/2020/6957825](https://doi.org/10.1155/2020/6957825) — 독활기생탕이 폐경 후 골다공증의 요추 골밀도·에스트라디올 수치를 유의하게 개선.

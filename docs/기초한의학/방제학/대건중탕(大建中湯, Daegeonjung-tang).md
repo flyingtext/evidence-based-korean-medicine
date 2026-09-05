@@ -8,7 +8,7 @@
 
 대건중탕(大建中湯)은 건강(乾薑, Zingiberis Rhizoma)·인삼(人蔘, Panax ginseng)·산초(山椒, Zanthoxylum)·교이(膠飴, maltose)로 구성된 방제로, 『금궤요략(金匱要略)』 <복만한산숙식병맥증병치(腹滿寒疝宿食病脈證幷治)> 편에 기원을 두는 고전 처방이다.[교과서적 근거] 중초(中焦)의 한(寒)을 온산(溫散)하고 중기(中氣)를 대보(大補)하여, 중초한증(中焦寒證)으로 인한 복통·복부 팽만·장 마비를 다스리는 대표적인 건중(建中) 계열 방제이다.
 
-일본에서는 다이켄추토(Daikenchuto, TJ-100/TU-100)로 캄포 건약에 보급되어 수술 후 장 기능 회복·장 마비 예방·변비·복부 팽만 등에 널리 사용되며, 임상 근거는 수술 후 장 기능 회복·장 마비 예방, 기능성 변비·복부 팽만, 간·췌장 수술 후 회복, 방사선 유발 장염, 소아 복부 팽만 등에서 풍부하게 축적되어 있다[^7][^58][^71].
+일본에서는 다이켄추토(Daikenchuto, TJ-100/TU-100)로 캄포 건약에 보급되어 수술 후 장 기능 회복·장 마비 예방·변비·복부 팽만 등에 널리 사용되며, 임상 근거는 수술 후 장 기능 회복·장 마비 예방, 기능성 변비·복부 팽만, 간·췌장 수술 후 회복, 방사선 유발 장염, 소아 복부 팽만 등에서 풍부하게 축적되어 있다[^7][^58][^71](철회된 논문으로 유효 근거가 아니다).
 
 ### 2. 구성 — 군신좌사(君臣佐使)
 
@@ -126,7 +126,7 @@
 
 대장암 수술 후 장 기능 장애 관리를 정리한 체계적 고찰에서 세로토닌 수용체 길항제와 함께 대건중탕이 유효한 중재로 포함되었으나, 근거 수준이 낮고 편향 위험이 높아 임상 지침으로 삼기에는 증거가 부족하다는 한계가 지적되었다[^19]. 대건중탕이 유착성 소장 폐쇄 환자에서 장관 감압 후 회복에 도움이 되는 것이 성향 점수 분석에서 확인되었다(관찰연구)[^20]. 복강경 보조 결장 절제술 후 마비성 장폐색 완화와 대장 운동성 촉진 효과도 보고되었다(임상시험)[^52].
 
-가장 엄격한 근거 수준인 코크란 체계적 고찰에서는, 정규 복부 수술 후 장폐색 감소를 위한 대건중탕 사용에 대해 현재까지의 문헌만으로는 효과가 불분명하다고 결론지었다. 첫 방귀·배변 시간 단축 가능성이 시사되었으나 증거의 질이 낮았다(체계적 고찰)[^71]. **이는 대건중탕이 수술 후 장 기능 회복에 유용한 보조 요법으로 널리 활용되고 있으나, 최고 수준의 근거로 확증된 것은 아니라는 근거 한계를 보여준다.**
+가장 엄격한 근거 수준인 코크란 체계적 고찰에서는, 정규 복부 수술 후 장폐색 감소를 위한 대건중탕 사용에 대해 현재까지의 문헌만으로는 효과가 불분명하다고 결론지었다. 첫 방귀·배변 시간 단축 가능성이 시사되었으나 증거의 질이 낮았다(체계적 고찰)[^71](철회된 논문으로 유효 근거가 아니다). **이는 대건중탕이 수술 후 장 기능 회복에 유용한 보조 요법으로 널리 활용되고 있으나, 최고 수준의 근거로 확증된 것은 아니라는 근거 한계를 보여준다.**
 
 ### 2. 기능성 변비·복부 팽만
 
@@ -187,7 +187,7 @@
 | 온열(溫熱) 성질 | 건강·산초의 강한 온열 성질로 열증·음허화왕 변증에서는 신중히 적용 | [교과서적 근거] |
 | 항염증 효과 제한 | 췌십이지장절제술 후 복막 IL-9·IFN-γ 수치에 유의한 영향 없음 | [^45] |
 | 이식 후 효과 불일치 | 생체 간이식 후 14일 투여에서 복부 팽만·감염 예방 유의 효과 없음 | [^46] |
-| 코크란 수준 근거 불확실성 | 정규 복부 수술 후 장폐색 감소 효과가 문헌상 불분명 | [^71] |
+| 코크란 수준 근거 불확실성 | 정규 복부 수술 후 장폐색 감소 효과가 문헌상 불분명 | [^71](철회된 논문으로 유효 근거가 아니다) |
 | 캄포 전반 이상반응 | RCT 데이터 기반 이상반응 발생률은 전반적으로 낮으나 특정 처방(황금 함유 등)은 주의 필요 | [^66] |
 | 기계적 장 폐쇄·복막염 감별 | 수술 후 장 마비·장 폐쇄가 의심되는 경우 응급 상황을 먼저 감별 | [교과서적 근거] |
 
@@ -240,7 +240,7 @@
 
 **Q2. 수술 후 장 마비 예방에 대건중탕을 써도 안전한가?**
 
-대건중탕(TJ-100)이 췌십이지장절제술 후 장 운동 회복을 촉진하고 마비성 장 폐쇄를 예방하는 효과가 다기관 무작위 위약 대조 임상시험에서 확인되었으며[^7], 여러 메타분석에서도 유의한 개선이 보고되었다[^14][^15][^58]. 다만 코크란 체계적 고찰에서는 근거의 질이 낮아 효과가 불분명하다고 결론지었으므로[^71], 기계적 장 폐쇄·복막염 등 응급 상황을 먼저 감별한 뒤 보조 요법으로 적용한다.[교과서적 근거]
+대건중탕(TJ-100)이 췌십이지장절제술 후 장 운동 회복을 촉진하고 마비성 장 폐쇄를 예방하는 효과가 다기관 무작위 위약 대조 임상시험에서 확인되었으며[^7], 여러 메타분석에서도 유의한 개선이 보고되었다[^14][^15][^58]. 다만 코크란 체계적 고찰에서는 근거의 질이 낮아 효과가 불분명하다고 결론지었으므로[^71](철회된 논문으로 유효 근거가 아니다), 기계적 장 폐쇄·복막염 등 응급 상황을 먼저 감별한 뒤 보조 요법으로 적용한다.[교과서적 근거]
 
 **Q3. 기능성 변비에도 대건중탕이 도움이 되나?**
 
@@ -337,7 +337,7 @@
 [^68]: Population pharmacokinetic analysis of daikenchuto in Japanese and US health volunteers. Munekage M 외. _Drug Metab Dispos_. 2013-06. [실험연구] [DOI 10.1124/dmd.112.050112](https://doi.org/10.1124/dmd.112.050112) [PMID 23545807](https://pubmed.ncbi.nlm.nih.gov/23545807/) — BMI·연령·체중이 청소율·분포용적에 영향.
 [^69]: Daikenchuto for the maintenance of surgically induced remission in patients with Crohn's disease: retrospective analysis of 258 patients. Kanazawa A 외. _Surg Today_. 2014-08. [관찰연구, 258명] [DOI 10.1007/s00595-013-0747-6](https://doi.org/10.1007/s00595-013-0747-6) [PMID 24129965](https://pubmed.ncbi.nlm.nih.gov/24129965/) — 재수술률 감소, 5-ASA 유사 예방 효과.
 [^70]: [Kampo medicine for the treatment of adverse effects caused by anticancer drugs]. Kono T 외. _Nihon Geka Gakkai Zasshi_. 2013-09. [문헌 고찰] [PMID 24167978](https://pubmed.ncbi.nlm.nih.gov/24167978/) — 항암제 유발 부작용에 대한 한방 처방 검토.
-[^71]: Daikenchuto for reducing postoperative ileus in patients undergoing elective abdominal surgery. Hoshino N 외. _Cochrane Database Syst Rev_. 2018-04-05. [체계적 고찰] [DOI 10.1002/14651858.CD012271.pub2](https://doi.org/10.1002/14651858.CD012271.pub2) [PMID 29619778](https://pubmed.ncbi.nlm.nih.gov/29619778/) — 코크란 수준에서 효과 불분명, 증거의 질 낮음.
+[^71]: Daikenchuto for reducing postoperative ileus in patients undergoing elective abdominal surgery. Hoshino N 외. _Cochrane Database Syst Rev_. 2018-04-05. [체계적 고찰, 철회됨] [DOI 10.1002/14651858.CD012271.pub2](https://doi.org/10.1002/14651858.CD012271.pub2) [PMID 29619778](https://pubmed.ncbi.nlm.nih.gov/29619778/) — **철회(Retraction Notice: [PMID 32212387](https://pubmed.ncbi.nlm.nih.gov/32212387/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 코크란 수준에서 효과 불분명, 증거의 질 낮음.
 [^72]: Effect of Daikenchuto for Mechanically Ventilated Patients With Enteral Feeding Intolerance: Propensity Score-Matched Analysis. Ohbe H 외. _JPEN J Parenter Enteral Nutr_. 2021-11. [관찰연구] [DOI 10.1002/jpen.2076](https://doi.org/10.1002/jpen.2076) [PMID 33483948](https://pubmed.ncbi.nlm.nih.gov/33483948/) — 경장영양 투여일수 유의 증가.
 [^73]: Is daikenchuto effective for postoperative intestinal dysfunction after gastroenterological cancer surgery? Updated meta-analysis. Kogo H 외. _Int J Clin Oncol_. 2025-10. [메타분석] [DOI 10.1007/s10147-025-02854-7](https://doi.org/10.1007/s10147-025-02854-7) [PMID 40820043](https://pubmed.ncbi.nlm.nih.gov/40820043/) — 효과 크기 완만(modest), 대장항문 외 수술에서 더 뚜렷.
 [^74]: Improving the Quality of Postgraduate Education in Traditional Japanese Kampo Medicine for Junior Residents. Takayama S 외. _Tohoku J Exp Med_. 2016-11. [관찰연구] [DOI 10.1620/tjem.240.235](https://doi.org/10.1620/tjem.240.235) [PMID 27890870](https://pubmed.ncbi.nlm.nih.gov/27890870/) — 전공의 임상에서 대건중탕·억간산 빈용, 교육 수요 확인.

@@ -88,7 +88,7 @@
 
 - 자연발생적 간경색은 응급 상황(색전원 확인·항응고·혈관 중재)이 우선이며, 한의학적 중재의 직접적 근거는 확인되지 않는다(교과서적 근거).
 - 경동맥화학색전술과 같은 계획된 치료적 간경색 시술에서는, 중의약과의 병용이 간 기능 보호·시술 후 부작용(발열·통증·오심 등 색전후증후군) 경감에 도움이 될 수 있다는 메타분석 근거가 확인되어[^6], 한의학적 중재가 **시술 전후 보조 요법** 으로서 상대적으로 명확한 근거 위치를 갖는다.
-- 경동맥화학색전술을 받는 환자에서 해결중심접근법(심리사회적 중재)이 합병증·통증·수면·삶의 질을 개선했다는 임상시험 결과는[^7], 비약물적·통합적 접근이 시술 관련 증상 관리에 유용할 수 있음을 시사하며, 한의학적 침구·정서 관리와 결합할 수 있는 접점을 제공한다.
+- 경동맥화학색전술을 받는 환자에서 해결중심접근법(심리사회적 중재)이 합병증·통증·수면·삶의 질을 개선했다는 임상시험 결과는[^7](철회된 논문으로 유효 근거가 아니다), 비약물적·통합적 접근이 시술 관련 증상 관리에 유용할 수 있음을 시사하며, 한의학적 침구·정서 관리와 결합할 수 있는 접점을 제공한다.
 
 ---
 
@@ -137,7 +137,7 @@
 ### 4-1. 치법 위계와 양방 치료와의 관계
 
 - 자연발생적 간경색의 치료는 원인(색전원 제거·항응고·혈관 중재) 교정이 근간이며, 한의학적 중재는 협착·경색 해소 자체의 근거를 갖추지 못했으므로 반드시 표준 치료와 병행하는 보조적 위치에서 적용해야 한다(교과서적 근거).
-- 계획된 치료적 경색(경동맹화학색전술)의 경우, 시술 전후 증상 관리(통증·발열·오심 등 색전후증후군)와 간 기능 보호 목적의 한의학적 병용이 상대적으로 명확한 근거 위치를 갖는다[^6][^7].
+- 계획된 치료적 경색(경동맹화학색전술)의 경우, 시술 전후 증상 관리(통증·발열·오심 등 색전후증후군)와 간 기능 보호 목적의 한의학적 병용이 상대적으로 명확한 근거 위치를 갖는다[^6][^7](철회된 논문으로 유효 근거가 아니다).
 - 치법 위계는 급성기(어혈조체형)에 활혈화어(活血化瘀)·지통(止痛), 시술 후 회복기(기체혈어형)에 소간이기(疏肝理氣)·화위지구(和胃止嘔), 만성 이행기(기허혈어형)에 익기활혈(益氣活血)을 원칙으로 하는 것이 이론적으로 타당하나, 이는 협통·적취 표제어의 확립된 치법 위계를 원용한 것이다.
 - 변증 없는 관행적 처방은 근거에 부합하지 않으며, 특히 급성 간경색이 의심되는 경우 반드시 먼저 혈관 영상 검사로 원인을 확인한 후 한의학적 병용 여부를 판단해야 한다.
 
@@ -151,7 +151,7 @@
 
 ### 4-3. 침구(鍼灸) 및 비약물적 중재
 
-- 이 질환 자체에 대한 침구 임상 연구는 확인되지 않았다. 다만 경동맥화학색전술을 받는 간세포암 환자에서 해결중심접근법(심리사회적 중재)이 합병증·통증·수면·삶의 질을 개선했다는 임상시험 결과는[^7], 시술 전후 통합적 증상 관리 접근의 유용성을 시사하며, 침구·정서 관리를 결합한 한의학적 병용 가능성을 탐색할 수 있는 근거 맥락을 제공한다.
+- 이 질환 자체에 대한 침구 임상 연구는 확인되지 않았다. 다만 경동맥화학색전술을 받는 간세포암 환자에서 해결중심접근법(심리사회적 중재)이 합병증·통증·수면·삶의 질을 개선했다는 임상시험 결과는[^7](철회된 논문으로 유효 근거가 아니다), 시술 전후 통합적 증상 관리 접근의 유용성을 시사하며, 침구·정서 관리를 결합한 한의학적 병용 가능성을 탐색할 수 있는 근거 맥락을 제공한다.
 - 취혈은 간(肝)·담(膽) 경락을 중심으로 기문(期門, LR14)·태충(太衝, LR3)·양릉천(陽陵泉, GB34)·족삼리(足三里, ST36) 등이 소간이기(疏肝理氣)·활혈지통(活血止痛) 목적으로 시술 후 증상 관리에 신중히 고려될 수 있다(교과서적 근거).
 - 간이식·시술 후 환자는 응고장애·혈소판 감소가 흔할 수 있으므로, 침 시술 전 반드시 혈액 검사 수치를 확인해야 한다(교과서적 근거).
 
@@ -195,11 +195,11 @@
 
 **③ 병태생리**: 경동맥화학색전술 등의 계획된 또는 과도한 색전에 의한 간조직 괴사[^1][^2][^10][^12][^13][^14].
 
-**④ 치료**: 표준 시술 프로토콜 준수가 근간이며, 중의약 병용이 간 기능 보호·부작용 경감에 도움이 될 수 있다는 메타분석 근거가 있다[^6][^7].
+**④ 치료**: 표준 시술 프로토콜 준수가 근간이며, 중의약 병용이 간 기능 보호·부작용 경감에 도움이 될 수 있다는 메타분석 근거가 있다[^6][^7](철회된 논문으로 유효 근거가 아니다).
 
 **⑤ 예후**: 표준화된 프로토콜 적용 시 Child A/B 간경변 환자에서도 비교적 안전하게 관리된다[^10].
 
-**⑥ 관리**: 시술 후 정기적 간 기능·영상 추적, 색전후증후군 증상 관리가 필요하다[^7].
+**⑥ 관리**: 시술 후 정기적 간 기능·영상 추적, 색전후증후군 증상 관리가 필요하다[^7](철회된 논문으로 유효 근거가 아니다).
 
 ### 5-3. 간이식 후 간동맥 혈전증에 의한 간경색군 (KCD-8: T80 계열)
 
@@ -258,7 +258,7 @@
 | 항목 | 지도 내용 | 이론적 근거 |
 |---|---|---|
 | 정서 | 스트레스·분노 조절, 간기울결 악화 요인 회피 | 「怒傷肝」(교과서적 근거) |
-| 시술 후 안정 | 경동맥화학색전술 등 시술 후 충분한 휴식 | [^7] |
+| 시술 후 안정 | 경동맥화학색전술 등 시술 후 충분한 휴식 | [^7](철회된 논문으로 유효 근거가 아니다) |
 | 식이 | 시술 후 회복기 균형 잡힌 영양 공급, 과식 회피 | 교과서적 근거 |
 | 활동 | 급성기 절대 안정, 회복기 점진적 활동 재개 | 교과서적 근거 |
 | 추적 | 정기 영상·혈액 검사 준수, 재발 증상 시 즉시 내원 | 교과서적 근거 |
@@ -313,7 +313,7 @@
 [^4]: Antiphospholipid antibody-related hepatic vasculitis in a juvenile after non-severe COVID-19: a case report and literature review. Li Q 외. _Frontiers in immunology_. 2024. [증례 보고] [DOI 10.3389/fimmu.2024.1354349](https://doi.org/10.3389/fimmu.2024.1354349) [PMID 38707895](https://pubmed.ncbi.nlm.nih.gov/38707895/) — 경증 코로나19 이후 발생한 항인지질항체 관련 간혈관염 증례로, 자가면역·혈전성 기전에 의한 간경색 유사 병태의 감별 필요성을 보여줌.
 [^5]: Coagulation of aneurysms by direct percutaneous thrombin injection. Cope C 외. _AJR. American journal of roentgenology_. 1986-08. [증례 보고] [DOI 10.2214/ajr.147.2.383](https://doi.org/10.2214/ajr.147.2.383) [PMID 3487958](https://pubmed.ncbi.nlm.nih.gov/3487958/) — 경피적 직접 트롬빈 주입을 이용한 동맥류 응고 치료 기법으로, 간동맥류 등 혈관 병변의 중재적 시술 원리를 보여줌.
 [^6]: Effect of Chinese Medicines combined with transarterial chemoembolization on primary hepatic carcinoma: A systematic review and meta-analysis. Jianyuan Xu 외. _Medicine_. 2023-06-30. [메타분석] [DOI 10.1097/md.0000000000034165](https://doi.org/10.1097/md.0000000000034165) — 중의약과 경동맥화학색전술 병용이 원발성 간암에 미치는 효과를 평가한 체계적 고찰 및 메타분석으로, 색전술 후 간 기능 보호·부작용 경감에 대한 한의학적 병용 근거.
-[^7]: Clinical Study on Effect of Solution Focused Approach on the Complications, Pain, Sleep, and Quality of Life in Patients with Hepatocellular Carcinoma Undergoing TACE. Ma C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [DOI 10.1155/2021/5068228](https://doi.org/10.1155/2021/5068228) [PMID 34567212](https://pubmed.ncbi.nlm.nih.gov/34567212/) — 경동맥화학색전술을 받는 간세포암 환자에서 해결중심접근법이 합병증·통증·수면·삶의 질에 미치는 효과를 평가한 임상시험으로, 시술 관련 증상 관리의 비약물적 접근 근거.
+[^7]: Clinical Study on Effect of Solution Focused Approach on the Complications, Pain, Sleep, and Quality of Life in Patients with Hepatocellular Carcinoma Undergoing TACE. Ma C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 철회됨] [DOI 10.1155/2021/5068228](https://doi.org/10.1155/2021/5068228) [PMID 34567212](https://pubmed.ncbi.nlm.nih.gov/34567212/) — **철회(Retraction Notice: [PMID 37388031](https://pubmed.ncbi.nlm.nih.gov/37388031/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 경동맥화학색전술을 받는 간세포암 환자에서 해결중심접근법이 합병증·통증·수면·삶의 질에 미치는 효과를 평가한 임상시험으로, 시술 관련 증상 관리의 비약물적 접근 근거.
 [^8]: Meta-analysis of transcatheter arterial chemoembolization plus radiofrequency ablation versus transcatheter arterial chemoembolization alone for hepatocellular carcinoma. Yang DJ 외. _Oncotarget_. 2017-01-10. [메타분석] [DOI 10.18632/oncotarget.13813](https://doi.org/10.18632/oncotarget.13813) [PMID 27936465](https://pubmed.ncbi.nlm.nih.gov/27936465/) — 경동맥화학색전술과 고주파소작술 병용이 단독 색전술보다 우수한지 평가한 메타분석으로, 색전술의 치료 강도와 국소 간조직 손상(경색) 범위의 관계를 시사.
 [^9]: Radiofrequency ablation for viable hepatocellular carcinoma around retained iodized oil after transcatheter arterial chemoembolization: usefulness of biplane fluoroscopy plus ultrasound guidance. Min JH 외. _Korean journal of radiology_. . [임상시험] [DOI 10.3348/kjr.2012.13.6.784](https://doi.org/10.3348/kjr.2012.13.6.784) [PMID 23118578](https://pubmed.ncbi.nlm.nih.gov/23118578/) — 경동맥화학색전술 후 잔존 요오드화 오일 주변의 생존 간세포암에 대한 고주파소작술의 유용성을 평가한 임상시험.
 [^10]: Arterial chemoembolization/embolization and early complications after hepatocellular carcinoma treatment: a safe standardized protocol in selected patients with Child class A and B cirrhosis. Pietrosi G 외. _Journal of vascular and interventional radiology : JVIR_. 2009-07. [관찰연구] [DOI 10.1016/j.jvir.2009.03.032](https://doi.org/10.1016/j.jvir.2009.03.032) [PMID 19497762](https://pubmed.ncbi.nlm.nih.gov/19497762/) — 간세포암 치료 후 동맥 화학색전술/색전술의 조기 합병증(국소 간경색 포함)을 Child A/B 간경변 환자에서 안전하게 관리하는 표준 프로토콜을 제시한 관찰연구.

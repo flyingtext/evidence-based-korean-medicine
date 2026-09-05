@@ -84,7 +84,7 @@ IL-10 유전자 프로모터 영역에는 -1082(rs1800896, A/G)·-819(rs1800871,
 
 ### 14. 본초·처방과 IL-10 조절 근거
 
-한약재·처방 수준에서도 IL-10 조절 근거가 다수 확인된다. 습식 부항(cupping therapy)이 고혈압 환자의 혈압을 낮추고 IL-10 수치를 높이는 보조적 면역조절 효과를 보였다는 소규모 임상시험[^75]은 전통 외치법(外治法)의 항염증 가능성을 보여준다. 연두청맥방(蓮豆淸脈方)이 관상동맥질환 환자에서 IL-6·엔도텔린(ET-1) 감소, 산화질소(NO) 증가를 통해 혈관내피 염증을 억제한다는 임상시험[^78], 항히스타민제와 한약(강전탕 계열) 병용이 만성 두드러기의 유효율을 높이고 혈청 IL-10·IL-8을 조절했다는 임상시험[^79]은 심혈관·피부 알레르기 영역에서 한약 병용의 사이토카인 조절 근거를 제공한다. 류마티스 관절염 영역에서는 속새(문형, horsetail) 혼합액이 TNF-α·IL-10 조절과 함께 ESR·RF 감소 등 유의한 개선을 보였다는 임상시험[^82], 신풍캡슐(新風캡슐)이 지단백 대사 이상과 관절 증상·질병 활성도를 개선했다는 임상시험[^83]과 Act1/NF-κB 경로 억제를 통해 혈어(血瘀) 상태를 개선했다는 후속 임상시험[^84], 시노메닌(sinomenine, 청풍등靑風藤 유래 성분)이 염증성 사이토카인 분비와 단핵구·대식세포 아형 조절을 통해 류마티스 관절염 진행을 억제한다는 실험연구[^85], 건비화시통락방(健脾化濕通絡方)이 PI3K/AKT 경로 억제를 통해 염증과 과응고 상태를 동시에 개선한다는 실험연구[^86], 구기자다당체(枸杞子多糖體)가 CCR9+ Th17/Treg 불균형을 교정하는 면역조절 가능성을 보였다는 실험연구[^87], 곤단이모탕(坤丹益母湯)이 miR-124를 매개로 Th17/Treg 균형과 JAK2/STAT3 신호를 조절한다는 실험연구[^90]가 확인된다. 사이레이토(柴苓湯)를 저용량 프레드니솔론과 병용하면 면역억제 효과는 강화되었으나 오히려 IL-6 상승으로 질병 활성도가 악화될 위험도 확인된 실험연구는[^81], 한약과 스테로이드의 병용이 항상 유익하지만은 않을 수 있음을 정직하게 보여주는 근거로 임상적 주의가 필요하다.
+한약재·처방 수준에서도 IL-10 조절 근거가 다수 확인된다. 습식 부항(cupping therapy)이 고혈압 환자의 혈압을 낮추고 IL-10 수치를 높이는 보조적 면역조절 효과를 보였다는 소규모 임상시험[^75]은 전통 외치법(外治法)의 항염증 가능성을 보여준다. 연두청맥방(蓮豆淸脈方)이 관상동맥질환 환자에서 IL-6·엔도텔린(ET-1) 감소, 산화질소(NO) 증가를 통해 혈관내피 염증을 억제한다는 임상시험[^78], 항히스타민제와 한약(강전탕 계열) 병용이 만성 두드러기의 유효율을 높이고 혈청 IL-10·IL-8을 조절했다는 임상시험[^79]은 심혈관·피부 알레르기 영역에서 한약 병용의 사이토카인 조절 근거를 제공한다. 류마티스 관절염 영역에서는 속새(문형, horsetail) 혼합액이 TNF-α·IL-10 조절과 함께 ESR·RF 감소 등 유의한 개선을 보였다는 임상시험[^82], 신풍캡슐(新風캡슐)이 지단백 대사 이상과 관절 증상·질병 활성도를 개선했다는 임상시험[^83]과 Act1/NF-κB 경로 억제를 통해 혈어(血瘀) 상태를 개선했다는 후속 임상시험[^84], 시노메닌(sinomenine, 청풍등靑風藤 유래 성분)이 염증성 사이토카인 분비와 단핵구·대식세포 아형 조절을 통해 류마티스 관절염 진행을 억제한다는 실험연구[^85], 건비화시통락방(健脾化濕通絡方)이 PI3K/AKT 경로 억제를 통해 염증과 과응고 상태를 동시에 개선한다는 실험연구[^86], 구기자다당체(枸杞子多糖體)가 CCR9+ Th17/Treg 불균형을 교정하는 면역조절 가능성을 보였다는 실험연구[^87], 곤단이모탕(坤丹益母湯)이 miR-124를 매개로 Th17/Treg 균형과 JAK2/STAT3 신호를 조절한다는 실험연구[^90]가 확인된다. 시령탕(柴苓湯, 사이레이토)을 저용량 프레드니솔론과 병용하면 면역억제 효과는 강화되었으나 오히려 IL-6 상승으로 질병 활성도가 악화될 위험도 확인된 실험연구는[^81], 한약과 스테로이드의 병용이 항상 유익하지만은 않을 수 있음을 정직하게 보여주는 근거로 임상적 주의가 필요하다.
 
 **변증 층화의 원칙**: 위 본초·처방 근거들은 특정 변증·질환 맥락에서 확인된 것으로, 변증 없이 관행적으로 동일 처방을 적용하는 것은 근거에 부합하지 않는다는 원칙을 다시 강조한다.
 
@@ -196,7 +196,7 @@ IL-10/IL10RA 결핍에 의한 영아기 발병 IBD는 일반적인 면역억제�
 
 **변증 층화의 원칙**: 아래 치법·처방은 변증을 전제로 한 임상 틀이며, 변증 없이 관행적으로 적용해서는 안 된다는 점을 다시 강조한다.
 
-한약 치료와 관련해 속새 혼합액[^82], 신풍캡슐(지단백 대사 개선[^83], Act1/NF-κB 경로 억제를 통한 혈어 개선[^84]), 시노메닌(단핵구·대식세포 아형 조절[^85]), 건비화시통락방(PI3K/AKT 경로 억제[^86]), 구기자다당체(CCR9+ Th17/Treg 교정[^87]), 곤단이모탕(miR-124-Th17/Treg-JAK2/STAT3 축 조절[^90])이 각각 서로 다른 분자 기전을 통해 류마티스 관절염의 염증을 완화하는 근거를 축적하고 있다. 다만 사이레이토와 프레드니솔론 병용이 면역억제 효과는 강화했으나 IL-6 상승으로 질병 활성도를 악화시킬 위험도 확인되었다는 실험연구는[^81], 한약과 스테로이드 병용 시 반드시 사이토카인 반응을 포함한 임상 경과를 면밀히 관찰해야 함을 시사하는 안전성 관련 근거다. 침구 치료와 관련해서는 전침이 단순침보다 IL-4·IL-10 증가 효과가 더 우수하다는 근거[^35]가 확인된다.
+한약 치료와 관련해 속새 혼합액[^82], 신풍캡슐(지단백 대사 개선[^83], Act1/NF-κB 경로 억제를 통한 혈어 개선[^84]), 시노메닌(단핵구·대식세포 아형 조절[^85]), 건비화시통락방(PI3K/AKT 경로 억제[^86]), 구기자다당체(CCR9+ Th17/Treg 교정[^87]), 곤단이모탕(miR-124-Th17/Treg-JAK2/STAT3 축 조절[^90])이 각각 서로 다른 분자 기전을 통해 류마티스 관절염의 염증을 완화하는 근거를 축적하고 있다. 다만 시령탕과 프레드니솔론 병용이 면역억제 효과는 강화했으나 IL-6 상승으로 질병 활성도를 악화시킬 위험도 확인되었다는 실험연구는[^81], 한약과 스테로이드 병용 시 반드시 사이토카인 반응을 포함한 임상 경과를 면밀히 관찰해야 함을 시사하는 안전성 관련 근거다. 침구 치료와 관련해서는 전침이 단순침보다 IL-4·IL-10 증가 효과가 더 우수하다는 근거[^35]가 확인된다.
 
 #### 18-5. 예후
 
@@ -346,7 +346,7 @@ IL-10 관련 이상이 의심되는 임상 상황의 감별진단표는 다음�
 | 위험 | 내용 | 참고 |
 |---|---|---|
 | 단일유전자 IL-10 결핍 IBD | 근본 치료(조혈모세포이식) 대체 불가, 한약·침구로 교정 불가 | [^91][^23] |
-| 사이레이토+스테로이드 병용 | IL-6 상승으로 류마티스 관절염 질병활성도 악화 위험 | [^81] |
+| 시령탕(柴苓湯)+스테로이드 병용 | IL-6 상승으로 류마티스 관절염 질병활성도 악화 위험 | [^81] |
 | 패혈증·중증감염 환자 | 표준 항생제·중환자 치료 대체 불가, 보조요법으로만 병용 | [^27][^67] |
 | 결핵·IRIS 환자 | 표준 항결핵·항레트로바이러스 치료 대체 불가 | [^67] |
 | 종양 환자의 IL-10 조절 시도 | 면역항암제·표준 항암치료 대체 불가 | [^24][^13] |
@@ -405,7 +405,7 @@ IL-10 관련 이상이 의심되는 임상 상황의 감별진단표는 다음�
 
 **Q5. 류마티스 관절염 환자에게 한약과 스테로이드를 함께 써도 되는가?**
 
-반드시 전문의 관리 하에서만 고려해야 한다. 사이레이토와 프레드니솔론 병용이 면역억제 효과는 강화했으나 오히려 IL-6 상승으로 질병 활성도가 악화될 위험도 확인되었다[^81]. 한약과 스테로이드의 병용은 예상치 못한 상호작용이 있을 수 있으므로, 반드시 류마티스내과 전문의와 상의하여 결정해야 한다.
+반드시 전문의 관리 하에서만 고려해야 한다. 시령탕과 프레드니솔론 병용이 면역억제 효과는 강화했으나 오히려 IL-6 상승으로 질병 활성도가 악화될 위험도 확인되었다[^81]. 한약과 스테로이드의 병용은 예상치 못한 상호작용이 있을 수 있으므로, 반드시 류마티스내과 전문의와 상의하여 결정해야 한다.
 
 **Q6. 암 환자에게 침 치료가 IL-10에 영향을 준다는데, 이것이 항암 효과가 있다는 뜻인가?**
 
@@ -475,7 +475,7 @@ IL-10 관련 이상이 의심되는 임상 상황의 감별진단표는 다음�
 [^48]: [Effects of acupuncture on serum IL-4, IL-6 and IL-10 in patients with allergic rhinitis]. Li Y 외. _Zhen ci yan jiu = Acupuncture research_. 2022-08-25. [임상시험, 80명] [DOI 10.13702/j.1000-0607.20211229](https://doi.org/10.13702/j.1000-0607.20211229) [PMID 36036106](https://pubmed.ncbi.nlm.nih.gov/36036106/) — 알레르기비염에서 비강 침이 일반 침보다 증상·삶의질 개선에 더 우수하며 혈청 IL-4·IL-6를 낮춤.
 [^49]: [Modified painless wheat-grain blistering moxibustion for allergic rhinitis of lung deficiency and cold attacking: a randomized controlled trial]. Zhang Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-09-12. [임상시험, 98명] [DOI 10.13703/j.0255-2930.20231107-0005](https://doi.org/10.13703/j.0255-2930.20231107-0005) [PMID 39318288](https://pubmed.ncbi.nlm.nih.gov/39318288/) — 폐허감한형 알레르기비염에서 개량 화농구 병용이 재발률을 낮추고 혈청 IgE·IL-10 조절과 연관됨.
 [^50]: Acupuncture Can Regulate the Distribution of Lymphocyte Subsets and the Levels of Inflammatory Cytokines in Patients With Mild to Moderate Vascular Dementia. Zhi H 외. _Frontiers in aging neuroscience_. 2021. [임상시험, 60명] [DOI 10.3389/fnagi.2021.747673](https://doi.org/10.3389/fnagi.2021.747673) [PMID 34912208](https://pubmed.ncbi.nlm.nih.gov/34912208/) — 경증~중등도 혈관성치매 환자에서 삼초 침치료가 Treg 비율 증가·TNF-α 감소로 말초면역을 조절함.
-[^51]: Effects of Acupuncture and Moxibustion Combined with Needle-Knife on Pain and Lumbar Function in Patients with Lumbar Disc Herniation. Peng G 외. _Journal of healthcare engineering_. 2022. [관찰연구, 126명] [DOI 10.1155/2022/9185384](https://doi.org/10.1155/2022/9185384) [PMID 35432832](https://pubmed.ncbi.nlm.nih.gov/35432832/) — 요추추간판탈출증에서 침구+자침도 병행이 IL-6·IL-10·TNF-α 등 염증인자를 유의하게 감소시킴.
+[^51]: Effects of Acupuncture and Moxibustion Combined with Needle-Knife on Pain and Lumbar Function in Patients with Lumbar Disc Herniation. Peng G 외. _Journal of healthcare engineering_. 2022. [관찰연구, 126명, 철회됨] [DOI 10.1155/2022/9185384](https://doi.org/10.1155/2022/9185384) [PMID 35432832](https://pubmed.ncbi.nlm.nih.gov/35432832/) — **철회(Retraction Notice: [PMID 37829360](https://pubmed.ncbi.nlm.nih.gov/37829360/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 요추추간판탈출증에서 침구+자침도 병행이 IL-6·IL-10·TNF-α 등 염증인자를 유의하게 감소시킴.
 [^52]: Assessment of anti-inflammatory efficacy of acupuncture in patients with inflammatory bowel disease: A systematic review and meta-analysis. Yang X 외. _Complementary therapies in medicine_. 2023-06. [메타분석, 228명] [DOI 10.1016/j.ctim.2023.102946](https://doi.org/10.1016/j.ctim.2023.102946) [PMID 36997007](https://pubmed.ncbi.nlm.nih.gov/36997007/) — 염증성장질환에서 침 치료가 TNF-α·IL-8 감소, IL-10 증가의 항염증 효과를 보인 체계적 고찰·메타분석.
 [^53]: Efficacy of acupuncture at three nasal acupoints plus acupoint application for perennial allergic rhinitis: A multicenter, randomized controlled trial protocol. Shou Y 외. _Trials_. 2020-01-28. [임상시험, 120명] [DOI 10.1186/s13063-019-4039-3](https://doi.org/10.1186/s13063-019-4039-3) [PMID 31992367](https://pubmed.ncbi.nlm.nih.gov/31992367/) — 다년성 알레르기비염에서 비강혈위 침+혈위첩부 병행요법의 유효성을 평가하는 다기관 무작위대조시험 프로토콜.
 [^54]: Peripheral Blood Inflammatory Cytokine Factors Expressions are Associated with Response to Acupuncture Therapy in Postpartum Depression Patients. Xu YQ 외. _Journal of inflammation research_. 2023. [관찰연구, 121명] [DOI 10.2147/JIR.S436907](https://doi.org/10.2147/JIR.S436907) [PMID 38026248](https://pubmed.ncbi.nlm.nih.gov/38026248/) — 산후우울증에서 침 치료 반응군은 IL-6·IL-10 감소, TGF-β1 증가를 보여 염증조절이 치료반응과 연관됨을 시사.
