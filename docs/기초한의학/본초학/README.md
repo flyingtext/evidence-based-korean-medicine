@@ -8,7 +8,7 @@
 
 ### 1-1. 발산풍한약(發散風寒藥, Wind-Cold Dispersing)
 
-- 마황(麻黃, Ephedra)
+- 마황(麻黃, Ephedrae Herba)
 - 계지(桂枝, Cinnamomi Ramulus)
 - 자소엽(紫蘇葉, Perillae Folium)
 - 형개(荊芥, Schizonepetae Herba)
