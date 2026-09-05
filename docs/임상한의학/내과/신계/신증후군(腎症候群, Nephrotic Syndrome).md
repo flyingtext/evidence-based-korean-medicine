@@ -272,7 +272,7 @@
 - 수리분소(舒利分消) 처방은 스테로이드 저항성 난치성 특발성 막성신병증 환자 31명에서 24개월 시점 90.9%의 관해율을 보였다[^53].
 - 가감건비거습합락탕(비신기허형 대상)은 24시간 요단백·혈장 알부민을 유의하게 개선했다[^54].
 - 신기과립(腎氣顆粒)은 표준 요법(프레드니솔론+사이클로포스파미드)과 유사한 단백뇨 감소 효과를 보이면서도 사구체여과율 개선 효과는 오히려 더 우수했고, 표준치료군에서만 발생한 중증 이상반응(폐감염·간손상)이 관찰되지 않아 안전성이 부각되었다[^49].
-- 마황부자침저탕(麻黃附子沈著湯)은 소음태음증을 겸한 환자에서 목표 관해율(35%)을 상회하는 61.4%의 관해율을 기록했으며, 면역억제제 신규 투여군과 기존 면역억제제 무반응군 모두에서 유효했다[^51].
+- 마황부자탕합신착탕(麻黃附子湯合腎著湯)은 소음태음증을 겸한 환자에서 목표 관해율(35%)을 상회하는 61.4%의 관해율을 기록했으며, 면역억제제 신규 투여군과 기존 면역억제제 무반응군 모두에서 유효했다[^51].
 - 애구(艾灸)를 병행한 군은 기초치료 단독군보다 3·6개월 시점의 유효율, 임상증상, 고응고 상태, 신장 미세순환 개선에서 더 우수했다[^46].
 - Shen No.9 방과 청열모신과립 병용은 다제 서양약물 치료 실패 환자에서 요단백 감소·알부민과 사구체여과율 증가·CD4+/IL-2 발현 증가를 통한 세포면역 개선을 보였다[^48].
 - 오지연질캡슐(五脂軟膠囊)은 타크롤리무스 혈중농도를 유의하게 상승시켰으며(CYP3A5 대사효소 발현 여부에 따라 농도 반응 차이 확인)[^47], 이를 활용한 병용요법은 동일한 치료역(therapeutic window) 안에서 타크롤리무스 용량과 전체 약제비를 유의하게 낮춰 비용-효과적인 대안으로 제시되었다[^50].
@@ -475,7 +475,7 @@
 | 신증후군 전반 | 감염예방 코크란 SR[^2] | 온신수삽법[^4], 보양환오탕[^13], 육미지황환[^10] | 장기 예후 추적[^15] |
 | 미세변화신증후군 | — | MMF 유지요법 장기추적[^17] | T림프구 억제인자[^22], 요단백질체[^23] |
 | 국소분절사구체경화증 | 코크란 뇌공등 SR[^149], 뇌공등 네트워크메타분석[^148] | 콜롬비아분류 예후연구[^26] | COL4A3[^29]·INF2[^31] 유전자 연구 |
-| 막성신병증 | 13개 면역억제제 네트워크메타분석[^34], 익기활혈 메타분석[^35], TCM 보조요법 메타분석[^36] | 신기과립 RCT[^49], 마황부자침저탕 임상시험[^51] | 수리분소 관찰연구[^53], CAM 관련 MN SR[^43] |
+| 막성신병증 | 13개 면역억제제 네트워크메타분석[^34], 익기활혈 메타분석[^35], TCM 보조요법 메타분석[^36] | 신기과립 RCT[^49], 마황부자탕합신착탕 임상시험[^51] | 수리분소 관찰연구[^53], CAM 관련 MN SR[^43] |
 | 당뇨병성 신증 | CHM 알부민뇨 메타분석[^55], CHM 위약대조 메타분석[^56], 황기 메타분석[^57] | 기단지황환 RCT[^70], 자신통락 RCT[^86] | 대황 관찰연구[^88], 칠미출건강탕 증례[^89] |
 | 루푸스신염 | 황기 함유 중약 메타분석[^91], 통합의학 메타분석[^92] | 황기-지황 약대 임상시험[^98] | 동충하초-청호 증례군[^96] |
 | IgA신병증 | ACEI/ARB-TCM 네트워크메타분석[^100], 뇌공등 메타분석[^101] | 신녕탕 RCT[^107], 단소탕 RCT[^108] | 변증-병리 상관 관찰연구[^117][^120][^122][^123] |
@@ -760,7 +760,7 @@
 [^48]: [Clinical observation of Shen No. 9 Recipe with Qingre Moshen Granule on the treatment of idiopathic membranous nephropathy after treated by multiple Western drugs with no efficacy]. Han L 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-11. [임상시험] [PMID 22303712](https://pubmed.ncbi.nlm.nih.gov/22303712/) — Shen No (44명).
 [^49]: Efficacy and safety of traditional chinese medicine (Shenqi particle) for patients with idiopathic membranous nephropathy: a multicenter randomized controlled clinical trial. Chen Y 외. _American journal of kidney diseases : the official journal of the National Kidney Foundation_. 2013-12. [임상시험] [DOI 10.1053/j.ajkd.2013.05.005](https://doi.org/10.1053/j.ajkd.2013.05.005) [PMID 23810688](https://pubmed.ncbi.nlm.nih.gov/23810688/) — 신기과립은 표준 요법과 비교하여 단백뇨 감소 효과는 유사하였으나, eGFR(사구체 여과율) 개선 효과는 유의하게 더 좋았으며(P=0.005), 표준 요법군에서만 발생한 심각한 이상반응이 없어 더 안전한 치료 대안이 될 수 있음이 확인되었다 (190명).
 [^50]: Co-administration of Wuzhi capsules and tacrolimus in patients with idiopathic membranous nephropathy: clinical efficacy and pharmacoeconomics. Sun Z 외. _International urology and nephrology_. 2014-10. [임상시험] [DOI 10.1007/s11255-014-0801-3](https://doi.org/10.1007/s11255-014-0801-3) [PMID 25145781](https://pubmed.ncbi.nlm.nih.gov/25145781/) — 오지캡슐 병용 투여군은 대조군과 유사한 관해율(Remission)과 임상적 효능(93.3% vs 90.0%)을 보이면서도, 타크로리무스의 사용 용량과 전체 약제 비용을 유의하게 감소시켜 비용-효과성이 더 높은 것으로 나타났다 (60명).
-[^51]: Effect of Mahuang Fuzi and Shenzhuo Decoction on Idiopathic Membranous Nephropathy: A Multicenter, Nonrandomized, Single-Arm Clinical Trial. Dong Z 외. _Frontiers in pharmacology_. 2021. [임상시험] [DOI 10.3389/fphar.2021.724744](https://doi.org/10.3389/fphar.2021.724744) [PMID 34733157](https://pubmed.ncbi.nlm.nih.gov/34733157/) — 마황부자침저탕 투여 후 관해율이 61.4%로 나타나 목표치인 35%보다 유의하게 높았으며, 면역억제제 사용 여부와 관계없이 유의미한 치료 효과를 보였다 (184명).
+[^51]: Effect of Mahuang Fuzi and Shenzhuo Decoction on Idiopathic Membranous Nephropathy: A Multicenter, Nonrandomized, Single-Arm Clinical Trial. Dong Z 외. _Frontiers in pharmacology_. 2021. [임상시험] [DOI 10.3389/fphar.2021.724744](https://doi.org/10.3389/fphar.2021.724744) [PMID 34733157](https://pubmed.ncbi.nlm.nih.gov/34733157/) — 마황부자탕합신착탕 투여 후 관해율이 61.4%로 나타나 목표치인 35%보다 유의하게 높았으며, 면역억제제 사용 여부와 관계없이 유의미한 치료 효과를 보였다 (184명).
 [^52]: The Effect of Mycophenolate Mofetil versus Cyclosporine as Combination Therapy with Low Dose Corticosteroids in High-risk Patients with Idiopathic Membranous Nephropathy: a Multicenter Randomized Trial. Choi JY 외. _Journal of Korean medical science_. 2018-02-26. [임상시험] [DOI 10.3346/jkms.2018.33.e74](https://doi.org/10.3346/jkms.2018.33.e74) [PMID 29441742](https://pubmed.ncbi.nlm.nih.gov/29441742/) — 48주 후 MMF 병용군의 관해율은 76.1%, CsA 병용군은 66.7%로 두 그룹 간에 유의미한 차이가 없었으며, eGFR 및 위장관 부작용 측면에서도 유사하였다 (39명).
 [^53]: Herbal Medicine "Shulifenxiao" Formula for Nephrotic Syndrome of Refractory Idiopathic Membranous Nephropathy. _Frontiers in pharmacology_. 2021. [관찰연구] [DOI 10.3389/fphar.2021.675406](https://doi.org/10.3389/fphar.2021.675406) — 수리분소 처방이 24개월 90.9% 관해(관찰연구, 31명).
 [^54]: Effects of Modified Jianpi Qushi Heluo Decoction on Scores of TCM Syndromes, 24h Urinary Albumin, and Plasma Albumin in IMN of Spleen-Kidney Qi Deficiency. 2022. [임상시험] [DOI 10.1155/2022/6061709](https://doi.org/10.1155/2022/6061709) — 가감건비거습합락탕이 요단백·알부민 개선(임상시험, 84명).

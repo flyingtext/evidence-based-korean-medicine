@@ -49,7 +49,7 @@
 
 심양(心陽)은 혈맥을 온후(溫煦)하여 혈행이 차갑게 정체되지 않도록 하는 작용을 한다[교과서적 근거]. 심양이 부족하면 혈행이 완만해지고 사지가 차가워지며, 극단적으로는 맥이 미세(微細)해지거나 끊어질 듯한 상태(맥미욕절脈微欲絶)로 진행한다[교과서적 근거].
 
-서맥성 부정맥(bradyarrhythmia)은 심양허의 대표적 현대적 대응 병태로 이해되는데, 서맥성 부정맥 환자에게 온양(溫陽) 계열 처방인 신송양심(參松養心)을 투여한 다기관 무작위·이중맹검·위약대조 시험에서 평균 및 최저 심박수가 유의하게 증가하고 관련 증상이 개선되었으며 심각한 부작용은 보고되지 않았다[^2]. 마황부자세신탕(麻黃附子細辛湯)이 양허(陽虛) 기반의 서맥성 부정맥을 포함한 중증 상태에 유효하게 적용된 증례도 이 기전과 부합한다[^3].
+서맥성 부정맥(bradyarrhythmia)은 심양허의 대표적 현대적 대응 병태로 이해되는데, 서맥성 부정맥 환자에게 온양(溫陽) 계열 처방인 삼송양심(參松養心)을 투여한 다기관 무작위·이중맹검·위약대조 시험에서 평균 및 최저 심박수가 유의하게 증가하고 관련 증상이 개선되었으며 심각한 부작용은 보고되지 않았다[^2]. 마황부자세신탕(麻黃附子細辛湯)이 양허(陽虛) 기반의 서맥성 부정맥을 포함한 중증 상태에 유효하게 적용된 증례도 이 기전과 부합한다[^3].
 
 #### 2-3. 심주혈맥의 세 가지 필요조건
 
@@ -120,7 +120,7 @@
 
 심박변이도(Heart Rate Variability, HRV)는 심장 박동 간격의 미세한 변화를 정량화하여 자율신경 균형을 반영하는 지표다. 오소마트린(Oxymatrine)을 관상동맥성 심장질환 환자에게 투여한 임상시험에서는 심방·심실 부정맥 빈도가 유의하게 감소하였고, 특히 HRV 개선 효과가 기존 치료제인 프로파페논(Propafenone)보다 우수하였다[^15].
 
-신송양심캡슐(參松養心)을 투여한 임상시험에서도 심실성 조기수축과 심혈관계 자율신경 기능이 유의하게 개선되었으며, 특히 기음양허(氣陰兩虛)나 심락정체(心絡停滯) 패턴의 환자에서 HRV 지표의 유의미한 개선이 확인되었다[^16]. 온심과립(溫心顆粒)이 기음양허를 동반한 부정맥 환자에게 양약 대비 우수한 임상적·심전도적 유효성을 보인 체계적 고찰도 이 맥락에서 참고할 수 있다[^17].
+삼송양심캡슐(參松養心)을 투여한 임상시험에서도 심실성 조기수축과 심혈관계 자율신경 기능이 유의하게 개선되었으며, 특히 기음양허(氣陰兩虛)나 심락정체(心絡停滯) 패턴의 환자에서 HRV 지표의 유의미한 개선이 확인되었다[^16]. 온심과립(溫心顆粒)이 기음양허를 동반한 부정맥 환자에게 양약 대비 우수한 임상적·심전도적 유효성을 보인 체계적 고찰도 이 맥락에서 참고할 수 있다[^17].
 
 #### 5-3. 전통 맥상과 현대 순환기 소견의 대응표
 
@@ -278,7 +278,7 @@
 
 #### 12-2. 현대적 상관
 
-양허혈어증(陽虛血瘀證)을 동반한 불안정 협심증 환자에게 온심과립(溫心顆粒)을 투여하는 무작위 대조시험 프로토콜은 온양(溫陽)과 활혈(活血)을 병행하는 치법의 근거를 마련하려는 시도다[^44]. 서맥성 부정맥에 대한 중의약 치료의 근거와 기전을 정리한 메타분석은 신선생맥액·신송양심캡슐·심보환·마황부자신이탕·지감초탕 등이 증상 완화에 효과가 있을 수 있음을 시사하였다[^45].
+양허혈어증(陽虛血瘀證)을 동반한 불안정 협심증 환자에게 온심과립(溫心顆粒)을 투여하는 무작위 대조시험 프로토콜은 온양(溫陽)과 활혈(活血)을 병행하는 치법의 근거를 마련하려는 시도다[^44]. 서맥성 부정맥에 대한 중의약 치료의 근거와 기전을 정리한 메타분석은 삼선생맥액·삼송양심캡슐·심보환·마황부자세신탕·자감초탕 등이 증상 완화에 효과가 있을 수 있음을 시사하였다[^45].
 
 양허(陽虛) 또는 한증(寒證) 양상을 보이는 관상동맥질환 환자에게 사역탕(四逆湯)을 투여한 임상시험에서는 심근 산소 소비량이 감소하고 심장 기능이 개선되었으며, 기존 이소소르비드 디니트레이트보다 심장 기능 개선 효과가 우수하였다[^46].
 
@@ -328,7 +328,7 @@
 심주혈맥 실조에 대한 치법은 병기의 방향(허·실, 한·열)에 따라 위계적으로 선택된다[교과서적 근거].
 
 1. **활혈화어(活血化瘀)** — 맥도의 통창을 회복하는 정치법. 심혈어조·어혈독증에 적용한다. 대표 방제로 혈부축어탕(血府逐瘀湯, 왕청임 계보), 단삼(丹蔘)·홍화(紅花)를 위주로 한 각종 활혈화어 중성약(단루정·소효구심환·통맥양심환 등)이 있다. 혈어에 열독(熱毒)이 겸협되면 청열해독활혈화어탕처럼 청열해독을 병행한다[^36].
-2. **온양통맥(溫陽通脈)** — 심양허·서맥성 부정맥에 적용하는 치법. 대표 방제로 사역탕(四逆湯)[^46], 마황부자세신탕[^3], 신송양심(參松養心)[^2] 계열이 있다. 부자(附子)·건강(乾薑)·계지(桂枝) 등 온리(溫裏) 본초가 군약(君藥)을 이룬다.
+2. **온양통맥(溫陽通脈)** — 심양허·서맥성 부정맥에 적용하는 치법. 대표 방제로 사역탕(四逆湯)[^46], 마황부자세신탕[^3], 삼송양심(參松養心)[^2] 계열이 있다. 부자(附子)·건강(乾薑)·계지(桂枝) 등 온리(溫裏) 본초가 군약(君藥)을 이룬다.
 3. **익기양혈(益氣養血)·보기활혈(補氣活血)** — 심기허·심혈허에 적용하는 보법(補法). 대표 방제로 생맥산(生脈散)[^48], 귀비탕(歸脾湯) 계열, 보기활혈 처방(부정강년캡슐 등)[^13]이 있다. 인삼(人蔘)·황기(黃芪)·당귀(當歸)가 핵심 배오를 이룬다.
 4. **자음청화(滋陰淸火)** — 심음허·심화항성에 적용. 황련아교탕(黃連阿膠湯) 계열이 대표적이며, 이 문서의 범위에서는 부정맥의 빈맥형 병기와 관련하여 보조적으로 언급한다[교과서적 근거].
 5. **화담개규(化痰開竅)** — 담탁비조형 협심증에 적용. 과루해백반하탕(瓜蔞薤白半夏湯) 계열이 대표적이며, 지질 이상을 동반한 관상동맥질환 환자에서 흔히 겸용된다[교과서적 근거].
@@ -341,7 +341,7 @@
 | 신나녕캡슐 | 활혈이기 | 기체혈어형 협심증 | [^49][^50] |
 | 단루정 | 화담활혈 | 담혈어결형 협심증 | [^51] |
 | 사역탕 | 온양통맥 | 양허·한증형 관상동맥질환 | [^46] |
-| 신송양심캡슐 | 온양양심 | 서맥성 부정맥, 기음양허 부정맥 | [^2][^16] |
+| 삼송양심캡슐 | 온양양심 | 서맥성 부정맥, 기음양허 부정맥 | [^2][^16] |
 | 원강탕 | 온양양심 | 증상성 서맥성 부정맥 | [^52] |
 | 생맥산 | 익기양음 | 심기음양허, 심부전, 항암제 유발 심독성 | [^48][^53] |
 | 칠리강심캡슐 | 익기온양이수 | 만성심부전 | [^54] |
@@ -556,7 +556,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 
 **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다.** 심실조기수축에는 신수녕(信舒寧)이[^109][^110], 침 치료를 경구 중약과 병용하면 조기박동 수 감소·전환율·좌심실 구출률 개선에서 더 효과적이었다[^111]. 침치료는 심실조기수축 환자에서 항부정맥제 병용 시 치료 반응률을 높이는 체계적 고찰로 뒷받침된다[^112]. 온심과립은 심실성 조기수축(VPB) 환자에서 위약보다 효과적이며 아미오다론과 병용 시 더 큰 개선을 보였다[^55].
 
-서맥에는 신송양심(參松養心)이 심박수·증상을 개선하였고[^2], 서맥성 부정맥 중성약에 대한 네트워크 메타분석에서는 신선생맥경구액과 신송양심캡슐이 상대적으로 높은 유효성을 보였다[^113]. 원강탕(元江湯)은 증상성 서맥성 부정맥에 심각한 부작용 없이 유의미한 효과를 보였으며 8주 이상의 지속 복용이 성공률을 높였다[^52]. 변증시치에 근거한 서맥성 부정맥 치료의 후향적 분석(유효율 91.4%)[^114], 지감초탕 가감을 이용한 중증 부정맥 치료 증례(서맥·빈맥 모두 우수한 효과)[^115], 양심정제(養心定悸)가 항부정맥제와 병용 시 좌심실 기능·염증 지표를 개선한 메타분석[^116]이 함께 근거를 이룬다.
+서맥에는 삼송양심(參松養心)이 심박수·증상을 개선하였고[^2], 서맥성 부정맥 중성약에 대한 네트워크 메타분석에서는 신선생맥경구액과 삼송양심캡슐이 상대적으로 높은 유효성을 보였다[^113]. 원강탕(元江湯)은 증상성 서맥성 부정맥에 심각한 부작용 없이 유의미한 효과를 보였으며 8주 이상의 지속 복용이 성공률을 높였다[^52]. 변증시치에 근거한 서맥성 부정맥 치료의 후향적 분석(유효율 91.4%)[^114], 자감초탕 가감을 이용한 중증 부정맥 치료 증례(서맥·빈맥 모두 우수한 효과)[^115], 양심정제(養心定悸)가 항부정맥제와 병용 시 좌심실 기능·염증 지표를 개선한 메타분석[^116]이 함께 근거를 이룬다.
 
 바이러스성 심근염 후 부정맥에는 복방사신탕(複方四神湯)이 표준 약물인 프로파페논과 유사한 항부정맥 효과를 보이면서 부작용이 적었다[^117]. 안트라사이클린 항암제로 유발된 심독성 환자의 부정맥·심실 직경(LVEDD·LVESD)·심근효소 개선에는 생맥산(生脈散)의 메타분석 근거가 있다[^53].
 
@@ -604,7 +604,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 
 안트라사이클린 계열 항암제로 유발된 심부전에는 중약 처방이 임상적·아임상적 심부전 발생 위험을 유의하게 낮추는 심장 보호 효과를 보였다[^136].
 
-개별 증례에서도 표준 치료에 반응이 적은 울혈성 심부전으로 인한 일측성 흉수 환자에게 생맥산·혈백산 등을 병용해 흉수·증상이 개선된 사례[^137], 안트라사이클린 유발 소아암 환자의 심독성·폐부종에 지감초탕(枳甘草湯) 가감방을 투여해 개선된 사례[^138]가 보고되었다. 이들은 표준 치료에 반응이 불충분한 특수 상황에서 한의학적 개입이 보완적 대안이 될 수 있음을 시사하는 증례 수준의 근거로, 근거 등급이 높지 않다는 점을 함께 고려해야 한다.
+개별 증례에서도 표준 치료에 반응이 적은 울혈성 심부전으로 인한 일측성 흉수 환자에게 생맥산·혈백산 등을 병용해 흉수·증상이 개선된 사례[^137], 안트라사이클린 유발 소아암 환자의 심독성·폐부종에 자감초탕(枳甘草湯) 가감방을 투여해 개선된 사례[^138]가 보고되었다. 이들은 표준 치료에 반응이 불충분한 특수 상황에서 한의학적 개입이 보완적 대안이 될 수 있음을 시사하는 증례 수준의 근거로, 근거 등급이 높지 않다는 점을 함께 고려해야 한다.
 
 #### ⑤ 예후
 
@@ -789,7 +789,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 
 **Q5. 온양(溫陽) 처방은 서맥성 부정맥에 안전하게 쓸 수 있는가?**
 
-다수의 임상시험에서 신송양심·원강탕 등 온양 계열 처방이 서맥성 부정맥 환자의 심박수·증상을 심각한 부작용 없이 개선한 근거가 확인되었다[^2][^52]. 다만 방실차단·최근 실신 병력이 있는 환자에서는 효과가 낮을 수 있어[^52], 반드시 심전도로 부정맥 유형을 확인한 후 변증에 따라 적용해야 한다.
+다수의 임상시험에서 삼송양심·원강탕 등 온양 계열 처방이 서맥성 부정맥 환자의 심박수·증상을 심각한 부작용 없이 개선한 근거가 확인되었다[^2][^52]. 다만 방실차단·최근 실신 병력이 있는 환자에서는 효과가 낮을 수 있어[^52], 반드시 심전도로 부정맥 유형을 확인한 후 변증에 따라 적용해야 한다.
 
 **Q6. 한약을 복용하면 심혈관 질환 예방에 항상 도움이 되는가?**
 
@@ -849,7 +849,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준
 
 [^1]: [Power spectral analysis of heart rate in qi deficiency and both qi and yin deficiency in patients with coronary heart disease]. Chen YQ 외. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1989-02. [관찰연구] [PMID 2736691](https://pubmed.ncbi.nlm.nih.gov/2736691/) — 관상동맥질환 환자의 한의학적 변증(기허 vs 기음양허)에 따라 심혈관 조절 능력이 다르게 나타남을 확인하였다.
-[^2]: Chinese Medicine Shensongyangxin Is Effective for Patients with Bradycardia: Results of a Randomized, Double‐Blind, Placebo‐Controlled Multicenter Trial. Yunfang Liu 외. _Evidence-Based Complementary and Alternative Medicine_. 2014-01. [임상시험] [DOI 10.1155/2014/605714](https://doi.org/10.1155/2014/605714) — 신송양심(SSYX)은 서맥 환자의 평균 및 최저 심박수를 유의하게 증가시키고 관련 증상을 개선하는 효과가 있으며, 심각한 부작용은 보고되지 않았다.
+[^2]: Chinese Medicine Shensongyangxin Is Effective for Patients with Bradycardia: Results of a Randomized, Double‐Blind, Placebo‐Controlled Multicenter Trial. Yunfang Liu 외. _Evidence-Based Complementary and Alternative Medicine_. 2014-01. [임상시험] [DOI 10.1155/2014/605714](https://doi.org/10.1155/2014/605714) — 삼송양심(SSYX)은 서맥 환자의 평균 및 최저 심박수를 유의하게 증가시키고 관련 증상을 개선하는 효과가 있으며, 심각한 부작용은 보고되지 않았다.
 [^3]: [Exploration of Mahuang Fuzi Xixin Decoction formula syndromes based on severe cases of critical care and its application for nosocomial infection in critical care medicine including hyperpyrexia after tracheotomy and severe pain accompanied by acute myocardial infarction and diabetic peripheral neuropathy]. Xiong XJ. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-09. [증례 보고] [DOI 10.19540/j.cnki.cjcmm.20190416.503](https://doi.org/10.19540/j.cnki.cjcmm.20190416.503) [PMID 31872717](https://pubmed.ncbi.nlm.nih.gov/31872717/) — 마황부자세신탕(麻黃附子細辛湯)은 중환자실 내의 원내감염이나 기관절개술 후 발생하는 고열, 그리고 서맥성 부정맥과 같은 양허(陽虛) 기반의 중증 상태에 유효하게 적용될 수 있다.
 [^4]: [Role of "qi" in reaching affected area using acupuncture in "promoting blood circulation to remove blood stasis"]. Cheng L 외. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1990-04. [실험연구] [PMID 2401031](https://pubmed.ncbi.nlm.nih.gov/2401031/) — 본 연구는 특정 경혈 자침을 통해 '기(氣)'가 환처에 도달함으로써 경락을 소통시키고 혈액 순환을 촉진하여 혈어(血瘀) 상태를 개선할 수 있음을 시사한다.
 [^5]: [Development of studies on bioeffects of ultrasound-acupuncture therapy and its underlying mechanism]. Yang YH 외. _Zhen ci yan jiu = Acupuncture research_. 2012-08. [문헌 고찰] [PMID 23140058](https://pubmed.ncbi.nlm.nih.gov/23140058/) — 초음파 침 치료는 알레르기성 비염, 통증, 뇌졸중 등 다양한 질환에 응용될 수 있으며, 특히 비만세포의 탈과립을 유도하여 염증 반응을 일으킴으로써 치료 효과를 나타내는 기전이 제안되었다.
@@ -863,7 +863,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 [^13]: [Clinical study of fuzheng jiangnian capsule in improving pre-thrombosis correlated factors in patients with coronary heart disease]. Li LY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-08. [임상시험] [PMID 16152823](https://pubmed.ncbi.nlm.nih.gov/16152823/) — 부정강년캡슐(FZJN)은 관상동맥질환 환자의 혈관 확장, 미세순환 개선, 혈소판 활성 억제 및 응고-섬유소 용해 균형 조절을 통해 전혈전 관련 지표를 유의하게 개선한다.
 [^14]: Multimodal deep learning for cardiovascular disease detection using pulse wave and vocal signals: a prediction model development and validation study. Lyu Y 외. _BMC medical informatics and decision making_. 2026-04-24. [실험연구] [DOI 10.1186/s12911-026-03518-w](https://doi.org/10.1186/s12911-026-03518-w) [PMID 42032577](https://pubmed.ncbi.nlm.nih.gov/42032577/) — 본 연구는 한의학의 맥진(脈診)과 문진(聞診) 원리를 디지털화하여 심혈관 질환을 조기에 선별할 수 있는 다중모달 AI 모델의 가능성을 제시하였다.
 [^15]: [Therapeutic efficacy of oxymatrine on arrhythmia and heart rate variability in patients with coronary heart disease]. Guo ZB 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-04. [임상시험] [PMID 16688996](https://pubmed.ncbi.nlm.nih.gov/16688996/) — Oxymatrine은 관상동맥성 심장질환 환자의 심방 및 심실 부정맥 빈도를 유의하게 감소시키며, 특히 심박변이도(HRV) 개선 효과는 기존 치료제인 Propafenone보다 우수한 것으로 나타났다.
-[^16]: [Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function in patients with coronary heart disease]. Gu CH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-09. [임상시험] [PMID 16248237](https://pubmed.ncbi.nlm.nih.gov/16248237/) — 신송양심캡슐은 관상동맥질환 환자의 심실성 조기수축과 한의학적 변증 증후군 개선에 효과적이며, 심혈관계 자율신경 기능을 유의하게 향상시킨다.
+[^16]: [Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function in patients with coronary heart disease]. Gu CH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-09. [임상시험] [PMID 16248237](https://pubmed.ncbi.nlm.nih.gov/16248237/) — 삼송양심캡슐은 관상동맥질환 환자의 심실성 조기수축과 한의학적 변증 증후군 개선에 효과적이며, 심혈관계 자율신경 기능을 유의하게 향상시킨다.
 [^17]: [Clinical comprehensive evaluation of Wenxin Granules in treatment of arrhythmia with deficiency of Qi and Yin]. Wei RL 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-12. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20210930.503](https://doi.org/10.19540/j.cnki.cjcmm.20210930.503) [PMID 34951234](https://pubmed.ncbi.nlm.nih.gov/34951234/) — 온심과립은 기음양허를 동반한 부정맥 환자에게 양약 대비 우수한 임상적 및 심전도적 유효성과 경제성을 보이며, 전반적인 임상 종합 가치 A등급으로 평가되었다.
 [^18]: Study on the tongue manifestations for the blood-stasis and toxin syndrome in the stable patients of coronary heart disease. Feng Y 외. _Chinese journal of integrative medicine_. 2011-05. [관찰연구] [DOI 10.1007/s11655-011-0615-4](https://doi.org/10.1007/s11655-011-0615-4) [PMID 21611895](https://pubmed.ncbi.nlm.nih.gov/21611895/) — 안정기 관상동맥성 심장질환 환자에서 청색설(Bluish tongue)과 자색-적색의 설하정맥(Purplish-red sublingual vessel) 양상은 향후 1년 내 급성 심혈관 사건(ACEs) 발생 위험을 예측하는 중요한 舌診(설진) 지표가 될 수 있다.
 [^19]: [Clinical manifestations of "blood-stasis and toxin" in patients with stable coronary heart disease]. Xu H 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-02. [관찰연구] [PMID 20462035](https://pubmed.ncbi.nlm.nih.gov/20462035/) — 안정형 관상동맥질환 환자에서 흉통, 두통, 인후통, 서맥 또는 간헐맥, 그리고 hs-CRP 상승 등의 지표가 '어혈독(血瘀毒)'의 임상적 징후일 수 있으며, 이는 향후 급성 심혈관 사건 발생의 예측 인자가 될 수 있다.
@@ -892,7 +892,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 [^42]: Study on syndrome differentiation and treatment in the management of chronic stable coronary artery disease to improve quality of life. Bi YF 외. _Medicine_. 2018-09. [관찰연구] [DOI 10.1097/MD.0000000000012097](https://doi.org/10.1097/MD.0000000000012097) [PMID 30200091](https://pubmed.ncbi.nlm.nih.gov/30200091/) — 본 연구는 만성 안정형 관상동맥질환(SCAD) 환자를 대상으로 전통의학의 변증시치 기반 치료 사례를 수집하여 진단 및 치료 정보 데이터베이스를 구축하고자 하였다.
 [^43]: Impact of supervised beego, a traditional Chinese water-only fasting, on thrombosis and haemostasis. Fang Y 외. _BMJ nutrition, prevention & health_. 2021. [관찰연구] [DOI 10.1136/bmjnph-2020-000183](https://doi.org/10.1136/bmjnph-2020-000183) [PMID 34308107](https://pubmed.ncbi.nlm.nih.gov/34308107/) — 전통적인 중국의 수식 단식법인 비고(Beego, 辟谷)는 혈소판의 형성, 활성화, 응집 및 탈과립을 감소시켜 혈전증(thrombosis)의 위험을 낮추는 동시에, 응고 인자와 지혈 단백질 수준을 유지하여 지혈 능력은 보존하는 효과가 있다.
 [^44]: Efficacy and safety of Chinese herbal medicine Wen Xin granules for the treatment of unstable angina pectoris with Yang deficiency and blood stasis syndrome: study protocol for a randomized controlled trial. Tian PP 외. _Trials_. 2021-11-13. [임상시험] [DOI 10.1186/s13063-021-05771-y](https://doi.org/10.1186/s13063-021-05771-y) [PMID 34774099](https://pubmed.ncbi.nlm.nih.gov/34774099/) — 본 연구는 양허혈어증을 동반한 불안정 협심증 환자에게 온심과립을 투여했을 때의 유효성과 안전성을 평가하는 임상 시험 프로토콜이다.
-[^45]: Traditional Chinese Medicine for Bradyarrhythmia: Evidence and Potential Mechanisms. Liu S 외. _Frontiers in pharmacology_. 2018. [메타분석] [DOI 10.3389/fphar.2018.00324](https://doi.org/10.3389/fphar.2018.00324) [PMID 29686614](https://pubmed.ncbi.nlm.nih.gov/29686614/) — 신선생맥액, 신송양심캡슐, 심보환, 마황부자신이탕, 지감초탕, 생맥주사액 등의 중의약 처방들이 서맥성 부정맥 환자의 증상 완화에 효과가 있을 수 있음을 시사한다.
+[^45]: Traditional Chinese Medicine for Bradyarrhythmia: Evidence and Potential Mechanisms. Liu S 외. _Frontiers in pharmacology_. 2018. [메타분석] [DOI 10.3389/fphar.2018.00324](https://doi.org/10.3389/fphar.2018.00324) [PMID 29686614](https://pubmed.ncbi.nlm.nih.gov/29686614/) — 삼선생맥액, 삼송양심캡슐, 심보환, 마황부자세신탕, 자감초탕, 생맥주사액 등의 중의약 처방들이 서맥성 부정맥 환자의 증상 완화에 효과가 있을 수 있음을 시사한다.
 [^46]: [Clinical study on "sini" decoction on treating stenocardia for coronary heart disease]. Liang Y. _Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials_. 2005-08. [임상시험] [PMID 16379430](https://pubmed.ncbi.nlm.nih.gov/16379430/) — 양허(陽虛) 또는 한증(寒症) 양상을 보이는 관상동맥질환 환자에게 사역탕(四逆湯)을 투여하는 것이 심근 산소 소비량을 줄이고 심장 기능을 개선하는 데 효과적임이 확인되었다.
 [^47]: Efficacy and safety of Yi'anning pills for stable angina pectoris in coronary heart disease with -blood and liver-kidney deficiency syndrome: a multicenter, randomized, double-blind, superiority clinical trial. Shuning LI 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2026-04. [임상시험] [DOI 10.19852/j.cnki.jtcm.2026.02.012](https://doi.org/10.19852/j.cnki.jtcm.2026.02.012) [PMID 42015778](https://pubmed.ncbi.nlm.nih.gov/42015778/) — 기혈양허 및 간신부족 증후군을 동반한 안정형 협심증 환자에게 표준 치료와 함께 이안환(Yi'anning pills)을 투여했을 때, 심원캡슐(Xinyuan capsules) 대비 삶의 질(SAQ 총점) 개선, 신체 활동 제한 감소, 협심증 발작 빈도 감소 및 니트로글리세린 사용량 감소에서 더 우수한 효과를 보였다.
 [^48]: Shengmai (a traditional Chinese herbal medicine) for heart failure. Chen J 외. _The Cochrane database of systematic reviews_. 2007-10-17. [메타분석] [DOI 10.1002/14651858.CD005052.pub2](https://doi.org/10.1002/14651858.CD005052.pub2) [PMID 17943836](https://pubmed.ncbi.nlm.nih.gov/17943836/) — 심부전 환자에게 표준 치료와 함께 생맥산(生脈散)을 병용 투여했을 때 임상적 상태(NYHA 등급) 및 사망률 개선, TNF-alpha 수치 감소 등의 긍정적인 결과가 나타났다.
@@ -962,7 +962,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 [^112]: Conventional Acupuncture for Cardiac Arrhythmia: A Systematic Review of Randomized Controlled Trials. Liu J 외. _Chinese journal of integrative medicine_. 2018-03. [체계적 고찰] [DOI 10.1007/s11655-017-2753-9](https://doi.org/10.1007/s11655-017-2753-9) [PMID 28432528](https://pubmed.ncbi.nlm.nih.gov/28432528/) — 침치료(鍼治療)는 심부정맥 환자, 특히 심실조기수축(VPB) 환자에게 항부정맥제 단독 투여보다 병용 시 치료 반응률을 높이는 보조적 수단으로 유용할 수 있으며, 심방세동(Af) 환자에게도 안전한 대안이 될 가능성이 있다.
 [^113]: [Network Meta-analysis of randomized controlled trials of Chinese patent medicine for bradyarrhythmia]. Hu HY 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-03. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20190802.501](https://doi.org/10.19540/j.cnki.cjcmm.20190802.501) [PMID 32237459](https://pubmed.ncbi.nlm.nih.gov/32237459/) — 서맥성 부정맥 환자에게 통상 치료와 함께 중성약을 병용 투여하는 것이 통상 치료 단독보다 증상 완화 및 심박수 개선에 더 효과적이다.
 [^114]: [Retrospective analysis on 116 cases of bradyarrhythmia treated with TCM based syndrome differentiation]. Ma LH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-07. [관찰연구] [PMID 16983924](https://pubmed.ncbi.nlm.nih.gov/16983924/) — 변증시치에 기반한 한방 치료가 서맥성 부정맥 환자의 임상 증상 개선 및 심박수 안정화에 유의미한 효과(유효율 91.4%)를 보였다.
-[^115]: Prof. ZHANG Yi's experience in treating severe arrhythmia. Chen WG 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-03. [증례 보고] [DOI 10.1016/s0254-6272(10)60012-x](https://doi.org/10.1016/s0254-6272(10)60012-x) [PMID 20397463](https://pubmed.ncbi.nlm.nih.gov/20397463/) — 심각한 부정맥 환자에게 知甘草湯(지감초탕)을 기본으로 하여 환자의 변증(음양허, 양기부족, 담음 및 어혈 등)에 따라 가감하여 처방했을 때 서맥과 빈맥 모두에서 우수한 치료 효과를 보였다.
+[^115]: Prof. ZHANG Yi's experience in treating severe arrhythmia. Chen WG 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-03. [증례 보고] [DOI 10.1016/s0254-6272(10)60012-x](https://doi.org/10.1016/s0254-6272(10)60012-x) [PMID 20397463](https://pubmed.ncbi.nlm.nih.gov/20397463/) — 심각한 부정맥 환자에게 知甘草湯(자감초탕)을 기본으로 하여 환자의 변증(음양허, 양기부족, 담음 및 어혈 등)에 따라 가감하여 처방했을 때 서맥과 빈맥 모두에서 우수한 치료 효과를 보였다.
 [^116]: [Systematic review and Meta-analysis of efficacy and safety of Yangxin Dingji Capsules in treatment of arrhythmia]. Wang XY 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-10. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20210409.502](https://doi.org/10.19540/j.cnki.cjcmm.20210409.502) [PMID 34738445](https://pubmed.ncbi.nlm.nih.gov/34738445/) — 부정맥 환자에게 양심정제(Yangxin Dingji Capsules)를 서양의학적 항부정맥제와 병용 투여했을 때, 단독 투여보다 임상적 유효성이 높고 좌심실 기능(LVEF 등) 및 염증 지표(hs-CRP)가 유의하게 개선되었다.
 [^117]: [Clinical study on Fufang Sishen Decoction in treating arrhythmia after virus myocarditis]. Wei QH 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-03. [임상시험] [DOI 10.3736/jcim20040206](https://doi.org/10.3736/jcim20040206) [PMID 15339466](https://pubmed.ncbi.nlm.nih.gov/15339466/) — 바이러스성 심근염 후 발생한 부정맥 치료에 있어 복방사신탕(FFSSD)은 표준 약물인 프로파페논과 유사한 수준의 항부정맥 효과를 보이며, 부작용이 거의 없는 안전한 치료 대안이 될 수 있음을 시사한다.
 [^118]: Reduced risk of stroke in patients with cardiac arrhythmia receiving traditional Chinese medicine: A nationwide matched retrospective cohort study. Chuang SF 외. _Complementary therapies in medicine_. 2016-04. [관찰연구] [DOI 10.1016/j.ctim.2015.12.012](https://doi.org/10.1016/j.ctim.2015.12.012) [PMID 27062945](https://pubmed.ncbi.nlm.nih.gov/27062945/) — 부정맥 환자에게 한방치료(TCM)를 병행하는 것이 뇌졸중 발생 위험을 유의하게 낮출 수 있음을 시사한다.
@@ -985,7 +985,7 @@ PCI 후 재활에는 침 운동요법(AKT) 프로토콜[^79], 재협착 예방�
 [^135]: A protocol for the impact of Tongmai Jiangtang capsules on the risk of cardiovascular and cerebrovascular events in metabolic syndrome. Li A 외. _Frontiers in cardiovascular medicine_. 2026. [임상시험] [DOI 10.3389/fcvm.2026.1817298](https://doi.org/10.3389/fcvm.2026.1817298) [PMID 42582064](https://pubmed.ncbi.nlm.nih.gov/42582064/) — 본 연구는 대사증후군 환자 중 기허혈어(氣虛血瘀) 변증을 가진 고위험군 환자에게 통맥강당 캡슐(TJC)을 표준 치료와 병행 투여했을 때 심혈관 및 뇌혈관 사건(MACE) 발생 위험을 낮출 수 있는지 평가하는 프로토콜이다.
 [^136]: Cardioprotective effect of Chinese herbal medicine for anthracycline-induced cardiotoxicity in cancer patients: A meta-analysis of prospective studies. Hao W 외. _Medicine_. 2022-07-29. [메타분석] [DOI 10.1097/MD.0000000000029691](https://doi.org/10.1097/MD.0000000000029691) [PMID 35905252](https://pubmed.ncbi.nlm.nih.gov/35905252/) — 중약(中藥) 처방은 안트라사이클린 계열 항암제 투여로 인한 임상적 및 아임상적 심부전의 발생 위험을 유의하게 낮추는 심장 보호 효과가 있는 것으로 나타났다.
 [^137]: A case of unilateral pleural effusion secondary to congestive heart failure successfully treated with traditional Chinese herbal formulas. Lee HD 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2012-05. [증례 보고] [DOI 10.1089/acm.2011.0292](https://doi.org/10.1089/acm.2011.0292) [PMID 22537563](https://pubmed.ncbi.nlm.nih.gov/22537563/) — 표준 치료에 반응이 적은 울혈성 심부전으로 인한 일측성 흉수 환자에게 생맥산, 혈백산, 팅리쯔 등의 한약 처방을 병용했을 때 흉수 감소와 증상 개선 효과가 나타났다.
-[^138]: A case of chemotherapy-induced congestive heart failure successfully treated with Chinese herbal medicine. Wu BY 외. _Complementary therapies in medicine_. 2015-04. [증례 보고] [DOI 10.1016/j.ctim.2015.01.006](https://doi.org/10.1016/j.ctim.2015.01.006) [PMID 25847563](https://pubmed.ncbi.nlm.nih.gov/25847563/) — 안트라사이클린(Anthracycline) 계열 항암제로 인해 유발된 심부전 및 심독성 환자에게 지감초탕(枳甘草湯) 가감방을 투여하여 심기능 및 폐부종을 개선한 사례이다.
+[^138]: A case of chemotherapy-induced congestive heart failure successfully treated with Chinese herbal medicine. Wu BY 외. _Complementary therapies in medicine_. 2015-04. [증례 보고] [DOI 10.1016/j.ctim.2015.01.006](https://doi.org/10.1016/j.ctim.2015.01.006) [PMID 25847563](https://pubmed.ncbi.nlm.nih.gov/25847563/) — 안트라사이클린(Anthracycline) 계열 항암제로 인해 유발된 심부전 및 심독성 환자에게 자감초탕(枳甘草湯) 가감방을 투여하여 심기능 및 폐부종을 개선한 사례이다.
 [^139]: Chinese Herbal Medicine Reduces the Risk of Heart Failure in Hypertensive Patients: A Nationwide, Retrospective, Cohort Study. Liu CT 외. _Frontiers in cardiovascular medicine_. 2022. [관찰연구] [DOI 10.3389/fcvm.2022.922728](https://doi.org/10.3389/fcvm.2022.922728) [PMID 35898268](https://pubmed.ncbi.nlm.nih.gov/35898268/) — 고혈압 환자에게 한약을 병용 투여하는 것이 심부전 발생 위험을 유의하게 낮출 수 있음을 시사한다.
 [^140]: Chinese Herbal Medicines and Conventional Chronic Heart Failure Treatment for the Management of Chronic Heart Failure Complicated with Depression: A Systematic Review and Meta‐Analysis. Peidan Yang 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석] [DOI 10.1155/2020/8627928](https://doi.org/10.1155/2020/8627928) — 우울증을 동반한 만성심부전 환자에게 표준 치료와 중약을 병용 투여하는 것이 심기능 개선, 우울 증상 완화 및 삶의 질 향상에 효과적임을 시사한다.
 [^141]: Chinese herbal preparations for chronic heart failure: Study protocol for an umbrella review of systematic reviews and meta-analyses. Li Y 외. _Medicine_. 2020-02. [체계적 고찰] [DOI 10.1097/MD.0000000000018966](https://doi.org/10.1097/MD.0000000000018966) [PMID 32049792](https://pubmed.ncbi.nlm.nih.gov/32049792/) — 본 연구는 만성심부전 환자를 대상으로 한 중약 제제(CHPs)의 효과를 다룬 기존의 체계적 문헌고찰과 메타분석 결과들을 종합하여 증거의 신뢰 수준을 평가하는 프로토콜 연구입니다.

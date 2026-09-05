@@ -18,7 +18,7 @@
 - **생감초(生甘草)**: 채취 후 건조만 한 것으로 성질이 서늘해 청열해독(淸熱解毒)에 주로 쓰인다[^5].
 - **자감초(炙甘草)**: 꿀에 볶아 포제한 것으로 성질이 따뜻해져 보중익기(補中益氣)·복맥정계(復脈定悸)에 주로 쓰인다[^5][^6][^7].
 - **작약감초탕(芍藥甘草湯)**: 감초와 작약(芍藥)을 배합한 대표 처방으로 근육 경련·통증에 가장 널리 연구된 감초 함유 방제이다[^39][^40].
-- **지감초탕(炙甘草湯, 복맥탕)**: 자감초를 군약으로 하는 처방으로 부정맥·심계 영역에서 연구된다[^63][^64].
+- **자감초탕(炙甘草湯, 복맥탕)**: 자감초를 군약으로 하는 처방으로 부정맥·심계 영역에서 연구된다[^63][^64].
 - **감초사심탕(甘草瀉心湯)**: 베체트병·궤양성 대장염 영역에서 연구되는 감초 중용(重用) 처방이다[^53][^54].
 - **감초-대추탕(甘草大棗湯류, licorice-jujube formula)**: 갱년기 증상·불면 영역에서 활용되는 감초 배합 처방이다[^76][^77][^78].
 - **복방감초산제(複方甘草酸製劑, compound glycyrrhizin)**: 감초 주성분을 정제·복합화한 제제로 습진·두드러기·건선·간질환 영역에서 연구된다[^88][^89][^91].
@@ -142,9 +142,9 @@
 
 일본 해상자위대원을 대상으로 한 예비 임상시험에서 글리시리진 투여군은 대조군보다 상기도감염 입원 기간이 짧고 24~48시간 내 최대 체온이 낮았으며 치료 비용도 유의하게 감소하였다[^55]. 알레르기 비염에서는 감초 비강 스프레이가 스테로이드 비강 스프레이와 유사하게 코막힘·후비루를 감소시키고 콧물·가려움증·수면 질 개선 및 사이토카인 감소·점막섬모 기능 개선을 보였으며[^56], 감초 비강 세척은 SNOT-22 점수·비강 저항·비갑개 비대를 유의하게 개선하고 주관적 증상 개선에서는 스테로이드·생리식염수 세척보다 우수했다[^57][^58]. 재발성 아프타성 구내염에서는 국소 감초 추출물이 통증 감소·궤양 크기 축소·치유 시간 단축에 유의한 효과를 보였고 부작용도 없었다(체계적 고찰, 314명)[^59]. 구강 위생 영역에서는 1% 감초 겔이 0.2% 클로르헥시딘과 유사한 수준으로 타액 뮤탄스균을 감소시켜 천연 대체제로서의 가능성을 보였고[^60], 감초 함유 롤리팝을 3주간 섭취한 학령전기 아동에서도 뮤탄스균 감소와 구강 미생물 다양성 유지가 확인되었다[^61]. 감초 추출물의 글리시리진·리코리시딘·글라브리딘 성분은 치주질환 원인균 억제와 염증 완화에도 기여하는 것으로 정리된다[^62].
 
-### 18. 심혈관 질환 — 지감초탕(炙甘草湯)을 중심으로
+### 18. 심혈관 질환 — 자감초탕(炙甘草湯)을 중심으로
 
-지감초탕(자감초를 군약으로 하는 복맥탕류)은 부정맥·심부전 영역에서 다수의 메타분석 근거를 갖는다. 심실조기수축(PVC) 환자 2441명을 종합한 메타분석에서 지감초탕 단독 또는 항부정맥제 병용군이 항부정맥제 단독군보다 총 유효율이 높고 PVC 횟수 감소에 더 효과적이었다[^63]. 만성 심부전 환자 1752명을 종합한 메타분석에서는 지감초탕과 표준 양약 병용이 좌심실박출률·좌심실이완기말직경·BNP·6분보행검사를 양약 단독보다 유의하게 개선하였고[^64], 부정맥 환자 4260명을 종합한 메타분석에서는 지감초탕-메토프롤롤 병용군이 단독군보다 총 유효율이 유의하게 높았다(OR=4.74)[^65]. 혈액투석 환자에서 지감초탕 4주 투여 후 QTd·QTcd가 유의하게 감소해 부정맥 완화 효과가 확인되었으며[^66], 박출률 보존 심부전(HFpEF) 환자를 대상으로 한 12주 위약대조 임상시험도 진행 중이다[^67]. 침 치료와 가감지감초탕 병용은 대조군보다 24시간 PVC 빈도·부담을 유의하게 감소시키고 좌심실박출률 개선에도 더 효과적이었다[^68].
+자감초탕(자감초를 군약으로 하는 복맥탕류)은 부정맥·심부전 영역에서 다수의 메타분석 근거를 갖는다. 심실조기수축(PVC) 환자 2441명을 종합한 메타분석에서 자감초탕 단독 또는 항부정맥제 병용군이 항부정맥제 단독군보다 총 유효율이 높고 PVC 횟수 감소에 더 효과적이었다[^63]. 만성 심부전 환자 1752명을 종합한 메타분석에서는 자감초탕과 표준 양약 병용이 좌심실박출률·좌심실이완기말직경·BNP·6분보행검사를 양약 단독보다 유의하게 개선하였고[^64], 부정맥 환자 4260명을 종합한 메타분석에서는 자감초탕-메토프롤롤 병용군이 단독군보다 총 유효율이 유의하게 높았다(OR=4.74)[^65]. 혈액투석 환자에서 자감초탕 4주 투여 후 QTd·QTcd가 유의하게 감소해 부정맥 완화 효과가 확인되었으며[^66], 박출률 보존 심부전(HFpEF) 환자를 대상으로 한 12주 위약대조 임상시험도 진행 중이다[^67]. 침 치료와 가감자감초탕 병용은 대조군보다 24시간 PVC 빈도·부담을 유의하게 감소시키고 좌심실박출률 개선에도 더 효과적이었다[^68].
 
 ### 19. 부인과·내분비 질환
 
@@ -172,7 +172,7 @@
 | 소화기(경련·변비) | 작약감초탕, 대황감초탕, 감초사심탕 | 임상시험·관찰연구·체계적 고찰(프로토콜 포함) | 대장·십이지장 경련 억제, 1차 완하제 불응 변비 개선 |
 | 호흡기·이비인후 | 감초 비강 세척/스프레이, 글리시리진 단독 | 임상시험 다수 | 스테로이드와 유사한 비염 증상 개선, 상기도감염 경과 단축 |
 | 구강 | 국소 감초 겔·롤리팝 | 체계적 고찰, 임상시험 | 구내염 통증·궤양 개선, 뮤탄스균 억제 |
-| 심혈관(부정맥·심부전) | 지감초탕 | 메타분석 다수(2000명 이상 규모) | PVC·부정맥 총 유효율 개선, QT분산 감소 |
+| 심혈관(부정맥·심부전) | 자감초탕 | 메타분석 다수(2000명 이상 규모) | PVC·부정맥 총 유효율 개선, QT분산 감소 |
 | 부인과·내분비 | 작약감초탕, 계지감초용골모려탕 | 메타분석·네트워크메타분석·임상시험 | 항정신병약물 유발 고프로락틴혈증 개선, 갱년기 수면 개선 |
 | 신경계 | 감초 시럽, FDGL | 임상시험(소규모) | 파킨슨병·당뇨병성 신경병증 보조 개선 신호 |
 | 항암 지지요법 | 작약감초탕 | 임상시험(2상 포함), 교차시험 | 신경독성·근육통 완화(적응증별 편차 있음) |
@@ -343,7 +343,7 @@
 본 문서가 인용한 근거는 145편에 이르지만, 그 근거 수준·주제 분포는 균질하지 않다는 점을 명시적으로 밝힌다.
 
 - **작약감초탕(근육 경련) 영역** 은 무작위대조시험·메타분석까지 축적되어 감초 함유 처방 중 가장 근거 수준이 높다.
-- **지감초탕(부정맥·심부전) 영역** 도 대규모(수천 명) 메타분석이 다수 존재해 비교적 두터운 근거를 갖는다.
+- **자감초탕(부정맥·심부전) 영역** 도 대규모(수천 명) 메타분석이 다수 존재해 비교적 두터운 근거를 갖는다.
 - **가성알도스테론증 안전성 영역** 은 대규모 데이터베이스 연구·체계적 증례 검토가 축적되어 있어 위해성 근거는 상대적으로 견고하다.
 - 반면 **항암(직접적 항종양)·항바이러스·부신피질호르몬 유사작용의 치료적 활용** 영역은 대부분 세포·분자·문헌고찰 수준에 머물러 있어, 인체 확증 임상시험으로의 전환이 필요하다.
 - **품질·표준화 영역** 은 분석화학적 방법론 연구가 중심이며, 실제 임상 결과와 성분 표준화를 직접 연결한 인체 연구는 상대적으로 부족하다.
@@ -418,12 +418,12 @@
 [^60]: A Randomized Clinical Trial Evaluating Antimicrobial Effectiveness of a New Licorice Oral Gel against Salivary Streptococcus mutans. _Infectious disorders drug targets_. 2026-06-12. [임상시험, 30명] [DOI 10.2174/0118715265463863260604153321](https://doi.org/10.2174/0118715265463863260604153321) [PMID 42304906](https://pubmed.ncbi.nlm.nih.gov/42304906/) — 1% 감초 겔과 0.2% 클로르헥시딘이 타액 뮤탄스균 수를 유의하게 감소시켰으며 두 군 간 차이가 없어 감초 겔이 클로르헥시딘의 천연 대체제로 사용 가능함을 시사.
 [^61]: Lollipop containing Glycyrrhiza uralensis extract reduces Streptococcus mutans colonization and maintains oral microbial diversity in Chinese preschool children. _PloS one_. 2019. [임상시험] [DOI 10.1371/journal.pone.0221756](https://doi.org/10.1371/journal.pone.0221756) [PMID 31442287](https://pubmed.ncbi.nlm.nih.gov/31442287/) — 감초 추출물 함유 롤리팝을 3주간 섭취한 학령전기 아동에서 타액 내 뮤탄스균이 유의하게 감소하고 구강 미생물 다양성은 유지·증가함을 확인.
 [^62]: Licorice as a herbal extract in periodontal therapy. _Drug Target Insights_. 2023-06-05. [문헌 고찰] [DOI 10.33393/dti.2023.2583](https://doi.org/10.33393/dti.2023.2583) — 감초 추출물의 글리시리진·리코리시딘·글라브리딘 성분이 항염증·항균·항부착 효과로 치주질환 원인균 억제와 염증 완화에 기여함을 정리. 인간 데이터 한정.
-[^63]: Classic herbal formula Zhigancao Decoction for the treatment of premature ventricular contractions (PVCs): a systematic review of randomized controlled trials. _Complementary therapies in medicine_. 2015-02. [메타분석, 2441명] [DOI 10.1016/j.ctim.2014.12.008](https://doi.org/10.1016/j.ctim.2014.12.008) [PMID 25637158](https://pubmed.ncbi.nlm.nih.gov/25637158/) — 지감초탕 단독 또는 항부정맥제 병용군이 항부정맥제 단독군보다 총 유효율이 높고 심실조기수축 횟수 감소에 더 효과적임을 2441명 자료로 확인한 메타분석.
-[^64]: A Systematic Review and Meta-Analysis of High-Frequency Prescription of Zhigancao Decoction Combined with Conventional Western Medicine in the Treatment of Chronic Heart Failure. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석, 1752명] [DOI 10.1155/2021/7140044](https://doi.org/10.1155/2021/7140044) [PMID 34795787](https://pubmed.ncbi.nlm.nih.gov/34795787/) — 지감초탕과 표준 양약 병용이 총 유효율·좌심실박출률·좌심실이완기말직경·BNP·6분보행검사를 양약 단독보다 유의하게 개선함을 확인한 메타분석.
-[^65]: Randomized Controlled Trials of Zhigancao Decoction Combined With Metoprolol in the Treatment of Arrhythmia: A Systematic Review and Meta-Analysis. _Frontiers in cardiovascular medicine_. 2022. [메타분석, 4260명] [DOI 10.3389/fcvm.2022.795903](https://doi.org/10.3389/fcvm.2022.795903) [PMID 35282353](https://pubmed.ncbi.nlm.nih.gov/35282353/) — 지감초탕과 메토프롤롤 병용군이 단독군보다 부정맥 치료 총 유효율이 유의하게 높고(OR=4.74) 부작용이 더 적음을 확인한 메타분석.
-[^66]: Changes of QT Dispersion in Hemodialysis Patients after Administrating Zhigancao Decoction. _Chinese journal of integrative medicine_. 2018-08. [임상시험, 68명] [DOI 10.1007/s11655-016-2599-6](https://doi.org/10.1007/s11655-016-2599-6) [PMID 27435290](https://pubmed.ncbi.nlm.nih.gov/27435290/) — 지감초탕 4주 투여 후 혈액투석 환자의 QTd·QTcd가 유의하게 감소하고 상심실성 부정맥·심실조기수축 환자 수도 줄어 심전도 개선·부정맥 완화 효과가 확인됨.
-[^67]: A double-blinded, placebo-controlled randomized trial evaluating the efficacy and safety of Zhigancao Tang granules for treating HFpEF: study protocol for a randomized controlled trial. _Trials_. 2021-04-20. [임상시험, 122명] [DOI 10.1186/s13063-021-05232-6](https://doi.org/10.1186/s13063-021-05232-6) — 박출률 보존 심부전(HFpEF) 환자 122명을 대상으로 지감초탕 과립의 효능·안전성을 평가하는 12주 위약대조 무작위임상시험 프로토콜.
-[^68]: Acupuncture combined with modified Zhi Gan Cao decoction in the treatment of frequent premature ventricular contractions. _Medicine_. 2025-11-21. [관찰연구, 200명] [DOI 10.1097/MD.0000000000045905](https://doi.org/10.1097/MD.0000000000045905) [PMID 41305729](https://pubmed.ncbi.nlm.nih.gov/41305729/) — 침 치료와 가감지감초탕 병용이 대조군보다 24시간 PVC 빈도·부담을 유의하게 감소시키고 좌심실박출률 개선 및 증후군 점수 하락에 더 효과적임을 확인.
+[^63]: Classic herbal formula Zhigancao Decoction for the treatment of premature ventricular contractions (PVCs): a systematic review of randomized controlled trials. _Complementary therapies in medicine_. 2015-02. [메타분석, 2441명] [DOI 10.1016/j.ctim.2014.12.008](https://doi.org/10.1016/j.ctim.2014.12.008) [PMID 25637158](https://pubmed.ncbi.nlm.nih.gov/25637158/) — 자감초탕 단독 또는 항부정맥제 병용군이 항부정맥제 단독군보다 총 유효율이 높고 심실조기수축 횟수 감소에 더 효과적임을 2441명 자료로 확인한 메타분석.
+[^64]: A Systematic Review and Meta-Analysis of High-Frequency Prescription of Zhigancao Decoction Combined with Conventional Western Medicine in the Treatment of Chronic Heart Failure. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석, 1752명] [DOI 10.1155/2021/7140044](https://doi.org/10.1155/2021/7140044) [PMID 34795787](https://pubmed.ncbi.nlm.nih.gov/34795787/) — 자감초탕과 표준 양약 병용이 총 유효율·좌심실박출률·좌심실이완기말직경·BNP·6분보행검사를 양약 단독보다 유의하게 개선함을 확인한 메타분석.
+[^65]: Randomized Controlled Trials of Zhigancao Decoction Combined With Metoprolol in the Treatment of Arrhythmia: A Systematic Review and Meta-Analysis. _Frontiers in cardiovascular medicine_. 2022. [메타분석, 4260명] [DOI 10.3389/fcvm.2022.795903](https://doi.org/10.3389/fcvm.2022.795903) [PMID 35282353](https://pubmed.ncbi.nlm.nih.gov/35282353/) — 자감초탕과 메토프롤롤 병용군이 단독군보다 부정맥 치료 총 유효율이 유의하게 높고(OR=4.74) 부작용이 더 적음을 확인한 메타분석.
+[^66]: Changes of QT Dispersion in Hemodialysis Patients after Administrating Zhigancao Decoction. _Chinese journal of integrative medicine_. 2018-08. [임상시험, 68명] [DOI 10.1007/s11655-016-2599-6](https://doi.org/10.1007/s11655-016-2599-6) [PMID 27435290](https://pubmed.ncbi.nlm.nih.gov/27435290/) — 자감초탕 4주 투여 후 혈액투석 환자의 QTd·QTcd가 유의하게 감소하고 상심실성 부정맥·심실조기수축 환자 수도 줄어 심전도 개선·부정맥 완화 효과가 확인됨.
+[^67]: A double-blinded, placebo-controlled randomized trial evaluating the efficacy and safety of Zhigancao Tang granules for treating HFpEF: study protocol for a randomized controlled trial. _Trials_. 2021-04-20. [임상시험, 122명] [DOI 10.1186/s13063-021-05232-6](https://doi.org/10.1186/s13063-021-05232-6) — 박출률 보존 심부전(HFpEF) 환자 122명을 대상으로 자감초탕 과립의 효능·안전성을 평가하는 12주 위약대조 무작위임상시험 프로토콜.
+[^68]: Acupuncture combined with modified Zhi Gan Cao decoction in the treatment of frequent premature ventricular contractions. _Medicine_. 2025-11-21. [관찰연구, 200명] [DOI 10.1097/MD.0000000000045905](https://doi.org/10.1097/MD.0000000000045905) [PMID 41305729](https://pubmed.ncbi.nlm.nih.gov/41305729/) — 침 치료와 가감자감초탕 병용이 대조군보다 24시간 PVC 빈도·부담을 유의하게 감소시키고 좌심실박출률 개선 및 증후군 점수 하락에 더 효과적임을 확인.
 [^69]: Effect of a traditional herbal medicine (shakuyaku-kanzo-to) on testosterone secretion in patients with polycystic ovary syndrome detected by ultrasound. _Nihon Sanka Fujinka Gakkai zasshi_. 1988-06. [임상시험, 20명] [PMID 3292675](https://pubmed.ncbi.nlm.nih.gov/3292675/) — 다낭성난소증후군 환자 20명에 작약감초탕 투여 후 18명(90%)에서 혈장 테스토스테론이 감소하고 5명(25%)이 임신에 성공함을 확인한 초기 임상시험.
 [^70]: Therapeutic potential of Glycyrrhiza glabra (licorice) in modulating metabolic and inflammatory parameters in women with PCOS. _Folia medica_. 2026-02-26. [임상시험] [DOI 10.3897/folmed.68.e165953](https://doi.org/10.3897/folmed.68.e165953) [PMID 41879551](https://pubmed.ncbi.nlm.nih.gov/41879551/) — 감초 보충제가 다낭성난소증후군 환자의 임상적·생화학적 지표 및 대사·염증 지표를 조절하는 치료 잠재력이 있음을 평가.
 [^71]: Adjunctive Peony-Glycyrrhiza decoction for antipsychotic-induced hyperprolactinaemia: a meta-analysis of randomised controlled trials. _General psychiatry_. 2018. [메타분석, 450명] [DOI 10.1136/gpsych-2018-100003](https://doi.org/10.1136/gpsych-2018-100003) [PMID 30582119](https://pubmed.ncbi.nlm.nih.gov/30582119/) — 작약감초탕 병용군이 대조군보다 항정신병약물 유발 고프로락틴혈증 관련 혈청 프로락틴 수치·증상이 유의하게 개선되고 안전성도 유사함을 확인한 메타분석(450명).

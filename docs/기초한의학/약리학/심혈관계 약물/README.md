@@ -125,7 +125,7 @@ Class I 약물은 활동전위 0상의 빠른 Na⁺ 유입을 억제해 전도 �
 
 ### 4. Class III — K⁺ 통로 차단제
 
-Class III 약물(amiodarone·sotalol·dofetilide)은 재분극을 담당하는 K⁺ 통로(주로 IKr)를 차단해 활동전위 기간과 유효불응기(effective refractory period)를 연장시킨다. Amiodarone은 Na⁺·Ca²⁺ 통로 차단과 항아드레날린 작용도 겸비한 다중 기전 약물로 광범위한 부정맥에 효과적이지만, 폐섬유화·갑상선기능이상·간독성 등 장기 독성이 문제가 된다[교과서적 근거]. 신송양심캡슐(參松養心, Shensong Yangxin) 등 한약과 amiodarone의 병용이 심실부정맥 동반 심부전에서 효과·안전성 지표를 개선한다는 메타분석이 보고되어 있다[^23].
+Class III 약물(amiodarone·sotalol·dofetilide)은 재분극을 담당하는 K⁺ 통로(주로 IKr)를 차단해 활동전위 기간과 유효불응기(effective refractory period)를 연장시킨다. Amiodarone은 Na⁺·Ca²⁺ 통로 차단과 항아드레날린 작용도 겸비한 다중 기전 약물로 광범위한 부정맥에 효과적이지만, 폐섬유화·갑상선기능이상·간독성 등 장기 독성이 문제가 된다[교과서적 근거]. 삼송양심캡슐(參松養心, Shensong Yangxin) 등 한약과 amiodarone의 병용이 심실부정맥 동반 심부전에서 효과·안전성 지표를 개선한다는 메타분석이 보고되어 있다[^23].
 
 ### 5. Class IV — 비디히드로피리딘계 칼슘채널차단제
 
@@ -322,7 +322,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 
 ### 2. 부정맥군 (KCD-8: I44-I49)
 
-①**코드**: I44(방실 및 좌각차단), I47(발작성 빈맥), I48(심방세동 및 조동), I49(기타 심장부정맥). ②**병인병기**: 심계(心悸)·정충(怔忡)으로 다뤄지며, 심기허(心氣虛)·심음허(心陰虛)·심혈어조(心血瘀阻)·담화요심(痰火擾心)이 대표 변증이다[교과서적 근거]. ③**병태생리**: 이온통로 이상(Na⁺·K⁺·Ca²⁺)에 의한 자동능·전도·재분극 장애가 핵심이다(제3편 참조). ④**치료**: Vaughan-Williams class별 항부정맥제가 표준치료이며, 심방세동에서는 카테터 절제술의 역할이 확대되고 있다[^27]. 한약(신송양심캡슐 등)의 보조적 병용 근거가 있다[^23][^24]. ⑤**예후**: 심방세동은 뇌졸중 위험을 5배 높이므로 항응고제 병용이 필수적이다(제5편과 연계). ⑥**관리**: 심전도 정기 추적, 전해질 관리, QT 연장 유발 약물·한약 병용 주의.
+①**코드**: I44(방실 및 좌각차단), I47(발작성 빈맥), I48(심방세동 및 조동), I49(기타 심장부정맥). ②**병인병기**: 심계(心悸)·정충(怔忡)으로 다뤄지며, 심기허(心氣虛)·심음허(心陰虛)·심혈어조(心血瘀阻)·담화요심(痰火擾心)이 대표 변증이다[교과서적 근거]. ③**병태생리**: 이온통로 이상(Na⁺·K⁺·Ca²⁺)에 의한 자동능·전도·재분극 장애가 핵심이다(제3편 참조). ④**치료**: Vaughan-Williams class별 항부정맥제가 표준치료이며, 심방세동에서는 카테터 절제술의 역할이 확대되고 있다[^27]. 한약(삼송양심캡슐 등)의 보조적 병용 근거가 있다[^23][^24]. ⑤**예후**: 심방세동은 뇌졸중 위험을 5배 높이므로 항응고제 병용이 필수적이다(제5편과 연계). ⑥**관리**: 심전도 정기 추적, 전해질 관리, QT 연장 유발 약물·한약 병용 주의.
 
 ### 3. 협심증·허혈성 심장질환군 (KCD-8: I20-I25)
 
@@ -453,7 +453,7 @@ PCSK9(proprotein convertase subtilisin/kexin type 9) 억제제(evolocumab·aliro
 [^23]: Clinical Safety and Efficacy of Wenxin Keli-Amiodarone Combination on Heart Failure Complicated by Ventricular Arrhythmia. Zheng R 외. _Frontiers in physiology_. 2018. [메타분석] [DOI 10.3389/fphys.2018.00487](https://doi.org/10.3389/fphys.2018.00487) [PMID 29875671](https://pubmed.ncbi.nlm.nih.gov/29875671/) — amiodarone과 온심과립 병용의 심실부정맥 동반 심부전 안전성·유효성.
 [^24]: Review of complementary and alternative medical treatment of arrhythmias. Brenyo A 외. _The American journal of cardiology_. 2014-03-01. [문헌 고찰] [DOI 10.1016/j.amjcard.2013.11.044](https://doi.org/10.1016/j.amjcard.2013.11.044) [PMID 24528618](https://pubmed.ncbi.nlm.nih.gov/24528618/) — 보완대체요법의 부정맥 치료 개관, QT 연장 등 병용 주의점 포함.
 [^25]: Comparative Effectiveness of Acupuncture and Antiarrhythmic Drugs for the Prevention of Cardiac Arrhythmia. Li Y 외. _Frontiers in physiology_. 2017. [메타분석] [DOI 10.3389/fphys.2017.00358](https://doi.org/10.3389/fphys.2017.00358) [PMID 28642714](https://pubmed.ncbi.nlm.nih.gov/28642714/) — 침 치료와 항부정맥제의 비교 효과, 보조 요법으로서의 근거 수준.
-[^26]: Shen Song Yang Xin Capsule Combined with Antiarrhythmic Drugs, a New Integrative Medicine Therapy. Wang J 외. _Evidence-based complementary and alternative medicine_. 2014. [메타분석] [DOI 10.1155/2014/976713](https://doi.org/10.1155/2014/976713) [PMID 24772186](https://pubmed.ncbi.nlm.nih.gov/24772186/) — 신송양심캡슐과 항부정맥제 병용의 통합의학적 근거.
+[^26]: Shen Song Yang Xin Capsule Combined with Antiarrhythmic Drugs, a New Integrative Medicine Therapy. Wang J 외. _Evidence-based complementary and alternative medicine_. 2014. [메타분석] [DOI 10.1155/2014/976713](https://doi.org/10.1155/2014/976713) [PMID 24772186](https://pubmed.ncbi.nlm.nih.gov/24772186/) — 삼송양심캡슐과 항부정맥제 병용의 통합의학적 근거.
 [^27]: Interaction between Chinese medicine and digoxin: Clinical and research update. Zhuang W 외. _Frontiers in pharmacology_. 2023. [체계적 고찰] [DOI 10.3389/fphar.2023.1040778](https://doi.org/10.3389/fphar.2023.1040778) [PMID 36825153](https://pubmed.ncbi.nlm.nih.gov/36825153/) — 한약-디곡신 약동학·약력학 상호작용 종합, 좁은 치료역 약물 병용 주의.
 [^28]: Efficacy of Different Traditional Chinese Medicine Injections in the Treatment of Coronary Microvascular Dysfunction. Peng S 외. _Natural Product Communications_. 2025-11. [메타분석] [DOI 10.1177/1934578x251401418](https://doi.org/10.1177/1934578x251401418) — 관상동맥 미세혈관 기능장애에 대한 중성약 주사제 비교 효과.
 [^29]: Effects of Xuefu Zhuyu Granules on Patients with Stable Coronary Heart Disease: A Double-Blind Randomized Trial. Li Y 외. _Oxidative medicine and cellular longevity_. 2021. [임상시험, 철회됨] [DOI 10.1155/2021/8877296](https://doi.org/10.1155/2021/8877296) [PMID 34326921](https://pubmed.ncbi.nlm.nih.gov/34326921/) — **철회(Retraction Notice: [PMID 37565163](https://pubmed.ncbi.nlm.nih.gov/37565163/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 혈부축어탕 계열 처방의 안정형 관상동맥질환 임상 지표 개선.

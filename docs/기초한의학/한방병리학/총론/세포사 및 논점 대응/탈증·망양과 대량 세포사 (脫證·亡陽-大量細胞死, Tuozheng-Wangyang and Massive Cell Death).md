@@ -334,7 +334,7 @@
 
 [^3]: Add-on effect of chinese herbal medicine on mortality in myocardial infarction: systematic review and meta-analysis of randomized controlled trials.. Chung VC 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [메타분석, 12022명] [DOI 10.1155/2013/675906](https://doi.org/10.1155/2013/675906) [PMID 23365612](https://pubmed.ncbi.nlm.nih.gov/23365612/) — 중약을 병용 투여했을 때 전원 사망률(RRR 37%)과 심장 원인 사망률(RRR 39%)이 유의하게 감소하였으며, 심원성 쇼크, 심부정맥, 심근 재경색, 심부전, 협심증 및 전체 심장 사건의 위험을 낮추는 데 효과적이었다.
 
-[^7]: [Meta-analysis of Shenmai injection treatment for acute myocardial infarction].. Hu J 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2012-09. [메타분석] [PMID 23285929](https://pubmed.ncbi.nlm.nih.gov/23285929/) — 신매주사액을 표준 치료와 병용 투여한 군에서 입원 중 사망률, 심부전, 쇼크 및 재경색 발생률이 유의하게 감소하였으며, 심각한 이상반응은 보고되지 않아 안전성과 유효성 가능성이 확인되었다.
+[^7]: [Meta-analysis of Shenmai injection treatment for acute myocardial infarction].. Hu J 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2012-09. [메타분석] [PMID 23285929](https://pubmed.ncbi.nlm.nih.gov/23285929/) — 삼맥주사액을 표준 치료와 병용 투여한 군에서 입원 중 사망률, 심부전, 쇼크 및 재경색 발생률이 유의하게 감소하였으며, 심각한 이상반응은 보고되지 않아 안전성과 유효성 가능성이 확인되었다.
 
 [^8]: The effect of Chinese herbal medicine on hemorrhagic shock: A systematic review and meta-analysis.. Wang DL 외. _Complementary therapies in medicine_. 2016-12. [메타분석, 1076명] [DOI 10.1016/j.ctim.2016.09.014](https://doi.org/10.1016/j.ctim.2016.09.014) [PMID 27912961](https://pubmed.ncbi.nlm.nih.gov/27912961/) — 중약을 표준 치료와 병용했을 때, 표준 치료 단독군에 비해 사망률과 다장기부전증후군(MODS) 발생률이 유의하게 감소하였으며 혈압 상승, 심박수 조절, 소변량 증가 등 증상 개선 효과가 나타났고 심각한 이상반응은 보고되지 않았다.
 

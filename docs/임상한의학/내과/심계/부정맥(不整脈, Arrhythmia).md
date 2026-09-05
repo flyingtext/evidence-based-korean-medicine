@@ -23,10 +23,10 @@
 
 | 하위 표제어 | KCD-8 코드 | 개념 | 주요 한의 중재 근거 |
 |---|---|---|---|
-| **심방세동(atrial fibrillation)** | I48 | 가장 흔한 지속성 부정맥. 심방의 불규칙한 전기 활동으로 동리듬이 소실 | 온심과립(溫心顆粒)·신송양심캡슐·침·이침[^5][^6][^7][^8] |
+| **심방세동(atrial fibrillation)** | I48 | 가장 흔한 지속성 부정맥. 심방의 불규칙한 전기 활동으로 동리듬이 소실 | 온심과립(溫心顆粒)·삼송양심캡슐·침·이침[^5][^6][^7][^8] |
 | **심방조동(atrial flutter)** | I48.3-I48.4 | 심방 내 규칙적인 대회귀(macro-reentry) 회로에 의한 빠른 심방 박동 | 심방세동과 유사한 병기·치법 적용, 침이 아미오다론 정맥주사와 유사한 전환 효과[^70] |
 | **상심실성빈맥(supraventricular tachycardia)** | I47.1 | 방실결절·부전도로를 포함한 심방 이상에서 기원하는 발작성 빈맥 | 내관혈(PC6) 자침·완관자(腕踝) 침, 메타분석 근거[^88][^89] |
-| **심실성부정맥(ventricular arrhythmia)** | I47.0, I49.0, I49.3 | 심실빈맥·심실세동·심실조기수축 등 심실에서 기원. 심실빈맥·세동은 응급 | 신송양심캡슐·황련생맥음·양심복맥구강액·생맥음[^9][^10][^11][^12] |
+| **심실성부정맥(ventricular arrhythmia)** | I47.0, I49.0, I49.3 | 심실빈맥·심실세동·심실조기수축 등 심실에서 기원. 심실빈맥·세동은 응급 | 삼송양심캡슐·황련생맥음·양심복맥구강액·생맥음[^9][^10][^11][^12] |
 | **서맥·방실차단(bradyarrhythmia, AV block)** | I44-I45, R00.1 | 심박수 저하 또는 방실 전도 지연·차단 | 변증시치 기반 한약·익기양음·활혈온양 중성약, 동방결절 기능부전 치험례[^13][^14] |
 | **발작성 빈맥(paroxysmal tachycardia)** | I47 | 갑작스럽게 시작·종료되는 빠른 심박동 | 부자(附子) 중독 시 양방향성 빈맥 등 안전성 보고[^15] |
 | **심근염·심근경색 후 부정맥** | I40, I21 계열 + 부정맥 병발 | 바이러스성 심근염·급성 심근경색 후 발생하는 부정맥 | 복방사신탕·사역탕·단홍주사액·황기·생맥주사[^16][^17][^18][^19] |
@@ -44,7 +44,7 @@
 ① **KCD 코드**: I48.0(발작성 심방세동)–I48.4(비정형 심방조동), I48.9(상세불명).
 ② **병인병기**: 기음양허(氣陰兩虛)로 심맥의 안정성이 무너지거나, 심락정체(心絡停滯)·어혈조체로 심방 내 혈행이 정체되어 발생한다고 본다.[^9] 고령·고혈압·판막질환·갑상선기능항진증이 유발 요인이다 [교과서적 근거].
 ③ **병태생리**: 심방 내 다발성 재진입 회로와 구조적 리모델링(섬유화·확장)이 핵심 기전이며, 뇌졸중·전신 색전증의 주요 위험 요인이다.[^30] 좌심방 용적 지수의 증가가 재발과 관련된다.[^77]
-④ **치료**: 온심과립·신송양심캡슐이 동리듬 유지·재발 방지에 효과적이며,[^5][^6] 침 치료가 아미오다론과 유사한 전환 효과를 보인다.[^70][^71] 중약 병용은 뇌졸중 위험 감소와도 연관된다.[^85]
+④ **치료**: 온심과립·삼송양심캡슐이 동리듬 유지·재발 방지에 효과적이며,[^5][^6] 침 치료가 아미오다론과 유사한 전환 효과를 보인다.[^70][^71] 중약 병용은 뇌졸중 위험 감소와도 연관된다.[^85]
 ⑤ **예후**: 뇌졸중·심부전 위험이 가장 큰 하위군으로, 항응고 요법 순응도가 예후를 좌우한다 [교과서적 근거].
 ⑥ **관리**: CHA₂DS₂-VASc 점수에 따른 항응고 요법 지속, 한약 병용 시 출혈 경향 모니터링, 정기적 심전도·심초음파 추적이 필요하다.
 
@@ -53,7 +53,7 @@
 ① **KCD 코드**: I47.0(재진입성 심실 부정맥), I49.0(심실세동·조동), I49.3(심실조기수축).
 ② **병인병기**: 심기허·심혈허로 심을 자양하지 못하거나, 담화요심으로 실화(實火)가 심신을 요란하게 하여 발생한다고 본다 [교과서적 근거].
 ③ **병태생리**: 심실 내 이소성 자동능 항진 또는 재진입이 핵심 기전이며, 기질적 심질환(허혈성 심질환·심근병증)을 동반하면 심근병증·급사 위험이 상승한다.[^7]
-④ **치료**: 신송양심캡슐이 심실조기수축 횟수·증상을 유의하게 감소시키며,[^81][^82][^83] 황련생맥음·양심복맥구강액도 효과가 보고된다.[^10][^11]
+④ **치료**: 삼송양심캡슐이 심실조기수축 횟수·증상을 유의하게 감소시키며,[^81][^82][^83] 황련생맥음·양심복맥구강액도 효과가 보고된다.[^10][^11]
 ⑤ **예후**: 기질적 심질환이 없는 양성 기외수축은 예후가 양호하나, 빈발성이거나 심질환을 동반하면 정기 추적이 필요하다 [교과서적 근거].
 ⑥ **관리**: 24시간 홀터로 부정맥 부담을 정량 추적하고, 카페인·스트레스 등 유발 요인을 조절한다.
 
@@ -121,7 +121,7 @@
 - **어혈조체(瘀血阻滯)**: 혈행이 막혀 심맥이 비조(痺阻)되는 병기로, 흉비자통(胸痺刺痛)·설질청자(舌質靑紫) 또는 어점(瘀點)이 특징이다. 관상동맥질환·심근경색 후 부정맥의 핵심 병기로, 활혈화어(活血化瘀) 치법이 적용된다.[^16][^17][^18][^19]
 - **수음능심(水飮凌心)**: 신양(腎陽)의 기화(氣化)가 무력하여 발생한 수음(水飮)이 위로 심을 압박하는 병기로("水氣凌心"), 심계·부종·해수·와위불능(臥位不能)이 동반된다. 심부전을 동반한 부정맥·만성 폐성심 부정맥과 대응한다.[^34]
 
-이 일곱 가지 병기는 서로 배타적이지 않으며, 대부분의 환자는 두세 병기가 겸병한 형태로 나타난다. 기음양허(氣陰兩虛)나 심락정체(心絡停滯) 패턴의 관상동맥질환 환자에게 신송양심캡슐 적용 시 심박변이도(HRV) 지표의 유의미한 개선을 기대할 수 있다.[^9] 서맥성 부정맥 환자는 기혈부족·음허(陰虛)·양허(陽虛) 양상을 보이며, 익기양음(益氣養陰)·활혈온양(活血溫陽) 원칙의 치료가 심박수 안정화에 도움이 된다.[^13][^14] 담음(痰飮)과 혈어(血瘀)를 동시에 고려하는 통합적 관점이 심혈관 질환 치료에 유효하며, 부정맥 환자에게 괄루사백탕·단루탕·양심활혈탕 등을 증상에 맞게 가감하여 적용한다.[^23]
+이 일곱 가지 병기는 서로 배타적이지 않으며, 대부분의 환자는 두세 병기가 겸병한 형태로 나타난다. 기음양허(氣陰兩虛)나 심락정체(心絡停滯) 패턴의 관상동맥질환 환자에게 삼송양심캡슐 적용 시 심박변이도(HRV) 지표의 유의미한 개선을 기대할 수 있다.[^9] 서맥성 부정맥 환자는 기혈부족·음허(陰虛)·양허(陽虛) 양상을 보이며, 익기양음(益氣養陰)·활혈온양(活血溫陽) 원칙의 치료가 심박수 안정화에 도움이 된다.[^13][^14] 담음(痰飮)과 혈어(血瘀)를 동시에 고려하는 통합적 관점이 심혈관 질환 치료에 유효하며, 부정맥 환자에게 괄루사백탕·단루탕·양심활혈탕 등을 증상에 맞게 가감하여 적용한다.[^23]
 
 **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 위 일곱 병기 중 어느 것이 주된 병기인지는 개별 환자의 증상·설맥·유발 요인에 따라 재평가해야 하며, "부정맥=자감초탕" 식의 획일적 처방은 변증 원칙에 어긋난다.
 
@@ -334,8 +334,8 @@
 
 - 온심과립(溫心顆粒, Wenxin Granule)은 심방세동 환자의 전환 후 동리듬 유지에 이르베사르탄·아미오다론과 병용 시 단독 또는 2제 병용보다 좌심방·좌심실 구조적 개선과 동리듬 유지율 향상에 더 효과적이다(임상시험, 41명).[^5]
 - 온심과립은 부정맥을 동반한 만성 폐성심 환자에게 표준 치료와 병용 시 임상 반응률·심전도 개선 효과를 유의하게 높이며, 이상반응 증가는 없다(메타분석).[^34]
-- 신송양심캡슐(신송양심, Shensong Yangxin)은 관상동맥질환 환자의 심실조기수축·한의학적 변증 증후군 개선과 심혈관 자율신경 기능 향상에 효과적이다(임상시험, 221명).[^9]
-- 신송양심캡슐은 심방세동 환자의 전극도자 절제술 후 항부정맥제와 병용 시 조기 재발률을 낮추고, 지속성 심방세동 환자에서 후기 재발률을 유의하게 감소시킨다(메타분석, 2,199명).[^6]
+- 삼송양심캡슐(삼송양심, Shensong Yangxin)은 관상동맥질환 환자의 심실조기수축·한의학적 변증 증후군 개선과 심혈관 자율신경 기능 향상에 효과적이다(임상시험, 221명).[^9]
+- 삼송양심캡슐은 심방세동 환자의 전극도자 절제술 후 항부정맥제와 병용 시 조기 재발률을 낮추고, 지속성 심방세동 환자에서 후기 재발률을 유의하게 감소시킨다(메타분석, 2,199명).[^6]
 - 황련생맥음(黃連生脈飮)은 심근 수축력 강화·관상동맥 혈류 개선·심근 대사 촉진을 통해 심실성·심방성·결절성 기외수축 치료에 유의미한 효과를 나타낸다(증례, 357명).[^10]
 - 양심복맥구강액(Yangxin Fumai Oral Liquid)은 기외수축 환자에게 프로파페논과 유사한 치료 효과를 보이면서 증상 개선이 더 뛰어나고 부작용이 적다(임상시험, 60명).[^11]
 - 복방사신탕(Fufang Sishen Decoction)은 바이러스성 심근염 후 부정맥 치료에 프로파페논과 유사한 항부정맥 효과를 보이며 부작용이 거의 없다(임상시험, 102명).[^16]
@@ -352,8 +352,8 @@
 - 괄루사백탕·단루탕·양심활혈탕 등은 담음·혈어를 동시에 고려한 변증으로 부정맥 환자에게 가감 적용된다(문헌고찰).[^23]
 - 산사(山査, Hawthorn)는 혈관 확장·항산화·약한 양성 변력 작용·항부정맥 효과를 통해 심혈관 기능을 보조한다(문헌고찰).[^39][^40]
 - 베르베린(Berberine)은 이상지질혈증·고혈당·고혈압·심부전 등 심혈관 대사 질환에 다각적 치료 효과를 나타낸다(문헌고찰).[^41]
-- 신송양심캡슐은 기질적 심질환 유무와 관계없이 심실조기수축(PVC) 횟수를 유의하게 감소시키고 관련 증상을 개선한다(임상시험, 859명, 이중맹검 다기관 연구).[^81][^83]
-- 신송양심캡슐은 동성 서맥을 동반하여 베타차단제 등 일반적인 항부정맥제 사용이 어려운 빈발성 심실조기수축 환자에게 효과적인 대안이 될 수 있다(임상시험, 333명).[^82]
+- 삼송양심캡슐은 기질적 심질환 유무와 관계없이 심실조기수축(PVC) 횟수를 유의하게 감소시키고 관련 증상을 개선한다(임상시험, 859명, 이중맹검 다기관 연구).[^81][^83]
+- 삼송양심캡슐은 동성 서맥을 동반하여 베타차단제 등 일반적인 항부정맥제 사용이 어려운 빈발성 심실조기수축 환자에게 효과적인 대안이 될 수 있다(임상시험, 333명).[^82]
 - 신수녕(信舒寧, Xin Su Ning)은 담열심신(痰熱心神) 변증의 심실성 부정맥, 특히 심근 허혈·바이러스성 심근염으로 인한 부정맥 환자에게 유효한 치료 옵션으로 정리된다(문헌고찰, 861명).[^80]
 - 중의학적 치료는 부정맥에서 위약 대비 유효하며, 특히 심실조기수축 치료에 효과적이다(메타분석, 2,846명).[^79]
 - 바이러스성 심근염 환자의 심실조기수축은 한의학적 시간생물학·변증 유형에 따라 뚜렷한 일중(日中) 발생 분포 차이를 보인다(관찰연구, 240명).[^84]
@@ -444,8 +444,8 @@
 
 | 치료 범주 | 대표 중재 | 최고 근거 수준 | 주요 결과 지표 |
 |---|---|---|---|
-| 한약 — 심방세동 | 온심과립, 신송양심캡슐 | 메타분석[^6][^34] | 동리듬 유지율, 재발률 |
-| 한약 — 심실성부정맥 | 신송양심캡슐, 황련생맥음 | 임상시험(다기관 이중맹검, 859명)[^81] | PVC 횟수, 증상 점수 |
+| 한약 — 심방세동 | 온심과립, 삼송양심캡슐 | 메타분석[^6][^34] | 동리듬 유지율, 재발률 |
+| 한약 — 심실성부정맥 | 삼송양심캡슐, 황련생맥음 | 임상시험(다기관 이중맹검, 859명)[^81] | PVC 횟수, 증상 점수 |
 | 한약 — 서맥성 부정맥 | 익기양음·활혈온양 중성약 | 관찰연구(116명)[^13] | 심박수, 유효율 |
 | 한약 — 심근염·MI 후 부정맥 | 복방사신탕, 사역탕, 단홍주사액 | 메타분석(979명)[^18] | 부정맥·심부전·사망률 |
 | 침구 — 심방세동 전환 | 체침(내관·신문·심수) | 메타분석[^74] | 동성 리듬 전환율 |
@@ -580,10 +580,10 @@
 **시나리오 3 — 항응고제 복용 중인 심방세동 환자**: 68세 여성이 심방세동으로 NOAC을 복용 중이며, 심계·흉비·설질청자(어점)를 동반한다. **어혈조체** 변증에 해당하나, 활혈화어 본초(단삼 등)를 항응고제와 병용할 경우 이론적 출혈 위험 증강 가능성이 있으므로(제4편 16절 참조), 출혈 경향(잇몸출혈·멍·대변잠혈)을 각별히 관찰하고 필요시 처방을 조정한다.
 
 **Q1. 부정맥에 한약이 실제로 효과가 있나요?**
-네. 전통 한약(THM)은 단독 또는 양약과 병용 시 심방세동·심실조기수축·빈맥·서맥 등 다양한 부정맥의 유효율을 유의하게 개선하며 심각한 부작용은 보고되지 않았습니다(메타분석).[^36] 온심과립은 심방세동 동리듬 유지에, 신송양심캡슐은 심실조기수축·절제술 후 재발 방지에 효과적입니다.[^5][^6][^9] 다만 표준 치료를 대체하기보다 보조 요법으로 변증에 따라 병행하는 것이 바람직합니다.
+네. 전통 한약(THM)은 단독 또는 양약과 병용 시 심방세동·심실조기수축·빈맥·서맥 등 다양한 부정맥의 유효율을 유의하게 개선하며 심각한 부작용은 보고되지 않았습니다(메타분석).[^36] 온심과립은 심방세동 동리듬 유지에, 삼송양심캡슐은 심실조기수축·절제술 후 재발 방지에 효과적입니다.[^5][^6][^9] 다만 표준 치료를 대체하기보다 보조 요법으로 변증에 따라 병행하는 것이 바람직합니다.
 
 **Q2. 어떤 한약 처방이 흔히 쓰이나요?**
-온심과립·신송양심캡슐·황련생맥음·양심복맥구강액·복방사신탕·사역탕·생맥산·단홍주사액·황기·생맥주사 등이 보고됩니다.[^5][^6][^9][^10][^11][^16][^17][^18][^19][^35] 변증에 따라 기음양허에는 생맥산·온심과립, 혈어에는 단홍주사액·단삼, 양허·한증에는 사역탕, 심락정체에는 신송양심캡슐을 고려합니다.[^2][^3][^4][^9][^17] 개별 처방은 반드시 한의사의 변증에 따라 적용해야 합니다.
+온심과립·삼송양심캡슐·황련생맥음·양심복맥구강액·복방사신탕·사역탕·생맥산·단홍주사액·황기·생맥주사 등이 보고됩니다.[^5][^6][^9][^10][^11][^16][^17][^18][^19][^35] 변증에 따라 기음양허에는 생맥산·온심과립, 혈어에는 단홍주사액·단삼, 양허·한증에는 사역탕, 심락정체에는 삼송양심캡슐을 고려합니다.[^2][^3][^4][^9][^17] 개별 처방은 반드시 한의사의 변증에 따라 적용해야 합니다.
 
 **Q3. 침·전침·이침도 부정맥에 도움이 되나요?**
 네. 침 치료는 부정맥 환자에게 유의미한 이상반응 증가 없이 안전한 보조 요법입니다(메타분석, 356명).[^42] 급성 심방세동 환자에게 이침과 내관혈(PC6) 자침으로 약물 없이 동리듬으로 전환시킨 사례가 보고되며,[^8] 내관혈 침은 심박변이도(HRV)를 조절합니다.[^29] 복강경 수술 중 내관·외관 TEAS는 수술 중 부정맥 위험을 낮춥니다(임상시험, 60명).[^22]
@@ -608,7 +608,7 @@
 #### 20-1. 근거 요약
 
 - 온심과립이 심방세동 동리듬 유지·만성 폐성심 부정맥 개선에 효과적이었다(임상시험·메타분석).[^5][^34]
-- 신송양심캡슐이 심실조기수축·절제술 후 심방세동 재발 방지에 효과적이었다(임상시험·메타분석).[^6][^9]
+- 삼송양심캡슐이 심실조기수축·절제술 후 심방세동 재발 방지에 효과적이었다(임상시험·메타분석).[^6][^9]
 - 전통 한약(THM)이 다양한 부정맥의 유효율을 유의하게 개선했다(메타분석).[^36]
 - 황련생맥음·양심복맥구강액·복방사신탕이 기외수축·심근염 후 부정맥에 효과적이었다(임상시험·증례).[^10][^11][^16]
 - 사역탕·단홍주사액·황기·생맥주사가 재관류 부정맥·심근경색 후 부정맥을 개선했다(임상시험·메타분석).[^17][^18][^19]
@@ -617,7 +617,7 @@
 #### 20-2. 임상 적용
 
 - 부정맥 환자에게 표준 치료와 함께 변증에 따른 한약을 병행하여 증상 완화·재발 방지를 도모할 수 있다.[^1][^36]
-- 심방세동에는 온심과립·신송양심캡슐, 심실조기수축에는 신송양심캡슐·황련생맥음·양심복맥구강액, 서맥성 부정맥에는 익기양음·활혈온양 중성약, 심근염·심근경색 후 부정맥에는 복방사신탕·사역탕·단홍주사액·황기·생맥주사를 고려한다.[^5][^6][^9][^10][^11][^13][^16][^17][^18][^19]
+- 심방세동에는 온심과립·삼송양심캡슐, 심실조기수축에는 삼송양심캡슐·황련생맥음·양심복맥구강액, 서맥성 부정맥에는 익기양음·활혈온양 중성약, 심근염·심근경색 후 부정맥에는 복방사신탕·사역탕·단홍주사액·황기·생맥주사를 고려한다.[^5][^6][^9][^10][^11][^13][^16][^17][^18][^19]
 - 침·이침·전침·TEAS·부항을 보조적으로 병행하여 자율신경 기능 회복·심장 안정화를 도모한다.[^8][^22][^28][^29][^42]
 - 한약 투여 시 심전도·HRV·전해질·혈압을 주기적으로 모니터링하고, 디곡신·항부정맥제 등 양방 약물과의 상호작용에 주의한다.[^1][^48][^49]
 
@@ -636,7 +636,7 @@
 #### 20-3. 경혈/처방 연관 (교차 참조)
 
 - 경혈: 내관혈(內關, PC6) 침이 부정맥 환자의 HRV를 조절하며,[^29] 이침(耳鍼, 신문혈 포함)과 내관혈(PC6) 자침이 급성 심방세동을 동리듬으로 전환시킨다.[^8] 복강경 수술 중 내관(PC6)·외관(外關, TE5) 경피혈위전침(TEAS)이 수술 중 부정맥 위험을 낮춘다.[^22]
-- 약재/처방: 온심과립(溫心顆粒)·신송양심캡슐(參松養心)·황련생맥음(黃連生脈飮)·양심복맥구강액·복방사신탕(複方四神湯)·사역탕(四逆湯)·생맥산(生脈散)·단홍주사액(丹紅注射液)·황기(黃芪)·생맥주사(生脈注射)·옥시마트린·리신환·천왕보심단(天王補心丹)·청간소요산(淸肝逍遙散)·괄루사백탕·단루탕·양심활혈탕·산사(山査)·베르베린(黃連) 등이 보고된다.[^5][^6][^9][^10][^11][^16][^17][^18][^19][^23][^26][^33][^35][^38][^39][^40][^41]
+- 약재/처방: 온심과립(溫心顆粒)·삼송양심캡슐(參松養心)·황련생맥음(黃連生脈飮)·양심복맥구강액·복방사신탕(複方四神湯)·사역탕(四逆湯)·생맥산(生脈散)·단홍주사액(丹紅注射液)·황기(黃芪)·생맥주사(生脈注射)·옥시마트린·리신환·천왕보심단(天王補心丹)·청간소요산(淸肝逍遙散)·괄루사백탕·단루탕·양심활혈탕·산사(山査)·베르베린(黃連) 등이 보고된다.[^5][^6][^9][^10][^11][^16][^17][^18][^19][^23][^26][^33][^35][^38][^39][^40][^41]
 - 본 문서는 임상한의학 내과 심계(心系) 분류에 속하며, 심계(心悸)·정충(怔忡)의 생리적 기초는 한방생리학의 심(心, Heart) 문서를, 협심증·고지혈증·고혈압·뇌졸중 등 인접 심뇌혈관 질환은 각각의 내과 문서를 함께 참고할 수 있다.
 
 [^1]: 부정맥 진단·분류(KCD-8 I47~I49) 및 병태생리. 교과서적 임상 진단 이론. 근거 미확인.
@@ -644,10 +644,10 @@
 [^3]: Effectiveness and safety of traditional herbal medicine on cardiac arrhythmic condition: A systematic review and meta-analysis of randomized control clinical trial. [메타분석] [DOI 10.1097/MD.0000000000038441](https://doi.org/10.1097/MD.0000000000038441) [PMID 38847675](https://pubmed.ncbi.nlm.nih.gov/38847675/) — 전통 한약이 부정맥 유효율 개선.
 [^4]: Experience of Traditional Chinese Medicine Master Lei Zhongyi in Treating Heart Diseases. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(12).07](https://doi.org/10.53469/jcmp.2025.07(12).07) — 담음·혈어 통합 변증 처방.
 [^5]: Effect of combination of Chinese and Western medicines on sinus rhythm maintenance in patients with auricular fibrillation after conversion. [임상시험, 41명] [PMID 16983923](https://pubmed.ncbi.nlm.nih.gov/16983923/) — 온심과립 병용이 동리듬 유지율 향상.
-[^6]: A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation. [메타분석, 2,199명] [DOI 10.1016/j.jep.2026.121928](https://doi.org/10.1016/j.jep.2026.121928) [PMID 42219066](https://pubmed.ncbi.nlm.nih.gov/42219066/) — 신송양심캡슐이 절제술 후 재발률 감소.
+[^6]: A systematic review and meta-analysis of randomized controlled trials on the efficacy of Shensong Yangxin capsule for recurrence of atrial fibrillation after catheter ablation. [메타분석, 2,199명] [DOI 10.1016/j.jep.2026.121928](https://doi.org/10.1016/j.jep.2026.121928) [PMID 42219066](https://pubmed.ncbi.nlm.nih.gov/42219066/) — 삼송양심캡슐이 절제술 후 재발률 감소.
 [^7]: Acupuncture Antiarrhythmic Effects on Drug Refractory Persistent Atrial Fibrillation: Study Protocol for a Randomized, Controlled Trial. [임상시험, 80명] [DOI 10.1155/2015/613970](https://doi.org/10.1155/2015/613970) — 지속성 심방세동 침 치료 프로토콜.
 [^8]: Cardioversion of Atrial Fibrillation with Acupuncture. [증례 보고, 1명] [DOI 10.1089/acu.2021.0022](https://doi.org/10.1089/acu.2021.0022) [PMID 34239665](https://pubmed.ncbi.nlm.nih.gov/34239665/) — 이침·내관혈이 심방세동 전환.
-[^9]: Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function in patients with coronary heart disease. [임상시험, 221명] [PMID 16248237](https://pubmed.ncbi.nlm.nih.gov/16248237/) — 신송양심캡슐이 심실조기수축·HRV 개선.
+[^9]: Effect of shensong yangxin capsule on ventricular premature beat and cardiovascular autonomic nervous function in patients with coronary heart disease. [임상시험, 221명] [PMID 16248237](https://pubmed.ncbi.nlm.nih.gov/16248237/) — 삼송양심캡슐이 심실조기수축·HRV 개선.
 [^10]: TCM treatment of extrasystole with huanglian shengmai yin—a report of 357 cases. [증례 보고, 357명] [PMID 12747194](https://pubmed.ncbi.nlm.nih.gov/12747194/) — 황련생맥음이 기외수축 개선.
 [^11]: Clinical and experimental study of effect of yangxin fumai oral liquid in treating patients with extrasystole. [임상시험, 60명] [PMID 12577393](https://pubmed.ncbi.nlm.nih.gov/12577393/) — 양심복맥구강액이 기외수축 개선.
 [^12]: Investigation of Sheng Mai Yin in the treatment of anthracycline-induced frequent premature ventricular contractions in cancer patients. [임상시험, 212명] [DOI 10.3389/fcvm.2025.1670053](https://doi.org/10.3389/fcvm.2025.1670053) [PMID 41367381](https://pubmed.ncbi.nlm.nih.gov/41367381/) — 생맥음 항암 유발 PVC 프로토콜.
@@ -720,7 +720,7 @@
 [^79]: Efficacy and Safety of Chinese Medicine in Treating Arrhythmia: Meta-Analysis of Randomized Controlled Trials. _Evidence-Based Complementary and Alternative Medicine_. 2021-10-29. [메타분석, 2846명] [DOI 10.1155/2021/9960471](https://doi.org/10.1155/2021/9960471) — 부정맥 치료에 있어 중의학/한의학적 치료는 위약 대비 유효하며, 특히 심실조기수축 치료에 효과적이다.
 [^80]: Xin Su Ning—A Review of Basic and Clinical Pharmacology Integrated With Traditional Chinese Medicine Antiarrhythmic Theory. _Frontiers in Pharmacology_. 2021-11-11. [문헌 고찰, 861명] [DOI 10.3389/fphar.2021.657484](https://doi.org/10.3389/fphar.2021.657484) — 신수녕(XSN)은 담열심신(痰熱心神) 변증의 심실성 부정맥, 특히 심근 허혈 및 바이러스성 심근염으로 인한 부정맥 환자에게 유효한 치료 옵션이 될 수 있다.
 [^81]: Evaluation of the traditional Chinese medicine Shensongyangxin capsule on treating premature ventricular contractions: a randomized, double-blind, controlled multicenter trial. _Chinese Medical Journal_. 2011-01. [임상시험, 859명] [DOI 10.3760/cma.j.issn.0366-6999.2011.1.015](https://doi.org/10.3760/cma.j.issn.0366-6999.2011.1.015) — 신양양심(SSYX) 캡슐은 기질적 심장 질환의 유무와 상관없이 조기 심실 수축(PVC) 횟수를 유의하게 감소시키고 관련 증상을 개선하는 효과가 확인되었다.
-[^82]: Acute Efficacy of a Traditional Chinese Medicine for Treatment of Frequent Premature Ventricular Contractions in Patients with Concomitant Sinus Bradycardia: Results from a Double-Blind, Placebo-Controlled, Multicentre, Randomized Clinical Trial. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험, 333명] [DOI 10.1155/2019/3917282](https://doi.org/10.1155/2019/3917282) [PMID 30949218](https://pubmed.ncbi.nlm.nih.gov/30949218/) — 신송양심(SSYX) 한약은 동서맥을 동반하여 베타 차단제 등의 일반적인 항부정맥제 사용이 어려운 빈번한 심실 조기 수축 환자에게 효과적인 대안이 될 수 있다.
+[^82]: Acute Efficacy of a Traditional Chinese Medicine for Treatment of Frequent Premature Ventricular Contractions in Patients with Concomitant Sinus Bradycardia: Results from a Double-Blind, Placebo-Controlled, Multicentre, Randomized Clinical Trial. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험, 333명] [DOI 10.1155/2019/3917282](https://doi.org/10.1155/2019/3917282) [PMID 30949218](https://pubmed.ncbi.nlm.nih.gov/30949218/) — 삼송양심(SSYX) 한약은 동서맥을 동반하여 베타 차단제 등의 일반적인 항부정맥제 사용이 어려운 빈번한 심실 조기 수축 환자에게 효과적인 대안이 될 수 있다.
 [^83]: Evaluation of the traditional Chinese Medicine Shensongyangxin capsule on treating premature ventricular contractions: a randomized, double-blind, controlled multicenter trial. _Chinese medical journal_. 2011-01. [임상시험, 859명] [PMID 21362312](https://pubmed.ncbi.nlm.nih.gov/21362312/) — 신양양심(SSYX) 캡슐은 기질적 심질환 유무와 관계없이 심실조기수축(PVC) 횟수를 유의하게 감소시키고 동반된 가슴 답답함, 불면 등의 증상을 개선하는 데 효과적이다.
 [^84]: [Study on pathological rhythm of traditional Chinese medicine about circadian distribution of premature ventricular contractions in 240 patients with viral myocarditis]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2005-09. [관찰연구, 240명] [DOI 10.3736/jcim20050505](https://doi.org/10.3736/jcim20050505) [PMID 16159566](https://pubmed.ncbi.nlm.nih.gov/16159566/) — 바이러스성 심근염 환자의 심실 조기 수축(PVC) 발생은 한의학적 시간 생물학 및 변증 유형에 따라 뚜렷한 일중 분포 차이를 보인다.
 [^85]: Reduced Stroke Risk among Patients with Atrial Fibrillation Receiving Chinese Herbal Medicines Treatment: Analysis of Domestic Data in Taiwan. _Medicina (Kaunas, Lithuania)_. 2020-06-09. [관찰연구, 5340명] [DOI 10.3390/medicina56060282](https://doi.org/10.3390/medicina56060282) [PMID 32527065](https://pubmed.ncbi.nlm.nih.gov/32527065/) — 심방세동(Atrial Fibrillation) 환자에게 기존 표준 치료와 함께 중약(Chinese Herbal Medicines)을 병용 투여하는 것이 뇌졸중 발생 위험을 낮추는 것과 연관이 있으며, 특히 2년 이상의 장기 복용 시 그 효과가 더 두드러집니다.
@@ -729,7 +729,7 @@
 [^88]: [Clinical observation on wrist-ankle acupuncture for treatment of paroxysmal supraventricular tachycardia]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-12. [임상시험, 95명] [PMID 17313005](https://pubmed.ncbi.nlm.nih.gov/17313005/) — 발작성 상심실성 빈맥 환자에게 완상혈(腕相穴)을 이용한 손목-발목 침치료를 시행했을 때, 일반적인 약물 치료(딜티아젬)보다 유효율이 높고 장기적인 치료 효과가 우수한 것으로 나타났다.
 [^89]: [Effectiveness and safety of acupuncture for supraventricular tachycardia: a systematic review and meta-analysis]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-11. [메타분석, 323명] [PMID 25675588](https://pubmed.ncbi.nlm.nih.gov/25675588/) — 상심실성 빈맥(SVT) 환자에게 鍼(침, acupuncture) 치료를 시행했을 때 심박수 감소 및 임상적 유효율 측면에서 대조군 및 딜티아젬(Diltiazem)보다 우수한 효과를 보였으며 안전성이 확인되었다.
 [^90]: Effects of electroacupuncture on the incidence of postoperative supraventricular arrhythmia and sleep quality in patients undergoing thoracoscopic surgery: a randomized controlled trial. _Frontiers in neurology_. 2025. [임상시험, 77명] [DOI 10.3389/fneur.2025.1580759](https://doi.org/10.3389/fneur.2025.1580759) [PMID 41356247](https://pubmed.ncbi.nlm.nih.gov/41356247/) — 폐암 환자의 흉강경 수술 전후에 전침(電鍼, electroacupuncture) 치료를 시행하면 수술 후 24시간 이내의 상심실성 빈맥(SVT) 발생률을 유의하게 낮추고 수면의 질을 개선할 수 있다.
-[^91]: Prof. ZHANG Yi's experience in treating severe arrhythmia. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-03. [증례 보고, 5명] [DOI 10.1016/s0254-6272(10)60012-x](https://doi.org/10.1016/s0254-6272(10)60012-x) [PMID 20397463](https://pubmed.ncbi.nlm.nih.gov/20397463/) — 심각한 부정맥 환자에게 知甘草湯(지감초탕)을 기본으로 하여 환자의 변증(음양허, 양기부족, 담음 및 어혈 등)에 따라 가감하여 처방했을 때 서맥과 빈맥 모두에서 우수한 치료 효과를 보였다.
+[^91]: Prof. ZHANG Yi's experience in treating severe arrhythmia. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-03. [증례 보고, 5명] [DOI 10.1016/s0254-6272(10)60012-x](https://doi.org/10.1016/s0254-6272(10)60012-x) [PMID 20397463](https://pubmed.ncbi.nlm.nih.gov/20397463/) — 심각한 부정맥 환자에게 知甘草湯(자감초탕)을 기본으로 하여 환자의 변증(음양허, 양기부족, 담음 및 어혈 등)에 따라 가감하여 처방했을 때 서맥과 빈맥 모두에서 우수한 치료 효과를 보였다.
 [^92]: Antioxidant Effect of Tianwang Buxin Pills A Traditional Chinese Medicine Formula: Double-Blind, Randomized Controlled Trial. _The American Journal of Chinese Medicine_. 2009-01. [임상시험, 39명] [DOI 10.1142/s0192415x09006795](https://doi.org/10.1142/s0192415x09006795) — 본 연구는 건강한 성인을 대상으로 천왕보심단의 항산화 및 스트레스 완화 효과를 검증하였으나, 위약군 대비 d-ROMs, SRI, WHOQOL-BREF 지표에서 유의미한 차이가 나타나지 않았습니다.
 [^93]: Successful treatment of sick sinus syndrome with Traditional Chinese Medicine. _International journal of clinical pharmacy_. 2012-08. [증례 보고, 1명] [DOI 10.1007/s11096-012-9649-8](https://doi.org/10.1007/s11096-012-9649-8) [PMID 22622592](https://pubmed.ncbi.nlm.nih.gov/22622592/) — 인공심박동기(Pacemaker) 삽입이 불가능하거나 거부하는 동결절 부전 증후군 환자에게 중의학적 처방이 유효한 대안이 될 수 있음을 시사합니다.
 [^94]: Compound Tongyang Fumai decoction improves quality of life in sick sinus syndrome: a randomized controlled study. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2024-12. [임상시험, 224명] [DOI 10.19852/j.cnki.jtcm.2024.06.010](https://doi.org/10.19852/j.cnki.jtcm.2024.06.010) [PMID 39617710](https://pubmed.ncbi.nlm.nih.gov/39617710/) — 통양부맥탕(通陽扶脈湯)은 동결절병(SSS) 환자의 평균 심박수를 높이고 R-R 간격을 단축시키며, 신체적·정신적 삶의 질과 불안 및 우울 증상을 유의하게 개선하는 효과가 있다.
