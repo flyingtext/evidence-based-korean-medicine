@@ -1,4 +1,4 @@
-# 백출(白朮, Atractylodes)
+# 백출(白朮, Atractylodis Rhizoma Alba)
 
 > 출처: 근거 기반 한의학 저장소 · 최초 작성일: 2026-08-15 · 보강일: 2026-08-27
 
