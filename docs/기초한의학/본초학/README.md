@@ -502,7 +502,7 @@
 
 ### 18-3. 삽정축뇨지대약(澀精縮尿止帶藥)
 
-- 오미자(五味子, Schisandra chinensis)
+- 오미자(五味子, Schisandrae Fructus)
 - 연자육(蓮子肉, Nelumbinis Semen) — (작성 예정)
 - 검실(芡實, Euryales Semen) — (작성 예정)
 - 산수유(山茱萸, Corni Fructus) — (작성 예정)
