@@ -382,7 +382,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^3]: Possible Utility of the Basophil Activation Test for the Analysis of Mechanisms Involved in Allergic Transfusion Reactions. Hirayama F 외. _Transfusion medicine reviews_. 2018-01. [문헌 고찰] [DOI 10.1016/j.tmrv.2017.09.002](https://doi.org/10.1016/j.tmrv.2017.09.002) [PMID 29017820](https://pubmed.ncbi.nlm.nih.gov/29017820/) — BAT가 수혈 알레르기 반응의 원인 물질 규명과 인과관계 입증에 유용한 도구임을 제시한다.
 
-[^4]: Basophils promote innate lymphoid cell responses in inflamed skin. Kim BS 외. _Journal of immunology_. 2014-10-01. [실험연구] [DOI 10.4049/jimmunol.1401307](https://doi.org/10.4049/jimmunol.1401307) [PMID 25156365](https://pubmed.ncbi.nlm.nih.gov/25156365/) — 호염기구 유래 IL-4가 ILC2를 증식시켜 제2형 피부 염증을 심화시키는 기전을 규명하였다.
+[^4]: Basophils promote innate lymphoid cell responses in inflamed skin. Kim BS 외. _Journal of immunology_. 2014-10-01. [임상시험, 인간 데이터 한정] [DOI 10.4049/jimmunol.1401307](https://doi.org/10.4049/jimmunol.1401307) [PMID 25156365](https://pubmed.ncbi.nlm.nih.gov/25156365/) — 호염기구 유래 IL-4가 ILC2를 증식시켜 제2형 피부 염증을 심화시키는 기전을 규명하였다.
 
 [^5]: Cytokines produced by innate immune cells in IgG4-related disease. Yoshikawa T 외. _Modern rheumatology_. 2019-03. [문헌 고찰] [DOI 10.1080/14397595.2018.1536364](https://doi.org/10.1080/14397595.2018.1536364) [PMID 30334477](https://pubmed.ncbi.nlm.nih.gov/30334477/) — 선천 면역 세포(호염기구 포함)가 IgG4-RD의 적응 면역 반응을 증폭시키는 역할을 정리하였다.
 
@@ -396,7 +396,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^10]: Utility of Basophil Activation Test in a Case of Daisaikoto- and Yokukansan-induced Lung Injury. Kawahara T 외. _Internal medicine (Tokyo, Japan)_. 2021-05-15. [증례 보고] [DOI 10.2169/internalmedicine.6296-20](https://doi.org/10.2169/internalmedicine.6296-20) [PMID 33361680](https://pubmed.ncbi.nlm.nih.gov/33361680/) — 한약(대시호탕·억간산) 유발 폐 손상에서 BAT가 원인 약물 식별에 유용했던 사례다.
 
-[^11]: Hypersensitivity reactions to neuromuscular blocking agents. Mertes PM 외. _Current pharmaceutical design_. 2008. [문헌 고찰] [DOI 10.2174/138161208786369704](https://doi.org/10.2174/138161208786369704) [PMID 18991700](https://pubmed.ncbi.nlm.nih.gov/18991700/) — 근이완제 과민반응 평가 시 피내검사와 BAT 병행이 권장됨을 정리하였다.
+[^11]: Hypersensitivity reactions to neuromuscular blocking agents. Mertes PM 외. _Current pharmaceutical design_. 2008. [문헌 고찰, 인간 데이터 한정] [DOI 10.2174/138161208786369704](https://doi.org/10.2174/138161208786369704) [PMID 18991700](https://pubmed.ncbi.nlm.nih.gov/18991700/) — 근이완제 과민반응 평가 시 피내검사와 BAT 병행이 권장됨을 정리하였다.
 
 [^12]: In Search of Clinical Markers: Indicators of Exposure in Dampness and Mold Hypersensitivity Syndrome (DMHS). Kirsi Vaali 외. _Journal of Fungi_. 2023-03-07. [관찰연구] [DOI 10.3390/jof9030332](https://doi.org/10.3390/jof9030332) — 환경성 과민증 환자에서는 표준 BAT 프로토콜보다 낮은 농도에서도 호염기구가 반응함을 확인하였다.
 
@@ -404,13 +404,13 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^14]: Anti-DENV IgE correlates with dengue severity and triggers FcεRI-dependent basophil activation inhibited by Omalizumab. Chan-In W 외. _Scientific reports_. 2026-03-19. [관찰연구] [DOI 10.1038/s41598-026-43199-z](https://doi.org/10.1038/s41598-026-43199-z) [PMID 41857105](https://pubmed.ncbi.nlm.nih.gov/41857105/) — 뎅기출혈열에서 IgE 매개 호염기구 활성화가 중증도에 기여하며 오말리주맙으로 억제됨을 보여준다.
 
-[^15]: Two galactose-α-1,3-galactose carrying peptidases from pork kidney mediate anaphylactogenic responses in delayed meat allergy. Hilger C 외. _Allergy_. 2016-05. [실험연구] [DOI 10.1111/all.12835](https://doi.org/10.1111/all.12835) [PMID 26728983](https://pubmed.ncbi.nlm.nih.gov/26728983/) — 돼지 신장 유래 알파갈 단백질이 호염기구를 활성화해 지연성 육류 알레르기를 유발함을 규명하였다.
+[^15]: Two galactose-α-1,3-galactose carrying peptidases from pork kidney mediate anaphylactogenic responses in delayed meat allergy. Hilger C 외. _Allergy_. 2016-05. [실험연구, 인간 데이터 한정] [DOI 10.1111/all.12835](https://doi.org/10.1111/all.12835) [PMID 26728983](https://pubmed.ncbi.nlm.nih.gov/26728983/) — 돼지 신장 유래 알파갈 단백질이 호염기구를 활성화해 지연성 육류 알레르기를 유발함을 규명하였다.
 
 [^16]: Identification of gibberellin-regulated protein as a new allergen in orange allergy. Inomata N 외. _Clinical and experimental allergy_. 2018-11. [관찰연구] [DOI 10.1111/cea.13247](https://doi.org/10.1111/cea.13247) [PMID 30099793](https://pubmed.ncbi.nlm.nih.gov/30099793/) — 오렌지의 신규 알레르겐(GRP)이 장미과 과일과 교차반응함을 확인하였다.
 
 [^17]: Possible immunoglobulin-E-dependent sugammadex-induced anaphylaxis caused by an epitope other than γ-cyclodextrin: a case report. Horiuchi T 외. _Journal of medical case reports_. 2021-06-05. [증례 보고] [DOI 10.1186/s13256-021-02894-3](https://doi.org/10.1186/s13256-021-02894-3) [PMID 34088358](https://pubmed.ncbi.nlm.nih.gov/34088358/) — 이전 안전 투여 이력이 있어도 재투여 시 아나필락시스가 발생할 수 있음을 보여준 증례다.
 
-[^18]: Monocyte and Basophil Counts as Predictors of Neutrophil Count Recovery in Patients with Thiamazole-Induced Agranulocytosis. Onose H 외. _Experimental and clinical endocrinology & diabetes_. 2017-01. [관찰연구] [DOI 10.1055/s-0042-105281](https://doi.org/10.1055/s-0042-105281) [PMID 27219883](https://pubmed.ncbi.nlm.nih.gov/27219883/) — 초기 단핵구·호염기구 수치가 낮으면 호중구 회복이 지연될 가능성을 시사한다.
+[^18]: Monocyte and Basophil Counts as Predictors of Neutrophil Count Recovery in Patients with Thiamazole-Induced Agranulocytosis. Onose H 외. _Experimental and clinical endocrinology & diabetes_. 2017-01. [임상시험] [DOI 10.1055/s-0042-105281](https://doi.org/10.1055/s-0042-105281) [PMID 27219883](https://pubmed.ncbi.nlm.nih.gov/27219883/) — 초기 단핵구·호염기구 수치가 낮으면 호중구 회복이 지연될 가능성을 시사한다.
 
 [^19]: Absolute basophil count is associated with time to recurrence in patients with high-grade T1 bladder cancer receiving bacillus Calmette-Guérin after transurethral resection of the bladder tumor. Ferro M 외. _World journal of urology_. 2020-01. [관찰연구] [DOI 10.1007/s00345-019-02754-2](https://doi.org/10.1007/s00345-019-02754-2) [PMID 30993426](https://pubmed.ncbi.nlm.nih.gov/30993426/) — 치료 전 기저 호염구 수치가 방광암 재발 위험과 연관됨을 확인하였다.
 
@@ -428,7 +428,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^26]: Elucidating Immune Cell Mediated Causal Pathways Linking Blood Metabolites to Major Depressive Disorder: A Mediation Mendelian Randomization Analysis. Xu Z 외. _Brain and behavior_. 2026-06. [실험연구] [DOI 10.1002/brb3.71421](https://doi.org/10.1002/brb3.71421) [PMID 42260754](https://pubmed.ncbi.nlm.nih.gov/42260754/) — 호염기구를 포함한 면역 세포가 대사체-우울증 인과 경로를 매개할 가능성을 시사한다.
 
-[^27]: Relationship between allergic transfusion reactions and allergic predisposition among pediatric patients with hematological/oncological disease. Yanagisawa R 외. _Transfusion_. 2022-05. [관찰연구] [DOI 10.1111/trf.16855](https://doi.org/10.1111/trf.16855) [PMID 35297063](https://pubmed.ncbi.nlm.nih.gov/35297063/) — 소아 환자의 수혈 전 호염구 수치·특이 IgE가 알레르기성 수혈 반응 예측에 도움이 됨을 보여준다.
+[^27]: Relationship between allergic transfusion reactions and allergic predisposition among pediatric patients with hematological/oncological disease. Yanagisawa R 외. _Transfusion_. 2022-05. [관찰연구, 인간 데이터 한정] [DOI 10.1111/trf.16855](https://doi.org/10.1111/trf.16855) [PMID 35297063](https://pubmed.ncbi.nlm.nih.gov/35297063/) — 소아 환자의 수혈 전 호염구 수치·특이 IgE가 알레르기성 수혈 반응 예측에 도움이 됨을 보여준다.
 
 [^28]: Klinefelter syndrome and acute basophilic leukaemia--case report. Ljubić N 외. _Collegium antropologicum_. 2010-06. [증례 보고] [PMID 20698148](https://pubmed.ncbi.nlm.nih.gov/20698148/) — 클라인펠터 증후군에서 발생한 극히 드문 급성 호염기구 백혈병 첫 증례다.
 
@@ -444,7 +444,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^34]: Anti-Allergic Properties of Propolis: Evidence From Preclinical and Clinical Studies. Liew KY 외. _Frontiers in pharmacology_. 2021. [문헌 고찰] [DOI 10.3389/fphar.2021.785371](https://doi.org/10.3389/fphar.2021.785371) [PMID 35126124](https://pubmed.ncbi.nlm.nih.gov/35126124/) — 프로폴리스가 비만세포·호염기구 활성을 억제해 알레르기 질환에 보조적 효과를 가질 수 있음을 정리하였다.
 
-[^35]: Mepolizumab targets multiple immune cells in aspirin-exacerbated respiratory disease. Buchheit KM 외. _The Journal of allergy and clinical immunology_. 2021-08. [관찰연구] [DOI 10.1016/j.jaci.2021.05.043](https://doi.org/10.1016/j.jaci.2021.05.043) [PMID 34144111](https://pubmed.ncbi.nlm.nih.gov/34144111/) — 메폴리주맙이 호산구 외 호염구·비만세포·상피세포에도 광범위하게 작용함을 보여준다.
+[^35]: Mepolizumab targets multiple immune cells in aspirin-exacerbated respiratory disease. Buchheit KM 외. _The Journal of allergy and clinical immunology_. 2021-08. [임상시험] [DOI 10.1016/j.jaci.2021.05.043](https://doi.org/10.1016/j.jaci.2021.05.043) [PMID 34144111](https://pubmed.ncbi.nlm.nih.gov/34144111/) — 메폴리주맙이 호산구 외 호염구·비만세포·상피세포에도 광범위하게 작용함을 보여준다.
 
 [^36]: Efficacy of benralizumab for patients with severe eosinophilic asthma: a retrospective, real-life study. Numata T 외. _BMC pulmonary medicine_. 2020-08-03. [관찰연구] [DOI 10.1186/s12890-020-01248-x](https://doi.org/10.1186/s12890-020-01248-x) [PMID 32746787](https://pubmed.ncbi.nlm.nih.gov/32746787/) — 벤랄리주맙 투여 후 호산구·호염구 수치 감소와 천식 증상 개선을 확인하였다.
 
@@ -452,7 +452,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^38]: Safety, clinical, and immunologic efficacy of a Chinese herbal medicine (Food Allergy Herbal Formula-2) for food allergy. Wang J 외. _The Journal of allergy and clinical immunology_. 2015-10. [임상시험] [DOI 10.1016/j.jaci.2015.04.029](https://doi.org/10.1016/j.jaci.2015.04.029) [PMID 26044855](https://pubmed.ncbi.nlm.nih.gov/26044855/) — FAHF-2는 안전하나 6개월 투여로는 임상적 내성 개선이 뚜렷하지 않았음을 정직하게 보여준다.
 
-[^39]: Traditional Chinese medicine for food allergy and eczema. Wang Z 외. _Annals of allergy, asthma & immunology_. 2021-06. [문헌 고찰] [DOI 10.1016/j.anai.2020.12.002](https://doi.org/10.1016/j.anai.2020.12.002) [PMID 33310179](https://pubmed.ncbi.nlm.nih.gov/33310179/) — 한약·침이 식품 알레르기·습진에 대체로 안전한 보조 요법이 될 수 있음을 정리하였다.
+[^39]: Traditional Chinese medicine for food allergy and eczema. Wang Z 외. _Annals of allergy, asthma & immunology_. 2021-06. [문헌 고찰, 인간 데이터 한정] [DOI 10.1016/j.anai.2020.12.002](https://doi.org/10.1016/j.anai.2020.12.002) [PMID 33310179](https://pubmed.ncbi.nlm.nih.gov/33310179/) — 한약·침이 식품 알레르기·습진에 대체로 안전한 보조 요법이 될 수 있음을 정리하였다.
 
 [^40]: First-reported pediatric cases of American ginseng anaphylaxis and allergy. Erdle SC 외. _Allergy, asthma, and clinical immunology_. 2018. [증례 보고] [DOI 10.1186/s13223-018-0304-3](https://doi.org/10.1186/s13223-018-0304-3) [PMID 30410551](https://pubmed.ncbi.nlm.nih.gov/30410551/) — 미국인삼에 의한 소아 아나필락시스 첫 증례로, 본초 유래 알레르기 위험을 보여준다.
 
@@ -536,7 +536,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^80]: Efficacy of Acupuncture for Chronic Spontaneous Urticaria : A Randomized Controlled Trial. Zheng H 외. _Annals of internal medicine_. 2023-12. [임상시험] [DOI 10.7326/M23-1043](https://doi.org/10.7326/M23-1043) [PMID 37956431](https://pubmed.ncbi.nlm.nih.gov/37956431/) — 침 치료가 UAS7을 유의하게 낮췄으나 MCID에는 도달하지 못했음을 정직하게 보고하였다.
 
-[^81]: Minimal clinically important difference for acupuncture for patients with chronic spontaneous urticaria: secondary analysis from a multicentre randomised controlled trial in China. Xiao X 외. _BMJ open_. 2024-10-29. [관찰연구] [DOI 10.1136/bmjopen-2024-085041](https://doi.org/10.1136/bmjopen-2024-085041) [PMID 39477260](https://pubmed.ncbi.nlm.nih.gov/39477260/) — UAS7의 최소 임상적 유의미한 차이값을 8.3으로 제시하였다.
+[^81]: Minimal clinically important difference for acupuncture for patients with chronic spontaneous urticaria: secondary analysis from a multicentre randomised controlled trial in China. Xiao X 외. _BMJ open_. 2024-10-29. [임상시험] [DOI 10.1136/bmjopen-2024-085041](https://doi.org/10.1136/bmjopen-2024-085041) [PMID 39477260](https://pubmed.ncbi.nlm.nih.gov/39477260/) — UAS7의 최소 임상적 유의미한 차이값을 8.3으로 제시하였다.
 
 [^82]: Acupuncture Decreases Risk of Hypertension in Patients with Chronic Spontaneous Urticaria in Taiwan: A Nationwide Study. Chang HW 외. _Healthcare (Basel, Switzerland)_. 2023-05-22. [관찰연구] [DOI 10.3390/healthcare11101510](https://doi.org/10.3390/healthcare11101510) [PMID 37239796](https://pubmed.ncbi.nlm.nih.gov/37239796/) — 침 치료가 CSU 환자의 고혈압 발생 위험을 낮출 수 있음을 시사하였다.
 
@@ -548,7 +548,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^86]: Anaphylaxis: Five Years' Experience in the Emergency Rooms of Five University Hospitals in Korea. Chung BY 외. _Medicina (Kaunas, Lithuania)_. 2020-12-14. [관찰연구] [DOI 10.3390/medicina56120695](https://doi.org/10.3390/medicina56120695) [PMID 33327374](https://pubmed.ncbi.nlm.nih.gov/33327374/) — 한국인 아나필락시스의 주요 원인과 연령별 임상 양상 차이를 규명하였다.
 
-[^87]: Infantile Anaphylaxis in Korea: a Multicenter Retrospective Case Study. Jeon YH 외. _Journal of Korean medical science_. 2019-04-08. [관찰연구] [DOI 10.3346/jkms.2019.34.e106](https://doi.org/10.3346/jkms.2019.34.e106) [PMID 30950251](https://pubmed.ncbi.nlm.nih.gov/30950251/) — 한국 영아 아나필락시스의 최다 원인이 우유이며 혈청 검사의 한계를 확인하였다.
+[^87]: Infantile Anaphylaxis in Korea: a Multicenter Retrospective Case Study. Jeon YH 외. _Journal of Korean medical science_. 2019-04-08. [관찰연구, 인간 데이터 한정] [DOI 10.3346/jkms.2019.34.e106](https://doi.org/10.3346/jkms.2019.34.e106) [PMID 30950251](https://pubmed.ncbi.nlm.nih.gov/30950251/) — 한국 영아 아나필락시스의 최다 원인이 우유이며 혈청 검사의 한계를 확인하였다.
 
 [^88]: Risk factors of anaphylaxis in Korea: Identifying drug-induced anaphylaxis culprits using big data. Ahn KM 외. _Medicine_. 2022-09-02. [관찰연구] [DOI 10.1097/MD.0000000000030224](https://doi.org/10.1097/MD.0000000000030224) [PMID 36107532](https://pubmed.ncbi.nlm.nih.gov/36107532/) — 한국인 아나필락시스 고위험 약물 5종을 빅데이터로 식별하였다.
 
@@ -562,7 +562,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^93]: Traditional Chinese medicine and drug-induced anaphylaxis: data from the Beijing pharmacovigilance database. Li X 외. _International journal of clinical pharmacy_. 2018-08. [관찰연구] [DOI 10.1007/s11096-018-0699-4](https://doi.org/10.1007/s11096-018-0699-4) [PMID 30051226](https://pubmed.ncbi.nlm.nih.gov/30051226/) — 한약 주사제가 경구·외용제보다 아나필락시스 위험이 유의하게 높음을 확인하였다.
 
-[^94]: Reevaluation of the post-marketing safety of Xuebijing injection based on real-world and evidence-based evaluations. Wang C 외. _Biomedicine & pharmacotherapy_. 2019-01. [관찰연구] [DOI 10.1016/j.biopha.2018.10.190](https://doi.org/10.1016/j.biopha.2018.10.190) [PMID 30551404](https://pubmed.ncbi.nlm.nih.gov/30551404/) — 혈비정 주사제의 알레르기 위험 요인(용량·연령·희석제·병용약물)을 정리하였다.
+[^94]: Reevaluation of the post-marketing safety of Xuebijing injection based on real-world and evidence-based evaluations. Wang C 외. _Biomedicine & pharmacotherapy_. 2019-01. [임상시험] [DOI 10.1016/j.biopha.2018.10.190](https://doi.org/10.1016/j.biopha.2018.10.190) [PMID 30551404](https://pubmed.ncbi.nlm.nih.gov/30551404/) — 혈비정 주사제의 알레르기 위험 요인(용량·연령·희석제·병용약물)을 정리하였다.
 
 [^95]: [Overview of systematic reviews of Qingkailing Injection]. Yang KL 외. _Zhongguo Zhong yao za zhi_. 2021-07. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20210407.502](https://doi.org/10.19540/j.cnki.cjcmm.20210407.502) [PMID 34396765](https://pubmed.ncbi.nlm.nih.gov/34396765/) — 청개령 주사제의 아나필락시스 위험과 근거 질 한계를 지적하였다.
 
