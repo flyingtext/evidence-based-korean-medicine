@@ -117,7 +117,7 @@
 
 ### 13. 스트레스 조혈과 한의학적 개입
 
-항암치료로 인한 조혈 억제 시기의 관리는 한의학적 개입의 근거가 비교적 두텁게 축적된 영역이다. 대규모 메타분석에서 한약 제제가 방사선·항암치료로 인한 백혈구감소에서 다른 경구 백혈구증강제나 과립구집락자극인자 추가 투여보다 백혈구·호중구 수치를 유의하게 더 개선하고 백혈구감소 발생률을 낮추었다는 결과가 보고되었다[^25]. 만성 재생불량성빈혈에서 한약과 면역억제제를 병용했을 때 골수 콜로니형성능(BFU-E·CFU-E·CFU-GM)이 유의하게 증가한 임상시험[^41], 열독울체증(熱毒鬱滯證) 소아 급성 재생불량성빈혈에서 변증에 근거한 한약 병용이 골수 CD34 양성 세포와 조절T세포를 함께 증가시킨 임상시험[^40], 인삼 계열 파낙사디올 사포닌이 조혈모세포의 증식·분화를 촉진하여 범혈구감소증에 유효했다는 보고[^42]는 모두 조혈 예비능을 회복시키는 방향의 개입이 전구세포 수준에서 관찰 가능한 변화를 동반할 수 있음을 시사한다.
+항암치료로 인한 조혈 억제 시기의 관리는 한의학적 개입의 근거가 비교적 두텁게 축적된 영역이다. 대규모 메타분석에서 한약 제제가 방사선·항암치료로 인한 백혈구감소에서 다른 경구 백혈구증강제나 과립구집락자극인자 추가 투여보다 백혈구·호중구 수치를 유의하게 더 개선하고 백혈구감소 발생률을 낮추었다는 결과가 보고되었다[^25]. 만성 재생불량성빈혈에서 한약과 면역억제제를 병용했을 때 골수 콜로니형성능(BFU-E·CFU-E·CFU-GM)이 유의하게 증가한 임상시험[^41], 열독울체증(熱毒鬱滯證) 소아 급성 재생불량성빈혈에서 변증에 근거한 한약 병용이 골수 CD34 양성 세포와 조절T세포를 함께 증가시킨 임상시험[^40]은 모두 조혈 예비능을 회복시키는 방향의 개입이 전구세포 수준에서 관찰 가능한 변화를 동반할 수 있음을 시사한다.
 
 다만 근거를 균형 있게 제시할 필요가 있다. 한약 제제와 항암화학요법을 병용한 메타분석에서 질병조절률과 객관적반응률은 유의하게 향상되었으나 골수 억제 감소 효과는 통계적으로 유의하지 않았고[^27], 항암치료 중 자가 뜸 요법의 실행 가능성을 평가한 예비 연구에서는 수용성은 확인되었으나 항암치료 부작용 때문에 실제 수행 순응도가 46.5%에 그쳤다[^26]. 변증 없는 관행적 처방으로 표준 지지요법을 대체할 수 없으며, 개별 환자의 기허(氣虛)·혈허(血虛)·신정휴허(腎精虧虛) 등 변증에 따라 치법을 층화해야 한다.
 
@@ -139,7 +139,7 @@
 
 **③ 병태생리**: 이 군은 정지기의 보호적 의의가 임상에서 가장 뚜렷하게 드러나는 상황이다 — 정지 상태의 조혈모세포는 세포주기 특이적 약물의 작용을 상대적으로 피하므로 치료 후 조혈이 회복될 수 있는 반면, 활발히 분열하던 전구세포는 광범위하게 소실되어 혈구감소가 발생한다[교과서적 근거]. 회복은 정지기 조혈모세포가 세포주기로 진입하여 전구세포 풀을 재건하는 스트레스 조혈에 의존하며, 이 과정이 지연되면 감염·출혈 위험이 길어진다[^24].
 
-**④ 치료**: 과립구집락자극인자 투여가 중증 호중구감소와 발열성 호중구감소·감염을 유의하게 감소시키며[^21], 용량밀집 요법에서는 일차 예방적 투여가 권고된다[^22]. 골수계 전구세포 제제 투여도 감염 부담을 줄이는 전략으로 검증되었다[^20]. 한의학적으로는 한약 제제가 백혈구·호중구 수치 개선과 백혈구감소 발생률 감소에서 유효성을 보인 대규모 메타분석 근거가 있으며[^25], 인삼 계열 성분의 조혈 지지 근거도 보고되어 있다[^42]. 자가 뜸 요법의 실행 가능성 연구는 순응도 확보가 과제임을 보여준다[^26]. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 항암 일정을 지연시켜서는 안 된다.
+**④ 치료**: 과립구집락자극인자 투여가 중증 호중구감소와 발열성 호중구감소·감염을 유의하게 감소시키며[^21], 용량밀집 요법에서는 일차 예방적 투여가 권고된다[^22]. 골수계 전구세포 제제 투여도 감염 부담을 줄이는 전략으로 검증되었다[^20]. 한의학적으로는 한약 제제가 백혈구·호중구 수치 개선과 백혈구감소 발생률 감소에서 유효성을 보인 대규모 메타분석 근거가 있다[^25]. 인삼 계열 단일 성분이 조혈모세포 수준에서 조혈을 지지한다는 서술은 인체 근거로 확인되지 않는다. 자가 뜸 요법의 실행 가능성 연구는 순응도 확보가 과제임을 보여준다[^26]. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 항암 일정을 지연시켜서는 안 된다.
 
 **⑤ 예후**: 예후는 골수 예비능·항암제 종류와 용량·누적 치료 횟수에 좌우되며, 반복 치료로 예비능이 소진되면 회복이 점차 지연된다[교과서적 근거].
 
@@ -341,7 +341,5 @@
 [^39]: [Mesenchymal stem cell therapy in hematopoietic stem cell transplantation]. Goto T 외. _[Rinsho ketsueki] The Japanese journal of clinical hematology_. 2018. [문헌 고찰] [DOI 10.11406/rinketsu.59.195](https://doi.org/10.11406/rinketsu.59.195) [PMID 29515075](https://pubmed.ncbi.nlm.nih.gov/29515075/) — 중간엽줄기세포 공동이식이 생착을 촉진함을 정리, 기질세포 지지가 조혈모세포의 세포주기 진입과 유지에 관여함을 시사.
 [^40]: Clinical study on combined "lanzhou prescription" for the treatment of "syndrome of heat-toxin congestion and excessiveness" in children with acute aplastic anemias. Niancheng Yu 외. _African Health Sciences_. 2023-07-13. [임상시험, 60명] [DOI 10.4314/ahs.v23i2.81](https://doi.org/10.4314/ahs.v23i2.81) — 변증에 근거한 한약 병용이 소아 급성 재생불량성빈혈의 골수 CD34 양성 세포와 조절T세포를 유의하게 증가, 조혈 재활성화의 인체 근거.
 [^41]: Clinical observation on treatment of chronic aplastic anemia by Shengxuening and cyclosporin A. Zhang XZ 외. _Chinese journal of integrative medicine_. 2006-06. [임상시험, 45명] [DOI 10.1007/BF02857362](https://doi.org/10.1007/BF02857362) [PMID 16800995](https://pubmed.ncbi.nlm.nih.gov/16800995/) — 한약-면역억제제 병용이 골수 콜로니형성능을 유의하게 증가, 전구세포의 증식 활성 회복을 시사.
-[^42]: Research and development of the effective components of panaxdiol saponin as new Chinese patent medicine for treating hemocytopenia. Gao RL 외. _Chinese journal of integrative medicine_. 2012-12. [임상시험] [DOI 10.1007/s11655-012-1292-4](https://doi.org/10.1007/s11655-012-1292-4) [PMID 23238997](https://pubmed.ncbi.nlm.nih.gov/23238997/) — 인삼 계열 파낙사디올 사포닌이 조혈모세포의 증식·분화를 촉진해 범혈구감소증에 유효함을 보고.
 [^43]: Nutritional Supplements and Complementary/Alternative Medications in Patients With Hematologic Diseases and Hematopoietic Stem Cell Transplantation. Mohty R 외. _Transplantation and cellular therapy_. 2021-06. [문헌 고찰] [DOI 10.1016/j.jtct.2021.03.011](https://doi.org/10.1016/j.jtct.2021.03.011) [PMID 33839088](https://pubmed.ncbi.nlm.nih.gov/33839088/) — 혈액질환·이식 환자의 보완대체요법 사용이 흔하나 근거가 부족하고 독성 규명이 시급함을 정리, 병용 안전성 감시의 필요성.
 [^44]: The safety of acupuncture in children and adolescents with cancer therapy-related thrombocytopenia. Ladas EJ 외. _Supportive care in cancer_. 2010-11. [증례 보고, 32명] [DOI 10.1007/s00520-010-0926-6](https://doi.org/10.1007/s00520-010-0926-6) [PMID 20556436](https://pubmed.ncbi.nlm.nih.gov/20556436/) — 항암치료 관련 혈소판감소증 소아·청소년에서 침 치료 237회 중 출혈 부작용이 없었음, 혈구감소 시기 침 안전성 근거.
-[^45]: Hematopoietic stem-cell senescence and myocardial repair - Coronary artery disease genotype/phenotype analysis of post-MI myocardial regeneration response induced by CABG/CD133+ bone marrow hematopoietic stem cell treatment in RCT PERFECT Phase 3. Wolfien M 외. _EBioMedicine_. 2020-07. [실험연구, 37명] [DOI 10.1016/j.ebiom.2020.102862](https://doi.org/10.1016/j.ebiom.2020.102862) [PMID 32629392](https://pubmed.ncbi.nlm.nih.gov/32629392/) — 골수 유래 CD133 양성 세포 치료 반응이 조혈모세포 노화 관련 유전형에 따라 갈림, 세포 노화 상태가 치료 반응을 좌우함을 보여줌.
