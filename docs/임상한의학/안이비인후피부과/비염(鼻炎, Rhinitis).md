@@ -806,7 +806,7 @@ SPT/특이 IgE 음성. 온도·습도·자극물 변화에 비폐색·콧물 악
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준
 
 [^1]: Clinical practice guideline: Allergic rhinitis. _Otolaryngology--head and neck surgery_. 2015-02. [임상진료지침] [DOI 10.1177/0194599814561600](https://doi.org/10.1177/0194599814561600) [PMID 25644617](https://pubmed.ncbi.nlm.nih.gov/25644617/) — 알레르기비염 임상진료지침으로 비약물적 치료 원하는 환자에 침술 제공·의뢰 권고. 비염 질환군의 변증·층화 치료 원칙 근거.
-[^2]: Effects of cigarette smoking on rhinologic diseases: Korean National Health and Nutrition Examination Survey. _American journal of rhinology & allergy_. [관찰연구] [PMID 24717946](https://pubmed.ncbi.nlm.nih.gov/24717946/) — 흡연·간접흡연이 비루·비염 질환 유병률과 유의한 상관. 비염 환경 관리 근거.
+[^2]: Effects of cigarette smoking on rhinologic diseases: Korean National Health and Nutrition Examination Survey 2008-2011. Lee WH 외. _Int Forum Allergy Rhinol_. 2015-10. [관찰연구] [DOI 10.1002/alr.21553](https://doi.org/10.1002/alr.21553) [PMID 26034006](https://pubmed.ncbi.nlm.nih.gov/26034006/) — 흡연·간접흡연이 비루·비염 질환 유병률과 유의한 상관. 비염 환경 관리 근거.
 [^3]: Respiratory symptoms in relation to air conditioning and dampness in homes and workplaces. [관찰연구] [DOI 10.58837/chula.the.2009.2282](https://doi.org/10.58837/chula.the.2009.2282) — 실내 습도·곰팡이·에어컨이 호흡기·비염 증상과 연관. 비염 환경 인자 근거.
 [^4]: Home dampness, moulds and their influence on respiratory infections and symptoms in adults. [관찰연구] — 주택 곰팡이·습도가 성인 비염·호흡기 증상과 유의. 비염 관리 지표.
 [^5]: Do newly built homes affect rhinitis in children? The ISAAC phase III study in Korea. [관찰연구] — 신축 주택 거주가 소아 비염 유병률과 연관. 소아 비염 환경 관리 근거.

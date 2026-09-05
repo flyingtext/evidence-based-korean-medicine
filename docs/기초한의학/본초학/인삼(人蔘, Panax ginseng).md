@@ -73,7 +73,7 @@
 
 ### 1. 진세노사이드(ginsenoside)와 주요 활성 성분
 
-인삼(人蔘)의 주요 약리 활성 성분은 진세노사이드(ginsenoside)이며, 화학구조에 따라 프로토파낙사디올(PPD)계(Rb1·Rb2·Rc·Rd·Rg3·Rh2·Compound K)와 프로토파낙사트리올(PPT)계(Re·Rg1·Rg2·Rh1)로 대별된다[^1][^2]. 경구 섭취 후 장내 미생물에 의해 Rb1·Rc·Rd 등이 Compound K(CK, M1)로 대사되어 흡수되며, 이 대사물이 면역·항염·항암 작용의 주 활성형이다[^15]. 홍삼의 경우 증기 가열 공정 중 Rg3·Rh2·Rg5 등의 열안정성 분획이 증가하고, 발효 인삼은 외부 유산균(Lactobacillus plantarum 등)이 Compound K를 직접 생성하여 생체이용률을 높인다[^6][^10]. 인삼 다당체(ginseng polysaccharide)는 면역 세포 활성화, 폴리아세틸렌(panaxynol·panaxydol)은 항균·세포독성, 페놀화합물은 항산화 작용을 각각 담당하여 진세노사이드와 상승효과를 보인다[^2][^16].
+인삼(人蔘)의 주요 약리 활성 성분은 진세노사이드(ginsenoside)이며, 화학구조에 따라 프로토파낙사디올(PPD)계(Rb1·Rb2·Rc·Rd·Rg3·Rh2·Compound K)와 프로토파낙사트리올(PPT)계(Re·Rg1·Rg2·Rh1)로 대별된다[^1][^2]. 경구 섭취 후 장내 미생물에 의해 Rb1·Rc·Rd 등이 Compound K(CK, M1)로 대사되어 흡수되며, 이 대사물이 면역·항염·항암 작용의 주 활성형이다[^15]. 홍삼의 경우 증기 가열 공정 중 Rg3·Rh2·Rg5 등의 열안정성 분획이 증가하고, 발효 인삼은 외부 유산균(Lactobacillus plantarum 등)이 Compound K를 직접 생성하여 생체이용률을 높인다[^6][^10]. 인삼 다당체(ginseng polysaccharide)는 면역 세포 활성화, 폴리아세틸렌(panaxynol·panaxydol)은 항균·세포독성, 페놀화합물은 항산화 작용을 각각 담당하여 진세노사이드와 상승효과를 보인다[^2].
 
 > **참고 근거** — 8종 인삼 제형의 식후 혈당 반응을 비교한 인체시험에서 진세노사이드 조성에 따라 혈당 강하·중립·상승 효과가 다양하게 나타나, 동일 Panax 속이라도 성분 조성이 약리 효과를 결정함이 확인되었다[^17].
 
@@ -95,7 +95,7 @@
 
 ### 6. 항산화·항염·항노화
 
-건강한 성인을 대상으로 한 임상시험에서 고려홍삼은 림프구 DNA 손상을 감소시키고 항산화 효소 활성을 높였다[^51]. 폐경 후 여성에서 홍삼의 항산화 효과가 확인되었고[^52], 갱년기 여성의 지질·염증 지표 개선도 보고되었다[^29]. 인삼·홍삼의 항노화 효과는 DNA 손상 감소·텔로미어 보호·세포 노화 지연·면역·내분비 조절을 통한 전신 노화 지연으로 설명되며[^53][^54], 노인을 대상으로 한 인삼 복합제 연구에서 항산화·기능적 연령 감소가 관찰되었다[^55]. 인삼의 항염 기전은 NF-κB·MAPK 경로 억제, 염증성 사이토카인(TNF-α·IL-6·IL-1β) 조절을 통해 작용한다[^16].
+건강한 성인을 대상으로 한 임상시험에서 고려홍삼은 림프구 DNA 손상을 감소시키고 항산화 효소 활성을 높였다[^51]. 폐경 후 여성에서 홍삼의 항산화 효과가 확인되었고[^52], 갱년기 여성의 지질·염증 지표 개선도 보고되었다[^29]. 인삼·홍삼의 항노화 효과는 DNA 손상 감소·텔로미어 보호·세포 노화 지연·면역·내분비 조절을 통한 전신 노화 지연으로 설명되며[^53][^54], 노인을 대상으로 한 인삼 복합제 연구에서 항산화·기능적 연령 감소가 관찰되었다[^55]. 인삼의 항염 기전으로 NF-κB·MAPK 경로 억제와 염증성 사이토카인(TNF-α·IL-6·IL-1β) 조절이 거론되나, 이를 다룬 자료는 배양 세포 대상 연구여서 근거로 인용하지 않으며 인체 근거는 확인되지 않는다.
 
 ### 7. 항암·암 지지요법
 
@@ -459,12 +459,11 @@
 [^13]: Perspectives on the Use of Ninjin'yoeito in Modern Medicine: A Review of Randomized Controlled Trials. _Evidence-Based Complementary and Alternative Medicine_. 2019. [체계적 고찰] [DOI 10.1155/2019/9590260](https://doi.org/10.1155/2019/9590260) — 인삼양영탕 RCT 종합, 기혈양허·암 보조 근거.
 [^14]: Safety and Effectiveness of Ninjin'yoeito: A Utilization Study in Elderly Patients. _Frontiers in Nutrition_. 2019. [관찰연구] [DOI 10.3389/fnut.2019.00014](https://doi.org/10.3389/fnut.2019.00014) — 인삼양영탕 노인 안전·유효성.
 [^15]: Combinatorial metabolism notably affects human systemic exposure to ginsenosides from orally administered Panax notoginseng extract. _Drug Metabolism and Disposition_. 2013. [임상시험] [PMID 23649704](https://pubmed.ncbi.nlm.nih.gov/23649704/) — 경로 진세노사이드 장내대사·Compound K 노출.
-[^16]: A Novel Korean Red Ginseng Compound Gintonin Inhibited Inflammation by MAPK and NF-κB Pathways. _Evidence-Based Complementary and Alternative Medicine_. 2015. [실험연구] [PMID 26649061](https://pubmed.ncbi.nlm.nih.gov/26649061/) — 홍삼 진토닌 NF-κB·MAPK 항염.
 [^17]: Decreasing, null and increasing effects of eight popular types of ginseng on acute postprandial glycemic indices in healthy humans. _Journal of the American College of Nutrition_. 2004. [임상시험] [PMID 15190050](https://pubmed.ncbi.nlm.nih.gov/15190050/) — 8종 인삼 진세노사이드 조성에 따른 혈당 반응 차이.
 [^18]: Preventive effect of Korean red ginseng for acute respiratory illness: a randomized and double-blind clinical trial. _Journal of Korean Medical Science_. 2012. [임상시험] [PMID 23255845](https://pubmed.ncbi.nlm.nih.gov/23255845/) — 홍삼 급성 호흡기 질환 발병·증상 감소.
 [^19]: A placebo-controlled trial of Korean red ginseng extract for preventing influenza-like illness in healthy adults. _BMC Complementary and Alternative Medicine_. 2012. [임상시험] [PMID 22314101](https://pubmed.ncbi.nlm.nih.gov/22314101/) — 홍삼 ILI 예방.
 [^20]: Ginseng integrative supplementation for seasonal acute upper respiratory infections: A systematic review and meta-analysis. _Complementary Therapies in Medicine_. 2020. [메타분석] [PMID 32951718](https://pubmed.ncbi.nlm.nih.gov/32951718/) — 홍삼 상기도 감염 예방 메타분석.
-[^21]: The effect of red ginseng extract on inflammatory cytokines after chemotherapy in children. _Journal of Ginseng Research_. 2012. [관찰연구] [PMID 23717040](https://pubmed.ncbi.nlm.nih.gov/23717040/) — 소아 항암 후 사이토카인 조절 보조.
+[^21]: The effect of red ginseng extract on inflammatory cytokines after chemotherapy in children. Lee JM 외. _J Ginseng Res_. 2012-10. [관찰연구] [DOI 10.5142/jgr.2012.36.4.383](https://doi.org/10.5142/jgr.2012.36.4.383) [PMID 23717140](https://pubmed.ncbi.nlm.nih.gov/23717140/) — 소아 항암 후 사이토카인 조절 보조.
 [^22]: Immune system effects of echinacea, ginseng, and astragalus: a review. _Integrative Cancer Therapies_. 2003. [문헌 고찰] [PMID 15035888](https://pubmed.ncbi.nlm.nih.gov/15035888/) — 인삼 면역 조절 기전 종합.
 [^23]: Preclinical investigation and clinical trials of Red ginseng as an immunomodulator: a narrative review from 2015 to 2025. _Phytomedicine_. 2026. [문헌 고찰] [DOI 10.1016/j.phymed.2026.158313](https://doi.org/10.1016/j.phymed.2026.158313) — 홍삼 면역 조절 근거 최신 종합.
 [^24]: Red ginseng for type 2 diabetes mellitus: a systematic review of randomized controlled trials. _Chinese Journal of Integrative Medicine_. 2012. [체계적 고찰] [PMID 22139546](https://pubmed.ncbi.nlm.nih.gov/22139546/) — 당뇨 홍삼 인슐린 민감도 개선 종합.
