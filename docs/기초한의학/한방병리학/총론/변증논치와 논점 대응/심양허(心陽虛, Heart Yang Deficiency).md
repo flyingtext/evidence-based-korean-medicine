@@ -283,7 +283,7 @@
 - 만성피로 변증(비기허·심기허·간기울결·기허)을 분류하는 랜덤포레스트-적합예측기(CP-RF) 모델은 기존 모델보다 우수한 진단 정확도·신뢰도를 보였다[^82].
 - 심부전 환자를 위한 근거기반 변증 설문지(SDQHF)는 높은 내적일관성·타당도를 보였고, 제안 모델의 변증 결과가 설진(舌診) 결과와 91% 일치했으며, 기허·양기부족·기음양허·음양양허 순으로 빈도가 높았다[^53].
 - 우울증 환자에게 침+SSRI를 병용한 관찰연구는 변증 유형에 따라 치료 반응이 유의하게 달랐으며, 간기울결·비기허형이 심비양허·비신양허형보다 유효율이 높았다[^79] — 심계(心系) 밖의 정신과 영역에서도 변증 층화가 치료 반응의 실질적 예측 인자가 됨을 보여준다.
-- 심비양허증을 동반한 만성피로증후군에서 복방오가피과립이 대조약(귀비과립)보다 피로도 개선율이 유의하게 높았다(224례 다기관 RCT)[^90] — 심비양허(3-2절)라는 겸병 변증이 처방 선택의 실질적 기준으로 작동함을 보여주는 근거다.
+- 심비양허증을 동반한 만성피로증후군에서 복방자오가과립(複方刺五加顆粒)이 대조약(귀비과립)보다 피로도 개선율이 유의하게 높았다(224례 다기관 RCT)[^90] — 심비양허(3-2절)라는 겸병 변증이 처방 선택의 실질적 기준으로 작동함을 보여주는 근거다.
 
 이상의 연구들은 심양허가 "임의적 분류가 아니라 재현 가능하고 통계적으로 유의한 잠재 구조를 가진 진단 범주"라는 방법론적 명제를 뒷받침하며, 제4편에서 각 KCD 질환군별로 인용하는 심양허-예후/분자지표 상관 연구들의 신뢰성을 간접적으로 지지한다.
 
@@ -957,7 +957,7 @@
 [^84]: Observation on the Nursing Effect of Ginger Moxibustion on Gastrointestinal Symptoms in Patients with Heart Failure Due to Yang Qi Deficiency. _Journal of Clinical and Nursing Research_. 2024-07-23. [임상시험] — 생강뜸을 포함한 통합간호가 양기부족형 심부전의 소화기 증상·심리 상태를 개선한 임상시험.
 [^85]: Recognition Patterns Construction of Coronary Heart Disease Patients with Qi Deficiency Syndrome Based on Artificial Neural Network. _Advanced Materials Research_. 2011-11. [실험연구] — 인공신경망으로 관상동맥질환 기허증을 8개 생물학적 지표로 82.2% 정확도로 예측한 연구.
 [^87]: Banxia Gualou Xiebai Tang and Qishen Yiqi Dropping Pills Combined Therapy for Qi Deficiency, Phlegm, and Blood Stasis Syndrome in Post-PCI Coronary Heart Disease Patients. _International journal of general medicine_. 2025. [관찰연구] — 반하과루해백탕+기신익기적환 병용이 PCI 후 기허담탁혈어형 관상동맥질환의 심기능·지질을 개선한 임상시험.
-[^90]: [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicenter, randomized, double-blind, double-dummy, positive drug-controlled trial]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2026-07. [임상시험] — 복방오가피과립이 심비양허형 만성피로증후군에서 귀비과립보다 피로도 개선율이 높았던 다기관 RCT.
+[^90]: [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicenter, randomized, double-blind, double-dummy, positive drug-controlled trial]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2026-07. [임상시험] — 복방자오가과립(複方刺五加顆粒)이 심비양허형 만성피로증후군에서 귀비과립보다 피로도 개선율이 높았던 다기관 RCT.
 [^91]: Clinical Safety and Efficacy of Wenxin Keli-Amiodarone Combination on Heart Failure Complicated by Ventricular Arrhythmia: A Systematic Review and Meta-analysis. _Frontiers in physiology_. 2018. [메타분석] — 온심과립+아미오다론 병용이 심실부정맥 동반 심부전의 심박수·조기수축·QT분산을 개선한 메타분석.
 [^92]: Pharmacological Insights and Clinical Challenges of Wenxin Keli in Arrhythmia Treatment. _Anatolian journal of cardiology_. 2026-08. [문헌 고찰] — 온심과립의 이온통로·CaMKII 조절 기전과 부정맥 치료 임상근거를 정리한 약리학적 고찰.
 [^95]: [Observation on therapeutic effect of acupoint sticking at Neiguan (PC 6) and Xinshu (BL 15) for treatment of bradycardia]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-03. [임상시험] — 내관·심수 오수유 첩부가 서맥 환자의 24시간 평균 심박수를 심보환과 유사한 수준으로 개선한 임상시험.
