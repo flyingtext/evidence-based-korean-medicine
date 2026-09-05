@@ -294,7 +294,7 @@
 
 | 질환군 | 추적 지표 | 관찰 주기(참고) |
 |---|---|---|
-| 안과(황반변성·근시·안구건조) | 혈장 제아잔틴 농도, 황반색소 광학밀도(MPOD), 안축장 길이, 눈물막 파괴시간(TBUT) | 3~12개월[^17][^19][^21][^28] |
+| 안과(황반변성·근시·안구건조) | 혈장 제아잔틴 농도, 황반색소 광학밀도(MPOD), 안축장 길이, 눈물막 파괴시간(TBUT) | 3~12개월[^17][^19][^28] |
 | 대사(당뇨·NAFLD·이상지질혈증) | 공복혈당·당화혈색소(HbA1c), 인슐린 분비 지수, ALT·GGT, 중성지방·HDL-C | 8~12주[^31][^34][^36] |
 | 면역·류마티스(RA·OA) | Th17/Treg 비율, CCR9+ 세포 비율, 염증 지표(ESR·CRP), DAS28 | 사람 대상 치료시험이 없어 표준 주기 없음[^44] |
 | 남성 생식(정계정맥류·희소정자증) | 정액검사(정자 수·운동성·형태), 혈청 테스토스테론, 산화스트레스 지표 | 8~12주[^47] |
@@ -363,7 +363,7 @@ Lycium barbarum L.과 L. chinense Mill.의 열매가 모두 "구기(枸杞)"로 
 | 지질(중성지방·HDL) | 무작위 대조시험 5편 메타분석(259명)[^34] | 제1층 | 보조. 총콜레스테롤·LDL 개선 근거는 없음 |
 | 혈당·인슐린 | 제2형 당뇨병 임상시험(67명)[^36], 다당체 메타분석[^35] | 제2층 | 보조. 표준 약물 대체 불가 |
 | 망막색소변성증 | 구기자 보충제 12개월 투여 시험(42명)[^22] | 제1층 | 진행 지연 목적의 병용 |
-| 황반색소·근시 | 제아잔틴 용량반응 시험(54명)[^19], 청소년 메타분석(1,035명)[^21] | 제1층·제2층 혼재 | 결과가 일관되지 않음[^18] |
+| 황반색소·근시 | 제아잔틴 용량반응 시험(54명)[^19], 청소년 메타분석(1,035명, **철회됨**)[^21] | 제1층·제2층 혼재 | 결과가 일관되지 않음[^18] |
 | 노안 조절력 | 복합 한약 제제 임상시험(400명)[^27] | 제3층 | 방제 전체의 효과 |
 | 안구건조증 | 구기자 함유 구복액 병용 시험(72명)[^28] | 제3층 | 인공눈물 병용 시 추가 이득 |
 | 고혈압 | 기국지황탕 메타분석(19편)[^84] | 제3층 | 변증 층화 전제, 표준 약물 병용 |
@@ -453,7 +453,7 @@ Lycium barbarum L.과 L. chinense Mill.의 열매가 모두 "구기(枸杞)"로 
 [^18]: Macular pigment density changes in Japanese individuals supplemented with lutein or zeaxanthin: quantification via resonance Raman spectrophotometry and autofluorescence imaging. Tanito M 외. _Japanese journal of ophthalmology_. 2012-09. [임상시험, 22명] [DOI 10.1007/s10384-012-0157-0](https://doi.org/10.1007/s10384-012-0157-0) [PMID 22699751](https://pubmed.ncbi.nlm.nih.gov/22699751/) — 고도근시가 없는 건강한 성인에게 루테인 10mg을 3개월간 투여했을 때 황반색소밀도(MPOD)가 유의하게 증가하였으나, 제아잔틴은 효과가 없었다.
 [^19]: Macular pigment optical density responses to different levels of zeaxanthin in patients with high myopia. Zhang Y 외. _Graefe's archive for clinical and experimental ophthalmology = Albrecht von Graefes Archiv fur klinische und experimentelle Ophthalmologie_. 2022-07. [임상시험, 54명] [DOI 10.1007/s00417-021-05532-2](https://doi.org/10.1007/s00417-021-05532-2) [PMID 35044504](https://pubmed.ncbi.nlm.nih.gov/35044504/) — 고도근시 환자에게 구기자(Lycium barbarum)를 통한 고용량의 제아잔틴을 보충하는 것이 루테인 단독 보충보다 황반색소 광학밀도(MPOD)를 높이는 데 더 효과적일 수 있음을 시사한다.
 [^20]: Effect of an antioxidant supplement containing high dose lutein and zeaxanthin on macular pigment and skin carotenoid levels. Obana A 외. _Scientific reports_. 2020-06-24. [임상시험, 16명] [DOI 10.1038/s41598-020-66962-2](https://doi.org/10.1038/s41598-020-66962-2) [PMID 32581313](https://pubmed.ncbi.nlm.nih.gov/32581313/) — 고용량 루테인(20mg)과 제아잔틴(4mg) 보충제 섭취가 황반색소 밀도(MPOD)와 피부 카로티노이드 수치를 유의하게 증가시킴을 확인하였다.
-[^21]: The differential effects of lutein and zeaxanthin supplementation on myopia prevention in adolescents: a systematic review and Meta-analysis. Pei L 외. _International journal of ophthalmology_. 2026. [메타분석, 1035명] [DOI 10.18240/ijo.2026.02.21](https://doi.org/10.18240/ijo.2026.02.21) [PMID 41573009](https://pubmed.ncbi.nlm.nih.gov/41573009/) — 루테인과 제아잔틴의 복합 보충제 투여는 청소년의 안축장 신장을 억제하고 시각적 기능을 개선하여 근시 진행 예방에 도움을 줄 수 있다.
+[^21]: The differential effects of lutein and zeaxanthin supplementation on myopia prevention in adolescents: a systematic review and Meta-analysis. Pei L 외. _International journal of ophthalmology_. 2026. [메타분석, 1035명, 철회됨] [DOI 10.18240/ijo.2026.02.21](https://doi.org/10.18240/ijo.2026.02.21) [PMID 41573009](https://pubmed.ncbi.nlm.nih.gov/41573009/) — **철회(Retraction Notice: PMID 42211211)**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 루테인과 제아잔틴의 복합 보충제 투여는 청소년의 안축장 신장을 억제하고 시각적 기능을 개선하여 근시 진행 예방에 도움을 줄 수 있다.
 [^22]: Delay of cone degeneration in retinitis pigmentosa using a 12-month treatment with Lycium barbarum supplement. Chan HH 외. _Journal of ethnopharmacology_. 2019-05-23. [임상시험, 42명] [DOI 10.1016/j.jep.2019.03.023](https://doi.org/10.1016/j.jep.2019.03.023) [PMID 30877066](https://pubmed.ncbi.nlm.nih.gov/30877066/) — 구기자(枸杞子) 보충제 12개월 투여가 망막색소변성증 환자의 시력 저하를 억제하고 황반층의 얇아짐을 방지하는 신경보호 효과가 있음이 확인되었다.
 [^23]: Fructus lycii: A Natural Dietary Supplement for Amelioration of Retinal Diseases. Neelam K 외. _Nutrients_. 2021-01-16. [문헌 고찰] [DOI 10.3390/nu13010246](https://doi.org/10.3390/nu13010246) [PMID 33467087](https://pubmed.ncbi.nlm.nih.gov/33467087/) — 구기자(枸杞子)는 강력한 항산화, 항염증 및 신경 보호 효과를 통해 망막 질환의 증상을 완화하는 천연 보조제로서의 잠재력을 가지고 있다.
 [^24]: Beyond antioxidation: Retinal neuroprotection by Lycium barbarum polysaccharides via multiple signaling pathways. Ni Y 외. _Neural regeneration research_. 2026-05-14. [문헌 고찰] [DOI 10.4103/NRR.NRR-D-25-01602](https://doi.org/10.4103/NRR.NRR-D-25-01602) [PMID 42199109](https://pubmed.ncbi.nlm.nih.gov/42199109/) — 구기자 다당체(LBP)는 단순한 항산화 효과를 넘어 SIRT1/p53, miR-15a-5p/VEGFR2 등 다각적인 신호 전달 경로를 통해 망막 신경세포를 보호하고 염증을 조절하는 다면적 조절자로서의 가능성을 보여준다.
