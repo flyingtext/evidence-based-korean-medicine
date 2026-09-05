@@ -261,7 +261,7 @@ PCOS의 한의학 변증은 **신(腎)·비(脾)·간(肝) 삼장부의 허실(�
 - **주증**: 희발월경·무월경, 形寒肢冷(형한지냉), 腰膝冷痛(요슬냉통), 性慾低下(성욕저하), 야간빈뇨, 부종 경향, 난소 다낭 형태, BBT 단상.
 - **설맥**: 舌淡苔白(설담태백), 脈沈遲(맥침지).
 - **치법**: 溫腎助陽·調經促排卵(온신조양·조경촉배란).
-- **대표방**: 右歸丸(우귀환)·溫腎調經湯(온신조경탕)[^96]·壽胎丸(수태환).
+- **대표방**: 右歸丸(우귀환)·溫腎調經湯(온신조경탕)·壽胎丸(수태환). [교과서적 근거]
 - **임상 특징**: 비만형·대사형 PCOS, 인슐린 저항성 동반 빈번, 기초체온 단상, 황체기능부전.
 
 #### 8-3. 비허담습형(脾虛痰濕型) — 인슐린 저항성·복부비만의 핵심 변증
@@ -563,7 +563,7 @@ PCOS 침구 치료는 **임맥(任脈)·족태음비경(足太陰脾經)·족양
 - 클로미펜 내성 PCOS 120명 전침+클로미펜: 배란 개선[^148].
 - 불안·우울 동반 PCOS 54명 전침: 불안·우울 개선[^185].
 
-> **변증 없는 관행적 취혈은 근거에 부합하지 않는다.** 과민성대장증후군 113명 실용적 시험에서 변증에 따라 혈위가 달랐듯[^57], PCOS에서도 비허담습형·신양허형·간기울결형·혈어형에 따라 주혈·가혈이 다르다. 기본 배혈(관원·삼음교·자궁·족삼리·태충)을 공통층으로 두고, 변증에 따라 풍륭·비유(담습), 신유·태계(신허), 혈해·격유(혈어), 내관·양릉천(간울)을 가감한다.
+> **변증 없는 관행적 취혈은 근거에 부합하지 않는다.** 다른 질환의 실용적 시험에서도 변증에 따라 취혈이 달라지듯, PCOS에서도 비허담습형·신양허형·간기울결형·혈어형에 따라 주혈·가혈이 다르다. 기본 배혈(관원·삼음교·자궁·족삼리·태충)을 공통층으로 두고, 변증에 따라 풍륭·비유(담습), 신유·태계(신허), 혈해·격유(혈어), 내관·양릉천(간울)을 가감한다.
 
 #### 14-5. 뜸·외치법
 
@@ -722,7 +722,7 @@ LH/FSH 비율 상승·안드로겐 과다 → 난포 발육 부진·배란 장�
 | 병형 | 주방 | 근거 |
 |---|---|---|
 | 희발월경 신음허 | **좌귀환·이지환** | [교과서적 근거] |
-| 희발월경 신양허 | **우귀환·온신조경탕** | [^96] |
+| 희발월경 신양허 | **우귀환·온신조경탕** | [교과서적 근거] |
 | 무월경 비허담습 | **창부도담탕·계궁환** | [^25] |
 | 무월경 혈고경폐 | **도홍사물탕·대황蟅蟲丸** | [교과서적 근거] |
 | 월경량과다 간울화화 | **단치소요산 가 地楡·阿膠** | [교과서적 근거] |
@@ -1079,7 +1079,7 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^24]: Effectiveness and safety of acupuncture for insulin resistance in women with polycystic ovary syndrome: A systematic review and meta-analysis. _Preprint_. 2022-02-02. [메타분석] [DOI 10.1101/2022.01.31.22270217](https://doi.org/10.1101/2022.01.31.22270217) — 침 단독은 메트포르민 대비 인슐린 저항성 개선 열위, 약물+침 병용이 HOMA-IR·BMI 감소에 시너지.
 
-[^25]: Efficacy and Safety of Cangfu Daotan Decoction in Patients with Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis. _Evidence-Based Complementary and Alternative Medicine_. 2022-05-17. [메타분석] [DOI 10.1155/2022/4395612](https://doi.org/10.1155/2022/4395612) [PMID 4395612](https://pubmed.ncbi.nlm.nih.gov/4395612/) — 창부도담탕이 임신율·배란율·에스트라디올 개선, 테스토스테론·인슐린 저항성·지질·BMI 감소. 이상반응 발생률 낮음.
+[^25]: Efficacy and Safety of Cangfu Daotan Decoction in Patients with Polycystic Ovary Syndrome: A Systematic Review and Meta-Analysis. Wu L 외. _Evid Based Complement Alternat Med_. 2022-05-17. [메타분석] [DOI 10.1155/2022/4395612](https://doi.org/10.1155/2022/4395612) [PMID 35620410](https://pubmed.ncbi.nlm.nih.gov/35620410/) — 창부도담탕이 임신율·배란율·에스트라디올 개선, 테스토스테론·인슐린 저항성·지질·BMI 감소. 이상반응 발생률 낮음.
 
 [^27]: Meta analysis of ovulation induction effect and pregnancy outcome of acupuncture & moxibustion combined with clomiphene in patients with polycystic ovary syndrome. _Frontiers in Endocrinology_. 2023-11-20. [메타분석] [DOI 10.3389/fendo.2023.1261016](https://doi.org/10.3389/fendo.2023.1261016) — 침뜸+클로미펜 병용이 클로미펜 단독 대비 임신율·자궁내막 두께 개선, OHSS·LUFS 부작용 감소.
 
@@ -1189,7 +1189,7 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^203]: Self-Control Study on the Impact of Buzhong Yiqi Prescription on the Gut Microbiota of Obese Polycystic Ovary Syndrome. _Preprint_. 2020-12-07. [임상시험] [DOI 10.21203/rs.3.rs-117891/v1](https://doi.org/10.21203/rs.3.rs-117891/v1) — 보중익기처방이 비만 PCOS 50명 장내미생물에 영향.
 
-[^205]: Therapeutic effects of puerarin on polycystic ovary syndrome. _Medicine_. 2021-05-28. [임상시험] [DOI 10.1021/acs.jpclett.1c00918](https://doi.org/10.1021/acs.jpclett.1c00918) [PMID 34018751](https://pubmed.ncbi.nlm.nih.gov/34018751/) — 푸에라린 51명 PCOS 임상시험. 대사·호르몬 개선.
+[^205]: Therapeutic effects of puerarin on polycystic ovary syndrome: A randomized trial in Chinese women. Li W 외. _Medicine (Baltimore)_. 2021-05-28. [임상시험] [DOI 10.1097/MD.0000000000026049](https://doi.org/10.1097/MD.0000000000026049) [PMID 34032731](https://pubmed.ncbi.nlm.nih.gov/34032731/) — 푸에라린 51명 PCOS 임상시험. 대사·호르몬 개선.
 
 [^206]: Efficacy of Bushen Huatan Decoction Combined with Baduanjin in the Treatment of Polycystic Ovary Syndrome. _Preprint_. 2021-06-29. [임상시험] [DOI 10.21203/rs.3.rs-650053/v1](https://doi.org/10.21203/rs.3.rs-650053/v1) — 보신화담탕+팔단금 190명. 비만형 PCOS.
 
@@ -1269,9 +1269,9 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^434]: Metabolite and gut microbiota co-biomarkers in Danggui Shaoyao San: insights into a shared. _Frontiers in pharmacology_. 2025. [문헌 고찰] [DOI 10.3389/fphar.2025.1698734](https://doi.org/10.3389/fphar.2025.1698734) [PMID 41601981](https://pubmed.ncbi.nlm.nih.gov/41601981/) — 당귀작약산 대사체·장내미생물 공동 바이오마커. PCOS 대사 축과 공유.
 
-[^437]: From Pathophysiology to Treatment: The Role of Ferroptosis in PCOS. _Frontiers in Bioscience-Landmark_. 2025-02-17. [문헌 고찰] [DOI 10.3389/fimmu.2025.1659342](https://doi.org/10.3389/fimmu.2025.1659342) [PMID 41050656](https://pubmed.ncbi.nlm.nih.gov/41050656/) — 철단백질침착증(ferroptosis)의 PCOS 병태생리·치료 역할.
+[^437]: From Pathophysiology to Treatment: The Role of Ferroptosis in PCOS. An J 외. _Front Biosci (Landmark Ed)_. 2025-02-17. [문헌 고찰] [DOI 10.31083/FBL25586](https://doi.org/10.31083/FBL25586) [PMID 40018919](https://pubmed.ncbi.nlm.nih.gov/40018919/) — 철단백질침착증(ferroptosis)의 PCOS 병태생리·치료 역할.
 
-[^443]: The role of traditional Chinese medicine in modulating gut microbiota to alleviating insulin resistance in PCOS. _Frontiers in Nutrition_. 2025-11-25. [문헌 고찰] [DOI 10.1186/s13048-025-01756-6](https://doi.org/10.1186/s13048-025-01756-6) [PMID 40783741](https://pubmed.ncbi.nlm.nih.gov/40783741/) — 한약이 장내미생물 조절로 PCOS 인슐린 저항성 완화.
+[^443]: The role of traditional Chinese medicine in modulating gut microbiota to alleviating insulin resistance in polycystic ovary syndrome. Yin L 외. _Front Nutr_. 2025-11-25. [문헌 고찰] [DOI 10.3389/fnut.2025.1700612](https://doi.org/10.3389/fnut.2025.1700612) [PMID 41377563](https://pubmed.ncbi.nlm.nih.gov/41377563/) — 한약이 장내미생물 조절로 PCOS 인슐린 저항성 완화.
 
 [^450]: The role of gut microbiota mediated ferroptosis in PCOS and the therapeutic potential of Chinese medicine. _Frontiers in medicine_. 2026. [문헌 고찰] [DOI 10.3389/fmed.2026.1730795](https://doi.org/10.3389/fmed.2026.1730795) [PMID 42006870](https://pubmed.ncbi.nlm.nih.gov/42006870/) — 장내미생물 매개 철단백질침착증의 PCOS 역할·한약 치료 가능성.
 

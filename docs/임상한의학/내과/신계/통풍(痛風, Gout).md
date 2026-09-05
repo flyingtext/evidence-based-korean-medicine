@@ -1,6 +1,8 @@
 # 통풍(痛風, Gout)
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-15 · 보강일: 2026-08-18
+
+> **서지 정합성에 관한 알림**: 이 문서의 각주 5건은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리키는 상태로 작성되어 있었다. 4건은 PubMed 원문을 대조해 올바른 식별자로 교정하였고, 원문을 확인할 수 없었던 1건([^159])은 오도하는 링크를 제거한 뒤 "서지사항 미확인"으로 표시하고 해당 서술을 유효한 근거로 취급하지 않는다고 명시하였다.
 > KCD-8: M10 (통풍) — M10.0 특발성 통풍 / M10.1 납중독성 통풍 / M10.2 신기능 저하로 인한 통풍 / M10.3 신기능 저하로 인한 통풍 / M10.4 기타 약물성 통풍 / M10.9 상세불명의 통풍 · E79.0 고요산혈증
 
 ## 제1편 총론
@@ -707,14 +709,14 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 | 동반 심혈관 질환 | 불량 | [^9][^33] |
 | 만성 신질환 | 불량 | [^142][^148] |
 | 생물학적 노화 | 불량 | [^22] |
-| HLA-B*58:01 알로퓨리놀 과민 | 불량 | [^159][^160][^161] |
+| HLA-B*58:01 알로퓨리놀 과민 | 불량 | [^159](서지사항 미확인 — 유효한 근거로 취급하지 않는다)[^160][^161] |
 | 한약·침 병용 치료 | 양향 | [^24][^27] |
 | 체중·식이 관리 | 양향 | [^11][^14] |
 | 조기 진단·치료 | 양향 | [^30][^29] |
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
-알로퓨리놀 과민 반응은 한국인·동아시아인에서 HLA-B*58:01와 강력한 연관이 있어, 알로퓨리놀 투여 전 유전자 검사가 권장된다. 237명을 대상으로 한 연구에서 한국인 HLA-B*58:01 유병률과 알로퓨리놀 이상반응의 연관이 확인되었다.[^159] 메타분석(542명)에서 HLA-B*58:01 선별 검사가 알로퓨리놀 과민 반응 예방에 유효하였다.[^160] 메타분석(12,513명)에서 HLA-B*58:01 대립유전자와 알로퓨리놀 피부 이상반응의 연관이 확인되었다.[^161] 431명·2,926명·48명·50명을 대상으로 한 연구에서도 그 연관이 재현되었다.[^162][^163][^164][^165] 448명을 대상으로 한 연구에서 HLA-B58이 알로퓨리놀 시작 임상 결정에 도움을 주었다.[^166] 293명을 대상으로 한 연구에서 알로퓨리놀 과민 증후군의 위험인자가 확인되었다.[^167] 5명·26명을 대상으로 한 증례·관찰에서 알로퓨리놀 안과 이상·과민 증후군이 보고되었다.[^168][^169] CPIC 임상진료지침이 HLA-B*58:01 기반 알로퓨리놀 투여를 권고하였다.[^170] 1989년 연구에서도 HLA와 알로퓨리놀 약진의 연관이 보고되었다.[^171] 체계적 고찰에서 알로퓨리놀 피부 이상반응의 유전 마커가 정리되었다.[^172]
+알로퓨리놀 과민 반응은 한국인·동아시아인에서 HLA-B*58:01와 강력한 연관이 있어, 알로퓨리놀 투여 전 유전자 검사가 권장된다. 237명을 대상으로 한 연구에서 한국인 HLA-B*58:01 유병률과 알로퓨리놀 이상반응의 연관이 확인되었다.[^159](서지사항 미확인 — 유효한 근거로 취급하지 않는다) 메타분석(542명)에서 HLA-B*58:01 선별 검사가 알로퓨리놀 과민 반응 예방에 유효하였다.[^160] 메타분석(12,513명)에서 HLA-B*58:01 대립유전자와 알로퓨리놀 피부 이상반응의 연관이 확인되었다.[^161] 431명·2,926명·48명·50명을 대상으로 한 연구에서도 그 연관이 재현되었다.[^162][^163][^164][^165] 448명을 대상으로 한 연구에서 HLA-B58이 알로퓨리놀 시작 임상 결정에 도움을 주었다.[^166] 293명을 대상으로 한 연구에서 알로퓨리놀 과민 증후군의 위험인자가 확인되었다.[^167] 5명·26명을 대상으로 한 증례·관찰에서 알로퓨리놀 안과 이상·과민 증후군이 보고되었다.[^168][^169] CPIC 임상진료지침이 HLA-B*58:01 기반 알로퓨리놀 투여를 권고하였다.[^170] 1989년 연구에서도 HLA와 알로퓨리놀 약진의 연관이 보고되었다.[^171] 체계적 고찰에서 알로퓨리놀 피부 이상반응의 유전 마커가 정리되었다.[^172]
 
 ### 22. 회복 경과
 
@@ -750,7 +752,7 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 
 | 위험 | 내용 | 참고 |
 |---|---|---|
-| 알로퓨리놀 과민 반응 | HLA-B*58:01 양성 시 SCAR(DRESS·SJS/TEN) 위험; 한국인 유병률 약 10-15% | [^159][^170] |
+| 알로퓨리놀 과민 반응 | HLA-B*58:01 양성 시 SCAR(DRESS·SJS/TEN) 위험; 한국인 유병률 약 10-15% | [^159](서지사항 미확인 — 유효한 근거로 취급하지 않는다)[^170] |
 | 콜히친 부작용 | 위장관(설사·오심·구토); 과량 시 골수억제 | [교과서적 근거] |
 | NSAIDs 위장관·신장 | 위궤양·신기능 저하; 장기 투여 시 주의 | [교과서적 근거] |
 | 한약-양약 상호작용 | CAM 사용 시 약물 순응도·상호작용 위험; 환자 사용 여부 확인 | [^177] |
@@ -835,8 +837,8 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 [^6]: Advances in Experimental and Clinical Research of the Gouty Arthritis Treatment with Traditional Chinese Medicine. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [문헌 고찰] [DOI 10.1155/2021/8698232](https://doi.org/10.1155/2021/8698232) — 한의학의 통풍 치료: 요산 감소·염증 조절·연골 보호.
 [^7]: An exploration of stage-based syndrome differentiation and treatment of gout based on the theory of "integrating movement and stillness". _Journal of Clinical Technology and Theory_. 2026-04-16. [문헌 고찰] [DOI 10.54254/3049-5458/2026.32765](https://doi.org/10.54254/3049-5458/2026.32765) — 동정결합 이론의 단계별 변증시치 모델.
 [^8]: Pathogenesis of Gout from the Perspective of the Theory of Latent Pathogen: "Phlegm-Blood Stasis". _Journal of Artificial Intelligence and Integrative Medicine_. 2026-07-30. [문헌 고찰] [DOI 10.66069/ojspub.27450745](https://doi.org/10.66069/ojspub.27450745) — 잠복사(담혈내열) 이론의 통풍 병리 적용.
-[^9]: Ten-year cardiovascular risk changes and major adverse events in gout patients. _Journal of Personalized Medicine_. 2026-01-08. [관찰연구] [PMID 42410820](https://pubmed.ncbi.nlm.nih.gov/42410820/) — 통풍 환자 1,252,383명의 10년 심혈관 위험 증가.
-[^10]: Risk factors for loss to follow-up in patients with gout: A Korean prospective cohort study. _ Rheumatology_. 2025. [관찰연구] [PMID 42410820](https://pubmed.ncbi.nlm.nih.gov/42410820/) — 한국 통풍 환자 269명의 추적 손실 위험인자.
+[^9]: Ten-year cardiovascular risk changes and major adverse events in gout patients. Ghang B 외. _Rheumatology (Oxford)_. 2026-01-08. [관찰연구, 252,383명] [DOI 10.1093/rheumatology/keaf322](https://doi.org/10.1093/rheumatology/keaf322) [PMID 40971687](https://pubmed.ncbi.nlm.nih.gov/40971687/) — 통풍 환자 1,252,383명의 10년 심혈관 위험 증가.
+[^10]: Risk factors for loss to follow-up in patients with gout: A Korean prospective cohort study. Do H 외. _PLoS One_. 2025-02-07. [관찰연구] [DOI 10.1371/journal.pone.0318564](https://doi.org/10.1371/journal.pone.0318564) [PMID 39919085](https://pubmed.ncbi.nlm.nih.gov/39919085/) — 한국 통풍 환자 269명의 추적 손실 위험인자.
 [^11]: Association Between the Korean Healthy Eating Index and Hyperuricemia Among Korean Adults. _Journal of Korean medical science_. 2026-05-04. [관찰연구] [PMID 42089137](https://pubmed.ncbi.nlm.nih.gov/42089137/) — 한국인 27,149명의 식이 패턴과 고요산혈증 연관.
 [^12]: The effect of coffee, tea, and caffeine consumption on serum uric acid and the risk of hyperuricemia: a cross-sectional study. _Rheumatology international_. 2015-02. [관찰연구] [PMID 24929540](https://pubmed.ncbi.nlm.nih.gov/24929540/) — 9,400명에서 커피·차·카페인이 요산에 미치는 영향.
 [^13]: Higher consumption of sugar-sweetened soft drinks increases the risk of hyperuricemia in Korea. _Seminars in arthritis and rheumatism_. 2014-04. [관찰연구] [PMID 24290163](https://pubmed.ncbi.nlm.nih.gov/24290163/) — 8,302명에서 과당 음료가 고요산혈증 위험 증가.
@@ -847,7 +849,7 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 [^18]: ABCG2 Polymorphism Is Associated with Hyperuricemia in a Study of a Community-Based Korean Cohort. _Journal of Korean medical science_. 2017-09. [관찰연구] [PMID 28776340](https://pubmed.ncbi.nlm.nih.gov/28776340/) — 한국인 3,647명의 ABCG2 다형성과 고요산혈증 연관.
 [^19]: Variants of ALPK1 with ABCG2, SLC2A9, and SLC22A12 increased the positive predictive value for gout diagnosis. _Arthritis research & therapy_. 2018-01. [관찰연구] — 일본인 1,088명의 복합 유전자 변이와 통풍 진단.
 [^20]: GWAS of clinically defined gout and subtypes identifies multiple susceptibility loci that include urate transporter genes. _Annals of the rheumatic diseases_. 2017-05. [관찰연구] — 4,822명의 GWAS에서 통풍 감수성 유전자 다수 확인.
-[^21]: Discovery of URAT1 SNPs and association between serum uric acid levels and URAT1 SNPs in Korean population. _Journal of rheumatology_. 2015-11-24. [관찰연구] [PMID 26609355](https://pubmed.ncbi.nlm.nih.gov/26609355/) — 한국인 968명의 URAT1 SNP와 요산 연관.
+[^21]: Discovery of URAT1 SNPs and association between serum uric acid levels and URAT1. Cho SK 외. _BMJ Open_. 2015-11-24. [관찰연구] [DOI 10.1136/bmjopen-2015-009360](https://doi.org/10.1136/bmjopen-2015-009360) [PMID 26603249](https://pubmed.ncbi.nlm.nih.gov/26603249/) — 한국인 968명의 URAT1 SNP와 요산 연관.
 [^22]: Biological aging and gout risk in hyperuricemia: a UK Biobank cohort study. _International journal of surgery_. 2026-02-01. [관찰연구] [PMID 41347257](https://pubmed.ncbi.nlm.nih.gov/41347257/) — 412,493명에서 생물학적 노화가 통풍 위험 증가.
 [^23]: Single Acupuncture Treatment Can Reduce the Level of Uric Acid and Alleviating Pain in Gouty Arthritis, a Meta-Analysis. _Acupuncture & Electro-Therapeutics Research_. 2021-05. [메타분석] [DOI 10.3727/036012921x16164310686815](https://doi.org/10.3727/036012921x16164310686815) — 단독 침 치료가 유효율↑·요산↓·안전. 2,048명.
 [^24]: Improvement of Acupuncture Therapy on Relapse of Patients with Gouty Arthritis: A Pairwise and Bayesian Network Meta-analysis. _Acupuncture & Electro-Therapeutics Research_. 2022-05. [메타분석] [DOI 10.3727/036012921x16298112109457](https://doi.org/10.3727/036012921x16298112109457) — 침+양약 병용이 재발 방지에 가장 효과적. 2,394명.
@@ -882,7 +884,7 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 [^53]: The Effects of Modified Simiao Decoction in the Treatment of Gouty Arthritis: A Systematic Review and Meta-Analysis. _Evidence-based complementary and alternative medicine_. 2017-01. [메타분석] [DOI 10.1155/2017/6037037](https://doi.org/10.1155/2017/6037037) — 가감사묘환이 요산·ESR·CRP↓·부작용↓.
 [^54]: Efficacy and safety of Qing Zhu Granules for acute gouty arthritis with dampness-heat obstruction syndrome: study protocol for a phase 3, multicenter, randomized, double-blind, placebo-controlled trial. _Frontiers in medicine_. 2026. [임상시험] [DOI 10.3389/fmed.2026.1839780](https://doi.org/10.3389/fmed.2026.1839780) — 청주과립 3상 RCT 프로토콜(습열저체증).
 [^55]: Medicinal Plants and Their Bioactive Compounds for the Management and Treatment of Gout. _Evidence-based complementary and alternative medicine_. 2021. [문헌 고찰] — 통풍 관리 본초의 생리활성 화합물.
-[^56]: [Study of syndrome differentiation factor of gouty arthritis with blood stasis syndrome based on hemorheology and platelet activity]. _Chinese journal of integrative medicine_. 2009-08. [관찰연구] [PMID 19704004](https://pubmed.ncbi.nlm.nih.gov/19704004/) — 어혈증후군 70명의 혈류역학·혈소판 매개변수.
+[^56]: [Study of syndrome differentiation factor of gouty arthritis with blood stasis syndrome based on connection number]. Li B 외. _Zhong Xi Yi Jie He Xue Bao_. 2009-08. [관찰연구] [DOI 10.3736/jcim20090804](https://doi.org/10.3736/jcim20090804) [PMID 19671409](https://pubmed.ncbi.nlm.nih.gov/19671409/) — 어혈증후군 70명의 혈류역학·혈소판 매개변수.
 [^57]: [Comparative analysis of clinical indicators of gout patients of different syndrome types]. _Chinese journal of integrative medicine_. 2013-10. [관찰연구] — 통풍 307명의 변증 유형별 임상 지표 비교.
 [^58]: Pathogenesis of Gout from the Perspective of the Theory of Latent Pathogen. _Journal of Artificial Intelligence and Integrative Medicine_. 2026. [문헌 고찰] — 잠복사(담혈내열) 이론의 통풍 병리.
 [^59]: Application of a Novel Diagnostic Rule in the Differential Diagnosis between Acute Gouty Arthritis and Septic Arthritis. _Medicine_. 2015-06. [관찰연구] — 136명의 급성 통풍·감염성 관절염 감별 진단 규칙.
@@ -985,7 +987,7 @@ NLRP3 인플라마좀 활성화는 단순한 결정 인식이 아니라, 활액�
 [^156]: Association of serum uric acid with aortic stiffness and pressure in a Chinese workplace population. _American journal of hypertension_. 2010-04. [관찰연구] [PMID 20075845](https://pubmed.ncbi.nlm.nih.gov/20075845/) — 940명에서 요산과 대동맥 경직도 연관.
 [^157]: Uric Acid Level and Prevalence of Atrial Fibrillation in a Japanese General Population. _International journal of cardiology_. 2016-11-25. [관찰연구] — 28,588,282명에서 요산과 심방세동 유병 연관.
 [^158]: An increase in serum uric acid concentrations is associated with an increase in cardiovascular risk. _Rheumatology_. 2011-05. [관찰연구] — 8,035명에서 요산 증가가 심혈관 위험 증가 연관.
-[^159]: Prevalence of Human Leukocyte Antigen (HLA)-B*58:01 and Allopurinol-Induced Adverse Reactions in Korean Patients. _Journal of Korean medical science_. 2025-02. [관찰연구] [PMID 39952348](https://pubmed.ncbi.nlm.nih.gov/39952348/) — 한국인 237명의 HLA-B*58:01 유병률과 알로퓨리놀 이상반응.
+[^159]: Prevalence of Human Leukocyte Antigen (HLA)-B*58:01 and Allopurinol-Induced Adverse Reactions in Korean Patients. _Journal of Korean medical science_. 2025-02. [관찰연구] — 한국인 237명의 HLA-B*58:01 유병률과 알로퓨리놀 이상반응. 이 항목은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리켰고, 제목으로 원문을 찾을 수 없어 오도하는 링크를 제거하였다. 서지사항 미확인 항목이며, 서지사항이 확인되기 전까지 유효한 근거로 삼지 않는다.
 [^160]: Efficacy of the HLA-B(∗)58:01 Screening Test in Preventing Allopurinol-Induced Severe Cutaneous Adverse Reactions. _Journal of rheumatology_. 2019-04. [임상시험] — HLA-B*58:01 선별 검사가 알로퓨리놀 과민 반응 예방. 542명.
 [^161]: Impact of HLA-B*58:01 allele and allopurinol-induced cutaneous adverse reactions. _Journal of rheumatology_. 2016-12-06. [메타분석] — HLA-B*58:01 대립유전자와 알로퓨리놀 피부 이상반응. 12,513명.
 [^162]: Impact of the HLA-B(*)58:01 Allele and Renal Impairment on Allopurinol Hypersensitivity. _Journal of rheumatology_. 2016-07. [관찰연구] — 431명의 HLA-B*58:01·신기능·알로퓨리놀 과민.
