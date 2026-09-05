@@ -1,6 +1,6 @@
 # 근막통증증후군 (筋膜痛症候群, Myofascial Pain Syndrome)
 
-**출처**: med.symbolicinfo.com 검색 API 기반 작성. `myofascial pain syndrome`·`myofascial trigger point`·`dry needling`·`trigger point acupuncture`·근막통증증후군 등 국·영문 동의어를 조합해 `km=1&human=1&analyzed=1&per_page=100` 기준 다중 페이지 순회로 전수 수집하였다.
+**출처**: med.symbolicinfo.com 검색 API 기반 작성. `myofascial pain syndrome`·`myofascial trigger point`·`dry needling`·`trigger point acupuncture`·근막통증증후군 등 국·영문 동의어를 조합하고, 사람 대상 연구로 범위를 한정하여 다중 페이지 순회로 전수 수집하였다.
 **작성일**: 2026-08-24
 
 ## 제1편 개요와 역학
