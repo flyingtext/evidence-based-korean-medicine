@@ -71,7 +71,7 @@
 - 지황(地黃, Rehmanniae Radix) — 생지황·숙지황 하위 표제어 포함 **작성됨** (겸: 보혈약)
 - 현삼(玄蔘, Scrophularia buergeriana) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
 - 목단피(牡丹皮, Moutan Cortex)
-- 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
+- 적작약(赤芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨**
 - 자초(紫草, Lithospermi Radix) — **작성됨**
 
 ### 2-4. 청열해독약(淸熱解毒藥, Heat-Toxin Clearing)
@@ -457,7 +457,7 @@
 
 - 당귀(當歸, Angelica sinensis)
 - 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 **작성됨**
-- 백작약(白芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨** (겸: 청열량혈 — 적작약)
+- 백작약(白芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨** (겸: 청열량혈 — 적작약)
 - 하수오(何首烏, Polygonum multiflorum)
 - 아교(阿膠, Asini Corii Colla) — (작성 예정)
 - 용안육(龍眼肉, Longan Arillus) — (작성 예정)
