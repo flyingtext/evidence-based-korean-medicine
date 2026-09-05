@@ -596,7 +596,7 @@
 - **약물 유발 구강건조증**: 항히스타민제·항우울제·항정신병약·이뇨제가 원인이 되며, 일본 한방 구강질환 치료 문헌 고찰[^88]에서 관련 처방이 정리되었다.
 - **혈액투석 동반 구강건조증**: 체액 제한·투석 스트레스로 발생하며, 큐민·생강 함유 인공타액이 혈액투석 환자의 구강건조증에 유효했던 무작위임상시험[^89], 경혈 전기자극이 유효했던 연구[^90]가 있다.
 - **항암 화학요법 유발**: 미각 이상(dysgeusia)과 침 기능 저하에 대한 침 치료 무작위대조시험 프로토콜이 진행되었다[^91].
-- **구강작열감증후군(BMS, KCD-8 K14.6) 동반형**: 구강건조와 작열감·미각 이상이 동반되는 유형으로, 침 또는 경혈 주입의 체계적 고찰[^92], 역코산(六神散, Rikkosan) 가글·단기 복용의 관찰연구(코호트)[^93]와 여러 증례·관찰연구[^94][^95][^96][^97], 심박변이도(HRV)와 임상 특성의 연관성을 분석한 관찰연구[^98]가 보고되었다.
+- **구강작열감증후군(BMS, KCD-8 K14.6) 동반형**: 구강건조와 작열감·미각 이상이 동반되는 유형으로, 침 또는 경혈 주입의 체계적 고찰[^92], 입효산(立効散, 릿코산 Rikkosan) 가글·단기 복용의 관찰연구(코호트)[^93]와 여러 증례·관찰연구[^94][^95][^96][^97], 심박변이도(HRV)와 임상 특성의 연관성을 분석한 관찰연구[^98]가 보고되었다.
 
 #### ④ 치료
 
@@ -970,8 +970,8 @@
 [^91]: Acupuncture in chemotherapy-induced dysgeusia (AcuDysg): study protocol of a randomised controlled trial. _BMJ Open_. [임상시험 프로토콜] [DOI 10.1136/bmjopen-2022-066137](https://doi.org/10.1136/bmjopen-2022-066137) [PMID 36898749](https://pubmed.ncbi.nlm.nih.gov/36898749/) — 항암화학요법 유발 미각 이상의 침 치료 무작위대조시험 프로토콜.
 [^92]: A systematic review of acupuncture or acupoint injection for management of burning mouth syndrome. [체계적 고찰] [PMID 23034422](https://pubmed.ncbi.nlm.nih.gov/23034422/) — 구강작열감증후군의 침·경혈주입 치료 체계적 고찰.
 [^93]: Rikkosan's Short-Term Analgesic Effect on Burning Mouth Syndrome: A Single-Arm Cohort Study. _Biomedicines_. 2024. [관찰연구] [DOI 10.3390/biomedicines12051013](https://doi.org/10.3390/biomedicines12051013) [PMID 38790975](https://pubmed.ncbi.nlm.nih.gov/38790975/) — 역코산의 구강작열감증후군 단기 진통 효과.
-[^94]: Effectiveness of rikkosan gargling for burning mouth syndrome. [증례 보고] [DOI 10.1002/tkm2.1072](https://doi.org/10.1002/tkm2.1072) — 역코산 가글의 구강작열감증후군 개선 증례.
-[^95]: Effectiveness of Rikkosan for intractable intraoral pain. [증례 보고] [DOI 10.1002/tkm2.1014](https://doi.org/10.1002/tkm2.1014) — 역코산의 난치성 구강내 통증 개선 증례.
+[^94]: Effectiveness of rikkosan gargling for burning mouth syndrome. [증례 보고] [DOI 10.1002/tkm2.1072](https://doi.org/10.1002/tkm2.1072) — 입효산 가글의 구강작열감증후군 개선 증례.
+[^95]: Effectiveness of Rikkosan for intractable intraoral pain. [증례 보고] [DOI 10.1002/tkm2.1014](https://doi.org/10.1002/tkm2.1014) — 입효산의 난치성 구강내 통증 개선 증례.
 [^96]: Clinical efficacy of a traditional Japanese (kampo) medicine for burning mouth syndrome. [관찰연구] [DOI 10.1002/tkm2.1049](https://doi.org/10.1002/tkm2.1049) — 역코산의 구강작열감증후군 임상 효능.
 [^97]: Efficacy of rikkosan for primary burning mouth syndrome: a retrospective study. [관찰연구] [DOI 10.1186/s13030-021-00221-2](https://doi.org/10.1186/s13030-021-00221-2) [PMID 34717696](https://pubmed.ncbi.nlm.nih.gov/34717696/) — 역코산의 원발성 구강작열감증후군 후향적 연구.
 [^98]: Heart Rate Variability Analysis According to Clinical Characteristics in Patients with Burning Mouth Syndrome. _Journal of Internal Korean Medicine_. 2022. [관찰연구] [DOI 10.22246/jikm.2022.43.1.53](https://doi.org/10.22246/jikm.2022.43.1.53) — 구강작열감증후군 환자의 임상 특성별 심박변이도 분석.

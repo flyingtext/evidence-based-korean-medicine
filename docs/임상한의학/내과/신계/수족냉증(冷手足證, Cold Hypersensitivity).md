@@ -190,7 +190,7 @@
 | 온경활혈(溫經活血) | 혈허한응·상열하한 | 온경탕·당귀사역탕 |
 | 화어통락(化瘀通絡) | 기체혈어 | 계지복령환·당귀작약산 |
 | 청열이습(淸熱利濕) | 습열하주 | 용담사간탕·팔정산 |
-| 조화영위(調和營衛) | 상열하한 | 시약산·계지감초탕 |
+| 조화영위(調和營衛) | 상열하한 | 사역산·계지감초탕 |
 
 > 위 치법 위계 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 겸증·병기 전변에 따라 치법·배오는 개별 환자의 변증 재평가로 결정되어야 한다.
 
@@ -216,9 +216,9 @@
 
 당귀작약산(當歸芍藥散)은 원발성 월경통에서 진통제·위약 대비 반응률과 통증 완화가 우수하다[^6][^4]. 당귀작약가감술유탕(當歸芍藥加減述楡湯, TJ-38)은 말초 냉증을 호소하는 여성의 말초 혈류량을 개선하여 냉증 증상을 완화한다[^24]. 갱년기 증상 관리에 당귀작약산이 활용되며[^50][^118], 월경통 하위분석에서는 변증에 따라 혈위 특이 효과가 달랐다 — 한습정체 변증에서는 삼음교(SP6)가 현종(GB39)·비경혈보다 유의하게 우수하였다.
 
-#### 8-6. 시약산(柴胡桂枝乾薑湯, Shigyaku-san)
+#### 8-6. 사역산(四逆散, 시갸쿠산 Shigyaku-san)
 
-시약산(柴胡桂枝乾薑湯)은 스트레스에 민감한 수족다한증 환자의 땀 분비를 유의하게 감소시키며, 동반 증상인 수족냉증을 개선하는 효과가 있다. 자율신경계 불균형이나 간기울결(肝氣鬱結) 양상을 보이는 다한증 환자에게 적용 가능하다[^27].
+사역산(四逆散)은 스트레스에 민감한 수족다한증 환자의 땀 분비를 유의하게 감소시키며, 동반 증상인 수족냉증을 개선하는 효과가 있다. 자율신경계 불균형이나 간기울결(肝氣鬱結) 양상을 보이는 다한증 환자에게 적용 가능하다[^27].
 
 #### 8-7. 부자(附子) 포함 처방
 
@@ -878,7 +878,7 @@
 [^24]: Effects of a traditional herbal medicine on peripheral blood flow in women experiencing peripheral coldness: a randomized controlled trial. _BMC complementary and alternative medicine_. 2015-04-02. [임상시험] [DOI 10.1186/s12906-015-0617-4](https://doi.org/10.1186/s12906-015-0617-4) [PMID 25886635](https://pubmed.ncbi.nlm.nih.gov/25886635/) — 당귀작약가감술유탕(TJ-38)은 말초 냉증을 호소하는 여성의 말초 혈류량을 개선하여 냉증 증상을 완화하는 데 효과가 있음을 시사한다.
 [^25]: Efficacy of fermented green tea on peripheral skin temperature: a randomized and placebo-controlled clinical study. _Journal of cosmetic dermatology_. 2016-09. [임상시험] [DOI 10.1111/jocd.12205](https://doi.org/10.1111/jocd.12205) [PMID 26714439](https://pubmed.ncbi.nlm.nih.gov/26714439/) — 발효 녹차 섭취가 수족냉증을 느끼는 여성의 말초 피부 온도를 유의하게 상승시키는 효과가 있음을 확인하였다.
 [^26]: Effect of Korean red ginseng on cold hypersensitivity in the hands and feet: study protocol for a randomized controlled trial. _Trials_. 2013-12-19. [임상시험] [DOI 10.1186/1745-6215-14-438](https://doi.org/10.1186/1745-6215-14-438) [PMID 24354675](https://pubmed.ncbi.nlm.nih.gov/24354675/) — 본 연구는 수족냉증 환자를 대상으로 고려인삼(Korean red ginseng)의 말초 혈관 확장 및 혈류 개선 효과를 평가하기 위한 프로토콜이다.
-[^27]: Clinical Evaluation of Perspiration Reducing Effects of a Kampo Formula, Shigyaku-san, on Palmoplantar Hidrosis. _Evidence-based complementary and alternative medicine : eCAM_. 2008-06. [임상시험] [DOI 10.1093/ecam/nem008](https://doi.org/10.1093/ecam/nem008) [PMID 18604249](https://pubmed.ncbi.nlm.nih.gov/18604249/) — 시약산(柴胡桂枝乾薑湯)은 스트레스에 민감한 수족다한증 환자의 안정 시 및 스트레스 상황에서의 땀 분비를 유의하게 감소시키며, 동반 증상인 수족냉증을 개선하는 효과가 있다.
+[^27]: Clinical Evaluation of Perspiration Reducing Effects of a Kampo Formula, Shigyaku-san, on Palmoplantar Hidrosis. _Evidence-based complementary and alternative medicine : eCAM_. 2008-06. [임상시험] [DOI 10.1093/ecam/nem008](https://doi.org/10.1093/ecam/nem008) [PMID 18604249](https://pubmed.ncbi.nlm.nih.gov/18604249/) — 사역산(四逆散)은 스트레스에 민감한 수족다한증 환자의 안정 시 및 스트레스 상황에서의 땀 분비를 유의하게 감소시키며, 동반 증상인 수족냉증을 개선하는 효과가 있다.
 [^28]: [Clinical study of the electroacupuncture combined with thunder-fire moxibustion in treatment of degenerative knee osteoarthritis with cold-damp stagnation]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2016.12.011](https://doi.org/10.13703/j.0255-2930.2016.12.011) [PMID 29231364](https://pubmed.ncbi.nlm.nih.gov/29231364/) — 한랭습체(cold-damp stagnation)를 동반한 퇴행성 무릎 관절염 환자에게 전침과 뇌화구(thunder-fire moxibustion)를 병용하는 것이 단독 전침 치료보다 통증(VAS), 관절 기능(Lequesne, Lysholm), 염증.
 [^29]: [Effect of umbilicus moxibustion therapy on physical conditions of yang-deficiency volunteers]. _Zhen ci yan jiu = Acupuncture research_. 2012-10. [임상시험] [PMID 23342783](https://pubmed.ncbi.nlm.nih.gov/23342783/) — 양허(陽虛) 체질의 서브헬스 환자에게 금궤신기환과 신궐(神闕) 뜸 치료를 병행하는 것이 금궤신기환 단독 투여보다 정신적 피로, 수족냉증, 요슬산연, 설사 등의 증상을 개선하는 데 더 효과적이다.
 [^30]: Comparison of effects of vitamin E and wen-jing-tang (unkei-to), an herbal medicine, on peripheral blood flow in post-menopausal women with chilly sensation in the lower extremities: a randomized prospective study. _The American journal of Chinese medicine_. 2006. [임상시험] [DOI 10.1142/S0192415X06004442](https://doi.org/10.1142/S0192415X06004442) [PMID 17163586](https://pubmed.ncbi.nlm.nih.gov/17163586/) — 溫經湯(온경탕)은 폐경 전후 여성의 하체 냉증 개선에 있어 비타민 E보다 효과적으로 말초 혈류량을 증가시키며, 신체 상부의 과도한 혈류를 억제하여 전신 혈류 분포를 생리적으로 정상화하는 효과가 있다.
