@@ -1359,7 +1359,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^37]: Mechanism of Buzhong Yiqi Decoction Modulates the Wnt5a/β-catenin Signaling Pathway to Ameliorate Thyroid Inflammatory Damage. _중국 중서의결합잡지_. 2025. [실험연구] [DOI 10.2174/0118715303382098250831204645](https://doi.org/10.2174/0118715303382098250831204645) — 보중익기탕 Wnt5a/β-catenin 조절로 갑상선 염증 손상 개선. TgAb·TPOAb 감소.
 
-[^38]: Buzhong Yiqi Decoction induces ferroptosis of A549/DDP cells to reverse cisplatin resistance in non-small cell lung cancer. _중국 중약잡지_. 2026. [실험연구] [DOI 10.19540/j.cnki.jjcmm.20260107.701](https://doi.org/10.19540/j.cnki.jjcmm.20260107.701) [PMID 42392776](https://pubmed.ncbi.nlm.nih.gov/42392776/) — 보중익기탕 AMPK/ACC1 활성화로 페로토시스 유도, 시스플라틴 내성 역전.
+[^38]: Buzhong Yiqi Decoction induces ferroptosis of A549/DDP cells to reverse cisplatin resistance in non-small cell lung cancer. _중국 중약잡지_. 2026. [실험연구] [DOI 10.19540/j.cnki.cjcmm.20260107.701](https://doi.org/10.19540/j.cnki.cjcmm.20260107.701) [PMID 42392776](https://pubmed.ncbi.nlm.nih.gov/42392776/) — 보중익기탕 AMPK/ACC1 활성화로 페로토시스 유도, 시스플라틴 내성 역전.
 
 [^39]: Efficacy of Buzhong Yiqi decoction on benign prostatic hyperplasia and its possible mechanism. _중국 중서의결합잡지_. 2023. [실험연구] [DOI 10.19852/j.cnki.jtcm.2023.03.003](https://doi.org/10.19852/j.cnki.jtcm.2023.03.003) [PMID 37147755](https://pubmed.ncbi.nlm.nih.gov/37147755/) — 보중익기탕 퀘르세틴이 MAPK·NF-κB·TNF·IL-6·MMP-9 억제로 전립선비대증 세포 증식 억제.
 
@@ -1423,7 +1423,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^69]: Tongxinshu capsules in the treatment of stable angina pectoris due to qi deficiency and blood stasis. _Journal of ethnopharmacology_. 2025-03-13. [임상시험] [DOI 10.1016/j.jep.2025.119437](https://doi.org/10.1016/j.jep.2025.119437) [PMID 39914689](https://pubmed.ncbi.nlm.nih.gov/39914689/) — 통심서캡슐 안정형 협심증 기허혈어 120명 시험.
 
-[^70]: Investigation of therapeutic effects and mechanisms of Shenqi Buqi Granules on patients with chronic heart failure of Qi deficiency. _중국 중약잡지_. 2025. [임상시험] [DOI 10.19540/j.cnki.jjcmm.20250314.502](https://doi.org/10.19540/j.cnki.jjcmm.20250314.502) [PMID 40686185](https://pubmed.ncbi.nlm.nih.gov/40686185/) — 신기보기과립 심부전 기허 단백체 분석. CD34·PPP1CA 핵심 단백질.
+[^70]: Investigation of therapeutic effects and mechanisms of Shenqi Buqi Granules on patients with chronic heart failure of Qi deficiency. _중국 중약잡지_. 2025. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20250314.502](https://doi.org/10.19540/j.cnki.cjcmm.20250314.502) [PMID 40686185](https://pubmed.ncbi.nlm.nih.gov/40686185/) — 신기보기과립 심부전 기허 단백체 분석. CD34·PPP1CA 핵심 단백질.
 
 [^71]: Treatment of chronic heart failure by shencao tongmai granule: a multi-centered, double-blinded, randomized, parallel controlled trial. _중국 중서의결합잡지_. 2012. [임상시험] [PMID 22679719](https://pubmed.ncbi.nlm.nih.gov/22679719/) — 신찬통맥 과립 심부전 280명 다기관시험. 기허혈어 복합 변증.
 

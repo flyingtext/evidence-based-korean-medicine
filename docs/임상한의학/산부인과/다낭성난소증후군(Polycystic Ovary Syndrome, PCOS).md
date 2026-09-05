@@ -1189,7 +1189,7 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^203]: Self-Control Study on the Impact of Buzhong Yiqi Prescription on the Gut Microbiota of Obese Polycystic Ovary Syndrome. _Preprint_. 2020-12-07. [임상시험] [DOI 10.21203/rs.3.rs-117891/v1](https://doi.org/10.21203/rs.3.rs-117891/v1) — 보중익기처방이 비만 PCOS 50명 장내미생물에 영향.
 
-[^205]: Therapeutic effects of puerarin on polycystic ovary syndrome. _Medicine_. 2021-05-28. [임상시험] [DOI 10.1097/md.0000000000026049](https://doi.org/10.1097/md.0000000000026049) [PMID 34018751](https://pubmed.ncbi.nlm.nih.gov/34018751/) — 푸에라린 51명 PCOS 임상시험. 대사·호르몬 개선.
+[^205]: Therapeutic effects of puerarin on polycystic ovary syndrome. _Medicine_. 2021-05-28. [임상시험] [DOI 10.1021/acs.jpclett.1c00918](https://doi.org/10.1021/acs.jpclett.1c00918) [PMID 34018751](https://pubmed.ncbi.nlm.nih.gov/34018751/) — 푸에라린 51명 PCOS 임상시험. 대사·호르몬 개선.
 
 [^206]: Efficacy of Bushen Huatan Decoction Combined with Baduanjin in the Treatment of Polycystic Ovary Syndrome. _Preprint_. 2021-06-29. [임상시험] [DOI 10.21203/rs.3.rs-650053/v1](https://doi.org/10.21203/rs.3.rs-650053/v1) — 보신화담탕+팔단금 190명. 비만형 PCOS.
 
@@ -1269,9 +1269,9 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^434]: Metabolite and gut microbiota co-biomarkers in Danggui Shaoyao San: insights into a shared. _Frontiers in pharmacology_. 2025. [문헌 고찰] [DOI 10.3389/fphar.2025.1698734](https://doi.org/10.3389/fphar.2025.1698734) [PMID 41601981](https://pubmed.ncbi.nlm.nih.gov/41601981/) — 당귀작약산 대사체·장내미생물 공동 바이오마커. PCOS 대사 축과 공유.
 
-[^437]: From Pathophysiology to Treatment: The Role of Ferroptosis in PCOS. _Frontiers in Bioscience-Landmark_. 2025-02-17. [문헌 고찰] [DOI 10.31083/fbl25586](https://doi.org/10.31083/fbl25586) [PMID 41050656](https://pubmed.ncbi.nlm.nih.gov/41050656/) — 철단백질침착증(ferroptosis)의 PCOS 병태생리·치료 역할.
+[^437]: From Pathophysiology to Treatment: The Role of Ferroptosis in PCOS. _Frontiers in Bioscience-Landmark_. 2025-02-17. [문헌 고찰] [DOI 10.3389/fimmu.2025.1659342](https://doi.org/10.3389/fimmu.2025.1659342) [PMID 41050656](https://pubmed.ncbi.nlm.nih.gov/41050656/) — 철단백질침착증(ferroptosis)의 PCOS 병태생리·치료 역할.
 
-[^443]: The role of traditional Chinese medicine in modulating gut microbiota to alleviating insulin resistance in PCOS. _Frontiers in Nutrition_. 2025-11-25. [문헌 고찰] [DOI 10.3389/fnut.2025.1700612](https://doi.org/10.3389/fnut.2025.1700612) [PMID 40783741](https://pubmed.ncbi.nlm.nih.gov/40783741/) — 한약이 장내미생물 조절로 PCOS 인슐린 저항성 완화.
+[^443]: The role of traditional Chinese medicine in modulating gut microbiota to alleviating insulin resistance in PCOS. _Frontiers in Nutrition_. 2025-11-25. [문헌 고찰] [DOI 10.1186/s13048-025-01756-6](https://doi.org/10.1186/s13048-025-01756-6) [PMID 40783741](https://pubmed.ncbi.nlm.nih.gov/40783741/) — 한약이 장내미생물 조절로 PCOS 인슐린 저항성 완화.
 
 [^450]: The role of gut microbiota mediated ferroptosis in PCOS and the therapeutic potential of Chinese medicine. _Frontiers in medicine_. 2026. [문헌 고찰] [DOI 10.3389/fmed.2026.1730795](https://doi.org/10.3389/fmed.2026.1730795) [PMID 42006870](https://pubmed.ncbi.nlm.nih.gov/42006870/) — 장내미생물 매개 철단백질침착증의 PCOS 역할·한약 치료 가능성.
 
