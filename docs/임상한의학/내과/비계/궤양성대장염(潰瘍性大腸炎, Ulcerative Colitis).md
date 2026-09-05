@@ -122,7 +122,7 @@ IBD 환자의 상당수가 보완대체의학을 병용하며, 특히 프로바�
 ### 2. 대표 방제 방해(方解)
 
 - **갈근금련탕(葛根芩連湯)**: 단독 또는 양약 병용 시 치료 유효율을 높이고 재발률·내시경 중증도를 개선한다(메타분석, 2,028명)[^36][^65].
-- **황금탕(黃芩湯)**: 메살라진 병용이 단독보다 완치율·유효율을 개선한다(메타분석, 565명)[^14].
+- **황금탕(黃芩湯)**: 메살라진 병용의 우월성을 보고한 메타분석(565명)이 있었으나 **해당 논문은 2023년 철회(retraction)되었으므로 근거로 삼을 수 없다**[^14]. 현재 황금탕에 대해 신뢰할 만한 인체 근거는 확보되지 않은 상태로 본다.
 - **삼령백출산(蔘苓白朮散)**: 비기허형 궤양성대장염 치료 효과를 평가하는 체계적 고찰 프로토콜이 진행되었다[^37].
 - **오매환(烏梅丸)**: 궤양성대장염 치료 효과를 확인한 메타분석이 있다(메타분석)[^46]. 침구 병용 시 효과가 더 크다는 체계적 고찰도 있다[^58].
 - **감초사심탕(甘草瀉心湯)**: 메살라진 병용의 유효성을 평가하는 체계적 고찰 프로토콜이 있다[^39].
@@ -368,7 +368,7 @@ O99.6(임신·출산·산욕에 합병된 소화기계통의 질환) + K51[교�
 
 **Q3. 한약을 복용하면 좋아지나요?**
 
-갈근금련탕이 단독·병용 시 치료 유효율을 높이고 재발률을 낮췄다(메타분석, 2,028명)[^36]. 황금탕+메살라진 병용도 완치율·유효율을 개선했다(메타분석, 565명)[^14]. 메살라진 단독으로 효과가 부족한 환자에게 병용을 고려할 수 있다.
+갈근금련탕이 단독·병용 시 치료 유효율을 높이고 재발률을 낮췄다(메타분석, 2,028명)[^36]. 황금탕+메살라진 병용의 우월성을 보고한 메타분석(565명)도 있었으나 철회된 논문이므로 근거에서 제외한다[^14]. 따라서 메살라진 단독으로 효과가 부족한 환자에게 병용을 고려할 근거는 현재 갈근금련탕 쪽에 한정된다.
 
 **Q4. 뜸(灸) 치료는 도움이 되나요?**
 
@@ -409,7 +409,7 @@ O99.6(임신·출산·산욕에 합병된 소화기계통의 질환) + K51[교�
 [^11]: The Effectiveness of Huangkui Lianchang Decoction Enema Solution Compared with Mesalazine Enema for Mild-to-Moderate Active Distal Ulcerative Colitis. Zhu Y 외. _Journal of pain research_. 2026. [임상시험] [DOI 10.2147/JPR.S574028](https://doi.org/10.2147/JPR.S574028) [PMID 41890576](https://pubmed.ncbi.nlm.nih.gov/41890576/) — 황귀련장탕 관장액의 메살라진 관장 대비 효과를 평가하는 다기관 RCT.
 [^12]: Clinical efficacy analysis of acupuncture combined with anti-tumor necrosis factor treatment for spleen and kidney yang deficiency type ulcerative colitis. Qin P 외. _Frontiers in medicine_. 2026. [관찰연구] [DOI 10.3389/fmed.2026.1751270](https://doi.org/10.3389/fmed.2026.1751270) [PMID 42460073](https://pubmed.ncbi.nlm.nih.gov/42460073/) — 침+항TNF 병용이 비신양허형 환자의 관해율·점막 치유율을 높이고 대장 절제율을 낮춤.
 [^13]: A comparative study on the clinical differences in traditional Chinese medicine pattern in ulcerative colitis utilizing multidimensional data. Xingyao Lu 외. _Frontiers in Medicine_. 2026-07-15. [관찰연구] [DOI 10.3389/fmed.2026.1830908](https://doi.org/10.3389/fmed.2026.1830908) — 대장습열 변증이 비허습저 변증보다 염증·내시경 손상이 더 심함을 확인.
-[^14]: Systematic Evaluation of Randomized Clinical Trials of Huangqin Tang in Combination with Mesalazine for Ulcerative Colitis. Pan C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석] [DOI 10.1155/2022/2175913](https://doi.org/10.1155/2022/2175913) [PMID 35990830](https://pubmed.ncbi.nlm.nih.gov/35990830/) — 황금탕+메살라진 병용이 단독보다 완치율·유효율을 개선.
+[^14]: Systematic Evaluation of Randomized Clinical Trials of Huangqin Tang in Combination with Mesalazine for Ulcerative Colitis. Pan C 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/2175913](https://doi.org/10.1155/2022/2175913) [PMID 35990830](https://pubmed.ncbi.nlm.nih.gov/35990830/) — **2023년 12월 철회(Retraction Notice: PMID 38125155)**. 황금탕+메살라진 병용의 우월성을 보고했으나 철회되었으므로 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다.
 [^15]: [Clinical and experimental study on treatment of retention enema for chronic non-specific ulcerative colitis with quick-acting kuijie powder]. Zhou Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1999-07. [임상시험] [PMID 11783209](https://pubmed.ncbi.nlm.nih.gov/11783209/) — 속효쾌결분 유지관장이 경구 설파살라진보다 유효율·완치율을 높이고 재발률을 낮춤.
 [^16]: [Clinical observation on treatment of ulcerative colitis by soothing liver and activating spleen]. Cheng WJ. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2001-01. [임상시험] [PMID 12577375](https://pubmed.ncbi.nlm.nih.gov/12577375/) — 소간활비 처방이 간울비허형 궤양성대장염에 효과.
 [^17]: Different therapy for different types of ulcerative colitis in China. Jiang XL 외. _World journal of gastroenterology_. 2004-05-15. [임상시험] [DOI 10.3748/wjg.v10.i10.1513](https://doi.org/10.3748/wjg.v10.i10.1513) [PMID 15133864](https://pubmed.ncbi.nlm.nih.gov/15133864/) — 병변 유형별 차별화된 중의 치료 전략을 제시.
