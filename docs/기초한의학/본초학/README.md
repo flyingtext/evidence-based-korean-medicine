@@ -48,7 +48,7 @@
 - 노근(蘆根, Phragmitis Rhizoma)
 - 천화분(天花粉, Trichosanthis Radix)
 - 죽엽(竹葉, Bambusae Folium) — **작성됨** (기원식물 *Phyllostachys nigra* var. *henonis* 등. 담죽엽淡竹葉·*Lophatherum gracile*과 기원 식물이 다름을 문서 서두에서 구분)
-- 치자(梔子, Gardenia)
+- 치자(梔子, Gardeniae Fructus)
 - 하고초(夏枯草, Prunellae Spica)
 - 담죽엽(淡竹葉, Lophatheri Herba) — **작성됨** (정식 기원식물 *Lophatherum gracile*. 죽엽과의 기원 구분은 문서 서두 참조)
 - 밀몽화(密蒙花, Buddlejae Flos)
