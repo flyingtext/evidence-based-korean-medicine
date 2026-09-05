@@ -17,7 +17,7 @@
 - 방풍(防風, Saposhnikoviae Radix)
 - 고본(藁本, Ligustici Rhizoma) — **작성됨**
 - 신이(辛夷, Magnoliae Flos) — **작성됨**
-- 세신(細辛, Asarum)
+- 세신(細辛, Asiasari Radix et Rhizoma)
 - 생강(生薑, Zingiber officinale)
 - 향유(香薷, Elsholtziae Herba) — **작성됨**
 - 총백(蔥白, Allii Fistulosi Bulbus)
