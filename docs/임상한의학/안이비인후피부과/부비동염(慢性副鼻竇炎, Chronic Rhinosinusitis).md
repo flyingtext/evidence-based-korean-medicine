@@ -222,7 +222,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 | 처방/제제 | 설계 | 표본 | 주요 결과 | 근거 |
 | --- | --- | --- | --- | --- |
 | BNO 1016(Sinupret) | 다기관 RCT | 다수 | MSS 감소, 증상완화 2일 단축 | [^7][^8] |
-| 신이비연환 | 수술+표준치료 병용 RCT | 112명 | 유효율 상승, 염증인자·재발률 개선 | [^93] |
+| 신이비연환 | 수술+표준치료 병용 RCT | 112명 | 유효율 상승, 염증인자·재발률 개선 | [^93](철회된 논문으로 유효 근거가 아니다) |
 | 축원탕 | FESS 후 RCT | 85명 | 스테로이드와 유사한 개선·안전성 | [^94] |
 | 창이산+어성초 | 항생제 대조 RCT | 53명 | 에리트로마이신과 유사, 점막기능 개선 우세 | [^95] |
 | 련화청온과립 | RCT | 140명 | VAS·SNOT-22 개선, T세포 활성 저하 | [^97] |
@@ -237,7 +237,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 부비동염 영역의 한의학적 근거는 **처방·아형·연구 설계에 따라 근거 수준이 크게 이질적** 이다. 정리하면 다음과 같다.
 
 1. **체계적 고찰·메타분석 수준**: 한약 전반의 CRS 증상·삶의 질 개선 효과[^5][^28][^29], 침의 PRISMA 메타분석[^37], 수술 후 경구 중약 병용 메타분석[^46]은 상대적으로 근거 밀도가 높다. 다만 대부분 원저 연구의 표본 크기가 작고, 눈가림·배정은폐가 불완전하며, 중국·한국 단일 언어권 데이터베이스에 치우쳐 출판 편향 가능성이 있다.[^9][^41]
-2. **개별 무작위 대조 시험 수준**: 신이비연환[^93]·련화청온과립[^97]·비원통교과립[^33]·갈근탕가천궁신이[^100] 등은 개별 RCT 근거가 있으나, 동일 처방을 반복 검증한 독립 연구는 드물어 **재현성 검증이 더 필요** 하다.
+2. **개별 무작위 대조 시험 수준**: 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·련화청온과립[^97]·비원통교과립[^33]·갈근탕가천궁신이[^100] 등은 개별 RCT 근거가 있으나, 동일 처방을 반복 검증한 독립 연구는 드물어 **재현성 검증이 더 필요** 하다.
 3. **관찰연구·증례 수준**: 호산구성 부비동염의 패독산+계지복령환 관해 유지 증례[^12], 진균성 부비동염의 아유르베다 보존 치료 증례[^13]는 단일 증례로, 일반화 가능성에 한계가 있다.
 4. **프로토콜·진행 중 연구**: 다수의 침·중약 프로토콜(예: [^10][^40][^44][^45])이 등록되어 향후 결과 발표 시 근거가 갱신될 예정이다.
 
@@ -278,7 +278,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 
 #### 8-2. 신이청폐탕(辛夷淸肺湯)·신이비연환(信夷鼻炎丸)
 
-신이(辛夷)를 군약으로 하여 통규(通竅)하고 청폐(淸肺)하는 처방이다. 신이비연환을 내시경 부비동 수술 및 표준 약물 치료와 병용했을 때, 단독 치료보다 임상적 유효율이 높고 증상 개선 속도가 빨랐으며 혈청 염증 인자를 감소시키고 면역 기능을 개선하여 수술 후 단기 재발률을 낮추는 효과가 확인되었다.[^93]
+신이(辛夷)를 군약으로 하여 통규(通竅)하고 청폐(淸肺)하는 처방이다. 신이비연환을 내시경 부비동 수술 및 표준 약물 치료와 병용했을 때, 단독 치료보다 임상적 유효율이 높고 증상 개선 속도가 빨랐으며 혈청 염증 인자를 감소시키고 면역 기능을 개선하여 수술 후 단기 재발률을 낮추는 효과가 확인되었다.[^93](철회된 논문으로 유효 근거가 아니다)
 
 #### 8-3. 축원탕(縮鼻湯, Zhu-yuan Decoction 계열)
 
@@ -321,7 +321,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 
 ### 9. 본초 각론
 
-- **신이(辛夷, Magnolia flos)**: 통규(通竅)의 대표 본초. 신이비연환[^93]·갈근탕가천궁신이[^100] 등 다수 처방의 군약.
+- **신이(辛夷, Magnolia flos)**: 통규(通竅)의 대표 본초. 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·갈근탕가천궁신이[^100] 등 다수 처방의 군약.
 - **창이자(蒼耳子, Xanthium fructus)**: 창이산의 군약. 어성초와 병용 시 항생제와 유사한 증상 개선을 보였다.[^95]
 - **백지(白芷, Angelicae dahuricae radix)**: 통규지통(通竅止痛), 안면통 개선에 배오.
 - **형개(荊芥)·연교(連翹)**: 소풍청열의 대표 배오, 형개연교탕의 군약.[^4]
@@ -762,7 +762,7 @@ ERAS(수술 후 조기 회복) 프로토콜을 적용하면 표준 치료 대비
 
 **Q4. 어떤 한약이 부비동염에 흔히 쓰이나요?**
 
-국내 건강보험 데이터에서 만성 부비동염에 가장 많이 처방된 한약은 형개연교탕(荊芥連翹湯, 48.5%)이었습니다.[^4] 신이비연환[^93]·축원탕[^94]·련화청온과립[^97]도 임상 근거가 축적되었습니다. 호산구성 난치성 부비동염에는 변증에 따라 패독산(敗毒散)·계지복령환(桂枝茯苓丸) 병용이 보고되었으며,[^12] 부비동염 동반 비염에는 소청룡탕(小靑龍湯)이 활용됩니다.[^14] **변증에 따른 개별 처방 선택** 이 중요합니다.
+국내 건강보험 데이터에서 만성 부비동염에 가장 많이 처방된 한약은 형개연교탕(荊芥連翹湯, 48.5%)이었습니다.[^4] 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·축원탕[^94]·련화청온과립[^97]도 임상 근거가 축적되었습니다. 호산구성 난치성 부비동염에는 변증에 따라 패독산(敗毒散)·계지복령환(桂枝茯苓丸) 병용이 보고되었으며,[^12] 부비동염 동반 비염에는 소청룡탕(小靑龍湯)이 활용됩니다.[^14] **변증에 따른 개별 처방 선택** 이 중요합니다.
 
 **Q5. 부비동염은 양방과 한방을 같이 받아도 되나요?**
 
@@ -919,7 +919,7 @@ ERAS(수술 후 조기 회복) 프로토콜을 적용하면 표준 치료 대비
 [^90]: [Indications of biological treatment in patients with chronic rhinosinusitis with nasal polyps]. Wang C 외. _Lin chuang er bi yan hou tou jing wai ke za zhi = Journal of clinical otorhinolaryngology head and neck surgery_. 2026-02. [임상진료지침] [DOI 10.13201/j.issn.2096-7993.2026.02.004](https://doi.org/10.13201/j.issn.2096-7993.2026.02.004) [PMID 41589365](https://pubmed.ncbi.nlm.nih.gov/41589365/) — 난치성 만성 비부동염 및 비폴립(CRSwNP) 환자에게 생물학적 제제를 사용할 수 있는 구체적인 적응증 기준을 제시하였다.
 [^91]: A clinical trial of Sri Lankan traditional decoction of Pitawakka Navaya in the treatment of Kaphaja Shirsha Shoola. Maragalawaththa MG 외. _Ayu_. 2010-07. [임상시험] [DOI 10.4103/0974-8520.77147](https://doi.org/10.4103/0974-8520.77147) [PMID 22131725](https://pubmed.ncbi.nlm.nih.gov/22131725/) — 스리랑카 전통 처방인 Pitawakka Navaya 전탕액이 만성 부비동염과 유사한 Kaphaja Shirsha Shoola 증상 완화에 효과적임을 확인하였다.
 [^92]: Comparison of Safety and Efficacy of Al-Hijama (Cupping) and Conventional Medical Therapy for Sinusitis (I). Eman A. Ghazy 외. _Journal of King Abdulaziz University: Medical Sciences_. 1981-12-31. [임상시험] [DOI 10.4197/med.25-2.2](https://doi.org/10.4197/med.25-2.2) — 습식 부항(Al-Hijama) 요법은 부비동염 환자의 증상 빈도, 중증도 및 지속 기간을 줄이는 데 있어 기존 약물 치료보다 우수하거나 이를 보완하는 효과가 있음이 확인되었습니다.
-[^93]: Effect of Xinyi Biyan Pill in Adjuvant Treatment of Patients with Chronic Rhinosinusitis and Its Influence on Serum Inflammatory Factors and Immune Function. Bao Q 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험] [DOI 10.1155/2021/2228803](https://doi.org/10.1155/2021/2228803) [PMID 34490054](https://pubmed.ncbi.nlm.nih.gov/34490054/) — 만성 부비동염(CRS) 환자에게 내시경 부비동 수술 및 표준 약물 치료와 함께 신이비연환(信夷鼻炎丸)을 병용 투여했을 때, 단독 치료보다 임상적 유효율이 높고 증상 개선 속도가 빨랐다.
+[^93]: Effect of Xinyi Biyan Pill in Adjuvant Treatment of Patients with Chronic Rhinosinusitis and Its Influence on Serum Inflammatory Factors and Immune Function. Bao Q 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [임상시험, 철회됨] [DOI 10.1155/2021/2228803](https://doi.org/10.1155/2021/2228803) [PMID 34490054](https://pubmed.ncbi.nlm.nih.gov/34490054/) — **철회(Retraction Notice: [PMID 38125122](https://pubmed.ncbi.nlm.nih.gov/38125122/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 만성 부비동염(CRS) 환자에게 내시경 부비동 수술 및 표준 약물 치료와 함께 신이비연환(信夷鼻炎丸)을 병용 투여했을 때, 단독 치료보다 임상적 유효율이 높고 증상 개선 속도가 빨랐다.
 [^94]: Effect of Zhu-yuan decoction in patients with chronic rhinosinusitis after functional endoscopic sinus surgery. Li J 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2018-02. [임상시험] [PMID 32185955](https://pubmed.ncbi.nlm.nih.gov/32185955/) — 부비동 내시경 수술(FESS) 후 만성 부비동염 환자에게 축원탕을 투여하는 것은 비강 내 스테로이드제와 유사한 증상 개선 효과 및 안전성을 보였다.
 [^95]: Efficacy of Chinese herbal medicine compared with a macrolide in the treatment of chronic rhinosinusitis without nasal polyps. Jiang RS 외. _American journal of rhinology & allergy_. . [임상시험] [DOI 10.2500/ajra.2012.26.3778](https://doi.org/10.2500/ajra.2012.26.3778) [PMID 22801017](https://pubmed.ncbi.nlm.nih.gov/22801017/) — 비폴립성 만성 비부비동염 환자에게 창이산과 어성초 조합의 중약 치료는 마크로라이드계 항생제인 에리트로마이신과 유사한 증상 개선 효과를 보였다. 특히 사카린 검사 결과에서 중약 그룹이 항생제 그룹보다 점막 기능 개선(전달 시간 단축)에 더 효과적일 수 있음을 시사한다.
 [^96]: Efficacy of Sri Lankan Traditional Decoction of Katuwelbatu Deduru Katukadi in treatment of Kaphaja Shira Shula (Chronic Sinusitis). Ediriweera ER 외. _Ayu_. 2010-01. [임상시험] [DOI 10.4103/0974-8520.68208](https://doi.org/10.4103/0974-8520.68208) [PMID 22131686](https://pubmed.ncbi.nlm.nih.gov/22131686/) — 스리랑카 전통 처방인 Katuwelbatu Deduru Katukadi 전탕액이 만성 부비동염(Kaphaja Shira Shula) 환자의 증상 완화와 혈중 호산구 수 감소에 효과적임을 확인하였다.

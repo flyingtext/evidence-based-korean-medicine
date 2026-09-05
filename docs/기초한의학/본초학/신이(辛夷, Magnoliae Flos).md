@@ -104,7 +104,7 @@
 
 ### 4-3. 소아 알레르기 비염
 
-소아는 성인과 다른 약동학적 특성과 순응도 문제를 가지므로 별도의 근거 축적이 중요하다. 데이터마이닝을 이용해 소아 알레르기 비염 처방 패턴을 분석한 관찰연구는 신이를 포함한 빈용 본초군을 확인하였고,[^5] 소아 알레르기 비염 환자의 전통의학 이용 양상을 분석한 대만 전국 규모 관찰연구,[^15] 명의(名醫) 진료 데이터를 바탕으로 소아 알레르기 비염의 핵심 처방과 기전을 탐색한 실사용데이터 연구도[^43] 신이 함유 처방의 소아 임상 활용 근거를 뒷받침한다. 소아 알레르기 비염에 대한 중의학 임상진료지침은 변증별 치료 원칙을 제시하며,[^18] 서양의학적 관점에서 소아 알레르기 비염에 대한 중의학 치료의 현황과 한계를 정리한 서술적 리뷰,[^50] 최신 종합 리뷰도[^76] 함께 참고할 수 있다. 옥병풍산 가미 분말과 로라타딘 병용이 소아 알레르기 비염에 유효했던 비교 처방 임상시험,[^49] 소아 알레르기 비염에 대한 한약 복합제제의 효과를 평가하는 체계적 고찰·메타분석 프로토콜,[^60] 소아 알레르기 질환 전반에 대한 보완대체의학 리뷰도[^64] 함께 고려할 수 있는 근거다.
+소아는 성인과 다른 약동학적 특성과 순응도 문제를 가지므로 별도의 근거 축적이 중요하다. 데이터마이닝을 이용해 소아 알레르기 비염 처방 패턴을 분석한 관찰연구는 신이를 포함한 빈용 본초군을 확인하였고,[^5](철회된 논문으로 유효 근거가 아니다) 소아 알레르기 비염 환자의 전통의학 이용 양상을 분석한 대만 전국 규모 관찰연구,[^15] 명의(名醫) 진료 데이터를 바탕으로 소아 알레르기 비염의 핵심 처방과 기전을 탐색한 실사용데이터 연구도[^43] 신이 함유 처방의 소아 임상 활용 근거를 뒷받침한다. 소아 알레르기 비염에 대한 중의학 임상진료지침은 변증별 치료 원칙을 제시하며,[^18] 서양의학적 관점에서 소아 알레르기 비염에 대한 중의학 치료의 현황과 한계를 정리한 서술적 리뷰,[^50] 최신 종합 리뷰도[^76] 함께 참고할 수 있다. 옥병풍산 가미 분말과 로라타딘 병용이 소아 알레르기 비염에 유효했던 비교 처방 임상시험,[^49] 소아 알레르기 비염에 대한 한약 복합제제의 효과를 평가하는 체계적 고찰·메타분석 프로토콜,[^60] 소아 알레르기 질환 전반에 대한 보완대체의학 리뷰도[^64] 함께 고려할 수 있는 근거다.
 
 ### 4-4. 만성 부비동염(비연, 鼻淵)
 
@@ -128,7 +128,7 @@
 |---|---|---|
 | 알레르기 비염(경구) | 메타분석·체계적 고찰 다수 | 신이 함유 처방이 항히스타민 대비 증상 개선에 유의한 이점을 보이나 처방별 이질성 존재[^54][^58][^67][^55] |
 | 알레르기 비염(국소·첩부) | 임상시험·체계적 고찰 | 비강 점적·세척·경혈 첩부가 보조요법으로 활용[^4][^9][^37][^41][^68] |
-| 소아 알레르기 비염 | 관찰연구·지침 | 신이 함유 처방이 소아 빈용 처방군에 포함, 지침에 반영[^5][^15][^18] |
+| 소아 알레르기 비염 | 관찰연구·지침 | 신이 함유 처방이 소아 빈용 처방군에 포함, 지침에 반영[^5](철회된 논문으로 유효 근거가 아니다)[^15][^18] |
 | 만성 부비동염 | 체계적 고찰·메타분석 다수 | 신이 함유 처방(갈근탕가천궁신이 등)이 수술 전후·보존적 치료에 활용[^16][^21][^31][^86] |
 | 천식 동반 상기도질환 | 임상시험·관찰연구 | 신이 추출물·신이청폐탕이 상기도-하기도 연관 개선 시사[^7][^85] |
 
@@ -208,7 +208,7 @@
 
 **Q5. 소아에게도 신이 함유 처방을 사용할 수 있나요?**
 
-임상적으로 널리 활용되고 있습니다. 소아 알레르기 비염 처방 패턴 분석에서 신이가 빈용 약재로 확인되었고,[^5] 신이 휘발유 나노리포좀 비강 점적제가 소아 알레르기 비염에서 임상 효과를 보였습니다.[^4] 다만 소아는 융모 자극이나 약물 용량에 더 민감할 수 있으므로, 성인 기준을 그대로 적용하지 않고 소아 임상진료지침에 따른 용량 조정이 필요합니다.[^18]
+임상적으로 널리 활용되고 있습니다. 소아 알레르기 비염 처방 패턴 분석에서 신이가 빈용 약재로 확인되었고,[^5](철회된 논문으로 유효 근거가 아니다) 신이 휘발유 나노리포좀 비강 점적제가 소아 알레르기 비염에서 임상 효과를 보였습니다.[^4] 다만 소아는 융모 자극이나 약물 용량에 더 민감할 수 있으므로, 성인 기준을 그대로 적용하지 않고 소아 임상진료지침에 따른 용량 조정이 필요합니다.[^18]
 
 **Q6. 만성 부비동염(축농증) 수술 후에도 신이 함유 처방이 도움이 되나요?**
 
@@ -232,7 +232,7 @@
 [^2]: [The geographical variation of essential oils of flos Magnoliae]. Nagasawa M 외. _Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan_. 1969-04. [기타] [DOI 10.1248/yakushi1947.89.4_454](https://doi.org/10.1248/yakushi1947.89.4_454) [PMID 5816907](https://pubmed.ncbi.nlm.nih.gov/5816907/) — 일본산 신이 정유의 지역별 성분 차이를 분석한 초기 화학 연구로, 산지별 품질 편차 가능성을 시사.
 [^3]: Chemistry and bioactivity of Flos Magnoliae, a Chinese herb for rhinitis and sinusitis. Shen Y 외. _Current medicinal chemistry_. 2008. [문헌 고찰] [DOI 10.2174/092986708784911515](https://doi.org/10.2174/092986708784911515) [PMID 18673228](https://pubmed.ncbi.nlm.nih.gov/18673228/) — 신이의 화학 성분·비염/부비동염에 대한 생물활성을 정리한 종합 리뷰로, 신이가 비연(鼻淵)·비구(鼻鼽) 치료 대표 본초임을 뒷받침.
 [^4]: [Clinical observation of Flos magnoliae volatile oil nano-liposome nasal drops in treating pediatric allergic rhinitis]. Wu M 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2009-08. [임상시험] [PMID 19848210](https://pubmed.ncbi.nlm.nih.gov/19848210/) — 신이 휘발유 나노리포좀 비강 점적제가 소아 알레르기 비염에서 임상 효과를 보인 임상시험.
-[^5]: Effect of Traditional Chinese Medicine on Allergic Rhinitis in Children under Data Mining. Shen M 외. _Computational and mathematical methods in medicine_. 2022. [관찰연구] [DOI 10.1155/2022/7007370](https://doi.org/10.1155/2022/7007370) [PMID 35693255](https://pubmed.ncbi.nlm.nih.gov/35693255/) — 데이터마이닝으로 소아 알레르기 비염 처방 패턴을 분석해 신이를 포함한 빈용 본초군을 확인한 관찰연구.
+[^5]: Effect of Traditional Chinese Medicine on Allergic Rhinitis in Children under Data Mining. Shen M 외. _Computational and mathematical methods in medicine_. 2022. [관찰연구, 철회됨] [DOI 10.1155/2022/7007370](https://doi.org/10.1155/2022/7007370) [PMID 35693255](https://pubmed.ncbi.nlm.nih.gov/35693255/) — **철회(Retraction Notice: [PMID 37503395](https://pubmed.ncbi.nlm.nih.gov/37503395/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 데이터마이닝으로 소아 알레르기 비염 처방 패턴을 분석해 신이를 포함한 빈용 본초군을 확인한 관찰연구.
 [^6]: Pharmacological Potential and Molecular Targets of Tetrahydrofurofuranoid Lignans From Magnoliae Flos. Yi X 외. _Drug design, development and therapy_. 2025. [문헌 고찰] [DOI 10.2147/DDDT.S547924](https://doi.org/10.2147/DDDT.S547924) [PMID 41064597](https://pubmed.ncbi.nlm.nih.gov/41064597/) — 신이의 테트라히드로푸로푸라노이드 리그난 계열 성분의 약리 표적을 정리한 최신 리뷰.
 [^7]: Effects of add-on therapy with NDC-052, an extract from Magnoliae Flos, in adult asthmatic patients receiving inhaled corticosteroids. Park CS 외. _The Korean journal of internal medicine_. 2012-03. [임상시험] [DOI 10.3904/kjim.2012.27.1.84](https://doi.org/10.3904/kjim.2012.27.1.84) [PMID 22403504](https://pubmed.ncbi.nlm.nih.gov/22403504/) — 신이 추출물(NDC-052)을 흡입 스테로이드 병용 성인 천식 환자에게 부가 투여한 임상시험으로, 호흡기 염증 조절 보조 효과 가능성을 시사.
 [^8]: Identifying the Chinese Herbal Medicine Network and Core Formula for Allergic Rhinitis on a Real‐World Database. Yen-Chu Lu 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [관찰연구] [DOI 10.1155/2020/5979708](https://doi.org/10.1155/2020/5979708) — 실제 임상 데이터베이스에서 알레르기 비염 처방 네트워크와 핵심 처방을 도출한 관찰연구로, 신이가 핵심 배오 약재로 확인됨.

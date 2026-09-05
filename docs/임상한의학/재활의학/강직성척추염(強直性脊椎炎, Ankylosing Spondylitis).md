@@ -114,7 +114,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 
 #### 7-2. TNF-α·IL-17/IL-23 축과 염증 기전
 
-강직성 척추염의 핵심 염증 경로는 TNF-α와 IL-23/IL-17 축이다(교과서적 근거). 강직성 척추염 환자는 대조군보다 Th1·Th17 세포 비율이 유의하게 변화되어 있으며, 질병 활성도가 높을수록 Th17 세포 우세와 IL-17 발현 증가가 뚜렷하여 Treg/Th17 불균형이 병태생리의 핵심 축임을 시사한다[^53]. 혈청 IL-6·IL-17 수치는 아시아인·코카시안 모두에서 건강 대조군보다 유의하게 높아 진단 보조·치료 반응 평가 지표로 활용될 수 있다[^54]. 말초혈액의 T-bet(+)ILC3(3형 선천림프구) 세포는 질병 활성도가 높은 환자에서 유의하게 증가하며 IL-17A·IFN-γ와 정비례하여, 새로운 치료 표적 후보로 주목된다[^55]. 최근에는 장-관절 축(gut-joint axis)의 붕괴가 IL-23/IL-17 경로 및 면역세포 활성화를 통해 염증·골 리모델링에 기여한다는 기전 리뷰가 축적되고 있으며[^56][^58], 한국인 코호트를 대상으로 구강-장내 미생물군과 AS·염증성 장질환의 관련성을 분석하는 대규모 전향적 연구가 진행 중이다[^57]. 이러한 장내미생물-면역 축 연구는 한의학의 비위(脾胃)-신(腎) 상관 이론 및 습열(濕熱) 병기와 병리생리학적으로 접점을 이룬다고 볼 수 있다.
+강직성 척추염의 핵심 염증 경로는 TNF-α와 IL-23/IL-17 축이다(교과서적 근거). 강직성 척추염 환자는 대조군보다 Th1·Th17 세포 비율이 유의하게 변화되어 있으며, 질병 활성도가 높을수록 Th17 세포 우세와 IL-17 발현 증가가 뚜렷하여 Treg/Th17 불균형이 병태생리의 핵심 축임을 시사한다[^53](철회된 논문으로 유효 근거가 아니다). 혈청 IL-6·IL-17 수치는 아시아인·코카시안 모두에서 건강 대조군보다 유의하게 높아 진단 보조·치료 반응 평가 지표로 활용될 수 있다[^54]. 말초혈액의 T-bet(+)ILC3(3형 선천림프구) 세포는 질병 활성도가 높은 환자에서 유의하게 증가하며 IL-17A·IFN-γ와 정비례하여, 새로운 치료 표적 후보로 주목된다[^55]. 최근에는 장-관절 축(gut-joint axis)의 붕괴가 IL-23/IL-17 경로 및 면역세포 활성화를 통해 염증·골 리모델링에 기여한다는 기전 리뷰가 축적되고 있으며[^56][^58], 한국인 코호트를 대상으로 구강-장내 미생물군과 AS·염증성 장질환의 관련성을 분석하는 대규모 전향적 연구가 진행 중이다[^57]. 이러한 장내미생물-면역 축 연구는 한의학의 비위(脾胃)-신(腎) 상관 이론 및 습열(濕熱) 병기와 병리생리학적으로 접점을 이룬다고 볼 수 있다.
 
 특히 염증성 장질환을 동반한 강직성 척추염 환자(제5편 25절)에서는 이 장-관절 축 병태생리가 임상적으로 가장 뚜렷하게 나타나므로, 소화기 증상이 있는 환자에서는 비위 기능을 함께 살피는 것이 변증의 정확도를 높이는 데 도움이 될 수 있다.
 
@@ -136,7 +136,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 | 전통 병기 서술 | 현대적 상관물(대응 관찰 소견) | 근거 |
 |---|---|---|
 | 신허(腎虛) — 골수 영양 부족, 독맥 온후 실조 | HLA-B27 유전적 소인, 신허혈어증 특이 단백체(ICAM1·CXCL8 등) | [^59] |
-| 풍한습(風寒濕) 외사 침습 | Th17/IL-17 축 활성화, 한랭·습윤 환경에서의 증상 악화 | [^53][^54] |
+| 풍한습(風寒濕) 외사 침습 | Th17/IL-17 축 활성화, 한랭·습윤 환경에서의 증상 악화 | [^53](철회된 논문으로 유효 근거가 아니다)[^54] |
 | 습열비조(濕熱痺阻) | 급성기 염증지표(ESR·CRP) 상승, 관절 발적·종창 | 교과서적 근거 |
 | 담어호결(痰瘀互結) — 강직·변형의 고착 | 신생골 형성(syndesmophyte), 척추 강직·천장관절 융합 | [^14] |
 | 신허혈어(腎虛血瘀) | 다중오믹스 바이오마커, 장-관절 축 이상 | [^59][^56] |
@@ -261,7 +261,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 - 보신강독지려탕(補腎强督止慮湯)의 장기 투여 증례는 염증 완화뿐 아니라 구조적 손상 이후의 기능 회복에도 긍정적인 영향을 시사한다[^125].
 
 **풍한습비증 대응 처방**
-- 독활기생탕(獨活寄生湯)은 강직성 척추염 환자의 통증(VAS)·조조강직·염증 지표(ESR·CRP·IL-6)를 유의하게 개선하며, 특히 위장관·피부 부작용을 줄이는 이점이 있다. 다만 BASFI·BASDAI 등 기능 지표나 골대사 지표에는 유의한 영향이 없어 기능 평가와 병행 투여가 필요하다[^110].
+- 독활기생탕(獨活寄生湯)의 강직성 척추염 효과를 단독으로 정리했던 메타분석(860명)은 이후 철회되어 유효 근거로 삼을 수 없다[^110](철회된 논문으로 유효 근거가 아니다). 이를 대체하는 인체 근거로, 독활기생탕을 양방 표준치료와 병용한 체계적 고찰·메타분석에서 임상 유효율과 염증 지표(ESR·CRP) 개선 및 이상반응 감소가 보고되었다[^174]. 따라서 독활기생탕은 단독 요법이 아니라 표준치료 병용 보조로 위치시키는 것이 현재 근거에 부합하며, BASFI·BASDAI 등 기능 지표에 대한 효과는 여전히 확증되지 않았다.
 - 통독수근탕(通督舒筋湯)은 한습저체형(寒濕沮滯型) 강직성 척추염에서 통증·신체 기능·염증 수치 개선을 검증하는 무작위 대조 프로토콜로 등록되어 있다[^112].
 - 가감 보신장골방(加減補腎壯骨方)은 변증(신허한습/신허습열)에 맞추어 처방했을 때 양약 단독보다 임상 증상·신체 기능·ESR·CRP 개선에 더 효과적이었다[^120].
 
@@ -464,7 +464,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 
 #### ③ 병태생리
 
-말초혈액 Th1/Th17 세포 비율 변화와 IL-17 발현 증가가 질병 활성도와 비례하며[^53], T-bet(+)ILC3 세포 증가도 유사한 상관성을 보인다[^55]. 한국인 강직성 척추염 환자에서 말초 질환(부착염·말초관절염·지염)이 상당한 빈도로 나타난다[^145].
+말초혈액 Th1/Th17 세포 비율 변화와 IL-17 발현 증가가 질병 활성도와 비례하며[^53](철회된 논문으로 유효 근거가 아니다), T-bet(+)ILC3 세포 증가도 유사한 상관성을 보인다[^55]. 한국인 강직성 척추염 환자에서 말초 질환(부착염·말초관절염·지염)이 상당한 빈도로 나타난다[^145].
 
 #### ④ 치료
 
@@ -641,7 +641,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 | 부항 | 메타분석(근거질 낮음) | 습열비조증 겸 어체 | [^91] |
 | 도침·침도 | 메타분석·체계적 고찰 | 담어호결증, 중·말기 | [^13][^14][^32] |
 | 매선·자락 | 임상시험 | 신허혈어증 | [^52][^77] |
-| 한약(단미·복합) | 메타분석·체계적 고찰(다수) | 전 변증, 처방별 상이 | [^61][^62][^92][^110][^113][^126] |
+| 한약(단미·복합) | 메타분석·체계적 고찰(다수) | 전 변증, 처방별 상이 | [^61][^62][^92][^110](철회된 논문으로 유효 근거가 아니다)[^113][^126] |
 | 추나·운동요법 | 메타분석(운동), 증례(추나 위해) | 완화기 전반, 급성기는 금기 | [^16][^128][^173] |
 | 봉약침·이침 | 문헌고찰·프로토콜 | 근거 축적 중 | [^68][^135] |
 | 생물학적 제제 병용 | 메타분석·국가 레지스트리 | 표준 치료 단계에 따라 | [^96][^103][^152][^153] |
@@ -881,7 +881,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^50]: MHC associations of ankylosing spondylitis in East Asians are complex and involve non-HLA-B27 HLA contributions. _Arthritis research & therapy_. 2020-04-09. [관찰연구] [DOI 10.1186/s13075-020-02148-5](https://doi.org/10.1186/s13075-020-02148-5) [PMID 32272966](https://pubmed.ncbi.nlm.nih.gov/32272966/) — 동아시아인 AS는 HLA-B27 외 HLA-C*15·B*40·DQB1*04 등 다양한 HLA 변이 관여.
 [^51]: Occurrence of human leukocyte antigen B51-related ankylosing spondylitis in a family: Two case reports. _World journal of clinical cases_. 2022-01-21. [증례 보고] [DOI 10.12998/wjcc.v10.i3.992](https://doi.org/10.12998/wjcc.v10.i3.992) [PMID 35127912](https://pubmed.ncbi.nlm.nih.gov/35127912/) — HLA-B27 음성이라도 HLA-B51 양성 시 AS 유사 질환 발생 가능.
 [^52]: [Clinical observation on ankylosing spondylitis treated with acupoint catgut embedding combined vessel pricking therapy]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-07. [임상시험] [PMID 21823280](https://pubmed.ncbi.nlm.nih.gov/21823280/) — 매선+자락이 SASP 단독보다 증상·기능(쇼버검사·VAS) 개선.
-[^53]: Clinical Significance of Peripheral Blood Th1 and Th17 Cell Content and Serum IL-35 and IL-17 Expression in Patients with Ankylosing Spondylitis. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구] [DOI 10.1155/2022/6540557](https://doi.org/10.1155/2022/6540557) [PMID 35646154](https://pubmed.ncbi.nlm.nih.gov/35646154/) — AS 환자에서 Th1/Th17 세포 비율 변화, 질병활성도 높을수록 Th17 우세·IL-17 발현 증가.
+[^53]: Clinical Significance of Peripheral Blood Th1 and Th17 Cell Content and Serum IL-35 and IL-17 Expression in Patients with Ankylosing Spondylitis. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구, 철회됨] [DOI 10.1155/2022/6540557](https://doi.org/10.1155/2022/6540557) [PMID 35646154](https://pubmed.ncbi.nlm.nih.gov/35646154/) — **철회(Retraction Notice: [PMID 37387943](https://pubmed.ncbi.nlm.nih.gov/37387943/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: AS 환자에서 Th1/Th17 세포 비율 변화, 질병활성도 높을수록 Th17 우세·IL-17 발현 증가.
 [^54]: Elevated serum levels of IL-6 and IL-17 may associate with the development of ankylosing spondylitis. _International journal of clinical and experimental medicine_. 2015. [메타분석] [PMID 26770328](https://pubmed.ncbi.nlm.nih.gov/26770328/) — AS 환자 혈청 IL-6·IL-17 유의하게 높음, 아시아인·코카시안 공통.
 [^55]: T-bet(+)ILC3 in peripheral blood is increased in the ankylosing spondylitis with high disease activity. _Heliyon_. 2025-01-15. [관찰연구] [DOI 10.1016/j.heliyon.2025.e41678](https://doi.org/10.1016/j.heliyon.2025.e41678) [PMID 39866450](https://pubmed.ncbi.nlm.nih.gov/39866450/) — AS 환자 말초혈액 T-bet(+)ILC3 증가, 질병중증도·IL-17A·IFN-γ와 정비례.
 [^56]: Mechanistic insights into how gut homeostasis and immune-system crosstalk shape ankylosing spondylitis. _Frontiers in immunology_. 2026. [문헌 고찰] [DOI 10.3389/fimmu.2026.1809165](https://doi.org/10.3389/fimmu.2026.1809165) [PMID 42338589](https://pubmed.ncbi.nlm.nih.gov/42338589/) — 장내미생물 불균형·장-관절축 붕괴가 IL-23/IL-17 경로 통해 염증·골리모델링에 기여.
@@ -938,7 +938,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^107]: [Exploration of the mechanism of xinfeng capsule in the treatment of ankylosing spondylitis based on B and T lymphocyte attenuator and oxidative stress]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-01. [임상시험] [PMID 25790670](https://pubmed.ncbi.nlm.nih.gov/25790670/) — 신풍캡슐이 BTLA 발현 증가·산화스트레스 감소, SASP보다 ASAS20·BASDAI50 우수.
 [^108]: [Huangqin Qingre Chubi Capsules in improving oxidative stress of patients with ankylosing spondylitis via activating PPARγ mediated AMPK/FOXO3a pathway]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-01. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20190619.501](https://doi.org/10.19540/j.cnki.cjcmm.20190619.501) [PMID 32237331](https://pubmed.ncbi.nlm.nih.gov/32237331/) — 황금청열축비캡슐이 산화스트레스 감소, PPARγ/AMPK/FOXO3a 경로 조절.
 [^109]: [Effects of bushen tongdu decoction on serum tumor necrosis factor-alpha and transforming growth factor beta1, in patients with ankylosing spondylitis]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-12. [임상시험] [PMID 19317165](https://pubmed.ncbi.nlm.nih.gov/19317165/) — 보신통두탕이 TNF-α 감소·TGF-β1 증가, ESR·CRP 개선.
-[^110]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — 독활기생탕이 VAS·조조강직·ESR·CRP·IL-6 개선, 위장관·피부 부작용 감소.
+[^110]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 독활기생탕이 VAS·조조강직·ESR·CRP·IL-6 개선, 위장관·피부 부작용 감소.
 [^111]: Therapeutic effects of traditional Chinese medicine fumigating plus Yang-He decoction for patients with ankylosing spondylitis: A systematic review and network meta-analysis. _저널 미상_. 2023-04-20. [메타분석] [DOI 10.37766/inplasy2023.4.0074](https://doi.org/10.37766/inplasy2023.4.0074) — 중약훈증+양화탕 병용 효과 평가 네트워크 메타분석.
 [^112]: Clinical study of Tongdu Shujin decoction in the treatment of ankylosing spondylitis with cold-dampness obstruction type: Study protocol for a randomized controlled trial. _Medicine_. 2023-02-10. [임상시험] [DOI 10.1097/md.0000000000032852](https://doi.org/10.1097/md.0000000000032852) — 통독수근탕이 한습저체형 AS에서 통증·기능·염증 개선 평가 프로토콜.
 [^113]: Efficacy and Safety of Sinomenine Preparation for Ankylosing Spondylitis: A Systematic Review and Meta-Analysis of Clinical Randomized Controlled Trials. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [메타분석] [DOI 10.1155/2020/4593412](https://doi.org/10.1155/2020/4593412) [PMID 32508948](https://pubmed.ncbi.nlm.nih.gov/32508948/) — 시노메닌 제제가 BASDAI·조조강직·척추가동성·CRP 개선, 안전성 문제없음.
@@ -1002,3 +1002,4 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^171]: Predicting ankylosing spondylitis disease activity via patient-reported outcome measures: Building prediction models based on machine learning. _PloS one_. 2026. [관찰연구] [DOI 10.1371/journal.pone.0353486](https://doi.org/10.1371/journal.pone.0353486) [PMID 42455803](https://pubmed.ncbi.nlm.nih.gov/42455803/) — PROM 기반 머신러닝이 ASDAS-CRP 예측, FSOR+SVM모델 우수.
 [^172]: Cost-of-illness and quality of life in patients with ankylosing spondylitis at a tertiary hospital in Korea. _Journal of Korean medical science_. 2014-02. [관찰연구] [DOI 10.3346/jkms.2014.29.2.190](https://doi.org/10.3346/jkms.2014.29.2.190) [PMID 24550644](https://pubmed.ncbi.nlm.nih.gov/24550644/) — 기능적 중증도 높을수록 경제적부담·삶의질 악화.
 [^173]: Complementary medicine for axial spondyloarthritis: is there any scientific evidence?. _Current opinion in rheumatology_. 2018-07. [문헌 고찰] [DOI 10.1097/BOR.0000000000000513](https://doi.org/10.1097/BOR.0000000000000513) [PMID 29634580](https://pubmed.ncbi.nlm.nih.gov/29634580/) — 운동·심신요법이 기능개선에 도움, 추나 안전성 주의.
+[^174]: Efficacy and safety of Duhuo Jisheng decoction combined with Western medicine in the treatment of ankylosing spondylitis: A systematic review and meta-analysis. Wan R 외. _Complementary therapies in clinical practice_. 2023-05. [메타분석] [DOI 10.1016/j.ctcp.2023.101739](https://doi.org/10.1016/j.ctcp.2023.101739) [PMID 36809795](https://pubmed.ncbi.nlm.nih.gov/36809795/) — 철회된 단독 메타분석을 대체하는 인체 근거로, 독활기생탕 병용의 유효율·염증 지표 개선과 이상반응 감소를 보고.

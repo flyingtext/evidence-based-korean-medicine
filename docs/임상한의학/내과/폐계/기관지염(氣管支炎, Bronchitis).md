@@ -280,7 +280,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 
 **백합고금탕(百合固金湯)**: 폐신음허로 인한 건성 만성 기침·폐렴에 효과적이라는 문헌 정리가 있으며 항종양 활성도 언급되나, 이는 종설 수준 근거로 해석에 신중함이 필요하다[^75].
 
-**미르톨(myrtol)·프로바이오틱스**: 만성 기관지염·COPD 대상 체계적 고찰 프로토콜이 각각 진행 중이다[^76][^77]. N-아세틸시스테인(NAC) 고용량 투여는 만성 기관지염 동반 COPD 100명 RCT에서 위약 대비 SGRQ 점수의 유의한 개선을 보이지 못해[^78], 모든 거담·항산화 보조제가 일관되게 효과적이지는 않음을 보여준다.
+**미르톨(myrtol)·프로바이오틱스**: 만성 기관지염·COPD 대상 체계적 고찰 프로토콜이 각각 진행 중이다[^76][^77]. N-아세틸시스테인(NAC) 고용량 투여는 만성 기관지염 동반 COPD 100명 RCT에서 위약 대비 SGRQ 점수의 유의한 개선을 보이지 못해[^78](철회된 논문으로 유효 근거가 아니다), 모든 거담·항산화 보조제가 일관되게 효과적이지는 않음을 보여준다.
 
 ### 4-7. 천식성·노인성 기관지염 치법
 
@@ -498,7 +498,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 | 침 치료 후 기흉 | 흉부 수술 이력, 만성 기관지염·폐기종·폐렴·결핵·폐암 병력, 남성에서 위험 증가(발생률 자체는 매우 낮음, 100만 건당 0.87건) | [^108] |
 | 뜸 연기 호흡기 자극 | 천식·기관지염 소인이 있는 환자에게 흉부 압박감·호흡곤란·가래 증가 유발 가능 | [^109] |
 | 괄사(刮痧) 후 피부 변화 | 선형 자반·변색이 병리적 출혈성 질환으로 오인될 수 있음(질병이 아님) | [^110] |
-| N-아세틸시스테인 고용량 | 만성 기관지염 동반 COPD에서 유의한 임상적 이점 확인되지 않음 | [^78] |
+| N-아세틸시스테인 고용량 | 만성 기관지염 동반 COPD에서 유의한 임상적 이점 확인되지 않음 | [^78](철회된 논문으로 유효 근거가 아니다) |
 | Pelargonium sidoides | 일부 실용적 RCT에서 경미한 부작용이 대조군보다 많았음 | [^44] |
 | 항생제 과다 처방 | 비정형 병원체 검출률(1.8%)에 비해 처방률(72.2%)이 과도하게 높은 현실 | [^120] |
 | Sauropus androgynus 과다 섭취 | 폐쇄성 세기관지염(bronchiolitis obliterans)을 유발할 수 있는 독성 식물 | [^103] |
@@ -694,7 +694,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 [^75]: Bai He Gu Jin Tang (Lily Bulb Decoction to Preserve the Metal): A Chinese Herbal Medication for the Metal Element. Signe Beebe. _American Journal of Traditional Chinese Veterinary Medicine_. 2023-02-01. [문헌 고찰] [DOI 10.59565/npxr3257](https://doi.org/10.59565/npxr3257) — 百合固金湯(백합고금탕)은 폐와 신의 음허(Yin Deficiency)로 인한 건성 만성 기침 및 폐렴 치료에 매우 효과적이며, 특히 폐암의 성장을 억제하는 항종양 활성이 있어 통합 치료제로 활용 가능하다.
 [^76]: Effect of myrtol on chronic bronchitis or chronic obstructive pulmonary disease: A protocol for systematic review and meta-analysis. Liu L 외. _Medicine_. 2020-07-10. [체계적 고찰] [DOI 10.1097/MD.0000000000020692](https://doi.org/10.1097/MD.0000000000020692) [PMID 32664065](https://pubmed.ncbi.nlm.nih.gov/32664065/) — 본 연구는 만성 기관지염 및 COPD 환자를 대상으로 미르톨(myrtol)의 치료 효과와 안전성을 평가하기 위한 체계적 문헌고찰 및 메타분석 프로토콜입니다.
 [^77]: Effect of probiotics, prebiotics and synbiotics for chronic bronchitis or chronic obstructive pulmonary disease: A protocol for systematic review and meta-analysis. Pei C 외. _Medicine_. 2020-11-06. [체계적 고찰] [DOI 10.1097/MD.0000000000023045](https://doi.org/10.1097/MD.0000000000023045) [PMID 33157958](https://pubmed.ncbi.nlm.nih.gov/33157958/) — 본 연구는 만성 기관지염 및 COPD 환자를 대상으로 프로바이오틱스, 프리바이오틱스, 신바이오틱스의 임상적 효능과 안전성을 평가하기 위한 프로토콜 연구입니다.
-[^78]: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis. Zhang L 외. _BioMed research international_. 2022. [임상시험] [DOI 10.1155/2022/9133777](https://doi.org/10.1155/2022/9133777) [PMID 35795313](https://pubmed.ncbi.nlm.nih.gov/35795313/) — 만성 기관지염을 동반한 COPD 환자에게 고용량의 N-아세틸시스테인(NAC)을 투여했으나, 위약 대비 호흡기 건강 상태(SGQR 점수)의 유의미한 개선 효과가 나타나지 않았다 (100명 대상).
+[^78]: Efficacy and Safety of N-Acetylcysteine for Chronic Obstructive Pulmonary Disease and Chronic Bronchitis. Zhang L 외. _BioMed research international_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/9133777](https://doi.org/10.1155/2022/9133777) [PMID 35795313](https://pubmed.ncbi.nlm.nih.gov/35795313/) — **철회(Retraction Notice: [PMID 38075328](https://pubmed.ncbi.nlm.nih.gov/38075328/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 만성 기관지염을 동반한 COPD 환자에게 고용량의 N-아세틸시스테인(NAC)을 투여했으나, 위약 대비 호흡기 건강 상태(SGQR 점수)의 유의미한 개선 효과가 나타나지 않았다 (100명 대상).
 [^79]: Effects of drug cupping therapy on immune function in chronic asthmatic bronchitis patients during protracted period. Zhang CQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-11. [임상시험] [PMID 17186726](https://pubmed.ncbi.nlm.nih.gov/17186726/) — 만성 천식성 기관지염 환자의 지연기에 육미지황환과 함께 평천고를 이용한 약침 부항요법을 병행하는 것이 일반 부항요법보다 임상적 유효율이 높고 면역 기능 개선 효과가 더 뛰어남을 확인하였다 (77명 대상).
 [^80]: Effect of acupuncture or acupressure on quality of life of patients with chronic obstructive asthma: a pilot study. Maa SH 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2003-10. [임상시험] [DOI 10.1089/107555303322524517](https://doi.org/10.1089/107555303322524517) [PMID 14629844](https://pubmed.ncbi.nlm.nih.gov/14629844/) — 만성 폐쇄성 천식 환자에게 표준 치료와 함께 鍼(침, acupuncture)이나 지압(Acupressure)을 병행했을 때 삶의 질(Quality of Life)이 유의하게 개선됨을 확인하였다 (41명 대상).
 [^81]: Acupuncture for dyspnea and breathing physiology in chronic respiratory diseases: A systematic review and meta-analysis of randomized controlled trials. Yu Y 외. _Heliyon_. 2024-05-30. [메타분석] [DOI 10.1016/j.heliyon.2024.e31176](https://doi.org/10.1016/j.heliyon.2024.e31176) [PMID 38813170](https://pubmed.ncbi.nlm.nih.gov/38813170/) — 침술(鍼, acupuncture)은 만성 폐쇄성 폐질환(COPD), 폐암, 천식 등 다양한 만성 호흡기 질환 환자의 호흡곤란 증상을 완화하고 6분 보행 거리(6MWD) 및 수행 상태 점수를 개선하는 데 효과적이고 안전한 비약물적 보완 요법이 될 수 있습니다.

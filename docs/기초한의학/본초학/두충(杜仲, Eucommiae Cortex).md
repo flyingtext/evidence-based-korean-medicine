@@ -39,7 +39,7 @@
 - **두충(杜仲) 단미·가공**: 생두충·염두충(鹽杜仲, 소금으로 볶아 신(腎)에 귀경시킨 포제품)·두충탄(杜仲炭). 염두충은 보신(補腎) 효능을 강화하기 위한 전통 포제법이다.[^45][^47]
 - **두충엽(杜仲葉, Eucommiae Folium)**: 두충나무의 잎으로, 이리도이드(게니포시드산·아스페룰로사이드)와 클로로겐산이 상대적으로 우세하다.[^66] 혈압 강하·골소실 억제·비만 개선·비알코올성지방간 개선에 관한 보고가 있으나 **대부분 동물·세포 수준의 자료** 이며,[^11][^20][^21] 사람 자료는 차(茶) 형태의 소규모 연구에 한정된다.[^53][^54][^56] 수피와는 다른 약용 부위이므로 근거를 옮겨 적용하지 않는다.
 - **두충 유효 성분**: 피노레시놀 디글루코사이드(pinoresinol diglucoside, PG)·아우쿠빈(aucubin)·게니포시드산(geniposidic acid)·제니포사이드(geniposide)·제니핀(genipin)·유코미올(eucommiol)·클로로겐산(chlorogenic acid) 등이 주요 활성 성분이다.[^33][^35][^39][^40]
-- **두충 함유 처방**: 독활기생탕(獨活寄生湯)·천마구등음(天麻鉤藤飮)·우귀환(右歸丸)·청아환(靑娥丸)·보신강독탕(補腎强督湯)·보신강골방(補腎强骨方)·두충강압방(杜仲降壓方)·두충갈근방(杜仲葛根方)·복합 두충강골 과립(復方杜仲强骨顆粒)·두충보신방(杜仲補腎方)·전두충 캡슐(全杜仲)·신바로(SHINBARO)·가미사물탕(加味四物湯) 등.[^13][^22][^23][^24][^36][^38][^77][^81][^97] 원 문헌의 처방명은 보신강독탕(補腎强督湯)으로, 강직성 척추염에서 독맥(督脈)을 강하게 한다는 뜻이며 "보신강골탕"과 구분한다.[^13]
+- **두충 함유 처방**: 독활기생탕(獨活寄生湯)·천마구등음(天麻鉤藤飮)·우귀환(右歸丸)·청아환(靑娥丸)·보신강독탕(補腎强督湯)·보신강골방(補腎强骨方)·두충강압방(杜仲降壓方)·두충갈근방(杜仲葛根方)·복합 두충강골 과립(復方杜仲强骨顆粒)·두충보신방(杜仲補腎方)·전두충 캡슐(全杜仲)·신바로(SHINBARO)·가미사물탕(加味四物湯) 등.[^13][^22][^23](철회된 논문으로 유효 근거가 아니다)[^24][^36][^38][^77][^81][^97] 원 문헌의 처방명은 보신강독탕(補腎强督湯)으로, 강직성 척추염에서 독맥(督脈)을 강하게 한다는 뜻이며 "보신강골탕"과 구분한다.[^13]
 
 ### 약성과 귀경
 
@@ -102,7 +102,7 @@
 | 항염 | 대식세포에서 종양괴사인자-α·인터루킨-6 억제 | [^15][^16] |
 | 신장 보호 | 카드뮴 유발 신손상, 루푸스 신염 모델 | [^17][^18] |
 | 간·대사 | 티오아세트아마이드 간독성, 비알코올성 지방간, 혈당·지질 | [^19][^20][^21] |
-| 관절·추간판 | 신바로 관절 기전, 두충보신방(杜仲補腎方) 추간판 퇴행, 전두충 연골종판 | [^23][^24][^25] |
+| 관절·추간판 | 신바로 관절 기전, 두충보신방(杜仲補腎方) 추간판 퇴행, 전두충 연골종판 | [^23](철회된 논문으로 유효 근거가 아니다)[^24][^25] |
 | 대사·근육 | 두충갈근방(杜仲葛根方) 고요산혈증, 근위축 완화 방제 | [^26][^27] |
 | 기타 | 위점막·발기 기능·자궁 관련 모델, 피부 콜라겐 | [^28][^29][^32][^33] |
 | 약동학·분석 | 아우쿠빈 조직 분포, 성분 혈중 동태, 항균 활성, 흡수 동태, 프로게스토겐 활성 선별 | [^35][^36][^39][^40][^41][^42][^43][^46] |
@@ -156,10 +156,10 @@
 
 『비급천금요방(備急千金要方)』의 독활기생탕은 독활·상기생·**두충**·우슬·세신·진교·복령·육계심·방풍·천궁·인삼(人蔘)·감초·당귀·작약·건지황의 15미로 구성된다(교과서적 근거). 여기서 두충은 상기생·우슬과 함께 간신을 보하고 근골을 강하게 하는 신약(臣藥)의 축을 이룬다. 두충이 가장 빈번히 배오되는 처방이자, 근거가 가장 두터운 두충 함유 처방이다.
 
-- **슬관절염**: 무작위배정 시험을 모은 체계적 고찰은 독활기생탕이 통증·기능 지표에서 대조 치료 대비 유익한 경향을 보였으나 원 연구의 방법론적 질이 낮다고 지적했다.[^83] 한습비조증(寒濕痺阻證) 슬관절염을 대상으로 한 통합 분석에서도 유효율·통증 개선이 보고되었다.[^86] 전향적 임상 관찰에서는 복용 후 통증·기능 지표 개선과 함께 안전성이 확인되었다.[^90] 관절경 수술에 가감독활기생탕을 병용한 시험(82명)에서는 골대사·산화 스트레스 지표와 혈청 톨유사수용체4·형질전환성장인자-β1이 함께 개선되었다.[^93] 추나(推拿) 도수치료에 독활기생탕을 부가한 무작위배정 시험(70명)에서도 도수치료 단독보다 나은 결과가 보고되었다.[^94] 국내에서는 독활기생탕(독활기생탕, Dokhwalgisaeng-tang)의 퇴행성 슬관절염에 대한 다기관 무작위배정 평가자맹검 시험이 경제성 평가를 포함해 설계되었다.[^91] 관련 체계적 고찰 프로토콜도 다수 등록되어 있다.[^131][^132]
+- **슬관절염**: 무작위배정 시험을 모은 체계적 고찰은 독활기생탕이 통증·기능 지표에서 대조 치료 대비 유익한 경향을 보였으나 원 연구의 방법론적 질이 낮다고 지적했다.[^83] 한습비조증(寒濕痺阻證) 슬관절염을 대상으로 한 통합 분석에서도 유효율·통증 개선이 보고되었다.[^86] 전향적 임상 관찰에서는 복용 후 통증·기능 지표 개선과 함께 안전성이 확인되었다.[^90] 관절경 수술에 가감독활기생탕을 병용한 시험(82명)에서는 골대사·산화 스트레스 지표와 혈청 톨유사수용체4·형질전환성장인자-β1이 함께 개선되었다.[^93](철회된 논문으로 유효 근거가 아니다) 추나(推拿) 도수치료에 독활기생탕을 부가한 무작위배정 시험(70명)에서도 도수치료 단독보다 나은 결과가 보고되었다.[^94] 국내에서는 독활기생탕(독활기생탕, Dokhwalgisaeng-tang)의 퇴행성 슬관절염에 대한 다기관 무작위배정 평가자맹검 시험이 경제성 평가를 포함해 설계되었다.[^91] 관련 체계적 고찰 프로토콜도 다수 등록되어 있다.[^131][^132]
 - **요추 추간판 탈출증**: 무작위배정 시험을 모은 체계적 고찰에서 독활기생탕 단독 또는 병용이 대조군보다 유효율이 높았다.[^84] 후속 체계적 고찰도 같은 방향의 결론을 냈다.[^85] 온침(溫鍼)에 독활기생탕을 병용한 무작위배정 시험(104명)은 기체혈어(氣滯血瘀) 겸 간신부족(肝腎不足)형 요추 추간판 탈출증에서 통증·기능 개선을 보고했다.[^92]
 - **골다공증**: 폐경 후 골다공증을 대상으로 한 메타분석(650명)에서 독활기생탕이 골밀도와 통증 지표를 개선했다.[^81] 비스포스포네이트에 독활기생탕을 부가한 무작위배정 시험 메타분석(1,526명)에서도 골밀도·유효율이 향상되고 이상반응은 증가하지 않았다.[^82]
-- **강직성 척추염·류마티스 관절염**: 강직성 척추염 메타분석(860명)과 양약 병용 메타분석에서 유효율·염증 지표 개선이 보고되었고,[^87][^88] 류마티스 관절염 42편 무작위배정 시험 메타분석(3,635명)에서도 유효율 향상과 이상반응 감소가 관찰되었다.[^89] 질병조절항류마티스제 병용 설계의 체계적 고찰도 진행되었다.[^95]
+- **강직성 척추염·류마티스 관절염**: 강직성 척추염 메타분석(860명)과 양약 병용 메타분석에서 유효율·염증 지표 개선이 보고되었고,[^87](철회된 논문으로 유효 근거가 아니다)[^88] 류마티스 관절염 42편 무작위배정 시험 메타분석(3,635명)에서도 유효율 향상과 이상반응 감소가 관찰되었다.[^89] 질병조절항류마티스제 병용 설계의 체계적 고찰도 진행되었다.[^95]
 - **말초 혈관**: 레이노 현상 환자에서 독활기생탕과 당귀사역탕(當歸四逆湯) 병용이 니페디핀과 비교된 예비 연구가 있다.[^96]
 
 이 근거들은 모두 **제3층(방제 수준)** 이며, 두충 단독의 기여분을 분리해 산출한 자료는 아니다. 또한 대부분의 원 시험이 중국에서 수행되었고 눈가림·배정은폐가 불충분하다는 지적이 반복된다는 점을 함께 고려해야 한다.[^83][^85]
@@ -192,7 +192,7 @@
 | 복방 두충강골 과립 | 두충 중심 복합 과립 | 슬관절염 임상시험 600명[^22], 카신-벡병 치료 반응 예측[^80] |
 | 보신강독탕(補腎强督湯) | 구척·녹용·숙지황·음양곽·골쇄보·우슬·두충 등 | 강직성 척추염 동반 골다공증 임상시험 360명[^13] |
 | 보신강골방(補腎强骨方) | 숙지황·생지황·복령·산약 등에 두충 배오 | 온침구 병용 골다공증 관찰연구 103명[^77] |
-| 신바로(SHINBARO) | 방풍·우슬·오가피·구척·갈근·두충 | 관절질환 다기전 연구[^23] |
+| 신바로(SHINBARO) | 방풍·우슬·오가피·구척·갈근·두충 | 관절질환 다기전 연구[^23](철회된 논문으로 유효 근거가 아니다) |
 | 두충갈근방(杜仲葛根方) | 두충 + 갈근 | 고요산혈증 비임상[^26] |
 
 이 표는 두충 함유 제제를 조망하기 위한 정리이며 동일 근거수준의 권고가 아니다. 각 제제의 근거 층위(단미 제제인지 복합 방제인지)를 확인한 뒤 인용해야 한다.
@@ -217,7 +217,7 @@
 
 #### 항염·면역 조절
 
-사람 검체 수준에서 두충 추출물은 패혈증 환자 말초혈 단핵구의 인터루킨-10 생성을 감소시켰으나 강황보다 효과가 작았다.[^55] 신경-내분비-면역 조절망 총설은 두충의 조절 가능성을 폭넓게 제시하되 임상 근거의 부족을 명시한다.[^68] 방제 수준에서는 독활기생탕의 강직성 척추염·류마티스 관절염 메타분석에서 적혈구침강속도·C반응단백 등 염증 지표 개선이 보고되었다.[^87][^88][^89] 대식세포 실험 등 세포·동물 자료는 기전 배경일 뿐이다.[^15][^16]
+사람 검체 수준에서 두충 추출물은 패혈증 환자 말초혈 단핵구의 인터루킨-10 생성을 감소시켰으나 강황보다 효과가 작았다.[^55] 신경-내분비-면역 조절망 총설은 두충의 조절 가능성을 폭넓게 제시하되 임상 근거의 부족을 명시한다.[^68] 방제 수준에서는 독활기생탕의 강직성 척추염·류마티스 관절염 메타분석에서 적혈구침강속도·C반응단백 등 염증 지표 개선이 보고되었다.[^87](철회된 논문으로 유효 근거가 아니다)[^88][^89] 대식세포 실험 등 세포·동물 자료는 기전 배경일 뿐이다.[^15][^16]
 
 #### 신장 보호
 
@@ -231,7 +231,7 @@
 
 두충 단미로는 경증 골관절염 환자 100명을 대상으로 한 12주 다기관 무작위배정 이중맹검 위약대조 시험이 설계되어, 비스테로이드성 소염제·COX-2 억제제의 부작용을 줄이는 대안으로 두충 추출물이 검토되었다.[^51] 복합 두충강골 과립의 슬관절염 임상시험(600명)에서는 유효율 92%, 현저 개선율 47%로 대조 제제보다 높았고 약효 발현이 빨랐으며, 대상은 간신부족(肝腎不足)·근맥어혈(筋脈瘀血) 증후로 층화되어 있었다.[^22] 카신-벡병 환자에게 복방 두충강골 과립을 투여한 연구에서는 혈장 대사체·염증 단백 조합이 치료 반응을 높은 정확도로 예측했다.[^80]
 
-방제 수준에서는 독활기생탕의 요추 추간판 탈출증·슬관절염 근거가 앞서 정리한 대로 가장 두텁다.[^83][^84][^85][^86][^90][^92][^93][^94] 골관절염 처방 패턴 연구에서 두충이 단미 1위였다는 사실은 이 영역이 두충의 주 무대임을 보여준다.[^74] 한약 복합제와 디클로페낙을 직접 비교한 무작위배정 시험(200명),[^128] 베트남 전통 복합제의 2상 무작위배정 시험(108명)은 슬관절염 한약 치료의 비교 근거를 보탠다.[^129] 추간판·연골종판 관련 두충 기전 연구와 노화 유전자 분석은 비임상 배경이다.[^24][^25][^28] 요추 추간판 탈출증에 대한 두충 유효 성분 기전 총설은 리그난·플라보노이드가 Wnt/β-catenin·핵인자-κB 경로를 통해 염증 억제와 조직 수복에 관여할 가능성을 정리한다.[^69]
+방제 수준에서는 독활기생탕의 요추 추간판 탈출증·슬관절염 근거가 앞서 정리한 대로 가장 두텁다.[^83][^84][^85][^86][^90][^92][^93](철회된 논문으로 유효 근거가 아니다)[^94] 골관절염 처방 패턴 연구에서 두충이 단미 1위였다는 사실은 이 영역이 두충의 주 무대임을 보여준다.[^74] 한약 복합제와 디클로페낙을 직접 비교한 무작위배정 시험(200명),[^128] 베트남 전통 복합제의 2상 무작위배정 시험(108명)은 슬관절염 한약 치료의 비교 근거를 보탠다.[^129] 추간판·연골종판 관련 두충 기전 연구와 노화 유전자 분석은 비임상 배경이다.[^24][^25][^28] 요추 추간판 탈출증에 대한 두충 유효 성분 기전 총설은 리그난·플라보노이드가 Wnt/β-catenin·핵인자-κB 경로를 통해 염증 억제와 조직 수복에 관여할 가능성을 정리한다.[^69]
 
 #### 기타(피부·위점막·발기부전·자궁퇴축)
 
@@ -266,7 +266,7 @@
 | 변증 요점 | 요슬산연에 냉감·중착감(重着感), 노권 후 악화, 온열 시 완화 |
 | 두충의 역할 | 보간신·강근골로 본허(本虛)를 다스리는 축 |
 | 대표 배오 | 독활기생탕, 복합 두충강골 과립, 신바로 |
-| 근거 층위 | 제1층(두충 추출물 경증 골관절염 시험[^51]) + 제3층(독활기생탕[^83][^84][^92][^93][^94], 두충강골 과립[^22]) |
+| 근거 층위 | 제1층(두충 추출물 경증 골관절염 시험[^51]) + 제3층(독활기생탕[^83][^84][^92][^93](철회된 논문으로 유효 근거가 아니다)[^94], 두충강골 과립[^22]) |
 | 유의점 | 습열비(濕熱痺)·급성 염증기에는 온보(溫補)가 부적합. 적색기(red flag) 요통은 우선 배제 |
 
 #### 산과군 — 신허 태동불안·활태
@@ -368,7 +368,7 @@
 | 임신 | 혈청 β-사람융모성선자극호르몬·프로게스테론, 초음파 | 산과 지침에 따름 |
 | 변증 | 요슬산연·야간뇨·냉감·현훈 등 주증 변화, 설맥 | 매 내원 |
 
-이 표는 추적 관리의 임상 틀이며 동일 근거수준의 권고가 아니다. 각 지표는 앞서 인용한 시험들이 사용한 결과 변수를 참고해 구성했다.[^48][^49][^77][^81][^93]
+이 표는 추적 관리의 임상 틀이며 동일 근거수준의 권고가 아니다. 각 지표는 앞서 인용한 시험들이 사용한 결과 변수를 참고해 구성했다.[^48][^49][^77][^81][^93](철회된 논문으로 유효 근거가 아니다)
 
 ### 조섭표
 
@@ -455,7 +455,7 @@
 [^20]: Mechanism by which Eucommia ulmoides leaves Regulate Nonalcoholic fatty liver disease based on system pharmacology. Gong M 외. _Journal of Ethnopharmacology_. 2022-01-10. [실험연구] [DOI 10.1016/j.jep.2021.114603](https://doi.org/10.1016/j.jep.2021.114603) [PMID 34496264](https://pubmed.ncbi.nlm.nih.gov/34496264/) — 두충엽 대상 전산·비임상 연구.
 [^21]: Hypoglycemic and hypolipidemic action of Du-zhong (Eucommia ulmoides Oliver) leaves water extract in C57BL/KsJ-db/db mice. Park SA 외. _Journal of Ethnopharmacology_. 2006-10-11. [실험연구] [DOI 10.1016/j.jep.2006.03.034](https://doi.org/10.1016/j.jep.2006.03.034) [PMID 16684593](https://pubmed.ncbi.nlm.nih.gov/16684593/) — 두충엽 동물 자료. 혈당·지질 임상 근거가 아니다.
 [^22]: [Effect of compound duzhong jiangu granule on knee joint osteoarthritis: a report of 400 cases]. Wang HM 외. _Zhongguo Zhong Xi Yi Jie He Za Zhi_. 2005-06. [임상시험] [PMID 16025958](https://pubmed.ncbi.nlm.nih.gov/16025958/) — 간신부족·근맥어혈 변증으로 층화한 슬관절염 600명에서 유효율 92%. 두충 중심 복합 제제의 대표 임상 근거.
-[^23]: SHINBARO, a new herbal medicine with multifunctional mechanism for joint disease: first therapeutic application for the treatment of osteoarthritis. Lee SY 외. _Archives of Pharmacal Research_. 2011-11. [실험연구] [DOI 10.1007/s12272-011-1121-0](https://doi.org/10.1007/s12272-011-1121-0) [PMID 22139679](https://pubmed.ncbi.nlm.nih.gov/22139679/) — 두충을 포함한 관절 질환 제제의 기전 연구. 임상 유효성 시험이 아니다.
+[^23]: SHINBARO, a new herbal medicine with multifunctional mechanism for joint disease: first therapeutic application for the treatment of osteoarthritis. Lee SY 외. _Archives of Pharmacal Research_. 2011-11. [실험연구, 철회됨] [DOI 10.1007/s12272-011-1121-0](https://doi.org/10.1007/s12272-011-1121-0) [PMID 22139679](https://pubmed.ncbi.nlm.nih.gov/22139679/) — **철회(Retraction Notice: [PMID 22553070](https://pubmed.ncbi.nlm.nih.gov/22553070/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 두충을 포함한 관절 질환 제제의 기전 연구. 임상 유효성 시험이 아니다.
 [^24]: Mechanism of Duzhong Bushen Formula Regulating MAPK/AP-1 Pathway to Improve Lumbar Intervertebral Disc Degeneration. Zhou Y 외. _Combinatorial Chemistry & High Throughput Screening_. 2025-11-05. [실험연구] [DOI 10.2174/0113862073409567251008054328](https://doi.org/10.2174/0113862073409567251008054328) [PMID 41208070](https://pubmed.ncbi.nlm.nih.gov/41208070/) — 두충보신방의 추간판 퇴행 기전 비임상 연구.
 [^25]: [Protecting effect of Quan Duzhong Capsule on the cartilaginous endplate so as to improve acupuncture-induced intervertebral disc degeneration]. Liang S 외. _Zhongguo Gu Shang_. 2026-04-25. [실험연구] [DOI 10.12200/j.issn.1003-0034.20240031](https://doi.org/10.12200/j.issn.1003-0034.20240031) [PMID 42087515](https://pubmed.ncbi.nlm.nih.gov/42087515/) — 전두충 제제의 연골종판 보호 동물 모델 자료.
 [^26]: Duzhong-Gegen formula ameliorated hyperuricemia by enhancing renal uric acid excretion through activation of SIRT1. Wang L 외. _Phytomedicine_. 2026-06. [실험연구] [DOI 10.1016/j.phymed.2026.158091](https://doi.org/10.1016/j.phymed.2026.158091) [PMID 41905095](https://pubmed.ncbi.nlm.nih.gov/41905095/) — 두충갈근방의 요산 배설 기전 비임상 자료.
@@ -519,13 +519,13 @@
 [^84]: Effects of Duhuojisheng Tang and combined therapies on prolapse of lumbar intervertebral disc: a systematic review of randomized control trails. Ma Y 외. _Journal of Traditional Chinese Medicine_. 2013-04. [체계적 고찰] [DOI 10.1016/s0254-6272(13)60117-x](<https://doi.org/10.1016/s0254-6272(13)60117-x>) [PMID 23789209](https://pubmed.ncbi.nlm.nih.gov/23789209/) — 요추 추간판 탈출증 3,915명 분석에서 독활기생탕 단독·병용의 유효율 우위.
 [^85]: A systematic review and meta-analysis for Chinese herbal medicine Duhuo Jisheng decoction in treatment of lumbar disc herniation: A protocol for a systematic review. Sun K 외. _Medicine_. 2020-02. [체계적 고찰] [DOI 10.1097/MD.0000000000019310](https://doi.org/10.1097/MD.0000000000019310) [PMID 32118755](https://pubmed.ncbi.nlm.nih.gov/32118755/) — 요추 추간판 탈출증 근거 종합 설계. 원 시험의 방법론적 한계를 전제한다.
 [^86]: Efficacy of Duhuo Jisheng Decoction for Treating Cold-Dampness Obstruction Syndrome-Type Knee Osteoarthritis: A Pooled Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 한습비조증으로 변증 층화한 슬관절염에서 유효율·통증 개선. 변증 층화의 중요성을 보여준다.
-[^87]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. Wang Y 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-04-04. [메타분석] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — 강직성 척추염 860명에서 유효율·염증 지표 개선.
+[^87]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. Wang Y 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-04-04. [메타분석, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 강직성 척추염 860명에서 유효율·염증 지표 개선.
 [^88]: Efficacy and safety of Duhuo Jisheng decoction combined with Western medicine in the treatment of ankylosing spondylitis: A systematic review and meta-analysis. Wan R 외. _Complementary Therapies in Clinical Practice_. 2023-05. [메타분석] [DOI 10.1016/j.ctcp.2023.101739](https://doi.org/10.1016/j.ctcp.2023.101739) [PMID 36809734](https://pubmed.ncbi.nlm.nih.gov/36809734/) — 양약 병용 시 유효율 향상. 통합 치료 전략의 근거.
 [^89]: Efficacy and safety of Duhuo-Jisheng decoction in rheumatoid arthritis: A systematic review and meta-analysis of 42 randomized controlled trials. Qu P 외. _Medicine_. 2023-11-03. [메타분석] [DOI 10.1097/MD.0000000000035513](https://doi.org/10.1097/MD.0000000000035513) [PMID 37933004](https://pubmed.ncbi.nlm.nih.gov/37933004/) — 류마티스 관절염 3,635명에서 유효율 향상과 이상반응 감소.
 [^90]: Duhuo jisheng tang for treating osteoarthritis of the knee: a prospective clinical observation. Lai JN 외. _Chinese Medicine_. 2007-03-30. [관찰연구] [DOI 10.1186/1749-8546-2-4](https://doi.org/10.1186/1749-8546-2-4) [PMID 17394666](https://pubmed.ncbi.nlm.nih.gov/17394666/) — 전향적 임상 관찰에서 통증·기능 개선과 안전성 확인.
 [^91]: Efficacy, Safety, and Economic Feasibility of Dokhwalgisaeng-Tang for Degenerative Knee Osteoarthritis: Protocol for a Multicenter, Randomized, Assessor Blinded, Controlled Trial. Kim W 외. _Journal of Pain Research_. 2024-10-29. [임상시험] [DOI 10.2147/JPR.S487089](https://doi.org/10.2147/JPR.S487089) [PMID 39493931](https://pubmed.ncbi.nlm.nih.gov/39493931/) — 국내 다기관 무작위배정 시험 설계로 경제성까지 평가. 국내 임상 적용의 근거 기반.
 [^92]: [Warming acupuncture combined with Duhuo Jisheng decoction for lumbar disc herniation of qi stagnation and blood stasis accompanied with liver-kidney deficiency: a randomized controlled trial]. Zhang J 외. _Zhongguo Zhen Jiu_. 2026-04-12. [임상시험] [DOI 10.13703/j.0255-2930.20250228-0001](https://doi.org/10.13703/j.0255-2930.20250228-0001) [PMID 41987442](https://pubmed.ncbi.nlm.nih.gov/41987442/) — 기체혈어 겸 간신부족형으로 변증 층화한 104명에서 온침·탕약 병용의 우위.
-[^93]: Effects of Modified Duhuo Jisheng Decoction Combined with Arthroscopic Surgery on Bone Metabolism, Oxidative Stress, and Serum TLR4 and TGF-β1 in Patients with Knee Osteoarthritis. Zeng X 외. _Journal of Environmental and Public Health_. 2022-10-12. [임상시험] [DOI 10.1155/2022/1933504](https://doi.org/10.1155/2022/1933504) [PMID 36267557](https://pubmed.ncbi.nlm.nih.gov/36267557/) — 관절경 수술 후 가감독활기생탕 병용군에서 골대사·산화 스트레스·염증 지표 개선(82명).
+[^93]: Effects of Modified Duhuo Jisheng Decoction Combined with Arthroscopic Surgery on Bone Metabolism, Oxidative Stress, and Serum TLR4 and TGF-β1 in Patients with Knee Osteoarthritis. Zeng X 외. _Journal of Environmental and Public Health_. 2022-10-12. [임상시험, 철회됨] [DOI 10.1155/2022/1933504](https://doi.org/10.1155/2022/1933504) [PMID 36267557](https://pubmed.ncbi.nlm.nih.gov/36267557/) — **철회(Retraction Notice: [PMID 37811432](https://pubmed.ncbi.nlm.nih.gov/37811432/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 관절경 수술 후 가감독활기생탕 병용군에서 골대사·산화 스트레스·염증 지표 개선(82명).
 [^94]: Therapeutic effect of Duhuo Jisheng Decoction add-on Tui-na manipulation on osteoarthritis of knee: a randomized controlled trial. Kin Ho Chan 외. _Chinese Medicine_. 2023-07-10. [임상시험] [DOI 10.1186/s13020-023-00737-5](https://doi.org/10.1186/s13020-023-00737-5) — 추나 도수치료에 탕약을 부가한 무작위배정 시험(70명)에서 병용군 우위. 수기·약물 병용의 근거.
 [^95]: A comparative study of the efficacy of Chinese herbal medicine Duhuo Jisheng decoction combined with DMARDs vs isolated DMARDs for rheumatoid arthritis: A protocol for systematic review and meta analysis. Zhou X 외. _Medicine_. 2020-12-11. [체계적 고찰] [DOI 10.1097/MD.0000000000023479](https://doi.org/10.1097/MD.0000000000023479) [PMID 33327279](https://pubmed.ncbi.nlm.nih.gov/33327279/) — 질병조절항류마티스제 병용 설계의 근거 종합.
 [^96]: Vascular response of Raynaud's phenomenon to nifedipine or herbal medication (duhuo-tisheng tang with danggui-sini tang): a preliminary study. Wu YJ 외. _Chang Gung Medical Journal_. 2008-09. [임상시험] [PMID 19097597](https://pubmed.ncbi.nlm.nih.gov/19097597/) — 레이노 현상에서 독활기생탕·당귀사역탕 병용을 니페디핀과 비교한 예비 연구(47명).

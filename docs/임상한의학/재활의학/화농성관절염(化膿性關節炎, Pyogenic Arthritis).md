@@ -60,7 +60,7 @@
 | 숙주 요인 | 고령, 당뇨병, 만성 신부전, 간경변, 악성종양, 정맥주사 약물사용 | [^46][^43] |
 | 관절 요인 | 기존 관절질환(류마티스관절염·골관절염), 인공관절, 최근 관절 수술·시술력 | [^43][^44][^45] |
 | 면역 요인 | 생물학적제제(TNF 억제제 등) 사용, 스테로이드 장기 투여, HIV 감염 | [^6][^68][^69] |
-| 영양 요인 | 저알부민혈증, 영양불량 | [^47][^71] |
+| 영양 요인 | 저알부민혈증, 영양불량 | [^47](철회된 논문으로 유효 근거가 아니다)[^71] |
 | 시술 요인 | 관절강내 주사(스테로이드·히알루론산), 관절경, 침습적 침구 시술 | [^5][^37][^40][^85] |
 
 이 표는 임상 선별의 참고 틀이며 개별 환자의 확률적 위험을 정량화하지 않는다. 위험인자가 있는 환자에서 급성 단관절 증상이 나타나면 화농성 관절염의 사전 확률을 더 높게 설정하고 접근해야 한다.
@@ -215,7 +215,7 @@
 | 68Ga-FAPI PET | 무균성 해리와의 감별에 유용 | [^104] |
 | 다중모달 진단전략 | 단일 지표보다 병력·임상소견·검사실·미생물학적 검사의 통합 판단이 권고됨 | [^102] |
 
-인공관절 주위감염의 위험인자로는 저알부민혈증·영양불량[^71][^101][^47], 당뇨병·비만·면역억제 상태[^43][^44][^45] 등이 반복적으로 확인되어 왔으며, 이러한 환자군에서는 감염에 대한 임상적 의심 역치를 낮추어야 한다. 국가 청구자료 분석에서도 인공관절 주위감염의 부담이 상당하며 향후 증가할 것으로 추계되었다[^92].
+인공관절 주위감염의 위험인자로는 저알부민혈증·영양불량[^71][^101][^47](철회된 논문으로 유효 근거가 아니다), 당뇨병·비만·면역억제 상태[^43][^44][^45] 등이 반복적으로 확인되어 왔으며, 이러한 환자군에서는 감염에 대한 임상적 의심 역치를 낮추어야 한다. 국가 청구자료 분석에서도 인공관절 주위감염의 부담이 상당하며 향후 증가할 것으로 추계되었다[^92].
 
 ### 8. 감별진단 — 화농성 관절염을 흉내 내는 질환들
 
@@ -448,7 +448,7 @@
 | 면역저하 상태 | [^6][^68] |
 | 그람음성균·비전형 병원체 감염 | [^35][^37][^38] |
 | 다발관절 침범 | [교과서적 근거] |
-| 저알부민혈증·영양불량 | [^47][^71][^101] |
+| 저알부민혈증·영양불량 | [^47](철회된 논문으로 유효 근거가 아니다)[^71][^101] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
@@ -485,7 +485,7 @@
 |---|---|---|
 | 체중부하 | 담당의 지시에 따른 단계적 체중부하 재개, 임의의 조기 부하 금지 | [교과서적 근거] |
 | 관절 보호 | 급성기·회복 초기에는 이환 관절 과사용 회피 | [교과서적 근거] |
-| 영양 | 단백질·비타민 섭취를 통한 조직 회복 지원, 저알부민혈증 교정 | [^47][^71] |
+| 영양 | 단백질·비타민 섭취를 통한 조직 회복 지원, 저알부민혈증 교정 | [^47](철회된 논문으로 유효 근거가 아니다)[^71] |
 | 위생 | 피부 상처·구강위생 관리로 이차 균혈증원 차단 | [교과서적 근거] |
 | 감염 재발 감시 | 발열·국소 발적·종창 재발 시 즉시 재평가 | [교과서적 근거] |
 | 심리 지지 | 장기 입원·재활에 따른 정서적 스트레스 관리 | [교과서적 근거] |
@@ -652,7 +652,7 @@
 [^44]: Patients' risk factors for periprosthetic joint infection in primary total hip arthroplasty: a meta-analysis of 40 studies. Ren X 외. _BMC musculoskeletal disorders_. 2021-09-12. [메타분석] [DOI 10.1186/s12891-021-04647-1](https://doi.org/10.1186/s12891-021-04647-1) [PMID 34511099](https://pubmed.ncbi.nlm.nih.gov/34511099/) — 1차 인공고관절 치환술 후 주위감염 위험인자 40편 통합 메타분석.
 [^45]: Risk factors for periprosthetic joint infection following primary total knee arthroplasty: a systematic review and meta-analysis. Li J 외. _Frontiers in surgery_. 2025. [메타분석] [DOI 10.3389/fsurg.2025.1715571](https://doi.org/10.3389/fsurg.2025.1715571) [PMID 41583845](https://pubmed.ncbi.nlm.nih.gov/41583845/) — 1차 인공슬관절 치환술 후 주위감염 위험인자 체계적 고찰.
 [^46]: Risk factors for surgical site infections after orthopaedic surgery: A meta-analysis and systematic review. Liu H 외. _International wound journal_. 2025-05. [메타분석] [DOI 10.1111/iwj.70068](https://doi.org/10.1111/iwj.70068) [PMID 40320787](https://pubmed.ncbi.nlm.nih.gov/40320787/) — 정형외과 수술 후 수술부위감염 위험인자 메타분석 — 당뇨·영양불량·면역억제가 공통 위험군임을 재확인.
-[^47]: Association between malnutrition and surgical site and periprosthetic joint infections following joint arthroplasty: A systematic review and meta-analysis. Wang C 외. _International wound journal_. 2024-03. [메타분석] [DOI 10.1111/iwj.14520](https://doi.org/10.1111/iwj.14520) [PMID 38010066](https://pubmed.ncbi.nlm.nih.gov/38010066/) — 영양불량이 수술부위감염·인공관절 주위감염 위험과 연관됨을 확인한 메타분석 — 회복기 영양 관리의 근거.
+[^47]: Association between malnutrition and surgical site and periprosthetic joint infections following joint arthroplasty: A systematic review and meta-analysis. Wang C 외. _International wound journal_. 2024-03. [메타분석, 철회됨] [DOI 10.1111/iwj.14520](https://doi.org/10.1111/iwj.14520) [PMID 38010066](https://pubmed.ncbi.nlm.nih.gov/38010066/) — **철회(Retraction Notice: [PMID 40258615](https://pubmed.ncbi.nlm.nih.gov/40258615/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 영양불량이 수술부위감염·인공관절 주위감염 위험과 연관됨을 확인한 메타분석 — 회복기 영양 관리의 근거.
 [^48]: Incidence of periprosthetic joint infection after primary total knee arthroplasty shows significant variation : a synthesis of meta-analysis and bibliometric analysis. Ma T 외. _Journal of orthopaedic surgery and research_. 2024-10-12. [메타분석] [DOI 10.1186/s13018-024-05099-8](https://doi.org/10.1186/s13018-024-05099-8) [PMID 39396015](https://pubmed.ncbi.nlm.nih.gov/39396015/) — 1차 인공슬관절 치환술 후 주위감염 발생률의 연구 간 이질성을 정리한 메타분석.
 [^49]: Incidence of periprosthetic joint infection after primary total hip arthroplasty is underestimated: a synthesis of meta-analysis and bibliometric analysis. Zeng ZJ 외. _Journal of orthopaedic surgery and research_. 2023-08-21. [메타분석] [DOI 10.1186/s13018-023-04060-5](https://doi.org/10.1186/s13018-023-04060-5) [PMID 37605235](https://pubmed.ncbi.nlm.nih.gov/37605235/) — 1차 인공고관절 치환술 후 주위감염 발생률이 기존 보고보다 과소평가되었을 가능성.
 [^50]: Periprosthetic Joint Infection Following Acupuncture Treatment in a Patient With Total Hip Arthroplasty: A Rare but Severe Complication. Yuasa A 외. _Case reports in orthopedics_. 2026. [증례 보고] [DOI 10.1155/cro/7852835](https://doi.org/10.1155/cro/7852835) [PMID 42077234](https://pubmed.ncbi.nlm.nih.gov/42077234/) — 인공고관절 치환 환자에서 침 치료 후 인공관절 주위감염이 발생한 증례 — 관절 인근 침습적 자침이 실제 임상에서 심각한 감염 합병증을 유발할 수 있음을 직접 보여주는 핵심 근거.

@@ -105,11 +105,11 @@
 
 ### 1. 당뇨발 괴사 — 당뇨병성 족부 궤양·괴저
 
-당뇨발 괴사는 당뇨병성 족부 궤양·괴저로, 동맥 폐색(건성 괴저)·감염(습성 괴저)이 복합된 임상 상황이다. 한약 복합 드레싱이 당뇨발 궤양에 유효한 메타분석[^5][^14], 중약 주사가 당뇨발에 유효한 체계적 고찰·메타분석[^16], 뜸이 당뇨발 치유에 유효한 메타분석[^15][^17], 한약 외용 침지법이 당뇨발 궤양 치유에 유효한 메타분석[^11][^12], 한약+음압 상처 치료(NPWT) 병행이 당뇨발에 유효한 메타분석[^9][^13]은 한의학 중재가 당뇨발 괴사의 **창상 치유·괴사 조직 제거**에 기여할 수 있음을 시사한다. 당뇨발 통합 한·서양의학 외래 관리 증례[^26], 비허혈성 당뇨발 괴저에서 실선당길법이 유효한 임상시험[^22]도 이를 지지한다.
+당뇨발 괴사는 당뇨병성 족부 궤양·괴저로, 동맥 폐색(건성 괴저)·감염(습성 괴저)이 복합된 임상 상황이다. 한약 복합 드레싱이 당뇨발 궤양에 유효한 메타분석[^5][^14], 중약 주사가 당뇨발에 유효한 체계적 고찰·메타분석[^16], 뜸이 당뇨발 치유에 유효한 메타분석[^15][^17], 한약 외용 침지법이 당뇨발 궤양 치유에 유효한 메타분석[^11][^12](철회된 논문으로 유효 근거가 아니다), 한약+음압 상처 치료(NPWT) 병행이 당뇨발에 유효한 메타분석[^9](철회된 논문으로 유효 근거가 아니다)[^13]은 한의학 중재가 당뇨발 괴사의 **창상 치유·괴사 조직 제거**에 기여할 수 있음을 시사한다. 당뇨발 통합 한·서양의학 외래 관리 증례[^26], 비허혈성 당뇨발 괴저에서 실선당길법이 유효한 임상시험[^22]도 이를 지지한다.
 
 ### 2. 욕창(pressure ulcer) — 가압 괴사
 
-욕창은 지속적 가압에 의한 **허혈성 괴사** (응고괴사)이며, 괴사 조직이 형성되고 2차 감염가 동반될 수 있다. 중약 외용·침·뜸이 욕창에 유효한 메타분석[^6][^7][^10], 뜸이 욕창 치유에 유효한 메타분석[^18][^19]은 한의학 외치법이 욕창 괴사 조직의 **제거·창상 치유**에 기여할 수 있음을 시사한다. 위암 수술 후 창상 합병증에서 한의학이 유효한 메타분석[^59]도 수술 후 조직 손상·괴사 예방에 한의학이 기여할 수 있음을 시사한다.
+욕창은 지속적 가압에 의한 **허혈성 괴사** (응고괴사)이며, 괴사 조직이 형성되고 2차 감염가 동반될 수 있다. 중약 외용·침·뜸이 욕창에 유효한 메타분석[^6][^7][^10](철회된 논문으로 유효 근거가 아니다), 뜸이 욕창 치유에 유효한 메타분석[^18][^19](철회된 논문으로 유효 근거가 아니다)은 한의학 외치법이 욕창 괴사 조직의 **제거·창상 치유**에 기여할 수 있음을 시사한다. 위암 수술 후 창상 합병증에서 한의학이 유효한 메타분석[^59](철회된 논문으로 유효 근거가 아니다)도 수술 후 조직 손상·괴사 예방에 한의학이 기여할 수 있음을 시사한다.
 
 ### 3. 감염성 괴사 — 농양·가스괴저·패혈증
 
@@ -190,11 +190,11 @@
 
 ### 3. 거부생신(祛腐生新) — 괴사 조직 제거·새 조직 생성
 
-거부생신(祛腐生新)은 **괴사 조직을 제거하고 새 조직을 생성**하는 한의학 외치법의 핵심 원리다. "腐去肌生"(부패가 제거되면 근육이 생긴다)라는 명제는 괴사 조직 제거가 재생의 전제임을 기술한다 [교과서적 근거]. 한약 복합 드레싱이 당뇨발 궤양에 유효한 메타분석[^5][^14], 한약 외용 침지법이 당뇨발 치유에 유효한 메타분석[^11][^12], 뜸이 당뇨발·욕창 치유에 유효한 메타분석[^15][^18]은 거부생신의 외치법이 **괴사 조직 제거·창상 치유**에 기여할 수 있음을 시사한다. 비허혈성 당뇨발 괴저에서 실선당길법이 유효한 임상시험[^22]도 괴사 조직에 대한 외치법의 가능성을 시사한다.
+거부생신(祛腐生新)은 **괴사 조직을 제거하고 새 조직을 생성**하는 한의학 외치법의 핵심 원리다. "腐去肌生"(부패가 제거되면 근육이 생긴다)라는 명제는 괴사 조직 제거가 재생의 전제임을 기술한다 [교과서적 근거]. 한약 복합 드레싱이 당뇨발 궤양에 유효한 메타분석[^5][^14], 한약 외용 침지법이 당뇨발 치유에 유효한 메타분석[^11][^12](철회된 논문으로 유효 근거가 아니다), 뜸이 당뇨발·욕창 치유에 유효한 메타분석[^15][^18]은 거부생신의 외치법이 **괴사 조직 제거·창상 치유**에 기여할 수 있음을 시사한다. 비허혈성 당뇨발 괴저에서 실선당길법이 유효한 임상시험[^22]도 괴사 조직에 대한 외치법의 가능성을 시사한다.
 
 ### 4. 외치법(外治法) — 침·뜸·부항·약물 외용
 
-외치법(外治法)은 괴사 조직에 직접 작용하는 한의학 치료법이다. 침·뜸·부항·약물 외용(침지·드레싱·도포)이 괴사 조직의 **혈행 개선·염증 조절·괴사 조직 제거·창상 치유**에 기여할 수 있다. 욕창에서 중약 외용·침·뜸이 유효한 메타분석[^6][^7], 당뇨발에서 한약 외용·뜸이 유효한 메타분석[^12][^15], 급성 췌장염에서 침이 유효한 메타분석[^50]은 외치법이 **괴사 조직에 대한 직접 작용**에 기여할 수 있음을 시사한다. 사혈요법(出血療法)의 질환 적용 특성을 정리한 체계적 고찰[^68]도 외치법의 임상적 범위를 시사한다.
+외치법(外治法)은 괴사 조직에 직접 작용하는 한의학 치료법이다. 침·뜸·부항·약물 외용(침지·드레싱·도포)이 괴사 조직의 **혈행 개선·염증 조절·괴사 조직 제거·창상 치유**에 기여할 수 있다. 욕창에서 중약 외용·침·뜸이 유효한 메타분석[^6][^7], 당뇨발에서 한약 외용·뜸이 유효한 메타분석[^12](철회된 논문으로 유효 근거가 아니다)[^15], 급성 췌장염에서 침이 유효한 메타분석[^50]은 외치법이 **괴사 조직에 대한 직접 작용**에 기여할 수 있음을 시사한다. 사혈요법(出血療法)의 질환 적용 특성을 정리한 체계적 고찰[^68]도 외치법의 임상적 범위를 시사한다.
 
 ### 5. 부정(扶正) 병행 — 괴사 조직 회복의 전제
 
@@ -255,7 +255,7 @@
 
 ### 2. 회복 경과 — 괴사 조직의 제거·재생
 
-괴사 조직의 회복은 **거사(괴사 조직 제거) + 부정(정기 보충) + 재생(새 조직 생성)**의 삼단계다. 거부생신(祛腐生新) 원리가 이 과정을 기술한다. 당뇨발에서 한약 외용·뜸이 창상 치유에 유효한 메타분석[^5][^12][^15], 욕창에서 중약 외용·침·뜸이 유효한 메타분석[^6][^18]은 거부생신 외치법이 **괴사 조직 제거·창상 치유**에 기여할 수 있음을 시사한다.
+괴사 조직의 회복은 **거사(괴사 조직 제거) + 부정(정기 보충) + 재생(새 조직 생성)**의 삼단계다. 거부생신(祛腐生新) 원리가 이 과정을 기술한다. 당뇨발에서 한약 외용·뜸이 창상 치유에 유효한 메타분석[^5][^12](철회된 논문으로 유효 근거가 아니다)[^15], 욕창에서 중약 외용·침·뜸이 유효한 메타분석[^6][^18]은 거부생신 외치법이 **괴사 조직 제거·창상 치유**에 기여할 수 있음을 시사한다.
 
 ### 3. 관리 원칙
 
@@ -271,7 +271,7 @@
 | --- | --- | --- |
 | **감염 악화** | 한의학 보조만으로 감염 조절 안 될 시 항생제 병행 필수 | [^30][^31] |
 | **괴사 확산** | 괴사 확산 시 외과적 절제·변절 필요, 한의학만으로 지연 금지 | [교과서적 근거] |
-| **당뇨발 관리** | 혈당 조절·족부 관리 필수, 한의학은 보조 | [^5][^12] |
+| **당뇨발 관리** | 혈당 조절·족부 관리 필수, 한의학은 보조 | [^5][^12](철회된 논문으로 유효 근거가 아니다) |
 | **외치법 부작용** | 약물 외용의 접촉 피부염·알레르기 가능성 | [교과서적 근거] |
 | **항생제 상호작용** | 한약-항생제 상호작용 가능성 | [교과서적 근거] |
 | **패혈증 긴급성** | 패혈증은 응급, 한의학만으로 지연 금지 | [^34][^36] |
@@ -333,7 +333,7 @@
 
 **Q3. 당뇨발 괴사에 한의학이 도움이 되는가?**
 
-도움이 될 수 있다. 한약 외용·뜸이 당뇨발 궤양 치유에 유효한 메타분석[^5][^12][^15], 한약+음압 상처 치료 병행이 유효한 메타분석[^9]이 근거를 제공한다. 다만 당뇨발은 혈당 조절·감염 관리·외과 처치가 우선이며, 한의학은 **보조 요법**으로 병행한다.
+도움이 될 수 있다. 한약 외용·뜸이 당뇨발 궤양 치유에 유효한 메타분석[^5][^12](철회된 논문으로 유효 근거가 아니다)[^15], 한약+음압 상처 치료 병행이 유효한 메타분석[^9](철회된 논문으로 유효 근거가 아니다)이 근거를 제공한다. 다만 당뇨발은 혈당 조절·감염 관리·외과 처치가 우선이며, 한의학은 **보조 요법**으로 병행한다.
 
 **Q4. "거부생신(祛腐生新)"이 무엇인가?**
 
@@ -372,13 +372,13 @@
 
 [^7]: RETRACTION : Effect of Chinese Herbal Topical Medicine, Acupuncture, and Moxibustion on Pressure Ulcer Wound Healing: A Meta‐Analysis. _International Wound Journal_. 2025-03-26. [메타분석] [DOI 10.1111/iwj.70417](https://doi.org/10.1111/iwj.70417) — 해당 연구는 동료 심사 과정의 문제로 인해 철회되었으므로, 유효한 결론을 도출할 수 없다.
 
-[^9]: Efficacy of the combination of Chinese herbal medicine and negative pressure wound therapy in the treatment of patients with diabetic foot ulcer: A meta-analysis.. Li J 외. _International wound journal_. 2024-04. [메타분석, 1777명] [DOI 10.1111/iwj.14536](https://doi.org/10.1111/iwj.14536) [PMID 38069543](https://pubmed.ncbi.nlm.nih.gov/38069543/) — 중약과 NPWT의 병용 요법은 단독 요법에 비해 전체 유효율, 상처 치유율 및 ABI를 유의하게 증가시켰으며, 치유 시간, 상처 면적 및 CRP 수치를 유의하게 감소시키고 VEGF 수치를 증가시켜 DFU 치료에 효과적임을 확인하였다.
+[^9]: Efficacy of the combination of Chinese herbal medicine and negative pressure wound therapy in the treatment of patients with diabetic foot ulcer: A meta-analysis.. Li J 외. _International wound journal_. 2024-04. [메타분석, 1777명, 철회됨] [DOI 10.1111/iwj.14536](https://doi.org/10.1111/iwj.14536) [PMID 38069543](https://pubmed.ncbi.nlm.nih.gov/38069543/) — **철회(Retraction Notice: [PMID 40050002](https://pubmed.ncbi.nlm.nih.gov/40050002/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 중약과 NPWT의 병용 요법은 단독 요법에 비해 전체 유효율, 상처 치유율 및 ABI를 유의하게 증가시켰으며, 치유 시간, 상처 면적 및 CRP 수치를 유의하게 감소시키고 VEGF 수치를 증가시켜 DFU 치료에 효과적임을 확인하였다.
 
-[^10]: RETRACTED: Clinical effects of acupuncture for the treatment of pressure ulcers: A comprehensive systematic review and meta-analysis.. Guo Y 외. _International wound journal_. 2024-02. [메타분석] [DOI 10.1111/iwj.14694](https://doi.org/10.1111/iwj.14694) [PMID 42052915](https://pubmed.ncbi.nlm.nih.gov/42052915/) — 침 치료를 표준 상처 관리와 병행한 결과, 단독 치료군보다 유효율, 상처 크기 감소, 치유 시간 단축 및 삼출물 감소 측면에서 유의하게 우수한 효과를 나타냈다.
+[^10]: RETRACTED: Clinical effects of acupuncture for the treatment of pressure ulcers: A comprehensive systematic review and meta-analysis.. Guo Y 외. _International wound journal_. 2024-02. [메타분석, 철회됨] [DOI 10.1111/iwj.14694](https://doi.org/10.1111/iwj.14694) [PMID 42052915](https://pubmed.ncbi.nlm.nih.gov/42052915/) — **철회(Retraction Notice: [PMID 42118030](https://pubmed.ncbi.nlm.nih.gov/42118030/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 침 치료를 표준 상처 관리와 병행한 결과, 단독 치료군보다 유효율, 상처 크기 감소, 치유 시간 단축 및 삼출물 감소 측면에서 유의하게 우수한 효과를 나타냈다.
 
 [^11]: RETRACTION : The effect of traditional Chinese medicine soaking method on the healing of diabetic foot ulcers: A meta‐analysis. _International Wound Journal_. 2024-09. [메타분석] [DOI 10.1111/iwj.70078](https://doi.org/10.1111/iwj.70078) — 해당 논문은 출판 과정의 조작으로 인해 철회(Retraction)되었으므로 유효한 결론을 도출할 수 없습니다.
 
-[^12]: The effect of traditional Chinese medicine soaking method on the healing of diabetic foot ulcers: A meta-analysis.. Han J 외. _International wound journal_. 2024-03. [메타분석, 1361명] [DOI 10.1111/iwj.14764](https://doi.org/10.1111/iwj.14764) [PMID 38447218](https://pubmed.ncbi.nlm.nih.gov/38447218/) — 중의약 침적법은 당뇨병성 족부궤양 환자의 현저한 상처 치유율과 유효 회복률을 통계적으로 유의하게 증가시켰다.
+[^12]: The effect of traditional Chinese medicine soaking method on the healing of diabetic foot ulcers: A meta-analysis.. Han J 외. _International wound journal_. 2024-03. [메타분석, 1361명, 철회됨] [DOI 10.1111/iwj.14764](https://doi.org/10.1111/iwj.14764) [PMID 38447218](https://pubmed.ncbi.nlm.nih.gov/38447218/) — **철회(Retraction Notice: [PMID 39317951](https://pubmed.ncbi.nlm.nih.gov/39317951/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 중의약 침적법은 당뇨병성 족부궤양 환자의 현저한 상처 치유율과 유효 회복률을 통계적으로 유의하게 증가시켰다.
 
 [^13]: RETRACTION : Efficacy of the Combination of Chinese Herbal Medicine and Negative Pressure Wound Therapy in the Treatment of Patients With Diabetic Foot Ulcer: A Meta‐Analysis. _International Wound Journal_. 2025-03. [메타분석] [DOI 10.1111/iwj.70327](https://doi.org/10.1111/iwj.70327) — 해당 연구는 동료 심사 과정의 문제로 인해 철회되었으므로, 신뢰할 수 있는 결론을 내릴 수 없습니다.
 
@@ -392,7 +392,7 @@
 
 [^18]: RETRACTION : A Meta‐Analysis of Clinical Studies of Moxibustion for Pressure Ulcer Healing. _International Wound Journal_. 2025-04. [메타분석] [DOI 10.1111/iwj.70582](https://doi.org/10.1111/iwj.70582) — 해당 연구는 부적절한 동료 심사 과정으로 인해 학술지에서 공식적으로 철회되었으므로 신뢰할 수 있는 결론을 얻을 수 없습니다.
 
-[^19]: RETRACTED: A meta-analysis of clinical studies of moxibustion for pressure ulcer healing.. Yu W 외. _International wound journal_. 2024-02. [메타분석, 795명] [DOI 10.1111/iwj.14686](https://doi.org/10.1111/iwj.14686) [PMID 42052949](https://pubmed.ncbi.nlm.nih.gov/42052949/) — 메타분석 결과, 灸(뜸, moxibustion) 치료는 대조군에 비해 욕창의 반응률을 높이고 치유 시간을 단축시키며 치유 척도 점수를 개선하는 등 치유 촉진에 효과가 있는 것으로 나타났다.
+[^19]: RETRACTED: A meta-analysis of clinical studies of moxibustion for pressure ulcer healing.. Yu W 외. _International wound journal_. 2024-02. [메타분석, 795명, 철회됨] [DOI 10.1111/iwj.14686](https://doi.org/10.1111/iwj.14686) [PMID 42052949](https://pubmed.ncbi.nlm.nih.gov/42052949/) — **철회(Retraction Notice: [PMID 42118042](https://pubmed.ncbi.nlm.nih.gov/42118042/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 메타분석 결과, 灸(뜸, moxibustion) 치료는 대조군에 비해 욕창의 반응률을 높이고 치유 시간을 단축시키며 치유 척도 점수를 개선하는 등 치유 촉진에 효과가 있는 것으로 나타났다.
 
 [^20]: Systematic review and meta-analysis of Jueyin disease theory in the treatment of gangrene with traditional Chinese medicine formulations.. Zhang Y 외. _Systematic reviews_. 2025-04-30. [메타분석] [DOI 10.1186/s13643-025-02854-8](https://doi.org/10.1186/s13643-025-02854-8) [PMID 40307953](https://pubmed.ncbi.nlm.nih.gov/40307953/) — 오매환, 백부자탕, 당귀사역탕 등의 처방이 괴저 환자의 ABI(발목-팔 지수)와 최대 보행 거리를 유의하게 개선하여 임상적으로 유효한 결과를 보였다.
 
@@ -424,7 +424,7 @@
 
 [^50]: Acupuncture for Acute Pancreatitis. Kai Zhang 외. _Pancreas_. 2019-10. [메타분석] [DOI 10.1097/mpa.0000000000001399](https://doi.org/10.1097/mpa.0000000000001399) — 침 치료와 통상적 치료를 병행했을 때 총 유효율과 위장 기능이 유의하게 개선되었으며, APACHE II 점수, TNF-α 수치, 식사 재개 시간 및 입원 기간이 유의하게 감소하여 효과적인 것으로 나타났다.
 
-[^59]: The role of traditional Chinese medicine in postoperative wound complications of gastric cancer.. Chen S 외. _International wound journal_. 2024-04. [메타분석, 3178명] [DOI 10.1111/iwj.14847](https://doi.org/10.1111/iwj.14847) [PMID 38584331](https://pubmed.ncbi.nlm.nih.gov/38584331/) — 중의학 치료는 수술 후 전체 합병증 위험을 약 19% 낮췄으며, 특히 상처 감염(53% 감소)과 절개 부위 감염(48% 감소)을 유의하게 억제하고 상처 치유 기간 및 위장관 기능 회복 시간을 단축시키는 긍정적인 효과를 보였다.
+[^59]: The role of traditional Chinese medicine in postoperative wound complications of gastric cancer.. Chen S 외. _International wound journal_. 2024-04. [메타분석, 3178명, 철회됨] [DOI 10.1111/iwj.14847](https://doi.org/10.1111/iwj.14847) [PMID 38584331](https://pubmed.ncbi.nlm.nih.gov/38584331/) — **철회(Retraction Notice: [PMID 40264442](https://pubmed.ncbi.nlm.nih.gov/40264442/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 중의학 치료는 수술 후 전체 합병증 위험을 약 19% 낮췄으며, 특히 상처 감염(53% 감소)과 절개 부위 감염(48% 감소)을 유의하게 억제하고 상처 치유 기간 및 위장관 기능 회복 시간을 단축시키는 긍정적인 효과를 보였다.
 
 [^64]: Clinical Evidence on the Use of Chinese Herbal Medicine for Acute Infectious Diseases: An Overview of Systematic Reviews.. Luo X 외. _Frontiers in pharmacology_. 2022. [체계적 고찰] [DOI 10.3389/fphar.2022.752978](https://doi.org/10.3389/fphar.2022.752978) [PMID 35281902](https://pubmed.ncbi.nlm.nih.gov/35281902/) — 중약은 대부분의 급성 감염성 질환에서 임상 증상을 개선하는 잠재적 이점이 있고 안전하며, 특히 COVID-19, SARS, H1N1과 같은 급성 호흡기 감염에 대한 근거가 다른 감염 질환보다 더 충분한 것으로 나타났다.
 

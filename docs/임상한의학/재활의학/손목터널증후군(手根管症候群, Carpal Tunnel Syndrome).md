@@ -95,7 +95,7 @@
 
 > 이 감별표는 임상 틀이지 동일 근거수준의 권고가 아니다(교과서적 근거). 급격한 근위축·감각 완전 소실·외상 병력·발열·야간 안정 시에도 악화되는 통증 등 red flag가 있으면 즉시 정밀 검사와 전문과 협진을 우선한다.
 
-특발성 손목터널증후군 환자에서는 레이노 현상(Raynaud's phenomenon)이 상당히 높은 빈도로 동반될 수 있어 감별·병용 평가가 필요하며[^N32], 수근관유리술 이후 레이노 증상과 혈관 반응이 함께 개선되는 경우가 많다[^N33]. 다만 일반 인구와 비교했을 때 두 질환의 상관관계가 낮다고 보고한 연구도 있어 해석에 주의가 필요하다[^N60]. 레이노 현상을 동반한 손목터널증후군 환자는 스테로이드 주사 후 기능적 결과가 낮고 수술적 해리술이 필요한 비율이 더 높다는 보고가 있다[^N52]. 류마티스관절염 환자의 활막 조직에서는 샤페론 단백질 Hsc70의 지속적 과발현이 확인되어 활막염의 만성화 기전 이해에 참고가 된다[^N64]. 전신 무력감·추위 불내성·안와 부종과 함께 손목터널증후군이 동반되는 경우 갑상선기능저하증을 의심할 수 있으며[^N27], 갑상선기능저하증은 전형적 증상 외에도 체중 감소·청력 저하·이명·손목터널증후군 같은 비전형적 증상으로 나타날 수 있다[^N141].
+특발성 손목터널증후군 환자에서는 레이노 현상(Raynaud's phenomenon)이 상당히 높은 빈도로 동반될 수 있어 감별·병용 평가가 필요하며[^N32], 수근관유리술 이후 레이노 증상과 혈관 반응이 함께 개선되는 경우가 많다[^N33]. 다만 일반 인구와 비교했을 때 두 질환의 상관관계가 낮다고 보고한 연구도 있어 해석에 주의가 필요하다[^N60]. 레이노 현상을 동반한 손목터널증후군 환자는 스테로이드 주사 후 기능적 결과가 낮고 수술적 해리술이 필요한 비율이 더 높다는 보고가 있다[^N52](철회된 논문으로 유효 근거가 아니다). 류마티스관절염 환자의 활막 조직에서는 샤페론 단백질 Hsc70의 지속적 과발현이 확인되어 활막염의 만성화 기전 이해에 참고가 된다[^N64]. 전신 무력감·추위 불내성·안와 부종과 함께 손목터널증후군이 동반되는 경우 갑상선기능저하증을 의심할 수 있으며[^N27], 갑상선기능저하증은 전형적 증상 외에도 체중 감소·청력 저하·이명·손목터널증후군 같은 비전형적 증상으로 나타날 수 있다[^N141].
 
 **감별의 실무 순서**
 
@@ -294,7 +294,7 @@
 | 전침 | 임상시험, fMRI 연구 | 통증·SSS·FSS 개선, 정중신경 CSA 감소, 중추 기전 동반[^OLD13][^N119][^N107] |
 | 레이저침 | 임상시험 | 비중증에서 전침보다 우수·안전[^OLD4][^OLD5] |
 | 건침 | 체계적 고찰 수준 미달, 임상시험 다수 | 단기 통증·가동범위·악력 개선[^OLD9][^OLD15][^OLD20] |
-| 도침(acupotomy) | 임상시험, 메타분석 프로토콜 | 통증·기능·신경전도 개선, PRP·전침 병용 시 상승효과[^OLD17][^OLD18][^N98] |
+| 도침(acupotomy) | 임상시험, 메타분석 프로토콜 | 통증·기능·신경전도 개선, PRP·전침 병용 시 상승효과[^OLD17](철회된 논문으로 유효 근거가 아니다)[^OLD18][^N98] |
 | 부항 | 임상시험 다수 | 통증·기능·신경전도 개선, 임신·중증 CTS에서도 보고[^OLD6][^OLD7][^OLD8][^N8][^N9] |
 | 약침 | 증례·문헌 고찰 | 진통·항염 가능성, 표준 용량 검증 필요[^OLD22][^N120] |
 | 방약 | 근거 미확인(고품질 시험 제한적) | 변증 기반 적용의 임상 틀 수준 |
@@ -335,7 +335,7 @@
 - 건침(dry needling)은 경증·중등도 손목터널증후군 환자의 단기 통증 완화·관절 가동 범위 확대·악력 개선에 효과적이다[^OLD20].
 - 무지구근의 통증 유발점에 시행한 건침은 육체 노동자의 손악력·핀치 강도·BCTQ 점수를 단기적으로 유의하게 개선시킨다[^OLD9].
 - 근막 와인딩 기법을 결합한 건침은 경증·중등도 환자의 수술 필요성을 유의하게 낮추고 통증·손의 기능을 개선한다[^OLD15].
-- 도침(acupotomy)과 전침의 병용 요법은 손목터널증후군 환자의 통증 감소·손가락 가동 범위 개선·삶의 질 향상에 유의미한 효과가 있다[^OLD17].
+- 도침(acupotomy)과 전침의 병용 요법은 손목터널증후군 환자의 통증 감소·손가락 가동 범위 개선·삶의 질 향상에 유의미한 효과가 있다[^OLD17](철회된 논문으로 유효 근거가 아니다).
 - 초음파 유도하 도침과 PRP(혈소판풍부혈장) 병합 요법은 통증 완화·손목 기능 개선·신경 전도 속도 향상에 효과적이며, 단순 도침보다 유효율이 높고 합병증 발생률이 낮다[^OLD18].
 - 초음파 유도하 침도(needle-knife)를 이용한 횡수근인대 절개술은 경증·중등도 환자에서 스테로이드 주사보다 통증 감소·저림 개선·신체 기능 회복 면에서 우수하며, 3개월까지 지속적인 개선 효과를 보인다[^OLD19].
 - 도침 요법과 스테로이드 주사(경막외 주사)를 병용하는 방법과 스테로이드 단독 요법을 비교하는 메타분석 프로토콜에서는, 도침이 정중신경 압박을 물리적으로 해소하여 더 우수한 장기적 치료 효과를 제공하는지를 검증하고자 한다[^N98]. 최근 문헌 고찰은 초음파 유도하 도침이 횡수근인대를 실시간으로 시각화하여 정밀하게 절개할 수 있어, 기존 비시각적 도침법보다 안전성과 치료 효율을 높일 수 있다고 정리하였다[^N127]. 스테로이드 주사나 도침 치료에 반응하지 않는 재발성 손목터널증후군에서는 원침(圓鍼, round acupuncture)을 이용한 인대 이완술이 대안으로 보고된 증례도 있다[^N112].
@@ -459,7 +459,7 @@
 ① **코드**: KCD-8 G56.0 (이차성 원인 불명확).
 ② **병인병기**: 뚜렷한 전신 질환·외상 없이 발생하며, 한의학적으로는 국소 기혈 순환 장애·경락 폐색이 병기의 중심이다. 기체혈어·기혈허약이 주요 변증으로 관찰된다(교과서적 근거).
 ③ **병태생리**: 굴근지대 비후·특발성 활막 비후로 인한 수근관 내압 만성 상승이 주된 기전이다[^OLD13][^OLD14].
-④ **치료**: 수기침·전침·레이저침·건침이 가장 풍부한 근거를 갖는 군으로, 경증·중등도에는 침구 단독 또는 스플린트 병행을, 중등도 이상에는 도침·PRP 병용을 고려한다[^OLD3][^OLD4][^OLD13][^OLD17][^OLD18].
+④ **치료**: 수기침·전침·레이저침·건침이 가장 풍부한 근거를 갖는 군으로, 경증·중등도에는 침구 단독 또는 스플린트 병행을, 중등도 이상에는 도침·PRP 병용을 고려한다[^OLD3][^OLD4][^OLD13][^OLD17](철회된 논문으로 유효 근거가 아니다)[^OLD18].
 ⑤ **예후**: 경증·중등도는 침구 중재 후 단기 통증·기능 개선이 보고되나, 근거 수준은 대체로 낮거나 불확실하여 장기 추적 자료가 부족하다[^OLD23].
 ⑥ **관리**: 정기적 신경전도검사·BCTQ 추적, 스플린트 병행, 반복 동작 조정이 권장된다(교과서적 근거). 특발성 CTS 환자 중 여성·특정 지역 거주자에서 한의학적 치료를 선택하는 경향이 높다는 대규모 조사가 있으며[^N105], 한국에서도 침구를 포함한 한방 치료 이용률이 지속적으로 증가하는 추세다[^N121].
 
@@ -558,7 +558,7 @@
 | 위험 | 내용 | 참고 |
 |---|---|---|
 | 항응고제·항혈소판제 복용 중 침 시술 | 국소 혈종·출혈 위험이 상대적으로 높아지므로 시술 전 복용력을 확인하고 자침 깊이·자극 강도를 조절해야 한다 | 교과서적 근거 |
-| 도침·침도 시술의 침습성 | 도침은 일반 호침보다 조직 손상 범위가 크므로 해부학적 숙련도가 필요하며, 정중신경·요골동맥 손상을 피하기 위한 정밀한 취혈이 요구된다 | [^OLD17][^OLD18][^OLD19] |
+| 도침·침도 시술의 침습성 | 도침은 일반 호침보다 조직 손상 범위가 크므로 해부학적 숙련도가 필요하며, 정중신경·요골동맥 손상을 피하기 위한 정밀한 취혈이 요구된다 | [^OLD17](철회된 논문으로 유효 근거가 아니다)[^OLD18][^OLD19] |
 | 임신 중 침 시술 | 특정 경혈(합곡 등)의 자극 강도·적용 여부에 대한 전통적 주의가 있으며, 임신 중 CTS에는 비침습적 중재(부항·테이핑)를 우선 고려한다 | [^OLD8] |
 | 류마티스관절염 활동기 침 시술 | 활막염이 활동성인 관절 주변의 침습적 시술은 감염·출혈 위험이 상대적으로 높아 신중해야 한다 | 교과서적 근거 |
 | 당뇨병 환자의 침 시술 | 말초 감각 저하로 통증 피드백이 둔화되어 있어 시술 후 감염 징후를 세심히 관찰해야 한다 | 교과서적 근거 |
@@ -759,7 +759,7 @@
 | 전침 | 있음[^N107] | 다수[^OLD13][^N93][^N119][^N21][^N92] | 있음 |
 | 레이저침 | — | 다수[^OLD4][^OLD5][^N95] | — |
 | 건침 | — | 있음[^OLD9][^OLD15] | 있음[^OLD20] |
-| 도침 | 프로토콜 등록[^N98][^N102] | 있음[^OLD17][^OLD18][^OLD19] | 있음[^N112] |
+| 도침 | 프로토콜 등록[^N98][^N102] | 있음[^OLD17](철회된 논문으로 유효 근거가 아니다)[^OLD18][^OLD19] | 있음[^N112] |
 | 부항 | — | 다수[^OLD6][^OLD7][^OLD8][^N8][^N9][^N68] | 있음[^N125][^N136] |
 | 약침 | — | — | 있음[^OLD22][^N120] |
 | 도수치료·추나 | 있음[^N97] | 다수[^N2][^N122][^N130] | — |
@@ -830,7 +830,7 @@
 
 **Q3. 도침(acupotomy)은 언제 고려하나요?**
 
-도침은 중등도 이상 환자에서 전침·PRP·스테로이드 주사와 병용하여 통증·기능·신경전도 개선에 적용할 수 있습니다[^OLD17][^OLD18]. 초음파 유도하 도침은 정밀성과 안전성을 높이며, 스테로이드 주사보다 장기적 개선 효과를 보입니다[^OLD19][^N127]. 다만 도침은 일반 호침보다 조직 손상 범위가 크므로 해부학적 숙련도가 필요하며, 정중신경·요골동맥 손상을 피하기 위한 정밀한 취혈이 전제되어야 합니다. 스테로이드 주사나 도침에도 반응하지 않는 재발성 사례에서는 원침(圓鍼)을 이용한 인대 이완술이 대안으로 제시된 증례도 있습니다[^N112].
+도침은 중등도 이상 환자에서 전침·PRP·스테로이드 주사와 병용하여 통증·기능·신경전도 개선에 적용할 수 있습니다[^OLD17](철회된 논문으로 유효 근거가 아니다)[^OLD18]. 초음파 유도하 도침은 정밀성과 안전성을 높이며, 스테로이드 주사보다 장기적 개선 효과를 보입니다[^OLD19][^N127]. 다만 도침은 일반 호침보다 조직 손상 범위가 크므로 해부학적 숙련도가 필요하며, 정중신경·요골동맥 손상을 피하기 위한 정밀한 취혈이 전제되어야 합니다. 스테로이드 주사나 도침에도 반응하지 않는 재발성 사례에서는 원침(圓鍼)을 이용한 인대 이완술이 대안으로 제시된 증례도 있습니다[^N112].
 
 **Q4. 건침(dry needling)은 손목터널증후군에 도움이 되나요?**
 
@@ -869,7 +869,7 @@
 [^OLD14]: Randomized Controlled Trial Comparing Acupuncture With Placebo Acupuncture for the Treatment of Carpal Tunnel Syndrome. _PM&R_. 2012-03-07. [임상시험] [DOI 10.1016/j.pmrj.2012.01.008](https://doi.org/10.1016/j.pmrj.2012.01.008) — 침이 증상 개선, 가짜침 대비 유의 우위는 없음, 손목 보호대 병행 고려.
 [^OLD15]: Efficacy of dry needling with the fascial winding technique in reducing the percentage of surgery in carpal tunnel syndrome: A randomized clinical trial. _Journal of bodywork and movement therapies_. 2025-06. [임상시험] [DOI 10.1016/j.jbmt.2025.01.015](https://doi.org/10.1016/j.jbmt.2025.01.015) [PMID 40325700](https://pubmed.ncbi.nlm.nih.gov/40325700/) — 근막 와인딩 건침이 수술 필요성 감소·통증·기능 개선.
 [^OLD16]: Acupuncture-Evoked Response in Somatosensory and Prefrontal Cortices Predicts Immediate Pain Reduction in Carpal Tunnel Syndrome. _Evidence-Based Complementary and Alternative Medicine_. 2013. [임상시험] [DOI 10.1155/2013/795906](https://doi.org/10.1155/2013/795906) — 전침이 국소·원위 혈위 모두 통증 감소, 뇌 반응이 진통 예측.
-[^OLD17]: Effect of Acupotomy Combined with Electroacupuncture Therapy on Finger Mobility and Pain Relief in Patients with Carpal Tunnel Syndrome. _Computational and mathematical methods in medicine_. 2022. [임상시험] [DOI 10.1155/2022/2550875](https://doi.org/10.1155/2022/2550875) [PMID 35872928](https://pubmed.ncbi.nlm.nih.gov/35872928/) — 도침+전침 병용이 통증·가동 범위·삶의 질 개선.
+[^OLD17]: Effect of Acupotomy Combined with Electroacupuncture Therapy on Finger Mobility and Pain Relief in Patients with Carpal Tunnel Syndrome. _Computational and mathematical methods in medicine_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/2550875](https://doi.org/10.1155/2022/2550875) [PMID 35872928](https://pubmed.ncbi.nlm.nih.gov/35872928/) — **철회(Retraction Notice: [PMID 37538463](https://pubmed.ncbi.nlm.nih.gov/37538463/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 도침+전침 병용이 통증·가동 범위·삶의 질 개선.
 [^OLD18]: Clinical application of ultrasound-guided acupotomy combined with platelet-rich plasma in the treatment of carpal tunnel syndrome. _Frontiers in surgery_. 2025. [임상시험] [DOI 10.3389/fsurg.2025.1629781](https://doi.org/10.3389/fsurg.2025.1629781) [PMID 41340985](https://pubmed.ncbi.nlm.nih.gov/41340985/) — 초음파 유도 도침+PRP가 통증·기능·신경전도 개선, 유효율 높음.
 [^OLD19]: Comparison of ultrasound-guided needle-knife release of the transverse carpal ligament with glucocorticoid injection in the treatment of carpal tunnel syndrome: a randomized trial. _Quantitative imaging in medicine and surgery_. 2026-07-01. [임상시험] [DOI 10.21037/qims-2026-1-0088](https://doi.org/10.21037/qims-2026-1-0088) [PMID 42433544](https://pubmed.ncbi.nlm.nih.gov/42433544/) — 초음파 유도 침도 절개가 스테로이드 주사보다 우수, 3개월 지속.
 [^OLD20]: Effects of Dry Needling in Carpal Tunnel Syndrome: A Mini-review. _Chettinad Health City Medical Journal_. 2023-03-31. [문헌 고찰] [DOI 10.24321/2278.2044.202314](https://doi.org/10.24321/2278.2044.202314) — 건침이 단기 통증·가동 범위·악력 개선, 추가 RCT 필요.
@@ -927,7 +927,7 @@
 [^N49]: Rehabilitation following carpal tunnel release. _The Cochrane database of systematic reviews_. 2016-02-17. [체계적 고찰] [DOI 10.1002/14651858.CD004158.pub3](https://doi.org/10.1002/14651858.CD004158.pub3) [PMID 26884379](https://pubmed.ncbi.nlm.nih.gov/26884379/) — 수근관 증후군 수술 후 시행되는 다양한 재활 중재의 효과와 안전성에 대한 근거가 매우 제한적이며 전반적인 연구의 질이 낮다.
 [^N50]: Acetyl-L-carnitine (ALCAR) to enhance nerve regeneration in carpal tunnel syndrome: study protocol for a randomized, placebo-controlled trial. _Trials_. 2016-04-14. [임상시험] [DOI 10.1186/s13063-016-1324-2](https://doi.org/10.1186/s13063-016-1324-2) [PMID 27079660](https://pubmed.ncbi.nlm.nih.gov/27079660/) — 심한 수근관 증후군(CTS) 환자에게 수술 후 보조적으로 아세틸-L-카르니틴(ALCAR)을 투여하여 신경 재생과 기능 회복을 촉진할 수 있는지 평가하는 프로토콜 연구이다.
 [^N51]: Facilitatory and inhibitory pain mechanisms are altered in patients with carpal tunnel syndrome. _PloS one_. 2017. [관찰연구] [DOI 10.1371/journal.pone.0183252](https://doi.org/10.1371/journal.pone.0183252) [PMID 28854251](https://pubmed.ncbi.nlm.nih.gov/28854251/) — 본 연구는 수근관 증후군(CTS)이 단순한 말초 신경 압박 질환이 아니라, 통증 촉진 증가와 내인성 통증 억제 감소라는 중추성 통증 조절 기전의 변화를 동반함을 시사한다.
-[^N52]: Comparative study on the effectiveness of a corticosteroid injection for carpal tunnel syndrome in patients with and without Raynaud's phenomenon. _The bone & joint journal_. 2017-12. [관찰연구] [DOI 10.1302/0301-620X.99B12.BJJ-2017-0371.R2](https://doi.org/10.1302/0301-620X.99B12.BJJ-2017-0371.R2) [PMID 29212687](https://pubmed.ncbi.nlm.nih.gov/29212687/) — 레이노 현상을 동반한 손목터널증후군 환자는 스테로이드 주사 치료 후 일반 환자보다 기능적 결과가 낮고 치료 실패율이 높으며, 수술적 해리술이 필요한 비율이 더 높게 나타났다.
+[^N52]: Comparative study on the effectiveness of a corticosteroid injection for carpal tunnel syndrome in patients with and without Raynaud's phenomenon. _The bone & joint journal_. 2017-12. [관찰연구, 철회됨] [DOI 10.1302/0301-620X.99B12.BJJ-2017-0371.R2](https://doi.org/10.1302/0301-620X.99B12.BJJ-2017-0371.R2) [PMID 29212687](https://pubmed.ncbi.nlm.nih.gov/29212687/) — **철회(Retraction Notice: [PMID 32993331](https://pubmed.ncbi.nlm.nih.gov/32993331/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 레이노 현상을 동반한 손목터널증후군 환자는 스테로이드 주사 치료 후 일반 환자보다 기능적 결과가 낮고 치료 실패율이 높으며, 수술적 해리술이 필요한 비율이 더 높게 나타났다.
 [^N53]: [The effects of standardised cold and compression therapy on swelling, pain and functional outcome after division of the transverse carpal ligament in carpal tunnel syndrome]. _Handchirurgie, Mikrochirurgie, plastische Chirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Handchirurgie : Organ der Deutschsprachigen Arbeitsgemeinschaft fur Mikrochirurgie der Peripheren Nerven und Gefasse : Organ der V..._. 2018-02. [임상시험] [DOI 10.1055/a-0582-9664](https://doi.org/10.1055/a-0582-9664) [PMID 29590698](https://pubmed.ncbi.nlm.nih.gov/29590698/) — 수근관 증후군 수술 후 부종과 통증 관리를 위해 Cryo/Cuff™ 시스템을 이용한 표준 냉압박 치료를 시행하였으나, 일반적인 냉각 치료와 비교하여 통계적으로 유의미한 이점이 발견되지 않았다.
 [^N54]: Ischemia of the fingers after carpal tunnel syndrome treatment. _Case reports in plastic surgery & hand surgery_. 2020. [증례 보고] [DOI 10.1080/23320885.2019.1711381](https://doi.org/10.1080/23320885.2019.1711381) [PMID 32083150](https://pubmed.ncbi.nlm.nih.gov/32083150/) — 스테로이드 현탁액을 수근관 증후군 치료 등을 위해 주사할 때, 의도치 않게 동맥 내로 주입될 경우 미세 색전으로 인한 조직 허혈 및 손가락 괴사를 유발할 수 있다.
 [^N55]: Comparison of the effectiveness of circumferential versus non-circumferential spread in median and ulnar nerve blocks. A double-blind randomized clinical trial. _Regional anesthesia and pain medicine_. 2020-05. [임상시험] [DOI 10.1136/rapm-2019-101157](https://doi.org/10.1136/rapm-2019-101157) [PMID 32165554](https://pubmed.ncbi.nlm.nih.gov/32165554/) — 정중신경 및 척골신경 차단술 시 국소마취제를 신경 주위에 원주형(circumferential)으로 확산시키는 방법이 비원주형 방식보다 초기(5분) 감각 차단 속도가 빠르고, 이후의 운동 차단 효과가 더 완전한 것으로 나타났다.

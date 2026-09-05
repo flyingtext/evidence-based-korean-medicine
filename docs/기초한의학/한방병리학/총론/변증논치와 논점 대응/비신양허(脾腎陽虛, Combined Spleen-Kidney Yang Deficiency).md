@@ -518,7 +518,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 
 #### ③ 병태생리
 
-궤양성 대장염의 변증은 면역학적으로도 뚜렷이 구분된다. Th17/Treg 균형 연구는 **대장습열형이 Th17·IL-17 상승에 따른 염증 심화** 를, **비신양허형이 Treg·TGF-β1 저하에 따른 면역관용 저하** 를 특징으로 함을 보여, 두 변증이 서로 다른 면역학적 기전을 가진다는 근거를 제시했다[^62][^63] — 비신양허가 단순히 "만성기"라는 시간적 개념이 아니라, 급성 염증형과는 질적으로 다른 면역조절 실패 상태임을 시사한다. 별도의 T세포 아형 연구도 내열습체형에서 CD4+ 감소·CD8+ 증가가 두드러짐을 확인해[^64], 변증 간 면역학적 차이를 뒷받침한다.
+궤양성 대장염의 변증은 면역학적으로도 뚜렷이 구분된다. Th17/Treg 균형 연구는 **대장습열형이 Th17·IL-17 상승에 따른 염증 심화** 를, **비신양허형이 Treg·TGF-β1 저하에 따른 면역관용 저하** 를 특징으로 함을 보여, 두 변증이 서로 다른 면역학적 기전을 가진다는 근거를 제시했다[^62](철회된 논문으로 유효 근거가 아니다)[^63] — 비신양허가 단순히 "만성기"라는 시간적 개념이 아니라, 급성 염증형과는 질적으로 다른 면역조절 실패 상태임을 시사한다. 별도의 T세포 아형 연구도 내열습체형에서 CD4+ 감소·CD8+ 증가가 두드러짐을 확인해[^64], 변증 간 면역학적 차이를 뒷받침한다.
 
 #### ④ 치료
 
@@ -528,7 +528,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 
 #### ⑤ 예후
 
-- 활동기(대장습열)에서 관해기(비신양허)로의 병기 전환은 자연스러운 경과이지만[^59], 비신양허 단계에서 Treg·TGF-β1 저하에 따른 **면역관용 실패가 지속되면 관해 유지가 어려워질 수 있다** [^62][^63].
+- 활동기(대장습열)에서 관해기(비신양허)로의 병기 전환은 자연스러운 경과이지만[^59], 비신양허 단계에서 Treg·TGF-β1 저하에 따른 **면역관용 실패가 지속되면 관해 유지가 어려워질 수 있다** [^62](철회된 논문으로 유효 근거가 아니다)[^63].
 - 생물학적 제제 병용 시 침 치료 추가는 대장절제율 감소와 연관되어[^66], 장기 예후 개선의 보조 수단으로 고려할 수 있다.
 
 #### ⑥ 관리
@@ -951,7 +951,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 [^59]: [Study on the Chinese medical syndrome distribution of ulcerative colitis].. Lu YH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-04. [관찰연구, 110명] [PMID 22803420](https://pubmed.ncbi.nlm.nih.gov/22803420/) — 본 연구는 궤양성 대장염 환자의 질환 단계(활동기 및 관해기)에 따라 나타나는 중의학적 변증 유형의 분포를 분석하였다.
 [^60]: [Study on the correlation between Chinese medicine syndrome and the intestinal mucosal manifestations of 137 patients with active ulcerative colitis].. Wu J 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-04. [관찰연구, 137명] [PMID 22803419](https://pubmed.ncbi.nlm.nih.gov/22803419/) — 활동성 궤양성 대장염 환자에서 대장습열(大腸濕熱) 변증은 부종, 미란, 궤양 및 황색 농성 설태와 같은 급성 염증 양상과 밀접한 관련이 있으며, 비신양허(脾腎陽虛) 변증은 백색 농성 설태 및 점액 분비와 연관이 높다.
 [^61]: Predictive model of ulcerative colitis syndrome with ensemble learning and interpretability methods.. Zhu L 외. _Scientific reports_. 2025-07-01. [실험연구, 8078명] [DOI 10.1038/s41598-025-04824-5](https://doi.org/10.1038/s41598-025-04824-5) [PMID 40593010](https://pubmed.ncbi.nlm.nih.gov/40593010/) — 본 연구는 앙상블 학습 모델을 통해 궤양성 대장염(UC) 환자의 변증(syndrome differentiation)을 높은 정확도로 예측할 수 있음을 보여주었습니다.
-[^62]: Expression of Th17/Treg Cells in Peripheral Blood and Related Cytokines of Patients with Ulcerative Colitis of Different Syndrome Types and Correlation with the Disease.. Yu J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구, 74명] [DOI 10.1155/2021/4600947](https://doi.org/10.1155/2021/4600947) [PMID 34603468](https://pubmed.ncbi.nlm.nih.gov/34603468/) — 궤양성 대장염 환자의 변증 유형(습열내저 vs 비신양허)에 따라 말초 혈액의 면역 세포(Th17/Treg) 및 사이토카인 발현 양상이 다르게 나타나며, 특히 습열내저형에서 염증성 지표가 더 높게 나타났다.
+[^62]: Expression of Th17/Treg Cells in Peripheral Blood and Related Cytokines of Patients with Ulcerative Colitis of Different Syndrome Types and Correlation with the Disease.. Yu J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [관찰연구, 74명, 철회됨] [DOI 10.1155/2021/4600947](https://doi.org/10.1155/2021/4600947) [PMID 34603468](https://pubmed.ncbi.nlm.nih.gov/34603468/) — **철회(Retraction Notice: [PMID 37387835](https://pubmed.ncbi.nlm.nih.gov/37387835/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 궤양성 대장염 환자의 변증 유형(습열내저 vs 비신양허)에 따라 말초 혈액의 면역 세포(Th17/Treg) 및 사이토카인 발현 양상이 다르게 나타나며, 특히 습열내저형에서 염증성 지표가 더 높게 나타났다.
 [^63]: The Th17/Treg Immune Balance in Ulcerative Colitis Patients with Two Different Chinese Syndromes: Dampness-Heat in Large Intestine and Spleen and Kidney Yang Deficiency Syndrome. Yang Gong 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구, 113명] [DOI 10.1155/2015/264317](https://doi.org/10.1155/2015/264317) — 궤양성 대장염 환자의 변증에 따라 면역 불균형의 양상이 다르게 나타남을 확인하였다.
 [^64]: Relationship between various Chinese medicine types and T-cell subsets in patients with ulcerative colitis.. Chang TM 외. _Chinese journal of integrative medicine_. 2009-06. [관찰연구, 50명] [DOI 10.1007/s11655-009-0220-y](https://doi.org/10.1007/s11655-009-0220-y) [PMID 19568716](https://pubmed.ncbi.nlm.nih.gov/19568716/) — 궤양성 대장염 환자의 중의학적 변증 유형 중 '내열습체(IHDA)' 유형에서 CD4(+) T세포의 유의한 감소와 CD8(+) T세포의 유의한 증가가 두드러지게 나타났다.
 [^65]: [Treatment of ulcerative colitis with spleen and kidney yang deficiency by kuijiening plaster: a randomized controlled study].. Huang L 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-07. [임상시험, 60명] [PMID 24032184](https://pubmed.ncbi.nlm.nih.gov/24032184/) — 비신양허형 궤양성 대장염 환자에게 쾌젠닝 고약을 특정 혈위에 부착하는 것이 SASP 단독 투여보다 한의 증상 개선과 면역 지표(IFN-gamma 감소, IL-4 증가) 조절에 더 효과적이다.

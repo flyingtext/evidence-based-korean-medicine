@@ -71,7 +71,7 @@
 | 간기울결(肝氣鬱結) — 정서 억울·유방 팽만·흉협고만 | 정서 장애·스트레스 대처 저하, 유방암 특이적 삶의 질(FACT-B) 저하, 우울·불안 척도 상승과 연관 | [^22][^36] |
 | 충임불조(衝任不調) — 월경불순·안면홍조·요산 | 에스트로겐·프로게스테론 급감, 시상하부-뇌하수체-난소 축 조절 장애, 갱년기 지수(MENQOL) 상승 | [^20][^27][^62] |
 | 기음양허(氣陰兩虛) — 피로·구건·자한 | 화학요법 후 골수 억제·수행능력(KPS) 저하, 피로 척도(BFI·FACT-F) 상승, 면역 지표(CD3⁺·CD4⁺) 저하 | [^5][^25][^124] |
-| 비허담습(脾虛痰濕) — 식욕부진·구역·설태 | 화학요법 유발 위장관 점막 손상, 영양 지표(알부민·프리알부민) 저하 | [^30][^134] |
+| 비허담습(脾虛痰濕) — 식욕부진·구역·설태 | 화학요법 유발 위장관 점막 손상, 영양 지표(알부민·프리알부민) 저하 | [^30][^134](철회된 논문으로 유효 근거가 아니다) |
 | 열독혈어(熱毒血瘀) — 종양 홍종·궤양 | 국소 염증 반응, 종양 미세환경의 만성 염증(IL-6·TNF-α 등 사이토카인 상승) | [^31][^101] |
 | 간신음허(肝腎陰虛) — 요산·현운·안면홍조 | 폐경·호르몬요법 후 골밀도(DXA) 저하, 골표지자 변화 | [^41][^81] |
 | 심기허·심음허(心氣虛·心陰虛) — 심계·단기 | 안트라사이클린·HER2 표적치료 관련 좌심실 종축 스트레인(GLS) 저하 | [^101] |
@@ -165,7 +165,7 @@
 ### 한약 보조 요법 — 면역·영양·호중구 감소 예방
 
 - **호중구 감소증 예방·면역 조절**: 화학요법 중인 유방암 환자에서 중약 병용이 백혈구·절대호중구수 유지, 면역세포·PD-1 발현에 미치는 영향을 평가하는 실사용 실용적 임상시험이 진행되었다(임상시험, 140명).[^133]
-- **보기양혈탕(補氣養血湯)**: 화학요법과 병용 시 영양 지표(알부민·프리알부민·트랜스페린·총단백)와 면역 지표(CD3⁺·CD4⁺·CD4⁺/CD8⁺·IgG·IgA·IgM)가 대조군보다 유의하게 개선되었고, 한의학적 증상 점수도 더 크게 감소했다(임상시험, 66명).[^134] 익기양혈(益氣養血) 처방이 화학요법으로 인한 영양·면역 저하를 완충하는 보조 전략으로 활용될 수 있음을 시사한다.
+- **보기양혈탕(補氣養血湯)**: 화학요법과 병용 시 영양 지표(알부민·프리알부민·트랜스페린·총단백)와 면역 지표(CD3⁺·CD4⁺·CD4⁺/CD8⁺·IgG·IgA·IgM)가 대조군보다 유의하게 개선되었고, 한의학적 증상 점수도 더 크게 감소했다(임상시험, 66명).[^134](철회된 논문으로 유효 근거가 아니다) 익기양혈(益氣養血) 처방이 화학요법으로 인한 영양·면역 저하를 완충하는 보조 전략으로 활용될 수 있음을 시사한다.
 
 ### 변증별 대표 방제 요약표
 
@@ -476,7 +476,7 @@
 
 **③ 병태생리**: 화학요법은 골수 억제(백혈구·혈소판·헤모글로빈 감소)·위장관 점막 손상(오심·구토·설염·설사)·말초신경 축삭 손상(Taxane·백금 제제 관련 CIPN)을 유발한다. 중증 골수 억제는 감염·출혈 위험을 높인다.[^4][^7]
 
-**④ 치료**: 중약과 화학요법 병용은 종양 반응률·KPS 향상과 중증 오심·구토·백혈구·혈소판 감소 감소에 효과적이었다(메타분석).[^7] 신기부정주사제(SFI)가 화학요법 병용 시 유효율·KPS·면역 지표 개선과 위장관 부작용 감소에 효과적이었다(메타분석, 1,247명).[^5] 화학요법 중 백혈구·호중구 유지와 면역 조절을 목표로 한 중약 병용 실사용 임상시험도 진행되고 있다(임상시험, 140명).[^133] 내관(內關, P6) 혈위 자극·지압이 화학요법 유발 오심·구토에 효과적이었다(체계적 고찰·메타분석).[^64][^65] 이침 요법이 위장관 반응 관리에 효과적이었다(메타분석, 1,704명).[^58] 경피전침자극(TEAS)이 수술 후 오심·구토 예방에 효과적이었다(메타분석, 1,752명).[^54] 에센셜 오일이 화학요법 유발 오심·구토에 효과적이었다(메타분석, 336명).[^66] 화학요법 유발 말초신경병증에는 침·전침이 촉각 인지·신경병증성 통증 지수를 개선한다는 무작위 시험 근거가 있다.[^97][^98][^99][^100] 황기·인삼 등 익기(益氣)·보혈(補血) 약재가 골수 억제 완화에 활용되며, 보기양혈탕(補氣養血湯)은 영양·면역 지표를 함께 개선한다(임상시험, 66명).[^38][^40][^134] 변증 없는 관행적 처방은 근거에 부합하지 않는다.
+**④ 치료**: 중약과 화학요법 병용은 종양 반응률·KPS 향상과 중증 오심·구토·백혈구·혈소판 감소 감소에 효과적이었다(메타분석).[^7] 신기부정주사제(SFI)가 화학요법 병용 시 유효율·KPS·면역 지표 개선과 위장관 부작용 감소에 효과적이었다(메타분석, 1,247명).[^5] 화학요법 중 백혈구·호중구 유지와 면역 조절을 목표로 한 중약 병용 실사용 임상시험도 진행되고 있다(임상시험, 140명).[^133] 내관(內關, P6) 혈위 자극·지압이 화학요법 유발 오심·구토에 효과적이었다(체계적 고찰·메타분석).[^64][^65] 이침 요법이 위장관 반응 관리에 효과적이었다(메타분석, 1,704명).[^58] 경피전침자극(TEAS)이 수술 후 오심·구토 예방에 효과적이었다(메타분석, 1,752명).[^54] 에센셜 오일이 화학요법 유발 오심·구토에 효과적이었다(메타분석, 336명).[^66] 화학요법 유발 말초신경병증에는 침·전침이 촉각 인지·신경병증성 통증 지수를 개선한다는 무작위 시험 근거가 있다.[^97][^98][^99][^100] 황기·인삼 등 익기(益氣)·보혈(補血) 약재가 골수 억제 완화에 활용되며, 보기양혈탕(補氣養血湯)은 영양·면역 지표를 함께 개선한다(임상시험, 66명).[^38][^40][^134](철회된 논문으로 유효 근거가 아니다) 변증 없는 관행적 처방은 근거에 부합하지 않는다.
 
 **⑤ 예후**: 골수 억제·위장관 부작용은 화학요법 용량·스케줄 조절의 핵심 인자이며, 한의 보조 요법은 내약성·치료 순응도 유지에 기여할 수 있다.[^4][^7]
 
@@ -988,7 +988,7 @@
 [^131]: Effects of non-pharmacological interventions on preoperative anxiety and postoperative pain in patients undergoing breast cancer surgery: A systematic review. Tola YO 외. _Journal of Clinical Nursing_. 2021-12. [체계적 고찰] [DOI 10.1111/jocn.15827](https://doi.org/10.1111/jocn.15827) [PMID 33942405](https://pubmed.ncbi.nlm.nih.gov/33942405/) — 음악·아로마테라피·침이 수술 전 불안·수술 후 통증을 유의 감소, 침은 통증 완화에 중간 효과크기.
 [^132]: Effect of Electroacupuncture Based on ERAS for Preoperative Anxiety in Breast Cancer Surgery: A Single-Center, Randomized, Controlled Trial. Tong QY 외. _Clinical Breast Cancer_. 2022-10. [임상시험], 144명 [DOI 10.1016/j.clbc.2022.04.010](https://doi.org/10.1016/j.clbc.2022.04.010) [PMID 35739000](https://pubmed.ncbi.nlm.nih.gov/35739000/) — 수술 전후 전침 병용이 불안·수면질 개선, 수술 후 오심·구토 감소, 회복의 질 향상.
 [^133]: Effectiveness of Chinese Herbal Medicine as a Complementary Treatment for Neutropenia Prevention and Immunity Modulation During Chemotherapy in Patients With Breast Cancer: Protocol for a Real-World Pragmatic Clinical Trial. Wang KH 외. _JMIR Research Protocols_. 2024-03-11. [임상시험], 140명 [DOI 10.2196/55662](https://doi.org/10.2196/55662) [PMID 38466979](https://pubmed.ncbi.nlm.nih.gov/38466979/) — 중약 병용이 화학요법 중 백혈구·호중구 유지·면역세포·PD-1 발현에 미치는 영향을 평가하는 실사용 임상시험 프로토콜.
-[^134]: Effects of Chinese Herbal Formula on Immune Function and Nutritional Status of Breast Cancer Patients. Liu M. _Computational and Mathematical Methods in Medicine_. 2022. [임상시험], 66명 [DOI 10.1155/2022/5900024](https://doi.org/10.1155/2022/5900024) [PMID 35872927](https://pubmed.ncbi.nlm.nih.gov/35872927/) — 보기양혈탕(補氣養血湯) 병용이 영양 지표(ALB·PA)·면역 지표(CD4⁺·IgG) 유의 개선.
+[^134]: Effects of Chinese Herbal Formula on Immune Function and Nutritional Status of Breast Cancer Patients. Liu M. _Computational and Mathematical Methods in Medicine_. 2022. [임상시험, 철회됨], 66명 [DOI 10.1155/2022/5900024](https://doi.org/10.1155/2022/5900024) [PMID 35872927](https://pubmed.ncbi.nlm.nih.gov/35872927/) — **철회(Retraction Notice: [PMID 37538471](https://pubmed.ncbi.nlm.nih.gov/37538471/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 보기양혈탕(補氣養血湯) 병용이 영양 지표(ALB·PA)·면역 지표(CD4⁺·IgG) 유의 개선.
 [^135]: Effectiveness, safety, and economic evaluation of topical application of a herbal ointment, Jaungo, for radiation dermatitis after breast conserving surgery in patients with breast cancer (GREEN study): Study protocol for a randomized controlled trial. Shin S 외. _Medicine_. 2019-04. [임상시험], 80명 [DOI 10.1097/MD.0000000000015174](https://doi.org/10.1097/MD.0000000000015174) [PMID 30985703](https://pubmed.ncbi.nlm.nih.gov/30985703/) — 자운고(紫雲膏) 외용이 방사선 피부염 발생률·통증·삶의 질·경제성에 미치는 영향을 검증하는 RCT 프로토콜.
 [^136]: Efficacy of Chinese Herbal Medicine in Managing Hot Flushes in Breast Cancer Patients on Adjuvant Chemotherapy: A Clinical Investigation. Chin CY 외. _Integrative Cancer Therapies_. [임상시험], 48명 [DOI 10.1177/15347354251398843](https://doi.org/10.1177/15347354251398843) [PMID 41317109](https://pubmed.ncbi.nlm.nih.gov/41317109/) — 가미소요산(加味逍遙散)+이지환(耳芝丸) 복합 처방이 안면홍조 빈도·중증도 감소, 심·간·신 경락 전도도·교감신경 활동 변화 동반.
 [^137]: Treatment of triple-negative breast cancer with Chinese herbal medicine: A prospective cohort study protocol. Meng H 외. _Medicine_. 2017-11. [관찰연구], 220명 [DOI 10.1097/MD.0000000000008408](https://doi.org/10.1097/MD.0000000000008408) [PMID 29095272](https://pubmed.ncbi.nlm.nih.gov/29095272/) — 삼음성 유방암 수술·표준치료 후 중약 병용이 예후·삶의 질에 미치는 영향을 평가하는 전향적 코호트 프로토콜.

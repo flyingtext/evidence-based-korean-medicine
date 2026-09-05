@@ -78,7 +78,7 @@
 - **비허습성(脾虛濕盛)**: 비기(脾氣)가 허약하여 수습(水濕)을 운화하지 못하면 대변이 묽고 무력감이 동반된다.[교과서적 근거] 호화침(毫火鍼)·혈위첩부 병행 연구의 근거 대상이다.[^75][^79]
 - **비신양허(脾腎陽虛)**: 신양(腎陽)이 쇠하여 명문화(命門火)가 부족하면 오경설사(五更泄瀉)가 나타난다.[교과서적 근거] 관원혈(關元, CV4) 혼원구(混元灸)의 근거 대상이다.[^77]
 - **간기범비(肝氣犯脾)/간울비허(肝鬱脾虛)**: 정지(情志) 실조로 간기가 비를 극(克)하여 복통·설사가 정서 스트레스에 따라 악화된다.[교과서적 근거] 설사형 IBS의 가장 흔한 변증으로, 통설요방(痛瀉要方) 계열 처방의 근거 대상이다.[^16][^99]
-- **비위습열(脾胃濕熱)**: 습열이 대장에 정체되어 급박한 설사·항문작열감·구고(口苦)가 나타난다.[교과서적 근거] 소간건비탕+십자뜸 병용 연구의 근거 대상이다.[^113]
+- **비위습열(脾胃濕熱)**: 습열이 대장에 정체되어 급박한 설사·항문작열감·구고(口苦)가 나타난다.[교과서적 근거] 소간건비탕+십자뜸 병용 연구의 근거 대상이다.[^113](철회된 논문으로 유효 근거가 아니다)
 - **식적(食積)**: 음식부절(飮食不節)로 비위가 손상되어 급성 설사가 유발된다.[교과서적 근거]
 
 ### 2. 양방 병태생리
@@ -167,7 +167,7 @@
 
 ### 2. 뜸(灸)·매선(埋線)·구관(拔罐)
 
-- 뜸(灸) 치료는 영유아 설사에서 증상 완화·치료 반응률을 유의하게 개선한다.[^32] 약물분리 뜸은 만성 설사(궤양성 대장염·만성 결장염)에서 양약보다 우수한 유효율을 보였다.[^134]
+- 뜸(灸) 치료는 영유아 설사에서 증상 완화·치료 반응률을 유의하게 개선한다.[^32](철회된 논문으로 유효 근거가 아니다) 약물분리 뜸은 만성 설사(궤양성 대장염·만성 결장염)에서 양약보다 우수한 유효율을 보였다.[^134]
 - 뜸은 전침보다 배변 긴급도·배변 횟수·대변 양상·불안·우울 개선에서 더 효과적일 수 있다.[^56]
 - 부자격리구(附子隔離灸)를 천추(ST25)·기해(氣海, CV6)에 시행한 요인 연구에서, 고빈도(주 6회)보다 주 3회·회당 1개의 뜸 요법이 증상·삶의 질·심리 상태 개선에 더 우수했다.[^92]
 - 온화한 뜸(mild moxibustion)이 위약 대비 유의하게 효과적이라는 무작위 대조시험이 반복 확인되었다.[^88][^97]
@@ -438,7 +438,7 @@ K91.5(담낭절제술 후), K52.9(당뇨병성 설사, 당뇨병 코드 E10-E14 
 
 **Q7. 변증에 따라 어떤 한약이 더 유용한가요?**
 
-간울비허 변증에는 통설요방·소간건비익기탕이,[^16][^124] 비신양허 변증에는 사신환·건비온신탕·혼원구가,[^24][^101][^77] 비위습열 변증에는 소간건비탕+십자뜸 병용이 특히 효과적일 가능성이 보고되었습니다.[^113]
+간울비허 변증에는 통설요방·소간건비익기탕이,[^16][^124] 비신양허 변증에는 사신환·건비온신탕·혼원구가,[^24][^101][^77] 비위습열 변증에는 소간건비탕+십자뜸 병용이 특히 효과적일 가능성이 보고되었습니다.[^113](철회된 논문으로 유효 근거가 아니다)
 
 ---
 
@@ -459,7 +459,7 @@ K91.5(담낭절제술 후), K52.9(당뇨병성 설사, 당뇨병 코드 E10-E14 
 [^24]: Efficacy and safety of Chinese botanical drug Si Shen Wan in irritable bowel syndrome: a meta-analysis and trial sequential analysis of randomized controlled trials. Liu Q 외. _Frontiers in pharmacology_. 2025. [메타분석, 2976명] [DOI 10.3389/fphar.2025.1534904](https://doi.org/10.3389/fphar.2025.1534904) [PMID 40529486](https://pubmed.ncbi.nlm.nih.gov/40529486/) — 사신환이 IBS-D 증상 개선, 재발률 감소.
 [^25]: Different therapies of Chinese herbal medicine for diarrhea-predominant irritable bowel syndrome: A network meta-analysis of double-blinded, placebo-controlled trials. Liu N 외. _Journal of ethnopharmacology_. 2023-12-05. [메타분석, 2248명] [DOI 10.1016/j.jep.2023.116672](https://doi.org/10.1016/j.jep.2023.116672) [PMID 37328079](https://pubmed.ncbi.nlm.nih.gov/37328079/) — 건비온신 요법이 임상 증상·안전성 최우수.
 [^26]: Efficacy of Tongxie Yaofang compared with pinaverium bromide on irritable bowel syndrome with liver depression and spleen deficiency: a systematic review and Meta-analysis. Mi Z 외. _Journal of traditional Chinese medicine_. 2026-02. [메타분석, 1058명] [DOI 10.19852/j.cnki.jtcm.2026.01.002](https://doi.org/10.19852/j.cnki.jtcm.2026.01.002) [PMID 41736418](https://pubmed.ncbi.nlm.nih.gov/41736418/) — 통설요방이 피나베륨보다 증상·불안·우울·CGRP 개선.
-[^32]: Traditional Chinese Medicine Moxibustion in the Treatment of Infantile Diarrhea. Li Z. _Computational intelligence and neuroscience_. 2022. [메타분석] [DOI 10.1155/2022/9749606](https://doi.org/10.1155/2022/9749606) [PMID 35814536](https://pubmed.ncbi.nlm.nih.gov/35814536/) — 뜸이 영유아 설사 증상·반응률 개선.
+[^32]: Traditional Chinese Medicine Moxibustion in the Treatment of Infantile Diarrhea. Li Z. _Computational intelligence and neuroscience_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/9749606](https://doi.org/10.1155/2022/9749606) [PMID 35814536](https://pubmed.ncbi.nlm.nih.gov/35814536/) — **철회(Retraction Notice: [PMID 38124853](https://pubmed.ncbi.nlm.nih.gov/38124853/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 뜸이 영유아 설사 증상·반응률 개선.
 [^35]: Chinese Herbal Medicine for Reducing Chemotherapy-Associated Side-Effects in Breast Cancer Patients: A Systematic Review and Meta-Analysis. Li S 외. _Frontiers in oncology_. 2020. [메타분석] [DOI 10.3389/fonc.2020.599073](https://doi.org/10.3389/fonc.2020.599073) [PMID 33363030](https://pubmed.ncbi.nlm.nih.gov/33363030/) — 중약 병행이 항암 부작용(설사 포함) 완화.
 [^37]: Efficacy and safety of Chinese herbal medicine in treating postcholecystectomy diarrhea: A systematic review and meta-analysis. Sun Y 외. _Medicine_. 2024-05-03. [메타분석] [DOI 10.1097/MD.0000000000038046](https://doi.org/10.1097/MD.0000000000038046) [PMID 38701312](https://pubmed.ncbi.nlm.nih.gov/38701312/) — 한약이 담낭절제술 후 설사 대변·배변·복통 개선.
 [^39]: Chinese herbal medicine for irinotecan-induced diarrhea: A systematic review and meta-analysis. Lin X 외. _Explore (New York, N.Y.)_. 미상. [메타분석, 1056명] [DOI 10.1016/j.explore.2023.08.003](https://doi.org/10.1016/j.explore.2023.08.003) [PMID 37640591](https://pubmed.ncbi.nlm.nih.gov/37640591/) — 중약 탕제가 이리노테칸 유발 설사 발생률·중증 설사 예방.
@@ -507,7 +507,7 @@ K91.5(담낭절제술 후), K52.9(당뇨병성 설사, 당뇨병 코드 E10-E14 
 [^106]: [Treating irritable bowel syndrome with diarrhea patients by yigan fupi decoction: a randomized controlled trial]. Chen MX 외. _Zhongguo Zhong xi yi jie he za zhi_. 2014-06. [임상시험, 116명] [PMID 25046944](https://pubmed.ncbi.nlm.nih.gov/25046944/) — 이간부비탕이 간기범비 IBS-D 장 증상·대변·삶의 질 개선.
 [^107]: Therapeutic Effect of Chang'an I Recipe on Irritable Bowel Syndrome with Diarrhea: A Multicenter Randomized Double-Blind Placebo-Controlled Clinical Trial. Tang XD 외. _Chinese journal of integrative medicine_. 2018-09. [임상시험, 216명] [DOI 10.1007/s11655-016-2596-9](https://doi.org/10.1007/s11655-016-2596-9) [PMID 27487786](https://pubmed.ncbi.nlm.nih.gov/27487786/) — 창안 I 처방이 위약보다 증상 심각도·완화율 개선.
 [^108]: Treatment of diarrhea-predominant irritable bowel syndrome with traditional Chinese herbal medicine: a randomized placebo-controlled trial. Leung WK 외. _The American journal of gastroenterology_. 2006-07. [임상시험, 119명] [DOI 10.1111/j.1572-0241.2006.00576.x](https://doi.org/10.1111/j.1572-0241.2006.00576.x) [PMID 16863563](https://pubmed.ncbi.nlm.nih.gov/16863563/) — 11종 한약 제제가 위약 대비 유의차 없음, 처방-변증 일치 중요성 시사.
-[^113]: Effect of Shugan Jianpi Recipe Combined with Cross Moxibustion on Biochemical Examination Indexes and Total Score of TCM Symptoms in Patients with Spleen-Stomach Damp-Heat Diarrhea Irritable Bowel Syndrome. Liu D 외. _Computational and mathematical methods in medicine_. 2022. [임상시험, 60명] [DOI 10.1155/2022/8286146](https://doi.org/10.1155/2022/8286146) [PMID 35502412](https://pubmed.ncbi.nlm.nih.gov/35502412/) — 소간건비탕+십자뜸이 한약 단독보다 증상·유효율 우수.
+[^113]: Effect of Shugan Jianpi Recipe Combined with Cross Moxibustion on Biochemical Examination Indexes and Total Score of TCM Symptoms in Patients with Spleen-Stomach Damp-Heat Diarrhea Irritable Bowel Syndrome. Liu D 외. _Computational and mathematical methods in medicine_. 2022. [임상시험, 60명, 철회됨] [DOI 10.1155/2022/8286146](https://doi.org/10.1155/2022/8286146) [PMID 35502412](https://pubmed.ncbi.nlm.nih.gov/35502412/) — **철회(Retraction Notice: [PMID 37416169](https://pubmed.ncbi.nlm.nih.gov/37416169/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 소간건비탕+십자뜸이 한약 단독보다 증상·유효율 우수.
 [^114]: [Effect of changji' an oral liquid on activated signal alterative intensity in algesthesia domain in patients with diarrhea type irritable bowel syndrome due to gan-pi disharmony]. Shen J 외. _Zhongguo Zhong xi yi jie he za zhi_. 2005-11. [임상시험, 24명] [PMID 16355608](https://pubmed.ncbi.nlm.nih.gov/16355608/) — 창지안 경구액이 직장 통증 역치 상승, 뇌 활성 신호 감소.
 [^115]: [Effects of Changjishu soft elastic capsule in treatment of diarrhea-predominant irritable bowel patients with liver-qi stagnation and spleen deficiency syndrome]. Gao WY 외. _Zhong xi yi jie he xue bao_. 2009-03. [임상시험, 104명] [DOI 10.3736/jcim20090303](https://doi.org/10.3736/jcim20090303) [PMID 19284948](https://pubmed.ncbi.nlm.nih.gov/19284948/) — 창지수 연질캡슐이 글루타민보다 복통·배변·대변 양상 개선.
 [^117]: Study on the clinical mechanism of Tong-Xie-An-Chang Decoction in the treatment of diarrheal irritable bowel syndrome based on single-cell sequencing technology. Tan X 외. _Medicine_. 2020-12-24. [임상시험, 72명] [DOI 10.1097/MD.0000000000023868](https://doi.org/10.1097/MD.0000000000023868) [PMID 33350782](https://pubmed.ncbi.nlm.nih.gov/33350782/) — 통설안장탕의 임상 유효성·면역학적 기전 규명.

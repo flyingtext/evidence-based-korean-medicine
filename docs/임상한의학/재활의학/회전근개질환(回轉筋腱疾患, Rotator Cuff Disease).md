@@ -187,7 +187,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 ### 3-3. 영상 검사
 
 - **초음파**: 회전근개 건·활액낭·관절낭 상태를 실시간으로 평가하며, MRI와 상호 보완적으로 활용할 수 있는 표준화된 초음파 검사 프로토콜이 제시되어 있다.[^18][^19][^73]
-  - 실시간 동적 초음파와 MRI를 병행하면 특히 부분 파열의 진단 정확도가 가장 높아진다.[^124]
+  - 실시간 동적 초음파와 MRI를 병행하면 특히 부분 파열의 진단 정확도가 가장 높아진다.[^124](철회된 논문으로 유효 근거가 아니다)
   - 파열 폭·건 부종·활막 삼출·혈관 점수를 결합한 다변수 초음파 점수 체계는 높은 진단 정확도(AUC 0.92)를 보인다.[^131]
 - **MRI**: 회전근개 파열의 크기·근위축·지방변성(Goutallier 등급)을 정량 평가하는 표준 검사다.[^108]
   - 딥러닝 기반 극상근 자동 분할 기술이 판독 시간을 단축하고 객관성을 높이는 보조 도구로 연구되고 있다.[^107]
@@ -325,7 +325,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 **②병인병기**: 국소 기체혈어가 뚜렷해지는 단계로, 건 일부의 섬유 연속성이 소실되어 압통·고정통이 두드러진다. [교과서적 근거]
 
 **③병태생리**:
-- 관절면·활액낭면·건내 파열로 세분되며, 실시간 동적 초음파와 MRI를 병행하면 부분 파열의 진단 정확도가 가장 높다.[^124]
+- 관절면·활액낭면·건내 파열로 세분되며, 실시간 동적 초음파와 MRI를 병행하면 부분 파열의 진단 정확도가 가장 높다.[^124](철회된 논문으로 유효 근거가 아니다)
 - 극상근 부분 파열에서 아텔로콜라겐 주사는 프롤로테라피보다 통증의 지속성과 MRI상 구조적 치유 효과가 우수했다.[^109]
 
 **④치료**:
@@ -353,7 +353,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 - 소~중형 파열은 관절경 수술이 개방성 수술과 동등한 결과를 보이면서 합병증을 줄이므로 우선 고려된다.[^96]
 - 구조화된 보존적 치료를 먼저 시행하고 기능적 개선이 없을 때 적시에 수술로 전환하는 개별화된 접근이 권장된다.[^96]
 - 봉합술 후 아편계 진통제 사용을 줄이기 위한 이침이 유효하며,[^6] 수술 전후 전침 병행 효과·안전성을 평가하는 연구가 진행 중이다.[^5]
-- 보양환오탕(補陽還五湯) 가감방을 봉합술과 병용하면 자가관리 능력·Constant-Murley 점수가 수술 후 4~8주 초기 회복기에 더 빠르게 개선된다.[^84]
+- 보양환오탕(補陽還五湯) 가감방을 봉합술과 병용하면 자가관리 능력·Constant-Murley 점수가 수술 후 4~8주 초기 회복기에 더 빠르게 개선된다.[^84](철회된 논문으로 유효 근거가 아니다)
 
 **⑤예후**:
 - 수술적 치료는 정신 건강 점수(MCS)보다 신체 건강 점수(PCS)를 유의하게 개선시킨다.[^129]
@@ -442,7 +442,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 | 질환군 | KCD 코드 | 대표 변증 | 1차 치료 | 수술 고려 시점 | 핵심 예후 인자 |
 |---|---|---|---|---|---|
 | 건병증(비파열)군 | M75.1/M75.4 | 풍한습비·기혈허약 | 침·건침·운동치료 | 보존적 치료 무반응 시 | 근력강화 이행도[^115] |
-| 부분파열군 | M75.1 | 기체혈어 | 침·건침·PRP·부항 | 통증 지속·기능 제한 시 | 파열 깊이·위치[^124] |
+| 부분파열군 | M75.1 | 기체혈어 | 침·건침·PRP·부항 | 통증 지속·기능 제한 시 | 파열 깊이·위치[^124](철회된 논문으로 유효 근거가 아니다) |
 | 완전파열(소~중형)군 | M75.1, S46 | 기체혈어·간신부족 | 보존적 치료 우선, 개별화 전환 | 기능 개선 없을 때 | 당뇨·연령·동반질환[^83][^129] |
 | 대형/광범위파열·근위축동반군 | M75.1 | 간신부족 | 보간신강근골 한약+수술 평가 | 조기 수술 평가 권장 | Goutallier 등급·지질 조절[^108][^90] |
 | 석회성 건염 병발군 | M75.3 | 기체혈어·담습 | 도침·사혈·부항, NSAIDs | 저항성 병변 | 석회 병변 크기[^113] |
@@ -556,7 +556,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 
 - 극상근 건병증으로 인한 어깨 통증과 수면 장애가 동반된 환자에게 가미소경탕(加味消瓊湯) 기반의 한양방 통합 치료를 적용했을 때, 통증 감소와 관절 가동 범위 개선 및 수면 질 향상이 관찰되었다.[^45]
 - 회전근개 석회성 건염에 대해 침, 뜸, 부항, 한약 등의 한의학적 치료가 임상적으로 긍정적인 효과를 나타내는 것으로 확인되었다.[^13]
-- 회전근개 손상 수술 후 보양환오탕(補陽還五湯) 가감방을 병용하면 Constant-Murley 점수와 자가관리 능력이 초기 회복기(4~8주)에 더 빠르게 개선된다.[^84]
+- 회전근개 손상 수술 후 보양환오탕(補陽還五湯) 가감방을 병용하면 Constant-Murley 점수와 자가관리 능력이 초기 회복기(4~8주)에 더 빠르게 개선된다.[^84](철회된 논문으로 유효 근거가 아니다)
 - **황기계지오물탕(黃芪桂枝五物湯)** 은 기혈양허(氣血兩虛)·혈비(血痺)에 활용되는 대표 처방으로, 어깨·상지의 저림·부종·통증에 응용된다.
   - 산후 관절통(産後關節痛) 치료에서 부정거사(補正祛邪) 원칙에 기반한 증후분별 치료가 90% 이상의 유효율을 보였으며, 황기계지오물탕 계열 처방이 다중 양식 중재의 일부로 활용되었다.[^104]
   - 유방암 수술 후 발생한 림프부종(BCRL)에서도 상지 부종 감소·관절 가동범위 개선·통증 완화 효과가 메타분석으로 확인되어, 상지 부종·순환 장애를 동반한 회전근개질환 환자에게 응용할 수 있는 이론적 근거를 제공한다.[^102]
@@ -575,7 +575,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 - 관절경 수술은 개방성 수술과 동등한 기능적 결과를 보이면서 합병증을 크게 줄일 수 있어, 소~중형 파열에서 우선 고려되는 수술 방식이다.[^96]
 - 대형·광범위 파열에서는 상부 관절낭 재건술(SCR)·이두근 재배치술·패치 보강술 등 다양한 재건 기법이 시도되고 있으나, 재파열 방지 효과가 있어도 최종 기능 점수의 우월성이 명확하지 않은 경우가 많아 신중한 환자 선택이 중요하다.[^49][^52][^53]
 - 수술 결정에는 파열 크기·근위축(Goutallier 등급)·당뇨·지질 조절 상태·연령 등 다인자를 종합적으로 고려해야 하며,[^83][^90][^108] 수술 전 환자의 기대와 우려(성별·연령별 차이)를 파악해 상담에 반영하는 것이 만족도를 높이는 데 도움이 된다.[^78]
-- 수술 후 통증 관리에서 침·이침·약침 등 한의 중재는 오피오이드 사용량 감소와 초기 재활 촉진에 기여할 수 있어, 수술 전후 통합 진료 체계에서 협진 대상으로 고려할 가치가 있다.[^6][^80][^84]
+- 수술 후 통증 관리에서 침·이침·약침 등 한의 중재는 오피오이드 사용량 감소와 초기 재활 촉진에 기여할 수 있어, 수술 전후 통합 진료 체계에서 협진 대상으로 고려할 가치가 있다.[^6][^80][^84](철회된 논문으로 유효 근거가 아니다)
 
 > 이 절의 치료법 목록은 임상 적용의 참고 틀이며, 동일한 근거 수준의 권고가 아니다. 각 치료법의 적용은 반드시 개별 환자의 파열 크기·변증·전신 상태를 고려해 결정해야 한다.
 
@@ -742,7 +742,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 ### 8-3. 경혈/처방 연관
 
 - 경혈: 견우(肩髃, LI15)·견료(肩髎, TE14)·견정(肩井, GB21)·극천(極泉, HT1)·곡지(曲池, LI11)·합곡(合谷, LI4) 등 수양명대장경·수소양삼초경·족소양담경 혈위가 활용된다. 특히 견우(肩髃)에서 견봉하 공간으로의 수평 자침법이 구체적으로 보고되어 있다.[^72] [교과서적 근거]
-- 처방: 가미소경탕(加味消瓊湯)은 극상근 건병증의 통증·수면장애 통합 관리에,[^45] 보양환오탕(補陽還五湯) 가감방은 봉합술 후 초기 회복에,[^84] 황기계지오물탕(黃芪桂枝五物湯)은 기혈양허(氣血兩虛)·혈비(血痺)로 인한 상지 저림·부종·통증에 응용할 수 있다.[^102][^104][^105]
+- 처방: 가미소경탕(加味消瓊湯)은 극상근 건병증의 통증·수면장애 통합 관리에,[^45] 보양환오탕(補陽還五湯) 가감방은 봉합술 후 초기 회복에,[^84](철회된 논문으로 유효 근거가 아니다) 황기계지오물탕(黃芪桂枝五物湯)은 기혈양허(氣血兩虛)·혈비(血痺)로 인한 상지 저림·부종·통증에 응용할 수 있다.[^102][^104][^105]
 - 중재: 침·전침·건침·약침·봉침·부항·도침·사혈·추나·뜸·한약·이침·매선침 등이 보고된다.[^1][^4][^11][^35][^38][^46]
 
 ### 8-4. 대표 처방 요약표
@@ -750,7 +750,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 | 처방명 | 병기·변증 적응 | 임상 적용 근거 | 비고 |
 |---|---|---|---|
 | 가미소경탕(加味消瓊湯) | 기체혈어 겸 수면 장애 | 극상근 건병증 통증·ROM·수면 질 개선[^45] | 한양방 통합 치료 증례 |
-| 보양환오탕(補陽還五湯) 가감방 | 기허혈어(氣虛血瘀), 술후 회복기 | 봉합술 후 Constant-Murley 점수·자가관리 능력 개선[^84] | 4~8주 초기 회복기 적용 |
+| 보양환오탕(補陽還五湯) 가감방 | 기허혈어(氣虛血瘀), 술후 회복기 | 봉합술 후 Constant-Murley 점수·자가관리 능력 개선[^84](철회된 논문으로 유효 근거가 아니다) | 4~8주 초기 회복기 적용 |
 | 황기계지오물탕(黃芪桂枝五物湯) | 기혈양허(氣血兩虛)·혈비(血痺) | 상지 부종·순환장애·저림 개선(관련 질환 근거)[^102][^104][^105] | 회전근개질환 특이적 대규모 RCT는 부족 |
 | 서근활락탕(舒筋活絡湯) | 근맥 긴장·어혈 | 전통적 임상 활용, 회전근개질환 특화 논문 미확인 | 향후 임상 연구 축적 필요 |
 | 견비탕(肩臂湯) | 견비통(肩臂痛) 전반 | 전통적 임상 활용, 회전근개질환 특화 논문 미확인 | 향후 임상 연구 축적 필요 |
@@ -947,7 +947,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 [^81]: Research Progress in Traditional Chinese Medicine Treatment of Rotator Cuff Injury. _Journal of Artificial Intelligence and Information_. 2026-06. [문헌 고찰] [DOI 10.66069/ojspub.20542246](https://doi.org/10.66069/ojspub.20542246) — 한방 복합 치료가 경중등도 손상·수술후 재활에 강점.
 [^82]: Research on the Application of Traditional Chinese Medicine Acupuncture in the Rehabilitation Treatment of Sports Injuries. _Journal of Clinical Medicine Research_. 2025-11. [문헌 고찰] [DOI 10.32629/jcmr.v6i3.4433](https://doi.org/10.32629/jcmr.v6i3.4433) — 침이 스포츠 손상(회전근개 포함) 재활에 유의미한 효과.
 [^83]: The Influence of Diabetes Mellitus on Rotator Cuff Repair: A Systematic Review and Meta-Analysis. _Combinatorial Chemistry & High Throughput Screening_. 2021-06. [메타분석, 1,406명] [DOI 10.2174/1386207323666201020114034](https://doi.org/10.2174/1386207323666201020114034) — 당뇨병 환자의 재파열·미유합률이 유의하게 높음.
-[^84]: Clinical Observation on the Treatment of Rotator Cuff Injury with Modified Buyang Huanwu Decoction and Rotator Cuff Repair. _Journal of Healthcare Engineering_. 2021. [임상시험, 57명] [DOI 10.1155/2021/3088160](https://doi.org/10.1155/2021/3088160) [PMID 34733453](https://pubmed.ncbi.nlm.nih.gov/34733453/) — 보양환오탕 가감방 병용이 초기 회복기 기능 점수 개선.
+[^84]: Clinical Observation on the Treatment of Rotator Cuff Injury with Modified Buyang Huanwu Decoction and Rotator Cuff Repair. _Journal of Healthcare Engineering_. 2021. [임상시험, 57명, 철회됨] [DOI 10.1155/2021/3088160](https://doi.org/10.1155/2021/3088160) [PMID 34733453](https://pubmed.ncbi.nlm.nih.gov/34733453/) — **철회(Retraction Notice: [PMID 38094776](https://pubmed.ncbi.nlm.nih.gov/38094776/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 보양환오탕 가감방 병용이 초기 회복기 기능 점수 개선.
 [^85]: [Interpretation of the 2025 American Academy of Orthopaedic Surgeons (AAOS) on Management of Rotator Cuff Injuries Evidence-Based Clinical Practice Guideline]. _Chinese Journal of Reparative and Reconstructive Surgery_. 2026-02. [임상진료지침] [DOI 10.7507/1002-1892.202511084](https://doi.org/10.7507/1002-1892.202511084) [PMID 41730726](https://pubmed.ncbi.nlm.nih.gov/41730726/) — CT 보조진단·조기가동 강조, PRP·프롤로테라피 제한 권고.
 [^86]: Prevalence and risk factors of shoulder stiffness after rotator cuff repair: a meta-analysis. _BMC Musculoskeletal Disorders_. 2026-05. [메타분석, 21,033명] [DOI 10.1186/s12891-026-09856-0](https://doi.org/10.1186/s12891-026-09856-0) [PMID 42087148](https://pubmed.ncbi.nlm.nih.gov/42087148/) — 술후 강직 유병률 약 17%, 여성·당뇨병에서 위험 증가.
 [^87]: Effectiveness of platelet-rich plasma therapy in promoting wound healing and shoulder function recovery after shoulder surgery. _Scientific Reports_. 2026-03. [관찰연구, 170명] [DOI 10.1038/s41598-026-44844-3](https://doi.org/10.1038/s41598-026-44844-3) [PMID 41896349](https://pubmed.ncbi.nlm.nih.gov/41896349/) — PRP가 상처 치유·기능 회복·재원 기간 단축에 기여.
@@ -987,7 +987,7 @@ KCD-8 기준 회전근개 증후군은 **M75.1**, 견봉하 충돌 증후군은 
 [^121]: Ultrasound-guided injection of platelet-rich plasma for tendinopathies: a systematic review and meta-analysis. _Blood Transfusion_. 2023-03. [메타분석, 2,025명] [DOI 10.2450/2022.0087-22](https://doi.org/10.2450/2022.0087-22) [PMID 36346880](https://pubmed.ncbi.nlm.nih.gov/36346880/) — PRP의 건병증 전반에서의 우월성은 불분명, 근거 수준 낮음.
 [^122]: Risk factors for full-thickness rotator cuff tears: a systematic review and meta-analysis. _EFORT Open Reviews_. 2021-11. [메타분석, 4,047명] [DOI 10.1302/2058-5241.6.210027](https://doi.org/10.1302/2058-5241.6.210027) [PMID 34909227](https://pubmed.ncbi.nlm.nih.gov/34909227/) — 연령·고혈압·임계 견갑각 증가가 전층 파열의 위험 요인.
 [^123]: Comparison of the accuracy of telehealth examination versus clinical examination in the detection of shoulder pathology. _Journal of Shoulder and Elbow Surgery_. 2021-05. [임상시험, 62명] [DOI 10.1016/j.jse.2020.08.016](https://doi.org/10.1016/j.jse.2020.08.016) [PMID 32871264](https://pubmed.ncbi.nlm.nih.gov/32871264/) — 원격 어깨 검사가 대면 검사와 비열등, 영상 검사 병행 필요.
-[^124]: Comparative Analysis of Real-Time Dynamic Ultrasound and Magnetic Resonance Imaging in the Diagnosis of Rotator Cuff Tear Injury. _Evidence-Based Complementary and Alternative Medicine_. 2021. [관찰연구, 55명] [DOI 10.1155/2021/2107693](https://doi.org/10.1155/2021/2107693) [PMID 34887929](https://pubmed.ncbi.nlm.nih.gov/34887929/) — 동적 초음파+MRI 병행 시 부분 파열 진단 정확도 최고.
+[^124]: Comparative Analysis of Real-Time Dynamic Ultrasound and Magnetic Resonance Imaging in the Diagnosis of Rotator Cuff Tear Injury. _Evidence-Based Complementary and Alternative Medicine_. 2021. [관찰연구, 55명, 철회됨] [DOI 10.1155/2021/2107693](https://doi.org/10.1155/2021/2107693) [PMID 34887929](https://pubmed.ncbi.nlm.nih.gov/34887929/) — **철회(Retraction Notice: [PMID 37388047](https://pubmed.ncbi.nlm.nih.gov/37388047/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 동적 초음파+MRI 병행 시 부분 파열 진단 정확도 최고.
 [^125]: Critical shoulder angle in an East Asian population: correlation to the incidence of rotator cuff tear and glenohumeral osteoarthritis. _Journal of Shoulder and Elbow Surgery_. 2018-09. [관찰연구, 295명] [DOI 10.1016/j.jse.2018.03.013](https://doi.org/10.1016/j.jse.2018.03.013) [PMID 29731396](https://pubmed.ncbi.nlm.nih.gov/29731396/) — 임계 견갑각 증가가 동아시아인의 회전근개 파열 독립 위험 인자.
 [^126]: Signal intensity on MRI after conservative treatment of patients with full-thickness rotator cuff tears: Correlation with shoulder pain. _Journal of Orthopaedic Science_. 2023-03. [관찰연구, 55명] [DOI 10.1016/j.jos.2021.12.010](https://doi.org/10.1016/j.jos.2021.12.010) [PMID 35016805](https://pubmed.ncbi.nlm.nih.gov/35016805/) — 증상 개선이 MRI 신호강도 변화보다 시간적으로 선행.
 [^127]: Role of matrix metalloproteases 1/3 gene polymorphisms in patients with rotator cuff tear. _Bioscience Reports_. 2019-10. [관찰연구] [DOI 10.1042/BSR20191549](https://doi.org/10.1042/BSR20191549) [PMID 31652448](https://pubmed.ncbi.nlm.nih.gov/31652448/) — MMP-1 다형성이 파열 위험·진행과 연관.

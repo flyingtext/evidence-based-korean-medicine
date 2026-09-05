@@ -74,7 +74,7 @@
 
 ### 6. 만성 위염·위점막 병변에서의 적용
 
-평위산 가감방인 향련평위산(香連平胃散, Xianglian Pingwei Powder, 평위산에 황련을 더한 청열조습방)은 간경변증에 동반된 소장 세균 과증식(SIBO) 환자에서 글루타치온·레보플록사신 등 양약과 병용 투여했을 때, 양약 단독 투여보다 간 기능 지표 개선, 세균 과증식 억제, 염증 지표(TLR2·TLR4) 감소 효과가 더 우수하였다[^4]. 이는 평위산 계열의 청열조습 가감방이 장내 세균 과증식을 동반한 습열 병태에도 확장 적용될 수 있음을 시사한다.
+평위산 가감방인 향련평위산(香連平胃散, Xianglian Pingwei Powder, 평위산에 황련을 더한 청열조습방)은 간경변증에 동반된 소장 세균 과증식(SIBO) 환자에서 글루타치온·레보플록사신 등 양약과 병용 투여했을 때, 양약 단독 투여보다 간 기능 지표 개선, 세균 과증식 억제, 염증 지표(TLR2·TLR4) 감소 효과가 더 우수하였다[^4](철회된 논문으로 유효 근거가 아니다). 이는 평위산 계열의 청열조습 가감방이 장내 세균 과증식을 동반한 습열 병태에도 확장 적용될 수 있음을 시사한다.
 
 한의학적 초음파 영상에서 급성 위 점막 병변으로 진단된 환자에게 평위산 계열 한약을 포함한 한의 치료를 적용해 증상이 호전된 증례가 보고되었다[^65]. 위궤양이 완전히 치유된 이후에도 지속되는 기능성 소화불량에 평위산 계열을 포함한 통합 한의 치료(침·한약)를 적용해 증상이 개선된 증례도 있다[^68]. 식도위접합부 유출 폐쇄(EGJOO)로 연하곤란·흉통을 겪는 환자에게 평위산 계열 처방을 적용해 증상이 개선된 증례 역시 보고되었다[^67]. 이들 증례는 근거 수준은 낮으나(증례 보고), 기질적 병변이 확인된 이후에도 잔존하는 습곤비위 양상의 기능적 증상에 평위산이 보조적으로 적용될 수 있음을 보여준다.
 
@@ -112,7 +112,7 @@
 
 향사평위산은 기체를 겸한 습곤비위에 가장 널리 쓰이는 가감방으로, 이중맹검 무작위대조시험에서 FD 환자의 삶의 질을 유의하게 개선하였다[^5]. 이는 원방 평위산에 이기약(理氣藥)을 더함으로써 창만·트림 등 기체 증상에 대한 임상 반응성이 높아짐을 시사한다.
 
-간경변증을 동반한 소장 세균 과증식 환자에서 향련평위산(청열조습 가감방)을 양약과 병용했을 때 양약 단독보다 우수한 간 기능·염증 지표 개선을 보인 임상시험은[^4], 습열이 겸한 병태에서 청열약을 가미하는 전통적 가감 원리가 현대 임상 지표로도 뒷받침됨을 보여준다.
+간경변증을 동반한 소장 세균 과증식 환자에서 향련평위산(청열조습 가감방)을 양약과 병용했을 때 양약 단독보다 우수한 간 기능·염증 지표 개선을 보인 임상시험은[^4](철회된 논문으로 유효 근거가 아니다), 습열이 겸한 병태에서 청열약을 가미하는 전통적 가감 원리가 현대 임상 지표로도 뒷받침됨을 보여준다.
 
 **변증 없는 관행적 처방은 근거에 부합하지 않는다.** 습곤비위 환자 개개인의 한열·허실·기체 양상을 변증하지 않고 평위산 원방을 획일적으로 투여하는 것은 최적의 치료 반응을 얻기 어렵다. 기능성 소화불량 환자의 체질량지수(BMI)에 따른 변증 분포 분석에서 BMI가 높을수록 비기허보다 습담·실증 변증 비율이 높고, 식후불편증후군(PDS)보다 상복부통증증후군(EPS) 빈도가 높게 나타나[^25], 동일한 FD 진단명 안에서도 변증에 따른 가감이 필요함을 뒷받침한다.
 
@@ -204,14 +204,14 @@
 | 감초 장기 투여 | 위(僞)알도스테론증 — 부종·저칼륨혈증·고혈압 | (교과서적 근거) |
 | 임신·수유기 | 활혈·행기 작용이 강한 가감방(향부자 등 포함 시)은 한의사 진단 하에 신중히 결정 | (교과서적 근거) |
 | 간 기능 관련 | 전문가 처방 한약이 FD 환자 간 기능에 유의한 부정적 영향을 주지 않았다는 후향적 연구가 있으나, 비전문적 임의 복용 시 위험 배제 불가 | [^14] |
-| 위장관 세균총 관련 | 향련평위산 등 청열조습 가감방을 양약과 병용할 때는 상호 보완적 효과가 보고되나 개별 반응 차이 고려 | [^4] |
+| 위장관 세균총 관련 | 향련평위산 등 청열조습 가감방을 양약과 병용할 때는 상호 보완적 효과가 보고되나 개별 반응 차이 고려 | [^4](철회된 논문으로 유효 근거가 아니다) |
 | 소아·고령자 | 소화 기능이 극도로 저하된 상태에서는 조습약의 강도를 낮추고 소량부터 시작 | (교과서적 근거) |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
 ### 22. 약물상호작용
 
-평위산 자체의 표적화된 약물상호작용 임상 연구는 제한적이나, 구성 약재별로 알려진 상호작용 가능성을 고려해야 한다. 감초 함유 처방은 이뇨제·강심배당체(디곡신)와 병용 시 저칼륨혈증으로 인한 부정맥 위험이 상승할 수 있어 병용 시 전해질 모니터링이 권장된다.(교과서적 근거) 향련평위산과 같은 청열조습 가감방을 항생제(레보플록사신 등)·간보호제(글루타치온)와 병용한 임상시험에서는 상호 보완적 효과가 확인되었으나[^4], 이는 특정 가감방·특정 병용 조합에 국한된 근거이므로 일반화에 주의해야 한다.
+평위산 자체의 표적화된 약물상호작용 임상 연구는 제한적이나, 구성 약재별로 알려진 상호작용 가능성을 고려해야 한다. 감초 함유 처방은 이뇨제·강심배당체(디곡신)와 병용 시 저칼륨혈증으로 인한 부정맥 위험이 상승할 수 있어 병용 시 전해질 모니터링이 권장된다.(교과서적 근거) 향련평위산과 같은 청열조습 가감방을 항생제(레보플록사신 등)·간보호제(글루타치온)와 병용한 임상시험에서는 상호 보완적 효과가 확인되었으나[^4](철회된 논문으로 유효 근거가 아니다), 이는 특정 가감방·특정 병용 조합에 국한된 근거이므로 일반화에 주의해야 한다.
 
 ### 23. 임신·수유기 및 기질질환 배제
 
@@ -291,7 +291,7 @@
 
 **Q3. 만성 위염에도 쓸 수 있나요?**
 
-네. 청열조습 가감방(향련평위산)이 소장 세균 과증식을 동반한 간경변 환자에서 양약과 병용 시 우수한 효과를 보였고[^4], 습열정체증을 동반한 만성 비위축성 위염에서도 청열조습 계열 처방이 유의한 개선을 보였습니다[^60]. 다만 위축성 위염·장상피화생·이형성증이 동반된 경우 반드시 정기적 내시경 추적이 병행되어야 합니다.
+네. 청열조습 가감방(향련평위산)이 소장 세균 과증식을 동반한 간경변 환자에서 양약과 병용 시 우수한 효과를 보였고[^4](철회된 논문으로 유효 근거가 아니다), 습열정체증을 동반한 만성 비위축성 위염에서도 청열조습 계열 처방이 유의한 개선을 보였습니다[^60]. 다만 위축성 위염·장상피화생·이형성증이 동반된 경우 반드시 정기적 내시경 추적이 병행되어야 합니다.
 
 **Q4. 평위산의 안전성은 어떠한가?**
 
@@ -321,7 +321,7 @@
 [^1]: Administration of Yijung-tang, Pyeongwi-san, and Shihosogan-tang for Standardization of Korean Medicine Pattern Identification for Functional Dyspepsia: A Study Protocol of a Randomized, Assessor-blind, 3-Arm, Parallel, Open-label, Multicenter Clinical Trial. Min-Jin Cho 외. _The Journal of Internal Korean Medicine_. 2022-12-30. [임상시험, 300명] [DOI 10.22246/jikm.2022.43.6.1105](https://doi.org/10.22246/jikm.2022.43.6.1105) — 습곤비위·비위허한·간위불화 변증별로 평위산·이중탕·시호소간탕을 배정하는 변증 표준화 다기관 임상시험 프로토콜.
 [^2]: [Mining analysis and experience summary for chronic atrophic gastritis cases treated by Professor LIU Feng-bin]. Hou ZK 외. _Zhongguo Zhong yao za zhi_. 2015-06. [관찰연구, 228명] [PMID 26552186](https://pubmed.ncbi.nlm.nih.gov/26552186/) — 만성 위축성 위염(CAG) 임상 경험 데이터 마이닝으로 6가지 변증 유형과 주요 처방 약재 도출.
 [^3]: Herbal Medicine Prescriptions for Functional Dyspepsia: A Nationwide Population-Based Study in Korea. Boram Lee 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-01-29. [관찰연구] [DOI 10.1155/2022/3306420](https://doi.org/10.1155/2022/3306420) — 한국 한의 의료기관에서 FD 최다 처방 한약이 평위산·향사평위산으로 확인. 평위산이 FD 임상의 실질적 표준 처방임을 뒷받침.
-[^4]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients with Liver Cirrhosis and Positive Small Intestinal Bacterial Overgrowth. Su S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 100명] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — 향련평위산(평위산 가감방)+양약 병용이 간경변 SIBO 환자에서 양약 단독보다 우수. 청열조습 가감의 현대적 근거.
+[^4]: Effect of Modified Xianglian Pingwei Powder plus Glutathione and Levofloxacin Hydrochloride on Patients with Liver Cirrhosis and Positive Small Intestinal Bacterial Overgrowth. Su S 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 100명, 철회됨] [DOI 10.1155/2022/5063088](https://doi.org/10.1155/2022/5063088) [PMID 35449813](https://pubmed.ncbi.nlm.nih.gov/35449813/) — **철회(Retraction Notice: [PMID 38125141](https://pubmed.ncbi.nlm.nih.gov/38125141/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 향련평위산(평위산 가감방)+양약 병용이 간경변 SIBO 환자에서 양약 단독보다 우수. 청열조습 가감의 현대적 근거.
 [^5]: A traditional herbal formula, Hyangsa-Pyeongwi san (HPS), improves quality of life (QoL) of the patient with functional dyspepsia (FD): randomized double-blinded controlled trial. Kim JB 외. _Journal of ethnopharmacology_. 2014. [임상시험, 170명] [DOI 10.1016/j.jep.2013.10.033](https://doi.org/10.1016/j.jep.2013.10.033) [PMID 24239600](https://pubmed.ncbi.nlm.nih.gov/24239600/) — 향사평위산이 FD 환자 삶의 질을 유의하게 개선. 평위산 가감방의 핵심 RCT 근거.
 [^6]: Complementary and alternative medicine for functional dyspepsia: An Asian perspective. Yoon JY 외. _Medicine_. 2022-09-02. [문헌 고찰] [DOI 10.1097/MD.0000000000030077](https://doi.org/10.1097/MD.0000000000030077) [PMID 36107498](https://pubmed.ncbi.nlm.nih.gov/36107498/) — 아시아권 FD 보완대체요법 개관. STW-5 등 식물성 의약품의 RCT 근거 정리.
 [^7]: Integrated effects of Kampo treatment on gastrointestinal symptoms and stress in patients with functional dyspepsia: a preliminary prospective observational study. Liang L 외. _Frontiers in pharmacology_. 2025. [관찰연구, 41명] [DOI 10.3389/fphar.2025.1685656](https://doi.org/10.3389/fphar.2025.1685656) [PMID 41357899](https://pubmed.ncbi.nlm.nih.gov/41357899/) — 육군자탕·평위산 등 캄포 처방이 FD의 위장관 증상과 심리적 스트레스를 함께 개선.

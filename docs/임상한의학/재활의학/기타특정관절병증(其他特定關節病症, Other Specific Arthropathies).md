@@ -316,7 +316,7 @@ PVNS/TGCT는 콜로니자극인자1(CSF1) 유전자의 염색체 전위로 인�
 
 **추나·도수치료**: 슬개하 지방체 손상에 대한 추나(도수) 치료 관찰연구[^38], 슬개대퇴 관절 탈구에 관절경과 도수교정을 병용한 임상시험[^39], 종골골절에 도수정복과 외부고정을 적용한 증례[^40], 발목 골절탈구의 비수술적 치료 결과[^41] 등이 외상후 관절병증의 초기·아급성기 도수적 개입의 근거를 뒷받침한다. 신경역동적 도수치료가 경도 외상후 무릎 골관절염 환자의 하지 기능을 개선했다는 임상시험도 있다[^28].
 
-**만성기 이차성 골관절염 관리**: 자가연골세포·중간엽줄기세포 이식이 국소 연골결손에 효과적이라는 메타분석[^33], 관절내 절골술로 축 정렬을 교정해 외상후 골관절염을 관리한 관찰연구[^35]가 있다. 침구·뜸·추나 등 원발성 골관절염 치료의 광범위한 근거 기반(무릎 골관절염 침구치료 메타분석·체계적 고찰 다수)[^67][^73][^76][^77][^81]은 외상후 이차성 골관절염 단계에서도 원리적으로 참고할 수 있으나, **이는 원발성 골관절염 근거를 유추 적용한 것이지 외상후 관절병증에 특이적으로 검증된 근거는 아니라는 한계를 명시** 해야 한다.
+**만성기 이차성 골관절염 관리**: 자가연골세포·중간엽줄기세포 이식이 국소 연골결손에 효과적이라는 메타분석[^33], 관절내 절골술로 축 정렬을 교정해 외상후 골관절염을 관리한 관찰연구[^35]가 있다. 침구·뜸·추나 등 원발성 골관절염 치료의 광범위한 근거 기반(무릎 골관절염 침구치료 메타분석·체계적 고찰 다수)[^67][^73][^76](철회된 논문으로 유효 근거가 아니다)[^77][^81]은 외상후 이차성 골관절염 단계에서도 원리적으로 참고할 수 있으나, **이는 원발성 골관절염 근거를 유추 적용한 것이지 외상후 관절병증에 특이적으로 검증된 근거는 아니라는 한계를 명시** 해야 한다.
 
 변증 층화 없는 관행적 침구·한약 투여는 근거에 부합하지 않는다 — 급성기에 과도한 활혈화어제를 남용하면 지혈 지연·재출혈 위험이 있고, 만성기에 온조(溫燥)한 보익제만 투여하면 잔존 어혈을 방치할 수 있다.
 
@@ -606,7 +606,7 @@ M12군 각 하위 표제어에서 확인된 치료 근거를 연구 유형별로
 | PVNS(M12.2, 미만형·재발성) | 페시다티닙(CSF1R 억제제) | 문헌 고찰이 정리한 임상 적용 근거[^14][^15] | 특이적 근거 없음 |
 | 재발성 류마티즘(M12.3) | 항CCP항체 기반 위험층화 후 조기 DMARD 고려 | 관찰연구(국내 예후인자 연구)[^24] | 특이적 근거 없음, 비증 일반 이론 준용 |
 | 외상후 관절병증(M12.5, 급성·아급성기) | 전침+통상치료 병용, 도수치료 병용 | 무작위대조시험 수준[^28][^31][^37] | 무작위대조시험·증례 수준 혼재[^30][^34][^43] |
-| 외상후 관절병증(M12.5, 만성·이차성 OA) | 자가연골세포/줄기세포 이식, 관절내 절골술 | 메타분석·관찰연구[^33][^35] | 원발성 골관절염 근거의 유추 적용(메타분석·체계적 고찰 다수)[^67][^76][^81] |
+| 외상후 관절병증(M12.5, 만성·이차성 OA) | 자가연골세포/줄기세포 이식, 관절내 절골술 | 메타분석·관찰연구[^33][^35] | 원발성 골관절염 근거의 유추 적용(메타분석·체계적 고찰 다수)[^67][^76](철회된 논문으로 유효 근거가 아니다)[^81] |
 | M12.8(다발성 망상조직구증 등) | 항TNF제·IL-1 억제제·JAK 억제제 | 증례 보고 수준(초희귀질환 특성상 RCT 부재)[^62][^63][^65] | 특이적 근거 없음 |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 근거 수준이 낮다고 해서 임상적 가치가 없다는 뜻은 아니다. 다만 환자에게 치료를 권할 때는 각 개입의 실제 근거 수준을 과장하지 않고 정직하게 전달해야 한다는 원칙을 지킨다.
@@ -734,7 +734,7 @@ PVNS는 활막이 비정상적으로 증식하는 국소 병변이므로 근본�
 [^73]: Different kinds of acupuncture treatments for knee osteoarthritis: a multicentre, randomized controlled trial. Qifei Zhang 외. _Trials_. 2020-03-14. [임상시험] [DOI 10.1186/s13063-019-4034-8](https://doi.org/10.1186/s13063-019-4034-8) — 무릎 골관절염에서 여러 침구 치료법을 비교한 다기관 무작위대조시험 프로토콜. 근거 수준 높은 비교임상시험 설계.
 [^74]: [A randomized controlled study on warming needle moxibustion for treatment of knee osteoarthritis]. Ding MH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-08. [임상시험] [PMID 19947259](https://pubmed.ncbi.nlm.nih.gov/19947259/) — 온침구의 무릎 골관절염 치료 효과를 평가한 무작위대조시험. 온침 병용의 통증·기능 개선 근거.
 [^75]: [Efficacy observation on osteoarthritis of the knee treated with the ultrastructural acupotomy therapy at the counter-Ashi points]. Liu MR 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-07. [임상시험] [PMID 22997793](https://pubmed.ncbi.nlm.nih.gov/22997793/) — 초미세침도요법의 무릎 골관절염 치료 효과를 평가한 임상시험. 침도(針刀) 요법의 유효성 근거.
-[^76]: Comparison of Warming Needle Moxibustion and Drug Therapy for Treating Knee Osteoarthritis: A Systematic Review and Meta-analysis. Li J 외. _Computational and mathematical methods in medicine_. 2022. [메타분석] [DOI 10.1155/2022/3056109](https://doi.org/10.1155/2022/3056109) [PMID 35936371](https://pubmed.ncbi.nlm.nih.gov/35936371/) — 온침구와 약물치료의 무릎 골관절염 효과를 비교한 메타분석. 침구요법과 통상치료의 상대적 효과 비교.
+[^76]: Comparison of Warming Needle Moxibustion and Drug Therapy for Treating Knee Osteoarthritis: A Systematic Review and Meta-analysis. Li J 외. _Computational and mathematical methods in medicine_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/3056109](https://doi.org/10.1155/2022/3056109) [PMID 35936371](https://pubmed.ncbi.nlm.nih.gov/35936371/) — **철회(Retraction Notice: [PMID 37811294](https://pubmed.ncbi.nlm.nih.gov/37811294/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 온침구와 약물치료의 무릎 골관절염 효과를 비교한 메타분석. 침구요법과 통상치료의 상대적 효과 비교.
 [^77]: Efficacy and safety of Tuina (Chinese Therapeutic Massage) for knee osteoarthritis: A randomized, controlled, and crossover design clinical trial. Kaoqiang Liu 외. _Frontiers in Medicine_. 2023-04-05. [임상시험] [DOI 10.3389/fmed.2023.997116](https://doi.org/10.3389/fmed.2023.997116) — 추나(중국식 도수치료)의 무릎 골관절염 유효성·안전성 무작위대조시험. 추나요법의 통증·기능 개선 근거.
 [^78]: Effect of electroacupuncture combined with Tuina therapy on gut microbiota in patients with knee osteoarthritis. Guo X 외. _World journal of gastroenterology_. 2025-05-14. [임상시험] [DOI 10.3748/wjg.v31.i18.105495](https://doi.org/10.3748/wjg.v31.i18.105495) [PMID 40496364](https://pubmed.ncbi.nlm.nih.gov/40496364/) — 전침과 추나 병용치료가 무릎 골관절염 환자의 장내미생물총에 미치는 영향을 평가한 임상시험. 침구-장내미생물 축의 기전적 근거.
 [^79]: [Acupotomy at trigger points combined with meridian sinew manipulation in treatment of knee osteoarthritis: a randomized controlled trial]. Wang HD 외. _Zhen ci yan jiu = Acupuncture research_. 2025-07-25. [임상시험] [DOI 10.13702/j.1000-0607.20240549](https://doi.org/10.13702/j.1000-0607.20240549) [PMID 40691033](https://pubmed.ncbi.nlm.nih.gov/40691033/) — 압통점 침도요법과 경근수기를 병용한 무릎 골관절염 치료 임상시험. 침도·수기 복합치료의 근거.

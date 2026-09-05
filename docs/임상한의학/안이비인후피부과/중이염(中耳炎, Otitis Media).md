@@ -376,7 +376,7 @@ GRADE(Grading of Recommendations Assessment, Development and Evaluation) 관점�
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 삼출성 중이염 한약 전반에 대한 체계적 고찰에서는 통교환 등 일부 처방이 양약 병용 시 청력 역치 개선 등에 긍정적 신호를 보였으나, 근거의 질이 낮고 결과가 일관되지 않아 대규모 고품질 연구가 필요하다고 결론지었다[^23]. 경구 한약 투여에 대한 별도의 체계적 고찰 프로토콜도 발표되었다[^85].
 
-- **수술적 병용**: 내시경적 고막 카테터 삽입술에 오플록사신 이점적액을 병행하는 것이 단독 수술보다 청력 개선·병원균 제거·재발률 감소에 더 효과적이었다[^35]. 아데노이드 절제술의 재발 방지 효과와 예후 인자도 국내에서 분석되었다[^104].
+- **수술적 병용**: 내시경적 고막 카테터 삽입술에 오플록사신 이점적액을 병행하는 것이 단독 수술보다 청력 개선·병원균 제거·재발률 감소에 더 효과적이었다[^35](철회된 논문으로 유효 근거가 아니다). 아데노이드 절제술의 재발 방지 효과와 예후 인자도 국내에서 분석되었다[^104].
 - **프로바이오틱스**: 아데노이드 비대증을 동반한 소아 삼출성 중이염 환자에게 프로바이오틱스 트로키를 12주간 투여한 결과 고실검사 분류 개선과 청력 기능 회복에 유의한 효과가 확인되었다[^58].
 - **통합 비침습 접근**: 소아 삼출성 중이염·아데노이드 비대증에 대한 비침습적 통합 시스템 접근법(P.E.A.N.U.T. Method)이 표준 치료 대비 청력·고막 상태를 개선하며 항생제·진통제 사용 및 수술 필요성을 유의하게 감소시켰다[^66].
 - **동종요법**: 소아 삼출성 중이염에 대한 동종요법의 초기 연구 결과는 고무적이나, 결정적 결론을 내리기에는 연구량이 부족하다[^33].
@@ -812,7 +812,7 @@ GRADE(Grading of Recommendations Assessment, Development and Evaluation) 관점�
 
 [^34]: Complementary and integrative treatments: otitis media. Levi JR 외. _Otolaryngologic clinics of North America_. 2013-06. [문헌 고찰] [DOI 10.1016/j.otc.2013.01.001](https://doi.org/10.1016/j.otc.2013.01.001) [PMID 23764811](https://pubmed.ncbi.nlm.nih.gov/23764811/) — 급성 중이염 치료에 있어 보완대체요법의 가능성을 검토하였으며 임상가들이 사용할 수 있는 평가·치료 알고리즘을 제시하였다.
 
-[^35]: Efficacy and Safety of Endoscopic Tympanic Membrane Catheterization Plus Ofloxacin Ear Drops in the Treatment of Secretory Otitis Media in Infants. Zhao Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험] [DOI 10.1155/2022/3732243](https://doi.org/10.1155/2022/3732243) [PMID 35911147](https://pubmed.ncbi.nlm.nih.gov/35911147/) — 영유아의 분비성 중이염 치료 시 내시경적 고막 카테터 삽입술에 오플록사신 이점적액을 병행하는 것이 단독 수술보다 청력 개선·병원균 제거·재발률 감소에 더 효과적이다.
+[^35]: Efficacy and Safety of Endoscopic Tympanic Membrane Catheterization Plus Ofloxacin Ear Drops in the Treatment of Secretory Otitis Media in Infants. Zhao Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/3732243](https://doi.org/10.1155/2022/3732243) [PMID 35911147](https://pubmed.ncbi.nlm.nih.gov/35911147/) — **철회(Retraction Notice: [PMID 37387822](https://pubmed.ncbi.nlm.nih.gov/37387822/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 영유아의 분비성 중이염 치료 시 내시경적 고막 카테터 삽입술에 오플록사신 이점적액을 병행하는 것이 단독 수술보다 청력 개선·병원균 제거·재발률 감소에 더 효과적이다.
 
 [^36]: Complementary and Alternative Medicine Treatment Options for Otitis Media: A Systematic Review. Marom T 외. _Medicine_. 2016-02. [체계적 고찰] [DOI 10.1097/MD.0000000000002695](https://doi.org/10.1097/MD.0000000000002695) [PMID 26871802](https://pubmed.ncbi.nlm.nih.gov/26871802/) — 소아 중이염 치료를 위한 다양한 보완대체요법이 시도되고 있으나 현재까지 이들의 효능을 뒷받침하는 과학적 근거는 매우 제한적이다.
 
