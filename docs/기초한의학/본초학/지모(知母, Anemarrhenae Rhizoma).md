@@ -1,157 +1,558 @@
 # 지모(知母, Anemarrhenae Rhizoma)
 
-지모(知母)는 백합과(Liliaceae) 식물 *Anemarrhena asphodeloides* Bunge의 건조된 뿌리줄기(rhizome)를 약용으로 사용하는 본초로, 열을 내리고 진액을 자생하며, 허로(虛勞)·조열(燥熱)·소갈(消渴) 등을 치료하는 대표적인 청열자음(淸熱滋陰) 약재이다. 본 문서는 지모의 기원·약성·유효 성분·약리 작용·포제·약쌍·함유 처방·임상 응용·용량 및 주의사항을 근거 기반으로 정리한다.
+지모(知母)는 백합과(百合科, Liliaceae) 식물 *Anemarrhena asphodeloides* Bunge의 건조한 뿌리줄기를 약용하는 본초로, 청열사화(淸熱瀉火)와 자음윤조(滋陰潤燥)를 한 몸에 갖춘 드문 약재이다. 실열(實熱)을 끄는 사화약(瀉火藥)이면서 동시에 진액을 기르는 자음약(滋陰藥)이라는 이중 성격이 지모의 임상적 정체성이며, 백호탕(白虎湯) 계열에서는 앞의 얼굴로, 지백지황환(知柏地黃丸)·산조인탕(酸棗仁湯) 계열에서는 뒤의 얼굴로 쓰인다.
 
-## 기원 및 품종
+이 문서는 지모를 다룰 때 임상가가 가장 자주 부딪히는 문제 — **"지모에 대한 인체 근거는 어디까지가 지모의 것인가"** — 를 정면에서 다룬다. 지모는 단미(單味)로 투여되는 일이 거의 없고, 축적된 연구의 대부분은 지모가 들어간 방제 또는 지모에서 추출한 단일 성분을 대상으로 한다. 따라서 이 문서는 모든 근거를 아래 3층으로 나누어 표시하고, 층을 넘어선 환원(還元)을 하지 않는다.
 
-지모(知母, Anemarrhenae Rhizoma)는 백합과(Liliaceae) 다년생 초본인 *Anemarrhena asphodeloides* Bunge의 건조된 뿌리줄기(rhizome)를 약용으로 한다. 중국 동북부·화북·내몽고 등이 주산지이며, 한국에서도 자생·재배된다. 감초형 뿌리줄기로 표면은 황갈색~담황갈색이고 절단면은 황백색을 띠며, 특유의 점질(黏質)과 미감(微甘)·미고(微苦)의 맛이 있다[^1]. 재배종과 야생종의 품질 비교 연구에 따르면, 이현(易縣) 지역에서 채집한 재배 지모와 야생 지모는 유효 성분 함량과 품질 지표에서 차이를 보여 산지·재배 조건이 품질에 영향을 미친다[^2]. 분자생물학적 품종 감별을 위해 multiplex PCR 기법이 적용된 바 있어, 시장 유통 지모의 품종 확인·품질 관리에 유용하다[^3]. 또한 FT-Raman 분광법을 통한 미가공 생약의 신속 식별법이 보고된 바 있어, 형태가 비슷한 유사 약재와의 혼입 방지에 참고할 수 있다[^4].
+- **제1층 — 지모 단미(單味) 직접 근거**: 지모 자체를 사람에게 투여하고 관찰한 자료.
+- **제2층 — 성분(成分) 근거**: timosaponin·sarsasapogenin·mangiferin 등 지모 유래 화합물을 사람에게 투여한 자료.
+- **제3층 — 배오(配伍) 방제 및 주치 질환군 근거**: 지모가 배오된 방제를 사람에게 투여한 자료, 또는 그 방제가 표적하는 질환군의 자료.
 
-## 약성(藥性)과 효능
+또한 이 문서는 인체 대상 연구만을 근거로 삼는다. 실험동물·배양세포·인체 이외 조직을 대상으로 한 자료는 본문과 각주 어디에도 싣지 않았다. 약재(식물체) 자체에 대한 성분 분석·품질관리 연구는 임상 효능 근거가 아니라 **품질 근거** 로만 별도 표기하여 인용한다.
 
-지모의 약성은 한의과대학 교과서에 따르면 성한(性寒)·무독(無毒)하며, 맛은 고(苦)·감(甘)하고, 귀경은 폐(肺)·위(胃)·신(腎) 경에 들어간다. 핵심 효능은 청열사화(淸熱瀉火)·자음윤조(滋陰潤燥)·생진지갈(生津止渴)이며, 열성 질환의 기실(氣實) 단계와 음허(陰虛)로 인한 허열(虛熱) 모두에 폭넓게 응용된다(교과서적 근거). 임상적으로는 폐위열(肺胃熱)로 인한 번갈(煩渴)·해수(咳嗽)·조담(燥痰), 신음허(腎陰虛)로 인한 조열(潮熱)·도한(盜汗)·소갈(消渴) 등에 단미 또는 배합 방제로 쓰인다. 지모 단미 추출물은 대두(大豆)·감초(甘草)·석고(石膏) 등과 배합된 백호가감탕(白虎加減湯, byakko-ka-ninjin-to)의 핵심 구성 약재로서 항고혈당 효과를 발휘하는 것으로 보고되었다[^5].
+---
 
-## 주요 유효 성분
+## 제1편 총론 — 기원·성상·약성·효능
 
-지모의 주요 유효 성분은 스테로이드 사포닌(steroidal saponins)과 그 배당체·비당체(aglycones), 그리고 잔톤 배당체(xanthone glycosides)·플라보노이드·페닐프로파노이드·유기산·안트라퀴논 등 다양한 계열의 화합물로 구성된다. 대표적인 스테로이드 사포닌으로는 timosaponin B-II(사사사포닌 B-II), timosaponin A-III, anemarsaponin C, anemarsaponin A III 등이 있으며, 그 비당체로는 sarsasapogenin(사사사포게닌), smilagenin 등이 확인되었다[^6][^7][^8][^9]. 지모 뿌리줄기에서 신규 스테로이드 사포닌과 잔톤 배당체가 지속적으로 분리·동정되었고[^10][^11][^9], 지모의 생약학적 성분 계통 정리가 종합적으로 이루어진 바 있다[^6]. HPLC-ELSD·HPLC-DAD-MS/MS 등의 분석법을 통해 timosaponin B-II/A-III, neomangiferin, mangiferin, isomangiferin 등의 함량 동시 정량법과 지문(fingerprint) 분석법이 확립되어 품질 관리에 활용되고 있다[^12][^13][^14][^15]. 또한, 혈장약물화학(plasma pharmacochemistry)과 미세투석(microdialysis) 기법을 통해 지모 사포닌 추출물의 체내 흡수 성분과 그 대사물질이 체계적으로 분석되었다[^16].
+### 1-1. 기원과 품종
 
-## 약리 작용
+지모는 백합과 다년생 초본인 *Anemarrhena asphodeloides* Bunge의 건조한 뿌리줄기이다. 중국 하북(河北)·산서(山西)·내몽고(內蒙古) 등 화북·동북 지역이 주산지이며, 한국에서도 자생 및 재배가 이루어진다. 지모속(屬)의 민족약리·화학·약리를 총괄한 고찰은 이 속이 사실상 *A. asphodeloides* 1종으로 구성되며, 스테로이드 사포닌과 잔톤 배당체를 두 축으로 하는 성분 구성을 갖는다고 정리한다[^1].
 
-### 항염 및 연골 보호
+약재는 편평한 원주형 뿌리줄기로, 한쪽에 잎자국이 남아 오톨도톨하게 돌기가 늘어서고 표면은 황갈색~담황갈색이다. 절단면은 황백색이며, 씹으면 점질(黏質)이 느껴지고 미고(微苦)·미감(微甘)의 맛이 난다. 이 점질감은 지모가 단순한 고한(苦寒) 사화약이 아니라 자음(滋陰)의 성질을 겸한다는 전통적 인식과 부합한다(교과서적 근거).
 
-지모와 금은화(金銀花)의 혼합 추출물 n-부탄올 분획물인 WIN-34B는 골관절염 연골 외식 배양물과 연골세포에서 기질금속단백분해효소(MMP)와 염증 매개물의 생성을 억제하여 연골 파괴를 유의하게 억제하였다[^17]. 같은 WIN-34B 제제는 섬유모세포양 활막세포(fibroblast-like synoviocytes)에서 IκB-α 인산화와 MAPK 경로를 불활성화하여 염증 반응을 억제하였고, 위장관·간에 대한 안전성도 확인되었다[^18][^19]. 최근에는 생강(生薑)으로 가공한 지모(薑製知母)가 일반 지모보다 NF-κB/COX-2 경로 억제를 통해 항염 효능을 강화한다는 근거가 보고되어, 지모 포제(炮製)의 임상적 의의를 뒷받침한다[^20]. 또한 지모 추출물 자체도 항염 능력이 확인되어 다양한 염증성 질환에 응용 근거를 제공한다[^21].
+**품질 근거(임상 효능 근거가 아님)**: 재배품과 야생품의 성분 함량·품질 지표는 산지와 재배 조건에 따라 차이를 보인다[^2]. 종(種) 수준 감별에는 multiplex PCR이 적용되어 유통 약재의 진위 확인에 쓸 수 있고[^3], FT-Raman 분광법은 미가공 생약의 신속 식별에 활용되어 형태가 유사한 약재의 혼입을 걸러낸다[^4]. 지모와 그 포제품의 지표성분·지문(fingerprint) 기반 품질 표준도 개선되어 왔다[^5].
 
-### 신경 보호
+### 1-2. 성미·귀경·효능 (교과서적 근거)
 
-지모 유래 timosaponin B-II는 과산화수소로 유발한 망막신경절세포(RGC-5)의 괴사적 세포사(necroptosis)를 억제하여 신경 보호 효과를 나타냈다[^22]. 또한 timosaponin B-II는 염화철로 유도된 흰쥐 망막의 BACE1 발현 상승을 억제하여 알츠하이머병 등 신경퇴행 질환에서의 잠재적 가치를 보였다[^23]. 사사사포게닌(sarsasapogenin)은 RIPK1 매개 괴사세포사·세포자멸사(pyroptosis)를 이중 억제하여 알츠하이머병 병태를 개선한다는 기전 연구가 보고되었다[^24]. 임상 근거로는 지모 추출 사사사포게닌을 리스페리돈에 추가 투여한 이중맹검 위약대조 시험(n=80)에서 조현병 음성증상의 개선 효과가 확인되어, 지모 계열 성분의 정신신경과적 임상 응용 가능성이 제시되었다[^25].
+| 항목 | 내용 |
+|---|---|
+| 성(性) | 한(寒) |
+| 미(味) | 고(苦), 감(甘) |
+| 독성 | 무독(無毒) |
+| 귀경(歸經) | 폐(肺)·위(胃)·신(腎) |
+| 주요 효능 | 청열사화(淸熱瀉火), 자음윤조(滋陰潤燥), 생진지갈(生津止渴) |
+| 통상 용량 | 6~12g (탕제 기준) |
 
-### 당뇨병 및 대사 증후군
+이 표는 한의과대학 교과서·본초 원전에 표준으로 수록된 이론적 기술이며, 근거 등급을 매기지 않는다.
 
-지모 뿌리줄기 60% 에탄올 추출물은 streptozotocin 유발 당뇨 흰쥐에서 당뇨망막병증의 진행을 대조군 대비 유의하게 억제하였다[^26]. 지모-황백 약쌍(Zhimu-Huangbai herb-pair)은 당뇨병성 근위축을 Akt/mTOR/FoxO3 신호 경로를 통해 회복시키는 것으로 나타났다[^27]. 최근에는 지모-황백 약쌍이 당뇨병성 인지 장애를 CCL3-CCR5 축에 의존한 신경세포-CD8+ T 세포 상호작용 조절로 개선한다는 기전이 보고되었다[^28]. 또한 염포(鹽製)한 지모가 제2형 당뇨 모델에서 지모 단미 대비 상승적 항당뇨 효과를 나타내어, 전통 포제의 현대적 근거가 축적되고 있다[^29]. 백호가인삼탕(白虎加人蔘湯, byakko-ka-ninjin-to) 전방 추출물 역시 항고혈당 효과를 보인 바 있어, 지모를 포함한 청열자음 처방의 대사 질환 응용 근거가 된다[^5]. 지모-황백 약쌍은 한의학적 음허화(陰虛火) 변증의 핵심 약쌍으로, 자음강화(滋陰降火) 치법을 중심으로 중추성 성조숙증에 대한 메타분석과 망약리학 연구에서 유효성과 작용 기전이 확인된 바 있다[^30].
+### 1-3. 지모의 이중 성격 — 청열사화와 자음윤조
 
-### 항암 및 세포독성
+지모의 임상적 특이성은 **하나의 약재가 실열과 허열을 모두 겨냥한다** 는 데 있다. 대부분의 고한(苦寒) 사화약(황금·황련·황백 등)은 습(濕)을 말리고 진액을 상하게 하므로 음허(陰虛)에는 신중해야 하지만, 지모는 감(甘)한 맛과 점질(黏質)을 겸하여 사화(瀉火)하면서도 진액을 덜 상하게 한다(교과서적 근거). 임상적 함의는 다음 네 가지다.
 
-지모 근경에서 분리된 7종의 스테로이드 사포닌과 2종의 잔톤 및 유도체는 다양한 암세포주에서 세포독성을 나타내어 항암 선도물질로서의 가능성이 보고되었다[^31]. 최근 timosaponin A-III는 위암 세포의 프로그램성 세포사를 p300/acetyl-p53 및 Akt/MEK/ERK 경로 활성화로 촉진하여 위암 성장을 억제한다는 기전이 규명되었다[^32]. 망약리학 분석을 통해 지모(Zhimu)가 난소암 치료에 작용할 수 있는 잠재적 표적 경로가 제시된 바 있다[^33].
+1. **기분(氣分) 실열 단계에서** — 석고(石膏)와 짝을 이루어 폐위(肺胃)의 대열(大熱)을 끄되, 석고의 신한(辛寒) 발산으로 진액이 상하는 것을 지모의 감윤(甘潤)이 완충한다. 백호탕 계열의 배오 논리다.
+2. **음허화왕(陰虛火旺) 단계에서** — 황백(黃柏)과 짝을 이루어 신(腎)의 상화(相火)를 끄고, 숙지황(熟地黃) 계열의 자음약과 함께 쓰여 자음강화(滋陰降火)를 이룬다. 지백지황환 계열의 배오 논리다.
+3. **허번불면(虛煩不眠)에서** — 산조인(酸棗仁)·천궁(川芎)과 함께 간혈허(肝血虛)에 겸한 허열을 식혀 잠을 안정시킨다. 산조인탕의 배오 논리다.
+4. **금기의 방향** — 지모의 이중 성격은 어디까지나 **열(熱)이 있을 때** 성립한다. 열이 없는 비위허한(脾胃虛寒)에서는 고한·자니(滋膩)의 두 성질이 모두 부담으로 작용한다(5-4 참조).
 
-### 항바이러스
+### 1-4. 교차 참조
 
-지모 다당체(Anemarrhena asphodeloides Polysaccharide)는 돼지 유행성 설사 바이러스(PEDV)에 대해 항바이러스 활성을 나타내어, 지모 다당류 계열 성분의 항바이러스 응용 가능성을 시사한다[^34].
+지모를 이해하려면 함께 읽어야 할 표제어가 있다. 다만 이 문서는 다른 문서에 서술을 위임하지 않고 지모의 범위 안에서 필요한 내용을 자체적으로 서술한다. 관련 표제어는 다음과 같다 — 석고(石膏), 황백(黃柏), 산조인(酸棗仁), 백합(百合), 숙지황(熟地黃), 백호탕(白虎湯), 백호가인삼탕(白虎加人蔘湯), 지백지황환(知柏地黃丸), 산조인탕(酸棗仁湯), 이선탕(二仙湯), 계지작약지모탕(桂枝芍藥知母湯), 음허화왕(陰虛火旺), 소갈(消渴).
 
-### 기타 약리 작용
+---
 
-지모 수용성 추출물은 흰쥐 중대뇌동맥 폐쇄 모델에서 국소 빈혈성 뇌 손상을 유의하게 감소시켜 뇌혈관 질환에서의 신경 보호 응용 가능성을 보였다[^35]. 현삼(玄參, Fritillaria cirrhosa)·지모 및 이를 포함한 이모탕(Lee-Mo-Tang)은 난백알부민 유발 천식 흰쥐 모델에서 호산구 축적과 Th2 매개 기관지 과반응성을 억제하여 천식 등 알레르기 질환에의 응용 근거를 제공하였다[^36]. 지모·황기(黃芪) 병용은 쥐의 심비대 및 심기능 반응에 유의한 영향을 미쳤으며[^37], 신성고혈압 모델에서 심기능 부전을 개선하는 것으로 보고되어 순환기 질환 보조 응용 가능성을 시사한다[^38]. 또한, 전통 중국약 치료 고혈압 원칙에서 황백(黃柏)·지모가 음허화(陰虛火)형 고혈압 관리의 핵심 약재로 정리된 바 있어, 고혈압 변증 응용의 고전적 근거가 있다[^39]. 방사선 피부 손상 보호 효과를 검토한 일본의 생약 화학 연구에서도 지모가 보호 물질 후보로 포함되었다[^40]. 또한, 에이즈 환자의 구강 칸다다증에 대한 한약 추출물 스크리닝에서 지모가 항진균 후보 약재로 검토된 바 있다[^41]. 말기 암 악액질(cancer cachexia)에 대한 한약 체계적 고찰에서 지모 함유 처방이 고려 대상으로 포함되어, 암 보존 치료 응용의 근거가 확보되고 있다[^42].
+## 제2편 근거의 3층 구조 — 무엇이 지모의 근거인가
 
-## 포제(炮製)와 가공
+### 2-1. 층위별 근거 현황 요약
 
-지모의 전통 포제로는 생지모(生知母)·염지모(鹽知母)·초지모(炒知母)·주초지모(酒炒知母)·교지모(焦知母) 등이 있으며, 염제는 신(腎) 경에 향한 자음강화(滋陰降火) 작용을 강화하고, 생강가공(薑製)은 항염 효능을 증강한다고 알려져 있다(교과서적 근거). 최근 근거에 따르면, 생강으로 가공한 지모(ginger-processed Anemarrhenae Rhizoma)는 일반 지모 대비 NF-κB/COX-2 경로 억제로 항염 효능이 유의하게 상승하며, 이는 전통 포제 이론의 현대적 검증에 해당한다[^20]. 염제 지모는 제2형 당뇨 모델에서 지모 단미 대비 상승적 항당뇨 효과를 나타내어, 신경(腎經) 향향 자음강화(滋陰降火) 치법과의 연관성이 약리학적으로 뒷받침된다[^29]. 지모와 그 가공품의 품질 표준(유효 성분 함량·지문 분석) 개선 연구가 진행되어, 시장 유통 품질 관리에 참고할 수 있다[^13].
+| 층위 | 대상 | 확보된 인체 근거 | 근거 수준 | 임상적 해석 |
+|---|---|---|---|---|
+| 제1층 | 지모 단미 | 증례 1건[^15], 지모 배오 방제의 인간 데이터 1건[^16] | 낮음 (증례 수준) | 지모 단독 효능을 주장할 만한 인체 근거는 사실상 없다 |
+| 제2층 | 지모 유래 성분 | 사사사포게닌 무작위 이중맹검 위약대조 시험 80명[^14], mangiferin 인체 약동학 21명[^13] | 중간 (소규모 RCT 1건) | 성분 제제의 효과이지 지모 탕약의 효과가 아니다 |
+| 제3층 | 지모 배오 방제 | 산조인탕·지백지황환·이선탕·계지작약지모탕·백호탕 계열의 다수 메타분석·RCT·대규모 관찰연구 | 높음 (메타분석 다수) | 방제 전체의 효과이며 지모의 개별 기여는 분리되지 않았다 |
 
-## 약쌍(藥對)과 배합
+이 표는 근거의 위치를 보여주는 임상 틀이지 동일한 근거 수준의 권고가 아니다. 층위가 다른 자료를 하나의 결론으로 합산해서는 안 된다.
 
-지모는 임상에서 다양한 약쌍으로 배합되며, 대표적인 것이 지모-황백(知母-黃柏) 약쌍이다. 이 약쌍은 음허화(陰虛火)를 자음강화(滋陰降火)하는 핵심 배합으로, 지백지황환(知柏地黃丸)·이선탕(二仙湯) 등에 반영되어 있다. HPLC-ELSD에 의한 지모-황백 약쌍의 지문 분석법과 알칼로이드·잔톤 배당체·스테로이드 사포닌의 동시 정량법이 확립되어[^12], 약쌍 품질 관리 근거가 제공되었다. 황백-지모 추출물을 경구 투여한 흰쥐의 혈청에서 주요 알칼로이드와 스테로이드 사포닌이 HPLC-DAD-MS/MS로 동정되어 체내 거동 근거도 축적되었다[^43]. 지모-황백 약쌍은 당뇨병성 근위축 회복[^27], 당뇨병성 인지 장애 개선[^28], 중추성 성조숙증 치료[^30] 등 다양한 대사·내분비 질환 근거를 축적하고 있다.
+### 2-2. 제1층 — 지모 단미 직접 인체 근거
 
-지모-백합(知母-百合) 약쌍은 백합지모탕(百合知母湯) 등에 쓰이며, timosaponin B-II/A-III의 약동학이 지모 단미·백합 단미·약쌍 사이에 차이를 보여 배합에 의한 체내 거동 변화 근거가 보고되었다[^44]. 또한 백합지모탕의 HPLC 지문 분석과 단미약과의 연관성이 분석되어 품질 관리 근거가 마련되었다[^45]. 초과지모탕(草果知母湯, Caoguo Zhimu Decoction)은 전통 한약 항전간 효과의 고전적 처방으로, 흰쥐 전간(點火) 모델에서 NMDA 수용체 유전자 발현 조절[^46], cAMP 반응 요소 결합 단백질(CREB) 인산화 개선[^47], 전간 관련 유전자 차등 발현[^48], 항전간 수용체 기전[^49] 등 다수의 기전 근거가 축적되어 있다. 이는 지모-초과(草果) 약쌍이 간질·전간성 질환 보조 치료에 임상 참고 가치가 있음을 시사한다.
+지모를 단미로 사람에게 투여한 대조 임상시험은 확인되지 않는다. 가장 근접한 자료는 **메티마졸 불응 그레이브스병 환자 1명** 에 대해 지모를 군약(君藥)으로 한 탕약을 중기간 투여한 증례 보고이다[^15]. 갑상선기능항진증의 조열(潮熱)·다한(多汗)·번갈(煩渴)·심계(心悸)는 전형적인 음허화왕 증후군에 대응하며, 이 증례는 지모 위주 처방이 표준 항갑상선제를 쓸 수 없는 상황에서 대안이 될 수 있음을 시사한다. 다만 단일 증례이므로 효능의 증명이 아니라 **가설 생성** 으로만 취급해야 한다.
 
-## 주요 함유 처방
+여기에 준하는 자료로, 항갑상선제 부작용으로 치료가 어려웠던 그레이브스병 환자군에 지모·석고가 배오된 안전백호탕(安全白虎湯)을 투여한 뒤 혈청 T3와 유리 T4가 감소하고 TSH가 상승했다는 임상 자료가 있다[^16]. 이 연구는 세포 실험을 병행한 혼합 연구이므로 **인간 데이터 부분만** 인용한다. 여기서도 지모의 기여는 처방 전체에서 분리되지 않았다.
 
-지모를 포함하는 대표적 처방과 그 응용 근거는 다음과 같다.
+한약 전반의 갑상선기능항진증 근거를 보면, 코크란 체계적 고찰은 1,770명 규모의 자료를 종합했으나 포함된 시험의 질이 낮아 확정적 결론을 내리지 못했다[^83]. 이후 그레이브스 갑상선기능항진증에 대한 다기관 무작위 이중맹검 위약대조 시험(186명)이 수행되어 한약 복합처방의 유효성 근거가 보강되었고[^84], 증례 수준의 관리 보고[^85]와 대만 건강보험 자료 기반의 대규모 이용 실태 분석(17,707명)도 축적되어 있다[^86]. 이들은 지모가 포함될 수 있는 처방군의 근거이지 지모 단미의 근거가 아니다.
 
-- **백호탕(白虎湯)·백호가인삼탕(白虎加人蔘湯, byakko-ka-ninjin-to)**: 석고(石膏)·지모·감초(甘草)·인삼(人蔘)·경미(粳米) 등으로 구성되며, 폐위열(肺胃熱)·기진상진(氣津傷損)을 치료한다. 백호가인삼탕 전방 추출물은 alloxan·당뇨 KK-CA(y) 흰쥐에서 항고혈당 효과를 나타냈다[^5]. 백호계지탕(白虎桂枝湯, Byakkokakeishito)에서는 석고와 지모의 상호작용이 항알레르기 효과 발현에 중요한 역할을 한다는 근거가 확인되어, 지모-석고 약쌍의 전통적 배합 의의가 뒷받침된다[^50].
-- **계지작약지모탕(桂枝芍藥知母湯, Guizhi-Shaoyao-Zhimu Decoction)**: 계지·작약·지모·마황·방풍·백출·부자·감초·생강 등으로 구성되며, 풍습(風濕)·비증(痹證) 치료의 핵심 처방이다. 류마티스관절염 치료에 대한 체계적 고찰이 보고되었고[^51], 통풍성 관절염 치료에서 메타분석·망약리학·분자도킹을 결합한 효능 평가(n=1633)가 이루어졌다[^52]. 또한 IL-17R-MAPK 경로 조절을 통한 류마티스관절염 완화 기전이 규명되어[^53], 지모 함유 처방의 면역·염증 질환 응용 근거가 풍부하다.
-- **지백지황환(知柏地黃丸, Zhibai Dihuang Wan)**: 육미지황환(六味地黃丸)에 지모·황백을 가한 자음강화(滋陰降火) 처방이다. 신세뇨관 세포의 젠타마이신 유발 세포사에 대한 보호 효과가 보고되어, 신장 질환 보조 응용 가능성을 시사한다[^54].
-- **이선탕(二仙湯, Er-xian Decoction)**: 파극천(仙茅)·음양곽(淫羊藿)·당귀(當歸)·황백·지모 등으로 구성되며, 갱년기 증후군·음허양원(陰虛陽亢) 등에 쓰인다. 이선탕의 화학 성분·품질 관리·약동학·약리·임상 응용에 대한 종합적 고찰이 보고되어, 지모 함유 복합 처방의 근거가 정리되어 있다[^55].
-- **백합지모탕(百合知母湯)**: 백합지모탕은 백합병(百合病)의 고전 처방으로, 지모-백합 약쌍의 약동학·지문 분석 근거가 확립되었다[^44][^45].
-- **온양화음양심방(溫陽化飲養心方)**: 황기·복령·백출·천궁·담부편·계지·택사·지모로 구성된 현대 복합 처방으로, 만성심부전 합병 이뇨제 저항 환자 68명을 대상으로 한 임상시험에서 한의학 변증 개선 효과가 확인되어 지모의 순환기 질환 보조 응용 근거를 보탠다[^56].
-- **지모석고탕(知母石膏湯, Anemarrhena-Gypsum Decoction)**: 한열혼잡형(寒熱混雜型) 알레르기비염 모델 평가에 활용된 바 있어, 지모-석고 약쌍의 비염 응용 가능성을 시사한다[^57].
+### 2-3. 제2층 — 성분 근거
 
-## 임상 응용
+지모의 주요 성분은 스테로이드 사포닌 계열(timosaponin B-II, timosaponin A-III, anemarsaponin 등)과 그 비당체(sarsasapogenin, smilagenin), 잔톤 배당체 계열(mangiferin, neomangiferin, isomangiferin)이다. 성분 화학 연구를 통해 스테로이드 사포닌과 신규 스테로이드 배당체가 지속적으로 분리·동정되었고[^9][^10][^11], 분석법 측면에서는 HPLC-ELSD·GC를 이용한 지표성분 정량법[^7][^8]과 지모-황백 약쌍의 알칼로이드·잔톤 배당체·스테로이드 사포닌 동시 정량·지문 분석법[^6]이 확립되어 있다. 이들은 모두 **약재 분석 근거이지 임상 효능 근거가 아니다.**
 
-지모의 임상 응용은 한의학적 변증(辨證)과 현대 약리 근거를 결합해 정리할 수 있다.
+성분 층위에서 사람을 대상으로 한 근거는 두 갈래다.
 
-- **폐위열(肺胃熱) 증후**: 발열·번갈(煩渴)·해수(咳嗽)·조담(燥痰) 등을 보이는 기실(氣實) 단계의 열증(熱證)에 백호탕·백호가인삼탕·사백산 등에 배합하여 쓴다(교과서적 근거). 백호가인삼탕의 항고혈당 근거[^5]와 백호계지탕에서 석고-지모 상호작용의 항알레르기 근거[^50]가 이 응용을 뒷받침한다.
-- **신음허(腎陰虛)·음허화(陰虛火) 증후**: 조열(潮熱)·도한(盜汗)·요슬산연(腰膝痠軟)·소갈(消渴) 등에 지백지황환·이선탕·지모-황백 약쌍 등을 응용한다(교과서적 근거). 지백지황환의 신세뇨관 보호 근거[^54], 지모-황백 약쌍의 당뇨병성 근위축 회복·당뇨병성 인지 장애 개선 근거[^27][^28], 중추성 성조숙증 자음강화 치료 메타분석 근거[^30], 이선탕 종합 고찰 근거[^55] 등이 이 영역의 임상 응용을 뒷받침한다.
-- **풍습비증(風濕痹證)·관절염**: 관절 종통·굴신불리·마비 등에 계지작약지모탕·오두탕 등을 활용한다(교과서적 근거). 계지작약지모탕의 류마티스관절염 체계적 고찰[^51], 통풍성 관절염 메타분석(n=1633)[^52], IL-17R-MAPK 경로 완화 기전[^53] 등이 관절염 변증 응용의 풍부한 근거를 제공한다.
-- **신경정신과 질환**: 조현병 음성증상·알츠하이머병·전간성 질환 등에 지모 계열 성분·처방을 보조 응용할 수 있는 근거가 있다. 사사사포게닌 추가 투여의 조현병 음성증상 개선 이중맹검 시험[^25], sarsasapogenin의 알츠하이머병 이중 억제 기전[^24], timosaponin B-II의 신경 보호·BACE1 억제[^22][^23], 초과지모탕의 항전간 기전군[^46][^47][^48][^49]이 참고된다.
-- **대사 질환·당뇨병**: 소갈(消渴)·당뇨병·대사 증후군 등에 백호가인삼탕·지모-황백 약쌍·지백지황환 등을 응용한다. 당뇨망막병증 억제[^26], 당뇨병성 근위축 회복[^27], 당뇨병성 인지 장애 개선[^28], 염제 지모 상승 항당뇨[^29], 중추성 성조숙증 자음강화 메타분석[^30] 등이 근거가 된다.
-- **순환기 질환**: 고혈압(음허화형)·심부전 등에 지모·황백 약쌍·이선탕·온양화음양심방 등을 보조 응용할 수 있다. 전통 중국약 고혈압 치료 원칙에서 지모-황백의 음허화형 고혈압 응용 근거[^39], 지모-황기 병용의 심비대·심기능 개선 근거[^37][^38], 만성심부전 이뇨제 저항 환자에서 온양화음양심방 임상시험 근거[^56]가 참고된다.
-- **암 보존 치료**: 말기 암 악액질·위암·난소암 등에서 지모 함유 처방과 timosaponin A-III 등 성분이 잠재적 보조 응용 대상으로 검토되고 있다. 악액질 한약 체계적 고찰[^42], 위암 세포사 촉진 기전[^32], 난소암 망약리학 표적 예측[^33], 암세포주 세포독성 스크리닝[^31]이 근거로 활용된다.
-- **감염·알레르기**: 알레르기비염·천식·구강 칸다다증·바이러스 감염 등에 지모석고탕·이모탕·WIN-34B 등의 응용 근거가 있다. 이모탕의 천식 억제[^36], 백호계지탕 석고-지모 상호작용의 항알레르기[^50], WIN-34B의 항염·연골 보호[^17][^18], 지모 다당체의 항바이러스[^34], 한열혼잡형 알레르기비염 모델의 지모석고탕[^57], 에이즈 환자 구강 칸다다증 한약 스크리닝[^41] 등이 근거가 된다.
-- **근골격계 질환**: 골관절염·류마티스관절염·통풍성 관절염 등에서 WIN-34B·계지작약지모탕의 응용 근거가 축적되어 있다[^17][^18][^19][^51][^52][^53].
+**① 사사사포게닌(sarsasapogenin)의 조현병 음성증상 시험.** 지모에서 유래한 사사사포게닌을 리스페리돈에 추가 투여한 이중맹검 위약대조 시험(80명)에서 음성증상 우세 조현병 환자의 음성증상이 개선되었다[^14]. 이는 지모 성분 단위로는 가장 높은 수준의 인체 근거이며, 지모의 청열제번(淸熱除煩) 작용이 정신신경 영역으로 확장될 가능성을 시사한다. 다만 **정제된 단일 화합물 제제의 결과이므로 지모 탕약의 효과와 동일시할 수 없다.** 탕제에서 사사사포게닌은 배당체(timosaponin) 형태로 존재하다가 장내에서 비당체로 전환되므로, 노출 프로파일 자체가 다르다.
 
-## 용량 및 사용 주의
+**② mangiferin의 인체 약동학.** 사람에게 경구 투여한 뒤 혈장에서 mangiferin이 검출·정량되었다(21명)[^13]. 이는 지모의 잔톤 배당체가 **사람 몸 안에 실제로 도달한다** 는 것을 확인해 주는 자료로, 성분 층위 논의가 이론적 추정에 그치지 않게 해 준다. 다만 흡수 확인은 효능 확인이 아니다.
 
-지모의 통상 임상 용량은 6~12g(탕제 기준)이며, 증·변증에 따라 가감한다(교과서적 근거). 지모는 성한(性寒)·자음(滋陰) 약재이므로 비위한(脾胃寒)·습담(濕痰)·대변당한(大便溏泄) 등 양허(陽虛)·습실(濕實) 변증에서는 신중히 사용하거나 건강(乾薑)·백출(白朮) 등 온중(溫中)·조습(燥濕) 약재와 배합해야 한다(교과서적 근거). 염지모(鹽知母)는 신경(腎經) 향향 작용을 강화해 음허화(陰虛火)형 변증에 적합하며[^29], 생강가공 지모는 항염 효능을 증강하므로 염증성 질환에서 참고할 수 있다[^20]. 지모 함유 처방 중 계지작약지모탕 등은 임상에서 맛·향이 강해 복약 순응도가 문제될 수 있어, 최근 맛차폐(flavor-masking) 기법 연구가 진행된 바 있다[^58]. 지모 자체의 임상 안전성 데이터는 제한적이나, WIN-34B 제제에서 위장관·간 안전성이 확인된 바 있어 참고할 수 있다[^19].
+### 2-4. 인체 근거가 확인되지 않는 영역 (명시)
 
-## Q&A
+아래 항목은 지모와 관련해 흔히 언급되지만, **사람을 대상으로 한 근거가 확인되지 않는** 영역이다. 이 문서는 이 빈칸을 동물·세포 자료로 메우지 않는다.
 
-**Q1. 음허화(陰虛火)형 고혈압 환자에 지모 단미 또는 약쌍을 쓸 때 근거는 있는가?**
-네. 전통 중국약 고혈압 치료 원칙에서 황백(黃柏)·지모(知母)가 음허화형 고혈압 관리의 핵심 약재로 정리되어 있으며[^39], 지모-황백 약쌍은 중추성 성조숙증 자음강화 치법 메타분석에서 유효성과 기전이 확인되어 자음강화(滋陰降火) 변증의 근거가 확립되어 있다[^30]. 또한 지모-황기 병용은 신성고혈압 모델에서 심기능 부전을 개선하므로[^38], 순환기 동반 증상을 고려한 복합 배합 응용이 가능하다.
+| 흔히 언급되는 주장 | 인체 근거 상태 |
+|---|---|
+| 지모 단미의 항염·연골 보호 작용 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 지모 단미 또는 timosaponin B-II의 신경 보호·알츠하이머병 개선 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 지모 단미의 항당뇨·당뇨망막병증 억제 작용 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| timosaponin A-III 등의 항암 작용 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 지모 다당체의 항바이러스 작용 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 지모의 뇌허혈 보호·항천식 작용 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| **백호탕에서 석고와 지모의 기여를 분리한 효과** | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 (2-5 참조) |
+| 포제(생지모·염지모·강제지모)에 따른 임상 효과 차이 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 (5-2 참조) |
+| 지모-황백 약쌍 자체(다른 약 없이)의 임상 효과 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
 
-**Q2. 당뇨병 환자에 지모를 보조 응용할 때 어떤 처방·근거를 참고할 수 있는가?**
-백호가인삼탕(白虎加人蔘湯) 전방 추출물은 당뇨 동물 모델에서 항고혈당 효과를 보였고[^5], 지모 60% 에탄올 추출물은 당뇨망막병증 진행을 억제하였다[^26]. 특히 지모-황백 약쌍은 당뇨병성 근위축 회복[^27]과 당뇨병성 인지 장애 개선[^28] 근거가 있어, 음허화(陰虛火) 변증 동반 당뇨 환자에서 지백지황환·지모-황백 약쌍 응용이 임상 참고 가치가 있다. 염제(鹽製) 지모는 항당뇨 효능을 상승시킨다는 근거도 있다[^29].
+이 표는 근거의 공백을 정직하게 표시한 것이지, 해당 작용이 없다는 뜻이 아니다. 다만 현재 시점에서 임상가가 환자에게 설명할 때 **인체 근거에 기반한 진술로 제시해서는 안 되는** 항목들이다.
 
-**Q3. 류마티스관절염·통풍성 관절염에 계지작약지모탕을 쓸 임상 근거가 충분한가?**
-네. 계지작약지모탕(桂枝芍藥知母湯)은 류마티스관절염 치료에 대한 체계적 고찰이 보고되었고[^51], 통풍성 관절염 치료에서는 1633명을 대상으로 한 메타분석·망약리학·분자도킹 결합 평가에서 유의한 효능이 확인되었다[^52]. 또한 IL-17R-MAPK 경로 조절을 통한 류마티스관절염 완화 기전도 규명되어[^53], 풍습비증(風濕痹證) 변증의 핵심 처방으로 근거가 풍부하다.
+### 2-5. 석고와 지모의 기여 분리 — 확인되지 않음
 
-**Q4. 조현병·알츠하이머병 등 신경정신과 질환에 지모 계열 성분의 임상 근거가 있는가?**
-조현병 음성증상에 지모 추출 사사사포게닌을 리스페리돈에 추가 투여한 이중맹검 위약대조 시험(n=80)에서 음성증상 개선 효과가 확인되었다[^25]. 알츠하이머병 모델에서는 sarsasapogenin이 RIPK1 매개 괴사세포사·세포자멸사를 이중 억제하여 병태를 개선한다[^24] 하였고, timosaponin B-II는 망막신경절세포 보호와 BACE1 억제 효과를 보였다[^22][^23]. 다만 단미 본초 단위의 대규모 인체 임상시험은 아직 제한적이므로, 함유 처방과 성분 제제 단위의 보조 응용으로 접근하는 것이 합리적이다.
+백호탕에서 석고와 지모는 상수(相須) 관계로 배오되며, 전통적으로 석고는 청열(淸熱)을, 지모는 자음(滋陰)과 사화(瀉火)를 담당한다고 설명된다(교과서적 근거). 임상가가 자주 묻는 질문은 "그렇다면 백호탕의 효과 중 지모의 몫은 얼마인가"이다.
 
-**Q5. 지모의 포제(炮製) 선택은 임상에서 어떻게 판단하는가?**
-전통적으로 생지모는 폐위열(肺胃熱)·기실(氣實) 단계 청열(淸熱)에, 염지모(鹽知母)는 신음허(腎陰虛)·음허화(陰虛火) 자음강화(滋陰降火)에 적합하다(교과서적 근거). 근거 측면에서 염제 지모는 제2형 당뇨 모델에서 항당뇨 상승 효과를 보였고[^29], 생강가공 지모는 항염 효능을 유의하게 증강하였다[^20]. 따라서 변증과 치법 목표에 따라 포제를 선택하는 것이 근거 기반 접근이며, 염증성 질환 중점 시 생강가공, 대사·내분비 질환 중점 시 염제를 우선 검토할 수 있다.
+**결론부터 말하면, 사람을 대상으로 석고와 지모의 기여를 분리 평가한 근거는 확인되지 않는다.** 지모를 뺀 백호탕과 온전한 백호탕을 사람에게 비교 투여한 해체(dismantling) 설계의 임상시험은 검색되지 않았다. 따라서 백호탕 계열의 인체 근거는 **처방 전체의 효과** 로만 해석해야 하며, 이를 지모 단독의 효과로 환원할 수 없다.
 
-[^1]: The genus Anemarrhena Bunge: A review on ethnopharmacology, phytochemistry and pharmacology. 문헌고찰. *Journal of Ethnopharmacology*. [10.1016/j.jep.2014.02.013](https://doi.org/10.1016/j.jep.2014.02.013) | [PMID 24556224](https://pubmed.ncbi.nlm.nih.gov/24556224/)
-[^2]: [Comparison research on quality of cultivated and wild Anemarrhena Rhizome from Yi County]. 실험연구. *China Journal of Chinese Materia Medica*. [PMID 22121793](https://pubmed.ncbi.nlm.nih.gov/22121793/)
-[^3]: Molecular identification of oriental medicinal plant Anemarrhena asphodeloides Bunge ('Jimo') by multiplex PCR. 실험연구. *Molecular Biology Reports*. [10.1007/s11033-009-9747-4](https://doi.org/10.1007/s11033-009-9747-4) | [PMID 19688267](https://pubmed.ncbi.nlm.nih.gov/19688267/)
-[^4]: [A rapid method for the identification of untreated Chinese herbs by FT-Raman spectrometry]. 실험연구. *Spectroscopy and Spectral Analysis*. [PMID 12938320](https://pubmed.ncbi.nlm.nih.gov/12938320/)
-[^5]: The antihyperglycaemic blend effect of traditional Chinese medicine byakko-ka-ninjin-to on alloxan and diabetic KK-CA(y) mice. 실험연구. *Phytotherapy Research*. [10.1002/(SICI)1099-1573(199909)13:6<484::AID-PTR485>3.0.CO;2-X](https://doi.org/10.1002/(SICI)1099-1573(199909)13:6<484::AID-PTR485>3.0.CO;2-X) | [PMID 10479758](https://pubmed.ncbi.nlm.nih.gov/10479758/)
-[^6]: The genus Anemarrhena Bunge: A review on ethnopharmacology, phytochemistry and pharmacology. 문헌고찰. *Journal of Ethnopharmacology*. [10.1016/j.jep.2014.02.013](https://doi.org/10.1016/j.jep.2014.02.013) | [PMID 24556224](https://pubmed.ncbi.nlm.nih.gov/24556224/)
-[^7]: New steroidal glycosides from the rhizome of Anemarrhena asphodeloides. 실험연구. *Journal of Asian Natural Products Research*. [10.1080/10286020.2014.942658](https://doi.org/10.1080/10286020.2014.942658) | [PMID 25223616](https://pubmed.ncbi.nlm.nih.gov/25223616/)
-[^8]: Steroidal saponins from Anemarrhena asphodeloides. 실험연구. *Journal of Asian Natural Products Research*. [10.1080/10286020.2013.802689](https://doi.org/10.1080/10286020.2013.802689) | [PMID 23796262](https://pubmed.ncbi.nlm.nih.gov/23796262/)
-[^9]: [Saponins of anemarrhenae rhizoma]. 실험연구. *Yakugaku Zasshi*. [10.1248/yakushi1947.111.6_306](https://doi.org/10.1248/yakushi1947.111.6_306) | [PMID 1941535](https://pubmed.ncbi.nlm.nih.gov/1941535/)
-[^10]: New steroidal glycosides from the rhizome of Anemarrhena asphodeloides. 실험연구. *Journal of Asian Natural Products Research*. [10.1080/10286020.2014.942658](https://doi.org/10.1080/10286020.2014.942658) | [PMID 25223616](https://pubmed.ncbi.nlm.nih.gov/25223616/)
-[^11]: Cytotoxic activities of chemical constituents from rhizomes of Anemarrhena asphodeloides and their analogues. 실험연구. *Archives of Pharmacal Research*. [10.1007/s12272-014-0431-4](https://doi.org/10.1007/s12272-014-0431-4) | [PMID 25005066](https://pubmed.ncbi.nlm.nih.gov/25005066/)
-[^12]: Fingerprint analysis of Zhimu-Huangbai herb pair and simultaneous determination of its alkaloids, xanthone glycosides and steroidal saponins by HPLC-DAD-ELSD. 실험연구. *Chinese Journal of Natural Medicines*. [10.1016/S1875-5364(14)60082-0](https://doi.org/10.1016/S1875-5364(14)60082-0) | [PMID 25053552](https://pubmed.ncbi.nlm.nih.gov/25053552/)
-[^13]: [Improvement researches on quality standard of Anemarrhenae Rhizoma and its raw processed products]. 실험연구. *China Journal of Chinese Materia Medica*. [10.19540/j.cnki.cjcmm.20200629.202](https://doi.org/10.19540/j.cnki.cjcmm.20200629.202) | [PMID 33496110](https://pubmed.ncbi.nlm.nih.gov/33496110/)
-[^14]: [Simultaneous determination of two saponnins in anemarrhenae rhizoma by HPLC-ELSD]. 실험연구. *China Journal of Chinese Materia Medica*. [PMID 21598545](https://pubmed.ncbi.nlm.nih.gov/21598545/)
-[^15]: [Determination of sarsasapogenin in Anemarrhena asphodeloides Bunge by GC]. 실험연구. *China Journal of Chinese Materia Medica*. [PMID 12205902](https://pubmed.ncbi.nlm.nih.gov/12205902/)
-[^16]: Plasma pharmacochemistry combined with microdialysis to screen potential bioactive components and their metabolites in Anemarrhena asphodeloides saponin extract. 실험연구. *Journal of Separation Science*. [10.1002/jssc.201201116](https://doi.org/10.1002/jssc.201201116) | [PMID 23463518](https://pubmed.ncbi.nlm.nih.gov/23463518/)
-[^17]: Standardized butanol fraction of WIN-34B suppresses cartilage destruction via inhibited production of matrix metalloproteinase and inflammatory mediator in osteoarthritis human cartilage explants culture and chondrocytes. 실험연구. *BMC Complementary and Alternative Medicine*. [10.1186/1472-6882-12-256](https://doi.org/10.1186/1472-6882-12-256) | [PMID 23241445](https://pubmed.ncbi.nlm.nih.gov/23241445/)
-[^18]: WIN-34B, a new herbal medicine, inhibits the inflammatory response by inactivating IκB-α phosphorylation and mitogen activated protein kinase pathways in fibroblast-like synoviocytes. 실험연구. *Journal of Ethnopharmacology*. [10.1016/j.jep.2012.06.041](https://doi.org/10.1016/j.jep.2012.06.041) | [PMID 22885131](https://pubmed.ncbi.nlm.nih.gov/22885131/)
-[^19]: Gastroprotective and safety effects of WIN-34B, a novel treatment for osteoarthritis. 실험연구. *Journal of Ethnopharmacology*. [10.1016/j.jep.2011.07.025](https://doi.org/10.1016/j.jep.2011.07.025) | [PMID 21782922](https://pubmed.ncbi.nlm.nih.gov/21782922/)
-[^20]: Investigating the material basis and molecular mechanisms underlying the enhanced anti-inflammatory efficacy of ginger-processed anemarrhenae rhizoma via the NF-κB/COX-2 pathway. 실험연구. *Journal of Pharmaceutical and Biomedical Analysis*. [10.1016/j.jpba.2026.117643](https://doi.org/10.1016/j.jpba.2026.117643) | [PMID 42424752](https://pubmed.ncbi.nlm.nih.gov/42424752/)
-[^21]: Anti-inflammatory Capacity of a Medicinal herb extract, Anemarrhena asphodeloides. 실험연구. *Heliyon*. [10.1016/j.heliyon.2024.e37935](https://doi.org/10.1016/j.heliyon.2024.e37935) | [PMID 39391467](https://pubmed.ncbi.nlm.nih.gov/39391467/)
-[^22]: The effect and underlying mechanism of Timosaponin B-II on RGC-5 necroptosis induced by hydrogen peroxide. 실험연구. *BMC Complementary and Alternative Medicine*. [10.1186/1472-6882-14-459](https://doi.org/10.1186/1472-6882-14-459) | [PMID 25439561](https://pubmed.ncbi.nlm.nih.gov/25439561/)
-[^23]: Timosaponin-BII inhibits the up-regulation of BACE1 induced by ferric chloride in rat retina. 실험연구. *BMC Complementary and Alternative Medicine*. [10.1186/1472-6882-12-189](https://doi.org/10.1186/1472-6882-12-189) | [PMID 23082924](https://pubmed.ncbi.nlm.nih.gov/23082924/)
-[^24]: Sarsasapogenin ameliorates Alzheimer's disease by dual inhibition of RIPK1-mediated necroptosis and pyroptosis. 실험연구. *Cellular Signalling*. [10.1016/j.cellsig.2026.112481](https://doi.org/10.1016/j.cellsig.2026.112481) | [PMID 41833767](https://pubmed.ncbi.nlm.nih.gov/41833767/)
-[^25]: A double-blind, placebo-controlled study of traditional Chinese medicine sarsasapogenin added to risperidone in patients with negative symptoms dominated schizophrenia. 임상시험(이중맹검 위약대조, n=80). *Neuroscience Bulletin*. [10.1007/s12264-011-1417-6](https://doi.org/10.1007/s12264-011-1417-6) | [PMID 21788997](https://pubmed.ncbi.nlm.nih.gov/21788997/)
-[^26]: Rhizome of Anemarrhena asphodeloides counteracts diabetic ophthalmopathy progression in streptozotocin-induced diabetic rats. 실험연구. *Phytotherapy Research*. [10.1002/ptr.4866](https://doi.org/10.1002/ptr.4866) | [PMID 23148017](https://pubmed.ncbi.nlm.nih.gov/23148017/)
-[^27]: Reversal of muscle atrophy by Zhimu-Huangbai herb-pair via Akt/mTOR/FoxO3 signal pathway in streptozotocin-induced diabetic mice. 실험연구. *PLoS ONE*. [10.1371/journal.pone.0100918](https://doi.org/10.1371/journal.pone.0100918) | [PMID 24968071](https://pubmed.ncbi.nlm.nih.gov/24968071/)
-[^28]: Zhimu-Huangbo herb pair ameliorates diabetic cognitive impairment by modulating the CCL3-CCR5 axis-dependent interaction between neurons and CD8(+) T cells. 실험연구. *Phytomedicine*. [10.1016/j.phymed.2026.158607](https://doi.org/10.1016/j.phymed.2026.158607) | [PMID 42520370](https://pubmed.ncbi.nlm.nih.gov/42520370/)
-[^29]: Synergistic mechanism of salt-processed Anemarrhenae Rhizoma on type 2 diabetes. 실험연구. *Phytomedicine*. [10.1016/j.phymed.2026.158562](https://doi.org/10.1016/j.phymed.2026.158562) | [PMID 42468371](https://pubmed.ncbi.nlm.nih.gov/42468371/)
-[^30]: Efficacy and mechanism of nourishing yin and purging fire therapy for central precocious puberty based on meta-analysis and network pharmacology. 메타분석·망약리학. *Medicine*. [10.1097/MD.0000000000036395](https://doi.org/10.1097/MD.0000000000036395) | [PMID 38050263](https://pubmed.ncbi.nlm.nih.gov/38050263/)
-[^31]: Cytotoxic activities of chemical constituents from rhizomes of Anemarrhena asphodeloides and their analogues. 실험연구. *Archives of Pharmacal Research*. [10.1007/s12272-014-0431-4](https://doi.org/10.1007/s12272-014-0431-4) | [PMID 25005066](https://pubmed.ncbi.nlm.nih.gov/25005066/)
-[^32]: Timosaponin AIII inhibits gastric cancer growth by the promotion of programmed cell death via the activation of p300/acetyl-p53 and Akt/MEK/ERK signaling. 실험연구. *Frontiers in Pharmacology*. [10.3389/fphar.2026.1821689](https://doi.org/10.3389/fphar.2026.1821689) | [PMID 42548694](https://pubmed.ncbi.nlm.nih.gov/42548694/)
-[^33]: Study on the mechanism of Zhimu in the treatment of ovarian cancer based on network pharmacology. 실험연구(망약리학). *European Journal of Gynecological Oncology*. [10.22514/ejgo.2023.059](https://doi.org/10.22514/ejgo.2023.059)
-[^34]: Anemarrhena asphodeloides Polysaccharide Exerts Antiviral Activity Against Porcine Epidemic Diarrhea Virus. 실험연구. *Tropical Biomedicine*. [10.1155/tbed/9703618](https://doi.org/10.1155/tbed/9703618) | [PMID 42028044](https://pubmed.ncbi.nlm.nih.gov/42028044/)
-[^35]: Effects of Anemarrhena asphodeloides on focal ischemic brain injury induced by middle cerebral artery occlusion in rats. 실험연구. *Biological & Pharmaceutical Bulletin*. [10.1248/bpb.30.38](https://doi.org/10.1248/bpb.30.38) | [PMID 17202656](https://pubmed.ncbi.nlm.nih.gov/17202656/)
-[^36]: Fritillaria cirrhosa, Anemarrhena asphodeloides, Lee-Mo-Tang and cyclosporine a inhibit ovalbumin-induced eosinophil accumulation and Th2-mediated bronchial hyperresponsiveness in a murine model of asthma. 실험연구. *Basic & Clinical Pharmacology & Toxicology*. [10.1111/j.1742-7843.2007.00043.x](https://doi.org/10.1111/j.1742-7843.2007.00043.x) | [PMID 17309526](https://pubmed.ncbi.nlm.nih.gov/17309526/)
-[^37]: [Effect of zhimu and huangqi on cardiac hypertrophy and response to stimulation in mice]. 실험연구. *China Journal of Chinese Materia Medica*. [PMID 15139154](https://pubmed.ncbi.nlm.nih.gov/15139154/)
-[^38]: [Study on the effect of zhimu combined huangqi on improving renal hypertension rat's cardiac dysfunction]. 실험연구. *China Journal of Chinese Materia Medica*. [PMID 12776594](https://pubmed.ncbi.nlm.nih.gov/12776594/)
-[^39]: The principle and technique of using Chinese drugs in the treatment of hypertension. 문헌고찰. *Journal of Traditional Chinese Medicine*. [PMID 11360546](https://pubmed.ncbi.nlm.nih.gov/11360546/)
-[^40]: [Studies on chemical protectors against radiation. XXXIII. Protective mechanisms of various compounds against skin injury induced by radiation]. 실험연구. *Yakugaku Zasshi*. [10.1248/yakushi1947.111.1_51](https://doi.org/10.1248/yakushi1947.111.1_51) | [PMID 1905349](https://pubmed.ncbi.nlm.nih.gov/1905349/)
-[^41]: Effect of traditional Chinese medicinal herbs on Candida spp. from patients with HIV/AIDS. 문헌고찰. *Advances in Dental Research*. [10.1177/0022034511399286](https://doi.org/10.1177/0022034511399286) | [PMID 21441482](https://pubmed.ncbi.nlm.nih.gov/21441482/)
-[^42]: A systematic review of herbal medicines for the treatment of cancer cachexia in mice. 체계적 고찰. *Journal of Zhejiang University Science B*. [10.1631/jzus.B1800171](https://doi.org/10.1631/jzus.B1800171) | [PMID 30614226](https://pubmed.ncbi.nlm.nih.gov/30614226/)
-[^43]: Identification of major alkaloids and steroidal saponins in rat serum by HPLC-diode array detection-MS/MS following oral administration of Huangbai-Zhimu herb-pair Extract. 실험연구. *Biomedical Chromatography*. [10.1002/bmc.1000](https://doi.org/10.1002/bmc.1000) | [PMID 18318017](https://pubmed.ncbi.nlm.nih.gov/18318017/)
-[^44]: Comparative pharmacokinetics of timosaponin B-II and timosaponin A-III after oral administration of Zhimu-Baihe herb-pair, Zhimu extract, free timosaponin B-II and free timosaponin A-III to rats. 실험연구. *Journal of Chromatography B*. [10.1016/j.jchromb.2013.03.003](https://doi.org/10.1016/j.jchromb.2013.03.003) | [PMID 23542670](https://pubmed.ncbi.nlm.nih.gov/23542670/)
-[^45]: [High performance liquid chromatographic fingerprints of Baihe Zhimu Tang and its correlation to single herb]. 실험연구. *Chinese Journal of Chromatography*. [PMID 20352931](https://pubmed.ncbi.nlm.nih.gov/20352931/)
-[^46]: [Effect of caoguo zhimu decoction on N-methyl-D-aspartate receptor gene expression of epileptic kindling model in rats]. 실험연구. *Chinese Journal of Integrated Traditional and Western Medicine*. [PMID 11783179](https://pubmed.ncbi.nlm.nih.gov/11783179/)
-[^47]: [Influence of repeated seizures and large dosage anti-epileptic drug on phosphorylated cAMP response element binding protein in rat's hippocampus and effect of Caoguo Zhimu Decoction]. 실험연구. *Chinese Journal of Integrated Traditional and Western Medicine*. [PMID 17969896](https://pubmed.ncbi.nlm.nih.gov/17969896/)
-[^48]: [Differential expression and influence of caoguo zhimu decoction on kindling epilepsy related genes]. 실험연구. *Chinese Journal of Integrated Traditional and Western Medicine*. [PMID 16248244](https://pubmed.ncbi.nlm.nih.gov/16248244/)
-[^49]: [Receptor mechanism of anti-convulsant effect of caoguo zhimu decoction]. 실험연구. *Chinese Journal of Integrated Traditional and Western Medicine*. [PMID 17569342](https://pubmed.ncbi.nlm.nih.gov/17569342/)
-[^50]: Interaction of gypsum and the rhizome of Anemarrhena asphodeloides plays an important role in anti-allergic effects of byakkokakeishito in mice. 실험연구. *Journal of Natural Medicines*. [10.1007/s11418-014-0827-y](https://doi.org/10.1007/s11418-014-0827-y) | [PMID 24554438](https://pubmed.ncbi.nlm.nih.gov/24554438/)
-[^51]: Efficacy and safety of Guizhi-Shaoyao-Zhimu decoction in the treatment of rheumatoid arthritis. 체계적 고찰. *Medicine*. [10.1097/MD.0000000000024416](https://doi.org/10.1097/MD.0000000000024416)
-[^52]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis based on meta-analysis, network pharmacology analysis, and molecular docking. 메타분석(n=1633)·망약리학·분자도킹. *Medicine*. [10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973) | [PMID 38013344](https://pubmed.ncbi.nlm.nih.gov/38013344/)
-[^53]: Guizhi-Shaoyao-Zhimu Decoction regulates the IL-17R-MAPK pathway to alleviate rheumatoid arthritis. 실험연구(n=60). *Journal of Ethnopharmacology*. [10.1016/j.jep.2026.122020](https://doi.org/10.1016/j.jep.2026.122020) | [PMID 42336114](https://pubmed.ncbi.nlm.nih.gov/42336114/)
-[^54]: Protective effects of Zhibai Dihuang Wan on renal tubular cells affected with gentamicin-induced apoptosis. 실험연구. *Journal of Ethnopharmacology*. [10.1016/j.jep.2013.11.031](https://doi.org/10.1016/j.jep.2013.11.031) | [PMID 24269250](https://pubmed.ncbi.nlm.nih.gov/24269250/)
-[^55]: Er-xian Decoction: A comprehensive review on chemical constituents, quality control, pharmacokinetics, pharmacological properties and clinical applications. 문헌고찰. *Phytomedicine*. [10.1016/j.phymed.2026.158298](https://doi.org/10.1016/j.phymed.2026.158298) | [PMID 42184498](https://pubmed.ncbi.nlm.nih.gov/42184498/)
-[^56]: [Effects and Efficacy of Wenyang Huayin Yangxin Prescription on the Traditional Chinese Medicine Syndromes of Patients With Chronic Heart Failure Combined With Diuretic Resistance]. 임상시험(n=68). *Journal of Sichuan University (Medical Science Edition)*. [10.12182/20250160109](https://doi.org/10.12182/20250160109) | [PMID 40109465](https://pubmed.ncbi.nlm.nih.gov/40109465/)
-[^57]: Establishment and evaluation of a rat model of allergic rhinitis with mixed cold-heat pattern. 실험연구. *International Immunopharmacology*. [10.1016/j.intimp.2026.116746](https://doi.org/10.1016/j.intimp.2026.116746) | [PMID 42085843](https://pubmed.ncbi.nlm.nih.gov/42085843/)
-[^58]: [Flavor-masking technologies for complex bitter-pungent systems in traditional Chinese medicine: a case study of Wuzhuyu Decoction]. 실험연구. *China Journal of Chinese Materia Medica*. [10.19540/j.cnki.cjcmm.20250410.301](https://doi.org/10.19540/j.cnki.cjcmm.20250410.301) | [PMID 41508229](https://pubmed.ncbi.nlm.nih.gov/41508229/)
+백호탕 계열의 인체 근거는 다음과 같다.
+
+- 백호가인삼탕과 혈당강하제를 병용한 합병증 미동반 제2형 당뇨병 환자에 대한 국내 체계적 고찰·메타분석에서 혈당 개선과 수용 가능한 안전성이 보고되었다[^98]. 이는 석고·지모·인삼·감초·갱미 전체의 효과이며 지모의 개별 기여는 분리되지 않았다.
+- 인삼을 가한 백호탕 계열을 양약에 병용한 제2형 당뇨병 메타분석에서도 혈당 지표 개선이 보고되었다[^19].
+- 백호가인삼탕의 제2형 당뇨병 근거를 평가하기 위한 체계적 고찰 계획서가 등록되어 있으나, 계획서 단계이므로 결과 근거로 쓸 수 없다[^18].
+- 백호탕·백호가인삼탕이 전신염증반응증후군에서 혈당을 낮추는 경로에 대한 고찰이 있으나, 사람과 동물 자료를 함께 검토한 문헌이므로 인체 부분만 참고한다[^20].
+- 중환자 영역에서 백호가인삼탕 방증(方證)의 적용 범위 — 대열(大熱)·대한(大汗)·대갈(大渴)·맥홍대(脈洪大) — 를 정리한 임상경험 고찰이 있다[^21].
+- 난치성 구강건조에 백호가인삼탕과 저용량 필로카르핀 병용을 평가하는 무작위 대조시험(120명)이 설계되어, 지모의 생진지갈(生津止渴) 응용을 사람에서 검증하려는 시도가 진행 중이다[^22].
+
+또한 지모가 배오된 방제가 겨냥하는 **음허내열(陰虛內熱)** 상태 자체가 생물학적 상관물을 갖는다는 인체 자료가 있다. 음허내열군의 혈장 대사체 프로파일이 건강 대조군과 구별되었고, 지백지황과립 투여 후 그 프로파일이 변화했다[^17]. 이는 변증 층화가 임의적 분류가 아님을 보여주는 인체 근거로서 임상적 가치가 크다.
+
+---
+
+## 제3편 배오(配伍) 원리와 대표 방제
+
+### 3-1. 지모의 4대 배오축
+
+| 배오 | 짝 약재 | 치법 | 대표 방제 | 인체 근거 층위 |
+|---|---|---|---|---|
+| 지모–석고 | 석고(石膏) | 청열사화·생진지갈 | 백호탕, 백호가인삼탕 | 제3층 (방제 전체) |
+| 지모–황백 | 황백(黃柏) | 자음강화 | 지백지황환, 이선탕 | 제3층 (방제 전체) |
+| 지모–산조인 | 산조인(酸棗仁) | 양혈안신·청열제번 | 산조인탕 | 제3층 (방제 전체) |
+| 지모–백합 | 백합(百合) | 윤폐청심 | 백합지모탕 | 인체 근거 확인되지 않음 |
+
+이 표는 배오 원리를 정리한 임상 틀이지 동일한 근거 수준의 권고가 아니다. 각 배오축의 인체 근거는 모두 방제 전체 수준이며, 약쌍 자체를 단독 투여한 인체 시험은 확인되지 않는다.
+
+### 3-2. 지모–석고 (백호탕 계열)
+
+『상한론(傷寒論)』의 백호탕은 석고·지모·감초(甘草)·갱미(粳米) 네 약으로 구성되고, 여기에 인삼(人蔘)을 더한 것이 백호가인삼탕이다. 석고가 신한(辛寒)하게 기분(氣分)의 대열을 투산(透散)하면 진액 손상이 뒤따르기 쉬운데, 지모의 고한감윤(苦寒甘潤)이 이를 보완하고 갱미·감초가 위기(胃氣)를 지킨다(교과서적 근거). 인체 근거는 2-5에 정리했으며, 석고와 지모의 기여 분리는 확인되지 않는다.
+
+### 3-3. 지모–황백 (지백지황환·이선탕 계열)
+
+지모와 황백은 자음강화의 핵심 약쌍으로, 육미지황환(六味地黃丸)에 이 둘을 더한 것이 지백지황환이다. 약쌍 수준의 분석적 근거(지문·동시 정량)는 확립되어 있으나[^6], **약쌍 자체를 사람에게 단독 투여한 임상 근거는 확인되지 않는다.** 인체 근거는 모두 지백지황환·이선탕 등 완성된 방제 수준이다.
+
+**지백지황환 계열의 인체 근거**
+
+- 전신홍반루푸스에서 가미지백지황환이 스테로이드 감량에 기여함을 보인 메타분석(1,470명)[^48]. 음허화왕 변증에 대응하는 자가면역 질환군에서 가장 상위의 근거다.
+- 재발성 아프타구내염에서 지백지황환과 양약 병용의 효과를 본 메타분석(669명)[^49]. 음허화왕형 구강 병변 응용의 근거다.
+- 지황환 계열 처방을 통상치료에 병용한 당뇨병성 신장질환 네트워크 메타분석(3,562명)[^50].
+- 우레아플라스마 감염 불임 환자에서 지백지황환이 uPA에 미치는 영향을 본 임상시험(130명)[^51].
+- 한약 병용 전신홍반루푸스 환자의 생존이 개선되었다는 대규모 관찰연구(23,084명)[^52], 낭창신염 발생 위험이 낮아졌다는 코호트(3,142명)[^53], 만성콩팥병 동반 전신홍반루푸스 환자에서 17개 처방의 신장·생존 이득을 본 실사용 종단연구(1,188명)[^54].
+- 전신홍반루푸스 임상에서 변증과 처방의 상관 구조를 모형화한 관찰연구(261명)[^55]. **변증 없는 관행적 처방은 근거에 부합하지 않는다** 는 원칙의 실증적 뒷받침이다.
+- 낭창신염 환자에서 통합치료 후 요단백이 감소한 증례[^56].
+
+모든 항목은 처방 전체의 효과이며, 지모의 개별 기여는 분리되지 않았다.
+
+**중추성 성조숙증** 은 지백지황환 계열이 가장 많이 적용되는 소아 영역이다. 자음사화(滋陰瀉火) 치법의 중추성 성조숙증 유효성을 본 메타분석[^59], 한약 및 동아시아 의학 중재의 우산형 체계적 고찰[^60], 특발성 성조숙증 아동의 한약 이용 실태(3,390명)[^57]와 전국 규모 처방 특성 분석(3,495명)[^58]이 축적되어 있다. 지백지황환 계열이 이 영역의 주요 처방군으로 확인되나, 다시 한 번 **이는 방제 전체의 효과이지 지모 단독의 효과가 아니다.**
+
+**이선탕 계열의 인체 근거** — 이선탕은 선모(仙茅)·음양곽(淫羊藿)·파극천(巴戟天)·당귀(當歸)·황백·지모로 구성되며, 온신양(溫腎陽)과 사신화(瀉腎火)를 한 처방에 담아 갱년기의 한열착잡(寒熱錯雜)을 겨냥한다. 여기서 황백·지모가 담당하는 것이 사화(瀉火) 축이다.
+
+- 홍콩 폐경이행기 여성 108명을 대상으로 한 무작위 이중맹검 대조시험[^62]. 지모가 배오된 갱년기 처방의 최상위 인체 근거다.
+- 갱년기 증상에 대한 체계적 고찰(677명)[^63]과 갱신 체계적 고찰(1,594명)[^64].
+- 골다공증에 대한 체계적 고찰(644명)[^65], 폐경후 골다공증 골밀도 개선 메타분석(1,269명)[^66], 이선탕과 팔단금(八段錦) 병용이 골밀도·하지 균형·정신건강에 미치는 영향을 본 무작위 시험(50명)[^67].
+- 난소 저반응(80명)[^68]과 조기 난소부전(60명)[^69]에 대한 임상 근거, 처방 개관 고찰[^70].
+- 폐경후 골다공증 한의 임상진료지침에서 지모 배오 처방의 권고 위치를 확인할 수 있다[^71].
+
+### 3-4. 지모–산조인 (산조인탕)
+
+산조인탕은 『금궤요략(金匱要略)』의 "허로허번불득면(虛勞虛煩不得眠)"에 대한 처방으로, 산조인·복령(茯苓)·지모·천궁(川芎)·감초 다섯 약으로 구성된다. 산조인이 간혈(肝血)을 기르고 천궁이 혈을 움직이는 가운데, **지모는 허번(虛煩)의 열을 식히는 몫을 맡는다.** 간혈허에 겸한 허열이 잠을 방해하는 병기를 겨냥하므로, 지모가 빠지면 이 처방은 단순한 양혈안신(養血安神)에 그치게 된다(교과서적 근거).
+
+산조인탕은 지모 배오 방제 가운데 인체 근거가 가장 두텁다.
+
+- 원발성 불면에 대한 체계적 고찰(1,376명)[^23], 만성 불면 메타분석(1,311명)[^24], 산조인탕 계열 방제의 갱신 체계적 고찰(1,454명)[^25].
+- 초기 임상시험(60명)[^27], 디아제팜과의 이중맹검 비교시험[^28], 불안 영역의 인체 연구[^29].
+- 메타돈 유지요법 중 수면장애에 대한 무작위 이중맹검 위약대조 시험(90명)[^30].
+- 범불안장애에서 가미산조인탕이 파록세틴 초기 4주 반응을 보완한 실용 무작위 대조시험(156명)[^31], 만성 불면에서 가미산조인탕과 로라제팜 병용 시험(207명)[^32].
+- 불면을 동반한 뇌졸중 후 인지장애(80명)[^33], 만성 B형간염 환자의 불면(65명)[^39], 만성 중증간염 보조치료(60명)[^40], 항암화학요법 중 폐암 환자의 수면장애·암성 피로(84명)[^38].
+- 치료 전후 뇌기능 변화를 본 일련의 임상 연구 — 치료 반응 예측과 인지 변화(82명)[^34], 감각운동 연결망(136명)[^35], 기본상태회로 동질성(147명)[^36], 설전부 유효 연결성(82명)[^37].
+- 뇌졸중 후 불면에 전침 병용(240명)[^41], 성인 만성 불면 이중위약 시험(150명)[^42]의 설계가 등록되어 있다.
+- 노인 불면 복방 한약 제제의 네트워크 메타분석(1,851명)[^43], 대만 건강보험 자료의 불면 처방 패턴(16,134명)[^44], 수면장애·주요우울장애 환자의 처방 패턴(22,601명)[^45], 수면장애 환자에서 한약 사용과 치매 위험의 연관(11,752명)[^46], 불면 한약 치료 개관[^47].
+
+이들은 모두 **산조인탕이라는 방제 전체의 효과** 이며, 지모를 빼거나 넣어 비교한 인체 시험은 확인되지 않는다.
+
+### 3-5. 지모–백합 (백합지모탕)
+
+백합지모탕은 『금궤요략』 백합병(百合病) 편의 처방으로, 백합과 지모 두 약으로 구성되어 심폐(心肺)의 음허내열로 인한 정신불안·구고(口苦)·소변적(小便赤)을 다스린다(교과서적 근거). 방제의 HPLC 지문과 단미약 기여도를 대조한 품질관리 근거는 있으나[^12], **이 처방에 대한 사람 대상 임상 근거는 확인되지 않는다.** 따라서 백합지모탕의 임상 적용은 현재로서는 고전 근거와 임상 경험에 의존한다.
+
+### 3-6. 계지작약지모탕 — 지모가 들어가되 청열이 주역이 아닌 경우
+
+계지작약지모탕은 계지·작약·지모·마황·방풍·백출·부자·감초·생강 아홉 약으로 구성되며, 풍습(風濕)이 관절에 머물러 붓고 아픈 역절풍(歷節風)을 다스린다. 여기서 지모는 온열(溫熱)한 계지·마황·부자의 조열(燥熱)을 견제하고 관절의 울열(鬱熱)을 식히는 좌약(佐藥)으로 배오된다(교과서적 근거). 즉 이 처방에서 지모는 주역이 아니며, 처방의 임상 근거를 지모의 근거로 읽어서는 안 된다.
+
+- 메토트렉세이트에 계지작약지모탕을 추가했을 때 류마티스관절염 지표가 개선된 메타분석(1,224명)[^75].
+- 류마티스관절염 유효성·안전성 메타분석[^76]. 계획서 단계의 체계적 고찰도 등록되어 있다[^77].
+- 통풍 환자에서의 효과·내약성 메타분석(1,056명)[^78], 통풍성 관절염 임상 효능 평가 메타분석(1,633명)[^79].
+- 초음파·전기생리 검사를 병용한 류마티스관절염 평가 임상시험(64명)[^80], 조기 류마티스관절염에서 메토트렉세이트 병용의 무작위 이중맹검 시험 설계(152명)[^81].
+
+**철회 논문 경고**: 고요산혈증에 대한 계지작약지모탕의 임상 효과를 보고한 논문은 2024년 철회되었다[^82]. 따라서 "계지작약지모탕이 고요산혈증의 요산 수치를 낮춘다"는 진술은 이 문서에서 **무효화** 한다. 고요산혈증 영역에서는 한약 치료의 실사용 임상 결과와 안전성을 본 대규모 후향 연구(40,653명)를 대신 참조한다[^96].
+
+### 3-7. 지모가 포함되지 않는 처방 — 흔한 혼동
+
+임상에서 습열(濕熱) 하주(下注)의 대표 처방으로 이묘산(二妙散)·삼묘환(三妙丸)·사묘환(四妙丸)이 거론되면서 지모와 함께 묶여 언급되는 일이 있다. 그러나 **이 계열 처방에 지모는 들어가지 않는다.** 이묘산은 창출(蒼朮)·황백 두 약, 삼묘환은 여기에 우슬(牛膝)을 더한 것, 사묘환은 다시 의이인(薏苡仁)을 더한 것이다(교과서적 근거). 지모와 묶이는 것은 황백이지 이 처방들이 아니므로, 이묘산·삼묘환 계열의 근거를 지모의 근거로 인용해서는 안 된다.
+
+---
+
+## 제4편 임상 적용 — 증후·질환군별 인체 근거
+
+각 항목은 **변증 층화** 를 전제로 한다. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 아래의 인체 근거는 모두 해당 처방이 적응하는 변증에 맞는 환자군에서 얻어진 것이다.
+
+### 4-1. 폐위열(肺胃熱) — 기분 실열
+
+**변증 요점**: 장열(壯熱)·대한(大汗)·대갈(大渴)·맥홍대(脈洪大)의 이른바 사대증(四大證), 면적(面赤), 심번(心煩), 설홍태황조(舌紅苔黃燥).
+
+**치법과 처방**: 청열생진(淸熱生津). 백호탕, 기진(氣津) 손상이 뚜렷하면 백호가인삼탕(교과서적 근거).
+
+**인체 근거**: 백호가인삼탕 방증의 임상 적용 범위를 정리한 고찰[^21], 전신염증반응증후군에서의 혈당 조절 관련 고찰[^20], 난치성 구강건조 시험 설계[^22]. 이 영역은 급성 중증 상황이 많아 무작위 시험이 드물며, 근거의 밀도가 다른 영역보다 낮다.
+
+### 4-2. 음허화왕(陰虛火旺) — 허열
+
+**변증 요점**: 조열(潮熱)·도한(盜汗)·오심번열(五心煩熱)·관홍(顴紅)·요슬산연(腰膝痠軟)·설홍소태(舌紅少苔)·맥세삭(脈細數).
+
+**치법과 처방**: 자음강화. 지백지황환이 기본이며, 갱년기의 한열착잡에는 이선탕(교과서적 근거).
+
+**인체 근거**: 음허내열 상태의 혈장 대사체 프로파일과 지백지황과립 투여 후 변화[^17], 전신홍반루푸스 스테로이드 감량 메타분석[^48], 재발성 아프타구내염 메타분석[^49], 당뇨병성 신장질환 네트워크 메타분석[^50], 대규모 관찰연구군[^52][^53][^54].
+
+### 4-3. 갱년기 상열감(上熱感)과 골다공증
+
+지모가 임상적으로 가장 뚜렷한 자리를 차지하는 영역이다. 갱년기의 상열감은 신음허(腎陰虛)로 상화(相火)가 떠오르는 병기로 해석되며, 지모–황백 배오가 이 상화를 끄는 몫을 맡는다(교과서적 근거).
+
+**상열감·갱년기 증후군**
+
+- 이선탕의 홍콩 폐경이행기 여성 무작위 이중맹검 대조시험(108명)[^62] — 이 영역의 최상위 근거.
+- 체계적 고찰 677명[^63], 갱신 체계적 고찰 1,594명[^64], 처방 개관[^70].
+- 국내 갱년기 안면홍조 한의 연구 동향 분석[^100] — 중재와 평가지표의 국내 지형을 보여준다.
+- 갱년기 증후군의 전국 처방 데이터 분석(15,486명)[^61] — 지모 배오 처방의 실제 사용 빈도.
+- 비교 참조: 가미청아방(加味靑娥方)의 상열감·삶의 질 무작위 이중맹검 위약대조 시험(72명)[^72], 갱년기 혈관운동 증상에 대한 복합 한약의 위약대조 시험(93명)에서는 위약 대비 유의한 차이가 없었다[^73]. 후자는 **음성 결과** 로, 갱년기 한약 근거의 이질성을 정직하게 보여준다. 처방과 변증이 맞지 않으면 효과가 나타나지 않는다는 임상적 교훈으로 읽는 것이 타당하다.
+- 보완대체의학 이용과 갱년기 증상의 종단적 연관 분석(10,638명)[^74].
+
+**갱년기 수면장애** — 산조인탕이 갱년기 여성의 수면장애에 유효함을 국내 자료로 종합한 메타분석[^97], 갱년기 여성의 수면 곤란에 산조인탕을 단독 적용한 전향적 임상 관찰(67명)[^26]. 갱년기 상열감과 불면이 함께 있을 때 산조인탕과 지백지황환·이선탕 계열을 어떻게 배치할지가 이 영역의 실제 임상 판단이다.
+
+**골다공증** — 이선탕의 골다공증 체계적 고찰(644명)[^65], 폐경후 골다공증 골밀도 개선 메타분석(1,269명)[^66], 팔단금 병용 무작위 시험(50명)[^67], 폐경후 골다공증 한의 임상진료지침[^71].
+
+**해석의 한계**: 위 근거는 모두 지모가 배오된 방제의 효과이며, 지모의 개별 기여는 분리되지 않았다. 지모를 뺀 이선탕과의 비교 시험은 확인되지 않는다.
+
+### 4-4. 허번불면(虛煩不眠)
+
+**변증 요점**: 잠들기 어렵고 자주 깨며, 심번(心煩)·인건(咽乾)·구조(口燥)·현훈(眩暈)·설홍소태·맥현세(脈弦細). 간혈허에 허열이 겸한 상태.
+
+**치법과 처방**: 양혈안신·청열제번. 산조인탕(교과서적 근거).
+
+**인체 근거**: 3-4에 정리한 산조인탕 근거군 전체[^23][^24][^25][^26][^27][^28][^29][^30][^31][^32][^33][^34][^35][^36][^37][^38][^39][^40][^41][^42][^43][^44][^45][^46][^47]. 메타분석 수준의 근거가 반복적으로 수면 지표 개선을 보고하며, 뇌영상 연구를 통해 치료 전후 뇌기능 변화까지 관찰되고 있다.
+
+**임상 판단**: 불면 환자에게 산조인탕을 관행적으로 투여해서는 안 된다. 허번(虛煩)·인건·설홍소태가 없는 담열(痰熱)·심비양허(心脾兩虛)·간울(肝鬱) 유형에서는 다른 처방이 우선한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다.
+
+### 4-5. 소갈(消渴)·대사 영역
+
+**변증 요점**: 번갈다음(煩渴多飮)·다식이수(多食易瘦)·소변빈삭(小便頻數)·설홍태박황(舌紅苔薄黃).
+
+**치법과 처방**: 청열생진·자음. 상소(上消)에 백호가인삼탕, 하소(下消)에 지백지황환 계열(교과서적 근거).
+
+**인체 근거**: 백호가인삼탕과 혈당강하제 병용의 국내 메타분석[^98], 인삼 가 백호탕 계열 메타분석[^19], 지황환 계열의 당뇨병성 신장질환 네트워크 메타분석[^50].
+
+**주의**: 한약은 표준 혈당강하 치료를 대체하지 않으며, 위 근거는 모두 **병용(add-on)** 설계에서 얻어진 것이다.
+
+### 4-6. 풍습비증(風濕痹證)·관절염
+
+**변증 요점**: 관절 종통(腫痛)·굴신불리(屈伸不利)·국소 발열감, 한열착잡.
+
+**치법과 처방**: 거풍제습·통락지통, 온청병용. 계지작약지모탕(교과서적 근거).
+
+**인체 근거**: 류마티스관절염 메타분석군[^75][^76], 통풍 메타분석군[^78][^79], 영상·전기생리 평가 임상시험[^80]. 고요산혈증 관련 논문 1편은 철회되었으므로 근거에서 제외한다[^82].
+
+### 4-7. 소아 성조숙증
+
+지백지황환·자음사화 계열이 소아과 영역에서 널리 쓰인다. 자음사화 치법의 메타분석[^59], 우산형 체계적 고찰[^60], 이용 실태 관찰연구(3,390명)[^57], 전국 처방 특성 분석(3,495명)[^58]. 소아 투여 시에는 성장·발달 추적과 함께 장기 안전성 관찰이 필수적이며, 표준 치료(GnRH 작용제)를 대체하지 않는다.
+
+### 4-8. 정신신경 영역
+
+지모 성분인 사사사포게닌의 조현병 음성증상 시험(80명)이 유일한 성분 수준 근거이며[^14], 방제 수준에서는 산조인탕의 범불안장애[^31]·뇌졸중 후 인지장애 동반 불면[^33] 근거가 있다. 정신과 진단이 있는 환자는 정신과 주치의 관리를 유지하면서 한약을 **보조 요법** 으로 병용하는 것이 원칙이다.
+
+### 4-9. 질환군별 적용 요약표
+
+| 질환군 | 대표 처방 | 인체 근거의 최고 수준 | 근거 층위 |
+|---|---|---|---|
+| 갱년기 증후군·상열감 | 이선탕 | 무작위 이중맹검 대조시험 108명[^62], 체계적 고찰 1,594명[^64] | 제3층 |
+| 폐경후 골다공증 | 이선탕 | 메타분석 1,269명[^66], 임상진료지침[^71] | 제3층 |
+| 불면(허번형) | 산조인탕 | 체계적 고찰 1,454명[^25], 메타분석 1,311명[^24] | 제3층 |
+| 갱년기 수면장애 | 산조인탕 | 국내 메타분석[^97], 관찰연구 67명[^26] | 제3층 |
+| 전신홍반루푸스 | 지백지황환 | 메타분석 1,470명[^48] | 제3층 |
+| 재발성 아프타구내염 | 지백지황환 | 메타분석 669명[^49] | 제3층 |
+| 류마티스관절염 | 계지작약지모탕 | 메타분석 1,224명[^75] | 제3층 |
+| 통풍성 관절염 | 계지작약지모탕 | 메타분석 1,633명[^79] | 제3층 |
+| 제2형 당뇨병 | 백호가인삼탕 | 국내 메타분석[^98], 메타분석[^19] | 제3층 |
+| 중추성 성조숙증 | 지백지황환 계열 | 메타분석[^59], 우산형 고찰[^60] | 제3층 |
+| 갑상선기능항진증 | 지모 위주 탕약 / 복합처방 | 증례 1명[^15], 무작위 시험 186명[^84] | 제1·3층 |
+| 조현병 음성증상 | 사사사포게닌(성분 제제) | 무작위 이중맹검 위약대조 80명[^14] | 제2층 |
+
+이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. **모든 제3층 항목은 방제 전체의 효과이며 지모 단독의 효과가 아니다.**
+
+---
+
+## 제5편 용량·포제·안전성·상호작용·금기
+
+### 5-1. 용량과 용법
+
+통상 탕제 용량은 6~12g이며, 기분 실열의 급성기에는 상한을, 음허 만성기에는 하한을 취한다(교과서적 근거). 백호탕 계열에서는 석고와의 비율이 중요하며, 전통적으로 석고를 군약으로 크게 쓰고 지모를 그 절반 이하로 배오한다. 산조인탕에서는 산조인이 군약이고 지모는 좌약 용량으로 들어간다.
+
+### 5-2. 포제(炮製)
+
+| 포제 | 방법 | 전통적 효능 지향 | 인체 근거 |
+|---|---|---|---|
+| 생지모(生知母) | 그대로 절편 | 청열사화 우세, 폐위 실열 | 확인되지 않음 |
+| 염지모(鹽知母) | 소금물로 자(炙) | 신경(腎經)으로 인경(引經), 자음강화 우세 | 확인되지 않음 |
+| 초지모(炒知母) | 볶음 | 한성(寒性) 완화, 비위 부담 감소 | 확인되지 않음 |
+| 주초지모(酒炒知母) | 술로 볶음 | 상행(上行), 상초 열 | 확인되지 않음 |
+
+전통 포제 이론은 교과서적 근거에 해당한다. **포제에 따른 임상 효과 차이를 사람에게서 비교한 근거는 확인되지 않으며**, 이 문서는 그 빈칸을 동물 자료로 메우지 않는다. 지모와 그 포제품의 지표성분·지문 기반 품질 표준 연구는 존재하나[^5], 이는 약재 품질 근거이지 임상 효능 근거가 아니다.
+
+### 5-3. 안전성
+
+지모 단미의 임상 안전성을 직접 평가한 시험은 확인되지 않는다. 아래는 지모가 배오된 방제 및 한약 전반의 인체 안전성 자료에서 도출한 실무 지침이다.
+
+| 위험 항목 | 내용 | 근거 |
+|---|---|---|
+| 소화기 이상반응 | 무작위 대조시험에서 보고된 한약 이상반응 가운데 소화기계가 가장 흔하다. 지모의 고한(苦寒)·자니(滋膩)한 성질과 방향이 일치한다 | [^87] |
+| 실제 진료 환경의 이상반응 빈도 | 한국 한의약 이용자 조사에서 이상반응 경험 빈도와 유형이 확인된다 | [^88] |
+| 약물유발 간손상 | 한약 유발 간손상은 양약 유발 간손상과 임상 양상이 다르며 감별이 필요하다. 지모 자체가 간독성 원인으로 지목된 자료는 확인되지 않으나, 복합 처방 복용 중 간효소 상승 시 인과성 평가가 필요하다 | [^89][^90][^91][^92] |
+| 이선탕 계열 이상반응 | 국내 증례에서 이선탕 투여 중 이상반응이 보고되었다. 갱년기 장기 투여 시 관찰이 필요하다 | [^99] |
+| 장기 투여 안전성 | 고요산혈증에 대한 한약의 실사용 대규모 후향 연구에서 임상 결과와 안전성이 함께 평가되었다 | [^96] |
+| 철회 논문 기반 주장 | 계지작약지모탕의 고요산혈증 효과를 보고한 논문 1편이 철회되었다. 해당 주장은 무효로 처리한다 | [^82] |
+
+이 표는 실무 참고 틀이지 동일 근거수준의 권고가 아니다.
+
+### 5-4. 금기와 신중 사용 — 고미(苦味)·한성(寒性)의 대가
+
+지모의 임상적 위험은 대부분 그 약성에서 직접 유래한다.
+
+**① 비위허한(脾胃虛寒) — 가장 중요한 금기.** 지모는 고한하여 중초의 양기를 꺾고, 감윤(甘潤)·점질하여 비의 운화(運化)를 무겁게 한다. 따라서 평소 대변이 무르고(便溏), 배가 차며, 찬 음식에 설사하는 환자에게 지모를 쓰면 **설사와 식욕부진** 이 유발되기 쉽다(교과서적 근거). 무작위 대조시험 기반 한약 이상반응 수집에서 소화기계 이상반응이 가장 흔하다는 사실은 이 임상 경험과 방향이 일치한다[^87].
+
+**대응 전략**: (ㄱ) 백출(白朮)·건강(乾薑)·생강(生薑)·대조(大棗) 등 온중건비(溫中健脾) 약재를 배오한다. 백호탕에 갱미와 감초가, 백호가인삼탕에 인삼이 들어 있는 것이 바로 이 완충 장치다. (ㄴ) 초지모(炒知母)로 한성을 완화한다. (ㄷ) 용량을 하한(6g)에서 시작해 증량한다. (ㄹ) 식후 복용으로 위 자극을 줄인다.
+
+**② 대변당설(大便溏泄)·습담(濕痰).** 이미 설사가 있거나 습담이 성한 환자에게는 지모의 자윤(滋潤)이 습을 조장한다. 이 경우 지모 대신 황금(黃芩)·황련(黃連) 등 조습(燥濕) 성향의 청열약이 적합하다(교과서적 근거).
+
+**③ 표증(表證) 미해(未解).** 백호탕 계열은 표한(表寒)이 남아 있는 단계에 쓰면 사기(邪氣)를 안으로 끌어들인다. 『상한론』의 이른바 "표불해자 불가여백호탕(表不解者 不可與白虎湯)"이 이에 해당한다(교과서적 근거).
+
+**④ 임신 중 사용.** 지모 자체의 임신 중 안전성을 직접 평가한 인체 자료는 확인되지 않는다. 한약 전반에 대해서는 임신 전 기간에 걸친 대규모 인구기반 안전성 연구(199,710명)[^93]와 임신 초기 코호트 연구(195,824명)[^94], 그리고 임신 중 한약 안전성 고찰[^95]이 있다. 이들은 한약 사용이 광범위하게 이루어지고 있음을 보여주지만, 개별 약재의 안전성을 보증하지는 않는다.
+
+임상 원칙은 다음과 같다. 지모는 고한하여 **임신 중 상용(常用)을 권하지 않는다.** 임신부에게 명백한 실열·음허화왕 증후가 있어 반드시 필요한 경우에 한해, 최소 유효 용량으로 단기간 사용하고, 비위 증상과 대변 상태를 면밀히 관찰하며, 산과 주치의와 정보를 공유한다. 습관성 유산력이 있거나 비위허한이 뚜렷한 임신부에게는 사용하지 않는다(교과서적 근거에 기반한 신중 원칙).
+
+**⑤ 소아.** 성조숙증 영역에서 지백지황환 계열이 널리 쓰이나[^57][^58], 소아는 비위가 약해 고한약에 취약하다. 용량을 체중에 맞춰 낮추고, 식욕·대변·체중 증가 추이를 추적한다.
+
+### 5-5. 약물상호작용
+
+| 병용 대상 | 고려 사항 | 근거·비고 |
+|---|---|---|
+| 경구 혈당강하제·인슐린 | 백호가인삼탕 계열의 인체 근거는 모두 병용 설계에서 얻어졌으며 혈당 개선이 보고된다. 병용 시 저혈당 가능성을 고려해 혈당 자가측정을 강화한다 | [^19][^98] |
+| 부신피질호르몬(스테로이드) | 전신홍반루푸스에서 가미지백지황환이 스테로이드 감량에 기여했다. 감량은 반드시 담당 전문의 관리 하에 단계적으로 시행한다 | [^48] |
+| 메토트렉세이트 | 계지작약지모탕 추가 시 류마티스관절염 지표가 개선되었다. 간효소·혈구 수 추적을 유지한다 | [^75][^81] |
+| 벤조디아제핀계 수면제·항불안제 | 산조인탕 병용 근거가 있으며, 감량 시도 시 반동성 불면에 주의한다 | [^32][^28] |
+| 항정신병약(리스페리돈) | 사사사포게닌 추가 투여 시험이 있으나 이는 정제 성분 제제이며 지모 탕약과 다르다 | [^14] |
+| 항갑상선제 | 지모 위주 탕약·복합처방의 근거가 있으나 표준 치료를 대체하지 않으며 갑상선기능검사 추적이 필수다 | [^15][^16][^83][^84] |
+| 간독성 약물 | 한약 유발 간손상과의 감별이 어려워질 수 있다. 병용 시 간기능 추적 주기를 단축한다 | [^89][^90][^91][^92] |
+
+이 표는 임상 판단을 돕는 틀이지 동일 근거수준의 권고가 아니며, 대부분 방제 수준의 자료에서 추정한 것이다. 지모 단미의 약물상호작용을 사람에게서 직접 평가한 근거는 확인되지 않는다.
+
+---
+
+## 제6편 예후·관리·환자 교육
+
+### 6-1. 반응 시점과 예후 인자
+
+| 적응 영역 | 통상 반응 관찰 시점 | 예후 양호 인자 | 예후 불량 인자 |
+|---|---|---|---|
+| 기분 실열(백호탕 계열) | 수 시간~수 일 | 사대증이 뚜렷, 표증 소실 | 표증 잔존, 양허 겸증 |
+| 허번불면(산조인탕) | 2~4주 | 설홍소태·맥세삭, 간혈허 소견 명확 | 담열·기울 우세, 수면제 장기 의존 |
+| 음허화왕(지백지황환) | 4~12주 | 조열·도한이 주증 | 비위허한 동반, 습담 우세 |
+| 갱년기(이선탕) | 4~12주 | 한열착잡이 뚜렷 | 순수 양허 또는 순수 음허 단독형 |
+| 관절염(계지작약지모탕) | 4~12주 | 한열착잡, 관절 국소 열감 | 순한증(純寒證), 구조적 변형 진행기 |
+
+이 표는 임상 경험과 인용 연구의 관찰 기간에서 도출한 참고 틀이며, 동일 근거수준의 권고가 아니다.
+
+### 6-2. 추적 지표표
+
+| 영역 | 추적 지표 |
+|---|---|
+| 수면 | PSQI, ISI, 수면일지(입면 잠복기·각성 횟수·총수면시간) |
+| 불안·정서 | HAM-A, GAD-7, PHQ-9 |
+| 갱년기 | Kupperman Index, MRS(Menopause Rating Scale), 상열감 빈도·강도 일지 |
+| 골대사 | 골밀도(DXA, 요추·대퇴경부 T-score), 골표지자(CTX, P1NP), 혈청 칼슘·비타민 D |
+| 혈당 | 공복혈당, 당화혈색소(HbA1c), 식후 2시간 혈당, 저혈당 삽화 기록 |
+| 관절 | DAS28, 압통·종창 관절 수, CRP, ESR, 혈청 요산 |
+| 자가면역 | SLEDAI, 보체(C3·C4), 항dsDNA, 요단백/크레아티닌 비, 스테로이드 누적 용량 |
+| 갑상선 | TSH, 유리 T4, T3, TSH 수용체 항체 |
+| 소아 성장 | 신장·체중·성장속도, 골연령, Tanner 단계, LH·FSH·에스트라디올 |
+| 안전성 | AST·ALT·ALP·총빌리루빈, 크레아티닌, 전해질, 대변 양상·횟수, 식욕·체중 |
+
+### 6-3. 조섭표
+
+| 항목 | 지도 내용 | 이론적 근거 |
+|---|---|---|
+| 식이 | 맵고 뜨거운 음식·튀김·과음을 줄인다. 지모 복용 중에는 특히 찬 음식·생냉물(生冷物)을 함께 과하게 먹지 않는다 | 「熱者寒之」, 고한약과 생냉물의 중첩은 비양(脾陽)을 상한다 |
+| 복약 시점 | 비위가 약하면 식후에 복용하고, 따뜻하게 데워 마신다 | 고한약의 위 자극 완충 |
+| 수면 | 자정 이전 취침. 취침 전 카페인·음주·전자기기 사용을 제한한다 | 「虛勞虛煩不得眠」의 조섭 |
+| 정서 | 과도한 사려(思慮)와 분노를 피한다. 오지화화(五志化火)는 허열을 부추긴다 | 「怒則氣上」, 「五志過極皆能化火」 |
+| 활동 | 과로와 밤샘을 피한다. 갱년기·골다공증에서는 체중부하 운동과 균형 운동을 병행한다 | 「久勞傷腎」, 골다공증 병용 운동 근거[^67] |
+| 방로(房勞) | 절제한다. 신정(腎精) 소모는 음허화왕을 악화시킨다 | 「醉以入房, 以欲竭其精」 |
+| 보온 | 하복부·요부를 따뜻하게 한다. 지모 복용 중 하복 냉감이 생기면 즉시 알리도록 교육한다 | 고한약 사용 중 양허 발현 조기 감지 |
+| 수분 | 번갈이 심하면 미지근한 물을 조금씩 자주 마신다 | 생진지갈(生津止渴) 보조 |
+
+이 조섭표는 생활 지도의 틀이며, 개별 항목이 무작위 시험으로 검증된 것은 아니다.
+
+### 6-4. 환자 설명용 요약
+
+> 지모는 몸의 열을 내리면서 동시에 마른 것을 적셔 주는 약재입니다. 열을 내리는 약은 대개 몸을 건조하게 만들기 쉬운데, 지모는 그 반대로 진액을 지켜 주는 성질을 함께 가지고 있어 "속이 마르면서 열이 뜨는" 상태에 잘 맞습니다. 얼굴이 화끈거리고, 밤에 땀이 나며, 손발바닥이 뜨겁고, 목이 마르고, 잠이 잘 오지 않는 갱년기의 불편함이 대표적인 경우입니다.
+>
+> 다만 지모는 성질이 차고 쓴 약입니다. 평소 배가 차고 대변이 무르거나, 찬 음식만 먹으면 설사하는 분에게는 부담이 될 수 있습니다. 복용 중 설사가 잦아지거나 입맛이 떨어지고 배가 더 차게 느껴진다면 반드시 알려 주십시오. 용량을 조절하거나, 속을 따뜻하게 하는 약재를 함께 넣어 조정할 수 있습니다.
+>
+> 지모는 거의 언제나 다른 약재와 함께 처방됩니다. 지금까지 사람을 대상으로 확인된 효과의 대부분은 지모 하나가 아니라 **지모가 들어간 처방 전체** 의 효과입니다. 따라서 "지모 자체가 이런 병에 좋다"는 식의 설명은 정확하지 않으며, 지모를 단독으로 구해 드시는 것도 권하지 않습니다.
+>
+> 당뇨약·스테로이드·갑상선약·수면제를 복용 중이시라면 반드시 알려 주십시오. 한약과 함께 쓸 때 조정이 필요한 경우가 있습니다. 임신 중이거나 임신을 계획 중이시라면 복용 전에 상의해 주십시오. 지모는 성질이 차서 임신 중에는 일상적으로 쓰지 않습니다. 한약은 지금 받고 계신 표준 치료를 대신하는 것이 아니라, 함께 쓰면서 증상과 삶의 질을 돕는 자리에 있습니다.
+
+---
+
+## 제7편 Q&A
+
+**Q1. 지모 단독의 효능을 환자에게 설명해도 되는가?**
+
+권하지 않는다. 지모를 단미로 사람에게 투여한 대조 임상시험은 확인되지 않으며, 가장 근접한 자료가 그레이브스병 1례의 증례 보고[^15]와 지모·석고 배오 처방의 인간 데이터[^16]에 그친다. 지모의 임상적 가치는 배오 안에서 발휘되며, 지금까지의 인체 근거는 산조인탕·지백지황환·이선탕·계지작약지모탕·백호탕 계열 등 **처방 전체** 의 효과다. 환자에게는 "이 처방이 이런 근거를 갖고 있고, 지모는 그 안에서 열을 식히고 진액을 지키는 역할을 맡는다"고 설명하는 것이 정확하다.
+
+**Q2. 백호탕에서 석고를 빼고 지모만 늘리면 어떻게 되는가?**
+
+이 질문에 답할 인체 근거는 없다. 석고와 지모의 기여를 분리 평가한 임상시험은 확인되지 않는다[2-5 참조]. 전통 이론상 석고는 신한(辛寒)하게 기분의 열을 밖으로 흩고 지모는 고한감윤하게 안에서 사화·자음하므로, 둘의 방향이 다르며 상호 대체되지 않는다(교과서적 근거). 근거가 없는 상태에서 임의로 구성을 바꾸는 것은 권하지 않는다.
+
+**Q3. 갱년기 상열감에 지모 배오 처방을 쓸 근거는 충분한가?**
+
+이 영역은 지모 관련 근거가 가장 두터운 곳이다. 이선탕의 무작위 이중맹검 대조시험(108명)[^62], 체계적 고찰(677명·1,594명)[^63][^64], 골다공증 메타분석(1,269명)[^66], 임상진료지침[^71]이 있고, 갱년기 수면장애에는 산조인탕의 국내 메타분석[^97]과 전향적 관찰연구(67명)[^26]가 있다. 다만 갱년기 혈관운동 증상에 대한 다른 복합 한약 시험에서는 위약 대비 유의한 차이가 없었다는 음성 결과도 있으므로[^73], **변증에 맞는 처방 선택** 이 결과를 좌우한다고 보아야 한다. 한열착잡이 뚜렷하면 이선탕, 음허화왕이 우세하면 지백지황환, 불면이 주증이면 산조인탕 쪽으로 무게를 옮기는 것이 합리적이다.
+
+**Q4. 불면 환자에게 산조인탕을 일단 써 봐도 되는가?**
+
+권하지 않는다. 산조인탕의 근거는 풍부하지만[^23][^24][^25], 그 근거는 허번불면(虛煩不眠) — 간혈허에 허열이 겸한 상태 — 에 대한 것이다. 담열요심(痰熱擾心)이나 심비양허(心脾兩虛)형 불면에서는 다른 처방이 우선한다. 변증 없는 관행적 처방은 근거에 부합하지 않는다. 설홍소태·맥세삭·인건구조·심번의 소견을 확인한 뒤 투여하고, PSQI 또는 ISI로 2~4주 간격 추적한다.
+
+**Q5. 지모를 복용하고 설사가 생겼다면 어떻게 하는가?**
+
+지모의 고한·자니한 성질이 비위에 부담을 준 것으로 해석한다. 무작위 대조시험 기반 한약 이상반응 수집에서도 소화기계가 가장 흔한 이상반응 영역이었다[^87]. 대응은 다음 순서로 한다 — ① 용량을 6g 이하로 감량, ② 초지모로 교체하여 한성을 완화, ③ 백출·건강·생강·대조 등 온중건비 약재를 배오, ④ 식후 복용으로 전환, ⑤ 그래도 지속되면 지모를 빼고 조습 계열 청열약으로 대체한다. 체중 감소나 탈수 징후가 있으면 즉시 중단한다.
+
+**Q6. 임신부에게 지모를 쓸 수 있는가?**
+
+일상적으로는 쓰지 않는다. 지모 자체의 임신 중 안전성을 평가한 인체 자료는 확인되지 않는다. 한약 전반에 대해서는 대규모 인구기반 안전성 연구[^93][^94]와 고찰[^95]이 있으나, 이는 한약이 널리 쓰이고 있음을 보여줄 뿐 개별 약재의 안전성을 보증하지 않는다. 명백한 실열·음허화왕 증후로 반드시 필요한 경우에 한해 최소 유효 용량·단기간으로 쓰고, 대변과 식욕을 면밀히 관찰하며 산과 주치의와 정보를 공유한다. 비위허한이 뚜렷하거나 습관성 유산력이 있으면 사용하지 않는다.
+
+**Q7. 지모의 포제를 바꾸면 임상 효과가 달라지는가?**
+
+전통적으로 염지모는 신경으로 인경하여 자음강화에, 생지모는 폐위 실열의 청열에 적합하다고 본다(교과서적 근거). 그러나 **포제에 따른 임상 효과 차이를 사람에게서 비교한 근거는 확인되지 않는다.** 따라서 포제 선택은 현재로서는 전통 이론과 임상 경험에 근거한 판단이며, 근거 기반 권고로 제시할 수 없다. 실무적으로는 비위가 약한 환자에게 초지모로 한성을 완화하는 조정이 가장 자주 쓰인다.
+
+**Q8. 지모가 들어간 처방의 연구 중 신뢰할 수 없는 것이 있는가?**
+
+있다. 고요산혈증에 대한 계지작약지모탕의 임상 효과를 보고한 논문은 2024년 철회되었으므로 유효 근거로 쓸 수 없다[^82]. 이 문서는 해당 주장을 무효화했다. 또한 "체계적 고찰"로 검색되는 문헌 중 상당수가 실제로는 **계획서(protocol)** 이며 결과를 담고 있지 않다 — 백호가인삼탕의 제2형 당뇨병 문헌[^18]과 계지작약지모탕의 류마티스관절염 문헌[^77]이 그 예다. 근거를 인용할 때는 제목의 "protocol" 여부와 철회 상태를 반드시 확인해야 한다.
+
+---
+
+**고전 인용 출처**: 『傷寒論』(辨太陽病脈證幷治·辨陽明病脈證幷治 — 백호탕·백호가인삼탕 조문 및 "表不解者 不可與白虎湯"), 『金匱要略』(血痺虛勞病脈證幷治 — 산조인탕 "虛勞虛煩不得眠"; 中風歷節病脈證幷治 — 계지작약지모탕; 百合狐惑陰陽毒病脈證治 — 백합지모탕), 『神農本草經』(知母 中品), 『名醫別錄』(知母), 『黃帝內經素問』(至眞要大論 — "熱者寒之"; 上古天眞論 — "醉以入房, 以欲竭其精"; 擧痛論 — "怒則氣上"), 『丹溪心法』(滋陰降火 — 지모·황백 배오 이론), 『醫方集解』(知柏地黃丸), 『本草綱目』(草部 知母).
+
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-09-05 조회 기준. 각주의 저자·저널·출판일·연구유형·철회 여부는 PubMed 원본 메타데이터와 대조하여 확인하였다.
+
+[^1]: The genus Anemarrhena Bunge: A review on ethnopharmacology, phytochemistry and pharmacology. Wang Y 외. _Journal of ethnopharmacology_. 2014-04-11. [문헌 고찰] [DOI 10.1016/j.jep.2014.02.013](https://doi.org/10.1016/j.jep.2014.02.013) [PMID 24556224](https://pubmed.ncbi.nlm.nih.gov/24556224/) — 지모속(屬) 식물의 민족약리·화학·약리를 총괄한 기준 고찰. 이 문서의 기원·성분 서술의 뼈대를 이룬다.
+[^2]: [Comparison research on quality of cultivated and wild Anemarrhena Rhizome from Yi County]. Chen Q 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2011-09-01. [실험연구] [PMID 22121793](https://pubmed.ncbi.nlm.nih.gov/22121793/) — 약재(식물체) 분석 연구로, 재배품과 야생품의 성분 함량 차이를 보여 산지·재배 조건이 품질에 영향함을 시사한다. 임상 효능 근거가 아니다.
+[^3]: Molecular identification of oriental medicinal plant Anemarrhena asphodeloides Bunge ('Jimo') by multiplex PCR. Jigden B 외. _Molecular biology reports_. 2010-02-01. [실험연구] [DOI 10.1007/s11033-009-9747-4](https://doi.org/10.1007/s11033-009-9747-4) [PMID 19688267](https://pubmed.ncbi.nlm.nih.gov/19688267/) — multiplex PCR로 지모를 종(種) 수준에서 감별한 약재 감별법. 유통 약재 진위 확인의 근거.
+[^4]: [A rapid method for the identification of untreated Chinese herbs by FT-Raman spectrometry]. Liu J 외. _Guang pu xue yu guang pu fen xi = Guang pu_. 2002-06-01. [실험연구] [PMID 12938320](https://pubmed.ncbi.nlm.nih.gov/12938320/) — FT-Raman 분광으로 미가공 생약을 신속 식별한 약재 분석법. 유사 약재 혼입 방지에 활용된다.
+[^5]: [Improvement researches on quality standard of Anemarrhenae Rhizoma and its raw processed products]. Huang Q 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-12-01. [실험연구] [DOI 10.19540/j.cnki.cjcmm.20200629.202](https://doi.org/10.19540/j.cnki.cjcmm.20200629.202) [PMID 33496110](https://pubmed.ncbi.nlm.nih.gov/33496110/) — 지모 및 그 포제품의 품질 표준(지표성분·지문)을 개선한 약재 표준화 연구.
+[^6]: Fingerprint analysis of Zhimu-Huangbai herb pair and simultaneous determination of its alkaloids, xanthone glycosides and steroidal saponins by HPLC-DAD-ELSD. Zhang F 외. _Chinese journal of natural medicines_. 2014-07-01. [실험연구] [DOI 10.1016/S1875-5364(14)60082-0](https://doi.org/10.1016/S1875-5364(14)60082-0) [PMID 25053552](https://pubmed.ncbi.nlm.nih.gov/25053552/) — 지모-황백 약쌍의 알칼로이드·잔톤 배당체·스테로이드 사포닌 동시 정량과 지문 분석. 약쌍 품질관리의 분석적 근거.
+[^7]: [Simultaneous determination of two saponnins in anemarrhenae rhizoma by HPLC-ELSD]. Chen Q 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2011-02-01. [실험연구] [PMID 21598545](https://pubmed.ncbi.nlm.nih.gov/21598545/) — HPLC-ELSD로 지모 중 2종 사포닌을 동시 정량한 약재 분석법.
+[^8]: [Determination of sarsasapogenin in Anemarrhena asphodeloides Bunge by GC]. Liu Y 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 1999-09-01. [실험연구] [PMID 12205902](https://pubmed.ncbi.nlm.nih.gov/12205902/) — GC로 사사사포게닌을 정량한 약재 분석법. 비당체 지표성분 관리의 근거.
+[^9]: Steroidal saponins from Anemarrhena asphodeloides. Liu QB 외. _Journal of Asian natural products research_. 2013-01-01. [실험연구] [DOI 10.1080/10286020.2013.802689](https://doi.org/10.1080/10286020.2013.802689) [PMID 23796262](https://pubmed.ncbi.nlm.nih.gov/23796262/) — 지모에서 스테로이드 사포닌을 분리·동정한 성분 화학 연구.
+[^10]: New steroidal glycosides from the rhizome of Anemarrhena asphodeloides. Yuan JC 외. _Journal of Asian natural products research_. 2014-01-01. [실험연구] [DOI 10.1080/10286020.2014.942658](https://doi.org/10.1080/10286020.2014.942658) [PMID 25223616](https://pubmed.ncbi.nlm.nih.gov/25223616/) — 지모 뿌리줄기에서 신규 스테로이드 배당체를 분리·동정한 성분 화학 연구.
+[^11]: [Saponins of anemarrhenae rhizoma]. Nagumo S 외. _Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan_. 1991-06-01. [실험연구] [DOI 10.1248/yakushi1947.111.6_306](https://doi.org/10.1248/yakushi1947.111.6_306) [PMID 1941535](https://pubmed.ncbi.nlm.nih.gov/1941535/) — 지모 사포닌 계통을 정리한 초기 성분 화학 연구.
+[^12]: [High performance liquid chromatographic fingerprints of Baihe Zhimu Tang and its correlation to single herb]. Qin K 외. _Se pu = Chinese journal of chromatography_. 2009-11-01. [실험연구] [PMID 20352931](https://pubmed.ncbi.nlm.nih.gov/20352931/) — 백합지모탕의 HPLC 지문과 단미약 기여도를 대조한 방제 품질관리 근거.
+[^13]: Pharmacokinetic study of mangiferin in human plasma after oral administration. Hou S 외. _Food chemistry_. 2012-05-01. [실험연구, 21명] [DOI 10.1016/j.foodchem.2011.10.079](https://doi.org/10.1016/j.foodchem.2011.10.079) [PMID 26434292](https://pubmed.ncbi.nlm.nih.gov/26434292/) — 지모의 잔톤 배당체 성분인 mangiferin이 사람에게 경구 투여된 뒤 혈장에서 실제로 검출·정량된 인체 약동학 근거. 성분 층위 근거가 사람에게서 확인된 드문 예다.
+[^14]: A double-blind, placebo-controlled study of traditional Chinese medicine sarsasapogenin added to risperidone in patients with negative symptoms dominated schizophrenia. Xiao SF 외. _Neuroscience bulletin_. 2011-08-01. [임상시험, 80명] [DOI 10.1007/s12264-011-1417-6](https://doi.org/10.1007/s12264-011-1417-6) [PMID 21788997](https://pubmed.ncbi.nlm.nih.gov/21788997/) — 지모 유래 사사사포게닌을 리스페리돈에 추가한 이중맹검 위약대조 시험. 지모 성분 단위로는 가장 높은 수준의 인체 근거이나, 지모 단미 탕약의 효과와 동일시할 수 없다.
+[^15]: A methimazole resistant patient with Graves' disease (GD): A case report of mid-term management with herbal decoctions mainly composed of Anemarrhena Bunge. Kim J 외. _Complementary therapies in medicine_. 2018-08-01. [증례 보고, 1명] [DOI 10.1016/j.ctim.2018.05.015](https://doi.org/10.1016/j.ctim.2018.05.015) [PMID 30012381](https://pubmed.ncbi.nlm.nih.gov/30012381/) — 메티마졸 불응 그레이브스병 1례에서 지모를 군약으로 한 탕약 중기 관리 경과. 지모 단미에 가장 근접한 인체 근거이지만 단일 증례다.
+[^16]: An alternative therapy for graves' disease: clinical effects and mechanisms of an herbal remedy. Lee BC 외. _Biological & pharmaceutical bulletin_. 2008-04-01. [임상시험, 인간 데이터 한정] [DOI 10.1248/bpb.31.583](https://doi.org/10.1248/bpb.31.583) [PMID 18379045](https://pubmed.ncbi.nlm.nih.gov/18379045/) — 항갑상선제 부작용 환자에서 지모·석고를 포함한 안전백호탕 투여 후 T3·유리 T4 감소와 TSH 상승. 세포 실험이 병행된 혼합 연구로 인간 데이터 부분만 인용한다.
+[^17]: Screening of potential biomarkers for Yin-deficiency-heat syndrome based on UHPLC-MS method and the mechanism of Zhibai Dihuang granule therapeutic effect. Yi WJ 외. _Anatomical record (Hoboken, N.J. : 2007)_. 2020-08-01. [관찰연구] [DOI 10.1002/ar.24352](https://doi.org/10.1002/ar.24352) [PMID 31909891](https://pubmed.ncbi.nlm.nih.gov/31909891/) — 음허내열(陰虛內熱) 상태의 사람 혈장 대사체 프로파일과 지백지황과립 투여 후 변화. 지모가 배오된 방제의 적응 변증이 생물학적 상관물을 갖는다는 인체 근거.
+[^18]: Baihu Jia Renshen Decoction for type 2 diabetic mellitus: A protocol for systematic review and meta-analysis. Tian Y 외. _Medicine_. 2020-05-01. [체계적 고찰] [DOI 10.1097/MD.0000000000020210](https://doi.org/10.1097/MD.0000000000020210) [PMID 32384518](https://pubmed.ncbi.nlm.nih.gov/32384518/) — 백호가인삼탕의 제2형 당뇨병 근거를 평가하기 위한 체계적 고찰·메타분석 계획서. 계획서 단계이므로 결과 근거로 쓸 수 없다.
+[^19]: Ginseng-plus-Bai-Hu-Tang Combined with Western Medicine for the Treatment of Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis. Zhou M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022-04-16. [메타분석] [DOI 10.1155/2022/9572384](https://doi.org/10.1155/2022/9572384) [PMID 35469158](https://pubmed.ncbi.nlm.nih.gov/35469158/) — 인삼을 가한 백호탕 계열을 양약에 병용했을 때의 제2형 당뇨병 지표 개선. 방제 전체의 효과이지 지모 단독 효과가 아니다.
+[^20]: The effect of Baihu Decoction (白虎汤) on blood glucose levels in treating systemic inflammatory response syndrome. Yang F 외. _Chinese journal of integrative medicine_. 2010-10-01. [문헌 고찰] [DOI 10.1007/s11655-010-9995-0](https://doi.org/10.1007/s11655-010-9995-0) [PMID 20535585](https://pubmed.ncbi.nlm.nih.gov/20535585/) — 백호탕·백호가인삼탕이 전신염증반응증후군에서 혈당을 낮추는 경로를 사람·동물 자료를 함께 검토한 고찰. 인체 부분만 참고한다.
+[^21]: [Exploration of Baihu Jia Renshen Decoction formula syndromes based on severe cases of critical care and integrative medicine and its clinical efficacy on clearing heat,elevating blood pressure,curing hypertonic and lowering blood sugar]. Xiong XJ. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-09-01. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20190416.502](https://doi.org/10.19540/j.cnki.cjcmm.20190416.502) [PMID 31872716](https://pubmed.ncbi.nlm.nih.gov/31872716/) — 중환자 영역에서 백호가인삼탕 방증(方證)의 임상 적용 범위를 정리한 임상경험 고찰.
+[^22]: Efficacy of combined administration of Baekhogainsam-Tang and low-dose pilocarpine on frequent intractable xerostomia: Study protocol for a randomized controlled trial. Kim SI 외. _PloS one_. 2024-11-11. [임상시험, 120명] [DOI 10.1371/journal.pone.0307557](https://doi.org/10.1371/journal.pone.0307557) [PMID 39527525](https://pubmed.ncbi.nlm.nih.gov/39527525/) — 난치성 구강건조에 백호가인삼탕과 저용량 필로카르핀 병용을 평가한 무작위 대조시험 계획서. 지모의 생진지갈(生津止渴) 응용을 사람에서 검증하려는 시도다.
+[^23]: Efficacy and safety of Suanzaoren decoction for primary insomnia: a systematic review of randomized controlled trials. Xie CL 외. _BMC complementary and alternative medicine_. 2013-01-22. [체계적 고찰, 1376명] [DOI 10.1186/1472-6882-13-18](https://doi.org/10.1186/1472-6882-13-18) [PMID 23336848](https://pubmed.ncbi.nlm.nih.gov/23336848/) — 산조인탕의 원발성 불면 무작위 대조시험을 종합. 지모가 배오된 대표 방제의 불면 근거이나 방제 전체의 효과다.
+[^24]: Suanzaoren Decoction for the treatment of chronic insomnia: a systematic review and meta-analysis. Liu XX 외. _European review for medical and pharmacological sciences_. 2022-11-01. [메타분석, 1311명] [DOI 10.26355/eurrev_202211_30388](https://doi.org/10.26355/eurrev_202211_30388) [PMID 36459033](https://pubmed.ncbi.nlm.nih.gov/36459033/) — 만성 불면에서 산조인탕의 수면 지표 개선. 방제 수준 근거.
+[^25]: Suanzaoren Formulae for Insomnia: Updated Clinical Evidence and Possible Mechanisms. Zhou QH 외. _Frontiers in pharmacology_. 2018-02-09. [체계적 고찰, 1454명] [DOI 10.3389/fphar.2018.00076](https://doi.org/10.3389/fphar.2018.00076) [PMID 29479317](https://pubmed.ncbi.nlm.nih.gov/29479317/) — 산조인탕 계열 방제의 불면 임상 근거를 갱신 정리.
+[^26]: Suan zao ren tang as an original treatment for sleep difficulty in climacteric women: a prospective clinical observation. Yeh CH 외. _Evidence-based complementary and alternative medicine : eCAM_. 2011-01-01. [관찰연구, 67명] [DOI 10.1155/2011/673813](https://doi.org/10.1155/2011/673813) [PMID 21660310](https://pubmed.ncbi.nlm.nih.gov/21660310/) — 갱년기 여성의 수면 곤란에 산조인탕을 단독 적용한 전향적 임상 관찰. 갱년기-불면 영역에서 지모 배오 방제의 직접 인체 근거.
+[^27]: Clinical trial of suanzaorentang in the treatment of insomnia. Chen HC 외. _Clinical therapeutics_. 1985-01-01. [임상시험, 60명] [PMID 3888394](https://pubmed.ncbi.nlm.nih.gov/3888394/) — 산조인탕의 불면 치료 초기 임상시험. 방제 수준의 고전적 근거.
+[^28]: Suanzaorentang versus diazepam: a controlled double-blind study in anxiety. Chen HC 외. _International journal of clinical pharmacology, therapy, and toxicology_. 1986-12-01. [임상시험] [PMID 2880811](https://pubmed.ncbi.nlm.nih.gov/2880811/) — 산조인탕과 디아제팜을 비교한 이중맹검 대조시험. 참가자 수는 원문에서 확인되지 않아 적지 않는다.
+[^29]: Studies on the suanzaorentang in the treatment of anxiety. Chen HC 외. _Psychopharmacology_. 1985-01-01. [실험연구] [DOI 10.1007/BF00429670](https://doi.org/10.1007/BF00429670) [PMID 2862653](https://pubmed.ncbi.nlm.nih.gov/2862653/) — 산조인탕의 불안 관련 인체 연구. 참가자 수는 확인되지 않는다.
+[^30]: Clinical Efficacy of Traditional Chinese Medicine, Suan Zao Ren Tang, for Sleep Disturbance during Methadone Maintenance: A Randomized, Double-Blind, Placebo-Controlled Trial. Chan YY 외. _Evidence-based complementary and alternative medicine : eCAM_. 2015-01-01. [임상시험, 90명] [DOI 10.1155/2015/710895](https://doi.org/10.1155/2015/710895) [PMID 26346534](https://pubmed.ncbi.nlm.nih.gov/26346534/) — 메타돈 유지요법 중 수면장애에 산조인탕을 적용한 무작위 이중맹검 위약대조 시험.
+[^31]: Modified Suanzaorentang Had the Treatment Effect for Generalized Anxiety Disorder for the First 4 Weeks of Paroxetine Medication: A Pragmatic Randomized Controlled Study. Song MF 외. _Evidence-based complementary and alternative medicine : eCAM_. 2017-01-01. [임상시험, 156명] [DOI 10.1155/2017/8391637](https://doi.org/10.1155/2017/8391637) [PMID 28553362](https://pubmed.ncbi.nlm.nih.gov/28553362/) — 범불안장애에서 가미산조인탕이 파록세틴 초기 4주 반응을 보완. 방제 수준 근거.
+[^32]: Efficacy and Safety of Jiawei Suanzaoren Decoction Combined with Lorazepam for Chronic Insomnia: A Parallel-Group Randomized Controlled Trial. Song MF 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020-02-08. [임상시험, 207명] [DOI 10.1155/2020/3450989](https://doi.org/10.1155/2020/3450989) [PMID 32089719](https://pubmed.ncbi.nlm.nih.gov/32089719/) — 만성 불면에서 가미산조인탕과 로라제팜 병용의 유효성·안전성 평가.
+[^33]: Modified Suanzaoren decoction in treating post-stroke cognitive impairment with comorbid insomnia symptoms: A clinical trial. Zhu M 외. _Medicine_. 2023-10-06. [임상시험, 80명] [DOI 10.1097/MD.0000000000035239](https://doi.org/10.1097/MD.0000000000035239) [PMID 37800827](https://pubmed.ncbi.nlm.nih.gov/37800827/) — 불면을 동반한 뇌졸중 후 인지장애에 가미산조인탕 적용.
+[^34]: Prediction of treatment efficacy in the suanzaoren decoction and estazolam for chronic insomnia disorder, along with brain function and cognitive changes before and after treatment, and potential gene expression profiles. Li T 외. _Asian journal of psychiatry_. 2025-08-01. [임상시험, 82명] [DOI 10.1016/j.ajp.2025.104563](https://doi.org/10.1016/j.ajp.2025.104563) [PMID 40482291](https://pubmed.ncbi.nlm.nih.gov/40482291/) — 만성 불면에서 산조인탕과 에스타졸람의 치료 반응 예측과 뇌기능·인지 변화.
+[^35]: Suanzaoren decoction improving chronic insomnia with little effects on functional connectivity within the sensorimotor network. Yao P 외. _Brain research_. 2026-01-15. [임상시험, 136명] [DOI 10.1016/j.brainres.2025.150037](https://doi.org/10.1016/j.brainres.2025.150037) [PMID 41297836](https://pubmed.ncbi.nlm.nih.gov/41297836/) — 산조인탕이 만성 불면을 개선하되 감각운동 연결망 기능적 연결에는 큰 변화를 주지 않음.
+[^36]: Altered default mode network homogeneity in chronic insomnia disorder: modulation by modified suanzaoren decoction and estazolam, and machine learning classification. Wei S 외. _Brain research_. 2026-08-03. [임상시험, 147명] [DOI 10.1016/j.brainres.2026.150482](https://doi.org/10.1016/j.brainres.2026.150482) [PMID 42546895](https://pubmed.ncbi.nlm.nih.gov/42546895/) — 가미산조인탕·에스타졸람에 따른 만성 불면 환자의 기본상태회로 동질성 변화.
+[^37]: Altered Effective Connectivity of Precuneus Subregions and Associated Gene Profiles in Chronic Insomnia Disorder Patients Before and After Treatment. Guo Z 외. _Brain and behavior_. 2026-05-01. [임상시험, 82명] [DOI 10.1002/brb3.71448](https://doi.org/10.1002/brb3.71448) [PMID 42157543](https://pubmed.ncbi.nlm.nih.gov/42157543/) — 만성 불면 환자에서 치료 전후 설전부 하위영역 유효 연결성 변화.
+[^38]: Clinical evaluation of Suanzaoren decoction for sleep disturbance and cancer-related fatigue in patients with lung cancer receiving chemotherapy: A retrospective study. Yang H 외. _Medicine_. 2026-01-30. [관찰연구, 84명] [DOI 10.1097/MD.0000000000046500](https://doi.org/10.1097/MD.0000000000046500) [PMID 41630252](https://pubmed.ncbi.nlm.nih.gov/41630252/) — 항암화학요법 중 폐암 환자의 수면장애·암성 피로에 산조인탕을 적용한 후향 평가.
+[^39]: [Clinical observation of modified Suan Zao Ren decoction on insomnia of chronic hepatitis B patients]. Zhang SJ 외. _Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials_. 2007-11-01. [임상시험, 65명] [PMID 18323223](https://pubmed.ncbi.nlm.nih.gov/18323223/) — 만성 B형간염 환자의 불면에 가미산조인탕 적용.
+[^40]: [Clinical observation on auxiliary treatment with suanzaoren decoction for chronic severe hepatitis]. Zhu HP 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-04-01. [임상시험, 60명] [PMID 17526166](https://pubmed.ncbi.nlm.nih.gov/17526166/) — 만성 중증간염 보조치료로서 산조인탕 임상 관찰.
+[^41]: Efficacy and safety of electroacupuncture combined with Suanzaoren decoction for insomnia following stroke: study protocol for a randomized controlled trial. Huang HL 외. _Trials_. 2021-07-24. [임상시험, 240명] [DOI 10.1186/s13063-021-05399-y](https://doi.org/10.1186/s13063-021-05399-y) [PMID 34496928](https://pubmed.ncbi.nlm.nih.gov/34496928/) — 뇌졸중 후 불면에 전침과 산조인탕 병용을 평가하는 무작위 대조시험 계획서.
+[^42]: Efficacy and safety of suanzaoren decoction for chronic insomnia disorder in adults: study protocol for randomised, double-blind, double-dummy, placebo-controlled trial. Zhou QH 외. _BMJ open_. 2017-04-04. [임상시험, 150명] [DOI 10.1136/bmjopen-2016-014280](https://doi.org/10.1136/bmjopen-2016-014280) [PMID 28377394](https://pubmed.ncbi.nlm.nih.gov/28377394/) — 성인 만성 불면장애에 대한 산조인탕 이중맹검·이중위약 무작위 대조시험 계획서.
+[^43]: A network meta-analysis of commercial Chinese polyherbal preparations for insomnia in the elderly: focusing on sleep quality and the neuro-immune axis. Liang R 외. _Frontiers in pharmacology_. 2026-08-07. [메타분석, 1851명] [DOI 10.3389/fphar.2026.1827554](https://doi.org/10.3389/fphar.2026.1827554) [PMID 42630409](https://pubmed.ncbi.nlm.nih.gov/42630409/) — 노인 불면에 쓰이는 복방 한약 제제의 네트워크 메타분석. 수면의 질과 신경-면역 축을 함께 평가.
+[^44]: Prescriptions of Chinese Herbal Medicines for Insomnia in Taiwan during 2002. Chen FP 외. _Evidence-based complementary and alternative medicine : eCAM_. 2011-01-01. [관찰연구, 16134명] [DOI 10.1093/ecam/nep018](https://doi.org/10.1093/ecam/nep018) [PMID 19339485](https://pubmed.ncbi.nlm.nih.gov/19339485/) — 대만 건강보험 자료에서 불면에 처방된 한약 패턴. 산조인탕이 상위 처방으로 확인된다.
+[^45]: Prescription patterns of Chinese herbal products for patients with sleep disorder and major depressive disorder in Taiwan. Chen YL 외. _Journal of ethnopharmacology_. 2015-08-02. [관찰연구, 22601명] [DOI 10.1016/j.jep.2015.05.045](https://doi.org/10.1016/j.jep.2015.05.045) [PMID 26068429](https://pubmed.ncbi.nlm.nih.gov/26068429/) — 수면장애·주요우울장애 환자의 한약 처방 패턴.
+[^46]: Effects of Chinese herbal medicines on dementia risk in patients with sleep disorders in Taiwan. Chen CJ 외. _Journal of ethnopharmacology_. 2021-01-10. [관찰연구, 11752명] [DOI 10.1016/j.jep.2020.113267](https://doi.org/10.1016/j.jep.2020.113267) [PMID 32822822](https://pubmed.ncbi.nlm.nih.gov/32822822/) — 수면장애 환자에서 한약 사용과 치매 위험의 연관. 장기 처방 안전성·유익성 신호.
+[^47]: Treatment of Insomnia With Traditional Chinese Herbal Medicine. Singh A 외. _International review of neurobiology_. 2017-01-01. [문헌 고찰] [DOI 10.1016/bs.irn.2017.02.006](https://doi.org/10.1016/bs.irn.2017.02.006) [PMID 28807167](https://pubmed.ncbi.nlm.nih.gov/28807167/) — 불면에 대한 전통 한약 치료를 개관한 신경과학 고찰.
+[^48]: Modified Zhibai Dihuang pill, a traditional Chinese medicine formula, on steroid withdrawal in systemic lupus erythematosus: A systematic review and meta-analysis. Dai L 외. _Journal of integrative medicine_. 2020-11-01. [메타분석, 1470명] [DOI 10.1016/j.joim.2020.08.007](https://doi.org/10.1016/j.joim.2020.08.007) [PMID 32907784](https://pubmed.ncbi.nlm.nih.gov/32907784/) — 가미지백지황환이 전신홍반루푸스의 스테로이드 감량에 기여. 지모-황백이 배오된 방제 수준의 상위 근거.
+[^49]: Effectiveness of Zhibai Dihuang pill (Chinese herbal formula) in combination with western drugs in the treatment of recurrent aphthous stomatitis: A systematic review and meta-analysis. Peng SL 외. _Medicine_. 2023-10-27. [메타분석, 669명] [DOI 10.1097/MD.0000000000035180](https://doi.org/10.1097/MD.0000000000035180) [PMID 37904377](https://pubmed.ncbi.nlm.nih.gov/37904377/) — 재발성 아프타구내염에서 지백지황환과 양약 병용의 효과. 음허화왕형 구강 병변 응용의 근거.
+[^50]: Efficacy of "Dihuang pill prescriptions" combined with conventional treatment for diabetic kidney disease: A network meta-analysis and systematic review. Lin M 외. _Medicine_. 2023-09-29. [메타분석, 3562명] [DOI 10.1097/MD.0000000000035290](https://doi.org/10.1097/MD.0000000000035290) [PMID 37773831](https://pubmed.ncbi.nlm.nih.gov/37773831/) — 지황환 계열 처방을 통상치료에 병용한 당뇨병성 신장질환 네트워크 메타분석.
+[^51]: [Effect of Zhibai Dihuang Pill on uPA of Uu-infection infertility patients]. Li X 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-12-01. [임상시험, 130명] [PMID 25632744](https://pubmed.ncbi.nlm.nih.gov/25632744/) — 우레아플라스마 감염 불임 환자에서 지백지황환이 uPA에 미치는 영향.
+[^52]: Traditional Chinese medicine therapy improves the survival of systemic lupus erythematosus patients. Ma YC 외. _Seminars in arthritis and rheumatism_. 2016-04-01. [관찰연구, 23084명] [DOI 10.1016/j.semarthrit.2015.09.006](https://doi.org/10.1016/j.semarthrit.2015.09.006) [PMID 26522135](https://pubmed.ncbi.nlm.nih.gov/26522135/) — 한약 치료를 병용한 전신홍반루푸스 환자의 생존 개선. 지백지황환이 상용 처방군에 포함된다.
+[^53]: Integrative therapy decreases the risk of lupus nephritis in patients with systemic lupus erythematosus: A population-based retrospective cohort study. Chang CM 외. _Journal of ethnopharmacology_. 2017-01-20. [관찰연구, 3142명] [DOI 10.1016/j.jep.2016.12.016](https://doi.org/10.1016/j.jep.2016.12.016) [PMID 27974236](https://pubmed.ncbi.nlm.nih.gov/27974236/) — 통합치료가 전신홍반루푸스 환자의 낭창신염 발생 위험을 낮춤.
+[^54]: Renal and survival benefits of seventeen prescribed Chinese herbal medicines against oxidative-inflammatory stress in systemic lupus erythematosus patients with chronic kidney disease: a real-world longitudinal study. Chen HT 외. _Frontiers in pharmacology_. 2024-01-03. [관찰연구, 1188명] [DOI 10.3389/fphar.2023.1309582](https://doi.org/10.3389/fphar.2023.1309582) [PMID 38235107](https://pubmed.ncbi.nlm.nih.gov/38235107/) — 만성콩팥병을 동반한 전신홍반루푸스 환자에서 17개 처방의 신장·생존 이득을 본 실사용 종단연구.
+[^55]: A novel model for exploring the correlation between patterns and prescriptions in clinical practice of traditional Chinese medicine for systemic lupus erythematosus. Liu CY 외. _Complementary therapies in medicine_. 2014-06-01. [관찰연구, 261명] [DOI 10.1016/j.ctim.2014.03.006](https://doi.org/10.1016/j.ctim.2014.03.006) [PMID 24906588](https://pubmed.ncbi.nlm.nih.gov/24906588/) — 전신홍반루푸스 임상에서 변증과 처방의 상관 구조를 모형화. 변증 층화 처방의 실증 자료.
+[^56]: Integrated therapy improve urinary total protein in patients with lupus nephritis: A case report. Wu PW 외. _Complementary therapies in medicine_. 2018-08-01. [증례 보고, 1명] [DOI 10.1016/j.ctim.2018.05.016](https://doi.org/10.1016/j.ctim.2018.05.016) [PMID 30012398](https://pubmed.ncbi.nlm.nih.gov/30012398/) — 낭창신염 환자에서 통합치료 후 요단백 감소.
+[^57]: Traditional Chinese medicine for idiopathic precocious puberty: A hospital-based retrospective observational study. Yu CH 외. _Complementary therapies in medicine_. 2014-04-01. [관찰연구, 3390명] [DOI 10.1016/j.ctim.2014.01.002](https://doi.org/10.1016/j.ctim.2014.01.002) [PMID 24731897](https://pubmed.ncbi.nlm.nih.gov/24731897/) — 특발성 성조숙증 아동의 한약 이용 실태. 지백지황환 계열이 주요 처방으로 확인된다.
+[^58]: Characteristics of traditional Chinese medicine usage in children with precocious puberty: A nationwide population-based study. Lin YC 외. _Journal of ethnopharmacology_. 2017-06-09. [관찰연구, 3495명] [DOI 10.1016/j.jep.2017.05.006](https://doi.org/10.1016/j.jep.2017.05.006) [PMID 28499829](https://pubmed.ncbi.nlm.nih.gov/28499829/) — 성조숙증 아동의 전국 규모 한약 처방 특성 분석.
+[^59]: Efficacy and mechanism of nourishing yin and purging fire therapy for central precocious puberty based on meta-analysis and network pharmacology. Ma Y 외. _Medicine_. 2023-12-01. [메타분석] [DOI 10.1097/MD.0000000000036395](https://doi.org/10.1097/MD.0000000000036395) [PMID 38050263](https://pubmed.ncbi.nlm.nih.gov/38050263/) — 자음사화(滋陰瀉火) 치법의 중추성 성조숙증 유효성과 기전 예측. 참가자 수는 원문에서 확인되지 않아 적지 않는다.
+[^60]: Botanical drug preparations and related East Asian medicine interventions for central and idiopathic central precocious puberty: an umbrella review of systematic reviews and meta-analyses. He Y 외. _Frontiers in pharmacology_. 2026-08-19. [체계적 고찰] [DOI 10.3389/fphar.2026.1697393](https://doi.org/10.3389/fphar.2026.1697393) [PMID 42688172](https://pubmed.ncbi.nlm.nih.gov/42688172/) — 중추성·특발성 중추성 성조숙증에 대한 한약 및 동아시아 의학 중재의 체계적 고찰·메타분석 우산형 검토.
+[^61]: Prescription patterns of Chinese herbal products for menopausal syndrome: analysis of a nationwide prescription database. Chen HY 외. _Journal of ethnopharmacology_. 2011-10-11. [관찰연구, 15486명] [DOI 10.1016/j.jep.2011.07.053](https://doi.org/10.1016/j.jep.2011.07.053) [PMID 21824510](https://pubmed.ncbi.nlm.nih.gov/21824510/) — 갱년기 증후군에 처방된 한약의 전국 처방 데이터 분석. 지모 배오 처방의 실제 사용 빈도를 보여준다.
+[^62]: A randomized, double-blind, controlled trial of a Chinese herbal formula (Er-Xian decoction) for menopausal symptoms in Hong Kong perimenopausal women. Zhong LL 외. _Menopause (New York, N.Y.)_. 2013-07-01. [임상시험, 108명] [DOI 10.1097/GME.0b013e31827cd3dd](https://doi.org/10.1097/GME.0b013e31827cd3dd) [PMID 23793167](https://pubmed.ncbi.nlm.nih.gov/23793167/) — 홍콩 폐경이행기 여성에서 이선탕의 갱년기 증상 개선을 본 무작위 이중맹검 대조시험. 지모가 배오된 갱년기 처방의 최상위 인체 근거.
+[^63]: Treatment of menopausal symptoms with Er-xian decoction: a systematic review. Chen HY 외. _The American journal of Chinese medicine_. 2008-01-01. [체계적 고찰, 677명] [DOI 10.1142/S0192415X08005746](https://doi.org/10.1142/S0192415X08005746) [PMID 18457358](https://pubmed.ncbi.nlm.nih.gov/18457358/) — 이선탕의 갱년기 증상 치료 근거를 종합한 초기 체계적 고찰.
+[^64]: Erxian decoction, a Chinese herbal formula, for menopausal syndrome: An updated systematic review. Wang Y 외. _Journal of ethnopharmacology_. 2019-04-24. [체계적 고찰, 1594명] [DOI 10.1016/j.jep.2019.01.010](https://doi.org/10.1016/j.jep.2019.01.010) [PMID 30658181](https://pubmed.ncbi.nlm.nih.gov/30658181/) — 이선탕의 갱년기 증후군 근거를 갱신한 체계적 고찰.
+[^65]: Effects of Chinese herbal formula Erxian decoction for treating osteoporosis: a systematic review. Li JY 외. _Clinical interventions in aging_. 2017-01-04. [체계적 고찰, 644명] [DOI 10.2147/CIA.S117597](https://doi.org/10.2147/CIA.S117597) [PMID 28115834](https://pubmed.ncbi.nlm.nih.gov/28115834/) — 골다공증에 대한 이선탕의 효과를 종합. 골밀도 지표 개선 신호를 보고한다.
+[^66]: Erxian decoction for postmenopausal osteoporosis: An updated systematic review and meta-analysis. Pyun J 외. _Journal of clinical densitometry : the official journal of the International Society for Clinical Densitometry_. 2026-07-01. [메타분석, 1269명] [DOI 10.1016/j.jocd.2026.101714](https://doi.org/10.1016/j.jocd.2026.101714) [PMID 42155162](https://pubmed.ncbi.nlm.nih.gov/42155162/) — 폐경후 골다공증에서 이선탕의 골밀도 개선을 갱신 평가한 메타분석.
+[^67]: The Effects of Er Xian Decoction Combined with Baduanjin Exercise on Bone Mineral Density, Lower Limb Balance Function, and Mental Health in Women with Postmenopausal Osteoporosis: A Randomized Controlled Trial. Li K 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022-06-30. [임상시험, 50명] [DOI 10.1155/2022/8602753](https://doi.org/10.1155/2022/8602753) [PMID 35815264](https://pubmed.ncbi.nlm.nih.gov/35815264/) — 폐경후 골다공증 여성에서 이선탕과 팔단금 병용이 골밀도·하지 균형·정신건강에 미치는 영향.
+[^68]: Efficacy of supplemented Er-xian decoction combined with acupoint application for poor ovarian response. Jiang GL 외. _Journal of physiology and pharmacology : an official journal of the Polish Physiological Society_. 2020-04-01. [임상시험, 80명] [DOI 10.26402/jpp.2020.2.09](https://doi.org/10.26402/jpp.2020.2.09) [PMID 32776907](https://pubmed.ncbi.nlm.nih.gov/32776907/) — 난소 저반응 환자에서 가미이선탕과 혈위첩부 병용의 효과.
+[^69]: [Clinical observation of bushen er'xian decoction in treating premature ovarian failure]. Lu XN 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-07-01. [임상시험, 60명] [PMID 18822906](https://pubmed.ncbi.nlm.nih.gov/18822906/) — 조기 난소부전에 보신이선탕을 적용한 임상 관찰.
+[^70]: Erxian tang--introduction of a Chinese herbal formula, clinical practice, and experimental studies. Li JJ 외. _Chinese journal of integrative medicine_. 2007-03-01. [문헌 고찰] [DOI 10.1007/s11655-007-0067-z](https://doi.org/10.1007/s11655-007-0067-z) [PMID 17578324](https://pubmed.ncbi.nlm.nih.gov/17578324/) — 이선탕의 처방 구성·임상 실제·실험 연구를 개관.
+[^71]: [Clinical practice guideline for postmenopausal osteoporosis with traditional Chinese medicine]. Xie YM 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-11-01. [임상진료지침] [DOI 10.19540/j.cnki.cjcmm.20210709.501](https://doi.org/10.19540/j.cnki.cjcmm.20210709.501) [PMID 34951191](https://pubmed.ncbi.nlm.nih.gov/34951191/) — 폐경후 골다공증의 한의 임상진료지침. 지모 배오 처방의 권고 위치를 확인할 수 있다.
+[^72]: A randomized double-blind placebo-controlled trial of a Chinese herbal medicine preparation (Jiawei Qing'e Fang) for hot flashes and quality of life in perimenopausal women. Xia Y 외. _Menopause (New York, N.Y.)_. 2012-02-01. [임상시험, 72명] [DOI 10.1097/gme.0b013e3182273177](https://doi.org/10.1097/gme.0b013e3182273177) [PMID 22089177](https://pubmed.ncbi.nlm.nih.gov/22089177/) — 폐경이행기 여성의 상열감과 삶의 질에 대한 가미청아방 무작위 이중맹검 위약대조 시험.
+[^73]: A randomized placebo-controlled trial on the effectiveness of an herbal formula to alleviate menopausal vasomotor symptoms. van der Sluijs CP 외. _Menopause (New York, N.Y.)_. 2009-03-01. [임상시험, 93명] [DOI 10.1097/gme.0b013e3181883dc1](https://doi.org/10.1097/gme.0b013e3181883dc1) [PMID 19057416](https://pubmed.ncbi.nlm.nih.gov/19057416/) — 갱년기 혈관운동 증상에 대한 복합 한약의 위약대조 시험. 유의한 차이를 보이지 않은 음성 결과로, 갱년기 한약 근거의 이질성을 보여준다.
+[^74]: Longitudinal analysis of associations between women's consultations with complementary and alternative medicine practitioners/use of self-prescribed complementary and alternative medicine and menopause-related symptoms, 2007-2010. Peng W 외. _Menopause (New York, N.Y.)_. 2016-01-01. [관찰연구, 10638명] [DOI 10.1097/GME.0000000000000479](https://doi.org/10.1097/GME.0000000000000479) [PMID 26057820](https://pubmed.ncbi.nlm.nih.gov/26057820/) — 여성의 보완대체의학 이용과 갱년기 관련 증상의 종단적 연관 분석.
+[^75]: Chinese traditional medicine (GuiZhi-ShaoYao-ZhiMu decoction) as an add-on medication to methotrexate for rheumatoid arthritis: a meta-analysis of randomized clinical trials. Feng C 외. _Therapeutic advances in chronic disease_. 2021-02-12. [메타분석, 1224명] [DOI 10.1177/2040622321993438](https://doi.org/10.1177/2040622321993438) [PMID 33633825](https://pubmed.ncbi.nlm.nih.gov/33633825/) — 메토트렉세이트에 계지작약지모탕을 추가했을 때 류마티스관절염 지표가 개선. 방제 전체의 효과이지 지모 단독 효과가 아니다.
+[^76]: Efficacy and Safety of GuiZhi-ShaoYao-ZhiMu Decoction for Treating Rheumatoid Arthritis: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Daily JW 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2017-10-01. [메타분석] [DOI 10.1089/acm.2017.0098](https://doi.org/10.1089/acm.2017.0098) [PMID 28609129](https://pubmed.ncbi.nlm.nih.gov/28609129/) — 계지작약지모탕의 류마티스관절염 유효성·안전성 메타분석. 참가자 수는 원문에서 확인되지 않아 적지 않는다.
+[^77]: Efficacy and safety of Guizhi-Shaoyao-Zhimu decoction in the treatment of rheumatoid arthritis: A protocol for systematic review and meta-analysis. Ye J 외. _Medicine_. 2021-03-05. [체계적 고찰] [DOI 10.1097/MD.0000000000024416](https://doi.org/10.1097/MD.0000000000024416) [PMID 33655915](https://pubmed.ncbi.nlm.nih.gov/33655915/) — 계지작약지모탕의 류마티스관절염 근거를 평가하기 위한 체계적 고찰·메타분석 계획서. 계획서이므로 결과 근거가 아니다.
+[^78]: Efficacy and tolerability of Guizhi-Shaoyao-Zhimu decoction in gout patients: a systematic review and Meta-analysis. Zhang Q 외. _Pharmaceutical biology_. 2020-12-01. [메타분석, 1056명] [DOI 10.1080/13880209.2020.1823426](https://doi.org/10.1080/13880209.2020.1823426) [PMID 33205687](https://pubmed.ncbi.nlm.nih.gov/33205687/) — 통풍 환자에서 계지작약지모탕의 효과와 내약성을 종합.
+[^79]: Clinical efficacy evaluation and potential mechanism prediction on Guizhi-Shaoyao-Zhimu decoction in the treatment of gouty arthritis based on meta-analysis, network pharmacology analysis, and molecular docking. Qu P 외. _Medicine_. 2023-11-24. [메타분석, 1633명] [DOI 10.1097/MD.0000000000035973](https://doi.org/10.1097/MD.0000000000035973) [PMID 38013344](https://pubmed.ncbi.nlm.nih.gov/38013344/) — 통풍성 관절염에서 계지작약지모탕의 임상 효능 평가와 기전 예측. 임상 부분은 사람 대상 무작위 시험의 종합이다.
+[^80]: Evaluation of the Effects of Guizhi Shaoyao Zhimu Decoction on Rheumatoid Arthritis by Ultrasound Combined with Electrophysiological Examination. Shi M 외. _Current medical imaging_. 2024-01-01. [임상시험, 64명] [DOI 10.2174/0115734056306597240920050552](https://doi.org/10.2174/0115734056306597240920050552) [PMID 39592909](https://pubmed.ncbi.nlm.nih.gov/39592909/) — 초음파와 전기생리 검사로 계지작약지모탕의 류마티스관절염 치료 효과를 평가.
+[^81]: Observation of the curative effect of Guizhi-Shaoyao-Zhimu decoction combined with methotrexate in the treatment of early rheumatoid arthritis based on ultrasonic evaluation: study protocol of a randomized, double-blind, controlled clinical trial. Shen J 외. _Trials_. 2021-11-03. [임상시험, 152명] [DOI 10.1186/s13063-021-05579-w](https://doi.org/10.1186/s13063-021-05579-w) [PMID 34732237](https://pubmed.ncbi.nlm.nih.gov/34732237/) — 조기 류마티스관절염에서 계지작약지모탕과 메토트렉세이트 병용을 초음파로 평가하는 무작위 이중맹검 시험 계획서.
+[^82]: Clinical Effect of the Guizhi Shaoyao Zhimu Decoction in the Treatment of Hyperuricemia. Yang Q 외. _BioMed research international_. 2022-08-24. [임상시험, 철회됨] [DOI 10.1155/2022/5186210](https://doi.org/10.1155/2022/5186210) [PMID 36060146](https://pubmed.ncbi.nlm.nih.gov/36060146/) — 고요산혈증에 대한 계지작약지모탕 임상 보고이나 2024년 철회되었다(철회 통지 [PMID 38230164](https://pubmed.ncbi.nlm.nih.gov/38230164/)). 유효 근거로 쓸 수 없으며 이에 근거한 주장도 함께 무효화한다.
+[^83]: Chinese herbal medicines for hyperthyroidism. Zen XX 외. _The Cochrane database of systematic reviews_. 2007-04-18. [체계적 고찰, 1770명] [DOI 10.1002/14651858.CD005450.pub2](https://doi.org/10.1002/14651858.CD005450.pub2) [PMID 17443591](https://pubmed.ncbi.nlm.nih.gov/17443591/) — 갑상선기능항진증에 대한 한약의 코크란 체계적 고찰. 근거의 질이 낮다는 결론을 함께 제시한다.
+[^84]: Clinical efficacy of Chinese herbal medicine formula for Graves' hyperthyroidism: A multicentre, randomized, double-blind, placebo-controlled clinical trial. Gan D 외. _Journal of ethnopharmacology_. 2025-02-10. [임상시험, 186명] [DOI 10.1016/j.jep.2024.119106](https://doi.org/10.1016/j.jep.2024.119106) [PMID 39550016](https://pubmed.ncbi.nlm.nih.gov/39550016/) — 그레이브스 갑상선기능항진증에 대한 한약 복합처방의 다기관 무작위 이중맹검 위약대조 시험.
+[^85]: Successful intervention with Chinese herbal medicine for hyperthyroidism: Two case reports and a literature review. Lin CH 외. _Explore (New York, N.Y.)_. 2021-07-01. [증례 보고, 2명] [DOI 10.1016/j.explore.2020.10.007](https://doi.org/10.1016/j.explore.2020.10.007) [PMID 33109498](https://pubmed.ncbi.nlm.nih.gov/33109498/) — 한약으로 갑상선기능항진증을 관리한 2례와 문헌 고찰.
+[^86]: The Utilization of Chinese Herbal Products for Hyperthyroidism in National Health Insurance System (NHIRD) of Taiwan: A Population-Based Study. Chang CC 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022-03-19. [관찰연구, 17707명] [DOI 10.1155/2022/5500604](https://doi.org/10.1155/2022/5500604) [PMID 35449810](https://pubmed.ncbi.nlm.nih.gov/35449810/) — 대만 건강보험 자료에서 갑상선기능항진증에 사용된 한약 제제 이용 양상.
+[^87]: Systematic Review of Adverse Effects from Herbal Drugs Reported in Randomized Controlled Trials. Lee JY 외. _Phytotherapy research : PTR_. 2016-09-01. [체계적 고찰, 15441명] [DOI 10.1002/ptr.5647](https://doi.org/10.1002/ptr.5647) [PMID 27196988](https://pubmed.ncbi.nlm.nih.gov/27196988/) — 무작위 대조시험에서 보고된 한약 이상반응을 체계적으로 수집. 소화기계 이상반응이 가장 흔함을 보여 지모의 고한(苦寒) 관련 주의와 부합한다.
+[^88]: Usage patterns and adverse experiences in traditional Korean medicine: results of a survey in South Korea. Shin HK 외. _BMC complementary and alternative medicine_. 2013-12-01. [관찰연구, 2000명] [DOI 10.1186/1472-6882-13-340](https://doi.org/10.1186/1472-6882-13-340) [PMID 24289266](https://pubmed.ncbi.nlm.nih.gov/24289266/) — 한국 한의약 이용 실태와 이상반응 경험 조사. 실제 진료 환경에서의 이상반응 빈도 참고치.
+[^89]: Hepatobiliary and pancreatic: Comparison between Chinese herbal medicine and Western medicine-induced liver injury of 1985 patients. Zhu Y 외. _Journal of gastroenterology and hepatology_. 2016-08-01. [관찰연구, 1985명] [DOI 10.1111/jgh.13323](https://doi.org/10.1111/jgh.13323) [PMID 26896664](https://pubmed.ncbi.nlm.nih.gov/26896664/) — 한약 유발 간손상과 양약 유발 간손상의 임상 양상 비교.
+[^90]: Differences in clinical characteristics among 726 patients with Chinese herbal medicine- or Western medicine-induced liver injury. Tan K 외. _Medicine_. 2022-08-12. [관찰연구, 726명] [DOI 10.1097/MD.0000000000029909](https://doi.org/10.1097/MD.0000000000029909) [PMID 35960048](https://pubmed.ncbi.nlm.nih.gov/35960048/) — 한약 또는 양약에 의한 약물유발 간손상 환자의 임상 특성 차이.
+[^91]: Chinese Herbal Medicine-induced Liver Injury. Ma X 외. _Journal of clinical and translational hepatology_. 2014-09-01. [문헌 고찰] [DOI 10.14218/JCTH.2014.00009](https://doi.org/10.14218/JCTH.2014.00009) [PMID 26355537](https://pubmed.ncbi.nlm.nih.gov/26355537/) — 한약 유발 간손상의 임상적 특징과 감별을 정리.
+[^92]: [Chinese guideline for diagnosis and management of drug-induced liver injury (2023 version)]. Technology Committee on DILI Prevention and Management, Chinese Medical Biotechnology Association; 외. _Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology_. 2023-04-20. [임상진료지침] [DOI 10.3760/cma.j.cn501113-20230419-00176-1](https://doi.org/10.3760/cma.j.cn501113-20230419-00176-1) [PMID 37248976](https://pubmed.ncbi.nlm.nih.gov/37248976/) — 약물유발 간손상 진단·관리에 관한 중국 지침(2023). 한약 복용 중 간기능 이상 발생 시 인과성 평가 절차의 기준.
+[^93]: The use of Chinese herbal medicines throughout the pregnancy life course and their safety profiles: a population-based cohort study. Xiong Y 외. _American journal of obstetrics & gynecology MFM_. 2023-05-01. [관찰연구, 199710명] [DOI 10.1016/j.ajogmf.2023.100907](https://doi.org/10.1016/j.ajogmf.2023.100907) [PMID 36813231](https://pubmed.ncbi.nlm.nih.gov/36813231/) — 임신 전 기간에 걸친 한약 사용과 안전성 프로파일을 본 대규모 인구기반 연구.
+[^94]: Safety of herbal medicines used in early gestations among the Chinese population: A population-based cohort study. Tan J 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2024-12-01. [관찰연구, 195824명] [DOI 10.1016/j.phymed.2024.156197](https://doi.org/10.1016/j.phymed.2024.156197) [PMID 39515097](https://pubmed.ncbi.nlm.nih.gov/39515097/) — 임신 초기 한약 사용의 안전성을 본 인구기반 코호트 연구.
+[^95]: Safety of Chinese herbal medicines during pregnancy. Liang B 외. _Journal of applied toxicology : JAT_. 2015-05-01. [체계적 고찰] [DOI 10.1002/jat.3108](https://doi.org/10.1002/jat.3108) [PMID 25663446](https://pubmed.ncbi.nlm.nih.gov/25663446/) — 임신 중 한약 안전성을 정리한 고찰. 참가자 수는 원문에서 확인되지 않아 적지 않는다.
+[^96]: Clinical outcomes and safety of Chinese herbal medicine in the treatment of hyperuricemia: A retrospective real-world study. Long Z 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2025-11-25. [관찰연구, 40653명] [DOI 10.1016/j.phymed.2025.157231](https://doi.org/10.1016/j.phymed.2025.157231) [PMID 40975036](https://pubmed.ncbi.nlm.nih.gov/40975036/) — 고요산혈증에 대한 한약 치료의 실사용 임상 결과와 안전성을 본 후향 연구.
+[^97]: 산조인탕치료가 여성갱년기 수면장애에 미치는 효과: 체계적 문헌고찰 및 메타분석. 전지희 외. _대한예방한의학회지_. 2020-04. [메타분석] [DOI 10.25153/spkom.2020.24.1.001](https://doi.org/10.25153/spkom.2020.24.1.001) — 갱년기 여성의 수면장애에 산조인탕이 유효함을 국내 자료로 종합. 지모가 배오된 방제 수준 근거로, 지모 단미의 효과로 환원할 수 없다.
+[^98]: 합병증을 동반하지 않은 2형 당뇨병 환자에 대한 백호가인삼탕과 혈당강하제 병행치료의 혈당 강하 효과 및 안전성 연구: 체계적 문헌 고찰과 메타분석. 신재익 외. _대한한방내과학회지_. 2021-09. [메타분석] [DOI 10.22246/jikm.2021.42.4.672](https://doi.org/10.22246/jikm.2021.42.4.672) — 백호가인삼탕을 혈당강하제에 병용했을 때의 혈당 개선과 안전성을 종합. 석고·지모·인삼·감초·갱미 전체의 효과이며 지모의 개별 기여는 분리되지 않았다.
+[^99]: 폐경기 안면홍조 증상에 대한 한약 처방 이선탕의 투여 경과 및 이상반응 보고: 증례보고 및 문헌고찰. 김보민 외. _대한한방내과학회지_. 2019-03. [증례 보고] [DOI 10.22246/jikm.2019.40.1.154](https://doi.org/10.22246/jikm.2019.40.1.154) — 이선탕 투여 중 발생한 이상반응을 함께 보고한 국내 증례. 지모 배오 처방의 실제 안전성 관찰 자료다.
+[^100]: 갱년기 여성의 안면홍조 증상에 대한 국내 한의학 연구 동향 분석. 홍누리 외. _대한한방부인과학회지_. 2020-02. [체계적 고찰] [DOI 10.15204/jkobgy.2020.33.1.086](https://doi.org/10.15204/jkobgy.2020.33.1.086) — 국내 갱년기 안면홍조 한의 연구의 중재·평가지표 분포를 정리. 상열감 영역 근거의 국내 지형을 보여준다.
