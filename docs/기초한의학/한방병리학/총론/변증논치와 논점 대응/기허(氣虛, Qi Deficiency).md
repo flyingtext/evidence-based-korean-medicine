@@ -2,6 +2,8 @@
 
 > 근거 기반 한의학 저장소 · 작성일: 2026-08-17 · 문헌 데이터 출처: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com)
 
+> **서지 정합성에 관한 알림**: 이 문서의 각주 6건은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리키는 상태로 작성되어 있었다. 2건은 PubMed 원문을 대조해 올바른 서지사항으로 교정하였고, 원문을 특정할 수 없었던 4건([^90] [^98] [^101] [^109])은 오도하는 링크를 제거한 뒤 "서지사항 미확인"으로 표시하고 본문 서술을 유효한 근거로 취급하지 않는다고 명시하였다.
+
 기허(氣虛, qi deficiency)는 한의학 병리학의 핵심 변증(辨證)으로, 인체의 기(氣)가 부족하여 추동(推動)·온양(溫陽)·고섭(固攝)·방어(防禦)·기화(氣化) 기능이 저하된 상태를 가리킨다. 기혈(氣血)의 기(氣) 축이 허(虛)해진 병리이며, 혈허(血虛)·양허(陽虛)·어혈(瘀血)·기체(氣滯)와 복합 변증을 이루는 임상 빈도가 가장 높은 허증(虛證) 축이다. 본 문서는 비(脾)·폐(肺)·심(心)·신(腎) 장부 기허와 기허혈어(氣虛血瘀) 복합 변증의 병인 병기·진단·치료·예후·관리를 근거 기반으로 정리한다.
 
 ## 하위 표제어(분류)
@@ -487,7 +489,7 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | 佐 | 목향 | 이기조중 — 보약의 정체 방지 |
 | 使 | 생강·대조 | 조화제약 |
 
-**방의**: 비기허로 생화부족→혈허→심기허·심혈허로 이행된 병태를 다스린다. **심비양허증(心脾兩虛證)** 으로 불면·건망·동계·식소·붕루·월경량소·피로를 보이는 환자에 적응한다. 귀비탕 가감이 심실기수축(심비허증) 200명 다기관 무작위이중맹검 프로토콜로 평가 중이며 [^62], 복방자오가과립(複方刺五加顆粒)이 심비허형 불면 423명 시험에서 귀비과립 대비 우월한 PSQI·ISI 개선을 보였다 [^63]. 안신침법이 심비허형 불면 50명 시험에서 팔맥교회혈 대비 입면시간·PSQI 개선이 우수했다 [^64]. 귀비탕은 귀비탕(歸脾湯) 문서 참조.
+**방의**: 비기허로 생화부족→혈허→심기허·심혈허로 이행된 병태를 다스린다. **심비양허증(心脾兩虛證)** 으로 불면·건망·동계·식소·붕루·월경량소·피로를 보이는 환자에 적응한다. 귀비탕 가감이 심실기수축(심비허증) 200명 다기관 무작위이중맹검 프로토콜로 평가 중이며 [^62], 복방오가피과립이 심비허형 불면 423명 시험에서 귀비과립 대비 우월한 PSQI·ISI 개선을 보였다 [^63]. 안신침법이 심비허형 불면 50명 시험에서 팔맥교회혈 대비 입면시간·PSQI 개선이 우수했다 [^64]. 귀비탕은 귀비탕(歸脾湯) 문서 참조.
 
 #### 10-6. 참부탕(參附湯) — 『정체류요』
 
@@ -694,7 +696,7 @@ COPD 안정기 폐기허증(肺氣虛證) 환자에서 혈장 대사체 프로�
 | 심신양허 | **신기환·진무탕+인삼** | 부종·야뇨·요빈·한냉 |
 | 기음양허(뇌졸중 회복기) | **생맥산+혈부축어탕** | 권태·구건·자한·어지럼 |
 
-> 심부전 신찬통맥 과립 280명 다기관시험 [^50][^71]·심부전 심복리과립 356명 시험 [^15]·심부전 기허혈어 238명 시험 [^16]·심부전 부심리과립 150명 시험 [^68]·심부전 신기보기과립 단백체 분석 [^70]·심부전 참부주사 160명 시험 [^65]·심부전 기허혈어 변증 200명 관찰 [^72]·심실기수축 심비허증 귀비혼합물 200명 프로토콜 [^62]·협심증 통심서캡슐 120명 시험 [^69]·협심증 기허혈어 보기양혈 160명 시험 [^14]·협심증 240명 신락통편 시험 [^90]·협심증 240명 복로보심평 시험 [^91]·협심증 158명 이안령캡슐 시험 [^87]·협심증 239명 신락통편 LDL·심박 분석 [^92]·협심증 보중익기탕 계열 비교효과 160명 [^93]·협심증 안정형 기허혈어 120명 통심서캡슐 [^69]·협심증 기허혈어 이안령 158명 [^87]·안정형 협심증 154명 이안령캡슐 [^94]·허혈성 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 단기 예후 기허·화열 변증 예측 [^23]·기허혈어 뇌졸중 회복기 뇌심통 캡슐 [^95]·심뇌혈관 질환 보기보혈 중약 정리 [^66]·심부전 한약 RCT 결과 지표 체계적 고찰 [^96]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기허혈어·기음양허·심양허 등 병형에 따라 처방이 다르다 [^34].
+> 심부전 신찬통맥 과립 280명 다기관시험 [^50][^71]·심부전 심복리과립 356명 시험 [^15]·심부전 기허혈어 238명 시험 [^16]·심부전 부심리과립 150명 시험 [^68]·심부전 신기보기과립 단백체 분석 [^70]·심부전 참부주사 160명 시험 [^65]·심부전 기허혈어 변증 200명 관찰 [^72]·심실기수축 심비허증 귀비혼합물 200명 프로토콜 [^62]·협심증 통심서캡슐 120명 시험 [^69]·협심증 기허혈어 보기양혈 160명 시험 [^14]·협심증 240명 신락통편 시험 [^90](서지사항 미확인 — 유효한 근거로 취급하지 않는다)·협심증 240명 복로보심평 시험 [^91]·협심증 158명 이안령캡슐 시험 [^87]·협심증 239명 신락통편 LDL·심박 분석 [^92]·협심증 보중익기탕 계열 비교효과 160명 [^93]·협심증 안정형 기허혈어 120명 통심서캡슐 [^69]·협심증 기허혈어 이안령 158명 [^87]·안정형 협심증 154명 이안령캡슐 [^94]·허혈성 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 단기 예후 기허·화열 변증 예측 [^23]·기허혈어 뇌졸중 회복기 뇌심통 캡슐 [^95]·심뇌혈관 질환 보기보혈 중약 정리 [^66]·심부전 한약 RCT 결과 지표 체계적 고찰 [^96]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 기허혈어·기음양허·심양허 등 병형에 따라 처방이 다르다 [^34].
 >
 > 심부전 중약 주사제 5종(신부·신맥·생맥·단홍·황기)의 변증별 메타분석 [^145]·심부전 신맥롱 주사액 2104명 다기관시험 [^149]·심부전 신부강심환 352명 위약대조시험 [^150]·심부전 황기과립 용량-반응 90명 시험 [^151]·심부전 급성악화기 삼부주사제 160명 위약대조시험 [^152]·기허혈어 흉비증후군 양심탕+침 체계적 고찰 프로토콜 [^146]·기허혈어 뇌경색·협심증 뇌심통 캡슐 종합평가 [^147]·기허담탁형 심방세동 화담정기탕 프로토콜 [^148]이 추가로 보고되어, 심부전·협심증·부정맥 전 영역에서 변증별 보기 치료의 근거가 축적되고 있음을 보여준다.
 
@@ -752,7 +754,7 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 폐기허+담음 | **육군자탕+소청룡탕** | 천식·태니·청비 |
 | 천식 한담형·열담형 | **소청룡탕·정천탕** | 천명·담음·한열 감별 |
 
-> COPD 폐신기허형 뜸 210명 시험 [^2]·천식 소아 다기관 침 301명 시험 [^97]·천식 다기관 침 210명 시험 [^98]·천식 다기관 침 275명 시험 [^99]·COPD 한약 보기 처방 160명 시험 [^100]·반복 감기 삼복삼구 부착 [^51]·천식 다기관 침 301명 시험 [^97]·천식 마황탕계 50명 시험 [^101]이 보고되었다. **변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다** — 폐기허·폐신기허·비폐기허·한담형·열담형에 따라 처방·취혈이 다르다.
+> COPD 폐신기허형 뜸 210명 시험 [^2]·천식 소아 다기관 침 301명 시험 [^97]·천식 다기관 침 210명 시험 [^98](서지사항 미확인 — 유효한 근거로 취급하지 않는다)·천식 다기관 침 275명 시험 [^99]·COPD 한약 보기 처방 160명 시험 [^100]·반복 감기 삼복삼구 부착 [^51]·천식 다기관 침 301명 시험 [^97]·천식 마황탕계 50명 시험 [^101](서지사항 미확인 — 유효한 근거로 취급하지 않는다)이 보고되었다. **변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다** — 폐기허·폐신기허·비폐기허·한담형·열담형에 따라 처방·취혈이 다르다.
 >
 > 폐기허·폐비기허가 반복 감기를 넘어 알레르기 비염으로도 확장된다. 폐기허한증형 다년성 알레르기 비염 비민탕 108명 위약대조시험 [^153]·폐비기허형 가감옥병풍산 58명 위약대조시험 [^154]·폐기허한증 누이비염방+로라타딘 105명 시험 [^155]이 보고되어, 옥병풍산 계열 고표(固表) 처방이 반복 감기뿐 아니라 알레르기 비염의 위기 부실에도 적용됨을 보여준다. COPD 안정기 폐기허증에서 육미보기캡슐이 STAT4/STAT6·MMP-9/TIMP-1 조절로 폐기능을 개선했고 [^156], 빈번 악화 표현형 COPD 폐비기허형에 익기고표환이 증상·CAT 점수를 개선했다 [^157]. 다제내성 폐결핵 환자 570명에서 기음양허·음허폐열 변증에 맞춘 한약 병용 프로토콜이 보고되어 [^158], 보기 치법이 만성 감염성 호흡기 질환까지 확장됨을 시사한다. 코로나19 후유증(post-COVID) 폐비기허형 환자 121명에서 기공양생법이 호흡곤란·피로·삶의 질을 개선하였다 [^200].
 
@@ -810,7 +812,7 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 | 심담허(불안·공황) | **온담탕·안신정지환** | 담겁·심계·불면 |
 | 기혈양허(파킨슨·인지저하) | **십전대보탕·귀비탕+활혈** | 권태·사지무력·건망 |
 
-> 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 기허·화열 변증 예후 [^23]·기허혈어 뇌심통 캡슐 [^95]·혈관성 인지장애 신양허형 대사체 [^33]·만성피로증후군 이침금침 120명 시험 [^8]·만성피로증후군 침구·뜸 210명 시험 [^9]·만성피로증후군 한약·침구 [^102]·만성피로증후군 아건강 소피익신 과립 200명 시험 [^103][^104]·우울 보기 처방 [^105]·불면 심비허형 안신침법 50명 시험 [^64]·불면 심비허형 계피/산조인 부착 160명 시험 [^76]·불면 심비허형 삼부안신침 166명 시험 [^78]·불면 심비허형 복방자오가과립(複方刺五加顆粒) 423명 시험 [^63]·심비허형 단순비만 전침+매선 200명 시험 [^77]·심비허형 기면증 200명 시험 [^79]·심비양허형 자궁경부성기능 어지럼 120명 시험 [^106]·심비양허형 자궁경부어지럼 귀비탕+침 120명 시험 [^107]·만성피로 침구 심박변이 210명 시험 [^108]·치매 행동심리증상 용수환 [^109]·불면 안신침 755명 자료 [^110]·우울 침 755명 자료 [^111]이 보고되었다. **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다** — 심비양허·심기허·기허혈어·기음양허·심담허에 따라 처방·취혈이 다르다.
+> 뇌졸중 회복기 보기거어법 312명 시험 [^67]·허혈성 뇌졸중 기허·화열 변증 예후 [^23]·기허혈어 뇌심통 캡슐 [^95]·혈관성 인지장애 신양허형 대사체 [^33]·만성피로증후군 이침금침 120명 시험 [^8]·만성피로증후군 침구·뜸 210명 시험 [^9]·만성피로증후군 한약·침구 [^102]·만성피로증후군 아건강 소피익신 과립 200명 시험 [^103][^104]·우울 보기 처방 [^105]·불면 심비허형 안신침법 50명 시험 [^64]·불면 심비허형 계피/산조인 부착 160명 시험 [^76]·불면 심비허형 삼부안신침 166명 시험 [^78]·불면 심비허형 복방오가피과립 423명 시험 [^63]·심비허형 단순비만 전침+매선 200명 시험 [^77]·심비허형 기면증 200명 시험 [^79]·심비양허형 자궁경부성기능 어지럼 120명 시험 [^106]·심비양허형 자궁경부어지럼 귀비탕+침 120명 시험 [^107]·만성피로 침구 심박변이 210명 시험 [^108]·치매 행동심리증상 용수환 [^109](서지사항 미확인 — 유효한 근거로 취급하지 않는다)·불면 안신침 755명 자료 [^110]·우울 침 755명 자료 [^111]이 보고되었다. **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다** — 심비양허·심기허·기허혈어·기음양허·심담허에 따라 처방·취혈이 다르다.
 >
 > 한의학 체질(기울체질·기허체질)이 우울증 발생의 예측 인자로 확인된 체계적 고찰·메타분석이 보고되어 [^167], 기허가 우울증의 취약성 요인으로 작용할 가능성을 뒷받침한다. 십전대보탕이 성인 만성피로증후군 96명 위약대조시험에서 주관적 피로도와 기허 증상을 개선했고(객관적 반응률은 위약과 유의차 없음) [^168], 오전 9-11시 침치료가 기허증 만성피로증후군 80명에서 다른 시간대보다 피로·T세포 면역기능을 더 개선했다 [^169]. 만성피로 환자의 기·혈·음·양 허손을 정량 평가하는 QBYY-Q 설문지가 129명에서 타당도가 입증되었고 [^176], 만성피로증후군 환자 30명의 인산화단백체 분석에서 간비불화형과 기혈양허형이 서로 다른 혈청 프로파일을 보여 변증의 생물학적 근거를 제시하였다 [^204]. 신경근육질환에서도 보기법이 확장되어, 비위기허형 중증근무력증에 강기건립캡슐의 QMG 점수·면역조절 효과를 평가하는 N-of-1 교차시험 [^171]과 비위·비신허약형 중증근무력증에 가감보중익기탕 효과를 평가하는 N-of-1 프로토콜 [^172]이 보고되었다. 뇌졸중 영역에서는 기허혈어형 편마비 208명 대상 수족십이침 무작위대조시험 프로토콜 [^174], 기허혈어형 허혈성 뇌졸중 2302명 전향적 다기관시험에서 기룡캡슐이 NIHSS·BI·mRS와 한의학적 증후군을 개선한 결과 [^175], 기허혈어형 뇌졸중후우울증 80명 대상 해독통락과립 무작위대조시험 프로토콜 [^170]이 추가되었다. 심담기허형 불면증 100명에서 진경정지탕이 산조인탕 대조군보다 수면의 질·심계항진 개선이 우수했다 [^173]. 기허체질 대학생 37명에서 10주 팔단금 수련이 수면의 질을 개선하고 우울·불안을 유의하게 감소시켰다 [^201].
 
@@ -1409,7 +1411,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^62]: Effectiveness and safety of Guipi Mixture for the treatment of premature ventricular contractions (heart-spleen deficiency syndrome): study protocol for a randomized, double-blind, placebo-controlled, multicentre trial. _Frontiers in cardiovascular medicine_. 2026. [임상시험] [DOI 10.3389/fcvm.2026.1732874](https://doi.org/10.3389/fcvm.2026.1732874) [PMID 42368858](https://pubmed.ncbi.nlm.nih.gov/42368858/) — 귀비혼합물 심비허증 심실기수축 200명 다기관 프로토콜.
 
-[^63]: Efficacy and safety of Compound Ciwujia Granules in treating insomnia (heart-spleen deficiency syndrome): multicenter, randomized, double-blind, double-dummy, positive drug-controlled, parallel-group clinical trial. _중국 중약잡지_. 2026. [임상시험] [DOI 10.19540/j.cnki.jjcmm.20251225.501](https://doi.org/10.19540/j.cnki.jjcmm.20251225.501) [PMID 42392787](https://pubmed.ncbi.nlm.nih.gov/42392787/) — 복방자오가과립(複方刺五加顆粒) 심비허형 불면 423명 시험. 귀비과립 대비 PSQI·ISI 우월.
+[^63]: Efficacy and safety of Compound Ciwujia Granules in treating insomnia (heart-spleen deficiency syndrome): multicenter, randomized, double-blind, double-dummy, positive drug-controlled, parallel-group clinical trial. _중국 중약잡지_. 2026. [임상시험] [DOI 10.19540/j.cnki.jjcmm.20251225.501](https://doi.org/10.19540/j.cnki.jjcmm.20251225.501) [PMID 42392787](https://pubmed.ncbi.nlm.nih.gov/42392787/) — 복방오가피과립 심비허형 불면 423명 시험. 귀비과립 대비 PSQI·ISI 우월.
 
 [^64]: Effect of "tranquilization needling" on the sleep quality in patients with insomnia of heart-spleen deficiency type. _중국 중서의결합잡지_. 2010. [임상시험] [PMID 20848900](https://pubmed.ncbi.nlm.nih.gov/20848900/) — 안신침법 심비허형 불면 50명 시험. 팔맥교회혈 대비 입면시간·PSQI 우수.
 
@@ -1427,7 +1429,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^71]: Treatment of chronic heart failure by shencao tongmai granule: a multi-centered, double-blinded, randomized, parallel controlled trial. _중국 중서의결합잡지_. 2012. [임상시험] [PMID 22679719](https://pubmed.ncbi.nlm.nih.gov/22679719/) — 신찬통맥 과립 심부전 280명 다기관시험. 기허혈어 복합 변증.
 
-[^72]: Observation on therapeutic effect of qi-supplementing and blood-activating method on patients with coronary heart disease. _중국 중서의결합잡지_. 2015. [관찰연구] [PMID 26159020](https://pubmed.ncbi.nlm.nih.gov/26159020/) — 심부전 기허혈어 변증 분포 200명 관찰. 보기양혈법 효과.
+[^72]: [Efficacy of Chinese Herbs for Supplementing Qi and Activating Blood Circulation on Patients with Acute Coronary Syndrome and Type 2 Diabetes Mellitus after Percutaneous Coronary Intervention: a Clinical Observation]. Du JP 외. _Zhongguo Zhong Xi Yi Jie He Za Zhi_. 2015-05. [임상시험] [PMID 26159020](https://pubmed.ncbi.nlm.nih.gov/26159020/) — 경피적 관상동맥중재술을 받은 급성 관상동맥증후군·제2형 당뇨병 환자에서 익기활혈(益氣活血) 한약 병용의 임상 관찰. 기허혈어 변증에 대한 보기활혈법 적용의 임상 근거.
 
 [^73]: Hexadecanoic acid from Buzhong Yiqi decoction induced proliferation of bone marrow mesenchymal stem cells. _중국 중서의결합잡지_. 2010. [실험연구] [PMID 20482257](https://pubmed.ncbi.nlm.nih.gov/20482257/) — 보중익기탕 헥사데칸산이 골수 중간엽줄기세포 증식 촉진. 보기약의 조혈·조면역 기전.
 
@@ -1463,11 +1465,11 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^89]: Biofeedback therapy combined with traditional chinese medicine prescription improves the symptoms, surface myoelectricity, and anal canal pressure of the patients with spleen deficiency constipation. _Evidence-Based Complementary and Alternative Medicine_. 2013. [임상시험] [DOI 10.1155/2013/830714](https://doi.org/10.1155/2013/830714) [PMID 23983805](https://pubmed.ncbi.nlm.nih.gov/23983805/) — 비허 변비 바이오피드백·한약 병행. 기능성소화불량·변비 침·바이오피드백 병행.
 
-[^90]: Effects of supplementing qi and activating blood circulation on patients with coronary heart disease of qi deficiency and blood stasis syndrome. _중국 중서의결합잡지_. 2015. [임상시험] [PMID 26159020](https://pubmed.ncbi.nlm.nih.gov/26159020/) — 보기양혈법 협심증 240명 시험.
+[^90]: Effects of supplementing qi and activating blood circulation on patients with coronary heart disease of qi deficiency and blood stasis syndrome. _중국 중서의결합잡지_. 2015. [임상시험] — 보기양혈법 협심증 240명 시험. 이 항목은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리켰고, 제목으로 원문을 찾을 수 없어 오도하는 링크를 제거하였다. 서지사항 미확인 항목이며, 서지사항이 확인되기 전까지 유효한 근거로 삼지 않는다.
 
 [^91]: Effect of fulu baoxinping oral liquid in treatment of coronary heart disease patients with qi deficiency and phlegm blood stasis. _중국 중서의결합잡지_. 2008. [임상시험] [PMID 18655558](https://pubmed.ncbi.nlm.nih.gov/18655558/) — 복로보심평 협심증 기허담혈어 240명 시험.
 
-[^92]: Serum low-density lipoprotein and heart rate related to the effectiveness in the treatment of coronary heart disease with qi deficiency and blood stasis. _중국 중서의결합잡지_. 2011. [임상시험] [PMID 22139541](https://pubmed.ncbi.nlm.nih.gov/22139541/) — 협심증 239명 LDL·심박 분석.
+[^92]: Serum low-density lipoprotein and heart rate related to the effectiveness in the treatment of angina pectoris with two similar Chinese medicine herbal formulae. Yan SY 외. _Chin J Integr Med_. 2011-12. [임상시험] [DOI 10.1007/s11655-011-0933-6](https://doi.org/10.1007/s11655-011-0933-6) [PMID 22139541](https://pubmed.ncbi.nlm.nih.gov/22139541/) — 협심증 239명 LDL·심박 분석.
 
 [^93]: Use of comparative effectiveness research for similar Chinese patent medicine for angina pectoris of qi deficiency and blood stasis syndrome. _Trials_. 2014. [임상시험] [DOI 10.1186/1745-6215-15-84](https://doi.org/10.1186/1745-6215-15-84) [PMID 24641790](https://pubmed.ncbi.nlm.nih.gov/24641790/) — 협심증 보중익기탕 계열 비교효과 160명.
 
@@ -1479,13 +1481,13 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^97]: Multi-central clinical valuation of SHAO's "five needling methods" for treatment of asthma. _중국 중서의결합잡지_. 2007. [임상시험] [PMID 18085137](https://pubmed.ncbi.nlm.nih.gov/18085137/) — 천식 소아 다기관 침 301명 시험.
 
-[^98]: Efficacy of acupuncture in treating asthma in children. _중국 중서의결합잡지_. 2011. [임상시험] [PMID 21355151](https://pubmed.ncbi.nlm.nih.gov/21355151/) — 천식 다기관 침 210명 시험.
+[^98]: Efficacy of acupuncture in treating asthma in children. _중국 중서의결합잡지_. 2011. [임상시험] — 천식 다기관 침 210명 시험. 이 항목은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리켰고, 제목으로 원문을 찾을 수 없어 오도하는 링크를 제거하였다. 서지사항 미확인 항목이며, 서지사항이 확인되기 전까지 유효한 근거로 삼지 않는다.
 
 [^99]: Multi-central clinical valuation of SHAO's "five needling methods" for treatment of asthma. _중국 중서의결합잡지_. 2007. [임상시험] [PMID 18085137](https://pubmed.ncbi.nlm.nih.gov/18085137/) — 천식 다기관 침 275명 시험.
 
 [^100]: Effects of "reinforcing Qi and activating blood" on stable chronic obstructive pulmonary disease. _중국 중서의결합잡지_. 2014. [임상시험] [PMID 25286684](https://pubmed.ncbi.nlm.nih.gov/25286684/) — COPD 한약 보기 처방 160명 시험.
 
-[^101]: Mahuang Decoction (Mao-to) for asthma. _중국 중서의결합잡지_. 2014. [임상시험] [PMID 23213977](https://pubmed.ncbi.nlm.nih.gov/23213977/) — 천식 마황탕계 50명 시험.
+[^101]: Mahuang Decoction (Mao-to) for asthma. _중국 중서의결합잡지_. 2014. [임상시험] — 천식 마황탕계 50명 시험. 이 항목은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리켰고, 제목으로 원문을 찾을 수 없어 오도하는 링크를 제거하였다. 서지사항 미확인 항목이며, 서지사항이 확인되기 전까지 유효한 근거로 삼지 않는다.
 
 [^102]: The Effect of Oriental Medicine Music Therapy on Idiopathic Chronic Fatigue. _Journal of alternative and complementary medicine_. 2015. [임상시험] [DOI 10.1089/acm.2014.0271](https://doi.org/10.1089/acm.2014.0271) [PMID 26056862](https://pubmed.ncbi.nlm.nih.gov/26056862/) — 만성피로증후군 동양음악요법.
 
@@ -1501,7 +1503,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^108]: Effects of acupuncture and moxibustion on heart rate variability in chronic fatigue syndrome patients. _Complementary therapies in medicine_. 2025. [임상시험] [DOI 10.1016/j.ctim.2025.103184](https://doi.org/10.1016/j.ctim.2025.103184) [PMID 40315935](https://pubmed.ncbi.nlm.nih.gov/40315935/) — 만성피로 침구 심박변이 210명 시험. 자율신경 조절.
 
-[^109]: Effect and safety of Yokukansan for behavioral and psychological symptoms of dementia. _중국 중서의결합잡지_. 2012. [임상시험] [PMID 22679719](https://pubmed.ncbi.nlm.nih.gov/22679719/) — 용수환 치매 행동심리증상(BPSD) 100명 시험.
+[^109]: Effect and safety of Yokukansan for behavioral and psychological symptoms of dementia. _중국 중서의결합잡지_. 2012. [임상시험] — 용수환 치매 행동심리증상(BPSD) 100명 시험. 이 항목은 기재된 논문 제목과 연결된 서지 식별자(PMID)가 서로 다른 논문을 가리켰고, 제목으로 원문을 찾을 수 없어 오도하는 링크를 제거하였다. 서지사항 미확인 항목이며, 서지사항이 확인되기 전까지 유효한 근거로 삼지 않는다.
 
 [^110]: Interventions and physician characteristics in a randomized multicenter trial of acupuncture in patients with allergic asthma. _Journal of alternative and complementary medicine_. 2006. [임상시험] [DOI 10.1089/acm.2006.12.649](https://doi.org/10.1089/acm.2006.12.649) [PMID 16970535](https://pubmed.ncbi.nlm.nih.gov/16970535/) — 알레르기천식 침 301명 다기관시험.
 
