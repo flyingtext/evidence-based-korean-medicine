@@ -1,215 +1,524 @@
 # 연호색(延胡索, Corydalis Rhizoma)
 
-연호색(延胡索, *Corydalis yanhusuo* W. T. Wang)은 현호색(玄胡索)·원호(元胡)라고도 부르며, 양귀비과(현호색과, Papaveraceae) 현호색속(*Corydalis*) 식물의 건조 괴경(塊莖)을 약재로 사용한다. 본초학적으로 활혈(活血)·이기(理氣)·지통(止痛)을 주 효능으로 삼아, 기체혈어(氣滯血瘀)로 인한 제반 통증을 다루는 대표적인 진통·진정 약재이다. 주요 유효 성분은 이소퀴놀린( isoquinoline) 계열 알칼로이드로, 테트라하이드로팔마틴(tetrahydropalmatine, THP)·데하이드로코리달린(dehydrocorydaline, DHC)·프로토핀(protopine)·팔마틴(palmatine)·코리달린(corydaline) 등이 함유되어 있다. 본 문서는 연호색의 기원·포제·약리·임상 적용·안전성과 하위 표제어를 근거 기반으로 정리한다.
+연호색(延胡索, *Corydalis yanhusuo* W. T. Wang)은 현호색(玄胡索)·원호(元胡)라고도 부르며, 양귀비과(현호색과, Papaveraceae) 현호색속(*Corydalis*) 식물의 건조 괴경(塊莖)을 약재로 사용한다. 본초학적으로 활혈(活血)·이기(理氣)·지통(止痛)을 주 효능으로 삼아 기체혈어(氣滯血瘀)로 인한 제반 통증을 다루는 대표적인 진통 약재이며, 대만 전국민 건강보험 처방 자료에서 원발성 월경곤란증 처방의 33.1%에 등장할 만큼 실제 임상에서 광범위하게 쓰인다[^40]. 주요 성분은 이소퀴놀린(isoquinoline) 계열 알칼로이드로, 테트라하이드로팔마틴(tetrahydropalmatine, THP)·데하이드로코리달린(dehydrocorydaline, DHC)·프로토핀(protopine)·팔마틴(palmatine)·코리달린(corydaline) 등이 함유되어 있다[^1][^3][^5].
 
-## 목차
+이 문서는 연호색을 다루는 다른 본초 문서와 달리 **한 가지 임상 논점을 문서의 축으로 삼는다.** 연호색은 "정제된 단일 성분의 임상·독성 자료가 약재 자체의 근거로 잘못 읽히는" 오류가 가장 빈발하는 본초다. 주성분 THP는 정제 형태(l-THP, 로툰딘rotundine, dl-THP)로 진통제·진정제·항중독제 개발이 진행됐고, 코리달린은 표준화 추출물 의약품(DA-9701)의 지표 성분으로 등재되어 있다. 이 문서는 그 자료들을 소개하되, **어느 것이 연호색 전탕액(煎湯液)의 근거이고 어느 것이 아닌지를 매 항목마다 구분해 표시한다.**
 
-- 기원 및 품종
-- 포제(炮製)
-- 유효 성분 및 약리 작용
-- 약동학(藥動學)
-- 전통 효능과 변증 적용
-- 임상 적용
-  - 통증 질환
-  - 위장관 질환
-  - 심혈관 질환
-  - 부인과 질환
-  - 암성 통증
-  - 불안·수면·중독
-- 처방 배합(약쌍·복방)
-- 용량·용법
-- 안전성 및 주의사항
-- 하위 표제어
-- Q&A
+## 이 문서의 근거 3층 구분
 
-## 기원 및 품종
+본문의 모든 임상 서술은 아래 세 층 가운데 어디에 속하는지를 밝힌다. 세 층은 근거의 성질이 서로 다르며, **상위 층의 결과를 하위 층(연호색 단미 효능)으로 환원해 읽어서는 안 된다.**
 
-연호색(延胡索)은 양귀비과(현호색과, Papaveraceae) 현호색속(*Corydalis*) 여러해살이풀의 건조 괴경(塊莖)을 약재로 쓰며, 학명은 *Corydalis yanhusuo* W. T. Wang이다. 중국 저장(浙江)·쓰촨(四川)·안후이(安徽) 등이 주산지이고, 한국·일본 등에도 자생 또는 재배된다. 이름은 '현(玄)'이 검을 현, '호(胡)'가 오랑캐 호를 써 오랑캐 땅에서 온 검은 알줄기라는 뜻에서 유래하였고, 연호색(延胡索)·원호(元胡)로도 표기한다[^1][^2].
+| 층 | 정의 | 이 문서에서의 표기 | 임상 해석의 한계 |
+|---|---|---|---|
+| **①단미 직접 근거** | 연호색(전탕액·분말·외용 패치) 자체를 인체에 투여한 연구 | `[단미]` | 연호색의 효능·안전성에 직접 적용 가능 |
+| **②성분 근거** | 정제·표준화된 THP·코리달린·DA-9701 등 단일 성분/표준화 추출물의 인체 자료 | `[성분]` | 투여 경로·용량·기질(matrix)이 달라 약재로 환원 불가 |
+| **③배오·질환군 근거** | 연호색이 들어간 복방(復方)·첩부제·질환군 단위 연구 | `[배오]` | 방제 전체의 효과이지 연호색 단독의 효과가 아님 |
 
-현호색속은 전 세계에 약 71종이 분포하며, 이 가운데 27종이 약용으로 쓰이지만 약전과 표준마다 명칭과 기원 식물이 서로 다른 동물이명(同物異名)·이물동명(異物同名) 현상이 심하다[^3]. 따라서 교과서적 표준 표기인 '연호색(延胡索, *Corydalis yanhusuo*)'을 기준으로 하되, 일부 지역에서는 근연종인 *C. decumbens*(엎는현호색)·*C. ternata*(현삼)·*C. humosa*·*C. bungeana*·*C. cava* 등을 연호색류로 함께 다루기도 한다[^4][^5][^6]. 한국 민간에서는 황근초(*Corydalis speciosa* Max)를 연호색류 약초로 섭취해 온 사례가 보고되어 있어 기원 식물 확인이 임상적으로 중요하다[^7].
+> **근거 한계 명시**: 위 구분은 근거의 성질을 나누는 임상 틀이지, 세 층이 동일한 근거수준을 갖는다는 뜻이 아니다. ①층 인체 근거는 현재 매우 적고, 이 문서 인용의 다수는 ②·③층이다.
 
-품질 관리 측면에서 현호색은 외형·현미경 관찰뿐 아니라 화학적 성분 기반의 정밀한 표준 확립이 시급하며, 근적외선 분광법(NIRS)이나 DART-MS 등 신속 분석법이 산지 판별과 주요 알칼로이드 정량에 활용될 수 있다[^3][^8][^9].
+---
 
-## 포제(炮製)
+## 제1편 기원·품종·포제·품질
 
-연호색은 전통적으로 식초(醋)로 볶는 초제(醋製)를 거쳐 약용하며, 초제는 진통 유효 성분의 용출과 흡수를 높이는 핵심 포제법으로 인정받는다[^10][^11]. 식초로 포제하면 3차 알칼로이드(tertiary alkaloids) 함량이 증가하고, 테트라하이드로팔마틴(THP) 함량이 유지되거나 소폭 증가하며 수분 함량은 감소한다[^12][^13]. 반면 중국약전 표준법으로 포제하면 알칼로이드 종류가 11종에서 2종으로 유의하게 줄고 코리달린(corydaline)의 구조적 변화가 나타나, 전통 포제가 독성을 낮추는 과학적 근거로 제시된다[^14].
+### 1-1. 기원과 학명
 
-초제와 주제(酒製, 술 포제)는 조직 분포 양상을 달리한다. 식초 포제는 심장·신장·뇌에서 데하이드로코리달린(DHC)의 도달 시간(Tmax)을 유의하게 늘려 지속적 노출을, 술 포제는 간·비장·폐에서 프로토핀과 DHC의 Tmax를 줄이되 전 조직에서 THP의 Tmax를 늘리는 경향을 보인다[^15]. 따라서 치료 목적에 따라 포제법을 선택하는 것이 임상적으로 의미 있다. 신선한 연호색은 4~5mm 두께로 절단한 뒤 70~80°C에서 건조하거나 전자레인지로 건조할 때 수성·에탄올 추출물과 유효 성분 함량이 가장 높아 초기 가공 표준으로 권장된다[^16]. 초제의 최적 조건은 목적에 따라 다른데, 수성 전탕액 제조 시에는 식초가 약재 중심까지 침투하도록 충분히 가열하고, 알칼로이드 추출물 제조 시에는 물과 1:1로 희석한 식초로 가볍게 가열하는 것이 효율적이다[^17].
+연호색은 현호색속 여러해살이풀의 건조 괴경을 약재로 쓰며, 정품(正品)의 학명은 *Corydalis yanhusuo* W. T. Wang이다. 중국 저장(浙江)·쓰촨(四川)·안후이(安徽)가 주산지이고, 한국·일본에도 근연종이 자생한다. 이름의 '현(玄)'은 검을 현, '호(胡)'는 오랑캐 호로, 북방에서 온 검은 알줄기라는 뜻에서 유래했으며 연호색(延胡索)·원호(元胡)로도 표기한다[^1].
 
-## 유효 성분 및 약리 작용
+정품의 기준은 역사적으로 고정되어 있지 않았다. 문헌사 연구에 따르면 연호색의 기원 종(種)·산지·수확 시기·가공법(건조 → 자숙蒸熟)은 시대에 따라 반복적으로 바뀌었으며, 오늘날의 저장산 *C. yanhusuo* 기준은 비교적 후대에 확립된 것이다[^4]. 따라서 고전 문헌의 연호색 기재를 현재 약전(藥典) 규격의 연호색과 그대로 등치시켜 읽는 데에는 주의가 필요하다.
 
-연호색의 유효 성분은 이소퀴놀린( isoquinoline) 계열 알칼로이드가 주축이며, 프로토베르베린(protoberberine)·아포르핀(apor phine) 계열로 대별된다[^18][^19]. 대표 성분은 테트라하이드로팔마틴(tetrahydropalmatine, THP)·데하이드로코리달린(dehydrocorydaline, DHC)·프로토핀(protopine)·팔마틴(palmatine)·코리달린(corydaline)·코리놀린(corynoline) 등이고, 그 밖에 글라우신(glaucine)·코리불빈(corybulbine)·비쿠쿨린(bicuculline) 등이 동정된다[^20][^21][^22].
+### 1-2. 품종 혼란 — 이물동명(異物同名)의 임상적 위험
 
-**진통·진정 작용** — 연호색 알칼로이드는 중추신경계의 도파민 시스템을 통해 통증을 조절하며, THP는 도파민 D1·D2 수용체 길항 작용으로 진통·진정 효과를 나타낸다[^18][^23]. 전통 약재에서 유래한 알칼로이드 화합물이 기존 마약성 진통제와는 다른 새로운 기전의 진통 효과를 가진다는 점이 주목받고 있다[^24]. 가원청환(加元清丸) 등 현호색 복합 제제는 염증성 통증과 골암성 통증을 유의하게 완화하면서도 급성 독성이 없고 장기 투여 시에도 신체적 의존성을 유발하지 않아 비마약성 진통제로서의 가능성을 보인다[^25].
+현호색속은 전 세계에 다수 분포하며 상당수가 약용되지만, 약전과 지역 표준마다 명칭과 기원 식물이 달라 동물이명(同物異名)·이물동명(異物同名) 현상이 심하다[^2]. 속(屬) 전체의 알칼로이드 조성을 정리한 체계적 고찰에서도 종(種)에 따라 함유 알칼로이드의 종류와 비율이 크게 갈리는 것이 확인된다[^3].
 
-**항염·항알레르기 작용** — THP는 리포폴리사카라이드(LPS) 자극 하에서 전염증 매개물질의 발현을 억제하고[^26], *Corydalis heterocarpa* 유래 리바노리딘(libanoridin)은 비만세포(mast cell)에서 IL-1β·IL-6·IL-8·TNF-α·COX-2 발현을 농도 의존적으로 억제한다[^27]. 같은 식물에서 얻은 OMC((2'S,7'S)-O-(2-methylbutanoyl)-columbianetin)는 히스타민·트립타제 방출을 억제하고 알레르기성 비염 모델에서 IgE와 염증 세포 침윤을 줄인다[^28]. 프로토핀은 항염·항혈소판·항암·진통·혈관 확장·항콜린에스테라제·신경 보호·간 보호 등 광범위한 약리 활성을 보유한 것으로 종합 검토되었다[^29].
+| 기원 식물 | 한국 명칭 | 임상적 유의점 |
+|---|---|---|
+| *Corydalis yanhusuo* | 연호색(延胡索)·현호색 | 문서의 기준 종. 저장산을 품질 기준으로 삼는다[^1][^4] |
+| *Corydalis decumbens* | 복지연호색(伏地延胡索) | 중국에서 별도 약재로 유통. 알칼로이드 조성이 다르다[^13] |
+| *Corydalis ternata* | 들현호색 | 한국 자생종. 연호색 대용으로 유통되기도 한다 |
+| *Corydalis humosa* | — | 별개 종. 신규 알칼로이드가 보고되어 있다[^12] |
+| *Corydalis speciosa* | 산괴불주머니(민간에서 '황근초') | **간독성 증례가 보고된 종.** 연호색으로 오인 섭취 금지[^6] |
 
-**위장관 보호** — 현호색 알칼로이드는 위궤양으로 변화된 대사체 프로파일을 기저 수준으로 회복시키며, 특히 스핑고포스포지질 및 지방산 대사 경로를 조절해 위궤양을 치료한다[^30]. 안류산(安乳散)에 풍부한 리소포스파티드산(LPA)이 스트레스성 위궤양을 유의하게 감소시키는 기전에 현호색 성분이 핵심적으로 기여한다[^31].
+한국에서는 산괴불주머니(*Corydalis speciosa* Max)를 민간 약초로 반복 섭취한 환자에서 황달과 간수치 상승을 동반한 **급성 담즙정체성 간염** 이 발생했고, 중단 후 호전되었다가 재섭취 시 재발한 증례가 보고되어 있다[^6]. 이는 "현호색속이면 연호색"이라는 통념이 실제 환자에게 해를 입힌 국내 사례로, **기원 식물 확인은 이 약재에서 이론이 아니라 안전 관리 항목이다.**
 
-**심혈관 보호** — 미국삼(Panax quinquefolius)과 현호색(Corydalis tuber) 복합 추출물인 Shenyuan·EPC는 소포체 스트레스(ERS)와 산화 스트레스를 억제하고 Bcl-2/Bax 비를 조절하며 caspase-3 활성화를 막아 심근세포 사멸을 줄이고 경색 크기를 제한한다[^32][^33]. 시스템 생물학적 분석에서 천궁(川芎)·자단향(降眞香)·연호색이 심혈관 질환 관련 29개의 공통 타겟(52.7%)을 공유하는 '다성분-다타겟' 기전이 입증되었다[^34].
+> **근거 한계 명시**: 위 표는 유통·감별의 임상 틀이지 각 종의 효능이 동일한 근거수준으로 입증되었다는 뜻이 아니다. 특히 *C. decumbens*·*C. ternata*의 인체 유효성 근거는 확인되지 않는다.
 
-**항암·골다공증 등** — 현호색 단백질 분획물이 자궁경부암 HeLa 세포의 미토콘드리아 활성을 용량 의존적으로 억제하고[^35], *C. ternata*(현삼) 유래 트리테르페노이드는 여러 암세포주에 세포독성을 보이며 미세아교세포(BV-2)에서 NO 생성을 억제한다[^5]. *C. turtschaninovii* 뿌리껍질 추출물은 파골세포 증식을 억제하고 골모세포·연골세포 분화를 촉진해 항골다공증 가능성을 보인다[^36]. 최근 *C. yanhusuo*가 전립선암에서 miR-192 경로를 표적하는 기전 연구도 보고되었다[^37].
+### 1-3. 포제(炮製) — 초제(醋製)의 근거 수준
 
-## 약동학(藥動學)
+연호색은 전통적으로 식초로 볶는 초제(醋製)를 거쳐 약용한다. 초제의 근거는 **화학적 근거(성분 조성 변화)에 국한되며, 초연호색과 생연호색을 인체에서 직접 비교한 무작위 대조 시험은 확인되지 않는다.** 이 점을 먼저 밝힌다.
 
-연호색 알칼로이드는 경구 투여 후 혈뇌장벽(BBB)을 통과하여 뇌 조직에 분포하며, 원호지통(元胡止痛) 추출물 형태로 투여할 때 현호색 단미 추출물보다 혈장과 뇌 내 AUC가 유의하게 높고 소실률(CL)이 낮아 중춞성 진통·진정 효과의 전달 효율이 높다[^38]. THP·DHC·프로토핀 등 주요 성분의 약동학은 제형과 포제에 따라 크게 달라지는데, 초임계 CO₂ 추출 염산염 제형(CDAs-SFE/HCl)은 유효 성분인 프로토핀과 THP의 Cmax·AUC·생체이용률을 유의하게 높이면서도 독성 성분인 비쿠쿨린의 생체이용률은 낮춰 안전성과 유효성을 동시에 최적화한다[^39]. 자가유화 약물전달시스템(SEDDS) 제형은 프로토핀 생체이용률을 209.7%, THP 생체이용률을 133.2%로 시판 정제 대비 유의하게 증가시킨다[^40].
+화학 분석 수준에서 확인된 사실은 다음과 같다.
 
-연호색 추출물은 단일 성분 투여보다 DHC의 흡수를 빠르게 하고 배설을 늦춰 생체 이용률을 개선하며, 이는 추출물 내 다른 알칼로이드가 P-당단백질(P-gp)이나 P450 효소와 경쟁하는 상호작용의 결과로 해석된다[^41]. 약물 대사 효소 측면에서 연호색 총 알칼로이드 추출물은 용량 의존적으로 CYP2E1·CYP3A1·CYP1A2·CYP2C11의 활성과 mRNA를 유의하게 증가시키되 CYP2D1에는 영향을 주지 않아, 이들 효소로 대사되는 타 약물과의 병용 시 혈중 농도 변동 가능성을 고려해야 한다[^42]. 기능성 소화불량 치료제 DA-9701(현호색·함께자 복합)은 CYP2D6·UGT1A1을 일부 억제하지만 volume per dose index가 1.16 L/dose로 임상적으로 강력한 억제제로 작용할 가능성은 낮다[^43]. 한편 현호색 알칼로이드는 OATP1B1 등 수송체를 억제해 약물-약물 상호작용 예측의 대상이 된다[^44].
+- 식초·술 포제는 알칼로이드 총량과 조성 비율을 변화시키며, 3차 알칼로이드(tertiary alkaloids)의 함량 프로파일이 생품과 달라진다[^17].
+- 산지별 생품·포제품을 비교한 정량 분석에서 주요 활성 성분의 함량이 포제에 따라 변동한다[^18].
+- GC/MS 분석에서 약전 표준법으로 포제한 시료는 검출 알칼로이드의 종류가 생품보다 크게 줄고 코리달린의 구조적 변화가 관찰된다[^19]. 이는 포제가 성분을 "증가"시키기만 하는 것이 아니라 **선택적으로 감소·변형시키는 공정** 임을 뜻한다.
+- 초가공(初加工) 단계에서 절단 두께와 건조 온도가 추출물 수율과 성분 함량을 좌우한다[^20].
+- 초제의 최적 조건은 목적물에 따라 다르며, 수성 전탕액용과 알칼로이드 추출물용의 최적 조건이 일치하지 않는다[^21].
+- 연호색의 포제·배오를 종합한 문헌 고찰은 초제를 가장 합리적인 포제법으로 평가하나, **그 근거의 다수가 비임상 자료** 임을 함께 기술한다[^22].
 
-## 전통 효능과 변증 적용
+**임상적 결론**: 초연호색을 쓰는 관행은 화학적으로 합리적 근거를 갖지만, "초제하면 진통 효과가 더 좋다"는 명제를 뒷받침하는 **인체 비교 근거는 확인되지 않는다.** 임상에서는 관행과 규격(약전 초연호색)을 따르되, 효과 차이를 환자에게 단정적으로 설명하지 않는 것이 정직한 태도다.
 
-연호색은 교과서적으로 활혈(活血)·이기(理氣)·지통(止痛)의 효능을 가지며, 기체(氣滯)·혈어(血瘀)로 인한 제반 통증에 널리 쓰인다. 본초문헌에서 '혈중 기약(血中氣藥)'으로 불리며, 한랭(寒冷)으로 응체된 기혈(氣血)을 풀고 경락(經絡)을 소통시키는 작용이 강조된다[^10][^11]. 본초적 성미는 온(溫)·신(辛)·고(苦)에 들어가고, 귀경(歸經)은 간(肝)·비(脾) 경락에 작용하는 것으로 기술된다.
+### 1-4. 품질관리와 오염
 
-변증 적용은 크게 두 축으로 나뉜다. 첫째, **기체혈어형(氣滯血瘀型)** 통증 — 흉·협통(胸脇痛)·위복통(胃腹痛)·생리통(痛經)·사지통(四肢痛) 등으로 나타나며, 맥상은 삽(澁) 또는 현(弦), 설진은 자점(紫點)·어반(瘀斑)을 보인다. 연호색은 이 변증의 핵심 약재로, 단미 또는 복방에서 지통 주약(止痛主藥)으로 쓰인다[^24][^45]. 둘째, **한랭응체형(寒冷凝滯型)** — 한(寒)으로 기혈이 응체된 통증으로, 온성(溫性) 활혈거어 약재인 현호색·천궁(川芎)·홍화(紅花) 등이 갑상선-생식선 축을 자극하고 내분비 시스템을 강화해 한랭응혈·혈어 증후군을 개선한다[^46].
+연호색은 외형·현미경 관찰만으로는 종 판별과 산지 판별이 어렵기 때문에 성분 기반 규격이 요구된다. 실시간 직접분석 질량분석(DART-MS)은 전처리 없이 약재를 신속 판별하는 데 활용되고[^7], 근적외선 분광법(NIRS)은 주요 알칼로이드의 신속 정량과 산지 판별에 쓰인다[^8]. HPLC 지문(fingerprint)은 연호색 원약재와 그 포제품·제제의 규격 설정에 표준적으로 사용된다[^9].
 
-## 임상 적용
+오염 관리도 임상 안전의 일부다. 중약재의 스트로빌루린계 살균제 잔류 분석법이 확립되어 있고[^23], 저장성(浙江省)산 주요 약재 8종을 조사한 연구에서는 상당 수준의 농약 잔류가 확인되어 장기 복용 시 노출 평가가 필요함이 지적되었다[^24]. 장기 처방 환자에게는 **규격 검사를 통과한 약재만 사용** 하는 것이 원칙이다.
 
-### 통증 질환
+---
 
-연호색은 임상에서 통증 완화의 핵심 약재로 자리잡아 왔다. 기체혈어형(氣滯血瘀型) 반사교감신경이상증(RSD) 환자 58명을 대상으로 한 대조 임상시험에서, 활혈거어(活血祛瘀) 한약 복합 치료(경구 투여 및 외용 훈증·세척)를 시행한 군은 위약군 대비 VAS 통증 점수가 유의하게 더 많이 감소(3.8 vs 1.0)하고 부종 부위 부피 감소량도 유의하게 컸다(21.8ml vs 10.3ml)[^47]. 대상포진 후 신경통 환자 37명에서 가변주파수 전침과 약쑥뜸을 병행한 군의 총 유효율은 94.44%로 약물 치료군(73.68%)보다 유의하게 높았으며, 협척혈(俠脊穴)·아시혈(阿是穴) 복합 치료가 통증 완화에 효과적이었다[^48]. 발목 골절 수술 후 환자 80명을 대상으로 한 무작위 대조 시험에서는 혈해혈(血海穴, SP10)에 한약 첩포를 적용한 군이 대조군 대비 수술 후 부종 부피가 유의하게 감소하고 NRS 통증 점수가 낮아졌으며 부종 해소 속도도 더 빨랐다[^49]. 천식 악화로 인한 흉통·해수 통증 완화에도 현호색 함유 경혈 부착 요법이 효과를 보였다[^50].
+## 제2편 성분·기전과 "성분 근거를 약재 근거로 읽는 오류"
 
-### 위장관 질환
+### 2-1. 주요 알칼로이드
 
-연호색은 위·복부 통증과 위궤양 치료에 전통적으로 널리 쓰인다. 금령자산(金鈴子散)은 현호색과 천련자(川楝子, *Melia toosendan*)로 구성된 대표적 위통 처방으로, 초산 유발 위궤양 모델에서 IL-8·TNF-α·PAF·TXB₂ 등 염증·혈전 지표를 개선하고 PGE₂·bFGF에 영향을 주어 위궤양을 억제한다[^51]. 특히 금령자산의 비알칼로이드(non-alkaloid) 성분이 중성구 활성 억제·모세혈관 혈전 방지·위점막 보호 기전을 통해 핵심 치료 역할을 한다는 점이 밝혀졌다[^51]. 금령자산의 흡수-대사 모델 연구에서는 천련자와 현호색이 처방의 체내 흡수율·대사율에 가장 큰 영향을 주는 약재로 확인되어, 현호색이 복방 내 약동학적 조절자 역할도 함이 시사된다[^52].
+연호색의 유효 성분은 이소퀴놀린 계열 알칼로이드가 주축이며, 프로토베르베린(protoberberine)·아포르핀(aporphine) 계열로 대별된다[^14]. 대표 성분은 THP·DHC·프로토핀·팔마틴·코리달린·코리놀린(corynoline) 등이고, 4급 암모늄 알칼로이드 분획에서도 여러 성분이 분리되었으며[^10] 신규 프로토베르베린 알칼로이드가 계속 보고되고 있다[^11]. 프로토핀은 별도의 종합 고찰이 나올 만큼 연구가 축적된 성분이지만, 그 약리 활성 서술의 대부분은 비임상 자료에 근거하므로 **인체 효능 근거로 삼지 않는다**[^16]. 티베트 의학에서 쓰이는 현호색속 식물들도 유사한 알칼로이드군을 공유한다[^15].
 
-현호색 알칼로이드는 위궤양으로 변화된 대사체 프로파일을 기저 수준으로 회복시키며, 스핑고포스포지질·지방산 대사 경로를 조절해 위궤양을 치료한다[^30]. 안류산(安乳散)에 풍부한 리소포스파티드산(LPA)이 스트레스성 위궤양을 유의하게 감소시키는 기전에 현호색 성분이 핵심적으로 기여하므로, 스트레스성 위장 질환 환자에게 현호색 함유 처방을 고려할 수 있다[^31]. 기능성 소화불량 치료제 DA-9701(현호색·함께자 복합)은 위장관 운동 촉진(prokinetic) 효과를 가지며 상용 약물 대체제로 개발되어 임상 적용되고 있다[^43].
+### 2-2. 진통 기전 — 도파민 D2 수용체 길항이라는 사실이 갖는 임상적 무게
 
-### 심혈관 질환
+연호색의 진통은 아편수용체 작용이 아니라 **중추 도파민 수용체(특히 D2) 길항** 을 주 기전으로 설명된다[^25][^26]. 이 기전은 두 가지 상반된 임상적 함의를 동시에 갖는다.
 
-현호색은 협심증(狹心症)·흉비(胸痺) 등 심혈관 질환의 통증 완화와 심근 보호에 임상적 가치를 지닌다. 미국삼(Panax quinquefolius)과 현호색(Corydalis tuber) 복합 추출물인 Shenyuan은 소포체 스트레스(ERS)와 산화 스트레스를 억제하고 Bcl-2/Bax 비를 조절하며 caspase-3 활성화를 막아 급성 심근경색 시 심근세포 사멸을 줄이고 경색 크기를 제한하며, 고용량에서 유의한 효과를 보인다[^32]. 같은 복합물의 유효 성분 EPC는 혈청 8-iso-PGF2α를 낮추고 심근 내 GRP78·CHOP 발현을 하향 조절하며 SOD를 증가시켜 산화·소포체 스트레스를 완화한다[^33].
+**유리한 함의** — 아편유사제와 기전이 다르므로 내성·의존 프로파일이 다르고, 아편유사제 절약(opioid-sparing) 전략의 후보가 된다. 실제로 갑상선절제술을 침 마취 하에 시행한 임상연구에서 THP를 병용한 군(12명)은 침 마취 단독군(12명)보다 혈장 베타-엔도르핀과 코르티솔의 상승 폭이 작아, THP가 침 진통을 증강하는 것으로 해석되었다[^30]. 이는 연호색 성분의 진통 증강 효과를 **사람에서** 관찰한 드문 자료다 `[성분]`.
 
-관상동맥 질환 치료에 쓰이는 등안과립(燈盞顆粒, Deng-yan granule)은 현호색을 구성 약재로 포함하며, 주요 성분인 스쿠텔라린(scutellarin)과 THP의 체내 거동이 정밀 분석된 바 있다[^53]. 시스템 생물학적 네트워크 약리학 분석에서 천궁(川芎)·자단향(降眞香)·연호색이 심혈관 질환 관련 29개의 공통 타겟(52.7%)을 공유하는 '다성분-다타겟' 기전이 입증되어, 현호색이 심혈관계 한약 처방의 핵심 구성 약재임을 뒷받침한다[^34]. 가미생맥산(加味生脈散) 계열 처방에서도 네트워크 분석 결과 현호색이 핵심 약재로, 인삼(人蔘)·단삼(丹蔘)·연호색의 3약 조합이 심근 보호에 가장 효과적인 것으로 확인되었다[^54].
+**불리한 함의 — 이 문서에서 가장 중요한 안전성 논점** — D2 길항은 **항정신병약과 같은 계열의 작용** 이다. 따라서 원리적으로 추체외로증상(extrapyramidal symptoms, EPS): 약물유발 파킨슨증·급성 근긴장이상·정좌불능·지연성 운동이상증의 위험을 내포한다. 이것은 이론적 우려에 그치지 않는다. THP를 함유한 시판 한약제제 **복방조인교낭(復方棗仁膠囊)** 의 시판 후 임상 재평가에서, 권장 용량에서도 오한·발열·현훈·오심·호흡곤란·흉민·심계 등의 이상반응이 보고되었고 **고용량에서 지연성 추체외로증상(delayed extrapyramidal symptoms)이 발생** 했으며, 캐나다 보건당국은 이 제제에 함유된 l-THP가 임신부에서 간 손상을 일으켰음을 고지했다[^31] `[성분]`.
 
-### 부인과 질환
+**임상 지침**: 연호색을 장기·고용량으로 쓰는 환자, 특히 이미 항정신병약·메토클로프라미드·레보설피리드 등 D2 길항제를 복용 중인 환자에서는 **추체외로증상의 조기 징후(잔떨림·근강직·안절부절·구강 주위 불수의 운동)를 능동적으로 문진** 한다. 발견 시 즉시 감량·중단하고 신경과 협진한다.
 
-생리통(痛經)은 연호색의 대표적 적응증 중 하나이다. 원호지통(元胡止痛) 처방 계열의 연구에서 현호색 추출물이 자궁 평활근 경련 완화와 혈행 개선을 통해 원발성 생리통을 개선하는 기전이 검토되었으며, 투여 시점에 따른 차이를 본 동물 연구에서도 일정한 효과가 확인되었다[^55][^56]. 백지(白芷) 추출물이 현호색의 주요 성분인 dl-THP의 혈중 농도를 유의하게 높여 진통 효과를 증강한다는 약리 연구는, 위통·늑통·두통뿐 아니라 생리통 치료 시 현호색과 백지를 함께 쓰는 전통 처방의 과학적 근거를 제공한다[^57].
+### 2-3. 정제 성분 자료를 약재 근거로 읽는 오류 — 이 문서의 핵심 경고
 
-### 암성 통증
+THP 관련 임상·독성 자료는 풍부하지만, **그 대부분은 연호색 전탕액이 아니라 정제·농축된 단일 성분 또는 표준화 제제에 대한 것이다.** 다음 세 가지가 결정적으로 다르다.
 
-암성 통증 관리에서 한약 치료의 유용성이 주목받고 있다. 암성 통증의 복합적 기전(염증 폭포·신경전달물질 변조·신경 무결성 손상)을 한약의 다성분·다표적 접근이 다각도로 조절함으로써 유의미한 진통 효과와 삶의 질 개선 가능성을 보인다는 종합 검토가 있다[^58]. 특히 연호색·백지(白芷)·천궁(川芎) 등의 약재가 기(氣)를 보하고 경락을 소통시키며 혈액 순환을 촉진하고 어혈을 제거해 암성 통증을 완화하고 삶의 질을 높이는 전략이 될 수 있다고 평가된다[^45]. 가원청환(加元清丸)은 골암성 통증을 유의하게 완화하면서도 장기 투여 시 신체적 의존성을 유발하지 않아, 마약성 진통제의 내성·의존성 문제를 보완할 수 있는 안전한 보조 진통제로 제시된다[^25].
+1. **투여 경로·제형** — 정제 l-THP 정제(tablet)·주사제 대(對) 전탕액·산제.
+2. **용량** — 정제품은 단일 성분을 수십~수백 mg 단위로 투여한다. 연호색 3~9g 전탕액에서 얻어지는 THP 노출량과 자릿수가 다르다.
+3. **기질(matrix)** — 전탕액에는 수십 종의 알칼로이드와 비알칼로이드가 공존하며, 흡수·대사에서 서로 경쟁·간섭한다. 단일 성분의 약동학을 그대로 대입할 수 없다.
 
-### 불안·수면·중독
+이 오류가 실제 피해로 이어진 대표 사례가 **금불환(金不換, Jin Bu Huan) 사건** 이다. 미국에서 진통·진정 목적으로 유통된 "Jin Bu Huan Anodyne Tablets"는 포장에 *Polygala*·*Lycopodium serratum* 유래로 표기되어 있었으나 실제 활성 성분은 **고농도의 l-THP** 였다. 이 제품에서 두 개의 뚜렷한 임상 증후군이 나타났다[^32].
 
-THP는 동물 모델에서 유의미한 불안 완화 효과와 운동 능력 감소를 유도하며, GABA_A 수용체의 벤조디아제핀 결합 부위와는 완전히 일치하지 않는 별개의 기전으로 작용할 가능성이 시사되어 진정·불안 조절을 위한 천연물 유래 약물 개발의 기초 자료로 활용된다[^59]. l-THP(rotundine)는 도파민 D1·D2 수용체 길항 작용으로 코카인의 보상 효과를 줄이고 재발을 억제하며, 전임상과 임상 연구에서 효능과 안전성이 확인되어 코카인 중독 치료 보조제로 개발 가능성이 높다[^60]. 오피오이드 의존성 치료에서도 중국·인도 전통 한약 제제가 금단 증상 완화와 의존성 감소에 긍정적 효과를 보이며 기존 약물보다 부작용이 적은 것으로 검토되었다[^61]. 복합 511 처방은 양지화(陽起花)·연호색 등으로 병리적 상태를 치료하고 인삼·황기·맥문동 등으로 기음양허(氣陰兩虛) 증후군을 조절해 오피오이드 중독의 신경 가소성을 회복시키는 '약-증-병' 삼각 연관 치료 패러다임을 제시한다[^62]. 다만 복방조심자 캡슐 등 THP 함유 제제는 고용량 투여 시 지연성 외체외로계 증상(delayed extrapyramidal symptoms)이 발생할 수 있고 임산부에서 간 손상 위험이 보고되어 투여 용량 조절과 위험 관리가 필수적이다[^63].
+- **소아 급성 과량 — 중추신경·호흡 억제와 서맥**: 1993년 콜로라도에서 3명의 소아가 우발적 섭취 후 급속히 발현한 생명을 위협하는 서맥과 중추신경·호흡 억제를 보였다[^33]. 미국 질병통제예방센터(CDC)는 같은 해 이 소아 3례와 로스앤젤레스 성인 3례를 함께 보고했다[^34].
+- **성인 장기 복용 — 간염**: 건강했던 성인 7명이 평균 20주(범위 7~52주) 복용 후 급성 간염을 일으켰고, 감량으로 간기능이 호전되었으며 **2명에서는 재투여(rechallenge)로 간염이 급격히 재발** 했다[^35]. 이탈리아에서는 하루 3정 복용 2개월 후 조직검사로 확인된 만성 간염과 중등도 섬유화가 보고되었고 중단으로 회복되었다[^36]. 캐나다 일차진료 현장에서도 "무해하다고 여겨진" 이 제품의 증례가 보고되었다[^37].
 
-## 처방 배합(약쌍·복방)
+금불환 사건은 두 방향으로 읽어야 한다. **첫째, l-THP는 고농도로 노출되면 사람에서 중추 억제·서맥·간손상을 일으키는 실제 독성 물질이다.** 둘째, **금불환은 연호색 약재가 아니었다** — 표기와 실제 성분이 달랐고, 알칼로이드가 고농축된 정제였다. 따라서 "금불환 = 연호색"으로 읽는 것도, 반대로 "연호색은 관계없다"고 안심하는 것도 모두 잘못이다. 정확한 결론은 **연호색의 주성분이 고용량에서 사람에게 이 정도의 독성을 낼 수 있다는 것, 그리고 성분 농축 제형일수록 위험이 커진다는 것** 이다.
 
-연호색은 통증 처방에서 단미로도 쓰이지만, 복방 배합에서 진통 효과를 극대화하는 사례가 많다.
+같은 논리는 유효성 쪽에도 적용된다. l-THP를 코카인 중독 치료제로 개발하려는 연구는 D1·D2 길항을 통한 보상 억제·재발 방지 근거를 제시하지만[^25], 이는 **정제 l-THP의 자료이지 연호색 전탕액을 코카인 중독에 쓸 근거가 아니다.** 1980년대부터 중국에서 로툰딘(l-THP)이 진통·진정 목적의 의약품 성분으로 임상 사용되어 온 것도 같은 층위의 자료다[^29].
 
-- **금령자산(金鈴子散)** — 현호색과 천련자(川楝子, *Melia toosendan*)로 구성된 대표적 위통·협통 처방으로, 현호색이 흡수-대사에 주요 영향을 주어 복방 전체의 약동학을 조절한다[^51][^52].
-- **원호지통(元胡止痛)** — 현호색을 주약으로 한 통증 처방으로, 현호색 단미 추출물보다 혈장·뇌 내 AUC를 높이고 소실률을 낮춰 중추성 진통 효과의 전달 효율을 높인다[^38].
-- **현호색-백지(白芷) 약쌍** — 백지의 쿠마린·정유 성분이 현호색의 dl-THP 혈중 농도를 유의하게 높여 진통 효과를 증강하며, 위통·늑통·두통·생리통 치료 시 함께 쓰는 전통 처방의 약리학적 근거를 제공한다[^57].
-- **가미생맥산(加味生脈散) 계열** — 인삼(人蔘)·단삼(丹蔘)·연호색의 3약 조합이 심근 보호에 가장 효과적이며, 현호색이 핵심 약재로 확인된다[^54].
-- **Shenyuan·EPC** — 미국삼(Panax quinquefolius)과 현호색 복합 추출물로, 심근경색 후 심근 보호에 효과를 보인다[^32][^33].
-- **DA-9701** — 현호색·함께자(牽牛子, *Pharbitidis semen*) 복합 제제로, 기능성 소화불량 치료에 쓰이는 위장관 운동 촉진제이다[^43].
-- **가원청환(加元清丸)** — 현호색·구등(狗藤)·원시충(원지충) 등으로 구성되어 염증성·골암성 통증에 효과를 보이며 의존성이 없다[^25].
-- **Compound 511** — 양지화·연호색 등으로 병리 상태를, 인삼·황기·맥문동 등으로 증후군을 조절하는 오피오이드 중독 치료 복합 처방이다[^62].
+> **오류 방지 규칙**: 논문 제목·초록에 "tetrahydropalmatine", "l-THP", "rotundine", "corydaline", "DA-9701"만 등장하고 약재(Corydalis Rhizoma, 延胡索) 전탕액 투여가 없으면, 그 논문은 **연호색의 근거가 아니라 성분의 근거** 다.
 
-## 용량·용법
+### 2-4. 인체 근거가 확인되지 않는 영역
 
-교과서적 통상 용량은 3~9g으로, 산제(散劑)로 쓸 때는 1.5~3g을 1일 2~3회 분복한다. 통증이 급하거나 강한 경우에는 탕제(湯劑)로 9~15g까지 증량할 수 있으나, 초제(醋製)한 약재를 쓰는 것이 진통 유효 성분의 용출과 흡수에 유리하다[^10][^12]. 연호색은 알칼로이드가 주효 성분이므로 과량 투여는 중추신경계 억제·운동 능력 저하·간 부담을 초래할 수 있어 용량 상한을 준수해야 한다[^59][^63].
+연호색에 관해 널리 서술되지만 **인체 근거가 확인되지 않는** 항목을 별도로 명시한다. 아래 항목은 이 문서에서 효능으로 서술하지 않으며, 비임상 자료로 메우지 않는다.
 
-## 안전성 및 주의사항
+| 서술 항목 | 인체 근거 상태 | 이 문서의 처리 |
+|---|---|---|
+| 위궤양 치료·위점막 보호 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 | 효능으로 서술하지 않음 |
+| 심근 보호·심근경색 경색 크기 감소 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 | 효능으로 서술하지 않음 |
+| 항암·종양 억제 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 | 효능으로 서술하지 않음 |
+| 항골다공증·골대사 개선 | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 | 효능으로 서술하지 않음 |
+| 항염·항알레르기(단미 경구) | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 | 효능으로 서술하지 않음 |
+| 초제 > 생품의 진통 우위 | 화학 근거만 존재, 인체 비교 근거는 확인되지 않는다 | 화학적 근거로만 서술 |
+| 연호색 단미 전탕액의 진통 효과 크기 | 단미 무작위 대조 시험이 확인되지 않는다 | 배오·성분 근거로만 서술 |
+| CYP 효소 유도로 인한 임상적 상호작용 | 인체 상호작용 시험이 확인되지 않는다 | 이론적 주의로만 서술 |
 
-연호색은 임상적으로 비교적 안전한 약재로 평가되나, 간독성(肝毒性)·중추신경계 억제·약물 상호작용의 세 가지 축에서 주의가 필요하다.
+> **근거 한계 명시**: 이 표는 "효과가 없다"는 뜻이 아니라 "사람에서 확인되지 않았다"는 뜻이다. 그러나 임상 설명과 동의 과정에서는 이 구분을 그대로 전달해야 한다.
 
-**간독성** — 한약 유발 간 손상(HILI) 체계적 고찰에서 현호색(Corydalis yanhusuo)은 하수오(何首烏)·보골지(補骨脂)·대황(大黃)과 함께 주요 원인 약재로 확인되었으며, HILI는 일반 의약품보다 여성 발생률이 높고(69.8%) 간세포성 손상(78.8%)이 지배적이다[^64]. 황근초(*Corydalis speciosa* Max)를 반복 섭취한 환자에서 황달과 간수치 상승을 동반한 급성 담즙 정체성 간염이 발생해 섭취 중단 후 호전되었다가 재섭취 시 재발한 증례가 보고되어, 기원 식물 확인과 용량 관리의 중요성이 강조된다[^7]. 임상 현장에서 원인 불명의 간손상 환자가 발생했을 때 복용한 약초·건강보조식품 이력을 세밀하게 확인해야 한다[^7].
+---
 
-**중추신경계 억제** — THP는 유의한 불안 완화와 운동 능력 감소를 유도하므로, 과량 투여 시 진정·졸음·운동 실조가 나타날 수 있다[^59]. 복방조심자 캡슐 등 THP 함유 제제는 고용량에서 지연성 외체외로계 증상(delayed extrapyramidal symptoms)이 보고되었고 임산부에서 간 손상 위험이 있어, 투여 용량 조절과 위험 관리가 필수적이다[^63].
+## 제3편 전통 효능과 변증 적용
 
-**약물 상호작용** — 연호색 총 알칼로이드 추출물은 CYP2E1·CYP3A1·CYP1A2·CYP2C11을 유도하므로, 이들 효소로 대사되는 타 약물과 병용 시 혈중 농도 변동(주로 감소) 가능성을 고려해야 한다[^42]. DA-9701은 CYP2D6·UGT1A1을 일부 억제하지만 임상적으로 강력한 억제제로 작용할 가능성은 낮다[^43]. 현호색 알칼로이드는 OATP1B1 등 수송체도 억제하므로 병용 약물의 수송체 기반 상호작용도 예측해야 한다[^44]. 농약 잔류 측면에서는 스트로빌루린계 살균제 잔류물 분석법이 제시된 바 있어 약재 안전성 관리에 참고할 수 있다[^65].
+### 3-1. 성미·귀경·효능
 
-## 하위 표제어
+연호색은 성미가 신(辛)·고(苦)·온(溫)이고 간(肝)·비(脾)(일부 문헌은 심心을 추가)에 귀경하며, 활혈(活血)·행기(行氣)·지통(止痛)을 주 효능으로 한다 [교과서적 근거]. 본초 문헌에서는 '혈중기약(血中氣藥)'으로 규정되어 혈분(血分)과 기분(氣分)에 동시에 작용하는 약으로 자리매김되며, 이 성격 때문에 단순 활혈약이나 단순 이기약과 구별된다 [교과서적 근거].
 
--**연호색(延胡索, *Corydalis yanhusuo*)**— 본 문서의 기준 종. 저장(浙江)산을 품질 기준으로 삼는다.
--**엎는현호색(伏地延胡索, *Corydalis decumbens*)**— 중국 남부·한국 등에 분포하는 근연종으로, 중풍·두통·류마티스 관절염·좌골신경통 치료에 쓰이며 염산염 제형이 유효 성분 생체이용률을 최적화한다[^39].
--**현삼(玄蔘, *Corydalis ternata*)**— 한국 자생종으로 트리테르페노이드 성분이 항암·항염 가능성을 보인다[^5]. (※ 현삼(玄蔘, *Scrophularia buergeriana*)과 동음이의이므로 기원 식물 명시 필수)
--**황근초(黃根草, *Corydalis speciosa* Max)**— 한국 민간 약초로, 반복 섭취 시 급성 담즙 정체성 간염의 간독성 사례가 보고되어 주의가 필요하다[^7].
-- **금령자산(金鈴子散)** — 현호색+천련자 복방으로 위통·협통의 대표 처방이다(별도 방제학 문서로 분리 가능).
-- **원호지통(元胡止痛)** — 현호색 주약의 통증 처방 계열이다(별도 방제학 문서로 분리 가능).
-- **테트라하이드로팔마틴(tetrahydropalmatine, THP)** — 연호색의 대표 유효 알칼로이드로, 진통·진정·항중독 단일 성분 제제로 연구된다.
-- **데하이드로코리달린(dehydrocorydaline, DHC)** — 제4급 프로토베르베린 알칼로이드로, 진통·항염·위장관 보호 활성의 주요 지표 성분이다.
-- **초제 연호색(醋製延胡索)** — 식초 포제를 거친 약재로, 진통 유효 성분의 용출·흡수를 높이는 표준 포제품이다.
+『본초강목(本草綱目)』은 연호색을 두고 "능행혈중기체(能行血中氣滯), 기중혈체(氣中血滯), 고전신지통(故專治一身上下諸痛)"이라 하여 **몸의 상하 어디의 통증이든 다스린다** 고 총괄했다. 이 서술은 연호색이 특정 부위·특정 장부에 한정되지 않는 범용 지통약으로 인식되었음을 보여준다[^1]. 현대 문헌 고찰도 연호색의 전통적 주 적응증을 기체혈어성 통증 증후군으로 일관되게 정리한다[^1][^5][^27].
 
-## Q&A
+### 3-2. 변증 축
 
-**Q1. 연호색은 어떤 통증에 가장 효과적인가?**
-기체혈어(氣滯血瘀)로 인한 통증, 즉 흉협통·위복통·생리통·사지통·암성 통증 등에 효과적이다. 현호색 알칼로이드가 중추신경계의 도파민 시스템을 통해 통증을 조절하며, 기존 마약성 진통제와는 다른 기전의 진통 효과를 보인다[^18][^24]. 초제(醋製)한 약재를 쓰면 진통 유효 성분의 용출과 흡수가 높아져 효과가 강화된다[^10][^12].
+| 변증 | 주증 | 설·맥 | 연호색의 역할 |
+|---|---|---|---|
+| **기체혈어(氣滯血瘀)** | 자통(刺痛)·정처가 있는 통증·야간 악화·거안(拒按) | 설질 자암(紫暗)·어반(瘀斑), 맥 삽(澁)·현(弦) | 지통 주약. 행기·활혈을 겸함 |
+| **한응혈어(寒凝血瘀)** | 냉통(冷痛)·득온즉감(得溫則減) | 설담암(淡暗), 맥 침긴(沈緊) | 온성 활혈약과 배오(계지·소회향 등) |
+| **간울기체(肝鬱氣滯)** | 창통(脹痛)·정서 변동과 연동·유방창통 | 설담홍, 맥 현 | 소간(疏肝)약과 배오(시호·향부자 등) |
+| **어혈+열(瘀熱)** | 작열성 통증·구건·번조 | 설홍유어점, 맥 현삭 | 청열약과 배오. 단독 온성 사용 주의 |
 
-**Q2. 포제(炮製)는 왜 중요한가?**
-식초로 볶는 초제(醋製)는 3차 알칼로이드 함량을 높이고 THP 함량을 유지·증가시키며, 동시에 일부 독성 성분을 줄여 안전성을 높인다[^12][^14]. 초제와 주제(酒製)는 조직 분포 양상을 달리하므로, 치료 목적(위통 vs 흉통 vs 사지통 등)에 따라 포제법을 선택하는 것이 임상적으로 의미 있다[^15].
+**변증 층화 강조**: 연호색은 "통증이면 쓰는 약"이 아니다. 허증성 통증(기혈양허의 은통隱痛·희안喜按)이나 음허화왕의 통증에 변증 없이 관행적으로 투여하는 것은 근거에 부합하지 않으며, 온조(溫燥)로 음액을 더 손상시킬 수 있다. 실제 처방 자료에서도 연호색은 단독이 아니라 향부자(香附子)·당귀작약산(當歸芍藥散) 등과 결합된 **증(證)에 맞춘 조합** 으로 사용된다[^40].
 
-**Q3. 임산부에게 쓸 수 있는가?**
-신중을 요한다. THP 함유 제제(복방조심자 캡슐 등)에서 임산부의 간 손상 위험이 보고된 바 있어[^63], 임신 중에는 용량을 최소화하거나 피하는 것이 원칙이다. 산후어체(産後瘀滯) 통증에서 쓰는 전통적 사례가 있으나, 반드시 한의사의 변증과 감별 하에 제한적 용량으로 적용해야 한다.
+### 3-3. 유사 지통 본초와의 감별
 
-**Q4. 타 약물과의 병용 시 주의점은?**
-연호색 총 알칼로이드 추출물은 CYP2E1·CYP3A1·CYP1A2·CYP2C11을 유도해 이들 효소로 대사되는 약물의 혈중 농도를 낮출 수 있으므로 병용 시 효과 감소 가능성을 모니터링해야 한다[^42]. DA-9701(현호색·함께자 복합)은 CYP2D6·UGT1A1을 일부 억제하지만 임상적으로 강력한 억제제로 작용할 가능성은 낮다[^43]. 현호색 알칼로이드는 OATP1B1 수송체도 억제하므로 수송체 기반 상호작용도 고려한다[^44].
+연호색은 활혈지통약군에 속하지만, 같은 군의 다른 약재와 작용 초점이 다르다. 임상에서 "통증에 활혈약"으로 뭉뚱그리지 않으려면 아래 구분이 필요하다 [교과서적 근거]. 활혈거어 계열 본초 전반의 연구 동향은 별도 고찰에 정리되어 있다[^28].
 
-**Q5. 간 기능이 떨어진 환자에서 주의점은?**
-현호색은 한약 유발 간 손상(HILI)의 주요 원인 약재 중 하나로 보고되어, 간 기능 저하 환자나 원인 불명의 간손상 병력이 있는 환자에서는 용량을 줄이고 간수치 모니터링을 병행해야 한다[^64]. 특히 한국 민간에서 황근초(*Corydalis speciosa* Max)를 연호색류로 섭취한 사례에서 급성 담즙 정체성 간염이 발생한 바 있어, 기원 식물 확인이 필수적이다[^7].
+| 본초 | 작용 초점 | 연호색과의 차이 | 대표 적응 |
+|---|---|---|---|
+| **연호색(延胡索)** | 행기 + 활혈 + 지통(중추 진통 성분 함유) | 기·혈 양쪽에 작용하며 진정을 겸함 | 기체혈어 통증 전반 |
+| **천궁(川芎)** | 활혈 + 행기 + 거풍지통(상행) | 두면부·상부 지향, 진정 작용이 약함 | 두통·어혈 두면통 |
+| **울금(鬱金)** | 활혈 + 행기 + 청심해울(량성) | 성질이 량(凉)하여 어열(瘀熱)에 적합 | 흉협통 + 열상 |
+| **유향·몰약(乳香·沒藥)** | 활혈 + 소종생기(외상 지향) | 위장 자극이 강해 장기 경구 부담 | 타박·창양 동통 |
+| **오령지(五靈脂)** | 활혈지통(하복·위완 지향) | 인삼과 상외(相畏) 배오 금기 | 위완통·월경통 |
+| **향부자(香附子)** | 소간이기(기분 위주) | 활혈력이 약하고 기체가 주 표적 | 간울기체 창통 |
+| **백지(白芷)** | 거풍·통규·지통(양명 두면) | 활혈력 없음 | 두통·비연·양명두통 |
 
-[^1]: Traditional application, Chemical composition, Pharmacological effects, Quality control and Clinical application of Corydalis yanhusuo W. T. Wang dried Rhizome. 문헌 고찰, Journal of ethnopharmacology, 2027-01-10. [DOI 10.1016/j.jep.2026.122156](https://doi.org/10.1016/j.jep.2026.122156), [PMID 42409344](https://pubmed.ncbi.nlm.nih.gov/42409344/).
-[^2]: [Varieties and standards of Corydalis medicinal plants]. 문헌 고찰, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2022-04. [DOI 10.19540/j.cnki.cjcmm.20220115.101](https://doi.org/10.19540/j.cnki.cjcmm.20220115.101), [PMID 35531743](https://pubmed.ncbi.nlm.nih.gov/35531743/).
-[^3]: [Varieties and standards of Corydalis medicinal plants]. 문헌 고찰, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2022-04. [DOI 10.19540/j.cnki.cjcmm.20220115.101](https://doi.org/10.19540/j.cnki.cjcmm.20220115.101), [PMID 35531743](https://pubmed.ncbi.nlm.nih.gov/35531743/).
-[^4]: Rapid identification of traditional Chinese herbal medicine by direct analysis in real time (DART) mass spectrometry. 실험연구, Analytica chimica acta, 2014-10-03. [DOI 10.1016/j.aca.2014.06.014](https://doi.org/10.1016/j.aca.2014.06.014), [PMID 25201274](https://pubmed.ncbi.nlm.nih.gov/25201274/).
-[^5]: New triterpenoids from the tubers of Corydalis ternata: structural elucidation and bioactivity evaluation. 실험연구, Planta medica, 2011-09. [DOI 10.1055/s-0030-1270781](https://doi.org/10.1055/s-0030-1270781), [PMID 21341177](https://pubmed.ncbi.nlm.nih.gov/21341177/).
-[^6]: Two new alkaloids from Corydalis humosa. 실험연구, Journal of Asian natural products research, 2013-11. [DOI 10.1080/10286020.2013.822369](https://doi.org/10.1080/10286020.2013.822369), [PMID 23919659](https://pubmed.ncbi.nlm.nih.gov/23919659/).
-[^7]: [A case of acute cholestatic hepatitis induced by Corydalis speciosa Max]. 증례 보고, The Korean journal of hepatology, 2009-12 (환자 수 1명). [DOI 10.3350/kjhep.2009.15.4.517](https://doi.org/10.3350/kjhep.2009.15.4.517), [PMID 20037271](https://pubmed.ncbi.nlm.nih.gov/20037271/).
-[^8]: Rapid discrimination and quantification of alkaloids in Corydalis Tuber by near-infrared spectroscopy. 실험연구, Journal of pharmaceutical and biomedical analysis, 2012-02-05. [DOI 10.1016/j.jpba.2011.09.037](https://doi.org/10.1016/j.jpba.2011.09.037), [PMID 22024731](https://pubmed.ncbi.nlm.nih.gov/22024731/).
-[^9]: Rapid identification of traditional Chinese herbal medicine by direct analysis in real time (DART) mass spectrometry. 실험연구, Analytica chimica acta, 2014-10-03. [DOI 10.1016/j.aca.2014.06.014](https://doi.org/10.1016/j.aca.2014.06.014), [PMID 25201274](https://pubmed.ncbi.nlm.nih.gov/25201274/).
-[^10]: Traditional application, Chemical composition, Pharmacological effects, Quality control and Clinical application of Corydalis yanhusuo W. T. Wang dried Rhizome. 문헌 고찰, Journal of ethnopharmacology, 2027-01-10. [DOI 10.1016/j.jep.2026.122156](https://doi.org/10.1016/j.jep.2026.122156), [PMID 42409344](https://pubmed.ncbi.nlm.nih.gov/42409344/).
-[^11]: Influence of vinegar and wine processing on the alkaloid content and composition of the traditional Chinese medicine Corydalis Rhizoma (Yanhusuo). 실험연구, Molecules (Basel, Switzerland), 2014-08-04. [DOI 10.3390/molecules190811487](https://doi.org/10.3390/molecules190811487), [PMID 25093987](https://pubmed.ncbi.nlm.nih.gov/25093987/).
-[^12]: [Determination of main active components in crude and processed Corydalis Rhizoma samples from different habitats]. 실험연구, Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials, 2013-11. [PMID 24956813](https://pubmed.ncbi.nlm.nih.gov/24956813/).
-[^13]: Influence of vinegar and wine processing on the alkaloid content and composition of the traditional Chinese medicine Corydalis Rhizoma (Yanhusuo). 실험연구, Molecules (Basel, Switzerland), 2014-08-04. [DOI 10.3390/molecules190811487](https://doi.org/10.3390/molecules190811487), [PMID 25093987](https://pubmed.ncbi.nlm.nih.gov/25093987/).
-[^14]: Alkaloids in Processed Rhizoma Corydalis and Crude Rhizoma Corydalis Analyzed by GC/MS. 실험연구, Journal of analytical methods in chemistry, 2014. [DOI 10.1155/2014/281342](https://doi.org/10.1155/2014/281342), [PMID 25210643](https://pubmed.ncbi.nlm.nih.gov/25210643/).
-[^15]: Effect of wine and vinegar processing of Rhizoma Corydalis on the tissue distribution of tetrahydropalmatine, protopine and dehydrocorydaline in rats. 실험연구, Molecules (Basel, Switzerland), 2012-01-18. [DOI 10.3390/molecules17010951](https://doi.org/10.3390/molecules17010951), [PMID 22258341](https://pubmed.ncbi.nlm.nih.gov/22258341/).
-[^16]: [Study on the initial processing of Corydalis yanhusuo]. 실험연구, Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials, 2011-07. [PMID 22066395](https://pubmed.ncbi.nlm.nih.gov/22066395/).
-[^17]: [Selection of optimum technological conditions for vinegar-processing of fresh rhizoma Corydalis]. 실험연구, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 1990-12. [PMID 2282169](https://pubmed.ncbi.nlm.nih.gov/2282169/).
-[^18]: [Study on material base of corydalis rhizoma]. 문헌 고찰, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2014-01. [PMID 24754162](https://pubmed.ncbi.nlm.nih.gov/24754162/).
-[^19]: [Phytochemical and pharmacological advance on Tibetan medicinal plants of Corydalis]. 문헌 고찰, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2014-04. [PMID 25011252](https://pubmed.ncbi.nlm.nih.gov/25011252/).
-[^20]: Preparative separation of quaternary ammonium alkaloids from Corydalis yanhusuo W. T. Wang by pH-zone-refining counter-current chromatography. 실험연구, Journal of separation science, 2011-02. [DOI 10.1002/jssc.201000749](https://doi.org/10.1002/jssc.201000749), [PMID 21268250](https://pubmed.ncbi.nlm.nih.gov/21268250/).
-[^21]: Two new quaternary protoberberine alkaloids from Corydalis yanhusuo. 실험연구, Journal of Asian natural products research, 2012. [DOI 10.1080/10286020.2012.677038](https://doi.org/10.1080/10286020.2012.677038), [PMID 22530675](https://pubmed.ncbi.nlm.nih.gov/22530675/).
-[^22]: [Simultaneous determination of four alkaloids in Corydalis decumbens (Thunb.) Pers. by high performance liquid chromatography-tandem mass spectrometry]. 실험연구, Se pu = Chinese journal of chromatography, 2011-02. [DOI 10.3724/sp.j.1123.2011.00176](https://doi.org/10.3724/sp.j.1123.2011.00176), [PMID 21598521](https://pubmed.ncbi.nlm.nih.gov/21598521/).
-[^23]: l-tetrahydropalamatine: a potential new medication for the treatment of cocaine addiction. 문헌 고찰, Future medicinal chemistry, 2012-02 (인체 연구). [DOI 10.4155/fmc.11.166](https://doi.org/10.4155/fmc.11.166), [PMID 22300097](https://pubmed.ncbi.nlm.nih.gov/22300097/).
-[^24]: Pain: novel analgesics from traditional Chinese medicines. 문헌 고찰, Current biology : CB, 2014-02-03. [DOI 10.1016/j.cub.2013.12.030](https://doi.org/10.1016/j.cub.2013.12.030), [PMID 24502784](https://pubmed.ncbi.nlm.nih.gov/24502784/).
-[^25]: Studies on the analgesic activities of Jia-Yuan-Qing pill and its safety evaluation in mice. 실험연구, Protoplasma, 2014-09. [DOI 10.1007/s00709-014-0637-9](https://doi.org/10.1007/s00709-014-0637-9), [PMID 24677096](https://pubmed.ncbi.nlm.nih.gov/24677096/).
-[^26]: Tetrahydropalmatine inhibits pro-inflammatory mediators in lipopolysaccharide-stimulated THP-1 cells. 실험연구, Journal of medicinal food, 2010-10. [DOI 10.1089/jmf.2009.1388](https://doi.org/10.1089/jmf.2009.1388), [PMID 20828314](https://pubmed.ncbi.nlm.nih.gov/20828314/).
-[^27]: Libanoridin inhibits the mast cell-mediated allergic inflammatory reaction. 실험연구, Immunopharmacology and immunotoxicology, 2010-06. [DOI 10.3109/08923970903279991](https://doi.org/10.3109/08923970903279991), [PMID 20100031](https://pubmed.ncbi.nlm.nih.gov/20100031/).
-[^28]: The (2'S,7'S)-O-(2-methylbutanoyl)-columbianetin as a novel allergic rhinitis-control agent. 실험연구, Life sciences, 2014-03-11. [DOI 10.1016/j.lfs.2014.01.003](https://doi.org/10.1016/j.lfs.2014.01.003), [PMID 24447626](https://pubmed.ncbi.nlm.nih.gov/24447626/).
-[^29]: Identification and Quantification, Metabolism and Pharmacokinetics, Pharmacological Activities, and Botanical Preparations of Protopine: A Review. 문헌 고찰, Molecules (Basel, Switzerland), 2021-12-30. [DOI 10.3390/molecules27010215](https://doi.org/10.3390/molecules27010215), [PMID 35011447](https://pubmed.ncbi.nlm.nih.gov/35011447/).
-[^30]: Metabolomics coupled with multivariate data and pathway analysis on potential biomarkers in gastric ulcer and intervention effects of Corydalis yanhusuo alkaloid. 실험연구, PloS one, 2014. [DOI 10.1371/journal.pone.0082499](https://doi.org/10.1371/journal.pone.0082499), [PMID 24454691](https://pubmed.ncbi.nlm.nih.gov/24454691/).
-[^31]: Intragastrically administered lysophosphatidic acids protect against gastric ulcer in rats under water-immersion restraint stress. 실험연구, Digestive diseases and sciences, 2011-08. [DOI 10.1007/s10620-011-1595-0](https://doi.org/10.1007/s10620-011-1595-0), [PMID 21298479](https://pubmed.ncbi.nlm.nih.gov/21298479/).
-[^32]: Shenyuan, an extract of American Ginseng and Corydalis Tuber formula, attenuates cardiomyocyte apoptosis via inhibition of endoplasmic reticulum stress and oxidative stress in a porcine model of acute myocardial infarction. 실험연구, Journal of ethnopharmacology, 2013-11-25. [DOI 10.1016/j.jep.2013.09.044](https://doi.org/10.1016/j.jep.2013.09.044), [PMID 24096202](https://pubmed.ncbi.nlm.nih.gov/24096202/).
-[^33]: Effective Components of Panax quinquefolius and Corydalis tuber Protect Myocardium through Attenuating Oxidative Stress and Endoplasmic Reticulum Stress. 실험연구, Evidence-based complementary and alternative medicine : eCAM, 2013. [DOI 10.1155/2013/482318](https://doi.org/10.1155/2013/482318), [PMID 23864891](https://pubmed.ncbi.nlm.nih.gov/23864891/).
-[^34]: A systems biology approach to understanding the mechanisms of action of chinese herbs for treatment of cardiovascular disease. 실험연구, International journal of molecular sciences, 2012-10-19. [DOI 10.3390/ijms131013501](https://doi.org/10.3390/ijms131013501), [PMID 23202964](https://pubmed.ncbi.nlm.nih.gov/23202964/).
-[^35]: Cytotoxic activity of proteins isolated from extracts of Corydalis cava tubers in human cervical carcinoma HeLa cells. 실험연구, BMC complementary and alternative medicine, 2010-12-17. [DOI 10.1186/1472-6882-10-78](https://doi.org/10.1186/1472-6882-10-78), [PMID 21167042](https://pubmed.ncbi.nlm.nih.gov/21167042/).
-[^36]: Potential anti-osteoporotic effects of herbal extracts on osteoclasts, osteoblasts and chondrocytes in vitro. 실험연구, BMC complementary and alternative medicine, 2014-01-17. [DOI 10.1186/1472-6882-14-29](https://doi.org/10.1186/1472-6882-14-29), [PMID 24438322](https://pubmed.ncbi.nlm.nih.gov/24438322/).
-[^37]: Mechanistic investigation of Corydalis yanhusuo in prostate cancer: Targeting the miR-192-5p-PI3K/AKT/mTOR and STAT3-HSP90 pathways. 실험연구, Fitoterapia, 2026-06. [DOI 10.1016/j.fitote.2026.107246](https://doi.org/10.1016/j.fitote.2026.107246), [PMID 41985846](https://pubmed.ncbi.nlm.nih.gov/41985846/).
-[^38]: Simultaneous determination of four alkaloids in mice plasma and brain by LC-MS/MS for pharmacokinetic studies after administration of Corydalis Rhizoma and Yuanhu Zhitong extracts. 실험연구, Journal of pharmaceutical and biomedical analysis, 2014-04. [DOI 10.1016/j.jpba.2013.12.037](https://doi.org/10.1016/j.jpba.2013.12.037), [PMID 24469095](https://pubmed.ncbi.nlm.nih.gov/24469095/).
-[^39]: Comparative pharmacokinetics and bioavailability of four alkaloids in different formulations from Corydalis decumbens. 실험연구, Journal of ethnopharmacology, 2013-08-26. [DOI 10.1016/j.jep.2013.05.043](https://doi.org/10.1016/j.jep.2013.05.043), [PMID 23773826](https://pubmed.ncbi.nlm.nih.gov/23773826/).
-[^40]: Design and evaluation of self-emulsifying drug delivery systems of Rhizoma corydalis decumbentis extracts. 실험연구, Drug development and industrial pharmacy, 2012-10. [DOI 10.3109/03639045.2011.643897](https://doi.org/10.3109/03639045.2011.643897), [PMID 22512784](https://pubmed.ncbi.nlm.nih.gov/22512784/).
-[^41]: LC-MS/MS determination and pharmacokinetic study of dehydrocorydaline in rat plasma after oral administration of dehydrocorydaline and Corydalis yanhusuo extract. 실험연구, Molecules (Basel, Switzerland), 2014-10-13. [DOI 10.3390/molecules191016312](https://doi.org/10.3390/molecules191016312), [PMID 25314597](https://pubmed.ncbi.nlm.nih.gov/25314597/).
-[^42]: Up-regulation on cytochromes P450 in rat mediated by total alkaloid extract from Corydalis yanhusuo. 실험연구, BMC complementary and alternative medicine, 2014-08-18. [DOI 10.1186/1472-6882-14-306](https://doi.org/10.1186/1472-6882-14-306), [PMID 25134417](https://pubmed.ncbi.nlm.nih.gov/25134417/).
-[^43]: Effect of a New Prokinetic Agent DA-9701 Formulated with Corydalis Tuber and Pharbitidis Semen on Cytochrome P450 and UDP-Glucuronosyltransferase Enzyme Activities in Human Liver Microsomes. 실험연구, Evidence-based complementary and alternative medicine : eCAM, 2012. [DOI 10.1155/2012/650718](https://doi.org/10.1155/2012/650718), [PMID 22548118](https://pubmed.ncbi.nlm.nih.gov/22548118/).
-[^44]: Inhibitory Effects of Alkaloids on OATP1B1 In Vitro and In Vivo: Prediction for Food/Herb-Drug Interactions and Hepatoprotective Effects Based on Structure-Activity Relationships. 실험연구, Chemical research in toxicology, 2025-02-17. [DOI 10.1021/acs.chemrestox.4c00418](https://doi.org/10.1021/acs.chemrestox.4c00418), [PMID 39899883](https://pubmed.ncbi.nlm.nih.gov/39899883/).
-[^45]: Cancer Pain Management with Traditional Chinese Medicine: Current Status and Future Perspectives. 문헌 고찰, The American journal of Chinese medicine, 2024. [DOI 10.1142/S0192415X24500058](https://doi.org/10.1142/S0192415X24500058), [PMID 38281918](https://pubmed.ncbi.nlm.nih.gov/38281918/).
-[^46]: [Effect of 5 warm-hot nature Chinese drugs for promoting blood circulation and removing blood stasis on 5-HT, NE, and endocrine hormones of rats of cold coagulation and blood stasis syndrome]. 실험연구, Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine, 2014-11. [PMID 25566630](https://pubmed.ncbi.nlm.nih.gov/25566630/).
-[^47]: [Controlled clinical trials of therapeutic effects of Chinese herbs promoting blood circulation and removing blood stasis on the treatment of reflex sympathetic dystrophy with type of stagnation of vital energy and blood stasis]. 임상시험, Zhongguo gu shang = China journal of orthopaedics and traumatology, 2009-12 (환자 수 58명). [PMID 20112576](https://pubmed.ncbi.nlm.nih.gov/20112576/).
-[^48]: [Analysis on therapeutic effect of variable-frequency electroacupuncture combined with herbal-moxa moxibustion for post-zoster neuralgia]. 임상시험, Zhen ci yan jiu = Acupuncture research, 2012-02 (환자 수 37명). [PMID 22574572](https://pubmed.ncbi.nlm.nih.gov/22574572/).
-[^49]: Effect of Xuehai Acupoint (SP10) Herbal Application on Swelling and Analgesia in Ankle Fracture Patients A Randomized Controlled Trial. 임상시험, 저널 미상, 2025-06-09 (환자 수 80명). [DOI 10.21203/rs.3.rs-6639301/v1](https://doi.org/10.21203/rs.3.rs-6639301/v1).
-[^50]: [Controlled observation of non-blister acupoint sticking and electroacupuncture for bronchial asthma]. 임상시험, Zhongguo zhen jiu = Chinese acupuncture & moxibustion, 2013-06 (환자 수 100명). [PMID 23967631](https://pubmed.ncbi.nlm.nih.gov/23967631/).
-[^51]: Treatment Effects of Jinlingzi Powder and Its Extractive Components on Gastric Ulcer Induced by Acetic Acid in Rats. 실험연구, Evidence-Based Complementary and Alternative Medicine, 2019-01-03. [DOI 10.1155/2019/7365841](https://doi.org/10.1155/2019/7365841).
-[^52]: [Study on compound compatibility of Jinglingzi powder based on absorption-metabolism model]. 실험연구, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2012-10. [PMID 23311167](https://pubmed.ncbi.nlm.nih.gov/23311167/).
-[^53]: Simultaneous determination of scutellarin and tetrahydropalmatine of Deng-yan granule in rat plasma by UFLC-MS/MS and its application to a pharmacokinetic study. 실험연구, Journal of chromatography. B, Analytical technologies in the biomedical and life sciences, 2014-11-15. [DOI 10.1016/j.jchromb.2014.09.026](https://doi.org/10.1016/j.jchromb.2014.09.026), [PMID 25289789](https://pubmed.ncbi.nlm.nih.gov/25289789/).
-[^54]: [Analysing on compatibility principle of pharmacologic action of traditional Chinese medicine formula by network approach]. 실험연구, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2010-09. [PMID 21141503](https://pubmed.ncbi.nlm.nih.gov/21141503/).
-[^55]: Traditional Chinese medicine for the treatment of primary dysmenorrhea: how do Yuanhu painkillers effectively treat dysmenorrhea?. 실험연구, Phytomedicine : international journal of phytotherapy and phytopharmacology, 2013-09-15. [DOI 10.1016/j.phymed.2013.05.003](https://doi.org/10.1016/j.phymed.2013.05.003), [PMID 23806889](https://pubmed.ncbi.nlm.nih.gov/23806889/).
-[^56]: Animal study on primary dysmenorrhoea treatment at different administration times. 실험연구, Evidence-based complementary and alternative medicine : eCAM, 2015. [DOI 10.1155/2015/367379](https://doi.org/10.1155/2015/367379), [PMID 25705236](https://pubmed.ncbi.nlm.nih.gov/25705236/).
-[^57]: Correlation between synergistic action of Radix Angelica dahurica extracts on analgesic effects of Corydalis alkaloid and plasma concentration of dl-THP. 실험연구, Journal of ethnopharmacology, 2010-05-04. [DOI 10.1016/j.jep.2010.03.005](https://doi.org/10.1016/j.jep.2010.03.005), [PMID 20307640](https://pubmed.ncbi.nlm.nih.gov/20307640/).
-[^58]: Mechanisms of cancer pain and the multitarget therapeutic potential of Traditional Chinese Medicine. 문헌 고찰, Sheng li xue bao : [Acta physiologica Sinica], 2026-02-25. [PMID 41777128](https://pubmed.ncbi.nlm.nih.gov/41777128/).
-[^59]: Evaluation of the anxiolytic properties of tetrahydropalmatine, a Corydalis yanhusuo compound, in the male Sprague-Dawley rat. 실험연구, AANA journal, 2011-08. [PMID 22403971](https://pubmed.ncbi.nlm.nih.gov/22403971/).
-[^60]: l-tetrahydropalamatine: a potential new medication for the treatment of cocaine addiction. 문헌 고찰, Future medicinal chemistry, 2012-02 (인체 연구). [DOI 10.4155/fmc.11.166](https://doi.org/10.4155/fmc.11.166), [PMID 22300097](https://pubmed.ncbi.nlm.nih.gov/22300097/).
-[^61]: Traditional Chinese and Indian medicine in the treatment of opioid-dependence: a review. 문헌 고찰, Avicenna journal of phytomedicine, 출판일 미상 (인체 연구). [PMID 25050276](https://pubmed.ncbi.nlm.nih.gov/25050276/).
-[^62]: Exploring the "Drug–Syndrome–Disease" Triad Association Therapy in the Intervention of Western Drug Toxic Side Effects: Theory and Practice Based on the Compound 511. 문헌 고찰, Chinese medicine and natural products, 2026-03. [DOI 10.1055/a-2825-0916](https://doi.org/10.1055/a-2825-0916).
-[^63]: [Post-marketing clinical study of traditional Chinese medicine--lessons learned from comprehensive evaluation of Fufang Zaoren capsule]. 문헌 고찰, Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica, 2013-11 (인체 연구). [PMID 24494575](https://pubmed.ncbi.nlm.nih.gov/24494575/).
-[^64]: Systematic review of published data on herb induced liver injury. 체계적 고찰, Journal of ethnopharmacology, 2019-04-06 (환자 수 7511명). [DOI 10.1016/j.jep.2019.01.006](https://doi.org/10.1016/j.jep.2019.01.006), [PMID 30639232](https://pubmed.ncbi.nlm.nih.gov/30639232/).
-[^65]: [Determination of seven strobilurin fungicide residues in Chinese herbs by liquid chromatography-tandem mass spectrometry coupled with solid phase extraction]. 실험연구, Se pu = Chinese journal of chromatography, 2013-03. [DOI 10.3724/sp.j.1123.2012.10021](https://doi.org/10.3724/sp.j.1123.2012.10021), [PMID 23786000](https://pubmed.ncbi.nlm.nih.gov/23786000/).
+**실무 감별 순서**:
+1. **통증의 성질** — 자통·고정통·야간 악화·거안이면 어혈 축, 창통·유주성·정서 연동이면 기체 축.
+2. **한열 판별** — 득온즉감이면 온성 배오, 작열감·구건·설홍이면 량성 활혈약(울금·단삼)으로 축을 옮긴다.
+3. **허실 판별** — 은통·희안·노권 후 악화면 허증. 연호색 단독 투여는 부적절하며 보익약을 군약으로 삼는다.
+4. **진정 필요 여부** — 통증에 불면·불안이 동반되면 연호색의 진정 작용이 이점이 되나, 주간 각성이 필요한 직업군에서는 단점이 된다.
+5. **간기능·병용약 확인** — 처방 전 반드시 간질환 병력, 중추신경 억제제·D2 길항제 복용 여부, 자가 복용 중인 수면보조 제품을 확인한다.
+
+**기질적 질환 배제 목록** — 아래에 해당하면 연호색 처방 이전에 감별 검사가 우선한다.
+
+| 부위 | 배제해야 할 기질적 원인 | 최소 확인 |
+|---|---|---|
+| 흉통 | 급성 관동맥증후군, 대동맥박리, 폐색전증, 기흉 | 심전도, 심근효소, 흉부영상 |
+| 상복통 | 소화성 궤양 천공, 담석·담낭염, 췌장염, 위암 | 상복부 초음파, 아밀라제·리파제, 필요 시 내시경 |
+| 하복·골반통 | 자궁외임신, 난소염전, 골반염, 충수염 | 임신반응검사, 골반 초음파 |
+| 요배통 | 척추 감염·전이암·압박골절, 대동맥류 | 적색기 문진, 영상, ESR·CRP |
+| 신경통 | 대상포진 급성기, 척수병증, 종양 침윤 | 피부 병변, 신경학적 검사 |
+| 두통 | 뇌출혈, 뇌수막염, 측두동맥염, 뇌종양 | 벼락두통·발열·신경학적 결손 여부 |
+
+> **근거 한계 명시**: 위 두 표는 임상 판단의 틀이지 각 항목이 동일한 근거수준의 권고라는 뜻이 아니다. 기질적 질환 배제는 근거 등급과 무관하게 우선 적용되는 안전 원칙이다.
+
+**변증 층화 강조**: 통증이라는 단일 증상만 보고 연호색을 관행적으로 가미하는 방식은 근거에 부합하지 않는다. 특히 위 배제 목록의 적색기를 확인하지 않은 채 지통약으로 증상을 덮으면 진단 지연을 초래할 수 있다.
+
+### 3-4. 실제 처방 현실 — 무엇과 함께 쓰이는가
+
+대만 전국민 건강보험 자료(1998–2008, 13~25세 원발성 월경곤란증 단독 진단 여성, 처방 57,315건)를 분석한 결과, 처방당 평균 5.3종의 약재가 사용되었고 **단미 약재로는 연호색이 33.1%로 1위, 향부자가 29.2%로 2위** 였다. 두 약재의 조합이 전체 처방의 14.24%로 가장 흔했고, 당귀작약산+연호색 조합이 10.47%로 뒤를 이었다[^40] `[배오]`. 같은 대상 질환의 대규모 단면조사(23,118명)에서도 환자들이 침보다 한약 처방을 선호하는 이용 패턴이 확인된다[^41] `[배오]`. 대만의 중약제제 전반 처방 자료도 중년 여성이 주 이용층임을 보여준다[^42].
+
+이 자료들이 말해주는 것은 **효능이 아니라 사용 현실** 이다. 즉 "연호색은 월경통에 가장 많이 쓰이는 단미 약재"라는 사실이 곧 "연호색이 월경통에 효과적임이 입증되었다"를 뜻하지는 않는다.
+
+---
+
+## 제4편 질환군별 임상 적용
+
+각 항목마다 근거 층(`[단미]`·`[성분]`·`[배오]`)을 표시한다.
+
+### 4-1. 부인과 — 원발성 월경곤란증
+
+연호색의 가장 대표적인 적응증이지만, **연호색 단미를 월경곤란증 환자에게 투여한 무작위 대조 시험은 확인되지 않는다.** 근거는 전적으로 ③층(배오)이다.
+
+- **당귀작약산(當歸芍藥散)** 은 혈허·한·어혈을 겸한 원발성 월경곤란증에서 이중맹검 시험으로 유의한 진통 효과를 보였다[^43] `[배오]`. 연호색은 이 처방에 함께 가미되는 대표 약재다[^40].
+- **사물탕(四物湯)** 계열은 원발성 월경곤란증 무작위 대조 시험 메타분석(3,982명)에서 통상 서양의학 치료 대비 통증 강도를 유의하게 낮추고 반응률을 높였으며 이상반응은 적었다[^44] `[배오]`.
+- **신궐(神闕, CV8) 제요법(臍療法)** — 한약 패치·뜸을 배꼽에 적용하는 방식으로, 24편 RCT·2,614명 메타분석에서 양약 대비 통증과 월경 증상을 유의하게 개선했다[^45] `[배오]`. 제요법에 쓰이는 첩부제에는 연호색이 흔히 배합되나, 메타분석에 포함된 처방은 이질적이다.
+- **혈부축어탕(血府逐瘀湯) 경구액** 은 256명 다기관 이중맹검 위약대조 시험에서 **주요 평가변수인 평균 통증 강도를 유의하게 낮추지 못했고**, 진통제 사용 빈도·사용량만 유의하게 감소시켰다[^46] `[배오]`. 이 음성 결과는 정직하게 기술해야 한다. 활혈거어 계열 경구 제제의 원발성 월경곤란증 진통 효과가 위약을 확실히 넘어서지 못할 수 있음을 시사하며, 변증 층화 없이 어혈 처방을 일괄 적용하는 방식의 한계를 보여준다.
+
+**임상 정리**: 월경곤란증에서 연호색은 어혈·기체 변증이 뚜렷한 환자에게 향부자·당귀·천궁(川芎) 등과 배오해 쓰는 것이 실제 임상 관행이자 근거가 있는 사용 방식이다. 다만 **이는 방제 전체의 효과이지 연호색 단독의 효과가 아니다.**
+
+### 4-2. 부인과 — 자궁내막증 관련 통증
+
+자궁내막증 관련 통증에서 한약의 근거는 상대적으로 축적되어 있다. 메타분석(1,401명)에서 한약은 월경통·성교통을 유의하게 감소시키고 TNF-α·IL-6를 낮추었으며[^47], 다른 대규모 메타분석(3,389명)에서도 통상치료 병용 시 월경통·성교통·골반통 감소가 더 컸다[^78]. 관찰연구(338명)에서는 한약 탕제가 통증·월경 증상뿐 아니라 불안·우울 지표도 개선했다[^48]. 코크란 고찰은 한약이 게스트리논과 유사한 증상 완화를 보이면서 이상반응은 더 적을 가능성을 제시하되 **근거의 질이 낮음** 을 명시했다[^49] `[배오]`.
+
+연호색은 이들 처방에서 지통약으로 배오되지만, 자궁내막증에 대한 **연호색 단미 근거는 확인되지 않는다.**
+
+### 4-3. 소화기 — DA-9701(표준화 추출물)이라는 특수 사례
+
+DA-9701은 연호색(Corydalis tuber)과 **견우자(牽牛子, *Pharbitidis semen*)** 추출물로 구성된 **표준화 식물성 의약품** 으로, 한국에서 기능성 소화불량 치료제로 허가되어 있다. 지표 성분인 코리달린과 클로로겐산이 5-HT1A·5-HT4 작용제 및 D2 길항제로 작용해 위장관 운동을 촉진한다[^50][^54]. **이는 ②층 성분·표준화 제제 근거이며, 연호색 전탕액의 근거가 아니다.**
+
+- **파킨슨병 위장관 증상** — 도파민 치료가 안정된 파킨슨병 환자 144명 대상 다기관 이중맹검 위약대조 4상 시험에서 DA-9701은 4주 시점의 위장관 증상 관련 삶의 질(한국판 Nepean 소화불량 지수)을 위약 대비 유의하게 개선했고, 12주 시점에 전반적 위장관 증상·소화불량 총점도 개선되었다. **중요한 것은 파킨슨 운동 증상을 악화시키지 않았다는 점** 이다[^51] `[성분]`.
+- **편두통 동반 구역** — 구역을 동반한 편두통 환자 110명 전향 관찰연구에서 1개월 투여로 구역일수가 53.7%(-4.65일), 두통일수가 52.2%(-8.18일) 감소했다[^50] `[성분]`.
+- **기립성 빈맥 증후군(POTS)** — 24명 무작위 이중맹검 위약대조 교차 파일럿 시험에서 **주요 평가변수(NDI-K 총점)를 유의하게 개선하지 못했고**, 상복부 통증 등 일부 증상에서만 개선 경향을 보였다[^52] `[성분]`. 음성 결과다.
+- **기전 탐색** — 건강한 한국인 자원자에게 투여한 뒤 요중 대사체를 분석해 지질·퓨린 대사 관련 7개 대사체 변화를 확인했다[^54] `[성분]`.
+- 기능성 위장관 질환 전반에서 다표적 생약 제제가 단일표적 약물의 대안이 될 수 있다는 서술적 고찰도 있다[^53].
+
+**임상적으로 가장 중요한 시사점**: DA-9701의 D2 길항은 주로 말초에서 작용하도록 설계되었고, 파킨슨병 환자에서 운동 증상 악화가 관찰되지 않았다[^51]. 반면 뇌혈관장벽을 통과하는 l-THP를 고농도로 함유한 제제에서는 지연성 추체외로증상이 보고되었다[^31]. **같은 약재에서 유래했어도 어떤 성분을, 어떤 제형·용량으로 쓰느냐에 따라 신경학적 위험이 정반대로 갈린다.** 이것이 이 문서가 성분 자료와 약재 자료를 분리해 읽으라고 요구하는 이유다.
+
+### 4-4. 소화기 — 위완통(胃脘痛)에서의 위치
+
+연호색은 금령자산(金鈴子散)의 군약으로 위완통·협통의 대표 약재로 교과서에 기재되어 있다 [교과서적 근거]. 그러나 **금령자산 또는 연호색 단미를 위완통·소화성 궤양·기능성 소화불량 환자에게 투여한 인체 무작위 대조 시험은 확인되지 않는다.** 위궤양 치료·위점막 보호를 뒷받침하는 인체 근거도 확인되지 않는다(2-4 표 참조).
+
+사람에서 확인된 소화기 자료는 모두 표준화 추출물 DA-9701에 대한 것이며(4-3), 이는 연호색 전탕액이 아니라 **연호색·견우자 추출물을 규격화한 의약품** 의 자료다[^50][^51][^52][^53][^54]. DA-9701의 위장관 운동 촉진은 코리달린·클로로겐산의 5-HT4 작용과 D2 길항으로 설명되며[^50][^54], 이 기전이 연호색 전탕액에서 같은 정도로 발현된다는 근거는 없다.
+
+**임상 정리**: 위완통에 연호색을 배오하는 것은 교과서적 관행으로서 타당하나, 환자에게 "연호색이 위궤양을 치료한다"고 설명하는 것은 근거를 넘어선다. 기질적 원인(궤양·담도·췌장·악성)을 먼저 배제한 뒤, 간울기체·기체혈어 변증이 확인된 위완통에 한정해 배오한다.
+
+### 4-5. 근골격계 통증
+
+- **반사교감신경이상증(RSD)** — 기체혈어형 RSD 환자 58명(치료군 30·대조군 28)을 무작위 배정한 대조 시험에서, **연호색 10g이 포함된 활혈거어 탕제** 경구 투여와 서근활혈 한약 훈세(熏洗)를 병행한 군이 VAS 통증과 부종 부피 감소에서 대조군보다 우월했다[^58] `[배오]`. 이 연구는 연호색이 명시적으로 처방에 들어간 인체 무작위 대조 시험이라는 점에서 이 문서에서 근거 가치가 높다. 다만 처방에는 소목·천궁·유향·당귀·홍화·몰약·자충·적작약·진피·천산갑·골쇄보 등 10종 이상이 함께 들어 있어 **연호색 단독 기여를 분리할 수 없다.**
+- **슬관절 골관절염** — 원호지통적환(元胡止痛滴丸)을 디클로페낙나트륨 서방캡슐과 비교하는 4주 무작위 동등성 시험(60명)이 등록·공표되었다. **다만 확인 가능한 것은 시험 계획서(protocol)이며, 결과 보고는 확인되지 않는다.** 따라서 현시점에서 이 자료는 "유효성이 입증되었다"는 근거가 아니라 "검증이 시도되고 있다"는 근거로만 읽어야 한다[^56] `[배오]`.
+- **늑연골염** — 만성 흉통을 겪던 21세 여자 태권도 선수에게 **연호색(Rhizoma Corydalis)과 빙편(冰片, borneol)만으로 구성된 외용 패치** 를 7주간 적용해(초기 5주 1일 2~3회, 이후 2주 1일 1회) 2주 만에 통증이 완화되고 자발통이 소실, 1개월 후 상지 가동범위가 거의 정상화된 증례가 보고되었다[^59] `[단미에 근접]`. 2종 배합이므로 엄밀히는 배오 근거지만, 연호색이 주약이며 경로가 외용이라는 점에서 이 문서에서 가장 연호색에 가까운 인체 자료다. 단일 증례이므로 근거수준은 낮다.
+- **대퇴골두 무혈성 괴사** — 비외상성 대퇴골두 무혈성 괴사 환자 1,680명 인구기반 코호트에서 한방 치료 병용군의 인공 고관절 치환술 진행 위험이 유의하게 낮았다[^76] `[배오]`. 사용 처방군에 연호색이 포함되나 개별 기여는 확인되지 않는다.
+
+### 4-6. 대상포진 후 신경통
+
+대상포진 환자 37명(치료군 18·약물군 19)을 무작위 배정한 시험에서, **연호색·황기·몰약 등을 함유한 약애조(藥艾條) 뜸** 과 가변주파수 전침(100Hz 10분 → 2Hz 30분)을 협척(夾脊, EX-B2)·아시혈(阿是穴)에 시행한 군의 총유효율은 94.44%로 이부프로펜+비타민 B1·E 투여군의 73.68%보다 유의하게 높았다[^60] `[배오]`. 표본이 작고 대조가 활성약물 단독이라는 한계가 있으나, **연호색이 외용 열자극 제형으로 신경병증성 통증에 사용된 인체 무작위 대조 자료** 라는 점에서 임상 참고 가치가 있다.
+
+### 4-7. 혈위 첩부(穴位貼敷) — 연호색의 대표적 외용 배오
+
+연호색은 삼복첩(三伏貼)·백개자도방(白芥子塗方) 계열 첩부제의 고정 구성 약재다. 실제 시험 문헌에서 확인되는 조성은 **백개자(白芥子)·세신(細辛)·연호색(延胡索)·감수(甘遂)** 이며, 생강즙·글리세린 등으로 반죽해 대추(大椎, GV14)·폐수(肺兪, BL13)·비수(脾兪, BL20)·신수(腎兪, BL23) 등에 부착한다[^61][^62].
+
+- **알레르기 비염** — 249명(첩부군 166·위약군 83) 무작위 대조 시험에서, 위 4종 약재 첩부군이 약물 성분 없는 메밀 반죽 위약군보다 증상 개선과 유효율에서 유의하게 우수했다[^61] `[배오]`. **위약 대조가 설정된 드문 시험** 이라는 점에서 근거 가치가 높다.
+- **기관지 천식** — 100명을 첩부+격강구 군과 전침+격강구 군으로 무작위 배정한 시험에서 첩부군의 현효·치유율이 72.0%(36/50)로 전침군 46.0%(23/50)보다 우월했고, 해수·천명·흉민 등 증상 점수도 첩부군이 더 좋았다[^62] `[배오]`. (이 시험의 평가 대상은 천식 증상 점수이지 흉통이 아니다.)
+- **첩부 조건 최적화** — 456명을 혈위 조합·부착시간별 3군으로 배정한 연구에서 발작 횟수와 혈청 총 IgE가 모두 감소했고, 7혈·2시간 및 7혈·4시간 군이 3혈·2시간 군보다 우수했다[^63] `[배오]`. 80명 대상 직교설계 연구도 폐수·심수·격수·신수 조합의 발작 감소·삶의 질 개선을 보고했다[^64] `[배오]`.
+- **규모 있는 관찰·임상 자료** — 알레르기 천식 209례에서 약물 혈위첩부가 전통 약구(藥灸)보다 단기 유효율이 높았고[^65], 527명 2년 추적 연구에서 하절기 폐수·풍문 첩부가 증상 정도와 악화 빈도를 유의하게 낮췄다[^66] `[배오]`.
+- **종합 근거** — 첩부요법을 통상 서양의학 치료에 병용한 8편·1,520명 메타분석에서 병용군의 임상 유효율이 우월했고[^67], 위약대조 이중맹검 시험만 모은 메타분석(1,730명)에서도 삶의 질 개선과 급성 악화 감소가 확인되었다[^77] `[배오]`.
+
+> **중요한 근거 한계**: 혈위첩부 체계적 고찰들을 개관한 연구는 이 영역 체계적 고찰의 **방법론적 질·보고 품질·근거 수준이 전반적으로 매우 낮음** 을 지적했다[^68]. 또한 위 시험들의 첩부제 조성은 서로 다르며, 모든 시험이 연호색을 포함하지는 않는다. 따라서 이 결과들은 **연호색의 효과가 아니라 연호색이 들어간 첩부 요법 전체의 효과** 로 읽어야 한다. 경혈 외용 요법 일반의 이론적 정리는 별도 고찰에 있다[^69].
+
+### 4-8. 암성 통증
+
+암성 통증 관리에서 한약의 위치를 정리한 고찰들은, 염증 폭포·신경전달물질 변조·신경 무결성 손상이라는 복합 기전을 다성분·다표적 접근으로 조절하려는 전략을 제시하며 연호색·백지(白芷)·천궁 등을 대표 약재로 든다[^70][^71] `[배오]`. 아편유사제의 내성·의존·변비 문제를 보완하는 병용 전략으로서의 가치가 강조되나, **연호색 단미의 암성 통증 무작위 대조 시험은 확인되지 않는다.** 진통 알칼로이드 전반을 다룬 고찰도 다표적 작용의 가능성을 제시하되 임상 근거의 부족을 함께 지적한다[^26][^27].
+
+### 4-9. 중독·금단 — 성분 근거의 영역
+
+l-THP(로툰딘)는 D1·D2 길항을 통해 코카인의 보상 효과와 재발을 억제하는 후보 약물로 개발이 진행되었다[^25] `[성분]`. 약물 중독 전반에 대한 중약 근거를 정리한 고찰[^73], 오피오이드 의존에 대한 중국·인도 전통의학 고찰[^74], 오피오이드 금단에 대한 통합의학 체계적 고찰[^72]도 관련 자료를 다루며, 연호색을 포함한 복방을 '약-증-병' 삼각 연관 치료 틀로 설명하려는 시도도 있다[^75] `[배오]`.
+
+**임상 지침**: 이 영역의 근거는 거의 전부 정제 l-THP에 대한 것이다. **중독 치료 목적으로 연호색 전탕액을 처방하는 것은 위 자료들로 정당화되지 않는다.**
+
+---
+
+## 제5편 배오(配伍)와 복방
+
+| 배오·제제 | 구성 | 주치 | 근거 층 |
+|---|---|---|---|
+| **금령자산(金鈴子散)** | 연호색 + 천련자(川楝子) | 간울화화(肝鬱化火)의 위완통·협통 | 인체 임상시험 확인되지 않음 [교과서적 근거] |
+| **연호색 + 향부자(香附子)** | 2미 | 기체혈어 월경통 | ③ 처방 빈도 1위 조합[^40] |
+| **당귀작약산 + 연호색** | 복방 가미 | 혈허·한응 월경통 | ③[^40][^43] |
+| **연호색 + 백지(白芷)** | 2미 | 두통·위완통·월경통 | 인체 근거 확인되지 않음 [교과서적 근거] |
+| **원호지통(元胡止痛) 계열** | 연호색 + 백지 등 | 기체혈어 통증 전반 | ③ 성분·제제 분석[^57], 슬관절염 시험 계획서[^56] |
+| **삼복첩(三伏貼)** | 백개자·세신·연호색·감수 | 천식·비염(동병하치) | ③ 위약대조 RCT 포함[^61][^62] |
+| **약애조(藥艾條) 뜸** | 연호색·황기·몰약 등 | 대상포진 후 신경통 | ③[^60] |
+| **활혈거어 탕제(RSD)** | 연호색 10g + 소목·천궁·유향 등 | 기체혈어 RSD | ③[^58] |
+| **연호색 + 빙편 외용 패치** | 2미 외용 | 늑연골염 흉통 | ①에 근접(증례 1례)[^59] |
+| **DA-9701** | 연호색 + 견우자 표준화 추출물 | 기능성 소화불량·위장관 운동 저하 | ②[^50][^51][^52] |
+
+> **근거 한계 명시**: 이 표는 배오의 임상 틀이지 각 조합이 동일한 근거수준으로 검증되었다는 뜻이 아니다. 금령자산·연호색+백지 등 교과서적 대표 배오조차 인체 무작위 대조 근거는 확인되지 않는다. **표에 등장하는 효과는 조합 전체의 효과이지 연호색 단독의 효과가 아니다.**
+
+**변증 층화 강조**: 배오는 변증에 종속된다. 같은 위완통이라도 간울화화면 금령자산, 한응이면 온리약과의 배오, 비위허한이면 연호색 자체가 부적합할 수 있다. 통증이라는 증상만 보고 연호색을 관행적으로 가미하는 것은 근거에 부합하지 않는다.
+
+---
+
+## 제6편 용량·안전성·관리
+
+### 6-1. 용량·용법
+
+교과서적 통상 용량은 전탕 3~9g, 산제(散劑)로는 1일 1.5~3g을 2~3회 분복한다 [교과서적 근거]. 통증이 급격하면 증량하기도 하나, **연호색 용량-반응 관계를 사람에서 확인한 자료는 없다.** 반면 성분이 농축된 제형에서 사람에게 중대한 독성이 발생한 자료는 존재하므로[^31][^32][^33][^35], **"많이 쓸수록 좋다"는 방향의 증량은 정당화되지 않는다.**
+
+- 규격에 맞는 초연호색(醋延胡索)을 사용한다[^17][^22].
+- 알칼로이드는 산성 조건에서 용출이 좋아지므로 초제 약재를 쓰는 관행에는 화학적 근거가 있다[^21].
+- 성분 농축 제형(엑스산·정제·환제)은 전탕액과 노출량이 다르므로 제품 표기 용량을 따른다.
+- 소아·고령자·저체중 환자는 하한에서 시작한다.
+
+### 6-2. 안전성 표
+
+| 위험 | 내용 | 조치 | 근거 |
+|---|---|---|---|
+| **간손상(HILI)** | 한약 유발 간손상 체계적 고찰(DILI/HILI 총 7,511례 중 한약 관련 1,874례, 25.0%)에서 여성 비율 69.8%, 간세포성 손상이 우세. 원인 약재 목록에 연호색이 포함 | 4주 이상 투여 시 AST·ALT·ALP·총빌리루빈 기저치와 추적 검사 | [^39] |
+| **연호색 함유 제품 간독성** | 연호색을 활성 성분으로 하는 수면보조제 복용 후 간독성 2례. 1례는 재섭취 시 간효소 재상승(양성 재투여) | 원인 미상 간손상 시 건강기능식품·수면보조제 이력 필수 확인 | [^38] |
+| **오인 섭취 간염** | 산괴불주머니(*C. speciosa*) 반복 섭취 후 급성 담즙정체성 간염, 재섭취 시 재발 | 기원 식물·유통 경로 확인. 민간 채취품 금지 | [^6] |
+| **l-THP 고농도 제제 간손상** | 캐나다 보건당국이 l-THP 함유 제제의 임신부 간손상을 고지 | 임신부 투여 금지 | [^31] |
+| **l-THP 고농도 제제 급성 중독** | 소아 우발 섭취 후 급속한 서맥·중추신경 및 호흡 억제(생명 위협) | 소아 접근 차단, 어린이 보호 용기 | [^32][^33][^34] |
+| **장기 복용 간염** | 성인 7명이 평균 20주 복용 후 급성 간염, 재투여 시 급격 재발. 조직검사 확인 만성 간염·섬유화 1례 | 장기 투여 시 정기 간기능 검사, 이상 시 즉시 중단 | [^35][^36][^37] |
+| **추체외로증상** | THP 함유 제제 고용량에서 지연성 추체외로증상 | D2 길항제 병용 회피, 운동증상 문진 | [^31] |
+| **진정·중추 억제** | 진정·수면 유도가 이 약재군의 약리적 성질. 아편유사제·벤조디아제핀·알코올·항히스타민제와 상가 작용 우려 | 운전·기계조작 주의 고지, 중추억제제 병용 시 감량 | [^29][^31][^32] |
+| **임신** | 활혈약이며 l-THP 관련 임신부 간손상 고지 존재 | **임신 중 금기** | [^31] |
+| **농약 잔류** | 절강산 주요 약재에서 유의한 농약 잔류 확인 | 규격 검사 통과 약재만 사용 | [^23][^24] |
+
+> **근거 한계 명시**: 위 표의 간독성·신경독성 근거 다수는 **성분 농축 제제(l-THP 정제·엑스제)** 에서 나온 것이며, 규격 연호색 전탕액을 통상 용량으로 사용했을 때의 위험도를 직접 정량한 인체 자료는 확인되지 않는다. 그러나 주성분이 동일한 이상, 이 자료들을 무시하는 것이 아니라 **주의 신호로 반영** 하는 것이 임상적으로 타당하다.
+
+### 6-3. 진정·운전·중추신경 억제제 병용
+
+연호색과 그 주성분은 진통과 함께 **진정·수면 유도** 를 낸다. 실제로 미국 시장에서 연호색은 **수면보조제** 성분으로 판매되어 왔고, 그 제품에서 간독성 증례가 나왔다[^38]. 금불환 사건에서 소아의 급성 증상은 중추신경·호흡 억제였다[^33][^34].
+
+**임상 지침**:
+- 복용 초기와 증량 시 **운전·기계조작·고소작업을 피하도록 고지** 한다.
+- **벤조디아제핀·Z-드러그·아편유사제·알코올·진정성 항히스타민제·항정신병약** 과의 병용 시 진정이 상가될 수 있음을 설명하고, 병용이 불가피하면 연호색 용량을 하한에서 시작한다.
+- 야간 낙상 위험이 있는 고령자에게는 취침 전 투여를 재검토한다.
+- 수면보조 목적의 자가 복용(건강기능식품 형태)을 하고 있는지 반드시 확인한다 — 처방과 중복되면 노출량이 배가된다[^38].
+
+### 6-4. 약물 상호작용
+
+| 대상 | 예상 기전 | 임상 조치 | 근거 수준 |
+|---|---|---|---|
+| D2 길항제(항정신병약, 메토클로프라미드, 레보설피리드) | D2 길항 상가 → 추체외로증상 | 병용 회피, 불가피 시 운동증상 추적 | 이론 + 제제 이상반응 보고[^31] |
+| 중추신경 억제제(벤조디아제핀·아편유사제·알코올) | 진정 상가 | 감량·고지 | 이론 + 증례[^32][^33] |
+| 레보도파 등 항파킨슨약 | D2 길항으로 효과 상쇄 가능 | 파킨슨병 환자에서 신중 (단, 말초 선택적 DA-9701은 운동증상 악화 없었음[^51]) | 이론 + 임상시험[^51] |
+| CYP2D6·UGT1A1 기질 | 인체 간마이크로솜에서 DA-9701·연호색 추출물이 CYP2D6를 억제(Ki 6.3·3.7 μg/mL), UGT1A1 약한 억제. 다만 용량당 희석부피 1.16 L/dose로 강력 억제제일 가능성은 낮음 | 좁은 치료역 CYP2D6 기질(항부정맥제·삼환계 항우울제) 병용 시 관찰 | 인체 유래 조직 in vitro[^55] |
+| 간독성 약물(항결핵제·메토트렉세이트·아세트아미노펜 고용량) | 간손상 위험 중첩 | 간기능 추적 강화 | 증례·체계적 고찰[^35][^38][^39] |
+
+> **근거 한계 명시**: 연호색에 대한 **인체 약물상호작용 시험은 확인되지 않는다.** 위 표는 인체 유래 조직 자료와 기전 추론, 제제 이상반응 보고에 근거한 예방적 지침이다.
+
+### 6-5. 임신·수유·소아
+
+- **임신 중 금기.** 연호색은 활혈약이며, l-THP 함유 제제의 임신부 간손상이 규제기관에 의해 고지된 바 있다[^31]. 산후 어체(瘀滯) 통증에 쓰는 전통 용법이 있으나 임신 중에는 사용하지 않는다.
+- **수유 중** 안전성 자료는 확인되지 않는다. 회피가 원칙이다.
+- **소아** — l-THP 고농도 제제의 우발 섭취로 소아에서 생명을 위협하는 서맥·중추 및 호흡 억제가 발생한 전례가 있다[^33][^34]. 연호색 함유 제제는 **어린이 손이 닿지 않는 곳에 보관** 하도록 반드시 안내한다.
+
+### 6-6. 추적 지표표
+
+| 영역 | 추적 지표 | 시점 |
+|---|---|---|
+| 통증 | VAS/NRS, 통증 일수, 진통제 사용량, WOMAC(슬관절), Cox 월경증상척도 | 매 진료 |
+| 월경 | 월경통 지속시간, 월경량, 주기 규칙성 | 주기마다 |
+| 소화기 | Nepean 소화불량 지수(NDI-K), 조기 포만감, 상복부 통증 | 4주 간격 |
+| **간** | **AST, ALT, ALP, γ-GT, 총빌리루빈** | **기저치 + 4주 이상 투여 시 4~8주 간격** |
+| **신경** | **진전·근강직·정좌불능·구강 주위 불수의 운동, 주간 졸림(ESS)** | **매 진료 문진** |
+| 순환 | 맥박수(서맥 감시), 혈압 | 매 진료 |
+| 삶의 질 | SF-36, EHP-30(자궁내막증) | 8~12주 |
+
+> **근거 한계 명시**: 간·신경 항목은 확인된 인체 안전성 신호에 근거한 것으로 우선순위가 높다. 나머지는 질환군별 평가 관행이다.
+
+### 6-7. 조섭표
+
+| 항목 | 지도 내용 | 이론적 근거 |
+|---|---|---|
+| 보온 | 하복·요배부 보온, 냉음료·찬 바닥 회피 | 「寒則氣收, 溫則消而去之」 — 한응혈어의 악화 방지 |
+| 정서 | 억울·분노의 지속 회피, 규칙적 이완 | 「怒則氣上」·「思則氣結」 — 간울기체는 통증을 증폭 |
+| 활동 | 통증기에는 가벼운 보행 유지, 완전 안정 회피 | 「久臥傷氣」 — 기체는 부동으로 악화 |
+| 음주 | **금주.** 진정 상가와 간부담 중첩 | 안전성 근거[^35][^38] |
+| 운전 | 복용 초기·증량기 운전과 기계조작 제한 | 진정 작용[^31][^33] |
+| 식이 | 생냉(生冷)·과도한 신맛 회피, 규칙적 식사 | 비위 손상 방지 [교과서적 근거] |
+| 수면 | 자정 이전 취침. 수면보조제와의 중복 복용 금지 | 성분 중복 노출 방지[^38] |
+| 방로 | 통증 발작기 절제 | [교과서적 근거] |
+| 병용 | 복용 중인 건강기능식품·수입 한약제제 전부 신고 | 금불환 사례의 교훈[^32] |
+
+### 6-8. 환자 설명용 요약
+
+> 연호색(현호색)은 "기와 피가 막혀서 생기는 통증"을 풀어주는 데 쓰는 대표적인 한약재입니다. 월경통, 배와 옆구리의 통증, 근육·관절 통증, 신경통 등에 오래 사용되어 왔습니다.
+>
+> 다만 몇 가지를 꼭 알아두셔야 합니다. **첫째, 이 약은 졸음을 유발할 수 있습니다.** 복용 초기나 용량을 올린 뒤에는 운전이나 위험한 기계 조작을 피해 주십시오. 수면제·신경안정제·진통 마약·술과 함께 드시면 졸음이 겹쳐 위험할 수 있습니다.
+>
+> **둘째, 드물지만 간에 부담이 될 수 있습니다.** 4주 이상 드시는 경우 간 기능 혈액검사를 함께 받으시고, 피로감이 심해지거나 소변이 진해지거나 눈·피부가 노래지면 즉시 복용을 멈추고 알려 주십시오.
+>
+> **셋째, 임신 중에는 드시지 않습니다.** 임신 가능성이 있으면 미리 말씀해 주십시오.
+>
+> **넷째, 인터넷이나 해외에서 산 "현호색 성분 수면보조제"나 정체가 불분명한 알약을 함께 드시지 마십시오.** 과거 해외에서 이 계열 성분이 고농도로 들어간 제품 때문에 어린이가 심각한 호흡 억제를, 어른이 간염을 일으킨 사례가 실제로 있었습니다. 같은 성분이라도 **달여 먹는 약재와 농축한 알약은 전혀 다른 양** 이 들어갑니다.
+>
+> **다섯째, 손발이 떨리거나 몸이 뻣뻣해지거나 가만히 앉아 있기 힘들 정도로 안절부절못하는 느낌이 생기면 바로 알려 주십시오.** 이 약이 뇌의 특정 수용체에 작용하기 때문에 드물게 나타날 수 있는 신호입니다.
+>
+> 약은 반드시 한의사의 변증(체질과 병의 성질 판단)에 따라 정해진 용량으로만 드십시오. 통증이 있다고 아무 때나 늘려 드시는 방식은 권장되지 않습니다.
+
+---
+
+## 제7편 Q&A
+
+**Q1. 연호색 단미로 통증에 써도 되는가? 근거가 있는가?**
+
+전통적으로 단미 분말(3g 내외)을 지통 목적으로 쓰는 용법이 있지만, **연호색 단미 경구 투여를 위약과 비교한 인체 무작위 대조 시험은 확인되지 않는다.** 사람에서 확인된 자료는 ① 연호색이 포함된 복방 탕제[^58], ② 연호색이 들어간 외용 첩부·뜸[^60][^61][^62], ③ 연호색+빙편 외용 패치 증례 1례[^59], ④ 정제 THP나 표준화 추출물[^30][^50][^51]이다. 따라서 임상에서는 **변증에 맞는 복방에 지통 주약으로 배오하는 방식** 이 근거와 관행 모두에 부합한다.
+
+**Q2. 테트라하이드로팔마틴(THP) 임상 논문을 연호색의 근거로 인용해도 되는가?**
+
+**안 된다.** 투여 경로·용량·기질이 모두 다르다. 정제 l-THP는 단일 성분을 수십~수백 mg 단위로 투여하지만, 연호색 3~9g 전탕액의 THP 노출량은 자릿수가 다르고 다른 알칼로이드와 경쟁·간섭한다. 실제로 이 혼동이 임상적 피해로 이어진 전례가 금불환 사건이다 — 표기와 실제 성분이 다른 고농도 l-THP 정제로 소아 3명이 생명을 위협하는 서맥·호흡 억제를, 성인 7명이 급성 간염을 일으켰다[^32][^33][^35]. THP 자료는 **안전성 신호로는 반영하되, 유효성 근거로는 연호색에 전용하지 않는다.**
+
+**Q3. 진통 기전이 도파민 D2 길항이면, 항정신병약처럼 파킨슨증이 올 수 있는가?**
+
+원리적으로 가능하며, 실제 보고가 있다. THP를 함유한 시판 제제의 시판 후 재평가에서 **고용량 투여 시 지연성 추체외로증상** 이 보고되었다[^31]. 다만 모든 연호색 유래 제제가 같은 위험을 갖지는 않는다. 말초 작용을 지향해 설계된 표준화 추출물 DA-9701은 파킨슨병 환자 144명 대상 위약대조 시험에서 **운동 증상을 악화시키지 않으면서** 위장관 증상을 개선했다[^51]. 결정 요인은 **뇌혈관장벽 통과 여부와 노출량** 이다. 임상적으로는 ① 항정신병약·위장관 D2 길항제 병용 회피, ② 장기 투여 환자에서 진전·근강직·정좌불능 문진, ③ 이상 시 즉시 중단·신경과 협진이 실질적 대응이다.
+
+**Q4. 운전이나 야간 근무를 하는 환자에게 처방해도 되는가?**
+
+처방 자체가 금기는 아니나 **반드시 고지가 필요하다.** 연호색과 그 성분은 진정·수면 유도 작용을 가지며, 미국에서는 연호색이 수면보조제 성분으로 판매되었을 정도다[^38]. 복용 초기와 증량기에는 운전·기계조작·고소작업을 피하도록 안내하고, 벤조디아제핀·아편유사제·알코올·진정성 항히스타민제와 병용 중이면 하한 용량에서 시작한다. 고령자는 야간 낙상 위험을 함께 평가한다.
+
+**Q5. 간이 나쁜 환자에게 쓸 수 있는가? 어떤 검사를 해야 하는가?**
+
+간기능 저하 환자에서는 **원칙적으로 회피하거나, 불가피하면 최소 용량·단기간으로 제한** 한다. 근거는 세 갈래다. ① 한약 유발 간손상 체계적 고찰에서 연호색이 원인 약재 목록에 포함되었고, 한약 관련 간손상은 여성(69.8%)과 간세포성 손상(78.8%)이 우세하다[^39]. ② 연호색을 활성 성분으로 하는 수면보조제 복용 후 간독성 2례가 보고되었고 1례는 재섭취 시 간효소가 다시 상승했다(양성 재투여)[^38]. ③ 국내에서 산괴불주머니를 연호색류로 오인 섭취해 급성 담즙정체성 간염이 발생한 증례가 있다[^6]. 4주 이상 투여 시 **기저 및 4~8주 간격 AST·ALT·ALP·총빌리루빈** 을 확인하고, 원인 미상 간손상 환자에게는 복용 중인 건강기능식품·수면보조제·수입 제제 이력을 반드시 문진한다.
+
+**Q6. 초연호색(醋延胡索)이 생연호색보다 진통 효과가 좋다는데, 근거가 있는가?**
+
+**화학적 근거는 있으나 인체 비교 근거는 확인되지 않는다.** 식초·술 포제가 알칼로이드 총량과 조성을 바꾸고[^17], 산지별 생품·포제품의 활성 성분 함량이 달라지며[^18], 약전 표준 포제 후 검출 알칼로이드 종류가 감소하고 코리달린이 구조 변화를 겪는다[^19]는 분석 결과가 있다. 초제 조건에 따라 추출 효율이 달라진다는 공정 연구도 있다[^21]. 그러나 초연호색과 생연호색을 환자에게 무작위 배정해 진통 효과를 비교한 시험은 없다. 임상에서는 **규격(약전 초연호색)을 따르되, 효과 차이를 단정적으로 설명하지 않는다.**
+
+**Q7. 월경통에 연호색을 쓴다면 어떻게 조합하는가?**
+
+실제 처방 현실과 근거를 함께 보면 답이 나온다. 대만 건강보험 자료에서 원발성 월경곤란증 처방 57,315건 중 연호색이 33.1%로 최다 사용 단미였고, 향부자와의 조합(14.24%), 당귀작약산과의 조합(10.47%)이 가장 흔했다[^40]. 근거 측면에서는 당귀작약산이 이중맹검 시험에서 진통 효과를 보였고[^43], 사물탕 계열은 3,982명 메타분석에서 통증 감소가 확인되었다[^44]. 배꼽(신궐) 첩부·뜸은 2,614명 메타분석에서 양약 대비 우월했다[^45]. 다만 혈부축어탕 경구액 256명 위약대조 시험은 **주요 평가변수에서 음성** 이었다[^46]. 즉 어혈 처방을 변증 없이 일괄 적용하면 위약을 넘지 못할 수 있으므로, **기체·한응·혈허 등 변증을 층화해 조합** 하는 것이 핵심이다. 이 효과들은 모두 방제 전체의 효과이지 연호색 단독의 효과가 아니다.
+
+**Q8. 자궁내막증 통증에 한약을 병용해도 되는가?**
+
+병용 근거는 상대적으로 축적되어 있다. 메타분석(1,401명)에서 한약이 월경통·성교통을 유의하게 낮추고 TNF-α·IL-6를 감소시켰으며[^47], 관찰연구(338명)에서 통증뿐 아니라 불안·우울 지표도 개선되었다[^48]. 코크란 고찰은 게스트리논과 유사한 증상 완화와 더 적은 이상반응 가능성을 제시하되 **근거의 질이 낮음** 을 명시했다[^49]. 연호색은 이들 처방에 지통약으로 배오되나 **단미 근거는 없다.** 수술·호르몬 치료를 대체하지 않는 **보조 요법** 으로 위치시키고, 산부인과 주치의와 공동 관리한다.
+
+---
+
+## 부록. 근거 지도 — 무엇이 어디까지 확인되었는가
+
+문서 전체의 결론을 한 장으로 요약한다. 임상 설명과 동의 과정에서 이 표를 그대로 사용할 수 있다.
+
+| 주장 | 최고 근거 | 근거 층 | 결론 |
+|---|---|---|---|
+| 연호색 단미가 통증을 줄인다 | 증례 1례(외용)[^59] | ① | 인체 대조 근거는 확인되지 않는다 |
+| 연호색 함유 복방이 통증을 줄인다 | 무작위 대조 시험 58명[^58] | ③ | 제한적이나 인체 근거 존재. 방제 전체의 효과 |
+| 연호색 함유 첩부가 알레르기 증상을 줄인다 | 위약대조 RCT 249명[^61] | ③ | 인체 근거 존재. 첩부 조성 전체의 효과 |
+| 연호색이 월경통에 가장 많이 쓰인다 | 처방 DB 57,315건[^40] | ③ | 사용 현실이지 효능 근거가 아니다 |
+| 어혈 처방이 월경통에 유효하다 | 위약대조 RCT 256명(음성)[^46] | ③ | 변증 층화 없이는 위약을 넘지 못할 수 있다 |
+| THP가 진통을 증강한다 | 임상시험 24명[^30] | ② | 정제 성분의 자료. 약재로 환원 불가 |
+| 표준화 추출물이 위장관 증상을 개선한다 | 위약대조 RCT 144명[^51] | ② | 의약품의 자료. 전탕액으로 환원 불가 |
+| 초제가 진통을 강화한다 | 화학 분석[^17][^19] | — | 인체 비교 근거는 확인되지 않는다 |
+| 고농도 THP 제제가 간손상을 일으킨다 | 재투여 확인 증례 7명[^35] | ② | 사람에서 확인됨. 안전성 신호로 반영 |
+| 고농도 THP 제제가 중추·호흡을 억제한다 | 소아 3명[^33] | ② | 사람에서 확인됨. 소아 접근 차단 |
+| 연호색 함유 제품이 간손상을 일으킨다 | 재투여 확인 증례 2명[^38] | ① | 사람에서 확인됨. 간기능 추적 필요 |
+| THP 함유 제제가 추체외로증상을 일으킨다 | 시판 후 재평가[^31] | ② | 사람에서 확인됨. 고용량 회피 |
+| 연호색이 위궤양을 치료한다 | — | — | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 연호색이 심근을 보호한다 | — | — | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+| 연호색이 항암 작용을 한다 | — | — | 이 부분을 뒷받침하는 인체 근거는 확인되지 않는다 |
+
+> **근거 한계 명시**: 이 표는 근거의 소재를 정리한 지도이지, 각 행이 같은 강도의 권고라는 뜻이 아니다. "인체 근거가 확인되지 않는다"는 표기는 효과의 부재를 주장하는 것이 아니라 사람에서 검증되지 않았다는 사실의 진술이다.
+
+**고전 인용 출처**: 『本草綱目』(草部, 延胡索), 『雷公炮炙論』, 『開寶本草』, 『濟生方』(金鈴子散), 『黃帝內經素問』(擧痛論, 至眞要大論), 『醫學啓源』.
+**문헌 데이터 출처**: 한의학 논문 데이터베이스 및 PubMed(NCBI E-utilities) — 2026-09-05 조회 기준. 각주의 저자·저널·출판일·게재 유형은 PubMed esummary로 대조하였으며, 철회(Retracted Publication) 여부를 전수 확인하였다.
+
+[^1]: Traditional application, Chemical composition, Pharmacological effects, Quality control and Clinical application of Corydalis yanhusuo W. T. Wang dried Rhizome. Yu Z 외. _Journal of Ethnopharmacology_. 2027-01-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.122156](https://doi.org/10.1016/j.jep.2026.122156) [PMID 42409344](https://pubmed.ncbi.nlm.nih.gov/42409344/) — 연호색의 전통 응용·성분·품질관리를 총괄한 최신 종합 고찰. 약리 서술의 다수가 비임상 자료임을 전제로 읽어야 한다.
+[^2]: [Varieties and standards of Corydalis medicinal plants]. Li HM 외. _Zhongguo Zhong Yao Za Zhi_. 2022-04. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20220115.101](https://doi.org/10.19540/j.cnki.cjcmm.20220115.101) [PMID 35531743](https://pubmed.ncbi.nlm.nih.gov/35531743/) — 현호색속의 이물동명·동물이명 실태를 정리. 기원 식물 확인이 임상 안전의 전제임을 뒷받침한다.
+[^3]: Systematic review of the alkaloid constituents in several important medicinal plants of the Genus Corydalis. Deng AP 외. _Phytochemistry_. 2021-03. [체계적 고찰] [DOI 10.1016/j.phytochem.2020.112644](https://doi.org/10.1016/j.phytochem.2020.112644) [PMID 33429352](https://pubmed.ncbi.nlm.nih.gov/33429352/) — 종별 알칼로이드 조성이 크게 다름을 체계적으로 정리. 대용품 사용의 위험을 성분 수준에서 설명한다.
+[^4]: [Evolution and changes of authentic medicinal of Rhizoma Corydalis]. Chu S 외. _Zhonghua Yi Shi Za Zhi_. 2015-09. [문헌 고찰] [PMID 26813088](https://pubmed.ncbi.nlm.nih.gov/26813088/) — 정품 기준(종·산지·수확기·가공법)이 역사적으로 변동했음을 고증. 고전 기재와 현행 규격을 등치할 수 없음을 뜻한다.
+[^5]: Advances in phytochemical and modern pharmacological research of Rhizoma Corydalis. Tian B 외. _Pharmaceutical Biology_. 2020-12. [문헌 고찰] [DOI 10.1080/13880209.2020.1741651](https://doi.org/10.1080/13880209.2020.1741651) [PMID 32223481](https://pubmed.ncbi.nlm.nih.gov/32223481/) — 연호색 성분·약리 연구를 총괄. 효능 서술의 근거 층위를 구분해 읽을 필요를 보여준다.
+[^6]: [A case of acute cholestatic hepatitis induced by Corydalis speciosa Max]. Kang HS 외. _The Korean Journal of Hepatology_. 2009-12. [증례 보고, 1명] [DOI 10.3350/kjhep.2009.15.4.517](https://doi.org/10.3350/kjhep.2009.15.4.517) [PMID 20037271](https://pubmed.ncbi.nlm.nih.gov/20037271/) — 국내에서 현호색속 근연종을 민간 섭취해 담즙정체성 간염이 발생하고 재섭취로 재발한 사례. 기원 식물 확인의 임상적 중요성을 직접 입증한다.
+[^7]: Rapid identification of traditional Chinese herbal medicine by direct analysis in real time (DART) mass spectrometry. Wang Y 외. _Analytica Chimica Acta_. 2014-10-03. [실험연구(약재 분석)] [DOI 10.1016/j.aca.2014.06.014](https://doi.org/10.1016/j.aca.2014.06.014) [PMID 25201274](https://pubmed.ncbi.nlm.nih.gov/25201274/) — 전처리 없이 약재를 신속 판별하는 분석법. 유통 단계 위품 감별에 활용 가능하다.
+[^8]: Rapid discrimination and quantification of alkaloids in Corydalis Tuber by near-infrared spectroscopy. Lu HY 외. _Journal of Pharmaceutical and Biomedical Analysis_. 2012-02-05. [실험연구(약재 분석)] [DOI 10.1016/j.jpba.2011.09.037](https://doi.org/10.1016/j.jpba.2011.09.037) [PMID 22024731](https://pubmed.ncbi.nlm.nih.gov/22024731/) — 근적외선 분광으로 주요 알칼로이드를 신속 정량. 산지 판별과 규격 관리의 실무 도구다.
+[^9]: [Discussion of HPLC fingerprint of traditional Chinese medicine of Corydalis yanhusuo and its preparation]. Chen DD 외. _Zhongguo Zhong Yao Za Zhi_. 2015-06. [문헌 고찰] [PMID 26591545](https://pubmed.ncbi.nlm.nih.gov/26591545/) — 원약재와 포제품·제제의 HPLC 지문 규격을 정리. 초연호색 규격의 근거 기반이다.
+[^10]: Preparative separation of quaternary ammonium alkaloids from Corydalis yanhusuo W. T. Wang by pH-zone-refining counter-current chromatography. Yu Q 외. _Journal of Separation Science_. 2011-02. [실험연구(약재 분석)] [DOI 10.1002/jssc.201000749](https://doi.org/10.1002/jssc.201000749) [PMID 21268250](https://pubmed.ncbi.nlm.nih.gov/21268250/) — 4급 암모늄 알칼로이드 분획의 분리법. 연호색이 단일 성분이 아닌 알칼로이드 혼합물임을 보여준다.
+[^11]: Two new quaternary protoberberine alkaloids from Corydalis yanhusuo. Zhou Q 외. _Journal of Asian Natural Products Research_. 2012. [실험연구(약재 분석)] [DOI 10.1080/10286020.2012.677038](https://doi.org/10.1080/10286020.2012.677038) [PMID 22530675](https://pubmed.ncbi.nlm.nih.gov/22530675/) — 신규 프로토베르베린 알칼로이드 보고. 성분 목록이 아직 완결되지 않았음을 시사한다.
+[^12]: Two new alkaloids from Corydalis humosa. Zheng XK 외. _Journal of Asian Natural Products Research_. 2013-11. [실험연구(약재 분석)] [DOI 10.1080/10286020.2013.822369](https://doi.org/10.1080/10286020.2013.822369) [PMID 23919659](https://pubmed.ncbi.nlm.nih.gov/23919659/) — 근연종의 별도 알칼로이드 확인. 종 간 성분 차이의 실례다.
+[^13]: [Simultaneous determination of four alkaloids in Corydalis decumbens (Thunb.) Pers. by high performance liquid chromatography-tandem mass spectrometry]. Shen Y 외. _Se Pu_. 2011-02. [실험연구(약재 분석)] [DOI 10.3724/sp.j.1123.2011.00176](https://doi.org/10.3724/sp.j.1123.2011.00176) [PMID 21598521](https://pubmed.ncbi.nlm.nih.gov/21598521/) — 복지연호색의 알칼로이드 4종 정량. 연호색과 조성이 다름을 정량적으로 보여준다.
+[^14]: [Study on material base of corydalis rhizoma]. Yang XB 외. _Zhongguo Zhong Yao Za Zhi_. 2014-01. [문헌 고찰] [PMID 24754162](https://pubmed.ncbi.nlm.nih.gov/24754162/) — 연호색의 물질 기초를 프로토베르베린·아포르핀 계열로 정리한 고찰.
+[^15]: [Phytochemical and pharmacological advance on Tibetan medicinal plants of Corydalis]. Shang WQ 외. _Zhongguo Zhong Yao Za Zhi_. 2014-04. [문헌 고찰] [PMID 25011252](https://pubmed.ncbi.nlm.nih.gov/25011252/) — 티베트 의학에서 쓰이는 현호색속 식물의 성분·약리 정리. 속 전체가 유사 알칼로이드군을 공유함을 보여준다.
+[^16]: Identification and Quantification, Metabolism and Pharmacokinetics, Pharmacological Activities, and Botanical Preparations of Protopine: A Review. Huang W 외. _Molecules_. 2021-12-30. [문헌 고찰] [DOI 10.3390/molecules27010215](https://doi.org/10.3390/molecules27010215) [PMID 35011447](https://pubmed.ncbi.nlm.nih.gov/35011447/) — 프로토핀의 분석·대사를 종합. 서술된 약리 활성은 비임상 자료 기반이므로 인체 효능 근거로 쓰지 않는다.
+[^17]: Influence of vinegar and wine processing on the alkaloid content and composition of the traditional Chinese medicine Corydalis Rhizoma (Yanhusuo). Wu H 외. _Molecules_. 2014-08-04. [실험연구(약재 분석)] [DOI 10.3390/molecules190811487](https://doi.org/10.3390/molecules190811487) [PMID 25093987](https://pubmed.ncbi.nlm.nih.gov/25093987/) — 초제·주제가 알칼로이드 총량과 조성을 바꿈을 정량 확인. 초제 관행의 화학적 근거다.
+[^18]: [Determination of main active components in crude and processed Corydalis Rhizoma samples from different habitats]. Ma YG 외. _Zhong Yao Cai_. 2013-11. [실험연구(약재 분석)] [PMID 24956813](https://pubmed.ncbi.nlm.nih.gov/24956813/) — 산지·포제 여부에 따른 활성 성분 함량 변동을 비교. 규격 관리의 필요를 뒷받침한다.
+[^19]: Alkaloids in Processed Rhizoma Corydalis and Crude Rhizoma Corydalis Analyzed by GC/MS. Guo Z 외. _Journal of Analytical Methods in Chemistry_. 2014. [실험연구(약재 분석)] [DOI 10.1155/2014/281342](https://doi.org/10.1155/2014/281342) [PMID 25210643](https://pubmed.ncbi.nlm.nih.gov/25210643/) — 표준 포제 후 검출 알칼로이드 종류가 감소하고 코리달린이 구조 변화. 포제가 성분을 선택적으로 감소·변형시킴을 보여준다.
+[^20]: [Study on the initial processing of Corydalis yanhusuo]. Xu JZ 외. _Zhong Yao Cai_. 2011-07. [실험연구(약재 분석)] [PMID 22066395](https://pubmed.ncbi.nlm.nih.gov/22066395/) — 절단 두께·건조 온도가 추출 수율과 성분 함량을 좌우함을 확인. 초가공 표준화의 근거다.
+[^21]: [Selection of optimum technological conditions for vinegar-processing of fresh rhizoma Corydalis]. Wang Y 외. _Zhongguo Zhong Yao Za Zhi_. 1990-12. [실험연구(약재 분석)] [PMID 2282169](https://pubmed.ncbi.nlm.nih.gov/2282169/) — 목적물(전탕액용·추출물용)에 따라 초제 최적 조건이 다름을 제시. 단일 최적 포제법이 없음을 뜻한다.
+[^22]: Processing and Compatibility of Corydalis yanhusuo: Phytochemistry, Pharmacology, Pharmacokinetics, and Safety. Wu L 외. _Evidence-Based Complementary and Alternative Medicine_. 2021. [문헌 고찰] [DOI 10.1155/2021/1271953](https://doi.org/10.1155/2021/1271953) [PMID 35003289](https://pubmed.ncbi.nlm.nih.gov/35003289/) — 포제·배오가 효능과 독성을 함께 바꾼다는 관점에서 초제를 최적 포제법으로 평가. 근거의 다수가 비임상 자료임을 함께 밝힌다.
+[^23]: [Determination of seven strobilurin fungicide residues in Chinese herbs by liquid chromatography-tandem mass spectrometry coupled with solid phase extraction]. Zhang Y 외. _Se Pu_. 2013-03. [실험연구(약재 분석)] [DOI 10.3724/sp.j.1123.2012.10021](https://doi.org/10.3724/sp.j.1123.2012.10021) [PMID 23786000](https://pubmed.ncbi.nlm.nih.gov/23786000/) — 중약재 살균제 잔류 분석법. 장기 복용 환자의 노출 관리 근거다.
+[^24]: Contamination and health risk of pesticides in eight popular Chinese traditional medicines from Zhejiang Province. Ma T 외. _Environmental Science and Pollution Research International_. 2024-02. [관찰연구] [DOI 10.1007/s11356-023-31570-w](https://doi.org/10.1007/s11356-023-31570-w) [PMID 38182955](https://pubmed.ncbi.nlm.nih.gov/38182955/) — 연호색 주산지 약재에서 유의한 농약 잔류를 확인. 규격 검사품 사용 원칙의 실증적 근거다.
+[^25]: l-tetrahydropalamatine: a potential new medication for the treatment of cocaine addiction. Wang JB 외. _Future Medicinal Chemistry_. 2012-02. [문헌 고찰] [DOI 10.4155/fmc.11.166](https://doi.org/10.4155/fmc.11.166) [PMID 22300097](https://pubmed.ncbi.nlm.nih.gov/22300097/) — 정제 l-THP의 D1·D2 길항과 항중독 개발 근거를 정리. 성분 근거이며 연호색 전탕액에 전용할 수 없다.
+[^26]: Analgesic Alkaloids Derived From Traditional Chinese Medicine in Pain Management. Jiang W 외. _Frontiers in Pharmacology_. 2022. [문헌 고찰] [DOI 10.3389/fphar.2022.851508](https://doi.org/10.3389/fphar.2022.851508) [PMID 35620295](https://pubmed.ncbi.nlm.nih.gov/35620295/) — 한약 유래 진통 알칼로이드의 다표적 작용을 정리. 임상 근거 부족도 함께 지적한다.
+[^27]: Effects of Herbal Medicines on Pain Management. Luo Y 외. _The American Journal of Chinese Medicine_. 2020. [문헌 고찰] [DOI 10.1142/S0192415X20500019](https://doi.org/10.1142/S0192415X20500019) [PMID 32054304](https://pubmed.ncbi.nlm.nih.gov/32054304/) — 아편유사제 내성·의존을 보완하는 한약의 위치를 정리. 병용 전략의 이론적 틀을 제공한다.
+[^28]: Recent progress on the traditional Chinese medicines that regulate the blood. Hung HY 외. _Journal of Food and Drug Analysis_. 2016-04. [문헌 고찰] [DOI 10.1016/j.jfda.2015.10.009](https://doi.org/10.1016/j.jfda.2015.10.009) [PMID 28911575](https://pubmed.ncbi.nlm.nih.gov/28911575/) — 활혈거어 계열 주요 본초 9종의 연구 동향 정리. 연호색의 약물군 내 위치를 보여준다.
+[^29]: Important Chinese herbal remedies. Ding GS. _Clinical Therapeutics_. 1987. [문헌 고찰] [PMID 3607815](https://pubmed.ncbi.nlm.nih.gov/3607815/) — 로툰딘(l-THP)을 포함한 주요 중약 유래 성분의 임상 활용을 초기 정리. 정제 성분이 의약품으로 사용되어 온 역사적 근거다.
+[^30]: [Alterations of plasma beta-EP and cortisol contents in thyroidectomy under acupuncture anesthesia and acupuncture anesthesia combined with tetrahydropalmatine]. Zhu W 외. _Zhen Ci Yan Jiu_. 1996. [임상시험, 24명] [PMID 9387349](https://pubmed.ncbi.nlm.nih.gov/9387349/) — 갑상선절제술 침 마취에 THP를 병용한 12명이 단독군 12명보다 베타-엔도르핀·코르티솔 상승 폭이 작아 진통 증강이 시사됨. 연호색 성분의 진통 증강을 사람에서 관찰한 드문 자료다.
+[^31]: [Post-marketing clinical study of traditional Chinese medicine--lessons learned from comprehensive evaluation of Fufang Zaoren capsule]. Qing S 외. _Zhongguo Zhong Yao Za Zhi_. 2013-11. [문헌 고찰(시판 후 임상 재평가)] [PMID 24494575](https://pubmed.ncbi.nlm.nih.gov/24494575/) — 복방조인교낭(復方棗仁膠囊)이 권장 용량에서도 오한·발열·현훈·오심 등을 유발하고 고용량에서 지연성 추체외로증상이 발생하며, 캐나다 보건당국이 함유 l-THP의 임신부 간손상을 고지했음을 정리. 이 문서의 추체외로·임신 금기 논점의 핵심 인체 근거다.
+[^32]: The clinical spectrum of Jin Bu Huan toxicity. Horowitz RS 외. _Archives of Internal Medicine_. 1996-04-22. [증례 보고, 6명] [PMID 8774209](https://pubmed.ncbi.nlm.nih.gov/8774209/) — 금불환(金不換) 제제에서 소아 3명의 급성 신경·심혈관 독성과 성인 3명의 간염이라는 두 증후군을 정리하고, 포장 성분 표기 오류로 원인 알칼로이드(l-THP) 규명이 지연되었음을 지적. 성분 농축 제형의 위험과 표기 신뢰성 문제를 동시에 보여준다.
+[^33]: Jin bu huan toxicity in children--Colorado, 1993. Centers for Disease Control and Prevention (CDC). _MMWR. Morbidity and Mortality Weekly Report_. 1993-08-27. [증례 보고, 3명] [PMID 8350855](https://pubmed.ncbi.nlm.nih.gov/8350855/) — 소아 3명이 섭취 후 급속 발현한 생명 위협 서맥과 중추신경·호흡 억제를 보임. l-THP 고농도 노출의 급성 중추 억제 위험을 사람에서 확인한 자료다.
+[^34]: Jin bu huan toxicity in adults--Los Angeles, 1993. Centers for Disease Control and Prevention (CDC). _MMWR. Morbidity and Mortality Weekly Report_. 1993-12-03. [증례 보고, 3명] [PMID 8232178](https://pubmed.ncbi.nlm.nih.gov/8232178/) — 진정·진통 목적으로 판매된 금불환의 소아 과량 3례와 성인 급성 간염 3례를 함께 보고한 공중보건 조사. 동일 제품이 연령에 따라 다른 독성 증후군을 낸다는 점이 핵심이다.
+[^35]: Acute hepatitis associated with the Chinese herbal product jin bu huan. Woolf GM 외. _Annals of Internal Medicine_. 1994-11-15. [증례 보고, 7명] [PMID 7944049](https://pubmed.ncbi.nlm.nih.gov/7944049/) — 건강했던 성인 7명이 평균 20주(7~52주) 복용 후 급성 간염을 일으켰고, 감량으로 호전·재투여로 급격 재발(2명). 인과성이 재투여로 뒷받침된 강한 간독성 근거다.
+[^36]: Chronic hepatitis induced by Jin Bu Huan. Picciotto A 외. _Journal of Hepatology_. 1998-01. [증례 보고, 1명] [PMID 9537855](https://pubmed.ncbi.nlm.nih.gov/9537855/) — 49세 남성이 1일 3정 복용 2개월 후 조직검사로 확인된 만성 간염과 중등도 섬유화를 보였고 중단으로 회복. 급성뿐 아니라 만성 간손상도 가능함을 보여준다.
+[^37]: Case report: jin bu huan--not so benign herbal medicine. Divinsky M. _Canadian Family Physician_. 2002-10. [증례 보고, 1명] [PMID 12449548](https://pubmed.ncbi.nlm.nih.gov/12449548/) — 일차진료 현장에서 "무해하다고 여겨진" 제품의 유해 사례를 보고. 자가 복용 제품 문진의 필요를 강조한다.
+[^38]: Corydalis and Drug-Induced Liver Injury: A Series of 2 Cases. Engman S 외. _ACG Case Reports Journal_. 2023-12. [증례 보고, 2명] [DOI 10.14309/crj.0000000000001230](https://doi.org/10.14309/crj.0000000000001230) [PMID 38130480](https://pubmed.ncbi.nlm.nih.gov/38130480/) — 연호색을 활성 성분으로 하는 시판 수면보조제 복용 후 간독성 2례. 1례는 재섭취 시 간효소가 다시 상승해 인과성이 뒷받침되며, 연호색이 '수면보조' 용도로 자가 복용되는 현실을 보여준다.
+[^39]: Systematic review of published data on herb induced liver injury. Byeon JH 외. _Journal of Ethnopharmacology_. 2019-04-06. [체계적 고찰, DILI/HILI 총 7,511례(그중 한약 관련 1,874례)] [DOI 10.1016/j.jep.2019.01.006](https://doi.org/10.1016/j.jep.2019.01.006) [PMID 30639232](https://pubmed.ncbi.nlm.nih.gov/30639232/) — 31편 연구를 종합해 전체 간손상의 25.0%가 한약 관련이고 여성(69.8%)·간세포성 손상이 우세함을 확인. 원인 약재 목록에 연호색이 포함되어 정기 간기능 추적의 근거가 된다.
+[^40]: Investigation on Chinese herbal medicine for primary dysmenorrhea: implication from a nationwide prescription database in Taiwan. Chen HY 외. _Complementary Therapies in Medicine_. 2014-02. [관찰연구, 처방 57,315건] [DOI 10.1016/j.ctim.2013.11.012](https://doi.org/10.1016/j.ctim.2013.11.012) [PMID 24559826](https://pubmed.ncbi.nlm.nih.gov/24559826/) — 원발성 월경곤란증 처방에서 연호색이 33.1%로 최다 사용 단미, 향부자와의 조합이 14.24%, 당귀작약산과의 조합이 10.47%. 사용 현실을 보여줄 뿐 효능을 입증하지는 않는다.
+[^41]: The traditional Chinese medicine prescription pattern of patients with primary dysmenorrhea in Taiwan: a large-scale cross sectional survey. Pan JC 외. _Journal of Ethnopharmacology_. 2014-03-14. [관찰연구, 23,118명] [DOI 10.1016/j.jep.2014.01.002](https://doi.org/10.1016/j.jep.2014.01.002) [PMID 24417866](https://pubmed.ncbi.nlm.nih.gov/24417866/) — 월경곤란증 환자가 침보다 한약 처방을 선호하는 이용 패턴을 대규모로 확인. 연호색 수요의 배경을 설명한다.
+[^42]: The prescribing of Chinese herbal products in Taiwan: a cross-sectional analysis of the national health insurance reimbursement database. Hsieh SC 외. _Pharmacoepidemiology and Drug Safety_. 2008-06. [관찰연구, 약 20만명] [DOI 10.1002/pds.1611](https://doi.org/10.1002/pds.1611) [PMID 18481335](https://pubmed.ncbi.nlm.nih.gov/18481335/) — 중약제제 이용층이 주로 중년 여성임을 확인. 간독성 감시 대상 인구를 특정하는 데 참고된다.
+[^43]: Analgesic effect of a herbal medicine for treatment of primary dysmenorrhea--a double-blind study. Kotani N 외. _The American Journal of Chinese Medicine_. 1997. [임상시험] [DOI 10.1142/S0192415X9700024X](https://doi.org/10.1142/S0192415X9700024X) [PMID 9288368](https://pubmed.ncbi.nlm.nih.gov/9288368/) — 당귀작약산이 혈허·한·어혈 변증을 동반한 원발성 월경곤란증에서 이중맹검으로 진통 효과를 보임. 연호색이 가미되는 대표 기본방의 근거다(방제 전체의 효과).
+[^44]: Chinese herbal formula siwutang for treating primary dysmenorrhea: A systematic review and meta-analysis of randomized controlled trials. Li G 외. _Maturitas_. 2020-08. [메타분석, 3,982명] [DOI 10.1016/j.maturitas.2020.03.009](https://doi.org/10.1016/j.maturitas.2020.03.009) [PMID 32631585](https://pubmed.ncbi.nlm.nih.gov/32631585/) — 사물탕 계열이 통상치료 대비 통증 강도와 반응률을 개선하고 이상반응이 적음. 연호색이 배오되는 보혈활혈 기본방의 근거다.
+[^45]: Effectiveness and Safety of Chinese Medicine at Shenque (CV 8) for Primary Dysmenorrhea: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Yan LJ 외. _Chinese Journal of Integrative Medicine_. 2023-04. [메타분석, 24편 RCT·2,614명] [DOI 10.1007/s11655-022-3319-z](https://doi.org/10.1007/s11655-022-3319-z) [PMID 35426052](https://pubmed.ncbi.nlm.nih.gov/35426052/) — 신궐(CV8) 제요법이 양약 대비 통증과 월경 증상을 개선. 다만 포함된 첩부 처방이 이질적이어서 연호색 단독 기여는 분리되지 않는다.
+[^46]: Chinese herbal formula Xuefu Zhuyu oral liquid for primary dysmenorrhea: a multicenter randomized controlled trial. Li G 외. _Frontiers in Medicine_. 2026. [임상시험, 256명] [DOI 10.3389/fmed.2026.1724529](https://doi.org/10.3389/fmed.2026.1724529) [PMID 41907285](https://pubmed.ncbi.nlm.nih.gov/41907285/) — 혈부축어탕(血府逐瘀湯) 경구액이 주요 평가변수인 평균 통증 강도에서 위약과 유의차를 보이지 못하고 진통제 사용만 감소. 어혈 처방의 일괄 적용이 갖는 한계를 보여주는 음성 결과다.
+[^47]: Efficacy and safety of traditional Chinese medicine for endometriosis-related pain: a meta-analysis. Wang S 외. _American Journal of Translational Research_. 2025. [메타분석, 1,401명] [DOI 10.62347/RHXV3554](https://doi.org/10.62347/RHXV3554) [PMID 41268238](https://pubmed.ncbi.nlm.nih.gov/41268238/) — 한약이 자궁내막증 관련 월경통·성교통을 유의하게 감소시키고 TNF-α·IL-6를 낮춤. 연호색이 배오되는 활혈지통 처방군의 근거다.
+[^48]: Efficacy and Safety of Chinese Herbal Medicine for Endometriosis Associated Pain. Lin Y 외. _The American Journal of Chinese Medicine_. 2022. [관찰연구, 338명] [DOI 10.1142/S0192415X22500446](https://doi.org/10.1142/S0192415X22500446) [PMID 35475975](https://pubmed.ncbi.nlm.nih.gov/35475975/) — 한약 탕제가 통증·월경 증상과 함께 불안·우울 지표도 개선. 통증-정서 축을 함께 다루는 임상 가치를 시사한다.
+[^49]: Chinese herbal medicine for endometriosis. Flower A 외. _The Cochrane Database of Systematic Reviews_. 2012-05-16. [체계적 고찰, 158명] [DOI 10.1002/14651858.CD006568.pub3](https://doi.org/10.1002/14651858.CD006568.pub3) [PMID 22592712](https://pubmed.ncbi.nlm.nih.gov/22592712/) — 한약이 게스트리논과 유사한 효과에 더 적은 이상반응을 보일 가능성을 제시하되 근거의 질이 낮음을 명시. 보조 요법 위치 설정의 근거다.
+[^50]: A prokinetic agent DA-9701 formulated with Corydalis tuber and Pharbitidis semen improves nausea in migraine: A prospective observational study. Son H 외. _Medicine_. 2026-02-13. [관찰연구, 110명] [DOI 10.1097/MD.0000000000047623](https://doi.org/10.1097/MD.0000000000047623) [PMID 41686710](https://pubmed.ncbi.nlm.nih.gov/41686710/) — 연호색·견우자 표준화 추출물이 1개월 투여로 구역일수 53.7%, 두통일수 52.2% 감소. 5-HT1A/5-HT4 작용과 D2 길항을 함께 갖는 성분 근거이며 연호색 전탕액의 근거가 아니다.
+[^51]: Double-Blind, Randomized, Placebo-Controlled Trial of DA-9701 in Parkinson's Disease: PASS-GI Study. Choi JH 외. _Movement Disorders_. 2020-11. [임상시험, 144명] [DOI 10.1002/mds.28219](https://doi.org/10.1002/mds.28219) [PMID 32761955](https://pubmed.ncbi.nlm.nih.gov/32761955/) — 파킨슨병 환자에서 위장관 증상 관련 삶의 질을 위약 대비 유의하게 개선하면서 **운동 증상을 악화시키지 않음.** 같은 약재 유래라도 성분·제형·뇌 침투도에 따라 신경학적 위험이 달라짐을 보여주는 결정적 대조 사례다.
+[^52]: DA-9701 for Gastrointestinal Symptoms in Postural Orthostatic Tachycardia Syndrome: A Randomized Pilot Study. Jung HJ 외. _Journal of Neurogastroenterology and Motility_. 2026-04-30. [임상시험, 24명] [DOI 10.5056/jnm25140](https://doi.org/10.5056/jnm25140) [PMID 41952405](https://pubmed.ncbi.nlm.nih.gov/41952405/) — 주요 평가변수(NDI-K 총점)에서 위약과 유의차 없음. 상복부 통증에서만 개선 경향을 보인 음성 결과로, 적응증 확대의 한계를 보여준다.
+[^53]: Herbal Therapies in Functional Gastrointestinal Disorders: A Narrative Review and Clinical Implication. Kim YS 외. _Frontiers in Psychiatry_. 2020. [문헌 고찰] [DOI 10.3389/fpsyt.2020.00601](https://doi.org/10.3389/fpsyt.2020.00601) [PMID 32754057](https://pubmed.ncbi.nlm.nih.gov/32754057/) — 다표적 생약 제제가 기능성 위장관 질환의 대안이 될 수 있음을 정리. DA-9701의 임상적 위치를 설명한다.
+[^54]: Urinary Metabolomic Profiling after Administration of Corydalis Tuber and Pharbitis Seed Extract in Healthy Korean Volunteers. Jeong HC 외. _Pharmaceutics_. 2021-04-09. [실험연구(건강인 대상)] [DOI 10.3390/pharmaceutics13040522](https://doi.org/10.3390/pharmaceutics13040522) [PMID 33918785](https://pubmed.ncbi.nlm.nih.gov/33918785/) — 건강한 한국인 자원자에서 투여 후 지질·퓨린 대사 관련 7개 대사체 변화를 확인. 사람에서 수행된 기전 탐색 자료다.
+[^55]: Effect of a New Prokinetic Agent DA-9701 Formulated with Corydalis Tuber and Pharbitidis Semen on Cytochrome P450 and UDP-Glucuronosyltransferase Enzyme Activities in Human Liver Microsomes. Ji HY 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [실험연구(인체 간마이크로솜)] [DOI 10.1155/2012/650718](https://doi.org/10.1155/2012/650718) [PMID 22548118](https://pubmed.ncbi.nlm.nih.gov/22548118/) — 인체 유래 간마이크로솜에서 CYP2D6를 억제(DA-9701 Ki 6.3, 연호색 추출물 3.7 μg/mL)하나 용량당 희석부피 1.16 L/dose로 강력 억제제 가능성은 낮음. 좁은 치료역 CYP2D6 기질 병용 시 관찰 근거다.
+[^56]: A randomized controlled study for Yuanhu Zhitong dropping pills in the treatment of knee osteoarthritis. Gu Y 외. _Medicine_. 2020-06-12. [임상시험 계획서(protocol), 60명 예정] [DOI 10.1097/MD.0000000000020666](https://doi.org/10.1097/MD.0000000000020666) [PMID 32541510](https://pubmed.ncbi.nlm.nih.gov/32541510/) — 원호지통적환(元胡止痛滴丸)과 디클로페낙나트륨 서방캡슐의 4주 동등성 비교 계획을 기술. **결과 보고가 아니므로 유효성 근거로 인용할 수 없으며, 검증이 진행 중이라는 사실만을 뒷받침한다.**
+[^57]: [Research of Yuanhu Zhitong prescription based on strategy of integrative pharmacology]. Ma Y 외. _Zhongguo Zhong Yao Za Zhi_. 2015-03. [문헌 고찰] [PMID 26226743](https://pubmed.ncbi.nlm.nih.gov/26226743/) — 원호지통방의 화학 성분과 생물 활성 사이의 상관을 통합약리 전략으로 정리. 제제 규격 이해에 참고된다.
+[^58]: [Controlled clinical trials of therapeutic effects of Chinese herbs promoting blood circulation and removing blood stasis on the treatment of reflex sympathetic dystrophy with type of stagnation of vital energy and blood stasis]. Xu RS 외. _Zhongguo Gu Shang_. 2009-12. [임상시험, 58명(치료군 30·대조군 28)] [PMID 20112576](https://pubmed.ncbi.nlm.nih.gov/20112576/) — **연호색 10g이 명시적으로 포함된** 활혈거어 탕제와 서근활혈 훈세를 병용해 VAS 통증과 부종 부피를 유의하게 개선. 연호색이 실제로 들어간 인체 무작위 대조 자료지만 10종 이상 배오이므로 단독 기여는 분리되지 않는다.
+[^59]: External application of two unrestricted herbal medicines to treat costochondritis in a young collegiate athlete: A case report. Zhang B 외. _Journal of Integrative Medicine_. 2020-09. [증례 보고, 1명] [DOI 10.1016/j.joim.2020.07.001](https://doi.org/10.1016/j.joim.2020.07.001) [PMID 32712025](https://pubmed.ncbi.nlm.nih.gov/32712025/) — 연호색과 빙편 2미만으로 구성된 외용 패치를 7주 적용해 만성 늑연골염 흉통이 2주 만에 완화되고 가동범위가 회복. 연호색이 주약인 가장 단순한 인체 자료이나 단일 증례로 근거수준은 낮다.
+[^60]: [Analysis on therapeutic effect of variable-frequency electroacupuncture combined with herbal-moxa moxibustion for post-zoster neuralgia]. Wang CY 외. _Zhen Ci Yan Jiu_. 2012-02. [임상시험, 37명(치료군 18·약물군 19)] [PMID 22574572](https://pubmed.ncbi.nlm.nih.gov/22574572/) — **연호색·황기·몰약 등을 함유한 약애조** 뜸과 가변주파수 전침을 협척·아시혈에 시행해 총유효율 94.44% 대 73.68%로 우월. 연호색 외용 제형의 신경병증성 통증 적용 근거다.
+[^61]: [Short effect and adverse reaction of dog days plaster for allergic rhinitis]. Zhang H 외. _Zhongguo Zhen Jiu_. 2016-01. [임상시험, 249명(첩부군 166·위약군 83)] [PMID 26946731](https://pubmed.ncbi.nlm.nih.gov/26946731/) — **백개자·세신·연호색·감수** 로 만든 삼복첩이 무약물 메밀 반죽 위약 대비 증상과 유효율에서 우월. 연호색 함유 첩부제의 위약대조 근거로 이 문서에서 가치가 높다.
+[^62]: [Controlled observation of non-blister acupoint sticking and electroacupuncture for bronchial asthma]. Tian HY 외. _Zhongguo Zhen Jiu_. 2013-06. [임상시험, 100명(각군 50명)] [PMID 23967631](https://pubmed.ncbi.nlm.nih.gov/23967631/) — **백개자·연호색·감수·세신** 첩부와 격강구 병용군의 현효·치유율 72.0%가 전침+격강구군 46.0%보다 우월. 평가 대상은 천식 증상 점수이며 흉통이 아니다.
+[^63]: Long-term efficacy of point application therapy on different acupoints and durations in the treatment of asthma: a randomized controlled trial. Yutong J 외. _Journal of Traditional Chinese Medicine_. 2023-02. [임상시험, 456명] [DOI 10.19852/j.cnki.jtcm.2023.01.013](https://doi.org/10.19852/j.cnki.jtcm.2023.01.013) [PMID 36640006](https://pubmed.ncbi.nlm.nih.gov/36640006/) — 혈위 조합과 부착 시간을 달리한 3군에서 발작 횟수와 총 IgE가 모두 감소하고 7혈군이 3혈군보다 우수. 첩부 조건 최적화의 인체 근거다.
+[^64]: [Optimization of acupoint application scheme in the treatment of bronchial asthma based on the orthogonal design method]. Shi K 외. _Zhongguo Zhen Jiu_. 2017-06-12. [임상시험, 80명] [DOI 10.13703/j.0255-2930.2017.06.001](https://doi.org/10.13703/j.0255-2930.2017.06.001) [PMID 29231494](https://pubmed.ncbi.nlm.nih.gov/29231494/) — 폐수·심수·격수·신수 조합 도포가 발작 빈도 감소와 삶의 질 개선에 효과. 직교설계로 배혈을 최적화한 자료다.
+[^65]: An analysis of therapeutic effect of drug acupoint application in 209 cases of allergic asthma. Lai X 외. _Journal of Traditional Chinese Medicine_. 2001-06. [임상시험, 209명] [PMID 11498901](https://pubmed.ncbi.nlm.nih.gov/11498901/) — 약물 혈위첩부가 전통 약구보다 단기 총유효율이 높음. 첩부 제형의 상대적 우위를 시사한다.
+[^66]: Efficacy evaluation of summer acupoint application treatment on asthma patients: a two-year follow-up clinical study. Wu X 외. _Journal of Traditional Chinese Medicine_. 2015-02. [관찰연구, 527명] [DOI 10.1016/s0254-6272(15)30004-2](https://doi.org/10.1016/s0254-6272(15)30004-2) [PMID 25842724](https://pubmed.ncbi.nlm.nih.gov/25842724/) — 하절기 폐수·풍문 첩부가 2년 추적에서 증상 정도와 악화 빈도를 유의하게 감소. 장기 효과의 관찰 근거다.
+[^67]: A systematic review and meta-analysis of acupoint application combined with western medicine therapy in the treatment of bronchial asthma. Hu J 외. _Annals of Palliative Medicine_. 2021-11. [메타분석, 8편·1,520명] [DOI 10.21037/apm-21-2507](https://doi.org/10.21037/apm-21-2507) [PMID 34872272](https://pubmed.ncbi.nlm.nih.gov/34872272/) — 첩부요법 병용군의 임상 유효율이 서양의학 단독 대비 우월. 병용 전략의 근거다.
+[^68]: [Overview of systematic review on acupoint application for bronchial asthma]. Liu LZ 외. _Zhen Ci Yan Jiu_. 2020-06-25. [체계적 고찰(개관)] [DOI 10.13702/j.1000-0607.191033](https://doi.org/10.13702/j.1000-0607.191033) [PMID 32643888](https://pubmed.ncbi.nlm.nih.gov/32643888/) — 이 영역 체계적 고찰들의 방법론적 질·보고 품질·근거 수준이 전반적으로 매우 낮음을 확인. 위 첩부 근거들을 과대 해석하지 않도록 제어하는 자료다.
+[^69]: External application of herbal medicine to acupoints. Yang J 외. _Journal of Traditional Chinese Medicine_. 2008-03. [문헌 고찰] [DOI 10.1016/s0254-6272(08)60008-4](https://doi.org/10.1016/s0254-6272(08)60008-4) [PMID 18416079](https://pubmed.ncbi.nlm.nih.gov/18416079/) — 약물 작용과 혈위 자극을 결합한 외용법의 이론적 정리. 연호색 첩부의 기전 서술 근거다.
+[^70]: Cancer Pain Management with Traditional Chinese Medicine: Current Status and Future Perspectives. Ji J 외. _The American Journal of Chinese Medicine_. 2024. [문헌 고찰] [DOI 10.1142/S0192415X24500058](https://doi.org/10.1142/S0192415X24500058) [PMID 38281918](https://pubmed.ncbi.nlm.nih.gov/38281918/) — 아편유사제의 내성·의존을 보완하는 한약 병용 전략을 정리하며 연호색을 대표 지통약으로 제시. 단미 시험 근거는 제시되지 않는다.
+[^71]: Mechanisms of cancer pain and the multitarget therapeutic potential of Traditional Chinese Medicine. Xu GQ 외. _Sheng Li Xue Bao_. 2026-02-25. [문헌 고찰] [PMID 41777128](https://pubmed.ncbi.nlm.nih.gov/41777128/) — 암성 통증의 복합 기전을 다성분·다표적 접근으로 조절하는 전략을 정리. 병용 설계의 이론적 근거다.
+[^72]: A systematic review of integrative medicine for opioid withdrawal. Kruszecki C 외. _Journal of Substance Abuse Treatment_. 2021-06. [체계적 고찰] [DOI 10.1016/j.jsat.2021.108279](https://doi.org/10.1016/j.jsat.2021.108279) [PMID 34016305](https://pubmed.ncbi.nlm.nih.gov/34016305/) — 오피오이드 금단에 대한 통합의학 접근의 근거를 종합. 한약 제제의 보조적 위치를 확인한다.
+[^73]: Chinese Herbal Medicine for the Treatment of Drug Addiction. Zhu W 외. _International Review of Neurobiology_. 2017. [문헌 고찰] [DOI 10.1016/bs.irn.2017.02.013](https://doi.org/10.1016/bs.irn.2017.02.013) [PMID 28807162](https://pubmed.ncbi.nlm.nih.gov/28807162/) — 오피오이드·메탐페타민·알코올 중독에 대한 중약 성분의 근거를 정리. 대부분 정제 성분 자료임에 유의한다.
+[^74]: Traditional Chinese and Indian medicine in the treatment of opioid-dependence: a review. Doosti F 외. _Avicenna Journal of Phytomedicine_. 2013(Summer). [문헌 고찰] [PMID 25050276](https://pubmed.ncbi.nlm.nih.gov/25050276/) — 전통의학 제제의 금단 증상 완화 근거를 개관. 근거수준은 낮다.
+[^75]: Exploring the "Drug–Syndrome–Disease" Triad Association Therapy in the Intervention of Western Drug Toxic Side Effects: Theory and Practice Based on the Compound 511. Geyan Xv 외. _Chinese Medicine and Natural Products_. 2026-03. [문헌 고찰] [DOI 10.1055/a-2825-0916](https://doi.org/10.1055/a-2825-0916) — 연호색을 포함한 복방을 '약-증-병' 삼각 연관 치료 틀로 설명. 이론적 제안이며 임상 유효성 근거는 아니다.
+[^76]: Association of Traditional Chinese Medicine Therapy with Risk of Total Hip Replacement in Patients with Nontraumatic Osteonecrosis of the Femoral Head: A Population-Based Cohort Study. Yeh YA 외. _Evidence-Based Complementary and Alternative Medicine_. 2019. [관찰연구, 1,680명] [DOI 10.1155/2019/5870179](https://doi.org/10.1155/2019/5870179) [PMID 30915147](https://pubmed.ncbi.nlm.nih.gov/30915147/) — 한방 치료 병용군의 인공 고관절 치환술 진행 위험이 유의하게 낮음. 사용 처방군에 연호색이 포함되나 개별 기여는 분리되지 않는다.
+[^77]: The Role of Acupoint Application of Herbal Medicine for Asthma: Meta-Analysis of Randomized Double-Blind Placebo-Controlled Trials. Wu Z 외. _Evidence-Based Complementary and Alternative Medicine_. 2022. [메타분석, 1,730명] [DOI 10.1155/2022/5589433](https://doi.org/10.1155/2022/5589433) [PMID 36118096](https://pubmed.ncbi.nlm.nih.gov/36118096/) — 위약대조 이중맹검 시험만 종합해 삶의 질 개선과 급성 악화 감소를 확인. 첩부 근거 가운데 편향 위험이 상대적으로 낮은 자료다.
+[^78]: Chinese Herbal Medicine, Alternative or Complementary, for Endometriosis-Associated Pain: A Meta-Analysis. Lin Y 외. _The American Journal of Chinese Medicine_. 2023. [메타분석, 3,389명] [DOI 10.1142/S0192415X23500386](https://doi.org/10.1142/S0192415X23500386) [PMID 37120704](https://pubmed.ncbi.nlm.nih.gov/37120704/) — 한약이 통상치료와 병용될 때 월경통·성교통·골반통 감소가 더 컸음을 종합. 연호색이 배오되는 처방군의 근거이나 단미 기여는 분리되지 않는다.
