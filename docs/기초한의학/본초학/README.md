@@ -302,7 +302,7 @@
 - 강황(薑黃, Curcumae Longae Rhizoma) — (작성 예정)
 - 아출(莪朮, Curcumae Rhizoma) — (작성 예정)
 - 삼릉(三稜, Sparganii Rhizoma) — (작성 예정)
-- 단삼(丹蔘, Salvia miltiorrhiza)
+- 단삼(丹蔘, Salviae Miltiorrhizae Radix)
 - 호장근(虎杖根, Polygoni Cuspidati Radix) — (작성 예정)
 - 익모초(益母草, Leonuri Herba) — (작성 예정)
 - 도인(桃仁, Persicae Semen)
