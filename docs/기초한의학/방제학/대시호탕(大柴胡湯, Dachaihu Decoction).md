@@ -19,7 +19,7 @@
 
 ### 3. 구성과 배오(配伍)
 
-대시호탕은 시호(柴胡, Bupleuri Radix)·황금(黃芩, Scutellariae Radix)·작약(芍藥, Paeonia)·반하(半夏, Pinellia ternata)·생강(生薑, Zingiber officinale)·대조(大棗, Jujube)·지실(枳實, Aurantii Fructus Immaturus)·대황(大黃, Rhei Rhizoma)의 8약재로 구성된다.(교과서적 근거)
+대시호탕은 시호(柴胡, Bupleuri Radix)·황금(黃芩, Scutellariae Radix)·작약(芍藥, Paeonia)·반하(半夏, Pinellia ternata)·생강(生薑, Zingiber officinale)·대조(大棗, Zizyphi Fructus)·지실(枳實, Aurantii Fructus Immaturus)·대황(大黃, Rhei Rhizoma)의 8약재로 구성된다.(교과서적 근거)
 
 | 역할 | 약재 | 성미귀경 | 효능 |
 |---|---|---|---|

@@ -420,7 +420,7 @@
 - 산약(山藥, Dioscoreae Rhizoma)
 - 백편두(白扁豆, Lablab Semen Album) — (작성 예정)
 - 감초(甘草, Glycyrrhiza)
-- 대조(大棗, Jujube)
+- 대조(大棗, Zizyphi Fructus)
 - 봉밀(蜂蜜, Mel) — (작성 예정)
 
 ### 17-2. 보양약(補陽藥)
