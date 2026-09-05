@@ -38,7 +38,7 @@
 
 - **도홍사물탕(桃紅四物湯) 원방**: 사물탕에 도인·홍화를 가한 원방. 혈허겸어 변증에 적용[^5][^6].
 - **가미도홍사물탕(加味桃紅四物湯)**: 도홍사물탕에 다른 약재를 가감한 방제. 소아 난치성 신병증·신허비허혈어 변증, 항암화학요법 유발 수족증후군 등에 적용[^7][^8][^9].
-- **도인홍화 계열 제제**: 도인·홍화를 주약으로 한 제제(도인홍화건과립 등). 관상동맥질환 등 순환기 질환에 적용[^10][^11].
+- **도인홍화 계열 제제**: 도인·홍화를 주약으로 한 제제(도인홍화전과립 등). 관상동맥질환 등 순환기 질환에 적용[^10][^11].
 - **도홍사물탕 병용 요법**: 도홍사물탕을 침·부항·서양의학 치료·항고혈압제·프레드니손 등과 병용하는 요법. 뇌졸중·고혈압·전신성 경화증 등에 적용[^12][^13][^14].
 
 ## 제2편 주치·변증 적응
@@ -73,7 +73,7 @@
 | 신허비허혈어(腎虛脾虛血瘀) 면역 조절 | 유귀음(신허)·사군자탕(비허)·도홍사물탕(혈어) 변증별 투여 | 면역 조절 효과[^8] |
 | 항암화학요법 유발 수족증후군(HFS) | 가감 도홍사물탕 수족 침지법 | 피리독신 경구 투여보다 통증·삶의 질 개선 우수[^9] |
 | 원발성 생리통(NSAIDs 대비) | 가감도홍사물탕(MTST), 경구피임약 병용 | NSAIDs보다 우수한 효과·낮은 재발률[^15] |
-| 관상동맥질환·협심증 | 도인홍화건과립, 표준치료 병용 | NLRP3 인플라마좀 조절, 지질·염증 개선[^10][^11][^16] |
+| 관상동맥질환·협심증 | 도인홍화전과립, 표준치료 병용 | NLRP3 인플라마좀 조절, 지질·염증 개선[^10][^11][^16] |
 | 항고혈압제 병용 고혈압 | 도홍사물탕+항고혈압제 | 혈압·지질(TG, LDL-C, HDL-C) 동시 개선[^12] |
 | 전신성 경화증(dcSSc) | 도홍사물탕 약욕+프레드니손 | 피부경화(MRSS)·레이노 현상 개선[^14] |
 | 경비골 골절 수술 후 | 도홍사물탕 병용 탕제 | 통증 감소, 골절 치유 시간 단축, 관절 기능 개선[^17] |
@@ -124,7 +124,7 @@
 
 ### 13. 순환기 질환군(관상동맥질환·협심증·고혈압·죽상동맥경화증·뇌경색)
 
-도홍사물탕이 뇌경색 환자의 말초혈액 단핵구에서 핵인자-κB(NF-κB) 활성화를 억제하여 항염증 효과를 나타내는 것으로 실험연구에서 확인되었다[^41]. 도인·홍화 계열 성분(도인홍화건과립)이 안정형 관상동맥질환 환자에서 NLRP3 인플라마좀 발현을 조절하는 것이 다기관 이중맹검 무작위 대조 임상시험에서 확인되었다[^10][^11]. 도홍사물탕(THSWD)을 표준치료와 병용했을 때 협심증 증상 완화, 심전도 개선 및 지질 수치(TG, TC, LDL-C)와 염증 지표(hs-CRP) 감소에 유의미한 효과가 있으며 안전한 것으로 나타났다(메타분석, 959명)[^16].
+도홍사물탕이 뇌경색 환자의 말초혈액 단핵구에서 핵인자-κB(NF-κB) 활성화를 억제하여 항염증 효과를 나타내는 것으로 실험연구에서 확인되었다[^41]. 도인·홍화 계열 성분(도인홍화전과립)이 안정형 관상동맥질환 환자에서 NLRP3 인플라마좀 발현을 조절하는 것이 다기관 이중맹검 무작위 대조 임상시험에서 확인되었다[^10][^11]. 도홍사물탕(THSWD)을 표준치료와 병용했을 때 협심증 증상 완화, 심전도 개선 및 지질 수치(TG, TC, LDL-C)와 염증 지표(hs-CRP) 감소에 유의미한 효과가 있으며 안전한 것으로 나타났다(메타분석, 959명)[^16].
 
 뇌졸중(풍담조락형) 환자에서 침·서양의학·한약·대나무 부항을 병용한 치료에 도홍사물탕 계열이 포함된 임상시험에서 운동 기능 회복·일상생활 능력 개선·염증 지표(CRP) 감소 효과가 확인되었다(임상시험, 100명)[^12-stroke]. HAART(고활성 항레트로바이러스요법) 치료로 인해 유발된 고지혈증 환자에게 도홍사물탕과 이진탕의 통합 처방 및 소지과립을 사용하는 것이 지질 수치 조절에 유의미한 효과가 있음이 확인되었다(임상시험, 180명)[^19].
 
@@ -250,8 +250,8 @@
 [^7]: [Clinical observation on treatment of pediatric intractable nephropathy with modified taohong siwu decoction]. Yu K 외. _Zhongguo Zhong xi yi jie he za zhi_. 2000-11. [임상시험, 95명] [PMID 11938829](https://pubmed.ncbi.nlm.nih.gov/11938829/) — 가감도홍사물탕이 소아 난치성 신병증 헤파린 유사 유효율. TXB2·프로스타사이클린 개선.
 [^8]: [Immunoregulation of Youguiyin, Sijunzitang, Taohong Siwutang in treating patients with deficiency of kidney, spleen and blood stasis syndrome]. Xu D 외. _Zhongguo Zhong xi yi jie he za zhi_. 1999-12. [임상시험, 180명] [PMID 11783139](https://pubmed.ncbi.nlm.nih.gov/11783139/) — 유귀음·사군자탕·도홍사물탕이 신허·비허·혈어 증후군 면역 조절.
 [^9]: Effect of modified taohongsiwu decoction on patients with chemotherapy-induced hand-foot syndrome. Zhao C 외. _Journal of traditional Chinese medicine_. 2014-02. [임상시험] [DOI 10.1016/s0254-6272(14)60047-9](https://doi.org/10.1016/s0254-6272(14)60047-9) [PMID 25102684](https://pubmed.ncbi.nlm.nih.gov/25102684/) — 가감도홍사물탕 수족침지법이 화학요법 유발 수족증후군에 피리독신보다 효과적.
-[^10]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease: A Multi-Center, Double-blind, Randomized Controlled Trial. _Chinese Journal of Integrative Medicine_. [임상시험] [DOI 10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) [PMID 41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/) — 도인홍화건과립이 안정형 관상동맥질환 NLRP3 인플라마좀 조절.
-[^11]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients: A Multi-Center, Double-Blind, Randomized Controlled Trial. _Vascular Health and Risk Management_. [임상시험] [DOI 10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) [PMID 42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/) — 도인홍화건과립 관상동맥질환 NLRP3 조절 반복 확인.
+[^10]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease: A Multi-Center, Double-blind, Randomized Controlled Trial. _Chinese Journal of Integrative Medicine_. [임상시험] [DOI 10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) [PMID 41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/) — 도인홍화전과립이 안정형 관상동맥질환 NLRP3 인플라마좀 조절.
+[^11]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients: A Multi-Center, Double-Blind, Randomized Controlled Trial. _Vascular Health and Risk Management_. [임상시험] [DOI 10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) [PMID 42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/) — 도인홍화전과립 관상동맥질환 NLRP3 조절 반복 확인.
 [^12]: The effect of Taohong Siwu decoction combined with antihypertensive medicine in the treatment of hypertension: Meta-analysis. Xie PC 외. _Medicine_. 2022-12-09. [메타분석, 827명] [DOI 10.1097/MD.0000000000032133](https://doi.org/10.1097/MD.0000000000032133) [PMID 36626486](https://pubmed.ncbi.nlm.nih.gov/36626486/) — 도홍사물탕+항고혈압제가 혈압·지질(TG, LDL-C, HDL-C) 동시 개선.
 [^12-stroke]: [Joint administration of acupuncture, western and herbal medicines and bamboo-jar-cupping for stroke patients of wind-phlegm obstructing collateral type in acute stage]. Yuan YJ 외. _Zhen ci yan jiu_. 2021-05-25. [임상시험, 100명] [DOI 10.13702/j.1000-0607.201110](https://doi.org/10.13702/j.1000-0607.201110) [PMID 34085466](https://pubmed.ncbi.nlm.nih.gov/34085466/) — 풍담조락형 뇌졸중 급성기 침+양방+한약+부항 병용. 운동기능·CRP 개선.
 [^13]: [Multi-centered, randomized controlled clinical study on Chinese medicine formula particles for hyperlipidaemia associated with highly active antiretroviral therapy]. Ni L 외. _Zhongguo Zhong yao za zhi_. 2013-08. [임상시험, 180명] [PMID 24228532](https://pubmed.ncbi.nlm.nih.gov/24228532/) — HAART 유발 고지혈증에 도홍사물탕+이진탕 통합처방(소지과립) 지질 개선.

@@ -54,7 +54,7 @@
 - 통심락 캡슐은 혈관 내피 부착 분자·엔도텔린을 낮추고 산화질소(NO)·혈관 확장능(FMD)을 향상시켜 혈관 내피 기능을 개선한다.[^30][^35]
 - 화탁재조환(華陀再造丸)은 L-형 칼슘 채널(LTCCs)·라이아노딘 수용체(RyRs)를 억제하여 세포 내 칼슘 유입을 줄여 관상동맥 수축을 완화하고 심근허혈을 개선한다.[^106]
 - 통맥양심환(通脈養心丸)은 ESR1 발현 증가와 NF-κB 경로 억제를 통해 항염증 효과를 나타낸다.[^107]
-- 도인홍화건(桃仁紅花煎)은 NLRP3 염증조절복합체 억제와 염증성 사이토카인 감소를 통해 항염증 작용을 나타낸다.[^64][^102]
+- 도인홍화전(桃仁紅花煎)은 NLRP3 염증조절복합체 억제와 염증성 사이토카인 감소를 통해 항염증 작용을 나타낸다.[^64][^102]
 
 ## 제3편 변증(辨證)과 감별진단
 
@@ -121,7 +121,7 @@
 - 흉소캡슐(Xiongshao Capsule)·XS0601(천궁·작약 추출 성분)은 PCI 후 재협착률·주요 심혈관 사건(MACE)·재발성 협심증을 유의하게 낮춘다(임상시험).[^1][^2][^38]
 - 신소캡슐(Shenshao Capsules)은 표준 양약과 병용 시 협심증 유효성·심전도 지표 개선에 효과적이나, 추가 연구가 필요하다(메타분석·TSA, 1,128명).[^59]
 - 단루정(丹樓錠, Danlou tablets)은 담혈어절 증후군 안정형 협심증 환자의 발작 횟수 감소·삶의 질 개선에 효과적이다(다기관 무작위 대조 시험, 304명).[^72]
-- 도인홍화건(桃仁紅花煎, Taoren Honghua Jian)은 기체혈어 안정형 관상동맥질환 환자의 협심증 증상 완화·삶의 질 개선에 효과적이다(다기관 이중맹검 무작위 대조 시험).[^64][^102]
+- 도인홍화전(桃仁紅花煎, Taoren Honghua Jian)은 기체혈어 안정형 관상동맥질환 환자의 협심증 증상 완화·삶의 질 개선에 효과적이다(다기관 이중맹검 무작위 대조 시험).[^64][^102]
 - 시호계지탕(柴胡桂枝湯, Chaihu Guizhi)은 안정형 협심증 환자의 임상 증상·삶의 질·혈관 내피 기능 개선에 유의미한 효과가 있다(무작위 대조 시험, 90명).[^75]
 - 통심서(通心舒, Tongxinshu) 캡슐은 기허혈어 안정형 협심증 환자의 협심증 빈도·중증도 감소와 삶의 질 개선에 효과적이다(다기관 무작위 대조 시험, 120명).[^114]
 - 영심환(寧心丸, Yingxin Pill)은 심혈어혈저체 안정형 협심증 환자의 증상·지질·염증 개선에 사향보심환과 유사한 효능을 보인다(무작위 대조 시험, 60명).[^93]
@@ -373,7 +373,7 @@
 ### 32. 경혈/처방 연관
 
 - 경혈: 내관혈(內關, PC6)·외문(外門, PC4) 전침이 PCI 중 통증·심근 손상 완화에 효과적이며,[^88] 내관혈(PC6) 미네랄 펄스 광자극이 협심증 증상 완화에 보고된다.[^23] 대포(SP21)·내관(PC6)·단중(CV17)·심수(BL15)·격수(BL17) 침 치료가 관상동맥 미세혈관 질환에 연구되며,[^120] 태연(LU9)·족삼리(ST36)·단중(CV17) 지압도 협심증 처방 조합·증상 완화에 활용된다.[^129][^146]
-- 약재/처방: 복합 단삼 환제·단삼 적하환·통심락 캡슐·사향보심환·혈부축어탕·괄루해백반하탕·사역탕·보양환오탕·단홍주사액·흉소캡슐·XS0601·단루정·도인홍화건·시호계지탕·통심서·영심환·이안환·강지맥안·양심활혈방·사향통심적환·관심녕정·혈지강·홍화황 주사제·Garlicin·서혈녕주사액·지실해백계지탕·화탁재조환·통맥양심환·인삼·삼칠근·호박·기혈과립·부정강년캡슐·익기통락환·육경공유탕·장미수심·통맥강지구강액·가감온간견·정제 혈부캡슐·인공 사향보심환·신기양심방·귀비온담탕·평진수전산·심적환·천왕보심단·생맥산·산사(山査)·유향(乳香)·양심석(養心舒)·보신활혈과립 등이 보고된다.[^4][^5][^9][^11][^14][^16][^19][^31][^32][^34][^43][^44][^45][^47][^49][^51][^53][^54][^57][^60][^61][^63][^64][^72][^74][^75][^80][^82][^87][^90][^91][^93][^94][^100][^102][^103][^106][^107][^108][^110][^114][^119][^124][^125]
+- 약재/처방: 복합 단삼 환제·단삼 적하환·통심락 캡슐·사향보심환·혈부축어탕·괄루해백반하탕·사역탕·보양환오탕·단홍주사액·흉소캡슐·XS0601·단루정·도인홍화전·시호계지탕·통심서·영심환·이안환·강지맥안·양심활혈방·사향통심적환·관심녕정·혈지강·홍화황 주사제·Garlicin·서혈녕주사액·지실해백계지탕·화탁재조환·통맥양심환·인삼·삼칠근·호박·기혈과립·부정강년캡슐·익기통락환·육경공유탕·장미수심·통맥강지구강액·가감온간견·정제 혈부캡슐·인공 사향보심환·신기양심방·귀비온담탕·평진수전산·심적환·천왕보심단·생맥산·산사(山査)·유향(乳香)·양심석(養心舒)·보신활혈과립 등이 보고된다.[^4][^5][^9][^11][^14][^16][^19][^31][^32][^34][^43][^44][^45][^47][^49][^51][^53][^54][^57][^60][^61][^63][^64][^72][^74][^75][^80][^82][^87][^90][^91][^93][^94][^100][^102][^103][^106][^107][^108][^110][^114][^119][^124][^125]
 
 ### 33. 고전 인용 출처
 
@@ -430,7 +430,7 @@
 [^60]: Deciphering the angiogenic potential of Zhishi Xiebai Guizhi decoction in coronary heart disease. 임상시험, 180명. DOI: [10.1038/s41598-025-05379-1](https://doi.org/10.1038/s41598-025-05379-1) · PMID: [40603921](https://pubmed.ncbi.nlm.nih.gov/40603921/). 지실해백계지탕이 협심증 빈도·LDL-C 감소.
 [^61]: A Case Report of Korean Medicine Treatment for A Patient with Variant Angina and Asthma Symptoms. 증례, 1명. DOI: [10.22246/jikm.2022.43.5.864](https://doi.org/10.22246/jikm.2022.43.5.864). 평심액 중심 통합 치료가 증상·삶의 질 개선.
 [^63]: A systematic review of the effectiveness and safety of Chinese herbal medicine formula Gualou Xiebai Banxia (GLXBBX) decoction for the treatment of stable angina pectoris. 체계적 고찰, 1,676명. DOI: [10.1097/md.0000000000018375](https://doi.org/10.1097/md.0000000000018375). 괄루해백반하탕이 증상·ECG 개선 가능성.
-[^64]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease. 임상시험, 80명. DOI: [10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) · PMID: [41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/). 도인홍화건이 NLRP3 억제·증상 완화.
+[^64]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease. 임상시험, 80명. DOI: [10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) · PMID: [41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/). 도인홍화전이 NLRP3 억제·증상 완화.
 [^67]: Discovery of Diagnosis Pattern of Coronary Heart Disease with Qi Deficiency Syndrome by the T-Test-Based Adaboost Algorithm. 실험연구, 137명. DOI: [10.1155/2011/408650](https://doi.org/10.1155/2011/408650). 기허증 객관적 진단 패턴 개발.
 [^70]: Danhong Injection Improves Elective Percutaneous Coronary Intervention in UA Patients with Blood Stasis Syndrome. 임상시험, 61명. DOI: [10.4103/wjtcm.wjtcm_63_21](https://doi.org/10.4103/wjtcm.wjtcm_63_21). 단홍주사액이 대사체 개선.
 [^71]: Effect and safety of Chinese patent medicine capsules for recurrent angina pectoris after percutaneous coronary intervention. 체계적 고찰(프로토콜). DOI: [10.1097/md.0000000000023287](https://doi.org/10.1097/md.0000000000023287). PCI 후 재발성 협심증 중성약 평가.
@@ -456,7 +456,7 @@
 [^96]: A Landscape of Metabonomics for Intermingled Phlegm and Blood Stasis and Its Concurrent Syndromes in Stable Angina Pectoris. 관찰연구, 164명. DOI: [10.3389/fcvm.2022.871142](https://doi.org/10.3389/fcvm.2022.871142). 담혈결합 대사체 지표 제시.
 [^100]: A Clinical Study on the Efficacy of the Yangxin Huoxue Formula in Treating Stable Angina Pectoris with Concurrent Anxiety and Depression Disorders. 임상시험, 94명. DOI: [10.2147/JMDH.S483104](https://doi.org/10.2147/JMDH.S483104) · PMID: [39582876](https://pubmed.ncbi.nlm.nih.gov/39582876/). 양심활혈방이 심기능·정서 개선.
 [^101]: Effects of adjuvant Chinese patent medicine therapy on major adverse cardiovascular events in patients with coronary heart disease angina pectoris. 관찰연구, 28,517명. DOI: [10.1097/hm9.0000000000000028](https://doi.org/10.1097/hm9.0000000000000028). 중성약 병용이 MACE 위험 감소.
-[^102]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients. 임상시험, 120명. DOI: [10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) · PMID: [42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/). 도인홍화건이 NLRP3 억제·증상 완화.
+[^102]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients. 임상시험, 120명. DOI: [10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) · PMID: [42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/). 도인홍화전이 NLRP3 억제·증상 완화.
 [^103]: Shexiang Baoxin pill in patients with stable coronary artery disease and reduced eGFR. 임상시험, 1,354명. DOI: [10.1016/j.phymed.2026.157946](https://doi.org/10.1016/j.phymed.2026.157946) · PMID: [41795301](https://pubmed.ncbi.nlm.nih.gov/41795301/). 사향보심환이 신기능 저하 환자 보호 경향.
 [^106]: Huatuo Zaizao Pills improve myocardial ischemia by inhibiting extracellular calcium influx. 임상시험. DOI: [10.1016/S1875-5364(26)61096-5](https://doi.org/10.1016/S1875-5364(26)61096-5) · PMID: [42215157](https://pubmed.ncbi.nlm.nih.gov/42215157/). 화탁재조환이 칼슘 유입 억제·허혈 개선.
 [^107]: Anti-inflammatory activity of the Tongmai Yangxin pill in the treatment of coronary heart disease. 임상시험, 8명. DOI: [10.1016/j.jep.2021.114106](https://doi.org/10.1016/j.jep.2021.114106) · PMID: [33838287](https://pubmed.ncbi.nlm.nih.gov/33838287/). 통맥양심환이 ESR1·NF-κB 경로 항염증.

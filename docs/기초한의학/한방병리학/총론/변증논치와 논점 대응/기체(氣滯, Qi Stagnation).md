@@ -382,7 +382,7 @@
 | 경로 | 방향 | 관련 방제·약물 | 연구 |
 | --- | --- | --- | --- |
 | 혈액 유변학·혈소판 응집 | 개선 | 혈부축어탕(123명) | 임상시험[^14xue] |
-| NLRP3 염증소체·IL-1β·IL-6 | 억제 | 도인홍화건 과립(80명·120명) | 임상시험[^28][^41hong] |
+| NLRP3 염증소체·IL-1β·IL-6 | 억제 | 도인홍화전 과립(80명·120명) | 임상시험[^28][^41hong] |
 | 신경-면역-내분비 네트워크 | 조절 | 단치소요산(63명) | 임상시험[^65nei] |
 | 위장관 운동·불안 | 조절 | 가미소요산(120명) | 임상시험[^60] |
 | 뇌국소혈류(rCBF) | 변화 | 시호소간산(33명) | 임상시험[^63] |
@@ -483,11 +483,11 @@
 
 > 혈부축어탕 123명 임상시험에서 혈액 점도·혈소판 응집·적혈구 변형능 개선, NO·t-PA 증가, IL-6 감소를 유도하였다[^14xue]. 혈부축어탕+생맥산 90명 시험에서 불안정형 협심증 PCI 후 증후군·염증 지표 개선[^13]. 혈부축어탕 관련 문헌 고찰에서 기체혈어형 요추 추간판 탈출증에 비수술 한의학 치료가 유효하였다[^31rev].
 
-#### 10-5. 도인홍화건(桃仁紅花煎) — 기체혈어 심혈관 질환
+#### 10-5. 도인홍화전(桃仁紅花煎) — 기체혈어 심혈관 질환
 
 도인·홍화를 주약으로 한 현대 처방. 기체혈어형 관상동맥질환에 쓰인다.
 
-> 도인홍화건 80명 임상시험에서 NLRP3 염증소체 발현 억제, IL-1β·IL-2·IL-18 감소[^28]. 도인홍화건 120명 다기관 임상시험에서 안정형 관상동맥질환 환자의 한의증상점수·시애틀 협심증 설문지 개선, NLRP3 관련 mRNA·염증 인자 감소[^41hong].
+> 도인홍화전 80명 임상시험에서 NLRP3 염증소체 발현 억제, IL-1β·IL-2·IL-18 감소[^28]. 도인홍화전 120명 다기관 임상시험에서 안정형 관상동맥질환 환자의 한의증상점수·시애틀 협심증 설문지 개선, NLRP3 관련 mRNA·염증 인자 감소[^41hong].
 
 #### 10-6. 육군자탕(六君子湯)·지출환(枳朮丸) — 비위기체
 
@@ -920,7 +920,7 @@
 | --- | --- | --- |
 | 불안정형 협심증 기체혈어 | **혈부축어탕+생맥산** | 90명 시험, PCI 후 증후군·염증 지표 개선[^13] |
 | 불안정형 협심증 기체혈어 | **혈부축어탕** | 123명 시험, 혈액 점도·혈소판 응집·IL-6 개선[^14xue] |
-| 안정형 관상동맥질환 기체혈어 | **도인홍화건 과립** | 80명·120명 다기관 시험, NLRP3·IL-1β·IL-18 억제[^28][^41hong] |
+| 안정형 관상동맥질환 기체혈어 | **도인홍화전 과립** | 80명·120명 다기관 시험, NLRP3·IL-1β·IL-18 억제[^28][^41hong] |
 | 만성 안정형 협심증 기체혈어 | **신나녕 캡슐** | 240명 무작위시험, 협심증 중증도·유효율 개선[^2xin][^4xin] |
 | 관상동맥질환 기체혈어 | **강지통락 연질캡슐** | 체계적 고찰, 중성지방 개선[^36jiang] |
 | 뇌경색 후유증 기체혈어·기허혈어 | **보양환오탕** | 당뇨병성 비증 증례[^28buyang] |
@@ -1254,7 +1254,7 @@
 
 **Q3. 기체에 어떤 한약이 효과적인가요?**
 
-변증에 따라 다릅니다. 간기울결에는 소요산 계열[^6][^26], 간울화화에는 가미소요산(단치소요산)[^3][^65nei], 비위기체에는 육군자탕 가감[^8]·지출환[^9], 기체혈어에는 혈부축어탕[^13][^14xue]·도인홍화건 과립[^28][^41hong], 기체담결에는 반하후박탕, 기체한증에는 정규유 캡슐[^38] 등이 활용됩니다. **변증 없이 일률적 처방은 효과가 희석됩니다**.
+변증에 따라 다릅니다. 간기울결에는 소요산 계열[^6][^26], 간울화화에는 가미소요산(단치소요산)[^3][^65nei], 비위기체에는 육군자탕 가감[^8]·지출환[^9], 기체혈어에는 혈부축어탕[^13][^14xue]·도인홍화전 과립[^28][^41hong], 기체담결에는 반하후박탕, 기체한증에는 정규유 캡슐[^38] 등이 활용됩니다. **변증 없이 일률적 처방은 효과가 희석됩니다**.
 
 **Q4. 침·전침·괄사도 기체 치료에 도움이 되나요?**
 
@@ -1308,7 +1308,7 @@
 [^9]: To compare the efficacy of two kinds of Zhizhu pills in the treatment of functional dyspepsia of spleen-deficiency and qi-stagnation syndrome: a randomized group sequential comparative trial. _BMC gastroenterology_. 2011-07-15. [임상시험] 160명 [DOI 10.1186/1471-230X-11-81](https://doi.org/10.1186/1471-230X-11-81) [PMID 21762493](https://pubmed.ncbi.nlm.nih.gov/21762493/) — 지출환이 비허기체 기능성 소화불량 개선
 [^11]: Case-control study on the association between qi-stagnation and insomnia. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2012-06. [관찰연구] 169명 [DOI 10.3736/jcim20120609](https://doi.org/10.3736/jcim20120609) [PMID 22704414](https://pubmed.ncbi.nlm.nih.gov/22704414/) — 기체와 불면의 연관
 [^13]: The effects of xuefu zhuyu and shengmai on the evolution of syndromes and inflammatory markers in patients with unstable angina pectoris after percutaneous coronary intervention: a randomised controlled clinical trial. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [임상시험] 90명 [DOI 10.1155/2013/896467](https://doi.org/10.1155/2013/896467) [PMID 23737852](https://pubmed.ncbi.nlm.nih.gov/23737852/) — 혈부축어탕이 협심증 증후군·염증 지표 개선
-[^28]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease: A Multi-Center, Double-blind, Randomized Controlled Trial. _Chinese journal of integrative medicine_. 2026-06. [임상시험] 80명 [DOI 10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) [PMID 41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/) — 도인홍화건 과립이 NLRP3 염증소체 억제
+[^28]: Effect of Taoren Honghua Jian Granule on NLRP3 Inflammasome Expression in Patients with Stable Coronary Artery Disease: A Multi-Center, Double-blind, Randomized Controlled Trial. _Chinese journal of integrative medicine_. 2026-06. [임상시험] 80명 [DOI 10.1007/s11655-026-4038-7](https://doi.org/10.1007/s11655-026-4038-7) [PMID 41838378](https://pubmed.ncbi.nlm.nih.gov/41838378/) — 도인홍화전 과립이 NLRP3 염증소체 억제
 [^1]: Development of a questionnaire for the diagnosis of Qi stagnation. _Complementary therapies in medicine_. 2012-08. [실험연구] 207명 [DOI 10.1016/j.ctim.2011.12.005](https://doi.org/10.1016/j.ctim.2011.12.005) [PMID 22579432](https://pubmed.ncbi.nlm.nih.gov/22579432/) — 기체 진단 설문지 개발
 [^24]: A Randomized, Controlled Clinical Trial of Combining Therapy with Traditional Chinese Medicine-Based Psychotherapy and Chinese Herbal Medicine for Menopausal Women with Moderate to Serious Mood Disorder _Evidence-Based Complementary and Alternative Medicine_. 2019-01-06. [임상시험] 85명 [DOI 10.1155/2019/9581087](https://doi.org/10.1155/2019/9581087) — 기체 예측 모델 개발
 [^21]: \[Correlation between neurotransmitters and neurosteroids and premenstrual syndrome patients of Gan-yang ascending syndrome and Gan-qi stagnation syndrome\]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-11. [관찰연구] 90명 [PMID 23359974](https://pubmed.ncbi.nlm.nih.gov/23359974/) — 기체 변증과 신경전달물질 연관
@@ -1337,7 +1337,7 @@
 [^48ser]: Serum metabolomics analysis of biomarkers and metabolic pathways in patients with colorectal cancer associated with spleen-deficiency and qi-stagnation syndrome or damp-heat syndrome: a prospective cohort study _Frontiers in Oncology_. 2023-09-12. [관찰연구] 60명 [DOI 10.3389/fonc.2023.1190706](https://doi.org/10.3389/fonc.2023.1190706) — 암 환자 혈청 대사체 기체혈어·기허혈어 차이
 [^54meta]: Metabonomics-based study of clinical urine samples in suboptimal health with different syndromes. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [관찰연구] 60명 [DOI 10.1155/2013/509134](https://doi.org/10.1155/2013/509134) [PMID 23401715](https://pubmed.ncbi.nlm.nih.gov/23401715/) — 아건강 소변 대사체 기체·기허·기혈양허 차이
 [^80]: \[Pharmacokinetic characteristics of ferulic acid in patients with different syndromes of deficiency of spleen qi, stagnation of liver qi and spleen deficiency, and excess of stomach heat\]. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2006-03. [관찰연구] 82명 [DOI 10.3736/jcim20060208](https://doi.org/10.3736/jcim20060208) [PMID 16529690](https://pubmed.ncbi.nlm.nih.gov/16529690/) — 당귀함유 처방 페룰산 약동학이 변증에 따라 유의 차이
-[^41hong]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients: A Multi-Center, Double-Blind, Randomized Controlled Trial. _Vascular health and risk management_. 2026. [임상시험] 120명 [DOI 10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) [PMID 42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/) — 도인홍화건 관상동맥질환 NLRP3·IL-1β·IL-18 억제, 한의증상점수·SAQ 개선
+[^41hong]: Taoren Honghua Jian Regulate NLRP3 Inflammasome of Coronary Artery Disease Patients: A Multi-Center, Double-Blind, Randomized Controlled Trial. _Vascular health and risk management_. 2026. [임상시험] 120명 [DOI 10.2147/VHRM.S569054](https://doi.org/10.2147/VHRM.S569054) [PMID 42004177](https://pubmed.ncbi.nlm.nih.gov/42004177/) — 도인홍화전 관상동맥질환 NLRP3·IL-1β·IL-18 억제, 한의증상점수·SAQ 개선
 [^60]: Effects of Gamisoyo-San Decoction on Gastrointestinal Motility. 2017. [PMID 30045042](https://pubmed.ncbi.nlm.nih.gov/30045042/) — 가미소요산 위장관 운동 조절
 [^27mir]: \[Bloodletting at auricular dorsal vein combined with auricular point sticking for menstrual migraine of qi stagnation and blood stasis and its effect on serum levels of E(2) and 5-HT\]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2023-04-12. [임상시험] 102명 [DOI 10.13703/j.0255-2930.20221008-k0009](https://doi.org/10.13703/j.0255-2930.20221008-k0009) [PMID 37068820](https://pubmed.ncbi.nlm.nih.gov/37068820/) — 이배정맥 방혈+이혈압박 월경성 편두통 두통지수·VAS 감소, E2·5-HT 증가
 [^35gua]: \[Bloodletting at guasha marks combined with acupuncture for cervical spondylotic radiculopathy of acute phase with qi stagnation and blood stasis: a randomized controlled trial\]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2026-01-12. [임상시험] 120명 [DOI 10.13703/j.0255-2930.20241126-k0001](https://doi.org/10.13703/j.0255-2930.20241126-k0001) [PMID 41558700](https://pubmed.ncbi.nlm.nih.gov/41558700/) — 괄사점 방혈+침 경추병증 VAS·NDI·IL-1β·IL-6·TNF-α 감소, 유효율 90% 이상

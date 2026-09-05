@@ -26,7 +26,7 @@
 - **박출률 경도 감소 심부전(HFmrEF, KCD-8: I50.4)**: LVEF가 41~49%인 중간 범위 심부전. 생선거어탕(昇仙祛瘀湯) 등이 연구 대상이다.[^9]
 - **급성 심부전(acute heart failure, KCD-8: I50.1)**: 증상이 급격히 악화되어 응급 치료가 필요한 상태. 익기복맥주사제·목보이탕(木防已湯) 등이 연구된다.[^5][^10]
 - **만성 심부전(chronic heart failure, KCD-8: I50.9)**: 안정기와 급성 악화를 반복하는 만성 경과. 황기주사액·신부리과립(心復力顆粒) 등이 연구된다.[^11][^12]
-- **허혈성 심부전(ischemic heart failure)**: 관상동맥 질환·심근경색에 이차적으로 발생한 심부전. 뇌신통(腦心通)·단홍주사액(丹紅注射液) 등이 연구된다.[^13][^14]
+- **허혈성 심부전(ischemic heart failure)**: 관상동맥 질환·심근경색에 이차적으로 발생한 심부전. 뇌심통(腦心通)·단홍주사액(丹紅注射液) 등이 연구된다.[^13][^14]
 - **확장성 심근병증 동반 심부전(dilated cardiomyopathy)**: 심근 자체의 확장·수축 기능 저하로 발생한 심부전. 생맥주사액·익기화어이수탕(益氣化瘀利水湯) 등이 연구된다.[^15][^16]
 
 > 하위 유형 중 HFrEF·HFpEF는 임상 근거가 가장 풍부하여 본 문서의 주된 서술 대상이며, 급성 심부전은 응급 관리가 핵심이므로 한의 중재는 보조적 역할에 국한한다.
@@ -132,7 +132,7 @@
 - 생선거어탕(昇仙祛瘀湯, Shengxian Quyu)은 HFrEF·HFmrEF 환자 대상 다기관 무작위 대조 시험 설계가 진행 중이다.[^9]
 - 신기보기과립(參芪補氣顆粒, Shenqi Buqi)은 기허형 만성 심부전 환자의 기허 점수·BNP를 유의하게 감소시킨다(임상시험, 19명).[^30]
 - 익기화어이수탕(益氣化瘀利水湯)은 난치성 확장성 심근병증·울혈성 심부전 환자의 심박출률 상승·NT-proBNP 감소에 기여한다(3년 추적 증례).[^16]
-- 뇌신통(腦心通, Naoxintong) 캡슐은 재관류 후 급성 심근경색 환자의 심부전·주요 심혈관 사건 발생 위험을 유의하게 감소시킨다(무작위 대조 시험, 379명).[^13]
+- 뇌심통(腦心通, Naoxintong) 캡슐은 재관류 후 급성 심근경색 환자의 심부전·주요 심혈관 사건 발생 위험을 유의하게 감소시킨다(무작위 대조 시험, 379명).[^13]
 - 사향보심환(麝香保心丸, Shexiang Baoxin)은 신기능 저하 동반 관상동맥질환 환자의 심혈관 사건 보호 경향을 보인다(4상 무작위 시험 하위분석, 1,354명).[^31]
 - 홍경천(紅景天, Rhodiola rosea) 주사제는 HFrEF 환자의 좌심실 리모델링·염증 지표·BNP를 개선한다(체계적 고찰·메타분석, 2,325명).[^32]
 - 황기 함유 중성약은 심부전 환자의 임상 유효성·LVEF·BNP·삶의 질 개선에 효과적이며, 지표별 최적 제제가 다르다(네트워크 메타분석, 1,584명).[^33]
@@ -280,7 +280,7 @@
 ① **KCD 코드**: I50 계열 + I21(급성 심근경색) 병발.
 ② **병인병기**: 어혈조체(瘀血阻滯)가 관상동맥을 막아 심근 손상 후 심기능 저하로 이행한다고 본다.[^18]
 ③ **병태생리**: 심근 괴사·리모델링으로 좌심실 구출률이 저하되며, 허혈성 심부전 환자의 변증 유형은 말초혈액 줄기세포 수와 밀접히 관련된다.[^89]
-④ **치료**: 뇌신통·단홍주사액·삼부주사액이 MACE·사망률·심부전 위험을 낮추며,[^13][^14][^124][^128] 복합 단삼 적하환이 심장사·심부전 위험을 낮춘다.[^76]
+④ **치료**: 뇌심통·단홍주사액·삼부주사액이 MACE·사망률·심부전 위험을 낮추며,[^13][^14][^124][^128] 복합 단삼 적하환이 심장사·심부전 위험을 낮춘다.[^76]
 ⑤ **예후**: 재관류 시기·경색 범위가 예후를 좌우하며, 조기 통합 치료가 합병증을 낮춘다.[^115]
 ⑥ **관리**: 재관류 시술 후 항혈소판제·스타틴 등 이차예방 약물을 유지하며 한의 중재를 병행한다.
 
@@ -409,7 +409,7 @@
 ### 35. 경혈/처방 연관
 
 - 경혈: 내관혈(內關, PC6) 황기주사액 약침이 기허혈어 만성 심부전에 효과적이며,[^39] 신궐혈(神闕, CV8) 뜸 요법이 만성 심부전 보조 요법으로 연구된다.[^46] 이침(耳鍼)·내관혈 자침이 급성 심방세동 전환에 보고된다.[^43]
-- 약재/처방: 기력강심캡슐(芪藶強心膠囊)·생맥산(生脈散)·오령산(五苓散)·목보이탕(木防已湯)·황기(黃芪)·신부(參附)·신맥(參麥)·홍삼(紅蔘)·홍경천(紅景天)·육군자탕(六君子湯)·뇌신통(腦心通)·사향보심환(麝香保心丸)·단홍주사액(丹紅注射液)·신맥룡주사액(參脈龍注射液)·저령탕(猪苓湯)·강심혼합액(强心混合液)·난심캡슐(暖心膠囊)·양심강정(養心康錠)·칠리강심(七釐强心)캡슐·기신익기적환(祈神益氣滴丸)·간리과립(看瀝顆粒)·신초통맥과립(參草通脈顆粒)·복합 단삼 적하환(複方丹蔘滴丸) 등이 보고된다.[^4][^6][^8][^10][^11][^13][^14][^15][^21][^32][^36][^63][^76][^85][^99][^101][^107][^121][^133][^136][^137][^141][^145]
+- 약재/처방: 기력강심캡슐(芪藶強心膠囊)·생맥산(生脈散)·오령산(五苓散)·목보이탕(木防已湯)·황기(黃芪)·신부(參附)·신맥(參麥)·홍삼(紅蔘)·홍경천(紅景天)·육군자탕(六君子湯)·뇌심통(腦心通)·사향보심환(麝香保心丸)·단홍주사액(丹紅注射液)·신맥룡주사액(參脈龍注射液)·저령탕(猪苓湯)·강심혼합액(强心混合液)·난심캡슐(暖心膠囊)·양심강정(養心康錠)·칠리강심(七釐强心)캡슐·기신익기적환(祈神益氣滴丸)·간리과립(看瀝顆粒)·신초통맥과립(參草通脈顆粒)·복합 단삼 적하환(複方丹蔘滴丸) 등이 보고된다.[^4][^6][^8][^10][^11][^13][^14][^15][^21][^32][^36][^63][^76][^85][^99][^101][^107][^121][^133][^136][^137][^141][^145]
 
 ### 36. 고전 인용 출처
 
@@ -429,7 +429,7 @@
 [^10]: Effects of Mokuboito, a Japanese Kampo medicine, on symptoms in patients hospitalized for acute decompensated heart failure - A prospective randomized pilot study. 임상시험, 40명. DOI: [10.1016/j.jjcc.2019.05.003](https://doi.org/10.1016/j.jjcc.2019.05.003) · PMID: 31272834. 목보이탕이 임상 증상·울혈 개선.
 [^11]: Effect of astraglus injection on serum apoptosis relevant factors in patients with chronic heart failure. 임상시험, 84명. PMID: [15957829](https://pubmed.ncbi.nlm.nih.gov/15957829/). 황기주사액이 세포사멸 인자 감소, LVEF 개선.
 [^12]: Effect and Safety of Xinfuli Granules in Chronic Heart Failure with Qi Deficiency and Blood Stasis: A Single-Center Randomized Controlled Trial. 임상시험, 356명. DOI: [10.1007/s11655-025-4022-7](https://doi.org/10.1007/s11655-025-4022-7) · PMID: 41129050. 신부리과립이 사망·입원 위험 감소, 우울·불안 완화.
-[^13]: Efficacy and safety of Naoxintong capsule for secondary prevention after reperfused acute myocardial infarction: a randomized, double-blind, placebo-controlled, multicenter trial. 임상시험, 379명. DOI: [10.1016/j.phymed.2026.158593](https://doi.org/10.1016/j.phymed.2026.158593) · PMID: 42537467. 뇌신통이 심부전·MACE 위험 유의 감소.
+[^13]: Efficacy and safety of Naoxintong capsule for secondary prevention after reperfused acute myocardial infarction: a randomized, double-blind, placebo-controlled, multicenter trial. 임상시험, 379명. DOI: [10.1016/j.phymed.2026.158593](https://doi.org/10.1016/j.phymed.2026.158593) · PMID: 42537467. 뇌심통이 심부전·MACE 위험 유의 감소.
 [^14]: Danhong Injection (a Traditional Chinese Patent Medicine) for Acute Myocardial Infarction: A Systematic Review and Meta-Analysis. 메타분석, 979명. DOI: [10.1155/2015/646530](https://doi.org/10.1155/2015/646530). 단홍주사액이 사망·심부전 위험 감소, LVEF 개선.
 [^15]: Effect of shengmai injection on hemodynamics in patients with dilated cardiomyopathy. 임상시험, 100명. PMID: [12584790](https://pubmed.ncbi.nlm.nih.gov/12584790/). 생맥주사액이 심박출량·EF 개선, SVR 감소.
 [^16]: Complementary therapy in Chinese medicine for dilated cardiomyopathy with congestive heart failure: A three-year follow-up case report. 증례, 1명. DOI: [10.1097/MD.0000000000042389](https://doi.org/10.1097/MD.0000000000042389) · PMID: 40388774. 익기화어이수탕이 심박출률 상승·NT-proBNP 감소.
