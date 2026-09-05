@@ -223,7 +223,7 @@ TB-IRIS에서 iNKT세포 매개 granzyme B 경로가 코르티코스테로이드
 
 #### 17-3. 병태생리
 
-다발성 외상 환자에서 말초혈액 MAIT세포·NKT세포 수치가 유의하게 감소하며 이 감소가 APACHE Ⅱ·SAPS Ⅱ·손상중증도점수(ISS)와 같은 중증도 지표와 밀접히 관련된다는 관찰연구는[^7], 급성 중증 외상이 불변 T세포 계열(NKT·MAIT)의 소실을 유발하며 이 소실 정도가 중증도를 반영하는 바이오마커로 활용될 수 있음을 시사한다. 세균 감염 환자의 말초혈액을 단일세포 RNA 시퀀싱으로 분석한 관찰연구는, 감염 후 NKT세포의 출현(emergence)과 B세포 감소와 같은 구체적인 면역 프로파일 변화를 확인하였으며, 이러한 정밀 면역 프로파일이 향후 감염 환자의 정밀 진단·맞춤 치료 전략 수립의 근거로 활용될 수 있다고 정리하였다[^17]. 코로나19(COVID-19) 폐렴 환자에서 호산구 매개 폐 염증과 NKT세포 반응의 증가가 동반 관찰된 증례는, 중증 COVID-19의 폐 염증 기전에서 호산구뿐 아니라 NKT세포의 역할이 함께 고려되어야 함을 시사한다[^18].
+다발성 외상 환자에서 말초혈액 MAIT세포·NKT세포 수치가 유의하게 감소하며 이 감소가 APACHE Ⅱ·SAPS Ⅱ·손상중증도점수(ISS)와 같은 중증도 지표와 밀접히 관련된다는 관찰연구는[^7], 급성 중증 외상이 불변 T세포 계열(NKT·MAIT)의 소실을 유발하며 이 소실 정도가 중증도를 반영하는 바이오마커로 활용될 수 있음을 시사한다. 중환자 87명을 대상으로 패혈증·패혈성 쇼크 경과 중 내인성 IL-7 농도를 림프구 아형과 함께 추적한 전향적 관찰연구에서는, IL-7 변동이 림프구감소증 및 CD4+·CD8+ T세포·B세포·NKT세포 분획과 연관되며 생존군과 비생존군 사이에 차이를 보였다[^21]. 이는 위중증에서 NKT세포 소실이 단독 현상이 아니라 림프구 항상성 사이토카인 축의 붕괴와 함께 일어나는 전신적 면역마비의 일부임을 보여준다. 동맥류성 지주막하출혈 환자를 종단 추적한 관찰연구에서도 MAIT세포 감소가 급성기 이후까지 지속되고 사이토카인 변화가 시간적으로 뒤따르는 양상이 확인되어[^22], 불변 T세포 계열의 소실이 급성 손상 이후 상당 기간 회복되지 않는 "정기 손상의 지속"으로 나타남을 시사한다. 세균 감염 환자의 말초혈액을 단일세포 RNA 시퀀싱으로 분석한 관찰연구는, 감염 후 NKT세포의 출현(emergence)과 B세포 감소와 같은 구체적인 면역 프로파일 변화를 확인하였으며, 이러한 정밀 면역 프로파일이 향후 감염 환자의 정밀 진단·맞춤 치료 전략 수립의 근거로 활용될 수 있다고 정리하였다[^17]. 코로나19(COVID-19) 폐렴 환자에서 호산구 매개 폐 염증과 NKT세포 반응의 증가가 동반 관찰된 증례는, 중증 COVID-19의 폐 염증 기전에서 호산구뿐 아니라 NKT세포의 역할이 함께 고려되어야 함을 시사한다[^18].
 
 #### 17-4. 치료
 
@@ -238,6 +238,36 @@ NKT·MAIT세포 감소 정도가 외상 중증도와 상관관계를 보인다�
 #### 17-6. 관리
 
 급성기에는 표준 중환자 관리(감염원 조절·장기 지지요법)가 최우선이며, 회복기에 정기 회복을 위한 조섭이 뒤따른다.
+
+---
+
+### 17-A. 군5 — 만성 바이러스성 간염과 간세포암
+
+#### 17-A-1. KCD-8 코드
+
+만성 B형간염은 B18.1, 만성 C형간염은 B18.2, 간세포암은 C22.0, 알코올성 간질환은 K70으로 분류된다[교과서적 근거]. 간은 순환 림프구 대비 NKT세포 비율이 가장 높은 장기 중 하나이므로, 만성 간질환은 사람에서 NKT세포의 역할을 관찰하기에 가장 자료가 풍부한 영역이다.
+
+#### 17-A-2. 병인병기
+
+만성 바이러스성 간염은 습열(濕熱)의 사기가 간담(肝膽)에 오래 머물러 소설(疏泄) 기능을 잃고, 병이 길어지면 간울비허(肝鬱脾虛)를 거쳐 간신음허(肝腎陰虛)와 어혈(瘀血)이 겸해지는 경과로 이해된다. 간세포암으로의 진행은 이 어혈·담탁(痰濁)이 적취(積聚)를 이루는 단계에 대응한다[교과서적 근거].
+
+#### 17-A-3. 병태생리
+
+만성 C형간염 환자 50명과 대조군 50명을 비교한 환자-대조군 연구에서는 CD3+CD56+ NKT-유사 세포를 포함한 림프구 분획이 바이러스 부하·간기능 지표와 함께 변화하는 양상이 확인되었다[^23]. 만성 B형간염 환자 334명과 건강대조군 17명의 면역 프로파일을 유세포분석으로 비교한 연구에서는, NK/NKT세포와 적응면역 T세포에 발현되는 면역관문 분자의 양상이 환자군에서 뚜렷이 달라져 있으며 이 차이가 임상 경과와 연관됨이 확인되었다[^24]. 이는 만성 간염에서 NKT세포가 단순히 수가 줄어드는 것이 아니라 억제 신호를 과도하게 받아 기능적으로 소진(exhaustion)되는 방향으로 변한다는 점을 보여주며, "사기가 오래 머물러 정기가 지쳐가는" 구병(久病)의 병기와 대응해 이해할 수 있다. 류마티스 관절염에 C형간염이 동반된 환자군을 대조군과 비교한 연구에서는 NK·NKT·T세포의 절대수는 대조군과 비슷하였으나 면역조절 수용체 CD244(2B4)의 발현 강도가 달라져 있어[^25], 세포 수보다 수용체 수준의 조절 상태가 더 예민한 지표일 수 있음을 시사한다. 음주 양상에 따른 면역 반응 불균형을 면역세포 수와 사이토카인 농도로 동시에 평가한 연구는[^26] 알코올성 간질환에서도 유사한 축이 작동함을 보여준다.
+
+#### 17-A-4. 치료
+
+**변증 층화의 원칙**: 아래 근거는 특정 환자군에서 확인된 것으로, 변증 없이 동일한 치법을 관행적으로 적용하는 것은 근거에 부합하지 않는다.
+
+간세포암 환자 77명을 대상으로 경동맥화학색전술(TACE) 단독군 38명과 iNKT세포 치료 병용군 39명을 비교한 연구에서는, iNKT세포 치료 병용이 전신 염증을 완화하고 TACE 치료 성적을 개선하는 것과 연관되었다[^27]. 이는 NKT세포를 표적으로 한 세포치료가 사람에서 실제 임상 결과와 연결된 드문 사례로, 부정거사(扶正祛邪)의 "부정"을 세포 수준에서 구현한 접근으로 볼 수 있다. 다만 무작위배정 비교가 아니고 표본이 작아 확정적 근거는 아니며, 한의학적 개입이 NKT세포 기능을 직접 회복시킨다는 인체 근거는 이 문서가 확보한 범위에서 확인되지 않는다.
+
+#### 17-A-5. 예후
+
+만성 B형간염에서 NK/NKT세포의 면역관문 발현 양상이 임상 경과와 연관된다는 점[^24], 간세포암에서 iNKT세포 병용 치료가 생존 동태·예후 바이오마커와 연관된다는 점[^27]은 NKT세포 관련 지표가 간질환 예후 평가의 보조 지표로 활용될 여지가 있음을 보여준다. 다만 표준 예후 체계(Child-Pugh·BCLC 등)를 대체할 근거는 없다.
+
+#### 17-A-6. 관리
+
+항바이러스 치료의 지속과 정기적인 간기능·영상 추적이 최우선이며, 음주 회피가 필수적이다[^26]. 한의학적 조섭은 습열을 조장하는 기름진 음식·음주를 피하고 정지(情志)를 조화롭게 하여 간의 소설을 돕는 방향으로 구성한다.
 
 ---
 
@@ -348,3 +378,10 @@ NKT·MAIT세포 감소 정도가 외상 중증도와 상관관계를 보인다�
 [^18]: Eosinophil-mediated lung inflammation associated with elevated natural killer T cell response in COVID-19 patients. Dong Min Kim 외. _The Korean Journal of Internal Medicine_. 2022-01. [증례 보고] [DOI 10.3904/kjim.2021.093](https://doi.org/10.3904/kjim.2021.093) — COVID-19 폐렴 환자에서 호산구 매개 폐 염증과 NKT세포 반응 증가가 동반됨을 관찰, 중증 COVID-19 폐 염증 기전에서 NKT세포 관여 가능성 시사.
 [^19]: Chronic active Epstein-Barr virus infection presenting as refractory chronic sinusitis. Kitamura W 외. _International journal of hematology_. 2022-07. [증례 보고] [DOI 10.1007/s12185-022-03306-y](https://doi.org/10.1007/s12185-022-03306-y) [PMID 35157240](https://pubmed.ncbi.nlm.nih.gov/35157240/) — 치료 저항성 만성 부비동염의 기저에 만성 활성 EBV 감염이 있었고 이후 ENKTL·HLH로 진행함을 보고, 생리적 NKT세포와 무관한 별개의 EBV 연관 종양 스펙트럼임을 뒷받침.
 [^20]: An Unusual Presentation of Midline Lethal Granuloma. Chin EW 외. _Indian journal of otolaryngology and head and neck surgery_. 2024-04. [증례 보고] [DOI 10.1007/s12070-023-04466-x](https://doi.org/10.1007/s12070-023-04466-x) [PMID 38566723](https://pubmed.ncbi.nlm.nih.gov/38566723/) — 중선 치명적 육아종이라는 옛 명칭의 비인두형 결절외 NK/T세포 림프종 증례, EBV DNA 정량이 진단·모니터링에 핵심적임을 보여줌.
+[^21]: Endogenous IL-7 Variation in Relation to Lymphocyte Subtypes in Septic Patients. Fodor RȘ 외. _Medicina (Kaunas)_. 2025-02-02. [관찰연구, 87명] [DOI 10.3390/medicina61020258](https://doi.org/10.3390/medicina61020258) [PMID 40005375](https://pubmed.ncbi.nlm.nih.gov/40005375/) — 중환자 87명에서 내인성 IL-7 변동이 림프구감소증 및 NKT세포를 포함한 림프구 아형과 연관되며 생존 여부에 따라 달랐음을 보인 인체 전향 관찰 근거.
+[^22]: Longitudinal immune profiling demonstrates persistent MAIT cell reduction and temporal cytokine alterations after aneurysmal subarachnoid hemorrhage. Merei A 외. _Frontiers in Neurology_. 2026. [관찰연구, 48명] [DOI 10.3389/fneur.2026.1900084](https://doi.org/10.3389/fneur.2026.1900084) [PMID 42694134](https://pubmed.ncbi.nlm.nih.gov/42694134/) — 지주막하출혈 환자 48명에서 불변 T세포 계열(MAIT)의 감소가 급성기 이후까지 지속됨을 종단 추적으로 보인 인체 근거.
+[^23]: Detection of Natural Killer and Natural Killer T Cells Responses among Patients with Chronic Hepatitis C Infections in Sana'a City-Yemen. Abdulkareem AM 외. _Current Microbiology_. 2026-08-14. [관찰연구, 100명] [DOI 10.1007/s00284-026-05117-4](https://doi.org/10.1007/s00284-026-05117-4) [PMID 42601419](https://pubmed.ncbi.nlm.nih.gov/42601419/) — 만성 C형간염 환자 50명과 대조군 50명에서 CD3+CD56+ NKT-유사 세포 분획이 바이러스 부하·간기능 지표와 함께 변화함을 보인 환자-대조군 근거.
+[^24]: Immune Checkpoints Determine the NK/NKT and T Cell Immunity in Chronic Hepatitis B. Li X 외. _Journal of Viral Hepatitis_. 2026-01. [관찰연구, 351명] [DOI 10.1111/jvh.70108](https://doi.org/10.1111/jvh.70108) [PMID 41342231](https://pubmed.ncbi.nlm.nih.gov/41342231/) — 만성 B형간염 환자 334명과 건강대조군 17명에서 NK/NKT세포의 면역관문 발현 양상이 임상 경과와 연관됨을 보인 인체 근거. NKT세포의 기능적 소진을 시사한다.
+[^25]: CD244 Expression by Lymphocytes in Rheumatoid Arthritis With Concomitant Hepatitis C Infection. Abdelraouf FH 외. _International Journal of Rheumatic Diseases_. 2025-04. [관찰연구, 52명] [DOI 10.1111/1756-185X.70218](https://doi.org/10.1111/1756-185X.70218) [PMID 40213953](https://pubmed.ncbi.nlm.nih.gov/40213953/) — NK·NKT·T세포의 절대수는 대조군과 유사하나 면역조절 수용체 CD244 발현 강도가 달라져, 세포 수보다 수용체 수준이 예민한 지표일 수 있음을 보인 인체 근거.
+[^26]: Imbalance of the Immune Response According to Alcohol Consumption Patterns. Martinez-Castillo M 외. _Mediators of Inflammation_. 2025. [관찰연구] [DOI 10.1155/mi/1693583](https://doi.org/10.1155/mi/1693583) [PMID 41777360](https://pubmed.ncbi.nlm.nih.gov/41777360/) — 음주 양상(위험음주부터 알코올성 간염까지)에 따라 면역세포 수와 사이토카인 농도가 단계적으로 달라짐을 보인 인체 단면연구.
+[^27]: Invariant Natural Killer T Cell Therapy Attenuates Systemic Inflammation and Improves Transarterial Chemoembolization Outcomes in Hepatocellular Carcinoma. Wang X 외. _Oncology Research_. 2026. [관찰연구, 77명] [DOI 10.32604/or.2026.082815](https://doi.org/10.32604/or.2026.082815) [PMID 42630714](https://pubmed.ncbi.nlm.nih.gov/42630714/) — 간세포암 환자 77명에서 iNKT세포 치료 병용이 전신 염증 완화 및 TACE 성적 개선과 연관됨을 보인 인체 근거. 무작위배정이 아니어서 확정적 근거는 아니다.
