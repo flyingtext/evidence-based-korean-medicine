@@ -568,7 +568,9 @@ COPD 급성 악화에서 SPG7 단백질이 mPTP의 일시적 개방(mitochondria
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(擧痛論, 調經論, 通評虛實論, 熱論, 玉機眞藏論, 氣交變大論), 『靈樞』(邪氣藏腑病形, 本神, 痛疽), 『難經』, 『傷寒論』, 『金匱要略』, 『諸病源候論』, 『景岳全書』, 『醫宗金鑑』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준[^1_SIRT1_stroke]: SIRT1: An Emerging Role in Regulated Cell Death in Ischemic Stroke.. Zhou J 외. _CNS & neurological disorders drug targets_. 2026-01-15. [문헌 고찰] [DOI 10.2174/0118715273418707251202102848](https://doi.org/10.2174/0118715273418707251202102848) [PMID 41582353](https://pubmed.ncbi.nlm.nih.gov/41582353/) — SIRT1은 허혈성 뇌졸중 발생 시 신경염증과 다양한 세포사멸 경로(apoptosis, pyroptosis, necroptosis 등)를 억제하여 신경보호 효과를 나타내는 핵심 조절자로 확인되었다. Resveratrol과 같은 SIRT1 조절제가 임상적 가능성을 보였으나, 실제 적용을 위해서는 혈뇌장벽(BBB) 투과성 및 약물 안정성 개선이 필수적이다. 향후 더 많은 임상 검증을 통해 최적화된 SIRT1 조절제를 개발한다면 뇌졸중 환자의 예후 ...
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준
+
+[^1_SIRT1_stroke]: SIRT1: An Emerging Role in Regulated Cell Death in Ischemic Stroke.. Zhou J 외. _CNS & neurological disorders drug targets_. 2026-01-15. [문헌 고찰] [DOI 10.2174/0118715273418707251202102848](https://doi.org/10.2174/0118715273418707251202102848) [PMID 41582353](https://pubmed.ncbi.nlm.nih.gov/41582353/) — SIRT1은 허혈성 뇌졸중 발생 시 신경염증과 다양한 세포사멸 경로(apoptosis, pyroptosis, necroptosis 등)를 억제하여 신경보호 효과를 나타내는 핵심 조절자로 확인되었다. Resveratrol과 같은 SIRT1 조절제가 임상적 가능성을 보였으나, 실제 적용을 위해서는 혈뇌장벽(BBB) 투과성 및 약물 안정성 개선이 필수적이다. 향후 더 많은 임상 검증을 통해 최적화된 SIRT1 조절제를 개발한다면 뇌졸중 환자의 예후 ...
 
 [^2_eRNA_mPTP]: SPG7-Mediated Regulation of mPTP and Mitochondrial Flickering in COPD: A Bioinformatics-Based Prediction of Mechanistic Framework.. Xu A 외. _International journal of chronic obstructive pulmonary disease_. 2026. [실험연구] [DOI 10.2147/COPD.S597903](https://doi.org/10.2147/COPD.S597903) [PMID 42404999](https://pubmed.ncbi.nlm.nih.gov/42404999/) — 본 연구는 COPD의 급성 악화 단계에서 SPG7 단백질이 mPTP의 일시적 개방(mitochondrial flickering)을 통해 미토콘드리아의 품질을 관리하고 세포 생존을 돕는 보호 기전이 존재할 가능성을 제시하였다. 임상적으로 SPG7과 같은 바이오마커를 통해 COPD의 상태 전이 및 중증도를 예측할 수 있는 가능성을 열어주었으나, 실제 적용을 위해서는 추가적인 실험적 검증이 필요하다.
 

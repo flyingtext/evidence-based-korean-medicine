@@ -567,7 +567,9 @@ ER 스트레스가 췌장 베타 세포의 생존·기능 유지에 핵심적이
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(擧痛論, 調經論, 通評虛實論, 至眞要大論, 熱論, 陰陽應象大論), 『靈樞』(邪氣藏腑病形, 本神, 營衛生會), 『難經』, 『傷寒論』, 『金匱要略』, 『諸病源候論』, 『景岳全書』, 『醫宗金鑑』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준[^1_MDS_BALL]: Effect of poor cooperation between coaching and medical staff on muscle re-injury in professional football over 15 seasons.. Ghrairi M 외. _Open access journal of sports medicine_. 2019. [관찰연구, 97명] [DOI 10.2147/OAJSM.S221292](https://doi.org/10.2147/OAJSM.S221292) [PMID 31496844](https://pubmed.ncbi.nlm.nih.gov/31496844/) — 프로 축구팀에서 코칭 스태프와 의료진 간의 협력이 부족할 때(특히 의료진의 부상 진단을 코칭진이 거부할 때), 선수들의 근육 부상 및 재부상 위험이 유의하게 증가함을 보여준다. 따라서 운동선수의 안전한 복귀와 부상 방지를 위해서는 의료진의 전문적 소견이 존중되는 다학제적 협력 체계 구축이 필수적이다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준
+
+[^1_MDS_BALL]: Effect of poor cooperation between coaching and medical staff on muscle re-injury in professional football over 15 seasons.. Ghrairi M 외. _Open access journal of sports medicine_. 2019. [관찰연구, 97명] [DOI 10.2147/OAJSM.S221292](https://doi.org/10.2147/OAJSM.S221292) [PMID 31496844](https://pubmed.ncbi.nlm.nih.gov/31496844/) — 프로 축구팀에서 코칭 스태프와 의료진 간의 협력이 부족할 때(특히 의료진의 부상 진단을 코칭진이 거부할 때), 선수들의 근육 부상 및 재부상 위험이 유의하게 증가함을 보여준다. 따라서 운동선수의 안전한 복귀와 부상 방지를 위해서는 의료진의 전문적 소견이 존중되는 다학제적 협력 체계 구축이 필수적이다.
 
 [^1_MPT_HCC]: The construction and evaluation of a prognostic risk score model for HCC based on MPT-related lncRNAs.. Lin Z 외. _Frontiers in oncology_. 2025. [실험연구] [DOI 10.3389/fonc.2025.1590094](https://doi.org/10.3389/fonc.2025.1590094) [PMID 40792280](https://pubmed.ncbi.nlm.nih.gov/40792280/) — 본 연구는 MPT 관련 lncRNA를 기반으로 간세포암 환자의 예후를 예측하는 위험 점수 모델을 구축하였으며, 이는 생존율 예측 및 면역요법 반응성 판단에 유용함을 시사한다. 실제 임상에서 환자의 위험군을 분류함으로써 개별화된 항암 화학요법 선택 및 정밀한 예후 관리에 활용될 수 있을 것으로 기대된다.
 

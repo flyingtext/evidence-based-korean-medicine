@@ -340,7 +340,9 @@
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(評熱病論, 本病論, 擧痛論, 陰陽應象大論, 四氣調神大論), 『靈樞』(邪客, 刺血, 百病始生), 『傷寒論』, 『金匱要略』, 『溫病條辨』, 『溫疫論』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2025-08-30 조회 기준[^3]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. Qing Zhang 외. _Malawi Medical Journal_. 2025-12-31. [임상시험, 80명] [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15) — 온침 치료를 병행한 그룹은 대조군에 비해 조조강직 시간, 통증 및 부종 관절 수, 염증 지표(TNF-α, IL-6, CRP), 혈청 RF 및 ESR 수치, VAS 점수, 한방 증후군 점수가 유의하게 개선되었으며, 삶의 질이 향상되고 이상반응 발생률은 낮아졌다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2025-08-30 조회 기준
+
+[^3]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. Qing Zhang 외. _Malawi Medical Journal_. 2025-12-31. [임상시험, 80명] [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15) — 온침 치료를 병행한 그룹은 대조군에 비해 조조강직 시간, 통증 및 부종 관절 수, 염증 지표(TNF-α, IL-6, CRP), 혈청 RF 및 ESR 수치, VAS 점수, 한방 증후군 점수가 유의하게 개선되었으며, 삶의 질이 향상되고 이상반응 발생률은 낮아졌다.
 
 [^5]: [Clinical observation on needle-sticking method for treatment of rheumatoid arthritis of wind-cold-damp retention type].. He W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-05. [임상시험, 50명] [PMID 16739845](https://pubmed.ncbi.nlm.nih.gov/16739845/) — 자입법과 호침 치료 모두 효과가 있었으나, 자입법 치료군이 류마티스 인자(RF), 압통 관절 수, 총 누적 점수 개선 면에서 호침 치료군보다 유의하게 우수한 치료 효과를 나타냈다.
 

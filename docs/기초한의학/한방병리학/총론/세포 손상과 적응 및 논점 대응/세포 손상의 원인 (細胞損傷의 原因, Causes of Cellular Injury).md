@@ -710,7 +710,9 @@ DNA 메틸화·히스톤 변형·비암호 RNA 발현 이상이 유전자 발현
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(擧痛論, 調經論, 通評虛實論, 至眞要大論, 熱論, 氣交變大論), 『靈樞』(邪氣藏腑病形, 痛疽, 賊風), 『難經』, 『傷寒論』, 『金匱要略』, 『諸病源候論』, 『溫病條辨』, 『景岳全書』, 『醫宗金鑑』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준[^0_EA_heart]: Electroacupuncture Pretreatment as a Novel Avenue to Protect Heart against Ischemia and Reperfusion Injury. Jiyao Zhang 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [문헌 고찰] [DOI 10.1155/2020/9786482](https://doi.org/10.1155/2020/9786482) — 전침(電鍼) 전처치는 심장 내 허혈 내성을 유도하여 경피적 관상동맥 중재술(PCI)이나 판막 치환술 환자의 급성 심근 허혈-재관류 손상을 예방하는 유용한 수단이 될 수 있다. 에너지 대사 조절, 염증 및 산화 스트레스 억제 등 다각적인 기전을 통해 심근을 보호하므로, 실제 임상에서 심혈관 시술 전 전침 처치를 통해 심장 손상을 최소화하는 전략으로 응용 가능하다.
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준
+
+[^0_EA_heart]: Electroacupuncture Pretreatment as a Novel Avenue to Protect Heart against Ischemia and Reperfusion Injury. Jiyao Zhang 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [문헌 고찰] [DOI 10.1155/2020/9786482](https://doi.org/10.1155/2020/9786482) — 전침(電鍼) 전처치는 심장 내 허혈 내성을 유도하여 경피적 관상동맥 중재술(PCI)이나 판막 치환술 환자의 급성 심근 허혈-재관류 손상을 예방하는 유용한 수단이 될 수 있다. 에너지 대사 조절, 염증 및 산화 스트레스 억제 등 다각적인 기전을 통해 심근을 보호하므로, 실제 임상에서 심혈관 시술 전 전침 처치를 통해 심장 손상을 최소화하는 전략으로 응용 가능하다.
 
 [^1_PITTs]: A single dose of dietary nitrate supplementation protects against endothelial ischemia-reperfusion injury in early postmenopausal women.. Somani YB 외. _Applied physiology, nutrition, and metabolism = Physiologie appliquee, nutrition et metabolisme_. 2022-07-01. [임상시험, 12명] [DOI 10.1139/apnm-2021-0693](https://doi.org/10.1139/apnm-2021-0693) [PMID 35358395](https://pubmed.ncbi.nlm.nih.gov/35358395/) — 단회 투여의 식이 질산염(비트 주스) 보충이 초기 폐경 후 여성의 허혈-재관류(IR) 손상으로 인한 대혈관 내피 기능 저하를 최소화할 수 있음을 시사한다. 이는 폐경 후 에스트로겐 감소로 인해 취약해진 혈관 내피 기능을 보호하는 전략으로 활용될 수 있으나, 휴지기 상태의 기본 내피 기능을 개선하는 효과는 제한적이다.
 

@@ -417,7 +417,9 @@
 ---
 
 **고전 인용 출처**: 『黃帝內經素問』(擧痛論, 調經論, 痿論, 至眞要大論, 五藏生成篇), 『靈樞』(邪氣藏腑病形, 本神, 水脹), 『難經』, 『金匱要略』, 『諸病源候論』, 『景岳全書』, 『醫宗金鑑』
-**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준[^1_NAFLD_MASLD]: Comparison of the identification and practicability of non-invasive diagnostic indicators under NAFLD, MAFLD and MASLD in China: a cross-sectional study.. Tan XY 외. _BMJ open_. 2026-04-02. [관찰연구, 5810명] [DOI 10.1136/bmjopen-2024-094809](https://doi.org/10.1136/bmjopen-2024-094809) [PMID 41927286](https://pubmed.ncbi.nlm.nih.gov/41927286/) — 중국인 인구를 대상으로 NAFLD, MAFLD, MASLD 진단 기준에 따른 비침습적 지표들의 성능을 비교한 결과, FLI가 전반적으로 가장 높은 예측 성능을 보였으며 ZJU 역시 이에 상응하는 성능을 나타냈다. 성별 및 BMI에 따라 유용한 지표가 다르며, 남성에서는 ZJU가, 여성 및 과체중자에서는 FLI가, 정상 BMI 그룹에서는 LAP가 더 효과적이었다. 임상적 정확성과 실용성을 고려할 때, 중국인 대상의 지역사회 스크리닝 도구로 ZJU...
+**문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-30 조회 기준
+
+[^1_NAFLD_MASLD]: Comparison of the identification and practicability of non-invasive diagnostic indicators under NAFLD, MAFLD and MASLD in China: a cross-sectional study.. Tan XY 외. _BMJ open_. 2026-04-02. [관찰연구, 5810명] [DOI 10.1136/bmjopen-2024-094809](https://doi.org/10.1136/bmjopen-2024-094809) [PMID 41927286](https://pubmed.ncbi.nlm.nih.gov/41927286/) — 중국인 인구를 대상으로 NAFLD, MAFLD, MASLD 진단 기준에 따른 비침습적 지표들의 성능을 비교한 결과, FLI가 전반적으로 가장 높은 예측 성능을 보였으며 ZJU 역시 이에 상응하는 성능을 나타냈다. 성별 및 BMI에 따라 유용한 지표가 다르며, 남성에서는 ZJU가, 여성 및 과체중자에서는 FLI가, 정상 BMI 그룹에서는 LAP가 더 효과적이었다. 임상적 정확성과 실용성을 고려할 때, 중국인 대상의 지역사회 스크리닝 도구로 ZJU...
 
 [^1_soft_tissue_calc]: Association between low cortical bone mineral density, soft-tissue calcification, vascular calcification and chondrocalcinosis: a case-control study.. Abhishek A 외. _Annals of the rheumatic diseases_. 2014-11. [관찰연구, 3170명] [DOI 10.1136/annrheumdis-2013-203400](https://doi.org/10.1136/annrheumdis-2013-203400) [PMID 23912799](https://pubmed.ncbi.nlm.nih.gov/23912799/) — 본 연구는 낮은 피질골 밀도(MCI), 연조직 석회화 및 혈관 석회화가 연골석회화(CC)와 독립적으로 유의한 연관성이 있음을 보여준다. 이는 칼슘 결정 형성이라는 일반적인 체질적 소인이 존재함을 시사하며, 임상적으로 골밀도가 낮거나 혈관 및 연조직 석회화가 관찰되는 환자에서 연골석회화의 발생 가능성을 고려할 필요가 있다.
 
