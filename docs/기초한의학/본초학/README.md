@@ -68,7 +68,7 @@
 ### 2-3. 청열량혈약(淸熱涼血藥, Heat-Clearing Blood-Cooling)
 
 - 서각/수우각(犀角/水牛角, Bubali Cornu) — **작성됨**
-- 지황(地黃, Rehmannia) — 생지황·숙지황 하위 표제어 포함 **작성됨** (겸: 보혈약)
+- 지황(地黃, Rehmanniae Radix) — 생지황·숙지황 하위 표제어 포함 **작성됨** (겸: 보혈약)
 - 현삼(玄蔘, Scrophularia buergeriana) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
 - 목단피(牡丹皮, Moutan Cortex)
 - 적작약(赤芍藥) — 작약(芍藥, Paeonia) 문서에서 하위 표제어로 포함 **작성됨**
