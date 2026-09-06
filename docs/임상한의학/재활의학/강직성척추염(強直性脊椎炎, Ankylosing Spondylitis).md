@@ -177,7 +177,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 - **주증**: 관절의 발적·종창·열감, 급성 악화기·말초관절(고관절·슬관절) 침범, 구고(口苦)·소변황적(小便黃赤)을 겸함.
 - **설맥**: 설홍(舌紅)·태황니(苔黃膩), 맥활삭(脈滑數) 또는 유삭(濡數).
 - **치법**: 청열조습(淸熱燥濕), 통락지통.
-- **대표방**: 청열조습탕(淸熱燥濕湯), 사묘산(四妙散) 가감. 황금청열초비 캡슐(黃芩淸熱除痺膠囊)이 이 변증형에 부합하는 염증 억제 기전을 보고한다(제4편 참조)[^62].
+- **대표방**: 청열조습탕(淸熱燥濕湯), 사묘산(四妙散) 가감. 황금청열제비 캡슐(黃芩淸熱除痺膠囊)이 이 변증형에 부합하는 염증 억제 기전을 보고한다(제4편 참조)[^62].
 
 #### 9-5. 담어호결증(痰瘀互結證)
 
@@ -237,7 +237,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 
 **화담저어해독탕(化痰逐瘀解毒湯)** — 담어호결증에 대응하는 활혈화담(活血化痰) 처방으로, 독활기생탕 대비 증상 개선율과 염증 지표(ESR·CRP), X-ray상 소견 개선에서 유의하게 우수한 임상 근거가 확인되었다[^61].
 
-**청열조습탕(淸熱燥濕湯)·황금청열초비 캡슐(黃芩淸熱除痺膠囊)** — 습열비조증에 대응하는 청열조습·통락지통 처방군이다. 황금청열초비 캡슐은 강직성 척추염 환자의 염증 지표(ESR·CRP)를 낮추고 삶의 질 및 심리적 상태를 유의하게 개선하며, lncRNA AP005432.1/PI3K/AKT 축을 조절하여 항염증 작용을 나타낸다(인간 데이터 기반)[^62].
+**청열조습탕(淸熱燥濕湯)·황금청열제비 캡슐(黃芩淸熱除痺膠囊)** — 습열비조증에 대응하는 청열조습·통락지통 처방군이다. 황금청열제비 캡슐은 강직성 척추염 환자의 염증 지표(ESR·CRP)를 낮추고 삶의 질 및 심리적 상태를 유의하게 개선하며, lncRNA AP005432.1/PI3K/AKT 축을 조절하여 항염증 작용을 나타낸다(인간 데이터 기반)[^62].
 
 **신착탕(腎着湯)** — 『금궤요략(金匱要略)』 감강영출탕(甘薑苓朮湯)의 이명(異名)으로, 신허를 겸한 한습요통(寒濕腰痛)·요척부 냉통에 활용되는 온신산한(溫腎散寒) 처방이다. 신비증·풍한습비증 겸증의 초기 강직성 척추염에 배오할 수 있다(교과서적 근거).
 
@@ -266,7 +266,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 - 가감 보신장골방(加減補腎壯骨方)은 변증(신허한습/신허습열)에 맞추어 처방했을 때 양약 단독보다 임상 증상·신체 기능·ESR·CRP 개선에 더 효과적이었다[^120].
 
 **습열비조증 대응 처방**
-- 황금청열초비 캡슐(黃芩淸熱除痺膠囊)은 산화 스트레스를 유의하게 감소시키고, PPARγ 활성화 및 AMPK/FOXO3a 신호 경로 상향 조절을 통해 살라조설피리딘보다 우수한 효과를 보였다[^108].
+- 황금청열제비 캡슐(黃芩淸熱除痺膠囊)은 산화 스트레스를 유의하게 감소시키고, PPARγ 활성화 및 AMPK/FOXO3a 신호 경로 상향 조절을 통해 살라조설피리딘보다 우수한 효과를 보였다[^108].
 - 보신서극과립(補腎舒極顆粒)은 신허두통증후군을 동반한 환자의 증후군 개선·통증·CRP 감소에 효과적이며, Celecoxib보다 증후군 개선율이 유의하게 높았다[^117].
 
 **담어호결증·복합 변증 대응 처방**
@@ -468,7 +468,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 
 #### ④ 치료
 
-아달리무맙은 척추 증상뿐 아니라 말초 증상도 유의하게 개선하며[^145], 고관절을 침범한 환자에게는 침도(針刀)와 에타너셉트 병용이 염증·통증·BASDAI 개선 및 고관절 기능(mHHS·ROM) 회복에 효과적이다[^153]. 습열비조증에는 황금청열초비 캡슐[^62][^108]·청열조습탕류가, 담어호결증의 말초 강직에는 반룡기정[^116]·시노메닌[^113]이 적용될 수 있다.
+아달리무맙은 척추 증상뿐 아니라 말초 증상도 유의하게 개선하며[^145], 고관절을 침범한 환자에게는 침도(針刀)와 에타너셉트 병용이 염증·통증·BASDAI 개선 및 고관절 기능(mHHS·ROM) 회복에 효과적이다[^153]. 습열비조증에는 황금청열제비 캡슐[^62][^108]·청열조습탕류가, 담어호결증의 말초 강직에는 반룡기정[^116]·시노메닌[^113]이 적용될 수 있다.
 
 #### ⑤ 예후
 
@@ -501,7 +501,7 @@ ESR·CRP 등 염증 지표와 HLA-B27 유전자 검사를 시행한다. 혈장 I
 
 #### ④ 치료
 
-TNF-α 억제제는 AS 환자의 포도막염 발생에 영향을 미치며[^158], 관절외 증상 자체는 TNFi 치료 지속 기간에 유의한 영향을 주지 않는다는 KOBIO 레지스트리 분석도 있다[^140]. 한의 중재의 직접적 포도막염 치료 근거는 제한적이나, 습열비조증에 준하는 청열조습 치법(황금청열초비 캡슐 등[^62][^108])이 간경 습열 겸증에 배오될 수 있다(교과서적 근거 기반 유추).
+TNF-α 억제제는 AS 환자의 포도막염 발생에 영향을 미치며[^158], 관절외 증상 자체는 TNFi 치료 지속 기간에 유의한 영향을 주지 않는다는 KOBIO 레지스트리 분석도 있다[^140]. 한의 중재의 직접적 포도막염 치료 근거는 제한적이나, 습열비조증에 준하는 청열조습 치법(황금청열제비 캡슐 등[^62][^108])이 간경 습열 겸증에 배오될 수 있다(교과서적 근거 기반 유추).
 
 포도막염이 반복되는 환자는 IL-17 억제제·TNF 억제제 중 안과적 관해 유지에 유리한 약제를 선택하는 것이 일반적이며, 한의사는 이러한 안과적 병력을 문진에 반드시 포함해 습열·간화(肝火) 겸증의 단서로 활용해야 한다(교과서적 근거).
 
@@ -760,7 +760,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 
 **Q3. 강직성 척추염에 한약도 도움이 되나요?**
 
-네. 화담저어해독탕·구비인·황금청열초비 캡슐·신풍캡슐 등 다양한 처방이 염증 지표 감소와 증상 개선에 효과적이라는 근거가 축적되어 있습니다[^61][^62][^92][^98]. 다만 대부분의 근거가 설파살라진 등 표준 치료와의 병용 또는 대조 비교 설계이므로, **변증에 맞춘 처방 선택** 이 근거에 부합하는 접근입니다.
+네. 화담저어해독탕·구비인·황금청열제비 캡슐·신풍캡슐 등 다양한 처방이 염증 지표 감소와 증상 개선에 효과적이라는 근거가 축적되어 있습니다[^61][^62][^92][^98]. 다만 대부분의 근거가 설파살라진 등 표준 치료와의 병용 또는 대조 비교 설계이므로, **변증에 맞춘 처방 선택** 이 근거에 부합하는 접근입니다.
 
 **Q4. 부항이나 도침도 강직성 척추염에 적용할 수 있나요?**
 
@@ -890,7 +890,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^59]: Multi-omics-based study on the biological characteristics of kidney renal deficiency and blood stasis in ankylosing spondylitis. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2026-02. [실험연구] [DOI 10.19852/j.cnki.jtcm.2026.01.017](https://doi.org/10.19852/j.cnki.jtcm.2026.01.017) [PMID 41736434](https://pubmed.ncbi.nlm.nih.gov/41736434/) — 신허혈어증 바이오마커(ICAM1·CXCL8 등) 제시.
 [^60]: Efficacy of thunder-fire moxibustion in treating ankylosing spondylitis of kidney deficiency and governor meridian cold and its influence on TNF-α and RANKL: study protocol for a prospective, nonblinded, single-center, randomized controlled trial. _Trials_. 2022-04-23. [임상시험] [DOI 10.1186/s13063-022-06227-7](https://doi.org/10.1186/s13063-022-06227-7) — 신허·독맥한형 AS에 뇌화구가 TNF-α·RANKL 등 골대사지표에 미치는 영향 평가 프로토콜.
 [^61]: [Clinical observation on treatment of ankylosing spondylitis with huatan zhuyu jiedu decoction]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2002-08. [임상시험] [PMID 12572374](https://pubmed.ncbi.nlm.nih.gov/12572374/) — 화담저어해독탕이 독활기생탕보다 증상·염증·X-ray 개선.
-[^62]: Huangqin Qingre Chubi Capsule modulates the lncRNA AP005432.1/PI3K/AKT axis and is associated with improved self-perception of patients and inflammation in ankylosing spondylitis. _Journal of ethnopharmacology_. 2026-07-15. [실험연구] [DOI 10.1016/j.jep.2026.121662](https://doi.org/10.1016/j.jep.2026.121662) [PMID 41956229](https://pubmed.ncbi.nlm.nih.gov/41956229/) — 황금청열초비가 염증·삶의 질 개선, PI3K/AKT 축 조절.
+[^62]: Huangqin Qingre Chubi Capsule modulates the lncRNA AP005432.1/PI3K/AKT axis and is associated with improved self-perception of patients and inflammation in ankylosing spondylitis. _Journal of ethnopharmacology_. 2026-07-15. [실험연구] [DOI 10.1016/j.jep.2026.121662](https://doi.org/10.1016/j.jep.2026.121662) [PMID 41956229](https://pubmed.ncbi.nlm.nih.gov/41956229/) — 황금청열제비가 염증·삶의 질 개선, PI3K/AKT 축 조절.
 [^63]: [Clinical observation on acupuncture combined with cupping therapy for treatment of ankylosing spondylitis]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2005-08. [임상시험] [PMID 16309054](https://pubmed.ncbi.nlm.nih.gov/16309054/) — 침+발관 병행이 관해율·유효율 개선, 재발률 감소.
 [^64]: A systematic review and meta-analysis of the effect of acupuncture therapy on the symptoms and immune indicators of ankylosing spondylitis. _Frontiers in neurology_. 2025. [메타분석] [DOI 10.3389/fneur.2025.1652356](https://doi.org/10.3389/fneur.2025.1652356) [PMID 41602985](https://pubmed.ncbi.nlm.nih.gov/41602985/) — 침이 통증·조조강직·CRP·ESR 개선, 이질성 높아 신중한 적용 필요.
 [^65]: The efficacy of moxibustion and acupuncture therapy for ankylosing spondylitis. _Medicine_. 2021-04-16. [체계적 고찰] [DOI 10.1097/md.0000000000025179](https://doi.org/10.1097/md.0000000000025179) — 침뜸 SR/MA 종합 오버뷰 연구.
@@ -936,7 +936,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^105]: The efficacy and safety of Jitongning Capsule () in patients with ankylosing spondylitis. _Chinese journal of integrative medicine_. 2013-02. [임상시험] [DOI 10.1007/s11655-012-1212-x](https://doi.org/10.1007/s11655-012-1212-x) [PMID 23371457](https://pubmed.ncbi.nlm.nih.gov/23371457/) — 지통녕캡슐이 초중기 AS 증상·사이토카인 개선, 설파살라진과 유사한 효능·안전성.
 [^106]: [The effect of Xinfeng capsule treatment on the number of BTLA(+)T cells and oxidative stress of patients with ankylosing spondylitis]. _Xi bao yu fen zi mian yi xue za zhi = Chinese journal of cellular and molecular immunology_. 2014-10. [임상시험] [PMID 25270214](https://pubmed.ncbi.nlm.nih.gov/25270214/) — 신풍캡슐이 BTLA+T세포 증가·산화스트레스 감소, SASP보다 우수.
 [^107]: [Exploration of the mechanism of xinfeng capsule in the treatment of ankylosing spondylitis based on B and T lymphocyte attenuator and oxidative stress]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-01. [임상시험] [PMID 25790670](https://pubmed.ncbi.nlm.nih.gov/25790670/) — 신풍캡슐이 BTLA 발현 증가·산화스트레스 감소, SASP보다 ASAS20·BASDAI50 우수.
-[^108]: [Huangqin Qingre Chubi Capsules in improving oxidative stress of patients with ankylosing spondylitis via activating PPARγ mediated AMPK/FOXO3a pathway]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-01. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20190619.501](https://doi.org/10.19540/j.cnki.cjcmm.20190619.501) [PMID 32237331](https://pubmed.ncbi.nlm.nih.gov/32237331/) — 황금청열축비캡슐이 산화스트레스 감소, PPARγ/AMPK/FOXO3a 경로 조절.
+[^108]: [Huangqin Qingre Chubi Capsules in improving oxidative stress of patients with ankylosing spondylitis via activating PPARγ mediated AMPK/FOXO3a pathway]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-01. [임상시험] [DOI 10.19540/j.cnki.cjcmm.20190619.501](https://doi.org/10.19540/j.cnki.cjcmm.20190619.501) [PMID 32237331](https://pubmed.ncbi.nlm.nih.gov/32237331/) — 황금청열제비캡슐이 산화스트레스 감소, PPARγ/AMPK/FOXO3a 경로 조절.
 [^109]: [Effects of bushen tongdu decoction on serum tumor necrosis factor-alpha and transforming growth factor beta1, in patients with ankylosing spondylitis]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-12. [임상시험] [PMID 19317165](https://pubmed.ncbi.nlm.nih.gov/19317165/) — 보신통두탕이 TNF-α 감소·TGF-β1 증가, ESR·CRP 개선.
 [^110]: Efficacy of Duhuo Jisheng Decoction in Treating Ankylosing Spondylitis: Clinical Evidence and Potential Mechanisms. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석, 철회됨] [DOI 10.1155/2022/3305773](https://doi.org/10.1155/2022/3305773) [PMID 35419071](https://pubmed.ncbi.nlm.nih.gov/35419071/) — **철회(Retraction Notice: [PMID 37829646](https://pubmed.ncbi.nlm.nih.gov/37829646/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 독활기생탕이 VAS·조조강직·ESR·CRP·IL-6 개선, 위장관·피부 부작용 감소.
 [^111]: Therapeutic effects of traditional Chinese medicine fumigating plus Yang-He decoction for patients with ankylosing spondylitis: A systematic review and network meta-analysis. _저널 미상_. 2023-04-20. [메타분석] [DOI 10.37766/inplasy2023.4.0074](https://doi.org/10.37766/inplasy2023.4.0074) — 중약훈증+양화탕 병용 효과 평가 네트워크 메타분석.

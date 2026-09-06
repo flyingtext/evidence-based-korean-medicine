@@ -808,7 +808,7 @@
 
 [^41]: Efficacy and safety of yinqiao powder combined with western medicine in the treatment of pneumonia: A systematic review and meta-analysis. Fan Y 외. _Complementary therapies in clinical practice_. 2021-02. [메타분석, 1705명] [DOI 10.1016/j.ctcp.2020.101297](https://doi.org/10.1016/j.ctcp.2020.101297) [PMID 33360842](https://pubmed.ncbi.nlm.nih.gov/33360842/) — 폐렴 환자에게 양약 단독 치료보다 은교산(銀翹散)을 병용한 치료가 총 유효율을 높이고, 해열 시간 단축 및 염증 지표(CRP, PCT) 개선, 세균 제거율 향상에 더 효과적이며 안전성이 우수한 것으로 나타났다.
 
-[^42]: Guidelines on common cold for traditional Chinese medicine based on pattern differentiation. Jiao Y 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2013-08. [임상진료지침] [DOI 10.1016/s0254-6272(13)60141-7](https://doi.org/10.1016/s0254-6272(13)60141-7) [PMID 24187858](https://pubmed.ncbi.nlm.nih.gov/24187858/) — 본 지침은 감기 환자를 4가지 변증 유형으로 나누어 각각 적절한 한약 처방(감모청열과립, 은교결독과립, 곽향정기완, 신수완)을 사용할 것을 권고합니다.
+[^42]: Guidelines on common cold for traditional Chinese medicine based on pattern differentiation. Jiao Y 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2013-08. [임상진료지침] [DOI 10.1016/s0254-6272(13)60141-7](https://doi.org/10.1016/s0254-6272(13)60141-7) [PMID 24187858](https://pubmed.ncbi.nlm.nih.gov/24187858/) — 본 지침은 감기 환자를 4가지 변증 유형으로 나누어 각각 적절한 한약 처방(감모청열과립, 은교해독과립, 곽향정기완, 삼소환)을 사용할 것을 권고합니다.
 
 [^43]: Development of Clinical Trial Guidelines for Using Korean Herbal Medicine in Treatment of Common Cold. 박지원 외. _대한예방한의학회지_. 2024-04. [임상진료지침] [DOI 10.25153/spkom.2024.28.1.010](https://doi.org/10.25153/spkom.2024.28.1.010) — 본 연구는 감기 치료를 위한 한약제제 임상시험의 표준화된 수행 및 평가 원칙을 제시하는 가이드라인을 개발하였다.
 

@@ -80,7 +80,7 @@ NETs의 병리적 양면성을 가장 명확하게 보여주는 예는 구강 �
 
 ### 15. 변증과 NETs 관련 지표의 상관 — 한의약 개입 기전 연구
 
-최근 NETs를 직접적인 작용기전 표적으로 삼은 한의약 연구가 빠르게 축적되고 있다. 신풍캡슐(新風캡슐, Xinfeng capsule)이 ALKBH5-m6A-LINC00968 축을 조절하여 류마티스 관절염 환자의 산화 스트레스 매개 NETosis를 억제하고 ESR·hs-CRP 등 염증 지표를 유의하게 개선하며 간·신 독성 없이 안전하게 사용될 수 있음을 확인한 대규모 관찰연구는[^15], 후성유전학적 조절을 경유한 한의약의 NETs 억제 기전을 인체 데이터로 뒷받침하는 근거다. 황금청열축비 캡슐(黃芩淸熱逐痺캡슐, Huangqin Qingre Chubi Capsule)이 p38 MAPK 신호 경로를 직접 억제하여 NETs 형성과 방출을 차단함으로써 류마티스 관절염의 염증을 완화한다는 것을 확인한 실험연구는[^16], 습열(濕熱) 변증을 동반한 관절염에서 NETs 표적 기전이 실제 임상 처방의 작용기전과 결부됨을 보여준다. 통풍(痛風) 재발 예방을 위한 기부화탁방(氣賦化濁方, Qifu Huazhuo formula)이 요산 저하제 단독 투여보다 통풍 발작 빈도를 유의하게 낮추었으며, 다중오믹스 분석 결과 NETs 형성·페롭토시스(ferroptosis) 관련 경로를 다중 표적으로 조절함을 확인한 임상시험은[^17], 요산 수치 조절을 넘어선 염증·NETs 조절이 통풍 재발 방지의 새로운 치료 원리가 될 수 있음을 시사한다. 음나무(五加木, Oplopanax elatus) 부정근 추출물이 호중구의 활성산소 생성을 억제하고 NETosis를 감소시켜 류마티스 관절염의 발생률·중증도를 낮춘다는 실험연구는[^18], 개별 본초 수준에서도 NETs 조절 가능성이 확인되고 있음을 보여준다. 다만 이러한 NETs-한의약 관련 연구는 대부분 기전 탐색 또는 초기 임상 단계에 머물러 있어, 확증적 임상시험 수준의 근거로 발전하기까지는 추가 연구가 필요하다는 점을 정직하게 밝혀 둔다.
+최근 NETs를 직접적인 작용기전 표적으로 삼은 한의약 연구가 빠르게 축적되고 있다. 신풍캡슐(新風캡슐, Xinfeng capsule)이 ALKBH5-m6A-LINC00968 축을 조절하여 류마티스 관절염 환자의 산화 스트레스 매개 NETosis를 억제하고 ESR·hs-CRP 등 염증 지표를 유의하게 개선하며 간·신 독성 없이 안전하게 사용될 수 있음을 확인한 대규모 관찰연구는[^15], 후성유전학적 조절을 경유한 한의약의 NETs 억제 기전을 인체 데이터로 뒷받침하는 근거다. 황금청열제비 캡슐(黃芩淸熱除痺캡슐, Huangqin Qingre Chubi Capsule)이 p38 MAPK 신호 경로를 직접 억제하여 NETs 형성과 방출을 차단함으로써 류마티스 관절염의 염증을 완화한다는 것을 확인한 실험연구는[^16], 습열(濕熱) 변증을 동반한 관절염에서 NETs 표적 기전이 실제 임상 처방의 작용기전과 결부됨을 보여준다. 통풍(痛風) 재발 예방을 위한 기부화탁방(氣賦化濁方, Qifu Huazhuo formula)이 요산 저하제 단독 투여보다 통풍 발작 빈도를 유의하게 낮추었으며, 다중오믹스 분석 결과 NETs 형성·페롭토시스(ferroptosis) 관련 경로를 다중 표적으로 조절함을 확인한 임상시험은[^17], 요산 수치 조절을 넘어선 염증·NETs 조절이 통풍 재발 방지의 새로운 치료 원리가 될 수 있음을 시사한다. 음나무(五加木, Oplopanax elatus) 부정근 추출물이 호중구의 활성산소 생성을 억제하고 NETosis를 감소시켜 류마티스 관절염의 발생률·중증도를 낮춘다는 실험연구는[^18], 개별 본초 수준에서도 NETs 조절 가능성이 확인되고 있음을 보여준다. 다만 이러한 NETs-한의약 관련 연구는 대부분 기전 탐색 또는 초기 임상 단계에 머물러 있어, 확증적 임상시험 수준의 근거로 발전하기까지는 추가 연구가 필요하다는 점을 정직하게 밝혀 둔다.
 
 ---
 
@@ -106,7 +106,7 @@ NETs의 병리적 양면성을 가장 명확하게 보여주는 예는 구강 �
 
 **변증 층화의 원칙**: 아래 치법·처방은 변증을 전제로 한 임상 틀이며, 패혈증·중증 코로나19와 같은 생명을 위협하는 응급질환에서 한의학적 개입이 항생제·수액소생술·기계환기 등 표준 중환자 치료를 대체해서는 안 된다는 원칙을 절대적으로 강조해야 한다.
 
-기계환기 중인 중증 코로나19 환자에게 인라인 네뷸라이저로 도르나제 알파(dornase alfa, DNase I 제제)와 알부테롤을 병용 투여한 5명의 증례에서 산소 요구량 감소와 우수한 내약성이 관찰되었다는 초기 증례군은[^29], NETs 그물을 직접 분해하는 효소요법이 서양의학 표준 치료 안에서 검토되고 있는 방향임을 보여준다. 한의약 영역에서는 앞서 제4편 15절에서 정리한 것처럼 신풍캡슐[^15]·황금청열축비 캡슐[^16] 등이 류마티스 관절염이라는 다른 질환군에서 NETs 억제 기전을 확인한 것이 대부분이며, 패혈증·중증 코로나19 자체를 대상으로 한 한의약 개입의 직접적 인체 임상시험 근거는 이 검색을 통해 확인되지 않았다는 점을 정직하게 밝혀 둔다. 다만 온병학의 청열해독(淸熱解毒)·양혈산어(涼血散瘀) 치법이 위기영혈 변증의 혈분증 단계에서 전통적으로 활용되어 온 점은, NETs 매개 면역혈전증이라는 현대적 병태생리와의 기전적 접점을 탐색할 근거가 될 수 있으며 향후 연구가 필요한 영역이다.
+기계환기 중인 중증 코로나19 환자에게 인라인 네뷸라이저로 도르나제 알파(dornase alfa, DNase I 제제)와 알부테롤을 병용 투여한 5명의 증례에서 산소 요구량 감소와 우수한 내약성이 관찰되었다는 초기 증례군은[^29], NETs 그물을 직접 분해하는 효소요법이 서양의학 표준 치료 안에서 검토되고 있는 방향임을 보여준다. 한의약 영역에서는 앞서 제4편 15절에서 정리한 것처럼 신풍캡슐[^15]·황금청열제비 캡슐[^16] 등이 류마티스 관절염이라는 다른 질환군에서 NETs 억제 기전을 확인한 것이 대부분이며, 패혈증·중증 코로나19 자체를 대상으로 한 한의약 개입의 직접적 인체 임상시험 근거는 이 검색을 통해 확인되지 않았다는 점을 정직하게 밝혀 둔다. 다만 온병학의 청열해독(淸熱解毒)·양혈산어(涼血散瘀) 치법이 위기영혈 변증의 혈분증 단계에서 전통적으로 활용되어 온 점은, NETs 매개 면역혈전증이라는 현대적 병태생리와의 기전적 접점을 탐색할 근거가 될 수 있으며 향후 연구가 필요한 영역이다.
 
 #### 16-5. 예후
 
@@ -134,7 +134,7 @@ NETs의 병리적 양면성을 가장 명확하게 보여주는 예는 구강 �
 
 **변증 층화의 원칙**: 아래 치법·처방은 변증을 전제로 한 임상 틀이며, 특히 SLE의 신장·중추신경계 침범, ANCA 관련 혈관염의 폐포출혈·급성신부전과 같이 생명을 위협할 수 있는 중증 상태에서는 한의학적 개입이 면역억제제·생물학적제제 등 표준 류마티스내과 치료를 대체해서는 안 된다는 원칙을 절대적으로 강조해야 한다.
 
-**한약 치료** 와 관련하여, 신풍캡슐(新風캡슐)이 ALKBH5-m6A-LINC00968 축을 조절해 산화 스트레스 매개 NETosis를 억제하고 RA 환자 2,367명 규모에서 ESR·hs-CRP 등 염증 지표를 유의하게 개선하며 간·신 독성 없이 안전하게 사용될 수 있음을 확인한 대규모 관찰연구[^15]와, 황금청열축비 캡슐(黃芩淸熱逐痺캡슐)이 MAPK14에 직접 결합해 p38 MAPK 신호 전달을 억제함으로써 NETs 형성·방출을 차단하고 호중구-활막세포 간 염증성 상호작용을 억제한다는 실험연구[^16]는 습열(濕熱) 변증을 동반한 RA에서 실제 임상 처방의 NETs 표적 작용기전을 뒷받침하는 근거다. 음나무 부정근 추출물이 호중구의 활성산소 생성을 억제해 NETosis를 감소시킴으로써 RA의 발생률·중증도를 낮춘다는 실험연구[^18]는 개별 본초 수준에서도 유사한 기전이 확인됨을 보여준다. 이들 근거는 대부분 실험연구·관찰연구 단계에 머물러 있어, 확증적 무작위 대조시험 수준의 근거로 발전하기까지는 신중한 해석이 필요하다.
+**한약 치료** 와 관련하여, 신풍캡슐(新風캡슐)이 ALKBH5-m6A-LINC00968 축을 조절해 산화 스트레스 매개 NETosis를 억제하고 RA 환자 2,367명 규모에서 ESR·hs-CRP 등 염증 지표를 유의하게 개선하며 간·신 독성 없이 안전하게 사용될 수 있음을 확인한 대규모 관찰연구[^15]와, 황금청열제비 캡슐(黃芩淸熱除痺캡슐)이 MAPK14에 직접 결합해 p38 MAPK 신호 전달을 억제함으로써 NETs 형성·방출을 차단하고 호중구-활막세포 간 염증성 상호작용을 억제한다는 실험연구[^16]는 습열(濕熱) 변증을 동반한 RA에서 실제 임상 처방의 NETs 표적 작용기전을 뒷받침하는 근거다. 음나무 부정근 추출물이 호중구의 활성산소 생성을 억제해 NETosis를 감소시킴으로써 RA의 발생률·중증도를 낮춘다는 실험연구[^18]는 개별 본초 수준에서도 유사한 기전이 확인됨을 보여준다. 이들 근거는 대부분 실험연구·관찰연구 단계에 머물러 있어, 확증적 무작위 대조시험 수준의 근거로 발전하기까지는 신중한 해석이 필요하다.
 
 #### 17-5. 예후
 
@@ -308,7 +308,7 @@ NETs 관련 바이오마커(MPO-DNA·CitH3·cfDNA) 상승이 확인되었을 때
 
 **Q3. 류마티스 관절염이나 루푸스 환자에게 "NETs를 억제하는 한약"을 권할 수 있는가?**
 
-신풍캡슐·황금청열축비 캡슐·음나무 추출물 등 일부 한약이 실험연구·관찰연구 수준에서 NETosis 억제 기전을 보였다[^15][^16][^18]. 다만 이는 표준 항류마티스제·면역억제제를 대체할 수 있는 근거가 아니라, 병용 시 염증 지표 개선을 기대할 수 있다는 초기 근거이므로, 반드시 담당 류마티스내과 전문의의 관리 아래 보조적으로 고려해야 한다.
+신풍캡슐·황금청열제비 캡슐·음나무 추출물 등 일부 한약이 실험연구·관찰연구 수준에서 NETosis 억제 기전을 보였다[^15][^16][^18]. 다만 이는 표준 항류마티스제·면역억제제를 대체할 수 있는 근거가 아니라, 병용 시 염증 지표 개선을 기대할 수 있다는 초기 근거이므로, 반드시 담당 류마티스내과 전문의의 관리 아래 보조적으로 고려해야 한다.
 
 **Q4. NETs가 혈전증의 원인이라면, 어혈(瘀血) 치료를 하면 NETs가 줄어드는가?**
 
@@ -351,7 +351,7 @@ NETs가 염증·혈전·섬유화·종양미세환경이라는 여러 만성질�
 [^13]: The Choline Metabolite TMAO Inhibits NETosis and Promotes Placental Development in GDM of Humans and Mice. Lin X 외. _Diabetes_. 2021-10. [실험연구, 인간 데이터 한정] [DOI 10.2337/db21-0188](https://doi.org/10.2337/db21-0188) [PMID 34315726](https://pubmed.ncbi.nlm.nih.gov/34315726/) — TMAO가 NETosis를 억제해 임신성 당뇨병 환경에서 태반 발달을 보호함을 인체·동물 데이터로 확인.
 [^14]: Bidirectional roles of neutrophil extracellular traps in oral microbiota carcinogenesis: A systematic review. Shen J 외. _Translational oncology_. 2025-06. [체계적 고찰] [DOI 10.1016/j.tranon.2025.102361](https://doi.org/10.1016/j.tranon.2025.102361) [PMID 40239243](https://pubmed.ncbi.nlm.nih.gov/40239243/) — NETs가 구강 발암 초기엔 억제, 종양 형성 후엔 촉진하는 양방향 역할을 함을 정리한 체계적 고찰.
 [^15]: Unveiling novel therapeutic mechanisms of Xinfeng capsule: modulating the ALKBH5-m6A-LINC00968 axis to alleviate oxidative stress-driven NETosis in rheumatoid arthritis. Sun Y 외. _Frontiers in immunology_. 2025. [실험연구] [DOI 10.3389/fimmu.2025.1707663](https://doi.org/10.3389/fimmu.2025.1707663) [PMID 41479914](https://pubmed.ncbi.nlm.nih.gov/41479914/) — 신풍캡슐이 ALKBH5-m6A 축 조절로 NETosis를 억제해 류마티스 관절염 염증지표를 개선(2,367명).
-[^16]: Targeting p38 MAPK signaling pathway and neutrophil extracellular traps: An important anti-inflammatory mechanism of Huangqin Qingre Chubi Capsule in rheumatoid arthritis. Li Y 외. _International immunopharmacology_. 2025-02-20. [실험연구, 인간 데이터 한정] [DOI 10.1016/j.intimp.2025.114112](https://doi.org/10.1016/j.intimp.2025.114112) [PMID 39837014](https://pubmed.ncbi.nlm.nih.gov/39837014/) — 황금청열축비 캡슐이 p38 MAPK 직접 억제로 NETs 형성·방출을 차단해 RA 염증을 완화.
+[^16]: Targeting p38 MAPK signaling pathway and neutrophil extracellular traps: An important anti-inflammatory mechanism of Huangqin Qingre Chubi Capsule in rheumatoid arthritis. Li Y 외. _International immunopharmacology_. 2025-02-20. [실험연구, 인간 데이터 한정] [DOI 10.1016/j.intimp.2025.114112](https://doi.org/10.1016/j.intimp.2025.114112) [PMID 39837014](https://pubmed.ncbi.nlm.nih.gov/39837014/) — 황금청열제비 캡슐이 p38 MAPK 직접 억제로 NETs 형성·방출을 차단해 RA 염증을 완화.
 [^17]: Qifu Huazhuo formula for gout recurrence prevention: an interim analysis combining clinical outcomes with proteomic and metabolomic profiling. Shen Z 외. _Frontiers in pharmacology_. 2025. [임상시험] [DOI 10.3389/fphar.2025.1642121](https://doi.org/10.3389/fphar.2025.1642121) [PMID 41190022](https://pubmed.ncbi.nlm.nih.gov/41190022/) — 기부화탁방이 요산저하제 단독보다 통풍 재발을 줄이며 NETs·페롭토시스 경로를 다중 조절함을 확인.
 [^18]: Adventitial root extract of oplopanax elatus alleviates rheumatoid arthritis via inhibiting NETosis. Lin Z 외. _Clinical rheumatology_. 2026-07-16. [실험연구, 인간 데이터 한정] [DOI 10.1007/s10067-026-08266-w](https://doi.org/10.1007/s10067-026-08266-w) [PMID 42461565](https://pubmed.ncbi.nlm.nih.gov/42461565/) — 음나무 부정근 추출물이 호중구 ROS 생성 억제·NETosis 감소로 류마티스 관절염을 완화.
 [^19]: Plasma myeloperoxidase-conjugated DNA level predicts outcomes and organ dysfunction in patients with septic shock. Maruchi Y 외. _Critical care (London, England)_. 2018-07-13. [관찰연구] [DOI 10.1186/s13054-018-2109-7](https://doi.org/10.1186/s13054-018-2109-7) [PMID 30005596](https://pubmed.ncbi.nlm.nih.gov/30005596/) — 패혈성 쇼크에서 혈장 MPO-DNA 상승이 장기부전·28일 사망률과 밀접히 연관됨을 확인.

@@ -191,7 +191,7 @@
 
 ### 3-7. 청열조습(淸熱燥濕) 약대(藥對)와 배오 확장
 
-고삼(苦蔘)을 기반으로 한 한약 제제가 습열적체(濕熱積滯) 증후를 동반한 궤양성 대장염에서 5-아미노살리실산 단독 요법보다 높은 임상 관해율을 보였다는 체계적 고찰(환자 수 983명)은,[^37] 청열조습 계열 본초의 배오가 습열형 장 병태에 유효할 가능성을 시사한다. 또한 습열내저증(濕熱內阻證) 활동성 궤양성 대장염 환자를 대상으로 청창화습방(淸腸化濕方) 경구 투여와 관장을 병행한 임상시험(60명)은 메살라진 단독보다 나은 증상 개선을 보고하였다.[^41] 이러한 근거는 위릉채가 속한 청열해독·청열조습 계열 배오가 습열형 장 병태를 표적으로 삼는다는 전통적 배오 논리와 방향이 일치한다.
+고삼(苦蔘)을 기반으로 한 한약 제제가 습열적체(濕熱積滯) 증후를 동반한 궤양성 대장염에서 5-아미노살리실산 단독 요법보다 높은 임상 관해율을 보였다는 체계적 고찰(환자 수 983명)은,[^37] 청열조습 계열 본초의 배오가 습열형 장 병태에 유효할 가능성을 시사한다. 또한 습열내저증(濕熱內阻證) 활동성 궤양성 대장염 환자를 대상으로 청장화습방(淸腸化濕方) 경구 투여와 관장을 병행한 임상시험(60명)은 메살라진 단독보다 나은 증상 개선을 보고하였다.[^41] 이러한 근거는 위릉채가 속한 청열해독·청열조습 계열 배오가 습열형 장 병태를 표적으로 삼는다는 전통적 배오 논리와 방향이 일치한다.
 
 ### 3-8. 지혈 배오의 현대적 대응
 
@@ -266,7 +266,7 @@
 
 ### 4-8. 궤양성 대장염 — 습열형 장 병태
 
-혈변·점액변·이급후중(裏急後重)을 특징으로 하는 궤양성 대장염은 위릉채의 주치인 적리(赤痢)와 증후가 겹치는 대표적 현대 질환군이다. 한약 보류관장의 효능을 정리한 체계적 고찰(1,514명)은 증상 완화와 임상 유효율 개선을 보고하였고,[^35] 별도의 메타분석(2,477명)은 전반적 치료 효과 향상과 함께 재발률·이상반응의 유의한 감소를 보고하였다.[^36] 다기관 무작위 이중맹검 임상시험(240명)은 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 비교 평가하였으며,[^38] 청열거습활혈(淸熱祛濕活血) 원칙의 탕약 보류관장을 적용한 임상 관찰(100명)은 설파살라진 관장보다 나은 증상 완화와 점막 회복을 보고하였다.[^39] 고삼 기반 제제의 체계적 고찰(983명)[^37]과 청창화습방 임상시험(60명)[^41] 역시 습열형 병태에서의 이득을 시사한다.
+혈변·점액변·이급후중(裏急後重)을 특징으로 하는 궤양성 대장염은 위릉채의 주치인 적리(赤痢)와 증후가 겹치는 대표적 현대 질환군이다. 한약 보류관장의 효능을 정리한 체계적 고찰(1,514명)은 증상 완화와 임상 유효율 개선을 보고하였고,[^35] 별도의 메타분석(2,477명)은 전반적 치료 효과 향상과 함께 재발률·이상반응의 유의한 감소를 보고하였다.[^36] 다기관 무작위 이중맹검 임상시험(240명)은 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 비교 평가하였으며,[^38] 청열거습활혈(淸熱祛濕活血) 원칙의 탕약 보류관장을 적용한 임상 관찰(100명)은 설파살라진 관장보다 나은 증상 완화와 점막 회복을 보고하였다.[^39] 고삼 기반 제제의 체계적 고찰(983명)[^37]과 청장화습방 임상시험(60명)[^41] 역시 습열형 병태에서의 이득을 시사한다.
 
 한편 염증성 장질환에 대한 보완대체의학 전반을 검토한 체계적 고찰은, 차전자피·커큐민이 궤양성 대장염 유지 요법에서, 침 치료가 두 질환 모두에서 가능성을 보인다고 정리하면서도 근거의 질적 한계를 지적하였다.[^40] 이 지적은 위릉채를 포함한 개별 본초의 근거를 해석할 때에도 동일하게 적용된다.
 
@@ -598,7 +598,7 @@
 [^38]: Clinical evaluation of traditional Chinese medicine on mild active ulcerative colitis: A multi-center, randomized, double-blind, controlled trial. Kou FS 외. _Medicine_. 2020-08-28. [임상시험, 240명] [DOI 10.1097/MD.0000000000021903](https://doi.org/10.1097/MD.0000000000021903) [PMID 32871923](https://pubmed.ncbi.nlm.nih.gov/32871923/) — 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 비교한 다기관 이중맹검 연구. 주치 질환군에서 한약이 표준약과 직접 비교되는 설계 사례.
 [^39]: Clinical observations on 100 cases of ulcerative colitis treated with the method of clearing away heat, expelling dampness, promoting blood circulation and healing ulcer. Ye B 외. _Journal of traditional Chinese medicine_. 2010-06. [임상시험, 100명] [DOI 10.1016/s0254-6272(10)60022-2](https://doi.org/10.1016/s0254-6272(10)60022-2) [PMID 20653164](https://pubmed.ncbi.nlm.nih.gov/20653164/) — 청열거습활혈 원칙의 탕약 관장이 설파살라진 관장보다 증상 완화와 점막 회복에서 우수했다는 임상 관찰. 위릉채의 치법 축(청열·거습)이 실제 처방 원칙으로 검증된 사례.
 [^40]: Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. Langhorst J 외. _Journal of Crohn's & colitis_. 2015-01. [체계적 고찰] [DOI 10.1093/ecco-jcc/jju007](https://doi.org/10.1093/ecco-jcc/jju007) [PMID 25518050](https://pubmed.ncbi.nlm.nih.gov/25518050/) — 염증성 장질환에서 보완대체의학 중재의 근거를 균형 있게 검토. 개별 본초의 근거를 해석할 때 요구되는 신중함의 기준을 제시.
-[^41]: Observation of the curative effect of qingchang huashi recipe for treating active ulcerative colitis of inner-accumulation of damp-heat syndrome. He HH 외. _Zhongguo Zhong xi yi jie he za zhi_. 2012-12. [임상시험, 60명] [PMID 23469594](https://pubmed.ncbi.nlm.nih.gov/23469594/) — 습열내저증 활동성 궤양성 대장염에서 청창화습방 경구·관장 병용이 메살라진 단독보다 나은 개선을 보였다는 임상시험. 변증 층화에 따른 치료 반응 차이를 보여주는 사례.
+[^41]: Observation of the curative effect of qingchang huashi recipe for treating active ulcerative colitis of inner-accumulation of damp-heat syndrome. He HH 외. _Zhongguo Zhong xi yi jie he za zhi_. 2012-12. [임상시험, 60명] [PMID 23469594](https://pubmed.ncbi.nlm.nih.gov/23469594/) — 습열내저증 활동성 궤양성 대장염에서 청장화습방 경구·관장 병용이 메살라진 단독보다 나은 개선을 보였다는 임상시험. 변증 층화에 따른 치료 반응 차이를 보여주는 사례.
 [^42]: Effect of herbal extract granules combined with probiotic mixture on irritable bowel syndrome with diarrhea: study protocol for a randomized controlled trial. Ko SJ 외. _Trials_. 2011-10-06. [임상시험, 60명] [DOI 10.1186/1745-6215-12-219](https://doi.org/10.1186/1745-6215-12-219) [PMID 21978382](https://pubmed.ncbi.nlm.nih.gov/21978382/) — 설사형 과민성 장증후군에서 한약 과립과 프로바이오틱스 병용을 평가한 국내 무작위 대조 연구 설계. 만성 설사 영역의 한의 중재 근거 축.
 [^43]: Moxibustion for diarrhea-predominant irritable bowel syndrome: A systematic review and meta-analysis of randomized controlled trials. Dai YQ 외. _Complementary therapies in clinical practice_. 2022-02. [메타분석, 725명] [DOI 10.1016/j.ctcp.2021.101532](https://doi.org/10.1016/j.ctcp.2021.101532) [PMID 35051805](https://pubmed.ncbi.nlm.nih.gov/35051805/) — 설사형 과민성 장증후군에서 뜸 치료가 양약·한약·침보다 나은 효과를 보일 수 있다는 메타분석. 허한 경향의 만성 설사에서는 온법이 우세할 수 있음을 시사.
 [^44]: Efficacy of Herbal Medicines Intervention for Colorectal Cancer Patients With Chemotherapy-Induced Gastrointestinal Toxicity - a Systematic Review and Meta-Analysis. Chen Y 외. _Frontiers in oncology_. 2021. [메타분석, 1995명] [DOI 10.3389/fonc.2021.629132](https://doi.org/10.3389/fonc.2021.629132) [PMID 33869014](https://pubmed.ncbi.nlm.nih.gov/33869014/) — 대장암 항암치료로 인한 설사·오심·점막염 등 소화기 독성 완화에 한약 병용이 유리했다는 메타분석. 점막 손상형 설사에 대한 한의 보조 치료 근거.

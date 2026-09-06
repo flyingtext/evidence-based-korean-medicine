@@ -64,7 +64,7 @@
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
-중국의 감기 변증 가이드라인은 감기 환자를 4가지 변증 유형(풍열·풍한·서습·기허)으로 나누어 감모청열과립·은교결독과립·곽향정기환·신수환 등을 각각 권고한다(임상진료지침).[^12]
+중국의 감기 변증 가이드라인은 감기 환자를 4가지 변증 유형(풍열·풍한·서습·기허)으로 나누어 감모청열과립·은교해독과립·곽향정기환·삼소환 등을 각각 권고한다(임상진료지침).[^12]
 
 감별 실무 순서: ① 한열(寒熱) 감별(오한이 뚜렷하면 곽향정기산, 인후통·발열이 뚜렷하면 은교산), ② 위장관 증상 동반 여부(구토·설사가 있으면 곽향정기산 우선), ③ 습(濕)의 경중(태니(苔膩)가 두꺼우면 곽박하령탕 등으로 전환), ④ 표실(表實)·표허(表虛) 구분.(교과서적 근거)
 
@@ -320,7 +320,7 @@ COVID-19 팬데믹 기간 중 지역사회 예방(임상시험, 22065명)[^9][^9
 [^9note]: Effects and safety of herbal medicines among community-dwelling residents during COVID-19 pandemic: A large prospective, randomized controlled trial (RCT). Yan B 외. _Phytomedicine_. 2021-05. [임상시험, 22065명] [DOI 10.1016/j.phymed.2020.153403](https://doi.org/10.1016/j.phymed.2020.153403) [PMID 33419674](https://pubmed.ncbi.nlm.nih.gov/33419674/) — 동일 코호트 국제학술지 게재본; 16-59세 성인에서 예방 효과 더 높음.
 [^10]: Efficacy of Huoxiang Zhengqi dropping pills and Lianhua Qingwen granules in treatment of COVID-19: A randomized controlled trial. Xiao M 외. _Pharmacological research_. 2020-11. [임상시험, 283명] [DOI 10.1016/j.phrs.2020.105126](https://doi.org/10.1016/j.phrs.2020.105126) [PMID 32781283](https://pubmed.ncbi.nlm.nih.gov/32781283/) — 곽향정기적환+연화청온과립 병용이 오심·구토·사지통증 개선에 효과적.
 [^11]: [Systematic review and Meta-analysis of Huoxiang Zhengqi Pills combined with Western medicine for acute gastroenteritis]. Yu DD 외. _Zhongguo Zhong yao za zhi_. 2019-07. [메타분석, 4153명] [DOI 10.19540/j.cnki.cjcmm.20190513.502](https://doi.org/10.19540/j.cnki.cjcmm.20190513.502) [PMID 31602833](https://pubmed.ncbi.nlm.nih.gov/31602833/) — 급성 위장염에서 곽향정기환+양약 병용이 양약 단독보다 유효율·발열 완화 우수.
-[^12]: Guidelines on common cold for traditional Chinese medicine based on pattern differentiation. Jiao Y 외. _Journal of traditional Chinese medicine_. 2013-08. [임상진료지침] [DOI 10.1016/s0254-6272(13)60141-7](https://doi.org/10.1016/s0254-6272(13)60141-7) [PMID 24187858](https://pubmed.ncbi.nlm.nih.gov/24187858/) — 감기 4변증 유형별 처방(감모청열과립·은교결독과립·곽향정기환·신수환) 권고.
+[^12]: Guidelines on common cold for traditional Chinese medicine based on pattern differentiation. Jiao Y 외. _Journal of traditional Chinese medicine_. 2013-08. [임상진료지침] [DOI 10.1016/s0254-6272(13)60141-7](https://doi.org/10.1016/s0254-6272(13)60141-7) [PMID 24187858](https://pubmed.ncbi.nlm.nih.gov/24187858/) — 감기 4변증 유형별 처방(감모청열과립·은교해독과립·곽향정기환·삼소환) 권고.
 [^13]: Effect of korean herbal medicine combined with a probiotic mixture on diarrhea-dominant irritable bowel syndrome: a double-blind, randomized, placebo-controlled trial. Ko SJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2013. [임상시험, 53명] [DOI 10.1155/2013/824605](https://doi.org/10.1155/2013/824605) [PMID 24381638](https://pubmed.ncbi.nlm.nih.gov/24381638/) — 곽향정기산+프로바이오틱스가 D-IBS 전반적 증상 완화, 유익균 시너지 증가.
 [^14]: Huoxiang Zhengqi oral liquid for irritable bowel syndrome with diarrhea: a multicenter, double-blind, randomized controlled trial. Guo X 외. _Phytomedicine_. 2025-12. [임상시험, 212명] [DOI 10.1016/j.phymed.2025.157567](https://doi.org/10.1016/j.phymed.2025.157567) [PMID 41297321](https://pubmed.ncbi.nlm.nih.gov/41297321/) — 곽향정기 경구액이 IBS-D 증상·IBS-SSS 유의 개선, 안전성 확인.
 [^15]: [Clinical observation on treatment of SARS with combination of chaihu droplet pill and huoxiang zhengqi droplet pill]. Li H 외. _Zhongguo Zhong xi yi jie he za zhi_. 2004-04. [임상시험, 22명] [PMID 15143718](https://pubmed.ncbi.nlm.nih.gov/15143718/) — 시호적환+곽향정기적환이 SARS 초기 폐손상·염증반응 완화, CK·LDH 개선.

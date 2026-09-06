@@ -137,7 +137,7 @@ IBD 환자의 상당수가 보완대체의학을 병용하며, 특히 프로바�
 - **팔미석류산(八味錫類散)**: 궤양성대장염 치료 기전이 연구되었다(임상시험, 103명)[^94].
 - **궤결과립(潰結顆粒)**: TGF-β/Smads 신호경로 발현을 조절한다(임상시험, 72명)[^116].
 - **신개발 장 처방(腸方)**: 아미노살리실산 치료 효과를 증대시킨다(임상시험, 60명)[^135].
-- **청창양양탕(淸腸養陽湯)**: 메살라진 병용이 증상·염증 반응·장내 미생물을 개선한다(관찰연구, 96명)[^4].
+- **청장유양탕(淸腸養陽湯)**: 메살라진 병용이 증상·염증 반응·장내 미생물을 개선한다(관찰연구, 96명)[^4].
 - **황금(黃芩, Scutellaria baicalensis)**: 항염·장벽 보호·미생물 조절 기전과 임상시험을 정리한 문헌 고찰이 있다[^9].
 - **병변 유형별 차별화 치료**: 병변 범위·활성도에 따라 처방을 달리하는 중의 치료 전략이 조기부터 제시되었다(임상시험, 102명)[^17].
 
@@ -399,7 +399,7 @@ O99.6(임신·출산·산욕에 합병된 소화기계통의 질환) + K51[교�
 [^1]: Use of Complementary and Alternative Medicine by Greek Patients with Inflammatory Bowel Disease. Triantafillidis JK 외. _Nutrients_. 2024-10-29. [관찰연구] [DOI 10.3390/nu16213679](https://doi.org/10.3390/nu16213679) [PMID 39519512](https://pubmed.ncbi.nlm.nih.gov/39519512/) — IBD 환자의 보완대체의학 사용 실태 조사, 실제 임상 수요를 뒷받침.
 [^2]: Determinants of complementary and integrative medicine use in inflammatory bowel disease: a focus on probiotics, prebiotics, and fermentable dietary fibres. Keshteli AH 외. _Frontiers in medicine_. 2025. [관찰연구] [DOI 10.3389/fmed.2025.1641767](https://doi.org/10.3389/fmed.2025.1641767) [PMID 41140674](https://pubmed.ncbi.nlm.nih.gov/41140674/) — 프로바이오틱스·프리바이오틱스·발효성 식이섬유 등 IBD 환자의 통합의학 사용 결정 요인을 조사.
 [^3]: Effects of self-acupressure on quality of life and abdominal pain severity among patients with inflammatory bowel disease: A randomized sham-controlled trial. Rajai N 외. _Journal of Ayurveda and integrative medicine_. [임상시험] [DOI 10.1016/j.jaim.2024.101080](https://doi.org/10.1016/j.jaim.2024.101080) [PMID 40139127](https://pubmed.ncbi.nlm.nih.gov/40139127/) — 자가 지압이 IBD 환자의 삶의 질 향상과 복통 감소에 유효.
-[^4]: Effect of Qingchang Yuyang decoction on treatment efficacy and intestinal flora in patients with ulcerative colitis. Wang J 외. _Allergologia et immunopathologia_. 2025. [관찰연구] [DOI 10.15586/aei.v53i3.1332](https://doi.org/10.15586/aei.v53i3.1332) [PMID 40342115](https://pubmed.ncbi.nlm.nih.gov/40342115/) — 청창양양탕+메살라진 병용이 증상·염증 반응·장내 미생물을 개선.
+[^4]: Effect of Qingchang Yuyang decoction on treatment efficacy and intestinal flora in patients with ulcerative colitis. Wang J 외. _Allergologia et immunopathologia_. 2025. [관찰연구] [DOI 10.15586/aei.v53i3.1332](https://doi.org/10.15586/aei.v53i3.1332) [PMID 40342115](https://pubmed.ncbi.nlm.nih.gov/40342115/) — 청장유양탕+메살라진 병용이 증상·염증 반응·장내 미생물을 개선.
 [^5]: Advancing ulcerative colitis therapy: a review of 5-ASA synergy with traditional Chinese medicine and natural bioactive compounds. Dong W 외. _Frontiers in pharmacology_. 2026. [문헌 고찰] [DOI 10.3389/fphar.2026.1738151](https://doi.org/10.3389/fphar.2026.1738151) [PMID 41693772](https://pubmed.ncbi.nlm.nih.gov/41693772/) — 5-ASA와 중의약 병용의 상승 기전과 천연물 활성 성분을 정리.
 [^6]: The Method of Combining Internal and External Treatment of Ulcerative Colitis in Chinese Medicine. Qian Dai 외. _Chinese medicine and natural products_. 2023-12. [문헌 고찰] [DOI 10.1055/s-0043-1777310](https://doi.org/10.1055/s-0043-1777310) — 내외겸치법(관장+내복)이 비허·대장습열을 다스리는 원리를 정리.
 [^7]: Review of Clinical Studies of the Treatment of Ulcerative Colitis Using Acupuncture and Moxibustion. Ji J 외. _Gastroenterology research and practice_. 2016. [체계적 고찰] [DOI 10.1155/2016/9248589](https://doi.org/10.1155/2016/9248589) [PMID 27885326](https://pubmed.ncbi.nlm.nih.gov/27885326/) — 침·뜸이 장 염증을 조절하고 부작용·재발률이 낮음을 정리한 체계적 고찰.

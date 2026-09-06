@@ -927,7 +927,7 @@ COPD 안정기 폐기허증 환자에서 혈장 대사체 프로파일이 정상
 
 > 당뇨병성 신병증 가미신기지황탕 42명 시험 [^113]·당뇨병성 신병증 3기 변증 [^25]·당뇨병성 신병증 건비거습혈락탕 84명 시험 [^114]·만성신염 신기허·비신양허 변증 [^24]·신병증 보중익기탕 네트워크 약리학 [^119]·신질환 한의학 임상연구 증거맵핑 [^115]·남성불임·정액질 저하 3가지 한의학 패턴 128명 시험 [^120]·신양허형 정액질 121명 시험 [^121]·신기보기 정액질 312명 시험 [^122]·발기부전 신양허·신음허·간울 124명 시험 [^123]·비위기허형 만성신염 보기법 160명 시험 [^124]·만성신염 비허습열·신허복합 231명 시험 [^125]·만성신염 기허혈어 280명 시험 [^126]·신병증 신양허 한약 [^127]·신기허형 요로감염 200명 시험 [^128]이 보고되었다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** — 신기허·비신양허·기허혈어·신음허에 따라 처방이 다르다.
 >
-> 비허습열형 만성신질환 3기 환자 270명 다기관시험에서 건비청화탕을 텔미사르탄과 병용 시 임상증상·삶의 질·예후가 개선되었고 [^182], 비신허손·습열형 만성사구체질환 121명에서 이신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수했다 [^183]. 유지혈액투석 허증 환자 97명에서 족삼리·삼음교 뜸 병행이 표준치료 단독보다 피로·식욕부진·요슬산연 등 전신증상을 개선했다 [^184]. 루푸스신염 43명에서 고용량 황기주사액과 시클로포스파미드 병용이 단백뇨 감소·면역기능 개선과 감염률 저하에 기여하여 [^185], 황기 기반 보기 치법이 자가면역성 신질환의 보조요법으로도 근거를 갖는다. 남성비뇨기 영역에서는 간울신허형 평생형 조루증 60명에서 교소방이 사정잠복시간(IELT)을 유의하게 연장하고 성생활 만족도를 개선하였다 [^199].
+> 비허습열형 만성신질환 3기 환자 270명 다기관시험에서 건비청화탕을 텔미사르탄과 병용 시 임상증상·삶의 질·예후가 개선되었고 [^182], 비신허손·습열형 만성사구체질환 121명에서 익신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수했다 [^183]. 유지혈액투석 허증 환자 97명에서 족삼리·삼음교 뜸 병행이 표준치료 단독보다 피로·식욕부진·요슬산연 등 전신증상을 개선했다 [^184]. 루푸스신염 43명에서 고용량 황기주사액과 시클로포스파미드 병용이 단백뇨 감소·면역기능 개선과 감염률 저하에 기여하여 [^185], 황기 기반 보기 치법이 자가면역성 신질환의 보조요법으로도 근거를 갖는다. 남성비뇨기 영역에서는 간울신허형 평생형 조루증 60명에서 교소방이 사정잠복시간(IELT)을 유의하게 연장하고 성생활 만족도를 개선하였다 [^199].
 
 **침구**: 신수(BL23)·태계(KI3)·관원(CV4)·중극(CV3)·삼음교(SP6)·족삼리(ST36)·비수(BL20)·지실(BL32). 요실금·야뇨에는 백회(GV20)·기해(CV6) 승양. 양위·불임에는 관원(CV4)·명문(GV4)·신수(BL23) 뜸.
 
@@ -1651,7 +1651,7 @@ NSCLC 환자에서 기허증이 혈청 단백 지문으로 비기허증과 구�
 
 [^182]: A Clinical Multicenter Randomized Controlled Study on JianpiQinghua Decoction in Treating Stage 3 Chronic Kidney Disease with A Syndrome Type of Dampness-heat due to Spleen Deficiency. Yu KN 외. _Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae_. 2016-12-20. [임상시험] [DOI 10.3881/j.issn.1000-503X.2016.06.010](https://doi.org/10.3881/j.issn.1000-503X.2016.06.010) [PMID 28065235](https://pubmed.ncbi.nlm.nih.gov/28065235/) — 비허습열형 만성신질환 3기 환자 270명에서 건비청화탕이 텔미사르탄과 병용 시 임상증상·삶의 질·예후를 개선.
 
-[^183]: [Treatment of Proteinuria in Chronic Glomerular Disease Patients with Pi-Shen Deficiency Complicated Damp-Heat Syndrome by Yishen Qingre Huashi Recipe: a Clinical Study]. Dai Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-09. [임상시험] [PMID 26591355](https://pubmed.ncbi.nlm.nih.gov/26591355/) — 비신허손·습열형 만성사구체질환 환자 121명에서 이신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수.
+[^183]: [Treatment of Proteinuria in Chronic Glomerular Disease Patients with Pi-Shen Deficiency Complicated Damp-Heat Syndrome by Yishen Qingre Huashi Recipe: a Clinical Study]. Dai Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-09. [임상시험] [PMID 26591355](https://pubmed.ncbi.nlm.nih.gov/26591355/) — 비신허손·습열형 만성사구체질환 환자 121명에서 익신청열화습방이 로사르탄 단독보다 24시간 요단백 감소·유효율이 우수.
 
 [^184]: [Randomized controlled trail on moxibustion for maintenance hemodialysis patients in deficiency syndrome]. Li N 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-01. [임상시험] [PMID 21355146](https://pubmed.ncbi.nlm.nih.gov/21355146/) — 유지혈액투석 허증 환자 97명에서 족삼리·삼음교 뜸 병행이 표준치료 단독보다 피로·식욕부진·요슬산연 등 전신증상을 개선.
 
