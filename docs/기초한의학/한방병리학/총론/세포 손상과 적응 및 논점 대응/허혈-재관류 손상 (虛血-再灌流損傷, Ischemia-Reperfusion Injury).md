@@ -172,7 +172,7 @@ PCI 후 재관류 손상 — 무반류(no-reflow)·느린 흐름(slow flow) — 
 
 ### 2. 내장기 수술 후 허혈-재관류 — 위장관·간
 
-수술 후 위장관 기능 회복은 허혈-재관류 손상의 회복 과정이다. 산과 수술 후 위장관 기능 회복에서 전침이 유효한 메타분석[^36], 침이 대장암 절제술 후 회복에 유효한 메타분석[^118], 경혈 자극이 위절제술 후 위장관 기능 회복에 유효한 메타분석[^119]은 침구가 수술 후 위장관 **허혈-재관류 손상의 회복**에 기여할 수 있음을 시사한다. 부정화어(扶正化瘀)가 간섬유화·간경변에 유효한 메타분석[^43]은 간 손상-회복 축에서 부정(보)+화어(공) 병행이 유효함을 시사한다.
+수술 후 위장관 기능 회복은 허혈-재관류 손상의 회복 과정이다. 산과 수술 후 위장관 기능 회복에서 전침이 유효한 메타분석[^36], 침이 대장암 절제술 후 회복에 유효한 메타분석[^118], 경혈 자극이 위절제술 후 위장관 기능 회복에 유효한 메타분석[^119]은 침구가 수술 후 위장관 **허혈-재관류 손상의 회복**에 기여할 수 있음을 시사한다. 부정화어(扶正化瘀) 제제가 B형간염 관련 간섬유화·간경변에 유효함을 보고한 메타분석[^120]은 간 손상-회복 축에서 부정(보)+화어(공) 병행이 유효함을 시사한다.
 
 ### 3. 말초혈관 허혈-재관류 — 동맥경화성 폐색
 
@@ -468,3 +468,4 @@ PCI 후 재관류 손상 — 무반류(no-reflow)·느린 흐름(slow flow) — 
 [^118]: Acupuncture and Related Therapies for Treatment of Postoperative Ileus in Colorectal Cancer: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Liu Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [메타분석, 1628명] [DOI 10.1155/2018/3178472](https://doi.org/10.1155/2018/3178472) [PMID 30151019](https://pubmed.ncbi.nlm.nih.gov/30151019/) — 대장암 절제술을 받은 성인 1,628명을 다룬 22편의 무작위 대조시험을 종합한 결과, 침 및 관련 요법이 수술 후 장폐색에서 첫 배변까지의 시간을 유의하게 단축시켰으며 이 효과는 거짓침 대조 연구에서도 확인되었다. 수술로 인한 장관 허혈-재관류 후 기능 회복을 앞당기는 보조 중재로 고려할 수 있다.
 
 [^119]: Effect of Acupoint Stimulation on Improving Gastrointestinal Motility in Patients After Gastrectomy: A Systematic Review and Meta-Analysis. Cheng YL 외. _Journal of integrative and complementary medicine_. 2023-11. [메타분석, 785명] [DOI 10.1089/jicm.2022.0752](https://doi.org/10.1089/jicm.2022.0752) [PMID 37379490](https://pubmed.ncbi.nlm.nih.gov/37379490/) — 위절제술을 받은 환자 785명을 포함한 6편의 무작위 대조시험을 종합한 결과, 침습적·비침습적 경혈 자극(침·전기경혈자극·지압 등)이 모두 수술 후 위장관 운동 정지 시간을 단축시켰다. 위 수술 후 허혈-재관류에 뒤따르는 위장관 기능 회복 과정에서 경혈 자극을 표준 회복 프로토콜에 병용할 근거가 된다.
+[^120]: [Meta-analysis of the efficacy of the Fuzheng Huayu formula in the treatment of hepatitis B-associated liver fibrosis or cirrhosis]. Fan Y 외. _Zhonghua gan zang bing za zhi_. 2024-12-20. [메타분석] [DOI 10.3760/cma.j.cn501113-20240612-00293](https://doi.org/10.3760/cma.j.cn501113-20240612-00293) [PMID 39788588](https://pubmed.ncbi.nlm.nih.gov/39788588/) — 무작위 대조시험을 종합해 부정화어정·교낭의 B형간염 관련 간섬유화·간경변 효과를 평가한 메타분석. 이전 판에서 이 대목이 전침 심근보호 임상시험 각주를 가리키고 있어 실제 근거로 교체하였다.
