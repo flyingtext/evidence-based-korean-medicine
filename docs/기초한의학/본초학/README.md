@@ -168,7 +168,7 @@
 
 ## 5. 방향화습약(芳香化濕藥, Aromatic Damp-Transforming Herbs)
 
-- 창출(蒼朮, Atractylodis Lanceae Rhizoma)
+- 창출(蒼朮, Atractylodis Rhizoma)
 - 후박(厚朴, Magnoliae Cortex) — (겸: 이기약)
 - 광곽향(廣藿香, Agastachis Herba) — (작성 예정)
 - 사인(砂仁, Amomi Fructus) — (작성 예정)

@@ -1,4 +1,4 @@
-# 창출(蒼朮, Atractylodis Lanceae Rhizoma)
+# 창출(蒼朮, Atractylodis Rhizoma)
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-16 · 최종 보강일: 2026-08-27
 
