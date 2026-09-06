@@ -1,4 +1,4 @@
-# 하수오 (何首烏, Polygonum multiflorum)
+# 하수오(何首烏, Polygoni Multiflori Radix)
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-16 · 보강일: 2026-09-04
 

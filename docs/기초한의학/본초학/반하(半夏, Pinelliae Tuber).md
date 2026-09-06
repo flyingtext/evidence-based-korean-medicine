@@ -1,4 +1,4 @@
-# 반하(半夏, Pinellia ternata)
+# 반하(半夏, Pinelliae Tuber)
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-15
 

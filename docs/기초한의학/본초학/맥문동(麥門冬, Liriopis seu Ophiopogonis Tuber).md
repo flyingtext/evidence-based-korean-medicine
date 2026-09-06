@@ -1,4 +1,4 @@
-# 맥문동(麥門冬, Ophiopogon)
+# 맥문동(麥門冬, Liriopis seu Ophiopogonis Tuber)
 
 > 출처: 근거 기반 한의학 저장소 · 작성일: 2026-08-15 · 보강일: 2026-09-04
 
