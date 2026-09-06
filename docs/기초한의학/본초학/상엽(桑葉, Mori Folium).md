@@ -100,7 +100,7 @@
 
 ### 2-4. 신경·정신 보호 가능성
 
-인삼(人蔘)과 상엽(뽕잎)의 배합이 카드뮴 노출로 유발된 불안 증상과 신경독성을 완화하는지 검증한 임상 프로테오믹스 기반 네트워크 약리학 연구는, 인체 프로테오믹스 데이터(n=50)로 표적을 발굴한 뒤 랫드 모델에서 효능을 검증하여 AKT1·PTGS2 경로 조절을 통한 신경염증 완화 효과를 확인하였다. 다만 실제 행동·조직학적 효능 검증은 동물 모델에서 이루어졌으므로, 인체 데이터는 표적 발굴(프로테오믹스) 단계에 한정된다는 점에 유의해야 한다.[^48]
+카드뮴 노출과 불안을 다룬 연구에서 **인체 프로테오믹스 데이터(50명)로 AKT1·PTGS2 등 후보 표적이 발굴**되었다[^48]. 다만 인삼-상엽 배합의 실제 효능 검증은 랫드 모델에서만 이루어졌으므로 **효능 자체는 인용하지 않으며**, 이 인용은 인체 표적 발굴 부분에 한정된다. 상엽 배합의 정신신경계 보호 효능을 뒷받침하는 인체 근거는 확인되지 않는다.
 
 ### 2-5. 당뇨병성 신증 — 누에(蠶)를 통한 생물전환 관점
 
@@ -149,7 +149,7 @@
 
 ### 3-4. 약식동원(藥食同源) 배오 — 인삼·구기자와의 조합
 
-인삼-상엽 조합이 카드뮴 노출로 인한 불안·신경독성을 완화한 연구는, 약식동원 개념에 기반한 보기(補氣)·청열(淸熱) 약재 조합이 정신신경계 보호 효과를 낼 수 있음을 시사하였다.[^48] 다만 이 근거는 프로테오믹스 표적 발굴이 인체 데이터에 기반했을 뿐 효능 검증 자체는 동물 모델에서 이루어졌다는 한계가 있다.
+약식동원 개념에 기반한 보기(補氣)·청열(淸熱) 약재 조합의 정신신경계 보호 가능성은 인체 프로테오믹스 표적 발굴 단계까지만 확인되었고[^48], **효능을 뒷받침하는 인체 근거는 확인되지 않는다.**
 
 ### 3-5. 배오 원리 요약표
 
@@ -158,7 +158,7 @@
 | 신량해표(감기·인후통) | 국화 | 상국음[^49][^50] |
 | 청폐윤조(마른기침) | 행인·사삼·패모 | 상행탕(교과서적 근거) |
 | 평간명목(두통·현훈·목적) | 국화·결명자·구기자 | 평간명목 처방(교과서적 근거) |
-| 보기청열(정신신경 보호) | 인삼 | 인삼-상엽 전탕액[^48] |
+| 보기청열(정신신경 보호) | 인삼 | 인삼-상엽 전탕액 — **인체 효능 근거 없음**(표적 발굴 단계)[^48] |
 | (참고) 사폐평천 — 상백피 기준 | 지골피·감초 | 사백산(桑白皮 배오, 상엽과 구분)[^23] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 변증 없는 관행적 배오는 근거에 부합하지 않는다. 특히 사백산 계열은 상백피(뿌리껍질) 기반 처방이므로 상엽 위주 처방과 혼동하지 않아야 한다.
@@ -248,13 +248,13 @@
 | 관상동맥질환·협심증 | 임상시험 | DNJ가 항산화·항염증 및 증상 완화[^46] |
 | 골대사(폐경 여성) | 임상시험 | 상엽 함유 한방 죽이 골형성·골흡수 지표 개선[^47] |
 | 면역조절·항바이러스 보조 | 임상시험 | 상국음+옥병풍산이 CD4/CD8 비율 조절[^49] |
-| 신경보호(불안) | 실험연구(인간 표적 발굴+동물 검증) | 인삼-상엽 조합이 신경염증 경로 조절 가능성[^48] |
+| 신경보호(불안) | 인체 프로테오믹스(표적 발굴 한정) | 후보 표적 발굴에 그침. **효능 검증은 동물 모델뿐이므로 인체 근거 없음**[^48] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 변증 없는 관행적 처방은 근거에 부합하지 않으므로, 반드시 개별 환자의 변증(풍열표증·간양상항·소갈 등)을 확인한 뒤 상엽 함유 처방을 선택해야 한다.
 
 ### 4-7. 탐색적 근거 영역 — 정신신경·신장 보호
 
-상엽·상엽 유래 성분의 정신신경계·신장 보호 효과는 아직 예비적 단계의 탐색적 근거에 머물러 있다. 인삼-상엽 조합이 카드뮴 노출로 유발된 불안·신경독성을 완화하는지 검증한 연구는 인체 프로테오믹스로 표적을 발굴한 뒤 랫드 모델에서 효능을 검증하였으므로, 임상 적용을 논하기에는 이르다.[^48] 상엽을 급여한 누에의 생물전환 산물이 당뇨병성 신증에 잠재적 효과가 있을 수 있다는 리뷰 역시, 상엽 원물이 아닌 생물전환 매개체(누에)에 대한 간접 근거이다.[^44] 이 두 영역은 향후 상엽 표준화 추출물을 이용한 인체 대상 무작위대조시험이 필요한 연구 공백 영역으로 평가된다.[교과서적 근거]
+상엽·상엽 유래 성분의 정신신경계·신장 보호 효과는 아직 예비적 단계의 탐색적 근거에 머물러 있다. 인삼-상엽 조합 연구는 인체 프로테오믹스로 표적을 발굴하는 데 그쳤고 효능 검증은 랫드 모델에서만 이루어졌으므로, **인체 효능 근거는 없다**[^48]. 상엽을 급여한 누에의 생물전환 산물이 당뇨병성 신증에 잠재적 효과가 있을 수 있다는 리뷰 역시, 상엽 원물이 아닌 생물전환 매개체(누에)에 대한 간접 근거이다.[^44] 이 두 영역은 향후 상엽 표준화 추출물을 이용한 인체 대상 무작위대조시험이 필요한 연구 공백 영역으로 평가된다.[교과서적 근거]
 
 ### 4-8. 국내 한의 임상 데이터의 현황과 필요성
 
@@ -494,7 +494,7 @@
 [^45]: Efficacy of mulberry leaf tablets in patients with mild dyslipidemia. Pornanong Aramwit 외. _Phytotherapy Research_. 2011-02-23. [임상시험] [DOI 10.1002/ptr.3270](https://doi.org/10.1002/ptr.3270) — 경도 이상지질혈증 환자에서 상엽정이 총콜레스테롤·LDL을 유의하게 낮춘 임상시험.
 [^46]: 1-Deoxynojirimycin in Mulberry (Morus indica L.) Leaves Ameliorates Stable Angina Pectoris in Patients With Coronary Heart Disease by Improving Antioxidant and Anti-inflammatory Capacities. Ma Y 외. _Frontiers in pharmacology_. 2019. [임상시험] [DOI 10.3389/fphar.2019.00569](https://doi.org/10.3389/fphar.2019.00569) [PMID 31164826](https://pubmed.ncbi.nlm.nih.gov/31164826/) — 관상동맥질환 동반 안정형 협심증 환자에서 상엽 유래 DNJ가 항산화·항염증 및 증상 개선을 보인 임상시험.
 [^47]: A Double-Blind Placebo-Controlled Randomized Trial Evaluating the Effect of Polyphenol-Rich Herbal Congee on Bone Turnover Markers of the Perimenopausal and Menopausal Women. Wattanathorn J 외. _Oxidative medicine and cellular longevity_. 2018. [임상시험] [DOI 10.1155/2018/2091872](https://doi.org/10.1155/2018/2091872) [PMID 30584459](https://pubmed.ncbi.nlm.nih.gov/30584459/) — 상엽 함유 한방 죽이 폐경 전후 여성의 골형성·골흡수 지표를 개선한 이중맹검 무작위대조시험.
-[^48]: Ginseng-mulberry (medicine-food homologous) pair mitigates cadmium-induced anxiety: a clinical proteomics-guided network pharmacology with rat validation. Tian M 외. _Frontiers in psychiatry_. 2026. [실험연구] [DOI 10.3389/fpsyt.2026.1792233](https://doi.org/10.3389/fpsyt.2026.1792233) [PMID 42267156](https://pubmed.ncbi.nlm.nih.gov/42267156/) — 인체 프로테오믹스(n=50)로 표적을 발굴하고 랫드 모델에서 효능을 검증한 인삼-상엽 배합의 신경보호 기전 연구(인간 데이터는 표적 발굴 단계에 한정).
+[^48]: Ginseng-mulberry (medicine-food homologous) pair mitigates cadmium-induced anxiety: a clinical proteomics-guided network pharmacology with rat validation. Tian M 외. _Frontiers in psychiatry_. 2026. [관찰연구, 50명(인간 데이터 한정 — 프로테오믹스 표적 발굴 부분)] [DOI 10.3389/fpsyt.2026.1792233](https://doi.org/10.3389/fpsyt.2026.1792233) [PMID 42267156](https://pubmed.ncbi.nlm.nih.gov/42267156/) — 인체 프로테오믹스(n=50)로 표적을 발굴하고 랫드 모델에서 효능을 검증한 인삼-상엽 배합의 신경보호 기전 연구(인간 데이터는 표적 발굴 단계에 한정).
 [^49]: Immunomodulatory effects of a traditional Chinese medicine with potential antiviral activity: a self-control study. Poon PM 외. _The American journal of Chinese medicine_. 2006. [임상시험] [DOI 10.1142/S0192415X0600359X](https://doi.org/10.1142/S0192415X0600359X) [PMID 16437735](https://pubmed.ncbi.nlm.nih.gov/16437735/) — 상국음+옥병풍산 병용이 건강한 성인의 CD4/CD8 비율을 일시적으로 높인 자기대조 임상시험.
 [^50]: Bench to bed evidences for pharmacokinetic and pharmacodynamic interactions involving oseltamivir and chinese medicine. Chang Q 외. _Evidence-based complementary and alternative medicine : eCAM_. 2014. [실험연구] [DOI 10.1155/2014/354172](https://doi.org/10.1155/2014/354172) [PMID 24527044](https://pubmed.ncbi.nlm.nih.gov/24527044/) — 은교산·상국음과 오셀타미비르의 인체 임상시험 병용 결과 유의한 상호작용이 미미했음을 확인한 연구(랫드 실험 자료 일부 포함).
 [^51]: Multi-omics insights into Chinese herbal medicine additives for mutton flavor enhancement: epigenetic and microbial mechanisms. Kai Quan 외. _Frontiers in Veterinary Science_. 2025-07-14. [문헌 고찰] [DOI 10.3389/fvets.2025.1628457](https://doi.org/10.3389/fvets.2025.1628457) — 상엽·감초 등 첨가제가 후성유전적·미생물학적 기전을 통해 대사·염증 경로에 관여함을 확인한 다중오믹스 연구(축산 사료 첨가 맥락).
