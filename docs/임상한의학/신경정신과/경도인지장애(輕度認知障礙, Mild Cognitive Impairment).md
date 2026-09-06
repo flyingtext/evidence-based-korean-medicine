@@ -176,7 +176,7 @@ MCI 유사 증상을 유발할 수 있는 **가역적(reversible) 원인** 을 �
 
 **③ 병태생리**: 방추상회 피질 두께가 단일영역형보다 더 감소하며, 알츠하이머병으로의 전환 위험이 더 높은 것으로 평가된다[^27]. 담탁 변증이 두드러진 aMCI 환자군에서 알츠하이머병 전환 위험이 높다는 한의학적 변증-예후 상관 연구 결과와도 개념적으로 일치한다[^28].
 
-**④ 치료**: 보신화담(補腎化痰) 또는 보신활혈(補腎活血)의 복합 치법이 필요하다. 8주 이상의 자가 조제 처방(녕신방)이 니모디핀 단독 대비 MoCA·ADL을 더 크게 개선하고 hs-CRP·호모시스테인·IL-1β 등 염증 지표를 함께 낮춘 임상시험이 있으며[^37], 신장을 보하고 담·어혈을 없애는 치법의 한약이 인지 기능 개선에 유의한 효과를 보인 임상시험도 보고되었다[^38]. 종합적인 중약 치료의 체계적 고찰·메타분석에서도 MMSE·MoCA 개선 효과가 확인되었다[^39][^40][^41]. 다만 여러 인지 영역이 동시에 침범된 만큼, **단일 처방보다 병기 복합형에 맞춘 가감** 이 필요하다.
+**④ 치료**: 보신화담(補腎化痰) 또는 보신활혈(補腎活血)의 복합 치법이 필요하다. 8주 이상의 자가 조제 처방(영신방)이 니모디핀 단독 대비 MoCA·ADL을 더 크게 개선하고 hs-CRP·호모시스테인·IL-1β 등 염증 지표를 함께 낮춘 임상시험이 있으며[^37], 신장을 보하고 담·어혈을 없애는 치법의 한약이 인지 기능 개선에 유의한 효과를 보인 임상시험도 보고되었다[^38]. 종합적인 중약 치료의 체계적 고찰·메타분석에서도 MMSE·MoCA 개선 효과가 확인되었다[^39][^40][^41]. 다만 여러 인지 영역이 동시에 침범된 만큼, **단일 처방보다 병기 복합형에 맞춘 가감** 이 필요하다.
 
 **⑤ 예후**: 단일영역형보다 치매 전환율이 높은 것으로 평가되며, 조기 개입의 임상적 의의가 더 크다[^27].
 
@@ -254,7 +254,7 @@ MCI 치료의 치법 위계는 **보허(補虛)를 근간으로 표실(標實)�
 
 **합곤탕(合昆湯, Hekun decoction)**: 폐경 관련 간신음허(肝腎陰虛)형 인지 저하에 대응하는 보신자음(補腎滋陰) 처방으로, 초기 폐경기 aMCI 여성 292명을 대상으로 한 3군(위약·호르몬 대체요법·합곤탕) 무작위 이중맹검 시험에서 MoCA·갱년기 증상 점수(MRS)·불면 척도(ISI)가 위약보다 유의하게 개선되었고, 호르몬 대체요법(페모스톤)과 비교해 비열등하면서 유방통·비정상 자궁출혈 등 부작용은 더 적었다[^56].
 
-**녕신방(寧神方, Ningshen Prescription)**: 보신활혈안신(補腎活血安神)을 치법으로 하는 개인 조제 처방으로, 폐경기 MCI 환자 80명 대상 임상시험에서 니모디핀 단독 대비 MoCA·ADL을 더 크게 개선하고 hs-CRP·호모시스테인·IL-1β 등 염증 지표를 유의하게 낮추었다[^37].
+**영신방(寧神方, Ningshen Prescription)**: 보신활혈안신(補腎活血安神)을 치법으로 하는 개인 조제 처방으로, 폐경기 MCI 환자 80명 대상 임상시험에서 니모디핀 단독 대비 MoCA·ADL을 더 크게 개선하고 hs-CRP·호모시스테인·IL-1β 등 염증 지표를 유의하게 낮추었다[^37].
 
 **당귀작약산(當歸芍藥散)**: 양혈활혈(養血活血)·건비이수(健脾利水) 처방으로, MCI·알츠하이머병 환자를 대상으로 한 소규모 시험에서 후대상피질의 국소 뇌혈류량을 유의하게 증가시키고 장소 지남력이 개선되는 경향을 보였다[^42].
 
@@ -419,7 +419,7 @@ MCI 관리의 원칙은 다음과 같이 요약된다.
 ## 경혈/처방 연관
 
 - 경혈: 백회(百會, GV20), 사신총(四神聰, EX-HN1), 신정(神庭, GV24), 태계(太谿, KI3), 현종(懸鍾, GB39), 족삼리(足三里, ST36), 삼음교(三陰交, SP6), 태충(太衝, LR3), 풍지(風池, GB20), 격유(膈兪, BL17), 혈해(血海, SP10), 풍륭(豊隆, ST40)
-- 약재/처방: 가미귀비탕(加味歸脾湯), 귀비탕(歸脾湯), 육미지황환(六味地黃丸), 좌귀환(左歸丸), 반하백출천마탕(半夏白朮天麻湯), 통규활혈탕(通竅活血湯), 기국지황환(杞菊地黃丸), 시호소간산(柴胡疏肝散), 당귀작약산(當歸芍藥散), 보신캡슐(補腎膠囊), 청공수도환(淸空壽桃丸), 합곤탕(合昆湯), 녕신방(寧神方), 이지안신과립(益智安神顆粒), 인삼(人蔘), 당귀(當歸), 원지(遠志), 복신(茯神), 산조인(酸棗仁)
+- 약재/처방: 가미귀비탕(加味歸脾湯), 귀비탕(歸脾湯), 육미지황환(六味地黃丸), 좌귀환(左歸丸), 반하백출천마탕(半夏白朮天麻湯), 통규활혈탕(通竅活血湯), 기국지황환(杞菊地黃丸), 시호소간산(柴胡疏肝散), 당귀작약산(當歸芍藥散), 보신캡슐(補腎膠囊), 청공수도환(淸空壽桃丸), 합곤탕(合昆湯), 영신방(寧神方), 이지안신과립(益智安神顆粒), 인삼(人蔘), 당귀(當歸), 원지(遠志), 복신(茯神), 산조인(酸棗仁)
 
 ## 각주
 
@@ -459,7 +459,7 @@ MCI 관리의 원칙은 다음과 같이 요약된다.
 [^34]: Prevalence of potentially inappropriate prescriptions in primary care and correlates with mild cognitive impairment. Harasani K 외. _Pharmacy practice_. 2020. [관찰연구] [DOI 10.18549/PharmPract.2020.3.2017](https://doi.org/10.18549/PharmPract.2020.3.2017) [PMID 32922574](https://pubmed.ncbi.nlm.nih.gov/32922574/) — 일차의료에서 잠재적으로 부적절한 처방과 MCI의 상관을 분석한 관찰연구.
 [^35]: Acupoint Therapy for Enhancing Cognitive Function in Patients with Mild Cognitive Impairment: A Systematic Review and Meta-Analysis. Beijie Sun 외. _Journal of Integrative and Complementary Medicine_. 2025-11-07. [메타분석] [DOI 10.1177/27683605251394592](https://doi.org/10.1177/27683605251394592) — 혈자리 요법(체침·이압) 메타분석. MoCA·MMSE 개선, 이압요법은 ADL 개선에도 도움 가능성.
 [^36]: Evaluating Electroacupuncture Assessment Strategies for Mild Cognitive Impairment: A Scoping Review. 안다영. _대한한방내과학회지_. 2025-09. [체계적 고찰] [DOI 10.22246/jikm.2025.46.4.610](https://doi.org/10.22246/jikm.2025.46.4.610) — 전기침 자극 변수(주파수·자극시간·경혈조합)에 따라 평가 전략이 달라짐을 정리한 스코핑 리뷰.
-[^37]: Exploration on the Improvement of Cognitive Function and Inflammatory Response in Perimenopausal Patients with Mild Cognitive Impairment by Self-Prepared Ningshen Prescription. Yang W 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험] [DOI 10.1155/2022/4311031](https://doi.org/10.1155/2022/4311031) [PMID 35692575](https://pubmed.ncbi.nlm.nih.gov/35692575/) — 폐경기 MCI 80명에서 녕신방 병용이 니모디핀 단독보다 MoCA·ADL 개선, 염증지표(hs-CRP 등) 감소가 더 유의.
+[^37]: Exploration on the Improvement of Cognitive Function and Inflammatory Response in Perimenopausal Patients with Mild Cognitive Impairment by Self-Prepared Ningshen Prescription. Yang W 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험] [DOI 10.1155/2022/4311031](https://doi.org/10.1155/2022/4311031) [PMID 35692575](https://pubmed.ncbi.nlm.nih.gov/35692575/) — 폐경기 MCI 80명에서 영신방 병용이 니모디핀 단독보다 MoCA·ADL 개선, 염증지표(hs-CRP 등) 감소가 더 유의.
 [^38]: Effects of Chinese medicine for tonifying the kidney and resolving phlegm and blood stasis in treating patients with amnestic mild cognitive impairment: a randomized, double-blind and parallel-controlled trial. Miao YC 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2012-04. [임상시험] [DOI 10.3736/jcim20120407](https://doi.org/10.3736/jcim20120407) [PMID 22500712](https://pubmed.ncbi.nlm.nih.gov/22500712/) — 신을 보하고 담·어혈을 제거하는 치법의 한약이 aMCI 인지 기능 개선에 유의한 효과를 보인 임상시험.
 [^39]: The efficacy and safety of Chinese herbal medicine for mild cognitive impairment: a systematic review and meta-analysis of randomized placebo-controlled trials. Lingling Liu 외. _Frontiers in Pharmacology_. 2024-02-15. [메타분석] [DOI 10.3389/fphar.2024.1341074](https://doi.org/10.3389/fphar.2024.1341074) — 중약의 MCI 위약대조 무작위시험 메타분석. MMSE·MoCA 유의한 개선, 이상반응은 위약군과 차이 없음.
 [^40]: Chinese herbal medicine for mild cognitive impairment using mini-mental state examination. Wei Wang 외. _Medicine_. 2021-09-24. [메타분석] [DOI 10.1097/md.0000000000027034](https://doi.org/10.1097/md.0000000000027034) — 21개 연구 중 17개에서 한약군이 MMSE 개선을 보인 메타분석.
