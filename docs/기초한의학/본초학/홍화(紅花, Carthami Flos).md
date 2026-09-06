@@ -104,7 +104,7 @@
 
 ### 3-7. 기타 배오 사례
 
-**통규활혈탕(通竅活血湯)** 은 왕청임의 『의림개착(醫林改錯)』에 실린 오축어탕(五逐瘀湯) 계열 처방으로, 적작약·천궁·도인·홍화에 총백(蔥白)·생강·대조·사향(麝香)을 더해 두면부(頭面部)의 혈어를 통규(通竅)하는 데 쓴다[교과서적 근거]. 홍화는 여기서도 도인과 짝을 이루어 활혈거어 축을 담당한다. **다만 검색 범위에서 통규활혈탕의 인체 대상 임상시험·관찰연구는 확인되지 않았다.** 이 처방의 임상적 위치는 현재 문헌·경험 근거에 의존하며, 같은 계열의 혈부축어탕과 달리 임상 근거가 축적되어 있지 않다는 점을 분명히 해 둔다.
+**통규활혈탕(通竅活血湯)** 은 왕청임의 『의림개착(醫林改錯)』에 실린 오축어탕(五逐瘀湯) 계열 처방으로, 적작약·천궁·도인·홍화에 총백(蔥白)·생강·대조·사향(麝香)을 더해 두면부(頭面部)의 혈어를 통규(通竅)하는 데 쓴다[교과서적 근거]. 홍화는 여기서도 도인과 짝을 이루어 활혈거어 축을 담당한다. 다만 **인체 근거의 중심 적응증은 두통이 아니라 뇌졸중**이다. 급성 허혈성 뇌졸중을 대상으로 한 체계적 고찰·메타분석(17편 1,489명)[^R1]과 양방 병용 체계적 고찰·메타분석(40편 3,260명)[^R2]이 있고, 편두통에서는 베이지안 네트워크 메타분석에서 상위로 평가된 자료가 있다[^R3]. 두 뇌졸중 고찰 모두 이상반응에서는 우월성이 확인되지 않았다고 명시하고 있다. 두통 단독을 표적으로 한 전용 메타분석은 확인되지 않으며, 이들 근거는 처방 전체의 효과이지 홍화 단독의 효과가 아니라는 점을 분명히 해 둔다.
 
 단삼·천궁·홍화 복합 주사액은 경피적 관상동맥 중재술(PCI) 시술 전 투여 시 혈소판 활성화 억제와 심근 손상 지표(CK-MB·TnI) 감소 효과가 보고되었고[^94], 기신활혈과립(黃芪 등 배합)은 중증 급성 신손상 환자에서 신대체요법과 병용 시 신기능 회복 시간을 단축시켰다[^93]. 소어환(小瘀丸)은 혈소판 응집 결함 환자에서 유효율과 혈소판 회복률을 높이고 재발률을 낮춘 근거가 있으며[^85], 단삼·홍화를 이용한 한약 찜질(외용)은 혈액투석용 동정맥루 수술 후 혈관 성숙을 돕고 조기 혈전증을 줄이는 데 활용되었다[^95].
 
@@ -556,3 +556,7 @@
 [^145]: Danshen-Honghua herb pair: A review on chemical constituents, pharmacology, clinical application, quality control, and t-copula function analysis. Zhao Q 외. _Journal of ethnopharmacology_. 2026-Jan-10. [문헌 고찰] [DOI 10.1016/j.jep.2025.120476](https://doi.org/10.1016/j.jep.2025.120476) [PMID 40876790](https://pubmed.ncbi.nlm.nih.gov/40876790/) — 단삼-홍화 약대(藥對)의 화학 성분·약리·임상 응용·품질을 종합한 고찰. 두 약재가 임상에서 함께 쓰이는 실태를 확인해 주며, 단삼의 출혈 위험 자료가 홍화 배오 처방에도 함의를 갖는 근거가 된다.
 [^146]: Evaluation and clinical implications of interactions between compound Danshen dropping pill and warfarin associated with the epoxide hydrolase gene. Chen X 외. _Frontiers in pharmacology_. 2023. [임상시험, 인간 데이터 한정] [DOI 10.3389/fphar.2023.1105702](https://doi.org/10.3389/fphar.2023.1105702) [PMID 37214448](https://pubmed.ncbi.nlm.nih.gov/37214448/) — 복방단삼적환과 와파린의 상호작용 평가. 세포 실험과 함께 EPHX1 유전형별 건강 자원자 자료를 포함했으며, **인체 부분에서는** 와파린 약동학·약력학에 미치는 영향이 경미했다. 유전형에 따른 차이 가능성을 남기므로 합리적 병용과 감시가 필요하다는 신중론으로 읽어야 한다.
 [^147]: Interaction Between Chinese Medicine and Warfarin: Clinical and Research Update. Zhuang W 외. _Frontiers in pharmacology_. 2021. [문헌 고찰] [DOI 10.3389/fphar.2021.751107](https://doi.org/10.3389/fphar.2021.751107) [PMID 34616303](https://pubmed.ncbi.nlm.nih.gov/34616303/) — 한약과 와파린의 상호작용에 관한 임상·연구 최신 고찰. 개별 약재 수준의 인체 근거가 여전히 부족하다는 점과 INR 모니터링 강화의 필요성을 함께 지적한다.
+
+[^R1]: Tongqiao Huoxue Decoction for the treatment of acute ischemic stroke: A Systematic Review and meta-analysis. Zhang Y 외. _Medicine_. 2021-10-01. [메타분석, 1,489명] [PMID 34600074](https://pubmed.ncbi.nlm.nih.gov/34600074/) — 통규활혈탕의 급성 허혈성 뇌졸중 근거로, 이상반응에서는 우월성이 확인되지 않았다.
+[^R2]: Effect of Tongqiao Huoxue Decoction Combined with Western Medicine on Ischemic Stroke: A Systematic Review and Meta-Analysis. Wang Y 외. _Evidence-based complementary and alternative medicine_. 2020-12-14. [메타분석, 3,260명] [PMID 33381213](https://pubmed.ncbi.nlm.nih.gov/33381213/) — 양방 병용 설계의 근거이며 단독 요법 근거가 아니다.
+[^R3]: Efficacy and safety of Chinese botanical drug decoctions for migraine: a Bayesian network meta-analysis. Li J 외. _Frontiers in pharmacology_. 2026. [메타분석, 6,005명] [PMID 42147339](https://pubmed.ncbi.nlm.nih.gov/42147339/) — 편두통 전탕제 비교에서 통규활혈탕이 상위로 평가되었으나 처방 전체의 효과다.
