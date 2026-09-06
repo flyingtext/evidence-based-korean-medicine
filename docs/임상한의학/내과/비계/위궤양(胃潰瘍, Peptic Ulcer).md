@@ -11,14 +11,14 @@
 
 ### 2. 역학
 
-소화성 궤양은 H. pylori 감염률이 높은 지역에서 유병률이 높으며, 대만 건강보험 빅데이터 분석에 따르면 소화성 궤양 환자의 상당수가 한약을 병용하고 있어 실제 임상에서 한의 중재에 대한 수요가 높음을 보여준다(관찰연구, 96,624명)[^6]. 위궤양·십이지장궤양의 발생 위험은 흡연·음주·NSAIDs 복용·스트레스·H. pylori 감염 등과 관련되며, 체질 분류가 경과와 출혈·천공 등 합병증 발생 위험을 예측하는 데 유용하다는 보고가 있다(관찰연구, 61명)[^118].
+소화성 궤양은 H. pylori 감염률이 높은 지역에서 유병률이 높으며, 대만 건강보험 빅데이터 분석에 따르면 소화성 궤양 환자의 상당수가 한약을 병용하고 있어 실제 임상에서 한의 중재에 대한 수요가 높음을 보여준다(관찰연구, 96,624명)[^6]. 위궤양·십이지장궤양의 발생 위험은 흡연·음주·NSAIDs 복용·스트레스·H. pylori 감염 등과 관련되며, 체질 분류가 경과와 출혈·천공 등 합병증 발생 위험을 예측하는 데 유용하다는 보고가 있다(관찰연구, 61명)[^118]. 위궤양의 발생 빈도와 본초 치료 근거를 함께 개괄한 문헌 고찰도 이 질환이 전 세계적으로 흔하면서 전통의학적 접근의 수요가 지속되는 영역임을 보여준다[^20].
 
 ### 3. 하위 표제어(분류)
 
 위궤양은 발생 부위·원인·경과에 따라 여러 하위 유형으로 세분되며, 각 유형은 진단·치료 접근이 다르므로 임상에서 구분하여 접근한다.
 
-- **위궤양 (gastric ulcer, K25)**: 위점막에 국한된 궤양으로, 복부 팽만·식후 통증이 특징적이다. 건위양양과립(健胃養陽顆粒)·청위지통환(淸胃止痛丸) 등이 점막 재생·치유를 촉진한다[^22][^25][^28].
-- **십이지장궤양 (duodenal ulcer, K26)**: 십이지장구부에 호발하는 궤양으로, 공복 통증·야간통이 특징적이다. 침 치료·경화위강캡슐·회귀의양캡슐·소쾌령탕 등이 연구된다[^32][^33][^36][^38].
+- **위궤양 (gastric ulcer, K25)**: 위점막에 국한된 궤양으로, 복부 팽만·식후 통증이 특징적이다. Jianwei Yuyang 과립(한자 표기는 원 보고에서 확인되지 않음)·청위지통환(淸胃止痛丸) 등이 점막 재생·치유를 촉진한다[^22][^25][^28].
+- **십이지장궤양 (duodenal ulcer, K26)**: 십이지장구부에 호발하는 궤양으로, 공복 통증·야간통이 특징적이다. 침 치료·Jinghua Weikang 캡슐·Haigui Yuyang 캡슐·소쾌령탕 등이 연구된다[^32][^33][^36][^38].
 - **부위 불명 소화성 궤양 (K27)**: 위·십이지장 어느 쪽인지 확정되지 않은 궤양이다[교과서적 근거].
 - **H. pylori 관련 궤양**: H. pylori가 주요 병원균으로, 제균 요법과 함께 중성약(中成藥)·한약 병용이 제균율·재발 방지에 유효하다[^65][^78][^87].
 - **NSAIDs·약물 유발 궤양**: NSAIDs·스테로이드 사용에 의한 위점막 손상으로 발생한다[교과서적 근거].
@@ -29,7 +29,7 @@
 
 위궤양·소화성 궤양은 상복부 통증(위완통)·소화불량·팽만감·오심·속쓰림·체중 감소를 주증상으로 하며, **내시경 검사** 로 궤양의 위치·크기·심도와 H. pylori 감염 여부를 확인하는 것이 표준 진단 절차이다[교과서적 근거]. 궤양은 크기·깊이에 따라 급성/만성, 활동기(A stage)·치유기(H stage)·반흔기(S stage)의 Sakita-Miwa 내시경 분류로 경과를 추적하며, 위궤양은 십이지장궤양과 달리 악성(위암)과의 감별이 필요해 생검으로 조직학적 확인을 병행한다[교과서적 근거].
 
-**H. pylori 검사** 는 요소호기검사·대변항원검사·혈청검사·조직생검 신속요소분해효소검사 등으로 시행하며, 제균 치료 반응 평가에도 활용된다[^65][^78]. H. pylori 제균에는 표준 삼제요법(PPI+아목시실린+클래리스로마이신)과 비스무트 4제요법이 사용되며, 항생제 내성이 증가함에 따라 베르베린(黃連 유래) 등 한약 성분을 병용하여 제균율을 높이려는 시도가 다수 보고된다[^41][^49][^75].
+**H. pylori 검사** 는 요소호기검사·대변항원검사·혈청검사·조직생검 신속요소분해효소검사 등으로 시행하며, 제균 치료 반응 평가에도 활용된다[^65][^78]. H. pylori 제균에는 표준 삼제요법(PPI+아목시실린+클래리스로마이신)과 비스무트 4제요법이 사용되며[^63], 항생제 내성이 증가함에 따라 베르베린(黃連 유래) 등 한약 성분을 병용하여 제균율을 높이려는 시도가 다수 보고된다[^41][^49][^75]. **제균 요법과 위산분비 억제제가 표준 치료라는 점은 변하지 않으며, 한의 중재는 이를 대체하지 않고 병용·보조하는 위치에 둔다.**
 
 ## 제2편 병인병기(病因病機)·병태생리
 
@@ -45,6 +45,10 @@
 
 관찰연구에서 십이지장궤양 환자의 한열변증(寒熱辨證) 상태는 위점막 내 염증성 사이토카인 및 산화 스트레스 지표(IL-8, TNF, MPO, MDA)의 수치와 밀접한 관련이 있으며, 특히 열증(熱證) 환자에서 이 지표들이 더 높게 나타나 변증의 생물학적 근거를 시사한다(관찰연구, 58명)[^37]. 만성 위염·소화성 궤양 환자의 혈액·소변 PGE2 수치가 유의하게 상승하며, 이는 비위허약·간위불화·비위습열 변증을 객관적으로 구분하는 지표로 활용될 수 있다(관찰연구, 106명)[^96]. 환자의 형태학적 체질 분류는 소화성 궤양의 경과와 합병증(출혈·천공) 발생 위험을 예측하는 데 유용하다(관찰연구, 61명)[^118]. 설진(舌診) 소견의 변화가 소화성궤양의 임상 경과와 상관관계를 보인다는 관찰연구(198명)도 변증 객관화의 근거로 참고할 만하다[^4].
 
+변증 객관화의 근거는 위점막 조직·생체 검체 수준에서도 축적되어 있다. 사마귀형 위염(verrucous gastritis) 환자 94명을 간위불화·비위습열·위락혈어·비양허의 네 변증군으로 나눈 관찰연구는 위점막 저산소유도인자-1α(HIF-1α)가 혈어군에서 가장 높고 COX-2·VEGF 발현과 H. pylori 감염률이 습열군에서 가장 높음을 보여, 어혈과 습열이라는 서로 다른 병기가 각기 다른 분자 지표와 대응함을 시사한다[^100]. 만성 위질환에서 비허간울(脾虛肝鬱) 변증은 위전도(electrogastrogram) 이상·위점막 병리 소견·맥파 심혈관 기능 지표와 함께 움직인다는 초기 관찰연구가 있으며[^104], 중허기체(中虛氣滯)형 만성 위염과 H. pylori(구칭 캄필로박터) 감염의 관련성을 확인한 보고도 있다[^111]. 설태를 채취해 기체크로마토그래피-질량분석으로 분석한 연구는 H. pylori 감염군과 비감염군 사이에 아미노산 대사 관련 대사체가 다르다는 점을 보여, 설진 소견을 검체 수준에서 객관화할 단서를 제공한다[^94]. 위점막 이형성 환자를 추적한 관찰연구에서는 암화 경향이 중의 변증 유형과 관련되는 것으로 나타나[^102], 변증이 예후 층화 지표로 기능할 가능성을 시사한다. 중의약 치료 전후 위점막 초미세구조를 관찰한 연구도 점막 재생 기전에 대한 형태학적 근거를 더한다[^112].
+
+이들 근거는 대부분 소규모 단일기관 관찰연구이며 변증 판정의 맹검이 이루어지지 않은 경우가 많아, 상관관계를 시사하는 수준으로 해석해야 한다.
+
 ### 2. 양방 병태생리
 
 서양의학적으로 위궤양은 H. pylori 감염, NSAIDs·알코올·담즙역류 등에 의한 위점막 손상, 위산·펩신 분비 증가와 점막 방어인자(점액·중탄산염·혈류·프로스타글란딘) 감소 간의 불균형에 의해 발생한다[교과서적 근거]. H. pylori는 위궤양의 주요 병원균이며 요소분해효소·세포독소관련유전자(CagA)·세포독소(VacA) 등을 통해 점막 손상과 만성 염증을 유발한다[교과서적 근거]. NSAIDs는 사이클로옥시게나제(COX-1) 억제를 통한 프로스타글란딘 합성 저해로 점막 방어력을 낮춘다[교과서적 근거].
@@ -57,13 +61,16 @@
 | 비위습열 | H. pylori 관련 IL-12·IFN-γ 상승, MUC1·MUC5AC 발현 변화 | [^59][^60] |
 | 한열변증(寒熱) | 위점막 IL-8·TNF·MPO·MDA 등 염증·산화스트레스 지표 | [^37] |
 | 기체혈어 | COX-2-H. pylori 상호작용에 따른 만성 비수렴성 염증 | [^53] |
-| 변증 유형 전반 | 위점막 미세구조(초미세구조) 차이, HSP70·HSP72 발현 차이 | [^36][^74][^101] |
+| 변증 유형 전반 | 위점막 미세구조(초미세구조) 차이, HSP70·HSP72 발현 차이 | [^36][^74][^101][^112] |
+| 기체혈어(위락혈어) | 위점막 HIF-1α 발현 최고치 | [^100] |
+| 비허간울(脾虛肝鬱) | 위전도 이상·위점막 병리·맥파 심혈관 기능 변화 | [^104] |
+| 변증 유형과 전암 경과 | 위점막 이형성의 암화 경향과 변증 유형의 연관 | [^102] |
 | 변증 유형 전반 | miR-27a, miR-499·miR-149 등 microRNA 다형성·발현 차이 | [^61][^89] |
 | 습탁독(濕濁毒) | 설진·위내시경 소견과 H. pylori 감염의 상관성 | [^62] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 대부분 관찰연구·실험연구 수준으로 인과관계보다는 상관관계를 시사하는 예비적 근거임을 유의해야 한다.
 
-한약은 위점막 장벽 보호·혈류 개선 기전으로 궤양 치유를 돕는데, 건위양과립과 라니티딘 병용 시 MUC5AC mRNA 상향 조절을 통한 위점막 장벽 보호와 ETAR mRNA 하향 조절을 통한 위점막 혈류 개선 기전이 확인되었다(임상시험)[^19]. 소쾌령탕(消潰靈湯)은 H. pylori 관련 십이지장궤양 환자의 위점막에서 HSP72 발현을 증가시키고 HSP B 발현을 감소시켜 세포 보호·재생에 기여한다(임상시험)[^36]. 반하사심탕(半夏瀉心湯)은 TGF-β/Smad 신호경로를 통해 H. pylori 관련 소화성궤양 개선 기전을 나타낸다는 실험연구가 있다(인간 데이터 한정)[^58]. 경혈의 전기 저항 변화를 퍼지 논리로 분석함으로써 위궤양과 같은 위장 질환을 조기에 예측·진단할 수 있는 가능성도 제시되었다(실험연구)[^30]. 위궤양·위염 환자에서 경락을 따라 통증 민감점이 관찰되어 경혈-장부 상관성을 시사하는 관찰연구도 있다[^23].
+한약은 위점막 장벽 보호·혈류 개선 기전으로 궤양 치유를 돕는데, Jianwei Yuyang 과립과 라니티딘 병용 시 MUC5AC mRNA 상향 조절을 통한 위점막 장벽 보호와 ETAR mRNA 하향 조절을 통한 위점막 혈류 개선 기전이 확인되었다(임상시험, 130명)[^116]. 다만 같은 연구에서 궤양 치유율과 H. pylori 제균율은 병용군과 단독군 사이에 유의한 차이가 없었으므로, 이 병용의 이점은 증상·증후 개선과 점막 보호 기전 쪽에 있다고 읽는 것이 정확하다[^116]. 소쾌령탕(消潰靈湯)은 H. pylori 관련 십이지장궤양 환자의 위점막에서 HSP72 발현을 증가시키고 HSP B 발현을 감소시켜 세포 보호·재생에 기여한다(임상시험)[^36]. 반하사심탕(半夏瀉心湯)은 TGF-β/Smad 신호경로를 통해 H. pylori 관련 소화성궤양 개선 기전을 나타낸다는 실험연구가 있다(인간 데이터 한정)[^58]. 경혈의 전기 저항 변화를 퍼지 논리로 분석함으로써 위궤양과 같은 위장 질환을 조기에 예측·진단할 수 있는 가능성도 제시되었다(실험연구)[^30]. 위궤양·위염 환자에서 경락을 따라 통증 민감점이 관찰되어 경혈-장부 상관성을 시사하는 관찰연구도 있다[^23].
 
 ## 제3편 변증(辨證) 및 감별진단
 
@@ -87,7 +94,7 @@
 | 통증 양상 | 은통(隱痛), 눌러주면 완화 | 작열통 | 창통(脹痛) | 자통(刺痛), 고정 |
 | 유발 요인 | 과로·과식 | 자극성 음식 | 정서 스트레스 | 만성 경과 |
 | H. pylori 연관성 | 상대적으로 낮음 | 높음[^24][^59] | 중등도 | 만성화된 경우 높음[^53] |
-| 대표 객관 지표 | EGFR·EGF 저하[^22] | IL-12·IFN-γ 상승[^59] | 위전도·자율신경 이상(교과서적 근거) | 어혈 관련 COX-2 상승[^53] |
+| 대표 객관 지표 | EGFR·EGF 저하[^22] | IL-12·IFN-γ 상승[^59] | 위전도 이상·맥파 심혈관 기능 변화[^104] | 어혈 관련 COX-2 상승[^53], 위점막 HIF-1α 상승[^100] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 변증에 따른 개별화된 치료 선택이 우선되어야 한다.
 
@@ -116,7 +123,7 @@
 
 ### 2. 대표 방제 방해(方解)
 
-- **건위양양과립(健胃養陽顆粒)**: 위궤양 환자의 위점막 EGFR 발현을 증가시켜 점막 재생과 궤양 치유를 촉진한다(임상시험)[^22]. 라니티딘과 병용 시 증상·증후군 개선에 양약 단독보다 우수하다(임상시험)[^19]. 건위양양과립 단독 임상 효과도 확인되었다(임상시험)[^28].
+- **Jianwei Yuyang 과립(한자 표기는 원 보고에서 확인되지 않음)**: 위궤양 환자의 위점막 EGFR 발현을 증가시켜 점막 재생과 궤양 치유를 촉진한다(임상시험)[^22]. 라니티딘과 병용 시 증상·증후 개선에서 양약 단독보다 우수하되, 궤양 치유율·H. pylori 제균율에서는 유의한 차이가 확인되지 않았다(임상시험, 130명)[^116]. Jianwei Yuyang 과립 단독 임상 효과도 확인되었다(임상시험)[^28].
 - **청위지통환(淸胃止痛丸)**: 위궤양 환자에서 대조군(사방위정)보다 궤양 병변 치유 유효율이 유의하게 높고(86.67% vs 71.67%) H. pylori 제균율 47%를 기록했다(임상시험, 120명)[^25].
 - **기방위통산(氣方胃痛散)**: 오메프라졸 병용 시 위점막 형태학적 회복을 촉진한다(임상시험)[^26].
 - **이출의인탕(二朮薏仁湯) 가감방**: 비허습열형 위궤양에서 치료 효과를 보고한 후향적 연구가 있다(관찰연구, 64명)[^18].
@@ -124,13 +131,15 @@
 - **캉푸신(康復新) 액**: PPI와 병용 시 위궤양 치유율·증상 개선에 부가적 효과를 보인다(메타분석, 2,024명)[^21].
 - **건중탕(建中湯) 계열**: 소화성궤양 치료에서 58건의 RCT(5,192명)를 포괄하는 메타분석 근거가 확보되어 있다[^71].
 - **반하사심탕(半夏瀉心湯)**: H. pylori 관련 소화성궤양에 대한 체계적 고찰·메타분석 프로토콜이 진행 중이며, TGF-β/Smad 경로를 통한 개선 기전이 시사된다[^58][^70].
-- **경화위강캡슐(京华胃康胶囊)**: 파모티딘과 대등한 궤양 치유율·관해율을 보이면서 식욕부진·트림 개선과 H. pylori 제균율에서 우수하고 이상반응이 적다(임상시험, 200명)[^33]. 삼제요법과 병용 시 항생제 내성 문제에도 대응할 수 있다(임상시험, 565명)[^34]. 경화위강 후속 치료가 신규 H. pylori 감염·소화불량 환자에서 임상 근거를 확보했다(임상시험, 1,054명)[^50].
-- **회귀의양캡슐(回歸胃陽膠囊)**: 라니티딘과 유사한 치료 효과를 보이면서 위장 팽만감 완화에 더 우수하다(임상시험, 438명)[^38].
+- **Jinghua Weikang 캡슐(한자 표기는 원 보고에서 확인되지 않음)**: 파모티딘과 대등한 궤양 치유율·관해율을 보이면서 식욕부진·트림 개선과 H. pylori 제균율에서 우수하고 이상반응이 적다(임상시험, 200명)[^33]. 삼제요법과 병용 시 항생제 내성 문제에도 대응할 수 있다(임상시험, 565명)[^34]. Jinghua Weikang 후속 치료가 신규 H. pylori 감염·소화불량 환자에서 임상 근거를 확보했다(임상시험, 1,054명)[^50].
+- **Haigui Yuyang 캡슐(한자 표기는 원 보고에서 확인되지 않음)**: 라니티딘과 유사한 치료 효과를 보이면서 위장 팽만감 완화에 더 우수하다(임상시험, 438명)[^38].
 - **소쾌령탕(消潰靈湯)**: H. pylori 관련 십이지장궤양의 위점막 HSP72 발현을 증가시켜 점막 보호·재생에 기여한다(임상시험)[^36].
 - **익기활혈청열화습(益氣活血淸熱化濕) 처방**: 소화성궤양 환자의 H. pylori 제균율을 향상시킨다(임상시험, 80명)[^67].
 - **베르베린(황련 유래) 병용 삼제요법**: 표준 삼제요법 단독보다 H. pylori 제균율을 유의하게 향상시키며(메타분석)[^41], 베르베린 함유 4제요법도 제균율을 높인다(메타분석)[^49]. 베르베린+아목시실린+보노프라잔 삼제요법이 초치료에서 유효성을 확인했다(임상시험, 300명)[^75].
 
-이 표·서술은 임상 틀이지 동일 근거수준의 권고가 아니다. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 처방 선택은 개별 변증에 따라야 한다.
+**처방 간 상대적 우열의 근거** — 개별 처방의 단일 시험 결과를 나열하는 데 그치지 않고, H. pylori 양성 소화성궤양을 대상으로 다수의 한약 처방을 한 번에 비교한 베이지안 네트워크 메타분석이 제균율·궤양 치유·증상 개선의 지표별로 상대적 순위를 제시하고 있어, 병용 처방 선택 시 참고할 수 있다[^5]. 다만 이러한 순위는 포함 연구의 이질성과 간접 비교에 의존하므로 확정적 권고로 읽어서는 안 된다. 새로 설계된 처방의 근거도 축적 중이어서, 소화성궤양을 표적으로 한 후곡미희(Hou Gu Mi Xi) 계열 처방의 무작위 대조시험 계획서가 공개되어 있다(연구 계획서로 결과는 아직 산출되지 않았다)[^3].
+
+이 표·서술은 임상 틀이지 동일 근거수준의 권고가 아니다. 변증 없는 관행적 처방은 근거에 부합하지 않으며, 처방 선택은 개별 변증에 따라야 한다. 또한 여기에 정리한 어떤 처방도 H. pylori 제균요법·PPI를 대체하지 않으며, 표준 치료에 병용하는 위치에 둔다.
 
 ### 3. 본초 각론
 
@@ -142,6 +151,9 @@
 - **우엉(牛蒡) 복합물**: 무증상 H. pylori 감염자에서 제균 보조 효과를 보인 이중맹검 위약대조 RCT가 있다(임상시험, 36명)[^68].
 - **홍삼(紅蔘)**: H. pylori 유발 구취 개선에 기여하는 기전과 임상 효과가 보고되었다(임상시험, 88명)[^86].
 - **황기(黃芪)·백출(白朮)·백급(白及)**: 사군자탕·육군자탕·건중탕 계열의 주요 약재로 비위 기능 개선과 점막 보호에 기여한다[교과서적 근거][^71].
+- **피스타치아 아틀란티카(Pistacia atlantica)**: 만성 기침을 동반한 환자를 대상으로 한 무작위 임상시험에서 H. pylori 제균과 위식도 역류 증상 개선에 기여했다(임상시험)[^40]. 국내 본초 분류에 대응 약재가 없는 외래 생약이므로 표준 처방에 편입하기보다 근거 참고 항목으로 둔다.
+
+**항궤양 본초의 전반적 근거 지형** — 항궤양 활성을 갖는 본초를 폭넓게 정리한 문헌 고찰들은 점막 보호·항산화·항염·위산 조절 등 서로 다른 기전 경로와 생리활성 성분을 축으로 근거를 분류하고 있으며[^1][^98], H. pylori에 대해서는 천연물 유래 성분의 억제 근거를 실험실 수준에서 임상 적용으로 잇는 과제를 함께 지적한다[^55]. 이들은 개별 약재의 임상 권고 근거라기보다 처방 구성 시 약재 선택의 배경 지식으로 활용하는 것이 적절하다.
 
 ### 4. 침구 치료
 
@@ -156,7 +168,11 @@
 - **혈위 매선(穴位埋線)**: 소화성궤양 치료 효과를 평가하는 체계적 고찰·메타분석 프로토콜이 진행 중이다[^29].
 - **강유탕(康幽湯)+혈위 응용 병용**: 중초습열형 H. pylori 감염 치료에 효과적이다(임상시험, 416명)[^80].
 
-**변증 없는 관행적 취혈/처방은 근거에 부합하지 않는다.** 침구 치료는 변증(간위불화·비위허약·비위습열)에 따른 배혈 선택이 치료 성패의 핵심이다[^8][^93].
+**변증별 침구 운용의 근거** — 비위(脾胃)를 조절하고 경락 변증을 함께 적용하는 침구 임상 경험은 취혈 원리의 이론적 축을 제공하며[^10], 실제 무작위 시험에서도 변증에 따라 자침 방식이 달라진다. 간위불화형에는 영귀팔법(靈龜八法) 시간 침법을 주로 한 치료가 적용되어 증상 개선이 보고되었고[^11], 비위허한형에는 온침(溫鍼)이 증상과 위점막 병리 소견을 함께 개선했다[^12]. 이는 같은 상복부 증상이라도 한열(寒熱)·허실(虛實) 변증에 따라 온법과 시간 침법 중 어느 쪽을 우선할지가 갈린다는 점을 보여준다.
+
+침 치료의 위궤양 대상 효과를 체계적으로 평가하려는 시도도 진행되어, 유효율과 함께 H. pylori 음전율·재발률·삶의 질을 이차 결과로 설정한 체계적 고찰·메타분석 계획서가 등록되어 있다(연구 계획서로 결과는 아직 산출되지 않았다)[^17].
+
+**변증 없는 관행적 취혈/처방은 근거에 부합하지 않는다.** 침구 치료는 변증(간위불화·비위허약·비위습열)에 따른 배혈 선택이 치료 성패의 핵심이다[^8][^93]. 침구 역시 제균요법·PPI를 대체하는 수단이 아니며, 증상 완화와 재발 관리의 보조 중재로 배치한다.
 
 ## 제5편 KCD 질환군별 각론
 
@@ -172,7 +188,7 @@ K25(위궤양) — 급성/만성, 출혈 동반 여부에 따라 K25.0~K25.9로 
 H. pylori 감염, NSAIDs, 위산-점막방어 불균형이 핵심 기전이다[교과서적 근거]. 위점막 EGFR·EGF·VEGF 발현 저하가 궤양 치유 지연과 관련된다[^22][^106].
 
 #### ④ 치료
-건위양양과립·청위지통환·캉푸신 액·건중탕 계열 한약이 궤양 치유·증상 개선에 유효하며[^19][^21][^22][^25][^71], 중완 취혈 침 치료·오경상합 침법이 보조적으로 활용된다[^7][^8].
+Jianwei Yuyang 과립·청위지통환·캉푸신 액·건중탕 계열 한약이 궤양 치유·증상 개선에 유효하며[^19][^21][^22][^25][^71], 중완 취혈 침 치료·오경상합 침법이 보조적으로 활용된다[^7][^8].
 
 #### ⑤ 예후
 한약·침·혈위도포 등 한의 중재는 위궤양의 증상 완화·궤양 치유·재발 방지에 유용하며, 특히 H. pylori 관련 궤양에서 제균 요법과의 병용이 재발률을 유의하게 낮춘다[^65][^78]. 다만 다수 메타분석이 포함 연구들의 질이 낮고 진단·평가 기준이 비표준화되어 있음을 지적한다[^77][^78].
@@ -192,10 +208,10 @@ K26(십이지장궤양) — 급성/만성, 출혈·천공 동반 여부에 따�
 십이지장구부의 산 노출 증가와 방어인자 저하, H. pylori 감염이 주요 기전이다[교과서적 근거]. HSP72 등 열충격단백질 발현 변화가 점막 보호 반응과 관련된다[^36].
 
 #### ④ 치료
-경화위강캡슐·회귀의양캡슐·소쾌령탕 등이 궤양 치유율·증상 개선에서 표준 양약과 대등하거나 우수한 효과를 보인다[^33][^36][^38]. 침 치료와 생활 습관 개선 병행이 높은 완전 회복률을 보였다[^32]. 초단파 요법도 보조적으로 활용된다[^31].
+Jinghua Weikang 캡슐·Haigui Yuyang 캡슐·소쾌령탕 등이 궤양 치유율·증상 개선에서 표준 양약과 대등하거나 우수한 효과를 보인다[^33][^36][^38]. 침 치료와 생활 습관 개선 병행이 높은 완전 회복률을 보였다[^32]. 초단파 요법도 보조적으로 활용된다[^31].
 
 #### ⑤ 예후
-경화위강캡슐+삼제요법 병용은 항생제 내성 문제에도 대응할 수 있는 다기관 임상 근거를 갖는다[^34]. H. pylori 관련 위·십이지장궤양에서 중약이 제균율·증상 개선에 유효하다는 메타분석 근거가 있다[^35].
+Jinghua Weikang 캡슐+삼제요법 병용은 항생제 내성 문제에도 대응할 수 있는 다기관 임상 근거를 갖는다[^34]. H. pylori 관련 위·십이지장궤양에서 중약이 제균율·증상 개선에 유효하다는 메타분석 근거가 있다[^35].
 
 #### ⑥ 관리
 H. pylori 제균 완료 후에도 재감염·재발 방지를 위해 식습관 관리와 변증에 따른 한약 병용을 고려한다[^34][^35]. 출혈·천공 등 합병증 red flag가 있으면 즉시 양방 응급 치료와 연계한다[^9].
@@ -209,10 +225,18 @@ K29.4(만성 위축성 위염)·K29.5(만성 위염, 상세불명)·B98.0(H. pyl
 비위습열·비신양허·비허습저(脾虛濕貯) 변증이 주로 관찰되며, 대장습열과 유사하게 습열이 중초에 정체되는 병기가 중심이다[^24][^59][^62].
 
 #### ③ 병태생리
-H. pylori 감염이 만성 활동성 위염→위축성 위염→장상피화생→이형성의 연속선(Correa 캐스케이드)을 유발하며[교과서적 근거], 변증 유형별로 위점막 EGF·VEGF·PCNA[^106], MUC1·MUC5AC[^60], 아쿠아포린 3·4[^113][^115], HSP70[^101] 등의 발현 차이가 관찰된다. miR-27a, miR-499·miR-149 등 microRNA 다형성도 중의 변증 유형과 연관된다[^61][^89].
+H. pylori 감염이 만성 활동성 위염→위축성 위염→장상피화생→이형성의 연속선(Correa 캐스케이드)을 유발하며[교과서적 근거], 변증 유형별로 위점막 EGF·VEGF·PCNA[^106], MUC1·MUC5AC[^60], 아쿠아포린 3·4[^113][^115], HSP70[^101] 등의 발현 차이가 관찰된다. miR-27a, miR-499·miR-149 등 microRNA 다형성도 중의 변증 유형과 연관된다[^61][^89]. 중서의결합 관점에서 이 캐스케이드의 분자 기전과 중재 지점을 정리한 최신 종설도 축적되어 있다[^42].
+
+초기 연구 단계에서는 H. pylori와 만성 위축성 위염의 인과 관계 자체를 검증하면서 청열·활혈 계열 처방의 억제 효과를 함께 확인한 혼합 연구들이 수행되었으며, 이 중 환자 대상 부분에서 위열증 환자에 대한 청열화어 처방의 위내시경 유효율이 보고되었다(인간 데이터 한정)[^69][^72]. 이러한 초기 근거는 방법론적 한계가 크지만, 습열·어혈 병기와 감염의 연결을 임상적으로 처음 제시했다는 맥락적 의미를 갖는다.
 
 #### ④ 치료
-9종 중성약과 표준 4제요법 병용, 7종 중성약과 삼제/4제요법 병용 등 다수의 네트워크 메타분석이 H. pylori 양성 위염·궤양에서 유효성을 확인했다[^77][^87]. 청화통강탕+침 병용[^44], 위위과립(TLR4/NF-κB/COX-2 경로 조절)[^76], 화위탕[^73], 강위과립[^64] 등 다양한 처방이 보고되었다. 화침+소류금건위탕 병용이 위장관 증상·위점막 병변을 개선한다[^99]. 오매·홍삼·발효 김치 등 식이·본초 개입도 제균 보조·점막 회복에 참고할 수 있다[^56][^57][^85][^86].
+9종 중성약과 표준 4제요법 병용, 7종 중성약과 삼제/4제요법 병용 등 다수의 네트워크 메타분석이 H. pylori 양성 위염·궤양에서 유효성을 확인했으며[^77][^87], 만성 위축성 위염을 표제로 한 최신 네트워크 메타분석도 경구 중성약과 4제요법 병용이 제균율·위점막 지표 개선에 긍정적임을 보고한다[^121]. 중의약의 H. pylori 감염 치료 근거를 정리한 체계적 고찰·종설은 초기 연구부터 최근 동향까지 일관되게 "표준 제균요법에 대한 부가 요법"이라는 위치를 전제로 유효성을 논한다[^16][^39][^45][^81][^84].
+
+청화통강탕+침 병용[^44], 위위과립(TLR4/NF-κB/COX-2 경로 조절)[^76], 화위탕[^73], 강위과립[^64] 등 다양한 처방이 보고되었다. 화침+소류금건위탕 병용이 위장관 증상·위점막 병변을 개선한다[^99]. 오매·홍삼·발효 김치 등 식이·본초 개입도 제균 보조·점막 회복에 참고할 수 있다[^56][^57][^85][^86]. Jinghua Weikang 제제는 PPI 기반 삼제요법에 더했을 때 H. pylori 관련 만성 위축성 위염에서 다기관 무작위 대조 근거를 확보했고[^66], 아목시실린-푸라졸리돈 기반 삼제·4제요법에 병용한 구제 치료에서도 유효성·안전성이 보고되었다[^79].
+
+**전암성 병변에 대한 변증별 처방 근거** — 이 군에서는 장상피화생·이형성 등 전암성 병변의 조직학적 개선을 결과 변수로 삼은 임상 근거가 별도로 축적되어 있다. 비허증형 위암 전구병변에서 위강부(胃康復) 과립은 위점막의 아연·구리·cAMP·SOD·지질과산화물 등 지표와 병태생리학적 소견을 함께 개선했고[^105][^114], 온중건비(溫中健脾) 치법은 만성 위염 환자의 위점막 회복을 촉진했다[^109]. 간위불화가 두드러지는 경우에는 소간화위탕(疏肝和胃湯)이 만성 위축성 위염의 위점막 병리를 개선했으며[^107], 장상피화생·이형성에 대해서는 가미사군자탕[^110]과 Xiao Wei Yan 산제(한자 표기는 원 보고에서 확인되지 않음)[^108]가 조직학적 개선을 보고했다.
+
+> 위 근거들은 대부분 중국 내 단일·소수 기관에서 수행된 오래된 무작위 시험으로 눈가림과 조직 판독의 표준화가 불충분한 경우가 많다. 임상 틀이지 동일 근거수준의 권고가 아니며, **변증 없이 전암성 병변에 관행적으로 동일 처방을 적용하는 것은 근거에 부합하지 않는다.** 어떤 경우에도 제균요법과 정기 내시경 추적을 대체하지 않는다.
 
 #### ⑤ 예후
 중약 병용이 실제 임상(real-world)에서 H. pylori 양성 만성 위축성 위염의 치료 성적을 개선한다는 관찰연구가 있다[^88]. 제균 후에도 위암 전구병변 화학예방 전략이 필요하며, 한의 중재의 위치를 논의하는 문헌이 있다[^48][^92].
@@ -296,7 +320,22 @@ K30(기능성 소화불량)[교과서적 근거].
 - NSAIDs·알코올·흡연·자극성 식이·과식 등 유발 요인을 줄이고, 정서 스트레스·수면을 관리한다[^19][^32].
 - 위궤양 완치 후에도 소화불량·삶의 질 저하가 지속되는 환자에게 한약(반하사심탕·향사평위산)·침·추나를 병행한 통합 한방 치료가 효과적일 수 있다(증례)[^117].
 - 궤양성 출혈·천공·협착 등 합병증 red flag가 있으면 즉시 양방 응급 치료와 연계한다[^9][^118].
-- 제균 실패·다제내성 H. pylori 감염은 보완대체의학이 재치료·구제요법에서 보조적으로 활용될 수 있다[^52][^54].
+- 제균 실패·다제내성 H. pylori 감염은 보완대체의학이 재치료·구제요법에서 보조적으로 활용될 수 있다[^52][^54][^79].
+
+### 3-1. 제균요법 완주(完走)를 돕는 보조 관리
+
+제균 실패의 상당 부분은 약제 내성뿐 아니라 위장관 부작용으로 인한 조기 중단에서 비롯되므로, 한의 중재의 실질적 기여는 "항생제를 대신하는 것"이 아니라 "환자가 표준 요법을 끝까지 마치도록 돕는 것"에 있다.
+
+비스무트 4제요법 시행 중 발생하는 오심·복부 불편감·설사 등 위장관 증상을 중의약이 완화할 수 있다는 보완적 관점이 정리되어 있으며[^43], 이는 건비화위(健脾和胃)·화중강역(和中降逆) 계열 처방의 임상적 자리와 부합한다. 동시에 약사 주도 복약관리를 포함한 치료 전략 연구는 복약 순응도 자체가 제균 성공의 독립적 결정 요인임을 지적하므로[^83], 한약 병용 여부와 무관하게 복약 지도·부작용 상담을 진료 과정에 명시적으로 포함해야 한다. 군 부대와 같이 재감염 위험이 높은 집단생활 환경에서는 감염 관리·예방 차원의 접근이 함께 논의되고 있다[^82].
+
+| 관리 목표 | 실무 조치 | 근거 |
+|---|---|---|
+| 제균요법 부작용 완화 | 위장관 증상에 대한 변증별 한약 병용, 복용 시점 조정 | [^43] |
+| 복약 순응도 확보 | 복약 일정 설명, 중도 중단 시 재상담 경로 안내 | [^83] |
+| 재감염 예방 | 집단생활·가족 내 전파 경로 관리, 제균 후 재검사 | [^82][^91] |
+| 구제요법 단계 | 내성 이력 확인 후 병용 처방 재구성 | [^54][^79] |
+
+> 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 어떤 항목도 항생제 제균요법이나 PPI를 대체하지 않으며, 표준 요법의 완주를 돕는 보조 조치로만 해석한다.
 
 ### 4. 조섭표(生活指導)
 
@@ -345,7 +384,7 @@ K30(기능성 소화불량)[교과서적 근거].
 
 **Q1. 위궤양에 한약을 쓰는 것이 근거가 있나요?**
 
-건위양양과립이 위궤양 환자의 EGFR 발현을 높여 점막 재생·치유를 촉진하고(임상시험)[^22], 청위지통환이 대조군보다 궤양 치유 유효율·H. pylori 제균에 효과적이다(임상시험)[^25]. 중약 단독보다 양약 병용이 증상 개선에 더 우수하다는 근거도 있다(체계적 고찰)[^19]. 다만 한약은 H. pylori 제균 요법이나 위산분비 억제제를 대체하는 것이 아니라 보조적으로 병용하는 것이 원칙이다.
+Jianwei Yuyang 과립이 위궤양 환자의 EGFR 발현을 높여 점막 재생·치유를 촉진하고(임상시험)[^22], 청위지통환이 대조군보다 궤양 치유 유효율·H. pylori 제균에 효과적이다(임상시험)[^25]. 한약을 오메프라졸과 병용하면 단독 치료보다 유효성이 개선된다는 체계적 고찰도 있다[^19]. 다만 Jianwei Yuyang 과립+라니티딘 병용을 검증한 무작위 시험에서는 증상·증후는 개선되었으나 궤양 치유율·제균율에서는 차이가 없었으므로, 병용의 이점이 모든 결과 지표에 일률적으로 나타나는 것은 아니다(임상시험, 130명)[^116]. 다만 한약은 H. pylori 제균 요법이나 위산분비 억제제를 대체하는 것이 아니라 보조적으로 병용하는 것이 원칙이다.
 
 **Q2. 위궤양에 침 치료가 효과가 있나요?**
 
@@ -393,32 +432,29 @@ NSAIDs 장기 복용 시에는 위점막보호제 병용이 표준이며, 건비
 [^10]: [Professor CHU Hao-ran's experience of acupuncture and moxibustion of regulating spleen-stomach and differentiating meridians-collaterals]. Xu H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-11-12. [문헌 고찰] [DOI 10.13703/j.0255-2930.2019.11.019](https://doi.org/10.13703/j.0255-2930.2019.11.019) [PMID 31724359](https://pubmed.ncbi.nlm.nih.gov/31724359/) — 비위 조절과 경락 변증에 기반한 침구 임상 경험을 정리한 문헌.
 [^11]: [Effect of acupuncture with Ling gui Ba fa as main for treatment of chronic superficial gastritis of liver-stomach disharmony type]. Zhao CJ 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-04. [임상시험] [PMID 20568430](https://pubmed.ncbi.nlm.nih.gov/20568430/) — 영귀팔법 침법이 간위불화형 만성 위질환에 적용된 임상 근거.
 [^12]: [Warm acupuncture for chronic atrophic gastritis with spleen-stomach deficiency cold]. Wang L 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-02-12. [임상시험] [DOI 10.13703/j.0255-2930.2017.02.007](https://doi.org/10.13703/j.0255-2930.2017.02.007) [PMID 29231474](https://pubmed.ncbi.nlm.nih.gov/29231474/) — 온침이 비위허한형 만성 위축성 위염에서 증상·병리 소견을 개선.
-[^13]: [Comparative study on effect of electroacupuncture at lower he-sea point of stomach and he-sea matching front-mu points for gastroparesis]. Zhou Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-09-12. [임상시험] [DOI 10.13703/j.0255-2930.20191025-k0002](https://doi.org/10.13703/j.0255-2930.20191025-k0002) [PMID 32959584](https://pubmed.ncbi.nlm.nih.gov/32959584/) — 하합혈 전침 자극이 위마비 환자의 위장관 운동성을 개선.
-[^14]: [Observation on therapeutic effect of herb-partitioned spread moxibustion for treatment of chronic nonspecific ulcerative colitis]. Xu YL 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-04. [임상시험] [PMID 20568433](https://pubmed.ncbi.nlm.nih.gov/20568433/) — 격산구 뜸 요법이 만성 비특이성 궤양성 대장염에서 치료 효과를 보고.
-[^15]: [Clinical effect of acupuncture for gastroesophageal reflux disease based on the "heart-stomach connection" theory and its effects on serum gastrointestinal hormones]. He J 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-06-12. [임상시험] [DOI 10.13703/j.0255-2930.20230818-0004](https://doi.org/10.13703/j.0255-2930.20230818-0004) [PMID 38867622](https://pubmed.ncbi.nlm.nih.gov/38867622/) — 심위상관 이론에 기반한 침 치료가 위장관 호르몬을 조절.
 [^16]: A systematic review of treating Helicobacter pylori infection with Traditional Chinese Medicine. Lin J 외. _World journal of gastroenterology_. 2009-10-07. [체계적 고찰] [DOI 10.3748/wjg.15.4715](https://doi.org/10.3748/wjg.15.4715) [PMID 19787835](https://pubmed.ncbi.nlm.nih.gov/19787835/) — 중의약의 H. pylori 감염 치료 효과를 정리한 초기 체계적 고찰.
 [^17]: Acupuncture therapy for gastric ulcer: A protocol for systematic review and meta-analysis. Wang H 외. _Medicine_. 2021-10-29. [체계적 고찰] [DOI 10.1097/MD.0000000000027656](https://doi.org/10.1097/MD.0000000000027656) [PMID 34713858](https://pubmed.ncbi.nlm.nih.gov/34713858/) — 침 치료의 위궤양 대상 효과를 평가하기 위한 체계적 고찰·메타분석 프로토콜.
 [^18]: A Retrospective Trial Exploring Erzhu Yiren Decoction in Gastric Ulcer with Spleen Deficiency and Dampness‐Heat. Ting Zhang 외. _BioMed Research International_. 2022-01. [관찰연구] [DOI 10.1155/2022/6495181](https://doi.org/10.1155/2022/6495181) — 이출의인탕 가감방이 비허습열형 위궤양에서 치료 효과를 보고.
 [^19]: Effectiveness and safety of Chinese medicine combined with omeprazole in the treatment of gastric ulcer. Cheng Xie 외. _Medicine_. 2021-04-30. [체계적 고찰] [DOI 10.1097/md.0000000000025744](https://doi.org/10.1097/md.0000000000025744) — 중약과 오메프라졸 병용이 위궤양 치료에서 단독 대비 유효성을 개선함을 정리한 체계적 고찰.
 [^20]: A Review on Incidence of Gastric Ulcer and its Herbal Remedies. Karishma Pathak. _Journal of Drug Discovery and Development_. 2022-02-24. [문헌 고찰] [DOI 10.24321/2581.6861.202104](https://doi.org/10.24321/2581.6861.202104) — 위궤양의 역학과 한약 치료 근거를 개괄한 문헌 고찰.
 [^21]: Therapeutic Efficacy of Kangfuxin Liquid Combined with PPIs in Gastric Ulcer. Zou JB 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [메타분석] [DOI 10.1155/2019/1324969](https://doi.org/10.1155/2019/1324969) [PMID 31662770](https://pubmed.ncbi.nlm.nih.gov/31662770/) — 캉푸신 액이 PPI와 병용 시 위궤양 치유율·증상 개선에 부가적 효과를 보임.
-[^22]: [Effect of Jianwei Yuyang Granules on expression of epidermal growth factor receptor in gastric mucosa of gastric ulcer patients]. Zhang WN 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-01. [임상시험] [DOI 10.3736/jcim20040109](https://doi.org/10.3736/jcim20040109) [PMID 15339497](https://pubmed.ncbi.nlm.nih.gov/15339497/) — 건위양양과립이 위궤양 환자의 위점막 EGFR 발현을 증가시켜 점막 재생·치유를 촉진.
+[^22]: [Effect of Jianwei Yuyang Granules on expression of epidermal growth factor receptor in gastric mucosa of gastric ulcer patients]. Zhang WN 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-01. [임상시험] [DOI 10.3736/jcim20040109](https://doi.org/10.3736/jcim20040109) [PMID 15339497](https://pubmed.ncbi.nlm.nih.gov/15339497/) — Jianwei Yuyang 과립이 위궤양 환자의 위점막 EGFR 발현을 증가시켜 점막 재생·치유를 촉진.
 [^23]: Observation of Pain-Sensitive Points along the Meridians in Patients with Gastric Ulcer or Gastritis. Ben H 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [관찰연구] [DOI 10.1155/2012/130802](https://doi.org/10.1155/2012/130802) [PMID 23227096](https://pubmed.ncbi.nlm.nih.gov/23227096/) — 위궤양·위염 환자에서 경락을 따라 통증 민감점이 관찰되어 경혈-장부 상관성을 시사.
 [^24]: [Clinical and experimental study on treatment of Helicobacter pylori infected gastritis by xialian yiyou capsule]. Ji A 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1999-10. [임상시험] [PMID 11783172](https://pubmed.ncbi.nlm.nih.gov/11783172/) — 하련이유 캡슐이 H. pylori 감염 위염 치료에서 임상 효과를 보고.
 [^25]: [Clinical study on treatment of gastric ulcer with qingwei zhitong pill]. He LZ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2001-06. [임상시험] [PMID 12577435](https://pubmed.ncbi.nlm.nih.gov/12577435/) — 청위지통환이 대조군보다 위궤양 치유 유효율과 H. pylori 제균율에서 우수.
 [^26]: [Morphological observation on gastric mucosa membrane of patients with gastric ulcer treated with combined use of Qifang Weitong Powder and omeprazole]. Deng C 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-07. [임상시험] [PMID 17717919](https://pubmed.ncbi.nlm.nih.gov/17717919/) — 기방위통산과 오메프라졸 병용이 위궤양 환자의 위점막 형태학적 회복을 촉진.
 [^27]: [A multicenter study of Chinese patent medicine wenweishu/yangweishu in the treatment of Helicobacter pylori positive patients with chronic gastritis and peptic ulcer]. "Wenweishu/yangweishu in the Treatment of Helicobacter pylori Positive Patients with Chronic Gastritis and Peptic Ulcer" Study Group 외. _Zhonghua yi xue za zhi_. 2010-01-12. [임상시험] [PMID 20356485](https://pubmed.ncbi.nlm.nih.gov/20356485/) — 온위서/양위서 등 중성약이 H. pylori 양성 만성 위염·소화성궤양 환자에서 다기관 임상 근거를 확보.
-[^28]: [Clinical study on effect of Jianwei Yuyang Granule in treating patients with gastric ulcer]. Lin Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-07. [임상시험] [PMID 17717918](https://pubmed.ncbi.nlm.nih.gov/17717918/) — 건위양양과립이 위궤양 환자의 임상 증상·증후를 개선.
+[^28]: [Clinical study on effect of Jianwei Yuyang Granule in treating patients with gastric ulcer]. Lin Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-07. [임상시험] [PMID 17717918](https://pubmed.ncbi.nlm.nih.gov/17717918/) — Jianwei Yuyang 과립이 위궤양 환자의 임상 증상·증후를 개선.
 [^29]: Acupoint catgut embedding for the treatment of peptic ulcers: A protocol for systematic review and meta analysis. Yi X 외. _Medicine_. 2021-04-23. [체계적 고찰] [DOI 10.1097/MD.0000000000025562](https://doi.org/10.1097/MD.0000000000025562) [PMID 33879710](https://pubmed.ncbi.nlm.nih.gov/33879710/) — 혈위 매선 요법의 소화성궤양 치료 효과를 평가하는 체계적 고찰·메타분석 프로토콜.
 [^30]: Prediction of gastric ulcers based on the change in electrical resistance of acupuncture points using fuzzy logic decision-making. Al-Kasasbeh R 외. _Computer methods in biomechanics and biomedical engineering_. 2013. [실험연구] [DOI 10.1080/10255842.2011.618926](https://doi.org/10.1080/10255842.2011.618926) [PMID 22292589](https://pubmed.ncbi.nlm.nih.gov/22292589/) — 경혈의 전기 저항 변화를 퍼지 논리로 분석해 위궤양을 조기 예측하는 생물물리학적 접근.
 [^31]: [Ultrahigh frequency therapy of duodenal ulcer]. Teppone MV 외. _Klinicheskaia meditsina_. 1991-10. [임상시험] [PMID 1766225](https://pubmed.ncbi.nlm.nih.gov/1766225/) — 초단파(UHF) 요법이 십이지장궤양 치료에 보조적으로 활용된 초기 임상 연구.
 [^32]: ACUPUNCTURE TREATMENT FOR DUODENAL ULCER. Laszlo Debreceni 외. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 1988-08. [임상시험] [DOI 10.3727/036012988816358679](https://doi.org/10.3727/036012988816358679) — 3주 침 치료와 생활 습관 개선 병행이 십이지장궤양에서 높은 완전 회복률을 보고.
-[^33]: [Comparative study on Jinghua Weikang Capsule and famotidine in treating duodenal ulcer]. Ji F 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-04. [임상시험] [PMID 16689009](https://pubmed.ncbi.nlm.nih.gov/16689009/) — 경화위강캡슐이 파모티딘과 대등한 궤양 치유율을 보이면서 H. pylori 제균율에서 우수.
-[^34]: [Jinghuaweikang capsules combined with triple therapy in the treatment of Helicobacter pylori associated gastritis and duodenal ulcer and analysis of antibiotic resistance: a multicenter, randomized, controlled, clinical study]. Hu FL 외. _Zhonghua yi xue za zhi_. 2012-03-13. [임상시험] [PMID 22781295](https://pubmed.ncbi.nlm.nih.gov/22781295/) — 경화위강캡슐+삼제요법 병용이 H. pylori 관련 위염·십이지장궤양의 항생제 내성 문제에 대응하는 다기관 임상 근거.
+[^33]: [Comparative study on Jinghua Weikang Capsule and famotidine in treating duodenal ulcer]. Ji F 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-04. [임상시험] [PMID 16689009](https://pubmed.ncbi.nlm.nih.gov/16689009/) — Jinghua Weikang 캡슐이 파모티딘과 대등한 궤양 치유율을 보이면서 H. pylori 제균율에서 우수.
+[^34]: [Jinghuaweikang capsules combined with triple therapy in the treatment of Helicobacter pylori associated gastritis and duodenal ulcer and analysis of antibiotic resistance: a multicenter, randomized, controlled, clinical study]. Hu FL 외. _Zhonghua yi xue za zhi_. 2012-03-13. [임상시험] [PMID 22781295](https://pubmed.ncbi.nlm.nih.gov/22781295/) — Jinghua Weikang 캡슐+삼제요법 병용이 H. pylori 관련 위염·십이지장궤양의 항생제 내성 문제에 대응하는 다기관 임상 근거.
 [^35]: Effect of Chinese Herbal Medicines on Helicobacter pylori-associated gastroduodenal ulcers: a systematic review and Meta-analysis. Shi X 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2019-08. [메타분석] [PMID 32186092](https://pubmed.ncbi.nlm.nih.gov/32186092/) — 중약이 H. pylori 관련 위·십이지장궤양의 제균율·증상 개선에 유효함을 정리한 메타분석.
 [^36]: Effect of xiaokuiling prescription on the expression of HSP72, HSP B in gastric mucosa of patients with Helicobacter pylori-associated duodenal ulcer. Yi P 외. _Journal of Tongji Medical University = Tong ji yi ke da xue xue bao_. 2001. [임상시험] [DOI 10.1007/BF02886565](https://doi.org/10.1007/BF02886565) [PMID 12539556](https://pubmed.ncbi.nlm.nih.gov/12539556/) — 소쾌령탕이 H. pylori 관련 십이지장궤양의 위점막 HSP72 발현을 증가시켜 점막 보호·재생에 기여.
 [^37]: [Relationship of cytokines and cold-heat syndrome differentiation in patients of duodenal ulcer]. Zhang X 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1999-05. [관찰연구] [PMID 11783237](https://pubmed.ncbi.nlm.nih.gov/11783237/) — 한열변증 상태가 십이지장궤양 환자의 사이토카인 수치와 상관관계를 보여 변증의 생물학적 근거를 시사.
-[^38]: [Randomized controlled trial on haiguiyuyang capsule in the treatment of duodenal ulcer]. Zhang RM 외. _Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition_. 2005-03. [임상시험] [PMID 15807275](https://pubmed.ncbi.nlm.nih.gov/15807275/) — 회귀의양캡슐이 라니티딘과 유사한 효과를 보이면서 위장 팽만감 완화에 더 우수.
+[^38]: [Randomized controlled trial on haiguiyuyang capsule in the treatment of duodenal ulcer]. Zhang RM 외. _Sichuan da xue xue bao. Yi xue ban = Journal of Sichuan University. Medical science edition_. 2005-03. [임상시험] [PMID 15807275](https://pubmed.ncbi.nlm.nih.gov/15807275/) — Haigui Yuyang 캡슐이 라니티딘과 유사한 효과를 보이면서 위장 팽만감 완화에 더 우수.
 [^39]: Traditional Chinese medicine for Helicobacter pylori infection. Mao Zhao 외. _Medicine_. 2021-01-22. [체계적 고찰] [DOI 10.1097/md.0000000000024282](https://doi.org/10.1097/md.0000000000024282) — 중의약의 H. pylori 감염 치료를 정리한 체계적 고찰.
 [^40]: Effect of Pistacia atlantica on the Elimination of Helicobacter pylori and Improvement of Gastric Reflux in Patients with Chronic Cough: A Randomized Clinical Trial. Masoud Shirmohammadi 외. _Current Traditional Medicine_. 2021-12. [임상시험] [DOI 10.2174/2215083807666211021171005](https://doi.org/10.2174/2215083807666211021171005) — 피스타치아 추출물이 H. pylori 제균과 위식도 역류 개선에 효과를 보고.
 [^41]: Berberine Combined with Triple Therapy versus Triple Therapy for Helicobacter pylori Eradication: A Meta‐Analysis of Randomized Controlled Trials. Xiaotao Jiang 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [메타분석] [DOI 10.1155/2018/8716910](https://doi.org/10.1155/2018/8716910) — 베르베린 병용이 표준 삼제요법 단독보다 H. pylori 제균율을 유의하게 향상.
@@ -426,11 +462,9 @@ NSAIDs 장기 복용 시에는 위점막보호제 병용이 표준이며, 건비
 [^43]: Traditional Chinese medicine alleviate gastrointestinal symptoms during bismuth quadruple therapy for Helicobacter pylori infection: A complementary perspective. Yue-Bo Jia 외. _World Journal of Gastroenterology_. 2026-03-07. [문헌 고찰] [DOI 10.3748/wjg.v32.i9.115555](https://doi.org/10.3748/wjg.v32.i9.115555) — 중의약이 비스무트 4제요법의 위장관 부작용을 완화하는 보완적 역할을 개괄.
 [^44]: Clinical Observation of 52 Cases of Helicobacter pylori -Positive Chronic Atrophic Gastritis (Spleen–Stomach Damp-Heat Syndrome) Treated with Acupuncture Combined with Qinghua Tongjiang Decoction. Xuemei Wang 외. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-05-19. [임상시험] [DOI 10.1177/03601293261453090](https://doi.org/10.1177/03601293261453090) — 청화통강탕+침 병용이 비위습열형 H. pylori 양성 만성 위축성 위염에서 임상 효과를 보고.
 [^45]: Treatment of Helicobacter pylori-associated gastritis using traditional Chinese medicine. Mengjiao Hu 외. _Infection International_. 2018-05-09. [문헌 고찰] [DOI 10.2478/ii-2018-0009](https://doi.org/10.2478/ii-2018-0009) — 중의약을 이용한 H. pylori 관련 위염 치료 원칙을 정리.
-[^46]: [RETRACTED] Traditional Chinese Medicine as add-on treatment of triple/quadruple therapy for Helicobacter pylori infection: an overview of systematic reviews and meta-analyses (Protocol) v1. Xiaobei Si 외. 2023-12-25. [체계적 고찰] [DOI 10.17504/protocols.io.c6sqzedw](https://doi.org/10.17504/protocols.io.c6sqzedw) — 중의약의 삼제·4제요법 부가요법 효과를 다룬 체계적 고찰·메타분석 개관 프로토콜(철회됨, 방법론 참고용).
-[^47]: [RETRACTED] Traditional Chinese Medicine as add-on treatment of triple/quadruple therapy for Helicobacter pylori infection: an overview of systematic reviews and meta-analyses (Protocol) v1. Xiaobei Si. 2023-12-25. [체계적 고찰] [DOI 10.17504/protocols.io.kqdg3x1rqg25/v1](https://doi.org/10.17504/protocols.io.kqdg3x1rqg25/v1) — 위 항목의 중복 등록본(철회됨, 방법론 참고용).
 [^48]: Chemoprevention strategies for precancerous gastric lesions beyond Helicobacter pylori eradication. Tai Zhang 외. _QJM: An International Journal of Medicine_. 2025-01-28. [문헌 고찰] [DOI 10.1093/qjmed/hcaf030](https://doi.org/10.1093/qjmed/hcaf030) — H. pylori 제균 이후에도 필요한 위암 전구병변 화학예방 전략을 개괄.
 [^49]: The Efficacy of Berberine-Containing Quadruple Therapy on Helicobacter Pylori Eradication in China: A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Hu Q 외. _Frontiers in pharmacology_. 2019. [메타분석] [DOI 10.3389/fphar.2019.01694](https://doi.org/10.3389/fphar.2019.01694) [PMID 32116685](https://pubmed.ncbi.nlm.nih.gov/32116685/) — 베르베린 함유 4제요법이 H. pylori 제균율을 유의하게 향상시킴을 확인한 메타분석.
-[^50]: [A multicenter randomized controlled study of bismuth-containing quadruple therapy followed by Jing-Hua-Wei-Kang in the treatment of patients newly diagnosed with Helicobacter pylori infection and dyspepsia]. Ma PP 외. _Zhonghua yi xue za zhi_. 2021-07-13. [임상시험] [DOI 10.3760/cma.j.cn112137-20210305-00563](https://doi.org/10.3760/cma.j.cn112137-20210305-00563) [PMID 34275239](https://pubmed.ncbi.nlm.nih.gov/34275239/) — 경화위강 후속 치료가 H. pylori 신규 감염·소화불량 환자에서 다기관 임상 근거를 확보.
+[^50]: [A multicenter randomized controlled study of bismuth-containing quadruple therapy followed by Jing-Hua-Wei-Kang in the treatment of patients newly diagnosed with Helicobacter pylori infection and dyspepsia]. Ma PP 외. _Zhonghua yi xue za zhi_. 2021-07-13. [임상시험] [DOI 10.3760/cma.j.cn112137-20210305-00563](https://doi.org/10.3760/cma.j.cn112137-20210305-00563) [PMID 34275239](https://pubmed.ncbi.nlm.nih.gov/34275239/) — Jinghua Weikang 후속 치료가 H. pylori 신규 감염·소화불량 환자에서 다기관 임상 근거를 확보.
 [^51]: Effect of volatile oil of amomum on expressions of platelet activating factor and mastocarcinoma-related peptide in the gastric membrane of chronic gastritis patients with helicobacter-pylori infection. Huang GD 외. _Chinese journal of integrative medicine_. 2008-03. [임상시험] [DOI 10.1007/s11655-008-0023-6](https://doi.org/10.1007/s11655-008-0023-6) [PMID 18568325](https://pubmed.ncbi.nlm.nih.gov/18568325/) — 사인 휘발유가 H. pylori 감염 위염 환자의 혈소판활성인자 등 염증 매개체 발현에 영향을 미침.
 [^52]: Management of multi-drug resistant Helicobacter pylori infection by supplementary, complementary and alternative medicine; a review. Rezaeimanesh N 외. _Gastroenterology and hepatology from bed to bench_. [문헌 고찰] [PMID 29511465](https://pubmed.ncbi.nlm.nih.gov/29511465/) — 보완대체의학이 다제내성 H. pylori 감염 관리에 활용될 수 있음을 개괄.
 [^53]: Interaction of Cyclooxygenase-2 with Helicobacter pylori Induces Gastric Chronic Nonresolving Inflammation and the Formation of Syndrome of Internal Block of Static Blood in Helicobacter pylori-Related Gastric Diseases. Dai YK 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [관찰연구] [DOI 10.1155/2020/7340814](https://doi.org/10.1155/2020/7340814) [PMID 32328138](https://pubmed.ncbi.nlm.nih.gov/32328138/) — COX-2와 H. pylori의 상호작용이 어혈 변증과 관련된 만성 염증 기전을 시사.
@@ -446,23 +480,23 @@ NSAIDs 장기 복용 시에는 위점막보호제 병용이 표준이며, 건비
 [^63]: [Progress in the treatment of Helicobacter pylori infection]. Tu S 외. _Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences_. 2014-09. [문헌 고찰] [DOI 10.11817/j.issn.1672-7347.2014.09.020](https://doi.org/10.11817/j.issn.1672-7347.2014.09.020) [PMID 25269503](https://pubmed.ncbi.nlm.nih.gov/25269503/) — H. pylori 감염 치료의 최신 진행 상황을 정리한 문헌 고찰.
 [^64]: Kang wei granules in treatment of gastropathy related to Helicobacter pylori infection. Chen F 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2003-03. [임상시험] [PMID 12747192](https://pubmed.ncbi.nlm.nih.gov/12747192/) — 강위과립이 H. pylori 관련 위병증 치료에서 임상 유효성을 보고.
 [^65]: Effects of killing Helicobacter pylori quadruple therapy on peptic ulcer: a randomized double-blind clinical trial. Feng LY 외. _World journal of gastroenterology_. 2005-02-21. [임상시험] [DOI 10.3748/wjg.v11.i7.1083](https://doi.org/10.3748/wjg.v11.i7.1083) [PMID 15742421](https://pubmed.ncbi.nlm.nih.gov/15742421/) — 4제 제균요법이 소화성궤양 치료에서 유효성과 안전성을 확인한 이중맹검 RCT.
-[^66]: [Jinghuaweikang gelatin pearls plus proton pump inhibitor-based triple regimen in the treatment of chronic atrophic gastritis with Helicobacter pylori infection: a multicenter, randomized, controlled clinical study]. Wang TT 외. _Zhonghua yi xue za zhi_. 2013-11-26. [임상시험] [PMID 24521887](https://pubmed.ncbi.nlm.nih.gov/24521887/) — 경화위강 교질환+PPI 삼제요법이 H. pylori 관련 만성 위축성 위염에서 다기관 임상 근거를 확보.
+[^66]: [Jinghuaweikang gelatin pearls plus proton pump inhibitor-based triple regimen in the treatment of chronic atrophic gastritis with Helicobacter pylori infection: a multicenter, randomized, controlled clinical study]. Wang TT 외. _Zhonghua yi xue za zhi_. 2013-11-26. [임상시험] [PMID 24521887](https://pubmed.ncbi.nlm.nih.gov/24521887/) — Jinghua Weikang 교질환+PPI 삼제요법이 H. pylori 관련 만성 위축성 위염에서 다기관 임상 근거를 확보.
 [^67]: [Effect of Yiqi Huoxue Qingre Huashi Recipe on the Eradication Rate of Hp in Peptic Ulcer Patients]. Dai GZ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-12. [임상시험] [PMID 26882604](https://pubmed.ncbi.nlm.nih.gov/26882604/) — 익기활혈청열화습 처방이 소화성궤양 환자의 H. pylori 제균율을 향상.
 [^68]: Beneficial effect of Burdock complex on asymptomatic Helicobacter pylori-infected subjects: A randomized, double-blind placebo-controlled clinical trial. Yen CH 외. _Helicobacter_. 2018-06. [임상시험] [DOI 10.1111/hel.12469](https://doi.org/10.1111/hel.12469) [PMID 29520881](https://pubmed.ncbi.nlm.nih.gov/29520881/) — 우엉 복합물이 무증상 H. pylori 감염자에서 제균 보조 효과를 보인 이중맹검 위약대조 RCT.
-[^69]: A study of Helicobacterium pylori and prevention and treatment of chronic atrophic gastritis. Zhang L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1997-03. [실험연구] [PMID 10437235](https://pubmed.ncbi.nlm.nih.gov/10437235/) — H. pylori와 만성 위축성 위염 예방·치료의 초기 실험적 근거.
+[^69]: A study of Helicobacterium pylori and prevention and treatment of chronic atrophic gastritis. Zhang L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1997-03. [임상시험] [PMID 10437235](https://pubmed.ncbi.nlm.nih.gov/10437235/) — 만성 위축성 위염 환자의 H. pylori 검출률(67%)을 보고하고 청열·활혈 계열 처방의 임상 치료 성적을 확인. 본초의 시험관 내 억제 실험이 병행된 혼합 연구로 인간 데이터 한정.
 [^70]: Banxia Xiexin Decoction in the treatment of Hp-associated peptic ulcer: A protocol for systematic review and meta-analysis. Zhu W 외. _Medicine_. 2021-01-15. [체계적 고찰] [DOI 10.1097/MD.0000000000024105](https://doi.org/10.1097/MD.0000000000024105) [PMID 33466180](https://pubmed.ncbi.nlm.nih.gov/33466180/) — 반하사심탕의 H. pylori 관련 소화성궤양 치료 효과를 평가하는 체계적 고찰·메타분석 프로토콜.
 [^71]: Efficacy and safety of Jianzhong decoction in treating peptic ulcers: a meta-analysis of 58 randomised controlled trials with 5192 patients. Sun Y 외. _BMC complementary and alternative medicine_. 2017-04-14. [메타분석] [DOI 10.1186/s12906-017-1723-2](https://doi.org/10.1186/s12906-017-1723-2) [PMID 28410586](https://pubmed.ncbi.nlm.nih.gov/28410586/) — 건중탕 계열 처방이 소화성궤양 치료에서 광범위한 임상 근거(58건 RCT)를 확보.
-[^72]: [Relation between Helicobacter pylori and pathogenesis of chronic atrophic gastritis and the research of its prevention and treatment]. Zhang L 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-09. [실험연구] [PMID 1298465](https://pubmed.ncbi.nlm.nih.gov/1298465/) — H. pylori와 만성 위축성 위염의 병인 관계 및 예방·치료 연구를 정리.
+[^72]: [Relation between Helicobacter pylori and pathogenesis of chronic atrophic gastritis and the research of its prevention and treatment]. Zhang L 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-09. [임상시험] [PMID 1298465](https://pubmed.ncbi.nlm.nih.gov/1298465/) — 위질환 환자 485명의 H. pylori 검출률 59.6%를 보고하고, 위열증 만성 위축성 위염 환자 70명에게 청열화어 처방을 투여해 위내시경 유효율 85.7%를 확인. 동물 모델 실험이 병행된 혼합 연구로 인간 데이터 한정.
 [^73]: Effect of Hewei-Decoction on chronic atrophic gastritis and eradication of Helicobacter pylori. Ji WS 외. _World journal of gastroenterology_. 2005-02-21. [임상시험] [DOI 10.3748/wjg.v11.i7.986](https://doi.org/10.3748/wjg.v11.i7.986) [PMID 15742401](https://pubmed.ncbi.nlm.nih.gov/15742401/) — 화위탕이 만성 위축성 위염에서 H. pylori 제균과 병리 개선에 기여.
 [^74]: Ultrastructure Characteristics of Different Chinese Medicine Syndromes of Helicobacter pylori-Correlated Gastric Diseases. Hu L 외. _Chinese journal of integrative medicine_. 2019-12. [실험연구] [DOI 10.1007/s11655-019-3019-5](https://doi.org/10.1007/s11655-019-3019-5) [PMID 31630360](https://pubmed.ncbi.nlm.nih.gov/31630360/) — 변증 유형별 위점막 미세구조 차이가 H. pylori 관련 위질환에서 관찰되어 변증의 형태학적 근거를 제공.
 [^75]: Efficacy and safety of triple therapy containing berberine, amoxicillin, and vonoprazan for Helicobacter pylori initial treatment: A randomized controlled trial. Chen S 외. _Chinese medical journal_. 2023-07-20. [임상시험] [DOI 10.1097/CM9.0000000000002696](https://doi.org/10.1097/CM9.0000000000002696) [PMID 37469024](https://pubmed.ncbi.nlm.nih.gov/37469024/) — 베르베린+아목시실린+보노프라잔 삼제요법이 H. pylori 초치료에서 유효성을 확인.
 [^76]: Mechanism of Weiwei granules in the treatment of chronic active Helicobacter pylori gastritis with atrophy based on the TLR4/NF-κB/COX-2 inflammatory signaling pathway. Zhang H 외. _Histology and histopathology_. 2024-06. [임상시험] [DOI 10.14670/HH-18-679](https://doi.org/10.14670/HH-18-679) [PMID 38031901](https://pubmed.ncbi.nlm.nih.gov/38031901/) — 위위과립이 TLR4/NF-κB/COX-2 경로를 통해 H. pylori 관련 위축성 위염의 염증을 조절.
 [^77]: Efficacy and safety of seven Chinese patent medicines combined with conventional triple/quadruple therapy for Helicobacter pylori-positive peptic ulcers: a systematic review and network meta-analysis. Jiang Z 외. _BMJ open_. 2024-04-29. [메타분석] [DOI 10.1136/bmjopen-2023-074188](https://doi.org/10.1136/bmjopen-2023-074188) [PMID 38684278](https://pubmed.ncbi.nlm.nih.gov/38684278/) — 7종 중성약과 표준요법 병용이 H. pylori 양성 소화성궤양에서 네트워크 메타분석으로 상대적 유효성이 확인됨.
 [^78]: A comparison of the efficacy and safety of Chinese patent medicine combined with Western medicine for Helicobacter pylori-related gastric ulcer: A systematic review and network meta-analysis. Zhong M 외. _Medicine_. 2025-02-07. [메타분석] [DOI 10.1097/MD.0000000000041137](https://doi.org/10.1097/MD.0000000000041137) [PMID 39928778](https://pubmed.ncbi.nlm.nih.gov/39928778/) — 중성약+양약 병용이 H. pylori 관련 위궤양에서 양약 단독보다 효과적이고 안전.
-[^79]: Efficacy and safety of Jinghua Weikang capsule combined with amoxicillin-furazolidone triple/quadruple therapies in the rescue treatment of Helicobacter pylori infection. Yang Y 외. _Frontiers in medicine_. 2025. [임상시험] [DOI 10.3389/fmed.2025.1531620](https://doi.org/10.3389/fmed.2025.1531620) [PMID 40201322](https://pubmed.ncbi.nlm.nih.gov/40201322/) — 경화위강캡슐+아목시실린-푸라졸리돈 병용이 H. pylori 구제 치료에서 임상 근거를 확보.
+[^79]: Efficacy and safety of Jinghua Weikang capsule combined with amoxicillin-furazolidone triple/quadruple therapies in the rescue treatment of Helicobacter pylori infection. Yang Y 외. _Frontiers in medicine_. 2025. [임상시험] [DOI 10.3389/fmed.2025.1531620](https://doi.org/10.3389/fmed.2025.1531620) [PMID 40201322](https://pubmed.ncbi.nlm.nih.gov/40201322/) — Jinghua Weikang 캡슐+아목시실린-푸라졸리돈 병용이 H. pylori 구제 치료에서 임상 근거를 확보.
 [^80]: Clinical efficacy of acupoint application therapy combined with Kangyou Decoction in treating Helicobacter pylori infection with damp-heat syndrome of the middle Jiao. Xie SR 외. _Hereditas_. 2025-08-14. [임상시험] [DOI 10.1186/s41065-025-00533-1](https://doi.org/10.1186/s41065-025-00533-1) [PMID 40813713](https://pubmed.ncbi.nlm.nih.gov/40813713/) — 강유탕+혈위 응용 병용이 중초습열형 H. pylori 감염 치료에 효과적.
 [^81]: Innovative Perspectives of Integrated Chinese Medicine on H. pylori. Ye H 외. _Chinese journal of integrative medicine_. 2018-11. [문헌 고찰] [DOI 10.1007/s11655-017-2934-6](https://doi.org/10.1007/s11655-017-2934-6) [PMID 29882207](https://pubmed.ncbi.nlm.nih.gov/29882207/) — 중의약 통합 관점에서 H. pylori 관리 전략을 개괄.
-[^82]: Potential of traditional Chinese medicine in managing and preventing Helicobacter pylori infection in Chinese military. Liu H 외. _World journal of gastroenterology_. 2025-05-14. [문헌 고찰] [DOI 10.3748/wjg.v31.i18.103754](https://doi.org/10.3748/wjg.v31.i18.103754) [PMID 40496358](https://pubmed.ncbi.nlm.nih.gov/40496358/) — 중의약이 집단생활 환경에서 H. pylori 감염 관리·예방에 활용될 잠재력을 개괄.
+[^82]: Potential of traditional Chinese medicine in managing and preventing Helicobacter pylori infection in Chinese military. Liu H 외. _World journal of gastroenterology_. 2025-05-14. [기타] [DOI 10.3748/wjg.v31.i18.103754](https://doi.org/10.3748/wjg.v31.i18.103754) [PMID 40496358](https://pubmed.ncbi.nlm.nih.gov/40496358/) — 집단생활 환경의 H. pylori 감염 관리·예방에서 중의약의 활용 가능성을 논평 형식으로 제시한 서한(letter).
 [^83]: Treatment strategies and pharmacist-led medication management for Helicobacter pylori infection. Wang YZ 외. _Drug development research_. 2023-04. [문헌 고찰] [DOI 10.1002/ddr.22025](https://doi.org/10.1002/ddr.22025) [PMID 36567647](https://pubmed.ncbi.nlm.nih.gov/36567647/) — 약사 주도 복약관리가 H. pylori 치료 전략에 미치는 영향을 개괄.
 [^84]: Research Progress on Traditional Chinese Medicine Interventions for Helicobacter Pylori. Yizhuo Gao 외. _Journal of Contemporary Medical Practice_. 2026-01-29. [체계적 고찰] [DOI 10.53469/jcmp.2026.08(01).20](https://doi.org/10.53469/jcmp.2026.08(01).20) — 중의약의 H. pylori 중재 연구 동향을 정리한 체계적 고찰.
 [^85]: Microbiota changes with fermented kimchi contributed to either the amelioration or rejuvenation of Helicobacter pylori-associated chronic atrophic gastritis. Park JM 외. _Journal of clinical biochemistry and nutrition_. 2021-07. [임상시험] [DOI 10.3164/jcbn.20-123](https://doi.org/10.3164/jcbn.20-123) [PMID 34376919](https://pubmed.ncbi.nlm.nih.gov/34376919/) — 발효 김치 섭취가 H. pylori 관련 만성 위축성 위염의 개선·회복에 기여할 가능성을 제시.
@@ -474,8 +508,7 @@ NSAIDs 장기 복용 시에는 위점막보호제 병용이 표준이며, 건비
 [^91]: Evaluation of eradication efficacy and optimization strategies for Helicobacter pylori infection based on real-world data: a multivariable retrospective study. He Z 외. _Frontiers in medicine_. 2026. [관찰연구] [DOI 10.3389/fmed.2026.1868250](https://doi.org/10.3389/fmed.2026.1868250) [PMID 42460091](https://pubmed.ncbi.nlm.nih.gov/42460091/) — 실제 임상 데이터 기반 H. pylori 제균 전략 최적화 연구.
 [^92]: Efficacy, Safety, and Mechanism of the Qi-Lian-Xiao-Pi Prescription (WW-1) for Chronic Atrophic Gastritis After Helicobacter Pylori Eradication: Protocol for a Multicenter, Randomized, Double-Blind, Placebo-Controlled Trial. Bai W 외. _JMIR research protocols_. 2026-07-08. [임상시험] [DOI 10.2196/90965](https://doi.org/10.2196/90965) [PMID 42418263](https://pubmed.ncbi.nlm.nih.gov/42418263/) — 기련소비 처방(WW-1)이 H. pylori 제균 후 잔존 만성 위축성 위염에 대한 다기관 위약대조 RCT 프로토콜.
 [^93]: The efficacy of acupuncture combined with Chinese herbal medicine in the treatment of gastric ulcer: A systematic review and meta-analysis. Yi-Fang Liang 외. _Medicine_. 2026-03-13. [메타분석] [DOI 10.1097/md.0000000000047743](https://doi.org/10.1097/md.0000000000047743) — 침+중약 병용이 중약 단독보다 임상 유효율·H. pylori 제균율이 유의하게 높고 재발률이 낮음.
-[^94]: The Metabonomic Studies of Tongue Coating in H. pylori Positive Chronic Gastritis Patients. Liu X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2015. [실험연구] [DOI 10.1155/2015/804085](https://doi.org/10.1155/2015/804085) [PMID 26557866](https://pubmed.ncbi.nlm.nih.gov/26557866/) — 설태 대사체 분석이 H. pylori 양성 만성 위염 환자의 변증 분류와 연관됨을 시사.
-[^95]: TCM differential treatment of 57 cases of chronic gastritis complicated by ulcerative colitis. Meng M. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1999-03. [증례 보고] [PMID 10453577](https://pubmed.ncbi.nlm.nih.gov/10453577/) — 만성 위염과 궤양성 대장염이 병발한 환자에서 중의 변증 차별 치료 경험.
+[^94]: The Metabonomic Studies of Tongue Coating in H. pylori Positive Chronic Gastritis Patients. Liu X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2015. [관찰연구] [DOI 10.1155/2015/804085](https://doi.org/10.1155/2015/804085) [PMID 26557866](https://pubmed.ncbi.nlm.nih.gov/26557866/) — 환자에게서 채취한 설태를 GC/MS로 분석해 H. pylori 감염군과 비감염군 사이에 아미노산 대사 관련 대사체 차이를 확인. 설진 소견을 검체 수준에서 객관화한 근거.
 [^96]: [Blood and urine prostaglandin E2 and prostaglandin F2 alpha in patients with chronic gastritis and peptic ulcer]. Zhang SS 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-09. [관찰연구] [PMID 1298470](https://pubmed.ncbi.nlm.nih.gov/1298470/) — 혈액·소변 PGE2 수치가 비위허약·간위불화·비위습열 변증을 객관적으로 구분하는 지표로 활용될 수 있음.
 [^97]: Efficacy and safety of Si-Jun-Zi-Tang-based therapies for functional (non-ulcer) dyspepsia: a meta-analysis of randomized controlled trials. Wang Y 외. _BMC complementary medicine and therapies_. 2021-01-06. [메타분석] [DOI 10.1186/s12906-020-03176-z](https://doi.org/10.1186/s12906-020-03176-z) [PMID 33407405](https://pubmed.ncbi.nlm.nih.gov/33407405/) — 사군자탕 기반 처방이 비궤양성 기능성 소화불량에서 메타분석 수준의 유효성을 확인.
 [^98]: Antiulcer Activity of Herbal Medicines: A Review of Current Research. Yadav S 외. _Recent advances in anti-infective drug discovery_. 2026-05-12. [문헌 고찰] [DOI 10.2174/0127724344407391251210123216](https://doi.org/10.2174/0127724344407391251210123216) [PMID 42152253](https://pubmed.ncbi.nlm.nih.gov/42152253/) — 다양한 항궤양 활성 본초의 최신 연구를 정리한 문헌 고찰.
@@ -496,10 +529,10 @@ NSAIDs 장기 복용 시에는 위점막보호제 병용이 표준이며, 건비
 [^113]: [Effect of Chinese herbs on expression of aquaporin 3,4 gene in gastric mucosa of patients with Pi-Wei Damp-Heat syndrome]. Chen GX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-03. [임상시험] [PMID 15842135](https://pubmed.ncbi.nlm.nih.gov/15842135/) — 아쿠아포린 3·4 유전자 발현이 비위습열증의 중증도와 상관관계를 보여 변증의 분자적 근거를 제시.
 [^114]: Effect of Weikangfu granule on the physiopathologic figure of precancerosis of gastric mucosa in patients of chronic gastritis with Pi-deficiency syndrome. Yin GY 외. _Chinese journal of integrative medicine_. 2005-12. [임상시험] [DOI 10.1007/BF02835787](https://doi.org/10.1007/BF02835787) [PMID 16417776](https://pubmed.ncbi.nlm.nih.gov/16417776/) — 위강부 과립이 비허증형 위암 전구병변의 병태생리학적 지표를 개선.
 [^115]: [Study on correlation between aquaporin 3, 4 gene expression in gastric mucosa and severity of Pi-Wei damp-heat syndrome in patients with chronic superficial gastritis]. Mei WX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2007-10. [관찰연구] [PMID 17990454](https://pubmed.ncbi.nlm.nih.gov/17990454/) — 아쿠아포린 3·4 유전자 발현이 비위습열증의 중증도와 상관관계를 보임.
-[^116]: Therapeutic effects of the combination of traditional Chinese medicine and western medicine on patients with peptic ulcers. 임상시험, 130명. [PMID 16708818](https://pubmed.ncbi.nlm.nih.gov/16708818/) — 중약+양약 병용이 중약 단독보다 소화성궤양 증상·증후군 개선에 우수.
+[^116]: [Therapeutic effects of the combination of traditional Chinese medicine and western medicine on patients with peptic ulcers]. Zhou B 외. _Zhong nan da xue xue bao. Yi xue ban = Journal of Central South University. Medical sciences_. 2005-12. [임상시험] [PMID 16708818](https://pubmed.ncbi.nlm.nih.gov/16708818/) — 소화성궤양 환자 120명을 6군으로 무작위 배정하고 내시경 음성 대조 10명을 별도로 둔 연구. Jianwei Yuyang 과립과 라니티딘 병용군이 양약 단독군보다 증상·증후 개선에서 우수했으나 궤양 치유율·H. pylori 제균율은 군 간 유의한 차이가 없었고, MUC5AC mRNA 상향·ETAR mRNA 하향 조절이 기전으로 제시되었다.
 [^117]: A Case Report of Integrative Korean Medicine Treatment for Functional Dyspepsia Persisting After Complete Healing of Gastric Ulcer. _Journal of Internal Korean Medicine_. 2025. [증례 보고] [DOI 10.22246/jikm.2025.46.6.1691](https://doi.org/10.22246/jikm.2025.46.6.1691) — 위궤양 완치 후에도 지속되는 기능성 소화불량에 한약·침·추나 통합 치료가 증상·삶의 질을 개선한 증례.
 [^118]: The course of peptic ulcer in relation to patients' constitution. 2001. [관찰연구] [PMID 11510186](https://pubmed.ncbi.nlm.nih.gov/11510186/) — 체질 분류가 소화성궤양의 경과와 출혈·천공 등 합병증 발생 위험 예측에 유용.
 [^119]: The efficacy and safety of Acupoint herbal patching in treating peptic ulcer: protocol for a systematic review and meta-analysis. 2024. [체계적 고찰] [DOI 10.1101/2024.09.21.24314138](https://doi.org/10.1101/2024.09.21.24314138) — 혈위 약물 패치의 소화성궤양 유효성·안전성을 평가하는 체계적 고찰·메타분석 프로토콜.
 [^120]: Bioactive compounds of Glycyrrhiza glabra and their functional role in modulating gut inflammation and intestinal homeostasis. _Inflammopharmacology_. 2026. [문헌 고찰] [DOI 10.1007/s10787-026-02301-7](https://doi.org/10.1007/s10787-026-02301-7) [PMID 42371378](https://pubmed.ncbi.nlm.nih.gov/42371378/) — 감초의 생리활성 성분이 장 염증 조절과 점막 항상성 유지에 기여하는 기전을 정리.
-[^121]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. _Frontiers in Medicine_. 2026. [메타분석] [DOI 10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753) — 중성약+4제요법 병용이 만성 위축성 위염의 제균율·위점막 지표 개선에 긍정적 효과.
+[^121]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. Han D 외. _Frontiers in Medicine_. 2026. [메타분석] [DOI 10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753) — 경구 중성약과 4제요법 병용이 만성 위축성 위염의 제균율·위점막 지표 개선에 긍정적 효과를 보임을 네트워크 메타분석으로 비교.
 [^122]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: a systematic review and meta-analysis. _J Ethnopharmacol_. 2025. [메타분석] [DOI 10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414) [PMID 40812557](https://pubmed.ncbi.nlm.nih.gov/40812557/) — 육군자탕이 위축성 위염의 증상·삶의 질 개선에 안전하고 유효함을 확인한 메타분석.
