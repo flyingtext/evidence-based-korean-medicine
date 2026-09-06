@@ -486,7 +486,7 @@
 
 [^34]: Clinical Search for Undiagnosed Mesenteric Phlebosclerosis at Outpatient Departments Specializing in Herbal (Kampo) Medicine. _Internal medicine (Tokyo, Japan)_. 2016-03-15. [관찰연구] [DOI 10.2169/internalmedicine.55.5642](https://doi.org/10.2169/internalmedicine.55.5642) [PMID 26984071](https://pubmed.ncbi.nlm.nih.gov/26984071/) — 한방 외래에서 미진단 사례를 능동적으로 탐색해 실제 유병이 과소평가되었을 가능성을 제기한다.
 
-[^35]: Adverse Events Associated with Ethical Kampo Formulations: Analysis of the Domestic Adverse-Event Data Reports of the Ministry of Health, Labor, and Welfare in Japan. Yutaka Shimada 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-04-15. [관찰연구] [DOI 10.1155/2019/1643804](https://doi.org/10.1155/2019/1643804) [PMID 31118950](https://pubmed.ncbi.nlm.nih.gov/31118950/) — 국가 보고 체계 기반의 한방 제제 이상사례 분포를 제시한다.
+[^35]: Adverse Events Associated with Ethical Kampo Formulations: Analysis of the Domestic Adverse-Event Data Reports of the Ministry of Health, Labor, and Welfare in Japan. Shimada Y 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-04-15. [관찰연구] [DOI 10.1155/2019/1643804](https://doi.org/10.1155/2019/1643804) [PMID 31118950](https://pubmed.ncbi.nlm.nih.gov/31118950/) — 국가 보고 체계 기반의 한방 제제 이상사례 분포를 제시한다.
 
 [^36]: [Analysis on composition principles of formulae containing Gardeniae Fructus in dictionary of traditional Chinese medicine prescriptions]. Hu YZ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2016-04. [문헌 고찰] [DOI 10.4268/cjcmm20160729](https://doi.org/10.4268/cjcmm20160729) [PMID 28879753](https://pubmed.ncbi.nlm.nih.gov/28879753/) — 치자 함유 처방 3,523방을 통계 분석해 청열해독·거풍해표·활혈거어 계열과의 배오 경향을 실증한 배오 근거의 중심 자료.
 
