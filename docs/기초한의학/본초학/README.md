@@ -15,7 +15,7 @@
 - 강활(羌活, Notopterygii Rhizoma) — **작성됨**
 - 백지(白芷, Angelicae Dahuricae Radix)
 - 방풍(防風, Saposhnikoviae Radix)
-- 고본(藁本, Ligustici Rhizoma) — **작성됨**
+- 고본(藁本, Ligustici Tenuissimi Rhizoma et Radix) — **작성됨**
 - 신이(辛夷, Magnoliae Flos) — **작성됨**
 - 세신(細辛, Asarum)
 - 생강(生薑, Zingiberis Rhizoma Crudus) — **작성됨**
@@ -70,7 +70,7 @@
 - 서각/수우각(犀角/水牛角, Bubali Cornu) — **작성됨**
 - 지황(地黃, Rehmanniae Radix) — 생지황·숙지황 하위 표제어 포함 **작성됨** (겸: 보혈약)
 - 현삼(玄蔘, Scrophulariae Radix) — 명칭이 유사한 현호색(玄胡索)·연호색(延胡索)과 혼동 주의 **작성됨**
-- 목단피(牡丹皮, Moutan Cortex)
+- 목단피(牡丹皮, Moutan Radicis Cortex)
 - 적작약(赤芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨**
 - 자초(紫草, Lithospermi Radix) — **작성됨**
 
@@ -139,7 +139,7 @@
 
 ### 4-1. 거풍습지비통약(祛風濕止痺痛藥)
 
-- 독활(獨活, Angelicae Pubescentis Radix)
+- 독활(獨活, Araliae Continentalis Radix)
 - 위령선(威靈仙, Clematidis Radix) — (작성 예정)
 - 방기(防己, Stephaniae Tetrandrae Radix) — (작성 예정)
 - 진교(秦艽, Gentianae Macrophyllae Radix) — (작성 예정)
@@ -224,9 +224,9 @@
 
 ## 8. 이기약(理氣藥, Qi-Regulating Herbs)
 
-- 진피(陳皮, Citri Reticulatae Pericarpium)
+- 진피(陳皮, Citri Unshius Pericarpium)
 - 청피(靑皮, Citri Reticulatae Viride Pericarpium) — (작성 예정)
-- 지실(枳實, Aurantii Fructus Immaturus)
+- 지실(枳實, Ponciri Fructus Immaturus)
 - 지각(枳殼, Aurantii Fructus) — (작성 예정)
 - 목향(木香, Aucklandiae Radix) — (작성 예정)
 - 향부자(香附子, Cyperi Rhizoma)
@@ -297,7 +297,7 @@
 - 천궁(川芎, Cnidii Rhizoma)
 - 유향(乳香, Olibanum) — (작성 예정)
 - 몰약(沒藥, Myrrha) — (작성 예정)
-- 현호색(延胡索, Corydalis Rhizoma)
+- 연호색(延胡索, Corydalis Tuber)
 - 울금(鬱金, Curcumae Radix) — (작성 예정)
 - 강황(薑黃, Curcumae Longae Rhizoma) — (작성 예정)
 - 아출(莪朮, Curcumae Rhizoma) — (작성 예정)
