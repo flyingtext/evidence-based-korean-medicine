@@ -172,7 +172,7 @@ PCI 후 재관류 손상 — 무반류(no-reflow)·느린 흐름(slow flow) — 
 
 ### 2. 내장기 수술 후 허혈-재관류 — 위장관·간
 
-수술 후 위장관 기능 회복은 허혈-재관류 손상의 회복 과정이다. 산과 수술 후 위장관 기능 회복에서 전침이 유효한 메타분석[^36], 침이 대장암 절제술 후 회복에 유효한 메타분석[^146], 침·뜸이 위절제술 후 위장관 기능 회복에 유효한 메타분석[^146]은 침구가 수술 후 위장관 **허혈-재관류 손상의 회복**에 기여할 수 있음을 시사한다. 부정화어(扶正化瘀)가 간섬유화·간경변에 유효한 메타분석[^43]은 간 손상-회복 축에서 부정(보)+화어(공) 병행이 유효함을 시사한다.
+수술 후 위장관 기능 회복은 허혈-재관류 손상의 회복 과정이다. 산과 수술 후 위장관 기능 회복에서 전침이 유효한 메타분석[^36], 침이 대장암 절제술 후 회복에 유효한 메타분석[^118], 경혈 자극이 위절제술 후 위장관 기능 회복에 유효한 메타분석[^119]은 침구가 수술 후 위장관 **허혈-재관류 손상의 회복**에 기여할 수 있음을 시사한다. 부정화어(扶正化瘀)가 간섬유화·간경변에 유효한 메타분석[^43]은 간 손상-회복 축에서 부정(보)+화어(공) 병행이 유효함을 시사한다.
 
 ### 3. 말초혈관 허혈-재관류 — 동맥경화성 폐색
 
@@ -464,3 +464,7 @@ PCI 후 재관류 손상 — 무반류(no-reflow)·느린 흐름(slow flow) — 
 [^104]: Interactions between clopidogrel and traditional Chinese medicine.. Hu Y 외. _Journal of thrombosis and thrombolysis_. 2019-10. [체계적 고찰] [DOI 10.1007/s11239-019-01945-3](https://doi.org/10.1007/s11239-019-01945-3) [PMID 31471773](https://pubmed.ncbi.nlm.nih.gov/31471773/) — 상호작용이 존재한다. 일부 본초(당귀, 갈근 등)는 클로피도그렐의 AUC나 Cmax를 높이는 반면, 단삼이나 은행 등은 이를 낮추거나 활성 대사체 농도를 변화시킨다. 약역학적으로 삼칠(Panax notoginseng) 등은 항혈소판 활성을 증가시키지만, 단삼은 혈소판 억제 효과를 감소시키며, 특히 당귀는 출혈 시간을 연장시켜 부작용을...
 
 [^117]: Combination of Astragalus membranaceus and Panax notoginseng as Main Components in the Treatment of Diabetic Nephropathy: A Systematic Review and Meta‐Analysis. Xiaoning An 외. _Evidence-Based Complementary and Alternative Medicine_. 2023-01. [메타분석, 1342명] [DOI 10.1155/2023/2945234](https://doi.org/10.1155/2023/2945234) — 황기와 삼칠의 조합 치료는 대조군에 비해 임상 유효율을 유의하게 높였으며, UAER, 24시간 요단백, 혈청 크레아티닌, BUN, 당화혈색소 및 혈중 지질 수치를 유의하게 개선하여 당뇨병성 신증의 진행을 늦추는 효과가 있었다.
+
+[^118]: Acupuncture and Related Therapies for Treatment of Postoperative Ileus in Colorectal Cancer: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Liu Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2018. [메타분석, 1628명] [DOI 10.1155/2018/3178472](https://doi.org/10.1155/2018/3178472) [PMID 30151019](https://pubmed.ncbi.nlm.nih.gov/30151019/) — 대장암 절제술을 받은 성인 1,628명을 다룬 22편의 무작위 대조시험을 종합한 결과, 침 및 관련 요법이 수술 후 장폐색에서 첫 배변까지의 시간을 유의하게 단축시켰으며 이 효과는 거짓침 대조 연구에서도 확인되었다. 수술로 인한 장관 허혈-재관류 후 기능 회복을 앞당기는 보조 중재로 고려할 수 있다.
+
+[^119]: Effect of Acupoint Stimulation on Improving Gastrointestinal Motility in Patients After Gastrectomy: A Systematic Review and Meta-Analysis. Cheng YL 외. _Journal of integrative and complementary medicine_. 2023-11. [메타분석, 785명] [DOI 10.1089/jicm.2022.0752](https://doi.org/10.1089/jicm.2022.0752) [PMID 37379490](https://pubmed.ncbi.nlm.nih.gov/37379490/) — 위절제술을 받은 환자 785명을 포함한 6편의 무작위 대조시험을 종합한 결과, 침습적·비침습적 경혈 자극(침·전기경혈자극·지압 등)이 모두 수술 후 위장관 운동 정지 시간을 단축시켰다. 위 수술 후 허혈-재관류에 뒤따르는 위장관 기능 회복 과정에서 경혈 자극을 표준 회복 프로토콜에 병용할 근거가 된다.

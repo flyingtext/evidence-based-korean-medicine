@@ -407,7 +407,7 @@ COPD 급성 악화에서 SPG7 단백질이 mPTP의 일시적 개방(mitochondria
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
-설담이 혈허의 지표라는 정량 설진 연구(수면장애 고령자군에서 설질이 정상군보다 유의하게 창백) [^PMID_24868237]는 설진이 손상 단계의 간접 지표로 활용될 수 있음을 시사한다. 다만 설담 하나를 비가역성의 대리 지표로 사용할 수는 없으며, 설·맥·증상군·객관검사를 종합해야 한다.
+설담이 혈허의 지표라는 정량 설진 연구(수면장애 고령자군에서 설질이 정상군보다 유의하게 창백) [^tongue_sleep_disorder]는 설진이 손상 단계의 간접 지표로 활용될 수 있음을 시사한다. 다만 설담 하나를 비가역성의 대리 지표로 사용할 수는 없으며, 설·맥·증상군·객관검사를 종합해야 한다.
 
 ---
 
@@ -661,5 +661,7 @@ COPD 급성 악화에서 SPG7 단백질이 mPTP의 일시적 개방(mitochondria
 [^1089_acup_acute_stroke]: Acupuncture for a first episode of acute ischaemic stroke: an observer-blinded randomised controlled pilot study.. Liu CH 외. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2016-10. [임상시험, 38명] [DOI 10.1136/acupmed-2015-010825](https://doi.org/10.1136/acupmed-2015-010825) [PMID 27095698](https://pubmed.ncbi.nlm.nih.gov/27095698/) — 급성 허혈성 뇌졸중 환자에게 발병 72시간 이내에 시행한 조기 침 치료는 안전성이 확인되었으며, 소규모 예비 연구 결과 NIHSS 점수의 조기 감소 경향과 FMA 점수의 개선 가능성을 보였다. 비록 본 연구에서는 통계적 유의성에 도달하지 못했으나, 향후 더 큰 표본을 대상으로 한 임상 시험을 통해 조기 침 치료가 환자의 기능적 회복을 앞당길 수 있는지 추가 검증이 필요하다.
 
 [^1139_tongxinluo_stroke]: [Clinical study of super crush-run Tongxinluo capsule on treatment of stroke].. Wu YL 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2007-09. [임상시험, 144명] [PMID 18051910](https://pubmed.ncbi.nlm.nih.gov/18051910/) — 초미분 통심락 캡슐(SCTXLC)은 기허혈어형 뇌졸중 회복기 환자에게 사용 시 기존 일반분 제형과 비교하여 비열등한 치료 효과와 양호한 안전성을 보인다. 따라서 임상적으로 뇌졸중 환자의 회복을 돕기 위해 초미분 제형의 통심락 캡슐을 고려할 수 있다.
+
+[^tongue_sleep_disorder]: Color distribution differences in the tongue in sleep disorder. Jung CJ 외. _Evidence-based complementary and alternative medicine : eCAM_. 2014-04-28. [관찰연구, 454명] [DOI 10.1155/2014/323645](https://doi.org/10.1155/2014/323645) [PMID 24868237](https://pubmed.ncbi.nlm.nih.gov/24868237/) — 뚜렷한 질환이 없는 고령자 454명을 정상군(402명)과 수면장애군(52명)으로 나누어 설 영상의 색 분포를 정량 분석한 결과, 수면장애군의 설질이 정상군보다 유의하게 창백하고 설태 분포는 더 넓었다. 이는 설담(舌淡)이 기혈허(氣血虛)를 반영한다는 전통 설진 소견이 정량 지표로 재현될 수 있음을 시사하며, 설진을 손상 단계의 보조 지표로 활용할 근거가 된다.
 
 [^1349_scalp_acup_meta]: Scalp acupuncture for acute ischemic stroke: a meta-analysis of randomized controlled trials.. Wang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2012. [메타분석, 538명] [DOI 10.1155/2012/480950](https://doi.org/10.1155/2012/480950) [PMID 23258988](https://pubmed.ncbi.nlm.nih.gov/23258988/) — 두피침(Scalp Acupuncture)은 급성 허혈성 뇌졸중 환자에게 양방 표준 치료와 병행하거나 비교했을 때 신경학적 결손 점수를 개선하고 임상적 유효율을 높이는 데 효과적일 수 있습니다. 다만, 포함된 연구들의 방법론적 질이 낮아 효과가 과대평가되었을 가능성이 있으므로, 실제 임상 적용 시에는 최신 근거와 환자 상태를 종합적으로 고려해야 하며 추가적인 고품질 연구 결과가 필요합니다.
