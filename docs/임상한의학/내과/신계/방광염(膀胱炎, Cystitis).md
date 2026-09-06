@@ -37,7 +37,7 @@
 | 대사·면역 요인 | 당뇨병(특히 SGLT2 억제제 복용), 임신, 면역저하[교과서적 근거][^8] |
 | 의료기구 관련 요인 | 유치도관, 요관 스텐트, 방광 내 화학요법(젬시타빈 등)[^9] |
 | 신경학적 요인 | 척수손상, 뇌졸중, 신경인성 방광[^10] |
-| 약물 관련 요인 | 방풍통성산·욕귀인탕 등 한약 제제, 면역관문억제제, SGLT2 억제제[^11][^12][^13][^8] |
+| 약물 관련 요인 | 방풍통성산·의이인탕(薏苡仁湯) 등 한약 제제, 면역관문억제제, SGLT2 억제제[^11][^12][^13][^8] |
 
 > 이 표는 위험인자 분류의 개괄 틀이며 개별 환자의 병력을 종합하여 위험도를 평가해야 한다.
 
@@ -181,7 +181,7 @@
 | 과민성 방광(OAB) | 요절박·빈뇨는 유사하나 통증이 경미, 배양 음성 | 얼음물 검사로 배뇨근 반사 수축 여부 감별 가능[^62] |
 | 간질성 방광염/방광통증증후군 | 방광 충만 시 악화, 배뇨 후 완화되는 만성 통증(6주 이상), 배양 음성 | 방광경·수압팽창술로 헌너 병변 확인[^1] |
 | 루푸스 방광염(Lupus Cystitis) | 전신성 홍반성 루푸스 병력, 무증상 양측 수신증·방광벽 비후 | 루푸스 장간막 혈관염 병력이 강력한 위험 요인[^74][^75] |
-| 약물 유발성 방광염 | 한약(방풍통성산·욕귀인탕 등)·면역관문억제제·SGLT2 억제제 복용력 | 약물 중단 후 증상 호전 여부로 확인[^11][^12][^13][^8] |
+| 약물 유발성 방광염 | 한약(방풍통성산·의이인탕(薏苡仁湯) 등)·면역관문억제제·SGLT2 억제제 복용력 | 약물 중단 후 증상 호전 여부로 확인[^11][^12][^13][^8] |
 | 기종성 방광염(Emphysematous Cystitis) | 당뇨병, CT상 방광벽 내 가스, 패혈증 진행 가능 | 응급 항생제·배액이 필요한 red flag[^70] |
 | 방광암·요로상피암 | 무통성 육안적 혈뇨, 고령·흡연력 | 지속 증상 시 방광경으로 배제 |
 | 자궁내막증 | 방광통과 골반통 중첩, 월경 주기와의 연관성 | 복강경·방광경 동시 시행이 감별에 유용[^76] |
@@ -440,7 +440,7 @@
 - NCCR(비부호화 조절 영역) 재배열은 바이러스성 신병증·악성 종양과 관련될 수 있으나 발병의 필수 조건은 아니다[^147].
 - 방광 내 화학요법제(젬시타빈)는 지속성 여포성 방광염을 유발할 수 있고[^9], 면역관문억제제(PD-1/PD-L1, CTLA-4 억제제)는 면역 매개성 방광염을 유발할 수 있다[^13][^148][^149][^150].
 - SGLT2 억제제(이프라글리플로진 등)도 생식기 칸디다증과 함께 방광염 위험을 높일 수 있다[^8].
-- 한약 제제 중 방풍통성산[^11], 욕귀인탕 관련 복합 처방[^12], 청심보허탕(호산구성 방광염)[^151] 복용과 관련된 약물 유발성 방광염 증례가 보고된다.
+- 한약 제제 중 방풍통성산[^11], 의이인탕(薏苡仁湯, 요쿠이닌토) 포함 복합 처방[^12], 청심보허탕(호산구성 방광염)[^151] 복용과 관련된 약물 유발성 방광염 증례가 보고된다.
 
 ④ **치료**
 
@@ -679,7 +679,7 @@
 | 위험 | 내용 | 참고 |
 |---|---|---|
 | 방풍통성산 관련 약물 유발성 방광염 | 무균성 농뇨·배뇨통 동반 알레르기성 방광염 | [^11] |
-| 욕귀인탕 관련 복합 처방 | 원인 불명 혈뇨·방광 자극 증상 | [^12] |
+| 의이인탕(薏苡仁湯, 요쿠이닌토) 포함 복합 처방 | 원인 불명 혈뇨·방광 자극 증상 | [^12] |
 | 청심보허탕 관련 호산구성 방광염 | 호산구 수치 상승 동반 방광 자극 증상 | [^151] |
 | 면역관문억제제(PD-1/PD-L1, CTLA-4) 병용 | 면역 매개성 방광염, 중등도 이상 시 고용량 스테로이드 필요 | [^13][^150] |
 | SGLT2 억제제 병용 | 생식기 칸디다증, 방광염 위험 증가 | [^8] |
@@ -825,7 +825,7 @@ SGLT2 억제제는 생식기 칸디다증과 함께 방광염 위험을 높일 �
 [^9]: Persistent follicular cystitis following intravesical gemcitabine: a case series and literature review. Wu Q 외. _BMC cancer_. 2026-04-29. [증례 보고, 2명] [DOI 10.1186/s12885-026-16097-w](https://doi.org/10.1186/s12885-026-16097-w) [PMID 42050475](https://pubmed.ncbi.nlm.nih.gov/42050475/) — 방광 내 젬시타빈 주입 후 드물게 발생하는 지속성 여포성 방광염은 무균성 농뇨와 여포성 방광 점막 변화를 특징으로 하며, 보존적 치료에 반응하지 않을 수 있다.
 [^10]: Acupuncture treatment and the risk of urinary tract infection in stroke patients: a nationwide matched cohort study. Yang JL 외. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2019-06. [관찰연구, 19286명] [DOI 10.1177/0964528419834017](https://doi.org/10.1177/0964528419834017) [PMID 31032620](https://pubmed.ncbi.nlm.nih.gov/31032620/) — 뇌졸중 환자에게 시행한 침(鍼, acupuncture) 치료가 요로감염(UTI)의 발생 위험을 낮추는 것과 연관이 있음을 시사한다.
 [^11]: Drug-induced cystitis caused by herbal medicine (Bofutsushosan). Kato K 외. _Urology case reports_. 2021-09. [증례 보고, 1명] [DOI 10.1016/j.eucr.2021.101644](https://doi.org/10.1016/j.eucr.2021.101644) [PMID 33850729](https://pubmed.ncbi.nlm.nih.gov/33850729/) — 방풍통성산(防風通聖散) 복용 중 무균성 농뇨와 배뇨통을 동반한 알레르기성 방광염이 발생할 수 있음을 시사한다.
-[^12]: A Case of Drug-Induced Cystitis Associated With a Multicomponent Herbal Formulation Involving Yokuinin-To. Bando T 외. _Cureus_. 2026-06. [증례 보고, 1명] [DOI 10.7759/cureus.110922](https://doi.org/10.7759/cureus.110922) [PMID 42460224](https://pubmed.ncbi.nlm.nih.gov/42460224/) — 본 사례는 일본 캄포 제제인 욕귀인탕 관련 복합 처방 복용 후 발생한 약물 유발성 방광염의 가능성을 시사한다.
+[^12]: A Case of Drug-Induced Cystitis Associated With a Multicomponent Herbal Formulation Involving Yokuinin-To. Bando T 외. _Cureus_. 2026-06. [증례 보고, 1명] [DOI 10.7759/cureus.110922](https://doi.org/10.7759/cureus.110922) [PMID 42460224](https://pubmed.ncbi.nlm.nih.gov/42460224/) — 본 사례는 일본 캄포 제제인 의이인탕(薏苡仁湯, 요쿠이닌토) 포함 복합 처방 복용 후 발생한 약물 유발성 방광염의 가능성을 시사한다.
 [^13]: Association between immune-mediated cystitis and PD-1, PD-L1, CTLA-4, and LAG-3 immune checkpoint inhibitors: A pharmacovigilance study from the FAERS database. Frey C. _Urologia_. 2026-08. [관찰연구, 69명] [DOI 10.1177/03915603261446420](https://doi.org/10.1177/03915603261446420) [PMID 42059249](https://pubmed.ncbi.nlm.nih.gov/42059249/) — 면역관문억제제(ICI) 사용 시 면역 매개성 방광염이 드물지만 임상적으로 중요한 부작용으로 나타나며, 특히 PD-1 억제제(Pembrolizumab, Nivolumab 등)와 CTLA-4 억제제(Ipilimumab)에서 강한 연관성이 확인되었다.
 [^14]: Nationwide surveillance of bacterial pathogens from patients with acute uncomplicated cystitis conducted by the Japanese surveillance committee during 2009 and 2010: antimicrobial susceptibility of Escherichia coli and Staphylococcus saprophyticus. Hayami H 외. _Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy_. 2013-06. [관찰연구, 461명] [DOI 10.1007/s10156-013-0606-9](https://doi.org/10.1007/s10156-013-0606-9) [PMID 23640203](https://pubmed.ncbi.nlm.nih.gov/23640203/) — 일본 여성의 급성 단순 방광염에서 대장균(E.
 [^15]: Second nationwide surveillance of bacterial pathogens in patients with acute uncomplicated cystitis conducted by Japanese Surveillance Committee from 2015 to 2016: antimicrobial susceptibility of Escherichia coli, Klebsiella pneumoniae, and Staphylococcus saprophyticus. Hayami H 외. _Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy_. 2019-06. [관찰연구, 361명] [DOI 10.1016/j.jiac.2019.02.021](https://doi.org/10.1016/j.jiac.2019.02.021) [PMID 30905628](https://pubmed.ncbi.nlm.nih.gov/30905628/) — 일본 가임기 여성의 급성 단순 방광염 원인균인 대장균(E.
