@@ -47,7 +47,7 @@
 
 ## 경혈/처방 연관
 
-- 약재/처방: 산사는 진피(陳皮, Citri Reticulatae Pericarpium)·맥아(麥芽)·신곡(神麴)·복령(茯苓, Poria) 등과 배합되어 소식화적 처방에 쓰이며, 단삼(丹蔘, Salvia miltiorrhiza)·하수오(何首烏, Polygonum multiflorum) 등과 배합되어 이상지질혈증·어혈 변증 처방에 흔히 조합된다.[^13][^14][^32]
+- 약재/처방: 산사는 진피(陳皮, Citri Unshius Pericarpium)·맥아(麥芽)·신곡(神麴)·복령(茯苓, Poria) 등과 배합되어 소식화적 처방에 쓰이며, 단삼(丹蔘, Salvia miltiorrhiza)·하수오(何首烏, Polygonum multiflorum) 등과 배합되어 이상지질혈증·어혈 변증 처방에 흔히 조합된다.[^13][^14][^32]
 - 경혈: 산사를 포함한 소식·활혈 치료와 족삼리(足三里, ST36)·중완(中脘, CV12)·천추(天樞, ST25) 등 소화기 경혈 자극을 병행하는 임상 적용이 가능하다.
 
 ---
