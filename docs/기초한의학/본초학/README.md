@@ -294,7 +294,7 @@
 
 ## 12. 활혈거어약(活血祛瘀藥, Blood-Invigorating Stasis-Dispelling Herbs)
 
-- 천궁(川芎, Ligusticum chuanxiong)
+- 천궁(川芎, Cnidii Rhizoma)
 - 유향(乳香, Olibanum) — (작성 예정)
 - 몰약(沒藥, Myrrha) — (작성 예정)
 - 현호색(延胡索, Corydalis Rhizoma)
