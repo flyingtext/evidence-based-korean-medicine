@@ -79,7 +79,7 @@
 
 ### 7. 가감 처방의 임상 적용
 
-기음양허(氣陰兩虛) 증상을 보이는 말기 폐암 환자의 기침 치료에 맥문동탕이 암브록솔(ambroxol)보다 유의하게 높은 치료 효과를 보였다[^13][^14]. 이기양음해독탕(益氣養陰解毒湯)이 진행성 비소세포폐암 환자의 기음양허증을 유의하게 개선하고, 단독 또는 화학요법 병용 시 전신 수행능력(KPS)과 삶의 질을 개선하며 세포 매개 면역력을 강화하는 기전이 확인되었다[^26]. EGFR 변이 양성 진행성 비소세포폐암 환자에게 3세대 표적 치료제(오시머티닙)와 익기양음해독탕을 병용하는 다기관 이중맹검 임상시험 프로토콜이 진행 중이다[^28][^29].
+기음양허(氣陰兩虛) 증상을 보이는 말기 폐암 환자의 기침 치료에 맥문동탕이 암브록솔(ambroxol)보다 유의하게 높은 치료 효과를 보였다[^13][^14]. 익기양음해독탕(益氣養陰解毒湯)이 진행성 비소세포폐암 환자의 기음양허증을 유의하게 개선하고, 단독 또는 화학요법 병용 시 전신 수행능력(KPS)과 삶의 질을 개선하며 세포 매개 면역력을 강화하는 기전이 확인되었다[^26]. EGFR 변이 양성 진행성 비소세포폐암 환자에게 3세대 표적 치료제(오시머티닙)와 익기양음해독탕을 병용하는 다기관 이중맹검 임상시험 프로토콜이 진행 중이다[^28][^29].
 
 가감맥문동탕은 지속성 경증·중등도 알레르기 천식에서 위약 대비 FEV1을 유의하게 증가시키고 증상 점수를 개선했으며, 간·신장 기능에 영향이 없어 안전하였다[^3]. 비특이적 만성 기침 환자를 대상으로 맥문동탕의 유효성·안전성·경제성을 생맥산과 비교하는 이중맹검 무작위대조시험 프로토콜도 등록되어 있다[^20], 이는 기음양허 겸증의 비중에 따라 생맥산 병용·합방을 고려하는 임상 패턴을 보여준다.
 
@@ -129,11 +129,11 @@
 
 ### 15. 폐암·항암 보조 요법군
 
-기음양허(氣陰兩虛) 증상을 보이는 말기 폐암 환자의 기침 치료에 맥문동탕이 암브록솔(ambroxol)보다 유의하게 높은 치료 효과를 보였다(임상시험, 60명)[^13][^14]. 중기·말기 폐암 치료에서 '중초허혈어(中焦虛血瘀)' 이론을 적용해 비위(脾胃) 기능을 회복시켜 폐를 보호하는 '건토보금(健土補金)' 전략을 기본으로 하며, 음액(陰液) 부족 시 맥문동탕과 백합고금탕을 사용한다(증례, 1례)[^18]. 진행성 비소세포폐암 환자에게 이기양음해독탕(益氣養陰解毒湯)이 기음양허증을 유의하게 개선하고, 단독 또는 화학요법 병용 시 전신 수행능력(KPS)과 삶의 질을 개선하며 세포 매개 면역력을 강화하는 기전이 확인되었다(임상시험, 60명)[^26].
+기음양허(氣陰兩虛) 증상을 보이는 말기 폐암 환자의 기침 치료에 맥문동탕이 암브록솔(ambroxol)보다 유의하게 높은 치료 효과를 보였다(임상시험, 60명)[^13][^14]. 중기·말기 폐암 치료에서 '중초허혈어(中焦虛血瘀)' 이론을 적용해 비위(脾胃) 기능을 회복시켜 폐를 보호하는 '건토보금(健土補金)' 전략을 기본으로 하며, 음액(陰液) 부족 시 맥문동탕과 백합고금탕을 사용한다(증례, 1례)[^18]. 진행성 비소세포폐암 환자에게 익기양음해독탕(益氣養陰解毒湯)이 기음양허증을 유의하게 개선하고, 단독 또는 화학요법 병용 시 전신 수행능력(KPS)과 삶의 질을 개선하며 세포 매개 면역력을 강화하는 기전이 확인되었다(임상시험, 60명)[^26].
 
 비소세포폐암 화학요법 병용 한약의 삶의 질 개선 효과가 체계적 고찰에서 확인되었으며[^15_lc], 10종의 중약 주사제와 GP 화학요법 병용 효과를 비교한 메타분석[^16_lc], 캉류쩡샤오탕(康瘤增效湯) 병용 임상관찰[^17_lc], 화학요법 병용 중의학 유지요법 임상시험[^18_lc][^19_lc], 표준화 한약 처방의 진행성 폐암 적용 연구[^20_lc], 백금 기반 화학요법 병용 한약 치료 연구[^21_lc] 등이 폐암 영역의 근거를 뒷받침한다. EGFR 변이 양성 진행성 비소세포폐암에서 오시머티닙과 익기양음해독탕을 병용하는 이중맹검 무작위대조시험 프로토콜(CATLA-2)이 다수 등록되어 있다[^28][^29][^30].
 
-> **변증 없는 관행적 처방은 근거에 부합하지 않는다.** 폐암 기침이라도 기음양허·담습·어혈 등 변증에 따라 맥문동탕·이기양음해독탕·백합고금탕을 감별하여 적용해야 하며, 항암 표준 치료를 대체하지 않고 보조 요법으로 병용해야 한다[^13][^26].
+> **변증 없는 관행적 처방은 근거에 부합하지 않는다.** 폐암 기침이라도 기음양허·담습·어혈 등 변증에 따라 맥문동탕·익기양음해독탕·백합고금탕을 감별하여 적용해야 하며, 항암 표준 치료를 대체하지 않고 보조 요법으로 병용해야 한다[^13][^26].
 
 ### 16. 코로나19 후유증·호흡기 감염군
 
@@ -256,7 +256,7 @@ COPD 고령 환자의 기침 강도(VAS)를 유의하게 감소시키는 효과�
 
 **Q5. 폐암 환자의 기침에도 쓸 수 있나?**
 
-기음양허형 말기 폐암 기침에 맥문동탕이 암브록솔보다 유의하게 높은 치료 효과를 보였다는 임상시험이 있다[^13]. 이기양음해독탕 등 가감방은 항암제(오시머티닙 등)와 병용하는 임상시험이 진행되고 있다[^26][^28]. 항암 표준 치료를 대체하지 않고 기력·면역 보조 목적으로 병용하는 것이 원칙이다.
+기음양허형 말기 폐암 기침에 맥문동탕이 암브록솔보다 유의하게 높은 치료 효과를 보였다는 임상시험이 있다[^13]. 익기양음해독탕 등 가감방은 항암제(오시머티닙 등)와 병용하는 임상시험이 진행되고 있다[^26][^28]. 항암 표준 치료를 대체하지 않고 기력·면역 보조 목적으로 병용하는 것이 원칙이다.
 
 **Q6. 코로나19 후유증 마른기침에 맥문동탕을 쓸 수 있나?**
 
@@ -298,7 +298,7 @@ COPD 고령 환자의 기침 강도(VAS)를 유의하게 감소시키는 효과�
 [^21]: A Case Report of Suspected Achalasia Re-evaluated as Gastroesophageal Reflux Disease Following Korean Medical Treatment. _The Journal of Internal Korean Medicine_. 2025-08-31. [증례 보고, 1례] [DOI 10.22246/jikm.2025.46.4.1005](https://doi.org/10.22246/jikm.2025.46.4.1005) — 만성 기침 감별 진단에서 식도이완불능증 오진 가능성을 보여준 증례.
 [^22]: Estimated incidence of adverse reactions to Kampo medicines in randomized controlled clinical trials. Ichiro Arai 외. _Traditional & Kampo Medicine_. 2018-07-19. [체계적 고찰, 20,340명] [DOI 10.1002/tkm2.1200](https://doi.org/10.1002/tkm2.1200) — 캄포 의약품 무작위대조시험의 이상반응 발생률 체계적 평가, 맥문동탕 포함 처방의 안전성 모니터링 근거.
 [^23]: Effectiveness and safety of Liriope Tuber (Liriopis seu Ophiopogonis Tuber, Maidong) included traditional herbal medicine for patients with paroxysmal atrial fibrillation: A systematic review, meta-analysis, and network analysis. Jin H 외. _Integrative medicine research_. 2024-09. [메타분석, 3,743명] [DOI 10.1016/j.imr.2024.101069](https://doi.org/10.1016/j.imr.2024.101069) [PMID 39247398](https://pubmed.ncbi.nlm.nih.gov/39247398/) — 맥문동 포함 한약 병용이 발작성 심방세동 빈도·좌심방 직경·hs-CRP·심박출률 개선 가능성, 편향 위험 높음.
-[^26]: [Clinical effect of yiqi yangyin jiedu decoction in treating patients with advanced non-small cell lung cancer]. Liu LS 외. _Zhongguo Zhong xi yi jie he za zhi_. 2008-04. [임상시험, 60명] [PMID 18543492](https://pubmed.ncbi.nlm.nih.gov/18543492/) — 이기양음해독탕이 진행성 NSCLC 기음양허증 개선, KPS·삶의 질 향상, 세포 매개 면역력 강화.
+[^26]: [Clinical effect of yiqi yangyin jiedu decoction in treating patients with advanced non-small cell lung cancer]. Liu LS 외. _Zhongguo Zhong xi yi jie he za zhi_. 2008-04. [임상시험, 60명] [PMID 18543492](https://pubmed.ncbi.nlm.nih.gov/18543492/) — 익기양음해독탕이 진행성 NSCLC 기음양허증 개선, KPS·삶의 질 향상, 세포 매개 면역력 강화.
 [^27]: [Analysis of the clinical efficacy of yiqi fumai injection combined hydroxychloroquine sulfate tablet for treating Sjogren's syndrome]. Chen FY 외. _Zhongguo Zhong xi yi jie he za zhi_. 2012-12. [임상시험, 80명] [PMID 23469599](https://pubmed.ncbi.nlm.nih.gov/23469599/) — 익기복맥주사액+하이드록시클로로퀸 병용이 쇼그렌 증후군의 구강·안구 건조·염증 지표 개선에 단독보다 효과적 경향.
 [^28]: Chinese Herbal Medicine (Yiqi-Yangyin-Jiedu Decoction) Combined With Osimertinib as First-Line Treatment in EGFR Mutation-Positive Advanced Non-Small-Cell Lung Cancer (CATLA-2): A Study Protocol for a Double-Blind Randomized Controlled Trial. Yao J 외. _Frontiers in pharmacology_. 2022. [임상시험, 314명] [DOI 10.3389/fphar.2022.840889](https://doi.org/10.3389/fphar.2022.840889) [PMID 35431966](https://pubmed.ncbi.nlm.nih.gov/35431966/) — EGFR 변이 양성 진행성 NSCLC에서 오시머티닙+익기양음해독탕 병용 효능·안전성 평가 프로토콜(CATLA-2).
 [^29]: Chinese Herbal Medicine (Yiqi-Yangyin-Jiedu Decoction) Combined With Osimertinib As First-Line Treatment For Advanced Non-Small-Cell Lung Cancer With EGFR Sensitizing Mutation (CATLA-2). Yan Lu 외. 2021-06-07. [임상시험, 314명] [DOI 10.21203/rs.3.rs-501000/v1](https://doi.org/10.21203/rs.3.rs-501000/v1) — CATLA-2 프로토콜의 초기 등록본, 오시머티닙+익기양음해독탕 병용 평가.
