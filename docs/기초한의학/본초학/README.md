@@ -355,7 +355,7 @@
 
 ### 13-3. 지해평천약(止咳平喘藥, Cough/Asthma-Relieving Herbs)
 
-- 행인(杏仁, Semen Armeniacae Amarum)
+- 행인(杏仁, Armeniacae Semen)
 - 백부근(百部根, Stemonae Radix) — (작성 예정)
 - 자완(紫菀, Asteris Radix) — (작성 예정)
 - 관동화(款冬花, Farfarae Flos) — (작성 예정, 피롤리지딘 알칼로이드 안전성 문헌은 간정맥폐쇄성질환 문서에서 부분 다룸)
