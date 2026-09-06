@@ -225,7 +225,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 | 신이비연환 | 수술+표준치료 병용 RCT | 112명 | 유효율 상승, 염증인자·재발률 개선 | [^93](철회된 논문으로 유효 근거가 아니다) |
 | 축원탕 | FESS 후 RCT | 85명 | 스테로이드와 유사한 개선·안전성 | [^94] |
 | 창이산+어성초 | 항생제 대조 RCT | 53명 | 에리트로마이신과 유사, 점막기능 개선 우세 | [^95] |
-| 련화청온과립 | RCT | 140명 | VAS·SNOT-22 개선, T세포 활성 저하 | [^97] |
+| 연화청온과립 | RCT | 140명 | VAS·SNOT-22 개선, T세포 활성 저하 | [^97] |
 | 비원통교과립+트리암시놀론 | 병용 RCT + 비용분석 | 1145명 | 유효율 상승, 비용-효과 우위 | [^33] |
 | 감초 기반 비강 스프레이 | RCT | 30명 | 증상·용종 크기 감소, EMT 억제 | [^109] |
 | 갈근탕가천궁신이 | RCT 프로토콜 | — | 결과 발표 대기 | [^100] |
@@ -237,7 +237,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 부비동염 영역의 한의학적 근거는 **처방·아형·연구 설계에 따라 근거 수준이 크게 이질적** 이다. 정리하면 다음과 같다.
 
 1. **체계적 고찰·메타분석 수준**: 한약 전반의 CRS 증상·삶의 질 개선 효과[^5][^28][^29], 침의 PRISMA 메타분석[^37], 수술 후 경구 중약 병용 메타분석[^46]은 상대적으로 근거 밀도가 높다. 다만 대부분 원저 연구의 표본 크기가 작고, 눈가림·배정은폐가 불완전하며, 중국·한국 단일 언어권 데이터베이스에 치우쳐 출판 편향 가능성이 있다.[^9][^41]
-2. **개별 무작위 대조 시험 수준**: 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·련화청온과립[^97]·비원통교과립[^33]·갈근탕가천궁신이[^100] 등은 개별 RCT 근거가 있으나, 동일 처방을 반복 검증한 독립 연구는 드물어 **재현성 검증이 더 필요** 하다.
+2. **개별 무작위 대조 시험 수준**: 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·연화청온과립[^97]·비원통교과립[^33]·갈근탕가천궁신이[^100] 등은 개별 RCT 근거가 있으나, 동일 처방을 반복 검증한 독립 연구는 드물어 **재현성 검증이 더 필요** 하다.
 3. **관찰연구·증례 수준**: 호산구성 부비동염의 패독산+계지복령환 관해 유지 증례[^12], 진균성 부비동염의 아유르베다 보존 치료 증례[^13]는 단일 증례로, 일반화 가능성에 한계가 있다.
 4. **프로토콜·진행 중 연구**: 다수의 침·중약 프로토콜(예: [^10][^40][^44][^45])이 등록되어 향후 결과 발표 시 근거가 갱신될 예정이다.
 
@@ -288,7 +288,7 @@ CRS의 치료 반응과 예후는 표현형(CRSwNP/CRSsNP)보다 기저 염증 �
 
 비폴립성 만성 비부비동염에서 창이산과 어성초(魚腥草) 조합의 중약 치료는 마크로라이드계 항생제(에리트로마이신)와 유사한 증상 개선 효과를 보였고, 사카린 검사에서는 점막섬모 기능 개선이 항생제군보다 더 컸다.[^95]
 
-#### 8-5. 련화청온과립(連花淸瘟顆粒)
+#### 8-5. 연화청온과립(連花淸瘟顆粒)
 
 비용종이 없는 만성 부비동염(CRSsNP) 환자의 임상 증상(VAS, SNOT-22)과 비저항을 유의하게 개선하며, 비점막의 염증 반응 및 T세포 활성도를 낮추는 효과가 있다.[^97]
 
@@ -762,7 +762,7 @@ ERAS(수술 후 조기 회복) 프로토콜을 적용하면 표준 치료 대비
 
 **Q4. 어떤 한약이 부비동염에 흔히 쓰이나요?**
 
-국내 건강보험 데이터에서 만성 부비동염에 가장 많이 처방된 한약은 형개연교탕(荊芥連翹湯, 48.5%)이었습니다.[^4] 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·축원탕[^94]·련화청온과립[^97]도 임상 근거가 축적되었습니다. 호산구성 난치성 부비동염에는 변증에 따라 패독산(敗毒散)·계지복령환(桂枝茯苓丸) 병용이 보고되었으며,[^12] 부비동염 동반 비염에는 소청룡탕(小靑龍湯)이 활용됩니다.[^14] **변증에 따른 개별 처방 선택** 이 중요합니다.
+국내 건강보험 데이터에서 만성 부비동염에 가장 많이 처방된 한약은 형개연교탕(荊芥連翹湯, 48.5%)이었습니다.[^4] 신이비연환[^93](철회된 논문으로 유효 근거가 아니다)·축원탕[^94]·연화청온과립[^97]도 임상 근거가 축적되었습니다. 호산구성 난치성 부비동염에는 변증에 따라 패독산(敗毒散)·계지복령환(桂枝茯苓丸) 병용이 보고되었으며,[^12] 부비동염 동반 비염에는 소청룡탕(小靑龍湯)이 활용됩니다.[^14] **변증에 따른 개별 처방 선택** 이 중요합니다.
 
 **Q5. 부비동염은 양방과 한방을 같이 받아도 되나요?**
 
@@ -805,7 +805,7 @@ ERAS(수술 후 조기 회복) 프로토콜을 적용하면 표준 치료 대비
 | 신이비연환 | 信夷鼻炎丸 | §8-2 |
 | 축원탕 | 縮鼻湯 | §8-3 |
 | 창이산 | 蒼耳散 | §8-4 |
-| 련화청온과립 | 連花淸瘟顆粒 | §8-5 |
+| 연화청온과립 | 連花淸瘟顆粒 | §8-5 |
 | 갈근탕가천궁신이 | 葛根湯加川芎辛夷 | §8-6 |
 | 비원통교과립 | 鼻淵通竅顆粒 | §8-7 |
 | 향거캡슐 | 香菊膠囊 | §8-7 |
@@ -923,7 +923,7 @@ ERAS(수술 후 조기 회복) 프로토콜을 적용하면 표준 치료 대비
 [^94]: Effect of Zhu-yuan decoction in patients with chronic rhinosinusitis after functional endoscopic sinus surgery. Li J 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2018-02. [임상시험] [PMID 32185955](https://pubmed.ncbi.nlm.nih.gov/32185955/) — 부비동 내시경 수술(FESS) 후 만성 부비동염 환자에게 축원탕을 투여하는 것은 비강 내 스테로이드제와 유사한 증상 개선 효과 및 안전성을 보였다.
 [^95]: Efficacy of Chinese herbal medicine compared with a macrolide in the treatment of chronic rhinosinusitis without nasal polyps. Jiang RS 외. _American journal of rhinology & allergy_. . [임상시험] [DOI 10.2500/ajra.2012.26.3778](https://doi.org/10.2500/ajra.2012.26.3778) [PMID 22801017](https://pubmed.ncbi.nlm.nih.gov/22801017/) — 비폴립성 만성 비부비동염 환자에게 창이산과 어성초 조합의 중약 치료는 마크로라이드계 항생제인 에리트로마이신과 유사한 증상 개선 효과를 보였다. 특히 사카린 검사 결과에서 중약 그룹이 항생제 그룹보다 점막 기능 개선(전달 시간 단축)에 더 효과적일 수 있음을 시사한다.
 [^96]: Efficacy of Sri Lankan Traditional Decoction of Katuwelbatu Deduru Katukadi in treatment of Kaphaja Shira Shula (Chronic Sinusitis). Ediriweera ER 외. _Ayu_. 2010-01. [임상시험] [DOI 10.4103/0974-8520.68208](https://doi.org/10.4103/0974-8520.68208) [PMID 22131686](https://pubmed.ncbi.nlm.nih.gov/22131686/) — 스리랑카 전통 처방인 Katuwelbatu Deduru Katukadi 전탕액이 만성 부비동염(Kaphaja Shira Shula) 환자의 증상 완화와 혈중 호산구 수 감소에 효과적임을 확인하였다.
-[^97]: Efficacy of lianhuaqingwen granules in the management of chronic rhinosinusitis without nasal polyps. Lin L 외. _American journal of otolaryngology_. . [임상시험] [DOI 10.1016/j.amjoto.2019.102311](https://doi.org/10.1016/j.amjoto.2019.102311) [PMID 31732300](https://pubmed.ncbi.nlm.nih.gov/31732300/) — 련화청온과립(連花淸溫顆粒)은 비용종이 없는 만성 부비동염(CRSsNP) 환자의 임상 증상(VAS, SNOT-22)과 비저항을 유의하게 개선하며, 비점막의 염증 반응 및 T세포 활성도를 낮추는 효과가 있다.
+[^97]: Efficacy of lianhuaqingwen granules in the management of chronic rhinosinusitis without nasal polyps. Lin L 외. _American journal of otolaryngology_. . [임상시험] [DOI 10.1016/j.amjoto.2019.102311](https://doi.org/10.1016/j.amjoto.2019.102311) [PMID 31732300](https://pubmed.ncbi.nlm.nih.gov/31732300/) — 연화청온과립(連花淸溫顆粒)은 비용종이 없는 만성 부비동염(CRSsNP) 환자의 임상 증상(VAS, SNOT-22)과 비저항을 유의하게 개선하며, 비점막의 염증 반응 및 T세포 활성도를 낮추는 효과가 있다.
 [^98]: Health-related quality of life in a trial of acupuncture, sham acupuncture and conventional treatment for chronic sinusitis. Stavem K 외. _BMC research notes_. 2008-06-27. [임상시험] [DOI 10.1186/1756-0500-1-37](https://doi.org/10.1186/1756-0500-1-37) [PMID 18710490](https://pubmed.ncbi.nlm.nih.gov/18710490/) — 만성 부비동염 환자의 단기적인 건강 관련 삶의 질(HRQoL) 개선에 있어 전통 침술이 가짜 침술이나 일반 약물 치료보다 우월하다는 근거는 부족한 것으로 나타났다.
 [^99]: Postoperative care with Chinese herbal medicine or amoxicillin after functional endoscopic sinus surgery: a randomized, double-blind, placebo-controlled study. Liang KL 외. _American journal of rhinology & allergy_. . [임상시험] [DOI 10.2500/ajra.2011.25.3610](https://doi.org/10.2500/ajra.2011.25.3610) [PMID 21679528](https://pubmed.ncbi.nlm.nih.gov/21679528/) — 본 연구는 기능적 내시경 부비동 수술(FESS) 후 보조 요법으로 중약(창이산 및 어성초 추출물)이나 항생제(Amoxicillin)를 사용하는 것이 임상적으로 유의미한 추가 이점을 제공하지 않음을 시사한다.
 [^100]: Safety and efficacy of Galgeun-tang-ga-cheongung-sinyi, a herbal formula, for the treatment of chronic rhinosinusitis: A study protocol for a randomized controlled trial. Son MJ 외. _Medicine_. 2018-06. [임상시험] [DOI 10.1097/MD.0000000000011196](https://doi.org/10.1097/MD.0000000000011196) [PMID 29924041](https://pubmed.ncbi.nlm.nih.gov/29924041/) — 본 연구는 만성 부비동염 환자를 대상으로 갈근탕가청궁신이(葛根湯加川芎辛夷)의 안전성과 유효성을 검증하기 위한 무작위 대조 시험 프로토콜입니다.
