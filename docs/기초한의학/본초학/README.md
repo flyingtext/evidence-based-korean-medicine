@@ -69,7 +69,7 @@
 
 - 서각/수우각(犀角/水牛角, Bubali Cornu) — **작성됨**
 - 지황(地黃, Rehmanniae Radix) — 생지황·숙지황 하위 표제어 포함 **작성됨** (겸: 보혈약)
-- 현삼(玄蔘, Scrophularia buergeriana) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
+- 현삼(玄蔘, Scrophulariae Radix) — 연호색 문서의 동음이의어(*Corydalis ternata*)와 혼동 주의 **작성됨**
 - 목단피(牡丹皮, Moutan Cortex)
 - 적작약(赤芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨**
 - 자초(紫草, Lithospermi Radix) — **작성됨**
@@ -181,7 +181,7 @@
 
 ### 6-1. 이수퇴종약(利水退腫藥)
 
-- 복령(茯苓, Poria) — 적복령·복신 하위 표제어 포함 **작성됨**
+- 복령(茯苓, Poria Sclerotium) — 적복령·복신 하위 표제어 포함 **작성됨**
 - 저령(猪苓, Polyporus) — (작성 예정)
 - 택사(澤瀉, Alismatis Rhizoma)
 - 의이인(薏苡仁, Coicis Semen) — (작성 예정)
@@ -328,7 +328,7 @@
 
 ### 13-1. 온화한담약(溫化寒痰藥, Warm-Transforming Cold-Phlegm Herbs)
 
-- 반하(半夏, Pinellia ternata)
+- 반하(半夏, Pinelliae Tuber)
 - 천남성(天南星, Arisaematis Rhizoma) — (작성 예정)
 - 백부자(白附子, Typhonii Rhizoma) — (작성 예정)
 - 백개자(白芥子, Sinapis Albae Semen) — (작성 예정)
@@ -375,7 +375,7 @@
 - 백자인(柏子仁, Platycladi Semen) — (작성 예정)
 - 원지(遠志, Polygalae Radix)
 - 합환피(合歡皮, Albiziae Cortex) — (작성 예정)
-- 영지(靈芝, Ganoderma lucidum)
+- 영지(靈芝, Ganoderma)
 - 야교등(夜交藤, Polygoni Multiflori Caulis) — (작성 예정)
 
 ## 15. 평간약(平肝藥, Liver-Calming Herbs)
@@ -413,14 +413,14 @@
 
 ### 17-1. 보기약(補氣藥)
 
-- 인삼(人蔘, Panax ginseng)
+- 인삼(人蔘, Ginseng Radix)
 - 홍삼(紅蔘, Ginseng Radix Rubra) — 인삼의 뿌리를 증숙·건조한 약전 별도 수재 품목 **작성됨**
 - 당삼(黨蔘, Codonopsis Radix) — (작성 예정)
 - 황기(黃芪, Astragali Radix)
 - 백출(白朮, Atractylodis Rhizoma Alba)
 - 산약(山藥, Dioscoreae Rhizoma)
 - 백편두(白扁豆, Lablab Semen Album) — (작성 예정)
-- 감초(甘草, Glycyrrhiza)
+- 감초(甘草, Glycyrrhizae Radix et Rhizoma)
 - 대조(大棗, Zizyphi Fructus)
 - 봉밀(蜂蜜, Mel) — (작성 예정)
 
@@ -456,17 +456,17 @@
 
 ### 17-3. 보혈약(補血藥)
 
-- 당귀(當歸, Angelica sinensis)
+- 당귀(當歸, Angelicae Gigantis Radix)
 - 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 **작성됨**
 - 백작약(白芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨** (겸: 청열량혈 — 적작약)
-- 하수오(何首烏, Polygonum multiflorum)
+- 하수오(何首烏, Polygoni Multiflori Radix)
 - 아교(阿膠, Asini Corii Colla) — (작성 예정)
 - 용안육(龍眼肉, Longan Arillus) — (작성 예정)
 
 ### 17-4. 보음약(補陰藥)
 
 - 사삼(沙蔘, Adenophorae/Glehniae Radix) — (작성 예정)
-- 맥문동(麥門冬, Ophiopogon)
+- 맥문동(麥門冬, Liriopis seu Ophiopogonis Tuber)
 - 천문동(天門冬, Asparagi Radix) — (작성 예정)
 - 석곡(石斛, Dendrobii Herba) — (작성 예정)
 - 옥죽(玉竹, Polygonati Odorati Rhizoma) — (작성 예정)
