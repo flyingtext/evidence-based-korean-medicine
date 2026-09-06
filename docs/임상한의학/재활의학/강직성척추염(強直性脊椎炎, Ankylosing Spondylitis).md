@@ -603,7 +603,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 
 #### ④ 치료
 
-보신강골탕(補腎强骨湯)은 강직성 척추염 환자의 골밀도를 높이고 골대사를 조절하며 염증 반응을 완화해 척추·관절 기능을 개선하고, 장기 복용 시에도 안전하게 골형성을 촉진하고 골흡수를 감소시킬 수 있다[^161]. 마사지·녹용-오이 폴리펩타이드 주사·보신거한지왕탕을 병행한 종합 치료는 골밀도(BMD)·골형성 지표(BSAP)를 유의하게 증가시키고 질병 활성도(BASDAI·BASFI)와 염증 지표(TNF-α)를 감소시키며, 혈청 SPARC 수치 상승도 확인되었다[^162].
+보신강독탕(補腎强督湯)은 강직성 척추염 환자의 골밀도를 높이고 골대사를 조절하며 염증 반응을 완화해 척추·관절 기능을 개선하고, 장기 복용 시에도 안전하게 골형성을 촉진하고 골흡수를 감소시킬 수 있다[^161]. 마사지·녹용-오이 폴리펩타이드 주사·보신거한지왕탕을 병행한 종합 치료는 골밀도(BMD)·골형성 지표(BSAP)를 유의하게 증가시키고 질병 활성도(BASDAI·BASFI)와 염증 지표(TNF-α)를 감소시키며, 혈청 SPARC 수치 상승도 확인되었다[^162].
 
 #### ⑤ 예후
 
@@ -989,7 +989,7 @@ TNF 억제제 사용 시 염증성 장질환 위험이 유의하게 증가하지
 [^158]: The Effect of Tumor Necrosis Factor-Alpha Inhibitors on Uveitis in Patients with Ankylosing Spondylitis. _Journal of Korean medical science_. 2019-11-04. [관찰연구] [DOI 10.3346/jkms.2019.34.e278](https://doi.org/10.3346/jkms.2019.34.e278) [PMID 31674159](https://pubmed.ncbi.nlm.nih.gov/31674159/) — TNF-α 억제제가 AS 환자 포도막염 발생에 영향.
 [^159]: Paradoxical Inflammatory Bowel Disease Induced by Golimumab in a Patient With Ankylosing Spondylitis: A Case Report and Systematic Review. _Cureus_. 2025-01. [증례 보고] [DOI 10.7759/cureus.77363](https://doi.org/10.7759/cureus.77363) [PMID 39807347](https://pubmed.ncbi.nlm.nih.gov/39807347/) — 골리무맙 투여 중 역설적 염증성장질환 유발 증례.
 [^160]: Association between inflammatory bowel disease and ankylosing spondylitis: Mendelian randomization of a different database and meta-analysis. _Medicine_. 2026-07-31. [메타분석] [DOI 10.1097/MD.0000000000050015](https://doi.org/10.1097/MD.0000000000050015) [PMID 42536573](https://pubmed.ncbi.nlm.nih.gov/42536573/) — IBD와 AS 간 멘델무작위분석으로 연관성 확인.
-[^161]: [Effect of bushen qiangdu recipe on osteoporosis and bone loss of patients with ankylosing spondylitis]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-04. [임상시험] [PMID 21608215](https://pubmed.ncbi.nlm.nih.gov/21608215/) — 보신강골탕이 골밀도 증가·골대사 조절·염증완화, 골형성 촉진·골흡수 감소.
+[^161]: [Effect of bushen qiangdu recipe on osteoporosis and bone loss of patients with ankylosing spondylitis]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-04. [임상시험] [PMID 21608215](https://pubmed.ncbi.nlm.nih.gov/21608215/) — 보신강독탕이 골밀도 증가·골대사 조절·염증완화, 골형성 촉진·골흡수 감소.
 [^162]: [Effects of comprehensive therapy on serum SPARC levels in ankylosing spondylitis patients accompanied with osteoporosis]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-04. [임상시험] [PMID 23841264](https://pubmed.ncbi.nlm.nih.gov/23841264/) — 마사지+녹용오이폴리펩타이드+보신거한지왕탕 종합치료가 BMD·BSAP 증가, BASDAI·BASFI·TNF-α 감소.
 [^163]: Cardiovascular risk according to biological agent exposure in patients with ankylosing spondylitis: a nationwide population-based study. _Clinical rheumatology_. 2025-01. [관찰연구] [DOI 10.1007/s10067-024-07225-7](https://doi.org/10.1007/s10067-024-07225-7) [PMID 39509079](https://pubmed.ncbi.nlm.nih.gov/39509079/) — TNF억제제가 심혈관사건 위험 30% 감소, IL-17억제제는 유의한 연관 없음.
 [^164]: Ischemic heart disease and ankylosing spondylitis-assessing the role of inflammation. _Clinical rheumatology_. 2018-04. [관찰연구] [DOI 10.1007/s10067-018-4037-y](https://doi.org/10.1007/s10067-018-4037-y) [PMID 29473098](https://pubmed.ncbi.nlm.nih.gov/29473098/) — AS 환자 허혈성심장질환 유병률 높으나 전통적 심혈관위험요인 동반율이 주원인.
