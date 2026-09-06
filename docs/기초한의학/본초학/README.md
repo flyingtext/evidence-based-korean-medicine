@@ -77,7 +77,7 @@
 ### 2-4. 청열해독약(淸熱解毒藥, Heat-Toxin Clearing)
 
 - 금은화(金銀花, Lonicerae Flos)
-- 연교(連翹, Forsythia)
+- 연교(連翹, Forsythiae Fructus)
 - 포공영(蒲公英, Taraxaci Herba) — **작성됨**
 - 자화지정(紫花地丁, Violae Herba) — **작성됨**
 - 대청엽(大靑葉, Isatidis Folium)
