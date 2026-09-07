@@ -557,7 +557,7 @@
 
 | 본초 | 역할 | 참고 |
 | --- | --- | --- |
-| **당귀(當歸)** | 養血和血 — 시호의 승산으로 인한 음혈 손상 방지 | 소요산·가미소요산 군약. 당귀는 혈허 모델에서 조혈 개선[^92] |
+| **당귀(當歸)** | 養血和血 — 시호의 승산으로 인한 음혈 손상 방지 | 소요산·가미소요산 군약 |
 | **백작약(白芍藥)** | 養血斂陰柔肝 — 시호·향부자의 향조를 완화 | 작약감초탕으로 근완급. 사물탕 구성 |
 | **백출(白朮)** | 健脾燥濕 — 생화지원 세움 | 소요산·가미소요산 |
 | **복령(茯苓)** | 健脾利濕, 寧心安神 | 소요산·반하후박탕 |
@@ -661,7 +661,10 @@
 **⑮ 침-SSRI 병용 — 우울 변증별 효과 차이**
 침+SSRI 80명 관찰연구에서 간기울결·비기허 유형의 총 유효율(91.4%)·HAMD 감소가 심비양허·비신양허 유형보다 유의하게 높았다[^80dep]. 우울 755명 침 자료[^22dep], 우울 60명 침 요인분석[^23dep]도 보고되었다.
 
-> 과민성대장증후군 113명 실용적 무작위시험에서 변증에 따라 혈위가 달랐고[^57ibs], 월경전증후군 침구 메타분석[^29]과 침구 체계적 고찰[^28]이 보고되었다. **변증 없는 관행적 취혈은 근거에 부합하지 않는다** — 변증에 따라 혈위 특이 효과가 달라진다. 월경전증후군에는 전침 60명 무작위시험[^40], 이침압봉 351명 메타분석[^41]이 보고되었다.
+**⑯ 혈위 특이성이 기체 변증에서는 확인되지 않은 사례 — 원발성 월경통**
+다기관 무작위 대조시험(ISRCTN24863192)에 참여한 원발성 월경통 환자 501명 가운데 변증이 확정된 320명을 변증별로 나누어 재분석한 연구는, 삼음교(SP6)·현종(GB39)·인접 비경혈에 각각 전침을 시행했을 때의 즉각적 통증 완화를 비교하였다. 그 결과 **한습응체(寒濕凝滯)형(184명)에서만** 삼음교군이 현종군(평균차 −7.6 mm)과 비경혈군(−8.2 mm)보다 유의하게 우수했고 현종군과 비경혈군 사이에는 차이가 없었다. 반면 **기혈어체(氣血瘀滯)형(84명)과 기혈양허형(52명)에서는 세 군 간에 아무런 차이가 없었다**[^93]. 즉 이 시험에서 혈위 특이 효과는 한습응체 변증에 국한되어 나타났고, 기체·기혈어체 변증에서는 삼음교의 특이성이 입증되지 않았다.
+
+> 과민성대장증후군 113명 실용적 무작위시험에서 변증에 따라 혈위가 달랐고[^57ibs], 월경전증후군 침구 메타분석[^29]과 침구 체계적 고찰[^28]이 보고되었다. **변증 없는 관행적 취혈은 근거에 부합하지 않는다** — 변증에 따라 혈위 특이 효과가 달라진다. 다만 이 명제는 "변증만 맞추면 혈위 특이 효과가 나타난다"는 뜻이 아니다. 위 ⑯의 재분석이 보여주듯 **기체·기혈어체 변증에서는 혈위 특이성 자체가 확인되지 않은 사례도 있으므로**[^93], 변증 층화는 효과를 보장하는 조건이 아니라 효과가 나타나는 범위를 좁히는 분석 틀로 이해해야 한다. 아울러 이 재분석은 사후 부분군 분석이고 각 변증군의 표본이 작아, 차이가 없다는 결과 역시 검정력 부족으로 인한 것일 가능성을 배제할 수 없다. 월경전증후군에는 전침 60명 무작위시험[^40], 이침압봉 351명 메타분석[^41]이 보고되었다.
 
 > 갱년기 중등도 이상 기분장애 85명에서 한약-심리치료 병용이 효과적이었다[^24]. 치매 BPSD 100명에서 용수환이 유의한 개선을 보여[^72], 침구와 방약이 정신과 영역으로 확장됨을 시사한다. 편두통 60명에서 현양해울통락지통 침법이 혈청 신경전달물질에 유의한 영향을 미쳤다[^71].
 
@@ -1360,8 +1363,7 @@ Qigong in Treating Depression Caused by Liver Stagnation and Qi Stagnation _Prac
 [^62meta]: Twelve Chinese patent medicines combined with conventional medicine for the treatment of functional dyspepsia: a network meta-analysis. _Frontiers in medicine_. 2025. [메타분석] 7575명 [DOI 10.3389/fmed.2025.1670153](https://doi.org/10.3389/fmed.2025.1670153) [PMID 41458491](https://pubmed.ncbi.nlm.nih.gov/41458491/) — 12개 중약제제+통상치료 메타분석 7,575명 위궤양 등 소화기 질환 유효
 [^22cur]: Review of the traditional uses, phytochemistry, and pharmacology of Curcuma wenyujin Y. H. Chen et C. Ling. _Journal of ethnopharmacology_. 2021-04-06. [문헌 고찰] [DOI 10.1016/j.jep.2020.113689](https://doi.org/10.1016/j.jep.2020.113689) [PMID 33309584](https://pubmed.ncbi.nlm.nih.gov/33309584/) — 울금 항염·항종양·항산화·항균·간 보호 작용 문헌 고찰
 [^34yan]: Traditional application, Chemical composition, Pharmacological effects, Quality control and Clinical application of Corydalis yanhusuo W. T. Wang dried Rhizome. _Journal of ethnopharmacology_. 2027-01-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.122156](https://doi.org/10.1016/j.jep.2026.122156) [PMID 42409344](https://pubmed.ncbi.nlm.nih.gov/42409344/) — 연호색 진통·항염·진정 효능 문헌 고찰
-[^92]: Metabolomics study of hematopoietic function of Angelica sinensis on blood deficiency mice model. _J Ethnopharmacol_. 2015. [PMID 25797116](https://pubmed.ncbi.nlm.nih.gov/25797116/)
-[^93]: Does Traditional Chinese Medicine pattern affect acupoint specific effect? 2013. [PMID 22823583](https://pubmed.ncbi.nlm.nih.gov/22823583/)
+[^93]: Does Traditional Chinese Medicine pattern affect acupoint specific effect? Analysis of data from a multicenter, randomized, controlled trial for primary dysmenorrhea. Liu YQ 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2013-01. [임상시험, 320명] [DOI 10.1089/acm.2011.0404](https://doi.org/10.1089/acm.2011.0404) [PMID 22823583](https://pubmed.ncbi.nlm.nih.gov/22823583/) — 원발성 월경통 501명 다기관 RCT(ISRCTN24863192)의 변증별 사후 부분군 분석(분석 대상 320명). 삼음교(SP6)·현종(GB39)·비경혈 전침 비교에서 **한습응체형(184명)에서만** 삼음교가 우월(대 GB39 −7.6 mm, 대 비경혈 −8.2 mm)했고, **기혈어체형(84명)·기혈양허형(52명)에서는 세 군 간 차이 없음**. 사후 부분군 분석이며 각 군 표본이 작음.
 [^95]: [교과서적 근거 — 가미소요산-파클리탁셀 상호작용 주의]
 [^39]: A clinical study on the treatment of chronic pelvic inflammation of Qi-stagnation with blood stasis syndrome by Penyanqing capsule. _Chinese journal of integrative medicine_. 2005-12. [임상시험] 82명 [DOI 10.1007/BF02835784](https://doi.org/10.1007/BF02835784) [PMID 16417773](https://pubmed.ncbi.nlm.nih.gov/16417773/) — 기체혈어 변증 만성 골반염의 팽염청 캡슐 유효성
 [^85]: Mechanistic insights into the antidepressant effects of the Angelica sinensis and Ligusticum chuanxiong Herb Pair. 2026. [PMID 41780614](https://pubmed.ncbi.nlm.nih.gov/41780614/) — 천궁-당귀 약대 PI3K/AKT 활성화
