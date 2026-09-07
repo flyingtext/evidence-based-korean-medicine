@@ -950,7 +950,7 @@
 
 [^35]: Effectiveness of auricular point acupressure with magnetic plate for pain management in acute postpartum cesarean section patients in Thammasat University Hospital: a randomized clinical controlled trial. Tanitsookarn R 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-08. [임상시험] [DOI 10.19852/j.cnki.jtcm.2022.04.006](https://doi.org/10.19852/j.cnki.jtcm.2022.04.006) [PMID 35848978](https://pubmed.ncbi.nlm.nih.gov/35848978/) — 자석판을 이용한 이혈압박요법이 산후 급성 통증 관리에 미치는 효과를 평가한 임상시험.
 
-[^36]: Specification of manual lactation traditional Chinese medicine technology. Siyao Wang 외. _Journal of Integrative Nursing_. 2024-10. [임상진료지침] [DOI 10.4103/jin.jin_105_24](https://doi.org/10.4103/jin.jin_105_24) — 한의학적 유방 마사지(수기 최유) 기법의 표준화 지침.
+[^36]: Specification of manual lactation traditional Chinese medicine technology. Wang S 외. _Journal of Integrative Nursing_. 2024-10. [임상진료지침] [DOI 10.4103/jin.jin_105_24](https://doi.org/10.4103/jin.jin_105_24) — 한의학적 유방 마사지(수기 최유) 기법의 표준화 지침.
 
 [^37]: The Effect of Traditional Chinese Medicine Therapy Combined with Biofeedback Electrical Stimulation on Postpartum Stress Urinary Incontinence: A Systematic Review and Meta-Analysis. Li Y 외. _International urogynecology journal_. 2026-04. [메타분석] [DOI 10.1007/s00192-025-06416-3](https://doi.org/10.1007/s00192-025-06416-3) [PMID 41240111](https://pubmed.ncbi.nlm.nih.gov/41240111/) — 한의학 요법과 생체되먹임 전기자극 병용이 산후 골반저기능장애에 미치는 효과를 종합한 메타분석.
 
@@ -974,13 +974,13 @@
 
 [^47]: Preliminary study of the effect of low-intensity focused ultrasound on postpartum uterine involution and breast pain in puerperal women: a randomised controlled trial. Wei D 외. _Scientific reports_. 2024-01-05. [임상시험] [DOI 10.1038/s41598-024-51328-9](https://doi.org/10.1038/s41598-024-51328-9) [PMID 38182657](https://pubmed.ncbi.nlm.nih.gov/38182657/) — 저강도 집속초음파(LIFU)가 산후 자궁퇴축에 미치는 예비 효과를 평가한 임상시험.
 
-[^48]: Effect of Puerperal Exercises and Auricular Acupressure on Uterine Involution. Fhadilah Rahmadini 외. _Poltekita : Jurnal Ilmu Kesehatan_. 2024-05-31. [임상시험] [DOI 10.33860/jik.v18i1.2810](https://doi.org/10.33860/jik.v18i1.2810) — 산욕기 체조와 이압요법 병용이 자궁퇴축에 미치는 효과를 평가한 임상시험.
+[^48]: Effect of Puerperal Exercises and Auricular Acupressure on Uterine Involution. Rahmadini F 외. _Poltekita : Jurnal Ilmu Kesehatan_. 2024-05-31. [임상시험] [DOI 10.33860/jik.v18i1.2810](https://doi.org/10.33860/jik.v18i1.2810) — 산욕기 체조와 이압요법 병용이 자궁퇴축에 미치는 효과를 평가한 임상시험.
 
 [^49]: Curative effect of wrist-ankle acupuncture on postpartum abdominal pain and its influence on serum β-EP level in puerpera. Huo Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2023-09-08. [임상시험] [DOI 10.13703/j.0255-2930.20230228-k0006](https://doi.org/10.13703/j.0255-2930.20230228-k0006) [PMID 37986248](https://pubmed.ncbi.nlm.nih.gov/37986248/) — 완관침(腕踝鍼)이 산후복통과 혈청 β-엔돌핀에 미치는 효과를 평가한 임상시험.
 
 [^50]: Prophylactic interventions after delivery of placenta for reducing bleeding during the postnatal period. Yaju Y 외. _The Cochrane database of systematic reviews_. 2013-11-26. [체계적 고찰] [DOI 10.1002/14651858.CD009328.pub2](https://doi.org/10.1002/14651858.CD009328.pub2) [PMID 24277681](https://pubmed.ncbi.nlm.nih.gov/24277681/) — 태반만출 후 예방적 중재가 산욕기 출혈 감소에 미치는 효과를 종합한 Cochrane 체계적 고찰.
 
-[^51]: Analysis of the Effect of Shenghua Zhuyu Herbal Acupoint Plaster in the Treatment of Postpartum Malodor. Xia Zheng 외. _Journal of Clinical and Nursing Research_. 2023-03-30. [임상시험] [DOI 10.26689/jcnr.v7i2.4818](https://doi.org/10.26689/jcnr.v7i2.4818) — 생화축어 한약 혈위첩부요법의 산후 자궁퇴축부전 치료 효과를 평가한 임상시험.
+[^51]: Analysis of the Effect of Shenghua Zhuyu Herbal Acupoint Plaster in the Treatment of Postpartum Malodor. Zheng X 외. _Journal of Clinical and Nursing Research_. 2023-03-30. [임상시험] [DOI 10.26689/jcnr.v7i2.4818](https://doi.org/10.26689/jcnr.v7i2.4818) — 생화축어 한약 혈위첩부요법의 산후 자궁퇴축부전 치료 효과를 평가한 임상시험.
 
 [^52]: Screening and Diagnosis of Mental Health Conditions During Pregnancy and Postpartum. _Obstetrics &amp; Gynecology_. 2023-06. [임상진료지침] [DOI 10.1097/aog.0000000000005200](https://doi.org/10.1097/aog.0000000000005200) — 임신·산욕기 정신건강 상태의 선별과 진단에 대한 임상진료지침.
 

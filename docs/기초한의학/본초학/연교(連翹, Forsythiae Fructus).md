@@ -525,7 +525,7 @@ PRISMA 준수 체계적 고찰은 은교산이 감기에 「단독 또는 통상
 
 [^31]: Medication Rules and Mechanism of Topical Traditional Chinese Medicine for Meibomian Gland Dysfunction-Related Dry Eye Disease. Zhou H 외. _Alternative therapies in health and medicine_. 2023-10. [체계적 고찰] [PMID 37442185](https://pubmed.ncbi.nlm.nih.gov/37442185/) — 마이봄샘 기능장애 관련 안구건조증의 국소 한약 치료에서 항염·각막상피장벽 회복 기전이 확인됨(연교 등 청열약 포함).
 
-[^32]: Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022). Kwang-Ho Bae 외. _Journal of Korean Medicine_. 2024-12-01. [관찰연구] [DOI 10.13048/jkm.24056](https://doi.org/10.13048/jkm.24056) — 만성 부비동염 환자에서 형개연교탕이 최다 처방 한약이며 침 치료와 병행되는 통합적 이용 양상이 확인됨.
+[^32]: Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022). Bae KH 외. _Journal of Korean Medicine_. 2024-12-01. [관찰연구] [DOI 10.13048/jkm.24056](https://doi.org/10.13048/jkm.24056) — 만성 부비동염 환자에서 형개연교탕이 최다 처방 한약이며 침 치료와 병행되는 통합적 이용 양상이 확인됨.
 
 [^33]: Keigai-rengyo-to as post-exposure prophylaxis for severe acute respiratory syndrome coronavirus 2 infection. Chiba S 외. _Respiratory investigation_. 2023-11. [임상시험] [DOI 10.1016/j.resinv.2023.07.004](https://doi.org/10.1016/j.resinv.2023.07.004) [PMID 37708631](https://pubmed.ncbi.nlm.nih.gov/37708631/) — 백신 접종을 마친 코로나19 밀접 접촉 의료진 38명(형개연교탕 20명·대조 18명) 대상 비무작위 대조 시험. 감염률 10%(2/20) 대 44%(8/18). **무작위 배정이 아니고 표본이 매우 작아 확증적 근거가 아니다.**
 
@@ -545,7 +545,7 @@ PRISMA 준수 체계적 고찰은 은교산이 감기에 「단독 또는 통상
 
 [^41]: Pilot study of the use of Yin Qiao San in children with conventional antipyretic hypersensitivity. Liew WK 외. _Asia Pacific allergy_. 2015-10. [임상시험] [DOI 10.5415/apallergy.2015.5.4.222](https://doi.org/10.5415/apallergy.2015.5.4.222) [PMID 26539405](https://pubmed.ncbi.nlm.nih.gov/26539405/) — 해열제 과민반응 소아 21명(88회 투여) 공개 파일럿. **해열 반응은 2시간째 18%·4시간째 34%로 제한적** 이었고 주된 소견은 내약성(21명 중 20명 경구 유발시험 통과)이다. 해열 유효성 근거로 인용해서는 안 된다.
 
-[^42]: Herbal medicine Eunkyo-san (Yinqiao-san) for COVID-19: A telemedicine case series. Jiyoon Won 외. _Journal of Korean Medicine_. 2023-12-01. [증례 보고] [DOI 10.13048/jkm.23056](https://doi.org/10.13048/jkm.23056) — 자가격리 중인 COVID-19 환자에게 원격진료로 은교산을 투여해 기침·발열·인후통 등 상기도 증상 완화에 활용된 증례.
+[^42]: Herbal medicine Eunkyo-san (Yinqiao-san) for COVID-19: A telemedicine case series. Won J 외. _Journal of Korean Medicine_. 2023-12-01. [증례 보고] [DOI 10.13048/jkm.23056](https://doi.org/10.13048/jkm.23056) — 자가격리 중인 COVID-19 환자에게 원격진료로 은교산을 투여해 기침·발열·인후통 등 상기도 증상 완화에 활용된 증례.
 
 [^43]: Reports of 63 Patients Treated with Herbal Medicine to Relieve Symptoms of COVID-19 at One Korean Medicine Clinic: A Retrospective Chart Review. Kim H 외. _The Journal of Internal Korean Medicine_. 2022-08-31. [관찰연구] [DOI 10.22246/jikm.2022.43.4.779](https://doi.org/10.22246/jikm.2022.43.4.779) — 국내 한의원에서 은교산 계열 처방을 포함한 한약 치료가 COVID-19 증상 완화에 활용된 63례를 후향적으로 분석함.
 
@@ -582,7 +582,7 @@ PRISMA 준수 체계적 고찰은 은교산이 감기에 「단독 또는 통상
 
 [^60]: Effects of So-cheong-ryong-tang and Yeon-gyo-pae-dok-san on the common cold: randomized, double blind, placebo controlled trial. Byun JS 외. _Journal of ethnopharmacology_. 2011-01-27. [임상시험] [DOI 10.1016/j.jep.2010.10.056](https://doi.org/10.1016/j.jep.2010.10.056) [PMID 21040773](https://pubmed.ncbi.nlm.nih.gov/21040773/) — 감기 환자 대상 무작위 이중맹검 위약대조 시험. 연교패독산의 이점은 **풍열형이 아니라 풍한형 하위군에서 더 뚜렷** 했고 전체 효과 크기는 제한적이었다.
 
-[^61]: Treatment of One Case of Pediatric Hand-Foot-Mouth Disease with Spleen Dampness-Heat Syndrome Using Acupoint Application Therapy to Disperse Dampness, Expel Heat, and Unblock the Fu Organs. Wangsen Zhao 외. _Journal of Clinical and Nursing Research_. 2025-04-28. [증례 보고] [DOI 10.26689/jcnr.v9i4.10223](https://doi.org/10.26689/jcnr.v9i4.10223) — 금은화·연교·후박 등을 배합한 혈위첩부 요법이 비장습열형 소아 수족구병 증상 개선에 유효함.
+[^61]: Treatment of One Case of Pediatric Hand-Foot-Mouth Disease with Spleen Dampness-Heat Syndrome Using Acupoint Application Therapy to Disperse Dampness, Expel Heat, and Unblock the Fu Organs. Zhao W 외. _Journal of Clinical and Nursing Research_. 2025-04-28. [증례 보고] [DOI 10.26689/jcnr.v9i4.10223](https://doi.org/10.26689/jcnr.v9i4.10223) — 금은화·연교·후박 등을 배합한 혈위첩부 요법이 비장습열형 소아 수족구병 증상 개선에 유효함.
 
 [^62]: Yinqiao Sanhuang Paste Combined with Traditional Chinese Medicine Plaster for the Intervention of Drug Rash Induced by Targeted Therapy in Lung Cancer. Ya Zhang 외. _Proceedings of Anticancer Research_. 2024-08-12. [임상시험] [DOI 10.26689/par.v8i4.7899](https://doi.org/10.26689/par.v8i4.7899) — 은교삼황고와 한약고약 병용이 표적항암치료로 유발된 약진 치료에서 유효율을 높이고 이상반응을 낮춤.
 

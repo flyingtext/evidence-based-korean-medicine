@@ -342,7 +342,7 @@
 **고전 인용 출처**: 『黃帝內經素問』(評熱病論, 本病論, 擧痛論, 陰陽應象大論, 四氣調神大論), 『靈樞』(邪客, 刺血, 百病始生), 『傷寒論』, 『金匱要略』, 『溫病條辨』, 『溫疫論』
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2025-08-30 조회 기준
 
-[^3]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. Qing Zhang 외. _Malawi Medical Journal_. 2025-12-31. [임상시험, 80명] [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15) — 온침 치료를 병행한 그룹은 대조군에 비해 조조강직 시간, 통증 및 부종 관절 수, 염증 지표(TNF-α, IL-6, CRP), 혈청 RF 및 ESR 수치, VAS 점수, 한방 증후군 점수가 유의하게 개선되었으며, 삶의 질이 향상되고 이상반응 발생률은 낮아졌다.
+[^3]: Clinical efficacy of warm acupuncture on wind-cold-dampness rheumatoid arthritis. Zhang Q 외. _Malawi Medical Journal_. 2025-12-31. [임상시험, 80명] [DOI 10.4314/mmj.v37i5.15](https://doi.org/10.4314/mmj.v37i5.15) — 온침 치료를 병행한 그룹은 대조군에 비해 조조강직 시간, 통증 및 부종 관절 수, 염증 지표(TNF-α, IL-6, CRP), 혈청 RF 및 ESR 수치, VAS 점수, 한방 증후군 점수가 유의하게 개선되었으며, 삶의 질이 향상되고 이상반응 발생률은 낮아졌다.
 
 [^5]: [Clinical observation on needle-sticking method for treatment of rheumatoid arthritis of wind-cold-damp retention type].. He W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-05. [임상시험, 50명] [PMID 16739845](https://pubmed.ncbi.nlm.nih.gov/16739845/) — 자입법과 호침 치료 모두 효과가 있었으나, 자입법 치료군이 류마티스 인자(RF), 압통 관절 수, 총 누적 점수 개선 면에서 호침 치료군보다 유의하게 우수한 치료 효과를 나타냈다.
 
@@ -360,7 +360,7 @@
 
 [^20]: Efficacy and safety of Qing Zhu Granules for acute gouty arthritis with dampness-heat obstruction syndrome: study protocol for a phase 3, multicenter, randomized, double-blind, placebo-controlled trial. Zhou X 외. _Frontiers in Medicine_. 2026-07-28. [임상시험] [DOI 10.3389/fmed.2026.1839780](https://doi.org/10.3389/fmed.2026.1839780) — 본 논문은 연구 프로토콜 단계이므로 최종 결과는 제시되지 않았으나, 청주과립 투여군과 위약군 간의 VAS 점수 변화 및 CRP 수치 등을 비교하여 그 유효성과 안전성을 검증할 예정이다.
 
-[^21]: Sanjin tablets for acute uncomplicated lower urinary tract infection (syndrome of dampness-heat in the lower jiao): protocol for randomized, double-blind, double dummy, parallel control of positive drug, multicentre clinical trial. Jian Lyu 외. 2019-06-11. [임상시험, 252명] [DOI 10.21203/rs.2.75/v2](https://doi.org/10.21203/rs.2.75/v2) — 본 연구는 프로토콜 단계의 연구로, Sanjin tablets(SJT)가 항생제 단독 요법 또는 병용 요법과 비교하여 증상 개선 및 세균학적 지표에서 유의미한 효과를 보이는지, 그리고 재발률을 낮추는지 검증하여 그 결과를 제시할 예정이다.
+[^21]: Sanjin tablets for acute uncomplicated lower urinary tract infection (syndrome of dampness-heat in the lower jiao): protocol for randomized, double-blind, double dummy, parallel control of positive drug, multicentre clinical trial. Lyu J 외. 2019-06-11. [임상시험, 252명] [DOI 10.21203/rs.2.75/v2](https://doi.org/10.21203/rs.2.75/v2) — 본 연구는 프로토콜 단계의 연구로, Sanjin tablets(SJT)가 항생제 단독 요법 또는 병용 요법과 비교하여 증상 개선 및 세균학적 지표에서 유의미한 효과를 보이는지, 그리고 재발률을 낮추는지 검증하여 그 결과를 제시할 예정이다.
 
 [^26]: [Effect of qingchang huashi recipe on IL-17 in the plasma and colonic mucosa of patients with ulcerative colitis].. Lu YL 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-10. [임상시험, 24명] [PMID 25509254](https://pubmed.ncbi.nlm.nih.gov/25509254/) — 청창화석방과 메살라진 병용 투여군은 메살라진 단독 투여군보다 혈장 및 결장 점막 내 IL-17 발현 수준이 유의하게 낮았으며, 이는 청창화석방이 IL-17 하향 조절을 통해 장내 염증을 효과적으로 억제하는 시너지 효과가 있음을 보여준다.
 
@@ -394,7 +394,7 @@
 
 [^57]: Efficacy and Safety of Huashi Baidu Granules in the Treatment of Children Suffering from Influenza with Exterior-cold and Interior-heat Syndrome: A Multi-center, Randomized Controlled Trial Protocol.. Li X 외. _Alternative therapies in health and medicine_. 2024-05. [임상시험, 520명] [PMID 37917893](https://pubmed.ncbi.nlm.nih.gov/37917893/) — 해당 연구는 프로토콜 단계이며, 화시바이두 과립이 오셀타미비르 대비 임상적 회복 시간을 단축시키고 안전한지를 평가하기 위해 520명의 소아를 대상으로 무작위 대조 시험을 진행할 예정이다.
 
-[^59]: Clinical Observation of Umbilical and Abdominal Moxibustion in the Treatment of Convalescent Diseases of Exogenous Diseases. Min Wang 외. _Journal of Contemporary Medical Practice_. 2024-09-26. [관찰연구] [DOI 10.53469/jcmp.2024.06(09).29](https://doi.org/10.53469/jcmp.2024.06(09).29) — 배꼽 및 복부 뜸 요법은 양기를 돕고 기혈 순환을 조절함으로써 외감성 질환 회복기 환자의 회복 속도를 높이고 신체 기능을 복원하는 데 긍정적인 역할을 한다.
+[^59]: Clinical Observation of Umbilical and Abdominal Moxibustion in the Treatment of Convalescent Diseases of Exogenous Diseases. Wang M 외. _Journal of Contemporary Medical Practice_. 2024-09-26. [관찰연구] [DOI 10.53469/jcmp.2024.06(09).29](https://doi.org/10.53469/jcmp.2024.06(09).29) — 배꼽 및 복부 뜸 요법은 양기를 돕고 기혈 순환을 조절함으로써 외감성 질환 회복기 환자의 회복 속도를 높이고 신체 기능을 복원하는 데 긍정적인 역할을 한다.
 
 [^60]: [Acupoint application for exogenous fever: a multi-central retrospective cohort study].. Li R 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-04-12. [관찰연구, 27179명] [DOI 10.13703/j.0255-2930.20210330-k0005](https://doi.org/10.13703/j.0255-2930.20210330-k0005) [PMID 35403397](https://pubmed.ncbi.nlm.nih.gov/35403397/) — 혈위첩부 요법은 비첩부군에 비해 발열 소실률을 유의하게 높였으며, 특히 神闕(신궐, CV8)에 大黃(대황)·芒硝(망초)를, 大椎(대추, GV14)에 麻黃(마황)·柴胡(시호)를 첩부하는 것이 일반적이고 효과적인 방법으로 나타났다.
 
@@ -428,7 +428,7 @@
 
 [^100]: HerbalMedicinefor the Treatment of Viral Hepatitis B and C: A Systematic Review of Randomized Controlled Trials. 김승모 외. _대한한방내과학회지_. 2021-09. [체계적 고찰] [DOI 10.22246/jikm.2021.42.4.455](https://doi.org/10.22246/jikm.2021.42.4.455) — 한약을 양약과 병용 투여했을 때 양약 단독 투여보다 HBeAg 및 ALT 감소에 우수하였으며, 한약 단독 투여보다 HBV DNA 감소 효과가 유의하게 높았다. 반면, 한약 단독 투여는 양약 투여보다 효과가 우월하지 않았다.
 
-[^108]: Study on the Characteristics of Gut Microbiota in Chronic Hepatitis B Patients with Damp Heat Syndrome and Liver Depression and Spleen Deficiency Syndrome. Kaiping Jiang 외. 2020-07-27. [관찰연구, 93명] [DOI 10.21203/rs.3.rs-45025/v1](https://doi.org/10.21203/rs.3.rs-45025/v1) — 두 변증군 간의 장내 미생물 상대적 풍부도에 유의한 차이가 있었으며, 특히 Cyanobacteria는 습열증에서만 발견되었고, Lachnospira, Olsenella, Subdoligranulum 등의 종에서 유의미한 차이가 나타나 변증 형성에 장내 미생물이 중요한 역할을 할 가능성이 확인되었다.
+[^108]: Study on the Characteristics of Gut Microbiota in Chronic Hepatitis B Patients with Damp Heat Syndrome and Liver Depression and Spleen Deficiency Syndrome. Jiang K 외. 2020-07-27. [관찰연구, 93명] [DOI 10.21203/rs.3.rs-45025/v1](https://doi.org/10.21203/rs.3.rs-45025/v1) — 두 변증군 간의 장내 미생물 상대적 풍부도에 유의한 차이가 있었으며, 특히 Cyanobacteria는 습열증에서만 발견되었고, Lachnospira, Olsenella, Subdoligranulum 등의 종에서 유의미한 차이가 나타나 변증 형성에 장내 미생물이 중요한 역할을 할 가능성이 확인되었다.
 
 [^113]: [TCM understanding and therapeutic strategies for respiratory drug-resistant bacterial infections].. Liu YH 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2026-06. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20260309.501](https://doi.org/10.19540/j.cnki.cjcmm.20260309.501) [PMID 42543270](https://pubmed.ncbi.nlm.nih.gov/42543270/) — 균-독-어-허 모델과 정허사유(正虛邪留)의 동적 진화 패턴을 바탕으로 마행석감탕, 사삼맥문동탕 등의 처방을 활용한 변증 치료를 시행했을 때, 환자의 예후가 개선되고 재발률이 감소하며 삶의 질이 향상되는 통합 의학적 패러다임을 제공한다.
 
@@ -450,7 +450,7 @@
 
 [^130]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. Zhao J 외. _BioMed Research International_. 2022-01. [메타분석, 895명] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 독활기생탕은 유효율을 높이고 WOMAC 및 VAS 점수를 유의하게 감소시켰으며, 혈청 IL-6 및 TNF-α 수치를 낮추어 임상적 효능을 개선했다. 또한 글루코사민이나 온침과 병용 시 단독 치료보다 통증 및 기능 개선 효과가 더 컸다.
 
-[^135]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Jiaheng Shi 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
+[^135]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Shi J 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
 
 [^137]: A Systematic Review and Meta-Analysis of the Protective Effects of Acupuncture on Cognitive Function and Neuroinflammation During the Peritreatment Period of Neurological Diseases. Rong Chen. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-07-02. [메타분석, 2004명] [DOI 10.1177/03601293261464693](https://doi.org/10.1177/03601293261464693) — 침 치료는 MMSE 및 MoCA 점수를 유의하게 향상시키고 POCD 발생률을 낮추었으며, IL-6 및 S100β 수치를 감소시켜 인지 기능 개선과 항신경염증 효과가 있음을 확인하였다.
 
@@ -460,9 +460,9 @@
 
 [^149]: Improvement of Blood Flow and Epidermal Temperature in Cold Feet Using Far-Infrared Rays Emitted from Loess Balls Manufactured by Low-Temperature Wet Drying Method: A Randomized Trial.. Shin YI 외. _Biomedicines_. 2025-07-18. [임상시험, 90명] [DOI 10.3390/biomedicines13071759](https://doi.org/10.3390/biomedicines13071759) [PMID 40722828](https://pubmed.ncbi.nlm.nih.gov/40722828/) — 황토 바이오볼 매트는 일반 전기 매트나 탄소 원적외선 매트에 비해 좌우 엄지발가락의 혈류량과 표피 온도를 통계적으로 유의하게 더 많이 증가시켰다.
 
-[^150]: Acupuncture Regulates the Neurovascular Unit in Poststroke Motor Function Reconstruction: Mechanisms and Clinical Rehabilitation Prospects. Hengrui Guo 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-07-11. [임상시험, 120명] [DOI 10.1177/03601293261468385](https://doi.org/10.1177/03601293261468385) — 鍼(침, acupuncture) 병행 치료군은 대조군에 비해 FMA, BI 점수가 유의하게 높고 MAS 점수는 낮았으며, 중대뇌동맥 혈류 속도와 BDNF, VEGF 농도가 유의하게 증가하고 뇌 운동 영역의 활성도가 높아져 운동 기능 재건에 더 효과적인 것으로 나타났다.
+[^150]: Acupuncture Regulates the Neurovascular Unit in Poststroke Motor Function Reconstruction: Mechanisms and Clinical Rehabilitation Prospects. Guo H 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-07-11. [임상시험, 120명] [DOI 10.1177/03601293261468385](https://doi.org/10.1177/03601293261468385) — 鍼(침, acupuncture) 병행 치료군은 대조군에 비해 FMA, BI 점수가 유의하게 높고 MAS 점수는 낮았으며, 중대뇌동맥 혈류 속도와 BDNF, VEGF 농도가 유의하게 증가하고 뇌 운동 영역의 활성도가 높아져 운동 기능 재건에 더 효과적인 것으로 나타났다.
 
-[^151]: Electroacupuncture targeting the immune system to alleviate sepsis. Mengyue Fang 외. _Acupuncture and Herbal Medicine_. 2024-01-22. [체계적 고찰] [DOI 10.1097/hm9.0000000000000092](https://doi.org/10.1097/hm9.0000000000000092) — 전침 치료는 콜린성 항염증 경로(CAP) 활성화, NF-κB 및 STAT 신호 경로 억제, 면역 세포 기능 개선 등을 통해 패혈증성 염증을 완화하고 면역 기능을 개선하며 다장기 손상을 줄이는 임상적 이점이 있다.
+[^151]: Electroacupuncture targeting the immune system to alleviate sepsis. Fang M 외. _Acupuncture and Herbal Medicine_. 2024-01-22. [체계적 고찰] [DOI 10.1097/hm9.0000000000000092](https://doi.org/10.1097/hm9.0000000000000092) — 전침 치료는 콜린성 항염증 경로(CAP) 활성화, NF-κB 및 STAT 신호 경로 억제, 면역 세포 기능 개선 등을 통해 패혈증성 염증을 완화하고 면역 기능을 개선하며 다장기 손상을 줄이는 임상적 이점이 있다.
 
 [^160]: [Effects of traditional Chinese medicine on salivary glands in the patients with head and neck cancer during radiotherapy].. Wang Q 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1998-11. [임상시험, 50명] [PMID 11477859](https://pubmed.ncbi.nlm.nih.gov/11477859/) — 중약을 병용 투여한 군은 방사선치료 단독 투여군에 비해 구강 건조 정도가 유의하게 낮았으며, 타액 아밀라아제의 유량 및 분비 속도가 유의하게 높게 유지되어 타액선 보호 효과가 확인되었다.
 

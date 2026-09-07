@@ -435,7 +435,7 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^25]: Application of skin electrical conductance of acupuncture meridians for ureteral calculus: a case report. Lin WC 외. _Case reports in nephrology_. 2011. [증례 보고, 1명] [DOI 10.1155/2011/413532](https://doi.org/10.1155/2011/413532) [PMID 24533191](https://pubmed.ncbi.nlm.nih.gov/24533191/) — 본 사례는 일반적인 소변 검사나 초음파에서 정상으로 나타난 요관 결석 환자에서 膀胱經(방광경)의 전기전도도 측정이 유용한 보조 진단 도구가 될 수 있음을 보여줍니다.
 
-[^26]: Association Between the Electroconductive Value at 24 Acupoints and Blood Pressure in Community-Dwelling Japanese: The Toon Health Study. Michiko Onuma 외. _Integrative Medicine Reports_. 2022-05-01. [관찰연구, 1401명] [DOI 10.1089/imr.2022.0008](https://doi.org/10.1089/imr.2022.0008) — 본 연구는 려도락(Ryodoraku) 이론에 기반한 경혈의 전기전도값과 혈압 사이에 정적 상관관계가 있음을 시사한다.
+[^26]: Association Between the Electroconductive Value at 24 Acupoints and Blood Pressure in Community-Dwelling Japanese: The Toon Health Study. Onuma M 외. _Integrative Medicine Reports_. 2022-05-01. [관찰연구, 1401명] [DOI 10.1089/imr.2022.0008](https://doi.org/10.1089/imr.2022.0008) — 본 연구는 려도락(Ryodoraku) 이론에 기반한 경혈의 전기전도값과 혈압 사이에 정적 상관관계가 있음을 시사한다.
 
 [^27]: Different patterns of dynamic variations on electrical conductances of acupoints between Qi Vacuity and Qi non-Vacuity after glucose ingestion. Huang KF 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2011-09. [관찰연구, 20명] [DOI 10.1089/acm.2010.0528](https://doi.org/10.1089/acm.2010.0528) [PMID 21854198](https://pubmed.ncbi.nlm.nih.gov/21854198/) — 본 연구는 포도당 섭취 후 경혈의 전기 전도도 변화 패턴이 기허(氣虛) 상태에 따라 다르게 나타남을 보여주어, 료도락 진단이 기허 상태를 객관적으로 평가하는 보조적 도구가 될 수 있음을 시사한다.
 

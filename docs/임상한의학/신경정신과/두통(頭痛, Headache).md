@@ -756,9 +756,9 @@
 
 [^64]: Adverse Events After Cervical Spinal Manipulation – A Systematic Review and Meta-Analysis of Randomized Clinical Trials. Nikolaus Ballenberger. _Pain Physician Journal_. 2024-06-01. [메타분석] [DOI 10.36076/ppj.2024.7.185](https://doi.org/10.36076/ppj.2024.7.185) — 고속 저진폭(HVLA) 경추 교정술은 대조군과 비교했을 때 경증 또는 중등도 이상반응의 위험을 유의하게 증가시키지 않는 것으로 나타났다.
 
-[^65]: Effectiveness of Spinal Manipulation in Cervicogenic Headache: A Scoping Review. Nitish Kumar 외. _JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH_. 2025-09-01. [체계적 고찰] [DOI 10.7860/jcdr/2025/80478.21573](https://doi.org/10.7860/jcdr/2025/80478.21573) — 척추 교정술(Spinal Manipulation)은 경추성 두통, 긴장성 두통 및 편두통 환자의 통증 강도, 빈도 및 지속 시간을 줄이는 데 효과적인 치료 옵션이 될 수 있습니다.
+[^65]: Effectiveness of Spinal Manipulation in Cervicogenic Headache: A Scoping Review. Kumar N 외. _JOURNAL OF CLINICAL AND DIAGNOSTIC RESEARCH_. 2025-09-01. [체계적 고찰] [DOI 10.7860/jcdr/2025/80478.21573](https://doi.org/10.7860/jcdr/2025/80478.21573) — 척추 교정술(Spinal Manipulation)은 경추성 두통, 긴장성 두통 및 편두통 환자의 통증 강도, 빈도 및 지속 시간을 줄이는 데 효과적인 치료 옵션이 될 수 있습니다.
 
-[^66]: EFFECTS OF TRIGGER POINT DRY NEEDLING ON NECK PAIN AND CERVICAL RANGE OF MOTION (ROM) IN PATIENTS WITH CERVICOGENIC HEADACHE: A CASE SERIES. Deepshikha Beniwal 외. _INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH_. 2021-06-01. [증례 보고] [DOI 10.36106/ijsr/0705105](https://doi.org/10.36106/ijsr/0705105) — 경추성 두통 환자에게 통증 유발점 건침 요법을 적용하여 목 통증 완화와 경추 가동 범위 개선 효과를 기대할 수 있다.
+[^66]: EFFECTS OF TRIGGER POINT DRY NEEDLING ON NECK PAIN AND CERVICAL RANGE OF MOTION (ROM) IN PATIENTS WITH CERVICOGENIC HEADACHE: A CASE SERIES. Beniwal D 외. _INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH_. 2021-06-01. [증례 보고] [DOI 10.36106/ijsr/0705105](https://doi.org/10.36106/ijsr/0705105) — 경추성 두통 환자에게 통증 유발점 건침 요법을 적용하여 목 통증 완화와 경추 가동 범위 개선 효과를 기대할 수 있다.
 
 [^67]: Benefits of using dry needling for the treatment of pain in patients with headaches. Systematic review. Hugo Rubén Martínez 외. _International Journal of Neurology_. 2024-12-30. [체계적 고찰] [DOI 10.62486/ijn2024176](https://doi.org/10.62486/ijn2024176) — 드라이 니들링(Dry needling)은 만성 긴장성 두통 및 경추성 두통 환자의 통증 강도와 빈도를 유의하게 감소시키며, 경추 기능과 삶의 질을 개선하는 데 효과적입니다.
 
@@ -828,7 +828,7 @@
 
 [^100]: Analysis of risk factors for medication-overuse headache relapse: a clinic-based study in China. Yan Z 외. _BMC neurology_. 2015-09-17. [관찰연구] [DOI 10.1186/s12883-015-0422-1](https://doi.org/10.1186/s12883-015-0422-1) [PMID 26382591](https://pubmed.ncbi.nlm.nih.gov/26382591/) — 약물과용두통(MOH) 치료 후 재발 위험을 높이는 독립적 인자로 약물 금단 전 두통 빈도, 일차성 두통의 지속 기간, 그리고 약물 금단 후 두통 빈도가 확인되었습니다.
 
-[^101]: Medication-overuse Headache: Diagnostic Criteria, Epidemiology, and Treatment. Hong-Kyun Park 외. _Journal of the Korean Neurological Association_. 2023-02-01. [문헌 고찰] [DOI 10.17340/jkna.2023.1.1](https://doi.org/10.17340/jkna.2023.1.1) — 약물 과용 두통(MOH)의 관리를 위해서는 환자 교육을 통한 급성기 약물 사용의 중단 또는 감소가 필수적이며, 중단 과정에서 발생하는 금단 증상은 스테로이드나 항구토제를 이용한 가교 요법으로 조절할 수 있다.
+[^101]: Medication-overuse Headache: Diagnostic Criteria, Epidemiology, and Treatment. Park HK 외. _Journal of the Korean Neurological Association_. 2023-02-01. [문헌 고찰] [DOI 10.17340/jkna.2023.1.1](https://doi.org/10.17340/jkna.2023.1.1) — 약물 과용 두통(MOH)의 관리를 위해서는 환자 교육을 통한 급성기 약물 사용의 중단 또는 감소가 필수적이며, 중단 과정에서 발생하는 금단 증상은 스테로이드나 항구토제를 이용한 가교 요법으로 조절할 수 있다.
 
 [^102]: Iron concentration in the ventral pallidum of chronic migraine with medication-overuse headache. Xu X 외. _The journal of headache and pain_. 2026-03-07. [관찰연구] [DOI 10.1186/s10194-026-02321-2](https://doi.org/10.1186/s10194-026-02321-2) [PMID 41794674](https://pubmed.ncbi.nlm.nih.gov/41794674/) — 약물 과용 두통(MOH)을 동반한 만성 편두통 환자는 피각 전측(Ventral Pallidum)의 철분 농도가 낮게 나타나며, 이는 진통제 과다
 
@@ -884,7 +884,7 @@
 
 [^128]: 군발성 두통에 대한 최근침치료 연구 동향. 김성은 외. _대한한방내과학회지_. 2023-12. [체계적 고찰] [DOI 10.22246/jikm.2023.44.6.1197](https://doi.org/10.22246/jikm.2023.44.6.1197) — 본 연구는 지난 10년간의 RCT 분석을 통해 침 치료가 군발두통 환자의 증상 완화에 효과적임을 시사합니다.
 
-[^129]: The Effectiveness of Combination of Viola odorata L., Rosa damascena Mill. and Coriandrum sativum L. on Quality of Life of Patients with Migraine Headaches:  A Randomized, Double Blinded, Placebo - Controlled Clinical Trial. Mohadese Kamali 외. _Traditional and Integrative Medicine_. 2019-12-28. [임상시험] [DOI 10.18502/tim.v4i4.2139](https://doi.org/10.18502/tim.v4i4.2139) — 제비꽃, 다마스크 장미, 고수의 혼합물 투여가 편두통 환자의 삶의 질을 유의하게 개선함을 확인하였다.
+[^129]: The Effectiveness of Combination of Viola odorata L., Rosa damascena Mill. and Coriandrum sativum L. on Quality of Life of Patients with Migraine Headaches:  A Randomized, Double Blinded, Placebo - Controlled Clinical Trial. Kamali M 외. _Traditional and Integrative Medicine_. 2019-12-28. [임상시험] [DOI 10.18502/tim.v4i4.2139](https://doi.org/10.18502/tim.v4i4.2139) — 제비꽃, 다마스크 장미, 고수의 혼합물 투여가 편두통 환자의 삶의 질을 유의하게 개선함을 확인하였다.
 
 [^130]: A RANDOMIZED CONTROLLED TRIAL ON THE EFFECTIVENESS OF COURT-TYPE TRADITIONAL THAI MASSAGE VERSUS AMITRIPTYLINE IN PATIENTS WITH CHRONIC TENSION-TYPE HEADACHE. Peerada Damapong. . [임상시험] [DOI 10.58837/chula.the.2014.2125](https://doi.org/10.58837/chula.the.2014.2125) — 궁중식 전통 태국 마사지(CTTM)는 만성 긴장성 두통 환자의 통증 강도, 빈도, 지속 시간을 감소시키고 압통 역치와 부교감 신경 기능을 유의하게 개선하는 효과가 있다.
 
@@ -976,7 +976,7 @@
 
 [^174]: Integrated care for migraine and chronic tension-type headaches: A prospective observational study. Cramer H 외. _Complementary therapies in clinical practice_. 2019-08. [관찰연구] [DOI 10.1016/j.ctcp.2019.04.001](https://doi.org/10.1016/j.ctcp.2019.04.001) [PMID 31383425](https://pubmed.ncbi.nlm.nih.gov/31383425/) — 만성 편두통 및 긴장성 두통 환자에게 기존의 표준 치료와 보완대체요법을 결합한 학제간 다모드 통합 진료를 제공했을 때, 두통 빈도와 통증 정도가 유의하게 감소하고 삶의 질과 신체 기능이 개선됨을 확인하였다.
 
-[^175]: Real-World Use of Acupoints for Headache Treatment: An Exploratory Survey of Licensed Acupuncturists in Japan. Sumire Ishiyama 외. _Innovations in Acupuncture and Medicine_. 2025-11-27. [관찰연구] [DOI 10.1186/s44424-025-00029-9](https://doi.org/10.1186/s44424-025-00029-9) — 일본 내 침구사들이 편두통 치료에 가장 빈번하게 사용하는 혈위는 풍지(GB20), 합곡(LI4), 백회(GV20), 두유(ST8) 순으로 나타났다.
+[^175]: Real-World Use of Acupoints for Headache Treatment: An Exploratory Survey of Licensed Acupuncturists in Japan. Ishiyama S 외. _Innovations in Acupuncture and Medicine_. 2025-11-27. [관찰연구] [DOI 10.1186/s44424-025-00029-9](https://doi.org/10.1186/s44424-025-00029-9) — 일본 내 침구사들이 편두통 치료에 가장 빈번하게 사용하는 혈위는 풍지(GB20), 합곡(LI4), 백회(GV20), 두유(ST8) 순으로 나타났다.
 
 [^176]: Efficacy of the herbal medicine Chotosan following treatment with Western medications for migraine accompanied by tension-type headache. Tanei T 외. _Frontiers in Neurology_. 2025-12-09. [관찰연구] [DOI 10.3389/fneur.2025.1697333](https://doi.org/10.3389/fneur.2025.1697333) — 양약 치료에 충분한 반응을 보이지 않거나 부작용이 있는 긴장성 두통 동반 편두통 환자에게 작약감초탕(芍藥甘草湯)을 투여했을 때, 월간 두통 일수와 편두통 일수가 유의하게 감소하고 진통제 사용량이 줄어드는 효과가 확인되었다.
 
@@ -988,7 +988,7 @@
 
 [^180]: Lorazepam-Induced Orthostatic Hypotension and Secondary Headache in a Low Blood Pressure Phenotype. Song S 외. _Cureus_. 2025-11. [증례 보고] [DOI 10.7759/cureus.97894](https://doi.org/10.7759/cureus.97894) [PMID 41466923](https://pubmed.ncbi.nlm.nih.gov/41466923/) — 본 사례는 기본 혈압이 낮은 환자에게 벤조디아제핀(BZD) 계열 약물인 로라제팜이 자율신경계 억제를 통해 기립성 내성 및 두통을 유발할 수 있음을 시사한다.
 
-[^181]: Kampo (Japanese herbal) medicine for primary headache as an acute treatment –a retrospective investigation in Kesennuma City Hospital during 5 years-. Masahito Katsuki 외. 2022-07-20. [관찰연구] [DOI 10.21203/rs.3.rs-1825118/v1](https://doi.org/10.21203/rs.3.rs-1825118/v1) — 일차성 두통의 급성기 치료로서 한방약(갈근탕, 오축유탕, 오령산)이 NSAIDs와 유사한 수준의 증상 개선 효과를 보였다.
+[^181]: Kampo (Japanese herbal) medicine for primary headache as an acute treatment –a retrospective investigation in Kesennuma City Hospital during 5 years-. Katsuki M 외. 2022-07-20. [관찰연구] [DOI 10.21203/rs.3.rs-1825118/v1](https://doi.org/10.21203/rs.3.rs-1825118/v1) — 일차성 두통의 급성기 치료로서 한방약(갈근탕, 오축유탕, 오령산)이 NSAIDs와 유사한 수준의 증상 개선 효과를 보였다.
 
 [^182]: Variability in the diagnosis and point selection for persons with frequent headache by traditional Chinese medicine acupuncturists. _Journal of Alternative and Complementary Medicine_. 2006. [관찰연구] [DOI 10.1089/acm.2006.12.863](https://doi.org/10.1089/acm.2006.12.863) [PMID 17109577](https://pubmed.ncbi.nlm.nih.gov/17109577/) — 빈발 두통 환자에 대한 중의학 침구사 37명의 변증·취혈 분석. 간양·기 불균형 변증에서 태충(LR3)·합곡(LI4)·백회(GV20) 취혈이 공통적으로 선택됨 — 임상 취혈 관행의 실태 근거.
 

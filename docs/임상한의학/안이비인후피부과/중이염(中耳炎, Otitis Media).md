@@ -792,7 +792,7 @@ GRADE(Grading of Recommendations Assessment, Development and Evaluation) 관점�
 
 [^24]: METHOD FOR THE TREATMENT OF EXUDATIVE OTITIS MEDIA IN CHILDREN. U.S. Khasanov 외. _Oriental Journal of Medicine and Pharmacology_. 2022-01-01. [기타] [DOI 10.37547/supsci-ojmp-02-01-04](https://doi.org/10.37547/supsci-ojmp-02-01-04) — 소아 삼출성 중이염은 2–5세에서 발병률이 높으며, 해부학적 특성(짧고 수평인 이관)으로 인해 성인보다 발생 빈도가 높다.
 
-[^25]: Preventing Ventilation Tube Otorrhea and Obstruction (PreVenTO2): A Randomized Controlled Trial. Luke Wang 외. 2021-07-27. [임상시험] [DOI 10.22541/au.162741039.90596612/v1](https://doi.org/10.22541/au.162741039.90596612/v1) — 소아의 환기 튜브 삽입술 후, 수술 중 시프로플록사신 0.3% 점이액을 투여하는 것은 조기 이루 발생을 예방하는 데, 수술 후 5일간 추가 투여하는 것은 튜브 폐쇄를 예방하는 데 효과적이다.
+[^25]: Preventing Ventilation Tube Otorrhea and Obstruction (PreVenTO2): A Randomized Controlled Trial. Wang L 외. 2021-07-27. [임상시험] [DOI 10.22541/au.162741039.90596612/v1](https://doi.org/10.22541/au.162741039.90596612/v1) — 소아의 환기 튜브 삽입술 후, 수술 중 시프로플록사신 0.3% 점이액을 투여하는 것은 조기 이루 발생을 예방하는 데, 수술 후 5일간 추가 투여하는 것은 튜브 폐쇄를 예방하는 데 효과적이다.
 
 [^26]: Noninvasive depth-resolved optical measurements of the tympanic membrane and middle ear for differentiating otitis media. Monroy GL 외. _The Laryngoscope_. 2015-08. [관찰연구] [DOI 10.1002/lary.25141](https://doi.org/10.1002/lary.25141) [PMID 25599652](https://pubmed.ncbi.nlm.nih.gov/25599652/) — 광간섭 단층촬영(OCT)을 통해 고막의 두께와 중이 생체막의 존재를 정량적으로 측정함으로써 정상, 급성, 만성 중이염을 효과적으로 구분할 수 있음을 확인하였다.
 

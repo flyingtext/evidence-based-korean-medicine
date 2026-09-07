@@ -1373,11 +1373,11 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^BXHPT2]: Clinical observations on 46 cases of globus hystericus treated with modified Banxia Houpu decoction. Bo P 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-06. [임상시험, 95명] [DOI 10.1016/s0254-6272(10)60023-4](https://doi.org/10.1016/s0254-6272(10)60023-4) [PMID 20653165](https://pubmed.ncbi.nlm.nih.gov/20653165/) — 가감 반하후박탕이 매핵기 환자의 우울과 불안을 완화하고 심리 상태를 개선하는 데 효과적이었다.
 
-[^BXHPT3]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Jung-hwa Hong 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) — COVID-19 감염 후 발생하는 매핵기(목의 이물감) 증상에 반하후박탕·소시호탕 병용이 증상 완화에 유용할 수 있음을 시사한다.
+[^BXHPT3]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Hong JH 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) — COVID-19 감염 후 발생하는 매핵기(목의 이물감) 증상에 반하후박탕·소시호탕 병용이 증상 완화에 유용할 수 있음을 시사한다.
 
 [^BXHPT4]: Effect of Koso-san on globus pharyngeus. Motoo Y 외. _The American journal of Chinese medicine_. 1999. [임상시험, 23명] [DOI 10.1142/S0192415X9900032X](https://doi.org/10.1142/S0192415X9900032X) [PMID 10467462](https://pubmed.ncbi.nlm.nih.gov/10467462/) — 기체(氣滯) 증상을 동반한 매핵기 환자에게 향소산(香蘇散)을 투여했을 때 높은 증상 개선율을 보였다.
 
-[^BXHPT5]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Tomoko Suzuki 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) — 반하후박탕(HKT)은 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 있다.
+[^BXHPT5]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Suzuki T 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) — 반하후박탕(HKT)은 인후 불편감·매핵기로 인한 우울·불안 개선뿐 아니라 고령자·수술 후 환자의 흡인성 폐렴 예방에도 임상적 유용성이 있다.
 
 [^WD1]: Wendan decoction for primary insomnia: Protocol for a systematic review and meta-analysis. Yan X 외. _Medicine_. 2017-11. [체계적 고찰] [DOI 10.1097/MD.0000000000008906](https://doi.org/10.1097/MD.0000000000008906) [PMID 29382025](https://pubmed.ncbi.nlm.nih.gov/29382025/) — 일차성 불면증 환자 대상 온담탕의 유효성·안전성을 평가하는 체계적 문헌고찰·메타분석 프로토콜.
 
@@ -1451,7 +1451,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^ONC1]: Analysis of Gut Microbiota as a Diagnostic Biomarker for Lung Adenocarcinoma with Qi-Deficiency and Phlegm-Turbid Stagnation. Chen J 외. _Combinatorial chemistry & high throughput screening_. 2025. [관찰연구, 90명] [DOI 10.2174/0113862073303081240521083505](https://doi.org/10.2174/0113862073303081240521083505) [PMID 38847243](https://pubmed.ncbi.nlm.nih.gov/38847243/) — 폐선암 환자의 기허담탁(氣虛痰濁) 증후군을 진단하기 위해 장내 미생물 분석을 통한 바이오마커를 발굴하고 진단 모델을 구축하였다.
 
-[^CARDIOREN1]: Utilizing data mining techniques to analyze traditional Chinese medicine patterns in patients with acute cardiorenal syndrome. Deshuang Yang 외. _Advanced Chinese Medicine_. 2024-04. [관찰연구] [DOI 10.1002/acm4.14](https://doi.org/10.1002/acm4.14) — 급성 심신 증후군(ACRS) 치료 시 온성·평성 성질의 감미·신미 약재가 주로 사용되며, 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 유용하고 폐·비 경락으로 귀경하는 약재 조합이 핵심이다.
+[^CARDIOREN1]: Utilizing data mining techniques to analyze traditional Chinese medicine patterns in patients with acute cardiorenal syndrome. Yang D 외. _Advanced Chinese Medicine_. 2024-04. [관찰연구] [DOI 10.1002/acm4.14](https://doi.org/10.1002/acm4.14) — 급성 심신 증후군(ACRS) 치료 시 온성·평성 성질의 감미·신미 약재가 주로 사용되며, 강기탁(降氣濁)·이수소종·건습화담 효능의 처방이 임상적으로 유용하고 폐·비 경락으로 귀경하는 약재 조합이 핵심이다.
 
 **고전 인용 출처**: 『金匱要略』(痰飮病脈證治), 『素問』(至眞要大論, 痿論), 『靈樞』, 『難經』, 『傷寒論』(小陷胸湯), 『諸病源候論』, 『丹溪心法』, 『醫學心悟』(半夏白朮天麻湯), 『太平惠民和劑局方』(二陳湯), 『三因極一病證方論』(溫膽湯), 『萬病回春』(蒼附導痰湯), 『外科正宗』(海藻玉壺湯), 『溫病條辨』(安宮牛黃丸), 『醫學衷中參西錄』
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-17 조회 기준

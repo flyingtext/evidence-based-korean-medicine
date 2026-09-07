@@ -402,7 +402,7 @@
 
 [^26]: Case Report: Integrated traditional Chinese and Western medicine in the outpatient management of diabetic foot gangrene complicating uremia.. Hu C 외. _Frontiers in endocrinology_. 2025. [증례 보고, 1명] [DOI 10.3389/fendo.2025.1638086](https://doi.org/10.3389/fendo.2025.1638086) [PMID 40937418](https://pubmed.ncbi.nlm.nih.gov/40937418/) — 양화사군자탕과 변연절제술을 병행한 통합 치료 결과, 염증 지표(CRP)가 유의하게 감소하고 괴저가 소실되어 족부 절단 없이 궤양이 완전히 치유되었다.
 
-[^30]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Jiaheng Shi 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
+[^30]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Shi J 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
 
 [^31]: Effect of traditional Chinese medicine on serum inflammation and efficacy in patients with sepsis: a systematic review and meta-analysis.. Wen Y 외. _Annals of palliative medicine_. 2021-12. [메타분석, 862명] [DOI 10.21037/apm-21-3179](https://doi.org/10.21037/apm-21-3179) [PMID 35016478](https://pubmed.ncbi.nlm.nih.gov/35016478/) — 한의학적 치료를 병행한 결과, IL-6 및 TNF-α 수치가 유의하게 낮아졌고, APACHE II 점수가 감소하였으며, 사망률 감소 및 치료 유효율 향상이 확인되었다.
 

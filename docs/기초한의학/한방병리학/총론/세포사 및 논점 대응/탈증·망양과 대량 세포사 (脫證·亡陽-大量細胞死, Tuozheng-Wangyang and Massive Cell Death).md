@@ -370,7 +370,7 @@
 
 [^45]: Efficacy and safety of acupuncture as a complementary therapy for sepsis: a systematic review and meta-analysis. Xian J 외. _Acupuncture in Medicine_. 2022-05-17. [메타분석, 1099명] [DOI 10.1177/09645284221086288](https://doi.org/10.1177/09645284221086288) — 침 치료를 표준 치료와 병행했을 때, 단독 표준 치료군에 비해 28일 사망률이 유의하게 감소하고 APACHE II 점수가 개선되었으며, 여러 염증 지표들이 감소하는 효과가 나타났다.
 
-[^46]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Jiaheng Shi 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
+[^46]: Use of acupuncture in sepsis with gastrointestinal dysfunction: A systematic review and meta-analysis. Shi J 외. _Science of Traditional Chinese Medicine_. 2025-09. [메타분석, 1603명] [DOI 10.1097/st9.0000000000000075](https://doi.org/10.1097/st9.0000000000000075) — 침 치료는 복압, 장음, 위 잔류량과 같은 위장관 지표뿐만 아니라 염증 지표 및 임상적 예후를 유의하게 개선시키는 것으로 나타났다.
 
 [^47]: Traditional Chinese medicine for septic patients undergoing ulinastatin therapy. Shan RF 외. _Medicine_. 2021-09-24. [메타분석, 1903명] [DOI 10.1097/md.0000000000027151](https://doi.org/10.1097/md.0000000000027151) — 중의학(TCM) 병용 요법은 울리나스타틴 단독 투여보다 APACHE II 점수, 염증성 사이토카인, 심장 표지자 및 전원 사망률을 유의하게 감소시켰다.
 

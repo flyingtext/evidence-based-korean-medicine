@@ -739,9 +739,9 @@
 
 [^60]: Effect of a traditional herbal medicine, hangekobokuto, on the sensation of a lump in the throat in patients with respiratory diseases. Kagohashi K 외. _Biomedical reports_. 2016-03. [관찰연구, 43명] [DOI 10.3892/br.2016.592](https://doi.org/10.3892/br.2016.592) [PMID 26998281](https://pubmed.ncbi.nlm.nih.gov/26998281/) — 호흡기 질환 동반 인후 이물감 환자의 약 60%에서 반응. 실제 진료 상황의 반응률 추정치.
 
-[^61]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Tomoko Suzuki 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) — 반하후박탕의 인후 불편감·정서 증상 개선과 흡인성 폐렴 예방 근거를 종합. 자소엽 배오 처방의 임상 지형도.
+[^61]: A review of frequently used Kampo prescriptions: Part 2—Hangekobokuto. Suzuki T 외. _Traditional & Kampo Medicine_. 2023-05-29. [문헌 고찰] [DOI 10.1002/tkm2.1373](https://doi.org/10.1002/tkm2.1373) — 반하후박탕의 인후 불편감·정서 증상 개선과 흡인성 폐렴 예방 근거를 종합. 자소엽 배오 처방의 임상 지형도.
 
-[^62]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Jung-hwa Hong 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) — 코로나19 이후 인후 이물감에 반하후박탕·소시호탕이 유효했던 국내 증례.
+[^62]: Case Report of Korean Medicine Treatment for Post-COVID-19 Globus Sensation. Hong JH 외. _The Journal of Internal Korean Medicine_. 2023-05-31. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.2.244](https://doi.org/10.22246/jikm.2023.44.2.244) — 코로나19 이후 인후 이물감에 반하후박탕·소시호탕이 유효했던 국내 증례.
 
 [^63]: 인후부 이물감을 동반한 기능성 소화불량증 환자에 대한 복령음 합 반하후박탕을 비롯한 한의치료 치험 1례. 허성은 외. _대한한방내과학회지_. 2026-05. [증례 보고, 1명] [DOI 10.22246/jikm.2026.47.2.158](https://doi.org/10.22246/jikm.2026.47.2.158) — 주관적 증상뿐 아니라 전기위장관운동검사상 위 수축력이 증가. 이기화위 효능의 객관적 지표 개선 사례.
 
@@ -765,7 +765,7 @@
 
 [^73]: Efficacy evaluation and exploratory analysis of influencing factors of Banxia Houpu Decoction in the treatment of refractory gastroesophageal reflux disease. Song S 외. _Medicine_. 2024-06-14. [임상시험, 89명] [DOI 10.1097/MD.0000000000038045](https://doi.org/10.1097/MD.0000000000038045) [PMID 38875370](https://pubmed.ncbi.nlm.nih.gov/38875370/) — 양성자펌프억제제 불응 환자의 비전형 증상 완화에 우수. 난치성 사례의 대안 근거.
 
-[^74]: A Randomized Clinical Trial of Proton Pump Inhibitors Combined with Traditional Chinese Medicine in the Treatment of Laryngopharyngeal Reflux Disease. Feng Pei 외. _Acupuncture & Electro-Therapeutics Research_. 2022-08. [임상시험, 150명] [DOI 10.3727/036012921x16321477053845](https://doi.org/10.3727/036012921x16321477053845) — 병용군이 RSI·RFS와 삶의 질에서 우수. 인후두역류 영역의 병용 근거.
+[^74]: A Randomized Clinical Trial of Proton Pump Inhibitors Combined with Traditional Chinese Medicine in the Treatment of Laryngopharyngeal Reflux Disease. Pei F 외. _Acupuncture & Electro-Therapeutics Research_. 2022-08. [임상시험, 150명] [DOI 10.3727/036012921x16321477053845](https://doi.org/10.3727/036012921x16321477053845) — 병용군이 RSI·RFS와 삶의 질에서 우수. 인후두역류 영역의 병용 근거.
 
 [^75]: Clinical significance of minimal change lesions of the esophagus in a healthy Korean population: a nationwide multi-center prospective study. Lee JH 외. _Journal of gastroenterology and hepatology_. 2008-07. [관찰연구, 25536명] [DOI 10.1111/j.1440-1746.2008.05299.x](https://doi.org/10.1111/j.1440-1746.2008.05299.x) [PMID 18205773](https://pubmed.ncbi.nlm.nih.gov/18205773/) — 건강인에서도 식도 미세 변화가 흔함. 내시경 소견만으로 증상을 설명하기 어려운 환자군의 존재 근거.
 
@@ -785,7 +785,7 @@
 
 [^83]: The safety and efficacy of Chinese herbal medicine for pneumonia prevention in high-risk elder residents in the nursing home: A randomized, double-blind clinical trial. Chen YT 외. _Journal of ethnopharmacology_. 2024-01-10. [임상시험, 160명] [DOI 10.1016/j.jep.2023.117017](https://doi.org/10.1016/j.jep.2023.117017) [PMID 37562462](https://pubmed.ncbi.nlm.nih.gov/37562462/) — 요양원 고위험군의 폐렴 발생·입원율 감소와 객담 유해균 감소. 장기요양 현장의 적용 근거.
 
-[^84]: Functional improvement of deglutition after hangekobokuto treatment in two cases: Endoscopy and fluoroscopy evaluation. Yoshinobu Nakada 외. _Traditional & Kampo Medicine_. 2015-07-29. [증례 보고, 2명] [DOI 10.1002/tkm2.1020](https://doi.org/10.1002/tkm2.1020) — 내시경·투시 검사로 삼킴 기능 개선을 객관적으로 확인.
+[^84]: Functional improvement of deglutition after hangekobokuto treatment in two cases: Endoscopy and fluoroscopy evaluation. Nakada Y 외. _Traditional & Kampo Medicine_. 2015-07-29. [증례 보고, 2명] [DOI 10.1002/tkm2.1020](https://doi.org/10.1002/tkm2.1020) — 내시경·투시 검사로 삼킴 기능 개선을 객관적으로 확인.
 
 [^85]: Traditional Chinese therapy initiates oral feeding in a stroked woman after three years of nasogastric tube feeding. Iwasaki K 외. _Journal of family medicine and primary care_. 2019-09. [증례 보고, 1명] [DOI 10.4103/jfmpc.jfmpc_670_19](https://doi.org/10.4103/jfmpc.jfmpc_670_19) [PMID 31681697](https://pubmed.ncbi.nlm.nih.gov/31681697/) — 장기 비위관 영양 환자의 경구 섭취 재개. 극단적 사례에서의 가능성 제시.
 

@@ -502,7 +502,7 @@ M11.9 — 결정 종류가 확인되지 않은 결정 유발성 관절염.
 
 [^7]: Association between low cortical bone mineral density, soft-tissue calcification, vascular calcification and chondrocalcinosis: a case-control study. Abhishek A 외. _Annals of the rheumatic diseases_. 2014-11. [관찰연구] [DOI 10.1136/annrheumdis-2013-203400](https://doi.org/10.1136/annrheumdis-2013-203400) [PMID 23912799](https://pubmed.ncbi.nlm.nih.gov/23912799/) — 낮은 피질골밀도·연조직·혈관 석회화와 연골석회화의 독립적 연관성을 확인, 전신적 칼슘 결정 형성 소인 시사.
 
-[^8]: Treatment of calcium pyrophosphate deposition. Abhishek Abhishek 외. _Oxford Medicine Online_. 2016-11. [문헌 고찰] [DOI 10.1093/med/9780199668847.003.0052](https://doi.org/10.1093/med/9780199668847.003.0052) — CPPD 치료는 증상 조절 중심(휴식·냉찜질·관절천자·스테로이드), 고령 환자에서 NSAIDs 사용 시 위장관·신장 합병증 주의 필요.
+[^8]: Treatment of calcium pyrophosphate deposition. Abhishek A 외. _Oxford Medicine Online_. 2016-11. [문헌 고찰] [DOI 10.1093/med/9780199668847.003.0052](https://doi.org/10.1093/med/9780199668847.003.0052) — CPPD 치료는 증상 조절 중심(휴식·냉찜질·관절천자·스테로이드), 고령 환자에서 NSAIDs 사용 시 위장관·신장 합병증 주의 필요.
 
 [^9]: The coexistence of crowned dens sign and calcification of ligamentum flavum in the cervical spine: mere coincidence or meaningful association? Meng Y 외. _Medicine_. 2025-06-06. [증례 보고] [DOI 10.1097/MD.0000000000042630](https://doi.org/10.1097/MD.0000000000042630) [PMID 40489863](https://pubmed.ncbi.nlm.nih.gov/40489863/) — 경추 황색인대 석회화와 crowned dens sign의 높은 동반율, 전신적 CPPD 소인 고려 필요성 시사.
 
@@ -534,7 +534,7 @@ M11.9 — 결정 종류가 확인되지 않은 결정 유발성 관절염.
 
 [^23]: Efficacy and Safety of Acupuncture Combined with Herbal Medicine in Treating Gouty Arthritis: Meta-Analysis of Randomized Controlled Trials. Liang H 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-30. [메타분석] [DOI 10.1155/2021/8161731](https://doi.org/10.1155/2021/8161731) — 침+한약 병용이 단독 치료보다 통풍성 관절염 증상·요산 개선에 우수, 개별 연구 비뚤림 위험 존재.
 
-[^24]: Efficacy and Safety of Acupuncture for Acute Gouty Arthritis: A Systematic Review and Network Meta-Analysis. Yuxiao Cai 외. 2024-09-24. [메타분석] [DOI 10.1101/2024.09.21.24314132](https://doi.org/10.1101/2024.09.21.24314132) — 화침·침+약물 병용·사혈+약물 병용의 세부 효과 차이를 네트워크 메타분석으로 비교.
+[^24]: Efficacy and Safety of Acupuncture for Acute Gouty Arthritis: A Systematic Review and Network Meta-Analysis. Cai Y 외. 2024-09-24. [메타분석] [DOI 10.1101/2024.09.21.24314132](https://doi.org/10.1101/2024.09.21.24314132) — 화침·침+약물 병용·사혈+약물 병용의 세부 효과 차이를 네트워크 메타분석으로 비교.
 
 [^25]: Efficacy and safety of external application of Traditional Chinese Medicine for the treatment of acute gouty arthritis: a systematic review and Meta-analysis. Huang X 외. _Journal of traditional Chinese medicine_. 2019-06. [메타분석] [PMID 32186001](https://pubmed.ncbi.nlm.nih.gov/32186001/) — 중약 외용제가 양약·타 치료 대비 효과 우수·부작용 적음, 근거 수준은 낮아 신중한 적용 필요.
 

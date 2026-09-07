@@ -924,7 +924,7 @@
 
 [^29]: Comparative effectiveness of electroacupuncture and conventional acupuncture for rheumatoid arthritis pain: A network meta-analysis with emphasis on placebo control validity. Wang S 외. _Journal of integrative medicine_. 2026-01. [메타분석] [DOI 10.1016/j.joim.2025.09.005](https://doi.org/10.1016/j.joim.2025.09.005) [PMID 41102052](https://pubmed.ncbi.nlm.nih.gov/41102052/) — 전침과 일반 침의 류마티스관절염 통증 개선 효과를 비교한 네트워크메타분석(704명). 위약대조 타당성까지 검토.
 
-[^30]: Efficacy and Safety of Acupuncture with Western Medicine for Rheumatoid Arthritis: A Systematic Review and Meta-analysis. Xinhui Huo 외. _Acupuncture &amp; Electro-Therapeutics Research_. 2021-08-24. [메타분석] [DOI 10.3727/036012921x16237619666076](https://doi.org/10.3727/036012921x16237619666076) — 침+양약 병용의 류마티스관절염 효과·안전성을 정리한 메타분석(698명).
+[^30]: Efficacy and Safety of Acupuncture with Western Medicine for Rheumatoid Arthritis: A Systematic Review and Meta-analysis. Huo X 외. _Acupuncture &amp; Electro-Therapeutics Research_. 2021-08-24. [메타분석] [DOI 10.3727/036012921x16237619666076](https://doi.org/10.3727/036012921x16237619666076) — 침+양약 병용의 류마티스관절염 효과·안전성을 정리한 메타분석(698명).
 
 [^31]: Treatment of rheumatoid arthritis with combination of methotrexate and Tripterygium wilfordii: A meta-analysis. Wang X 외. _Life sciences_. 2017-02-15. [메타분석] [DOI 10.1016/j.lfs.2017.01.004](https://doi.org/10.1016/j.lfs.2017.01.004) [PMID 28088452](https://pubmed.ncbi.nlm.nih.gov/28088452/) — 메토트렉세이트+뇌공등 병용 치료의 메타분석(643명).
 
@@ -962,7 +962,7 @@
 
 [^48]: The Efficacy and Safety of Chinese Herbal Medicine in the Treatment of Knee Osteoarthritis: An Updated Systematic Review and Meta‐Analysis of 56 Randomized Controlled Trials. Lin Z 외. _Oxidative Medicine and Cellular Longevity_. 2022-01. [메타분석] [DOI 10.1155/2022/6887988](https://doi.org/10.1155/2022/6887988) — 한약이 슬관절 골관절염에 미치는 효과를 56편 RCT로 갱신 분석한 메타분석(5,350명).
 
-[^49]: Quantitative assessment of acupuncture’s effectiveness in osteoarthritis: a model-based meta-analysis. Aobo Feng 외. _Acupuncture and Herbal Medicine_. 2026-04-20. [메타분석] [DOI 10.1097/hm9.0000000000000199](https://doi.org/10.1097/hm9.0000000000000199) — 침의 골관절염 효과를 모델 기반으로 정량화한 메타분석(4,919명). 용량-반응 관계 탐색.
+[^49]: Quantitative assessment of acupuncture’s effectiveness in osteoarthritis: a model-based meta-analysis. Feng A 외. _Acupuncture and Herbal Medicine_. 2026-04-20. [메타분석] [DOI 10.1097/hm9.0000000000000199](https://doi.org/10.1097/hm9.0000000000000199) — 침의 골관절염 효과를 모델 기반으로 정량화한 메타분석(4,919명). 용량-반응 관계 탐색.
 
 [^50]: Acutherapy for Knee Osteoarthritis Relief in the Elderly: A Systematic Review and Meta-Analysis. Gong Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [메타분석] [DOI 10.1155/2019/1868107](https://doi.org/10.1155/2019/1868107) [PMID 30906410](https://pubmed.ncbi.nlm.nih.gov/30906410/) — 고령 슬관절 골관절염 환자에서 침구요법의 통증완화 효과를 정리한 메타분석(4,774명).
 
@@ -1068,7 +1068,7 @@
 
 [^101]: \[Observation on therapeutic effect of herb-partitioned moxibustion on fibromyalgia syndrome\]. Zhao RH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-03. [임상시험] [PMID 19358502](https://pubmed.ncbi.nlm.nih.gov/19358502/) — 격약구(약재를 사이에 둔 간접뜸)의 섬유근육통 치료효과 관찰연구(60명).
 
-[^102]: Efficacy and Safety of Acupuncture for Acute Gouty Arthritis: A Systematic Review and Network Meta-Analysis. Yuxiao Cai 외. 2024-09-24. [메타분석] [DOI 10.1101/2024.09.21.24314132](https://doi.org/10.1101/2024.09.21.24314132) — 침의 급성 통풍성관절염 효과·안전성을 정리한 체계적 고찰·네트워크메타분석(2,801명).
+[^102]: Efficacy and Safety of Acupuncture for Acute Gouty Arthritis: A Systematic Review and Network Meta-Analysis. Cai Y 외. 2024-09-24. [메타분석] [DOI 10.1101/2024.09.21.24314132](https://doi.org/10.1101/2024.09.21.24314132) — 침의 급성 통풍성관절염 효과·안전성을 정리한 체계적 고찰·네트워크메타분석(2,801명).
 
 [^103]: Comparison of efficacy of acupuncture-related therapies in treating Acute Gouty Arthritis: A Network Meta-Analysis of Randomized Controlled Trials. Fan Y 외. _Heliyon_. 2024-04-15. [메타분석] [DOI 10.1016/j.heliyon.2024.e28122](https://doi.org/10.1016/j.heliyon.2024.e28122) [PMID 38576580](https://pubmed.ncbi.nlm.nih.gov/38576580/) — 다양한 침구 관련 요법의 급성 통풍성관절염 효과를 비교한 네트워크메타분석(2,434명).
 
@@ -1078,7 +1078,7 @@
 
 [^106]: Efficacy and safety of Chinese herbal compound in the treatment of acute gouty arthritis: A systematic review and meta-analysis of randomized controlled trials. Zhao X 외. _International immunopharmacology_. 2025-03-06. [메타분석] [DOI 10.1016/j.intimp.2025.114223](https://doi.org/10.1016/j.intimp.2025.114223) [PMID 39923577](https://pubmed.ncbi.nlm.nih.gov/39923577/) — 복합 한약의 급성 통풍성관절염 효과·안전성을 정리한 체계적 고찰·메타분석(2,100명).
 
-[^107]: Single Acupuncture Treatment Can Reduce the Level of Uric Acid and Alleviating Pain in Gouty Arthritis, a Meta-Analysis. Pei Liu 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2021-05. [메타분석] [DOI 10.3727/036012921x16164310686815](https://doi.org/10.3727/036012921x16164310686815) — 단회 침 치료가 요산 수치 감소와 통풍성관절염 통증완화에 미치는 효과를 정리한 메타분석(2,048명).
+[^107]: Single Acupuncture Treatment Can Reduce the Level of Uric Acid and Alleviating Pain in Gouty Arthritis, a Meta-Analysis. Liu P 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2021-05. [메타분석] [DOI 10.3727/036012921x16164310686815](https://doi.org/10.3727/036012921x16164310686815) — 단회 침 치료가 요산 수치 감소와 통풍성관절염 통증완화에 미치는 효과를 정리한 메타분석(2,048명).
 
 [^108]: Herbal medicine for external use in acute gouty arthritis: A PRISMA-compliant systematic review and meta-analysis. Choi SH 외. _Medicine_. 2023-09-15. [메타분석] [DOI 10.1097/MD.0000000000034936](https://doi.org/10.1097/MD.0000000000034936) [PMID 37713880](https://pubmed.ncbi.nlm.nih.gov/37713880/) — 외용 한약(첩부·훈세 등)의 급성 통풍성관절염 효과를 PRISMA 기준으로 정리한 체계적 고찰·메타분석(1,951명).
 
@@ -1138,7 +1138,7 @@
 
 [^136]: Clinical efficacy of fire-needle warming therapy in the treatment of knee osteoarthritis of cold-dampness type and its effect on serum IL-1β and MMP-3. Liu T 외. _Clinical Rheumatology_. 2025-06-10. [임상시험] [DOI 10.1007/s10067-025-07497-7](https://doi.org/10.1007/s10067-025-07497-7) — 화침 온법(火鍼溫法)이 한습 응체형(착비·한비) 슬관절 골관절염에 미치는 임상효과를 검증한 임상시험(80명). 착비·한비의 온산법 직접 근거.
 
-[^137]: Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndrome: A Randomized Controlled Pilot Trial. Tian-Qi Wang 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2021-07. [임상시험] [DOI 10.3727/036012921x16207330235374](https://doi.org/10.3727/036012921x16207330235374) — 경락변증(經絡辨證)에 따라 다르게 취혈한 전침이 슬관절 골관절염에 미치는 효과를 검증한 무작위대조시험(60명). 변증 층화 취혈의 직접 근거.
+[^137]: Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndrome: A Randomized Controlled Pilot Trial. Wang TQ 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2021-07. [임상시험] [DOI 10.3727/036012921x16207330235374](https://doi.org/10.3727/036012921x16207330235374) — 경락변증(經絡辨證)에 따라 다르게 취혈한 전침이 슬관절 골관절염에 미치는 효과를 검증한 무작위대조시험(60명). 변증 층화 취혈의 직접 근거.
 
 [^138]: Electroacupuncture versus diclofenac in symptomatic treatment of osteoarthritis of the knee: a randomized controlled trial. Sangdee C 외. _BMC complementary and alternative medicine_. 2002-03-21. [임상시험] [DOI 10.1186/1472-6882-2-3](https://doi.org/10.1186/1472-6882-2-3) [PMID 11914160](https://pubmed.ncbi.nlm.nih.gov/11914160/) — 전침과 디클로페낙을 비교한 슬관절 골관절염 무작위대조시험(193명).
 

@@ -454,7 +454,7 @@
 
 [^18]: [Effects of modified longdan xiegan decoction on hyperandrogenism in patients with polycystic ovary syndrome of stagnant fire in Gan channel type]. Tao LL 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-09. [임상시험] [PMID 17058838](https://pubmed.ncbi.nlm.nih.gov/17058838/) — 간경화증(肝經火證) 변증에 한정해 효과를 보고한 연구로 변증 층화의 전형.
 
-[^19]: Clinical Effect of Injinho-tang on Hyperbilirubinemia in Hepatobiliary Disorders: A Systematic Review. Keunjoon Park 외. _The Journal of Internal Korean Medicine_. 2022-12-30. [체계적 고찰] [DOI 10.22246/jikm.2022.43.6.1149](https://doi.org/10.22246/jikm.2022.43.6.1149) — 간담계 고빌리루빈혈증에서 인진호탕의 임상 효과를 종합한 국내 체계적 고찰.
+[^19]: Clinical Effect of Injinho-tang on Hyperbilirubinemia in Hepatobiliary Disorders: A Systematic Review. Park K 외. _The Journal of Internal Korean Medicine_. 2022-12-30. [체계적 고찰] [DOI 10.22246/jikm.2022.43.6.1149](https://doi.org/10.22246/jikm.2022.43.6.1149) — 간담계 고빌리루빈혈증에서 인진호탕의 임상 효과를 종합한 국내 체계적 고찰.
 
 [^20]: [Analysis on therapeutic effect of Western and Chinese drug in treating intrahepatic cholestasis pregnancy]. Huang JY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2004-04. [임상시험] [PMID 15143715](https://pubmed.ncbi.nlm.nih.gov/15143715/) — 임신성 간내 담즙정체에서 중서의 결합 치료의 효과를 비교한 초기 임상 근거.
 
@@ -470,9 +470,9 @@
 
 [^26]: Involvement of herbal medicine as a cause of mesenteric phlebosclerosis: results from a large-scale nationwide survey. Shimizu S 외. _Journal of gastroenterology_. 2017-03. [관찰연구] [DOI 10.1007/s00535-016-1218-9](https://doi.org/10.1007/s00535-016-1218-9) [PMID 27220772](https://pubmed.ncbi.nlm.nih.gov/27220772/) — 전국 규모 조사로 한약이 장간막 정맥경화증의 주요 원인임을 확립한 핵심 안전성 근거.
 
-[^27]: Calcification of the mesenteric veins suspected of idiopathic mesenteric phlebosclerosis associated with long-term herbal medicine 'inchinkoto' prescribed for biliary atresia: A multicenter study. Naoki Hashizume 외. _Traditional & Kampo Medicine_. 2024-09-17. [관찰연구] [DOI 10.1002/tkm2.1428](https://doi.org/10.1002/tkm2.1428) — 담도폐쇄증으로 인진호탕을 장기 투여받은 환자에서 장간막 정맥 석회화를 확인한 다기관 연구.
+[^27]: Calcification of the mesenteric veins suspected of idiopathic mesenteric phlebosclerosis associated with long-term herbal medicine 'inchinkoto' prescribed for biliary atresia: A multicenter study. Hashizume N 외. _Traditional & Kampo Medicine_. 2024-09-17. [관찰연구] [DOI 10.1002/tkm2.1428](https://doi.org/10.1002/tkm2.1428) — 담도폐쇄증으로 인진호탕을 장기 투여받은 환자에서 장간막 정맥 석회화를 확인한 다기관 연구.
 
-[^28]: Estimated incidence per population of adverse drug reactions to Kampo medicines from the Japanese adverse drug event report database (JADER). Ichiro Arai 외. _Traditional & Kampo Medicine_. 2019-11-21. [관찰연구] [DOI 10.1002/tkm2.1234](https://doi.org/10.1002/tkm2.1234) — 인구 기반 이상반응 발생률 추정으로 한방 제제 안전성 논의의 분모를 제공한다.
+[^28]: Estimated incidence per population of adverse drug reactions to Kampo medicines from the Japanese adverse drug event report database (JADER). Arai I 외. _Traditional & Kampo Medicine_. 2019-11-21. [관찰연구] [DOI 10.1002/tkm2.1234](https://doi.org/10.1002/tkm2.1234) — 인구 기반 이상반응 발생률 추정으로 한방 제제 안전성 논의의 분모를 제공한다.
 
 [^29]: Significant association between HLA-B\*35:01 and onset of drug-induced liver injury caused by Kampo medicines in Japanese patients. Nakamura R 외. _Hepatology research : the official journal of the Japan Society of Hepatology_. 2023-05. [관찰연구] [DOI 10.1111/hepr.13874](https://doi.org/10.1111/hepr.13874) [PMID 36583370](https://pubmed.ncbi.nlm.nih.gov/36583370/) — 한방 제제 유발 간손상에 유전적 감수성이 존재함을 보여 간독성 위험의 개인차를 설명한다.
 
@@ -512,7 +512,7 @@
 
 [^47]: [Rational use of drug and scientific regulation based on effect-toxicity bidirectional action of Gardeniae Fructus]. Cui S 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2025-07. [문헌 고찰] [DOI 10.19540/j.cnki.cjcmm.20250126.401](https://doi.org/10.19540/j.cnki.cjcmm.20250126.401) [PMID 40904145](https://pubmed.ncbi.nlm.nih.gov/40904145/) — 치자의 효-독 양방향 작용을 전제로 사용 가이드라인과 감독 체계 수립을 제안해 간독성 논점이 규제 의제로 진입했음을 보여준다.
 
-[^48]: Research progress on the hepatoprotective effect, pharmacokinetic properties, and hepatotoxicity of geniposide. Songyuan Tang 외. _Acupuncture and Herbal Medicine_. 2025-06. [문헌 고찰] [DOI 10.1097/hm9.0000000000000160](https://doi.org/10.1097/hm9.0000000000000160) — 제니포사이드의 간보호 작용과 함께 용량에 비례한 간독성을 명시해 적정 용량 설정이 결정적임을 강조한다.
+[^48]: Research progress on the hepatoprotective effect, pharmacokinetic properties, and hepatotoxicity of geniposide. Tang S 외. _Acupuncture and Herbal Medicine_. 2025-06. [문헌 고찰] [DOI 10.1097/hm9.0000000000000160](https://doi.org/10.1097/hm9.0000000000000160) — 제니포사이드의 간보호 작용과 함께 용량에 비례한 간독성을 명시해 적정 용량 설정이 결정적임을 강조한다.
 
 [^49]: A Review on the Phytochemistry, Pharmacology, Pharmacokinetics and Toxicology of Geniposide, a Natural Product. Shan M 외. _Molecules (Basel, Switzerland)_. 2017-10-10. [문헌 고찰] [DOI 10.3390/molecules22101689](https://doi.org/10.3390/molecules22101689) [PMID 28994736](https://pubmed.ncbi.nlm.nih.gov/28994736/) — 제니포사이드의 약리와 독성을 함께 다뤄 안전 용량·투여 방법 설정을 남은 과제로 제시한다.
 
@@ -562,7 +562,7 @@
 
 [^72]: Adverse events associated with herbal medicine products reported in the Korea Adverse Event Reporting System from 2012 to 2021. Choi Y 외. _Frontiers in Pharmacology_. 2024-10-21. [관찰연구] [DOI 10.3389/fphar.2024.1378208](https://doi.org/10.3389/fphar.2024.1378208) — 국내 보고 체계에서 위장관(28.7%)·피부(20.1%) 이상사례가 최다임을 보여 복용 초기 문진 항목을 시사한다.
 
-[^73]: Estimated incidence of adverse reactions to Kampo medicines in randomized controlled clinical trials. Ichiro Arai 외. _Traditional & Kampo Medicine_. 2018-07-19. [체계적 고찰] [DOI 10.1002/tkm2.1200](https://doi.org/10.1002/tkm2.1200) — 무작위 대조시험 자료 기반 추정에서 황금 함유 처방, 특히 황련해독탕의 간손상 발생률이 상대적으로 높게 나타났음을 보고한다.
+[^73]: Estimated incidence of adverse reactions to Kampo medicines in randomized controlled clinical trials. Arai I 외. _Traditional & Kampo Medicine_. 2018-07-19. [체계적 고찰] [DOI 10.1002/tkm2.1200](https://doi.org/10.1002/tkm2.1200) — 무작위 대조시험 자료 기반 추정에서 황금 함유 처방, 특히 황련해독탕의 간손상 발생률이 상대적으로 높게 나타났음을 보고한다.
 
 [^74]: 텍스트마이닝을 활용한 한약처방 부작용에 관한 논문 분석 : PubMed 수록 논문 대상. 예상준. _한국지식정보기술학회 논문지_. 2023-06. [체계적 고찰] [DOI 10.34163/jkits.2023.18.3.001](https://doi.org/10.34163/jkits.2023.18.3.001) — 한약 처방 복용 후 호흡기 증상이 나타날 때 약물 유발 가능성을 고려해야 함을 문헌 계량으로 뒷받침한다.
 

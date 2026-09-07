@@ -728,7 +728,7 @@
 
 [^1]: Integrated meta-analysis, network pharmacology and experimental validation to explore the mechanism of traditional Chinese medicine against neonatal pneumonia: focus on naringenin/MAPK1. Bo Gao 외. _Frontiers in Pediatrics_. 2026-06-04. [메타분석] [DOI 10.3389/fped.2026.1824407](https://doi.org/10.3389/fped.2026.1824407) — 자소엽·시호·박하·형개 목욕제 신생아 폐렴 치료, 나린제닌 MAPK1 염증 억제 기전.
 
-[^2]: Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022). Kwang-Ho Bae 외. _Journal of Korean Medicine_. 2024-12-01. [관찰연구, 138647명] [DOI 10.13048/jkm.24056](https://doi.org/10.13048/jkm.24056) — 만성 부비동염 한방 치료, 침 치료와 형개연교탕 처방 활용 현황.
+[^2]: Trends in Korean Medicine Utilization for Chronic Rhinosinusitis Using National Health Insurance Service Data (2012-2022). Bae KH 외. _Journal of Korean Medicine_. 2024-12-01. [관찰연구, 138647명] [DOI 10.13048/jkm.24056](https://doi.org/10.13048/jkm.24056) — 만성 부비동염 한방 치료, 침 치료와 형개연교탕 처방 활용 현황.
 
 [^3]: Interaction and efficacy of Keigai-rengyo-to extract and acupuncture in male patients with acne vulgaris: a study protocol for a randomized controlled pilot trial. Kim KS 외. _Trials_. 2011-03-19. [임상시험, 44명] [DOI 10.1186/1745-6215-12-82](https://doi.org/10.1186/1745-6215-12-82) [PMID 21418585](https://pubmed.ncbi.nlm.nih.gov/21418585/) — 형개연교탕 추출물과 침 치료 병용 효과·상호작용 평가 프로토콜.
 
@@ -798,7 +798,7 @@
 
 [^36]: Effects of herbal medicines (Eunkyosan/Yin qiao san and Samsoeum/Shen su yin) for treating the common cold: A randomized, placebo-controlled, multicenter clinical trial. Kim KI 외. _Integrative medicine research_. 2023-12. [임상시험, 128명] [DOI 10.1016/j.imr.2023.101005](https://doi.org/10.1016/j.imr.2023.101005) [PMID 38033649](https://pubmed.ncbi.nlm.nih.gov/38033649/) — 은교산(銀翹散)과 삼소음(參蘇飮)은 감기 환자의 증상 개선에 유의미한 효과와 안전성을 보였다.
 
-[^37]: Herbal medicine Eunkyo-san (Yinqiao-san) for COVID-19: A telemedicine case series. Jiyoon Won 외. _Journal of Korean Medicine_. 2023-12-01. [증례 보고, 10명] [DOI 10.13048/jkm.23056](https://doi.org/10.13048/jkm.23056) — COVID-19 환자의 기침, 발열, 인후통 등 상기도 감염 증상에 대해 은교산(銀翹散)을 보조적으로 투여하는 것이 증상 완화에 효과적일 수 있음을 시사한다.
+[^37]: Herbal medicine Eunkyo-san (Yinqiao-san) for COVID-19: A telemedicine case series. Won J 외. _Journal of Korean Medicine_. 2023-12-01. [증례 보고, 10명] [DOI 10.13048/jkm.23056](https://doi.org/10.13048/jkm.23056) — COVID-19 환자의 기침, 발열, 인후통 등 상기도 감염 증상에 대해 은교산(銀翹散)을 보조적으로 투여하는 것이 증상 완화에 효과적일 수 있음을 시사한다.
 
 [^38]: Pilot study of the use of Yin Qiao San in children with conventional antipyretic hypersensitivity. Liew WK 외. _Asia Pacific allergy_. 2015-10. [임상시험, 21명] [DOI 10.5415/apallergy.2015.5.4.222](https://doi.org/10.5415/apallergy.2015.5.4.222) [PMID 26539405](https://pubmed.ncbi.nlm.nih.gov/26539405/) — 기존의 해열제(아세트아미노펜 및 이부프로펜)에 과민반응이 있어 약물 선택이 제한적인 소아 환자에게 은교산(銀翹散)이 안전하고 내약성이 좋은 대안이 될 수 있음을 시사한다.
 
@@ -908,7 +908,7 @@
 
 [^91]: Potential applications of Chinese herbal medicines with hemostatic properties. Ohkura N. _Drug discoveries & therapeutics_. 2022-07-20. [문헌 고찰] [DOI 10.5582/ddt.2022.01037](https://doi.org/10.5582/ddt.2022.01037) [PMID 35753799](https://pubmed.ncbi.nlm.nih.gov/35753799/) — 지혈 성질을 갖는 중약의 임상적 가치와 응용 가능성을 개괄. 형개탄 지혈 축이 기대는 근거가 문헌 고찰 수준에 머문다는 사실을 보여주는 자료.
 
-[^92]: Research Progress on the Treatment of Uterine Bleeding by Traditional Chinese Medicine. Jiedan Deng 외. _Journal of Contemporary Medical Practice_. 2025-01-31. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(01).08](https://doi.org/10.53469/jcmp.2025.07(01).08) — 본 논문은 자궁출혈(붕루)에 대한 중의학적 병인과 병기, 그리고 변증론치에 기반한 치료법의 최신 연구 동향을 정리하고 있습니다.
+[^92]: Research Progress on the Treatment of Uterine Bleeding by Traditional Chinese Medicine. Deng J 외. _Journal of Contemporary Medical Practice_. 2025-01-31. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(01).08](https://doi.org/10.53469/jcmp.2025.07(01).08) — 본 논문은 자궁출혈(붕루)에 대한 중의학적 병인과 병기, 그리고 변증론치에 기반한 치료법의 최신 연구 동향을 정리하고 있습니다.
 
 [^93]: Herbal Medicine for Postpartum Pain: A Systematic Review of Puerperal Wind Syndrome (Sanhupung). Kwon NY 외. _Healthcare (Basel, Switzerland)_. 2023-10-16. [체계적 고찰, 652명] [DOI 10.3390/healthcare11202743](https://doi.org/10.3390/healthcare11202743) [PMID 37893817](https://pubmed.ncbi.nlm.nih.gov/37893817/) — 한약 치료는 산후풍 환자의 통증 완화, 신체 기능 개선 및 삶의 질 향상에 유의미한 효과가 있으며 안전성이 확인되었다.
 

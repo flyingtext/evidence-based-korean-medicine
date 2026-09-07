@@ -440,7 +440,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^32]: Immunological effects of sublingual immunotherapy with Japanese cedar pollen extract in patients with combined Japanese cedar and Japanese cypress pollinosis. Kikuoka H 외. _Clinical immunology_. 2020-01. [실험연구] [DOI 10.1016/j.clim.2019.108310](https://doi.org/10.1016/j.clim.2019.108310) [PMID 31743749](https://pubmed.ncbi.nlm.nih.gov/31743749/) — 단일 항원 SLIT가 복합 감작 환자에서는 면역 조절이 불충분할 수 있음을 보여준다.
 
-[^33]: Immunological profiles of beekeepers and patients allergic to bee venom: understanding tolerance to bee stings. Berta Ruiz 외. _Authorea (preprint)_. 2020-06-17. [관찰연구, 사전공개본] [DOI 10.22541/au.159238088.84002487](https://doi.org/10.22541/au.159238088.84002487) — 벌독 내성 양봉업자는 Treg 우세 프로파일을, 알레르기 환자는 높은 호염기구 활성화를 보임을 확인하였다.
+[^33]: Immunological profiles of beekeepers and patients allergic to bee venom: understanding tolerance to bee stings. Ruiz B 외. _Authorea (preprint)_. 2020-06-17. [관찰연구, 사전공개본] [DOI 10.22541/au.159238088.84002487](https://doi.org/10.22541/au.159238088.84002487) — 벌독 내성 양봉업자는 Treg 우세 프로파일을, 알레르기 환자는 높은 호염기구 활성화를 보임을 확인하였다.
 
 [^34]: Anti-Allergic Properties of Propolis: Evidence From Preclinical and Clinical Studies. Liew KY 외. _Frontiers in pharmacology_. 2021. [문헌 고찰] [DOI 10.3389/fphar.2021.785371](https://doi.org/10.3389/fphar.2021.785371) [PMID 35126124](https://pubmed.ncbi.nlm.nih.gov/35126124/) — 프로폴리스가 비만세포·호염기구 활성을 억제해 알레르기 질환에 보조적 효과를 가질 수 있음을 정리하였다.
 

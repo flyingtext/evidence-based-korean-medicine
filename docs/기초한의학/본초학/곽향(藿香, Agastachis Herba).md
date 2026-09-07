@@ -535,7 +535,7 @@
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-09-04 조회 기준
 
 [^1]: Successful treatment of refractory edema with traditional herbal medicine. Lee G 외. _Medicine_. 2019-10. [증례 보고, 1명] [DOI 10.1097/md.0000000000017551](https://doi.org/10.1097/md.0000000000017551) — 이뇨제·식이조절에 불응한 간경변 부종에 곽향정기산 병용 투여 후 체중·하지 둘레 감소와 간기능 개선. 곽향정기산 계열의 이수(利水) 응용 증례.
-[^2]: A Narrative Review of Effective Herbal and Traditional Medicines on Management of Autism. Neda Orouji 외. _Traditional and Integrative Medicine_. 2025-01-06. [문헌 고찰] [DOI 10.18502/tim.v9i4.17480](https://doi.org/10.18502/tim.v9i4.17480) — 자폐 스펙트럼 장애 관리 처방으로 억간산과 함께 곽향정기산합육미지황탕가미방이 언급됨. 근거 수준은 서술적 고찰에 그친다.
+[^2]: A Narrative Review of Effective Herbal and Traditional Medicines on Management of Autism. Orouji N 외. _Traditional and Integrative Medicine_. 2025-01-06. [문헌 고찰] [DOI 10.18502/tim.v9i4.17480](https://doi.org/10.18502/tim.v9i4.17480) — 자폐 스펙트럼 장애 관리 처방으로 억간산과 함께 곽향정기산합육미지황탕가미방이 언급됨. 근거 수준은 서술적 고찰에 그친다.
 [^3]: 곽향정기산 합 통사요방 가감방을 통한 과민대장증후군 환자 호전 사례 : 일개한의원 차트 기반 후향적 검토. 홍현준 외. _대한한방내과학회지_. 2025-09. [관찰연구, 5명] [DOI 10.22246/jikm.2025.46.4.1037](https://doi.org/10.22246/jikm.2025.46.4.1037) — 곽향정기산합통사요방 가감방 투여 후 IBS-SSS 감소, 설사형·변비형·혼합형 모두에서 증상 완화. 실제 진료 환경의 후향적 근거.
 [^4]: Gwakhyangjeonggi-san for irritable bowel syndrome. Park J 외. _Medicine_. 2021-07-09. [체계적 고찰] [DOI 10.1097/md.0000000000026635](https://doi.org/10.1097/md.0000000000026635) — 곽향정기산의 과민성장증후군 적용을 평가하기 위한 체계적 고찰 프로토콜. 결과 도출 전 단계임에 유의.
 [^5]: A Case Report of Korean Medicine Treatment for A Patient with Variant Angina and Asthma Symptoms. _대한한방내과학회지_. 2022. [증례 보고] [DOI 10.22246/jikm.2022.43.5.864](https://doi.org/10.22246/jikm.2022.43.5.864) — 변이형 협심증·천식 동반 환자의 한의학 치료에 곽향정기산 계열이 활용된 단일 증례.

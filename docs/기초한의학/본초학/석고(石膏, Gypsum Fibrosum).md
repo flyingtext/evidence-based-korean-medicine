@@ -780,7 +780,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^10]: Traditional Chinese Medicine Pattern Classification and Herbal Medicine for COVID-19. _World Journal of Traditional Chinese Medicine_. 2023-01. [체계적 고찰] [DOI 10.4103/2311-8571.351792](https://doi.org/10.4103/2311-8571.351792) — COVID-19 주요 변증(폐습열적체·비허습성·역독침폐)에 행인·석고·마황·감초 등이 빈번 사용됨을 체계적 고찰. 석고가 감염성 열성 질환 한약 치료의 핵심 청열사화 약재로 유지됨의 근거.
 
-[^11]: Clinical Efficacy of Modified Huangqin Xiebai Powder Plus Maxing Shigan Decoction for Phlegm-Heat Obstructing the Lung Syndrome with Pediatric Mycoplasma Pneumoniae. Jin Shang 외. _Journal of Contemporary Medical Practice_. 2026-01-29. [임상시험] [DOI 10.53469/jcmp.2026.08(01).26](https://doi.org/10.53469/jcmp.2026.08(01).26).26/) — 황금사백산+마행석감탕 병용이 소아 마이코플라스마 폐렴(60명) 담열폐폐증후군에서 임상 반응률·CRP·증후군 점수 유의 개선. 석고 함유 처방의 소아 호흡기 감염 항염 인체 근거.
+[^11]: Clinical Efficacy of Modified Huangqin Xiebai Powder Plus Maxing Shigan Decoction for Phlegm-Heat Obstructing the Lung Syndrome with Pediatric Mycoplasma Pneumoniae. Shang J 외. _Journal of Contemporary Medical Practice_. 2026-01-29. [임상시험] [DOI 10.53469/jcmp.2026.08(01).26](https://doi.org/10.53469/jcmp.2026.08(01).26).26/) — 황금사백산+마행석감탕 병용이 소아 마이코플라스마 폐렴(60명) 담열폐폐증후군에서 임상 반응률·CRP·증후군 점수 유의 개선. 석고 함유 처방의 소아 호흡기 감염 항염 인체 근거.
 
 [^12]: The effect of Baihu Decoction (白虎汤) on blood glucose levels in treating systemic inflammatory response syndrome. Yang F 외. _Chinese journal of integrative medicine_. 2010-10. [문헌 고찰] [DOI 10.1007/s11655-010-9995-0](https://doi.org/10.1007/s11655-010-9995-0) [PMID 20535585](https://pubmed.ncbi.nlm.nih.gov/20535585/) — 백호탕(白虎湯)·백호가인삼탕이 SIRS·패혈증에서 혈당을 낮추어 예후를 개선할 수 있음을 문헌 고찰. 석고 함유 처방의 항고혈당·대사 조절 문헌 근거.
 
@@ -828,7 +828,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^33]: Effectiveness and safety research of Qingfei Paidu (QFPD) in treatment of COVID-19: an up-to-date systematic review and meta-analysis. Wang X 외. _Chinese medicine_. 2022-10-28. [메타분석] [DOI 10.1186/s13020-022-00675-8](https://doi.org/10.1186/s13020-022-00675-8) [PMID 36307813](https://pubmed.ncbi.nlm.nih.gov/36307813/) — 10,390명 규모 갱신 메타분석에서 청폐배독탕 병용이 완치율을 높이고 입원 기간·음전 시간을 단축. 석고 함유 방제의 대규모 통합 근거.
 
-[^34]: Efficacy and Safety of Qingfei Paidu Decoction for Patients with COVID-19: A Systematic Review and Meta-Analysis. Zhen Yang 외. _Asian Journal of Complementary and Alternative Medicine_. 2022-03-07. [메타분석] [DOI 10.53043/2347-3894.acam90024](https://doi.org/10.53043/2347-3894.acam90024) — 390명 대상 메타분석에서 청폐배독탕이 증상·입원 기간·음전 시간을 개선하고 안전성이 확보됨. 중소 규모 통합 근거.
+[^34]: Efficacy and Safety of Qingfei Paidu Decoction for Patients with COVID-19: A Systematic Review and Meta-Analysis. Yang Z 외. _Asian Journal of Complementary and Alternative Medicine_. 2022-03-07. [메타분석] [DOI 10.53043/2347-3894.acam90024](https://doi.org/10.53043/2347-3894.acam90024) — 390명 대상 메타분석에서 청폐배독탕이 증상·입원 기간·음전 시간을 개선하고 안전성이 확보됨. 중소 규모 통합 근거.
 
 [^35]: Efficacy and Safety of Qingfei Paidu Decoction for Treating COVID-19: A Systematic Review and Meta-Analysis. Wang Q 외. _Frontiers in pharmacology_. 2021. [메타분석] [DOI 10.3389/fphar.2021.688857](https://doi.org/10.3389/fphar.2021.688857) [PMID 34456720](https://pubmed.ncbi.nlm.nih.gov/34456720/) — 11,237명 규모 메타분석에서 청폐배독탕 병용이 핵산 음전 시간·입원 기간·발열·기침 회복 기간을 단축. 규모 면에서 가장 큰 통합 분석의 하나.
 

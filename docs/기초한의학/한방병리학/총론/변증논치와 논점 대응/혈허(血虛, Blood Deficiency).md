@@ -1220,7 +1220,7 @@ COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-di
 
 [^171]: Current Utilization and Research Status of the Herbal Medicine Guibi-Tang and Its Variants for Cognitive Impairment: A Scoping Review. Kim G 외. _Nutrients_. 2025-10-26. [체계적 고찰] [DOI 10.3390/nu17213365](https://doi.org/10.3390/nu17213365) [PMID 41228437](https://pubmed.ncbi.nlm.nih.gov/41228437/) — 귀비탕·가미귀비탕이 경도인지장애·치매·뇌졸중후 인지장애에서 인지기능과 일상생활수행능력을 개선했다는 스코핑 리뷰로, 신정-심혈 축 혈허의 인지 영역 적용 근거를 넓힌다.
 
-[^172]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. Toru Yanase 외. _Traditional &amp; Kampo Medicine_. 2017-10-28. [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) — 가미귀비탕이 난소암 항암치료 중 골수억제(특히 혈소판감소증)를 완화했다는 관찰연구로, 귀비탕 계열의 골수 보호적 활용 근거를 보탠다.
+[^172]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. Yanase T 외. _Traditional &amp; Kampo Medicine_. 2017-10-28. [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) — 가미귀비탕이 난소암 항암치료 중 골수억제(특히 혈소판감소증)를 완화했다는 관찰연구로, 귀비탕 계열의 골수 보호적 활용 근거를 보탠다.
 
 [^173]: Prescription of Chinese Herbal Medicine and Selection of Acupoints in Pattern-Based Traditional Chinese Medicine Treatment for Insomnia: A Systematic Review. Yeung WF 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [체계적 고찰] [DOI 10.1155/2012/902578](https://doi.org/10.1155/2012/902578) — 불면증의 변증-처방-경혈 대응을 검토한 체계적고찰로, 귀비탕·신문(HT7)·백회(GV20) 등 혈허 겸 심신불안형 불면 취혈의 근거 기반을 제공한다.
 
