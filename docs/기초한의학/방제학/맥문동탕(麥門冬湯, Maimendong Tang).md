@@ -187,6 +187,8 @@
 - 결핵·비결핵 항산균(NTM) 감염(항생제 표준 치료 우선)
 - 위식도역류질환·식도이완불능증(진단 오류 가능성 배제, 만성 기침의 기질적 원인 확인)
 
+특히 상부 위장관 기원의 만성 기침은 초기 진단이 뒤집히는 일이 드물지 않다. 식도이완불능증이 의심되어 의뢰된 환자가 한의 치료 경과 중 재평가를 거쳐 위식도역류질환으로 진단이 바뀐 증례가 보고되었는데, 이 사례는 만성 기침의 기질적 원인을 한 번의 초기 인상으로 확정하지 말고 치료 반응을 보면서 재평가해야 함을 보여준다(증례 1례)[^21]. 증례 1례이므로 일반화할 수 없으며, 진단 확정과 변경은 소화기내과의 내압검사·내시경 등 표준 검사에 따라야 한다.
+
 기질질환이 의심되면 해당 진료과에 의뢰하여 원인 치료를 우선하고, 맥문동탕은 보조 요법으로 위치를 명확히 해야 한다.(교과서적 근거)
 
 ## 제7편 예후·관리·Q&A
@@ -295,7 +297,7 @@ COPD 고령 환자의 기침 강도(VAS)를 유의하게 감소시키는 효과�
 [^18]: Diagnosis and treatment strategies for middle and advanced lung cancer based on theory of "middle Jiao deficiency and blood stasis". _China journal of Chinese materia medica_. 2025-12-18. [증례 보고, 1례] [DOI 10.19540/j.cnki.cjcmm.20251218.501](https://doi.org/10.19540/j.cnki.cjcmm.20251218.501) [PMID 42392725](https://pubmed.ncbi.nlm.nih.gov/42392725/) — 중초허혈어 이론 기반 건토보금 전략, 음액 부족 시 맥문동탕+백합고금탕 사용.
 [^19]: A Case Report on Managing the Side Effects of Anti-tuberculosis Drugs for Nontuberculous Mycobacteriosis (NTM) by Concurrently using Traditional Korean Medicine and Antibiotics. _The Journal of Internal Korean Medicine_. 2021-10-31. [증례 보고, 1례] [DOI 10.22246/jikm.2021.42.5.1148](https://doi.org/10.22246/jikm.2021.42.5.1148) — NTM 폐질환에 항생제+맥문동탕·반하사심탕·곽향정기산·보중익기탕 병용, 호흡곤란·염증수치 개선.
 [^20]: Herbal Medicine Maekmundong-Tang on Patients with Nonspecific Chronic Cough: Study Protocol for a Double-Blind, Randomized Controlled Clinical Trial. Lee B 외. _International Journal of Environmental Research and Public Health_. 2023-02-25. [임상시험 프로토콜, 30명] [DOI 10.3390/ijerph20054164](https://doi.org/10.3390/ijerph20054164) [PMID 36901170](https://pubmed.ncbi.nlm.nih.gov/36901170/) — 비특이적 만성 기침에 맥문동탕의 유효성·안전성·경제성을 생맥산과 비교하는 RCT 프로토콜.
-[^21]: A Case Report of Suspected Achalasia Re-evaluated as Gastroesophageal Reflux Disease Following Korean Medical Treatment. _The Journal of Internal Korean Medicine_. 2025-08-31. [증례 보고, 1례] [DOI 10.22246/jikm.2025.46.4.1005](https://doi.org/10.22246/jikm.2025.46.4.1005) — 만성 기침 감별 진단에서 식도이완불능증 오진 가능성을 보여준 증례.
+[^21]: A Case Report of Suspected Achalasia Re-evaluated as Gastroesophageal Reflux Disease Following Korean Medical Treatment. Kim KR 외. _The Journal of Internal Korean Medicine_. 2025-09-30. [증례 보고, 1례] [DOI 10.22246/jikm.2025.46.4.1005](https://doi.org/10.22246/jikm.2025.46.4.1005) — 식도이완불능증 의심으로 의뢰된 환자가 한의 치료 경과 중 재평가를 거쳐 위식도역류질환으로 진단이 변경된 증례. 만성 기침의 기질적 원인 재평가 필요성을 보여준다.
 [^22]: Estimated incidence of adverse reactions to Kampo medicines in randomized controlled clinical trials. Arai I 외. _Traditional & Kampo Medicine_. 2018-07-19. [체계적 고찰, 20,340명] [DOI 10.1002/tkm2.1200](https://doi.org/10.1002/tkm2.1200) — 캄포 의약품 무작위대조시험의 이상반응 발생률 체계적 평가, 맥문동탕 포함 처방의 안전성 모니터링 근거.
 [^23]: Effectiveness and safety of Liriope Tuber (Liriopis seu Ophiopogonis Tuber, Maidong) included traditional herbal medicine for patients with paroxysmal atrial fibrillation: A systematic review, meta-analysis, and network analysis. Jin H 외. _Integrative medicine research_. 2024-09. [메타분석, 3,743명] [DOI 10.1016/j.imr.2024.101069](https://doi.org/10.1016/j.imr.2024.101069) [PMID 39247398](https://pubmed.ncbi.nlm.nih.gov/39247398/) — 맥문동 포함 한약 병용이 발작성 심방세동 빈도·좌심방 직경·hs-CRP·심박출률 개선 가능성, 편향 위험 높음.
 [^26]: [Clinical effect of yiqi yangyin jiedu decoction in treating patients with advanced non-small cell lung cancer]. Liu LS 외. _Zhongguo Zhong xi yi jie he za zhi_. 2008-04. [임상시험, 60명] [PMID 18543492](https://pubmed.ncbi.nlm.nih.gov/18543492/) — 익기양음해독탕이 진행성 NSCLC 기음양허증 개선, KPS·삶의 질 향상, 세포 매개 면역력 강화.
