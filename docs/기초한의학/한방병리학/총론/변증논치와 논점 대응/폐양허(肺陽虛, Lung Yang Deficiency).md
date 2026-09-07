@@ -267,11 +267,16 @@
 **COPD — 침구**
 여러 체계적 문헌고찰·메타분석이 침 치료가 SGRQ(삶의 질)·호흡곤란(mMRC, DVAS)·6분보행거리를 위약 대비 유의하게 개선하나 폐기능 지표에서는 일관되지 않다고 보고했다[^18][^20][^23][^26]. 전침은 FVC·FEV1%·FEV1/FVC%·6MWD·CAT 점수를 유의하게 개선했다(1,076명, 메타분석)[^27]. 경혈자극 요법(지압·뜸·침)을 표준치료에 병행한 네트워크 메타분석은 삶의 질에는 지압·뜸이, FEV1% 개선에는 뜸·침이 가장 효과적이라고 보고했다(1,577명)[^28]. 비약물 요법 간 비교 네트워크 메타분석에서는 **뜸(灸)과 기공(氣功)이 FEV1을, 추나·침·기공·뜸이 6MWD를 유의하게 개선** 했다[^29] — 뜸이 여러 지표에서 반복적으로 상위권에 위치한다는 점은 온양구법 위주로 구성된 본 문서의 치법 원칙과 부합한다. 말기·중증 환자의 비약물적 호흡곤란 관리에서도 침·지압·호흡재훈련이 유익하다는 코크란 체계적 문헌고찰이 있다[^22][^25].
 
+근거의 지리적 편중에 대해서는 별도의 주의가 필요하다. 위 문헌들은 대부분 중국 내 연구를 통합한 것인데, 일본에서 1979~2006년 사이에 수행된 호흡기 질환 침구 연구를 일본어 데이터베이스(醫學中央雜誌·Medical Online)로 검색해 정리한 체계적 고찰은, **일본에서 호흡기 질환에 대한 침 치료 연구 자체가 드물게 보고되었고 대부분이 일본어로 작성되어 Medline에서 검색되지 않는다**는 점을 지적하였다[^24]. 이는 영어권 데이터베이스만으로 근거를 수집할 경우 특정 언어권의 연구가 체계적으로 누락될 수 있음을 보여주며, 동시에 중국 외 지역에서는 이 영역의 근거 축적이 훨씬 얇다는 사실을 시사한다. 2009년 시점의 고찰이므로 이후 상황은 반영되어 있지 않다.
+
 **천식 — 침구**
 침 치료 모달리티 간 네트워크 메타분석(2,722명)은 혈위첩부(acupoint application)가 임상 반응률·폐기능(FEV1, FVC) 개선에, 혈위매선(acupoint catgut embedding)이 ACT 점수 개선에 가장 효과적이라고 보고했다[^30] — 본 문서가 관해기 관리의 중심으로 제시하는 삼복첩(9-5절)의 상대적 우위를 뒷받침한다. 중국 내 무작위대조시험 메타분석(3,058명)은 침·뜸 병용군이 대조군보다 총유효율·PEFR·FVC·FEV1/FVC를 유의하게 개선했다고 보고했다(다만 FEV1 자체는 유의차 없음)[^31]. 최신 메타분석(15,088명)은 침 치료가 총유효율을 유의하게 향상시켰으나(RR=1.11) 전반적 근거의 질은 낮다고 평가했다[^32]. 소아·성인 혼합 임상 경험 정리는 천식을 한(寒)·열(熱)·풍(風)·어혈(瘀血)·허(虛)의 다섯 갈래로 나누어 소청룡탕(한증)을 포함한 처방과 침·뜸·부항을 병용하는 종합 내외치 전략을 제시했다[^34].
 
 **알레르기비염 — 침구**
 알레르기비염 영역은 메타분석이 특히 두텁다. 뜸 치료법 간 베이지안 네트워크 메타분석(4,257명)은 열민구(熱敏灸, heat-sensitive moxibustion)가 유효율·삶의 질 개선에서 가장 우수했다고 보고했다[^37]. 침·뜸·혈위매선 네트워크 메타분석(4,260명)은 혈위매선이 최선의 즉각 효과를, 뜸이 최선의 추적 유지 효과를 보인다고 정리했다[^38]. 최신 다중 침구요법 네트워크 메타분석(4,859명)은 수지침+간접뜸 또는 수지침+매선의 병용이 가장 바람직한 조합이라고 결론지었다[^39]. 그 외에도 비강 내 침(1,009명)[^42], 이침 병용(1,002명)[^43], 접형구개신경절 침(732명)[^44], 침 관련 요법 전반(3,349명)[^45] 등 다수의 메타분석이 총 비강증상점수(TNSS)·삶의 질(RQLQ) 개선을 일관되게 보고했다. 소아 알레르기비염에서도 중약이 코 가려움증을 유의하게 감소시켰다는 메타분석이 있다[^35][^36].
+
+**결과가 보고되지 않은 계획서(protocol)**
+위에 정리한 것과 같은 영역에서 다수의 체계적 고찰 **계획서**가 별도로 등록·발표되어 있다. COPD에 대한 침 치료 체계적 고찰 계획서(PROSPERO CRD42013004824, 14개 데이터베이스 검색 예정)[^19], 만성폐쇄성폐질환 급성악화에 화어통부법(化瘀通腑法)과 침을 병용하는 체계적 고찰 계획서[^21], 알레르기비염에 침과 한약을 병용하는 체계적 고찰 계획서[^40], 알레르기비염 침 치료의 네트워크 메타분석 계획서[^41]가 그것이다. **이들은 수행 예정 방법만 기술한 문서이며 결과가 보고된 연구가 아니므로 유효성 근거로 인용할 수 없고**, 위 문단들에서 인용한 완료된 체계적 고찰·메타분석과 같은 층위로 취급해서는 안 된다. 여기서는 해당 영역에 연구가 계획되었다는 사실만 기록한다. 계획서가 반드시 완료 논문으로 이어지지는 않으므로, 계획서 편수를 근거 축적의 지표로 읽는 것도 적절하지 않다.
 
 **침구·구법의 안전성**
 뜸의 안전성에 대한 체계적 문헌고찰은 경미한 화상·수포가 주된 이상반응이며 중대한 부작용은 드물다고 정리했다[^60]. 침 치료 전반의 이상반응을 정리한 체계적 문헌고찰은 소독 미흡 시의 감염(특히 과거 재사용 침에 의한 B형간염)이 가장 주요한 위험이라고 지적했다[^61] — 본 문서가 권고하는 독맥구·발포부항·혈위첩부는 모두 피부 화상·수포 위험이 상존하므로 시술 전 고지와 사후 관리가 필요하다. 부자(附子) 등 오두속(烏頭屬) 본초의 과량·오용은 심실빈맥 등 심각한 부정맥을 유발할 수 있다는 증례가 보고되어 있어[^62], 진무탕·금궤신기환 등 부자 함유방을 쓸 때는 반드시 포제(炮製)된 원료를 정량 사용해야 한다.
@@ -352,6 +357,8 @@
 **삼복첩(동병하치, 관해기 관리)** — 천식 관해기 323례를 대상으로 한 RCT에서 삼복날(2010년 7월 19일·29일, 8월 8일) 3회 혈위 약물패치를 시행한 군은 위약군보다 폐기능 자체의 유의한 차이는 없었으나, 약물 치료 필요성 감소와 천식 관련 민감 증상(수면 방해, 콧물, 재채기) 감소로 삶의 질이 개선되었다[^12]. 만성 지속 또는 관해기 천식 환자 72명(목표)을 대상으로 삼복첩과 위약을 비교하는 RCT 프로토콜이 FEV1 변화 및 IL-5·IL-13·IL-23·IL-25·TSLP 등 염증지표를 결과지표로 설계했다[^13][^14].
 
 **소아 천식 예방** — 관해기 소아 천식 환아 609명을 대상으로 한 연구는 백개자·연호색을 생강즙·사향과 개어 폐수·고황·정천·천돌·전중에 삼복 및 삼구 시기에 도포하는 동병하치 요법이 재발률 감소에 기여한다고 보고했다[^11].
+
+**혈위주사(穴位注射) — 투여 경로 비교** — 기관지천식 환자 60명을 BCG 다당핵산 제제의 양측 폐수(肺兪, BL13) 혈위주사군과 둔부 근육주사군으로 무작위 배정한 3개월 시험에서, 두 군 모두 증상·징후 점수와 혈청 IgE·IgG가 유의하게 감소하고 ACT 점수·FEV1/FVC·PEF%가 상승하였다(각 P<0.01). 군간 비교에서는 혈위주사군이 증상·징후 점수 감소, 혈청 IgE 감소, ACT·FEV1/FVC·PEF% 상승에서 근육주사군보다 우수하였으나(P<0.05~0.01), **혈청 IgG·IgA·IgM에서는 군간 차이가 없었다(P>0.05)** [^33]. 이 설계는 위약 대조가 아니라 **동일 약물의 투여 경로를 비교한 것**이므로, 폐수 혈위 자극이 약물 효과에 무엇을 더했는지를 분리해 보여주지는 못한다. 또한 주입 물질이 생물학적 제제이지 한약이 아니며, 변증이 명시되지 않아 폐양허 특이적 근거로 볼 수 없다. 표본 60명의 단일 기관 연구라는 점도 함께 고려해야 한다.
 
 **변증별 반응성** — 알레르기성 천식 209례에서 약물혈위적용법의 단기 유효율은 폐열(肺熱) 유형에서 가장 높고 신양허(腎陽虛) 유형에서 가장 낮았다[^9].
 
@@ -649,7 +656,7 @@
 
 ### 19. 참고문헌
 
-본 문서 본문의 각 서술 뒤에 붙은 `[^n]` 표기는 아래 목록의 근거 논문을 가리킨다. 번호는 본문 내 최초 인용 순서에 따라 부여되었으며, 특별한 표기가 없는 서술은 『黃帝內經』 이하 역대 의서와 현행 한방생리학·병리학·진단학 교과 체계에 근거한다.
+본 문서 본문의 각 서술 뒤에 붙은 위첨자 번호는 아래 목록의 근거 논문을 가리킨다. 번호는 본문 내 최초 인용 순서에 따라 부여되었으며, 특별한 표기가 없는 서술은 『黃帝內經』 이하 역대 의서와 현행 한방생리학·병리학·진단학 교과 체계에 근거한다.
 
 [^1]: [Moxibustion on the Governor Vessel for lung and kidney qi deficiency type in chronic obstructive pulmonary disease: a randomized controlled trial]. *Zhongguo Zhen Jiu*. 2011. [PMID 21355151](https://pubmed.ncbi.nlm.nih.gov/21355151/)
 [^2]: [Efficacy observation of chronic obstructive pulmonary disease due to lung and kidney deficiency treated with acupoint-catgut-embedding therapy combined western medication]. *Zhongguo Zhen Jiu*. 2011. [PMID 21355150](https://pubmed.ncbi.nlm.nih.gov/21355150/)
@@ -669,12 +676,12 @@
 [^16]: Oral Chinese herbal medicine for improvement of quality of life in patients with stable chronic obstructive pulmonary disease: a systematic review. *J Altern Complement Med*. 2012. [PMID 22803654](https://pubmed.ncbi.nlm.nih.gov/22803654/)
 [^17]: Chinese Herbal Medicine and Salmeterol and Fluticasone Propionate for Chronic Obstructive Pulmonary Disease: Systematic Review and Network Meta-Analysis. *Medicine*. 2016. [PMID 27196484](https://pubmed.ncbi.nlm.nih.gov/27196484/)
 [^18]: Acupuncture therapies for chronic obstructive pulmonary disease: a systematic review of randomized, controlled trials. *Altern Ther Health Med*. [PMID 25478799](https://pubmed.ncbi.nlm.nih.gov/25478799/)
-[^19]: Acupuncture for the treatment of chronic obstructive pulmonary disease: a protocol of a systematic review. *BMJ Open*. 2014. [PMID 24776710](https://pubmed.ncbi.nlm.nih.gov/24776710/)
+[^19]: Acupuncture for the treatment of chronic obstructive pulmonary disease: a protocol of a systematic review. Choi TY 외. *BMJ Open*. 2014-04-28. [체계적 고찰 계획서] [DOI 10.1136/bmjopen-2013-004590](https://doi.org/10.1136/bmjopen-2013-004590) [PMID 24776710](https://pubmed.ncbi.nlm.nih.gov/24776710/) — COPD 침 치료 체계적 고찰의 **계획서**(PROSPERO CRD42013004824). 결과가 보고된 연구가 아니므로 유효성 근거로 인용하지 않는다.
 [^20]: Acupuncture Therapy for Functional Effects and Quality of Life in COPD Patients: A Systematic Review and Meta-Analysis. *Biomed Res Int*. 2018. [DOI 10.1155/2018/3026726](https://doi.org/10.1155/2018/3026726)
-[^21]: Efficacy and safety of HuaYu TongFu Method combined with acupuncture in the treatment of Acute Exacerbation of COPD: protocol for systematic review and meta-analysis. 2022. [DOI 10.37766/inplasy2022.9.0114](https://doi.org/10.37766/inplasy2022.9.0114)
+[^21]: Efficacy and safety of HuaYu TongFu Method combined with acupuncture in the treatment of Acute Exacerbation of COPD: protocol for systematic review and meta-analysis. _INPLASY_. 2022. [체계적 고찰 계획서] [DOI 10.37766/inplasy2022.9.0114](https://doi.org/10.37766/inplasy2022.9.0114) — 화어통부법+침의 COPD 급성악화 체계적 고찰 **계획서 등록 기록**. 결과가 보고된 연구가 아니므로 유효성 근거로 인용하지 않는다.
 [^22]: Non-pharmacological interventions for breathlessness in advanced stages of malignant and non-malignant diseases. *Cochrane Database Syst Rev*. 2008. [PMID 18425927](https://pubmed.ncbi.nlm.nih.gov/18425927/)
 [^23]: Efficacy of acupuncture therapy for stable chronic obstructive pulmonary disease: A systematic review and meta-analysis. *Medicine*. 2023. [DOI 10.1097/md.0000000000033537](https://doi.org/10.1097/md.0000000000033537)
-[^24]: Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review. *Acupunct Med*. 2009. [DOI 10.1136/aim.2009.000471](https://doi.org/10.1136/aim.2009.000471)
+[^24]: Research into Acupuncture for Respiratory Disease in Japan: A Systematic Review. Suzuki M 외. *Acupunct Med*. 2009-06. [체계적 고찰] [DOI 10.1136/aim.2009.000471](https://doi.org/10.1136/aim.2009.000471) — 1979~2006년 일본어 데이터베이스 검색. 일본 내 호흡기 질환 침구 연구가 드물고 대부분 Medline에서 검색되지 않아 언어권별 누락이 발생함을 지적.
 [^25]: Complementary and alternative medicine in the management of pain, dyspnea, and nausea and vomiting near the end of life. A systematic review. *J Pain Symptom Manage*. 2000. [PMID 11068159](https://pubmed.ncbi.nlm.nih.gov/11068159/)
 [^26]: Acupuncture techniques for COPD: a systematic review. *BMC Complement Med Ther*. 2020. [PMID 32375775](https://pubmed.ncbi.nlm.nih.gov/32375775/)
 [^27]: Efficacy and safety of electroacupuncture in chronic obstructive pulmonary disease: a systematic review and meta-analysis. *J Thorac Dis*. 2025. [PMID 41229850](https://pubmed.ncbi.nlm.nih.gov/41229850/)
@@ -683,15 +690,15 @@
 [^30]: A network meta-analysis of different acupuncture modalities in the treatment of bronchial asthma. *BMC Pulm Med*. 2023. [DOI 10.1186/s12890-023-02645-8](https://doi.org/10.1186/s12890-023-02645-8)
 [^31]: [Meta-analysis on randomized controlled clinical trials of acupuncture for asthma]. *Zhongguo Zhen Jiu*. 2010. [PMID 20886804](https://pubmed.ncbi.nlm.nih.gov/20886804/)
 [^32]: Effectiveness and safety of acupuncture therapy for bronchial asthma: a systematic review and meta-analysis. *J Asthma*. 2025. [PMID 40470800](https://pubmed.ncbi.nlm.nih.gov/40470800/)
-[^33]: [Comparison of therapeutic effects between acupoint-injection and intramuscular-injection of Bacillus Calmette-Guerin polysaccharide nucleic acid for bronchial asthma]. *Zhen Ci Yan Jiu*. 2015. [PMID 25845224](https://pubmed.ncbi.nlm.nih.gov/25845224/)
+[^33]: \[Comparison of therapeutic effects between acupoint-injection and intramuscular-injection of Bacillus Calmette-Guerin polysaccharide nucleic acid for bronchial asthma\]. Zou X 외. *Zhen Ci Yan Jiu*. 2015-02. [임상시험, 60명] [PMID 25845224](https://pubmed.ncbi.nlm.nih.gov/25845224/) — 폐수(BL13) 혈위주사군이 근육주사군보다 증상 점수·혈청 IgE·ACT·FEV1/FVC·PEF%에서 우수(P<0.05~0.01), IgG·IgA·IgM은 군간 차이 없음(P>0.05). 위약 대조가 아닌 투여 경로 비교이며 변증 미명시.
 [^34]: [Professor LIN Lin's clinical experiences of comprehensive internal and external therapy for asthma]. *Zhongguo Zhen Jiu*. 2013. [PMID 23885623](https://pubmed.ncbi.nlm.nih.gov/23885623/)
 [^35]: Efficacy of Chinese herbal medicine on nasal itching in children with allergic rhinitis: a systematic review and meta-analysis. *Front Pharmacol*. 2023. [DOI 10.3389/fphar.2023.1240917](https://doi.org/10.3389/fphar.2023.1240917)
 [^36]: Efficacy and safety of Chinese herbal medicines in the treatment of allergic rhinitis in children: a systematic review and meta-analysis. 2023. [DOI 10.37766/inplasy2023.4.0076](https://doi.org/10.37766/inplasy2023.4.0076)
 [^37]: Efficacy comparison of different moxibustion treatments for allergic rhinitis: A systematic review and Bayesian network meta-analysis. *Medicine*. 2023. [DOI 10.1097/md.0000000000032997](https://doi.org/10.1097/md.0000000000032997)
 [^38]: [Network Meta-analysis of acupuncture and moxibustion for allergic rhinitis]. *Zhongguo Zhen Jiu*. 2021. [PMID 34762387](https://pubmed.ncbi.nlm.nih.gov/34762387/)
 [^39]: Multiple acupuncture and moxibustion therapies for allergic rhinitis in adults: a network Meta-analysis of randomized controlled trials. *J Tradit Chin Med*. 2026. [DOI 10.19852/j.cnki.jtcm.2026.01.001](https://doi.org/10.19852/j.cnki.jtcm.2026.01.001)
-[^40]: Acupuncture Combined with Traditional Chinese Medicine for Allergic Rhinitis: A Protocol for Systematic Review and Meta-Analysis. 2022. [DOI 10.24966/acim-7562/100219](https://doi.org/10.24966/acim-7562/100219)
-[^41]: Acupuncture for allergic rhinitis: protocol for a systematic review and network meta-analysis. *Front Allergy*. 2024. [DOI 10.3389/falgy.2024.1499406](https://doi.org/10.3389/falgy.2024.1499406)
+[^40]: Acupuncture Combined with Traditional Chinese Medicine for Allergic Rhinitis: A Protocol for Systematic Review and Meta-Analysis. 2022. [체계적 고찰 계획서] [DOI 10.24966/acim-7562/100219](https://doi.org/10.24966/acim-7562/100219) — 알레르기비염 침+한약 병용 체계적 고찰 **계획서**. 결과가 보고된 연구가 아니므로 유효성 근거로 인용하지 않는다.
+[^41]: Acupuncture for allergic rhinitis: protocol for a systematic review and network meta-analysis. *Front Allergy*. 2024. [체계적 고찰 계획서] [DOI 10.3389/falgy.2024.1499406](https://doi.org/10.3389/falgy.2024.1499406) — 알레르기비염 침 치료 네트워크 메타분석 **계획서**. 결과가 보고된 연구가 아니므로 유효성 근거로 인용하지 않는다.
 [^42]: Intranasal acupuncture for allergic rhinitis: A systematic review and meta-analysis. *Medicine*. 2024. [DOI 10.1097/md.0000000000040305](https://doi.org/10.1097/md.0000000000040305)
 [^43]: The combined application of ear acupuncture in the treatment of allergic rhinitis: A meta-analysis. *Heliyon*. 2024. [DOI 10.1016/j.heliyon.2024.e25181](https://doi.org/10.1016/j.heliyon.2024.e25181)
 [^44]: A meta-analysis of acupuncture at the sphenopalatine ganglion for the treatment of allergic rhinitis. *Front Allergy*. 2026. [DOI 10.3389/falgy.2026.1780330](https://doi.org/10.3389/falgy.2026.1780330)
@@ -708,8 +715,6 @@
 [^55]: [Paeonia Lactiflora injection in treating chronic cor pulmonale with pulmonary hypertension]. *Zhong Xi Yi Jie He Za Zhi*. 1991. [PMID 1773453](https://pubmed.ncbi.nlm.nih.gov/1773453/)
 [^56]: Treatment of acute exacerbation of chronic cor pulmonale with fei xin ling syrup. *J Tradit Chin Med*. 1997. [PMID 10437239](https://pubmed.ncbi.nlm.nih.gov/10437239/)
 [^57]: Comprehensive evidence mapping of Chinese medicine for the treatment of pulmonary heart disease: A systematic assessment of efficacy and challenges. *Medicine*. 2025. [DOI 10.1097/MD.0000000000046952](https://doi.org/10.1097/MD.0000000000046952)
-[^58]: Influence of auricular plaster therapy on sleeping structure in OSAS patients. *J Tradit Chin Med*. 2009. [PMID 19514178](https://pubmed.ncbi.nlm.nih.gov/19514178/)
-[^59]: Effect of Qingxuan Granule on blood pressure variability of hypertensive patients with and without obstructive sleep apnea. *Chin J Integr Med*. 2013. [PMID 24126974](https://pubmed.ncbi.nlm.nih.gov/24126974/)
 [^60]: Safety of Moxibustion: A Systematic Review of Case Reports. *Evid Based Complement Alternat Med*. 2014. [DOI 10.1155/2014/783704](https://doi.org/10.1155/2014/783704)
 [^61]: Adverse events of acupuncture: a systematic review of case reports. *Evid Based Complement Alternat Med*. 2013. [PMID 23573135](https://pubmed.ncbi.nlm.nih.gov/23573135/)
 [^62]: Bidirectional tachycardia induced by herbal aconite poisoning. *Pacing Clin Electrophysiol*. 1992. [PMID 1382285](https://pubmed.ncbi.nlm.nih.gov/1382285/)
