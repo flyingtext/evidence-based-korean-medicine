@@ -350,7 +350,7 @@ KCD-8 **J18(폐렴, 병원체 불명)**. 노인·소아는 별도 세부 코드 
 
 **소아 — 한약·주사제**: 마행곽교과립이 비중증 CAP에서 완치율을 개선했다(임상시험, 96명)[^20]. 네뷸라이저 중약 병용이 소아 폐렴의 유효율·증상 소실·입원 기간을 개선했다(메타분석, 1,764명)[^1]. 소아 CAP 회복기(convalescence)에 대한 한약의 유효성·안전성 체계적 고찰이 있다(2,241명)[^85]. 소아 폐렴에 대한 중약 전반의 효과·안전성 체계적 고찰(1,824명)[^93], 중약 내복+복흉고 외용 내외합치 요법(817명)[^10], 다학제 경락-혈위 마사지(100명)[^19]가 근거를 보인다. 소아 기관지폐렴에 대한 중약주사제 베이지안 네트워크 메타분석(21,917명)[^61], 4종 주사제 네트워크 메타분석(8,629명)[^66]은 대규모 근거를 제공한다. 유아 폐렴에서 안드로그라폴리드 칼륨 숙신산 주사의 메타분석도 있다[^110]. 위경탕(胃苓湯) 계열이 호흡기 감염 보조 치료로 활용된 사례가 있다[^103]. 신생아 폐렴에 대한 중약 목욕제(자소엽·시호·박하·형개)의 네트워크 약리학 통합 연구도 보고되었다[^122].
 
-**소아 — 침구·추나·부항**: 소아 추나가 중증 폐렴 소아에서 발열·기침·천명 소실 시간을 단축하고 염증·폐 기능을 개선했다(임상시험, 180명)[^12]. 영귀팔법 추나와 복흉산 외용제 병용이 소아 마이코플라스마 폐렴의 완치율·염증 지표·폐 기능을 개선했다(관찰연구, 110명)[^41]. 경락 마사지가 마이코플라스마 폐렴 후 소아의 폐 기능 회복을 개선했다(임상시험, 64명)[^28]. 이혈압법이 풍열폐폐형 소아 세균성 폐렴에서 유효율을 높였다(임상시험, 94명)[^21]. 부항이 소아 세균성 폐렴에서 해열 기간을 단축시켰다(임상시험, 72명)[^23].
+**소아 — 침구·추나·부항**: 소아 추나가 중증 폐렴 소아에서 발열·기침·천명 소실 시간을 단축하고 염증·폐 기능을 개선했다(임상시험, 180명)[^12]. 영귀팔법 추나와 복흉산 외용제 병용이 소아 마이코플라스마 폐렴의 완치율·염증 지표·폐 기능을 개선했다(관찰연구, 110명)[^41]. 경락 마사지가 마이코플라스마 폐렴 후 소아의 폐 기능 회복을 개선했다(임상시험, 64명)[^28]. 이혈압법이 풍열폐폐형 소아 세균성 폐렴에서 유효율을 높였다(임상시험, 94명)[^21]. 부항이 소아 세균성 폐렴에서 해열 기간을 단축시켰다(임상시험, 72명)[^23]. 소아 기관지폐렴에서 기계적 배담 배액(mechanical expectoration drainage)에 혈위 첩부를 병용한 간호 중재가 염증 지표·폐 기능과 보호자 만족도를 개선했다는 보고도 있다(임상시험, 62명)[^29]. 다만 이 연구는 간호 효과·만족도를 주된 평가변수로 삼은 소규모 단일기관 연구이고, 배담 배액이라는 물리 요법과 혼합된 중재이므로 **혈위 첩부 단독의 효과로 귀속시킬 수 없다.**
 
 이 치료 목록은 임상 틀이지 동일 근거수준의 권고가 아니며, 고령·소아는 약물 대사·용량 조절이 성인과 다르므로 변증과 체중·연령에 맞춘 개별화가 필요하다.
 
@@ -411,6 +411,8 @@ KCD-8 **J18(폐렴, 병원체 불명)**. 노인·소아는 별도 세부 코드 
 | 이압요법 — 정서 안정(격리 COVID-19) | 신문(耳)·심(耳)·폐(耳) | [^186] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 침구 배혈은 변증·연하재활 평가와 함께 개별화해야 한다.
+
+**진행 중인 시험 — 결과 미보고**: 성인 중증 폐렴(18~80세) 66명을 대상으로 건식 부항의 보조 효과를 평가하는 위약대조 무작위 단일맹검 시험이 등록되어 있다(ChiCTR2300076958). 양측 폐수(肺兪, BL13)·비수(脾兪, BL21)·신수(腎兪)에 10일간 1일 1회 부항을 시행하고 산소포화도·호흡수·한의 증상 점수·염증 반응·기계환기 시간을 평가하도록 설계되었다[^25] (원 보고는 신수의 코드를 BL22로 적었으나 신수는 BL23이고 BL22는 삼초수다). **이는 계획서이며 결과가 보고된 연구가 아니므로 유효성 근거로 인용할 수 없고**, 중증 폐렴에서 부항은 어떤 경우에도 항생제·산소 치료·기계환기 등 표준 중환자 치료를 대체할 수 없다. 성인 중증 폐렴에 대한 부항의 효과는 현재 미확립 상태로 보는 것이 타당하다.
 
 ### 18. 배오 원칙과 안전성 축약
 
@@ -585,7 +587,7 @@ KCD-8 **J18(폐렴, 병원체 불명)**. 노인·소아는 별도 세부 코드 
 ## 경혈/처방 연관
 
 - 경혈: 폐수(肺兪, BL13)·비수(脾兪, BL20)·신수(腎兪, BL23)·족삼리(足三里, ST36)·태계(太谿, KI3)·소상(少商, LU11)·상양(商陽, LI1)·사봉혈(四縫, EX-UE-10)·천돌(天突, CV22)·단중(膻中, CV17)·정천(定喘, EX-B1)·합곡(合谷, LI4)·염천(廉泉, CV23)·풍륭(豐隆, ST40) 등이 침·혈위요법·부항·사혈·추나·지압에 활용된다[^4][^15][^19][^21][^23][^30][^34][^49][^84][^105][^175].
-- 약재/처방: 마행감석탕(麻杏甘石湯)·마행석감탕(麻杏石甘湯)·마행곽교과립(麻杏藿香顆粒)·연화청각정(連花淸咳錠)·연화청온(連花淸瘟)·담열청(痰熱淸)·쌍황련(雙黃連)·비연탕(飛燕湯)·비두청(肺毒清)·독수청(獨數淸)·소시호탕(小柴胡湯)·소현흉탕(小陷胸湯)·반하후박탕(半夏厚朴湯)·청폐탕(淸肺湯)·시경반하탕(柴梗半夏湯)·복령음합반하후박탕(茯苓飮合半夏厚朴湯)(茯苓五苓散加半夏厚朴湯)·가강수명탕(加減續命湯)·청금화담탕(淸金化痰湯)·선백승기탕(宣白承氣湯)·은교산(銀翹散)·보중익기탕(補中益氣湯)·청폐배독탕(淸肺排毒湯)·황금해백산(黃芩解白散)·사삼맥동탕(沙蔘麥冬湯)이 각 질환군 치료에서 언급된 대표 처방이다[^2][^3][^13][^16][^20][^24][^32][^33][^42][^56][^59][^67][^90][^106][^108][^133][^177][^194].
+- 약재/처방: 마행감석탕(麻杏甘石湯)·마행석감탕(麻杏石甘湯)·마행곽교과립(麻杏藿香顆粒)·연화청각정(連花淸咳錠)·연화청온(連花淸瘟)·담열청(痰熱淸)·쌍황련(雙黃連)·Feiyan Mixture(한자 표기 미확인)·비두청(肺毒清)·독수청(獨數淸)·소시호탕(小柴胡湯)·소현흉탕(小陷胸湯)·반하후박탕(半夏厚朴湯)·청폐탕(淸肺湯)·시경반하탕(柴梗半夏湯)·복령음합반하후박탕(茯苓飮合半夏厚朴湯)(茯苓五苓散加半夏厚朴湯)·가강수명탕(加減續命湯)·청금화담탕(淸金化痰湯)·선백승기탕(宣白承氣湯)·은교산(銀翹散)·보중익기탕(補中益氣湯)·청폐배독탕(淸肺排毒湯)·황금해백산(黃芩解白散)·사삼맥동탕(沙蔘麥冬湯)이 각 질환군 치료에서 언급된 대표 처방이다[^2][^3][^13][^16][^20][^24][^32][^33][^42][^56][^59][^67][^90][^106][^108][^133][^177][^194].
 
 ## 근거 요약
 
@@ -834,7 +836,7 @@ KCD-8 **J18(폐렴, 병원체 불명)**. 노인·소아는 별도 세부 코드 
 [^13]: Efficacy and Safety of Lianhua Qingke Tablets in Children With Mycoplasma pneumoniae Pneumonia. 임상시험(RCT), 160명. DOI: [10.1111/crj.70204](https://doi.org/10.1111/crj.70204). 연화청각정이 소실률(85.9%) 개선.
 [^14]: Synergistic immunomodulatory effects of Cistanche deserticola, Schisandra chinensis and Cornus officinalis on elderly patients with recurrent pneumonia. 임상시험(RCT), 150명. DOI: [10.36721/PJPS.2026.39.4.REG.15065.1](https://doi.org/10.36721/PJPS.2026.39.4.REG.15065.1). 육정자·오미자·산수유가 면역·폐 기능 개선.
 [^15]: Press needle for aspiration pneumonia prevention in older adults: protocol for a randomized double-blind placebo-controlled trial. 임상시험(프로토콜), 140명. DOI: [10.1097/MD.0000000000032847](https://doi.org/10.1097/MD.0000000000032847). 족삼리·태계 압침이 흡인성 폐렴 예방 RCT. / 한의학 폐렴 변증 이론. 근거 미확인(교과서적 임상 이론).
-[^16]: Clinical and experimental studies on treating infantile pneumonia with Feiyan Mixture. 임상시험(RCT), 128명. PMID: [11360566](https://pubmed.ncbi.nlm.nih.gov/11360566/). 비연탕이 항생제와 유사 유효율(89%).
+[^16]: \[Clinical and experimental studies on treating infantile pneumonia with Feiyan Mixture\]. Yan H 외. _Zhongguo Zhong Xi Yi Jie He Za Zhi_. 1998-01. [임상시험, 128명] [PMID 11360566](https://pubmed.ncbi.nlm.nih.gov/11360566/) — 소아 폐렴 128명에서 Feiyan Mixture(한자 표기는 원 보고에서 확인되지 않음) 유효율 89.0%, 항생제 대조군 94.73%로 군간 차이가 유의하지 않았다(χ²=2.838, P>0.05). **유의차 없음이 동등성을 입증하는 것은 아니며, 소표본·비열등성 설계 부재로 항생제 대체 근거가 될 수 없다.** 원 논문에 포함된 동물 실험 부분은 제외하고 인간 데이터에 한정해 인용한다.
 [^17]: Clinical and experimental study on Yinhua mixture aerosol in treating infantile viral pneumonia. 임상시험(RCT), 102명. PMID: [11783144](https://pubmed.ncbi.nlm.nih.gov/11783144/). 은화혼합액 에어로졸이 해열·거담·천식 개선.
 [^18]: Efficacy and metabolomic analysis of the pneumonia compound formulation against community-acquired pneumonia. 임상시험, 100명. DOI: [10.1186/s12879-025-10823-8](https://doi.org/10.1186/s12879-025-10823-8). 폐렴 복합 처방이 증상 개선, 지질 대사 조절.
 [^19]: Efficacy of Multidisciplinary Team-Delivered Meridian-Based Acupoint Massage in Infants and Young Children with Community-Acquired Pneumonia. 임상시험, 100명. DOI: [10.6913/mrhk.070306](https://doi.org/10.6913/mrhk.070306). 경락-혈위 마사지가 증상·입원 기간 개선.
@@ -867,7 +869,6 @@ KCD-8 **J18(폐렴, 병원체 불명)**. 노인·소아는 별도 세부 코드 
 [^56]: Bukuryoingohangekobokuto may improve recurrent aspiration pneumonia in patients with brain damage. 증례, 1명. DOI: [10.4103/jfmpc.jfmpc_1627_20](https://doi.org/10.4103/jfmpc.jfmpc_1627_20). 복령음합반하후박탕(茯苓飮合半夏厚朴湯)이 재발 억제.
 [^57]: Medical Acupuncture as a Treatment for Novel COVID-19-Related Respiratory Distress. 증례, 1명. DOI: [10.1089/acu.2020.1467](https://doi.org/10.1089/acu.2020.1467). 침·부항이 COVID-19 호흡기 증상 회복.
 [^59]: A review of frequently used Kampo prescriptions part 1. Daikenchuto. 문헌고찰. DOI: [10.1002/tkm2.1321](https://doi.org/10.1002/tkm2.1321). 대건중탕이 위장관 기능 개선.
-[^60]: Clinical and experimental studies on treating infantile pneumonia with Feiyan Mixture. 임상시험(RCT), 128명. PMID: [11360566](https://pubmed.ncbi.nlm.nih.gov/11360566/). 비연탕이 항생제와 유사 유효율.
 [^61]: Comparative Efficacy of Chinese Herbal Injections for Treating Pediatric Bronchopneumonia: A Bayesian Network Meta-Analysis of Randomized Controlled Trials. Duan X 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [메타분석, 21917명] [DOI 10.1155/2020/6127197](https://doi.org/10.1155/2020/6127197) [PMID 32565867](https://pubmed.ncbi.nlm.nih.gov/32565867/) — 소아 기관지폐렴 치료 시 중약주사제(CHI)를 양약과 병용하는 것이 효과적일 수 있으며, 특히 희신뇌주사(Xixinnao injection)와 연후녕주사(Yanhuning injection)가 임상 유효율 및 증상 개선 시간 단축에 우수한 잠재력을 보였다.
 [^62]: Comparative efficacy of Chinese herbal injections combined with azithromycin for mycoplasma pneumonia in children: A Bayesian network meta-analysis of randomized controlled trials. Duan X 외. _Journal of clinical pharmacy and therapeutics_. 2019-10. [메타분석, 16144명] [DOI 10.1111/jcpt.12855](https://doi.org/10.1111/jcpt.12855) [PMID 31119782](https://pubmed.ncbi.nlm.nih.gov/31119782/) — 소아 마이코플라스마 폐렴 치료 시 아지트로마이신 단독 요법보다 중약 주사제(CHI)를 병용하는 것이 치료 효과가 더 우수한 것으로 나타났다.
 [^63]: The efficacy of azithromycin combined with seven types of Chinese medicine injections in the treatment of Mycoplasma pneumoniae pneumonia in children: a systematic review and Bayesian network meta-analysis. Huang X 외. _Frontiers in Pharmacology_. 2024-09-24. [메타분석, 15014명] [DOI 10.3389/fphar.2024.1378445](https://doi.org/10.3389/fphar.2024.1378445) — 소아 마이코플라스마 폐렴 환자에게 아지스로마이신 단독 요법보다 중약주사제를 병용한 요법이 임상적으로 더 효과적임이 확인되었다.
