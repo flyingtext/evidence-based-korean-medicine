@@ -184,14 +184,14 @@
 - 복령(茯苓, Poria Sclerotium) — 적복령·복신 하위 표제어 포함 **작성됨**
 - 저령(猪苓, Polyporus) — (작성 예정)
 - 택사(澤瀉, Alismatis Rhizoma)
-- 의이인(薏苡仁, Coicis Semen) — (작성 예정)
+- 의이인(薏苡仁, Coicis Semen) — **작성됨** (기원 *Coix lacryma-jobi* var. *ma-yuen*, 종피 제거. 의이인 유지 정맥주사제 강래특康萊特의 항종양 근거는 경구 단미 근거와 층위를 구분해 서술)
 - 동과피(冬瓜皮, Benincasae Exocarpium) — (작성 예정)
 - 적소두(赤小豆, Phaseoli Calcarati Semen) — (작성 예정)
 - 옥미수(玉米鬚, Maydis Stigma) — (작성 예정)
 
 ### 6-2. 이뇨통림약(利尿通淋藥)
 
-- 차전자(車前子, Plantaginis Semen) — (작성 예정)
+- 차전자(車前子, Plantaginis Semen) — **작성됨** (기원 *Plantago asiatica*·*P. depressa* 의 씨. 실리엄psyllium은 *P. ovata* 의 **씨껍질** 로 종·부위가 모두 달라 근거를 전용하지 않음. 지상부인 차전초車前草는 별개 품목)
 - 목통(木通, Akebiae Caulis) — (작성 예정, 관목통 아리스톨로크산 안전성 문헌은 세신 문서에서 부분 다룸)
 - 활석(滑石, Talcum) — (작성 예정)
 - 통초(通草, Tetrapanacis Medulla) — (작성 예정)
@@ -204,7 +204,7 @@
 - 동규자(冬葵子, Malvae Fructus) — (작성 예정)
 - 등심초(燈心草, Junci Medulla) — (작성 예정)
 - 삼백초(三白草, Saururi Herba) — (작성 예정)
-- 인진호(茵陳蒿, Artemisiae Scopariae Herba) — (작성 예정)
+- 인진호(茵蔯蒿, Artemisiae Capillaris Herba) — **작성됨** (효능상 이습퇴황약利濕退黃藥. 국내 규격집 등재명은 Artemisiae Capillaris Herba이고 기원은 사철쑥 *Artemisia capillaris* 단일 종. Artemisiae Scopariae Herba는 **중국약전 명칭** 으로 비쑥 *A. scoparia* 와 사철쑥을 함께 수재하므로 구분해 인용한다. 더위지기 *A. iwayomogi* 의 한인진韓茵蔯은 국내 규격집의 별개 품목)
 - 금전초(金錢草, Lysimachiae Herba) — (작성 예정)
 
 ## 7. 온리약(溫裏藥, Interior-Warming Herbs)
