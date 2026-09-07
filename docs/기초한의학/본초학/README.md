@@ -426,7 +426,7 @@
 
 ### 17-2. 보양약(補陽藥)
 
-- 녹용(鹿茸, Cervi Cornu Pantotrichum) — (작성 예정)
+- 녹용(鹿茸, Cervi Parvum Cornu) — **작성됨** (국내 등재명은 KHP `Cervi Parvum Cornu`. `Cervi Cornu Pantotrichum`은 중국약전 명칭이다. 기원은 매화록·마록·대록 3종이며 순록뿔은 기원종이 아니라 녹용절편 순도시험의 검출 금지 대상)
 - 녹각(鹿角, Cervi Cornu) — (작성 예정)
 - 녹각교(鹿角膠, Cervi Cornu Colla) — (작성 예정)
 - 녹각상(鹿角霜, Cervi Cornu Degelatinatum) — (작성 예정)
