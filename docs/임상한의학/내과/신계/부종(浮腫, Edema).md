@@ -321,7 +321,7 @@ KCD-8 기준으로 부종은 **R60** 에 해당하며, 하위 분류는 R60.0(�
 - 유방암 생존자 증상 관리에서 침의 현재 근거 체계적 고찰이 보고되었다[^61].
 - 림프부종 침구 관리의 근거 평가 종합 고찰(umbrella review)이 보고되었다[^62].
 - 암 관련 림프부종에서 지압(acupressure)의 적용 가능성 체계적 고찰이 보고되었다[^63].
-- 유방암 관련 림프부종에서 혈위 부착·지압의 예방 효과 임상시험(72명)이 보고되었다[^64].
+- 유방암 액와림프절 절제술 환자에서 경피전기침자극(TEAS) 전처치의 림프부종 예방 효과를 72명 규모로 검증하려는 무작위대조시험이 계획·등록되었으나, 공개된 것은 시험 계획서뿐이며 결과는 보고되지 않았다[^64].
 - 림프부종에서 8개 침구 요법 비교 메타분석에서 부피 감소가 확인되었다[^65].
 - 골반 내 림프절 절제 후 림프부종 24례에서 침구 병용이 유효하였다[^66].
 - 영국 고령 여성 림프부종 27례에서 침 치료가 유효하였다[^67].
@@ -477,7 +477,7 @@ KCD-8 기준으로 부종은 **R60** 에 해당하며, 하위 분류는 R60.0(�
 - **온침(溫鍗)**: 유방암 관련 만성 림프부종 30명에서 부피 감소에 유효하였다[^19].
 - **전자뜸**: 유방암 관련 림프부종 10명 파일럿에서 유효하였다[^20].
 - **사암침(舍岩鍗)**: 림프부종 9명에서 유효하였다[^56].
-- **혈위 부착·지압**: 유방암 관련 림프부종에서 지압 적용 가능성이 보고되었다[^63]. 유방암 관련 림프부종에서 8개 침구 요법 메타분석이 부피 감소를 보였다[^59]. 경피전기침자극(TEAS)이 유방암 관련 림프부종 예방에 유효하였다(72명 임상시험)[^64].
+- **혈위 부착·지압**: 유방암 관련 림프부종에서 지압 적용 가능성이 보고되었다[^63]. 유방암 관련 림프부종에서 8개 침구 요법 메타분석이 부피 감소를 보였다[^59]. 경피전기침자극(TEAS) 전처치의 림프부종 예방 효과는 72명 규모 시험이 계획서 단계에 있어 아직 확인되지 않았다[^64].
 - **오령산(五苓散)**: 복막외 림프절 절제술 후 하복부 림프부종 21명에서 오령산이 복부 둘레 감소(반응률 78%, 병용 시 92%)를 보였다[^46]. 유방암 관련 상지 림프부종 200명 임상시험 프로토콜이 보고되었다[^83].
 - **시령탕(柴苓湯)**: 방사선 치료 후 림프부종 4례에서 시령탕이 부종 개선을 보였다[^52].
 - **진무탕(眞武湯)**: 밀로이병(선천성 림프부종) 1례에서 난치성 설사·복통을 완화하였다[^49].
@@ -829,7 +829,7 @@ KCD-8 기준으로 부종은 **R60** 에 해당하며, 하위 분류는 R60.0(�
 [^61]: Current evidence of acupuncture for symptoms related to breast cancer survivors: A PRISMA-compliant systematic review. _Medicine_. 2018. [체계적 고찰] [DOI 10.1097/MD.0000000000011793](https://doi.org/10.1097/MD.0000000000011793) [PMID 30095640](https://pubmed.ncbi.nlm.nih.gov/30095640/) — 유방암 생존자 증상 관리에서 침의 현재 근거 체계적 고찰.
 [^62]: Traditional Chinese Medicine for Breast Cancer-Related Lymphedema: An Umbrella Review of Systematic Reviews. _Research Square_. 2024. [체계적 고찰] [DOI 10.21203/rs.3.rs-10073877/v1](https://doi.org/10.21203/rs.3.rs-10073877/v1) — 림프부종 침구·중의 관리 근거 종합 고찰(umbrella review).
 [^63]: The promising application of acupressure for management of cancer-related lymphedema: A scoping review. _Advances in Cancer Biology & Therapeutics_. 2025. [체계적 고찰] [DOI 10.1016/j.apjon.2025.100669](https://doi.org/10.1016/j.apjon.2025.100669) [PMID 40124657](https://pubmed.ncbi.nlm.nih.gov/40124657/) — 암 관련 림프부종에서 지압(acupressure) 적용 가능성.
-[^64]: Preventive effect of transcutaneous electrical acupoint stimulation pretreatment on lymphedema. _Frontiers in Oncology_. 2026. [임상시험] [DOI 10.3389/fonc.2026.1816750](https://doi.org/10.3389/fonc.2026.1816750) [PMID 42137144](https://pubmed.ncbi.nlm.nih.gov/42137144/) — 경피전기침자극(TEAS)이 유방암 관련 림프부종 예방 72명에서 유효.
+[^64]: Preventive effect of transcutaneous electrical acupoint stimulation pretreatment on lymphedema in patients undergoing axillary lymph node dissection for breast cancer: a randomized controlled trial protocol. Wu L 외. _Frontiers in Oncology_. 2026-04-29. [임상시험 계획서, 72명 계획] [DOI 10.3389/fonc.2026.1816750](https://doi.org/10.3389/fonc.2026.1816750) [PMID 42137144](https://pubmed.ncbi.nlm.nih.gov/42137144/) — 액와림프절 절제술 예정 유방암 환자 72명을 TEAS군과 거짓 TEAS군에 1:1 배정해 수술 전후 12회 시행 후 18개월간 림프부종 발생률·발생시점을 평가하도록 설계된 다기관 시험의 계획서(ChiCTR2400088117). 지압(acupressure)이나 혈위 부착이 아닌 경피전기자극 개입이며, 결과는 보고되지 않았다.
 [^65]: 8개 침구 요법 비교 메타분석. [메타분석] — 8개 침구 요법의 유방암 관련 림프부종 효과 비교[^59]와 동일 계열.
 [^66]: Effectiveness of Acupuncture and Moxibustion Treatment for Lymphedema Following Intrapelvic. _American Journal of Chinese Medicine_. 2002. [증례 보고] [DOI 10.1142/s0192415x02000041](https://doi.org/10.1142/s0192415x02000041) — 침구가 골반 내 림프절 절제 후 림프부종 24례에서 유효.
 [^67]: Observation on 27 elderly women in britain with lymphedema syndrome treated by acupuncture. _Journal of Traditional Chinese Medicine_. 1990. [관찰연구] [PMID 20088421](https://pubmed.ncbi.nlm.nih.gov/20088421/) — 영국 고령 여성 림프부종 27례에서 침 치료 유효.
