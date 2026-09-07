@@ -653,8 +653,8 @@ PFPS에 특이적인 경구 한약 처방의 고품질 임상시험 근거는 �
 ### 27. 추나·수기요법
 
 - 요추 척추 교정(spinal manipulation)은 PFPS 환자의 통증을 감소시키고 대퇴사두근 근력을 향상시키는 데 효과적이나, 고유수용성·동적 균형 개선 효과는 제한적이다[^32].
-- 요골반 교정(lumbopelvic manipulation) 단독보다 건침을 병행하는 것이 통증 감소·기능 회복에 더 효과적이다[^33]. 전방 슬관절 통증에 운동+요골반 교정(HVLA) 병행의 임상적 타당성을 평가하는 다기관 파일럿 RCT 프로토콜도 진행 중이다[^66].
-- 슬개골 가동술(patella mobilization) 단독보다 척추 교정을 병행하는 것이 통증·기능 개선에 더 효과적이라는 근거가 있으며[^67], 슬개대퇴관절염 동반 슬관절 골관절염에서 슬개골 가동술+내측광근 운동 병행의 효과를 평가하는 실용적 RCT 프로토콜도 있다[^68].
+- 요골반 교정(lumbopelvic manipulation) 단독보다 건침을 병행하는 것이 통증 감소·기능 회복에 더 효과적이다[^33]. 전방 슬관절 통증에 운동+요골반 교정(HVLA) 병행의 임상적 타당성을 평가하려는 다기관 파일럿 시험이 **계획서 단계로 발표되어 있으나 결과는 아직 보고되지 않았다**[^66].
+- 슬개골 가동술(patella mobilization) 단독보다 척추 교정을 병행하는 것이 통증·기능 개선에 더 효과적이라는 근거가 있다[^67]. 슬개대퇴관절염 동반 슬관절 골관절염에서 슬개골 가동술의 효과를 평가하려는 실용적 시험도 **계획서 단계로 발표되어 있을 뿐 결과가 보고된 완료 연구가 아니므로 유효성 근거로 쓰지 않는다**[^68].
 - 도구 보조 연부조직 가동술(IASTM)과 추나(推拿) 요법 모두 통증 감소와 기능 개선에 효과적이며, IASTM이 추나에 비해 통증 완화·기능적 수행 능력 향상에서 더 우수한 단기·중기 효과를 보였다[^51].
 - 추나(推拿)는 슬개대퇴관절염에서 히알루론산 주사와 유사한 통증 완화 효과를 보이며, 관절 기능(WOMAC) 개선과 슬개골 외측 변위(LPD)·일치각(CA) 교정에 더 효과적이다[^27].
 - 흉요추·요골반·천장관절을 포함한 도수치료+구조화된 운동 프로그램 병행이 슬개골 연화증의 기능 회복(WOMAC·수평 점프·균형)에 더 효과적이다[^48].
@@ -731,8 +731,8 @@ PFPS에 특이적인 경구 한약 처방의 고품질 임상시험 근거는 �
 | 건침(대퇴사두근·중둔근) | 메타분석 다수 | 통증·기능 개선, 운동 병행 시 효과 증대 | [^4][^30][^59] |
 | 건침(고관절 근육군) | 임상시험 | 대퇴사두근 단독보다 우수할 수 있음 | [^6][^7][^59] |
 | 전침·화침·온침구 | 임상시험 | 연골연화 동반 만성 통증에 유리 | [^35][^36][^44] |
-| 요추·요골반 추나 교정 | 임상시험 | 통증·근력 개선, 건침 병행 시 상승 | [^32][^33][^66] |
-| 슬개골 가동술 | 임상시험/프로토콜 | 척추 교정 병행 시 효과 증대 | [^67][^68] |
+| 요추·요골반 추나 교정 | 임상시험 | 통증·근력 개선, 건침 병행 시 상승 | [^32][^33] |
+| 슬개골 가동술 | 임상시험 | 척추 교정 병행 시 효과 증대 | [^67] |
 | IASTM | 비교 임상시험 | 추나 대비 단기·중기 효과 우수 경향 | [^51] |
 | 키네시오/맥코넬 테이핑 | 메타분석 | 통증·정렬 개선, 목적별 선택 가능 | [^41][^42][^43] |
 | 광생체조절술(PBM) | 메타분석 | 운동 병행 시 단기 효과, 안전 | [^52] |
@@ -994,9 +994,9 @@ PFPS에 특이적인 경구 한약의 고품질 임상시험 근거는 아직 �
 [^63]: [Ultrasound anatomy and needle-knife insertion approach of common tendon lesions in knee osteoarthritis based on meridian sinew theory]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-08-12. [관찰연구] [DOI 10.13703/j.0255-2930.20200713-k0002](https://doi.org/10.13703/j.0255-2930.20200713-k0002) [PMID 34369701](https://pubmed.ncbi.nlm.nih.gov/34369701/) — 무릎 통증에서 경근(經筋) 이론에 기반한 병소점(鶴頂次·髌外下·髌内下 등) 초음파 유도 침도 자입 경로 제시. 슬개주위 취혈 정밀화의 참고 자료.
 [^64]: The efficacy of acupuncture combined with physical therapy compared with physical therapy alone in the conservative treatment of patellofemoral pain in sports medicine clinic. _Chulalongkorn University Thesis_. 1997. [임상시험] [DOI 10.58837/chula.the.1997.1169](https://doi.org/10.58837/chula.the.1997.1169) — 침+물리치료 병행이 물리치료 단독보다 통증 감소가 유의. 대퇴사두근 근활동도 향상은 제한적.
 [^65]: Acupuncture Therapy for Extremity Musculoskeletal Pain: A Clinically Focused Evidence Synthesis with Therapeutic Implications. _Journal of pain research_. 2025. [체계적 고찰] [DOI 10.2147/JPR.S551446](https://doi.org/10.2147/JPR.S551446) [PMID 41164823](https://pubmed.ncbi.nlm.nih.gov/41164823/) — 사지 근골격계 통증에서 침 치료가 안전·효과적인 보조 요법이 될 수 있음을 정리한 임상 중심 근거 종합.
-[^66]: Lumbopelvic manipulation for anterior knee pain: protocol for a multicenter, pilot randomized controlled trial. _Journal of Bodywork and Movement Therapies_. 2026-07. [임상시험] [DOI 10.1016/j.jbmt.2026.04.017](https://doi.org/10.1016/j.jbmt.2026.04.017) [PMID 42264829](https://pubmed.ncbi.nlm.nih.gov/42264829/) — 전방 슬관절 통증에 운동+요골반 교정(HVLA) 병행의 임상적 타당성을 평가하는 다기관 파일럿 RCT 프로토콜.
+[^66]: Lumbopelvic manipulation for anterior knee pain: protocol for a multicenter, pilot randomized controlled trial. Serres W 외. _Journal of bodywork and movement therapies_. 2026-07-01. [임상시험 계획서] [DOI 10.1016/j.jbmt.2026.04.017](https://doi.org/10.1016/j.jbmt.2026.04.017) [PMID 42264829](https://pubmed.ncbi.nlm.nih.gov/42264829/) — 전방 슬관절 통증에 통상 치료+요골반 교정(HVLA)과 통상 치료+위 교정을 비교하려는 다기관 파일럿 시험의 **계획서이며 결과가 보고된 완료 연구가 아니다**. 유효성 근거로 사용하지 않는다.
 [^67]: The effectiveness of combined spinal manipulation and patella mobilization compared to patella mobilization alone in the conservative management of patellofemoral pain syndrome. [임상시험] [DOI 10.51415/10321/2101](https://doi.org/10.51415/10321/2101) — PFPS 보존적 관리에서 슬개골 가동술 단독보다 척추 교정을 병행하는 것이 통증·기능 개선에 더 효과적임을 평가.
-[^68]: Clinical effectiveness of patella mobilisation therapy versus a waiting list control for knee osteoarthritis: a protocol for a pragmatic randomised clinical trial. _BMJ open_. 2018-03-14. [임상시험] [DOI 10.1136/bmjopen-2017-019103](https://doi.org/10.1136/bmjopen-2017-019103) [PMID 29540410](https://pubmed.ncbi.nlm.nih.gov/29540410/) — 슬개대퇴관절염 동반 무릎 골관절염에서 슬개골 가동술(PMT)+내측광근 운동 병행의 통증·기능 개선 효과를 평가하는 실용적 RCT 프로토콜.
+[^68]: Clinical effectiveness of patella mobilisation therapy versus a waiting list control for knee osteoarthritis: a protocol for a pragmatic randomised clinical trial. Sit RWS 외. _BMJ open_. 2018-03-14. [임상시험 계획서, 208명 계획] [DOI 10.1136/bmjopen-2017-019103](https://doi.org/10.1136/bmjopen-2017-019103) [PMID 29540410](https://pubmed.ncbi.nlm.nih.gov/29540410/) — 슬개대퇴관절염 동반 무릎 골관절염에서 슬개골 가동술과 대기자 대조를 비교하려는 실용적 시험의 **계획서이며 결과가 보고된 완료 연구가 아니다**. 유효성 근거로 사용하지 않는다.
 [^69]: Effect of Tan Tui combined with kinesio taping on the posture control of patients with PFPS: protocol for a randomized controlled trial. _Trials_. 2023-08-09. [임상시험] [DOI 10.1186/s13063-023-07465-z](https://doi.org/10.1186/s13063-023-07465-z) — 초기 PFPS 환자에서 전통 추나(단推)와 키네시오 테이핑 병행이 자세 조절·무릎 기능에 미치는 효과를 평가하는 RCT 프로토콜.
 [^70]: Effect of Topical Cooling with Ice and Cold Spray on Knee Joint Position Sense of Athletes with Patellofemoral Pain Syndrome. _Journal of Clinical Research in Paramedical Sciences_. 2021-12-18. [실험연구] [DOI 10.5812/jcrps.109762](https://doi.org/10.5812/jcrps.109762) — 냉각요법(얼음·냉각스프레이)이 PFPS 환자의 무릎 관절 위치 감각을 유의하게 저하시켜, 냉치료 직후 균형·가동 활동 시 주의가 필요함을 시사.
 [^71]: Effect of therapeutic modalities on patients with patellofemoral pain syndrome: a systematic review. _Sports health_. 2011-03. [체계적 고찰] [DOI 10.1177/1941738111398583](https://doi.org/10.1177/1941738111398583) [PMID 23016007](https://pubmed.ncbi.nlm.nih.gov/23016007/) — PFPS에서 냉치료·초음파·전기자극 등 물리치료 보조요법 단독 사용은 근거가 부족하며, 병행 시 일부 도움이 될 수 있음.
