@@ -584,7 +584,7 @@
 
 #### 25-4. ④ 치료
 
-**변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다.** 코크란 체계적 고찰(294명)은 외상성 뇌손상 급성기 관리·재활에서 침 치료 근거를 종합하되 근거 부족을 정직하게 지적했으며[^96], 대규모 스코핑 리뷰는 보완통합의학 전반의 적용 현황을 개괄했다[^97]. 청력손실에 대한 체계적 고찰[^98], 의식장애 회복 촉진에 대한 메타분석(3,511명)[^99], 혼수 환자에 대한 체계적 고찰·메타분석[^100]이 보고되었다. 거어성뇌개규(祛瘀醒腦開竅) 침법의 무작위 임상시험(50명)[^101], 전침의 의식 회복 개선 프로토콜(150명)[^102], 대규모 코호트 연구(2,163명)[^103], 만성기 외상후 뇌전증에 대한 이침의 후향적 연구(89명)[^104], 연하장애에 대한 임상시험(68명)[^105]이 축적되어 있다. 기능의학적 관점의 통합관리 접근도 개괄되었다[^106].
+**변증 없는 관행적 취혈·처방은 근거에 부합하지 않는다.** 코크란 체계적 고찰(294명)은 외상성 뇌손상 급성기 관리·재활에서 침 치료 근거를 종합하되 근거 부족을 정직하게 지적했으며[^96], 대규모 스코핑 리뷰는 보완통합의학 전반의 적용 현황을 개괄했다[^97]. 청력손실에 대한 체계적 고찰[^98], 의식장애 회복 촉진에 대한 메타분석(3,511명)[^99], 혼수 환자에 대한 체계적 고찰·메타분석[^100]이 보고되었다. 대규모 코호트 연구(2,163명)[^103], 만성기 외상후 뇌전증에 대한 이침의 후향적 연구(89명)[^104], 연하장애에 대한 임상시험(68명)[^105]이 축적되어 있다. 아직 결과가 보고되지 않은 진행 중 연구로는 거어성뇌개규(祛瘀醒腦開竅) 침법의 의식 회복 효과를 검증하려는 50명 규모 시험[^101]과 전침의 의식 회복 개선을 검증하려는 150명 규모 시험[^102]의 계획서가 있으나, 이들은 아직 유효성 근거로 삼을 수 없다. 기능의학적 관점의 통합관리 접근도 개괄되었다[^106].
 
 #### 25-4-1. 대표 방제·취혈 배합 참고
 
@@ -770,7 +770,7 @@
 | 두통·편두통 | 태양, 풍지, 솔곡 | 합곡, 태충, 풍륭 | [^71][^76] |
 | 현훈·어지럼 | 백회, 풍지, 예풍 | 내관, 족삼리 | [^88][^91] |
 | 수면장애 | 인당, 사신총 | 신문, 삼음교, 태계 | [^38][^95] |
-| 외상성 뇌손상 | 백회, 수구(水溝) | 십이정혈, 합곡 | [^99][^101] |
+| 외상성 뇌손상 | 백회, 수구(水溝) | 십이정혈, 합곡 | [^99] |
 
 > 위 배혈례표는 해당 각주의 임상 연구에서 사용된 취혈을 개괄한 참고 틀이며, 개별 연구마다 구체적 취혈·자침 방법(자침 깊이·유침 시간·보사법)에 차이가 있으므로 원문을 함께 참고해야 한다. 변증 없이 이 표를 그대로 적용하는 것은 근거에 부합하지 않는다.
 
@@ -991,7 +991,7 @@
 [^98]: Acupuncture for hearing loss after traumatic brain injury. Wei-feng Wang 외. _Medicine_. 2019-07. [체계적 고찰] [DOI 10.1097/md.0000000000016553](https://doi.org/10.1097/md.0000000000016553) — 외상성 뇌손상 후 청력손실에 대한 침 치료 근거를 체계적으로 검토.
 [^99]: Acupuncture to Promote Recovery of Disorder of Consciousness after Traumatic Brain Injury: A Systematic Review and Meta-Analysis. Li Tan 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-03-19. [메타분석, 3511명] [DOI 10.1155/2019/5190515](https://doi.org/10.1155/2019/5190515) — 메타분석(3,511명). 외상성 뇌손상 후 의식장애 회복 촉진에 침 치료가 기여할 수 있음을 확인.
 [^100]: Acupuncture for Patients in Coma after Traumatic Brain Injury: Systematic Review and Meta-Analysis. Zhang Q 외. _Alternative therapies in health and medicine_. 2020-07. [메타분석] [PMID 32088667](https://pubmed.ncbi.nlm.nih.gov/32088667/) — 외상성 뇌손상 후 혼수 환자에 대한 침 치료 효과를 체계적으로 검토·메타분석.
-[^101]: Effect of acupuncture method of removing-stasisand resuscitating on the consciousness of patients with severe traumatic brain injury: A randomized clinical trial. Pan JJ 외. _Medicine_. 2020-09-04. [임상시험, 50명] [DOI 10.1097/MD.0000000000022056](https://doi.org/10.1097/MD.0000000000022056) [PMID 32899069](https://pubmed.ncbi.nlm.nih.gov/32899069/) — 무작위 임상시험(50명). 거어성뇌개규(祛瘀醒腦開竅) 침법이 중증 외상성 뇌손상 환자의 의식 회복에 유효함을 확인.
+[^101]: Effect of acupuncture method of removing-stasisand resuscitating on the consciousness of patients with severe traumatic brain injury: A randomized clinical trial. Pan JJ 외. _Medicine_. 2020-09-04. [임상시험 계획서, 50명 계획] [DOI 10.1097/MD.0000000000022056](https://doi.org/10.1097/MD.0000000000022056) [PMID 32899069](https://pubmed.ncbi.nlm.nih.gov/32899069/) — 중증 외상성 뇌손상 환자에서 통상 서양의학 치료에 거어성뇌개규(祛瘀醒腦開竅) 침법을 추가했을 때의 의식 회복 촉진 효과를 관찰하기 위해 설계된 시험의 계획서로, 결과는 보고되지 않았다(등록번호 ChiCTR2000034732).
 [^102]: Efficacy and safety of electro-acupuncture treatment in improving the consciousness of patients with traumatic brain injury: study protocol for a randomized controlled trial. Liu J 외. _Trials_. 2018-05-29. [임상시험, 150명] [DOI 10.1186/s13063-018-2687-3](https://doi.org/10.1186/s13063-018-2687-3) [PMID 29843761](https://pubmed.ncbi.nlm.nih.gov/29843761/) — 무작위 대조 프로토콜(150명). 전침이 외상성 뇌손상 환자의 의식 회복 개선에 유효·안전함을 검증.
 [^103]: Effect of Acupuncture on Recovery of Consciousness in Patients with Acute Traumatic Brain Injury: A Multi-Institutional Cohort Study. Lin CC 외. _Healthcare (Basel, Switzerland)_. 2023-08-11. [관찰연구, 2163명] [DOI 10.3390/healthcare11162267](https://doi.org/10.3390/healthcare11162267) [PMID 37628465](https://pubmed.ncbi.nlm.nih.gov/37628465/) — 다기관 코호트 연구(2,163명). 급성 외상성 뇌손상 환자에서 침 치료와 의식 회복의 연관성을 대규모로 확인.
 [^104]: Auricular Electroacupuncture for Late Posttraumatic Epilepsy after Severe Brain Injury: A Retrospective Study. Shen CC 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [관찰연구, 89명] [DOI 10.1155/2019/5798912](https://doi.org/10.1155/2019/5798912) [PMID 31737082](https://pubmed.ncbi.nlm.nih.gov/31737082/) — 후향적 연구(89명). 이침이 중증 뇌손상 후 만성기 외상후 뇌전증 관리에 활용된 근거를 제공.
