@@ -141,10 +141,10 @@
 
 - 독활(獨活, Araliae Continentalis Radix)
 - 위령선(威靈仙, Clematidis Radix) — (작성 예정)
-- 방기(防己, Stephaniae Tetrandrae Radix) — (작성 예정)
+- 방기(防己, Sinomeni Caulis et Rhizoma) — **작성됨** (KP 등재 기원은 청풍등 *Sinomenium acutum*. 중국약전의 분방기 *Stephania tetrandra* 및 목방기 *Cocculus*, 아리스토로크산 함유 광방기 *Aristolochia fangchi* 와의 구분은 문서 제1편 참조. 아리스토로크산 신병증·발암성 안전성 주의)
 - 진교(秦艽, Gentianae Macrophyllae Radix) — (작성 예정)
 - 해동피(海桐皮, Erythrinae Cortex) — (작성 예정)
-- 초오(草烏, Aconiti Kusnezoffii Radix) — (작성 예정)
+- 초오(草烏, Aconiti Ciliare Tuber) — **작성됨** (KHP 기원은 이삭바꽃·놋젓가락나물·세잎돌쩌귀의 덩이뿌리. 포제품은 초오제. 아코니틴 안전성 주의 — 치료역이 좁고 국내 중독 사망 사례 보고)
 - 잠사(蠶沙, Bombycis Faeces) — (작성 예정)
 - 마전자(馬錢子, Strychni Semen) — (작성 예정, 스트리크닌 안전성 주의)
 
@@ -363,7 +363,7 @@
 - 상백피(桑白皮, Mori Cortex) — (작성 예정)
 - 정력자(葶藶子, Descurainiae Semen) — (작성 예정)
 - 마두령(馬兜鈴, Aristolochiae Fructus) — (작성 예정, 아리스톨로크산 안전성 주의)
-- 백과(白果, Ginkgo Semen) — (작성 예정)
+- 백과(白果, Ginkgo Semen) — **작성됨** (은행나무 *Ginkgo biloba* 의 **종자**. 은행엽 표준화 추출물과 기원 부위·근거가 전혀 다름을 문서 서두에서 구분. 긴코톡신 안전성 주의 — 소아 경련 위험)
 
 ## 14. 안신약(安神藥, Spirit-Calming Herbs)
 
