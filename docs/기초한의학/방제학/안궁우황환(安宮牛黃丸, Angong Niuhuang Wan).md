@@ -11,7 +11,7 @@
 
 안궁우황환은 자설단(紫雪丹)·지보단(至寶丹)과 함께 **량개삼보(涼開三寶)** 로 불리는 청열개규(淸熱開竅) 처방군의 대표 방제로, 온병(溫病)의 위기영혈변증(衛氣營血辨證)에서 사열(邪熱)이 영분(營分)·혈분(血分)에 깊이 들어가 심포(心包)를 막는 열폐(熱閉)·양폐(陽閉) 증후에 사용된다.[교과서적 근거] 이는 한사(寒邪)·담탁(痰濁)이 규를 막는 한폐(寒閉)·음폐(陰閉)에 사용하는 소합향원(蘇合香元)과 병기(病機)의 성질이 정반대이며, 두 처방을 혼동하여 투여하면 오히려 병세를 악화시킬 수 있어 임상에서 가장 먼저 감별해야 할 지점이다.[교과서적 근거] 이 문서는 안궁우황환의 출전·구성·방의를 정리하고, 뇌졸중 급성기 의식장애·중증 감염성 질환·간성뇌증 등에 대한 현대 임상 근거를 종합하며, 주사(朱砂)·웅황(雄黃)에 함유된 중금속(수은·비소) 성분의 안전성 문제를 균형 있게 다룬다.
 
-안궁우황환의 임상적 특징은 "고형(固形) 환제(丸劑)로서의 전통 개규제"라는 위상과, 현대에 이르러 **주사제(注射劑)로 재구성된 계열 처방(행뇌정주사액醒腦靜注射液 등)** 을 통해 위중한 급성기 환자에게도 신속히 적용될 수 있는 다형적(多形的) 확장이 이루어졌다는 점에 있다. 원방의 청심개규(淸心開竅) 방의를 계승하면서 사향·치자·울금·빙편 성분을 정맥 주사 제형으로 정제한 행뇌정주사액은, 경구 섭취가 불가능한 중증 의식장애 환자에서 안궁우황환의 방의를 임상에 구현하는 대체·보완적 경로로 축적된 근거가 상당하며, 이 문서에서도 함께 다룬다.[^45][^54]
+안궁우황환의 임상적 특징은 "고형(固形) 환제(丸劑)로서의 전통 개규제"라는 위상과, 현대에 이르러 **주사제(注射劑)로 재구성된 계열 처방(성뇌정주사액醒腦靜注射液 등)** 을 통해 위중한 급성기 환자에게도 신속히 적용될 수 있는 다형적(多形的) 확장이 이루어졌다는 점에 있다. 원방의 청심개규(淸心開竅) 방의를 계승하면서 사향·치자·울금·빙편 성분을 정맥 주사 제형으로 정제한 성뇌정주사액은, 경구 섭취가 불가능한 중증 의식장애 환자에서 안궁우황환의 방의를 임상에 구현하는 대체·보완적 경로로 축적된 근거가 상당하며, 이 문서에서도 함께 다룬다.[^45][^54]
 
 ### 2. 출전 — 『온병조변(溫病條辨)』과 청대 온병학의 확립
 
@@ -50,7 +50,7 @@
 
 안궁우황환의 방의는 "청열해독(淸熱解毒)을 주축으로 개규성신(開竅醒神)·진심안신(鎭心安神)을 배합한다"는 구조로 요약된다.[교과서적 근거] 우황을 군약으로 삼아 심규(心竅)를 막고 있는 열독(熱毒)·담화(痰火)를 맑히고, 서각(대체 수우각)·황련·황금·치자의 신약군(臣藥群)이 삼초(三焦)의 화열(火熱)을 전방위적으로 사(瀉)하여 열독이 다시 생기지 않도록 뒷받침한다.[교과서적 근거] 사향·빙편·울금이 좌약(佐藥)으로 신속한 개규성신 작용을 담당하며, 특히 사향의 강렬한 방향주규(芳香走竄) 성질이 약력을 전신에 신속히 도달시키는 매개 역할을 한다. 진주·주사가 진심안신하여 개규약의 발산이 과도하게 정신을 소모시키지 않도록 완충하며, 웅황이 담탁예독(痰濁穢毒)의 사기를 조습살충(燥濕殺蟲)의 방식으로 함께 제거한다.[교과서적 근거]
 
-이러한 구조는 "청열(淸熱)·해독(解毒)·개규(開竅)·안신(安神)"의 네 축이 유기적으로 결합된 것으로, 열독이 심포(心包)를 어지럽혀 신명(神明)이 흐려진 위중한 상태에서 열사를 신속히 꺾는 동시에 규를 열어 의식을 되돌리는 데 목표를 둔다.[교과서적 근거] 현대 약리학적 관점에서 안궁우황환 복방은 항염증·항산화·혈뇌장벽(BBB) 투과성 조절·신경세포 사멸 억제 등 다중 표적(multi-target) 기전을 통해 신경보호 효과를 나타내는 것으로 문헌 고찰되었다.[^47][^12]
+이러한 구조는 "청열(淸熱)·해독(解毒)·개규(開竅)·안신(安神)"의 네 축이 유기적으로 결합된 것으로, 열독이 심포(心包)를 어지럽혀 신명(神明)이 흐려진 위중한 상태에서 열사를 신속히 꺾는 동시에 규를 열어 의식을 되돌리는 데 목표를 둔다.[교과서적 근거] 현대 약리학적 관점에서 안궁우황환 복방은 항염증·항산화·혈뇌장벽(BBB) 투과성 조절·신경세포 사멸 억제 등 다중 표적(multi-target) 기전을 통해 신경보호 효과를 나타내는 것으로 문헌 고찰되었다.[^47][^12] 11종 약재 배합의 약리 작용·기전·임상 응용을 종합한 최근 문헌 고찰도 청열·해독·개규의 전통적 방의가 다중 표적 약리로 재서술될 수 있다고 정리하면서, 동시에 **표준 조제법의 부재, 독성 평가의 미비, 임상 근거의 강화 필요성**을 이 처방이 당면한 과제로 제시하였다[^15]. 즉 기전 수준의 설명이 축적된 것과 임상 유효성이 확립된 것은 별개이며, 이 문서에서 이후 다루는 임상 근거도 그러한 한계 위에서 읽어야 한다.
 
 ### 5. 우황청심원·소합향원과의 처방 계보상 위치
 
@@ -124,7 +124,7 @@
 | 출혈 경향(반진밀포·토뉵혈) | 서각지황탕 병용, 생지황(生地黃)·목단피(牡丹皮)·적작약(赤芍藥) 가미 | 청열량혈(淸熱凉血)·산어(散瘀) 강화 |
 | 변비·복만(腹滿) 겸함(양명부실陽明腑實 겸증) | 대승기탕(大承氣湯) 계열 병용 | 통부설열(通腑泄熱)로 열독의 출로 확보 |
 | 기허(氣虛) 겸증(장기 위중증 이후) | 생맥산(生脈散) 병용 | 익기고탈(益氣固脫) — 정기 소모 방지 |
-| 경구 섭취 불가능(혼수·연하곤란) | 비위관 투여 또는 행뇌정주사액(醒腦靜注射液) 등 주사 제형으로 대체 | 개규 방의를 정맥 경로로 신속 구현[^45] |
+| 경구 섭취 불가능(혼수·연하곤란) | 비위관 투여 또는 성뇌정주사액(醒腦靜注射液) 등 주사 제형으로 대체 | 개규 방의를 정맥 경로로 신속 구현[^45] |
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 병용·가감의 구체적 배합비에 대한 대조 임상시험은 근거가 제한적이며, 개별 환자의 변증에 따른 한의사·중의사의 종합적 판단이 우선되어야 한다.
 
@@ -170,7 +170,7 @@
 
 ## 제5편 임상 근거 — 질환군별 각론
 
-이 편에서는 안궁우황환(및 방의를 공유하는 주사 제형 계열 처방인 행뇌정주사액醒腦靜注射液)에 대한 인간 대상 연구를 질환군별로 정리한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** 는 원칙에 따라, 각 질환군에서도 열폐(熱閉)·담열내폐(痰熱內閉) 등 실증(實證) 변증이 확인된 환자에서의 적용을 전제로 근거를 해석해야 한다.
+이 편에서는 안궁우황환(및 방의를 공유하는 주사 제형 계열 처방인 성뇌정주사액醒腦靜注射液)에 대한 인간 대상 연구를 질환군별로 정리한다. **변증 없는 관행적 처방은 근거에 부합하지 않는다** 는 원칙에 따라, 각 질환군에서도 열폐(熱閉)·담열내폐(痰熱內閉) 등 실증(實證) 변증이 확인된 환자에서의 적용을 전제로 근거를 해석해야 한다.
 
 ### 21. 뇌졸중 급성기 의식장애군 — 허혈성 뇌졸중
 
@@ -180,39 +180,41 @@
 
 안궁우황환이 뇌졸중에 미치는 신경보호 효과를 전임상·임상 근거를 함께 종합한 체계적 고찰에서는, 전임상 연구의 다경로(multi-pathway) 신경보호 기전과 함께 임상적으로 GCS·NIHSS 점수 개선, 기저핵 출혈 환자의 예후 개선(mRS 0-2 달성률 증가), 대동맥 경화성 뇌경색 환자의 뇌경색 부피 감소가 확인되었으며, 전반적 안전성 프로파일이 양호한 것으로 정리되었다.[^12] 담열폐구증(痰熱閉竅證)을 보이는 뇌경색 환자를 대상으로 한 임상시험에서는 안궁우황환이 Th1/Th2 면역 균형을 조절(INF-γ 감소, IL-4 증가)하는 것으로 나타나, 변증에 부합하는 환자에서 면역 조절 기전을 통한 치료 효과 가능성이 시사되었다.[^3]
 
+계열 주사제인 성뇌정주사액에 대해서도 뇌졸중 전반을 대상으로 한 초기 체계적 고찰·메타분석이 있어, 병용군에서 유효성·신경학적 결손·TNF-α 지표의 개선이 보고되었다[^34]. 다만 이는 2014년 시점의 통합 결과이며, 이후 같은 영역의 체계적 고찰들을 AMSTAR-2·GRADE로 재평가한 개관 연구들이 근거 수준을 일관되게 낮게 판정하였으므로[^41][^42], 이 메타분석의 결과 역시 그 방법론적 한계를 전제로 읽어야 한다. 또한 **성뇌정주사액에서 얻어진 결과를 안궁우황환 환제의 근거로 그대로 옮길 수 없다** — 제형·투여 경로·구성 약재의 범위가 다르기 때문이다.
+
 > 변증 없는 관행적 처방은 근거에 부합하지 않는다. ANGONG TRIAL이 보여주듯 안궁우황환의 효과는 전체 뇌졸중 환자군보다 특정 아형(대동맥 경화성 병변 등)에서 더 뚜렷하게 나타날 수 있으므로, 담열내폐·열독내함의 변증이 확인된 환자를 선별하여 적용하는 것이 근거에 부합하는 접근이다.[^5][^12]
 
 ### 22. 뇌졸중 급성기 의식장애군 — 출혈성 뇌졸중(뇌내출혈)
 
 안궁우황환을 뇌내출혈(ICH) 환자의 보조 치료로 병용한 체계적 고찰에서, 병용군은 유효율·NIHSS·GCS·ADL 점수가 유의하게 개선되고 말론디알데하이드(MDA) 수치와 이상반응 발생률이 낮아졌으나, 혈종 부피 변화 자체에는 유의한 차이가 없어 신경학적 기능 개선과 혈종 흡수 촉진 효과가 반드시 일치하지는 않음을 보여주었다.[^14] 급성 뇌경색·뇌내출혈을 모두 포괄한 메타분석에서도 안궁우황환 병용이 총 반응률·신경학적 결손·GCS를 개선하는 효과가 확인되었다.[^9]
 
-행뇌정주사액(醒腦靜注射液, 사향·치자·울금·빙편 성분을 정제한 안궁우황환 계열의 주사 제형)에 대한 근거는 특히 방대하게 축적되어 있다. 급성기 뇌내출혈 환자에서 침 치료와 행뇌정주사액을 병용한 임상관찰에서, 병용군이 침 단독·행뇌정 단독·통상 치료군보다 혈종 흡수 속도와 신경 기능 결손 점수 개선에서 가장 우수한 결과를 보였다.[^25] 중등도 고혈압성 기저핵 출혈 환자에서 최소 침습적 경피적 배액술과 행뇌정주사액을 병용한 임상시험에서는 병용군의 NIHSS 점수가 유의하게 낮았고 뇌부종 부피가 더 많이 감소하였으며 혈청 아쿠아포린-4(AQP4) 수치가 유의하게 낮아졌다.[^26] 뇌내출혈 환자에서 활혈거어법(活血祛瘀法) 병행 치료가 서양의학적 기본 치료 단독보다 7일 이내 혈종 흡수를 촉진하고 3개월 시점 NIHSS·MRS·바델 지수(BI)를 유의하게 개선한 임상시험도 보고되었다.[^44]
+성뇌정주사액(醒腦靜注射液, 사향·치자·울금·빙편 성분을 정제한 안궁우황환 계열의 주사 제형)에 대한 근거는 특히 방대하게 축적되어 있다. 급성기 뇌내출혈 환자에서 침 치료와 성뇌정주사액을 병용한 임상관찰에서, 병용군이 침 단독·성뇌정 단독·통상 치료군보다 혈종 흡수 속도와 신경 기능 결손 점수 개선에서 가장 우수한 결과를 보였다.[^25] 중등도 고혈압성 기저핵 출혈 환자에서 최소 침습적 경피적 배액술과 성뇌정주사액을 병용한 임상시험에서는 병용군의 NIHSS 점수가 유의하게 낮았고 뇌부종 부피가 더 많이 감소하였으며 혈청 아쿠아포린-4(AQP4) 수치가 유의하게 낮아졌다.[^26] 뇌내출혈 환자에서 활혈거어법(活血祛瘀法) 병행 치료가 서양의학적 기본 치료 단독보다 7일 이내 혈종 흡수를 촉진하고 3개월 시점 NIHSS·MRS·바델 지수(BI)를 유의하게 개선한 임상시험도 보고되었다.[^44]
 
-체계적 고찰·메타분석 수준에서도 행뇌정주사액은 급성 뇌출혈 치료에서 효과율·GCS·ADL을 개선하고 NIHSS·중국 뇌졸중 척도(CSS)·고감도 CRP·혈종 및 부종 부피를 유의하게 감소시키는 것으로 나타났으나,[^32] 뇌출혈 후 나록손(naloxone)과의 병용 효과를 평가한 메타분석에서는 GCS·혼수 지속 시간·NIHSS·바델 지수·혈종 부피 개선이 확인된 동시에 포함 문헌의 질과 이질성 문제가 함께 지적되었다.[^33] 수술 후 뇌내출혈 환자에서 행뇌정주사액 병용의 유효성·안전성을 평가한 메타분석에서도 총 유효율·뇌부종 개선·TNF-α 감소·사망률 및 합병증 감소가 보고되었으나 근거 수준은 낮게 평가되었다.[^30]
+체계적 고찰·메타분석 수준에서도 성뇌정주사액은 급성 뇌출혈 치료에서 효과율·GCS·ADL을 개선하고 NIHSS·중국 뇌졸중 척도(CSS)·고감도 CRP·혈종 및 부종 부피를 유의하게 감소시키는 것으로 나타났으나,[^32] 뇌출혈 후 나록손(naloxone)과의 병용 효과를 평가한 메타분석에서는 GCS·혼수 지속 시간·NIHSS·바델 지수·혈종 부피 개선이 확인된 동시에 포함 문헌의 질과 이질성 문제가 함께 지적되었다.[^33] 수술 후 뇌내출혈 환자에서 성뇌정주사액 병용의 유효성·안전성을 평가한 메타분석에서도 총 유효율·뇌부종 개선·TNF-α 감소·사망률 및 합병증 감소가 보고되었으나 근거 수준은 낮게 평가되었다.[^30]
 
-행뇌정주사액 관련 체계적 고찰들의 근거 수준에 대한 메타적 평가(overview of systematic reviews)에서는, 대부분의 개별 문헌이 유효율·신경학적 지표·사망률·혈종 부피 개선을 보고하지만 AMSTAR-2·GRADE 평가 결과 방법론적 질과 근거 수준이 전반적으로 낮은 것으로 확인되었다.[^42] 실제 임상 현장에서 행뇌정주사액의 사용 실태를 조사한 리얼월드 관찰연구에서는, 중장년 남성 환자에게 겨울철에 많이 투여되며 10-20mL 용량이 흔하고 글루코코르티코이드·양성자펌프억제제 등과 병용되는 경향이 확인되었다.[^35] 두부 외상 및 그 합병증에 대한 최적 약물 조합을 타부 탐색(Tabu search) 알고리즘으로 분석한 리얼월드 연구는, 뇌부종·신경 손상에는 마니톨·강글리오사이드 나트륨 조합, 폐감염에는 행뇌정주사액·시얀핑(Xiyanping)·암브록솔 조합이 추천됨을 제시하였다.[^38]
+성뇌정주사액 관련 체계적 고찰들의 근거 수준에 대한 메타적 평가(overview of systematic reviews)에서는, 대부분의 개별 문헌이 유효율·신경학적 지표·사망률·혈종 부피 개선을 보고하지만 AMSTAR-2·GRADE 평가 결과 방법론적 질과 근거 수준이 전반적으로 낮은 것으로 확인되었다.[^42] 실제 임상 현장에서 성뇌정주사액의 사용 실태를 조사한 리얼월드 관찰연구에서는, 중장년 남성 환자에게 겨울철에 많이 투여되며 10-20mL 용량이 흔하고 글루코코르티코이드·양성자펌프억제제 등과 병용되는 경향이 확인되었다.[^35] 두부 외상 및 그 합병증에 대한 최적 약물 조합을 타부 탐색(Tabu search) 알고리즘으로 분석한 리얼월드 연구는, 뇌부종·신경 손상에는 마니톨·강글리오사이드 나트륨 조합, 폐감염에는 성뇌정주사액·시얀핑(Xiyanping)·암브록솔 조합이 추천됨을 제시하였다.[^38]
 
-고혈압성 뇌내출혈 환자를 대상으로 여러 중성약 주사제를 비교한 네트워크 메타분석에서는, 지표별로 단홍주사(丹紅注射)가 신경학적 기능 개선에, 행뇌정주사액이 NIHSS 개선에, 은행대모주사(銀杏達莫注射)가 GCS 개선에 상대적으로 우수한 순위를 보였다.[^45] 경구·비강 투여 중성약을 비교한 별도의 네트워크 메타분석에서도 여러 중성약이 신경기능 결손 개선·혈종 감소·일상생활 능력 향상에 기여하는 것으로 나타났다.[^48] 급성 뇌경색 환자에서 11종의 경구용 중성약을 비교한 네트워크 메타분석에서는 지표별로 효과적인 약제가 상이하였다.[^47]
+고혈압성 뇌내출혈 환자를 대상으로 여러 중성약 주사제를 비교한 네트워크 메타분석에서는, 지표별로 단홍주사(丹紅注射)가 신경학적 기능 개선에, 성뇌정주사액이 NIHSS 개선에, 은행대모주사(銀杏達莫注射)가 GCS 개선에 상대적으로 우수한 순위를 보였다.[^45] 경구·비강 투여 중성약을 비교한 별도의 네트워크 메타분석에서도 여러 중성약이 신경기능 결손 개선·혈종 감소·일상생활 능력 향상에 기여하는 것으로 나타났다.[^48] 급성 뇌경색 환자에서 11종의 경구용 중성약을 비교한 네트워크 메타분석에서는 지표별로 효과적인 약제가 상이하였다.[^47]
 
 > 변증 없는 관행적 처방은 근거에 부합하지 않는다. 뇌내출혈은 담화내폐(痰火內閉) 변증이 뚜렷한 급성기와 혈종 흡수 이후의 회복기 병기가 다르므로, 시기별 변증에 맞춘 처방 선택이 근거 있는 접근이다.[^14][^42]
 
 ### 23. 외상성 뇌손상군(TBI)
 
-외상성 뇌손상(TBI) 환자에 대한 안궁우황환 보조 치료의 메타분석에서, 병용군은 GCS·글래스고 예후 척도(GOS) 점수가 유의하게 향상되었고 신경특이 에놀라아제(NSE) 수치 및 폐 감염·위장관 출혈·간/신장 손상 등 합병증이 유의하게 감소하였다.[^8] 소아 외상성 뇌손상으로 인한 지속적 식물상태(PVS) 환자에게 흥뇌개규침(醒腦開竅鍼)·안궁우황환·행뇌정 정맥주사를 병용한 증례에서는 50일간의 통합 치료 후 건강 상태가 거의 정상 아동 수준으로 회복되었다.[^7]
+외상성 뇌손상(TBI) 환자에 대한 안궁우황환 보조 치료의 메타분석에서, 병용군은 GCS·글래스고 예후 척도(GOS) 점수가 유의하게 향상되었고 신경특이 에놀라아제(NSE) 수치 및 폐 감염·위장관 출혈·간/신장 손상 등 합병증이 유의하게 감소하였다.[^8] 소아 외상성 뇌손상으로 인한 지속적 식물상태(PVS) 환자에게 성뇌개규침(醒腦開竅鍼)·안궁우황환·성뇌정 정맥주사를 병용한 증례에서는 50일간의 통합 치료 후 건강 상태가 거의 정상 아동 수준으로 회복되었다.[^7]
 
-중증 외상성 두개뇌손상 환자에서 유리나스타틴(Ulinastatin)과 행뇌정주사액을 병용한 임상시험은 병용군에서 혈청 유리 코르티솔·노르에피네프린 수치가 낮고 총 티록신 수치가 높아 산화 스트레스·염증 반응 감소 효과가 확인되었다.[^22] 온침(溫鍼)-온구(溫灸)와 행뇌정주사액을 병용한 중증 두개뇌손상 환자 임상시험에서는 병용군이 혈청 신경특이 에놀라아제(NSE) 감소, 초과산화물 불균등화효소(SOD) 및 T 림프구(CD3+, CD4+) 증가와 함께 GCS 점수·임상 유효성이 유의하게 우수하였다.[^23] 소아 식물상태 환자를 대상으로 약침·매화침(梅花鍼)을 병행한 무작위대조시험에서도 병용군의 임상 유효율이 대조군보다 높았고(60일 기준 79.2% vs 58.3%) 회복 시간이 단축되었다.[^27]
+중증 외상성 두개뇌손상 환자에서 유리나스타틴(Ulinastatin)과 성뇌정주사액을 병용한 임상시험은 병용군에서 혈청 유리 코르티솔·노르에피네프린 수치가 낮고 총 티록신 수치가 높아 산화 스트레스·염증 반응 감소 효과가 확인되었다.[^22] 온침(溫鍼)-온구(溫灸)와 성뇌정주사액을 병용한 중증 두개뇌손상 환자 임상시험에서는 병용군이 혈청 신경특이 에놀라아제(NSE) 감소, 초과산화물 불균등화효소(SOD) 및 T 림프구(CD3+, CD4+) 증가와 함께 GCS 점수·임상 유효성이 유의하게 우수하였다.[^23] 소아 식물상태 환자를 대상으로 약침·매화침(梅花鍼)을 병행한 무작위대조시험에서도 병용군의 임상 유효율이 대조군보다 높았고(60일 기준 79.2% vs 58.3%) 회복 시간이 단축되었다.[^27]
 
 > 변증 없는 관행적 처방은 근거에 부합하지 않는다. 외상성 뇌손상 후 의식장애도 담열내폐 변증이 뚜렷한 급성기에 개규제를 우선 적용하고, 회복기에는 보익(補益)·활혈(活血) 위주로 전환하는 시기별 변증 접근이 원칙이다.[^8][^23]
 
 ### 24. 중증 감염성 질환군 — 패혈증 뇌병증·바이러스성 뇌염
 
-패혈증 관련 뇌병증(sepsis-associated encephalopathy, SAE)에 대한 중국 응급의학 전문가 합의(consensus)에서는, 근거 기반 의학과 임상 경험을 토대로 고령 SAE 환자의 위험 요인·임상 특성·진단 및 치료에 관한 표준안을 제시하여 진단 정확도 향상과 예후 개선을 도모하였다.[^19] 중환자실(EICU) 환경에서 행뇌정주사액을 표준 치료에 병용한 임상관찰에서는, 병용군의 해열 시간이 단축되고 CRP 수치가 감소하였으며 GCS 점수와 뇌파(EEG) 지표가 유의하게 개선되어 SAE에 대한 안전성·유효성이 확인되었다.[^20]
+패혈증 관련 뇌병증(sepsis-associated encephalopathy, SAE)에 대한 중국 응급의학 전문가 합의(consensus)에서는, 근거 기반 의학과 임상 경험을 토대로 고령 SAE 환자의 위험 요인·임상 특성·진단 및 치료에 관한 표준안을 제시하여 진단 정확도 향상과 예후 개선을 도모하였다.[^19] 중환자실(EICU) 환경에서 성뇌정주사액을 표준 치료에 병용한 임상관찰에서는, 병용군의 해열 시간이 단축되고 CRP 수치가 감소하였으며 GCS 점수와 뇌파(EEG) 지표가 유의하게 개선되어 SAE에 대한 안전성·유효성이 확인되었다.[^20]
 
-바이러스성 뇌염 환자에서 안궁우황환을 보조적으로 투여한 메타분석에서는, 병용군의 총 유효율이 표준 치료 단독군보다 17%p 증가하였고 해열·의식 회복·두통 및 경련 소실 시간이 유의하게 단축되었다.[^11] 급성 알코올 중독에 대한 행뇌정주사액과 나록손의 비교·병용 효과를 평가한 갱신된 체계적 고찰·메타분석에서는, 행뇌정주사액 표준 용량이 나록손과 유사한 효과를 보였고 고용량 투여 시 회복 시간이 더 단축되었으며, 두 약물의 병용이 나록손 단독보다 의식 회복 측면에서 더 우수한 결과를 보였다.[^29] 급성 알코올 중독에 대한 행뇌정주사액의 유효성·안전성을 평가하는 체계적 고찰 프로토콜도 별도로 수립되었다.[^40]
+바이러스성 뇌염 환자에서 안궁우황환을 보조적으로 투여한 메타분석에서는, 병용군의 총 유효율이 표준 치료 단독군보다 17%p 증가하였고 해열·의식 회복·두통 및 경련 소실 시간이 유의하게 단축되었다.[^11] 급성 알코올 중독에 대한 성뇌정주사액과 나록손의 비교·병용 효과를 평가한 갱신된 체계적 고찰·메타분석에서는, 성뇌정주사액 표준 용량이 나록손과 유사한 효과를 보였고 고용량 투여 시 회복 시간이 더 단축되었으며, 두 약물의 병용이 나록손 단독보다 의식 회복 측면에서 더 우수한 결과를 보였다.[^29] 급성 알코올 중독에 대한 성뇌정주사액의 유효성·안전성을 평가하는 체계적 고찰 프로토콜도 별도로 수립되었다.[^40]
 
-행뇌정주사액이 의식장애(고열·중독·뇌졸중으로 유발된 혼수 포함)에 미치는 효과를 종합한 메타분석에서는, 단독 또는 다른 약물·보조 요법과 병용했을 때 긍정적인 의식 회복 효과가 확인되었다.[^31] 뇌졸중 관련 폐렴 환자에서 여러 중성약 주사제(Xiyanping·Xuebijing·Tanreqing·행뇌정주사액 등)와 표준 치료를 병용한 네트워크 메타분석에서는, 지표별로 서로 다른 중성약이 임상 유효율·NIHSS 개선·해열·입원 기간 단축에서 우수한 순위를 보였다.[^46] COPD에 호흡부전이 동반된 환자에서 중성약 주사제와 양방 표준 치료를 병용한 네트워크 메타분석에서도 임상 반응률·폐 기능·생존율 개선에 유익함이 확인되었다.[^49]
+성뇌정주사액이 의식장애(고열·중독·뇌졸중으로 유발된 혼수 포함)에 미치는 효과를 종합한 메타분석에서는, 단독 또는 다른 약물·보조 요법과 병용했을 때 긍정적인 의식 회복 효과가 확인되었다.[^31] 뇌졸중 관련 폐렴 환자에서 여러 중성약 주사제(Xiyanping·Xuebijing·Tanreqing·성뇌정주사액 등)와 표준 치료를 병용한 네트워크 메타분석에서는, 지표별로 서로 다른 중성약이 임상 유효율·NIHSS 개선·해열·입원 기간 단축에서 우수한 순위를 보였다.[^46] COPD에 호흡부전이 동반된 환자에서 중성약 주사제와 양방 표준 치료를 병용한 네트워크 메타분석에서도 임상 반응률·폐 기능·생존율 개선에 유익함이 확인되었다.[^49]
 
-> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 패혈증·뇌염·중독으로 인한 의식장애는 병인(病因)이 상이하더라도 담열내폐·열독내함의 변증이 확인되는 경우에 안궁우황환·행뇌정주사액 계열이 적용될 수 있으며, 병인 감별 없이 모든 의식장애에 일률 적용하는 것은 근거에 부합하지 않는다.[^19][^20]
+> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 패혈증·뇌염·중독으로 인한 의식장애는 병인(病因)이 상이하더라도 담열내폐·열독내함의 변증이 확인되는 경우에 안궁우황환·성뇌정주사액 계열이 적용될 수 있으며, 병인 감별 없이 모든 의식장애에 일률 적용하는 것은 근거에 부합하지 않는다.[^19][^20]
 
 ### 25. 간성뇌증군(K72, 최소 간성뇌증 포함)
 
@@ -224,21 +226,23 @@
 
 ### 26. 신생아 저산소성 허혈성 뇌병증군(P91.6)
 
-신생아 저산소성 허혈성 뇌병증(hypoxic-ischemic encephalopathy, HIE)은 출생 전후 저산소증·허혈로 인한 신경학적 손상으로, 중등도-중증에서는 의식 저하·근긴장도 이상·경련이 나타난다.[교과서적 근거] 중등도-중증 신생아 HIE 환아에서 안궁우황환을 보조적으로 투여한 임상시험에서는, 의식 회복·근긴장도 및 원시 반사 개선·경련 소실 효과가 대조군보다 유의하게 우수하였으며 안전성도 확인되었다.[^2] 행뇌경주사액(Xingnaojing Injection)을 신생아 HIE에 적용한 체계적 고찰·메타분석에서는, 주요 신경발달 장애 감소와 증상 개선에 긍정적 영향이 확인되었으나 사망률 감소에는 유의한 차이가 없었고 근거 수준이 제한적이어서 일반적 사용은 신중히 접근해야 함이 지적되었다.[^28]
+신생아 저산소성 허혈성 뇌병증(hypoxic-ischemic encephalopathy, HIE)은 출생 전후 저산소증·허혈로 인한 신경학적 손상으로, 중등도-중증에서는 의식 저하·근긴장도 이상·경련이 나타난다.[교과서적 근거] 중등도-중증 신생아 HIE 환아에서 안궁우황환을 보조적으로 투여한 임상시험에서는, 의식 회복·근긴장도 및 원시 반사 개선·경련 소실 효과가 대조군보다 유의하게 우수하였으며 안전성도 확인되었다.[^2] 성뇌정주사액(Xingnaojing Injection)을 신생아 HIE에 적용한 체계적 고찰·메타분석에서는, 주요 신경발달 장애 감소와 증상 개선에 긍정적 영향이 확인되었으나 사망률 감소에는 유의한 차이가 없었고 근거 수준이 제한적이어서 일반적 사용은 신중히 접근해야 함이 지적되었다.[^28]
 
-> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 신생아는 성인보다 주사(朱砂)·웅황(雄黃)의 중금속 노출에 취약하므로(제6편 참조), 신생아 HIE에 안궁우황환·행뇌정주사액 계열을 적용할 때는 반드시 소아 전용 규격 제제·용량 조절과 신경학적 모니터링을 병행해야 한다.
+> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 신생아는 성인보다 주사(朱砂)·웅황(雄黃)의 중금속 노출에 취약하므로(제6편 참조), 신생아 HIE에 안궁우황환·성뇌정주사액 계열을 적용할 때는 반드시 소아 전용 규격 제제·용량 조절과 신경학적 모니터링을 병행해야 한다.
 
 ### 27. 급성 알코올 중독·기타 급성 의식장애군
 
-행뇌정주사액은 급성 알코올 중독에 대한 근거가 상대적으로 풍부하다. 나록손과의 비교·병용 임상 근거는 제24절에서 다루었으며, 프리호스피탈(병원 전) 단계에서 행뇌경주사액의 조기 투여가 급성 뇌졸중 환자의 조기 신경학적 악화를 예방할 수 있는지 평가하는 혼합연구방법(mixed-methods) 프로토콜(TRACE 연구)도 수립되어 1,000명 규모의 전향적 관찰이 계획되었다.[^43]
+성뇌정주사액은 급성 알코올 중독에 대한 근거가 상대적으로 풍부하다. 나록손과의 비교·병용 임상 근거는 제24절에서 다루었으며, 프리호스피탈(병원 전) 단계에서 성뇌정주사액의 조기 투여가 급성 뇌졸중 환자의 조기 신경학적 악화를 예방할 수 있는지 평가하는 혼합연구방법(mixed-methods) 프로토콜(TRACE 연구)도 수립되어 1,000명 규모의 전향적 관찰이 계획되었다.[^43]
 
-행뇌경주사액에 대한 급성 허혈성 뇌졸중 영역의 체계적 고찰의 개관(overview of systematic reviews)에서는, 표준 치료와 병용 시 신경학적 결손 완화와 사망률 감소 경향이 확인되어 효과적이고 안전한 것으로 평가되었으나 포함 문헌의 전반적 근거 수준은 낮았다.[^39] 급성 허혈성 뇌졸중에서 중등도-중증 환자를 대상으로 행뇌경주사액의 3개월 기능적 회복 효과를 평가하는 무작위대조시험 프로토콜(XMAS 연구)도 수행되었다.[^24] 뇌허혈성 뇌졸중에 대한 행뇌정주사액 관련 체계적 고찰들의 근거를 재평가한 개관 연구에서는, 총 유효율과 신경학적 상태 개선 효과가 보고되었으나 AMSTAR-2·GRADE 평가 결과 근거 수준이 매우 낮게 확인되어 추가적인 고품질 연구가 필요함이 지적되었다.[^41] 실제 임상에서 행뇌경주사액이 뇌경색 환자 11,674례에 사용된 양상을 분석한 대규모 리얼월드 연구에서는, 주로 정맥 점적으로 투여되며 담어락맥(痰瘀絡脈) 증후군 환자에게 가장 많이 처방되고 항고혈압제·뇌혈류 개선제와의 병용 패턴이 확인되었다.[^36] 뇌출혈 환자에서 행뇌정주사액과 지혈제·뇌부종 완화제(마니톨 등)의 병용 조합을 리얼월드 데이터로 분석한 타부 탐색 알고리즘 연구도 보고되었다.[^37]
+성뇌정주사액에 대한 급성 허혈성 뇌졸중 영역의 체계적 고찰의 개관(overview of systematic reviews)에서는, 표준 치료와 병용 시 신경학적 결손 완화와 사망률 감소 경향이 확인되어 효과적이고 안전한 것으로 평가되었으나 포함 문헌의 전반적 근거 수준은 낮았다.[^39] 급성 허혈성 뇌졸중에서 중등도-중증 환자를 대상으로 성뇌정주사액의 3개월 기능적 회복 효과를 평가하는 무작위대조시험 프로토콜(XMAS 연구)도 수행되었다.[^24] 뇌허혈성 뇌졸중에 대한 성뇌정주사액 관련 체계적 고찰들의 근거를 재평가한 개관 연구에서는, 총 유효율과 신경학적 상태 개선 효과가 보고되었으나 AMSTAR-2·GRADE 평가 결과 근거 수준이 매우 낮게 확인되어 추가적인 고품질 연구가 필요함이 지적되었다.[^41] 실제 임상에서 성뇌정주사액이 뇌경색 환자 11,674례에 사용된 양상을 분석한 대규모 리얼월드 연구에서는, 주로 정맥 점적으로 투여되며 담어락맥(痰瘀絡脈) 증후군 환자에게 가장 많이 처방되고 항고혈압제·뇌혈류 개선제와의 병용 패턴이 확인되었다.[^36] 뇌출혈 환자에서 성뇌정주사액과 지혈제·뇌부종 완화제(마니톨 등)의 병용 조합을 리얼월드 데이터로 분석한 타부 탐색 알고리즘 연구도 보고되었다.[^37]
 
 ### 28. 기타 적응증 — 고혈압, 골수형성이상증후군 관련 웅황 활용
 
 간양상항(肝陽上亢)·담열(痰熱) 증후군을 동반한 본태성 고혈압 환자에서 우황강압제제(牛黃降壓製劑, Niuhuang Jiangya Preparation)를 양방 강압제와 병용한 체계적 고찰에서는, 병용군의 혈압 강하 및 한의학적 증상 개선 효과가 단독 투여보다 우수하였으며 특히 한의학적 변증(간양상항·담열)이 확인된 환자군에서 더 유의미한 효과가 나타났다.[^53] 다만 전반적 연구의 질이 낮아 근거의 신뢰도는 제한적으로 평가되었다.
 
 웅황(雄黃, 비소 화합물)을 함유한 전통 처방이 다계통 이형성증 골수형성이상증후군(MDS-MLD) 환자에서 활용된 관찰연구에서는, 말초혈액 내 비소 농도가 임상적 효능과 정적 상관관계를 보였다.[^51] 이는 안궁우황환의 웅황 성분이 단순한 부형(附形) 성분이 아니라 특정 병태에서 약리학적으로 유효한 작용을 나타낼 수 있음을 시사하는 근거로, 웅황의 "약과 독의 경계"를 이해하는 데 참고가 된다(제6편 참조).
+
+호흡기 영역에서는 심장 수술을 받은 만성폐쇄성폐질환 환자 80명을 통상 술후 간호군과 안궁우황환 3일 병용군으로 무작위 배정한 시험이 보고되었다. 병용군은 3일·7일 시점의 1일 평균 흉부 타진 시간이 유의하게 짧았고, 산소포화도(SpO₂)와 동맥혈 산소분압(PaO₂)이 높고 이산화탄소분압(PaCO₂)이 낮았으며, 술후 분무 흡입 시간·폐감염률·재원 기간이 유의하게 감소하였다[^4]. 다만 **이 연구는 의식장애가 아니라 술후 객담 배출·호흡 간호를 평가한 것으로 본 처방의 주치인 열폐(熱閉) 증후와는 적응 맥락이 다르며**, 단일 기관 80명 규모에 눈가림 여부가 분명하지 않고 배담량이 3일째에는 증가하고 7일째에는 감소하는 등 지표 방향이 단순하지 않다. 따라서 안궁우황환의 호흡기 적응증을 확립하는 근거가 아니라 탐색적 보고로 다루어야 하며, COPD·술후 호흡부전 관리의 표준 처치를 대체할 수 없다.
 
 ## 제6편 약동학·약물상호작용·안전성
 
@@ -258,7 +262,9 @@
 
 황금(黃芩)의 유효성분(바이칼레인·바이칼린·워고닌)은 CYP450 효소와 유출 펌프를 조절하여 병용 약물과 시너지 효과(효능 증진·독성 감소·약물 내성 극복)를 낼 수 있는 동시에, 치료역이 좁은 약물의 약동학적 프로파일을 변화시켜 원치 않는 임상적 결과를 초래할 수 있다는 약물-한약 상호작용 문헌 고찰이 있다.[^54] 따라서 항암제·항응고제·면역억제제 등 치료역이 좁은 약물을 복용 중인 환자에서 안궁우황환을 병용할 때는 약물 상호작용 가능성을 고려해야 한다.
 
-주사·웅황 성분은 다른 중금속 함유 약물(예: 다른 중성약 제제)과 병용할 경우 중금속 축적 위험이 누적될 수 있으므로, 여러 종류의 광물성 한약제제를 동시에 장기 복용하는 것은 피해야 한다.[교과서적 근거] 행뇌정주사액(안궁우황환 계열 주사제)의 리얼월드 사용 분석에서는 글루코코르티코이드·양성자펌프억제제·심혈관 약물과의 병용이 흔히 관찰되었으며, 이러한 병용 자체가 합병증 예방 목적으로 이루어지는 경우가 많았으나 개별 약물 간 상호작용에 대한 전향적 검증은 충분하지 않다.[^35]
+주사제 계열에서는 약물열(drug fever)이 보고된 바 있다. 성뇌정주사액 투여 후 발열이 발생하였다가 투여 중단만으로 호전된 증례가 보고되었는데[^21], 이는 임상적으로 특히 주의를 요한다. 성뇌정주사액이 주로 투여되는 대상이 뇌졸중·패혈증 등 발열을 동반하기 쉬운 중증 환자이므로, **약물열을 감염 악화로 오인하면 불필요한 항생제 상향이나 원인 감별 지연으로 이어질 수 있기 때문이다.** 투여 중 새로 발생한 발열이 감염 지표의 악화 없이 지속되면 약물열 가능성을 감별 목록에 포함해야 한다. 증례 1례이므로 발생 빈도는 알 수 없다.
+
+주사·웅황 성분은 다른 중금속 함유 약물(예: 다른 중성약 제제)과 병용할 경우 중금속 축적 위험이 누적될 수 있으므로, 여러 종류의 광물성 한약제제를 동시에 장기 복용하는 것은 피해야 한다.[교과서적 근거] 성뇌정주사액(안궁우황환 계열 주사제)의 리얼월드 사용 분석에서는 글루코코르티코이드·양성자펌프억제제·심혈관 약물과의 병용이 흔히 관찰되었으며, 이러한 병용 자체가 합병증 예방 목적으로 이루어지는 경우가 많았으나 개별 약물 간 상호작용에 대한 전향적 검증은 충분하지 않다.[^35]
 
 ### 32. 안전성 표 종합
 
@@ -296,7 +302,7 @@
 
 ### 35. 추적 지표표
 
-안궁우황환·행뇌정주사액을 급성기 의식장애에 적용한 뒤에는 다음의 질환군별 추적 지표를 활용해 반응 여부를 객관적으로 평가한다.
+안궁우황환·성뇌정주사액을 급성기 의식장애에 적용한 뒤에는 다음의 질환군별 추적 지표를 활용해 반응 여부를 객관적으로 평가한다.
 
 | 영역 | 추적 지표 |
 |---|---|
@@ -335,7 +341,7 @@
 
 **Q5. 경구 섭취가 불가능한 혼수 환자에게는 어떻게 투여하는가?**
 
-비위관을 통한 투여가 가능하며, 경구 투여가 여의치 않은 중환자실 환경에서는 안궁우황환과 방의를 공유하는 행뇌정주사액(醒腦靜注射液) 등 정맥 주사 제형이 대안으로 활용되어 왔다. 다만 두 제형(환제와 주사제) 간 직접적인 생체이용률 비교 연구는 확인되지 않아, 제형 선택은 환자의 상태와 의료기관의 여건을 고려하여 이루어진다(제3편 제11절 참조).
+비위관을 통한 투여가 가능하며, 경구 투여가 여의치 않은 중환자실 환경에서는 안궁우황환과 방의를 공유하는 성뇌정주사액(醒腦靜注射液) 등 정맥 주사 제형이 대안으로 활용되어 왔다. 다만 두 제형(환제와 주사제) 간 직접적인 생체이용률 비교 연구는 확인되지 않아, 제형 선택은 환자의 상태와 의료기관의 여건을 고려하여 이루어진다(제3편 제11절 참조).
 
 **Q6. 뇌졸중 급성기에 안궁우황환을 쓰면 뇌경색 크기가 줄어드는가?**
 
@@ -349,9 +355,8 @@
 
 아니다. 중금속 성분(수은·비소)과 사향의 활혈 작용으로 인해 임신부에게는 금기로 분류된다. 임신 중 의식장애가 발생한 경우 반드시 산과·신경과 전문의의 즉각적 평가와 병원 치료를 우선해야 하며, 안궁우황환의 임의 투여는 피해야 한다(제6편 제33절 참조).
 
-이 문서에서 인용한 근거는 안궁우황환(Angong Niuhuang Wan/Pill) 자체에 대한 임상시험·메타분석·체계적 고찰·관찰연구·증례, 및 동일 방의를 공유하며 정맥 주사 제형으로 확장된 행뇌정주사액(醒腦靜注射液) 관련 인간 대상 연구를 포괄한다. 안궁우황환 단일 검색어로 확보되는 임상 논문 수는 상대적으로 한정되어 있어, 관련 계열 처방과 구성 약물(황금·웅황 등)의 인간 대상 연구까지 포괄적으로 검색하여 총 55편의 서로 다른 DOI/PMID를 확보하였다. 이는 목표치(80편)에는 다소 못 미치나 최소 기준(50편)은 충족하며, 이 표제어의 현재 데이터베이스 내 근거 축적 수준을 정직하게 반영한다.
+이 문서에서 인용한 근거는 안궁우황환(Angong Niuhuang Wan/Pill) 자체에 대한 임상시험·메타분석·체계적 고찰·관찰연구·증례, 및 동일 방의를 공유하며 정맥 주사 제형으로 확장된 성뇌정주사액(醒腦靜注射液) 관련 인간 대상 연구를 포괄한다. 안궁우황환 단일 검색어로 확보되는 임상 논문 수는 상대적으로 한정되어 있어, 관련 계열 처방과 구성 약물(황금·웅황 등)의 인간 대상 연구까지 포괄적으로 검색하였다. 안궁우황환 원방 자체를 단독으로 평가한 임상 근거는 계열 주사제에 비해 뚜렷이 적으며, 이 문서의 서술은 그러한 근거 분포의 불균형을 그대로 반영한 것이다. 따라서 성뇌정주사액에서 얻어진 결과를 안궁우황환 환제의 효과로 그대로 옮겨 읽어서는 안 된다.
 
-[^1]: Chronic arsenic poisoning from a realgar-containing traditional medicine causing hepatic veno-occlusive disease and polyserositis: a case report. Liu Y 외. _Journal of medical case reports_. 2026-06-03. [증례 보고] [DOI 10.1186/s13256-026-06186-6](https://doi.org/10.1186/s13256-026-06186-6) [PMID 42237408](https://pubmed.ncbi.nlm.nih.gov/42237408/) — 웅황 함유 전통 약제의 만성 과다 복용이 심각한 비소 중독과 간정맥폐쇄질환·다장막염을 유발할 수 있음을 보여주는 증례. 중금속 함유 처방의 장기 복용 위험을 직접 뒷받침.
 [^2]: [Effect of angong niuhuang pill as an adjuvant treatment on moderate or severe neonatal hypoxic-ischemic Encephalopathy]. Su WD 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2005-07. [임상시험] [PMID 16089149](https://pubmed.ncbi.nlm.nih.gov/16089149/) — 안궁우황환 보조 투여가 신생아 저산소성 허혈성 뇌병증 환아의 의식·근긴장도·경련을 개선. 신생아군에서의 유효성·안전성 근거.
 [^3]: [Effect-of Angong Niuhuang Pill on Th1/Th2 of cerebral infarction patients of phlegm-heat obstructing orifices in China and Indonesia]. Ma JJ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-03. [임상시험] [PMID 25951631](https://pubmed.ncbi.nlm.nih.gov/25951631/) — 담열폐구증 뇌경색 환자에서 Th1/Th2 면역 균형 조절 확인. 변증에 부합하는 환자에서의 면역학적 기전 근거.
 [^4]: Respiratory nursing care with Angong Niuhuang pill for patients with chronic obstructive pulmonary disease following cardiac surgery. Lv L 외. _Japan journal of nursing science : JJNS_. 2021-01. [임상시험] [DOI 10.1111/jjns.12344](https://doi.org/10.1111/jjns.12344) [PMID 32924315](https://pubmed.ncbi.nlm.nih.gov/32924315/) — 심장 수술 후 COPD 환자에서 동맥혈 가스·폐감염률·입원 기간 개선. 호흡기 보조 적용 근거.
@@ -368,23 +373,22 @@
 [^15]: Pharmacological Effects, Mechanisms of Action, and Clinical Applications of Traditional Chinese Medicine Angong Niuhuang Pill. Dang YN 외. _World Journal of Traditional Chinese Medicine_. 2026-01-14. [문헌 고찰] [DOI 10.4103/wjtcm.wjtcm_53_25](https://doi.org/10.4103/wjtcm.wjtcm_53_25) — 11종 약재 배합의 청열·해독·개규 약리를 종합, 표준 조제법·독성 평가·임상 근거 강화의 필요성을 제시.
 [^16]: Chinese herbal medicine formula Jieduhuayu granules improves cognitive and neurophysiological functions in patients with cirrhosis who have minimal hepatic encephalopathy: a randomized controlled trial. Yao C 외. _Complementary therapies in medicine_. 2014-12. [임상시험] [DOI 10.1016/j.ctim.2014.10.005](https://doi.org/10.1016/j.ctim.2014.10.005) [PMID 25453517](https://pubmed.ncbi.nlm.nih.gov/25453517/) — 해독화어 과립제가 최소 간성뇌증 환자의 NCT-A·MMSE·P300 개선. 개규·화탁 계열 처방의 간성뇌증 적용 근거.
 [^17]: JianPi HuaZhuo XingNao formula (Chinese herbal medicine) for the treatment of minimal hepatic encephalopathy: a protocol for a randomized, placebo-controlled pilot trial. Li X 외. _Medicine_. 2018-04. [임상시험] [DOI 10.1097/MD.0000000000010526](https://doi.org/10.1097/MD.0000000000010526) [PMID 29703024](https://pubmed.ncbi.nlm.nih.gov/29703024/) — 건비화탁성뇌탕의 OHE 진행 억제 평가 프로토콜.
-[^18]: Chinese emergency expert consensus on the diagnosis and treatment of sepsis-associated encephalopathy in the elderly. Wei Gu 외. _Emergency and Critical Care Medicine_. 2025-08-03. [임상진료지침] [DOI 10.1097/ec9.0000000000000154](https://doi.org/10.1097/ec9.0000000000000154) — 고령 패혈증 관련 뇌병증의 진단·치료 표준안. 응급의학적 진단 기준 근거.
 [^19]: Chinese emergency expert consensus on the diagnosis and treatment of sepsis-associated encephalopathy in the elderly. Wei Gu 외. _Emergency and Critical Care Medicine_. 2025-08-03. [임상진료지침] [DOI 10.1097/ec9.0000000000000154](https://doi.org/10.1097/ec9.0000000000000154) — 고령 SAE의 위험 요인·임상 특성·진단 및 치료에 관한 전문가 합의. SAE 관리의 진단 표준 근거.
-[^20]: [Treatment of Sepsis-associated Encephalopathy by Xingnaojing Injection: a Clinical Observation]. Lv S 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-07. [관찰연구] [PMID 26380440](https://pubmed.ncbi.nlm.nih.gov/26380440/) — 행뇌정주사액이 SAE 환자의 GCS·CRP·해열 시간을 개선. 안궁우황환 방의를 공유하는 주사제형의 패혈증 뇌병증 적용 근거.
-[^21]: Drug fever induced by Xingnaojing injection: A case report. Liu W 외. _Medicine_. 2026-05-01. [증례 보고] [DOI 10.1097/MD.0000000000048482](https://doi.org/10.1097/MD.0000000000048482) [PMID 42065177](https://pubmed.ncbi.nlm.nih.gov/42065177/) — 행뇌정주사액 투여 후 약물열 발생, 중단 후 호전. 이상반응 조기 인지의 중요성.
+[^20]: [Treatment of Sepsis-associated Encephalopathy by Xingnaojing Injection: a Clinical Observation]. Lv S 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-07. [관찰연구] [PMID 26380440](https://pubmed.ncbi.nlm.nih.gov/26380440/) — 성뇌정주사액이 SAE 환자의 GCS·CRP·해열 시간을 개선. 안궁우황환 방의를 공유하는 주사제형의 패혈증 뇌병증 적용 근거.
+[^21]: Drug fever induced by Xingnaojing injection: A case report. Liu W 외. _Medicine_. 2026-05-01. [증례 보고] [DOI 10.1097/MD.0000000000048482](https://doi.org/10.1097/MD.0000000000048482) [PMID 42065177](https://pubmed.ncbi.nlm.nih.gov/42065177/) — 성뇌정주사액 투여 후 약물열 발생, 중단 후 호전. 이상반응 조기 인지의 중요성.
 [^22]: Effect of Ulinastatin Combined with Xingnaojing Injection on Severe Traumatic Craniocerebral Injury and Its Influence on Oxidative Stress Response and Inflammatory Response. An Z 외. _BioMed research international_. 2022. [임상시험] [DOI 10.1155/2022/2621732](https://doi.org/10.1155/2022/2621732) [PMID 35047630](https://pubmed.ncbi.nlm.nih.gov/35047630/) — 병용군에서 산화 스트레스·염증 인자 감소. 중증 외상성 뇌손상 병용 요법 근거.
 [^23]: The Impact of Warming Acupuncture-Moxibustion Combined with Xingnaojing Injection on Serum NSE, SOD, T Lymphocytes, and Prognosis in Severe Craniocerebral Trauma Patients. Shi X 외. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-06-05. [임상시험] [DOI 10.1177/03601293261455556](https://doi.org/10.1177/03601293261455556) — 온침·온구 병용 시 NSE 감소, SOD·T림프구 증가, GCS 개선.
-[^24]: Xingnaojing for Moderate-to-severe Acute ischemic Stroke (XMAS): study protocol for a randomized controlled trial. Lai X 외. _Trials_. 2017-10-16. [임상시험] [DOI 10.1186/s13063-017-2222-y](https://doi.org/10.1186/s13063-017-2222-y) [PMID 29037226](https://pubmed.ncbi.nlm.nih.gov/29037226/) — 중등도-중증 급성 허혈성 뇌졸중에서 행뇌경주사액의 3개월 기능 회복 평가 프로토콜.
-[^25]: [Clinical observation on acupuncture combined with Xingnaojing injection for treatment of cerebral hemorrhage at acute stage]. Wang LC 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-04. [임상시험] [PMID 16642609](https://pubmed.ncbi.nlm.nih.gov/16642609/) — 침+행뇌정 병용이 혈종 흡수·신경 기능 결손 개선에서 최우수. 급성기 뇌출혈 통합치료 근거.
+[^24]: Xingnaojing for Moderate-to-severe Acute ischemic Stroke (XMAS): study protocol for a randomized controlled trial. Lai X 외. _Trials_. 2017-10-16. [임상시험] [DOI 10.1186/s13063-017-2222-y](https://doi.org/10.1186/s13063-017-2222-y) [PMID 29037226](https://pubmed.ncbi.nlm.nih.gov/29037226/) — 중등도-중증 급성 허혈성 뇌졸중에서 성뇌정주사액의 3개월 기능 회복 평가 프로토콜.
+[^25]: [Clinical observation on acupuncture combined with Xingnaojing injection for treatment of cerebral hemorrhage at acute stage]. Wang LC 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2006-04. [임상시험] [PMID 16642609](https://pubmed.ncbi.nlm.nih.gov/16642609/) — 침+성뇌정 병용이 혈종 흡수·신경 기능 결손 개선에서 최우수. 급성기 뇌출혈 통합치료 근거.
 [^26]: [Effect of xingnaojing injection combined with minimally invasive percutaneous drainage in treating brain edema and content of serum AQP4 in patients with moderate hypertensive basal ganglia hemorrhage]. Huang YJ. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2014-07. [임상시험] [PMID 25276983](https://pubmed.ncbi.nlm.nih.gov/25276983/) — NIHSS·뇌부종·혈청 AQP4 개선. 뇌부종 조절 기전 근거.
 [^27]: [Vegetative state treated with acupoint injection combined with plum-blossom needle in children: a randomized controlled trial]. Tang Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-05. [임상시험] [PMID 25022107](https://pubmed.ncbi.nlm.nih.gov/25022107/) — 소아 식물상태에서 약침+매화침 병행이 유효율·회복 시간에서 우수.
 [^28]: Chinese Herbal Medicine Xingnaojing Injection () for Hypoxic Ischemic Encephalopathy in Newborns: A Systematic Review and Meta-Analysis. Yang CS 외. _Chinese journal of integrative medicine_. 2018-02. [메타분석] [DOI 10.1007/s11655-015-1974-z](https://doi.org/10.1007/s11655-015-1974-z) [PMID 25963673](https://pubmed.ncbi.nlm.nih.gov/25963673/) — 신경발달 장애 감소·증상 개선은 확인되나 사망률 개선은 비유의, 근거 수준 제한적.
-[^29]: Comparison between Xingnaojing Injection () and Naloxone in Treatment of Acute Alcohol Intoxication: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials. Cao HJ 외. _Chinese journal of integrative medicine_. 2019-12. [메타분석] [DOI 10.1007/s11655-019-3037-3](https://doi.org/10.1007/s11655-019-3037-3) [PMID 31388972](https://pubmed.ncbi.nlm.nih.gov/31388972/) — 행뇌정주사액과 나록손의 병용이 나록손 단독보다 의식 회복 우수.
+[^29]: Comparison between Xingnaojing Injection () and Naloxone in Treatment of Acute Alcohol Intoxication: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials. Cao HJ 외. _Chinese journal of integrative medicine_. 2019-12. [메타분석] [DOI 10.1007/s11655-019-3037-3](https://doi.org/10.1007/s11655-019-3037-3) [PMID 31388972](https://pubmed.ncbi.nlm.nih.gov/31388972/) — 성뇌정주사액과 나록손의 병용이 나록손 단독보다 의식 회복 우수.
 [^30]: Efficacy and safety of Xingnaojing injection for post-operative patients of intracerebral haemorrhage: a meta-analysis and systematic review. Song Y 외. _Frontiers in pharmacology_. 2024. [메타분석] [DOI 10.3389/fphar.2024.1411026](https://doi.org/10.3389/fphar.2024.1411026) [PMID 38898923](https://pubmed.ncbi.nlm.nih.gov/38898923/) — 수술 후 뇌출혈 환자에서 유효율·뇌부종·TNF-α·사망률 개선, 근거 수준은 낮음.
 [^31]: Meta-Analysis of the Effects of Xingnaojing Injection on Consciousness Disturbance. Wu L 외. _Medicine_. 2016-02. [메타분석] [DOI 10.1097/MD.0000000000002875](https://doi.org/10.1097/MD.0000000000002875) [PMID 26886655](https://pubmed.ncbi.nlm.nih.gov/26886655/) — 고열·중독·뇌졸중 의식장애 전반에서 긍정적 효과. 의식장애 전반에 대한 종합 근거.
 [^32]: Role of Xingnaojing Injection in treating acute cerebral hemorrhage: A systematic review and meta-analysis. Ma X 외. _Medicine_. 2020-04. [메타분석] [DOI 10.1097/MD.0000000000019648](https://doi.org/10.1097/MD.0000000000019648) [PMID 32282713](https://pubmed.ncbi.nlm.nih.gov/32282713/) — 효과율·GCS·ADL 개선, NIHSS·CSS·hs-CRP·혈종 및 부종 감소.
 [^33]: Role of Xingnaojing combined with naloxone in treating intracerebral haemorrhage: A systematic review and meta-analysis of randomized controlled trials. Xu YM 외. _Medicine_. 2018-10. [메타분석] [DOI 10.1097/MD.0000000000012967](https://doi.org/10.1097/MD.0000000000012967) [PMID 30412118](https://pubmed.ncbi.nlm.nih.gov/30412118/) — 병용군의 GCS·혼수시간·NIHSS·BI·혈종 부피 개선, 문헌 질·이질성 한계 지적.
-[^34]: Systematic review and meta-analysis of randomized controlled trials of xingnaojing treatment for stroke. Peng W 외. _Evidence-based complementary and alternative medicine : eCAM_. 2014. [메타분석] [DOI 10.1155/2014/210851](https://doi.org/10.1155/2014/210851) [PMID 24707306](https://pubmed.ncbi.nlm.nih.gov/24707306/) — 행뇌경 병용군의 유효성·신경학적 결손·TNF-α 개선.
+[^34]: Systematic review and meta-analysis of randomized controlled trials of xingnaojing treatment for stroke. Peng W 외. _Evidence-based complementary and alternative medicine : eCAM_. 2014. [메타분석] [DOI 10.1155/2014/210851](https://doi.org/10.1155/2014/210851) [PMID 24707306](https://pubmed.ncbi.nlm.nih.gov/24707306/) — 성뇌정 병용군의 유효성·신경학적 결손·TNF-α 개선.
 [^35]: [Analysis of clinical application characteristics of Xingnaojing Injection in treating cerebral hemorrhage in real world]. Shi DD 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-08. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.20200501.501](https://doi.org/10.19540/j.cnki.cjcmm.20200501.501) [PMID 32893538](https://pubmed.ncbi.nlm.nih.gov/32893538/) — 실제 임상 사용 패턴(용량·병용 약물·계절성) 분석.
 [^36]: [Clinical application of Xingnaojing Injection in treatment of 11 674 cases of cerebral infarction: a real world study]. Geng HJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-05. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.20200221.503](https://doi.org/10.19540/j.cnki.cjcmm.20200221.503) [PMID 32495589](https://pubmed.ncbi.nlm.nih.gov/32495589/) — 대규모 리얼월드(11,674례) 사용 패턴과 변증 유형별 처방 경향.
 [^37]: [Effect of Xingnaojing Injection in treatment of cerebral hemorrhage based on Tabu search algorithm: a real world study]. Geng HJ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-07. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.20200314.502](https://doi.org/10.19540/j.cnki.cjcmm.20200314.502) [PMID 32726045](https://pubmed.ncbi.nlm.nih.gov/32726045/) — 병용 약물 조합 최적화를 위한 알고리즘 분석.
@@ -395,7 +399,7 @@
 [^42]: [Overview of systematic reviews/Meta-analysis of Xingnaojing Injection in treatment of intracerebral hemorrhage]. Wang M 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-09. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.20210622.501](https://doi.org/10.19540/j.cnki.cjcmm.20210622.501) [PMID 34581071](https://pubmed.ncbi.nlm.nih.gov/34581071/) — 뇌내출혈 영역 체계적 고찰들의 방법론적 질·근거 수준 재평가, 전반적으로 낮음.
 [^43]: Trial of a prehospital intervention with traditional Chinese medicine for acute stroke (TRACE): Protocol for a mixed-methods research study. Chen Y 외. _Frontiers in pharmacology_. 2022. [관찰연구] [DOI 10.3389/fphar.2022.879282](https://doi.org/10.3389/fphar.2022.879282) [PMID 36105230](https://pubmed.ncbi.nlm.nih.gov/36105230/) — 병원 전 단계 조기 투여와 조기 신경학적 악화의 상관관계를 평가하는 대규모 관찰연구 프로토콜.
 [^44]: [Effect of blood activating stasis removing method on prognosis of intracerebral hemorrhage patients]. Yuan LX 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-02. [임상시험] [PMID 25881461](https://pubmed.ncbi.nlm.nih.gov/25881461/) — 활혈거어법 병행이 혈종 흡수·NIHSS·MRS·BI 개선.
-[^45]: [Network Meta-analysis of Chinese medicine injections in treatment of hypertensive intracerebral hemorrhage]. Ren P 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-07. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20220214.501](https://doi.org/10.19540/j.cnki.cjcmm.20220214.501) [PMID 35850818](https://pubmed.ncbi.nlm.nih.gov/35850818/) — 여러 중성약 주사제의 지표별 상대적 우위를 비교. 행뇌정주사액을 정맥 경로 개규 처방으로 위치시키는 근거.
+[^45]: [Network Meta-analysis of Chinese medicine injections in treatment of hypertensive intracerebral hemorrhage]. Ren P 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-07. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20220214.501](https://doi.org/10.19540/j.cnki.cjcmm.20220214.501) [PMID 35850818](https://pubmed.ncbi.nlm.nih.gov/35850818/) — 여러 중성약 주사제의 지표별 상대적 우위를 비교. 성뇌정주사액을 정맥 경로 개규 처방으로 위치시키는 근거.
 [^46]: [Network Meta-analysis of different Chinese medicine injections combined with conventional therapy in treatment of stroke-associated pneumonia]. Ji WS 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-10. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20220705.501](https://doi.org/10.19540/j.cnki.cjcmm.20220705.501) [PMID 36472043](https://pubmed.ncbi.nlm.nih.gov/36472043/) — 뇌졸중 관련 폐렴에서 여러 중성약 주사제의 상대적 효과 비교.
 [^47]: [Network Meta-analysis of oral Chinese patent medicine in treatment of acute cerebral infarction]. Cui RZ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-06. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20191127.501](https://doi.org/10.19540/j.cnki.cjcmm.20191127.501) [PMID 32627500](https://pubmed.ncbi.nlm.nih.gov/32627500/) — 11종 경구 중성약의 지표별 상대적 효과 비교.
 [^48]: [Network Meta-analysis of oral or nasal feeding with Chinese patent medicine in treatment of hypertensive intracerebral hemorrhage]. Lei L 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-06. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20210326.502](https://doi.org/10.19540/j.cnki.cjcmm.20210326.502) [PMID 34467689](https://pubmed.ncbi.nlm.nih.gov/34467689/) — 경구·비강 투여 중성약의 신경기능·혈종·ADL 개선 비교.
