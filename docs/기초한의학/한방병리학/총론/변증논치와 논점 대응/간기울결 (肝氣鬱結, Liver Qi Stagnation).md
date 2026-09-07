@@ -683,7 +683,7 @@
 
 **간기울결증 56명의 위전기도·위점막병리·맥-심혈관기능 연구**
 
-[^14]: 비허·간기울결 변증이 위전기도·점막병리와 연관. 비기허와 간기울결이 겸협된 만성 위질환 환자에서는 위전도(EGG)·위점막병리·맥-심혈관기능 지표가 함께 이상 소견을 보여, 기능성소화불량·만성위염의 병태가 단순 운동장애를 넘어 다축 생리 지표에 반영됨을 보여준다[^14].
+만성 위질환 환자 56명을 비기허(脾氣虛)와 간기울결의 겸협 비중에 따라 나누어 위전도(EGG)·위점막병리·맥-심혈관기능을 함께 관찰한 연구가 있다. 간기울결이 비기허보다 우세한 군에서는 EGG 진폭이 대조군보다 유의하게 높아 병변의 활동기를 시사한 반면, 비기허가 우세한 군에서는 진폭이 유의하게 낮아 정지기에 대응하였다. 심혈관 기능에서도 비기허 우세군은 좌심실 펌프 기능과 미세순환 대사가 저하된 소견을 보였다. 저자들은 이를 심(心)·비(脾)·간(肝) 상호 관계에 혈역학적 기반이 있음을 시사하는 결과로 해석하였다[^14]. 다만 1992년 보고의 소표본 단면 연구이고 변증 분류·측정 방법의 표준화가 확인되지 않으므로, 변증의 객관 지표를 확정하는 근거가 아니라 병태의 다축성을 시사하는 참고 자료로 다루어야 한다.
 
 **온건간비탕** 이 장점막 개선으로 설사형 IBS를 완화했다 [^54]. 통사요방이 장내미생물 재조정으로 설사 개선 [^53]. 가미소요산이 위장관 운동 조절 [^60].
 
@@ -752,11 +752,11 @@
 
 **시호 함유 처방의 β-엔돌핀·에피네프린·도파민 변화**
 
-[^13]: 시호함유 처방이 진통-정서 신경전달물질 축에 영향.
+시호(柴胡)를 포함한 소요환(逍遙丸)을 간울비허 환자 58명(치료군 41명, 지백지황환 대조군 17명)에게 1개월간 투여한 단일맹검 연구에서, 치료군의 혈장 β-엔돌핀이 유의하게 상승하고 에피네프린·도파민이 유의하게 감소하였다(각 p<0.01). ACTH·에스트라디올·테스토스테론·면역글로불린 등 나머지 지표는 변화가 없었다[^13]. 이는 간기울결의 소간해울 치법이 진통·정서와 관련된 신경전달물질 축에 관여할 가능성을 시사한다. 다만 **이 연구는 두통 환자가 아니라 간울비허 변증 환자 일반을 대상으로 한 인접 주제 근거이고, 대조군이 17명으로 작으며 임상 증상 평가변수가 아닌 혈장 지표를 본 것**이므로 두통에 대한 직접 유효성 근거로 쓸 수 없다.
 
 **섬유근육통 48명 간울비허·비허형**
 
-[^69]: 육진방이 삶의 질·통증 개선. 항정신병약물 유발 추체외로증상에 소풍·양혈·화담 처방(천마·조구등·당귀·작약 중심) [^70]이 보고되었다.
+간울비허 변증의 섬유근육통 환자를 대상으로 한 무작위대조시험에서 Roujin formula(한자 표기는 원 보고에서 확인되지 않음)가 삶의 질과 통증을 개선한 것으로 보고되었다[^69]. 한편 항정신병약물로 유발된 추체외로증상에 대해서는 소풍·양혈·화담 계열 처방(천마·조구등·당귀·작약 중심)의 적용이 보고되었다[^70].
 
 #### ④ 치료
 
@@ -996,9 +996,9 @@
 
 [^12]: \[Correlation between neurotransmitters and neurosteroids and premenstrual syndrome patients\]. 2012. [PMID 23359974](https://pubmed.ncbi.nlm.nih.gov/23359974/)
 
-[^13]: Effects of chai hu (radix bupleuri) containing formulation on plasma beta-endorphin, epinephrine and dopamine on patients. _Am J Chin Med_. 2005. [PMID 16265986](https://pubmed.ncbi.nlm.nih.gov/16265986/)
+[^13]: Effects of chai hu (radix burpleuri) containing formulation on plasma beta-endorphin, epinephrine and dopamine on patients. Chen JX 외. _Am J Chin Med_. 2005. [임상시험, 58명] [DOI 10.1142/S0192415X05003296](https://doi.org/10.1142/S0192415X05003296) [PMID 16265986](https://pubmed.ncbi.nlm.nih.gov/16265986/) — 간울비허 환자 58명에서 시호 함유 소요환 투여 후 혈장 β-엔돌핀 상승, 에피네프린·도파민 감소(p<0.01). 두통 환자 대상이 아닌 인접 주제 근거.
 
-[^14]: \[Relation among syndrome of spleen deficiency and stagnation of liver-qi and electrogastrogram, gastric mucosal pathology and pulse-cardiovascular function in chronic gastric diseases\]. 1992. [PMID 1298464](https://pubmed.ncbi.nlm.nih.gov/1298464/)
+[^14]: \[Relation among syndrome of spleen deficiency and stagnation of liver-qi and electrogastrogram, gastric mucosal pathology and pulse-cardiovascular function in chronic gastric diseases\]. Zou XG 외. _Zhongguo Zhong Xi Yi Jie He Za Zhi_. 1992-09. [관찰연구, 56명] [PMID 1298464](https://pubmed.ncbi.nlm.nih.gov/1298464/) — 만성 위질환 56명에서 비기허·간기울결 겸협 비중별로 위전도 진폭과 좌심실 펌프·미세순환 지표가 상반된 양상을 보였다. 1992년 소표본 단면 연구.
 
 [^15]: Efficacy and safety of Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis. _Front Pharmacol_. 2024. [DOI 10.3389/fphar.2024.1295564](https://doi.org/10.3389/fphar.2024.1295564)
 
