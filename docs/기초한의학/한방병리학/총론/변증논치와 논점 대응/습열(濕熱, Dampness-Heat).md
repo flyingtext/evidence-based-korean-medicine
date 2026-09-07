@@ -1083,23 +1083,5 @@
 [^320]: Treatment of One Case of Pediatric Hand-Foot-Mouth Disease with Spleen Dampness-Heat Syndrome Using Acupoint Application Therapy to Disperse Dampness, Expel Heat, and Unblock the Fu Organs. _Journal of Clinical and Nursing Research_. 2025-04-28. [증례 보고] [DOI 10.26689/jcnr.v9i4.10223](https://doi.org/10.26689/jcnr.v9i4.10223) — 비장습열형 소아 수족구병 환자에게 특정 약재(금은화, 연교, 후박 등)를 혼합하여 주요 혈위(신궐, 중완 등)에 도포하는 요법이 증상 개선에 효과적임을 보여준다.
 [^475]: TCM Pattern Questionnaire for Lateral Elbow Pain: Development of an Instrument via a Delphi Process. Gadau M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2016. [기타] [DOI 10.1155/2016/7034759](https://doi.org/10.1155/2016/7034759) [PMID 27525024](https://pubmed.ncbi.nlm.nih.gov/27525024/) — 본 연구는 외측 상과염 환자를 위한 한의학적 변증 도구를 개발하여 풍한습(風寒濕), 기체혈어(氣滯血瘀), 기혈양허(氣血兩虛), 습열내저(濕熱內著)의 4가지 주요 변증 유형을 도출하였다.
 
-## 검색 확보 목록(본문 미인용)
-
-아래 문헌은 습열 주제 검색으로 확보했으나, 근거의 실체가 동물·세포 등 비임상 실험에 있어 **본문의 임상적 주장에는 인용하지 않았다.** 목록으로만 남겨 검색 이력을 밝힌다. 각 항목의 서지 정보는 이어지는 각주 정의에 함께 수록했다(본문에서 참조하지 않는 정의다).
-
-| 문헌 | 미인용 사유 |
-|---|---|
-| 포공영(蒲公英, Taraxaci herba)의 식물학·화학·약리·품질관리 종합 고찰 | 습열 황달 등 전통 응용을 다루나 약리 근거가 세포·동물 실험 기반 |
-| 인진호탕(茵蔯蒿湯)의 폐쇄성 황달 보조 효과와 기전 서술적 고찰 | 기전 서술이 비임상 실험 자료에 기반 |
-| 항엔테로바이러스 71형 활성 한약 성분 고찰 | 시험관 내 항바이러스 활성 자료 |
-| 하초습열 병기에 근거한 자가포식·자궁경부 HPV 감염 연구 | 인체 임상 결과가 확인되지 않음 |
-
-> 이 목록은 인체 근거가 확인되면 본문 인용 대상으로 재검토한다.
-
-[^308]: Botany, Traditional Use, Phytochemistry, Pharmacology and Quality Control of Taraxaci herba: Comprehensive Review. Wu J 외. _Pharmaceuticals (Basel, Switzerland)_. 2024-08-23. [문헌 고찰] [DOI 10.3390/ph17091113](https://doi.org/10.3390/ph17091113) [PMID 39338278](https://pubmed.ncbi.nlm.nih.gov/39338278/) — 포공영(蒲公英)은 전통적으로 항염 및 해독 작용이 뛰어나 유선염, 폐농양, 황달 등 습열(濕熱) 관련 질환에 유효하게 사용되어 왔으며, 현대 과학적으로도 항염, 항산화, 항균 및 항암 활성이 입증되었다.
-[^312]: Adjuvant therapeutic effects and mechanisms of Yinchenhao decoction in obstructive jaundice: a narrative review. Che SH 외. _Frontiers in pharmacology_. 2026. [문헌 고찰] [DOI 10.3389/fphar.2026.1811123](https://doi.org/10.3389/fphar.2026.1811123) [PMID 42256407](https://pubmed.ncbi.nlm.nih.gov/42256407/) — 인진호탕(YCHD)은 청열해독(淸熱解毒) 및 이뇨통황(利尿通黃) 작용을 통해 폐쇄성 황달의 보조 치료제로 활용될 수 있으며, 특히 '습열형(damp-heat type)' 황달 환자에게 유용하다.
-[^314]: Chinese herbal medicines as a source of molecules with anti-enterovirus 71 activity. Wang M 외. _Chinese medicine_. 2016. [문헌 고찰] [DOI 10.1186/s13020-016-0074-0](https://doi.org/10.1186/s13020-016-0074-0) [PMID 26834824](https://pubmed.ncbi.nlm.nih.gov/26834824/) — 본 문헌은 수족구병의 원인인 EV71 바이러스 억제에 효과적인 청열해독(淸熱解毒) 약재와 성분들을 정리하여, 기존의 치료제가도 부족한 상황에서 한약재 기반의 항바이러스제 개발 및 임상 적용 가능성을 제시한다.
-[^309]: Study on Prevention and Treatment of Autophagy and Cervical HPV Infection by Traditional Chinese Medicine Based on Pathogenesis of "Syndrome of Dampness-heat Diffusing Downward". _Journal of Clinical and Nursing Research_. 2021-05-31. [문헌 고찰] [DOI 10.26689/jcnr.v5i3.1987](https://doi.org/10.26689/jcnr.v5i3.1987) — 본 논문은 자궁경부 HPV 감염의 병태생리를 중의학의 '습열하주(濕熱下注)' 이론과 현대 의학의 '자가포식(Autophagy)' 손상 관점에서 해석하였습니다.
-
 **고전 인용 출처**: 『黃帝內經素問』(至眞要大論, 陰陽應象大論, 脾胃論, 擧痛論, 五藏生成篇), 『靈樞』, 『難經』, 『傷寒論』, 『金匱要略』, 『溫病條辨』, 『溫熱論』, 『醫宗金鑑』, 『外科正宗』, 『醫學心悟』, 『方劑學』教材
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-18 조회 기준
