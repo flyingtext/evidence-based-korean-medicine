@@ -160,7 +160,7 @@
 
 #### 17-3. 진단 도구 객관화 연구
 
-복부 알고미터(Algometer)를 이용해 FD 환자의 경혈 압통 역치(PPT)를 측정하는 진단 도구 연구가 다수 이루어졌다. 중완혈(CV14) PPT 측정이 심하비경(心下痞硬) 진단을 객관적으로 수치화하는 데 유용함이 확인되었고[^48], 복부 주요 경혈 PPT 측정이 진단·경과 관찰 도구로서의 가능성을 보였다[^46]. 한의원 임상 현장에서 활용 가능한 구조화된 표준운영절차(SOP)의 실행 가능성도 확인되었다[^50].
+복부 알고미터(Algometer)를 이용해 FD 환자의 경혈 압통 역치(PPT)를 측정하는 진단 도구 연구가 다수 이루어졌다. 중완혈 PPT 측정이 심하비경(心下痞硬) 진단을 객관적으로 수치화하는 데 유용함이 확인되었고[^48], 복부 주요 경혈 PPT 측정이 진단·경과 관찰 도구로서의 가능성을 보였다[^46]. 한의원 임상 현장에서 활용 가능한 구조화된 표준운영절차(SOP)의 실행 가능성도 확인되었다[^50].
 
 #### 17-4. 증례·통합 치료
 
@@ -365,7 +365,7 @@
 [^45]: Efficacy of herbal treatments for functional dyspepsia: A systematic review and meta-analysis of randomized clinical trials. Heiran A 외. _Phytotherapy research : PTR_. 2022-02. [메타분석, 6987명] [DOI 10.1002/ptr.7333](https://doi.org/10.1002/ptr.7333) [PMID 34851546](https://pubmed.ncbi.nlm.nih.gov/34851546/) — 한약이 위약보다 FD 증상 개선·삶의 질 향상에 유의하게 효과적.
 [^46]: A Clinical Study on the Diagnosis and Observation of Functional Dyspepsia - Focused on Algometer. Gi-Hwan Rho 외. _Journal of Korean Medicine_. 2022-12-01. [관찰연구, 99명] [DOI 10.13048/jkm.22042](https://doi.org/10.13048/jkm.22042) — 알고미터를 이용한 복부 경혈 압통 역치(PPT) 측정이 진단·경과 관찰에 유용.
 [^47]: Efficacy of Banha-sasim-tang in Patients with Functional Dyspepsia: A Network Meta-analysis. Son H 외. _Journal of Korean Medicine_. 2026-06-01. [메타분석] [DOI 10.13048/jkm.26020](https://doi.org/10.13048/jkm.26020) — 반하사심탕이 위약보다 유의하게 효과적이며 위장관 운동 조절제와 비교해도 긍정적.
-[^48]: Clinical Study for Objectification of Abdominal Examination with Functional Dyspepsia - Epigastric Diagnosis using Algometer. Gi-Hwan Rho 외. _Journal of Korean Medicine_. 2022-03-01. [관찰연구, 353명] [DOI 10.13048/jkm.22001](https://doi.org/10.13048/jkm.22001) — 중완혈(CV14) PPT 측정이 심하비경 진단 객관화에 유용.
+[^48]: Clinical Study for Objectification of Abdominal Examination with Functional Dyspepsia - Epigastric Diagnosis using Algometer. Gi-Hwan Rho 외. _Journal of Korean Medicine_. 2022-03-01. [관찰연구, 353명] [DOI 10.13048/jkm.22001](https://doi.org/10.13048/jkm.22001) — 중완혈 PPT 측정이 심하비경 진단 객관화에 유용.
 [^49]: A Case Report on a Patient with Aggravated Functional Dyspepsia due to COVID-19 Improved by Korean Medicine Treatment. Joo-hee Oh 외. _The Journal of Internal Korean Medicine_. 2023-10-30. [증례 보고, 1명] [DOI 10.22246/jikm.2023.44.5.875](https://doi.org/10.22246/jikm.2023.44.5.875) — COVID-19 후 악화된 FD가 한의 치료로 개선.
 [^50]: Feasibility study of structured diagnosis methods for functional dyspepsia in Korean medicine clinics. Park JH 외. _Integrative medicine research_. 2017-12. [실험연구] [DOI 10.1016/j.imr.2017.10.001](https://doi.org/10.1016/j.imr.2017.10.001) [PMID 29296572](https://pubmed.ncbi.nlm.nih.gov/29296572/) — 한의원 임상 현장의 구조화된 FD 진단 표준운영절차(SOP) 실행 가능성.
 [^51]: Factors Affecting Korean Medicine Health Care Use for Functional Dyspepsia: Analysis of the Korea Health Panel Survey 2017. Lee B 외. _Healthcare (Basel, Switzerland)_. 2022-06-25. [관찰연구] [DOI 10.3390/healthcare10071192](https://doi.org/10.3390/healthcare10071192) [PMID 35885719](https://pubmed.ncbi.nlm.nih.gov/35885719/) — FD 환자의 한방 의료 이용에 영향을 주는 요인(성별·연령·보험·스트레스).
