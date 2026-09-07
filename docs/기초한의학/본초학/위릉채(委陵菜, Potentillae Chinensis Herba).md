@@ -266,7 +266,7 @@
 
 ### 4-8. 궤양성 대장염 — 습열형 장 병태
 
-혈변·점액변·이급후중(裏急後重)을 특징으로 하는 궤양성 대장염은 위릉채의 주치인 적리(赤痢)와 증후가 겹치는 대표적 현대 질환군이다. 한약 보류관장의 효능을 정리한 체계적 고찰(1,514명)은 증상 완화와 임상 유효율 개선을 보고하였고,[^35] 별도의 메타분석(2,477명)은 전반적 치료 효과 향상과 함께 재발률·이상반응의 유의한 감소를 보고하였다.[^36] 다기관 무작위 이중맹검 임상시험(240명)은 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 비교 평가하였으며,[^38] 청열거습활혈(淸熱祛濕活血) 원칙의 탕약 보류관장을 적용한 임상 관찰(100명)은 설파살라진 관장보다 나은 증상 완화와 점막 회복을 보고하였다.[^39] 고삼 기반 제제의 체계적 고찰(983명)[^37]과 청장화습방 임상시험(60명)[^41] 역시 습열형 병태에서의 이득을 시사한다.
+혈변·점액변·이급후중(裏急後重)을 특징으로 하는 궤양성 대장염은 위릉채의 주치인 적리(赤痢)와 증후가 겹치는 대표적 현대 질환군이다. 한약 보류관장의 효능을 정리한 체계적 고찰(1,514명)은 증상 완화와 임상 유효율 개선을 보고하였고,[^35] 별도의 메타분석(2,477명)은 전반적 치료 효과 향상과 함께 재발률·이상반응의 유의한 감소를 보고하였다.[^36] 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 직접 비교하는 다기관 무작위 이중맹검 시험(240명 계획)도 설계·등록되었으나 아직 결과가 보고되지 않았고,[^38] 청열거습활혈(淸熱祛濕活血) 원칙의 탕약 보류관장을 적용한 임상 관찰(100명)은 설파살라진 관장보다 나은 증상 완화와 점막 회복을 보고하였다.[^39] 고삼 기반 제제의 체계적 고찰(983명)[^37]과 청장화습방 임상시험(60명)[^41] 역시 습열형 병태에서의 이득을 시사한다.
 
 한편 염증성 장질환에 대한 보완대체의학 전반을 검토한 체계적 고찰은, 차전자피·커큐민이 궤양성 대장염 유지 요법에서, 침 치료가 두 질환 모두에서 가능성을 보인다고 정리하면서도 근거의 질적 한계를 지적하였다.[^40] 이 지적은 위릉채를 포함한 개별 본초의 근거를 해석할 때에도 동일하게 적용된다.
 
@@ -302,7 +302,7 @@
 |---|---|---|---|
 | 급성 감염성 설사 | 임상진료지침·체계적 고찰 | 재수액 우선, 한약 병용 시 기간 단축[^19][^20][^21] | ③ 주치 질환군 |
 | 소아 설사·위장염 | 메타분석 | 한약·프로바이오틱스 병용의 보조 이득[^22][^25][^33] | ③ 주치 질환군 |
-| 궤양성 대장염 | 메타분석·다기관 RCT | 관장·경구 한약의 유효율·재발률 개선[^35][^36][^38] | ③ 주치 질환군 |
+| 궤양성 대장염 | 체계적 고찰·메타분석 | 관장·경구 한약의 유효율·재발률 개선[^35][^36] | ③ 주치 질환군 |
 | 설사형 과민성 장증후군 | 메타분석 | 뜸 치료의 우수한 효과 가능성[^43] | ③ 주치 질환군 |
 | 항암·방사선 관련 장 독성 | 메타분석 | 증상 완화·출혈 감소 가능성[^26][^44][^45] | ③ 주치 질환군 |
 | 기능성 자궁출혈·붕루 | 메타분석·체계적 고찰 | 유효율 향상, 재발률 감소[^46][^47][^48] | ③ 주치 질환군 |
@@ -595,7 +595,7 @@
 [^35]: A systematic review of the efficacy of traditional Chinese medicine retention enema in the treatment of ulcerative colitis. Li J 외. _Journal of Integrative Nursing_. 2024-01. [체계적 고찰, 1514명] [DOI 10.4103/jin.jin_115_23](https://doi.org/10.4103/jin.jin_115_23) — 한약 보류관장이 궤양성 대장염의 증상 완화와 유효율 개선에서 기존 치료보다 유리했다는 체계적 고찰. 위릉채의 주치인 적리 양상에 대응하는 질환군 근거.
 [^36]: Meta-analysis of therapeutic effect of retention enema with traditional Chinese medicine on ulcerative colitis. Peng JF 외. _Zhongguo Zhong yao za zhi_. 2019-10. [메타분석, 2477명] [DOI 10.19540/j.cnki.cjcmm.20190827.501](https://doi.org/10.19540/j.cnki.cjcmm.20190827.501) [PMID 31872708](https://pubmed.ncbi.nlm.nih.gov/31872708/) — 한약 보류관장이 궤양성 대장염의 치료 효과를 높이고 재발률·이상반응을 줄였다는 메타분석. 국소 투여 경로의 안전성 신호를 함께 제공.
 [^37]: Efficacy and Safety of Sophora flavescens (Kushen) Based Traditional Chinese Medicine in the Treatment of Ulcerative Colitis: Clinical Evidence and Potential Mechanisms. Chen M 외. _Frontiers in pharmacology_. 2020. [체계적 고찰, 983명] [DOI 10.3389/fphar.2020.603476](https://doi.org/10.3389/fphar.2020.603476) [PMID 33362558](https://pubmed.ncbi.nlm.nih.gov/33362558/) — 고삼 기반 제제가 습열적체형 궤양성 대장염에서 5-ASA 단독보다 높은 관해율을 보였다는 근거. 청열조습 계열 배오가 습열형 장 병태에 유효할 가능성을 시사.
-[^38]: Clinical evaluation of traditional Chinese medicine on mild active ulcerative colitis: A multi-center, randomized, double-blind, controlled trial. Kou FS 외. _Medicine_. 2020-08-28. [임상시험, 240명] [DOI 10.1097/MD.0000000000021903](https://doi.org/10.1097/MD.0000000000021903) [PMID 32871923](https://pubmed.ncbi.nlm.nih.gov/32871923/) — 경증 활동성 궤양성 대장염에서 한약 제제와 메살라진을 비교한 다기관 이중맹검 연구. 주치 질환군에서 한약이 표준약과 직접 비교되는 설계 사례.
+[^38]: Clinical evaluation of traditional Chinese medicine on mild active ulcerative colitis: A multi-center, randomized, double-blind, controlled trial. Kou FS 외. _Medicine (Baltimore)_. 2020-08-28. [임상시험 계획서, 240명 계획] [DOI 10.1097/MD.0000000000021903](https://doi.org/10.1097/MD.0000000000021903) [PMID 32871923](https://pubmed.ncbi.nlm.nih.gov/32871923/) — 경증 활동성(수정 Mayo 3~5점) 궤양성 대장염 중 습열어조·비기허 변증 환자 240명을 6개 기관에서 호지장용캡슐(虎地腸溶膠囊)군과 메살라진군에 1:1 배정해 8주간 비교하도록 설계된 다기관 이중맹검 이중위약 시험의 **계획서**. 주치 질환군에서 한약이 표준약과 직접 비교되는 설계 사례이나, 결과는 보고되지 않았다.
 [^39]: Clinical observations on 100 cases of ulcerative colitis treated with the method of clearing away heat, expelling dampness, promoting blood circulation and healing ulcer. Ye B 외. _Journal of traditional Chinese medicine_. 2010-06. [임상시험, 100명] [DOI 10.1016/s0254-6272(10)60022-2](https://doi.org/10.1016/s0254-6272(10)60022-2) [PMID 20653164](https://pubmed.ncbi.nlm.nih.gov/20653164/) — 청열거습활혈 원칙의 탕약 관장이 설파살라진 관장보다 증상 완화와 점막 회복에서 우수했다는 임상 관찰. 위릉채의 치법 축(청열·거습)이 실제 처방 원칙으로 검증된 사례.
 [^40]: Systematic review of complementary and alternative medicine treatments in inflammatory bowel diseases. Langhorst J 외. _Journal of Crohn's & colitis_. 2015-01. [체계적 고찰] [DOI 10.1093/ecco-jcc/jju007](https://doi.org/10.1093/ecco-jcc/jju007) [PMID 25518050](https://pubmed.ncbi.nlm.nih.gov/25518050/) — 염증성 장질환에서 보완대체의학 중재의 근거를 균형 있게 검토. 개별 본초의 근거를 해석할 때 요구되는 신중함의 기준을 제시.
 [^41]: Observation of the curative effect of qingchang huashi recipe for treating active ulcerative colitis of inner-accumulation of damp-heat syndrome. He HH 외. _Zhongguo Zhong xi yi jie he za zhi_. 2012-12. [임상시험, 60명] [PMID 23469594](https://pubmed.ncbi.nlm.nih.gov/23469594/) — 습열내저증 활동성 궤양성 대장염에서 청장화습방 경구·관장 병용이 메살라진 단독보다 나은 개선을 보였다는 임상시험. 변증 층화에 따른 치료 반응 차이를 보여주는 사례.
