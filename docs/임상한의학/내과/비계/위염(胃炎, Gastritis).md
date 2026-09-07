@@ -120,7 +120,7 @@ H. pylori는 만성 위축성 위염의 핵심 병원균으로, 위점막에 지
 
 #### 2-2. 위점막 손상·염증 관련 분자 지표
 
-만성 위염·소화성 궤양 환자의 혈액·소변 프로스타글란딘 E2·F2α가 변증 유형과 상관관계를 보이며[^82], 비위습열증에서 NF-κB mRNA 및 관련 단백 발현이 유의하게 상승한다[^60][^61]. 만성 위축성 위염 환자의 백혈구·혈청 miRNA·mRNA, lncRNA·circRNA 매개 경쟁 내인성 RNA(ceRNA) 네트워크가 변증 유형과 연관됨이 확인되었다[^41][^42][^44]. 위염 환자의 중의 변증에서 불균형 네트워크 생체표지자가 확인되어 변증의 시스템생물학적 근거를 제시한다[^95]. 위점막 표피성장인자(EGF)·혈관내피성장인자(VEGF) 발현이 중의 변증 유형과 관련되며[^92], 만성 미란성 위염 환자의 간세포성장인자(HGF)·c-Met 발현도 변증 유형과 상관관계를 보인다[^51]. 화탁해독방(化濁解毒方)이 화열온독형 만성 미란성 위염 환자의 HIF-1α·VEGF·PTEN 발현을 조절한다는 실험적 근거도 있다[^157].
+만성 위염·소화성 궤양 환자의 혈액·소변 프로스타글란딘 E2·F2α가 변증 유형과 상관관계를 보이며[^82], 비위습열증에서 NF-κB mRNA 및 관련 단백 발현이 유의하게 상승한다[^60][^61]. 우췌상(疣狀) 위염 환자 94명과 비활동성 표층성 위염 대조군 30명의 위점막을 면역조직화학으로 비교한 관찰연구에서는 저산소유도인자-1α(HIF-1α)·VEGF·COX-2 발현이 변증 유형에 따라 달라, 위락혈어증(胃絡血瘀證)에서 HIF-1α가 가장 높고 비위습열증에서 COX-2 발현과 H. pylori 감염률(76.47%)이 가장 높게 나타났다[^58]. 만성 위축성 위염 환자의 백혈구·혈청 miRNA·mRNA, lncRNA·circRNA 매개 경쟁 내인성 RNA(ceRNA) 네트워크가 변증 유형과 연관됨이 확인되었다[^41][^42][^44]. 위염 환자의 중의 변증에서 불균형 네트워크 생체표지자가 확인되어 변증의 시스템생물학적 근거를 제시한다[^95]. 위점막 표피성장인자(EGF)·혈관내피성장인자(VEGF) 발현이 중의 변증 유형과 관련되며[^92], 만성 미란성 위염 환자의 간세포성장인자(HGF)·c-Met 발현도 변증 유형과 상관관계를 보인다[^51]. 화탁해독방(化濁解毒方)이 화열온독형 만성 미란성 위염 환자의 HIF-1α·VEGF·PTEN 발현을 조절한다는 실험적 근거도 있다[^157].
 
 #### 2-3. 아쿠아포린(AQP)·수분채널과 비위습열
 
@@ -167,7 +167,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 ### 5. 변증의 시스템생물학적 타당도
 
-만성 위축성 위염의 비허증(脾虛證) 분류는 위점막 위축·장상피화생의 병리조직학적 소견과 밀접히 연관되며[^59][^124][^125], 비기허증 환자의 면역 관련 유전체 발현 특성[^86]·유전자 배열 분석에 기반한 생물정보학적 근거[^93]·물질·에너지 대사 관련 유전자 차등 발현[^49][^94]이 확인되어 비허 변증이 생물학적 실체를 갖는 증거로 제시된다. 탐색적 요인분석[^79]·위계적 복잡계 엔트로피 군집분석[^80]·스펙트럼 군집분석[^96]으로 만성 위축성 위염의 중의 변증 패턴이 통계적으로 타당함이 확인되었다. 네트워크 약리학 분석은 비기허증의 생물학적 기초와 한약 치료 기전을 규명하였고[^128], 가감사군자탕의 위점막 보호 작용 경로도 네트워크 약리학으로 설명되었다[^129].
+만성 위축성 위염의 비허증(脾虛證) 분류는 위점막 위축·장상피화생의 병리조직학적 소견과 밀접히 연관되며[^59][^124][^125], 비기허증 환자의 면역 관련 유전체 발현 특성[^86]·유전자 배열 분석에 기반한 생물정보학적 근거[^93]·물질·에너지 대사 관련 유전자 차등 발현[^49][^94]이 확인되어 비허 변증이 생물학적 실체를 갖는 증거로 제시된다. 탐색적 요인분석[^79]·위계적 복잡계 엔트로피 군집분석[^80]·스펙트럼 군집분석[^96]으로 만성 위축성 위염의 중의 변증 패턴이 통계적으로 타당함이 확인되었다. 네트워크 약리학 분석은 비기허증의 생물학적 기초와 한약 치료 기전을 규명하였고[^128], 가감사군자탕의 위점막 보호 작용 경로도 네트워크 약리학으로 설명되었다[^129]. 만성 위축성 위염 비기허증을 대상으로 체질과 증(證)의 본질을 시스템생물학적으로 접근한 연구도 변증 층화의 생물학적 근거를 보강한다[^105].
 
 ---
 
@@ -184,6 +184,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 - **치법**: 청열화습(淸熱化濕), 화위지통(和胃止痛).
 - **대표방**: 반하사심탕(半夏瀉心湯)·삼황사심탕(三黃瀉心湯)·청유방(淸幽方). [교과서적 근거]
 - **근거**: 반하사심탕이 만성 위축성 위염 치료 메타분석에서 유의한 효과를 보였고[^78], 전암 병변 치료의 체계적 고찰에서도 유효성이 확인되었다[^137]. 청열해독 한약의 작용기전이 미란성 위염 치료의 이론적 근거로 정리되었다[^28]. 비위습열증에서 Th1/Th2 균형 편향[^55]·NF-κB 발현 상승[^60][^61]이 면역학적 변증 근거를 제공한다.
+- **변증 지표 표준화**: 만성 위염 환자를 대상으로 임상역학 조사와 다변량 통계를 결합해 습증(濕證) 진단 지표의 기여도를 산출한 연구에서, 비위습열증의 변별력 있는 지표로 설질홍·황니태(黃膩苔), 구중점니감(口中粘膩感), 소변황적, 변비·건조변, 면적(面赤), 지체곤중(肢體困重)이 도출되었고, 비허습곤증에서는 반대설(胖大舌)·치흔(齒痕), 니태, 구중점니감, 구담무미(口淡無味), 식욕부진이 도출되었다[^88].
 
 #### 1-2. 간위불화(肝胃不和)
 
@@ -274,6 +275,8 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 ### 2. 대표 방제 방해(方解)
 
+만성 위염 전반을 대상으로 무작위대조시험 16편·1,673명을 통합한 메타분석에서, 한약군은 통상 약물요법군보다 총유효율(OR 4.65, 95% CI 3.29–6.56)·내시경 유효율(OR 2.46)과 위완창만·위통·애기(噯氣) 점수에서 유의하게 우수하였고 이상반응 발생률은 낮았다. 다만 산조(酸阻)·식욕부진 지표에서는 두 군 간 유의한 차이가 없었고 포함 연구의 설계 이질성이 커, 처방별 개별 근거와 함께 해석해야 한다[^52].
+
 #### 2-1. 사군자탕(四君子湯) 계열 — 비기허형
 
 사군자탕(인삼(人蔘)·백출·복령·감초)은 비기허로 운화가 무력해진 위염에 건비익기한다. 가감사군자탕(加減四君子湯)은 위점막 장상피화생 환자에게 대조군보다 유의하게 높은 완치율·유효율을 보였다[^77]. 육군자탕(六君子湯)은 위축성 위염 치료의 체계적 고찰·메타분석에서 안전하고 유효한 것으로 확인되었으며[^136], 사군자탕이 만성 위축성 위염의 치료 반응과 밀접히 관련된다는 체계적 근거도 있다[^53]. 네트워크 약리학 분석은 가감사군자탕의 위점막 보호 작용 경로를 규명하였다[^129]. [교과서적 근거]
@@ -284,7 +287,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 #### 2-3. 소간화위탕(疏肝和胃湯)·시호소간산 — 간위불화형
 
-간위불화로 인한 위염에 소간해울·화위지통한다. 미시적 변증 기반 한약이 간위불화형 만성 위염의 소화불량 증상·내시경 소견을 서양의학적 치료보다 개선하였다[^100]. [교과서적 근거]
+간위불화로 인한 위염에 소간해울·화위지통한다. 미시적 변증 기반 한약이 간위불화형 만성 위염의 소화불량 증상·내시경 소견을 서양의학적 치료보다 개선하였다[^100]. 비위허한형 16명과 간위불화형 15명의 만성 위염 환자에게 각각 건비온위탕(健脾溫胃湯)·소간화위탕을 3개월 투여하고 위전정부 소만곡 점막을 전자현미경으로 관찰한 연구에서는, 두 변증군의 초미세구조 병변 양상이 서로 달랐고(비위허한형은 주세포 미토콘드리아 종창, 간위불화형은 조면소포체 확장) 치료 후 대부분 정상화되거나 호전되어 변증별 처방 선택의 병리조직학적 근거를 뒷받침하였다[^21]. [교과서적 근거]
 
 #### 2-4. 이중탕(理中湯)·황기건중탕(黃芪建中湯) — 비위허한형
 
@@ -295,7 +298,9 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 위점막 장상피화생·이형성증(전암 병변)에 유효성이 보고된 처방으로 다음이 있다.
 
 - **소위염산(小胃炎散)** — 장상피화생·비정형 증식 개선[^10].
-- **위수(胃舒)캡슐** — 전암 병변 개선, CEA·PCNA 발현 억제 근거.
+- **위수(胃舒)캡슐** — 만성 위축성 위염 전암 병변 임상연구에서 병변 개선이 보고되었다[^71].
+- **변증 기반 한약 복합처방 + 한약 산제 병용** — 미란을 동반한 만성 위축성 위염을 대상으로 한 다기관 무작위 양성대조 임상시험에서 증상 점수·삶의 질이 개선되었다[^4].
+- **침엽수 어린잎 복합물(CGNC, Conifer Green Needle Complex)** — 전암성 위 병변 환자를 대상으로 한 관찰형 파일럿 연구에서 소화불량 증상과 관련 소견의 개선이 보고되었으나, 대조군이 없는 소규모 탐색 연구다[^138].
 - **위안산(胃安散)** — 위암 전단계 병변 치료에 유효[^140].
 - **위강복(과립)** — 전암병변의 위점막 초미세구조·병태생리학적 소견 개선[^89][^141][^143].
 - **강위과립(康胃顆粒)** — 전암 병변 개선[^87].
@@ -316,24 +321,28 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 - **혈위 매선요법 + 4제 요법** — H. pylori 양성 만성 위축성 위염의 임상 효과 개선[^127].
 - **청화통강탕(淸化通降湯) 병용 침 치료** — H. pylori 양성 만성 위축성 위염(비위습열증) 52례 임상관찰에서 유효성 확인[^139].
 - **한약이 H. pylori 관련 위십이지장 궤양 치료의 체계적 고찰·메타분석에서 유효성** [^133][^134].
+- **PPI 포함 요법 병용 한약·천연물** — PPI를 포함한 제균 요법(비스무트 4제 요법 등)을 받는 환자를 대상으로 18편 1,984명을 통합한 체계적 고찰·메타분석에서, 한약·천연물 병용군의 H. pylori 제균율이 유의하게 높았고(RR 1.20, 95% CI 1.14–1.27, I²=33%) 치료 후 Bifidobacterium·Lactobacillus 수준이 높은 경향과 α-다양성 보존 소견이 관찰되었다. 다만 총유효율 지표의 비표준성과 이질성 때문에 근거의 확실성은 제한적이다[^135].
 
 #### 2-7. 미란성·급성 위염 처방
 
 - **화탁해독방(化濁解毒方)** — 화열온독형 만성 미란성 위염의 HIF-1α·VEGF·PTEN 발현 조절[^157].
 - **청열해독 처방** — 미란성 위염의 작용기전 정리[^28].
-- **정화위강(荊花胃康)캡슐** — 만성 표층성 위염 치료에 유효[^73].
-- **기서위서(芪蕊胃舒)캡슐** — 만성 비위축성 위염 치료에 유효[^103].
+- **형화위강(荊花胃康)캡슐** — 만성 표층성 위염 환자 90명을 돔페리돈 대조군과 고·저용량 캡슐군으로 나눈 무작위 시험에서, 두 캡슐군 모두 치료 전보다 소화불량 증상 점수가 낮아지고 삶의 질이 개선되었으며 고용량군에서 효과가 가장 뚜렷하고 이상반응은 경미하였다[^72].
+- **기예위서(芪蕊胃舒)캡슐** — 만성 비위축성 위염을 대상으로 한 다기관 이중맹검 무작위 시험에서 유효성·안전성이 보고되었다[^104].
 - **가감정기산(加減正氣散)** — 만성 위염 환자의 삶의 질·이상반응 개선[^20].
-- **건위거통환(健胃祛痛丸)** — 만성 비위축성 위염 증상 개선[^15].
-- **향사양위환(香砂養胃丸)·양위과립(養胃顆粒)** — 체계적 고찰·메타분석에서 유효성·안전성 확인[^98][^99].
+- **건위거통환(健胃祛痛丸)** — 비위기허 겸 습열협어증 만성 비위축성 위염을 대상으로 한 제2상 다기관 이중맹검 무작위 위약대조 임상시험 계획서(240명 배정 예정)가 공개되어 있으며, 아직 완료 결과가 보고된 연구가 아니다[^14].
+- **향사양위환(香砂養胃丸)** — 무작위대조시험 18편 1,720명 메타분석에서 양약 단독 대비 병용군의 유효율이 높고 재발률·이상반응 발생률이 낮았으나, **H. pylori 제균율에는 유의한 차이가 없었고** 포함 연구의 방법론적 질이 낮아 고품질 검증이 필요하다[^97].
+- **양위과립(養胃顆粒)** — 만성 위염을 대상으로 한 체계적 고찰·메타분석에서 유효성·안전성이 보고되었다[^98].
 
 ### 3. 본초 각론
+
+본초는 단미(單味)보다 배오(配伍) 단위로 운용된다. 만성 위염 외래 환자를 약대(藥對, 두 약재의 짝) 중심 처방군과 반하사심탕 대조군으로 무작위 배정한 98례 비교에서 약대군의 총유효율이 96%로 대조군보다 유의하게 높았다(P<0.05)[^16]. 아래 각론은 배오 맥락 안에서 읽어야 한다.
 
 #### 3-1. 황련(黃連, Coptidis Rhizoma)
 
 - **성미귀경**: 고한(苦寒), 심·비·위·간·대장경.
 - **효능**: 청열조습(淸熱燥濕), 사화해독(瀉火解毒).
-- **약리**: 황련·대황 등 청열 계열 한약재가 H. pylori에 강한 억제 효과를 보였다[^15]. 반하사심탕·삼황사심탕의 군약(君藥)으로 습열형 위염에 활용된다. [교과서적 근거]
+- **약리**: 황련·대황 등 청열 계열 한약재가 시험관 내(in vitro) 억제시험에서 H. pylori에 강한 억제 효과를 보였다[^15]. 반하사심탕·삼황사심탕의 군약(君藥)으로 습열형 위염에 활용된다. [교과서적 근거]
 - **용량**: 2~5g. **금기**: 비위허한자 신중.
 
 #### 3-2. 인삼(人蔘, Ginseng Radix)
@@ -353,13 +362,20 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 - **성미귀경**: 고한(苦寒), 비·위·대장·간·심포경.
 - **효능**: 사열통변(瀉熱通便), 청열해독, 활혈거어.
-- **약리**: 황련과 병용 시 H. pylori 억제 효과가 보고되었다[^15]. 기체혈어형 전암 병변에서 활혈화어 처방의 구성 약물로 응용된다[^147]. **용량**: 3~9g. **금기**: 임신·비허한자 신중.
+- **약리**: 황련과 병용 시 시험관 내 H. pylori 억제 효과가 보고되었다[^15]. 기체혈어형 전암 병변에서 활혈화어 처방의 구성 약물로 응용된다[^146]. **용량**: 3~9g. **금기**: 임신·비허한자 신중.
 
 #### 3-5. 황기(黃芪)
 
 - **성미귀경**: 감온(甘溫), 비·폐경.
 - **효능**: 보기승양(補氣升陽), 익위고표.
-- **약리**: 황기건중탕의 군약으로 비위허한·비기허형 위염의 온중건비에 기여한다. 축사(縮砂) 휘발유가 혈소판활성인자·비만세포관련 인자 발현에 영향을 미쳐 위점막 보호 기전을 시사한다[^47]는 보고와 함께, 황기 계열 처방이 위점막 보호 네트워크에서 핵심 약물로 지목된다.
+- **약리**: 황기건중탕의 군약으로 비위허한·비기허형 위염의 온중건비에 기여하며, 황기 계열 처방이 위점막 보호 네트워크에서 핵심 약물로 지목된다.
+
+#### 3-6. 사인(砂仁, Amomi Fructus)
+
+- **성미귀경**: 신온(辛溫), 비·위·신경.
+- **효능**: 화습행기(化濕行氣), 온중지사(溫中止瀉).
+- **약리**: H. pylori 감염 만성 위염 환자의 위점막에서 사인(축사(縮砂)) 휘발유가 혈소판활성인자·비만세포 관련 펩타이드 발현에 영향을 미쳐 위점막 보호에 기여할 가능성이 제시되었다[^47].
+- **용량**: 3~6g(후하(後下)). **금기**: 음허유열자 신중.
 
 ### 4. 침구(鍼灸) 치법
 
@@ -376,13 +392,15 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 #### 4-2. 침구 근거
 
-침구 치료가 만성 위축성 위염 증상 개선에 유효하며[^69], 메타분석·시퀀셜 분석에서도 유효성이 확인되었다[^152]. 침 치료가 만성 위축성 위염 환자의 혈청 차등발현 단백질을 조절한다는 실험연구도 있다[^153]. 침구 치료의 효능·기전에 관한 연구 진전이 개관되었고[^155], 핵심 결과지표(core outcome set) 표준화를 위한 방법론적 체계적 고찰도 수행되었다[^156]. 신경해부학적 기전으로 침 치료가 위장관 질환을 포함한 흔한 질환에서 작용한다는 개관도 있다[^151].
+침구 치료가 만성 위축성 위염 증상 개선에 유효하며[^69], 만성 위축성 위염 환자 80명을 침구군(관원(CV4)·기해(CV6)·족삼리(ST36)·혈해(SP10)·격수(BL17))과 양약 대조군으로 무작위 배정한 임상시험에서도 총유효율(92.5% 대 75.0%)·내시경 소견 개선율(85.0% 대 65.0%)·조직병리 개선율(87.5% 대 65.0%)이 모두 침구군에서 높았다. 다만 이 연구의 대조군은 오메프라졸·아목시실린 병용으로 현행 표준 제균 4제 요법이 아니므로, 표준치료를 대체할 근거로 확대 해석해서는 안 된다[^114]. 침 치료가 만성 위축성 위염 환자의 혈청 차등발현 단백질을 조절한다는 실험연구도 있다[^153]. 침구 치료의 효능·기전에 관한 연구 진전이 개관되었고[^155], 핵심 결과지표(core outcome set) 표준화를 위한 방법론적 체계적 고찰도 수행되었다[^156]. 메타분석·시퀀셜 분석은 아직 연구 계획서 단계로 등록되어 있어 통합 추정치가 보고된 것은 아니다[^152]. 신경해부학적 기전으로 침 치료가 위장관 질환을 포함한 흔한 질환에서 작용한다는 개관도 있다[^149].
 
 취혈 관련 세부 근거는 다음과 같다.
 
-- **배유혈(背兪穴)·모혈(募穴)** 침구가 삶의 질을 개선하였다[^116].
+- **배유혈(背兪穴)·모혈(募穴)** 배합 전침+뜸이 만성 표층성 위염 환자 60명 무작위 비교에서 오메프라졸군보다 총유효율(90.0% 대 66.7%)이 높았고 SF-36의 건강효용·신체역할·정서역할 영역 점수도 유의하게 높았다[^115].
 - **영구팔법(靈龜八法)** 에 근거한 침 치료가 비위허한형 만성 표층성 위염에 유효하였다[^83][^116].
-- **온침(溫鍼)** 이 비위허한형 만성 위축성 위염 증상 개선에 유효하였다[^117].
+- **자오류주(子午流注)** 납일법(納日法)의 개혈(開穴)·폐혈(閉穴) 취혈을 비교한 초기 임상연구에서는 두 군의 총유효율에 유의한 차이가 없었으나, 침 자극 후 위액 산도와 위액량이 고산·저산 환자에서 각각 반대 방향으로 조절되고 혈청 가스트린이 상승하는 양방향 조절 소견이 관찰되었다[^68].
+- **온침(溫鍼)** 이 비위허한형 만성 위축성 위염 증상 개선에 유효하였고[^118], **온화구(溫和灸)** 는 비위허한형 만성 표층성 위염에서 유효하였다[^117].
+- **침 + 한약 병용**: 장상피화생을 동반한 만성 위축성 위염 환자 51명을 가감사군자탕 단독군과 침(중완(CV12)·족삼리·내관(PC6)·공손(SP4)) 병용군으로 무작위 배정한 시험에서, 임상 증상 개선에는 두 군 간 유의한 차이가 없었으나 내시경 유효율(88.46% 대 64.00%)과 장상피화생 병리 개선율(84.62% 대 64.00%)은 병용군에서 유의하게 높았다[^9].
 - **경락 진단** 에 근거한 침 치료가 만성 위축성 위염에 적용되었다[^119].
 - **맥립구(麥粒灸)** 가 비위허한형 만성 표층성 위염에 유효하였다[^120].
 - **혈위 주사요법** 이 위혈어형 만성 위염에 유효하였다[^121].
@@ -392,13 +410,13 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 - **압통 민감 혈위의 분포 규율** 이 만성 비위축성 위염 환자에서 확인되었다[^151].
 - **침구와 온찜질·강황 병용** 이 위통 완화에 유효하였다[^148][^150].
 - **침구+추나 병행** 이 청소년 심인성 구토를 동반한 사례에 적용되었다[^123].
-- **침·뜸 병행** 이 수면장애를 동반한 만성 위염의 증상·수면의 질을 개선하였다[^111].
+- **침·뜸 병행** 이 수면장애를 동반한 만성 위염의 증상·수면의 질을 개선하였다[^110].
 - **혈위도포(穴位貼敷)**: 건비산(健脾散) 혈위 도포와 한약 탕제 병행이 탕제 단독보다 임상 유효율·위 운동성 개선에 우수하였다[^32].
 - **중완(CV12) 혈위 민감화**: 만성 위축성 위염 환자의 중완 혈위 민감화 현상을 단백질·대사체 수준에서 규명하려는 관찰연구 프로토콜이 진행되고 있다.
 
 ### 5. 추나·외치·기타 비약물 중재
 
-기공(氣功)에 관한 임상 연구의 서지학적 분석은 위장관 질환을 포함한 폭넓은 적응증에서 기공의 근거 기반이 축적되고 있음을 보여준다[^26]. 회향·조염을 이용한 위약뜸과 배꼽뜸을 병행하는 전통 간호 중재도 위장관 증상 개선에 활용된다[^102]. 일본 캄포(漢方) 의학은 위장관 질환의 기초·임상 근거를 폭넓게 축적하고 있다[^33]. 소침도(小針刀)와 대진구탕 병용이 만성 위축성 위염에 유효하였다는 보고도 있다[^13].
+기공(氣功)에 관한 임상 연구의 서지학적 분석은 위장관 질환을 포함한 폭넓은 적응증에서 기공의 근거 기반이 축적되고 있음을 보여준다[^26]. 회향·조염을 이용한 위약뜸(熨法)과 배꼽뜸을 병행하는 전통 간호 중재가 비위허한형 상복부 통증에 활용된다[^99]. 일본 캄포(漢方) 의학은 위장관 질환의 기초·임상 근거를 폭넓게 축적하고 있다[^33].
 
 ---
 
@@ -409,7 +427,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 ① **코드**: K29.0(급성 출혈성 위염), K29.1(기타 급성 위염), K29.2(알코올성 위염), K29.6(기타 위염-미란성 포함).
 ② **병인병기**: 음주·NSAIDs·스트레스가 위기(胃氣)를 급격히 손상시켜 습열이 위점막에 온결(蘊結)하거나 위락(胃絡)이 손상되어 출혈로 이어진다.
 ③ **병태생리**: 위점막 방어벽(점액·중탄산염·혈류)의 급성 손상, 프로스타글란딘 감소, NSAIDs의 COX 억제로 인한 점막 방어 약화. [교과서적 근거]
-④ **치료**: 청열해독 처방(화탁해독방 등)이 화열온독형 미란성 위염의 HIF-1α·VEGF·PTEN 발현을 조절한다[^157]. 청열해독 한약의 작용기전이 정리되었다[^28]. 침 치료와 온찜질 병용이 통증 완화에 유효하다[^152].
+④ **치료**: 청열해독 처방(화탁해독방 등)이 화열온독형 미란성 위염의 HIF-1α·VEGF·PTEN 발현을 조절한다[^157]. 청열해독 한약의 작용기전이 정리되었다[^28]. 침 치료와 온찜질 병용이 통증 완화에 유효하다[^150].
 ⑤ **예후**: 유발인자 제거 시 대개 수일~수주 내 호전되나, 출혈성 위염은 재출혈·빈혈 위험을 감시해야 한다.
 ⑥ **관리**: 음주·NSAIDs 중단, 자극성 식이 회피, 필요시 위산분비억제제 병용.
 
@@ -418,7 +436,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 ① **코드**: K29.3(만성 표재성 위염), K29.5(상세불명의 만성 위염), K29.7(상세불명의 위염).
 ② **병인병기**: 비기허·비위습열이 주된 병기이며, 정지실조로 인한 간위불화가 겸협된다.
 ③ **병태생리**: 위점막 위축 없는 표층 염증, 비허증 분류가 병리조직학적 소견과 상관관계를 보인다[^124][^125]. 위점막 아쿠아포린 발현 변화[^57][^91], 위염 니태 설태 대사체[^64][^65] 등이 상관물로 제시된다.
-④ **치료**: 향사육군자탕·정화위강캡슐·기서위서캡슐·향사양위환·양위과립 등이 유효성을 보였다[^73][^98][^99][^105]. 영구팔법 침·맥립구·온침 등 온법 침구가 비위허한형에 유효하다[^83][^117][^120][^121].
+④ **치료**: 온중건비법[^73], 형화위강캡슐[^72], 기예위서캡슐[^104], 향사양위환[^97], 양위과립[^98] 등이 유효성을 보였다. 영구팔법 침[^83]·맥립구[^120]·온화구[^117] 등 온법 침구가 비위허한형에 유효하며, 배유혈·모혈 배합 전침+뜸은 삶의 질 개선에도 유효하였다[^115]. 위혈어형에는 혈위 주사요법이 적용된다[^121]. 다만 장미(Rosa) 기반 전통 복합처방의 이중맹검 무작위대조시험처럼[^132] 대상 진단이 내시경 확진 위염이 아니라 기능성 소화불량인 연구도 있어, 증상 개선 근거를 위염 자체에 대한 근거로 등치시키지 않도록 주의해야 한다.
 ⑤ **예후**: 대부분 양호하나, H. pylori 미제균·지속 자극 시 만성 위축성 위염으로 진행할 수 있다.
 ⑥ **관리**: H. pylori 감염 여부 확인, 재발 방지를 위한 식이·정서 관리.
 
@@ -427,8 +445,10 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 ① **코드**: K29.4(만성 위축성 위염). 이형성이 진행되면 D13.1(위 양성 신생물) 또는 위암 전 단계로 별도 평가.
 ② **병인병기**: 비기허·비위허한·위음부족이 오래 지속되며 기체혈어가 겸협되어 위락(胃絡)이 손상, 장상피화생·이형성으로 진행한다.
 ③ **병태생리**: 위선 위축·장상피화생, 펩시노겐·가스트린-17 저하, OLGA/OLGIM 병기 상승, H. pylori 코레아 연쇄, bcl-2 발현과 변증 유형의 상관성[^144].
-④ **치료**: 육군자탕·가감사군자탕·반하사심탕·소위염산·위수캡슐·위안산·위강복·강위과립·자생탕·모라단·이위소어과립·이련과립·WW-1 등 다수의 근거가 축적되어 있다[^10][^12][^28][^53][^76][^77][^78][^87][^89][^103][^110][^130][^136][^137][^141][^142][^143][^144][^146][^149]. 통합의학 치료가 OLGA 병기 퇴행률·장상피화생 개선율을 유의하게 향상시킨다[^3]. 네트워크 메타분석 수준에서 중성약 병용의 유효성이 확인되었다[^106][^107]. 실제 임상(real-world) 관찰에서도 보조 한약의 유효성이 확인되었다[^112]. 침구 치료가 유효하며[^69][^152], 데이터마이닝을 통한 지역별 투약 규율이 분석되었다[^131]. 활혈화어법이 위암 전단계 병변 치료에 응용되는 연구 동향도 정리되었다[^152].
-⑤ **예후**: 위축·장상피화생은 조기 개입 시 부분적으로 가역적일 수 있으나, 고등급 상피내종양(HGIN)으로의 전환은 위암 위험을 크게 높인다. 중의 변증 패턴에 기반한 예측모델이 HGIN 전환 위험을 예측한다[^113].
+④ **치료**: 육군자탕·가감사군자탕·반하사심탕·소위염산·위수캡슐·위안산·위강복·강위과립·자생탕·모라단·이위소어과립·이련과립·WW-1 등 다수의 근거가 축적되어 있다[^10][^12][^28][^53][^71][^76][^77][^78][^87][^89][^103][^130][^136][^137][^141][^142][^143][^144][^146]. 제균·점막보호 표준치료에 보비익기·활혈거어·청열해독 한약을 병용한 통합의학 치료가 내시경·병리 소견 개선에서 이점을 보였다는 보고가 있다[^2]. 경구 중성약과 4제 요법 병용의 유효성이 네트워크 메타분석에서 확인되었고[^106], 49편 5,218명을 통합한 별도 네트워크 메타분석에서는 모든 중성약+통상치료 조합이 통상치료 단독보다 임상 반응률을 높였으며 웨이푸춘(Weifuchun)·치즈웨이퉁(Qizhi Weitong)·모라단 병용이 H. pylori 억제율에서, 웨이수(Weisu)·향사양위환 병용이 이상반응 감소에서 상대적 이점을 보였다(앞 세 제제의 한자 표기는 원 보고에서 확인되지 않아 로마자를 그대로 둔다)[^101]. 실제 임상(real-world) 관찰에서도 보조 한약의 유효성이 확인되었다[^107]. 침구 치료가 유효하며[^69][^114], 데이터마이닝을 통한 지역별 투약 규율이 분석되었다[^131]. 활혈화어법이 위암 전단계 병변 치료에 응용되는 연구 동향도 정리되었다[^146].
+
+명의 임상경험을 자료 기반으로 분석한 연구도 축적되었다. 장상피화생을 동반한 만성 위축성 위염 치험 276례·처방 625건을 분석한 연구에서는 이전규(李佃貴) 교수의 용약 특징으로 방향성 약재와 고한(苦寒) 약재의 배오, 건비(健脾) 위주의 운비(運脾), 이기약(理氣藥)의 적극적 활용이 도출되었고, 기존의 양음활혈(養陰活血) 접근에 더해 화탁해독(化濁解毒)·성비행기(醒脾行氣) 치법이 제안되었다[^24]. 만성 위축성 위염 228례를 후향 분석하고 전문가 면담을 결합한 연구에서는 유봉빈(劉鳳斌) 교수의 병기 인식이 비허기체(脾虛氣滯)·울열(鬱熱)·위락혈어(胃絡血瘀)로 정리되고, 6개 변증형과 태자삼·복령·백출·감초·절패모·해표초·대복피·지각·자소경·백화사설초·반지련·아출 등 12개 핵심 약물이 도출되었다[^29]. 만성 위축성 위염에 대한 중의약 예방·치료 연구 동향[^30][^31], 중서의 결합 연구 진전[^45], 비위허한형의 임상연구 진전[^46], 중의 진단·변증 분류에 기반한 치료 현황과 과제[^50]를 정리한 종설도 이어지고 있으나, 이들 종설은 대개 소규모 무작위대조시험과 관찰연구를 요약한 것이어서 개별 처방의 권고 근거로 직접 사용하기는 어렵다.
+⑤ **예후**: 위축·장상피화생은 조기 개입 시 부분적으로 가역적일 수 있으나, 고등급 상피내종양(HGIN)으로의 전환은 위암 위험을 크게 높인다. 만성 위축성 위염 환자 201명(HGIN 32명·비HGIN 169명)을 후향 분석해 중의 변증 유형과 임상·내시경·병리 변수를 결합한 위험예측모델이 개발되어, 변증 정보가 HGIN 전환 위험층화에 기여할 수 있음이 제시되었다[^108].
 ⑥ **관리**: OLGA III~IV기·이형성 동반 환자는 1~3년 간격 내시경 추적이 필요하며, 한의 중재는 정기 내시경 추적과 병행하는 보조 치료로 위치한다.
 
 ### 4. 담즙 역류성·특수 형태 위염군 (KCD-8: K29.6 관련)
@@ -445,7 +465,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 ① **코드**: K29.4/K29.5 + B98.0(추가부호).
 ② **병인병기**: 사기(邪氣, 병원체)가 위(胃)에 정체하여 비위습열을 형성, 만성화되면 비기허로 전변한다.
 ③ **병태생리**: H. pylori의 CagA·VacA 독성인자가 위점막 염증·발암 경로를 활성화한다. [교과서적 근거] 황련·대황의 억제 효과[^15], MUC1·MUC5AC 발현과 변증의 상관성[^126].
-④ **치료**: 표준 4제 요법에 청열·건비 한약을 병용하면 제균율·증상 개선에 유효하다[^23]. 온위서·양위서 등 중성약이 다기관 연구에서 유효성을 보였고[^75], 혈위 매선요법+4제 요법[^127], 침+청화통강탕 병용[^139], WW-1(다기관 RCT[^109], 프로토콜[^147])의 근거가 축적되어 있다. 한약이 H. pylori 관련 소화성 궤양 치료의 체계적 고찰·메타분석에서 유효성을 보였다[^133][^134].
+④ **치료**: 표준 4제 요법에 청열·건비 한약을 병용하면 제균율·증상 개선에 유효하다[^23]. 온위서·양위서 등 중성약이 다기관 연구에서 유효성을 보였고[^74], 혈위 매선요법+4제 요법[^127], 침+청화통강탕 병용[^139], WW-1(다기관 RCT[^109], 프로토콜[^147])의 근거가 축적되어 있다. PPI 포함 요법에 한약·천연물을 병용하면 제균율이 높아진다는 체계적 고찰·메타분석도 보고되었다[^135]. 한약이 H. pylori 관련 소화성 궤양 치료의 체계적 고찰·메타분석에서 유효성을 보였다[^133][^134].
 ⑤ **예후**: 제균 성공 시 염증은 호전되나 이미 진행된 위축·장상피화생은 완전히 역전되지 않을 수 있어 화학예방적 접근이 필요하다[^5].
 ⑥ **관리**: 제균 치료 후에도 위축·장상피화생 소견이 남은 환자는 보조 한약과 정기 내시경 추적을 병행한다.
 
@@ -455,12 +475,12 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 ### 1. 예후
 
-한약·침·혈위도포 등 한의 중재는 위염의 증상 완화·위점막 병리 개선·삶의 질 향상에 유용하며, 특히 만성 위축성 위염의 위암 진행 억제 측면에서 임상적 가치가 크다[^3][^36][^39]. 다만 다수의 메타분석이 포함 연구의 질이 낮고 진단·평가 기준이 비표준화되어 있음을 지적하므로[^157], 치료 반응과 경과는 변증 유형·H. pylori 감염 여부·동반 질환·치료 순응도에 따라 개인차가 크다. 기체혈어·비기허증 변증은 위점막 악성 병변 진행 위험이 높은 것으로 보고되며[^144], 데이터에 기반한 예측모델이 고등급 상피내종양 전환 위험을 평가한다[^113].
+한약·침·혈위도포 등 한의 중재는 위염의 증상 완화·위점막 병리 개선·삶의 질 향상에 유용하며, 특히 만성 위축성 위염의 위암 진행 억제 측면에서 임상적 가치가 기대된다[^2][^36][^39]. 다만 다수의 메타분석이 포함 연구의 질이 낮고 진단·평가 기준이 비표준화되어 있음을 지적하며[^97][^156], 실제로 향사양위환 메타분석의 H. pylori 제균율[^97]이나 한약 전반의 산조·식욕부진 지표[^52]처럼 유의차가 확인되지 않은 결과도 함께 보고되어 있다. 치료 반응과 경과는 변증 유형·H. pylori 감염 여부·동반 질환·치료 순응도에 따라 개인차가 크다. 기체혈어·비기허증 변증은 위점막 악성 병변 진행 위험이 높은 것으로 보고되며[^144], 변증 정보를 포함한 예측모델이 고등급 상피내종양 전환 위험을 층화한다[^108].
 
 ### 2. 관리 원칙
 
 - H. pylori 양성이면 제균 요법과 함께 청열·건비·화위 한약을 병용하여 제균율을 높이고 증상·재발을 관리한다[^15][^23][^74].
-- 위암 전단계 병변(위축·장상피화생·이형성증) 환자는 내시경·혈청 지표(펩시노겐·가스트린) 추적 관찰과 함께 점막 가역성을 유도하는 한약·침 치료를 고려한다[^77][^110][^136].
+- 위암 전단계 병변(위축·장상피화생·이형성증) 환자는 내시경·혈청 지표(펩시노겐·가스트린) 추적 관찰과 함께 점막 가역성을 유도하는 한약·침 치료를 고려한다[^9][^77][^109][^136].
 - 음주·NSAIDs·스테로이드·자극성 식이·과식·흡연 등 유발 요인을 줄이고, 정서 스트레스·수면을 관리한다[^111][^100].
 - 감초 함유 처방 사용 시 전해질 불균형(가성알도스테론증) 등 잠재적 부작용에 주의한다.
 
@@ -513,11 +533,11 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 **Q1. 만성 위염에도 침 치료가 효과가 있나요?**
 
-침 치료가 만성 위축성 위염 증상 개선에 유효하며, 메타분석·시퀀셜 분석 수준에서도 근거가 확인된다[^152]. 침·뜸 병행은 수면 장애 동반 만성 위염의 증상·수면 질을 개선한다[^111]. 다만 방법론적 이질성이 커서 핵심 결과지표 표준화가 필요하다는 지적이 있다[^157].
+침 치료가 만성 위축성 위염 증상 개선에 유효하며[^69], 무작위 비교에서 총유효율·내시경·조직병리 개선율이 대조군보다 높았다는 보고가 있다[^114]. 만성 표층성 위염에서는 배유혈·모혈 배합 전침+뜸이 삶의 질 지표를 개선하였다[^115]. 침·뜸 병행은 수면 장애 동반 만성 위염의 증상·수면 질을 개선한다[^110]. 다만 통합 추정치를 제시할 메타분석은 아직 계획서 단계이며[^152], 방법론적 이질성이 커서 핵심 결과지표 표준화가 필요하다는 지적이 있다[^156].
 
 **Q2. 위축성 위염(전암 병변)에 한약이 도움이 되나요?**
 
-육군자탕이 양약 병용 시 임상 유효율·증상 개선에서 우수하고 안전하다[^136]. 가감사군자탕·위수캡슐·소위염산·WW-1 등이 위축·장상피화생·이형성증을 개선한다는 근거가 축적되어 있다[^10][^77][^110]. 다만 이미 진행된 위축·이형성의 완전한 역전을 보장하지는 않으므로, 정기 내시경 추적을 병행해야 한다.
+육군자탕이 양약 병용 시 임상 유효율·증상 개선에서 우수하고 안전하다[^136]. 가감사군자탕·위수캡슐·소위염산·WW-1 등이 위축·장상피화생·이형성증을 개선한다는 근거가 축적되어 있다[^10][^71][^77][^109]. 다만 이미 진행된 위축·이형성의 완전한 역전을 보장하지는 않으므로, 정기 내시경 추적을 병행해야 한다.
 
 **Q3. 헬리코박터 파일로리 감염 위염에 한약을 써도 되나요?**
 
@@ -529,7 +549,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 
 **Q5. 위염 환자에게 약침·혈위도포도 활용되나요?**
 
-건비산 혈위 도포와 한약 탕제 병행이 탕제 단독보다 유효율·위 운동성 개선에 더 효과적이다[^33]. 혈위 매선요법도 만성 위축성 위염의 위장관 호르몬 조절에 활용된다[^112].
+건비산 혈위 도포와 한약 탕제 병행이 탕제 단독보다 유효율·위 운동성 개선에 더 효과적이다[^32]. 혈위 매선요법도 만성 위염 환자의 뉴클레오티드·위장관 호르몬 조절에 활용된다[^111].
 
 **Q6. 한약을 먹으면 부작용이 없나요?**
 
@@ -552,26 +572,25 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^5]: Chemoprevention strategies for precancerous gastric lesions beyond Helicobacter pylori eradication. Tai Zhang 외. _QJM: An International Journal of Medicine_. 2025-01-28. [문헌 고찰] [DOI 10.1093/qjmed/hcaf030](https://doi.org/10.1093/qjmed/hcaf030) — 헬리코박터 파일로리 제균만으로는 위암 예방 효과가 제한적이어서 화학예방·병용요법의 필요성이 대두되며, 한의약이 보조적 화학예방 전략으로 검토된다.
 [^7]: [Sputum analysis in patients with "disharmony of stomach"]. Chen N 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2004-09. [관찰연구] [DOI 10.3736/jcim20040510](https://doi.org/10.3736/jcim20040510) [PMID 15383255](https://pubmed.ncbi.nlm.nih.gov/15383255/) — 위불화(胃不和) 환자의 객담 성상 분석에서 변증과 객관적 소견의 상관성이 관찰되었다.
 [^8]: [Effect of Chinese drugs for strengthening Pi, harmonizing Wei, and dispersing blood stasis on the expression of gastric mucosal heat shock protein 70 in chronic atrophic gastritis patients]. Thou JH 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-04. [임상시험] [PMID 26065096](https://pubmed.ncbi.nlm.nih.gov/26065096/) — 건비화위·산어(散瘀) 한약이 만성 위축성 위염 환자의 임상 증상과 위점막 병리 지표를 개선하였다.
-[^9]: [Observation on therapeutic effect of acupuncture combined with drug for treatment of intestinal metaplasia of chronic atrophic gastritis]. Lu Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2005-07. [임상시험] [PMID 16309129](https://pubmed.ncbi.nlm.nih.gov/16309129/) — 침 치료와 한약을 병행하면 위점막 장상피화생에 유효한 치료 반응을 보였다.
+[^9]: [Observation on therapeutic effect of acupuncture combined with drug for treatment of intestinal metaplasia of chronic atrophic gastritis]. Lu Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2005-07. [임상시험] [PMID 16309129](https://pubmed.ncbi.nlm.nih.gov/16309129/) — 장상피화생 동반 만성 위축성 위염 51명에서 가감사군자탕 단독군 대비 침 병용군은 증상 개선에는 유의차가 없었으나 내시경·병리 유효율이 높았다.
 [^10]: [Treatment of intestinal metaplasia and atypical hyperplasia of gastric mucosa with xiao wei yan powder]. Liu XR 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-10. [임상시험] [PMID 1302542](https://pubmed.ncbi.nlm.nih.gov/1302542/) — 소위염산(小胃炎散)이 위점막 장상피화생·비정형 증식을 개선하였다.
 [^11]: [Clinical and pathological study of weiyan serial recipes in the treatment of gastric precancerous lesions]. Li Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2011-12. [임상시험] [PMID 22384550](https://pubmed.ncbi.nlm.nih.gov/22384550/) — 위염서열방(胃炎序列方)이 위암 전단계 병변의 병리 소견을 개선하였다.
 [^12]: [Overview of clinical study on traditional Chinese medicine invigorating spleen and stomach, promoting blood circulation and remove blood stasis in treatment of chronic atrophic gastritis]. Liu M 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2012-11. [문헌 고찰] [PMID 23373202](https://pubmed.ncbi.nlm.nih.gov/23373202/) — 건비화위·활혈해독 한약의 임상 연구를 개관하여 위축성 위염 치료의 이론적 틀을 정리하였다.
-[^13]: [Analysis of clinical efficacy of combination therapy of small needle knife and Daqinjiu Tang in treatment of periarthritis of shoulder]. Wang YJ. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2013-12. [임상시험] [PMID 24791510](https://pubmed.ncbi.nlm.nih.gov/24791510/) — 소침도(小針刀)와 대진구탕 병용이 만성 위축성 위염에 유효하였다.
-[^14]: The efficacy and safety of Jian-Wei-Qu-Tong Pills for the treatment of chronic non-atrophic gastritis (spleen and stomach qi deficiency with damp-heat stasis syndrome): study protocol for a phase II, randomized controlled trial. Zhang XX 외. _Trials_. 2014-07-07. [임상시험] [DOI 10.1186/1745-6215-15-272](https://doi.org/10.1186/1745-6215-15-272) [PMID 25002101](https://pubmed.ncbi.nlm.nih.gov/25002101/) — 건위거통환(健胃祛痛丸)이 만성 비위축성 위염의 증상 개선에 유의하였다.
+[^14]: The efficacy and safety of Jian-Wei-Qu-Tong Pills for the treatment of chronic non-atrophic gastritis (spleen and stomach qi deficiency with damp-heat stasis syndrome): study protocol for a phase II, randomized controlled trial. Zhang XX 외. _Trials_. 2014-07-07. [임상시험 계획서, 240명 계획] [DOI 10.1186/1745-6215-15-272](https://doi.org/10.1186/1745-6215-15-272) [PMID 25002101](https://pubmed.ncbi.nlm.nih.gov/25002101/) — 건위거통환(健胃祛痛丸)의 제2상 다기관 이중맹검 위약대조 시험 설계를 공개한 계획서이며, 유효성 결과가 보고된 완료 연구가 아니다.
 [^15]: A study of Helicobacterium pylori and prevention and treatment of chronic atrophic gastritis. Zhang L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1997-03. [실험연구] [PMID 10437235](https://pubmed.ncbi.nlm.nih.gov/10437235/) — 황련·대황 등 청열 계열 한약재가 헬리코박터 파일로리에 강한 억제 효과를 보여 제균 보조요법으로서의 근거를 뒷받침한다.
-[^16]: Medicinal herbs used in pairs for treatment of 98 cases of chronic gastritis. Xia J. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2004-09. [임상시험] [PMID 15510804](https://pubmed.ncbi.nlm.nih.gov/15510804/) — 약대(藥對, 한약 배오) 형태의 처방이 만성 위염 98례에서 임상 유효성을 보였다.
+[^16]: Medicinal herbs used in pairs for treatment of 98 cases of chronic gastritis. Xia J. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2004-09. [임상시험] [PMID 15510804](https://pubmed.ncbi.nlm.nih.gov/15510804/) — 만성 위염 98례 무작위 비교에서 약대(藥對) 중심 처방군의 총유효율이 96%로 반하사심탕 대조군보다 높았다.
 [^17]: Bacillus as a potential diagnostic marker for yellow tongue coating. Ye J 외. _Scientific reports_. 2016-08-31. [실험연구] [DOI 10.1038/srep32496](https://doi.org/10.1038/srep32496) [PMID 27578261](https://pubmed.ncbi.nlm.nih.gov/27578261/) — 황태(黃苔) 설태 환자에서 Bacillus 속 세균이 특징적으로 검출되어 설진의 미생물학적 근거를 시사한다.
 [^18]: Autoimmune hemolytic anemia associated with a formulation of traditional Chinese medicines. Shen Y. _American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists_. 2009-10-01. [증례 보고] [DOI 10.2146/ajhp080525](https://doi.org/10.2146/ajhp080525) [PMID 19767374](https://pubmed.ncbi.nlm.nih.gov/19767374/) — 한약 복합제제 복용 후 자가면역 용혈성 빈혈이 발생한 증례로, 장기간 복합 한약 사용 시 혈액학적 이상반응 감시가 필요함을 보여준다.
 [^20]: [Effect of modified Zhengqi Powder in treating chronic gastritis and on patients' life quality and inflammatory factors]. Liu XQ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-01. [임상시험] [DOI 10.19540/j.cnki.cjcmm.2019.0004](https://doi.org/10.19540/j.cnki.cjcmm.2019.0004) [PMID 30868830](https://pubmed.ncbi.nlm.nih.gov/30868830/) — 가감정기산(加減正氣散)이 만성 위염 환자의 삶의 질과 이상반응 발생률을 개선하였다.
-[^21]: Ultrastructural observation of the gastric mucosa in chronic gastritis patients treated by traditional Chinese medicine. Zhang ZL 외. _World journal of gastroenterology_. 1997-09-15. [임상시험] [DOI 10.3748/wjg.v3.i3.185](https://doi.org/10.3748/wjg.v3.i3.185) [PMID 27239147](https://pubmed.ncbi.nlm.nih.gov/27239147/) — 한의 치료 후 만성 위염 환자의 위점막 초미세구조가 호전되어 병리조직학적 근거를 뒷받침한다.
+[^21]: Ultrastructural observation of the gastric mucosa in chronic gastritis patients treated by traditional Chinese medicine. Zhang ZL 외. _World journal of gastroenterology_. 1997-09-15. [임상시험] [DOI 10.3748/wjg.v3.i3.185](https://doi.org/10.3748/wjg.v3.i3.185) [PMID 27239147](https://pubmed.ncbi.nlm.nih.gov/27239147/) — 비위허한형 16명·간위불화형 15명에서 변증별 위점막 초미세구조 병변 양상이 서로 달랐고, 건비온위탕·소간화위탕 3개월 투여 후 대부분 정상화·호전되었다.
 [^22]: [Study on effect of spleen invigorating, qi benefiting and dampness removing Chinese drugs and Western medicine on serum epidermal growth factor in chronic atrophic gastritis patients]. Sun LM 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2001-07. [임상시험] [PMID 12575395](https://pubmed.ncbi.nlm.nih.gov/12575395/) — 건비익기·화습 한약과 양약 병용이 만성 위축성 위염 환자의 혈청 표피성장인자(EGF) 수치를 개선하였다.
 [^23]: [Efficacy of Chinese Medicine Combined with Fixed Quadruple Therapy on Hp Positive Chronic Gastritis]. Wang N 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-04. [임상시험] [PMID 30650494](https://pubmed.ncbi.nlm.nih.gov/30650494/) — 한약과 표준 4제 요법 병용이 헬리코박터 양성 만성 위염의 제균율과 증상 개선에 유효하였다.
-[^24]: [Medicine-syndrome research and analysis of professor Li Dian-gui in treating chronic atrophic gastritis with intestinal metaplasia]. Liu XF 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2017-05. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.20170224.013](https://doi.org/10.19540/j.cnki.cjcmm.20170224.013) [PMID 29082709](https://pubmed.ncbi.nlm.nih.gov/29082709/) — 이전규(李佃貴) 교수의 변증-용약 경험을 정리하여 만성 위축성 위염의 처방 규율을 도출하였다.
+[^24]: [Medicine-syndrome research and analysis of professor Li Dian-gui in treating chronic atrophic gastritis with intestinal metaplasia]. Liu XF 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2017-05. [관찰연구] [DOI 10.19540/j.cnki.cjcmm.20170224.013](https://doi.org/10.19540/j.cnki.cjcmm.20170224.013) [PMID 29082709](https://pubmed.ncbi.nlm.nih.gov/29082709/) — 이전규(李佃貴) 교수의 장상피화생 동반 만성 위축성 위염 치험 276례·처방 625건을 분석해 화탁해독·성비행기 치법과 방향성·고한 약재 배오라는 용약 특징을 도출하였다.
 [^25]: Evidence-based Chinese medicine clinical practice guideline for stomach pain in Hong Kong. Zhong LLD 외. _Chinese journal of integrative medicine_. 2017-10. [임상진료지침] [DOI 10.1007/s11655-016-2586-y](https://doi.org/10.1007/s11655-016-2586-y) [PMID 27338825](https://pubmed.ncbi.nlm.nih.gov/27338825/) — 홍콩 근거기반 한의 임상진료지침이 위완통(胃脘痛)의 변증별 표준 치법을 제시한다.
 [^26]: Evidence Base of Clinical Studies on Qi Gong: A Bibliometric Analysis. Zhang YP 외. _Complementary therapies in medicine_. 2020-05. [체계적 고찰] [DOI 10.1016/j.ctim.2020.102392](https://doi.org/10.1016/j.ctim.2020.102392) [PMID 32444061](https://pubmed.ncbi.nlm.nih.gov/32444061/) — 기공(氣功)에 관한 임상 연구의 서지학적 분석으로, 위장관 질환을 포함한 폭넓은 적응증에서 기공의 근거 기반이 축적되고 있음을 보여준다.
 [^27]: Efficacy and safety of Elian Granules in treating chronic atrophic gastritis: study protocol for a randomized, double-blind, placebo-controlled, multicenter clinical trial. Gu Z 외. _Trials_. 2022-05-24. [임상시험] [DOI 10.1186/s13063-022-06395-6](https://doi.org/10.1186/s13063-022-06395-6) [PMID 35610625](https://pubmed.ncbi.nlm.nih.gov/35610625/) — 이련과립(二蓮顆粒)이 만성 위축성 위염 치료의 무작위대조시험 프로토콜로 등록되어 향후 근거 축적이 기대된다.
 [^28]: Mechanism of action of heat-clearing and detoxifying herbs in the treatment of erosive gastritis. Zhou F 외. _World journal of gastroenterology_. 2025-08-07. [문헌 고찰] [DOI 10.3748/wjg.v31.i29.110133](https://doi.org/10.3748/wjg.v31.i29.110133) [PMID 40799369](https://pubmed.ncbi.nlm.nih.gov/40799369/) — 청열해독 한약의 작용기전을 정리하여 미란성 위염 치료의 이론적 근거를 제공한다.
-[^29]: [Mining analysis and experience summary for chronic atrophic gastritis cases treated by Professor LIU Feng-bin]. Hou ZK 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2015-06. [관찰연구] [PMID 26552186](https://pubmed.ncbi.nlm.nih.gov/26552186/) — 이전규 교수의 만성 위축성 위염 치험례를 마이닝 분석하여 처방 경험을 체계화하였다.
+[^29]: [Mining analysis and experience summary for chronic atrophic gastritis cases treated by Professor LIU Feng-bin]. Hou ZK 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2015-06. [관찰연구] [PMID 26552186](https://pubmed.ncbi.nlm.nih.gov/26552186/) — 유봉빈(劉鳳斌) 교수의 만성 위축성 위염 228례를 마이닝 분석하고 전문가 면담으로 검증해 6개 변증형과 12개 핵심 약물을 도출하였다.
 [^30]: Research Advances in Traditional Chinese Medicine for the Prevention and Treatment of Chronic Atrophic Gastritis. Kaijian Liu 외. _Journal of Contemporary Medical Practice_. 2025-09-18. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(09).28](https://doi.org/10.53469/jcmp.2025.07(09).28) — 만성 위축성 위염 예방·치료의 중의약 연구 동향을 정리하였다.
 [^31]: The Research Progress of Traditional Chinese Medicine Therapy for Chronic Atrophic Gastritis. Jing Wang 외. _Journal of Contemporary Medical Practice_. 2024-08-21. [문헌 고찰] [DOI 10.53469/jcmp.2024.06(08).29](https://doi.org/10.53469/jcmp.2024.06(08).29) — 만성 위축성 위염 중의약 치료의 최신 연구 진전을 개관하였다.
 [^32]: Clinical Study on Acupoint Application of Jianpi Powder Combined with Chinese Medicine Decoction in Chronic Atrophic Gastritis. Xiaoyang Chen 외. _Journal of Experimental and Clinical Application of Chinese Medicine_. 2022-11-15. [임상시험] [DOI 10.62767/jecacm304.0408](https://doi.org/10.62767/jecacm304.0408) — 건비산(健脾散) 혈위 도포와 한약 탕제 병행이 탕제 단독보다 임상 유효율·위 운동성 개선에 우수하였다.
@@ -593,13 +612,13 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^49]: [Research on differentially expressed genes related to substance and energy metabolism between healthy volunteers and splenasthenic syndrome patients with chronic superficial gastritis]. Ze-Min Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2013-02. [실험연구] [PMID 23646466](https://pubmed.ncbi.nlm.nih.gov/23646466/) — 건강인과 만성 위축성 위염 환자 간 물질·에너지 대사 관련 유전자 발현 차이가 확인되었다.
 [^50]: [Status, Challenges, and Prospects of Treating Chronic Atrophic Gastritis by Chinese Medical Diagnosis and Treatment]. Wei W 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-12. [문헌 고찰] [PMID 26882601](https://pubmed.ncbi.nlm.nih.gov/26882601/) — 중의 진단·변증 분류를 통한 만성 위축성 위염 치료 현황과 과제를 개관하였다.
 [^51]: [Correlation Research on HGF and c-Met of Chronic Erosive Gastritis Patients]. Wang YG 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2017-04. [관찰연구] [PMID 30650495](https://pubmed.ncbi.nlm.nih.gov/30650495/) — 만성 미란성 위염 환자의 HGF·c-Met 발현이 변증 유형과 상관관계를 보였다.
-[^52]: Efficacy of traditional Chinese medicine for chronic gastritis: A meta-analysis of randomized controlled trials. Yan ZX 외. _Medicine_. 2019-05. [메타분석] [DOI 10.1097/MD.0000000000015710](https://doi.org/10.1097/MD.0000000000015710) [PMID 31096520](https://pubmed.ncbi.nlm.nih.gov/31096520/) — 무작위대조시험 메타분석에서 중의약이 만성 위염의 증상·유효율 개선에 유의한 효과를 보였다.
+[^52]: Efficacy of traditional Chinese medicine for chronic gastritis: A meta-analysis of randomized controlled trials. Yan ZX 외. _Medicine_. 2019-05. [메타분석] [DOI 10.1097/MD.0000000000015710](https://doi.org/10.1097/MD.0000000000015710) [PMID 31096520](https://pubmed.ncbi.nlm.nih.gov/31096520/) — 16편 1,673명 메타분석에서 한약군이 통상 약물요법군보다 총유효율·내시경 유효율·위완창만·위통·애기 점수에서 우수하였으나 산조·식욕부진에서는 유의차가 없었다.
 [^53]: Chinese Classical Formula Sijunzi Decoction and Chronic Atrophic Gastritis: Evidence for Treatment Approach?. Gan D 외. _Evidence-based complementary and alternative medicine : eCAM_. 2017. [체계적 고찰] [DOI 10.1155/2017/9012929](https://doi.org/10.1155/2017/9012929) [PMID 29138645](https://pubmed.ncbi.nlm.nih.gov/29138645/) — 사군자탕이 만성 위축성 위염의 치료 반응과 밀접하게 관련된다는 체계적 근거가 확인되었다.
 [^54]: [Changes in microstructure and ultrastructure between differentiation of cold and heat syndrome in chronic atrophied gastritis and exfoliative cells]. Li Y 외. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1989-06. [관찰연구] [PMID 2776276](https://pubmed.ncbi.nlm.nih.gov/2776276/) — 한열(寒熱) 변증에 따라 만성 위염 위점막의 미세구조·초미세구조가 다르게 나타났다.
 [^55]: [Study of Th1/Th2 balance in peripheral blood of chronic gastritis patients with Pi-Wei damp-heat syndrome]. Liang JK 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-03. [관찰연구] [PMID 22686075](https://pubmed.ncbi.nlm.nih.gov/22686075/) — 비위습열증 만성 위염 환자에서 Th1/Th2 균형이 편향되어 면역학적 변증 근거를 제공한다.
 [^56]: [Correlation Study on Chinese Medical Syndrome Types of Chronic Atrophic Gastritis Patients, Hp, and IL-1β Polymorphism]. Zhang JZ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2015-12. [관찰연구] [PMID 26882603](https://pubmed.ncbi.nlm.nih.gov/26882603/) — 만성 위축성 위염의 중의 변증 유형이 헬리코박터 감염과 상관관계를 보였다.
 [^57]: Relationship between gene expressions of aquaporin 3 and 4 and various degrees of spleen-stomach dampness-heat syndrome in chronic superficial gastritis. Mei WX 외. _Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine_. 2010-02. [관찰연구] [DOI 10.3736/jcim20100203](https://doi.org/10.3736/jcim20100203) [PMID 20141731](https://pubmed.ncbi.nlm.nih.gov/20141731/) — 비위습열 정도에 따라 위점막 아쿠아포린(AQP) 3·4 유전자 발현이 달라졌다.
-[^58]: [Exploration of the correlation between Chinese medicine syndrome types of verrucous gastritis and the pressions of gastric mucosal hypoxia-inducible factor-1alpha as well as downstream molecules]. Bu YF 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-10. [관찰연구] [PMID 23163139](https://pubmed.ncbi.nlm.nih.gov/23163139/) — 우췌(疣狀, verrucous) 위염의 변증 유형과 위점막 병리 소견의 상관성이 확인되었다.
+[^58]: [Exploration of the correlation between Chinese medicine syndrome types of verrucous gastritis and the pressions of gastric mucosal hypoxia-inducible factor-1alpha as well as downstream molecules]. Bu YF 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-10. [관찰연구] [PMID 23163139](https://pubmed.ncbi.nlm.nih.gov/23163139/) — 우췌상 위염 94명·대조군 30명 비교에서 위락혈어증의 HIF-1α, 비위습열증의 COX-2 발현과 H. pylori 감염률이 가장 높아 변증의 분자적 특이성이 시사되었다.
 [^59]: [Histopathology of spleen deficiency syndrome of chronic atrophic gastritis and its ultrastructural changes]. Ren HY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-10. [관찰연구] [PMID 1302540](https://pubmed.ncbi.nlm.nih.gov/1302540/) — 만성 위축성 위염의 비허증(脾虛證) 병리조직학적 기초와 초미세구조 변화가 확인되어 비허 변증의 생물학적 실체를 뒷받침한다.
 [^60]: [Relationship between Pi-Wei damp-heat syndrome with expressions of nuclear factor-kappaB mRNA and heat shock protein 70 mRNA in patients with chronic gastritis]. Cui NJ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2010-01. [관찰연구] [PMID 20353025](https://pubmed.ncbi.nlm.nih.gov/20353025/) — 비위습열증에서 NF-κB mRNA 및 관련 단백 발현이 유의하게 상승하였다.
 [^61]: [Expressions of HSP 70 and NF-kappaB in the peripheral blood lymphocyte of chronic gastritis patients of different syndrome patterns]. Hu L 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-09. [관찰연구] [PMID 23185755](https://pubmed.ncbi.nlm.nih.gov/23185755/) — 만성 위염 환자 말초혈 림프구의 HSP70·NF-κB 발현이 변증 유형과 관련되었다.
@@ -609,11 +628,11 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^65]: [The oral microbial fingerprint on the greasy tongue coating of patients with chronic gastritis]. Li FT 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-10. [관찰연구] [PMID 23163140](https://pubmed.ncbi.nlm.nih.gov/23163140/) — 만성 위염 환자의 니태 설태에서 특징적 구강 미생물 지문이 확인되었다.
 [^66]: Blood flow differences in cun-kou (radial) artery and anterior tibial artery: normal people vs patients with chronic gastritis. Wang C 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2018-12. [관찰연구] [PMID 32186139](https://pubmed.ncbi.nlm.nih.gov/32186139/) — 정상인과 위장질환 환자 간 촌구(寸口)·경골전동맥 혈류 차이가 확인되어 맥진의 혈류역학적 근거를 시사한다.
 [^67]: Correlation analysis between characteristics under gastroscope and image information of tongue in patients with chronic gastriti. Shang Z 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-02. [관찰연구] [DOI 10.19852/j.cnki.jtcm.2022.01.006](https://doi.org/10.19852/j.cnki.jtcm.2022.01.006) [PMID 35322639](https://pubmed.ncbi.nlm.nih.gov/35322639/) — 내시경 소견과 설상(舌象) 영상 정보 간 상관관계가 확인되어 설진의 위내시경 대응 근거를 제공한다.
-[^68]: [Clinical research and mechanical inquiry in the treatment of chronic superficial gastritis using ziwuliuzhu day-prescription of acupoint]. Zhou ZL. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1991-02. [임상시험] [PMID 2060058](https://pubmed.ncbi.nlm.nih.gov/2060058/) — 자화(滋化) 처방을 이용한 만성 표층성 위염 치료의 임상·기전 연구가 수행되었다.
+[^68]: [Clinical research and mechanical inquiry in the treatment of chronic superficial gastritis using ziwuliuzhu day-prescription of acupoint]. Zhou ZL. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1991-02. [임상시험] [PMID 2060058](https://pubmed.ncbi.nlm.nih.gov/2060058/) — 자오류주(子午流注) 납일법의 개혈·폐혈 취혈군 간 총유효율에는 유의차가 없었으나, 침 자극 후 위액 산도·위액량의 양방향 조절과 혈청 가스트린 상승이 공통으로 관찰되었다.
 [^69]: Clinical research on acupuncture and moxibustion treatment of chronic atrophic gastritis. Gao X 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2007-06. [임상시험] [PMID 17710798](https://pubmed.ncbi.nlm.nih.gov/17710798/) — 침구 치료가 만성 위축성 위염의 증상 개선에 유효하였다.
 [^70]: TCM differential treatment of 57 cases of chronic gastritis complicated by ulcerative colitis. Meng M. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1999-03. [증례 보고] [PMID 10453577](https://pubmed.ncbi.nlm.nih.gov/10453577/) — 궤양성 대장염을 동반한 만성 위염 57례의 변증 치료 경험이 보고되었다.
 [^71]: [Clinical study of weishu capsule in treating precancerous lesions of chronic atrophic gastritis]. Lu W 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1998-12. [임상시험] [PMID 11475717](https://pubmed.ncbi.nlm.nih.gov/11475717/) — 위수(胃舒)캡슐이 만성 위축성 위염의 전암 병변을 개선하였다.
-[^72]: [Clinical study on treatment of chronic superficial gastritis with jinghua weikang capsule]. Zeng J 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-06. [임상시험] [PMID 16841668](https://pubmed.ncbi.nlm.nih.gov/16841668/) — 정화위강(荊花胃康)캡슐이 만성 표층성 위염 치료에 유효하였다.
+[^72]: [Clinical study on treatment of chronic superficial gastritis with jinghua weikang capsule]. Zeng J 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-06. [임상시험] [PMID 16841668](https://pubmed.ncbi.nlm.nih.gov/16841668/) — 만성 표층성 위염 90명에서 형화위강(荊花胃康)캡슐 고·저용량군 모두 소화불량 점수·삶의 질이 개선되었고 고용량군 효과가 가장 뚜렷하였으며 대조군은 돔페리돈이었다.
 [^73]: Clinical effects of the method for warming the middle-jiao and strengthening the spleen on gastric mucosa repair in chronic gastritis patients. Hu L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2008-09. [임상시험] [DOI 10.1016/s0254-6272(08)60044-8](https://doi.org/10.1016/s0254-6272(08)60044-8) [PMID 19004201](https://pubmed.ncbi.nlm.nih.gov/19004201/) — 온중건비(溫中健脾)법이 위점막을 개선하는 임상 효과를 보였다.
 [^74]: [A multicenter study of Chinese patent medicine wenweishu/yangweishu in the treatment of Helicobacter pylori positive patients with chronic gastritis and peptic ulcer]. "Wenweishu/yangweishu in the Treatment of Helicobacter pylori Positive Patients with Chronic Gastritis and Peptic Ulcer" Study Group 외. _Zhonghua yi xue za zhi_. 2010-01-12. [임상시험] [PMID 20356485](https://pubmed.ncbi.nlm.nih.gov/20356485/) — 온위서(溫胃舒)·양위서(養胃舒) 등 중성약이 헬리코박터 관련 위염 다기관 연구에서 유효성을 보였다.
 [^75]: Randomized double-blind clinical trial of Moluodan () for the treatment of chronic atrophic gastritis with dysplasia. Tang XD 외. _Chinese journal of integrative medicine_. 2016-01. [임상시험] [DOI 10.1007/s11655-015-2114-5](https://doi.org/10.1007/s11655-015-2114-5) [PMID 26424292](https://pubmed.ncbi.nlm.nih.gov/26424292/) — 모라단(摩羅丹)이 만성 위축성 위염 치료의 무작위 이중맹검 임상시험에서 유효성을 보였다.
@@ -638,25 +657,25 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^94]: [Study on gene differential expressions of substance and energy metabolism in chronic superficial gastritis patients of Pi deficiency syndrome and of pi-wei hygropyrexia syndrome]. Yang ZM 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2012-09. [실험연구] [PMID 23185754](https://pubmed.ncbi.nlm.nih.gov/23185754/) — 만성 표층성 위염의 물질·에너지 대사 관련 유전자 차등 발현이 확인되었다.
 [^95]: Imbalanced network biomarkers for traditional Chinese medicine Syndrome in gastritis patients. Li R 외. _Scientific reports_. 2013. [실험연구] [DOI 10.1038/srep01543](https://doi.org/10.1038/srep01543) [PMID 23529020](https://pubmed.ncbi.nlm.nih.gov/23529020/) — 위염 환자의 중의 변증에서 불균형 네트워크 생체표지자가 확인되어 변증의 시스템생물학적 근거를 제시한다.
 [^96]: Symptom clustering in chronic gastritis based on spectral clustering. Zhu W 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2014-08. [관찰연구] [DOI 10.1016/s0254-6272(15)30054-6](https://doi.org/10.1016/s0254-6272(15)30054-6) [PMID 25185372](https://pubmed.ncbi.nlm.nih.gov/25185372/) — 스펙트럼 군집분석으로 만성 위염의 증상 군집 양상이 확인되었다.
-[^97]: [Systematic review and Meta-analysis of efficacy and safety of Xiangsha Yangwei Pills in treatment of chronic gastritis]. Zhang ZD 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-06. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20200102.502](https://doi.org/10.19540/j.cnki.cjcmm.20200102.502) [PMID 32627502](https://pubmed.ncbi.nlm.nih.gov/32627502/) — 향사양위환(香砂養胃丸)이 만성 위염 치료의 체계적 고찰·메타분석에서 유효성·안전성을 보였다.
+[^97]: [Systematic review and Meta-analysis of efficacy and safety of Xiangsha Yangwei Pills in treatment of chronic gastritis]. Zhang ZD 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-06. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20200102.502](https://doi.org/10.19540/j.cnki.cjcmm.20200102.502) [PMID 32627502](https://pubmed.ncbi.nlm.nih.gov/32627502/) — 18편 1,720명 메타분석에서 향사양위환 병용군이 양약 단독보다 유효율이 높고 재발률·이상반응이 낮았으나 H. pylori 제균율에는 유의차가 없었고 포함 연구의 질이 낮았다.
 [^98]: [Systematic review and Meta-analysis of efficacy and safety of Yangwei Granules for chronic gastritis]. Ben-Gang Z 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2020-10. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20200314.503](https://doi.org/10.19540/j.cnki.cjcmm.20200314.503) [PMID 33350276](https://pubmed.ncbi.nlm.nih.gov/33350276/) — 양위과립(養胃顆粒)이 만성 위염 치료의 체계적 고찰·메타분석에서 유효성·안전성을 보였다.
 [^99]: Traditional Chinese Nursing Using Fennel With Coarse Salt for Ironing and Umbilical Moxibustion for Epigastric Pain With Spleen-stomach Vacuity Cold. Zhang YY 외. _Alternative therapies in health and medicine_. 2022-10. [임상시험] [PMID 35951072](https://pubmed.ncbi.nlm.nih.gov/35951072/) — 회향·조염 위약뜸과 배꼽뜸을 병행하는 전통 간호 중재가 위장관 증상 개선에 활용되었다.
 [^100]: Clinical study on microscopic syndrome differentiation and traditional Chinese medicine treatment for liver stomach disharmony in chronic gastritis. Bai CY 외. _World journal of gastrointestinal surgery_. 2024-05-27. [임상시험] [DOI 10.4240/wjgs.v16.i5.1377](https://doi.org/10.4240/wjgs.v16.i5.1377) [PMID 38817300](https://pubmed.ncbi.nlm.nih.gov/38817300/) — 미시적 변증에 기반한 중의약 치료가 간위불화형 만성 위염의 소화불량 증상·내시경 소견을 서양의학적 치료보다 개선하였다.
-[^101]: Unveiling the therapeutic effects of traditional Chinese patent medicines: A network meta-analysis on chronic atrophic gastritis. Ren B 외. _Medicine_. 2025-03-07. [메타분석] [DOI 10.1097/MD.0000000000041690](https://doi.org/10.1097/MD.0000000000041690) [PMID 40068066](https://pubmed.ncbi.nlm.nih.gov/40068066/) — 중성약 병용이 만성 위축성 위염 치료의 네트워크 메타분석에서 유효성을 입증하였다.
+[^101]: Unveiling the therapeutic effects of traditional Chinese patent medicines: A network meta-analysis on chronic atrophic gastritis. Ren B 외. _Medicine_. 2025-03-07. [메타분석] [DOI 10.1097/MD.0000000000041690](https://doi.org/10.1097/MD.0000000000041690) [PMID 40068066](https://pubmed.ncbi.nlm.nih.gov/40068066/) — 49편 5,218명 네트워크 메타분석에서 모든 중성약+통상치료 조합이 통상치료 단독보다 임상 반응률을 높였고, 일부 제제는 H. pylori 억제율·이상반응 감소에서 상대적 이점을 보였다.
 [^102]: Efficacy and safety of traditional Chinese medicine Elian Granule for chronic atrophic gastritis: a multi-center, randomized, double-blind, placebo-controlled study. Jia Q 외. _Frontiers in pharmacology_. 2025. [임상시험] [DOI 10.3389/fphar.2025.1545313](https://doi.org/10.3389/fphar.2025.1545313) [PMID 40356998](https://pubmed.ncbi.nlm.nih.gov/40356998/) — 이련과립(二蓮顆粒)이 만성 위축성 위염 치료의 무작위대조시험에서 유효성을 보였다.
 [^103]: Study on the drug selection law for treatment of chronic gastritis with spleen deficiency and stomach dryness by complex system entropy cluster. Shi CH 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-12. [관찰연구] [DOI 10.1016/s0254-6272(10)60059-3](https://doi.org/10.1016/s0254-6272(10)60059-3) [PMID 21287788](https://pubmed.ncbi.nlm.nih.gov/21287788/) — 비허습조형 만성 위염의 처방 약물 선택 규율이 분석되었다.
 [^104]: Efficacy and safety of Chinese herbal medicine Qirui Weishu capsule in treating chronic non-atrophic gastritis: A multicentre, double-blind, randomized controlled clinical trial. Chen HF 외. _Journal of ethnopharmacology_. 2022-08-10. [임상시험] [DOI 10.1016/j.jep.2022.115341](https://doi.org/10.1016/j.jep.2022.115341) [PMID 35551978](https://pubmed.ncbi.nlm.nih.gov/35551978/) — 기서위서(芪蕊胃舒)캡슐이 만성 비위축성 위염 치료에 유효하였다.
 [^105]: Systematic Biology Basis of Constitution and Essence of Traditional Chinese Medicine Syndromes in Spleen Qi Deficiency of Chronic Atrophic Gastritis. Guihua Tian 외. 2018. [임상시험] [DOI 10.2139/ssrn.3215547](https://doi.org/10.2139/ssrn.3215547) — 비기허증 만성 위축성 위염의 체질·본질에 관한 시스템생물학적 근거가 확인되었다.
 [^106]: Efficacy and safety of oral Chinese patent medicine combined with quadruple therapy for chronic atrophic gastritis: a systematic review and network meta-analysis. Dan Han 외. _Frontiers in Medicine_. 2026-06-23. [메타분석] [DOI 10.3389/fmed.2026.1859753](https://doi.org/10.3389/fmed.2026.1859753) — 중성약과 4제 요법 병용이 만성 위축성 위염 치료의 체계적 고찰·네트워크 메타분석에서 유효성을 보였다.
 [^107]: Efficacy and safety of adjunctive Chinese herbal decoction in treating Helicobacter pylori–positive chronic atrophic gastritis: a real-world retrospective study. Jian Wang 외. _Frontiers in Medicine_. 2026-01-12. [관찰연구] [DOI 10.3389/fmed.2025.1701915](https://doi.org/10.3389/fmed.2025.1701915) — 한약 보조 치료가 헬리코박터 양성 만성 위축성 위염의 실제 임상(real-world) 관찰에서 유효성을 보였다.
-[^108]: [Prediction model for transformation of chronic atrophic gastritis to high-grade intraepithelial neoplasia based on traditional Chinese medicine syndrome patterns]. Lin X 외. _Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences_. 2025-05-25. [관찰연구] [DOI 10.3724/zdxbyxb-2024-0542](https://doi.org/10.3724/zdxbyxb-2024-0542) [PMID 40394917](https://pubmed.ncbi.nlm.nih.gov/40394917/) — 중의 변증 패턴에 기반한 예측모델이 만성 위축성 위염의 고등급 상피내종양 전환 위험을 예측하였다.
+[^108]: [Prediction model for transformation of chronic atrophic gastritis to high-grade intraepithelial neoplasia based on traditional Chinese medicine syndrome patterns]. Lin X 외. _Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences_. 2025-05-25. [관찰연구] [DOI 10.3724/zdxbyxb-2024-0542](https://doi.org/10.3724/zdxbyxb-2024-0542) [PMID 40394917](https://pubmed.ncbi.nlm.nih.gov/40394917/) — 만성 위축성 위염 201명(HGIN 32명 포함)을 후향 분석해 변증 유형을 포함한 LASSO·로지스틱 기반 노모그램으로 고등급 상피내종양 전환 위험을 층화하였다.
 [^109]: Efficacy of Chinese medicine WW-1 in managing gastric atrophy and intestinal metaplasia in patients with chronic atrophic gastritis: A multicenter, randomized, double-blind, placebo-controlled trial. Yang Y 외. _Pharmacological research_. 2026-05. [임상시험] [DOI 10.1016/j.phrs.2026.108176](https://doi.org/10.1016/j.phrs.2026.108176) [PMID 41932668](https://pubmed.ncbi.nlm.nih.gov/41932668/) — 다기관 무작위이중맹검 위약대조 임상시험에서 WW-1이 위축·장상피화생을 유의하게 개선하였다.
 [^110]: Clinical Study on the Effect of Acupuncture and Moxibustion with the Method of Acupoints on the Treatment of Chronic Gastritis with Sleep Disorder. Shuai He. _Proceedings of Anticancer Research_. 2019-09-10. [임상시험] [DOI 10.26689/par.v3i5.1072](https://doi.org/10.26689/par.v3i5.1072) — 침구 치료가 수면장애를 동반한 만성 위염의 증상·수면의 질을 개선하였다.
 [^111]: [Effects of thread embedding therapy on nucleotides and gastrointestinal hormones in the patient of chronic gastritis]. Li H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2005-05. [임상시험] [PMID 16320740](https://pubmed.ncbi.nlm.nih.gov/16320740/) — 혈위 매선요법이 만성 위축성 위염 환자의 뉴클레오티드·위장관 호르몬을 조절하였다.
 [^112]: [Acupoint selection pattern of chronic atrophic gastritis based on data mining methods of latent structure model and frequency item set]. Liu Y 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-06-12. [체계적 고찰] [DOI 10.13703/j.0255-2930.2018.06.028](https://doi.org/10.13703/j.0255-2930.2018.06.028) [PMID 29972013](https://pubmed.ncbi.nlm.nih.gov/29972013/) — 데이터마이닝 기반 잠재구조 분석으로 만성 위축성 위염의 취혈 규율이 도출되었다.
 [^113]: [Analysis on the specificity of the relevant points along the governor vessel in chronic gastritis based on tenderness reaction and tenderness threshold]. Yang GY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-06-12. [관찰연구] [DOI 10.13703/j.0255-2930.2019.06.013](https://doi.org/10.13703/j.0255-2930.2019.06.013) [PMID 31190498](https://pubmed.ncbi.nlm.nih.gov/31190498/) — 독맥(督脈) 상 반응혈의 특이성이 만성 위염 환자에서 확인되었다.
-[^114]: [Clinical observation on acupuncture for treatment of chronic atrophic gastritis]. Gu W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-05. [임상시험] [PMID 19489491](https://pubmed.ncbi.nlm.nih.gov/19489491/) — 침 치료가 만성 위축성 위염 증상 개선에 임상적으로 관찰되었다.
-[^115]: [Effect of acupuncture and moxibustion of Shu- and Mu-acupoints on the quality of life in patients chronic superficial gastritis]. Ren R 외. _Zhen ci yan jiu = Acupuncture research_. 2009-08. [임상시험] [PMID 19916291](https://pubmed.ncbi.nlm.nih.gov/19916291/) — 배유혈(背兪穴)·모혈(募穴) 침구 치료가 만성 위염 환자의 삶의 질을 개선하였다.
+[^114]: [Clinical observation on acupuncture for treatment of chronic atrophic gastritis]. Gu W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-05. [임상시험] [PMID 19489491](https://pubmed.ncbi.nlm.nih.gov/19489491/) — 만성 위축성 위염 80명 무작위 비교에서 침구군의 총유효율(92.5% 대 75.0%)·내시경·조직병리 개선율이 높았으나 대조군은 표준 제균 4제 요법이 아니었다.
+[^115]: [Effect of acupuncture and moxibustion of Shu- and Mu-acupoints on the quality of life in patients chronic superficial gastritis]. Ren R 외. _Zhen ci yan jiu = Acupuncture research_. 2009-08. [임상시험] [PMID 19916291](https://pubmed.ncbi.nlm.nih.gov/19916291/) — 만성 표층성 위염 60명에서 배유혈·모혈 배합 전침+뜸군의 총유효율(90.0% 대 66.7%)과 SF-36 건강효용·신체역할·정서역할 점수가 오메프라졸군보다 높았다.
 [^116]: [Effect of acupuncture with Ling gui Ba fa as main for treatment of chronic superficial gastritis of liver-stomach disharmony type]. Zhao CJ 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-04. [임상시험] [PMID 20568430](https://pubmed.ncbi.nlm.nih.gov/20568430/) — 영구팔법을 주로 한 침 치료가 비위허한형 만성 표층성 위염에 유효하였다.
 [^117]: [Clinical observation on therapeutic effects of mild moxibustion in superficial gastritis patients with spleen-stomach deficiency-cold pattern]. Xie H 외. _Zhen ci yan jiu = Acupuncture research_. 2012-08. [임상시험] [PMID 23140055](https://pubmed.ncbi.nlm.nih.gov/23140055/) — 경구 뜸(온화구) 치료가 비위허한형 만성 표층성 위염 환자에 유효하였다.
 [^118]: [Warm acupuncture for chronic atrophic gastritis with spleen-stomach deficiency cold]. Wang L 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-02-12. [임상시험] [DOI 10.13703/j.0255-2930.2017.02.007](https://doi.org/10.13703/j.0255-2930.2017.02.007) [PMID 29231474](https://pubmed.ncbi.nlm.nih.gov/29231474/) — 온침이 비위허한형 만성 위축성 위염 증상 개선에 유효하였다.
@@ -676,10 +695,10 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^132]: Effects of a Traditional Rose-Based Polyherbal Formula ‎on Clinical Symptoms of Patients with Functional Dyspepsia: A Double-Blind Randomized Controlled Trial. Hossein Kerdarian 외. _Traditional and Integrative Medicine_. 2022-03-29. [임상시험] [DOI 10.18502/tim.v7i1.9060](https://doi.org/10.18502/tim.v7i1.9060) — 장미과 기반 복합 처방이 기능성 소화불량 환자의 임상 증상 개선에 유효하였다.
 [^133]: Effect of Chinese Herbal Medicines on Helicobacter pylori-associated gastroduodenal ulcers: a systematic review and Meta-analysis. Shi X 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2019-08. [메타분석] [PMID 32186092](https://pubmed.ncbi.nlm.nih.gov/32186092/) — 한약이 헬리코박터 관련 위십이지장 궤양 치료의 체계적 고찰·메타분석에서 유효성을 보였다.
 [^134]: Evidence construction of Chinese herbal formulae for the treatment of H. pylori positive peptic ulcer: A Bayesian network Meta-analysis. Yang J 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2022-10. [메타분석] [DOI 10.1016/j.phymed.2022.154327](https://doi.org/10.1016/j.phymed.2022.154327) [PMID 35905565](https://pubmed.ncbi.nlm.nih.gov/35905565/) — 헬리코박터 양성 소화성 궤양 치료를 위한 한약 처방의 근거가 구축되었다.
-[^135]: Effects of Herbal and Natural Product Interventions on Gut Microbiota and Clinical Outcomes in Patients Receiving PPI-Containing Therapy: A Systematic Review and Meta-Analysis. Hwang JH 외. _Nutrients_. 2026-06-02. [메타분석] [DOI 10.3390/nu18111792](https://doi.org/10.3390/nu18111792) [PMID 42280436](https://pubmed.ncbi.nlm.nih.gov/42280436/) — 한약·천연물 중재가 만성 위염 환자의 장내 미생물·임상 결과를 개선하였다.
+[^135]: Effects of Herbal and Natural Product Interventions on Gut Microbiota and Clinical Outcomes in Patients Receiving PPI-Containing Therapy: A Systematic Review and Meta-Analysis. Hwang JH 외. _Nutrients_. 2026-06-02. [메타분석] [DOI 10.3390/nu18111792](https://doi.org/10.3390/nu18111792) [PMID 42280436](https://pubmed.ncbi.nlm.nih.gov/42280436/) — PPI 포함 요법 환자 18편 1,984명 메타분석에서 한약·천연물 병용군의 H. pylori 제균율이 유의하게 높았고(RR 1.20) 유익균 증가 경향이 관찰되었으나 근거 확실성은 제한적이다.
 [^136]: Safety and efficacy of traditional herbal medicine Yukgunja-tang for atrophic gastritis: a systematic review and meta-analysis. Jeong N 외. _Journal of ethnopharmacology_. 2025-09-25. [메타분석] [DOI 10.1016/j.jep.2025.120414](https://doi.org/10.1016/j.jep.2025.120414) [PMID 40812557](https://pubmed.ncbi.nlm.nih.gov/40812557/) — 육군자탕이 위축성 위염 치료의 체계적 고찰·메타분석에서 안전하고 유효한 것으로 확인되었다.
 [^137]: Effectiveness of Banxia Xiexin Decoction in the treatment of precancerous lesions. Ying Yi 외. _Medicine_. 2021-04-23. [체계적 고찰] [DOI 10.1097/md.0000000000025607](https://doi.org/10.1097/md.0000000000025607) — 반하사심탕이 전암 병변 치료의 체계적 고찰에서 유효성을 보였다.
-[^138]: Conifer Green Needle Complex in Patients with Precancerous Gastric Lesions: An Observational Pilot Study. Vladimir Bespalov 외. _Evidence-Based Complementary and Alternative Medicine_. 2016-01. [관찰연구] [DOI 10.1155/2016/3848409](https://doi.org/10.1155/2016/3848409) — 침엽수 어린잎 복합물(CGNC)이 전암성 위 병변 환자의 소화불량 증상과 관련 소견을 개선하였다.
+[^138]: Conifer Green Needle Complex in Patients with Precancerous Gastric Lesions: An Observational Pilot Study. Vladimir Bespalov 외. _Evidence-Based Complementary and Alternative Medicine_. 2016-01. [관찰연구] [DOI 10.1155/2016/3848409](https://doi.org/10.1155/2016/3848409) — 전암성 위 병변 환자를 대상으로 한 대조군 없는 관찰형 파일럿 연구로, 침엽수 어린잎 복합물(CGNC) 투여 후 소화불량 증상 개선이 보고된 탐색적 근거다.
 [^139]: Clinical Observation of 52 Cases of Helicobacter pylori -Positive Chronic Atrophic Gastritis (Spleen–Stomach Damp-Heat Syndrome) Treated with Acupuncture Combined with Qinghua Tongjiang Decoction. Xuemei Wang 외. _Acupuncture & Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2026-05-19. [임상시험] [DOI 10.1177/03601293261453090](https://doi.org/10.1177/03601293261453090) — 헬리코박터 양성 만성 위축성 위염(비위습열증) 52례의 임상관찰에서 한약 치료의 유효성이 확인되었다.
 [^140]: Treatment of gastric precancerous lesions with Weiansan. Li HZ 외. _World journal of gastroenterology_. 2006-09-07. [임상시험] [DOI 10.3748/wjg.v12.i33.5389](https://doi.org/10.3748/wjg.v12.i33.5389) [PMID 16981274](https://pubmed.ncbi.nlm.nih.gov/16981274/) — 위안산(胃安散)이 위암 전단계 병변 치료에 유효하였다.
 [^141]: [Effect of Weikangfu granule on ultrastructure of gastric mucosa in patients of precancerosis with spleen deficiency syndrome]. Yin G 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2000-09. [임상시험] [PMID 11789171](https://pubmed.ncbi.nlm.nih.gov/11789171/) — 위강복과립이 전암병변 환자의 위점막 초미세구조를 개선하였다.
@@ -693,7 +712,7 @@ H. pylori 감염에 의한 다병소성(multifocal) 위축성 위염과 달리 �
 [^149]: Neuroanatomical Basis of Acupuncture Treatment for Some Common Illnesses. Kwokming James Cheng. _Acupuncture in Medicine_. 2009-06. [문헌 고찰] [DOI 10.1136/aim.2009.000455](https://doi.org/10.1136/aim.2009.000455) — 침 치료의 신경해부학적 기전을 개관하여 위장관 질환을 포함한 흔한 질환에서의 작용 원리를 제시하였다.
 [^150]: The Effectiveness of Acupuncture Therapy and Warm Compresses Combination on Gastritis Pain Scale in Female Students at SMAIT Ibnu Abbas Klaten. Isna Nur Amin 외. _Indonesian Journal of Acupuncture_. 2024-10-18. [임상시험] [DOI 10.62354/ijoa.v2i2.22](https://doi.org/10.62354/ijoa.v2i2.22) — 침 치료와 온찜질 병용이 위염 통증 척도 개선에 유효하였다.
 [^151]: [Distributive regularity of pressing sensitive acupoints in chronic non-atrophic gastritis patients]. Cao QA 외. _Zhen ci yan jiu = Acupuncture research_. 2019-05-25. [관찰연구] [DOI 10.13702/j.1000-0607.180256](https://doi.org/10.13702/j.1000-0607.180256) [PMID 31155872](https://pubmed.ncbi.nlm.nih.gov/31155872/) — 만성 비위축성 위염 환자에서 압통 민감 혈위의 분포 규율이 확인되었다.
-[^152]: Efficacy and safety of acupuncture therapy for chronic atrophic gastritis: A meta-analysis and trial sequential analysis protocol. Li Y 외. _Medicine_. 2019-08. [메타분석] [DOI 10.1097/MD.0000000000017003](https://doi.org/10.1097/MD.0000000000017003) [PMID 31464956](https://pubmed.ncbi.nlm.nih.gov/31464956/) — 침 치료가 만성 위축성 위염 치료의 메타분석·시퀀셜 분석에서 유효성을 보였다.
+[^152]: Efficacy and safety of acupuncture therapy for chronic atrophic gastritis: A meta-analysis and trial sequential analysis protocol. Li Y 외. _Medicine_. 2019-08. [메타분석 계획서] [DOI 10.1097/MD.0000000000017003](https://doi.org/10.1097/MD.0000000000017003) [PMID 31464956](https://pubmed.ncbi.nlm.nih.gov/31464956/) — 만성 위축성 위염 침 치료의 메타분석·시퀀셜 분석 수행 계획을 공개한 계획서이며, 통합 추정치가 보고된 완료 연구가 아니다.
 [^153]: Acupuncture Regulates Serum Differentially Expressed Proteins in Patients with Chronic Atrophic Gastritis: A Quantitative iTRAQ Proteomics Study. Li F 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [실험연구] [DOI 10.1155/2021/9962224](https://doi.org/10.1155/2021/9962224) [PMID 34234838](https://pubmed.ncbi.nlm.nih.gov/34234838/) — 침 치료가 만성 위축성 위염 환자의 혈청 차등발현 단백질을 조절하였다.
 [^155]: Research Progress on the Efficacy and Mechanism of Acupuncture in Treating Chronic Gastritis. He J 외. _Diseases (Basel, Switzerland)_. 2025-11-07. [문헌 고찰] [DOI 10.3390/diseases13110363](https://doi.org/10.3390/diseases13110363) [PMID 41294903](https://pubmed.ncbi.nlm.nih.gov/41294903/) — 침 치료의 효능·기전에 관한 연구 진전을 개관하였다.
 [^156]: A methodological review of acupuncture for chronic atrophic gastritis: toward a core outcome set. Zhang H 외. _Frontiers in medicine_. 2026. [체계적 고찰] [DOI 10.3389/fmed.2026.1818918](https://doi.org/10.3389/fmed.2026.1818918) [PMID 42305969](https://pubmed.ncbi.nlm.nih.gov/42305969/) — 침 치료 핵심 결과지표 표준화를 위한 방법론적 체계적 고찰이 수행되었다.
