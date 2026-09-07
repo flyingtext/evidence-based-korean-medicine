@@ -87,7 +87,7 @@
 
 #### 3-5. 연로체쇠(年老體衰)
 
-노년기에는 신기(腎氣)가 자연히 쇠퇴하며(腎氣自半) 신양의 자양을 받는 심양도 함께 약화되는 경향을 보인다. 이는 정상 노화의 생리적 경사이나, 여기에 관상동맥질환·판막질환 등이 더해지면 병적인 심양허로 전환된다. 고령 HFpEF(보존박출률 심부전) 환자에서 기신익기(氣虛→陽虛 스펙트럼 형태의 익기온양) 계열 처방을 병용했을 때 6분 보행 거리·신체기능(SPPB)·삶의 질(KCCQ)이 개선된 탐색적 연구가 있다[^26].
+노년기에는 신기(腎氣)가 자연히 쇠퇴하며(腎氣自半) 신양의 자양을 받는 심양도 함께 약화되는 경향을 보인다. 이는 정상 노화의 생리적 경사이나, 여기에 관상동맥질환·판막질환 등이 더해지면 병적인 심양허로 전환된다. 고령 HFpEF(보존박출률 심부전) 환자에서 기삼익기(氣虛→陽虛 스펙트럼 형태의 익기온양) 계열 처방을 병용했을 때 6분 보행 거리·신체기능(SPPB)·삶의 질(KCCQ)이 개선된 탐색적 연구가 있다[^26].
 
 #### 3-6. 정지내상(情志內傷) — 경공상심(驚恐傷心)
 
@@ -558,12 +558,12 @@
 - 삼부주사의 근거 수준을 AMSTAR-2·GRADE로 평가한 방법론적 고찰은 심기능·삶의 질 개선의 방향성은 일관되나 근거 확실성은 낮다고 판정했다[^114][^112].
 - 삼부주사+푸로세미드[^119], 삼부주사+니트로프루시드나트륨[^120] 병용의 효능·안전성 평가 RCT가 프로토콜 단계에서 진행 중이다.
 
-**황기·인삼·기신익기 계열 (기허→양허 스펙트럼)**
+**황기·인삼·기삼익기 계열 (기허→양허 스펙트럼)**
 - 황기주사가 울혈성심부전의 심기능·면역기능을 개선했다[^97][^98][^99]. 내관혈 황기주사 투여가 기허혈어형 심부전의 증후점수·BNP·RAAS를 개선했다[^100]. 황기과립은 용량 의존적으로 삶의 질·LVEF를 개선했다[^67].
-- 기신익기적환(익기활혈 계열)이 허혈성심부전의 6분보행거리·삶의 질[^18], 심실재형성[^22], 재입원율·사망률[^21], HFpEF 고령환자의 운동내성[^26]을 개선했다.
+- 기삼익기적환(익기활혈 계열)이 허혈성심부전의 6분보행거리·삶의 질[^18], 심실재형성[^22], 재입원율·사망률[^21], HFpEF 고령환자의 운동내성[^26]을 개선했다.
 - 인삼베리 사포닌이 LVEF·운동능력·삶의 질을 개선했으나 근거수준은 낮다[^105]. 홍삼 추출물은 LVEF 개선에서 상대적 강점을 보였다[^103].
 - 생맥주사·신맥주사가 다수의 네트워크 메타분석에서 만성심부전 치료의 상위 순위를 차지했다[^115][^111][^122].
-- 기혈쌍보(益氣活血) 중성약 6종을 비교한 네트워크 메타분석에서는 모든 제제가 양방 단독보다 우수했으며, 지표별로 기력강심캡슐(총 유효율)·양심석정(LVEF)·기신익기적제(NT-proBNP)·뇌심통캡슐(LVEDD)이 각각 가장 우수했다[^25] — 단일 제제로 모든 지표를 개선하기보다 환자의 주된 저하 지표에 맞춘 선택이 합리적임을 시사한다.
+- 기혈쌍보(益氣活血) 중성약 6종을 비교한 네트워크 메타분석에서는 모든 제제가 양방 단독보다 우수했으며, 지표별로 기력강심캡슐(총 유효율)·양심석정(LVEF)·기삼익기적제(NT-proBNP)·뇌심통캡슐(LVEDD)이 각각 가장 우수했다[^25] — 단일 제제로 모든 지표를 개선하기보다 환자의 주된 저하 지표에 맞춘 선택이 합리적임을 시사한다.
 - 보존박출률심부전(HFpEF)에서는 경구 중약 보조요법이 반응률·BNP·삶의 질을 개선하는 경향을 보였으나 근거수준은 낮은 메타분석이 있다[^169] — HFpEF는 심양허보다 기허·기음양허 스펙트럼이 상대적으로 더 흔하게 보고되므로, 변증 확인 후 적용해야 한다.
 
 **침구·구법**
@@ -755,7 +755,7 @@
 - 내관·외관 경피혈위전침(TEAS)이 복강경 수술의 기복으로 인한 QT분산 증가를 억제해 수술 중 부정맥 위험을 낮추고 회복시간·초기통증을 개선시켰다(60례)[^41].
 - 전침이 흉강경 수술 후 24시간 이내 상심실성빈맥 발생률을 대조군보다 유의하게 낮추고(10.5% 대 33.3%) 수면의 질을 개선시켰으며 마취제 사용량·저혈압 발생도 줄였다(77례)[^42].
 - PCI 후 급성관상동맥증후군 환자에서 한약 병용이 표준치료 단독보다 주요심혈관사건(MACE)·재입원율을 장기 추적에서 유의하게 낮췄다(702례 다기관 RCT)[^152].
-- 반하과루해백탕+기신익기적환 병용이 PCI 후 기허담탁혈어형 관상동맥질환 환자의 심기능·지질·혈류역학 지표를 개선시켰다(100례, 단 이상반응 발생률은 대조군보다 높아 모니터링 필요)[^87].
+- 반하과루해백탕+기삼익기적환 병용이 PCI 후 기허담탁혈어형 관상동맥질환 환자의 심기능·지질·혈류역학 지표를 개선시켰다(100례, 단 이상반응 발생률은 대조군보다 높아 모니터링 필요)[^87].
 
 > 위 치료 근거는 임상 틀이지 동일 근거수준의 권고가 아니다. 수술 전후 한방 치료(침구·황기주사 등)는 기존 마취·수술 프로토콜을 대체하는 것이 아니라 **보조적 예방·회복 촉진 수단** 으로 위치해야 한다.
 
@@ -899,12 +899,12 @@
 [^12]: Clinical effects of Lingguizhugan decoction in the treatment of hypertension: a systematic review and meta-analysis. Xie P 외. _Annals of palliative medicine_. 2021-11. [메타분석] [DOI 10.21037/apm-21-2639](https://doi.org/10.21037/apm-21-2639) [PMID 34872278](https://pubmed.ncbi.nlm.nih.gov/34872278/) — 영계출감탕의 고혈압 치료 효과에 대한 체계적 고찰·메타분석.
 [^14]: Efficacy and safety of Linggui Zhugan decoction in the treatment of chronic heart failure with Yang deficiency: A protocol for systematic review and meta-analysis. Li Y 외. _Medicine_. 2021-05-21. [체계적 고찰] [DOI 10.1097/MD.0000000000026012](https://doi.org/10.1097/MD.0000000000026012) [PMID 34011101](https://pubmed.ncbi.nlm.nih.gov/34011101/) — 영계출감탕의 양허형 만성심부전 치료 효능·안전성 평가 프로토콜 — NT-proBNP·LVEF를 결과지표로 설계.
 [^17]: The use of Kampo medications that may cause heart failure in hospitalized acute heart failure patients in a Japanese hospital. Komagamine J 외. _Journal of general and family medicine_. 2021-05. [관찰연구] [DOI 10.1002/jgf2.411](https://doi.org/10.1002/jgf2.411) [PMID 33977010](https://pubmed.ncbi.nlm.nih.gov/33977010/) — 심부전을 유발·악화시킬 수 있는 한방약(마황·감초·부자·인삼 함유) 복용 실태 조사 — 안전성 감시의 근거.
-[^18]: Qishen Yiqi dripping pills for chronic ischaemic heart failure: results of the CACT-IHF randomized clinical trial. Mao J 외. _ESC heart failure_. 2020-12. [임상시험] [DOI 10.1002/ehf2.12980](https://doi.org/10.1002/ehf2.12980) [PMID 32954647](https://pubmed.ncbi.nlm.nih.gov/32954647/) — 기신익기적환이 허혈성 심부전의 6분 보행거리·삶의 질을 개선한 CACT-IHF 무작위 임상시험.
-[^19]: Clinical Efficacy and Safety of Qishen Yiqi Dropping Pill Combined with Conventional Western Medicine in the Treatment of Chronic Heart Failure: A Systematic Review and Meta-Analysis. Chen L 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석] [DOI 10.1155/2021/6612653](https://doi.org/10.1155/2021/6612653) [PMID 33603818](https://pubmed.ncbi.nlm.nih.gov/33603818/) — 기신익기적환 병용이 만성심부전의 심기능·BNP·6분 보행거리를 개선한 메타분석.
-[^21]: [Routine western medicine treatment plus qishen yiqi dripping pill for treating patients with chronic heart failure: a systematic review of randomized control trials]. Hou Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi_. 2013-11. [체계적 고찰] [DOI 10.7661/CJIM.2013.11.1364](https://doi.org/10.7661/CJIM.2013.11.1364) — 기신익기적환 병용이 재입원율·사망률을 낮춘 체계적 고찰.
-[^22]: Qishenyiqi dripping pill improves ventricular remodeling and function in patients with chronic heart failure: A pooled analysis. Chang M 외. _Medicine (Baltimore)_. 2019. [문헌 고찰] [DOI 10.1097/MD.0000000000013906](https://doi.org/10.1097/MD.0000000000013906) [PMID 30633164](https://pubmed.ncbi.nlm.nih.gov/30633164/) — 기신익기적환이 심실 재형성·심기능을 개선한 통합분석.
+[^18]: Qishen Yiqi dripping pills for chronic ischaemic heart failure: results of the CACT-IHF randomized clinical trial. Mao J 외. _ESC heart failure_. 2020-12. [임상시험] [DOI 10.1002/ehf2.12980](https://doi.org/10.1002/ehf2.12980) [PMID 32954647](https://pubmed.ncbi.nlm.nih.gov/32954647/) — 기삼익기적환이 허혈성 심부전의 6분 보행거리·삶의 질을 개선한 CACT-IHF 무작위 임상시험.
+[^19]: Clinical Efficacy and Safety of Qishen Yiqi Dropping Pill Combined with Conventional Western Medicine in the Treatment of Chronic Heart Failure: A Systematic Review and Meta-Analysis. Chen L 외. _Evidence-based complementary and alternative medicine : eCAM_. 2021. [메타분석] [DOI 10.1155/2021/6612653](https://doi.org/10.1155/2021/6612653) [PMID 33603818](https://pubmed.ncbi.nlm.nih.gov/33603818/) — 기삼익기적환 병용이 만성심부전의 심기능·BNP·6분 보행거리를 개선한 메타분석.
+[^21]: [Routine western medicine treatment plus qishen yiqi dripping pill for treating patients with chronic heart failure: a systematic review of randomized control trials]. Hou Y 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi_. 2013-11. [체계적 고찰] [DOI 10.7661/CJIM.2013.11.1364](https://doi.org/10.7661/CJIM.2013.11.1364) — 기삼익기적환 병용이 재입원율·사망률을 낮춘 체계적 고찰.
+[^22]: Qishenyiqi dripping pill improves ventricular remodeling and function in patients with chronic heart failure: A pooled analysis. Chang M 외. _Medicine (Baltimore)_. 2019. [문헌 고찰] [DOI 10.1097/MD.0000000000013906](https://doi.org/10.1097/MD.0000000000013906) [PMID 30633164](https://pubmed.ncbi.nlm.nih.gov/30633164/) — 기삼익기적환이 심실 재형성·심기능을 개선한 통합분석.
 [^25]: [Network Meta-analysis of six Chinese patent medicines for replenishing Qi and activating blood in treatment of chronic heart failure]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2022-08. [메타분석] — 기혈쌍보 중성약 6종의 네트워크 메타분석 — 지표별 최적 처방이 상이함을 확인.
-[^26]: Improvement of Exercise Tolerance and Physical Function in Elderly Patients with Heart Failure with Preserved Ejection Fraction by QiShen YiQi Dripping Pills. _Complementary medicine research_. 2026. [임상시험] — 기신익기적환이 고령 HFpEF 환자의 운동내성·신체기능을 개선한 탐색 연구.
+[^26]: Improvement of Exercise Tolerance and Physical Function in Elderly Patients with Heart Failure with Preserved Ejection Fraction by QiShen YiQi Dripping Pills. _Complementary medicine research_. 2026. [임상시험] — 기삼익기적환이 고령 HFpEF 환자의 운동내성·신체기능을 개선한 탐색 연구.
 [^28]: Efficacy of acupuncture combined with oral Chinese medicine in the treatment of arrhythmia: A meta-analysis. _Medicine_. 2023-03-24. [메타분석] — 침+경구 중약 병용이 부정맥 치료 유효율과 조기박동 수를 개선한 메타분석.
 [^29]: Acupuncture for cardiac arrhythmias: A systematic review and meta-analysis. _Medicine_. 2026-06-19. [메타분석] — 부정맥에 대한 침 치료의 안전성을 확인한 체계적 고찰·메타분석 — 중대 이상반응 없음.
 [^30]: Amiodarone and acupuncture for cardiac arrhythmia. _Medicine_. 2019-02. [체계적 고찰] — 아미오다론+침 병용 부정맥 치료 효과·안전성 평가 체계적 고찰 프로토콜.
@@ -956,7 +956,7 @@
 [^83]: Clinical Nursing Intervention of Moxibustion on Abdominal Distension Symptoms in Heart Failure (Heart and Kidney Yang Deficiency and Blood Stasis Blocking Collaterals Syndrome). _Journal of Clinical and Nursing Research_. 2024-07-23. [임상시험] — 구법 간호중재가 심신양허·혈어락맥형 심부전의 복부팽만·삶의 질을 개선한 임상시험.
 [^84]: Observation on the Nursing Effect of Ginger Moxibustion on Gastrointestinal Symptoms in Patients with Heart Failure Due to Yang Qi Deficiency. _Journal of Clinical and Nursing Research_. 2024-07-23. [임상시험] — 생강뜸을 포함한 통합간호가 양기부족형 심부전의 소화기 증상·심리 상태를 개선한 임상시험.
 [^85]: Recognition Patterns Construction of Coronary Heart Disease Patients with Qi Deficiency Syndrome Based on Artificial Neural Network. _Advanced Materials Research_. 2011-11. [실험연구] — 인공신경망으로 관상동맥질환 기허증을 8개 생물학적 지표로 82.2% 정확도로 예측한 연구.
-[^87]: Banxia Gualou Xiebai Tang and Qishen Yiqi Dropping Pills Combined Therapy for Qi Deficiency, Phlegm, and Blood Stasis Syndrome in Post-PCI Coronary Heart Disease Patients. _International journal of general medicine_. 2025. [관찰연구] — 반하과루해백탕+기신익기적환 병용이 PCI 후 기허담탁혈어형 관상동맥질환의 심기능·지질을 개선한 임상시험.
+[^87]: Banxia Gualou Xiebai Tang and Qishen Yiqi Dropping Pills Combined Therapy for Qi Deficiency, Phlegm, and Blood Stasis Syndrome in Post-PCI Coronary Heart Disease Patients. _International journal of general medicine_. 2025. [관찰연구] — 반하과루해백탕+기삼익기적환 병용이 PCI 후 기허담탁혈어형 관상동맥질환의 심기능·지질을 개선한 임상시험.
 [^90]: [Compound Ciwujia Granules for chronic fatigue syndrome with syndrome of deficiency of both heart and spleen: a multicenter, randomized, double-blind, double-dummy, positive drug-controlled trial]. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2026-07. [임상시험] — 복방자오가과립(複方刺五加顆粒)이 심비양허형 만성피로증후군에서 귀비과립보다 피로도 개선율이 높았던 다기관 RCT.
 [^91]: Clinical Safety and Efficacy of Wenxin Keli-Amiodarone Combination on Heart Failure Complicated by Ventricular Arrhythmia: A Systematic Review and Meta-analysis. _Frontiers in physiology_. 2018. [메타분석] — 온심과립+아미오다론 병용이 심실부정맥 동반 심부전의 심박수·조기수축·QT분산을 개선한 메타분석.
 [^92]: Pharmacological Insights and Clinical Challenges of Wenxin Keli in Arrhythmia Treatment. _Anatolian journal of cardiology_. 2026-08. [문헌 고찰] — 온심과립의 이온통로·CaMKII 조절 기전과 부정맥 치료 임상근거를 정리한 약리학적 고찰.
