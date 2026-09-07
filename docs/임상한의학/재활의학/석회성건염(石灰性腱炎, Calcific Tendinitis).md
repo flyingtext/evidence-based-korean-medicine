@@ -33,6 +33,8 @@
 
 > 이 표는 두 질환의 개념적 구분을 위한 교과서적 참고 틀이며, 실제로는 회전근개 건병증과 석회성건염이 같은 건에 공존하거나 이행할 수 있다. [교과서적 근거]
 
+두 질환은 위험 인자의 성격에서도 차이를 보인다. 한국인을 대상으로 견봉의 외측 돌출 정도를 수치화한 견봉지수(acromion index)를 분석한 연구에서는 견봉지수가 클수록 회전근개 파열의 위험이 높아 이 지표가 파열의 유효한 예측 인자임이 확인되었다.[^82] 즉 회전근개 파열·건병증은 견봉하 공간의 해부학적 형태와 반복적 기계적 마찰이 주된 배경이 되는 반면, 석회성건염의 침착 자체는 이러한 해부학적 협착보다 건 내부의 능동적 세포 매개성 석회화 과정에 기인한다는 점이 개념적 구분의 핵심이다. 다만 이미 형성된 석회 침착물이 견봉하 공간을 물리적으로 좁혀 이차적 충돌 증상을 유발할 수 있으므로, 견봉 형태 평가는 석회성건염 환자에서도 동반 병태를 판단하는 보조 정보로 활용된다. [교과서적 근거]
+
 #### 1-1-2. 호발 부위와 침착 형태에 따른 분류
 
 - 침착 위치에 따라 극상근건에 발생하는 경우가 가장 흔하고, 극하근·견갑하근에도 발생할 수 있으며, 드물게 2개 이상의 건에 동시에 침착이 나타나는 다발성 석회화도 보고된다. [교과서적 근거]
@@ -372,7 +374,7 @@
 - 회전근개질환 환자에게 침 치료를 시행했을 때 통증 감소와 어깨 기능 개선에 긍정적인 효과가 관찰되었으며 심각한 부작용은 보고되지 않았으나, 분석된 연구들의 편향 위험이 높고 이질성이 커 근거의 확실성은 낮은 편이다.[^23]
 - 침 치료 단독 또는 물리치료와의 병용 요법은 회전근개질환 환자의 단기·중기(3개월 미만) 통증 완화와 외전·외회전·전방굴곡 등 관절가동범위 확대에 유의미한 효과를 보이나, 3~12개월 장기 효과는 다른 치료법과 유의한 차이가 없어 장기적 관리 전략이 별도로 필요하다.[^30]
 - 수기 침 치료는 어깨 충돌 증후군 환자의 통증을 유의하게 감소시키고 기능·장애를 개선하며, 4주 이하의 단기 치료에서도 유의미한 효과가 관찰된다.[^34][^66]
-- 방사선 투시 유도 하 침 치료는 견봉하 충돌 증후군 환자의 Neer 검사 시 통증을 유의하게 감소시키고 3주 후 SPADI(기능 장애 지표)를 개선하는 데 일반 침 치료보다 효과적이어서, 정밀한 타겟팅이 필요한 병변에서 영상 유도 침술의 이점을 뒷받침한다.[^63][^64]
+- 방사선 투시 유도 하 침 치료는 견봉하 충돌 증후군 환자의 Neer 검사 시 통증을 유의하게 감소시키고 3주 후 SPADI(기능 장애 지표)를 개선하는 데 일반 침 치료보다 효과적이어서, 정밀한 타겟팅이 필요한 병변에서 영상 유도 침술의 이점을 뒷받침한다.[^64]
 - 봉침(蜂鍼) 치료는 어깨 통증 환자에게 일반 치료와 병행 시 통증 완화(VAS·PRS)에 유의미한 보조 효과를 보이나, 물리치료와 병행 시 생리식염수 주사군과 유의한 차이가 없어 병용 맥락에 따라 효과가 달라질 수 있다.[^32]
 - 아시혈(阿是穴) 자극이 일반 침 치료·약물 치료보다 효과적일 가능성이 시사되어, 통증 국소부와 근막 유발점을 직접 자극하는 전략이 참고될 수 있다.[^85]
 - 동적 침 치료(motion style acupuncture therapy, MSAT)는 전통적 침 치료보다 통증 완화·관절 기능 개선에 더 효과적이며, 10주·18주 후에도 효과가 유지되어 만성 어깨 통증 관리에 유용한 전략으로 참고할 수 있다.[^58][^104]
@@ -381,6 +383,21 @@
 - 회전근개 손상 환자에게 전침(電鍼) 치료와 Mulligan 가동술을 병행하면 각 단독 치료보다 통증·기능·관절가동범위 개선에 더 효과적이며, 전침은 통증·기능 점수에, 가동술은 ROM 회복에 강점이 있어 병행 적용이 권장된다.[^61]
 - 초음파 유도하 전침 치료는 물리치료·스테로이드 주사에 반응하지 않은 회전근개 건증 환자에서 단기·장기적으로 유의미한 증상 개선을 보여, 정밀 유도 하 전침이 비수술적 대안으로 참고될 수 있다.[^103]
 - 침 치료가 견봉성형술 등 수술적 치료로의 이행률을 유의하게 낮출 수 있다는 관찰은, 조기의 적절한 침 치료가 보존적 치료 전략으로서 갖는 가치를 뒷받침한다.[^102]
+- 만성 어깨 통증 환자를 외래 진료 환경에서 다기관·환자맹검으로 추적한 대규모 실용적 임상시험(GRASP)에서는 중국식 침 치료가 보존적 표준 치료 및 가짜침보다 통증·가동성 개선에 유의하게 우수한 결과를 보여, 어깨 통증에 대한 침 치료 근거 가운데 방법론적 수준이 높은 축에 속하는 자료로 참고된다.[^59]
+- 어깨충돌증후군 환자에서 홈 운동 프로그램에 침 치료를 병행한 군은 동일한 운동에 초음파 치료를 병행한 군보다 어깨 기능 장애 개선 폭이 더 컸다. 이는 물리치료 기기 중심의 접근을 침 치료로 대체하거나 보완할 수 있는 가능성을 시사하며, 운동치료를 기본 축으로 두고 침을 병행하는 전략의 근거가 된다.[^101]
+- 견관절주위염에서 경피 혈위 전기 자극은 유착 초기와 유착 단계 모두에서 통증·기능 개선 효과를 보여, 자침을 견디기 어려운 환자나 급성 통증기에 비침습적 경혈 자극이 대안이 될 수 있음을 시사한다.[^98]
+
+**아시혈·통점(通點) 표적 자침의 근거**
+
+- 만성 어깨 통증 환자를 대상으로 유발점(통점)을 표적으로 자침한 무작위 예비연구에서 통점 침 치료는 가짜침보다 통증·기능 개선에 더 효과적이었다.[^56] 만성 목·어깨 통증에서 압통점에 수기 침을 시행한 가짜침 대조 시험에서도 단기 통증 감소 효과가 확인되었으나 장기적 우월성은 분명하지 않았다.[^57]
+- 만성 목·어깨 통증(katakori)으로 업무 생산성 저하를 겪는 사무직 근로자를 대상으로 한 무작위 임상시험에서도 통점 침 치료가 통증과 생산성 손실 개선에 효과적이었다. 다만 표본이 소규모여서 확증적 근거로 보기는 어렵다.[^95]
+- 어깨 근막통증에 대해 표층 자침과 심층 자침을 비교한 무작위 대조 연구에서는 심층 자침이 통증 완화에 더 효과적이었다. 이는 석회성건염 흡수기의 아시혈 중심 취혈에서 자침 심도를 병변 깊이에 맞추어 조절할 근거로 참고된다.[^55]
+- 목·어깨 근막통증증후군을 대상으로 13종 침 치료법을 비교한 네트워크 메타분석에서는 내열침(內熱鍼)이 종합적으로 가장 유리한 결과를 보였고, 뜸·일반 침+뜸 병행 역시 상위권에 위치해 온열 자극을 동반한 자침법의 상대적 이점이 시사되었다.[^31] 이는 침묵기의 온침·뜸 병행 전략(4-2)과 방향이 일치한다.
+
+> 위 아시혈·통점 근거는 어깨 근막통증증후군과 비특이적 만성 어깨 통증을 대상으로 한 것으로, 석회 침착물 자체를 표적으로 삼은 연구는 아니다. 따라서 흡수기 통증의 보조 진통 전략으로 참고하되, 석회 제거 효과의 근거로 사용해서는 안 된다.
+
+- 반면 모든 자침 전략이 부가적 이점을 보이는 것은 아니다. 어깨 수술 후 표준 물리치료에 전장침(battlefield acupuncture)을 추가한 무작위 임상시험에서는 통증이나 진통제 사용량 감소에서 추가 이점이 확인되지 않았다.[^65] 이는 술기의 종류·적용 시점·병용 맥락에 따라 침 치료의 부가 효과가 달라짐을 보여주므로, 관행적 병용보다 적응증 판단이 선행되어야 한다.
+- 어깨 통증을 유발하는 여러 질환군을 대상으로 다양한 치료법을 비교한 네트워크 메타분석에서는 단기적으로는 침 치료가, 장기적으로는 히알루론산 주사·견갑상신경차단(SSNB)·관절낭 유리술이 물리치료보다 우수한 것으로 나타났다.[^86] 이 결과는 침 치료를 단기 통증 조절의 강점을 가진 선택지로 배치하고, 장기 관리에는 운동치료·시술적 접근을 함께 설계해야 함을 시사한다.
 
 > 침 치료의 근거는 대부분 회전근개질환·어깨충돌증후군·근막통증증후군 등 광의의 어깨 통증을 대상으로 하며, 석회성건염에 특이적으로 설계된 고품질 RCT는 아직 드물다. 침 치료 후 실제로 석회 침착물이 감소한 증례가 보고되어[^19] 흡수기 전환을 보조할 가능성이 제시되지만, 이는 증례 수준의 근거이므로 확증적 해석에는 주의가 필요하다.
 
@@ -392,11 +409,21 @@
 | 전침(electroacupuncture) | 저주파 전기 자극 병행, Mulligan 가동술과 병용 가능 | [^61][^103] |
 | 봉침(bee venom acupuncture) | 봉독 약침, 항염 작용 기대되나 과민반응 주의 | [^32][^70][^96] |
 | 아시혈(阿是穴) 자극 | 통증 국소부·유발점 직접 자극 | [^85] |
-| 영상 유도 침(투시·초음파) | 정밀 타겟팅, 정밀 시술이 필요한 병변에 적용 | [^63][^64][^103] |
+| 영상 유도 침(투시·초음파) | 정밀 타겟팅, 정밀 시술이 필요한 병변에 적용 | [^64][^103] |
 | 동적 침 치료(MSAT) | 자침 상태에서 능동적 관절 운동 병행 | [^58][^104] |
 | 도침(acupotomy) | 침습적 박리 시술, 유착 박리·석회 병변 접근 | [^3][^74][^93] |
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 방법 간 우열을 절대적으로 정하기보다 환자의 변증·병변 특성에 맞추어 선택한다.
+
+### 4-4-2. 동결견 양상 동반 시의 침구 근거
+
+만성 석회성건염은 통증 회피로 인한 관절 운동 감소를 거쳐 이차적으로 유착성 관절낭염(동결견) 양상으로 발현할 수 있으며, 실제로 동결견으로 내원한 환자에서 석회성 극상근건염이 확인된 증례가 보고되어 있다.[^15] KCD-8 분류에서도 M75.0(유착성 관절낭염)은 석회성건염과 감별·중첩이 필요한 코드로 다루어진다(1-3). 따라서 능동·수동 ROM이 함께 제한된 환자에서는 석회 침착 치료와 별개로 관절낭 유착에 대한 접근이 필요하며, 이 국면에서는 동결견을 대상으로 축적된 침구 근거를 참고할 수 있다.
+
+- 동결견 환자를 대상으로 한 체계적 고찰·메타분석에서 침 치료는 단기·중기에 통증(VAS) 감소, 견관절 기능(Constant-Murley 점수) 회복, 굴곡 관절가동범위 개선에 유의한 효과를 보였다. 다만 외회전·외전 가동범위에서는 유의한 차이가 확인되지 않았고 근거 수준 자체가 매우 낮게 평가되어, 효과의 범위를 과대 해석하지 않아야 한다.[^67] 이 분석에서 가장 빈번하게 사용된 경혈이 견우(肩髃, LI15)·견료(肩髎, TB14)로 보고된 점은, 본 문서가 각 침착 단계에서 제시한 국소 취혈 구성(4-1~4-3)과 임상 관행이 일치함을 뒷받침한다.
+- 전침(電鍼)은 동결견에서 일반 침 치료보다 통증·기능 회복에 우월한 결과를 보였으며 보고된 부작용도 없었다.[^68] 이는 흡수기 통증이 가라앉은 뒤 유착 개선을 목표로 하는 회복기에 전침을 우선 고려할 근거가 된다.
+- 침 관련 요법들을 상호 비교한 네트워크 메타분석에서는 소침도(小鍼刀)·온침구(溫鍼灸)·마사지 병행 침 치료 등이 동결견의 기능 회복에 효과적인 것으로 나타났으나, 근거의 확실성은 낮음~보통 수준에 머물렀다.[^69]
+
+> 동결견을 대상으로 한 위 근거는 석회성건염 자체의 석회 흡수를 다룬 것이 아니라, 이차적으로 동반된 관절낭 유착·운동 제한에 대한 간접 근거다. 급성 흡수기의 격통 상태에서 유착 박리를 목표로 한 적극적 자침·가동술을 시행하는 것은 오히려 통증을 악화시킬 수 있으므로, 통증 위기가 지나간 뒤 적용하는 것이 원칙이다. [교과서적 근거]
 
 ### 4-5. 건침(乾鍼, Dry Needling) 및 도침 근거
 
@@ -409,6 +436,24 @@
 - 회전근개 유발점 건침은 만성 어깨 통증 환자의 통증 감소·안정성·기능 개선에 최소 임상적 유의차(MCID)를 상회하는 효과를 보여, 재활 프로토콜에 통합될 수 있다.[^52]
 - 반면 회전근개 봉합술 후 다모드 재활에 유발점 건침을 추가하는 것은 표준 재활 단독과 비교해 유의한 추가 이점을 제공하지 못했다는 결과도 있어, 수술 후 급성기 적용에는 신중한 판단이 필요하다.[^40][^48][^50]
 - 근전도(EMG) 유도 건침은 일반 건침보다 유발점을 더 정확히 불활성화시켜 6주·12주 시점의 통증 개선 효과를 더 오래 유지시킨다.[^47]
+- 이중맹검·가짜침 대조 시험에서 단일 세션 건침만으로도 어깨 통증이 가짜침보다 유의하게 감소하고 통각과민 범위가 축소되었으며, 그 효과가 7일까지 지속되었다.[^46] 단회 시술로도 측정 가능한 진통 효과가 나타난다는 점은 급성 통증 조절 목적의 즉시 적용을 뒷받침한다.
+- 고령자의 비특이적 어깨 통증에서는 활성 유발점뿐 아니라 잠재 유발점까지 포함해 심부 건침을 시행했을 때 원위부 압통 역치가 더 크게 개선되었다.[^37] 통증을 호소하지 않는 부위의 잠재 유발점도 함께 처치 대상으로 삼는 접근의 근거다.
+- 어깨충돌증후군과 극하근 활성 유발점을 동반한 환자에서 건침과 근에너지기법은 각각 통증·관절가동범위 개선에 효과적이었고, 외전·굴곡 회복에서는 건침이 상대적으로 우세했다.[^45] 도수치료와 건침을 병행할 때 각 술기의 강점이 다름을 보여준다.
+- 경추·견갑대 근막통증증후군에서 협침(頰針, buccal acupuncture)과 초음파 유도 건침을 병행한 군은 단독 치료군보다 통증·관절가동범위·환자 만족도에서 더 나은 결과를 보였다.[^36] 초음파 유도를 통해 유발점을 시각적으로 확인하고 자침하는 방식이 정밀도를 높이는 데 기여한다.
+
+**건침의 작용 기전에 관한 근거**
+
+- 어깨 통증 환자의 극하근에 건침을 시행한 무작위 임상시험에서 근육 혈류 상태가 개선되고 내회전·외회전 관절가동범위가 증가하였다.[^51] 이는 자침이 국소 미세순환을 개선한다는 한의학적 활혈(活血) 해석과 방향을 같이하는 생리학적 관찰이다.
+- 극하근에 건침과 가짜침을 비교한 무작위 타당성 연구에서는 건침 시행 24시간 후 피질척수 흥분성 증가가 관찰되었고 이것이 통증 민감도 변화와 상관을 보였다.[^39] 건침의 진통이 국소 근육 반응만이 아니라 중추 운동 회로의 변화를 동반할 가능성을 시사한다.
+- 다만 만성 일측성 어깨 통증 환자에서 단회 건침은 통증과 내회전 가동범위를 단기적으로 개선했으나, 근활성도(근전도)의 유의한 변화는 확인되지 않았다.[^38] 즉 건침의 임상적 진통 효과를 곧바로 "근긴장도의 즉각적 정상화"로 설명하기는 어려우며, 기전 해석에는 신중함이 필요하다.
+
+**추가 이점이 확인되지 않은 맥락 — 정직한 근거 기술**
+
+- 어깨 안정화 봉합술 이후 물리치료에 건침을 추가한 무작위 임상시험에서는 물리치료 단독 대비 유의한 추가 이점이 확인되지 않았다. 다만 이상반응 없이 안전하게 시행되었다는 점은 함께 확인되었다.[^43]
+- 견봉하 통증 증후군 환자에서 도수치료·운동에 건침을 추가한 가짜침 대조 무작위 임상시험에서도 주 평가 지표인 SPADI의 유의한 추가 개선은 나타나지 않았다. 그러나 환자 수용도가 높고 관련 의료 이용이 감소하는 이점이 관찰되었다.[^53]
+- 유발점에 의한 어깨 통증을 대상으로 초음파 유도 펄스고주파와 건침을 직접 비교한 무작위 임상시험에서는 펄스고주파가 통증·기능 회복에서 건침보다 더 우수한 결과를 보였다.[^92] 이 결과는 건침에 불리한 비교이지만, 난치성 유발점 통증에서 시술적 대안을 함께 고려해야 함을 보여주는 근거로 그대로 기술한다.
+
+> 위 세 연구는 건침이 모든 맥락에서 부가 이점을 제공하지는 않음을 보여준다. 이를 근거로 건침을 배제할 것이 아니라, 수술 후 급성기·표준 재활이 충실히 시행되는 상황에서는 부가 효과가 제한적일 수 있다는 점을 감안해 적응증을 선별해야 한다.
 
 > 건침·도침의 근거는 주로 근막통증증후군·회전근개 건병증을 대상으로 하며, 석회성건염 급성 통증기에는 도침의 통증·기능·석회 병변 크기 개선 효과가 별도로 확인되어 있다.[^3][^74]
 
@@ -457,6 +502,15 @@
 - ESWT는 비침습적이라는 장점이 있으나 시술 자체가 일시적 통증을 유발할 수 있어 에너지 강도 설정이 환자 순응도에 영향을 준다.[^1][^22]
 - 관절경적 수술은 침습도가 가장 높은 대신 대형·다엽성 병변이나 회전근개 파열이 동반된 경우에 확실한 제거 효과를 기대할 수 있다.[^4][^10]
 - 진단 초기 딥러닝 보조 판독이 도입되면 침착물의 형태·크기를 더 객관적으로 분류하여 시술 선택의 정밀도를 높일 수 있을 것으로 기대된다.[^2]
+
+#### 4-8-2. 증례 근거의 해석 — 자연 경과와 중재 효과의 구분
+
+석회성건염은 흡수기를 거치며 침착물이 자연 소실되는 경우가 많다는 특성 때문에, 단일 증례에서 관찰된 "침착물 소실"을 곧바로 중재의 효과로 귀속시키기 어렵다. 이 점은 어떤 치료법의 증례 보고를 읽을 때든 공통으로 적용되는 해석 원칙이다. [교과서적 근거]
+
+- 비침습적 자기공명(magnetic resonance, MR) 치료를 2주간 시행하면서 수동 관절가동운동·코드만 운동과 이부프로펜을 함께 투여한 증례에서, 1주 후 증상이 뚜렷이 호전되고 2주 후에는 석회 침착이 영상에서 확인되지 않았으며 환자는 통증 없이 일상 활동에 복귀하였다.[^7] 그러나 이 증례는 운동요법과 소염진통제가 병행되었고 관찰 기간이 흡수기의 자연 경과와 겹치므로, 침착물 소실을 MR 치료 단독의 효과로 단정할 수 없다.
+- 세포 영양 상태 교정을 목표로 한 오소셀룰러 영양요법(ortho-cellular nutrition therapy, OCNT)을 병행한 뒤 석회성건염 증상이 개선되었다는 증례도 보고되었으나, 대조군이 없는 단일 증례로서 근거 수준이 제한적이다.[^17] 초음파 유도 프롤로테라피에 비타민 C·D·마그네슘 등 영양·대사 지원을 병행해 2주 만에 빠른 개선을 보인 증례[^9]와 함께, 대사적 보조 요법의 역할은 아직 가설 수준으로 남아 있다.
+
+> 이러한 증례 근거는 치료 선택지의 다양성을 보여주는 자료로서 가치가 있으나, 효과의 크기나 인과성을 확정하는 근거로 사용해서는 안 된다. 침 치료 후 석회 침착물이 감소한 증례[^19] 역시 동일한 기준으로 해석해야 하며, 흡수기 자연 흡수와의 구분을 위해서는 대조군을 둔 연구가 필요하다.
 
 ### 4-9. 근거 수준별 치료 요약표
 
@@ -633,19 +687,22 @@
 
 ## 부록 A. 확보 근거 연구유형 분포
 
-본 문서가 인용한 서로 다른 105편의 논문을 연구유형별로 집계하면 다음과 같다. 최소 기준(100편)을 상회하나, 목표(150편)에는 미달하며, 이는 "석회성건염"이라는 좁은 표제어의 특성상 검색으로 확보 가능한 논문 수가 제한적이기 때문임을 정직하게 밝힌다. 근거 부족분은 광의의 회전근개질환·어깨충돌증후군·근막통증증후군·유착성 관절낭염 문헌으로 보완하였다.
+본 문서가 수록한 서로 다른 103편의 논문을 연구유형별로 집계하면 다음과 같다. 최소 기준(100편)을 상회하나, 목표(150편)에는 미달하며, 이는 "석회성건염"이라는 좁은 표제어의 특성상 검색으로 확보 가능한 논문 수가 제한적이기 때문임을 정직하게 밝힌다. 근거 부족분은 광의의 회전근개질환·어깨충돌증후군·근막통증증후군·유착성 관절낭염 문헌으로 보완하였다.
 
 | 연구유형 | 편수 |
 |---|---|
-| 임상시험 | 48 |
-| 메타분석 | 19 |
+| 임상시험 | 42 |
+| 메타분석 | 15 |
 | 관찰연구 | 14 |
+| 기타(연구 계획서·계량서지 분석·서한 등) | 12 |
 | 증례 보고 | 11 |
-| 체계적 고찰 | 9 |
-| 문헌 고찰 | 4 |
-| **합계** | **105** |
+| 체계적 고찰 | 6 |
+| 문헌 고찰 | 3 |
+| **합계** | **103** |
 
-> 메타분석·체계적 고찰을 합하면 28편(전체의 약 27%)으로, 근거 수준이 비교적 높은 문헌의 비중이 상당하다. 다만 이들 대부분이 석회성건염이 아닌 광의의 회전근개질환·어깨 통증을 대상으로 하므로, 석회성건염에 특이적인 결론으로 과도하게 일반화하지 않도록 유의해야 한다.
+> 메타분석·체계적 고찰을 합하면 21편(전체의 약 20%)으로, 근거 수준이 비교적 높은 문헌의 비중이 상당하다. 다만 이들 대부분이 석회성건염이 아닌 광의의 회전근개질환·어깨 통증을 대상으로 하므로, 석회성건염에 특이적인 결론으로 과도하게 일반화하지 않도록 유의해야 한다.
+>
+> "기타"로 분류한 12편 가운데 결과가 발표되지 않은 연구 계획서·계량서지 분석·서한은 임상적 주장의 근거로 사용하지 않았으며, 그중 본문에서 전혀 인용하지 않은 문헌은 부록 C에 별도로 정리하였다.
 
 ## 부록 B. 용어 대조표
 
@@ -679,6 +736,21 @@
 | 사혈 | 瀉血 | Bloodletting |
 | 유착성 관절낭염(동결견) | 癒着性 關節囊炎(凍結肩) | Adhesive Capsulitis (Frozen Shoulder) |
 
+## 부록 C. 검색 확보 목록(본문 미인용)
+
+검색으로 확보하였으나 임상적 주장의 근거로는 본문에 인용하지 않은 문헌을 투명성을 위해 남겨둔다. 결과가 아직 발표되지 않은 연구 계획서(protocol), 임상 결과를 담지 않은 계량서지 분석, 원 연구에 대한 서한(letter)이 여기에 해당한다. 이 목록의 문헌은 본문의 어떤 주장도 뒷받침하지 않는다.
+
+| 각주 | 문헌 성격 | 본문 미인용 사유 |
+|---|---|---|
+| [^18] | 무작위대조시험 계획서 | 체외충격파+자가혈소판풍부혈장 병용의 결과가 아직 발표되지 않음 |
+| [^49] | 무작위대조시험 계획서 | 초음파 유도 펄스고주파와 건침 비교 결과가 아직 발표되지 않음 |
+| [^73] | 네트워크 메타분석 계획서 | 견관절주위염 침 치료 비교 결과가 아직 발표되지 않음 |
+| [^26] | 계량서지 분석 | 연구 동향 분석으로 치료 효과에 대한 임상 근거가 아님 |
+| [^35] | 계량서지 분석 | 연구 동향 분석으로 치료 효과에 대한 임상 근거가 아님 |
+| [^100] | 서한(letter) | 원 무작위대조시험에 대한 논평이며, 해당 원 연구는 별도로 인용함[^61] |
+
+> 위 계획서 문헌들은 본문 4-9-1에서 언급한 프로토콜 단계 연구와 같은 성격이며, 향후 결과가 발표되면 근거로 재평가할 대상이다.
+
 ---
 
 [^1]: Clinical Study on Appropriate Energy of Extracorporeal Shock Wave for Rotator Cuff Non-calcific Tendinopathy Treatment. Jin Xi 외. _Journal of Regenerative Science_. 2023. [임상시험] [DOI 10.13107/jrs.2023.v03.i02.103](https://doi.org/10.13107/jrs.2023.v03.i02.103) — 비석회성 건병증에서 에너지 강도 0.096 mJ/mm²·2000회 충격 조건에서 통증·기능 개선이 가장 유의하게 높음.
@@ -698,7 +770,7 @@
 [^15]: Raktamokshana (wet cupping therapy) in the management of calcified supraspinatus tendinitis presenting as frozen shoulder. Manisha Mansukh Kapadiya 외. _BLDE University Journal of Health Sciences_. 2022-01. [증례 보고] [DOI 10.4103/bjhs.bjhs_37_21](https://doi.org/10.4103/bjhs.bjhs_37_21) — 습식 부항 요법이 동결견 양상 석회성건염의 통증·ROM 개선에 효과적.
 [^16]: Characterizing the Progression of Varying Types of Calcific Tendinitis around Hip. 이승림 외. _Hip and Pelvis_. 2015-12. [관찰연구] [DOI 10.5371/hp.2015.27.4.265](https://doi.org/10.5371/hp.2015.27.4.265) — 고관절 주변 석회성건염의 유형별 진행 양상을 특징화해 침착·흡수 경과가 관절 부위와 무관하게 유사함을 뒷받침.
 [^17]: A Case Study on the Improvement of Calcific Tendinitis Using Ortho-Cellular Nutrition Therapy (OCNT). 이아영. _셀메드_. 2025-03. [증례 보고] [DOI 10.5667/CellMed.spc.117](https://doi.org/10.5667/CellMed.spc.117) — 오소셀룰러 영양요법 병행이 석회성건염 증상 개선 사례로 보고되었으나 근거 수준 제한적.
-[^18]: Effect of extracorporeal shock wave combined with autologous platelet-rich plasma injection on rotator cuff calcific tendinitis: study protocol for a randomized controlled trial. Wang X 외. _Trials_. 2024-09-18. [임상시험] [DOI 10.1186/s13063-024-08407-z](https://doi.org/10.1186/s13063-024-08407-z) [PMID 39294797](https://pubmed.ncbi.nlm.nih.gov/39294797/) — 체외충격파+자가혈소판풍부혈장(PRP) 병용 효과를 검증하는 RCT 프로토콜.
+[^18]: Effect of extracorporeal shock wave combined with autologous platelet-rich plasma injection on rotator cuff calcific tendinitis: study protocol for a randomized controlled trial. Wang X 외. _Trials_. 2024-09-18. [기타] [DOI 10.1186/s13063-024-08407-z](https://doi.org/10.1186/s13063-024-08407-z) [PMID 39294797](https://pubmed.ncbi.nlm.nih.gov/39294797/) — 체외충격파+자가혈소판풍부혈장(PRP) 병용 효과를 검증하는 RCT 프로토콜.
 [^19]: Acupuncture help to resolve the calcific deposits of a patient suffering from shoulder calcific tendinitis: A case report. Tang EC 외. _Journal of bodywork and movement therapies_. 2024-10. [증례 보고] [DOI 10.1016/j.jbmt.2024.07.001](https://doi.org/10.1016/j.jbmt.2024.07.001) [PMID 39593701](https://pubmed.ncbi.nlm.nih.gov/39593701/) — 침 치료 후 석회 침착물이 감소한 증례로 흡수기 전환 보조 가능성 제시.
 [^20]: Treating Hidden Left Supraspinatus Calcific Tendinitis with Conventional Surgery. Ma G 외. _Journal of the College of Physicians and Surgeons--Pakistan : JCPSP_. 2025-01. [증례 보고] [DOI 10.29271/jcpsp.2025.01.137](https://doi.org/10.29271/jcpsp.2025.01.137) [PMID 39825557](https://pubmed.ncbi.nlm.nih.gov/39825557/) — 은폐된 극상근 석회성 병변을 수술적으로 치료한 증례.
 [^21]: Shoulder calcific tendonitis (Symptoms, Diagnosis and treatment options). Soliena Mahmoud Alnskawa 외. _World Family Medicine Journal / Middle East Journal of Family Medicine_. 2024. [문헌 고찰] [DOI 10.5742/mewfm.2024.95257867](https://doi.org/10.5742/mewfm.2024.95257867) — 석회성건염의 병기별 진단·단계적 보존치료·중재적 시술·수술의 개관.
@@ -706,54 +778,54 @@
 [^23]: Acupuncture for Symptomatic Rotator Cuff Disease: A Systematic Review and Meta-Analysis. [메타분석] — 침 치료가 회전근개질환의 통증·기능 개선에 긍정적이나 근거 확실성은 낮음.
 [^24]: Dry Needling in Overhead Athletes with Myofascial Shoulder Pain: A Systematic Review. [체계적 고찰] — 건침이 운동선수의 근막성 어깨 통증을 빠르게 완화하는 단기 중재로 효과적.
 [^25]: Effects of Trigger Point Dry Needling for Nontraumatic Shoulder Pain of Musculoskeletal Origin: A Systematic Review and Meta-Analysis. [메타분석] — 통점 건침이 단기 통증 감소·장애 개선에 효과적이나 효과가 단기적.
-[^26]: Application of Acupuncture for Shoulder Pain Over the Past 22 Years: A Bibliometric Analysis. [체계적 고찰] — 22년간 어깨 통증 침 치료 연구가 지속 증가, 건침·RCT가 주요 관심사.
+[^26]: Application of Acupuncture for Shoulder Pain Over the Past 22 Years: A Bibliometric Analysis. Chen YL 외. _Journal of Pain Research_. 2023-03-14. [기타] [DOI 10.2147/JPR.S397168](https://doi.org/10.2147/JPR.S397168) [PMID 36942307](https://pubmed.ncbi.nlm.nih.gov/36942307/) — 22년간 어깨 통증 침 치료 연구가 지속 증가했고 건침·무작위대조시험이 주요 관심 주제였음을 보인 계량서지 분석. 치료 효과에 대한 임상 근거는 아니다.
 [^27]: The Impact of Dry Needling With Electrical Stimulation on Pain and Disability in Patients With Musculoskeletal Shoulder Pain: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. [메타분석] — 전기자극 건침이 안전하고 효과적이나 일반 물리치료 대비 유의한 추가 이점은 불분명.
-[^28]: Acupotomy for shoulder pain: A protocol for systematic review. [체계적 고찰] — 도침의 어깨 통증에 대한 효능·안전성을 평가하는 체계적 고찰 프로토콜.
-[^29]: Acupuncture for symptomatic rotator cuff disease. [체계적 고찰] — 회전근개질환 침 치료의 유효성·안전성을 평가하는 체계적 고찰 프로토콜.
+[^28]: Acupotomy for shoulder pain: A protocol for systematic review. [기타] — 도침의 어깨 통증에 대한 효능·안전성을 평가하는 체계적 고찰 프로토콜.
+[^29]: Acupuncture for symptomatic rotator cuff disease. [기타] — 회전근개질환 침 치료의 유효성·안전성을 평가하는 체계적 고찰 프로토콜.
 [^30]: Efficacy comparison between acupuncture and other modalities in the treatment of rotator cuff diseases: meta-analysis of randomized controlled trials. [메타분석] — 침 단독·병용요법이 단기·중기 통증·ROM 개선에 유의하나 장기 효과는 불분명.
-[^31]: Different Acupuncture Treatments for Myofascial Pain Syndrome in Neck or Shoulder: A Network Meta-Analysis Based on Randomized Controlled Trials. [메타분석] — 내열침이 목·어깨 근막통증증후군 치료에서 가장 유리.
+[^31]: Different Acupuncture Treatments for Myofascial Pain Syndrome in Neck or Shoulder: A Network Meta-Analysis Based on Randomized Controlled Trials. Wang T 외. _Journal of Pain Research_. 2025-08-24. [메타분석, 29편 RCT·2,424명] [DOI 10.2147/JPR.S543756](https://doi.org/10.2147/JPR.S543756) [PMID 40893120](https://pubmed.ncbi.nlm.nih.gov/40893120/) — 목·어깨 근막통증증후군에서 13종 침 치료법을 비교해 내열침(內熱鍼)이 종합적으로 가장 유리했고 뜸·일반 침+뜸 병행도 상위권으로, 온열 자극 동반 자침법의 상대적 이점을 시사.
 [^32]: Bee Venom Acupuncture for Shoulder Pain: A Systematic Review and Meta-analysis of Randomized Controlled Trials. [메타분석] — 봉침이 일반 치료 병행 시 통증 완화에 유의미하나 병행 맥락에 따라 차이.
 [^33]: The Efficacy of Acupuncture on Shoulder for Pain Intensity, Functional Status, and General Quality of Life in Adults: A Systematic Review. [체계적 고찰] — 단독 침 치료가 어깨 통증·기능에 효과적일 수 있다는 제한적 근거.
 [^34]: Effects of acupuncture on shoulder impingement syndrome: A systematic review and meta-analysis. [메타분석] — 수기 침 치료가 어깨 충돌 증후군의 통증·기능을 유의하게 개선.
-[^35]: International performance of acupuncture for shoulder pain over more than four decades: a bibliometric study. [체계적 고찰] — 40여 년간 국제 침 치료 연구 동향에서 침이 어깨 통증에 효과적이라는 전반적 학계 견해 확인.
-[^36]: Buccal acupuncture combined with ultrasound-guided dry needle-evoked inactivation of trigger points to treat cervical and shoulder girdle myofascial pain syndrome. [임상시험] — 구강침+초음파 유도 건침 병행이 단독 치료보다 통증·ROM·만족도 개선에 더 효과적.
-[^37]: Efficacy of Deep Dry Needling on Latent Myofascial Trigger Points in Older Adults With Nonspecific Shoulder Pain: A Randomized, Controlled Clinical Trial Pilot Study. [임상시험] — 잠재 유발점까지 포함한 심부 건침이 원위부 압통 역치 개선에 더 효과적.
-[^38]: No Evidence of Short-term Changes in Muscle Activity Elicited by Dry Needling in Chronic Unilateral Shoulder Pain Patients. [임상시험] — 단회 건침이 통증·내회전 개선에 단기 효과가 있으나 근활성도 변화는 없음.
-[^39]: Neurophysiological and psychophysical effects of dry versus sham needling of the infraspinatus muscle in patients with chronic shoulder pain: a randomized feasibility study. [임상시험] — 극하근 건침이 치료 24시간 후 피질척수 흥분성 증가와 통증 민감도 변화 상관.
+[^35]: International performance of acupuncture for shoulder pain over more than four decades: a bibliometric study. Ding R 외. _American Journal of Translational Research_. 2023-12-15. [기타] [PMID 38187001](https://pubmed.ncbi.nlm.nih.gov/38187001/) — 40여 년간의 국제 침 치료 연구 생산성·협력 구조를 정리한 계량서지 분석. 치료 효과에 대한 임상 근거는 아니다.
+[^36]: Buccal acupuncture combined with ultrasound-guided dry needle-evoked inactivation of trigger points to treat cervical and shoulder girdle myofascial pain syndrome. Shan HH 외. _Journal of Back and Musculoskeletal Rehabilitation_. 2023-01-01. [임상시험] [DOI 10.3233/BMR-220321](https://doi.org/10.3233/BMR-220321) [PMID 37458014](https://pubmed.ncbi.nlm.nih.gov/37458014/) — 협침(頰針)과 초음파 유도 건침 병행이 단독 치료보다 통증·관절가동범위·환자 만족도 개선에 더 효과적. 유발점을 영상으로 확인하고 자침하는 정밀 접근의 근거.
+[^37]: Efficacy of Deep Dry Needling on Latent Myofascial Trigger Points in Older Adults With Nonspecific Shoulder Pain: A Randomized, Controlled Clinical Trial Pilot Study. Calvo-Lobo C 외. _Journal of Geriatric Physical Therapy_. 2017-04-01. [임상시험] [DOI 10.1519/JPT.0000000000000048](https://doi.org/10.1519/JPT.0000000000000048) [PMID 25794307](https://pubmed.ncbi.nlm.nih.gov/25794307/) — 잠재 유발점까지 포함한 심부 건침이 고령자 비특이적 어깨 통증에서 원위부 압통 역치 개선에 더 효과적.
+[^38]: No Evidence of Short-term Changes in Muscle Activity Elicited by Dry Needling in Chronic Unilateral Shoulder Pain Patients. Intelangelo L 외. _The Clinical Journal of Pain_. 2023-11-01. [임상시험] [DOI 10.1097/AJP.0000000000001151](https://doi.org/10.1097/AJP.0000000000001151) [PMID 37440340](https://pubmed.ncbi.nlm.nih.gov/37440340/) — 단회 건침이 통증·내회전 가동범위를 단기 개선했으나 근전도상 근활성도 변화는 확인되지 않아, 진통 기전을 근긴장도 정상화로 설명하기 어려움을 보여줌.
+[^39]: Neurophysiological and psychophysical effects of dry versus sham needling of the infraspinatus muscle in patients with chronic shoulder pain: a randomized feasibility study. Laramée A 외. _Archives of Physiotherapy_. 2021-10-18. [임상시험] [DOI 10.1186/s40945-021-00118-x](https://doi.org/10.1186/s40945-021-00118-x) [PMID 34663474](https://pubmed.ncbi.nlm.nih.gov/34663474/) — 극하근 건침 24시간 후 피질척수 흥분성 증가가 관찰되고 통증 민감도 변화와 상관을 보여, 중추 운동 회로 변화를 동반할 가능성을 시사.
 [^40]: Dry Needling in a Multimodal Rehabilitation Protocol Following Rotator Cuff Repair Surgery: A randomized double-blinded sham-controlled trial. [임상시험] — 봉합술 후 유발점 건침 추가가 표준 재활 대비 유의한 추가 이점 없음.
 [^41]: Comparison of Upper Trapezius and Infraspinatus Myofascial Trigger Point Therapy by Dry Needling in Overhead Athletes With Unilateral Shoulder Impingement Syndrome. [임상시험] — 극하근 유발점 건침이 상부승모근 직접 자침과 유사한 효과, 부작용은 더 적음.
 [^42]: Effect of Dry Needling on Compensatory Trigger Points in Overhead Athletes with Supraspinatus Tendonitis: A Pilot Study. [임상시험] — 보상성 유발점 건침 병행이 통증·ROM·기능 장애 개선에 더 효과적.
-[^43]: DRY NEEDLING AND PHYSICAL THERAPY VERSUS PHYSICAL THERAPY ALONE FOLLOWING SHOULDER STABILIZATION REPAIR: A RANDOMIZED CLINICAL TRIAL. [임상시험] — 안정화 수술 후 건침 추가가 유의한 추가 이점은 없으나 안전성은 확인.
+[^43]: Dry needling and physical therapy versus physical therapy alone following shoulder stabilization repair: a randomized clinical trial. Halle R 외. _International Journal of Sports Physical Therapy_. 2020-02-01. [임상시험] [PMID 32089961](https://pubmed.ncbi.nlm.nih.gov/32089961/) — 어깨 안정화 봉합술 후 물리치료에 건침을 추가해도 유의한 추가 이점은 없었으나 이상반응 없이 안전하게 시행됨(음성 결과).
 [^44]: Spinal Manipulation and Electrical Dry Needling in Patients With Subacromial Pain Syndrome: A Multicenter Randomized Clinical Trial. [임상시험] — 추력 가동술+전침 건침 병행이 통증·기능 개선에 더 효과적이고 3개월간 유지.
-[^45]: The effect of dry needling & muscle energy technique separately and in combination in patients suffering shoulder impingement syndrome and active trigger points of infraspinatus. [임상시험] — 건침·근에너지기법 모두 통증·ROM 개선에 효과적, 외전·굴곡은 건침이 우세.
-[^46]: Dry needling has lasting analgesic effect in shoulder pain: a double-blind, sham-controlled trial. [임상시험] — 단일 세션 건침이 가짜 침 대비 통증 감소·통각과민 축소, 효과가 7일까지 지속.
+[^45]: The effect of dry needling & muscle energy technique separately and in combination in patients suffering shoulder impingement syndrome and active trigger points of infraspinatus. Jalilipanah P 외. _Journal of Bodywork and Movement Therapies_. 2021-04-01. [임상시험] [DOI 10.1016/j.jbmt.2020.12.030](https://doi.org/10.1016/j.jbmt.2020.12.030) [PMID 33992303](https://pubmed.ncbi.nlm.nih.gov/33992303/) — 건침과 근에너지기법 모두 통증·관절가동범위 개선에 효과적이며 외전·굴곡 회복에서는 건침이 상대적으로 우세.
+[^46]: Dry needling has lasting analgesic effect in shoulder pain: a double-blind, sham-controlled trial. Pai MYB 외. _Pain Reports_. 2021-06-28. [임상시험] [DOI 10.1097/PR9.0000000000000939](https://doi.org/10.1097/PR9.0000000000000939) [PMID 34235343](https://pubmed.ncbi.nlm.nih.gov/34235343/) — 단일 세션 건침이 가짜침보다 통증을 유의하게 감소시키고 통각과민 범위를 축소했으며 효과가 7일까지 지속. 급성기 즉시 적용의 근거.
 [^47]: Efficacy of Dry Needling Under EMG Guidance for Myofascial Neck and Shoulder Pain: A Randomized Clinical Trial. [임상시험] — EMG 유도 건침이 일반 건침보다 유발점을 정확히 불활성화, 효과가 더 오래 지속.
 [^48]: Dry needling in a multimodal rehabilitation protocol following rotator cuff repair surgery: study protocol for a double-blinded randomized sham-controlled trial. [임상시험] — 봉합술 후 유발점 건침 병행 효과를 평가하는 연구 프로토콜.
-[^49]: Ultrasound-guided pulsed radiofrequency versus dry needling for pain management in chronic neck and shoulder myofascial pain syndrome patients at a tertiary hospital in China: a randomised controlled trial protocol. [임상시험] — 초음파 유도 펄스고주파와 건침의 만성 근막통증 완화 효과를 비교하는 프로토콜.
+[^49]: Ultrasound-guided pulsed radiofrequency versus dry needling for pain management in chronic neck and shoulder myofascial pain syndrome patients at a tertiary hospital in China: a randomised controlled trial protocol. Wang J 외. _BMJ Open_. 2023-05-24. [기타] [DOI 10.1136/bmjopen-2022-071422](https://doi.org/10.1136/bmjopen-2022-071422) [PMID 37225266](https://pubmed.ncbi.nlm.nih.gov/37225266/) — 초음파 유도 펄스고주파와 건침의 만성 근막통증 완화 효과를 비교하려는 연구 계획서로, 결과가 아직 발표되지 않음.
 [^50]: Dry needling as an adjunct treatment to multimodal rehabilitation protocol following rotator cuff repair surgery: a preliminary, randomized sham-controlled trial. [임상시험] — 봉합술 후 유발점 건침 추가가 가짜 치료 대비 통계적으로 유의한 추가 이점 없음.
-[^51]: The effects of dry needling on muscle blood flow of the infraspinatus muscle in individuals with shoulder pain - a randomized clinical trial. [임상시험] — 극하근 건침이 혈류 상태 개선 및 내·외회전 ROM 증가에 효과적.
+[^51]: The effects of dry needling on muscle blood flow of the infraspinatus muscle in individuals with shoulder pain - a randomized clinical trial. Brown J 외. _The Journal of Manual & Manipulative Therapy_. 2025-08-01. [임상시험] [DOI 10.1080/10669817.2025.2464542](https://doi.org/10.1080/10669817.2025.2464542) [PMID 39930809](https://pubmed.ncbi.nlm.nih.gov/39930809/) — 극하근 건침 후 근육 혈류 상태가 개선되고 내·외회전 관절가동범위가 증가. 자침의 국소 미세순환 개선을 뒷받침하는 생리학적 관찰.
 [^52]: The effect of rotator cuff trigger points dry needling on the stability and function of the upper limb in people with shoulder pain: Randomized clinical trial study. [임상시험] — 회전근개 유발점 건침이 통증·안정성·기능에서 MCID를 상회하는 개선.
-[^53]: Dry Needling Plus Manual Therapy and Exercise for Subacromial Pain Syndrome: A Sham-Controlled Randomized Clinical Trial. [임상시험] — 건침 추가가 SPADI를 유의하게 개선하지는 않으나 환자 수용도·의료이용 감소에 이점.
+[^53]: Dry Needling Plus Manual Therapy and Exercise for Subacromial Pain Syndrome: A Sham-Controlled Randomized Clinical Trial. Hando BR 외. _The Journal of Orthopaedic and Sports Physical Therapy_. 2026-01-01. [임상시험] [DOI 10.2519/jospt.2025.13460](https://doi.org/10.2519/jospt.2025.13460) [PMID 41476428](https://pubmed.ncbi.nlm.nih.gov/41476428/) — 견봉하 통증 증후군에서 건침 추가가 주 평가 지표 SPADI를 유의하게 개선하지는 못했으나 환자 수용도가 높고 관련 의료 이용이 감소(주 지표 음성).
 [^54]: Efficacy of acupuncture and Chinese herbal fumigation comprehensive therapy in relieving neck, shoulder, lumbar, and leg pain in patients. [임상시험] — 침+중약훈증+재활+침도 병행 종합치료가 통증·기능 회복에 더 효과적.
-[^55]: Comparison Between Superficial and Deep Acupuncture in the Treatment of the Shoulder's Myofascial Pain: A Randomized and Controlled Study. [임상시험] — 심층 자침이 표층 자침보다 근막통증증후군의 통증 완화에 더 효과적.
-[^56]: Randomized trial of trigger point acupuncture treatment for chronic shoulder pain: a preliminary study. [임상시험] — 통점 표적 침 치료가 가짜 침보다 통증·기능 개선에 더 효과적.
-[^57]: Relief of chronic neck and shoulder pain by manual acupuncture to tender points--a sham-controlled randomized trial. [임상시험] — 압통점 침 치료가 단기 통증 감소에 효과적이나 장기 우월성은 불분명.
+[^55]: Comparison between superficial and deep acupuncture in the treatment of the shoulder's myofascial pain: a randomized and controlled study. Ceccherelli F 외. _Acupuncture & Electro-Therapeutics Research_. 2001-11. [임상시험] [DOI 10.3727/036012901816355938](https://doi.org/10.3727/036012901816355938) [PMID 11841108](https://pubmed.ncbi.nlm.nih.gov/11841108/) — 어깨 근막통증에서 심층 자침이 표층 자침보다 통증 완화에 더 효과적. 자침 심도를 병변 깊이에 맞추어 조절할 근거.
+[^56]: Randomized trial of trigger point acupuncture treatment for chronic shoulder pain: a preliminary study. Itoh K 외. _Journal of Acupuncture and Meridian Studies_. 2014-04-01. [임상시험] [DOI 10.1016/j.jams.2013.02.002](https://doi.org/10.1016/j.jams.2013.02.002) [PMID 24745863](https://pubmed.ncbi.nlm.nih.gov/24745863/) — 유발점을 표적으로 한 침 치료가 가짜침보다 만성 어깨 통증의 통증·기능 개선에 더 효과적인 예비 무작위 결과.
+[^57]: Relief of chronic neck and shoulder pain by manual acupuncture to tender points--a sham-controlled randomized trial. Nabeta T 외. _Complementary Therapies in Medicine_. 2002-12-01. [임상시험] [DOI 10.1016/s0965-2299(02)00082-1](https://doi.org/10.1016/s0965-2299(02)00082-1) [PMID 12594972](https://pubmed.ncbi.nlm.nih.gov/12594972/) — 압통점 수기 침 치료가 만성 목·어깨 통증의 단기 감소에 효과적이나 장기 우월성은 불분명.
 [^58]: Motion style acupuncture therapy for shoulder pain: a randomized controlled trial. [임상시험] — 동적 침 치료가 전통 침 치료보다 통증·기능 개선에 더 효과적이며 18주까지 유지.
-[^59]: German Randomized Acupuncture Trial for chronic shoulder pain (GRASP) - a pragmatic, controlled, patient-blinded, multi-centre trial in an outpatient care environment. [임상시험] — 중국식 침 치료가 보존 치료·가짜침보다 통증·가동성 개선에 유의하게 우수.
+[^59]: German Randomized Acupuncture Trial for chronic shoulder pain (GRASP) - a pragmatic, controlled, patient-blinded, multi-centre trial in an outpatient care environment. Molsberger AF 외. _Pain_. 2010-10-01. [임상시험] [DOI 10.1016/j.pain.2010.06.036](https://doi.org/10.1016/j.pain.2010.06.036) [PMID 20655660](https://pubmed.ncbi.nlm.nih.gov/20655660/) — 외래 환경 다기관·환자맹검 실용적 시험에서 중국식 침 치료가 보존적 표준 치료·가짜침보다 통증·가동성 개선에 유의하게 우수. 어깨 통증 침 치료 근거 중 방법론적 수준이 높은 축.
 [^60]: Acupuncture at local and distal points for chronic shoulder pain: study protocol for a randomized controlled trial. [임상시험] — 국소+원위 취혈 병용의 유효성을 평가하는 연구 프로토콜.
 [^61]: [Shoulder joint pain of rotator cuff injury treated with electroacupuncture and Mulligan's mobilization: a randomized controlled trial]. [임상시험] — 전침+Mulligan 가동술 병행이 각 단독보다 통증·기능·ROM 개선에 더 효과적.
-[^62]: Thread-Embedding Acupuncture for the Treatment of Shoulder Instability: Protocol for a Randomized, Controlled, Patient-Assessor Blinded Pilot Study. [임상시험] — 매선침의 어깨 불안정성에 대한 타당성·안전성 평가 프로토콜.
-[^63]: Effectiveness and safety of fluoroscopy-guided acupuncture for subacromial impingement syndrome: A protocol for a randomized, patient-assessor blind, parallel clinical trial. [임상시험] — 투시 유도 침 시술의 효과·안전성을 평가하는 연구 프로토콜.
+[^62]: Thread-Embedding Acupuncture for the Treatment of Shoulder Instability: Protocol for a Randomized, Controlled, Patient-Assessor Blinded Pilot Study. [기타] — 매선침의 어깨 불안정성에 대한 타당성·안전성 평가 프로토콜.
+[^63]: Effectiveness and safety of fluoroscopy-guided acupuncture for subacromial impingement syndrome: A protocol for a randomized, patient-assessor blind, parallel clinical trial. [기타] — 투시 유도 침 시술의 효과·안전성을 평가하는 연구 프로토콜.
 [^64]: Effectiveness and safety of fluoroscopy-guided acupuncture for subacromial impingement syndrome: A randomized, patient-assessor blind, parallel clinical trial. [임상시험] — 투시 유도 침 치료가 일반 침 치료보다 Neer 검사 통증·SPADI 개선에 더 효과적.
-[^65]: Battlefield Acupuncture Does Not Provide Additional Improvement in Pain When Combined With Standard Physical Therapy After Shoulder Surgery: A Randomized Clinical Trial. [임상시험] — 전장침 추가가 수술 후 통증·진통제 사용량 감소에 추가 이점 없음.
+[^65]: Battlefield Acupuncture Does Not Provide Additional Improvement in Pain When Combined With Standard Physical Therapy After Shoulder Surgery: A Randomized Clinical Trial. Crowell MS 외. _Military Medicine_. 2025-06-30. [임상시험] [DOI 10.1093/milmed/usae577](https://doi.org/10.1093/milmed/usae577) [PMID 39797512](https://pubmed.ncbi.nlm.nih.gov/39797512/) — 어깨 수술 후 표준 물리치료에 전장침을 추가해도 통증·진통제 사용량 감소에 추가 이점이 없었음(음성 결과). 관행적 병용보다 적응증 판단이 선행되어야 함을 시사.
 [^66]: Acupuncture treatment of shoulder impingement syndrome: A randomized controlled trial. [임상시험] — 침 치료가 가짜 침보다 단기·중기 통증·기능 개선에 유의미하게 효과적.
-[^67]: The Effectiveness of Acupuncture in the Treatment of Frozen Shoulder: A Systematic Review and Meta‐Analysis. [메타분석] — 침 치료가 오십견의 단기·중기 통증·기능·굴곡 ROM 개선에 안전하고 효과적일 수 있으나 근거 수준 낮음.
-[^68]: Electroacupuncture for the treatment of frozen shoulder: A systematic review and meta-analysis. [메타분석] — 전침이 오십견에서 일반 침보다 통증·기능 회복에 우월하고 부작용 보고 없음.
-[^69]: Comparative effectiveness of acupuncture-related therapies for frozen shoulder: a systematic review and network meta-analysis. [메타분석] — 소침도·온침뜸·마사지 병행 침 치료 등이 오십견 기능 회복에 효과적이나 근거 확실성은 낮음~보통.
+[^67]: The Effectiveness of Acupuncture in the Treatment of Frozen Shoulder: A Systematic Review and Meta-Analysis. Ben-Arie E 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-09-25. [메타분석, 13편] [DOI 10.1155/2020/9790470](https://doi.org/10.1155/2020/9790470) [PMID 33062030](https://pubmed.ncbi.nlm.nih.gov/33062030/) — 동결견에서 침 치료가 단기·중기 통증(VAS)·기능(CMS)·굴곡 가동범위를 유의하게 개선했으나 외회전·외전 가동범위는 유의하지 않았고 근거 수준은 매우 낮음. 최다 사용 경혈은 견우(LI15)·견료(TB14).
+[^68]: Electroacupuncture for the treatment of frozen shoulder: A systematic review and meta-analysis. Heo JW 외. _Frontiers in Medicine_. 2022-08-18. [체계적 고찰] [DOI 10.3389/fmed.2022.928823](https://doi.org/10.3389/fmed.2022.928823) [PMID 36059821](https://pubmed.ncbi.nlm.nih.gov/36059821/) — 전침이 동결견에서 일반 침 치료보다 통증·기능 회복에 우월했고 보고된 부작용이 없어, 회복기 유착 개선 목표에 전침을 우선 고려할 근거.
+[^69]: Comparative effectiveness of acupuncture-related therapies for frozen shoulder: a systematic review and network meta-analysis. Ji R 외. _Frontiers in Medicine_. 2025-11-26. [체계적 고찰] [DOI 10.3389/fmed.2025.1673193](https://doi.org/10.3389/fmed.2025.1673193) [PMID 41384127](https://pubmed.ncbi.nlm.nih.gov/41384127/) — 소침도·온침구·마사지 병행 침 치료 등이 동결견 기능 회복에 효과적이나 근거 확실성은 낮음~보통 수준.
 [^70]: Pharmacoacupuncture for the Treatment of Frozen Shoulder: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. [메타분석] — 약침이 오십견의 통증·가동성·ADL·삶의 질 개선에 효과적이나 봉독 과민반응 주의 필요.
 [^71]: Acupuncture at Tiaokou (ST38) for Shoulder Adhesive Capsulitis: What Strengths Does It Have? A Systematic Review and Meta-Analysis of Randomized Controlled Trials. [메타분석] — 조구(ST38) 원위 취혈이 오십견의 통증·기능 개선에 유효.
 [^72]: Efficacy of Combining Acupuncture and Physical Therapy for the Management of Patients With Frozen Shoulder: A Systematic Review and Meta-Analysis. [메타분석] — 침+물리치료 병행이 물리치료 단독보다 통증·유효율·ROM 개선에 더 효과적.
-[^73]: Different acupuncture therapies combined with rehabilitation in the treatment of scapulohumeral periarthritis: A protocol for systematic review and network meta-analysis. [메타분석] — 견관절주위염의 다양한 침 치료법 상대적 유효성을 비교하는 네트워크메타분석 프로토콜.
+[^73]: Different acupuncture therapies combined with rehabilitation in the treatment of scapulohumeral periarthritis: A protocol for systematic review and network meta-analysis. Wei L 외. _Medicine_. 2020-12-18. [기타] [DOI 10.1097/MD.0000000000023085](https://doi.org/10.1097/MD.0000000000023085) [PMID 33371060](https://pubmed.ncbi.nlm.nih.gov/33371060/) — 견관절주위염의 다양한 침 치료법 상대적 유효성을 비교하려는 연구 계획서로, 결과가 아직 발표되지 않음.
 [^74]: Acupotomy for Scapulohumeral Periarthritis. [임상시험] — 도침이 소염진통제보다 통증·ROM·완치율에서 더 우수.
 [^75]: The effect of traditional wet cupping on shoulder pain and neck pain: A pilot study. [임상시험] — 습식 부항이 비특이적 목·어깨 통증의 통증 수치를 유의하게 감소시키는 잠재적 효과.
 [^76]: Periarthritic Shoulder Cupping Therapy: Clinical Mechanisms, Rehabilitation Integration, and Outcomes in Musculoskeletal Shoulder Disorders. [문헌 고찰] — 부항이 신경생리학적 통증 조절·미세혈류 개선·근막 감압을 통해 어깨 통증에 유용한 보조 치료법.
@@ -762,26 +834,24 @@
 [^79]: Long-Term Follow-Up of Inpatients with Rotator Cuff Tear Who Received Integrative Korean Medicine Treatment: A Retrospective Analysis and Questionnaire Survey. [관찰연구] — 통합 한의 치료가 회전근개 파열 환자의 통증·기능·삶의 질에 장기적으로 긍정적 효과.
 [^80]: Inpatients with shoulder osteoarthritis who received integrative Korean medicine treatment: Long-term follow-up of an observation study. [관찰연구] — 통합 한의 치료가 어깨 관절증 환자의 통증·기능·삶의 질을 장기적으로 개선.
 [^81]: Efficacy of acupuncture and Chinese herbal fumigation comprehensive therapy in relieving neck, shoulder, lumbar, and leg pain in patients. [임상시험] — 침+중약훈증+재활+침도 종합치료가 다부위 통증·기능 회복에 더 효과적.
-[^82]: Acromion Index in Korean Population and Its Relationship with Rotator Cuff Tears. [관찰연구] — 견봉 지수가 한국인에서 회전근개 파열의 유효한 예측 인자.
+[^82]: Acromion Index in Korean Population and Its Relationship with Rotator Cuff Tears. Kum DH 외. _Clinics in Orthopedic Surgery_. 2017-06-01. [관찰연구] [DOI 10.4055/cios.2017.9.2.218](https://doi.org/10.4055/cios.2017.9.2.218) [PMID 28567226](https://pubmed.ncbi.nlm.nih.gov/28567226/) — 한국인에서 견봉지수가 클수록 회전근개 파열 위험이 높아 유효한 예측 인자임을 확인. 회전근개 파열의 해부학적 배경을 석회성건염의 세포 매개성 석회화와 구분하는 근거.
 [^83]: The diagnostic value of a modified Neer test in identifying subacromial impingement syndrome. [관찰연구] — 변형된 니어 검사가 견봉하 충돌 증후군을 90.59% 정확도로 진단, 오십견과의 감별에 유용.
 [^84]: Medical service use and usual care of common shoulder disorders in Korea: a cross-sectional study using the Health Insurance Review and Assessment Service National Patient Sample. [관찰연구] — 회전근개 증후군군의 입원·수술 비중과 의료비가 가장 높고 50대에서 유병률 최고.
 [^85]: Can Ashi points stimulation have specific effects on shoulder pain? A systematic review of randomized controlled trials. [체계적 고찰] — 아시혈 자극이 일반 침·약물 치료보다 효과적일 가능성.
-[^86]: Clinical Efficacy of Different Therapies for Painful Shoulder Conditions: A Network Meta-Analysis of Randomized Controlled Trials. [메타분석] — 단기에는 침이, 장기에는 히알루론산·SSNB·관절낭 유리술이 물리치료보다 우수.
+[^86]: Clinical Efficacy of Different Therapies for Painful Shoulder Conditions: A Network Meta-Analysis of Randomized Controlled Trials. Chen KH 외. _Healthcare (Basel)_. 2025-11-14. [메타분석] [DOI 10.3390/healthcare13222920](https://doi.org/10.3390/healthcare13222920) [PMID 41302307](https://pubmed.ncbi.nlm.nih.gov/41302307/) — 어깨 통증 질환군에서 단기에는 침 치료가, 장기에는 히알루론산 주사·견갑상신경차단·관절낭 유리술이 물리치료보다 우수. 침을 단기 통증 조절의 강점으로 배치하는 근거.
 [^87]: Therapeutic efficacy study on shoulder impingement syndrome in swimmers: a network meta-analysis. [메타분석] — 운동 기반 재활이 핵심이며 침·체외충격파·테이핑·도수치료 병행이 증상별로 유리.
 [^88]: Comparative effectiveness of physical therapy interventions in adults with rotator cuff tendinopathy: a systematic review and network meta-analysis. [메타분석] — 어깨 근력 강화 운동이 통증·기능 개선의 1차 치료로 효과적.
 [^89]: Ultrasonographic Validity of Clinical Shoulder Impingement Signs in Patients Without Limitation of Motion. [관찰연구] — ROM이 유지되며 충돌 징후만 있는 경우 초기 유착성 관절낭염 가능성, 초음파·주사 반응으로 감별.
 [^90]: Features of Golf-Related Shoulder Pain in Korean Amateur Golfers. [관찰연구] — 비우세측 극상근 파열이 흔하고 연습 시간과 상관관계.
-[^91]: Comparative Effectiveness of Botulinum Toxin Injection for Chronic Shoulder Pain: A Meta-Analysis of Randomized Controlled Trials. [메타분석] — 보툴리눔 톡신이 1~3개월 시점에 생리식염수·스테로이드보다 우수한 통증 감소.
-[^92]: Study on the Effectiveness of Ultrasound-guided Pulsed Radiofrequency Therapy for Shoulder Pain Caused by Trigger Points. [임상시험] — 초음파 유도 펄스고주파가 건침보다 견관절주위염 통증·기능 회복에 더 효과적.
+[^92]: Study on the Effectiveness of Ultrasound-guided Pulsed Radiofrequency Therapy for Shoulder Pain Caused by Trigger Points. Shen W 외. _The Clinical Journal of Pain_. 2025-02-01. [임상시험] [DOI 10.1097/AJP.0000000000001265](https://doi.org/10.1097/AJP.0000000000001265) [PMID 39682050](https://pubmed.ncbi.nlm.nih.gov/39682050/) — 유발점성 어깨 통증에서 초음파 유도 펄스고주파가 건침보다 통증·기능 회복에 더 우수. 건침에 불리한 비교 결과이나 난치성 유발점 통증의 시술적 대안을 함께 고려할 근거.
 [^93]: Effectiveness and Safety of Acupotomy Treatment on Shoulder Pain: 25 Multicenter Retrospective Study. [관찰연구] — 도침이 어깨 통증에 유의한 효과가 있고 치료 횟수 증가에 따라 효과 증대, 심각한 이상반응 없음.
-[^94]: Effectiveness and safety of tenosynovitis of the long head of the biceps brachii with acupuncture: a protocol for a systematic review and meta-analysis. [체계적 고찰] — 상완이두근 장두 건초염에 대한 침 치료 효과·안전성 평가 프로토콜.
-[^95]: Clinical effectiveness of trigger point acupuncture on chronic neck and shoulder pain (katakori) with work productivity loss in office workers: a randomized clinical trial. [임상시험] — 통점 침 치료가 사무직 근로자의 만성 목·어깨 통증과 생산성 손실 개선에 효과적.
+[^94]: Effectiveness and safety of tenosynovitis of the long head of the biceps brachii with acupuncture: a protocol for a systematic review and meta-analysis. [기타] — 상완이두근 장두 건초염에 대한 침 치료 효과·안전성 평가 프로토콜.
+[^95]: Clinical effectiveness of trigger point acupuncture on chronic neck and shoulder pain (katakori) with work productivity loss in office workers: a randomized clinical trial. Minakawa Y 외. _Journal of Occupational Health_. 2024-01-04. [임상시험, 20명] [DOI 10.1093/joccuh/uiad016](https://doi.org/10.1093/joccuh/uiad016) [PMID 38273431](https://pubmed.ncbi.nlm.nih.gov/38273431/) — 통점 침 치료가 사무직 근로자의 만성 목·어깨 통증과 생산성 손실 개선에 효과적이었으나 소규모 표본으로 확증적 근거는 아님.
 [^96]: Long-term effectiveness of bee venom acupuncture and physiotherapy in the treatment of adhesive capsulitis: a one-year follow-up analysis of a previous randomized controlled trial. [관찰연구] — 봉침+물리치료 병행 효과가 치료 종료 1년 후에도 유지.
-[^97]: Effectiveness of Pharmacopuncture Therapy in Adhesive Capsulitis: a Study Protocol for a Pragmatic Randomized Controlled Trial. [임상시험] — 유착성 관절낭염에서 약침 요법의 유효성·안전성을 물리치료와 비교하는 프로토콜.
-[^98]: [Observation on clinical therapeutic effect of transcutaneous point electric stimulation on periarthritis of shoulder at different stages]. [임상시험] — 경피전기자극(TENS)이 견관절주위염의 유착 초기·유착 단계 모두에서 통증·기능 개선에 효과적.
-[^99]: [Clinical research of shoulder-arm pain of cervical spondylotic radiculopathy treated with acupuncture based on the axillary nerve distribution]. [임상시험] — 액와신경 분포 영역 취혈 전침이 경추척수증성 신경근증의 어깨-팔 통증에 더 효과적.
-[^100]: Electroacupuncture combined with rehabilitation techniques for patients with rotator cuff injury. [문헌 고찰] — 전침+재활 병행이 회전근개 손상의 통증·기능 회복에 효과적일 수 있음.
-[^101]: Effects of Acupuncture Versus Ultrasound in Patients With Impingement Syndrome: Randomized Clinical Trial. [임상시험] — 홈 운동+침 치료가 초음파 치료보다 어깨 기능 장애 개선에 더 효과적.
+[^97]: Effectiveness of Pharmacopuncture Therapy in Adhesive Capsulitis: a Study Protocol for a Pragmatic Randomized Controlled Trial. [기타] — 유착성 관절낭염에서 약침 요법의 유효성·안전성을 물리치료와 비교하는 프로토콜.
+[^98]: [Observation on clinical therapeutic effect of transcutaneous point electric stimulation on periarthritis of shoulder at different stages]. Fang JQ 외. _Zhongguo Zhen Jiu_. 2006-01-01. [임상시험] [PMID 16491749](https://pubmed.ncbi.nlm.nih.gov/16491749/) — 경피 혈위 전기 자극이 견관절주위염의 유착 초기·유착 단계 모두에서 통증·기능을 개선. 자침이 어려운 환자의 비침습적 경혈 자극 대안 근거.
+[^100]: Electroacupuncture combined with rehabilitation techniques for patients with rotator cuff injury. Wang ZY 외. _World Journal of Clinical Cases_. 2025-06-16. [기타] [DOI 10.12998/wjcc.v13.i17.98692](https://doi.org/10.12998/wjcc.v13.i17.98692) [PMID 40524768](https://pubmed.ncbi.nlm.nih.gov/40524768/) — 전침과 재활 병행에 관한 원 무작위대조시험에 대한 서한(letter)으로, 독립적 임상 근거가 아니며 해당 원 연구는 별도로 인용함.
+[^101]: Effects of acupuncture versus ultrasound in patients with impingement syndrome: randomized clinical trial. Johansson KM 외. _Physical Therapy_. 2005-06-01. [임상시험] [PMID 15921471](https://pubmed.ncbi.nlm.nih.gov/15921471/) — 어깨충돌증후군에서 홈 운동+침 치료가 홈 운동+초음파 치료보다 어깨 기능 장애 개선에 더 효과적. 운동치료를 축으로 침을 병행하는 전략의 근거.
 [^102]: Acromioplasty rates in patients with shoulder disorders with and without acupuncture treatment: a retrospective propensity score-matched cohort study. [관찰연구] — 침 치료가 견봉성형술 등 수술 이행률을 유의하게 낮출 수 있음.
 [^103]: Ultrasound-Guided Electroacupuncture Treatment for Rotator Cuff Tendinopathy: Proposing an Effective Alternative to Nonoperative Medical Treatments. [임상시험] — 물리치료·스테로이드에 반응 없던 환자에서 초음파 유도 전침이 단기·장기 개선.
 [^104]: Effectiveness of motion style acupuncture treatment for patients with shoulder disorders: A prospective observational study. [관찰연구] — MSAT 병행이 일반 한의 치료 단독보다 ROM·통증·장애 지수 개선에 더 효과적, 3개월 유지.
