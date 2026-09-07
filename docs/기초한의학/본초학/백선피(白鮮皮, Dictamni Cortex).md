@@ -239,7 +239,7 @@ COVID-19 이후 발생한 중증 건선 증례에서는 습(濕)·비기허(脾�
 
 #### 5-2-4. RUCAM 인과성 평가에서의 백선피
 
-약인성 간손상의 인과성 평가에서 국제적으로 가장 널리 쓰이는 도구는 RUCAM(Roussel Uclaf Causality Assessment Method)이다. 종양학적 관점에서 한약 유발 간손상 문헌을 검토한 리뷰는, **RUCAM으로 확증된 증례가 1건을 초과하는 약재·제제** 를 별도로 정리하였는데 그 목록에 백선피(Bai Xian Pi, *Dictamnus dasycarpus*)가 포함된다. 함께 이름을 올린 것은 녹차(*Camellia sinensis*), 삼칠(*Gynura segetum*), 금불환(*Lycopodium serratum*), 하수오(*Polygoni multiflora*), 갈근(*Pueraria lobata*)과 몇몇 중성약이었다.[^59] 즉 백선피의 간독성은 개별 증례의 인상이 아니라 **표준화된 인과성 평가 도구로 반복 확증된 신호** 다. 이 리뷰가 종양 환자를 대상으로 한다는 점에서, 항암 치료 중인 환자에게 백선피를 병용할 때의 경고로도 직접 읽힌다.
+약인성 간손상의 인과성 평가에서 국제적으로 가장 널리 쓰이는 도구는 RUCAM(Roussel Uclaf Causality Assessment Method)이다. 종양학적 관점에서 한약 유발 간손상 문헌을 검토한 리뷰는, **RUCAM으로 확증된 증례가 1건을 초과하는 약재·제제** 를 별도로 정리하였는데 그 목록에 백선피(Bai Xian Pi, *Dictamnus dasycarpus*)가 포함된다. 함께 이름을 올린 것은 녹차(*Camellia sinensis*), 토삼칠(土三七, *Gynura segetum* — 삼칠(三七, *Panax notoginseng*)과는 기원이 다른 별개 약재로, 피롤리지딘 알칼로이드에 의한 간정맥동폐색증후군의 원인이다), 금불환(*Lycopodium serratum*), 하수오(*Polygoni multiflora*), 갈근(*Pueraria lobata*)과 몇몇 중성약이었다.[^59] 즉 백선피의 간독성은 개별 증례의 인상이 아니라 **표준화된 인과성 평가 도구로 반복 확증된 신호** 다. 이 리뷰가 종양 환자를 대상으로 한다는 점에서, 항암 치료 중인 환자에게 백선피를 병용할 때의 경고로도 직접 읽힌다.
 
 한편 한약 유발 간손상 진단에 일반 약인성 간손상 지침과 한약 특화 지침 중 어느 쪽이 더 적합한지를 390명에서 비교한 연구는 한약 특화 지침이 더 적합한 진단 도구임을 시사하였고,[^18] 갱신된 RUCAM으로 두 병원의 증례 82명을 평가한 역학 연구는 한약과 건강기능식품이 주요 원인임을 확인하였다.[^19]
 
