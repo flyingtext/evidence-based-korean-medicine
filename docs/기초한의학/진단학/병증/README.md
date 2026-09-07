@@ -179,7 +179,7 @@
 
 지식재산청 한국전통지식포탈(koreantk.com)의 전통 병증 표제어 2,574건 전체를, 위 내경편·외형편·잡병편의 문(門) 분류에 맞추어 재배열한 색인이다. 1차 시도에서는 한글 표기에 포함된 단일 한자/음절(예: "비"·"심"·"담" 등)만으로 매칭하는 규칙을 썼으나, 이는 동음이의 한자를 구분하지 못해 심각한 오분류를 일으켰다(예: 코(鼻)·비장(脾臟)이 모두 한글 "비"로 읽혀 코 관련 병증이 비장문에 섞이거나, 가래(痰飮)·쓸개(膽腑)가 모두 "담"으로 읽혀 담부 항목이 전부 담음문에 흡수되는 등). 이번 개정에서는 다음과 같이 분류 방식을 개선했다. ① 한자 원문(oriental_hanja) 필드를 기준으로 매칭하여 동음이의 한자 혼동을 원천적으로 배제했다. ② 오장육부문은 해당 장부 한자가 포함되어도 실제로는 다른 문에 속하는 관용적 조어(예: 심하비心下痞·심복心腹처럼 "심"이 명치·복부를 가리키는 경우, 외신外腎·목신木腎처럼 "신"이 콩팥이 아니라 남성 생식기를 가리키는 경우)는 서양의학 대응 병명(western_en)을 교차 확인하여 제외하고 복(腹)·전음(前陰) 등 실제 부합하는 문으로 옮겼다. ③ 가능한 한 2음절 이상의 구체적 병증 조어(예: 심계心悸·심통心痛·비허脾虛·완복冷痛 등)를 우선 매칭하고, 단일 한자는 다른 규칙으로 걸러지지 않은 잔여 항목에 한해 보조적으로만 사용했다. ④ 규칙 보강으로 재분류 가능해진 항목을 미분류에서 이동했다. ⑤ 3차 개정에서는 규칙(키워드 매칭)으로 걸러지지 않던 잔여 547건(주로 단독 한자 조어로 이루어진 고전 병증명)을 한의학 고전 지식에 기반한 의미론적 판단으로 전량 재배정하여, 미분류 항목을 0건으로 만들었다. 그럼에도 이 부록은 원전을 직접 대조한 표가 아니라 자동·수동 혼합 분류이므로 여전히 **잠정적 색인**이며, 개별 표제어의 정확한 소속은 링크를 통해 원문(한국전통지식포탈)을 직접 확인해야 한다. 신체 부위·병인 어느 쪽으로도 판단 근거가 약한 표제어에는 "(분류 근거 약함)" 표시를 남겨두었다. ⑥ 나아가 각 문(門) 내부도 병증명의 한자 구성·동반증상에 기반해 의미상 하위 그룹으로 재클러스터링하고, 그룹마다 시기·동기·위치·성격·강도·변화양상·동반증상 7축 중 가장 대표적인 축 하나만 `— 축이름: 값` 형식으로 태깅했다(그룹 수는 문의 규모에 따라 상이하며, 어느 그룹에도 뚜렷이 속하지 않는 항목은 잔여 그룹인 "기타"로 묶었다).
 
-형식: **한글명**(한자, 로마자 표기) — 서양의학 대응 병명(영문) — [KoreanTK 조회](링크)
+형식: **한글명**(한자, 로마자 표기) — 서양의학 대응 병명(영문) — `[KoreanTK 조회](링크)`
 
 ### 내경편(內景篇) 권1
 
@@ -1967,7 +1967,7 @@
 
 - **구체**(鼽嚔, Guche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001015)
 - **구체**(鼽涕, Guche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0001014)
-- **비구**(鼻鼽, Bigu) — 급성 코인두염[감기](acute nasopharyngitis[common cold]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003629)
+- **비구**(鼻鼽, Bigu) — 급성 코인두염[감기] (acute nasopharyngitis[common cold]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003629)
 - **비류탁체**(鼻流濁涕, Biryutakche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003653)
 - **비체**(鼻涕, Biche) — 콧물(rhinorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003802)
 - **분체**(噴嚔, Bunche) — 재채기(sneeze) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003556)
@@ -3140,7 +3140,7 @@
 - **중풍치매**(中風痴呆, Jungpungchimae) — 혈관성 치매(vascular dementia) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009382)
 - **진중풍**(眞中風, Jinjungpung) — 중풍(stroke) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009483)
 - **통풍**(痛風, Tongpung) — 통풍(gout) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010285)
-- **풍사**(風痧, Pungsa) — 풍진 [독일홍역](rubella [german measles]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010658)
+- **풍사**(風痧, Pungsa) — 풍진 [독일홍역] (rubella [german measles]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010658)
 - **풍수**(風嗽, Pungsu) — 기침(cough) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010669)
 - **풍의**(風懿, Pungui) — 중풍(stroke) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010773)
 - **풍훈**(風暈, Punghun) — 현기증(vertigo) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010857)
@@ -4100,7 +4100,7 @@
 - **음증발반**(陰證發斑, Eumjeungbalban) — 다형홍반(erythema multiforme) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008077)
 - **종선**(腫癬, Jongseon) — 건선(psoriasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0009159)
 - **풍선**(風癬, Pungseon) — 건선(psoriasis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010660)
-- **풍진**(風疹, Pungjin) — 풍진 [독일홍역](rubella [german measles]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010798)
+- **풍진**(風疹, Pungjin) — 풍진 [독일홍역] (rubella [german measles]) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010798)
 - **피진**(皮疹, Pijin) — 발진(eruption) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0010910)
 - **황선**(黃癬, Hwangseon) — 황선(favus) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0012244)
 
