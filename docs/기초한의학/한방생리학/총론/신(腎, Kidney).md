@@ -218,7 +218,7 @@
 
 #### 8-3. 만성신장질환에서의 변증-신기능 상관 연구
 
-임상적으로 신주수 이론에 기반한 한의학 치료의 근거는 CKD 영역에서 특히 풍부하다. 뇌담자오영편(雷公藤) 다배당 정제의 CKD 메타분석은 6,418명의 자료를 종합했다[^52]. 벤아제프릴에 거풍제습(祛風除濕) 한약을 병용한 임상시험(60명)[^53], 황기당귀 혼합제의 신기능·TCM증후 인자 치료 효과 임상시험(32명)[^54], 건비청화탕(健脾淸化湯)의 3기 CKD 다기관 무작위 대조 연구(270명)[^55], 인낭방(茵囊方)의 3~4기 CKD 무작위 대조 연구(72명)[^56], CKD 외래환자의 중성약 처방 실태 조사(78명)[^57] 등이 CKD의 각 병기·증후에서 한의학적 개입의 임상 근거를 제공한다. 뜸 치료의 CKD 체계적 고찰·메타분석(1,571명)[^61], 한약 관장이 신기능·요독소·장내미생물총에 미치는 영향을 조사한 임상시험(102명)[^62], 당신방(糖腎方)을 표준치료에 병용한 임상시험(144명)[^63], 중서의 통합치료의 CKD·당뇨병 후향적 관찰연구(38명)[^64], 규자황규화(葵子黃葵花) 제제(아욱꽃 추출물)의 다기관 무작위 대조 연구(2,054명)[^65], 뜸이 신동맥 저항지수에 미치는 영향을 본 임상시험(43명)[^66]이 대표적이다. CKD 환자의 보완대체의학 이용 실태 조사(278명)[^67], 신독성 약물의 CKD 위험인자 관찰연구(218명)[^68], CKD 환자의 요가 체계적 고찰[^69], 중의약의 CKD 기전에 대한 문헌 고찰[^70]도 보완적 근거를 이룬다. 당뇨병성 신증에 대한 중의약 임상시험의 체계적 고찰[^72]과 초기 당뇨병성 신증 손상 정도를 요검사 지표로 예측한 관찰연구[^73]도 신주수-당뇨병성 신증 접점의 근거다.
+임상적으로 신주수 이론에 기반한 한의학 치료의 근거는 CKD 영역에서 특히 풍부하다. 뇌담자오영편(雷公藤) 다배당 정제의 CKD 메타분석은 6,418명의 자료를 종합했다[^52]. 벤아제프릴에 거풍제습(祛風除濕) 한약을 병용한 임상시험(60명)[^53], 황기당귀 혼합제의 신기능·TCM증후 인자 치료 효과 임상시험(32명)[^54], 건비청화탕(健脾淸化湯)의 3기 CKD 다기관 무작위 대조 연구(270명)[^55], CKD 외래환자의 중성약 처방 실태 조사(78명)[^57] 등이 CKD의 각 병기·증후에서 한의학적 개입의 임상 근거를 제공한다. 뜸 치료의 CKD 체계적 고찰·메타분석(1,571명)[^61], 한약 관장이 신기능·요독소·장내미생물총에 미치는 영향을 조사한 임상시험(102명)[^62], 당신방(糖腎方)을 표준치료에 병용한 임상시험(144명)[^63], 중서의 통합치료의 CKD·당뇨병 후향적 관찰연구(38명)[^64], 규자황규화(葵子黃葵花) 제제(아욱꽃 추출물)의 다기관 무작위 대조 연구(2,054명)[^65], 뜸이 신동맥 저항지수에 미치는 영향을 본 임상시험(43명)[^66]이 대표적이다. CKD 환자의 보완대체의학 이용 실태 조사(278명)[^67], 신독성 약물의 CKD 위험인자 관찰연구(218명)[^68], CKD 환자의 요가 체계적 고찰[^69], 중의약의 CKD 기전에 대한 문헌 고찰[^70]도 보완적 근거를 이룬다. 당뇨병성 신증에 대한 중의약 임상시험의 체계적 고찰[^72]과 초기 당뇨병성 신증 손상 정도를 요검사 지표로 예측한 관찰연구[^73]도 신주수-당뇨병성 신증 접점의 근거다. 다만 상염색체 우성 다낭신에 동반된 3~4기 CKD를 대상으로 한 인낭방(Yinang formulation)의 위약 대조 시험은 계획서만 공개된 진행 중 연구이므로 아직 유효성 근거로 삼을 수 없다[^56].
 
 #### 8-4. 전통-현대 대응표 — 신주수
 
@@ -280,7 +280,7 @@
 
 #### 12-1. 골밀도·골대사 지표와 신허 변증
 
-신주골 이론은 현대 골대사학과 가장 폭넓게 대응하는 신의 기능이다. 골밀도(BMD)와 TCM 증후 유형의 상관을 조사한 관찰연구(52명)는 신허 증후가 낮은 골밀도와 유의하게 연관됨을 보고했다[^82]. 보신(補腎) 치법의 골다공증 임상 근거는 매우 풍부하다 — 경혈 매선요법(埋線療法)의 폐경후 골다공증 무작위 대조 연구(90명)[^83], 침술과 TDP(특정 전자기파)를 병용해 에스트로겐·골대사에 미치는 영향을 본 무작위 대조 연구(112명)[^84], 보골생수(補骨生髓)캡슐의 신양허형 원발성 골다공증 임상시험[^85], 보신처방의 폐경후 골다공증 25례 관찰연구(45명)[^86]가 대표적이다. 보신·건비 병용 한의학 치료의 체계적 고찰[^87], 보신강도(補腎強督)방의 강직성 척추염 골다공증·골손실 임상시험(360명)[^88], 보신활혈캡슐의 노년 남성 골다공증 삶의 질 임상시험(200명)[^89], 보신강골(補腎強骨)법의 원발성 골다공증 체계적 고찰 프로토콜[^90], 종합요법의 강직성 척추염 골다공증 동반 SPARC 지표 임상시험(48명)[^91]도 함께 보고되었다. 코크란 체계적 고찰(10,655명, 다수 RCT 종합)은 한약이 골다공증 관리에서 보조적 근거를 가짐을 확인했다[^92]. 좌귀환(左歸丸)을 서양의학 표준치료와 병용한 폐경후 골다공증 체계적 고찰[^93]과 좌귀환·우귀환(右歸丸)의 골다공증 무작위 대조 연구(200명)[^94]는 신음신양 이론에 기반한 대표 방제의 골대사 근거다.
+신주골 이론은 현대 골대사학과 가장 폭넓게 대응하는 신의 기능이다. 골밀도(BMD)와 TCM 증후 유형의 상관을 조사한 관찰연구(52명)는 신허 증후가 낮은 골밀도와 유의하게 연관됨을 보고했다[^82]. 보신(補腎) 치법의 골다공증 임상 근거는 매우 풍부하다 — 경혈 매선요법(埋線療法)의 폐경후 골다공증 무작위 대조 연구(90명)[^83], 침술과 TDP(특정 전자기파)를 병용해 에스트로겐·골대사에 미치는 영향을 본 무작위 대조 연구(112명)[^84], 보골생수(補骨生髓)캡슐의 신양허형 원발성 골다공증 임상시험[^85], 보신처방의 폐경후 골다공증 25례 관찰연구(45명)[^86]가 대표적이다. 보신강도(補腎強督)방의 강직성 척추염 골다공증·골손실 임상시험(360명)[^88], 보신활혈캡슐의 노년 남성 골다공증 삶의 질 임상시험(200명)[^89], 종합요법의 강직성 척추염 골다공증 동반 SPARC 지표 임상시험(48명)[^91]도 함께 보고되었다. 코크란 체계적 고찰(10,655명, 다수 RCT 종합)은 한약이 골다공증 관리에서 보조적 근거를 가짐을 확인했다[^92]. 좌귀환(左歸丸)을 서양의학 표준치료와 병용한 폐경후 골다공증 체계적 고찰[^93]과 좌귀환·우귀환(右歸丸)의 골다공증 무작위 대조 연구(200명)[^94]는 신음신양 이론에 기반한 대표 방제의 골대사 근거다. 한편 보신건비활혈 치법의 2형 당뇨병 동반 골다공증에 대한 체계적 고찰[^87]과 보신강골법의 원발성 골다공증에 대한 체계적 고찰[^90]은 계획서만 공개된 진행 중 연구여서, 아직 유효성 근거로 계수하지 않는다.
 
 만성신장질환에서 낮은 골밀도의 신기능적 위험요인을 조사한 관찰연구(2,128명)[^95]와 비투석 CKD 환자에서 골밀도와 전체 사망률의 관계를 조사한 관찰연구(2,089명)[^96]는 서양의학적 관점에서도 신 기능과 골대사가 밀접히 연동됨을 뒷받침한다(인간 데이터 한정, 서양의학 연구로서 한의학적 변증과 직접 결부되지는 않음에 유의).
 
@@ -542,7 +542,7 @@ M80(골다공증, 병적 골절 동반), M81(골다공증, 병적 골절 비동�
 골밀도(BMD)와 TCM 증후 유형의 상관은 관찰연구로 확인되었다[^82]. 신양허 증후군에서 강골캡슐 내 성분의 약동학이 유의하게 다르다는 소견(신양허 문서 §7-6)은 변증이 골대사 약동학과 실증적으로 연관됨을 보여준다.
 
 ##### ④ 치료
-보신(補腎) 치법의 임상 근거는 12-1절에서 상세히 인용한 대로 매우 풍부하다[^83][^84][^85][^86][^87][^88][^89][^90][^91][^92][^93][^94]. 좌귀환·우귀환 계열이 신음신양 각각을 겨냥한 대표 방제로 활용된다. **변증 없는 관행적 보신 처방은 근거에 부합하지 않는다** — 신양허형과 신음허형 골다공증은 겸증(한열)이 다르므로 처방 선택이 달라져야 한다.
+보신(補腎) 치법의 임상 근거는 12-1절에서 상세히 인용한 대로 매우 풍부하다[^83][^84][^85][^86][^88][^89][^91][^92][^93][^94]. 좌귀환·우귀환 계열이 신음신양 각각을 겨냥한 대표 방제로 활용된다. **변증 없는 관행적 보신 처방은 근거에 부합하지 않는다** — 신양허형과 신음허형 골다공증은 겸증(한열)이 다르므로 처방 선택이 달라져야 한다.
 
 ##### ⑤ 예후
 장기간의 보신 치료는 골밀도 개선·골절 위험 감소와 관련된 것으로 보고되나, 서양의학적 표준치료(비스포스포네이트, 데노수맙 등)를 대체하기보다 병용하는 것이 현재 근거 수준에서 합리적이다.
@@ -562,7 +562,7 @@ N18(만성 신장병). N18.1~N18.5는 병기(1~5기)에 따라 세분된다.
 서양의학적으로 사구체여과율(eGFR) 저하, 단백뇨, 전해질 이상이 핵심 병태생리다. TCM 증후와 요단백·신기능 지표의 상관은 다수의 인체 관찰연구로 확인되었다[^58][^59][^60][^61].
 
 ##### ④ 치료
-8-3절에서 인용한 근거들이 이 질환군의 핵심 치료 근거를 이룬다[^52][^53][^54][^55][^56][^57][^62][^63][^64][^65][^66][^69][^70][^72]. **변증 층화가 필수적이다** — 초기 단백뇨 우세형과 말기 신허수범형은 치법이 크게 다르며, 획일적 "보신" 처방은 근거에 부합하지 않는다.
+8-3절에서 인용한 근거들이 이 질환군의 핵심 치료 근거를 이룬다[^52][^53][^54][^55][^57][^62][^63][^64][^65][^66][^69][^70][^72]. **변증 층화가 필수적이다** — 초기 단백뇨 우세형과 말기 신허수범형은 치법이 크게 다르며, 획일적 "보신" 처방은 근거에 부합하지 않는다.
 
 ##### ⑤ 예후
 CKD의 병기가 진행할수록 골대사 이상·빈혈·심혈관 위험이 동반 상승한다(21-1, 13-1절의 CKD-골밀도, CKD-청력 상관 연구 참조). 한의학적 개입이 신기능 저하 속도를 늦추는 데 보조적으로 기여할 가능성이 제시되나, 표준 신장내과 관리(혈압·혈당 조절, RAAS 차단제 등)를 대체할 수 없다.
@@ -602,7 +602,7 @@ N46(남성 불임), N97(여성 불임).
 정액 대사체 이상(신양허 문서 §7-5), HPG 축 이론적 대응(6-1절)이 이 질환군의 병태생리적 배경을 이룬다.
 
 ##### ④ 치료
-남성 불임 관련 근거는 6절에서 상세히 인용했다[^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29]. 여성 난소 예비능 저하 관련 근거 역시 6-2절에 정리했다[^4][^5][^6][^7][^8][^9]. **변증 층화의 원칙** 이 특히 중요하다 — 신양허형 남성 불임에 자음 위주 처방을 쓰거나, 신음허형에 온양 위주 처방을 쓰는 것은 근거에 부합하지 않는다.
+남성 불임 관련 근거는 6절에서 상세히 인용했다[^16][^17][^18][^19][^20][^21][^22][^23][^24][^26][^27][^28][^29]. 여성 난소 예비능 저하 관련 근거 역시 6-2절에 정리했다[^4][^5][^6][^7][^8][^9]. **변증 층화의 원칙** 이 특히 중요하다 — 신양허형 남성 불임에 자음 위주 처방을 쓰거나, 신음허형에 온양 위주 처방을 쓰는 것은 근거에 부합하지 않는다.
 
 ##### ⑤ 예후
 경도~중등도 정액 이상은 3~6개월의 보신 치료로 개선 가능성이 보고되나, 폐쇄성 무정자증 등 기질적 원인은 반드시 비뇨의학과 협진이 필요하다.
@@ -802,7 +802,7 @@ R62.8(기타 및 상세불명의 발육 결여 및 성장 지연), E23.0(뇌하�
 
 **Q6. 남성 불임에 신 관련 한의학 치료가 도움이 되는가?**
 
-정자 운동성 저하·정액 이상이 있는 경도~중등도 남성 불임에서 보신 치법(온보신양 또는 자보신음)이 정액 지표를 개선했다는 임상 근거가 다수 보고되어 있다[^16][^17][^18][^19][^20][^21][^22][^23][^24][^25][^26][^27][^28][^29]. 다만 폐쇄성 무정자증 등 구조적 원인은 비뇨의학과적 평가가 우선이다.
+정자 운동성 저하·정액 이상이 있는 경도~중등도 남성 불임에서 보신 치법(온보신양 또는 자보신음)이 정액 지표를 개선했다는 임상 근거가 다수 보고되어 있다[^16][^17][^18][^19][^20][^21][^22][^23][^24][^26][^27][^28][^29]. 다만 폐쇄성 무정자증 등 구조적 원인은 비뇨의학과적 평가가 우선이다. 한편 정자 DNA 단편화가 동반된 남성 불임에 대한 한약의 효과·안전성을 평가하려는 체계적 고찰이 계획·등록되어 있으나 아직 결과가 보고되지 않았으므로, 이 하위군에 대해서는 현재 결론을 내릴 수 없다[^25].
 
 **Q7. 신주납기가 안 되면 어떤 느낌인가?**
 
@@ -887,7 +887,7 @@ R62.8(기타 및 상세불명의 발육 결여 및 성장 지연), E23.0(뇌하�
 [^22]: [Yishen Tongluo Recipe combined with minimally invasive surgery for the treatment of varicocele-associated infertility]. _(중국어 원문)_. 2020-04. [임상시험, 116명] [PMID 33351302](https://pubmed.ncbi.nlm.nih.gov/33351302/) — 익신통락방과 미세침습수술 병용이 정계정맥류 관련 불임에 유효.
 [^23]: [Shenfu Qiangjing decoction improves non-inflammatory and non-liquefied semen in kidney-yang deficiency]. _(중국어 원문)_. 2009-12. [임상시험, 60명] [PMID 20180429](https://pubmed.ncbi.nlm.nih.gov/20180429/) — 신부강정탕이 신양허형 정액 이상을 개선.
 [^24]: [Short-course kidney-invigorating therapy improves near-term semen quality in asthenozoospermic men]. _(중국어 원문)_. 2013-02. [임상시험, 121명] [PMID 23441459](https://pubmed.ncbi.nlm.nih.gov/23441459/) — 단기 보신 치료가 정자무력증 환자의 근시일 정액 질을 개선.
-[^25]: The effectiveness and safety of traditional Chinese herbal medicine for the treatment of male infertility associated with sperm DNA fragmentation. _Medicine_. 2021-03-05. [체계적 고찰] [DOI 10.1097/MD.0000000000024918](https://doi.org/10.1097/MD.0000000000024918) [PMID 33655953](https://pubmed.ncbi.nlm.nih.gov/33655953/) — 한약이 정자 DNA 단편화 관련 남성 불임에 미치는 효과·안전성을 종합.
+[^25]: The effectiveness and safety of traditional Chinese herbal medicine for the treatment of male infertility associated with sperm DNA fragmentation: A protocol for systematic review and meta-analysis. Li Q 외. _Medicine_. 2021-03-05. [체계적 고찰 계획서] [DOI 10.1097/MD.0000000000024918](https://doi.org/10.1097/MD.0000000000024918) [PMID 33655953](https://pubmed.ncbi.nlm.nih.gov/33655953/) — 한약이 정자 DNA 단편화 관련 남성 불임에 미치는 효과·안전성을 평가하기 위해 설계된 체계적 고찰·메타분석의 계획서(PROSPERO CRD42020221053)이며, 결과는 보고되지 않았다.
 [^26]: [Clinical observation on effect of zhenqi zhuanyin decoction combined with intrauterine insemination]. _(중국어 원문)_. 2002-02. [임상시험, 103명] [PMID 12585141](https://pubmed.ncbi.nlm.nih.gov/12585141/) — 진기전음탕과 자궁내인공수정 병용의 임상 관찰.
 [^27]: [Warming-needle moxibustion with different lengths of moxa stick for asthenospermia with kidney deficiency]. _Zhongguo Zhen Jiu_. 2022-08-12. [임상시험, 240명] [DOI 10.13703/j.0255-2930.20210927-k0003](https://doi.org/10.13703/j.0255-2930.20210927-k0003) [PMID 35938329](https://pubmed.ncbi.nlm.nih.gov/35938329/) — 온침구가 신허형 정자무력증에 유효, 뜸 길이에 따른 효과 차이를 관찰.
 [^28]: [Clinical effect of Huotujiji prescription on patients with asthenospermia of spleen-kidney yang-deficiency type]. _(중국어 원문)_. 2025-09. [임상시험, 115명] [PMID 40966000](https://pubmed.ncbi.nlm.nih.gov/40966000/) — 화토기기방이 비신양허형 정자무력증에 유효.
@@ -918,7 +918,7 @@ R62.8(기타 및 상세불명의 발육 결여 및 성장 지연), E23.0(뇌하�
 [^53]: [Efficiency of benazepril combined with wind dispelling and dampness removing chinese herbs on stage III-IV chronic kidney disease]. _(중국어 원문)_. 2012-03. [임상시험, 60명] [PMID 22686073](https://pubmed.ncbi.nlm.nih.gov/22686073/) — 벤아제프릴에 거풍제습 한약 병용이 3~4기 CKD에 유효.
 [^54]: [Therapeutic effect of Astragalus and Angelica mixture on the renal function and TCM syndrome factors]. _(중국어 원문)_. 2014-07. [임상시험, 32명] [PMID 25137839](https://pubmed.ncbi.nlm.nih.gov/25137839/) — 황기당귀 혼합제가 신기능과 TCM증후 인자를 개선.
 [^55]: A Clinical Multicenter Randomized Controlled Study on Jianpi Qinghua Decoction in Treating Stage 3 Chronic Kidney Disease. _Chinese Medical Sciences Journal_. 2016-12-20. [임상시험, 270명] [DOI 10.3881/j.issn.1000-503X.2016.06.010](https://doi.org/10.3881/j.issn.1000-503X.2016.06.010) [PMID 28065235](https://pubmed.ncbi.nlm.nih.gov/28065235/) — 건비청화탕이 3기 CKD 다기관 무작위 대조 연구에서 유효. 비신상자 이론의 CKD 응용.
-[^56]: Yinang formulation versus placebo granules as a treatment for chronic kidney disease stages III-IV. _Trials_. 2019-08-07. [임상시험, 72명] [DOI 10.1186/s13063-019-3563-5](https://doi.org/10.1186/s13063-019-3563-5) [PMID 31391092](https://pubmed.ncbi.nlm.nih.gov/31391092/) — 인낭방이 3~4기 CKD에서 위약 대비 유효.
+[^56]: Yinang formulation versus placebo granules as a treatment for chronic kidney disease stages III-IV in patients with autosomal dominant polycystic kidney disease: study protocol for a double-blind placebo-controlled randomized clinical trial. Gan J 외. _Trials_. 2019-08-07. [임상시험 계획서, 72명 계획] [DOI 10.1186/s13063-019-3563-5](https://doi.org/10.1186/s13063-019-3563-5) [PMID 31391092](https://pubmed.ncbi.nlm.nih.gov/31391092/) — 상염색체 우성 다낭신(ADPKD)에 동반된 3~4기 CKD 환자를 대상으로 인낭방(Yinang formulation, 한자 표기는 원 보고에서 확인되지 않음)과 위약 과립을 비교하도록 설계된 이중맹검 무작위 대조시험의 계획서(ChiCTR-INR-16009914)이며, 결과는 보고되지 않았다.
 [^57]: [A survey and analysis of Chinese patent medicine for outpatients with chronic kidney disease]. _(중국어 원문)_. 2011-08. [관찰연구, 78명] [PMID 21910338](https://pubmed.ncbi.nlm.nih.gov/21910338/) — CKD 외래환자의 중성약 처방 실태를 조사.
 [^58]: [Study on correlation between TCM syndrome and urinary protein in patients with early chronic kidney disease]. _(중국어 원문)_. 2008-09. [관찰연구, 199명] [PMID 19065893](https://pubmed.ncbi.nlm.nih.gov/19065893/) — 초기 CKD 환자의 TCM 증후와 요단백의 상관을 조사.
 [^59]: [Syndrome differentiation-based treatment with traditional Chinese medicine for proteinuria in patients with chronic kidney disease]. _(중국어 원문)_. 2013-04. [임상시험, 81명] [PMID 23644107](https://pubmed.ncbi.nlm.nih.gov/23644107/) — 증후 감별에 기반한 치료가 CKD 단백뇨를 개선.
@@ -947,10 +947,10 @@ R62.8(기타 및 상세불명의 발육 결여 및 성장 지연), E23.0(뇌하�
 [^84]: [Effect of acupuncture combined with TDP on estrogen and bone metabolism in postmenopausal patients]. _(중국어 원문)_. 2009-08. [임상시험, 112명] [PMID 19947264](https://pubmed.ncbi.nlm.nih.gov/19947264/) — 침술+TDP 병용이 에스트로겐·골대사에 미치는 영향을 관찰.
 [^85]: [Clinical study of bugu shengsui capsule in treating primary osteoporosis with kidney-yang deficiency]. _(중국어 원문)_. 1997-09. [임상시험] [PMID 10322872](https://pubmed.ncbi.nlm.nih.gov/10322872/) — 보골생수캡슐이 신양허형 원발성 골다공증에 유효.
 [^86]: [Clinical observation on treatment with the kidney-tonifying prescription in 25 cases of postmenopausal osteoporosis]. _(중국어 원문)_. 2003-06. [임상시험, 45명] [PMID 12875064](https://pubmed.ncbi.nlm.nih.gov/12875064/) — 보신처방의 폐경후 골다공증 치료 관찰.
-[^87]: The efficacy and safety of traditional Chinese medicine's tonifying-kidney, strengthening-spleen approach. _Medicine_. 2021-03-26. [체계적 고찰] [DOI 10.1097/MD.0000000000025197](https://doi.org/10.1097/MD.0000000000025197) [PMID 33761702](https://pubmed.ncbi.nlm.nih.gov/33761702/) — 보신건비 치법의 골다공증 유효성·안전성을 체계적으로 종합.
+[^87]: The efficacy and safety of traditional Chinese medicine's tonifying-kidney, strengthening-spleen, and invigorating-blood circulation (Bushen-Jianpi-Huoxue) principle for type 2 diabetes mellitus with osteoporosis: A protocol for systematic review and meta-analysis. Zhao Y 외. _Medicine_. 2021-03-26. [체계적 고찰 계획서] [DOI 10.1097/MD.0000000000025197](https://doi.org/10.1097/MD.0000000000025197) [PMID 33761702](https://pubmed.ncbi.nlm.nih.gov/33761702/) — 보신건비활혈(補腎健脾活血) 치법이 2형 당뇨병 동반 골다공증에 미치는 유효성·안전성을 평가하기 위해 설계된 체계적 고찰·메타분석의 계획서(PROSPERO CRD42020218877)이며, 결과는 보고되지 않았다.
 [^88]: [Effect of bushen qiangdu recipe on osteoporosis and bone loss of patients with ankylosing spondylitis]. _(중국어 원문)_. 2011-04. [임상시험, 360명] [PMID 21608215](https://pubmed.ncbi.nlm.nih.gov/21608215/) — 보신강도방이 강직성 척추염 동반 골다공증·골소실에 유효.
 [^89]: [Effect of Busheng Huoxue Capsule on the quality of life of primary osteoporosis senile males]. _(중국어 원문)_. 2014-03. [임상시험, 200명] [PMID 24758079](https://pubmed.ncbi.nlm.nih.gov/24758079/) — 보신활혈캡슐이 노년 남성 원발성 골다공증의 삶의 질을 개선.
-[^90]: Effects of bushen qianggu method for primary osteoporosis: A protocol for systematic review and meta-analysis. _Medicine_. 2020-06-12. [체계적 고찰] [DOI 10.1097/MD.0000000000020697](https://doi.org/10.1097/MD.0000000000020697) [PMID 32541521](https://pubmed.ncbi.nlm.nih.gov/32541521/) — 보신강골법의 원발성 골다공증 체계적 고찰 프로토콜.
+[^90]: Effects of bushen qianggu method for primary osteoporosis: A protocol for systematic review and meta-analysis. Chen G 외. _Medicine_. 2020-06-12. [체계적 고찰 계획서] [DOI 10.1097/MD.0000000000020697](https://doi.org/10.1097/MD.0000000000020697) [PMID 32541521](https://pubmed.ncbi.nlm.nih.gov/32541521/) — 보신강골법의 원발성 골다공증 체계적 고찰 프로토콜.
 [^91]: [Effects of comprehensive therapy on serum SPARC levels in ankylosing spondylitis patients accompanied by osteoporosis]. _(중국어 원문)_. 2013-04. [임상시험, 48명] [PMID 23841264](https://pubmed.ncbi.nlm.nih.gov/23841264/) — 종합요법이 강직성 척추염 동반 골다공증 환자의 혈청 SPARC 수치에 미치는 영향.
 [^92]: Chinese herbal medicines for treating osteoporosis. _Cochrane Database of Systematic Reviews_. 2014-03-06. [체계적 고찰, 10655명] [DOI 10.1002/14651858.CD005467.pub2](https://doi.org/10.1002/14651858.CD005467.pub2) [PMID 24599707](https://pubmed.ncbi.nlm.nih.gov/24599707/) — 한약의 골다공증 치료 근거를 코크란 체계적 고찰로 대규모 종합, 보조적 근거를 확인.
 [^93]: Efficacy and safety of Zuogui Wan combined with conventional Western medicine for postmenopausal osteoporosis. _INPLASY (프로토콜)_. 2022-04-17. [체계적 고찰] [DOI 10.37766/inplasy2022.4.0099](https://doi.org/10.37766/inplasy2022.4.0099) — 좌귀환과 서양의학 표준치료 병용의 폐경후 골다공증 체계적 고찰 프로토콜.
