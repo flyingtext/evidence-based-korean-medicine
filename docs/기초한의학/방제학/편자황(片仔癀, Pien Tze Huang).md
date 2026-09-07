@@ -73,7 +73,7 @@
 
 | 병기·겸증 | 병용 조정 방향 | 의미 |
 |---|---|---|
-| 만성 B형간염, 항바이러스제 치료 중 | 엔테카비르·텔비부딘 등과 병용 | HBeAg 혈청 전환·바이러스 억제 보조[^38][^39] |
+| 만성 B형간염, 항바이러스제 치료 중 | 엔테카비르·텔비부딘 등과 병용 | HBeAg 혈청 전환·바이러스 억제 보조[^39] |
 | 간경변, 문맥압항진 동반 | 활혈화어 계열 전탕 처방과 병용 | 간섬유화 진행 억제·미세순환 개선 보조[^47][^48] |
 | 간세포암, TACE·소라페닙 치료 중 | 화학색전술·표적치료와 병용 | 간독성 경감, 삶의 질 개선 보조[^62][^69] |
 | 급성 통풍성 관절염, 열독 뚜렷 | 사묘산(四妙散) 등 청열거습 처방과 병용 | 소염·진통 상승 작용[^81] |
@@ -121,7 +121,7 @@
 
 만성 B형간염은 KCD-8 기준 B18.1(만성 바이러스성 B형간염, δ-병원체가 없는 것)에 해당한다. 병인병기는 습열(濕熱)·간담습열(肝膽濕熱)이 오래되어 간신음허(肝腎陰虛) 혹은 어혈(瘀血)로 전변하는 경과로 이해되며, 병태생리적으로는 HBV의 만성 감염과 면역 매개 간세포 손상이 지속되는 상태다.(교과서적 근거)
 
-중약(CHM) 보조요법의 근거는 비교적 두텁게 축적되어 있다. 대만의 대규모 인구기반 코호트 연구에서 중약 치료가 만성 B형간염과 간경변증이 동반된 환자의 사망 위험을 유의하게 낮추었으며[^31], 라미부딘을 투여받는 만성 B형간염 환자에게 한약(특히 가미소요산)을 병용하는 것이 전인 사망 위험을 유의하게 낮출 수 있음이 확인되었다[^41]. 엔테카비르 단독 요법에 조간이비(TGYP) 또는 조간건비제독(TGJPJD) 한약 처방을 병용하는 것이 HBeAg 양성 만성 B형간염 환자의 HBeAg 소실률을 유의하게 높였다는 무작위대조시험이 있으며[^39], 이를 확증하기 위한 다기관 이중맹검 무작위대조시험 프로토콜도 수립되었다[^42]. 엔테카비르와 한약 병용이 약물 중단 후 재발 위험을 낮추는지 평가한 다기관 이중맹검 무작위대조시험에서도 병용군의 재발률 감소 경향이 보고되었다[^38]. 고농도 ALT를 보이는 HBeAg 양성 환자 중 신양허증(腎陽虛證)이 있는 경우 텔비부딘과 WSP 한약 처방을 병용하여 HBeAg 혈청 전환율과 HBV DNA 음전율, ALT 정상화율이 유의하게 개선되었다는 임상시험도 있다[^37]. 보신건비(補腎健脾) 한약 처방이 만성 B형간염 보균자의 HBV 복제를 억제하고 HBsAg 수치를 낮추는 데 유의미한 효과를 보였으며 안전성도 확인되었다[^34].
+중약(CHM) 보조요법의 근거는 비교적 두텁게 축적되어 있다. 대만의 대규모 인구기반 코호트 연구에서 중약 치료가 만성 B형간염과 간경변증이 동반된 환자의 사망 위험을 유의하게 낮추었으며[^31], 라미부딘을 투여받는 만성 B형간염 환자에게 한약(특히 가미소요산)을 병용하는 것이 전인 사망 위험을 유의하게 낮출 수 있음이 확인되었다[^41]. 엔테카비르 단독 요법에 조간이비(TGYP) 또는 조간건비제독(TGJPJD) 한약 처방을 병용하는 것이 HBeAg 양성 만성 B형간염 환자의 HBeAg 소실률을 유의하게 높였다는 무작위대조시험이 있으며[^39], 이를 확증하기 위한 다기관 이중맹검 무작위대조시험 프로토콜도 수립되었다[^42]. 엔테카비르와 한약 병용이 약물 중단 후 재발 위험을 낮추는지 평가하는 다기관 이중맹검 무작위대조시험도 계획서만 공개되어 있을 뿐 결과는 아직 보고되지 않았다[^38]. 고농도 ALT를 보이는 HBeAg 양성 환자 중 신양허증(腎陽虛證)이 있는 경우 텔비부딘과 WSP 한약 처방을 병용하여 HBeAg 혈청 전환율과 HBV DNA 음전율, ALT 정상화율이 유의하게 개선되었다는 임상시험도 있다[^37]. 보신건비(補腎健脾) 한약 처방이 만성 B형간염 보균자의 HBV 복제를 억제하고 HBsAg 수치를 낮추는 데 유의미한 효과를 보였으며 안전성도 확인되었다[^34].
 
 인터페론 병용 관련 초기 메타분석에서는 중약이 만성 B형간염 환자의 HBsAg 혈청 전환율을 유의하게 높이며, 인터페론 알파와 병용할 경우 HBsAg·HBeAg·HBV DNA의 혈청 전환 효과가 더욱 증대됨이 확인되었다[^33]. 다만 초기 중국 RCT의 무작위 배정 방법론적 질이 낮다는 체계적 고찰의 지적도 존재하므로[^32], 근거 해석 시 방법론적 한계를 함께 고려해야 한다. B형간염 관련 급성-만성 간부전(ACLF) 환자에게 변증에 따른 맞춤형 한약(량혈해독·익기해독 과립)을 투여하는 다기관 무작위대조시험 프로토콜도 진행 중이다[^44].
 
@@ -183,7 +183,7 @@
 |---|---|---|
 | 항응고제·항혈소판제(와파린, 아스피린 등) | 삼칠의 화어지혈·활혈작용이 출혈 위험에 영향을 줄 가능성 | 삼칠 성분의 지혈·활혈 이중 약리 기전[^4][^30] |
 | OATP1B3 기질 약물(스타틴 계열 등) | 진세노사이드 Rb1 등에 의한 수송체 매개 상호작용 가능성 | 삼칠 정맥제제 인체 약동학 연구[^27] |
-| 표준 항바이러스제(엔테카비르·텔비부딘) | 병용 시 상호작용보다는 상승 효과가 보고됨(HBeAg 소실률·혈청전환율 개선) | 만성 B형간염 병용 임상시험[^38][^39][^37] |
+| 표준 항바이러스제(엔테카비르·텔비부딘) | 병용 시 상호작용보다는 상승 효과가 보고됨(HBeAg 소실률·혈청전환율 개선) | 만성 B형간염 병용 임상시험[^39][^37] |
 | 화학요법제·표적치료제(소라페닙 등) | 병용 시 간독성 경감·독성 완화 방향의 상호작용이 보고되나, 개별 약제군 상호작용 자료는 제한적 | HCC 보조요법 코호트[^61][^62] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니며, 편자황과 특정 약물의 직접적 상호작용 연구는 부족하므로 구성 성분(특히 삼칠·사향)의 알려진 약리 기전에 근거한 추정임을 유의해야 한다.
@@ -216,7 +216,7 @@
 ### 23. 관리 원칙
 
 1. **변증 우선**: 열독혈어 변증이 뚜렷한 경우에 한해 편자황 사용을 고려하고, 단순 허증(虛證)에는 사용하지 않는다.
-2. **표준 치료 병행**: 만성 B형간염·간경변·간세포암 등에서는 반드시 표준 항바이러스제·항암 치료를 우선하고 편자황은 보조적 위치로 병용한다[^38][^61].
+2. **표준 치료 병행**: 만성 B형간염·간경변·간세포암 등에서는 반드시 표준 항바이러스제·항암 치료를 우선하고 편자황은 보조적 위치로 병용한다[^61].
 3. **간기능 모니터링**: 정기적으로 AST·ALT·빌리루빈·응고 지표를 추적하여 DILI 발생 여부를 조기에 확인한다[^45].
 4. **출혈 경향 확인**: 항응고제·항혈소판제 복용 환자, 식도정맥류 병력 환자는 사용 전 반드시 전문의와 상의한다.
 5. **임신 여부 확인**: 가임기 여성은 사용 전 임신 여부를 반드시 확인한다.
@@ -254,7 +254,7 @@
 
 **Q3. 만성 B형간염이 있는데 편자황을 복용하면 항바이러스제를 끊어도 되나요?**
 
-아닙니다. 편자황이나 다른 중약을 항바이러스제(엔테카비르·텔비부딘 등)와 병용했을 때 HBeAg 소실률이 개선되었다는 연구들이 있지만[^38][^39], 이는 모두 항바이러스제 병용을 전제로 한 것입니다. 항바이러스제를 임의로 중단해서는 안 되며 반드시 담당 전문의와 상의해야 합니다.
+아닙니다. 편자황이나 다른 중약을 항바이러스제(엔테카비르·텔비부딘 등)와 병용했을 때 HBeAg 소실률이 개선되었다는 연구가 있지만[^39], 이는 모두 항바이러스제 병용을 전제로 한 것입니다. 항바이러스제를 임의로 중단해서는 안 되며 반드시 담당 전문의와 상의해야 합니다.
 
 **Q4. 간암 환자도 편자황을 복용할 수 있나요?**
 
@@ -318,11 +318,11 @@
 [^35]: The use of Chinese herbal medicine as an adjuvant therapy to reduce incidence of chronic hepatitis in colon cancer patients: A Taiwanese population-based cohort study. Lin TH 외. _Journal of ethnopharmacology_. 2017-04-18. [관찰연구, 155명] [DOI 10.1016/j.jep.2017.03.027](https://doi.org/10.1016/j.jep.2017.03.027) [PMID 28330722](https://pubmed.ncbi.nlm.nih.gov/28330722/) — 대장암 환자의 중약 보조 사용이 만성 간염 발생 위험을 약 47% 감소.
 [^36]: Chinese Herbal Medicine as an Adjunctive Therapy Ameliorated the Incidence of Chronic Hepatitis in Patients with Breast Cancer: A Nationwide Population-Based Cohort Study. Huang KC 외. _Evidence-based complementary and alternative medicine : eCAM_. 2017. [관찰연구, 13856명] [DOI 10.1155/2017/1052976](https://doi.org/10.1155/2017/1052976) [PMID 29234362](https://pubmed.ncbi.nlm.nih.gov/29234362/) — 유방암 환자의 중약 병용이 항암 치료 중 만성 간염 위험을 유의하게 낮추는 간 보호 효과.
 [^37]: Effect of WSP, a Chinese Herbal Formula, on Th17/Treg Ratio and HBeAg Seroconversion in Telbivudine-Treated HBeAg-Positive Chronic Hepatitis B Patients with High Baseline ALT Levels (20-30 Times the ULN). Zhang Y 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [임상시험, 68명] [DOI 10.1155/2019/7260369](https://doi.org/10.1155/2019/7260369) [PMID 30949222](https://pubmed.ncbi.nlm.nih.gov/30949222/) — 신양허증 동반 고ALT 환자에서 텔비부딘+WSP 처방 병용이 HBeAg 혈청전환·HBV DNA 음전·ALT 정상화율 개선.
-[^38]: Chinese herbal medicine combined with entecavir to reduce the off-therapy recurrence risk in HBeAg-positive chronic hepatitis B patients: a multicener, double-blind, randomized controlled trial in China. Li X 외. _Trials_. 2020-08-12. [임상시험, 490명] [DOI 10.1186/s13063-020-04417-9](https://doi.org/10.1186/s13063-020-04417-9) [PMID 32787905](https://pubmed.ncbi.nlm.nih.gov/32787905/) — HBeAg 양성 만성 B형간염 환자에서 엔테카비르+한약 공고 요법의 재발 위험 평가 임상시험.
+[^38]: Chinese herbal medicine combined with entecavir to reduce the off-therapy recurrence risk in HBeAg-positive chronic hepatitis B patients: a multicener, double-blind, randomized controlled trial in China. Li X 외. _Trials_. 2020-08-12. [임상시험 계획서, 490명 계획] [DOI 10.1186/s13063-020-04417-9](https://doi.org/10.1186/s13063-020-04417-9) [PMID 32787905](https://pubmed.ncbi.nlm.nih.gov/32787905/) — HBeAg 양성 만성 B형간염 환자에서 엔테카비르에 조간보허해독(調肝補虛解毒) 한약 과립을 병용한 공고 요법이 약물 중단 후 재발 위험을 낮추는지 평가하기 위해 설계된 다기관 이중맹검 무작위 대조시험의 계획서(ChiCTR1900021232)이며, 결과는 보고되지 않았다. 편자황을 직접 다룬 연구는 아니다.
 [^39]: Entecavir combining Chinese herbal medicine for HBeAg-positive chronic hepatitis B patients: a randomized, controlled trial. Li X 외. _Hepatology international_. 2020-12. [임상시험, 596명] [DOI 10.1007/s12072-020-10097-z](https://doi.org/10.1007/s12072-020-10097-z) [PMID 33128206](https://pubmed.ncbi.nlm.nih.gov/33128206/) — 엔테카비르에 조간이비 또는 조간건비제독 한약 병용이 HBeAg 소실률을 유의하게 높임.
 [^40]: Frequency and pattern of Chinese herbal medicine prescriptions for chronic hepatitis in Taiwan. Chen FP 외. _Journal of ethnopharmacology_. 2008-04-17. [관찰연구, 91080명] [DOI 10.1016/j.jep.2008.01.018](https://doi.org/10.1016/j.jep.2008.01.018) [PMID 18321671](https://pubmed.ncbi.nlm.nih.gov/18321671/) — 대만 만성 간염 환자에게 가장 많이 처방되는 중약이 용담사간탕과 단삼임을 확인.
 [^41]: The use of Chinese herbal medicines associated with reduced mortality in chronic hepatitis B patients receiving lamivudine treatment. Tsai DS 외. _Journal of ethnopharmacology_. 2015-11-04. [관찰연구, 1037명] [DOI 10.1016/j.jep.2015.08.002](https://doi.org/10.1016/j.jep.2015.08.002) [PMID 26277491](https://pubmed.ncbi.nlm.nih.gov/26277491/) — 라미부딘 병용 환자에서 한약(가미소요산 등) 병용이 전인 사망 위험을 유의하게 낮춤.
-[^42]: Chinese Herbal Medicine Combined with Entecavir for HBeAg Positive Chronic Hepatitis B: Study Protocol for a Multi-Center, Double-Blind Randomized-Controlled Trial. Ye YA 외. _Chinese journal of integrative medicine_. 2018-09. [임상시험, 596명] [DOI 10.1007/s11655-018-3011-5](https://doi.org/10.1007/s11655-018-3011-5) [PMID 30209792](https://pubmed.ncbi.nlm.nih.gov/30209792/) — 엔테카비르 단독 대비 한약 병용의 HBeAg 소실률 확인을 위한 다기관 이중맹검 RCT 프로토콜.
+[^42]: Chinese Herbal Medicine Combined with Entecavir for HBeAg Positive Chronic Hepatitis B: Study Protocol for a Multi-Center, Double-Blind Randomized-Controlled Trial. Ye YA 외. _Chinese journal of integrative medicine_. 2018-09. [임상시험 계획서, 596명 계획] [DOI 10.1007/s11655-018-3011-5](https://doi.org/10.1007/s11655-018-3011-5) [PMID 30209792](https://pubmed.ncbi.nlm.nih.gov/30209792/) — 엔테카비르 단독 대비 한약 병용의 HBeAg 소실률 확인을 위한 다기관 이중맹검 RCT 프로토콜.
 [^43]: Associations between prescribed Chinese herbal medicine and risk of hepatocellular carcinoma in patients with chronic hepatitis B: a nationwide population-based cohort study. Tsai TY 외. _BMJ open_. 2017-01-25. [관찰연구, 21020명] [DOI 10.1136/bmjopen-2016-014571](https://doi.org/10.1136/bmjopen-2016-014571) [PMID 28122837](https://pubmed.ncbi.nlm.nih.gov/28122837/) — 만성 B형간염 환자의 중약 처방이 간세포암 발생 위험을 유의하게 낮춤.
 [^44]: Effectiveness and safety of Chinese herbal medicines for hepatitis B virus-related acute-on-chronic liver failure: study protocol for a multicenter randomized controlled trial. Zhang N 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2020-12. [임상시험, 510명] [DOI 10.19852/j.cnki.jtcm.2020.06.017](https://doi.org/10.19852/j.cnki.jtcm.2020.06.017) [PMID 33258358](https://pubmed.ncbi.nlm.nih.gov/33258358/) — B형간염 관련 급성-만성 간부전 환자에서 변증별 맞춤 한약(량혈해독·익기해독 과립) 평가 프로토콜.
 [^45]: [Clinical and pathological analysis of 100 cases of drug-induced liver injury]. Zhou GD 외. _Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology_. 2007-03. [관찰연구, 100명] [PMID 17407714](https://pubmed.ncbi.nlm.nih.gov/17407714/) — 약물유발성 간손상 사례에서 한약이 주요 원인 중 하나(21%)로 확인.
