@@ -515,7 +515,7 @@
 
 ### 36. 임상 근거 — 임읍-외관(목외자·이후·협·경·견)
 
-족림읍(GB41)은 담경(足少陽膽經) 주행 경로와 관련된 다양한 질환뿐 아니라, 원격 부위 질환 치료에도 유효함이 임상 적용 증례로 보고되었다[^140]. 외관 단독의 근거(제30-2절)는 목외자·이후 영역보다는 뇌졸중 재활에 집중되어 있어, 임읍-외관 조합의 원발 주치(안이비인후·측두부)에 대한 현대 임상시험은 상대적으로 더 축적이 필요한 영역이다.
+족임읍(GB41)은 담경(足少陽膽經) 주행 경로와 관련된 다양한 질환뿐 아니라, 원격 부위 질환 치료에도 유효함이 임상 적용 증례로 보고되었다[^140]. 외관 단독의 근거(제30-2절)는 목외자·이후 영역보다는 뇌졸중 재활에 집중되어 있어, 임읍-외관 조합의 원발 주치(안이비인후·측두부)에 대한 현대 임상시험은 상대적으로 더 축적이 필요한 영역이다.
 
 ### 37. 임상 근거 — 열결-조해(폐계·인후·흉격)
 
@@ -797,7 +797,7 @@
 [^137]: [Clinical observation on the treatment of hand dysfunction after stroke with chicken-claw needling at Shangbaxie (Extra) and Hegu (LI 4) combined with acupuncture at Houxi (SI 3)]. Zhang SS 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-03-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.03.013](https://doi.org/10.13703/j.0255-2930.2019.03.013) [PMID 30942014](https://pubmed.ncbi.nlm.nih.gov/30942014/) — 뇌졸중 후 수부기능장애에 상팔사·합곡 계족침+후계 병행이 일반 침보다 FMA·Barthel 지수를 개선함.
 [^138]: [Verification of the theory of "Lieque (LU 7) for the disorders of the head and neck" based on infrared thermography]. Wang YJ 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-02-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.02.016](https://doi.org/10.13703/j.0255-2930.2019.02.016) [PMID 30942036](https://pubmed.ncbi.nlm.nih.gov/30942036/) — 적외선 체열진단으로 열결(LU7) 자침이 표리 관계인 대장경 반응까지 유도함을 입증(두항질환 이론 근거).
 [^139]: [Clinical observation of acupuncture at Qianlianquan (Extra) and eight confluent points on chronic pharyngitis]. Tian ZH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.12.008](https://doi.org/10.13703/j.0255-2930.2019.12.008) [PMID 31820603](https://pubmed.ncbi.nlm.nih.gov/31820603/) — 만성 인후염에 전염천+팔맥교회혈 침이 한약제제보다 증상·IL-2·TNF-α 개선에 우수함.
-[^140]: Clinical Applications of the Zulinqi Acupuncture Point. Jun P 외. _Acupuncture in Medicine_. 1999-12. [증례 보고] [DOI 10.1136/aim.17.2.93](https://doi.org/10.1136/aim.17.2.93) — 족림읍(GB41)이 담경 주행 질환 외 원격 질환에도 유효함을 보인 임상 적용 증례.
+[^140]: Clinical Applications of the Zulinqi Acupuncture Point. Jun P 외. _Acupuncture in Medicine_. 1999-12. [증례 보고] [DOI 10.1136/aim.17.2.93](https://doi.org/10.1136/aim.17.2.93) — 족임읍(GB41)이 담경 주행 질환 외 원격 질환에도 유효함을 보인 임상 적용 증례.
 [^141]: [Professor FU Wen-bin's experience in treatment of mental disorder with acupuncture and moxibustion from perspective of "psychosomatic medicine"]. Fu W 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-10-12. [문헌 고찰] [DOI 10.13703/j.0255-2930.20210119-k0001](https://doi.org/10.13703/j.0255-2930.20210119-k0001) [PMID 34628748](https://pubmed.ncbi.nlm.nih.gov/34628748/) — 정신질환에 소간조신·심담론치를 핵심으로 팔맥교회혈과 오장유혈을 조합하는 통합 침구 전략.
 [^142]: Koryo Hand Acupuncture: A Versatile and Potent Acupuncture Microsystem. Patrick Magovern. _Acupuncture in Medicine_. 1995-05. [문헌 고찰] [DOI 10.1136/aim.13.1.10](https://doi.org/10.1136/aim.13.1.10) — 고려수지침이 임맥·독맥·기경팔맥을 손이라는 미세 영역에 투영한 체계임을 설명한 문헌 고찰.
 [^143]: [Acupuncture for aphasia: a retrospective analysis of clinical literature]. Tan J 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-04. [메타분석] [PMID 27352512](https://pubmed.ncbi.nlm.nih.gov/27352512/) — 실어증 침구 취혈에서 국소혈과 함께 독맥·기경·임맥 혈위 선택이 효과적일 수 있음을 시사한 메타분석.

@@ -23,7 +23,7 @@
 
 신문혈의 작용 기전은 크게 신경생리학적(fMRI 기반), 자율신경·수면 조절, 정서·신경전달물질 조절, 경락·해부학적 관점으로 나눌 수 있다. 교과서적 경혈 이론과 실험 연구를 함께 고려한다.
 
-- **신경생리학적 기전(fMRI)**: 신문혈(HT7)과 양료혈(SI6) 자극은 서로 다른 뇌 영역을 활성화시켜, 혈위 선택에 따라 중추신경계에 미치는 영향이 상이함을 보여준다(실험연구, 12명).[^24] 신문혈을 포함한 매선요법은 알츠하이머병 환자의 전두엽·측두엽·변연계·소뇌의 인지 관련 영역을 활성화한다(임상시험, 26명).[^12] 신문혈(HT7)·족삼리(ST36)·태계(KI4)는 공유·구별되는 뇌 활성화 패턴을 보인다(실험연구, 51명).[^25]
+- **신경생리학적 기전(fMRI)**: 신문혈(HT7)과 양로혈(SI6) 자극은 서로 다른 뇌 영역을 활성화시켜, 혈위 선택에 따라 중추신경계에 미치는 영향이 상이함을 보여준다(실험연구, 12명).[^24] 신문혈을 포함한 매선요법은 알츠하이머병 환자의 전두엽·측두엽·변연계·소뇌의 인지 관련 영역을 활성화한다(임상시험, 26명).[^12] 신문혈(HT7)·족삼리(ST36)·태계(KI4)는 공유·구별되는 뇌 활성화 패턴을 보인다(실험연구, 51명).[^25]
 - **자율신경·수면 조절 기전**: 뇌졸중 후 불면증 환자에게 신문(HT7)·내관(PC6) 피내침이 교감신경 활성도를 낮추어 수면의 질을 개선한다(임상시험, 52명).[^6] 신문혈 야간 압박 지압 장치가 불면증 환자의 수면 질 개선과 불안 감소에 효과적이며, 멜라토닌 리듬 정상화를 통해 작용할 가능성이 있다(임상시험, 40명).[^7]
 - **정서·신경전달물질 조절 기전**: 신문혈을 포함한 침치료는 불면증 환자의 세로토닌·MDA 수치를 조절한다(임상시험, 70명).[^26] 신문혈을 포함한 침치료는 뇌졸중 후 우울증 환자의 신경 기능 회복에 유효하다(임상시험, 560명).[^16]
 - **경락·해부학적 특성**: 신문혈은 손목 주름의 자측, 완두골 요측 함요부에 위치하며, 척골신경(ulnar nerve) 분지와 밀접한다.[^1] 신문혈은 수삼음경 원혈의 전기적 저항 특성 연구에서도 활용된다(실험연구).[^27]
@@ -66,7 +66,7 @@
 네. 뇌졸중 후 불면증 환자에게 신문(HT7)·내관(PC6) 피내침이 교감신경 활성도를 낮추어 수면의 질을 개선했습니다(임상시험, 52명).[^6] 신문혈 지압은 불면증 환자의 수면 질 개선에 효과적이며, 특히 암 환자에서 높은 반응률(79%)을 보였습니다(임상시험, 25명).[^8]
 
 **Q3. 신문혈 자극의 신경과학적 기전은 무엇인가요?**
-신문혈(HT7)과 양료혈(SI6) 자극은 서로 다른 뇌 영역을 활성화시켜 혈위 선택에 따라 중추신경계에 미치는 영향이 상이함을 보여줍니다(실험연구, 12명).[^24] 신문혈을 포함한 매선요법은 알츠하이머병 환자의 전두엽·측두엽·변연계·소뇌의 인지 관련 영역을 활성화합니다(임상시험, 26명).[^12]
+신문혈(HT7)과 양로혈(SI6) 자극은 서로 다른 뇌 영역을 활성화시켜 혈위 선택에 따라 중추신경계에 미치는 영향이 상이함을 보여줍니다(실험연구, 12명).[^24] 신문혈을 포함한 매선요법은 알츠하이머병 환자의 전두엽·측두엽·변연계·소뇌의 인지 관련 영역을 활성화합니다(임상시험, 26명).[^12]
 
 **Q4. 신문혈은 뇌졸중 후 정서 장애에도 효과적인가요?**
 네. 뇌졸중 후 불안신경증 환자에게 백회·신정·인당 등 전침이 유효율 82.35%로 알프라졸람과 유사한 효과를 보였습니다(임상시험, 67명).[^9] 뇌졸중 후 우울증 환자에게 침구치료가 Prozac과 유사한 치료 효과를 보였습니다(임상시험, 560명).[^16]
@@ -97,7 +97,7 @@
 [^21]: [Effects of acupuncture on body mass index and waist-hip ratio in the patient of simple obesity]. 임상시험, 80명. PMID: [18405150](https://pubmed.ncbi.nlm.nih.gov/18405150/). 단순 비만 체침·전침·이침이 체중·BMI·허리-엉덩이 비율 유의 감소.
 [^22]: Acupuncture treatment of children nocturnal enuresis--a report of 56 cases. 증례, 56명. PMID: [16817271](https://pubmed.ncbi.nlm.nih.gov/16817271/). 소아 야뇨증 신문(HT7)·위중(BL40) 침치료 유효율 96%.
 [^23]: Forty cases of gastrointestinal neurosis treated by acupunture. 임상시험, 80명. DOI: [10.1016/s0254-6272(08)60006-0](https://doi.org/10.1016/s0254-6272(08)60006-0) · PMID: [18416077](https://pubmed.ncbi.nlm.nih.gov/18416077/). 위장신경증 중완·족삼리·태충(LR3)·신문 침치료 유효율 92.5%.
-[^24]: [A fMRI observation on different cererbral regions activated by acupuncture of Shenmen (HT 7) and Yanglao (SI 6)]. 실험연구, 12명. PMID: [18928121](https://pubmed.ncbi.nlm.nih.gov/18928121/). 신문(HT7)·양료(SI6) 자극이 서로 다른 뇌 영역 활성화.
+[^24]: [A fMRI observation on different cererbral regions activated by acupuncture of Shenmen (HT 7) and Yanglao (SI 6)]. 실험연구, 12명. PMID: [18928121](https://pubmed.ncbi.nlm.nih.gov/18928121/). 신문(HT7)·양로(SI6) 자극이 서로 다른 뇌 영역 활성화.
 [^25]: Shared and distinct brain activation patterns of acupoints HT7, ST36, and KI4: a fMRI study. 실험연구, 51명. DOI: [10.3389/fneur.2025.1596306](https://doi.org/10.3389/fneur.2025.1596306). 신문(HT7)·족삼리(ST36)·태계(KI4) 공유·구별 뇌 활성화 패턴.
 [^26]: The Effect on Serotonin and MDA Levels in Depressed Patients with Insomnia when Treated with Acupuncture. 임상시험, 70명. DOI: [10.1142/s0192415x09007272](https://doi.org/10.1142/s0192415x09007272). 신문혈 포함 침치료가 불면·우울 환자 세로토닌·MDA 조절.
 [^27]: [Volt-ampere characteristics of Yuan points of three yin channels of hand in women before, during and after menstruation]. 실험연구. DOI: [10.3736/jcim20060308](https://doi.org/10.3736/jcim20060308) · PMID: [16696912](https://pubmed.ncbi.nlm.nih.gov/16696912/). 수삼음경 원혈의 전기적 저항 특성 연구.
