@@ -660,7 +660,7 @@ ADHD의 병태생리는 전두엽·선조체 회로의 도파인·노르에피�
 
 [^43]: Effectiveness and safety of kamikihito, a traditional Japanese medicine, in managing anxiety among female patients with intractable chronic constipation.. _Complementary therapies in clinical practice_. 2022-02. [임상시험] [DOI 10.1016/j.ctcp.2021.101526](https://doi.org/10.1016/j.ctcp.2021.101526) [PMID 34974326](https://pubmed.ncbi.nlm.nih.gov/34974326/) — 가미귀비탕이 만성 변비 동반 불안 여성의 불안·위장관 증상 개선. 귀비탕 계열 심신-위장관 임상 근거..
 
-[^44]: Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis. _Frontiers in Pharmacology_. 2024-04-03. [메타분석] [DOI 10.3389/fphar.2024.1295564](https://doi.org/10.3389/fphar.2024.1295564) — 중약(소요산·행뇌해울탕 등)이 우울증 치료 반응률·HAMD 개선에서 항우울제 대비 우수 또는 유사, 부작용 낮음. 우울증 한약 메타 근거..
+[^44]: Chinese herbal medicines for the treatment of depression: a systematic review and network meta-analysis. _Frontiers in Pharmacology_. 2024-04-03. [메타분석] [DOI 10.3389/fphar.2024.1295564](https://doi.org/10.3389/fphar.2024.1295564) — 중약(소요산·성뇌해울탕 등)이 우울증 치료 반응률·HAMD 개선에서 항우울제 대비 우수 또는 유사, 부작용 낮음. 우울증 한약 메타 근거..
 
 [^45]: The Cost-Effectiveness Analysis of Gamiguibi-Tang versus Hwangryunhaedok-Tang for Patients with Insomnia Disorder Based on a Randomized Controlled Trial. _Healthcare_. 2022-10-28. [임상시험] [DOI 10.3390/healthcare10112157](https://doi.org/10.3390/healthcare10112157) — 가미귀비탕이 불면증에서 황련해독탕 대비 삶의 질(EQ-5D) 우수·총 비용 낮음. 귀비탕 계열 불면 비용-효과 임상 근거..
 

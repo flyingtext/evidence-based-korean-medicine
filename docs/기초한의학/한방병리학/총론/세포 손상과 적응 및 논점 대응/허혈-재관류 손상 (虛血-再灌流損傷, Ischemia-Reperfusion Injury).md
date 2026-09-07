@@ -441,7 +441,7 @@ PCI 후 재관류 손상 — 무반류(no-reflow)·느린 흐름(slow flow) — 
 
 [^52]: Therapeutic effect of Chinese herbal medicines for post stroke recovery: A traditional and network meta-analysis.. Han SY 외. _Medicine_. 2017-12. [메타분석, 2780명] [DOI 10.1097/MD.0000000000008830](https://doi.org/10.1097/MD.0000000000008830) [PMID 29245245](https://pubmed.ncbi.nlm.nih.gov/29245245/) — 중성약은 뇌졸중 회복률을 높이고 신경학적 결손 및 Barthel 지수, Fugl-Meyer 점수를 유의하게 개선하였으며, 특히 MLC601, Shuxuetong, BuchangNaoxintong이 가장 효과적인 것으로 나타났다.
 
-[^53]: An overview of the evidence to guide decision-making in acupuncture therapies for early recovery after acute ischemic stroke. Wang L 외. _Frontiers in Neurology_. 2022-10-13. [체계적 고찰] [DOI 10.3389/fneur.2022.1005819](https://doi.org/10.3389/fneur.2022.1005819) — 발병 30일 이내의 침치료는 신경학적 기능과 유효율을 유의하게 개선하며, 특히 2주 이내의 행뇌개규침법(XNKQ Ac)은 장애율과 사망률을 낮출 가능성이 있다. 또한 침치료는 이상반응이나 출혈성 변환을 증가시키지 않아 안전한 것으로 나타났다.
+[^53]: An overview of the evidence to guide decision-making in acupuncture therapies for early recovery after acute ischemic stroke. Wang L 외. _Frontiers in Neurology_. 2022-10-13. [체계적 고찰] [DOI 10.3389/fneur.2022.1005819](https://doi.org/10.3389/fneur.2022.1005819) — 발병 30일 이내의 침치료는 신경학적 기능과 유효율을 유의하게 개선하며, 특히 2주 이내의 성뇌개규침법(XNKQ Ac)은 장애율과 사망률을 낮출 가능성이 있다. 또한 침치료는 이상반응이나 출혈성 변환을 증가시키지 않아 안전한 것으로 나타났다.
 
 [^54]: Danqi Piantang Jiaonang (DJ), a traditional Chinese medicine, in poststroke recovery.. Chen C 외. _Stroke_. 2009-03. [메타분석, 605명] [DOI 10.1161/STROKEAHA.108.531616](https://doi.org/10.1161/STROKEAHA.108.531616) [PMID 19164787](https://pubmed.ncbi.nlm.nih.gov/19164787/) — 단기편탕 캡슐은 보장뇌심통 캡슐과 비교하여 기능적 회복 점수를 유의하게 향상시켰으며(RR 2.4, P=0.007), 우수한 내약성을 보였다.
 
