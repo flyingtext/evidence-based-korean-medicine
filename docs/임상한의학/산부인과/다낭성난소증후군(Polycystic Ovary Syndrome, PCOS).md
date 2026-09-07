@@ -376,7 +376,7 @@ PCOS의 정치법(正治法)은 변증에 따라 다섯 가지로 분기한다. 
 - **자니(滋膩)한 보신만 처방** — 울결·담습이 풀리지 않은 상태에서 자니한 보신약(숙지황·구체자 다량)을 쓰면 기체·담습을 더 조장한다.
 - **과도한 온조(溫燥)** — 창출·반하·향부자 등 조성약을 과용하면 음혈을 손상, 신음허·혈허 겸협 시 주의.
 - **임신 가능성** — 배란 유도 중 임신이 되면 활혈·파기·향조약(도인·홍화·지실·청피)은 중단. 안태(安胎)로 전환.
-- **병용 원칙** — 클로미펜·레트로졸·메트포르민 등 양방 배란 유도제·인슐린 감수성제와 병용이 기본 설계다[^1][^7][^27][^162].
+- **병용 원칙** — 클로미펜·레트로졸·메트포르민 등 양방 배란 유도제·인슐린 감수성제와 병용이 기본 설계다[^1][^7][^27]. 침 전처치 후 레트로졸을 투여하는 병용 설계를 레트로졸 단독과 비교하는 무작위 시험도 계획서가 공표되어 있으나, 그 결과는 아직 보고되지 않았다[^162].
 
 ---
 
@@ -1173,7 +1173,7 @@ PCOS 여성은 대조군 대비 **우울 위험이 유의하게 높다** [^320].
 
 [^161]: Randomized controlled trial of letrozole, berberine, or a combination for infertility in polycystic ovary syndrome. _Fertility and sterility_. 2016-09-01. [임상시험] [DOI 10.1016/j.fertnstert.2016.05.022](https://doi.org/10.1016/j.fertnstert.2016.05.022) [PMID 27336209](https://pubmed.ncbi.nlm.nih.gov/27336209/) — 레트로졸·베르베린·병용 644명 무작위시험. 불임 치료 비교.
 
-[^162]: Comparison of acupuncture pretreatment followed by letrozole versus letrozole alone on live birth in polycystic ovary syndrome. _BMJ open_. 2016-10-07. [임상시험] [DOI 10.1136/bmjopen-2015-010955](https://doi.org/10.1136/bmjopen-2015-010955) [PMID 27855085](https://pubmed.ncbi.nlm.nih.gov/27855085/) — 침 전처치+레트로졸 vs 레트로졸 단독 384명. 생아출생율 비교.
+[^162]: Comparison of acupuncture pretreatment followed by letrozole versus letrozole alone on live birth in anovulatory infertile women with polycystic ovary syndrome: a study protocol for a randomised controlled trial. Li J 외. _BMJ open_. 2016-10-07. [임상시험 계획서, 384명 계획] [DOI 10.1136/bmjopen-2015-010955](https://doi.org/10.1136/bmjopen-2015-010955) [PMID 27855085](https://pubmed.ncbi.nlm.nih.gov/27855085/) — 무배란성 난임을 동반한 PCOS 여성 384명을 침 전처치 후 레트로졸군과 레트로졸 단독군으로 배정해 생아출생률을 일차 지표로 비교하도록 설계된 시험의 계획서(NCT02491320)이며, 결과는 보고되지 않았다. 2017년 정오표(Correction, PMID 28619785)가 발표되었다.
 
 [^170]: Effect of Acupuncture and Clomiphene in Chinese Women With Polycystic Ovary Syndrome: A Randomized Clinical Trial. _JAMA_. 2017-06-27. [임상시험] [DOI 10.1001/jama.2017.7217](https://doi.org/10.1001/jama.2017.7217) [PMID 28655015](https://pubmed.ncbi.nlm.nih.gov/28655015/) — 침+클로미펜 1000명 JAMA 무작위시험. 생아출생율 주요 결과.
 
