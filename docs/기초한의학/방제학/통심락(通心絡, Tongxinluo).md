@@ -52,7 +52,7 @@
 
 관상동맥질환(冠狀動脈疾患)의 스펙트럼—무증상 심근허혈, 안정형 협심증, 불안정형 협심증, 급성 심근경색, 심장증후군X(Cardiac Syndrome X), 관상동맥 미세혈관 기능장애(CMD)—전반에 걸쳐 통심락은 익기활혈통락 계열 대표 처방으로 인용된다[^37][^52][^87]. 협심증(狹心症, Angina Pectoris)의 한의학적 병기는 흉비심통(胸痺心痛)의 범주에 속하며, 기허혈어형은 그 가운데서도 만성 경과·재발성 경과를 보이는 아형에 흔히 대응한다.(교과서적 근거) 통심락은 이 아형에서 니트로글리세린류 혈관확장제나 항혈소판제 단독요법의 한계—협심증 재발·잔여 흉통·미세혈관 수준의 관류장애—를 보완하는 보조요법으로 응용되어 왔다[^45][^48].
 
-급성 심근경색(急性 心筋梗塞)에서는 재관류 후 발생하는 무재관류(no-reflow) 현상과 허혈-재관류 손상이 핵심 병태생리인데, 이는 낙병학설의 "낙맥손상(絡損)"·미세혈관 어조에 대응하는 것으로 해석되며, 통심락의 개발 목적과 가장 부합하는 적응증이다[^11][^30][^58]. CTS-AMI(China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction) 연구는 이러한 이론적 가설을 대규모 다기관 RCT로 검증한 대표 사례다[^36][^58].
+급성 심근경색(急性 心筋梗塞)에서는 재관류 후 발생하는 무재관류(no-reflow) 현상과 허혈-재관류 손상이 핵심 병태생리인데, 이는 낙병학설의 "낙맥손상(絡損)"·미세혈관 어조에 대응하는 것으로 해석되며, 통심락의 개발 목적과 가장 부합하는 적응증이다[^11][^30][^58]. CTS-AMI(China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction) 연구는 이러한 이론적 가설을 대규모 다기관 RCT로 검증한 대표 사례로, 시험 설계와 근거 가설은 착수 시점에 별도의 설계 논문으로 사전 공개되었고[^36] 결과는 뒤에 보고되었다[^58].
 
 ### 7. 허혈성 뇌졸중·경동맥 죽상경화에서의 위상
 
@@ -153,13 +153,13 @@ ENLEAT 임상시험(무작위·이중맹검·위약대조·다기관, 219명)에
 
 #### 19-3. CTS-AMI 대규모 다기관 RCT
 
-CTS-AMI(China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction)는 STEMI 환자 3,777명을 대상으로 한 무작위·이중맹검·위약대조 다기관 RCT로, JAMA에 게재되었다. 가이드라인 기반 표준치료에 통심락을 병용한 결과, 30일 및 1년 시점의 주요 심혈관·뇌혈관 사건(MACCE)과 심장사 발생률이 유의하게 감소하였다[^36][^58]. 이 연구는 통심락에 대한 근거 수준을 소규모 단일센터 연구 위주에서 대규모 국제 학술지 수준의 RCT로 격상시킨 분수령으로 평가되며, 다수의 논평과 후속 분석이 뒤따랐다[^60][^77]. 비용효과분석에서도 통심락 병용이 30일 이내 MACCE 감소와 장기 질보정수명(QALY) 개선을 통해 비용효용비 측면에서 우수한 것으로 나타났다[^73].
+CTS-AMI(China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction)는 STEMI 환자 3,777명을 대상으로 한 무작위·이중맹검·위약대조 다기관 RCT로, 설계 논문이 2020년에 선행 발표된 뒤[^36] 결과가 JAMA에 게재되었다. 가이드라인 기반 표준치료에 통심락을 병용한 결과, 30일 및 1년 시점의 주요 심혈관·뇌혈관 사건(MACCE)과 심장사 발생률이 유의하게 감소하였다[^58]. 이 연구는 통심락에 대한 근거 수준을 소규모 단일센터 연구 위주에서 대규모 국제 학술지 수준의 RCT로 격상시킨 분수령으로 평가되며, 다수의 논평과 후속 분석이 뒤따랐다[^60][^77]. 비용효과분석에서도 통심락 병용이 30일 이내 MACCE 감소와 장기 질보정수명(QALY) 개선을 통해 비용효용비 측면에서 우수한 것으로 나타났다[^73].
 
 #### 19-4. 메타분석 종합
 
 여러 체계적 고찰·메타분석이 급성 심근경색에서 통심락의 효과를 반복적으로 확인하였다. 7,002명 규모 메타분석에서는 통심락 병용이 1개월·12개월 시점의 MACCE·재경색·뇌졸중 위험을 유의하게 감소시켰으며 간·신기능에는 유의한 영향이 없었다[^62]. 8,649명 규모 메타분석에서는 전인 및 심혈관 사망률과 재경색 발생을 감소시키고 심기능·내피기능을 개선하는 효과가 확인되었다[^65]. 이 밖에도 다수의 메타분석이 유사한 방향의 결과를 보고하였다[^4][^9][^43][^70].
 
-> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 급성 심근경색의 재관류 후 관리에서 통심락은 표준 항혈소판·재관류 치료를 대체하는 것이 아니라, 기허혈어 변증이 확인되는 환자에서 미세혈관 보호 목적의 보조요법으로 위치해야 한다[^36][^58].
+> 변증 없는 관행적 처방은 근거에 부합하지 않는다. 급성 심근경색의 재관류 후 관리에서 통심락은 표준 항혈소판·재관류 치료를 대체하는 것이 아니라, 기허혈어 변증이 확인되는 환자에서 미세혈관 보호 목적의 보조요법으로 위치해야 한다[^58].
 
 ### 20. 협심증·만성 관상동맥증후군(慢性 冠狀動脈症候群)군
 
@@ -330,11 +330,11 @@ TOPS-CSVD(Tongxinluo capsule for Cerebral Small Vessel Disease) 프로토콜 연
 
 ### 34. 예후
 
-통심락은 급성 심근경색·불안정형 협심증·허혈성 뇌졸중에서 표준치료에 병용될 때 주요 심혈관·뇌혈관 사건(MACCE) 감소와 관련된 근거가 비교적 잘 축적된 중성약이다[^36][^58][^61]. 특히 CTS-AMI(JAMA, 2023)와 급성 허혈성 뇌졸중 RCT(JAMA Network Open, 2024)는 이전까지 소규모·저품질 연구 위주였던 통심락 근거 기반을 국제적 수준으로 끌어올린 분수령이 되었다[^58][^61][^77]. 다만 관상동맥 미세혈관 질환·심장증후군X·혈관성 치매 등 일부 적응증에서는 여전히 근거 수준이 낮거나 경성 예후 지표(사망률)에서 통계적 유의성이 확립되지 않은 영역이 남아 있다[^37][^47][^74]. 예후는 변증의 정확성(기허혈어 여부), 병기(급성기 vs. 만성기), 병용 표준치료의 최적화 여부에 따라 달라진다.(교과서적 근거)
+통심락은 급성 심근경색·불안정형 협심증·허혈성 뇌졸중에서 표준치료에 병용될 때 주요 심혈관·뇌혈관 사건(MACCE) 감소와 관련된 근거가 비교적 잘 축적된 중성약이다[^58][^61]. 특히 CTS-AMI(JAMA, 2023)와 급성 허혈성 뇌졸중 RCT(JAMA Network Open, 2024)는 이전까지 소규모·저품질 연구 위주였던 통심락 근거 기반을 국제적 수준으로 끌어올린 분수령이 되었다[^58][^61][^77]. 다만 관상동맥 미세혈관 질환·심장증후군X·혈관성 치매 등 일부 적응증에서는 여전히 근거 수준이 낮거나 경성 예후 지표(사망률)에서 통계적 유의성이 확립되지 않은 영역이 남아 있다[^37][^47][^74]. 예후는 변증의 정확성(기허혈어 여부), 병기(급성기 vs. 만성기), 병용 표준치료의 최적화 여부에 따라 달라진다.(교과서적 근거)
 
 ### 35. 관리 원칙
 
-1. **변증 우선**: 통심락 적용 전 심락어조·기허혈어 변증을 확인하고, 단순 진단명(협심증·뇌졸중 등)만으로 기계적으로 처방하지 않는다[^36][^58].
+1. **변증 우선**: 통심락 적용 전 심락어조·기허혈어 변증을 확인하고, 단순 진단명(협심증·뇌졸중 등)만으로 기계적으로 처방하지 않는다[^58].
 2. **급성기·만성기 구분**: 급성 심근경색·급성 뇌졸중 등 급성기 적응증은 대규모 RCT 근거가 있는 투여 프로토콜(예: 발병 72시간 이내 투여)을 따르고, 만성 관리 목적으로는 장기 병용의 근거 수준을 함께 고려한다[^61][^62].
 3. **출혈 위험 모니터링**: 항혈소판제·항응고제 병용 환자, 수술 예정 환자에서는 출혈 징후를 정기적으로 확인한다[^13][^23].
 4. **표준치료 대체 금지**: 통심락은 항혈소판제·스타틴·강압제·심부전 표준 약물치료 등을 대체하지 않으며, 보조요법으로 위치를 명확히 한다[^8][^75].
@@ -354,7 +354,7 @@ TOPS-CSVD(Tongxinluo capsule for Cerebral Small Vessel Disease) 프로토콜 연
 
 **Q1. 통심락은 어떤 환자에게 쓰는 약인가요?**
 
-관상동맥질환(협심증·심근경색)이나 허혈성 뇌졸중을 앓고 있으면서 한의학적으로 심락어조(心絡瘀阻)·기허혈어(氣虛血瘀) 변증에 해당하는 환자에게 표준치료의 보조요법으로 사용됩니다. 진단명만으로 기계적으로 처방하기보다는 변증을 확인하는 것이 원칙입니다[^36][^58].
+관상동맥질환(협심증·심근경색)이나 허혈성 뇌졸중을 앓고 있으면서 한의학적으로 심락어조(心絡瘀阻)·기허혈어(氣虛血瘀) 변증에 해당하는 환자에게 표준치료의 보조요법으로 사용됩니다. 진단명만으로 기계적으로 처방하기보다는 변증을 확인하는 것이 원칙입니다[^58].
 
 **Q2. 통심락이 심근경색에도 효과가 있나요?**
 
@@ -424,7 +424,7 @@ TOPS-CSVD(Tongxinluo capsule for Cerebral Small Vessel Disease) 프로토콜 연
 [^33]: Clinical research on shengjie tongyu granules in the treatment of meteorological cardiovascular disease. Zhai G 외. _Pakistan journal of pharmaceutical sciences_. 2015-03. [임상시험] [PMID 25796155](https://pubmed.ncbi.nlm.nih.gov/25796155/) — 생결통유 과립이 통심락과 유사한 수준으로 협심증 증상·HDL-C를 개선, 안전성 양호.
 [^34]: [Effects of Tongxinluo Capsule on Platelet Activating Factor, Vascular Endothelial Function, Blood Flow of Thrombolysis in Myocardial Infarction in Acute Myocardial Infarction Patients after Delayed Percutaneous Coronary Intervention]. Chen ZQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2016-04. [임상시험] [PMID 27323611](https://pubmed.ncbi.nlm.nih.gov/27323611/) — 지연 PCI 급성심근경색 환자에서 통심락이 혈소판활성화 억제·TIMI 혈류·LVEF 개선 및 심혈관 합병증 감소.
 [^35]: Carotid artery plaque intervention with Tongxinluo capsule (CAPITAL): A multicenter randomized double-blind parallel-group placebo-controlled study. Zhang M 외. _Scientific reports_. 2019-03-14. [임상시험] [DOI 10.1038/s41598-019-41118-z](https://doi.org/10.1038/s41598-019-41118-z) [PMID 30872737](https://pubmed.ncbi.nlm.nih.gov/30872737/) — CAPITAL 다기관 RCT(1,212명)에서 통심락이 경동맥 내중막두께(IMT) 증가 억제, 플라크 면적 감소, 주요 심혈관 사건 감소.
-[^36]: China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction (CTS-AMI): Rationale and design of a randomized, double-blind, placebo-controlled, multicenter clinical trial. Xu Y 외. _American heart journal_. 2020-09. [임상시험] [DOI 10.1016/j.ahj.2020.06.011](https://doi.org/10.1016/j.ahj.2020.06.011) [PMID 32679281](https://pubmed.ncbi.nlm.nih.gov/32679281/) — CTS-AMI 대규모 RCT(3,796명 목표)의 설계 논문. STEMI에서 통심락의 무혈류·허혈재관류손상 감소 가설 검증.
+[^36]: China Tongxinluo Study for myocardial protection in patients with Acute Myocardial Infarction (CTS-AMI): Rationale and design of a randomized, double-blind, placebo-controlled, multicenter clinical trial. Xu Y 외. _American heart journal_. 2020-09. [임상시험 계획서(설계 논문), 3,796명 계획] [DOI 10.1016/j.ahj.2020.06.011](https://doi.org/10.1016/j.ahj.2020.06.011) [PMID 32679281](https://pubmed.ncbi.nlm.nih.gov/32679281/) — CTS-AMI 시험의 근거·설계를 사전 공개한 논문으로(약 120개 기관, 3,796명 계획), 결과는 담고 있지 않다. 실제 결과는 2023년 JAMA 보고를 인용해야 한다.
 [^37]: Tongxinluo Capsule () for Cardiac Syndrome X: A Systematic Review and Meta-Analysis. Mao HM 외. _Chinese journal of integrative medicine_. 2018-04. [메타분석] [DOI 10.1007/s11655-017-2762-8](https://doi.org/10.1007/s11655-017-2762-8) [PMID 28819776](https://pubmed.ncbi.nlm.nih.gov/28819776/) — 심장증후군X 696명 메타분석에서 통심락이 협심증 증상·심전도·ET-1을 개선하나 경성 예후 개선은 미확립.
 [^38]: [Network Meta-analysis of Yiqi Huoxue Chinese patent medicine for coronary heart disease with angina pectoris]. Ji ZC 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2019-05. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20190114.001](https://doi.org/10.19540/j.cnki.cjcmm.20190114.001) [PMID 31342723](https://pubmed.ncbi.nlm.nih.gov/31342723/) — 익기활혈 중성약 네트워크 메타분석(11,775명)에서 심전도 개선 효과는 사향보심환과 통심락이 상대적으로 우수.
 [^39]: [Network Meta-analysis of Chinese patent medicine in treatment of unstable angina pectoris]. Zhang LM 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2021-02. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20201103.502](https://doi.org/10.19540/j.cnki.cjcmm.20201103.502) [PMID 33645038](https://pubmed.ncbi.nlm.nih.gov/33645038/) — 불안정 협심증 네트워크 메타분석(2,885명)에서 통심락은 hs-CRP 개선에 상대적으로 우수한 경향.
