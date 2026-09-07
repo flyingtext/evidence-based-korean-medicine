@@ -52,7 +52,7 @@
 - **부인과 질환**: 월경통·월경전증후군(PMS)·갱년기 증후군 등에 사관혈(합곡·태충) 조합·원혈·배수혈 조합·매선요법 등이 적용되며, 약물 치료(플루옥세틴 등)보다 우수한 효과를 보인다.[^10][^11][^12]
 - **소화기 질환**: 기능성 소화불량·위장신경증·급성 췌장염 보조 등에 족삼리·양문·중완·공손 등과 병용하여 TEAS·전침·수기침이 적용된다.[^13][^14][^15][^33]
 - **혈압·심혈관 질환 보조**: 고혈압 보조 치료·혈관 내피 기능 조절에 곡지·풍지·내관·족삼리·풍륭 등과 조합되며, 태충혈은 혈장 ET 감소를 통한 혈관 내피 보호 기전으로 작용한다.[^16][^17] 고령·임신 고혈압 환자의 태충혈 지압도 보조적 효과가 보고된다.[^39]
-- **신경·뇌혈관 질환**: 뇌졸중 후 인지·불안·운동 기능 회복, 투렛 증후군, HIV 관련 말초신경병증 등에 전침·수기침·비침습적 전침이 적용된다.[^18][^19][^20][^40]
+- **신경·뇌혈관 질환**: 뇌졸중 후 불안·운동 기능 회복, 투렛 증후군, HIV 관련 말초신경병증 등에 전침·수기침·비침습적 전침이 적용된다.[^18][^19][^20] 뇌졸중 후 인지장애에 대한 전침(보조혈로 태충 포함) 시험은 계획서만 공개된 진행 중 연구로, 아직 결과가 보고되지 않았다.[^40]
 - **통증·근골격 질환**: 급성 통풍성 관절염·외측상과염(테니스 엘보)·수술 후 통증 등에 전침·지압·압침이 적용되며, 소아 환자의 수술 후 통증 관리에도 안전한 비약물적 대안으로 제시된다.[^21][^22][^23]
 - **기타 질환**: 메니에르 증후군·비염증성 만성 전립선염·허혈성 시신경병증·야뇨증·안면신경마비·말기 간암 보조 등 다양한 영역에서 임상적 가치가 보고된다.[^35][^36][^37][^38][^41][^42]
 
@@ -119,6 +119,6 @@ fMRI 메타분석(319명)에 따르면 태충혈 침 자극은 통증 인지·�
 [^37]: Clinical Experience and Appropriate Technique of Acupuncture for Ischemic Optic Neuropathy. 관찰연구, 42명. DOI: [10.32629/jcmr.v7i2.5281](https://doi.org/10.32629/jcmr.v7i2.5281). 허혈성 시신경병증 침치료(합곡·태충 등) 78.6% 시력 개선·69.0% 시야 결손 감소.
 [^38]: Treatment of patient with end-stage hepatocellular carcinoma by the mineral pulse light stimuli on LV acupoint. 증례, 1명. DOI: [10.21203/rs.3.rs-52677/v1](https://doi.org/10.21203/rs.3.rs-52677/v1). 말기 간암 태충·기문·삼음교 광물 펄스 광자극으로 종양 크기 감소·AFP 개선.
 [^39]: Intervensi akupresur taichong acupoint untuk menurunkan tekanan darah pada usia lanjut dengan hipertensi. 증례, 2명. DOI: [10.26714/nm.v5i3.13234](https://doi.org/10.26714/nm.v5i3.13234). 고령 고혈압 환자 태충혈 지압이 혈압 강하에 긍정적 효과.
-[^40]: Electroacupuncture to improve post-stroke cognitive function and modulate cerebral iron deposition. 임상시험, 72명. DOI: [10.3389/fneur.2025.1708739](https://doi.org/10.3389/fneur.2025.1708739) · PMID: 41561334. 뇌졸중 후 인지 기능 개선에 전침(태충 포함)이 뇌 철 침착 조절·인지 유의 개선.
+[^40]: Electroacupuncture to improve post-stroke cognitive function and modulate cerebral iron deposition: a randomized controlled trial protocol using MRI. Sun N 외. _Frontiers in Neurology_. 2026-01-05. 임상시험 계획서, 72명 계획. DOI: [10.3389/fneur.2025.1708739](https://doi.org/10.3389/fneur.2025.1708739) · PMID: 41561334. 뇌졸중 후 인지장애 환자에서 전침(보조혈로 태충 포함)이 인지 기능과 뇌 철 침착에 미치는 영향을 평가하기 위해 설계된 무작위 대조시험의 계획서(ITMCTR2025001739)이며, 결과는 보고되지 않았다.
 [^41]: Acupuncture treatment of children nocturnal enuresis--a report of 56 cases. 증례, 56명. PMID: 16817271. 소아 야뇨증 침치료(신문·위중 주혈, 태충·행간 가감) 총 유효율 96%.
 [^42]: [Observation on 63 cases of facial paralysis treated with acupuncture]. 증례, 63명. PMID: 1288929. 안면신경마비 63례 침치료(태충 등 변증 가감) 완치 49.2%, 현저 효과 23.8%, 효과 25.4%.
