@@ -24,7 +24,7 @@
 | **⑤ 혈관성 파킨슨증** | G21.4 | 뇌혈관 질환이 원인인 이차성, 인지장애 동반이 흔함[^11] |
 | **⑥ 파킨슨플러스 증후군** | G23 | 진행성핵상안근마비(G23.1)·다계통위축증(G23.2/G23.3) 등[^12] |
 
-이 외에도 자세 불안정·보행 장애형(PIGD, Postural Instability and Gait Difficulty)이 임상적으로 중요한 아형으로, 예후가 상대적으로 불량하며 3차원 보행 분석·fMRI·장내미생물-대사체 분석 등 객관적 지표로 평가된다.[^7][^8][^119] PIGD형은 병기 진행에 따라 진전우세형에서 이행하는 경우가 많아 독립 KCD 코드보다는 군 ①·② 내의 경과 단계로 이해하는 것이 임상적으로 적절하다.
+이 외에도 자세 불안정·보행 장애형(PIGD, Postural Instability and Gait Difficulty)이 임상적으로 중요한 아형으로, 예후가 상대적으로 불량하며 3차원 보행 분석·fMRI 등 객관적 지표로 평가된다.[^7][^8] PIGD형은 병기 진행에 따라 진전우세형에서 이행하는 경우가 많아 독립 KCD 코드보다는 군 ①·② 내의 경과 단계로 이해하는 것이 임상적으로 적절하다.
 
 ### 3. 병인 병기(病因病機)
 
@@ -118,7 +118,7 @@
 
 ### 8. 신경영상·뇌기능 상관물
 
-침 치료는 α-시누클레인 축적 억제·항산화·항염증·신경 회로 조절을 통해 신경 보호 효과를 나타내는 것으로 보고된다.[^1] 뇌 영상 연구에서는 침 치료가 운동 관련 뇌 영역(조가비핵·시상·흑질 등)의 기능적 변화와 인지·정서 네트워크(전전두엽·DMN) 활성화를 유도한다.[^21] 두피침·전침은 국소 뇌혈류(rCBF)·포도당 대사·도파민 운반체(DAT) 활성도를 개선하여 기저핵 기능을 회복시킨다.[^22][^23][^24] GB34(양릉천) 자침이 전중심회(precentral gyrus)·전전두피질을 활성화한다는 fMRI 연구와,[^143] GB34 자침이 파킨슨병 관련 신경 반응을 유발한다는 실험연구는[^144] 경혈 특이적 뇌기능 조절 가능성을 뒷받침한다. 침 치료와 연관된 뇌활동 패턴을 분석한 연구는[^145] 임상 개선과 뇌기능 변화의 상관성을 탐색하였고, 급성 침 자극에 대한 뇌기능 반응을 규명한 최신 관찰연구도[^133] 유사한 방향을 지지한다. 자세 불안정·보행 장애형(PIGD)에서는 fMRI와 장내미생물-대사체 분석을 결합해 침의 기전을 규명하려는 연구가 진행되고 있다.[^119]
+침 치료는 α-시누클레인 축적 억제·항산화·항염증·신경 회로 조절을 통해 신경 보호 효과를 나타내는 것으로 보고된다.[^1] 뇌 영상 연구에서는 침 치료가 운동 관련 뇌 영역(조가비핵·시상·흑질 등)의 기능적 변화와 인지·정서 네트워크(전전두엽·DMN) 활성화를 유도한다.[^21] 두피침·전침은 국소 뇌혈류(rCBF)·포도당 대사·도파민 운반체(DAT) 활성도를 개선하여 기저핵 기능을 회복시킨다.[^22][^23][^24] GB34(양릉천) 자침이 전중심회(precentral gyrus)·전전두피질을 활성화한다는 fMRI 연구와,[^143] GB34 자침이 파킨슨병 관련 신경 반응을 유발한다는 실험연구는[^144] 경혈 특이적 뇌기능 조절 가능성을 뒷받침한다. 침 치료와 연관된 뇌활동 패턴을 분석한 연구는[^145] 임상 개선과 뇌기능 변화의 상관성을 탐색하였고, 급성 침 자극에 대한 뇌기능 반응을 규명한 최신 관찰연구도[^133] 유사한 방향을 지지한다. 자세 불안정·보행 장애형(PIGD)에서는 fMRI와 장내미생물-대사체 분석을 결합해 침의 기전을 규명하려는 연구가 계획서 단계로 공표되어 있으나, 그 결과는 아직 보고되지 않았다.[^119]
 
 또한 장-뇌 축을 통한 장내 미생물 구성과 단쇄지방산(SCFA) 변화가 변비·비운동성 증상 개선의 기전으로 제시된다.[^15][^16] 침이 도파민 신경회로에 작용하는 기전을 정리한 문헌고찰은[^139] 신경보호·시냅스 가소성·신경전달물질 조절이라는 세 축으로 이 기전들을 통합적으로 설명한다.
 
@@ -561,7 +561,7 @@
 [^116]: Effectivenss of electroacupuncture for skeletal muscle pain in Parkinson's disease: a Clinical randomized controlled trial. Shaosong W 외. _Journal of traditional Chinese medicine_. 2024-04. [임상시험] [DOI 10.19852/j.cnki.jtcm.20240203.004](https://doi.org/10.19852/j.cnki.jtcm.20240203.004) [PMID 38504545](https://pubmed.ncbi.nlm.nih.gov/38504545/) — 전침이 파킨슨병 동반 골격근 통증을 유의하게 완화한 임상무작위대조시험.
 [^117]: Acupuncture as an adjunctive therapy for sleep fragmentation in Parkinson's disease: a pilot study based on polysomnography. Sheng J 외. _Frontiers in neurology_. 2025. [임상시험] [DOI 10.3389/fneur.2025.1550250](https://doi.org/10.3389/fneur.2025.1550250) [PMID 40191590](https://pubmed.ncbi.nlm.nih.gov/40191590/) — 다원수면검사(PSG) 기반으로 침이 파킨슨병 수면 분절을 개선하는지 평가한 파일럿 연구.
 [^118]: Acupuncture for early Parkinson's disease with mild to moderate depression: a randomized controlled trial protocol with functional MRI. Xiao H 외. _Frontiers in neurology_. 2024. [임상시험] [DOI 10.3389/fneur.2024.1457787](https://doi.org/10.3389/fneur.2024.1457787) [PMID 39430584](https://pubmed.ncbi.nlm.nih.gov/39430584/) — fMRI를 병용해 조기 파킨슨병의 경중등도 우울에 대한 침 효과 기전을 규명하려는 RCT 프로토콜.
-[^119]: Effects and mechanisms of acupuncture for PIGD-subtype Parkinson's disease via integration of fMRI and gut microbiota-metabolomics analysis. Sheng J 외. _Frontiers in aging neuroscience_. 2025. [임상시험] [DOI 10.3389/fnagi.2025.1534165](https://doi.org/10.3389/fnagi.2025.1534165) [PMID 40433511](https://pubmed.ncbi.nlm.nih.gov/40433511/) — fMRI와 장내미생물-대사체 분석을 결합해 자세불안정·보행장애형(PIGD) 파킨슨병에 대한 침 기전을 규명한 연구.
+[^119]: Effects and mechanisms of acupuncture for PIGD-subtype Parkinson's disease via integration of fMRI and gut microbiota-metabolomics analysis: protocol for a prospective randomized controlled trial. Sheng J 외. _Frontiers in aging neuroscience_. 2025. [임상시험 계획서] [DOI 10.3389/fnagi.2025.1534165](https://doi.org/10.3389/fnagi.2025.1534165) [PMID 40433511](https://pubmed.ncbi.nlm.nih.gov/40433511/) — 자세불안정·보행장애형(PIGD) 파킨슨병에서 UPDRS를 일차 평가지표로 두고 fMRI·16S rRNA 분석·LC-MS/MS 대사체 분석으로 침의 기전을 규명하도록 설계된 전향적 무작위 대조시험의 계획서이며, 결과는 보고되지 않았다.
 [^120]: Acupuncture versus sham acupuncture in the treatment of insomnia for patients with Parkinson's disease: a randomized controlled clinical trial. Liu S 외. _BMC complementary medicine and therapies_. 2025-07-19. [임상시험] [DOI 10.1186/s12906-025-05009-3](https://doi.org/10.1186/s12906-025-05009-3) [PMID 40684211](https://pubmed.ncbi.nlm.nih.gov/40684211/) — 가짜침 대조 무작위임상시험에서 진침이 파킨슨병 불면증을 유의하게 개선함을 확인.
 [^121]: Gait Disturbance Improvement and Cerebral Cortex Rearrangement by Acupuncture in Parkinson's Disease: A Pilot Assessor-Blinded, Randomized Trial. Jang JH 외. _Neurorehabilitation and neural repair_. 2020-12. [임상시험] [DOI 10.1177/1545968320969942](https://doi.org/10.1177/1545968320969942) [PMID 33198568](https://pubmed.ncbi.nlm.nih.gov/33198568/) — 침 치료 후 대뇌피질 재배치와 함께 보행장애가 개선된 평가자 눈가림 파일럿 무작위대조시험.
 [^122]: A study of the effects of 8-week acupuncture treatment on patients with Parkinson's disease. Yeo S 외. _Medicine_. 2018-12. [임상시험] [DOI 10.1097/MD.0000000000013434](https://doi.org/10.1097/MD.0000000000013434) [PMID 30557997](https://pubmed.ncbi.nlm.nih.gov/30557997/) — 8주간의 침 치료 프로그램이 파킨슨병 환자의 임상 지표를 개선한 연구.
