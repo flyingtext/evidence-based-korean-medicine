@@ -153,7 +153,7 @@ graph TD
 
 ### 21. 신산통(腎疝痛, 요로결석 통증)에 대한 침구 근거
 
-제3편 10절에서 다룬 요관의 세 협착부에 결석이 걸려 발생하는 신산통(요로결석 통증)에 대해서도 침구의 통증 완화 효과를 평가한 근거가 확인된다. 요로결석에 의한 신산통에 침 치료의 유효성·안전성을 평가한 체계적 고찰·메타분석은[^35] 침 치료가 통증 완화에 유의한 효과가 있을 가능성을 제시하였다. 응급실 급성 신산통 환자를 대상으로 침 치료를 병용했을 때 통증 완화에 미치는 효과를 평가한 JAMA Network Open 게재 임상시험[^36]과 이 연구의 이차 분석[^37], 조기 침 개입이 급성 신산통 의심 환자의 통증 완화에 미치는 효과를 평가한 임상시험[^38][^39]은 모두 응급의학 현장에서 침 치료가 보조적 진통 수단으로 활용될 수 있음을 뒷받침하는 근거다. 신산통에 침 치료를 보조요법으로 적용하는 무작위 대조 시험 프로토콜[^40]도 이러한 임상적 관심을 반영한다.
+제3편 10절에서 다룬 요관의 세 협착부에 결석이 걸려 발생하는 신산통(요로결석 통증)에 대해서도 침구의 통증 완화 효과를 평가한 근거가 확인된다. 요로결석에 의한 신산통에 침 치료의 유효성·안전성을 평가한 체계적 고찰·메타분석은[^35] 침 치료가 통증 완화에 유의한 효과가 있을 가능성을 제시하였다. 응급실 급성 신산통 환자를 대상으로 침 치료를 병용했을 때 통증 완화에 미치는 효과를 평가한 JAMA Network Open 게재 임상시험[^36]과 이 연구의 이차 분석[^37], 조기 침 개입이 급성 신산통 의심 환자의 통증 완화에 미치는 효과를 평가한 임상시험[^39]은 응급의학 현장에서 침 치료가 보조적 진통 수단으로 활용될 수 있음을 뒷받침하는 근거다. 요로결석에 의한 급성 신산통에 조기 침 개입을 적용하는 무작위 대조 시험[^38]과 침 치료를 보조요법으로 적용하는 무작위 대조 시험[^40]은 모두 계획서만 공표된 단계로 결과가 보고되지 않았으나, 이러한 임상적 관심을 반영한다.
 
 ### 22. 만성신장병(CKD) 관련 증상에 대한 침구 근거
 
@@ -230,7 +230,7 @@ graph TD
 
 **Q6. 요로결석으로 인한 통증(신산통)에 침이 응급실에서도 활용될 수 있는가?**
 
-JAMA Network Open에 게재된 무작위 대조 시험을 포함한 다수의 임상시험이 응급실 급성 신산통 환자에서 침 치료 병용이 진통제 사용량 감소나 통증 완화에 도움이 될 가능성을 제시하였다[^36][^37][^38][^39]. 다만 요로결석 자체의 배출·비뇨기과적 처치가 우선되어야 하며, 침은 어디까지나 통증 관리의 보조 수단으로 이해해야 한다.
+JAMA Network Open에 게재된 무작위 대조 시험을 포함한 다수의 임상시험이 응급실 급성 신산통 환자에서 침 치료 병용이 진통제 사용량 감소나 통증 완화에 도움이 될 가능성을 제시하였다[^36][^37][^39]. 다만 요로결석 자체의 배출·비뇨기과적 처치가 우선되어야 하며, 침은 어디까지나 통증 관리의 보조 수단으로 이해해야 한다.
 
 **Q7. 만성신장병 환자에게 침 치료가 신기능을 회복시킬 수 있는가?**
 
@@ -280,7 +280,7 @@ JAMA Network Open에 게재된 무작위 대조 시험을 포함한 다수의 �
 [^35]: Efficacy and Safety of Acupuncture in Renal Colic Caused by Urinary Calculi in Adults: A Systematic Review and Meta-Analysis. Qu Z 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석] [DOI 10.1155/2022/7140038](https://doi.org/10.1155/2022/7140038) [PMID 35832526](https://pubmed.ncbi.nlm.nih.gov/35832526/) — 요로결석에 의한 신산통에서 침 치료의 진통 효과·안전성을 확인.
 [^36]: Effect of Adjunctive Acupuncture on Pain Relief Among Emergency Department Patients With Acute Renal Colic Due to Urolithiasis. _JAMA network open_. 2022-08-01. [임상시험] [DOI 10.1001/jamanetworkopen.2022.25735](https://doi.org/10.1001/jamanetworkopen.2022.25735) [PMID 35943743](https://pubmed.ncbi.nlm.nih.gov/35943743/) — 응급실 급성 신산통 환자에서 침 병용이 진통 효과를 유의하게 높임을 확인한 무작위 대조 시험.
 [^37]: Acupuncture for response and complete pain relief time of acute renal colic: Secondary analysis of a randomized clinical trial. _Integrative medicine research_. 2024-03. [임상시험] [DOI 10.1016/j.imr.2024.101021](https://doi.org/10.1016/j.imr.2024.101021) [PMID 38379605](https://pubmed.ncbi.nlm.nih.gov/38379605/) — 앞선 JAMA Network Open 시험의 이차 분석으로 완전 통증 소실 시간을 추가 분석.
-[^38]: Effect of Early-Intervention Acupuncture on Pain Relief Among Emergency Department Patients with Suspected Acute Renal Colic. _Journal of pain research_. 2024. [임상시험] [DOI 10.2147/JPR.S475466](https://doi.org/10.2147/JPR.S475466) [PMID 39588522](https://pubmed.ncbi.nlm.nih.gov/39588522/) — 조기 침 개입이 응급실 신산통 의심 환자의 통증 완화에 미치는 효과를 평가.
+[^38]: Effect of Early-Intervention Acupuncture on Pain Relief Among Emergency Department Patients with Suspected Acute Renal Colic Due to Urinary Calculi: Study Protocol for a Randomized Clinical Trial. Wang X 외. _Journal of pain research_. 2024. [임상시험 계획서] [DOI 10.2147/JPR.S475466](https://doi.org/10.2147/JPR.S475466) [PMID 39588522](https://pubmed.ncbi.nlm.nih.gov/39588522/) — 요로결석에 의한 급성 신산통이 의심되는 응급실 환자를 침군과 거짓침군에 무작위 배정해 조기 침 개입의 진통 효과를 평가하도록 설계된 시험의 계획서(ChiCTR2100049069)이며, 결과는 보고되지 않았다.
 [^39]: Early acupuncture intervention for pain relief in emergency department patients with suspected acute renal colic. _QJM : monthly journal of the Association of Physicians_. 2025-05-01. [임상시험] [DOI 10.1093/qjmed/hcaf011](https://doi.org/10.1093/qjmed/hcaf011) [PMID 39945796](https://pubmed.ncbi.nlm.nih.gov/39945796/) — 조기 침 개입의 통증 완화 효과를 재확인한 임상시험.
 [^40]: Acupuncture as adjunctive therapy for acute renal colic caused by urinary calculi: study protocol for a randomized controlled trial. _Trials_. 2021-09-25. [임상시험] [DOI 10.1186/s13063-021-05600-2](https://doi.org/10.1186/s13063-021-05600-2) [PMID 34563246](https://pubmed.ncbi.nlm.nih.gov/34563246/) — 급성 신산통에 침을 보조요법으로 적용하는 무작위 대조 시험 프로토콜.
 [^41]: Therapeutic effects of acupuncture therapy for kidney function and common symptoms in patients with chronic kidney disease: a systematic review and meta-analysis. Liu S 외. _Renal failure_. 2024-12. [메타분석] [DOI 10.1080/0886022X.2023.2301504](https://doi.org/10.1080/0886022X.2023.2301504) [PMID 38189090](https://pubmed.ncbi.nlm.nih.gov/38189090/) — CKD 환자의 신기능 지표 및 동반 증상에 대한 침 치료 효과를 종합.
