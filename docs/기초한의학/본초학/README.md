@@ -284,7 +284,7 @@
 
 ### 11-3. 화어지혈약(化瘀止血藥)
 
-- 삼칠(三七, Notoginseng Radix) — (작성 예정)
+- 삼칠(三七, Notoginseng Radix) — **작성됨**
 - 포황(蒲黃, Typhae Pollen) — (작성 예정)
 - 천초근(茜草根, Rubiae Radix) — (작성 예정)
 
@@ -304,7 +304,7 @@
 - 삼릉(三稜, Sparganii Rhizoma) — (작성 예정)
 - 단삼(丹蔘, Salviae Miltiorrhizae Radix)
 - 호장근(虎杖根, Polygoni Cuspidati Radix) — (작성 예정)
-- 익모초(益母草, Leonuri Herba) — (작성 예정)
+- 익모초(益母草, Leonuri Herba) — **작성됨**
 - 도인(桃仁, Persicae Semen)
 - 홍화(紅花, Carthami Flos)
 - 오령지(五靈脂, Trogopterori Faeces) — (작성 예정)
@@ -322,7 +322,7 @@
 - 혈갈(血竭, Draconis Sanguis) — (작성 예정)
 - 충울자(茺蔚子, Leonuri Fructus) — (작성 예정)
 - 권백(卷柏, Selaginellae Herba) — (작성 예정)
-- 계혈등(鷄血藤, Spatholobi Caulis) — (작성 예정)
+- 계혈등(鷄血藤, Spatholobi Caulis) — **작성됨**
 
 ## 13. 화담지해평천약(化痰止咳平喘藥, Phlegm-Transforming Cough/Asthma-Relieving Herbs)
 
