@@ -298,9 +298,9 @@
 - 유향(乳香, Olibanum) — (작성 예정)
 - 몰약(沒藥, Myrrha) — (작성 예정)
 - 연호색(延胡索, Corydalis Tuber)
-- 울금(鬱金, Curcumae Radix) — (작성 예정)
-- 강황(薑黃, Curcumae Longae Rhizoma) — (작성 예정)
-- 아출(莪朮, Curcumae Rhizoma) — (작성 예정)
+- 울금(鬱金, Curcumae Radix) — **작성됨**
+- 강황(薑黃, Curcumae Longae Rhizoma) — **작성됨**
+- 아출(莪朮, Curcumae Rhizoma) — **작성됨**
 - 삼릉(三稜, Sparganii Rhizoma) — (작성 예정)
 - 단삼(丹蔘, Salviae Miltiorrhizae Radix)
 - 호장근(虎杖根, Polygoni Cuspidati Radix) — (작성 예정)
