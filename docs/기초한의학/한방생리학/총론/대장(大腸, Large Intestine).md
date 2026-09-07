@@ -261,7 +261,7 @@
 
 #### 10-1. 호흡기질환에서의 장내미생물 조절 개입
 
-삼령백출산(蔘苓白朮散)이 장-폐 축 조절을 통해 인공호흡기 관련 폐렴을 예방할 수 있다는 가설을 제시한 문헌 고찰은[^23] 건비(健脾)를 통한 보폐(補肺)라는 전통적 치법 원리(배토생금, 培土生金)에 현대적 기전 가설을 결합한 사례다. 장내미생물의 단쇄지방산(SCFA) 대사가 급성 폐손상의 병태생리에 관여하며 한약 개입이 이 경로를 조절할 수 있다는 기전을 정리한 문헌 고찰[^24], COVID-19 치료에서 gut-lung axis 개념에 기반한 한약 개입의 이론적 근거를 정리한 문헌 고찰[^25]도 유사한 접근을 보여준다. 장-폐 축 미생물 조절과 항암화학요법 병용이 진행성 비소세포폐암 환자에서 갖는 효과를 평가한 임상시험[^26]은 인간 데이터에 기반한 초기 임상 근거이며, 호흡기질환에서 장내미생물 관련 임상연구 동향을 정리한 체계적 고찰도[^28] 이 분야가 임상 영역으로 점차 확장되고 있음을 보여준다.
+삼령백출산(蔘苓白朮散)이 장-폐 축 조절을 통해 인공호흡기 관련 폐렴을 예방할 수 있다는 가설을 제시한 문헌 고찰은[^23] 건비(健脾)를 통한 보폐(補肺)라는 전통적 치법 원리(배토생금, 培土生金)에 현대적 기전 가설을 결합한 사례다. 장내미생물의 단쇄지방산(SCFA) 대사가 급성 폐손상의 병태생리에 관여하며 한약 개입이 이 경로를 조절할 수 있다는 기전을 정리한 문헌 고찰[^24], COVID-19 치료에서 gut-lung axis 개념에 기반한 한약 개입의 이론적 근거를 정리한 문헌 고찰[^25]도 유사한 접근을 보여준다. 장-폐 축 미생물 조절(프로바이오틱스 제제)과 항암화학요법 병용이 진행성 비소세포폐암 환자에서 갖는 효과를 검증하려는 시험은 계획서 단계로 공개되어 있어 아직 근거가 아니지만[^26], 이 가설이 임상시험으로 옮겨지고 있음을 보여준다. 호흡기질환에서 장내미생물 관련 임상연구 동향을 정리한 체계적 고찰도[^28] 이 분야가 임상 영역으로 점차 확장되고 있음을 보여준다.
 
 #### 10-2. 종합 — 폐여대장상표리 이론의 현대적 위치
 
@@ -274,7 +274,7 @@
 | 기원 | 『소문』·『영추』 등 고전 문헌, 경락 이론 | 2010년대 이후 미생물학·면역학 연구 |
 | 핵심 매개체 | 경락(수태음폐경-수양명대장경), 기(氣)의 승강 | 장내미생물, 대사물질(단쇄지방산 등), 면역세포 순환(homing) |
 | 대표 치법/개입 | 선폐통변, 폐장동치, 배토생금 | 미생물총 조절, 대변미생물이식(FMT), 프로바이오틱스 |
-| 임상 적용 예 | 천식·변비 병용 침구 치료[^13][^16] | 장-폐 축 미생물 조절+항암치료 병용[^26] |
+| 임상 적용 예 | 천식·변비 병용 침구 치료[^13][^16] | 장-폐 축 미생물 조절+항암치료 병용(시험 계획서 단계)[^26] |
 | 검증 방법 | 경락 촉진, 적외선 체열, 증상·삶의 질 평가 | 미생물군집 시퀀싱, 사이토카인·대사물질 정량 |
 
 > 이 표는 두 이론 체계의 개념적 대응을 정리한 참고용 개념도이며, 하나가 다른 하나를 증명한다는 의미가 아니다. 두 체계 모두 "폐-장 상호작용"이라는 임상적 관찰을 다른 언어로 서술하고 있다는 점에서 상보적으로 참고할 수 있다.
@@ -921,7 +921,7 @@ C18(결장의 악성 신생물), C19(직장구불결장이행부의 악성 신�
 [^23]: Preventing ventilator-associated pneumonia via the gut-lung axis: the Shenling Baizhu San hypothesis. _Frontiers in medicine_. 2026. [문헌 고찰] [DOI 10.3389/fmed.2026.1829153](https://doi.org/10.3389/fmed.2026.1829153) [PMID 42433981](https://pubmed.ncbi.nlm.nih.gov/42433981/) — 삼령백출산(蔘苓白朮散)이 장-폐 축 조절을 통해 인공호흡기 관련 폐렴을 예방할 수 있다는 가설을 제시한 문헌 고찰. 건비(健脾)를 통한 보폐(補肺)의 현대적 기전 가설.
 [^24]: Short-chain fatty acid metabolism in acute lung injury and intervention strategies from traditional Chinese medicine. _Journal of ethnopharmacology_. 2027-01-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.122187](https://doi.org/10.1016/j.jep.2026.122187) [PMID 42447972](https://pubmed.ncbi.nlm.nih.gov/42447972/) — 장내미생물의 단쇄지방산(SCFA) 대사가 급성 폐손상의 병태생리에 관여하며, 한약 개입이 이 경로를 조절할 수 있다는 기전을 정리한 문헌 고찰.
 [^25]: Herbal medicine in the treatment of COVID-19 based on the gut–lung axis. _Chinese Medicine and Culture_. 2022-09. [문헌 고찰] [DOI 10.1097/hm9.0000000000000038](https://doi.org/10.1097/hm9.0000000000000038) — COVID-19 치료에서 gut-lung axis 개념에 기반한 한약 개입의 이론적 근거를 정리한 문헌 고찰.
-[^26]: Investigating efficacy of "microbiota modulation of the gut-lung Axis" combined with chemotherapy in advanced non-squamous non-small-cell lung cancer. _BMC cancer_. 2021-06-22. [임상시험, 180명] [DOI 10.1186/s12885-021-08448-6](https://doi.org/10.1186/s12885-021-08448-6) [PMID 34157996](https://pubmed.ncbi.nlm.nih.gov/34157996/) — 장-폐 축 미생물 조절과 항암화학요법 병용이 진행성 비소세포폐암 환자에서 갖는 효과를 평가한 임상시험. 인간 데이터.
+[^26]: Investigating efficacy of "microbiota modulation of the gut-lung Axis" combined with chemotherapy in patients with advanced NSCLC: study protocol for a multicenter, prospective, double blind, placebo controlled, randomized trial. Xia Q 외. _BMC cancer_. 2021-06-22. [임상시험 계획서, 180명 계획] [DOI 10.1186/s12885-021-08448-6](https://doi.org/10.1186/s12885-021-08448-6) [PMID 34157996](https://pubmed.ncbi.nlm.nih.gov/34157996/) — 진행성 비소세포폐암 환자 180명을 백금 기반 병용 항암화학요법 단독군과 프로바이오틱스(Bifico) 병용군에 1:1 배정하도록 설계된 다기관 이중맹검 위약대조시험의 계획서(NCT03642548). 한약이 아닌 프로바이오틱스 개입이며, 결과는 보고되지 않았다. 인간 대상 연구.
 [^27]: Jianpi Huatan Tongfu granule alleviates inflammation and improves intestinal flora in patients with acute exacerbation of chronic obstructive pulmonary disease. _The Journal of international medical research_. 2020-04. [임상시험, 60명] [DOI 10.1177/0300060520909235](https://doi.org/10.1177/0300060520909235) [PMID 32295442](https://pubmed.ncbi.nlm.nih.gov/32295442/) — 건비화담통부(健脾化痰通腑) 치법의 과립제가 COPD 급성악화기 환자의 염증 지표를 낮추고 장내 세균총을 개선. 통변(通便) 치법이 호흡기 염증과 연동될 수 있음을 시사.
 [^28]: Clinical Research Trends of Gut Microbiome for Respiratory Diseases. 2021-09-01. [체계적 고찰] [DOI 10.13048/jkm.21029](https://doi.org/10.13048/jkm.21029) — 호흡기질환에서 장내미생물 관련 임상연구 동향을 정리한 체계적 고찰. gut-lung axis 연구가 임상 영역으로 확장되는 추세를 보여줌.
 [^29]: Randomized clinical trial of a phytotherapic compound containing Pimpinella anisum, Foeniculum vulgare, Sambucus nigra, and Cassia augustifolia for chronic constipation. _BMC complementary and alternative medicine_. 2010-04-30. [임상시험, 20명] [DOI 10.1186/1472-6882-10-17](https://doi.org/10.1186/1472-6882-10-17) [PMID 20433751](https://pubmed.ncbi.nlm.nih.gov/20433751/) — 혼합 식물성 화합물이 대장 통과시간을 단축시키고 배변 횟수를 늘려 만성 변비에 효과적임을 보인 RCT.
