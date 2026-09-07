@@ -251,7 +251,7 @@
 
 #### 10-3. 중극(中極, CV3)·중료(中髎, BL33) 전침
 
-중극(CV3) 전침은 전립선비대증 276례의 무작위 대조 임상시험에서 배뇨 증상·요속·잔뇨량을 유의하게 개선하였다[^35].중료(BL33) 전침은 경도·중등도 전립선비대증 100례의 RCT에서 효과적이었으며[^36], 요저류 환자에서는 초음파 유도 하에 차료(BL32)·중료(BL33)를 정밀 취혈하면 배뇨 기능 회복에 더 우수한 효과를 보인다[^16].
+중극(CV3) 전침은 전립선비대증 276례의 무작위 대조 임상시험에서 배뇨 증상·요속·잔뇨량을 유의하게 개선하였다[^35]. 중료(BL33) 전침의 경우 경도·중등도 전립선비대증 100명을 비경혈 자침과 비교하는 이중맹검 무작위 대조시험이 계획되어 계획서가 공개되었을 뿐 결과는 보고되지 않아, 현재로서는 유효성 근거가 되지 못한다[^36]. 요저류 환자에서는 초음파 유도 하에 차료(BL32)·중료(BL33)를 정밀 취혈하면 배뇨 기능 회복에 더 우수한 효과를 보인다[^16].
 
 #### 10-4. 곡골(曲骨, CV2) 심층 침 치료
 
@@ -367,7 +367,7 @@ CAMUS 대규모 RCT(369례)에서 톱야자 추출물(320~960 mg/일)은 위약 
 
 #### 14-3. 이금경(易筋經)·태극권(太極拳)
 
-이금경(易筋經) 기공 vs 태극권(太極拳) 운동의 비교 RCT(150례)에서 두 운동 모두 전립선비대증 증상·삶의 질 개선에 효과적이었다[^75].
+이금경(易筋經) 기공과 태극권(太極拳) 운동의 전립선 관련 지표 개선 효과를 비교하는 무작위 대조시험이 계획되어 계획서가 공개되었으나(60~70세 남성 150명 계획, 6개월 수련), 결과는 아직 보고되지 않았다[^75]. 따라서 두 운동의 전립선비대증 증상 개선 효과는 현재 확인되지 않은 상태다.
 
 #### 14-4. 배석(排石)·방광 세척 장치
 
@@ -548,7 +548,7 @@ KCD-8: N40 (전립선 비대증).
 | 정서 | 스트레스 관리, 이완 요법. | 기체혈어 병인[^3] |
 | 보온 | 하복·회음·요부 보온, 냉수욕 회피. | 신양허 — 외한지략[^3] |
 | 방로(房勞) | 과도한 성생활 절제, 규칙적 성생활은 전립선 울혈 예방. | 신정 소모[^3] |
-| 기공 | 이금경·태극권 규칙적 수련. | 기혈 순환[^75] |
+| 기공 | 이금경·태극권 규칙적 수련. | 기혈 순환(교과서적 근거) — 전립선 지표 개선 여부는 시험 계획 단계[^75] |
 
 > 이 표는 임상 틀이자 교과서적 근거에 근거한 생활지도다.
 
@@ -668,7 +668,7 @@ KCD-8: N40 (전립선 비대증).
 [^33]: System review of the Chinese medicine bushenhuoxue for treating benign prostatic hyperplasia. _Zhongguo Zhong Xi Yi Jie He Za Zhi_. 2004. [메타분석] [PMID 15562796](https://pubmed.ncbi.nlm.nih.gov/15562796/) — 보신활혈 처방이 대조 약물보다 우수, 피나스테리드와 유사. 보신활혈 계열 대표 근거.
 [^34]: Comparative efficacy and safety of acupuncture and moxibustion in the treatment of benign prostatic hyperplasia: a systematic review and network meta-analysis. _Medicine_. 2024. [메타분석] [DOI 10.1097/MD.0000000000044085](https://doi.org/10.1097/MD.0000000000044085) — 침·뜸 병행 네트워크 메타분석. 전침 우위.
 [^35]: Electroacupuncture at Zhongji (CV 3) for treatment of benign hyperplasia of prostate: a randomized controlled trial. _Zhongguo Zhen Jiu_. 2008. [임상시험] [PMID 18767576](https://pubmed.ncbi.nlm.nih.gov/18767576/) — 중극(CV3) 전침 276례 RCT. 배뇨 증상·요속·잔뇨량 개선.
-[^36]: Efficacy of electroacupuncture at Zhongliao point (BL33) for mild and moderate benign prostatic hyperplasia: a randomized controlled trial. _Trials_. 2011. [임상시험] [DOI 10.1186/1745-6215-12-211](https://doi.org/10.1186/1745-6215-12-211) [PMID 21943105](https://pubmed.ncbi.nlm.nih.gov/21943105/) — 중료(BL33) 전침 100례 RCT. 경도·중등도 BPH 효과.
+[^36]: Efficacy of electroacupuncture at Zhongliao point (BL33) for mild and moderate benign prostatic hyperplasia: study protocol for a randomized controlled trial. Wang Y 외. _Trials_. 2011-09-26. [임상시험 계획서, 100명 계획] [DOI 10.1186/1745-6215-12-211](https://doi.org/10.1186/1745-6215-12-211) [PMID 21943105](https://pubmed.ncbi.nlm.nih.gov/21943105/) — 중료(BL33) 전침의 경혈 특이적 효과를 비경혈 자침과 비교해 평가하기 위해 설계된 이중맹검 시험의 계획서다(NCT01218243). 결과는 보고되지 않았다.
 [^37]: Effect of fire needle therapy on mild-moderate benign prostatic hyperplasia. _Medicine_. 2020. [임상시험] [DOI 10.1097/md.0000000000020376](https://doi.org/10.1097/md.0000000000020376) — 화침 요법 60례 RCT. 대조군 대비 유의 증상 개선.
 [^38]: Observation on therapeutic effects of elongated needle therapy on dysuria induced by benign prostatic hyperplasia. 2008. [임상시험] [PMID 18972723](https://pubmed.ncbi.nlm.nih.gov/18972723/) — 장침 요법 150례. 배뇨곤란 개선.
 [^39]: Clinical Trials of Triple-puncture Stimulation of Zhibian (BL 54), ctc. plus Moxibustion for Benign Prostatic Hyperplasia. 2015. [임상시험] [PMID 26887214](https://pubmed.ncbi.nlm.nih.gov/26887214/) — 질변(BL54) 3침+뜸 병용 200례.
@@ -707,7 +707,7 @@ KCD-8: N40 (전립선 비대증).
 [^72]: Pomegranate Extracts in the Management of Men's Urologic Health: Scientific Rationale and Clinical Evidence. _Evid Based Complement Alternat Med_. 2013. [문헌 고찰] [DOI 10.1155/2013/701434](https://doi.org/10.1155/2013/701434) [PMID 23589721](https://pubmed.ncbi.nlm.nih.gov/23589721/) — 석류 추출물 전립선 건강 고찰.
 [^73]: Transrectal ultrasound conductance-guided administration of traditional Chinese medicine for treatment of benign prostatic hyperplasia. 2017. [임상시험] [PMID 29717840](https://pubmed.ncbi.nlm.nih.gov/29717840/) — 경직장 초음파 유도 한약 관류 167례.
 [^74]: Application of Kegel Motion Combined With Warming Acupuncture at the Eight Acupoints of the Sacrum for Benign Prostatic Hyperplasia. 2022. [관찰연구] [DOI 10.9738/intsurg-d-22-00013.1](https://doi.org/10.9738/intsurg-d-22-00013.1) — 케겔 운동+팔료혈 온침 병용 관찰.
-[^75]: Comparative effects of Yi Jin Jing versus Tai Chi exercise training on benign prostatic hyperplasia. _Trials_. 2016. [임상시험] [DOI 10.1186/s13063-016-1448-4](https://doi.org/10.1186/s13063-016-1448-4) [PMID 27422168](https://pubmed.ncbi.nlm.nih.gov/27422168/) — 이금경 vs 태극권 150례 RCT. 두 운동 모두 증상·삶의 질 개선.
+[^75]: Comparative effects of Yi Jin Jing versus Tai Chi exercise training on benign prostatic hyperplasia-related outcomes in older adults: study protocol for a randomized controlled trial. Liu X 외. _Trials_. 2016-07-16. [임상시험 계획서, 150명 계획] [DOI 10.1186/s13063-016-1448-4](https://doi.org/10.1186/s13063-016-1448-4) [PMID 27422168](https://pubmed.ncbi.nlm.nih.gov/27422168/) — 60~70세 남성에서 이금경과 태극권 6개월 수련이 전립선 형태·기능에 미치는 영향을 비교하기 위해 설계된 시험의 계획서다(ChiCTR-IOR-16007698). 결과는 보고되지 않았다.
 [^76]: A novel automatic regulatory device for continuous bladder irrigation based on wireless sensor network. _Medicine_. 2016. [임상시험] [DOI 10.1097/MD.0000000000005721](https://doi.org/10.1097/MD.0000000000005721) [PMID 28033276](https://pubmed.ncbi.nlm.nih.gov/28033276/) — 방광 세척 자동 장치 146례 (양방 기기).
 [^77]: Clinical Practice Patterns for Benign Prostatic Hyperplasia: An Online Survey. _J Int Korean Med_. 2023. [관찰연구] [DOI 10.22246/jikm.2023.44.4.703](https://doi.org/10.22246/jikm.2023.44.4.703) — 한의사 323명 대상. 침·한약·뜸 주로 사용, 표준화 CPG 필요.
 
