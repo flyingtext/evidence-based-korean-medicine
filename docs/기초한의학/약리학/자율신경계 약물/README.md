@@ -168,7 +168,7 @@
 
 #### 2-2. 부정맥과 협심증
 
-β차단제는 β1 차단을 통해 동방결절 자동능·방실결절 전도속도를 낮춰 항부정맥·항협심증 효과를 낸다. 서맥성 부정맥에 대한 한의학적 접근(현대 약리학적 기전 포함)을 정리한 메타분석은 온심(溫心)·조양(助陽) 치법의 방제가 방실전도·동방결절 자동능에 관여할 가능성을 제시하며[^41], 이는 β차단제의 서맥 유발 부작용과 대조적으로 서맥성 부정맥에서는 오히려 온양(溫陽) 계열 한약이 검토되는 배경이 된다. 감초 성분을 포함한 자감초탕(炙甘草湯)과 메토프롤롤 병용에 관한 무작위대조시험을 종합한 메타분석은 부정맥 관리에서 한약-양약 병용의 근거를 축적하고 있으며[^37], 온심과립(溫心顆粒)·자감초탕 등 다른 방제와 메토프롤롤 병용의 효과를 다룬 메타분석[^39][^40]도 유사한 방향의 근거를 제공한다. 다만 이들 연구는 대부분 중국 내 연구로 방법론적 질이 이질적이라는 한계가 있어, 근거 확실성 평가에 신중해야 한다.
+β차단제는 β1 차단을 통해 동방결절 자동능·방실결절 전도속도를 낮춰 항부정맥·항협심증 효과를 낸다. 서맥성 부정맥에 대한 한의학적 접근(현대 약리학적 기전 포함)을 정리한 메타분석은 온심(溫心)·조양(助陽) 치법의 방제가 방실전도·동방결절 자동능에 관여할 가능성을 제시하며[^41], 이는 β차단제의 서맥 유발 부작용과 대조적으로 서맥성 부정맥에서는 오히려 온양(溫陽) 계열 한약이 검토되는 배경이 된다. 감초 성분을 포함한 자감초탕(炙甘草湯)과 메토프롤롤 병용에 관한 무작위대조시험을 종합한 메타분석은 부정맥 관리에서 한약-양약 병용의 근거를 축적하고 있으며[^37], 온심과립(溫心顆粒)·자감초탕 등 다른 방제와 메토프롤롤 병용의 효과를 다룬 메타분석[^40]도 유사한 방향의 근거를 제공한다. 심방세동에서 온심과립과 항부정맥제 병용을 비교하는 체계적 고찰·네트워크 메타분석은 계획서만 공표된 단계로 아직 결과가 보고되지 않았다[^39]. 다만 이들 연구는 대부분 중국 내 연구로 방법론적 질이 이질적이라는 한계가 있어, 근거 확실성 평가에 신중해야 한다.
 
 기좌강심교낭(芪苈强心胶囊) 계열 처방을 서양의학 표준치료와 병용한 심부전 치료 효과를 평가한 메타분석[^38]은 β차단제·이뇨제 등 표준 심부전 치료에 한약을 보조적으로 병용하는 접근의 근거로 인용된다. 편두통 예방에서 프로프라놀롤의 위치를 재확인한 코크란 체계적 고찰[^32], 침구와 프로프라놀롤의 편두통 예방 효과를 간접비교한 메타분석[^33]은 β차단제의 중추신경계 적응증(편두통 예방)과 침구 치료의 상대적 위치를 함께 보여준다.
 
@@ -283,13 +283,13 @@
 
 자율신경계 약물(특히 교감신경흥분제·β차단제·항콜린제)은 치료지수가 좁고 심혈관계에 직접 작용하는 약물이 많아, 한약과의 병용 시 상호작용 위험을 특히 신중히 평가해야 하는 영역이다.
 
-**① 약력학적 상호작용**: 마황·인삼(人蔘)·감초(甘草) 등 교감신경흥분 또는 혈압상승 작용이 있는 본초는 β차단제·α차단제 등 자율신경계 약물의 치료 효과를 상쇄하거나, 반대로 카테콜아민계 약물과 병용 시 상승적으로 심혈관계 부담을 가중시킬 수 있다. 한약과 처방약을 병용하는 고령 환자에서의 병용 양상을 조사한 체계적 고찰은 이러한 병용이 임상 현장에서 드물지 않게 발생함을 보여준다[^82].
+**① 약력학적 상호작용**: 마황·인삼(人蔘)·감초(甘草) 등 교감신경흥분 또는 혈압상승 작용이 있는 본초는 β차단제·α차단제 등 자율신경계 약물의 치료 효과를 상쇄하거나, 반대로 카테콜아민계 약물과 병용 시 상승적으로 심혈관계 부담을 가중시킬 수 있다. 고령 환자에서 처방약과 한약의 병용 유병률·양상을 조사하기 위한 체계적 고찰이 계획서 단계로 공표되어 있으나, 그 결과는 아직 보고되지 않았다[^82].
 
 **② 임신·수유부 안전성**: 임신·산후기 한약제제 사용에 관한 체계적 고찰은 마황을 포함한 일부 본초가 임신 중 금기 또는 신중 사용 약재로 분류됨을 확인한다[^80]. 이는 마황의 교감신경흥분 작용이 자궁 혈류·태아 순환에 영향을 줄 수 있다는 약리학적 우려와 일치한다.
 
 **③ 대사효소·수송체 매개 상호작용**: 영지(靈芝)·운지(雲芝) 등 버섯류 생약과 세포독성 항암제의 상호작용을 다룬 체계적 고찰[^81], 소갈환(消渴丸, Xiaoke Pill)과 경구혈당강하제의 상호작용을 다룬 임상 근거 종설[^83]은 한약-양약 상호작용이 자율신경계 약물에 국한되지 않는 일반적 원리이지만, CYP450·P-당단백(P-glycoprotein) 매개 상호작용 평가의 방법론을 자율신경계 약물 영역에도 동일하게 적용해야 함을 보여준다. 파파야 잎 추출물의 생물학적 안전성·약물상호작용을 체계적으로 검토한 연구도 유사한 방법론적 모범 사례로 참고할 수 있다[^79].
 
-**④ 변증(辨證)과 자율신경 조절**: 기허(氣虛)·간기울결(肝氣鬱結) 등 변증에 따른 비만·고지혈증 관리에서 침구·한약 병용 효과를 관찰한 임상시험[^86], 건강 증진을 위한 첨단 침구 기법의 예방적 적용을 다룬 임상시험[^87]은 한의학적 개입이 자율신경 균형 조절을 매개로 대사·심혈관 지표에 영향을 줄 수 있음을 시사하는 근거로 축적되고 있다. 기허(氣虛) 변증에 따른 침구·뜸 효과의 차이를 심박변이도로 비교한 임상시험도 변증 층화가 자율신경 조절 반응의 예측 인자가 될 수 있음을 보여준다[^88].
+**④ 변증(辨證)과 자율신경 조절**: 기허(氣虛)·간기울결(肝氣鬱結) 등 변증에 따른 비만·고지혈증 관리에서 침구·한약 병용 효과를 관찰한 임상시험[^86]은 한의학적 개입이 자율신경 균형 조절을 매개로 대사·심혈관 지표에 영향을 줄 수 있음을 시사하는 근거로 축적되고 있다. 기허(氣虛) 변증으로 파악되는 번아웃 증후군 환자를 대상으로 족삼리(足三里, ST36)·관원(關元, CV4) 자침과 뜸이 심박변이도에 미치는 영향을 검증하려는 다국적 연구가 계획서 단계로 공표되어 있으나, 그 결과는 아직 보고되지 않았다[^87]. 기허(氣虛) 변증에 따른 침구·뜸 효과의 차이를 심박변이도로 비교한 임상시험도 변증 층화가 자율신경 조절 반응의 예측 인자가 될 수 있음을 보여준다[^88].
 
 **변증 층화 강조**: 마황·인삼 등 교감신경흥분 성분을 포함한 한약을 자율신경계 약물(특히 β차단제·항고혈압제·부정맥약)과 병용할 때는, 단순히 "한약이니 안전하다"는 관행적 전제를 배제하고 변증·병용약물·기저 심혈관질환 여부를 종합적으로 평가해야 한다.
 
@@ -363,7 +363,7 @@
 
 **③병태생리**: 이소성 자동능 증가, 재진입(reentry) 회로 형성 등이 핵심 기전이며, β차단제는 방실결절 전도속도를 낮춰 심실 반응률을 조절한다[교과서적 근거].
 
-**④치료**: β차단제(메토프롤롤 등)가 심박수 조절의 1차 약제로 쓰이며, 자감초탕·온심과립 등 한약과의 병용 효과를 다룬 메타분석들이 부정맥 증상 개선 및 삶의 질 지표 향상을 보고한다[^37][^39][^40]. 수술 후 심방세동 예방에서 아테놀롤의 역할을 정리한 메타분석도 β차단제의 예방적 적용을 뒷받침한다[^45].
+**④치료**: β차단제(메토프롤롤 등)가 심박수 조절의 1차 약제로 쓰이며, 자감초탕·온심과립 등 한약과의 병용 효과를 다룬 메타분석들이 부정맥 증상 개선 및 삶의 질 지표 향상을 보고한다[^37][^40]. 수술 후 심방세동 예방에서 아테놀롤의 역할을 정리한 메타분석도 β차단제의 예방적 적용을 뒷받침한다[^45].
 
 **⑤예후**: 심방세동은 뇌졸중 위험 증가와 직결되므로 항응고 여부 평가(CHA2DS2-VASc 점수)가 예후 관리의 핵심이다[교과서적 근거].
 
@@ -426,7 +426,7 @@
 | 마황 간독성 | 일부 사례보고에서 간손상 연관 보고 | [^78] |
 | 임신 중 마황 사용 | 자궁혈류·태아순환에 대한 교감신경흥분 영향 우려로 금기 또는 신중 사용 | [^80] |
 | 항콜린제 장기 병용(한약+양약) | 구강건조·변비·인지저하 등 항콜린 부담 누적 | [^67][^68] |
-| 인삼·감초 등 혈압상승 본초-항고혈압제 병용 | 항고혈압 효과 상쇄 가능성 | [교과서적 근거][^82] |
+| 인삼·감초 등 혈압상승 본초-항고혈압제 병용 | 항고혈압 효과 상쇄 가능성 | [교과서적 근거] |
 | 버섯류 생약(영지·운지)-세포독성항암제 병용 | CYP450·수송체 매개 상호작용 가능성 | [^81] |
 | β차단제 급격한 중단 | 반동성 빈맥·고혈압·협심증 악화(금단 증후군) | [교과서적 근거] |
 | α차단제 초회 투여 | 기립성 저혈압("첫 용량 효과") | [교과서적 근거][^28] |
@@ -552,7 +552,7 @@ PTSD 환자에서는 노르아드레날린 시스템이 과활성화되어 있�
 [^36]: Impact of adding statins to non-selective beta-blockers in cirrhosis with portal hypertension. Wu Q 외. _Annals of hepatology_. 2026-07-19. [메타분석] [DOI 10.1016/j.aohep.2026.102259](https://doi.org/10.1016/j.aohep.2026.102259) [PMID 42472575](https://pubmed.ncbi.nlm.nih.gov/42472575/) — β차단제 기반 병용요법의 확장.
 [^37]: Randomized Controlled Trials of Zhigancao Decoction Combined With Metoprolol in the Treatment of Arrhythmia. Yang Y 외. _Frontiers in cardiovascular medicine_. 2022. [메타분석] [DOI 10.3389/fcvm.2022.795903](https://doi.org/10.3389/fcvm.2022.795903) [PMID 35282353](https://pubmed.ncbi.nlm.nih.gov/35282353/) — 자감초탕과 메토프롤롤 병용의 부정맥 치료 효과.
 [^38]: Clinical Efficacy of Qili Qiangxin Capsule Combined with Western Medicine in the Treatment of Heart Failure. Xu X 외. _Evidence-based complementary and alternative medicine_. 2021. [메타분석] [DOI 10.1155/2021/9761159](https://doi.org/10.1155/2021/9761159) [PMID 34408783](https://pubmed.ncbi.nlm.nih.gov/34408783/) — 기좌강심교낭과 표준 심부전 치료 병용 효과.
-[^39]: Comparative efficacy and safety of wenxin granule combined with antiarrhythmic drugs for arrhythmia. Shi S 외. _Medicine_. 2021-01-22. [메타분석] [DOI 10.1097/MD.0000000000024434](https://doi.org/10.1097/MD.0000000000024434) [PMID 33546090](https://pubmed.ncbi.nlm.nih.gov/33546090/) — 온심과립과 항부정맥제 병용 효과.
+[^39]: Comparative efficacy and safety of wenxin granule combined with antiarrhythmic drugs for atrial fibrillation: A protocol for a systematic review and network meta-analysis. Shi S 외. _Medicine_. 2021-01-22. [체계적 고찰 계획서] [DOI 10.1097/MD.0000000000024434](https://doi.org/10.1097/MD.0000000000024434) [PMID 33546090](https://pubmed.ncbi.nlm.nih.gov/33546090/) — 심방세동에서 온심과립과 항부정맥제 병용의 상대적 유효성·안전성을 비교하기 위해 설계된 체계적 고찰·네트워크 메타분석의 계획서이며, 검색·분석 절차만 사전 공표된 단계로 결과는 보고되지 않았다.
 [^40]: Efficacy and safety of Chinese herbal medicine Wenxin Keli for ventricular premature beats. He M 외. _Complementary therapies in medicine_. 2016-12. [체계적 고찰] [DOI 10.1016/j.ctim.2016.10.007](https://doi.org/10.1016/j.ctim.2016.10.007) [PMID 27912945](https://pubmed.ncbi.nlm.nih.gov/27912945/) — 온심과립의 심실조기수축 치료 근거.
 [^41]: Traditional Chinese Medicine for Bradyarrhythmia: Evidence and Potential Mechanisms. Liu S 외. _Frontiers in pharmacology_. 2018. [메타분석] [DOI 10.3389/fphar.2018.00324](https://doi.org/10.3389/fphar.2018.00324) [PMID 29686614](https://pubmed.ncbi.nlm.nih.gov/29686614/) — 서맥성 부정맥에 대한 온양(溫陽) 계열 한약의 근거·기전.
 [^42]: Treatment of glaucoma with drug-loaded contact lenses: A systematic review and meta-analysis. Zhang D 외. _European journal of pharmacology_. 2025-05-15. [메타분석] [DOI 10.1016/j.ejphar.2025.177425](https://doi.org/10.1016/j.ejphar.2025.177425) [PMID 39993701](https://pubmed.ncbi.nlm.nih.gov/39993701/) — 녹내장 약물 전달 신제형에 대한 메타분석.
@@ -593,12 +593,12 @@ PTSD 환자에서는 노르아드레날린 시스템이 과활성화되어 있�
 [^79]: Carica papaya L. Leaf: A Systematic Scoping Review on Biological Safety and Herb-Drug Interactions. X. Y. Lim 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-05-07. [체계적 고찰] [DOI 10.1155/2021/5511221](https://doi.org/10.1155/2021/5511221) — 생약-약물 상호작용 평가 방법론 참고 사례.
 [^80]: Herbal Medicinal Product Use During Pregnancy and the Postnatal Period: A Systematic Review. Muñoz Balbontín Y 외. _Obstetrics and gynecology_. 2019-05. [체계적 고찰] [DOI 10.1097/AOG.0000000000003217](https://doi.org/10.1097/AOG.0000000000003217) [PMID 30969204](https://pubmed.ncbi.nlm.nih.gov/30969204/) — 임신 중 한약재 사용 안전성, 마황 등 금기 약재 포함.
 [^81]: Herb-drug interactions between the medicinal mushrooms Lingzhi and Yunzhi and cytotoxic anticancer drugs. Lam CS 외. _Chinese medicine_. 2020. [체계적 고찰] [DOI 10.1186/s13020-020-00356-4](https://doi.org/10.1186/s13020-020-00356-4) [PMID 32724333](https://pubmed.ncbi.nlm.nih.gov/32724333/) — 대사효소 매개 한약-항암제 상호작용.
-[^82]: Concurrent use of prescription drugs and herbal medicinal products in older adults: a systematic review. Agbabiaka T 외. _Systematic reviews_. 2016-04-21. [체계적 고찰] [DOI 10.1186/s13643-016-0244-2](https://doi.org/10.1186/s13643-016-0244-2) [PMID 27098011](https://pubmed.ncbi.nlm.nih.gov/27098011/) — 고령 환자의 한약-양약 병용 실태.
+[^82]: Concurrent use of prescription drugs and herbal medicinal products in older adults: a systematic review protocol. Agbabiaka T 외. _Systematic reviews_. 2016-04-21. [체계적 고찰 계획서] [DOI 10.1186/s13643-016-0244-2](https://doi.org/10.1186/s13643-016-0244-2) [PMID 27098011](https://pubmed.ncbi.nlm.nih.gov/27098011/) — 고령 환자의 처방약-한약 병용 유병률과 양상을 조사하기 위해 설계된 체계적 고찰의 계획서로, 결과는 보고되지 않았다.
 [^83]: Xiaoke Pill and anti-diabetic drugs: A review on clinical evidence of possible herb-drug interactions. Chan CC 외. _Chinese journal of integrative medicine_. 2016-01-29. [문헌 고찰] [DOI 10.1007/s11655-015-2106-5](https://doi.org/10.1007/s11655-015-2106-5) [PMID 26825080](https://pubmed.ncbi.nlm.nih.gov/26825080/) — 한약-혈당강하제 상호작용 근거 정리의 방법론적 모범 사례.
 [^84]: [Studies on function of vegetative nervous system in cardiopathic patients with heart-qi deficiency syndrome]. Zhang DL 외. _Zhongguo Zhong xi yi jie he za zhi_. 1995-10. [관찰연구] [PMID 8704421](https://pubmed.ncbi.nlm.nih.gov/8704421/) — 심기허 증후 환자의 자율신경 기능 이상을 보고한 초기 근거.
 [^85]: Changes in Heart Rate Variability in Patients with Spleen-Qi Deficiency Syndrome. Olivera-Toro A 외. _Journal of acupuncture and meridian studies_. 2019-08. [관찰연구] [DOI 10.1016/j.jams.2019.07.002](https://doi.org/10.1016/j.jams.2019.07.002) [PMID 31351997](https://pubmed.ncbi.nlm.nih.gov/31351997/) — 비기허 증후와 심박변이도 변화의 대응 관계.
 [^86]: [Clinical observation on obesity and hyperlipidemia of liver qi stagnation and spleen deficiency type]. Wu B 외. _Zhongguo zhen jiu_. 2014-12. [임상시험] [PMID 25876338](https://pubmed.ncbi.nlm.nih.gov/25876338/) — 변증에 따른 비만·고지혈증 침구 병용 관찰.
-[^87]: High-Tech Acupuncture for Prevention of Lifestyle Diseases-A Sino-Austrian Cooperation Research. Liang FX 외. _Chinese journal of integrative medicine_. 2018-06. [임상시험] [DOI 10.1007/s11655-017-2548-4](https://doi.org/10.1007/s11655-017-2548-4) [PMID 28634863](https://pubmed.ncbi.nlm.nih.gov/28634863/) — 자율신경 매개 대사·심혈관 지표 조절의 예방적 침구 적용.
+[^87]: High-Tech Acupuncture for Prevention of Lifestyle Diseases-A Sino-Austrian Cooperation Research Protocol on Heart Rate Variability. Liang FX 외. _Chinese journal of integrative medicine_. 2018-06. [임상시험 계획서, 번아웃 환자 175명·건강 대조 35명 계획] [DOI 10.1007/s11655-017-2548-4](https://doi.org/10.1007/s11655-017-2548-4) [PMID 28634863](https://pubmed.ncbi.nlm.nih.gov/28634863/) — 기허(氣虛) 증후로 파악되는 번아웃 증후군 환자에서 족삼리·관원 자침과 뜸이 심박수·심박변이도에 미치는 영향을 평가하기 위해 설계된 중국-오스트리아 공동 연구의 계획서이며, 결과는 보고되지 않았다.
 [^88]: [Differences of acupuncture and moxibustion on heart rate variability in qi-deficiency syndrome]. Shu Q 외. _Zhongguo zhen jiu_. 2017-01-12. [임상시험] [DOI 10.13703/j.0255-2930.2017.01.006](https://doi.org/10.13703/j.0255-2930.2017.01.006) [PMID 29231318](https://pubmed.ncbi.nlm.nih.gov/29231318/) — 기허 변증에 따른 침구·뜸의 심박변이도 반응 차이.
 [^89]: [Effect characteristics and mechanism of acupuncture in autonomic nerve regulation]. Liu K 외. _Zhen ci yan jiu_. 2021-04-25. [체계적 고찰] [DOI 10.13702/j.1000-0607.200665](https://doi.org/10.13702/j.1000-0607.200665) [PMID 33932001](https://pubmed.ncbi.nlm.nih.gov/33932001/) — 침구의 자율신경 조절 기전 종합.
 [^90]: Acupuncture and heart rate variability: a systematic review. Lee S 외. _Autonomic neuroscience: basic & clinical_. 2010-06-24. [체계적 고찰] [DOI 10.1016/j.autneu.2010.02.003](https://doi.org/10.1016/j.autneu.2010.02.003) [PMID 20304708](https://pubmed.ncbi.nlm.nih.gov/20304708/) — 침구와 심박변이도 관계의 체계적 고찰.
