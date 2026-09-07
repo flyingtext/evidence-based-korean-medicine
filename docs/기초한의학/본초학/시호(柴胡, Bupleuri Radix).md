@@ -44,7 +44,7 @@
 
 - **간 질환·간 보호**: 시호 함유 처방(청간활혈방·소시호탕 등)은 알코올성 간질환의 간 기능 지표(ALT·AST·TG)를 개선하고 간 섬유화를 억제한다.[^21][^36]
 - **정서 질환·우울·불안**: 소시호탕·소요산·시호소간산(柴胡疏肝散)은 우울증·불안에서 항우울제 단독 대비 병용 우위가 보고되었고, 장-뇌 축을 통한 염증 억제가 기전 가설로 제시된다. 종합진료 환경의 관찰연구에서도 시호제가 기능성 증상 환자에게 널리 처방되고 있다. 시호가용골모려탕은 후발성 성선기능저하증 관련 증상 개선에 유효하다.[^1][^10][^15][^17][^28][^30]
-- **발열·호흡기 감염**: 소시호탕은 폐렴·뇌졸중 후 폐렴에서 항생제와 병용 시 치료 기간·발열 기간을 단축한다. 시호적환·소시호가길경석고탕은 SARS·COVID-19 등 급성 호흡기 감염의 증상 완화에 유용하다.[^19][^23][^27][^29][^39]
+- **발열·호흡기 감염**: 소시호탕은 폐렴·뇌졸중 후 폐렴에서 항생제와 병용 시 치료 기간·발열 기간을 단축한다. 시호적환·소시호가길경석고탕은 SARS·COVID-19 등 급성 호흡기 감염의 증상 완화에 유용하다.[^19][^27][^29][^39]
 - **소화기 질환·췌장염·담낭염**: 대시호탕은 급성 담낭염·고지혈증에서 메타분석 근거를 갖고, 시호 배오 방제는 중증 급성 췌장염의 염증 사이토카인을 조절하였다. 청간활혈방은 알코올성 간질환에 우수한 효과를 보인다.[^3][^16][^18][^21][^36]
 - **심혈관 질환**: 시호계지탕은 안정형 협심증의 혈관 내피 기능(NT-proBNP·NO·eNOS)을 개선하고, 시령탕은 만성 경막하 혈종 수술 후 재발률을 유의하게 낮춘다.[^12][^13]
 - **신장 질환·비뇨생식기**: 소시호탕은 만성 사구체신염의 단백뇨를 감소시키고 면역 균형을 개선한다. 시령탕은 전립선 비대증 야간뇨·회장루 후 고배출 증후군 예방에 유효하다. 시호계지건강탕(柴胡桂枝乾薑湯) 합 온담탕(溫膽湯)은 조루증에 다포세틴 유사 효과를 보인다. 단삼·시호 주사액 약침은 발기부전에 유효하다.[^11][^14][^26][^37][^41]
@@ -272,7 +272,7 @@
 
 ### 4-2. 발열·감염성 질환
 
-암 관련 발열에서 소시호탕의 메타분석[^55], 폐렴에서 항생제 병용 관찰연구[^27], 뇌졸중 후 폐렴에서 소함흉탕(小陷胸湯) 합방 임상시험[^19], 만성 편도염의 급성 악화 감소[^61], 코로나19에서 갈근탕 합 소시호탕가길경석고의 무작위 대조군 연구와 임상 결과[^23][^29], 급성 호흡기 감염에서 시호적환 관찰[^39], 항암제 임플란트 유발 난치성 발열 증례[^60], 만성 미열 동반 만성피로증후군 증례[^59]가 확보되어 있다.
+암 관련 발열에서 소시호탕의 메타분석[^55], 폐렴에서 항생제 병용 관찰연구[^27], 뇌졸중 후 폐렴에서 소함흉탕(小陷胸湯) 합방 임상시험[^19], 만성 편도염의 급성 악화 감소[^61], 코로나19에서 갈근탕 합 소시호탕가길경석고를 평가한 다기관 무작위 대조시험의 계획서[^23]와 그 임상 결과 보고[^29], 급성 호흡기 감염에서 시호적환 관찰[^39], 항암제 임플란트 유발 난치성 발열 증례[^60], 만성 미열 동반 만성피로증후군 증례[^59]가 확보되어 있다.
 
 **변증 층화**: 발열이라고 모두 시호제 적응이 아니다. 오한 위주의 태양 표증에는 계지탕·마황탕 계열이, 장열(壯熱)·대한(大汗)의 양명 기분열에는 백호탕 계열이 우선한다. 시호제는 **한열이 교대로 나타나고 흉협부 저항·압통이 확인되는 소양 단계** 에 위치한다(교과서적 근거).
 
@@ -548,7 +548,7 @@
 [^20]: Effects of chai hu (radix burpleuri) containing formulation on plasma beta-endorphin, epinephrine and dopamine on patients. Chen JX 외. _The American Journal of Chinese Medicine_. 2005. [임상시험] [DOI 10.1142/S0192415X05003296](https://doi.org/10.1142/S0192415X05003296) [PMID 16265986](https://pubmed.ncbi.nlm.nih.gov/16265986/) — 시호 함유 제제 투여 후 혈장 베타엔도르핀·에피네프린·도파민 변화를 관찰한 인체 연구. 시호 제제의 신경내분비 축 개입을 시사한다.
 [^21]: [Clinical study on treatment of alcoholic liver disease by qinggan huoxue recipe]. Ji G 외. _Chinese Journal of Integrated Traditional and Western Medicine_. 2004-01. [임상시험] [PMID 14976881](https://pubmed.ncbi.nlm.nih.gov/14976881/) — 청간활혈방(淸肝活血方)의 알코올성 간질환 간기능·지질 개선 근거. 대조군으로 소시호탕 계열 제제가 쓰였다.
 [^22]: Antioxidant and anticonvulsant effect of a modified formula of chaihu-longu-muli-tang. Hung-Ming W 외. _The American Journal of Chinese Medicine_. 2002. [임상시험] [DOI 10.1142/S0192415X02000235](https://doi.org/10.1142/S0192415X02000235) [PMID 12230022](https://pubmed.ncbi.nlm.nih.gov/12230022/) — 시호가용골모려탕 가감방의 항산화·항경련 인체 근거. 난치성 발작 보조 요법 가설의 출발점이다.
-[^23]: A multi-center, randomized controlled trial by the Integrative Management in Japan for Epidemic Disease (IMJEDI study-RCT) on the use of Kampo medicine, kakkonto with shosaikotokakikyosekko, in mild-to-moderate COVID-19 patients. Takayama S 외. _Trials_. 2020-10-02. [임상시험] [DOI 10.1186/s13063-020-04746-9](https://doi.org/10.1186/s13063-020-04746-9) [PMID 33008479](https://pubmed.ncbi.nlm.nih.gov/33008479/) — 갈근탕 합 소시호탕가길경석고의 경증·중등증 코로나19 무작위 대조군 연구 설계. 급성 감염기 시호제 사용의 근거 틀이다.
+[^23]: A multi-center, randomized controlled trial by the Integrative Management in Japan for Epidemic Disease (IMJEDI study-RCT) on the use of Kampo medicine, kakkonto with shosaikotokakikyosekko, in mild-to-moderate COVID-19 patients for symptomatic relief and prevention of severe stage: a structured summary of a study protocol for a randomized controlled trial. Takayama S 외. _Trials_. 2020-10-02. [임상시험 계획서, 군당 150명 계획] [DOI 10.1186/s13063-020-04746-9](https://doi.org/10.1186/s13063-020-04746-9) [PMID 33008479](https://pubmed.ncbi.nlm.nih.gov/33008479/) — 경증·중등증 코로나19에서 갈근탕 합 소시호탕가길경석고의 증상 완화·중증화 예방 효과를 평가하기 위해 설계된 시험의 계획서 요약이다(jRCTs021200020). 결과를 담고 있지 않으므로 유효성 근거로 쓸 수 없으며, 실제 결과는 [^29]를 인용해야 한다.
 [^24]: Risk of adverse events associated with co-administration of quetiapine and Bupleuri Radix: A population-based cohort study. Mu X 외. _Pharmacological Research_. 2026-07. [관찰연구] [DOI 10.1016/j.phrs.2026.108251](https://doi.org/10.1016/j.phrs.2026.108251) [PMID 42150732](https://pubmed.ncbi.nlm.nih.gov/42150732/) — 시호와 퀘티아핀 병용 시 이상반응 위험을 인구 기반으로 분석한 연구. 시호 단미 수준의 드문 약물상호작용 직접 근거다.
 [^25]: Therapeutic effects of Saireito (TJ-114), a traditional Japanese herbal medicine, on postoperative edema and inflammation after total hip arthroplasty. Kishida Y 외. _Phytomedicine_. 2007-09. [임상시험] [DOI 10.1016/j.phymed.2006.12.024](https://doi.org/10.1016/j.phymed.2006.12.024) [PMID 17292595](https://pubmed.ncbi.nlm.nih.gov/17292595/) — 시령탕의 인공 고관절 전치환술 후 부종·염증 감소 근거. 수술 후 수습(水濕) 관리 근거다.
 [^26]: [Kampo preparations for prostatic hyperplasia: usefulness of Saireito for nocturia]. Sugiyama T 외. _Hinyokika Kiyo_. 2002-06. [임상시험] [PMID 12166233](https://pubmed.ncbi.nlm.nih.gov/12166233/) — 시령탕의 전립선 비대증 야간뇨 개선 근거. 비뇨기 영역 배오 사례다.
