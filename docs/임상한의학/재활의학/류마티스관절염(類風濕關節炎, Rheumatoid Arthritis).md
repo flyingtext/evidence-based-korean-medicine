@@ -453,7 +453,7 @@ RANKL/OPG 균형 이상으로 파골세포가 활성화되면서 연골하골의
 | 본초 | 한자·기원 | 주요 근거 요약 |
 |---|---|---|
 | 뇌공등(雷公藤) | Tripterygium wilfordii Hook F | csDMARDs 대비 ACR20/50 우수, 임상진료지침 제정, 좁은 치료범위·생식독성 주의[^84][^82] |
-| 방기(防己) | Stephania tetrandra | 과립구 과활성화 억제, 염증지표 개선[^97] |
+| 방기(防己) | 인용 연구는 *Stephania tetrandra*(분방기). 대한민국약전의 방기는 청풍등(*Sinomenium acutum*)으로 기원이 다르다 | 과립구 과활성화 억제, 염증지표 개선[^97] |
 | 오두(烏頭) | Aconitum carmichaelii(가공 부자류) | 오두탕 구성약, 관절증상·ESR·CRP·RF 개선[^67] |
 | 계지(桂枝) | Cinnamomum cassia 가지 | 계지작약지모탕·계지복령환 군약, 온경통양(溫經通陽)[^68][^78] |
 | 지모(知母) | Anemarrhena asphodeloides | 계지작약지모탕 구성, 자음청열(滋陰淸熱)로 한열착잡 조정(교과서적 근거) |
