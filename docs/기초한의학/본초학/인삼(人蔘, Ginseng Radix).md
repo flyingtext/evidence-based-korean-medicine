@@ -91,7 +91,7 @@
 
 ### 5. 신경·인지 기능
 
-인삼(人蔘)은 인지 기능 개선에 대한 근거가 축적되어 있다. 알츠하이머병에 대한 인삼의 효과를 종합한 체계적 고찰에서 인삼이 인지 기능에 긍정적 영향을 미칠 수 있음이 확인되었다[^42]. 알츠하이머병 환자를 대상으로 한 임상시험에서 고려홍삼은 인지 기능과 정량 뇌파(quantitative EEG) 지표를 개선하였다[^43]. 경도인지장애(MCI)에 대한 한약의 효과를 종합한 메타분석에서 인삼 기반 한약이 인지 기능 개선에 유효하였다[^44]. 건강한 성인을 대상으로 한 인체시험에서 고려홍삼은 일부 인지·운동 지표 개선에 도움을 주었고[^45], 미국삼은 신경인지 기능에 급성 효과를 보였다[^46]. 주관적 기억장애(subjective memory impairment) 환자를 대상으로 한 임상시험에서 인삼 새싹 추출물이 인지 기능에 긍정적 효과를 보였다[^47]. 인삼양영탕(人蔘養榮湯)은 경도인지장애·프리아일(frailty) 동반 노인의 인지·신체 기능 개선에 효과를 보였다(임상시험)[^48]. 소뇌성 실조증 환자 9명을 대상으로 한 임상시험에서도 홍삼이 운동 수행과 실조 증상 개선 가능성을 보였다[^49]. 기전은 콜린성 신경전달 조절·Aβ 신경독성 감소·신경염증 억제·BDNF 발현 증가·신경세포 보호 등으로 추정된다[^2][^50].
+인삼(人蔘)은 인지 기능 개선에 대한 근거가 축적되어 있다. 알츠하이머병에 대한 인삼의 효과를 종합한 체계적 고찰에서 인삼이 인지 기능에 긍정적 영향을 미칠 수 있음이 확인되었다[^42]. 알츠하이머병 환자를 대상으로 한 임상시험에서 고려홍삼은 인지 기능과 정량 뇌파(quantitative EEG) 지표를 개선하였다[^43]. 경도인지장애(MCI)에 대한 한약의 효과를 종합한 메타분석에서 인삼 기반 한약이 인지 기능 개선에 유효하였다[^44]. 건강한 성인을 대상으로 한 인체시험에서 고려홍삼은 일부 인지·운동 지표 개선에 도움을 주었고[^45], 미국삼은 신경인지 기능에 급성 효과를 보였다[^46]. 주관적 기억장애(subjective memory impairment) 환자를 대상으로 한 임상시험에서 인삼 새싹 추출물이 인지 기능에 긍정적 효과를 보였다[^47]. 인삼양영탕(人蔘養榮湯)은 경도인지장애·노쇠(frailty) 동반 노인의 인지·신체 기능 개선에 효과를 보였다(임상시험)[^48]. 소뇌성 실조증 환자 9명을 대상으로 한 임상시험에서도 홍삼이 운동 수행과 실조 증상 개선 가능성을 보였다[^49]. 기전은 콜린성 신경전달 조절·Aβ 신경독성 감소·신경염증 억제·BDNF 발현 증가·신경세포 보호 등으로 추정된다[^2][^50].
 
 ### 6. 항산화·항염·항노화
 
@@ -99,7 +99,7 @@
 
 ### 7. 항암·암 지지요법
 
-진행성 비소세포폐암 환자 60명을 대상으로 한 임상시험에서 발효 홍삼 추출물 병용은 화학요법 중 피로·삶의 질 개선에 도움을 주었다[^56]. 암 생존자의 암 관련 피로(CRF)를 대상으로 한 무작위 이중맹검 임상시험(65명)에서 인삼 추출물이 피로를 유의하게 감소시키고 내약성이 우수하였다[^57]. 고용량 인삼(800mg/일)의 암 관련 피로 개선 효과도 예비 보고되었다[^58]. 대장암 환자(438명)를 대상으로 한 임상시험에서 홍삼은 항암치료 중 피로 개선에 유효하였다[^59]. 암 관련 피로에 대한 식물요법의 효과를 종합한 메타분석에서도 인삼 계열이 유의한 피로 감소 효과를 보였다[^60]. 홍삼의 장기 복용이 비장기 특이적 암 예방 효과를 가진다는 전향적 임상시험(643명)과 대규모 역학 관찰연구(4979명)의 근거가 있으나, 이는 예방·보조 차원이며 절대적 항암 효과를 주장하는 것은 과장이다[^61][^62]. 진세노사이드 Rg3(삼일캡슐) 병용이 소화기암 환자의 생존·삶의 질 개선에 도움을 준다는 메타분석도 있다[^63][^64]. 인삼양영탕은 암 환자의 기혈양허 상태 개선, 항암 부작용 완화, 프리아일·근감소증 개선에 효과적이다(체계적 고찰)[^13][^65][^66]. 산삼 약침(pharmacopuncture)은 비소세포폐암·진행성 암 환자의 지지요법으로 활용 가능하다(증례)[^11][^67][^68].
+진행성 비소세포폐암 환자 60명을 대상으로 한 임상시험에서 발효 홍삼 추출물 병용은 화학요법 중 피로·삶의 질 개선에 도움을 주었다[^56]. 암 생존자의 암 관련 피로(CRF)를 대상으로 한 무작위 이중맹검 임상시험(65명)에서 인삼 추출물이 피로를 유의하게 감소시키고 내약성이 우수하였다[^57]. 고용량 인삼(800mg/일)의 암 관련 피로 개선 효과도 예비 보고되었다[^58]. 대장암 환자(438명)를 대상으로 한 임상시험에서 홍삼은 항암치료 중 피로 개선에 유효하였다[^59]. 암 관련 피로에 대한 식물요법의 효과를 종합한 메타분석에서도 인삼 계열이 유의한 피로 감소 효과를 보였다[^60]. 홍삼의 장기 복용이 비장기 특이적 암 예방 효과를 가진다는 전향적 임상시험(643명)과 대규모 역학 관찰연구(4979명)의 근거가 있으나, 이는 예방·보조 차원이며 절대적 항암 효과를 주장하는 것은 과장이다[^61][^62]. 진세노사이드 Rg3(삼일캡슐) 병용이 소화기암 환자의 생존·삶의 질 개선에 도움을 준다는 메타분석도 있다[^63][^64]. 인삼양영탕은 암 환자의 기혈양허 상태 개선, 항암 부작용 완화, 노쇠·근감소증 개선에 효과적이다(체계적 고찰)[^13][^65][^66]. 산삼 약침(pharmacopuncture)은 비소세포폐암·진행성 암 환자의 지지요법으로 활용 가능하다(증례)[^11][^67][^68].
 
 ### 8. 성기능·생식·갱년기
 
@@ -111,7 +111,7 @@
 
 ### 10. 기타 — 피부·치주·호흡기·이명·알레르기
 
-인삼·홍삼은 피부 건강·항주름·미백 분야에서도 임상 근거가 있다. 인삼·산사 복합 추출물의 피부 항노화 효과, 효소변형 인삼의 항주름 효과가 보고되었고(임상시험)[^95][^96], 홍삼 추출물의 피부 미백·항광노화 효과도 확인되었다[^97]. 치주질환·구강 건강 영역에서는 인삼탕(인진도, Ninjinto)이 위장관 기능 개선과 함께 구강·소화기 증상 개선에 도움을 주었다(증례)[^98]. 호흡기 영역에서는 중등도 COPD 환자 12개월 무작위대조시험에서 홍삼 추출물이 급성악화 예방에 긍정적 효과를 보였고[^99][^100], G115 홍삼 캡슐도 COPD 급성악화 감소에 유효하였다[^101]. 인삼양영탕은 COPD 환자의 프리아일 개선에도 유효하였다(임상시험)[^102]. 이명 환자(크로니크 티니터스)에서 홍삼이 증상·삶의 질 개선에 도움을 주었고(임상시험)[^103], 알레르기성 비염 환자에서도 홍삼이 증상·염증 지표 개선에 유효하였다(임상시험)[^104]. 수족냉증(냉증) 환자 80명을 대상으로 한 임상시험에서 홍삼은 말초 혈류 개선을 통해 수족냉감 증상을 완화하였고[^105], 폐경 후 손 골관절염 여성(52명)과 무릎 골관절염 환자(57명)에서도 홍삼이 관절 통증·경직·기능 개선에 도움을 주었다[^106][^107]. 헬리코박터 파일로리 관련 구취에서 홍삼의 보조 효과도 보고되었다[^108]. 인삼·뽕나무(mulberry) 복합 섭취가 카드뮴 노출 관련 불안 완화에 도움을 주었다는 임상연구도 있다[^109].
+인삼·홍삼은 피부 건강·항주름·미백 분야에서도 임상 근거가 있다. 인삼·산사 복합 추출물의 피부 항노화 효과, 효소변형 인삼의 항주름 효과가 보고되었고(임상시험)[^95][^96], 홍삼 추출물의 피부 미백·항광노화 효과도 확인되었다[^97]. 치주질환·구강 건강 영역에서는 인삼탕(인진도, Ninjinto)이 위장관 기능 개선과 함께 구강·소화기 증상 개선에 도움을 주었다(증례)[^98]. 호흡기 영역에서는 중등도 COPD 12개월 무작위대조시험(168명)에서 홍삼 추출물이 위약 대비 삶의 질(주요 평가변수)에 유의한 차이를 보이지 못하였고[^100], 중등도~최중증 COPD 200명 시험에서도 G115 홍삼 캡슐이 12개월 급성악화율을 낮추지 못하였다[^101]. 인삼양영탕은 COPD 환자의 노쇠(frailty) 개선에 유효하였다(임상시험)[^102]. 이명 환자(크로니크 티니터스)에서 홍삼이 증상·삶의 질 개선에 도움을 주었고(임상시험)[^103], 알레르기성 비염 환자에서도 홍삼이 증상·염증 지표 개선에 유효하였다(임상시험)[^104]. 수족냉증(냉증)에 대해서는 홍삼의 효과를 적외선 체열촬영으로 평가하려는 무작위 위약대조시험 계획서(80명 계획)가 발표되어 있으나 결과는 확인되지 않았고[^105], 폐경 후 손 골관절염 여성(52명)과 무릎 골관절염 환자(57명)에서는 홍삼이 관절 통증·경직·기능 개선에 도움을 주었다[^106][^107]. 헬리코박터 파일로리 관련 구취에서 홍삼의 보조 효과도 보고되었다[^108]. 인삼·뽕나무(mulberry) 복합 섭취가 카드뮴 노출 관련 불안 완화에 도움을 주었다는 임상연구도 있다[^109].
 
 ---
 
@@ -131,7 +131,7 @@
 기혈양허(氣血兩虛) 상태에서 인삼은 기(氣)를 보하여 혈(血)의 화생을 추동하는 역할을 한다. "기위혈지수(氣爲血之帥)" — 기가 혈을 이끌고 생성한다는 이론이 배오의 근거다 [교과서적 근거].
 
 - **십전대보탕(十全大補湯)**: 사군자탕 + 사물탕 + 황기·육계. 기혈양허의 대표 방제. 인삼이 군약으로 비기(脾氣)를 보하여 혈의 화생을 돕는다.
-- **인삼양영탕(人蔘養榮湯)**: 십전대보탕 기반 + 원지·오미자·진피. 기혈양허로 인한 권태·식욕부진·건망·심계·피로에 쓰인다. 인삼이 군약으로 기혈을 쌍보하고 원지·오미자가 안신(安神)을 돕는다. 임상근거에서 인삼양영탕은 암 환자 기혈양허·프리아일·근감소증·항암 부작용 완화에 효과적이다[^13][^65][^66][^110].
+- **인삼양영탕(人蔘養榮湯)**: 십전대보탕 기반 + 원지·오미자·진피. 기혈양허로 인한 권태·식욕부진·건망·심계·피로에 쓰인다. 인삼이 군약으로 기혈을 쌍보하고 원지·오미자가 안신(安神)을 돕는다. 임상근거에서 인삼양영탕은 암 환자 기혈양허·노쇠·근감소증·항암 부작용 완화에 효과적이다[^13][^65][^66][^110].
 - **귀비탕(歸脾湯)**: 인삼·황기·백출·복령·용안육·산조인·당귀·원지·목향·감초·대조. 심비양허(心脾兩虛)로 인한 불면·건망·심계·식욕부진에 쓰인다. 인삼·황기가 군·신으로 심비의 기혈을 보하고 산조인·용안육이 안신(安神). 인삼의 안신생지(安神生智) 효능이 발현되는 전형.
 
 ### 3. 보음·보양제에서의 인삼
@@ -179,7 +179,7 @@
 
 ### 2. 만성 피로·암 관련 피로
 
-만성 피로·암 관련 피로(CRF)는 인삼의 임상 근거가 가장 밀집된 영역이다. 건강 성인의 주관적 피로 감소[^84][^85], 중년 만성 피로 개선[^86], 효소변형 인삼의 항피로 효과[^87], 피로·신체 수행 능력 메타분석의 긍정 결과[^88]가 축적되어 있다. 암 관련 피로에서는 인삼 추출물(65명)[^57]·고용량 인삼(30명)[^58]·대장암 환자 홍삼(438명)[^59]·발효 홍삼 비소세포폐암 병용(60명)[^56] 등 다수 임상시험이 피로 감소·삶의 질 개선을 보고하였고, 식물요법 CRF 메타분석[^60]과 ASCO-SIO 임상진료지침[^94]에서도 인삼이 포함된다. 다발성 경화증 피로(60명)[^89]·Long COVID 피로(216명)[^90]에도 긍정적 근거가 있다. 인삼양영탕은 레날리도마ide 유발 피로[^110]·항암치료 표적치료 피로[^111]·프리아일 동반 피로[^65]에 효과적이다.
+만성 피로·암 관련 피로(CRF)는 인삼의 임상 근거가 가장 밀집된 영역이다. 건강 성인의 주관적 피로 감소[^84][^85], 중년 만성 피로 개선[^86], 효소변형 인삼의 항피로 효과[^87], 피로·신체 수행 능력 메타분석의 긍정 결과[^88]가 축적되어 있다. 암 관련 피로에서는 인삼 추출물(65명)[^57]·고용량 인삼(30명)[^58]·대장암 환자 홍삼(438명)[^59]·발효 홍삼 비소세포폐암 병용(60명)[^56] 등 다수 임상시험이 피로 감소·삶의 질 개선을 보고하였고, 식물요법 CRF 메타분석[^60]과 ASCO-SIO 임상진료지침[^94]에서도 인삼이 포함된다. 다발성 경화증 피로(60명)[^89]·Long COVID 피로(216명)[^90]에도 긍정적 근거가 있다. 인삼양영탕은 레날리도마ide 유발 피로[^110]·항암치료 표적치료 피로[^111]·노쇠 동반 피로[^65]에 효과적이다.
 
 ### 3. 대사증후군·제2형 당뇨병
 
@@ -189,9 +189,9 @@
 
 고혈압 환자(27명)에서 홍삼이 혈관 내피 기능 개선[^32], 80명에서 동맥 경직도 개선[^33], 혈압 강하 메타분석에서 유의 경향[^35]이 확인되었다. 투석 중 저혈압(38명) 예방[^36], 말초 혈류 개선(40명)[^37]·미국삼·홍삼 혼합 혈관 효과[^38]도 보고되었다. 심부전 네트워크 메타분석(2077명)에서 인삼 계열 식물 추출물의 보조 유용성이 지지되었다[^39]. 인삼의 심혈관 보호는 NO 매개 혈관 확장·항산화·항염·혈소판 응집 조절 등 다축 기전[^40][^41]에 근거하며, 양방 심혈관 약물과의 상호작용(특히 와파린·항혈소판제)[^114][^115]을 반드시 고려한다.
 
-### 5. 인지 기능·경도인지장앜·알츠하이머병
+### 5. 인지 기능·경도인지장애·알츠하이머병
 
-알츠하이머병 체계적 고찰[^42]·임상시험(인지·뇌파 개선)[^43], 경도인지장애 한약 메타분석[^44], 주관적 기억장애 인삼 새싹 추출물 임상시험[^47]이 긍정적이다. 인삼양영탕은 경도인지장앜·프리아일 동반 노인의 인지·신체 기능 개선에 효과적이다[^48]. 건강 성인의 인지·운동 지표 개선[^45][^46]·소뇌성 실조증 운동 수행 개선[^49] 근거도 있다. 인지 기능 개선 기전은 콜린성 신경전달·Aβ 독성 감소·신경염증 억제·BDNF 증가·신경세포 보호[^2][^50]로 추정된다.
+알츠하이머병 체계적 고찰[^42]·임상시험(인지·뇌파 개선)[^43], 경도인지장애 한약 메타분석[^44], 주관적 기억장애 인삼 새싹 추출물 임상시험[^47]이 긍정적이다. 인삼양영탕은 경도인지장애·노쇠 동반 노인의 인지·신체 기능 개선에 효과적이다[^48]. 건강 성인의 인지·운동 지표 개선[^45][^46]·소뇌성 실조증 운동 수행 개선[^49] 근거도 있다. 인지 기능 개선 기전은 콜린성 신경전달·Aβ 독성 감소·신경염증 억제·BDNF 증가·신경세포 보호[^2][^50]로 추정된다.
 
 ### 6. 성기능 장애·남성 불임·갱년기 증후군
 
@@ -199,7 +199,7 @@
 
 ### 7. 호흡기질환 — COPD·급성 호흡기 감염
 
-중등도 COPD 12개월 무작위대조시험에서 홍삼 추출물이 급성악화 예방에 긍정적이었고[^99][^100], G115 홍삼 캡슐도 COPD 급성악화 감소에 유효하였다[^101]. 인삼양영탕은 COPD 환자의 프리아일 개선에 효과적이다[^102]. 급성 호흡기 감염 예방에서 홍삼이 발병률·증상 감소[^18][^19]·메타분석 긍정 결과[^20]를 보였다. 인삼의 호흡기 보호는 면역 조절·항염·점막 면역 증강에 기인하며, 폐기(肺氣)를 보하여 호흡 기능을 추동한다는 한의학 이론과 상통한다.
+COPD에 대한 인삼 단독 제제의 유효성 근거는 현재 음성이다. 중등도 COPD 168명을 24주간 투여하고 12개월 추적한 다기관 위약대조시험에서 삶의 질 관련 주요 평가변수·폐기능 모두 위약과 유의한 차이가 없었고[^100], 중등도~최중증 COPD 200명 대상 시험에서도 G115 홍삼 캡슐이 12개월 급성악화율을 낮추지 못하였다[^101]. 두 시험 모두 안전성·내약성은 양호하였다. 인삼양영탕은 COPD 환자의 노쇠(frailty) 개선에 효과적이다[^102]. 급성 호흡기 감염 예방에서 홍삼이 발병률·증상 감소[^18][^19]·메타분석 긍정 결과[^20]를 보였다. 인삼의 호흡기 보호는 면역 조절·항염·점막 면역 증강에 기인하며, 폐기(肺氣)를 보하여 호흡 기능을 추동한다는 한의학 이론과 상통한다.
 
 ### 8. 근골격계·운동 손상·근육 피로
 
@@ -207,11 +207,11 @@
 
 ### 9. 암 지지요법·항암 부작용 완화
 
-인삼·발효홍삼·인삼양영탕은 항암 치료 중 피로·식욕부진·말초신경병증 등 부작용을 완화하고 치료 순응도(RDI)를 높여 삶의 질을 개선한다[^56][^57][^65][^66]. 진세노사이드 Rg3(삼일캡슐) 병용이 소화기암 생존·삶의 질 개선에 도움을 준다는 메타분석이 있다[^63][^64]. 홍삼 장기 복용의 암 예방 경향은 전향적 임상시험(643명)[^61]·역학 관찰연구(4979명)[^62]에서 보고되었으나, 예방·보조 차원이며 절대적 항암 효과를 주장하지 않는다. 산삼 약침(pharmacopuncture)은 비소세포폐액·진행성 암 환자의 지지요법으로 활용 가능하다(증례)[^11][^67][^68]. 인삼양영탕은 옥살리플라틴 유발 말초신경병증 예방에도 효과적이다(임상시험)[^116]. 항암제·양약과의 상호작용을 고려해 개별 모니터링이 권장된다[^117][^118].
+인삼·발효홍삼·인삼양영탕은 항암 치료 중 피로·식욕부진·말초신경병증 등 부작용을 완화하고 치료 순응도(RDI)를 높여 삶의 질을 개선한다[^56][^57][^65][^66]. 진세노사이드 Rg3(삼일캡슐) 병용이 소화기암 생존·삶의 질 개선에 도움을 준다는 메타분석이 있다[^63][^64]. 홍삼 장기 복용의 암 예방 경향은 전향적 임상시험(643명)[^61]·역학 관찰연구(4979명)[^62]에서 보고되었으나, 예방·보조 차원이며 절대적 항암 효과를 주장하지 않는다. 산삼 약침(pharmacopuncture)은 비소세포폐암·진행성 암 환자의 지지요법으로 활용 가능하다(증례)[^11][^67][^68]. 인삼양영탕은 옥살리플라틴 유발 말초신경병증 예방에도 효과적이다(임상시험)[^116]. 항암제·양약과의 상호작용을 고려해 개별 모니터링이 권장된다[^117][^118].
 
 ### 10. 기타 — 이명·수족냉증·알레르기성 비염·기미·치주질환
 
-크로니크 티니터스 환자에서 홍삼이 증상·삶의 질 개선에 도움을 주었고(임상시험)[^103], 알레르기성 비염 환자에서도 홍삼이 증상·염증 지표 개선에 유효하였다(임상시험)[^104]. 수족냉증(냉증) 환자 80명에서 홍삼이 말초 혈류 개선을 통해 수족냉감 완화[^105]. 헬리코박터 파일로리 관련 구취에서 홍삼 보조 효과[^108]. 피부 항노화·항주름·미백 효과[^95][^96][^97]와 인삼·뽕나무 복합 불안 완화[^109]도 보고되었다. 인삼탕(인진도, Ninjinto)이 위장관·구강 증상 개선에 도움을 주었다(증례)[^98].
+크로니크 티니터스 환자에서 홍삼이 증상·삶의 질 개선에 도움을 주었고(임상시험)[^103], 알레르기성 비염 환자에서도 홍삼이 증상·염증 지표 개선에 유효하였다(임상시험)[^104]. 수족냉증(냉증)에는 홍삼의 효과를 평가하려는 위약대조시험 계획서(80명 계획)가 있으나 결과는 확인되지 않았다[^105]. 헬리코박터 파일로리 관련 구취에서 홍삼 보조 효과[^108]. 피부 항노화·항주름·미백 효과[^95][^96][^97]와 인삼·뽕나무 복합 불안 완화[^109]도 보고되었다. 인삼탕(인진도, Ninjinto)이 위장관·구강 증상 개선에 도움을 주었다(증례)[^98].
 
 > 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 변증 없는 관행적 복용은 근거에 부합하지 않는다.
 
@@ -231,7 +231,7 @@
 | 발효 홍삼 추출물 | 제제별 표준용량 | 12주~ | 비소세포폐암 병용[^56] |
 | G1899 홍삼 분말 | 표준용량 | 12주 | Long COVID 피로[^90] |
 | 미국삼 추출물 | 3g/일 | 장기 | 제2형 당뇨병 보조[^8] |
-| 인삼양영탕 | 7.5g/일(전제) | 24주~ | 노인·프리아일·인지[^48][^65] |
+| 인삼양영탕 | 7.5g/일(전제) | 24주~ | 노인·노쇠·인지[^48][^65] |
 
 > 이 표는 임상시험 근거를 정리한 것이지 동일 근거수준의 용량 권고가 아니다. 제형별·질환별로 개별화가 필요하다.
 
@@ -361,7 +361,7 @@
 | 인지 | MMSE·MoCA·ADAS-Cog·정량뇌파 | [^42][^43][^44] |
 | 성기능 | IIEF·음경강직도·정액지표 | [^69][^72] |
 | 갱년기 | KI·MRS·hot flush 빈도 | [^76][^81] |
-| 호흡기 | COPD 급성악화 빈도·폐기능 | [^99][^101] |
+| 호흡기 | COPD 급성악화 빈도·폐기능 | [^100][^101] |
 | 항암 지지 | CRF 척도·삶의 질(EORTC QLQ)·RDI·말초신경병증(FACT/GOG-Ntx) | [^56][^57][^116] |
 | 안전성 | INR·간기능(AST/ALT)·혈압·심전도·부작용 모니터링 | [^114][^128] |
 
@@ -490,7 +490,7 @@
 [^45]: Effects of Korean Red Ginseng on Cognitive and Motor Function: A Double-blind, Randomized, Placebo-controlled Trial. _Journal of Ginseng Research_. 2012. [임상시험] [PMID 23717119](https://pubmed.ncbi.nlm.nih.gov/23717119/) — 건강 성인 인지·운동 지표 개선.
 [^46]: Effects of American ginseng (Panax quinquefolius) on neurocognitive function: an acute, randomized, double-blind, placebo-controlled, crossover study. _Psychopharmacology_. 2010. [임상시험] [PMID 20676609](https://pubmed.ncbi.nlm.nih.gov/20676609/) — 미국삼 신경인지 급성 효과.
 [^47]: Efficacy and Safety of Panax ginseng Sprout Extract in Subjective Memory Impairment: A Randomized. _Nutrients_. 2024. [임상시험] [DOI 10.3390/nu16121952](https://doi.org/10.3390/nu16121952) — 인삼 새싹 추출물 주관적 기억장애 인지 개선.
-[^48]: Frailty Improvement by Multicomponent Drug, Ninjin'Yoeito, in Mild Cognitive Impairment and Frailty Patients. _Advances in Geriatric Medicine and Research_. 2022. [임상시험] [PMID 36891253](https://pubmed.ncbi.nlm.nih.gov/36891253/) — 인삼양영탕 MCI·프리아일 인지·신체 개선.
+[^48]: Frailty Improvement by Multicomponent Drug, Ninjin'Yoeito, in Mild Cognitive Impairment and Frailty Patients. _Advances in Geriatric Medicine and Research_. 2022. [임상시험] [PMID 36891253](https://pubmed.ncbi.nlm.nih.gov/36891253/) — 인삼양영탕 MCI·노쇠 인지·신체 개선.
 [^49]: Effect of Korean Red Ginseng on the motor performance and ataxia. _Journal of Ginseng Research_. 2024. [임상시험] [DOI 10.1016/j.jgr.2024.03.008](https://doi.org/10.1016/j.jgr.2024.03.008) — 소뇌성 실조 운동 수행 개선.
 [^50]: Ginseng: An Nonnegligible Natural Remedy for Healthy Aging. _Aging and Disease_. 2017. [문헌 고찰] [PMID 29344412](https://pubmed.ncbi.nlm.nih.gov/29344412/) — 인삼 항노화·신경보호 종합.
 [^51]: Beneficial effects of Korean red ginseng on lymphocyte DNA damage, antioxidant enzyme activities. _Nutrition Journal_. 2012. [임상시험] [PMID 22805313](https://pubmed.ncbi.nlm.nih.gov/22805313/) — 홍삼 림프구 DNA 손상 감소·항산화 효소 증가.
@@ -507,8 +507,8 @@
 [^62]: Epidemiological study on cancer prevention by ginseng: are all kinds of cancers preventable by ginseng? _Journal of Korean Medical Science_. 2001. [관찰연구] [PMID 11748373](https://pubmed.ncbi.nlm.nih.gov/11748373/) — 홍삼 복용 암 예방 역학.
 [^63]: Ginsenoside Rg3 (Shenyi Capsule) Combined with Chemotherapy for Digestive System Cancer in China. _Evidence-Based Complementary and Alternative Medicine_. 2019. [메타분석] [DOI 10.1155/2019/2417418](https://doi.org/10.1155/2019/2417418) — Rg3 소화기암 화학요법 병용 생존·삶의 질 개선.
 [^64]: Efficacy and Safety of Shenyi Capsule (Ginsenoside Rg3) as Adjuvant Therapy for Cancer. _Integrative Cancer Therapies_. 2025. [체계적 고찰] [DOI 10.1177/15347354251396519](https://doi.org/10.1177/15347354251396519) — 삼일캡슐 항암 보조 근거 종합.
-[^65]: Herbal Medicine Ninjin'yoeito in the Treatment of Sarcopenia and Frailty. _Frontiers in Nutrition_. 2018. [문헌 고찰] [PMID 30619872](https://pubmed.ncbi.nlm.nih.gov/30619872/) — 인삼양영탕 근감소증·프리아일 종합.
-[^66]: A Clinical Study of Ninjin'yoeito With Regard to Frailty. _Frontiers in Nutrition_. 2018. [임상시험] [PMID 30320119](https://pubmed.ncbi.nlm.nih.gov/30320119/) — 인삼양영탕 프리아일 임상.
+[^65]: Herbal Medicine Ninjin'yoeito in the Treatment of Sarcopenia and Frailty. _Frontiers in Nutrition_. 2018. [문헌 고찰] [PMID 30619872](https://pubmed.ncbi.nlm.nih.gov/30619872/) — 인삼양영탕 근감소증·노쇠 종합.
+[^66]: A Clinical Study of Ninjin'yoeito With Regard to Frailty. _Frontiers in Nutrition_. 2018. [임상시험] [PMID 30320119](https://pubmed.ncbi.nlm.nih.gov/30320119/) — 인삼양영탕 노쇠 임상.
 [^67]: Advanced cancer cases treated with cultivated wild ginseng phamacopuncture. _Journal of Acupuncture and Meridian Studies_. 2010. [증례 보고] [PMID 20633526](https://pubmed.ncbi.nlm.nih.gov/20633526/) — 야생삼 약침 진행성 암 증례.
 [^68]: Cancer pain control for advanced cancer patients by using autonomic nerve pharmacopuncture. _Journal of Pharmacopuncture_. 2014. [증례 보고] [PMID 25780711](https://pubmed.ncbi.nlm.nih.gov/25780711/) — 자율신경 약침 암 통증 관리.
 [^69]: A double-blind crossover study evaluating the efficacy of korean red ginseng in patients with erectile dysfunction: a preliminary report. _Journal of Urology_. 1995. [임상시험] [PMID 12394711](https://pubmed.ncbi.nlm.nih.gov/12394711/) — 홍삼 발기부전 IIEF·강직도 개선.
@@ -541,13 +541,12 @@
 [^96]: Efficacy and Safety of Enzyme-Modified Panax ginseng for Anti-Wrinkle Therapy in Healthy Skin. _Rejuvenation Research_. 2015. [임상시험] [PMID 25867599](https://pubmed.ncbi.nlm.nih.gov/25867599/) — 효소변형 인삼 항주름.
 [^97]: Korean Red Ginseng extract ameliorates melanogenesis in humans and induces antiphotoaging. _Journal of Ginseng Research_. 2019. [실험연구] [PMID 32372872](https://pubmed.ncbi.nlm.nih.gov/32372872/) — 홍삼 피부 미백·항광노화.
 [^98]: "Ninjinto" (Ginseng Decoction), a Traditional Japanese Herbal Medicine, Improves Gastrointestinal. _Case Reports in Gastroenterology_. 2015. [증례 보고] [DOI 10.1155/2015/462586](https://doi.org/10.1155/2015/462586) — 인진도 위장관·구강 증상 개선.
-[^99]: Panax ginseng C.A Meyer root extract for moderate chronic obstructive pulmonary disease (COPD). _BMC Complementary and Alternative Medicine_. 2011. [임상시험] [PMID 21718484](https://pubmed.ncbi.nlm.nih.gov/21718484/) — COPD 홍삼 추출물.
-[^100]: 12-month randomised controlled trial of ginseng extract for moderate COPD. _Thorax_. 2019. [임상시험] [PMID 30940771](https://pubmed.ncbi.nlm.nih.gov/30940771/) — COPD 12개월 홍삼 급성악화 예방.
-[^101]: Effect of Panax Ginseng (G115) Capsules versus Placebo on Acute Exacerbations in Patients. _COPD_. 2020. [임상시험] [PMID 32273696](https://pubmed.ncbi.nlm.nih.gov/32273696/) — G115 홍삼 COPD 급성악화 감소.
-[^102]: Usefulness of Ninjin'yoeito for Chronic Obstructive Pulmonary Disease Patients with Frailty. _Journal of Alternative and Complementary Medicine_. 2020. [임상시험] [PMID 32551796](https://pubmed.ncbi.nlm.nih.gov/32551796/) — 인삼양영탕 COPD 프리아일 개선.
+[^100]: 12-month randomised controlled trial of ginseng extract for moderate COPD. Shergis JL 외. _Thorax_. 2019-06. [임상시험, 168명] [DOI 10.1136/thoraxjnl-2018-212665](https://doi.org/10.1136/thoraxjnl-2018-212665) [PMID 30940771](https://pubmed.ncbi.nlm.nih.gov/30940771/) — 중등도 COPD 168명에게 인삼 캡슐 100 mg 1일 2회를 24주 투여하고 24주 더 추적한 다기관 위약대조시험. **주요 평가변수(SGRQ·CAT·SF-36)에서 위약과 유의한 차이가 없었다**(음성 결과). 안전성·내약성은 양호하였다.
+[^101]: Effect of Panax Ginseng (G115) Capsules versus Placebo on Acute Exacerbations in Patients with Moderate to Very Severe COPD: A Randomized Controlled Trial. Chen Y 외. _Int J Chron Obstruct Pulmon Dis_. 2020-03-27. [임상시험, 200명] [DOI 10.2147/COPD.S236425](https://doi.org/10.2147/COPD.S236425) [PMID 32273696](https://pubmed.ncbi.nlm.nih.gov/32273696/) — 중등도~최중증 COPD 200명에게 G115 인삼 캡슐 200 mg 1일 2회를 24주 투여한 위약대조시험. **1차 평가변수인 12개월 급성악화율에서 위약과 유의한 차이가 없었다**(음성 결과).
+[^102]: Usefulness of Ninjin'yoeito for Chronic Obstructive Pulmonary Disease Patients with Frailty. _Journal of Alternative and Complementary Medicine_. 2020. [임상시험] [PMID 32551796](https://pubmed.ncbi.nlm.nih.gov/32551796/) — 인삼양영탕 COPD 노쇠 개선.
 [^103]: The Effect of Korean Red Ginseng on Symptoms and Quality of Life in Chronic Tinnitus: A Randomized. _Audiology and Neurotology Extra_. 2015. [임상시험] [PMID 26413574](https://pubmed.ncbi.nlm.nih.gov/26413574/) — 크로니크 티니터스 증상·삶의 질 개선.
 [^104]: The Effect of Korean Red Ginseng on Symptoms and Inflammation in Patients With Allergic Rhinitis. _Journal of Audiology and Neurotology_. 2020. [임상시험] [PMID 32070136](https://pubmed.ncbi.nlm.nih.gov/32070136/) — 알레르기성 비염 증상·염증 개선.
-[^105]: Effect of Korean red ginseng on cold hypersensitivity in the hands and feet. _Trials_. 2013. [임상시험] [PMID 24354675](https://pubmed.ncbi.nlm.nih.gov/24354675/) — 수족냉증·말초 혈류 개선.
+[^105]: Effect of Korean red ginseng on cold hypersensitivity in the hands and feet: study protocol for a randomized controlled trial. Park KS 외. _Trials_. 2013-12-19. [임상시험 계획서, 80명 계획] [DOI 10.1186/1745-6215-14-438](https://doi.org/10.1186/1745-6215-14-438) [PMID 24354675](https://pubmed.ncbi.nlm.nih.gov/24354675/) — 수족냉증 환자 80명에게 홍삼 또는 위약을 8주 투여하고 4주 추적하며 적외선 체열촬영으로 손의 피부온도 변화를 평가하도록 설계된 무작위 이중맹검 위약대조시험의 **계획서**로, 결과는 보고되지 않았다(NCT01664156).
 [^106]: Clinical Effects of Korean Red Ginseng in Postmenopausal Women With Hand Osteoarthritis: A Double-Blind, Randomized Controlled Trial. _Frontiers in Pharmacology_. 2021. [임상시험] [DOI 10.3389/fphar.2021.745568](https://doi.org/10.3389/fphar.2021.745568) — 폐경 후 손 골관절염 통증·경직 개선.
 [^107]: Effects of AIF on Knee Osteoarthritis Patients: Double-blind, Randomized Placebo-controlled Trial. _Korean Journal of Physiology & Pharmacology_. 2009. [임상시험] [PMID 19885024](https://pubmed.ncbi.nlm.nih.gov/19885024/) — 무릎 골관절염 통증·기능 개선.
 [^108]: Korea red ginseng on Helicobacter pylori-induced halitosis: newer therapeutic strategy and aspect. _Journal of Pharmacy & Pharmacology_. 2009. [임상시험] [PMID 19776584](https://pubmed.ncbi.nlm.nih.gov/19776584/) — 헬리코박터 구취 보조.
