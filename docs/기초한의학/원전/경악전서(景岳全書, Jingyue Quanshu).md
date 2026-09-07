@@ -275,7 +275,7 @@
 
 ## 제4편 현대적 임상 재평가
 
-이 편에서는 좌귀환·우귀환·좌귀음·우귀음 및 그 계열 처방(이선탕 등)에 대한 현대 인체 임상시험·메타분석·관찰연구 근거를 질환군별로 정리하고, 이어 명문학설의 경혈학적 실천인 명문혈(命門穴, GV4) 자극에 대한 현대 임상 근거를 폭넓게 검토한다. 근거는 신양허(腎陽虛)·신음허(腎陰虛)·음양양허(陰陽兩虛) 변증에 따른 온보·자음 치법이 실제로 어떤 질환군에서 인체 대상 연구로 뒷받침되는지를 보여주기 위한 것이며, 변증 없는 관행적 처방·취혈 적용을 정당화하는 근거로 사용해서는 안 된다는 원칙을 각 소절에서 반복 강조한다.
+이 편에서는 좌귀환·우귀환·좌귀음·우귀음 및 그 계열 처방(이선탕 등)에 대한 현대 인체 임상시험·메타분석·관찰연구 근거를 질환군별로 정리하고, 이어 명문학설의 경혈학적 실천인 명문(命門, GV4) 자극에 대한 현대 임상 근거를 폭넓게 검토한다. 근거는 신양허(腎陽虛)·신음허(腎陰虛)·음양양허(陰陽兩虛) 변증에 따른 온보·자음 치법이 실제로 어떤 질환군에서 인체 대상 연구로 뒷받침되는지를 보여주기 위한 것이며, 변증 없는 관행적 처방·취혈 적용을 정당화하는 근거로 사용해서는 안 된다는 원칙을 각 소절에서 반복 강조한다.
 
 ### 4-0. 질환군별 근거 개관
 
@@ -389,9 +389,9 @@
 
 **근거 한계**: 이 영역의 근거는 개별 소규모 연구가 산발적으로 확인되는 수준으로, 아직 계통적 메타분석이 확립되지 않았다. 명문 이론이 다양한 만성 소모성·노화 관련 질환에 이론적으로 적용될 수 있다는 가능성을 보여주는 수준으로 해석해야 하며, 확정적 치료 근거로 제시해서는 안 된다.
 
-### 4-7. 명문학설의 경혈학적 실천 — 명문혈(命門穴, GV4) 자극의 현대 임상 근거
+### 4-7. 명문학설의 경혈학적 실천 — 명문(命門, GV4) 자극의 현대 임상 근거
 
-명문학설은 처방뿐 아니라 경혈학(經穴學)에도 직접적 흔적을 남겼다. 독맥(督脈)의 제4요추극돌기 아래에 위치한 명문혈(命門穴, GV4)은 그 명칭 자체가 장경악을 비롯한 역대 의가들의 명문학설에서 유래한 것으로, "신간동기(腎間動氣)", 즉 좌우 신 사이의 원기가 모이는 자리라는 인식을 반영한다[교과서적 근거]. 명문혈은 임상에서 온양(溫陽)·보신(補腎)·고본배원(固本培元)의 대표 혈위로 활용되며, 단독 사용보다는 관원(關元, CV4)·신수(腎兪, BL23)·신궐(神闕, CV8)·요양관(腰陽關, GV3) 등과 배합하여 온침(溫鍼)·구법(灸法)으로 자극하는 경우가 많다. 이 절에서는 명문혈을 포함한 독맥 온양 자침·구법에 대한 현대 인체 대상 연구를 생리학적 근거, 질환군별 임상 근거로 나누어 정리한다.
+명문학설은 처방뿐 아니라 경혈학(經穴學)에도 직접적 흔적을 남겼다. 독맥(督脈)의 제4요추극돌기 아래에 위치한 명문(命門, GV4)은 그 명칭 자체가 장경악을 비롯한 역대 의가들의 명문학설에서 유래한 것으로, "신간동기(腎間動氣)", 즉 좌우 신 사이의 원기가 모이는 자리라는 인식을 반영한다[교과서적 근거]. 명문혈은 임상에서 온양(溫陽)·보신(補腎)·고본배원(固本培元)의 대표 혈위로 활용되며, 단독 사용보다는 관원(關元, CV4)·신수(腎兪, BL23)·신궐(神闕, CV8)·요양관(腰陽關, GV3) 등과 배합하여 온침(溫鍼)·구법(灸法)으로 자극하는 경우가 많다. 이 절에서는 명문혈을 포함한 독맥 온양 자침·구법에 대한 현대 인체 대상 연구를 생리학적 근거, 질환군별 임상 근거로 나누어 정리한다.
 
 아래 표는 이 절에서 다루는 52편의 인체 대상 연구를 질환군별로 개관한 것이다.
 
@@ -741,7 +741,7 @@
 [^108]: [Prewarming effect of transcutaneous acupoint electrical stimulation preconditioning in patients undergoing elective video-assisted thoracoscopic lobectomy].. Liang HS 외. _Zhen ci yan jiu = Acupuncture research_. 2019-10-25. [임상시험, 80명] [DOI 10.13702/j.1000-0607.190472](https://doi.org/10.13702/j.1000-0607.190472) [PMID 31657165](https://pubmed.ncbi.nlm.nih.gov/31657165/) — 흉강경 폐엽 절제술 환자에게 수술 전 大椎(대추, GV14)와 命門(명문, GV4) 혈위에 경피 전침 자극(TAES)을 적용하면 수술실 진입 전 체온을 높이는 가온 효과가 있으며, 이는 회복기 오한 발생률을 낮추고 마취 회복 시간을 단축시키는 데 기여할 수 있다.
 [^109]: [Autonomic dysfunction in multiple system atrophy treated with Sun's scalp acupuncture combined with yinyang needling therapy: a case report].. Li X 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2026-01-12. [증례 보고, 1명] [DOI 10.13703/j.0255-2930.20241203-k0005](https://doi.org/10.13703/j.0255-2930.20241203-k0005) [PMID 41558702](https://pubmed.ncbi.nlm.nih.gov/41558702/) — 다계통위축증(MSA) 환자의 자율신경 기능 장애에 대해 손씨 두침과 음양침을 병행한 복합 침치료가 증상 완화 및 병세 안정에 긍정적인 영향을 줄 수 있음을 시사한다.
 [^110]: [Forty-two cases of malaria treated with ginger-partitioned moxibustion in the Republic of Congo].. Li J. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-06. [증례 보고, 42명] [PMID 21739708](https://pubmed.ncbi.nlm.nih.gov/21739708/) — 생강-분할 뜸 치료가 콩고 공화국의 말라리아 환자들에게 높은 유효율(92.
-[^111]: [Efficacy observation on supraspinal ligament injury in deficiency syndrome treated with acupuncture at Dazhong (KI 4) only].. Qin YG 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-05. [임상시험, 126명] [PMID 22650122](https://pubmed.ncbi.nlm.nih.gov/22650122/) — 허증을 동반한 상극인대 손상 환자에게 대종혈(大鐘穴, KI 4) 단독 자침과 부항 및 TDP 치료를 병행하는 것이 일반적인 신수혈(腎兪, BL 23) 자침 치료보다 통증 완화 및 증상 개선에 더 효과적이다.
+[^111]: [Efficacy observation on supraspinal ligament injury in deficiency syndrome treated with acupuncture at Dazhong (KI 4) only].. Qin YG 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-05. [임상시험, 126명] [PMID 22650122](https://pubmed.ncbi.nlm.nih.gov/22650122/) — 허증을 동반한 상극인대 손상 환자에게 대종(大鍾, KI 4) 단독 자침과 부항 및 TDP 치료를 병행하는 것이 일반적인 신수혈(腎兪, BL 23) 자침 치료보다 통증 완화 및 증상 개선에 더 효과적이다.
 [^112]: [Medicinal vesiculation combined with quick cupping at Shenque (CV 8) for allergic rhinitis with syndrome of yang deficiency: a randomized controlled trial].. Ke ZH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-09. [임상시험, 82명] [PMID 25509730](https://pubmed.ncbi.nlm.nih.gov/25509730/) — 양허증을 동반한 알레르기성 비염 환자에게 신궐(CV 8) 쾌속 부항과 주요 혈위(BL13, BL43, BL12, GV4)의 약물 수포 요법을 병행하는 것이 일반적인 약물 치료(로라타딘, 부데소니드)보다 임상적 유효율이 높고 IgE 및 IL-4 수치를 낮추는 데 더 효과적이다.
 [^113]: Exosome Cargo Molecules and NLRP3/BDNF: Clinical and Preclinical Evidence for Acupuncture-Mediated Spinal Cord Injury Recovery.. Wang Y 외. _International journal of general medicine_. 2026. [체계적 고찰] [DOI 10.2147/IJGM.S595567](https://doi.org/10.2147/IJGM.S595567) [PMID 41873357](https://pubmed.ncbi.nlm.nih.gov/41873357/) — 전침(EA) 치료는 NLRP3 염증 경로를 억제하고 BDNF와 같은 신경영양인자를 증가시켜 척수손상 환자의 운동 기능(ASIA 점수)과 경직(MAS)을 유의하게 개선할 수 있다.
 [^114]: Professor FU Wenbin's experience of "acupuncture-moxibustion-consolidation" holistic idea in treatment of laryngeal herpes zoster with vocal cord paralysis.. Ye Z 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-02-12. [증례 보고] [DOI 10.13703/j.0255-2930.20230528-k0005](https://doi.org/10.13703/j.0255-2930.20230528-k0005) [PMID 38373766](https://pubmed.ncbi.nlm.nih.gov/38373766/) — 성대 마비를 동반한 후두 대상포진 치료에 있어 '1침 2뜸 3공고'의 통합적 침구 치료 모델이 유효함을 보여준다.
