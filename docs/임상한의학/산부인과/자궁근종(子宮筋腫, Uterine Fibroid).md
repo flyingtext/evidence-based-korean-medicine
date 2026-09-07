@@ -182,7 +182,7 @@
 
 ### 11. 침구·전침·이침·부항
 
-**전통 침 치료**: 가임기 여성의 가임력 보존을 목표로 한 무작위 대조시험에서 침 치료가 중성약 단독 치료보다 근종 크기 감소 및 한의학적 증후 개선에 더 효과적일 가능성이 확인되었다[^47]. 침 치료와 한약을 병용하는 것이 한약 단독보다 임상 유효율을 높이고 종양 크기를 줄이는 데 더 효과적이라는 체계적 고찰·메타분석도 있다[^33].
+**전통 침 치료**: 침 치료와 한약을 병용하는 것이 한약 단독보다 임상 유효율을 높이고 종양 크기를 줄이는 데 더 효과적이라는 체계적 고찰·메타분석도 있다[^33]. 가임력 보존을 목표로 침 치료와 중성약을 비교하려는 60명 규모의 무작위 대조시험도 설계·등록되었으나, 이는 계획서 단계의 보고로 결과는 아직 제시되지 않았다[^47].
 
 **전침(電鍼)**: 80Hz 고빈도 전침을 양측 또는 단측 피부분절에 적용하면 자궁동맥 혈류가 유의하게 감소하여, 혈류 감소가 필요한 자궁근종의 보조적 치료 전략으로 활용될 근거를 제공한다[^72]. 자궁과 동일한 신경 지배를 받는 분절에 전침을 시행해 월경과다·피로감을 개선하고 근종 크기를 감소시킨 증례도 보고된다[^80].
 
@@ -245,9 +245,9 @@
 | ① 코드 | D25 + N97 (여성 불임) |
 | ② 병인병기 | 신허혈어형이 흔함. 충임 허약과 어혈이 착상·수정에 영향 |
 | ③ 병태생리 | 점막하·근층내 근종이 자궁강 변형을 통해 착상을 방해할 수 있음[교과서적 근거] |
-| ④ 치료 | 보신활혈(補腎活血) 원칙. 가미소요산[^78], 계지복령환[^6], 침 치료 병행[^47]. 필요 시 근종절제술로 자궁강 정상화 |
+| ④ 치료 | 보신활혈(補腎活血) 원칙. 가미소요산[^78], 계지복령환[^6], 침 치료 병행[^33]. 필요 시 근종절제술로 자궁강 정상화 |
 | ⑤ 예후 | 근종 제거 후 자연임신·IVF 성공 사례 보고[^52][^56] |
-| ⑥ 관리 | 가임력 보존이 최우선 목표인 경우 비침습적 중재 우선 고려[^47][^80] |
+| ⑥ 관리 | 가임력 보존이 최우선 목표인 경우 비침습적 중재 우선 고려[^80] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.
 
@@ -358,7 +358,7 @@
 
 **Q5. 가임력을 보존하면서 치료할 수 있나요?**
 
-수술이나 호르몬 치료 부작용을 우려하는 가임기 환자에게 분절 전침(電鍼)이 가임력을 보존하면서 증상을 완화할 수 있는 안전하고 침습도가 낮은 보완 대안이 될 수 있다[^80]. 침 치료가 중성약 단독보다 근종 크기 감소와 증후 개선에 더 효과적이었다는 무작위 대조시험도 있다[^47]. 난소 예비능이 저하된 고령 여성이 한약 치료 후 자연 임신에 성공한 증례도 보고된다[^52].
+수술이나 호르몬 치료 부작용을 우려하는 가임기 환자에게 분절 전침(電鍼)이 가임력을 보존하면서 증상을 완화할 수 있는 안전하고 침습도가 낮은 보완 대안이 될 수 있다[^80]. 난소 예비능이 저하된 고령 여성이 한약 치료 후 자연 임신에 성공한 증례도 보고된다[^52].
 
 **Q6. 자궁근종이 갑자기 커지면 위험한가요?**
 
@@ -423,7 +423,7 @@
 [^44]: [Clinical efficacy of Gengxueting and its effect on estrogen receptor and progesterone receptor in patients with hysteromyoma]. Chen ZY 외. _Chinese journal of integrated traditional and Western medicine_. 2008-03. [임상시험] [PMID 18476420](https://pubmed.ncbi.nlm.nih.gov/18476420/) — 갱혈탕이 근종 조직 내 ER·PR 발현을 감소시켜 크기를 줄였다.
 [^45]: [Predisposing factors of hysteromyoma and effect of hualiu recipe on it]. Tan L 외. _Chinese journal of integrated traditional and Western medicine_. 2011-05. [임상시험] [PMID 21812264](https://pubmed.ncbi.nlm.nih.gov/21812264/) — 기허혈어 증후 환자에게 화류방이 계지복령환보다 효과적이었다.
 [^46]: Effect of cimicifuga racemosa on menopausal syndrome caused by LHRH-a in breast cancer. Wang C 외. _Journal of ethnopharmacology_. 2019-06-28. [임상시험] [DOI 10.1016/j.jep.2019.111840](https://doi.org/10.1016/j.jep.2019.111840) [PMID 30935866](https://pubmed.ncbi.nlm.nih.gov/30935866/) — 승마 추출물이 LHRH-a 유발 갱년기 증후군의 KMI 지수를 유의하게 감소시켰다.
-[^47]: Efficacy assessment of acupuncture in improving symptoms of uterine fibroids: A randomized controlled trial. Zheng MQ 외. _Medicine_. 2020-05. [임상시험] [DOI 10.1097/MD.0000000000020016](https://doi.org/10.1097/MD.0000000000020016) [PMID 32358379](https://pubmed.ncbi.nlm.nih.gov/32358379/) — 침 치료가 중성약 단독보다 근종 크기 감소·증후 개선에 더 효과적일 가능성을 보였다.
+[^47]: Efficacy assessment of acupuncture in improving symptoms of uterine fibroids: A randomized controlled trial. Zheng MQ 외. _Medicine_. 2020-05. [임상시험 계획서, 60명 계획] [DOI 10.1097/MD.0000000000020016](https://doi.org/10.1097/MD.0000000000020016) [PMID 32358379](https://pubmed.ncbi.nlm.nih.gov/32358379/) — 자궁근종 환자 60명을 침 병용군과 중성약 대조군으로 나누어 세 번의 월경주기 동안 근종 크기·한의 증후 점수를 비교하도록 설계된 시험의 계획서로, 결과는 보고되지 않았다(등록번호 ChiCTR2000030438).
 [^48]: Herbal preparations for uterine fibroids. Liu JP 외. _The Cochrane database of systematic reviews_. 2009-04-15. [체계적 고찰] [DOI 10.1002/14651858.CD005292.pub2](https://doi.org/10.1002/14651858.CD005292.pub2) [PMID 19370619](https://pubmed.ncbi.nlm.nih.gov/19370619/) — 한약 제제 효과 평가에서 연구 수·질 한계로 확정적 결론이 어려웠다.
 [^49]: The efficacy and safety of Xuefu Zhuyu Decoction combined with Mifepristone in the treatment of uterine leiomyoma: A systematic review and meta-analysis. Shi S 외. _Journal of ethnopharmacology_. 2021-12-05. [메타분석] [DOI 10.1016/j.jep.2021.114551](https://doi.org/10.1016/j.jep.2021.114551) [PMID 34428523](https://pubmed.ncbi.nlm.nih.gov/34428523/) — 혈부축어탕 병용이 미페프리스톤 단독보다 유효율·부피 감소·호르몬 조절에 더 효과적이었다.
 [^50]: Treating gynaecological disorders with traditional Chinese medicine: a review. Zhou J 외. _African journal of traditional, complementary, and alternative medicines_. 2009-07-03. [문헌 고찰] [DOI 10.4314/ajtcam.v6i4.57181](https://doi.org/10.4314/ajtcam.v6i4.57181) [PMID 20606770](https://pubmed.ncbi.nlm.nih.gov/20606770/) — 광범위한 부인과 질환에서 한약·침 치료의 유효성을 개괄한 리뷰이다.
