@@ -173,6 +173,8 @@
 
 다만 안전성 측면에서는 유의할 사례도 있다. 봉독요법(bee venom therapy) 이후 드물게 면역성 혈소판감소증이 발생한 증례 보고는[^109], 한의학적 치료 자체도 혈소판·응고계에 예기치 않은 영향을 줄 수 있음을 상기시킨다. 출혈 경향이 있는 환자에게 봉약침 등 자극적 시술을 적용할 때는 혈소판 수치·응고 지표를 사전에 확인하는 것이 안전한 임상 실무다.
 
+한약 제제 일반의 안전성 감시 필요성을 지적한 문헌도 함께 고려해야 한다. 이 문헌은 한약이 '천연물이므로 안전하다'는 통념과 달리 성분 조성이 명확히 규명되지 않은 경우가 많고 제조 표준화가 미비하여, 출혈 장애를 포함한 이상반응이 발생할 수 있으므로 체계적인 안전성 모니터링이 시급하다고 주장한다[^122]. 비주통혈 이론에 근거해 지혈을 목적으로 한약을 투여할 때에도, 처방 자체가 응고계에 미치는 영향과 병용 약물(항혈소판제·항응고제)과의 상호작용을 함께 점검해야 한다는 실무 원칙이 여기서 나온다. 다만 이 문헌은 특정 약재의 위해를 정량적으로 평가한 연구가 아니라 감시 체계의 필요성을 제기한 논평 성격의 고찰이므로, 개별 처방의 위험도 판단 근거로 삼을 수는 없다.
+
 > '비통혈'을 특정 응고인자나 혈소판 지표 하나로 환원하는 것은 과도한 단순화다. 위 근거들은 대부분 특정 처방·개입의 치료 반응을 통해 비기-혈소판 축을 역으로 추론한 것이며, "비기허가 혈소판 감소의 직접 원인"이라는 인과관계를 확증한 기전 연구는 아니다. ITP는 자가면역 기전이 확립된 혈액질환이므로, 한의학 치료는 반드시 혈액내과 표준 치료(스테로이드·IVIG·혈소판생성촉진제 등)와 병행하는 보조적 위치에서 적용해야 한다.
 
 #### 6-5. 현대적 상관물 — 미세혈관 투과성과 자반증(紫斑)
@@ -1066,4 +1068,4 @@ IBS는 기질적 손상을 동반하지 않는 기능성 질환으로 예후는 
 [^119]: [Study on clinical efficacy and mechanism of xiaoyan zhixue capsule in treating menorrhagia caused by intrauterine device].. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2004-07. [임상시험] [PMID 15307698](https://pubmed.ncbi.nlm.nih.gov/15307698/) — 소염지혈캡슐이 IUD 관련 월경과다에 유효율 90.3%, 자궁내막 염증 완화·혈관 수축 강화가 기전.
 [^120]: Research on Traditional Chinese and Western Medicine Diagnosis and Treatment of Metrorrhagia and Metrostasia with Multidimensional Interventions. _Journal of Contemporary Medical Practice_. 2025-11-28. [문헌 고찰] [DOI 10.53469/jcmp.2025.07(11).07](https://doi.org/10.53469/jcmp.2025.07(11).07) — 급성기 서양의학적 지혈과 만성기 한의학적 근본 치료를 결합한 중서의결합 붕루 관리 전략을 정리.
 [^121]: Exploring Acupuncture as an Adjunctive Therapy for Puberty Menorrhagia: A Case Report. _Medical Acupuncture_. 2024-12. [증례 보고, 1명] [DOI 10.1089/acu.2024.0053](https://doi.org/10.1089/acu.2024.0053) — 사춘기 월경과다에서 변증 기반 맞춤 침 치료로 신속한 지혈과 월경 주기 정상화가 관찰된 증례.
-[^122]: Safety profile of herbal drugs: urgent need for monitoring. _Journal of Institute of Medicine Nepal_. 2006-08-31. [문헌 고찰] [DOI 10.59779/jiomnepal.253](https://doi.org/10.59779/jiomnepal.253) — 한약재의 성분 불분명·제조 표준 미비로 인한 출혈 장애 등 이상반응 가능성을 지적, 지혈 목적 한약 사용 시 안전성 모니터링 필요성을 뒷받침.
+[^122]: Safety profile of herbal drugs: urgent need for monitoring. _Journal of Institute of Medicine Nepal_. 2006-08-31. [문헌 고찰] [DOI 10.59779/jiomnepal.253](https://doi.org/10.59779/jiomnepal.253) — 한약 제제의 성분 조성 미규명·제조 표준화 미비로 출혈 장애 등 이상반응이 발생할 수 있으므로 체계적 안전성 감시가 시급하다고 지적한 고찰. 개별 약재의 위해를 정량 평가한 연구가 아니라 감시 필요성을 제기한 논평 성격의 문헌이다.
