@@ -266,7 +266,7 @@
 
 | 목적 | 주혈 | 배혈 | 수기·자법 |
 | --- | --- | --- | --- |
-| 복통·염증 조절 | 족삼리(足三里, ST36)·중완(中脘, CV12) | 대장유(大腸兪, BL25)·천추(天樞, ST25) | 전침, 사법 |
+| 복통·염증 조절 | 족삼리(足三里, ST36)·중완(中脘, CV12) | 대장수(大腸兪, BL25)·천추(天樞, ST25) | 전침, 사법 |
 | 위장관 운동성·장마비 | 족삼리·상거허(上巨虛, ST37) | 합곡(合谷, LI4) | 전침, 평보평사 |
 | 조기 경장영양 내성 | 족삼리·중완 | 삼음교(三陰交, SP6) | 전침, 보법 |
 
@@ -274,7 +274,7 @@
 
 #### 5-2. 침구 근거
 
-침이 급성 췌장염의 보조 치료로서 효능·안전성을 보인다는 메타분석 근거가 있으며[^1], 복통·팽만 완화에 대한 체계적 고찰·메타분석에서도 유효성이 확인되었다[^11][^13]. 전침(電鍼)은 중증 급성 췌장염 초기 장마비(腸痲痺) 동반 환자에게 유의한 효과를 보였고[^5][^14], 급성 췌장염 환자의 위장관 운동성[^3]·장 투과성[^4]을 개선한다. 전침이 급성 췌장염 환자의 조기 경장 영양 내성·자율신경 활동을 개선하며[^17], 족삼리(ST36)·중완(CV12) 전침이 장관 영양 공급에 미치는 영향도 확인되었다[^12]. 전침이 급성 췌장염 환자의 복통 완화에 3군 무작위대조시험에서 유효성을 보였고[^19], 별도 임상시험 프로토콜로도 등록되었다[^16]. 대장유(BL25) 전침이 중증 급성 췌장염 치료에 유효하였고[^8], 복부·사지 혈위 전침의 임상 효과를 비교한 연구도 있다[^9]. 전침이 중증 급성 췌장염으로 인한 폐손상 환자의 임상 경과를 개선한다는 보고도 있다[^2]. 전침이 급성 췌장염 환자의 염증 반응을 조절하는 탐색적 연구도 수행되었다[^7]. 전침과 청이함흉탕 병용이 임상 관찰에서 유효하였다[^15]. 혈위 도포와 약물 병용도 임상적으로 관찰되었다[^6]. 시호소간산과 족삼리 혈위 자극 병용이 급성 췌장염 개선에 전향적 연구에서 유효성을 보였다[^74]. 침 치료가 소화기계 질환 전반에 적용되는 기전도 개관되었다[^107]. 한편 침의 급성 췌장염 보조 치료 효능·안전성을 종합하려는 체계적 고찰·메타분석 **계획서** 가 별도로 등록되어 있으나, 이는 연구 설계를 사전 공개한 것으로 결과가 보고된 연구는 아니다[^10].
+침이 급성 췌장염의 보조 치료로서 효능·안전성을 보인다는 메타분석 근거가 있으며[^1], 복통·팽만 완화에 대한 체계적 고찰·메타분석에서도 유효성이 확인되었다[^11][^13]. 전침(電鍼)은 중증 급성 췌장염 초기 장마비(腸痲痺) 동반 환자에게 유의한 효과를 보였고[^5][^14], 급성 췌장염 환자의 위장관 운동성[^3]·장 투과성[^4]을 개선한다. 전침이 급성 췌장염 환자의 조기 경장 영양 내성·자율신경 활동을 개선하며[^17], 족삼리(ST36)·중완(CV12) 전침이 장관 영양 공급에 미치는 영향도 확인되었다[^12]. 전침이 급성 췌장염 환자의 복통 완화에 3군 무작위대조시험에서 유효성을 보였고[^19], 별도 임상시험 프로토콜로도 등록되었다[^16]. 대장수(BL25) 전침이 중증 급성 췌장염 치료에 유효하였고[^8], 복부·사지 혈위 전침의 임상 효과를 비교한 연구도 있다[^9]. 전침이 중증 급성 췌장염으로 인한 폐손상 환자의 임상 경과를 개선한다는 보고도 있다[^2]. 전침이 급성 췌장염 환자의 염증 반응을 조절하는 탐색적 연구도 수행되었다[^7]. 전침과 청이함흉탕 병용이 임상 관찰에서 유효하였다[^15]. 혈위 도포와 약물 병용도 임상적으로 관찰되었다[^6]. 시호소간산과 족삼리 혈위 자극 병용이 급성 췌장염 개선에 전향적 연구에서 유효성을 보였다[^74]. 침 치료가 소화기계 질환 전반에 적용되는 기전도 개관되었다[^107]. 한편 침의 급성 췌장염 보조 치료 효능·안전성을 종합하려는 체계적 고찰·메타분석 **계획서** 가 별도로 등록되어 있으나, 이는 연구 설계를 사전 공개한 것으로 결과가 보고된 연구는 아니다[^10].
 
 > 침구 요법은 대부분 통증·위장관 운동성·경장 영양 내성 등 보조적 지표 개선에 초점을 두고 있으며, 중증 급성 췌장염의 표준 보존적 치료(수액·금식·진통·중증도별 중재)를 대체하는 것이 아니라 병용하는 보조 요법으로 위치해야 한다.
 
@@ -449,7 +449,7 @@
 [^5]: [Efficacy observation of electroacupuncture intervention on severe acute pancreatitis at early stage complicated with intestinal paralysis]. Luo YH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-02. [임상시험] [PMID 21442805](https://pubmed.ncbi.nlm.nih.gov/21442805/) — 전침이 중증 급성 췌장염 초기 장마비(腸痲痺) 동반 환자에게 유의한 효과를 보였다.
 [^6]: [Clinical observation of acute pancreatitis treated with acupoint application combined with medicine]. Ge HY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-07. [임상시험] [PMID 22997787](https://pubmed.ncbi.nlm.nih.gov/22997787/) — 혈위 도포와 약물 병용이 급성 췌장염 치료에 임상적으로 관찰되었다.
 [^7]: Effect of electroacupuncture on the inflammatory response in patients with acute pancreatitis: an exploratory study. Zhu SF 외. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2015-04. [임상시험] [DOI 10.1136/acupmed-2014-010646](https://doi.org/10.1136/acupmed-2014-010646) [PMID 25520280](https://pubmed.ncbi.nlm.nih.gov/25520280/) — 전침이 급성 췌장염 환자의 염증 반응을 조절하는 탐색적 연구가 수행되었다.
-[^8]: [Clinical observation on severe acute pancreatitis treated with electroacupuncture at Dachangshu (BL 25) and Shangjuxu (ST 37) combined with ulinastatin]. Zhao L 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-02-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.02.005](https://doi.org/10.13703/j.0255-2930.2018.02.005) [PMID 29473354](https://pubmed.ncbi.nlm.nih.gov/29473354/) — 대장유(大腸兪, BL25) 전침이 중증 급성 췌장염 치료에 유효하였다.
+[^8]: [Clinical observation on severe acute pancreatitis treated with electroacupuncture at Dachangshu (BL 25) and Shangjuxu (ST 37) combined with ulinastatin]. Zhao L 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2018-02-12. [임상시험] [DOI 10.13703/j.0255-2930.2018.02.005](https://doi.org/10.13703/j.0255-2930.2018.02.005) [PMID 29473354](https://pubmed.ncbi.nlm.nih.gov/29473354/) — 대장수(大腸兪, BL25) 전침이 중증 급성 췌장염 치료에 유효하였다.
 [^9]: [Comparison of Clinical Effects of Electroacupuncture of Abdominal and Limb Acupoints in the Treatment of Acute Pancreatitis]. Li HJ 외. _Zhen ci yan jiu = Acupuncture research_. 2018-11-25. [임상시험] [DOI 10.13702/j.1000-0607.170351](https://doi.org/10.13702/j.1000-0607.170351) [PMID 30585471](https://pubmed.ncbi.nlm.nih.gov/30585471/) — 복부·사지 혈위 전침의 임상 효과를 비교한 연구가 수행되었다.
 [^10]: Efficacy and safety of acupuncture as an adjuvant treatment for acute pancreatitis: a protocol of systematic review and meta-analysis. Zhang K 외. _BMJ open_. 2019-07-04. [체계적 고찰 계획서] [DOI 10.1136/bmjopen-2019-029327](https://doi.org/10.1136/bmjopen-2019-029327) [PMID 31278104](https://pubmed.ncbi.nlm.nih.gov/31278104/) — 침의 급성 췌장염 보조 치료 효능·안전성을 평가하기 위한 체계적 고찰·메타분석 계획서로, 결과가 보고된 완료 연구가 아니므로 효과 근거로 인용할 수 없음.
 [^11]: Efficacy and safety of acupuncture on relieving abdominal pain and distension for acute pancreatitis: A protocol for systematic review. Zhu X 외. _Medicine_. 2020-02. [체계적 고찰] [DOI 10.1097/MD.0000000000019044](https://doi.org/10.1097/MD.0000000000019044) [PMID 32080079](https://pubmed.ncbi.nlm.nih.gov/32080079/) — 침이 급성 췌장염의 복통·팽만 완화에 효능·안전성을 평가하는 체계적 고찰이 수행되었다.

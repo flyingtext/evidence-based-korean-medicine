@@ -100,7 +100,7 @@
 
 #### 8. 신경·뇌혈관 질환
 
-뇌졸중 후 손목 굴곡근 경직에 합곡·외관(SJ5) 드라이 니들링이 경직·관절가동범위를 개선하였고,[^79] 뇌졸중 후 경직에 전침·뜸 병행이 즉각적·지속적 효과를 보였다.[^80] 양명경(陽明經) 이론에 근거하여 합곡·수삼리·곡지에 전침을 가하면 뇌졸중 환자의 뇌파(EEG) beta파 증가·delta파 감소가 유도되어 재활에 기여할 수 있다.[^81] 후각 상실·저하 환자에게 합곡·영향(LI20) 저주파 전침을 적용한 결과 약 42%에서 완전한 후각 회복이 관찰되었다.[^82] 알츠하이머병 환자에서는 합곡·태충 전침이 디폴트 모드 네트워크(DMN) 외 전두두정·감각운동·시각 네트워크의 기능적 연결성을 조절하였다.[^83]
+뇌졸중 후 손목 굴곡근 경직에 합곡·외관(TE5) 드라이 니들링이 경직·관절가동범위를 개선하였고,[^79] 뇌졸중 후 경직에 전침·뜸 병행이 즉각적·지속적 효과를 보였다.[^80] 양명경(陽明經) 이론에 근거하여 합곡·수삼리·곡지에 전침을 가하면 뇌졸중 환자의 뇌파(EEG) beta파 증가·delta파 감소가 유도되어 재활에 기여할 수 있다.[^81] 후각 상실·저하 환자에게 합곡·영향(LI20) 저주파 전침을 적용한 결과 약 42%에서 완전한 후각 회복이 관찰되었다.[^82] 알츠하이머병 환자에서는 합곡·태충 전침이 디폴트 모드 네트워크(DMN) 외 전두두정·감각운동·시각 네트워크의 기능적 연결성을 조절하였다.[^83]
 
 #### 9. 대상포진 후 신경통
 
@@ -149,13 +149,13 @@
 | 질환군 | 주혈위 | 배혈(配穴) | 근거 |
 |---|---|---|---|
 | 분만통(제1기) | 합곡(LI4) | 곤륜(BL67)·신수(BL32)·삼음교(SP6)·족삼리(ST36) | [^10][^11][^12][^14] |
-| 제왕절개술 후 통증·장 기능 | 합곡(LI4) | 삼음교(SP6)·내관(PC6)·외관(SJ5) | [^28][^29][^30][^33] |
+| 제왕절개술 후 통증·장 기능 | 합곡(LI4) | 삼음교(SP6)·내관(PC6)·외관(TE5) | [^28][^29][^30][^33] |
 | 원발성 생리통·월경전증후군 | 합곡(LI4) | 삼음교(SP6)·족삼리(ST36)·태충(LR3) | [^73][^74][^76] |
 | 혈액투석 시술통 | 합곡(LI4) | (단독 또는 냉요법 병용) | [^41][^42][^44][^45] |
 | 항암 화학요법 오심·구토·피로 | 합곡(LI4) | 족삼리(ST36)·삼음교(SP6) | [^53][^54][^56] |
 | 관상동맥 시술 전후 통증·불안 | 합곡(LI4) | 신문(HT7)·내관(PC6)·곡지(LI11) | [^64][^65][^61] |
 | 마취 유도 전 혈압·기침 관리 | 합곡(LI4) | 내관(PC6) | [^67][^68] |
-| 뇌졸중 후 경직·상지 기능 | 합곡(LI4) | 외관(SJ5)·수삼리(LI10)·곡지(LI11) | [^79][^81] |
+| 뇌졸중 후 경직·상지 기능 | 합곡(LI4) | 외관(TE5)·수삼리(LI10)·곡지(LI11) | [^79][^81] |
 | 대상포진 후 신경통 | 합곡(LI4) | (매선요법 단독, 가바펜틴 병용) | [^84] |
 | COPD 호흡곤란·불안 | 합곡(LI4) | 내관(PC6)·족삼리(ST36) | [^70] |
 | 다발성 경화증 피로 | 합곡(LI4) | 족삼리(ST36)·삼음교(SP6) | [^55] |
@@ -345,7 +345,7 @@ fMRI·fNIRS 연구를 통해 합곡혈 자극이 뇌의 여러 영역(PAG, 체�
 [^60]: The promising application of acupressure for management of cancer-related lymphedema: A scoping review. Shen A 외. _Asia-Pacific journal of oncology nursing_. 2025-12. [체계적 고찰] [DOI 10.1016/j.apjon.2025.100669](https://doi.org/10.1016/j.apjon.2025.100669) [PMID 40124657](https://pubmed.ncbi.nlm.nih.gov/40124657/) — 지압(Acupressure)은 암 관련 림프부종의 예방과 치료에 있어 림프부종 증상 완화, 사지 기능 개선, 삶의 질 향상 및 염증 인자 감소에 효과적인 중재 방법이 될 수 있다.
 [^61]: Effect of Acupressure on Pain Severity in Patients Undergoing Coronary Artery Graft: A Randomized Controlled Trial. Narimani M 외. _Anesthesiology and pain medicine_. 2018-10. [임상시험] [DOI 10.5812/aapm.82920](https://doi.org/10.5812/aapm.82920) [PMID 30538941](https://pubmed.ncbi.nlm.nih.gov/30538941/) — 관상동맥 우회술(CABG) 후 환자에게 합곡혈(LI4) 지압을 시행하는 것이 수술 후 통증 강도를 유의하게 감소시킴을 확인하였다.
 [^62]: Effects of acupressure on intestinal function in patients with coronary artery bypass graft surgery: a randomized clinical trial. Khan-Mohammadi F 외. _Gastroenterology and hepatology from bed to bench_. 2023. [임상시험] [DOI 10.22037/ghfbb.v16i2.2720](https://doi.org/10.22037/ghfbb.v16i2.2720) [PMID 37767324](https://pubmed.ncbi.nlm.nih.gov/37767324/) — 관상동맥 우회술(CABG) 후 발생하는 장 기능 저하 및 변비 증상 완화를 위해 합곡(LI4)과 천추(ST25) 혈위에 지압을 시행하는 것이 효과적이다.
-[^63]: The Effect of Acupressure on Preventing Constipation in Patients with Acute Myocardial Infarction under Primary Percutaneous Coronary Intervention. Kamali M 외. _Middle East journal of digestive diseases_. 2022-10. [임상시험] [DOI 10.34172/mejdd.2022.303](https://doi.org/10.34172/mejdd.2022.303) [PMID 37547499](https://pubmed.ncbi.nlm.nih.gov/37547499/) — 일차적 경피적 관상동맥 중재술을 받는 급성 심근경색 환자에게 특정 혈위(SJ6, LI4, ST25, SP6) 지압을 시행하는 것이 변비 예방과 대변 성상 개선에 유의미한 효과가 있음을 확인하였다.
+[^63]: The Effect of Acupressure on Preventing Constipation in Patients with Acute Myocardial Infarction under Primary Percutaneous Coronary Intervention. Kamali M 외. _Middle East journal of digestive diseases_. 2022-10. [임상시험] [DOI 10.34172/mejdd.2022.303](https://doi.org/10.34172/mejdd.2022.303) [PMID 37547499](https://pubmed.ncbi.nlm.nih.gov/37547499/) — 일차적 경피적 관상동맥 중재술을 받는 급성 심근경색 환자에게 특정 혈위(TE6, LI4, ST25, SP6) 지압을 시행하는 것이 변비 예방과 대변 성상 개선에 유의미한 효과가 있음을 확인하였다.
 [^64]: The effects of acupressure on pain, anxiety and vital signs in patients undergoing coronary angiography: A randomized and sham-controlled trial. Bal SK 외. _Explore (New York, N.Y.)_. [임상시험] [DOI 10.1016/j.explore.2023.07.001](https://doi.org/10.1016/j.explore.2023.07.001) [PMID 37429762](https://pubmed.ncbi.nlm.nih.gov/37429762/) — 관상동맥 조영술을 받는 환자에게 HT7, LI4, PC6 혈위에 지압을 시행하는 것이 통증과 불안을 감소시키고 활력 징후를 안정시키는 데 효과적임을 시사한다.
 [^65]: The effect of acupressure on pain level and hemodynamic parameters after coronary angiography: a randomized controlled study. Düzel B 외. _Frontiers in cardiovascular medicine_. 2023. [임상시험] [DOI 10.3389/fcvm.2023.1173363](https://doi.org/10.3389/fcvm.2023.1173363) [PMID 37522084](https://pubmed.ncbi.nlm.nih.gov/37522084/) — 관상동맥 조영술 후 발생하는 통증 완화를 위해 합곡(LI4), 내관(PC6), 곡지(LI11) 혈위에 지압을 시행하는 것이 효과적일 수 있다.
 [^66]: Effect of acupressure therapy to reduce chest pain in NSTEMI patients. Atik Rahma Hasnawati 외. _Open Access Research Journal of Science and Technology_. 2023-08-30. [증례 보고] [DOI 10.53022/oarjst.2023.8.2.0042](https://doi.org/10.53022/oarjst.2023.8.2.0042) — NSTEMI 환자의 흉통 완화를 위해 합곡혈(LI4) 지압 요법을 적용한 결과, 통증 강도가 감소하는 효과가 확인되었다. 이는 급성 관상동맥 증후군 환자의 통증 관리를 위해 약물 요법 외에 보조적인 비약물적 중재 방법으로 지압을 고려할 수 있음을 시사한다.

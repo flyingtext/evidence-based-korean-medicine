@@ -253,7 +253,7 @@
 - 247명 대상 조직병리 연구에서 만성 위축성위염 환자의 변증(비기양허 vs 비위음허)과 위점막 병리 손상 정도 사이에 밀접한 상관관계가 확인되었다[^3].
 - 188명 대상 연구에서는 비허증(脾虛證)의 하위 유형에 따라 위점막 손상 정도가 다르며, 비음허·기체비허가 비기허·비양허보다 위점막 손상이 더 심각한 경향을 보였다[^5].
 - 200명 대상 연구에서는 만성 위축성위염 환자의 표피성장인자(EGF)·혈관내피성장인자(VEGF)·증식세포핵항원(PCNA) 발현이 변증 유형(비위허약형·간위불화형)에 따라 다르며, 특히 PCNA 발현이 간위불화형 진단의 생물학적 근거가 될 수 있음이 보고되었다[^13].
-- 신유양정탕(神柔養正湯)이 비음허(脾陰虛) 환자의 낮아진 혈장 혈관작동장펩티드(VIP)를 정상 범위에 가깝게 회복시켰다는 실험연구가 있다(인간 데이터 한정)[^14].
+- 신수양정탕(神柔養正湯)이 비음허(脾陰虛) 환자의 낮아진 혈장 혈관작동장펩티드(VIP)를 정상 범위에 가깝게 회복시켰다는 실험연구가 있다(인간 데이터 한정)[^14].
 - 이러한 변증별 병리 차이를 종합해 6가지 변증 유형과 주요 처방 약재를 도출한 임상경험 데이터 마이닝 연구도 보고되었다[^15].
 
 이들 소견은 **변증(비기허·비양허·비음허·기체비허)이 단순 명칭 차이가 아니라 서로 다른 위점막 손상 정도·성장인자 발현·호르몬 프로파일과 연동될 가능성** 을 시사한다. 다만 표본 규모·단면 설계·변증 판정의 관찰자 의존성을 고려하면 "변증이 독립된 생물학적 실체로 확정되었다"기보다 "생물학적 이질성을 포착할 가능성이 있다"가 현재 근거 수준에 맞는 표현이다.
@@ -272,7 +272,7 @@
 | 비위음허 중증 → 장부실양(臟腑失養) | SYDS 환자의 췌장 외분비 기능 저하, 위점막 미토콘드리아·조면소포체 손상[^7] |
 | 비허(전반) → 위점막 실양 | 변증 유형별 위점막 병리 손상 정도 차이[^3][^5] |
 | 비음허 겸 간화 → 위벽 손상 가속 | 변증별 EGF·VEGF·PCNA 발현 차이[^13] |
-| 자윤·자음법의 진액 보충 작용 | 신유양정탕 투여 후 VIP 정상화(인간 데이터 한정)[^14] |
+| 자윤·자음법의 진액 보충 작용 | 신수양정탕 투여 후 VIP 정상화(인간 데이터 한정)[^14] |
 | 음허 중증도와 전신 예후의 관계 | 급성심근경색 환자에서 음허 유형이 비음허 유형보다 심근손상·사망률이 높음[^9] |
 
 **이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.** 전통 병기 서술과 현대 관찰 소견을 나란히 배치한 것으로, 인과관계를 확정하는 것이 아니라 해석의 발판을 제공하는 목적이다.
@@ -493,8 +493,8 @@
 | **삼음교(三陰交, SP6)** | 간·비·신 삼음경 교회혈 — 자음의 핵심 혈위 |
 | **음릉천(陰陵泉, SP9)** | 비경 합혈 — 건비 겸 자음 보조 |
 | **중완(中脘, CV12)** | 위의 모혈 — 비위 운화 촉진 |
-| **비유(脾兪, BL20)** | 비의 배유혈 — 비기·비음을 함께 조절 |
-| **위유(胃兪, BL21)** | 위의 배유혈 — 위음 보조 |
+| **비수(脾兪, BL20)** | 비의 배유혈 — 비기·비음을 함께 조절 |
+| **위수(胃兪, BL21)** | 위의 배유혈 — 위음 보조 |
 | **족삼리(足三里, ST36)** | 위경 합혈 — 후천지본 보익, 비기허·비음허 공용 |
 | **태계(太谿, KI3)** | 신경 원혈 — 신음을 자양해 화생지원 보조 |
 | **조해(照海, KI6)** | 팔맥교회혈(음교맥) — 자음, 인후·구건에 응용 |
@@ -510,7 +510,7 @@
 | 대변건조(허성 장조) | 천추(ST25)·조해(KI6)·삼음교(SP6)·지구(TE6) |
 | 오후조열·수족심열 | 노궁(PC8)·용천(KI1)·태계(KI3)·삼음교(SP6) |
 | 식욕부진·조잡 | 중완(CV12)·족삼리(ST36)·내관(PC6) |
-| 여윔·핍력 | 비유(BL20)·족삼리(ST36)·기해(CV6) |
+| 여윔·핍력 | 비수(BL20)·족삼리(ST36)·기해(CV6) |
 | 불면(심음 겸허) | 신문(HT7)·삼음교(SP6)·안면 |
 
 이간혈(二間, LI2) 자극이 fMRI상 뇌 반응과 타액 분비 변화를 동반한 무작위대조연구가 있어[^48], 자음 관련 취혈이 타액선 기능과 연동될 가능성을 시사한다. 구강건조증에 대한 침 치료의 체계적 고찰에서도 타액 분비 촉진 효과가 보고되었다[^49].
@@ -557,7 +557,7 @@
 #### ④ 치료
 
 - **한약**: 사삼맥문동탕·익위탕·자음건비탕 계열이 자음건비·양위생진의 정치법이다. 실제 CAG 임상근거로는 WW-1(468명 RCT)[^28], 리웨이 캡슐(301명 RCT)[^26], 청유방탕(113명 관찰연구)[^32], 위푸춘(네트워크메타분석)[^31], 소간화위탕(72명 임상시험)[^30], 사군자탕 가미방(202명 임상시험)[^34], 소미연분(小胃炎powder) 계열의 전신 위점막 이형성 개선 임상연구(242명)[^73] 등이 있다. 헬리코박터 감염 동반형에는 자음약과 청열해독약을 배오한 하련이우 캡슐(226명 임상시험)[^74]도 참고할 수 있다.
-- **침구**: 중완·족삼리·비유·위유를 기본으로, 만성 위축성위염 침구 치료의 방법론적 체계적 고찰(5,311명)에서 핵심 결과 지표 정립이 제안되었다[^47]. 수면장애를 겸한 만성 위염에 침구 치료를 적용한 임상시험(60명)[^75], 하씨관침법(HE's tube acupuncture)을 이용한 만성 위염 치료 증례[^76], 민감화 경혈의 국소 미세환경을 분석한 관찰연구 프로토콜(30명)[^77]이 보고되었다.
+- **침구**: 중완·족삼리·비수·위수를 기본으로, 만성 위축성위염 침구 치료의 방법론적 체계적 고찰(5,311명)에서 핵심 결과 지표 정립이 제안되었다[^47]. 수면장애를 겸한 만성 위염에 침구 치료를 적용한 임상시험(60명)[^75], 하씨관침법(HE's tube acupuncture)을 이용한 만성 위염 치료 증례[^76], 민감화 경혈의 국소 미세환경을 분석한 관찰연구 프로토콜(30명)[^77]이 보고되었다.
 - **간위불화(肝胃不和) 감별 진단·치료**: 간위불화형 만성 위염에 대한 미시적 변증 연구(64명 임상시험)[^78]는 비음허와 감별해야 할 겸증 축을 제시한다.
 - **변증 층화 강조**: 위 근거의 대다수는 변증을 명시하지 않은 전체 CAG 집단을 대상으로 하므로, **변증 없는 관행적 처방은 근거에 부합하지 않는다.** 비음허·비위음허가 확인된 환자에게는 자음 위주 처방을, 비기허·비양허가 확인된 환자에게는 육군자탕류 온보 처방을 구분 적용해야 한다[^25].
 
@@ -890,7 +890,7 @@
 [^11]: 비음허와 위음허의 병기적 구분(운화·산정·통혈 부족 vs 수곡부숙 진액 부족) 및 비위음허 합병 표기는 한의과대학 교과서적 이론이다. [교과서적 근거]
 [^12]: Plasma L-ENK, AVP, ANP and serum gastrin in patients with syndrome of Liver-Qi-stagnation. _World Journal of Gastroenterology_. 1999. [관찰연구, 84명] [DOI 10.3748/wjg.v5.i1.61](https://doi.org/10.3748/wjg.v5.i1.61) [PMID 11819389](https://pubmed.ncbi.nlm.nih.gov/11819389/) — 간실증 환자의 내인성 아편·항이뇨·심혈관·소화 호르몬 패턴 변화. 간화범비 겸증 이해의 참고 근거.
 [^13]: [Relationship of TCM syndrome type of gastric mucosal epithelial growth factor, vascular endothelial growth factor and proliferative cell nuclear antigen in patients with chronic atrophic gastritis]. _Zhongguo Zhong xi yi jie he za zhi (Chinese journal of integrated traditional and Western medicine)_. 2008-03. [관찰연구, 200명] [PMID 18476422](https://pubmed.ncbi.nlm.nih.gov/18476422/) — 만성 위축성위염 변증별(비위허약형·간위불화형) EGF·VEGF·PCNA 발현 차이.
-[^14]: Exploration of the immunoreactivity of the Traditional Chinese medicine Shenrouyangzhentang to vasoactive intestinal polypeptide. _World Journal of Gastroenterology_. 1997-06-15. [실험연구, 40명, 인간 데이터 한정] [DOI 10.3748/wjg.v3.i2.83](https://doi.org/10.3748/wjg.v3.i2.83) [PMID 27041949](https://pubmed.ncbi.nlm.nih.gov/27041949/) — 비음허 환자의 혈장 VIP 저하 및 신유양정탕 투여 후 VIP 정상화 경향.
+[^14]: Exploration of the immunoreactivity of the Traditional Chinese medicine Shenrouyangzhentang to vasoactive intestinal polypeptide. _World Journal of Gastroenterology_. 1997-06-15. [실험연구, 40명, 인간 데이터 한정] [DOI 10.3748/wjg.v3.i2.83](https://doi.org/10.3748/wjg.v3.i2.83) [PMID 27041949](https://pubmed.ncbi.nlm.nih.gov/27041949/) — 비음허 환자의 혈장 VIP 저하 및 신수양정탕 투여 후 VIP 정상화 경향.
 [^15]: [Mining analysis and experience summary for chronic atrophic gastritis cases treated by Professor LIU Feng-bin]. _Zhongguo Zhong yao za zhi (China journal of Chinese materia medica)_. 2015-06. [관찰연구, 228명] [PMID 26552186](https://pubmed.ncbi.nlm.nih.gov/26552186/) — 만성 위축성위염 임상 경험 데이터 마이닝으로 6가지 변증 유형·주요 처방 약재 도출.
 [^16]: JianPi QingRe HuoXue Formula targets Cadherin-17 to induce apoptosis in chronic atrophic gastritis with intestinal metaplasia. _Phytomedicine_. 2026. [실험연구] [DOI 10.1016/j.phymed.2026.158037](https://doi.org/10.1016/j.phymed.2026.158037) [PMID 41825205](https://pubmed.ncbi.nlm.nih.gov/41825205/) — 건비청열활혈방의 Cadherin-17 매개 세포자멸사 유도 기전.
 [^17]: He-Wei-Decoction Ameliorates Chronic Atrophic Gastritis via Modulation of the TLR4/NF-κB Signaling Pathway. _Biological & Pharmaceutical Bulletin_. 2025. [실험연구] [DOI 10.1248/bpb.b25-00279](https://doi.org/10.1248/bpb.b25-00279) [PMID 41083380](https://pubmed.ncbi.nlm.nih.gov/41083380/) — 화위탕의 TLR4/NF-κB 신호경로 억제를 통한 만성 위축성위염 개선 기전.

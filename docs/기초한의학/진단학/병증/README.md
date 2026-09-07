@@ -195,8 +195,8 @@
 
 **② 성기능저하 동반형** — 동반증상: 발기부전
 
-- **양위유정**(陽痿遺精, Yangwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006639)
-- **음위유정**(陰痿遺精, Eumwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008052)
+- **양위수정**(陽痿遺精, Yangwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0006639)
+- **음위수정**(陰痿遺精, Eumwiyujeong) — 유정(spermatorrhea) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0008052)
 
 **③ 정액 성상(性狀) 기준형** — 성격: 맑음(淸)↔탁함(濁)
 

@@ -227,7 +227,7 @@
 
 #### 8-3. 임상 적용 — 기관지 천식과 폐여대장상표리
 
-폐경·대장경 혈위를 병용한 침 치료가 표준 약물치료(벤톨린) 병행 시 기관지 천식 환자의 삶의 질을 유의하게 개선했다는 임상시험[^13], 폐여대장상표리 이론에 근거해 폐유(肺兪, BL13)·대장유(大腸兪, BL25)·정천(定喘, EX-B1)을 자침하면 기관지 천식 급성악화기의 폐기능(PEF 등)·증상이 개선됨을 보인 임상시험[^16]은 이 이론이 실제 침구 처방 설계에 활용되고 있음을 보여준다. 급성 여행자 설사 환자에게 족삼리(足三里, ST36)·합곡(合谷, LI4) 침 치료로 약물 없이 증상이 개선된 증례[^19]는 대장경 혈위가 위장관 증상에 직접 활용되는 사례를 보여준다.
+폐경·대장경 혈위를 병용한 침 치료가 표준 약물치료(벤톨린) 병행 시 기관지 천식 환자의 삶의 질을 유의하게 개선했다는 임상시험[^13], 폐여대장상표리 이론에 근거해 폐수(肺兪, BL13)·대장수(大腸兪, BL25)·정천(定喘, EX-B1)을 자침하면 기관지 천식 급성악화기의 폐기능(PEF 등)·증상이 개선됨을 보인 임상시험[^16]은 이 이론이 실제 침구 처방 설계에 활용되고 있음을 보여준다. 급성 여행자 설사 환자에게 족삼리(足三里, ST36)·합곡(合谷, LI4) 침 치료로 약물 없이 증상이 개선된 증례[^19]는 대장경 혈위가 위장관 증상에 직접 활용되는 사례를 보여준다.
 
 #### 8-4. 대장 용종-폐 결절의 병치 관찰
 
@@ -674,10 +674,10 @@ C18(결장의 악성 신생물), C19(직장구불결장이행부의 악성 신�
 | 증상 | 상용 경혈 | 배속 근거 |
 |---|---|---|
 | 변비 전반 | 천추(天樞, ST25), 지구(支溝, TE6), 조해(照海, KI6) | 대장 모혈, 삼초경 통변 요혈 |
-| 서행성 변비 | 천추(天樞, ST25), 대장유(大腸兪, BL25), 상거허(上巨虛, ST37), 족삼리(足三里, ST36) | 배유혈·모혈·하합혈 병용 |
+| 서행성 변비 | 천추(天樞, ST25), 대장수(大腸兪, BL25), 상거허(上巨虛, ST37), 족삼리(足三里, ST36) | 배유혈·모혈·하합혈 병용 |
 | 설사·과민성장증후군 | 천추(天樞, ST25), 족삼리(足三里, ST36), 상거허(上巨虛, ST37), 공손(公孫, SP4) | 위·대장경 하합혈, 비경 낙혈 |
-| 궤양성대장염·이급후중 | 천추(天樞, ST25), 대장유(大腸兪, BL25), 합곡(合谷, LI4), 삼음교(三陰交, SP6) | 대장 배유혈·모혈, 습열 조절 |
-| 폐-대장 병용(천식+변비) | 폐유(肺兪, BL13), 대장유(大腸兪, BL25), 합곡(合谷, LI4), 열결(列缺, LU7) | 폐여대장상표리 이론 |
+| 궤양성대장염·이급후중 | 천추(天樞, ST25), 대장수(大腸兪, BL25), 합곡(合谷, LI4), 삼음교(三陰交, SP6) | 대장 배유혈·모혈, 습열 조절 |
+| 폐-대장 병용(천식+변비) | 폐수(肺兪, BL13), 대장수(大腸兪, BL25), 합곡(合谷, LI4), 열결(列缺, LU7) | 폐여대장상표리 이론 |
 
 > 이 표는 침구학 교과서의 표준 배혈 개념을 정리한 참고용 개념도이며, 임상 근거 수준을 나타내는 표가 아니다. 실제 취혈은 변증에 따라 개별화해야 하며, **변증 없는 관행적 취혈은 근거에 부합하지 않는다.**
 
@@ -850,7 +850,7 @@ C18(결장의 악성 신생물), C19(직장구불결장이행부의 악성 신�
 | 사이불장 | 瀉而不藏 | 육부가 정기를 저장하지 않고 소화·배출한다는 원리 |
 | 폐여대장상표리 | 肺與大腸相表裏 | 폐와 대장이 경락으로 낙속되어 표리 관계를 이룬다는 이론 |
 | 선폐통변 | 宣肺通便 | 폐기를 선통시켜 대장의 전도력을 회복시키는 치법 |
-| 제호게개 | 提壺揭蓋 | 주전자 뚜껑을 열어야 물이 나온다는 비유, 선폐통변의 원리 |
+| 제호게개 | 提壺揭蓋 | 주전자 뚜껑을 열어야 물이 나온다는 비수, 선폐통변의 원리 |
 | 폐장동치 | 肺腸同治 | 폐와 장 질환을 함께 치료하는 치법 원칙 |
 | 대장습열 | 大腸濕熱 | 습열이 대장에 정체되어 이급후중·하리적백을 일으키는 병기 |
 | 대장허한 | 大腸虛寒 | 대장 양기가 허하여 수습 기화가 안 되는 병기 |
@@ -911,7 +911,7 @@ C18(결장의 악성 신생물), C19(직장구불결장이행부의 악성 신�
 [^13]: [Impacts on the life quality of patients with bronchial asthma treated with acupuncture in terms of the lung and large intestine theory]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2012-08. [임상시험, 52명] [PMID 23072077](https://pubmed.ncbi.nlm.nih.gov/23072077/) — 폐경·대장경 혈위 병용 침 치료가 표준 약물치료(벤톨린) 병행 시 기관지 천식 환자의 삶의 질을 유의하게 개선.
 [^14]: [Research on correlation between lung and large intestine based on meridian and acupoint palpation in patients with bronchial asthma]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-02. [관찰연구, 96명] [PMID 24796049](https://pubmed.ncbi.nlm.nih.gov/24796049/) — 천식 환자에서 폐경·대장경의 이상 반응이 동시에 빈번히 나타나 두 경락의 병리적 상관관계를 촉진 검사로 입증.
 [^15]: [Verification of the theory of "Lieque (LU 7) for the disorders of the head and neck" based on infrared thermography]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-02-12. [임상시험, 36명] [DOI 10.13703/j.0255-2930.2019.02.016](https://doi.org/10.13703/j.0255-2930.2019.02.016) [PMID 30942036](https://pubmed.ncbi.nlm.nih.gov/30942036/) — 열결(列缺, LU7) 자침이 수태음폐경뿐 아니라 표리 관계인 수양명대장경의 반응까지 유도함을 적외선 체열로 확인.
-[^16]: [Effect of acupuncture based on the theory of "exterior-interior relationship between lung and large intestine" on acute exacerbation of bronchial asthma]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2026-04-12. [임상시험, 48명] [DOI 10.13703/j.0255-2930.20250429-k0002](https://doi.org/10.13703/j.0255-2930.20250429-k0002) [PMID 41987438](https://pubmed.ncbi.nlm.nih.gov/41987438/) — 폐여대장상표리 이론에 근거해 폐유(肺兪)·대장유(大腸兪)·정천(定喘)을 자침하면 기관지 천식 급성악화기의 폐기능(PEF 등)·증상이 개선됨을 보인 임상시험.
+[^16]: [Effect of acupuncture based on the theory of "exterior-interior relationship between lung and large intestine" on acute exacerbation of bronchial asthma]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2026-04-12. [임상시험, 48명] [DOI 10.13703/j.0255-2930.20250429-k0002](https://doi.org/10.13703/j.0255-2930.20250429-k0002) [PMID 41987438](https://pubmed.ncbi.nlm.nih.gov/41987438/) — 폐여대장상표리 이론에 근거해 폐수(肺兪)·대장수(大腸兪)·정천(定喘)을 자침하면 기관지 천식 급성악화기의 폐기능(PEF 등)·증상이 개선됨을 보인 임상시험.
 [^17]: [Comparative study on infrared radiation spectrum of yuan point and Xiahe point of the large intestine channel in the patient of ulcerative colitis]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2008-01. [관찰연구, 34명] [PMID 18257191](https://pubmed.ncbi.nlm.nih.gov/18257191/) — 궤양성대장염 환자에서 합곡(LI4)·상거허(ST37) 혈위의 적외선 복사 스펙트럼이 건강인과 유의하게 다름을 확인. 합곡이 장 병변 변화를 더 민감하게 반영.
 [^18]: Exploring the relationship between colorectal polyps and pulmonary nodules based on the theory of the lung and the large intestine being internally and externally connected. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2025-06. [관찰연구] [DOI 10.19852/j.cnki.jtcm.2025.03.003](https://doi.org/10.19852/j.cnki.jtcm.2025.03.003) [PMID 40524308](https://pubmed.ncbi.nlm.nih.gov/40524308/) — 폐여대장상표리 이론에 근거해 대장 용종(특히 재발성·좌측결장·선종성)과 폐결절의 동반 위험을 제시. 고위험군 환자에게 정기적인 대장내시경과 폐 정밀검사 병행을 권고.
 [^19]: Symptomatic Treatment of Acute Traveler's Diarrhea With Acupuncture at Stomach 36 (ST36) and Large Intestine 4 (LI4) Acupuncture Points. _Cureus_. 2025-03. [증례 보고, 1명] [DOI 10.7759/cureus.81136](https://doi.org/10.7759/cureus.81136) [PMID 40276412](https://pubmed.ncbi.nlm.nih.gov/40276412/) — 족삼리(ST36)·합곡(LI4) 침 치료로 약물 없이 급성 여행자 설사의 빈도·중증도가 개선된 증례. 자원 제한 환경의 보조적 증상 관리 옵션.

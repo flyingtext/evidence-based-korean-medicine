@@ -370,7 +370,7 @@
 
 관원·기해·명문·신수·신궐(神闕)의 **애구(艾灸)** 및 **격강구(隔薑灸)·격부자병구(隔附子餅灸)** 가 비신양허 관리의 중심축을 이룬다.
 
-> **참고 근거** — CKD 환자를 대상으로 한 코크란 체계적 문헌고찰은 지압(수기 자극)이 투석 환자의 우울·피로·수면장애를 단기적으로 개선할 수 있다는 낮은 수준의 근거를 확인했다[^21]. 별도의 체계적 문헌고찰에서도 지압·반사요법·마사지·침이 CKD 환자의 수면장애·피로·요독성 가려움증 완화에 고려될 수 있다고 정리했다[^22]. 침구의 CKD에 대한 작용기전을 정리한 문헌 고찰은 산화 스트레스 억제·염증 감소·혈역학 개선·족세포 구조 유지·에너지 대사 증진을 근거로 제시했다[^23]. 23개 무작위대조시험(1,571명)을 종합한 메타분석에서는 CKD 환자에게 기본 치료와 뜸을 병행하면 혈청 크레아티닌·요단백·혈중 요소질소가 낮아지고 삶의 질이 개선되는 경향이 확인되었다[^24]. 신수혈(BL23)에 간접 뜸을 시행한 임상시험(43명)에서는 신동맥 저항지수(RI)가 유의하게 감소했고[^25], 별도 연구(32명)에서도 신유혈 뜸이 신장 내 이완기말 혈류속도(EDV)를 증가시키고 저항지수를 낮추었다[^26] — 뜸을 통한 온신 자극이 신혈역학적으로 측정 가능한 개선을 만들어낸다는 일관된 근거다.
+> **참고 근거** — CKD 환자를 대상으로 한 코크란 체계적 문헌고찰은 지압(수기 자극)이 투석 환자의 우울·피로·수면장애를 단기적으로 개선할 수 있다는 낮은 수준의 근거를 확인했다[^21]. 별도의 체계적 문헌고찰에서도 지압·반사요법·마사지·침이 CKD 환자의 수면장애·피로·요독성 가려움증 완화에 고려될 수 있다고 정리했다[^22]. 침구의 CKD에 대한 작용기전을 정리한 문헌 고찰은 산화 스트레스 억제·염증 감소·혈역학 개선·족세포 구조 유지·에너지 대사 증진을 근거로 제시했다[^23]. 23개 무작위대조시험(1,571명)을 종합한 메타분석에서는 CKD 환자에게 기본 치료와 뜸을 병행하면 혈청 크레아티닌·요단백·혈중 요소질소가 낮아지고 삶의 질이 개선되는 경향이 확인되었다[^24]. 신수혈(BL23)에 간접 뜸을 시행한 임상시험(43명)에서는 신동맥 저항지수(RI)가 유의하게 감소했고[^25], 별도 연구(32명)에서도 신수혈 뜸이 신장 내 이완기말 혈류속도(EDV)를 증가시키고 저항지수를 낮추었다[^26] — 뜸을 통한 온신 자극이 신혈역학적으로 측정 가능한 개선을 만들어낸다는 일관된 근거다.
 
 ---
 
@@ -420,7 +420,7 @@
 - 복막투석 관련 합병증(빈혈·소화기 증상·소양감)에 변증별 한약을 적용한 증례가 보고되었다[^48].
 
 **침구·구법**
-- 특발성 막성 신병증(비신양허 및 혈어)에 신유(BL23)·비유(BL20) 등에 애구를 병행한 임상시험(60명)에서 기초 치료 단독보다 신기능 회복·고응고상태 완화가 더 우수했다[^49]. 이는 11-4절에서 다룬 침구·구법의 CKD 신혈역학적 근거(신동맥 저항지수 개선 등[^25][^26])와 함께, 비신양허형 CKD에서 구법 병용의 근거를 강화한다.
+- 특발성 막성 신병증(비신양허 및 혈어)에 신수(BL23)·비수(BL20) 등에 애구를 병행한 임상시험(60명)에서 기초 치료 단독보다 신기능 회복·고응고상태 완화가 더 우수했다[^49]. 이는 11-4절에서 다룬 침구·구법의 CKD 신혈역학적 근거(신동맥 저항지수 개선 등[^25][^26])와 함께, 비신양허형 CKD에서 구법 병용의 근거를 강화한다.
 
 #### ⑤ 예후
 
@@ -721,7 +721,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 
 - 진무탕의 약동학·기전과 신장질환·심부전 등 광범위한 임상 응용을 정리한 문헌 고찰이 축적되어 있다(9-3절 참고 근거)[^15]. 만성 심부전에 대한 진무탕의 유효성·안전성을 검증하는 체계적 문헌고찰·메타분석 프로토콜이 다수 등록되어 있다[^16][^17][^18].
 - 중증 심부전·심근병증 환자에게 허증(虛證) 개념에 기반한 보약(補藥) 처방을 적용하면 심기능 개선·증상 완화·입원율 감소를 기대할 수 있다는 문헌 고찰이 있다[^96] — 현대 심부전 관리에 "허증-보법" 개념을 보완적으로 적용하려는 시도다.
-- 특발성 막성 신병증(비신양허 및 혈어)에서 신유·비유 애구 병용이 신기능 회복·고응고상태 완화에 기여한 근거는 12-④절에서 다룬 바와 같다[^49].
+- 특발성 막성 신병증(비신양허 및 혈어)에서 신수·비수 애구 병용이 신기능 회복·고응고상태 완화에 기여한 근거는 12-④절에서 다룬 바와 같다[^49].
 - 만성 신장질환 환자에서 뜸을 부가요법으로 병용하면 혈청 크레아티닌·요단백·삶의 질이 개선될 수 있다는 메타분석은 부종 완화 효과와도 연결된다(11-4절 참고)[^24].
 
 #### ⑤ 예후
@@ -744,14 +744,14 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 
 | 질환군 | 대표 표지 증상 | 근거 밀도 | 대표 처방·기법 |
 |---|---|---|---|
-| 만성신부전·신장질환(12절) | 요단백, 부종, 야뇨/청장 | 높음 — 다기관 변증-병리 상관 연구 다수 | 진무탕, 온보비신 한약+뜸, 신유·비유 구법 |
+| 만성신부전·신장질환(12절) | 요단백, 부종, 야뇨/청장 | 높음 — 다기관 변증-병리 상관 연구 다수 | 진무탕, 온보비신 한약+뜸, 신수·비유 구법 |
 | IBS-D(13절) | 오경설사, 완복냉통 | 높음 — 대규모 RCT·메타분석 다수 | 사신환, 신배고창캡슐, 뜸 |
 | 궤양성대장염 등 만성 장질환(14절) | 관해기 백색 점액변 | 중간 — 변증-면역지표 상관 연구 중심 | 쾌젠닝 고약, 침+생물학적제제 병용 |
 | 만성 B형간염·간경변(15절) | 면역관용기, 진행 시 어혈 겸병 | 높음 — 변증-분자지표 상관 연구 최다 | 온신방+항바이러스제 병용 |
 | 갑상선기능저하증(16절) | 냉감, 부종, 변비/설사 | 낮음 — 비신양허 특이적 대조시험 부재 | 침·화관, 통합치료(보조적) |
 | 만성췌장염(17절) | 완곡불화, 지방변 | 낮음 — 개별 처방 대조 근거 부족 | 청이탕, 홍삼(보조) |
 | 노인성 만성설사·노쇠·피로(18절) | 만성 피로, 근감소, 노년 변비/설사 | 중간 — 소규모 RCT 중심 | 뜸+매선, 신기고 |
-| 만성부종증후군(19절) | 전신 부종, 복수, 수기능심 | 중간~높음 — 진무탕 계열 근거 축적 | 진무탕, 신유·비유 구법 |
+| 만성부종증후군(19절) | 전신 부종, 복수, 수기능심 | 중간~높음 — 진무탕 계열 근거 축적 | 진무탕, 신수·비유 구법 |
 
 > 위 비교표는 임상 틀이지 동일 근거수준의 권고가 아니다. "근거 밀도"는 이 문서가 확보한 데이터베이스 검색 결과를 기준으로 한 상대적 평가이며, 근거가 낮은 질환군(갑상선기능저하증·만성췌장염)이라 하여 비신양허 변증 자체의 임상적 타당성이 낮다는 뜻은 아니다. 향후 해당 영역에서 비신양허 특이적 대조 임상시험이 축적되어야 한다.
 
@@ -915,7 +915,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 [^23]: Mechanisms underlying acupuncture therapy in chronic kidney disease: A narrative overview of preclinical studies and clinical trials.. Liu X 외. _Frontiers in nephrology_. 2022. [문헌 고찰] [DOI 10.3389/fneph.2022.1006506](https://doi.org/10.3389/fneph.2022.1006506) [PMID 37675019](https://pubmed.ncbi.nlm.nih.gov/37675019/) — 침 치료는 산화 스트레스 억제, 염증 감소, 혈역학 개선, 족세포(podocyte) 구조 유지 및 에너지 대사 증진을 통해 만성 신장 질환의 진행을 늦추고 증상을 완화하는 효과가 있다.
 [^24]: Moxibustion as an Adjuvant Therapy for Chronic Kidney Disease: A Systematic Review and Meta‐Analysis of 23 Randomized Controlled Trials. Xu Zhou 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석, 1571명] [DOI 10.1155/2020/6128673](https://doi.org/10.1155/2020/6128673) — 만성 신장 질환 환자에게 기본 치료와 함께 灸(뜸, moxibustion)를 병행할 경우, 혈청 크레아티닌, 요단백 배설량, 혈중 요소 질소 수치를 낮추고 삶의 질을 개선하는 데 도움이 될 수 있다.
 [^25]: Traditional Thermal Therapy with Indirect Moxibustion Decreases Renal Arterial Resistive Index in Patients with Chronic Kidney Disease.. Matsumoto-Miyazaki J 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2016-04. [임상시험, 43명] [DOI 10.1089/acm.2015.0276](https://doi.org/10.1089/acm.2015.0276) [PMID 26983055](https://pubmed.ncbi.nlm.nih.gov/26983055/) — 만성 신장 질환(CKD) 환자에게 신수혈(BL23)에 간접 뜸(Indirect moxibustion) 치료를 시행했을 때, 신동맥의 저항 지수(RI)가 유의하게 감소하여 신혈역학적 개선 효과가 나타났다.
-[^26]: [Effect of Moxibustion on Renal Hemodynamics in Patients with Chronic Kidney Disease].. Wang H 외. _Zhen ci yan jiu = Acupuncture research_. 2018-11-25. [임상시험, 32명] [DOI 10.13702/j.1000-0607.170539](https://doi.org/10.13702/j.1000-0607.170539) [PMID 30585470](https://pubmed.ncbi.nlm.nih.gov/30585470/) — 만성 신장질환(CKD) 환자에게 신유(腎兪, BL23) 혈에 뜸 치료를 시행했을 때, 신장 내 혈류의 이완기 말 속도(EDV)가 증가하고 신저항지수(RI)가 유의하게 감소하는 결과가 나타났습니다.
+[^26]: [Effect of Moxibustion on Renal Hemodynamics in Patients with Chronic Kidney Disease].. Wang H 외. _Zhen ci yan jiu = Acupuncture research_. 2018-11-25. [임상시험, 32명] [DOI 10.13702/j.1000-0607.170539](https://doi.org/10.13702/j.1000-0607.170539) [PMID 30585470](https://pubmed.ncbi.nlm.nih.gov/30585470/) — 만성 신장질환(CKD) 환자에게 신수(腎兪, BL23) 혈에 뜸 치료를 시행했을 때, 신장 내 혈류의 이완기 말 속도(EDV)가 증가하고 신저항지수(RI)가 유의하게 감소하는 결과가 나타났습니다.
 [^27]: [Multicenter prospective study on relationship of TCM syndrome type and renal pathology in 286 patients with IgA nephropathy].. Chen XM 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2004-02. [관찰연구, 286명] [PMID 15015437](https://pubmed.ncbi.nlm.nih.gov/15015437/) — IgA 신증 환자의 한의학적 변증 유형은 신장 병리적 손상 정도와 유의미한 상관관계가 있으며, 특히 비신양허(脾腎陽虛)형 환자에서 가장 심각한 병리적 변화가 나타난다.
 [^28]: [A multi-centeric epidemiological survey on TCM syndrome in 1016 patients with IgA nephropathy and analysis of its relevant factors].. Chen XM 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-03. [관찰연구, 1016명] [PMID 16613259](https://pubmed.ncbi.nlm.nih.gov/16613259/) — IgA 신병증 환자에서 기음양허(氣陰兩虛) 변증이 가장 흔하게 나타나며, 변증 유형이 요단백, 혈압, 신장 손상 지표 등 임상적 예후와 밀접한 관련이 있음을 확인하였다.
 [^29]: [Study on correlation between TCM syndrome and urinary protein in patients with early chronic kidney diseases].. Wan YG 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2008-09. [관찰연구, 199명] [PMID 19065893](https://pubmed.ncbi.nlm.nih.gov/19065893/) — 초기 만성 신장질환 환자에서 비신(脾腎)의 기능 저하가 요단백 발생의 핵심 병리와 밀접한 관련이 있음이 확인되었다.
@@ -938,7 +938,7 @@ IBS-D는 비신양허가 가장 전형적으로 드러나는 소화기 질환군
 [^46]: [Treatment of 100 children with infantile nephrotic syndrome by integrated traditional Chinese medicine and Western medicine].. Wei J. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 1992-08. [임상시험, 150명] [PMID 1477501](https://pubmed.ncbi.nlm.nih.gov/1477501/) — 영아 신증후군 환자에게 기존의 양방 치료(프레드니솔론, 시클로포스파미드 등)에 변증시치(辨證施治)에 따른 한약 치료를 병행하는 것이 양방 단독 치료보다 임상적 유효율이 높고, 혈장 알부민 증가, 콜레스테롤 감소, 면역 기능 및 코르티솔 수치 개선에 더 효과적이다.
 [^47]: A Clinical Multicenter Randomized Controlled Study on JianpiQinghua Decoction in Treating Stage 3 Chronic Kidney Disease with A Syndrome Type of Dampness-heat due to Spleen Deficiency.. Yu KN 외. _Zhongguo yi xue ke xue yuan xue bao. Acta Academiae Medicinae Sinicae_. 2016-12-20. [임상시험, 270명] [DOI 10.3881/j.issn.1000-503X.2016.06.010](https://doi.org/10.3881/j.issn.1000-503X.2016.06.010) [PMID 28065235](https://pubmed.ncbi.nlm.nih.gov/28065235/) — 비위허약 및 습열 증후군을 동반한 만성 신장 질환 3단계 환자에게 건비청화탕(JianpiQinghua Decoction)을 투여하면 한방 임상 증상을 유의하게 개선하고 삶의 질과 예후를 높일 수 있다.
 [^48]: Treatment of complications due to peritoneal dialysis for chronic renal failure with traditional Chinese medicine.. Wei L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 1999-03. [증례 보고] [PMID 10453576](https://pubmed.ncbi.nlm.nih.gov/10453576/) — 만성 신부전 환자의 복막투석 중 발생하는 다양한 합병증(빈혈, 소화기 증상, 피부 가려움 등)에 대해 증상별로 세분화된 한약 처방을 적용하여 증상을 완화하고 신기능을 개선할 수 있음을 시사한다.
-[^49]: [Effect of moxibustion on renal function and hypercoagulable state in patients with idiopathic membranous nephropathy of low to medium risk with spleen-kidney deficiency and blood stasis].. Mao JY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-11-12. [임상시험, 60명] [DOI 10.13703/j.0255-2930.20200907-0005](https://doi.org/10.13703/j.0255-2930.20200907-0005) [PMID 34762373](https://pubmed.ncbi.nlm.nih.gov/34762373/) — 비신양허 및 혈어 증상을 동반한 저·중위험 특발성 막성 신병 환자에게 기초 치료와 함께 腎俞(신유), 脾俞(비유) 등의 주요 혈위에 艾灸(애구) 치료를 병행하는 것이 단독 기초 치료보다 임상 증상 개선, 신기능 회복 및 고응상태 완화에 더 효과적이다.
+[^49]: [Effect of moxibustion on renal function and hypercoagulable state in patients with idiopathic membranous nephropathy of low to medium risk with spleen-kidney deficiency and blood stasis].. Mao JY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-11-12. [임상시험, 60명] [DOI 10.13703/j.0255-2930.20200907-0005](https://doi.org/10.13703/j.0255-2930.20200907-0005) [PMID 34762373](https://pubmed.ncbi.nlm.nih.gov/34762373/) — 비신양허 및 혈어 증상을 동반한 저·중위험 특발성 막성 신병 환자에게 기초 치료와 함께 腎俞(신수), 脾兪(비수) 등의 주요 혈위에 艾灸(애구) 치료를 병행하는 것이 단독 기초 치료보다 임상 증상 개선, 신기능 회복 및 고응상태 완화에 더 효과적이다.
 [^50]: Efficacy and safety of Chinese medicine JCM-16021 for diarrhea-predominant irritable bowel syndrome: study protocol for a multi-center, randomized, double-blind, placebo controlled clinical trial.. Zheng Y 외. _Chinese medicine_. 2021-11-13. [임상시험, 392명] [DOI 10.1186/s13020-021-00530-2](https://doi.org/10.1186/s13020-021-00530-2) [PMID 34774080](https://pubmed.ncbi.nlm.nih.gov/34774080/) — 본 연구는 간울비허(肝鬱脾虛) 변증을 가진 설사형 과민성 장 증후군(IBS-D) 환자를 대상으로 중약 JCM-16021의 유효성과 안전성을 검증하기 위한 프로토콜 연구입니다.
 [^51]: Study on the clinical mechanism of Tong-Xie-An-Chang Decoction in the treatment of diarrheal irritable bowel syndrome based on single-cell sequencing technology.. Tan X 외. _Medicine_. 2020-12-24. [임상시험, 72명] [DOI 10.1097/MD.0000000000023868](https://doi.org/10.1097/MD.0000000000023868) [PMID 33350782](https://pubmed.ncbi.nlm.nih.gov/33350782/) — 본 연구는 간울비허(肝鬱脾虛) 변증을 가진 설사형 과민성 장 증후군(IBS-D) 환자에게 통설안장탕(通瀉安腸湯)을 투여하여 그 임상적 유효성과 안전성을 검증하고, 단일 세포 시퀀싱 기술을 통해 면역학적 기전을 규명하고자 한다.
 [^52]: The Chinese herbal formula Huoxiang Zhengqi for diarrhea-predominant irritable bowel syndrome (CHAIRS): a study protocol for a double-blinded randomized controlled trial.. Guo X 외. _Trials_. 2021-07-26. [임상시험, 212명] [DOI 10.1186/s13063-021-05444-w](https://doi.org/10.1186/s13063-021-05444-w) [PMID 34311755](https://pubmed.ncbi.nlm.nih.gov/34311755/) — 본 연구는 설사형 과민성 대장 증후군(IBS-D) 환자를 대상으로 곽향정기산(HXZQ)의 유효성과 안전성을 검증하기 위한 임상 시험 프로토콜이다.

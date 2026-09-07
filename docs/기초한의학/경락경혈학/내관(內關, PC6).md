@@ -72,7 +72,7 @@ CINV에 대한 경혈 자극의 근거는 다수의 메타분석·체계적 고�
 
 #### 4. 심혈관 질환
 
-관상동맥성 심장질환(CHD) 환자에서 내관혈 침 치료가 흉통·심장 관련 증상을 완화하는 보조적 수단으로 활용될 수 있다는 범위 문헌고찰(scoping review)이 있으며,[^53] 기허혈어(氣虛血瘀) 증후군을 동반한 만성 심부전 환자에서 내관혈 황기주사액 약침이 심기능·운동 내성·삶의 질을 유의하게 개선했다.[^54] 급성 심근경색 환자의 흉통 완화에 내관혈 소량 모르핀 주입이 정맥·피하 주사보다 진통 효과가 빠르고 오래 지속되며 부작용이 적었다.[^55] 발작성 심실상성빈맥(PSVT) 환자에게 내관혈 침 치료를 적용한 증례도 보고되었다.[^56] 만성 안정형 협심증 환자에서 내관·심유(BL15) 침 치료가 호중구/림프구 비율 등 염증 지표를 개선하였고,[^57] 관상동맥성 심장질환 치료에 내관·심유 배합의 유효성을 평가한 연구,[^58] 심장판막 치환술 환자의 산화 스트레스 지표 개선 연구[^59]도 있다. 동방결절(sinoatrial node) 기능에 대한 내관혈 침 자극의 영향,[^60] 심기허(心氣虛) 환자에서 내관혈 열민감 반응을 관찰한 연구[^61]는 내관혈-심장 기능 간 상관에 대한 생리학적 근거를 제공한다.
+관상동맥성 심장질환(CHD) 환자에서 내관혈 침 치료가 흉통·심장 관련 증상을 완화하는 보조적 수단으로 활용될 수 있다는 범위 문헌고찰(scoping review)이 있으며,[^53] 기허혈어(氣虛血瘀) 증후군을 동반한 만성 심부전 환자에서 내관혈 황기주사액 약침이 심기능·운동 내성·삶의 질을 유의하게 개선했다.[^54] 급성 심근경색 환자의 흉통 완화에 내관혈 소량 모르핀 주입이 정맥·피하 주사보다 진통 효과가 빠르고 오래 지속되며 부작용이 적었다.[^55] 발작성 심실상성빈맥(PSVT) 환자에게 내관혈 침 치료를 적용한 증례도 보고되었다.[^56] 만성 안정형 협심증 환자에서 내관·심수(BL15) 침 치료가 호중구/림프구 비율 등 염증 지표를 개선하였고,[^57] 관상동맥성 심장질환 치료에 내관·심수 배합의 유효성을 평가한 연구,[^58] 심장판막 치환술 환자의 산화 스트레스 지표 개선 연구[^59]도 있다. 동방결절(sinoatrial node) 기능에 대한 내관혈 침 자극의 영향,[^60] 심기허(心氣虛) 환자에서 내관혈 열민감 반응을 관찰한 연구[^61]는 내관혈-심장 기능 간 상관에 대한 생리학적 근거를 제공한다.
 
 > 변증 없는 관행적 취혈은 근거에 부합하지 않는다. 심혈관 질환에서 내관혈 자극은 표준 심장 약물·시술 치료를 보조하는 수준으로 이해해야 한다.
 
@@ -135,7 +135,7 @@ CINV에 대한 경혈 자극의 근거는 다수의 메타분석·체계적 고�
 | 수술 후 오심·구토(PONV) | 내관(PC6) | (단독 또는 족삼리 ST36) | [^2][^3][^4][^9] |
 | 항암 화학요법 오심·구토(CINV) | 내관(PC6) | 족삼리(ST36)·공손(SP4) | [^21][^23][^32][^36] |
 | 임신 중 오심·구토(NVP) | 내관(PC6) | 족삼리(ST36)·공손(SP4) | [^39][^40][^41] |
-| 관상동맥성 심장질환·협심증 | 내관(PC6) | 심유(BL15) | [^53][^58][^57] |
+| 관상동맥성 심장질환·협심증 | 내관(PC6) | 심수(BL15) | [^53][^58][^57] |
 | 만성 심부전 | 내관(PC6) | (황기주사액 약침) | [^54] |
 | 위마비·위장관 기능 저하 | 내관(PC6) | 중완(CV12)·족삼리(ST36) | [^62][^68] |
 | 만성 불안 | 내관(PC6) | 신문(HT7)·태충(LR3) | [^71] |
@@ -348,7 +348,7 @@ NVP 관리는 Cochrane을 포함한 다수의 체계적 고찰·메타분석으�
 [^88]: Far-infrared stimulation of Neiguan acupoints improves heart rate variability and ameliorate fatigue in hemodialysis patients. [임상시험] [DOI 10.1097/jcma.0000000000001060](https://doi.org/10.1097/jcma.0000000000001060) — 혈액투석 환자 내관혈 원적외선이 피로·HRV 개선.
 [^89]: [Effect of pre-acupuncture at Neiguan (PC 6) and Zusanli (ST 36) on exercise-induced fatigue]. Jiang T 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-10-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.10.008](https://doi.org/10.13703/j.0255-2930.2019.10.008) [PMID 31621258](https://pubmed.ncbi.nlm.nih.gov/31621258/) — 운동 전 내관(PC6)과 족삼리(ST36)에 시행한 선제적 침 치료가 운동 후 발생하는 주관적 피로감과 혈청 젖산 및 LDH 수치, 심박수 상승을 유의하게 억제함을 확인하였다.
 [^90]: Effect of Meridian Acupressure on Aerobic Performance of Healthy Young Population: A Randomized Controlled Study. Ahmedov S 외. _Journal of alternative and complementary medicine (New York, N.Y.)_. 2018-06. [임상시험] [DOI 10.1089/acm.2017.0089](https://doi.org/10.1089/acm.2017.0089) [PMID 29461858](https://pubmed.ncbi.nlm.nih.gov/29461858/) — 특정 혈위(내관, 거궐, 심수)에 대한 지압과 온열 자극이 건강한 젊은 남성의 최대 유산소 능력(VO2max)을 유의하게 향상시킬 수 있음을 시사한다.
-[^91]: [Effect of electroacupuncture at Jiaji (EX-B 2) on drug craving of heroin addicts and beta-EP and Dyn-A in plasma]. Mu JP 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-11. [임상시험] [PMID 21246840](https://pubmed.ncbi.nlm.nih.gov/21246840/) — T5-T7 협척혈(夾脊穴)과 신유혈(腎兪穴)의 전침 치료는 헤로인 중독자의 약물 갈망을 억제하고 재발률을 낮추는 데 효과적이며, 이는 혈장 내 베타-엔도르핀과 다이노핀-A의 증가와 관련이 있는 것으로 보인다.
+[^91]: [Effect of electroacupuncture at Jiaji (EX-B 2) on drug craving of heroin addicts and beta-EP and Dyn-A in plasma]. Mu JP 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2010-11. [임상시험] [PMID 21246840](https://pubmed.ncbi.nlm.nih.gov/21246840/) — T5-T7 협척혈(夾脊穴)과 신수혈(腎兪穴)의 전침 치료는 헤로인 중독자의 약물 갈망을 억제하고 재발률을 낮추는 데 효과적이며, 이는 혈장 내 베타-엔도르핀과 다이노핀-A의 증가와 관련이 있는 것으로 보인다.
 [^92]: Increase in the Vagal Modulation by Acupuncture at Neiguan Point in the Healthy Subjects. Sheng-Teng Huang 외. _The American Journal of Chinese Medicine_. 2005-01. [임상시험] [DOI 10.1142/s0192415x0500276x](https://doi.org/10.1142/s0192415x0500276x) — 內關(내관, P6) 혈위에 대한 침 치료가 건강한 성인에서 미주신경 활성도를 유의하게 증가시켜 부교감신경계를 조절할 수 있음을 시사한다.
 [^93]: Brain functional changes in chronic partial sleep-deprivation population by electroacupuncture at shenmen(HT7) and neiguan (PC6) acupoints. [임상시험] [DOI 10.1016/j.imr.2025.101250](https://doi.org/10.1016/j.imr.2025.101250) [PMID 41816267](https://pubmed.ncbi.nlm.nih.gov/41816267/) — 신문·내관 전침이 DMN·변연계 조절로 인지·정서 개선.
 [^94]: [Investigation on the changes of dependent signal on the amplitude of low frequency fluctuations at blood oxygen level in brain after acupuncture Neiguan (PC 6)]. Han YY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2009-08. [실험연구] [PMID 19947271](https://pubmed.ncbi.nlm.nih.gov/19947271/) — 내관혈(PC 6) 침 자극이 뇌의 대상회(cingulate gyrus), 전두회(frontal gyrus) 등 정신 및 신경 질환과 밀접한 관련이 있는 영역의 ALFF 값을 변화시킴을 확인하였다.

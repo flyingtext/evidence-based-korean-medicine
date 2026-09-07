@@ -170,7 +170,7 @@
 | 합곡(LI4) | 노궁(勞宮, PC8) | 합곡은 손등 제1·2 중수골 사이, 노궁은 손바닥 반대편 |
 | 양계(LI5) | 태연(太淵, LU9) | 양계는 손등 쪽 요골경상돌기 원위, 태연은 손목 요측 촌구 |
 | 곡지(LI11) | 척택(尺澤, LU5) | 곡지는 요측, 척택은 척측으로 팔꿈치 주름 위 대칭적 위치 |
-| 견우(LI15) | 견료(肩髎, SJ14) | 견우는 어깨 앞쪽, 견료는 어깨 뒤쪽 오목한 곳 |
+| 견우(LI15) | 견료(肩髎, TE14) | 견우는 어깨 앞쪽, 견료는 어깨 뒤쪽 오목한 곳 |
 | 영향(LI20) | 사백(四白, ST2) | 영향은 콧방울 옆, 사백은 그 아래 눈확 부위 |
 
 > 이 대조표는 취혈 시 혼동을 방지하기 위한 참고 자료이며, 실제 임상에서는 개별 경혈 문서의 정밀한 취혈법을 따라야 한다.
@@ -209,7 +209,7 @@
 
 **소속·혈성**: 대장경의 합혈(合穴)이자 오행상 토(土)에 배속된다[교과서적 근거]. "합주역기이설(合主逆氣而泄)"의 원칙에 따라 기가 거스르는 병증과 피부질환·고혈압 등 실열증(實熱證)의 사법(瀉法) 요혈로 널리 쓰인다[교과서적 근거].
 
-**주치와 근거 개관**: 곡지혈은 이미 별도 문서인 곡지(曲池, LI11)에서 혈압·심혈관, 뇌졸중·신경재활, 피부·알레르기, 비만·대사, 소화기, 근골격·통증, 안과, 암·항암 치료 보조, 면역·자율신경, 수술·마취 보조 등 광범위한 분야의 임상 근거를 상세히 정리하고 있다. 본 문서에서는 대장경의 합혈이라는 위상에 초점을 맞추어 핵심만 요약한다. 화학요법 유발 말초신경병증(CIPN) 치료에 효과적인 핵심 혈위로 족삼리(ST36)·곡지(LI11)·합곡(LI4)·태충(LR3)·삼음교(SP6)가 데이터 마이닝으로 제시되었으며, 특히 곡지-족삼리 및 삼음교-족삼리 조합의 활용 가치가 시사되었다[^20]. 침 치료가 CIPN 환자에서 약물이나 가짜 침보다 유효율을 높이고 통증 완화 및 신경전도속도 회복에 효과적이며 안전함을 보인 메타분석도 이 핵심 혈위 조합을 뒷받침한다[^21]. 아토피 피부염 침 치료 시 곡지와 음릉천(陰陵泉, SP10)의 조합이 빈번하게 사용되며, 족삼리·삼음교·합곡 등이 핵심 혈위 네트워크를 형성한다는 범위 고찰(scoping review)도 있다[^22]. 요독성 소양증 치료에 효과적인 핵심 경혈 조합을 데이터 마이닝으로 분석한 연구는 곡지를 포함한 조합을 제시하였다[^23]. 뇌졸중 후 통증(특히 어깨 통증) 관리에서 곡지가 견우(肩髃, LI15)·견료(肩髎, SJ14)와 함께 주요 취혈 부위가 된다는 범위 고찰도 있다[^24].
+**주치와 근거 개관**: 곡지혈은 이미 별도 문서인 곡지(曲池, LI11)에서 혈압·심혈관, 뇌졸중·신경재활, 피부·알레르기, 비만·대사, 소화기, 근골격·통증, 안과, 암·항암 치료 보조, 면역·자율신경, 수술·마취 보조 등 광범위한 분야의 임상 근거를 상세히 정리하고 있다. 본 문서에서는 대장경의 합혈이라는 위상에 초점을 맞추어 핵심만 요약한다. 화학요법 유발 말초신경병증(CIPN) 치료에 효과적인 핵심 혈위로 족삼리(ST36)·곡지(LI11)·합곡(LI4)·태충(LR3)·삼음교(SP6)가 데이터 마이닝으로 제시되었으며, 특히 곡지-족삼리 및 삼음교-족삼리 조합의 활용 가치가 시사되었다[^20]. 침 치료가 CIPN 환자에서 약물이나 가짜 침보다 유효율을 높이고 통증 완화 및 신경전도속도 회복에 효과적이며 안전함을 보인 메타분석도 이 핵심 혈위 조합을 뒷받침한다[^21]. 아토피 피부염 침 치료 시 곡지와 음릉천(陰陵泉, SP10)의 조합이 빈번하게 사용되며, 족삼리·삼음교·합곡 등이 핵심 혈위 네트워크를 형성한다는 범위 고찰(scoping review)도 있다[^22]. 요독성 소양증 치료에 효과적인 핵심 경혈 조합을 데이터 마이닝으로 분석한 연구는 곡지를 포함한 조합을 제시하였다[^23]. 뇌졸중 후 통증(특히 어깨 통증) 관리에서 곡지가 견우(肩髃, LI15)·견료(肩髎, TE14)와 함께 주요 취혈 부위가 된다는 범위 고찰도 있다[^24].
 
 **자침법**: 직자로 1~1.5촌 자침한다. 팔꿈치 관절 인근이므로 요골신경 심지(深枝)의 주행에 유의해야 한다[교과서적 근거].
 
@@ -260,7 +260,7 @@
 
 **대장습열(大腸濕熱)**: 습열(濕熱)이 대장에 응결되어 전도 기능을 저해하는 병기로, 복통·이급후중(裏急後重)·설사 또는 점액변·항문 작열감을 주증으로 한다[교과서적 근거]. 설태는 황니(黃膩), 맥상은 활삭(滑數)이다[교과서적 근거]. 치법은 청열조습(淸熱燥濕)·통조대장(通調大腸)이며, 곡지·합곡·천추·상거허(上巨虛, ST37) 등이 응용된다.
 
-**대장진액부족(大腸津液不足)**: 진액이 대장을 자윤(滋潤)하지 못하여 대변이 건조·비결(秘結)해지는 병기로, 변비·구건(口乾)·피부건조를 주증으로 한다[교과서적 근거]. 흔히 음허(陰虛) 체질이나 노인·산후 환자에서 나타난다[교과서적 근거]. 치법은 자음윤장(滋陰潤腸)이며, 지구(支溝, SJ6)·조해(照海, KI6)·상양(上陽) 등과 함께 대장경의 합혈인 곡지가 배오된다.
+**대장진액부족(大腸津液不足)**: 진액이 대장을 자윤(滋潤)하지 못하여 대변이 건조·비결(秘結)해지는 병기로, 변비·구건(口乾)·피부건조를 주증으로 한다[교과서적 근거]. 흔히 음허(陰虛) 체질이나 노인·산후 환자에서 나타난다[교과서적 근거]. 치법은 자음윤장(滋陰潤腸)이며, 지구(支溝, TE6)·조해(照海, KI6)·상양(上陽) 등과 함께 대장경의 합혈인 곡지가 배오된다.
 
 **대장기체(大腸氣滯)**: 기(氣)의 소통이 막혀 복부 팽만·변비 또는 배변 후 불쾌감을 주증으로 하는 병기로, 정지(情志) 요인이나 활동 부족과 관련되는 경우가 많다[교과서적 근거]. 치법은 행기통부(行氣通腑)이며, 천추·대횡(大橫, SP15)·태충(太衝, LR3)이 함께 응용된다.
 
@@ -571,7 +571,7 @@
 [^21]: Efficacy and Safety of Acupuncture against Chemotherapy‐Induced Peripheral Neuropathy: A Systematic Review and Meta‐Analysis. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석] [DOI 10.1155/2020/8875433](https://doi.org/10.1155/2020/8875433) — 본 연구는 항암화학요법으로 인한 말초신경병증(CIPN) 환자에게 침 치료가 약물이나 가짜 침보다 유효율을 높이고 통증 완화 및 신경전도속도 회복에 효과적이며 안전함을 시사한다. 임상 현장에서 CIPN 환자의 증상 관리를 위해 합곡(LI4), 곡지(LI11), 족삼리(ST36) 등의 주요 혈위를 활용한 침 치료를 고려할 수 있다.
 [^22]: Potential Acupoint Prescriptions and Outcome Reporting for Acupuncture in Atopic Eczema: A Scoping Review. _Evidence-Based Complementary and Alternative Medicine_. 2021-06-26. [체계적 고찰] [DOI 10.1155/2021/9994824](https://doi.org/10.1155/2021/9994824) — 아토피 피부염 침 치료 시 曲池(곡지, LI11)와 陰陵泉(음릉천, SP10)의 조합이 빈번하게 사용되며, 足三里(족삼리, ST36), 三陰交(삼음교, SP6), 合谷(합곡, LI4) 등이 핵심 혈위 네트워크를 형성하고 있음을 확인하였다.
 [^23]: An Apriori algorithm-based association rule analysis to identify acupoint combinations for treating uremic pruritus. _Tzu chi medical journal_. 연도 미상. [체계적 고찰] [DOI 10.4103/tcmj.tcmj_217_23](https://doi.org/10.4103/tcmj.tcmj_217_23) [PMID 38645789](https://pubmed.ncbi.nlm.nih.gov/38645789/) — 본 연구는 요독성 소양증(UP) 치료에 효과적인 핵심 경혈 조합을 데이터 마이닝 기법으로 제시하였다. 임상에서는 이문(TF4), 곡지(LI11), 격수(BL17), 이심(Extra14), 삼음교(SP6), 이폐(CO14), 혈해(SP10) 등의 경혈을 조합하여 사용할 때 치료 효율을 높일 수 있을 것으로 기대된다.
-[^24]: Acupuncture-related therapies for post-stroke pain management: a scoping review and evidence map. _Frontiers in neurology_. 2025. [체계적 고찰] [DOI 10.3389/fneur.2025.1604655](https://doi.org/10.3389/fneur.2025.1604655) [PMID 40843257](https://pubmed.ncbi.nlm.nih.gov/40843257/) — 침 관련 치료(체침, 전침, 두침, 뜸, 온침 등)는 뇌졸중 후 통증, 특히 어깨 통증 완화에 효과적인 중재 방법임이 확인되었다. 임상에서는 재활 치료와 침 치료를 병행하는 방식이 널리 사용되며, 견우(LI15), 견료(SJ14), 곡지(LI11) 등의 혈위가 주요 타겟이 된다.
+[^24]: Acupuncture-related therapies for post-stroke pain management: a scoping review and evidence map. _Frontiers in neurology_. 2025. [체계적 고찰] [DOI 10.3389/fneur.2025.1604655](https://doi.org/10.3389/fneur.2025.1604655) [PMID 40843257](https://pubmed.ncbi.nlm.nih.gov/40843257/) — 침 관련 치료(체침, 전침, 두침, 뜸, 온침 등)는 뇌졸중 후 통증, 특히 어깨 통증 완화에 효과적인 중재 방법임이 확인되었다. 임상에서는 재활 치료와 침 치료를 병행하는 방식이 널리 사용되며, 견우(LI15), 견료(TE14), 곡지(LI11) 등의 혈위가 주요 타겟이 된다.
 [^25]: [Effects of perioperative transcutaneous electrical acupoint stimulation on postoperative analgesia in patients undergoing shoulder arthroscopic surgery]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-01-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.01.004](https://doi.org/10.13703/j.0255-2930.2019.01.004) [PMID 30672250](https://pubmed.ncbi.nlm.nih.gov/30672250/) — 견관절경 수술 환자에게 경피전침자극(TEAS)을 시행하면 수술 후 통증을 완화하고 마약성 진통제(수펜타닐)의 사용량을 줄이며, 오심·구토와 같은 부작용을 감소시킬 수 있다. 특히 수술 전보다 수술 후에 합곡(LI 4)과 내관(PC 6) 혈자리에 TEAS를 적용하는 것이 진통 효과를 극대화하고 진통제 사용 시점을 늦추는 데 더 효과적이다.
 [^26]: [Floating needle therapy for postoperative functional rehabilitation in patients with surgical neck fracture of humerus: a randomized controlled trial]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-05-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.05.004](https://doi.org/10.13703/j.0255-2930.2019.05.004) [PMID 31099216](https://pubmed.ncbi.nlm.nih.gov/31099216/) — 상완골 외과경부 골절 수술 후 환자에게 부유침(Floating needle therapy)을 적용하는 것이 기존의 전침 치료보다 통증 감소와 어깨 관절 기능 회복 및 근막 유발점 제거에 더 효과적이다. 실제 임상에서 수술 후 재활 단계의 환자에게 근막 유발점을 타겟으로 한 부유침 요법을 도입함으로써 조기 기능 회복을 도모할 수 있을 것으로 기대된다.
 [^27]: A novel and alternative therapy for persistent allergic rhinitis via intranasal acupuncture: a randomized controlled trial. _European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery_. 2023-06. [임상시험] [DOI 10.1007/s00405-022-07793-x](https://doi.org/10.1007/s00405-022-07793-x) [PMID 36617611](https://pubmed.ncbi.nlm.nih.gov/36617611/) — 내영향(內迎香)과 비구(鼻丘) 혈위를 이용한 비강 내 침술은 지속성 알레르기 비염 환자의 코막힘, 후각 기능, 수면 질 개선에 있어 양방 치료(스테로이드 스프레이 및 항히스타민제)보다 즉각적이고 우수한 효과를 보였다.

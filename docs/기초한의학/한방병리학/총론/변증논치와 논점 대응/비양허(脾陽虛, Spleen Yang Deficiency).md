@@ -418,7 +418,7 @@ COPD 환자 코호트에서 신허(腎虛)가 동반된 **폐비신양허형(TDL
 
 #### 5-2. 구법(灸法)의 우선적 지위
 
-비양허는 "허한(虛寒)" 병기이므로 침보다 **뜸(灸)** 이 온후 작용을 직접 겨냥하는 우선적 치법으로 다뤄진다. 저·중위험 특발성 막성 신병증(비신양허·혈어 동반) 환자에서 신유(腎兪)·비유(脾兪) 등에 애구(艾灸)를 병행한 임상시험은 기초 치료 단독보다 임상 증상 개선·신기능 회복·고응상태 완화에 더 효과적이었다[^41]. AIDS 환자(비신양허 변증)에서 표준 HAART 치료에 천추(ST25)·신궐(CV8)·중완(CV12)·관원(CV4) 뜸 치료를 병행한 임상시험은 임상 증상 개선과 총 림프구 수 증가를 보였다[^130]. 비신양허형 비만·고지혈증 여성 환자에게 온침 치료와 이침 치료를 병행한 임상시험은 온침 단독보다 총콜레스테롤 감소·HDL-C 증가·종합 유효율 개선에서 우수했다[^89]. 비신양허형 설사형 과민성대장증후군 환자에게 독맥을 따라 시행하는 장사구(長蛇灸)를 양약과 병행한 임상시험은 복통·배변빈도 등 주요 증상 개선과 삶의 질 향상에 효과적이었다[^48].
+비양허는 "허한(虛寒)" 병기이므로 침보다 **뜸(灸)** 이 온후 작용을 직접 겨냥하는 우선적 치법으로 다뤄진다. 저·중위험 특발성 막성 신병증(비신양허·혈어 동반) 환자에서 신수(腎兪)·비수(脾兪) 등에 애구(艾灸)를 병행한 임상시험은 기초 치료 단독보다 임상 증상 개선·신기능 회복·고응상태 완화에 더 효과적이었다[^41]. AIDS 환자(비신양허 변증)에서 표준 HAART 치료에 천추(ST25)·신궐(CV8)·중완(CV12)·관원(CV4) 뜸 치료를 병행한 임상시험은 임상 증상 개선과 총 림프구 수 증가를 보였다[^130]. 비신양허형 비만·고지혈증 여성 환자에게 온침 치료와 이침 치료를 병행한 임상시험은 온침 단독보다 총콜레스테롤 감소·HDL-C 증가·종합 유효율 개선에서 우수했다[^89]. 비신양허형 설사형 과민성대장증후군 환자에게 독맥을 따라 시행하는 장사구(長蛇灸)를 양약과 병행한 임상시험은 복통·배변빈도 등 주요 증상 개선과 삶의 질 향상에 효과적이었다[^48].
 
 #### 5-3. 주기별·부위별 배혈 — 생식계 응용
 
@@ -609,7 +609,7 @@ COPD 환자 코호트에서 신허(腎虛)가 동반된 **폐비신양허형(TDL
 
 **②병인병기**: 비신양허가 기화·고섭 실조로 단백뇨·부종·신기능 저하를 야기하는 핵심 병기다.
 
-**③병태생리**: 저·중위험 특발성 막성 신병증(비신양허·혈어 동반) 환자에서 신유·비유 애구 병행이 신기능·고응상태를 개선한 임상시험[^41], IgA 신증에서 양허 변증 요소가 신장 예후 악화의 독립적 위험인자였다는 관찰연구[^39], 신증후군 환자에서 비기허습체·비신양허 유형의 적혈구 C3b수용체·T세포 기능 저하가 더 뚜렷했다는 관찰연구[^154]가 확인된다.
+**③병태생리**: 저·중위험 특발성 막성 신병증(비신양허·혈어 동반) 환자에서 신수·비수 애구 병행이 신기능·고응상태를 개선한 임상시험[^41], IgA 신증에서 양허 변증 요소가 신장 예후 악화의 독립적 위험인자였다는 관찰연구[^39], 신증후군 환자에서 비기허습체·비신양허 유형의 적혈구 C3b수용체·T세포 기능 저하가 더 뚜렷했다는 관찰연구[^154]가 확인된다.
 
 **④치료**: 변증 기반 한방 치료를 로사르탄에 병행한 CKD 단백뇨 환자 다기관 무작위시험은 병용군의 치료 반응률·단백뇨 감소·신기능 지표(Scr·eGFR·Cys-C) 개선이 우수했다는 관찰이 있다[^106]. 만성 신부전 복막투석 합병증(빈혈·소화기 증상·피부소양)에 변증시치를 적용한 증례[^147]는 비신양허 관리가 투석 합병증 완화에 활용됨을 보여준다.
 
@@ -836,7 +836,7 @@ COPD 환자 코호트에서 신허(腎虛)가 동반된 **폐비신양허형(TDL
 
 **Q5. 비양허에 뜸(灸) 치료가 특히 강조되는 이유는?**
 
-비양허는 "허한(虛寒)" 병기이므로 뜸의 온후 작용이 병기에 직접 부합한다. 신유·비유 애구가 막성 신병증 환자의 신기능·고응상태를 개선했고[^41], 천추·신궐·중완·관원 뜸이 AIDS 환자의 면역 지표를 개선했다[^130]는 근거가 있다. 다만 급성 염증·출혈 경향이 있는 경우 뜸 적용에 신중해야 한다.
+비양허는 "허한(虛寒)" 병기이므로 뜸의 온후 작용이 병기에 직접 부합한다. 신수·비수 애구가 막성 신병증 환자의 신기능·고응상태를 개선했고[^41], 천추·신궐·중완·관원 뜸이 AIDS 환자의 면역 지표를 개선했다[^130]는 근거가 있다. 다만 급성 염증·출혈 경향이 있는 경우 뜸 적용에 신중해야 한다.
 
 **Q6. 만성 설사에 비양허 치료를 시작하기 전에 무엇을 먼저 확인해야 하는가?**
 
@@ -898,7 +898,7 @@ COPD 환자 코호트에서 신허(腎虛)가 동반된 **폐비신양허형(TDL
 [^37]: Study on the Correlation between Chinese Medicine Syndrome and Cognitive Dysfunction in Mild Cognitive Impairment. Zhiying Lin 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-06-24. [관찰연구] [DOI 10.1155/2022/7117704](https://doi.org/10.1155/2022/7117704) — 경도인지장애(MCI) 환자에게서 신허수해증(腎虛髓海不足證)과 담탁폐격증(痰濁閉竅證)이 가장 빈번하게 나타나며, 특히 지연회상(delayed recall) 기능 저하와 밀접한 관련이 있음을 시사한다. 임상적으로 환자의 변증 유형을 파악함으로써 특히 신허수해증 환자의 경우 시공간 및 집행 기능과 지연회상 능력의 저하 가능성을 예측하고 맞춤형 인지 중재 전략을 세우는 데 활용할 수 있다.
 [^38]: Sterile alpha motif and histidine-aspartic acid domain-containing protein 1 expression and its relationship with T cell activation in human immunodeficiency virus/acquired immune deficiency syndrome patients with lung-spleen deficiency syndrome pattern. Zhen L 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2022-06. [관찰연구] [DOI 10.19852/j.cnki.jtcm.20220408.004](https://doi.org/10.19852/j.cnki.jtcm.20220408.004) [PMID 35610016](https://pubmed.ncbi.nlm.nih.gov/35610016/) — HIV/AIDS 환자의 폐비양허증(肺脾兩虛證) 패턴에서 SAMHD1 발현 수준이 높고 CD4 수치 및 CD4/CD8 비율이 낮게 나타남을 확인하였다. SAMHD1 수치와 T 림프구 아형 분석 결과를 결합하면 한의학적 변증(辨證)인 폐비양허증을 객관적으로 진단하고 구분하는 생물학적 지표로 활용할 수 있을 것이다.
 [^39]: Relationship between Traditional Chinese Medicine Syndrome Elements and Prognosis of Patients with IgA Nephropathy. Ke J 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [관찰연구] [DOI 10.1155/2022/2270406](https://doi.org/10.1155/2022/2270406) [PMID 35942383](https://pubmed.ncbi.nlm.nih.gov/35942383/) — IgA 신증(IgAN) 환자에서 양허(陽虛, Yang-deficiency) 변증 요소가 신장 예후 악화의 독립적인 위험 인자임을 확인하였다. 특히 여성, 고령, 낮은 헤모글로빈 수치, 세포성/섬유세포성 초승달(crescents) 소견이 있는 환자에서 양허 증상이 나타날 가능성이 높으므로, 이러한 환자군을 대상으로 한 집중적인 모니터링과 변증 기반의 맞춤형 치료 전략이 필요하다.
-[^41]: [Effect of moxibustion on renal function and hypercoagulable state in patients with idiopathic membranous nephropathy of low to medium risk with spleen-kidney deficiency and blood stasis]. Mao JY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-11-12. [임상시험] [DOI 10.13703/j.0255-2930.20200907-0005](https://doi.org/10.13703/j.0255-2930.20200907-0005) [PMID 34762373](https://pubmed.ncbi.nlm.nih.gov/34762373/) — 비신양허 및 혈어 증상을 동반한 저·중위험 특발성 막성 신병 환자에게 기초 치료와 함께 腎俞(신유), 脾俞(비유) 등의 주요 혈위에 艾灸(애구) 치료를 병행하는 것이 단독 기초 치료보다 임상 증상 개선, 신기능 회복 및 고응상태 완화에 더 효과적이다. 실제 임상에서 신기능 저하와 혈액 응고 위험이 있는 IMN 환자에게 보조적인 한방 치료법으로 적용을 고려할 수 있다.
+[^41]: [Effect of moxibustion on renal function and hypercoagulable state in patients with idiopathic membranous nephropathy of low to medium risk with spleen-kidney deficiency and blood stasis]. Mao JY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-11-12. [임상시험] [DOI 10.13703/j.0255-2930.20200907-0005](https://doi.org/10.13703/j.0255-2930.20200907-0005) [PMID 34762373](https://pubmed.ncbi.nlm.nih.gov/34762373/) — 비신양허 및 혈어 증상을 동반한 저·중위험 특발성 막성 신병 환자에게 기초 치료와 함께 腎俞(신수), 脾兪(비수) 등의 주요 혈위에 艾灸(애구) 치료를 병행하는 것이 단독 기초 치료보다 임상 증상 개선, 신기능 회복 및 고응상태 완화에 더 효과적이다. 실제 임상에서 신기능 저하와 혈액 응고 위험이 있는 IMN 환자에게 보조적인 한방 치료법으로 적용을 고려할 수 있다.
 [^42]: Moxibustion plus acupuncture improves the efficacy and quality of life of patients with polycystic ovary syndrome. Qian ZHANG 외. _Journal of Integrative Nursing_. 2021-10. [임상시험] [DOI 10.4103/jin.jin_47_21](https://doi.org/10.4103/jin.jin_47_21) — 비견신양허(脾腎陽虛) 유형의 다낭성 난소 증후군(PCOS) 환자에게 침과 뜸을 병행하여 치료했을 때, 단독 치료보다 체중 감소, 내분비 기능 개선, 성호르몬 수치 정상화 및 삶의 질 향상에 더 효과적이다. 특히 인슐린 저항성 개선과 대사 지표(BMI, WHR, 지질 수치) 감소가 뚜렷하므로, 대사 이상을 동반한 PCOS 환자에게 침뜸 병행 요법을 적극적으로 고려할 수 있다.
 [^43]: A Study on the Law of Birth and Formation of Yang-Deficiency Constitution Based on the Theory of Five Movement and Six Qi. Jingyi Bai 외. _Journal of Clinical and Nursing Research_. 2021-09-30. [관찰연구] [DOI 10.26689/jcnr.v5i5.2472](https://doi.org/10.26689/jcnr.v5i5.2472) — 본 연구는 오운육기 이론을 통해 특정 출생 연도(정년, 丁年)가 양허체질 형성의 가능성을 높일 수 있음을 시사한다. 임상적으로 환자의 출생 시기 운기 데이터를 분석함으로써 양허체질로 발전할 가능성이 높은 고위험군을 조기에 예측하고, 이에 맞춘 선제적인 양기(陽氣) 보강 및 예방 치료 전략을 세우는 데 활용할 수 있다.
 [^44]: [Diarrhea-predominant irritable bowel syndrome of spleen deficiency and damp excess treated with fire needling therapy with filiform needle and acupoint application therapy: a randomized controlled trial]. Shi H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2021-09-12. [임상시험] [DOI 10.13703/j.0255-2930.20200904-k0001](https://doi.org/10.13703/j.0255-2930.20200904-k0001) [PMID 34491647](https://pubmed.ncbi.nlm.nih.gov/34491647/) — 비허습성(脾虚湿盛) 패턴의 설사형 과민성 대장 증후군(IBS-D) 환자에게 호화침(毫火针)과 혈위첩부(穴位贴敷)를 병행하는 것이 단순 첩부나 약물 치료보다 임상 증상 및 삶의 질 개선에 더 효과적이다. 특히 면역 조절(T 림프구) 및 결장 내 세로토닌 수용체(5-HT3R, 5-HT4R) 발현 조절을 통해 증상을 완화시키는 것으로 보이며, 실제 임상에서 약물 치료의 대안이나 병행 요법으로 고려될 수 있다.

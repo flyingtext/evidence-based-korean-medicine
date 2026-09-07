@@ -412,7 +412,7 @@ HPA축 관련 근거로는, 정신적 스트레스를 겪는 대학생에게 족
 
 #### 13-2. 현대적 근거 — 생식·노화 축의 공유
 
-간신동원의 현대적 상관물로 가장 뚜렷한 것은 생식내분비 영역이다. 보신조간(補腎調肝) 치법이 난소예비능저하(diminished ovarian reserve)에 미치는 효과를 평가한 체계적 고찰·메타분석에서 유효성이 확인되었고[^37], 생강격유구(隔薑灸)와 보신활혈방(補腎活血方) 병용이 난소예비능저하 환자의 지표를 개선시켰다[^38]. 보신활혈(補腎活血) 치법을 병용한 복강경 자궁내막종 절제술은 표준 수술 단독보다 난소 기능 보존에 유리한 결과를 보였으며[^39], 여성 불임에 대한 중의학 보조 치료 전반을 정리한 문헌 고찰도 신-간 축을 함께 조절하는 접근의 임상적 위치를 뒷받침한다[^40]. 이들 연구는 신정과 간혈을 함께 조절하는 치법(보신+조간, 또는 보신+양혈)이 단독 보신보다 생식 기능 지표에서 더 일관된 결과를 보이는 경향을 시사하며, 이는 "정혈동원"이라는 전통 명제와 방향이 일치한다.
+간신동원의 현대적 상관물로 가장 뚜렷한 것은 생식내분비 영역이다. 보신조간(補腎調肝) 치법이 난소예비능저하(diminished ovarian reserve)에 미치는 효과를 평가한 체계적 고찰·메타분석에서 유효성이 확인되었고[^37], 생강격수구(隔薑灸)와 보신활혈방(補腎活血方) 병용이 난소예비능저하 환자의 지표를 개선시켰다[^38]. 보신활혈(補腎活血) 치법을 병용한 복강경 자궁내막종 절제술은 표준 수술 단독보다 난소 기능 보존에 유리한 결과를 보였으며[^39], 여성 불임에 대한 중의학 보조 치료 전반을 정리한 문헌 고찰도 신-간 축을 함께 조절하는 접근의 임상적 위치를 뒷받침한다[^40]. 이들 연구는 신정과 간혈을 함께 조절하는 치법(보신+조간, 또는 보신+양혈)이 단독 보신보다 생식 기능 지표에서 더 일관된 결과를 보이는 경향을 시사하며, 이는 "정혈동원"이라는 전통 명제와 방향이 일치한다.
 
 노화 영역에서는 간신음허가 임상적으로 요슬산연(腰膝痠軟)·이명·조기폐경·모발백화 등 신허(腎虛) 증후와 목혼(目昏)·근위(筋痿) 등 간허(肝虛) 증후가 함께 나타나는 복합 병리로 다루어지며, 상세한 근거는 신(腎) 문서의 간신동원 관련 절과 신정·노화 관련 병태생리편을 참조한다. **이 문서에서는 간의 관점에서 이 축의 개관만 제시하고, 신정·천계(天癸) 이론의 상세는 신(腎) 문서에서 다룬다.**
 
@@ -812,13 +812,13 @@ HPA축 관련 근거로는, 정신적 스트레스를 겪는 대학생에게 족
 
 | 병리축 | 대표 처방 | 대표 본초 | 대표 경혈 |
 | --- | --- | --- | --- |
-| 간혈허(체 부족) | 사물탕(四物湯)·보간탕(補肝湯) | 당귀·백작약·숙지황·천궁 | 간유(肝兪, BL18)·삼음교(三陰交, SP6)·혈해(血海, SP10) |
+| 간혈허(체 부족) | 사물탕(四物湯)·보간탕(補肝湯) | 당귀·백작약·숙지황·천궁 | 간수(肝兪, BL18)·삼음교(三陰交, SP6)·혈해(血海, SP10) |
 | 간음허·간신음허 | 일관전(一貫煎)·기국지황환(杞菊地黃丸) | 사삼·맥문동·구기자·산수유 | 태계(太谿, KI3)·삼음교(SP6)·조해(照海, KI6) |
 | 간기울결(용 실증) | 소요산(逍遙散)·시호소간탕(柴胡疏肝湯) | 시호·향부자·울금·박하 | 태충(太衝, LR3)·기문(期門, LR14)·양릉천(陽陵泉, GB34) |
 | 간양상항 | 천마구등음(天麻鉤藤飮) | 천마·구등·석결명·우슬 | 태충(LR3)·풍지(風池, GB20)·백회(百會, GV20) |
 | 간화상염 | 용담사간탕(龍膽瀉肝湯) | 용담초·치자·황금·시호 | 태충(LR3)·행간(行間, LR2)·협계(俠谿, GB43) |
 | 간풍내동 | 진간식풍탕(鎭肝熄風湯)·영양각구등탕(羚羊角鉤藤湯) | 영양각·구등·대자석·백작약 | 백회(GV20)·태충(LR3)·태계(KI3) |
-| 간담습열 | 용담사간탕(龍膽瀉肝湯)·인진호탕(茵蔯蒿湯) | 인진호·황금·치자·용담초 | 양릉천(GB34)·담유(膽兪, BL19)·일월(日月, GB24) |
+| 간담습열 | 용담사간탕(龍膽瀉肝湯)·인진호탕(茵蔯蒿湯) | 인진호·황금·치자·용담초 | 양릉천(GB34)·담수(膽兪, BL19)·일월(日月, GB24) |
 | 심간혈허·심간화왕 | 천왕보심단(天王補心丹)·소요산 | 산조인·백자인·목단피·치자 | 신문(神門, HT7)·태충(LR3)·삼음교(SP6) |
 
 **이 표는 임상 틀이지 동일 근거수준의 권고가 아니다.** 처방·본초·경혈의 선택은 반드시 개별 환자의 변증(허실·한열·겸협 장부)에 따라 이루어져야 하며, 이 표는 병리축과 대표 치료 수단의 대응 관계를 개관하기 위한 것이지 처방 알고리즘이 아니다. 각 처방·본초·경혈의 상세한 근거·용량·안전성은 해당 개별 표제어 문서(예: 소요산, 시호, 태충)에서 확인해야 한다.
@@ -1013,7 +1013,7 @@ HPA축 관련 근거로는, 정신적 스트레스를 겪는 대학생에게 족
 [^35]: Time Course of Changes in Nail Fold Microcirculation Induced by Acupuncture Stimulation at the Waiguan Acupoints. _The American Journal of Chinese Medicine_. 2006-01. [실험연구, 38명] [DOI 10.1142/s0192415x06004284](https://doi.org/10.1142/s0192415x06004284) — 외관(外關) 자침이 조갑주름 미세순환(nail fold microcirculation)에 미치는 시간 경과별 변화를 관찰, 조갑 혈류-간기 상관의 실험적 근거.
 [^36]: [Impacts of mild moxibustion on immune indices and nailfold microcirculation in the subhealthy group]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-02-12. [임상시험, 72명] [DOI 10.13703/j.0255-2930.2017.02.001](https://doi.org/10.13703/j.0255-2930.2017.02.001) [PMID 29231470](https://pubmed.ncbi.nlm.nih.gov/29231470/) — 경자구(輕刺灸, mild moxibustion)가 아건강군의 면역지표와 조갑주름 미세순환에 미치는 영향을 관찰.
 [^37]: Effectiveness of tonifying-kidney and regulating-liver therapy on diminished ovarian reserve: a systematic review and Meta-analysis of randomized controlled trials. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2020-06. [메타분석, 512명] [DOI 10.19852/j.cnki.jtcm.2020.03.001](https://doi.org/10.19852/j.cnki.jtcm.2020.03.001) [PMID 32506847](https://pubmed.ncbi.nlm.nih.gov/32506847/) — 보신조간(補腎調肝) 치법이 난소예비능저하(DOR)에 미치는 효과를 평가한 체계적 고찰, 간신동원 이론의 생식내분비 근거.
-[^38]: [Effects of ginger-separated moxibustion at Baliao points combined with Bushen Huoxue formula on patients with decreased ovarian reserve function]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-10-12. [임상시험, 50명] [DOI 10.13703/j.0255-2930.2017.10.008](https://doi.org/10.13703/j.0255-2930.2017.10.008) [PMID 29354973](https://pubmed.ncbi.nlm.nih.gov/29354973/) — 생강격유구(隔薑灸)와 보신활혈방 병용이 난소예비능저하 환자의 지표에 미치는 영향을 관찰.
+[^38]: [Effects of ginger-separated moxibustion at Baliao points combined with Bushen Huoxue formula on patients with decreased ovarian reserve function]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2017-10-12. [임상시험, 50명] [DOI 10.13703/j.0255-2930.2017.10.008](https://doi.org/10.13703/j.0255-2930.2017.10.008) [PMID 29354973](https://pubmed.ncbi.nlm.nih.gov/29354973/) — 생강격수구(隔薑灸)와 보신활혈방 병용이 난소예비능저하 환자의 지표에 미치는 영향을 관찰.
 [^39]: Effects of conservative laparoscopic endometrial cystectomy and use of kidney-reinforcing and blood activating traditional Chinese medicine on ovarian functions. _Genetics and molecular research : GMR_. 2015-01-30. [임상시험, 70명] [DOI 10.4238/2015.January.30.6](https://doi.org/10.4238/2015.January.30.6) [PMID 25730000](https://pubmed.ncbi.nlm.nih.gov/25730000/) — 보신활혈(補腎活血) 치법을 병용한 복강경 자궁내막종 절제술의 효과를 평가.
 [^40]: Chinese medicine as complementary therapy for female infertility. _Chinese journal of integrative medicine_. 2017-04. [문헌 고찰] [DOI 10.1007/s11655-016-2510-5](https://doi.org/10.1007/s11655-016-2510-5) [PMID 27484764](https://pubmed.ncbi.nlm.nih.gov/27484764/) — 여성 불임에 대한 중의학 보조 치료 효과를 정리한 문헌 고찰.
 [^41]: Study on syndrome rules of stagnated heat in liver and stomach of non-erosive reflux disease based on microecology of tongue coating. _Medicine_. 2022-11-04. [관찰연구, 60명] [DOI 10.1097/md.0000000000031618](https://doi.org/10.1097/md.0000000000031618) — 비미란성 역류질환에서 간위울열형(肝胃鬱熱型) 증후 규칙을 잠재계층분석으로 규명, 간위불화의 병기 분류 근거.

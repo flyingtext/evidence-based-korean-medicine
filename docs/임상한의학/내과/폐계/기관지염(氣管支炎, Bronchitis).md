@@ -258,7 +258,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 
 **보폐과립(補肺顆粒)**: 관해기 만성 기관지염 62명 대상 임상시험에서 옥병풍과립보다 단기 효과율·장기 재발 방지 효과율이 높았고, SOD·CD3 증가와 LPO 감소를 통한 항산화·면역 조절 효과가 확인되었다[^61].
 
-**기관지염 고약(Tracheitis Plaster)**: 정천·대추·풍문·폐수·심유 혈위 부착이 만성 기관지염 84명에서 총 유효율(93.2% vs 80.0%)과 X-선 개선율(40.7% vs 20.0%)에서 대조군보다 우수했고, 1년 추적에서도 IgG·CD8 개선이 지속되었다[^64].
+**기관지염 고약(Tracheitis Plaster)**: 정천·대추·풍문·폐수·심수 혈위 부착이 만성 기관지염 84명에서 총 유효율(93.2% vs 80.0%)과 X-선 개선율(40.7% vs 20.0%)에서 대조군보다 우수했고, 1년 추적에서도 IgG·CD8 개선이 지속되었다[^64].
 
 **과천평탕(咳喘平湯, KCP)**: 만성 기관지염 62명에서 청금화담탕(청열화담) 대비 총 유효율(93.55% vs 74.19%)이 우수했고 가래 점도 감소·폐환기 기능 개선이 확인되었다[^65].
 
@@ -611,7 +611,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 
 ## 경혈/처방 연관
 
-- **경혈**: 폐수(肺兪, BL13)·단중(膻中, CV17)·천돌(天突, CV22)·대추(大椎, GV14)·풍문(風門, BL12)·심유(心兪, BL15)·정천(定喘, EX-B1)[^52][^54][^64][^71]
+- **경혈**: 폐수(肺兪, BL13)·단중(膻中, CV17)·천돌(天突, CV22)·대추(大椎, GV14)·풍문(風門, BL12)·심수(心兪, BL15)·정천(定喘, EX-B1)[^52][^54][^64][^71]
 - **처방**: 십미용담화(十味龍膽花)·담열청(痰熱清)·희염평(喜炎平)·열독녕(熱毒寧)·소아폐과과립(小兒肺可顆粒)·청객평천과립(清客平喘顆粒)·보폐과립(補肺顆粒)·가미옥병풍산(加味玉屛風散)·구본과천과립(固本咳喘顆粒)·과천평탕(咳喘平湯)·시박탕(柴朴湯)·백합고금탕(百合固金湯)·소청룡탕(小靑龍湯)·마행감석탕(麻杏甘石湯)[^13][^15][^14][^17][^18][^19][^61][^62][^68][^65][^66][^75][^70]
 - **기타**: 평천고(平喘膏) 약침 부항·삼복첩(三伏貼)·지해천정(止咳喘亭) 혈위첩부·아이비 추출물(EA 575)·Pelargonium sidoides 추출물(EPs® 7630)[^79][^71][^74][^40][^45]
 
@@ -680,7 +680,7 @@ Cochrane 계열 재평가는 만성 기관지염 한의약 근거의 방법론�
 [^61]: Clinical observation in 31 cases of chronic bronchitis at remission stage treated with bufei keli. Liu Y 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2003-12. [임상시험] [PMID 14719287](https://pubmed.ncbi.nlm.nih.gov/14719287/) — 관해기 만성 기관지염 환자에게 補肺顆粒(보폐과립)를 사용하면 기허 증상을 개선하고 면역 기능을 높여 재발률을 유의하게 낮출 수 있다 (62명 대상).
 [^62]: Effect of jiawei yupingfeng powder on T-lymphocyte subsets in patients with senile chronic bronchitis in acute onset stage. Huang HQ 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2004-02. [임상시험] [PMID 15015439](https://pubmed.ncbi.nlm.nih.gov/15015439/) — 급성 악화 단계의 노인성 만성 기관지염 환자에게 가미옥평풍산을 기존 치료와 병용 투여했을 때, 세포 면역 기능(T-림프구 아형)이 유의하게 개선되고 치료 유효율이 높아지는 것으로 나타났다 (84명 대상).
 [^63]: Clinical observation on effect of kesuning granule in treating acute onset of chronic bronchitis. Mao B 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2002-08. [임상시험] [PMID 12572381](https://pubmed.ncbi.nlm.nih.gov/12572381/) — 해속녕과립은 담열증후군을 동반한 만성 기관지염 급성 악화 환자에게 유의미한 임상적 효과와 안전성을 보였으며, 특히 대조군인 금패담해청과립보다 효과 발현 시간이 더 빠르게 나타났다 (120명 대상).
-[^64]: Clinical study on treatment of chronic bronchitis by tracheitis plaster. Huo GR 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2001-11. [임상시험] [PMID 12575372](https://pubmed.ncbi.nlm.nih.gov/12575372/) — 기관지염 고약(Tracheitis Plaster)을 특정 경혈(정천, 대수, 풍문, 폐유, 심유)에 부착하는 치료법이 만성 기관지염 환자의 증상 개선 및 X-선 소견 개선에 효과적이며, IgG 및 CD8 수치 조절을 통해 면역 기능을 개선함을 확인하였다 (84명 대상).
+[^64]: Clinical study on treatment of chronic bronchitis by tracheitis plaster. Huo GR 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2001-11. [임상시험] [PMID 12575372](https://pubmed.ncbi.nlm.nih.gov/12575372/) — 기관지염 고약(Tracheitis Plaster)을 특정 경혈(정천, 대수, 풍문, 폐수, 심수)에 부착하는 치료법이 만성 기관지염 환자의 증상 개선 및 X-선 소견 개선에 효과적이며, IgG 및 CD8 수치 조절을 통해 면역 기능을 개선함을 확인하였다 (84명 대상).
 [^65]: Clinical and experimental research on chronic bronchitis treated with ke chuan ping decoction. Cheng CL. _Zhong xi yi jie he za zhi = Chinese journal of modern developments in traditional medicine_. 1991-04. [임상시험] [PMID 1773454](https://pubmed.ncbi.nlm.nih.gov/1773454/) — 만성 기관지염 환자에게 과천평탕(KCP)을 투여했을 때 기존의 청금화담탕(QJHT)보다 증상 개선 및 총 유효율에서 더 우수한 효과를 보였다 (62명 대상).
 [^66]: Effect of saibokuto on mucociliary transport system in the airway--basic and clinical assessments. Takeyama K 외. _Arerugi = [Allergy]_. 1992-01. [실험연구] [PMID 1554324](https://pubmed.ncbi.nlm.nih.gov/1554324/) — 시박탕(柴朴湯)은 기도 내 섬모 박동 빈도를 증가시키고 cyclic AMP 수치를 높여 점액섬모 수송 기능을 강화하는 효과가 있다.
 [^67]: Efficacy and safety of Cordyceps sinensis (Hirsutella sinensis, Cs-C-Q80) in chronic bronchitis. Shu X 외. _Frontiers in pharmacology_. 2024. [임상시험] [DOI 10.3389/fphar.2024.1428216](https://doi.org/10.3389/fphar.2024.1428216) [PMID 39193337](https://pubmed.ncbi.nlm.nih.gov/39193337/) — 동충하초(Cordyceps sinensis) 성분의 Bailing 캡슐은 만성 기관지염 환자의 급성 악화 빈도를 유의하게 낮추고 가래 및 천명 등의 증상을 개선하는 효과가 있다.

@@ -193,7 +193,7 @@
 
 #### 7-2. 현대적 상관물 — 종기-혈액순환·심폐상관 연구
 
-기허혈어(氣虛血瘀) 변증의 안정기 COPD 환자에서 보기활혈(補氣活血) 요법이 유효율을 높인 RCT는[^33] 조백맥·주치절 실조 시 나타나는 어혈 겸증에 대한 치법적 상관물을 보여준다. 만성 지속성 천식 환자에서 폐유(肺兪)·격유(膈兪) 등 배유혈(背兪穴)의 피부온도와 폐환기기능이 음의 상관관계를 보인다는 관찰연구는[^34] 폐 기능 저하가 체표의 특정 부위(배유혈)에 국소적 순환·온도 변화로 반영될 수 있음을 시사하여, "폐가 백맥을 조회받는다"는 서술과 "체표-내장 상관성"이라는 현대적 관찰이 상통하는 지점을 보여준다.
+기허혈어(氣虛血瘀) 변증의 안정기 COPD 환자에서 보기활혈(補氣活血) 요법이 유효율을 높인 RCT는[^33] 조백맥·주치절 실조 시 나타나는 어혈 겸증에 대한 치법적 상관물을 보여준다. 만성 지속성 천식 환자에서 폐수(肺兪)·격수(膈兪) 등 배유혈(背兪穴)의 피부온도와 폐환기기능이 음의 상관관계를 보인다는 관찰연구는[^34] 폐 기능 저하가 체표의 특정 부위(배유혈)에 국소적 순환·온도 변화로 반영될 수 있음을 시사하여, "폐가 백맥을 조회받는다"는 서술과 "체표-내장 상관성"이라는 현대적 관찰이 상통하는 지점을 보여준다.
 
 #### 7-3. 산소포화도·폐순환과 치절 이론
 
@@ -224,7 +224,7 @@
 
 #### 8-4. 체표 온도조절과 순환 — 배유혈(背兪穴)의 현대적 함의
 
-만성 지속성 천식 환자에서 폐유·격유 등 배유혈의 피부온도가 폐환기기능과 음의 상관관계를 보인다는 관찰연구는[^34] 폐주피모 이론이 단순한 비유가 아니라 체표 특정 부위의 국소 순환·온도가 내장 기능 저하를 반영할 수 있음을 시사한다. 이는 경혈 진단(배유혈 촉진·시진)이 폐 기능 평가의 보조 수단으로 활용될 수 있는 가능성을 열어주는 자료이나, 단일 관찰연구인 만큼 재현성 확인이 필요하다.
+만성 지속성 천식 환자에서 폐수·격수 등 배유혈의 피부온도가 폐환기기능과 음의 상관관계를 보인다는 관찰연구는[^34] 폐주피모 이론이 단순한 비유가 아니라 체표 특정 부위의 국소 순환·온도가 내장 기능 저하를 반영할 수 있음을 시사한다. 이는 경혈 진단(배유혈 촉진·시진)이 폐 기능 평가의 보조 수단으로 활용될 수 있는 가능성을 열어주는 자료이나, 단일 관찰연구인 만큼 재현성 확인이 필요하다.
 
 
 ### 9. 개규어비(開竅於鼻)와 후위폐지문호(喉爲肺之門戶)
@@ -718,11 +718,11 @@ J84 (기타 간질성 폐질환), J84.1(기타 간질성 폐질환, 섬유증 �
 
 | 증상 | 상용 경혈 | 배속 근거 |
 |---|---|---|
-| 해수·기천 | 열결(列缺, LU7), 태연(太淵, LU9), 척택(尺澤, LU5), 폐유(肺兪, BL13) | 폐경 본경혈 + 배유혈 |
+| 해수·기천 | 열결(列缺, LU7), 태연(太淵, LU9), 척택(尺澤, LU5), 폐수(肺兪, BL13) | 폐경 본경혈 + 배유혈 |
 | 비색·비염 | 영향(迎香, LI20), 인당(印堂, EX-HN3), 합곡(合谷, LI4) | 수양명대장경-폐 표리, 국소 취혈 |
 | 인후통·실음 | 어제(魚際, LU10), 소상(少商, LU11), 천돌(天突, CV22) | 후위폐지문호 |
-| 자한·위기불고 | 대추(大椎, GV14), 폐유(肺兪, BL13), 족삼리(足三里, ST36) | 위기 고섭 |
-| 부종·수액정체 | 수분(水分, CV9), 음릉천(陰陵泉, SP9), 폐유·신유(腎兪, BL23) | 통조수도, 폐비신 삼초축 |
+| 자한·위기불고 | 대추(大椎, GV14), 폐수(肺兪, BL13), 족삼리(足三里, ST36) | 위기 고섭 |
+| 부종·수액정체 | 수분(水分, CV9), 음릉천(陰陵泉, SP9), 폐수·신수(腎兪, BL23) | 통조수도, 폐비신 삼초축 |
 
 > 이 표는 침구학 교과서의 표준 배혈 개념을 정리한 참고용 개념도이며, 임상 근거 수준을 나타내는 표가 아니다. 실제 취혈은 변증에 따라 개별화해야 하며, **변증 없는 관행적 취혈은 근거에 부합하지 않는다.**
 
@@ -925,7 +925,7 @@ J84 (기타 간질성 폐질환), J84.1(기타 간질성 폐질환, 섬유증 �
 [^31]: Manual lymphatic drainage with or without fluoroscopy guidance did not substantially improve the effect of decongestive lymphatic therapy in people with breast cancer-related lymphoedema (EFforT-BCRL trial): a multicentre randomised trial. _Journal of physiotherapy_. 2022-04. [임상시험, 194명] [DOI 10.1016/j.jphys.2022.03.010](https://doi.org/10.1016/j.jphys.2022.03.010) [PMID 35428594](https://pubmed.ncbi.nlm.nih.gov/35428594/) — 투시유도 도수림프배수법 추가가 유의한 추가 이점을 주지 않았다는 다기관 RCT — 통조수도 이론을 물리적 배수 기법만으로 단순 환원할 수 없음을 보여주는 균형적 근거.
 [^32]: Synergistic Effects of Proprioceptive Neuromuscular Facilitation and Manual Lymphatic Drainage in Patients with Mastectomy-Related Lymphedema. _Frontiers in physiology_. 2017. [임상시험, 55명] [DOI 10.3389/fphys.2017.00959](https://doi.org/10.3389/fphys.2017.00959) [PMID 29234287](https://pubmed.ncbi.nlm.nih.gov/29234287/) — 고유수용성신경근촉진법과 도수림프배수법 병행이 부종·통증·우울감을 개선한 RCT.
 [^33]: [Effects of "reinforcing Qi and activating blood" on stable chronic obstructive pulmonary disease (Qi deficiency and blood stasis syndrome]. _Journal of Sichuan University. Medical science edition_. 2014-07. [임상시험, 50명] [PMID 25286684](https://pubmed.ncbi.nlm.nih.gov/25286684/) — 기허혈어 변증 COPD에서 보기활혈 요법이 유효율을 높인 RCT. 조백맥·주치절 실조 시 어혈 겸증의 치법적 상관물.
-[^34]: [Correlation between the skin surface temperature at the related back-shu points and the pulmonary ventilation function in patients with chronic persistent asthma based on the theory of "lung governing the skin and hair"]. _Zhongguo zhen jiu_. 2025-03-12. [관찰연구, 61명] [DOI 10.13703/j.0255-2930.20240820-0001](https://doi.org/10.13703/j.0255-2930.20240820-0001) [PMID 40097207](https://pubmed.ncbi.nlm.nih.gov/40097207/) — 만성 지속성 천식 환자에서 폐유·격유 등 배유혈의 피부온도와 폐환기기능이 음의 상관관계를 보인다는 관찰연구. 폐주피모 이론의 체표-내장 상관성에 대한 직접적 현대 근거.
+[^34]: [Correlation between the skin surface temperature at the related back-shu points and the pulmonary ventilation function in patients with chronic persistent asthma based on the theory of "lung governing the skin and hair"]. _Zhongguo zhen jiu_. 2025-03-12. [관찰연구, 61명] [DOI 10.13703/j.0255-2930.20240820-0001](https://doi.org/10.13703/j.0255-2930.20240820-0001) [PMID 40097207](https://pubmed.ncbi.nlm.nih.gov/40097207/) — 만성 지속성 천식 환자에서 폐수·격수 등 배유혈의 피부온도와 폐환기기능이 음의 상관관계를 보인다는 관찰연구. 폐주피모 이론의 체표-내장 상관성에 대한 직접적 현대 근거.
 [^35]: Skin Barrier Abnormalities and Immune Dysfunction in Atopic Dermatitis. _International journal of molecular sciences_. 2020-04-20. [문헌 고찰] [DOI 10.3390/ijms21082867](https://doi.org/10.3390/ijms21082867) [PMID 32326002](https://pubmed.ncbi.nlm.nih.gov/32326002/) — 아토피피부염이 피부장벽 결함과 면역조절장애가 복합된 전신질환이며 소아기 발병이 이후 천식·비염(atopic march)으로 이어질 수 있다는 문헌고찰.
 [^36]: Ceramides in Skin Health and Disease: An Update. _American journal of clinical dermatology_. 2021-11. [문헌 고찰] [DOI 10.1007/s40257-021-00619-2](https://doi.org/10.1007/s40257-021-00619-2) [PMID 34283373](https://pubmed.ncbi.nlm.nih.gov/34283373/) — 세라마이드가 각질층 지질 성분으로서 피부장벽 기능을 유지하며 아토피피부염에서 조성 변화가 나타난다는 문헌고찰.
 [^37]: Commensal Cutibacterium acnes-derived indolelactic acid safeguards skin barrier function through the aryl hydrocarbon receptor. _Cell reports. Medicine_. 2026-07-21. [실험연구] [DOI 10.1016/j.xcrm.2026.102882](https://doi.org/10.1016/j.xcrm.2026.102882) [PMID 42335903](https://pubmed.ncbi.nlm.nih.gov/42335903/) — 피부 상재균 대사물질이 AhR 경로로 피부장벽 단백질을 상향조절해 경피수분손실을 줄인다는 실험연구. 위기의 피모 온양 작용에 상재균-면역 축이 관여할 가능성.

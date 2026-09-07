@@ -485,7 +485,7 @@
 
 > 철결핍빈혈에서 당귀보혈탕을 통상치료와 병용했을 때 적혈구·헤모글로빈·페리틴·유효율이 개선되고 이상반응은 오히려 낮았다는 보고 [^7], 기혈허 증후를 동반한 철결핍빈혈에서 유효율 92% 대 32%(글루콘산철)로 보고된 임상 관찰 [^9], 골수형성이상증후군에서 변증시치 병용이 우수했고 **기혈양허 변증군의 반응이 더 좋았다** 는 관찰 [^27]이 있다. 보수생혈과립·자신생혈음은 재생불량빈혈 임상시험에서 신양허형에 더 유효, MAPK/ERK·bFGF/SCF·Th1/Th2·TCR Vβ 경로 조절 [^48] [^72] [^81] [^79]. 항암화학요법·방사선 골수 억제 보조로 당귀보혈탕·십전대보탕·귀비탕 병행이 혈액학·피로·삶의 질 개선 보고 [^64] [^65]. 면역성혈소판감소증(D69)에서는 중약 단독 또는 서양의학 병용이 혈소판 수치·유효율을 개선하고 부작용이 적다는 체계적고찰·메타분석이 있으며, 귀비탕·양혈화어탕이 대표적으로 활용된다 [^193]. 표준치료에 반응하지 않는 소아 만성 면역성혈소판감소증에서 한약 병행으로 혈소판이 안전 범위로 회복된 증례도 보고되어, 난치성 ITP에서 통합의학적 접근의 가능성을 시사한다 [^194].
 
-**침구**: 격유(BL17)·간유(BL18)·비유(BL20)·신유(BL23)·족삼리(ST36)·삼음교(SP6) 보법 + 구법. 기혈양허에는 합곡(LI4)+삼음교(SP6) 보법 [교과서적 근거]. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
+**침구**: 격수(BL17)·간수(BL18)·비수(BL20)·신수(BL23)·족삼리(ST36)·삼음교(SP6) 보법 + 구법. 기혈양허에는 합곡(LI4)+삼음교(SP6) 보법 [교과서적 근거]. **변증 없는 관행적 취혈은 근거에 부합하지 않는다**.
 
 #### ⑤ 예후
 
@@ -1144,7 +1144,7 @@ COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-di
 
 [^124]: The association between genetic risk and traditional Chinese medicine syndromes in T2DM patients: A latent class analysis. _Medicine_. 2025-08-08. [관찰연구] [DOI 10.1097/MD.0000000000042424](https://doi.org/10.1097/MD.0000000000042424) [PMID 40797512](https://pubmed.ncbi.nlm.nih.gov/40797512/) — 본 연구는 제2형 당뇨병 환자의 한의학적 변증을 혈어(血瘀), 담음-우울열(痰陰-鬱熱), 혈허-습열(血虛-濕熱)의 세 가지 잠재 계층으로 분류하였으며, 특히 유전적 위험 점수가 높을수록 혈허-습열형에 속할 가능성이 높음을 확인하였다. 이는 한의학의 거시적 변증과 분자생물학적 미시적 지표를 결합한 결과로, 향후 당뇨병 환자의 객관적인 변증 진단과 유전적 소인.
 
-[^126]: [Constitution identification and treatment with acupuncture-moxibustion for menopausal women]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-12. [문헌 고찰] [PMID 22256657](https://pubmed.ncbi.nlm.nih.gov/22256657/) — 폐경기 여성의 주요 체질적 특징인 신허(腎虛), 충임맥(衝任脈) 영양 부족, 기충혈허(氣充血虛)를 파악하여 조기에 개입하는 것이 중요합니다. 보신(補腎)과 기혈 조절을 원칙으로 삼음교, 신유, 관원, 백회 등의 혈위에 침과 뜸 치료를 적용함으로써 폐경기 증상 완화 및 건강 유지에 활용할 수 있습니다.
+[^126]: [Constitution identification and treatment with acupuncture-moxibustion for menopausal women]. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2011-12. [문헌 고찰] [PMID 22256657](https://pubmed.ncbi.nlm.nih.gov/22256657/) — 폐경기 여성의 주요 체질적 특징인 신허(腎虛), 충임맥(衝任脈) 영양 부족, 기충혈허(氣充血虛)를 파악하여 조기에 개입하는 것이 중요합니다. 보신(補腎)과 기혈 조절을 원칙으로 삼음교, 신수, 관원, 백회 등의 혈위에 침과 뜸 치료를 적용함으로써 폐경기 증상 완화 및 건강 유지에 활용할 수 있습니다.
 
 [^127]: [Treatment of adenomyosis patients by bushen huoxue sanyu decoction: a clinical study]. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2014-11. [임상시험] [PMID 25566618](https://pubmed.ncbi.nlm.nih.gov/25566618/) — 보신활혈산유탕(BHSD)은 신허혈어증(SDBSS) 유형의 자궁선근증 환자에게 사용했을 때 생리통, 월경 과다, 자궁 부피 증가 및 CA125 수치를 유의하게 개선시키는 효과가 있다. 특히 미레나(Mirena)와 비교하여 한의 증상(SDBSS) 개선에 효과적이며, 자궁 부피 및 CA125 감소 효과는 미레나와 유사한 수준으로 나타나 한방 치료가 자궁선근증의.
 
