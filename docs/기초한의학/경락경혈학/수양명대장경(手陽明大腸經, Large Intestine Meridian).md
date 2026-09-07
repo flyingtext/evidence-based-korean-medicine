@@ -217,7 +217,7 @@
 
 ### 14. 상완부 경혈 — 주료·오리·비노
 
-**주료(肘髎, LI12)** · **오리(五里, LI13)** · **비노(臂臑, LI14)** 는 팔꿈치에서 어깨로 이어지는 상완 외측의 경과혈로, 상완통·나력(연주창)·눈질환 등에 응용된다[교과서적 근거]. 이 세 혈은 폐경의 천부·협백과 마찬가지로 검색 데이터베이스에서 확보된 인체 대상 임상 근거가 상대적으로 적은 경과혈이다. 이는 학문적 관심이 부족하다기보다, 임상에서 합곡·곡지 등 특정혈에 비해 단독으로 활용되는 빈도가 낮기 때문으로 이해된다.
+**주료(肘髎, LI12)** · **수오리(手五里, LI13)** · **비노(臂臑, LI14)** 는 팔꿈치에서 어깨로 이어지는 상완 외측의 경과혈로, 상완통·나력(연주창)·눈질환 등에 응용된다[교과서적 근거]. 이 세 혈은 폐경의 천부·협백과 마찬가지로 검색 데이터베이스에서 확보된 인체 대상 임상 근거가 상대적으로 적은 경과혈이다. 이는 학문적 관심이 부족하다기보다, 임상에서 합곡·곡지 등 특정혈에 비해 단독으로 활용되는 빈도가 낮기 때문으로 이해된다.
 
 ### 15. 어깨·경부 경혈 — 견우·거골·천정·부돌
 
@@ -227,7 +227,7 @@
 
 ### 16. 안면부 경혈 — 화료·영향
 
-**화료(口禾髎, LI19)** 는 인중 옆, 콧구멍 아래에 위치하며 코막힘·코피·안면마비에 응용된다[교과서적 근거].
+**구화료(口禾髎, LI19)** 는 인중 옆, 콧구멍 아래에 위치하며 코막힘·코피·안면마비에 응용된다[교과서적 근거].
 
 **영향(迎香, LI20)** 은 대장경의 종착혈로, 콧방울 옆 오목한 곳에 위치하며 족양명위경(足陽明胃經)과의 교회혈(交會穴)이다[교과서적 근거]. 알레르기 비염·코막힘·후각장애·안면마비의 대표적 국소 취혈점으로, 후각 상실·저하 환자에게 합곡(LI4)·영향(LI20) 저주파 전침을 시행했을 때 약 42%에서 완전 후각 회복을 보였다는 임상시험 근거가 있다(제6편 참조). 내영향(內迎香)과 비구(鼻丘) 혈위를 이용한 비강 내 침술이 지속성 알레르기 비염 환자의 코막힘·후각 기능·수면 질 개선에서 양방 치료(스테로이드 스프레이 및 항히스타민제)보다 즉각적이고 우수한 효과를 보였다는 무작위 대조시험도 있다[^27].
 
@@ -581,7 +581,7 @@
 [^31]: Analysis on Acupoint Selection and Combination for Amyotrophic Lateral Sclerosis Treated with Acupuncture Based on Data Mining. _Evidence-Based Complementary and Alternative Medicine_. 2022-06-08. [체계적 고찰] [DOI 10.1155/2022/6541600](https://doi.org/10.1155/2022/6541600) — 본 연구는 데이터 마이닝을 통해 근위축성 측삭 경화증(ALS) 침치료 시 가장 빈번하고 효과적으로 사용되는 경혈 조합을 분석하였다.
 [^32]: Effect of Acupuncture on the p38 Signaling Pathway in Several Nervous System Diseases: A Systematic Review. _International Journal of Molecular Sciences_. 2020-06-30. [체계적 고찰] [DOI 10.3390/ijms21134693](https://doi.org/10.3390/ijms21134693) — 침치료는 p38 MAPK 신호 경로를 활성화하거나 억제하는 이중 조절 기능을 통해 신경계 질환의 염증을 조절하고 세포 재생을 촉진하여 임상적 증상을 개선할 수 있다. 특히 백회(GV20), 족삼리(ST36), 합곡(LI4) 등의 혈위가 신경계 질환 치료에 유용하며, 이는 염증성 사이토카인 및 신경 보호 인자 조절을 통해 작용한다.
 [^33]: The effect of electroacupuncture and tramadol on experimental tourniquet pain. _Acupuncture in medicine : journal of the British Medical Acupuncture Society_. 2012-03. [임상시험] [DOI 10.1136/acupmed-2011-010094](https://doi.org/10.1136/acupmed-2011-010094) [PMID 22378583](https://pubmed.ncbi.nlm.nih.gov/22378583/) — 본 연구는 전침(電鍼) 자극이 약물성 진통제인 트라마돌(Tramadol)과 유사한 수준의 허혈성 통증 완화 효과가 있음을 시사한다. 임상적으로 급성 통증 관리에 있어 약물 투여의 대안이나 보조 요법으로서 합곡(LI4)과 천사(LI10) 혈위의 전침 자극이 유효하게 활용될 수 있을 것이다.
-[^34]: Pain modulation by meditation and electroacupuncture in experimental submaximum effort tourniquet technique (SETT). _Explore (New York, N.Y.)_. 연도 미상. [임상시험] [DOI 10.1016/j.explore.2011.04.004](https://doi.org/10.1016/j.explore.2011.04.004) [PMID 21724157](https://pubmed.ncbi.nlm.nih.gov/21724157/) — 전침(電鍼) 치료와 명상(Meditation) 모두 허혈성 통증을 유의하게 감소시키고 통증 내성을 높이는 효과가 있음을 확인하였다. 임상적으로 급성 통증 조절을 위해 합곡(合谷, LI4)과 천정(天定, LI10) 혈위의 전침 자극을 고려할 수 있으며, 숙련된 명상가는 기본적으로 높은 통증 내성을 가지고 있어 추가적인 전침 효과가 적을 수 있음을 시사한다.
+[^34]: Pain modulation by meditation and electroacupuncture in experimental submaximum effort tourniquet technique (SETT). _Explore (New York, N.Y.)_. 연도 미상. [임상시험] [DOI 10.1016/j.explore.2011.04.004](https://doi.org/10.1016/j.explore.2011.04.004) [PMID 21724157](https://pubmed.ncbi.nlm.nih.gov/21724157/) — 전침(電鍼) 치료와 명상(Meditation) 모두 허혈성 통증을 유의하게 감소시키고 통증 내성을 높이는 효과가 있음을 확인하였다. 임상적으로 급성 통증 조절을 위해 합곡(合谷, LI4)과 수삼리(手三里, LI10) 혈위의 전침 자극을 고려할 수 있으며, 숙련된 명상가는 기본적으로 높은 통증 내성을 가지고 있어 추가적인 전침 효과가 적을 수 있음을 시사한다.
 [^35]: Effect of Acupuncture on Perception Threshold: A Randomised Controlled Trial. _Acupuncture in Medicine_. 2012-03. [임상시험] [DOI 10.1136/acupmed-2011-010055](https://doi.org/10.1136/acupmed-2011-010055) — 합곡(LI4) 혈위의 침 치료가 안면부(턱끝구멍 부위)의 지각 역치를 유의하게 높여 진통 효과를 유도할 수 있음을 시사한다. 이는 원격 부위의 자극을 통해 특정 신체 영역의 통증 민감도를 조절하는 임상적 근거로 활용될 수 있으며, 특히 안면부 통증 조절 시 합곡혈의 활용 가능성을 보여준다.
 [^36]: [A study on the clinical curative effect by acupuncture for myofascial pain dysfunction syndrome]. _Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology_. 1998-09. [임상시험] [PMID 11774652](https://pubmed.ncbi.nlm.nih.gov/11774652/) — 합곡(LI4)과 민음(Min Yin) 혈자리에 대한 침 치료는 근막통증 기능장애 증후군(MPD) 환자의 통증을 완화하고 개구 범위를 유의하게 증가시키며, 국소 부위의 온도 상승 및 미세혈류 개선 효과를 보인다. 임상적으로 MPD 환자에게 해당 혈자리를 활용한 침 치료를 적용할 경우 약 93.1%의 높은 유효율을 기대할 수 있어 효과적인 치료 옵션이 될 수 있다.
 [^37]: Laser acupuncture versus oral glucose administration for pain prevention in term neonates: an observer-blinded non-inferiority randomized controlled clinical trial. _Acupuncture in Medicine_. 2021-06-04. [임상시험] [DOI 10.1177/09645284211009544](https://doi.org/10.1177/09645284211009544) — 신생아의 발꿈치 천자 시 통증 완화를 위해 합곡혈(LI4)에 레이저 침 자극을 사용하는 방법이 경구 포도당 투여와 비교하여 통증 점수(PIPP) 측면에서 비열등성을 입증하지 못했다. 다만, 레이저 침 군에서 심박수가 유의하게 낮게 나타난 점은 주목할 만하며, 향후 더 큰 표본 수를 통한 추가 연구가 필요하다.
