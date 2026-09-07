@@ -103,6 +103,8 @@ CPPD 관련 질환의 국제적 표준 진단은 다음 세 축으로 구성된�
 
 기텔만 증후군 환자에서는 CPPD 외에도 골밀도 섬(bone islands), 천장관절(薦腸關節)의 응축성 골염(osteitis condensans) 등 다양한 골관절계 이상이 동반될 수 있어 정기적인 골관절계 스크리닝이 권장된다[^6]. 또한 낮은 피질골 밀도·연조직 석회화·혈관 석회화가 연골석회화와 독립적으로 유의한 연관성을 보인다는 사례-대조 연구 결과는, 칼슘 결정 형성이 국소 관절 문제가 아니라 전신적인 칼슘 대사·석회화 소인을 반영할 수 있음을 시사한다[^7].
 
+골형성촉진제와의 관련성은 현재 근거상 확인되지 않았다. 일본인 골다공증 환자 207명을 테리파라타이드 20 μg/일과 위약으로 배정한 제3상 시험의 사후 분석에서, 골형성 표지자 PINP 상승과 혈청 칼슘 농도 사이에 임상적으로 의미 있는 차이는 없었고 양 군의 혈청 칼슘은 정상 범위를 유지하였다. 이 연구에서 칼슘 대사 관련 이상반응으로 석회성 관절주위염 1명과 **피로인산 연골석회증 2명**이 보고되었으나, 두 경우 모두 PINP나 혈청 칼슘의 유의한 상승을 동반하지 않았다[^5]. 저자들도 표본 크기가 중등도여서 통계적 검정이 불가능했다고 밝혔으므로, **이 결과는 테리파라타이드와 CPPD 사이에 연관이 없음을 입증한 것이 아니라 연관을 뒷받침하는 근거가 확인되지 않았다는 수준으로 읽어야 한다.** 골다공증 치료 중 새로 관절 증상이 생긴 고령 환자에서는 CPPD 가능성을 감별 목록에 두는 것이 합리적이다.
+
 ### 7. 통풍과의 병태생리 비교 — 생물학적 차이
 
 | 항목 | 통풍(MSU 결정) | 가성통풍(CPP 결정) |
@@ -162,6 +164,10 @@ CPPD 관련 질환의 국제적 표준 진단은 다음 세 축으로 구성된�
 | 결핵성 관절염 | 아급성 경과, 고위험군(면역저하·이주민 등), 일반 항생제 무반응 | 결핵균 검사, 흉부영상[^14] |
 
 이 표는 임상 틀이지 동일 근거수준의 권고가 아니다. 손목의 급성 가성통풍이 겉보기로 봉와직염과 매우 유사하게 나타나 항생제 치료에 반응하지 않는 사례가 보고된 바 있으며[^3], 이는 영상 검사를 통한 관절 내 석회화 확인이 불필요한 항생제 노출을 줄이고 적절한 치료로 이행하는 데 중요함을 보여준다[^3]. 또한 관절낭액 분석 없이도 7가지 임상 변수 점수 체계를 활용해 급성 통풍과 화농성관절염을 효과적으로 선별할 수 있다는 국내 연구 결과가 있으며[^16], 이러한 임상 점수 체계는 관절천자가 지체되는 상황에서 초기 선별 도구로 참고할 수 있다.
+
+감별의 실험실적 축에서는 결정 확인이 결정적이다. 통풍 진단·관리의 검사실 검사를 정리한 문헌 고찰은 혈청 요산치가 급성 발작기에 정상일 수 있어 단독으로는 확진·배제 근거가 되지 못하며, 편광현미경을 통한 활액 결정 동정이 통풍과 화농성관절염·가성통풍을 가르는 핵심 절차임을 강조한다[^10]. 이는 본 문서가 제10절에서 제시한 편광현미경 소견 대비와 같은 방향이다.
+
+비전형적 침범 부위와 기저 질환도 감별을 어렵게 한다. 10년간 HIV에 감염되어 온 46세 남성이 급성 고관절 통증·체중부하 곤란과 전신 증상으로 내원하여 화농성관절염이 우선 의심되었으나, 영상·미생물·혈청 검사에 이어 시행한 고관절 천자액의 현미경 분석에서 가성통풍으로 확진되었고 관절천자와 NSAIDs만으로 증상이 완전히 소실된 증례가 보고되었다[^4]. 저자들은 당시까지 HIV 감염자에서 가성통풍이 보고된 바가 없었다고 밝히면서, HIV 감염 자체와 항레트로바이러스 요법 모두 골괴사·골감소증·골관절 결핵·드문 균의 화농성관절염 등 근골격계 병변과 관련되므로 **면역저하 환자의 급성 단관절염에서는 화농성관절염을 최우선으로 배제한 뒤에도 결정성 관절병증을 감별 목록에 남겨야 한다**고 지적하였다. 다만 증례 1례이며, 고관절은 가성통풍의 전형적 호발 부위가 아니다.
 
 류마티스성 다발근통(polymyalgia rheumatica, PMR)과 유사하게 나타나는 질환 감별 연구에서는, NSAIDs 투여 1주일 후 CRP 수치가 유의하게 감소하면 가성통풍이나 감염 후 다관절염을 시사한다고 보고하였다[^1]. 발목의 결핵성 관절염이 급성 화농성관절염과 매우 유사하게 나타나 진단이 지연될 수 있다는 증례 역시, 급성 단관절염에서 감별진단 목록을 넓게 유지해야 함을 뒷받침한다[^14].
 
@@ -496,7 +502,7 @@ M11.9 — 결정 종류가 확인되지 않은 결정 유발성 관절염.
 
 [^4]: Pseudogout Associated Hip Pain in a Patient with HIV Infection. Dala-Ali BM 외. _Case reports in medicine_. 2010. [증례 보고] [DOI 10.1155/2010/842814](https://doi.org/10.1155/2010/842814) [PMID 21209737](https://pubmed.ncbi.nlm.nih.gov/21209737/) — HIV 감염 환자에서 발생한 고관절 가성통풍 증례, 근골격계 증상 평가 시 가성통풍 고려 필요성을 시사.
 
-[^5]: Safety of daily teriparatide treatment: a post hoc analysis of a Phase III study to investigate the possible association of teriparatide treatment with calcium homeostasis in patients with serum procollagen type I N-terminal propeptide elevation. Yamamoto T 외. _Clinical interventions in aging_. 2015. [관찰연구] [DOI 10.2147/CIA.S83549](https://doi.org/10.2147/CIA.S83549) [PMID 26185429](https://pubmed.ncbi.nlm.nih.gov/26185429/) — 골형성 표지자 상승이 칼슘 항상성 이상으로 직접 연결되지 않음을 시사, 칼슘 대사 관련 배경 지식 참고자료.
+[^5]: Safety of daily teriparatide treatment: a post hoc analysis of a Phase III study to investigate the possible association of teriparatide treatment with calcium homeostasis in patients with serum procollagen type I N-terminal propeptide elevation. Yamamoto T 외. _Clinical interventions in aging_. 2015-07-06. [무작위대조시험 사후 분석, 207명] [DOI 10.2147/CIA.S83549](https://doi.org/10.2147/CIA.S83549) [PMID 26185429](https://pubmed.ncbi.nlm.nih.gov/26185429/) — 테리파라타이드 제3상 시험 사후 분석. PINP 상승과 혈청 칼슘 사이에 임상적으로 의미 있는 차이가 없었고, 칼슘 대사 관련 이상반응으로 석회성 관절주위염 1명·피로인산 연골석회증 2명이 보고되었으나 PINP·칼슘 상승을 동반하지 않았다. 저자들이 표본 크기 한계로 통계 검정이 불가했다고 밝힌 음성(연관 미확인) 결과.
 
 [^6]: The osteoarticular features of Gitelman Syndrome: Chondrocalcinosis and more. Zhang T 외. _Seminars in arthritis and rheumatism_. 2025-12. [관찰연구] [DOI 10.1016/j.semarthrit.2025.152883](https://doi.org/10.1016/j.semarthrit.2025.152883) [PMID 41273824](https://pubmed.ncbi.nlm.nih.gov/41273824/) — 기텔만 증후군 환자의 41.8%에서 CPPD 동반, 저마그네슘혈증·eGFR 저하가 위험 인자임을 확인.
 
