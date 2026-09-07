@@ -88,10 +88,10 @@
 - 백두옹(白頭翁, Pulsatillae Radix) — (작성 예정)
 - 진피(秦皮, Fraxini Cortex) — **작성됨**
 - 패장(敗醬草, Patriniae Herba) — (작성 예정)
-- 백화사설초(白花蛇舌草, Hedyotidis Herba) — (작성 예정)
+- 백화사설초(白花蛇舌草, Hedyotidis Herba) — **작성됨**
 - 웅담(熊膽, Ursi Fel) — **작성됨**
 - 백렴(白蘞, Ampelopsis Radix) — **작성됨**
-- 누로(漏蘆, Rhapontici Radix) — (작성 예정)
+- 누로(漏蘆, Rhapontici Radix) — **작성됨**
 - 산자고(山慈姑, Cremastrae Pseudobulbus) — **작성됨**
 - 녹두(綠豆, Phaseoli Radiati Semen) — (작성 예정)
 - 위릉채(委陵菜, Potentillae Chinensis Herba) — **작성됨**
@@ -435,7 +435,7 @@
 - 선모(仙茅, Curculiginis Rhizoma) — (작성 예정)
 - 음양곽(淫羊藿, Epimedii Herba)
 - 호로파(葫蘆巴, Trigonellae Semen) — (작성 예정)
-- 두충(杜仲, Eucommiae Cortex) — (작성 예정)
+- 두충(杜仲, Eucommiae Cortex) — **작성됨**
 - 속단(續斷, Dipsaci Radix) — (작성 예정)
 - 보골지(補骨脂, Psoraleae Fructus) — (작성 예정)
 - 구척(狗脊, Cibotii Rhizoma) — (작성 예정)
