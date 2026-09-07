@@ -59,10 +59,10 @@
 | 질환군 | 병용 혈위 | 자극 기법 | 근거 |
 |---|---|---|---|
 | 복압성 요실금(SUI) | 관원(CV4)·기해(CV6)·삼음교(SP6)·회양(BL35)·질변(BL54) | 전침·뜸·경피전기자극(TEAS) | [^3][^45][^46][^53] |
-| 과민성 방광(OAB) | 관원(CV4)·삼음교(SP6)·질료(BL32)·회양(BL35) | 전침·톨테로딘 병용 | [^59] |
+| 과민성 방광(OAB) | 관원(CV4)·삼음교(SP6)·차료(次髎, BL32)·회양(BL35) | 전침·톨테로딘 병용 | [^59] |
 | 전립선비대증(BPH) | 곡골(CV2)·관원(CV4)·질변(BL54) | 전침·심자(深刺)·온침구 | [^2][^18][^27][^28] |
 | 만성 전립선염/CPPS | 관원(CV4)·기해(CV6)·회음(CV1)·삼음교(SP6) | 복부 집속침·전침·온침구·현수구 | [^1][^12][^38][^40][^41][^42] |
-| 수술 후·산후 요정체 | 관원(CV4)·수도(ST28)·질료(BL32)·기해(CV6) | 곡식뜸(穀灸)·온침·마사지 | [^9][^49][^50][^51][^52] |
+| 수술 후·산후 요정체 | 관원(CV4)·수도(ST28)·차료(次髎, BL32)·기해(CV6) | 곡식뜸(穀灸)·온침·마사지 | [^9][^49][^50][^51][^52] |
 | 소아 야뇨증 | 관원(CV4)·삼음교(SP6)·신수(BL23) | 경피전침자극(TEAS)+이침첩법 | [^13] |
 | 월경통·자궁내막증 | 관원(CV4)·기해(CV6)·자궁(EX-CA1) | 침치료·혈점부착 | [^4][^5] |
 | 남성 불임·조루 | 관원(CV4)·삼음교(SP6)·신수(BL23) | 전침·온침구·오자연종환 병용 | [^6][^7][^75] |
@@ -83,7 +83,7 @@
 
 ### 5-3. 수술 후·산후 요정체(Postoperative/Postpartum Urinary Retention)
 
-요정체는 중극혈·관원혈 등 임맥 하복부 혈위가 전통적으로 강하게 적용되어 온 영역이다. 치핵·치루 수술 후 요정체에 기해·중극 현수구가 카테터 삽입률을 낮췄고(60명)[^9], 항문직장 질환 수술 후 급성 요폐에 침+곡식뜸 병용이 효과적이었다(60명).[^63] 통독조기(通督調氣) 침법+온침구 병용이 방광 잔뇨량 감소와 카테터 조기 제거에 유효했으며(120명)[^64], 관원혈 심자법이 요폐 치료에서 일반 직자법보다 우수했다(132명).[^62] 산후 요정체 예방을 위해 수도혈 급속 마사지(200명)[^65], 질료혈 자침(180명)[^66]이 보고되었고, 항문·직장 수술 후 요정체에 대한 뜸 요법의 메타분석(Journal of PeriAnesthesia Nursing)[^60]과 침 대 네오스티그민 근주 비교 메타분석(953명)[^61]은 침구 치료가 표준 약물 요법과 대등하거나 우수함을 시사한다. 부인과 수술 후 요정체 원인과 침구 치료를 정리한 문헌 고찰도 참고할 수 있다.[^67]
+요정체는 중극혈·관원혈 등 임맥 하복부 혈위가 전통적으로 강하게 적용되어 온 영역이다. 치핵·치루 수술 후 요정체에 기해·중극 현수구가 카테터 삽입률을 낮췄고(60명)[^9], 항문직장 질환 수술 후 급성 요폐에 침+곡식뜸 병용이 효과적이었다(60명).[^63] 통독조기(通督調氣) 침법+온침구 병용이 방광 잔뇨량 감소와 카테터 조기 제거에 유효했으며(120명)[^64], 관원혈 심자법이 요폐 치료에서 일반 직자법보다 우수했다(132명).[^62] 산후 요정체 예방을 위해 수도혈 급속 마사지(200명)[^65], 차료혈 자침(180명)[^66]이 보고되었고, 항문·직장 수술 후 요정체에 대한 뜸 요법의 메타분석(Journal of PeriAnesthesia Nursing)[^60]과 침 대 네오스티그민 근주 비교 메타분석(953명)[^61]은 침구 치료가 표준 약물 요법과 대등하거나 우수함을 시사한다. 부인과 수술 후 요정체 원인과 침구 치료를 정리한 문헌 고찰도 참고할 수 있다.[^67]
 
 ### 5-4. 소아 야뇨증(Nocturnal Enuresis)
 
@@ -171,7 +171,7 @@
 네. 중극혈 포함 혈점부착 요법은 단순 비만의 체중·BMI·허리둘레 개선에 유효했습니다(108명).[^10] 고령 여성 복잡성 요로감염에서 중극혈 뜸을 항생제·한약과 병용하면 반응률을 높이고 재발률을 낮췄습니다(144명).[^11]
 
 **Q7. 산후·수술 후 요정체에도 중극혈을 쓰나요?**
-네. 기해·중극 현수구가 치핵·치루 수술 후 요정체 환자의 카테터 삽입률을 낮췄고(60명)[^9], 항문직장 수술 후 급성 요폐에 침+곡식뜸 병용이 유효했습니다(60명).[^63] 다만 산후 요정체 예방 연구는 수도(ST28)·질료(BL32) 등 다른 혈위를 주로 사용하므로[^65][^66], 산후 영역에서는 중극 특이적 근거보다 임맥·방광경 조합 전반의 근거로 이해하는 것이 정확합니다.
+네. 기해·중극 현수구가 치핵·치루 수술 후 요정체 환자의 카테터 삽입률을 낮췄고(60명)[^9], 항문직장 수술 후 급성 요폐에 침+곡식뜸 병용이 유효했습니다(60명).[^63] 다만 산후 요정체 예방 연구는 수도(ST28)·차료(次髎, BL32) 등 다른 혈위를 주로 사용하므로[^65][^66], 산후 영역에서는 중극 특이적 근거보다 임맥·방광경 조합 전반의 근거로 이해하는 것이 정확합니다.
 
 **Q8. 남성 불임·조루증에도 중극혈이 쓰이나요?**
 네. 중극혈을 포함한 전침+오자연종환 병용이 남성 불임 환자의 정자 밀도·운동성을 개선했고(231명)[^7], 원발성 조루증에 특정 혈위군(중극 포함) 침 치료가 약물보다 우수했습니다(111명).[^6] 다만 이들 연구는 대부분 관원·삼음교 등과의 배혈로 시행되었으므로 변증에 따른 배오가 필요합니다.
@@ -230,7 +230,7 @@
 [^50]: Effectiveness of electroacupuncture for female stress urinary incontinence: a systematic review and Meta-analysis.. Zhong Y 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2020-10. [메타분석] [DOI 10.19852/j.cnki.jtcm.2020.05.001](https://doi.org/10.19852/j.cnki.jtcm.2020.05.001) [PMID 33000572](https://pubmed.ncbi.nlm.nih.gov/33000572/) — 전침이 여성 복압성 요실금의 소변 누출량 감소·삶의 질(ICIQ-SF) 개선에 통계적으로 유의했다.
 [^51]: Is electroacupuncture safe and effective for treatment of stress urinary incontinence in women? A systematic review and meta-analysis.. Lai X 외. _The Journal of international medical research_. 2020-10. [메타분석] [DOI 10.1177/0300060520948337](https://doi.org/10.1177/0300060520948337) [PMID 33045874](https://pubmed.ncbi.nlm.nih.gov/33045874/) — 전침이 복압성 요실금 여성의 소변 누출·삶의 질 개선에 효과적이고 안전했다.
 [^52]: [Effective observation of electroacupuncture with different courses for female stress urinary incontinence].. He E 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2016-04. [임상시험, 42명] [PMID 27352489](https://pubmed.ncbi.nlm.nih.gov/27352489/) — 중료(BL33)·회양(BL35) 전침이 여성 요실금 증상·야간뇨 빈도를 유의하게 개선했다.
-[^53]: [Mild and moderate female stress urinary incontinence treated with transcutaneous acupoint electrical stimulation: a randomized controlled trial].. Lian A 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2015-04. [임상시험, 90명] [PMID 26054138](https://pubmed.ncbi.nlm.nih.gov/26054138/) — 질료·신수·자궁·관원·기해 경피 전기자극이 약물보다 소변 조절·누출량 개선에 효과적이었다.
+[^53]: [Mild and moderate female stress urinary incontinence treated with transcutaneous acupoint electrical stimulation: a randomized controlled trial].. Lian A 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2015-04. [임상시험, 90명] [PMID 26054138](https://pubmed.ncbi.nlm.nih.gov/26054138/) — 차료·신수·자궁·관원·기해 경피 전기자극이 약물보다 소변 조절·누출량 개선에 효과적이었다.
 [^54]: A Pilot Randomized Placebo Controlled Trial of Electroacupuncture for Women with Pure Stress Urinary Incontinence.. Xu H 외. _PloS one_. 2016. [임상시험, 80명] [DOI 10.1371/journal.pone.0150821](https://doi.org/10.1371/journal.pone.0150821) [PMID 26960195](https://pubmed.ncbi.nlm.nih.gov/26960195/) — 중료·회양 전침이 가짜 침보다 순수 복압성 요실금의 누출량·삶의 질 개선에 유의하고 안전했다.
 [^55]: Acupuncture for the treatment of overactive bladder: A systematic review and meta-analysis.. Lee JJ 외. _Frontiers in Neurology_. 2023-01-12. [메타분석] [DOI 10.3389/fneur.2022.985288](https://doi.org/10.3389/fneur.2022.985288) — 침 치료가 가짜 침보다 과민성 방광 증상·배뇨 횟수를 유의하게 감소시키고 부작용이 더 적었다.
 [^56]: Acupuncture for overactive bladder in adults: a systematic review and meta-analysis.. Mak TC 외. _Acupuncture in Medicine_. 2019-08-21. [메타분석, 695명] [DOI 10.1136/acupmed-2017-011528](https://doi.org/10.1136/acupmed-2017-011528) — 성인 과활동성 방광에서 침 치료가 약물·가짜 침과 비교해 배뇨 지표·증상 점수에서 유의한 차이를 보이지 않았다.
@@ -243,7 +243,7 @@
 [^63]: [Postoperative acute urinary retention in anorectal diseases treated with acupuncture combined with grain-moxibustion: a randomized controlled trial].. Liu F 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-07-12. [임상시험, 60명] [DOI 10.13703/j.0255-2930.2019.07.008](https://doi.org/10.13703/j.0255-2930.2019.07.008) [PMID 31286731](https://pubmed.ncbi.nlm.nih.gov/31286731/) — 항문직장 수술 후 급성 요폐에 침+곡식뜸 병용이 단순 침 치료보다 증상 완화·잔뇨량 감소에 효과적이었다.
 [^64]: [Clinical observation on Tongdu Tiaoqi acupuncture combined with warming acupuncture for postoperative urinary retention].. Liu HR 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-01-12. [임상시험, 120명] [DOI 10.13703/j.0255-2930.20210504-k0002](https://doi.org/10.13703/j.0255-2930.20210504-k0002) [PMID 35025156](https://pubmed.ncbi.nlm.nih.gov/35025156/) — 통독조기 침법+온침구 병용이 요정체 환자의 방광 잔뇨량 감소·카테터 조기 제거에 효과적이었다.
 [^65]: [Clinical observation of rapid massage at Shuidao (ST 28) to prevent postpartum urinary retention].. Guo FQ 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-03-12. [임상시험, 200명] [DOI 10.13703/j.0255-2930.2019.03.011](https://doi.org/10.13703/j.0255-2930.2019.03.011) [PMID 30942012](https://pubmed.ncbi.nlm.nih.gov/30942012/) — 수도혈 급속 마사지가 질식 분만 후 첫 배뇨 시간을 단축하고 산후 요정체를 예방했다.
-[^66]: [Acupuncture at Ciliao (BL 32) for prevention of postpartum urinary retention in elderly parturient women: a randomized controlled trial].. Gu SF 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-06-12. [임상시험, 180명] [DOI 10.13703/j.0255-2930.20190528-k0005](https://doi.org/10.13703/j.0255-2930.20190528-k0005) [PMID 32538011](https://pubmed.ncbi.nlm.nih.gov/32538011/) — 고령 산모에게 분만 직후 질료혈 침 치료가 산후 요정체 예방에 효과적이었다.
+[^66]: [Acupuncture at Ciliao (BL 32) for prevention of postpartum urinary retention in elderly parturient women: a randomized controlled trial].. Gu SF 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2020-06-12. [임상시험, 180명] [DOI 10.13703/j.0255-2930.20190528-k0005](https://doi.org/10.13703/j.0255-2930.20190528-k0005) [PMID 32538011](https://pubmed.ncbi.nlm.nih.gov/32538011/) — 고령 산모에게 분만 직후 차료혈 침 치료가 산후 요정체 예방에 효과적이었다.
 [^67]: [Studies on causes of gynecology postoperative urinary retention and its acupuncture treatment].. An CP 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2013-11. [문헌 고찰] [PMID 24494306](https://pubmed.ncbi.nlm.nih.gov/24494306/) — 부인과 수술 후 요정체 합병증에 침·뜸·혈위 주사 등 한방 치료가 효과적이고 부작용이 적음을 시사한다.
 [^68]: Acupuncture therapy in the management of persistent primary nocturnal enuresis--preliminary results.. Serel TA 외. _Scandinavian journal of urology and nephrology_. 2001-02. [임상시험, 50명] [DOI 10.1080/00365590151030787](https://doi.org/10.1080/00365590151030787) [PMID 11291685](https://pubmed.ncbi.nlm.nih.gov/11291685/) — 원발성 지속성 야뇨증 아동·청소년에게 침 치료 시 86%가 완전한 건조 상태에 도달했다.
 [^69]: Acupuncture efficacy in the treatment of persistent primary nocturnal enuresis.. El Koumi MA 외. _Arab journal of nephrology and transplantation_. 2013-09. [임상시험, 50명] [PMID 24053744](https://pubmed.ncbi.nlm.nih.gov/24053744/) — 지속성 일차성 야뇨증 아동·청소년에게 침 치료 1년 후 92%의 완치율을 보였다.

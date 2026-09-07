@@ -79,7 +79,7 @@
 
 #### 5. 이비인후·구강 질환
 
-지속성 알레르기성 비염 환자를 대상으로 온침(溫鍼) 요법의 장기적 효과·안전성을 항히스타민제(로라타딘)와 비교하는 프로토콜 연구가 보고되었으며,[^29] 만성 인후염 환자에게 전련천혈과 팔회혈(八會穴)을 조합한 침 치료는 청후이얀 과립(한약 제제)보다 증상 개선·염증 지표(IL-2·TNF-α) 감소 효과가 더 우수하였다.[^30] 알레르기비염 환자의 임상 경험에서도 열결을 포함한 침 치료가 유효하게 사용된다.[^31] 두경부암 환자의 방사선 치료 후 발생한 심각한 구강건조증에 신체침·이침 병용 치료가 증상 완화에 효과적이었다.[^32]
+지속성 알레르기성 비염 환자를 대상으로 온침(溫鍼) 요법의 장기적 효과·안전성을 항히스타민제(로라타딘)와 비교하는 프로토콜 연구가 보고되었으며,[^29] 만성 인후염 환자에게 전염천혈과 팔회혈(八會穴)을 조합한 침 치료는 청후이얀 과립(한약 제제)보다 증상 개선·염증 지표(IL-2·TNF-α) 감소 효과가 더 우수하였다.[^30] 알레르기비염 환자의 임상 경험에서도 열결을 포함한 침 치료가 유효하게 사용된다.[^31] 두경부암 환자의 방사선 치료 후 발생한 심각한 구강건조증에 신체침·이침 병용 치료가 증상 완화에 효과적이었다.[^32]
 
 #### 6. 기타 질환
 
@@ -119,7 +119,7 @@
 | 흉강경·폐엽절제술 후 폐합병증 예방 | 열결(LU7) | 합곡(LI4) | [^1] |
 | 심장 수술 면역·염증 조절 | 열결(LU7) | 내관(PC6)·운문(LU2) | [^20] |
 | 금연 관리 | 열결(LU7) | 합곡(LI4)·백회(GV20)·족삼리(ST36)·삼음교(SP6)·태충(LR3) | [^25][^26][^27] |
-| 만성 인후염 | 열결(LU7) | 전련천(Extra)·팔회혈 | [^30] |
+| 만성 인후염 | 열결(LU7) | 전염천(前廉泉, Extra)·팔회혈 | [^30] |
 | 우울증 동반 수면 장애 | 열결(LU7) | 합곡(LI4)·태충(LR3)·인당(EX-HN3)·백회(GV20)·조해(KI6) | [^33] |
 | 척수손상 후 띠모양 감각 | 열결(LU7) | 후계(SI3)·수삼리(LI10)·곡지(LI11) | [^34] |
 | 경추형 경추척추증 | 열결(LU7) | 척택(LU5) | [^13] |
@@ -265,7 +265,7 @@ TEAS·전침을 이용한 열결혈 자극이 수술 전후 스트레스 반응(
 [^27]: [Auricular point sticking combined with transcutaneous electrical acupoint stimulation for smoking cessation: a randomized controlled trial].. Chen SM 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-11-12. [임상시험] [DOI 10.13703/j.0255-2930.20220104-k0001](https://doi.org/10.13703/j.0255-2930.20220104-k0001) [PMID 36397220](https://pubmed.ncbi.nlm.nih.gov/36397220/) — 이침(耳鍼)과 경피경혈전기자극(TEAS)을 병용한 치료는 니코틴 패치 단독 사용보다 니코틴 의존도를 낮추고 금단 증상을 개선하는 데 더 효과적이다.
 [^28]: [Impacts of nicotine metabolite rate and acupuncture frequency on smoking cessation: a randomized controlled trial].. Ji J 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2022-03-12. [임상시험] [DOI 10.13703/j.0255-2930.20210429-k0004](https://doi.org/10.13703/j.0255-2930.20210429-k0004) [PMID 35272403](https://pubmed.ncbi.nlm.nih.gov/35272403/) — 본 연구는 금연을 위한 침 치료 시 침 치료 빈도(고빈도 vs 저빈도)에 따른 효능 차이는 통계적으로 유의하지 않음을 보여주었습니다.
 [^29]: Efficacy and safety of using a warming needle for persistent allergic rhinitis: study protocol for a randomized controlled trial.. Sun Y 외. _Trials_. 2016-06-30. [임상시험] [DOI 10.1186/s13063-016-1432-z](https://doi.org/10.1186/s13063-016-1432-z) [PMID 27363578](https://pubmed.ncbi.nlm.nih.gov/27363578/) — 본 연구는 지속성 알레르기성 비염 환자를 대상으로 온침(warm needling) 요법의 장기적 효과와 안전성을 항히스타민제인 로라타딘과 비교 분석하는 프로토콜입니다.
-[^30]: [Clinical observation of acupuncture at Qianlianquan (Extra) and eight confluent points on chronic pharyngitis].. Tian ZH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.12.008](https://doi.org/10.13703/j.0255-2930.2019.12.008) [PMID 31820603](https://pubmed.ncbi.nlm.nih.gov/31820603/) — 만성 인후염 환자에게 전련천혈과 8개의 회합혈을 조합한 침치료를 시행했을 때, 일반적인 한약 제제(청후이얀 과립)보다 증상 개선 및 염증 지표(IL-2, TNF-α) 감소 효과가 더 우수했다.
+[^30]: [Clinical observation of acupuncture at Qianlianquan (Extra) and eight confluent points on chronic pharyngitis].. Tian ZH 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-12-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.12.008](https://doi.org/10.13703/j.0255-2930.2019.12.008) [PMID 31820603](https://pubmed.ncbi.nlm.nih.gov/31820603/) — 만성 인후염 환자에게 전염천혈과 8개의 회합혈을 조합한 침치료를 시행했을 때, 일반적인 한약 제제(청후이얀 과립)보다 증상 개선 및 염증 지표(IL-2, TNF-α) 감소 효과가 더 우수했다.
 [^31]: Clinical experience in acupuncture treatment of allergic rhinitis. 증례. DOI: [10.1016/s0254-6272(09)60062-5](https://doi.org/10.1016/s0254-6272(09)60062-5) · PMID: [19894382](https://pubmed.ncbi.nlm.nih.gov/19894382/). 알레르기비염 침 임상 경험(열결 포함).
 [^32]: Successful Acupuncture Treatment of Xerostomia After Chemotherapy and Radiation Therapy for Head-and-Neck Carcinomas. Max Haid. _Medical Acupuncture_. 2015-06-01. [증례 보고] [DOI 10.1089/acu.2014.1069](https://doi.org/10.1089/acu.2014.1069) — 두경부암 환자의 방사선 치료 후 발생하는 심각한 구강건조증에 대해 신체침과 이침을 병용한 치료가 증상 완화에 효과적임을 보여준다.
 [^33]: Randomized single-blind multicenter trial comparing the effects of standard and augmented acupuncture protocols on sleep quality and depressive symptoms in patients with depression.. Wen X 외. _Psychology, health & medicine_. 2018-04. [임상시험] [DOI 10.1080/13548506.2017.1363399](https://doi.org/10.1080/13548506.2017.1363399) [PMID 28899206](https://pubmed.ncbi.nlm.nih.gov/28899206/) — 우울증 환자의 수면 장애와 우울 증상을 치료할 때, 기본 혈위(합곡, 태충, 인당, 백회) 외에 열결, 조해혈을 추가하고 피내침을 병행하는 강화된 침 치료법이 표준 침 치료보다 더 효과적이다.
