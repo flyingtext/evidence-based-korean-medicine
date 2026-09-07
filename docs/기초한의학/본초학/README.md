@@ -460,7 +460,7 @@
 - 숙지황(熟地黃) — 지황(地黃) 문서에서 하위 표제어로 포함 **작성됨**
 - 백작약(白芍藥) — 작약(芍藥, Paeoniae Radix) 문서에서 하위 표제어로 포함 **작성됨** (겸: 청열량혈 — 적작약)
 - 하수오(何首烏, Polygoni Multiflori Radix)
-- 아교(阿膠, Asini Corii Colla) — (작성 예정)
+- 아교(阿膠, Asini Corii Colla) — **작성됨** (KHP 등재명 확인. KHP 기원은 당나귀 *Equus asinus* **또는 소** *Bos taurus* var. *domesticus*로 중국약전의 당나귀 단독 규정과 다르다. 단미 직접 근거 3편)
 - 용안육(龍眼肉, Longan Arillus) — (작성 예정)
 
 ### 17-4. 보음약(補陰藥)
