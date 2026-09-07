@@ -366,9 +366,9 @@
 
 [^2]: Chinese herbal medicine formulas as adjuvant therapy for osteonecrosis of the femoral head: A systematic review and meta-analysis of randomized controlled trials.. Zhang Q 외. _Medicine_. 2018-09. [메타분석, 1815명] [DOI 10.1097/MD.0000000000012196](https://doi.org/10.1097/MD.0000000000012196) [PMID 30200126](https://pubmed.ncbi.nlm.nih.gov/30200126/) — 중약 처방을 병용 투여한 군이 중심 감압술 단독 군에 비해 총 유효율, Harris 점수, 방사선학적 유효율이 유의하게 개선되었으며 부작용은 거의 보고되지 않았으나, 연구들의 전반적인 편향 위험이 높아 확정적인 결론을 내리기에는 한계가 있다.
 
-[^5]: RETRACTED: Effect of Chinese herbal compound dressings in treating patients with diabetic foot ulcers: A meta‐analysis. Qian Yang 외. _International Wound Journal_. 2024-03. [메타분석, 1405명] [DOI 10.1111/iwj.14767](https://doi.org/10.1111/iwj.14767) — 중약 복합 드레싱 치료군은 대조군에 비해 궤양 치유 시간이 유의하게 단축되었고, 궤양 표면적이 감소하였으며, 치유율과 전체 유효율이 유의하게 높았다.
+[^5]: RETRACTED: Effect of Chinese herbal compound dressings in treating patients with diabetic foot ulcers: A meta‐analysis. Yang Q 외. _International Wound Journal_. 2024-03. [메타분석, 1405명] [DOI 10.1111/iwj.14767](https://doi.org/10.1111/iwj.14767) — 중약 복합 드레싱 치료군은 대조군에 비해 궤양 치유 시간이 유의하게 단축되었고, 궤양 표면적이 감소하였으며, 치유율과 전체 유효율이 유의하게 높았다.
 
-[^6]: RETRACTED: Effect of Chinese herbal topical medicine, acupuncture, and moxibustion on pressure ulcer wound healing: A meta‐analysis. Feida Wang 외. _International Wound Journal_. 2022-04-09. [메타분석, 1073명] [DOI 10.1111/iwj.13803](https://doi.org/10.1111/iwj.13803) — 전통 중의학 치료(중약 외용제, 침, 뜸)를 받은 군이 대조군에 비해 완전 치유율(OR 5.94)과 완치율(OR 4.79)이 유의하게 높았다.
+[^6]: RETRACTED: Effect of Chinese herbal topical medicine, acupuncture, and moxibustion on pressure ulcer wound healing: A meta‐analysis. Wang F 외. _International Wound Journal_. 2022-04-09. [메타분석, 1073명] [DOI 10.1111/iwj.13803](https://doi.org/10.1111/iwj.13803) — 전통 중의학 치료(중약 외용제, 침, 뜸)를 받은 군이 대조군에 비해 완전 치유율(OR 5.94)과 완치율(OR 4.79)이 유의하게 높았다.
 
 [^7]: RETRACTION : Effect of Chinese Herbal Topical Medicine, Acupuncture, and Moxibustion on Pressure Ulcer Wound Healing: A Meta‐Analysis. _International Wound Journal_. 2025-03-26. [메타분석] [DOI 10.1111/iwj.70417](https://doi.org/10.1111/iwj.70417) — 해당 연구는 동료 심사 과정의 문제로 인해 철회되었으므로, 유효한 결론을 도출할 수 없다.
 
@@ -386,7 +386,7 @@
 
 [^15]: RETRACTED: Treatment of diabetic foot with moxibustion: Clinical evidence from meta‐analysis. Yue Ji 외. _International Wound Journal_. 2024-02. [메타분석, 1196명] [DOI 10.1111/iwj.14791](https://doi.org/10.1111/iwj.14791) — 灸(뜸, moxibustion) 치료는 대조군에 비해 유효율을 높이고, 치유 시간을 단축하며, 상처 면적을 줄이고, 발목-팔 지수(ABI)를 유의하게 개선시키는 효과가 있었다.
 
-[^16]: Traditional Chinese Medicine Injections in the Treatment of Diabetic Foot: A Systematic Review and Meta‐Analysis. Lizi Tan 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [메타분석, 1294명] [DOI 10.1155/2018/4730896](https://doi.org/10.1155/2018/4730896) — 전통 중의학 주사제(TCMIs) 병용 투여군은 대조군에 비해 임상적 유효율이 유의하게 높았으며(RR=1.27), 정중신경과 비골신경의 운동 신경 전도 속도 개선 및 혈장/혈액 점도 감소 효과가 나타났다. 하지만 감각 신경 전도 속도에서는 유의미한 차이가 없었다.
+[^16]: Traditional Chinese Medicine Injections in the Treatment of Diabetic Foot: A Systematic Review and Meta‐Analysis. Tan L 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [메타분석, 1294명] [DOI 10.1155/2018/4730896](https://doi.org/10.1155/2018/4730896) — 전통 중의학 주사제(TCMIs) 병용 투여군은 대조군에 비해 임상적 유효율이 유의하게 높았으며(RR=1.27), 정중신경과 비골신경의 운동 신경 전도 속도 개선 및 혈장/혈액 점도 감소 효과가 나타났다. 하지만 감각 신경 전도 속도에서는 유의미한 차이가 없었다.
 
 [^17]: RETRACTION : Treatment of Diabetic Foot With Moxibustion: Clinical Evidence From Meta‐Analysis. _International Wound Journal_. 2025-04. [메타분석] [DOI 10.1111/iwj.70655](https://doi.org/10.1111/iwj.70655) — 해당 연구는 동료 심사 과정의 심각한 결함으로 인해 철회되었으므로, 신뢰할 수 있는 결론을 도출할 수 없습니다.
 
@@ -406,13 +406,13 @@
 
 [^31]: Effect of traditional Chinese medicine on serum inflammation and efficacy in patients with sepsis: a systematic review and meta-analysis.. Wen Y 외. _Annals of palliative medicine_. 2021-12. [메타분석, 862명] [DOI 10.21037/apm-21-3179](https://doi.org/10.21037/apm-21-3179) [PMID 35016478](https://pubmed.ncbi.nlm.nih.gov/35016478/) — 한의학적 치료를 병행한 결과, IL-6 및 TNF-α 수치가 유의하게 낮아졌고, APACHE II 점수가 감소하였으며, 사망률 감소 및 치료 유효율 향상이 확인되었다.
 
-[^32]: The impact of traditional Chinese medicine on gastrointestinal dysfunction in sepsis patients: a systematic review and network meta-analysis. Ziyi Sang 외. _Frontiers in Pharmacology_. 2025-10-10. [메타분석] [DOI 10.3389/fphar.2025.1648809](https://doi.org/10.3389/fphar.2025.1648809) — 전반적으로 한약 치료가 통상적 치료보다 우수하였으며, 구체적으로는 大柴胡湯(대시호탕)이 위장관 기능 점수 개선에, 調氣通腑湯(조기통부탕)이 복압 및 APACHE II 점수 감소에, 大黃附子湯(대황부자탕)이 AGI 등급 개선에, 血必净(혈필정)이 장 점막 장벽 회복(D-lactate, DAO 개선)에 가장 효과적이었다.
+[^32]: The impact of traditional Chinese medicine on gastrointestinal dysfunction in sepsis patients: a systematic review and network meta-analysis. Sang Z 외. _Frontiers in Pharmacology_. 2025-10-10. [메타분석] [DOI 10.3389/fphar.2025.1648809](https://doi.org/10.3389/fphar.2025.1648809) — 전반적으로 한약 치료가 통상적 치료보다 우수하였으며, 구체적으로는 大柴胡湯(대시호탕)이 위장관 기능 점수 개선에, 調氣通腑湯(조기통부탕)이 복압 및 APACHE II 점수 감소에, 大黃附子湯(대황부자탕)이 AGI 등급 개선에, 血必净(혈필정)이 장 점막 장벽 회복(D-lactate, DAO 개선)에 가장 효과적이었다.
 
-[^33]: Efficacy and safety of acupuncture as a complementary therapy for sepsis: a systematic review and meta-analysis. Jin Xian 외. _Acupuncture in Medicine_. 2022-05-17. [메타분석, 1099명] [DOI 10.1177/09645284221086288](https://doi.org/10.1177/09645284221086288) — 침 치료를 표준 치료와 병행했을 때, 단독 표준 치료군에 비해 28일 사망률이 유의하게 감소하고 APACHE II 점수가 개선되었으며, 여러 염증 지표들이 감소하는 효과가 나타났다.
+[^33]: Efficacy and safety of acupuncture as a complementary therapy for sepsis: a systematic review and meta-analysis. Xian J 외. _Acupuncture in Medicine_. 2022-05-17. [메타분석, 1099명] [DOI 10.1177/09645284221086288](https://doi.org/10.1177/09645284221086288) — 침 치료를 표준 치료와 병행했을 때, 단독 표준 치료군에 비해 28일 사망률이 유의하게 감소하고 APACHE II 점수가 개선되었으며, 여러 염증 지표들이 감소하는 효과가 나타났다.
 
 [^34]: Comparative Efficacy of Tonic Chinese Herbal Injections for Treating Sepsis or Septic Shock: A Systematic Review and Bayesian Network Meta-Analysis of Randomized Controlled Trials. Lu Xiao 외. _Frontiers in Pharmacology_. 2022-03-15. [메타분석, 3394명] [DOI 10.3389/fphar.2022.830030](https://doi.org/10.3389/fphar.2022.830030) — 신기부정주(神氣扶正 injection)가 APACHE II 점수 개선, CRP 수치 감소 및 면역 기능 조절에 가장 효과적이었으며, 신부주(神扶 injection)는 염증 인자(IL-6, TNF-α) 감소 및 28일 사망률 저하에 가장 우수한 효과를 보였다.
 
-[^36]: Efficacy and Safety of Xuebijing Injection, an Herbal-Based Injection, in Patients with Sepsis: Evidence from Randomized Controlled Trials of 3007 Subjects. Gang Cao 외. _Journal of Integrative and Complementary Medicine_. 2026-02-04. [메타분석, 3007명] [DOI 10.1177/27683605251415490](https://doi.org/10.1177/27683605251415490) — 혈비정 주사는 통상적 치료와 병용 시 28일 사망률, 치료 중 사망률, APACHE II 점수 및 체온을 유의하게 감소시키며 안전한 것으로 나타났다.
+[^36]: Efficacy and Safety of Xuebijing Injection, an Herbal-Based Injection, in Patients with Sepsis: Evidence from Randomized Controlled Trials of 3007 Subjects. Cao G 외. _Journal of Integrative and Complementary Medicine_. 2026-02-04. [메타분석, 3007명] [DOI 10.1177/27683605251415490](https://doi.org/10.1177/27683605251415490) — 혈비정 주사는 통상적 치료와 병용 시 28일 사망률, 치료 중 사망률, APACHE II 점수 및 체온을 유의하게 감소시키며 안전한 것으로 나타났다.
 
 [^38]: Additional traditional Chinese medicine on gastrointestinal dysfunction in patients with sepsis: A systematic review and meta-analysis.. Zhang Y 외. _Pakistan journal of pharmaceutical sciences_. 2016-03. [메타분석, 278명] [PMID 27113305](https://pubmed.ncbi.nlm.nih.gov/27113305/) — 양방 치료에 중의학 치료를 병용했을 때 APACHE II, 장음 점수, SIRS 점수가 개선되고 복부 팽만과 백혈구 수, DAO 수치가 유의하게 감소하였으며, 안전성 면에서는 양방 단독 치료와 유의한 차이가 없었다.
 
@@ -422,7 +422,7 @@
 
 [^45]: [Effects of radix Astragali injection on apoptosis of lymphocytes and immune function in patients with systemic lupus erythematosus].. Cai XY 외. _Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine_. 2006-05. [임상시험, 80명] [PMID 16883914](https://pubmed.ncbi.nlm.nih.gov/16883914/) — 황기 주사액 병행 투여군은 통상적 치료만 받은 군에 비해 림프구의 Fas 항원 발현은 유의하게 감소하고, Bcl-2 항원 발현 및 CD4+ 림프구 비율과 CD4+/CD8+ 비율은 유의하게 증가하여 면역 조절 및 세포사멸 억제 효과가 더 뛰어났다.
 
-[^50]: Acupuncture for Acute Pancreatitis. Kai Zhang 외. _Pancreas_. 2019-10. [메타분석] [DOI 10.1097/mpa.0000000000001399](https://doi.org/10.1097/mpa.0000000000001399) — 침 치료와 통상적 치료를 병행했을 때 총 유효율과 위장 기능이 유의하게 개선되었으며, APACHE II 점수, TNF-α 수치, 식사 재개 시간 및 입원 기간이 유의하게 감소하여 효과적인 것으로 나타났다.
+[^50]: Acupuncture for Acute Pancreatitis. Zhang K 외. _Pancreas_. 2019-10. [메타분석] [DOI 10.1097/mpa.0000000000001399](https://doi.org/10.1097/mpa.0000000000001399) — 침 치료와 통상적 치료를 병행했을 때 총 유효율과 위장 기능이 유의하게 개선되었으며, APACHE II 점수, TNF-α 수치, 식사 재개 시간 및 입원 기간이 유의하게 감소하여 효과적인 것으로 나타났다.
 
 [^59]: The role of traditional Chinese medicine in postoperative wound complications of gastric cancer.. Chen S 외. _International wound journal_. 2024-04. [메타분석, 3178명, 철회됨] [DOI 10.1111/iwj.14847](https://doi.org/10.1111/iwj.14847) [PMID 38584331](https://pubmed.ncbi.nlm.nih.gov/38584331/) — **철회(Retraction Notice: [PMID 40264442](https://pubmed.ncbi.nlm.nih.gov/40264442/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 중의학 치료는 수술 후 전체 합병증 위험을 약 19% 낮췄으며, 특히 상처 감염(53% 감소)과 절개 부위 감염(48% 감소)을 유의하게 억제하고 상처 치유 기간 및 위장관 기능 회복 시간을 단축시키는 긍정적인 효과를 보였다.
 

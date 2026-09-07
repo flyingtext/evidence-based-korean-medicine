@@ -398,7 +398,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^11]: Hypersensitivity reactions to neuromuscular blocking agents. Mertes PM 외. _Current pharmaceutical design_. 2008. [문헌 고찰, 인간 데이터 한정] [DOI 10.2174/138161208786369704](https://doi.org/10.2174/138161208786369704) [PMID 18991700](https://pubmed.ncbi.nlm.nih.gov/18991700/) — 근이완제 과민반응 평가 시 피내검사와 BAT 병행이 권장됨을 정리하였다.
 
-[^12]: In Search of Clinical Markers: Indicators of Exposure in Dampness and Mold Hypersensitivity Syndrome (DMHS). Kirsi Vaali 외. _Journal of Fungi_. 2023-03-07. [관찰연구] [DOI 10.3390/jof9030332](https://doi.org/10.3390/jof9030332) — 환경성 과민증 환자에서는 표준 BAT 프로토콜보다 낮은 농도에서도 호염기구가 반응함을 확인하였다.
+[^12]: In Search of Clinical Markers: Indicators of Exposure in Dampness and Mold Hypersensitivity Syndrome (DMHS). Vaali K 외. _Journal of Fungi_. 2023-03-07. [관찰연구] [DOI 10.3390/jof9030332](https://doi.org/10.3390/jof9030332) — 환경성 과민증 환자에서는 표준 BAT 프로토콜보다 낮은 농도에서도 호염기구가 반응함을 확인하였다.
 
 [^13]: Efficacy and Safety of Sublingual Immunotherapy in Elderly Rhinitis Patients Sensitized to House Dust Mites. Kim JH 외. _Allergy, asthma & immunology research_. 2018-11. [임상시험] [DOI 10.4168/aair.2018.10.6.675](https://doi.org/10.4168/aair.2018.10.6.675) [PMID 30306749](https://pubmed.ncbi.nlm.nih.gov/30306749/) — 고령 비염 환자의 SLIT 치료 후 호염기구 CD203c 발현 감소가 확인되었다.
 
@@ -432,7 +432,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^28]: Klinefelter syndrome and acute basophilic leukaemia--case report. Ljubić N 외. _Collegium antropologicum_. 2010-06. [증례 보고] [PMID 20698148](https://pubmed.ncbi.nlm.nih.gov/20698148/) — 클라인펠터 증후군에서 발생한 극히 드문 급성 호염기구 백혈병 첫 증례다.
 
-[^29]: Acute Myeloid Leukemia with Basophilic Differentiation Transformed from Myelodysplastic Syndrome. Yasuhiro Tanaka 외. _Case Reports in Hematology_. 2017. [증례 보고] [DOI 10.1155/2017/4695491](https://doi.org/10.1155/2017/4695491) — MDS의 호염기구 분화 급성 골수성 백혈병 전환 사례와 CD203c·CD294 표지자의 유용성을 보여준다.
+[^29]: Acute Myeloid Leukemia with Basophilic Differentiation Transformed from Myelodysplastic Syndrome. Tanaka Y 외. _Case Reports in Hematology_. 2017. [증례 보고] [DOI 10.1155/2017/4695491](https://doi.org/10.1155/2017/4695491) — MDS의 호염기구 분화 급성 골수성 백혈병 전환 사례와 CD203c·CD294 표지자의 유용성을 보여준다.
 
 [^30]: Clinical Characteristics and Diagnosis of Myelodysplastic Syndrome Accompanied by Eosinophilia and Basophilia. Gao J 외. _Clinical laboratory_. 2026-08-01. [증례 보고] [DOI 10.7754/Clin.Lab.2025.250928](https://doi.org/10.7754/Clin.Lab.2025.250928) [PMID 42570659](https://pubmed.ncbi.nlm.nih.gov/42570659/) — 호산구·호염구 동반 MDS의 진단에는 종합적 검사와 조기 위험도 층화가 필요함을 강조한다.
 
@@ -468,7 +468,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^46]: The burden of symptomatic patients with chronic spontaneous urticaria: a real-world study in Korea. Young-Min Ye 외. _The Korean Journal of Internal Medicine_. 2022-09. [관찰연구] [DOI 10.3904/kjim.2022.078](https://doi.org/10.3904/kjim.2022.078) — 항히스타민제 불응성 CSU 환자의 삶의 질 저하·의료자원 이용 증가를 실증하였다.
 
-[^47]: Anxiety, depression, and stress in Korean patients with chronic urticaria. Gil-Soon Choi 외. _The Korean Journal of Internal Medicine_. 2020-11. [관찰연구] [DOI 10.3904/kjim.2019.320](https://doi.org/10.3904/kjim.2019.320) — 한국인 CSU 환자에서 높은 불안·우울 유병률과 삶의 질 저하의 연관성을 확인하였다.
+[^47]: Anxiety, depression, and stress in Korean patients with chronic urticaria. Choi GS 외. _The Korean Journal of Internal Medicine_. 2020-11. [관찰연구] [DOI 10.3904/kjim.2019.320](https://doi.org/10.3904/kjim.2019.320) — 한국인 CSU 환자에서 높은 불안·우울 유병률과 삶의 질 저하의 연관성을 확인하였다.
 
 [^48]: Biomarkers for Short-Term Omalizumab Response in Chronic Spontaneous Urticaria. 김완진 외. _Annals of Dermatology_. 2024-12. [관찰연구] [DOI 10.5021/ad.24.004](https://doi.org/10.5021/ad.24.004) — 짧은 유병 기간·높은 초기 총 IgE가 오말리주맙 치료 반응 예측 인자임을 제시하였다.
 
@@ -478,13 +478,13 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^51]: Manual acupuncture for the treatment of chronic spontaneous urticaria: a systematic review and meta-analysis. Yunfeng Yu 외. _International Journal of Surgery_. 2025-07-01. [메타분석] [DOI 10.1097/js9.0000000000002887](https://doi.org/10.1097/js9.0000000000002887) — 수기 침이 CSU의 피부 증상·수면·정서·삶의 질을 함께 개선함을 보여준다.
 
-[^52]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. Ruyu Chen 외. _Medicine_. 2025-06-13. [메타분석] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — TCM 기반 치료가 만성 두드러기의 증상 개선·낮은 재발률·우수한 안전성과 연관됨을 보여준다.
+[^52]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. Chen R 외. _Medicine_. 2025-06-13. [메타분석] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — TCM 기반 치료가 만성 두드러기의 증상 개선·낮은 재발률·우수한 안전성과 연관됨을 보여준다.
 
-[^53]: Autohemotherapy combined with other external treatments of Traditional Chinese Medicine for chronic urticaria: a systematic review and meta-analysis. Jinchu Zhou 외. _Frontiers in Medicine_. 2026-06-10. [메타분석] [DOI 10.3389/fmed.2026.1818960](https://doi.org/10.3389/fmed.2026.1818960) — 자가혈액요법과 한방 외치법 병용이 반응률 향상과 IgE 감소에 기여함을 보여준다.
+[^53]: Autohemotherapy combined with other external treatments of Traditional Chinese Medicine for chronic urticaria: a systematic review and meta-analysis. Zhou J 외. _Frontiers in Medicine_. 2026-06-10. [메타분석] [DOI 10.3389/fmed.2026.1818960](https://doi.org/10.3389/fmed.2026.1818960) — 자가혈액요법과 한방 외치법 병용이 반응률 향상과 IgE 감소에 기여함을 보여준다.
 
 [^54]: A Meta-Analysis of Randomized Clinical Trials of Runzao Zhiyang Capsule in Chronic Urticaria. Shengzhen Ye 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-09-17. [메타분석] [DOI 10.1155/2022/1904598](https://doi.org/10.1155/2022/1904598) — 룬자오즈양캡슐 병용이 유효율 향상·재발률 감소와 연관됨을 확인하였다.
 
-[^55]: Acupuncture for patients with chronic urticaria: a systematic review protocol. Qin Yao 외. _BMJ Open_. 2015-09. [체계적 고찰] [DOI 10.1136/bmjopen-2015-007704](https://doi.org/10.1136/bmjopen-2015-007704) — 만성 두드러기 침 치료 평가를 위한 체계적 고찰 프로토콜이다.
+[^55]: Acupuncture for patients with chronic urticaria: a systematic review protocol. Yao Q 외. _BMJ Open_. 2015-09. [체계적 고찰] [DOI 10.1136/bmjopen-2015-007704](https://doi.org/10.1136/bmjopen-2015-007704) — 만성 두드러기 침 치료 평가를 위한 체계적 고찰 프로토콜이다.
 
 [^56]: Efficacy of Acupuncture and Moxibustion in the Treatment of Chronic Urticaria and Its Effect on Cellular Immune Indexes and Th1/Th2 Cell Dysfunction. Xiaoxiao Xu 외. _Acupuncture & Electro-Therapeutics Research_. 2026-01-13. [임상시험] [DOI 10.1177/03601293251412415](https://doi.org/10.1177/03601293251412415) — 침구 병행이 Th1/Th2 균형 조절과 유효율 향상에 기여함을 확인하였다.
 
@@ -492,9 +492,9 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^58]: Efficacy and safety of Chinese medicine combined with acupuncture in the treatment of chronic urticaria: A meta-analysis. Zhenxiong Lu 외. _Medicine_. 2022-09-09. [메타분석] [DOI 10.1097/md.0000000000030381](https://doi.org/10.1097/md.0000000000030381) — 한약·침 병용이 유효율 향상, 가려움증·재발률·부작용 감소와 연관됨을 확인하였다.
 
-[^59]: Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria. Leixiao Zhang 외. _Medicine_. 2019-06. [체계적 고찰] [DOI 10.1097/md.0000000000016127](https://doi.org/10.1097/md.0000000000016127) — 자가 전혈·혈청 혈자리 주입 요법의 체계적 평가 프로토콜이다.
+[^59]: Autologous whole-blood or autologous serum acupoint injection therapy for chronic urticaria. Zhang L 외. _Medicine_. 2019-06. [체계적 고찰] [DOI 10.1097/md.0000000000016127](https://doi.org/10.1097/md.0000000000016127) — 자가 전혈·혈청 혈자리 주입 요법의 체계적 평가 프로토콜이다.
 
-[^60]: Acupoint injection of Bacillus Calmette–Guerin polysaccharide nucleic acid for patients with chronic urticaria. Wei Cao 외. _Medicine_. 2020-05. [체계적 고찰] [DOI 10.1097/md.0000000000019924](https://doi.org/10.1097/md.0000000000019924) — BCG 다당류 핵산 혈위 주사 평가를 위한 체계적 고찰 프로토콜이다.
+[^60]: Acupoint injection of Bacillus Calmette–Guerin polysaccharide nucleic acid for patients with chronic urticaria. Cao W 외. _Medicine_. 2020-05. [체계적 고찰] [DOI 10.1097/md.0000000000019924](https://doi.org/10.1097/md.0000000000019924) — BCG 다당류 핵산 혈위 주사 평가를 위한 체계적 고찰 프로토콜이다.
 
 [^61]: [Influence of penetrative needling of Shendao (GV 11) on the symptom score and serum IgE content in chronic urticaria patients]. Gao H 외. _Zhen ci yan jiu_. 2009-08. [임상시험] [PMID 19916293](https://pubmed.ncbi.nlm.nih.gov/19916293/) — 신도혈 관통 자침이 증상 점수와 혈청 IgE 감소에 효과적임을 시사한다.
 
@@ -524,7 +524,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^74]: Efficacy of Bloodletting Therapy in Patients with Chronic Idiopathic Urticaria: A Randomized Control Trial. Biru Ma 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [임상시험] [DOI 10.1155/2020/6598708](https://doi.org/10.1155/2020/6598708) — 자락법·부항 병행이 항히스타민제 단독보다 유효율을 높였다.
 
-[^75]: Bloodletting Therapy for Patients with Chronic Urticaria: A Systematic Review and Meta-Analysis. Qin Yao 외. _BioMed Research International_. 2019-04-16. [메타분석] [DOI 10.1155/2019/8650398](https://doi.org/10.1155/2019/8650398) — 자락법이 질환 활성도 조절과 반응률 개선에 효과적이며 안전함을 확인하였다.
+[^75]: Bloodletting Therapy for Patients with Chronic Urticaria: A Systematic Review and Meta-Analysis. Yao Q 외. _BioMed Research International_. 2019-04-16. [메타분석] [DOI 10.1155/2019/8650398](https://doi.org/10.1155/2019/8650398) — 자락법이 질환 활성도 조절과 반응률 개선에 효과적이며 안전함을 확인하였다.
 
 [^76]: Cupping therapy for patients with chronic urticaria: A systematic review and meta-analysis. Xiao XJ 외. _Journal of integrative medicine_. 2020-07. [메타분석] [DOI 10.1016/j.joim.2020.05.004](https://doi.org/10.1016/j.joim.2020.05.004) [PMID 32534938](https://pubmed.ncbi.nlm.nih.gov/32534938/) — 부항 병용이 유효율 향상·재발률 감소의 보조 효과를 보였다.
 
@@ -552,7 +552,7 @@ BAT는 검사실 간 표준화가 미흡하다는 한계가 있으므로, 결과
 
 [^88]: Risk factors of anaphylaxis in Korea: Identifying drug-induced anaphylaxis culprits using big data. Ahn KM 외. _Medicine_. 2022-09-02. [관찰연구] [DOI 10.1097/MD.0000000000030224](https://doi.org/10.1097/MD.0000000000030224) [PMID 36107532](https://pubmed.ncbi.nlm.nih.gov/36107532/) — 한국인 아나필락시스 고위험 약물 5종을 빅데이터로 식별하였다.
 
-[^89]: Causes and Diagnostic Usefulness of Tryptase Measurements for Anaphylaxis in a Korean Tertiary Care General Hospital. Lin Liang 외. _Yonsei Medical Journal_. 2022-12. [관찰연구] [DOI 10.3349/ymj.2022.0172](https://doi.org/10.3349/ymj.2022.0172) — 알고리즘 기반 트립타제 해석이 진단 민감도를 높임을 확인하였다.
+[^89]: Causes and Diagnostic Usefulness of Tryptase Measurements for Anaphylaxis in a Korean Tertiary Care General Hospital. Liang L 외. _Yonsei Medical Journal_. 2022-12. [관찰연구] [DOI 10.3349/ymj.2022.0172](https://doi.org/10.3349/ymj.2022.0172) — 알고리즘 기반 트립타제 해석이 진단 민감도를 높임을 확인하였다.
 
 [^90]: Incidence Rate of Bee Venom Acupuncture Related Anaphylaxis: A Systematic Review. Seong-Hwan Ko 외. _Toxins_. 2022-03-26. [체계적 고찰] [DOI 10.3390/toxins14040238](https://doi.org/10.3390/toxins14040238) — 봉침 아나필락시스 발생률(0.045%)과 여성에서의 위험 증가 경향을 확인하였다.
 

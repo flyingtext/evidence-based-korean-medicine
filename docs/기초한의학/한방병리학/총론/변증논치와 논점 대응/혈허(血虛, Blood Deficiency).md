@@ -1208,7 +1208,7 @@ COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-di
 
 [^165]: Comparative effectiveness and safety of traditional Chinese medicine supporting Qi and enriching blood for cancer related anemia in patients not receiving chemoradiotherapy: a meta-analysis and systematic review. Dang Z 외. _Drug design, development and therapy_. 2019. [메타분석] [DOI 10.2147/DDDT.S181182](https://doi.org/10.2147/DDDT.S181182) [PMID 30643388](https://pubmed.ncbi.nlm.nih.gov/30643388/) — 보기양혈 한방치료가 화학방사선요법을 받지 않는 암 관련 빈혈에서 헤모글로빈과 유효율을 개선했다는 메타분석으로, 항암 전후 혈허 관리의 근거를 넓힌다.
 
-[^166]: Use of Herbal Dietary Supplement Si-Wu-Tang and Health-Related Quality of Life in Postpartum Women: A Population-Based Correlational Study. Pei-Jen Chang 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/790474](https://doi.org/10.1155/2013/790474) — 산후 여성에서 사물탕 사용이 신체통증 감소·정신건강 개선과 연관되며, 10회 이상 충분히 사용할 때 효과가 뚜렷했다는 인구기반 관찰연구로 산후 혈허 관리 근거를 보강한다.
+[^166]: Use of Herbal Dietary Supplement Si-Wu-Tang and Health-Related Quality of Life in Postpartum Women: A Population-Based Correlational Study. Chang PJ 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/790474](https://doi.org/10.1155/2013/790474) — 산후 여성에서 사물탕 사용이 신체통증 감소·정신건강 개선과 연관되며, 10회 이상 충분히 사용할 때 효과가 뚜렷했다는 인구기반 관찰연구로 산후 혈허 관리 근거를 보강한다.
 
 [^167]: Guipi decoction for insomnia: Systematic review and meta-analysis. Li M 외. _Medicine_. 2020-07-02. [메타분석] [DOI 10.1097/MD.0000000000021031](https://doi.org/10.1097/MD.0000000000021031) [PMID 32629727](https://pubmed.ncbi.nlm.nih.gov/32629727/) — 귀비탕이 불면증 치료·안전성 면에서 메타분석적으로 평가되어, 혈허 겸 심비양허형 불면의 대표방으로서 근거를 보탠다.
 
@@ -1222,7 +1222,7 @@ COPD 급성 악화에서 기익혈활법(생맥+단삼)이 혈전지표(Fg, D-di
 
 [^172]: Efficacy and safety of the traditional Japanese herbal medicine kamikihito for bone marrow suppression, particularly thrombocytopenia, during chemotherapy for advanced recurrent ovarian cancer. Toru Yanase 외. _Traditional &amp; Kampo Medicine_. 2017-10-28. [관찰연구] [DOI 10.1002/tkm2.1087](https://doi.org/10.1002/tkm2.1087) — 가미귀비탕이 난소암 항암치료 중 골수억제(특히 혈소판감소증)를 완화했다는 관찰연구로, 귀비탕 계열의 골수 보호적 활용 근거를 보탠다.
 
-[^173]: Prescription of Chinese Herbal Medicine and Selection of Acupoints in Pattern-Based Traditional Chinese Medicine Treatment for Insomnia: A Systematic Review. Wing-Fai Yeung 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [체계적 고찰] [DOI 10.1155/2012/902578](https://doi.org/10.1155/2012/902578) — 불면증의 변증-처방-경혈 대응을 검토한 체계적고찰로, 귀비탕·신문(HT7)·백회(GV20) 등 혈허 겸 심신불안형 불면 취혈의 근거 기반을 제공한다.
+[^173]: Prescription of Chinese Herbal Medicine and Selection of Acupoints in Pattern-Based Traditional Chinese Medicine Treatment for Insomnia: A Systematic Review. Yeung WF 외. _Evidence-Based Complementary and Alternative Medicine_. 2012. [체계적 고찰] [DOI 10.1155/2012/902578](https://doi.org/10.1155/2012/902578) — 불면증의 변증-처방-경혈 대응을 검토한 체계적고찰로, 귀비탕·신문(HT7)·백회(GV20) 등 혈허 겸 심신불안형 불면 취혈의 근거 기반을 제공한다.
 
 [^174]: Traditional Chinese Medicine Formulas against Insomnia: A Systematic Review and Meta-analysis. JENCHIN LIN 외. __. 2022-05-06. [메타분석] [DOI 10.21203/rs.3.rs-1591771/v1](https://doi.org/10.21203/rs.3.rs-1591771/v1) — 전통 한방 처방이 불면증에서 서양의학적 치료보다 유효율·PSQI 개선이 우수했다는 메타분석으로, 산조인탕·천왕보심단 등 보혈안신 처방의 근거를 넓힌다.
 

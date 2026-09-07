@@ -409,9 +409,9 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^12]: Circadian variations in electric current responses at ryodoraku points across the waking stage: A prospective observational study. Bae JH 외. _Medicine_. 2019-03. [관찰연구, 14명] [DOI 10.1097/MD.0000000000014688](https://doi.org/10.1097/MD.0000000000014688) [PMID 30817602](https://pubmed.ncbi.nlm.nih.gov/30817602/) — 료도라쿠 지점의 전기전도도(EDA)는 뚜렷한 일주기 리듬을 보이며, 일반적으로 아침에 가장 낮고 늦은 오후에 가장 높게 나타난다.
 
-[^13]: Impact of Surgical Intervention and Postoperative Pain on Electrical Skin Resistance at Acupuncture Points: An Exploratory Study. Sybille Kramer 외. _Acupuncture in Medicine_. 2012-06. [실험연구, 163명] [DOI 10.1136/acupmed-2011-010118](https://doi.org/10.1136/acupmed-2011-010118) — 본 연구는 수술적 외상 후 특정 경혈(특히 GB34)에서 전기 피부 저항(ESR)의 변화가 나타날 수 있음을 시사하며, 이는 병리적 상태가 경혈의 전기적 특성에 영향을 줄 수 있다는 이론을 뒷받침합니다.
+[^13]: Impact of Surgical Intervention and Postoperative Pain on Electrical Skin Resistance at Acupuncture Points: An Exploratory Study. Kramer S 외. _Acupuncture in Medicine_. 2012-06. [실험연구, 163명] [DOI 10.1136/acupmed-2011-010118](https://doi.org/10.1136/acupmed-2011-010118) — 본 연구는 수술적 외상 후 특정 경혈(특히 GB34)에서 전기 피부 저항(ESR)의 변화가 나타날 수 있음을 시사하며, 이는 병리적 상태가 경혈의 전기적 특성에 영향을 줄 수 있다는 이론을 뒷받침합니다.
 
-[^14]: Electrical Skin Resistance Changes in Meridians During Ophthalmic Surgery with Local Anesthesia. Hiromaru Ogata 외. _The American Journal of Chinese Medicine_. 1983-01. [실험연구] [DOI 10.1142/s0192415x83000215](https://doi.org/10.1142/s0192415x83000215) — 국소마취 하의 안과 수술 시 경락의 피부 전기저항 변화는 침마취 시보다 현저히 적게 나타났으며, 이는 통증 완화로 인해 교감신경 활동이 억제되었기 때문으로 추정된다.
+[^14]: Electrical Skin Resistance Changes in Meridians During Ophthalmic Surgery with Local Anesthesia. Ogata H 외. _The American Journal of Chinese Medicine_. 1983-01. [실험연구] [DOI 10.1142/s0192415x83000215](https://doi.org/10.1142/s0192415x83000215) — 국소마취 하의 안과 수술 시 경락의 피부 전기저항 변화는 침마취 시보다 현저히 적게 나타났으며, 이는 통증 완화로 인해 교감신경 활동이 억제되었기 때문으로 추정된다.
 
 [^15]: Detection of Ear Acupuncture Points by Measuring the Electrical Skin Resistance in Patients Before, during and after Orthopedic Surgery Performed under General Anesthesia. Taras I. Usichenko 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2003-08. [관찰연구, 40명] [DOI 10.3727/036012903815901606](https://doi.org/10.3727/036012903815901606) — 수술 중 및 수술 전후의 피부 전기저항 측정을 통해 신문혈(神門穴)과 수술 부위 관련 이침혈이 유의하게 탐지됨을 확인하였다.
 
@@ -445,7 +445,7 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^30]: Emulated laser-acupuncture system. Chang SC 외. _Applied optics_. 2014-10-10. [실험연구, 5명] [DOI 10.1364/AO.53.00H170](https://doi.org/10.1364/AO.53.00H170) [PMID 25322416](https://pubmed.ncbi.nlm.nih.gov/25322416/) — 전통적인 침술의 제삽법(lifting and thrusting)을 모사할 수 있는 레이저-침 시스템이 개발되었으며, 이는 단순 자극보다 경락 반응을 더 유의하게 유도함이 확인되었다.
 
-[^31]: Localization of Auricular Acupoints for Treating Idiopathic Chronic Low Back Pain Using Pressure Pain Test and Electrical Skin Resistance Test. Giuseppe Fatiga 외. _Medical Acupuncture_. 2026-02-04. [관찰연구, 128명] [DOI 10.1177/19336586261419294](https://doi.org/10.1177/19336586261419294) — 특발성 만성 요통 환자의 이개(耳介)에서 ESRT와 PPT를 통해 유의미한 반응점이 나타나는 4가지 주요 영역(AH9, P1, TF4, AH5)을 확인하였다.
+[^31]: Localization of Auricular Acupoints for Treating Idiopathic Chronic Low Back Pain Using Pressure Pain Test and Electrical Skin Resistance Test. Fatiga G 외. _Medical Acupuncture_. 2026-02-04. [관찰연구, 128명] [DOI 10.1177/19336586261419294](https://doi.org/10.1177/19336586261419294) — 특발성 만성 요통 환자의 이개(耳介)에서 ESRT와 PPT를 통해 유의미한 반응점이 나타나는 4가지 주요 영역(AH9, P1, TF4, AH5)을 확인하였다.
 
 [^32]: Auricular Acupoints with Reduced Skin Resistance: Detection in Patients Scheduled for Hip Arthroplasty. Usichenko TI 외. _Medical acupuncture_. 2018-12-01. [관찰연구, 114명] [DOI 10.1089/acu.2018.1314](https://doi.org/10.1089/acu.2018.1314) [PMID 30671150](https://pubmed.ncbi.nlm.nih.gov/30671150/) — 고관절 질환이 있는 환자의 경우, 병변이 있는 쪽(환측)의 이침 혈위에서 전기 피부 저항이 낮게 측정되는 빈도가 유의하게 높음을 확인하였다.
 
@@ -455,7 +455,7 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^35]: Patterns of Energy Imbalance of the Meridians in Patients with Temporomandibular Dysfunction. Rasera Zotelli VL 외. _Journal of acupuncture and meridian studies_. 2018-02. [관찰연구, 40명] [DOI 10.1016/j.jams.2017.11.002](https://doi.org/10.1016/j.jams.2017.11.002) [PMID 29482796](https://pubmed.ncbi.nlm.nih.gov/29482796/) — 턱관절 장애(TMD) 환자들에게서 전반적인 기(氣) 부족(Qi deficiency) 패턴이 관찰되었으며, 특히 腎(신장)과 膀胱(방광) 경락, 그리고 소음(Shao Yin)과 소양(Shao Yang) 기면에서 가장 뚜렷한 불균형이 나타났다.
 
-[^36]: A Study of Electrical Conductance of Meridian in the Obese During Weight Reduction. Ching-Sung Weng 외. _The American Journal of Chinese Medicine_. 2004-01. [관찰연구, 40명] [DOI 10.1142/s0192415x04002077](https://doi.org/10.1142/s0192415x04002077) — 경락(經絡, meridian)의 전기전도도 측정이 비만 환자의 체중 변화 및 상태를 모니터링하는 객관적 지표로 활용될 수 있음을 시사한다.
+[^36]: A Study of Electrical Conductance of Meridian in the Obese During Weight Reduction. Weng CS 외. _The American Journal of Chinese Medicine_. 2004-01. [관찰연구, 40명] [DOI 10.1142/s0192415x04002077](https://doi.org/10.1142/s0192415x04002077) — 경락(經絡, meridian)의 전기전도도 측정이 비만 환자의 체중 변화 및 상태를 모니터링하는 객관적 지표로 활용될 수 있음을 시사한다.
 
 [^37]: The Potential of Yangdorak Diagnosis Application of Gallstone. Gyu Eon Han. _Journal of Korean Medicine_. 2024-03-01. [관찰연구, 97명] [DOI 10.13048/jkm.24009](https://doi.org/10.13048/jkm.24009) — 양도락 진단 시 여성 담석 환자군에서 담경(GB) 수치(F5 AVE)가 정상 대조군보다 유의하게 감소하는 경향이 확인되었다.
 
@@ -473,7 +473,7 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^44]: Therapeutic efficacy of Traditional Chinese medicine, "Kuan-Sin-Yin", in patients undergoing chemotherapy for advanced colon cancer - A controlled trial. Chien TJ 외. _Complementary therapies in medicine_. 2016-12. [임상시험, 52명] [DOI 10.1016/j.ctim.2016.10.001](https://doi.org/10.1016/j.ctim.2016.10.001) [PMID 27912948](https://pubmed.ncbi.nlm.nih.gov/27912948/) — 진행성 결장암 환자가 화학요법 중 관신음(Kuan-Sin-Yin)을 보조적으로 복용했을 때, 경락 에너지와 부교감 신경 톤(HRV)이 유의하게 개선되었으며 암 관련 증상 감소 및 삶의 질 향상이 확인되었다.
 
-[^45]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia, Which Was Also Shown Through Ryodoraku Electrical Measurements. Jui-Shu Chang 외. _Acupuncture &amp; Electro-Therapeutics Research_. 2016-07-08. [임상시험, 70명] [DOI 10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550) — 불면증 환자에게 三陰交(삼음교, SP6) 혈자리에 침 치료를 시행했을 때, 폐, 심포, 심, 소장, 삼초, 비, 방광, 위경의 전기 전도도(Ryodoraku scores)가 유의하게 변화함을 확인하였다.
+[^45]: Acupuncture at SP6 Point in Lower Extremities Improved Patients' Insomnia, Which Was Also Shown Through Ryodoraku Electrical Measurements. Chang JS 외. _Acupuncture &amp; Electro-Therapeutics Research_. 2016-07-08. [임상시험, 70명] [DOI 10.3727/036012916x14666839504550](https://doi.org/10.3727/036012916x14666839504550) — 불면증 환자에게 三陰交(삼음교, SP6) 혈자리에 침 치료를 시행했을 때, 폐, 심포, 심, 소장, 삼초, 비, 방광, 위경의 전기 전도도(Ryodoraku scores)가 유의하게 변화함을 확인하였다.
 
 [^46]: Nasal Irrigation with Licorice Extract for Allergic Rhinitis: A Clinical Study Evaluated by Subjective Assessments and Meridian Electrical Conductance. Yang PR 외. _Life (Basel, Switzerland)_. 2025-10-25. [임상시험, 60명] [DOI 10.3390/life15111667](https://doi.org/10.3390/life15111667) [PMID 41302092](https://pubmed.ncbi.nlm.nih.gov/41302092/) — 감초 추출물을 이용한 비강 세척(LNI)은 일반 생리식염수 세척보다 알레르기 비염 환자의 재채기, 코 가려움, 콧물 등 주요 증상과 삶의 질(SNOT-22)을 유의하게 개선한다.
 
@@ -483,7 +483,7 @@ Prognos 전기피부저항 측정기를 이용한 신뢰도 연구는 광범위�
 
 [^49]: Expert System of Chinese Medicine on the Moving Robotic Platform. Ching Kuo Wang. _Advanced Materials Research_. 2012-06-14. [실험연구] [DOI 10.4028/www.scientific.net/amr.538-541.2641](https://doi.org/10.4028/www.scientific.net/amr.538-541.2641) — 이 연구는 이동식 로봇 플랫폼을 이용하는 지체 장애인을 위해 척수 방광경 에너지를 실시간으로 측정하고 이에 따라 침치료를 수행하는 PC 기반 전문가 시스템을 제안하였다.
 
-[^50]: Evaluation of the Effectiveness of Protective Patches on Acupoints to Preserve the Bioenergetic Status against Magnetic Fields. Claudio Molinari 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [실험연구, 10명] [DOI 10.1155/2018/4732130](https://doi.org/10.1155/2018/4732130) — 본 연구는 전자기장(EMF)과 정자기장(SMF) 노출이 신체의 수분 시스템과 생체에너지 균형을 교란시킬 수 있음을 시사하며, Skudo® 패치를 경혈에 부착함으로써 이러한 불균형을 완화하고 정규화할 수 있음을 보여주었다.
+[^50]: Evaluation of the Effectiveness of Protective Patches on Acupoints to Preserve the Bioenergetic Status against Magnetic Fields. Molinari C 외. _Evidence-Based Complementary and Alternative Medicine_. 2018-01. [실험연구, 10명] [DOI 10.1155/2018/4732130](https://doi.org/10.1155/2018/4732130) — 본 연구는 전자기장(EMF)과 정자기장(SMF) 노출이 신체의 수분 시스템과 생체에너지 균형을 교란시킬 수 있음을 시사하며, Skudo® 패치를 경혈에 부착함으로써 이러한 불균형을 완화하고 정규화할 수 있음을 보여주었다.
 
 [^51]: Clinical Utility of Electrodermal Activity at Acupuncture Points: A Narrative Review. Agatha P Colbert 외. _Acupuncture in Medicine_. 2011-12. [문헌 고찰] [DOI 10.1136/acupmed-2011-010021](https://doi.org/10.1136/acupmed-2011-010021) — 경혈점의 전기피부활동(EDA) 측정은 이침(耳鍼)을 통해 병리 관련 부위를 구분하거나, 정혈(井穴)을 통해 침 치료의 효과를 모니터링하는 보조적 진단 도구로서의 가능성이 있다.
 

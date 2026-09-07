@@ -768,7 +768,7 @@ GRADE(Grading of Recommendations Assessment, Development and Evaluation) 관점�
 
 [^12]: Efficacy of Boric Acid as a Treatment of Choice for Chronic Suppurative Otitis Media and Its Ototoxicity. Indri Adriztina 외. _Korean Journal of Family Medicine_. 2018-01. [관찰연구] — 만성 화농성 중이염 치료에서 붕산의 유효성과 이독성 우려를 함께 검토한 자료다.
 
-[^13]: Citric Acid as an Alternative to Boric Acid in the Treatment of Chronic Suppurative Otitis Media. Basavraj Nagoba 외. _Korean Journal of Family Medicine_. 2019-07. [관찰연구] [DOI 10.4082/kjfm.18.0017](https://doi.org/10.4082/kjfm.18.0017) — 만성 화농성 중이염 치료에서 구연산이 붕산의 대안이 될 수 있는지 검토한 자료다.
+[^13]: Citric Acid as an Alternative to Boric Acid in the Treatment of Chronic Suppurative Otitis Media. Nagoba B 외. _Korean Journal of Family Medicine_. 2019-07. [관찰연구] [DOI 10.4082/kjfm.18.0017](https://doi.org/10.4082/kjfm.18.0017) — 만성 화농성 중이염 치료에서 구연산이 붕산의 대안이 될 수 있는지 검토한 자료다.
 
 [^14]: Paediatric chronic suppurative otitis media in rural Rwanda: Prevalence and parental practices. Tuyishimire G. _Journal of the colleges of medicine of South Africa_. 2024. [관찰연구] [DOI 10.4102/jcmsa.v2i1.77](https://doi.org/10.4102/jcmsa.v2i1.77) [PMID 40949654](https://pubmed.ncbi.nlm.nih.gov/40949654/) — 자원이 제한된 농촌 환경에서 소아 만성 화농성 중이염의 유병률과 보호자 관리 실태를 조사한 관찰 자료다.
 

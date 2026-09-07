@@ -736,7 +736,7 @@
 
 [^5]: Eppikajutsuto for Treatment of Lymphatic Malformations in Children: A Nonrandomized Clinical Trial. Ogawa-Ochiai K 외. _JAMA network open_. 2025-11-03. [임상시험, 19명] [DOI 10.1001/jamanetworkopen.2025.40897](https://doi.org/10.1001/jamanetworkopen.2025.40897) [PMID 41182768](https://pubmed.ncbi.nlm.nih.gov/41182768/) — 형개연교탕(荊芥連翹湯) 6개월 투여, 52.6% 환자 병변 부피 20% 이상 감소, 심각한 부작용 없음.
 
-[^6]: Efficacy and Safety of the Traditional Japanese Medicine Keigairengyoto in the Treatment of Acne Vulgaris. Kotaro Ito 외. _Dermatology Research and Practice_. 2018-07-02. [임상시험, 64명] [DOI 10.1155/2018/4127303](https://doi.org/10.1155/2018/4127303) — 형개연교탕 여드름 64명 임상시험, 개선 효과 확인.
+[^6]: Efficacy and Safety of the Traditional Japanese Medicine Keigairengyoto in the Treatment of Acne Vulgaris. Ito K 외. _Dermatology Research and Practice_. 2018-07-02. [임상시험, 64명] [DOI 10.1155/2018/4127303](https://doi.org/10.1155/2018/4127303) — 형개연교탕 여드름 64명 임상시험, 개선 효과 확인.
 
 [^7]: Schizonepeta tenuifolia: chemistry, pharmacology, and clinical applications. Fung D 외. _Journal of clinical pharmacology_. 2002-01. [문헌 고찰] [DOI 10.1177/0091270002042001003](https://doi.org/10.1177/0091270002042001003) [PMID 11817365](https://pubmed.ncbi.nlm.nih.gov/11817365/) — 형개 화학 성분·약리 활성·임상 응용 종합 정리, 감기·발열 치료 유용성.
 
@@ -770,7 +770,7 @@
 
 [^22]: [Research on the prescription characteristics in treatment of acute and chronic urticaria with integrative acupuncture and medicines based on data mining technology]. He GR 외. _Zhen ci yan jiu = Acupuncture research_. 2025-08-25. [체계적 고찰] [DOI 10.13702/j.1000-0607.20240391](https://doi.org/10.13702/j.1000-0607.20240391) [PMID 40854865](https://pubmed.ncbi.nlm.nih.gov/40854865/) — 급성 및 만성 두드러기 치료 시 침술과 한약을 병용하는 것이 단독 치료보다 시너지 효과를 통해 치료 결과를 향상시킬 수 있다.
 
-[^23]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. Ruyu Chen 외. _Medicine_. 2025-06-13. [메타분석, 1192명] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — 중의학(TCM) 기반 치료는 만성 두드러기 환자의 증상 개선에 효과적이며, 낮은 재발률과 우수한 안전성을 보여준다.
+[^23]: Treatment of chronic urticaria with traditional Chinese medicine: A systematic review, meta-analysis, and medication regularity. Chen R 외. _Medicine_. 2025-06-13. [메타분석, 1192명] [DOI 10.1097/md.0000000000042819](https://doi.org/10.1097/md.0000000000042819) — 중의학(TCM) 기반 치료는 만성 두드러기 환자의 증상 개선에 효과적이며, 낮은 재발률과 우수한 안전성을 보여준다.
 
 [^24]: Keigai-rengyo-to as post-exposure prophylaxis for severe acute respiratory syndrome coronavirus 2 infection. Chiba S 외. _Respiratory investigation_. 2023-11. [임상시험, 38명] [DOI 10.1016/j.resinv.2023.07.004](https://doi.org/10.1016/j.resinv.2023.07.004) [PMID 37708631](https://pubmed.ncbi.nlm.nih.gov/37708631/) — 형개연교탕(荊芥連翹湯)을 코로나19 확진자와 밀접 접촉한 의료진에게 5일간 투여한 노출 후 예방 시험에서 감염률이 대조군 44%에서 10%로 낮아짐. 형개 함유 처방의 감염 예방 활용 가능성을 보인 소규모 근거.
 
@@ -818,7 +818,7 @@
 
 [^46]: Chinese herbal medicine for acute upper respiratory tract infections and reproductive safety: A systematic review. Huang Z 외. _Bioscience trends_. 2019-05-12. [체계적 고찰] [DOI 10.5582/bst.2018.01298](https://doi.org/10.5582/bst.2018.01298) [PMID 30930358](https://pubmed.ncbi.nlm.nih.gov/30930358/) — 중약(CHM)은 급성 상기도 감염의 증상 완화와 치료 기간 단축에 효과적일 수 있으나, 일부 약재는 내분비 분비나 배아 발달에 영향을 주는 등 생식 독성을 가질 가능성이 있다.
 
-[^47]: Herbal Medicine Treatment for Influenza: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Minhyung Choi 외. _The American Journal of Chinese Medicine_. 2020-01. [메타분석, 3044명] [DOI 10.1142/s0192415x20500779](https://doi.org/10.1142/s0192415x20500779) — 한약 치료는 인플루엔자 환자의 해열 시간을 단축시키고 총 유효율을 높이는 데 효과적이며, 특히 오셀타미비르(Oseltamivir)와 병용 투여했을 때 단독 투여보다 치료 효과가 더 유의하게 향상됨을 확인하였다.
+[^47]: Herbal Medicine Treatment for Influenza: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. Choi M 외. _The American Journal of Chinese Medicine_. 2020-01. [메타분석, 3044명] [DOI 10.1142/s0192415x20500779](https://doi.org/10.1142/s0192415x20500779) — 한약 치료는 인플루엔자 환자의 해열 시간을 단축시키고 총 유효율을 높이는 데 효과적이며, 특히 오셀타미비르(Oseltamivir)와 병용 투여했을 때 단독 투여보다 치료 효과가 더 유의하게 향상됨을 확인하였다.
 
 [^48]: Chinese herbal medicines for the treatment of type A H1N1 influenza: a systematic review of randomized controlled trials. Chen W 외. _PloS one_. 2011. [체계적 고찰] [DOI 10.1371/journal.pone.0028093](https://doi.org/10.1371/journal.pone.0028093) [PMID 22164232](https://pubmed.ncbi.nlm.nih.gov/22164232/) — 중약(中藥)과 오셀타미비르(oseltamivir)의 병용 투여가 오셀타미비르 단독 투여보다 발열 해소 및 증상 완화에 긍정적인 영향을 줄 가능성이 있습니다.
 
@@ -836,7 +836,7 @@
 
 [^55]: Identifying core herbal treatments for urticaria using Taiwan's nationwide prescription database. Lin YH 외. _Journal of ethnopharmacology_. 2013-07-09. [관찰연구, 12498명] [DOI 10.1016/j.jep.2013.04.052](https://doi.org/10.1016/j.jep.2013.04.052) [PMID 23684721](https://pubmed.ncbi.nlm.nih.gov/23684721/) — 대만 전국 처방 데이터를 분석한 결과, 두드러기 치료에 있어 소풍산(消風散)이 가장 핵심적인 처방으로 사용되고 있으며, 특히 선태(蟬蛻, Cryptotympana pustulata Fabricius)와의 조합이 가장 빈번하게 활용됨을 확인하였다.
 
-[^56]: Frequency and pattern of Chinese herbal medicine prescriptions for urticaria in Taiwan during 2009: analysis of the national health insurance database. Pei-Shan Chien 외. _BMC Complementary and Alternative Medicine_. 2013-08-15. [관찰연구, 37386명] [DOI 10.1186/1472-6882-13-209](https://doi.org/10.1186/1472-6882-13-209) — 대만 내 두드러기 환자들에게 가장 널리 처방된 중약은 소풍산(消風散)과 백현피(白鮮皮)이며, 특히 풍열(Wind-heat) 패턴의 치료에 자주 활용됨을 확인하였다.
+[^56]: Frequency and pattern of Chinese herbal medicine prescriptions for urticaria in Taiwan during 2009: analysis of the national health insurance database. Chien PS 외. _BMC Complementary and Alternative Medicine_. 2013-08-15. [관찰연구, 37386명] [DOI 10.1186/1472-6882-13-209](https://doi.org/10.1186/1472-6882-13-209) — 대만 내 두드러기 환자들에게 가장 널리 처방된 중약은 소풍산(消風散)과 백현피(白鮮皮)이며, 특히 풍열(Wind-heat) 패턴의 치료에 자주 활용됨을 확인하였다.
 
 [^57]: The Efficacy and Safety of a Fixed Combination of Chinese Herbal Medicine in Chronic Urticaria: A Randomized, Double-Blind, Placebo-Controlled Pilot Study. Yang SH 외. _Frontiers in pharmacology_. 2018. [임상시험, 56명] [DOI 10.3389/fphar.2018.01474](https://doi.org/10.3389/fphar.2018.01474) [PMID 30618764](https://pubmed.ncbi.nlm.nih.gov/30618764/) — 만성 두드러기 환자에게 표준 치료(항히스타민제)와 함께 소풍산(消風散) 및 청상방풍탕(淸上防風湯)을 병용 투여했을 때, 단독 치료보다 증상 완화(UAS7 점수 감소) 및 인터페론-감마(IFN-γ) 수치 감소에 더 효과적인 것으로 나타났다.
 
@@ -858,7 +858,7 @@
 
 [^66]: Effectiveness and Safety of Herbal Medicine for Atopic Dermatitis: An Overview of Systematic Reviews. Kwon CY 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [체계적 고찰] [DOI 10.1155/2020/4140692](https://doi.org/10.1155/2020/4140692) [PMID 32724323](https://pubmed.ncbi.nlm.nih.gov/32724323/) — 한약(Herbal Medicine)은 아토피 피부염 환자의 SCORAD 점수를 낮추고 전체 유효율을 높이며, 가려움증 및 수면 개선에 효과적인 것으로 나타났다.
 
-[^67]: Chinese herbal bath therapy for the treatment of Atopic dermatitis in children: A meta-analysis and systematic review. Zheng Guo 외. _Medicine_. 2022-11-25. [메타분석, 854명] [DOI 10.1097/md.0000000000031923](https://doi.org/10.1097/md.0000000000031923) — 중약욕(한약 목욕 요법)은 소아 아토피 피부염 환자의 완치율을 높이고, SCORAD 지수를 유의하게 감소시키며, 재발률과 이상반응을 낮추는 데 효과적인 치료법이다.
+[^67]: Chinese herbal bath therapy for the treatment of Atopic dermatitis in children: A meta-analysis and systematic review. Guo Z 외. _Medicine_. 2022-11-25. [메타분석, 854명] [DOI 10.1097/md.0000000000031923](https://doi.org/10.1097/md.0000000000031923) — 중약욕(한약 목욕 요법)은 소아 아토피 피부염 환자의 완치율을 높이고, SCORAD 지수를 유의하게 감소시키며, 재발률과 이상반응을 낮추는 데 효과적인 치료법이다.
 
 [^68]: Characteristics and prescription patterns of traditional Chinese medicine in atopic dermatitis patients: ten-year experiences at a medical center in Taiwan. Lin JF 외. _Complementary therapies in medicine_. 2014-02. [관찰연구, 4145명] [DOI 10.1016/j.ctim.2013.12.003](https://doi.org/10.1016/j.ctim.2013.12.003) [PMID 24559829](https://pubmed.ncbi.nlm.nih.gov/24559829/) — 아토피 피부염 환자에게 전통중의학적 치료로 소풍산(消風散)과 백현피(白鮮皮)가 가장 빈번하게 사용되었으며, 치료 원칙으로는 청열(淸熱, clearing heat)과 해표(解表, releasing exterior)가 주를 이루었다.
 
@@ -868,7 +868,7 @@
 
 [^71]: Characteristics of traditional Chinese medicine users and prescription analysis for pediatric atopic dermatitis: a population-based study. Chen YC 외. _BMC complementary and alternative medicine_. 2016-06-08. [관찰연구, 13646명] [DOI 10.1186/s12906-016-1158-1](https://doi.org/10.1186/s12906-016-1158-1) [PMID 27276875](https://pubmed.ncbi.nlm.nih.gov/27276875/) — 소아 아토피 피부염 환자 중 특히 청소년기, 여성, 알레르기 비염 동반 환자에서 중의학 치료 이용률이 높게 나타났다.
 
-[^72]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Hsing-Yu Chen 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구, 381282명] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 대규모 전국 처방 데이터를 통해 습진 치료에 사용되는 중약의 네트워크와 주요 처방 조합을 확인하였으며, 특히 풍습열 패턴에는 소풍산(Xiao-Feng-San)이, 열증 패턴에는 금은화(Lonicera japonica)와 연교(Forsythia suspensa) 조합이 효과적으로 사..
+[^72]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Chen HY 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구, 381282명] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 대규모 전국 처방 데이터를 통해 습진 치료에 사용되는 중약의 네트워크와 주요 처방 조합을 확인하였으며, 특히 풍습열 패턴에는 소풍산(Xiao-Feng-San)이, 열증 패턴에는 금은화(Lonicera japonica)와 연교(Forsythia suspensa) 조합이 효과적으로 사..
 
 [^73]: Traditional Chinese medicine for food allergy and eczema. Wang Z 외. _Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology_. 2021-06. [문헌 고찰] [DOI 10.1016/j.anai.2020.12.002](https://doi.org/10.1016/j.anai.2020.12.002) [PMID 33310179](https://pubmed.ncbi.nlm.nih.gov/33310179/) — 전통의학적 접근(한약, 침 등)은 식품 알레르기와 습진의 증상 완화 및 면역 조절에 잠재적인 효과가 있으며 대체로 안전한 것으로 나타났다.
 
@@ -888,7 +888,7 @@
 
 [^81]: 국내 한약 치험례 분석을 통한한의학적 여드름치료법에 대한 고찰. 조은채 외. _한방안이비인후피부과학회지_. 2018-11. [체계적 고찰] [DOI 10.6114/jkood.2018.31.4.065](https://doi.org/10.6114/jkood.2018.31.4.065) — 본 연구는 국내 여드름 한약 치험례를 분석하여, 염증성 병변이나 안면 홍조가 심한 경우에는 해표약(解表藥)과 청열약(淸熱藥)을, 과각화증, 피지 과다 분비, 생리통 또는 소화불량을 동반한 경우에는 보기약(補氣藥)이나 보혈약(補血藥)을 사용하는 맞춤형 치료 경향을 확인하였다.
 
-[^82]: Chinese herbal therapy in the management of rhinosinusitis—A systematic review and meta-analysis. Jing Cui 외. _PLOS ONE_. 2022-12-01. [메타분석, 3752명] [DOI 10.1371/journal.pone.0278492](https://doi.org/10.1371/journal.pone.0278492) — 중약(Chinese herbal medicines)은 만성 비부비동염 환자에서 위약 대비 증상(SNOT-20, VAS-TNS)을 유의하게 개선하며, 표준 약물요법과 유사한 단기 효과를 나타낸다.
+[^82]: Chinese herbal therapy in the management of rhinosinusitis—A systematic review and meta-analysis. Cui J 외. _PLOS ONE_. 2022-12-01. [메타분석, 3752명] [DOI 10.1371/journal.pone.0278492](https://doi.org/10.1371/journal.pone.0278492) — 중약(Chinese herbal medicines)은 만성 비부비동염 환자에서 위약 대비 증상(SNOT-20, VAS-TNS)을 유의하게 개선하며, 표준 약물요법과 유사한 단기 효과를 나타낸다.
 
 [^83]: Herbal medicine for the treatment of chronic rhinosinusitis: A systematic review and meta-analysis. Lee B 외. _Frontiers in pharmacology_. 2022. [메타분석] [DOI 10.3389/fphar.2022.908941](https://doi.org/10.3389/fphar.2022.908941) [PMID 35924061](https://pubmed.ncbi.nlm.nih.gov/35924061/) — 한약(Herbal Medicine)은 만성 부비동염 환자의 증상 중증도(VAS, TER)를 개선하며, 기존 표준 치료와 병용했을 때 삶의 질 및 내시경/CT 점수 등 객관적 지표에서 더 우수한 효과를 보일 수 있다.
 
@@ -904,7 +904,7 @@
 
 [^89]: Oral application of Chinese herbal medicine for allergic rhinitis: A systematic review and meta-analysis of randomized controlled trials. Li H 외. _Phytotherapy research : PTR_. 2021-06. [메타분석] [DOI 10.1002/ptr.7037](https://doi.org/10.1002/ptr.7037) [PMID 33533107](https://pubmed.ncbi.nlm.nih.gov/33533107/) — 경구 투여 한약은 알레르기 비염 환자의 전반적인 비강 증상과 삶의 질을 개선하고 재발률을 낮추는 데 있어 항히스타민제보다 효과적일 수 있으며, 부작용 또한 경미한 것으로 나타났다.
 
-[^90]: Efficacy of Chinese herbal medicine on nasal itching in children with allergic rhinitis: a systematic review and meta-analysis. Yuhang Chen 외. _Frontiers in Pharmacology_. 2023-08-23. [메타분석] [DOI 10.3389/fphar.2023.1240917](https://doi.org/10.3389/fphar.2023.1240917) — 중약(CHM)은 소아 알레르기성 비염 환자의 코 가려움증 완화와 면역 조절(IL-10 증가, IgE/IL-4/IL-33 감소)에 효과적이며, 특히 양약과 병용했을 때 증상 개선 및 재발 방지 효과가 더 뛰어난 것으로 나타났다.
+[^90]: Efficacy of Chinese herbal medicine on nasal itching in children with allergic rhinitis: a systematic review and meta-analysis. Chen Y 외. _Frontiers in Pharmacology_. 2023-08-23. [메타분석] [DOI 10.3389/fphar.2023.1240917](https://doi.org/10.3389/fphar.2023.1240917) — 중약(CHM)은 소아 알레르기성 비염 환자의 코 가려움증 완화와 면역 조절(IL-10 증가, IgE/IL-4/IL-33 감소)에 효과적이며, 특히 양약과 병용했을 때 증상 개선 및 재발 방지 효과가 더 뛰어난 것으로 나타났다.
 
 [^91]: Potential applications of Chinese herbal medicines with hemostatic properties. Ohkura N. _Drug discoveries & therapeutics_. 2022-07-20. [문헌 고찰] [DOI 10.5582/ddt.2022.01037](https://doi.org/10.5582/ddt.2022.01037) [PMID 35753799](https://pubmed.ncbi.nlm.nih.gov/35753799/) — 지혈 성질을 갖는 중약의 임상적 가치와 응용 가능성을 개괄. 형개탄 지혈 축이 기대는 근거가 문헌 고찰 수준에 머문다는 사실을 보여주는 자료.
 
@@ -912,7 +912,7 @@
 
 [^93]: Herbal Medicine for Postpartum Pain: A Systematic Review of Puerperal Wind Syndrome (Sanhupung). Kwon NY 외. _Healthcare (Basel, Switzerland)_. 2023-10-16. [체계적 고찰, 652명] [DOI 10.3390/healthcare11202743](https://doi.org/10.3390/healthcare11202743) [PMID 37893817](https://pubmed.ncbi.nlm.nih.gov/37893817/) — 한약 치료는 산후풍 환자의 통증 완화, 신체 기능 개선 및 삶의 질 향상에 유의미한 효과가 있으며 안전성이 확인되었다.
 
-[^94]: Adverse events associated with herbal medicine products reported in the Korea Adverse Event Reporting System from 2012 to 2021. Yujin Choi 외. _Frontiers in Pharmacology_. 2024-10-21. [관찰연구, 1054명] [DOI 10.3389/fphar.2024.1378208](https://doi.org/10.3389/fphar.2024.1378208) — 국내 한약제제 이상사례 1,054건 분석에서 위장관 장애 28.7%·피부 및 피하조직 장애 20.1%가 최다였고 보고 상위 제제에 은교산이 포함됨. 형개 함유 처방 복약 지도 시 감별 대상이 되는 이상사례 분포의 실측 자료.
+[^94]: Adverse events associated with herbal medicine products reported in the Korea Adverse Event Reporting System from 2012 to 2021. Choi Y 외. _Frontiers in Pharmacology_. 2024-10-21. [관찰연구, 1054명] [DOI 10.3389/fphar.2024.1378208](https://doi.org/10.3389/fphar.2024.1378208) — 국내 한약제제 이상사례 1,054건 분석에서 위장관 장애 28.7%·피부 및 피하조직 장애 20.1%가 최다였고 보고 상위 제제에 은교산이 포함됨. 형개 함유 처방 복약 지도 시 감별 대상이 되는 이상사례 분포의 실측 자료.
 
 [^95]: Xin-yi-san contains potent human CYP1A2 inhibitors and its combined use with theophylline in treatment increases adverse risks in patients. Kao LT 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2024-07-25. [관찰연구, 201093명] [DOI 10.1016/j.phymed.2024.155760](https://doi.org/10.1016/j.phymed.2024.155760) [PMID 38797029](https://pubmed.ncbi.nlm.nih.gov/38797029/) — 신이산(Xin-yi-san)은 CYP1A2 효소를 강력하게 억제하여 테오필린(theophylline)의 대사를 방해함으로써 두통, 빈맥 등 테오필린 독성 관련 이상반응의 위험을 높일 수 있다.
 

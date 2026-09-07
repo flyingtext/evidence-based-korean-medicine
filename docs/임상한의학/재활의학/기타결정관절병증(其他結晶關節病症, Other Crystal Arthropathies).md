@@ -532,7 +532,7 @@ M11.9 — 결정 종류가 확인되지 않은 결정 유발성 관절염.
 
 [^22]: Effect of Baihu and Guizhi decoction in acute gouty arthritis: study protocol for a randomized controlled trial. He Y 외. _Trials_. 2022-04-15. [임상시험] [DOI 10.1186/s13063-022-06194-z](https://doi.org/10.1186/s13063-022-06194-z) [PMID 35428324](https://pubmed.ncbi.nlm.nih.gov/35428324/) — 습열비저증 급성 통풍성 관절염에 백호계지탕+저용량 콜히친 병용 프로토콜, 부작용 감소를 목표로 설계.
 
-[^23]: Efficacy and Safety of Acupuncture Combined with Herbal Medicine in Treating Gouty Arthritis: Meta-Analysis of Randomized Controlled Trials. Huan Liang 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-30. [메타분석] [DOI 10.1155/2021/8161731](https://doi.org/10.1155/2021/8161731) — 침+한약 병용이 단독 치료보다 통풍성 관절염 증상·요산 개선에 우수, 개별 연구 비뚤림 위험 존재.
+[^23]: Efficacy and Safety of Acupuncture Combined with Herbal Medicine in Treating Gouty Arthritis: Meta-Analysis of Randomized Controlled Trials. Liang H 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-30. [메타분석] [DOI 10.1155/2021/8161731](https://doi.org/10.1155/2021/8161731) — 침+한약 병용이 단독 치료보다 통풍성 관절염 증상·요산 개선에 우수, 개별 연구 비뚤림 위험 존재.
 
 [^24]: Efficacy and Safety of Acupuncture for Acute Gouty Arthritis: A Systematic Review and Network Meta-Analysis. Yuxiao Cai 외. 2024-09-24. [메타분석] [DOI 10.1101/2024.09.21.24314132](https://doi.org/10.1101/2024.09.21.24314132) — 화침·침+약물 병용·사혈+약물 병용의 세부 효과 차이를 네트워크 메타분석으로 비교.
 

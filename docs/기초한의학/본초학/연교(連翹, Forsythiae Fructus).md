@@ -494,7 +494,7 @@ PRISMA 준수 체계적 고찰은 은교산이 감기에 「단독 또는 통상
 
 [^15]: Discovery and Current Status of Evaluation System of Bioavailability and Related Pharmaceutical Technologies for Traditional Chinese Medicines--Flos Lonicerae Japonicae--Fructus Forsythiae Herb Couples as an Example. Zhou W 외. _International journal of molecular sciences_. 2015-12-04. [문헌 고찰] [DOI 10.3390/ijms161226132](https://doi.org/10.3390/ijms161226132) [PMID 26690115](https://pubmed.ncbi.nlm.nih.gov/26690115/) — 금은화·연교 herb couple을 예로 다성분 한약의 생체이용률 평가 체계와 제제 기술의 필요성을 제시함.
 
-[^16]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Hsing-Yu Chen 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 전국 처방 데이터베이스에서 금은화·연교 조합이 습진의 열증 패턴 치료의 핵심 약쌍으로 확인됨.
+[^16]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Chen HY 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 전국 처방 데이터베이스에서 금은화·연교 조합이 습진의 열증 패턴 치료의 핵심 약쌍으로 확인됨.
 
 [^17]: Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis: Identifying Core Components, Mechanisms, and Dosing Patterns. Yang S 외. _Alternative therapies in health and medicine_. 2024-07-19. [기타] [PMID 39038330](https://pubmed.ncbi.nlm.nih.gov/39038330/) — 건선 처방 데이터 마이닝과 표적 예측(네트워크 약리학) 연구로 금은화·연교·생지황이 핵심 약재군으로 확인됨. 임상 유효성 시험이 아니므로 효능 근거로 쓰지 않는다.
 

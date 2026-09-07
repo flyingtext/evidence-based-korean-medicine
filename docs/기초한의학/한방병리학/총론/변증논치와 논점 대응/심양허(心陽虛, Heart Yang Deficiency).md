@@ -889,7 +889,7 @@
 
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-24 조회 기준.
 
-[^1]: Efficacy of Dialectical Comprehensive Treatment of Traditional Chinese Medicine in Patients with Chronic Stable Heart Failure: A Randomized Controlled Trial. Lixiang Yang 외. _Cardiology Research and Practice_. 2022-05-12. [임상시험] [DOI 10.1155/2022/5408063](https://doi.org/10.1155/2022/5408063) — 변증시치 기반 한약·침구 병행이 만성 안정성 심부전에서 LVEF·6MWD·NT-proBNP를 개선한 RCT.
+[^1]: Efficacy of Dialectical Comprehensive Treatment of Traditional Chinese Medicine in Patients with Chronic Stable Heart Failure: A Randomized Controlled Trial. Yang L 외. _Cardiology Research and Practice_. 2022-05-12. [임상시험] [DOI 10.1155/2022/5408063](https://doi.org/10.1155/2022/5408063) — 변증시치 기반 한약·침구 병행이 만성 안정성 심부전에서 LVEF·6MWD·NT-proBNP를 개선한 RCT.
 [^3]: Long-term reno-cardiovascular effects of orally administered aconiti tuber in humans. Chen HC 외. _The American journal of Chinese medicine_. 1990. [임상시험] [DOI 10.1142/S0192415X90000058](https://doi.org/10.1142/S0192415X90000058) [PMID 2239812](https://pubmed.ncbi.nlm.nih.gov/2239812/) — 장기간 경구 부자 투여가 심근수축력·심박수·신혈류량을 개선한 인체 연구 — 온보심양의 약리적 근거.
 [^4]: [Bradycardia and Hypotension from Improper Use of Aconite Root: A Case Report and Brief Review]. Chou PY 외. _Complementary medicine research_. 2018. [증례 보고] [DOI 10.1159/000489179](https://doi.org/10.1159/000489179) [PMID 30064136](https://pubmed.ncbi.nlm.nih.gov/30064136/) — 부자 오남용으로 인한 서맥·저혈압 증례 — 강심 작용의 이면인 독성 red flag.
 [^5]: Linggui Zhugan Decoction for peripheral vertigo. Hongmei Ma 외. _Medicine_. 2021-04-23. [체계적 고찰] [DOI 10.1097/md.0000000000025563](https://doi.org/10.1097/md.0000000000025563) — 영계출감탕의 말초성 현훈에 대한 체계적 고찰 프로토콜 — 수기범람형 현훈 근거 축적 중.

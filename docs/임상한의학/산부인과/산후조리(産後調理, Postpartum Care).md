@@ -924,7 +924,7 @@
 
 [^22]: A Combination of Thunder-Fire Moxibustion and Shenghua Decoction Enhances Uterine Involution After Cesarean Section and Postpartum Lactation. Yanchun Cao 외. _CURRENT TOPICS IN NUTRACEUTICAL RESEARCH_. 2023-07-07. [임상시험] [DOI 10.37290/ctnr2641-452x.21:248-253](https://doi.org/10.37290/ctnr2641-452x.21:248-253) — 뇌화구(雷火灸)와 생화탕 병용이 제왕절개 후 자궁퇴축을 촉진함을 보고한 임상시험.
 
-[^23]: Use of Herbal Dietary Supplement Si-Wu-Tang and Health-Related Quality of Life in Postpartum Women: A Population-Based Correlational Study. Pei-Jen Chang 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/790474](https://doi.org/10.1155/2013/790474) — 산후 여성의 사물탕(四物湯) 건강기능식품 사용과 삶의 질의 연관성을 조사한 관찰연구.
+[^23]: Use of Herbal Dietary Supplement Si-Wu-Tang and Health-Related Quality of Life in Postpartum Women: A Population-Based Correlational Study. Chang PJ 외. _Evidence-Based Complementary and Alternative Medicine_. 2013. [관찰연구] [DOI 10.1155/2013/790474](https://doi.org/10.1155/2013/790474) — 산후 여성의 사물탕(四物湯) 건강기능식품 사용과 삶의 질의 연관성을 조사한 관찰연구.
 
 [^24]: Herbal Medicine for Postpartum Pain: A Systematic Review of Puerperal Wind Syndrome (Sanhupung). Kwon NY 외. _Healthcare (Basel, Switzerland)_. 2023-10-16. [체계적 고찰] [DOI 10.3390/healthcare11202743](https://doi.org/10.3390/healthcare11202743) [PMID 37893817](https://pubmed.ncbi.nlm.nih.gov/37893817/) — 산후풍증후군(puerperal wind syndrome)에 대한 한약 치료 근거를 정리한 체계적 고찰.
 
@@ -944,7 +944,7 @@
 
 [^32]: Xiong-gui-tiao-xue-yin (Kyuki-chouketsu-in), a traditional herbal medicine, stimulates lactation with increase in secretion of prolactin but not oxytocin in the postpartum period. Ushiroyama T 외. _The American journal of Chinese medicine_. 2007. [임상시험] [DOI 10.1142/S0192415X07004734](https://doi.org/10.1142/S0192415X07004734) [PMID 17436360](https://pubmed.ncbi.nlm.nih.gov/17436360/) — 궁귀조혈음(芎歸調血飮, Kyuki-chouketsu-in)이 산후 유즙분비를 촉진함을 보고한 임상시험.
 
-[^33]: Efficacy of the Kampo Medicine Xiong-gui-tiao-xue-yin (Kyuki-chouketsu-in), a Traditional Herbal Medicine, in the Treatment of Maternity Blues Syndrome in the Postpartum Period. Takahisa Ushiroyama 외. _The American Journal of Chinese Medicine_. 2005-01. [임상시험] [DOI 10.1142/s0192415x05002710](https://doi.org/10.1142/s0192415x05002710) — 궁귀조혈음의 산후 유즙분비 촉진 효과를 평가한 임상시험.
+[^33]: Efficacy of the Kampo Medicine Xiong-gui-tiao-xue-yin (Kyuki-chouketsu-in), a Traditional Herbal Medicine, in the Treatment of Maternity Blues Syndrome in the Postpartum Period. Ushiroyama T 외. _The American Journal of Chinese Medicine_. 2005-01. [임상시험] [DOI 10.1142/s0192415x05002710](https://doi.org/10.1142/s0192415x05002710) — 궁귀조혈음의 산후 유즙분비 촉진 효과를 평가한 임상시험.
 
 [^34]: Effects of traditional Chinese medicine-assisted intervention on improving postpartum lactation: A systematic review and meta-analysis. Fang YW 외. _Heliyon_. 2024-03-30. [메타분석] [DOI 10.1016/j.heliyon.2024.e27154](https://doi.org/10.1016/j.heliyon.2024.e27154) [PMID 38524574](https://pubmed.ncbi.nlm.nih.gov/38524574/) — 한의학 보조 중재가 산후 유즙분비 개선에 미치는 효과를 종합한 체계적 고찰.
 
@@ -966,7 +966,7 @@
 
 [^43]: [Efficacy of electroacupuncture combined with penetrating moxibustion for postpartum stress urinary incontinence]. Wang LL 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2019-06-12. [임상시험] [DOI 10.13703/j.0255-2930.2019.06.008](https://doi.org/10.13703/j.0255-2930.2019.06.008) [PMID 31190495](https://pubmed.ncbi.nlm.nih.gov/31190495/) — 전침과 투자구(透刺灸)를 병용한 산후 복압성요실금 치료 효과를 평가한 임상시험.
 
-[^44]: Dynamic serum metabolomic changes during Chinese herbal hot compress therapy for postpartum uterine involution: pathway analysis and candidate biomarker identification. Xinxin Yin 외. _Frontiers in Medicine_. 2026-04-29. [관찰연구] [DOI 10.3389/fmed.2026.1791959](https://doi.org/10.3389/fmed.2026.1791959) — 한약 온열찜질요법(중약열부요법)이 산후 자궁수축부전 산모의 혈청 대사체를 변화시킴을 보고한 관찰연구.
+[^44]: Dynamic serum metabolomic changes during Chinese herbal hot compress therapy for postpartum uterine involution: pathway analysis and candidate biomarker identification. Yin X 외. _Frontiers in Medicine_. 2026-04-29. [관찰연구] [DOI 10.3389/fmed.2026.1791959](https://doi.org/10.3389/fmed.2026.1791959) — 한약 온열찜질요법(중약열부요법)이 산후 자궁수축부전 산모의 혈청 대사체를 변화시킴을 보고한 관찰연구.
 
 [^45]: [Uterine involution after cesarean section promoted with acupuncture: a randomized controlled trial]. Wu ZX 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-09. [임상시험] [PMID 25509737](https://pubmed.ncbi.nlm.nih.gov/25509737/) — 침구가 제왕절개 후 자궁퇴축을 촉진함을 확인한 무작위대조시험.
 
@@ -1006,7 +1006,7 @@
 
 [^63]: Transcutaneous Auricular Vagus Nerve Stimulation for Postpartum Contraction Pain During Elective Cesarean Delivery: A Randomized Clinical Trial. Xiong X 외. _JAMA network open_. 2025-08-01. [임상시험] [DOI 10.1001/jamanetworkopen.2025.29127](https://doi.org/10.1001/jamanetworkopen.2025.29127) [PMID 40880089](https://pubmed.ncbi.nlm.nih.gov/40880089/) — 경피 이개미주신경자극이 선택적 제왕절개 분만 시 산후 자궁수축통에 미치는 효과를 평가한 임상시험.
 
-[^64]: Traditional Chinese Medicine Yimucao Injection Combined with Western Medicine for Preventing Postpartum Hemorrhage after Cesarean Section: A Systematic Review and Meta-Analysis. Shichun Chen 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-04-09. [메타분석] [DOI 10.1155/2019/7475151](https://doi.org/10.1155/2019/7475151) — 익모초(益母草) 주사제 병용이 산후출혈 예방에 미치는 효과를 종합한 메타분석.
+[^64]: Traditional Chinese Medicine Yimucao Injection Combined with Western Medicine for Preventing Postpartum Hemorrhage after Cesarean Section: A Systematic Review and Meta-Analysis. Chen S 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-04-09. [메타분석] [DOI 10.1155/2019/7475151](https://doi.org/10.1155/2019/7475151) — 익모초(益母草) 주사제 병용이 산후출혈 예방에 미치는 효과를 종합한 메타분석.
 
 [^65]: Cerebral diffusion kurtosis imaging to assess the pathophysiology of postpartum depression. Sasaki Y 외. _Scientific reports_. 2020-09-21. [관찰연구] [DOI 10.1038/s41598-020-72310-1](https://doi.org/10.1038/s41598-020-72310-1) [PMID 32958845](https://pubmed.ncbi.nlm.nih.gov/32958845/) — 확산첨도영상(DTI/DKI)을 이용해 산후우울증의 병태생리적 뇌영상 상관물을 평가한 관찰연구.
 

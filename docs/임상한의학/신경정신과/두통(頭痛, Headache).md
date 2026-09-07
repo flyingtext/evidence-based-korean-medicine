@@ -628,9 +628,9 @@
 **문헌 데이터 출처**: [한의학 논문 데이터베이스 (med.symbolicinfo.com)](https://med.symbolicinfo.com) — 2026-08-25 조회 기준.
 
 
-[^1]: Acupuncture for the Treatment of Tension‐Type Headache: An Overview of Systematic Reviews. Jinke Huang 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [체계적 고찰] [DOI 10.1155/2020/4262910](https://doi.org/10.1155/2020/4262910) — 침 치료가 긴장성 두통의 빈도와 중증도를 줄이는 데 효과가 있는 것으로 보이나, 근거가 되는 체계적 문헌고찰들의 방법론적 질과 증거 수준이 전반적으로 낮아 결과의 신뢰성에는 한계가 있습니다.
+[^1]: Acupuncture for the Treatment of Tension‐Type Headache: An Overview of Systematic Reviews. Huang J 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [체계적 고찰] [DOI 10.1155/2020/4262910](https://doi.org/10.1155/2020/4262910) — 침 치료가 긴장성 두통의 빈도와 중증도를 줄이는 데 효과가 있는 것으로 보이나, 근거가 되는 체계적 문헌고찰들의 방법론적 질과 증거 수준이 전반적으로 낮아 결과의 신뢰성에는 한계가 있습니다.
 
-[^2]: Effectiveness and safety of ear acupuncture for tension-type headache: A protocol for a systematic review and meta-analysis. Fei Lou 외. _Medicine_. 2022-12-02. [기타] [DOI 10.1097/md.0000000000031826](https://doi.org/10.1097/md.0000000000031826) — 본 연구는 긴장성 두통 환자를 대상으로 한 이침(Ear acupuncture)의 효과와 안전성을 체계적으로 평가하기 위한 프로토콜이다.
+[^2]: Effectiveness and safety of ear acupuncture for tension-type headache: A protocol for a systematic review and meta-analysis. Lou F 외. _Medicine_. 2022-12-02. [기타] [DOI 10.1097/md.0000000000031826](https://doi.org/10.1097/md.0000000000031826) — 본 연구는 긴장성 두통 환자를 대상으로 한 이침(Ear acupuncture)의 효과와 안전성을 체계적으로 평가하기 위한 프로토콜이다.
 
 [^3]: The efficacy of acupuncture for tension-type headache: a systematic review and meta-analysis of randomized controlled trials. Pen-Ting Lin. _Journal of Oral & Facial Pain and Headache_. 2025-12-12. [메타분석] [DOI 10.22514/jofph.2025.067](https://doi.org/10.22514/jofph.2025.067) — 침 치료는 긴장성 두통 환자의 두통 빈도를 유의하게 감소시키고 완화율을 높이는 데 효과적이다.
 
@@ -646,7 +646,7 @@
 
 [^9]: Acupuncture for episodic tension-type headache: a multicentre randomized controlled trial. AR White 외. _Cephalalgia_. 2000-09. [임상시험] [DOI 10.1111/j.1468-2982.2000.00097.x](https://doi.org/10.1111/j.1468-2982.2000.00097.x) — 간헐적 긴장성 두통의 예방을 위해 시행된 단기 침 치료는 가짜 침 치료와 비교하여 통계적으로 유의미한 효과 차이를 보이지 않았습니다.
 
-[^10]: The effect of myofascial release and microwave diathermy combined with acupuncture versus acupuncture therapy in tension‐type headache patients: A pragmatic randomized controlled trial. George Georgoudis 외. _Physiotherapy Research International_. 2017-12-20. [임상시험] [DOI 10.1002/pri.1700](https://doi.org/10.1002/pri.1700) — 긴장형 두통 환자에게 침 치료와 스트레칭을 기본으로 하고, 여기에 근막 이완술(myofascial release)과 마이크로파 온열 치료(microwave diathermy)를 병행했을 때 통증 완화 효과(압통 역치 증가)가 더욱 유의하게 나타났다.
+[^10]: The effect of myofascial release and microwave diathermy combined with acupuncture versus acupuncture therapy in tension‐type headache patients: A pragmatic randomized controlled trial. Georgoudis G 외. _Physiotherapy Research International_. 2017-12-20. [임상시험] [DOI 10.1002/pri.1700](https://doi.org/10.1002/pri.1700) — 긴장형 두통 환자에게 침 치료와 스트레칭을 기본으로 하고, 여기에 근막 이완술(myofascial release)과 마이크로파 온열 치료(microwave diathermy)를 병행했을 때 통증 완화 효과(압통 역치 증가)가 더욱 유의하게 나타났다.
 
 [^11]: Integrative East-West Medicine Intervention for Chronic Daily Headache: A Case Report and Care Perspective. Laube JG 외. _Global advances in health and medicine_. 2020. [증례 보고] [DOI 10.1177/2164956120905817](https://doi.org/10.1177/2164956120905817) [PMID 32110474](https://pubmed.ncbi.nlm.nih.gov/32110474/) — 만성 편두통과 긴장성 두통이 중첩되고 약물 과용이 동반된 난치성 두통 환자에게 침 치료, 트리거 포인트 주사, 생물심리사회적 접근을 결합한 통합 의학적 치료가 증상 완화에 효과적일 수 있음을 보여준다.
 
@@ -686,7 +686,7 @@
 
 [^29]: Clinical Efficacy and Safety of Miniscalpel-Needle Treatment for Tension-Type Headache: A Systematic Review and Meta-Analysis. Kwon CY 외. _Chinese journal of integrative medicine_. 2020-09. [메타분석] [DOI 10.1007/s11655-020-3179-3](https://doi.org/10.1007/s11655-020-3179-3) [PMID 32170522](https://pubmed.ncbi.nlm.nih.gov/32170522/) — 미세침도요법(MSN)은 긴장성 두통 환자에게 단독 또는 표준 치료의 보조 요법으로 사용되었을 때 통증 감소와 임상적 유효율 개선에 도움을 줄 수 있다.
 
-[^30]: Efficacy of Jiao's scalp acupuncture in combination with Xiangshao granules on chronic tension-type headache with concomitant nonalcoholic fatty liver disease in climacteric women. Feng Pei 외. _Menopause_. 2023-10-02. [임상시험] [DOI 10.1097/gme.0000000000002255](https://doi.org/10.1097/gme.0000000000002255) — 비알코올성 지방간을 동반한 갱년기 여성의 만성 긴장성 두통 치료에 있어 교두피침과 향소과립을 병용한 치료가 단독 치료보다
+[^30]: Efficacy of Jiao's scalp acupuncture in combination with Xiangshao granules on chronic tension-type headache with concomitant nonalcoholic fatty liver disease in climacteric women. Pei F 외. _Menopause_. 2023-10-02. [임상시험] [DOI 10.1097/gme.0000000000002255](https://doi.org/10.1097/gme.0000000000002255) — 비알코올성 지방간을 동반한 갱년기 여성의 만성 긴장성 두통 치료에 있어 교두피침과 향소과립을 병용한 치료가 단독 치료보다
 
 [^31]: Manual joint mobilisation techniques, supervised physical activity, psychological treatment, acupuncture and patient education for patients with tension-type headache. A systematic review and meta-analysis. Krøll LS 외. _The journal of headache and pain_. 2021-08-21. [메타분석] [DOI 10.1186/s10194-021-01298-4](https://doi.org/10.1186/s10194-021-01298-4) [PMID 34418953](https://pubmed.ncbi.nlm.nih.gov/34418953/) — 긴장성 두통 환자에게 침 치료, 수기 관절 가동술, 감독 하 신체 활동, 심리 치료 및 환자 교육과 같은 비약물적 접근법이 두통 빈도 감소, 삶의 질 개선, 통증 강도 완화 및 스트레스 감소에 긍정적인 영향을 줄 수 있다.
 
@@ -738,7 +738,7 @@
 
 [^55]: Meta-Analysis of Acupuncture Treatment for Cervicogenic Headache. Liu Z 외. _World neurosurgery_. 2024-09. [메타분석] [DOI 10.1016/j.wneu.2024.05.084](https://doi.org/10.1016/j.wneu.2024.05.084) [PMID 38768751](https://pubmed.ncbi.nlm.nih.gov/38768751/) — 본 연구는 경추성 두통 환자에게 침 치료가 유효율, 완치율, 통증 감소(VAS), 그리고 삶의 질 개선 측면에서 대조군보다
 
-[^56]: Efficacy of interventional treatment strategies for managing patients with cervicogenic headache: a systematic review. Sonal Goyal 외. _Korean Journal of Anesthesiology_. 2022-02-01. [체계적 고찰] [DOI 10.4097/kja.21328](https://doi.org/10.4097/kja.21328) — 보존적 치료에 반응하지 않는 난치성 경추성 두통(CeH) 환자에게 후두신경 차단술, 후관절 주사, 환축관절 주사, 심경추신경총 차단술, 경추 경막외 주사가 합리적인 치료 옵션이 될 수 있다.
+[^56]: Efficacy of interventional treatment strategies for managing patients with cervicogenic headache: a systematic review. Goyal S 외. _Korean Journal of Anesthesiology_. 2022-02-01. [체계적 고찰] [DOI 10.4097/kja.21328](https://doi.org/10.4097/kja.21328) — 보존적 치료에 반응하지 않는 난치성 경추성 두통(CeH) 환자에게 후두신경 차단술, 후관절 주사, 환축관절 주사, 심경추신경총 차단술, 경추 경막외 주사가 합리적인 치료 옵션이 될 수 있다.
 
 [^57]: Effects of meridian sinew tuina after identifying the treatment area under ultrasound localization combined with greater and third occipital nerve injections in cervicogenic headache: a randomized controlled trial protocol. Huang Q 외. _Frontiers in neurology_. 2024. [임상시험] [DOI 10.3389/fneur.2024.1439922](https://doi.org/10.3389/fneur.2024.1439922) [PMID 39286805](https://pubmed.ncbi.nlm.nih.gov/39286805/) — 본 연구는 경추성 두통 환자에게 초음파로 치료 부위를 정확히 파악한 후 시행하는 경근 추나(Meridian Sinew Tuina)와 후두신경 주사 치료의 병행 효과를 검증하고자 한다.
 
@@ -762,9 +762,9 @@
 
 [^67]: Benefits of using dry needling for the treatment of pain in patients with headaches. Systematic review. Hugo Rubén Martínez 외. _International Journal of Neurology_. 2024-12-30. [체계적 고찰] [DOI 10.62486/ijn2024176](https://doi.org/10.62486/ijn2024176) — 드라이 니들링(Dry needling)은 만성 긴장성 두통 및 경추성 두통 환자의 통증 강도와 빈도를 유의하게 감소시키며, 경추 기능과 삶의 질을 개선하는 데 효과적입니다.
 
-[^68]: The Effectiveness of Sternocleidomastoid Muscle Dry Needling in Patients with Cervicogenic Headache. Zahra Mohammadi 외. _Advanced Biomedical Research_. 2021-01. [임상시험] [DOI 10.4103/abr.abr_138_20](https://doi.org/10.4103/abr.abr_138_20) — 흉쇄유돌근(SCM)의 근막 유발점에 시행한 1회의 건침(Dry Needling) 치료가 경추성 두통 환자의 통증 지수와 빈도, 지속 시간 및 일상생활 장애 정도를 유의하게 개선시켰다.
+[^68]: The Effectiveness of Sternocleidomastoid Muscle Dry Needling in Patients with Cervicogenic Headache. Mohammadi Z 외. _Advanced Biomedical Research_. 2021-01. [임상시험] [DOI 10.4103/abr.abr_138_20](https://doi.org/10.4103/abr.abr_138_20) — 흉쇄유돌근(SCM)의 근막 유발점에 시행한 1회의 건침(Dry Needling) 치료가 경추성 두통 환자의 통증 지수와 빈도, 지속 시간 및 일상생활 장애 정도를 유의하게 개선시켰다.
 
-[^69]: Immediate analgesic effect of cervical localized rotation manipulation combined with cervical Huatuo–Jiaji electroacupuncture on cervicogenic headache. Chao Zhong 외. _Medicine_. 2025-12-12. [관찰연구] [DOI 10.1097/md.0000000000046011](https://doi.org/10.1097/md.0000000000046011) — 경추성 두통 환자에게 경추 국소 회전 교정(CLRM)과 화타협척 전침(CHJE)을 병용하는 것이 단독 치료보다
+[^69]: Immediate analgesic effect of cervical localized rotation manipulation combined with cervical Huatuo–Jiaji electroacupuncture on cervicogenic headache. Zhong C 외. _Medicine_. 2025-12-12. [관찰연구] [DOI 10.1097/md.0000000000046011](https://doi.org/10.1097/md.0000000000046011) — 경추성 두통 환자에게 경추 국소 회전 교정(CLRM)과 화타협척 전침(CHJE)을 병용하는 것이 단독 치료보다
 
 [^70]: Ultrasound-guided needle-knife release for treatment-refractory cervicogenic headache: a case report. Ou Y 외. _Quantitative imaging in medicine and surgery_. 2026-03-01. [증례 보고] [DOI 10.21037/qims-2025-1794](https://doi.org/10.21037/qims-2025-1794) [PMID 41816079](https://pubmed.ncbi.nlm.nih.gov/41816079/) — 표준 치료 및 맹목적 침도 요법에 반응하지 않는 난치성 경추성 두통 환자에게 초음파 유도하 침도 요법을 통해 환추(C1) 횡돌기의 심부 유착을 정밀하게 박리함으로써 통증을 유의하게 감소시켰다.
 
@@ -888,7 +888,7 @@
 
 [^130]: A RANDOMIZED CONTROLLED TRIAL ON THE EFFECTIVENESS OF COURT-TYPE TRADITIONAL THAI MASSAGE VERSUS AMITRIPTYLINE IN PATIENTS WITH CHRONIC TENSION-TYPE HEADACHE. Peerada Damapong. . [임상시험] [DOI 10.58837/chula.the.2014.2125](https://doi.org/10.58837/chula.the.2014.2125) — 궁중식 전통 태국 마사지(CTTM)는 만성 긴장성 두통 환자의 통증 강도, 빈도, 지속 시간을 감소시키고 압통 역치와 부교감 신경 기능을 유의하게 개선하는 효과가 있다.
 
-[^131]: The Efficacy of Acupuncture for the Treatment of Cervical Vertigo: A Systematic Review and Meta‐Analysis. Zhuanzhuan Hou 외. _Evidence-Based Complementary and Alternative Medicine_. 2017-01. [메타분석] [DOI 10.1155/2017/7597363](https://doi.org/10.1155/2017/7597363) — 침 치료는 경성 현훈 환자의 증상 개선 및 추골-기저동맥 혈류 속도 증가에 있어 일반 의학적 치료보다
+[^131]: The Efficacy of Acupuncture for the Treatment of Cervical Vertigo: A Systematic Review and Meta‐Analysis. Hou Z 외. _Evidence-Based Complementary and Alternative Medicine_. 2017-01. [메타분석] [DOI 10.1155/2017/7597363](https://doi.org/10.1155/2017/7597363) — 침 치료는 경성 현훈 환자의 증상 개선 및 추골-기저동맥 혈류 속도 증가에 있어 일반 의학적 치료보다
 
 [^132]: Complementary and integrative medicine perspectives among veteran patients and VHA healthcare providers for the treatment of headache disorders: a qualitative study. Deena E. Kuruvilla 외. _BMC Complementary Medicine and Therapies_. 2022-01-25. [관찰연구] [DOI 10.1186/s12906-022-03511-6](https://doi.org/10.1186/s12906-022-03511-6) — 본 연구는 만성 두통 관리를 위한 보완통합의학(CIM)에 대해 환자와 의료진 모두 긍정적인 인식을 가지고 있으며, 특히 낮은 부작용과 환자의 자율성 확보라는 장점이 있음을 보여준다.
 
@@ -896,7 +896,7 @@
 
 [^134]: Acupuncture: An Alternative Treatment for Post Dural-Puncture Headaches following Obstetric Epidural Or Spinal. S Mahendra Perera. _Acupuncture in Medicine_. 1998-11. [증례 보고] [DOI 10.1136/aim.16.2.77](https://doi.org/10.1136/aim.16.2.77) — 산과적 마취 후 발생하는 척수천자 후 두통(PDPH) 환자에게 침 치료가 증상 완화를 위한 보조적 또는 대안적 선택지가 될 수 있음을 시사한다.
 
-[^135]: Acupuncture combined with Tuina in the treatment of cervical longus tendinitis: A case report. Meng Guo 외. _Medicine_. 2023-11-17. [증례 보고] [DOI 10.1097/md.0000000000035980](https://doi.org/10.1097/md.0000000000035980) — 경장근 건염은 경부 통증과 더불어 연하통을 동반하여 다른 질환과 혼동되기 쉬우나, 鍼(침)과 推拿(추나)를 병행한 치료가 통증 완화와 기능 회복에 효과적임을 보여준다.
+[^135]: Acupuncture combined with Tuina in the treatment of cervical longus tendinitis: A case report. Guo M 외. _Medicine_. 2023-11-17. [증례 보고] [DOI 10.1097/md.0000000000035980](https://doi.org/10.1097/md.0000000000035980) — 경장근 건염은 경부 통증과 더불어 연하통을 동반하여 다른 질환과 혼동되기 쉬우나, 鍼(침)과 推拿(추나)를 병행한 치료가 통증 완화와 기능 회복에 효과적임을 보여준다.
 
 [^136]: Tension Headache Treated by Anti-Inflammatory Drug Injected into GB 20 Acupuncture Point. M. Sternfeld 외. _The American Journal of Chinese Medicine_. 1986-01. [증례 보고] [DOI 10.1142/s0192415x86000272](https://doi.org/10.1142/s0192415x86000272) — 본 연구는 기존의 경구 또는 근육 주사 방식의 항염증제 치료보다 風池穴(풍지혈, GB 20)이라는 특정 혈위에 볼타렌을 직접 주입하는 방식이 긴장성 두통 완화에 효과적일 수 있음을 시사합니다.
 
@@ -910,9 +910,9 @@
 
 [^141]: Treatment of Headache Employing Acupuncture. George T. C. Lee. _The American Journal of Chinese Medicine_. 1974-01. [문헌 고찰] [DOI 10.1142/s0192415x74000389](https://doi.org/10.1142/s0192415x74000389) — 다양한 형태의 두통에 대해 전통적 및 현대적 중의학 관점에서의 원인 분석과 침 치료 방법을 제시하고 있습니다.
 
-[^142]: Identifying Chinese Medicine Patterns of Tension-Type Headache and Understanding Its Subgroups. Xinyu Hao 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-09-23. [관찰연구] [DOI 10.1155/2021/5544571](https://doi.org/10.1155/2021/5544571) — 본 연구는 긴장성 두통(TTH) 환자들을 간양상항(肝陽上亢, ascendant hyperactivity of liver yang), 기혈양허(氣血兩虛, dual qi and blood deficiency), 간울화화(肝鬱化火, liver depression forming fire)의 세 가지 주요 변증 유형으로 구분할 수 있음을 제시하였다.
+[^142]: Identifying Chinese Medicine Patterns of Tension-Type Headache and Understanding Its Subgroups. Hao X 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-09-23. [관찰연구] [DOI 10.1155/2021/5544571](https://doi.org/10.1155/2021/5544571) — 본 연구는 긴장성 두통(TTH) 환자들을 간양상항(肝陽上亢, ascendant hyperactivity of liver yang), 기혈양허(氣血兩虛, dual qi and blood deficiency), 간울화화(肝鬱化火, liver depression forming fire)의 세 가지 주요 변증 유형으로 구분할 수 있음을 제시하였다.
 
-[^143]: Report of guidelines for diagnosis and treatment of common internal diseases in Chinese medicine: Headache. Yongyan Ren 외. _Journal of Evidence-Based Medicine_. 2020-02. [임상진료지침] [DOI 10.1111/jebm.12378](https://doi.org/10.1111/jebm.12378) — 본 논문은 중의학(TCM) 기반의 두통 진단 및 치료 표준화를 위해 제정된 공식 가이드라인(T/CACM 1271–2019)을 보고하고 있다.
+[^143]: Report of guidelines for diagnosis and treatment of common internal diseases in Chinese medicine: Headache. Ren Y 외. _Journal of Evidence-Based Medicine_. 2020-02. [임상진료지침] [DOI 10.1111/jebm.12378](https://doi.org/10.1111/jebm.12378) — 본 논문은 중의학(TCM) 기반의 두통 진단 및 치료 표준화를 위해 제정된 공식 가이드라인(T/CACM 1271–2019)을 보고하고 있다.
 
 [^144]: Chinese Herbal Therapy for Chronic Tension-Type Headache. YanQing Tong 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [임상시험] [DOI 10.1155/2015/208492](https://doi.org/10.1155/2015/208492) — 본 연구는 만성 긴장성 두통 환자에게 10일간 한약(中藥)을 투여했을 때, 이후 12주 동안 두통 점수가 25~40% 감소하고 두통 발생 일수 및 약물 복용 빈도가 유의하게 줄어듦을 보여주었습니다.
 
@@ -978,7 +978,7 @@
 
 [^175]: Real-World Use of Acupoints for Headache Treatment: An Exploratory Survey of Licensed Acupuncturists in Japan. Sumire Ishiyama 외. _Innovations in Acupuncture and Medicine_. 2025-11-27. [관찰연구] [DOI 10.1186/s44424-025-00029-9](https://doi.org/10.1186/s44424-025-00029-9) — 일본 내 침구사들이 편두통 치료에 가장 빈번하게 사용하는 혈위는 풍지(GB20), 합곡(LI4), 백회(GV20), 두유(ST8) 순으로 나타났다.
 
-[^176]: Efficacy of the herbal medicine Chotosan following treatment with Western medications for migraine accompanied by tension-type headache. Takafumi Tanei 외. _Frontiers in Neurology_. 2025-12-09. [관찰연구] [DOI 10.3389/fneur.2025.1697333](https://doi.org/10.3389/fneur.2025.1697333) — 양약 치료에 충분한 반응을 보이지 않거나 부작용이 있는 긴장성 두통 동반 편두통 환자에게 작약감초탕(芍藥甘草湯)을 투여했을 때, 월간 두통 일수와 편두통 일수가 유의하게 감소하고 진통제 사용량이 줄어드는 효과가 확인되었다.
+[^176]: Efficacy of the herbal medicine Chotosan following treatment with Western medications for migraine accompanied by tension-type headache. Tanei T 외. _Frontiers in Neurology_. 2025-12-09. [관찰연구] [DOI 10.3389/fneur.2025.1697333](https://doi.org/10.3389/fneur.2025.1697333) — 양약 치료에 충분한 반응을 보이지 않거나 부작용이 있는 긴장성 두통 동반 편두통 환자에게 작약감초탕(芍藥甘草湯)을 투여했을 때, 월간 두통 일수와 편두통 일수가 유의하게 감소하고 진통제 사용량이 줄어드는 효과가 확인되었다.
 
 [^177]: Chinese Herbal Formula Xuefu Zhuyu for Tension-Type Headache with Qi-Stagnation and Blood-Stasis Pattern (CheruXTH): Study Protocol for a Randomized Controlled Trial. Zhou L 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [임상시험] [DOI 10.1155/2020/5653169](https://doi.org/10.1155/2020/5653169) [PMID 32963565](https://pubmed.ncbi.nlm.nih.gov/32963565/) — 본 연구는 기체혈어(氣滯血瘀) 변증을 동반한 긴장성 두통 환자에게 혈부축어탕(血府逐瘀湯)을 투여했을 때의 유효성과 안전성을 평가하기 위한 프로토콜입니다.
 

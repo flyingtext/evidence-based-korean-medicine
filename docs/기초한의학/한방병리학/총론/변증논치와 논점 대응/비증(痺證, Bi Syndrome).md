@@ -866,7 +866,7 @@
 
 ---
 
-[^1]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. Jinlong Zhao 외. _BioMed Research International_. 2022-01. [메타분석] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 한냉습 응체형(착비 상당) 슬관절 골관절염에서 독활기생탕 계열 처방의 효과를 정리한 통합분석. 착비의 한습 병기와 현대 질환군의 대응근거.
+[^1]: Efficacy of Duhuo Jisheng Decoction for Treating Cold‐Dampness Obstruction Syndrome‐Type Knee Osteoarthritis: A Pooled Analysis. Zhao J 외. _BioMed Research International_. 2022-01. [메타분석] [DOI 10.1155/2022/2350404](https://doi.org/10.1155/2022/2350404) — 한냉습 응체형(착비 상당) 슬관절 골관절염에서 독활기생탕 계열 처방의 효과를 정리한 통합분석. 착비의 한습 병기와 현대 질환군의 대응근거.
 
 [^2]: Integrated multi-omics analysis of dampness-heat gout reveals diagnostic biomarkers and therapeutic targets. Le Yang 외. _Frontiers in Immunology_. 2026-02-06. [관찰연구] [DOI 10.3389/fimmu.2026.1677920](https://doi.org/10.3389/fimmu.2026.1677920) — 습열형 통풍의 다중오믹스 분석으로 진단 바이오마커·치료표적을 제시. 열비(습열비)의 생물학적 실체 지지 근거.
 
@@ -960,7 +960,7 @@
 
 [^47]: Efficacy and Safety of External Therapies of Traditional Chinese Medicine in Patients with Knee Osteoarthritis: A Systematic Review and Network Meta-Analysis. Wang Z 외. _Rejuvenation research_. 2025-10. [메타분석] [DOI 10.1089/rej.2025.0039](https://doi.org/10.1089/rej.2025.0039) [PMID 40511477](https://pubmed.ncbi.nlm.nih.gov/40511477/) — 한의학 외치법의 슬관절 골관절염 효과·안전성을 정리한 네트워크메타분석(6,571명).
 
-[^48]: The Efficacy and Safety of Chinese Herbal Medicine in the Treatment of Knee Osteoarthritis: An Updated Systematic Review and Meta‐Analysis of 56 Randomized Controlled Trials. Zhou Lin 외. _Oxidative Medicine and Cellular Longevity_. 2022-01. [메타분석] [DOI 10.1155/2022/6887988](https://doi.org/10.1155/2022/6887988) — 한약이 슬관절 골관절염에 미치는 효과를 56편 RCT로 갱신 분석한 메타분석(5,350명).
+[^48]: The Efficacy and Safety of Chinese Herbal Medicine in the Treatment of Knee Osteoarthritis: An Updated Systematic Review and Meta‐Analysis of 56 Randomized Controlled Trials. Lin Z 외. _Oxidative Medicine and Cellular Longevity_. 2022-01. [메타분석] [DOI 10.1155/2022/6887988](https://doi.org/10.1155/2022/6887988) — 한약이 슬관절 골관절염에 미치는 효과를 56편 RCT로 갱신 분석한 메타분석(5,350명).
 
 [^49]: Quantitative assessment of acupuncture’s effectiveness in osteoarthritis: a model-based meta-analysis. Aobo Feng 외. _Acupuncture and Herbal Medicine_. 2026-04-20. [메타분석] [DOI 10.1097/hm9.0000000000000199](https://doi.org/10.1097/hm9.0000000000000199) — 침의 골관절염 효과를 모델 기반으로 정량화한 메타분석(4,919명). 용량-반응 관계 탐색.
 
@@ -970,15 +970,15 @@
 
 [^52]: Needle acupuncture for osteoarthritis of the knee. A systematic review and updated meta-analysis. Le Cao 외. _Saudi Medical Journal_. 2012-05-01. [메타분석] [DOI 10.15537/1658-3175.5548](https://doi.org/10.15537/1658-3175.5548) — 체침의 슬관절 골관절염 효과를 갱신한 체계적 고찰·메타분석(3,835명).
 
-[^53]: Acupotomy combined with oral pharmacotherapy for osteoarthritis: A systematic review and Bayesian network meta-analysis. Zhengyao Zhang 외. _Technology and Health Care_. 2025-11-14. [메타분석] [DOI 10.1177/09287329251392395](https://doi.org/10.1177/09287329251392395) — 침도+경구약물 병용의 골관절염 치료 효과를 베이지안 네트워크메타분석으로 정리(3,323명).
+[^53]: Acupotomy combined with oral pharmacotherapy for osteoarthritis: A systematic review and Bayesian network meta-analysis. Zhang Z 외. _Technology and Health Care_. 2025-11-14. [메타분석] [DOI 10.1177/09287329251392395](https://doi.org/10.1177/09287329251392395) — 침도+경구약물 병용의 골관절염 치료 효과를 베이지안 네트워크메타분석으로 정리(3,323명).
 
-[^54]: Traditional Chinese medicine external treatment combined with sodium vitrate injection for the treatment of knee osteoarthritis: A meta-analysis. Run Jiang 외. _Medicine_. 2023-12-15. [메타분석] [DOI 10.1097/md.0000000000036632](https://doi.org/10.1097/md.0000000000036632) — 한의학 외치+히알루론산나트륨 관절강 주사 병용의 슬관절 골관절염 메타분석(3,239명).
+[^54]: Traditional Chinese medicine external treatment combined with sodium vitrate injection for the treatment of knee osteoarthritis: A meta-analysis. Jiang R 외. _Medicine_. 2023-12-15. [메타분석] [DOI 10.1097/md.0000000000036632](https://doi.org/10.1097/md.0000000000036632) — 한의학 외치+히알루론산나트륨 관절강 주사 병용의 슬관절 골관절염 메타분석(3,239명).
 
 [^55]: Durable Effects of Acupuncture for Knee Osteoarthritis: A Systematic Review and Meta-analysis. Chen H 외. _Current pain and headache reports_. 2024-07. [메타분석] [DOI 10.1007/s11916-024-01242-6](https://doi.org/10.1007/s11916-024-01242-6) [PMID 38635021](https://pubmed.ncbi.nlm.nih.gov/38635021/) — 침 치료의 슬관절 골관절염에 대한 지속효과(중장기 추적)를 정리한 체계적 고찰·메타분석(3,221명).
 
 [^56]: Efficacy of Acupuncture-Related Therapy in the Treatment of Knee Osteoarthritis: A Network Meta-Analysis of Randomized Controlled Trials. Liu W 외. _Journal of pain research_. 2021. [메타분석] [DOI 10.2147/JPR.S315956](https://doi.org/10.2147/JPR.S315956) [PMID 34321920](https://pubmed.ncbi.nlm.nih.gov/34321920/) — 다양한 침구 관련 요법의 슬관절 골관절염 효과를 비교한 네트워크메타분석(3,215명).
 
-[^57]: Effects of Electroacupuncture for Knee Osteoarthritis: A Systematic Review and Meta‐Analysis. Jae-Woo Shim 외. _Evidence-Based Complementary and Alternative Medicine_. 2016-01. [메타분석] [DOI 10.1155/2016/3485875](https://doi.org/10.1155/2016/3485875) — 전침의 슬관절 골관절염 효과를 정리한 체계적 고찰·메타분석(3,187명).
+[^57]: Effects of Electroacupuncture for Knee Osteoarthritis: A Systematic Review and Meta‐Analysis. Shim JW 외. _Evidence-Based Complementary and Alternative Medicine_. 2016-01. [메타분석] [DOI 10.1155/2016/3485875](https://doi.org/10.1155/2016/3485875) — 전침의 슬관절 골관절염 효과를 정리한 체계적 고찰·메타분석(3,187명).
 
 [^58]: Efficacy and Safety of Chinese Herbal Medicine for Knee Osteoarthritis: Systematic Review and Meta-analysis of Randomized Controlled Trials. Liang Y 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2022-06. [메타분석] [DOI 10.1016/j.phymed.2022.154029](https://doi.org/10.1016/j.phymed.2022.154029) [PMID 35316726](https://pubmed.ncbi.nlm.nih.gov/35316726/) — 한약의 슬관절 골관절염 효과·안전성을 정리한 체계적 고찰·메타분석(3,115명, Phytomedicine).
 
@@ -992,7 +992,7 @@
 
 [^63]: Effectiveness of Fu's subcutaneous needling on pain and physical function in patients with knee osteoarthritis: A systematic review and meta-analysis. Liu T 외. _Complementary therapies in medicine_. 2025-10. [메타분석] [DOI 10.1016/j.ctim.2025.103233](https://doi.org/10.1016/j.ctim.2025.103233) [PMID 40846208](https://pubmed.ncbi.nlm.nih.gov/40846208/) — 부씨침(浮鍼)의 슬관절 골관절염 통증·기능 개선 효과를 정리한 체계적 고찰·메타분석(2,169명).
 
-[^64]: Efficacy of knee osteoarthritis by use of laser acupuncture: A systematic review and meta-analysis. Rong Han 외. _Medicine_. 2024-06-21. [메타분석] [DOI 10.1097/md.0000000000038325](https://doi.org/10.1097/md.0000000000038325) — 레이저침의 슬관절 골관절염 효과를 정리한 체계적 고찰·메타분석(2,075명).
+[^64]: Efficacy of knee osteoarthritis by use of laser acupuncture: A systematic review and meta-analysis. Han R 외. _Medicine_. 2024-06-21. [메타분석] [DOI 10.1097/md.0000000000038325](https://doi.org/10.1097/md.0000000000038325) — 레이저침의 슬관절 골관절염 효과를 정리한 체계적 고찰·메타분석(2,075명).
 
 [^65]: Pain management with acupuncture in osteoarthritis: a systematic review and meta-analysis. Manyanga T 외. _BMC complementary and alternative medicine_. 2014-08-23. [메타분석] [DOI 10.1186/1472-6882-14-312](https://doi.org/10.1186/1472-6882-14-312) [PMID 25151529](https://pubmed.ncbi.nlm.nih.gov/25151529/) — 침의 골관절염 통증관리 효과를 정리한 체계적 고찰·메타분석(1,763명).
 
@@ -1010,7 +1010,7 @@
 
 [^72]: A systematic review and meta-analysis of Tai Chi for osteoarthritis of the knee. Lauche R 외. _Complementary therapies in medicine_. 2013-08. [메타분석] [DOI 10.1016/j.ctim.2013.06.001](https://doi.org/10.1016/j.ctim.2013.06.001) [PMID 23876571](https://pubmed.ncbi.nlm.nih.gov/23876571/) — 태극권의 슬관절 골관절염 효과를 정리한 체계적 고찰·메타분석(252명). 도인·기공 운동요법의 근거.
 
-[^73]: Prevalence of ankylosing spondylitis in a Chinese population: a systematic review and meta-analysis. Jinlong Zhao 외. _Rheumatology International_. 2020-03-03. [메타분석] [DOI 10.1007/s00296-020-04537-0](https://doi.org/10.1007/s00296-020-04537-0) — 중국 인구집단에서 강직성척추염 유병률을 정리한 체계적 고찰·메타분석(122,558명). 골비(骨痺) 계열 질환의 역학적 규모.
+[^73]: Prevalence of ankylosing spondylitis in a Chinese population: a systematic review and meta-analysis. Zhao J 외. _Rheumatology International_. 2020-03-03. [메타분석] [DOI 10.1007/s00296-020-04537-0](https://doi.org/10.1007/s00296-020-04537-0) — 중국 인구집단에서 강직성척추염 유병률을 정리한 체계적 고찰·메타분석(122,558명). 골비(骨痺) 계열 질환의 역학적 규모.
 
 [^74]: Moxibustion for the treatment of ankylosing spondylitis: a systematic review and meta-analysis. Hu J 외. _Annals of palliative medicine_. 2020-05. [메타분석] [DOI 10.21037/apm.2020.02.31](https://doi.org/10.21037/apm.2020.02.31) [PMID 32312058](https://pubmed.ncbi.nlm.nih.gov/32312058/) — 뜸이 강직성척추염 치료에 미치는 효과를 정리한 체계적 고찰·메타분석(1,944명).
 
@@ -1022,9 +1022,9 @@
 
 [^78]: Efficacy and Safety of Sinomenine Preparation for Ankylosing Spondylitis: A Systematic Review and Meta-Analysis of Clinical Randomized Controlled Trials. Lin SS 외. _Evidence-based complementary and alternative medicine : eCAM_. 2020. [메타분석] [DOI 10.1155/2020/4593412](https://doi.org/10.1155/2020/4593412) [PMID 32508948](https://pubmed.ncbi.nlm.nih.gov/32508948/) — 청풍등(靑風藤) 유래 시노메닌 제제의 강직성척추염 효과·안전성을 정리한 체계적 고찰·메타분석(835명).
 
-[^79]: The Efficacy and Safety of Simple‐Needling Therapy for Treating Ankylosing Spondylitis: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials. Yichen Xuan 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석] [DOI 10.1155/2020/4276380](https://doi.org/10.1155/2020/4276380) — 단순 자침요법의 강직성척추염 효과·안전성을 정리한 체계적 고찰·메타분석(729명).
+[^79]: The Efficacy and Safety of Simple‐Needling Therapy for Treating Ankylosing Spondylitis: A Systematic Review and Meta‐Analysis of Randomized Controlled Trials. Xuan Y 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [메타분석] [DOI 10.1155/2020/4276380](https://doi.org/10.1155/2020/4276380) — 단순 자침요법의 강직성척추염 효과·안전성을 정리한 체계적 고찰·메타분석(729명).
 
-[^80]: Efficacy of Whole-Body Cryotherapy in Ankylosing Spondylitis: A Systematic Review with Meta-Analysis. Olfa Saidane 외. _Journal of Integrative and Complementary Medicine_. 2025-10-13. [메타분석] [DOI 10.1177/27683605251385396](https://doi.org/10.1177/27683605251385396) — 전신냉동요법의 강직성척추염 효과를 정리한 체계적 고찰·메타분석(310명).
+[^80]: Efficacy of Whole-Body Cryotherapy in Ankylosing Spondylitis: A Systematic Review with Meta-Analysis. Saidane O 외. _Journal of Integrative and Complementary Medicine_. 2025-10-13. [메타분석] [DOI 10.1177/27683605251385396](https://doi.org/10.1177/27683605251385396) — 전신냉동요법의 강직성척추염 효과를 정리한 체계적 고찰·메타분석(310명).
 
 [^81]: Traditional Chinese Eight Brocade Exercise Prescription for Ankylosing Spondylitis: A Quantitative Synthesis. Zou YY 외. _Complementary medicine research_. 2020. [메타분석] [DOI 10.1159/000505312](https://doi.org/10.1159/000505312) [PMID 32464629](https://pubmed.ncbi.nlm.nih.gov/32464629/) — 팔단금 도인 운동이 강직성척추염에 미치는 효과를 정량 종합한 연구(308명).
 
@@ -1032,7 +1032,7 @@
 
 [^83]: Synergistic and Hepatoprotective Effect of Total Glucosides of Paeony on Ankylosing Spondylitis: A Systematic Review and Meta-Analysis. Huang Y 외. _Frontiers in pharmacology_. 2019. [메타분석] [DOI 10.3389/fphar.2019.00231](https://doi.org/10.3389/fphar.2019.00231) [PMID 30941036](https://pubmed.ncbi.nlm.nih.gov/30941036/) — 총작약배당체가 강직성척추염 치료에서 상승효과와 간보호 효과를 보이는지 정리한 체계적 고찰·메타분석.
 
-[^84]: The efficacy and safety of Health Qigong for ankylosing spondylitis. Biyuan Liu 외. _Medicine_. 2020-01. [체계적 고찰] [DOI 10.1097/md.0000000000018734](https://doi.org/10.1097/md.0000000000018734) — 건강기공(健康氣功)의 강직성척추염 효과·안전성을 정리한 체계적 고찰.
+[^84]: The efficacy and safety of Health Qigong for ankylosing spondylitis. Liu B 외. _Medicine_. 2020-01. [체계적 고찰] [DOI 10.1097/md.0000000000018734](https://doi.org/10.1097/md.0000000000018734) — 건강기공(健康氣功)의 강직성척추염 효과·안전성을 정리한 체계적 고찰.
 
 [^85]: Cupping therapy for treating ankylosing spondylitis: The evidence from systematic review and meta-analysis. Ma SY 외. _Complementary therapies in clinical practice_. 2018-08. [메타분석] [DOI 10.1016/j.ctcp.2018.07.001](https://doi.org/10.1016/j.ctcp.2018.07.001) [PMID 30057049](https://pubmed.ncbi.nlm.nih.gov/30057049/) — 부항요법의 강직성척추염 치료 근거를 정리한 체계적 고찰·메타분석.
 
@@ -1042,11 +1042,11 @@
 
 [^88]: Bone density and fracture risk factors in ankylosing spondylitis: a meta-analysis. Yan F 외. _Osteoporosis international : a journal established as result of cooperation between the European Foundation for Osteoporosis and the National Osteoporosis Foundation of the USA_. 2024-01. [메타분석] [DOI 10.1007/s00198-023-06925-1](https://doi.org/10.1007/s00198-023-06925-1) [PMID 37814094](https://pubmed.ncbi.nlm.nih.gov/37814094/) — 강직성척추염의 골밀도·골절 위험인자를 정리한 메타분석. 골비 전변의 골대사 근거.
 
-[^89]: Efficacy and safety of acupuncture combined with Western medicine in the treatment of ankylosing spondylitis: A systematic review and meta-analysis. Xindan Cao 외. _Medicine_. 2025-05-23. [메타분석] [DOI 10.1097/md.0000000000042468](https://doi.org/10.1097/md.0000000000042468) — 침+양방치료 병용의 강직성척추염 효과·안전성을 정리한 체계적 고찰·메타분석.
+[^89]: Efficacy and safety of acupuncture combined with Western medicine in the treatment of ankylosing spondylitis: A systematic review and meta-analysis. Cao X 외. _Medicine_. 2025-05-23. [메타분석] [DOI 10.1097/md.0000000000042468](https://doi.org/10.1097/md.0000000000042468) — 침+양방치료 병용의 강직성척추염 효과·안전성을 정리한 체계적 고찰·메타분석.
 
 [^90]: Effectiveness of Complementary and Alternative Medicine in Fibromyalgia Syndrome: A Network Meta-Analysis. Ye G 외. _Journal of pain research_. 2024. [메타분석] [DOI 10.2147/JPR.S439906](https://doi.org/10.2147/JPR.S439906) [PMID 38268732](https://pubmed.ncbi.nlm.nih.gov/38268732/) — 보완대체의학 전반의 섬유근육통 치료 효과를 정리한 네트워크메타분석(2,877명).
 
-[^91]: Comparing Verum and Sham Acupuncture in Fibromyalgia Syndrome: A Systematic Review and Meta-Analysis. Jiwon Kim 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-08-25. [메타분석] [DOI 10.1155/2019/8757685](https://doi.org/10.1155/2019/8757685) — 진침과 가짜침을 비교한 섬유근육통 체계적 고찰·메타분석(690명).
+[^91]: Comparing Verum and Sham Acupuncture in Fibromyalgia Syndrome: A Systematic Review and Meta-Analysis. Kim J 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-08-25. [메타분석] [DOI 10.1155/2019/8757685](https://doi.org/10.1155/2019/8757685) — 진침과 가짜침을 비교한 섬유근육통 체계적 고찰·메타분석(690명).
 
 [^92]: Efficacy of acupuncture in fibromyalgia syndrome--a systematic review with a meta-analysis of controlled clinical trials. Langhorst J 외. _Rheumatology (Oxford, England)_. 2010-04. [메타분석] [DOI 10.1093/rheumatology/kep439](https://doi.org/10.1093/rheumatology/kep439) [PMID 20100789](https://pubmed.ncbi.nlm.nih.gov/20100789/) — 침의 섬유근육통 효과를 대조군 임상시험으로 정리한 체계적 고찰·메타분석(385명, Rheumatology).
 
@@ -1088,7 +1088,7 @@
 
 [^111]: Electroacupuncture for acute gouty arthritis: a systematic review and meta-analysis of randomized controlled trials. Ni Z 외. _Frontiers in immunology_. 2023. [메타분석] [DOI 10.3389/fimmu.2023.1295154](https://doi.org/10.3389/fimmu.2023.1295154) [PMID 38239361](https://pubmed.ncbi.nlm.nih.gov/38239361/) — 전침의 급성 통풍성관절염 효과를 정리한 체계적 고찰·메타분석(1,076명).
 
-[^112]: Efficacy and Safety of Acupuncture Combined with Herbal Medicine in Treating Gouty Arthritis: Meta-Analysis of Randomized Controlled Trials. Huan Liang 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-30. [메타분석] [DOI 10.1155/2021/8161731](https://doi.org/10.1155/2021/8161731) — 침+한약 병용의 통풍성관절염 효과·안전성을 정리한 메타분석(1,065명).
+[^112]: Efficacy and Safety of Acupuncture Combined with Herbal Medicine in Treating Gouty Arthritis: Meta-Analysis of Randomized Controlled Trials. Liang H 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-12-30. [메타분석] [DOI 10.1155/2021/8161731](https://doi.org/10.1155/2021/8161731) — 침+한약 병용의 통풍성관절염 효과·안전성을 정리한 메타분석(1,065명).
 
 [^113]: Efficacy and tolerability of Guizhi-Shaoyao-Zhimu decoction in gout patients: a systematic review and Meta-analysis. Zhang Q 외. _Pharmaceutical biology_. 2020-12. [메타분석] [DOI 10.1080/13880209.2020.1823426](https://doi.org/10.1080/13880209.2020.1823426) [PMID 33205687](https://pubmed.ncbi.nlm.nih.gov/33205687/) — 계지작약지모탕의 통풍 환자에 대한 효과·내약성을 정리한 체계적 고찰·메타분석(1,056명).
 
@@ -1118,7 +1118,7 @@
 
 [^126]: The effectiveness and safety of lifestyle medicine and integrative therapies in inflammatory arthritis: an umbrella review using a hierarchical evidence gathering approach. Lin J 외. _Frontiers in medicine_. 2024. [체계적 고찰] [DOI 10.3389/fmed.2024.1357914](https://doi.org/10.3389/fmed.2024.1357914) [PMID 38545510](https://pubmed.ncbi.nlm.nih.gov/38545510/) — 생활習관 의학과 통합치료(식이·운동·침구 포함)의 염증성 관절염 효과·안전성을 정리한 체계적 고찰.
 
-[^127]: Comparative efficacy and safety of Chinese herbal medicine for knee osteoarthritis. Lei Yang 외. _Medicine_. 2021-07-23. [체계적 고찰] [DOI 10.1097/md.0000000000026671](https://doi.org/10.1097/md.0000000000026671) — 한약의 슬관절 골관절염 비교 효과·안전성을 정리한 체계적 고찰(Medicine).
+[^127]: Comparative efficacy and safety of Chinese herbal medicine for knee osteoarthritis. Yang L 외. _Medicine_. 2021-07-23. [체계적 고찰] [DOI 10.1097/md.0000000000026671](https://doi.org/10.1097/md.0000000000026671) — 한약의 슬관절 골관절염 비교 효과·안전성을 정리한 체계적 고찰(Medicine).
 
 [^128]: Analgesic Herbal Medicines in the Treatment of Knee Osteoarthritis: A Systematic Review. Teymouri S 외. _Current rheumatology reviews_. 2019. [체계적 고찰] [DOI 10.2174/1573397115666190328150203](https://doi.org/10.2174/1573397115666190328150203) [PMID 30919780](https://pubmed.ncbi.nlm.nih.gov/30919780/) — 진통 목적 한약의 슬관절 골관절염 치료 근거를 정리한 체계적 고찰(2,399명).
 
@@ -1136,19 +1136,19 @@
 
 [^135]: Needle-Warming Moxibustion plus Multirehabilitation Training to Improve Quality of Life and Functional Mobility of Patients with Rheumatoid Arthritis after Medication. Wu F 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [임상시험, 철회됨] [DOI 10.1155/2022/5833280](https://doi.org/10.1155/2022/5833280) [PMID 35646142](https://pubmed.ncbi.nlm.nih.gov/35646142/) — **철회(Retraction Notice: [PMID 38074847](https://pubmed.ncbi.nlm.nih.gov/38074847/))**: 유효 근거로 인용하지 않으며, 철회 사실을 기록하기 위해 남긴다. 원 보고 내용: 온침구(溫鍼灸)+다면재활훈련이 류마티스관절염 삶의 질·기능에 미치는 효과를 검증한 임상시험(84명).
 
-[^136]: Clinical efficacy of fire-needle warming therapy in the treatment of knee osteoarthritis of cold-dampness type and its effect on serum IL-1β and MMP-3. Tanshu Liu 외. _Clinical Rheumatology_. 2025-06-10. [임상시험] [DOI 10.1007/s10067-025-07497-7](https://doi.org/10.1007/s10067-025-07497-7) — 화침 온법(火鍼溫法)이 한습 응체형(착비·한비) 슬관절 골관절염에 미치는 임상효과를 검증한 임상시험(80명). 착비·한비의 온산법 직접 근거.
+[^136]: Clinical efficacy of fire-needle warming therapy in the treatment of knee osteoarthritis of cold-dampness type and its effect on serum IL-1β and MMP-3. Liu T 외. _Clinical Rheumatology_. 2025-06-10. [임상시험] [DOI 10.1007/s10067-025-07497-7](https://doi.org/10.1007/s10067-025-07497-7) — 화침 온법(火鍼溫法)이 한습 응체형(착비·한비) 슬관절 골관절염에 미치는 임상효과를 검증한 임상시험(80명). 착비·한비의 온산법 직접 근거.
 
 [^137]: Electroacupuncture for Knee Osteoarthritis Based on Different Meridian Syndrome: A Randomized Controlled Pilot Trial. Tian-Qi Wang 외. _Acupuncture &amp; Electro-Therapeutics Research: International Journal of Integrated Medicine_. 2021-07. [임상시험] [DOI 10.3727/036012921x16207330235374](https://doi.org/10.3727/036012921x16207330235374) — 경락변증(經絡辨證)에 따라 다르게 취혈한 전침이 슬관절 골관절염에 미치는 효과를 검증한 무작위대조시험(60명). 변증 층화 취혈의 직접 근거.
 
 [^138]: Electroacupuncture versus diclofenac in symptomatic treatment of osteoarthritis of the knee: a randomized controlled trial. Sangdee C 외. _BMC complementary and alternative medicine_. 2002-03-21. [임상시험] [DOI 10.1186/1472-6882-2-3](https://doi.org/10.1186/1472-6882-2-3) [PMID 11914160](https://pubmed.ncbi.nlm.nih.gov/11914160/) — 전침과 디클로페낙을 비교한 슬관절 골관절염 무작위대조시험(193명).
 
-[^139]: Correlation between acupuncture dose and effectiveness in the treatment of knee osteoarthritis: a systematic review. Ning Sun 외. _Acupuncture in Medicine_. 2019-07-04. [체계적 고찰] [DOI 10.1136/acupmed-2017-011608](https://doi.org/10.1136/acupmed-2017-011608) — 침 자극량(용량)과 슬관절 골관절염 치료 효과의 상관성을 분석한 체계적 고찰(2,106명).
+[^139]: Correlation between acupuncture dose and effectiveness in the treatment of knee osteoarthritis: a systematic review. Sun N 외. _Acupuncture in Medicine_. 2019-07-04. [체계적 고찰] [DOI 10.1136/acupmed-2017-011608](https://doi.org/10.1136/acupmed-2017-011608) — 침 자극량(용량)과 슬관절 골관절염 치료 효과의 상관성을 분석한 체계적 고찰(2,106명).
 
 [^140]: The persistence of the effects of acupuncture after a course of treatment: a meta-analysis of patients with chronic pain. H. MacPherson 외. _Pain_. 2016-10-17. [메타분석] [DOI 10.1097/j.pain.0000000000000747](https://doi.org/10.1097/j.pain.0000000000000747) — 침 치료 종료 후 효과 지속성을 개별환자자료 메타분석으로 정리(17,922명). 만성 통증질환 전반에서 침의 장기 효과 근거.
 
-[^141]: Effects of Traditional Chinese Medicine Rehabilitation Program on Knee Osteoarthritis in Aging Population: A Multicenter Randomized Controlled Trial. Weihong Zhong 외. _International Journal of Rheumatic Diseases_. 2025-08. [임상시험] [DOI 10.1111/1756-185x.70398](https://doi.org/10.1111/1756-185x.70398) — 한의학 재활 프로그램이 노년층 슬관절 골관절염에 미치는 효과를 검증한 임상시험(101명).
+[^141]: Effects of Traditional Chinese Medicine Rehabilitation Program on Knee Osteoarthritis in Aging Population: A Multicenter Randomized Controlled Trial. Zhong W 외. _International Journal of Rheumatic Diseases_. 2025-08. [임상시험] [DOI 10.1111/1756-185x.70398](https://doi.org/10.1111/1756-185x.70398) — 한의학 재활 프로그램이 노년층 슬관절 골관절염에 미치는 효과를 검증한 임상시험(101명).
 
-[^142]: Efficacy and safety of thread embedding acupuncture on knee osteoarthritis. Purumea Jun 외. _Medicine_. 2020-09-04. [임상시험] [DOI 10.1097/md.0000000000021957](https://doi.org/10.1097/md.0000000000021957) — 매선침이 슬관절 골관절염에 미치는 효과·안전성을 검증한 임상시험(40명).
+[^142]: Efficacy and safety of thread embedding acupuncture on knee osteoarthritis. Jun P 외. _Medicine_. 2020-09-04. [임상시험] [DOI 10.1097/md.0000000000021957](https://doi.org/10.1097/md.0000000000021957) — 매선침이 슬관절 골관절염에 미치는 효과·안전성을 검증한 임상시험(40명).
 
 [^143]: Clinical efficacy evaluation of a traditional Miao technique of crossbow needle therapy in the treatment of knee osteoarthritis: a multi-center randomized controlled trial. Jing Fu 외. _Trials_. 2020-06-22. [임상시험] [DOI 10.1186/s13063-020-04508-7](https://doi.org/10.1186/s13063-020-04508-7) — 묘족(苗族) 전통 궁노침법의 슬관절 골관절염 치료 효과를 검증한 임상시험(301명).
 

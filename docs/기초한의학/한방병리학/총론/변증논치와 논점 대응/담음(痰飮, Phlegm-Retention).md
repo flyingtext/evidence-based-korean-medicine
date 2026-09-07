@@ -1369,7 +1369,7 @@ AECOPD 담열폐실형이 대사체·염증 바이오마커로 구별되었다[^
 
 [^ZEXIE]: Modified Zexie decoction improves phlegm-dampness type stage I hypertension by regulating the gut-immune-kidney axis. _Frontiers in Pharmacology_. 임상시험. [DOI 10.3389/fphar.2025.1578815](https://doi.org/10.3389/fphar.2025.1578815)
 
-[^BXHPT1]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Hsin-Fu Yeh 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕을 표준 양약 치료와 병용했을 때, 단독 양약 치료보다 후두경 소견(RFS)을 유의하게 더 개선시켰다. 매핵기·기체담결에 대한 반하후박탕의 임상 근거.
+[^BXHPT1]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Yeh HF 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕을 표준 양약 치료와 병용했을 때, 단독 양약 치료보다 후두경 소견(RFS)을 유의하게 더 개선시켰다. 매핵기·기체담결에 대한 반하후박탕의 임상 근거.
 
 [^BXHPT2]: Clinical observations on 46 cases of globus hystericus treated with modified Banxia Houpu decoction. Bo P 외. _Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan_. 2010-06. [임상시험, 95명] [DOI 10.1016/s0254-6272(10)60023-4](https://doi.org/10.1016/s0254-6272(10)60023-4) [PMID 20653165](https://pubmed.ncbi.nlm.nih.gov/20653165/) — 가감 반하후박탕이 매핵기 환자의 우울과 불안을 완화하고 심리 상태를 개선하는 데 효과적이었다.
 

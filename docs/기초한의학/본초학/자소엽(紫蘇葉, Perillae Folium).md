@@ -677,7 +677,7 @@
 
 [^29]: Latent class analysis of therapeutic effects of Huoxiang Zhengqi Oral Liquid on patients with cold due to wind-cold and dampness stagnation. Wu M 외. _Zhongguo Zhong yao za zhi_. 2024-11. [관찰연구, 11273명] [DOI 10.19540/j.cnki.cjcmm.20240808.501](https://doi.org/10.19540/j.cnki.cjcmm.20240808.501) [PMID 39701804](https://pubmed.ncbi.nlm.nih.gov/39701804/) — 증상 유형별 층화에 따라 용량을 조절할 때 회복이 빨라짐. 변증 층화가 치료 성적을 좌우한다는 대규모 근거.
 
-[^30]: Chinese Herbal Formula Huoxiang Zhengqi for Dampness Pattern in Atopic Dermatitis and Diarrhea-Predominant Irritable Bowel Syndrome: Rationale and Design of a Master Protocol. Qian Huang 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-10-04. [임상시험, 1000명] [DOI 10.1155/2021/5125568](https://doi.org/10.1155/2021/5125568) — 서로 다른 질환이 같은 습(濕) 변증을 공유할 때 동일 처방이 유효한지 검증하는 설계. 이병동치(異病同治)의 현대적 시험 설계.
+[^30]: Chinese Herbal Formula Huoxiang Zhengqi for Dampness Pattern in Atopic Dermatitis and Diarrhea-Predominant Irritable Bowel Syndrome: Rationale and Design of a Master Protocol. Huang Q 외. _Evidence-Based Complementary and Alternative Medicine_. 2021-10-04. [임상시험, 1000명] [DOI 10.1155/2021/5125568](https://doi.org/10.1155/2021/5125568) — 서로 다른 질환이 같은 습(濕) 변증을 공유할 때 동일 처방이 유효한지 검증하는 설계. 이병동치(異病同治)의 현대적 시험 설계.
 
 [^31]: Chinese herbal formula Huoxiang Zhengqi Oral liquid for atopic dermatitis: The CHARM randomized controlled trial. Xuan M 외. _Phytomedicine_. 2025-11. [임상시험, 218명] [DOI 10.1016/j.phymed.2025.157141](https://doi.org/10.1016/j.phymed.2025.157141) [PMID 40839987](https://pubmed.ncbi.nlm.nih.gov/40839987/) — 경증 아토피 피부염·습진에서 곽향정기 경구액이 위약 대비 EASI를 유의하게 개선. 자소엽 함유 처방의 피부 영역 위약대조 근거.
 
@@ -687,7 +687,7 @@
 
 [^34]: 곽향정기산 합 통사요방 가감방을 통한 과민대장증후군 환자 호전 사례 : 일개 한의원 차트 기반 후향적 검토. 홍현준 외. _대한한방내과학회지_. 2025-09. [관찰연구, 5명] [DOI 10.22246/jikm.2025.46.4.1037](https://doi.org/10.22246/jikm.2025.46.4.1037) — 설사형·변비형·혼합형 전 유형에서 임상적으로 의미 있는 개선. 실제 진료 환경의 근거.
 
-[^35]: Gwakhyangjeonggi-san for irritable bowel syndrome. Jongwon Park 외. _Medicine_. 2021-07-09. [체계적 고찰] [DOI 10.1097/md.0000000000026635](https://doi.org/10.1097/md.0000000000026635) — 과민성 대장 증후군 보조 치료제로서 곽향정기산의 유효성·안전성을 평가하기 위한 체계적 고찰 설계.
+[^35]: Gwakhyangjeonggi-san for irritable bowel syndrome. Park J 외. _Medicine_. 2021-07-09. [체계적 고찰] [DOI 10.1097/md.0000000000026635](https://doi.org/10.1097/md.0000000000026635) — 과민성 대장 증후군 보조 치료제로서 곽향정기산의 유효성·안전성을 평가하기 위한 체계적 고찰 설계.
 
 [^36]: Large-scale prospective clinical study on prophylactic intervention of COVID-19 in community population using Huoxiang Zhengqi Oral Liquid and Jinhao Jiere Granules. Yan BH 외. _Zhongguo Zhong yao za zhi_. 2020-07. [임상시험, 22065명] [DOI 10.19540/j.cnki.cjcmm.20200430.501](https://doi.org/10.19540/j.cnki.cjcmm.20200430.501) [PMID 32726003](https://pubmed.ncbi.nlm.nih.gov/32726003/) — 지역사회 대규모 예방 투여에서 호흡기 감염 발생률 감소. 자소엽 함유 처방의 공중보건적 적용 사례.
 
@@ -695,7 +695,7 @@
 
 [^38]: Behavioral Prevention, Treatment, and Rehabilitation of Using Western and Chinese Medicines or Herbal Products among the Public in Response to COVID-19 in Hong Kong: A Cross-Sectional Study. Law SK 외. _Evidence-based complementary and alternative medicine : eCAM_. 2023. [관찰연구, 311명] [DOI 10.1155/2023/5637720](https://doi.org/10.1155/2023/5637720) [PMID 37680699](https://pubmed.ncbi.nlm.nih.gov/37680699/) — 곽향정기 제제가 실제 지역사회에서 빈번히 사용됨을 보여주는 이용 실태 근거.
 
-[^39]: Effect of Huoxiang Zhengqi Pill on Early Neurological Deterioration in Patients with Acute Ischemic Stroke Undergoing Recanalization Therapy and Predictive Effect of Essen Score. Zhi-Xin Huang 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [임상시험, 155명] [DOI 10.1155/2020/6912015](https://doi.org/10.1155/2020/6912015) — 재개통 요법 병용 시 조기 신경학적 악화 위험 감소. 자소엽 함유 처방의 적용 범위 확장 가능성.
+[^39]: Effect of Huoxiang Zhengqi Pill on Early Neurological Deterioration in Patients with Acute Ischemic Stroke Undergoing Recanalization Therapy and Predictive Effect of Essen Score. Huang ZX 외. _Evidence-Based Complementary and Alternative Medicine_. 2020-01. [임상시험, 155명] [DOI 10.1155/2020/6912015](https://doi.org/10.1155/2020/6912015) — 재개통 요법 병용 시 조기 신경학적 악화 위험 감소. 자소엽 함유 처방의 적용 범위 확장 가능성.
 
 [^40]: 유방암 환자의 항암화학요법 후 한방병원 입원치료에 대한 일개 한방병원 환자 특성 및 치료 고찰. 강수진 외. _대한한방부인과학회지_. 2020-05. [관찰연구, 21명] [DOI 10.15204/jkobgy.2020.33.2.077](https://doi.org/10.15204/jkobgy.2020.33.2.077) — 항암 후 오심·피로·식욕부진 관리에 곽향정기산 등이 활용됨. 지지 요법 영역의 실제 사용 근거.
 
@@ -731,9 +731,9 @@
 
 [^56]: Herbal drugs in Kampo preparations. Hubík J 외. _Ceskoslovenska farmacie_. 1993-04. [문헌 고찰] [PMID 8402959](https://pubmed.ncbi.nlm.nih.gov/8402959/) — 일본 한방 제제에 쓰이는 주요 본초를 개관. 자소엽이 동아시아 전통의학 전반의 상용 약재임을 보여줌.
 
-[^57]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. Nobuaki Michihata 외. _International Journal of Gynecology & Obstetrics_. 2019-03-08. [관찰연구, 121287명] [DOI 10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781) — 임신 오조에서 반하후박탕 등 사용이 태아 안전성에 부정적 영향 없이 재입원율·의료비를 낮춤. 임신기 자소엽 함유 처방 안전성의 대규모 간접 근거.
+[^57]: Safety and effectiveness of Japanese herbal Kampo medicines for treatment of hyperemesis gravidarum. Michihata N 외. _International Journal of Gynecology & Obstetrics_. 2019-03-08. [관찰연구, 121287명] [DOI 10.1002/ijgo.12781](https://doi.org/10.1002/ijgo.12781) — 임신 오조에서 반하후박탕 등 사용이 태아 안전성에 부정적 영향 없이 재입원율·의료비를 낮춤. 임신기 자소엽 함유 처방 안전성의 대규모 간접 근거.
 
-[^58]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Hsin-Fu Yeh 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕 병용이 단독 양약보다 후두경 소견을 더 개선. 매핵기 영역의 객관적 지표 개선 근거.
+[^58]: Effects of Ban-Xia-Hou-Pu-Tang and Western medicine on patients with globus sensation: A randomized controlled trial. Yeh HF 외. _Journal of the Chinese Medical Association_. 2025-04-17. [임상시험, 92명] [DOI 10.1097/jcma.0000000000001237](https://doi.org/10.1097/jcma.0000000000001237) — 반하후박탕 병용이 단독 양약보다 후두경 소견을 더 개선. 매핵기 영역의 객관적 지표 개선 근거.
 
 [^59]: Clinical observations on 46 cases of globus hystericus treated with modified Banxia Houpu decoction. Bo P 외. _Journal of traditional Chinese medicine_. 2010-06. [임상시험, 95명] [DOI 10.1016/s0254-6272(10)60023-4](https://doi.org/10.1016/s0254-6272%2810%2960023-4) [PMID 20653165](https://pubmed.ncbi.nlm.nih.gov/20653165/) — 가감 반하후박탕이 매핵기 환자의 우울·불안과 심리 상태를 개선. 기울(氣鬱) 병기 해석과 부합.
 
@@ -771,7 +771,7 @@
 
 [^76]: Prokinetic effect of a Kampo medicine, Hange-koboku-to (Banxia-houpo-tang), on patients with functional dyspepsia. Oikawa T 외. _Phytomedicine_. 2005-11. [임상시험] [DOI 10.1016/j.phymed.2005.03.001](https://doi.org/10.1016/j.phymed.2005.03.001) [PMID 16323291](https://pubmed.ncbi.nlm.nih.gov/16323291/) — 위 배출률을 유의하게 증가시켜 증상 개선. 이기화위 효능의 측정 가능한 생리 지표.
 
-[^77]: Hangekobokuto (Banxia-houpo-tang), a Kampo Medicine that Treats Functional Dyspepsia. Tetsuro Oikawa 외. _Evidence-Based Complementary and Alternative Medicine_. 2007-06-19. [임상시험] [DOI 10.1093/ecam/nem101](https://doi.org/10.1093/ecam/nem101) — 장내 가스량을 유의하게 감소시켜 복부 팽만을 완화. 자소엽 단미 시험의 가스 배출 개선과 방향이 일치.
+[^77]: Hangekobokuto (Banxia-houpo-tang), a Kampo Medicine that Treats Functional Dyspepsia. Oikawa T 외. _Evidence-Based Complementary and Alternative Medicine_. 2007-06-19. [임상시험] [DOI 10.1093/ecam/nem101](https://doi.org/10.1093/ecam/nem101) — 장내 가스량을 유의하게 감소시켜 복부 팽만을 완화. 자소엽 단미 시험의 가스 배출 개선과 방향이 일치.
 
 [^78]: Randomized controlled trial of modified banxia houpo decoction in treating functional dyspepsia patients with psychological factors. Xiao L 외. _Zhongguo Zhong xi yi jie he za zhi_. 2013-03. [임상시험, 89명] [PMID 23713238](https://pubmed.ncbi.nlm.nih.gov/23713238/) — 심리 요인 동반 소화불량에서 돔페리돈보다 우수. 심신 동반 병기에 대한 이기 처방의 강점.
 
@@ -833,7 +833,7 @@
 
 [^107]: Chinese Herbal Medicine to Treat Allergic Rhinitis: Evidence From a Meta-Analysis. Zhang X 외. _Allergy, asthma & immunology research_. 2018-01. [메타분석] [DOI 10.4168/aair.2018.10.1.34](https://doi.org/10.4168/aair.2018.10.1.34) [PMID 29178676](https://pubmed.ncbi.nlm.nih.gov/29178676/) — 한약 치료가 알레르기 비염 환자의 삶의 질을 유의하게 향상. 자소엽 가미 처방의 배경 근거.
 
-[^108]: Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang: two CARE-compliant case reports. Moon Jihyun 외. _Journal of Pharmacopuncture_. 2025-06. [증례 보고, 2명] [DOI 10.3831/KPI.2025.28.2.154](https://doi.org/10.3831/KPI.2025.28.2.154) — 소청룡탕 가감과 접형구개신경절 침 병행이 증상·삶의 질을 개선. 해표 계열 처방의 비과 적용 사례.
+[^108]: Management of Perennial Allergic Rhinitis Complicated by Rhinosinusitis Using Ultrasound-Guided Sphenopalatine Ganglion Acupuncture and Modified Socheongryong-tang: two CARE-compliant case reports. Moon J 외. _Journal of Pharmacopuncture_. 2025-06. [증례 보고, 2명] [DOI 10.3831/KPI.2025.28.2.154](https://doi.org/10.3831/KPI.2025.28.2.154) — 소청룡탕 가감과 접형구개신경절 침 병행이 증상·삶의 질을 개선. 해표 계열 처방의 비과 적용 사례.
 
 [^109]: A CHILD CASE OF EGOMA (PERILLA FRUTESCENS) ALLERGY DUE TO SCHOOL LUNCH, PROBABLY CAUSED BY PERCUTANEOUS SENSITIZATION. Shirota J 외. _Arerugi = [Allergy]_. 2024. [증례 보고, 1명] [DOI 10.15036/arerugi.73.290](https://doi.org/10.15036/arerugi.73.290) [PMID 38749713](https://pubmed.ncbi.nlm.nih.gov/38749713/) — 섭취력이 없는 아토피 피부염 소아에서 경피 감작에 의한 들깨 알레르기 발생. 자소엽 사용 전 알레르기 문진의 근거.
 

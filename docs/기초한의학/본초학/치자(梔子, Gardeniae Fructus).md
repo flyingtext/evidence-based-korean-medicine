@@ -420,7 +420,7 @@
 
 [^1]: 치자(梔子, Gardeniae Fructus)의 성미·귀경·효능·주치·포제 — 한의과대학 본초학 교재 표준 내용(교과서적 근거) — 치자를 청열사화약으로 분류하는 이론적 토대이며 개별 임상 권고의 근거 등급과는 구분된다.
 
-[^2]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Hsing-Yu Chen 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 전국 처방 데이터베이스에서 습진 치료 한약 네트워크를 도출해 치자 함유 청열 처방의 실제 사용 맥락을 보여준다.
+[^2]: Identifying Chinese Herbal Medicine Network for Eczema: Implications from a Nationwide Prescription Database. Chen HY 외. _Evidence-Based Complementary and Alternative Medicine_. 2015. [관찰연구] [DOI 10.1155/2015/347164](https://doi.org/10.1155/2015/347164) — 전국 처방 데이터베이스에서 습진 치료 한약 네트워크를 도출해 치자 함유 청열 처방의 실제 사용 맥락을 보여준다.
 
 [^3]: Network Pharmacology Analysis of Traditional Chinese Medicine for Treating Psoriasis: Identifying Core Components, Mechanisms, and Dosing Patterns. Yang S 외. _Alternative therapies in health and medicine_. 2024-07-19. [관찰연구] [PMID 39038330](https://pubmed.ncbi.nlm.nih.gov/39038330/) — 건선 치료 한약의 핵심 구성과 용량 패턴을 분석해 청열해독 계열 약재의 배오 위치를 제시한다.
 
@@ -518,7 +518,7 @@
 
 [^50]: Diverse Pharmacological Activities and Potential Medicinal Benefits of Geniposide. Zhou YX 외. _Evidence-based complementary and alternative medicine : eCAM_. 2019. [문헌 고찰] [DOI 10.1155/2019/4925682](https://doi.org/10.1155/2019/4925682) [PMID 31118959](https://pubmed.ncbi.nlm.nih.gov/31118959/) — 제니포사이드가 치자 외에 두충·지황·우슬에도 분포함을 정리해 성분 근거를 치자 단미로 등치할 수 없음을 시사한다.
 
-[^51]: A potential herbal component for the future treatment of fatty liver disease: Geniposide from gardenia. Qinyao Zhang 외. _Frontiers in Pharmacology_. 2025-05-23. [문헌 고찰] [DOI 10.3389/fphar.2025.1610676](https://doi.org/10.3389/fphar.2025.1610676) — 지방간에 대한 기전적 이점을 제시하면서 간독성에 대한 추가 안전성 검토를 단서로 달았다.
+[^51]: A potential herbal component for the future treatment of fatty liver disease: Geniposide from gardenia. Zhang Q 외. _Frontiers in Pharmacology_. 2025-05-23. [문헌 고찰] [DOI 10.3389/fphar.2025.1610676](https://doi.org/10.3389/fphar.2025.1610676) — 지방간에 대한 기전적 이점을 제시하면서 간독성에 대한 추가 안전성 검토를 단서로 달았다.
 
 [^52]: Therapeutic potential of genipin in various acute liver injury, fulminant hepatitis, NAFLD and other non-cancer liver diseases: More friend than foe. Fan X 외. _Pharmacological research_. 2020-09. [문헌 고찰] [DOI 10.1016/j.phrs.2020.104945](https://doi.org/10.1016/j.phrs.2020.104945) [PMID 32454225](https://pubmed.ncbi.nlm.nih.gov/32454225/) — 제니핀이 병태생리에 따라 간보호와 지질축적 유도라는 상반된 방향을 모두 보일 수 있음을 경고한다.
 
@@ -560,7 +560,7 @@
 
 [^71]: Traditional Chinese Medicine Induced Liver Injury. Teschke R. _Journal of clinical and translational hepatology_. 2014-06. [문헌 고찰] [DOI 10.14218/JCTH.2014.00003](https://doi.org/10.14218/JCTH.2014.00003) [PMID 26357619](https://pubmed.ncbi.nlm.nih.gov/26357619/) — 한약 유발 간손상이 드물지만 중증으로 진행할 수 있고 혼입·오염·기원 오인이 위험 요인임을 정리한다.
 
-[^72]: Adverse events associated with herbal medicine products reported in the Korea Adverse Event Reporting System from 2012 to 2021. Yujin Choi 외. _Frontiers in Pharmacology_. 2024-10-21. [관찰연구] [DOI 10.3389/fphar.2024.1378208](https://doi.org/10.3389/fphar.2024.1378208) — 국내 보고 체계에서 위장관(28.7%)·피부(20.1%) 이상사례가 최다임을 보여 복용 초기 문진 항목을 시사한다.
+[^72]: Adverse events associated with herbal medicine products reported in the Korea Adverse Event Reporting System from 2012 to 2021. Choi Y 외. _Frontiers in Pharmacology_. 2024-10-21. [관찰연구] [DOI 10.3389/fphar.2024.1378208](https://doi.org/10.3389/fphar.2024.1378208) — 국내 보고 체계에서 위장관(28.7%)·피부(20.1%) 이상사례가 최다임을 보여 복용 초기 문진 항목을 시사한다.
 
 [^73]: Estimated incidence of adverse reactions to Kampo medicines in randomized controlled clinical trials. Ichiro Arai 외. _Traditional & Kampo Medicine_. 2018-07-19. [체계적 고찰] [DOI 10.1002/tkm2.1200](https://doi.org/10.1002/tkm2.1200) — 무작위 대조시험 자료 기반 추정에서 황금 함유 처방, 특히 황련해독탕의 간손상 발생률이 상대적으로 높게 나타났음을 보고한다.
 
@@ -608,9 +608,9 @@
 
 [^95]: 합병증을 동반하지 않은 2형 당뇨병 환자에 대한 황련해독탕의 혈당 강하 효과에 대한 유효성과 안전성 : 체계적 문헌 고찰과 메타분석. 백지수 외. _대한한방내과학회지_. 2021-09. [메타분석] [DOI 10.22246/jikm.2021.42.4.605](https://doi.org/10.22246/jikm.2021.42.4.605) — 공복·식후 혈당과 당화혈색소, 인슐린 저항성 개선을 보고하되 포함 연구의 질과 처방 표준화 부족을 명시한다.
 
-[^96]: Effectiveness and safety of Hwangryunhaedok-Tang (Huang-Lian-Jie-Du-Tang, Oren-Gedoku-to) for dyslipidemia. Boram Lee 외. _Medicine_. 2020-12-18. [체계적 고찰] [DOI 10.1097/md.0000000000023367](https://doi.org/10.1097/md.0000000000023367) — 지질강하제 병용 시 LDL 감소와 이상반응 감소를 보고하되 편향 위험이 높고 근거 수준이 낮음을 명시한다.
+[^96]: Effectiveness and safety of Hwangryunhaedok-Tang (Huang-Lian-Jie-Du-Tang, Oren-Gedoku-to) for dyslipidemia. Lee B 외. _Medicine_. 2020-12-18. [체계적 고찰] [DOI 10.1097/md.0000000000023367](https://doi.org/10.1097/md.0000000000023367) — 지질강하제 병용 시 LDL 감소와 이상반응 감소를 보고하되 편향 위험이 높고 근거 수준이 낮음을 명시한다.
 
-[^97]: Effect of Herbal Medicine (Hwanglyeonhaedok-tang) on Insomnia Patients with Bedtime Procrastination: study protocol for a randomized controlled trial. Choi Yujin 외. _Journal of Pharmacopuncture_. 2024-12. [임상시험] [DOI 10.3831/KPI.2024.27.4.322](https://doi.org/10.3831/KPI.2024.27.4.322) — 행동 치료와 병행하는 통합 접근의 설계를 제시한 프로토콜.
+[^97]: Effect of Herbal Medicine (Hwanglyeonhaedok-tang) on Insomnia Patients with Bedtime Procrastination: study protocol for a randomized controlled trial. Choi Y 외. _Journal of Pharmacopuncture_. 2024-12. [임상시험] [DOI 10.3831/KPI.2024.27.4.322](https://doi.org/10.3831/KPI.2024.27.4.322) — 행동 치료와 병행하는 통합 접근의 설계를 제시한 프로토콜.
 
 [^98]: 黃連解毒湯이 아토피 피부염에 미치는 영향에 대한 임상적 연구. 고민정 외. _대한한방소아과학회지_. 2012-11. [임상시험] [DOI 10.7778/jpkm.2012.26.4.051](https://doi.org/10.7778/jpkm.2012.26.4.051) — 소아 아토피 피부염 71명에서 구진·부종·야간 소양감이 개선되었고 연령이 높을수록 효과가 뚜렷했다.
 
@@ -620,7 +620,7 @@
 
 [^101]: 黃連解毒湯加味方을 처방한 갱년기 안면홍조 환자 3례 증례 보고. 이아린 외. _한방안이비인후피부과학회지_. 2017-11. [증례 보고] [DOI 10.6114/jkood.2017.30.4.176](https://doi.org/10.6114/jkood.2017.30.4.176) — 갱년기 안면홍조에서 홍조 평가 지표와 VAS가 감소한 소규모 사례.
 
-[^102]: Systematic analysis of randomised controlled trials of Chinese herb medicine for non-alcoholic steatohepatitis (NASH): implications for future drug development and trial design. Xianwen Chen 외. _Chinese Medicine_. 2023-05-19. [체계적 고찰] [DOI 10.1186/s13020-023-00761-5](https://doi.org/10.1186/s13020-023-00761-5) — 황련해독탕 등 고전 처방이 유효한 기반이 될 수 있음을 제시하면서 진단 기준·설계 표준화 미흡을 지적한다.
+[^102]: Systematic analysis of randomised controlled trials of Chinese herb medicine for non-alcoholic steatohepatitis (NASH): implications for future drug development and trial design. Chen X 외. _Chinese Medicine_. 2023-05-19. [체계적 고찰] [DOI 10.1186/s13020-023-00761-5](https://doi.org/10.1186/s13020-023-00761-5) — 황련해독탕 등 고전 처방이 유효한 기반이 될 수 있음을 제시하면서 진단 기준·설계 표준화 미흡을 지적한다.
 
 [^103]: Therapeutic Efficacy and Safety of Traditional Chinese Medicine Classic Herbal Formula Longdanxiegan Decoction for Hypertension: A Systematic Review and Meta-Analysis. Xiong XJ 외. _Frontiers in pharmacology_. 2018. [메타분석] [DOI 10.3389/fphar.2018.00466](https://doi.org/10.3389/fphar.2018.00466) [PMID 29867474](https://pubmed.ncbi.nlm.nih.gov/29867474/) — 긍정적 경향을 보고하면서도 방법론적 질이 낮고 보고 편향 가능성이 있어 확정적 근거로는 부족함을 명시한다.
 
@@ -678,7 +678,7 @@
 
 [^130]: [Incidence rate of adverse reaction/event by Qingkailing injection: a Meta-analysis of single rate]. Ai CL 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2015-12. [메타분석] [PMID 27245021](https://pubmed.ncbi.nlm.nih.gov/27245021/) — 누적 9,793명에서 소화기 6%·주사부위 4%·피부점막 2%의 이상반응 빈도와 병용 시 증가를 보고한다.
 
-[^131]: Safety Concerns of Traditional Chinese Medicine Injections Used in Chinese Children. Liping Tan 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-06-23. [관찰연구] [DOI 10.1155/2019/8310368](https://doi.org/10.1155/2019/8310368) — 소아에서 한약 주사제와 아나필락시스 쇼크의 유의한 연관을 확인해 경구 우선 원칙을 뒷받침한다.
+[^131]: Safety Concerns of Traditional Chinese Medicine Injections Used in Chinese Children. Tan L 외. _Evidence-Based Complementary and Alternative Medicine_. 2019-06-23. [관찰연구] [DOI 10.1155/2019/8310368](https://doi.org/10.1155/2019/8310368) — 소아에서 한약 주사제와 아나필락시스 쇼크의 유의한 연관을 확인해 경구 우선 원칙을 뒷받침한다.
 
 [^132]: The combination of Qing Kailing injection and clindamycin injection leads to systemic adverse reactions: Case report. Zhou S 외. _Medicine_. 2024-11-22. [증례 보고] [DOI 10.1097/MD.0000000000040657](https://doi.org/10.1097/MD.0000000000040657) [PMID 39809146](https://pubmed.ncbi.nlm.nih.gov/39809146/) — 항생제와의 병용에서 전신 알레르기 반응이 발생해 주입관 세척 등 실무적 예방책을 제시한다.
 
@@ -716,7 +716,7 @@
 
 [^149]: Effect of Crocin on Antibody Titers to Heat-Shock Protein 27 in Subjects with Metabolic Syndrome. Nosrati M 외. _Current clinical pharmacology_. 2017. [임상시험] [DOI 10.2174/1574884712666170509162523](https://doi.org/10.2174/1574884712666170509162523) [PMID 28486907](https://pubmed.ncbi.nlm.nih.gov/28486907/) — 8주 투여에서 항-Hsp27 항체 역가와 hs-CRP에 유의한 변화가 없었던 음성 결과로, 크로신 효과가 지표·용량·기간에 의존함을 보여준다.
 
-[^150]: Immunoregulatory Effects of Krocina™, a Herbal Medicine Made of Crocin, on Osteoarthritis Patients: A Successful Clinical Trial in Iran. Javad Poursamimi 외. _Iranian Journal of Allergy, Asthma and Immunology_. 2020-06-29. [임상시험] [DOI 10.18502/ijaai.v19i3.3453](https://doi.org/10.18502/ijaai.v19i3.3453) — 골관절염 환자에서 CRP 감소와 Treg/Th17 균형 조절을 보고한 사프란 유래 크로신 제제 근거.
+[^150]: Immunoregulatory Effects of Krocina™, a Herbal Medicine Made of Crocin, on Osteoarthritis Patients: A Successful Clinical Trial in Iran. Poursamimi J 외. _Iranian Journal of Allergy, Asthma and Immunology_. 2020-06-29. [임상시험] [DOI 10.18502/ijaai.v19i3.3453](https://doi.org/10.18502/ijaai.v19i3.3453) — 골관절염 환자에서 CRP 감소와 Treg/Th17 균형 조절을 보고한 사프란 유래 크로신 제제 근거.
 
 [^151]: 한약치료로 호전된 폐경 여성 환자의 질염 1례. 류익한. _동의생리병리학회지_. 2024-02. [증례 보고] [DOI 10.15188/kjopp.2024.02.38.1.46](https://doi.org/10.15188/kjopp.2024.02.38.1.46) — 폐경 후 질염에서 용담사간탕·지백지황탕의 적용 사례.
 
@@ -732,11 +732,11 @@
 
 [^157]: Osimertinib과 한약의 약물 상호작용 및 항암 효과에 대한 문헌 고찰 : 보중익기탕(補中益氣湯) 및 황련해독탕을 중심으로. 이건준 외. _대한한방내과학회지_. 2024-12. [문헌 고찰] [DOI 10.22246/jikm.2024.45.6.1184](https://doi.org/10.22246/jikm.2024.45.6.1184) — 황련해독탕의 CYP3A4 억제 위험이 낮아 상호작용 측면의 안전성이 기대되나 임상 검증이 필요함을 정리한다.
 
-[^158]: Efficacy of Hwangryunhaedok-tang (Huang-lian-jie-du-tang, Oren-gedoku-to) for patients with hyperlipidemia: a study protocol for a randomized, double-blind, placebo-controlled, parallel, investigator-initiated clinical trial. Boram Lee 외. _Trials_. 2020-08-27. [임상시험] [DOI 10.1186/s13063-020-04695-3](https://doi.org/10.1186/s13063-020-04695-3) — 고지혈증에서 치자 함유 처방의 위약대조 검증을 위한 설계.
+[^158]: Efficacy of Hwangryunhaedok-tang (Huang-lian-jie-du-tang, Oren-gedoku-to) for patients with hyperlipidemia: a study protocol for a randomized, double-blind, placebo-controlled, parallel, investigator-initiated clinical trial. Lee B 외. _Trials_. 2020-08-27. [임상시험] [DOI 10.1186/s13063-020-04695-3](https://doi.org/10.1186/s13063-020-04695-3) — 고지혈증에서 치자 함유 처방의 위약대조 검증을 위한 설계.
 
 [^159]: 일시적 혈압상승에 대한 황련해독탕 과립제의 효과 : 증례 보고. 정신영 외. _대한한방내과학회지_. 2019-12. [증례 보고] [DOI 10.22246/jikm.2019.40.6.1288](https://doi.org/10.22246/jikm.2019.40.6.1288) — 고혈압 기왕력이 없는 4례의 일시적 혈압 상승에서 과립제 투여 후 혈압 강하가 관찰되었다.
 
-[^160]: Traditional Chinese Medicine in Patients With Primary Sjogren's Syndrome: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Huang-Hsi Chen 외. _Frontiers in Medicine_. 2021-09-28. [임상시험] [DOI 10.3389/fmed.2021.744194](https://doi.org/10.3389/fmed.2021.744194) — 일차 평가지표(ESSPRI)를 개선하지 못한 음성 결과로, 수면·혈압의 이차적 변화만 관찰되었다.
+[^160]: Traditional Chinese Medicine in Patients With Primary Sjogren's Syndrome: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial. Chen HH 외. _Frontiers in Medicine_. 2021-09-28. [임상시험] [DOI 10.3389/fmed.2021.744194](https://doi.org/10.3389/fmed.2021.744194) — 일차 평가지표(ESSPRI)를 개선하지 못한 음성 결과로, 수면·혈압의 이차적 변화만 관찰되었다.
 
 [^161]: Efficacy and Safety of Xiaoyao Formula as an Adjuvant Treatment for Post-Stroke Depression: A Meta-Analysis. Jin X 외. _Explore (New York, N.Y.)_. 2018-05. [메타분석] [DOI 10.1016/j.explore.2017.12.007](https://doi.org/10.1016/j.explore.2017.12.007) [PMID 29628336](https://pubmed.ncbi.nlm.nih.gov/29628336/) — 뇌졸중 후 우울증 607명에서 항우울제 단독보다 병용이 우월했음을 종합한다.
 

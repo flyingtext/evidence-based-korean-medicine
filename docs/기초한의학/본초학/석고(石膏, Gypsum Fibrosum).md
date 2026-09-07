@@ -766,7 +766,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^2]: Oseltamivir compared with the Chinese traditional therapy maxingshigan-yinqiaosan in the treatment of H1N1 influenza: a randomized trial. Wang C 외. _Annals of internal medicine_. 2011-08-16. [임상시험] [DOI 10.7326/0003-4819-155-4-201108160-00005](https://doi.org/10.7326/0003-4819-155-4-201108160-00005) [PMID 21844547](https://pubmed.ncbi.nlm.nih.gov/21844547/) — 마행석감은교산(麻杏石甘銀翹散, 석고 함유)이 H1N1 인플루엔자(410명)에서 해열 시간을 유의하게 단축시키고, 오셀타미비르 병용 시 단독보다 해열 속도 19% 향상. 석고 함유 처방의 급성 감염성 발열 해열 보조 대표 인체 RCT.
 
-[^3]: Maxingshigan decoction for treating COVID-19. Guoliang Shao 외. _Medicine_. 2020-11-25. [체계적 고찰] [DOI 10.1097/md.0000000000023224](https://doi.org/10.1097/md.0000000000023224) — 마행석감탕(麻杏石甘湯)의 COVID-19 치료 유효성·안전성 체계적 고찰. 핵산 음성 전환 시간 단축·완치율 향상 검토. 석고 함유 처방의 감염성 열성 질환 임상 근거.
+[^3]: Maxingshigan decoction for treating COVID-19. Shao G 외. _Medicine_. 2020-11-25. [체계적 고찰] [DOI 10.1097/md.0000000000023224](https://doi.org/10.1097/md.0000000000023224) — 마행석감탕(麻杏石甘湯)의 COVID-19 치료 유효성·안전성 체계적 고찰. 핵산 음성 전환 시간 단축·완치율 향상 검토. 석고 함유 처방의 감염성 열성 질환 임상 근거.
 
 [^5]: Effect of compound Zhuye Shigao Granule on acute radiation-induced esophagitis in cancer patients: A randomized controlled trial. Wang LJ 외. _Chinese journal of integrative medicine_. 2017-02. [임상시험] [DOI 10.1007/s11655-016-2652-5](https://doi.org/10.1007/s11655-016-2652-5) [PMID 28035542](https://pubmed.ncbi.nlm.nih.gov/28035542/) — 복합 죽엽석고과립(竹葉石膏顆粒, 석고 함유)이 방사선 치료 암 환자(120명)의 급성 방사선 식도염 발생률·등급·지속 기간을 유의하게 감소시키고 KPS·체중 유지. 열병 회복기 잔열·위음허 변증 처방의 현대 방사선 식도염 재현 인체 RCT.
 
@@ -872,7 +872,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^55]: Efficacy of Lianhua Qingwen for children with SARS-CoV-2 Omicron infection: A propensity score-matched retrospective cohort study. Xu X 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2023-03. [관찰연구] [DOI 10.1016/j.phymed.2023.154665](https://doi.org/10.1016/j.phymed.2023.154665) [PMID 36641977](https://pubmed.ncbi.nlm.nih.gov/36641977/) — 소아 2,808명 성향점수 매칭 코호트에서 연화청온의 임상 경과 개선을 관찰. 소아 적용의 대규모 관찰 근거.
 
-[^56]: Lianhua Qingwen Capsules Reduced the Rate of Severity in Patients with COVID-19: A System Review and Meta-Analysis of Randomized Controlled Trials. Chengqian Shi 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-02-02. [메타분석] [DOI 10.1155/2022/9617429](https://doi.org/10.1155/2022/9617429) — 830명 통합 분석에서 연화청온 병용이 경·중등증 환자의 중증 전환율을 유의하게 낮춤. 중증화 예방 관점의 근거.
+[^56]: Lianhua Qingwen Capsules Reduced the Rate of Severity in Patients with COVID-19: A System Review and Meta-Analysis of Randomized Controlled Trials. Shi C 외. _Evidence-Based Complementary and Alternative Medicine_. 2022-02-02. [메타분석] [DOI 10.1155/2022/9617429](https://doi.org/10.1155/2022/9617429) — 830명 통합 분석에서 연화청온 병용이 경·중등증 환자의 중증 전환율을 유의하게 낮춤. 중증화 예방 관점의 근거.
 
 [^57]: Meta-analysis of Traditional Chinese Medicine Lianhua Qingwen in the Treatment of Coronavirus Disease 2019. Xu Q 외. _Journal of anesthesia and translational medicine_. 2023-06-20. [메타분석] [DOI 10.58888/2957-3912-2023-06-21](https://doi.org/10.58888/2957-3912-2023-06-21) [PMID 38380434](https://pubmed.ncbi.nlm.nih.gov/38380434/) — 연화청온 병용이 발열 기간 단축과 중증 전환율 감소에 기여. 해열 지표에 초점을 둔 통합 분석.
 
@@ -898,7 +898,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^68]: Effect of Lianhua Qingwen capsules on the positive rate of COVID-19 close contacts: A retrospective analysis of a large-scale population-based cohort study. Qiao Y 외. _Phytomedicine : international journal of phytotherapy and phytopharmacology_. 2023-04. [관찰연구] [DOI 10.1016/j.phymed.2023.154690](https://doi.org/10.1016/j.phymed.2023.154690) [PMID 36780823](https://pubmed.ncbi.nlm.nih.gov/36780823/) — 밀접접촉자 25,002명 대규모 코호트에서 연화청온 투여와 양성률의 관련을 후향 분석. 예방적 투여 논의의 참고 자료로, 인과 해석에는 신중해야 한다.
 
-[^69]: Efficacy and safety of Lianhua Qingwen as an adjuvant treatment for influenza in Chinese patients: A meta-analysis. Chao Yuan 외. _Medicine_. 2024-01-19. [메타분석] [DOI 10.1097/md.0000000000036986](https://doi.org/10.1097/md.0000000000036986) — 인플루엔자 3,592명 통합 분석에서 연화청온 병용이 유효율·완치율을 유의하게 높이고 안전성도 확인. 석고 함유 성약의 인플루엔자 최대 규모 근거.
+[^69]: Efficacy and safety of Lianhua Qingwen as an adjuvant treatment for influenza in Chinese patients: A meta-analysis. Yuan C 외. _Medicine_. 2024-01-19. [메타분석] [DOI 10.1097/md.0000000000036986](https://doi.org/10.1097/md.0000000000036986) — 인플루엔자 3,592명 통합 분석에서 연화청온 병용이 유효율·완치율을 유의하게 높이고 안전성도 확인. 석고 함유 성약의 인플루엔자 최대 규모 근거.
 
 [^70]: [Efficacy and safety of Lianhua Qingwen capsule for influenza: a systematic review]. Niu QQ 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2017-04. [체계적 고찰] [DOI 10.19540/j.cnki.cjcmm.2017.0044](https://doi.org/10.19540/j.cnki.cjcmm.2017.0044) [PMID 29071849](https://pubmed.ncbi.nlm.nih.gov/29071849/) — 인플루엔자 1,525명 체계적 고찰에서 발열·기침 등 증상 개선을 확인. COVID-19 이전 시기의 축적 근거.
 
@@ -922,7 +922,7 @@ AECOPD(만성폐쇄성폐질환 급성 악화) 13,177명을 대상으로 한 베
 
 [^80]: [Network Meta-analysis of oral Chinese patent medicines in treatment of acute exacerbation of chronic obstructive pulmonary disease]. Ding MY 외. _Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica_. 2023-06. [메타분석] [DOI 10.19540/j.cnki.cjcmm.20230226.501](https://doi.org/10.19540/j.cnki.cjcmm.20230226.501) [PMID 37382020](https://pubmed.ncbi.nlm.nih.gov/37382020/) — AECOPD 5,289명 네트워크 메타분석으로 경구 중성약(中成藥) 간 상대 효과를 비교. 담열(痰熱) 변증 계열 제제의 위치를 파악하는 자료.
 
-[^81]: The Use of Chinese Herbal Medicine in the Treatment of Chronic Obstructive Pulmonary Disease (COPD). Yen-Nung Liao 외. _The American Journal of Chinese Medicine_. 2017-01. [관찰연구] [DOI 10.1142/s0192415x17500148](https://doi.org/10.1142/s0192415x17500148) — 대만 COPD 환자 19,142명 자료에서 소청룡탕(小靑龍湯)과 마행감석탕이 최다 처방 방제로 확인. 만성 호흡기 질환 실사용에서 석고 함유 방제의 비중을 보여줌.
+[^81]: The Use of Chinese Herbal Medicine in the Treatment of Chronic Obstructive Pulmonary Disease (COPD). Liao YN 외. _The American Journal of Chinese Medicine_. 2017-01. [관찰연구] [DOI 10.1142/s0192415x17500148](https://doi.org/10.1142/s0192415x17500148) — 대만 COPD 환자 19,142명 자료에서 소청룡탕(小靑龍湯)과 마행감석탕이 최다 처방 방제로 확인. 만성 호흡기 질환 실사용에서 석고 함유 방제의 비중을 보여줌.
 
 [^82]: Ginseng-plus-Bai-Hu-Tang Combined with Western Medicine for the Treatment of Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis. Zhou M 외. _Evidence-based complementary and alternative medicine : eCAM_. 2022. [메타분석] [DOI 10.1155/2022/9572384](https://doi.org/10.1155/2022/9572384) [PMID 35469158](https://pubmed.ncbi.nlm.nih.gov/35469158/) — 제2형 당뇨병에서 백호가인삼탕 계열 병용이 표준 치료 단독보다 유효율과 인슐린 저항성 지표를 유의하게 개선. 소갈(消渴) 영역의 대표 통합 근거.
 
