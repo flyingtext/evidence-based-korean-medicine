@@ -3883,7 +3883,7 @@
 - **배옹**(背癰, Baeong) — 등쪽 종기(back furuncle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003038)
 - **배저**(背疽, Baejeo) — 등쪽 종기(back furuncle) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003039)
 - **백회저**(百會疽, Baekoejeo) — 기타 부위의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of other sites) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003125)
-- **복토저**(伏兎疽, Boktojeo) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003323)
+- **복토저**(伏兔疽, Boktojeo) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003323)
 - **봉미저**(鳳眉疽, Bongmijeo) — 얼굴의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of face) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003354)
 - **부골옹**(附骨癰, Bugorong) — 골수염(osteomyelitis) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003363)
 - **부음저**(附陰疽, Bueumjeo) — 사지의 피부 고름집(농양), 종기 및 큰 종기(cutaneous abscess, furuncle and carbuncle of limb) — [KoreanTK](https://koreantk.com/ktkp2014/disease/disease-view.view?disCd=D0003425)
