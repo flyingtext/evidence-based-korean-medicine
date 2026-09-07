@@ -201,7 +201,7 @@
 
 **자궁근종.** 증상성 자궁근종 여성 78명을 가감 계지복령환의 통상용량군과 저용량군으로 배정한 무작위 이중맹검 용량대조 시험에서, 두 군 모두 기저 대비 증상 중증도·골반통의 기능적 영향·한의학 증후 점수·자기공명영상상 근종 용적이 유의하게 개선되었으나 군간 차이는 한의학 증후 점수를 제외하고 유의하지 않았다.[^41] 자궁근종에 대한 한약 제제 전반을 다룬 코크란 체계적 고찰은 21편 2,222명을 포함했으나 **표본이 작고 질이 낮아 사용을 지지하거나 반박할 수 없다는 결론** 을 내렸다.[^42] 계지복령환에 한정한 체계적 고찰은 38편 3,816명을 종합했다.[^43] 이 영역은 긍정적 결과와 방법론적 한계가 공존하는 대표적 사례이므로, 근거를 과대 진술하지 않는 것이 중요하다.
 
-**자궁내막증·다낭성난소증후군·골반염.** 미페프리스톤에 계지복령 제제를 병용한 자궁내막증 메타분석(10편 1,052명),[^44] 저용량 미페프리스톤 병용 메타분석(28편 2,813명),[^45] 다낭성난소증후군 여성의 가임력 저하에 대한 부가효과 메타분석(16편 1,385명),[^46] 다낭성난소증후군에서 제형별 효과를 비교한 연구,[^47] 만성 골반염증질환에 대한 체계적 고찰(30편 3,586명)[^48]이 보고되었다. 행기활혈(行氣活血) 치법으로 자궁근종을 치료한 무작위 대조 시험(120명)도 같은 계열의 근거다.[^49]
+**자궁내막증·다낭성난소증후군·골반염.** 미페프리스톤에 계지복령 제제를 병용한 자궁내막증 메타분석(10편 1,052명),[^44] 저용량 미페프리스톤 병용 메타분석(28편 2,813명),[^45] 다낭성난소증후군 여성의 가임력 저하에 대한 부가효과 메타분석(16편 1,385명),[^46] 만성 골반염증질환에 대한 체계적 고찰(30편 3,586명)[^48]이 보고되었다. 행기활혈(行氣活血) 치법으로 자궁근종을 치료한 무작위 대조 시험(120명)도 같은 계열의 근거다.[^49]
 
 **이상의 부인과 근거는 계지복령환이라는 5약 배오 전체의 효과이며, 목단피 단독의 효과가 아니다.** 계지복령환 근거를 근거로 목단피 단미를 처방하는 것은 논리적으로 성립하지 않는다.
 
@@ -261,7 +261,7 @@
 
 ### 5-1. 부인과 — 월경통·자궁근종·자궁내막증·난소·골반
 
-가장 근거가 두꺼운 영역이다. 계지복령환의 원발성 월경통 다기관 시험[^39]과 혈어겸열 변증 층화 시험,[^40] 자궁근종의 용량 비교 시험[^41]·코크란 고찰[^42]·체계적 고찰,[^43] 자궁내막증 병용 메타분석,[^44][^45] 다낭성난소증후군 메타분석[^46]과 제형 비교,[^47] 만성 골반염증질환 체계적 고찰[^48]이 이 영역을 구성한다. 온경탕의 월경통[^63]·배란장애 불임[^64] 메타분석이 이를 보완한다.
+가장 근거가 두꺼운 영역이다. 계지복령환의 원발성 월경통 다기관 시험[^39]과 혈어겸열 변증 층화 시험,[^40] 자궁근종의 용량 비교 시험[^41]·코크란 고찰[^42]·체계적 고찰,[^43] 자궁내막증 병용 메타분석,[^44][^45] 다낭성난소증후군 메타분석,[^46] 만성 골반염증질환 체계적 고찰[^48]이 이 영역을 구성한다. 온경탕의 월경통[^63]·배란장애 불임[^64] 메타분석이 이를 보완한다.
 
 실사용 자료로는 월경통 환자에서 캄포 처방 복용의 예후와 예측 모형을 구축한 관찰연구가 있어, **어떤 환자가 반응할 것인가** 라는 임상 질문에 접근한다.[^70] 증례 수준에서는 렐루골릭스와 가미소요산을 병용해 호전된 선근증 동반 자궁근종,[^71] 유전성 안티트롬빈 결핍을 동반한 기능성 시상하부성 무월경이 캄포 치료로 개선된 사례[^72]가 보고되었다.
 
@@ -537,7 +537,6 @@
 [^44]: Add-on effect of Guizhi Fuling formula to mifepristone for endometriosis: A meta-analysis of randomized controlled trials. Meng W 외. _Medicine (Baltimore)_. 2019-08. [메타분석, 1,052명] [DOI 10.1097/MD.0000000000016878](https://doi.org/10.1097/MD.0000000000016878) [PMID 31415429](https://pubmed.ncbi.nlm.nih.gov/31415429/) — 10편 1,052명. 미페프리스톤에 계지복령 제제를 더한 병용의 부가 효과를 종합했다.
 [^45]: The efficacy and safety of Chinese herbal medicine Guizhi Fuling capsule combined with low dose mifepristone in the treatment of endometriosis: a systematic review and meta-analysis. Lei Y 외. _BMC Complementary Medicine and Therapies_. 2023-02-18. [메타분석, 2,813명] [DOI 10.1186/s12906-023-03842-y](https://doi.org/10.1186/s12906-023-03842-y) [PMID 36803997](https://pubmed.ncbi.nlm.nih.gov/36803997/) — 28편 2,813명. 저용량 미페프리스톤 병용의 유효성·안전성을 종합했다.
 [^46]: Add-on effect of the Guizhi Fuling formula for management of reduced fertility potential in women with polycystic ovary syndrome: A systematic review and meta-analysis. Rong A 외. _Frontiers in Endocrinology_. 2022. [메타분석, 1,385명] [DOI 10.3389/fendo.2022.995106](https://doi.org/10.3389/fendo.2022.995106) [PMID 37143960](https://pubmed.ncbi.nlm.nih.gov/37143960/) — 16편 1,385명. 다낭성난소증후군 여성의 가임력 저하에 대한 부가 효과를 종합했다.
-[^47]: Efficacy of different forms of Guizhi Fuling Wan on reproduction and metabolism in women with polycystic ovary syndrome. Liu M 외. _Medicine (Baltimore)_. 2020-10-30. [기타] [DOI 10.1097/MD.0000000000022954](https://doi.org/10.1097/MD.0000000000022954) [PMID 33126363](https://pubmed.ncbi.nlm.nih.gov/33126363/) — 계지복령환의 제형에 따른 생식·대사 지표 차이를 다룬 연구. 제형이 결과에 영향을 줄 수 있음을 시사한다.
 [^48]: [Guizhi Fuling capsule / pill treatment for chronic pelvic inflammatory disease: a systematic review of randomized controlled trials]. Zhang LS 외. _Zhongguo Zhong Yao Za Zhi_. 2017-04. [메타분석, 3,586명] [DOI 10.19540/j.cnki.cjcmm.2017.0048](https://doi.org/10.19540/j.cnki.cjcmm.2017.0048) [PMID 29071853](https://pubmed.ncbi.nlm.nih.gov/29071853/) — 30편 3,586명. 만성 골반염증질환에 대한 계지복령 제제의 체계적 고찰이다.
 [^49]: Clinical and experimental research into treatment of hysteromyoma with promoting qi flow and blood circulation, softening and resolving hard lump. Sang H. _Journal of Traditional Chinese Medicine_. 2004-12. [임상시험, 120명] [PMID 15688694](https://pubmed.ncbi.nlm.nih.gov/15688694/) — 행기활혈연견산결 치법의 자궁근종 무작위 대조 시험. 활혈거어 치법 축의 인체 근거다.
 [^50]: Effects of Kamishoyosan, a Traditional Japanese Medicine, on Menopausal Symptoms: A Randomized, Placebo-Controlled, Double-Blind Clinical Trial. Takamatsu K 외. _Evidence-Based Complementary and Alternative Medicine_. 2020. [임상시험] [DOI 10.1155/2020/9285317](https://doi.org/10.1155/2020/9285317) [PMID 32733592](https://pubmed.ncbi.nlm.nih.gov/32733592/) — 가미소요산의 갱년기 증상에 대한 무작위 위약대조 이중맹검 시험.
