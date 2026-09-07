@@ -59,7 +59,7 @@ C69.0–C69.2는 전안부(前眼部)에서 후안부(後眼部)로, C69.3–C69
 
 **③병태생리**: 포도막흑색종은 피부 흑색종과 달리 전형적인 바르부르크 효과(Warburg effect)보다는 높은 산화적 인산화(氧化磷酸化, OXPHOS) 의존성과 대사 가소성(代謝可塑性)을 보이며, 이는 암세포의 생존 및 면역 회피와 밀접하게 관련된다[^34]. 스트레스 적응 네트워크(저산소증·대사 가소성·산화-환원 조절)에 의해 진행되는 암으로 이해될 수 있다[^24]. 간(肝) 전이가 가장 흔한 사망 원인이며, 포도막 흑색종의 간 전이 환경에서 ATX-LPA 경로가 CD8+ T 세포의 기능을 억제하여 면역 관용을 유도한다[^12]. 페로토시스(ferroptosis) 조절 장애와 밀접하게 연관되어 있으며, SLC7A11·GPX4 과발현과 TFR1 저발현이 불량한 예후를 예측하는 지표가 될 수 있다[^11].
 
-**④치료**: 근치적 목표의 1차 치료는 근접방사선치료(近接放射線治療, brachytherapy) 또는 안구 적출술이며, 전이성 질환에서는 면역관문억제제(免疫關門抑制劑)가 사용된다. 전이성 소아 맥락막 흑색종 환자에서 화학요법과 면역관문억제제(니볼루맙·이필리무망)를 순차적으로 투여하여 완전 관해를 유도한 증례가 보고되었다[^27]. 한국인 진행성 흑색종 환자에게 이필리무망 투여 시 서구인과 유사한 효능과 내약성을 보였다[^30]. 티세포 인게이저(T-cell engager)는 암세포와 T세포를 동시에 결합시켜 정밀한 면역 표적화(標的化)를 가능하게 하며 전이성 포도막 흑색종에서 임상적 효능을 보였다[^9].
+**④치료**: 근치적 목표의 1차 치료는 근접방사선치료(近接放射線治療, brachytherapy) 또는 안구 적출술이며, 전이성 질환에서는 면역관문억제제(免疫關門抑制劑)가 사용된다. 전이성 소아 맥락막 흑색종 환자에서 화학요법과 면역관문억제제(니볼루맙·이필리무맙)를 순차적으로 투여하여 완전 관해를 유도한 사례가 보고되었다[^27-um]. 한국인 진행성 흑색종 환자에게 이필리무맙 투여 시 서구인과 유사한 효능과 내약성을 보였다[^30]. 티세포 인게이저(T-cell engager)는 암세포와 T세포를 동시에 결합시켜 정밀한 면역 표적화(標的化)를 가능하게 하며 전이성 포도막 흑색종에서 임상적 효능을 보였다[^9].
 
 **⑤예후**: 예후 예측에 유용한 생체표지자(生體標識子)가 다수 보고되었다. 면역관문억제제로 치료받는 환자에서 젖산탈수소효소(lactate dehydrogenase, LDH) 수치는 유용한 예후 예측 지표다[^19]. 자가포식(自家吞噬) 관련 6가지 예후 바이오마커(HTR2B·EEF1A2·FEZ1·GRID1·HAP1·SPHK1)가 확인되었으며, 고발현이 불량한 예후 및 종양 진행을 촉진하는 미세환경 조성과 연관된다[^6]. 기저막(基底膜) 관련 유전자(ADAMTS10·ADAMTS14·ITGA5) 기반 위험 평가 모델이 예후를 정확하게 예측할 수 있다[^8]. KDELR3는 독립적 예후 바이오마커이며 면역 세포 침윤 및 항암제 내성과 밀접하게 관련된다[^15]. SLC25A38 유전자의 낮은 발현이 전이 위험 증가와 불량한 생존율을 예측하는 독립적 예후 인자다[^33]. 5종의 microRNA 기반 위험 지표도 예후 예측에 활용될 수 있다[^35]. 딥러닝 기반 H&E 염색 조직 슬라이드 분석으로 BAP1 단백질 발현 여부를 높은 정확도로 예측할 수 있다[^7].
 
@@ -167,11 +167,15 @@ NGS 분석을 통해 RB1 유전자 외의 추가적 병원성 변이(MDM4·RAF1 
 
 방수(房水, aqueous humour) 내의 세포 유리 DNA(細胞遊離 DNA) 분석을 통해 망막모세포종의 RB1 유전자 체세포 변이를 효과적으로 검출할 수 있으며, 이는 종양 생검(腫瘍生檢) 없이도 확진 및 유전적 분석을 가능하게 한다[^54][^56]. 망막모세포종 환자에서 전엑솜 시퀀싱(全엑솜 序列分析, whole-exome sequencing)을 통해 유의미한 체세포 변이와 경로 분석이 소량의 FFPE 조직에서도 가능하다[^7]. NGS를 통해 기존 방법으로 검출되지 않았던 산발성 망막모세포종 환자에서 낮은 빈도의 RB1 유전자 체성 모자이크 현상을 확인할 수 있다[^67]. RB1 유전자 변이의 효과를 세 가지 클래스(REC-I·II·III)로 분류함으로써 유전성 망막모세포종의 표현형을 더 정밀하게 예측할 수 있다[^57]. RB1과 NUDT15가 동시에 결손된 암 세포는 메르캅토퓨린(mercaptopurine)에 대해 높은 민감도를 보이며 이는 세포 사멸 유도 및 주기 억제로 이어진다[^13].
 
+2005~2025년 Web of Science·Scopus 수록 망막모세포종 바이오마커 연구를 계량서지학적으로 분석한 결과, 연간 발표량은 꾸준히 증가하되 특히 2013~2021년에 가파르게 늘었고 2021년 이후 증가세가 완만해졌으며, 발표 편수는 중국이 가장 많고 미국·인도·이탈리아가 뒤를 이었다(계량서지 분석)[^9-rb]. 현재의 연구 초점은 액체생검(liquid biopsy)과 순환종양 유래 물질 쪽으로 이동하고 있어, 위에서 서술한 방수 세포유리 DNA 분석의 임상 도입이 이 흐름의 연장선에 있음을 보여준다. 다만 이 분석은 연구 동향의 계량적 기술이지 개별 바이오마커의 진단 정확도를 평가한 것이 아니다.
+
 ### 8. 포도막흑색종의 병인
 
 #### 8-1. BAP1 유전자와 예후 층화
 
 포도막흑색종(葡萄膜黑色腫)에서 BAP1 유전자 변이는 예후 예측의 핵심 인자다. BAP1 유전자 변이는 NF-κB 신호 경로를 억제하여 대식세포(大食細胞)의 면역 기능을 저하시키고 면역 억제성 미세환경을 조성하여 종양 성장을 촉진한다[^1]. BAP1 생식세포 변이는 악성 중피종뿐만 아니라 포도막/피부 흑색종 및 투명세포 신세포암(透明細胞腎細胞癌)의 발생 위험을 높이는 상염색체 우성(常染色體優性) 유전 양상을 보인다[^28]. 포도막 흑색종 환자 중 BAP1 관련 암의 가족력/개인력이 2종 이상이거나 발병 연령이 35세 미만인 경우 BAP1 생식세포 변이 검사가 강력히 권장된다[^29]. 가족력만으로는 BAP1 종양 소인 증후군(BAP1-TPDS)을 완전히 식별하기 어려우므로 모든 환자에게 유전적 검사를 제공할 것이 권고된다[^26]. 소아 포도막 흑색종은 상피양(上皮樣) 조직학적 특징과 임상적 고위험 요소에도 불구하고 전형적 불량 예후 인자(3번 염색체 단일체성, monosomy 3)가 관찰되지 않은 희귀한 사례가 보고되어 분자 검사가 감별에 중요하다[^25-um].
+
+BAP1 면역조직화학이나 유전자 검사를 상시 수행하지 못하는 검사실에서는 예후 층화가 형태학적 소견에 의존하게 되는데, 이를 보완하려는 시도로 헤마톡실린-에오신 염색 절편만으로 핵 BAP1 발현을 예측하는 딥러닝 모형이 시험되었다. 포도막흑색종 절편 140례(BAP1 양성 66례·음성 74례)로 학습하고 별도의 44례(양성 16례·음성 28례)로 검증한 결과, 최적 모형의 곡선하면적은 패치 단위 0.90, 슬라이드 단위 0.93이었다(인체 조직 대상 실험연구, 184례)[^7-um]. 이는 파일럿 수준의 단일 기관 연구이므로 BAP1 검사를 대체할 수 없으며, 면역조직화학·유전자 검사가 여전히 표준이다.
 
 #### 8-2. GNAQ/GNA11 변이와 하류 신호전달
 
@@ -332,6 +336,8 @@ C69 범주의 종양은 발생 부위와 종양 유형에 따라 증상이 극�
 | **무증상** | 정기 안과 검진에서 우연 발견 |
 | **복시·안구 운동 장애** | 안와 침범 시 |
 
+드물게 포도막흑색종이 부종양 증후군(副腫瘍症候群)의 형태로 전신 증상을 먼저 드러내기도 한다. 새로 발생한 레이노 현상(Raynaud 現象)이 포도막흑색종에 동반된 부종양 증후군으로 보고된 증례가 있다(증례 보고, 1명)[^10-um]. 단일 증례이므로 레이노 현상 환자에게 안종양 검사를 일률적으로 시행할 근거는 되지 않으나, 기존에 없던 레이노 현상이 중년 이후에 갑자기 나타나면서 시각 증상이 함께 있는 경우에는 악성종양의 가능성을 감별 목록에 포함해야 한다는 점을 시사한다.
+
 한의사 임상가가 실제로 마주치는 상황은 "아이의 눈이 하얗게 보인다"는 부모의 호소나 "시력이 떨어졌다"는 성인 환자의 호소다. 이때 **백색동공·사시·급성 시력 저하·안구 돌출·안구 내 종괴** 가 있으면 변증 치료보다 안과 의뢰가 우선한다. 소아에서 백색동공은 망막모세포종뿐 아니라 코츠병(Coats病)·선양낭종(腺樣囊腫)·망막아세포증(網膜芽細胞症) 등의 감별이 필요하다 [교과서적 근거].
 
 ### 16. 안저검사·초음파·영상 진단
@@ -393,9 +399,14 @@ CT·MRI·PET-CT가 병기평가와 전이 감시에 사용된다. 포도막흑�
 | **맥락막혈관종(脈絡膜血管腫)** | 안구 내 종괴·시력 저하 | 양성 혈관성 종양. 형광안저혈관조영으로 특징적 혈관 패턴 |
 | **전이성 맥락막 종양** | 안구 내 종괴 | 유방암·폐암 등 원발 병력. 다발성·양안성 가능. 병력 청취 필수 |
 | **맥락막 삼출(脈絡膜 滲出)** | 망막박리 | 비종양성. 초음파·안저로 감별 |
-| **가성 흑색종(假性黑色腫)** | 안구 내 종괴 | 한국인 의심 환자 80% 이상이 가성 흑색종[^32]. 연령별 패턴 상이 |
+| **가성 흑색종(假性黑色腫)** | 안구 내 종괴 | 한국인 의심 환자 80% 이상이 가성 흑색종[^32-kr]. 연령별 패턴 상이 |
+| **황반원공(黃斑圓孔) 동반** | 시력 저하 | 포도막흑색종의 약 1%에서 동반. 종양 자체가 아니므로 OCT로 별도 확인[^31-um] |
 
-> 이 표는 감별의 임상 틀이며, 각 행의 감별점이 단독으로 진단을 확정하지 않는다. 특히 포도막흑색종 의심 환자에서 가성 흑색종 비율이 매우 높으므로 영상·분자 검사가 필수다[^32].
+> 이 표는 감별의 임상 틀이며, 각 행의 감별점이 단독으로 진단을 확정하지 않는다. 특히 포도막흑색종 의심 환자에서 가성 흑색종 비율이 매우 높으므로 영상·분자 검사가 필수다[^32-kr].
+
+**가성 흑색종의 실제 분포** — 포도막흑색종 발생률이 세계에서 가장 낮은 한국의 3차 안종양 센터에서 포도막흑색종 의심으로 의뢰된 연속 환자를 후향 검토한 결과, 687명 중 564명(82.1%)이 가성 흑색종이었고 임상적으로 확진된 흑색종은 123명(17.9%)에 불과했다(관찰연구, 687명)[^32-kr]. 가성 흑색종의 내역은 맥락막모반 120명(21.3%)·선천성 망막색소상피 비대(CHRPE) 70명(12.4%)·맥락막혈관종 53명(9.4%)·맥락막전이 39명(6.9%)·시신경유두 흑색세포종 35명(6.2%)·망막모세혈관아세포종 32명(5.7%) 순이었다. 연령 분포도 뚜렷하여 포도막흑색종은 0~20세에서는 한 건도 없었고 41~80세에 집중된 반면, CHRPE·망막모세혈관아세포종·맥락막골종은 40세 이하에서, 말초 삼출성 출혈성 맥락망막병증은 81세 이상에서 우세했다. 따라서 한국인 환자에서 안구 내 색소성 종괴를 접했을 때 확률적으로는 양성 병변일 가능성이 훨씬 높으며, 연령대에 따라 우선 고려할 감별 대상이 달라진다.
+
+**황반원공 동반 사례** — 포도막흑색종 환자에서 황반원공이 동반되는 경우가 보고된다. 단일 기관 포도막흑색종 환자 505명 중 5명(1.0%)에서 동측 눈에 황반원공이 확인되었고, 기존 보고 12명을 합한 17명을 검토한 결과 황반원공 진단 시 평균 연령은 63.9세였으며 종양 치료(방사선치료·경동공온열치료) 후에 황반원공이 발생한 경우 치료로부터 진단까지 3~56개월(중앙값 8.5개월)이 걸렸다(증례 시리즈 및 문헌 고찰, 17명)[^31-um]. 9안에서 황반원공 수술이 시행되어 술후 자료가 확인된 7안에서 원공이 폐쇄되었고 시력은 개선 경향을 보였으며, 수술과 연관된 안내·안외 종양 파종은 관찰되지 않았다. 종양이 안정적이고 시력 회복 가능성이 있는 환자에서는 황반원공 수술을 고려할 수 있다는 근거이나, 17명의 소규모 후향 자료임을 감안해야 한다.
 
 **감별의 실무 순서**
 
@@ -565,19 +576,27 @@ C69 범주의 예후는 종양 유형·병기·조직학적 등급·분자 변�
 | 3번 염색체 | 정수성 | 단일체성(monosomy 3) | [교과서적 근거] |
 | 간 전이 | 없음 | 있음 | ATX-LPA 경로[^12] |
 | LDH | 정상 | 상승 | 메타분석[^19] |
-| 자가포식 바이오마커 | 저발현 | 고발현(HTR2B 등) | 관찰연구[^6] |
-| SLC25A38 | 고발현 | 저발현 | 실험연구[^33] |
+| 자가포식 바이오마커 | 저발현 | 고발현(HTR2B 등) | 다중오믹스 분석[^6-um] |
+| SLC25A38 | 고발현 | 저발현 | 생물정보학 분석(인간 데이터 한정)[^33-um] |
 | 페로토시스 지표 | 정상 조절 | SLC7A11/GPX4 과발현·TFR1 저발현 | 관찰연구[^11] |
 
 > 이 표는 예후 인자를 정리한 임상 틀이며, 각 인자가 독립적으로 작동하지 않는다. 분자 인자들의 복합 모델이 단일 인자보다 예측력이 높다.
 
+**분자 예후 지표의 근거 성격** — 위 표의 자가포식·SLC25A38·마이크로RNA 지표는 대부분 TCGA 등 공개 인체 종양 유전체 자료를 재분석해 도출된 것으로, 전향적으로 검증된 임상 검사 항목이 아니다.
+
+- 자가포식 관련 유전자를 다중오믹스로 분석해 HTR2B·EEF1A2·FEZ1·GRID1·HAP1·SPHK1의 여섯 가지를 예후 바이오마커 후보로 제시한 연구에서, 이들의 고발현은 불량한 생존 및 종양 미세환경 재편과 연관되었다(다중오믹스 분석)[^6-um].
+- 마이크로RNA 발현 프로파일을 가중상관망분석(WGCNA)과 LASSO Cox 회귀로 분석해 hsa-miR-513a-5p·miR-506-3p·miR-508-3p·miR-140-3p·miR-103a-2-5p의 5종을 통합한 위험 지표가 독립적 예후 인자로 제시되었다(생물정보학 분석)[^35-um].
+- SLC25A38은 3번 염색체에 위치하며 전이성 포도막흑색종에서 대표적으로 발현이 감소한 유전자로, TCGA 80명 및 GSE22138 코호트 모두에서 기존 보고된 바이오마커보다 우수한 예측력을 보였다(생물정보학 분석, 인간 데이터 한정)[^33-um]. 이 연구는 세포·마우스 모델을 이용한 기전 검증도 함께 수행하였으나, 본 문서에서는 인체 코호트 자료에 근거한 예후 예측 부분만 인용한다.
+
+세 연구 모두 동일한 공개 데이터베이스를 공유하고 독립 코호트에서의 전향 검증이 부족하므로, 현 단계에서는 연구 단계의 후보 지표로 다루어야 하며 임상 의사결정 근거로 사용할 수 없다.
+
 ### 28. 회복 경과
 
-**망막모세포종** 치료 후 회복은 안구 보존 여부·시력 예후·전신 회복·이차암 감시로 구성된다. 정맥 화학요법 도중이나 이후에 새로운 단독 종양이 약 43%에서 발생하므로 정기적 안저 검사가 필수적이다[^77]. 후극부 망막모세포종 환자에서 항암화학요법과 국소 치료를 병행했을 때 절반 이상의 환자에서 실용적인 시력을 유지할 수 있다[^74]. 망막모세포종 치료 후 발생한 이차성 백내장에 대한 백내장 적출술 및 인공수정체 삽입술은 시력 개선에 효과적이며 종양 재발을 유발하지 않는다[^75]. 말레이시아 20년 코호트에서 1·3·5년 생존율은 각각 96.3%·89.2%·85.6%였다[^81]. 단측성 망막모세포종 환자에서 안구적출술 후 조직학적 위험도에 따라 보조요법을 차등 적용했을 때 100%의 우수한 생존율을 보였다[^46]. 일본 장기 코호트에서 선행 화학요법 적용 시 양안성 환자의 암 발생 없는 생존율이 방사선치료 시대보다 유의하게 높았다[^5].
+**망막모세포종** 치료 후 회복은 안구 보존 여부·시력 예후·전신 회복·이차암 감시로 구성된다. 정맥 화학요법 도중이나 이후에 새로운 단독 종양이 약 43%에서 발생하므로 정기적 안저 검사가 필수적이다[^77]. 후극부 망막모세포종 환자에서 항암화학요법과 국소 치료를 병행했을 때 절반 이상의 환자에서 실용적인 시력을 유지할 수 있다[^74]. 망막모세포종 치료 후 발생한 이차성 백내장에 대한 백내장 적출술 및 인공수정체 삽입술은 시력 개선에 효과적이며 종양 재발을 유발하지 않는다[^75]. 말레이시아 20년 코호트에서 1·3·5년 생존율은 각각 96.3%·89.2%·85.6%였다[^81]. 단측성 망막모세포종 환자에서 안구적출술 후 조직학적 위험도에 따라 보조요법을 차등 적용했을 때 100%의 우수한 생존율을 보였다[^46]. 일본 장기 코호트에서 선행 화학요법 적용 시 양안성 환자의 암 발생 없는 생존율이 방사선치료 시대보다 유의하게 높았다[^5]. 동맥 내 화학요법의 안구 보존 성적과 접근 경로의 영향도 보고되었다. 인도네시아 단일 기관에서 2022년 6월~2025년 9월에 동맥 내 화학요법을 받은 망막모세포종 연속 증례를 후향 검토한 결과, 24명 24안이 65회 시술(내경동맥 경유 45회·외경동맥 경유 20회)을 받아 6개월 시점 안구 보존율은 24안 중 19안(79.2%), 39개월 시점 안구적출 회피율은 24안 중 14안(58.3%)이었고 중증 허혈성 주산기 합병증은 없었다(관찰연구, 24명)[^10-rb]. 다만 외경동맥 경유 접근은 내경동맥 경유보다 안구 생존율이 유의하게 낮았고(p=0.01) 다변량 분석에서 안구적출의 독립적 예측 인자였으므로(위험비 6.24, 95% 신뢰구간 1.09~35.76), 가능하면 내경동맥을 통해 안동맥에 직접 접근하는 것이 바람직하다. 표본이 24명인 단일 기관 후향 자료라는 한계가 있다.
 
 방사선치료 후 두경부 성장 장애·치아 결손·안면 골격 성장 저하가 발생할 수 있으며, 심각한 안면 골격 성장 저하 및 치아 결손이 발생한 성인 환자에게 교정-수술적 치료와 더불어 임플란트 보철 및 성형외과적 골이식술을 병행하는 다학제적 접근이 효과적이다[^78].
 
-**포도막흑색종** 치료 후 회복은 시력 예후·간 전이 감시·대사 관리로 구성된다. 면역관문억제제로 치료받는 환자에서 LDH 수치는 유용한 예후 예측 지표이므로 정기 추적한다[^19]. 간 초음파·간효소·LDH를 정기 검사하여 간 전이를 조기 발견한다. 전이성 소아 맥락막 흑색종 환자에서 화학요법과 면역관문억제제(니볼루맙·이필리무망)를 순차적으로 투여하여 완전 관해를 유도한 증례가 보고되었다[^27].
+**포도막흑색종** 치료 후 회복은 시력 예후·간 전이 감시·대사 관리로 구성된다. 면역관문억제제로 치료받는 환자에서 LDH 수치는 유용한 예후 예측 지표이므로 정기 추적한다[^19]. 간 초음파·간효소·LDH를 정기 검사하여 간 전이를 조기 발견한다. 독일·오스트리아에서 2013~2024년에 진단된 소아 포도막흑색종 12명(맥락막 9명, 모양체·홍채 3명)을 후향 분석한 보고에서 2명이 전이를 일으켰고, 그중 3세 남아는 안구적출 6개월 후 전이가 확인되어 화학요법에 이어 니볼루맙·이필리무맙을 투여한 결과 완전 관해에 도달해 전이 진단 24개월 시점까지 관해가 유지되었다(증례 시리즈, 12명)[^27-um]. 다만 이 환자에서는 면역치료 합병증으로 인슐린 의존성 당뇨병이 발생했고 병적 TP53 배선 변이가 확인되어 리프라우메니 증후군으로 진단되었으며, 17세 남자 환자는 간 전이로 진단 30개월 후 사망하였다. 소아 포도막흑색종에서도 종양 소인 증후군에 대한 유전 검사가 필요함을 보여주는 자료다.
 
 ### 29. 관리원칙
 
@@ -592,6 +611,10 @@ C69 범주의 예후는 종양 유형·병기·조직학적 등급·분자 변�
 | **영양 지원** | 항암치료 후 식욕부진·성장 발달 | 치료 중·후 |
 | **안구 보조** | 인공안구·안와 보형물(안구 적출 후) | 수술 후 |
 | **안구 건조 관리** | 인공눈물·항염제·침구 보조 | 방사선치료 후·항암치료 후 |
+
+> 이 표는 관리의 임상 틀이며 동일한 근거수준의 권고가 아니다. 각 항목의 시행 주기와 방법은 안과·소아혈액종양과의 판단에 따른다.
+
+**보호자에 대한 지원** — 망막모세포종은 영유아기에 발생하고 안구적출·장기 항암치료·이차암 감시가 이어지므로, 환아 본인뿐 아니라 보호자의 심리적 부담이 크고 이것이 치료 순응도와 가족의 삶의 질에 영향을 미친다. 망막모세포종 환아 보호자의 심리적 스트레스와 삶의 질에 대한 비약물적 중재의 효과를 평가하려는 체계적 고찰이 등록되었으나, 현재는 검색 전략과 분석 방법을 규정한 계획서만 공개된 단계로 결과는 보고되지 않았다(체계적 고찰 계획서)[^19-rb]. 즉 현시점에서 보호자 대상 비약물적 중재의 효과를 뒷받침하는 통합 근거는 확립되어 있지 않으므로, 상담·이완 요법 등의 지원은 임상적 판단에 따라 제공하되 특정 중재의 효과를 단정해 안내해서는 안 된다.
 
 ### 30. 안전성 표
 
@@ -700,7 +723,7 @@ C69 범주의 예후는 종양 유형·병기·조직학적 등급·분자 변�
 [^18]: Spatial Proteomic Analysis Highlights Molecular Reprogramming in Optic Nerve Invasive Retinoblastoma. Zhu T 외. _Investigative ophthalmology & visual science_. 2025-10-01. [실험연구, 10명] [DOI 10.1167/iovs.66.13.37](https://doi.org/10.1167/iovs.66.13.37) [PMID 41129126](https://pubmed.ncbi.nlm.nih.gov/41129126/) — 시신경 침범 부위 콜레스테롤·에너지 대사·세포골격 재구성 분자적 변화.
 [^18-um]: Research progress on glycolytic reprogramming in ophthalmic diseases. Gong X 외. _PeerJ_. 2026. [문헌 고찰] [DOI 10.7717/peerj.20478](https://doi.org/10.7717/peerj.20478) [PMID 41497268](https://pubmed.ncbi.nlm.nih.gov/41497268/) — 당분해 재프로그래밍이 망막 퇴행·포도막 흑색종·녹내장 병리 원인.
 [^19]: Prognostic value of lactate dehydrogenase in patients with uveal melanoma treated with immune checkpoint inhibition. Liang X 외. _Aging_. 2023-09-05. [메타분석, 383명] [DOI 10.18632/aging.204996](https://doi.org/10.18632/aging.204996) [PMID 37671944](https://pubmed.ncbi.nlm.nih.gov/37671944/) — LDH 수치가 면역관문억제제 치료 포도막 흑색종 환자 예후 예측 지표.
-[^19-rb]: The effect of non-pharmacological interventions on psychological stress and quality of life of parents of children with retinoblastoma: A protocol for systematic review and meta-analysis. Wu L 외. _Medicine_. 2021-12-23. [기타] [DOI 10.1097/MD.0000000000028148](https://doi.org/10.1097/MD.0000000000028148) [PMID 34941063](https://pubmed.ncbi.nlm.nih.gov/34941063/) — 환아 부모 심리적 고통·삶의 질 저하 개선 비약물적 중재 효과 평가 프로토콜.
+[^19-rb]: The effect of non-pharmacological interventions on psychological stress and quality of life of parents of children with retinoblastoma: A protocol for systematic review and meta-analysis. Wu L 외. _Medicine_. 2021-12-23. [체계적 고찰 계획서] [DOI 10.1097/MD.0000000000028148](https://doi.org/10.1097/MD.0000000000028148) [PMID 34941063](https://pubmed.ncbi.nlm.nih.gov/34941063/) — 환아 부모 심리적 고통·삶의 질 저하 개선 비약물적 중재 효과 평가 프로토콜.
 [^20]: Retinoblastoma in Asia: Clinical Presentation and Treatment Outcomes in 2112 Patients from 33 Countries. Kaliki S 외. _Ophthalmology_. 2024-04. [관찰연구, 2112명] [DOI 10.1016/j.ophtha.2023.10.015](https://doi.org/10.1016/j.ophtha.2023.10.015) [PMID 37839559](https://pubmed.ncbi.nlm.nih.gov/37839559/) — 동아시아 안구 보존율·생존율 가장 높고 동남아시아 예후 가장 나쁨.
 [^22]: Magnetic resonance features in advanced retinoblastoma - what a paediatric radiologist needs to know. Ching L 외. _Pediatric radiology_. 2025-06. [문헌 고찰] [DOI 10.1007/s00247-025-06241-2](https://doi.org/10.1007/s00247-025-06241-2) [PMID 40310533](https://pubmed.ncbi.nlm.nih.gov/40310533/) — 진행 단계 MRI 영상 특징 정리, 소아 영상의학 가이드.
 [^23]: Intravenous versus super-selected intra-arterial chemotherapy in children with advanced unilateral retinoblastoma: an open-label, multicentre, randomised trial. Wen X 외. _The Lancet. Child & adolescent health_. 2023-09. [임상시험, 143명] [DOI 10.1016/S2352-4642(23)00141-4](https://doi.org/10.1016/S2352-4642(23)00141-4) [PMID 37536351](https://pubmed.ncbi.nlm.nih.gov/37536351/) — 초선택적 동맥 내 화학요법이 정맥 주사 대비 안구 보존율 유의 높고 골수 억제 적음.
@@ -717,7 +740,7 @@ C69 범주의 예후는 종양 유형·병기·조직학적 등급·분자 변�
 [^32]: The impact of RB1 genotype on incidence of second tumours in heritable retinoblastoma. Ketteler P 외. _European journal of cancer_. 2020-07. [관찰연구, 317명] [DOI 10.1016/j.ejca.2020.04.005](https://doi.org/10.1016/j.ejca.2020.04.005) [PMID 32434110](https://pubmed.ncbi.nlm.nih.gov/32434110/) — RB1 침투율 정상 시 불완전 침투율 대비 이차암 위험 유의 높음.
 [^32-kr]: Age-Related Patterns of Pseudomelanomas in Patients Referred for Suspected Uveal Melanoma at a Tertiary Ocular Oncology Center. Choi YJ 외. _Retina_. 2026-06-09. [관찰연구, 687명] [DOI 10.1097/IAE.0000000000004903](https://doi.org/10.1097/IAE.0000000000004903) [PMID 42262477](https://pubmed.ncbi.nlm.nih.gov/42262477/) — 한국인 포도막 흑색종 의심 80% 이상 가성 흑색종, 연령별 패턴 상이.
 [^33]: Comprehensive screening for constitutional RB1 mutations by DHPLC and QMPSF. Houdayer C 외. _Human mutation_. 2004-02. [관찰연구, 192명] [DOI 10.1002/humu.10303](https://doi.org/10.1002/humu.10303) [PMID 14722923](https://pubmed.ncbi.nlm.nih.gov/14722923/) — DHPLC·QMPSF 결합 RB1 변이 스크리닝 효율적.
-[^33-um]: SLC25A38 as a Novel Biomarker for Metastasis and Clinical Outcome in Uveal Melanoma. Fan Z 외. 2021. [실험연구, 80명] [DOI 10.2139/ssrn.3901761](https://doi.org/10.2139/ssrn.3901761) — SLC25A38 저발현이 전이 위험·불량 생존율 예측 독립적 예후 인자.
+[^33-um]: SLC25A38 as a novel biomarker for metastasis and clinical outcome in uveal melanoma. Fan Z 외. _Cell death & disease_. 2022-04-11. [생물정보학 분석, 80명, 인간 데이터 한정] [DOI 10.1038/s41419-022-04718-8](https://doi.org/10.1038/s41419-022-04718-8) [PMID 35411037](https://pubmed.ncbi.nlm.nih.gov/35411037/) — TCGA 80명 및 GSE22138 코호트에서 3번 염색체 소재 SLC25A38의 저발현이 전이 위험·불량 생존의 독립적 예후 인자였으며 기존 바이오마커보다 예측력이 우수했다. 세포·마우스 모델 기전 검증이 병행되었으나 본 문서는 인체 코호트 자료에 근거한 예후 예측 부분만 인용한다. (선행 SSRN 프리프린트 10.2139/ssrn.3901761의 정식 출판본)
 [^34]: Redox Homeostasis, Metabolic Pathways and Plasticity in Uveal Melanoma Compared to Other Cancers. Păsărică MA 외. _Cancers_. 2026-07-25. [문헌 고찰] [DOI 10.3390/cancers18152402](https://doi.org/10.3390/cancers18152402) [PMID 42588621](https://pubmed.ncbi.nlm.nih.gov/42588621/) — 포도막 흑색종 높은 OXPHOS 의존성·대사 가소성, 생존·면역 회피 연관.
 [^34-rb]: Constitutional genomic instability, chromosome aberrations in tumor cells and retinoblastoma. Amare Kadam PS 외. _Cancer genetics and cytogenetics_. 2004-04-01. [관찰연구, 149명] [DOI 10.1016/j.cancergencyto.2003.08.015](https://doi.org/10.1016/j.cancergencyto.2003.08.015) [PMID 15041221](https://pubmed.ncbi.nlm.nih.gov/15041221/) — RB1 비활성화 외 헌법적 게놈 불안정성·취약 부위 염색체 이상 시너지.
 [^35]: A novel constitutional mutation affecting splicing of retinoblastoma tumor suppressor gene intron 23 causes partial loss of pRB activity. Sánchez-Sánchez F 외. _Human mutation_. 2005-02. [증례 보고, 1명] [DOI 10.1002/humu.9305](https://doi.org/10.1002/humu.9305) [PMID 15643604](https://pubmed.ncbi.nlm.nih.gov/15643604/) — RB1 인트론 23 변이 pRB 부분적 활성 상실.
@@ -754,14 +777,14 @@ C69 범주의 예후는 종양 유형·병기·조직학적 등급·분자 변�
 [^84]: A Machine Learning Pipeline to Analyze Global Sentiment and Factors Influencing Retinoblastoma Treatment Hesitancy. Wong ES 외. _Journal of medical Internet research_. 2026-08-11. [관찰연구, 797870명] [DOI 10.2196/73364](https://doi.org/10.2196/73364) [PMID 42579819](https://pubmed.ncbi.nlm.nih.gov/42579819/) — 안구 적출술 부정적 인식·기피가 생존율 저하 관련.
 [^4-um]: Genomic landscape of cutaneous, acral, mucosal, and uveal melanoma in Japan: analysis of clinical comprehensive genomic profiling data. Hida T 외. _International journal of clinical oncology_. 2024-12. [관찰연구, 380명] [DOI 10.1007/s10147-024-02615-y](https://doi.org/10.1007/s10147-024-02615-y) [PMID 39249554](https://pubmed.ncbi.nlm.nih.gov/39249554/) — 일본인 흑색종 TMB 낮고 BRAF 변이 빈도 낮아 표적치료 반응성 떨어질 가능성.
 [^5-um]: Actionable Gene Alterations Identified in Patients With Malignant Melanoma by Targeted Sequencing in Japan. Noguchi T 외. _JCO precision oncology_. 2025-01. [관찰연구, 569명] [DOI 10.1200/PO-24-00437](https://doi.org/10.1200/PO-24-00437) [PMID 39823560](https://pubmed.ncbi.nlm.nih.gov/39823560/) — 일본인 흑색종 BRAF·NRAS·NF1·KIT 치료 가능 변이 흔함.
-[^9-rb]: Global research landscape of retinoblastoma biomarkers: a multidisciplinary bibliometric analysis based on multiple databases (2005-2025). Peng Z 외. _Journal of cancer research and clinical oncology_. 2025-08-15. [체계적 고찰] [DOI 10.1007/s00432-025-06279-7](https://doi.org/10.1007/s00432-025-06279-7) [PMID 40817296](https://pubmed.ncbi.nlm.nih.gov/40817296/) — 망막모세포종 바이오마커 연구 동향, 액체 생검·분자 아형·AI 데이터 통합.
-[^6-um]: Multi-omics approaches identify novel prognostic biomarkers of autophagy in uveal melanoma. Jin W 외. _Journal of cancer research and clinical oncology_. 2023-12. [실험연구] [DOI 10.1007/s00432-023-05401-x](https://doi.org/10.1007/s00432-023-05401-x) [PMID 37725244](https://pubmed.ncbi.nlm.nih.gov/37725244/) — 자가포식 관련 6가지 예후 바이오마커(HTR2B·EEF1A2·FEZ1·GRID1·HAP1·SPHK1) 발굴.
-[^7-um]: Piloting a Deep Learning Model for Predicting Nuclear BAP1 Immunohistochemical Expression of Uveal Melanoma from Hematoxylin-and-Eosin Sections. Zhang H 외. _Translational vision science & technology_. 2020-09. [실험연구, 204명] [DOI 10.1167/tvst.9.2.50](https://doi.org/10.1167/tvst.9.2.50) [PMID 32953248](https://pubmed.ncbi.nlm.nih.gov/32953248/) — H&E 염색 슬라이드만으로 BAP1 발현 높은 정확도 예측 딥러닝.
+[^9-rb]: Global research landscape of retinoblastoma biomarkers: a multidisciplinary bibliometric analysis based on multiple databases (2005-2025). Peng Z 외. _Journal of cancer research and clinical oncology_. 2025-08-15. [계량서지 분석] [DOI 10.1007/s00432-025-06279-7](https://doi.org/10.1007/s00432-025-06279-7) [PMID 40817296](https://pubmed.ncbi.nlm.nih.gov/40817296/) — 망막모세포종 바이오마커 연구 동향, 액체 생검·분자 아형·AI 데이터 통합.
+[^6-um]: Multi-omics approaches identify novel prognostic biomarkers of autophagy in uveal melanoma. Jin W 외. _Journal of cancer research and clinical oncology_. 2023-12. [다중오믹스 분석(공개 인체 종양 유전체 자료)] [DOI 10.1007/s00432-023-05401-x](https://doi.org/10.1007/s00432-023-05401-x) [PMID 37725244](https://pubmed.ncbi.nlm.nih.gov/37725244/) — 자가포식 관련 6가지 예후 바이오마커(HTR2B·EEF1A2·FEZ1·GRID1·HAP1·SPHK1) 발굴.
+[^7-um]: Piloting a Deep Learning Model for Predicting Nuclear BAP1 Immunohistochemical Expression of Uveal Melanoma from Hematoxylin-and-Eosin Sections. Zhang H 외. _Translational vision science & technology_. 2020-09. [인체 조직 대상 실험연구, 184례(학습 140·검증 44)] [DOI 10.1167/tvst.9.2.50](https://doi.org/10.1167/tvst.9.2.50) [PMID 32953248](https://pubmed.ncbi.nlm.nih.gov/32953248/) — H&E 염색 슬라이드만으로 BAP1 발현 높은 정확도 예측 딥러닝.
 [^10-rb]: 망막모세포종에 대한 일차 및 대안 경로를 통한 동맥 내 화학요법의 안구 보존 결과: 인도네시아 단일 기관 경험. Pandelaki J 외. _Journal of the Korean Society of Radiology_. 2026-07. [관찰연구, 24명] [DOI 10.3348/jksr.2025.0133](https://doi.org/10.3348/jksr.2025.0133) [PMID 42568904](https://pubmed.ncbi.nlm.nih.gov/42568904/) — 동맥 내 화학요법 양호한 안구 보존율·안전성.
-[^27-um]: Melanoma of the Choroid and Ciliary Body in Children: Remission of Metastatic Melanoma of the Choroid After Treatment With Chemotherapy and Immune Checkpoint Inhibition. Tüller P 외. _Pediatric blood & cancer_. 2026-02. [증례 보고, 12명] [DOI 10.1002/pbc.32147](https://doi.org/10.1002/pbc.32147) [PMID 41189077](https://pubmed.ncbi.nlm.nih.gov/41189077/) — 전이성 소아 맥락막 흑색종 화학요법+면역관문억제제 순차 투여 완전 관해.
-[^31-um]: Coexisting Macular Hole and Uveal Melanoma: A Case Series and Literature Review. Kim Y 외. _Korean journal of ophthalmology_. 2025-04. [증례 보고, 17명] [DOI 10.3341/kjo.2024.0104](https://doi.org/10.3341/kjo.2024.0104) [PMID 40007195](https://pubmed.ncbi.nlm.nih.gov/40007195/) — 포도막 흑색종 약 1% 황반원공 동반.
+[^27-um]: Melanoma of the Choroid and Ciliary Body in Children: Remission of Metastatic Melanoma of the Choroid After Treatment With Chemotherapy and Immune Checkpoint Inhibition. Tüller P 외. _Pediatric blood & cancer_. 2026-02. [증례 시리즈(독일·오스트리아 후향 분석), 12명] [DOI 10.1002/pbc.32147](https://doi.org/10.1002/pbc.32147) [PMID 41189077](https://pubmed.ncbi.nlm.nih.gov/41189077/) — 전이성 소아 맥락막 흑색종 화학요법+면역관문억제제 순차 투여 완전 관해.
+[^31-um]: Coexisting Macular Hole and Uveal Melanoma: A Case Series and Literature Review. Kim Y 외. _Korean journal of ophthalmology_. 2025-04. [증례 시리즈 및 문헌 고찰, 17명(신규 5·문헌 12)] [DOI 10.3341/kjo.2024.0104](https://doi.org/10.3341/kjo.2024.0104) [PMID 40007195](https://pubmed.ncbi.nlm.nih.gov/40007195/) — 포도막 흑색종 약 1% 황반원공 동반.
 [^10-um]: A Rare Case of Paraneoplastic Raynaud's Phenomenon and Uveal Melanoma. Vasari L 외. _Acta dermatovenerologica Croatica_. 2025-09. [증례 보고, 1명] [PMID 41804625](https://pubmed.ncbi.nlm.nih.gov/41804625/) — 포도막 흑색종 부종양 증후군 레이노 현상.
-[^35-um]: Identification of 5 microRNA biomarkers associated with the prognosis of uveal melanoma. Sun Y 외. _Medicine_. 2022-09-02. [실험연구] [DOI 10.1097/md.0000000000030366](https://doi.org/10.1097/md.0000000000030366) — 5종 microRNA 기반 위험 지표 예후 예측.
+[^35-um]: Identification of 5 microRNA biomarkers associated with the prognosis of uveal melanoma. Sun Y 외. _Medicine_. 2022-09-02. [생물정보학 분석(TCGA)] [DOI 10.1097/MD.0000000000030366](https://doi.org/10.1097/MD.0000000000030366) [PMID 36107591](https://pubmed.ncbi.nlm.nih.gov/36107591/) — TCGA 자료를 WGCNA·LASSO Cox 회귀로 분석해 hsa-miR-513a-5p·miR-506-3p·miR-508-3p·miR-140-3p·miR-103a-2-5p 5종을 통합한 위험 지표가 독립적 예후 인자임을 제시. 전향 검증은 이루어지지 않았다.
 [^cinv1]: Acupuncture for chemotherapy-induced nausea and vomiting. _Supportive care in cancer_. [임상시험·메타분석 다수] — 오심구토 침구 중재 임상시험 20건·메타분석 9건·체계적 고찰 8건, 내관(PC6) 자침 효과 근거.
 [^cinv2]: Acupuncture for chemotherapy-induced nausea and vomiting. _Journal of clinical oncology_. [임상시험] — 오심구토 침구 내관(PC6) 자침 효과, 임상시험 다수.
 [^cp1]: Acupuncture for cancer pain. _Medicine·Acupuncture & Electro-Therapeutics Research_. [메타분석 18건·체계적 고찰 20건·임상시험 26건] — 암성통증 침구 합곡(LI4)·태충(LR3) 통증 강도 감소·아편유사제 절감.
