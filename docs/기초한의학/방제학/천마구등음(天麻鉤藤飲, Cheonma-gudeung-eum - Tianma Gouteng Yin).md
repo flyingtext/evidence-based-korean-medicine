@@ -186,7 +186,7 @@
 
 ### 5-8. 침구 요법과의 비교·병용 (감별 참고)
 
-침구 치료 역시 간양상항형 고혈압에서 다수 연구되었다. 침 치료의 임상시험(56명),[^76] 개합추기(開闔樞機) 침법과 양약 병용의 RCT(96명),[^77] 이침(耳鍼) 요법의 취혈 원칙 문헌분석,[^80] 전극·레이저 자극과 음악치료 병용 연구(126명)[^79] 등이 있다. 이러한 침구 근거는 천마구등음과 경쟁 관계가 아니라 **변증이 같은 환자에서 방약과 침구를 병용하는 통합 전략** 의 근거로 활용될 수 있다. 다만 침구 단독 연구는 한의학 방제 임상시험과 별도 근거체계이므로, 문서 인용 시 방제 근거와 혼동하지 않도록 주의한다.[^78]
+침구 치료 역시 간양상항형 고혈압에서 다수 연구되었다. 개합추기(開闔樞機) 침법과 양약 병용의 RCT(96명),[^77] 이침(耳鍼) 요법의 취혈 원칙 문헌분석,[^80] 전극·레이저 자극과 음악치료 병용 연구(126명)[^79] 등이 있다. 이와 별도로 침 치료 단독의 강압 효과를 56명 규모로 검증하려는 시험이 계획서 단계로 공개되어 있으나 결과는 보고되지 않았다.[^76] 이러한 침구 근거는 천마구등음과 경쟁 관계가 아니라 **변증이 같은 환자에서 방약과 침구를 병용하는 통합 전략** 의 근거로 활용될 수 있다. 다만 침구 단독 연구는 한의학 방제 임상시험과 별도 근거체계이므로, 문서 인용 시 방제 근거와 혼동하지 않도록 주의한다.[^78]
 
 > 이 절의 근거는 임상 틀이지 동일 근거수준의 권고가 아니다. 연구 규모가 작거나(20~300명대) 프로토콜 단계인 것이 다수이므로, 개별 연구의 근거 수준을 확인하고 활용해야 한다. **변증 없는 관행적 처방·취혈은 근거에 부합하지 않는다.**
 
@@ -281,7 +281,7 @@
 
 **Q7. 침구 치료와 병용해도 되나?**
 
-간양상항형 고혈압에 대한 침구 치료의 임상 근거도 축적되어 있어,[^76][^77] 변증이 일치하는 환자에서 방약과 침구를 병용하는 통합 전략을 고려할 수 있다. 다만 침구 근거와 방제 근거는 별도의 연구체계이므로 혼동하지 않아야 한다.
+간양상항형 고혈압에 대한 침구 치료의 임상 근거도 축적되어 있어,[^77][^79] 변증이 일치하는 환자에서 방약과 침구를 병용하는 통합 전략을 고려할 수 있다. 다만 침구 근거와 방제 근거는 별도의 연구체계이므로 혼동하지 않아야 한다.
 
 **Q8. 임신부·수유부에게 사용할 수 있나?**
 
@@ -373,7 +373,7 @@
 [^73]: Pathogenesis and therapeutic potential of traditional Chinese medicine intervention in hypertension combined with insomnia. Zhang Z 외. _Journal of ethnopharmacology_. 2027-01-10. [문헌 고찰] [DOI 10.1016/j.jep.2026.122186](https://doi.org/10.1016/j.jep.2026.122186) [PMID 42456906](https://pubmed.ncbi.nlm.nih.gov/42456906/) — 고혈압-불면 동반질환에 대한 중의학적 개입의 병태생리·치료 잠재력을 정리한 문헌고찰.
 [^74]: Treatment of Masked Hypertension with a Chinese Herbal Formula: A Randomized, Placebo-Controlled Trial. Zhang DY 외. _Circulation_. 2020-11-10. [임상시험] [DOI 10.1161/CIRCULATIONAHA.120.046685](https://doi.org/10.1161/CIRCULATIONAHA.120.046685) [PMID 33019798](https://pubmed.ncbi.nlm.nih.gov/33019798/) — 가면 고혈압 환자를 대상으로 한 무작위 위약대조 단일맹검 임상시험(Circulation)에서 천마구등 포함 한방 복합처방의 혈압 강하 유효성을 확인.
 [^75]: TREATMENT OF MASKED HYPERTENSION WITH A CHINESE HERBAL FORMULA: A RANDOMIZED, PLACEBO‐CONTROLLED, SINGLE‐BLIND TRIAL. Dongyan Zhang 외. _Journal of Hypertension_. 2021-04. [임상시험] [DOI 10.1097/01.hjh.0000748868.43737.d2](https://doi.org/10.1097/01.hjh.0000748868.43737.d2) — 동일 가면 고혈압 임상시험의 Journal of Hypertension 게재본으로 결과의 재현성을 뒷받침.
-[^76]: Clinical study on acupuncture treatment of hypertension with hyperactivity of liver yang. Wu J 외. _Medicine_. 2021-04-30. [임상시험] [DOI 10.1097/MD.0000000000025668](https://doi.org/10.1097/MD.0000000000025668) [PMID 33907133](https://pubmed.ncbi.nlm.nih.gov/33907133/) — 침 치료가 간양상항형 고혈압에 미치는 효과를 평가한 임상시험으로 방제요법과의 병용·감별 참고 자료.
+[^76]: Clinical study on acupuncture treatment of hypertension with hyperactivity of liver yang. Wu J 외. _Medicine_. 2021-04-30. [임상시험 계획서, 56명 계획] [DOI 10.1097/MD.0000000000025668](https://doi.org/10.1097/MD.0000000000025668) [PMID 33907133](https://pubmed.ncbi.nlm.nih.gov/33907133/) — 간양상항형 고혈압 환자 56명을 양약 단독군과 양약+침 병용군에 배정해 24시간 활동혈압을 4주간 평가하도록 설계된 무작위대조시험의 계획서. PubMed 출판유형은 Clinical Trial Protocol이며 결과는 보고되지 않았다.
 [^77]: Opening-closing six-qi acupuncture combined with western medication for primary hypertension of liver yang hyperactivity:a randomized controlled trial. Tao H 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2024-03-12. [임상시험] [DOI 10.13703/j.0255-2930.20230604-k0001](https://doi.org/10.13703/j.0255-2930.20230604-k0001) [PMID 38467500](https://pubmed.ncbi.nlm.nih.gov/38467500/) — 개합추기(開闔樞機) 침법과 양약 병용이 간양상항형 원발성 고혈압에 미치는 효과를 평가한 RCT.
 [^78]: [Observation on therapeutic effect of acupuncture in the treatment of German hypertension patients]. Chen NY 외. _Zhen ci yan jiu = Acupuncture research_. 2010-12. [임상시험] [PMID 21375023](https://pubmed.ncbi.nlm.nih.gov/21375023/) — 침구 치료가 고혈압 환자에 미치는 효과를 평가한 임상시험으로 비약물 요법과의 병용 가능성을 시사.
 [^79]: [Clinical research on electrode and laser stimulating on acupoint combined with music therapy for grade 1 essential hypertension]. Hong HY 외. _Zhongguo zhen jiu = Chinese acupuncture & moxibustion_. 2014-07. [임상시험] [PMID 25233668](https://pubmed.ncbi.nlm.nih.gov/25233668/) — 전극·레이저 경혈자극과 음악치료 병용이 1급 본태성 고혈압에 미치는 효과를 평가한 임상시험.
