@@ -441,7 +441,7 @@
 - 구척(狗脊, Cibotii Rhizoma) — (작성 예정)
 - 익지인(益智仁, Alpiniae Oxyphyllae Fructus) — (작성 예정)
 - 골쇄보(骨碎補, Drynariae Rhizoma) — (작성 예정)
-- 동충하초(冬蟲夏草, Cordyceps) — (작성 예정)
+- 동충하초(冬蟲夏草, Cordyceps) — **작성됨** (KHP 등재명 `Cordyceps`. KHP 기원은 *Cordyceps sinensis*(현 *Ophiocordyceps sinensis*) 단일 종·박쥐나방과 유충 기생. 눈꽃동충하초 *C. militaris*와 균사체 발효물은 KHP 「동충하초」의 기원이 아니며 문서에서 근거를 분리해 서술)
 - 합개(蛤蚧, Gecko) — (작성 예정)
 - 호도인(胡桃仁, Juglandis Semen) — (작성 예정)
 - 자하거(紫河車, Hominis Placenta) — (작성 예정)
